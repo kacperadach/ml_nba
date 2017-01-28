@@ -1,0 +1,1578 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBobby Simmons LAC 04/20/2005 LAC @ NOH W 41 14 6 19 31.6 0 0 - 2 2 100.0 4 7 11 1 2 1 0 1 18
+p2
+aVMikki Moore LAC 04/20/2005 LAC @ NOH W 23 10 4 7 57.1 1 1 100.0 1 2 50.0 3 1 4 0 0 0 2 4 14
+p3
+aVMarko Jaric LAC 04/20/2005 LAC @ NOH W 34 14 6 14 42.9 2 3 66.7 0 0 - 2 4 6 9 0 0 1 1 11
+p4
+aVMamadou N'diaye LAC 04/20/2005 LAC @ NOH W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p5
+aVShaun Livingston LAC 04/20/2005 LAC @ NOH W 36 17 7 13 53.8 0 0 - 3 3 100.0 2 6 8 3 1 0 5 1 16
+p6
+aVElton Brand LAC 04/20/2005 LAC @ NOH W 39 18 5 14 35.7 0 0 - 8 13 61.5 4 10 14 1 1 2 3 3 11
+p7
+aVQuinton Ross LAC 04/20/2005 LAC @ NOH W 23 5 2 5 40.0 0 1 0.0 1 2 50.0 2 2 4 0 2 1 0 1 -7
+p8
+aVRick Brunson LAC 04/20/2005 LAC @ NOH W 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -5
+p9
+aVZeljko Rebraca LAC 04/20/2005 LAC @ NOH W 28 8 4 8 50.0 0 0 - 0 0 - 1 6 7 1 2 1 0 4 2
+p10
+aVChris Wilcox LAC 04/18/2005 LAC @ HOU L 13 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 0 2 0 0 3 -3
+p11
+aVMarko Jaric LAC 04/18/2005 LAC @ HOU L 39 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 5 0 0 4 2 -21
+p12
+aVElton Brand LAC 04/18/2005 LAC @ HOU L 38 36 15 19 78.9 0 0 - 6 9 66.7 1 5 6 2 0 1 0 5 -23
+p13
+aVLionel Chalmers LAC 04/18/2005 LAC @ HOU L 10 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p14
+aVMikki Moore LAC 04/18/2005 LAC @ HOU L 34 14 3 6 50.0 0 0 - 8 8 100.0 3 2 5 3 1 1 0 3 -19
+p15
+aVMamadou N'diaye LAC 04/18/2005 LAC @ HOU L 9 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -3
+p16
+aVBobby Simmons LAC 04/18/2005 LAC @ HOU L 22 9 3 10 30.0 0 1 0.0 3 4 75.0 0 1 1 1 3 0 4 3 -7
+p17
+aVQuinton Ross LAC 04/18/2005 LAC @ HOU L 31 6 2 5 40.0 0 0 - 2 2 100.0 1 5 6 2 1 1 0 2 -28
+p18
+aVShaun Livingston LAC 04/18/2005 LAC @ HOU L 35 10 5 10 50.0 0 0 - 0 0 - 0 3 3 7 2 0 2 0 -17
+p19
+aVRick Brunson LAC 04/18/2005 LAC @ HOU L 9 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p20
+aVMikki Moore LAC 04/16/2005 LAC vs. NOH W 23 10 5 7 71.4 0 0 - 0 0 - 1 3 4 1 0 1 1 4 7
+p21
+aVShaun Livingston LAC 04/16/2005 LAC vs. NOH W 32 7 3 9 33.3 0 0 - 1 2 50.0 0 2 2 8 1 0 2 4 -1
+p22
+aVElton Brand LAC 04/16/2005 LAC vs. NOH W 41 20 8 15 53.3 0 0 - 4 6 66.7 4 3 7 5 2 0 1 2 11
+p23
+aVMamadou N'diaye LAC 04/16/2005 LAC vs. NOH W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -7
+p24
+aVBobby Simmons LAC 04/16/2005 LAC vs. NOH W 38 21 8 14 57.1 0 0 - 5 6 83.3 0 6 6 2 2 0 1 2 5
+p25
+aVRick Brunson LAC 04/16/2005 LAC vs. NOH W 23 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 7 0 0 2 1 7
+p26
+aVQuinton Ross LAC 04/16/2005 LAC vs. NOH W 18 9 3 5 60.0 0 0 - 3 6 50.0 0 0 0 0 1 0 1 3 3
+p27
+aVMarko Jaric LAC 04/16/2005 LAC vs. NOH W 34 15 6 11 54.5 0 2 0.0 3 3 100.0 0 3 3 6 2 0 3 4 1
+p28
+aVZeljko Rebraca LAC 04/16/2005 LAC vs. NOH W 24 8 3 5 60.0 0 0 - 2 2 100.0 3 6 9 0 1 2 3 6 -1
+p29
+aVElton Brand LAC 04/15/2005 LAC @ PHX L 38 22 10 21 47.6 0 0 - 2 5 40.0 4 5 9 2 1 0 2 4 -14
+p30
+aVRick Brunson LAC 04/15/2005 LAC @ PHX L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p31
+aVChris Wilcox LAC 04/15/2005 LAC @ PHX L 12 8 3 7 42.9 0 0 - 2 2 100.0 3 3 6 0 1 0 0 0 5
+p32
+aVChris Kaman LAC 04/15/2005 LAC @ PHX L 32 21 10 14 71.4 0 0 - 1 2 50.0 1 6 7 1 0 5 2 2 -7
+p33
+aVMarko Jaric LAC 04/15/2005 LAC @ PHX L 37 12 5 14 35.7 1 6 16.7 1 1 100.0 1 5 6 5 1 0 1 1 -5
+p34
+aVShaun Livingston LAC 04/15/2005 LAC @ PHX L 38 2 1 8 12.5 0 0 - 0 0 - 1 4 5 11 0 0 7 4 -5
+p35
+aVBobby Simmons LAC 04/15/2005 LAC @ PHX L 39 14 7 12 58.3 0 0 - 0 0 - 1 3 4 2 2 0 3 3 -7
+p36
+aVQuinton Ross LAC 04/15/2005 LAC @ PHX L 21 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 2 0 1 1 -6
+p37
+aVZeljko Rebraca LAC 04/15/2005 LAC @ PHX L 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 2
+p38
+aVChris Wilcox LAC 04/12/2005 LAC vs. UTA W 12 7 3 3 100.0 0 0 - 1 3 33.3 1 2 3 0 0 1 2 2 -1
+p39
+aVMarko Jaric LAC 04/12/2005 LAC vs. UTA W 39 20 8 17 47.1 2 6 33.3 2 5 40.0 1 2 3 7 5 1 1 5 16
+p40
+aVMikki Moore LAC 04/12/2005 LAC vs. UTA W 15 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -12
+p41
+aVChris Kaman LAC 04/12/2005 LAC vs. UTA W 32 10 4 10 40.0 0 0 - 2 2 100.0 6 4 10 1 0 5 2 4 1
+p42
+aVQuinton Ross LAC 04/12/2005 LAC vs. UTA W 17 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 1 0 2 1 -2
+p43
+aVRick Brunson LAC 04/12/2005 LAC vs. UTA W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 4 0 0 2 1 -10
+p44
+aVShaun Livingston LAC 04/12/2005 LAC vs. UTA W 36 15 6 12 50.0 0 0 - 3 7 42.9 1 3 4 10 1 0 0 0 20
+p45
+aVLionel Chalmers LAC 04/12/2005 LAC vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p46
+aVElton Brand LAC 04/12/2005 LAC vs. UTA W 37 25 9 16 56.3 0 0 - 7 9 77.8 2 8 10 4 1 4 3 2 30
+p47
+aVBobby Simmons LAC 04/12/2005 LAC vs. UTA W 35 9 4 17 23.5 0 3 0.0 1 2 50.0 2 5 7 1 2 0 1 2 5
+p48
+aVChris Kaman LAC 04/09/2005 LAC vs. SAS L 35 20 6 12 50.0 0 0 - 8 10 80.0 2 8 10 2 1 3 3 4 3
+p49
+aVQuinton Ross LAC 04/09/2005 LAC vs. SAS L 23 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 3 1 0 0 2 0
+p50
+aVElton Brand LAC 04/09/2005 LAC vs. SAS L 32 20 10 18 55.6 0 0 - 0 0 - 1 5 6 3 0 2 3 6 -7
+p51
+aVRick Brunson LAC 04/09/2005 LAC vs. SAS L 19 2 1 2 50.0 0 0 - 0 0 - 1 2 3 3 0 0 1 0 4
+p52
+aVMarko Jaric LAC 04/09/2005 LAC vs. SAS L 50 12 5 7 71.4 2 4 50.0 0 1 0.0 0 4 4 7 0 1 6 4 -6
+p53
+aVChris Wilcox LAC 04/09/2005 LAC vs. SAS L 41 21 9 13 69.2 0 0 - 3 4 75.0 0 7 7 1 0 1 3 6 7
+p54
+aVShaun Livingston LAC 04/09/2005 LAC vs. SAS L 46 18 5 9 55.6 0 0 - 8 9 88.9 0 5 5 7 1 0 2 4 -8
+p55
+aVCorey Maggette LAC 04/09/2005 LAC vs. SAS L 36 24 6 10 60.0 1 1 100.0 11 13 84.6 1 3 4 4 1 0 3 6 7
+p56
+aVMikki Moore LAC 04/09/2005 LAC vs. SAS L 8 2 1 3 33.3 0 0 - 0 2 0.0 0 2 2 0 0 0 1 4 -5
+p57
+aVMamadou N'diaye LAC 04/06/2005 LAC @ SAS L 16 6 3 5 60.0 0 0 - 0 2 0.0 3 3 6 1 0 2 0 4 4
+p58
+aVLionel Chalmers LAC 04/06/2005 LAC @ SAS L 6 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 9
+p59
+aVShaun Livingston LAC 04/06/2005 LAC @ SAS L 30 8 4 8 50.0 0 0 - 0 0 - 1 2 3 3 1 0 5 3 -5
+p60
+aVCorey Maggette LAC 04/06/2005 LAC @ SAS L 38 23 6 16 37.5 3 5 60.0 8 9 88.9 1 4 5 5 1 0 3 2 -14
+p61
+aVMarko Jaric LAC 04/06/2005 LAC @ SAS L 26 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 1 0 2 2 0 -7
+p62
+aVElton Brand LAC 04/06/2005 LAC @ SAS L 37 13 4 13 30.8 0 0 - 5 5 100.0 6 3 9 1 1 0 5 2 -10
+p63
+aVRick Brunson LAC 04/06/2005 LAC @ SAS L 25 9 4 11 36.4 1 1 100.0 0 0 - 0 4 4 1 2 0 1 1 -10
+p64
+aVQuinton Ross LAC 04/06/2005 LAC @ SAS L 19 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 1 0 0 0 2 0
+p65
+aVChris Wilcox LAC 04/06/2005 LAC @ SAS L 22 10 4 11 36.4 0 0 - 2 4 50.0 1 7 8 0 0 0 3 1 -2
+p66
+aVMikki Moore LAC 04/06/2005 LAC @ SAS L 21 3 0 2 0.0 0 0 - 3 4 75.0 1 3 4 0 0 2 2 4 -10
+p67
+aVMikki Moore LAC 04/05/2005 LAC @ CHA W 21 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 4 -3
+p68
+aVMamadou N'diaye LAC 04/05/2005 LAC @ CHA W 10 4 1 5 20.0 0 1 0.0 2 3 66.7 2 0 2 0 0 0 0 4 0
+p69
+aVMarko Jaric LAC 04/05/2005 LAC @ CHA W 31 2 1 4 25.0 0 0 - 0 2 0.0 0 4 4 2 0 0 2 2 -7
+p70
+aVQuinton Ross LAC 04/05/2005 LAC @ CHA W 20 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 3 -5
+p71
+aVRick Brunson LAC 04/05/2005 LAC @ CHA W 21 1 0 3 0.0 0 0 - 1 1 100.0 0 1 1 3 0 0 3 1 7
+p72
+aVElton Brand LAC 04/05/2005 LAC @ CHA W 43 27 11 19 57.9 0 0 - 5 6 83.3 3 7 10 2 2 2 3 2 6
+p73
+aVChris Wilcox LAC 04/05/2005 LAC @ CHA W 21 9 3 8 37.5 0 0 - 3 4 75.0 2 6 8 2 0 0 1 4 3
+p74
+aVCorey Maggette LAC 04/05/2005 LAC @ CHA W 40 34 9 20 45.0 1 4 25.0 15 16 93.8 1 5 6 0 3 0 4 5 6
+p75
+aVShaun Livingston LAC 04/05/2005 LAC @ CHA W 33 17 5 12 41.7 0 0 - 7 9 77.8 2 6 8 9 6 1 1 5 3
+p76
+aVElton Brand LAC 04/03/2005 LAC @ ATL W 38 33 13 18 72.2 0 1 0.0 7 10 70.0 2 10 12 3 0 2 0 2 26
+p77
+aVMarko Jaric LAC 04/03/2005 LAC @ ATL W 41 14 6 14 42.9 2 3 66.7 0 0 - 0 4 4 9 0 0 3 2 25
+p78
+aVChris Wilcox LAC 04/03/2005 LAC @ ATL W 29 22 8 13 61.5 0 0 - 6 7 85.7 1 3 4 0 2 2 4 4 19
+p79
+aVShaun Livingston LAC 04/03/2005 LAC @ ATL W 36 6 3 7 42.9 0 0 - 0 0 - 2 1 3 10 0 0 3 4 30
+p80
+aVQuinton Ross LAC 04/03/2005 LAC @ ATL W 13 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 -9
+p81
+aVRick Brunson LAC 04/03/2005 LAC @ ATL W 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 4 2 0 1 1 -7
+p82
+aVMikki Moore LAC 04/03/2005 LAC @ ATL W 23 9 4 6 66.7 0 0 - 1 2 50.0 1 7 8 2 1 1 3 3 2
+p83
+aVCorey Maggette LAC 04/03/2005 LAC @ ATL W 39 25 8 11 72.7 1 1 100.0 8 8 100.0 2 4 6 2 1 0 3 2 21
+p84
+aVMamadou N'diaye LAC 04/03/2005 LAC @ ATL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p85
+aVZeljko Rebraca LAC 04/01/2005 LAC @ DET L 13 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 8
+p86
+aVChris Wilcox LAC 04/01/2005 LAC @ DET L 19 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 0 4 2 -13
+p87
+aVLionel Chalmers LAC 04/01/2005 LAC @ DET L 22 4 1 5 20.0 0 3 0.0 2 2 100.0 0 1 1 2 0 0 3 0 -9
+p88
+aVMarko Jaric LAC 04/01/2005 LAC @ DET L 39 24 10 15 66.7 3 5 60.0 1 2 50.0 0 6 6 4 4 0 4 1 -19
+p89
+aVShaun Livingston LAC 04/01/2005 LAC @ DET L 37 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 6 1 0 2 2 0
+p90
+aVElton Brand LAC 04/01/2005 LAC @ DET L 38 22 8 19 42.1 0 0 - 6 6 100.0 4 7 11 2 1 2 0 4 -1
+p91
+aVRick Brunson LAC 04/01/2005 LAC @ DET L 38 4 2 10 20.0 0 2 0.0 0 0 - 0 3 3 4 3 0 1 1 -15
+p92
+aVMikki Moore LAC 04/01/2005 LAC @ DET L 34 14 7 12 58.3 0 0 - 0 0 - 3 2 5 0 0 0 2 4 -16
+p93
+aVElton Brand LAC 03/30/2005 LAC @ NJN L 26 7 2 6 33.3 0 0 - 3 4 75.0 1 7 8 1 0 2 1 2 -11
+p94
+aVLionel Chalmers LAC 03/30/2005 LAC @ NJN L 14 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 1 0 1 1 -2
+p95
+aVZeljko Rebraca LAC 03/30/2005 LAC @ NJN L 23 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 1 2 1 -4
+p96
+aVCorey Maggette LAC 03/30/2005 LAC @ NJN L 37 17 5 15 33.3 1 4 25.0 6 8 75.0 0 2 2 1 1 0 5 4 -12
+p97
+aVRick Brunson LAC 03/30/2005 LAC @ NJN L 31 13 5 7 71.4 2 2 100.0 1 2 50.0 1 2 3 2 0 0 3 1 -3
+p98
+aVShaun Livingston LAC 03/30/2005 LAC @ NJN L 23 10 3 7 42.9 0 0 - 4 4 100.0 3 1 4 3 1 0 3 2 -18
+p99
+aVChris Wilcox LAC 03/30/2005 LAC @ NJN L 16 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 2 1 0 1 3 -2
+p100
+aVMikki Moore LAC 03/30/2005 LAC @ NJN L 22 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 1 0 2 1 1 -9
+p101
+aVChris Kaman LAC 03/30/2005 LAC @ NJN L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -8
+p102
+aVMarko Jaric LAC 03/30/2005 LAC @ NJN L 40 9 4 11 36.4 1 4 25.0 0 0 - 1 2 3 5 3 0 3 2 -16
+p103
+aVChris Wilcox LAC 03/29/2005 LAC @ CLE L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -4
+p104
+aVCorey Maggette LAC 03/29/2005 LAC @ CLE L 48 26 5 15 33.3 1 4 25.0 15 18 83.3 0 5 5 7 2 0 1 3 -10
+p105
+aVQuinton Ross LAC 03/29/2005 LAC @ CLE L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -6
+p106
+aVZeljko Rebraca LAC 03/29/2005 LAC @ CLE L 12 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 5 -4
+p107
+aVChris Kaman LAC 03/29/2005 LAC @ CLE L 38 18 8 12 66.7 0 0 - 2 3 66.7 3 6 9 4 1 1 4 3 -8
+p108
+aVMarko Jaric LAC 03/29/2005 LAC @ CLE L 27 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 -6
+p109
+aVShaun Livingston LAC 03/29/2005 LAC @ CLE L 25 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 5 0 2 2 3 -10
+p110
+aVMikki Moore LAC 03/29/2005 LAC @ CLE L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p111
+aVElton Brand LAC 03/29/2005 LAC @ CLE L 39 15 7 20 35.0 0 0 - 1 2 50.0 4 8 12 2 2 2 3 0 -4
+p112
+aVRick Brunson LAC 03/29/2005 LAC @ CLE L 28 11 4 6 66.7 3 3 100.0 0 0 - 0 1 1 2 1 0 0 2 -2
+p113
+aVShaun Livingston LAC 03/27/2005 LAC @ MIN L 26 7 2 5 40.0 0 0 - 3 3 100.0 1 3 4 5 0 0 2 4 11
+p114
+aVZeljko Rebraca LAC 03/27/2005 LAC @ MIN L 20 12 6 9 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -11
+p115
+aVChris Kaman LAC 03/27/2005 LAC @ MIN L 30 7 3 7 42.9 0 0 - 1 2 50.0 0 6 6 3 0 0 2 2 -3
+p116
+aVRick Brunson LAC 03/27/2005 LAC @ MIN L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 1 1 0 0
+p117
+aVMikki Moore LAC 03/27/2005 LAC @ MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p118
+aVElton Brand LAC 03/27/2005 LAC @ MIN L 38 25 9 14 64.3 0 0 - 7 9 77.8 3 4 7 2 0 2 4 5 14
+p119
+aVMarko Jaric LAC 03/27/2005 LAC @ MIN L 27 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 4 2 0 2 2 -10
+p120
+aVBobby Simmons LAC 03/27/2005 LAC @ MIN L 36 11 4 8 50.0 1 3 33.3 2 2 100.0 0 7 7 2 0 0 1 1 -5
+p121
+aVCorey Maggette LAC 03/27/2005 LAC @ MIN L 38 14 4 18 22.2 0 4 0.0 6 8 75.0 3 10 13 5 1 0 2 1 12
+p122
+aVQuinton Ross LAC 03/27/2005 LAC @ MIN L 17 2 1 6 16.7 0 0 - 0 0 - 0 3 3 1 1 0 1 1 -17
+p123
+aVChris Kaman LAC 03/25/2005 LAC vs. WAS W 27 8 4 6 66.7 0 0 - 0 0 - 2 11 13 1 0 0 5 3 6
+p124
+aVCorey Maggette LAC 03/25/2005 LAC vs. WAS W 36 26 8 16 50.0 0 2 0.0 10 12 83.3 2 3 5 3 2 0 2 1 -12
+p125
+aVMarko Jaric LAC 03/25/2005 LAC vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 2 3 1
+p126
+aVElton Brand LAC 03/25/2005 LAC vs. WAS W 40 25 10 19 52.6 0 0 - 5 7 71.4 3 7 10 2 1 3 0 3 10
+p127
+aVShaun Livingston LAC 03/25/2005 LAC vs. WAS W 24 3 1 6 16.7 0 0 - 1 2 50.0 0 0 0 4 1 0 3 1 15
+p128
+aVBobby Simmons LAC 03/25/2005 LAC vs. WAS W 38 10 3 14 21.4 2 3 66.7 2 2 100.0 2 6 8 6 1 0 1 3 16
+p129
+aVZeljko Rebraca LAC 03/25/2005 LAC vs. WAS W 25 19 7 9 77.8 0 0 - 5 6 83.3 3 1 4 0 1 0 3 2 2
+p130
+aVQuinton Ross LAC 03/25/2005 LAC vs. WAS W 21 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 1 2 0 1 2 -3
+p131
+aVRick Brunson LAC 03/25/2005 LAC vs. WAS W 21 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 3 0 -8
+p132
+aVMikki Moore LAC 03/25/2005 LAC vs. WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p133
+aVBobby Simmons LAC 03/23/2005 LAC vs. MIL W 21 16 7 10 70.0 2 3 66.7 0 0 - 1 2 3 0 1 1 2 4 -6
+p134
+aVMikki Moore LAC 03/23/2005 LAC vs. MIL W 4 2 0 0 - 0 0 - 2 3 66.7 0 2 2 1 0 0 0 1 5
+p135
+aVRick Brunson LAC 03/23/2005 LAC vs. MIL W 18 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 5 0 0 0 2 14
+p136
+aVQuinton Ross LAC 03/23/2005 LAC vs. MIL W 25 10 5 9 55.6 0 0 - 0 0 - 2 1 3 4 2 0 1 5 -9
+p137
+aVCorey Maggette LAC 03/23/2005 LAC vs. MIL W 36 34 10 15 66.7 4 5 80.0 10 12 83.3 1 1 2 4 0 0 2 2 10
+p138
+aVElton Brand LAC 03/23/2005 LAC vs. MIL W 38 24 11 16 68.8 0 0 - 2 5 40.0 3 7 10 2 1 3 1 4 5
+p139
+aVMarko Jaric LAC 03/23/2005 LAC vs. MIL W 24 6 3 9 33.3 0 4 0.0 0 0 - 0 3 3 4 1 0 1 4 8
+p140
+aVZeljko Rebraca LAC 03/23/2005 LAC vs. MIL W 17 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 4 10
+p141
+aVChris Kaman LAC 03/23/2005 LAC vs. MIL W 32 13 6 9 66.7 0 0 - 1 3 33.3 4 6 10 3 0 1 2 5 3
+p142
+aVShaun Livingston LAC 03/23/2005 LAC vs. MIL W 25 2 1 4 25.0 0 0 - 0 0 - 1 3 4 11 1 0 5 2 0
+p143
+aVBobby Simmons LAC 03/21/2005 LAC vs. POR W 27 15 6 13 46.2 1 2 50.0 2 4 50.0 1 6 7 3 2 1 2 0 8
+p144
+aVShaun Livingston LAC 03/21/2005 LAC vs. POR W 22 6 2 5 40.0 0 0 - 2 3 66.7 1 1 2 3 1 0 3 5 5
+p145
+aVRick Brunson LAC 03/21/2005 LAC vs. POR W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 3 0 1 1 1 2
+p146
+aVCorey Maggette LAC 03/21/2005 LAC vs. POR W 38 22 6 13 46.2 0 3 0.0 10 14 71.4 1 6 7 6 2 0 5 3 11
+p147
+aVZeljko Rebraca LAC 03/21/2005 LAC vs. POR W 16 5 2 7 28.6 0 0 - 1 2 50.0 1 4 5 1 0 3 1 1 -3
+p148
+aVQuinton Ross LAC 03/21/2005 LAC vs. POR W 21 9 4 6 66.7 0 0 - 1 1 100.0 0 2 2 1 1 0 0 4 4
+p149
+aVElton Brand LAC 03/21/2005 LAC vs. POR W 37 22 10 17 58.8 0 0 - 2 4 50.0 2 4 6 0 0 6 0 4 9
+p150
+aVMarko Jaric LAC 03/21/2005 LAC vs. POR W 24 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 6 1 0 1 4 -5
+p151
+aVMikki Moore LAC 03/21/2005 LAC vs. POR W 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -2
+p152
+aVChris Kaman LAC 03/21/2005 LAC vs. POR W 36 10 4 5 80.0 0 0 - 2 2 100.0 3 7 10 2 0 2 0 2 6
+p153
+aVShaun Livingston LAC 03/19/2005 LAC vs. SAC L 27 6 2 7 28.6 0 0 - 2 3 66.7 1 2 3 3 0 0 1 4 -15
+p154
+aVMikki Moore LAC 03/19/2005 LAC vs. SAC L 14 9 3 8 37.5 0 1 0.0 3 3 100.0 3 1 4 0 0 0 1 4 -5
+p155
+aVLionel Chalmers LAC 03/19/2005 LAC vs. SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p156
+aVChris Kaman LAC 03/19/2005 LAC vs. SAC L 35 11 4 11 36.4 0 0 - 3 4 75.0 3 5 8 1 0 3 1 4 -1
+p157
+aVCorey Maggette LAC 03/19/2005 LAC vs. SAC L 46 28 9 21 42.9 0 1 0.0 10 11 90.9 1 11 12 7 0 1 4 3 5
+p158
+aVElton Brand LAC 03/19/2005 LAC vs. SAC L 41 22 10 19 52.6 0 0 - 2 2 100.0 3 5 8 2 0 3 6 4 -1
+p159
+aVRick Brunson LAC 03/19/2005 LAC vs. SAC L 26 4 2 3 66.7 0 0 - 0 0 - 0 3 3 8 0 1 2 2 11
+p160
+aVZeljko Rebraca LAC 03/19/2005 LAC vs. SAC L 14 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 2 1
+p161
+aVBobby Simmons LAC 03/19/2005 LAC vs. SAC L 39 19 5 10 50.0 2 3 66.7 7 8 87.5 1 5 6 2 1 1 2 4 -11
+p162
+aVQuinton Ross LAC 03/19/2005 LAC vs. SAC L 22 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -2
+p163
+aVChris Kaman LAC 03/18/2005 LAC @ DEN L 33 10 5 12 41.7 0 0 - 0 0 - 4 3 7 1 1 0 1 4 -12
+p164
+aVChris Wilcox LAC 03/18/2005 LAC @ DEN L 10 1 0 3 0.0 0 0 - 1 2 50.0 0 4 4 0 2 2 1 1 -10
+p165
+aVMikki Moore LAC 03/18/2005 LAC @ DEN L 26 10 2 2 100.0 0 0 - 6 6 100.0 1 4 5 1 0 1 1 4 -12
+p166
+aVQuinton Ross LAC 03/18/2005 LAC @ DEN L 31 7 2 5 40.0 0 0 - 3 5 60.0 0 0 0 1 0 0 0 2 -12
+p167
+aVKenny Anderson LAC 03/18/2005 LAC @ DEN L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p168
+aVCorey Maggette LAC 03/18/2005 LAC @ DEN L 36 26 6 14 42.9 2 3 66.7 12 14 85.7 0 7 7 1 1 0 2 5 -11
+p169
+aVElton Brand LAC 03/18/2005 LAC @ DEN L 27 6 2 8 25.0 0 0 - 2 2 100.0 3 4 7 2 1 2 1 3 -4
+p170
+aVBobby Simmons LAC 03/18/2005 LAC @ DEN L 26 15 4 11 36.4 3 5 60.0 4 6 66.7 2 1 3 2 1 0 2 4 -12
+p171
+aVRick Brunson LAC 03/18/2005 LAC @ DEN L 23 4 2 9 22.2 0 2 0.0 0 0 - 1 3 4 7 2 0 1 0 -7
+p172
+aVLionel Chalmers LAC 03/18/2005 LAC @ DEN L 22 15 6 9 66.7 1 2 50.0 2 3 66.7 0 0 0 2 3 0 6 4 -13
+p173
+aVQuinton Ross LAC 03/16/2005 LAC vs. ORL W 22 6 3 8 37.5 0 0 - 0 0 - 1 4 5 2 1 1 0 4 0
+p174
+aVBobby Simmons LAC 03/16/2005 LAC vs. ORL W 36 16 6 10 60.0 2 3 66.7 2 2 100.0 1 2 3 3 1 0 3 1 -3
+p175
+aVRick Brunson LAC 03/16/2005 LAC vs. ORL W 33 7 2 6 33.3 2 3 66.7 1 2 50.0 0 3 3 8 0 0 4 3 13
+p176
+aVZeljko Rebraca LAC 03/16/2005 LAC vs. ORL W 16 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 1 0 1 1 0 4
+p177
+aVChris Kaman LAC 03/16/2005 LAC vs. ORL W 28 16 5 10 50.0 0 0 - 6 7 85.7 4 7 11 0 0 3 2 4 3
+p178
+aVCorey Maggette LAC 03/16/2005 LAC vs. ORL W 40 31 9 16 56.3 2 2 100.0 11 15 73.3 1 5 6 8 2 0 4 2 19
+p179
+aVMikki Moore LAC 03/16/2005 LAC vs. ORL W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p180
+aVElton Brand LAC 03/16/2005 LAC vs. ORL W 37 13 4 13 30.8 0 0 - 5 6 83.3 6 6 12 4 2 2 0 5 15
+p181
+aVLionel Chalmers LAC 03/16/2005 LAC vs. ORL W 15 7 3 5 60.0 0 2 0.0 1 1 100.0 1 0 1 2 1 0 0 1 -5
+p182
+aVChris Wilcox LAC 03/16/2005 LAC vs. ORL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p183
+aVChris Wilcox LAC 03/13/2005 LAC vs. CHI W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -9
+p184
+aVZeljko Rebraca LAC 03/13/2005 LAC vs. CHI W 20 4 2 4 50.0 0 0 - 0 1 0.0 2 4 6 2 0 0 1 4 8
+p185
+aVMarko Jaric LAC 03/13/2005 LAC vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p186
+aVCorey Maggette LAC 03/13/2005 LAC vs. CHI W 38 19 6 12 50.0 0 0 - 7 7 100.0 0 3 3 1 2 1 3 2 10
+p187
+aVElton Brand LAC 03/13/2005 LAC vs. CHI W 36 20 7 13 53.8 0 0 - 6 10 60.0 5 6 11 4 0 2 4 2 10
+p188
+aVChris Kaman LAC 03/13/2005 LAC vs. CHI W 25 4 2 7 28.6 0 0 - 0 0 - 2 2 4 2 0 0 1 4 3
+p189
+aVMikki Moore LAC 03/13/2005 LAC vs. CHI W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -4
+p190
+aVBobby Simmons LAC 03/13/2005 LAC vs. CHI W 39 11 3 11 27.3 0 1 0.0 5 7 71.4 2 10 12 5 3 0 1 3 11
+p191
+aVQuinton Ross LAC 03/13/2005 LAC vs. CHI W 18 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -9
+p192
+aVRick Brunson LAC 03/13/2005 LAC vs. CHI W 32 11 4 5 80.0 0 1 0.0 3 4 75.0 0 7 7 8 3 0 3 0 17
+p193
+aVLionel Chalmers LAC 03/13/2005 LAC vs. CHI W 16 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 2 0 0 0 1 -12
+p194
+aVChris Wilcox LAC 03/11/2005 LAC @ SAC L 19 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 2 0 0 0 1 15
+p195
+aVChris Kaman LAC 03/11/2005 LAC @ SAC L 24 13 6 10 60.0 0 0 - 1 3 33.3 3 7 10 1 1 1 2 3 -4
+p196
+aVLionel Chalmers LAC 03/11/2005 LAC @ SAC L 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -11
+p197
+aVQuinton Ross LAC 03/11/2005 LAC @ SAC L 27 12 6 9 66.7 0 0 - 0 0 - 0 2 2 3 1 0 0 0 -2
+p198
+aVRick Brunson LAC 03/11/2005 LAC @ SAC L 35 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 10 3 0 1 2 12
+p199
+aVZeljko Rebraca LAC 03/11/2005 LAC @ SAC L 24 16 7 10 70.0 0 0 - 2 2 100.0 0 4 4 1 1 0 1 2 4
+p200
+aVBobby Simmons LAC 03/11/2005 LAC @ SAC L 41 24 10 17 58.8 0 1 0.0 4 4 100.0 1 5 6 2 0 0 2 4 -5
+p201
+aVElton Brand LAC 03/11/2005 LAC @ SAC L 21 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 2 0 1 2 5 -16
+p202
+aVCorey Maggette LAC 03/11/2005 LAC @ SAC L 35 26 10 22 45.5 1 2 50.0 5 5 100.0 1 9 10 3 0 0 1 2 2
+p203
+aVLionel Chalmers LAC 03/08/2005 LAC @ LAL W 14 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 1 -7
+p204
+aVChris Kaman LAC 03/08/2005 LAC @ LAL W 30 12 6 11 54.5 0 0 - 0 0 - 2 5 7 3 1 0 0 2 21
+p205
+aVCorey Maggette LAC 03/08/2005 LAC @ LAL W 39 30 9 11 81.8 0 1 0.0 12 13 92.3 0 3 3 7 2 0 1 4 20
+p206
+aVZeljko Rebraca LAC 03/08/2005 LAC @ LAL W 9 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 0 -3
+p207
+aVRick Brunson LAC 03/08/2005 LAC @ LAL W 34 10 4 10 40.0 0 1 0.0 2 2 100.0 0 3 3 7 0 0 0 2 16
+p208
+aVBobby Simmons LAC 03/08/2005 LAC @ LAL W 42 16 6 15 40.0 1 2 50.0 3 3 100.0 2 2 4 3 1 0 1 2 12
+p209
+aVElton Brand LAC 03/08/2005 LAC @ LAL W 39 22 8 17 47.1 0 0 - 6 6 100.0 5 10 15 3 1 4 1 3 5
+p210
+aVQuinton Ross LAC 03/08/2005 LAC @ LAL W 15 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -12
+p211
+aVChris Wilcox LAC 03/08/2005 LAC @ LAL W 7 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 2 -8
+p212
+aVMikki Moore LAC 03/08/2005 LAC @ LAL W 10 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 1
+p213
+aVRick Brunson LAC 03/07/2005 LAC vs. MEM L 29 9 4 9 44.4 1 3 33.3 0 0 - 0 4 4 8 1 0 4 1 -6
+p214
+aVLionel Chalmers LAC 03/07/2005 LAC vs. MEM L 13 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 2 1 0 0 0 9
+p215
+aVKenny Anderson LAC 03/07/2005 LAC vs. MEM L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 3 -6
+p216
+aVElton Brand LAC 03/07/2005 LAC vs. MEM L 32 17 8 11 72.7 0 0 - 1 2 50.0 2 4 6 3 0 1 2 4 1
+p217
+aVQuinton Ross LAC 03/07/2005 LAC vs. MEM L 21 9 4 6 66.7 0 0 - 1 2 50.0 2 3 5 1 0 0 0 3 10
+p218
+aVZeljko Rebraca LAC 03/07/2005 LAC vs. MEM L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p219
+aVChris Kaman LAC 03/07/2005 LAC vs. MEM L 19 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 4 0
+p220
+aVBobby Simmons LAC 03/07/2005 LAC vs. MEM L 39 19 9 18 50.0 1 3 33.3 0 0 - 1 5 6 5 2 0 1 3 -14
+p221
+aVMikki Moore LAC 03/07/2005 LAC vs. MEM L 18 4 1 5 20.0 0 0 - 2 2 100.0 3 5 8 2 0 0 1 1 2
+p222
+aVChris Wilcox LAC 03/07/2005 LAC vs. MEM L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 4 -9
+p223
+aVCorey Maggette LAC 03/07/2005 LAC vs. MEM L 41 37 11 18 61.1 2 3 66.7 13 16 81.3 1 5 6 5 0 0 3 5 5
+p224
+aVQuinton Ross LAC 03/05/2005 LAC vs. DEN L 24 9 4 5 80.0 0 0 - 1 2 50.0 0 2 2 4 1 1 2 2 -12
+p225
+aVMikki Moore LAC 03/05/2005 LAC vs. DEN L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 2 1 -3
+p226
+aVChris Wilcox LAC 03/05/2005 LAC vs. DEN L 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 2
+p227
+aVZeljko Rebraca LAC 03/05/2005 LAC vs. DEN L 11 7 2 2 100.0 0 0 - 3 4 75.0 1 2 3 2 0 1 1 2 -5
+p228
+aVLionel Chalmers LAC 03/05/2005 LAC vs. DEN L 9 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 1 -16
+p229
+aVRick Brunson LAC 03/05/2005 LAC vs. DEN L 30 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 9 2 0 2 1 0
+p230
+aVCorey Maggette LAC 03/05/2005 LAC vs. DEN L 39 10 3 14 21.4 0 2 0.0 4 4 100.0 2 6 8 1 0 0 2 3 -13
+p231
+aVChris Kaman LAC 03/05/2005 LAC vs. DEN L 31 13 6 10 60.0 0 0 - 1 2 50.0 0 7 7 1 0 0 3 2 -15
+p232
+aVElton Brand LAC 03/05/2005 LAC vs. DEN L 33 17 6 14 42.9 0 0 - 5 6 83.3 5 5 10 1 1 1 1 3 -3
+p233
+aVKenny Anderson LAC 03/05/2005 LAC vs. DEN L 9 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 0
+p234
+aVBobby Simmons LAC 03/05/2005 LAC vs. DEN L 40 18 7 17 41.2 1 4 25.0 3 4 75.0 4 2 6 4 2 0 1 2 -15
+p235
+aVChris Kaman LAC 03/02/2005 LAC vs. DAL W 11 2 1 1 100.0 0 0 - 0 0 - 2 2 4 1 0 0 2 4 2
+p236
+aVQuinton Ross LAC 03/02/2005 LAC vs. DAL W 27 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 3 0 2 3 1 10
+p237
+aVChris Wilcox LAC 03/02/2005 LAC vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -2
+p238
+aVLionel Chalmers LAC 03/02/2005 LAC vs. DAL W 21 4 1 5 20.0 0 3 0.0 2 2 100.0 1 1 2 3 1 0 1 1 8
+p239
+aVElton Brand LAC 03/02/2005 LAC vs. DAL W 36 19 7 12 58.3 0 0 - 5 6 83.3 4 6 10 2 2 0 1 3 -9
+p240
+aVZeljko Rebraca LAC 03/02/2005 LAC vs. DAL W 14 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 0 0 1 1 2 14
+p241
+aVRick Brunson LAC 03/02/2005 LAC vs. DAL W 22 2 1 3 33.3 0 1 0.0 0 2 0.0 0 2 2 9 1 1 2 4 -1
+p242
+aVBobby Simmons LAC 03/02/2005 LAC vs. DAL W 43 18 7 18 38.9 1 4 25.0 3 3 100.0 0 6 6 1 1 0 0 2 5
+p243
+aVKenny Anderson LAC 03/02/2005 LAC vs. DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 2
+p244
+aVCorey Maggette LAC 03/02/2005 LAC vs. DAL W 35 34 10 17 58.8 0 5 0.0 14 16 87.5 1 7 8 3 1 0 2 5 10
+p245
+aVMikki Moore LAC 03/02/2005 LAC vs. DAL W 23 12 4 8 50.0 0 0 - 4 4 100.0 4 5 9 1 0 0 1 4 6
+p246
+aVQuinton Ross LAC 02/28/2005 LAC @ UTA L 21 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 2 0 1 1 1 4
+p247
+aVCorey Maggette LAC 02/28/2005 LAC @ UTA L 38 16 3 8 37.5 0 0 - 10 10 100.0 1 4 5 1 2 0 4 2 -2
+p248
+aVChris Kaman LAC 02/28/2005 LAC @ UTA L 31 7 3 8 37.5 0 0 - 1 2 50.0 3 2 5 1 0 3 5 3 -12
+p249
+aVRick Brunson LAC 02/28/2005 LAC @ UTA L 31 8 4 7 57.1 0 0 - 0 0 - 0 2 2 5 1 0 1 3 -5
+p250
+aVChris Wilcox LAC 02/28/2005 LAC @ UTA L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 1
+p251
+aVBobby Simmons LAC 02/28/2005 LAC @ UTA L 37 17 6 17 35.3 2 2 100.0 3 3 100.0 0 1 1 1 3 0 2 4 -4
+p252
+aVLionel Chalmers LAC 02/28/2005 LAC @ UTA L 17 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 4
+p253
+aVElton Brand LAC 02/28/2005 LAC @ UTA L 33 10 4 13 30.8 0 0 - 2 3 66.7 7 1 8 3 0 2 0 4 -6
+p254
+aVMikki Moore LAC 02/28/2005 LAC @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p255
+aVZeljko Rebraca LAC 02/28/2005 LAC @ UTA L 26 12 4 5 80.0 0 0 - 4 5 80.0 2 5 7 2 0 1 0 4 11
+p256
+aVChris Kaman LAC 02/27/2005 LAC vs. ATL W 30 14 6 9 66.7 0 0 - 2 2 100.0 3 7 10 3 0 0 4 1 -4
+p257
+aVCorey Maggette LAC 02/27/2005 LAC vs. ATL W 34 25 6 13 46.2 1 1 100.0 12 12 100.0 0 3 3 2 2 0 2 3 -3
+p258
+aVElton Brand LAC 02/27/2005 LAC vs. ATL W 41 12 4 10 40.0 0 0 - 4 4 100.0 3 10 13 4 0 3 2 4 7
+p259
+aVRick Brunson LAC 02/27/2005 LAC vs. ATL W 29 9 2 8 25.0 1 2 50.0 4 4 100.0 1 1 2 6 2 0 2 0 -10
+p260
+aVQuinton Ross LAC 02/27/2005 LAC vs. ATL W 29 7 1 1 100.0 0 0 - 5 8 62.5 2 4 6 4 3 0 0 2 -3
+p261
+aVZeljko Rebraca LAC 02/27/2005 LAC vs. ATL W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p262
+aVMikki Moore LAC 02/27/2005 LAC vs. ATL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p263
+aVChris Wilcox LAC 02/27/2005 LAC vs. ATL W 8 9 4 4 100.0 0 0 - 1 4 25.0 1 0 1 0 0 0 0 1 15
+p264
+aVBobby Simmons LAC 02/27/2005 LAC vs. ATL W 34 24 9 17 52.9 2 2 100.0 4 6 66.7 1 4 5 6 2 0 1 5 21
+p265
+aVLionel Chalmers LAC 02/27/2005 LAC vs. ATL W 19 9 3 6 50.0 2 3 66.7 1 2 50.0 0 1 1 3 0 0 0 0 16
+p266
+aVRick Brunson LAC 02/24/2005 LAC vs. MIN W 33 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 10 1 0 1 0 9
+p267
+aVCorey Maggette LAC 02/24/2005 LAC vs. MIN W 38 23 5 10 50.0 0 0 - 13 16 81.3 1 5 6 4 0 0 4 1 7
+p268
+aVChris Kaman LAC 02/24/2005 LAC vs. MIN W 30 13 5 13 38.5 0 0 - 3 6 50.0 6 4 10 2 1 1 2 2 9
+p269
+aVBobby Simmons LAC 02/24/2005 LAC vs. MIN W 37 15 6 16 37.5 0 2 0.0 3 5 60.0 2 6 8 3 1 1 2 3 15
+p270
+aVMikki Moore LAC 02/24/2005 LAC vs. MIN W 9 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 2 0 0 1 -3
+p271
+aVElton Brand LAC 02/24/2005 LAC vs. MIN W 41 24 12 24 50.0 0 0 - 0 0 - 3 4 7 2 0 3 1 3 11
+p272
+aVLionel Chalmers LAC 02/24/2005 LAC vs. MIN W 15 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 2 0 1 1 -3
+p273
+aVQuinton Ross LAC 02/24/2005 LAC vs. MIN W 21 1 0 4 0.0 0 0 - 1 2 50.0 1 3 4 4 0 0 0 1 -10
+p274
+aVZeljko Rebraca LAC 02/24/2005 LAC vs. MIN W 16 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -5
+p275
+aVQuinton Ross LAC 02/23/2005 LAC @ PHX L 26 15 5 12 41.7 0 0 - 5 6 83.3 3 1 4 3 1 0 0 4 -3
+p276
+aVChris Kaman LAC 02/23/2005 LAC @ PHX L 22 10 4 10 40.0 0 0 - 2 4 50.0 3 3 6 0 0 0 1 4 -12
+p277
+aVMaurice Baker LAC 02/23/2005 LAC @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p278
+aVCorey Maggette LAC 02/23/2005 LAC @ PHX L 38 20 9 22 40.9 0 2 0.0 2 3 66.7 2 6 8 5 2 0 2 3 -10
+p279
+aVZeljko Rebraca LAC 02/23/2005 LAC @ PHX L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -5
+p280
+aVElton Brand LAC 02/23/2005 LAC @ PHX L 33 17 7 14 50.0 0 0 - 3 5 60.0 7 5 12 3 0 0 4 1 -10
+p281
+aVMikki Moore LAC 02/23/2005 LAC @ PHX L 19 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -9
+p282
+aVBobby Simmons LAC 02/23/2005 LAC @ PHX L 34 23 9 18 50.0 1 3 33.3 4 5 80.0 1 2 3 1 0 0 2 2 -23
+p283
+aVChris Wilcox LAC 02/23/2005 LAC @ PHX L 4 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -1
+p284
+aVRick Brunson LAC 02/23/2005 LAC @ PHX L 35 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 4 3 0 2 2 -11
+p285
+aVLionel Chalmers LAC 02/23/2005 LAC @ PHX L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -2
+p286
+aVCorey Maggette LAC 02/16/2005 LAC @ MIA L 40 23 8 21 38.1 1 4 25.0 6 8 75.0 2 5 7 3 1 0 4 2 -4
+p287
+aVRick Brunson LAC 02/16/2005 LAC @ MIA L 34 10 4 8 50.0 0 2 0.0 2 2 100.0 1 1 2 8 0 0 2 3 -9
+p288
+aVChris Wilcox LAC 02/16/2005 LAC @ MIA L 18 10 4 7 57.1 0 0 - 2 2 100.0 2 3 5 1 1 0 1 3 -6
+p289
+aVElton Brand LAC 02/16/2005 LAC @ MIA L 32 18 5 13 38.5 0 0 - 8 8 100.0 7 6 13 1 1 2 2 2 -5
+p290
+aVMikki Moore LAC 02/16/2005 LAC @ MIA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p291
+aVLionel Chalmers LAC 02/16/2005 LAC @ MIA L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -9
+p292
+aVZeljko Rebraca LAC 02/16/2005 LAC @ MIA L 18 7 3 4 75.0 0 0 - 1 1 100.0 1 1 2 0 0 2 3 4 -19
+p293
+aVQuinton Ross LAC 02/16/2005 LAC @ MIA L 24 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 4 -8
+p294
+aVChris Kaman LAC 02/16/2005 LAC @ MIA L 24 10 4 9 44.4 0 0 - 2 2 100.0 1 5 6 0 1 0 1 3 -10
+p295
+aVBobby Simmons LAC 02/16/2005 LAC @ MIA L 33 12 4 10 40.0 1 2 50.0 3 3 100.0 0 0 0 2 0 0 2 2 -22
+p296
+aVRick Brunson LAC 02/15/2005 LAC @ ORL L 21 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 2 1 0 3 1 -13
+p297
+aVShaun Livingston LAC 02/15/2005 LAC @ ORL L 24 7 3 9 33.3 0 0 - 1 2 50.0 1 2 3 5 3 0 3 2 4
+p298
+aVQuinton Ross LAC 02/15/2005 LAC @ ORL L 28 9 2 5 40.0 0 0 - 5 6 83.3 2 1 3 1 0 1 2 4 -14
+p299
+aVLionel Chalmers LAC 02/15/2005 LAC @ ORL L 6 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 2
+p300
+aVElton Brand LAC 02/15/2005 LAC @ ORL L 36 21 7 12 58.3 0 0 - 7 11 63.6 6 4 10 2 3 2 3 2 0
+p301
+aVZeljko Rebraca LAC 02/15/2005 LAC @ ORL L 22 9 4 8 50.0 0 0 - 1 2 50.0 2 3 5 1 0 0 1 2 1
+p302
+aVBobby Simmons LAC 02/15/2005 LAC @ ORL L 37 20 7 17 41.2 3 3 100.0 3 4 75.0 2 1 3 5 1 0 0 4 -3
+p303
+aVMikki Moore LAC 02/15/2005 LAC @ ORL L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p304
+aVChris Kaman LAC 02/15/2005 LAC @ ORL L 31 14 6 9 66.7 0 0 - 2 4 50.0 0 3 3 0 1 0 3 2 -5
+p305
+aVCorey Maggette LAC 02/15/2005 LAC @ ORL L 28 12 3 10 30.0 0 0 - 6 8 75.0 2 8 10 0 2 0 1 4 3
+p306
+aVShaun Livingston LAC 02/13/2005 LAC @ TOR L 26 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 9 0 0 3 0 -2
+p307
+aVChris Wilcox LAC 02/13/2005 LAC @ TOR L 7 5 1 2 50.0 0 0 - 3 4 75.0 1 4 5 1 0 0 1 4 2
+p308
+aVChris Kaman LAC 02/13/2005 LAC @ TOR L 20 8 3 10 30.0 0 0 - 2 3 66.7 2 6 8 0 0 0 0 3 3
+p309
+aVElton Brand LAC 02/13/2005 LAC @ TOR L 38 26 10 19 52.6 0 0 - 6 8 75.0 6 5 11 4 1 4 3 1 11
+p310
+aVQuinton Ross LAC 02/13/2005 LAC @ TOR L 18 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 3 0 0 0 3 3
+p311
+aVRick Brunson LAC 02/13/2005 LAC @ TOR L 29 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 3 1 0 0 1 -5
+p312
+aVCorey Maggette LAC 02/13/2005 LAC @ TOR L 32 17 5 14 35.7 1 2 50.0 6 7 85.7 0 6 6 3 0 0 1 1 -12
+p313
+aVBobby Simmons LAC 02/13/2005 LAC @ TOR L 42 21 10 15 66.7 1 3 33.3 0 0 - 1 4 5 2 1 0 1 4 8
+p314
+aVMikki Moore LAC 02/13/2005 LAC @ TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -13
+p315
+aVZeljko Rebraca LAC 02/13/2005 LAC @ TOR L 24 14 5 9 55.6 0 0 - 4 4 100.0 0 6 6 0 1 0 0 3 -10
+p316
+aVChris Wilcox LAC 02/11/2005 LAC @ WAS L 10 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 1
+p317
+aVChris Kaman LAC 02/11/2005 LAC @ WAS L 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 1 1 4 -15
+p318
+aVCorey Maggette LAC 02/11/2005 LAC @ WAS L 29 20 6 17 35.3 1 6 16.7 7 7 100.0 0 3 3 3 0 1 1 2 4
+p319
+aVMarko Jaric LAC 02/11/2005 LAC @ WAS L 34 6 2 5 40.0 1 3 33.3 1 2 50.0 1 4 5 7 1 0 4 2 -7
+p320
+aVRick Brunson LAC 02/11/2005 LAC @ WAS L 29 5 2 6 33.3 1 2 50.0 0 2 0.0 2 2 4 13 3 0 2 2 6
+p321
+aVElton Brand LAC 02/11/2005 LAC @ WAS L 35 15 7 15 46.7 0 0 - 1 2 50.0 6 6 12 0 0 2 3 4 -4
+p322
+aVQuinton Ross LAC 02/11/2005 LAC @ WAS L 21 2 1 4 25.0 0 0 - 0 2 0.0 0 4 4 5 2 1 2 4 -9
+p323
+aVZeljko Rebraca LAC 02/11/2005 LAC @ WAS L 28 14 6 7 85.7 0 0 - 2 2 100.0 4 7 11 1 0 3 1 0 7
+p324
+aVBobby Simmons LAC 02/11/2005 LAC @ WAS L 38 24 9 18 50.0 1 1 100.0 5 6 83.3 1 1 2 1 2 0 3 5 2
+p325
+aVElton Brand LAC 02/09/2005 LAC @ BOS L 42 30 11 23 47.8 0 0 - 8 11 72.7 3 7 10 4 2 3 1 2 3
+p326
+aVBobby Simmons LAC 02/09/2005 LAC @ BOS L 31 10 4 8 50.0 1 3 33.3 1 1 100.0 1 0 1 1 2 0 3 4 -12
+p327
+aVRick Brunson LAC 02/09/2005 LAC @ BOS L 19 6 2 4 50.0 2 3 66.7 0 0 - 1 1 2 2 2 0 3 1 7
+p328
+aVMarko Jaric LAC 02/09/2005 LAC @ BOS L 32 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 4 3 0 2 4 -10
+p329
+aVChris Kaman LAC 02/09/2005 LAC @ BOS L 27 6 3 7 42.9 0 0 - 0 0 - 2 2 4 4 1 0 3 0 -13
+p330
+aVZeljko Rebraca LAC 02/09/2005 LAC @ BOS L 12 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 1 1 2 7
+p331
+aVMikki Moore LAC 02/09/2005 LAC @ BOS L 12 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 3 -9
+p332
+aVQuinton Ross LAC 02/09/2005 LAC @ BOS L 35 6 2 6 33.3 0 0 - 2 4 50.0 1 4 5 2 2 0 2 2 -6
+p333
+aVCorey Maggette LAC 02/09/2005 LAC @ BOS L 30 21 4 12 33.3 0 3 0.0 13 16 81.3 4 4 8 4 2 0 1 4 8
+p334
+aVBobby Simmons LAC 02/06/2005 LAC @ PHI L 46 27 9 17 52.9 1 2 50.0 8 9 88.9 0 3 3 3 2 0 2 4 -5
+p335
+aVMarko Jaric LAC 02/06/2005 LAC @ PHI L 30 0 0 2 0.0 0 2 0.0 0 0 - 0 5 5 7 1 0 3 3 1
+p336
+aVRick Brunson LAC 02/06/2005 LAC @ PHI L 33 9 1 4 25.0 1 1 100.0 6 6 100.0 0 2 2 11 0 0 3 0 -1
+p337
+aVZeljko Rebraca LAC 02/06/2005 LAC @ PHI L 22 11 4 5 80.0 0 0 - 3 3 100.0 0 3 3 0 0 0 1 5 -3
+p338
+aVElton Brand LAC 02/06/2005 LAC @ PHI L 31 21 7 14 50.0 0 0 - 7 7 100.0 0 5 5 1 2 3 3 6 -7
+p339
+aVMikki Moore LAC 02/06/2005 LAC @ PHI L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 1 0 2 3 7
+p340
+aVChris Kaman LAC 02/06/2005 LAC @ PHI L 35 18 7 11 63.6 0 0 - 4 5 80.0 1 1 2 2 0 0 2 4 2
+p341
+aVQuinton Ross LAC 02/06/2005 LAC @ PHI L 30 15 6 12 50.0 1 1 100.0 2 2 100.0 3 3 6 4 2 0 3 5 -4
+p342
+aVMarko Jaric LAC 02/04/2005 LAC @ MIL L 38 10 4 13 30.8 2 4 50.0 0 0 - 0 2 2 12 1 0 0 1 6
+p343
+aVQuinton Ross LAC 02/04/2005 LAC @ MIL L 40 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 2 0 1 0 3 -2
+p344
+aVElton Brand LAC 02/04/2005 LAC @ MIL L 36 31 13 21 61.9 0 0 - 5 5 100.0 5 4 9 1 0 2 0 4 5
+p345
+aVRick Brunson LAC 02/04/2005 LAC @ MIL L 20 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 3 0 0 2 1 -8
+p346
+aVMikki Moore LAC 02/04/2005 LAC @ MIL L 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -4
+p347
+aVChris Kaman LAC 02/04/2005 LAC @ MIL L 35 8 4 15 26.7 0 0 - 0 0 - 2 4 6 0 1 0 0 3 3
+p348
+aVBobby Simmons LAC 02/04/2005 LAC @ MIL L 46 21 8 17 47.1 2 4 50.0 3 4 75.0 2 4 6 5 2 1 1 2 -2
+p349
+aVZeljko Rebraca LAC 02/04/2005 LAC @ MIL L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -8
+p350
+aVQuinton Ross LAC 02/03/2005 LAC @ MEM W 29 6 1 5 20.0 0 0 - 4 4 100.0 2 1 3 3 0 0 1 3 -15
+p351
+aVRick Brunson LAC 02/03/2005 LAC @ MEM W 29 8 2 3 66.7 0 1 0.0 4 6 66.7 0 2 2 6 1 1 1 1 11
+p352
+aVElton Brand LAC 02/03/2005 LAC @ MEM W 40 17 6 13 46.2 0 0 - 5 5 100.0 3 8 11 2 0 2 4 5 8
+p353
+aVBobby Simmons LAC 02/03/2005 LAC @ MEM W 41 26 10 12 83.3 1 1 100.0 5 7 71.4 1 3 4 1 1 0 0 0 10
+p354
+aVMikki Moore LAC 02/03/2005 LAC @ MEM W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p355
+aVChris Kaman LAC 02/03/2005 LAC @ MEM W 24 10 5 7 71.4 0 0 - 0 2 0.0 2 4 6 0 0 1 2 5 -14
+p356
+aVZeljko Rebraca LAC 02/03/2005 LAC @ MEM W 28 14 4 6 66.7 0 0 - 6 8 75.0 0 5 5 1 0 1 4 3 14
+p357
+aVMarko Jaric LAC 02/03/2005 LAC @ MEM W 41 25 9 14 64.3 4 6 66.7 3 4 75.0 0 3 3 6 1 0 3 3 6
+p358
+aVRick Brunson LAC 01/31/2005 LAC vs. NYK W 21 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 10 2 0 0 2 -4
+p359
+aVQuinton Ross LAC 01/31/2005 LAC vs. NYK W 40 14 7 14 50.0 0 0 - 0 0 - 3 2 5 2 1 1 1 2 8
+p360
+aVMarko Jaric LAC 01/31/2005 LAC vs. NYK W 35 15 6 16 37.5 2 5 40.0 1 2 50.0 1 4 5 7 6 1 0 1 10
+p361
+aVZeljko Rebraca LAC 01/31/2005 LAC vs. NYK W 20 6 3 4 75.0 0 0 - 0 0 - 0 4 4 1 0 0 1 0 -7
+p362
+aVChris Kaman LAC 01/31/2005 LAC vs. NYK W 34 18 8 13 61.5 0 0 - 2 2 100.0 5 5 10 1 0 0 3 2 5
+p363
+aVBobby Simmons LAC 01/31/2005 LAC vs. NYK W 40 15 7 16 43.8 0 1 0.0 1 1 100.0 3 7 10 3 2 0 2 3 16
+p364
+aVMikki Moore LAC 01/31/2005 LAC vs. NYK W 8 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -5
+p365
+aVElton Brand LAC 01/31/2005 LAC vs. NYK W 42 24 10 19 52.6 0 0 - 4 7 57.1 4 4 8 2 1 5 2 3 12
+p366
+aVRick Brunson LAC 01/29/2005 LAC vs. GSW W 44 17 6 11 54.5 5 8 62.5 0 0 - 1 6 7 8 0 0 2 1 12
+p367
+aVElton Brand LAC 01/29/2005 LAC vs. GSW W 31 27 12 18 66.7 0 0 - 3 3 100.0 5 3 8 0 0 2 2 2 12
+p368
+aVChris Kaman LAC 01/29/2005 LAC vs. GSW W 21 7 3 10 30.0 0 0 - 1 2 50.0 5 4 9 0 1 0 0 2 2
+p369
+aVMikki Moore LAC 01/29/2005 LAC vs. GSW W 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 13
+p370
+aVQuinton Ross LAC 01/29/2005 LAC vs. GSW W 19 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 3 4 -1
+p371
+aVChris Wilcox LAC 01/29/2005 LAC vs. GSW W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -11
+p372
+aVLionel Chalmers LAC 01/29/2005 LAC vs. GSW W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p373
+aVZeljko Rebraca LAC 01/29/2005 LAC vs. GSW W 30 19 6 9 66.7 0 0 - 7 7 100.0 6 10 16 1 0 2 2 1 9
+p374
+aVBobby Simmons LAC 01/29/2005 LAC vs. GSW W 42 11 3 15 20.0 0 2 0.0 5 6 83.3 4 2 6 2 2 0 2 3 8
+p375
+aVMarko Jaric LAC 01/29/2005 LAC vs. GSW W 39 10 4 12 33.3 1 4 25.0 1 2 50.0 0 2 2 12 3 1 1 2 14
+p376
+aVCorey Maggette LAC 01/28/2005 LAC @ POR L 26 8 4 6 66.7 0 0 - 0 0 - 0 3 3 2 2 0 4 2 -13
+p377
+aVElton Brand LAC 01/28/2005 LAC @ POR L 38 26 8 20 40.0 0 0 - 10 14 71.4 6 6 12 2 1 3 0 2 -4
+p378
+aVRick Brunson LAC 01/28/2005 LAC @ POR L 26 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 7 0 0 1 1 3
+p379
+aVChris Kaman LAC 01/28/2005 LAC @ POR L 24 6 3 6 50.0 0 0 - 0 0 - 3 4 7 0 1 0 4 2 1
+p380
+aVQuinton Ross LAC 01/28/2005 LAC @ POR L 36 10 4 7 57.1 0 0 - 2 3 66.7 1 6 7 1 2 1 0 2 -2
+p381
+aVMarko Jaric LAC 01/28/2005 LAC @ POR L 25 9 3 7 42.9 0 2 0.0 3 3 100.0 0 0 0 9 0 1 0 4 -5
+p382
+aVZeljko Rebraca LAC 01/28/2005 LAC @ POR L 26 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 2 1 5 3
+p383
+aVBobby Simmons LAC 01/28/2005 LAC @ POR L 39 16 7 26 26.9 0 0 - 2 2 100.0 3 4 7 1 3 0 1 1 -3
+p384
+aVMarko Jaric LAC 01/26/2005 LAC vs. LAL W 24 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 11 3 0 0 1 10
+p385
+aVCorey Maggette LAC 01/26/2005 LAC vs. LAL W 25 20 7 14 50.0 2 4 50.0 4 5 80.0 2 3 5 1 1 0 4 2 15
+p386
+aVRick Brunson LAC 01/26/2005 LAC vs. LAL W 27 6 3 10 30.0 0 0 - 0 0 - 0 5 5 8 2 0 1 1 6
+p387
+aVMikki Moore LAC 01/26/2005 LAC vs. LAL W 21 4 1 4 25.0 0 0 - 2 4 50.0 0 2 2 1 0 1 2 3 -4
+p388
+aVQuinton Ross LAC 01/26/2005 LAC vs. LAL W 32 8 3 8 37.5 0 0 - 2 3 66.7 3 1 4 2 0 1 0 4 10
+p389
+aVChris Kaman LAC 01/26/2005 LAC vs. LAL W 38 14 6 14 42.9 0 0 - 2 4 50.0 8 8 16 2 1 5 5 2 14
+p390
+aVElton Brand LAC 01/26/2005 LAC vs. LAL W 37 28 10 22 45.5 0 0 - 8 13 61.5 6 8 14 1 0 1 2 2 22
+p391
+aVBobby Simmons LAC 01/26/2005 LAC vs. LAL W 36 21 8 10 80.0 1 2 50.0 4 4 100.0 0 3 3 4 1 0 2 3 7
+p392
+aVDarrick Martin LAC 01/24/2005 LAC vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p393
+aVMarko Jaric LAC 01/24/2005 LAC vs. DAL W 23 9 3 7 42.9 2 5 40.0 1 2 50.0 0 0 0 4 1 1 2 1 9
+p394
+aVMikki Moore LAC 01/24/2005 LAC vs. DAL W 16 7 2 6 33.3 0 0 - 3 4 75.0 0 2 2 1 0 1 2 2 7
+p395
+aVChris Kaman LAC 01/24/2005 LAC vs. DAL W 35 13 6 10 60.0 0 0 - 1 2 50.0 4 8 12 3 1 2 3 4 -4
+p396
+aVRick Brunson LAC 01/24/2005 LAC vs. DAL W 44 12 4 11 36.4 4 7 57.1 0 0 - 0 6 6 9 4 0 4 0 6
+p397
+aVElton Brand LAC 01/24/2005 LAC vs. DAL W 40 23 9 16 56.3 0 0 - 5 6 83.3 4 8 12 3 3 1 2 5 13
+p398
+aVQuinton Ross LAC 01/24/2005 LAC vs. DAL W 32 12 5 11 45.5 0 0 - 2 2 100.0 2 4 6 4 0 0 1 3 10
+p399
+aVBobby Simmons LAC 01/24/2005 LAC vs. DAL W 41 21 8 16 50.0 0 0 - 5 5 100.0 1 4 5 2 1 0 1 3 -2
+p400
+aVZeljko Rebraca LAC 01/24/2005 LAC vs. DAL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 11
+p401
+aVChris Kaman LAC 01/22/2005 LAC @ NOH L 37 13 6 12 50.0 0 0 - 1 2 50.0 1 3 4 0 1 2 2 3 -4
+p402
+aVQuinton Ross LAC 01/22/2005 LAC @ NOH L 43 13 4 9 44.4 0 0 - 5 7 71.4 1 6 7 2 1 1 1 3 6
+p403
+aVDarrick Martin LAC 01/22/2005 LAC @ NOH L 12 5 2 7 28.6 1 4 25.0 0 0 - 1 1 2 3 0 0 0 1 -2
+p404
+aVRick Brunson LAC 01/22/2005 LAC @ NOH L 38 5 2 7 28.6 0 1 0.0 1 2 50.0 0 0 0 12 0 1 2 3 -8
+p405
+aVMikki Moore LAC 01/22/2005 LAC @ NOH L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -2
+p406
+aVZeljko Rebraca LAC 01/22/2005 LAC @ NOH L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 0 0 1 0 -2
+p407
+aVBobby Simmons LAC 01/22/2005 LAC @ NOH L 44 17 7 15 46.7 1 2 50.0 2 2 100.0 0 8 8 6 2 0 2 3 -3
+p408
+aVElton Brand LAC 01/22/2005 LAC @ NOH L 43 28 12 17 70.6 0 0 - 4 7 57.1 3 8 11 3 1 1 3 3 0
+p409
+aVChris Kaman LAC 01/20/2005 LAC @ DAL L 36 8 4 10 40.0 0 0 - 0 0 - 1 3 4 2 0 1 0 4 -12
+p410
+aVZeljko Rebraca LAC 01/20/2005 LAC @ DAL L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -11
+p411
+aVLionel Chalmers LAC 01/20/2005 LAC @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p412
+aVMamadou N'diaye LAC 01/20/2005 LAC @ DAL L 2 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -2
+p413
+aVMikki Moore LAC 01/20/2005 LAC @ DAL L 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -8
+p414
+aVBobby Simmons LAC 01/20/2005 LAC @ DAL L 44 16 5 13 38.5 0 0 - 6 7 85.7 5 7 12 1 1 0 1 2 -19
+p415
+aVDarrick Martin LAC 01/20/2005 LAC @ DAL L 12 1 0 3 0.0 0 1 0.0 1 2 50.0 1 0 1 1 0 0 3 2 -19
+p416
+aVCorey Maggette LAC 01/20/2005 LAC @ DAL L 29 14 4 11 36.4 0 1 0.0 6 6 100.0 3 2 5 3 0 0 2 3 -26
+p417
+aVElton Brand LAC 01/20/2005 LAC @ DAL L 39 24 9 20 45.0 0 0 - 6 7 85.7 5 9 14 4 0 2 3 3 -5
+p418
+aVRick Brunson LAC 01/20/2005 LAC @ DAL L 32 4 2 10 20.0 0 4 0.0 0 0 - 1 3 4 6 2 1 4 1 0
+p419
+aVQuinton Ross LAC 01/20/2005 LAC @ DAL L 25 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -5
+p420
+aVElton Brand LAC 01/19/2005 LAC @ SAS L 39 14 4 18 22.2 0 0 - 6 9 66.7 8 10 18 4 1 3 1 4 0
+p421
+aVBobby Simmons LAC 01/19/2005 LAC @ SAS L 40 10 3 7 42.9 0 0 - 4 5 80.0 1 7 8 3 0 1 2 2 3
+p422
+aVQuinton Ross LAC 01/19/2005 LAC @ SAS L 19 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 4 -12
+p423
+aVCorey Maggette LAC 01/19/2005 LAC @ SAS L 37 20 7 16 43.8 1 3 33.3 5 5 100.0 1 4 5 0 2 0 5 3 7
+p424
+aVDarrick Martin LAC 01/19/2005 LAC @ SAS L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 1 0 2 1 -6
+p425
+aVZeljko Rebraca LAC 01/19/2005 LAC @ SAS L 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -7
+p426
+aVRick Brunson LAC 01/19/2005 LAC @ SAS L 30 8 2 6 33.3 2 3 66.7 2 2 100.0 0 0 0 4 1 0 0 0 5
+p427
+aVChris Kaman LAC 01/19/2005 LAC @ SAS L 41 21 8 19 42.1 0 0 - 5 8 62.5 3 11 14 2 0 2 2 4 5
+p428
+aVBobby Simmons LAC 01/17/2005 LAC vs. SAC L 29 12 5 11 45.5 0 1 0.0 2 3 66.7 2 6 8 3 0 0 1 5 16
+p429
+aVElton Brand LAC 01/17/2005 LAC vs. SAC L 39 24 10 22 45.5 0 0 - 4 4 100.0 6 4 10 4 1 4 3 2 -2
+p430
+aVDarrick Martin LAC 01/17/2005 LAC vs. SAC L 27 3 0 4 0.0 0 1 0.0 3 4 75.0 1 2 3 3 1 0 0 4 -1
+p431
+aVZeljko Rebraca LAC 01/17/2005 LAC vs. SAC L 19 7 2 3 66.7 0 0 - 3 3 100.0 0 5 5 0 0 0 1 3 6
+p432
+aVQuinton Ross LAC 01/17/2005 LAC vs. SAC L 16 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 2 0 1 2 0
+p433
+aVKerry Kittles LAC 01/17/2005 LAC vs. SAC L 11 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -10
+p434
+aVChris Kaman LAC 01/17/2005 LAC vs. SAC L 38 18 7 20 35.0 0 0 - 4 5 80.0 7 8 15 2 1 3 2 3 -16
+p435
+aVRick Brunson LAC 01/17/2005 LAC vs. SAC L 24 4 2 8 25.0 0 1 0.0 0 0 - 0 5 5 3 2 0 1 2 -10
+p436
+aVCorey Maggette LAC 01/17/2005 LAC vs. SAC L 37 10 2 17 11.8 0 3 0.0 6 7 85.7 2 3 5 1 0 0 1 4 -13
+p437
+aVCorey Maggette LAC 01/15/2005 LAC @ SAC L 26 14 4 13 30.8 1 1 100.0 5 6 83.3 1 2 3 3 1 0 4 1 -2
+p438
+aVElton Brand LAC 01/15/2005 LAC @ SAC L 39 25 10 24 41.7 0 0 - 5 6 83.3 10 4 14 3 0 0 4 2 -3
+p439
+aVKerry Kittles LAC 01/15/2005 LAC @ SAC L 27 8 3 9 33.3 2 2 100.0 0 0 - 0 7 7 2 1 0 1 1 -3
+p440
+aVChris Kaman LAC 01/15/2005 LAC @ SAC L 37 23 11 17 64.7 0 0 - 1 1 100.0 3 4 7 1 0 0 4 2 -3
+p441
+aVDarrick Martin LAC 01/15/2005 LAC @ SAC L 18 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 3 2 0 0 1 7
+p442
+aVZeljko Rebraca LAC 01/15/2005 LAC @ SAC L 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 1 1 3 0
+p443
+aVRick Brunson LAC 01/15/2005 LAC @ SAC L 31 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 6 1 0 1 2 -11
+p444
+aVBobby Simmons LAC 01/15/2005 LAC @ SAC L 36 15 5 9 55.6 0 0 - 5 7 71.4 3 8 11 2 1 0 2 1 -6
+p445
+aVQuinton Ross LAC 01/15/2005 LAC @ SAC L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 1 1
+p446
+aVKerry Kittles LAC 01/14/2005 LAC vs. MIA W 28 8 3 7 42.9 1 2 50.0 1 2 50.0 0 6 6 1 1 0 1 3 17
+p447
+aVMamadou N'diaye LAC 01/14/2005 LAC vs. MIA W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 3 -3
+p448
+aVCorey Maggette LAC 01/14/2005 LAC vs. MIA W 41 28 8 22 36.4 1 2 50.0 11 13 84.6 1 9 10 5 0 0 2 4 -18
+p449
+aVElton Brand LAC 01/14/2005 LAC vs. MIA W 53 29 10 18 55.6 0 0 - 9 11 81.8 4 9 13 4 0 2 3 5 -1
+p450
+aVDarrick Martin LAC 01/14/2005 LAC vs. MIA W 33 12 5 12 41.7 2 4 50.0 0 0 - 0 0 0 7 0 0 0 2 19
+p451
+aVZeljko Rebraca LAC 01/14/2005 LAC vs. MIA W 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 1 0 6 0
+p452
+aVQuinton Ross LAC 01/14/2005 LAC vs. MIA W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p453
+aVMikki Moore LAC 01/14/2005 LAC vs. MIA W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 5
+p454
+aVChris Kaman LAC 01/14/2005 LAC vs. MIA W 27 9 4 8 50.0 0 0 - 1 2 50.0 1 9 10 1 1 1 2 6 -1
+p455
+aVBobby Simmons LAC 01/14/2005 LAC vs. MIA W 46 16 8 14 57.1 0 0 - 0 0 - 1 12 13 8 3 0 2 2 5
+p456
+aVRick Brunson LAC 01/14/2005 LAC vs. MIA W 24 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 0 0 2 1 -16
+p457
+aVChris Kaman LAC 01/12/2005 LAC vs. SEA W 16 4 2 9 22.2 0 0 - 0 0 - 1 2 3 0 0 1 2 3 1
+p458
+aVZeljko Rebraca LAC 01/12/2005 LAC vs. SEA W 15 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 0 1 0 0 3 9
+p459
+aVElton Brand LAC 01/12/2005 LAC vs. SEA W 36 19 7 14 50.0 0 0 - 5 7 71.4 1 2 3 2 0 4 1 3 4
+p460
+aVBobby Simmons LAC 01/12/2005 LAC vs. SEA W 31 18 6 13 46.2 0 0 - 6 6 100.0 3 1 4 2 0 1 3 3 9
+p461
+aVDarrick Martin LAC 01/12/2005 LAC vs. SEA W 27 10 4 5 80.0 1 1 100.0 1 2 50.0 0 1 1 3 0 0 0 2 16
+p462
+aVCorey Maggette LAC 01/12/2005 LAC vs. SEA W 43 31 11 19 57.9 2 4 50.0 7 7 100.0 1 9 10 5 3 0 0 3 10
+p463
+aVRick Brunson LAC 01/12/2005 LAC vs. SEA W 21 0 0 3 0.0 0 1 0.0 0 0 - 1 5 6 6 1 0 1 0 -5
+p464
+aVMikki Moore LAC 01/12/2005 LAC vs. SEA W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 5 -5
+p465
+aVKerry Kittles LAC 01/12/2005 LAC vs. SEA W 28 11 5 8 62.5 0 1 0.0 1 3 33.3 0 3 3 1 0 0 0 1 5
+p466
+aVQuinton Ross LAC 01/12/2005 LAC vs. SEA W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 3 0 0 0 11
+p467
+aVMikki Moore LAC 01/11/2005 LAC @ SEA L 13 10 4 4 100.0 0 0 - 2 3 66.7 2 1 3 1 0 1 0 3 4
+p468
+aVQuinton Ross LAC 01/11/2005 LAC @ SEA L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p469
+aVRick Brunson LAC 01/11/2005 LAC @ SEA L 38 15 6 16 37.5 3 7 42.9 0 0 - 1 3 4 4 1 0 3 3 -6
+p470
+aVKerry Kittles LAC 01/11/2005 LAC @ SEA L 23 9 3 8 37.5 1 4 25.0 2 2 100.0 1 4 5 3 2 1 0 1 -3
+p471
+aVElton Brand LAC 01/11/2005 LAC @ SEA L 38 17 6 14 42.9 0 1 0.0 5 7 71.4 6 5 11 2 0 3 1 3 -2
+p472
+aVZeljko Rebraca LAC 01/11/2005 LAC @ SEA L 11 4 2 3 66.7 0 0 - 0 1 0.0 0 3 3 1 0 0 0 0 2
+p473
+aVDarrick Martin LAC 01/11/2005 LAC @ SEA L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 3 1
+p474
+aVCorey Maggette LAC 01/11/2005 LAC @ SEA L 37 20 6 15 40.0 1 3 33.3 7 9 77.8 0 3 3 7 0 1 4 2 -5
+p475
+aVChris Kaman LAC 01/11/2005 LAC @ SEA L 28 10 5 9 55.6 0 0 - 0 0 - 0 8 8 1 0 1 1 4 -11
+p476
+aVBobby Simmons LAC 01/11/2005 LAC @ SEA L 38 14 4 11 36.4 0 0 - 6 7 85.7 3 5 8 2 1 0 2 4 -5
+p477
+aVQuinton Ross LAC 01/08/2005 LAC vs. PHX L 24 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 2 1 1 2 -10
+p478
+aVChris Kaman LAC 01/08/2005 LAC vs. PHX L 21 12 6 9 66.7 0 0 - 0 1 0.0 0 5 5 0 1 0 0 2 -9
+p479
+aVBobby Simmons LAC 01/08/2005 LAC vs. PHX L 35 22 6 17 35.3 0 0 - 10 10 100.0 5 6 11 4 1 0 2 3 -9
+p480
+aVElton Brand LAC 01/08/2005 LAC vs. PHX L 28 13 6 16 37.5 0 0 - 1 1 100.0 5 4 9 3 0 5 2 1 -19
+p481
+aVDarrick Martin LAC 01/08/2005 LAC vs. PHX L 24 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 2 1 0 0 1 0
+p482
+aVZeljko Rebraca LAC 01/08/2005 LAC vs. PHX L 17 7 3 3 100.0 0 0 - 1 2 50.0 3 4 7 0 1 1 2 3 3
+p483
+aVKerry Kittles LAC 01/08/2005 LAC vs. PHX L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -8
+p484
+aVCorey Maggette LAC 01/08/2005 LAC vs. PHX L 36 15 6 18 33.3 0 3 0.0 3 4 75.0 1 5 6 4 2 0 4 2 -14
+p485
+aVRick Brunson LAC 01/08/2005 LAC vs. PHX L 28 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 9 0 0 2 1 -19
+p486
+aVLionel Chalmers LAC 01/08/2005 LAC vs. PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p487
+aVMikki Moore LAC 01/08/2005 LAC vs. PHX L 9 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 2 1 1 1 -3
+p488
+aVZeljko Rebraca LAC 01/05/2005 LAC vs. POR W 14 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 1 2 1 -11
+p489
+aVChris Kaman LAC 01/05/2005 LAC vs. POR W 28 13 5 11 45.5 0 0 - 3 4 75.0 4 6 10 1 0 1 4 2 18
+p490
+aVLionel Chalmers LAC 01/05/2005 LAC vs. POR W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 0
+p491
+aVQuinton Ross LAC 01/05/2005 LAC vs. POR W 19 8 4 7 57.1 0 0 - 0 0 - 3 0 3 1 0 0 0 0 -11
+p492
+aVRick Brunson LAC 01/05/2005 LAC vs. POR W 41 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 14 4 0 2 1 4
+p493
+aVElton Brand LAC 01/05/2005 LAC vs. POR W 38 18 9 17 52.9 0 0 - 0 1 0.0 4 4 8 2 0 1 0 1 7
+p494
+aVBobby Simmons LAC 01/05/2005 LAC vs. POR W 40 22 11 24 45.8 0 1 0.0 0 0 - 5 4 9 1 1 1 1 2 4
+p495
+aVCorey Maggette LAC 01/05/2005 LAC vs. POR W 38 31 8 12 66.7 2 3 66.7 13 13 100.0 0 3 3 4 1 0 2 4 15
+p496
+aVMikki Moore LAC 01/05/2005 LAC vs. POR W 10 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -5
+p497
+aVDarrick Martin LAC 01/05/2005 LAC vs. POR W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 2 -1
+p498
+aVRick Brunson LAC 01/03/2005 LAC @ DEN W 41 18 5 12 41.7 1 3 33.3 7 8 87.5 1 7 8 4 0 0 1 1 -6
+p499
+aVElton Brand LAC 01/03/2005 LAC @ DEN W 40 21 8 15 53.3 0 0 - 5 6 83.3 6 7 13 2 2 3 4 3 -3
+p500
+aVCorey Maggette LAC 01/03/2005 LAC @ DEN W 41 33 8 16 50.0 1 4 25.0 16 19 84.2 1 10 11 3 1 0 2 5 -1
+p501
+aVQuinton Ross LAC 01/03/2005 LAC @ DEN W 16 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 3 0 1 1 2 1
+p502
+aVZeljko Rebraca LAC 01/03/2005 LAC @ DEN W 16 6 3 3 100.0 0 0 - 0 0 - 1 0 1 1 0 1 1 6 5
+p503
+aVMikki Moore LAC 01/03/2005 LAC @ DEN W 22 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 2 0 1 2 2 12
+p504
+aVLionel Chalmers LAC 01/03/2005 LAC @ DEN W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 10
+p505
+aVBobby Simmons LAC 01/03/2005 LAC @ DEN W 40 14 5 15 33.3 1 4 25.0 3 3 100.0 1 3 4 3 3 0 1 4 9
+p506
+aVChris Kaman LAC 01/03/2005 LAC @ DEN W 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 3 -7
+p507
+aVRick Brunson LAC 01/02/2005 LAC vs. PHI W 42 10 3 7 42.9 2 3 66.7 2 2 100.0 1 4 5 9 2 0 6 2 15
+p508
+aVElton Brand LAC 01/02/2005 LAC vs. PHI W 42 26 9 16 56.3 0 0 - 8 8 100.0 0 12 12 2 1 5 3 3 13
+p509
+aVQuinton Ross LAC 01/02/2005 LAC vs. PHI W 20 2 0 4 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 -9
+p510
+aVCorey Maggette LAC 01/02/2005 LAC vs. PHI W 44 26 8 14 57.1 1 2 50.0 9 12 75.0 0 5 5 5 3 0 4 2 12
+p511
+aVLionel Chalmers LAC 01/02/2005 LAC vs. PHI W 6 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 -9
+p512
+aVBobby Simmons LAC 01/02/2005 LAC vs. PHI W 34 10 3 11 27.3 0 1 0.0 4 6 66.7 3 2 5 0 1 1 5 5 6
+p513
+aVZeljko Rebraca LAC 01/02/2005 LAC vs. PHI W 18 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 2 0 3 -1
+p514
+aVChris Wilcox LAC 01/02/2005 LAC vs. PHI W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -8
+p515
+aVChris Kaman LAC 01/02/2005 LAC vs. PHI W 27 13 5 8 62.5 0 0 - 3 3 100.0 2 10 12 0 0 0 3 5 11
+p516
+aVMikki Moore LAC 12/31/2004 LAC vs. SAS L 18 4 2 6 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 3 -11
+p517
+aVChris Wilcox LAC 12/31/2004 LAC vs. SAS L 5 5 2 3 66.7 0 0 - 1 3 33.3 0 1 1 1 0 0 0 0 -2
+p518
+aVChris Kaman LAC 12/31/2004 LAC vs. SAS L 19 4 2 6 33.3 0 0 - 0 0 - 0 4 4 0 0 1 1 0 -17
+p519
+aVCorey Maggette LAC 12/31/2004 LAC vs. SAS L 43 17 4 12 33.3 2 3 66.7 7 8 87.5 1 9 10 2 1 0 2 2 -13
+p520
+aVBobby Simmons LAC 12/31/2004 LAC vs. SAS L 31 10 5 13 38.5 0 3 0.0 0 0 - 2 5 7 1 0 0 4 5 -22
+p521
+aVElton Brand LAC 12/31/2004 LAC vs. SAS L 35 14 6 13 46.2 0 0 - 2 4 50.0 3 5 8 4 0 0 1 3 -4
+p522
+aVQuinton Ross LAC 12/31/2004 LAC vs. SAS L 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -9
+p523
+aVLionel Chalmers LAC 12/31/2004 LAC vs. SAS L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -4
+p524
+aVZeljko Rebraca LAC 12/31/2004 LAC vs. SAS L 23 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 5
+p525
+aVKirk Penney LAC 12/31/2004 LAC vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p526
+aVRick Brunson LAC 12/31/2004 LAC vs. SAS L 39 17 7 13 53.8 2 3 66.7 1 2 50.0 0 6 6 8 1 0 2 5 -17
+p527
+aVMikki Moore LAC 12/29/2004 LAC vs. UTA W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -6
+p528
+aVZeljko Rebraca LAC 12/29/2004 LAC vs. UTA W 19 10 3 5 60.0 0 0 - 4 4 100.0 1 1 2 2 0 2 0 3 3
+p529
+aVRick Brunson LAC 12/29/2004 LAC vs. UTA W 31 7 3 8 37.5 1 1 100.0 0 0 - 0 1 1 8 1 0 2 2 20
+p530
+aVElton Brand LAC 12/29/2004 LAC vs. UTA W 36 23 9 15 60.0 0 0 - 5 8 62.5 3 7 10 3 1 1 2 1 13
+p531
+aVChris Wilcox LAC 12/29/2004 LAC vs. UTA W 10 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 1 0 0 1 5 -4
+p532
+aVBobby Simmons LAC 12/29/2004 LAC vs. UTA W 44 22 8 16 50.0 1 2 50.0 5 6 83.3 2 6 8 1 1 1 0 0 11
+p533
+aVQuinton Ross LAC 12/29/2004 LAC vs. UTA W 8 1 0 0 - 0 0 - 1 4 25.0 1 0 1 1 2 1 0 0 -7
+p534
+aVCorey Maggette LAC 12/29/2004 LAC vs. UTA W 42 22 6 15 40.0 0 1 0.0 10 11 90.9 3 3 6 1 0 1 1 4 16
+p535
+aVKirk Penney LAC 12/29/2004 LAC vs. UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p536
+aVChris Kaman LAC 12/29/2004 LAC vs. UTA W 23 4 2 3 66.7 0 0 - 0 0 - 1 3 4 2 0 2 0 5 16
+p537
+aVLionel Chalmers LAC 12/29/2004 LAC vs. UTA W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 1 -7
+p538
+aVChris Wilcox LAC 12/27/2004 LAC @ MEM L 27 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 1 2 1 1 3 -9
+p539
+aVElton Brand LAC 12/27/2004 LAC @ MEM L 23 8 1 7 14.3 0 0 - 6 7 85.7 4 4 8 0 1 1 4 3 -15
+p540
+aVBobby Simmons LAC 12/27/2004 LAC @ MEM L 36 11 4 11 36.4 0 0 - 3 4 75.0 2 4 6 1 0 0 3 0 -10
+p541
+aVMikki Moore LAC 12/27/2004 LAC @ MEM L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -5
+p542
+aVChris Kaman LAC 12/27/2004 LAC @ MEM L 28 7 3 4 75.0 0 0 - 1 2 50.0 1 6 7 1 1 2 1 4 -10
+p543
+aVKirk Penney LAC 12/27/2004 LAC @ MEM L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p544
+aVZeljko Rebraca LAC 12/27/2004 LAC @ MEM L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -1
+p545
+aVCorey Maggette LAC 12/27/2004 LAC @ MEM L 33 14 3 15 20.0 0 0 - 8 10 80.0 0 4 4 1 2 0 5 1 -23
+p546
+aVQuinton Ross LAC 12/27/2004 LAC @ MEM L 20 2 1 5 20.0 0 0 - 0 0 - 1 3 4 4 0 1 1 1 -8
+p547
+aVLionel Chalmers LAC 12/27/2004 LAC @ MEM L 20 9 3 9 33.3 2 3 66.7 1 2 50.0 1 2 3 2 1 0 0 1 -2
+p548
+aVRick Brunson LAC 12/27/2004 LAC @ MEM L 29 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 4 1 0 1 2 -18
+p549
+aVCorey Maggette LAC 12/26/2004 LAC @ HOU L 33 23 7 14 50.0 1 2 50.0 8 9 88.9 2 5 7 8 0 0 4 2 -8
+p550
+aVZeljko Rebraca LAC 12/26/2004 LAC @ HOU L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p551
+aVKirk Penney LAC 12/26/2004 LAC @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p552
+aVMikki Moore LAC 12/26/2004 LAC @ HOU L 18 8 2 5 40.0 0 0 - 4 5 80.0 3 1 4 0 1 0 0 2 -3
+p553
+aVLionel Chalmers LAC 12/26/2004 LAC @ HOU L 17 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 4 2 0 0 0 -1
+p554
+aVChris Wilcox LAC 12/26/2004 LAC @ HOU L 20 11 5 10 50.0 0 0 - 1 5 20.0 4 1 5 0 1 0 2 1 -6
+p555
+aVRick Brunson LAC 12/26/2004 LAC @ HOU L 31 7 3 7 42.9 0 1 0.0 1 1 100.0 0 2 2 4 1 0 2 0 -16
+p556
+aVQuinton Ross LAC 12/26/2004 LAC @ HOU L 21 5 2 6 33.3 0 0 - 1 2 50.0 0 2 2 0 1 0 0 2 -6
+p557
+aVBobby Simmons LAC 12/26/2004 LAC @ HOU L 39 6 3 13 23.1 0 1 0.0 0 0 - 1 4 5 4 4 1 1 4 -19
+p558
+aVChris Kaman LAC 12/26/2004 LAC @ HOU L 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 1 3 3 -4
+p559
+aVElton Brand LAC 12/26/2004 LAC @ HOU L 30 11 5 11 45.5 0 0 - 1 4 25.0 2 1 3 2 1 1 0 1 -14
+p560
+aVBobby Simmons LAC 12/21/2004 LAC vs. NOH W 50 30 12 25 48.0 1 4 25.0 5 6 83.3 1 3 4 5 2 0 2 2 11
+p561
+aVElton Brand LAC 12/21/2004 LAC vs. NOH W 49 23 10 15 66.7 0 0 - 3 6 50.0 2 11 13 3 1 2 2 2 7
+p562
+aVQuinton Ross LAC 12/21/2004 LAC vs. NOH W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 1
+p563
+aVRick Brunson LAC 12/21/2004 LAC vs. NOH W 44 18 6 14 42.9 4 8 50.0 2 2 100.0 1 5 6 10 1 0 3 3 6
+p564
+aVChris Kaman LAC 12/21/2004 LAC vs. NOH W 27 5 2 3 66.7 0 0 - 1 2 50.0 3 5 8 0 2 3 2 3 3
+p565
+aVChris Wilcox LAC 12/21/2004 LAC vs. NOH W 14 2 1 3 33.3 0 0 - 0 2 0.0 2 3 5 1 0 0 0 1 0
+p566
+aVLionel Chalmers LAC 12/21/2004 LAC vs. NOH W 44 8 3 12 25.0 1 6 16.7 1 2 50.0 1 2 3 6 0 0 0 2 8
+p567
+aVMikki Moore LAC 12/21/2004 LAC vs. NOH W 31 12 4 6 66.7 0 0 - 4 5 80.0 2 4 6 1 0 2 2 4 9
+p568
+aVMarko Jaric LAC 12/19/2004 LAC vs. MEM L 42 6 3 8 37.5 0 2 0.0 0 2 0.0 1 3 4 6 2 2 1 2 -10
+p569
+aVRick Brunson LAC 12/19/2004 LAC vs. MEM L 23 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 4 1 0 2 1 12
+p570
+aVChris Wilcox LAC 12/19/2004 LAC vs. MEM L 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 2
+p571
+aVMikki Moore LAC 12/19/2004 LAC vs. MEM L 26 10 3 6 50.0 0 0 - 4 5 80.0 1 3 4 0 0 1 1 6 -2
+p572
+aVChris Kaman LAC 12/19/2004 LAC vs. MEM L 21 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 1 2 2 2 -8
+p573
+aVBobby Simmons LAC 12/19/2004 LAC vs. MEM L 34 14 6 13 46.2 1 1 100.0 1 2 50.0 1 6 7 4 3 1 3 4 -12
+p574
+aVCorey Maggette LAC 12/19/2004 LAC vs. MEM L 36 22 4 10 40.0 0 4 0.0 14 17 82.4 1 4 5 3 1 0 7 4 -16
+p575
+aVElton Brand LAC 12/19/2004 LAC vs. MEM L 39 19 9 18 50.0 0 0 - 1 1 100.0 2 10 12 3 1 2 5 2 -12
+p576
+aVQuinton Ross LAC 12/19/2004 LAC vs. MEM L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -4
+p577
+aVRick Brunson LAC 12/17/2004 LAC @ MIN L 19 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 3 0 0 1 3 -16
+p578
+aVMikki Moore LAC 12/17/2004 LAC @ MIN L 22 8 3 3 100.0 0 0 - 2 2 100.0 2 0 2 1 0 0 0 2 -18
+p579
+aVKerry Kittles LAC 12/17/2004 LAC @ MIN L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p580
+aVChris Wilcox LAC 12/17/2004 LAC @ MIN L 20 12 5 6 83.3 0 0 - 2 4 50.0 2 3 5 0 1 0 3 4 -9
+p581
+aVChris Kaman LAC 12/17/2004 LAC @ MIN L 27 4 1 4 25.0 0 0 - 2 4 50.0 4 4 8 2 0 1 1 6 -12
+p582
+aVElton Brand LAC 12/17/2004 LAC @ MIN L 28 17 3 9 33.3 0 0 - 11 12 91.7 2 5 7 0 0 3 3 4 -15
+p583
+aVQuinton Ross LAC 12/17/2004 LAC @ MIN L 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -15
+p584
+aVBobby Simmons LAC 12/17/2004 LAC @ MIN L 29 10 4 8 50.0 1 1 100.0 1 1 100.0 0 3 3 1 1 0 3 5 -14
+p585
+aVLionel Chalmers LAC 12/17/2004 LAC @ MIN L 5 2 1 4 25.0 0 1 0.0 0 2 0.0 0 2 2 0 0 0 1 0 -3
+p586
+aVMarko Jaric LAC 12/17/2004 LAC @ MIN L 32 11 4 9 44.4 1 3 33.3 2 2 100.0 0 3 3 3 2 0 2 2 -14
+p587
+aVCorey Maggette LAC 12/17/2004 LAC @ MIN L 35 15 3 17 17.6 1 6 16.7 8 9 88.9 0 3 3 4 0 1 1 3 -15
+p588
+aVMikki Moore LAC 12/14/2004 LAC @ UTA L 16 5 1 3 33.3 0 1 0.0 3 4 75.0 3 0 3 0 0 1 0 3 -3
+p589
+aVRick Brunson LAC 12/14/2004 LAC @ UTA L 12 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 2 0 1 4 -2
+p590
+aVChris Kaman LAC 12/14/2004 LAC @ UTA L 36 5 2 4 50.0 0 1 0.0 1 2 50.0 2 5 7 1 1 3 1 4 -9
+p591
+aVQuinton Ross LAC 12/14/2004 LAC @ UTA L 19 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -1
+p592
+aVElton Brand LAC 12/14/2004 LAC @ UTA L 40 19 4 12 33.3 0 1 0.0 11 12 91.7 2 4 6 5 2 2 2 4 10
+p593
+aVKerry Kittles LAC 12/14/2004 LAC @ UTA L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p594
+aVBobby Simmons LAC 12/14/2004 LAC @ UTA L 31 8 4 9 44.4 0 1 0.0 0 0 - 3 0 3 1 0 0 0 6 -4
+p595
+aVChris Wilcox LAC 12/14/2004 LAC @ UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 2 0 -2
+p596
+aVCorey Maggette LAC 12/14/2004 LAC @ UTA L 36 28 9 14 64.3 1 2 50.0 9 10 90.0 1 4 5 2 0 1 5 4 -2
+p597
+aVMarko Jaric LAC 12/14/2004 LAC @ UTA L 36 18 7 13 53.8 2 2 100.0 2 2 100.0 1 2 3 6 1 0 2 1 0
+p598
+aVRick Brunson LAC 12/13/2004 LAC vs. BOS L 35 8 3 7 42.9 0 3 0.0 2 2 100.0 1 5 6 7 3 0 3 2 1
+p599
+aVCorey Maggette LAC 12/13/2004 LAC vs. BOS L 49 38 10 21 47.6 1 5 20.0 17 19 89.5 2 5 7 6 1 0 6 4 -5
+p600
+aVBobby Simmons LAC 12/13/2004 LAC vs. BOS L 44 22 9 19 47.4 0 0 - 4 5 80.0 0 4 4 5 1 0 0 4 -17
+p601
+aVChris Wilcox LAC 12/13/2004 LAC vs. BOS L 23 14 5 8 62.5 0 0 - 4 5 80.0 2 2 4 0 1 0 3 3 7
+p602
+aVQuinton Ross LAC 12/13/2004 LAC vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p603
+aVElton Brand LAC 12/13/2004 LAC vs. BOS L 45 24 8 17 47.1 0 0 - 8 10 80.0 8 10 18 2 0 2 3 3 3
+p604
+aVKerry Kittles LAC 12/13/2004 LAC vs. BOS L 38 11 4 11 36.4 2 5 40.0 1 2 50.0 0 3 3 6 0 2 1 1 -2
+p605
+aVMikki Moore LAC 12/13/2004 LAC vs. BOS L 26 10 3 5 60.0 0 0 - 4 4 100.0 2 1 3 1 1 1 2 5 -5
+p606
+aVMarko Jaric LAC 12/13/2004 LAC vs. BOS L 26 0 0 3 0.0 0 0 - 0 0 - 0 3 3 3 0 0 2 4 -8
+p607
+aVBobby Simmons LAC 12/11/2004 LAC vs. LAL L 22 15 6 13 46.2 1 2 50.0 2 3 66.7 2 4 6 0 1 1 1 4 7
+p608
+aVChris Wilcox LAC 12/11/2004 LAC vs. LAL L 21 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 1 3 0 2 6
+p609
+aVQuinton Ross LAC 12/11/2004 LAC vs. LAL L 22 0 0 6 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -4
+p610
+aVCorey Maggette LAC 12/11/2004 LAC vs. LAL L 41 27 8 25 32.0 1 5 20.0 10 13 76.9 1 4 5 3 2 0 3 3 -7
+p611
+aVRick Brunson LAC 12/11/2004 LAC vs. LAL L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -11
+p612
+aVKerry Kittles LAC 12/11/2004 LAC vs. LAL L 31 15 7 15 46.7 1 4 25.0 0 0 - 0 3 3 5 3 0 1 3 -1
+p613
+aVMikki Moore LAC 12/11/2004 LAC vs. LAL L 47 18 7 14 50.0 0 0 - 4 4 100.0 10 4 14 1 2 0 0 3 -2
+p614
+aVMarko Jaric LAC 12/11/2004 LAC vs. LAL L 38 6 3 9 33.3 0 2 0.0 0 0 - 1 4 5 10 0 1 1 2 6
+p615
+aVChris Kaman LAC 12/11/2004 LAC vs. LAL L 6 2 0 0 - 0 0 - 2 2 100.0 1 0 1 1 1 0 0 0 -4
+p616
+aVChris Kaman LAC 12/06/2004 LAC vs. CHA W 29 6 3 3 100.0 0 0 - 0 0 - 2 4 6 2 0 1 2 2 9
+p617
+aVElton Brand LAC 12/06/2004 LAC vs. CHA W 36 19 8 13 61.5 0 0 - 3 3 100.0 3 4 7 5 1 5 6 4 -2
+p618
+aVMarko Jaric LAC 12/06/2004 LAC vs. CHA W 48 8 4 18 22.2 0 4 0.0 0 0 - 1 6 7 9 5 0 3 0 9
+p619
+aVChris Wilcox LAC 12/06/2004 LAC vs. CHA W 26 8 3 8 37.5 0 0 - 2 3 66.7 0 4 4 1 0 0 2 4 3
+p620
+aVQuinton Ross LAC 12/06/2004 LAC vs. CHA W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p621
+aVCorey Maggette LAC 12/06/2004 LAC vs. CHA W 49 33 7 13 53.8 0 0 - 19 21 90.5 3 8 11 3 0 1 5 2 4
+p622
+aVRick Brunson LAC 12/06/2004 LAC vs. CHA W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 1 0 2 1 -6
+p623
+aVMikki Moore LAC 12/06/2004 LAC vs. CHA W 24 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 3 1 1
+p624
+aVBobby Simmons LAC 12/06/2004 LAC vs. CHA W 52 16 7 11 63.6 0 0 - 2 2 100.0 1 8 9 2 1 0 0 3 11
+p625
+aVRick Brunson LAC 12/04/2004 LAC vs. MIN L 22 8 3 11 27.3 1 3 33.3 1 2 50.0 0 1 1 7 0 0 2 2 7
+p626
+aVChris Kaman LAC 12/04/2004 LAC vs. MIN L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p627
+aVChris Wilcox LAC 12/04/2004 LAC vs. MIN L 25 6 2 4 50.0 0 0 - 2 6 33.3 0 4 4 0 0 1 3 1 -8
+p628
+aVQuinton Ross LAC 12/04/2004 LAC vs. MIN L 21 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -3
+p629
+aVElton Brand LAC 12/04/2004 LAC vs. MIN L 39 10 4 10 40.0 0 0 - 2 5 40.0 2 5 7 1 1 1 5 2 -6
+p630
+aVMikki Moore LAC 12/04/2004 LAC vs. MIN L 27 11 5 6 83.3 0 1 0.0 1 2 50.0 5 4 9 1 0 0 0 2 1
+p631
+aVCorey Maggette LAC 12/04/2004 LAC vs. MIN L 41 34 10 19 52.6 1 3 33.3 13 14 92.9 1 8 9 1 0 0 5 5 -10
+p632
+aVMarko Jaric LAC 12/04/2004 LAC vs. MIN L 37 10 4 11 36.4 2 4 50.0 0 0 - 1 2 3 10 0 0 2 3 -13
+p633
+aVBobby Simmons LAC 12/04/2004 LAC vs. MIN L 47 15 6 12 50.0 0 1 0.0 3 4 75.0 4 3 7 3 0 0 3 3 -7
+p634
+aVBobby Simmons LAC 12/01/2004 LAC vs. IND W 39 20 9 14 64.3 2 3 66.7 0 0 - 1 4 5 5 2 0 3 1 11
+p635
+aVRick Brunson LAC 12/01/2004 LAC vs. IND W 17 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 6 2 0 1 3 8
+p636
+aVMarko Jaric LAC 12/01/2004 LAC vs. IND W 40 10 4 11 36.4 2 5 40.0 0 0 - 2 1 3 8 1 0 3 0 8
+p637
+aVChris Kaman LAC 12/01/2004 LAC vs. IND W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -1
+p638
+aVMikki Moore LAC 12/01/2004 LAC vs. IND W 9 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 0 3 1 3
+p639
+aVCorey Maggette LAC 12/01/2004 LAC vs. IND W 38 17 4 11 36.4 0 3 0.0 9 10 90.0 1 8 9 4 2 0 0 2 11
+p640
+aVElton Brand LAC 12/01/2004 LAC vs. IND W 35 27 12 16 75.0 0 0 - 3 4 75.0 1 4 5 1 1 2 0 2 9
+p641
+aVChris Wilcox LAC 12/01/2004 LAC vs. IND W 20 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 3 1
+p642
+aVQuinton Ross LAC 12/01/2004 LAC vs. IND W 35 2 1 7 14.3 0 0 - 0 0 - 1 4 5 0 1 0 1 1 10
+p643
+aVQuinton Ross LAC 11/29/2004 LAC vs. CLE W 35 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 4 0
+p644
+aVRick Brunson LAC 11/29/2004 LAC vs. CLE W 26 4 2 6 33.3 0 0 - 0 0 - 0 2 2 5 0 0 2 1 10
+p645
+aVMarko Jaric LAC 11/29/2004 LAC vs. CLE W 41 16 5 12 41.7 1 4 25.0 5 6 83.3 0 3 3 11 1 0 3 3 8
+p646
+aVChris Wilcox LAC 11/29/2004 LAC vs. CLE W 29 8 4 9 44.4 0 0 - 0 0 - 1 10 11 1 1 0 0 2 3
+p647
+aVChris Kaman LAC 11/29/2004 LAC vs. CLE W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p648
+aVBobby Simmons LAC 11/29/2004 LAC vs. CLE W 42 17 7 13 53.8 0 1 0.0 3 3 100.0 3 7 10 2 3 0 1 1 18
+p649
+aVElton Brand LAC 11/29/2004 LAC vs. CLE W 39 30 12 22 54.5 0 0 - 6 7 85.7 4 1 5 6 3 2 6 2 17
+p650
+aVMikki Moore LAC 11/29/2004 LAC vs. CLE W 18 13 4 5 80.0 0 0 - 5 7 71.4 0 3 3 1 0 0 0 1 9
+p651
+aVMarko Jaric LAC 11/28/2004 LAC vs. GSW W 40 16 6 15 40.0 2 5 40.0 2 2 100.0 1 6 7 11 4 0 4 3 11
+p652
+aVChris Wilcox LAC 11/28/2004 LAC vs. GSW W 19 13 5 8 62.5 0 0 - 3 3 100.0 0 4 4 0 0 0 0 4 3
+p653
+aVRick Brunson LAC 11/28/2004 LAC vs. GSW W 23 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 4 1 0 1 0 2
+p654
+aVQuinton Ross LAC 11/28/2004 LAC vs. GSW W 35 12 5 8 62.5 0 0 - 2 3 66.7 2 3 5 1 1 0 3 1 13
+p655
+aVChris Kaman LAC 11/28/2004 LAC vs. GSW W 16 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 3 1 1 0 5 -1
+p656
+aVBobby Simmons LAC 11/28/2004 LAC vs. GSW W 42 22 10 15 66.7 2 2 100.0 0 2 0.0 2 8 10 5 1 1 4 4 11
+p657
+aVElton Brand LAC 11/28/2004 LAC vs. GSW W 38 25 9 17 52.9 0 0 - 7 9 77.8 3 10 13 3 0 0 5 2 8
+p658
+aVZeljko Rebraca LAC 11/28/2004 LAC vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p659
+aVMikki Moore LAC 11/28/2004 LAC vs. GSW W 24 9 4 6 66.7 0 0 - 1 1 100.0 0 5 5 2 0 0 0 2 13
+p660
+aVChris Kaman LAC 11/26/2004 LAC @ GSW W 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -3
+p661
+aVZeljko Rebraca LAC 11/26/2004 LAC @ GSW W 9 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -2
+p662
+aVChris Wilcox LAC 11/26/2004 LAC @ GSW W 21 8 3 8 37.5 0 0 - 2 4 50.0 2 0 2 0 0 0 1 3 4
+p663
+aVMarko Jaric LAC 11/26/2004 LAC @ GSW W 35 11 4 10 40.0 0 1 0.0 3 4 75.0 0 2 2 7 3 0 1 3 10
+p664
+aVMikki Moore LAC 11/26/2004 LAC @ GSW W 17 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 3 0 0 1 3 9
+p665
+aVRick Brunson LAC 11/26/2004 LAC @ GSW W 18 12 6 7 85.7 0 0 - 0 0 - 1 2 3 4 2 0 2 4 0
+p666
+aVElton Brand LAC 11/26/2004 LAC @ GSW W 41 17 6 15 40.0 0 0 - 5 5 100.0 3 6 9 4 0 3 2 0 14
+p667
+aVQuinton Ross LAC 11/26/2004 LAC @ GSW W 36 14 7 9 77.8 0 0 - 0 0 - 0 1 1 2 0 1 0 3 8
+p668
+aVBobby Simmons LAC 11/26/2004 LAC @ GSW W 41 17 7 16 43.8 0 0 - 3 3 100.0 3 9 12 4 2 0 1 4 9
+p669
+aVCorey Maggette LAC 11/26/2004 LAC @ GSW W 14 11 3 5 60.0 0 1 0.0 5 5 100.0 1 3 4 0 0 0 2 4 6
+p670
+aVChris Kaman LAC 11/25/2004 LAC vs. NJN W 16 7 3 4 75.0 0 0 - 1 1 100.0 1 3 4 1 0 1 3 2 -1
+p671
+aVBobby Simmons LAC 11/25/2004 LAC vs. NJN W 32 13 4 7 57.1 0 0 - 5 5 100.0 0 4 4 0 1 0 1 4 11
+p672
+aVElton Brand LAC 11/25/2004 LAC vs. NJN W 35 17 5 9 55.6 0 0 - 7 9 77.8 1 6 7 2 1 1 2 3 12
+p673
+aVMikki Moore LAC 11/25/2004 LAC vs. NJN W 23 12 5 6 83.3 0 0 - 2 4 50.0 2 4 6 1 1 0 1 4 12
+p674
+aVQuinton Ross LAC 11/25/2004 LAC vs. NJN W 17 6 3 6 50.0 0 1 0.0 0 1 0.0 0 1 1 3 1 0 1 2 2
+p675
+aVRick Brunson LAC 11/25/2004 LAC vs. NJN W 16 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 6 1 0 0 0 6
+p676
+aVCorey Maggette LAC 11/25/2004 LAC vs. NJN W 40 16 4 12 33.3 0 3 0.0 8 8 100.0 0 6 6 3 0 0 3 4 9
+p677
+aVMarko Jaric LAC 11/25/2004 LAC vs. NJN W 42 23 6 9 66.7 4 5 80.0 7 8 87.5 0 4 4 6 1 3 5 4 11
+p678
+aVChris Wilcox LAC 11/25/2004 LAC vs. NJN W 19 6 3 8 37.5 0 0 - 0 0 - 1 1 2 1 1 0 1 3 3
+p679
+aVCorey Maggette LAC 11/21/2004 LAC vs. PHX L 26 9 4 12 33.3 0 1 0.0 1 2 50.0 0 2 2 4 0 0 3 2 -13
+p680
+aVElton Brand LAC 11/21/2004 LAC vs. PHX L 25 17 7 11 63.6 0 0 - 3 4 75.0 4 5 9 3 0 0 2 4 -3
+p681
+aVChris Wilcox LAC 11/21/2004 LAC vs. PHX L 28 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 0 1 0 1 1 -19
+p682
+aVKerry Kittles LAC 11/21/2004 LAC vs. PHX L 24 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -2
+p683
+aVMarko Jaric LAC 11/21/2004 LAC vs. PHX L 34 19 8 15 53.3 3 5 60.0 0 0 - 0 1 1 10 4 0 2 3 -3
+p684
+aVBobby Simmons LAC 11/21/2004 LAC vs. PHX L 45 17 7 15 46.7 0 0 - 3 4 75.0 2 5 7 3 1 0 3 5 -13
+p685
+aVShaun Livingston LAC 11/21/2004 LAC vs. PHX L 20 8 4 7 57.1 0 0 - 0 0 - 1 1 2 3 0 1 2 4 -20
+p686
+aVMikki Moore LAC 11/21/2004 LAC vs. PHX L 19 18 6 9 66.7 0 0 - 6 9 66.7 6 4 10 1 0 1 0 5 9
+p687
+aVQuinton Ross LAC 11/21/2004 LAC vs. PHX L 19 12 4 5 80.0 0 0 - 4 4 100.0 1 3 4 2 1 0 1 3 9
+p688
+aVMikki Moore LAC 11/20/2004 LAC vs. HOU L 27 2 1 5 20.0 0 0 - 0 0 - 0 2 2 2 0 1 2 1 -9
+p689
+aVBobby Simmons LAC 11/20/2004 LAC vs. HOU L 41 20 6 9 66.7 1 1 100.0 7 7 100.0 0 2 2 4 2 0 2 6 -1
+p690
+aVMarko Jaric LAC 11/20/2004 LAC vs. HOU L 43 4 2 10 20.0 0 4 0.0 0 0 - 0 4 4 6 5 0 0 0 -8
+p691
+aVElton Brand LAC 11/20/2004 LAC vs. HOU L 45 19 8 18 44.4 0 0 - 3 3 100.0 3 7 10 4 0 3 1 5 -1
+p692
+aVShaun Livingston LAC 11/20/2004 LAC vs. HOU L 31 13 6 13 46.2 0 0 - 1 2 50.0 0 4 4 1 2 1 2 4 3
+p693
+aVChris Wilcox LAC 11/20/2004 LAC vs. HOU L 23 11 4 11 36.4 0 0 - 3 5 60.0 1 6 7 2 1 0 2 6 -9
+p694
+aVCorey Maggette LAC 11/20/2004 LAC vs. HOU L 44 13 5 13 38.5 1 3 33.3 2 4 50.0 0 4 4 2 1 0 3 3 -9
+p695
+aVZeljko Rebraca LAC 11/20/2004 LAC vs. HOU L 11 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 9
+p696
+aVElton Brand LAC 11/17/2004 LAC @ LAL L 38 14 7 16 43.8 0 0 - 0 0 - 5 6 11 3 1 1 2 3 -8
+p697
+aVQuinton Ross LAC 11/17/2004 LAC @ LAL L 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -1
+p698
+aVShaun Livingston LAC 11/17/2004 LAC @ LAL L 18 0 0 4 0.0 0 0 - 0 0 - 0 0 0 3 0 1 0 1 -12
+p699
+aVRick Brunson LAC 11/17/2004 LAC @ LAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -3
+p700
+aVCorey Maggette LAC 11/17/2004 LAC @ LAL L 40 24 9 25 36.0 3 7 42.9 3 3 100.0 2 3 5 2 2 0 5 3 -13
+p701
+aVBobby Simmons LAC 11/17/2004 LAC @ LAL L 37 23 10 15 66.7 1 1 100.0 2 2 100.0 4 4 8 4 1 0 3 6 -9
+p702
+aVMikki Moore LAC 11/17/2004 LAC @ LAL L 19 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 1 0 0 1 -11
+p703
+aVChris Wilcox LAC 11/17/2004 LAC @ LAL L 39 14 5 11 45.5 0 0 - 4 6 66.7 4 5 9 1 0 1 4 4 -9
+p704
+aVMarko Jaric LAC 11/17/2004 LAC @ LAL L 30 4 2 10 20.0 0 4 0.0 0 0 - 0 1 1 7 2 0 1 3 -4
+p705
+aVBobby Simmons LAC 11/16/2004 LAC vs. TOR W 34 10 3 8 37.5 0 1 0.0 4 4 100.0 1 3 4 3 3 0 1 3 28
+p706
+aVMamadou N'diaye LAC 11/16/2004 LAC vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p707
+aVMikki Moore LAC 11/16/2004 LAC vs. TOR W 23 4 2 5 40.0 0 0 - 0 0 - 1 3 4 2 0 3 4 5 -4
+p708
+aVMarko Jaric LAC 11/16/2004 LAC vs. TOR W 39 23 9 15 60.0 3 4 75.0 2 2 100.0 2 5 7 8 2 2 2 1 15
+p709
+aVRick Brunson LAC 11/16/2004 LAC vs. TOR W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 2 -5
+p710
+aVElton Brand LAC 11/16/2004 LAC vs. TOR W 35 19 6 11 54.5 0 0 - 7 7 100.0 2 3 5 4 1 0 3 2 23
+p711
+aVChris Wilcox LAC 11/16/2004 LAC vs. TOR W 30 14 7 10 70.0 0 0 - 0 0 - 3 6 9 3 2 3 6 2 15
+p712
+aVZeljko Rebraca LAC 11/16/2004 LAC vs. TOR W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -5
+p713
+aVQuinton Ross LAC 11/16/2004 LAC vs. TOR W 16 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -13
+p714
+aVCorey Maggette LAC 11/16/2004 LAC vs. TOR W 29 22 7 12 58.3 1 1 100.0 7 9 77.8 0 1 1 2 1 0 4 2 25
+p715
+aVShaun Livingston LAC 11/16/2004 LAC vs. TOR W 21 4 2 5 40.0 0 0 - 0 0 - 1 0 1 3 0 0 1 2 -14
+p716
+aVChris Wilcox LAC 11/13/2004 LAC @ CHI W 34 14 5 12 41.7 0 0 - 4 4 100.0 2 8 10 1 0 1 3 4 -5
+p717
+aVMarko Jaric LAC 11/13/2004 LAC @ CHI W 39 19 6 12 50.0 3 5 60.0 4 6 66.7 0 5 5 8 3 0 1 3 9
+p718
+aVCorey Maggette LAC 11/13/2004 LAC @ CHI W 38 23 6 14 42.9 0 1 0.0 11 13 84.6 1 5 6 4 1 0 2 1 4
+p719
+aVMikki Moore LAC 11/13/2004 LAC @ CHI W 23 10 2 4 50.0 0 0 - 6 7 85.7 0 3 3 1 0 0 0 4 8
+p720
+aVBobby Simmons LAC 11/13/2004 LAC @ CHI W 33 13 6 13 46.2 0 0 - 1 1 100.0 1 2 3 2 3 0 2 4 4
+p721
+aVElton Brand LAC 11/13/2004 LAC @ CHI W 38 11 4 12 33.3 0 0 - 3 5 60.0 3 6 9 6 0 3 2 3 2
+p722
+aVShaun Livingston LAC 11/13/2004 LAC @ CHI W 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -12
+p723
+aVQuinton Ross LAC 11/13/2004 LAC @ CHI W 20 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 2 1
+p724
+aVRick Brunson LAC 11/13/2004 LAC @ CHI W 4 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 -6
+p725
+aVLionel Chalmers LAC 11/12/2004 LAC @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p726
+aVQuinton Ross LAC 11/12/2004 LAC @ NYK L 16 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p727
+aVChris Wilcox LAC 11/12/2004 LAC @ NYK L 42 21 9 16 56.3 0 0 - 3 6 50.0 1 8 9 2 0 0 5 4 -4
+p728
+aVRick Brunson LAC 11/12/2004 LAC @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 3
+p729
+aVBobby Simmons LAC 11/12/2004 LAC @ NYK L 30 10 2 9 22.2 0 1 0.0 6 6 100.0 3 4 7 4 2 0 5 2 -6
+p730
+aVZeljko Rebraca LAC 11/12/2004 LAC @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p731
+aVMarko Jaric LAC 11/12/2004 LAC @ NYK L 26 7 2 6 33.3 0 1 0.0 3 3 100.0 0 2 2 4 4 0 1 1 -14
+p732
+aVMikki Moore LAC 11/12/2004 LAC @ NYK L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 2 0 1 1 3 -10
+p733
+aVElton Brand LAC 11/12/2004 LAC @ NYK L 34 20 7 10 70.0 0 0 - 6 7 85.7 6 3 9 4 1 0 2 4 -13
+p734
+aVCorey Maggette LAC 11/12/2004 LAC @ NYK L 37 29 10 17 58.8 0 1 0.0 9 11 81.8 0 3 3 3 1 0 3 3 -18
+p735
+aVShaun Livingston LAC 11/12/2004 LAC @ NYK L 32 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 2 2 1 4 3 -9
+p736
+aVCorey Maggette LAC 11/10/2004 LAC @ IND W 29 13 5 13 38.5 0 1 0.0 3 4 75.0 1 5 6 7 2 0 0 0 13
+p737
+aVMamadou N'diaye LAC 11/10/2004 LAC @ IND W 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 1
+p738
+aVBobby Simmons LAC 11/10/2004 LAC @ IND W 33 18 7 9 77.8 1 1 100.0 3 3 100.0 2 2 4 6 3 0 0 2 29
+p739
+aVRick Brunson LAC 11/10/2004 LAC @ IND W 6 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 0 0 1
+p740
+aVElton Brand LAC 11/10/2004 LAC @ IND W 30 19 7 15 46.7 0 0 - 5 5 100.0 5 11 16 1 0 1 5 3 20
+p741
+aVZeljko Rebraca LAC 11/10/2004 LAC @ IND W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 0 2 0 4 6
+p742
+aVChris Wilcox LAC 11/10/2004 LAC @ IND W 20 8 2 6 33.3 0 0 - 4 4 100.0 0 3 3 2 0 2 0 3 1
+p743
+aVShaun Livingston LAC 11/10/2004 LAC @ IND W 24 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 6 4 1 2 1 35
+p744
+aVLionel Chalmers LAC 11/10/2004 LAC @ IND W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -1
+p745
+aVQuinton Ross LAC 11/10/2004 LAC @ IND W 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 1 5
+p746
+aVMikki Moore LAC 11/10/2004 LAC @ IND W 26 16 6 6 100.0 0 0 - 4 4 100.0 1 6 7 2 1 0 1 3 40
+p747
+aVMarko Jaric LAC 11/10/2004 LAC @ IND W 26 9 3 7 42.9 1 1 100.0 2 2 100.0 1 1 2 1 1 0 1 0 20
+p748
+aVShaun Livingston LAC 11/08/2004 LAC vs. DET L 18 1 0 6 0.0 0 0 - 1 2 50.0 1 1 2 1 1 1 2 4 -6
+p749
+aVElton Brand LAC 11/08/2004 LAC vs. DET L 52 21 8 17 47.1 0 0 - 5 7 71.4 0 4 4 0 2 4 4 3 12
+p750
+aVBobby Simmons LAC 11/08/2004 LAC vs. DET L 37 9 3 10 30.0 1 2 50.0 2 3 66.7 2 3 5 3 0 0 3 6 4
+p751
+aVChris Wilcox LAC 11/08/2004 LAC vs. DET L 46 24 10 14 71.4 0 0 - 4 9 44.4 6 3 9 3 2 1 4 4 1
+p752
+aVRick Brunson LAC 11/08/2004 LAC vs. DET L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 5 1 0 0 1 3
+p753
+aVMikki Moore LAC 11/08/2004 LAC vs. DET L 18 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -15
+p754
+aVMarko Jaric LAC 11/08/2004 LAC vs. DET L 42 12 4 12 33.3 1 3 33.3 3 4 75.0 0 1 1 3 0 0 4 5 1
+p755
+aVCorey Maggette LAC 11/08/2004 LAC vs. DET L 47 25 6 13 46.2 0 3 0.0 13 15 86.7 2 17 19 4 1 0 5 5 -1
+p756
+aVQuinton Ross LAC 11/08/2004 LAC vs. DET L 20 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -14
+p757
+aVZeljko Rebraca LAC 11/06/2004 LAC @ GSW W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 1 0 2 0
+p758
+aVChris Wilcox LAC 11/06/2004 LAC @ GSW W 28 14 5 10 50.0 0 0 - 4 6 66.7 1 3 4 1 0 1 2 5 7
+p759
+aVBobby Simmons LAC 11/06/2004 LAC @ GSW W 36 22 8 11 72.7 1 1 100.0 5 5 100.0 1 6 7 1 1 0 1 3 4
+p760
+aVMarko Jaric LAC 11/06/2004 LAC @ GSW W 30 7 2 3 66.7 0 0 - 3 4 75.0 0 8 8 3 2 1 3 3 10
+p761
+aVRick Brunson LAC 11/06/2004 LAC @ GSW W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p762
+aVQuinton Ross LAC 11/06/2004 LAC @ GSW W 18 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 4 0 1 0 5 12
+p763
+aVMikki Moore LAC 11/06/2004 LAC @ GSW W 20 5 1 5 20.0 0 0 - 3 4 75.0 3 4 7 0 0 1 0 4 -3
+p764
+aVShaun Livingston LAC 11/06/2004 LAC @ GSW W 20 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 1 1 4 6 -3
+p765
+aVElton Brand LAC 11/06/2004 LAC @ GSW W 37 13 6 18 33.3 0 0 - 1 5 20.0 0 7 7 4 1 1 3 3 9
+p766
+aVCorey Maggette LAC 11/06/2004 LAC @ GSW W 40 26 9 16 56.3 1 2 50.0 7 9 77.8 2 2 4 6 1 0 7 4 3
+p767
+aVQuinton Ross LAC 11/05/2004 LAC @ POR L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 2 0 0 0 -3
+p768
+aVRick Brunson LAC 11/05/2004 LAC @ POR L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 3 1 0 0 2 0
+p769
+aVLionel Chalmers LAC 11/05/2004 LAC @ POR L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 1 0 1
+p770
+aVMikki Moore LAC 11/05/2004 LAC @ POR L 13 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 1 1 1 2 2
+p771
+aVElton Brand LAC 11/05/2004 LAC @ POR L 41 17 8 13 61.5 0 0 - 1 4 25.0 3 3 6 3 0 5 2 2 -20
+p772
+aVCorey Maggette LAC 11/05/2004 LAC @ POR L 35 12 5 20 25.0 1 3 33.3 1 1 100.0 0 1 1 3 0 0 2 3 -11
+p773
+aVMarko Jaric LAC 11/05/2004 LAC @ POR L 23 5 2 9 22.2 1 4 25.0 0 0 - 0 2 2 3 1 0 1 1 -13
+p774
+aVBobby Simmons LAC 11/05/2004 LAC @ POR L 31 4 1 6 16.7 0 2 0.0 2 2 100.0 1 3 4 2 0 1 6 3 -6
+p775
+aVShaun Livingston LAC 11/05/2004 LAC @ POR L 22 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 4 1 1 3 4 -7
+p776
+aVChris Wilcox LAC 11/05/2004 LAC @ POR L 42 27 12 17 70.6 0 0 - 3 3 100.0 5 5 10 0 1 1 1 0 -8
+p777
+aVRick Brunson LAC 11/03/2004 LAC vs. SEA W 26 8 3 4 75.0 2 3 66.7 0 0 - 2 0 2 4 1 0 0 1 17
+p778
+aVCorey Maggette LAC 11/03/2004 LAC vs. SEA W 39 18 5 14 35.7 1 4 25.0 7 10 70.0 1 3 4 6 2 0 2 2 27
+p779
+aVBobby Simmons LAC 11/03/2004 LAC vs. SEA W 35 30 13 15 86.7 0 0 - 4 4 100.0 3 3 6 6 0 0 0 1 29
+p780
+aVMarko Jaric LAC 11/03/2004 LAC vs. SEA W 29 10 4 6 66.7 2 2 100.0 0 2 0.0 0 3 3 4 0 0 2 1 20
+p781
+aVLionel Chalmers LAC 11/03/2004 LAC vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 1 4
+p782
+aVShaun Livingston LAC 11/03/2004 LAC vs. SEA W 16 6 3 3 100.0 0 0 - 0 0 - 0 5 5 3 0 0 1 2 5
+p783
+aVMikki Moore LAC 11/03/2004 LAC vs. SEA W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 0 2 1 4 4
+p784
+aVMamadou N'diaye LAC 11/03/2004 LAC vs. SEA W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p785
+aVElton Brand LAC 11/03/2004 LAC vs. SEA W 38 21 10 15 66.7 0 0 - 1 3 33.3 1 6 7 5 2 1 0 3 33
+p786
+aVChris Wilcox LAC 11/03/2004 LAC vs. SEA W 29 15 4 8 50.0 0 0 - 7 10 70.0 0 7 7 2 1 0 2 5 8
+p787
+aVZeljko Rebraca LAC 11/03/2004 LAC vs. SEA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 4
+p788
+a.

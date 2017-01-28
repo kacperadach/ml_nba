@@ -1,0 +1,92 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKurt Thomas NYK 05/04/2001 NYK vs. TOR L 35 15 6 7 85.7 0 0 - 3 3 100.0 4 8 12 2 0 0 2 5 -1
+p2
+aVLatrell Sprewell NYK 05/04/2001 NYK vs. TOR L 46 29 12 23 52.2 2 4 50.0 3 5 60.0 2 2 4 3 2 0 4 4 -1
+p3
+aVGlen Rice NYK 05/04/2001 NYK vs. TOR L 35 5 2 10 20.0 1 5 20.0 0 0 - 1 5 6 1 0 0 2 2 2
+p4
+aVOthella Harrington NYK 05/04/2001 NYK vs. TOR L 10 2 1 2 50.0 0 0 - 0 1 0.0 2 1 3 0 0 0 1 3 -5
+p5
+aVMarcus Camby NYK 05/04/2001 NYK vs. TOR L 34 11 5 7 71.4 0 0 - 1 3 33.3 1 7 8 4 0 2 0 6 5
+p6
+aVCharlie Ward NYK 05/04/2001 NYK vs. TOR L 22 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 2 0 0 2 1 0
+p7
+aVAllan Houston NYK 05/04/2001 NYK vs. TOR L 29 16 6 10 60.0 2 5 40.0 2 2 100.0 0 2 2 2 1 0 3 5 -10
+p8
+aVMark Jackson NYK 05/04/2001 NYK vs. TOR L 27 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 7 1 0 3 0 -6
+p9
+aVRick Brunson NYK 05/04/2001 NYK vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p10
+aVTravis Knight NYK 05/04/2001 NYK vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p11
+aVLatrell Sprewell NYK 05/02/2001 NYK @ TOR L 41 24 10 21 47.6 1 5 20.0 3 4 75.0 0 4 4 3 1 1 6 5 -10
+p12
+aVOthella Harrington NYK 05/02/2001 NYK @ TOR L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -5
+p13
+aVMarcus Camby NYK 05/02/2001 NYK @ TOR L 32 4 1 2 50.0 0 0 - 2 4 50.0 0 4 4 1 1 2 1 4 -4
+p14
+aVKurt Thomas NYK 05/02/2001 NYK @ TOR L 30 8 2 6 33.3 0 0 - 4 6 66.7 5 5 10 5 1 0 2 5 -3
+p15
+aVCharlie Ward NYK 05/02/2001 NYK @ TOR L 14 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 1 0 0 3 2 -7
+p16
+aVMark Jackson NYK 05/02/2001 NYK @ TOR L 35 9 3 5 60.0 1 2 50.0 2 2 100.0 0 5 5 4 1 0 2 4 0
+p17
+aVGlen Rice NYK 05/02/2001 NYK @ TOR L 35 19 8 16 50.0 3 5 60.0 0 0 - 0 5 5 1 1 0 1 2 -3
+p18
+aVAllan Houston NYK 05/02/2001 NYK @ TOR L 42 27 9 13 69.2 1 1 100.0 8 8 100.0 0 1 1 2 1 1 2 5 -3
+p19
+aVOthella Harrington NYK 04/29/2001 NYK @ TOR W 27 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 1 0 6 7
+p20
+aVAllan Houston NYK 04/29/2001 NYK @ TOR W 45 24 9 14 64.3 2 3 66.7 4 4 100.0 0 2 2 0 1 0 1 3 1
+p21
+aVMark Jackson NYK 04/29/2001 NYK @ TOR W 33 9 4 6 66.7 1 2 50.0 0 0 - 1 6 7 4 3 0 1 0 3
+p22
+aVGlen Rice NYK 04/29/2001 NYK @ TOR W 31 18 8 12 66.7 0 2 0.0 2 2 100.0 2 5 7 0 0 0 1 3 5
+p23
+aVLatrell Sprewell NYK 04/29/2001 NYK @ TOR W 47 20 6 18 33.3 0 3 0.0 8 10 80.0 0 1 1 5 0 0 5 4 7
+p24
+aVFelton Spencer NYK 04/29/2001 NYK @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p25
+aVKurt Thomas NYK 04/29/2001 NYK @ TOR W 39 9 3 8 37.5 0 0 - 3 5 60.0 1 8 9 2 1 2 1 5 11
+p26
+aVCharlie Ward NYK 04/29/2001 NYK @ TOR W 17 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 0 3 6
+p27
+aVGlen Rice NYK 04/26/2001 NYK vs. TOR L 25 12 4 8 50.0 2 2 100.0 2 2 100.0 0 3 3 0 1 1 2 1 -9
+p28
+aVOthella Harrington NYK 04/26/2001 NYK vs. TOR L 17 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 3 1 0 3 -3
+p29
+aVRick Brunson NYK 04/26/2001 NYK vs. TOR L 3 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 0 0 0 1 0 1
+p30
+aVLatrell Sprewell NYK 04/26/2001 NYK vs. TOR L 39 6 3 12 25.0 0 1 0.0 0 0 - 0 1 1 4 1 0 2 4 -16
+p31
+aVFelton Spencer NYK 04/26/2001 NYK vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p32
+aVMark Jackson NYK 04/26/2001 NYK vs. TOR L 35 10 5 11 45.5 0 1 0.0 0 0 - 1 8 9 5 3 0 3 1 -11
+p33
+aVCharlie Ward NYK 04/26/2001 NYK vs. TOR L 11 0 0 3 0.0 0 0 - 0 0 - 2 2 4 1 1 0 2 1 -7
+p34
+aVKurt Thomas NYK 04/26/2001 NYK vs. TOR L 43 23 7 14 50.0 0 0 - 9 12 75.0 4 8 12 0 0 2 3 5 -19
+p35
+aVMarcus Camby NYK 04/26/2001 NYK vs. TOR L 31 2 1 4 25.0 0 0 - 0 4 0.0 0 2 2 0 1 1 1 3 -15
+p36
+aVAllan Houston NYK 04/26/2001 NYK vs. TOR L 33 14 5 11 45.5 0 1 0.0 4 4 100.0 0 2 2 3 2 0 2 3 -22
+p37
+aVGlen Rice NYK 04/22/2001 NYK vs. TOR W 18 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 1 1 0 1 2 1
+p38
+aVMarcus Camby NYK 04/22/2001 NYK vs. TOR W 44 8 3 13 23.1 0 0 - 2 2 100.0 3 15 18 2 0 4 0 5 3
+p39
+aVAllan Houston NYK 04/22/2001 NYK vs. TOR W 40 23 9 16 56.3 1 1 100.0 4 4 100.0 0 2 2 0 0 0 2 1 12
+p40
+aVOthella Harrington NYK 04/22/2001 NYK vs. TOR W 12 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 1 1 0 1 1 -3
+p41
+aVMark Jackson NYK 04/22/2001 NYK vs. TOR W 26 11 5 11 45.5 0 2 0.0 1 1 100.0 1 1 2 6 0 0 1 1 -1
+p42
+aVKurt Thomas NYK 04/22/2001 NYK vs. TOR W 39 17 7 12 58.3 0 0 - 3 5 60.0 3 10 13 0 0 1 1 6 11
+p43
+aVCharlie Ward NYK 04/22/2001 NYK vs. TOR W 22 9 2 7 28.6 1 3 33.3 4 4 100.0 0 0 0 2 1 0 1 1 8
+p44
+aVLatrell Sprewell NYK 04/22/2001 NYK vs. TOR W 39 13 4 12 33.3 0 1 0.0 5 6 83.3 1 4 5 2 1 0 3 0 4
+p45
+a.

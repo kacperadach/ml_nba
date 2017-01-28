@@ -1,0 +1,1628 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDamien Wilkins SEA 04/18/2007 SEA vs. DAL L 36 10 3 8 37.5 0 1 0.0 4 7 57.1 1 3 4 3 3 0 4 3 -13
+p2
+aVNick Collison SEA 04/18/2007 SEA vs. DAL L 15 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 0 1 1 2 -10
+p3
+aVMike Wilks SEA 04/18/2007 SEA vs. DAL L 38 8 3 10 30.0 0 0 - 2 3 66.7 1 3 4 3 0 0 4 4 -24
+p4
+aVChris Wilcox SEA 04/18/2007 SEA vs. DAL L 18 11 4 9 44.4 0 0 - 3 4 75.0 0 3 3 0 0 1 1 0 -15
+p5
+aVJohan Petro SEA 04/18/2007 SEA vs. DAL L 16 8 4 8 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -13
+p6
+aVMouhamed Sene SEA 04/18/2007 SEA vs. DAL L 22 2 0 5 0.0 0 0 - 2 2 100.0 2 5 7 0 0 0 1 1 -21
+p7
+aVMickael Gelabale SEA 04/18/2007 SEA vs. DAL L 34 8 4 7 57.1 0 2 0.0 0 0 - 1 3 4 0 1 0 2 2 -25
+p8
+aVRashard Lewis SEA 04/18/2007 SEA vs. DAL L 29 14 5 11 45.5 1 3 33.3 3 5 60.0 0 0 0 1 1 0 2 3 -24
+p9
+aVRandy Livingston SEA 04/18/2007 SEA vs. DAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 0 0 0 0 -7
+p10
+aVAndre Brown SEA 04/18/2007 SEA vs. DAL L 22 12 6 9 66.7 0 1 0.0 0 1 0.0 1 3 4 1 0 1 1 1 -3
+p11
+aVMike Wilks SEA 04/15/2007 SEA @ LAL L 46 22 10 14 71.4 1 2 50.0 1 1 100.0 2 2 4 8 0 0 5 1 -3
+p12
+aVMickael Gelabale SEA 04/15/2007 SEA @ LAL L 36 7 2 9 22.2 0 1 0.0 3 4 75.0 2 1 3 0 1 0 1 4 -11
+p13
+aVNick Collison SEA 04/15/2007 SEA @ LAL L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 1 0 4 -8
+p14
+aVJohan Petro SEA 04/15/2007 SEA @ LAL L 19 4 1 3 33.3 0 0 - 2 2 100.0 0 5 5 1 0 1 1 3 -1
+p15
+aVMouhamed Sene SEA 04/15/2007 SEA @ LAL L 6 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 0 -5
+p16
+aVRandy Livingston SEA 04/15/2007 SEA @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p17
+aVDamien Wilkins SEA 04/15/2007 SEA @ LAL L 34 17 6 10 60.0 4 4 100.0 1 1 100.0 0 0 0 1 0 0 4 5 -2
+p18
+aVRashard Lewis SEA 04/15/2007 SEA @ LAL L 42 24 8 18 44.4 4 10 40.0 4 5 80.0 2 7 9 0 0 3 2 6 -13
+p19
+aVChris Wilcox SEA 04/15/2007 SEA @ LAL L 42 20 7 15 46.7 0 1 0.0 6 8 75.0 0 10 10 2 1 1 1 2 -6
+p20
+aVMike Wilks SEA 04/14/2007 SEA @ POR L 41 17 5 11 45.5 0 1 0.0 7 7 100.0 0 2 2 11 0 0 2 5 7
+p21
+aVDamien Wilkins SEA 04/14/2007 SEA @ POR L 45 11 5 13 38.5 1 2 50.0 0 0 - 0 4 4 6 3 0 1 1 -3
+p22
+aVChris Wilcox SEA 04/14/2007 SEA @ POR L 35 20 7 14 50.0 0 0 - 6 8 75.0 5 6 11 2 0 0 1 4 5
+p23
+aVRandy Livingston SEA 04/14/2007 SEA @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -13
+p24
+aVMouhamed Sene SEA 04/14/2007 SEA @ POR L 8 5 2 3 66.7 0 0 - 1 2 50.0 3 1 4 0 0 0 1 0 -12
+p25
+aVNick Collison SEA 04/14/2007 SEA @ POR L 26 9 4 9 44.4 0 0 - 1 2 50.0 5 5 10 0 0 0 1 3 7
+p26
+aVMickael Gelabale SEA 04/14/2007 SEA @ POR L 29 11 2 5 40.0 1 4 25.0 6 7 85.7 3 1 4 1 2 0 0 3 -14
+p27
+aVRashard Lewis SEA 04/14/2007 SEA @ POR L 39 29 10 28 35.7 4 8 50.0 5 8 62.5 2 4 6 0 0 1 0 4 6
+p28
+aVJohan Petro SEA 04/14/2007 SEA @ POR L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -13
+p29
+aVDamien Wilkins SEA 04/11/2007 SEA @ PHX L 37 12 4 9 44.4 3 5 60.0 1 1 100.0 1 4 5 3 2 0 1 3 -20
+p30
+aVMike Wilks SEA 04/11/2007 SEA @ PHX L 42 20 7 13 53.8 0 0 - 6 7 85.7 0 3 3 6 0 0 1 4 -2
+p31
+aVChris Wilcox SEA 04/11/2007 SEA @ PHX L 35 15 7 14 50.0 0 1 0.0 1 2 50.0 3 9 12 0 1 0 3 2 -19
+p32
+aVNick Collison SEA 04/11/2007 SEA @ PHX L 29 4 2 6 33.3 0 0 - 0 0 - 1 4 5 1 0 0 2 3 4
+p33
+aVMickael Gelabale SEA 04/11/2007 SEA @ PHX L 19 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 0 0 2 1 -11
+p34
+aVMouhamed Sene SEA 04/11/2007 SEA @ PHX L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -1
+p35
+aVJohan Petro SEA 04/11/2007 SEA @ PHX L 24 6 3 7 42.9 0 0 - 0 0 - 1 4 5 1 0 2 1 1 -16
+p36
+aVRandy Livingston SEA 04/11/2007 SEA @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -16
+p37
+aVAndre Brown SEA 04/11/2007 SEA @ PHX L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p38
+aVRashard Lewis SEA 04/11/2007 SEA @ PHX L 40 30 12 23 52.2 4 8 50.0 2 3 66.7 0 3 3 3 3 0 6 2 -5
+p39
+aVEarl Watson SEA 04/09/2007 SEA vs. HOU L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 0
+p40
+aVMike Wilks SEA 04/09/2007 SEA vs. HOU L 36 11 3 8 37.5 1 1 100.0 4 4 100.0 1 5 6 8 0 0 3 3 -4
+p41
+aVJohan Petro SEA 04/09/2007 SEA vs. HOU L 17 6 2 5 40.0 0 0 - 2 2 100.0 0 5 5 0 0 0 0 1 -4
+p42
+aVChris Wilcox SEA 04/09/2007 SEA vs. HOU L 37 13 6 13 46.2 0 0 - 1 2 50.0 0 7 7 0 2 0 2 3 -2
+p43
+aVAndre Brown SEA 04/09/2007 SEA vs. HOU L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 2 0 4
+p44
+aVNick Collison SEA 04/09/2007 SEA vs. HOU L 34 12 5 9 55.6 0 0 - 2 2 100.0 8 5 13 0 1 0 4 4 -7
+p45
+aVMickael Gelabale SEA 04/09/2007 SEA vs. HOU L 28 13 6 10 60.0 0 1 0.0 1 2 50.0 0 6 6 1 0 1 2 3 -8
+p46
+aVDamien Wilkins SEA 04/09/2007 SEA vs. HOU L 37 13 4 11 36.4 1 6 16.7 4 5 80.0 0 1 1 4 1 0 0 3 -2
+p47
+aVRashard Lewis SEA 04/09/2007 SEA vs. HOU L 37 20 6 24 25.0 1 9 11.1 7 8 87.5 4 3 7 3 0 0 2 4 -2
+p48
+aVRashard Lewis SEA 04/07/2007 SEA @ UTA W 44 35 12 19 63.2 6 10 60.0 5 7 71.4 2 6 8 2 1 0 3 1 8
+p49
+aVEarl Watson SEA 04/07/2007 SEA @ UTA W 43 15 6 13 46.2 3 6 50.0 0 0 - 0 0 0 9 1 1 1 2 8
+p50
+aVDamien Wilkins SEA 04/07/2007 SEA @ UTA W 19 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 1 0 0 4 0 -22
+p51
+aVAndre Brown SEA 04/07/2007 SEA @ UTA W 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p52
+aVJohan Petro SEA 04/07/2007 SEA @ UTA W 19 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -13
+p53
+aVNick Collison SEA 04/07/2007 SEA @ UTA W 33 14 4 8 50.0 0 0 - 6 10 60.0 1 6 7 4 3 1 0 3 11
+p54
+aVMike Wilks SEA 04/07/2007 SEA @ UTA W 26 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 6 2 0 1 2 15
+p55
+aVChris Wilcox SEA 04/07/2007 SEA @ UTA W 21 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 1 -10
+p56
+aVMickael Gelabale SEA 04/07/2007 SEA @ UTA W 23 9 3 4 75.0 2 3 66.7 1 2 50.0 0 1 1 2 0 1 0 2 25
+p57
+aVNick Collison SEA 04/06/2007 SEA vs. LAL L 31 14 5 10 50.0 0 0 - 4 4 100.0 3 11 14 0 0 1 2 6 3
+p58
+aVMickael Gelabale SEA 04/06/2007 SEA vs. LAL L 23 8 3 4 75.0 2 2 100.0 0 0 - 2 2 4 1 0 1 2 3 -2
+p59
+aVJohan Petro SEA 04/06/2007 SEA vs. LAL L 15 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 1 0 0 3 -12
+p60
+aVAndre Brown SEA 04/06/2007 SEA vs. LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p61
+aVDamien Wilkins SEA 04/06/2007 SEA vs. LAL L 38 25 7 14 50.0 4 8 50.0 7 8 87.5 2 2 4 2 2 0 1 5 -3
+p62
+aVRashard Lewis SEA 04/06/2007 SEA vs. LAL L 41 9 4 14 28.6 1 8 12.5 0 0 - 0 4 4 5 2 0 4 2 -4
+p63
+aVLuke Ridnour SEA 04/06/2007 SEA vs. LAL L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 5 1 0 0 0 -3
+p64
+aVChris Wilcox SEA 04/06/2007 SEA vs. LAL L 39 32 11 16 68.8 0 0 - 10 16 62.5 5 13 18 1 0 0 2 3 2
+p65
+aVEarl Watson SEA 04/06/2007 SEA vs. LAL L 37 16 5 9 55.6 4 6 66.7 2 2 100.0 0 2 2 8 2 1 6 2 0
+p66
+aVMike Wilks SEA 04/06/2007 SEA vs. LAL L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p67
+aVMickael Gelabale SEA 04/04/2007 SEA @ NOK L 30 6 3 8 37.5 0 2 0.0 0 0 - 2 2 4 1 0 0 0 1 0
+p68
+aVRashard Lewis SEA 04/04/2007 SEA @ NOK L 48 27 11 30 36.7 4 13 30.8 1 3 33.3 2 8 10 0 1 1 0 3 -5
+p69
+aVMike Wilks SEA 04/04/2007 SEA @ NOK L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -6
+p70
+aVJohan Petro SEA 04/04/2007 SEA @ NOK L 25 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 0 2 3 -10
+p71
+aVMouhamed Sene SEA 04/04/2007 SEA @ NOK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p72
+aVNick Collison SEA 04/04/2007 SEA @ NOK L 41 11 5 7 71.4 0 0 - 1 1 100.0 3 3 6 1 0 2 3 5 -4
+p73
+aVEarl Watson SEA 04/04/2007 SEA @ NOK L 42 16 6 18 33.3 2 8 25.0 2 2 100.0 1 3 4 4 2 1 4 4 -3
+p74
+aVChris Wilcox SEA 04/04/2007 SEA @ NOK L 16 8 4 8 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 0
+p75
+aVLuke Ridnour SEA 04/04/2007 SEA @ NOK L 20 2 0 5 0.0 0 0 - 2 2 100.0 0 3 3 5 2 0 2 1 -8
+p76
+aVDamien Wilkins SEA 04/04/2007 SEA @ NOK L 35 16 7 12 58.3 2 5 40.0 0 0 - 0 2 2 2 1 0 2 2 -5
+p77
+aVEarl Watson SEA 04/03/2007 SEA @ SAS L 23 8 2 6 33.3 1 3 33.3 3 3 100.0 1 2 3 4 0 0 2 2 -16
+p78
+aVNick Collison SEA 04/03/2007 SEA @ SAS L 26 6 2 6 33.3 0 0 - 2 3 66.7 2 2 4 1 0 0 2 2 -28
+p79
+aVChris Wilcox SEA 04/03/2007 SEA @ SAS L 29 20 7 10 70.0 0 0 - 6 6 100.0 1 1 2 1 0 0 1 4 -16
+p80
+aVMike Wilks SEA 04/03/2007 SEA @ SAS L 14 6 2 3 66.7 0 0 - 2 3 66.7 0 0 0 4 1 0 0 0 3
+p81
+aVJohan Petro SEA 04/03/2007 SEA @ SAS L 28 14 7 16 43.8 0 0 - 0 0 - 1 2 3 1 0 3 2 2 -1
+p82
+aVRashard Lewis SEA 04/03/2007 SEA @ SAS L 31 19 8 13 61.5 1 3 33.3 2 2 100.0 1 1 2 1 0 0 2 1 -29
+p83
+aVLuke Ridnour SEA 04/03/2007 SEA @ SAS L 25 2 1 7 14.3 0 0 - 0 0 - 0 4 4 3 0 0 0 2 -22
+p84
+aVMouhamed Sene SEA 04/03/2007 SEA @ SAS L 12 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 3 7
+p85
+aVMickael Gelabale SEA 04/03/2007 SEA @ SAS L 20 4 2 4 50.0 0 2 0.0 0 1 0.0 1 0 1 2 0 0 0 1 5
+p86
+aVDamien Wilkins SEA 04/03/2007 SEA @ SAS L 31 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 4 2
+p87
+aVLuke Ridnour SEA 04/01/2007 SEA vs. DEN L 34 8 3 12 25.0 1 5 20.0 1 2 50.0 0 1 1 8 2 0 2 6 -12
+p88
+aVMickael Gelabale SEA 04/01/2007 SEA vs. DEN L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -7
+p89
+aVAndre Brown SEA 04/01/2007 SEA vs. DEN L 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p90
+aVEarl Watson SEA 04/01/2007 SEA vs. DEN L 37 28 9 20 45.0 6 15 40.0 4 6 66.7 0 1 1 3 3 1 3 2 0
+p91
+aVJohan Petro SEA 04/01/2007 SEA vs. DEN L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -6
+p92
+aVMike Wilks SEA 04/01/2007 SEA vs. DEN L 10 4 2 3 66.7 0 0 - 0 0 - 2 0 2 3 0 0 1 3 5
+p93
+aVRashard Lewis SEA 04/01/2007 SEA vs. DEN L 42 27 8 16 50.0 5 9 55.6 6 8 75.0 2 7 9 2 1 2 1 3 -7
+p94
+aVChris Wilcox SEA 04/01/2007 SEA vs. DEN L 37 20 8 11 72.7 0 0 - 4 5 80.0 1 3 4 1 4 0 3 5 -11
+p95
+aVNick Collison SEA 04/01/2007 SEA vs. DEN L 37 8 4 9 44.4 0 0 - 0 0 - 1 1 2 1 0 1 3 5 -9
+p96
+aVDamien Wilkins SEA 04/01/2007 SEA vs. DEN L 16 6 1 3 33.3 0 1 0.0 4 4 100.0 1 0 1 0 1 0 2 1 -15
+p97
+aVChris Wilcox SEA 03/30/2007 SEA vs. MEM W 14 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 0 1 4 12
+p98
+aVNick Collison SEA 03/30/2007 SEA vs. MEM W 33 22 10 16 62.5 0 1 0.0 2 2 100.0 5 7 12 2 1 2 1 2 34
+p99
+aVMickael Gelabale SEA 03/30/2007 SEA vs. MEM W 24 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 2 1 0 0 2 0
+p100
+aVLuke Ridnour SEA 03/30/2007 SEA vs. MEM W 29 13 5 9 55.6 0 2 0.0 3 3 100.0 0 0 0 12 2 0 0 1 33
+p101
+aVJohan Petro SEA 03/30/2007 SEA vs. MEM W 27 22 11 14 78.6 0 0 - 0 0 - 2 3 5 1 0 2 0 2 12
+p102
+aVAndre Brown SEA 03/30/2007 SEA vs. MEM W 6 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 0 -4
+p103
+aVMouhamed Sene SEA 03/30/2007 SEA vs. MEM W 12 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 0 2 1 2 -2
+p104
+aVDamien Wilkins SEA 03/30/2007 SEA vs. MEM W 31 16 5 9 55.6 2 5 40.0 4 4 100.0 0 3 3 6 2 0 4 2 10
+p105
+aVRashard Lewis SEA 03/30/2007 SEA vs. MEM W 35 21 8 13 61.5 5 7 71.4 0 0 - 0 1 1 2 1 1 1 3 33
+p106
+aVMike Wilks SEA 03/30/2007 SEA vs. MEM W 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p107
+aVEarl Watson SEA 03/30/2007 SEA vs. MEM W 23 7 2 3 66.7 2 2 100.0 1 2 50.0 1 3 4 7 3 0 3 3 9
+p108
+aVChris Wilcox SEA 03/28/2007 SEA @ DEN W 33 12 6 10 60.0 0 0 - 0 0 - 0 5 5 2 1 1 2 4 10
+p109
+aVRashard Lewis SEA 03/28/2007 SEA @ DEN W 38 33 11 21 52.4 3 8 37.5 8 11 72.7 2 8 10 1 1 0 4 3 -9
+p110
+aVAndre Brown SEA 03/28/2007 SEA @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p111
+aVNick Collison SEA 03/28/2007 SEA @ DEN W 43 16 7 10 70.0 0 0 - 2 2 100.0 1 12 13 0 1 1 1 2 1
+p112
+aVMickael Gelabale SEA 03/28/2007 SEA @ DEN W 25 9 4 6 66.7 1 1 100.0 0 0 - 1 3 4 3 1 0 1 2 10
+p113
+aVJohan Petro SEA 03/28/2007 SEA @ DEN W 18 4 2 5 40.0 0 0 - 0 2 0.0 1 4 5 0 1 0 3 4 1
+p114
+aVDamien Wilkins SEA 03/28/2007 SEA @ DEN W 30 12 5 8 62.5 0 0 - 2 2 100.0 1 2 3 5 2 0 1 1 6
+p115
+aVLuke Ridnour SEA 03/28/2007 SEA @ DEN W 18 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 6 0 1 3 3 -16
+p116
+aVEarl Watson SEA 03/28/2007 SEA @ DEN W 35 9 3 7 42.9 3 4 75.0 0 0 - 0 2 2 10 1 1 4 3 17
+p117
+aVLuke Ridnour SEA 03/27/2007 SEA @ MIN W 25 7 3 6 50.0 1 1 100.0 0 0 - 1 0 1 2 1 1 2 2 -19
+p118
+aVAndre Brown SEA 03/27/2007 SEA @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p119
+aVEarl Watson SEA 03/27/2007 SEA @ MIN W 36 24 6 13 46.2 5 11 45.5 7 10 70.0 0 3 3 4 2 0 2 2 21
+p120
+aVChris Wilcox SEA 03/27/2007 SEA @ MIN W 38 19 9 14 64.3 0 0 - 1 5 20.0 3 6 9 2 2 1 1 2 9
+p121
+aVNick Collison SEA 03/27/2007 SEA @ MIN W 24 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 0 0 0 6 -2
+p122
+aVMickael Gelabale SEA 03/27/2007 SEA @ MIN W 20 9 3 5 60.0 1 1 100.0 2 2 100.0 1 3 4 1 1 0 2 2 13
+p123
+aVDamien Wilkins SEA 03/27/2007 SEA @ MIN W 18 4 2 6 33.3 0 0 - 0 0 - 2 2 4 4 0 0 3 1 -21
+p124
+aVJohan Petro SEA 03/27/2007 SEA @ MIN W 21 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 1 1 0 1 -8
+p125
+aVRashard Lewis SEA 03/27/2007 SEA @ MIN W 38 35 8 20 40.0 3 9 33.3 16 17 94.1 0 3 3 4 0 1 0 4 15
+p126
+aVMike Wilks SEA 03/27/2007 SEA @ MIN W 18 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 0 33
+p127
+aVRashard Lewis SEA 03/25/2007 SEA vs. SAS L 34 13 4 11 36.4 0 2 0.0 5 8 62.5 1 2 3 2 1 0 2 1 -16
+p128
+aVMike Wilks SEA 03/25/2007 SEA vs. SAS L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -13
+p129
+aVLuke Ridnour SEA 03/25/2007 SEA vs. SAS L 33 16 7 12 58.3 0 1 0.0 2 2 100.0 0 3 3 4 2 1 1 3 -16
+p130
+aVDamien Wilkins SEA 03/25/2007 SEA vs. SAS L 28 7 3 12 25.0 1 3 33.3 0 0 - 1 2 3 1 1 0 1 2 -18
+p131
+aVAndre Brown SEA 03/25/2007 SEA vs. SAS L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p132
+aVChris Wilcox SEA 03/25/2007 SEA vs. SAS L 26 14 4 8 50.0 0 0 - 6 8 75.0 2 7 9 0 0 2 1 3 -19
+p133
+aVDanny Fortson SEA 03/25/2007 SEA vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -14
+p134
+aVMickael Gelabale SEA 03/25/2007 SEA vs. SAS L 27 6 0 4 0.0 0 1 0.0 6 6 100.0 3 4 7 1 0 1 2 0 -30
+p135
+aVEarl Watson SEA 03/25/2007 SEA vs. SAS L 30 9 3 8 37.5 2 5 40.0 1 2 50.0 0 1 1 2 1 1 3 4 -39
+p136
+aVMouhamed Sene SEA 03/25/2007 SEA vs. SAS L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p137
+aVNick Collison SEA 03/25/2007 SEA vs. SAS L 22 4 1 5 20.0 0 0 - 2 2 100.0 3 4 7 0 0 0 3 4 -25
+p138
+aVJohan Petro SEA 03/25/2007 SEA vs. SAS L 19 4 2 7 28.6 0 0 - 0 0 - 2 2 4 0 0 1 3 3 -8
+p139
+aVLuke Ridnour SEA 03/23/2007 SEA vs. MIN W 21 4 1 7 14.3 0 1 0.0 2 2 100.0 0 3 3 3 0 0 1 0 -13
+p140
+aVRashard Lewis SEA 03/23/2007 SEA vs. MIN W 41 22 7 20 35.0 3 10 30.0 5 6 83.3 2 4 6 3 2 1 0 2 3
+p141
+aVEarl Watson SEA 03/23/2007 SEA vs. MIN W 31 14 5 11 45.5 3 5 60.0 1 2 50.0 0 2 2 7 1 1 1 2 14
+p142
+aVMickael Gelabale SEA 03/23/2007 SEA vs. MIN W 28 6 2 4 50.0 1 2 50.0 1 2 50.0 1 4 5 0 1 1 0 2 17
+p143
+aVChris Wilcox SEA 03/23/2007 SEA vs. MIN W 40 16 5 14 35.7 0 0 - 6 8 75.0 4 8 12 0 0 0 0 4 -1
+p144
+aVJohan Petro SEA 03/23/2007 SEA vs. MIN W 23 8 4 4 100.0 0 0 - 0 0 - 0 6 6 2 0 0 0 1 -3
+p145
+aVNick Collison SEA 03/23/2007 SEA vs. MIN W 19 3 0 3 0.0 0 0 - 3 4 75.0 2 5 7 1 1 0 1 4 -9
+p146
+aVDamien Wilkins SEA 03/23/2007 SEA vs. MIN W 37 12 4 14 28.6 0 3 0.0 4 6 66.7 1 1 2 2 4 0 2 3 7
+p147
+aVLuke Ridnour SEA 03/21/2007 SEA vs. WAS L 40 12 5 11 45.5 0 1 0.0 2 3 66.7 0 4 4 5 1 0 1 3 -5
+p148
+aVMickael Gelabale SEA 03/21/2007 SEA vs. WAS L 5 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 3
+p149
+aVRashard Lewis SEA 03/21/2007 SEA vs. WAS L 41 26 9 24 37.5 3 12 25.0 5 5 100.0 4 6 10 4 0 0 1 3 -2
+p150
+aVDamien Wilkins SEA 03/21/2007 SEA vs. WAS L 39 12 2 9 22.2 1 2 50.0 7 7 100.0 2 0 2 2 0 0 2 1 -3
+p151
+aVChris Wilcox SEA 03/21/2007 SEA vs. WAS L 42 27 11 20 55.0 0 0 - 5 10 50.0 6 16 22 1 2 0 2 4 3
+p152
+aVNick Collison SEA 03/21/2007 SEA vs. WAS L 27 10 3 10 30.0 0 0 - 4 4 100.0 6 4 10 1 0 0 2 5 -1
+p153
+aVAndre Brown SEA 03/21/2007 SEA vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p154
+aVEarl Watson SEA 03/21/2007 SEA vs. WAS L 33 15 5 10 50.0 4 7 57.1 1 2 50.0 0 1 1 5 1 0 2 2 -3
+p155
+aVJohan Petro SEA 03/21/2007 SEA vs. WAS L 12 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 0 2 1 -4
+p156
+aVChris Wilcox SEA 03/18/2007 SEA @ POR W 40 26 8 16 50.0 0 0 - 10 13 76.9 1 8 9 0 0 0 1 2 21
+p157
+aVDamien Wilkins SEA 03/18/2007 SEA @ POR W 21 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 0 0 0 1 1 16
+p158
+aVEarl Watson SEA 03/18/2007 SEA @ POR W 28 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 8 0 0 2 4 16
+p159
+aVRashard Lewis SEA 03/18/2007 SEA @ POR W 38 27 8 13 61.5 3 5 60.0 8 11 72.7 3 9 12 4 1 2 1 1 19
+p160
+aVNick Collison SEA 03/18/2007 SEA @ POR W 28 16 6 7 85.7 0 0 - 4 4 100.0 2 9 11 3 1 2 1 3 -5
+p161
+aVJohan Petro SEA 03/18/2007 SEA @ POR W 17 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 0 1 3 7
+p162
+aVLuke Ridnour SEA 03/18/2007 SEA @ POR W 23 5 1 6 16.7 1 4 25.0 2 2 100.0 1 2 3 5 2 0 1 1 2
+p163
+aVRay Allen SEA 03/18/2007 SEA @ POR W 43 12 4 19 21.1 2 9 22.2 2 2 100.0 0 0 0 4 1 0 0 2 16
+p164
+aVAndre Brown SEA 03/18/2007 SEA @ POR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p165
+aVRashard Lewis SEA 03/17/2007 SEA vs. GSW L 45 23 8 18 44.4 4 9 44.4 3 6 50.0 3 3 6 3 1 0 0 0 10
+p166
+aVDamien Wilkins SEA 03/17/2007 SEA vs. GSW L 23 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 3 2 0 2 4 -9
+p167
+aVJohan Petro SEA 03/17/2007 SEA vs. GSW L 11 7 3 8 37.5 0 0 - 1 4 25.0 1 0 1 0 1 1 0 2 -18
+p168
+aVLuke Ridnour SEA 03/17/2007 SEA vs. GSW L 23 5 1 4 25.0 1 1 100.0 2 2 100.0 0 2 2 4 1 0 5 2 2
+p169
+aVChris Wilcox SEA 03/17/2007 SEA vs. GSW L 27 15 7 11 63.6 0 0 - 1 2 50.0 3 5 8 0 0 1 5 2 4
+p170
+aVRay Allen SEA 03/17/2007 SEA vs. GSW L 40 25 7 21 33.3 2 8 25.0 9 9 100.0 1 5 6 3 3 1 5 3 4
+p171
+aVEarl Watson SEA 03/17/2007 SEA vs. GSW L 32 7 2 6 33.3 0 3 0.0 3 4 75.0 0 4 4 4 1 0 5 2 -6
+p172
+aVNick Collison SEA 03/17/2007 SEA vs. GSW L 38 8 2 6 33.3 0 0 - 4 5 80.0 5 13 18 2 3 4 1 3 8
+p173
+aVMike Wilks SEA 03/13/2007 SEA vs. DET L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p174
+aVChris Wilcox SEA 03/13/2007 SEA vs. DET L 38 21 10 12 83.3 0 0 - 1 1 100.0 2 3 5 2 3 0 2 2 1
+p175
+aVEarl Watson SEA 03/13/2007 SEA vs. DET L 41 16 5 11 45.5 4 7 57.1 2 2 100.0 1 4 5 7 2 0 5 2 3
+p176
+aVJohan Petro SEA 03/13/2007 SEA vs. DET L 26 10 5 6 83.3 0 0 - 0 0 - 2 7 9 3 0 0 0 3 -12
+p177
+aVMickael Gelabale SEA 03/13/2007 SEA vs. DET L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p178
+aVDamien Wilkins SEA 03/13/2007 SEA vs. DET L 10 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 1 -7
+p179
+aVRashard Lewis SEA 03/13/2007 SEA vs. DET L 41 13 5 11 45.5 1 5 20.0 2 2 100.0 2 1 3 2 1 0 3 2 3
+p180
+aVAndre Brown SEA 03/13/2007 SEA vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p181
+aVRay Allen SEA 03/13/2007 SEA vs. DET L 42 27 7 24 29.2 5 9 55.6 8 8 100.0 0 7 7 6 1 0 6 1 4
+p182
+aVNick Collison SEA 03/13/2007 SEA vs. DET L 29 5 2 5 40.0 0 0 - 1 2 50.0 3 5 8 1 0 0 4 5 1
+p183
+aVAndre Brown SEA 03/11/2007 SEA @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p184
+aVRay Allen SEA 03/11/2007 SEA @ TOR L 46 36 14 28 50.0 4 7 57.1 4 5 80.0 1 8 9 2 0 0 3 2 -8
+p185
+aVNick Collison SEA 03/11/2007 SEA @ TOR L 31 6 3 6 50.0 0 0 - 0 1 0.0 2 3 5 1 0 0 1 6 -13
+p186
+aVDamien Wilkins SEA 03/11/2007 SEA @ TOR L 18 12 5 6 83.3 2 3 66.7 0 0 - 1 1 2 1 0 0 0 1 2
+p187
+aVEarl Watson SEA 03/11/2007 SEA @ TOR L 42 8 3 15 20.0 0 5 0.0 2 4 50.0 2 1 3 7 2 0 3 3 0
+p188
+aVRashard Lewis SEA 03/11/2007 SEA @ TOR L 45 26 9 18 50.0 2 7 28.6 6 7 85.7 4 9 13 3 0 2 2 2 0
+p189
+aVMike Wilks SEA 03/11/2007 SEA @ TOR L 11 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -1
+p190
+aVJohan Petro SEA 03/11/2007 SEA @ TOR L 28 13 5 10 50.0 0 0 - 3 5 60.0 4 9 13 0 2 0 2 5 18
+p191
+aVChris Wilcox SEA 03/11/2007 SEA @ TOR L 33 12 4 10 40.0 0 0 - 4 4 100.0 3 4 7 1 1 0 3 4 -10
+p192
+aVMickael Gelabale SEA 03/11/2007 SEA @ TOR L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 7
+p193
+aVAndre Brown SEA 03/09/2007 SEA @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p194
+aVEarl Watson SEA 03/09/2007 SEA @ BOS L 32 17 7 12 58.3 2 6 33.3 1 1 100.0 1 2 3 7 3 0 4 4 -9
+p195
+aVMike Wilks SEA 03/09/2007 SEA @ BOS L 19 2 0 5 0.0 0 0 - 2 2 100.0 0 3 3 2 2 0 3 4 -8
+p196
+aVJohan Petro SEA 03/09/2007 SEA @ BOS L 7 4 2 2 100.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 4 3
+p197
+aVRay Allen SEA 03/09/2007 SEA @ BOS L 43 22 8 21 38.1 2 9 22.2 4 4 100.0 1 4 5 5 2 0 1 1 -15
+p198
+aVMickael Gelabale SEA 03/09/2007 SEA @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p199
+aVNick Collison SEA 03/09/2007 SEA @ BOS L 39 17 7 12 58.3 0 0 - 3 4 75.0 5 3 8 1 0 1 1 4 -8
+p200
+aVMouhamed Sene SEA 03/09/2007 SEA @ BOS L 1 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p201
+aVDamien Wilkins SEA 03/09/2007 SEA @ BOS L 27 13 6 9 66.7 1 1 100.0 0 0 - 1 2 3 1 2 0 2 0 -7
+p202
+aVRashard Lewis SEA 03/09/2007 SEA @ BOS L 39 16 6 11 54.5 3 5 60.0 1 2 50.0 0 3 3 0 1 0 3 2 -14
+p203
+aVChris Wilcox SEA 03/09/2007 SEA @ BOS L 29 12 4 9 44.4 0 0 - 4 5 80.0 5 5 10 0 0 0 1 2 -16
+p204
+aVJohan Petro SEA 03/07/2007 SEA @ PHI L 23 8 4 10 40.0 0 0 - 0 0 - 3 6 9 0 0 0 1 1 -10
+p205
+aVNick Collison SEA 03/07/2007 SEA @ PHI L 35 9 3 8 37.5 0 0 - 3 4 75.0 7 4 11 1 1 0 0 4 -10
+p206
+aVDamien Wilkins SEA 03/07/2007 SEA @ PHI L 21 18 6 9 66.7 1 1 100.0 5 5 100.0 5 3 8 1 1 0 1 0 11
+p207
+aVChris Wilcox SEA 03/07/2007 SEA @ PHI L 24 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 2 0 1 4 7
+p208
+aVRay Allen SEA 03/07/2007 SEA @ PHI L 41 29 10 27 37.0 3 13 23.1 6 7 85.7 0 3 3 3 2 0 3 5 -7
+p209
+aVAndre Brown SEA 03/07/2007 SEA @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p210
+aVEarl Watson SEA 03/07/2007 SEA @ PHI L 42 10 5 14 35.7 0 4 0.0 0 0 - 1 4 5 9 4 0 2 2 -1
+p211
+aVMickael Gelabale SEA 03/07/2007 SEA @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p212
+aVMike Wilks SEA 03/07/2007 SEA @ PHI L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p213
+aVRashard Lewis SEA 03/07/2007 SEA @ PHI L 44 11 5 15 33.3 1 5 20.0 0 0 - 0 3 3 3 2 2 2 4 -6
+p214
+aVDamien Wilkins SEA 03/06/2007 SEA @ NYK W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 3 1 1
+p215
+aVRay Allen SEA 03/06/2007 SEA @ NYK W 44 29 9 22 40.9 3 9 33.3 8 9 88.9 1 7 8 7 2 0 3 4 -2
+p216
+aVEarl Watson SEA 03/06/2007 SEA @ NYK W 40 23 8 13 61.5 6 8 75.0 1 1 100.0 0 1 1 9 1 0 1 3 6
+p217
+aVJohan Petro SEA 03/06/2007 SEA @ NYK W 27 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 0 2 0 5 2
+p218
+aVMickael Gelabale SEA 03/06/2007 SEA @ NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p219
+aVRashard Lewis SEA 03/06/2007 SEA @ NYK W 44 24 10 22 45.5 4 7 57.1 0 0 - 3 5 8 7 0 1 2 2 6
+p220
+aVChris Wilcox SEA 03/06/2007 SEA @ NYK W 22 12 6 7 85.7 0 0 - 0 0 - 0 5 5 0 0 2 1 3 5
+p221
+aVMike Wilks SEA 03/06/2007 SEA @ NYK W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p222
+aVAndre Brown SEA 03/06/2007 SEA @ NYK W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 2 1 2
+p223
+aVNick Collison SEA 03/06/2007 SEA @ NYK W 38 4 2 2 100.0 0 0 - 0 0 - 2 3 5 3 2 0 2 5 -8
+p224
+aVDamien Wilkins SEA 03/04/2007 SEA vs. CHA W 28 6 2 8 25.0 0 0 - 2 2 100.0 1 3 4 3 3 0 0 2 14
+p225
+aVNick Collison SEA 03/04/2007 SEA vs. CHA W 30 6 2 3 66.7 0 0 - 2 2 100.0 3 7 10 2 1 1 3 4 16
+p226
+aVChris Wilcox SEA 03/04/2007 SEA vs. CHA W 20 4 1 6 16.7 0 1 0.0 2 2 100.0 1 5 6 0 0 1 1 0 -12
+p227
+aVRay Allen SEA 03/04/2007 SEA vs. CHA W 41 34 13 25 52.0 5 12 41.7 3 3 100.0 0 2 2 0 0 0 2 2 -1
+p228
+aVMike Wilks SEA 03/04/2007 SEA vs. CHA W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 3 8
+p229
+aVMickael Gelabale SEA 03/04/2007 SEA vs. CHA W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 5
+p230
+aVLuke Ridnour SEA 03/04/2007 SEA vs. CHA W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p231
+aVEarl Watson SEA 03/04/2007 SEA vs. CHA W 35 10 2 8 25.0 0 2 0.0 6 6 100.0 1 5 6 10 3 2 5 2 4
+p232
+aVAndre Brown SEA 03/04/2007 SEA vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p233
+aVRashard Lewis SEA 03/04/2007 SEA vs. CHA W 42 28 9 15 60.0 3 5 60.0 7 9 77.8 2 6 8 3 0 0 1 3 8
+p234
+aVJohan Petro SEA 03/04/2007 SEA vs. CHA W 10 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 0 0 1 0 3 -1
+p235
+aVJohan Petro SEA 03/01/2007 SEA vs. LAC W 5 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 3
+p236
+aVMickael Gelabale SEA 03/01/2007 SEA vs. LAC W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 9
+p237
+aVNick Collison SEA 03/01/2007 SEA vs. LAC W 39 11 4 6 66.7 0 0 - 3 4 75.0 3 7 10 1 0 1 0 3 2
+p238
+aVDamien Wilkins SEA 03/01/2007 SEA vs. LAC W 20 3 1 6 16.7 0 1 0.0 1 1 100.0 1 0 1 1 0 0 0 3 -7
+p239
+aVLuke Ridnour SEA 03/01/2007 SEA vs. LAC W 39 12 5 12 41.7 0 1 0.0 2 3 66.7 0 2 2 3 2 0 5 4 -2
+p240
+aVChris Wilcox SEA 03/01/2007 SEA vs. LAC W 41 12 4 12 33.3 0 0 - 4 6 66.7 5 8 13 0 0 1 3 6 -4
+p241
+aVEarl Watson SEA 03/01/2007 SEA vs. LAC W 27 4 2 8 25.0 0 2 0.0 0 0 - 1 1 2 1 1 0 1 0 2
+p242
+aVRashard Lewis SEA 03/01/2007 SEA vs. LAC W 45 31 10 19 52.6 2 5 40.0 9 10 90.0 2 5 7 5 2 1 5 4 4
+p243
+aVAndre Brown SEA 03/01/2007 SEA vs. LAC W 12 3 1 3 33.3 0 0 - 1 1 100.0 0 3 3 0 1 0 0 0 3
+p244
+aVNick Collison SEA 02/28/2007 SEA @ LAC L 37 6 3 6 50.0 0 0 - 0 0 - 5 7 12 1 1 0 1 5 -5
+p245
+aVRay Allen SEA 02/28/2007 SEA @ LAC L 41 19 8 22 36.4 1 3 33.3 2 2 100.0 3 2 5 2 0 0 4 0 -1
+p246
+aVJohan Petro SEA 02/28/2007 SEA @ LAC L 13 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -1
+p247
+aVLuke Ridnour SEA 02/28/2007 SEA @ LAC L 30 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 7 0 0 1 0 0
+p248
+aVChris Wilcox SEA 02/28/2007 SEA @ LAC L 34 13 6 6 100.0 0 0 - 1 2 50.0 1 5 6 1 1 1 3 4 -2
+p249
+aVRashard Lewis SEA 02/28/2007 SEA @ LAC L 44 21 6 17 35.3 0 5 0.0 9 10 90.0 1 6 7 4 2 1 1 5 -4
+p250
+aVDamien Wilkins SEA 02/28/2007 SEA @ LAC L 10 3 0 0 - 0 0 - 3 4 75.0 0 0 0 1 0 0 2 2 -1
+p251
+aVEarl Watson SEA 02/28/2007 SEA @ LAC L 31 19 6 10 60.0 2 4 50.0 5 7 71.4 0 3 3 5 3 0 3 1 -11
+p252
+aVEarl Watson SEA 02/26/2007 SEA vs. POR W 26 4 1 5 20.0 1 2 50.0 1 2 50.0 1 2 3 3 0 0 2 1 0
+p253
+aVLuke Ridnour SEA 02/26/2007 SEA vs. POR W 34 4 1 9 11.1 0 3 0.0 2 2 100.0 1 1 2 8 1 0 1 2 15
+p254
+aVNick Collison SEA 02/26/2007 SEA vs. POR W 28 8 3 8 37.5 0 0 - 2 2 100.0 2 8 10 2 0 2 1 3 15
+p255
+aVRay Allen SEA 02/26/2007 SEA vs. POR W 37 16 6 13 46.2 3 6 50.0 1 1 100.0 2 8 10 6 0 1 3 2 25
+p256
+aVDamien Wilkins SEA 02/26/2007 SEA vs. POR W 17 10 5 7 71.4 0 0 - 0 0 - 0 3 3 1 1 0 2 4 2
+p257
+aVMickael Gelabale SEA 02/26/2007 SEA vs. POR W 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 5
+p258
+aVJohan Petro SEA 02/26/2007 SEA vs. POR W 16 7 3 7 42.9 0 0 - 1 2 50.0 2 1 3 0 1 0 2 1 5
+p259
+aVRashard Lewis SEA 02/26/2007 SEA vs. POR W 40 29 10 18 55.6 6 11 54.5 3 4 75.0 0 7 7 2 2 0 2 2 23
+p260
+aVMike Wilks SEA 02/26/2007 SEA vs. POR W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 5
+p261
+aVChris Wilcox SEA 02/26/2007 SEA vs. POR W 27 10 5 9 55.6 0 0 - 0 1 0.0 1 4 5 0 0 1 0 2 22
+p262
+aVAndre Brown SEA 02/26/2007 SEA vs. POR W 6 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 0 3
+p263
+aVRashard Lewis SEA 02/24/2007 SEA @ SAS L 29 10 4 13 30.8 2 4 50.0 0 0 - 2 4 6 3 1 0 1 2 -29
+p264
+aVRay Allen SEA 02/24/2007 SEA @ SAS L 30 12 4 20 20.0 2 6 33.3 2 2 100.0 0 3 3 3 1 0 3 1 -19
+p265
+aVEarl Watson SEA 02/24/2007 SEA @ SAS L 23 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 2 0 0 2 0 -31
+p266
+aVChris Wilcox SEA 02/24/2007 SEA @ SAS L 28 8 3 7 42.9 0 0 - 2 4 50.0 1 3 4 1 2 0 1 2 -21
+p267
+aVMickael Gelabale SEA 02/24/2007 SEA @ SAS L 21 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 0 0 -8
+p268
+aVDamien Wilkins SEA 02/24/2007 SEA @ SAS L 16 10 4 6 66.7 2 3 66.7 0 0 - 1 1 2 0 1 0 1 1 -2
+p269
+aVMouhamed Sene SEA 02/24/2007 SEA @ SAS L 12 2 0 3 0.0 0 0 - 2 2 100.0 2 4 6 0 0 0 0 3 2
+p270
+aVAndre Brown SEA 02/24/2007 SEA @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p271
+aVLuke Ridnour SEA 02/24/2007 SEA @ SAS L 16 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 1 1 2 1 3 -5
+p272
+aVNick Collison SEA 02/24/2007 SEA @ SAS L 26 6 3 8 37.5 0 0 - 0 0 - 3 4 7 2 0 0 2 2 -12
+p273
+aVMike Wilks SEA 02/24/2007 SEA @ SAS L 12 4 2 5 40.0 0 2 0.0 0 0 - 1 0 1 2 0 1 1 1 2
+p274
+aVJohan Petro SEA 02/24/2007 SEA @ SAS L 23 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -22
+p275
+aVEarl Watson SEA 02/23/2007 SEA @ NOK L 28 18 8 9 88.9 2 2 100.0 0 0 - 0 2 2 5 0 0 4 2 -6
+p276
+aVNick Collison SEA 02/23/2007 SEA @ NOK L 40 6 2 6 33.3 0 0 - 2 2 100.0 3 8 11 0 0 2 2 3 -7
+p277
+aVJohan Petro SEA 02/23/2007 SEA @ NOK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -12
+p278
+aVMike Wilks SEA 02/23/2007 SEA @ NOK L 3 2 0 0 - 0 0 - 2 5 40.0 0 0 0 1 0 0 0 0 1
+p279
+aVChris Wilcox SEA 02/23/2007 SEA @ NOK L 34 7 3 5 60.0 0 0 - 1 2 50.0 0 4 4 0 1 1 1 2 6
+p280
+aVRay Allen SEA 02/23/2007 SEA @ NOK L 39 32 11 20 55.0 5 8 62.5 5 5 100.0 1 5 6 6 1 0 7 1 -3
+p281
+aVDamien Wilkins SEA 02/23/2007 SEA @ NOK L 16 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -2
+p282
+aVLuke Ridnour SEA 02/23/2007 SEA @ NOK L 26 8 4 9 44.4 0 0 - 0 0 - 0 2 2 2 0 0 1 4 10
+p283
+aVAndre Brown SEA 02/23/2007 SEA @ NOK L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 5
+p284
+aVRashard Lewis SEA 02/23/2007 SEA @ NOK L 41 18 7 19 36.8 2 7 28.6 2 2 100.0 0 12 12 1 0 0 2 0 3
+p285
+aVJohan Petro SEA 02/20/2007 SEA vs. MEM W 19 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 1 0 4 -1
+p286
+aVMickael Gelabale SEA 02/20/2007 SEA vs. MEM W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p287
+aVRashard Lewis SEA 02/20/2007 SEA vs. MEM W 39 34 13 25 52.0 3 7 42.9 5 6 83.3 3 4 7 1 0 1 3 3 11
+p288
+aVNick Collison SEA 02/20/2007 SEA vs. MEM W 37 10 4 8 50.0 0 0 - 2 2 100.0 4 10 14 0 1 3 2 4 22
+p289
+aVRay Allen SEA 02/20/2007 SEA vs. MEM W 40 27 11 20 55.0 4 5 80.0 1 1 100.0 1 5 6 5 3 0 1 1 24
+p290
+aVChris Wilcox SEA 02/20/2007 SEA vs. MEM W 35 13 3 10 30.0 0 0 - 7 11 63.6 4 11 15 1 2 0 0 4 12
+p291
+aVAndre Brown SEA 02/20/2007 SEA vs. MEM W 5 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 0 1 1 -3
+p292
+aVLuke Ridnour SEA 02/20/2007 SEA vs. MEM W 29 15 7 15 46.7 1 2 50.0 0 2 0.0 2 1 3 12 5 0 2 0 25
+p293
+aVDamien Wilkins SEA 02/20/2007 SEA vs. MEM W 16 6 2 8 25.0 0 0 - 2 2 100.0 2 3 5 2 1 0 0 2 -2
+p294
+aVEarl Watson SEA 02/20/2007 SEA vs. MEM W 17 6 3 7 42.9 0 0 - 0 0 - 0 0 0 7 2 0 2 2 -10
+p295
+aVMike Wilks SEA 02/20/2007 SEA vs. MEM W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p296
+aVDamien Wilkins SEA 02/14/2007 SEA vs. PHX W 17 8 2 8 25.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 1 16
+p297
+aVJohan Petro SEA 02/14/2007 SEA vs. PHX W 13 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 1 0 0 1 4 10
+p298
+aVLuke Ridnour SEA 02/14/2007 SEA vs. PHX W 27 6 3 9 33.3 0 2 0.0 0 0 - 0 0 0 6 1 0 2 1 12
+p299
+aVNick Collison SEA 02/14/2007 SEA vs. PHX W 41 22 10 13 76.9 0 0 - 2 3 66.7 5 10 15 3 0 2 1 2 21
+p300
+aVMickael Gelabale SEA 02/14/2007 SEA vs. PHX W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 1 1 1 5
+p301
+aVRashard Lewis SEA 02/14/2007 SEA vs. PHX W 36 20 8 16 50.0 3 6 50.0 1 1 100.0 0 3 3 1 2 0 3 1 11
+p302
+aVAndre Brown SEA 02/14/2007 SEA vs. PHX W 20 2 1 1 100.0 0 0 - 0 0 - 0 5 5 0 0 1 0 3 12
+p303
+aVChris Wilcox SEA 02/14/2007 SEA vs. PHX W 22 5 2 4 50.0 0 0 - 1 3 33.3 0 7 7 2 0 0 2 5 5
+p304
+aVRay Allen SEA 02/14/2007 SEA vs. PHX W 35 31 11 19 57.9 5 9 55.6 4 4 100.0 1 5 6 4 2 0 2 2 11
+p305
+aVMike Wilks SEA 02/14/2007 SEA vs. PHX W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p306
+aVEarl Watson SEA 02/14/2007 SEA vs. PHX W 22 12 5 7 71.4 0 0 - 2 2 100.0 0 1 1 7 0 0 2 0 14
+p307
+aVEarl Watson SEA 02/11/2007 SEA @ SAC W 21 12 3 5 60.0 0 2 0.0 6 6 100.0 1 5 6 3 0 0 0 1 5
+p308
+aVChris Wilcox SEA 02/11/2007 SEA @ SAC W 39 25 8 9 88.9 0 0 - 9 11 81.8 1 6 7 0 3 2 1 4 19
+p309
+aVNick Collison SEA 02/11/2007 SEA @ SAC W 28 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 1 0 1 1 5 6
+p310
+aVLuke Ridnour SEA 02/11/2007 SEA @ SAC W 34 14 4 8 50.0 1 2 50.0 5 6 83.3 0 0 0 5 2 0 1 4 15
+p311
+aVRay Allen SEA 02/11/2007 SEA @ SAC W 41 25 10 23 43.5 3 7 42.9 2 2 100.0 1 4 5 4 1 0 2 3 14
+p312
+aVDamien Wilkins SEA 02/11/2007 SEA @ SAC W 17 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -15
+p313
+aVJohan Petro SEA 02/11/2007 SEA @ SAC W 18 12 3 5 60.0 0 0 - 6 6 100.0 4 5 9 1 0 1 1 4 -5
+p314
+aVRashard Lewis SEA 02/11/2007 SEA @ SAC W 43 23 7 19 36.8 1 6 16.7 8 8 100.0 1 9 10 1 3 1 2 0 16
+p315
+aVEarl Watson SEA 02/10/2007 SEA vs. SAC L 26 4 1 6 16.7 1 5 20.0 1 2 50.0 1 0 1 6 2 0 2 1 -6
+p316
+aVAndre Brown SEA 02/10/2007 SEA vs. SAC L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -12
+p317
+aVMike Wilks SEA 02/10/2007 SEA vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 0 1 3
+p318
+aVChris Wilcox SEA 02/10/2007 SEA vs. SAC L 34 10 4 6 66.7 0 0 - 2 4 50.0 1 10 11 0 1 1 2 2 -6
+p319
+aVLuke Ridnour SEA 02/10/2007 SEA vs. SAC L 30 13 4 9 44.4 1 4 25.0 4 4 100.0 0 1 1 2 1 0 2 5 -22
+p320
+aVJohan Petro SEA 02/10/2007 SEA vs. SAC L 11 3 1 3 33.3 0 0 - 1 1 100.0 0 3 3 0 0 0 2 3 1
+p321
+aVNick Collison SEA 02/10/2007 SEA vs. SAC L 29 14 6 8 75.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 4 -21
+p322
+aVRay Allen SEA 02/10/2007 SEA vs. SAC L 43 29 8 21 38.1 3 8 37.5 10 13 76.9 1 2 3 5 3 0 5 1 -24
+p323
+aVRashard Lewis SEA 02/10/2007 SEA vs. SAC L 37 14 2 11 18.2 1 5 20.0 9 10 90.0 1 6 7 5 0 0 0 3 -10
+p324
+aVDamien Wilkins SEA 02/10/2007 SEA vs. SAC L 12 6 2 4 50.0 1 1 100.0 1 2 50.0 1 2 3 1 0 0 2 0 -1
+p325
+aVMickael Gelabale SEA 02/10/2007 SEA vs. SAC L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 1 3 -7
+p326
+aVNick Collison SEA 02/07/2007 SEA @ IND W 38 6 3 6 50.0 0 0 - 0 0 - 1 9 10 3 0 1 2 5 4
+p327
+aVChris Wilcox SEA 02/07/2007 SEA @ IND W 32 17 8 15 53.3 0 0 - 1 2 50.0 3 1 4 0 0 1 2 1 -15
+p328
+aVEarl Watson SEA 02/07/2007 SEA @ IND W 29 10 5 8 62.5 0 2 0.0 0 1 0.0 0 2 2 5 1 0 2 1 8
+p329
+aVMickael Gelabale SEA 02/07/2007 SEA @ IND W 26 12 6 7 85.7 0 1 0.0 0 0 - 0 2 2 1 1 1 5 0 0
+p330
+aVLuke Ridnour SEA 02/07/2007 SEA @ IND W 19 6 3 5 60.0 0 0 - 0 0 - 1 3 4 4 0 1 1 2 -7
+p331
+aVAndre Brown SEA 02/07/2007 SEA @ IND W 16 9 4 5 80.0 0 0 - 1 4 25.0 2 0 2 0 2 0 1 2 4
+p332
+aVDamien Wilkins SEA 02/07/2007 SEA @ IND W 28 10 3 6 50.0 0 0 - 4 4 100.0 1 3 4 4 2 1 4 2 10
+p333
+aVJohan Petro SEA 02/07/2007 SEA @ IND W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 9
+p334
+aVRay Allen SEA 02/07/2007 SEA @ IND W 42 33 10 22 45.5 4 10 40.0 9 9 100.0 1 4 5 9 0 0 2 2 -8
+p335
+aVMickael Gelabale SEA 02/05/2007 SEA @ WAS L 22 5 2 6 33.3 1 2 50.0 0 0 - 1 3 4 2 0 1 0 2 1
+p336
+aVLuke Ridnour SEA 02/05/2007 SEA @ WAS L 22 13 5 6 83.3 1 2 50.0 2 2 100.0 1 0 1 2 0 0 2 3 -3
+p337
+aVJohan Petro SEA 02/05/2007 SEA @ WAS L 14 12 6 7 85.7 0 0 - 0 1 0.0 0 0 0 0 1 1 0 6 -8
+p338
+aVChris Wilcox SEA 02/05/2007 SEA @ WAS L 35 24 10 15 66.7 0 0 - 4 6 66.7 3 7 10 0 1 0 2 5 12
+p339
+aVNick Collison SEA 02/05/2007 SEA @ WAS L 35 10 5 10 50.0 0 0 - 0 0 - 0 4 4 5 1 0 1 5 -8
+p340
+aVDamien Wilkins SEA 02/05/2007 SEA @ WAS L 26 8 3 5 60.0 0 1 0.0 2 3 66.7 1 2 3 0 1 0 0 1 -14
+p341
+aVEarl Watson SEA 02/05/2007 SEA @ WAS L 30 5 2 6 33.3 1 3 33.3 0 0 - 1 4 5 10 1 0 3 4 -1
+p342
+aVAndre Brown SEA 02/05/2007 SEA @ WAS L 12 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 4 1 -16
+p343
+aVRay Allen SEA 02/05/2007 SEA @ WAS L 44 29 11 27 40.7 2 10 20.0 5 5 100.0 4 3 7 7 5 1 6 4 -13
+p344
+aVJohan Petro SEA 02/02/2007 SEA vs. CHI L 20 5 2 2 100.0 0 0 - 1 2 50.0 1 4 5 1 0 0 2 2 10
+p345
+aVNick Collison SEA 02/02/2007 SEA vs. CHI L 42 20 7 10 70.0 0 0 - 6 9 66.7 3 9 12 1 1 2 1 6 -4
+p346
+aVRay Allen SEA 02/02/2007 SEA vs. CHI L 42 29 9 28 32.1 3 10 30.0 8 9 88.9 0 2 2 3 4 0 1 4 -5
+p347
+aVAndre Brown SEA 02/02/2007 SEA vs. CHI L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -8
+p348
+aVMickael Gelabale SEA 02/02/2007 SEA vs. CHI L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -11
+p349
+aVDamien Wilkins SEA 02/02/2007 SEA vs. CHI L 38 18 7 17 41.2 2 5 40.0 2 2 100.0 2 2 4 2 2 1 1 3 5
+p350
+aVLuke Ridnour SEA 02/02/2007 SEA vs. CHI L 25 12 5 9 55.6 2 3 66.7 0 0 - 0 2 2 3 1 0 4 4 1
+p351
+aVChris Wilcox SEA 02/02/2007 SEA vs. CHI L 18 10 4 5 80.0 0 0 - 2 2 100.0 1 2 3 3 0 1 4 4 -11
+p352
+aVEarl Watson SEA 02/02/2007 SEA vs. CHI L 35 5 2 10 20.0 1 4 25.0 0 0 - 0 4 4 12 4 0 2 1 -7
+p353
+aVJohan Petro SEA 01/31/2007 SEA @ HOU L 18 2 1 5 20.0 0 0 - 0 0 - 1 2 3 2 0 0 0 3 -4
+p354
+aVEarl Watson SEA 01/31/2007 SEA @ HOU L 28 10 4 9 44.4 1 4 25.0 1 2 50.0 0 4 4 8 2 0 3 1 -8
+p355
+aVNick Collison SEA 01/31/2007 SEA @ HOU L 45 25 12 19 63.2 0 0 - 1 2 50.0 4 13 17 1 0 1 0 2 -5
+p356
+aVDamien Wilkins SEA 01/31/2007 SEA @ HOU L 13 8 3 5 60.0 2 3 66.7 0 0 - 1 1 2 2 0 0 1 4 -5
+p357
+aVMickael Gelabale SEA 01/31/2007 SEA @ HOU L 34 6 3 7 42.9 0 3 0.0 0 0 - 0 3 3 7 0 0 1 4 -6
+p358
+aVLuke Ridnour SEA 01/31/2007 SEA @ HOU L 22 8 4 7 57.1 0 0 - 0 0 - 0 1 1 4 0 0 2 2 -8
+p359
+aVRay Allen SEA 01/31/2007 SEA @ HOU L 45 36 15 28 53.6 4 8 50.0 2 2 100.0 1 4 5 6 1 0 5 1 -4
+p360
+aVChris Wilcox SEA 01/31/2007 SEA @ HOU L 31 7 3 7 42.9 0 0 - 1 2 50.0 0 6 6 2 1 0 0 2 -10
+p361
+aVNick Collison SEA 01/30/2007 SEA @ DAL L 28 15 6 10 60.0 0 0 - 3 3 100.0 4 5 9 0 0 1 1 4 -7
+p362
+aVChris Wilcox SEA 01/30/2007 SEA @ DAL L 32 12 4 13 30.8 0 0 - 4 4 100.0 4 3 7 1 2 0 1 4 -4
+p363
+aVAndre Brown SEA 01/30/2007 SEA @ DAL L 10 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 0 -10
+p364
+aVDamien Wilkins SEA 01/30/2007 SEA @ DAL L 31 8 2 7 28.6 0 0 - 4 4 100.0 5 3 8 4 1 0 0 2 -29
+p365
+aVMickael Gelabale SEA 01/30/2007 SEA @ DAL L 23 4 2 6 33.3 0 0 - 0 0 - 0 4 4 0 0 1 0 1 -4
+p366
+aVMouhamed Sene SEA 01/30/2007 SEA @ DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p367
+aVRay Allen SEA 01/30/2007 SEA @ DAL L 39 35 14 24 58.3 3 10 30.0 4 5 80.0 1 5 6 7 2 0 5 5 -7
+p368
+aVMike Wilks SEA 01/30/2007 SEA @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -1
+p369
+aVEarl Watson SEA 01/30/2007 SEA @ DAL L 31 15 7 9 77.8 1 1 100.0 0 0 - 1 0 1 6 2 0 2 1 -11
+p370
+aVLuke Ridnour SEA 01/30/2007 SEA @ DAL L 16 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 2 4 -14
+p371
+aVJohan Petro SEA 01/30/2007 SEA @ DAL L 21 4 2 5 40.0 0 0 - 0 0 - 3 4 7 2 1 0 1 3 -7
+p372
+aVChris Wilcox SEA 01/28/2007 SEA vs. LAC L 24 6 3 6 50.0 0 0 - 0 2 0.0 0 2 2 0 0 0 4 1 -27
+p373
+aVRay Allen SEA 01/28/2007 SEA vs. LAC L 29 15 5 11 45.5 1 4 25.0 4 4 100.0 0 3 3 1 0 0 2 1 -28
+p374
+aVMickael Gelabale SEA 01/28/2007 SEA vs. LAC L 25 5 1 6 16.7 0 3 0.0 3 4 75.0 1 3 4 1 1 0 1 2 -27
+p375
+aVEarl Watson SEA 01/28/2007 SEA vs. LAC L 29 5 1 8 12.5 1 4 25.0 2 4 50.0 1 2 3 5 2 0 2 1 -37
+p376
+aVNick Collison SEA 01/28/2007 SEA vs. LAC L 19 9 3 8 37.5 0 0 - 3 3 100.0 3 3 6 1 0 0 1 4 -18
+p377
+aVAndre Brown SEA 01/28/2007 SEA vs. LAC L 9 2 1 5 20.0 0 0 - 0 0 - 2 3 5 1 0 0 1 1 13
+p378
+aVMike Wilks SEA 01/28/2007 SEA vs. LAC L 15 5 2 2 100.0 1 1 100.0 0 0 - 2 4 6 1 0 0 2 3 15
+p379
+aVMouhamed Sene SEA 01/28/2007 SEA vs. LAC L 11 10 3 6 50.0 0 0 - 4 8 50.0 1 0 1 0 0 1 1 2 7
+p380
+aVLuke Ridnour SEA 01/28/2007 SEA vs. LAC L 28 2 1 8 12.5 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 -1
+p381
+aVDamien Wilkins SEA 01/28/2007 SEA vs. LAC L 25 6 1 5 20.0 0 2 0.0 4 4 100.0 0 1 1 3 0 1 1 2 -1
+p382
+aVJohan Petro SEA 01/28/2007 SEA vs. LAC L 22 11 4 11 36.4 0 0 - 3 4 75.0 3 4 7 0 1 4 1 2 -6
+p383
+aVDamien Wilkins SEA 01/26/2007 SEA vs. MIN W 13 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -6
+p384
+aVRay Allen SEA 01/26/2007 SEA vs. MIN W 43 36 14 30 46.7 4 8 50.0 4 5 80.0 2 1 3 4 1 0 2 3 4
+p385
+aVNick Collison SEA 01/26/2007 SEA vs. MIN W 41 14 6 11 54.5 0 0 - 2 2 100.0 6 6 12 2 2 2 2 3 5
+p386
+aVEarl Watson SEA 01/26/2007 SEA vs. MIN W 23 5 2 8 25.0 0 2 0.0 1 2 50.0 1 2 3 10 0 0 1 1 12
+p387
+aVJohan Petro SEA 01/26/2007 SEA vs. MIN W 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -6
+p388
+aVMickael Gelabale SEA 01/26/2007 SEA vs. MIN W 34 17 8 13 61.5 0 0 - 1 2 50.0 2 6 8 3 1 0 1 1 8
+p389
+aVChris Wilcox SEA 01/26/2007 SEA vs. MIN W 39 15 6 13 46.2 0 0 - 3 5 60.0 3 7 10 0 1 0 1 3 10
+p390
+aVAndre Brown SEA 01/26/2007 SEA vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p391
+aVLuke Ridnour SEA 01/26/2007 SEA vs. MIN W 28 9 3 9 33.3 2 4 50.0 1 3 33.3 0 2 2 4 2 1 0 0 -12
+p392
+aVMickael Gelabale SEA 01/23/2007 SEA vs. DEN L 29 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 4 1 0 2 6 1
+p393
+aVJohan Petro SEA 01/23/2007 SEA vs. DEN L 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -18
+p394
+aVNick Collison SEA 01/23/2007 SEA vs. DEN L 31 18 9 13 69.2 0 0 - 0 0 - 4 6 10 2 1 0 0 4 8
+p395
+aVRay Allen SEA 01/23/2007 SEA vs. DEN L 41 44 16 31 51.6 6 17 35.3 6 8 75.0 1 2 3 5 3 0 2 1 5
+p396
+aVAndre Brown SEA 01/23/2007 SEA vs. DEN L 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 0
+p397
+aVLuke Ridnour SEA 01/23/2007 SEA vs. DEN L 23 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 3 1 0 2 2 -8
+p398
+aVEarl Watson SEA 01/23/2007 SEA vs. DEN L 30 5 2 9 22.2 0 1 0.0 1 2 50.0 0 3 3 7 2 0 3 2 -7
+p399
+aVDamien Wilkins SEA 01/23/2007 SEA vs. DEN L 18 6 2 5 40.0 0 1 0.0 2 2 100.0 1 1 2 1 1 0 2 0 -6
+p400
+aVChris Wilcox SEA 01/23/2007 SEA vs. DEN L 42 25 11 16 68.8 0 0 - 3 3 100.0 4 8 12 4 0 0 0 4 0
+p401
+aVAndre Brown SEA 01/19/2007 SEA vs. MIL W 15 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 1 1 0 -1
+p402
+aVNick Collison SEA 01/19/2007 SEA vs. MIL W 33 13 6 12 50.0 0 1 0.0 1 1 100.0 4 12 16 0 2 2 4 2 24
+p403
+aVEarl Watson SEA 01/19/2007 SEA vs. MIL W 25 2 1 8 12.5 0 1 0.0 0 0 - 0 1 1 7 3 1 3 0 25
+p404
+aVMike Wilks SEA 01/19/2007 SEA vs. MIL W 10 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 -2
+p405
+aVMickael Gelabale SEA 01/19/2007 SEA vs. MIL W 26 7 2 4 50.0 0 0 - 3 3 100.0 2 1 3 2 0 1 0 4 9
+p406
+aVChris Wilcox SEA 01/19/2007 SEA vs. MIL W 25 6 2 9 22.2 0 0 - 2 4 50.0 2 9 11 2 0 1 2 4 24
+p407
+aVDamien Wilkins SEA 01/19/2007 SEA vs. MIL W 32 16 7 11 63.6 0 0 - 2 2 100.0 1 2 3 4 3 0 0 0 15
+p408
+aVLuke Ridnour SEA 01/19/2007 SEA vs. MIL W 20 13 5 6 83.3 1 2 50.0 2 2 100.0 0 0 0 6 1 1 3 0 9
+p409
+aVJohan Petro SEA 01/19/2007 SEA vs. MIL W 21 9 4 9 44.4 0 0 - 1 4 25.0 2 7 9 0 0 0 3 4 7
+p410
+aVRay Allen SEA 01/19/2007 SEA vs. MIL W 27 21 8 13 61.5 4 5 80.0 1 1 100.0 1 3 4 3 1 0 1 0 25
+p411
+aVJohan Petro SEA 01/16/2007 SEA vs. CLE W 16 6 3 7 42.9 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -6
+p412
+aVChris Wilcox SEA 01/16/2007 SEA vs. CLE W 35 16 5 10 50.0 0 0 - 6 6 100.0 3 9 12 0 3 0 2 4 6
+p413
+aVLuke Ridnour SEA 01/16/2007 SEA vs. CLE W 24 11 4 7 57.1 1 2 50.0 2 4 50.0 0 3 3 2 1 0 1 3 -2
+p414
+aVMickael Gelabale SEA 01/16/2007 SEA vs. CLE W 25 9 4 8 50.0 0 1 0.0 1 2 50.0 1 3 4 1 1 1 0 5 10
+p415
+aVRay Allen SEA 01/16/2007 SEA vs. CLE W 44 22 6 21 28.6 2 10 20.0 8 8 100.0 0 4 4 11 0 0 4 0 10
+p416
+aVEarl Watson SEA 01/16/2007 SEA vs. CLE W 28 12 4 8 50.0 2 4 50.0 2 2 100.0 0 1 1 7 0 0 2 2 2
+p417
+aVAndre Brown SEA 01/16/2007 SEA vs. CLE W 15 9 4 5 80.0 0 0 - 1 2 50.0 4 1 5 0 0 0 0 2 5
+p418
+aVDamien Wilkins SEA 01/16/2007 SEA vs. CLE W 23 2 0 6 0.0 0 2 0.0 2 2 100.0 0 4 4 1 1 0 0 0 -5
+p419
+aVNick Collison SEA 01/16/2007 SEA vs. CLE W 30 14 4 9 44.4 0 0 - 6 6 100.0 6 6 12 0 0 0 2 5 5
+p420
+aVDamien Wilkins SEA 01/12/2007 SEA vs. UTA W 36 8 2 10 20.0 0 1 0.0 4 4 100.0 0 3 3 3 0 1 1 3 8
+p421
+aVRay Allen SEA 01/12/2007 SEA vs. UTA W 43 54 17 32 53.1 8 12 66.7 12 12 100.0 3 7 10 5 1 0 2 2 10
+p422
+aVMickael Gelabale SEA 01/12/2007 SEA vs. UTA W 22 0 0 7 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -2
+p423
+aVChris Wilcox SEA 01/12/2007 SEA vs. UTA W 40 11 4 9 44.4 0 0 - 3 4 75.0 3 2 5 0 2 2 2 5 -1
+p424
+aVLuke Ridnour SEA 01/12/2007 SEA vs. UTA W 18 7 2 4 50.0 0 2 0.0 3 3 100.0 0 3 3 0 0 0 1 3 -6
+p425
+aVJohan Petro SEA 01/12/2007 SEA vs. UTA W 7 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 4 -10
+p426
+aVNick Collison SEA 01/12/2007 SEA vs. UTA W 49 25 8 10 80.0 0 0 - 9 10 90.0 5 8 13 0 1 2 0 3 13
+p427
+aVAndre Brown SEA 01/12/2007 SEA vs. UTA W 10 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 1 1 1 0 14
+p428
+aVEarl Watson SEA 01/12/2007 SEA vs. UTA W 40 10 3 9 33.3 1 4 25.0 3 4 75.0 0 4 4 16 4 1 3 5 14
+p429
+aVDamien Wilkins SEA 01/10/2007 SEA vs. MIA L 23 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 1 0 0 4
+p430
+aVNick Collison SEA 01/10/2007 SEA vs. MIA L 38 21 10 14 71.4 0 0 - 1 2 50.0 3 6 9 2 1 0 2 6 -3
+p431
+aVJohan Petro SEA 01/10/2007 SEA vs. MIA L 15 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -3
+p432
+aVMickael Gelabale SEA 01/10/2007 SEA vs. MIA L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 3 2
+p433
+aVEarl Watson SEA 01/10/2007 SEA vs. MIA L 37 5 2 10 20.0 1 5 20.0 0 0 - 2 3 5 11 0 0 0 3 -4
+p434
+aVRay Allen SEA 01/10/2007 SEA vs. MIA L 42 29 11 27 40.7 3 9 33.3 4 5 80.0 2 4 6 7 0 0 1 0 -5
+p435
+aVChris Wilcox SEA 01/10/2007 SEA vs. MIA L 44 28 12 17 70.6 0 0 - 4 6 66.7 4 9 13 1 1 0 3 5 -2
+p436
+aVLuke Ridnour SEA 01/10/2007 SEA vs. MIA L 28 10 2 7 28.6 1 2 50.0 5 5 100.0 0 3 3 3 1 0 4 5 -9
+p437
+aVDamien Wilkins SEA 01/09/2007 SEA @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p438
+aVEarl Watson SEA 01/09/2007 SEA @ PHX L 36 12 4 16 25.0 2 5 40.0 2 2 100.0 0 0 0 9 0 0 2 1 -4
+p439
+aVRay Allen SEA 01/09/2007 SEA @ PHX L 44 25 9 23 39.1 3 11 27.3 4 4 100.0 0 2 2 9 3 0 1 1 -7
+p440
+aVMike Wilks SEA 01/09/2007 SEA @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p441
+aVMouhamed Sene SEA 01/09/2007 SEA @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p442
+aVAndre Brown SEA 01/09/2007 SEA @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p443
+aVMickael Gelabale SEA 01/09/2007 SEA @ PHX L 42 12 6 7 85.7 0 0 - 0 0 - 1 4 5 0 1 0 1 2 -5
+p444
+aVNick Collison SEA 01/09/2007 SEA @ PHX L 43 29 12 18 66.7 0 0 - 5 9 55.6 8 13 21 4 3 1 1 2 -9
+p445
+aVJohan Petro SEA 01/09/2007 SEA @ PHX L 28 10 5 12 41.7 0 0 - 0 0 - 3 7 10 2 1 2 3 4 3
+p446
+aVLuke Ridnour SEA 01/09/2007 SEA @ PHX L 16 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 -11
+p447
+aVChris Wilcox SEA 01/09/2007 SEA @ PHX L 22 8 4 10 40.0 0 1 0.0 0 0 - 1 2 3 1 1 0 1 4 -13
+p448
+aVLuke Ridnour SEA 01/06/2007 SEA @ GSW L 21 7 3 8 37.5 1 4 25.0 0 0 - 0 3 3 5 3 0 4 5 -5
+p449
+aVRay Allen SEA 01/06/2007 SEA @ GSW L 37 38 11 17 64.7 7 11 63.6 9 9 100.0 2 0 2 4 2 0 5 5 -1
+p450
+aVAndre Brown SEA 01/06/2007 SEA @ GSW L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -2
+p451
+aVDamien Wilkins SEA 01/06/2007 SEA @ GSW L 29 9 3 8 37.5 2 5 40.0 1 2 50.0 2 2 4 3 2 0 2 3 2
+p452
+aVChris Wilcox SEA 01/06/2007 SEA @ GSW L 32 22 8 13 61.5 0 0 - 6 7 85.7 2 5 7 2 1 0 2 3 2
+p453
+aVNick Collison SEA 01/06/2007 SEA @ GSW L 27 6 3 7 42.9 0 0 - 0 0 - 2 8 10 2 0 2 1 4 -4
+p454
+aVMickael Gelabale SEA 01/06/2007 SEA @ GSW L 33 10 4 8 50.0 1 1 100.0 1 1 100.0 2 3 5 0 1 2 1 4 -4
+p455
+aVJohan Petro SEA 01/06/2007 SEA @ GSW L 16 2 1 4 25.0 0 0 - 0 0 - 0 7 7 0 0 0 1 4 -7
+p456
+aVEarl Watson SEA 01/06/2007 SEA @ GSW L 36 8 3 11 27.3 1 7 14.3 1 4 25.0 1 5 6 11 0 0 3 3 -5
+p457
+aVMike Wilks SEA 01/06/2007 SEA @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p458
+aVDanny Fortson SEA 01/05/2007 SEA vs. NYK L 14 6 2 2 100.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 4 -2
+p459
+aVEarl Watson SEA 01/05/2007 SEA vs. NYK L 33 12 4 13 30.8 0 5 0.0 4 4 100.0 1 0 1 11 1 2 1 1 -8
+p460
+aVRay Allen SEA 01/05/2007 SEA vs. NYK L 36 11 3 10 30.0 0 3 0.0 5 6 83.3 1 1 2 2 3 0 0 1 -12
+p461
+aVChris Wilcox SEA 01/05/2007 SEA vs. NYK L 26 13 5 8 62.5 0 0 - 3 7 42.9 3 3 6 0 0 0 0 3 -24
+p462
+aVJohan Petro SEA 01/05/2007 SEA vs. NYK L 14 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -7
+p463
+aVLuke Ridnour SEA 01/05/2007 SEA vs. NYK L 25 8 3 8 37.5 0 1 0.0 2 2 100.0 0 0 0 4 0 1 2 4 -18
+p464
+aVMike Wilks SEA 01/05/2007 SEA vs. NYK L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 2 0 0 0 5
+p465
+aVNick Collison SEA 01/05/2007 SEA vs. NYK L 21 8 4 5 80.0 0 0 - 0 0 - 0 6 6 0 0 1 0 4 -8
+p466
+aVDamien Wilkins SEA 01/05/2007 SEA vs. NYK L 34 12 4 16 25.0 2 5 40.0 2 2 100.0 1 3 4 4 0 0 0 1 -30
+p467
+aVAndre Brown SEA 01/05/2007 SEA vs. NYK L 8 8 4 8 50.0 0 0 - 0 0 - 3 2 5 0 0 0 2 0 5
+p468
+aVMickael Gelabale SEA 01/05/2007 SEA vs. NYK L 21 10 5 8 62.5 0 0 - 0 0 - 4 1 5 1 0 0 1 3 9
+p469
+aVMickael Gelabale SEA 01/03/2007 SEA @ HOU L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 2 1 10
+p470
+aVEarl Watson SEA 01/03/2007 SEA @ HOU L 26 3 1 5 20.0 0 3 0.0 1 1 100.0 0 1 1 4 1 0 1 1 4
+p471
+aVRay Allen SEA 01/03/2007 SEA @ HOU L 43 32 13 22 59.1 2 7 28.6 4 5 80.0 0 3 3 2 0 0 2 0 -14
+p472
+aVNick Collison SEA 01/03/2007 SEA @ HOU L 19 7 3 6 50.0 0 0 - 1 1 100.0 1 6 7 0 0 1 0 2 -1
+p473
+aVMouhamed Sene SEA 01/03/2007 SEA @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p474
+aVDamien Wilkins SEA 01/03/2007 SEA @ HOU L 36 19 6 13 46.2 5 10 50.0 2 2 100.0 1 3 4 2 0 0 0 2 -9
+p475
+aVJohan Petro SEA 01/03/2007 SEA @ HOU L 23 11 4 5 80.0 0 0 - 3 4 75.0 0 6 6 2 0 0 0 4 2
+p476
+aVChris Wilcox SEA 01/03/2007 SEA @ HOU L 40 13 5 11 45.5 0 0 - 3 8 37.5 2 2 4 2 1 1 0 1 -9
+p477
+aVLuke Ridnour SEA 01/03/2007 SEA @ HOU L 29 7 2 7 28.6 0 1 0.0 3 4 75.0 0 2 2 8 3 0 3 1 -11
+p478
+aVMike Wilks SEA 01/03/2007 SEA @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p479
+aVDanny Fortson SEA 01/03/2007 SEA @ HOU L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p480
+aVMike Wilks SEA 01/02/2007 SEA @ DAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p481
+aVLuke Ridnour SEA 01/02/2007 SEA @ DAL L 27 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 3 1 0 0 3 -31
+p482
+aVMouhamed Sene SEA 01/02/2007 SEA @ DAL L 14 2 0 2 0.0 0 0 - 2 6 33.3 1 1 2 0 1 3 0 4 2
+p483
+aVMickael Gelabale SEA 01/02/2007 SEA @ DAL L 19 6 3 4 75.0 0 0 - 0 0 - 2 0 2 1 0 0 0 3 7
+p484
+aVDanny Fortson SEA 01/02/2007 SEA @ DAL L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 3 -16
+p485
+aVAndreas Glyniadakis SEA 01/02/2007 SEA @ DAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p486
+aVRay Allen SEA 01/02/2007 SEA @ DAL L 36 27 9 18 50.0 5 8 62.5 4 6 66.7 1 1 2 1 1 0 2 3 -23
+p487
+aVDamien Wilkins SEA 01/02/2007 SEA @ DAL L 39 11 4 12 33.3 0 1 0.0 3 3 100.0 0 2 2 3 0 0 0 4 -22
+p488
+aVChris Wilcox SEA 01/02/2007 SEA @ DAL L 13 2 1 8 12.5 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -23
+p489
+aVEarl Watson SEA 01/02/2007 SEA @ DAL L 35 15 5 12 41.7 2 6 33.3 3 4 75.0 0 5 5 6 1 0 1 1 1
+p490
+aVJohan Petro SEA 01/02/2007 SEA @ DAL L 18 10 4 5 80.0 0 0 - 2 2 100.0 0 4 4 0 0 1 1 3 -17
+p491
+aVNick Collison SEA 01/02/2007 SEA @ DAL L 24 6 3 5 60.0 0 0 - 0 0 - 2 5 7 1 0 1 1 2 4
+p492
+aVMickael Gelabale SEA 12/31/2006 SEA vs. BOS W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p493
+aVMouhamed Sene SEA 12/31/2006 SEA vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p494
+aVRay Allen SEA 12/31/2006 SEA vs. BOS W 42 15 7 20 35.0 1 5 20.0 0 0 - 3 3 6 2 2 0 5 3 3
+p495
+aVEarl Watson SEA 12/31/2006 SEA vs. BOS W 23 13 5 8 62.5 1 1 100.0 2 3 66.7 1 2 3 1 2 1 3 0 -4
+p496
+aVNick Collison SEA 12/31/2006 SEA vs. BOS W 14 2 1 7 14.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -7
+p497
+aVLuke Ridnour SEA 12/31/2006 SEA vs. BOS W 36 17 5 9 55.6 0 1 0.0 7 7 100.0 0 4 4 11 3 1 4 1 13
+p498
+aVDamien Wilkins SEA 12/31/2006 SEA vs. BOS W 38 20 9 11 81.8 2 2 100.0 0 0 - 0 5 5 5 1 2 1 2 14
+p499
+aVChris Wilcox SEA 12/31/2006 SEA vs. BOS W 38 24 8 13 61.5 0 0 - 8 8 100.0 0 8 8 2 1 0 3 4 14
+p500
+aVDanny Fortson SEA 12/31/2006 SEA vs. BOS W 14 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 0 1 5 10
+p501
+aVJohan Petro SEA 12/31/2006 SEA vs. BOS W 21 8 4 5 80.0 0 0 - 0 0 - 0 4 4 0 0 0 2 2 1
+p502
+aVDamien Wilkins SEA 12/29/2006 SEA @ MIN L 33 8 4 10 40.0 0 2 0.0 0 2 0.0 1 4 5 3 1 0 1 1 -11
+p503
+aVEarl Watson SEA 12/29/2006 SEA @ MIN L 31 9 3 11 27.3 1 4 25.0 2 2 100.0 0 2 2 2 1 1 2 2 -11
+p504
+aVJohan Petro SEA 12/29/2006 SEA @ MIN L 23 12 6 9 66.7 0 0 - 0 0 - 1 3 4 1 1 1 2 3 -9
+p505
+aVNick Collison SEA 12/29/2006 SEA @ MIN L 27 8 2 6 33.3 0 0 - 4 6 66.7 1 6 7 0 2 1 2 2 -16
+p506
+aVLuke Ridnour SEA 12/29/2006 SEA @ MIN L 28 6 1 8 12.5 0 1 0.0 4 4 100.0 1 2 3 4 2 0 1 4 -17
+p507
+aVDesmon Farmer SEA 12/29/2006 SEA @ MIN L 6 8 3 4 75.0 1 1 100.0 1 1 100.0 0 0 0 0 0 0 0 1 2
+p508
+aVMike Wilks SEA 12/29/2006 SEA @ MIN L 14 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 2 0 0 1 0 4
+p509
+aVMouhamed Sene SEA 12/29/2006 SEA @ MIN L 8 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p510
+aVMickael Gelabale SEA 12/29/2006 SEA @ MIN L 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 4
+p511
+aVChris Wilcox SEA 12/29/2006 SEA @ MIN L 27 6 3 10 30.0 0 0 - 0 0 - 4 3 7 1 0 0 2 4 -15
+p512
+aVRay Allen SEA 12/29/2006 SEA @ MIN L 33 14 4 16 25.0 0 7 0.0 6 6 100.0 1 4 5 4 1 0 2 2 -23
+p513
+aVMouhamed Sene SEA 12/28/2006 SEA @ DEN L 10 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 1 1 1 4 3
+p514
+aVMike Wilks SEA 12/28/2006 SEA @ DEN L 17 8 3 4 75.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 0 2 -3
+p515
+aVDesmon Farmer SEA 12/28/2006 SEA @ DEN L 3 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 2
+p516
+aVChris Wilcox SEA 12/28/2006 SEA @ DEN L 23 9 3 9 33.3 0 0 - 3 4 75.0 2 5 7 1 1 1 2 3 -7
+p517
+aVNick Collison SEA 12/28/2006 SEA @ DEN L 24 6 3 9 33.3 0 0 - 0 0 - 2 4 6 0 0 1 1 3 -4
+p518
+aVAndreas Glyniadakis SEA 12/28/2006 SEA @ DEN L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -10
+p519
+aVEarl Watson SEA 12/28/2006 SEA @ DEN L 36 15 7 13 53.8 1 4 25.0 0 2 0.0 0 1 1 7 1 2 3 3 -20
+p520
+aVDamien Wilkins SEA 12/28/2006 SEA @ DEN L 42 26 9 17 52.9 1 2 50.0 7 9 77.8 0 4 4 4 5 1 3 1 -10
+p521
+aVJohan Petro SEA 12/28/2006 SEA @ DEN L 28 11 5 8 62.5 0 0 - 1 2 50.0 0 4 4 1 1 4 3 4 -9
+p522
+aVMickael Gelabale SEA 12/28/2006 SEA @ DEN L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -3
+p523
+aVLuke Ridnour SEA 12/28/2006 SEA @ DEN L 42 16 6 16 37.5 1 4 25.0 3 4 75.0 1 4 5 5 3 0 4 2 -9
+p524
+aVDanny Fortson SEA 12/26/2006 SEA vs. NOK W 16 5 2 3 66.7 0 0 - 1 1 100.0 1 3 4 0 0 0 1 3 7
+p525
+aVLuke Ridnour SEA 12/26/2006 SEA vs. NOK W 40 27 11 17 64.7 3 4 75.0 2 2 100.0 0 3 3 9 0 0 3 2 17
+p526
+aVNick Collison SEA 12/26/2006 SEA vs. NOK W 15 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 4 9
+p527
+aVMickael Gelabale SEA 12/26/2006 SEA vs. NOK W 20 6 2 4 50.0 0 1 0.0 2 2 100.0 1 3 4 1 0 1 0 2 10
+p528
+aVEarl Watson SEA 12/26/2006 SEA vs. NOK W 32 5 2 7 28.6 1 1 100.0 0 0 - 0 3 3 5 0 1 1 3 -8
+p529
+aVChris Wilcox SEA 12/26/2006 SEA vs. NOK W 41 22 10 16 62.5 0 0 - 2 3 66.7 1 9 10 2 1 0 1 4 11
+p530
+aVDamien Wilkins SEA 12/26/2006 SEA vs. NOK W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -6
+p531
+aVJohan Petro SEA 12/26/2006 SEA vs. NOK W 15 8 4 5 80.0 0 0 - 0 0 - 1 5 6 0 1 0 2 2 -7
+p532
+aVRay Allen SEA 12/26/2006 SEA vs. NOK W 43 21 7 15 46.7 3 6 50.0 4 8 50.0 1 3 4 8 2 2 4 1 7
+p533
+aVRay Allen SEA 12/23/2006 SEA vs. TOR W 41 28 9 15 60.0 5 6 83.3 5 6 83.3 0 6 6 5 0 0 4 2 10
+p534
+aVDamien Wilkins SEA 12/23/2006 SEA vs. TOR W 13 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 2 0 0 1 0 -1
+p535
+aVChris Wilcox SEA 12/23/2006 SEA vs. TOR W 34 12 4 12 33.3 0 0 - 4 4 100.0 1 4 5 2 1 0 1 0 19
+p536
+aVNick Collison SEA 12/23/2006 SEA vs. TOR W 24 15 5 9 55.6 0 0 - 5 5 100.0 5 3 8 0 1 0 1 4 4
+p537
+aVJohan Petro SEA 12/23/2006 SEA vs. TOR W 23 10 4 6 66.7 0 0 - 2 3 66.7 1 1 2 1 0 1 1 2 -11
+p538
+aVEarl Watson SEA 12/23/2006 SEA vs. TOR W 26 12 5 8 62.5 2 3 66.7 0 0 - 1 2 3 2 0 0 2 5 9
+p539
+aVMickael Gelabale SEA 12/23/2006 SEA vs. TOR W 28 6 3 7 42.9 0 1 0.0 0 0 - 2 7 9 2 1 1 1 2 0
+p540
+aVDanny Fortson SEA 12/23/2006 SEA vs. TOR W 14 4 2 4 50.0 0 0 - 0 0 - 1 8 9 0 0 0 2 3 14
+p541
+aVLuke Ridnour SEA 12/23/2006 SEA vs. TOR W 37 18 8 18 44.4 0 2 0.0 2 2 100.0 0 2 2 6 2 0 3 3 21
+p542
+aVNick Collison SEA 12/20/2006 SEA vs. DAL L 20 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 2 -13
+p543
+aVAndreas Glyniadakis SEA 12/20/2006 SEA vs. DAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -3
+p544
+aVDesmon Farmer SEA 12/20/2006 SEA vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p545
+aVDamien Wilkins SEA 12/20/2006 SEA vs. DAL L 29 11 4 9 44.4 1 2 50.0 2 2 100.0 1 1 2 3 2 0 2 5 -9
+p546
+aVMouhamed Sene SEA 12/20/2006 SEA vs. DAL L 1 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 4
+p547
+aVMike Wilks SEA 12/20/2006 SEA vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 1
+p548
+aVChris Wilcox SEA 12/20/2006 SEA vs. DAL L 31 18 9 18 50.0 0 0 - 0 0 - 4 5 9 1 0 0 3 3 5
+p549
+aVRashard Lewis SEA 12/20/2006 SEA vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p550
+aVMickael Gelabale SEA 12/20/2006 SEA vs. DAL L 42 10 5 9 55.6 0 1 0.0 0 0 - 1 1 2 1 0 1 0 1 -10
+p551
+aVEarl Watson SEA 12/20/2006 SEA vs. DAL L 37 18 8 17 47.1 1 3 33.3 1 2 50.0 2 4 6 5 4 0 2 2 -2
+p552
+aVJohan Petro SEA 12/20/2006 SEA vs. DAL L 25 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 0 1 0 3 5 -2
+p553
+aVLuke Ridnour SEA 12/20/2006 SEA vs. DAL L 41 21 9 17 52.9 2 3 66.7 1 2 50.0 0 3 3 9 1 1 2 6 -8
+p554
+aVAndreas Glyniadakis SEA 12/18/2006 SEA @ MEM L 12 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 0 4 3 6
+p555
+aVJohan Petro SEA 12/18/2006 SEA @ MEM L 38 8 3 6 50.0 0 0 - 2 2 100.0 4 4 8 1 0 2 3 5 -7
+p556
+aVNick Collison SEA 12/18/2006 SEA @ MEM L 28 6 3 5 60.0 0 0 - 0 0 - 1 4 5 2 0 1 4 1 -9
+p557
+aVDamien Wilkins SEA 12/18/2006 SEA @ MEM L 34 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 3 1 0 0 2 -6
+p558
+aVLuke Ridnour SEA 12/18/2006 SEA @ MEM L 38 22 7 13 53.8 2 3 66.7 6 8 75.0 0 3 3 10 2 1 4 3 -9
+p559
+aVEarl Watson SEA 12/18/2006 SEA @ MEM L 37 17 6 16 37.5 2 6 33.3 3 3 100.0 1 3 4 5 2 1 1 2 -4
+p560
+aVChris Wilcox SEA 12/18/2006 SEA @ MEM L 35 14 5 12 41.7 0 0 - 4 7 57.1 3 3 6 0 0 0 1 6 -1
+p561
+aVRashard Lewis SEA 12/18/2006 SEA @ MEM L 52 36 10 22 45.5 4 7 57.1 12 13 92.3 2 12 14 4 1 0 4 4 -5
+p562
+aVMickael Gelabale SEA 12/18/2006 SEA @ MEM L 16 8 3 5 60.0 0 1 0.0 2 3 66.7 1 0 1 0 0 0 1 4 -5
+p563
+aVNick Collison SEA 12/17/2006 SEA @ DET L 17 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 1 1 4 2
+p564
+aVDamien Wilkins SEA 12/17/2006 SEA @ DET L 27 13 5 10 50.0 0 0 - 3 3 100.0 1 1 2 2 2 1 3 1 3
+p565
+aVRashard Lewis SEA 12/17/2006 SEA @ DET L 43 25 8 16 50.0 3 6 50.0 6 6 100.0 2 9 11 5 0 0 1 1 -6
+p566
+aVJohan Petro SEA 12/17/2006 SEA @ DET L 25 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 1 1 0 2 -6
+p567
+aVEarl Watson SEA 12/17/2006 SEA @ DET L 20 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 4 0 0 2 4 -18
+p568
+aVLuke Ridnour SEA 12/17/2006 SEA @ DET L 33 15 6 10 60.0 0 0 - 3 3 100.0 2 3 5 5 1 0 3 4 5
+p569
+aVMickael Gelabale SEA 12/17/2006 SEA @ DET L 21 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 1 1 3 2
+p570
+aVChris Wilcox SEA 12/17/2006 SEA @ DET L 44 21 10 14 71.4 0 0 - 1 3 33.3 1 4 5 0 2 1 2 2 -2
+p571
+aVAndreas Glyniadakis SEA 12/17/2006 SEA @ DET L 10 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 0
+p572
+aVAndreas Glyniadakis SEA 12/15/2006 SEA @ CLE L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p573
+aVNick Collison SEA 12/15/2006 SEA @ CLE L 27 8 4 9 44.4 0 0 - 0 0 - 4 8 12 1 0 0 4 1 -1
+p574
+aVRashard Lewis SEA 12/15/2006 SEA @ CLE L 25 10 3 12 25.0 0 5 0.0 4 4 100.0 1 1 2 4 0 0 3 3 -16
+p575
+aVEarl Watson SEA 12/15/2006 SEA @ CLE L 27 10 4 12 33.3 2 5 40.0 0 0 - 1 0 1 6 0 0 2 2 -9
+p576
+aVDamien Wilkins SEA 12/15/2006 SEA @ CLE L 30 8 3 9 33.3 2 4 50.0 0 1 0.0 1 0 1 2 3 0 1 4 -15
+p577
+aVMouhamed Sene SEA 12/15/2006 SEA @ CLE L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p578
+aVMickael Gelabale SEA 12/15/2006 SEA @ CLE L 31 16 4 5 80.0 0 0 - 8 8 100.0 3 5 8 0 0 0 2 2 -6
+p579
+aVMike Wilks SEA 12/15/2006 SEA @ CLE L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -8
+p580
+aVDesmon Farmer SEA 12/15/2006 SEA @ CLE L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 3
+p581
+aVChris Wilcox SEA 12/15/2006 SEA @ CLE L 30 20 7 14 50.0 0 0 - 6 6 100.0 5 2 7 0 1 0 2 1 -6
+p582
+aVJohan Petro SEA 12/15/2006 SEA @ CLE L 25 6 3 9 33.3 0 0 - 0 0 - 0 5 5 0 1 0 1 5 -23
+p583
+aVLuke Ridnour SEA 12/15/2006 SEA @ CLE L 26 2 1 7 14.3 0 1 0.0 0 1 0.0 0 1 1 1 1 0 0 0 -21
+p584
+aVDamien Wilkins SEA 12/13/2006 SEA @ CHI L 44 16 5 12 41.7 1 2 50.0 5 5 100.0 1 7 8 7 1 1 8 4 -12
+p585
+aVMickael Gelabale SEA 12/13/2006 SEA @ CHI L 32 10 4 9 44.4 0 0 - 2 5 40.0 2 2 4 0 1 0 1 1 3
+p586
+aVMike Wilks SEA 12/13/2006 SEA @ CHI L 25 4 2 6 33.3 0 1 0.0 0 0 - 2 4 6 6 1 0 1 1 4
+p587
+aVJohan Petro SEA 12/13/2006 SEA @ CHI L 30 16 8 12 66.7 0 0 - 0 0 - 1 9 10 0 1 1 1 3 -2
+p588
+aVChris Wilcox SEA 12/13/2006 SEA @ CHI L 16 4 2 7 28.6 0 0 - 0 0 - 1 2 3 0 0 1 2 2 -18
+p589
+aVNick Collison SEA 12/13/2006 SEA @ CHI L 10 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 0 1 1 2 -9
+p590
+aVDesmon Farmer SEA 12/13/2006 SEA @ CHI L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 1 0 1 0 6
+p591
+aVRashard Lewis SEA 12/13/2006 SEA @ CHI L 36 18 7 13 53.8 1 2 50.0 3 3 100.0 4 9 13 2 1 2 1 2 -25
+p592
+aVLuke Ridnour SEA 12/13/2006 SEA @ CHI L 35 11 4 14 28.6 1 4 25.0 2 2 100.0 1 2 3 2 1 0 2 1 -22
+p593
+aVMike Wilks SEA 12/12/2006 SEA @ MIL L 2 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 1
+p594
+aVNick Collison SEA 12/12/2006 SEA @ MIL L 33 12 5 13 38.5 0 0 - 2 4 50.0 2 4 6 2 2 0 3 5 0
+p595
+aVJohan Petro SEA 12/12/2006 SEA @ MIL L 12 12 6 6 100.0 0 0 - 0 0 - 4 5 9 2 1 1 0 4 2
+p596
+aVLuke Ridnour SEA 12/12/2006 SEA @ MIL L 37 12 6 14 42.9 0 1 0.0 0 0 - 1 3 4 8 0 1 6 2 -9
+p597
+aVDamien Wilkins SEA 12/12/2006 SEA @ MIL L 43 15 5 9 55.6 0 0 - 5 5 100.0 1 1 2 2 2 0 5 2 -6
+p598
+aVChris Wilcox SEA 12/12/2006 SEA @ MIL L 40 16 7 11 63.6 0 0 - 2 3 66.7 1 7 8 1 3 1 1 2 -2
+p599
+aVAndreas Glyniadakis SEA 12/12/2006 SEA @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p600
+aVRashard Lewis SEA 12/12/2006 SEA @ MIL L 39 26 11 20 55.0 1 5 20.0 3 3 100.0 1 4 5 4 0 0 1 1 -4
+p601
+aVMickael Gelabale SEA 12/12/2006 SEA @ MIL L 23 0 0 1 0.0 0 0 - 0 0 - 3 2 5 0 1 2 1 1 8
+p602
+aVEarl Watson SEA 12/12/2006 SEA @ MIL L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 0 0 2 0 7
+p603
+aVJohan Petro SEA 12/10/2006 SEA vs. GSW W 11 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 0 0 4 -1
+p604
+aVMike Wilks SEA 12/10/2006 SEA vs. GSW W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p605
+aVEarl Watson SEA 12/10/2006 SEA vs. GSW W 33 20 7 19 36.8 0 5 0.0 6 7 85.7 1 2 3 5 1 0 1 2 4
+p606
+aVDamien Wilkins SEA 12/10/2006 SEA vs. GSW W 42 22 8 14 57.1 0 1 0.0 6 7 85.7 5 4 9 2 0 0 3 1 10
+p607
+aVNick Collison SEA 12/10/2006 SEA vs. GSW W 31 6 1 2 50.0 0 0 - 4 4 100.0 1 7 8 0 1 1 2 4 6
+p608
+aVMickael Gelabale SEA 12/10/2006 SEA vs. GSW W 11 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -11
+p609
+aVLuke Ridnour SEA 12/10/2006 SEA vs. GSW W 35 26 9 17 52.9 3 5 60.0 5 7 71.4 0 3 3 9 0 0 3 4 3
+p610
+aVChris Wilcox SEA 12/10/2006 SEA vs. GSW W 30 10 4 6 66.7 0 0 - 2 2 100.0 2 6 8 2 0 0 1 1 1
+p611
+aVRashard Lewis SEA 12/10/2006 SEA vs. GSW W 44 25 8 17 47.1 4 10 40.0 5 6 83.3 2 6 8 4 4 0 1 4 1
+p612
+aVMouhamed Sene SEA 12/08/2006 SEA vs. NOK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p613
+aVMike Wilks SEA 12/08/2006 SEA vs. NOK W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p614
+aVLuke Ridnour SEA 12/08/2006 SEA vs. NOK W 30 8 2 9 22.2 1 2 50.0 3 4 75.0 0 4 4 4 3 1 1 3 2
+p615
+aVChris Wilcox SEA 12/08/2006 SEA vs. NOK W 35 19 6 13 46.2 0 0 - 7 10 70.0 3 5 8 0 0 1 6 3 24
+p616
+aVDesmon Farmer SEA 12/08/2006 SEA vs. NOK W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p617
+aVRashard Lewis SEA 12/08/2006 SEA vs. NOK W 35 15 6 12 50.0 2 6 33.3 1 1 100.0 0 5 5 2 0 1 4 3 1
+p618
+aVMickael Gelabale SEA 12/08/2006 SEA vs. NOK W 19 5 1 2 50.0 0 0 - 3 4 75.0 2 2 4 1 0 0 0 0 15
+p619
+aVJohan Petro SEA 12/08/2006 SEA vs. NOK W 24 6 3 5 60.0 0 0 - 0 0 - 2 3 5 3 1 0 1 4 16
+p620
+aVEarl Watson SEA 12/08/2006 SEA vs. NOK W 26 17 7 13 53.8 0 3 0.0 3 4 75.0 0 3 3 7 5 0 2 2 25
+p621
+aVNick Collison SEA 12/08/2006 SEA vs. NOK W 34 8 3 9 33.3 0 0 - 2 2 100.0 1 7 8 0 1 0 3 2 1
+p622
+aVDamien Wilkins SEA 12/08/2006 SEA vs. NOK W 32 14 6 12 50.0 0 1 0.0 2 2 100.0 2 1 3 4 4 0 1 4 15
+p623
+aVEarl Watson SEA 12/05/2006 SEA vs. ATL W 26 10 5 8 62.5 0 0 - 0 0 - 0 1 1 3 1 1 4 1 12
+p624
+aVNick Collison SEA 12/05/2006 SEA vs. ATL W 35 11 5 11 45.5 0 0 - 1 3 33.3 5 4 9 1 0 0 3 3 11
+p625
+aVMouhamed Sene SEA 12/05/2006 SEA vs. ATL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 2 0
+p626
+aVChris Wilcox SEA 12/05/2006 SEA vs. ATL W 40 18 7 16 43.8 0 0 - 4 6 66.7 4 5 9 2 1 0 4 3 13
+p627
+aVAndreas Glyniadakis SEA 12/05/2006 SEA vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p628
+aVMike Wilks SEA 12/05/2006 SEA vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p629
+aVRashard Lewis SEA 12/05/2006 SEA vs. ATL W 42 29 10 16 62.5 3 6 50.0 6 6 100.0 1 7 8 1 2 4 1 1 15
+p630
+aVDamien Wilkins SEA 12/05/2006 SEA vs. ATL W 22 10 3 5 60.0 0 1 0.0 4 4 100.0 4 4 8 4 3 0 0 5 12
+p631
+aVJohan Petro SEA 12/05/2006 SEA vs. ATL W 12 8 4 5 80.0 0 0 - 0 0 - 1 0 1 1 1 1 1 4 5
+p632
+aVLuke Ridnour SEA 12/05/2006 SEA vs. ATL W 30 14 7 14 50.0 0 1 0.0 0 0 - 0 3 3 6 0 2 5 1 2
+p633
+aVDesmon Farmer SEA 12/05/2006 SEA vs. ATL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p634
+aVMickael Gelabale SEA 12/05/2006 SEA vs. ATL W 21 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 1 2 2 0
+p635
+aVEarl Watson SEA 12/02/2006 SEA @ UTA L 14 5 1 6 16.7 1 3 33.3 2 2 100.0 0 1 1 1 1 0 0 1 -5
+p636
+aVMickael Gelabale SEA 12/02/2006 SEA @ UTA L 10 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 -5
+p637
+aVRashard Lewis SEA 12/02/2006 SEA @ UTA L 40 27 9 17 52.9 3 6 50.0 6 6 100.0 2 6 8 0 1 1 1 3 -8
+p638
+aVJohan Petro SEA 12/02/2006 SEA @ UTA L 21 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 1 1 1 2 -3
+p639
+aVRay Allen SEA 12/02/2006 SEA @ UTA L 42 33 8 19 42.1 4 9 44.4 13 14 92.9 0 4 4 2 1 0 5 2 7
+p640
+aVLuke Ridnour SEA 12/02/2006 SEA @ UTA L 34 13 5 12 41.7 0 0 - 3 4 75.0 0 1 1 10 1 0 2 4 3
+p641
+aVDamien Wilkins SEA 12/02/2006 SEA @ UTA L 13 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 2 0 2 2 -5
+p642
+aVChris Wilcox SEA 12/02/2006 SEA @ UTA L 43 13 3 3 100.0 0 0 - 7 10 70.0 2 5 7 1 1 0 1 2 9
+p643
+aVNick Collison SEA 12/02/2006 SEA @ UTA L 23 8 4 6 66.7 0 0 - 0 1 0.0 0 5 5 0 1 1 4 5 -3
+p644
+aVEarl Watson SEA 12/01/2006 SEA vs. IND W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 5 1 0 1 2 -11
+p645
+aVNick Collison SEA 12/01/2006 SEA vs. IND W 32 21 8 11 72.7 0 0 - 5 5 100.0 3 5 8 1 0 0 1 4 8
+p646
+aVRay Allen SEA 12/01/2006 SEA vs. IND W 40 18 8 21 38.1 0 5 0.0 2 2 100.0 2 4 6 3 3 0 3 2 3
+p647
+aVChris Wilcox SEA 12/01/2006 SEA vs. IND W 24 13 4 9 44.4 0 1 0.0 5 5 100.0 1 6 7 0 0 1 0 4 8
+p648
+aVDamien Wilkins SEA 12/01/2006 SEA vs. IND W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 3 0 1 4 -4
+p649
+aVJohan Petro SEA 12/01/2006 SEA vs. IND W 13 8 4 6 66.7 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -12
+p650
+aVLuke Ridnour SEA 12/01/2006 SEA vs. IND W 32 17 8 16 50.0 1 3 33.3 0 2 0.0 0 3 3 6 1 0 3 2 13
+p651
+aVMickael Gelabale SEA 12/01/2006 SEA vs. IND W 26 8 3 3 100.0 0 0 - 2 4 50.0 1 0 1 1 0 0 1 2 3
+p652
+aVRashard Lewis SEA 12/01/2006 SEA vs. IND W 43 18 4 14 28.6 0 3 0.0 10 10 100.0 1 8 9 4 3 1 0 2 2
+p653
+aVRay Allen SEA 11/29/2006 SEA vs. ORL L 42 21 7 17 41.2 2 9 22.2 5 5 100.0 1 3 4 5 0 1 1 3 -10
+p654
+aVLuke Ridnour SEA 11/29/2006 SEA vs. ORL L 25 7 2 9 22.2 1 4 25.0 2 2 100.0 1 1 2 4 0 0 1 5 -5
+p655
+aVMouhamed Sene SEA 11/29/2006 SEA vs. ORL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 5
+p656
+aVNick Collison SEA 11/29/2006 SEA vs. ORL L 31 6 3 11 27.3 0 0 - 0 0 - 5 4 9 2 3 0 3 3 -11
+p657
+aVDamien Wilkins SEA 11/29/2006 SEA vs. ORL L 15 2 0 4 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 3 1 -7
+p658
+aVAndreas Glyniadakis SEA 11/29/2006 SEA vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p659
+aVChris Wilcox SEA 11/29/2006 SEA vs. ORL L 25 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 3 2 0 1 3 -7
+p660
+aVRashard Lewis SEA 11/29/2006 SEA vs. ORL L 40 18 7 18 38.9 2 5 40.0 2 2 100.0 1 3 4 0 0 1 0 1 -10
+p661
+aVJohan Petro SEA 11/29/2006 SEA vs. ORL L 31 13 6 8 75.0 0 0 - 1 2 50.0 2 5 7 0 4 0 2 4 -2
+p662
+aVEarl Watson SEA 11/29/2006 SEA vs. ORL L 26 7 2 6 33.3 1 4 25.0 2 2 100.0 0 0 0 4 0 0 3 2 -4
+p663
+aVAndreas Glyniadakis SEA 11/26/2006 SEA vs. SAS L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p664
+aVRashard Lewis SEA 11/26/2006 SEA vs. SAS L 34 8 3 7 42.9 0 1 0.0 2 2 100.0 1 1 2 3 2 1 3 0 -10
+p665
+aVNick Collison SEA 11/26/2006 SEA vs. SAS L 27 15 6 12 50.0 0 0 - 3 6 50.0 5 2 7 0 0 0 0 3 -10
+p666
+aVRay Allen SEA 11/26/2006 SEA vs. SAS L 39 21 9 20 45.0 0 4 0.0 3 3 100.0 2 1 3 1 1 1 2 1 -11
+p667
+aVMouhamed Sene SEA 11/26/2006 SEA vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p668
+aVLuke Ridnour SEA 11/26/2006 SEA vs. SAS L 33 11 5 14 35.7 1 2 50.0 0 0 - 1 3 4 4 4 0 1 1 -10
+p669
+aVMickael Gelabale SEA 11/26/2006 SEA vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p670
+aVJohan Petro SEA 11/26/2006 SEA vs. SAS L 30 6 3 11 27.3 0 0 - 0 2 0.0 6 3 9 0 2 1 2 1 -13
+p671
+aVMike Wilks SEA 11/26/2006 SEA vs. SAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p672
+aVDamien Wilkins SEA 11/26/2006 SEA vs. SAS L 14 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -12
+p673
+aVEarl Watson SEA 11/26/2006 SEA vs. SAS L 20 2 1 8 12.5 0 3 0.0 0 0 - 0 3 3 4 1 0 1 3 -13
+p674
+aVChris Wilcox SEA 11/26/2006 SEA vs. SAS L 31 7 2 6 33.3 0 0 - 3 3 100.0 1 3 4 5 1 1 0 1 -8
+p675
+aVAndreas Glyniadakis SEA 11/24/2006 SEA vs. SAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 2
+p676
+aVDamien Wilkins SEA 11/24/2006 SEA vs. SAC L 13 4 1 3 33.3 0 0 - 2 3 66.7 0 0 0 0 1 0 1 3 -13
+p677
+aVMickael Gelabale SEA 11/24/2006 SEA vs. SAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p678
+aVRay Allen SEA 11/24/2006 SEA vs. SAC L 35 18 6 22 27.3 2 8 25.0 4 4 100.0 0 1 1 4 3 1 3 4 -2
+p679
+aVChris Wilcox SEA 11/24/2006 SEA vs. SAC L 37 15 6 8 75.0 0 0 - 3 4 75.0 2 11 13 0 0 0 5 3 -6
+p680
+aVLuke Ridnour SEA 11/24/2006 SEA vs. SAC L 37 20 8 12 66.7 0 1 0.0 4 6 66.7 0 2 2 8 1 0 6 1 -2
+p681
+aVEarl Watson SEA 11/24/2006 SEA vs. SAC L 27 6 2 8 25.0 1 4 25.0 1 2 50.0 2 1 3 4 2 0 2 4 -3
+p682
+aVNick Collison SEA 11/24/2006 SEA vs. SAC L 22 7 2 6 33.3 0 0 - 3 4 75.0 2 7 9 0 0 1 0 3 -15
+p683
+aVRashard Lewis SEA 11/24/2006 SEA vs. SAC L 41 26 11 18 61.1 3 7 42.9 1 2 50.0 2 5 7 1 2 0 1 2 2
+p684
+aVJohan Petro SEA 11/24/2006 SEA vs. SAC L 14 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 1 0 1 3 2
+p685
+aVMike Wilks SEA 11/24/2006 SEA vs. SAC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p686
+aVAndreas Glyniadakis SEA 11/22/2006 SEA @ LAC W 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -5
+p687
+aVJohan Petro SEA 11/22/2006 SEA @ LAC W 19 4 2 4 50.0 0 0 - 0 0 - 1 2 3 3 0 2 2 5 7
+p688
+aVDamien Wilkins SEA 11/22/2006 SEA @ LAC W 13 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 1 1 0 2 -4
+p689
+aVNick Collison SEA 11/22/2006 SEA @ LAC W 30 6 3 9 33.3 0 0 - 0 0 - 4 9 13 0 0 2 0 1 0
+p690
+aVChris Wilcox SEA 11/22/2006 SEA @ LAC W 31 9 3 7 42.9 0 0 - 3 4 75.0 1 5 6 2 2 0 0 4 18
+p691
+aVLuke Ridnour SEA 11/22/2006 SEA @ LAC W 37 12 5 12 41.7 0 1 0.0 2 2 100.0 1 1 2 9 1 0 1 1 15
+p692
+aVRashard Lewis SEA 11/22/2006 SEA @ LAC W 39 35 14 22 63.6 3 8 37.5 4 4 100.0 2 11 13 1 1 0 2 3 14
+p693
+aVEarl Watson SEA 11/22/2006 SEA @ LAC W 16 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 1 2 -3
+p694
+aVRay Allen SEA 11/22/2006 SEA @ LAC W 39 23 7 20 35.0 2 9 22.2 7 9 77.8 0 1 1 3 0 0 3 0 8
+p695
+aVEarl Watson SEA 11/20/2006 SEA vs. NJN W 19 5 1 7 14.3 1 4 25.0 2 2 100.0 0 1 1 4 1 0 1 2 4
+p696
+aVNick Collison SEA 11/20/2006 SEA vs. NJN W 19 9 2 5 40.0 0 0 - 5 7 71.4 1 4 5 0 0 0 2 5 0
+p697
+aVLuke Ridnour SEA 11/20/2006 SEA vs. NJN W 33 14 5 10 50.0 2 3 66.7 2 5 40.0 2 2 4 5 1 0 4 3 7
+p698
+aVChris Wilcox SEA 11/20/2006 SEA vs. NJN W 34 4 2 5 40.0 0 0 - 0 2 0.0 3 2 5 0 0 1 2 4 1
+p699
+aVRashard Lewis SEA 11/20/2006 SEA vs. NJN W 41 20 5 13 38.5 3 6 50.0 7 8 87.5 1 2 3 4 2 0 4 3 23
+p700
+aVMickael Gelabale SEA 11/20/2006 SEA vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p701
+aVJohan Petro SEA 11/20/2006 SEA vs. NJN W 29 12 4 8 50.0 0 0 - 4 5 80.0 2 4 6 1 1 3 1 4 12
+p702
+aVDamien Wilkins SEA 11/20/2006 SEA vs. NJN W 20 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 4
+p703
+aVRay Allen SEA 11/20/2006 SEA vs. NJN W 44 29 11 21 52.4 4 11 36.4 3 3 100.0 1 8 9 5 3 0 0 2 11
+p704
+aVRay Allen SEA 11/18/2006 SEA @ GSW L 46 34 11 21 52.4 4 9 44.4 8 8 100.0 1 10 11 3 1 0 4 3 -10
+p705
+aVMickael Gelabale SEA 11/18/2006 SEA @ GSW L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p706
+aVDamien Wilkins SEA 11/18/2006 SEA @ GSW L 26 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 2 1 1 1 2 3
+p707
+aVRashard Lewis SEA 11/18/2006 SEA @ GSW L 37 17 7 16 43.8 1 6 16.7 2 4 50.0 2 5 7 0 1 1 2 5 -5
+p708
+aVLuke Ridnour SEA 11/18/2006 SEA @ GSW L 42 14 7 16 43.8 0 3 0.0 0 2 0.0 2 2 4 5 1 0 2 3 -11
+p709
+aVChris Wilcox SEA 11/18/2006 SEA @ GSW L 11 6 2 4 50.0 0 0 - 2 9 22.2 2 4 6 0 0 0 0 2 -5
+p710
+aVEarl Watson SEA 11/18/2006 SEA @ GSW L 33 12 5 11 45.5 2 5 40.0 0 0 - 0 4 4 7 1 0 4 3 -3
+p711
+aVDesmon Farmer SEA 11/18/2006 SEA @ GSW L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p712
+aVMike Wilks SEA 11/18/2006 SEA @ GSW L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p713
+aVJohan Petro SEA 11/18/2006 SEA @ GSW L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -3
+p714
+aVNick Collison SEA 11/18/2006 SEA @ GSW L 24 2 0 3 0.0 0 0 - 2 2 100.0 1 4 5 0 1 0 2 5 -10
+p715
+aVChris Wilcox SEA 11/17/2006 SEA vs. UTA L 39 8 4 6 66.7 0 0 - 0 1 0.0 2 9 11 0 0 1 0 4 -8
+p716
+aVJohan Petro SEA 11/17/2006 SEA vs. UTA L 19 6 2 6 33.3 0 0 - 2 2 100.0 0 3 3 0 0 1 1 4 0
+p717
+aVDamien Wilkins SEA 11/17/2006 SEA vs. UTA L 20 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 3 0 3 1 2 -5
+p718
+aVRay Allen SEA 11/17/2006 SEA vs. UTA L 39 32 9 17 52.9 1 6 16.7 13 14 92.9 0 5 5 3 1 0 6 3 0
+p719
+aVMouhamed Sene SEA 11/17/2006 SEA vs. UTA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p720
+aVMickael Gelabale SEA 11/17/2006 SEA vs. UTA L 10 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 1 2 0 2 -3
+p721
+aVLuke Ridnour SEA 11/17/2006 SEA vs. UTA L 34 15 6 10 60.0 1 2 50.0 2 2 100.0 0 0 0 7 2 0 5 4 0
+p722
+aVNick Collison SEA 11/17/2006 SEA vs. UTA L 16 11 4 5 80.0 0 0 - 3 5 60.0 2 0 2 0 0 0 2 5 -2
+p723
+aVRashard Lewis SEA 11/17/2006 SEA vs. UTA L 39 24 8 16 50.0 3 6 50.0 5 5 100.0 0 2 2 3 2 3 3 2 -7
+p724
+aVEarl Watson SEA 11/17/2006 SEA vs. UTA L 20 6 1 3 33.3 1 2 50.0 3 6 50.0 0 0 0 6 0 0 2 0 -16
+p725
+aVChris Wilcox SEA 11/15/2006 SEA vs. PHI L 31 9 4 8 50.0 0 0 - 1 4 25.0 3 12 15 0 1 1 1 5 -3
+p726
+aVNick Collison SEA 11/15/2006 SEA vs. PHI L 21 1 0 6 0.0 0 0 - 1 3 33.3 1 2 3 0 1 2 2 1 -7
+p727
+aVRashard Lewis SEA 11/15/2006 SEA vs. PHI L 43 25 7 16 43.8 2 8 25.0 9 10 90.0 6 9 15 2 1 0 4 0 0
+p728
+aVJohan Petro SEA 11/15/2006 SEA vs. PHI L 16 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -6
+p729
+aVEarl Watson SEA 11/15/2006 SEA vs. PHI L 12 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 1 0 0 1 4 -9
+p730
+aVRay Allen SEA 11/15/2006 SEA vs. PHI L 43 22 9 23 39.1 2 8 25.0 2 3 66.7 1 1 2 2 2 0 1 3 -7
+p731
+aVDamien Wilkins SEA 11/15/2006 SEA vs. PHI L 27 9 4 7 57.1 0 0 - 1 2 50.0 2 2 4 1 1 1 1 3 3
+p732
+aVDanny Fortson SEA 11/15/2006 SEA vs. PHI L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p733
+aVLuke Ridnour SEA 11/15/2006 SEA vs. PHI L 41 20 9 16 56.3 1 2 50.0 1 1 100.0 0 1 1 7 1 0 4 5 4
+p734
+aVLuke Ridnour SEA 11/13/2006 SEA @ NJN W 40 32 11 18 61.1 2 4 50.0 8 8 100.0 1 3 4 7 0 1 1 5 9
+p735
+aVRay Allen SEA 11/13/2006 SEA @ NJN W 42 22 8 18 44.4 1 8 12.5 5 6 83.3 1 2 3 2 1 0 2 2 -2
+p736
+aVRashard Lewis SEA 11/13/2006 SEA @ NJN W 38 27 10 17 58.8 4 7 57.1 3 3 100.0 2 9 11 4 2 0 2 2 2
+p737
+aVEarl Watson SEA 11/13/2006 SEA @ NJN W 14 4 2 7 28.6 0 4 0.0 0 1 0.0 0 1 1 7 0 0 2 3 3
+p738
+aVNick Collison SEA 11/13/2006 SEA @ NJN W 35 6 3 10 30.0 0 0 - 0 0 - 3 4 7 1 0 1 2 5 -4
+p739
+aVDamien Wilkins SEA 11/13/2006 SEA @ NJN W 16 2 0 4 0.0 0 0 - 2 2 100.0 5 0 5 0 2 0 0 0 0
+p740
+aVJohan Petro SEA 11/13/2006 SEA @ NJN W 15 4 2 4 50.0 0 0 - 0 0 - 4 2 6 0 0 0 1 4 16
+p741
+aVChris Wilcox SEA 11/13/2006 SEA @ NJN W 40 22 8 13 61.5 0 0 - 6 9 66.7 4 5 9 2 0 1 0 1 6
+p742
+aVDanny Fortson SEA 11/11/2006 SEA @ ATL W 9 4 1 3 33.3 0 1 0.0 2 3 66.7 1 3 4 0 0 0 1 2 1
+p743
+aVChris Wilcox SEA 11/11/2006 SEA @ ATL W 39 12 5 6 83.3 0 0 - 2 2 100.0 3 12 15 3 0 1 0 4 4
+p744
+aVRay Allen SEA 11/11/2006 SEA @ ATL W 46 33 14 30 46.7 1 6 16.7 4 4 100.0 0 5 5 4 2 1 1 4 8
+p745
+aVJohan Petro SEA 11/11/2006 SEA @ ATL W 17 4 2 7 28.6 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -4
+p746
+aVDamien Wilkins SEA 11/11/2006 SEA @ ATL W 15 3 0 3 0.0 0 0 - 3 4 75.0 3 0 3 1 0 0 0 2 -8
+p747
+aVLuke Ridnour SEA 11/11/2006 SEA @ ATL W 41 19 7 14 50.0 2 3 66.7 3 4 75.0 0 1 1 5 0 1 2 1 8
+p748
+aVRashard Lewis SEA 11/11/2006 SEA @ ATL W 46 23 9 18 50.0 2 6 33.3 3 4 75.0 2 2 4 3 1 0 2 3 7
+p749
+aVNick Collison SEA 11/11/2006 SEA @ ATL W 33 12 5 8 62.5 0 0 - 2 2 100.0 3 2 5 4 0 3 0 4 3
+p750
+aVEarl Watson SEA 11/11/2006 SEA @ ATL W 19 3 1 5 20.0 1 2 50.0 0 0 - 1 0 1 0 1 1 1 1 -14
+p751
+aVNick Collison SEA 11/10/2006 SEA @ CHA W 27 10 4 10 40.0 0 0 - 2 2 100.0 6 9 15 1 1 0 1 2 6
+p752
+aVRay Allen SEA 11/10/2006 SEA @ CHA W 40 26 8 17 47.1 4 8 50.0 6 7 85.7 0 2 2 1 0 0 4 2 14
+p753
+aVChris Wilcox SEA 11/10/2006 SEA @ CHA W 30 12 5 12 41.7 0 0 - 2 2 100.0 5 8 13 1 1 0 3 4 15
+p754
+aVMike Wilks SEA 11/10/2006 SEA @ CHA W 8 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 4
+p755
+aVDamien Wilkins SEA 11/10/2006 SEA @ CHA W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p756
+aVMickael Gelabale SEA 11/10/2006 SEA @ CHA W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p757
+aVJohan Petro SEA 11/10/2006 SEA @ CHA W 28 12 6 8 75.0 0 0 - 0 0 - 1 5 6 1 1 0 1 3 16
+p758
+aVEarl Watson SEA 11/10/2006 SEA @ CHA W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 3 0 -7
+p759
+aVDanny Fortson SEA 11/10/2006 SEA @ CHA W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -3
+p760
+aVAndreas Glyniadakis SEA 11/10/2006 SEA @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p761
+aVRashard Lewis SEA 11/10/2006 SEA @ CHA W 39 21 6 12 50.0 2 4 50.0 7 8 87.5 0 4 4 6 1 0 1 1 12
+p762
+aVLuke Ridnour SEA 11/10/2006 SEA @ CHA W 33 6 2 7 28.6 0 2 0.0 2 2 100.0 1 2 3 7 0 0 3 3 16
+p763
+aVChris Wilcox SEA 11/08/2006 SEA @ ORL L 8 8 2 3 66.7 0 0 - 4 4 100.0 1 3 4 3 5 1 3 2 4
+p764
+aVRashard Lewis SEA 11/08/2006 SEA @ ORL L 8 16 6 15 40.0 1 3 33.3 3 4 75.0 0 4 4 0 1 0 4 4 -1
+p765
+aVRay Allen SEA 11/08/2006 SEA @ ORL L 10 21 7 15 46.7 4 8 50.0 3 3 100.0 2 2 4 3 1 0 0 2 -8
+p766
+aVLuke Ridnour SEA 11/08/2006 SEA @ ORL L 12 10 3 8 37.5 1 1 100.0 3 3 100.0 2 2 4 6 3 0 3 2 6
+p767
+aVEarl Watson SEA 11/08/2006 SEA @ ORL L 2 4 2 6 33.3 0 3 0.0 0 1 0.0 1 1 2 1 1 0 1 1 0
+p768
+aVJohan Petro SEA 11/08/2006 SEA @ ORL L 0 8 4 9 44.4 0 0 - 0 0 - 1 1 2 0 2 0 2 3 -1
+p769
+aVDanny Fortson SEA 11/08/2006 SEA @ ORL L 4 4 2 8 25.0 0 0 - 0 1 0.0 5 3 8 0 0 0 3 3 -7
+p770
+aVDamien Wilkins SEA 11/08/2006 SEA @ ORL L 7 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 0
+p771
+aVNick Collison SEA 11/08/2006 SEA @ ORL L 12 10 3 10 30.0 0 0 - 4 4 100.0 3 3 6 1 1 2 3 1 2
+p772
+aVEarl Watson SEA 11/07/2006 SEA @ MIA L 30 8 3 8 37.5 2 3 66.7 0 0 - 0 3 3 6 1 1 2 4 5
+p773
+aVLuke Ridnour SEA 11/07/2006 SEA @ MIA L 26 3 1 6 16.7 0 1 0.0 1 1 100.0 2 4 6 5 3 0 3 0 -3
+p774
+aVDamien Wilkins SEA 11/07/2006 SEA @ MIA L 22 8 2 7 28.6 0 1 0.0 4 4 100.0 1 3 4 1 1 0 5 2 0
+p775
+aVJohan Petro SEA 11/07/2006 SEA @ MIA L 13 2 0 0 - 0 0 - 2 2 100.0 0 4 4 0 0 0 1 4 -7
+p776
+aVDanny Fortson SEA 11/07/2006 SEA @ MIA L 16 10 3 3 100.0 0 0 - 4 4 100.0 0 0 0 0 0 0 2 3 12
+p777
+aVRashard Lewis SEA 11/07/2006 SEA @ MIA L 42 23 9 17 52.9 2 6 33.3 3 4 75.0 0 2 2 1 2 1 3 2 -5
+p778
+aVRay Allen SEA 11/07/2006 SEA @ MIA L 38 18 5 17 29.4 4 7 57.1 4 6 66.7 3 1 4 3 1 1 4 1 -8
+p779
+aVChris Wilcox SEA 11/07/2006 SEA @ MIA L 25 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 3 0 0 1 2 -13
+p780
+aVNick Collison SEA 11/07/2006 SEA @ MIA L 28 8 4 6 66.7 0 0 - 0 0 - 1 9 10 1 1 2 1 6 4
+p781
+aVLuke Ridnour SEA 11/05/2006 SEA vs. LAL W 37 22 9 13 69.2 2 2 100.0 2 2 100.0 0 2 2 7 1 0 2 4 8
+p782
+aVMickael Gelabale SEA 11/05/2006 SEA vs. LAL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p783
+aVChris Wilcox SEA 11/05/2006 SEA vs. LAL W 34 10 4 10 40.0 0 0 - 2 3 66.7 2 6 8 1 2 1 0 3 11
+p784
+aVDanny Fortson SEA 11/05/2006 SEA vs. LAL W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 4
+p785
+aVJohan Petro SEA 11/05/2006 SEA vs. LAL W 24 6 3 4 75.0 0 0 - 0 0 - 2 2 4 2 1 0 1 2 18
+p786
+aVRay Allen SEA 11/05/2006 SEA vs. LAL W 36 32 10 16 62.5 3 4 75.0 9 9 100.0 2 1 3 6 1 1 3 3 10
+p787
+aVEarl Watson SEA 11/05/2006 SEA vs. LAL W 19 12 4 5 80.0 1 2 50.0 3 3 100.0 1 4 5 5 4 0 3 4 12
+p788
+aVDamien Wilkins SEA 11/05/2006 SEA vs. LAL W 22 4 2 11 18.2 0 1 0.0 0 0 - 3 0 3 0 1 0 1 2 4
+p789
+aVMouhamed Sene SEA 11/05/2006 SEA vs. LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p790
+aVRashard Lewis SEA 11/05/2006 SEA vs. LAL W 40 25 8 16 50.0 6 10 60.0 3 4 75.0 1 5 6 3 3 1 3 3 6
+p791
+aVMike Wilks SEA 11/05/2006 SEA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p792
+aVNick Collison SEA 11/05/2006 SEA vs. LAL W 15 6 1 2 50.0 0 0 - 4 5 80.0 1 1 2 0 0 0 1 3 7
+p793
+aVDanny Fortson SEA 11/03/2006 SEA @ LAL L 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 3 3
+p794
+aVMickael Gelabale SEA 11/03/2006 SEA @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p795
+aVMouhamed Sene SEA 11/03/2006 SEA @ LAL L 11 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 1 1 1 3 -8
+p796
+aVChris Wilcox SEA 11/03/2006 SEA @ LAL L 30 11 5 11 45.5 0 0 - 1 2 50.0 7 5 12 4 1 0 1 3 -13
+p797
+aVEarl Watson SEA 11/03/2006 SEA @ LAL L 32 13 5 15 33.3 2 7 28.6 1 1 100.0 0 1 1 7 1 1 1 1 7
+p798
+aVLuke Ridnour SEA 11/03/2006 SEA @ LAL L 28 12 5 12 41.7 2 4 50.0 0 0 - 0 2 2 2 0 0 2 6 -18
+p799
+aVDamien Wilkins SEA 11/03/2006 SEA @ LAL L 27 12 6 8 75.0 0 0 - 0 0 - 2 2 4 3 1 0 0 3 13
+p800
+aVNick Collison SEA 11/03/2006 SEA @ LAL L 14 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 1 0 1 3 6
+p801
+aVRashard Lewis SEA 11/03/2006 SEA @ LAL L 42 28 10 21 47.6 4 8 50.0 4 4 100.0 2 6 8 2 0 0 0 3 -15
+p802
+aVRay Allen SEA 11/03/2006 SEA @ LAL L 41 30 10 24 41.7 3 12 25.0 7 7 100.0 1 4 5 5 6 0 3 4 -2
+p803
+aVEarl Watson SEA 11/01/2006 SEA vs. POR L 20 4 0 6 0.0 0 2 0.0 4 4 100.0 0 2 2 6 1 0 0 0 -5
+p804
+aVLuke Ridnour SEA 11/01/2006 SEA vs. POR L 42 22 10 17 58.8 1 3 33.3 1 1 100.0 1 4 5 13 3 0 3 4 -4
+p805
+aVRashard Lewis SEA 11/01/2006 SEA vs. POR L 42 25 9 19 47.4 3 7 42.9 4 5 80.0 2 6 8 1 3 0 4 4 9
+p806
+aVRay Allen SEA 11/01/2006 SEA vs. POR L 39 22 9 20 45.0 2 7 28.6 2 2 100.0 1 0 1 3 1 0 1 0 3
+p807
+aVChris Wilcox SEA 11/01/2006 SEA vs. POR L 24 17 7 9 77.8 0 0 - 3 4 75.0 4 2 6 0 0 1 1 6 2
+p808
+aVMouhamed Sene SEA 11/01/2006 SEA vs. POR L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 0
+p809
+aVNick Collison SEA 11/01/2006 SEA vs. POR L 17 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 2 4 -6
+p810
+aVJohan Petro SEA 11/01/2006 SEA vs. POR L 16 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 2 0 4 3
+p811
+aVMickael Gelabale SEA 11/01/2006 SEA vs. POR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p812
+aVDamien Wilkins SEA 11/01/2006 SEA vs. POR L 23 14 5 11 45.5 0 0 - 4 4 100.0 4 0 4 0 1 0 2 2 -17
+p813
+a.

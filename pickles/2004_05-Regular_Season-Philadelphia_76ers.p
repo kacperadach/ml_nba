@@ -1,0 +1,1646 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRodney Rogers PHI 04/20/2005 PHI vs. ATL W 17 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 2 3 0 1 5 11
+p2
+aVMarc Jackson PHI 04/20/2005 PHI vs. ATL W 18 12 3 6 50.0 0 0 - 6 6 100.0 1 0 1 0 0 0 1 4 5
+p3
+aVJosh Davis PHI 04/20/2005 PHI vs. ATL W 25 16 5 7 71.4 2 3 66.7 4 6 66.7 0 5 5 2 1 1 0 2 9
+p4
+aVAndre Iguodala PHI 04/20/2005 PHI vs. ATL W 28 12 5 10 50.0 0 1 0.0 2 2 100.0 3 1 4 5 3 1 3 0 15
+p5
+aVWillie Green PHI 04/20/2005 PHI vs. ATL W 32 16 6 10 60.0 1 4 25.0 3 5 60.0 0 0 0 2 0 1 6 3 5
+p6
+aVSamuel Dalembert PHI 04/20/2005 PHI vs. ATL W 21 2 1 3 33.3 0 0 - 0 0 - 0 9 9 0 2 2 3 3 18
+p7
+aVAaron McKie PHI 04/20/2005 PHI vs. ATL W 11 0 0 0 - 0 0 - 0 2 0.0 0 2 2 1 0 0 1 0 12
+p8
+aVJohn Salmons PHI 04/20/2005 PHI vs. ATL W 20 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 5 0 0 1 3 7
+p9
+aVAllen Iverson PHI 04/20/2005 PHI vs. ATL W 12 16 5 11 45.5 2 3 66.7 4 4 100.0 0 0 0 2 1 0 0 0 18
+p10
+aVKyle Korver PHI 04/20/2005 PHI vs. ATL W 41 21 7 16 43.8 4 12 33.3 3 3 100.0 1 5 6 2 3 1 1 2 15
+p11
+aVMichael Bradley PHI 04/20/2005 PHI vs. ATL W 15 9 4 5 80.0 0 1 0.0 1 2 50.0 0 3 3 1 0 0 1 0 5
+p12
+aVKyle Korver PHI 04/18/2005 PHI vs. MIL W 29 19 7 13 53.8 4 10 40.0 1 1 100.0 0 0 0 2 1 1 0 4 16
+p13
+aVAaron McKie PHI 04/18/2005 PHI vs. MIL W 19 4 2 5 40.0 0 3 0.0 0 0 - 1 4 5 2 2 0 0 3 9
+p14
+aVAllen Iverson PHI 04/18/2005 PHI vs. MIL W 46 39 15 27 55.6 2 4 50.0 7 9 77.8 1 6 7 12 3 0 4 0 18
+p15
+aVMarc Jackson PHI 04/18/2005 PHI vs. MIL W 30 7 3 7 42.9 0 0 - 1 1 100.0 1 3 4 2 0 0 2 1 8
+p16
+aVRodney Rogers PHI 04/18/2005 PHI vs. MIL W 19 12 4 5 80.0 2 3 66.7 2 2 100.0 0 4 4 2 2 0 1 3 6
+p17
+aVKevin Ollie PHI 04/18/2005 PHI vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -2
+p18
+aVWillie Green PHI 04/18/2005 PHI vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p19
+aVSamuel Dalembert PHI 04/18/2005 PHI vs. MIL W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 4 -1
+p20
+aVAndre Iguodala PHI 04/18/2005 PHI vs. MIL W 35 15 6 9 66.7 1 2 50.0 2 2 100.0 1 4 5 6 3 0 2 2 6
+p21
+aVJohn Salmons PHI 04/18/2005 PHI vs. MIL W 12 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 1 1 3
+p22
+aVChris Webber PHI 04/18/2005 PHI vs. MIL W 33 18 8 19 42.1 0 0 - 2 2 100.0 1 7 8 6 1 0 1 2 19
+p23
+aVKyle Korver PHI 04/17/2005 PHI @ NJN L 25 8 3 6 50.0 2 3 66.7 0 0 - 2 4 6 1 0 2 0 2 -13
+p24
+aVAndre Iguodala PHI 04/17/2005 PHI @ NJN L 35 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 1 2 0 0 2 -22
+p25
+aVAaron McKie PHI 04/17/2005 PHI @ NJN L 25 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 2 3 1 -8
+p26
+aVMarc Jackson PHI 04/17/2005 PHI @ NJN L 19 5 1 5 20.0 0 0 - 3 4 75.0 1 4 5 6 1 0 2 2 6
+p27
+aVWillie Green PHI 04/17/2005 PHI @ NJN L 3 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -5
+p28
+aVRodney Rogers PHI 04/17/2005 PHI @ NJN L 16 2 1 5 20.0 0 3 0.0 0 0 - 1 3 4 1 1 0 2 2 3
+p29
+aVChris Webber PHI 04/17/2005 PHI @ NJN L 26 14 7 19 36.8 0 0 - 0 0 - 3 4 7 3 0 2 2 5 -24
+p30
+aVJohn Salmons PHI 04/17/2005 PHI @ NJN L 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 3 3 0 2 0 0 0 1
+p31
+aVJosh Davis PHI 04/17/2005 PHI @ NJN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p32
+aVSamuel Dalembert PHI 04/17/2005 PHI @ NJN L 31 7 2 8 25.0 0 0 - 3 4 75.0 4 6 10 0 0 1 1 1 -22
+p33
+aVAllen Iverson PHI 04/17/2005 PHI @ NJN L 45 33 12 22 54.5 3 8 37.5 6 8 75.0 0 4 4 8 0 0 6 2 -16
+p34
+aVKyle Korver PHI 04/15/2005 PHI @ IND W 35 9 2 8 25.0 1 5 20.0 4 6 66.7 0 5 5 2 0 0 3 4 3
+p35
+aVRodney Rogers PHI 04/15/2005 PHI @ IND W 19 4 1 4 25.0 1 3 33.3 1 2 50.0 2 6 8 0 0 0 0 0 -1
+p36
+aVChris Webber PHI 04/15/2005 PHI @ IND W 39 21 9 21 42.9 0 1 0.0 3 3 100.0 1 7 8 3 3 2 4 5 11
+p37
+aVMarc Jackson PHI 04/15/2005 PHI @ IND W 12 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 1 1 0 1 -11
+p38
+aVJohn Salmons PHI 04/15/2005 PHI @ IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -1
+p39
+aVAndre Iguodala PHI 04/15/2005 PHI @ IND W 40 7 2 3 66.7 1 2 50.0 2 2 100.0 0 4 4 1 1 0 1 0 5
+p40
+aVAaron McKie PHI 04/15/2005 PHI @ IND W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 3
+p41
+aVSamuel Dalembert PHI 04/15/2005 PHI @ IND W 22 4 2 2 100.0 0 0 - 0 0 - 1 8 9 1 0 3 3 3 7
+p42
+aVAllen Iverson PHI 04/15/2005 PHI @ IND W 44 43 16 30 53.3 2 6 33.3 9 11 81.8 1 3 4 7 1 0 5 4 8
+p43
+aVWillie Green PHI 04/15/2005 PHI @ IND W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p44
+aVChris Webber PHI 04/14/2005 PHI vs. MIA W 38 15 7 16 43.8 0 0 - 1 2 50.0 2 8 10 1 3 1 4 6 8
+p45
+aVRodney Rogers PHI 04/14/2005 PHI vs. MIA W 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -10
+p46
+aVMarc Jackson PHI 04/14/2005 PHI vs. MIA W 35 26 7 16 43.8 0 0 - 12 12 100.0 3 1 4 4 0 1 1 3 14
+p47
+aVAndre Iguodala PHI 04/14/2005 PHI vs. MIA W 44 19 5 10 50.0 3 5 60.0 6 6 100.0 4 6 10 4 1 0 4 3 -2
+p48
+aVKyle Korver PHI 04/14/2005 PHI vs. MIA W 48 20 7 16 43.8 5 9 55.6 1 1 100.0 0 6 6 2 2 0 0 4 1
+p49
+aVAaron McKie PHI 04/14/2005 PHI vs. MIA W 13 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 19
+p50
+aVAllen Iverson PHI 04/14/2005 PHI vs. MIA W 53 38 11 24 45.8 3 5 60.0 13 13 100.0 0 6 6 16 3 0 2 0 7
+p51
+aVSamuel Dalembert PHI 04/14/2005 PHI vs. MIA W 27 8 4 9 44.4 0 0 - 0 0 - 3 2 5 0 2 1 1 6 -2
+p52
+aVMarc Jackson PHI 04/12/2005 PHI vs. BOS L 20 16 4 8 50.0 0 0 - 8 8 100.0 0 1 1 2 0 0 1 1 1
+p53
+aVSamuel Dalembert PHI 04/12/2005 PHI vs. BOS L 27 12 6 9 66.7 0 0 - 0 0 - 2 4 6 0 0 1 2 3 -6
+p54
+aVKyle Korver PHI 04/12/2005 PHI vs. BOS L 44 17 6 12 50.0 5 9 55.6 0 1 0.0 1 8 9 4 2 1 2 4 1
+p55
+aVChris Webber PHI 04/12/2005 PHI vs. BOS L 35 8 3 10 30.0 0 1 0.0 2 5 40.0 0 7 7 3 1 3 3 3 6
+p56
+aVRodney Rogers PHI 04/12/2005 PHI vs. BOS L 7 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 3 1 -6
+p57
+aVAndre Iguodala PHI 04/12/2005 PHI vs. BOS L 19 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 5 5
+p58
+aVWillie Green PHI 04/12/2005 PHI vs. BOS L 8 5 1 3 33.3 0 0 - 3 3 100.0 0 1 1 1 1 1 1 0 -7
+p59
+aVJohn Salmons PHI 04/12/2005 PHI vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p60
+aVJosh Davis PHI 04/12/2005 PHI vs. BOS L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -9
+p61
+aVAaron McKie PHI 04/12/2005 PHI vs. BOS L 29 6 3 5 60.0 0 1 0.0 0 0 - 1 3 4 0 2 0 0 6 -16
+p62
+aVAllen Iverson PHI 04/12/2005 PHI vs. BOS L 42 28 9 21 42.9 0 5 0.0 10 13 76.9 0 2 2 11 4 0 4 5 -4
+p63
+aVMarc Jackson PHI 04/09/2005 PHI @ WAS W 30 20 8 11 72.7 0 0 - 4 6 66.7 3 4 7 3 0 0 1 1 16
+p64
+aVAndre Iguodala PHI 04/09/2005 PHI @ WAS W 42 20 6 12 50.0 2 3 66.7 6 7 85.7 2 6 8 6 1 1 0 1 8
+p65
+aVAaron McKie PHI 04/09/2005 PHI @ WAS W 31 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 6 3 0 2 5 11
+p66
+aVJosh Davis PHI 04/09/2005 PHI @ WAS W 10 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 1
+p67
+aVJohn Salmons PHI 04/09/2005 PHI @ WAS W 18 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 1 3 -10
+p68
+aVWillie Green PHI 04/09/2005 PHI @ WAS W 38 20 8 18 44.4 1 5 20.0 3 4 75.0 0 4 4 9 3 0 1 3 11
+p69
+aVSamuel Dalembert PHI 04/09/2005 PHI @ WAS W 27 18 8 15 53.3 0 0 - 2 2 100.0 3 5 8 1 0 2 3 5 4
+p70
+aVKyle Korver PHI 04/09/2005 PHI @ WAS W 19 10 3 6 50.0 1 4 25.0 3 4 75.0 0 1 1 1 0 0 0 3 -7
+p71
+aVRodney Rogers PHI 04/09/2005 PHI @ WAS W 25 17 7 14 50.0 3 6 50.0 0 0 - 3 2 5 1 0 1 0 3 -4
+p72
+aVKyle Korver PHI 04/08/2005 PHI vs. CLE W 44 12 4 5 80.0 3 3 100.0 1 2 50.0 0 8 8 3 0 0 3 3 2
+p73
+aVSamuel Dalembert PHI 04/08/2005 PHI vs. CLE W 28 23 10 15 66.7 0 0 - 3 5 60.0 9 7 16 0 1 3 5 5 5
+p74
+aVAndre Iguodala PHI 04/08/2005 PHI vs. CLE W 36 9 3 7 42.9 1 1 100.0 2 5 40.0 1 4 5 2 2 0 1 2 -3
+p75
+aVJosh Davis PHI 04/08/2005 PHI vs. CLE W 15 5 2 4 50.0 1 1 100.0 0 0 - 4 1 5 1 0 0 2 4 0
+p76
+aVJohn Salmons PHI 04/08/2005 PHI vs. CLE W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p77
+aVAllen Iverson PHI 04/08/2005 PHI vs. CLE W 46 23 9 30 30.0 1 4 25.0 4 4 100.0 1 6 7 16 5 0 8 2 14
+p78
+aVRodney Rogers PHI 04/08/2005 PHI vs. CLE W 23 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 2 1 0 0 3 6
+p79
+aVAaron McKie PHI 04/08/2005 PHI vs. CLE W 14 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 10
+p80
+aVMarc Jackson PHI 04/08/2005 PHI vs. CLE W 29 24 11 19 57.9 0 0 - 2 2 100.0 2 2 4 1 1 0 1 2 -2
+p81
+aVMarc Jackson PHI 04/06/2005 PHI vs. CHA W 31 13 5 11 45.5 0 0 - 3 4 75.0 1 1 2 1 0 0 3 5 3
+p82
+aVSamuel Dalembert PHI 04/06/2005 PHI vs. CHA W 35 10 4 13 30.8 0 0 - 2 4 50.0 6 1 7 2 1 4 2 4 2
+p83
+aVRodney Rogers PHI 04/06/2005 PHI vs. CHA W 18 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 1 0 5 -1
+p84
+aVAndre Iguodala PHI 04/06/2005 PHI vs. CHA W 39 7 2 6 33.3 1 2 50.0 2 2 100.0 1 10 11 2 1 0 1 2 7
+p85
+aVAaron McKie PHI 04/06/2005 PHI vs. CHA W 30 4 2 5 40.0 0 2 0.0 0 0 - 1 5 6 5 1 0 1 3 4
+p86
+aVAllen Iverson PHI 04/06/2005 PHI vs. CHA W 48 48 17 31 54.8 1 8 12.5 13 14 92.9 0 7 7 8 2 0 5 2 3
+p87
+aVKyle Korver PHI 04/06/2005 PHI vs. CHA W 24 11 3 6 50.0 3 5 60.0 2 2 100.0 0 4 4 0 2 0 3 5 -3
+p88
+aVJohn Salmons PHI 04/06/2005 PHI vs. CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p89
+aVJosh Davis PHI 04/06/2005 PHI vs. CHA W 12 10 3 7 42.9 2 4 50.0 2 2 100.0 1 1 2 1 0 0 3 2 2
+p90
+aVMarc Jackson PHI 04/03/2005 PHI @ BOS W 16 6 1 8 12.5 0 0 - 4 4 100.0 4 2 6 1 0 0 0 2 3
+p91
+aVAndre Iguodala PHI 04/03/2005 PHI @ BOS W 33 10 4 9 44.4 0 2 0.0 2 4 50.0 3 2 5 2 5 0 2 5 22
+p92
+aVAllen Iverson PHI 04/03/2005 PHI @ BOS W 44 38 12 28 42.9 3 8 37.5 11 14 78.6 0 4 4 9 6 1 4 2 7
+p93
+aVKyle Korver PHI 04/03/2005 PHI @ BOS W 31 7 3 10 30.0 1 6 16.7 0 0 - 2 7 9 0 4 1 1 5 2
+p94
+aVSamuel Dalembert PHI 04/03/2005 PHI @ BOS W 38 18 8 17 47.1 0 0 - 2 3 66.7 3 12 15 1 0 2 2 4 2
+p95
+aVRodney Rogers PHI 04/03/2005 PHI @ BOS W 25 10 4 11 36.4 2 8 25.0 0 1 0.0 1 3 4 2 2 0 1 2 0
+p96
+aVJohn Salmons PHI 04/03/2005 PHI @ BOS W 11 0 0 3 0.0 0 3 0.0 0 0 - 1 0 1 2 0 0 0 1 -14
+p97
+aVAaron McKie PHI 04/03/2005 PHI @ BOS W 26 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 1 1 1 4 -5
+p98
+aVJosh Davis PHI 04/03/2005 PHI @ BOS W 16 8 3 8 37.5 2 4 50.0 0 0 - 3 2 5 1 1 0 0 1 3
+p99
+aVWillie Green PHI 04/01/2005 PHI vs. DAL L 13 7 3 6 50.0 0 2 0.0 1 1 100.0 0 1 1 1 1 0 0 0 5
+p100
+aVRodney Rogers PHI 04/01/2005 PHI vs. DAL L 22 3 1 11 9.1 1 3 33.3 0 0 - 3 3 6 1 1 0 0 3 -19
+p101
+aVKyle Korver PHI 04/01/2005 PHI vs. DAL L 25 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 3 1 0 1 0 -15
+p102
+aVAaron McKie PHI 04/01/2005 PHI vs. DAL L 17 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -8
+p103
+aVJosh Davis PHI 04/01/2005 PHI vs. DAL L 28 8 3 13 23.1 0 6 0.0 2 2 100.0 5 6 11 1 0 0 1 4 -5
+p104
+aVAndre Iguodala PHI 04/01/2005 PHI vs. DAL L 36 6 2 5 40.0 0 0 - 2 4 50.0 0 10 10 4 2 0 0 1 -16
+p105
+aVJohn Salmons PHI 04/01/2005 PHI vs. DAL L 22 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 4 0 0 2 3 5
+p106
+aVMarc Jackson PHI 04/01/2005 PHI vs. DAL L 33 22 7 12 58.3 0 0 - 8 8 100.0 1 4 5 1 0 0 2 3 -2
+p107
+aVAllen Iverson PHI 04/01/2005 PHI vs. DAL L 30 22 9 19 47.4 0 2 0.0 4 4 100.0 1 0 1 2 2 0 7 5 -22
+p108
+aVSamuel Dalembert PHI 04/01/2005 PHI vs. DAL L 14 4 1 5 20.0 0 0 - 2 4 50.0 1 4 5 0 0 0 1 4 -8
+p109
+aVMarc Jackson PHI 03/30/2005 PHI @ PHX L 22 11 4 9 44.4 0 0 - 3 4 75.0 2 3 5 0 0 0 2 3 -22
+p110
+aVRodney Rogers PHI 03/30/2005 PHI @ PHX L 24 10 4 9 44.4 0 2 0.0 2 2 100.0 2 1 3 1 1 0 1 4 -12
+p111
+aVSamuel Dalembert PHI 03/30/2005 PHI @ PHX L 14 7 3 4 75.0 0 0 - 1 4 25.0 2 5 7 0 0 1 1 3 3
+p112
+aVKevin Ollie PHI 03/30/2005 PHI @ PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p113
+aVJosh Davis PHI 03/30/2005 PHI @ PHX L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -8
+p114
+aVAndre Iguodala PHI 03/30/2005 PHI @ PHX L 29 10 3 6 50.0 2 3 66.7 2 2 100.0 0 5 5 2 1 0 0 0 -14
+p115
+aVJohn Salmons PHI 03/30/2005 PHI @ PHX L 20 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 2 1 0 1 3 -9
+p116
+aVWillie Green PHI 03/30/2005 PHI @ PHX L 9 5 2 9 22.2 1 3 33.3 0 0 - 1 2 3 1 0 0 0 0 -7
+p117
+aVAllen Iverson PHI 03/30/2005 PHI @ PHX L 36 26 10 27 37.0 1 2 50.0 5 6 83.3 3 6 9 4 1 1 6 3 -25
+p118
+aVAaron McKie PHI 03/30/2005 PHI @ PHX L 21 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -16
+p119
+aVKyle Korver PHI 03/30/2005 PHI @ PHX L 27 4 2 8 25.0 0 4 0.0 0 0 - 0 3 3 1 0 1 0 1 -15
+p120
+aVChris Webber PHI 03/30/2005 PHI @ PHX L 28 12 5 15 33.3 0 0 - 2 2 100.0 1 5 6 2 0 0 1 1 -19
+p121
+aVAaron McKie PHI 03/28/2005 PHI @ SAC L 17 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 2 1 1 1 4 -14
+p122
+aVKyle Korver PHI 03/28/2005 PHI @ SAC L 34 11 4 5 80.0 3 3 100.0 0 0 - 1 5 6 3 1 0 1 1 -5
+p123
+aVMarc Jackson PHI 03/28/2005 PHI @ SAC L 14 8 3 4 75.0 0 0 - 2 3 66.7 1 2 3 0 0 0 1 1 -8
+p124
+aVChris Webber PHI 03/28/2005 PHI @ SAC L 40 20 8 26 30.8 0 3 0.0 4 6 66.7 3 7 10 3 2 1 3 3 -8
+p125
+aVJosh Davis PHI 03/28/2005 PHI @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p126
+aVSamuel Dalembert PHI 03/28/2005 PHI @ SAC L 32 16 8 15 53.3 0 0 - 0 2 0.0 9 7 16 0 1 5 2 3 5
+p127
+aVAndre Iguodala PHI 03/28/2005 PHI @ SAC L 33 4 2 3 66.7 0 0 - 0 0 - 0 4 4 3 0 1 4 4 -4
+p128
+aVRodney Rogers PHI 03/28/2005 PHI @ SAC L 9 6 3 4 75.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -7
+p129
+aVJohn Salmons PHI 03/28/2005 PHI @ SAC L 12 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 3 0 0 0 0 5
+p130
+aVAllen Iverson PHI 03/28/2005 PHI @ SAC L 48 34 14 31 45.2 3 7 42.9 3 6 50.0 1 2 3 8 3 0 5 0 -9
+p131
+aVAllen Iverson PHI 03/27/2005 PHI @ LAL W 43 20 5 28 17.9 0 6 0.0 10 14 71.4 1 1 2 15 4 0 4 2 3
+p132
+aVSamuel Dalembert PHI 03/27/2005 PHI @ LAL W 30 11 4 8 50.0 0 0 - 3 4 75.0 3 7 10 1 1 3 2 4 3
+p133
+aVMarc Jackson PHI 03/27/2005 PHI @ LAL W 25 14 5 6 83.3 0 0 - 4 4 100.0 1 1 2 0 0 0 1 3 13
+p134
+aVJohn Salmons PHI 03/27/2005 PHI @ LAL W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 1 3
+p135
+aVKyle Korver PHI 03/27/2005 PHI @ LAL W 31 7 2 9 22.2 2 8 25.0 1 1 100.0 5 3 8 3 1 0 1 5 8
+p136
+aVAaron McKie PHI 03/27/2005 PHI @ LAL W 25 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 1 3 0 0 0 10
+p137
+aVChris Webber PHI 03/27/2005 PHI @ LAL W 40 14 7 20 35.0 0 1 0.0 0 0 - 1 13 14 4 2 0 2 4 -2
+p138
+aVAndre Iguodala PHI 03/27/2005 PHI @ LAL W 40 18 8 13 61.5 1 3 33.3 1 2 50.0 3 6 9 2 3 2 2 3 -3
+p139
+aVKyle Korver PHI 03/25/2005 PHI vs. TOR W 26 6 2 8 25.0 2 5 40.0 0 0 - 1 4 5 4 1 0 1 2 1
+p140
+aVJohn Salmons PHI 03/25/2005 PHI vs. TOR W 12 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 1 2 0 0 3 -4
+p141
+aVAndre Iguodala PHI 03/25/2005 PHI vs. TOR W 34 9 3 5 60.0 0 1 0.0 3 4 75.0 1 5 6 4 2 0 2 2 9
+p142
+aVAaron McKie PHI 03/25/2005 PHI vs. TOR W 25 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 5 -3
+p143
+aVRodney Rogers PHI 03/25/2005 PHI vs. TOR W 13 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 2 -11
+p144
+aVSamuel Dalembert PHI 03/25/2005 PHI vs. TOR W 33 14 6 10 60.0 0 0 - 2 3 66.7 2 5 7 0 2 1 0 3 -4
+p145
+aVAllen Iverson PHI 03/25/2005 PHI vs. TOR W 47 36 11 23 47.8 2 6 33.3 12 12 100.0 0 3 3 7 1 0 6 1 3
+p146
+aVChris Webber PHI 03/25/2005 PHI vs. TOR W 40 32 15 25 60.0 0 1 0.0 2 2 100.0 0 6 6 4 1 1 3 2 21
+p147
+aVJosh Davis PHI 03/25/2005 PHI vs. TOR W 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -2
+p148
+aVAndre Iguodala PHI 03/23/2005 PHI vs. DET W 43 10 4 8 50.0 2 2 100.0 0 0 - 2 8 10 10 4 0 0 3 24
+p149
+aVAllen Iverson PHI 03/23/2005 PHI vs. DET W 46 39 15 26 57.7 2 5 40.0 7 9 77.8 0 2 2 10 5 0 8 3 17
+p150
+aVSamuel Dalembert PHI 03/23/2005 PHI vs. DET W 36 11 5 8 62.5 0 0 - 1 2 50.0 2 5 7 0 0 3 0 4 25
+p151
+aVJosh Davis PHI 03/23/2005 PHI vs. DET W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 6
+p152
+aVKyle Korver PHI 03/23/2005 PHI vs. DET W 30 9 3 4 75.0 3 4 75.0 0 0 - 0 2 2 1 0 0 0 4 4
+p153
+aVWillie Green PHI 03/23/2005 PHI vs. DET W 3 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 4
+p154
+aVChris Webber PHI 03/23/2005 PHI vs. DET W 33 19 9 19 47.4 1 1 100.0 0 2 0.0 2 3 5 2 1 0 1 3 13
+p155
+aVAaron McKie PHI 03/23/2005 PHI vs. DET W 23 5 1 3 33.3 0 0 - 3 3 100.0 0 8 8 2 5 0 0 1 20
+p156
+aVMarc Jackson PHI 03/23/2005 PHI vs. DET W 16 8 2 2 100.0 0 0 - 4 4 100.0 0 1 1 2 0 0 1 3 1
+p157
+aVRodney Rogers PHI 03/23/2005 PHI vs. DET W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 1
+p158
+aVSamuel Dalembert PHI 03/19/2005 PHI vs. CHI L 35 16 6 13 46.2 0 0 - 4 5 80.0 3 14 17 0 1 1 2 6 -13
+p159
+aVAndre Iguodala PHI 03/19/2005 PHI vs. CHI L 36 8 4 6 66.7 0 1 0.0 0 0 - 2 2 4 0 0 0 2 2 -7
+p160
+aVAllen Iverson PHI 03/19/2005 PHI vs. CHI L 41 31 9 24 37.5 1 5 20.0 12 16 75.0 0 2 2 7 4 0 11 3 -13
+p161
+aVKyle Korver PHI 03/19/2005 PHI vs. CHI L 25 4 1 2 50.0 1 2 50.0 1 1 100.0 0 5 5 2 0 0 0 2 7
+p162
+aVAaron McKie PHI 03/19/2005 PHI vs. CHI L 22 8 2 3 66.7 2 2 100.0 2 2 100.0 0 3 3 1 1 0 1 1 3
+p163
+aVMarc Jackson PHI 03/19/2005 PHI vs. CHI L 36 11 2 11 18.2 0 1 0.0 7 8 87.5 5 7 12 3 2 0 3 1 3
+p164
+aVJohn Salmons PHI 03/19/2005 PHI vs. CHI L 20 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 3 0 1 1 2 -8
+p165
+aVRodney Rogers PHI 03/19/2005 PHI vs. CHI L 16 4 1 7 14.3 1 5 20.0 1 2 50.0 0 2 2 0 1 0 1 4 -7
+p166
+aVJosh Davis PHI 03/19/2005 PHI vs. CHI L 9 4 2 6 33.3 0 4 0.0 0 0 - 0 3 3 0 0 1 0 1 5
+p167
+aVAaron McKie PHI 03/18/2005 PHI @ CLE W 15 2 1 3 33.3 0 2 0.0 0 0 - 2 1 3 3 0 2 1 3 7
+p168
+aVChris Webber PHI 03/18/2005 PHI @ CLE W 35 14 6 16 37.5 1 2 50.0 1 2 50.0 0 8 8 3 0 0 2 6 6
+p169
+aVAllen Iverson PHI 03/18/2005 PHI @ CLE W 44 31 9 27 33.3 2 6 33.3 11 12 91.7 1 8 9 5 1 0 3 0 7
+p170
+aVRodney Rogers PHI 03/18/2005 PHI @ CLE W 22 7 2 5 40.0 2 3 66.7 1 2 50.0 3 3 6 2 3 5 3 1 12
+p171
+aVMarc Jackson PHI 03/18/2005 PHI @ CLE W 23 14 5 10 50.0 0 0 - 4 5 80.0 2 2 4 0 0 0 2 3 1
+p172
+aVJohn Salmons PHI 03/18/2005 PHI @ CLE W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 2 0 0 0 4
+p173
+aVJosh Davis PHI 03/18/2005 PHI @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p174
+aVKyle Korver PHI 03/18/2005 PHI @ CLE W 36 15 5 7 71.4 4 6 66.7 1 1 100.0 2 9 11 1 1 1 1 2 8
+p175
+aVSamuel Dalembert PHI 03/18/2005 PHI @ CLE W 15 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 2 2 5 3
+p176
+aVAndre Iguodala PHI 03/18/2005 PHI @ CLE W 36 8 3 8 37.5 0 1 0.0 2 3 66.7 1 2 3 4 2 3 1 1 10
+p177
+aVSamuel Dalembert PHI 03/15/2005 PHI vs. LAL W 38 7 3 5 60.0 0 0 - 1 2 50.0 4 7 11 2 1 3 1 3 14
+p178
+aVAllen Iverson PHI 03/15/2005 PHI vs. LAL W 42 36 10 22 45.5 2 6 33.3 14 15 93.3 0 5 5 9 3 1 6 2 18
+p179
+aVJosh Davis PHI 03/15/2005 PHI vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p180
+aVMarc Jackson PHI 03/15/2005 PHI vs. LAL W 10 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 0 0 0 1 2 2
+p181
+aVRodney Rogers PHI 03/15/2005 PHI vs. LAL W 13 11 4 9 44.4 2 4 50.0 1 1 100.0 1 3 4 0 0 0 0 1 8
+p182
+aVJohn Salmons PHI 03/15/2005 PHI vs. LAL W 20 10 4 5 80.0 2 2 100.0 0 0 - 0 4 4 2 1 0 1 0 12
+p183
+aVAndre Iguodala PHI 03/15/2005 PHI vs. LAL W 29 15 5 7 71.4 1 2 50.0 4 4 100.0 0 4 4 2 0 0 3 2 15
+p184
+aVChris Webber PHI 03/15/2005 PHI vs. LAL W 33 5 2 8 25.0 0 1 0.0 1 2 50.0 2 5 7 5 1 2 2 3 12
+p185
+aVAaron McKie PHI 03/15/2005 PHI vs. LAL W 19 5 2 5 40.0 1 3 33.3 0 0 - 2 3 5 1 2 0 0 1 -1
+p186
+aVKyle Korver PHI 03/15/2005 PHI vs. LAL W 35 14 4 14 28.6 4 12 33.3 2 2 100.0 0 7 7 2 1 0 2 2 7
+p187
+aVMarc Jackson PHI 03/13/2005 PHI @ TOR L 27 12 6 14 42.9 0 0 - 0 0 - 7 1 8 1 0 0 2 0 -7
+p188
+aVRodney Rogers PHI 03/13/2005 PHI @ TOR L 13 9 4 6 66.7 1 3 33.3 0 0 - 2 1 3 0 1 0 0 2 -13
+p189
+aVAllen Iverson PHI 03/13/2005 PHI @ TOR L 45 32 12 23 52.2 3 7 42.9 5 5 100.0 0 4 4 8 1 0 5 1 -21
+p190
+aVAndre Iguodala PHI 03/13/2005 PHI @ TOR L 28 4 2 3 66.7 0 1 0.0 0 2 0.0 1 3 4 4 0 0 0 2 -13
+p191
+aVWillie Green PHI 03/13/2005 PHI @ TOR L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 3
+p192
+aVChris Webber PHI 03/13/2005 PHI @ TOR L 35 19 9 19 47.4 1 2 50.0 0 0 - 2 3 5 3 0 1 2 1 -28
+p193
+aVKyle Korver PHI 03/13/2005 PHI @ TOR L 40 15 5 9 55.6 4 7 57.1 1 1 100.0 0 4 4 7 2 1 4 2 -12
+p194
+aVJosh Davis PHI 03/13/2005 PHI @ TOR L 3 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 3
+p195
+aVAaron McKie PHI 03/13/2005 PHI @ TOR L 20 5 2 3 66.7 1 2 50.0 0 0 - 0 5 5 5 0 0 0 1 -4
+p196
+aVJohn Salmons PHI 03/13/2005 PHI @ TOR L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -9
+p197
+aVSamuel Dalembert PHI 03/13/2005 PHI @ TOR L 19 10 5 9 55.6 0 0 - 0 0 - 1 4 5 0 2 0 1 4 11
+p198
+aVAndre Iguodala PHI 03/11/2005 PHI vs. CHA W 22 8 4 6 66.7 0 0 - 0 0 - 0 1 1 2 2 1 0 2 10
+p199
+aVWillie Green PHI 03/11/2005 PHI vs. CHA W 13 8 3 8 37.5 0 3 0.0 2 2 100.0 0 0 0 2 1 0 2 1 1
+p200
+aVKyle Korver PHI 03/11/2005 PHI vs. CHA W 36 17 5 11 45.5 4 8 50.0 3 4 75.0 1 6 7 3 2 0 0 2 36
+p201
+aVSamuel Dalembert PHI 03/11/2005 PHI vs. CHA W 23 15 7 10 70.0 0 0 - 1 1 100.0 1 5 6 0 1 3 1 1 17
+p202
+aVRodney Rogers PHI 03/11/2005 PHI vs. CHA W 19 6 2 5 40.0 1 2 50.0 1 2 50.0 1 3 4 0 1 1 0 1 10
+p203
+aVJohn Salmons PHI 03/11/2005 PHI vs. CHA W 33 5 1 4 25.0 1 4 25.0 2 2 100.0 1 4 5 4 0 3 1 1 20
+p204
+aVAllen Iverson PHI 03/11/2005 PHI vs. CHA W 35 25 8 18 44.4 0 1 0.0 9 10 90.0 0 0 0 12 4 0 4 1 31
+p205
+aVMarc Jackson PHI 03/11/2005 PHI vs. CHA W 25 9 3 7 42.9 0 0 - 3 4 75.0 2 7 9 1 1 0 2 1 15
+p206
+aVKevin Ollie PHI 03/11/2005 PHI vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p207
+aVJosh Davis PHI 03/11/2005 PHI vs. CHA W 4 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 1 0 0 1 -1
+p208
+aVChris Webber PHI 03/11/2005 PHI vs. CHA W 26 16 7 14 50.0 0 0 - 2 2 100.0 1 7 8 5 1 1 1 2 22
+p209
+aVKyle Korver PHI 03/08/2005 PHI vs. GSW L 33 13 5 12 41.7 3 9 33.3 0 0 - 1 2 3 1 3 0 1 2 -19
+p210
+aVAaron McKie PHI 03/08/2005 PHI vs. GSW L 22 2 1 1 100.0 0 0 - 0 0 - 0 5 5 0 2 3 1 0 -3
+p211
+aVAndre Iguodala PHI 03/08/2005 PHI vs. GSW L 30 6 3 7 42.9 0 1 0.0 0 0 - 2 5 7 2 1 0 4 4 -15
+p212
+aVKevin Ollie PHI 03/08/2005 PHI vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p213
+aVJosh Davis PHI 03/08/2005 PHI vs. GSW L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 1
+p214
+aVChris Webber PHI 03/08/2005 PHI vs. GSW L 30 8 3 12 25.0 0 0 - 2 2 100.0 2 3 5 5 0 2 1 4 -26
+p215
+aVWillie Green PHI 03/08/2005 PHI vs. GSW L 14 2 1 6 16.7 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -5
+p216
+aVSamuel Dalembert PHI 03/08/2005 PHI vs. GSW L 26 6 2 6 33.3 0 0 - 2 3 66.7 2 6 8 0 1 0 1 1 -9
+p217
+aVMarc Jackson PHI 03/08/2005 PHI vs. GSW L 13 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 2 5
+p218
+aVAllen Iverson PHI 03/08/2005 PHI vs. GSW L 45 33 10 25 40.0 2 8 25.0 11 12 91.7 0 6 6 5 4 1 12 3 -20
+p219
+aVRodney Rogers PHI 03/08/2005 PHI vs. GSW L 21 10 4 7 57.1 2 4 50.0 0 0 - 1 4 5 1 2 0 2 3 -5
+p220
+aVKevin Ollie PHI 03/07/2005 PHI @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p221
+aVJosh Davis PHI 03/07/2005 PHI @ MIA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 7
+p222
+aVAaron McKie PHI 03/07/2005 PHI @ MIA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p223
+aVAndre Iguodala PHI 03/07/2005 PHI @ MIA L 30 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 3 0 0 0 3 -15
+p224
+aVSamuel Dalembert PHI 03/07/2005 PHI @ MIA L 30 21 8 14 57.1 0 0 - 5 6 83.3 3 2 5 0 1 2 1 4 -3
+p225
+aVMarc Jackson PHI 03/07/2005 PHI @ MIA L 18 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -5
+p226
+aVChris Webber PHI 03/07/2005 PHI @ MIA L 26 10 4 13 30.8 1 1 100.0 1 2 50.0 1 6 7 3 2 0 3 3 -10
+p227
+aVRodney Rogers PHI 03/07/2005 PHI @ MIA L 19 9 2 4 50.0 0 0 - 5 6 83.3 0 1 1 1 0 0 0 5 -6
+p228
+aVAllen Iverson PHI 03/07/2005 PHI @ MIA L 44 27 8 19 42.1 3 6 50.0 8 10 80.0 2 2 4 6 3 0 6 1 -16
+p229
+aVWillie Green PHI 03/07/2005 PHI @ MIA L 13 11 4 8 50.0 0 3 0.0 3 3 100.0 0 0 0 1 3 0 0 1 14
+p230
+aVJohn Salmons PHI 03/07/2005 PHI @ MIA L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 3 13
+p231
+aVKyle Korver PHI 03/07/2005 PHI @ MIA L 31 8 3 4 75.0 1 1 100.0 1 1 100.0 1 2 3 1 1 0 0 1 -25
+p232
+aVKyle Korver PHI 03/05/2005 PHI @ ATL W 29 7 3 8 37.5 1 4 25.0 0 0 - 0 2 2 1 0 0 2 4 6
+p233
+aVJohn Salmons PHI 03/05/2005 PHI @ ATL W 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 2
+p234
+aVMarc Jackson PHI 03/05/2005 PHI @ ATL W 23 13 3 7 42.9 0 0 - 7 7 100.0 2 2 4 1 0 1 1 3 -1
+p235
+aVChris Webber PHI 03/05/2005 PHI @ ATL W 28 18 6 12 50.0 0 0 - 6 6 100.0 2 6 8 2 1 1 3 2 0
+p236
+aVSamuel Dalembert PHI 03/05/2005 PHI @ ATL W 25 10 5 9 55.6 0 0 - 0 2 0.0 2 3 5 1 2 3 0 2 0
+p237
+aVRodney Rogers PHI 03/05/2005 PHI @ ATL W 20 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 3
+p238
+aVAllen Iverson PHI 03/05/2005 PHI @ ATL W 48 33 10 31 32.3 0 1 0.0 13 13 100.0 0 1 1 6 5 0 5 3 1
+p239
+aVAndre Iguodala PHI 03/05/2005 PHI @ ATL W 30 8 3 5 60.0 0 1 0.0 2 4 50.0 2 1 3 4 2 1 2 1 -6
+p240
+aVAaron McKie PHI 03/05/2005 PHI @ ATL W 28 3 1 1 100.0 1 1 100.0 0 0 - 0 6 6 1 0 0 1 4 0
+p241
+aVMarc Jackson PHI 03/04/2005 PHI vs. CLE W 14 10 4 10 40.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -5
+p242
+aVAllen Iverson PHI 03/04/2005 PHI vs. CLE W 45 31 10 25 40.0 1 4 25.0 10 10 100.0 0 1 1 9 3 0 3 2 15
+p243
+aVRodney Rogers PHI 03/04/2005 PHI vs. CLE W 13 2 1 5 20.0 0 2 0.0 0 0 - 3 1 4 2 0 0 1 1 2
+p244
+aVKyle Korver PHI 03/04/2005 PHI vs. CLE W 40 7 2 5 40.0 1 1 100.0 2 3 66.7 1 5 6 4 6 0 4 3 7
+p245
+aVChris Webber PHI 03/04/2005 PHI vs. CLE W 39 24 11 28 39.3 0 1 0.0 2 2 100.0 6 6 12 4 1 0 3 1 8
+p246
+aVSamuel Dalembert PHI 03/04/2005 PHI vs. CLE W 34 15 7 10 70.0 0 0 - 1 1 100.0 2 3 5 1 1 0 2 2 14
+p247
+aVAndre Iguodala PHI 03/04/2005 PHI vs. CLE W 34 9 4 6 66.7 0 1 0.0 1 2 50.0 1 6 7 4 1 0 0 4 11
+p248
+aVAaron McKie PHI 03/04/2005 PHI vs. CLE W 15 0 0 0 - 0 0 - 0 0 - 0 5 5 0 1 0 0 4 -1
+p249
+aVJohn Salmons PHI 03/04/2005 PHI vs. CLE W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -6
+p250
+aVAllen Iverson PHI 03/02/2005 PHI vs. NJN L 44 37 13 28 46.4 3 9 33.3 8 8 100.0 1 5 6 5 2 0 9 3 -8
+p251
+aVMarc Jackson PHI 03/02/2005 PHI vs. NJN L 24 14 6 8 75.0 0 0 - 2 2 100.0 1 1 2 0 1 0 2 4 -4
+p252
+aVChris Webber PHI 03/02/2005 PHI vs. NJN L 36 10 4 18 22.2 0 0 - 2 2 100.0 1 7 8 3 0 1 5 4 -7
+p253
+aVRodney Rogers PHI 03/02/2005 PHI vs. NJN L 22 7 3 6 50.0 1 2 50.0 0 0 - 2 7 9 3 0 0 0 4 2
+p254
+aVAaron McKie PHI 03/02/2005 PHI vs. NJN L 14 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p255
+aVAndre Iguodala PHI 03/02/2005 PHI vs. NJN L 41 10 4 9 44.4 0 2 0.0 2 2 100.0 4 1 5 1 1 2 0 3 -7
+p256
+aVSamuel Dalembert PHI 03/02/2005 PHI vs. NJN L 14 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 0 2 1 3 -3
+p257
+aVJohn Salmons PHI 03/02/2005 PHI vs. NJN L 8 2 1 2 50.0 0 0 - 0 1 0.0 1 2 3 0 1 0 0 1 3
+p258
+aVKyle Korver PHI 03/02/2005 PHI vs. NJN L 37 13 5 12 41.7 3 9 33.3 0 0 - 0 7 7 4 0 0 1 4 -8
+p259
+aVAaron McKie PHI 03/01/2005 PHI @ MIL W 27 9 4 8 50.0 1 4 25.0 0 0 - 1 3 4 5 1 0 1 5 11
+p260
+aVAndre Iguodala PHI 03/01/2005 PHI @ MIL W 28 4 2 3 66.7 0 0 - 0 0 - 2 3 5 4 0 2 0 2 7
+p261
+aVKevin Ollie PHI 03/01/2005 PHI @ MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -3
+p262
+aVAllen Iverson PHI 03/01/2005 PHI @ MIL W 44 48 18 30 60.0 5 8 62.5 7 8 87.5 0 3 3 8 4 0 4 1 10
+p263
+aVKyle Korver PHI 03/01/2005 PHI @ MIL W 41 20 6 18 33.3 4 15 26.7 4 4 100.0 1 3 4 1 1 0 2 3 -4
+p264
+aVChris Webber PHI 03/01/2005 PHI @ MIL W 25 15 6 16 37.5 0 0 - 3 3 100.0 0 5 5 1 3 1 2 6 -3
+p265
+aVRodney Rogers PHI 03/01/2005 PHI @ MIL W 20 6 2 5 40.0 0 2 0.0 2 2 100.0 1 6 7 2 2 0 1 5 16
+p266
+aVSamuel Dalembert PHI 03/01/2005 PHI @ MIL W 22 2 1 3 33.3 0 0 - 0 0 - 5 3 8 1 0 2 4 5 -4
+p267
+aVMarc Jackson PHI 03/01/2005 PHI @ MIL W 28 14 5 7 71.4 0 0 - 4 4 100.0 2 2 4 3 0 0 2 3 8
+p268
+aVMichael Bradley PHI 03/01/2005 PHI @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p269
+aVAllen Iverson PHI 02/26/2005 PHI vs. SAC L 42 27 10 26 38.5 1 3 33.3 6 9 66.7 0 6 6 14 1 1 5 3 -1
+p270
+aVChris Webber PHI 02/26/2005 PHI vs. SAC L 37 16 7 20 35.0 0 0 - 2 2 100.0 5 6 11 1 3 0 1 4 6
+p271
+aVAaron McKie PHI 02/26/2005 PHI vs. SAC L 24 0 0 1 0.0 0 1 0.0 0 0 - 1 3 4 3 2 0 0 0 -18
+p272
+aVRodney Rogers PHI 02/26/2005 PHI vs. SAC L 15 8 3 7 42.9 2 5 40.0 0 0 - 2 1 3 1 1 0 1 2 -9
+p273
+aVKyle Korver PHI 02/26/2005 PHI vs. SAC L 34 10 3 9 33.3 3 7 42.9 1 1 100.0 0 4 4 4 1 0 3 5 10
+p274
+aVKevin Ollie PHI 02/26/2005 PHI vs. SAC L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p275
+aVAndre Iguodala PHI 02/26/2005 PHI vs. SAC L 38 18 5 8 62.5 1 3 33.3 7 9 77.8 0 4 4 2 1 0 3 2 4
+p276
+aVSamuel Dalembert PHI 02/26/2005 PHI vs. SAC L 27 8 4 6 66.7 0 0 - 0 2 0.0 5 6 11 0 0 0 0 5 14
+p277
+aVMarc Jackson PHI 02/26/2005 PHI vs. SAC L 17 12 5 13 38.5 0 0 - 2 2 100.0 2 1 3 0 0 0 2 0 -15
+p278
+aVKyle Korver PHI 02/24/2005 PHI @ NYK L 43 11 4 14 28.6 3 10 30.0 0 0 - 0 5 5 4 3 0 1 4 -13
+p279
+aVSamuel Dalembert PHI 02/24/2005 PHI @ NYK L 34 14 7 14 50.0 0 0 - 0 0 - 6 9 15 2 4 0 2 1 -13
+p280
+aVKevin Ollie PHI 02/24/2005 PHI @ NYK L 6 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 0 8
+p281
+aVMarc Jackson PHI 02/24/2005 PHI @ NYK L 42 18 5 13 38.5 0 0 - 8 10 80.0 3 2 5 2 0 1 2 2 -9
+p282
+aVRodney Rogers PHI 02/24/2005 PHI @ NYK L 21 6 2 4 50.0 1 2 50.0 1 2 50.0 2 2 4 2 0 0 0 2 -2
+p283
+aVAaron McKie PHI 02/24/2005 PHI @ NYK L 28 13 6 8 75.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 4 -16
+p284
+aVAndre Iguodala PHI 02/24/2005 PHI @ NYK L 25 7 2 4 50.0 1 2 50.0 2 4 50.0 0 3 3 3 2 0 0 4 5
+p285
+aVAllen Iverson PHI 02/24/2005 PHI @ NYK L 42 29 9 23 39.1 3 6 50.0 8 8 100.0 1 2 3 8 1 1 6 4 -20
+p286
+aVMarc Jackson PHI 02/16/2005 PHI vs. DET L 18 6 3 7 42.9 0 0 - 0 1 0.0 3 2 5 0 0 0 1 2 -1
+p287
+aVKyle Korver PHI 02/16/2005 PHI vs. DET L 35 3 1 7 14.3 1 4 25.0 0 0 - 0 3 3 2 3 0 2 3 -17
+p288
+aVAllen Iverson PHI 02/16/2005 PHI vs. DET L 46 23 8 21 38.1 0 3 0.0 7 10 70.0 0 1 1 7 1 0 6 3 -17
+p289
+aVKevin Ollie PHI 02/16/2005 PHI vs. DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p290
+aVAaron McKie PHI 02/16/2005 PHI vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p291
+aVCorliss Williamson PHI 02/16/2005 PHI vs. DET L 21 14 7 12 58.3 0 0 - 0 0 - 1 3 4 2 0 0 1 4 -5
+p292
+aVWillie Green PHI 02/16/2005 PHI vs. DET L 19 2 1 6 16.7 0 3 0.0 0 0 - 1 2 3 1 0 0 0 0 -3
+p293
+aVJosh Davis PHI 02/16/2005 PHI vs. DET L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p294
+aVKenny Thomas PHI 02/16/2005 PHI vs. DET L 29 10 5 10 50.0 0 0 - 0 0 - 2 9 11 1 1 0 2 1 -16
+p295
+aVAndre Iguodala PHI 02/16/2005 PHI vs. DET L 39 11 5 11 45.5 0 4 0.0 1 3 33.3 0 9 9 4 3 0 1 1 -11
+p296
+aVSamuel Dalembert PHI 02/16/2005 PHI vs. DET L 24 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 0 2 0 4 4 -11
+p297
+aVCorliss Williamson PHI 02/14/2005 PHI vs. NYK W 28 19 6 10 60.0 0 0 - 7 8 87.5 1 1 2 0 0 0 2 1 -13
+p298
+aVBrian Skinner PHI 02/14/2005 PHI vs. NYK W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 0
+p299
+aVKevin Ollie PHI 02/14/2005 PHI vs. NYK W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 1
+p300
+aVSamuel Dalembert PHI 02/14/2005 PHI vs. NYK W 27 3 1 3 33.3 0 0 - 1 2 50.0 0 12 12 1 0 2 0 3 -10
+p301
+aVJosh Davis PHI 02/14/2005 PHI vs. NYK W 5 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 13
+p302
+aVMarc Jackson PHI 02/14/2005 PHI vs. NYK W 31 22 10 14 71.4 0 0 - 2 3 66.7 4 0 4 2 1 0 1 0 12
+p303
+aVKyle Korver PHI 02/14/2005 PHI vs. NYK W 37 12 4 12 33.3 4 11 36.4 0 0 - 0 6 6 4 0 0 1 2 -2
+p304
+aVAllen Iverson PHI 02/14/2005 PHI vs. NYK W 45 38 11 24 45.8 1 6 16.7 15 17 88.2 1 1 2 10 2 0 8 1 -1
+p305
+aVAndre Iguodala PHI 02/14/2005 PHI vs. NYK W 31 8 4 6 66.7 0 1 0.0 0 0 - 0 4 4 3 2 1 0 0 -1
+p306
+aVAaron McKie PHI 02/14/2005 PHI vs. NYK W 26 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 1 6
+p307
+aVCorliss Williamson PHI 02/12/2005 PHI vs. ORL W 43 18 8 12 66.7 0 0 - 2 6 33.3 3 7 10 2 1 0 4 4 9
+p308
+aVMarc Jackson PHI 02/12/2005 PHI vs. ORL W 26 11 4 9 44.4 0 0 - 3 4 75.0 4 6 10 0 1 0 1 1 -4
+p309
+aVAaron McKie PHI 02/12/2005 PHI vs. ORL W 22 0 0 2 0.0 0 0 - 0 0 - 0 5 5 2 0 0 0 6 5
+p310
+aVAndre Iguodala PHI 02/12/2005 PHI vs. ORL W 25 3 1 2 50.0 0 1 0.0 1 2 50.0 1 5 6 3 2 0 5 6 13
+p311
+aVAllen Iverson PHI 02/12/2005 PHI vs. ORL W 42 60 17 36 47.2 2 5 40.0 24 27 88.9 1 3 4 6 5 1 3 1 27
+p312
+aVWillie Green PHI 02/12/2005 PHI vs. ORL W 11 0 0 7 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 3 2 -19
+p313
+aVKyle Korver PHI 02/12/2005 PHI vs. ORL W 44 12 4 8 50.0 2 6 33.3 2 2 100.0 1 5 6 2 3 0 1 2 13
+p314
+aVSamuel Dalembert PHI 02/12/2005 PHI vs. ORL W 27 8 4 5 80.0 0 0 - 0 2 0.0 3 6 9 0 0 0 3 5 21
+p315
+aVJohn Salmons PHI 02/11/2005 PHI @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p316
+aVAaron McKie PHI 02/11/2005 PHI @ TOR W 27 3 1 2 50.0 1 2 50.0 0 2 0.0 0 3 3 5 1 0 0 1 24
+p317
+aVMarc Jackson PHI 02/11/2005 PHI @ TOR W 19 5 2 6 33.3 0 0 - 1 2 50.0 3 5 8 1 0 0 2 2 12
+p318
+aVAllen Iverson PHI 02/11/2005 PHI @ TOR W 42 30 11 27 40.7 3 9 33.3 5 6 83.3 0 5 5 8 2 0 5 1 24
+p319
+aVCorliss Williamson PHI 02/11/2005 PHI @ TOR W 23 10 4 10 40.0 0 0 - 2 2 100.0 2 3 5 1 1 0 1 4 12
+p320
+aVSamuel Dalembert PHI 02/11/2005 PHI @ TOR W 17 13 6 8 75.0 0 0 - 1 2 50.0 3 3 6 0 0 1 2 3 -5
+p321
+aVAndre Iguodala PHI 02/11/2005 PHI @ TOR W 35 16 5 8 62.5 3 5 60.0 3 4 75.0 1 7 8 1 4 0 1 1 7
+p322
+aVKenny Thomas PHI 02/11/2005 PHI @ TOR W 35 23 10 13 76.9 0 0 - 3 3 100.0 2 6 8 5 1 0 0 5 14
+p323
+aVKyle Korver PHI 02/11/2005 PHI @ TOR W 31 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 3 1 2 1 3 4
+p324
+aVWillie Green PHI 02/11/2005 PHI @ TOR W 9 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 1 0 2 1 -14
+p325
+aVKenny Thomas PHI 02/09/2005 PHI vs. MEM L 30 11 4 8 50.0 0 0 - 3 4 75.0 0 4 4 0 0 0 4 2 -8
+p326
+aVAllen Iverson PHI 02/09/2005 PHI vs. MEM L 45 38 11 23 47.8 0 0 - 16 17 94.1 2 4 6 10 2 0 3 0 1
+p327
+aVCorliss Williamson PHI 02/09/2005 PHI vs. MEM L 21 12 5 9 55.6 0 0 - 2 3 66.7 1 0 1 0 0 0 1 2 4
+p328
+aVAndre Iguodala PHI 02/09/2005 PHI vs. MEM L 25 4 1 4 25.0 0 2 0.0 2 2 100.0 0 5 5 1 2 0 3 3 -8
+p329
+aVWillie Green PHI 02/09/2005 PHI vs. MEM L 13 8 3 5 60.0 1 2 50.0 1 1 100.0 0 0 0 0 0 0 0 2 -11
+p330
+aVMarc Jackson PHI 02/09/2005 PHI vs. MEM L 17 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 3 10
+p331
+aVKyle Korver PHI 02/09/2005 PHI vs. MEM L 37 13 4 10 40.0 4 10 40.0 1 1 100.0 0 2 2 4 1 0 2 4 4
+p332
+aVSamuel Dalembert PHI 02/09/2005 PHI vs. MEM L 28 2 1 5 20.0 0 0 - 0 0 - 3 6 9 0 1 3 1 3 -12
+p333
+aVAaron McKie PHI 02/09/2005 PHI vs. MEM L 24 5 2 4 50.0 1 2 50.0 0 0 - 1 5 6 3 1 0 1 0 5
+p334
+aVMarc Jackson PHI 02/07/2005 PHI @ NJN L 17 12 4 6 66.7 0 0 - 4 4 100.0 2 0 2 0 0 0 3 1 -2
+p335
+aVWillie Green PHI 02/07/2005 PHI @ NJN L 43 28 10 15 66.7 1 2 50.0 7 10 70.0 1 3 4 6 1 0 3 5 0
+p336
+aVAndre Iguodala PHI 02/07/2005 PHI @ NJN L 41 2 1 6 16.7 0 1 0.0 0 0 - 0 6 6 4 1 2 1 3 2
+p337
+aVSamuel Dalembert PHI 02/07/2005 PHI @ NJN L 31 10 5 10 50.0 0 0 - 0 0 - 1 6 7 1 1 3 1 1 3
+p338
+aVJohn Salmons PHI 02/07/2005 PHI @ NJN L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -10
+p339
+aVCorliss Williamson PHI 02/07/2005 PHI @ NJN L 21 11 5 12 41.7 0 0 - 1 2 50.0 1 0 1 0 0 0 2 4 -22
+p340
+aVAaron McKie PHI 02/07/2005 PHI @ NJN L 17 0 0 0 - 0 0 - 0 0 - 0 4 4 2 0 1 1 2 -12
+p341
+aVKenny Thomas PHI 02/07/2005 PHI @ NJN L 37 21 8 16 50.0 0 0 - 5 6 83.3 0 3 3 5 2 0 4 3 1
+p342
+aVKyle Korver PHI 02/07/2005 PHI @ NJN L 48 11 4 12 33.3 3 10 30.0 0 1 0.0 0 10 10 3 4 0 2 3 -10
+p343
+aVKyle Korver PHI 02/06/2005 PHI vs. LAC W 40 16 5 9 55.6 4 8 50.0 2 3 66.7 0 3 3 2 1 0 1 4 2
+p344
+aVKenny Thomas PHI 02/06/2005 PHI vs. LAC W 27 14 4 9 44.4 0 0 - 6 10 60.0 1 3 4 4 0 0 1 5 -3
+p345
+aVCorliss Williamson PHI 02/06/2005 PHI vs. LAC W 24 14 5 9 55.6 0 0 - 4 4 100.0 2 2 4 2 0 1 1 4 3
+p346
+aVSamuel Dalembert PHI 02/06/2005 PHI vs. LAC W 28 8 3 5 60.0 0 0 - 2 4 50.0 2 4 6 0 4 2 2 6 5
+p347
+aVAllen Iverson PHI 02/06/2005 PHI vs. LAC W 45 28 10 23 43.5 1 3 33.3 7 8 87.5 0 3 3 5 1 0 5 4 4
+p348
+aVJohn Salmons PHI 02/06/2005 PHI vs. LAC W 11 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 1 0 0 1 1 7
+p349
+aVAaron McKie PHI 02/06/2005 PHI vs. LAC W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p350
+aVMarc Jackson PHI 02/06/2005 PHI vs. LAC W 16 4 1 6 16.7 0 0 - 2 2 100.0 1 4 5 0 0 0 0 3 -1
+p351
+aVAndre Iguodala PHI 02/06/2005 PHI vs. LAC W 43 15 3 4 75.0 1 2 50.0 8 8 100.0 1 4 5 5 3 0 4 1 -2
+p352
+aVJohn Salmons PHI 02/04/2005 PHI vs. ATL W 11 2 0 1 0.0 0 0 - 2 4 50.0 0 1 1 2 0 0 1 1 -6
+p353
+aVAaron McKie PHI 02/04/2005 PHI vs. ATL W 20 8 3 4 75.0 2 2 100.0 0 0 - 0 4 4 1 0 0 1 1 7
+p354
+aVKedrick Brown PHI 02/04/2005 PHI vs. ATL W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p355
+aVAllen Iverson PHI 02/04/2005 PHI vs. ATL W 36 22 8 21 38.1 0 5 0.0 6 7 85.7 0 3 3 12 2 0 5 3 24
+p356
+aVJosh Davis PHI 02/04/2005 PHI vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -3
+p357
+aVKyle Korver PHI 02/04/2005 PHI vs. ATL W 28 17 6 10 60.0 5 8 62.5 0 0 - 0 3 3 1 0 1 1 3 10
+p358
+aVCorliss Williamson PHI 02/04/2005 PHI vs. ATL W 19 12 5 8 62.5 0 0 - 2 3 66.7 0 1 1 1 0 1 0 1 6
+p359
+aVSamuel Dalembert PHI 02/04/2005 PHI vs. ATL W 28 12 5 6 83.3 0 0 - 2 3 66.7 3 6 9 1 1 3 0 2 16
+p360
+aVAndre Iguodala PHI 02/04/2005 PHI vs. ATL W 34 14 6 12 50.0 2 3 66.7 0 0 - 1 1 2 4 4 1 0 3 28
+p361
+aVWillie Green PHI 02/04/2005 PHI vs. ATL W 12 4 0 4 0.0 0 1 0.0 4 4 100.0 0 1 1 3 2 0 1 1 -6
+p362
+aVKenny Thomas PHI 02/04/2005 PHI vs. ATL W 29 7 3 7 42.9 0 0 - 1 2 50.0 4 9 13 1 1 0 2 3 12
+p363
+aVMarc Jackson PHI 02/04/2005 PHI vs. ATL W 17 4 1 6 16.7 0 0 - 2 2 100.0 2 2 4 0 0 1 3 1 5
+p364
+aVMarc Jackson PHI 02/02/2005 PHI vs. HOU L 24 10 4 10 40.0 0 0 - 2 4 50.0 4 3 7 2 1 0 0 1 -2
+p365
+aVJohn Salmons PHI 02/02/2005 PHI vs. HOU L 25 3 1 5 20.0 0 3 0.0 1 2 50.0 0 1 1 0 2 0 0 0 -13
+p366
+aVKenny Thomas PHI 02/02/2005 PHI vs. HOU L 22 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 2 0 1 1 -4
+p367
+aVAndre Iguodala PHI 02/02/2005 PHI vs. HOU L 24 8 2 4 50.0 0 1 0.0 4 4 100.0 1 3 4 4 1 0 1 3 -15
+p368
+aVKyle Korver PHI 02/02/2005 PHI vs. HOU L 31 5 2 9 22.2 0 3 0.0 1 1 100.0 0 5 5 0 3 0 2 3 -20
+p369
+aVAaron McKie PHI 02/02/2005 PHI vs. HOU L 12 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 1 0
+p370
+aVSamuel Dalembert PHI 02/02/2005 PHI vs. HOU L 30 16 6 10 60.0 0 0 - 4 6 66.7 3 4 7 0 0 1 4 4 -26
+p371
+aVAllen Iverson PHI 02/02/2005 PHI vs. HOU L 40 28 9 21 42.9 1 4 25.0 9 11 81.8 0 4 4 10 1 0 1 2 -17
+p372
+aVWillie Green PHI 02/02/2005 PHI vs. HOU L 12 8 3 6 50.0 1 2 50.0 1 2 50.0 0 1 1 1 2 0 1 2 -4
+p373
+aVCorliss Williamson PHI 02/02/2005 PHI vs. HOU L 20 12 5 6 83.3 0 0 - 2 5 40.0 0 0 0 0 0 0 1 3 -14
+p374
+aVAndre Iguodala PHI 01/31/2005 PHI vs. IND W 27 3 1 5 20.0 1 2 50.0 0 0 - 0 3 3 6 0 0 2 3 4
+p375
+aVCorliss Williamson PHI 01/31/2005 PHI vs. IND W 20 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 1 2 1 5 -2
+p376
+aVAaron McKie PHI 01/31/2005 PHI vs. IND W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 1 -1
+p377
+aVJohn Salmons PHI 01/31/2005 PHI vs. IND W 28 6 2 3 66.7 2 3 66.7 0 0 - 2 3 5 2 2 0 2 0 -5
+p378
+aVSamuel Dalembert PHI 01/31/2005 PHI vs. IND W 36 9 4 6 66.7 0 0 - 1 2 50.0 3 5 8 0 1 3 4 4 0
+p379
+aVAllen Iverson PHI 01/31/2005 PHI vs. IND W 44 27 8 24 33.3 0 3 0.0 11 12 91.7 2 7 9 8 2 0 3 2 3
+p380
+aVKenny Thomas PHI 01/31/2005 PHI vs. IND W 28 12 5 10 50.0 0 0 - 2 4 50.0 0 2 2 0 0 0 1 4 3
+p381
+aVMarc Jackson PHI 01/31/2005 PHI vs. IND W 12 4 2 7 28.6 0 0 - 0 0 - 2 1 3 2 0 0 2 0 1
+p382
+aVKyle Korver PHI 01/31/2005 PHI vs. IND W 34 17 6 9 66.7 5 7 71.4 0 0 - 1 8 9 0 0 0 2 4 2
+p383
+aVMarc Jackson PHI 01/29/2005 PHI @ DAL W 25 8 3 12 25.0 0 0 - 2 2 100.0 1 6 7 1 0 0 1 3 3
+p384
+aVAaron McKie PHI 01/29/2005 PHI @ DAL W 20 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 7
+p385
+aVAndre Iguodala PHI 01/29/2005 PHI @ DAL W 39 9 4 11 36.4 1 1 100.0 0 0 - 1 4 5 3 3 0 3 2 -4
+p386
+aVKyle Korver PHI 01/29/2005 PHI @ DAL W 33 16 5 8 62.5 2 5 40.0 4 4 100.0 1 9 10 1 1 2 1 4 1
+p387
+aVCorliss Williamson PHI 01/29/2005 PHI @ DAL W 26 13 5 12 41.7 0 0 - 3 3 100.0 1 2 3 1 0 0 3 4 12
+p388
+aVKenny Thomas PHI 01/29/2005 PHI @ DAL W 27 12 6 16 37.5 0 0 - 0 0 - 5 4 9 4 0 0 1 3 -2
+p389
+aVJohn Salmons PHI 01/29/2005 PHI @ DAL W 29 19 6 11 54.5 2 2 100.0 5 5 100.0 1 3 4 6 1 1 3 0 12
+p390
+aVWillie Green PHI 01/29/2005 PHI @ DAL W 23 9 4 12 33.3 1 2 50.0 0 0 - 0 8 8 1 0 1 3 1 -4
+p391
+aVSamuel Dalembert PHI 01/29/2005 PHI @ DAL W 18 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 0 0 1 1 5 -5
+p392
+aVKyle Korver PHI 01/28/2005 PHI @ NOH L 48 16 5 13 38.5 5 10 50.0 1 3 33.3 0 4 4 9 0 1 3 2 6
+p393
+aVCorliss Williamson PHI 01/28/2005 PHI @ NOH L 39 20 7 14 50.0 0 0 - 6 6 100.0 4 1 5 2 1 0 1 6 2
+p394
+aVSamuel Dalembert PHI 01/28/2005 PHI @ NOH L 28 10 4 7 57.1 0 0 - 2 3 66.7 0 5 5 0 2 3 2 5 -12
+p395
+aVAaron McKie PHI 01/28/2005 PHI @ NOH L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p396
+aVMarc Jackson PHI 01/28/2005 PHI @ NOH L 26 10 3 11 27.3 0 0 - 4 6 66.7 4 2 6 1 0 0 0 3 8
+p397
+aVKedrick Brown PHI 01/28/2005 PHI @ NOH L 12 4 1 3 33.3 0 2 0.0 2 2 100.0 0 3 3 0 2 0 1 0 0
+p398
+aVKenny Thomas PHI 01/28/2005 PHI @ NOH L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -6
+p399
+aVAndre Iguodala PHI 01/28/2005 PHI @ NOH L 43 12 5 10 50.0 0 1 0.0 2 4 50.0 4 6 10 2 3 0 6 0 -8
+p400
+aVJohn Salmons PHI 01/28/2005 PHI @ NOH L 15 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 1 1 1 2 -17
+p401
+aVWillie Green PHI 01/28/2005 PHI @ NOH L 39 18 7 21 33.3 1 3 33.3 3 4 75.0 1 7 8 4 1 0 2 4 10
+p402
+aVJosh Davis PHI 01/28/2005 PHI @ NOH L 1 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 3
+p403
+aVMarc Jackson PHI 01/26/2005 PHI @ WAS L 9 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 2 -10
+p404
+aVWillie Green PHI 01/26/2005 PHI @ WAS L 41 32 10 21 47.6 2 3 66.7 10 13 76.9 0 6 6 4 1 0 4 5 0
+p405
+aVKedrick Brown PHI 01/26/2005 PHI @ WAS L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -7
+p406
+aVCorliss Williamson PHI 01/26/2005 PHI @ WAS L 26 9 3 7 42.9 0 0 - 3 4 75.0 0 2 2 5 1 0 2 3 -10
+p407
+aVKenny Thomas PHI 01/26/2005 PHI @ WAS L 34 17 7 13 53.8 0 0 - 3 4 75.0 2 5 7 1 3 0 4 4 0
+p408
+aVAndre Iguodala PHI 01/26/2005 PHI @ WAS L 24 9 3 9 33.3 0 1 0.0 3 4 75.0 0 6 6 6 2 0 3 6 -1
+p409
+aVJosh Davis PHI 01/26/2005 PHI @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p410
+aVSamuel Dalembert PHI 01/26/2005 PHI @ WAS L 32 5 1 6 16.7 0 0 - 3 5 60.0 6 5 11 2 0 0 2 1 -2
+p411
+aVKyle Korver PHI 01/26/2005 PHI @ WAS L 34 15 4 5 80.0 4 4 100.0 3 3 100.0 0 3 3 2 0 1 1 2 2
+p412
+aVAaron McKie PHI 01/26/2005 PHI @ WAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 0 3 -6
+p413
+aVJohn Salmons PHI 01/26/2005 PHI @ WAS L 23 12 4 5 80.0 2 2 100.0 2 2 100.0 0 2 2 5 0 0 4 1 -16
+p414
+aVAllen Iverson PHI 01/24/2005 PHI vs. MIA W 44 45 13 30 43.3 1 3 33.3 18 19 94.7 0 2 2 10 4 0 1 1 11
+p415
+aVMarc Jackson PHI 01/24/2005 PHI vs. MIA W 16 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 0 0 0 3 1 -3
+p416
+aVKenny Thomas PHI 01/24/2005 PHI vs. MIA W 26 9 4 10 40.0 0 0 - 1 1 100.0 0 3 3 1 1 0 1 6 10
+p417
+aVCorliss Williamson PHI 01/24/2005 PHI vs. MIA W 22 12 4 9 44.4 0 0 - 4 5 80.0 2 1 3 0 0 0 1 3 -2
+p418
+aVSamuel Dalembert PHI 01/24/2005 PHI vs. MIA W 32 16 6 11 54.5 0 0 - 4 6 66.7 3 8 11 2 0 3 0 3 11
+p419
+aVKedrick Brown PHI 01/24/2005 PHI vs. MIA W 12 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 2 -3
+p420
+aVAaron McKie PHI 01/24/2005 PHI vs. MIA W 18 2 1 3 33.3 0 0 - 0 0 - 0 7 7 0 1 0 0 2 -5
+p421
+aVKyle Korver PHI 01/24/2005 PHI vs. MIA W 33 14 4 11 36.4 2 7 28.6 4 4 100.0 0 6 6 6 3 1 1 3 12
+p422
+aVAndre Iguodala PHI 01/24/2005 PHI vs. MIA W 31 2 1 3 33.3 0 0 - 0 0 - 2 7 9 1 1 1 0 3 11
+p423
+aVWillie Green PHI 01/24/2005 PHI vs. MIA W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -2
+p424
+aVAaron McKie PHI 01/22/2005 PHI @ ORL L 16 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 1 0 1 7
+p425
+aVAndre Iguodala PHI 01/22/2005 PHI @ ORL L 33 10 3 4 75.0 0 0 - 4 6 66.7 1 5 6 3 2 0 1 4 -2
+p426
+aVKedrick Brown PHI 01/22/2005 PHI @ ORL L 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 1 0 -9
+p427
+aVKenny Thomas PHI 01/22/2005 PHI @ ORL L 28 12 6 12 50.0 0 0 - 0 0 - 3 4 7 1 2 0 2 3 9
+p428
+aVMarc Jackson PHI 01/22/2005 PHI @ ORL L 13 2 1 3 33.3 0 1 0.0 0 4 0.0 0 0 0 1 0 0 0 1 -12
+p429
+aVKyle Korver PHI 01/22/2005 PHI @ ORL L 38 16 6 12 50.0 4 9 44.4 0 0 - 1 3 4 0 2 0 5 5 -7
+p430
+aVWillie Green PHI 01/22/2005 PHI @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p431
+aVSamuel Dalembert PHI 01/22/2005 PHI @ ORL L 35 24 11 13 84.6 0 0 - 2 2 100.0 6 10 16 0 0 4 2 5 8
+p432
+aVCorliss Williamson PHI 01/22/2005 PHI @ ORL L 23 7 3 10 30.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 5 -10
+p433
+aVAllen Iverson PHI 01/22/2005 PHI @ ORL L 45 38 11 29 37.9 1 6 16.7 15 15 100.0 0 3 3 10 3 0 9 3 3
+p434
+aVAllen Iverson PHI 01/19/2005 PHI @ CHA W 43 24 7 20 35.0 1 6 16.7 9 11 81.8 2 2 4 6 1 0 4 1 -3
+p435
+aVSamuel Dalembert PHI 01/19/2005 PHI @ CHA W 18 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 0 2 0 3 7
+p436
+aVKedrick Brown PHI 01/19/2005 PHI @ CHA W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 1 4
+p437
+aVMarc Jackson PHI 01/19/2005 PHI @ CHA W 20 16 4 7 57.1 0 0 - 8 9 88.9 2 1 3 1 0 0 2 3 -7
+p438
+aVCorliss Williamson PHI 01/19/2005 PHI @ CHA W 21 14 4 9 44.4 0 0 - 6 6 100.0 2 3 5 0 1 0 1 4 -3
+p439
+aVWillie Green PHI 01/19/2005 PHI @ CHA W 5 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 5
+p440
+aVAndre Iguodala PHI 01/19/2005 PHI @ CHA W 31 5 2 5 40.0 0 2 0.0 1 2 50.0 2 7 9 3 1 0 1 4 4
+p441
+aVAaron McKie PHI 01/19/2005 PHI @ CHA W 13 2 0 3 0.0 0 2 0.0 2 2 100.0 1 1 2 0 0 0 0 2 -6
+p442
+aVKenny Thomas PHI 01/19/2005 PHI @ CHA W 37 21 9 18 50.0 0 0 - 3 4 75.0 3 6 9 2 0 0 2 4 7
+p443
+aVKyle Korver PHI 01/19/2005 PHI @ CHA W 44 18 6 14 42.9 4 11 36.4 2 2 100.0 1 5 6 3 2 1 0 3 2
+p444
+aVBrian Skinner PHI 01/17/2005 PHI vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p445
+aVJohn Salmons PHI 01/17/2005 PHI vs. NOH W 24 4 1 1 100.0 0 0 - 2 2 100.0 0 5 5 4 1 1 3 1 -6
+p446
+aVAndre Iguodala PHI 01/17/2005 PHI vs. NOH W 28 6 2 5 40.0 1 3 33.3 1 2 50.0 1 5 6 2 2 2 2 2 24
+p447
+aVAllen Iverson PHI 01/17/2005 PHI vs. NOH W 48 29 8 28 28.6 1 5 20.0 12 14 85.7 0 4 4 3 2 0 1 3 4
+p448
+aVCorliss Williamson PHI 01/17/2005 PHI vs. NOH W 27 16 6 10 60.0 0 0 - 4 4 100.0 2 1 3 0 1 0 2 3 -5
+p449
+aVKenny Thomas PHI 01/17/2005 PHI vs. NOH W 40 21 9 15 60.0 0 0 - 3 3 100.0 7 8 15 2 2 1 2 5 7
+p450
+aVKyle Korver PHI 01/17/2005 PHI vs. NOH W 28 10 3 11 27.3 2 8 25.0 2 2 100.0 1 4 5 3 2 0 1 4 -1
+p451
+aVMarc Jackson PHI 01/17/2005 PHI vs. NOH W 26 8 3 11 27.3 0 0 - 2 2 100.0 2 1 3 1 0 0 0 2 10
+p452
+aVAaron McKie PHI 01/17/2005 PHI vs. NOH W 16 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 1 0 0 -9
+p453
+aVKenny Thomas PHI 01/15/2005 PHI @ DET L 38 16 7 15 46.7 0 0 - 2 4 50.0 4 8 12 1 2 0 3 2 2
+p454
+aVJohn Salmons PHI 01/15/2005 PHI @ DET L 21 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -8
+p455
+aVAllen Iverson PHI 01/15/2005 PHI @ DET L 44 28 9 26 34.6 3 8 37.5 7 11 63.6 1 3 4 13 2 0 1 1 3
+p456
+aVAndre Iguodala PHI 01/15/2005 PHI @ DET L 37 10 4 11 36.4 0 3 0.0 2 2 100.0 3 4 7 2 2 0 3 3 -5
+p457
+aVCorliss Williamson PHI 01/15/2005 PHI @ DET L 20 10 4 6 66.7 0 0 - 2 2 100.0 1 0 1 1 2 0 3 2 -3
+p458
+aVMarc Jackson PHI 01/15/2005 PHI @ DET L 24 14 5 9 55.6 0 0 - 4 5 80.0 4 2 6 0 1 0 3 5 3
+p459
+aVWillie Green PHI 01/15/2005 PHI @ DET L 20 6 3 7 42.9 0 2 0.0 0 0 - 1 3 4 2 0 0 1 3 10
+p460
+aVKyle Korver PHI 01/15/2005 PHI @ DET L 18 11 3 6 50.0 2 5 40.0 3 3 100.0 0 0 0 0 2 0 0 3 -10
+p461
+aVBrian Skinner PHI 01/15/2005 PHI @ DET L 18 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 1 0 1 3 -12
+p462
+aVAllen Iverson PHI 01/14/2005 PHI vs. TOR W 48 32 12 29 41.4 3 5 60.0 5 10 50.0 1 4 5 10 0 0 4 1 10
+p463
+aVKenny Thomas PHI 01/14/2005 PHI vs. TOR W 35 20 8 17 47.1 0 0 - 4 4 100.0 4 10 14 1 0 0 1 4 1
+p464
+aVMarc Jackson PHI 01/14/2005 PHI vs. TOR W 18 7 3 9 33.3 0 0 - 1 2 50.0 1 2 3 1 0 1 3 2 0
+p465
+aVAaron McKie PHI 01/14/2005 PHI vs. TOR W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p466
+aVKyle Korver PHI 01/14/2005 PHI vs. TOR W 29 15 5 10 50.0 5 8 62.5 0 0 - 0 7 7 2 1 1 0 5 15
+p467
+aVAndre Iguodala PHI 01/14/2005 PHI vs. TOR W 39 15 6 8 75.0 1 1 100.0 2 5 40.0 2 10 12 5 1 2 4 0 6
+p468
+aVJohn Salmons PHI 01/14/2005 PHI vs. TOR W 22 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 2 2 0 1 2 0
+p469
+aVBrian Skinner PHI 01/14/2005 PHI vs. TOR W 12 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 1 1 0 0 1 8
+p470
+aVCorliss Williamson PHI 01/14/2005 PHI vs. TOR W 29 14 7 16 43.8 0 0 - 0 0 - 3 3 6 1 0 1 0 3 10
+p471
+aVKevin Ollie PHI 01/12/2005 PHI @ CHI L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p472
+aVMarc Jackson PHI 01/12/2005 PHI @ CHI L 31 17 8 17 47.1 0 0 - 1 2 50.0 1 4 5 0 1 1 1 2 -11
+p473
+aVKyle Korver PHI 01/12/2005 PHI @ CHI L 29 9 3 9 33.3 2 7 28.6 1 1 100.0 0 2 2 1 0 0 1 1 -26
+p474
+aVAaron McKie PHI 01/12/2005 PHI @ CHI L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -11
+p475
+aVAndre Iguodala PHI 01/12/2005 PHI @ CHI L 27 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 7 0 1 2 0 -11
+p476
+aVBrian Skinner PHI 01/12/2005 PHI @ CHI L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p477
+aVJohn Salmons PHI 01/12/2005 PHI @ CHI L 24 3 1 7 14.3 1 4 25.0 0 0 - 1 2 3 1 0 0 3 1 -14
+p478
+aVKenny Thomas PHI 01/12/2005 PHI @ CHI L 34 4 2 7 28.6 0 0 - 0 0 - 1 5 6 4 2 1 2 5 -21
+p479
+aVAllen Iverson PHI 01/12/2005 PHI @ CHI L 39 21 8 21 38.1 0 3 0.0 5 6 83.3 0 2 2 8 2 0 4 1 -28
+p480
+aVWillie Green PHI 01/12/2005 PHI @ CHI L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -3
+p481
+aVCorliss Williamson PHI 01/12/2005 PHI @ CHI L 29 14 5 9 55.6 0 0 - 4 5 80.0 1 1 2 0 1 0 1 4 -27
+p482
+aVSamuel Dalembert PHI 01/10/2005 PHI vs. POR L 22 8 2 5 40.0 0 0 - 4 5 80.0 0 5 5 0 1 1 1 4 7
+p483
+aVKevin Ollie PHI 01/10/2005 PHI vs. POR L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p484
+aVWillie Green PHI 01/10/2005 PHI vs. POR L 16 5 2 6 33.3 1 3 33.3 0 0 - 0 5 5 1 0 0 2 4 1
+p485
+aVAndre Iguodala PHI 01/10/2005 PHI vs. POR L 35 22 8 14 57.1 1 1 100.0 5 6 83.3 5 2 7 3 2 0 3 2 0
+p486
+aVJohn Salmons PHI 01/10/2005 PHI vs. POR L 26 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 4 1 0 0 1 2
+p487
+aVAllen Iverson PHI 01/10/2005 PHI vs. POR L 35 21 8 15 53.3 0 2 0.0 5 6 83.3 2 7 9 9 0 1 0 0 -13
+p488
+aVCorliss Williamson PHI 01/10/2005 PHI vs. POR L 16 11 4 7 57.1 0 0 - 3 4 75.0 2 2 4 0 0 0 2 3 -9
+p489
+aVMarc Jackson PHI 01/10/2005 PHI vs. POR L 21 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 1 1 1 2 -19
+p490
+aVKenny Thomas PHI 01/10/2005 PHI vs. POR L 36 16 7 16 43.8 0 0 - 2 2 100.0 3 2 5 1 4 0 1 1 3
+p491
+aVKyle Korver PHI 01/10/2005 PHI vs. POR L 25 8 3 11 27.3 2 9 22.2 0 0 - 1 4 5 1 0 2 3 4 -12
+p492
+aVAndre Iguodala PHI 01/07/2005 PHI @ MIN L 20 2 0 1 0.0 0 0 - 2 2 100.0 2 5 7 2 0 1 1 2 -16
+p493
+aVCorliss Williamson PHI 01/07/2005 PHI @ MIN L 27 21 7 17 41.2 0 0 - 7 9 77.8 3 3 6 1 0 0 1 3 3
+p494
+aVJohn Salmons PHI 01/07/2005 PHI @ MIN L 36 10 4 11 36.4 2 5 40.0 0 0 - 0 5 5 4 2 0 2 2 1
+p495
+aVAaron McKie PHI 01/07/2005 PHI @ MIN L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 1 1
+p496
+aVKyle Korver PHI 01/07/2005 PHI @ MIN L 34 9 3 11 27.3 3 10 30.0 0 0 - 0 5 5 2 1 0 0 0 1
+p497
+aVKevin Ollie PHI 01/07/2005 PHI @ MIN L 10 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 0 -8
+p498
+aVKenny Thomas PHI 01/07/2005 PHI @ MIN L 21 6 3 9 33.3 0 0 - 0 0 - 0 5 5 1 0 1 0 1 -8
+p499
+aVSamuel Dalembert PHI 01/07/2005 PHI @ MIN L 14 3 1 3 33.3 0 0 - 1 2 50.0 0 7 7 0 0 0 3 4 -3
+p500
+aVMarc Jackson PHI 01/07/2005 PHI @ MIN L 33 17 3 10 30.0 0 0 - 11 12 91.7 4 5 9 0 0 0 3 1 1
+p501
+aVWillie Green PHI 01/07/2005 PHI @ MIN L 38 13 5 14 35.7 1 4 25.0 2 2 100.0 1 1 2 2 1 0 4 2 3
+p502
+aVSamuel Dalembert PHI 01/05/2005 PHI @ UTA W 22 8 4 6 66.7 0 0 - 0 0 - 2 4 6 0 0 2 0 3 13
+p503
+aVKenny Thomas PHI 01/05/2005 PHI @ UTA W 32 30 11 14 78.6 0 0 - 8 8 100.0 1 3 4 2 2 0 0 2 16
+p504
+aVKevin Ollie PHI 01/05/2005 PHI @ UTA W 8 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -9
+p505
+aVMarc Jackson PHI 01/05/2005 PHI @ UTA W 26 14 2 10 20.0 0 0 - 10 10 100.0 4 2 6 0 0 0 0 0 -6
+p506
+aVAndre Iguodala PHI 01/05/2005 PHI @ UTA W 39 8 3 6 50.0 0 1 0.0 2 3 66.7 0 3 3 3 3 1 1 3 3
+p507
+aVCorliss Williamson PHI 01/05/2005 PHI @ UTA W 16 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -9
+p508
+aVAllen Iverson PHI 01/05/2005 PHI @ UTA W 42 23 7 22 31.8 2 8 25.0 7 10 70.0 2 4 6 9 2 0 5 3 12
+p509
+aVJohn Salmons PHI 01/05/2005 PHI @ UTA W 27 9 4 7 57.1 1 2 50.0 0 0 - 1 1 2 3 1 0 0 4 11
+p510
+aVKyle Korver PHI 01/05/2005 PHI @ UTA W 28 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 2 2 0 1 3 4
+p511
+aVKenny Thomas PHI 01/03/2005 PHI @ GSW W 33 19 7 13 53.8 0 0 - 5 5 100.0 2 4 6 3 0 0 1 2 -2
+p512
+aVCorliss Williamson PHI 01/03/2005 PHI @ GSW W 21 14 5 10 50.0 0 0 - 4 5 80.0 2 2 4 1 1 0 1 3 15
+p513
+aVAllen Iverson PHI 01/03/2005 PHI @ GSW W 42 29 11 19 57.9 2 3 66.7 5 5 100.0 0 3 3 6 2 0 1 4 2
+p514
+aVJohn Salmons PHI 01/03/2005 PHI @ GSW W 26 8 3 7 42.9 1 4 25.0 1 3 33.3 1 3 4 6 2 0 2 4 5
+p515
+aVMarc Jackson PHI 01/03/2005 PHI @ GSW W 22 12 5 10 50.0 0 0 - 2 3 66.7 4 1 5 1 1 0 5 2 3
+p516
+aVSamuel Dalembert PHI 01/03/2005 PHI @ GSW W 20 3 0 3 0.0 0 0 - 3 4 75.0 2 2 4 2 0 1 0 1 0
+p517
+aVAndre Iguodala PHI 01/03/2005 PHI @ GSW W 37 19 6 9 66.7 1 2 50.0 6 6 100.0 0 9 9 2 1 0 1 2 -4
+p518
+aVKevin Ollie PHI 01/03/2005 PHI @ GSW W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 3 6
+p519
+aVKyle Korver PHI 01/03/2005 PHI @ GSW W 32 6 2 6 33.3 2 5 40.0 0 0 - 2 5 7 2 1 0 3 2 15
+p520
+aVWillie Green PHI 01/02/2005 PHI @ LAC L 14 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -14
+p521
+aVJohn Salmons PHI 01/02/2005 PHI @ LAC L 19 7 3 7 42.9 1 5 20.0 0 0 - 0 2 2 1 2 1 0 4 17
+p522
+aVCorliss Williamson PHI 01/02/2005 PHI @ LAC L 16 4 1 6 16.7 0 0 - 2 4 50.0 1 2 3 1 0 0 0 2 -10
+p523
+aVAndre Iguodala PHI 01/02/2005 PHI @ LAC L 34 2 1 6 16.7 0 0 - 0 0 - 3 2 5 0 0 0 4 1 -10
+p524
+aVKyle Korver PHI 01/02/2005 PHI @ LAC L 31 12 4 12 33.3 4 10 40.0 0 0 - 0 3 3 0 4 0 2 4 -2
+p525
+aVMarc Jackson PHI 01/02/2005 PHI @ LAC L 25 6 2 9 22.2 0 0 - 2 4 50.0 4 1 5 2 0 0 3 2 -7
+p526
+aVSamuel Dalembert PHI 01/02/2005 PHI @ LAC L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 2 4 -7
+p527
+aVKevin Ollie PHI 01/02/2005 PHI @ LAC L 2 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 0
+p528
+aVBrian Skinner PHI 01/02/2005 PHI @ LAC L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p529
+aVAllen Iverson PHI 01/02/2005 PHI @ LAC L 46 35 16 30 53.3 0 0 - 3 5 60.0 3 2 5 6 3 1 4 3 -6
+p530
+aVKenny Thomas PHI 01/02/2005 PHI @ LAC L 32 14 3 10 30.0 0 0 - 8 9 88.9 3 3 6 1 0 0 1 5 4
+p531
+aVKevin Ollie PHI 12/31/2004 PHI @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -1
+p532
+aVKyle Korver PHI 12/31/2004 PHI @ DEN L 35 13 4 10 40.0 3 7 42.9 2 2 100.0 0 10 10 2 4 3 1 2 7
+p533
+aVMarc Jackson PHI 12/31/2004 PHI @ DEN L 28 15 5 7 71.4 0 0 - 5 5 100.0 1 6 7 2 0 2 1 1 4
+p534
+aVAllen Iverson PHI 12/31/2004 PHI @ DEN L 43 29 11 28 39.3 2 5 40.0 5 10 50.0 0 0 0 8 3 0 5 2 -4
+p535
+aVWillie Green PHI 12/31/2004 PHI @ DEN L 20 6 3 9 33.3 0 1 0.0 0 0 - 1 5 6 2 1 0 1 2 -9
+p536
+aVCorliss Williamson PHI 12/31/2004 PHI @ DEN L 25 15 6 9 66.7 0 0 - 3 4 75.0 2 2 4 2 0 0 4 5 -4
+p537
+aVAaron McKie PHI 12/31/2004 PHI @ DEN L 6 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 2 0 1 2 2 17
+p538
+aVAndre Iguodala PHI 12/31/2004 PHI @ DEN L 35 6 2 4 50.0 0 2 0.0 2 2 100.0 1 6 7 7 0 2 5 4 -25
+p539
+aVSamuel Dalembert PHI 12/31/2004 PHI @ DEN L 20 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 1 1 1 1 -9
+p540
+aVKenny Thomas PHI 12/31/2004 PHI @ DEN L 23 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 1 0 0 2 -1
+p541
+aVKenny Thomas PHI 12/28/2004 PHI @ SEA W 34 15 5 9 55.6 0 0 - 5 7 71.4 2 3 5 1 2 1 1 2 -5
+p542
+aVSamuel Dalembert PHI 12/28/2004 PHI @ SEA W 17 6 2 3 66.7 0 0 - 2 3 66.7 3 5 8 0 0 1 1 3 -3
+p543
+aVWillie Green PHI 12/28/2004 PHI @ SEA W 29 20 6 11 54.5 2 4 50.0 6 6 100.0 0 3 3 3 0 0 2 4 -15
+p544
+aVAndre Iguodala PHI 12/28/2004 PHI @ SEA W 42 4 1 3 33.3 0 2 0.0 2 3 66.7 0 7 7 4 4 1 4 2 11
+p545
+aVAllen Iverson PHI 12/28/2004 PHI @ SEA W 41 34 13 30 43.3 2 7 28.6 6 8 75.0 1 8 9 7 1 0 5 4 9
+p546
+aVKyle Korver PHI 12/28/2004 PHI @ SEA W 24 9 3 8 37.5 2 7 28.6 1 1 100.0 0 1 1 1 1 0 0 0 16
+p547
+aVCorliss Williamson PHI 12/28/2004 PHI @ SEA W 20 13 5 10 50.0 0 0 - 3 3 100.0 0 3 3 1 0 1 0 2 9
+p548
+aVKevin Ollie PHI 12/28/2004 PHI @ SEA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 1 0
+p549
+aVMarc Jackson PHI 12/28/2004 PHI @ SEA W 25 13 3 6 50.0 0 0 - 7 9 77.8 0 1 1 1 0 0 1 2 13
+p550
+aVAndre Iguodala PHI 12/27/2004 PHI @ POR W 40 22 10 18 55.6 2 5 40.0 0 0 - 0 10 10 5 3 1 2 0 13
+p551
+aVMarc Jackson PHI 12/27/2004 PHI @ POR W 31 16 5 9 55.6 0 0 - 6 8 75.0 5 3 8 2 0 1 3 3 -2
+p552
+aVAllen Iverson PHI 12/27/2004 PHI @ POR W 45 28 8 25 32.0 2 4 50.0 10 13 76.9 0 1 1 6 3 0 2 2 1
+p553
+aVSamuel Dalembert PHI 12/27/2004 PHI @ POR W 27 10 5 8 62.5 0 0 - 0 0 - 3 3 6 1 0 3 1 6 2
+p554
+aVKyle Korver PHI 12/27/2004 PHI @ POR W 25 14 4 10 40.0 4 8 50.0 2 3 66.7 0 4 4 5 1 0 1 3 7
+p555
+aVKevin Ollie PHI 12/27/2004 PHI @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 6
+p556
+aVWillie Green PHI 12/27/2004 PHI @ POR W 32 9 3 9 33.3 2 4 50.0 1 2 50.0 1 2 3 4 1 0 1 3 -4
+p557
+aVKenny Thomas PHI 12/27/2004 PHI @ POR W 27 8 4 9 44.4 0 1 0.0 0 0 - 2 5 7 3 0 0 0 6 10
+p558
+aVBrian Skinner PHI 12/27/2004 PHI @ POR W 10 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 2 2
+p559
+aVMarc Jackson PHI 12/22/2004 PHI @ IND W 29 18 7 11 63.6 0 0 - 4 4 100.0 3 3 6 2 0 0 4 3 18
+p560
+aVAllen Iverson PHI 12/22/2004 PHI @ IND W 42 40 12 23 52.2 2 6 33.3 14 16 87.5 0 4 4 5 1 0 5 2 10
+p561
+aVKyle Korver PHI 12/22/2004 PHI @ IND W 20 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 1
+p562
+aVSamuel Dalembert PHI 12/22/2004 PHI @ IND W 19 7 2 3 66.7 0 0 - 3 4 75.0 1 3 4 0 0 1 0 4 -6
+p563
+aVAaron McKie PHI 12/22/2004 PHI @ IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p564
+aVKevin Ollie PHI 12/22/2004 PHI @ IND W 19 8 2 2 100.0 0 0 - 4 4 100.0 0 2 2 4 2 0 0 0 19
+p565
+aVCorliss Williamson PHI 12/22/2004 PHI @ IND W 29 8 4 13 30.8 0 0 - 0 0 - 3 5 8 2 2 0 3 4 19
+p566
+aVKenny Thomas PHI 12/22/2004 PHI @ IND W 19 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -7
+p567
+aVAndre Iguodala PHI 12/22/2004 PHI @ IND W 34 8 3 7 42.9 2 3 66.7 0 0 - 1 6 7 5 3 0 0 1 11
+p568
+aVWillie Green PHI 12/22/2004 PHI @ IND W 26 4 2 9 22.2 0 1 0.0 0 0 - 0 5 5 0 0 1 0 4 -1
+p569
+aVCorliss Williamson PHI 12/20/2004 PHI vs. UTA L 14 7 2 4 50.0 0 0 - 3 3 100.0 0 2 2 0 1 1 1 3 5
+p570
+aVAaron McKie PHI 12/20/2004 PHI vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p571
+aVKyle Korver PHI 12/20/2004 PHI vs. UTA L 27 16 5 9 55.6 5 7 71.4 1 1 100.0 1 5 6 2 0 1 2 3 -10
+p572
+aVAndre Iguodala PHI 12/20/2004 PHI vs. UTA L 34 6 2 9 22.2 0 4 0.0 2 2 100.0 0 2 2 0 1 1 4 2 -3
+p573
+aVSamuel Dalembert PHI 12/20/2004 PHI vs. UTA L 29 2 1 2 50.0 0 0 - 0 4 0.0 1 5 6 0 0 3 2 3 -2
+p574
+aVKevin Ollie PHI 12/20/2004 PHI vs. UTA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p575
+aVBrian Skinner PHI 12/20/2004 PHI vs. UTA L 18 0 0 5 0.0 0 0 - 0 0 - 4 1 5 1 0 0 0 4 -1
+p576
+aVWillie Green PHI 12/20/2004 PHI vs. UTA L 29 8 1 6 16.7 0 0 - 6 6 100.0 2 4 6 4 2 0 1 3 14
+p577
+aVAllen Iverson PHI 12/20/2004 PHI vs. UTA L 46 51 18 31 58.1 4 6 66.7 11 17 64.7 0 1 1 6 7 0 7 6 0
+p578
+aVMarc Jackson PHI 12/20/2004 PHI vs. UTA L 35 9 1 9 11.1 0 0 - 7 8 87.5 5 8 13 0 0 0 2 3 -6
+p579
+aVBrian Skinner PHI 12/18/2004 PHI @ MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 7
+p580
+aVMarc Jackson PHI 12/18/2004 PHI @ MIL W 20 7 1 4 25.0 0 0 - 5 5 100.0 0 3 3 1 0 0 2 3 21
+p581
+aVAndre Iguodala PHI 12/18/2004 PHI @ MIL W 31 18 6 9 66.7 1 3 33.3 5 6 83.3 0 2 2 5 2 0 2 3 -5
+p582
+aVAllen Iverson PHI 12/18/2004 PHI @ MIL W 40 54 17 29 58.6 4 7 57.1 16 21 76.2 2 6 8 5 2 0 3 0 25
+p583
+aVWillie Green PHI 12/18/2004 PHI @ MIL W 14 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 4 0 0 0 5 -8
+p584
+aVSamuel Dalembert PHI 12/18/2004 PHI @ MIL W 37 5 2 5 40.0 0 0 - 1 2 50.0 6 9 15 0 0 3 3 4 8
+p585
+aVKyle Korver PHI 12/18/2004 PHI @ MIL W 30 11 3 9 33.3 3 7 42.9 2 2 100.0 0 3 3 2 1 0 0 6 28
+p586
+aVCorliss Williamson PHI 12/18/2004 PHI @ MIL W 32 15 5 10 50.0 0 0 - 5 6 83.3 2 2 4 3 3 3 2 3 2
+p587
+aVKevin Ollie PHI 12/18/2004 PHI @ MIL W 14 0 0 2 0.0 0 0 - 0 0 - 0 5 5 2 0 0 0 2 4
+p588
+aVAaron McKie PHI 12/18/2004 PHI @ MIL W 17 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 13
+p589
+aVKevin Ollie PHI 12/17/2004 PHI vs. NYK L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p590
+aVCorliss Williamson PHI 12/17/2004 PHI vs. NYK L 8 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 -3
+p591
+aVAndre Iguodala PHI 12/17/2004 PHI vs. NYK L 36 11 4 6 66.7 1 3 33.3 2 2 100.0 0 5 5 1 2 1 1 1 11
+p592
+aVKyle Korver PHI 12/17/2004 PHI vs. NYK L 21 6 3 11 27.3 0 6 0.0 0 0 - 1 2 3 0 0 0 0 2 -16
+p593
+aVSamuel Dalembert PHI 12/17/2004 PHI vs. NYK L 20 6 3 4 75.0 0 0 - 0 0 - 5 0 5 1 0 0 1 4 8
+p594
+aVKenny Thomas PHI 12/17/2004 PHI vs. NYK L 45 26 10 15 66.7 1 1 100.0 5 8 62.5 2 5 7 2 1 0 7 3 -3
+p595
+aVBrian Skinner PHI 12/17/2004 PHI vs. NYK L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p596
+aVAllen Iverson PHI 12/17/2004 PHI vs. NYK L 44 24 9 19 47.4 0 2 0.0 6 8 75.0 2 5 7 8 3 0 6 4 2
+p597
+aVAaron McKie PHI 12/17/2004 PHI vs. NYK L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -7
+p598
+aVJohn Salmons PHI 12/17/2004 PHI vs. NYK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -6
+p599
+aVWillie Green PHI 12/17/2004 PHI vs. NYK L 38 14 6 14 42.9 0 2 0.0 2 5 40.0 2 4 6 2 1 0 2 3 -2
+p600
+aVMarc Jackson PHI 12/17/2004 PHI vs. NYK L 33 13 6 17 35.3 0 0 - 1 2 50.0 4 5 9 2 0 0 2 3 -14
+p601
+aVBrian Skinner PHI 12/14/2004 PHI vs. DEN W 12 8 4 5 80.0 0 0 - 0 4 0.0 1 1 2 0 0 0 0 0 -7
+p602
+aVKyle Korver PHI 12/14/2004 PHI vs. DEN W 25 6 2 5 40.0 2 5 40.0 0 0 - 1 1 2 2 1 0 2 1 -13
+p603
+aVSamuel Dalembert PHI 12/14/2004 PHI vs. DEN W 33 10 5 11 45.5 0 0 - 0 2 0.0 8 3 11 2 1 4 3 5 18
+p604
+aVAaron McKie PHI 12/14/2004 PHI vs. DEN W 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 2 0 0 4 -9
+p605
+aVWillie Green PHI 12/14/2004 PHI vs. DEN W 15 17 4 5 80.0 1 1 100.0 8 9 88.9 0 3 3 1 0 0 0 2 26
+p606
+aVCorliss Williamson PHI 12/14/2004 PHI vs. DEN W 26 5 2 9 22.2 0 1 0.0 1 1 100.0 4 2 6 1 0 0 0 4 14
+p607
+aVAllen Iverson PHI 12/14/2004 PHI vs. DEN W 43 31 11 23 47.8 0 3 0.0 9 10 90.0 2 8 10 8 2 0 7 2 8
+p608
+aVAndre Iguodala PHI 12/14/2004 PHI vs. DEN W 33 16 7 12 58.3 1 5 20.0 1 2 50.0 0 2 2 1 1 0 0 4 17
+p609
+aVJohn Salmons PHI 12/14/2004 PHI vs. DEN W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 2 0 1 4 -5
+p610
+aVMarc Jackson PHI 12/14/2004 PHI vs. DEN W 24 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 0 0 0 4 1 -9
+p611
+aVKyle Korver PHI 12/12/2004 PHI vs. MIL W 32 7 2 9 22.2 1 7 14.3 2 2 100.0 0 2 2 2 1 0 0 4 1
+p612
+aVJohn Salmons PHI 12/12/2004 PHI vs. MIL W 17 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 -10
+p613
+aVKenny Thomas PHI 12/12/2004 PHI vs. MIL W 38 20 7 15 46.7 0 0 - 6 6 100.0 6 11 17 3 1 0 1 4 13
+p614
+aVAaron McKie PHI 12/12/2004 PHI vs. MIL W 30 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 1 0 1 1 4 -4
+p615
+aVAllen Iverson PHI 12/12/2004 PHI vs. MIL W 43 40 16 33 48.5 0 3 0.0 8 8 100.0 1 0 1 10 1 0 3 2 16
+p616
+aVMarc Jackson PHI 12/12/2004 PHI vs. MIL W 30 28 10 15 66.7 0 0 - 8 9 88.9 4 3 7 0 0 0 0 1 1
+p617
+aVAndre Iguodala PHI 12/12/2004 PHI vs. MIL W 22 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 2 0 1 5 15
+p618
+aVSamuel Dalembert PHI 12/12/2004 PHI vs. MIL W 28 6 2 5 40.0 0 0 - 2 2 100.0 1 8 9 1 0 2 2 1 -2
+p619
+aVAndre Iguodala PHI 12/10/2004 PHI @ CHI W 35 11 4 13 30.8 1 5 20.0 2 4 50.0 1 4 5 0 2 1 2 4 2
+p620
+aVAaron McKie PHI 12/10/2004 PHI @ CHI W 17 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 2 2 0 0 0 3
+p621
+aVAllen Iverson PHI 12/10/2004 PHI @ CHI W 39 22 8 23 34.8 0 0 - 6 9 66.7 0 2 2 10 4 0 5 1 -4
+p622
+aVJohn Salmons PHI 12/10/2004 PHI @ CHI W 15 7 1 2 50.0 1 2 50.0 4 4 100.0 0 1 1 3 0 1 0 1 4
+p623
+aVJosh Davis PHI 12/10/2004 PHI @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p624
+aVKyle Korver PHI 12/10/2004 PHI @ CHI W 38 11 4 7 57.1 3 5 60.0 0 0 - 0 2 2 3 1 3 1 4 10
+p625
+aVMarc Jackson PHI 12/10/2004 PHI @ CHI W 32 17 6 17 35.3 0 0 - 5 5 100.0 3 3 6 1 1 0 5 2 6
+p626
+aVSamuel Dalembert PHI 12/10/2004 PHI @ CHI W 35 13 5 7 71.4 0 0 - 3 3 100.0 4 10 14 2 1 6 1 4 10
+p627
+aVKenny Thomas PHI 12/10/2004 PHI @ CHI W 28 10 5 8 62.5 0 0 - 0 0 - 2 5 7 3 0 0 1 5 -6
+p628
+aVMarc Jackson PHI 12/08/2004 PHI vs. MIN L 25 16 7 8 87.5 0 0 - 2 2 100.0 1 3 4 1 0 0 2 1 -17
+p629
+aVAaron McKie PHI 12/08/2004 PHI vs. MIN L 11 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 3 1 0 0 1 -7
+p630
+aVKyle Korver PHI 12/08/2004 PHI vs. MIN L 32 5 2 14 14.3 1 12 8.3 0 0 - 0 2 2 3 3 0 1 6 -27
+p631
+aVAllen Iverson PHI 12/08/2004 PHI vs. MIN L 38 14 2 13 15.4 0 3 0.0 10 10 100.0 2 6 8 5 1 0 4 1 -28
+p632
+aVJosh Davis PHI 12/08/2004 PHI vs. MIN L 14 10 4 6 66.7 1 3 33.3 1 1 100.0 1 1 2 1 1 0 0 1 -7
+p633
+aVCorliss Williamson PHI 12/08/2004 PHI vs. MIN L 7 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p634
+aVSamuel Dalembert PHI 12/08/2004 PHI vs. MIN L 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 3 5 -13
+p635
+aVKenny Thomas PHI 12/08/2004 PHI vs. MIN L 28 10 4 10 40.0 0 0 - 2 2 100.0 4 2 6 2 0 0 0 4 -24
+p636
+aVWillie Green PHI 12/08/2004 PHI vs. MIN L 17 5 2 9 22.2 1 3 33.3 0 0 - 0 0 0 0 0 0 2 2 -18
+p637
+aVBrian Skinner PHI 12/08/2004 PHI vs. MIN L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -5
+p638
+aVJohn Salmons PHI 12/08/2004 PHI vs. MIN L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -4
+p639
+aVAndre Iguodala PHI 12/08/2004 PHI vs. MIN L 38 18 8 15 53.3 1 3 33.3 1 2 50.0 2 4 6 5 2 1 1 0 -21
+p640
+aVWillie Green PHI 12/06/2004 PHI @ ATL L 11 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 2 0 0 0 2 2
+p641
+aVAndre Iguodala PHI 12/06/2004 PHI @ ATL L 30 3 1 6 16.7 0 1 0.0 1 2 50.0 1 4 5 2 0 1 0 3 -2
+p642
+aVBrian Skinner PHI 12/06/2004 PHI @ ATL L 13 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 1 1 1 -7
+p643
+aVCorliss Williamson PHI 12/06/2004 PHI @ ATL L 14 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 0
+p644
+aVKenny Thomas PHI 12/06/2004 PHI @ ATL L 34 8 4 6 66.7 0 0 - 0 0 - 1 6 7 2 2 0 4 3 -4
+p645
+aVAaron McKie PHI 12/06/2004 PHI @ ATL L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 1 0 1 0 4 1
+p646
+aVMarc Jackson PHI 12/06/2004 PHI @ ATL L 35 13 4 4 100.0 0 0 - 5 5 100.0 3 6 9 1 0 2 4 3 3
+p647
+aVJohn Salmons PHI 12/06/2004 PHI @ ATL L 8 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 1 -8
+p648
+aVAllen Iverson PHI 12/06/2004 PHI @ ATL L 39 36 12 28 42.9 0 2 0.0 12 12 100.0 0 3 3 4 2 0 3 3 -4
+p649
+aVKyle Korver PHI 12/06/2004 PHI @ ATL L 39 14 5 14 35.7 4 10 40.0 0 0 - 0 3 3 1 0 0 1 5 -1
+p650
+aVJosh Davis PHI 12/04/2004 PHI @ HOU L 9 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 3
+p651
+aVWillie Green PHI 12/04/2004 PHI @ HOU L 8 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 2 -4
+p652
+aVAllen Iverson PHI 12/04/2004 PHI @ HOU L 40 20 8 20 40.0 0 0 - 4 6 66.7 1 3 4 8 3 0 5 0 3
+p653
+aVKyle Korver PHI 12/04/2004 PHI @ HOU L 41 10 4 12 33.3 1 7 14.3 1 1 100.0 1 6 7 5 0 1 1 5 4
+p654
+aVAaron McKie PHI 12/04/2004 PHI @ HOU L 21 8 3 6 50.0 2 2 100.0 0 0 - 2 6 8 2 0 0 2 1 5
+p655
+aVBrian Skinner PHI 12/04/2004 PHI @ HOU L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -1
+p656
+aVAndre Iguodala PHI 12/04/2004 PHI @ HOU L 27 1 0 1 0.0 0 1 0.0 1 2 50.0 0 5 5 4 1 1 5 3 -6
+p657
+aVMarc Jackson PHI 12/04/2004 PHI @ HOU L 37 14 5 12 41.7 0 0 - 4 4 100.0 2 3 5 1 0 1 2 3 0
+p658
+aVJohn Salmons PHI 12/04/2004 PHI @ HOU L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 0 -5
+p659
+aVKenny Thomas PHI 12/04/2004 PHI @ HOU L 39 14 7 14 50.0 0 0 - 0 2 0.0 3 5 8 1 1 0 0 5 -4
+p660
+aVWillie Green PHI 12/03/2004 PHI @ MEM L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -8
+p661
+aVAllen Iverson PHI 12/03/2004 PHI @ MEM L 39 25 8 27 29.6 1 4 25.0 8 10 80.0 0 2 2 3 7 0 2 0 -8
+p662
+aVJohn Salmons PHI 12/03/2004 PHI @ MEM L 20 6 3 8 37.5 0 2 0.0 0 2 0.0 0 2 2 3 0 0 2 1 2
+p663
+aVAaron McKie PHI 12/03/2004 PHI @ MEM L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 6
+p664
+aVMarc Jackson PHI 12/03/2004 PHI @ MEM L 29 17 8 12 66.7 0 0 - 1 3 33.3 4 3 7 0 0 0 5 3 0
+p665
+aVBrian Skinner PHI 12/03/2004 PHI @ MEM L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p666
+aVKyle Korver PHI 12/03/2004 PHI @ MEM L 35 12 5 11 45.5 2 4 50.0 0 0 - 1 3 4 2 0 0 1 3 -4
+p667
+aVAndre Iguodala PHI 12/03/2004 PHI @ MEM L 29 4 2 4 50.0 0 1 0.0 0 0 - 0 6 6 4 1 1 1 4 -12
+p668
+aVSamuel Dalembert PHI 12/03/2004 PHI @ MEM L 17 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 4 -2
+p669
+aVKenny Thomas PHI 12/03/2004 PHI @ MEM L 33 14 7 13 53.8 0 0 - 0 0 - 7 1 8 3 2 0 3 5 -1
+p670
+aVJosh Davis PHI 12/03/2004 PHI @ MEM L 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 -9
+p671
+aVJosh Davis PHI 12/01/2004 PHI @ SAS L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 1 0 1 2 3 -13
+p672
+aVAaron McKie PHI 12/01/2004 PHI @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p673
+aVJohn Salmons PHI 12/01/2004 PHI @ SAS L 30 5 2 5 40.0 0 0 - 1 2 50.0 0 4 4 1 0 0 2 1 -20
+p674
+aVWillie Green PHI 12/01/2004 PHI @ SAS L 24 8 3 12 25.0 0 0 - 2 2 100.0 0 1 1 0 1 1 1 3 -13
+p675
+aVKenny Thomas PHI 12/01/2004 PHI @ SAS L 20 2 1 7 14.3 0 0 - 0 0 - 1 4 5 1 1 0 3 3 -10
+p676
+aVKyle Korver PHI 12/01/2004 PHI @ SAS L 28 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 1 0 0 1 5 -24
+p677
+aVBrian Skinner PHI 12/01/2004 PHI @ SAS L 7 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 0 1 0 6
+p678
+aVMarc Jackson PHI 12/01/2004 PHI @ SAS L 20 18 7 14 50.0 0 0 - 4 4 100.0 3 2 5 0 1 0 1 0 -14
+p679
+aVCorliss Williamson PHI 12/01/2004 PHI @ SAS L 8 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -6
+p680
+aVSamuel Dalembert PHI 12/01/2004 PHI @ SAS L 25 2 0 5 0.0 0 0 - 2 2 100.0 3 4 7 2 2 0 1 2 -29
+p681
+aVAllen Iverson PHI 12/01/2004 PHI @ SAS L 32 14 6 17 35.3 0 1 0.0 2 3 66.7 1 2 3 2 1 0 3 1 -16
+p682
+aVAndre Iguodala PHI 12/01/2004 PHI @ SAS L 28 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 2 1 0 1 4 -24
+p683
+aVCorliss Williamson PHI 11/27/2004 PHI @ ORL L 23 4 2 10 20.0 0 0 - 0 0 - 5 4 9 0 0 1 2 2 -4
+p684
+aVKyle Korver PHI 11/27/2004 PHI @ ORL L 30 11 4 10 40.0 3 6 50.0 0 0 - 2 6 8 1 0 1 1 5 3
+p685
+aVJohn Salmons PHI 11/27/2004 PHI @ ORL L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 0 0 2 -15
+p686
+aVAndre Iguodala PHI 11/27/2004 PHI @ ORL L 37 15 6 8 75.0 0 0 - 3 4 75.0 0 4 4 3 1 2 1 2 1
+p687
+aVWillie Green PHI 11/27/2004 PHI @ ORL L 14 12 4 5 80.0 1 1 100.0 3 4 75.0 0 2 2 1 0 0 0 2 -2
+p688
+aVSamuel Dalembert PHI 11/27/2004 PHI @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -3
+p689
+aVJosh Davis PHI 11/27/2004 PHI @ ORL L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 3 4
+p690
+aVAaron McKie PHI 11/27/2004 PHI @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p691
+aVKenny Thomas PHI 11/27/2004 PHI @ ORL L 14 4 0 1 0.0 0 0 - 4 4 100.0 1 0 1 1 2 0 2 2 -6
+p692
+aVMarc Jackson PHI 11/27/2004 PHI @ ORL L 33 17 7 16 43.8 0 0 - 3 6 50.0 6 5 11 1 0 0 3 4 -5
+p693
+aVBrian Skinner PHI 11/27/2004 PHI @ ORL L 12 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 0 0 1 0 0 2
+p694
+aVAllen Iverson PHI 11/27/2004 PHI @ ORL L 42 27 7 25 28.0 3 7 42.9 10 13 76.9 1 4 5 10 2 0 3 1 -9
+p695
+aVKyle Korver PHI 11/26/2004 PHI vs. WAS W 46 26 10 17 58.8 6 12 50.0 0 0 - 0 8 8 3 0 1 1 4 7
+p696
+aVAllen Iverson PHI 11/26/2004 PHI vs. WAS W 45 28 9 26 34.6 1 3 33.3 9 10 90.0 0 5 5 13 1 0 0 3 -7
+p697
+aVAndre Iguodala PHI 11/26/2004 PHI vs. WAS W 16 0 0 1 0.0 0 0 - 0 0 - 0 4 4 2 0 0 0 5 -3
+p698
+aVMarc Jackson PHI 11/26/2004 PHI vs. WAS W 30 21 9 18 50.0 0 0 - 3 5 60.0 4 4 8 2 1 0 0 3 4
+p699
+aVSamuel Dalembert PHI 11/26/2004 PHI vs. WAS W 23 13 6 11 54.5 0 0 - 1 3 33.3 4 2 6 1 1 2 2 1 -2
+p700
+aVAaron McKie PHI 11/26/2004 PHI vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p701
+aVWillie Green PHI 11/26/2004 PHI vs. WAS W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 3 5
+p702
+aVCorliss Williamson PHI 11/26/2004 PHI vs. WAS W 29 8 3 12 25.0 0 0 - 2 4 50.0 4 3 7 1 1 0 3 1 2
+p703
+aVJohn Salmons PHI 11/26/2004 PHI vs. WAS W 38 16 7 10 70.0 2 4 50.0 0 1 0.0 0 3 3 6 1 1 1 3 7
+p704
+aVJosh Davis PHI 11/26/2004 PHI vs. WAS W 24 3 1 7 14.3 1 4 25.0 0 0 - 4 2 6 1 0 0 0 4 0
+p705
+aVAndre Iguodala PHI 11/24/2004 PHI vs. BOS W 43 7 3 6 50.0 1 3 33.3 0 2 0.0 0 9 9 5 5 0 0 2 20
+p706
+aVMarc Jackson PHI 11/24/2004 PHI vs. BOS W 26 17 5 7 71.4 0 0 - 7 7 100.0 1 5 6 2 0 1 1 1 17
+p707
+aVKyle Korver PHI 11/24/2004 PHI vs. BOS W 34 11 4 9 44.4 3 6 50.0 0 0 - 0 3 3 3 1 0 1 5 19
+p708
+aVJohn Salmons PHI 11/24/2004 PHI vs. BOS W 14 9 4 8 50.0 1 3 33.3 0 0 - 1 1 2 0 0 0 3 3 -8
+p709
+aVCorliss Williamson PHI 11/24/2004 PHI vs. BOS W 19 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 0 3 -6
+p710
+aVKenny Thomas PHI 11/24/2004 PHI vs. BOS W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p711
+aVAllen Iverson PHI 11/24/2004 PHI vs. BOS W 42 28 9 18 50.0 0 3 0.0 10 12 83.3 0 2 2 10 3 0 7 2 13
+p712
+aVWillie Green PHI 11/24/2004 PHI vs. BOS W 11 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 2 0 0 2 1 -5
+p713
+aVJosh Davis PHI 11/24/2004 PHI vs. BOS W 26 19 6 12 50.0 3 4 75.0 4 4 100.0 4 1 5 0 1 1 1 3 19
+p714
+aVSamuel Dalembert PHI 11/24/2004 PHI vs. BOS W 22 7 3 6 50.0 0 0 - 1 1 100.0 2 4 6 1 0 1 0 2 -4
+p715
+aVKenny Thomas PHI 11/21/2004 PHI @ MIA L 20 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 1 0 1 2 0
+p716
+aVCorliss Williamson PHI 11/21/2004 PHI @ MIA L 26 18 5 8 62.5 0 0 - 8 12 66.7 0 0 0 1 0 0 0 5 -8
+p717
+aVSamuel Dalembert PHI 11/21/2004 PHI @ MIA L 13 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -3
+p718
+aVJohn Salmons PHI 11/21/2004 PHI @ MIA L 20 7 2 7 28.6 0 4 0.0 3 3 100.0 0 2 2 2 2 0 1 1 -6
+p719
+aVAndre Iguodala PHI 11/21/2004 PHI @ MIA L 41 8 2 3 66.7 0 1 0.0 4 5 80.0 1 10 11 2 6 1 4 4 -9
+p720
+aVJosh Davis PHI 11/21/2004 PHI @ MIA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p721
+aVKevin Ollie PHI 11/21/2004 PHI @ MIA L 17 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p722
+aVWillie Green PHI 11/21/2004 PHI @ MIA L 31 6 1 14 7.1 0 3 0.0 4 4 100.0 1 4 5 10 0 0 0 2 -5
+p723
+aVMarc Jackson PHI 11/21/2004 PHI @ MIA L 35 21 7 14 50.0 0 0 - 7 10 70.0 5 3 8 0 2 1 2 2 -7
+p724
+aVKyle Korver PHI 11/21/2004 PHI @ MIA L 35 15 5 9 55.6 3 5 60.0 2 2 100.0 1 2 3 2 0 0 4 5 -5
+p725
+aVJohn Salmons PHI 11/18/2004 PHI vs. SAS L 23 2 1 6 16.7 0 0 - 0 0 - 0 2 2 2 0 0 2 6 3
+p726
+aVSamuel Dalembert PHI 11/18/2004 PHI vs. SAS L 21 4 2 5 40.0 0 0 - 0 0 - 3 4 7 0 1 2 2 3 0
+p727
+aVWillie Green PHI 11/18/2004 PHI vs. SAS L 15 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 3 0 1 0 2 -8
+p728
+aVMarc Jackson PHI 11/18/2004 PHI vs. SAS L 27 8 2 7 28.6 0 0 - 4 4 100.0 3 4 7 1 2 0 1 3 -8
+p729
+aVJosh Davis PHI 11/18/2004 PHI vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p730
+aVCorliss Williamson PHI 11/18/2004 PHI vs. SAS L 31 15 6 13 46.2 0 1 0.0 3 4 75.0 1 6 7 0 0 0 0 4 6
+p731
+aVAllen Iverson PHI 11/18/2004 PHI vs. SAS L 39 24 8 24 33.3 0 0 - 8 9 88.9 1 2 3 4 2 0 4 0 -11
+p732
+aVKenny Thomas PHI 11/18/2004 PHI vs. SAS L 16 2 1 7 14.3 0 0 - 0 0 - 3 2 5 2 0 0 3 3 -12
+p733
+aVKyle Korver PHI 11/18/2004 PHI vs. SAS L 38 17 7 12 58.3 3 6 50.0 0 0 - 0 2 2 4 3 0 3 3 12
+p734
+aVAndre Iguodala PHI 11/18/2004 PHI vs. SAS L 29 6 2 5 40.0 1 1 100.0 1 2 50.0 1 8 9 0 0 0 1 3 -20
+p735
+aVKenny Thomas PHI 11/16/2004 PHI vs. SEA L 28 8 3 8 37.5 0 0 - 2 2 100.0 1 4 5 2 1 0 4 4 -6
+p736
+aVCorliss Williamson PHI 11/16/2004 PHI vs. SEA L 12 7 2 4 50.0 0 0 - 3 3 100.0 0 0 0 1 2 0 1 1 -7
+p737
+aVAllen Iverson PHI 11/16/2004 PHI vs. SEA L 41 26 10 26 38.5 0 4 0.0 6 6 100.0 1 1 2 4 3 0 2 0 -10
+p738
+aVBrian Skinner PHI 11/16/2004 PHI vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p739
+aVSamuel Dalembert PHI 11/16/2004 PHI vs. SEA L 26 9 4 6 66.7 0 0 - 1 1 100.0 1 5 6 0 1 1 3 2 -4
+p740
+aVWillie Green PHI 11/16/2004 PHI vs. SEA L 21 10 5 9 55.6 0 2 0.0 0 2 0.0 1 1 2 3 0 0 0 3 -13
+p741
+aVMarc Jackson PHI 11/16/2004 PHI vs. SEA L 19 10 5 6 83.3 0 0 - 0 0 - 3 3 6 0 1 0 1 3 -2
+p742
+aVAndre Iguodala PHI 11/16/2004 PHI vs. SEA L 22 5 1 2 50.0 1 1 100.0 2 2 100.0 0 3 3 3 1 0 1 2 -6
+p743
+aVJohn Salmons PHI 11/16/2004 PHI vs. SEA L 28 3 1 4 25.0 0 2 0.0 1 2 50.0 1 4 5 3 0 0 1 3 -11
+p744
+aVKyle Korver PHI 11/16/2004 PHI vs. SEA L 32 14 4 13 30.8 4 12 33.3 2 3 66.7 1 6 7 5 2 1 2 3 16
+p745
+aVJosh Davis PHI 11/16/2004 PHI vs. SEA L 8 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 1 5
+p746
+aVJosh Davis PHI 11/14/2004 PHI vs. ORL W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -4
+p747
+aVAndre Iguodala PHI 11/14/2004 PHI vs. ORL W 34 11 4 7 57.1 1 1 100.0 2 2 100.0 2 6 8 2 3 3 3 2 4
+p748
+aVWillie Green PHI 11/14/2004 PHI vs. ORL W 21 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 1 2 0 1 3 7
+p749
+aVMarc Jackson PHI 11/14/2004 PHI vs. ORL W 29 12 6 9 66.7 0 0 - 0 0 - 1 4 5 0 1 1 1 2 8
+p750
+aVKevin Ollie PHI 11/14/2004 PHI vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p751
+aVKenny Thomas PHI 11/14/2004 PHI vs. ORL W 18 5 2 12 16.7 0 0 - 1 2 50.0 4 3 7 1 0 0 0 4 -1
+p752
+aVSamuel Dalembert PHI 11/14/2004 PHI vs. ORL W 19 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 0 0 3 1 2 1
+p753
+aVAllen Iverson PHI 11/14/2004 PHI vs. ORL W 42 29 12 25 48.0 1 3 33.3 4 4 100.0 2 4 6 12 1 0 7 1 14
+p754
+aVCorliss Williamson PHI 11/14/2004 PHI vs. ORL W 20 11 4 8 50.0 0 0 - 3 4 75.0 1 5 6 1 0 0 0 4 14
+p755
+aVJohn Salmons PHI 11/14/2004 PHI vs. ORL W 24 6 3 6 50.0 0 1 0.0 0 0 - 0 5 5 4 1 1 3 2 3
+p756
+aVKyle Korver PHI 11/14/2004 PHI vs. ORL W 20 8 2 6 33.3 2 6 33.3 2 2 100.0 0 5 5 2 2 0 1 4 2
+p757
+aVMarc Jackson PHI 11/12/2004 PHI vs. IND W 38 21 7 15 46.7 0 0 - 7 10 70.0 6 4 10 1 2 0 2 1 -9
+p758
+aVKyle Korver PHI 11/12/2004 PHI vs. IND W 32 23 8 11 72.7 7 10 70.0 0 0 - 0 3 3 2 2 0 2 4 21
+p759
+aVCorliss Williamson PHI 11/12/2004 PHI vs. IND W 34 15 5 9 55.6 0 0 - 5 6 83.3 1 4 5 0 1 0 1 1 10
+p760
+aVBrian Skinner PHI 11/12/2004 PHI vs. IND W 15 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 3 8
+p761
+aVWillie Green PHI 11/12/2004 PHI vs. IND W 27 8 3 8 37.5 1 2 50.0 1 2 50.0 0 0 0 3 0 0 1 4 -5
+p762
+aVAndre Iguodala PHI 11/12/2004 PHI vs. IND W 22 3 1 3 33.3 0 2 0.0 1 2 50.0 1 3 4 2 1 0 0 2 -16
+p763
+aVJosh Davis PHI 11/12/2004 PHI vs. IND W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 4
+p764
+aVKevin Ollie PHI 11/12/2004 PHI vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p765
+aVAllen Iverson PHI 11/12/2004 PHI vs. IND W 44 15 5 23 21.7 0 3 0.0 5 6 83.3 1 4 5 9 2 0 7 2 -9
+p766
+aVJohn Salmons PHI 11/12/2004 PHI vs. IND W 33 15 5 7 71.4 2 4 50.0 3 3 100.0 0 5 5 4 2 0 0 5 20
+p767
+aVKenny Thomas PHI 11/12/2004 PHI vs. IND W 18 5 2 8 25.0 0 0 - 1 2 50.0 2 5 7 0 0 0 2 2 -12
+p768
+aVKenny Thomas PHI 11/10/2004 PHI vs. NJN W 30 10 4 8 50.0 0 0 - 2 2 100.0 3 3 6 1 0 0 2 6 2
+p769
+aVCorliss Williamson PHI 11/10/2004 PHI vs. NJN W 22 15 3 7 42.9 0 0 - 9 11 81.8 3 2 5 2 0 0 0 5 2
+p770
+aVAllen Iverson PHI 11/10/2004 PHI vs. NJN W 49 26 5 15 33.3 2 6 33.3 14 17 82.4 0 5 5 6 1 0 3 1 7
+p771
+aVMarc Jackson PHI 11/10/2004 PHI vs. NJN W 35 19 5 12 41.7 0 0 - 9 11 81.8 2 3 5 2 3 0 1 4 30
+p772
+aVBrian Skinner PHI 11/10/2004 PHI vs. NJN W 18 2 1 4 25.0 0 0 - 0 0 - 1 6 7 1 0 1 1 0 -22
+p773
+aVAaron McKie PHI 11/10/2004 PHI vs. NJN W 12 0 0 0 - 0 0 - 0 1 0.0 0 0 0 3 2 0 0 4 7
+p774
+aVWillie Green PHI 11/10/2004 PHI vs. NJN W 23 10 4 7 57.1 2 4 50.0 0 3 0.0 0 0 0 2 3 0 2 2 -3
+p775
+aVKedrick Brown PHI 11/10/2004 PHI vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p776
+aVJosh Davis PHI 11/10/2004 PHI vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p777
+aVAndre Iguodala PHI 11/10/2004 PHI vs. NJN W 40 11 3 10 30.0 1 5 20.0 4 4 100.0 2 6 8 4 0 2 2 5 10
+p778
+aVKyle Korver PHI 11/10/2004 PHI vs. NJN W 32 15 5 10 50.0 3 8 37.5 2 2 100.0 0 7 7 0 0 0 1 5 8
+p779
+aVAndre Iguodala PHI 11/09/2004 PHI @ NYK L 35 13 4 7 57.1 1 2 50.0 4 6 66.7 2 5 7 2 2 1 3 2 -4
+p780
+aVWillie Green PHI 11/09/2004 PHI @ NYK L 32 12 5 8 62.5 2 2 100.0 0 0 - 1 2 3 1 1 0 5 4 -6
+p781
+aVCorliss Williamson PHI 11/09/2004 PHI @ NYK L 15 8 4 11 36.4 0 0 - 0 0 - 3 3 6 0 0 0 3 3 2
+p782
+aVAllen Iverson PHI 11/09/2004 PHI @ NYK L 42 29 8 18 44.4 1 2 50.0 12 15 80.0 2 3 5 10 1 0 9 1 -3
+p783
+aVJosh Davis PHI 11/09/2004 PHI @ NYK L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 1 0 0 0 6
+p784
+aVKyle Korver PHI 11/09/2004 PHI @ NYK L 19 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 0 1 0 0 3 -12
+p785
+aVMarc Jackson PHI 11/09/2004 PHI @ NYK L 30 6 3 9 33.3 0 0 - 0 0 - 2 5 7 1 2 1 2 5 -9
+p786
+aVBrian Skinner PHI 11/09/2004 PHI @ NYK L 14 2 1 3 33.3 0 0 - 0 2 0.0 1 3 4 0 0 0 2 2 -5
+p787
+aVKenny Thomas PHI 11/09/2004 PHI @ NYK L 33 7 3 7 42.9 0 0 - 1 1 100.0 1 1 2 0 0 0 2 2 -10
+p788
+aVAaron McKie PHI 11/09/2004 PHI @ NYK L 15 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 2 2 1
+p789
+aVJosh Davis PHI 11/06/2004 PHI @ DET L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 8
+p790
+aVAndre Iguodala PHI 11/06/2004 PHI @ DET L 32 8 1 8 12.5 1 3 33.3 5 6 83.3 0 6 6 1 3 1 2 5 -2
+p791
+aVKenny Thomas PHI 11/06/2004 PHI @ DET L 26 6 3 9 33.3 0 0 - 0 0 - 4 10 14 0 0 0 2 2 -4
+p792
+aVAaron McKie PHI 11/06/2004 PHI @ DET L 20 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 2 1 0 1 0 -3
+p793
+aVKyle Korver PHI 11/06/2004 PHI @ DET L 27 11 4 6 66.7 1 3 33.3 2 2 100.0 1 2 3 2 0 0 0 3 0
+p794
+aVAllen Iverson PHI 11/06/2004 PHI @ DET L 38 31 11 19 57.9 2 3 66.7 7 11 63.6 0 0 0 5 3 0 1 1 -13
+p795
+aVWillie Green PHI 11/06/2004 PHI @ DET L 27 9 2 10 20.0 0 2 0.0 5 6 83.3 1 2 3 2 1 0 5 5 -6
+p796
+aVCorliss Williamson PHI 11/06/2004 PHI @ DET L 22 5 2 7 28.6 0 0 - 1 2 50.0 1 2 3 0 2 1 0 3 -12
+p797
+aVBrian Skinner PHI 11/06/2004 PHI @ DET L 30 10 4 9 44.4 0 0 - 2 5 40.0 3 5 8 0 1 1 0 2 2
+p798
+aVMarc Jackson PHI 11/06/2004 PHI @ DET L 14 7 2 8 25.0 0 0 - 3 4 75.0 0 2 2 0 1 0 0 2 -10
+p799
+aVAllen Iverson PHI 11/05/2004 PHI vs. PHX L 40 25 6 20 30.0 1 6 16.7 12 13 92.3 0 1 1 9 2 0 7 1 -18
+p800
+aVJosh Davis PHI 11/05/2004 PHI vs. PHX L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 5
+p801
+aVBrian Skinner PHI 11/05/2004 PHI vs. PHX L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -4
+p802
+aVMarc Jackson PHI 11/05/2004 PHI vs. PHX L 25 11 5 8 62.5 0 0 - 1 2 50.0 2 2 4 0 1 0 1 2 -3
+p803
+aVKenny Thomas PHI 11/05/2004 PHI vs. PHX L 32 13 5 12 41.7 0 0 - 3 4 75.0 4 6 10 0 0 0 4 5 -14
+p804
+aVCorliss Williamson PHI 11/05/2004 PHI vs. PHX L 11 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 2 0 0 3 1 -1
+p805
+aVKyle Korver PHI 11/05/2004 PHI vs. PHX L 22 7 2 5 40.0 2 5 40.0 1 1 100.0 0 4 4 2 2 0 1 4 -6
+p806
+aVAaron McKie PHI 11/05/2004 PHI vs. PHX L 18 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 2 0 1 1 0
+p807
+aVSamuel Dalembert PHI 11/05/2004 PHI vs. PHX L 18 6 3 4 75.0 0 0 - 0 0 - 2 5 7 1 0 1 1 2 -3
+p808
+aVWillie Green PHI 11/05/2004 PHI vs. PHX L 36 16 6 15 40.0 1 6 16.7 3 4 75.0 1 3 4 1 1 0 2 5 -7
+p809
+aVAndre Iguodala PHI 11/05/2004 PHI vs. PHX L 28 11 5 9 55.6 1 2 50.0 0 0 - 4 4 8 3 2 1 1 2 1
+p810
+aVBrian Skinner PHI 11/03/2004 PHI @ BOS W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p811
+aVAllen Iverson PHI 11/03/2004 PHI @ BOS W 43 30 13 22 59.1 3 9 33.3 1 5 20.0 0 2 2 6 2 0 3 1 0
+p812
+aVKyle Korver PHI 11/03/2004 PHI @ BOS W 24 12 4 8 50.0 4 8 50.0 0 1 0.0 1 3 4 2 1 1 1 5 19
+p813
+aVKenny Thomas PHI 11/03/2004 PHI @ BOS W 37 12 4 14 28.6 0 2 0.0 4 4 100.0 5 5 10 2 0 1 2 4 -1
+p814
+aVSamuel Dalembert PHI 11/03/2004 PHI @ BOS W 24 2 1 4 25.0 0 0 - 0 0 - 3 7 10 0 1 0 2 5 15
+p815
+aVAaron McKie PHI 11/03/2004 PHI @ BOS W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 0 3 -2
+p816
+aVMarc Jackson PHI 11/03/2004 PHI @ BOS W 20 15 5 8 62.5 0 0 - 5 5 100.0 2 2 4 0 0 0 1 1 -7
+p817
+aVCorliss Williamson PHI 11/03/2004 PHI @ BOS W 11 6 1 5 20.0 0 0 - 4 4 100.0 0 1 1 2 3 0 0 1 4
+p818
+aVWillie Green PHI 11/03/2004 PHI @ BOS W 34 11 4 11 36.4 1 2 50.0 2 4 50.0 2 3 5 2 1 0 3 1 10
+p819
+aVKedrick Brown PHI 11/03/2004 PHI @ BOS W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -7
+p820
+aVJosh Davis PHI 11/03/2004 PHI @ BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p821
+aVAndre Iguodala PHI 11/03/2004 PHI @ BOS W 21 8 3 5 60.0 1 1 100.0 1 1 100.0 0 0 0 1 1 0 2 3 -11
+p822
+a.

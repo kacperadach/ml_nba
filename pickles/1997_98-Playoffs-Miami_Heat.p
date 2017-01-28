@@ -1,0 +1,92 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEric Murdock MIA 05/03/1998 MIA vs. NYK W 30 6 1 7 14.3 1 3 33.3 3 4 75.0 0 2 2 4 2 0 2 1 -4
+p2
+aVMarty Conlon MIA 05/03/1998 MIA vs. NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p3
+aVMark Strickland MIA 05/03/1998 MIA vs. NYK W 24 9 4 5 80.0 0 0 - 1 2 50.0 2 5 7 0 0 1 0 4 -1
+p4
+aVTerry Mills MIA 05/03/1998 MIA vs. NYK W 5 4 1 2 50.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p5
+aVP.J. Brown MIA 05/03/1998 MIA vs. NYK W 47 18 8 11 72.7 0 0 - 2 7 28.6 4 6 10 0 2 0 1 5 -17
+p6
+aVVoshon Lenard MIA 05/03/1998 MIA vs. NYK W 33 7 2 6 33.3 1 4 25.0 2 3 66.7 0 4 4 1 1 0 3 5 -17
+p7
+aVJamal Mashburn MIA 05/03/1998 MIA vs. NYK W 40 14 5 18 27.8 1 3 33.3 3 4 75.0 1 4 5 5 1 0 3 6 -13
+p8
+aVTim Hardaway MIA 05/03/1998 MIA vs. NYK W 48 21 8 20 40.0 3 10 30.0 2 3 66.7 1 2 3 8 1 0 4 2 -17
+p9
+aVDuane Causwell MIA 05/03/1998 MIA vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -7
+p10
+aVVoshon Lenard MIA 04/30/1998 MIA @ NYK W 41 2 1 6 16.7 0 3 0.0 0 2 0.0 0 3 3 2 0 0 0 4 -1
+p11
+aVEric Murdock MIA 04/30/1998 MIA @ NYK W 24 9 2 5 40.0 0 0 - 5 6 83.3 0 3 3 1 1 0 0 3 0
+p12
+aVMark Strickland MIA 04/30/1998 MIA @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p13
+aVAlonzo Mourning MIA 04/30/1998 MIA @ NYK W 37 29 11 14 78.6 0 0 - 7 11 63.6 0 6 6 0 0 1 2 5 4
+p14
+aVP.J. Brown MIA 04/30/1998 MIA @ NYK W 35 6 2 4 50.0 0 0 - 2 4 50.0 2 7 9 1 1 0 2 6 -4
+p15
+aVTim Hardaway MIA 04/30/1998 MIA @ NYK W 44 33 12 21 57.1 5 11 45.5 4 4 100.0 1 1 2 9 1 0 3 2 -5
+p16
+aVJamal Mashburn MIA 04/30/1998 MIA @ NYK W 29 3 1 9 11.1 1 4 25.0 0 0 - 2 4 6 2 1 0 4 2 -13
+p17
+aVKeith Askins MIA 04/30/1998 MIA @ NYK W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p18
+aVMarty Conlon MIA 04/30/1998 MIA @ NYK W 13 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 1 -11
+p19
+aVP.J. Brown MIA 04/28/1998 MIA @ NYK W 24 5 2 6 33.3 0 0 - 1 6 16.7 1 5 6 0 2 1 1 5 3
+p20
+aVKeith Askins MIA 04/28/1998 MIA @ NYK W 15 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -1
+p21
+aVMarty Conlon MIA 04/28/1998 MIA @ NYK W 27 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 1 1 3 4 7
+p22
+aVJamal Mashburn MIA 04/28/1998 MIA @ NYK W 25 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 6 3
+p23
+aVTim Hardaway MIA 04/28/1998 MIA @ NYK W 43 27 8 17 47.1 2 4 50.0 9 13 69.2 1 4 5 7 2 0 4 1 5
+p24
+aVAlonzo Mourning MIA 04/28/1998 MIA @ NYK W 32 7 3 13 23.1 0 0 - 1 2 50.0 6 3 9 0 2 3 4 5 -7
+p25
+aVVoshon Lenard MIA 04/28/1998 MIA @ NYK W 38 28 10 15 66.7 3 6 50.0 5 7 71.4 0 7 7 0 0 0 4 3 8
+p26
+aVTerry Mills MIA 04/28/1998 MIA @ NYK W 5 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 3 11
+p27
+aVEric Murdock MIA 04/28/1998 MIA @ NYK W 25 11 2 4 50.0 1 2 50.0 6 6 100.0 1 3 4 3 1 0 1 1 1
+p28
+aVVoshon Lenard MIA 04/26/1998 MIA vs. NYK L 41 25 8 17 47.1 3 8 37.5 6 6 100.0 1 2 3 1 0 0 3 5 -6
+p29
+aVAlonzo Mourning MIA 04/26/1998 MIA vs. NYK L 45 30 11 18 61.1 0 0 - 8 10 80.0 2 11 13 2 1 4 2 4 -10
+p30
+aVJamal Mashburn MIA 04/26/1998 MIA vs. NYK L 10 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 2 2 7
+p31
+aVTim Hardaway MIA 04/26/1998 MIA vs. NYK L 44 15 4 15 26.7 1 5 20.0 6 9 66.7 0 5 5 7 2 0 3 2 -12
+p32
+aVEric Murdock MIA 04/26/1998 MIA vs. NYK L 13 5 1 4 25.0 0 1 0.0 3 4 75.0 1 4 5 2 1 0 0 3 -4
+p33
+aVKeith Askins MIA 04/26/1998 MIA vs. NYK L 21 3 1 3 33.3 1 3 33.3 0 0 - 1 4 5 0 0 0 0 4 -11
+p34
+aVDan Majerle MIA 04/26/1998 MIA vs. NYK L 23 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 3 1 0 0 1 3
+p35
+aVP.J. Brown MIA 04/26/1998 MIA vs. NYK L 40 5 2 6 33.3 0 0 - 1 3 33.3 3 6 9 1 1 1 2 3 -17
+p36
+aVP.J. Brown MIA 04/24/1998 MIA vs. NYK W 42 12 5 10 50.0 0 0 - 2 2 100.0 5 5 10 2 1 1 0 3 14
+p37
+aVDan Majerle MIA 04/24/1998 MIA vs. NYK W 38 8 3 6 50.0 2 4 50.0 0 0 - 1 3 4 2 3 1 1 2 15
+p38
+aVTim Hardaway MIA 04/24/1998 MIA vs. NYK W 41 34 10 21 47.6 6 9 66.7 8 8 100.0 0 2 2 2 0 0 4 2 17
+p39
+aVMark Strickland MIA 04/24/1998 MIA vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p40
+aVAlonzo Mourning MIA 04/24/1998 MIA vs. NYK W 21 11 4 11 36.4 0 0 - 3 6 50.0 2 4 6 3 0 2 0 4 23
+p41
+aVJamal Mashburn MIA 04/24/1998 MIA vs. NYK W 23 3 1 8 12.5 1 3 33.3 0 0 - 0 7 7 0 0 1 0 5 -7
+p42
+aVVoshon Lenard MIA 04/24/1998 MIA vs. NYK W 32 10 3 8 37.5 2 5 40.0 2 2 100.0 0 2 2 3 0 2 1 3 1
+p43
+aVKeith Askins MIA 04/24/1998 MIA vs. NYK W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 2 0
+p44
+aVEric Murdock MIA 04/24/1998 MIA vs. NYK W 30 16 5 12 41.7 0 3 0.0 6 8 75.0 1 5 6 5 2 0 1 3 12
+p45
+a.

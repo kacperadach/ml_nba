@@ -1,0 +1,394 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVIan Mahinmi IND 05/30/2014 IND @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p2
+aVDavid West IND 05/30/2014 IND @ MIA L 34 16 8 11 72.7 0 1 0.0 0 0 - 0 4 4 1 0 0 3 6 -25
+p3
+aVRasual Butler IND 05/30/2014 IND @ MIA L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p4
+aVRoy Hibbert IND 05/30/2014 IND @ MIA L 32 8 1 3 33.3 0 0 - 6 6 100.0 2 1 3 3 0 1 2 4 -22
+p5
+aVGeorge Hill IND 05/30/2014 IND @ MIA L 36 9 4 11 36.4 0 3 0.0 1 3 33.3 2 5 7 3 2 0 2 0 -28
+p6
+aVLavoy Allen IND 05/30/2014 IND @ MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p7
+aVLance Stephenson IND 05/30/2014 IND @ MIA L 36 11 4 9 44.4 3 6 50.0 0 0 - 0 4 4 1 0 0 2 3 -21
+p8
+aVDonald Sloan IND 05/30/2014 IND @ MIA L 5 5 1 3 33.3 1 2 50.0 2 4 50.0 0 0 0 3 1 0 1 0 4
+p9
+aVLuis Scola IND 05/30/2014 IND @ MIA L 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p10
+aVChris Copeland IND 05/30/2014 IND @ MIA L 17 6 2 6 33.3 1 3 33.3 1 1 100.0 0 0 0 0 0 0 0 1 7
+p11
+aVPaul George IND 05/30/2014 IND @ MIA L 41 29 8 18 44.4 5 10 50.0 8 10 80.0 0 8 8 2 2 1 1 3 -28
+p12
+aVCJ Watson IND 05/30/2014 IND @ MIA L 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p13
+aVGeorge Hill IND 05/28/2014 IND vs. MIA W 38 9 4 9 44.4 1 2 50.0 0 2 0.0 2 5 7 1 2 0 0 0 12
+p14
+aVDavid West IND 05/28/2014 IND vs. MIA W 41 19 7 11 63.6 0 0 - 5 8 62.5 2 7 9 2 2 1 2 4 5
+p15
+aVRoy Hibbert IND 05/28/2014 IND vs. MIA W 38 10 4 11 36.4 0 0 - 2 3 66.7 6 7 13 2 0 1 3 4 9
+p16
+aVIan Mahinmi IND 05/28/2014 IND vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p17
+aVCJ Watson IND 05/28/2014 IND vs. MIA W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p18
+aVLance Stephenson IND 05/28/2014 IND vs. MIA W 43 12 4 11 36.4 0 3 0.0 4 4 100.0 3 2 5 5 2 0 2 3 3
+p19
+aVPaul George IND 05/28/2014 IND vs. MIA W 45 37 15 28 53.6 5 14 35.7 2 3 66.7 1 5 6 2 6 0 3 2 9
+p20
+aVRasual Butler IND 05/28/2014 IND vs. MIA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -11
+p21
+aVLuis Scola IND 05/28/2014 IND vs. MIA W 17 6 3 6 50.0 0 0 - 0 2 0.0 2 2 4 1 0 0 1 2 -6
+p22
+aVRasual Butler IND 05/26/2014 IND @ MIA L 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p23
+aVIan Mahinmi IND 05/26/2014 IND @ MIA L 16 5 2 3 66.7 0 0 - 1 1 100.0 2 1 3 1 0 0 1 4 3
+p24
+aVPaul George IND 05/26/2014 IND @ MIA L 43 23 8 16 50.0 3 9 33.3 4 7 57.1 2 5 7 3 1 0 5 3 -11
+p25
+aVLance Stephenson IND 05/26/2014 IND @ MIA L 32 9 3 7 42.9 0 0 - 3 5 60.0 2 3 5 4 0 0 2 5 -14
+p26
+aVCJ Watson IND 05/26/2014 IND @ MIA L 20 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 -1
+p27
+aVRoy Hibbert IND 05/26/2014 IND @ MIA L 22 0 0 4 0.0 0 0 - 0 0 - 0 5 5 1 0 1 1 4 -23
+p28
+aVGeorge Hill IND 05/26/2014 IND @ MIA L 44 15 5 10 50.0 4 7 57.1 1 2 50.0 0 2 2 4 0 0 2 3 -10
+p29
+aVChris Copeland IND 05/26/2014 IND @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 11
+p30
+aVLuis Scola IND 05/26/2014 IND @ MIA L 14 12 6 8 75.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -10
+p31
+aVDavid West IND 05/26/2014 IND @ MIA L 37 20 9 18 50.0 0 0 - 2 2 100.0 3 9 12 4 0 0 2 4 -4
+p32
+aVLuis Scola IND 05/24/2014 IND @ MIA L 13 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 9
+p33
+aVLance Stephenson IND 05/24/2014 IND @ MIA L 46 10 3 9 33.3 0 4 0.0 4 5 80.0 3 8 11 5 3 0 3 4 -9
+p34
+aVDavid West IND 05/24/2014 IND @ MIA L 35 13 5 8 62.5 0 1 0.0 3 3 100.0 1 4 5 4 1 0 5 1 -21
+p35
+aVRasual Butler IND 05/24/2014 IND @ MIA L 17 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 0
+p36
+aVRoy Hibbert IND 05/24/2014 IND @ MIA L 36 16 7 13 53.8 0 0 - 2 2 100.0 0 2 2 0 1 0 0 3 -21
+p37
+aVGeorge Hill IND 05/24/2014 IND @ MIA L 21 8 2 5 40.0 1 3 33.3 3 3 100.0 0 2 2 2 0 0 4 5 8
+p38
+aVEvan Turner IND 05/24/2014 IND @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p39
+aVPaul George IND 05/24/2014 IND @ MIA L 32 17 5 13 38.5 1 6 16.7 6 10 60.0 0 2 2 4 1 0 2 4 -10
+p40
+aVIan Mahinmi IND 05/24/2014 IND @ MIA L 9 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 1 0 1 1 0 6
+p41
+aVCJ Watson IND 05/24/2014 IND @ MIA L 28 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 1 1 0 1 2 -17
+p42
+aVRoy Hibbert IND 05/20/2014 IND vs. MIA L 41 12 5 9 55.6 0 0 - 2 2 100.0 8 5 13 0 1 1 1 0 3
+p43
+aVCJ Watson IND 05/20/2014 IND vs. MIA L 13 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 2 -13
+p44
+aVLuis Scola IND 05/20/2014 IND vs. MIA L 11 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -6
+p45
+aVIan Mahinmi IND 05/20/2014 IND vs. MIA L 6 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -8
+p46
+aVGeorge Hill IND 05/20/2014 IND vs. MIA L 40 13 5 9 55.6 3 5 60.0 0 0 - 1 4 5 1 3 0 0 2 3
+p47
+aVRasual Butler IND 05/20/2014 IND vs. MIA L 8 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 1 0 0 1 -4
+p48
+aVPaul George IND 05/20/2014 IND vs. MIA L 43 14 4 16 25.0 2 5 40.0 4 6 66.7 1 4 5 6 0 0 3 0 -1
+p49
+aVDavid West IND 05/20/2014 IND vs. MIA L 34 10 5 16 31.3 0 1 0.0 0 0 - 2 5 7 4 1 1 2 4 6
+p50
+aVLance Stephenson IND 05/20/2014 IND vs. MIA L 44 25 10 17 58.8 2 4 50.0 3 5 60.0 2 4 6 7 0 0 3 5 0
+p51
+aVGeorge Hill IND 05/18/2014 IND vs. MIA W 36 15 3 9 33.3 3 7 42.9 6 6 100.0 1 1 2 0 1 1 1 1 11
+p52
+aVIan Mahinmi IND 05/18/2014 IND vs. MIA W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -8
+p53
+aVDavid West IND 05/18/2014 IND vs. MIA W 34 19 8 11 72.7 0 0 - 3 4 75.0 1 6 7 3 0 0 2 2 13
+p54
+aVChris Copeland IND 05/18/2014 IND vs. MIA W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p55
+aVLuis Scola IND 05/18/2014 IND vs. MIA W 14 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 0 0 0 0 -2
+p56
+aVRoy Hibbert IND 05/18/2014 IND vs. MIA W 39 19 5 13 38.5 0 0 - 9 13 69.2 3 6 9 3 0 1 1 3 19
+p57
+aVPaul George IND 05/18/2014 IND vs. MIA W 39 24 7 13 53.8 3 6 50.0 7 8 87.5 0 4 4 7 1 0 3 5 11
+p58
+aVLavoy Allen IND 05/18/2014 IND vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p59
+aVDonald Sloan IND 05/18/2014 IND vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p60
+aVSolomon Hill IND 05/18/2014 IND vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p61
+aVLance Stephenson IND 05/18/2014 IND vs. MIA W 41 17 8 12 66.7 1 2 50.0 0 0 - 0 4 4 8 1 0 2 3 12
+p62
+aVCJ Watson IND 05/18/2014 IND vs. MIA W 18 11 3 4 75.0 1 2 50.0 4 6 66.7 0 4 4 1 1 0 2 0 -2
+p63
+aVRasual Butler IND 05/18/2014 IND vs. MIA W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p64
+aVPaul George IND 05/15/2014 IND @ WAS W 43 12 4 11 36.4 1 5 20.0 3 4 75.0 0 5 5 2 3 0 1 4 10
+p65
+aVRasual Butler IND 05/15/2014 IND @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p66
+aVDavid West IND 05/15/2014 IND @ WAS W 38 29 13 26 50.0 0 2 0.0 3 5 60.0 1 5 6 4 0 0 1 1 15
+p67
+aVChris Copeland IND 05/15/2014 IND @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p68
+aVLuis Scola IND 05/15/2014 IND @ WAS W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 0 4 -2
+p69
+aVGeorge Hill IND 05/15/2014 IND @ WAS W 43 11 4 7 57.1 1 2 50.0 2 2 100.0 0 6 6 3 2 0 3 3 10
+p70
+aVEvan Turner IND 05/15/2014 IND @ WAS W 12 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 2 0 2
+p71
+aVCJ Watson IND 05/15/2014 IND @ WAS W 5 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 0 0 0 1 1 3
+p72
+aVRoy Hibbert IND 05/15/2014 IND @ WAS W 36 11 4 8 50.0 0 0 - 3 4 75.0 3 4 7 0 1 3 2 3 10
+p73
+aVLance Stephenson IND 05/15/2014 IND @ WAS W 41 17 8 13 61.5 0 1 0.0 1 1 100.0 0 5 5 8 0 1 1 5 15
+p74
+aVIan Mahinmi IND 05/15/2014 IND @ WAS W 12 5 2 2 100.0 0 0 - 1 3 33.3 1 1 2 0 0 0 0 2 3
+p75
+aVLance Stephenson IND 05/13/2014 IND vs. WAS L 28 9 4 8 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 2 -23
+p76
+aVDonald Sloan IND 05/13/2014 IND vs. WAS L 6 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p77
+aVCJ Watson IND 05/13/2014 IND vs. WAS L 15 7 2 4 50.0 1 3 33.3 2 5 40.0 1 0 1 2 1 0 0 0 -5
+p78
+aVIan Mahinmi IND 05/13/2014 IND vs. WAS L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 1 1 3 -1
+p79
+aVEvan Turner IND 05/13/2014 IND vs. WAS L 18 2 1 3 33.3 0 0 - 0 0 - 0 4 4 3 1 0 1 0 3
+p80
+aVLuis Scola IND 05/13/2014 IND vs. WAS L 9 5 2 5 40.0 0 0 - 1 1 100.0 0 2 2 0 1 1 1 1 10
+p81
+aVPaul George IND 05/13/2014 IND vs. WAS L 39 15 5 15 33.3 3 5 60.0 2 3 66.7 0 1 1 2 2 1 4 2 -24
+p82
+aVDavid West IND 05/13/2014 IND vs. WAS L 34 17 7 14 50.0 1 1 100.0 2 3 66.7 1 5 6 3 0 0 1 3 -35
+p83
+aVRoy Hibbert IND 05/13/2014 IND vs. WAS L 25 4 2 7 28.6 0 0 - 0 0 - 2 0 2 3 0 0 0 4 -27
+p84
+aVLavoy Allen IND 05/13/2014 IND vs. WAS L 6 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 5
+p85
+aVRasual Butler IND 05/13/2014 IND vs. WAS L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 5
+p86
+aVGeorge Hill IND 05/13/2014 IND vs. WAS L 31 3 1 8 12.5 0 2 0.0 1 2 50.0 0 2 2 2 1 1 2 1 -30
+p87
+aVChris Copeland IND 05/13/2014 IND vs. WAS L 10 9 3 5 60.0 0 1 0.0 3 6 50.0 0 1 1 0 1 0 0 3 2
+p88
+aVIan Mahinmi IND 05/11/2014 IND @ WAS W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p89
+aVPaul George IND 05/11/2014 IND @ WAS W 46 39 12 20 60.0 7 10 70.0 8 10 80.0 1 11 12 0 2 0 2 4 0
+p90
+aVRoy Hibbert IND 05/11/2014 IND @ WAS W 39 17 6 12 50.0 0 0 - 5 7 71.4 5 4 9 0 1 2 2 3 16
+p91
+aVGeorge Hill IND 05/11/2014 IND @ WAS W 37 15 6 12 50.0 1 5 20.0 2 4 50.0 1 1 2 4 2 0 1 4 18
+p92
+aVLuis Scola IND 05/11/2014 IND @ WAS W 8 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 1 0 0 2 1 -18
+p93
+aVCJ Watson IND 05/11/2014 IND @ WAS W 11 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 1 0 0 2 2 -15
+p94
+aVEvan Turner IND 05/11/2014 IND @ WAS W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p95
+aVLance Stephenson IND 05/11/2014 IND @ WAS W 41 8 3 8 37.5 2 4 50.0 0 0 - 2 7 9 6 1 0 6 1 15
+p96
+aVDavid West IND 05/11/2014 IND @ WAS W 44 14 5 12 41.7 0 0 - 4 6 66.7 0 3 3 8 0 0 2 3 15
+p97
+aVGeorge Hill IND 05/09/2014 IND @ WAS W 36 9 3 6 50.0 3 5 60.0 0 0 - 0 4 4 5 3 0 2 2 23
+p98
+aVLance Stephenson IND 05/09/2014 IND @ WAS W 35 9 4 13 30.8 1 3 33.3 0 1 0.0 1 6 7 5 0 0 1 2 21
+p99
+aVLuis Scola IND 05/09/2014 IND @ WAS W 15 11 4 8 50.0 1 1 100.0 2 2 100.0 0 3 3 0 1 0 0 1 -5
+p100
+aVIan Mahinmi IND 05/09/2014 IND @ WAS W 18 2 0 0 - 0 0 - 2 2 100.0 2 5 7 0 1 1 0 2 7
+p101
+aVRoy Hibbert IND 05/09/2014 IND @ WAS W 30 14 6 9 66.7 0 0 - 2 4 50.0 1 5 6 0 0 3 1 5 15
+p102
+aVRasual Butler IND 05/09/2014 IND @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p103
+aVPaul George IND 05/09/2014 IND @ WAS W 42 23 6 15 40.0 2 4 50.0 9 10 90.0 0 8 8 4 3 1 4 3 21
+p104
+aVEvan Turner IND 05/09/2014 IND @ WAS W 18 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -2
+p105
+aVCJ Watson IND 05/09/2014 IND @ WAS W 12 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 0 -1
+p106
+aVDavid West IND 05/09/2014 IND @ WAS W 33 12 6 14 42.9 0 1 0.0 0 0 - 0 3 3 4 1 1 0 3 27
+p107
+aVGeorge Hill IND 05/07/2014 IND vs. WAS W 33 14 6 12 50.0 1 2 50.0 1 2 50.0 0 4 4 3 1 1 0 2 10
+p108
+aVDavid West IND 05/07/2014 IND vs. WAS W 37 9 3 8 37.5 0 0 - 3 4 75.0 1 5 6 2 0 0 3 3 10
+p109
+aVLuis Scola IND 05/07/2014 IND vs. WAS W 11 1 0 4 0.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -4
+p110
+aVPaul George IND 05/07/2014 IND vs. WAS W 41 11 5 13 38.5 0 3 0.0 1 2 50.0 0 6 6 4 2 0 2 3 6
+p111
+aVCJ Watson IND 05/07/2014 IND vs. WAS W 18 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 2 0 1 1 -9
+p112
+aVChris Copeland IND 05/07/2014 IND vs. WAS W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p113
+aVEvan Turner IND 05/07/2014 IND vs. WAS W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 2 1 0 0 0 -3
+p114
+aVLance Stephenson IND 05/07/2014 IND vs. WAS W 44 12 3 12 25.0 2 4 50.0 4 4 100.0 0 7 7 5 1 0 1 1 8
+p115
+aVIan Mahinmi IND 05/07/2014 IND vs. WAS W 14 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -14
+p116
+aVRoy Hibbert IND 05/07/2014 IND vs. WAS W 33 28 10 13 76.9 0 0 - 8 8 100.0 2 7 9 1 0 2 0 2 16
+p117
+aVLuis Scola IND 05/05/2014 IND vs. WAS L 27 12 6 11 54.5 0 0 - 0 2 0.0 1 4 5 0 1 2 1 5 0
+p118
+aVChris Copeland IND 05/05/2014 IND vs. WAS L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 4
+p119
+aVLance Stephenson IND 05/05/2014 IND vs. WAS L 35 12 4 13 30.8 2 4 50.0 2 2 100.0 0 6 6 2 2 0 4 3 9
+p120
+aVIan Mahinmi IND 05/05/2014 IND vs. WAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p121
+aVRoy Hibbert IND 05/05/2014 IND vs. WAS L 18 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 2 2 5 -17
+p122
+aVGeorge Hill IND 05/05/2014 IND vs. WAS L 33 18 6 11 54.5 3 6 50.0 3 5 60.0 1 3 4 1 0 0 1 3 -5
+p123
+aVCJ Watson IND 05/05/2014 IND vs. WAS L 15 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 2 1 0 0 0 -1
+p124
+aVDavid West IND 05/05/2014 IND vs. WAS L 38 15 6 15 40.0 0 0 - 3 4 75.0 3 9 12 2 0 1 3 3 11
+p125
+aVPaul George IND 05/05/2014 IND vs. WAS L 43 18 4 17 23.5 1 5 20.0 9 9 100.0 1 5 6 5 1 0 2 4 -13
+p126
+aVEvan Turner IND 05/05/2014 IND vs. WAS L 19 7 2 4 50.0 0 0 - 3 3 100.0 0 2 2 2 1 0 0 1 -8
+p127
+aVChris Copeland IND 05/03/2014 IND vs. ATL W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -2
+p128
+aVRoy Hibbert IND 05/03/2014 IND vs. ATL W 31 13 6 10 60.0 0 0 - 1 2 50.0 2 5 7 0 0 5 2 3 16
+p129
+aVIan Mahinmi IND 05/03/2014 IND vs. ATL W 14 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 2 0 1 -4
+p130
+aVDavid West IND 05/03/2014 IND vs. ATL W 43 4 1 7 14.3 0 0 - 2 2 100.0 1 12 13 4 2 6 6 3 13
+p131
+aVCJ Watson IND 05/03/2014 IND vs. ATL W 19 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 0 0 0 2 3 0
+p132
+aVLance Stephenson IND 05/03/2014 IND vs. ATL W 39 19 8 12 66.7 1 3 33.3 2 4 50.0 5 9 14 5 0 0 4 1 10
+p133
+aVPaul George IND 05/03/2014 IND vs. ATL W 43 30 11 23 47.8 1 8 12.5 7 8 87.5 0 11 11 3 2 0 2 4 11
+p134
+aVGeorge Hill IND 05/03/2014 IND vs. ATL W 44 15 3 10 30.0 0 5 0.0 9 9 100.0 1 4 5 4 2 0 1 2 16
+p135
+aVLuis Scola IND 05/01/2014 IND @ ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p136
+aVRoy Hibbert IND 05/01/2014 IND @ ATL W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 4 -12
+p137
+aVRasual Butler IND 05/01/2014 IND @ ATL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 1
+p138
+aVChris Copeland IND 05/01/2014 IND @ ATL W 18 5 1 2 50.0 1 1 100.0 2 2 100.0 1 2 3 0 1 0 3 3 7
+p139
+aVIan Mahinmi IND 05/01/2014 IND @ ATL W 23 0 0 1 0.0 0 0 - 0 0 - 2 4 6 0 1 2 1 4 8
+p140
+aVCJ Watson IND 05/01/2014 IND @ ATL W 27 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 0 2 0 0 2 7
+p141
+aVDavid West IND 05/01/2014 IND @ ATL W 40 24 10 20 50.0 0 1 0.0 4 4 100.0 3 8 11 6 2 0 1 4 6
+p142
+aVPaul George IND 05/01/2014 IND @ ATL W 38 24 7 18 38.9 1 6 16.7 9 10 90.0 0 8 8 3 1 0 4 4 19
+p143
+aVGeorge Hill IND 05/01/2014 IND @ ATL W 37 14 5 12 41.7 2 5 40.0 2 4 50.0 1 3 4 4 0 0 2 1 -7
+p144
+aVLance Stephenson IND 05/01/2014 IND @ ATL W 41 21 7 13 53.8 1 2 50.0 6 7 85.7 1 8 9 1 0 0 2 5 4
+p145
+aVLance Stephenson IND 04/28/2014 IND vs. ATL L 32 16 6 14 42.9 2 5 40.0 2 4 50.0 2 5 7 4 2 1 1 1 -1
+p146
+aVCJ Watson IND 04/28/2014 IND vs. ATL L 27 15 6 10 60.0 3 4 75.0 0 0 - 0 3 3 1 1 1 0 4 -3
+p147
+aVGeorge Hill IND 04/28/2014 IND vs. ATL L 38 16 6 12 50.0 3 7 42.9 1 2 50.0 2 1 3 5 0 0 2 3 -18
+p148
+aVIan Mahinmi IND 04/28/2014 IND vs. ATL L 16 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 3 -15
+p149
+aVRoy Hibbert IND 04/28/2014 IND vs. ATL L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 4 -7
+p150
+aVLuis Scola IND 04/28/2014 IND vs. ATL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -16
+p151
+aVPaul George IND 04/28/2014 IND vs. ATL L 43 26 9 16 56.3 4 7 57.1 4 4 100.0 0 12 12 6 6 0 3 2 6
+p152
+aVEvan Turner IND 04/28/2014 IND vs. ATL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -14
+p153
+aVChris Copeland IND 04/28/2014 IND vs. ATL L 20 6 2 7 28.6 2 6 33.3 0 0 - 0 1 1 0 1 3 1 3 17
+p154
+aVDavid West IND 04/28/2014 IND vs. ATL L 40 16 6 13 46.2 0 0 - 4 8 50.0 2 5 7 7 0 1 2 3 1
+p155
+aVLuis Scola IND 04/26/2014 IND @ ATL W 21 4 2 7 28.6 0 0 - 0 0 - 1 4 5 2 0 0 0 0 0
+p156
+aVIan Mahinmi IND 04/26/2014 IND @ ATL W 15 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 2 0 4 -5
+p157
+aVEvan Turner IND 04/26/2014 IND @ ATL W 21 11 4 8 50.0 1 2 50.0 2 2 100.0 0 2 2 4 0 0 2 2 -1
+p158
+aVDavid West IND 04/26/2014 IND @ ATL W 35 18 7 13 53.8 1 1 100.0 3 6 50.0 0 5 5 2 3 2 1 1 13
+p159
+aVPaul George IND 04/26/2014 IND @ ATL W 44 24 10 18 55.6 4 7 57.1 0 2 0.0 1 9 10 5 0 2 2 3 6
+p160
+aVGeorge Hill IND 04/26/2014 IND @ ATL W 36 15 5 8 62.5 2 4 50.0 3 4 75.0 1 2 3 5 2 1 1 3 9
+p161
+aVLance Stephenson IND 04/26/2014 IND @ ATL W 26 5 2 9 22.2 1 7 14.3 0 0 - 0 9 9 1 0 2 4 3 1
+p162
+aVRoy Hibbert IND 04/26/2014 IND @ ATL W 25 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 2 0 2 -2
+p163
+aVCJ Watson IND 04/26/2014 IND @ ATL W 18 6 3 8 37.5 0 2 0.0 0 0 - 1 2 3 3 2 0 0 1 -6
+p164
+aVRoy Hibbert IND 04/24/2014 IND @ ATL L 19 4 2 9 22.2 0 0 - 0 0 - 2 0 2 1 0 0 2 3 -8
+p165
+aVCJ Watson IND 04/24/2014 IND @ ATL L 22 6 2 6 33.3 1 3 33.3 1 1 100.0 0 4 4 2 3 0 1 2 2
+p166
+aVGeorge Hill IND 04/24/2014 IND @ ATL L 36 4 1 11 9.1 0 3 0.0 2 2 100.0 0 3 3 4 1 0 2 3 -13
+p167
+aVChris Copeland IND 04/24/2014 IND @ ATL L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p168
+aVDavid West IND 04/24/2014 IND @ ATL L 37 16 7 13 53.8 0 0 - 2 2 100.0 1 6 7 5 1 0 3 1 -6
+p169
+aVPaul George IND 04/24/2014 IND @ ATL L 36 12 3 11 27.3 1 4 25.0 5 6 83.3 1 13 14 4 0 0 3 3 -16
+p170
+aVIan Mahinmi IND 04/24/2014 IND @ ATL L 20 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 0 2 0 2 -3
+p171
+aVLance Stephenson IND 04/24/2014 IND @ ATL L 41 21 8 16 50.0 2 6 33.3 3 6 50.0 2 11 13 4 3 0 2 4 -7
+p172
+aVEvan Turner IND 04/24/2014 IND @ ATL L 8 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 -5
+p173
+aVLuis Scola IND 04/24/2014 IND @ ATL L 20 17 7 11 63.6 0 1 0.0 3 4 75.0 1 2 3 0 0 0 0 3 -9
+p174
+aVGeorge Hill IND 04/22/2014 IND vs. ATL W 33 15 5 8 62.5 0 2 0.0 5 6 83.3 1 3 4 2 0 0 2 3 22
+p175
+aVDavid West IND 04/22/2014 IND vs. ATL W 24 8 4 5 80.0 0 0 - 0 0 - 0 2 2 6 1 1 1 4 7
+p176
+aVChris Copeland IND 04/22/2014 IND vs. ATL W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p177
+aVDonald Sloan IND 04/22/2014 IND vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p178
+aVRoy Hibbert IND 04/22/2014 IND vs. ATL W 24 6 1 7 14.3 0 0 - 4 4 100.0 2 2 4 1 0 0 1 1 12
+p179
+aVLavoy Allen IND 04/22/2014 IND vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p180
+aVPaul George IND 04/22/2014 IND vs. ATL W 39 27 9 16 56.3 5 7 71.4 4 4 100.0 1 9 10 6 4 0 1 0 29
+p181
+aVLuis Scola IND 04/22/2014 IND vs. ATL W 19 20 9 14 64.3 0 0 - 2 4 50.0 4 3 7 1 1 0 2 2 17
+p182
+aVCJ Watson IND 04/22/2014 IND vs. ATL W 28 10 2 5 40.0 2 4 50.0 4 6 66.7 0 5 5 2 2 0 2 1 16
+p183
+aVLance Stephenson IND 04/22/2014 IND vs. ATL W 25 7 3 6 50.0 0 2 0.0 1 1 100.0 0 3 3 5 0 0 3 1 3
+p184
+aVIan Mahinmi IND 04/22/2014 IND vs. ATL W 20 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 3 1 4 8
+p185
+aVEvan Turner IND 04/22/2014 IND vs. ATL W 11 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 1 1 -12
+p186
+aVRasual Butler IND 04/22/2014 IND vs. ATL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p187
+aVDavid West IND 04/19/2014 IND vs. ATL L 29 8 4 10 40.0 0 1 0.0 0 0 - 2 1 3 4 0 1 3 4 4
+p188
+aVIan Mahinmi IND 04/19/2014 IND vs. ATL L 17 5 1 2 50.0 0 0 - 3 4 75.0 3 3 6 0 0 1 2 3 5
+p189
+aVPaul George IND 04/19/2014 IND vs. ATL L 41 24 6 18 33.3 3 8 37.5 9 12 75.0 4 6 10 5 4 2 2 3 -1
+p190
+aVEvan Turner IND 04/19/2014 IND vs. ATL L 18 9 4 6 66.7 1 1 100.0 0 0 - 0 7 7 3 0 0 2 2 -3
+p191
+aVRoy Hibbert IND 04/19/2014 IND vs. ATL L 30 8 4 9 44.4 0 1 0.0 0 2 0.0 2 6 8 0 0 0 4 5 -11
+p192
+aVGeorge Hill IND 04/19/2014 IND vs. ATL L 35 12 5 8 62.5 0 2 0.0 2 3 66.7 0 3 3 4 1 0 0 2 -11
+p193
+aVLuis Scola IND 04/19/2014 IND vs. ATL L 19 2 0 6 0.0 0 0 - 2 2 100.0 2 0 2 0 2 0 0 3 -12
+p194
+aVCJ Watson IND 04/19/2014 IND vs. ATL L 16 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 2 0 0 0 4 -3
+p195
+aVLance Stephenson IND 04/19/2014 IND vs. ATL L 35 19 8 18 44.4 3 6 50.0 0 0 - 1 6 7 1 1 0 2 3 -8
+p196
+a.

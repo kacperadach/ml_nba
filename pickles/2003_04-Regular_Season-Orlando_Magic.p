@@ -1,0 +1,1712 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDeShawn Stevenson ORL 04/14/2004 ORL vs. PHI W 38 10 3 7 42.9 0 0 - 4 6 66.7 0 7 7 5 2 1 2 0 2
+p2
+aVSteven Hunter ORL 04/14/2004 ORL vs. PHI W 14 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 2 1 2 5
+p3
+aVDerrick Dial ORL 04/14/2004 ORL vs. PHI W 8 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 7
+p4
+aVDrew Gooden ORL 04/14/2004 ORL vs. PHI W 13 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 2 1 0 1 0 7
+p5
+aVTyronn Lue ORL 04/14/2004 ORL vs. PHI W 33 17 7 15 46.7 2 6 33.3 1 2 50.0 0 1 1 5 1 0 0 1 3
+p6
+aVJuwan Howard ORL 04/14/2004 ORL vs. PHI W 35 26 9 21 42.9 0 0 - 8 8 100.0 1 6 7 1 1 0 4 5 -1
+p7
+aVReece Gaines ORL 04/14/2004 ORL vs. PHI W 15 5 2 8 25.0 0 2 0.0 1 1 100.0 2 0 2 2 1 0 2 0 3
+p8
+aVAndrew DeClercq ORL 04/14/2004 ORL vs. PHI W 33 12 4 7 57.1 0 0 - 4 4 100.0 7 4 11 1 1 1 2 5 1
+p9
+aVKeith Bogans ORL 04/14/2004 ORL vs. PHI W 34 3 1 5 20.0 1 1 100.0 0 0 - 0 6 6 0 1 0 1 1 3
+p10
+aVBritton Johnsen ORL 04/14/2004 ORL vs. PHI W 17 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 0 1 0 0 2 0
+p11
+aVZaza Pachulia ORL 04/12/2004 ORL @ CHI W 9 4 1 2 50.0 0 0 - 2 4 50.0 4 1 5 0 0 0 1 3 -2
+p12
+aVSteven Hunter ORL 04/12/2004 ORL @ CHI W 9 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 0 2 0 2 3
+p13
+aVBritton Johnsen ORL 04/12/2004 ORL @ CHI W 23 4 2 2 100.0 0 0 - 0 0 - 2 7 9 0 0 0 0 1 2
+p14
+aVReece Gaines ORL 04/12/2004 ORL @ CHI W 33 8 3 5 60.0 0 1 0.0 2 2 100.0 0 6 6 2 0 0 2 2 11
+p15
+aVDeShawn Stevenson ORL 04/12/2004 ORL @ CHI W 35 13 5 16 31.3 0 1 0.0 3 4 75.0 2 5 7 5 1 0 0 2 2
+p16
+aVKeith Bogans ORL 04/12/2004 ORL @ CHI W 38 11 5 11 45.5 1 1 100.0 0 2 0.0 0 2 2 6 1 0 0 1 13
+p17
+aVDrew Gooden ORL 04/12/2004 ORL @ CHI W 20 7 2 12 16.7 0 1 0.0 3 5 60.0 3 5 8 2 0 1 1 3 -3
+p18
+aVDerrick Dial ORL 04/12/2004 ORL @ CHI W 22 4 0 9 0.0 0 3 0.0 4 6 66.7 2 4 6 1 2 0 0 1 0
+p19
+aVAndrew DeClercq ORL 04/12/2004 ORL @ CHI W 20 0 0 2 0.0 0 0 - 0 0 - 0 6 6 0 1 1 0 3 11
+p20
+aVJuwan Howard ORL 04/12/2004 ORL @ CHI W 31 38 13 19 68.4 0 0 - 12 14 85.7 0 2 2 2 1 0 2 4 8
+p21
+aVDrew Gooden ORL 04/10/2004 ORL vs. DET L 36 14 6 13 46.2 0 3 0.0 2 2 100.0 1 6 7 2 0 1 4 2 -4
+p22
+aVDeShawn Stevenson ORL 04/10/2004 ORL vs. DET L 36 21 10 15 66.7 1 2 50.0 0 0 - 1 5 6 2 0 0 1 2 -11
+p23
+aVDerrick Dial ORL 04/10/2004 ORL vs. DET L 11 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p24
+aVTyronn Lue ORL 04/10/2004 ORL vs. DET L 21 10 5 8 62.5 0 1 0.0 0 0 - 0 1 1 2 1 0 4 0 -20
+p25
+aVKeith Bogans ORL 04/10/2004 ORL vs. DET L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -12
+p26
+aVJuwan Howard ORL 04/10/2004 ORL vs. DET L 36 12 5 11 45.5 0 0 - 2 2 100.0 2 2 4 4 0 1 3 4 -19
+p27
+aVZaza Pachulia ORL 04/10/2004 ORL vs. DET L 17 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 1 0 0 0 -4
+p28
+aVBritton Johnsen ORL 04/10/2004 ORL vs. DET L 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 2 8
+p29
+aVSteven Hunter ORL 04/10/2004 ORL vs. DET L 21 4 2 5 40.0 0 0 - 0 1 0.0 0 3 3 0 0 4 0 4 -2
+p30
+aVAndrew DeClercq ORL 04/10/2004 ORL vs. DET L 15 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 1 0 2 2 -9
+p31
+aVReece Gaines ORL 04/10/2004 ORL vs. DET L 27 14 5 10 50.0 2 3 66.7 2 4 50.0 1 3 4 4 0 0 0 0 8
+p32
+aVAndrew DeClercq ORL 04/08/2004 ORL @ NJN L 13 2 1 1 100.0 0 0 - 0 0 - 2 5 7 1 1 0 2 4 -1
+p33
+aVReece Gaines ORL 04/08/2004 ORL @ NJN L 11 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 0 0 0 0 3 -9
+p34
+aVJuwan Howard ORL 04/08/2004 ORL @ NJN L 34 21 8 17 47.1 0 0 - 5 5 100.0 1 5 6 1 1 0 1 2 -12
+p35
+aVSean Rooks ORL 04/08/2004 ORL @ NJN L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p36
+aVDrew Gooden ORL 04/08/2004 ORL @ NJN L 30 20 8 15 53.3 0 1 0.0 4 6 66.7 6 6 12 1 1 1 3 1 -26
+p37
+aVKeith Bogans ORL 04/08/2004 ORL @ NJN L 45 10 4 13 30.8 0 6 0.0 2 2 100.0 1 5 6 1 1 0 1 4 -24
+p38
+aVTyronn Lue ORL 04/08/2004 ORL @ NJN L 37 15 5 13 38.5 1 2 50.0 4 5 80.0 0 3 3 6 2 0 5 0 -11
+p39
+aVBritton Johnsen ORL 04/08/2004 ORL @ NJN L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -3
+p40
+aVDeShawn Stevenson ORL 04/08/2004 ORL @ NJN L 41 6 2 8 25.0 0 0 - 2 2 100.0 1 3 4 5 2 0 1 0 -10
+p41
+aVZaza Pachulia ORL 04/08/2004 ORL @ NJN L 15 3 1 4 25.0 0 0 - 1 4 25.0 0 3 3 1 0 1 0 5 -10
+p42
+aVDeShawn Stevenson ORL 04/06/2004 ORL @ DET L 38 11 3 13 23.1 0 4 0.0 5 7 71.4 1 5 6 0 1 0 3 2 -12
+p43
+aVBritton Johnsen ORL 04/06/2004 ORL @ DET L 18 0 0 5 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -7
+p44
+aVSean Rooks ORL 04/06/2004 ORL @ DET L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -6
+p45
+aVZaza Pachulia ORL 04/06/2004 ORL @ DET L 12 7 3 4 75.0 0 0 - 1 1 100.0 3 3 6 1 0 0 0 0 3
+p46
+aVDrew Gooden ORL 04/06/2004 ORL @ DET L 27 10 3 11 27.3 0 2 0.0 4 8 50.0 2 3 5 0 2 0 3 5 -21
+p47
+aVKeith Bogans ORL 04/06/2004 ORL @ DET L 27 15 5 12 41.7 4 7 57.1 1 2 50.0 3 6 9 3 0 0 2 2 -4
+p48
+aVAndrew DeClercq ORL 04/06/2004 ORL @ DET L 28 3 1 5 20.0 0 0 - 1 1 100.0 3 3 6 1 0 2 1 2 -8
+p49
+aVJuwan Howard ORL 04/06/2004 ORL @ DET L 32 14 6 13 46.2 0 0 - 2 2 100.0 2 2 4 3 0 1 2 4 -9
+p50
+aVDerrick Dial ORL 04/06/2004 ORL @ DET L 14 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 1 -2
+p51
+aVTyronn Lue ORL 04/06/2004 ORL @ DET L 36 21 9 14 64.3 2 3 66.7 1 1 100.0 0 0 0 4 3 0 3 1 -14
+p52
+aVTyronn Lue ORL 04/02/2004 ORL vs. ATL L 39 11 4 15 26.7 0 3 0.0 3 3 100.0 0 3 3 6 2 1 2 2 -1
+p53
+aVReece Gaines ORL 04/02/2004 ORL vs. ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -8
+p54
+aVSean Rooks ORL 04/02/2004 ORL vs. ATL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -13
+p55
+aVKeith Bogans ORL 04/02/2004 ORL vs. ATL L 27 6 2 8 25.0 2 4 50.0 0 0 - 1 4 5 2 1 0 2 6 -13
+p56
+aVDeShawn Stevenson ORL 04/02/2004 ORL vs. ATL L 40 18 6 11 54.5 4 7 57.1 2 2 100.0 1 2 3 1 0 0 3 5 5
+p57
+aVDrew Gooden ORL 04/02/2004 ORL vs. ATL L 18 10 4 10 40.0 0 0 - 2 5 40.0 1 2 3 1 0 0 1 0 -17
+p58
+aVJuwan Howard ORL 04/02/2004 ORL vs. ATL L 43 33 12 26 46.2 0 0 - 9 11 81.8 3 8 11 3 1 0 5 2 0
+p59
+aVBritton Johnsen ORL 04/02/2004 ORL vs. ATL L 30 4 2 7 28.6 0 2 0.0 0 0 - 2 3 5 0 1 0 0 2 -2
+p60
+aVDerrick Dial ORL 04/02/2004 ORL vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p61
+aVAndrew DeClercq ORL 04/02/2004 ORL vs. ATL L 30 5 1 4 25.0 0 0 - 3 4 75.0 8 9 17 1 3 0 0 6 16
+p62
+aVAndrew DeClercq ORL 03/31/2004 ORL vs. CHI L 19 4 2 3 66.7 0 0 - 0 0 - 3 3 6 0 1 0 1 3 4
+p63
+aVDrew Gooden ORL 03/31/2004 ORL vs. CHI L 38 14 6 17 35.3 1 3 33.3 1 2 50.0 2 12 14 0 0 0 4 2 -19
+p64
+aVSteven Hunter ORL 03/31/2004 ORL vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p65
+aVKeith Bogans ORL 03/31/2004 ORL vs. CHI L 30 10 3 7 42.9 1 4 25.0 3 4 75.0 4 5 9 2 0 0 3 1 -17
+p66
+aVSean Rooks ORL 03/31/2004 ORL vs. CHI L 10 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -18
+p67
+aVZaza Pachulia ORL 03/31/2004 ORL vs. CHI L 9 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 1 0 0 1 4
+p68
+aVBritton Johnsen ORL 03/31/2004 ORL vs. CHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -5
+p69
+aVReece Gaines ORL 03/31/2004 ORL vs. CHI L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -9
+p70
+aVJuwan Howard ORL 03/31/2004 ORL vs. CHI L 38 26 11 20 55.0 0 0 - 4 4 100.0 2 5 7 3 2 0 2 3 -4
+p71
+aVTyronn Lue ORL 03/31/2004 ORL vs. CHI L 36 23 9 20 45.0 1 3 33.3 4 5 80.0 2 1 3 3 1 0 3 4 -10
+p72
+aVDeShawn Stevenson ORL 03/31/2004 ORL vs. CHI L 39 12 3 12 25.0 0 2 0.0 6 8 75.0 2 2 4 3 0 0 3 3 -12
+p73
+aVJuwan Howard ORL 03/28/2004 ORL vs. DAL L 34 16 6 17 35.3 0 0 - 4 4 100.0 3 7 10 1 0 0 1 2 -21
+p74
+aVDeShawn Stevenson ORL 03/28/2004 ORL vs. DAL L 38 8 3 15 20.0 1 2 50.0 1 2 50.0 2 3 5 2 1 0 3 2 -30
+p75
+aVZaza Pachulia ORL 03/28/2004 ORL vs. DAL L 8 4 1 5 20.0 0 0 - 2 4 50.0 3 1 4 0 0 0 1 0 2
+p76
+aVTyronn Lue ORL 03/28/2004 ORL vs. DAL L 38 19 6 12 50.0 3 4 75.0 4 4 100.0 2 2 4 5 1 0 2 1 -24
+p77
+aVKeith Bogans ORL 03/28/2004 ORL vs. DAL L 41 9 4 13 30.8 1 7 14.3 0 2 0.0 1 5 6 1 0 0 1 2 -25
+p78
+aVDrew Gooden ORL 03/28/2004 ORL vs. DAL L 33 20 9 16 56.3 0 0 - 2 2 100.0 3 7 10 0 0 1 4 1 -20
+p79
+aVSean Rooks ORL 03/28/2004 ORL vs. DAL L 12 4 1 4 25.0 0 1 0.0 2 2 100.0 1 0 1 2 0 0 0 2 -13
+p80
+aVAndrew DeClercq ORL 03/28/2004 ORL vs. DAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p81
+aVBritton Johnsen ORL 03/28/2004 ORL vs. DAL L 25 4 1 8 12.5 0 1 0.0 2 2 100.0 1 2 3 2 0 0 0 2 -12
+p82
+aVReece Gaines ORL 03/28/2004 ORL vs. DAL L 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -5
+p83
+aVTyronn Lue ORL 03/26/2004 ORL vs. IND L 38 32 13 19 68.4 2 3 66.7 4 4 100.0 0 1 1 3 1 0 5 4 -8
+p84
+aVDeShawn Stevenson ORL 03/26/2004 ORL vs. IND L 27 2 1 11 9.1 0 2 0.0 0 0 - 1 4 5 3 1 0 3 1 -24
+p85
+aVAndrew DeClercq ORL 03/26/2004 ORL vs. IND L 11 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 2 0 0 2 3
+p86
+aVReece Gaines ORL 03/26/2004 ORL vs. IND L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 2 0
+p87
+aVZaza Pachulia ORL 03/26/2004 ORL vs. IND L 22 8 2 5 40.0 0 0 - 4 6 66.7 2 7 9 0 1 1 2 1 -10
+p88
+aVDrew Gooden ORL 03/26/2004 ORL vs. IND L 36 6 3 6 50.0 0 2 0.0 0 0 - 2 2 4 1 0 1 3 2 -15
+p89
+aVJuwan Howard ORL 03/26/2004 ORL vs. IND L 45 24 9 22 40.9 0 0 - 6 8 75.0 4 4 8 1 0 0 3 4 -8
+p90
+aVKeith Bogans ORL 03/26/2004 ORL vs. IND L 33 14 6 7 85.7 2 3 66.7 0 0 - 1 3 4 1 1 0 2 2 -5
+p91
+aVBritton Johnsen ORL 03/26/2004 ORL vs. IND L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -6
+p92
+aVSteven Hunter ORL 03/26/2004 ORL vs. IND L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -2
+p93
+aVBritton Johnsen ORL 03/24/2004 ORL vs. MIA L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p94
+aVDrew Gooden ORL 03/24/2004 ORL vs. MIA L 31 23 9 18 50.0 0 3 0.0 5 6 83.3 2 5 7 1 0 2 1 2 -1
+p95
+aVDeShawn Stevenson ORL 03/24/2004 ORL vs. MIA L 30 12 4 7 57.1 0 1 0.0 4 4 100.0 0 3 3 4 3 0 5 2 -12
+p96
+aVTyronn Lue ORL 03/24/2004 ORL vs. MIA L 28 9 3 8 37.5 3 5 60.0 0 0 - 0 1 1 1 1 0 2 2 -20
+p97
+aVReece Gaines ORL 03/24/2004 ORL vs. MIA L 16 0 0 3 0.0 0 0 - 0 0 - 1 0 1 3 1 0 0 1 0
+p98
+aVKeith Bogans ORL 03/24/2004 ORL vs. MIA L 18 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 1 -3
+p99
+aVZaza Pachulia ORL 03/24/2004 ORL vs. MIA L 16 4 1 3 33.3 0 0 - 2 3 66.7 2 5 7 0 0 0 2 1 3
+p100
+aVJuwan Howard ORL 03/24/2004 ORL vs. MIA L 33 11 4 13 30.8 0 0 - 3 3 100.0 2 4 6 1 0 0 2 3 -24
+p101
+aVTracy McGrady ORL 03/24/2004 ORL vs. MIA L 40 18 7 17 41.2 3 5 60.0 1 1 100.0 0 1 1 4 0 0 1 3 -12
+p102
+aVAndrew DeClercq ORL 03/24/2004 ORL vs. MIA L 16 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 1 3 0 6 -8
+p103
+aVReece Gaines ORL 03/21/2004 ORL @ SEA L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p104
+aVSteven Hunter ORL 03/21/2004 ORL @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p105
+aVDeShawn Stevenson ORL 03/21/2004 ORL @ SEA L 38 10 3 11 27.3 1 1 100.0 3 5 60.0 0 2 2 4 0 0 1 0 -11
+p106
+aVAndrew DeClercq ORL 03/21/2004 ORL @ SEA L 15 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 1 0 0 2 -5
+p107
+aVDrew Gooden ORL 03/21/2004 ORL @ SEA L 35 17 8 12 66.7 1 3 33.3 0 2 0.0 1 7 8 2 1 2 3 3 -15
+p108
+aVSean Rooks ORL 03/21/2004 ORL @ SEA L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 1 4
+p109
+aVJuwan Howard ORL 03/21/2004 ORL @ SEA L 33 20 7 18 38.9 0 0 - 6 7 85.7 4 5 9 1 0 0 3 4 -17
+p110
+aVKeith Bogans ORL 03/21/2004 ORL @ SEA L 32 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 1 0 0 2 -10
+p111
+aVBritton Johnsen ORL 03/21/2004 ORL @ SEA L 23 2 1 4 25.0 0 3 0.0 0 2 0.0 0 3 3 0 1 0 3 1 -13
+p112
+aVTyronn Lue ORL 03/21/2004 ORL @ SEA L 35 11 3 14 21.4 2 5 40.0 3 4 75.0 0 2 2 4 0 0 1 2 -16
+p113
+aVReece Gaines ORL 03/20/2004 ORL @ POR L 12 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 1 0 0 0 0 0
+p114
+aVKeith Bogans ORL 03/20/2004 ORL @ POR L 30 12 5 13 38.5 2 6 33.3 0 0 - 2 2 4 1 1 0 2 1 -16
+p115
+aVZaza Pachulia ORL 03/20/2004 ORL @ POR L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p116
+aVSean Rooks ORL 03/20/2004 ORL @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p117
+aVDrew Gooden ORL 03/20/2004 ORL @ POR L 23 14 5 15 33.3 0 2 0.0 4 4 100.0 2 2 4 0 0 0 1 3 -12
+p118
+aVAndrew DeClercq ORL 03/20/2004 ORL @ POR L 24 2 1 6 16.7 0 0 - 0 0 - 5 1 6 1 2 0 0 3 -4
+p119
+aVTyronn Lue ORL 03/20/2004 ORL @ POR L 36 4 1 11 9.1 0 3 0.0 2 3 66.7 1 4 5 8 1 0 2 2 -17
+p120
+aVBritton Johnsen ORL 03/20/2004 ORL @ POR L 26 8 4 9 44.4 0 1 0.0 0 0 - 6 1 7 0 0 0 3 2 -12
+p121
+aVSteven Hunter ORL 03/20/2004 ORL @ POR L 6 0 0 0 - 0 0 - 0 4 0.0 1 2 3 0 0 0 0 0 3
+p122
+aVJuwan Howard ORL 03/20/2004 ORL @ POR L 37 21 8 15 53.3 0 0 - 5 6 83.3 3 6 9 4 3 0 4 4 -19
+p123
+aVDeShawn Stevenson ORL 03/20/2004 ORL @ POR L 40 12 4 14 28.6 0 2 0.0 4 6 66.7 2 2 4 2 0 0 1 2 -12
+p124
+aVSteven Hunter ORL 03/17/2004 ORL @ GSW L 11 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 1 0 2 -6
+p125
+aVBritton Johnsen ORL 03/17/2004 ORL @ GSW L 7 0 0 2 0.0 0 1 0.0 0 2 0.0 0 0 0 0 1 0 2 0 -11
+p126
+aVTracy McGrady ORL 03/17/2004 ORL @ GSW L 39 18 5 14 35.7 2 5 40.0 6 8 75.0 0 7 7 10 0 0 1 1 -23
+p127
+aVDrew Gooden ORL 03/17/2004 ORL @ GSW L 16 6 3 9 33.3 0 0 - 0 0 - 0 3 3 1 1 0 2 6 -1
+p128
+aVTyronn Lue ORL 03/17/2004 ORL @ GSW L 28 9 3 10 30.0 2 4 50.0 1 1 100.0 0 0 0 2 1 0 2 3 -18
+p129
+aVReece Gaines ORL 03/17/2004 ORL @ GSW L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p130
+aVDeShawn Stevenson ORL 03/17/2004 ORL @ GSW L 35 10 4 12 33.3 1 1 100.0 1 2 50.0 2 3 5 0 0 0 1 0 -11
+p131
+aVJuwan Howard ORL 03/17/2004 ORL @ GSW L 36 18 7 14 50.0 0 0 - 4 5 80.0 4 5 9 1 0 0 5 4 -21
+p132
+aVKeith Bogans ORL 03/17/2004 ORL @ GSW L 33 11 4 7 57.1 1 1 100.0 2 2 100.0 1 2 3 0 2 0 3 2 -15
+p133
+aVZaza Pachulia ORL 03/17/2004 ORL @ GSW L 8 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 1 0 1 0 1
+p134
+aVSean Rooks ORL 03/17/2004 ORL @ GSW L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 5
+p135
+aVAndrew DeClercq ORL 03/17/2004 ORL @ GSW L 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 0 0 4 -22
+p136
+aVBritton Johnsen ORL 03/15/2004 ORL @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p137
+aVAndrew DeClercq ORL 03/15/2004 ORL @ LAL L 26 4 2 3 66.7 0 0 - 0 0 - 4 4 8 4 0 0 1 6 -6
+p138
+aVZaza Pachulia ORL 03/15/2004 ORL @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p139
+aVTracy McGrady ORL 03/15/2004 ORL @ LAL L 48 37 13 32 40.6 4 13 30.8 7 12 58.3 2 5 7 10 0 2 2 5 1
+p140
+aVTyronn Lue ORL 03/15/2004 ORL @ LAL L 27 8 3 9 33.3 0 3 0.0 2 2 100.0 0 4 4 3 0 0 1 4 -21
+p141
+aVDeShawn Stevenson ORL 03/15/2004 ORL @ LAL L 49 18 8 16 50.0 0 2 0.0 2 4 50.0 4 2 6 4 0 0 0 3 -1
+p142
+aVKeith Bogans ORL 03/15/2004 ORL @ LAL L 33 6 2 3 66.7 0 0 - 2 2 100.0 3 5 8 1 1 0 0 1 16
+p143
+aVSean Rooks ORL 03/15/2004 ORL @ LAL L 21 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 1 0 0 5 10
+p144
+aVJuwan Howard ORL 03/15/2004 ORL @ LAL L 42 29 12 18 66.7 0 0 - 5 9 55.6 2 7 9 2 1 1 4 5 -1
+p145
+aVDrew Gooden ORL 03/15/2004 ORL @ LAL L 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -4
+p146
+aVSteven Hunter ORL 03/13/2004 ORL vs. SEA L 7 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -6
+p147
+aVDrew Gooden ORL 03/13/2004 ORL vs. SEA L 20 4 1 6 16.7 0 0 - 2 4 50.0 3 3 6 1 0 0 0 0 -3
+p148
+aVTyronn Lue ORL 03/13/2004 ORL vs. SEA L 38 19 7 11 63.6 3 5 60.0 2 2 100.0 1 1 2 2 0 0 2 2 -2
+p149
+aVZaza Pachulia ORL 03/13/2004 ORL vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p150
+aVBritton Johnsen ORL 03/13/2004 ORL vs. SEA L 9 4 2 3 66.7 0 0 - 0 2 0.0 1 0 1 1 0 0 0 1 -11
+p151
+aVAndrew DeClercq ORL 03/13/2004 ORL vs. SEA L 27 5 1 2 50.0 0 0 - 3 4 75.0 3 4 7 0 0 0 2 6 -2
+p152
+aVJuwan Howard ORL 03/13/2004 ORL vs. SEA L 33 11 4 9 44.4 0 0 - 3 4 75.0 2 0 2 1 0 1 2 4 -6
+p153
+aVTracy McGrady ORL 03/13/2004 ORL vs. SEA L 41 40 12 29 41.4 3 10 30.0 13 13 100.0 2 4 6 3 5 1 1 1 -10
+p154
+aVDeShawn Stevenson ORL 03/13/2004 ORL vs. SEA L 27 10 5 8 62.5 0 1 0.0 0 0 - 1 6 7 2 0 0 0 1 9
+p155
+aVKeith Bogans ORL 03/13/2004 ORL vs. SEA L 19 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -16
+p156
+aVSean Rooks ORL 03/13/2004 ORL vs. SEA L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p157
+aVReece Gaines ORL 03/13/2004 ORL vs. SEA L 10 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 3 1 -12
+p158
+aVTyronn Lue ORL 03/10/2004 ORL vs. WAS W 41 10 4 14 28.6 1 6 16.7 1 2 50.0 0 1 1 4 3 0 0 2 7
+p159
+aVSean Rooks ORL 03/10/2004 ORL vs. WAS W 16 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 2 13
+p160
+aVBritton Johnsen ORL 03/10/2004 ORL vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p161
+aVAndrew DeClercq ORL 03/10/2004 ORL vs. WAS W 25 2 1 2 50.0 0 0 - 0 0 - 4 3 7 0 1 2 1 4 3
+p162
+aVTracy McGrady ORL 03/10/2004 ORL vs. WAS W 46 62 20 37 54.1 5 14 35.7 17 26 65.4 3 7 10 5 1 0 6 1 10
+p163
+aVDeShawn Stevenson ORL 03/10/2004 ORL vs. WAS W 40 8 3 10 30.0 0 0 - 2 2 100.0 1 4 5 2 2 0 3 2 -4
+p164
+aVJuwan Howard ORL 03/10/2004 ORL vs. WAS W 44 14 5 19 26.3 0 0 - 4 6 66.7 5 10 15 4 2 0 1 5 -1
+p165
+aVSteven Hunter ORL 03/10/2004 ORL vs. WAS W 11 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 1 1 1 0 4 3
+p166
+aVKeith Bogans ORL 03/10/2004 ORL vs. WAS W 15 7 3 6 50.0 1 2 50.0 0 0 - 3 1 4 3 0 0 0 2 15
+p167
+aVJuwan Howard ORL 03/09/2004 ORL @ MIA L 39 24 10 16 62.5 0 0 - 4 4 100.0 1 9 10 2 1 0 5 4 -5
+p168
+aVReece Gaines ORL 03/09/2004 ORL @ MIA L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p169
+aVSean Rooks ORL 03/09/2004 ORL @ MIA L 16 7 3 6 50.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 3 -13
+p170
+aVTyronn Lue ORL 03/09/2004 ORL @ MIA L 39 4 2 10 20.0 0 2 0.0 0 0 - 1 3 4 7 1 0 0 4 -4
+p171
+aVSteven Hunter ORL 03/09/2004 ORL @ MIA L 15 5 2 3 66.7 0 0 - 1 2 50.0 1 7 8 0 0 2 1 3 1
+p172
+aVAndrew DeClercq ORL 03/09/2004 ORL @ MIA L 24 1 0 2 0.0 0 0 - 1 2 50.0 1 6 7 0 0 1 1 4 -7
+p173
+aVDeShawn Stevenson ORL 03/09/2004 ORL @ MIA L 36 18 8 15 53.3 2 5 40.0 0 0 - 0 4 4 3 0 0 2 3 -2
+p174
+aVTracy McGrady ORL 03/09/2004 ORL @ MIA L 39 26 10 21 47.6 2 7 28.6 4 6 66.7 0 5 5 8 2 0 4 3 -15
+p175
+aVDesmond Penigar ORL 03/09/2004 ORL @ MIA L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p176
+aVZaza Pachulia ORL 03/09/2004 ORL @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p177
+aVKeith Bogans ORL 03/09/2004 ORL @ MIA L 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 2 1 -9
+p178
+aVDesmond Penigar ORL 03/07/2004 ORL vs. SAC L 10 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 6
+p179
+aVTracy McGrady ORL 03/07/2004 ORL vs. SAC L 35 13 4 15 26.7 1 3 33.3 4 6 66.7 3 3 6 2 2 0 1 3 -27
+p180
+aVAndrew DeClercq ORL 03/07/2004 ORL vs. SAC L 22 4 2 6 33.3 0 0 - 0 0 - 2 5 7 0 1 1 1 5 -14
+p181
+aVSean Rooks ORL 03/07/2004 ORL vs. SAC L 17 5 2 6 33.3 0 0 - 1 1 100.0 0 7 7 1 0 0 0 1 5
+p182
+aVZaza Pachulia ORL 03/07/2004 ORL vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p183
+aVTyronn Lue ORL 03/07/2004 ORL vs. SAC L 36 13 6 12 50.0 1 3 33.3 0 0 - 0 4 4 8 0 0 4 3 -20
+p184
+aVReece Gaines ORL 03/07/2004 ORL vs. SAC L 4 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p185
+aVKeith Bogans ORL 03/07/2004 ORL vs. SAC L 21 8 3 7 42.9 1 3 33.3 1 1 100.0 0 1 1 1 0 0 0 1 5
+p186
+aVJuwan Howard ORL 03/07/2004 ORL vs. SAC L 43 26 11 25 44.0 0 0 - 4 4 100.0 1 7 8 4 1 1 3 3 -17
+p187
+aVDeShawn Stevenson ORL 03/07/2004 ORL vs. SAC L 38 13 5 10 50.0 0 1 0.0 3 3 100.0 3 4 7 3 1 0 1 1 -15
+p188
+aVSteven Hunter ORL 03/07/2004 ORL vs. SAC L 10 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -9
+p189
+aVReece Gaines ORL 03/05/2004 ORL vs. ATL W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -2
+p190
+aVTracy McGrady ORL 03/05/2004 ORL vs. ATL W 43 28 10 23 43.5 4 8 50.0 4 7 57.1 1 0 1 7 2 1 1 2 2
+p191
+aVDrew Gooden ORL 03/05/2004 ORL vs. ATL W 17 14 6 8 75.0 2 4 50.0 0 0 - 1 2 3 0 1 2 1 0 0
+p192
+aVSteven Hunter ORL 03/05/2004 ORL vs. ATL W 14 2 0 0 - 0 0 - 2 4 50.0 0 3 3 0 0 1 1 1 5
+p193
+aVDesmond Penigar ORL 03/05/2004 ORL vs. ATL W 15 6 2 3 66.7 0 0 - 2 2 100.0 0 5 5 0 0 1 2 3 8
+p194
+aVAndrew DeClercq ORL 03/05/2004 ORL vs. ATL W 16 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 1 0 0 0 -1
+p195
+aVKeith Bogans ORL 03/05/2004 ORL vs. ATL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -1
+p196
+aVDeShawn Stevenson ORL 03/05/2004 ORL vs. ATL W 38 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 1 2 0 1 5 9
+p197
+aVSean Rooks ORL 03/05/2004 ORL vs. ATL W 18 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 3 0 0 1 4 1
+p198
+aVTyronn Lue ORL 03/05/2004 ORL vs. ATL W 39 20 8 11 72.7 1 3 33.3 3 4 75.0 0 6 6 6 2 0 2 3 -1
+p199
+aVJuwan Howard ORL 03/05/2004 ORL vs. ATL W 31 16 8 16 50.0 0 0 - 0 0 - 1 4 5 1 0 1 1 3 5
+p200
+aVDesmond Penigar ORL 03/03/2004 ORL vs. MIL L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 5
+p201
+aVDeShawn Stevenson ORL 03/03/2004 ORL vs. MIL L 37 11 5 11 45.5 1 2 50.0 0 0 - 0 1 1 3 0 0 2 3 -10
+p202
+aVTracy McGrady ORL 03/03/2004 ORL vs. MIL L 37 31 11 27 40.7 5 15 33.3 4 5 80.0 2 6 8 4 1 0 2 1 -7
+p203
+aVKeith Bogans ORL 03/03/2004 ORL vs. MIL L 21 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 0 2 1 0 1 -6
+p204
+aVDrew Gooden ORL 03/03/2004 ORL vs. MIL L 21 12 5 14 35.7 1 2 50.0 1 2 50.0 3 4 7 1 0 3 1 2 1
+p205
+aVSteven Hunter ORL 03/03/2004 ORL vs. MIL L 26 8 4 5 80.0 0 0 - 0 2 0.0 4 1 5 2 0 3 0 2 -2
+p206
+aVJuwan Howard ORL 03/03/2004 ORL vs. MIL L 30 14 6 13 46.2 0 0 - 2 2 100.0 1 5 6 1 0 1 3 3 -10
+p207
+aVAndrew DeClercq ORL 03/03/2004 ORL vs. MIL L 15 4 1 2 50.0 0 0 - 2 2 100.0 1 6 7 0 1 1 1 2 -2
+p208
+aVTyronn Lue ORL 03/03/2004 ORL vs. MIL L 41 11 5 11 45.5 1 2 50.0 0 0 - 0 2 2 10 2 0 1 1 -6
+p209
+aVSean Rooks ORL 03/03/2004 ORL vs. MIL L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -3
+p210
+aVDesmond Penigar ORL 03/01/2004 ORL @ BOS L 14 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 4
+p211
+aVTyronn Lue ORL 03/01/2004 ORL @ BOS L 29 14 5 12 41.7 1 3 33.3 3 4 75.0 0 1 1 11 0 0 0 4 -17
+p212
+aVDrew Gooden ORL 03/01/2004 ORL @ BOS L 22 4 1 7 14.3 0 0 - 2 2 100.0 0 5 5 1 0 0 2 5 -15
+p213
+aVSean Rooks ORL 03/01/2004 ORL @ BOS L 27 6 3 10 30.0 0 0 - 0 0 - 3 2 5 3 0 1 1 2 -5
+p214
+aVTracy McGrady ORL 03/01/2004 ORL @ BOS L 33 29 11 28 39.3 2 8 25.0 5 8 62.5 4 4 8 4 2 0 2 2 -28
+p215
+aVDeShawn Stevenson ORL 03/01/2004 ORL @ BOS L 33 12 5 10 50.0 0 0 - 2 3 66.7 2 4 6 3 1 0 0 1 -11
+p216
+aVZaza Pachulia ORL 03/01/2004 ORL @ BOS L 10 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 10
+p217
+aVReece Gaines ORL 03/01/2004 ORL @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 6
+p218
+aVKeith Bogans ORL 03/01/2004 ORL @ BOS L 33 14 6 12 50.0 2 7 28.6 0 0 - 4 4 8 1 1 0 1 2 -24
+p219
+aVSteven Hunter ORL 03/01/2004 ORL @ BOS L 34 6 3 6 50.0 0 0 - 0 3 0.0 1 5 6 0 0 3 1 2 -25
+p220
+aVTyronn Lue ORL 02/28/2004 ORL @ ATL W 36 19 5 15 33.3 4 7 57.1 5 7 71.4 0 4 4 7 0 0 2 2 9
+p221
+aVSteven Hunter ORL 02/28/2004 ORL @ ATL W 18 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 0 3 0 3 0
+p222
+aVJuwan Howard ORL 02/28/2004 ORL @ ATL W 34 12 3 15 20.0 0 0 - 6 7 85.7 2 8 10 0 1 0 2 1 -4
+p223
+aVDrew Gooden ORL 02/28/2004 ORL @ ATL W 24 12 5 11 45.5 0 0 - 2 4 50.0 3 4 7 2 0 0 1 2 3
+p224
+aVTracy McGrady ORL 02/28/2004 ORL @ ATL W 41 30 11 25 44.0 3 12 25.0 5 6 83.3 4 8 12 4 4 0 2 3 -2
+p225
+aVDesmond Penigar ORL 02/28/2004 ORL @ ATL W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p226
+aVDeShawn Stevenson ORL 02/28/2004 ORL @ ATL W 32 12 5 10 50.0 0 1 0.0 2 2 100.0 0 5 5 0 1 0 2 3 5
+p227
+aVKeith Bogans ORL 02/28/2004 ORL @ ATL W 27 7 2 6 33.3 0 3 0.0 3 3 100.0 3 3 6 5 2 0 0 1 1
+p228
+aVSean Rooks ORL 02/28/2004 ORL @ ATL W 18 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 1 0 0 3 10
+p229
+aVRod Strickland ORL 02/28/2004 ORL @ ATL W 8 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 2
+p230
+aVDesmond Penigar ORL 02/27/2004 ORL vs. CLE L 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -9
+p231
+aVTracy McGrady ORL 02/27/2004 ORL vs. CLE L 46 35 11 32 34.4 3 12 25.0 10 13 76.9 1 3 4 8 3 0 1 3 -3
+p232
+aVJuwan Howard ORL 02/27/2004 ORL vs. CLE L 37 14 5 11 45.5 0 0 - 4 4 100.0 1 5 6 0 0 0 3 4 -1
+p233
+aVKeith Bogans ORL 02/27/2004 ORL vs. CLE L 33 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 3 4 0 1 3 5
+p234
+aVSteven Hunter ORL 02/27/2004 ORL vs. CLE L 18 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 2 1 -8
+p235
+aVDeShawn Stevenson ORL 02/27/2004 ORL vs. CLE L 35 7 2 7 28.6 0 0 - 3 4 75.0 3 3 6 3 1 0 1 2 3
+p236
+aVTyronn Lue ORL 02/27/2004 ORL vs. CLE L 19 13 6 9 66.7 0 1 0.0 1 1 100.0 1 1 2 2 1 0 2 3 -7
+p237
+aVRod Strickland ORL 02/27/2004 ORL vs. CLE L 18 8 4 7 57.1 0 0 - 0 0 - 0 2 2 3 1 0 2 3 -6
+p238
+aVSean Rooks ORL 02/27/2004 ORL vs. CLE L 22 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 0 1 1 1 3 -7
+p239
+aVDrew Gooden ORL 02/27/2004 ORL vs. CLE L 28 14 7 11 63.6 0 0 - 0 0 - 4 10 14 1 0 0 3 6 8
+p240
+aVTyronn Lue ORL 02/24/2004 ORL vs. POR L 25 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 1 0
+p241
+aVJuwan Howard ORL 02/24/2004 ORL vs. POR L 36 10 4 11 36.4 0 0 - 2 4 50.0 4 6 10 0 0 0 3 4 -5
+p242
+aVSteven Hunter ORL 02/24/2004 ORL vs. POR L 28 11 5 10 50.0 0 0 - 1 4 25.0 3 5 8 1 1 1 0 1 -9
+p243
+aVRod Strickland ORL 02/24/2004 ORL vs. POR L 29 12 5 13 38.5 1 3 33.3 1 2 50.0 1 3 4 7 1 1 0 3 -1
+p244
+aVTracy McGrady ORL 02/24/2004 ORL vs. POR L 49 31 11 32 34.4 2 14 14.3 7 8 87.5 1 4 5 2 1 0 1 4 1
+p245
+aVDrew Gooden ORL 02/24/2004 ORL vs. POR L 17 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 1 2 0 1 4 3
+p246
+aVKeith Bogans ORL 02/24/2004 ORL vs. POR L 17 9 3 6 50.0 0 1 0.0 3 5 60.0 2 3 5 0 0 0 0 2 5
+p247
+aVDesmond Penigar ORL 02/24/2004 ORL vs. POR L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -4
+p248
+aVDeShawn Stevenson ORL 02/24/2004 ORL vs. POR L 37 8 4 8 50.0 0 0 - 0 2 0.0 3 1 4 4 2 0 0 1 -7
+p249
+aVSean Rooks ORL 02/24/2004 ORL vs. POR L 23 4 2 5 40.0 0 0 - 0 0 - 2 4 6 3 1 2 1 3 2
+p250
+aVDeShawn Stevenson ORL 02/22/2004 ORL @ DET W 26 10 5 8 62.5 0 1 0.0 0 1 0.0 1 1 2 0 2 0 0 4 13
+p251
+aVSean Rooks ORL 02/22/2004 ORL @ DET W 16 6 1 1 100.0 0 0 - 4 4 100.0 2 2 4 0 0 0 0 3 3
+p252
+aVJuwan Howard ORL 02/22/2004 ORL @ DET W 40 20 8 16 50.0 0 0 - 4 4 100.0 0 8 8 2 0 1 2 4 0
+p253
+aVRod Strickland ORL 02/22/2004 ORL @ DET W 23 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 6 0 0 2 0 12
+p254
+aVDesmond Penigar ORL 02/22/2004 ORL @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -5
+p255
+aVTyronn Lue ORL 02/22/2004 ORL @ DET W 25 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 1 1 0 1 4 -11
+p256
+aVTracy McGrady ORL 02/22/2004 ORL @ DET W 46 19 3 20 15.0 1 7 14.3 12 13 92.3 0 5 5 8 3 0 5 1 5
+p257
+aVDrew Gooden ORL 02/22/2004 ORL @ DET W 22 14 4 5 80.0 0 0 - 6 6 100.0 1 8 9 0 0 1 1 4 3
+p258
+aVSteven Hunter ORL 02/22/2004 ORL @ DET W 18 5 2 2 100.0 0 0 - 1 2 50.0 0 5 5 0 0 0 1 2 -4
+p259
+aVKeith Bogans ORL 02/22/2004 ORL @ DET W 21 3 1 3 33.3 1 3 33.3 0 0 - 2 1 3 0 0 0 0 1 -11
+p260
+aVDeShawn Stevenson ORL 02/20/2004 ORL vs. DEN W 30 10 5 10 50.0 0 0 - 0 2 0.0 3 2 5 2 1 0 1 4 3
+p261
+aVDrew Gooden ORL 02/20/2004 ORL vs. DEN W 26 16 8 13 61.5 0 0 - 0 6 0.0 3 9 12 1 1 1 2 2 12
+p262
+aVKeith Bogans ORL 02/20/2004 ORL vs. DEN W 28 9 3 9 33.3 1 4 25.0 2 2 100.0 4 4 8 1 1 0 1 2 -1
+p263
+aVJuwan Howard ORL 02/20/2004 ORL vs. DEN W 44 24 10 18 55.6 0 0 - 4 8 50.0 2 4 6 3 1 0 4 3 -2
+p264
+aVSteven Hunter ORL 02/20/2004 ORL vs. DEN W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 2 0 0 -9
+p265
+aVDesmond Penigar ORL 02/20/2004 ORL vs. DEN W 18 4 2 8 25.0 0 0 - 0 0 - 4 4 8 2 0 1 1 1 11
+p266
+aVTracy McGrady ORL 02/20/2004 ORL vs. DEN W 20 15 5 14 35.7 2 5 40.0 3 4 75.0 2 2 4 2 1 0 0 2 -6
+p267
+aVRod Strickland ORL 02/20/2004 ORL vs. DEN W 28 12 5 9 55.6 0 0 - 2 4 50.0 3 5 8 8 0 0 1 1 17
+p268
+aVZaza Pachulia ORL 02/20/2004 ORL vs. DEN W 19 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 0 0 0 4 7
+p269
+aVTyronn Lue ORL 02/20/2004 ORL vs. DEN W 21 8 3 5 60.0 0 1 0.0 2 3 66.7 0 0 0 3 1 0 2 3 -12
+p270
+aVShammond Williams ORL 02/18/2004 ORL vs. UTA W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 4
+p271
+aVJuwan Howard ORL 02/18/2004 ORL vs. UTA W 36 20 7 11 63.6 0 0 - 6 6 100.0 2 7 9 2 0 0 0 2 21
+p272
+aVSteven Hunter ORL 02/18/2004 ORL vs. UTA W 30 6 3 4 75.0 0 0 - 0 0 - 2 6 8 0 1 5 1 4 7
+p273
+aVTracy McGrady ORL 02/18/2004 ORL vs. UTA W 44 43 13 31 41.9 3 7 42.9 14 15 93.3 2 6 8 5 0 0 1 2 17
+p274
+aVGordan Giricek ORL 02/18/2004 ORL vs. UTA W 34 15 6 9 66.7 2 4 50.0 1 2 50.0 0 1 1 2 2 0 1 3 5
+p275
+aVRod Strickland ORL 02/18/2004 ORL vs. UTA W 16 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 4 0 0 2 3 -6
+p276
+aVKeith Bogans ORL 02/18/2004 ORL vs. UTA W 16 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 0 0 0 1 2 2
+p277
+aVTyronn Lue ORL 02/18/2004 ORL vs. UTA W 32 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 4 2 0 1 4 19
+p278
+aVDrew Gooden ORL 02/18/2004 ORL vs. UTA W 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 1 3 2 -8
+p279
+aVZaza Pachulia ORL 02/18/2004 ORL vs. UTA W 17 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 1 1 1 2 4
+p280
+aVTyronn Lue ORL 02/17/2004 ORL @ MIL L 20 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 5 0 0 0 2 -21
+p281
+aVZaza Pachulia ORL 02/17/2004 ORL @ MIL L 22 4 1 3 33.3 0 0 - 2 4 50.0 1 2 3 0 1 1 1 2 3
+p282
+aVShammond Williams ORL 02/17/2004 ORL @ MIL L 6 10 4 4 100.0 0 0 - 2 2 100.0 0 2 2 3 0 0 1 1 7
+p283
+aVKeith Bogans ORL 02/17/2004 ORL @ MIL L 30 8 3 7 42.9 2 4 50.0 0 0 - 1 1 2 0 0 0 2 3 -19
+p284
+aVTracy McGrady ORL 02/17/2004 ORL @ MIL L 36 41 15 31 48.4 3 9 33.3 8 11 72.7 2 6 8 3 1 1 5 1 -36
+p285
+aVDrew Gooden ORL 02/17/2004 ORL @ MIL L 28 8 4 8 50.0 0 0 - 0 0 - 2 4 6 2 1 0 2 4 -24
+p286
+aVSteven Hunter ORL 02/17/2004 ORL @ MIL L 18 2 1 2 50.0 0 0 - 0 2 0.0 1 5 6 1 0 0 0 3 2
+p287
+aVRod Strickland ORL 02/17/2004 ORL @ MIL L 19 6 1 3 33.3 1 1 100.0 3 4 75.0 0 2 2 5 1 0 0 0 -6
+p288
+aVGordan Giricek ORL 02/17/2004 ORL @ MIL L 24 8 3 9 33.3 0 2 0.0 2 2 100.0 1 1 2 1 2 0 1 3 2
+p289
+aVJuwan Howard ORL 02/17/2004 ORL @ MIL L 28 7 3 12 25.0 0 0 - 1 2 50.0 2 3 5 3 1 0 1 4 -27
+p290
+aVReece Gaines ORL 02/17/2004 ORL @ MIL L 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 4
+p291
+aVRod Strickland ORL 02/11/2004 ORL vs. MIA L 21 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 3 -13
+p292
+aVSteven Hunter ORL 02/11/2004 ORL vs. MIA L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p293
+aVKeith Bogans ORL 02/11/2004 ORL vs. MIA L 16 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 0 0 0 1 1 -18
+p294
+aVGordan Giricek ORL 02/11/2004 ORL vs. MIA L 34 14 5 10 50.0 1 3 33.3 3 3 100.0 1 4 5 1 2 1 3 2 1
+p295
+aVTyronn Lue ORL 02/11/2004 ORL vs. MIA L 26 10 4 5 80.0 2 2 100.0 0 0 - 0 3 3 3 2 0 0 2 0
+p296
+aVReece Gaines ORL 02/11/2004 ORL vs. MIA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p297
+aVZaza Pachulia ORL 02/11/2004 ORL vs. MIA L 19 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 2 0 1 0 2 -8
+p298
+aVTracy McGrady ORL 02/11/2004 ORL vs. MIA L 46 24 10 25 40.0 0 5 0.0 4 6 66.7 1 1 2 6 1 0 3 1 -9
+p299
+aVJuwan Howard ORL 02/11/2004 ORL vs. MIA L 41 22 8 16 50.0 0 0 - 6 6 100.0 2 0 2 6 1 0 3 4 0
+p300
+aVDrew Gooden ORL 02/11/2004 ORL vs. MIA L 29 16 5 8 62.5 0 1 0.0 6 8 75.0 2 4 6 1 2 1 0 2 -5
+p301
+aVTyronn Lue ORL 02/08/2004 ORL vs. LAL L 17 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 0 0 1 0 0
+p302
+aVJuwan Howard ORL 02/08/2004 ORL vs. LAL L 35 18 7 11 63.6 0 0 - 4 4 100.0 0 5 5 2 1 0 1 5 -4
+p303
+aVKeith Bogans ORL 02/08/2004 ORL vs. LAL L 25 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 2 0 1 1 2 -6
+p304
+aVTracy McGrady ORL 02/08/2004 ORL vs. LAL L 45 35 13 25 52.0 5 9 55.6 4 7 57.1 2 4 6 6 1 1 4 2 -2
+p305
+aVRod Strickland ORL 02/08/2004 ORL vs. LAL L 31 13 6 12 50.0 0 0 - 1 1 100.0 0 3 3 5 2 0 4 1 -2
+p306
+aVAndrew DeClercq ORL 02/08/2004 ORL vs. LAL L 31 7 3 6 50.0 0 0 - 1 1 100.0 0 5 5 1 1 0 0 3 4
+p307
+aVZaza Pachulia ORL 02/08/2004 ORL vs. LAL L 12 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 2 0 0 4 5
+p308
+aVGordan Giricek ORL 02/08/2004 ORL vs. LAL L 30 8 4 7 57.1 0 2 0.0 0 0 - 0 2 2 2 1 0 2 1 -6
+p309
+aVDrew Gooden ORL 02/08/2004 ORL vs. LAL L 14 6 1 4 25.0 1 1 100.0 3 4 75.0 0 2 2 1 0 1 0 2 1
+p310
+aVReece Gaines ORL 02/06/2004 ORL @ NJN L 19 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 1 1 0 1 0 0
+p311
+aVZaza Pachulia ORL 02/06/2004 ORL @ NJN L 26 11 3 9 33.3 0 0 - 5 6 83.3 4 5 9 0 0 1 2 2 -8
+p312
+aVRod Strickland ORL 02/06/2004 ORL @ NJN L 23 15 6 7 85.7 0 0 - 3 4 75.0 0 2 2 4 1 0 1 3 -18
+p313
+aVDrew Gooden ORL 02/06/2004 ORL @ NJN L 22 8 4 6 66.7 0 0 - 0 2 0.0 2 3 5 1 2 0 3 4 -22
+p314
+aVJuwan Howard ORL 02/06/2004 ORL @ NJN L 34 24 8 19 42.1 0 0 - 8 9 88.9 1 3 4 3 1 0 3 4 -19
+p315
+aVKeith Bogans ORL 02/06/2004 ORL @ NJN L 26 4 1 6 16.7 0 1 0.0 2 4 50.0 3 1 4 2 1 0 2 2 -15
+p316
+aVGordan Giricek ORL 02/06/2004 ORL @ NJN L 32 15 6 10 60.0 0 2 0.0 3 3 100.0 1 2 3 3 1 0 3 5 -6
+p317
+aVTyronn Lue ORL 02/06/2004 ORL @ NJN L 19 10 4 7 57.1 2 2 100.0 0 0 - 0 0 0 2 0 0 3 0 -13
+p318
+aVAndrew DeClercq ORL 02/06/2004 ORL @ NJN L 16 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -10
+p319
+aVSteven Hunter ORL 02/06/2004 ORL @ NJN L 6 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 8
+p320
+aVShammond Williams ORL 02/06/2004 ORL @ NJN L 17 2 1 3 33.3 0 0 - 0 0 - 0 3 3 3 0 1 1 1 -2
+p321
+aVDrew Gooden ORL 02/04/2004 ORL @ TOR L 25 13 3 10 30.0 0 0 - 7 10 70.0 1 5 6 1 1 1 1 3 -4
+p322
+aVReece Gaines ORL 02/04/2004 ORL @ TOR L 14 2 1 6 16.7 0 0 - 0 0 - 1 0 1 1 0 0 0 0 5
+p323
+aVGordan Giricek ORL 02/04/2004 ORL @ TOR L 44 12 5 16 31.3 0 2 0.0 2 2 100.0 1 3 4 1 0 0 2 2 -18
+p324
+aVRod Strickland ORL 02/04/2004 ORL @ TOR L 25 7 2 4 50.0 0 1 0.0 3 4 75.0 1 6 7 10 1 0 2 0 -20
+p325
+aVZaza Pachulia ORL 02/04/2004 ORL @ TOR L 21 14 6 8 75.0 0 0 - 2 4 50.0 3 2 5 1 0 0 1 3 0
+p326
+aVShammond Williams ORL 02/04/2004 ORL @ TOR L 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p327
+aVJuwan Howard ORL 02/04/2004 ORL @ TOR L 29 22 10 19 52.6 0 0 - 2 2 100.0 1 5 6 0 1 0 1 3 -21
+p328
+aVSteven Hunter ORL 02/04/2004 ORL @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p329
+aVTyronn Lue ORL 02/04/2004 ORL @ TOR L 9 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 0 -5
+p330
+aVAndrew DeClercq ORL 02/04/2004 ORL @ TOR L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -9
+p331
+aVKeith Bogans ORL 02/04/2004 ORL @ TOR L 45 10 3 9 33.3 2 4 50.0 2 2 100.0 2 2 4 1 0 0 1 1 -14
+p332
+aVAndrew DeClercq ORL 02/03/2004 ORL @ MIN L 24 6 3 5 60.0 0 0 - 0 0 - 2 4 6 2 2 0 0 1 0
+p333
+aVTyronn Lue ORL 02/03/2004 ORL @ MIN L 20 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 4 1 0 0 2 -8
+p334
+aVDrew Gooden ORL 02/03/2004 ORL @ MIN L 21 9 4 8 50.0 0 0 - 1 2 50.0 1 2 3 1 1 0 1 2 -15
+p335
+aVRod Strickland ORL 02/03/2004 ORL @ MIN L 25 6 3 12 25.0 0 0 - 0 0 - 1 1 2 9 1 2 0 1 -7
+p336
+aVKeith Bogans ORL 02/03/2004 ORL @ MIN L 32 3 1 4 25.0 1 2 50.0 0 0 - 2 6 8 2 1 2 2 1 -5
+p337
+aVReece Gaines ORL 02/03/2004 ORL @ MIN L 3 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 0 2
+p338
+aVSteven Hunter ORL 02/03/2004 ORL @ MIN L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 2
+p339
+aVShammond Williams ORL 02/03/2004 ORL @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p340
+aVTracy McGrady ORL 02/03/2004 ORL @ MIN L 39 34 12 31 38.7 3 9 33.3 7 7 100.0 2 3 5 6 0 0 3 3 -19
+p341
+aVGordan Giricek ORL 02/03/2004 ORL @ MIN L 24 8 3 4 75.0 1 2 50.0 1 1 100.0 0 1 1 1 0 0 0 2 -4
+p342
+aVZaza Pachulia ORL 02/03/2004 ORL @ MIN L 11 2 1 2 50.0 0 0 - 0 1 0.0 1 3 4 0 0 0 0 4 -2
+p343
+aVJuwan Howard ORL 02/03/2004 ORL @ MIN L 36 17 6 16 37.5 0 0 - 5 6 83.3 4 4 8 2 0 0 4 4 -11
+p344
+aVShammond Williams ORL 01/31/2004 ORL vs. LAC L 17 10 4 6 66.7 1 1 100.0 1 1 100.0 0 3 3 0 1 0 1 2 -4
+p345
+aVZaza Pachulia ORL 01/31/2004 ORL vs. LAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -8
+p346
+aVDrew Gooden ORL 01/31/2004 ORL vs. LAC L 28 14 5 9 55.6 0 0 - 4 6 66.7 3 4 7 1 1 1 1 1 1
+p347
+aVSteven Hunter ORL 01/31/2004 ORL vs. LAC L 15 7 3 3 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -2
+p348
+aVAndrew DeClercq ORL 01/31/2004 ORL vs. LAC L 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 0 5 4 -5
+p349
+aVTyronn Lue ORL 01/31/2004 ORL vs. LAC L 23 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 4 0 0 0 3 -2
+p350
+aVRod Strickland ORL 01/31/2004 ORL vs. LAC L 25 12 6 11 54.5 0 0 - 0 0 - 0 3 3 6 1 0 1 0 -7
+p351
+aVKeith Bogans ORL 01/31/2004 ORL vs. LAC L 35 17 6 14 42.9 2 7 28.6 3 4 75.0 2 6 8 3 0 0 4 1 -12
+p352
+aVGordan Giricek ORL 01/31/2004 ORL vs. LAC L 44 20 9 20 45.0 2 2 100.0 0 0 - 2 1 3 4 2 0 0 3 -2
+p353
+aVJuwan Howard ORL 01/31/2004 ORL vs. LAC L 36 19 8 19 42.1 0 0 - 3 4 75.0 4 1 5 1 2 2 1 5 -4
+p354
+aVZaza Pachulia ORL 01/29/2004 ORL vs. NJN L 4 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 1 0 0 1 4
+p355
+aVReece Gaines ORL 01/29/2004 ORL vs. NJN L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p356
+aVSteven Hunter ORL 01/29/2004 ORL vs. NJN L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 2 0 2 3
+p357
+aVTyronn Lue ORL 01/29/2004 ORL vs. NJN L 24 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 4 0 0 3 0 -5
+p358
+aVRod Strickland ORL 01/29/2004 ORL vs. NJN L 23 12 4 10 40.0 0 0 - 4 6 66.7 1 3 4 2 1 0 3 0 -8
+p359
+aVAndrew DeClercq ORL 01/29/2004 ORL vs. NJN L 15 5 2 6 33.3 0 0 - 1 1 100.0 2 3 5 1 0 0 1 2 -1
+p360
+aVJuwan Howard ORL 01/29/2004 ORL vs. NJN L 42 9 4 10 40.0 0 0 - 1 1 100.0 1 4 5 1 0 0 4 3 -12
+p361
+aVTracy McGrady ORL 01/29/2004 ORL vs. NJN L 42 22 6 20 30.0 1 6 16.7 9 10 90.0 2 4 6 4 1 1 4 2 -15
+p362
+aVGordan Giricek ORL 01/29/2004 ORL vs. NJN L 20 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 0 1 1 -7
+p363
+aVShammond Williams ORL 01/29/2004 ORL vs. NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p364
+aVKeith Bogans ORL 01/29/2004 ORL vs. NJN L 33 13 5 5 100.0 3 3 100.0 0 1 0.0 2 4 6 2 1 0 1 0 -1
+p365
+aVDrew Gooden ORL 01/29/2004 ORL vs. NJN L 23 10 4 10 40.0 0 0 - 2 4 50.0 0 8 8 0 0 1 1 4 -14
+p366
+aVKeith Bogans ORL 01/28/2004 ORL @ WAS W 34 4 2 7 28.6 0 4 0.0 0 2 0.0 1 6 7 0 1 1 3 3 -3
+p367
+aVShammond Williams ORL 01/28/2004 ORL @ WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p368
+aVTracy McGrady ORL 01/28/2004 ORL @ WAS W 44 39 15 31 48.4 2 8 25.0 7 8 87.5 2 7 9 5 1 0 1 2 -3
+p369
+aVRod Strickland ORL 01/28/2004 ORL @ WAS W 26 14 5 6 83.3 0 0 - 4 4 100.0 2 4 6 10 2 0 3 1 10
+p370
+aVAndrew DeClercq ORL 01/28/2004 ORL @ WAS W 17 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -10
+p371
+aVDrew Gooden ORL 01/28/2004 ORL @ WAS W 23 15 6 8 75.0 0 0 - 3 4 75.0 2 3 5 2 0 5 0 3 8
+p372
+aVSteven Hunter ORL 01/28/2004 ORL @ WAS W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 10
+p373
+aVJuwan Howard ORL 01/28/2004 ORL @ WAS W 36 21 10 15 66.7 0 0 - 1 2 50.0 2 2 4 1 1 1 2 4 6
+p374
+aVTyronn Lue ORL 01/28/2004 ORL @ WAS W 23 5 2 8 25.0 1 4 25.0 0 0 - 1 2 3 6 0 0 1 2 -9
+p375
+aVGordan Giricek ORL 01/28/2004 ORL @ WAS W 26 6 3 5 60.0 0 2 0.0 0 0 - 1 4 5 0 1 0 1 3 16
+p376
+aVRod Strickland ORL 01/26/2004 ORL @ CLE L 20 5 1 6 16.7 0 1 0.0 3 4 75.0 0 4 4 2 0 0 1 3 -10
+p377
+aVTyronn Lue ORL 01/26/2004 ORL @ CLE L 28 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 5 0 0 2 1 9
+p378
+aVTracy McGrady ORL 01/26/2004 ORL @ CLE L 25 36 11 19 57.9 8 10 80.0 6 8 75.0 0 1 1 2 0 0 1 2 11
+p379
+aVDrew Gooden ORL 01/26/2004 ORL @ CLE L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 2 1 -5
+p380
+aVZaza Pachulia ORL 01/26/2004 ORL @ CLE L 9 3 0 0 - 0 0 - 3 4 75.0 1 4 5 0 0 0 1 2 -5
+p381
+aVJuwan Howard ORL 01/26/2004 ORL @ CLE L 40 21 7 16 43.8 0 0 - 7 8 87.5 1 12 13 6 0 0 4 4 9
+p382
+aVSteven Hunter ORL 01/26/2004 ORL @ CLE L 21 3 1 2 50.0 0 0 - 1 2 50.0 1 6 7 0 0 4 1 2 -4
+p383
+aVGordan Giricek ORL 01/26/2004 ORL @ CLE L 40 8 3 8 37.5 1 1 100.0 1 2 50.0 0 6 6 1 1 0 0 2 -8
+p384
+aVShammond Williams ORL 01/26/2004 ORL @ CLE L 31 14 5 8 62.5 2 3 66.7 2 2 100.0 0 3 3 0 0 0 1 3 -5
+p385
+aVAndrew DeClercq ORL 01/26/2004 ORL @ CLE L 21 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 1 2 0 3 3
+p386
+aVRod Strickland ORL 01/25/2004 ORL vs. HOU L 15 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 4 0 0 1 1 -4
+p387
+aVTyronn Lue ORL 01/25/2004 ORL vs. HOU L 30 12 5 10 50.0 1 3 33.3 1 2 50.0 0 6 6 6 1 0 1 2 -12
+p388
+aVTracy McGrady ORL 01/25/2004 ORL vs. HOU L 38 31 10 22 45.5 5 9 55.6 6 7 85.7 1 1 2 2 0 0 0 0 -3
+p389
+aVSteven Hunter ORL 01/25/2004 ORL vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 4
+p390
+aVDrew Gooden ORL 01/25/2004 ORL vs. HOU L 21 9 3 7 42.9 0 0 - 3 4 75.0 1 1 2 0 0 1 1 2 -14
+p391
+aVJuwan Howard ORL 01/25/2004 ORL vs. HOU L 34 9 4 14 28.6 0 0 - 1 2 50.0 1 5 6 4 0 0 2 3 -8
+p392
+aVAndrew DeClercq ORL 01/25/2004 ORL vs. HOU L 23 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 4 -6
+p393
+aVShammond Williams ORL 01/25/2004 ORL vs. HOU L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p394
+aVKeith Bogans ORL 01/25/2004 ORL vs. HOU L 18 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 2 0 0 1 2 -16
+p395
+aVReece Gaines ORL 01/25/2004 ORL vs. HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p396
+aVZaza Pachulia ORL 01/25/2004 ORL vs. HOU L 14 6 1 4 25.0 0 0 - 4 4 100.0 2 4 6 0 0 0 0 3 0
+p397
+aVGordan Giricek ORL 01/25/2004 ORL vs. HOU L 34 10 3 7 42.9 2 2 100.0 2 2 100.0 1 4 5 0 1 0 2 1 -2
+p398
+aVTyronn Lue ORL 01/23/2004 ORL @ PHI W 27 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 6 0 0 1 5 7
+p399
+aVTracy McGrady ORL 01/23/2004 ORL @ PHI W 41 33 13 29 44.8 3 11 27.3 4 4 100.0 1 9 10 6 3 1 2 1 7
+p400
+aVDrew Gooden ORL 01/23/2004 ORL @ PHI W 24 4 2 5 40.0 0 0 - 0 2 0.0 2 3 5 2 0 1 2 1 1
+p401
+aVJuwan Howard ORL 01/23/2004 ORL @ PHI W 42 17 6 14 42.9 0 0 - 5 6 83.3 4 9 13 2 2 0 3 1 6
+p402
+aVKeith Bogans ORL 01/23/2004 ORL @ PHI W 38 13 4 8 50.0 3 5 60.0 2 2 100.0 2 1 3 3 0 1 2 1 3
+p403
+aVGordan Giricek ORL 01/23/2004 ORL @ PHI W 25 19 5 12 41.7 2 6 33.3 7 10 70.0 2 2 4 1 1 1 1 2 3
+p404
+aVRod Strickland ORL 01/23/2004 ORL @ PHI W 21 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 4 0 0 2 3 -2
+p405
+aVZaza Pachulia ORL 01/23/2004 ORL @ PHI W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p406
+aVAndrew DeClercq ORL 01/23/2004 ORL @ PHI W 16 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 1
+p407
+aVShammond Williams ORL 01/21/2004 ORL @ MIL L 15 12 5 9 55.6 1 3 33.3 1 1 100.0 1 1 2 4 1 0 2 3 -17
+p408
+aVGordan Giricek ORL 01/21/2004 ORL @ MIL L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 4 -18
+p409
+aVKeith Bogans ORL 01/21/2004 ORL @ MIL L 39 21 7 13 53.8 4 6 66.7 3 5 60.0 1 0 1 1 1 0 0 4 2
+p410
+aVAndrew DeClercq ORL 01/21/2004 ORL @ MIL L 30 3 0 0 - 0 0 - 3 4 75.0 1 2 3 1 1 0 0 2 4
+p411
+aVZaza Pachulia ORL 01/21/2004 ORL @ MIL L 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 -3
+p412
+aVTracy McGrady ORL 01/21/2004 ORL @ MIL L 42 20 8 22 36.4 1 7 14.3 3 3 100.0 0 3 3 6 2 1 2 2 -5
+p413
+aVJuwan Howard ORL 01/21/2004 ORL @ MIL L 37 24 12 20 60.0 0 0 - 0 0 - 6 2 8 4 0 0 0 4 1
+p414
+aVRod Strickland ORL 01/21/2004 ORL @ MIL L 33 7 3 8 37.5 0 0 - 1 2 50.0 0 4 4 9 0 0 2 3 6
+p415
+aVDrew Gooden ORL 01/21/2004 ORL @ MIL L 24 14 6 10 60.0 0 1 0.0 2 4 50.0 1 3 4 2 0 0 2 0 -24
+p416
+aVLee Nailon ORL 01/21/2004 ORL @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p417
+aVZaza Pachulia ORL 01/19/2004 ORL vs. MIL W 21 11 5 6 83.3 0 0 - 1 1 100.0 0 5 5 0 0 0 2 2 18
+p418
+aVDrew Gooden ORL 01/19/2004 ORL vs. MIL W 14 9 4 6 66.7 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 5 2
+p419
+aVTyronn Lue ORL 01/19/2004 ORL vs. MIL W 16 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 3 0 0 0 1 3
+p420
+aVGordan Giricek ORL 01/19/2004 ORL vs. MIL W 16 11 5 6 83.3 1 1 100.0 0 0 - 0 2 2 0 2 0 0 1 9
+p421
+aVRod Strickland ORL 01/19/2004 ORL vs. MIL W 25 12 6 11 54.5 0 2 0.0 0 0 - 1 0 1 6 0 0 2 2 0
+p422
+aVJuwan Howard ORL 01/19/2004 ORL vs. MIL W 39 19 7 16 43.8 0 0 - 5 8 62.5 1 11 12 1 0 3 0 3 -8
+p423
+aVShammond Williams ORL 01/19/2004 ORL vs. MIL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 9
+p424
+aVTracy McGrady ORL 01/19/2004 ORL vs. MIL W 42 34 10 25 40.0 3 9 33.3 11 13 84.6 0 3 3 4 3 0 2 4 0
+p425
+aVAndrew DeClercq ORL 01/19/2004 ORL vs. MIL W 11 0 0 0 - 0 0 - 0 0 - 2 9 11 0 0 1 1 1 -6
+p426
+aVKeith Bogans ORL 01/19/2004 ORL vs. MIL W 42 8 3 7 42.9 2 4 50.0 0 0 - 0 6 6 5 1 0 1 4 0
+p427
+aVLee Nailon ORL 01/19/2004 ORL vs. MIL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 8
+p428
+aVAndrew DeClercq ORL 01/17/2004 ORL @ NOH L 27 4 2 3 66.7 0 0 - 0 0 - 1 7 8 1 2 0 3 4 2
+p429
+aVTyronn Lue ORL 01/17/2004 ORL @ NOH L 29 10 5 8 62.5 0 1 0.0 0 0 - 1 0 1 5 1 0 3 4 12
+p430
+aVKeith Bogans ORL 01/17/2004 ORL @ NOH L 40 7 3 6 50.0 1 3 33.3 0 0 - 2 7 9 3 2 0 2 1 -2
+p431
+aVJuwan Howard ORL 01/17/2004 ORL @ NOH L 33 16 7 13 53.8 0 0 - 2 2 100.0 3 5 8 0 1 0 5 4 7
+p432
+aVTracy McGrady ORL 01/17/2004 ORL @ NOH L 41 33 10 21 47.6 4 11 36.4 9 10 90.0 1 3 4 6 1 2 2 0 5
+p433
+aVRod Strickland ORL 01/17/2004 ORL @ NOH L 18 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 2 0 0 0 1 -13
+p434
+aVGordan Giricek ORL 01/17/2004 ORL @ NOH L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -3
+p435
+aVLee Nailon ORL 01/17/2004 ORL @ NOH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p436
+aVDrew Gooden ORL 01/17/2004 ORL @ NOH L 22 7 3 10 30.0 0 1 0.0 1 1 100.0 0 2 2 2 0 0 2 2 -11
+p437
+aVZaza Pachulia ORL 01/17/2004 ORL @ NOH L 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 0
+p438
+aVGordan Giricek ORL 01/16/2004 ORL vs. BOS W 15 9 3 4 75.0 1 1 100.0 2 2 100.0 1 0 1 1 0 0 2 2 0
+p439
+aVAndrew DeClercq ORL 01/16/2004 ORL vs. BOS W 11 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 1 0 2 4
+p440
+aVJuwan Howard ORL 01/16/2004 ORL vs. BOS W 34 11 5 11 45.5 0 0 - 1 2 50.0 2 4 6 0 0 0 4 3 11
+p441
+aVTracy McGrady ORL 01/16/2004 ORL vs. BOS W 45 44 16 31 51.6 5 13 38.5 7 8 87.5 1 5 6 6 3 0 2 1 0
+p442
+aVShammond Williams ORL 01/16/2004 ORL vs. BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 3
+p443
+aVTyronn Lue ORL 01/16/2004 ORL vs. BOS W 34 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 11 1 0 1 4 8
+p444
+aVRod Strickland ORL 01/16/2004 ORL vs. BOS W 16 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 3 1 1 0 0 -5
+p445
+aVDrew Gooden ORL 01/16/2004 ORL vs. BOS W 37 32 12 18 66.7 2 2 100.0 6 8 75.0 3 5 8 0 1 1 1 5 8
+p446
+aVZaza Pachulia ORL 01/16/2004 ORL vs. BOS W 18 7 2 4 50.0 0 0 - 3 4 75.0 4 1 5 0 0 0 0 3 -11
+p447
+aVKeith Bogans ORL 01/16/2004 ORL vs. BOS W 44 10 3 10 30.0 1 6 16.7 3 4 75.0 1 5 6 3 2 0 0 3 6
+p448
+aVLee Nailon ORL 01/16/2004 ORL vs. BOS W 8 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 0 6
+p449
+aVAndrew DeClercq ORL 01/14/2004 ORL @ NYK L 16 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 6 -6
+p450
+aVTracy McGrady ORL 01/14/2004 ORL @ NYK L 42 28 10 27 37.0 2 7 28.6 6 8 75.0 2 5 7 9 1 0 4 0 -4
+p451
+aVKeith Bogans ORL 01/14/2004 ORL @ NYK L 35 10 3 10 30.0 2 6 33.3 2 2 100.0 0 4 4 7 0 0 1 3 -10
+p452
+aVZaza Pachulia ORL 01/14/2004 ORL @ NYK L 11 9 4 4 100.0 0 0 - 1 1 100.0 0 2 2 0 1 0 0 1 2
+p453
+aVDrew Gooden ORL 01/14/2004 ORL @ NYK L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -11
+p454
+aVGordan Giricek ORL 01/14/2004 ORL @ NYK L 18 8 3 4 75.0 1 2 50.0 1 2 50.0 0 1 1 1 0 1 0 3 -6
+p455
+aVLee Nailon ORL 01/14/2004 ORL @ NYK L 18 12 3 7 42.9 0 0 - 6 6 100.0 1 1 2 1 0 0 0 3 -4
+p456
+aVTyronn Lue ORL 01/14/2004 ORL @ NYK L 36 13 5 11 45.5 1 3 33.3 2 3 66.7 1 1 2 3 5 0 2 5 6
+p457
+aVJuwan Howard ORL 01/14/2004 ORL @ NYK L 40 23 9 17 52.9 0 0 - 5 6 83.3 0 8 8 1 1 0 0 4 -1
+p458
+aVRod Strickland ORL 01/14/2004 ORL @ NYK L 12 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 1 1 -16
+p459
+aVTracy McGrady ORL 01/12/2004 ORL vs. PHI L 42 32 13 30 43.3 0 9 0.0 6 7 85.7 1 9 10 3 2 0 4 1 -3
+p460
+aVAndrew DeClercq ORL 01/12/2004 ORL vs. PHI L 16 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 1 2 1 2 -12
+p461
+aVDrew Gooden ORL 01/12/2004 ORL vs. PHI L 27 2 1 8 12.5 0 0 - 0 1 0.0 2 4 6 2 2 0 2 4 4
+p462
+aVRod Strickland ORL 01/12/2004 ORL vs. PHI L 17 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 5 0 0 1 0 9
+p463
+aVShammond Williams ORL 01/12/2004 ORL vs. PHI L 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -2
+p464
+aVTyronn Lue ORL 01/12/2004 ORL vs. PHI L 31 6 2 6 33.3 0 2 0.0 2 2 100.0 0 3 3 2 0 0 2 5 -14
+p465
+aVJuwan Howard ORL 01/12/2004 ORL vs. PHI L 34 9 4 11 36.4 0 0 - 1 3 33.3 1 3 4 2 1 1 1 4 -12
+p466
+aVGordan Giricek ORL 01/12/2004 ORL vs. PHI L 23 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 1 0 1 0 3
+p467
+aVZaza Pachulia ORL 01/12/2004 ORL vs. PHI L 14 4 1 5 20.0 0 0 - 2 2 100.0 5 1 6 0 0 0 0 0 7
+p468
+aVKeith Bogans ORL 01/12/2004 ORL vs. PHI L 29 20 6 10 60.0 2 5 40.0 6 6 100.0 3 3 6 1 1 0 0 4 -5
+p469
+aVShammond Williams ORL 01/09/2004 ORL vs. WAS W 6 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -2
+p470
+aVKeith Bogans ORL 01/09/2004 ORL vs. WAS W 34 13 5 12 41.7 2 4 50.0 1 4 25.0 6 3 9 3 0 0 3 3 13
+p471
+aVGordan Giricek ORL 01/09/2004 ORL vs. WAS W 21 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 1 2 1 2 2 8
+p472
+aVTracy McGrady ORL 01/09/2004 ORL vs. WAS W 41 35 12 29 41.4 3 8 37.5 8 8 100.0 3 3 6 7 1 1 5 2 4
+p473
+aVRod Strickland ORL 01/09/2004 ORL vs. WAS W 11 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 1 0 1 1 12
+p474
+aVDrew Gooden ORL 01/09/2004 ORL vs. WAS W 15 8 3 9 33.3 0 2 0.0 2 2 100.0 0 2 2 0 0 0 0 0 3
+p475
+aVTyronn Lue ORL 01/09/2004 ORL vs. WAS W 32 6 2 7 28.6 2 3 66.7 0 2 0.0 0 0 0 4 2 0 2 4 2
+p476
+aVJuwan Howard ORL 01/09/2004 ORL vs. WAS W 33 10 3 9 33.3 0 0 - 4 6 66.7 5 7 12 3 1 0 1 5 6
+p477
+aVLee Nailon ORL 01/09/2004 ORL vs. WAS W 14 11 5 6 83.3 0 0 - 1 1 100.0 2 1 3 0 0 0 0 1 0
+p478
+aVAndrew DeClercq ORL 01/09/2004 ORL vs. WAS W 28 4 2 4 50.0 0 0 - 0 0 - 4 9 13 0 1 0 0 6 15
+p479
+aVSteven Hunter ORL 01/09/2004 ORL vs. WAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p480
+aVDrew Gooden ORL 01/07/2004 ORL @ BOS L 23 8 4 10 40.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -3
+p481
+aVRod Strickland ORL 01/07/2004 ORL @ BOS L 16 2 0 3 0.0 0 1 0.0 2 2 100.0 1 2 3 2 0 0 1 2 2
+p482
+aVAndrew DeClercq ORL 01/07/2004 ORL @ BOS L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -11
+p483
+aVSteven Hunter ORL 01/07/2004 ORL @ BOS L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -6
+p484
+aVTracy McGrady ORL 01/07/2004 ORL @ BOS L 41 28 11 29 37.9 4 11 36.4 2 5 40.0 2 1 3 4 2 0 2 1 -8
+p485
+aVJuwan Howard ORL 01/07/2004 ORL @ BOS L 40 13 5 12 41.7 0 0 - 3 6 50.0 0 8 8 1 2 0 4 3 0
+p486
+aVKeith Bogans ORL 01/07/2004 ORL @ BOS L 34 18 7 15 46.7 3 5 60.0 1 1 100.0 4 4 8 1 2 0 1 5 8
+p487
+aVLee Nailon ORL 01/07/2004 ORL @ BOS L 17 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 1 0 0 2 -1
+p488
+aVTyronn Lue ORL 01/07/2004 ORL @ BOS L 32 10 4 9 44.4 0 2 0.0 2 2 100.0 1 3 4 9 0 0 1 0 -10
+p489
+aVGordan Giricek ORL 01/07/2004 ORL @ BOS L 19 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 3 -11
+p490
+aVTyronn Lue ORL 01/06/2004 ORL @ IND L 24 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 10 0 0 2 4 -5
+p491
+aVRod Strickland ORL 01/06/2004 ORL @ IND L 24 7 3 6 50.0 1 2 50.0 0 0 - 1 5 6 6 0 1 1 1 -2
+p492
+aVTracy McGrady ORL 01/06/2004 ORL @ IND L 40 43 14 27 51.9 8 11 72.7 7 10 70.0 0 0 0 4 2 2 4 2 -7
+p493
+aVAndrew DeClercq ORL 01/06/2004 ORL @ IND L 25 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 1 1 0 4 4
+p494
+aVDrew Gooden ORL 01/06/2004 ORL @ IND L 25 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 1 1 2 0 -15
+p495
+aVLee Nailon ORL 01/06/2004 ORL @ IND L 9 4 2 6 33.3 0 0 - 0 0 - 3 0 3 0 0 0 0 2 0
+p496
+aVJuwan Howard ORL 01/06/2004 ORL @ IND L 33 19 7 13 53.8 0 0 - 5 6 83.3 1 3 4 1 1 1 1 5 -2
+p497
+aVGordan Giricek ORL 01/06/2004 ORL @ IND L 26 11 4 6 66.7 2 2 100.0 1 1 100.0 1 4 5 4 0 0 1 1 6
+p498
+aVSteven Hunter ORL 01/06/2004 ORL @ IND L 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -1
+p499
+aVKeith Bogans ORL 01/06/2004 ORL @ IND L 21 9 4 7 57.1 1 3 33.3 0 0 - 3 2 5 3 1 0 2 1 -13
+p500
+aVTyronn Lue ORL 01/03/2004 ORL @ MEM L 38 15 7 11 63.6 0 2 0.0 1 2 50.0 0 3 3 8 0 0 1 3 -1
+p501
+aVShammond Williams ORL 01/03/2004 ORL @ MEM L 15 9 3 8 37.5 1 3 33.3 2 3 66.7 0 0 0 2 1 0 0 0 -1
+p502
+aVGordan Giricek ORL 01/03/2004 ORL @ MEM L 23 12 4 9 44.4 2 3 66.7 2 2 100.0 1 1 2 0 1 0 0 3 10
+p503
+aVKeith Bogans ORL 01/03/2004 ORL @ MEM L 22 8 3 5 60.0 2 3 66.7 0 0 - 1 0 1 2 0 0 1 3 -20
+p504
+aVJuwan Howard ORL 01/03/2004 ORL @ MEM L 31 6 2 8 25.0 0 0 - 2 2 100.0 0 2 2 2 0 0 2 6 -18
+p505
+aVRod Strickland ORL 01/03/2004 ORL @ MEM L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -12
+p506
+aVSteven Hunter ORL 01/03/2004 ORL @ MEM L 12 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 3 0 0 -13
+p507
+aVDrew Gooden ORL 01/03/2004 ORL @ MEM L 34 16 6 14 42.9 0 1 0.0 4 6 66.7 2 5 7 3 4 1 0 2 2
+p508
+aVTracy McGrady ORL 01/03/2004 ORL @ MEM L 38 34 11 21 52.4 3 5 60.0 9 13 69.2 2 4 6 6 3 1 1 2 -4
+p509
+aVAndrew DeClercq ORL 01/03/2004 ORL @ MEM L 18 2 1 2 50.0 0 0 - 0 0 - 2 5 7 2 0 1 2 1 12
+p510
+aVRod Strickland ORL 01/02/2004 ORL @ MIA L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 2 0 -11
+p511
+aVTyronn Lue ORL 01/02/2004 ORL @ MIA L 35 6 2 4 50.0 2 2 100.0 0 0 - 0 3 3 0 0 0 0 1 0
+p512
+aVDrew Gooden ORL 01/02/2004 ORL @ MIA L 37 29 12 20 60.0 0 0 - 5 6 83.3 3 8 11 0 2 0 3 4 -8
+p513
+aVZaza Pachulia ORL 01/02/2004 ORL @ MIA L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p514
+aVJuwan Howard ORL 01/02/2004 ORL @ MIA L 40 22 7 15 46.7 0 0 - 8 8 100.0 2 6 8 2 1 1 0 4 -1
+p515
+aVTracy McGrady ORL 01/02/2004 ORL @ MIA L 47 22 5 18 27.8 4 12 33.3 8 12 66.7 1 4 5 10 1 2 6 1 -12
+p516
+aVGordan Giricek ORL 01/02/2004 ORL @ MIA L 27 7 3 10 30.0 1 2 50.0 0 0 - 0 1 1 3 1 0 0 4 -11
+p517
+aVKeith Bogans ORL 01/02/2004 ORL @ MIA L 22 9 2 4 50.0 2 3 66.7 3 6 50.0 0 2 2 0 1 0 1 3 1
+p518
+aVAndrew DeClercq ORL 01/02/2004 ORL @ MIA L 16 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 1 0 1 5 -12
+p519
+aVZaza Pachulia ORL 12/29/2003 ORL vs. NYK L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -5
+p520
+aVRobert Archibald ORL 12/29/2003 ORL vs. NYK L 4 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 1 0 0 0 2
+p521
+aVSteven Hunter ORL 12/29/2003 ORL vs. NYK L 10 8 4 8 50.0 0 0 - 0 3 0.0 2 0 2 0 1 1 1 0 8
+p522
+aVTracy McGrady ORL 12/29/2003 ORL vs. NYK L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 0 -11
+p523
+aVShammond Williams ORL 12/29/2003 ORL vs. NYK L 20 4 1 6 16.7 0 2 0.0 2 3 66.7 0 0 0 2 0 0 3 1 -5
+p524
+aVRod Strickland ORL 12/29/2003 ORL vs. NYK L 22 11 2 7 28.6 1 2 50.0 6 6 100.0 0 3 3 5 0 0 1 1 -14
+p525
+aVGordan Giricek ORL 12/29/2003 ORL vs. NYK L 41 21 7 12 58.3 1 4 25.0 6 6 100.0 4 3 7 3 0 0 0 2 -24
+p526
+aVKeith Bogans ORL 12/29/2003 ORL vs. NYK L 24 2 0 7 0.0 0 1 0.0 2 2 100.0 1 6 7 2 0 0 0 1 -13
+p527
+aVAndrew DeClercq ORL 12/29/2003 ORL vs. NYK L 18 0 0 4 0.0 0 0 - 0 0 - 3 3 6 0 0 0 1 3 -17
+p528
+aVTyronn Lue ORL 12/29/2003 ORL vs. NYK L 16 1 0 6 0.0 0 2 0.0 1 1 100.0 0 1 1 2 1 0 0 0 -13
+p529
+aVJuwan Howard ORL 12/29/2003 ORL vs. NYK L 30 18 7 14 50.0 0 0 - 4 5 80.0 3 6 9 2 1 0 3 2 -22
+p530
+aVDrew Gooden ORL 12/29/2003 ORL vs. NYK L 35 17 7 17 41.2 0 0 - 3 5 60.0 4 5 9 1 0 0 3 3 -26
+p531
+aVKeith Bogans ORL 12/26/2003 ORL @ SAS L 24 6 2 6 33.3 1 5 20.0 1 2 50.0 0 5 5 2 0 0 0 2 -15
+p532
+aVJuwan Howard ORL 12/26/2003 ORL @ SAS L 35 13 6 13 46.2 0 0 - 1 2 50.0 0 3 3 1 3 0 2 2 -9
+p533
+aVDrew Gooden ORL 12/26/2003 ORL @ SAS L 27 8 4 10 40.0 0 0 - 0 0 - 0 4 4 2 0 0 1 2 -31
+p534
+aVAndrew DeClercq ORL 12/26/2003 ORL @ SAS L 25 8 4 4 100.0 0 0 - 0 0 - 3 4 7 2 1 1 0 5 16
+p535
+aVTyronn Lue ORL 12/26/2003 ORL @ SAS L 23 6 3 7 42.9 0 3 0.0 0 0 - 0 0 0 1 0 0 1 4 -22
+p536
+aVTracy McGrady ORL 12/26/2003 ORL @ SAS L 43 24 8 21 38.1 0 6 0.0 8 8 100.0 0 8 8 4 0 2 4 2 -13
+p537
+aVShammond Williams ORL 12/26/2003 ORL @ SAS L 1 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 2
+p538
+aVZaza Pachulia ORL 12/26/2003 ORL @ SAS L 4 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -6
+p539
+aVSteven Hunter ORL 12/26/2003 ORL @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p540
+aVRod Strickland ORL 12/26/2003 ORL @ SAS L 22 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 1 1 8
+p541
+aVGordan Giricek ORL 12/26/2003 ORL @ SAS L 31 10 4 9 44.4 2 4 50.0 0 0 - 2 3 5 1 0 1 2 0 -5
+p542
+aVKeith Bogans ORL 12/25/2003 ORL vs. CLE W 29 4 2 6 33.3 0 0 - 0 0 - 3 2 5 0 1 0 1 2 10
+p543
+aVTracy McGrady ORL 12/25/2003 ORL vs. CLE W 50 41 15 29 51.7 5 9 55.6 6 9 66.7 2 6 8 11 3 1 2 1 10
+p544
+aVJuwan Howard ORL 12/25/2003 ORL vs. CLE W 41 19 9 18 50.0 0 0 - 1 4 25.0 2 1 3 1 0 0 1 3 6
+p545
+aVGordan Giricek ORL 12/25/2003 ORL vs. CLE W 27 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 0 1 0 1 0 4
+p546
+aVDrew Gooden ORL 12/25/2003 ORL vs. CLE W 42 12 6 19 31.6 0 0 - 0 1 0.0 6 4 10 1 1 2 0 1 11
+p547
+aVZaza Pachulia ORL 12/25/2003 ORL vs. CLE W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p548
+aVTyronn Lue ORL 12/25/2003 ORL vs. CLE W 25 11 5 8 62.5 1 1 100.0 0 0 - 0 1 1 2 1 0 0 1 -2
+p549
+aVAndrew DeClercq ORL 12/25/2003 ORL vs. CLE W 16 4 1 1 100.0 0 0 - 2 2 100.0 5 1 6 2 1 1 1 5 0
+p550
+aVRod Strickland ORL 12/25/2003 ORL vs. CLE W 29 11 4 9 44.4 0 1 0.0 3 3 100.0 1 1 2 4 4 0 2 2 17
+p551
+aVKeith Bogans ORL 12/22/2003 ORL @ PHI L 14 3 1 4 25.0 0 1 0.0 1 2 50.0 1 5 6 3 1 0 0 2 -1
+p552
+aVDrew Gooden ORL 12/22/2003 ORL @ PHI L 33 9 3 8 37.5 0 0 - 3 7 42.9 1 5 6 1 1 1 1 2 -19
+p553
+aVGordan Giricek ORL 12/22/2003 ORL @ PHI L 30 7 3 8 37.5 1 3 33.3 0 0 - 0 5 5 1 2 0 2 3 -19
+p554
+aVZaza Pachulia ORL 12/22/2003 ORL @ PHI L 6 3 0 1 0.0 0 0 - 3 4 75.0 2 0 2 0 1 0 0 2 -3
+p555
+aVAndrew DeClercq ORL 12/22/2003 ORL @ PHI L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 1 1 0 2 -2
+p556
+aVTyronn Lue ORL 12/22/2003 ORL @ PHI L 32 12 5 7 71.4 2 2 100.0 0 0 - 0 6 6 0 0 0 4 1 -12
+p557
+aVTracy McGrady ORL 12/22/2003 ORL @ PHI L 41 20 6 19 31.6 2 6 33.3 6 8 75.0 1 6 7 6 1 2 5 2 -24
+p558
+aVJuwan Howard ORL 12/22/2003 ORL @ PHI L 31 10 2 8 25.0 0 0 - 6 11 54.5 2 2 4 2 0 0 2 3 -9
+p559
+aVRod Strickland ORL 12/22/2003 ORL @ PHI L 20 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 0 2 0 2 1 -13
+p560
+aVShammond Williams ORL 12/22/2003 ORL @ PHI L 16 5 2 6 33.3 0 3 0.0 1 1 100.0 0 1 1 1 0 0 0 1 -7
+p561
+aVSteven Hunter ORL 12/22/2003 ORL @ PHI L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p562
+aVTyronn Lue ORL 12/21/2003 ORL @ TOR W 17 10 5 7 71.4 0 0 - 0 0 - 0 4 4 2 1 1 0 3 -1
+p563
+aVRod Strickland ORL 12/21/2003 ORL @ TOR W 31 14 6 10 60.0 1 2 50.0 1 2 50.0 3 3 6 8 1 0 2 2 12
+p564
+aVDrew Gooden ORL 12/21/2003 ORL @ TOR W 40 14 7 17 41.2 0 0 - 0 0 - 4 10 14 2 1 2 2 4 9
+p565
+aVZaza Pachulia ORL 12/21/2003 ORL @ TOR W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p566
+aVJuwan Howard ORL 12/21/2003 ORL @ TOR W 39 20 6 18 33.3 0 0 - 8 9 88.9 5 7 12 5 2 0 0 0 16
+p567
+aVGordan Giricek ORL 12/21/2003 ORL @ TOR W 39 8 4 6 66.7 0 1 0.0 0 0 - 1 3 4 2 3 0 0 0 13
+p568
+aVAndrew DeClercq ORL 12/21/2003 ORL @ TOR W 12 3 1 2 50.0 0 0 - 1 3 33.3 1 0 1 0 0 0 0 3 -5
+p569
+aVKeith Bogans ORL 12/21/2003 ORL @ TOR W 13 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 2 0 2
+p570
+aVTracy McGrady ORL 12/21/2003 ORL @ TOR W 39 29 12 27 44.4 1 8 12.5 4 4 100.0 1 4 5 5 0 1 2 1 10
+p571
+aVShammond Williams ORL 12/21/2003 ORL @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p572
+aVShammond Williams ORL 12/19/2003 ORL vs. GSW W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 -5
+p573
+aVGordan Giricek ORL 12/19/2003 ORL vs. GSW W 35 17 7 13 53.8 3 5 60.0 0 0 - 0 2 2 0 3 0 2 3 21
+p574
+aVKeith Bogans ORL 12/19/2003 ORL vs. GSW W 24 11 4 7 57.1 3 4 75.0 0 0 - 4 4 8 0 0 0 0 3 -6
+p575
+aVSteven Hunter ORL 12/19/2003 ORL vs. GSW W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -5
+p576
+aVDrew Gooden ORL 12/19/2003 ORL vs. GSW W 31 25 11 19 57.9 1 1 100.0 2 4 50.0 6 7 13 2 2 4 0 3 24
+p577
+aVJuwan Howard ORL 12/19/2003 ORL vs. GSW W 32 18 6 12 50.0 0 0 - 6 6 100.0 2 7 9 3 1 0 3 4 33
+p578
+aVAndrew DeClercq ORL 12/19/2003 ORL vs. GSW W 17 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 2 1 1 3 5
+p579
+aVRod Strickland ORL 12/19/2003 ORL vs. GSW W 33 11 5 10 50.0 1 2 50.0 0 0 - 1 1 2 12 1 0 0 2 31
+p580
+aVZaza Pachulia ORL 12/19/2003 ORL vs. GSW W 13 4 2 6 33.3 0 0 - 0 0 - 3 3 6 0 1 1 2 2 -5
+p581
+aVTracy McGrady ORL 12/19/2003 ORL vs. GSW W 37 29 12 23 52.2 2 7 28.6 3 4 75.0 1 6 7 12 0 1 2 2 37
+p582
+aVAndrew DeClercq ORL 12/17/2003 ORL @ IND W 21 4 2 5 40.0 0 0 - 0 0 - 5 2 7 2 1 0 1 2 -1
+p583
+aVDrew Gooden ORL 12/17/2003 ORL @ IND W 33 18 8 17 47.1 0 0 - 2 2 100.0 4 6 10 1 0 3 0 1 7
+p584
+aVZaza Pachulia ORL 12/17/2003 ORL @ IND W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p585
+aVShammond Williams ORL 12/17/2003 ORL @ IND W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -8
+p586
+aVJuwan Howard ORL 12/17/2003 ORL @ IND W 36 19 8 12 66.7 0 0 - 3 6 50.0 2 5 7 1 0 0 3 4 2
+p587
+aVGordan Giricek ORL 12/17/2003 ORL @ IND W 20 1 0 5 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 2 4
+p588
+aVRod Strickland ORL 12/17/2003 ORL @ IND W 37 13 5 9 55.6 1 2 50.0 2 2 100.0 1 4 5 8 0 2 3 3 12
+p589
+aVTracy McGrady ORL 12/17/2003 ORL @ IND W 45 21 8 19 42.1 4 9 44.4 1 3 33.3 2 4 6 11 2 1 5 3 0
+p590
+aVKeith Bogans ORL 12/17/2003 ORL @ IND W 31 15 6 6 100.0 1 1 100.0 2 3 66.7 2 10 12 2 0 0 0 2 4
+p591
+aVShammond Williams ORL 12/16/2003 ORL @ CHI L 30 12 3 8 37.5 3 7 42.9 3 3 100.0 0 0 0 8 2 0 2 2 -10
+p592
+aVRod Strickland ORL 12/16/2003 ORL @ CHI L 17 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 2 0 0 4 0 -4
+p593
+aVZaza Pachulia ORL 12/16/2003 ORL @ CHI L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p594
+aVJuwan Howard ORL 12/16/2003 ORL @ CHI L 35 10 5 16 31.3 0 0 - 0 0 - 2 4 6 2 0 0 3 3 -17
+p595
+aVDonnell Harvey ORL 12/16/2003 ORL @ CHI L 13 4 1 3 33.3 0 0 - 2 3 66.7 2 0 2 1 1 0 0 0 -4
+p596
+aVTracy McGrady ORL 12/16/2003 ORL @ CHI L 39 26 9 25 36.0 1 4 25.0 7 8 87.5 2 6 8 4 1 0 1 1 -13
+p597
+aVSteven Hunter ORL 12/16/2003 ORL @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -1
+p598
+aVAndrew DeClercq ORL 12/16/2003 ORL @ CHI L 14 0 0 0 - 0 0 - 0 0 - 2 2 4 1 0 0 1 4 4
+p599
+aVKeith Bogans ORL 12/16/2003 ORL @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p600
+aVDrew Gooden ORL 12/16/2003 ORL @ CHI L 28 20 9 13 69.2 0 0 - 2 2 100.0 4 6 10 0 2 1 2 3 -19
+p601
+aVGordan Giricek ORL 12/16/2003 ORL @ CHI L 43 10 3 16 18.8 0 4 0.0 4 4 100.0 2 8 10 1 0 1 1 1 -9
+p602
+aVJuwan Howard ORL 12/13/2003 ORL @ ATL W 33 20 7 11 63.6 0 0 - 6 6 100.0 1 7 8 0 0 0 2 4 3
+p603
+aVRod Strickland ORL 12/13/2003 ORL @ ATL W 16 8 3 4 75.0 0 0 - 2 2 100.0 0 2 2 1 0 0 2 1 -7
+p604
+aVDrew Gooden ORL 12/13/2003 ORL @ ATL W 30 12 3 6 50.0 0 0 - 6 7 85.7 0 5 5 2 1 0 1 3 3
+p605
+aVShammond Williams ORL 12/13/2003 ORL @ ATL W 37 15 3 11 27.3 1 5 20.0 8 9 88.9 0 2 2 7 3 0 0 1 -1
+p606
+aVDonnell Harvey ORL 12/13/2003 ORL @ ATL W 12 4 1 6 16.7 0 1 0.0 2 2 100.0 2 2 4 0 2 0 3 3 4
+p607
+aVTracy McGrady ORL 12/13/2003 ORL @ ATL W 41 30 12 27 44.4 2 9 22.2 4 5 80.0 1 5 6 7 4 0 1 4 7
+p608
+aVZaza Pachulia ORL 12/13/2003 ORL @ ATL W 18 7 2 3 66.7 0 0 - 3 4 75.0 1 6 7 1 0 2 1 0 -3
+p609
+aVAndrew DeClercq ORL 12/13/2003 ORL @ ATL W 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 3
+p610
+aVGordan Giricek ORL 12/13/2003 ORL @ ATL W 38 7 3 10 30.0 1 3 33.3 0 0 - 1 6 7 1 1 0 2 0 6
+p611
+aVTyronn Lue ORL 12/12/2003 ORL vs. NJN L 25 6 2 6 33.3 2 2 100.0 0 0 - 0 2 2 4 0 0 0 2 -3
+p612
+aVDonnell Harvey ORL 12/12/2003 ORL vs. NJN L 10 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 -2
+p613
+aVTracy McGrady ORL 12/12/2003 ORL vs. NJN L 37 20 6 14 42.9 4 7 57.1 4 4 100.0 0 9 9 4 0 1 1 0 -2
+p614
+aVShammond Williams ORL 12/12/2003 ORL vs. NJN L 19 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 5 1 0 1 3 3
+p615
+aVAndrew DeClercq ORL 12/12/2003 ORL vs. NJN L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 4 -6
+p616
+aVDrew Gooden ORL 12/12/2003 ORL vs. NJN L 37 19 8 19 42.1 0 0 - 3 4 75.0 3 10 13 1 2 0 4 4 7
+p617
+aVRod Strickland ORL 12/12/2003 ORL vs. NJN L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 1 1
+p618
+aVJuwan Howard ORL 12/12/2003 ORL vs. NJN L 40 20 7 17 41.2 0 0 - 6 7 85.7 2 4 6 6 1 0 1 3 -7
+p619
+aVGordan Giricek ORL 12/12/2003 ORL vs. NJN L 44 11 5 12 41.7 1 1 100.0 0 0 - 3 2 5 3 0 0 3 3 -7
+p620
+aVZaza Pachulia ORL 12/12/2003 ORL vs. NJN L 8 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p621
+aVDrew Gooden ORL 12/10/2003 ORL @ WAS W 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 6
+p622
+aVTracy McGrady ORL 12/10/2003 ORL @ WAS W 36 27 9 25 36.0 2 5 40.0 7 7 100.0 1 6 7 4 5 1 5 4 -1
+p623
+aVGordan Giricek ORL 12/10/2003 ORL @ WAS W 42 15 6 15 40.0 1 5 20.0 2 2 100.0 2 4 6 2 2 0 1 0 11
+p624
+aVShammond Williams ORL 12/10/2003 ORL @ WAS W 20 17 6 10 60.0 3 4 75.0 2 2 100.0 0 1 1 3 0 0 0 1 0
+p625
+aVRod Strickland ORL 12/10/2003 ORL @ WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p626
+aVSteven Hunter ORL 12/10/2003 ORL @ WAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p627
+aVZaza Pachulia ORL 12/10/2003 ORL @ WAS W 25 5 1 5 20.0 0 0 - 3 4 75.0 4 3 7 0 1 0 2 2 -3
+p628
+aVAndrew DeClercq ORL 12/10/2003 ORL @ WAS W 18 4 1 2 50.0 0 0 - 2 2 100.0 4 4 8 2 0 1 1 3 6
+p629
+aVTyronn Lue ORL 12/10/2003 ORL @ WAS W 40 4 2 9 22.2 0 3 0.0 0 0 - 0 3 3 4 1 0 1 2 6
+p630
+aVJuwan Howard ORL 12/10/2003 ORL @ WAS W 38 15 5 14 35.7 0 0 - 5 5 100.0 2 7 9 1 1 0 1 3 7
+p631
+aVDonnell Harvey ORL 12/10/2003 ORL @ WAS W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p632
+aVKeith Bogans ORL 12/10/2003 ORL @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p633
+aVJuwan Howard ORL 12/08/2003 ORL vs. PHX W 32 19 6 12 50.0 0 0 - 7 7 100.0 1 3 4 1 1 1 1 2 4
+p634
+aVGordan Giricek ORL 12/08/2003 ORL vs. PHX W 31 19 6 6 100.0 3 3 100.0 4 4 100.0 1 3 4 3 0 1 2 0 1
+p635
+aVAndrew DeClercq ORL 12/08/2003 ORL vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p636
+aVDonnell Harvey ORL 12/08/2003 ORL vs. PHX W 20 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 2 0 1 13
+p637
+aVTyronn Lue ORL 12/08/2003 ORL vs. PHX W 32 9 3 10 30.0 2 6 33.3 1 2 50.0 0 4 4 4 1 0 5 2 0
+p638
+aVShammond Williams ORL 12/08/2003 ORL vs. PHX W 16 7 1 2 50.0 1 2 50.0 4 5 80.0 1 3 4 5 1 0 1 0 7
+p639
+aVDrew Gooden ORL 12/08/2003 ORL vs. PHX W 35 21 9 19 47.4 0 0 - 3 5 60.0 1 7 8 1 2 1 2 3 5
+p640
+aVZaza Pachulia ORL 12/08/2003 ORL vs. PHX W 23 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 1 0 1 0 2 12
+p641
+aVKeith Bogans ORL 12/08/2003 ORL vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p642
+aVTracy McGrady ORL 12/08/2003 ORL vs. PHX W 44 16 5 17 29.4 1 6 16.7 5 7 71.4 4 7 11 9 1 0 2 2 1
+p643
+aVRod Strickland ORL 12/06/2003 ORL @ DAL L 14 10 5 9 55.6 0 0 - 0 0 - 0 1 1 0 2 0 2 0 -5
+p644
+aVZaza Pachulia ORL 12/06/2003 ORL @ DAL L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 2
+p645
+aVDonnell Harvey ORL 12/06/2003 ORL @ DAL L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 1 1 2 0
+p646
+aVDrew Gooden ORL 12/06/2003 ORL @ DAL L 34 6 2 11 18.2 0 0 - 2 4 50.0 3 2 5 5 3 0 3 4 -9
+p647
+aVGordan Giricek ORL 12/06/2003 ORL @ DAL L 34 8 3 9 33.3 2 2 100.0 0 0 - 2 3 5 3 0 1 3 2 -3
+p648
+aVKeith Bogans ORL 12/06/2003 ORL @ DAL L 16 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -9
+p649
+aVJuwan Howard ORL 12/06/2003 ORL @ DAL L 40 24 7 12 58.3 0 0 - 10 10 100.0 1 9 10 2 1 0 2 4 -19
+p650
+aVTyronn Lue ORL 12/06/2003 ORL @ DAL L 34 16 7 12 58.3 2 2 100.0 0 0 - 1 0 1 1 3 0 0 1 -8
+p651
+aVTracy McGrady ORL 12/06/2003 ORL @ DAL L 39 27 9 24 37.5 4 8 50.0 5 6 83.3 3 2 5 6 0 0 3 3 -10
+p652
+aVAndrew DeClercq ORL 12/06/2003 ORL @ DAL L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -4
+p653
+aVGordan Giricek ORL 12/05/2003 ORL vs. SAS L 43 7 2 6 33.3 0 2 0.0 3 5 60.0 0 2 2 4 2 0 1 4 1
+p654
+aVZaza Pachulia ORL 12/05/2003 ORL vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p655
+aVRod Strickland ORL 12/05/2003 ORL vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -13
+p656
+aVKeith Bogans ORL 12/05/2003 ORL vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p657
+aVDonnell Harvey ORL 12/05/2003 ORL vs. SAS L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -14
+p658
+aVTyronn Lue ORL 12/05/2003 ORL vs. SAS L 41 15 5 7 71.4 1 1 100.0 4 4 100.0 0 3 3 2 0 1 0 0 5
+p659
+aVShammond Williams ORL 12/05/2003 ORL vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p660
+aVJuwan Howard ORL 12/05/2003 ORL vs. SAS L 37 15 7 12 58.3 0 0 - 1 2 50.0 0 2 2 3 1 0 1 5 9
+p661
+aVSteven Hunter ORL 12/05/2003 ORL vs. SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p662
+aVTracy McGrady ORL 12/05/2003 ORL vs. SAS L 45 28 7 27 25.9 1 7 14.3 13 13 100.0 1 6 7 5 3 1 6 2 -1
+p663
+aVAndrew DeClercq ORL 12/05/2003 ORL vs. SAS L 13 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 1 0 1 4 2
+p664
+aVDrew Gooden ORL 12/05/2003 ORL vs. SAS L 35 23 9 15 60.0 0 1 0.0 5 8 62.5 7 8 15 1 2 2 0 3 -21
+p665
+aVDrew Gooden ORL 12/03/2003 ORL @ NOH L 35 16 8 11 72.7 0 0 - 0 2 0.0 4 8 12 1 2 1 3 4 -6
+p666
+aVJuwan Howard ORL 12/03/2003 ORL @ NOH L 26 0 0 5 0.0 0 0 - 0 0 - 4 1 5 2 0 1 1 4 -16
+p667
+aVDonnell Harvey ORL 12/03/2003 ORL @ NOH L 17 2 0 0 - 0 0 - 2 3 66.7 0 2 2 2 0 0 1 1 5
+p668
+aVSteven Hunter ORL 12/03/2003 ORL @ NOH L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p669
+aVTyronn Lue ORL 12/03/2003 ORL @ NOH L 38 20 8 14 57.1 4 6 66.7 0 2 0.0 0 4 4 6 0 0 5 2 -17
+p670
+aVTracy McGrady ORL 12/03/2003 ORL @ NOH L 44 29 12 31 38.7 4 12 33.3 1 3 33.3 0 8 8 2 1 0 3 2 -7
+p671
+aVReece Gaines ORL 12/03/2003 ORL @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p672
+aVZaza Pachulia ORL 12/03/2003 ORL @ NOH L 10 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 0 2 4 4
+p673
+aVKeith Bogans ORL 12/03/2003 ORL @ NOH L 3 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -6
+p674
+aVRod Strickland ORL 12/03/2003 ORL @ NOH L 10 1 0 2 0.0 0 1 0.0 1 2 50.0 0 3 3 3 0 0 0 0 7
+p675
+aVAndrew DeClercq ORL 12/03/2003 ORL @ NOH L 21 14 7 8 87.5 0 0 - 0 0 - 5 2 7 3 1 2 2 3 -12
+p676
+aVGordan Giricek ORL 12/03/2003 ORL @ NOH L 32 5 2 13 15.4 1 4 25.0 0 0 - 1 0 1 8 0 0 2 4 -22
+p677
+aVZaza Pachulia ORL 12/02/2003 ORL vs. NOH L 19 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 2 0 4 2 -17
+p678
+aVDrew Gooden ORL 12/02/2003 ORL vs. NOH L 28 11 4 13 30.8 0 0 - 3 5 60.0 5 9 14 1 0 1 0 0 -8
+p679
+aVTyronn Lue ORL 12/02/2003 ORL vs. NOH L 30 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 4 0 0 2 4 0
+p680
+aVDonnell Harvey ORL 12/02/2003 ORL vs. NOH L 8 1 0 3 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 2 4 -11
+p681
+aVTracy McGrady ORL 12/02/2003 ORL vs. NOH L 43 16 6 19 31.6 1 6 16.7 3 6 50.0 6 9 15 5 0 1 4 2 -6
+p682
+aVAndrew DeClercq ORL 12/02/2003 ORL vs. NOH L 5 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 1 1 3 1
+p683
+aVRod Strickland ORL 12/02/2003 ORL vs. NOH L 18 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 5 0 0 2 2 -9
+p684
+aVJuwan Howard ORL 12/02/2003 ORL vs. NOH L 29 16 6 11 54.5 0 0 - 4 4 100.0 2 1 3 2 1 0 3 3 -6
+p685
+aVSteven Hunter ORL 12/02/2003 ORL vs. NOH L 15 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 0 1 1 1 12
+p686
+aVGordan Giricek ORL 12/02/2003 ORL vs. NOH L 45 25 9 20 45.0 3 7 42.9 4 4 100.0 0 4 4 2 1 1 1 5 -1
+p687
+aVZaza Pachulia ORL 11/28/2003 ORL vs. TOR L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -7
+p688
+aVJuwan Howard ORL 11/28/2003 ORL vs. TOR L 40 20 8 15 53.3 0 0 - 4 4 100.0 2 9 11 0 1 1 4 5 4
+p689
+aVTracy McGrady ORL 11/28/2003 ORL vs. TOR L 44 31 11 22 50.0 1 2 50.0 8 10 80.0 2 6 8 4 3 2 1 1 2
+p690
+aVRod Strickland ORL 11/28/2003 ORL vs. TOR L 14 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 1 0 0 3 3 -20
+p691
+aVKeith Bogans ORL 11/28/2003 ORL vs. TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p692
+aVTyronn Lue ORL 11/28/2003 ORL vs. TOR L 34 4 2 10 20.0 0 0 - 0 0 - 0 3 3 2 1 0 4 4 21
+p693
+aVDrew Gooden ORL 11/28/2003 ORL vs. TOR L 11 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -10
+p694
+aVDonnell Harvey ORL 11/28/2003 ORL vs. TOR L 25 11 3 7 42.9 0 0 - 5 6 83.3 1 3 4 0 0 0 2 3 2
+p695
+aVAndrew DeClercq ORL 11/28/2003 ORL vs. TOR L 14 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 0 0 1 4 -5
+p696
+aVSteven Hunter ORL 11/28/2003 ORL vs. TOR L 15 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 3 0 1 3
+p697
+aVGordan Giricek ORL 11/28/2003 ORL vs. TOR L 35 7 2 7 28.6 1 3 33.3 2 2 100.0 0 3 3 2 0 0 0 1 4
+p698
+aVSteven Hunter ORL 11/26/2003 ORL vs. BOS L 23 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 2 0 0 -9
+p699
+aVTracy McGrady ORL 11/26/2003 ORL vs. BOS L 34 24 9 19 47.4 1 5 20.0 5 5 100.0 0 3 3 6 2 0 4 6 -6
+p700
+aVDrew Gooden ORL 11/26/2003 ORL vs. BOS L 23 9 4 11 36.4 0 0 - 1 2 50.0 1 2 3 2 1 1 1 2 2
+p701
+aVGordan Giricek ORL 11/26/2003 ORL vs. BOS L 24 12 5 12 41.7 1 4 25.0 1 1 100.0 0 2 2 0 1 0 2 1 -16
+p702
+aVKeith Bogans ORL 11/26/2003 ORL vs. BOS L 8 5 2 7 28.6 0 2 0.0 1 1 100.0 4 0 4 0 0 0 0 0 6
+p703
+aVAndrew DeClercq ORL 11/26/2003 ORL vs. BOS L 16 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 1 1 0 3 7
+p704
+aVTyronn Lue ORL 11/26/2003 ORL vs. BOS L 22 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 4 0 0 2 4 -5
+p705
+aVDonnell Harvey ORL 11/26/2003 ORL vs. BOS L 30 16 8 10 80.0 0 0 - 0 0 - 1 5 6 0 1 0 2 3 12
+p706
+aVJuwan Howard ORL 11/26/2003 ORL vs. BOS L 34 12 4 12 33.3 0 0 - 4 7 57.1 4 6 10 2 0 0 0 3 -4
+p707
+aVReece Gaines ORL 11/26/2003 ORL vs. BOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p708
+aVRod Strickland ORL 11/26/2003 ORL vs. BOS L 22 4 2 4 50.0 0 1 0.0 0 2 0.0 0 3 3 3 1 0 1 0 2
+p709
+aVAndrew DeClercq ORL 11/24/2003 ORL vs. IND L 17 8 3 3 100.0 0 0 - 2 3 66.7 2 2 4 0 1 0 1 2 4
+p710
+aVKeith Bogans ORL 11/24/2003 ORL vs. IND L 18 2 1 6 16.7 0 0 - 0 2 0.0 0 3 3 1 0 0 0 0 -2
+p711
+aVDrew Gooden ORL 11/24/2003 ORL vs. IND L 28 7 3 11 27.3 0 0 - 1 2 50.0 1 4 5 0 0 4 1 5 3
+p712
+aVDerrick Dial ORL 11/24/2003 ORL vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p713
+aVGordan Giricek ORL 11/24/2003 ORL vs. IND L 39 13 5 11 45.5 0 2 0.0 3 3 100.0 1 3 4 3 1 0 5 1 -17
+p714
+aVTyronn Lue ORL 11/24/2003 ORL vs. IND L 38 13 5 14 35.7 1 3 33.3 2 3 66.7 0 0 0 6 0 0 1 2 -17
+p715
+aVJuwan Howard ORL 11/24/2003 ORL vs. IND L 33 17 7 15 46.7 0 0 - 3 3 100.0 2 4 6 1 0 0 2 3 -11
+p716
+aVDonnell Harvey ORL 11/24/2003 ORL vs. IND L 33 13 6 9 66.7 0 1 0.0 1 3 33.3 1 8 9 1 1 2 0 5 -3
+p717
+aVSteven Hunter ORL 11/24/2003 ORL vs. IND L 24 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 0 0 2 1 5 -18
+p718
+aVReece Gaines ORL 11/24/2003 ORL vs. IND L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 6
+p719
+aVJuwan Howard ORL 11/21/2003 ORL @ SAC L 16 6 2 8 25.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 -9
+p720
+aVDonnell Harvey ORL 11/21/2003 ORL @ SAC L 23 9 3 9 33.3 0 0 - 3 3 100.0 4 4 8 0 1 0 2 1 -7
+p721
+aVAndrew DeClercq ORL 11/21/2003 ORL @ SAC L 13 10 4 4 100.0 0 0 - 2 2 100.0 2 1 3 0 1 1 0 3 -5
+p722
+aVDerrick Dial ORL 11/21/2003 ORL @ SAC L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p723
+aVTracy McGrady ORL 11/21/2003 ORL @ SAC L 30 12 6 17 35.3 0 6 0.0 0 0 - 1 8 9 7 0 1 2 1 -23
+p724
+aVKeith Bogans ORL 11/21/2003 ORL @ SAC L 14 6 3 6 50.0 0 2 0.0 0 0 - 1 1 2 2 1 0 0 0 -7
+p725
+aVGordan Giricek ORL 11/21/2003 ORL @ SAC L 36 19 8 16 50.0 2 3 66.7 1 1 100.0 0 3 3 1 0 0 1 3 -25
+p726
+aVSteven Hunter ORL 11/21/2003 ORL @ SAC L 27 11 5 7 71.4 0 0 - 1 2 50.0 5 4 9 0 0 3 4 4 -17
+p727
+aVZaza Pachulia ORL 11/21/2003 ORL @ SAC L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p728
+aVDrew Gooden ORL 11/21/2003 ORL @ SAC L 26 5 2 9 22.2 0 1 0.0 1 2 50.0 1 2 3 0 0 1 2 3 -22
+p729
+aVTyronn Lue ORL 11/21/2003 ORL @ SAC L 30 12 5 11 45.5 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 3 -21
+p730
+aVReece Gaines ORL 11/21/2003 ORL @ SAC L 18 2 0 5 0.0 0 1 0.0 2 2 100.0 2 2 4 2 0 0 1 2 -9
+p731
+aVSteven Hunter ORL 11/20/2003 ORL @ PHX L 19 7 3 5 60.0 0 0 - 1 1 100.0 2 0 2 0 0 1 2 4 -18
+p732
+aVKeith Bogans ORL 11/20/2003 ORL @ PHX L 14 0 0 5 0.0 0 3 0.0 0 2 0.0 1 3 4 0 0 1 2 1 -5
+p733
+aVJuwan Howard ORL 11/20/2003 ORL @ PHX L 30 11 4 13 30.8 0 0 - 3 4 75.0 2 5 7 1 0 0 2 3 9
+p734
+aVAndrew DeClercq ORL 11/20/2003 ORL @ PHX L 20 6 3 5 60.0 0 0 - 0 0 - 6 3 9 1 1 0 1 1 4
+p735
+aVDonnell Harvey ORL 11/20/2003 ORL @ PHX L 10 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 0 0 0 3 2
+p736
+aVTracy McGrady ORL 11/20/2003 ORL @ PHX L 38 20 8 14 57.1 1 4 25.0 3 3 100.0 2 3 5 7 0 0 1 1 -9
+p737
+aVDrew Gooden ORL 11/20/2003 ORL @ PHX L 28 13 5 13 38.5 0 0 - 3 4 75.0 3 5 8 0 1 0 2 0 -14
+p738
+aVGordan Giricek ORL 11/20/2003 ORL @ PHX L 32 10 4 11 36.4 2 5 40.0 0 0 - 1 2 3 2 0 0 4 1 2
+p739
+aVDerrick Dial ORL 11/20/2003 ORL @ PHX L 9 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 6
+p740
+aVTyronn Lue ORL 11/20/2003 ORL @ PHX L 34 14 5 12 41.7 2 6 33.3 2 2 100.0 0 5 5 4 0 0 3 3 -10
+p741
+aVReece Gaines ORL 11/20/2003 ORL @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 2 0 1 1 -2
+p742
+aVReece Gaines ORL 11/17/2003 ORL @ UTA L 18 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 2 0 1 0 2 9
+p743
+aVTyronn Lue ORL 11/17/2003 ORL @ UTA L 30 6 3 10 30.0 0 2 0.0 0 1 0.0 0 3 3 3 0 0 0 5 -11
+p744
+aVDonnell Harvey ORL 11/17/2003 ORL @ UTA L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 3 4 -1
+p745
+aVKeith Bogans ORL 11/17/2003 ORL @ UTA L 12 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -8
+p746
+aVDerrick Dial ORL 11/17/2003 ORL @ UTA L 14 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 0 2 0 0 1 7
+p747
+aVJuwan Howard ORL 11/17/2003 ORL @ UTA L 28 21 7 9 77.8 0 0 - 7 8 87.5 1 5 6 3 0 0 1 5 -1
+p748
+aVAndrew DeClercq ORL 11/17/2003 ORL @ UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 4
+p749
+aVSteven Hunter ORL 11/17/2003 ORL @ UTA L 21 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 4 2 5 -5
+p750
+aVTracy McGrady ORL 11/17/2003 ORL @ UTA L 36 29 9 18 50.0 1 3 33.3 10 14 71.4 1 2 3 4 1 0 2 1 -11
+p751
+aVDrew Gooden ORL 11/17/2003 ORL @ UTA L 28 8 3 10 30.0 0 0 - 2 2 100.0 1 8 9 0 1 0 0 3 -1
+p752
+aVGordan Giricek ORL 11/17/2003 ORL @ UTA L 35 12 4 8 50.0 1 1 100.0 3 4 75.0 0 1 1 3 1 1 1 4 8
+p753
+aVDonnell Harvey ORL 11/15/2003 ORL @ LAC L 11 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 4
+p754
+aVZaza Pachulia ORL 11/15/2003 ORL @ LAC L 2 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -4
+p755
+aVTyronn Lue ORL 11/15/2003 ORL @ LAC L 41 18 5 12 41.7 1 2 50.0 7 9 77.8 1 2 3 1 1 0 2 5 -1
+p756
+aVReece Gaines ORL 11/15/2003 ORL @ LAC L 18 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p757
+aVKeith Bogans ORL 11/15/2003 ORL @ LAC L 41 12 5 12 41.7 0 2 0.0 2 3 66.7 1 11 12 0 2 1 3 2 -1
+p758
+aVTracy McGrady ORL 11/15/2003 ORL @ LAC L 38 19 7 16 43.8 3 5 60.0 2 3 66.7 0 4 4 6 1 2 5 2 -1
+p759
+aVJuwan Howard ORL 11/15/2003 ORL @ LAC L 32 22 8 18 44.4 0 0 - 6 6 100.0 3 1 4 2 0 0 1 5 -2
+p760
+aVAndrew DeClercq ORL 11/15/2003 ORL @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p761
+aVDrew Gooden ORL 11/15/2003 ORL @ LAC L 38 8 3 7 42.9 0 1 0.0 2 3 66.7 0 11 11 3 1 3 1 5 -12
+p762
+aVSteven Hunter ORL 11/15/2003 ORL @ LAC L 18 8 4 6 66.7 0 0 - 0 0 - 2 1 3 1 0 1 0 4 10
+p763
+aVJuwan Howard ORL 11/14/2003 ORL @ DEN L 35 6 3 11 27.3 0 0 - 0 0 - 4 9 13 3 0 0 2 3 -6
+p764
+aVDonnell Harvey ORL 11/14/2003 ORL @ DEN L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 1 0 2 -7
+p765
+aVTyronn Lue ORL 11/14/2003 ORL @ DEN L 40 13 4 9 44.4 1 1 100.0 4 6 66.7 1 5 6 7 1 1 5 5 -1
+p766
+aVDrew Gooden ORL 11/14/2003 ORL @ DEN L 24 10 4 10 40.0 0 0 - 2 2 100.0 2 1 3 3 2 1 3 5 4
+p767
+aVAndrew DeClercq ORL 11/14/2003 ORL @ DEN L 8 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -2
+p768
+aVReece Gaines ORL 11/14/2003 ORL @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -3
+p769
+aVZaza Pachulia ORL 11/14/2003 ORL @ DEN L 13 2 1 7 14.3 0 0 - 0 0 - 1 4 5 1 1 0 0 2 1
+p770
+aVSteven Hunter ORL 11/14/2003 ORL @ DEN L 25 6 2 4 50.0 0 0 - 2 6 33.3 0 1 1 0 0 3 1 5 -9
+p771
+aVShammond Williams ORL 11/14/2003 ORL @ DEN L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 6
+p772
+aVTracy McGrady ORL 11/14/2003 ORL @ DEN L 41 51 20 30 66.7 8 11 72.7 3 3 100.0 2 4 6 5 2 2 4 2 -1
+p773
+aVKeith Bogans ORL 11/14/2003 ORL @ DEN L 26 5 2 7 28.6 0 2 0.0 1 2 50.0 2 4 6 0 0 0 1 6 -7
+p774
+aVDonnell Harvey ORL 11/12/2003 ORL vs. MEM L 14 2 0 1 0.0 0 0 - 2 2 100.0 3 2 5 1 1 0 0 2 -11
+p775
+aVTracy McGrady ORL 11/12/2003 ORL vs. MEM L 39 36 14 26 53.8 3 7 42.9 5 6 83.3 0 5 5 7 2 1 4 4 -5
+p776
+aVAndrew DeClercq ORL 11/12/2003 ORL vs. MEM L 16 4 1 2 50.0 0 0 - 2 3 66.7 1 2 3 2 0 0 0 2 9
+p777
+aVShammond Williams ORL 11/12/2003 ORL vs. MEM L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -6
+p778
+aVZaza Pachulia ORL 11/12/2003 ORL vs. MEM L 9 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 0 5 -4
+p779
+aVKeith Bogans ORL 11/12/2003 ORL vs. MEM L 30 7 3 7 42.9 0 1 0.0 1 2 50.0 5 3 8 1 0 1 3 4 9
+p780
+aVTyronn Lue ORL 11/12/2003 ORL vs. MEM L 37 8 3 10 30.0 0 3 0.0 2 4 50.0 0 3 3 6 1 0 2 0 -6
+p781
+aVSteven Hunter ORL 11/12/2003 ORL vs. MEM L 15 6 3 5 60.0 0 0 - 0 0 - 3 0 3 0 0 2 0 4 -7
+p782
+aVJuwan Howard ORL 11/12/2003 ORL vs. MEM L 37 14 6 13 46.2 0 0 - 2 2 100.0 2 3 5 3 1 0 2 3 -10
+p783
+aVDrew Gooden ORL 11/12/2003 ORL vs. MEM L 31 14 5 12 41.7 0 0 - 4 8 50.0 3 8 11 0 2 3 2 5 -19
+p784
+aVZaza Pachulia ORL 11/08/2003 ORL @ HOU L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -9
+p785
+aVSteven Hunter ORL 11/08/2003 ORL @ HOU L 31 15 7 9 77.8 0 0 - 1 4 25.0 4 5 9 1 0 2 1 5 1
+p786
+aVJuwan Howard ORL 11/08/2003 ORL @ HOU L 41 22 10 18 55.6 0 0 - 2 3 66.7 2 5 7 3 2 0 0 5 -2
+p787
+aVPat Garrity ORL 11/08/2003 ORL @ HOU L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p788
+aVKeith Bogans ORL 11/08/2003 ORL @ HOU L 18 7 3 6 50.0 1 3 33.3 0 0 - 1 1 2 0 1 0 1 0 1
+p789
+aVShammond Williams ORL 11/08/2003 ORL @ HOU L 13 1 0 0 - 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 -16
+p790
+aVTyronn Lue ORL 11/08/2003 ORL @ HOU L 38 18 5 12 41.7 1 2 50.0 7 7 100.0 2 3 5 7 1 1 1 1 -1
+p791
+aVDrew Gooden ORL 11/08/2003 ORL @ HOU L 40 8 2 10 20.0 0 0 - 4 4 100.0 1 3 4 2 0 1 1 2 -7
+p792
+aVTracy McGrady ORL 11/08/2003 ORL @ HOU L 42 14 5 21 23.8 2 4 50.0 2 3 66.7 1 5 6 5 1 1 5 2 2
+p793
+aVDonnell Harvey ORL 11/08/2003 ORL @ HOU L 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -11
+p794
+aVReece Gaines ORL 11/07/2003 ORL vs. MIN L 16 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 2 -2
+p795
+aVDrew Gooden ORL 11/07/2003 ORL vs. MIN L 31 14 6 10 60.0 0 0 - 2 5 40.0 1 6 7 3 0 2 1 2 -23
+p796
+aVKeith Bogans ORL 11/07/2003 ORL vs. MIN L 24 3 1 3 33.3 0 2 0.0 1 6 16.7 1 6 7 1 2 1 2 2 -13
+p797
+aVTyronn Lue ORL 11/07/2003 ORL vs. MIN L 31 25 9 15 60.0 4 8 50.0 3 4 75.0 0 3 3 7 0 0 1 3 -25
+p798
+aVJuwan Howard ORL 11/07/2003 ORL vs. MIN L 34 13 5 12 41.7 0 0 - 3 5 60.0 1 1 2 1 0 1 4 2 -15
+p799
+aVTracy McGrady ORL 11/07/2003 ORL vs. MIN L 27 4 2 10 20.0 0 3 0.0 0 0 - 3 3 6 3 0 0 3 3 -20
+p800
+aVShammond Williams ORL 11/07/2003 ORL vs. MIN L 26 4 1 4 25.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 3 4 -12
+p801
+aVSteven Hunter ORL 11/07/2003 ORL vs. MIN L 18 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 0 0 0 0 2 -17
+p802
+aVPat Garrity ORL 11/07/2003 ORL vs. MIN L 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -7
+p803
+aVZaza Pachulia ORL 11/07/2003 ORL vs. MIN L 16 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 1 0 1 0 0 -11
+p804
+aVShammond Williams ORL 11/05/2003 ORL vs. CHI L 20 10 4 7 57.1 1 2 50.0 1 1 100.0 0 1 1 4 1 0 0 3 9
+p805
+aVAndrew DeClercq ORL 11/05/2003 ORL vs. CHI L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -5
+p806
+aVJuwan Howard ORL 11/05/2003 ORL vs. CHI L 35 14 6 15 40.0 0 0 - 2 3 66.7 3 6 9 1 0 0 3 4 5
+p807
+aVTyronn Lue ORL 11/05/2003 ORL vs. CHI L 36 19 6 12 50.0 3 6 50.0 4 4 100.0 1 0 1 3 1 0 2 2 -11
+p808
+aVDrew Gooden ORL 11/05/2003 ORL vs. CHI L 34 13 6 15 40.0 0 1 0.0 1 2 50.0 4 3 7 4 0 0 3 0 -19
+p809
+aVReece Gaines ORL 11/05/2003 ORL vs. CHI L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p810
+aVZaza Pachulia ORL 11/05/2003 ORL vs. CHI L 16 7 3 5 60.0 0 0 - 1 2 50.0 2 4 6 1 2 1 0 1 -5
+p811
+aVSteven Hunter ORL 11/05/2003 ORL vs. CHI L 24 7 3 6 50.0 0 0 - 1 1 100.0 2 1 3 1 0 3 1 4 -5
+p812
+aVDonnell Harvey ORL 11/05/2003 ORL vs. CHI L 15 5 2 4 50.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 1 9
+p813
+aVTracy McGrady ORL 11/05/2003 ORL vs. CHI L 43 23 9 20 45.0 2 5 40.0 3 5 60.0 0 6 6 5 1 0 2 3 -12
+p814
+aVSteven Hunter ORL 11/03/2003 ORL vs. NYK L 29 0 0 4 0.0 0 0 - 0 2 0.0 2 6 8 0 1 1 1 1 -2
+p815
+aVShammond Williams ORL 11/03/2003 ORL vs. NYK L 23 3 1 5 20.0 1 5 20.0 0 0 - 1 1 2 3 3 0 2 0 -10
+p816
+aVBritton Johnsen ORL 11/03/2003 ORL vs. NYK L 3 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -4
+p817
+aVTyronn Lue ORL 11/03/2003 ORL vs. NYK L 41 12 4 10 40.0 3 5 60.0 1 1 100.0 2 1 3 3 2 0 2 3 7
+p818
+aVAndrew DeClercq ORL 11/03/2003 ORL vs. NYK L 13 2 1 8 12.5 0 0 - 0 0 - 0 4 4 0 1 0 1 4 -4
+p819
+aVTracy McGrady ORL 11/03/2003 ORL vs. NYK L 41 19 5 20 25.0 0 5 0.0 9 10 90.0 1 7 8 3 1 0 1 1 1
+p820
+aVDonnell Harvey ORL 11/03/2003 ORL vs. NYK L 9 0 0 5 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -11
+p821
+aVReece Gaines ORL 11/03/2003 ORL vs. NYK L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p822
+aVJuwan Howard ORL 11/03/2003 ORL vs. NYK L 36 14 4 15 26.7 0 1 0.0 6 6 100.0 6 4 10 2 1 0 2 3 -8
+p823
+aVDrew Gooden ORL 11/03/2003 ORL vs. NYK L 40 14 5 12 41.7 0 0 - 4 6 66.7 3 6 9 1 0 3 3 3 6
+p824
+aVShammond Williams ORL 11/01/2003 ORL vs. DET L 30 11 4 9 44.4 3 5 60.0 0 0 - 1 2 3 0 2 0 2 2 -17
+p825
+aVBritton Johnsen ORL 11/01/2003 ORL vs. DET L 21 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 1 1 4 -1
+p826
+aVDonnell Harvey ORL 11/01/2003 ORL vs. DET L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -10
+p827
+aVJuwan Howard ORL 11/01/2003 ORL vs. DET L 40 12 4 14 28.6 0 0 - 4 8 50.0 2 8 10 3 1 0 4 5 4
+p828
+aVSteven Hunter ORL 11/01/2003 ORL vs. DET L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -1
+p829
+aVTracy McGrady ORL 11/01/2003 ORL vs. DET L 42 31 10 24 41.7 1 4 25.0 10 11 90.9 0 5 5 9 1 0 1 0 -10
+p830
+aVDrew Gooden ORL 11/01/2003 ORL vs. DET L 41 10 4 12 33.3 0 0 - 2 2 100.0 3 7 10 1 2 0 2 3 -12
+p831
+aVAndrew DeClercq ORL 11/01/2003 ORL vs. DET L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p832
+aVTyronn Lue ORL 11/01/2003 ORL vs. DET L 39 13 6 14 42.9 1 2 50.0 0 0 - 1 1 2 2 0 0 1 4 -6
+p833
+aVReece Gaines ORL 11/01/2003 ORL vs. DET L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 4
+p834
+aVAndrew DeClercq ORL 10/30/2003 ORL vs. NOH L 17 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 0 1 6 8
+p835
+aVTracy McGrady ORL 10/30/2003 ORL vs. NOH L 39 33 11 27 40.7 3 7 42.9 8 8 100.0 2 5 7 6 0 1 2 3 0
+p836
+aVDonnell Harvey ORL 10/30/2003 ORL vs. NOH L 18 3 1 4 25.0 0 0 - 1 4 25.0 1 1 2 1 0 1 2 2 6
+p837
+aVDrew Gooden ORL 10/30/2003 ORL vs. NOH L 42 16 5 10 50.0 0 0 - 6 8 75.0 6 5 11 1 1 1 1 2 4
+p838
+aVShammond Williams ORL 10/30/2003 ORL vs. NOH L 31 11 3 9 33.3 3 9 33.3 2 2 100.0 2 0 2 5 3 0 1 2 2
+p839
+aVTyronn Lue ORL 10/30/2003 ORL vs. NOH L 32 12 4 6 66.7 0 2 0.0 4 4 100.0 0 1 1 2 2 0 1 3 6
+p840
+aVJuwan Howard ORL 10/30/2003 ORL vs. NOH L 28 15 6 12 50.0 0 0 - 3 3 100.0 4 3 7 0 0 1 2 5 -12
+p841
+aVReece Gaines ORL 10/30/2003 ORL vs. NOH L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p842
+aVBritton Johnsen ORL 10/30/2003 ORL vs. NOH L 16 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 1 -17
+p843
+aVGordan Giricek ORL 10/30/2003 ORL vs. NOH L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -3
+p844
+aVTyronn Lue ORL 10/29/2003 ORL @ NYK W 36 11 4 10 40.0 2 4 50.0 1 3 33.3 1 3 4 4 1 0 2 4 8
+p845
+aVBritton Johnsen ORL 10/29/2003 ORL @ NYK W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 1 0 0 3 5
+p846
+aVDrew Gooden ORL 10/29/2003 ORL @ NYK W 45 16 6 11 54.5 0 0 - 4 6 66.7 4 5 9 0 2 0 2 0 -5
+p847
+aVJuwan Howard ORL 10/29/2003 ORL @ NYK W 42 9 4 14 28.6 0 0 - 1 3 33.3 2 8 10 2 1 0 3 1 5
+p848
+aVSteven Hunter ORL 10/29/2003 ORL @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p849
+aVTracy McGrady ORL 10/29/2003 ORL @ NYK W 49 26 9 23 39.1 2 7 28.6 6 8 75.0 2 2 4 6 1 3 6 1 3
+p850
+aVDonnell Harvey ORL 10/29/2003 ORL @ NYK W 18 6 3 6 50.0 0 0 - 0 1 0.0 1 2 3 0 2 1 2 1 -8
+p851
+aVShammond Williams ORL 10/29/2003 ORL @ NYK W 17 3 0 7 0.0 0 4 0.0 3 3 100.0 0 4 4 0 1 0 0 2 -4
+p852
+aVReece Gaines ORL 10/29/2003 ORL @ NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p853
+aVAndrew DeClercq ORL 10/29/2003 ORL @ NYK W 13 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 0 2 2 0
+p854
+aVGordan Giricek ORL 10/29/2003 ORL @ NYK W 26 7 3 9 33.3 0 3 0.0 1 5 20.0 0 6 6 3 1 0 0 3 9
+p855
+a.

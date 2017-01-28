@@ -1,0 +1,1704 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKeyon Dooling LAC 04/17/2001 LAC @ UTA L 18 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 3 0 0 0 0 2
+p2
+aVEric Piatkowski LAC 04/17/2001 LAC @ UTA L 24 9 2 6 33.3 1 4 25.0 4 4 100.0 1 0 1 1 0 0 2 2 -6
+p3
+aVMichael Olowokandi LAC 04/17/2001 LAC @ UTA L 32 8 3 10 30.0 0 0 - 2 4 50.0 4 2 6 0 0 0 3 4 -2
+p4
+aVDarius Miles LAC 04/17/2001 LAC @ UTA L 25 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 0 1 2 1 3 -4
+p5
+aVQuentin Richardson LAC 04/17/2001 LAC @ UTA L 24 10 4 7 57.1 2 2 100.0 0 0 - 1 3 4 1 1 0 1 3 -11
+p6
+aVZendon Hamilton LAC 04/17/2001 LAC @ UTA L 10 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 0 0 0 1 3 1
+p7
+aVLamar Odom LAC 04/17/2001 LAC @ UTA L 31 19 4 13 30.8 1 2 50.0 10 12 83.3 0 7 7 1 2 1 4 6 7
+p8
+aVCherokee Parks LAC 04/17/2001 LAC @ UTA L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -5
+p9
+aVJeff McInnis LAC 04/17/2001 LAC @ UTA L 42 20 9 19 47.4 0 2 0.0 2 2 100.0 1 3 4 6 5 0 1 4 -3
+p10
+aVSean Rooks LAC 04/17/2001 LAC @ UTA L 16 6 2 4 50.0 0 1 0.0 2 2 100.0 2 2 4 0 1 0 2 3 -4
+p11
+aVCherokee Parks LAC 04/16/2001 LAC vs. PHX W 13 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 1
+p12
+aVEric Piatkowski LAC 04/16/2001 LAC vs. PHX W 37 10 3 11 27.3 2 6 33.3 2 2 100.0 0 5 5 1 0 2 0 0 28
+p13
+aVZendon Hamilton LAC 04/16/2001 LAC vs. PHX W 5 3 1 6 16.7 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -7
+p14
+aVDarius Miles LAC 04/16/2001 LAC vs. PHX W 35 11 5 8 62.5 0 0 - 1 3 33.3 0 4 4 1 0 3 1 1 19
+p15
+aVKeyon Dooling LAC 04/16/2001 LAC vs. PHX W 16 9 4 8 50.0 1 1 100.0 0 0 - 1 2 3 1 2 0 0 0 -2
+p16
+aVJeff McInnis LAC 04/16/2001 LAC vs. PHX W 42 20 8 14 57.1 2 3 66.7 2 2 100.0 1 4 5 13 2 0 4 3 16
+p17
+aVSean Rooks LAC 04/16/2001 LAC vs. PHX W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 6
+p18
+aVMichael Olowokandi LAC 04/16/2001 LAC vs. PHX W 36 13 6 13 46.2 0 0 - 1 2 50.0 2 7 9 0 0 2 3 3 21
+p19
+aVLamar Odom LAC 04/16/2001 LAC vs. PHX W 37 18 9 12 75.0 0 1 0.0 0 0 - 2 10 12 9 0 0 5 1 18
+p20
+aVQuentin Richardson LAC 04/16/2001 LAC vs. PHX W 12 8 3 5 60.0 0 0 - 2 3 66.7 3 0 3 0 0 0 2 2 0
+p21
+aVCorey Maggette LAC 04/14/2001 LAC @ GSW W 21 17 7 9 77.8 0 1 0.0 3 5 60.0 2 1 3 0 0 0 3 2 6
+p22
+aVMichael Olowokandi LAC 04/14/2001 LAC @ GSW W 22 6 2 7 28.6 0 0 - 2 4 50.0 1 5 6 0 0 0 1 4 11
+p23
+aVDarius Miles LAC 04/14/2001 LAC @ GSW W 33 13 6 9 66.7 0 0 - 1 1 100.0 4 7 11 2 3 2 2 5 3
+p24
+aVQuentin Richardson LAC 04/14/2001 LAC @ GSW W 13 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -10
+p25
+aVLamar Odom LAC 04/14/2001 LAC @ GSW W 35 19 8 16 50.0 0 2 0.0 3 5 60.0 1 3 4 5 2 3 3 1 21
+p26
+aVKeyon Dooling LAC 04/14/2001 LAC @ GSW W 15 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 2 1 0 2 1 -14
+p27
+aVCherokee Parks LAC 04/14/2001 LAC @ GSW W 15 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 0 0 0 9
+p28
+aVSean Rooks LAC 04/14/2001 LAC @ GSW W 26 6 3 8 37.5 0 0 - 0 0 - 2 7 9 2 0 1 0 1 1
+p29
+aVJeff McInnis LAC 04/14/2001 LAC @ GSW W 37 22 7 10 70.0 0 1 0.0 8 9 88.9 0 3 3 8 3 0 2 3 24
+p30
+aVEric Piatkowski LAC 04/14/2001 LAC @ GSW W 23 10 3 7 42.9 2 6 33.3 2 2 100.0 0 1 1 3 1 0 2 0 9
+p31
+aVLamar Odom LAC 04/13/2001 LAC vs. MIN W 40 21 8 13 61.5 1 2 50.0 4 6 66.7 1 3 4 5 0 0 4 3 2
+p32
+aVCorey Maggette LAC 04/13/2001 LAC vs. MIN W 22 15 5 9 55.6 0 1 0.0 5 6 83.3 1 1 2 1 0 1 2 2 -9
+p33
+aVEric Piatkowski LAC 04/13/2001 LAC vs. MIN W 40 26 9 12 75.0 5 5 100.0 3 3 100.0 0 1 1 2 1 0 3 2 21
+p34
+aVKeyon Dooling LAC 04/13/2001 LAC vs. MIN W 15 6 3 8 37.5 0 1 0.0 0 0 - 2 0 2 1 0 1 2 2 0
+p35
+aVMichael Olowokandi LAC 04/13/2001 LAC vs. MIN W 40 10 5 17 29.4 0 0 - 0 3 0.0 8 11 19 1 0 1 1 3 18
+p36
+aVDarius Miles LAC 04/13/2001 LAC vs. MIN W 27 9 2 6 33.3 0 0 - 5 12 41.7 3 7 10 4 1 1 1 4 -5
+p37
+aVCherokee Parks LAC 04/13/2001 LAC vs. MIN W 17 10 5 6 83.3 0 0 - 0 0 - 2 2 4 1 1 1 1 5 10
+p38
+aVSean Rooks LAC 04/13/2001 LAC vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -11
+p39
+aVJeff McInnis LAC 04/13/2001 LAC vs. MIN W 34 14 6 14 42.9 0 1 0.0 2 2 100.0 0 4 4 6 2 0 2 3 4
+p40
+aVEric Piatkowski LAC 04/10/2001 LAC @ SAC L 38 18 7 12 58.3 2 4 50.0 2 2 100.0 2 3 5 3 0 0 2 2 -13
+p41
+aVCorey Maggette LAC 04/10/2001 LAC @ SAC L 26 16 6 12 50.0 2 2 100.0 2 3 66.7 1 5 6 1 0 1 2 1 8
+p42
+aVCherokee Parks LAC 04/10/2001 LAC @ SAC L 17 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 1 0 0 3 -8
+p43
+aVKeyon Dooling LAC 04/10/2001 LAC @ SAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 0 -1
+p44
+aVJeff McInnis LAC 04/10/2001 LAC @ SAC L 42 16 8 15 53.3 0 2 0.0 0 0 - 0 2 2 10 3 0 2 3 -6
+p45
+aVDarius Miles LAC 04/10/2001 LAC @ SAC L 35 14 6 15 40.0 0 0 - 2 5 40.0 4 5 9 3 0 4 0 5 1
+p46
+aVLamar Odom LAC 04/10/2001 LAC @ SAC L 44 20 8 19 42.1 0 3 0.0 4 6 66.7 2 8 10 4 1 0 3 0 -5
+p47
+aVMichael Olowokandi LAC 04/10/2001 LAC @ SAC L 28 13 6 9 66.7 0 0 - 1 3 33.3 3 5 8 1 0 1 2 4 -21
+p48
+aVSean Rooks LAC 04/10/2001 LAC @ SAC L 24 8 4 10 40.0 0 0 - 0 0 - 2 3 5 1 0 1 0 3 10
+p49
+aVSean Rooks LAC 04/07/2001 LAC vs. SAS L 26 9 4 11 36.4 0 0 - 1 2 50.0 3 0 3 1 1 2 1 3 2
+p50
+aVKeyon Dooling LAC 04/07/2001 LAC vs. SAS L 27 8 4 10 40.0 0 4 0.0 0 1 0.0 0 1 1 3 0 0 1 1 4
+p51
+aVMichael Olowokandi LAC 04/07/2001 LAC vs. SAS L 20 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 3 4 -13
+p52
+aVJeff McInnis LAC 04/07/2001 LAC vs. SAS L 39 15 6 14 42.9 1 3 33.3 2 3 66.7 2 3 5 5 1 0 1 4 -16
+p53
+aVQuentin Richardson LAC 04/07/2001 LAC vs. SAS L 15 5 2 5 40.0 1 2 50.0 0 0 - 2 3 5 1 0 0 0 1 1
+p54
+aVCherokee Parks LAC 04/07/2001 LAC vs. SAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p55
+aVEric Piatkowski LAC 04/07/2001 LAC vs. SAS L 22 9 4 11 36.4 0 3 0.0 1 1 100.0 0 3 3 1 0 0 0 2 -12
+p56
+aVDarius Miles LAC 04/07/2001 LAC vs. SAS L 12 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 1 2 3 -12
+p57
+aVCorey Maggette LAC 04/07/2001 LAC vs. SAS L 41 15 4 12 33.3 1 4 25.0 6 6 100.0 2 13 15 3 0 0 1 2 -7
+p58
+aVDerek Strong LAC 04/07/2001 LAC vs. SAS L 36 17 7 14 50.0 0 1 0.0 3 4 75.0 2 4 6 2 2 0 0 2 4
+p59
+aVQuentin Richardson LAC 04/06/2001 LAC vs. MIL W 7 5 2 4 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 2
+p60
+aVCherokee Parks LAC 04/06/2001 LAC vs. MIL W 9 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 1 0 0 0 1
+p61
+aVLamar Odom LAC 04/06/2001 LAC vs. MIL W 36 18 7 17 41.2 0 2 0.0 4 8 50.0 2 4 6 7 1 0 2 1 -4
+p62
+aVMichael Olowokandi LAC 04/06/2001 LAC vs. MIL W 31 13 5 10 50.0 0 0 - 3 4 75.0 7 4 11 0 0 0 4 0 -8
+p63
+aVDarius Miles LAC 04/06/2001 LAC vs. MIL W 41 26 9 15 60.0 0 0 - 8 12 66.7 3 6 9 2 1 3 4 4 7
+p64
+aVCorey Maggette LAC 04/06/2001 LAC vs. MIL W 27 10 4 7 57.1 1 3 33.3 1 2 50.0 0 7 7 1 0 0 1 4 2
+p65
+aVSean Rooks LAC 04/06/2001 LAC vs. MIL W 21 6 2 5 40.0 0 0 - 2 2 100.0 1 7 8 2 0 1 1 2 11
+p66
+aVJeff McInnis LAC 04/06/2001 LAC vs. MIL W 30 6 3 12 25.0 0 2 0.0 0 0 - 0 1 1 5 2 1 0 4 -6
+p67
+aVKeyon Dooling LAC 04/06/2001 LAC vs. MIL W 23 12 3 6 50.0 3 4 75.0 3 4 75.0 0 6 6 5 1 1 2 2 9
+p68
+aVEric Piatkowski LAC 04/06/2001 LAC vs. MIL W 39 13 4 12 33.3 2 6 33.3 3 3 100.0 0 1 1 1 0 0 1 3 1
+p69
+aVSean Rooks LAC 04/04/2001 LAC @ VAN L 15 4 2 6 33.3 0 0 - 0 2 0.0 0 2 2 0 0 0 0 3 6
+p70
+aVDarius Miles LAC 04/04/2001 LAC @ VAN L 36 11 4 10 40.0 0 0 - 3 3 100.0 1 3 4 0 1 3 3 3 0
+p71
+aVCorey Maggette LAC 04/04/2001 LAC @ VAN L 23 15 4 6 66.7 1 1 100.0 6 8 75.0 0 4 4 1 1 0 1 3 3
+p72
+aVLamar Odom LAC 04/04/2001 LAC @ VAN L 43 18 7 14 50.0 0 3 0.0 4 5 80.0 2 7 9 8 0 0 1 1 -5
+p73
+aVKeyon Dooling LAC 04/04/2001 LAC @ VAN L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 10
+p74
+aVQuentin Richardson LAC 04/04/2001 LAC @ VAN L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p75
+aVCherokee Parks LAC 04/04/2001 LAC @ VAN L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p76
+aVEric Piatkowski LAC 04/04/2001 LAC @ VAN L 26 10 3 8 37.5 1 4 25.0 3 4 75.0 0 1 1 0 1 0 0 1 -9
+p77
+aVJeff McInnis LAC 04/04/2001 LAC @ VAN L 34 10 5 13 38.5 0 4 0.0 0 0 - 0 4 4 3 0 0 2 4 -18
+p78
+aVMichael Olowokandi LAC 04/04/2001 LAC @ VAN L 32 6 3 10 30.0 0 0 - 0 0 - 2 3 5 0 2 1 2 1 -15
+p79
+aVSean Rooks LAC 03/31/2001 LAC vs. CLE W 23 10 3 5 60.0 0 0 - 4 4 100.0 0 2 2 3 0 1 0 3 2
+p80
+aVKeyon Dooling LAC 03/31/2001 LAC vs. CLE W 15 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 0 0 0 3 5
+p81
+aVLamar Odom LAC 03/31/2001 LAC vs. CLE W 41 11 4 11 36.4 1 2 50.0 2 6 33.3 1 9 10 10 1 1 3 4 4
+p82
+aVDarius Miles LAC 03/31/2001 LAC vs. CLE W 29 11 5 9 55.6 0 0 - 1 2 50.0 0 3 3 0 1 2 2 3 -1
+p83
+aVQuentin Richardson LAC 03/31/2001 LAC vs. CLE W 6 6 1 1 100.0 1 1 100.0 3 4 75.0 1 1 2 0 0 0 0 0 5
+p84
+aVEric Piatkowski LAC 03/31/2001 LAC vs. CLE W 33 20 7 10 70.0 2 5 40.0 4 4 100.0 3 1 4 0 0 2 1 0 5
+p85
+aVJeff McInnis LAC 03/31/2001 LAC vs. CLE W 33 14 5 13 38.5 1 3 33.3 3 5 60.0 0 2 2 6 0 0 0 1 2
+p86
+aVCorey Maggette LAC 03/31/2001 LAC vs. CLE W 23 18 6 10 60.0 1 2 50.0 5 5 100.0 0 4 4 1 1 0 1 1 5
+p87
+aVCherokee Parks LAC 03/31/2001 LAC vs. CLE W 12 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 1 0 3 3
+p88
+aVMichael Olowokandi LAC 03/31/2001 LAC vs. CLE W 25 8 4 11 36.4 0 0 - 0 2 0.0 3 5 8 4 0 2 1 6 5
+p89
+aVLamar Odom LAC 03/30/2001 LAC @ SEA L 37 7 3 6 50.0 0 1 0.0 1 2 50.0 2 4 6 5 1 1 2 3 -8
+p90
+aVSean Rooks LAC 03/30/2001 LAC @ SEA L 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 3 2 3 1 1 4
+p91
+aVQuentin Richardson LAC 03/30/2001 LAC @ SEA L 11 4 1 4 25.0 0 1 0.0 2 2 100.0 2 1 3 1 0 0 2 1 8
+p92
+aVEric Piatkowski LAC 03/30/2001 LAC @ SEA L 33 15 5 10 50.0 2 6 33.3 3 4 75.0 0 4 4 2 1 0 2 1 -13
+p93
+aVMichael Olowokandi LAC 03/30/2001 LAC @ SEA L 32 16 8 11 72.7 0 0 - 0 0 - 2 6 8 1 0 3 2 1 -14
+p94
+aVJeff McInnis LAC 03/30/2001 LAC @ SEA L 33 6 3 13 23.1 0 4 0.0 0 0 - 0 3 3 4 1 0 1 2 -18
+p95
+aVCorey Maggette LAC 03/30/2001 LAC @ SEA L 16 12 3 10 30.0 0 2 0.0 6 8 75.0 1 6 7 1 0 0 2 1 -7
+p96
+aVDarius Miles LAC 03/30/2001 LAC @ SEA L 32 13 6 10 60.0 0 0 - 1 4 25.0 3 2 5 2 0 0 3 3 -8
+p97
+aVKeyon Dooling LAC 03/30/2001 LAC @ SEA L 15 9 4 4 100.0 1 1 100.0 0 0 - 0 3 3 1 2 0 1 1 8
+p98
+aVCherokee Parks LAC 03/30/2001 LAC @ SEA L 16 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 1 1 3 -2
+p99
+aVJeff McInnis LAC 03/27/2001 LAC vs. DET W 31 15 7 12 58.3 1 2 50.0 0 0 - 1 1 2 6 0 0 2 1 5
+p100
+aVCherokee Parks LAC 03/27/2001 LAC vs. DET W 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 2 0 3 -5
+p101
+aVCorey Maggette LAC 03/27/2001 LAC vs. DET W 26 12 3 12 25.0 0 2 0.0 6 7 85.7 1 6 7 0 1 0 2 1 14
+p102
+aVDarius Miles LAC 03/27/2001 LAC vs. DET W 33 13 6 10 60.0 0 0 - 1 3 33.3 2 4 6 2 1 3 2 2 12
+p103
+aVQuentin Richardson LAC 03/27/2001 LAC vs. DET W 8 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 1
+p104
+aVKeyon Dooling LAC 03/27/2001 LAC vs. DET W 17 7 1 6 16.7 1 2 50.0 4 6 66.7 0 2 2 4 1 0 0 3 2
+p105
+aVLamar Odom LAC 03/27/2001 LAC vs. DET W 40 27 10 17 58.8 3 4 75.0 4 5 80.0 5 11 16 11 1 1 6 3 6
+p106
+aVSean Rooks LAC 03/27/2001 LAC vs. DET W 23 8 3 6 50.0 0 0 - 2 2 100.0 4 2 6 0 1 1 1 2 6
+p107
+aVEric Piatkowski LAC 03/27/2001 LAC vs. DET W 22 4 2 6 33.3 0 4 0.0 0 0 - 0 0 0 2 2 0 0 3 -7
+p108
+aVMichael Olowokandi LAC 03/27/2001 LAC vs. DET W 25 5 1 2 50.0 0 0 - 3 6 50.0 0 2 2 0 2 0 5 4 1
+p109
+aVEric Piatkowski LAC 03/26/2001 LAC @ POR L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -11
+p110
+aVMichael Olowokandi LAC 03/26/2001 LAC @ POR L 25 6 1 3 33.3 0 0 - 4 4 100.0 0 4 4 0 0 0 1 2 -15
+p111
+aVCherokee Parks LAC 03/26/2001 LAC @ POR L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 3 -16
+p112
+aVJeff McInnis LAC 03/26/2001 LAC @ POR L 33 14 6 13 46.2 2 4 50.0 0 0 - 1 3 4 5 1 0 3 2 -5
+p113
+aVCorey Maggette LAC 03/26/2001 LAC @ POR L 32 19 6 12 50.0 1 2 50.0 6 7 85.7 1 4 5 2 0 0 2 3 -5
+p114
+aVKeyon Dooling LAC 03/26/2001 LAC @ POR L 16 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 5 0 0 1 1 -3
+p115
+aVQuentin Richardson LAC 03/26/2001 LAC @ POR L 22 13 5 8 62.5 1 3 33.3 2 2 100.0 1 4 5 1 1 0 0 1 0
+p116
+aVDarius Miles LAC 03/26/2001 LAC @ POR L 36 12 5 9 55.6 0 0 - 2 4 50.0 0 4 4 0 2 2 0 3 8
+p117
+aVSean Rooks LAC 03/26/2001 LAC @ POR L 21 10 5 8 62.5 0 0 - 0 0 - 1 2 3 3 0 0 0 3 5
+p118
+aVLamar Odom LAC 03/26/2001 LAC @ POR L 32 14 4 10 40.0 0 3 0.0 6 8 75.0 0 8 8 3 1 1 3 6 2
+p119
+aVKeyon Dooling LAC 03/22/2001 LAC vs. HOU W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p120
+aVQuentin Richardson LAC 03/22/2001 LAC vs. HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p121
+aVDarius Miles LAC 03/22/2001 LAC vs. HOU W 28 5 1 5 20.0 0 0 - 3 4 75.0 2 5 7 2 0 1 0 2 -3
+p122
+aVJeff McInnis LAC 03/22/2001 LAC vs. HOU W 44 23 8 14 57.1 2 2 100.0 5 5 100.0 1 2 3 5 1 0 0 3 3
+p123
+aVCorey Maggette LAC 03/22/2001 LAC vs. HOU W 17 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 0 1 1 3
+p124
+aVLamar Odom LAC 03/22/2001 LAC vs. HOU W 39 12 3 15 20.0 2 6 33.3 4 6 66.7 1 10 11 11 0 1 4 0 -5
+p125
+aVSean Rooks LAC 03/22/2001 LAC vs. HOU W 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 0
+p126
+aVEric Piatkowski LAC 03/22/2001 LAC vs. HOU W 37 16 4 7 57.1 2 2 100.0 6 6 100.0 0 4 4 1 1 1 1 1 7
+p127
+aVCherokee Parks LAC 03/22/2001 LAC vs. HOU W 20 8 4 4 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 2 8
+p128
+aVMichael Olowokandi LAC 03/22/2001 LAC vs. HOU W 31 20 9 16 56.3 0 0 - 2 8 25.0 3 5 8 0 0 4 1 3 8
+p129
+aVJeff McInnis LAC 03/20/2001 LAC vs. PHI W 41 16 6 12 50.0 2 6 33.3 2 3 66.7 0 3 3 9 0 0 0 3 16
+p130
+aVQuentin Richardson LAC 03/20/2001 LAC vs. PHI W 9 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p131
+aVSean Rooks LAC 03/20/2001 LAC vs. PHI W 10 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -5
+p132
+aVEric Piatkowski LAC 03/20/2001 LAC vs. PHI W 40 13 4 5 80.0 3 3 100.0 2 2 100.0 0 5 5 0 2 0 1 0 16
+p133
+aVKeyon Dooling LAC 03/20/2001 LAC vs. PHI W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -7
+p134
+aVLamar Odom LAC 03/20/2001 LAC vs. PHI W 46 25 8 13 61.5 3 7 42.9 6 11 54.5 1 2 3 6 0 2 6 2 13
+p135
+aVMichael Olowokandi LAC 03/20/2001 LAC vs. PHI W 38 12 5 10 50.0 0 0 - 2 2 100.0 1 11 12 2 0 4 2 4 16
+p136
+aVDarius Miles LAC 03/20/2001 LAC vs. PHI W 35 10 4 6 66.7 0 1 0.0 2 2 100.0 1 6 7 2 0 3 5 3 13
+p137
+aVCherokee Parks LAC 03/20/2001 LAC vs. PHI W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 1 1 4 -2
+p138
+aVMichael Olowokandi LAC 03/18/2001 LAC vs. UTA L 24 6 3 6 50.0 0 0 - 0 2 0.0 2 2 4 0 1 2 2 5 -12
+p139
+aVEric Piatkowski LAC 03/18/2001 LAC vs. UTA L 44 12 5 11 45.5 1 4 25.0 1 1 100.0 0 0 0 2 0 0 1 0 -11
+p140
+aVCorey Maggette LAC 03/18/2001 LAC vs. UTA L 33 20 7 9 77.8 1 1 100.0 5 6 83.3 2 4 6 3 0 0 3 5 -21
+p141
+aVKeyon Dooling LAC 03/18/2001 LAC vs. UTA L 27 13 4 9 44.4 2 2 100.0 3 4 75.0 0 0 0 4 0 0 1 1 -5
+p142
+aVJeff McInnis LAC 03/18/2001 LAC vs. UTA L 36 14 3 11 27.3 0 1 0.0 8 8 100.0 1 2 3 9 1 0 2 4 -15
+p143
+aVSean Rooks LAC 03/18/2001 LAC vs. UTA L 25 13 4 5 80.0 0 0 - 5 8 62.5 0 2 2 2 1 0 0 3 -1
+p144
+aVCherokee Parks LAC 03/18/2001 LAC vs. UTA L 20 4 0 2 0.0 0 0 - 4 4 100.0 1 3 4 1 1 2 0 2 -1
+p145
+aVDarius Miles LAC 03/18/2001 LAC vs. UTA L 32 14 6 7 85.7 0 0 - 2 4 50.0 1 9 10 0 1 0 4 3 -9
+p146
+aVSean Rooks LAC 03/16/2001 LAC vs. GSW W 14 0 0 4 0.0 0 0 - 0 0 - 0 4 4 1 0 1 0 2 12
+p147
+aVMichael Olowokandi LAC 03/16/2001 LAC vs. GSW W 28 3 1 4 25.0 0 0 - 1 2 50.0 3 5 8 4 1 4 4 2 12
+p148
+aVBrian Skinner LAC 03/16/2001 LAC vs. GSW W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -6
+p149
+aVCorey Maggette LAC 03/16/2001 LAC vs. GSW W 41 20 7 12 58.3 2 2 100.0 4 4 100.0 1 9 10 2 1 2 2 5 19
+p150
+aVKeyon Dooling LAC 03/16/2001 LAC vs. GSW W 24 13 4 6 66.7 0 0 - 5 5 100.0 0 1 1 2 2 0 4 1 4
+p151
+aVEric Piatkowski LAC 03/16/2001 LAC vs. GSW W 35 14 4 12 33.3 2 5 40.0 4 4 100.0 0 2 2 1 0 1 1 3 16
+p152
+aVCherokee Parks LAC 03/16/2001 LAC vs. GSW W 14 8 4 7 57.1 0 0 - 0 0 - 0 5 5 0 0 0 0 2 7
+p153
+aVJeff McInnis LAC 03/16/2001 LAC vs. GSW W 44 21 8 15 53.3 3 5 60.0 2 3 66.7 0 12 12 11 1 0 1 2 15
+p154
+aVDarius Miles LAC 03/16/2001 LAC vs. GSW W 34 13 5 8 62.5 0 0 - 3 4 75.0 0 3 3 1 2 4 3 2 11
+p155
+aVQuentin Richardson LAC 03/12/2001 LAC @ SAS L 27 7 2 8 25.0 0 1 0.0 3 6 50.0 3 3 6 3 0 0 1 2 -2
+p156
+aVMichael Olowokandi LAC 03/12/2001 LAC @ SAS L 24 4 1 10 10.0 0 0 - 2 2 100.0 4 3 7 1 1 1 3 2 -18
+p157
+aVKeyon Dooling LAC 03/12/2001 LAC @ SAS L 24 14 5 7 71.4 2 2 100.0 2 2 100.0 0 3 3 3 1 0 0 1 -2
+p158
+aVCorey Maggette LAC 03/12/2001 LAC @ SAS L 34 15 7 13 53.8 0 0 - 1 1 100.0 1 5 6 1 0 0 3 2 -18
+p159
+aVEric Piatkowski LAC 03/12/2001 LAC @ SAS L 26 2 0 8 0.0 0 4 0.0 2 2 100.0 0 0 0 2 0 0 0 0 -12
+p160
+aVDarius Miles LAC 03/12/2001 LAC @ SAS L 31 11 5 10 50.0 0 0 - 1 2 50.0 0 8 8 3 0 1 1 2 -9
+p161
+aVBrian Skinner LAC 03/12/2001 LAC @ SAS L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 4
+p162
+aVSean Rooks LAC 03/12/2001 LAC @ SAS L 15 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 -4
+p163
+aVCherokee Parks LAC 03/12/2001 LAC @ SAS L 15 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 1 0 4 -11
+p164
+aVJeff McInnis LAC 03/12/2001 LAC @ SAS L 35 20 7 16 43.8 2 3 66.7 4 6 66.7 1 0 1 4 3 0 1 3 -18
+p165
+aVQuentin Richardson LAC 03/11/2001 LAC @ DAL L 28 15 6 15 40.0 1 4 25.0 2 4 50.0 2 3 5 1 0 0 0 0 -2
+p166
+aVMichael Olowokandi LAC 03/11/2001 LAC @ DAL L 25 13 4 8 50.0 0 0 - 5 8 62.5 2 4 6 1 2 1 3 1 -19
+p167
+aVKeyon Dooling LAC 03/11/2001 LAC @ DAL L 26 10 4 8 50.0 0 1 0.0 2 2 100.0 0 1 1 6 1 0 1 5 -5
+p168
+aVSean Rooks LAC 03/11/2001 LAC @ DAL L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 1 2 0 -5
+p169
+aVJeff McInnis LAC 03/11/2001 LAC @ DAL L 22 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 4 0 1 2 3 -13
+p170
+aVEric Piatkowski LAC 03/11/2001 LAC @ DAL L 29 7 2 5 40.0 1 2 50.0 2 2 100.0 1 2 3 5 1 0 0 1 -15
+p171
+aVDarius Miles LAC 03/11/2001 LAC @ DAL L 31 12 6 9 66.7 0 0 - 0 0 - 0 5 5 1 0 0 1 2 0
+p172
+aVBrian Skinner LAC 03/11/2001 LAC @ DAL L 13 5 2 3 66.7 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 8
+p173
+aVCherokee Parks LAC 03/11/2001 LAC @ DAL L 17 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 1 0 3 -20
+p174
+aVCorey Maggette LAC 03/11/2001 LAC @ DAL L 39 14 2 12 16.7 0 3 0.0 10 12 83.3 1 9 10 5 1 1 3 3 -19
+p175
+aVEric Piatkowski LAC 03/08/2001 LAC @ HOU L 35 9 4 11 36.4 1 2 50.0 0 1 0.0 2 5 7 4 0 0 0 2 -7
+p176
+aVCorey Maggette LAC 03/08/2001 LAC @ HOU L 44 19 8 14 57.1 0 3 0.0 3 5 60.0 8 4 12 1 2 0 0 2 -13
+p177
+aVSean Rooks LAC 03/08/2001 LAC @ HOU L 20 4 2 8 25.0 0 0 - 0 0 - 0 4 4 0 0 2 2 2 -5
+p178
+aVCherokee Parks LAC 03/08/2001 LAC @ HOU L 20 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 3 1 0 0 2 1
+p179
+aVDarius Miles LAC 03/08/2001 LAC @ HOU L 31 8 4 9 44.4 0 0 - 0 0 - 0 4 4 0 1 0 2 3 -15
+p180
+aVQuentin Richardson LAC 03/08/2001 LAC @ HOU L 13 7 3 4 75.0 0 1 0.0 1 2 50.0 1 4 5 1 0 0 1 1 -5
+p181
+aVJeff McInnis LAC 03/08/2001 LAC @ HOU L 39 20 9 19 47.4 0 2 0.0 2 3 66.7 0 3 3 6 0 0 2 4 -17
+p182
+aVMichael Olowokandi LAC 03/08/2001 LAC @ HOU L 25 11 4 8 50.0 0 0 - 3 4 75.0 1 4 5 0 1 1 4 4 -5
+p183
+aVKeyon Dooling LAC 03/08/2001 LAC @ HOU L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 1 2 6
+p184
+aVCherokee Parks LAC 03/05/2001 LAC vs. DEN W 28 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 0 0 2 0 -1
+p185
+aVKeyon Dooling LAC 03/05/2001 LAC vs. DEN W 14 8 1 3 33.3 0 0 - 6 6 100.0 1 0 1 1 1 0 0 2 8
+p186
+aVJeff McInnis LAC 03/05/2001 LAC vs. DEN W 37 14 6 10 60.0 0 0 - 2 2 100.0 0 4 4 3 2 0 1 2 9
+p187
+aVMichael Olowokandi LAC 03/05/2001 LAC vs. DEN W 16 8 4 7 57.1 0 0 - 0 0 - 2 5 7 0 1 1 1 3 1
+p188
+aVBrian Skinner LAC 03/05/2001 LAC vs. DEN W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -14
+p189
+aVQuentin Richardson LAC 03/05/2001 LAC vs. DEN W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -15
+p190
+aVSean Rooks LAC 03/05/2001 LAC vs. DEN W 28 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 1 2 1 2 26
+p191
+aVEric Piatkowski LAC 03/05/2001 LAC vs. DEN W 23 11 4 9 44.4 1 2 50.0 2 2 100.0 0 1 1 1 0 0 0 2 10
+p192
+aVCorey Maggette LAC 03/05/2001 LAC vs. DEN W 19 14 5 7 71.4 0 0 - 4 4 100.0 0 4 4 0 2 0 2 3 8
+p193
+aVLamar Odom LAC 03/05/2001 LAC vs. DEN W 46 27 12 16 75.0 1 3 33.3 2 3 66.7 0 7 7 2 0 1 2 1 19
+p194
+aVDarius Miles LAC 03/05/2001 LAC vs. DEN W 21 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 2 14
+p195
+aVMichael Olowokandi LAC 03/02/2001 LAC vs. SAC W 24 6 3 5 60.0 0 0 - 0 2 0.0 1 1 2 0 1 1 4 3 -8
+p196
+aVCorey Maggette LAC 03/02/2001 LAC vs. SAC W 23 23 7 14 50.0 1 2 50.0 8 9 88.9 2 1 3 2 0 1 1 1 9
+p197
+aVDarius Miles LAC 03/02/2001 LAC vs. SAC W 21 4 2 5 40.0 0 0 - 0 2 0.0 4 2 6 0 1 2 1 1 9
+p198
+aVSean Rooks LAC 03/02/2001 LAC vs. SAC W 24 5 2 5 40.0 0 0 - 1 2 50.0 2 5 7 1 0 3 0 4 15
+p199
+aVLamar Odom LAC 03/02/2001 LAC vs. SAC W 34 11 4 15 26.7 1 3 33.3 2 2 100.0 2 9 11 5 1 1 2 4 1
+p200
+aVJeff McInnis LAC 03/02/2001 LAC vs. SAC W 33 8 4 10 40.0 0 0 - 0 1 0.0 0 1 1 1 3 0 1 1 -4
+p201
+aVEric Piatkowski LAC 03/02/2001 LAC vs. SAC W 30 11 4 10 40.0 2 4 50.0 1 1 100.0 1 3 4 2 0 0 1 1 -4
+p202
+aVKeyon Dooling LAC 03/02/2001 LAC vs. SAC W 15 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 2 1 0 0 0 11
+p203
+aVQuentin Richardson LAC 03/02/2001 LAC vs. SAC W 10 5 2 6 33.3 1 2 50.0 0 0 - 2 1 3 1 0 0 0 0 9
+p204
+aVCherokee Parks LAC 03/02/2001 LAC vs. SAC W 27 8 4 8 50.0 0 0 - 0 0 - 3 9 12 1 1 0 2 0 -3
+p205
+aVDarius Miles LAC 03/01/2001 LAC @ POR L 30 10 5 7 71.4 0 0 - 0 0 - 1 4 5 0 0 1 3 2 -7
+p206
+aVJeff McInnis LAC 03/01/2001 LAC @ POR L 32 5 2 12 16.7 0 2 0.0 1 2 50.0 0 4 4 4 0 0 0 1 -9
+p207
+aVCherokee Parks LAC 03/01/2001 LAC @ POR L 18 10 5 9 55.6 0 0 - 0 0 - 2 0 2 0 0 0 0 3 -6
+p208
+aVKeyon Dooling LAC 03/01/2001 LAC @ POR L 16 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 2 0 0 4 2 -4
+p209
+aVLamar Odom LAC 03/01/2001 LAC @ POR L 27 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 4 1 1 1 2 -3
+p210
+aVSean Rooks LAC 03/01/2001 LAC @ POR L 14 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 0 -6
+p211
+aVCorey Maggette LAC 03/01/2001 LAC @ POR L 21 13 4 7 57.1 2 2 100.0 3 4 75.0 0 3 3 1 1 0 2 2 -10
+p212
+aVEric Piatkowski LAC 03/01/2001 LAC @ POR L 29 15 3 6 50.0 3 5 60.0 6 6 100.0 0 2 2 1 1 0 1 2 -3
+p213
+aVMichael Olowokandi LAC 03/01/2001 LAC @ POR L 34 13 5 11 45.5 0 0 - 3 4 75.0 2 6 8 3 1 1 1 0 -7
+p214
+aVQuentin Richardson LAC 03/01/2001 LAC @ POR L 19 8 2 6 33.3 1 2 50.0 3 4 75.0 0 2 2 1 1 0 0 0 -10
+p215
+aVKeyon Dooling LAC 02/27/2001 LAC @ SAC L 8 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p216
+aVDarius Miles LAC 02/27/2001 LAC @ SAC L 27 3 1 4 25.0 0 0 - 1 2 50.0 1 6 7 1 1 4 0 2 -5
+p217
+aVLamar Odom LAC 02/27/2001 LAC @ SAC L 42 16 7 14 50.0 1 4 25.0 1 6 16.7 0 4 4 6 0 1 3 0 -15
+p218
+aVMichael Olowokandi LAC 02/27/2001 LAC @ SAC L 25 8 4 13 30.8 0 0 - 0 0 - 4 5 9 0 1 2 3 6 -7
+p219
+aVEric Piatkowski LAC 02/27/2001 LAC @ SAC L 46 15 6 8 75.0 1 3 33.3 2 2 100.0 0 7 7 1 0 0 3 2 -10
+p220
+aVJeff McInnis LAC 02/27/2001 LAC @ SAC L 45 33 14 24 58.3 2 3 66.7 3 4 75.0 1 1 2 4 0 0 0 1 -7
+p221
+aVSean Rooks LAC 02/27/2001 LAC @ SAC L 27 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 2 1 1 1 5 -8
+p222
+aVCorey Maggette LAC 02/27/2001 LAC @ SAC L 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 1 0 1 1 4
+p223
+aVQuentin Richardson LAC 02/27/2001 LAC @ SAC L 7 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -3
+p224
+aVCherokee Parks LAC 02/27/2001 LAC @ SAC L 25 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 0 1 2 3 -8
+p225
+aVCherokee Parks LAC 02/26/2001 LAC vs. DAL L 11 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 0 -6
+p226
+aVMichael Olowokandi LAC 02/26/2001 LAC vs. DAL L 27 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 0 2 0 5 -13
+p227
+aVJeff McInnis LAC 02/26/2001 LAC vs. DAL L 31 8 3 9 33.3 1 3 33.3 1 2 50.0 0 4 4 6 0 0 0 5 3
+p228
+aVQuentin Richardson LAC 02/26/2001 LAC vs. DAL L 19 13 6 9 66.7 1 2 50.0 0 0 - 2 2 4 0 1 0 1 0 1
+p229
+aVCorey Maggette LAC 02/26/2001 LAC vs. DAL L 23 10 3 6 50.0 0 0 - 4 4 100.0 1 2 3 1 0 0 2 1 -8
+p230
+aVDarius Miles LAC 02/26/2001 LAC vs. DAL L 32 10 4 9 44.4 0 0 - 2 6 33.3 3 2 5 1 0 0 1 4 -10
+p231
+aVKeyon Dooling LAC 02/26/2001 LAC vs. DAL L 17 5 2 8 25.0 0 1 0.0 1 2 50.0 0 0 0 5 0 0 1 2 -14
+p232
+aVEric Piatkowski LAC 02/26/2001 LAC vs. DAL L 32 16 6 11 54.5 1 4 25.0 3 3 100.0 0 2 2 1 0 0 4 2 -8
+p233
+aVLamar Odom LAC 02/26/2001 LAC vs. DAL L 41 22 9 13 69.2 0 0 - 4 5 80.0 6 5 11 6 3 3 5 4 -6
+p234
+aVSean Rooks LAC 02/26/2001 LAC vs. DAL L 8 2 1 6 16.7 0 0 - 0 0 - 2 1 3 0 0 1 0 0 6
+p235
+aVSean Rooks LAC 02/24/2001 LAC vs. POR W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -1
+p236
+aVCorey Maggette LAC 02/24/2001 LAC vs. POR W 29 14 4 7 57.1 0 0 - 6 9 66.7 1 4 5 2 0 0 0 2 13
+p237
+aVMichael Olowokandi LAC 02/24/2001 LAC vs. POR W 46 24 12 20 60.0 0 0 - 0 0 - 1 8 9 4 0 3 1 4 5
+p238
+aVJeff McInnis LAC 02/24/2001 LAC vs. POR W 47 23 8 14 57.1 2 2 100.0 5 6 83.3 2 2 4 10 2 0 1 1 4
+p239
+aVDarius Miles LAC 02/24/2001 LAC vs. POR W 31 12 4 11 36.4 0 0 - 4 4 100.0 1 6 7 1 0 0 5 1 -4
+p240
+aVEric Piatkowski LAC 02/24/2001 LAC vs. POR W 39 15 4 10 40.0 3 7 42.9 4 4 100.0 1 1 2 1 1 1 0 2 4
+p241
+aVLamar Odom LAC 02/24/2001 LAC vs. POR W 51 22 9 17 52.9 3 6 50.0 1 2 50.0 1 8 9 5 4 0 6 3 -3
+p242
+aVKeyon Dooling LAC 02/24/2001 LAC vs. POR W 12 6 1 2 50.0 1 2 50.0 3 4 75.0 0 0 0 3 0 0 1 1 -4
+p243
+aVCherokee Parks LAC 02/24/2001 LAC vs. POR W 18 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 1 6
+p244
+aVQuentin Richardson LAC 02/24/2001 LAC vs. POR W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -5
+p245
+aVLamar Odom LAC 02/22/2001 LAC @ CHI W 38 14 4 9 44.4 1 2 50.0 5 6 83.3 1 9 10 9 1 2 6 3 21
+p246
+aVQuentin Richardson LAC 02/22/2001 LAC @ CHI W 24 7 2 7 28.6 1 2 50.0 2 4 50.0 1 2 3 3 1 0 1 0 4
+p247
+aVDarius Miles LAC 02/22/2001 LAC @ CHI W 34 14 5 7 71.4 0 0 - 4 4 100.0 0 5 5 2 0 1 2 3 8
+p248
+aVDerek Strong LAC 02/22/2001 LAC @ CHI W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 7
+p249
+aVJeff McInnis LAC 02/22/2001 LAC @ CHI W 38 17 8 15 53.3 1 1 100.0 0 0 - 1 3 4 6 0 0 0 3 23
+p250
+aVCorey Maggette LAC 02/22/2001 LAC @ CHI W 10 1 0 3 0.0 0 1 0.0 1 4 25.0 0 0 0 0 0 0 1 1 -8
+p251
+aVBrian Skinner LAC 02/22/2001 LAC @ CHI W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 1 4 -2
+p252
+aVSean Rooks LAC 02/22/2001 LAC @ CHI W 22 12 6 8 75.0 0 0 - 0 0 - 0 3 3 1 0 0 0 4 16
+p253
+aVMichael Olowokandi LAC 02/22/2001 LAC @ CHI W 26 8 4 10 40.0 0 0 - 0 0 - 5 4 9 0 0 0 1 1 -3
+p254
+aVKeyon Dooling LAC 02/22/2001 LAC @ CHI W 10 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 3 1 0 1 1 -10
+p255
+aVEric Piatkowski LAC 02/22/2001 LAC @ CHI W 24 14 5 8 62.5 2 3 66.7 2 2 100.0 1 5 6 0 0 0 0 2 9
+p256
+aVMichael Olowokandi LAC 02/21/2001 LAC @ CLE W 24 7 3 13 23.1 0 0 - 1 2 50.0 4 6 10 1 0 0 0 2 0
+p257
+aVJeff McInnis LAC 02/21/2001 LAC @ CLE W 36 12 5 7 71.4 1 2 50.0 1 1 100.0 0 2 2 6 1 2 2 3 0
+p258
+aVBrian Skinner LAC 02/21/2001 LAC @ CLE W 19 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 2 -3
+p259
+aVEric Piatkowski LAC 02/21/2001 LAC @ CLE W 24 8 2 6 33.3 1 4 25.0 3 3 100.0 0 7 7 1 0 2 1 0 -6
+p260
+aVCorey Maggette LAC 02/21/2001 LAC @ CLE W 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 2 0 1 0 4
+p261
+aVQuentin Richardson LAC 02/21/2001 LAC @ CLE W 27 19 8 13 61.5 1 2 50.0 2 4 50.0 2 1 3 0 3 0 2 0 16
+p262
+aVLamar Odom LAC 02/21/2001 LAC @ CLE W 39 23 9 16 56.3 3 8 37.5 2 2 100.0 3 5 8 8 0 1 2 2 2
+p263
+aVDarius Miles LAC 02/21/2001 LAC @ CLE W 26 16 7 12 58.3 0 0 - 2 2 100.0 4 6 10 1 1 0 2 5 5
+p264
+aVSean Rooks LAC 02/21/2001 LAC @ CLE W 24 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 1 0 2 2 3 6
+p265
+aVKeyon Dooling LAC 02/21/2001 LAC @ CLE W 12 3 0 5 0.0 0 0 - 3 4 75.0 0 0 0 1 0 0 1 2 6
+p266
+aVMichael Olowokandi LAC 02/19/2001 LAC @ DET W 33 12 5 8 62.5 0 0 - 2 2 100.0 1 6 7 0 0 1 5 5 4
+p267
+aVSean Rooks LAC 02/19/2001 LAC @ DET W 20 12 5 9 55.6 0 0 - 2 2 100.0 2 3 5 0 2 0 0 3 1
+p268
+aVEric Piatkowski LAC 02/19/2001 LAC @ DET W 41 20 7 13 53.8 6 8 75.0 0 0 - 0 6 6 3 2 0 2 1 7
+p269
+aVKeyon Dooling LAC 02/19/2001 LAC @ DET W 8 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 2 0 0 0 1 -5
+p270
+aVBrian Skinner LAC 02/19/2001 LAC @ DET W 10 4 1 4 25.0 0 0 - 2 6 33.3 4 3 7 0 1 0 1 1 -5
+p271
+aVQuentin Richardson LAC 02/19/2001 LAC @ DET W 13 9 3 6 50.0 0 2 0.0 3 5 60.0 1 0 1 1 0 0 0 1 -2
+p272
+aVJeff McInnis LAC 02/19/2001 LAC @ DET W 45 12 5 11 45.5 0 1 0.0 2 2 100.0 1 0 1 12 1 0 0 2 10
+p273
+aVDarius Miles LAC 02/19/2001 LAC @ DET W 42 15 7 12 58.3 0 0 - 1 2 50.0 0 11 11 1 0 2 1 3 10
+p274
+aVCorey Maggette LAC 02/19/2001 LAC @ DET W 25 15 3 7 42.9 0 1 0.0 9 11 81.8 1 5 6 1 0 0 1 4 10
+p275
+aVLamar Odom LAC 02/19/2001 LAC @ DET W 28 12 4 8 50.0 0 1 0.0 4 6 66.7 1 3 4 4 0 4 5 5 -5
+p276
+aVCorey Maggette LAC 02/18/2001 LAC @ NJN L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 2 2 0 2 2 2
+p277
+aVEric Piatkowski LAC 02/18/2001 LAC @ NJN L 33 4 1 7 14.3 1 4 25.0 1 2 50.0 1 4 5 2 2 0 1 1 -8
+p278
+aVMichael Olowokandi LAC 02/18/2001 LAC @ NJN L 17 4 2 6 33.3 0 0 - 0 2 0.0 0 0 0 0 1 1 2 3 -14
+p279
+aVCherokee Parks LAC 02/18/2001 LAC @ NJN L 43 13 5 8 62.5 0 0 - 3 4 75.0 4 10 14 2 0 3 3 3 -2
+p280
+aVJeff McInnis LAC 02/18/2001 LAC @ NJN L 38 10 4 9 44.4 1 1 100.0 1 2 50.0 1 2 3 8 0 0 4 6 -14
+p281
+aVSean Rooks LAC 02/18/2001 LAC @ NJN L 20 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 1 1 1 12
+p282
+aVDarius Miles LAC 02/18/2001 LAC @ NJN L 13 3 1 5 20.0 0 0 - 1 3 33.3 1 2 3 0 2 1 1 3 -6
+p283
+aVLamar Odom LAC 02/18/2001 LAC @ NJN L 37 34 13 24 54.2 3 7 42.9 5 8 62.5 0 3 3 2 0 3 6 5 -9
+p284
+aVKeyon Dooling LAC 02/18/2001 LAC @ NJN L 15 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 4 2 0 2 4 7
+p285
+aVDerek Strong LAC 02/18/2001 LAC @ NJN L 10 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 3
+p286
+aVQuentin Richardson LAC 02/18/2001 LAC @ NJN L 24 15 7 11 63.6 1 3 33.3 0 1 0.0 2 2 4 1 3 0 1 2 -1
+p287
+aVJeff McInnis LAC 02/16/2001 LAC @ PHI L 31 11 5 11 45.5 1 3 33.3 0 0 - 0 3 3 9 0 0 3 3 1
+p288
+aVEric Piatkowski LAC 02/16/2001 LAC @ PHI L 29 19 7 12 58.3 4 8 50.0 1 2 50.0 2 5 7 1 0 0 4 1 -12
+p289
+aVDarius Miles LAC 02/16/2001 LAC @ PHI L 35 17 6 7 85.7 0 0 - 5 9 55.6 0 4 4 2 0 2 0 1 -6
+p290
+aVLamar Odom LAC 02/16/2001 LAC @ PHI L 32 12 5 11 45.5 1 2 50.0 1 4 25.0 0 6 6 5 0 1 1 2 -17
+p291
+aVCorey Maggette LAC 02/16/2001 LAC @ PHI L 17 12 3 8 37.5 0 0 - 6 7 85.7 0 3 3 0 1 0 1 2 2
+p292
+aVKeyon Dooling LAC 02/16/2001 LAC @ PHI L 17 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 4 0 0 1 2 -16
+p293
+aVSean Rooks LAC 02/16/2001 LAC @ PHI L 18 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 3 1 2 -8
+p294
+aVMichael Olowokandi LAC 02/16/2001 LAC @ PHI L 30 6 3 7 42.9 0 0 - 0 0 - 2 1 3 1 0 4 3 5 -7
+p295
+aVQuentin Richardson LAC 02/16/2001 LAC @ PHI L 19 5 2 8 25.0 1 5 20.0 0 0 - 0 4 4 2 1 0 0 2 -3
+p296
+aVCherokee Parks LAC 02/16/2001 LAC @ PHI L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 1 -9
+p297
+aVLamar Odom LAC 02/14/2001 LAC @ ORL L 34 15 2 7 28.6 0 3 0.0 11 12 91.7 1 3 4 4 0 1 2 2 -19
+p298
+aVSean Rooks LAC 02/14/2001 LAC @ ORL L 15 8 2 4 50.0 0 0 - 4 5 80.0 2 2 4 0 1 1 1 5 -5
+p299
+aVKeyon Dooling LAC 02/14/2001 LAC @ ORL L 22 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 4 0 0 0 0 6
+p300
+aVEric Piatkowski LAC 02/14/2001 LAC @ ORL L 20 9 3 7 42.9 2 4 50.0 1 1 100.0 1 3 4 0 1 1 1 1 -11
+p301
+aVQuentin Richardson LAC 02/14/2001 LAC @ ORL L 20 8 3 5 60.0 0 1 0.0 2 3 66.7 2 2 4 2 2 0 2 1 2
+p302
+aVCherokee Parks LAC 02/14/2001 LAC @ ORL L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -8
+p303
+aVMichael Olowokandi LAC 02/14/2001 LAC @ ORL L 33 10 4 10 40.0 0 0 - 2 2 100.0 2 9 11 0 0 1 1 1 -8
+p304
+aVCorey Maggette LAC 02/14/2001 LAC @ ORL L 25 11 3 8 37.5 0 0 - 5 6 83.3 2 4 6 4 0 1 3 1 -4
+p305
+aVJeff McInnis LAC 02/14/2001 LAC @ ORL L 26 14 4 11 36.4 2 2 100.0 4 4 100.0 0 0 0 3 0 0 1 2 -19
+p306
+aVDarius Miles LAC 02/14/2001 LAC @ ORL L 35 14 6 14 42.9 0 1 0.0 2 2 100.0 2 4 6 2 1 2 5 1 1
+p307
+aVKeyon Dooling LAC 02/13/2001 LAC @ MIA L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 1 2 0 2 1 5
+p308
+aVDarius Miles LAC 02/13/2001 LAC @ MIA L 17 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 1 1 3 4
+p309
+aVCherokee Parks LAC 02/13/2001 LAC @ MIA L 38 12 5 9 55.6 0 0 - 2 2 100.0 3 3 6 2 0 0 1 2 -5
+p310
+aVLamar Odom LAC 02/13/2001 LAC @ MIA L 43 19 6 13 46.2 2 4 50.0 5 6 83.3 1 6 7 6 1 2 2 2 -7
+p311
+aVCorey Maggette LAC 02/13/2001 LAC @ MIA L 23 13 4 6 66.7 1 1 100.0 4 6 66.7 1 5 6 1 0 0 3 3 0
+p312
+aVMichael Olowokandi LAC 02/13/2001 LAC @ MIA L 26 12 6 11 54.5 0 0 - 0 0 - 1 5 6 0 1 1 2 6 4
+p313
+aVEric Piatkowski LAC 02/13/2001 LAC @ MIA L 32 5 2 8 25.0 0 3 0.0 1 1 100.0 0 1 1 2 0 0 0 2 2
+p314
+aVQuentin Richardson LAC 02/13/2001 LAC @ MIA L 13 9 3 3 100.0 1 1 100.0 2 2 100.0 0 5 5 0 0 0 1 1 5
+p315
+aVJeff McInnis LAC 02/13/2001 LAC @ MIA L 39 17 8 15 53.3 1 2 50.0 0 0 - 1 3 4 2 2 0 1 1 -7
+p316
+aVSean Rooks LAC 02/13/2001 LAC @ MIA L 21 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 4 -11
+p317
+aVKeyon Dooling LAC 02/07/2001 LAC @ GSW L 18 3 0 3 0.0 0 2 0.0 3 6 50.0 0 1 1 1 0 0 2 0 -1
+p318
+aVDarius Miles LAC 02/07/2001 LAC @ GSW L 16 6 3 7 42.9 0 0 - 0 4 0.0 1 3 4 1 0 1 2 1 0
+p319
+aVQuentin Richardson LAC 02/07/2001 LAC @ GSW L 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p320
+aVCorey Maggette LAC 02/07/2001 LAC @ GSW L 20 12 5 10 50.0 0 0 - 2 4 50.0 3 1 4 0 1 1 0 3 -10
+p321
+aVCherokee Parks LAC 02/07/2001 LAC @ GSW L 17 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 0 0 2 2 2
+p322
+aVLamar Odom LAC 02/07/2001 LAC @ GSW L 40 27 11 15 73.3 1 2 50.0 4 8 50.0 0 10 10 4 2 3 3 3 6
+p323
+aVSean Rooks LAC 02/07/2001 LAC @ GSW L 15 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 2 2 3
+p324
+aVJeff McInnis LAC 02/07/2001 LAC @ GSW L 30 6 3 7 42.9 0 0 - 0 0 - 1 3 4 7 2 0 2 3 0
+p325
+aVDerek Strong LAC 02/07/2001 LAC @ GSW L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p326
+aVEric Piatkowski LAC 02/07/2001 LAC @ GSW L 34 15 5 14 35.7 3 6 50.0 2 2 100.0 3 3 6 1 2 1 2 2 4
+p327
+aVMichael Olowokandi LAC 02/07/2001 LAC @ GSW L 32 11 5 14 35.7 0 0 - 1 2 50.0 3 7 10 1 0 2 1 5 -6
+p328
+aVLamar Odom LAC 02/05/2001 LAC vs. CHI W 33 12 5 8 62.5 1 3 33.3 1 1 100.0 0 10 10 7 1 1 8 1 1
+p329
+aVKeyon Dooling LAC 02/05/2001 LAC vs. CHI W 20 13 5 6 83.3 1 1 100.0 2 2 100.0 0 0 0 1 1 0 0 1 18
+p330
+aVCorey Maggette LAC 02/05/2001 LAC vs. CHI W 22 11 2 5 40.0 0 0 - 7 7 100.0 1 2 3 4 0 0 5 2 22
+p331
+aVJeff McInnis LAC 02/05/2001 LAC vs. CHI W 28 7 3 9 33.3 1 2 50.0 0 0 - 0 1 1 5 0 0 0 1 2
+p332
+aVEric Piatkowski LAC 02/05/2001 LAC vs. CHI W 26 11 5 11 45.5 0 2 0.0 1 1 100.0 1 4 5 2 2 0 1 1 -2
+p333
+aVDarius Miles LAC 02/05/2001 LAC vs. CHI W 30 10 5 6 83.3 0 0 - 0 0 - 1 6 7 2 0 3 0 3 21
+p334
+aVMichael Olowokandi LAC 02/05/2001 LAC vs. CHI W 34 21 9 12 75.0 0 0 - 3 4 75.0 2 4 6 1 2 2 2 4 18
+p335
+aVQuentin Richardson LAC 02/05/2001 LAC vs. CHI W 15 13 5 10 50.0 0 4 0.0 3 5 60.0 1 6 7 1 0 0 0 2 19
+p336
+aVSean Rooks LAC 02/05/2001 LAC vs. CHI W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 1 1 3 3
+p337
+aVCherokee Parks LAC 02/05/2001 LAC vs. CHI W 19 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 1 1 3 -2
+p338
+aVEric Piatkowski LAC 02/03/2001 LAC vs. POR W 43 26 11 16 68.8 4 9 44.4 0 0 - 2 4 6 1 0 0 2 3 1
+p339
+aVSean Rooks LAC 02/03/2001 LAC vs. POR W 22 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 0 0 2 0 2 5
+p340
+aVQuentin Richardson LAC 02/03/2001 LAC vs. POR W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 0
+p341
+aVDerek Strong LAC 02/03/2001 LAC vs. POR W 24 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 1 1 0 0 0 5
+p342
+aVKeyon Dooling LAC 02/03/2001 LAC vs. POR W 9 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 2 4
+p343
+aVLamar Odom LAC 02/03/2001 LAC vs. POR W 45 18 7 18 38.9 1 4 25.0 3 5 60.0 3 5 8 6 1 1 2 1 3
+p344
+aVCherokee Parks LAC 02/03/2001 LAC vs. POR W 24 6 3 9 33.3 0 0 - 0 0 - 2 5 7 1 0 2 1 3 -4
+p345
+aVJeff McInnis LAC 02/03/2001 LAC vs. POR W 39 17 8 14 57.1 0 0 - 1 1 100.0 0 4 4 7 1 0 3 3 -3
+p346
+aVMichael Olowokandi LAC 02/03/2001 LAC vs. POR W 26 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 0 0 1 1 4 -4
+p347
+aVDarius Miles LAC 02/03/2001 LAC vs. POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p348
+aVBrian Skinner LAC 02/01/2001 LAC @ HOU W 11 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 0 0 0 12
+p349
+aVCorey Maggette LAC 02/01/2001 LAC @ HOU W 19 11 5 8 62.5 1 1 100.0 0 1 0.0 1 0 1 2 2 0 1 3 -5
+p350
+aVQuentin Richardson LAC 02/01/2001 LAC @ HOU W 10 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 1 0 0 0 0
+p351
+aVJeff McInnis LAC 02/01/2001 LAC @ HOU W 30 14 6 10 60.0 1 2 50.0 1 1 100.0 0 0 0 3 1 0 0 2 12
+p352
+aVSean Rooks LAC 02/01/2001 LAC @ HOU W 24 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 3 2 1 0 1 -3
+p353
+aVCherokee Parks LAC 02/01/2001 LAC @ HOU W 22 8 4 8 50.0 0 0 - 0 0 - 3 5 8 0 0 0 1 4 8
+p354
+aVKeyon Dooling LAC 02/01/2001 LAC @ HOU W 18 10 4 9 44.4 0 1 0.0 2 4 50.0 0 1 1 1 0 0 1 2 5
+p355
+aVEric Piatkowski LAC 02/01/2001 LAC @ HOU W 27 15 6 10 60.0 1 2 50.0 2 2 100.0 0 2 2 3 0 0 0 1 18
+p356
+aVLamar Odom LAC 02/01/2001 LAC @ HOU W 40 19 8 15 53.3 3 5 60.0 0 0 - 0 7 7 10 1 2 3 3 21
+p357
+aVDarius Miles LAC 02/01/2001 LAC @ HOU W 15 9 4 5 80.0 0 0 - 1 1 100.0 1 2 3 1 1 0 0 2 -3
+p358
+aVMichael Olowokandi LAC 02/01/2001 LAC @ HOU W 24 8 4 9 44.4 0 0 - 0 0 - 2 4 6 0 0 2 0 2 20
+p359
+aVLamar Odom LAC 01/31/2001 LAC @ SAS L 33 7 3 11 27.3 0 4 0.0 1 2 50.0 1 8 9 2 2 1 1 2 -10
+p360
+aVMichael Olowokandi LAC 01/31/2001 LAC @ SAS L 29 14 6 14 42.9 0 0 - 2 2 100.0 0 6 6 0 0 7 4 5 -10
+p361
+aVCherokee Parks LAC 01/31/2001 LAC @ SAS L 11 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -2
+p362
+aVEric Piatkowski LAC 01/31/2001 LAC @ SAS L 20 5 2 9 22.2 0 3 0.0 1 1 100.0 0 2 2 4 0 0 0 0 -20
+p363
+aVQuentin Richardson LAC 01/31/2001 LAC @ SAS L 20 8 3 9 33.3 1 1 100.0 1 2 50.0 4 4 8 3 0 0 1 2 -3
+p364
+aVSean Rooks LAC 01/31/2001 LAC @ SAS L 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -9
+p365
+aVDarius Miles LAC 01/31/2001 LAC @ SAS L 15 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 2 1 2 -2
+p366
+aVCorey Maggette LAC 01/31/2001 LAC @ SAS L 23 8 4 10 40.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -11
+p367
+aVDerek Strong LAC 01/31/2001 LAC @ SAS L 13 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -6
+p368
+aVKeyon Dooling LAC 01/31/2001 LAC @ SAS L 20 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 4 1 0 4 1 -5
+p369
+aVBrian Skinner LAC 01/31/2001 LAC @ SAS L 13 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 1 0 3 -15
+p370
+aVJeff McInnis LAC 01/31/2001 LAC @ SAS L 28 6 3 9 33.3 0 1 0.0 0 0 - 1 3 4 2 0 0 1 2 -17
+p371
+aVDerek Strong LAC 01/29/2001 LAC vs. SAS L 6 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 2
+p372
+aVCorey Maggette LAC 01/29/2001 LAC vs. SAS L 27 12 4 9 44.4 0 2 0.0 4 6 66.7 1 2 3 3 1 0 2 3 -5
+p373
+aVDarius Miles LAC 01/29/2001 LAC vs. SAS L 24 6 3 9 33.3 0 0 - 0 2 0.0 1 6 7 0 2 0 4 4 -14
+p374
+aVBrian Skinner LAC 01/29/2001 LAC vs. SAS L 11 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -1
+p375
+aVCherokee Parks LAC 01/29/2001 LAC vs. SAS L 12 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 1 1 0 1 -17
+p376
+aVMichael Olowokandi LAC 01/29/2001 LAC vs. SAS L 24 8 3 9 33.3 0 0 - 2 2 100.0 3 1 4 0 0 4 1 2 -19
+p377
+aVKeyon Dooling LAC 01/29/2001 LAC vs. SAS L 23 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -4
+p378
+aVEric Piatkowski LAC 01/29/2001 LAC vs. SAS L 23 5 2 4 50.0 0 2 0.0 1 1 100.0 0 1 1 0 1 1 3 1 -25
+p379
+aVLamar Odom LAC 01/29/2001 LAC vs. SAS L 36 15 5 18 27.8 0 4 0.0 5 8 62.5 3 5 8 3 1 0 1 3 -26
+p380
+aVJeff McInnis LAC 01/29/2001 LAC vs. SAS L 25 2 1 7 14.3 0 1 0.0 0 0 - 1 0 1 4 0 0 0 2 -25
+p381
+aVSean Rooks LAC 01/29/2001 LAC vs. SAS L 13 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -9
+p382
+aVQuentin Richardson LAC 01/29/2001 LAC vs. SAS L 17 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -2
+p383
+aVEric Piatkowski LAC 01/27/2001 LAC vs. SAC L 38 8 3 13 23.1 2 3 66.7 0 0 - 0 3 3 1 0 0 1 2 -15
+p384
+aVKeyon Dooling LAC 01/27/2001 LAC vs. SAC L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 0 6
+p385
+aVMichael Olowokandi LAC 01/27/2001 LAC vs. SAC L 26 10 5 12 41.7 0 0 - 0 0 - 2 3 5 1 0 2 0 0 -13
+p386
+aVJeff McInnis LAC 01/27/2001 LAC vs. SAC L 36 16 6 13 46.2 2 3 66.7 2 2 100.0 1 4 5 6 0 0 3 0 -15
+p387
+aVLamar Odom LAC 01/27/2001 LAC vs. SAC L 44 10 4 11 36.4 0 3 0.0 2 2 100.0 1 9 10 8 0 3 4 3 -12
+p388
+aVEarl Boykins LAC 01/27/2001 LAC vs. SAC L 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p389
+aVSean Rooks LAC 01/27/2001 LAC vs. SAC L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -3
+p390
+aVCherokee Parks LAC 01/27/2001 LAC vs. SAC L 26 16 8 13 61.5 0 2 0.0 0 1 0.0 7 6 13 2 2 0 0 2 5
+p391
+aVDerek Strong LAC 01/27/2001 LAC vs. SAC L 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 0
+p392
+aVDarius Miles LAC 01/27/2001 LAC vs. SAC L 31 16 8 13 61.5 0 0 - 0 2 0.0 2 2 4 0 0 0 0 2 -13
+p393
+aVJeff McInnis LAC 01/24/2001 LAC vs. SEA L 47 20 9 17 52.9 2 5 40.0 0 0 - 0 5 5 10 1 0 4 3 -5
+p394
+aVKeyon Dooling LAC 01/24/2001 LAC vs. SEA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p395
+aVEric Piatkowski LAC 01/24/2001 LAC vs. SEA L 50 30 9 18 50.0 5 10 50.0 7 8 87.5 0 2 2 2 1 0 0 2 -1
+p396
+aVSean Rooks LAC 01/24/2001 LAC vs. SEA L 27 8 2 6 33.3 0 0 - 4 4 100.0 1 3 4 0 2 2 1 1 4
+p397
+aVQuentin Richardson LAC 01/24/2001 LAC vs. SEA L 34 18 7 14 50.0 1 3 33.3 3 4 75.0 3 4 7 2 1 1 0 1 -7
+p398
+aVEarl Boykins LAC 01/24/2001 LAC vs. SEA L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p399
+aVCherokee Parks LAC 01/24/2001 LAC vs. SEA L 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 2 4 -1
+p400
+aVLamar Odom LAC 01/24/2001 LAC vs. SEA L 25 16 6 12 50.0 0 1 0.0 4 5 80.0 2 4 6 3 0 0 2 3 -6
+p401
+aVDarius Miles LAC 01/24/2001 LAC vs. SEA L 34 8 4 12 33.3 0 0 - 0 2 0.0 2 5 7 3 2 7 2 2 -1
+p402
+aVMichael Olowokandi LAC 01/24/2001 LAC vs. SEA L 25 6 3 6 50.0 0 0 - 0 2 0.0 2 6 8 0 0 2 0 4 -1
+p403
+aVEric Piatkowski LAC 01/18/2001 LAC vs. BOS L 22 8 2 9 22.2 1 5 20.0 3 5 60.0 2 3 5 2 1 0 1 2 1
+p404
+aVLamar Odom LAC 01/18/2001 LAC vs. BOS L 43 20 6 17 35.3 2 5 40.0 6 9 66.7 2 8 10 5 2 0 6 5 -8
+p405
+aVQuentin Richardson LAC 01/18/2001 LAC vs. BOS L 26 13 5 11 45.5 2 5 40.0 1 4 25.0 2 1 3 4 1 1 1 0 -1
+p406
+aVMichael Olowokandi LAC 01/18/2001 LAC vs. BOS L 36 14 5 7 71.4 0 0 - 4 6 66.7 3 8 11 0 0 3 4 2 -6
+p407
+aVSean Rooks LAC 01/18/2001 LAC vs. BOS L 12 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 0 1 1 4
+p408
+aVDarius Miles LAC 01/18/2001 LAC vs. BOS L 27 9 4 8 50.0 0 0 - 1 2 50.0 1 4 5 1 0 0 0 1 -3
+p409
+aVEarl Boykins LAC 01/18/2001 LAC vs. BOS L 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -1
+p410
+aVKeyon Dooling LAC 01/18/2001 LAC vs. BOS L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 9
+p411
+aVCherokee Parks LAC 01/18/2001 LAC vs. BOS L 22 6 3 8 37.5 0 0 - 0 0 - 3 1 4 3 1 0 1 1 -2
+p412
+aVJeff McInnis LAC 01/18/2001 LAC vs. BOS L 37 7 3 12 25.0 0 1 0.0 1 2 50.0 2 2 4 4 0 0 2 2 -8
+p413
+aVBrian Skinner LAC 01/16/2001 LAC @ MIL L 8 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 0
+p414
+aVMichael Olowokandi LAC 01/16/2001 LAC @ MIL L 25 8 4 11 36.4 0 0 - 0 1 0.0 3 4 7 1 0 0 2 2 -14
+p415
+aVEarl Boykins LAC 01/16/2001 LAC @ MIL L 23 12 5 12 41.7 1 3 33.3 1 2 50.0 1 2 3 3 3 0 2 1 -3
+p416
+aVDarius Miles LAC 01/16/2001 LAC @ MIL L 27 7 3 8 37.5 0 0 - 1 2 50.0 2 7 9 3 1 0 2 0 -7
+p417
+aVCherokee Parks LAC 01/16/2001 LAC @ MIL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p418
+aVLamar Odom LAC 01/16/2001 LAC @ MIL L 35 14 5 11 45.5 0 3 0.0 4 6 66.7 0 6 6 5 0 1 3 1 -24
+p419
+aVKeyon Dooling LAC 01/16/2001 LAC @ MIL L 25 9 3 7 42.9 0 2 0.0 3 3 100.0 0 0 0 1 0 0 0 4 -6
+p420
+aVSean Rooks LAC 01/16/2001 LAC @ MIL L 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 -7
+p421
+aVEric Piatkowski LAC 01/16/2001 LAC @ MIL L 16 13 5 10 50.0 3 7 42.9 0 0 - 2 0 2 1 0 0 0 1 -7
+p422
+aVJeff McInnis LAC 01/16/2001 LAC @ MIL L 28 11 5 8 62.5 1 1 100.0 0 0 - 0 1 1 2 0 0 4 1 -25
+p423
+aVQuentin Richardson LAC 01/16/2001 LAC @ MIL L 29 15 5 14 35.7 1 4 25.0 4 6 66.7 2 5 7 2 2 0 2 2 -8
+p424
+aVEric Piatkowski LAC 01/15/2001 LAC @ IND L 23 4 1 6 16.7 0 2 0.0 2 2 100.0 0 2 2 3 0 0 0 1 -9
+p425
+aVCherokee Parks LAC 01/15/2001 LAC @ IND L 15 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -15
+p426
+aVEarl Boykins LAC 01/15/2001 LAC @ IND L 10 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 -9
+p427
+aVKeyon Dooling LAC 01/15/2001 LAC @ IND L 14 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 3 0 -4
+p428
+aVLamar Odom LAC 01/15/2001 LAC @ IND L 42 22 6 16 37.5 0 4 0.0 10 10 100.0 1 11 12 5 1 2 3 3 -6
+p429
+aVJeff McInnis LAC 01/15/2001 LAC @ IND L 35 14 6 13 46.2 0 1 0.0 2 2 100.0 0 1 1 6 0 0 0 5 -10
+p430
+aVQuentin Richardson LAC 01/15/2001 LAC @ IND L 25 5 2 7 28.6 1 2 50.0 0 2 0.0 6 2 8 0 0 0 2 4 -7
+p431
+aVSean Rooks LAC 01/15/2001 LAC @ IND L 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 3 -14
+p432
+aVDarius Miles LAC 01/15/2001 LAC @ IND L 39 19 8 14 57.1 0 0 - 3 7 42.9 4 9 13 1 1 4 3 3 -2
+p433
+aVMichael Olowokandi LAC 01/15/2001 LAC @ IND L 18 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 0 1 2 2 5 1
+p434
+aVCherokee Parks LAC 01/13/2001 LAC @ ATL L 21 6 3 4 75.0 0 0 - 0 0 - 0 5 5 0 1 0 0 0 -17
+p435
+aVMichael Olowokandi LAC 01/13/2001 LAC @ ATL L 26 10 4 7 57.1 0 0 - 2 3 66.7 0 4 4 0 0 2 1 2 -8
+p436
+aVDarius Miles LAC 01/13/2001 LAC @ ATL L 33 12 3 11 27.3 0 0 - 6 8 75.0 1 4 5 3 2 2 3 3 -14
+p437
+aVJeff McInnis LAC 01/13/2001 LAC @ ATL L 36 12 5 11 45.5 1 3 33.3 1 2 50.0 0 0 0 3 1 0 1 2 -9
+p438
+aVLamar Odom LAC 01/13/2001 LAC @ ATL L 37 10 2 12 16.7 0 4 0.0 6 9 66.7 1 8 9 4 1 2 5 5 -20
+p439
+aVCorey Maggette LAC 01/13/2001 LAC @ ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 1 -4
+p440
+aVEarl Boykins LAC 01/13/2001 LAC @ ATL L 26 15 6 7 85.7 0 0 - 3 3 100.0 1 0 1 5 0 0 2 1 -14
+p441
+aVQuentin Richardson LAC 01/13/2001 LAC @ ATL L 21 11 4 7 57.1 1 2 50.0 2 2 100.0 2 2 4 0 1 0 2 1 -13
+p442
+aVEric Piatkowski LAC 01/13/2001 LAC @ ATL L 24 8 2 7 28.6 2 4 50.0 2 2 100.0 2 2 4 0 0 0 1 2 -3
+p443
+aVSean Rooks LAC 01/13/2001 LAC @ ATL L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 2
+p444
+aVCherokee Parks LAC 01/12/2001 LAC @ MIN L 19 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 0 0 1 1 0
+p445
+aVQuentin Richardson LAC 01/12/2001 LAC @ MIN L 22 6 2 8 25.0 0 3 0.0 2 2 100.0 1 0 1 1 1 0 1 0 -11
+p446
+aVEarl Boykins LAC 01/12/2001 LAC @ MIN L 15 8 3 8 37.5 0 3 0.0 2 2 100.0 0 2 2 4 0 0 2 4 5
+p447
+aVLamar Odom LAC 01/12/2001 LAC @ MIN L 36 21 8 15 53.3 1 2 50.0 4 5 80.0 1 8 9 6 1 0 1 5 5
+p448
+aVEric Piatkowski LAC 01/12/2001 LAC @ MIN L 20 8 3 7 42.9 0 3 0.0 2 2 100.0 0 0 0 1 0 0 0 4 -14
+p449
+aVJeff McInnis LAC 01/12/2001 LAC @ MIN L 35 7 3 11 27.3 0 1 0.0 1 1 100.0 1 1 2 6 0 0 0 1 -12
+p450
+aVMichael Olowokandi LAC 01/12/2001 LAC @ MIN L 31 14 7 12 58.3 0 0 - 0 0 - 3 5 8 0 1 3 1 2 -9
+p451
+aVDarius Miles LAC 01/12/2001 LAC @ MIN L 29 10 3 7 42.9 0 0 - 4 6 66.7 3 5 8 2 0 2 0 0 -7
+p452
+aVCorey Maggette LAC 01/12/2001 LAC @ MIN L 18 7 3 6 50.0 0 1 0.0 1 2 50.0 1 1 2 0 1 1 0 1 8
+p453
+aVSean Rooks LAC 01/12/2001 LAC @ MIN L 15 4 2 4 50.0 0 0 - 0 2 0.0 2 3 5 0 0 1 1 0 5
+p454
+aVJeff McInnis LAC 01/10/2001 LAC vs. DEN W 31 5 2 8 25.0 0 1 0.0 1 1 100.0 0 1 1 5 1 0 1 1 -9
+p455
+aVEric Piatkowski LAC 01/10/2001 LAC vs. DEN W 23 14 5 9 55.6 3 7 42.9 1 1 100.0 1 0 1 1 2 0 0 0 4
+p456
+aVDarius Miles LAC 01/10/2001 LAC vs. DEN W 29 9 3 8 37.5 0 0 - 3 4 75.0 1 3 4 0 1 1 2 2 0
+p457
+aVCherokee Parks LAC 01/10/2001 LAC vs. DEN W 26 15 7 9 77.8 0 0 - 1 2 50.0 1 3 4 1 2 1 2 3 5
+p458
+aVSean Rooks LAC 01/10/2001 LAC vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p459
+aVCorey Maggette LAC 01/10/2001 LAC vs. DEN W 10 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -13
+p460
+aVQuentin Richardson LAC 01/10/2001 LAC vs. DEN W 24 14 5 10 50.0 2 4 50.0 2 2 100.0 2 0 2 0 0 0 2 0 2
+p461
+aVLamar Odom LAC 01/10/2001 LAC vs. DEN W 39 15 6 14 42.9 0 1 0.0 3 8 37.5 1 12 13 6 1 3 3 3 21
+p462
+aVEarl Boykins LAC 01/10/2001 LAC vs. DEN W 18 4 0 5 0.0 0 0 - 4 4 100.0 0 2 2 9 1 0 1 0 17
+p463
+aVDerek Strong LAC 01/10/2001 LAC vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -3
+p464
+aVMichael Olowokandi LAC 01/10/2001 LAC vs. DEN W 33 12 6 9 66.7 0 0 - 0 0 - 1 9 10 0 0 3 2 6 10
+p465
+aVLamar Odom LAC 01/08/2001 LAC vs. IND L 33 13 4 19 21.1 0 2 0.0 5 6 83.3 5 2 7 1 1 1 2 1 4
+p466
+aVEarl Boykins LAC 01/08/2001 LAC vs. IND L 15 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 3 0 0 0 1 -10
+p467
+aVCherokee Parks LAC 01/08/2001 LAC vs. IND L 22 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 3 -15
+p468
+aVSean Rooks LAC 01/08/2001 LAC vs. IND L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 2 1 -6
+p469
+aVMichael Olowokandi LAC 01/08/2001 LAC vs. IND L 27 12 6 11 54.5 0 0 - 0 0 - 3 2 5 2 1 1 1 2 11
+p470
+aVJeff McInnis LAC 01/08/2001 LAC vs. IND L 34 17 8 11 72.7 1 1 100.0 0 0 - 0 4 4 7 1 0 1 1 7
+p471
+aVEric Piatkowski LAC 01/08/2001 LAC vs. IND L 30 7 3 10 30.0 0 1 0.0 1 1 100.0 1 2 3 0 1 0 0 3 -1
+p472
+aVQuentin Richardson LAC 01/08/2001 LAC vs. IND L 16 4 2 4 50.0 0 0 - 0 2 0.0 3 1 4 1 0 0 0 2 3
+p473
+aVCorey Maggette LAC 01/08/2001 LAC vs. IND L 17 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 0 1 0 0 1 -12
+p474
+aVDarius Miles LAC 01/08/2001 LAC vs. IND L 36 12 4 11 36.4 0 0 - 4 4 100.0 1 11 12 3 0 1 1 3 4
+p475
+aVDarius Miles LAC 01/07/2001 LAC @ LAL W 29 9 3 7 42.9 0 1 0.0 3 7 42.9 2 6 8 0 0 0 3 3 3
+p476
+aVQuentin Richardson LAC 01/07/2001 LAC @ LAL W 23 16 6 8 75.0 3 4 75.0 1 3 33.3 1 5 6 1 0 0 0 1 19
+p477
+aVMichael Olowokandi LAC 01/07/2001 LAC @ LAL W 25 8 3 8 37.5 0 0 - 2 6 33.3 2 5 7 1 0 0 1 5 18
+p478
+aVEric Piatkowski LAC 01/07/2001 LAC @ LAL W 29 10 4 7 57.1 0 2 0.0 2 2 100.0 1 3 4 2 2 0 1 4 12
+p479
+aVCorey Maggette LAC 01/07/2001 LAC @ LAL W 21 11 5 8 62.5 0 0 - 1 2 50.0 2 3 5 0 0 0 2 1 10
+p480
+aVCherokee Parks LAC 01/07/2001 LAC @ LAL W 22 13 5 8 62.5 0 0 - 3 3 100.0 2 4 6 1 1 0 1 3 13
+p481
+aVBrian Skinner LAC 01/07/2001 LAC @ LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p482
+aVEarl Boykins LAC 01/07/2001 LAC @ LAL W 21 11 4 10 40.0 0 1 0.0 3 4 75.0 1 0 1 3 0 0 1 1 4
+p483
+aVJeff McInnis LAC 01/07/2001 LAC @ LAL W 27 11 3 6 50.0 1 1 100.0 4 4 100.0 0 2 2 6 3 0 3 1 19
+p484
+aVLamar Odom LAC 01/07/2001 LAC @ LAL W 37 29 13 18 72.2 3 6 50.0 0 1 0.0 2 6 8 5 1 1 3 3 19
+p485
+aVSean Rooks LAC 01/07/2001 LAC @ LAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 0
+p486
+aVSean Rooks LAC 01/05/2001 LAC vs. CHH L 13 2 0 2 0.0 0 0 - 2 6 33.3 3 2 5 0 1 0 1 0 -6
+p487
+aVQuentin Richardson LAC 01/05/2001 LAC vs. CHH L 32 8 3 9 33.3 0 1 0.0 2 4 50.0 0 1 1 2 4 0 0 2 -9
+p488
+aVEric Piatkowski LAC 01/05/2001 LAC vs. CHH L 34 11 4 11 36.4 2 7 28.6 1 2 50.0 0 3 3 1 1 0 2 1 -3
+p489
+aVMichael Olowokandi LAC 01/05/2001 LAC vs. CHH L 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 1 0 5 4
+p490
+aVLamar Odom LAC 01/05/2001 LAC vs. CHH L 38 23 7 17 41.2 2 4 50.0 7 11 63.6 2 5 7 2 1 1 4 5 -16
+p491
+aVDarius Miles LAC 01/05/2001 LAC vs. CHH L 35 9 4 11 36.4 0 0 - 1 5 20.0 4 7 11 3 1 8 4 4 -12
+p492
+aVBrian Skinner LAC 01/05/2001 LAC vs. CHH L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p493
+aVDerek Strong LAC 01/05/2001 LAC vs. CHH L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 3 0 0
+p494
+aVJeff McInnis LAC 01/05/2001 LAC vs. CHH L 43 14 6 11 54.5 0 0 - 2 2 100.0 0 2 2 4 2 0 3 2 -13
+p495
+aVCherokee Parks LAC 01/05/2001 LAC vs. CHH L 12 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 1 1 0 -10
+p496
+aVEric Piatkowski LAC 01/03/2001 LAC @ PHX L 15 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -7
+p497
+aVCorey Maggette LAC 01/03/2001 LAC @ PHX L 18 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 3 1 0 0 1 14
+p498
+aVLamar Odom LAC 01/03/2001 LAC @ PHX L 43 24 8 17 47.1 3 8 37.5 5 5 100.0 2 5 7 5 0 0 5 4 -4
+p499
+aVDarius Miles LAC 01/03/2001 LAC @ PHX L 39 8 4 12 33.3 0 0 - 0 0 - 2 8 10 2 0 1 1 2 -4
+p500
+aVMichael Olowokandi LAC 01/03/2001 LAC @ PHX L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 1 4 -20
+p501
+aVKeyon Dooling LAC 01/03/2001 LAC @ PHX L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 2 -9
+p502
+aVQuentin Richardson LAC 01/03/2001 LAC @ PHX L 26 8 2 6 33.3 0 2 0.0 4 6 66.7 0 3 3 3 0 0 1 2 -18
+p503
+aVBrian Skinner LAC 01/03/2001 LAC @ PHX L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 0
+p504
+aVJeff McInnis LAC 01/03/2001 LAC @ PHX L 36 17 6 10 60.0 1 1 100.0 4 7 57.1 2 3 5 3 1 0 1 3 4
+p505
+aVSean Rooks LAC 01/03/2001 LAC @ PHX L 32 12 5 11 45.5 0 0 - 2 2 100.0 0 4 4 4 1 2 0 4 19
+p506
+aVLamar Odom LAC 01/02/2001 LAC vs. TOR W 33 18 7 10 70.0 1 3 33.3 3 4 75.0 1 2 3 5 1 3 4 5 13
+p507
+aVQuentin Richardson LAC 01/02/2001 LAC vs. TOR W 31 11 5 8 62.5 1 3 33.3 0 0 - 0 4 4 1 1 0 1 3 26
+p508
+aVKeyon Dooling LAC 01/02/2001 LAC vs. TOR W 13 11 3 6 50.0 0 0 - 5 7 71.4 0 2 2 1 0 0 0 1 -8
+p509
+aVCherokee Parks LAC 01/02/2001 LAC vs. TOR W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -8
+p510
+aVDarius Miles LAC 01/02/2001 LAC vs. TOR W 39 26 12 19 63.2 0 1 0.0 2 4 50.0 3 7 10 2 2 0 3 1 21
+p511
+aVSean Rooks LAC 01/02/2001 LAC vs. TOR W 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 3 1
+p512
+aVCorey Maggette LAC 01/02/2001 LAC vs. TOR W 14 9 1 2 50.0 0 1 0.0 7 8 87.5 1 2 3 0 0 0 1 6 -14
+p513
+aVJeff McInnis LAC 01/02/2001 LAC vs. TOR W 35 14 7 15 46.7 0 0 - 0 0 - 0 4 4 13 3 0 1 2 21
+p514
+aVMichael Olowokandi LAC 01/02/2001 LAC vs. TOR W 28 14 5 9 55.6 0 0 - 4 4 100.0 3 6 9 0 0 0 1 4 17
+p515
+aVEric Piatkowski LAC 01/02/2001 LAC vs. TOR W 21 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 0 0 0 1 2 -4
+p516
+aVDarius Miles LAC 12/30/2000 LAC vs. LAL L 41 17 6 14 42.9 0 0 - 5 8 62.5 6 6 12 2 1 1 2 2 10
+p517
+aVQuentin Richardson LAC 12/30/2000 LAC vs. LAL L 16 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -18
+p518
+aVLamar Odom LAC 12/30/2000 LAC vs. LAL L 40 11 4 16 25.0 1 5 20.0 2 4 50.0 0 7 7 8 1 1 1 2 -11
+p519
+aVEric Piatkowski LAC 12/30/2000 LAC vs. LAL L 37 27 9 13 69.2 4 5 80.0 5 6 83.3 0 2 2 1 0 0 0 2 16
+p520
+aVMichael Olowokandi LAC 12/30/2000 LAC vs. LAL L 17 6 3 6 50.0 0 0 - 0 2 0.0 1 4 5 0 0 0 2 5 -8
+p521
+aVBrian Skinner LAC 12/30/2000 LAC vs. LAL L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p522
+aVKeyon Dooling LAC 12/30/2000 LAC vs. LAL L 14 8 4 7 57.1 0 0 - 0 1 0.0 0 1 1 2 0 0 1 0 10
+p523
+aVCherokee Parks LAC 12/30/2000 LAC vs. LAL L 10 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 0
+p524
+aVJeff McInnis LAC 12/30/2000 LAC vs. LAL L 39 12 6 9 66.7 0 0 - 0 0 - 0 1 1 5 0 0 1 2 -12
+p525
+aVSean Rooks LAC 12/30/2000 LAC vs. LAL L 25 12 5 10 50.0 0 0 - 2 2 100.0 3 8 11 1 0 1 3 4 8
+p526
+aVCorey Maggette LAC 12/30/2000 LAC vs. LAL L 17 12 5 8 62.5 0 0 - 2 2 100.0 1 3 4 1 1 0 1 4 2
+p527
+aVBrian Skinner LAC 12/28/2000 LAC @ DAL L 21 7 3 7 42.9 0 0 - 1 3 33.3 3 5 8 2 2 0 3 1 -16
+p528
+aVEric Piatkowski LAC 12/28/2000 LAC @ DAL L 30 11 3 8 37.5 1 3 33.3 4 4 100.0 1 2 3 0 3 0 0 1 5
+p529
+aVDarius Miles LAC 12/28/2000 LAC @ DAL L 24 18 8 15 53.3 0 1 0.0 2 6 33.3 6 4 10 3 1 1 0 4 11
+p530
+aVMichael Olowokandi LAC 12/28/2000 LAC @ DAL L 18 0 0 2 0.0 0 0 - 0 2 0.0 2 0 2 1 1 0 1 3 -15
+p531
+aVCorey Maggette LAC 12/28/2000 LAC @ DAL L 22 17 6 11 54.5 0 1 0.0 5 5 100.0 2 2 4 1 1 0 1 1 5
+p532
+aVQuentin Richardson LAC 12/28/2000 LAC @ DAL L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 0 -12
+p533
+aVLamar Odom LAC 12/28/2000 LAC @ DAL L 30 21 8 12 66.7 1 1 100.0 4 6 66.7 2 4 6 5 0 2 4 2 -15
+p534
+aVKeyon Dooling LAC 12/28/2000 LAC @ DAL L 26 6 1 7 14.3 1 2 50.0 3 4 75.0 1 1 2 6 1 1 1 1 4
+p535
+aVCherokee Parks LAC 12/28/2000 LAC @ DAL L 18 10 5 7 71.4 0 1 0.0 0 1 0.0 0 4 4 0 0 0 0 1 9
+p536
+aVJeff McInnis LAC 12/28/2000 LAC @ DAL L 22 2 1 11 9.1 0 2 0.0 0 0 - 0 1 1 1 0 1 3 3 -13
+p537
+aVSean Rooks LAC 12/28/2000 LAC @ DAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 0 1 0 2 -8
+p538
+aVQuentin Richardson LAC 12/26/2000 LAC @ DEN L 20 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 3 1 1 1 3 3
+p539
+aVLamar Odom LAC 12/26/2000 LAC @ DEN L 30 21 10 16 62.5 1 4 25.0 0 1 0.0 2 6 8 4 0 2 2 4 7
+p540
+aVJeff McInnis LAC 12/26/2000 LAC @ DEN L 31 8 4 14 28.6 0 2 0.0 0 0 - 0 0 0 5 0 0 0 1 -6
+p541
+aVCorey Maggette LAC 12/26/2000 LAC @ DEN L 25 14 5 12 41.7 0 0 - 4 6 66.7 2 2 4 1 0 0 2 2 -2
+p542
+aVKeyon Dooling LAC 12/26/2000 LAC @ DEN L 20 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 3 2 0 3 2 0
+p543
+aVBrian Skinner LAC 12/26/2000 LAC @ DEN L 23 13 5 8 62.5 0 0 - 3 3 100.0 3 3 6 2 1 0 0 3 -3
+p544
+aVDarius Miles LAC 12/26/2000 LAC @ DEN L 24 11 4 5 80.0 0 0 - 3 5 60.0 1 5 6 4 2 2 0 4 6
+p545
+aVMichael Olowokandi LAC 12/26/2000 LAC @ DEN L 25 10 5 9 55.6 0 0 - 0 0 - 7 2 9 3 0 1 1 2 -4
+p546
+aVEric Piatkowski LAC 12/26/2000 LAC @ DEN L 26 15 6 14 42.9 1 4 25.0 2 2 100.0 1 3 4 1 1 1 1 0 -7
+p547
+aVSean Rooks LAC 12/26/2000 LAC @ DEN L 17 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 0 3 0 6 1
+p548
+aVEric Piatkowski LAC 12/23/2000 LAC vs. VAN W 26 11 3 7 42.9 1 3 33.3 4 6 66.7 0 3 3 2 1 1 3 4 -4
+p549
+aVCorey Maggette LAC 12/23/2000 LAC vs. VAN W 22 10 4 7 57.1 0 1 0.0 2 2 100.0 2 3 5 0 1 0 1 4 -2
+p550
+aVJeff McInnis LAC 12/23/2000 LAC vs. VAN W 31 6 3 10 30.0 0 0 - 0 1 0.0 0 2 2 10 1 0 1 0 2
+p551
+aVSean Rooks LAC 12/23/2000 LAC vs. VAN W 22 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 0 1 1 4 -10
+p552
+aVMichael Olowokandi LAC 12/23/2000 LAC vs. VAN W 23 12 6 12 50.0 0 0 - 0 0 - 2 6 8 0 2 2 2 2 8
+p553
+aVKeyon Dooling LAC 12/23/2000 LAC vs. VAN W 17 9 2 6 33.3 1 2 50.0 4 6 66.7 0 1 1 3 2 0 0 0 0
+p554
+aVDarius Miles LAC 12/23/2000 LAC vs. VAN W 12 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 2 0 2 1 -8
+p555
+aVBrian Skinner LAC 12/23/2000 LAC vs. VAN W 29 13 5 12 41.7 0 0 - 3 3 100.0 2 3 5 0 1 1 0 1 10
+p556
+aVLamar Odom LAC 12/23/2000 LAC vs. VAN W 37 14 5 13 38.5 2 4 50.0 2 2 100.0 1 5 6 3 3 9 2 3 10
+p557
+aVQuentin Richardson LAC 12/23/2000 LAC vs. VAN W 20 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 1 0 4
+p558
+aVSean Rooks LAC 12/20/2000 LAC vs. MIN W 28 11 5 7 71.4 0 0 - 1 2 50.0 0 7 7 2 0 0 2 3 6
+p559
+aVBrian Skinner LAC 12/20/2000 LAC vs. MIN W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -1
+p560
+aVKeyon Dooling LAC 12/20/2000 LAC vs. MIN W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -7
+p561
+aVEric Piatkowski LAC 12/20/2000 LAC vs. MIN W 28 19 5 8 62.5 3 5 60.0 6 8 75.0 0 3 3 2 0 0 1 1 3
+p562
+aVMichael Olowokandi LAC 12/20/2000 LAC vs. MIN W 18 5 2 3 66.7 0 0 - 1 6 16.7 4 5 9 1 0 2 2 3 6
+p563
+aVLamar Odom LAC 12/20/2000 LAC vs. MIN W 42 24 9 19 47.4 1 5 20.0 5 6 83.3 2 5 7 10 1 2 6 2 18
+p564
+aVQuentin Richardson LAC 12/20/2000 LAC vs. MIN W 15 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 1 0 0 0 1 -6
+p565
+aVJeff McInnis LAC 12/20/2000 LAC vs. MIN W 40 13 5 10 50.0 0 1 0.0 3 4 75.0 1 4 5 9 2 0 1 2 14
+p566
+aVCorey Maggette LAC 12/20/2000 LAC vs. MIN W 13 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -6
+p567
+aVDarius Miles LAC 12/20/2000 LAC vs. MIN W 36 17 7 11 63.6 0 0 - 3 5 60.0 2 4 6 2 1 2 2 5 8
+p568
+aVMichael Olowokandi LAC 12/17/2000 LAC vs. WAS L 20 8 3 8 37.5 0 0 - 2 2 100.0 3 0 3 1 1 3 0 4 -7
+p569
+aVLamar Odom LAC 12/17/2000 LAC vs. WAS L 40 20 7 12 58.3 1 3 33.3 5 7 71.4 2 6 8 5 1 0 5 4 -8
+p570
+aVCorey Maggette LAC 12/17/2000 LAC vs. WAS L 16 6 2 8 25.0 0 1 0.0 2 2 100.0 3 3 6 2 1 0 2 1 -4
+p571
+aVKeyon Dooling LAC 12/17/2000 LAC vs. WAS L 24 10 3 8 37.5 0 1 0.0 4 5 80.0 0 1 1 4 0 0 0 4 -5
+p572
+aVDarius Miles LAC 12/17/2000 LAC vs. WAS L 28 14 6 10 60.0 0 0 - 2 4 50.0 3 5 8 1 0 1 0 4 -3
+p573
+aVSean Rooks LAC 12/17/2000 LAC vs. WAS L 24 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 0 1 2 1 3 -8
+p574
+aVJeff McInnis LAC 12/17/2000 LAC vs. WAS L 28 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 0 1 1 2 -6
+p575
+aVQuentin Richardson LAC 12/17/2000 LAC vs. WAS L 13 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 1 0 0 2 1 2
+p576
+aVEric Piatkowski LAC 12/17/2000 LAC vs. WAS L 29 10 3 9 33.3 1 3 33.3 3 4 75.0 0 2 2 0 1 0 1 0 -2
+p577
+aVBrian Skinner LAC 12/17/2000 LAC vs. WAS L 19 8 4 9 44.4 0 0 - 0 0 - 2 6 8 1 0 1 1 4 -4
+p578
+aVEric Piatkowski LAC 12/15/2000 LAC @ PHX W 20 7 3 6 50.0 1 2 50.0 0 2 0.0 2 6 8 1 1 0 1 2 -3
+p579
+aVDerek Strong LAC 12/15/2000 LAC @ PHX W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 0
+p580
+aVSean Rooks LAC 12/15/2000 LAC @ PHX W 17 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -4
+p581
+aVQuentin Richardson LAC 12/15/2000 LAC @ PHX W 33 21 6 12 50.0 4 4 100.0 5 6 83.3 4 2 6 3 3 0 2 2 11
+p582
+aVLamar Odom LAC 12/15/2000 LAC @ PHX W 40 23 7 13 53.8 3 5 60.0 6 6 100.0 2 4 6 6 1 1 7 4 9
+p583
+aVJeff McInnis LAC 12/15/2000 LAC @ PHX W 41 24 8 13 61.5 2 2 100.0 6 6 100.0 1 4 5 7 2 0 4 3 11
+p584
+aVKeyon Dooling LAC 12/15/2000 LAC @ PHX W 20 6 1 3 33.3 0 1 0.0 4 4 100.0 0 1 1 1 0 1 2 0 0
+p585
+aVMichael Olowokandi LAC 12/15/2000 LAC @ PHX W 28 9 4 8 50.0 0 0 - 1 2 50.0 3 7 10 0 0 0 3 0 16
+p586
+aVCorey Maggette LAC 12/15/2000 LAC @ PHX W 5 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 0 0 0 2 2 1
+p587
+aVDarius Miles LAC 12/15/2000 LAC @ PHX W 16 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 1 1 2 -4
+p588
+aVBrian Skinner LAC 12/15/2000 LAC @ PHX W 11 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 13
+p589
+aVCorey Maggette LAC 12/13/2000 LAC vs. MIA L 31 14 4 11 36.4 0 0 - 6 7 85.7 3 1 4 3 2 0 1 2 9
+p590
+aVLamar Odom LAC 12/13/2000 LAC vs. MIA L 38 18 4 16 25.0 2 3 66.7 8 9 88.9 2 8 10 3 1 2 4 4 -17
+p591
+aVBrian Skinner LAC 12/13/2000 LAC vs. MIA L 17 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 1 1 1 1 -9
+p592
+aVEric Piatkowski LAC 12/13/2000 LAC vs. MIA L 31 9 4 11 36.4 1 4 25.0 0 0 - 2 5 7 0 0 1 0 4 12
+p593
+aVMichael Olowokandi LAC 12/13/2000 LAC vs. MIA L 17 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 1 1 4 -5
+p594
+aVQuentin Richardson LAC 12/13/2000 LAC vs. MIA L 18 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p595
+aVJeff McInnis LAC 12/13/2000 LAC vs. MIA L 34 10 4 10 40.0 1 2 50.0 1 2 50.0 0 4 4 3 0 0 3 2 -11
+p596
+aVKeyon Dooling LAC 12/13/2000 LAC vs. MIA L 25 13 5 8 62.5 1 3 33.3 2 2 100.0 0 3 3 2 1 0 1 3 3
+p597
+aVDarius Miles LAC 12/13/2000 LAC vs. MIA L 31 10 5 7 71.4 0 0 - 0 4 0.0 1 5 6 1 0 5 2 2 2
+p598
+aVSean Rooks LAC 12/13/2000 LAC vs. MIA L 24 2 1 8 12.5 0 0 - 0 0 - 2 4 6 2 0 0 3 2 -1
+p599
+aVQuentin Richardson LAC 12/11/2000 LAC vs. ORL W 21 14 5 12 41.7 0 3 0.0 4 5 80.0 1 1 2 0 0 1 1 2 8
+p600
+aVDerek Strong LAC 12/11/2000 LAC vs. ORL W 6 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 -7
+p601
+aVLamar Odom LAC 12/11/2000 LAC vs. ORL W 41 17 7 17 41.2 2 10 20.0 1 2 50.0 0 7 7 8 2 4 4 2 2
+p602
+aVSean Rooks LAC 12/11/2000 LAC vs. ORL W 32 8 2 7 28.6 0 0 - 4 4 100.0 3 8 11 1 0 2 0 3 8
+p603
+aVCorey Maggette LAC 12/11/2000 LAC vs. ORL W 10 2 0 3 0.0 0 0 - 2 4 50.0 0 0 0 0 1 0 1 1 -7
+p604
+aVMichael Olowokandi LAC 12/11/2000 LAC vs. ORL W 16 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 4
+p605
+aVJeff McInnis LAC 12/11/2000 LAC vs. ORL W 37 16 6 10 60.0 0 0 - 4 4 100.0 0 3 3 6 3 0 2 3 19
+p606
+aVEric Piatkowski LAC 12/11/2000 LAC vs. ORL W 24 15 6 11 54.5 2 3 66.7 1 1 100.0 1 3 4 1 1 0 1 3 21
+p607
+aVDarius Miles LAC 12/11/2000 LAC vs. ORL W 27 13 6 9 66.7 0 0 - 1 2 50.0 3 2 5 2 0 2 1 1 18
+p608
+aVKeyon Dooling LAC 12/11/2000 LAC vs. ORL W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -7
+p609
+aVBrian Skinner LAC 12/11/2000 LAC vs. ORL W 15 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 1 1 1 1
+p610
+aVCorey Maggette LAC 12/09/2000 LAC @ MIN L 26 11 3 6 50.0 0 1 0.0 5 5 100.0 0 8 8 1 0 0 3 3 -1
+p611
+aVLamar Odom LAC 12/09/2000 LAC @ MIN L 33 9 4 13 30.8 1 3 33.3 0 2 0.0 2 5 7 0 1 2 4 2 -15
+p612
+aVSean Rooks LAC 12/09/2000 LAC @ MIN L 13 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 0 1 0 1 2 2
+p613
+aVJeff McInnis LAC 12/09/2000 LAC @ MIN L 26 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 2 0 0 0 2 -11
+p614
+aVMichael Olowokandi LAC 12/09/2000 LAC @ MIN L 29 10 5 13 38.5 0 0 - 0 0 - 0 15 15 0 1 0 2 1 -10
+p615
+aVEric Piatkowski LAC 12/09/2000 LAC @ MIN L 16 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 0
+p616
+aVKeyon Dooling LAC 12/09/2000 LAC @ MIN L 22 7 2 7 28.6 0 2 0.0 3 5 60.0 0 2 2 7 2 1 2 5 -1
+p617
+aVBrian Skinner LAC 12/09/2000 LAC @ MIN L 21 0 0 4 0.0 0 0 - 0 0 - 3 2 5 0 0 0 1 3 -13
+p618
+aVDarius Miles LAC 12/09/2000 LAC @ MIN L 24 5 2 7 28.6 0 0 - 1 2 50.0 3 4 7 0 1 1 2 5 -2
+p619
+aVQuentin Richardson LAC 12/09/2000 LAC @ MIN L 30 12 4 10 40.0 0 3 0.0 4 4 100.0 2 2 4 0 0 0 1 4 -9
+p620
+aVCorey Maggette LAC 12/08/2000 LAC @ CHH L 30 14 5 12 41.7 0 1 0.0 4 4 100.0 1 8 9 2 1 0 3 2 -2
+p621
+aVMichael Olowokandi LAC 12/08/2000 LAC @ CHH L 25 0 0 6 0.0 0 0 - 0 0 - 0 3 3 0 1 2 3 4 -7
+p622
+aVBrian Skinner LAC 12/08/2000 LAC @ CHH L 15 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 1 0 2 2 -3
+p623
+aVJeff McInnis LAC 12/08/2000 LAC @ CHH L 38 21 8 14 57.1 0 1 0.0 5 6 83.3 1 0 1 7 0 0 1 2 -7
+p624
+aVSean Rooks LAC 12/08/2000 LAC @ CHH L 23 13 5 6 83.3 0 0 - 3 4 75.0 0 2 2 1 0 0 1 4 2
+p625
+aVCherokee Parks LAC 12/08/2000 LAC @ CHH L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 1 1 0
+p626
+aVQuentin Richardson LAC 12/08/2000 LAC @ CHH L 27 13 5 10 50.0 3 4 75.0 0 0 - 1 4 5 0 0 0 0 1 -6
+p627
+aVDarius Miles LAC 12/08/2000 LAC @ CHH L 25 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 3 3 2 1
+p628
+aVKeyon Dooling LAC 12/08/2000 LAC @ CHH L 29 14 5 7 71.4 0 2 0.0 4 6 66.7 1 0 1 6 4 0 4 3 0
+p629
+aVEric Piatkowski LAC 12/08/2000 LAC @ CHH L 14 8 2 5 40.0 2 2 100.0 2 2 100.0 1 1 2 0 0 0 0 2 -4
+p630
+aVLamar Odom LAC 12/08/2000 LAC @ CHH L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 1
+p631
+aVDerek Strong LAC 12/06/2000 LAC @ WAS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p632
+aVDarius Miles LAC 12/06/2000 LAC @ WAS W 19 5 2 6 33.3 0 1 0.0 1 4 25.0 1 8 9 2 2 2 1 1 22
+p633
+aVCorey Maggette LAC 12/06/2000 LAC @ WAS W 26 18 6 10 60.0 0 1 0.0 6 7 85.7 5 1 6 2 2 0 3 3 -15
+p634
+aVMichael Olowokandi LAC 12/06/2000 LAC @ WAS W 20 6 3 11 27.3 0 0 - 0 0 - 0 3 3 0 0 0 2 4 -13
+p635
+aVCherokee Parks LAC 12/06/2000 LAC @ WAS W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -2
+p636
+aVEric Piatkowski LAC 12/06/2000 LAC @ WAS W 25 9 3 7 42.9 3 4 75.0 0 0 - 2 0 2 1 1 1 1 2 19
+p637
+aVKeyon Dooling LAC 12/06/2000 LAC @ WAS W 17 12 4 8 50.0 1 2 50.0 3 5 60.0 0 2 2 5 0 2 0 0 14
+p638
+aVBrian Skinner LAC 12/06/2000 LAC @ WAS W 11 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 3
+p639
+aVQuentin Richardson LAC 12/06/2000 LAC @ WAS W 15 3 1 6 16.7 1 4 25.0 0 0 - 2 4 6 0 0 0 1 3 -9
+p640
+aVLamar Odom LAC 12/06/2000 LAC @ WAS W 42 20 8 17 47.1 3 4 75.0 1 2 50.0 1 9 10 4 2 3 2 4 16
+p641
+aVJeff McInnis LAC 12/06/2000 LAC @ WAS W 31 10 5 10 50.0 0 2 0.0 0 0 - 1 1 2 2 0 0 1 2 -9
+p642
+aVSean Rooks LAC 12/06/2000 LAC @ WAS W 21 8 1 4 25.0 0 0 - 6 8 75.0 2 0 2 0 1 0 2 4 11
+p643
+aVSean Rooks LAC 12/04/2000 LAC @ NYK L 10 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 2 1 -15
+p644
+aVMichael Olowokandi LAC 12/04/2000 LAC @ NYK L 22 12 5 6 83.3 0 0 - 2 4 50.0 1 1 2 0 0 0 4 2 -9
+p645
+aVJeff McInnis LAC 12/04/2000 LAC @ NYK L 30 9 4 6 66.7 1 1 100.0 0 0 - 1 0 1 4 0 0 0 3 -10
+p646
+aVQuentin Richardson LAC 12/04/2000 LAC @ NYK L 28 6 2 7 28.6 0 4 0.0 2 3 66.7 1 2 3 0 0 0 2 3 -8
+p647
+aVBrian Skinner LAC 12/04/2000 LAC @ NYK L 24 11 4 6 66.7 0 0 - 3 8 37.5 2 7 9 0 1 0 0 3 -11
+p648
+aVDarius Miles LAC 12/04/2000 LAC @ NYK L 28 13 6 12 50.0 0 1 0.0 1 2 50.0 1 3 4 0 0 1 2 1 -15
+p649
+aVEric Piatkowski LAC 12/04/2000 LAC @ NYK L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p650
+aVKeyon Dooling LAC 12/04/2000 LAC @ NYK L 21 8 2 5 40.0 0 1 0.0 4 5 80.0 0 1 1 0 2 0 5 1 -22
+p651
+aVLamar Odom LAC 12/04/2000 LAC @ NYK L 26 7 3 10 30.0 1 5 20.0 0 0 - 0 4 4 3 2 1 3 5 -12
+p652
+aVCorey Maggette LAC 12/04/2000 LAC @ NYK L 24 12 2 5 40.0 0 1 0.0 8 12 66.7 2 4 6 0 1 0 4 1 -18
+p653
+aVDerek Strong LAC 12/04/2000 LAC @ NYK L 16 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -10
+p654
+aVCorey Maggette LAC 12/03/2000 LAC @ BOS L 19 13 3 5 60.0 0 1 0.0 7 9 77.8 1 5 6 0 0 0 2 5 3
+p655
+aVKeyon Dooling LAC 12/03/2000 LAC @ BOS L 14 4 2 5 40.0 0 0 - 0 0 - 0 2 2 5 2 0 3 0 9
+p656
+aVSean Rooks LAC 12/03/2000 LAC @ BOS L 24 6 2 4 50.0 0 0 - 2 5 40.0 0 5 5 2 0 1 1 3 3
+p657
+aVDarius Miles LAC 12/03/2000 LAC @ BOS L 32 9 4 8 50.0 0 0 - 1 2 50.0 2 3 5 0 0 1 3 4 -4
+p658
+aVCherokee Parks LAC 12/03/2000 LAC @ BOS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -5
+p659
+aVBrian Skinner LAC 12/03/2000 LAC @ BOS L 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -5
+p660
+aVQuentin Richardson LAC 12/03/2000 LAC @ BOS L 29 13 5 16 31.3 0 2 0.0 3 4 75.0 8 3 11 0 2 0 1 1 -12
+p661
+aVLamar Odom LAC 12/03/2000 LAC @ BOS L 37 19 6 18 33.3 1 2 50.0 6 7 85.7 0 7 7 4 3 2 4 4 -2
+p662
+aVMichael Olowokandi LAC 12/03/2000 LAC @ BOS L 23 4 2 9 22.2 0 0 - 0 0 - 3 4 7 0 0 0 2 2 -11
+p663
+aVEric Piatkowski LAC 12/03/2000 LAC @ BOS L 13 8 2 3 66.7 0 0 - 4 4 100.0 0 2 2 0 1 0 2 2 -3
+p664
+aVJeff McInnis LAC 12/03/2000 LAC @ BOS L 34 11 4 10 40.0 1 4 25.0 2 4 50.0 0 1 1 5 0 1 1 4 -18
+p665
+aVDarius Miles LAC 12/01/2000 LAC @ TOR L 12 6 3 3 100.0 0 0 - 0 2 0.0 1 3 4 1 1 1 1 0 0
+p666
+aVSean Rooks LAC 12/01/2000 LAC @ TOR L 30 6 2 7 28.6 0 0 - 2 3 66.7 1 7 8 2 1 0 2 3 -12
+p667
+aVKeyon Dooling LAC 12/01/2000 LAC @ TOR L 10 8 2 2 100.0 2 2 100.0 2 4 50.0 0 1 1 1 0 0 1 2 1
+p668
+aVBrian Skinner LAC 12/01/2000 LAC @ TOR L 26 13 5 7 71.4 0 0 - 3 6 50.0 4 5 9 1 0 1 2 2 -7
+p669
+aVQuentin Richardson LAC 12/01/2000 LAC @ TOR L 33 20 8 16 50.0 1 3 33.3 3 7 42.9 4 1 5 2 0 0 4 5 -2
+p670
+aVJeff McInnis LAC 12/01/2000 LAC @ TOR L 38 8 3 13 23.1 1 3 33.3 1 2 50.0 0 4 4 1 1 0 2 6 -10
+p671
+aVEric Piatkowski LAC 12/01/2000 LAC @ TOR L 23 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 1 0 0 2 1 -10
+p672
+aVDerek Strong LAC 12/01/2000 LAC @ TOR L 23 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 3
+p673
+aVMichael Olowokandi LAC 12/01/2000 LAC @ TOR L 24 7 2 9 22.2 0 0 - 3 3 100.0 3 5 8 1 0 2 1 3 2
+p674
+aVLamar Odom LAC 12/01/2000 LAC @ TOR L 45 17 7 16 43.8 2 5 40.0 1 7 14.3 4 5 9 5 0 6 4 4 -10
+p675
+aVSean Rooks LAC 11/29/2000 LAC vs. GSW W 29 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 3 1 2 1 3 15
+p676
+aVJeff McInnis LAC 11/29/2000 LAC vs. GSW W 38 18 8 13 61.5 1 2 50.0 1 1 100.0 0 1 1 8 0 0 0 4 28
+p677
+aVCorey Maggette LAC 11/29/2000 LAC vs. GSW W 3 6 0 0 - 0 0 - 6 6 100.0 0 0 0 0 0 0 0 1 2
+p678
+aVQuentin Richardson LAC 11/29/2000 LAC vs. GSW W 43 18 7 16 43.8 2 6 33.3 2 6 33.3 2 6 8 1 1 0 3 3 14
+p679
+aVKeyon Dooling LAC 11/29/2000 LAC vs. GSW W 10 6 1 4 25.0 1 1 100.0 3 4 75.0 0 2 2 2 0 0 1 3 -5
+p680
+aVDerek Strong LAC 11/29/2000 LAC vs. GSW W 33 12 6 9 66.7 0 0 - 0 0 - 1 2 3 0 1 0 0 1 18
+p681
+aVLamar Odom LAC 11/29/2000 LAC vs. GSW W 42 16 6 12 50.0 1 1 100.0 3 4 75.0 4 8 12 11 3 1 6 3 26
+p682
+aVEric Piatkowski LAC 11/29/2000 LAC vs. GSW W 11 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 0 2 0 0 2 2
+p683
+aVMichael Olowokandi LAC 11/29/2000 LAC vs. GSW W 17 6 3 4 75.0 0 0 - 0 0 - 0 4 4 1 0 1 1 4 10
+p684
+aVDarius Miles LAC 11/29/2000 LAC vs. GSW W 15 10 4 8 50.0 0 1 0.0 2 3 66.7 2 5 7 0 1 2 0 0 5
+p685
+aVMichael Olowokandi LAC 11/27/2000 LAC vs. LAL L 26 10 5 13 38.5 0 0 - 0 0 - 4 1 5 0 0 0 2 3 1
+p686
+aVDerek Strong LAC 11/27/2000 LAC vs. LAL L 25 2 1 5 20.0 0 0 - 0 0 - 2 5 7 0 1 1 0 1 -3
+p687
+aVJeff McInnis LAC 11/27/2000 LAC vs. LAL L 38 20 9 18 50.0 0 2 0.0 2 2 100.0 2 2 4 5 0 0 2 2 -9
+p688
+aVDarius Miles LAC 11/27/2000 LAC vs. LAL L 11 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -6
+p689
+aVCorey Maggette LAC 11/27/2000 LAC vs. LAL L 13 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 3 0 0 1 3 -2
+p690
+aVQuentin Richardson LAC 11/27/2000 LAC vs. LAL L 9 6 2 7 28.6 0 1 0.0 2 2 100.0 1 0 1 0 0 0 0 1 -14
+p691
+aVTyrone Nesby LAC 11/27/2000 LAC vs. LAL L 25 2 1 9 11.1 0 1 0.0 0 0 - 1 3 4 0 1 0 1 2 0
+p692
+aVSean Rooks LAC 11/27/2000 LAC vs. LAL L 19 6 2 8 25.0 0 0 - 2 4 50.0 3 5 8 0 0 0 0 0 -13
+p693
+aVKeyon Dooling LAC 11/27/2000 LAC vs. LAL L 12 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 1 1 0 -8
+p694
+aVLamar Odom LAC 11/27/2000 LAC vs. LAL L 35 16 6 11 54.5 0 1 0.0 4 6 66.7 2 3 5 3 2 0 0 5 -14
+p695
+aVEric Piatkowski LAC 11/27/2000 LAC vs. LAL L 28 12 6 10 60.0 0 3 0.0 0 0 - 1 3 4 1 1 0 1 4 -7
+p696
+aVTyrone Nesby LAC 11/25/2000 LAC vs. PHX L 18 2 1 7 14.3 0 1 0.0 0 0 - 2 0 2 0 0 0 1 0 -17
+p697
+aVQuentin Richardson LAC 11/25/2000 LAC vs. PHX L 15 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 2 0 4 4 -1
+p698
+aVLamar Odom LAC 11/25/2000 LAC vs. PHX L 45 20 8 17 47.1 1 2 50.0 3 4 75.0 1 10 11 5 2 3 7 5 0
+p699
+aVJeff McInnis LAC 11/25/2000 LAC vs. PHX L 33 4 2 11 18.2 0 3 0.0 0 0 - 1 1 2 5 0 0 1 3 -16
+p700
+aVDerek Strong LAC 11/25/2000 LAC vs. PHX L 26 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 2 0 0 1 0 -5
+p701
+aVKeyon Dooling LAC 11/25/2000 LAC vs. PHX L 20 13 5 6 83.3 0 1 0.0 3 3 100.0 0 2 2 2 0 1 4 1 10
+p702
+aVCorey Maggette LAC 11/25/2000 LAC vs. PHX L 14 0 0 4 0.0 0 1 0.0 0 0 - 2 3 5 1 0 0 0 3 -17
+p703
+aVDarius Miles LAC 11/25/2000 LAC vs. PHX L 21 13 5 10 50.0 0 1 0.0 3 3 100.0 3 5 8 0 0 2 3 4 10
+p704
+aVEric Piatkowski LAC 11/25/2000 LAC vs. PHX L 20 12 2 7 28.6 1 4 25.0 7 8 87.5 1 4 5 0 0 0 2 0 12
+p705
+aVMichael Olowokandi LAC 11/25/2000 LAC vs. PHX L 21 6 2 5 40.0 0 0 - 2 5 40.0 2 4 6 0 0 1 4 1 -27
+p706
+aVSean Rooks LAC 11/25/2000 LAC vs. PHX L 32 8 3 8 37.5 0 0 - 2 2 100.0 5 6 11 3 1 2 1 4 21
+p707
+aVSean Rooks LAC 11/24/2000 LAC @ SEA L 24 10 4 9 44.4 0 0 - 2 3 66.7 1 4 5 2 0 1 2 1 -14
+p708
+aVCorey Maggette LAC 11/24/2000 LAC @ SEA L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -7
+p709
+aVKeyon Dooling LAC 11/24/2000 LAC @ SEA L 15 2 0 4 0.0 0 2 0.0 2 4 50.0 0 0 0 0 0 0 2 2 -5
+p710
+aVEric Piatkowski LAC 11/24/2000 LAC @ SEA L 13 10 4 5 80.0 2 3 66.7 0 0 - 0 2 2 0 0 0 1 1 -3
+p711
+aVDerek Strong LAC 11/24/2000 LAC @ SEA L 20 8 4 9 44.4 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -4
+p712
+aVMichael Olowokandi LAC 11/24/2000 LAC @ SEA L 39 10 5 11 45.5 0 0 - 0 0 - 4 11 15 1 0 1 2 4 -14
+p713
+aVTyrone Nesby LAC 11/24/2000 LAC @ SEA L 21 7 3 10 30.0 1 3 33.3 0 0 - 1 1 2 3 0 0 0 2 -6
+p714
+aVJeff McInnis LAC 11/24/2000 LAC @ SEA L 33 12 5 14 35.7 0 1 0.0 2 2 100.0 1 3 4 5 0 0 0 2 -12
+p715
+aVDarius Miles LAC 11/24/2000 LAC @ SEA L 13 0 0 1 0.0 0 0 - 0 0 - 2 3 5 1 0 2 3 2 -2
+p716
+aVQuentin Richardson LAC 11/24/2000 LAC @ SEA L 18 8 3 8 37.5 0 3 0.0 2 3 66.7 2 1 3 1 1 1 1 0 -9
+p717
+aVLamar Odom LAC 11/24/2000 LAC @ SEA L 38 14 7 16 43.8 0 2 0.0 0 2 0.0 1 7 8 6 2 1 4 4 -9
+p718
+aVCorey Maggette LAC 11/20/2000 LAC vs. NJN L 14 7 3 8 37.5 1 1 100.0 0 0 - 0 3 3 1 0 0 1 2 7
+p719
+aVEric Piatkowski LAC 11/20/2000 LAC vs. NJN L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 3
+p720
+aVDerek Strong LAC 11/20/2000 LAC vs. NJN L 33 8 3 9 33.3 0 0 - 2 4 50.0 7 6 13 0 1 0 2 1 -2
+p721
+aVLamar Odom LAC 11/20/2000 LAC vs. NJN L 41 24 8 18 44.4 1 3 33.3 7 8 87.5 3 8 11 4 0 3 2 5 -4
+p722
+aVKeyon Dooling LAC 11/20/2000 LAC vs. NJN L 41 5 1 7 14.3 0 1 0.0 3 6 50.0 0 2 2 5 0 0 1 2 2
+p723
+aVSean Rooks LAC 11/20/2000 LAC vs. NJN L 23 6 3 7 42.9 0 0 - 0 0 - 4 3 7 0 0 1 0 3 -10
+p724
+aVMichael Olowokandi LAC 11/20/2000 LAC vs. NJN L 32 14 6 13 46.2 0 0 - 2 4 50.0 4 4 8 1 0 1 7 3 0
+p725
+aVDarius Miles LAC 11/20/2000 LAC vs. NJN L 8 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 4 1 1
+p726
+aVQuentin Richardson LAC 11/20/2000 LAC vs. NJN L 15 13 6 10 60.0 1 4 25.0 0 1 0.0 2 2 4 0 0 0 2 1 -9
+p727
+aVTyrone Nesby LAC 11/20/2000 LAC vs. NJN L 26 8 3 10 30.0 2 3 66.7 0 0 - 0 2 2 0 1 1 1 1 7
+p728
+aVKeyon Dooling LAC 11/18/2000 LAC vs. SEA L 18 5 1 3 33.3 1 1 100.0 2 4 50.0 0 0 0 1 0 0 1 4 -6
+p729
+aVMichael Olowokandi LAC 11/18/2000 LAC vs. SEA L 23 2 1 4 25.0 0 0 - 0 0 - 1 6 7 0 0 0 3 2 -4
+p730
+aVDerek Strong LAC 11/18/2000 LAC vs. SEA L 31 2 0 5 0.0 0 0 - 2 2 100.0 1 9 10 0 2 0 3 1 -3
+p731
+aVZendon Hamilton LAC 11/18/2000 LAC vs. SEA L 4 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -3
+p732
+aVLamar Odom LAC 11/18/2000 LAC vs. SEA L 41 27 10 19 52.6 0 1 0.0 7 9 77.8 0 12 12 8 1 2 7 4 0
+p733
+aVDarius Miles LAC 11/18/2000 LAC vs. SEA L 14 4 2 4 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 4 1 -3
+p734
+aVTyrone Nesby LAC 11/18/2000 LAC vs. SEA L 25 14 5 8 62.5 1 3 33.3 3 5 60.0 1 2 3 0 2 0 2 3 0
+p735
+aVCorey Maggette LAC 11/18/2000 LAC vs. SEA L 10 4 2 4 50.0 0 0 - 0 0 - 3 2 5 2 0 0 3 1 0
+p736
+aVEric Piatkowski LAC 11/18/2000 LAC vs. SEA L 16 5 2 8 25.0 1 5 20.0 0 0 - 0 4 4 1 0 1 1 0 -6
+p737
+aVQuentin Richardson LAC 11/18/2000 LAC vs. SEA L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 6
+p738
+aVJeff McInnis LAC 11/18/2000 LAC vs. SEA L 22 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p739
+aVSean Rooks LAC 11/18/2000 LAC vs. SEA L 28 11 3 6 50.0 0 0 - 5 7 71.4 1 4 5 0 1 1 4 5 3
+p740
+aVSean Rooks LAC 11/16/2000 LAC @ VAN W 26 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 1 0 2 2 4 -13
+p741
+aVEric Piatkowski LAC 11/16/2000 LAC @ VAN W 28 9 2 7 28.6 2 3 66.7 3 5 60.0 3 3 6 0 0 0 1 0 5
+p742
+aVBrian Skinner LAC 11/16/2000 LAC @ VAN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p743
+aVDerek Strong LAC 11/16/2000 LAC @ VAN W 42 13 5 15 33.3 0 0 - 3 4 75.0 4 4 8 1 0 0 1 2 3
+p744
+aVJeff McInnis LAC 11/16/2000 LAC @ VAN W 36 9 3 8 37.5 1 1 100.0 2 2 100.0 0 4 4 8 1 0 1 1 -1
+p745
+aVKeyon Dooling LAC 11/16/2000 LAC @ VAN W 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 5
+p746
+aVMichael Olowokandi LAC 11/16/2000 LAC @ VAN W 21 14 7 13 53.8 0 0 - 0 0 - 2 3 5 0 0 0 1 5 17
+p747
+aVDarius Miles LAC 11/16/2000 LAC @ VAN W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 1 1 9
+p748
+aVLamar Odom LAC 11/16/2000 LAC @ VAN W 36 21 9 16 56.3 2 5 40.0 1 3 33.3 4 2 6 5 0 3 1 2 -5
+p749
+aVTyrone Nesby LAC 11/16/2000 LAC @ VAN W 20 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 1 -1
+p750
+aVJeff McInnis LAC 11/15/2000 LAC vs. NYK W 41 10 4 9 44.4 1 3 33.3 1 1 100.0 0 1 1 5 0 0 1 2 6
+p751
+aVCorey Maggette LAC 11/15/2000 LAC vs. NYK W 3 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 0 0 0 0 0 -7
+p752
+aVLamar Odom LAC 11/15/2000 LAC vs. NYK W 37 16 7 14 50.0 0 3 0.0 2 2 100.0 2 7 9 3 1 3 3 2 10
+p753
+aVKeyon Dooling LAC 11/15/2000 LAC vs. NYK W 7 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 2 2 -2
+p754
+aVMichael Olowokandi LAC 11/15/2000 LAC vs. NYK W 20 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 1 2 1 -8
+p755
+aVSean Rooks LAC 11/15/2000 LAC vs. NYK W 28 14 6 10 60.0 0 0 - 2 2 100.0 4 2 6 4 1 2 0 2 14
+p756
+aVQuentin Richardson LAC 11/15/2000 LAC vs. NYK W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 1 1 0
+p757
+aVBrian Skinner LAC 11/15/2000 LAC vs. NYK W 16 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 0 0 0 0 0
+p758
+aVEric Piatkowski LAC 11/15/2000 LAC vs. NYK W 28 12 4 14 28.6 3 6 50.0 1 2 50.0 1 2 3 3 0 0 0 1 13
+p759
+aVDerek Strong LAC 11/15/2000 LAC vs. NYK W 28 5 1 7 14.3 0 0 - 3 3 100.0 2 6 8 0 1 0 2 4 0
+p760
+aVTyrone Nesby LAC 11/15/2000 LAC vs. NYK W 25 8 4 11 36.4 0 4 0.0 0 0 - 3 3 6 2 2 0 0 3 -6
+p761
+aVJeff McInnis LAC 11/13/2000 LAC vs. DAL L 30 7 3 10 30.0 1 1 100.0 0 0 - 1 3 4 2 0 0 2 1 -12
+p762
+aVMichael Olowokandi LAC 11/13/2000 LAC vs. DAL L 21 4 1 3 33.3 0 0 - 2 4 50.0 2 1 3 0 0 1 0 0 -28
+p763
+aVCorey Maggette LAC 11/13/2000 LAC vs. DAL L 12 2 1 3 33.3 0 0 - 0 3 0.0 0 2 2 2 1 0 0 0 11
+p764
+aVBrian Skinner LAC 11/13/2000 LAC vs. DAL L 9 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 1 1 -10
+p765
+aVEric Piatkowski LAC 11/13/2000 LAC vs. DAL L 16 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 2 0
+p766
+aVQuentin Richardson LAC 11/13/2000 LAC vs. DAL L 38 19 8 18 44.4 0 1 0.0 3 5 60.0 4 4 8 2 1 0 1 2 -9
+p767
+aVTyrone Nesby LAC 11/13/2000 LAC vs. DAL L 17 1 0 5 0.0 0 5 0.0 1 2 50.0 0 2 2 0 0 0 1 1 -23
+p768
+aVDarius Miles LAC 11/13/2000 LAC vs. DAL L 26 9 4 9 44.4 0 1 0.0 1 4 25.0 3 4 7 3 1 3 5 4 13
+p769
+aVSean Rooks LAC 11/13/2000 LAC vs. DAL L 22 6 3 7 42.9 0 0 - 0 0 - 2 6 8 0 1 0 1 4 8
+p770
+aVLamar Odom LAC 11/13/2000 LAC vs. DAL L 31 18 7 13 53.8 0 0 - 4 11 36.4 3 5 8 2 0 0 3 5 -18
+p771
+aVKeyon Dooling LAC 11/13/2000 LAC vs. DAL L 18 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 1 1 0 1 1 -2
+p772
+aVSean Rooks LAC 11/12/2000 LAC @ DEN L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p773
+aVEric Piatkowski LAC 11/12/2000 LAC @ DEN L 15 1 0 4 0.0 0 3 0.0 1 2 50.0 0 1 1 0 1 1 1 1 -5
+p774
+aVQuentin Richardson LAC 11/12/2000 LAC @ DEN L 15 6 1 6 16.7 0 3 0.0 4 4 100.0 1 2 3 0 0 0 0 1 3
+p775
+aVBrian Skinner LAC 11/12/2000 LAC @ DEN L 35 23 8 15 53.3 0 0 - 7 7 100.0 6 6 12 0 1 0 1 0 -5
+p776
+aVTyrone Nesby LAC 11/12/2000 LAC @ DEN L 20 4 2 9 22.2 0 5 0.0 0 0 - 1 2 3 2 0 1 0 2 -9
+p777
+aVCorey Maggette LAC 11/12/2000 LAC @ DEN L 9 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -5
+p778
+aVDarius Miles LAC 11/12/2000 LAC @ DEN L 21 9 3 8 37.5 0 0 - 3 4 75.0 1 3 4 1 1 1 4 6 -7
+p779
+aVKeyon Dooling LAC 11/12/2000 LAC @ DEN L 21 3 1 5 20.0 0 2 0.0 1 4 25.0 0 3 3 5 0 0 2 1 -13
+p780
+aVLamar Odom LAC 11/12/2000 LAC @ DEN L 38 10 4 10 40.0 1 3 33.3 1 1 100.0 3 10 13 5 1 1 1 5 -12
+p781
+aVMichael Olowokandi LAC 11/12/2000 LAC @ DEN L 24 6 3 9 33.3 0 0 - 0 0 - 2 7 9 0 0 0 4 0 -9
+p782
+aVJeff McInnis LAC 11/12/2000 LAC @ DEN L 33 8 3 10 30.0 0 4 0.0 2 2 100.0 0 1 1 7 0 0 2 2 -6
+p783
+aVDerek Strong LAC 11/12/2000 LAC @ DEN L 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -10
+p784
+aVKeyon Dooling LAC 11/10/2000 LAC vs. ATL W 16 12 4 5 80.0 0 0 - 4 4 100.0 0 2 2 3 0 0 0 2 -9
+p785
+aVBrian Skinner LAC 11/10/2000 LAC vs. ATL W 20 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 1 0 1 2 15
+p786
+aVLamar Odom LAC 11/10/2000 LAC vs. ATL W 45 25 7 14 50.0 3 5 60.0 8 10 80.0 0 7 7 7 1 4 8 5 8
+p787
+aVCorey Maggette LAC 11/10/2000 LAC vs. ATL W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p788
+aVMichael Olowokandi LAC 11/10/2000 LAC vs. ATL W 39 14 7 9 77.8 0 0 - 0 0 - 3 3 6 1 0 4 5 4 12
+p789
+aVQuentin Richardson LAC 11/10/2000 LAC vs. ATL W 13 7 3 5 60.0 1 2 50.0 0 0 - 2 0 2 0 0 1 2 2 8
+p790
+aVDarius Miles LAC 11/10/2000 LAC vs. ATL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -7
+p791
+aVEric Piatkowski LAC 11/10/2000 LAC vs. ATL W 21 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 0 1 0 1 2 -4
+p792
+aVSean Rooks LAC 11/10/2000 LAC vs. ATL W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p793
+aVDerek Strong LAC 11/10/2000 LAC vs. ATL W 7 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 1 0 -2
+p794
+aVTyrone Nesby LAC 11/10/2000 LAC vs. ATL W 26 17 6 10 60.0 4 7 57.1 1 3 33.3 0 2 2 1 1 0 1 4 19
+p795
+aVJeff McInnis LAC 11/10/2000 LAC vs. ATL W 32 28 11 17 64.7 0 0 - 6 6 100.0 1 3 4 6 5 0 0 4 18
+p796
+aVBrian Skinner LAC 11/08/2000 LAC vs. UTA L 29 7 2 7 28.6 0 0 - 3 4 75.0 5 6 11 1 0 1 3 4 7
+p797
+aVMichael Olowokandi LAC 11/08/2000 LAC vs. UTA L 14 2 1 6 16.7 0 0 - 0 0 - 1 3 4 0 0 0 2 3 -12
+p798
+aVDarius Miles LAC 11/08/2000 LAC vs. UTA L 10 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -5
+p799
+aVEric Piatkowski LAC 11/08/2000 LAC vs. UTA L 31 9 3 10 30.0 1 4 25.0 2 2 100.0 2 0 2 1 1 0 0 3 0
+p800
+aVSean Rooks LAC 11/08/2000 LAC vs. UTA L 36 15 3 6 50.0 1 1 100.0 8 8 100.0 2 5 7 3 2 0 0 5 9
+p801
+aVQuentin Richardson LAC 11/08/2000 LAC vs. UTA L 8 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 1 2 0 0 1 -4
+p802
+aVCorey Maggette LAC 11/08/2000 LAC vs. UTA L 18 15 5 10 50.0 0 0 - 5 7 71.4 0 2 2 2 0 0 1 4 2
+p803
+aVJeff McInnis LAC 11/08/2000 LAC vs. UTA L 31 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 4 2 -14
+p804
+aVLamar Odom LAC 11/08/2000 LAC vs. UTA L 26 6 2 11 18.2 0 2 0.0 2 2 100.0 1 4 5 0 1 0 2 6 -16
+p805
+aVTyrone Nesby LAC 11/08/2000 LAC vs. UTA L 41 19 3 15 20.0 0 3 0.0 13 13 100.0 1 1 2 0 2 1 1 2 -5
+p806
+aVKeyon Dooling LAC 11/08/2000 LAC vs. UTA L 22 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 1 1 8
+p807
+aVTyrone Nesby LAC 11/05/2000 LAC @ LAL L 36 17 8 13 61.5 1 3 33.3 0 0 - 4 2 6 2 0 0 0 3 -2
+p808
+aVKeyon Dooling LAC 11/05/2000 LAC @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p809
+aVSean Rooks LAC 11/05/2000 LAC @ LAL L 23 12 5 8 62.5 0 0 - 2 3 66.7 0 1 1 1 0 1 1 6 3
+p810
+aVEric Piatkowski LAC 11/05/2000 LAC @ LAL L 25 13 5 10 50.0 2 4 50.0 1 1 100.0 0 2 2 2 0 1 1 2 1
+p811
+aVMichael Olowokandi LAC 11/05/2000 LAC @ LAL L 22 8 3 14 21.4 0 0 - 2 2 100.0 1 1 2 0 0 1 1 4 -8
+p812
+aVDarius Miles LAC 11/05/2000 LAC @ LAL L 26 4 2 4 50.0 0 1 0.0 0 0 - 0 6 6 1 1 3 1 2 -6
+p813
+aVLamar Odom LAC 11/05/2000 LAC @ LAL L 42 19 6 13 46.2 1 3 33.3 6 10 60.0 1 14 15 6 0 3 3 6 -7
+p814
+aVQuentin Richardson LAC 11/05/2000 LAC @ LAL L 11 8 2 4 50.0 1 3 33.3 3 6 50.0 0 1 1 0 0 0 1 1 0
+p815
+aVBrian Skinner LAC 11/05/2000 LAC @ LAL L 7 1 0 0 - 0 0 - 1 6 16.7 0 3 3 1 1 0 0 4 -1
+p816
+aVJeff McInnis LAC 11/05/2000 LAC @ LAL L 42 19 8 15 53.3 1 2 50.0 2 2 100.0 2 2 4 8 2 0 1 4 -8
+p817
+aVSean Rooks LAC 11/04/2000 LAC vs. HOU W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p818
+aVQuentin Richardson LAC 11/04/2000 LAC vs. HOU W 21 11 5 11 45.5 1 2 50.0 0 3 0.0 2 4 6 1 1 0 0 1 0
+p819
+aVBrian Skinner LAC 11/04/2000 LAC vs. HOU W 25 5 2 5 40.0 0 0 - 1 4 25.0 1 4 5 1 0 0 2 0 -6
+p820
+aVLamar Odom LAC 11/04/2000 LAC vs. HOU W 42 13 6 13 46.2 1 3 33.3 0 0 - 0 7 7 6 2 2 3 2 5
+p821
+aVDarius Miles LAC 11/04/2000 LAC vs. HOU W 22 7 3 5 60.0 1 3 33.3 0 0 - 1 4 5 1 0 0 4 0 6
+p822
+aVEric Piatkowski LAC 11/04/2000 LAC vs. HOU W 15 10 2 4 50.0 1 2 50.0 5 6 83.3 1 2 3 2 0 0 1 3 12
+p823
+aVJeff McInnis LAC 11/04/2000 LAC vs. HOU W 39 12 6 12 50.0 0 1 0.0 0 2 0.0 1 2 3 5 2 0 1 2 -3
+p824
+aVDerek Strong LAC 11/04/2000 LAC vs. HOU W 18 3 1 1 100.0 0 0 - 1 2 50.0 0 6 6 0 0 0 2 0 3
+p825
+aVKeyon Dooling LAC 11/04/2000 LAC vs. HOU W 9 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 2 0 1 0 2 6
+p826
+aVCorey Maggette LAC 11/04/2000 LAC vs. HOU W 6 1 0 3 0.0 0 2 0.0 1 4 25.0 1 0 1 1 0 0 2 2 0
+p827
+aVMichael Olowokandi LAC 11/04/2000 LAC vs. HOU W 29 6 2 8 25.0 0 0 - 2 4 50.0 1 7 8 1 2 0 4 2 -7
+p828
+aVDerek Strong LAC 11/02/2000 LAC vs. VAN L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -1
+p829
+aVBrian Skinner LAC 11/02/2000 LAC vs. VAN L 23 6 3 10 30.0 0 0 - 0 1 0.0 1 2 3 2 1 0 2 2 -14
+p830
+aVMichael Olowokandi LAC 11/02/2000 LAC vs. VAN L 35 16 7 13 53.8 0 0 - 2 4 50.0 2 8 10 0 1 2 3 3 -6
+p831
+aVKeyon Dooling LAC 11/02/2000 LAC vs. VAN L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 1
+p832
+aVDarius Miles LAC 11/02/2000 LAC vs. VAN L 31 15 5 12 41.7 0 3 0.0 5 6 83.3 1 3 4 3 0 1 0 1 -6
+p833
+aVCorey Maggette LAC 11/02/2000 LAC vs. VAN L 14 11 5 6 83.3 0 0 - 1 2 50.0 4 4 8 0 0 0 2 2 7
+p834
+aVSean Rooks LAC 11/02/2000 LAC vs. VAN L 20 2 1 3 33.3 0 0 - 0 0 - 4 1 5 2 1 1 2 3 -4
+p835
+aVLamar Odom LAC 11/02/2000 LAC vs. VAN L 45 17 8 19 42.1 1 8 12.5 0 0 - 1 5 6 6 1 1 5 1 -8
+p836
+aVTyrone Nesby LAC 11/02/2000 LAC vs. VAN L 14 4 2 5 40.0 0 2 0.0 0 0 - 1 3 4 1 0 0 2 2 0
+p837
+aVQuentin Richardson LAC 11/02/2000 LAC vs. VAN L 3 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 1 0 0
+p838
+aVJeff McInnis LAC 11/02/2000 LAC vs. VAN L 40 14 5 8 62.5 1 2 50.0 3 4 75.0 0 2 2 5 2 0 2 4 -9
+p839
+aVDerek Strong LAC 10/31/2000 LAC @ UTA L 27 10 3 6 50.0 0 0 - 4 4 100.0 1 6 7 1 1 0 2 3 -7
+p840
+aVKeyon Dooling LAC 10/31/2000 LAC @ UTA L 13 10 2 5 40.0 1 2 50.0 5 8 62.5 0 2 2 3 0 0 2 2 3
+p841
+aVMichael Olowokandi LAC 10/31/2000 LAC @ UTA L 17 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 6 5 0
+p842
+aVQuentin Richardson LAC 10/31/2000 LAC @ UTA L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -1
+p843
+aVSean Rooks LAC 10/31/2000 LAC @ UTA L 31 11 3 4 75.0 0 0 - 5 8 62.5 2 4 6 1 1 1 1 4 -13
+p844
+aVLamar Odom LAC 10/31/2000 LAC @ UTA L 18 9 2 7 28.6 1 3 33.3 4 4 100.0 0 3 3 2 0 1 4 4 -9
+p845
+aVTyrone Nesby LAC 10/31/2000 LAC @ UTA L 18 3 1 7 14.3 1 4 25.0 0 0 - 1 1 2 0 0 1 0 2 -18
+p846
+aVEric Piatkowski LAC 10/31/2000 LAC @ UTA L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p847
+aVJeff McInnis LAC 10/31/2000 LAC @ UTA L 35 20 9 12 75.0 0 1 0.0 2 2 100.0 1 2 3 7 0 0 3 3 -16
+p848
+aVCorey Maggette LAC 10/31/2000 LAC @ UTA L 16 15 6 11 54.5 1 2 50.0 2 2 100.0 3 2 5 1 0 0 1 2 2
+p849
+aVDarius Miles LAC 10/31/2000 LAC @ UTA L 34 8 4 6 66.7 0 1 0.0 0 4 0.0 1 6 7 2 0 2 2 2 1
+p850
+aVBrian Skinner LAC 10/31/2000 LAC @ UTA L 21 6 3 4 75.0 0 0 - 0 2 0.0 0 2 2 0 1 1 3 3 -6
+p851
+a.

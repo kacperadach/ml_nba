@@ -1,0 +1,340 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRenaldo Balkman DEN 05/29/2009 DEN vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p2
+aVJR Smith DEN 05/29/2009 DEN vs. LAL L 32 24 10 17 58.8 4 9 44.4 0 0 - 1 1 2 0 1 0 2 5 -21
+p3
+aVJohan Petro DEN 05/29/2009 DEN vs. LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p4
+aVNene DEN 05/29/2009 DEN vs. LAL L 33 8 3 7 42.9 0 0 - 2 2 100.0 1 5 6 1 2 0 2 4 -13
+p5
+aVLinas Kleiza DEN 05/29/2009 DEN vs. LAL L 19 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 1 0 0 0 0 -16
+p6
+aVChris Andersen DEN 05/29/2009 DEN vs. LAL L 21 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 3 1 2 -19
+p7
+aVJason Hart DEN 05/29/2009 DEN vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p8
+aVCarmelo Anthony DEN 05/29/2009 DEN vs. LAL L 37 25 6 17 35.3 1 3 33.3 12 15 80.0 0 2 2 2 1 0 0 1 -17
+p9
+aVDahntay Jones DEN 05/29/2009 DEN vs. LAL L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p10
+aVAnthony Carter DEN 05/29/2009 DEN vs. LAL L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 2 0 1
+p11
+aVKenyon Martin DEN 05/29/2009 DEN vs. LAL L 29 13 6 13 46.2 0 0 - 1 2 50.0 2 3 5 0 0 0 1 4 -12
+p12
+aVChauncey Billups DEN 05/29/2009 DEN vs. LAL L 39 10 2 7 28.6 1 3 33.3 5 6 83.3 0 4 4 9 1 0 5 4 -28
+p13
+aVLinas Kleiza DEN 05/27/2009 DEN @ LAL L 19 10 3 6 50.0 1 3 33.3 3 5 60.0 0 5 5 0 0 0 0 3 -8
+p14
+aVChauncey Billups DEN 05/27/2009 DEN @ LAL L 39 12 4 7 57.1 3 6 50.0 1 1 100.0 1 2 3 5 2 0 3 5 -9
+p15
+aVKenyon Martin DEN 05/27/2009 DEN @ LAL L 36 12 6 15 40.0 0 0 - 0 0 - 0 5 5 1 1 1 0 3 -2
+p16
+aVAnthony Carter DEN 05/27/2009 DEN @ LAL L 11 7 3 4 75.0 1 1 100.0 0 0 - 1 2 3 0 1 0 0 2 -3
+p17
+aVChris Andersen DEN 05/27/2009 DEN @ LAL L 24 2 1 4 25.0 0 0 - 0 0 - 3 5 8 0 0 4 1 4 -17
+p18
+aVJR Smith DEN 05/27/2009 DEN @ LAL L 29 7 3 13 23.1 1 10 10.0 0 1 0.0 1 2 3 4 2 0 1 2 -13
+p19
+aVCarmelo Anthony DEN 05/27/2009 DEN @ LAL L 40 31 9 23 39.1 1 4 25.0 12 13 92.3 0 4 4 4 2 0 5 3 -2
+p20
+aVDahntay Jones DEN 05/27/2009 DEN @ LAL L 15 9 2 8 25.0 0 0 - 5 8 62.5 4 0 4 1 1 0 2 2 4
+p21
+aVNene DEN 05/27/2009 DEN @ LAL L 26 4 1 3 33.3 0 0 - 2 2 100.0 4 4 8 2 2 0 2 6 5
+p22
+aVJR Smith DEN 05/25/2009 DEN vs. LAL W 28 24 9 17 52.9 4 9 44.4 2 6 33.3 1 1 2 4 2 0 3 4 9
+p23
+aVCarmelo Anthony DEN 05/25/2009 DEN vs. LAL W 35 15 3 16 18.8 0 3 0.0 9 11 81.8 2 1 3 5 1 0 1 5 13
+p24
+aVKenyon Martin DEN 05/25/2009 DEN vs. LAL W 34 13 5 11 45.5 0 1 0.0 3 4 75.0 3 12 15 2 0 2 0 3 15
+p25
+aVAnthony Carter DEN 05/25/2009 DEN vs. LAL W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -2
+p26
+aVDahntay Jones DEN 05/25/2009 DEN vs. LAL W 19 12 3 5 60.0 0 1 0.0 6 6 100.0 1 2 3 1 1 0 0 2 13
+p27
+aVJason Hart DEN 05/25/2009 DEN vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p28
+aVRenaldo Balkman DEN 05/25/2009 DEN vs. LAL W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -2
+p29
+aVJohan Petro DEN 05/25/2009 DEN vs. LAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p30
+aVChauncey Billups DEN 05/25/2009 DEN vs. LAL W 42 24 7 16 43.8 1 6 16.7 9 9 100.0 1 2 3 3 1 1 0 1 18
+p31
+aVLinas Kleiza DEN 05/25/2009 DEN vs. LAL W 13 10 3 5 60.0 2 3 66.7 2 2 100.0 0 2 2 0 0 0 0 2 6
+p32
+aVChris Andersen DEN 05/25/2009 DEN vs. LAL W 24 6 2 4 50.0 0 1 0.0 2 4 50.0 4 10 14 0 0 2 0 2 3
+p33
+aVNene DEN 05/25/2009 DEN vs. LAL W 35 14 5 8 62.5 0 0 - 4 7 57.1 7 6 13 6 0 0 1 2 22
+p34
+aVChauncey Billups DEN 05/23/2009 DEN vs. LAL L 40 18 5 15 33.3 2 7 28.6 6 7 85.7 0 6 6 7 2 0 4 1 -1
+p35
+aVDahntay Jones DEN 05/23/2009 DEN vs. LAL L 17 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 1 1 0 0 5 -2
+p36
+aVJR Smith DEN 05/23/2009 DEN vs. LAL L 26 10 4 15 26.7 2 10 20.0 0 0 - 2 1 3 6 1 0 1 4 -5
+p37
+aVChris Andersen DEN 05/23/2009 DEN vs. LAL L 24 15 6 9 66.7 0 0 - 3 4 75.0 2 5 7 0 0 3 0 2 -6
+p38
+aVCarmelo Anthony DEN 05/23/2009 DEN vs. LAL L 37 21 4 13 30.8 1 7 14.3 12 14 85.7 0 5 5 3 3 0 4 6 -3
+p39
+aVLinas Kleiza DEN 05/23/2009 DEN vs. LAL L 14 4 2 6 33.3 0 2 0.0 0 0 - 2 4 6 1 1 0 0 0 3
+p40
+aVKenyon Martin DEN 05/23/2009 DEN vs. LAL L 35 6 3 10 30.0 0 0 - 0 0 - 2 5 7 1 0 2 1 6 -7
+p41
+aVNene DEN 05/23/2009 DEN vs. LAL L 31 13 5 9 55.6 0 0 - 3 4 75.0 1 5 6 1 1 0 1 5 -2
+p42
+aVAnthony Carter DEN 05/23/2009 DEN vs. LAL L 15 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 2 -7
+p43
+aVKenyon Martin DEN 05/21/2009 DEN @ LAL W 35 16 7 10 70.0 0 0 - 2 2 100.0 2 1 3 2 3 1 3 5 -7
+p44
+aVDahntay Jones DEN 05/21/2009 DEN @ LAL W 13 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 2 0 0 5 -9
+p45
+aVJR Smith DEN 05/21/2009 DEN @ LAL W 25 3 1 6 16.7 1 4 25.0 0 0 - 1 3 4 3 0 1 3 4 3
+p46
+aVAnthony Carter DEN 05/21/2009 DEN @ LAL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p47
+aVNene DEN 05/21/2009 DEN @ LAL W 35 6 2 5 40.0 0 0 - 2 3 66.7 1 8 9 6 1 1 2 5 -9
+p48
+aVLinas Kleiza DEN 05/21/2009 DEN @ LAL W 22 16 5 8 62.5 4 7 57.1 2 2 100.0 3 5 8 0 0 0 0 2 16
+p49
+aVChris Andersen DEN 05/21/2009 DEN @ LAL W 20 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 1 1 2 12
+p50
+aVChauncey Billups DEN 05/21/2009 DEN @ LAL W 44 27 6 15 40.0 2 4 50.0 13 16 81.3 0 2 2 4 1 0 1 3 2
+p51
+aVCarmelo Anthony DEN 05/21/2009 DEN @ LAL W 42 34 12 29 41.4 0 6 0.0 10 14 71.4 5 4 9 4 1 1 4 3 9
+p52
+aVJR Smith DEN 05/19/2009 DEN @ LAL L 25 8 2 7 28.6 2 5 40.0 2 6 33.3 0 5 5 3 0 1 3 5 -8
+p53
+aVCarmelo Anthony DEN 05/19/2009 DEN @ LAL L 40 39 14 20 70.0 4 5 80.0 7 8 87.5 2 4 6 4 0 1 3 5 -3
+p54
+aVNene DEN 05/19/2009 DEN @ LAL L 32 14 6 9 66.7 0 0 - 2 3 66.7 1 4 5 1 1 1 1 6 -1
+p55
+aVDahntay Jones DEN 05/19/2009 DEN @ LAL L 16 1 0 3 0.0 0 1 0.0 1 2 50.0 1 0 1 2 1 1 3 3 3
+p56
+aVAnthony Carter DEN 05/19/2009 DEN @ LAL L 15 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 3 2 0 1 2 -7
+p57
+aVChauncey Billups DEN 05/19/2009 DEN @ LAL L 41 18 5 13 38.5 2 7 28.6 6 9 66.7 0 5 5 8 1 0 1 0 4
+p58
+aVLinas Kleiza DEN 05/19/2009 DEN @ LAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 4
+p59
+aVKenyon Martin DEN 05/19/2009 DEN @ LAL L 39 15 7 14 50.0 0 0 - 1 2 50.0 1 7 8 2 2 2 2 3 1
+p60
+aVChris Andersen DEN 05/19/2009 DEN @ LAL L 24 8 2 4 50.0 0 0 - 4 5 80.0 2 3 5 1 1 2 1 1 -3
+p61
+aVJohan Petro DEN 05/13/2009 DEN vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p62
+aVChris Andersen DEN 05/13/2009 DEN vs. DAL W 14 0 0 0 - 0 0 - 0 0 - 2 3 5 1 0 1 0 5 -5
+p63
+aVRenaldo Balkman DEN 05/13/2009 DEN vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p64
+aVJR Smith DEN 05/13/2009 DEN vs. DAL W 29 18 5 13 38.5 4 10 40.0 4 4 100.0 1 4 5 6 0 0 1 4 11
+p65
+aVKenyon Martin DEN 05/13/2009 DEN vs. DAL W 39 15 5 11 45.5 0 1 0.0 5 9 55.6 1 1 2 4 4 0 2 3 13
+p66
+aVCarmelo Anthony DEN 05/13/2009 DEN vs. DAL W 40 30 13 22 59.1 4 7 57.1 0 0 - 1 4 5 3 1 0 1 5 15
+p67
+aVNene DEN 05/13/2009 DEN vs. DAL W 41 17 8 10 80.0 0 0 - 1 2 50.0 3 4 7 1 2 0 4 4 17
+p68
+aVAnthony Carter DEN 05/13/2009 DEN vs. DAL W 17 8 4 6 66.7 0 1 0.0 0 0 - 3 2 5 3 0 0 2 0 0
+p69
+aVJason Hart DEN 05/13/2009 DEN vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p70
+aVDahntay Jones DEN 05/13/2009 DEN vs. DAL W 19 8 3 4 75.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 1 0 4
+p71
+aVChauncey Billups DEN 05/13/2009 DEN vs. DAL W 40 28 10 16 62.5 3 6 50.0 5 5 100.0 1 6 7 12 0 1 2 3 15
+p72
+aVLinas Kleiza DEN 05/11/2009 DEN @ DAL L 20 7 2 7 28.6 1 4 25.0 2 4 50.0 0 3 3 1 0 0 0 4 17
+p73
+aVJR Smith DEN 05/11/2009 DEN @ DAL L 28 19 7 10 70.0 2 3 66.7 3 5 60.0 0 1 1 0 1 0 1 2 -6
+p74
+aVRenaldo Balkman DEN 05/11/2009 DEN @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p75
+aVChauncey Billups DEN 05/11/2009 DEN @ DAL L 40 24 6 12 50.0 2 6 33.3 10 10 100.0 0 2 2 7 1 1 2 3 -6
+p76
+aVKenyon Martin DEN 05/11/2009 DEN @ DAL L 33 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 1 1 6 -13
+p77
+aVNene DEN 05/11/2009 DEN @ DAL L 42 9 2 5 40.0 0 0 - 5 10 50.0 0 8 8 3 1 3 2 5 -8
+p78
+aVDahntay Jones DEN 05/11/2009 DEN @ DAL L 17 10 3 8 37.5 1 1 100.0 3 4 75.0 2 3 5 1 1 0 1 2 4
+p79
+aVAnthony Carter DEN 05/11/2009 DEN @ DAL L 15 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 2 2 2
+p80
+aVCarmelo Anthony DEN 05/11/2009 DEN @ DAL L 43 41 15 29 51.7 2 5 40.0 9 11 81.8 3 8 11 3 5 0 2 5 0
+p81
+aVNene DEN 05/09/2009 DEN @ DAL W 30 5 2 10 20.0 0 0 - 1 2 50.0 2 6 8 4 2 0 2 5 6
+p82
+aVCarmelo Anthony DEN 05/09/2009 DEN @ DAL W 42 31 9 24 37.5 2 2 100.0 11 14 78.6 3 5 8 2 2 1 2 5 2
+p83
+aVDahntay Jones DEN 05/09/2009 DEN @ DAL W 14 8 3 4 75.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 3 -7
+p84
+aVKenyon Martin DEN 05/09/2009 DEN @ DAL W 38 12 5 6 83.3 0 0 - 2 2 100.0 3 1 4 1 1 0 1 4 0
+p85
+aVLinas Kleiza DEN 05/09/2009 DEN @ DAL W 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -3
+p86
+aVChauncey Billups DEN 05/09/2009 DEN @ DAL W 41 32 9 16 56.3 3 7 42.9 11 12 91.7 0 3 3 3 0 1 1 4 4
+p87
+aVChris Andersen DEN 05/09/2009 DEN @ DAL W 11 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 0 0 1 1 6 -1
+p88
+aVAnthony Carter DEN 05/09/2009 DEN @ DAL W 18 3 1 6 16.7 0 2 0.0 1 2 50.0 0 2 2 2 1 0 0 2 -3
+p89
+aVJohan Petro DEN 05/09/2009 DEN @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p90
+aVJR Smith DEN 05/09/2009 DEN @ DAL W 31 10 3 10 30.0 1 4 25.0 3 4 75.0 2 4 6 2 1 1 0 4 8
+p91
+aVLinas Kleiza DEN 05/05/2009 DEN vs. DAL W 6 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p92
+aVCarmelo Anthony DEN 05/05/2009 DEN vs. DAL W 42 25 8 21 38.1 1 8 12.5 8 9 88.9 1 4 5 5 1 1 1 4 12
+p93
+aVRenaldo Balkman DEN 05/05/2009 DEN vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p94
+aVChauncey Billups DEN 05/05/2009 DEN vs. DAL W 39 18 5 12 41.7 4 9 44.4 4 4 100.0 0 3 3 8 3 0 2 1 10
+p95
+aVNene DEN 05/05/2009 DEN vs. DAL W 34 25 8 12 66.7 0 0 - 9 13 69.2 3 5 8 0 0 1 1 2 6
+p96
+aVJason Hart DEN 05/05/2009 DEN vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p97
+aVChris Andersen DEN 05/05/2009 DEN vs. DAL W 25 8 4 5 80.0 0 0 - 0 0 - 5 4 9 2 1 0 1 4 24
+p98
+aVAnthony Carter DEN 05/05/2009 DEN vs. DAL W 20 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 4 0 0 0 1 5
+p99
+aVJR Smith DEN 05/05/2009 DEN vs. DAL W 25 21 6 10 60.0 3 7 42.9 6 7 85.7 0 2 2 3 2 0 0 2 27
+p100
+aVDahntay Jones DEN 05/05/2009 DEN vs. DAL W 15 0 0 3 0.0 0 1 0.0 0 2 0.0 0 3 3 1 1 1 1 2 -12
+p101
+aVJohan Petro DEN 05/05/2009 DEN vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p102
+aVKenyon Martin DEN 05/05/2009 DEN vs. DAL W 29 12 4 7 57.1 0 0 - 4 5 80.0 1 6 7 4 1 0 3 4 0
+p103
+aVNene DEN 05/03/2009 DEN vs. DAL W 36 24 9 13 69.2 0 0 - 6 7 85.7 0 3 3 5 2 1 3 2 16
+p104
+aVChris Andersen DEN 05/03/2009 DEN vs. DAL W 28 11 3 5 60.0 0 0 - 5 8 62.5 1 5 6 2 1 6 1 1 28
+p105
+aVChauncey Billups DEN 05/03/2009 DEN vs. DAL W 38 6 2 8 25.0 2 4 50.0 0 0 - 1 2 3 6 3 0 4 3 8
+p106
+aVCarmelo Anthony DEN 05/03/2009 DEN vs. DAL W 29 23 7 10 70.0 2 3 66.7 7 7 100.0 1 4 5 4 2 2 4 5 11
+p107
+aVJohan Petro DEN 05/03/2009 DEN vs. DAL W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p108
+aVJR Smith DEN 05/03/2009 DEN vs. DAL W 32 15 7 13 53.8 0 2 0.0 1 5 20.0 0 3 3 6 3 1 0 1 22
+p109
+aVJason Hart DEN 05/03/2009 DEN vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p110
+aVLinas Kleiza DEN 05/03/2009 DEN vs. DAL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p111
+aVDahntay Jones DEN 05/03/2009 DEN vs. DAL W 18 9 3 6 50.0 0 1 0.0 3 3 100.0 0 2 2 0 0 0 0 1 -11
+p112
+aVKenyon Martin DEN 05/03/2009 DEN vs. DAL W 28 8 3 8 37.5 0 0 - 2 4 50.0 1 4 5 1 2 1 1 3 -6
+p113
+aVAnthony Carter DEN 05/03/2009 DEN vs. DAL W 22 12 6 8 75.0 0 1 0.0 0 0 - 1 2 3 4 2 0 1 2 15
+p114
+aVDahntay Jones DEN 04/29/2009 DEN vs. NOH W 19 4 1 4 25.0 0 2 0.0 2 2 100.0 0 2 2 0 0 1 0 4 2
+p115
+aVAnthony Carter DEN 04/29/2009 DEN vs. NOH W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 5 2 0 1 3 1
+p116
+aVChauncey Billups DEN 04/29/2009 DEN vs. NOH W 39 13 3 9 33.3 3 6 50.0 4 4 100.0 0 5 5 11 1 0 3 2 27
+p117
+aVKenyon Martin DEN 04/29/2009 DEN vs. NOH W 32 15 7 9 77.8 1 2 50.0 0 0 - 3 4 7 1 1 3 2 2 17
+p118
+aVNene DEN 04/29/2009 DEN vs. NOH W 36 10 3 5 60.0 0 0 - 4 6 66.7 1 6 7 3 0 0 3 4 9
+p119
+aVChris Andersen DEN 04/29/2009 DEN vs. NOH W 25 9 3 5 60.0 0 0 - 3 4 75.0 1 6 7 0 0 2 0 3 17
+p120
+aVCarmelo Anthony DEN 04/29/2009 DEN vs. NOH W 46 34 13 25 52.0 1 3 33.3 7 7 100.0 0 6 6 3 4 0 2 2 24
+p121
+aVJason Hart DEN 04/29/2009 DEN vs. NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p122
+aVJohan Petro DEN 04/29/2009 DEN vs. NOH W 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -1
+p123
+aVRenaldo Balkman DEN 04/29/2009 DEN vs. NOH W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+aVJR Smith DEN 04/29/2009 DEN vs. NOH W 28 20 7 12 58.3 5 8 62.5 1 2 50.0 1 2 3 3 1 0 2 3 12
+p125
+aVRenaldo Balkman DEN 04/27/2009 DEN @ NOH W 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 2 0 0 1 21
+p126
+aVJR Smith DEN 04/27/2009 DEN @ NOH W 21 12 5 8 62.5 2 4 50.0 0 0 - 0 1 1 4 1 0 2 3 19
+p127
+aVJohan Petro DEN 04/27/2009 DEN @ NOH W 8 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 1 12
+p128
+aVJason Hart DEN 04/27/2009 DEN @ NOH W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 2 1 0 2 8
+p129
+aVNene DEN 04/27/2009 DEN @ NOH W 16 13 5 5 100.0 0 0 - 3 4 75.0 0 2 2 1 2 1 2 4 25
+p130
+aVLinas Kleiza DEN 04/27/2009 DEN @ NOH W 15 14 4 7 57.1 3 6 50.0 3 4 75.0 0 3 3 1 1 0 1 1 24
+p131
+aVChauncey Billups DEN 04/27/2009 DEN @ NOH W 30 17 5 11 45.5 2 4 50.0 5 5 100.0 0 3 3 8 1 0 1 3 39
+p132
+aVAnthony Carter DEN 04/27/2009 DEN @ NOH W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 2 0 0 4 13
+p133
+aVDahntay Jones DEN 04/27/2009 DEN @ NOH W 26 12 5 9 55.6 1 2 50.0 1 2 50.0 2 3 5 0 1 0 1 3 34
+p134
+aVCarmelo Anthony DEN 04/27/2009 DEN @ NOH W 36 26 9 17 52.9 2 3 66.7 6 7 85.7 2 4 6 7 2 2 2 3 36
+p135
+aVKenyon Martin DEN 04/27/2009 DEN @ NOH W 33 6 3 8 37.5 0 1 0.0 0 0 - 1 4 5 3 1 0 1 2 37
+p136
+aVChris Andersen DEN 04/27/2009 DEN @ NOH W 23 11 3 3 100.0 0 0 - 5 6 83.3 2 6 8 0 0 2 0 2 22
+p137
+aVNene DEN 04/25/2009 DEN @ NOH L 33 2 1 4 25.0 0 0 - 0 0 - 4 4 8 1 3 0 2 6 7
+p138
+aVChris Andersen DEN 04/25/2009 DEN @ NOH L 15 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 1 0 0 0 3 -20
+p139
+aVKenyon Martin DEN 04/25/2009 DEN @ NOH L 38 12 5 8 62.5 0 0 - 2 3 66.7 3 7 10 2 1 0 6 6 0
+p140
+aVChauncey Billups DEN 04/25/2009 DEN @ NOH L 39 16 3 10 30.0 2 4 50.0 8 10 80.0 0 7 7 6 1 0 2 3 1
+p141
+aVDahntay Jones DEN 04/25/2009 DEN @ NOH L 17 7 1 3 33.3 0 1 0.0 5 6 83.3 0 0 0 1 1 1 0 2 12
+p142
+aVAnthony Carter DEN 04/25/2009 DEN @ NOH L 15 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 2 -10
+p143
+aVCarmelo Anthony DEN 04/25/2009 DEN @ NOH L 38 25 10 24 41.7 1 2 50.0 4 8 50.0 3 5 8 5 1 0 2 2 7
+p144
+aVLinas Kleiza DEN 04/25/2009 DEN @ NOH L 21 13 4 8 50.0 2 4 50.0 3 4 75.0 0 3 3 0 0 0 1 2 1
+p145
+aVJR Smith DEN 04/25/2009 DEN @ NOH L 25 14 5 14 35.7 4 9 44.4 0 0 - 0 5 5 0 0 0 1 3 -8
+p146
+aVAnthony Carter DEN 04/22/2009 DEN vs. NOH W 21 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 2 0 0 2 13
+p147
+aVDahntay Jones DEN 04/22/2009 DEN vs. NOH W 20 11 5 5 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 3 0
+p148
+aVNene DEN 04/22/2009 DEN vs. NOH W 30 8 4 13 30.8 0 0 - 0 2 0.0 5 3 8 4 1 1 1 3 16
+p149
+aVJohan Petro DEN 04/22/2009 DEN vs. NOH W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -6
+p150
+aVCarmelo Anthony DEN 04/22/2009 DEN vs. NOH W 36 22 10 20 50.0 2 5 40.0 0 0 - 1 2 3 9 2 1 1 2 8
+p151
+aVJR Smith DEN 04/22/2009 DEN vs. NOH W 27 15 6 11 54.5 3 5 60.0 0 2 0.0 0 4 4 0 1 0 1 3 6
+p152
+aVChauncey Billups DEN 04/22/2009 DEN vs. NOH W 35 31 8 15 53.3 4 6 66.7 11 11 100.0 1 3 4 4 0 0 0 1 10
+p153
+aVJason Hart DEN 04/22/2009 DEN vs. NOH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p154
+aVChris Andersen DEN 04/22/2009 DEN vs. NOH W 27 6 3 3 100.0 0 0 - 0 0 - 3 2 5 0 0 1 1 3 18
+p155
+aVLinas Kleiza DEN 04/22/2009 DEN vs. NOH W 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 0 6
+p156
+aVKenyon Martin DEN 04/22/2009 DEN vs. NOH W 31 13 6 12 50.0 0 0 - 1 2 50.0 1 4 5 6 0 1 1 3 8
+p157
+aVLinas Kleiza DEN 04/19/2009 DEN vs. NOH W 24 13 4 6 66.7 2 4 50.0 3 3 100.0 3 2 5 2 1 1 0 1 22
+p158
+aVNene DEN 04/19/2009 DEN vs. NOH W 33 12 5 8 62.5 0 0 - 2 3 66.7 4 10 14 3 0 1 2 2 15
+p159
+aVJohan Petro DEN 04/19/2009 DEN vs. NOH W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p160
+aVDahntay Jones DEN 04/19/2009 DEN vs. NOH W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 0 1 0 4 2 4
+p161
+aVJason Hart DEN 04/19/2009 DEN vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -5
+p162
+aVRenaldo Balkman DEN 04/19/2009 DEN vs. NOH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -5
+p163
+aVJR Smith DEN 04/19/2009 DEN vs. NOH W 24 19 8 18 44.4 0 7 0.0 3 4 75.0 1 3 4 1 1 0 5 2 31
+p164
+aVCarmelo Anthony DEN 04/19/2009 DEN vs. NOH W 27 13 4 12 33.3 0 0 - 5 6 83.3 2 5 7 2 0 1 3 4 4
+p165
+aVAnthony Carter DEN 04/19/2009 DEN vs. NOH W 14 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 1 1 1 8
+p166
+aVChauncey Billups DEN 04/19/2009 DEN vs. NOH W 34 36 10 15 66.7 8 9 88.9 8 8 100.0 0 1 1 8 2 0 0 1 30
+p167
+aVKenyon Martin DEN 04/19/2009 DEN vs. NOH W 29 4 2 5 40.0 0 0 - 0 0 - 0 4 4 3 1 0 1 3 21
+p168
+aVChris Andersen DEN 04/19/2009 DEN vs. NOH W 23 9 2 4 50.0 0 0 - 5 9 55.6 1 5 6 2 1 4 0 2 21
+p169
+a.

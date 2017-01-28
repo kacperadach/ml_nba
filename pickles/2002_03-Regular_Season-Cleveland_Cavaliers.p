@@ -1,0 +1,1660 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJumaine Jones CLE 04/16/2003 CLE vs. TOR W 13 9 4 6 66.7 1 1 100.0 0 0 - 0 3 3 1 0 0 1 0 12
+p2
+aVDeSagana Diop CLE 04/16/2003 CLE vs. TOR W 16 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 0 1 6 3
+p3
+aVMichael Stewart CLE 04/16/2003 CLE vs. TOR W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 4 4
+p4
+aVDarius Miles CLE 04/16/2003 CLE vs. TOR W 35 15 7 18 38.9 0 0 - 1 3 33.3 3 2 5 1 1 1 1 2 -2
+p5
+aVTierre Brown CLE 04/16/2003 CLE vs. TOR W 29 16 6 11 54.5 0 0 - 4 4 100.0 2 3 5 9 2 0 3 2 6
+p6
+aVChris Mihm CLE 04/16/2003 CLE vs. TOR W 22 9 3 9 33.3 0 0 - 3 4 75.0 3 6 9 1 0 2 1 3 8
+p7
+aVCarlos Boozer CLE 04/16/2003 CLE vs. TOR W 22 13 6 14 42.9 0 0 - 1 1 100.0 4 4 8 1 0 0 2 2 -1
+p8
+aVSmush Parker CLE 04/16/2003 CLE vs. TOR W 36 17 6 13 46.2 2 4 50.0 3 4 75.0 2 2 4 5 2 1 0 1 12
+p9
+aVZydrunas Ilgauskas CLE 04/16/2003 CLE vs. TOR W 25 9 4 14 28.6 0 0 - 1 1 100.0 1 7 8 2 2 2 1 1 6
+p10
+aVMilt Palacio CLE 04/16/2003 CLE vs. TOR W 31 5 1 5 20.0 0 0 - 3 3 100.0 1 2 3 3 1 1 3 0 2
+p11
+aVCarlos Boozer CLE 04/14/2003 CLE @ DET L 33 13 6 8 75.0 0 0 - 1 2 50.0 1 8 9 1 0 0 2 4 -3
+p12
+aVZydrunas Ilgauskas CLE 04/14/2003 CLE @ DET L 35 22 9 14 64.3 0 0 - 4 4 100.0 2 6 8 1 0 1 5 5 11
+p13
+aVRicky Davis CLE 04/14/2003 CLE @ DET L 46 25 10 24 41.7 1 3 33.3 4 5 80.0 3 6 9 12 0 1 3 3 -2
+p14
+aVSmush Parker CLE 04/14/2003 CLE @ DET L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 -6
+p15
+aVDeSagana Diop CLE 04/14/2003 CLE @ DET L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -7
+p16
+aVMilt Palacio CLE 04/14/2003 CLE @ DET L 42 6 3 4 75.0 0 0 - 0 0 - 1 4 5 3 0 1 0 6 6
+p17
+aVChris Mihm CLE 04/14/2003 CLE @ DET L 20 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 1 0 2 5 -3
+p18
+aVDarius Miles CLE 04/14/2003 CLE @ DET L 48 14 7 18 38.9 0 0 - 0 0 - 2 6 8 3 3 1 3 3 -1
+p19
+aVTierre Brown CLE 04/12/2003 CLE vs. NYK W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 1 0 1 1 -1
+p20
+aVMilt Palacio CLE 04/12/2003 CLE vs. NYK W 25 8 4 9 44.4 0 0 - 0 0 - 1 1 2 0 0 1 3 2 -8
+p21
+aVRicky Davis CLE 04/12/2003 CLE vs. NYK W 52 37 13 34 38.2 0 2 0.0 11 12 91.7 7 4 11 9 2 0 4 4 9
+p22
+aVSmush Parker CLE 04/12/2003 CLE vs. NYK W 21 6 1 4 25.0 0 2 0.0 4 4 100.0 0 2 2 2 0 0 0 3 13
+p23
+aVChris Mihm CLE 04/12/2003 CLE vs. NYK W 10 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 1 0 0 0 0 2
+p24
+aVCarlos Boozer CLE 04/12/2003 CLE vs. NYK W 43 17 6 9 66.7 0 0 - 5 5 100.0 2 12 14 4 2 1 3 1 3
+p25
+aVJumaine Jones CLE 04/12/2003 CLE vs. NYK W 16 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 4 -20
+p26
+aVDeSagana Diop CLE 04/12/2003 CLE vs. NYK W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p27
+aVDarius Miles CLE 04/12/2003 CLE vs. NYK W 46 6 2 14 14.3 0 0 - 2 4 50.0 5 5 10 4 1 2 2 3 17
+p28
+aVZydrunas Ilgauskas CLE 04/12/2003 CLE vs. NYK W 35 20 7 17 41.2 0 0 - 6 8 75.0 4 10 14 0 0 0 1 3 5
+p29
+aVSmush Parker CLE 04/11/2003 CLE @ ATL L 17 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 2 0 0 1 0 9
+p30
+aVJumaine Jones CLE 04/11/2003 CLE @ ATL L 33 13 5 11 45.5 1 3 33.3 2 2 100.0 2 4 6 0 0 0 2 1 -3
+p31
+aVCarlos Boozer CLE 04/11/2003 CLE @ ATL L 18 4 2 7 28.6 0 0 - 0 0 - 2 10 12 0 2 0 2 2 -23
+p32
+aVMilt Palacio CLE 04/11/2003 CLE @ ATL L 18 4 2 6 33.3 0 0 - 0 0 - 0 1 1 2 1 0 2 2 -30
+p33
+aVDeSagana Diop CLE 04/11/2003 CLE @ ATL L 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 0 1 1 1 -4
+p34
+aVTierre Brown CLE 04/11/2003 CLE @ ATL L 30 15 6 8 75.0 0 0 - 3 3 100.0 2 4 6 9 2 0 3 1 10
+p35
+aVDarius Miles CLE 04/11/2003 CLE @ ATL L 35 8 3 9 33.3 0 1 0.0 2 4 50.0 3 3 6 3 1 0 2 4 -16
+p36
+aVZydrunas Ilgauskas CLE 04/11/2003 CLE @ ATL L 27 6 3 10 30.0 0 0 - 0 2 0.0 3 3 6 1 0 3 2 3 -22
+p37
+aVRicky Davis CLE 04/11/2003 CLE @ ATL L 28 13 6 18 33.3 1 3 33.3 0 4 0.0 0 4 4 4 1 0 3 3 -23
+p38
+aVMichael Stewart CLE 04/11/2003 CLE @ ATL L 7 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 1
+p39
+aVChris Mihm CLE 04/11/2003 CLE @ ATL L 14 12 6 8 75.0 0 0 - 0 0 - 3 4 7 1 0 1 1 4 1
+p40
+aVCarlos Boozer CLE 04/09/2003 CLE @ NOH L 24 10 4 10 40.0 0 0 - 2 2 100.0 2 4 6 2 0 1 1 3 -22
+p41
+aVChris Mihm CLE 04/09/2003 CLE @ NOH L 24 7 2 7 28.6 0 0 - 3 4 75.0 3 1 4 1 1 0 0 2 1
+p42
+aVMilt Palacio CLE 04/09/2003 CLE @ NOH L 35 1 0 4 0.0 0 0 - 1 1 100.0 2 3 5 6 1 0 2 3 -18
+p43
+aVRicky Davis CLE 04/09/2003 CLE @ NOH L 29 9 4 11 36.4 1 2 50.0 0 0 - 0 1 1 3 2 0 2 4 -20
+p44
+aVDarius Miles CLE 04/09/2003 CLE @ NOH L 29 8 3 8 37.5 0 0 - 2 3 66.7 3 1 4 1 0 0 4 3 -23
+p45
+aVJumaine Jones CLE 04/09/2003 CLE @ NOH L 31 21 9 16 56.3 2 5 40.0 1 2 50.0 0 2 2 1 3 0 3 3 0
+p46
+aVZydrunas Ilgauskas CLE 04/09/2003 CLE @ NOH L 23 15 5 14 35.7 0 0 - 5 5 100.0 4 2 6 3 0 1 1 3 -15
+p47
+aVTierre Brown CLE 04/09/2003 CLE @ NOH L 21 8 4 10 40.0 0 0 - 0 0 - 0 2 2 4 4 0 4 1 4
+p48
+aVDeSagana Diop CLE 04/09/2003 CLE @ NOH L 21 2 1 2 50.0 0 0 - 0 0 - 2 9 11 1 0 1 3 1 -6
+p49
+aVMichael Stewart CLE 04/09/2003 CLE @ NOH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p50
+aVDarius Miles CLE 04/08/2003 CLE vs. WAS L 29 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 0 0 3 4 0
+p51
+aVTierre Brown CLE 04/08/2003 CLE vs. WAS L 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -6
+p52
+aVZydrunas Ilgauskas CLE 04/08/2003 CLE vs. WAS L 34 23 9 13 69.2 0 0 - 5 6 83.3 2 3 5 2 2 1 2 5 -4
+p53
+aVJumaine Jones CLE 04/08/2003 CLE vs. WAS L 29 14 6 14 42.9 2 6 33.3 0 0 - 2 2 4 1 0 0 3 1 -8
+p54
+aVChris Mihm CLE 04/08/2003 CLE vs. WAS L 15 3 0 3 0.0 0 0 - 3 4 75.0 3 1 4 0 0 2 3 3 -4
+p55
+aVCarlos Boozer CLE 04/08/2003 CLE vs. WAS L 33 16 8 10 80.0 0 0 - 0 0 - 6 8 14 3 1 1 1 5 -14
+p56
+aVDeSagana Diop CLE 04/08/2003 CLE vs. WAS L 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 3
+p57
+aVSmush Parker CLE 04/08/2003 CLE vs. WAS L 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 3 1 0 2 1 5
+p58
+aVRicky Davis CLE 04/08/2003 CLE vs. WAS L 48 18 7 19 36.8 1 3 33.3 3 4 75.0 1 8 9 11 1 1 4 2 -9
+p59
+aVMilt Palacio CLE 04/08/2003 CLE vs. WAS L 24 5 2 6 33.3 0 0 - 1 2 50.0 1 0 1 4 2 0 4 2 -8
+p60
+aVRicky Davis CLE 04/05/2003 CLE vs. NOH W 44 17 7 23 30.4 0 3 0.0 3 5 60.0 2 5 7 7 0 3 1 2 -2
+p61
+aVZydrunas Ilgauskas CLE 04/05/2003 CLE vs. NOH W 26 13 6 14 42.9 0 0 - 1 2 50.0 2 5 7 0 0 1 4 6 14
+p62
+aVDarius Miles CLE 04/05/2003 CLE vs. NOH W 29 8 4 9 44.4 0 0 - 0 0 - 1 2 3 4 0 3 2 1 1
+p63
+aVDeSagana Diop CLE 04/05/2003 CLE vs. NOH W 16 2 1 5 20.0 0 0 - 0 0 - 5 1 6 1 0 2 1 4 -7
+p64
+aVTierre Brown CLE 04/05/2003 CLE vs. NOH W 16 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 0 0 0 8
+p65
+aVCarlos Boozer CLE 04/05/2003 CLE vs. NOH W 32 13 5 15 33.3 0 0 - 3 4 75.0 8 7 15 4 1 2 2 1 -1
+p66
+aVJumaine Jones CLE 04/05/2003 CLE vs. NOH W 28 3 1 6 16.7 1 3 33.3 0 0 - 0 3 3 5 0 1 1 1 7
+p67
+aVChris Mihm CLE 04/05/2003 CLE vs. NOH W 12 9 3 4 75.0 0 0 - 3 4 75.0 1 0 1 0 1 1 5 1 -5
+p68
+aVMilt Palacio CLE 04/05/2003 CLE vs. NOH W 36 10 5 10 50.0 0 0 - 0 0 - 0 3 3 2 1 0 0 2 0
+p69
+aVJumaine Jones CLE 04/04/2003 CLE @ MIL L 23 11 4 9 44.4 3 7 42.9 0 0 - 0 6 6 0 0 0 1 2 -3
+p70
+aVTierre Brown CLE 04/04/2003 CLE @ MIL L 15 3 1 6 16.7 0 1 0.0 1 1 100.0 0 3 3 2 1 0 2 0 -8
+p71
+aVDeSagana Diop CLE 04/04/2003 CLE @ MIL L 5 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -3
+p72
+aVCarlos Boozer CLE 04/04/2003 CLE @ MIL L 32 11 2 12 16.7 0 0 - 7 8 87.5 2 8 10 1 1 0 1 3 -2
+p73
+aVMilt Palacio CLE 04/04/2003 CLE @ MIL L 38 10 3 4 75.0 0 0 - 4 5 80.0 0 7 7 4 0 0 3 2 0
+p74
+aVRicky Davis CLE 04/04/2003 CLE @ MIL L 45 26 10 21 47.6 2 5 40.0 4 4 100.0 0 1 1 8 2 0 3 2 0
+p75
+aVZydrunas Ilgauskas CLE 04/04/2003 CLE @ MIL L 34 18 6 12 50.0 0 0 - 6 6 100.0 2 9 11 2 0 4 2 3 11
+p76
+aVChris Mihm CLE 04/04/2003 CLE @ MIL L 12 4 1 5 20.0 0 0 - 2 4 50.0 2 1 3 0 0 0 0 2 -9
+p77
+aVDarius Miles CLE 04/04/2003 CLE @ MIL L 35 6 3 8 37.5 0 0 - 0 0 - 4 4 8 5 2 1 6 6 4
+p78
+aVTierre Brown CLE 04/02/2003 CLE vs. IND L 9 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 2 1 7
+p79
+aVDeSagana Diop CLE 04/02/2003 CLE vs. IND L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 2 0 3 3
+p80
+aVDarius Miles CLE 04/02/2003 CLE vs. IND L 37 8 4 11 36.4 0 0 - 0 0 - 1 6 7 6 0 0 1 1 -30
+p81
+aVChris Mihm CLE 04/02/2003 CLE vs. IND L 19 6 1 6 16.7 0 0 - 4 4 100.0 1 3 4 0 1 0 1 1 -15
+p82
+aVJumaine Jones CLE 04/02/2003 CLE vs. IND L 20 5 2 3 66.7 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 4 3
+p83
+aVMilt Palacio CLE 04/02/2003 CLE vs. IND L 30 6 3 6 50.0 0 0 - 0 0 - 2 5 7 5 1 0 5 3 -24
+p84
+aVRicky Davis CLE 04/02/2003 CLE vs. IND L 48 27 11 22 50.0 1 3 33.3 4 5 80.0 0 2 2 8 3 1 1 3 -21
+p85
+aVCarlos Boozer CLE 04/02/2003 CLE vs. IND L 35 15 7 11 63.6 0 0 - 1 1 100.0 1 7 8 3 0 1 3 3 -15
+p86
+aVSmush Parker CLE 04/02/2003 CLE vs. IND L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -4
+p87
+aVMichael Stewart CLE 04/02/2003 CLE vs. IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p88
+aVZydrunas Ilgauskas CLE 04/02/2003 CLE vs. IND L 16 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 0 0 1 3 5 -6
+p89
+aVZydrunas Ilgauskas CLE 03/29/2003 CLE vs. BOS L 36 17 8 18 44.4 0 0 - 1 3 33.3 1 3 4 2 3 5 1 3 11
+p90
+aVCarlos Boozer CLE 03/29/2003 CLE vs. BOS L 37 20 9 12 75.0 0 0 - 2 2 100.0 4 12 16 3 1 1 1 3 13
+p91
+aVSmush Parker CLE 03/29/2003 CLE vs. BOS L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 1 0 2 2 -9
+p92
+aVDarius Miles CLE 03/29/2003 CLE vs. BOS L 30 10 4 9 44.4 0 0 - 2 2 100.0 1 3 4 2 1 1 1 0 -13
+p93
+aVChris Mihm CLE 03/29/2003 CLE vs. BOS L 9 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -12
+p94
+aVJumaine Jones CLE 03/29/2003 CLE vs. BOS L 29 9 3 7 42.9 3 7 42.9 0 0 - 0 4 4 2 0 0 2 5 -5
+p95
+aVMilt Palacio CLE 03/29/2003 CLE vs. BOS L 38 5 2 6 33.3 0 0 - 1 2 50.0 0 4 4 7 2 0 1 5 -1
+p96
+aVDeSagana Diop CLE 03/29/2003 CLE vs. BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p97
+aVRicky Davis CLE 03/29/2003 CLE vs. BOS L 45 38 14 25 56.0 5 8 62.5 5 5 100.0 2 5 7 9 0 1 5 3 2
+p98
+aVCarlos Boozer CLE 03/28/2003 CLE @ BOS L 29 7 3 3 100.0 0 0 - 1 2 50.0 1 9 10 2 1 0 2 3 -12
+p99
+aVMilt Palacio CLE 03/28/2003 CLE @ BOS L 31 4 1 5 20.0 0 2 0.0 2 2 100.0 0 3 3 6 2 0 2 6 -14
+p100
+aVDarius Miles CLE 03/28/2003 CLE @ BOS L 33 12 5 12 41.7 0 1 0.0 2 2 100.0 2 5 7 0 1 0 3 4 -14
+p101
+aVJumaine Jones CLE 03/28/2003 CLE @ BOS L 35 21 8 15 53.3 5 11 45.5 0 0 - 1 2 3 4 1 1 2 3 5
+p102
+aVDeSagana Diop CLE 03/28/2003 CLE @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p103
+aVRicky Davis CLE 03/28/2003 CLE @ BOS L 45 31 11 22 50.0 4 7 57.1 5 7 71.4 1 5 6 10 0 0 3 5 -6
+p104
+aVZydrunas Ilgauskas CLE 03/28/2003 CLE @ BOS L 27 9 4 9 44.4 0 0 - 1 2 50.0 2 3 5 1 0 2 3 4 -5
+p105
+aVSmush Parker CLE 03/28/2003 CLE @ BOS L 17 1 0 4 0.0 0 1 0.0 1 1 100.0 0 2 2 5 2 0 3 3 5
+p106
+aVChris Mihm CLE 03/28/2003 CLE @ BOS L 18 10 5 6 83.3 0 0 - 0 0 - 0 1 1 0 1 2 1 4 6
+p107
+aVSmush Parker CLE 03/26/2003 CLE @ TOR L 13 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 3 1 -13
+p108
+aVDarius Miles CLE 03/26/2003 CLE @ TOR L 35 10 4 13 30.8 0 1 0.0 2 2 100.0 1 3 4 3 1 0 4 2 -4
+p109
+aVTierre Brown CLE 03/26/2003 CLE @ TOR L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 2 0 1 1 4
+p110
+aVMichael Stewart CLE 03/26/2003 CLE @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p111
+aVCarlos Boozer CLE 03/26/2003 CLE @ TOR L 30 8 2 9 22.2 0 0 - 4 4 100.0 3 10 13 2 1 1 0 4 -6
+p112
+aVMilt Palacio CLE 03/26/2003 CLE @ TOR L 35 10 3 6 50.0 2 4 50.0 2 2 100.0 0 4 4 5 1 0 3 0 7
+p113
+aVDeSagana Diop CLE 03/26/2003 CLE @ TOR L 13 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 1 0 -3
+p114
+aVRicky Davis CLE 03/26/2003 CLE @ TOR L 27 10 4 10 40.0 0 1 0.0 2 2 100.0 1 3 4 3 0 0 3 3 -7
+p115
+aVChris Mihm CLE 03/26/2003 CLE @ TOR L 19 6 3 10 30.0 0 0 - 0 0 - 3 2 5 0 0 2 1 0 -9
+p116
+aVJumaine Jones CLE 03/26/2003 CLE @ TOR L 27 14 6 13 46.2 1 7 14.3 1 1 100.0 0 1 1 1 2 0 2 1 -2
+p117
+aVZydrunas Ilgauskas CLE 03/26/2003 CLE @ TOR L 34 25 9 17 52.9 0 0 - 7 9 77.8 2 7 9 0 0 2 3 2 6
+p118
+aVMichael Stewart CLE 03/25/2003 CLE vs. GSW W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p119
+aVDeSagana Diop CLE 03/25/2003 CLE vs. GSW W 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p120
+aVDarius Miles CLE 03/25/2003 CLE vs. GSW W 33 12 5 10 50.0 0 0 - 2 2 100.0 2 4 6 4 2 0 5 4 25
+p121
+aVSmush Parker CLE 03/25/2003 CLE vs. GSW W 26 9 3 12 25.0 0 4 0.0 3 3 100.0 1 4 5 6 1 1 4 4 16
+p122
+aVTierre Brown CLE 03/25/2003 CLE vs. GSW W 2 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 0 2
+p123
+aVJumaine Jones CLE 03/25/2003 CLE vs. GSW W 23 9 4 9 44.4 1 5 20.0 0 0 - 1 2 3 1 1 1 1 2 -2
+p124
+aVCarlos Boozer CLE 03/25/2003 CLE vs. GSW W 32 19 8 13 61.5 0 0 - 3 6 50.0 6 8 14 7 1 1 0 3 22
+p125
+aVRicky Davis CLE 03/25/2003 CLE vs. GSW W 40 28 13 20 65.0 2 4 50.0 0 0 - 1 3 4 11 3 3 0 2 19
+p126
+aVMilt Palacio CLE 03/25/2003 CLE vs. GSW W 28 7 2 5 40.0 0 0 - 3 4 75.0 1 1 2 5 0 0 2 3 5
+p127
+aVZydrunas Ilgauskas CLE 03/25/2003 CLE vs. GSW W 27 23 9 17 52.9 0 0 - 5 5 100.0 2 8 10 1 0 2 1 2 19
+p128
+aVChris Mihm CLE 03/25/2003 CLE vs. GSW W 18 9 4 7 57.1 0 0 - 1 1 100.0 2 5 7 0 0 0 1 3 2
+p129
+aVJumaine Jones CLE 03/23/2003 CLE vs. NJN W 26 9 3 6 50.0 1 4 25.0 2 2 100.0 2 6 8 3 0 0 2 2 3
+p130
+aVDeSagana Diop CLE 03/23/2003 CLE vs. NJN W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 6
+p131
+aVRicky Davis CLE 03/23/2003 CLE vs. NJN W 40 4 2 6 33.3 0 0 - 0 3 0.0 0 1 1 4 0 0 7 1 1
+p132
+aVSmush Parker CLE 03/23/2003 CLE vs. NJN W 35 15 5 9 55.6 1 2 50.0 4 4 100.0 1 2 3 7 1 0 4 0 12
+p133
+aVZydrunas Ilgauskas CLE 03/23/2003 CLE vs. NJN W 33 29 13 21 61.9 0 0 - 3 4 75.0 1 2 3 3 0 3 5 5 -4
+p134
+aVCarlos Boozer CLE 03/23/2003 CLE vs. NJN W 28 12 6 8 75.0 0 0 - 0 0 - 1 7 8 3 0 2 1 2 -6
+p135
+aVMilt Palacio CLE 03/23/2003 CLE vs. NJN W 21 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 1 0 2 3 -3
+p136
+aVChris Mihm CLE 03/23/2003 CLE vs. NJN W 22 8 4 8 50.0 0 1 0.0 0 0 - 1 5 6 2 0 0 1 3 13
+p137
+aVDarius Miles CLE 03/23/2003 CLE vs. NJN W 27 10 4 7 57.1 0 0 - 2 2 100.0 2 5 7 1 2 0 3 2 3
+p138
+aVMichael Stewart CLE 03/21/2003 CLE @ ORL L 2 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 0 -1
+p139
+aVChris Mihm CLE 03/21/2003 CLE @ ORL L 21 11 4 7 57.1 0 0 - 3 4 75.0 4 2 6 2 1 0 1 2 -10
+p140
+aVJumaine Jones CLE 03/21/2003 CLE @ ORL L 19 12 5 11 45.5 1 3 33.3 1 2 50.0 1 1 2 0 0 0 0 2 -13
+p141
+aVMilt Palacio CLE 03/21/2003 CLE @ ORL L 34 15 6 10 60.0 1 2 50.0 2 2 100.0 0 6 6 5 0 0 0 3 -15
+p142
+aVRicky Davis CLE 03/21/2003 CLE @ ORL L 42 12 4 15 26.7 0 1 0.0 4 5 80.0 1 5 6 8 1 2 6 0 -22
+p143
+aVZydrunas Ilgauskas CLE 03/21/2003 CLE @ ORL L 29 13 5 7 71.4 0 0 - 3 4 75.0 1 6 7 4 0 2 3 4 -14
+p144
+aVDarius Miles CLE 03/21/2003 CLE @ ORL L 31 8 3 8 37.5 0 1 0.0 2 4 50.0 0 5 5 1 1 1 7 3 -14
+p145
+aVSmush Parker CLE 03/21/2003 CLE @ ORL L 15 4 1 4 25.0 1 3 33.3 1 2 50.0 0 0 0 0 0 0 1 1 -7
+p146
+aVCarlos Boozer CLE 03/21/2003 CLE @ ORL L 27 5 2 5 40.0 0 0 - 1 2 50.0 0 4 4 2 1 0 3 2 -14
+p147
+aVDeSagana Diop CLE 03/21/2003 CLE @ ORL L 19 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 1 0 2 1 3 -10
+p148
+aVSmush Parker CLE 03/19/2003 CLE @ MEM L 21 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 6 2 0 5 2 -7
+p149
+aVZydrunas Ilgauskas CLE 03/19/2003 CLE @ MEM L 22 11 4 9 44.4 0 0 - 3 3 100.0 0 1 1 2 0 2 2 5 -9
+p150
+aVMilt Palacio CLE 03/19/2003 CLE @ MEM L 26 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 -13
+p151
+aVRicky Davis CLE 03/19/2003 CLE @ MEM L 39 9 4 14 28.6 1 2 50.0 0 0 - 2 6 8 10 2 0 4 2 -10
+p152
+aVMichael Stewart CLE 03/19/2003 CLE @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p153
+aVDeSagana Diop CLE 03/19/2003 CLE @ MEM L 21 6 3 7 42.9 0 0 - 0 1 0.0 3 1 4 1 1 1 1 2 -19
+p154
+aVChris Mihm CLE 03/19/2003 CLE @ MEM L 19 9 4 12 33.3 0 0 - 1 4 25.0 2 3 5 1 0 0 1 2 -9
+p155
+aVJumaine Jones CLE 03/19/2003 CLE @ MEM L 28 15 6 14 42.9 1 6 16.7 2 2 100.0 6 2 8 3 0 0 1 2 -24
+p156
+aVCarlos Boozer CLE 03/19/2003 CLE @ MEM L 34 27 12 15 80.0 0 0 - 3 5 60.0 4 8 12 1 1 0 1 3 -17
+p157
+aVDarius Miles CLE 03/19/2003 CLE @ MEM L 28 18 7 11 63.6 0 2 0.0 4 7 57.1 0 2 2 2 1 0 7 3 -23
+p158
+aVMichael Stewart CLE 03/18/2003 CLE @ DAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -4
+p159
+aVJumaine Jones CLE 03/18/2003 CLE @ DAL L 20 1 0 8 0.0 0 6 0.0 1 2 50.0 0 6 6 2 3 0 1 0 -10
+p160
+aVRicky Davis CLE 03/18/2003 CLE @ DAL L 39 11 4 14 28.6 2 7 28.6 1 4 25.0 2 8 10 4 1 0 6 2 -24
+p161
+aVDarius Miles CLE 03/18/2003 CLE @ DAL L 29 7 3 11 27.3 0 0 - 1 2 50.0 0 5 5 2 0 1 1 2 -14
+p162
+aVSmush Parker CLE 03/18/2003 CLE @ DAL L 21 16 5 11 45.5 2 5 40.0 4 4 100.0 0 1 1 4 2 0 3 3 -5
+p163
+aVDeSagana Diop CLE 03/18/2003 CLE @ DAL L 14 2 1 1 100.0 0 0 - 0 2 0.0 3 2 5 0 1 1 2 1 5
+p164
+aVZydrunas Ilgauskas CLE 03/18/2003 CLE @ DAL L 34 30 8 16 50.0 0 1 0.0 14 16 87.5 8 5 13 3 1 0 2 4 -26
+p165
+aVMilt Palacio CLE 03/18/2003 CLE @ DAL L 32 6 3 8 37.5 0 0 - 0 0 - 1 2 3 5 0 0 3 5 -12
+p166
+aVChris Mihm CLE 03/18/2003 CLE @ DAL L 18 8 4 10 40.0 0 1 0.0 0 0 - 2 2 4 1 0 0 1 4 -1
+p167
+aVCarlos Boozer CLE 03/18/2003 CLE @ DAL L 25 12 5 6 83.3 0 0 - 2 2 100.0 2 3 5 2 1 0 0 1 -14
+p168
+aVDeSagana Diop CLE 03/16/2003 CLE vs. UTA W 17 2 1 3 33.3 0 0 - 0 0 - 0 8 8 2 1 4 2 2 9
+p169
+aVSmush Parker CLE 03/16/2003 CLE vs. UTA W 12 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 2 0 0 1 0 12
+p170
+aVDarius Miles CLE 03/16/2003 CLE vs. UTA W 33 12 6 11 54.5 0 0 - 0 1 0.0 0 4 4 4 1 0 2 0 26
+p171
+aVMichael Stewart CLE 03/16/2003 CLE vs. UTA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p172
+aVChris Mihm CLE 03/16/2003 CLE vs. UTA W 30 19 8 12 66.7 0 0 - 3 4 75.0 4 4 8 1 1 1 2 5 17
+p173
+aVRicky Davis CLE 03/16/2003 CLE vs. UTA W 43 28 9 16 56.3 1 3 33.3 9 10 90.0 1 8 9 12 0 0 2 3 30
+p174
+aVJumaine Jones CLE 03/16/2003 CLE vs. UTA W 25 23 8 11 72.7 6 7 85.7 1 1 100.0 1 2 3 2 3 1 3 3 16
+p175
+aVMilt Palacio CLE 03/16/2003 CLE vs. UTA W 36 20 9 11 81.8 0 1 0.0 2 4 50.0 1 4 5 8 0 0 2 4 15
+p176
+aVZydrunas Ilgauskas CLE 03/16/2003 CLE vs. UTA W 27 14 7 14 50.0 0 0 - 0 0 - 5 3 8 1 1 1 0 1 13
+p177
+aVCarlos Boozer CLE 03/16/2003 CLE vs. UTA W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 1 4 -2
+p178
+aVDarius Miles CLE 03/11/2003 CLE vs. MIA L 19 13 5 11 45.5 0 0 - 3 4 75.0 1 4 5 0 2 3 1 2 0
+p179
+aVSmush Parker CLE 03/11/2003 CLE vs. MIA L 18 8 3 8 37.5 1 2 50.0 1 2 50.0 1 3 4 0 0 0 1 2 -6
+p180
+aVCarlos Boozer CLE 03/11/2003 CLE vs. MIA L 39 15 5 10 50.0 0 0 - 5 6 83.3 2 6 8 1 1 0 1 1 0
+p181
+aVDeSagana Diop CLE 03/11/2003 CLE vs. MIA L 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p182
+aVTierre Brown CLE 03/11/2003 CLE vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p183
+aVJumaine Jones CLE 03/11/2003 CLE vs. MIA L 28 0 0 8 0.0 0 5 0.0 0 0 - 1 4 5 1 1 0 1 4 2
+p184
+aVChris Mihm CLE 03/11/2003 CLE vs. MIA L 13 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 1 0 1 2
+p185
+aVMichael Stewart CLE 03/11/2003 CLE vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p186
+aVZydrunas Ilgauskas CLE 03/11/2003 CLE vs. MIA L 33 12 5 15 33.3 0 0 - 2 2 100.0 4 4 8 0 2 1 0 3 -4
+p187
+aVRicky Davis CLE 03/11/2003 CLE vs. MIA L 44 19 6 22 27.3 0 1 0.0 7 9 77.8 2 5 7 7 1 1 2 3 4
+p188
+aVMilt Palacio CLE 03/11/2003 CLE vs. MIA L 32 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 3 1 0 0 4 5
+p189
+aVTierre Brown CLE 03/08/2003 CLE vs. MEM L 12 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 2 1 0 5 1 1
+p190
+aVDeSagana Diop CLE 03/08/2003 CLE vs. MEM L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 2 6 -1
+p191
+aVChris Mihm CLE 03/08/2003 CLE vs. MEM L 17 0 0 4 0.0 0 0 - 0 0 - 0 4 4 0 0 0 2 4 -9
+p192
+aVJumaine Jones CLE 03/08/2003 CLE vs. MEM L 34 17 6 12 50.0 5 10 50.0 0 0 - 2 4 6 2 2 0 3 2 -9
+p193
+aVMichael Stewart CLE 03/08/2003 CLE vs. MEM L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p194
+aVMilt Palacio CLE 03/08/2003 CLE vs. MEM L 36 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 5 1 0 2 1 -33
+p195
+aVRicky Davis CLE 03/08/2003 CLE vs. MEM L 37 18 6 12 50.0 1 2 50.0 5 6 83.3 0 1 1 2 1 0 3 2 -22
+p196
+aVSmush Parker CLE 03/08/2003 CLE vs. MEM L 11 8 2 5 40.0 1 4 25.0 3 3 100.0 0 0 0 1 1 0 3 0 2
+p197
+aVZydrunas Ilgauskas CLE 03/08/2003 CLE vs. MEM L 24 15 7 12 58.3 0 0 - 1 2 50.0 2 2 4 1 1 0 4 4 -20
+p198
+aVCarlos Boozer CLE 03/08/2003 CLE vs. MEM L 25 17 6 13 46.2 0 0 - 5 9 55.6 3 2 5 1 1 1 1 2 -30
+p199
+aVDarius Miles CLE 03/08/2003 CLE vs. MEM L 29 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 3 1 2 1 3 -15
+p200
+aVDeSagana Diop CLE 03/07/2003 CLE @ NOH L 17 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 1 2 3 6
+p201
+aVDajuan Wagner CLE 03/07/2003 CLE @ NOH L 28 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 0 0 0 2 3 -18
+p202
+aVRicky Davis CLE 03/07/2003 CLE @ NOH L 30 10 4 13 30.8 1 2 50.0 1 2 50.0 0 2 2 5 3 1 5 3 -11
+p203
+aVDarius Miles CLE 03/07/2003 CLE @ NOH L 26 5 2 7 28.6 0 0 - 1 2 50.0 2 4 6 1 0 3 2 0 -27
+p204
+aVSmush Parker CLE 03/07/2003 CLE @ NOH L 12 6 2 8 25.0 1 5 20.0 1 2 50.0 1 0 1 0 1 0 3 1 -13
+p205
+aVMichael Stewart CLE 03/07/2003 CLE @ NOH L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p206
+aVTierre Brown CLE 03/07/2003 CLE @ NOH L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 0 0 0 0 3
+p207
+aVJumaine Jones CLE 03/07/2003 CLE @ NOH L 33 14 5 11 45.5 2 6 33.3 2 2 100.0 0 5 5 2 1 1 3 1 -15
+p208
+aVZydrunas Ilgauskas CLE 03/07/2003 CLE @ NOH L 23 10 4 10 40.0 0 0 - 2 2 100.0 1 2 3 2 0 2 2 4 -18
+p209
+aVMilt Palacio CLE 03/07/2003 CLE @ NOH L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -1
+p210
+aVCarlos Boozer CLE 03/07/2003 CLE @ NOH L 29 16 7 8 87.5 0 0 - 2 2 100.0 6 8 14 1 0 1 3 5 -13
+p211
+aVChris Mihm CLE 03/07/2003 CLE @ NOH L 13 4 2 7 28.6 0 0 - 0 0 - 1 3 4 0 1 2 0 2 -19
+p212
+aVCarlos Boozer CLE 03/05/2003 CLE vs. ATL L 35 18 6 9 66.7 0 0 - 6 6 100.0 4 5 9 3 0 1 0 4 3
+p213
+aVMichael Stewart CLE 03/05/2003 CLE vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p214
+aVTierre Brown CLE 03/05/2003 CLE vs. ATL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -8
+p215
+aVDeSagana Diop CLE 03/05/2003 CLE vs. ATL L 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -4
+p216
+aVZydrunas Ilgauskas CLE 03/05/2003 CLE vs. ATL L 32 27 11 21 52.4 0 1 0.0 5 5 100.0 7 4 11 3 0 3 3 5 -3
+p217
+aVMilt Palacio CLE 03/05/2003 CLE vs. ATL L 20 2 1 3 33.3 0 0 - 0 0 - 1 0 1 4 1 0 1 3 -3
+p218
+aVDarius Miles CLE 03/05/2003 CLE vs. ATL L 27 14 7 16 43.8 0 0 - 0 2 0.0 2 3 5 3 3 1 3 2 2
+p219
+aVSmush Parker CLE 03/05/2003 CLE vs. ATL L 20 11 3 9 33.3 0 3 0.0 5 5 100.0 1 1 2 3 1 0 3 2 6
+p220
+aVJumaine Jones CLE 03/05/2003 CLE vs. ATL L 18 5 2 6 33.3 1 5 20.0 0 0 - 1 0 1 1 0 0 0 2 -10
+p221
+aVDajuan Wagner CLE 03/05/2003 CLE vs. ATL L 27 9 3 9 33.3 1 1 100.0 2 4 50.0 1 1 2 5 0 0 0 3 2
+p222
+aVRicky Davis CLE 03/05/2003 CLE vs. ATL L 30 6 3 11 27.3 0 3 0.0 0 0 - 2 1 3 2 2 0 2 0 -9
+p223
+aVChris Mihm CLE 03/05/2003 CLE vs. ATL L 20 9 2 8 25.0 0 0 - 5 6 83.3 2 3 5 0 1 1 0 3 -4
+p224
+aVJumaine Jones CLE 03/04/2003 CLE @ NYK L 19 0 0 4 0.0 0 3 0.0 0 0 - 1 6 7 1 2 0 1 3 -3
+p225
+aVSmush Parker CLE 03/04/2003 CLE @ NYK L 20 11 4 5 80.0 1 1 100.0 2 3 66.7 0 6 6 3 2 0 4 3 10
+p226
+aVRicky Davis CLE 03/04/2003 CLE @ NYK L 37 24 10 19 52.6 1 2 50.0 3 5 60.0 0 4 4 1 2 0 3 2 -4
+p227
+aVCarlos Boozer CLE 03/04/2003 CLE @ NYK L 24 12 5 10 50.0 0 0 - 2 2 100.0 4 4 8 0 1 0 2 2 -10
+p228
+aVChris Mihm CLE 03/04/2003 CLE @ NYK L 24 11 5 11 45.5 0 0 - 1 2 50.0 4 5 9 0 0 0 2 2 1
+p229
+aVZydrunas Ilgauskas CLE 03/04/2003 CLE @ NYK L 32 6 2 8 25.0 0 0 - 2 2 100.0 1 3 4 0 0 1 2 4 -8
+p230
+aVMilt Palacio CLE 03/04/2003 CLE @ NYK L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 1 0 1 4 -5
+p231
+aVDajuan Wagner CLE 03/04/2003 CLE @ NYK L 25 4 1 11 9.1 0 4 0.0 2 2 100.0 0 4 4 2 0 0 0 0 -18
+p232
+aVDarius Miles CLE 03/04/2003 CLE @ NYK L 32 10 5 9 55.6 0 0 - 0 2 0.0 1 6 7 4 3 0 3 0 -7
+p233
+aVTierre Brown CLE 03/04/2003 CLE @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p234
+aVDeSagana Diop CLE 03/04/2003 CLE @ NYK L 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -1
+p235
+aVMilt Palacio CLE 03/02/2003 CLE vs. ORL L 22 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 5 3 1 2 1 -19
+p236
+aVCarlos Boozer CLE 03/02/2003 CLE vs. ORL L 26 8 4 11 36.4 0 1 0.0 0 0 - 4 5 9 0 1 0 0 3 1
+p237
+aVDarius Miles CLE 03/02/2003 CLE vs. ORL L 33 12 6 16 37.5 0 1 0.0 0 2 0.0 1 3 4 1 1 0 2 3 -34
+p238
+aVRicky Davis CLE 03/02/2003 CLE vs. ORL L 34 14 5 13 38.5 0 0 - 4 4 100.0 1 3 4 5 2 0 6 3 -22
+p239
+aVDajuan Wagner CLE 03/02/2003 CLE vs. ORL L 29 14 6 12 50.0 2 3 66.7 0 0 - 0 1 1 1 0 0 4 1 -16
+p240
+aVChris Mihm CLE 03/02/2003 CLE vs. ORL L 22 10 4 10 40.0 0 0 - 2 2 100.0 3 3 6 1 0 2 2 1 -7
+p241
+aVMichael Stewart CLE 03/02/2003 CLE vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p242
+aVJumaine Jones CLE 03/02/2003 CLE vs. ORL L 39 8 3 10 30.0 1 3 33.3 1 2 50.0 2 4 6 2 1 1 4 1 -30
+p243
+aVDeSagana Diop CLE 03/02/2003 CLE vs. ORL L 19 2 1 5 20.0 0 0 - 0 0 - 3 5 8 4 1 1 0 1 0
+p244
+aVZydrunas Ilgauskas CLE 03/02/2003 CLE vs. ORL L 14 4 2 9 22.2 0 0 - 0 0 - 3 3 6 1 1 2 1 2 -5
+p245
+aVDeSagana Diop CLE 02/28/2003 CLE @ MIN L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -6
+p246
+aVChris Mihm CLE 02/28/2003 CLE @ MIN L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -9
+p247
+aVZydrunas Ilgauskas CLE 02/28/2003 CLE @ MIN L 33 13 5 10 50.0 0 0 - 3 4 75.0 1 6 7 2 0 2 3 2 -19
+p248
+aVJumaine Jones CLE 02/28/2003 CLE @ MIN L 36 14 5 11 45.5 4 8 50.0 0 0 - 1 5 6 3 1 0 0 1 -6
+p249
+aVMilt Palacio CLE 02/28/2003 CLE @ MIN L 34 4 2 4 50.0 0 2 0.0 0 0 - 1 3 4 9 2 0 3 0 -14
+p250
+aVDajuan Wagner CLE 02/28/2003 CLE @ MIN L 31 16 6 15 40.0 0 4 0.0 4 4 100.0 0 2 2 1 0 0 0 0 -14
+p251
+aVRicky Davis CLE 02/28/2003 CLE @ MIN L 35 11 5 15 33.3 1 4 25.0 0 0 - 3 3 6 6 0 0 4 0 -30
+p252
+aVDarius Miles CLE 02/28/2003 CLE @ MIN L 25 16 8 12 66.7 0 0 - 0 0 - 5 2 7 1 0 0 1 0 -13
+p253
+aVCarlos Boozer CLE 02/28/2003 CLE @ MIN L 24 15 5 10 50.0 0 0 - 5 6 83.3 1 7 8 2 1 0 3 5 -10
+p254
+aVMichael Stewart CLE 02/28/2003 CLE @ MIN L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 6
+p255
+aVDajuan Wagner CLE 02/25/2003 CLE vs. NJN W 16 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -6
+p256
+aVSmush Parker CLE 02/25/2003 CLE vs. NJN W 10 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 3 0 -3
+p257
+aVRicky Davis CLE 02/25/2003 CLE vs. NJN W 41 19 6 16 37.5 1 3 33.3 6 7 85.7 0 6 6 3 1 0 0 2 1
+p258
+aVMilt Palacio CLE 02/25/2003 CLE vs. NJN W 36 4 1 7 14.3 0 1 0.0 2 2 100.0 1 7 8 2 1 1 3 4 9
+p259
+aVDarius Miles CLE 02/25/2003 CLE vs. NJN W 21 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 2 0 2 3 4 6
+p260
+aVChris Mihm CLE 02/25/2003 CLE vs. NJN W 13 5 1 8 12.5 0 0 - 3 4 75.0 2 3 5 1 0 0 1 4 -5
+p261
+aVCarlos Boozer CLE 02/25/2003 CLE vs. NJN W 22 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 0 0 2 1 -7
+p262
+aVZydrunas Ilgauskas CLE 02/25/2003 CLE vs. NJN W 34 29 10 13 76.9 0 0 - 9 10 90.0 5 3 8 6 2 3 4 4 15
+p263
+aVDeSagana Diop CLE 02/25/2003 CLE vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -2
+p264
+aVJumaine Jones CLE 02/25/2003 CLE vs. NJN W 42 14 6 13 46.2 2 7 28.6 0 0 - 2 10 12 1 0 0 2 4 7
+p265
+aVRicky Davis CLE 02/23/2003 CLE @ PHI L 40 20 8 15 53.3 0 3 0.0 4 5 80.0 0 2 2 6 2 0 3 4 -11
+p266
+aVDajuan Wagner CLE 02/23/2003 CLE @ PHI L 27 23 6 11 54.5 3 5 60.0 8 8 100.0 0 1 1 4 0 0 5 2 -5
+p267
+aVZydrunas Ilgauskas CLE 02/23/2003 CLE @ PHI L 32 16 5 12 41.7 0 0 - 6 6 100.0 0 5 5 3 3 1 2 5 -7
+p268
+aVDarius Miles CLE 02/23/2003 CLE @ PHI L 26 14 7 12 58.3 0 0 - 0 1 0.0 1 5 6 5 1 2 1 1 -1
+p269
+aVMichael Stewart CLE 02/23/2003 CLE @ PHI L 9 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -3
+p270
+aVMilt Palacio CLE 02/23/2003 CLE @ PHI L 32 8 4 9 44.4 0 0 - 0 0 - 0 0 0 4 0 0 2 2 -15
+p271
+aVChris Mihm CLE 02/23/2003 CLE @ PHI L 16 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 -1
+p272
+aVDeSagana Diop CLE 02/23/2003 CLE @ PHI L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -2
+p273
+aVCarlos Boozer CLE 02/23/2003 CLE @ PHI L 20 4 0 4 0.0 0 0 - 4 4 100.0 2 4 6 1 0 1 0 3 -10
+p274
+aVJumaine Jones CLE 02/23/2003 CLE @ PHI L 30 14 5 12 41.7 2 6 33.3 2 2 100.0 2 5 7 1 0 0 2 2 -5
+p275
+aVRicky Davis CLE 02/21/2003 CLE vs. PHI L 35 16 7 17 41.2 0 2 0.0 2 2 100.0 4 5 9 4 1 1 4 5 -19
+p276
+aVDajuan Wagner CLE 02/21/2003 CLE vs. PHI L 26 12 3 8 37.5 1 1 100.0 5 6 83.3 0 2 2 4 2 1 5 6 -24
+p277
+aVMilt Palacio CLE 02/21/2003 CLE vs. PHI L 30 9 3 6 50.0 0 0 - 3 3 100.0 0 2 2 8 1 0 3 4 -5
+p278
+aVChris Mihm CLE 02/21/2003 CLE vs. PHI L 19 8 3 6 50.0 0 0 - 2 2 100.0 2 7 9 2 0 1 1 4 -6
+p279
+aVDeSagana Diop CLE 02/21/2003 CLE vs. PHI L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 2 0 1 -4
+p280
+aVZydrunas Ilgauskas CLE 02/21/2003 CLE vs. PHI L 26 19 6 11 54.5 0 0 - 7 7 100.0 3 2 5 2 0 0 1 3 -10
+p281
+aVJumaine Jones CLE 02/21/2003 CLE vs. PHI L 30 13 6 14 42.9 1 5 20.0 0 0 - 0 4 4 1 0 0 1 2 3
+p282
+aVCarlos Boozer CLE 02/21/2003 CLE vs. PHI L 27 6 2 7 28.6 0 0 - 2 4 50.0 4 5 9 1 1 1 3 4 -15
+p283
+aVDarius Miles CLE 02/21/2003 CLE vs. PHI L 33 14 6 13 46.2 0 1 0.0 2 2 100.0 0 1 1 2 1 2 2 1 -21
+p284
+aVMichael Stewart CLE 02/21/2003 CLE vs. PHI L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 1
+p285
+aVRicky Davis CLE 02/18/2003 CLE vs. CHI L 40 22 8 20 40.0 1 2 50.0 5 7 71.4 2 4 6 2 4 0 3 1 -6
+p286
+aVZydrunas Ilgauskas CLE 02/18/2003 CLE vs. CHI L 25 11 3 7 42.9 0 0 - 5 8 62.5 4 4 8 2 0 2 4 5 -19
+p287
+aVDarius Miles CLE 02/18/2003 CLE vs. CHI L 31 4 1 6 16.7 0 0 - 2 2 100.0 5 4 9 5 1 1 3 3 -7
+p288
+aVDajuan Wagner CLE 02/18/2003 CLE vs. CHI L 35 18 5 17 29.4 1 5 20.0 7 7 100.0 0 3 3 6 1 0 1 2 13
+p289
+aVMilt Palacio CLE 02/18/2003 CLE vs. CHI L 16 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 3 0 1 1 2 -21
+p290
+aVJumaine Jones CLE 02/18/2003 CLE vs. CHI L 29 12 4 8 50.0 2 3 66.7 2 3 66.7 0 4 4 2 0 0 1 2 4
+p291
+aVChris Mihm CLE 02/18/2003 CLE vs. CHI L 23 9 3 6 50.0 0 0 - 3 4 75.0 2 4 6 0 1 5 2 3 11
+p292
+aVCarlos Boozer CLE 02/18/2003 CLE vs. CHI L 36 23 11 15 73.3 0 0 - 1 1 100.0 4 8 12 0 0 2 1 5 -10
+p293
+aVDeSagana Diop CLE 02/18/2003 CLE vs. CHI L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 5
+p294
+aVDeSagana Diop CLE 02/16/2003 CLE vs. DET L 17 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 2 1 3 -4
+p295
+aVRicky Davis CLE 02/16/2003 CLE vs. DET L 37 19 7 20 35.0 0 3 0.0 5 6 83.3 3 2 5 3 1 1 4 2 -21
+p296
+aVDajuan Wagner CLE 02/16/2003 CLE vs. DET L 22 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 1 1 1 1 2 -3
+p297
+aVCarlos Boozer CLE 02/16/2003 CLE vs. DET L 28 8 3 8 37.5 0 0 - 2 2 100.0 4 11 15 3 0 2 1 0 -6
+p298
+aVDarius Miles CLE 02/16/2003 CLE vs. DET L 30 4 0 4 0.0 0 0 - 4 6 66.7 0 4 4 0 1 0 1 1 -8
+p299
+aVJumaine Jones CLE 02/16/2003 CLE vs. DET L 21 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 1 1 0 1 4 -7
+p300
+aVMichael Stewart CLE 02/16/2003 CLE vs. DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p301
+aVChris Mihm CLE 02/16/2003 CLE vs. DET L 20 6 2 6 33.3 0 0 - 2 4 50.0 1 5 6 1 0 0 1 2 -9
+p302
+aVMilt Palacio CLE 02/16/2003 CLE vs. DET L 26 13 6 9 66.7 0 0 - 1 3 33.3 1 2 3 3 0 0 1 0 2
+p303
+aVBimbo Coles CLE 02/16/2003 CLE vs. DET L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p304
+aVZydrunas Ilgauskas CLE 02/16/2003 CLE vs. DET L 25 10 5 15 33.3 0 0 - 0 0 - 3 3 6 0 1 0 3 3 -14
+p305
+aVDarius Miles CLE 02/12/2003 CLE vs. MIN L 30 4 2 6 33.3 0 0 - 0 0 - 0 4 4 4 0 2 2 0 1
+p306
+aVJumaine Jones CLE 02/12/2003 CLE vs. MIN L 26 18 6 15 40.0 3 9 33.3 3 3 100.0 2 4 6 2 0 2 2 1 -7
+p307
+aVChris Mihm CLE 02/12/2003 CLE vs. MIN L 14 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 0 0 1 2 4 -11
+p308
+aVMichael Stewart CLE 02/12/2003 CLE vs. MIN L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p309
+aVCarlos Boozer CLE 02/12/2003 CLE vs. MIN L 33 9 4 13 30.8 0 0 - 1 1 100.0 4 1 5 2 3 1 2 4 -5
+p310
+aVRicky Davis CLE 02/12/2003 CLE vs. MIN L 37 26 9 20 45.0 4 7 57.1 4 4 100.0 2 7 9 2 1 2 3 0 -5
+p311
+aVDajuan Wagner CLE 02/12/2003 CLE vs. MIN L 19 6 2 7 28.6 1 2 50.0 1 1 100.0 1 2 3 3 0 0 2 3 -13
+p312
+aVBimbo Coles CLE 02/12/2003 CLE vs. MIN L 16 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 2 2 0 1 1 -14
+p313
+aVZydrunas Ilgauskas CLE 02/12/2003 CLE vs. MIN L 29 5 2 10 20.0 0 0 - 1 2 50.0 2 4 6 5 0 3 2 5 -2
+p314
+aVDeSagana Diop CLE 02/12/2003 CLE vs. MIN L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -8
+p315
+aVMilt Palacio CLE 02/12/2003 CLE vs. MIN L 24 12 6 9 66.7 0 0 - 0 0 - 2 2 4 4 1 0 3 3 10
+p316
+aVRicky Davis CLE 02/11/2003 CLE @ IND L 41 23 9 19 47.4 1 3 33.3 4 11 36.4 1 3 4 8 0 0 3 2 -14
+p317
+aVDeSagana Diop CLE 02/11/2003 CLE @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -11
+p318
+aVBimbo Coles CLE 02/11/2003 CLE @ IND L 17 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 1 -1
+p319
+aVJumaine Jones CLE 02/11/2003 CLE @ IND L 35 25 10 11 90.9 5 5 100.0 0 0 - 2 5 7 2 1 2 0 3 -9
+p320
+aVZydrunas Ilgauskas CLE 02/11/2003 CLE @ IND L 30 18 5 13 38.5 0 0 - 8 8 100.0 4 8 12 0 1 6 6 6 5
+p321
+aVMilt Palacio CLE 02/11/2003 CLE @ IND L 19 4 2 3 66.7 0 0 - 0 0 - 0 2 2 5 0 0 2 1 -7
+p322
+aVChris Mihm CLE 02/11/2003 CLE @ IND L 23 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 1 0 1 0 1 0
+p323
+aVDajuan Wagner CLE 02/11/2003 CLE @ IND L 20 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 4 0 0 2 1 0
+p324
+aVMichael Stewart CLE 02/11/2003 CLE @ IND L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p325
+aVCarlos Boozer CLE 02/11/2003 CLE @ IND L 18 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 1 1 2 1 -15
+p326
+aVDarius Miles CLE 02/11/2003 CLE @ IND L 26 4 2 5 40.0 0 0 - 0 0 - 0 6 6 1 1 2 6 3 -3
+p327
+aVZydrunas Ilgauskas CLE 02/05/2003 CLE vs. HOU W 30 20 8 17 47.1 0 0 - 4 6 66.7 1 6 7 2 1 2 1 5 9
+p328
+aVJumaine Jones CLE 02/05/2003 CLE vs. HOU W 21 9 3 7 42.9 3 7 42.9 0 0 - 0 3 3 0 0 0 0 1 4
+p329
+aVCarlos Boozer CLE 02/05/2003 CLE vs. HOU W 32 10 3 5 60.0 0 0 - 4 4 100.0 1 6 7 1 0 1 1 5 -8
+p330
+aVDajuan Wagner CLE 02/05/2003 CLE vs. HOU W 24 10 4 10 40.0 0 2 0.0 2 2 100.0 0 0 0 4 0 0 0 0 -4
+p331
+aVDarius Miles CLE 02/05/2003 CLE vs. HOU W 28 9 3 12 25.0 0 0 - 3 4 75.0 2 4 6 6 2 2 1 2 2
+p332
+aVRicky Davis CLE 02/05/2003 CLE vs. HOU W 42 21 7 21 33.3 1 4 25.0 6 6 100.0 3 3 6 10 1 1 6 0 4
+p333
+aVMichael Stewart CLE 02/05/2003 CLE vs. HOU W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -1
+p334
+aVDeSagana Diop CLE 02/05/2003 CLE vs. HOU W 13 8 4 4 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -6
+p335
+aVMilt Palacio CLE 02/05/2003 CLE vs. HOU W 30 16 7 9 77.8 0 0 - 2 2 100.0 3 3 6 0 3 0 1 3 6
+p336
+aVChris Mihm CLE 02/05/2003 CLE vs. HOU W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 0 5 9
+p337
+aVJumaine Jones CLE 02/04/2003 CLE @ WAS L 28 9 4 10 40.0 1 4 25.0 0 1 0.0 3 5 8 1 4 0 0 5 -7
+p338
+aVChris Mihm CLE 02/04/2003 CLE @ WAS L 18 5 2 5 40.0 0 0 - 1 1 100.0 3 3 6 0 0 0 1 0 2
+p339
+aVCarlos Boozer CLE 02/04/2003 CLE @ WAS L 24 6 2 3 66.7 0 0 - 2 2 100.0 3 7 10 0 0 0 3 4 -6
+p340
+aVMilt Palacio CLE 02/04/2003 CLE @ WAS L 17 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 1 0 1 2 0
+p341
+aVRicky Davis CLE 02/04/2003 CLE @ WAS L 39 7 3 14 21.4 1 3 33.3 0 0 - 1 1 2 8 1 0 6 3 -9
+p342
+aVSmush Parker CLE 02/04/2003 CLE @ WAS L 8 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p343
+aVZydrunas Ilgauskas CLE 02/04/2003 CLE @ WAS L 34 18 6 11 54.5 0 0 - 6 8 75.0 3 8 11 2 0 0 5 3 -8
+p344
+aVDajuan Wagner CLE 02/04/2003 CLE @ WAS L 33 19 8 17 47.1 1 3 33.3 2 4 50.0 1 3 4 4 1 0 0 2 -7
+p345
+aVDeSagana Diop CLE 02/04/2003 CLE @ WAS L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 0 2 0 1
+p346
+aVDarius Miles CLE 02/04/2003 CLE @ WAS L 26 13 5 9 55.6 0 0 - 3 4 75.0 1 2 3 0 1 1 3 2 -7
+p347
+aVDajuan Wagner CLE 02/02/2003 CLE vs. POR L 29 15 7 16 43.8 1 5 20.0 0 0 - 0 1 1 3 1 0 2 2 0
+p348
+aVMilt Palacio CLE 02/02/2003 CLE vs. POR L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -10
+p349
+aVZydrunas Ilgauskas CLE 02/02/2003 CLE vs. POR L 29 20 8 16 50.0 0 0 - 4 6 66.7 5 3 8 1 0 1 2 3 -16
+p350
+aVRicky Davis CLE 02/02/2003 CLE vs. POR L 39 15 6 20 30.0 0 1 0.0 3 3 100.0 0 4 4 4 1 0 3 1 -19
+p351
+aVTyrone Hill CLE 02/02/2003 CLE vs. POR L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 1 0 0 7
+p352
+aVSmush Parker CLE 02/02/2003 CLE vs. POR L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 7 0 1 3 2 -7
+p353
+aVJumaine Jones CLE 02/02/2003 CLE vs. POR L 26 5 2 6 33.3 1 5 20.0 0 0 - 2 2 4 2 0 0 3 1 -8
+p354
+aVCarlos Boozer CLE 02/02/2003 CLE vs. POR L 25 7 2 4 50.0 0 0 - 3 4 75.0 1 5 6 2 0 0 1 4 -10
+p355
+aVDeSagana Diop CLE 02/02/2003 CLE vs. POR L 9 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 3 -2
+p356
+aVMichael Stewart CLE 02/02/2003 CLE vs. POR L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -4
+p357
+aVDarius Miles CLE 02/02/2003 CLE vs. POR L 28 14 6 8 75.0 0 0 - 2 4 50.0 2 5 7 1 2 1 2 2 -16
+p358
+aVChris Mihm CLE 02/02/2003 CLE vs. POR L 17 12 5 8 62.5 0 0 - 2 3 66.7 3 2 5 1 2 2 1 5 -10
+p359
+aVRicky Davis CLE 01/31/2003 CLE @ ATL L 38 13 5 16 31.3 0 1 0.0 3 4 75.0 3 5 8 4 4 1 9 2 -3
+p360
+aVMichael Stewart CLE 01/31/2003 CLE @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 2 0 2 2 0 1 0 3 4
+p361
+aVChris Mihm CLE 01/31/2003 CLE @ ATL L 15 4 1 2 50.0 0 0 - 2 2 100.0 1 6 7 0 0 0 0 3 -2
+p362
+aVCarlos Boozer CLE 01/31/2003 CLE @ ATL L 29 12 6 12 50.0 0 0 - 0 0 - 5 5 10 0 0 0 1 2 -4
+p363
+aVDeSagana Diop CLE 01/31/2003 CLE @ ATL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 1 2 -8
+p364
+aVDajuan Wagner CLE 01/31/2003 CLE @ ATL L 20 7 2 9 22.2 0 2 0.0 3 4 75.0 0 1 1 2 1 0 2 2 -4
+p365
+aVSmush Parker CLE 01/31/2003 CLE @ ATL L 28 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 7 3 0 2 2 -1
+p366
+aVDarius Miles CLE 01/31/2003 CLE @ ATL L 29 13 6 11 54.5 0 1 0.0 1 2 50.0 0 4 4 2 0 1 2 2 2
+p367
+aVMilt Palacio CLE 01/31/2003 CLE @ ATL L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 0
+p368
+aVJumaine Jones CLE 01/31/2003 CLE @ ATL L 25 15 6 14 42.9 3 7 42.9 0 0 - 5 3 8 0 1 0 0 2 -9
+p369
+aVZydrunas Ilgauskas CLE 01/31/2003 CLE @ ATL L 32 21 6 10 60.0 0 0 - 9 12 75.0 1 3 4 1 0 2 2 2 0
+p370
+aVTyrone Hill CLE 01/29/2003 CLE @ ORL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 10
+p371
+aVDajuan Wagner CLE 01/29/2003 CLE @ ORL L 16 8 4 6 66.7 0 1 0.0 0 0 - 0 2 2 2 1 0 2 3 -12
+p372
+aVZydrunas Ilgauskas CLE 01/29/2003 CLE @ ORL L 27 22 6 14 42.9 0 0 - 10 12 83.3 4 3 7 0 0 4 4 6 -6
+p373
+aVMichael Stewart CLE 01/29/2003 CLE @ ORL L 5 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 0 1 0 1 4
+p374
+aVSmush Parker CLE 01/29/2003 CLE @ ORL L 29 21 6 10 60.0 0 1 0.0 9 11 81.8 1 2 3 3 3 0 2 2 9
+p375
+aVChris Mihm CLE 01/29/2003 CLE @ ORL L 16 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 1 0 2 0 2 -1
+p376
+aVJumaine Jones CLE 01/29/2003 CLE @ ORL L 30 14 6 11 54.5 0 2 0.0 2 3 66.7 2 5 7 0 2 1 2 4 3
+p377
+aVDeSagana Diop CLE 01/29/2003 CLE @ ORL L 12 0 0 3 0.0 0 0 - 0 2 0.0 1 3 4 1 0 2 2 2 -4
+p378
+aVRicky Davis CLE 01/29/2003 CLE @ ORL L 43 16 6 18 33.3 0 1 0.0 4 4 100.0 2 4 6 7 4 0 6 3 -1
+p379
+aVDarius Miles CLE 01/29/2003 CLE @ ORL L 28 7 1 5 20.0 0 0 - 5 6 83.3 0 5 5 3 1 3 2 4 -6
+p380
+aVMilt Palacio CLE 01/29/2003 CLE @ ORL L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -6
+p381
+aVCarlos Boozer CLE 01/29/2003 CLE @ ORL L 24 12 4 6 66.7 0 0 - 4 6 66.7 2 2 4 3 0 0 2 3 -15
+p382
+aVDarius Miles CLE 01/27/2003 CLE vs. LAC W 29 11 3 5 60.0 0 0 - 5 5 100.0 0 2 2 0 1 2 1 4 -5
+p383
+aVRicky Davis CLE 01/27/2003 CLE vs. LAC W 42 32 10 21 47.6 0 1 0.0 12 13 92.3 1 9 10 8 2 0 1 2 3
+p384
+aVZydrunas Ilgauskas CLE 01/27/2003 CLE vs. LAC W 21 8 3 11 27.3 0 0 - 2 2 100.0 5 3 8 0 0 1 2 3 -6
+p385
+aVDajuan Wagner CLE 01/27/2003 CLE vs. LAC W 29 20 8 18 44.4 3 5 60.0 1 2 50.0 0 1 1 2 2 2 2 1 11
+p386
+aVSmush Parker CLE 01/27/2003 CLE vs. LAC W 19 9 3 8 37.5 0 2 0.0 3 3 100.0 1 3 4 3 2 2 3 3 -7
+p387
+aVJumaine Jones CLE 01/27/2003 CLE vs. LAC W 29 6 2 4 50.0 0 1 0.0 2 2 100.0 1 4 5 1 2 1 2 0 11
+p388
+aVCarlos Boozer CLE 01/27/2003 CLE vs. LAC W 18 4 1 4 25.0 0 0 - 2 2 100.0 3 2 5 0 0 0 1 4 -1
+p389
+aVChris Mihm CLE 01/27/2003 CLE vs. LAC W 29 10 4 10 40.0 0 0 - 2 2 100.0 2 8 10 1 0 0 2 4 9
+p390
+aVDeSagana Diop CLE 01/27/2003 CLE vs. LAC W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 3 0 1 3
+p391
+aVMichael Stewart CLE 01/27/2003 CLE vs. LAC W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 1
+p392
+aVMilt Palacio CLE 01/27/2003 CLE vs. LAC W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 1
+p393
+aVDarius Miles CLE 01/25/2003 CLE vs. ATL L 29 9 4 6 66.7 0 0 - 1 2 50.0 2 5 7 2 0 0 5 1 -4
+p394
+aVMilt Palacio CLE 01/25/2003 CLE vs. ATL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -5
+p395
+aVChris Mihm CLE 01/25/2003 CLE vs. ATL L 21 10 4 10 40.0 0 0 - 2 4 50.0 2 2 4 1 0 2 0 3 2
+p396
+aVDajuan Wagner CLE 01/25/2003 CLE vs. ATL L 26 14 5 9 55.6 1 2 50.0 3 4 75.0 1 2 3 4 2 0 1 1 -4
+p397
+aVCarlos Boozer CLE 01/25/2003 CLE vs. ATL L 19 5 2 7 28.6 0 0 - 1 1 100.0 1 2 3 2 1 0 0 5 -5
+p398
+aVRicky Davis CLE 01/25/2003 CLE vs. ATL L 45 16 6 19 31.6 0 4 0.0 4 4 100.0 2 7 9 7 0 2 6 3 4
+p399
+aVJumaine Jones CLE 01/25/2003 CLE vs. ATL L 38 9 4 13 30.8 1 5 20.0 0 0 - 3 3 6 3 2 2 1 3 9
+p400
+aVSmush Parker CLE 01/25/2003 CLE vs. ATL L 32 17 6 13 46.2 3 5 60.0 2 4 50.0 1 1 2 3 1 0 0 1 2
+p401
+aVZydrunas Ilgauskas CLE 01/25/2003 CLE vs. ATL L 35 19 8 16 50.0 0 0 - 3 5 60.0 2 6 8 3 1 0 4 4 0
+p402
+aVDeSagana Diop CLE 01/25/2003 CLE vs. ATL L 12 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 1 0 3 -4
+p403
+aVZydrunas Ilgauskas CLE 01/21/2003 CLE vs. ORL L 34 35 15 28 53.6 0 0 - 5 9 55.6 8 4 12 2 0 3 1 3 -13
+p404
+aVChris Mihm CLE 01/21/2003 CLE vs. ORL L 9 6 1 3 33.3 0 0 - 4 4 100.0 3 0 3 1 0 0 0 0 0
+p405
+aVCarlos Boozer CLE 01/21/2003 CLE vs. ORL L 21 2 0 1 0.0 0 0 - 2 2 100.0 1 7 8 1 0 1 0 2 -23
+p406
+aVSmush Parker CLE 01/21/2003 CLE vs. ORL L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -14
+p407
+aVDajuan Wagner CLE 01/21/2003 CLE vs. ORL L 32 14 5 15 33.3 2 5 40.0 2 2 100.0 0 1 1 0 1 0 0 1 13
+p408
+aVMilt Palacio CLE 01/21/2003 CLE vs. ORL L 20 4 1 3 33.3 0 1 0.0 2 2 100.0 1 1 2 4 1 0 2 1 -8
+p409
+aVRicky Davis CLE 01/21/2003 CLE vs. ORL L 43 11 5 15 33.3 0 1 0.0 1 1 100.0 2 3 5 7 2 0 4 2 -12
+p410
+aVJumaine Jones CLE 01/21/2003 CLE vs. ORL L 31 10 4 10 40.0 2 4 50.0 0 0 - 1 6 7 3 0 0 4 3 15
+p411
+aVDeSagana Diop CLE 01/21/2003 CLE vs. ORL L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 5 5 0 1 1 0 3 4
+p412
+aVDarius Miles CLE 01/21/2003 CLE vs. ORL L 28 8 4 7 57.1 0 0 - 0 0 - 1 4 5 2 2 0 2 2 -7
+p413
+aVSmush Parker CLE 01/18/2003 CLE @ UTA L 15 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 3 6 -6
+p414
+aVChris Mihm CLE 01/18/2003 CLE @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -5
+p415
+aVMilt Palacio CLE 01/18/2003 CLE @ UTA L 33 0 0 4 0.0 0 2 0.0 0 0 - 1 3 4 4 0 0 1 1 -11
+p416
+aVJumaine Jones CLE 01/18/2003 CLE @ UTA L 28 10 4 6 66.7 2 4 50.0 0 1 0.0 1 2 3 1 2 0 2 1 -4
+p417
+aVZydrunas Ilgauskas CLE 01/18/2003 CLE @ UTA L 33 21 7 14 50.0 0 0 - 7 8 87.5 1 4 5 1 0 3 4 4 -14
+p418
+aVRicky Davis CLE 01/18/2003 CLE @ UTA L 40 25 11 24 45.8 0 3 0.0 3 3 100.0 0 1 1 5 4 1 2 3 -11
+p419
+aVCarlos Boozer CLE 01/18/2003 CLE @ UTA L 27 14 6 9 66.7 0 0 - 2 3 66.7 2 5 7 2 0 1 3 4 -11
+p420
+aVDarius Miles CLE 01/18/2003 CLE @ UTA L 24 0 0 6 0.0 0 0 - 0 2 0.0 1 4 5 3 0 2 3 1 -8
+p421
+aVDajuan Wagner CLE 01/18/2003 CLE @ UTA L 16 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -13
+p422
+aVDeSagana Diop CLE 01/18/2003 CLE @ UTA L 17 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 3 0 1 6 -2
+p423
+aVJumaine Jones CLE 01/17/2003 CLE @ DEN L 31 9 4 11 36.4 1 6 16.7 0 0 - 1 4 5 1 0 1 3 4 -13
+p424
+aVRicky Davis CLE 01/17/2003 CLE @ DEN L 46 12 3 14 21.4 0 2 0.0 6 11 54.5 0 3 3 6 2 0 2 2 -19
+p425
+aVDarius Miles CLE 01/17/2003 CLE @ DEN L 28 4 2 4 50.0 0 1 0.0 0 0 - 1 5 6 5 1 1 3 3 0
+p426
+aVDajuan Wagner CLE 01/17/2003 CLE @ DEN L 20 8 2 5 40.0 1 3 33.3 3 4 75.0 0 0 0 2 0 0 2 2 5
+p427
+aVSmush Parker CLE 01/17/2003 CLE @ DEN L 11 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 3 0 0 5 2 4
+p428
+aVChris Mihm CLE 01/17/2003 CLE @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -16
+p429
+aVZydrunas Ilgauskas CLE 01/17/2003 CLE @ DEN L 35 26 9 12 75.0 0 0 - 8 11 72.7 4 7 11 0 3 0 6 5 -7
+p430
+aVCarlos Boozer CLE 01/17/2003 CLE @ DEN L 40 16 6 9 66.7 0 0 - 4 4 100.0 3 12 15 1 1 2 4 2 -4
+p431
+aVDeSagana Diop CLE 01/17/2003 CLE @ DEN L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -14
+p432
+aVMilt Palacio CLE 01/17/2003 CLE @ DEN L 21 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 1 0 2 3 -21
+p433
+aVDeSagana Diop CLE 01/15/2003 CLE @ GSW L 12 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 1 5 -3
+p434
+aVSmush Parker CLE 01/15/2003 CLE @ GSW L 22 2 0 3 0.0 0 1 0.0 2 2 100.0 1 3 4 1 0 0 4 3 -26
+p435
+aVMilt Palacio CLE 01/15/2003 CLE @ GSW L 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -5
+p436
+aVJumaine Jones CLE 01/15/2003 CLE @ GSW L 29 3 1 4 25.0 0 2 0.0 1 2 50.0 0 7 7 2 1 0 0 2 -16
+p437
+aVTyrone Hill CLE 01/15/2003 CLE @ GSW L 11 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -1
+p438
+aVDarius Miles CLE 01/15/2003 CLE @ GSW L 18 6 3 12 25.0 0 0 - 0 2 0.0 2 2 4 2 0 0 2 2 -13
+p439
+aVRicky Davis CLE 01/15/2003 CLE @ GSW L 36 21 6 19 31.6 1 3 33.3 8 10 80.0 1 2 3 4 3 1 2 1 -21
+p440
+aVZydrunas Ilgauskas CLE 01/15/2003 CLE @ GSW L 31 14 5 7 71.4 0 0 - 4 9 44.4 1 6 7 0 0 2 2 3 -18
+p441
+aVCarlos Boozer CLE 01/15/2003 CLE @ GSW L 35 18 8 15 53.3 0 0 - 2 2 100.0 8 5 13 2 0 0 1 4 -21
+p442
+aVMichael Stewart CLE 01/15/2003 CLE @ GSW L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -9
+p443
+aVDajuan Wagner CLE 01/15/2003 CLE @ GSW L 25 6 2 13 15.4 2 4 50.0 0 0 - 1 1 2 2 0 1 1 2 -7
+p444
+aVZydrunas Ilgauskas CLE 01/13/2003 CLE @ POR L 17 9 4 11 36.4 0 0 - 1 2 50.0 2 3 5 0 1 0 2 0 -15
+p445
+aVCarlos Boozer CLE 01/13/2003 CLE @ POR L 28 14 6 9 66.7 0 0 - 2 4 50.0 2 10 12 1 1 0 0 3 -14
+p446
+aVMilt Palacio CLE 01/13/2003 CLE @ POR L 20 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 3 0 0 1 3 -3
+p447
+aVJumaine Jones CLE 01/13/2003 CLE @ POR L 26 10 2 6 33.3 1 4 25.0 5 5 100.0 5 2 7 3 2 1 0 3 -17
+p448
+aVDarius Miles CLE 01/13/2003 CLE @ POR L 22 8 3 7 42.9 0 0 - 2 2 100.0 1 5 6 3 0 0 1 2 -17
+p449
+aVDajuan Wagner CLE 01/13/2003 CLE @ POR L 32 14 6 15 40.0 2 7 28.6 0 0 - 1 2 3 1 0 0 2 2 -14
+p450
+aVDeSagana Diop CLE 01/13/2003 CLE @ POR L 20 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 1 1 2 -3
+p451
+aVSmush Parker CLE 01/13/2003 CLE @ POR L 22 8 3 7 42.9 2 3 66.7 0 0 - 1 2 3 3 1 0 2 0 -17
+p452
+aVRicky Davis CLE 01/13/2003 CLE @ POR L 36 17 7 17 41.2 1 5 20.0 2 2 100.0 1 3 4 4 0 0 5 1 -20
+p453
+aVMichael Stewart CLE 01/13/2003 CLE @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p454
+aVChris Mihm CLE 01/13/2003 CLE @ POR L 12 7 1 5 20.0 0 1 0.0 5 8 62.5 2 1 3 0 0 0 0 3 0
+p455
+aVZydrunas Ilgauskas CLE 01/12/2003 CLE @ SEA W 35 14 3 12 25.0 0 0 - 8 11 72.7 4 6 10 2 3 2 3 5 15
+p456
+aVJumaine Jones CLE 01/12/2003 CLE @ SEA W 32 16 5 10 50.0 2 4 50.0 4 4 100.0 1 9 10 1 0 0 0 2 1
+p457
+aVMilt Palacio CLE 01/12/2003 CLE @ SEA W 24 4 1 4 25.0 0 1 0.0 2 2 100.0 1 4 5 4 0 0 2 0 6
+p458
+aVRicky Davis CLE 01/12/2003 CLE @ SEA W 42 22 9 19 47.4 2 4 50.0 2 7 28.6 0 4 4 2 2 1 2 4 7
+p459
+aVDarius Miles CLE 01/12/2003 CLE @ SEA W 30 8 4 9 44.4 0 0 - 0 0 - 3 4 7 4 1 1 3 3 11
+p460
+aVCarlos Boozer CLE 01/12/2003 CLE @ SEA W 33 8 3 7 42.9 0 0 - 2 2 100.0 1 7 8 1 0 2 1 3 6
+p461
+aVDeSagana Diop CLE 01/12/2003 CLE @ SEA W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p462
+aVDajuan Wagner CLE 01/12/2003 CLE @ SEA W 10 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 0 0 0 0 2 4
+p463
+aVChris Mihm CLE 01/12/2003 CLE @ SEA W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -3
+p464
+aVSmush Parker CLE 01/12/2003 CLE @ SEA W 26 10 5 7 71.4 0 0 - 0 0 - 1 1 2 3 1 0 6 1 -1
+p465
+aVSmush Parker CLE 01/10/2003 CLE @ LAL L 15 6 3 6 50.0 0 0 - 0 1 0.0 1 1 2 1 0 0 2 2 -19
+p466
+aVCarlos Boozer CLE 01/10/2003 CLE @ LAL L 17 6 3 4 75.0 0 0 - 0 0 - 0 4 4 1 2 0 0 1 3
+p467
+aVMichael Stewart CLE 01/10/2003 CLE @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p468
+aVDeSagana Diop CLE 01/10/2003 CLE @ LAL L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 1 2 0 5 0
+p469
+aVRicky Davis CLE 01/10/2003 CLE @ LAL L 35 27 9 20 45.0 2 4 50.0 7 9 77.8 0 3 3 3 2 0 5 2 -20
+p470
+aVDajuan Wagner CLE 01/10/2003 CLE @ LAL L 28 12 4 12 33.3 0 3 0.0 4 6 66.7 0 1 1 3 1 0 2 1 4
+p471
+aVJumaine Jones CLE 01/10/2003 CLE @ LAL L 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -5
+p472
+aVMilt Palacio CLE 01/10/2003 CLE @ LAL L 31 8 4 10 40.0 0 1 0.0 0 2 0.0 0 3 3 4 2 0 2 1 2
+p473
+aVTyrone Hill CLE 01/10/2003 CLE @ LAL L 17 2 1 4 25.0 0 0 - 0 0 - 1 5 6 1 2 0 1 4 -8
+p474
+aVZydrunas Ilgauskas CLE 01/10/2003 CLE @ LAL L 24 20 5 9 55.6 0 0 - 10 13 76.9 1 1 2 0 0 0 2 3 -24
+p475
+aVDarius Miles CLE 01/10/2003 CLE @ LAL L 25 4 2 7 28.6 0 0 - 0 0 - 1 4 5 3 1 1 2 2 -17
+p476
+aVChris Mihm CLE 01/10/2003 CLE @ LAL L 18 4 0 2 0.0 0 0 - 4 4 100.0 3 4 7 1 3 1 0 3 0
+p477
+aVJumaine Jones CLE 01/06/2003 CLE vs. MIL L 16 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 0 1 0 0 0 1
+p478
+aVCarlos Boozer CLE 01/06/2003 CLE vs. MIL L 22 4 2 7 28.6 0 0 - 0 0 - 2 6 8 1 1 0 1 3 -14
+p479
+aVDarius Miles CLE 01/06/2003 CLE vs. MIL L 26 4 2 5 40.0 0 0 - 0 1 0.0 3 2 5 5 1 0 3 3 -6
+p480
+aVDajuan Wagner CLE 01/06/2003 CLE vs. MIL L 35 20 8 18 44.4 4 7 57.1 0 0 - 2 1 3 0 0 0 0 1 -14
+p481
+aVRicky Davis CLE 01/06/2003 CLE vs. MIL L 41 22 7 19 36.8 3 7 42.9 5 10 50.0 2 2 4 9 1 0 3 2 -14
+p482
+aVZydrunas Ilgauskas CLE 01/06/2003 CLE vs. MIL L 33 20 7 20 35.0 0 0 - 6 6 100.0 5 6 11 3 0 2 3 4 -8
+p483
+aVSmush Parker CLE 01/06/2003 CLE vs. MIL L 26 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 2 0 0 2 3 -3
+p484
+aVDeSagana Diop CLE 01/06/2003 CLE vs. MIL L 15 6 2 4 50.0 0 0 - 2 2 100.0 3 4 7 0 0 2 0 1 -4
+p485
+aVTyrone Hill CLE 01/06/2003 CLE vs. MIL L 25 2 1 5 20.0 0 0 - 0 0 - 2 9 11 1 2 0 1 1 2
+p486
+aVDeSagana Diop CLE 01/04/2003 CLE @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p487
+aVDajuan Wagner CLE 01/04/2003 CLE @ CHI L 27 12 4 12 33.3 0 3 0.0 4 4 100.0 0 3 3 1 1 0 1 2 -9
+p488
+aVChris Mihm CLE 01/04/2003 CLE @ CHI L 8 4 1 1 100.0 0 0 - 2 4 50.0 3 1 4 0 1 1 3 2 -6
+p489
+aVCarlos Boozer CLE 01/04/2003 CLE @ CHI L 19 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 2 9
+p490
+aVMilt Palacio CLE 01/04/2003 CLE @ CHI L 23 0 0 4 0.0 0 0 - 0 0 - 0 2 2 3 1 0 1 1 -2
+p491
+aVJumaine Jones CLE 01/04/2003 CLE @ CHI L 13 0 0 6 0.0 0 5 0.0 0 0 - 0 3 3 0 0 0 1 1 -8
+p492
+aVSmush Parker CLE 01/04/2003 CLE @ CHI L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 2 0 0 1 10
+p493
+aVRicky Davis CLE 01/04/2003 CLE @ CHI L 46 17 4 18 22.2 0 1 0.0 9 12 75.0 0 8 8 5 2 0 5 3 -4
+p494
+aVTyrone Hill CLE 01/04/2003 CLE @ CHI L 25 0 0 6 0.0 0 0 - 0 0 - 3 6 9 0 1 0 1 3 -10
+p495
+aVZydrunas Ilgauskas CLE 01/04/2003 CLE @ CHI L 34 27 10 18 55.6 0 0 - 7 9 77.8 8 2 10 2 2 2 4 4 0
+p496
+aVDarius Miles CLE 01/04/2003 CLE @ CHI L 29 8 4 6 66.7 0 0 - 0 0 - 1 2 3 5 1 1 2 5 -5
+p497
+aVMichael Stewart CLE 01/03/2003 CLE @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p498
+aVMilt Palacio CLE 01/03/2003 CLE @ TOR W 10 2 1 2 50.0 0 0 - 0 0 - 0 4 4 2 0 0 4 1 6
+p499
+aVRicky Davis CLE 01/03/2003 CLE @ TOR W 45 29 11 26 42.3 1 2 50.0 6 7 85.7 2 4 6 5 5 0 6 3 7
+p500
+aVJumaine Jones CLE 01/03/2003 CLE @ TOR W 24 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 0 0 0 1 2 6
+p501
+aVDajuan Wagner CLE 01/03/2003 CLE @ TOR W 28 7 3 9 33.3 0 1 0.0 1 2 50.0 0 0 0 1 1 0 0 4 -9
+p502
+aVZydrunas Ilgauskas CLE 01/03/2003 CLE @ TOR W 36 16 4 14 28.6 0 0 - 8 9 88.9 3 5 8 2 0 7 2 4 2
+p503
+aVDarius Miles CLE 01/03/2003 CLE @ TOR W 27 8 3 4 75.0 0 0 - 2 3 66.7 0 2 2 3 2 0 3 0 1
+p504
+aVCarlos Boozer CLE 01/03/2003 CLE @ TOR W 20 4 2 3 66.7 0 0 - 0 1 0.0 0 5 5 0 0 1 0 3 2
+p505
+aVTyrone Hill CLE 01/03/2003 CLE @ TOR W 38 6 3 8 37.5 0 0 - 0 0 - 6 10 16 0 1 2 3 5 0
+p506
+aVSmush Parker CLE 01/03/2003 CLE @ TOR W 11 1 0 4 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 2 0 -8
+p507
+aVTyrone Hill CLE 12/30/2002 CLE @ NJN L 11 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 1 0 2 1 -17
+p508
+aVMilt Palacio CLE 12/30/2002 CLE @ NJN L 31 7 3 8 37.5 1 2 50.0 0 0 - 0 3 3 1 0 0 0 0 -5
+p509
+aVRicky Davis CLE 12/30/2002 CLE @ NJN L 39 24 9 19 47.4 5 5 100.0 1 1 100.0 0 5 5 10 0 0 3 1 -17
+p510
+aVMichael Stewart CLE 12/30/2002 CLE @ NJN L 12 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 2 0 0 -3
+p511
+aVSmush Parker CLE 12/30/2002 CLE @ NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -9
+p512
+aVDajuan Wagner CLE 12/30/2002 CLE @ NJN L 30 22 9 18 50.0 2 4 50.0 2 2 100.0 0 1 1 2 1 0 1 3 -4
+p513
+aVCarlos Boozer CLE 12/30/2002 CLE @ NJN L 18 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 0 0 1 0 3 10
+p514
+aVZydrunas Ilgauskas CLE 12/30/2002 CLE @ NJN L 17 11 4 5 80.0 0 0 - 3 4 75.0 0 1 1 0 0 0 5 4 -11
+p515
+aVChris Mihm CLE 12/30/2002 CLE @ NJN L 12 2 1 3 33.3 0 0 - 0 2 0.0 2 0 2 1 1 0 1 1 -8
+p516
+aVJumaine Jones CLE 12/30/2002 CLE @ NJN L 24 12 5 10 50.0 2 6 33.3 0 1 0.0 0 7 7 0 0 0 0 2 7
+p517
+aVDeSagana Diop CLE 12/30/2002 CLE @ NJN L 20 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 1 4 5
+p518
+aVDarius Miles CLE 12/30/2002 CLE @ NJN L 22 0 0 3 0.0 0 0 - 0 0 - 0 4 4 5 0 0 1 2 -18
+p519
+aVZydrunas Ilgauskas CLE 12/29/2002 CLE vs. PHX L 23 10 2 7 28.6 0 0 - 6 8 75.0 4 2 6 0 3 2 3 4 -10
+p520
+aVMilt Palacio CLE 12/29/2002 CLE vs. PHX L 17 2 1 3 33.3 0 0 - 0 0 - 3 1 4 2 0 0 1 1 -6
+p521
+aVChris Mihm CLE 12/29/2002 CLE vs. PHX L 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 1 1 2 -5
+p522
+aVRicky Davis CLE 12/29/2002 CLE vs. PHX L 38 15 6 16 37.5 1 5 20.0 2 5 40.0 1 4 5 7 2 0 4 1 -11
+p523
+aVCarlos Boozer CLE 12/29/2002 CLE vs. PHX L 24 10 4 10 40.0 0 0 - 2 3 66.7 3 4 7 0 0 0 1 4 -19
+p524
+aVSmush Parker CLE 12/29/2002 CLE vs. PHX L 7 4 0 2 0.0 0 1 0.0 4 4 100.0 0 2 2 1 1 0 0 1 -12
+p525
+aVDajuan Wagner CLE 12/29/2002 CLE vs. PHX L 31 8 3 11 27.3 0 4 0.0 2 4 50.0 1 1 2 5 1 0 5 0 -10
+p526
+aVTyrone Hill CLE 12/29/2002 CLE vs. PHX L 24 8 4 5 80.0 0 0 - 0 0 - 2 8 10 1 2 1 4 3 0
+p527
+aVDarius Miles CLE 12/29/2002 CLE vs. PHX L 26 13 5 8 62.5 0 0 - 3 4 75.0 1 3 4 3 1 1 4 2 -10
+p528
+aVJumaine Jones CLE 12/29/2002 CLE vs. PHX L 27 12 4 8 50.0 4 5 80.0 0 0 - 3 1 4 0 0 0 0 2 -10
+p529
+aVDeSagana Diop CLE 12/29/2002 CLE vs. PHX L 15 0 0 6 0.0 0 0 - 0 0 - 3 0 3 0 1 1 2 2 -2
+p530
+aVDeSagana Diop CLE 12/27/2002 CLE vs. IND L 19 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 2 2 3 1 3 -3
+p531
+aVSmush Parker CLE 12/27/2002 CLE vs. IND L 28 13 4 11 36.4 1 5 20.0 4 4 100.0 1 4 5 6 0 0 4 2 -18
+p532
+aVDajuan Wagner CLE 12/27/2002 CLE vs. IND L 28 10 4 14 28.6 0 4 0.0 2 4 50.0 0 1 1 2 1 0 2 1 -11
+p533
+aVCarlos Boozer CLE 12/27/2002 CLE vs. IND L 17 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 0 1 1 1 2 -21
+p534
+aVJumaine Jones CLE 12/27/2002 CLE vs. IND L 23 7 2 3 66.7 1 2 50.0 2 2 100.0 1 2 3 0 0 0 0 2 -20
+p535
+aVTyrone Hill CLE 12/27/2002 CLE vs. IND L 25 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 1 0 2 2 -15
+p536
+aVMilt Palacio CLE 12/27/2002 CLE vs. IND L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p537
+aVChris Mihm CLE 12/27/2002 CLE vs. IND L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 2
+p538
+aVZydrunas Ilgauskas CLE 12/27/2002 CLE vs. IND L 24 21 8 15 53.3 0 0 - 5 6 83.3 7 5 12 1 2 2 0 2 -11
+p539
+aVDarius Miles CLE 12/27/2002 CLE vs. IND L 22 6 3 8 37.5 0 0 - 0 0 - 1 2 3 2 0 0 4 1 -4
+p540
+aVRicky Davis CLE 12/27/2002 CLE vs. IND L 35 17 8 22 36.4 1 3 33.3 0 0 - 0 3 3 8 2 0 5 3 -16
+p541
+aVSmush Parker CLE 12/23/2002 CLE vs. MIA W 26 11 4 8 50.0 0 1 0.0 3 3 100.0 1 1 2 1 0 0 0 0 4
+p542
+aVCarlos Boozer CLE 12/23/2002 CLE vs. MIA W 21 2 1 3 33.3 0 0 - 0 0 - 2 4 6 2 3 0 0 3 1
+p543
+aVMichael Stewart CLE 12/23/2002 CLE vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p544
+aVRicky Davis CLE 12/23/2002 CLE vs. MIA W 43 33 11 27 40.7 2 4 50.0 9 14 64.3 2 3 5 5 2 0 2 2 4
+p545
+aVChris Mihm CLE 12/23/2002 CLE vs. MIA W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -1
+p546
+aVTyrone Hill CLE 12/23/2002 CLE vs. MIA W 30 6 2 5 40.0 0 0 - 2 4 50.0 0 9 9 0 1 0 0 3 -1
+p547
+aVDarius Miles CLE 12/23/2002 CLE vs. MIA W 23 2 0 6 0.0 0 0 - 2 2 100.0 3 1 4 0 0 3 1 2 -7
+p548
+aVDeSagana Diop CLE 12/23/2002 CLE vs. MIA W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p549
+aVJumaine Jones CLE 12/23/2002 CLE vs. MIA W 28 2 1 6 16.7 0 4 0.0 0 0 - 0 4 4 0 0 0 2 3 1
+p550
+aVZydrunas Ilgauskas CLE 12/23/2002 CLE vs. MIA W 32 11 4 16 25.0 0 0 - 3 6 50.0 4 6 10 2 0 1 2 4 6
+p551
+aVMilt Palacio CLE 12/23/2002 CLE vs. MIA W 28 7 3 4 75.0 1 1 100.0 0 0 - 1 2 3 0 0 0 2 3 0
+p552
+aVRicky Davis CLE 12/21/2002 CLE vs. BOS L 44 21 8 19 42.1 2 6 33.3 3 4 75.0 1 3 4 2 3 1 5 3 -6
+p553
+aVChris Mihm CLE 12/21/2002 CLE vs. BOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -1
+p554
+aVMilt Palacio CLE 12/21/2002 CLE vs. BOS L 17 0 0 3 0.0 0 0 - 0 0 - 1 4 5 5 0 0 1 2 -10
+p555
+aVDarius Miles CLE 12/21/2002 CLE vs. BOS L 26 2 1 11 9.1 0 1 0.0 0 0 - 0 3 3 2 1 1 3 3 -9
+p556
+aVZydrunas Ilgauskas CLE 12/21/2002 CLE vs. BOS L 24 15 5 10 50.0 0 0 - 5 6 83.3 1 7 8 1 0 0 0 4 3
+p557
+aVSmush Parker CLE 12/21/2002 CLE vs. BOS L 6 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 1 1 3 -7
+p558
+aVDeSagana Diop CLE 12/21/2002 CLE vs. BOS L 15 1 0 1 0.0 0 0 - 1 2 50.0 3 3 6 2 0 4 0 4 -5
+p559
+aVJumaine Jones CLE 12/21/2002 CLE vs. BOS L 21 2 1 4 25.0 0 2 0.0 0 0 - 1 6 7 1 0 0 1 4 7
+p560
+aVCarlos Boozer CLE 12/21/2002 CLE vs. BOS L 40 12 6 11 54.5 0 0 - 0 0 - 5 9 14 2 0 2 2 2 -9
+p561
+aVDajuan Wagner CLE 12/21/2002 CLE vs. BOS L 42 25 7 20 35.0 2 7 28.6 9 10 90.0 2 0 2 4 0 0 1 1 2
+p562
+aVJumaine Jones CLE 12/20/2002 CLE @ DET L 23 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 1 0 0 1 4 -5
+p563
+aVRicky Davis CLE 12/20/2002 CLE @ DET L 50 42 13 25 52.0 2 5 40.0 14 15 93.3 1 7 8 7 3 1 2 2 -1
+p564
+aVCarlos Boozer CLE 12/20/2002 CLE @ DET L 39 13 6 9 66.7 0 0 - 1 2 50.0 2 4 6 0 2 1 1 6 2
+p565
+aVDeSagana Diop CLE 12/20/2002 CLE @ DET L 19 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 2 1 0 3 -5
+p566
+aVZydrunas Ilgauskas CLE 12/20/2002 CLE @ DET L 31 20 8 14 57.1 0 1 0.0 4 6 66.7 1 3 4 1 0 3 2 6 2
+p567
+aVMilt Palacio CLE 12/20/2002 CLE @ DET L 41 11 3 6 50.0 0 0 - 5 6 83.3 1 4 5 2 3 0 1 4 -2
+p568
+aVChris Mihm CLE 12/20/2002 CLE @ DET L 10 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 3 6
+p569
+aVSmush Parker CLE 12/20/2002 CLE @ DET L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 3 1 -2
+p570
+aVDajuan Wagner CLE 12/20/2002 CLE @ DET L 42 14 5 15 33.3 1 5 20.0 3 4 75.0 0 1 1 1 0 0 1 5 -5
+p571
+aVJumaine Jones CLE 12/18/2002 CLE vs. DET L 27 10 4 6 66.7 2 3 66.7 0 0 - 1 5 6 0 0 0 1 3 -8
+p572
+aVDajuan Wagner CLE 12/18/2002 CLE vs. DET L 21 4 2 9 22.2 0 0 - 0 0 - 0 2 2 1 2 0 1 3 0
+p573
+aVRicky Davis CLE 12/18/2002 CLE vs. DET L 47 20 5 24 20.8 1 3 33.3 9 12 75.0 3 3 6 11 3 1 3 5 -2
+p574
+aVCarlos Boozer CLE 12/18/2002 CLE vs. DET L 37 15 7 11 63.6 0 0 - 1 2 50.0 5 5 10 4 0 3 1 3 13
+p575
+aVDeSagana Diop CLE 12/18/2002 CLE vs. DET L 16 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 -8
+p576
+aVMilt Palacio CLE 12/18/2002 CLE vs. DET L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -5
+p577
+aVDarius Miles CLE 12/18/2002 CLE vs. DET L 33 8 4 6 66.7 0 0 - 0 0 - 3 8 11 1 0 1 2 4 -3
+p578
+aVZydrunas Ilgauskas CLE 12/18/2002 CLE vs. DET L 40 29 8 19 42.1 0 0 - 13 17 76.5 0 7 7 2 0 4 2 1 -7
+p579
+aVSmush Parker CLE 12/18/2002 CLE vs. DET L 32 16 5 8 62.5 4 5 80.0 2 4 50.0 0 3 3 2 1 1 1 3 -5
+p580
+aVJumaine Jones CLE 12/16/2002 CLE vs. SEA L 27 19 7 11 63.6 5 6 83.3 0 0 - 4 3 7 1 2 0 1 2 -1
+p581
+aVDajuan Wagner CLE 12/16/2002 CLE vs. SEA L 32 10 3 15 20.0 2 8 25.0 2 2 100.0 0 2 2 3 2 0 2 3 -6
+p582
+aVDarius Miles CLE 12/16/2002 CLE vs. SEA L 26 8 4 11 36.4 0 0 - 0 0 - 4 3 7 3 0 0 2 1 3
+p583
+aVCarlos Boozer CLE 12/16/2002 CLE vs. SEA L 34 16 4 10 40.0 0 0 - 8 9 88.9 3 4 7 3 1 0 1 1 -7
+p584
+aVDeSagana Diop CLE 12/16/2002 CLE vs. SEA L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -10
+p585
+aVRicky Davis CLE 12/16/2002 CLE vs. SEA L 41 20 7 21 33.3 0 2 0.0 6 7 85.7 1 2 3 4 1 0 2 3 -13
+p586
+aVMilt Palacio CLE 12/16/2002 CLE vs. SEA L 32 8 4 6 66.7 0 0 - 0 0 - 0 4 4 5 1 0 3 1 -17
+p587
+aVZydrunas Ilgauskas CLE 12/16/2002 CLE vs. SEA L 32 17 5 11 45.5 0 1 0.0 7 9 77.8 2 7 9 1 1 2 1 4 -6
+p588
+aVSmush Parker CLE 12/16/2002 CLE vs. SEA L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 -8
+p589
+aVDajuan Wagner CLE 12/14/2002 CLE vs. DEN W 42 29 11 19 57.9 5 10 50.0 2 4 50.0 0 2 2 2 1 0 2 2 1
+p590
+aVRicky Davis CLE 12/14/2002 CLE vs. DEN W 45 27 10 19 52.6 0 3 0.0 7 8 87.5 0 8 8 7 0 2 2 1 6
+p591
+aVDeSagana Diop CLE 12/14/2002 CLE vs. DEN W 14 0 0 0 - 0 0 - 0 2 0.0 2 1 3 1 2 2 1 1 12
+p592
+aVMilt Palacio CLE 12/14/2002 CLE vs. DEN W 26 0 0 2 0.0 0 0 - 0 0 - 1 5 6 3 0 0 2 2 17
+p593
+aVZydrunas Ilgauskas CLE 12/14/2002 CLE vs. DEN W 35 29 11 18 61.1 0 0 - 7 8 87.5 5 3 8 1 1 7 11 3 -2
+p594
+aVCarlos Boozer CLE 12/14/2002 CLE vs. DEN W 33 14 6 9 66.7 0 0 - 2 3 66.7 5 6 11 0 1 0 3 4 8
+p595
+aVSmush Parker CLE 12/14/2002 CLE vs. DEN W 17 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 7 1 0 1 4 -7
+p596
+aVTyrone Hill CLE 12/14/2002 CLE vs. DEN W 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 -5
+p597
+aVDarius Miles CLE 12/14/2002 CLE vs. DEN W 20 10 4 6 66.7 0 0 - 2 2 100.0 2 5 7 3 0 2 3 5 5
+p598
+aVRicky Davis CLE 12/13/2002 CLE @ BOS L 44 42 17 26 65.4 5 8 62.5 3 5 60.0 1 3 4 8 3 0 0 1 -9
+p599
+aVSmush Parker CLE 12/13/2002 CLE @ BOS L 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 2 0 0 2 1 -13
+p600
+aVJumaine Jones CLE 12/13/2002 CLE @ BOS L 15 3 1 7 14.3 1 6 16.7 0 0 - 2 3 5 2 2 0 0 2 -7
+p601
+aVDajuan Wagner CLE 12/13/2002 CLE @ BOS L 32 3 1 9 11.1 0 4 0.0 1 2 50.0 0 0 0 3 2 0 2 1 -9
+p602
+aVDeSagana Diop CLE 12/13/2002 CLE @ BOS L 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -15
+p603
+aVCarlos Boozer CLE 12/13/2002 CLE @ BOS L 33 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 0 2 4 -11
+p604
+aVZydrunas Ilgauskas CLE 12/13/2002 CLE @ BOS L 33 18 7 16 43.8 0 0 - 4 4 100.0 5 6 11 1 0 1 1 3 2
+p605
+aVMilt Palacio CLE 12/13/2002 CLE @ BOS L 33 13 5 12 41.7 0 0 - 3 4 75.0 3 7 10 4 3 0 2 2 -1
+p606
+aVTyrone Hill CLE 12/13/2002 CLE @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -8
+p607
+aVDarius Miles CLE 12/13/2002 CLE @ BOS L 24 13 5 13 38.5 0 1 0.0 3 10 30.0 1 5 6 2 1 1 4 1 -4
+p608
+aVRicky Davis CLE 12/11/2002 CLE vs. TOR W 43 22 8 16 50.0 1 1 100.0 5 8 62.5 0 4 4 5 0 1 4 1 11
+p609
+aVMichael Stewart CLE 12/11/2002 CLE vs. TOR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p610
+aVDeSagana Diop CLE 12/11/2002 CLE vs. TOR W 9 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 1 5
+p611
+aVCarlos Boozer CLE 12/11/2002 CLE vs. TOR W 21 12 4 8 50.0 0 0 - 4 7 57.1 1 4 5 2 1 1 0 3 7
+p612
+aVTyrone Hill CLE 12/11/2002 CLE vs. TOR W 33 9 4 6 66.7 0 0 - 1 2 50.0 4 7 11 0 1 0 1 4 5
+p613
+aVJumaine Jones CLE 12/11/2002 CLE vs. TOR W 12 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 2 2 6
+p614
+aVZydrunas Ilgauskas CLE 12/11/2002 CLE vs. TOR W 32 11 3 9 33.3 0 0 - 5 8 62.5 1 4 5 4 2 4 2 2 11
+p615
+aVMilt Palacio CLE 12/11/2002 CLE vs. TOR W 24 0 0 1 0.0 0 0 - 0 0 - 0 8 8 3 0 1 3 3 14
+p616
+aVDajuan Wagner CLE 12/11/2002 CLE vs. TOR W 38 33 12 24 50.0 4 8 50.0 5 5 100.0 1 0 1 2 1 1 1 1 10
+p617
+aVSmush Parker CLE 12/11/2002 CLE vs. TOR W 27 7 3 7 42.9 0 2 0.0 1 2 50.0 0 4 4 3 2 2 3 4 -2
+p618
+aVRicky Davis CLE 12/09/2002 CLE vs. MIL L 55 45 16 33 48.5 6 8 75.0 7 8 87.5 2 6 8 5 0 0 6 2 -5
+p619
+aVSmush Parker CLE 12/09/2002 CLE vs. MIL L 30 20 7 11 63.6 2 4 50.0 4 4 100.0 0 4 4 8 0 2 4 5 6
+p620
+aVJumaine Jones CLE 12/09/2002 CLE vs. MIL L 29 10 5 11 45.5 0 2 0.0 0 0 - 0 3 3 1 2 1 1 2 -6
+p621
+aVDajuan Wagner CLE 12/09/2002 CLE vs. MIL L 42 7 1 6 16.7 0 1 0.0 5 6 83.3 1 0 1 7 0 0 5 5 -6
+p622
+aVMilt Palacio CLE 12/09/2002 CLE vs. MIL L 28 6 3 5 60.0 0 0 - 0 0 - 0 0 0 4 0 0 2 3 -8
+p623
+aVDeSagana Diop CLE 12/09/2002 CLE vs. MIL L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 2 1 0 -6
+p624
+aVZydrunas Ilgauskas CLE 12/09/2002 CLE vs. MIL L 36 20 9 18 50.0 0 0 - 2 3 66.7 6 5 11 3 1 1 1 0 0
+p625
+aVTyrone Hill CLE 12/09/2002 CLE vs. MIL L 35 9 4 9 44.4 0 0 - 1 3 33.3 3 8 11 1 0 1 1 6 -18
+p626
+aVCarlos Boozer CLE 12/09/2002 CLE vs. MIL L 32 14 6 11 54.5 0 0 - 2 2 100.0 4 9 13 2 1 0 2 4 8
+p627
+aVRicky Davis CLE 12/07/2002 CLE @ CHI L 33 27 8 15 53.3 2 2 100.0 9 10 90.0 2 1 3 5 1 0 4 5 -6
+p628
+aVTyrone Hill CLE 12/07/2002 CLE @ CHI L 33 13 4 6 66.7 0 0 - 5 5 100.0 4 3 7 2 0 1 1 6 -11
+p629
+aVMilt Palacio CLE 12/07/2002 CLE @ CHI L 21 4 2 3 66.7 0 0 - 0 0 - 0 2 2 3 0 0 4 0 -4
+p630
+aVCarlos Boozer CLE 12/07/2002 CLE @ CHI L 22 1 0 0 - 0 0 - 1 2 50.0 1 3 4 2 3 0 1 3 1
+p631
+aVDajuan Wagner CLE 12/07/2002 CLE @ CHI L 38 18 6 17 35.3 0 2 0.0 6 7 85.7 0 0 0 7 0 0 2 2 -13
+p632
+aVZydrunas Ilgauskas CLE 12/07/2002 CLE @ CHI L 35 28 11 20 55.0 0 0 - 6 6 100.0 4 5 9 1 1 2 3 5 -3
+p633
+aVDeSagana Diop CLE 12/07/2002 CLE @ CHI L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p634
+aVSmush Parker CLE 12/07/2002 CLE @ CHI L 17 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 2 1 1
+p635
+aVJumaine Jones CLE 12/07/2002 CLE @ CHI L 37 7 2 7 28.6 1 4 25.0 2 4 50.0 0 5 5 0 1 0 3 1 2
+p636
+aVCarlos Boozer CLE 12/04/2002 CLE vs. CHI W 34 26 10 14 71.4 0 0 - 6 8 75.0 5 3 8 2 0 0 3 3 8
+p637
+aVTyrone Hill CLE 12/04/2002 CLE vs. CHI W 26 1 0 2 0.0 0 0 - 1 2 50.0 2 7 9 2 0 0 4 3 5
+p638
+aVRicky Davis CLE 12/04/2002 CLE vs. CHI W 42 26 8 18 44.4 0 0 - 10 13 76.9 0 8 8 3 2 0 1 3 11
+p639
+aVDajuan Wagner CLE 12/04/2002 CLE vs. CHI W 40 29 11 25 44.0 2 6 33.3 5 7 71.4 2 1 3 4 2 1 6 3 1
+p640
+aVDeSagana Diop CLE 12/04/2002 CLE vs. CHI W 16 6 3 6 50.0 0 0 - 0 0 - 4 2 6 1 0 1 1 0 9
+p641
+aVJumaine Jones CLE 12/04/2002 CLE vs. CHI W 20 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 4 0 0 2 2 12
+p642
+aVSmush Parker CLE 12/04/2002 CLE vs. CHI W 16 7 2 5 40.0 0 1 0.0 3 3 100.0 1 4 5 2 1 0 0 3 5
+p643
+aVZydrunas Ilgauskas CLE 12/04/2002 CLE vs. CHI W 19 8 4 12 33.3 0 0 - 0 0 - 5 2 7 0 0 3 1 5 -1
+p644
+aVMilt Palacio CLE 12/04/2002 CLE vs. CHI W 27 1 0 2 0.0 0 0 - 1 2 50.0 3 4 7 2 1 1 0 1 0
+p645
+aVBimbo Coles CLE 12/02/2002 CLE @ NYK L 8 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -15
+p646
+aVSmush Parker CLE 12/02/2002 CLE @ NYK L 21 8 3 8 37.5 0 3 0.0 2 2 100.0 0 0 0 3 2 0 1 1 -13
+p647
+aVCarlos Boozer CLE 12/02/2002 CLE @ NYK L 39 18 9 16 56.3 0 0 - 0 0 - 3 4 7 0 2 0 2 6 -21
+p648
+aVZydrunas Ilgauskas CLE 12/02/2002 CLE @ NYK L 25 11 3 12 25.0 0 0 - 5 6 83.3 0 2 2 1 1 0 1 2 -19
+p649
+aVJumaine Jones CLE 12/02/2002 CLE @ NYK L 45 19 7 20 35.0 4 10 40.0 1 2 50.0 3 8 11 2 1 0 0 1 -28
+p650
+aVDeSagana Diop CLE 12/02/2002 CLE @ NYK L 14 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 0 2 2 6 -12
+p651
+aVMichael Stewart CLE 12/02/2002 CLE @ NYK L 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 2 0 1 -12
+p652
+aVMilt Palacio CLE 12/02/2002 CLE @ NYK L 29 6 3 4 75.0 0 0 - 0 1 0.0 2 0 2 2 2 0 1 2 -17
+p653
+aVDajuan Wagner CLE 12/02/2002 CLE @ NYK L 46 25 8 22 36.4 0 3 0.0 9 10 90.0 1 1 2 10 1 0 5 4 -23
+p654
+aVSmush Parker CLE 11/30/2002 CLE @ MIA L 20 9 1 6 16.7 1 3 33.3 6 7 85.7 1 3 4 2 0 0 4 2 -5
+p655
+aVBimbo Coles CLE 11/30/2002 CLE @ MIA L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -2
+p656
+aVMichael Stewart CLE 11/30/2002 CLE @ MIA L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 0
+p657
+aVDajuan Wagner CLE 11/30/2002 CLE @ MIA L 44 28 8 19 42.1 4 5 80.0 8 11 72.7 1 1 2 2 2 0 3 4 0
+p658
+aVZydrunas Ilgauskas CLE 11/30/2002 CLE @ MIA L 34 7 3 11 27.3 0 0 - 1 3 33.3 3 5 8 1 3 0 4 4 -4
+p659
+aVDeSagana Diop CLE 11/30/2002 CLE @ MIA L 10 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 0 -1
+p660
+aVMilt Palacio CLE 11/30/2002 CLE @ MIA L 27 8 1 5 20.0 0 1 0.0 6 6 100.0 0 5 5 2 1 1 2 3 -3
+p661
+aVCarlos Boozer CLE 11/30/2002 CLE @ MIA L 41 15 6 13 46.2 0 0 - 3 6 50.0 3 8 11 2 1 2 3 2 -7
+p662
+aVJumaine Jones CLE 11/30/2002 CLE @ MIA L 41 10 3 8 37.5 0 0 - 4 6 66.7 0 4 4 1 1 1 3 4 -8
+p663
+aVSmush Parker CLE 11/29/2002 CLE vs. PHI L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 2 2 9
+p664
+aVMilt Palacio CLE 11/29/2002 CLE vs. PHI L 19 4 1 3 33.3 0 0 - 2 4 50.0 1 2 3 2 0 0 1 0 -13
+p665
+aVTyrone Hill CLE 11/29/2002 CLE vs. PHI L 24 11 5 7 71.4 0 0 - 1 1 100.0 1 8 9 1 2 1 1 4 -13
+p666
+aVRicky Davis CLE 11/29/2002 CLE vs. PHI L 28 8 3 9 33.3 0 0 - 2 2 100.0 1 2 3 6 0 0 3 2 -15
+p667
+aVJumaine Jones CLE 11/29/2002 CLE vs. PHI L 30 5 2 8 25.0 1 4 25.0 0 2 0.0 3 6 9 5 0 1 2 1 12
+p668
+aVDeSagana Diop CLE 11/29/2002 CLE vs. PHI L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 3 0 2 -1
+p669
+aVBimbo Coles CLE 11/29/2002 CLE vs. PHI L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -12
+p670
+aVZydrunas Ilgauskas CLE 11/29/2002 CLE vs. PHI L 33 21 8 17 47.1 0 0 - 5 9 55.6 5 4 9 0 1 2 2 1 -6
+p671
+aVDajuan Wagner CLE 11/29/2002 CLE vs. PHI L 42 29 11 26 42.3 3 7 42.9 4 5 80.0 1 2 3 5 1 0 3 4 -2
+p672
+aVCarlos Boozer CLE 11/29/2002 CLE vs. PHI L 24 15 6 8 75.0 0 0 - 3 4 75.0 4 7 11 1 3 3 3 1 6
+p673
+aVTyrone Hill CLE 11/27/2002 CLE @ MIL L 28 4 2 5 40.0 0 0 - 0 0 - 2 4 6 0 0 1 1 2 -15
+p674
+aVSmush Parker CLE 11/27/2002 CLE @ MIL L 12 3 1 7 14.3 1 1 100.0 0 0 - 2 0 2 3 0 0 0 0 -12
+p675
+aVJumaine Jones CLE 11/27/2002 CLE @ MIL L 30 17 8 13 61.5 1 3 33.3 0 0 - 4 6 10 2 3 0 0 0 -18
+p676
+aVMilt Palacio CLE 11/27/2002 CLE @ MIL L 21 2 1 6 16.7 0 0 - 0 0 - 0 3 3 5 2 1 1 3 -11
+p677
+aVBimbo Coles CLE 11/27/2002 CLE @ MIL L 15 3 1 4 25.0 0 1 0.0 1 2 50.0 1 2 3 2 0 0 1 1 -9
+p678
+aVDajuan Wagner CLE 11/27/2002 CLE @ MIL L 28 5 2 12 16.7 1 5 20.0 0 0 - 1 0 1 4 2 0 3 5 -21
+p679
+aVCarlos Boozer CLE 11/27/2002 CLE @ MIL L 23 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 1 0 2 2 -22
+p680
+aVMichael Stewart CLE 11/27/2002 CLE @ MIL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p681
+aVZydrunas Ilgauskas CLE 11/27/2002 CLE @ MIL L 25 19 5 12 41.7 0 0 - 9 11 81.8 3 4 7 0 0 2 4 2 -10
+p682
+aVDeSagana Diop CLE 11/27/2002 CLE @ MIL L 19 0 0 3 0.0 0 0 - 0 2 0.0 0 3 3 0 0 0 0 3 -17
+p683
+aVRicky Davis CLE 11/27/2002 CLE @ MIL L 35 23 9 21 42.9 0 0 - 5 5 100.0 4 2 6 3 1 0 2 1 -22
+p684
+aVCarlos Boozer CLE 11/26/2002 CLE vs. SAC L 14 2 1 5 20.0 0 0 - 0 2 0.0 3 1 4 1 1 1 0 3 -2
+p685
+aVJumaine Jones CLE 11/26/2002 CLE vs. SAC L 21 3 1 7 14.3 1 2 50.0 0 2 0.0 4 2 6 1 1 0 0 0 0
+p686
+aVBimbo Coles CLE 11/26/2002 CLE vs. SAC L 35 10 4 8 50.0 1 2 50.0 1 3 33.3 1 1 2 5 0 0 0 3 1
+p687
+aVTyrone Hill CLE 11/26/2002 CLE vs. SAC L 40 9 4 11 36.4 0 0 - 1 1 100.0 4 7 11 1 1 2 1 5 0
+p688
+aVMilt Palacio CLE 11/26/2002 CLE vs. SAC L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 0 4 -7
+p689
+aVDeSagana Diop CLE 11/26/2002 CLE vs. SAC L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 0
+p690
+aVDajuan Wagner CLE 11/26/2002 CLE vs. SAC L 33 17 4 10 40.0 2 5 40.0 7 9 77.8 0 2 2 3 3 0 1 6 -6
+p691
+aVRicky Davis CLE 11/26/2002 CLE vs. SAC L 42 22 9 24 37.5 0 1 0.0 4 6 66.7 1 4 5 4 2 0 4 1 -6
+p692
+aVZydrunas Ilgauskas CLE 11/26/2002 CLE vs. SAC L 36 16 4 13 30.8 0 0 - 8 11 72.7 4 7 11 0 2 2 4 4 -10
+p693
+aVSmush Parker CLE 11/23/2002 CLE vs. NOH L 13 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 0 3 4
+p694
+aVDeSagana Diop CLE 11/23/2002 CLE vs. NOH L 21 10 4 4 100.0 0 0 - 2 3 66.7 1 3 4 2 0 1 2 2 -9
+p695
+aVMilt Palacio CLE 11/23/2002 CLE vs. NOH L 34 8 3 7 42.9 0 0 - 2 2 100.0 0 6 6 4 1 0 2 3 -2
+p696
+aVCarlos Boozer CLE 11/23/2002 CLE vs. NOH L 34 15 7 11 63.6 0 0 - 1 3 33.3 3 7 10 0 2 2 0 2 -5
+p697
+aVRicky Davis CLE 11/23/2002 CLE vs. NOH L 39 24 10 20 50.0 0 1 0.0 4 5 80.0 0 3 3 3 2 0 4 2 -18
+p698
+aVJumaine Jones CLE 11/23/2002 CLE vs. NOH L 25 2 0 8 0.0 0 3 0.0 2 4 50.0 1 2 3 0 0 0 0 2 -10
+p699
+aVBimbo Coles CLE 11/23/2002 CLE vs. NOH L 37 3 0 3 0.0 0 1 0.0 3 3 100.0 0 3 3 3 1 1 0 3 -19
+p700
+aVZydrunas Ilgauskas CLE 11/23/2002 CLE vs. NOH L 33 17 5 15 33.3 0 0 - 7 8 87.5 1 4 5 2 0 5 2 1 -12
+p701
+aVMichael Stewart CLE 11/23/2002 CLE vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p702
+aVZydrunas Ilgauskas CLE 11/22/2002 CLE @ NJN L 31 13 4 13 30.8 0 0 - 5 6 83.3 0 5 5 1 0 1 2 3 -12
+p703
+aVSmush Parker CLE 11/22/2002 CLE @ NJN L 22 18 6 10 60.0 1 3 33.3 5 5 100.0 0 2 2 1 2 0 5 1 -17
+p704
+aVRicky Davis CLE 11/22/2002 CLE @ NJN L 34 10 4 12 33.3 0 0 - 2 2 100.0 1 3 4 7 2 0 7 2 -26
+p705
+aVMilt Palacio CLE 11/22/2002 CLE @ NJN L 31 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 4 1 0 2 3 -23
+p706
+aVJumaine Jones CLE 11/22/2002 CLE @ NJN L 35 12 5 12 41.7 2 4 50.0 0 0 - 2 4 6 3 1 0 5 4 -39
+p707
+aVCarlos Boozer CLE 11/22/2002 CLE @ NJN L 32 16 7 12 58.3 0 0 - 2 2 100.0 3 8 11 1 1 0 0 5 -32
+p708
+aVDeSagana Diop CLE 11/22/2002 CLE @ NJN L 22 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 1 5 5 -36
+p709
+aVMichael Stewart CLE 11/22/2002 CLE @ NJN L 6 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -3
+p710
+aVBimbo Coles CLE 11/22/2002 CLE @ NJN L 26 7 3 9 33.3 0 1 0.0 1 1 100.0 0 0 0 2 0 0 3 4 -17
+p711
+aVJumaine Jones CLE 11/19/2002 CLE @ HOU L 37 10 4 9 44.4 0 2 0.0 2 2 100.0 1 5 6 3 0 0 1 5 -9
+p712
+aVCarlos Boozer CLE 11/19/2002 CLE @ HOU L 12 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -4
+p713
+aVDeSagana Diop CLE 11/19/2002 CLE @ HOU L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -1
+p714
+aVTyrone Hill CLE 11/19/2002 CLE @ HOU L 40 10 3 5 60.0 0 0 - 4 4 100.0 2 4 6 1 0 0 0 5 -11
+p715
+aVBimbo Coles CLE 11/19/2002 CLE @ HOU L 34 5 2 5 40.0 1 1 100.0 0 1 0.0 0 1 1 6 1 0 0 3 -19
+p716
+aVMilt Palacio CLE 11/19/2002 CLE @ HOU L 35 6 3 10 30.0 0 1 0.0 0 0 - 0 1 1 5 0 0 0 1 -12
+p717
+aVZydrunas Ilgauskas CLE 11/19/2002 CLE @ HOU L 34 24 9 19 47.4 0 0 - 6 7 85.7 2 5 7 1 1 1 3 5 -14
+p718
+aVRicky Davis CLE 11/19/2002 CLE @ HOU L 42 19 7 21 33.3 0 0 - 5 9 55.6 0 3 3 1 1 0 4 4 -15
+p719
+aVJumaine Jones CLE 11/18/2002 CLE @ SAS L 43 11 4 12 33.3 0 3 0.0 3 6 50.0 1 5 6 0 1 0 2 1 -28
+p720
+aVSmush Parker CLE 11/18/2002 CLE @ SAS L 22 4 1 7 14.3 0 2 0.0 2 2 100.0 0 1 1 3 2 0 1 1 -15
+p721
+aVZydrunas Ilgauskas CLE 11/18/2002 CLE @ SAS L 33 25 7 15 46.7 0 0 - 11 12 91.7 4 4 8 3 1 1 2 3 -8
+p722
+aVBimbo Coles CLE 11/18/2002 CLE @ SAS L 34 12 5 11 45.5 0 0 - 2 2 100.0 1 6 7 5 0 0 1 3 -14
+p723
+aVCarlos Boozer CLE 11/18/2002 CLE @ SAS L 12 3 1 3 33.3 0 0 - 1 1 100.0 1 1 2 0 0 0 0 1 -12
+p724
+aVTyrone Hill CLE 11/18/2002 CLE @ SAS L 28 2 1 7 14.3 0 0 - 0 0 - 3 5 8 0 0 0 3 4 -9
+p725
+aVMichael Stewart CLE 11/18/2002 CLE @ SAS L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p726
+aVRicky Davis CLE 11/18/2002 CLE @ SAS L 41 19 7 14 50.0 0 0 - 5 8 62.5 2 1 3 4 0 2 6 4 -20
+p727
+aVDeSagana Diop CLE 11/18/2002 CLE @ SAS L 19 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -18
+p728
+aVCarlos Boozer CLE 11/16/2002 CLE vs. SAS L 14 10 5 6 83.3 0 0 - 0 0 - 1 1 2 2 1 2 2 2 -1
+p729
+aVDeSagana Diop CLE 11/16/2002 CLE vs. SAS L 21 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 1 1 2 1 3 2
+p730
+aVSmush Parker CLE 11/16/2002 CLE vs. SAS L 17 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 2 1 0 1 2 -9
+p731
+aVJumaine Jones CLE 11/16/2002 CLE vs. SAS L 36 11 5 8 62.5 1 2 50.0 0 0 - 3 7 10 2 2 0 0 4 -12
+p732
+aVMilt Palacio CLE 11/16/2002 CLE vs. SAS L 27 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 3 0 3 2 -8
+p733
+aVMichael Stewart CLE 11/16/2002 CLE vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p734
+aVZydrunas Ilgauskas CLE 11/16/2002 CLE vs. SAS L 29 4 2 12 16.7 0 0 - 0 0 - 1 3 4 2 0 1 2 3 -16
+p735
+aVRicky Davis CLE 11/16/2002 CLE vs. SAS L 38 22 11 26 42.3 0 1 0.0 0 1 0.0 3 2 5 4 1 0 7 2 -14
+p736
+aVTyrone Hill CLE 11/16/2002 CLE vs. SAS L 30 11 3 12 25.0 0 0 - 5 6 83.3 2 10 12 2 1 2 2 2 -9
+p737
+aVBimbo Coles CLE 11/16/2002 CLE vs. SAS L 25 6 1 3 33.3 1 1 100.0 3 3 100.0 0 4 4 5 1 0 0 1 -3
+p738
+aVCarlos Boozer CLE 11/13/2002 CLE vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p739
+aVRicky Davis CLE 11/13/2002 CLE vs. DAL L 34 19 9 23 39.1 0 1 0.0 1 2 50.0 0 6 6 4 2 0 2 4 -20
+p740
+aVMilt Palacio CLE 11/13/2002 CLE vs. DAL L 19 7 1 3 33.3 1 2 50.0 4 4 100.0 0 0 0 4 0 0 3 5 -13
+p741
+aVDeSagana Diop CLE 11/13/2002 CLE vs. DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p742
+aVDarius Miles CLE 11/13/2002 CLE vs. DAL L 37 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 5 0 2 0 3 -5
+p743
+aVBimbo Coles CLE 11/13/2002 CLE vs. DAL L 29 1 0 8 0.0 0 3 0.0 1 2 50.0 2 2 4 3 1 2 1 3 9
+p744
+aVZydrunas Ilgauskas CLE 11/13/2002 CLE vs. DAL L 39 34 11 24 45.8 0 0 - 12 16 75.0 7 7 14 3 1 3 4 2 11
+p745
+aVTyrone Hill CLE 11/13/2002 CLE vs. DAL L 30 6 3 6 50.0 0 0 - 0 2 0.0 1 5 6 3 1 0 1 5 11
+p746
+aVJumaine Jones CLE 11/13/2002 CLE vs. DAL L 48 23 9 13 69.2 3 5 60.0 2 2 100.0 1 6 7 5 1 0 0 1 -4
+p747
+aVTyrone Hill CLE 11/12/2002 CLE @ IND L 24 6 2 7 28.6 0 0 - 2 3 66.7 2 2 4 1 1 0 1 4 -15
+p748
+aVJumaine Jones CLE 11/12/2002 CLE @ IND L 35 9 4 13 30.8 0 2 0.0 1 2 50.0 4 7 11 1 2 0 4 2 -12
+p749
+aVDeSagana Diop CLE 11/12/2002 CLE @ IND L 22 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 1 3 0 1 -5
+p750
+aVZydrunas Ilgauskas CLE 11/12/2002 CLE @ IND L 33 17 5 17 29.4 0 0 - 7 8 87.5 2 5 7 6 1 1 1 2 -15
+p751
+aVBimbo Coles CLE 11/12/2002 CLE @ IND L 28 6 1 8 12.5 0 1 0.0 4 5 80.0 1 4 5 1 0 0 1 1 -9
+p752
+aVCarlos Boozer CLE 11/12/2002 CLE @ IND L 17 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 0 2 0 2 3 -5
+p753
+aVMilt Palacio CLE 11/12/2002 CLE @ IND L 30 6 3 8 37.5 0 0 - 0 0 - 0 2 2 5 5 0 0 2 -12
+p754
+aVDarius Miles CLE 11/12/2002 CLE @ IND L 42 19 7 17 41.2 0 1 0.0 5 9 55.6 2 1 3 0 1 0 2 1 -19
+p755
+aVRicky Davis CLE 11/12/2002 CLE @ IND L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -3
+p756
+aVSmush Parker CLE 11/12/2002 CLE @ IND L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -5
+p757
+aVSmush Parker CLE 11/09/2002 CLE vs. WAS L 12 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 0 0 0 2 3 -9
+p758
+aVJumaine Jones CLE 11/09/2002 CLE vs. WAS L 20 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -12
+p759
+aVDarius Miles CLE 11/09/2002 CLE vs. WAS L 37 12 6 13 46.2 0 0 - 0 1 0.0 2 3 5 2 1 2 6 6 -6
+p760
+aVBimbo Coles CLE 11/09/2002 CLE vs. WAS L 37 6 2 9 22.2 1 2 50.0 1 1 100.0 1 2 3 6 1 0 2 3 -9
+p761
+aVMichael Stewart CLE 11/09/2002 CLE vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p762
+aVTyrone Hill CLE 11/09/2002 CLE vs. WAS L 41 12 6 8 75.0 0 0 - 0 0 - 5 11 16 2 2 3 4 6 -7
+p763
+aVMilt Palacio CLE 11/09/2002 CLE vs. WAS L 19 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 2 1 1 0 1 -8
+p764
+aVRicky Davis CLE 11/09/2002 CLE vs. WAS L 38 19 7 23 30.4 0 0 - 5 6 83.3 0 2 2 5 1 1 2 3 -15
+p765
+aVZydrunas Ilgauskas CLE 11/09/2002 CLE vs. WAS L 34 19 4 16 25.0 0 0 - 11 12 91.7 5 7 12 3 0 2 1 3 0
+p766
+aVTyrone Hill CLE 11/08/2002 CLE @ PHI L 34 6 2 5 40.0 0 0 - 2 2 100.0 3 10 13 1 2 0 1 4 -20
+p767
+aVDarius Miles CLE 11/08/2002 CLE @ PHI L 37 7 2 12 16.7 0 1 0.0 3 4 75.0 0 4 4 6 4 4 5 1 -20
+p768
+aVJumaine Jones CLE 11/08/2002 CLE @ PHI L 26 10 5 9 55.6 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -15
+p769
+aVZydrunas Ilgauskas CLE 11/08/2002 CLE @ PHI L 27 20 6 13 46.2 0 0 - 8 12 66.7 4 3 7 2 1 1 3 2 -12
+p770
+aVMilt Palacio CLE 11/08/2002 CLE @ PHI L 28 0 0 4 0.0 0 0 - 0 0 - 1 4 5 4 1 2 2 4 -15
+p771
+aVRicky Davis CLE 11/08/2002 CLE @ PHI L 36 31 14 24 58.3 0 0 - 3 3 100.0 1 2 3 3 2 0 3 1 -16
+p772
+aVMichael Stewart CLE 11/08/2002 CLE @ PHI L 14 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 1 1 2 -5
+p773
+aVDeSagana Diop CLE 11/08/2002 CLE @ PHI L 9 0 0 0 - 0 0 - 0 2 0.0 0 4 4 0 0 4 0 2 -2
+p774
+aVSmush Parker CLE 11/08/2002 CLE @ PHI L 23 8 4 8 50.0 0 2 0.0 0 1 0.0 0 2 2 1 1 0 6 3 -13
+p775
+aVCarlos Boozer CLE 11/08/2002 CLE @ PHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p776
+aVRicky Davis CLE 11/06/2002 CLE @ WAS L 42 27 8 17 47.1 1 1 100.0 10 15 66.7 0 3 3 2 5 1 3 5 -8
+p777
+aVCarlos Boozer CLE 11/06/2002 CLE @ WAS L 6 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 9
+p778
+aVMilt Palacio CLE 11/06/2002 CLE @ WAS L 28 9 4 6 66.7 0 0 - 1 1 100.0 0 1 1 2 0 1 1 5 -23
+p779
+aVBimbo Coles CLE 11/06/2002 CLE @ WAS L 21 7 3 8 37.5 0 2 0.0 1 1 100.0 0 1 1 2 0 0 0 1 9
+p780
+aVTyrone Hill CLE 11/06/2002 CLE @ WAS L 36 10 5 11 45.5 0 0 - 0 0 - 4 5 9 2 1 0 3 4 -17
+p781
+aVSmush Parker CLE 11/06/2002 CLE @ WAS L 9 11 4 4 100.0 1 1 100.0 2 3 66.7 0 0 0 4 3 0 1 1 7
+p782
+aVDeSagana Diop CLE 11/06/2002 CLE @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 9
+p783
+aVDarius Miles CLE 11/06/2002 CLE @ WAS L 32 10 5 11 45.5 0 0 - 0 0 - 6 4 10 4 2 0 4 6 -27
+p784
+aVJumaine Jones CLE 11/06/2002 CLE @ WAS L 32 18 9 16 56.3 0 0 - 0 0 - 1 2 3 2 1 1 2 5 16
+p785
+aVZydrunas Ilgauskas CLE 11/06/2002 CLE @ WAS L 28 6 3 14 21.4 0 1 0.0 0 0 - 2 3 5 2 0 1 6 4 -12
+p786
+aVMichael Stewart CLE 11/06/2002 CLE @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p787
+aVCarlos Boozer CLE 11/05/2002 CLE vs. LAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -6
+p788
+aVJumaine Jones CLE 11/05/2002 CLE vs. LAL W 23 2 1 6 16.7 0 1 0.0 0 0 - 2 5 7 1 2 0 1 1 16
+p789
+aVMilt Palacio CLE 11/05/2002 CLE vs. LAL W 23 10 4 7 57.1 0 0 - 2 2 100.0 2 0 2 3 0 0 3 3 12
+p790
+aVRicky Davis CLE 11/05/2002 CLE vs. LAL W 38 24 8 18 44.4 0 1 0.0 8 11 72.7 1 0 1 3 3 1 1 1 20
+p791
+aVTyrone Hill CLE 11/05/2002 CLE vs. LAL W 36 10 5 10 50.0 0 0 - 0 0 - 2 15 17 2 2 2 1 3 25
+p792
+aVDarius Miles CLE 11/05/2002 CLE vs. LAL W 40 13 6 11 54.5 0 0 - 1 5 20.0 1 5 6 4 2 2 0 3 7
+p793
+aVSmush Parker CLE 11/05/2002 CLE vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -2
+p794
+aVDeSagana Diop CLE 11/05/2002 CLE vs. LAL W 7 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -2
+p795
+aVMichael Stewart CLE 11/05/2002 CLE vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p796
+aVBimbo Coles CLE 11/05/2002 CLE vs. LAL W 24 7 2 5 40.0 2 4 50.0 1 1 100.0 0 3 3 2 0 0 1 2 10
+p797
+aVZydrunas Ilgauskas CLE 11/05/2002 CLE vs. LAL W 31 23 10 20 50.0 0 0 - 3 6 50.0 2 6 8 5 1 4 5 0 16
+p798
+aVZydrunas Ilgauskas CLE 11/01/2002 CLE @ PHX L 41 17 6 22 27.3 0 0 - 5 8 62.5 6 16 22 1 0 2 3 2 3
+p799
+aVTyrone Hill CLE 11/01/2002 CLE @ PHX L 36 13 6 10 60.0 0 0 - 1 2 50.0 3 8 11 2 3 1 4 6 0
+p800
+aVRicky Davis CLE 11/01/2002 CLE @ PHX L 45 21 5 14 35.7 0 2 0.0 11 13 84.6 0 5 5 2 2 0 4 3 -6
+p801
+aVDeSagana Diop CLE 11/01/2002 CLE @ PHX L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 1 0 1 -5
+p802
+aVMichael Stewart CLE 11/01/2002 CLE @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p803
+aVCarlos Boozer CLE 11/01/2002 CLE @ PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p804
+aVBimbo Coles CLE 11/01/2002 CLE @ PHX L 30 5 1 3 33.3 0 0 - 3 3 100.0 0 1 1 1 0 0 1 5 3
+p805
+aVJumaine Jones CLE 11/01/2002 CLE @ PHX L 23 6 3 8 37.5 0 0 - 0 0 - 1 3 4 1 0 2 1 6 -7
+p806
+aVMilt Palacio CLE 11/01/2002 CLE @ PHX L 15 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 3 0 0 1 2 -4
+p807
+aVDarius Miles CLE 11/01/2002 CLE @ PHX L 42 12 6 18 33.3 0 0 - 0 0 - 4 7 11 2 3 1 6 1 4
+p808
+aVRicky Davis CLE 10/30/2002 CLE @ LAC W 41 25 9 19 47.4 0 0 - 7 10 70.0 4 3 7 8 3 0 1 2 4
+p809
+aVDarius Miles CLE 10/30/2002 CLE @ LAC W 39 15 5 11 45.5 0 0 - 5 8 62.5 2 3 5 3 2 1 1 4 9
+p810
+aVBimbo Coles CLE 10/30/2002 CLE @ LAC W 31 7 3 9 33.3 0 0 - 1 1 100.0 0 1 1 5 1 0 1 3 2
+p811
+aVTyrone Hill CLE 10/30/2002 CLE @ LAC W 42 17 7 13 53.8 0 0 - 3 4 75.0 3 10 13 1 0 0 5 2 -3
+p812
+aVMilt Palacio CLE 10/30/2002 CLE @ LAC W 19 5 2 6 33.3 0 1 0.0 1 4 25.0 2 3 5 3 1 1 0 0 -2
+p813
+aVCarlos Boozer CLE 10/30/2002 CLE @ LAC W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p814
+aVZydrunas Ilgauskas CLE 10/30/2002 CLE @ LAC W 37 19 6 17 35.3 0 0 - 7 8 87.5 4 5 9 0 1 1 0 4 -1
+p815
+aVSmush Parker CLE 10/30/2002 CLE @ LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p816
+aVMichael Stewart CLE 10/30/2002 CLE @ LAC W 5 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 0 0 1 2 -1
+p817
+aVDeSagana Diop CLE 10/30/2002 CLE @ LAC W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 2 0 0 7
+p818
+aVJumaine Jones CLE 10/30/2002 CLE @ LAC W 19 6 3 8 37.5 0 0 - 0 0 - 1 0 1 1 2 0 1 0 -2
+p819
+aVDarius Miles CLE 10/29/2002 CLE @ SAC L 33 13 6 22 27.3 0 0 - 1 4 25.0 6 4 10 2 0 1 2 3 -19
+p820
+aVRicky Davis CLE 10/29/2002 CLE @ SAC L 42 17 6 17 35.3 0 0 - 5 8 62.5 1 3 4 3 0 0 4 0 -21
+p821
+aVSmush Parker CLE 10/29/2002 CLE @ SAC L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 0 0 -3
+p822
+aVTyrone Hill CLE 10/29/2002 CLE @ SAC L 30 10 3 11 27.3 0 0 - 4 4 100.0 3 8 11 0 1 1 2 4 -5
+p823
+aVMichael Stewart CLE 10/29/2002 CLE @ SAC L 17 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 1 3 -22
+p824
+aVMilt Palacio CLE 10/29/2002 CLE @ SAC L 17 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 1 3 0 3 2 -20
+p825
+aVBimbo Coles CLE 10/29/2002 CLE @ SAC L 29 6 2 10 20.0 1 3 33.3 1 2 50.0 1 3 4 3 2 0 2 3 -8
+p826
+aVCarlos Boozer CLE 10/29/2002 CLE @ SAC L 12 4 2 6 33.3 0 0 - 0 0 - 3 0 3 0 1 0 1 1 -16
+p827
+aVJumaine Jones CLE 10/29/2002 CLE @ SAC L 32 12 6 8 75.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 -19
+p828
+aVDeSagana Diop CLE 10/29/2002 CLE @ SAC L 20 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 3 3 2 -2
+p829
+a.

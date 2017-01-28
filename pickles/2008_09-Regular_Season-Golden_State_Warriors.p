@@ -1,0 +1,1550 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAnthony Morrow GSW 04/15/2009 GSW @ PHX L 44 33 13 22 59.1 3 5 60.0 4 4 100.0 6 6 12 3 0 0 2 2 4
+p2
+aVRob Kurz GSW 04/15/2009 GSW @ PHX L 19 11 3 8 37.5 0 2 0.0 5 5 100.0 3 3 6 0 0 1 0 3 -7
+p3
+aVRonny Turiaf GSW 04/15/2009 GSW @ PHX L 18 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 1 0 3 4 -1
+p4
+aVAndris Biedrins GSW 04/15/2009 GSW @ PHX L 33 9 3 3 100.0 0 0 - 3 6 50.0 4 6 10 2 0 2 2 5 -10
+p5
+aVKelenna Azubuike GSW 04/15/2009 GSW @ PHX L 47 18 8 21 38.1 2 4 50.0 0 0 - 3 2 5 1 1 4 1 3 -3
+p6
+aVCJ Watson GSW 04/15/2009 GSW @ PHX L 45 20 6 17 35.3 0 5 0.0 8 9 88.9 1 6 7 12 3 1 3 4 0
+p7
+aVAnthony Randolph GSW 04/15/2009 GSW @ PHX L 35 14 6 15 40.0 0 1 0.0 2 4 50.0 3 5 8 2 0 0 1 4 -3
+p8
+aVAndris Biedrins GSW 04/13/2009 GSW vs. SAS L 21 0 0 3 0.0 0 0 - 0 0 - 1 6 7 1 0 2 0 6 -24
+p9
+aVAnthony Morrow GSW 04/13/2009 GSW vs. SAS L 44 10 3 10 30.0 0 3 0.0 4 4 100.0 2 6 8 3 1 1 2 3 -25
+p10
+aVCJ Watson GSW 04/13/2009 GSW vs. SAS L 44 18 7 15 46.7 0 1 0.0 4 7 57.1 0 5 5 1 0 1 0 3 -32
+p11
+aVKelenna Azubuike GSW 04/13/2009 GSW vs. SAS L 42 9 4 21 19.0 0 3 0.0 1 1 100.0 2 2 4 1 0 0 4 2 -16
+p12
+aVRob Kurz GSW 04/13/2009 GSW vs. SAS L 21 9 3 8 37.5 2 3 66.7 1 2 50.0 0 1 1 0 1 1 1 2 -2
+p13
+aVRonny Turiaf GSW 04/13/2009 GSW vs. SAS L 23 2 1 7 14.3 0 0 - 0 0 - 2 0 2 1 0 2 1 3 -21
+p14
+aVAnthony Randolph GSW 04/13/2009 GSW vs. SAS L 45 24 10 18 55.6 0 0 - 4 5 80.0 2 14 16 4 4 1 2 2 -25
+p15
+aVKelenna Azubuike GSW 04/11/2009 GSW @ UTA W 39 18 7 16 43.8 2 5 40.0 2 2 100.0 0 4 4 1 1 2 2 5 11
+p16
+aVRob Kurz GSW 04/11/2009 GSW @ UTA W 38 21 8 14 57.1 4 7 57.1 1 2 50.0 0 5 5 3 1 0 2 4 11
+p17
+aVAnthony Morrow GSW 04/11/2009 GSW @ UTA W 35 13 4 6 66.7 1 2 50.0 4 6 66.7 1 1 2 2 0 0 0 5 4
+p18
+aVAnthony Randolph GSW 04/11/2009 GSW @ UTA W 29 11 3 5 60.0 0 1 0.0 5 6 83.3 2 6 8 2 1 0 1 4 12
+p19
+aVRonny Turiaf GSW 04/11/2009 GSW @ UTA W 29 9 4 11 36.4 0 1 0.0 1 2 50.0 0 5 5 4 0 5 2 0 10
+p20
+aVCJ Watson GSW 04/11/2009 GSW @ UTA W 39 38 10 16 62.5 2 4 50.0 16 16 100.0 1 6 7 9 1 0 4 4 2
+p21
+aVAndris Biedrins GSW 04/11/2009 GSW @ UTA W 32 8 4 5 80.0 0 0 - 0 3 0.0 2 7 9 1 0 2 3 4 0
+p22
+aVRonny Turiaf GSW 04/10/2009 GSW vs. HOU L 28 18 7 12 58.3 0 0 - 4 5 80.0 1 2 3 2 1 2 0 2 -4
+p23
+aVKelenna Azubuike GSW 04/10/2009 GSW vs. HOU L 48 32 9 18 50.0 3 5 60.0 11 12 91.7 1 2 3 3 0 0 4 3 -4
+p24
+aVAnthony Morrow GSW 04/10/2009 GSW vs. HOU L 46 16 4 14 28.6 2 5 40.0 6 6 100.0 5 1 6 3 3 2 1 5 0
+p25
+aVRob Kurz GSW 04/10/2009 GSW vs. HOU L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 1 0 0 1 -2
+p26
+aVCJ Watson GSW 04/10/2009 GSW vs. HOU L 48 18 6 15 40.0 0 2 0.0 6 6 100.0 0 3 3 9 3 0 0 6 -4
+p27
+aVAndris Biedrins GSW 04/10/2009 GSW vs. HOU L 29 5 2 5 40.0 0 0 - 1 3 33.3 2 5 7 2 0 3 1 4 3
+p28
+aVAnthony Randolph GSW 04/10/2009 GSW vs. HOU L 33 17 7 15 46.7 0 0 - 3 4 75.0 3 1 4 2 1 0 2 4 -9
+p29
+aVKelenna Azubuike GSW 04/08/2009 GSW vs. MIN L 44 26 11 19 57.9 2 3 66.7 2 4 50.0 3 5 8 3 0 0 0 4 -2
+p30
+aVRonny Turiaf GSW 04/08/2009 GSW vs. MIN L 28 2 1 4 25.0 0 0 - 0 0 - 2 4 6 6 0 1 0 5 2
+p31
+aVAndris Biedrins GSW 04/08/2009 GSW vs. MIN L 26 9 4 4 100.0 0 0 - 1 2 50.0 0 6 6 2 0 0 4 3 -9
+p32
+aVAnthony Morrow GSW 04/08/2009 GSW vs. MIN L 35 6 2 11 18.2 0 5 0.0 2 2 100.0 0 2 2 3 1 0 2 3 -8
+p33
+aVRob Kurz GSW 04/08/2009 GSW vs. MIN L 7 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 1 0 0 1 -3
+p34
+aVCJ Watson GSW 04/08/2009 GSW vs. MIN L 29 10 4 10 40.0 1 2 50.0 1 1 100.0 0 3 3 3 0 0 2 1 -7
+p35
+aVJamal Crawford GSW 04/08/2009 GSW vs. MIN L 43 31 10 23 43.5 5 11 45.5 6 6 100.0 0 3 3 3 0 1 2 1 -4
+p36
+aVAnthony Randolph GSW 04/08/2009 GSW vs. MIN L 28 10 5 13 38.5 0 0 - 0 0 - 3 8 11 2 1 3 1 3 -9
+p37
+aVKelenna Azubuike GSW 04/05/2009 GSW @ SAC W 48 30 8 22 36.4 2 4 50.0 12 14 85.7 5 10 15 2 1 0 2 4 5
+p38
+aVJamal Crawford GSW 04/05/2009 GSW @ SAC W 48 20 5 21 23.8 3 7 42.9 7 9 77.8 1 7 8 4 0 0 1 2 5
+p39
+aVCJ Watson GSW 04/05/2009 GSW @ SAC W 34 18 6 10 60.0 0 1 0.0 6 6 100.0 1 4 5 6 3 0 5 3 12
+p40
+aVRob Kurz GSW 04/05/2009 GSW @ SAC W 8 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 0 2 0 2 0
+p41
+aVAnthony Morrow GSW 04/05/2009 GSW @ SAC W 45 18 7 14 50.0 4 8 50.0 0 0 - 0 2 2 2 1 0 3 5 6
+p42
+aVAnthony Randolph GSW 04/05/2009 GSW @ SAC W 30 8 4 14 28.6 0 0 - 0 0 - 4 9 13 0 4 2 0 4 1
+p43
+aVRonny Turiaf GSW 04/05/2009 GSW @ SAC W 27 7 3 7 42.9 0 0 - 1 1 100.0 2 2 4 1 0 3 1 3 -4
+p44
+aVAnthony Morrow GSW 04/03/2009 GSW vs. NOH W 43 24 8 13 61.5 5 9 55.6 3 4 75.0 2 3 5 3 1 0 3 3 12
+p45
+aVRonny Turiaf GSW 04/03/2009 GSW vs. NOH W 33 7 3 5 60.0 0 0 - 1 2 50.0 1 10 11 6 1 2 2 3 6
+p46
+aVAnthony Randolph GSW 04/03/2009 GSW vs. NOH W 39 20 8 17 47.1 0 0 - 4 4 100.0 4 11 15 0 0 1 1 4 14
+p47
+aVJamal Crawford GSW 04/03/2009 GSW vs. NOH W 45 39 11 21 52.4 4 10 40.0 13 14 92.9 0 4 4 5 1 0 4 2 15
+p48
+aVRob Kurz GSW 04/03/2009 GSW vs. NOH W 19 4 2 4 50.0 0 2 0.0 0 2 0.0 1 2 3 0 0 0 0 3 -2
+p49
+aVKelenna Azubuike GSW 04/03/2009 GSW vs. NOH W 38 6 1 11 9.1 0 3 0.0 4 4 100.0 1 1 2 3 0 2 2 1 -4
+p50
+aVCJ Watson GSW 04/03/2009 GSW vs. NOH W 23 11 3 6 50.0 1 2 50.0 4 4 100.0 0 2 2 2 0 0 0 4 -1
+p51
+aVJamal Crawford GSW 04/01/2009 GSW vs. SAC W 41 15 4 11 36.4 1 4 25.0 6 10 60.0 1 2 3 7 3 0 2 5 9
+p52
+aVKelenna Azubuike GSW 04/01/2009 GSW vs. SAC W 47 27 12 22 54.5 1 3 33.3 2 4 50.0 2 11 13 3 1 1 0 2 -2
+p53
+aVCJ Watson GSW 04/01/2009 GSW vs. SAC W 34 7 3 6 50.0 0 0 - 1 2 50.0 1 0 1 1 1 0 0 5 10
+p54
+aVCorey Maggette GSW 04/01/2009 GSW vs. SAC W 4 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -5
+p55
+aVRonny Turiaf GSW 04/01/2009 GSW vs. SAC W 32 12 3 4 75.0 0 0 - 6 7 85.7 1 12 13 2 0 2 2 3 -1
+p56
+aVRob Kurz GSW 04/01/2009 GSW vs. SAC W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 0
+p57
+aVAnthony Randolph GSW 04/01/2009 GSW vs. SAC W 19 17 7 9 77.8 0 0 - 3 3 100.0 5 5 10 1 1 0 2 5 -4
+p58
+aVAnthony Morrow GSW 04/01/2009 GSW vs. SAC W 33 15 6 10 60.0 1 5 20.0 2 2 100.0 0 2 2 1 0 1 3 5 -1
+p59
+aVMonta Ellis GSW 04/01/2009 GSW vs. SAC W 49 42 16 35 45.7 0 1 0.0 10 12 83.3 1 8 9 9 2 1 4 3 4
+p60
+aVCJ Watson GSW 03/30/2009 GSW vs. MEM L 11 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 1 4 -5
+p61
+aVAnthony Morrow GSW 03/30/2009 GSW vs. MEM L 35 10 4 10 40.0 2 5 40.0 0 0 - 1 2 3 2 1 0 1 5 -16
+p62
+aVJamal Crawford GSW 03/30/2009 GSW vs. MEM L 40 26 8 22 36.4 5 14 35.7 5 5 100.0 0 5 5 4 3 2 0 1 3
+p63
+aVMonta Ellis GSW 03/30/2009 GSW vs. MEM L 43 29 12 29 41.4 0 2 0.0 5 5 100.0 1 2 3 5 1 0 5 1 -10
+p64
+aVRonny Turiaf GSW 03/30/2009 GSW vs. MEM L 29 8 4 10 40.0 0 0 - 0 0 - 4 5 9 2 1 2 1 6 -8
+p65
+aVAnthony Randolph GSW 03/30/2009 GSW vs. MEM L 38 8 3 4 75.0 0 0 - 2 2 100.0 3 9 12 2 0 3 2 4 10
+p66
+aVRob Kurz GSW 03/30/2009 GSW vs. MEM L 12 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 3 5
+p67
+aVKelenna Azubuike GSW 03/30/2009 GSW vs. MEM L 32 14 4 8 50.0 0 2 0.0 6 6 100.0 1 3 4 0 0 1 3 5 -4
+p68
+aVRob Kurz GSW 03/28/2009 GSW @ DEN L 13 3 0 2 0.0 0 0 - 3 4 75.0 3 3 6 0 0 0 1 4 -12
+p69
+aVMonta Ellis GSW 03/28/2009 GSW @ DEN L 36 17 6 19 31.6 1 2 50.0 4 4 100.0 1 6 7 4 1 0 1 0 -21
+p70
+aVAnthony Randolph GSW 03/28/2009 GSW @ DEN L 30 10 4 11 36.4 0 0 - 2 2 100.0 8 6 14 2 3 4 3 3 -12
+p71
+aVAnthony Morrow GSW 03/28/2009 GSW @ DEN L 36 18 7 14 50.0 4 8 50.0 0 0 - 0 1 1 1 0 0 2 4 -12
+p72
+aVRonny Turiaf GSW 03/28/2009 GSW @ DEN L 20 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 1 2 0 4 -5
+p73
+aVCJ Watson GSW 03/28/2009 GSW @ DEN L 27 13 5 13 38.5 1 4 25.0 2 2 100.0 3 4 7 4 2 0 1 1 5
+p74
+aVKelenna Azubuike GSW 03/28/2009 GSW @ DEN L 36 21 8 17 47.1 3 7 42.9 2 2 100.0 3 6 9 3 1 0 4 2 1
+p75
+aVJamal Crawford GSW 03/28/2009 GSW @ DEN L 42 30 10 21 47.6 5 11 45.5 5 6 83.3 1 4 5 5 0 0 5 3 -9
+p76
+aVRonny Turiaf GSW 03/25/2009 GSW @ DAL L 19 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 4 0 0 0 1 -4
+p77
+aVKelenna Azubuike GSW 03/25/2009 GSW @ DAL L 37 11 4 11 36.4 1 2 50.0 2 2 100.0 2 1 3 2 1 1 1 3 -24
+p78
+aVBrandan Wright GSW 03/25/2009 GSW @ DAL L 19 8 3 8 37.5 0 0 - 2 3 66.7 1 2 3 0 1 0 1 3 -17
+p79
+aVAnthony Randolph GSW 03/25/2009 GSW @ DAL L 31 10 4 8 50.0 0 0 - 2 6 33.3 1 5 6 1 2 0 1 3 -11
+p80
+aVRob Kurz GSW 03/25/2009 GSW @ DAL L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 1 0 0 -1
+p81
+aVMonta Ellis GSW 03/25/2009 GSW @ DAL L 33 22 8 19 42.1 0 0 - 6 6 100.0 0 4 4 5 5 0 4 1 -10
+p82
+aVStephen Jackson GSW 03/25/2009 GSW @ DAL L 28 12 5 10 50.0 2 4 50.0 0 0 - 1 2 3 5 0 0 4 4 -13
+p83
+aVCJ Watson GSW 03/25/2009 GSW @ DAL L 30 10 3 8 37.5 1 3 33.3 3 3 100.0 0 0 0 3 2 0 0 4 -17
+p84
+aVAnthony Morrow GSW 03/25/2009 GSW @ DAL L 36 29 10 11 90.9 3 4 75.0 6 7 85.7 1 1 2 1 0 0 3 5 -13
+p85
+aVKelenna Azubuike GSW 03/24/2009 GSW @ SAS L 38 13 6 10 60.0 1 3 33.3 0 0 - 1 1 2 1 0 0 0 0 -7
+p86
+aVAnthony Morrow GSW 03/24/2009 GSW @ SAS L 16 6 2 4 50.0 2 2 100.0 0 0 - 0 2 2 2 0 0 0 0 10
+p87
+aVBrandan Wright GSW 03/24/2009 GSW @ SAS L 18 10 4 8 50.0 0 0 - 2 2 100.0 3 0 3 2 1 0 1 4 -12
+p88
+aVCJ Watson GSW 03/24/2009 GSW @ SAS L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 5
+p89
+aVMonta Ellis GSW 03/24/2009 GSW @ SAS L 40 27 12 26 46.2 1 2 50.0 2 3 66.7 1 4 5 3 1 0 0 4 -6
+p90
+aVCorey Maggette GSW 03/24/2009 GSW @ SAS L 22 6 1 8 12.5 0 1 0.0 4 6 66.7 0 3 3 0 0 0 2 3 1
+p91
+aVRonny Turiaf GSW 03/24/2009 GSW @ SAS L 26 8 4 5 80.0 0 0 - 0 0 - 3 4 7 3 1 0 1 6 -12
+p92
+aVRob Kurz GSW 03/24/2009 GSW @ SAS L 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 4
+p93
+aVStephen Jackson GSW 03/24/2009 GSW @ SAS L 43 18 7 17 41.2 1 3 33.3 3 3 100.0 1 7 8 4 1 0 5 2 1
+p94
+aVAnthony Randolph GSW 03/24/2009 GSW @ SAS L 25 13 5 12 41.7 0 0 - 3 4 75.0 4 5 9 2 0 5 0 1 11
+p95
+aVRonny Turiaf GSW 03/22/2009 GSW @ NOH L 26 11 4 5 80.0 0 0 - 3 4 75.0 2 4 6 2 1 1 0 2 -4
+p96
+aVBrandan Wright GSW 03/22/2009 GSW @ NOH L 26 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 1 1 4 1 1 0
+p97
+aVStephen Jackson GSW 03/22/2009 GSW @ NOH L 36 22 7 17 41.2 1 5 20.0 7 10 70.0 2 8 10 5 0 0 5 3 -10
+p98
+aVAnthony Randolph GSW 03/22/2009 GSW @ NOH L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 3 -15
+p99
+aVAnthony Morrow GSW 03/22/2009 GSW @ NOH L 26 6 3 6 50.0 0 1 0.0 0 0 - 3 4 7 3 1 0 2 0 -6
+p100
+aVMonta Ellis GSW 03/22/2009 GSW @ NOH L 35 12 6 15 40.0 0 4 0.0 0 2 0.0 0 4 4 4 1 0 2 2 -12
+p101
+aVCJ Watson GSW 03/22/2009 GSW @ NOH L 15 5 1 5 20.0 1 2 50.0 2 2 100.0 0 0 0 3 0 0 2 0 2
+p102
+aVKelenna Azubuike GSW 03/22/2009 GSW @ NOH L 38 16 7 15 46.7 2 5 40.0 0 0 - 1 5 6 0 3 0 1 3 -7
+p103
+aVCorey Maggette GSW 03/22/2009 GSW @ NOH L 28 11 1 10 10.0 0 1 0.0 9 9 100.0 0 8 8 0 1 0 2 6 2
+p104
+aVRonny Turiaf GSW 03/20/2009 GSW vs. PHI W 31 4 2 3 66.7 0 0 - 0 0 - 1 4 5 5 0 4 1 4 5
+p105
+aVKelenna Azubuike GSW 03/20/2009 GSW vs. PHI W 37 15 7 12 58.3 1 4 25.0 0 0 - 1 3 4 5 0 0 0 2 22
+p106
+aVRob Kurz GSW 03/20/2009 GSW vs. PHI W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 1 1 0 3 5
+p107
+aVStephen Jackson GSW 03/20/2009 GSW vs. PHI W 39 14 4 15 26.7 2 6 33.3 4 6 66.7 0 10 10 9 2 0 4 5 0
+p108
+aVAnthony Morrow GSW 03/20/2009 GSW vs. PHI W 25 16 7 10 70.0 2 3 66.7 0 0 - 0 3 3 6 1 0 2 2 -2
+p109
+aVMonta Ellis GSW 03/20/2009 GSW vs. PHI W 32 21 8 13 61.5 1 1 100.0 4 4 100.0 0 4 4 4 0 0 4 4 -2
+p110
+aVCJ Watson GSW 03/20/2009 GSW vs. PHI W 19 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 4 1 0 0 3 4
+p111
+aVBrandan Wright GSW 03/20/2009 GSW vs. PHI W 29 25 10 13 76.9 0 0 - 5 5 100.0 4 2 6 0 1 1 1 4 14
+p112
+aVCorey Maggette GSW 03/20/2009 GSW vs. PHI W 20 12 5 9 55.6 1 1 100.0 1 2 50.0 0 3 3 1 0 0 2 4 -6
+p113
+aVAnthony Randolph GSW 03/19/2009 GSW @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p114
+aVBrandan Wright GSW 03/19/2009 GSW @ LAL L 33 11 4 12 33.3 0 0 - 3 5 60.0 2 8 10 4 1 0 0 2 -10
+p115
+aVJermareo Davidson GSW 03/19/2009 GSW @ LAL L 11 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 2 0 0 1 -6
+p116
+aVCorey Maggette GSW 03/19/2009 GSW @ LAL L 22 6 2 8 25.0 0 2 0.0 2 2 100.0 0 4 4 7 3 0 5 5 0
+p117
+aVStephen Jackson GSW 03/19/2009 GSW @ LAL L 32 10 5 17 29.4 0 5 0.0 0 0 - 2 1 3 2 2 0 4 2 -5
+p118
+aVMarco Belinelli GSW 03/19/2009 GSW @ LAL L 10 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 1 1 0 0 0 3
+p119
+aVKelenna Azubuike GSW 03/19/2009 GSW @ LAL L 35 25 9 15 60.0 5 6 83.3 2 2 100.0 2 6 8 0 1 1 2 3 -2
+p120
+aVCJ Watson GSW 03/19/2009 GSW @ LAL L 12 6 3 6 50.0 0 1 0.0 0 1 0.0 0 0 0 1 1 0 0 1 -2
+p121
+aVRonny Turiaf GSW 03/19/2009 GSW @ LAL L 33 4 2 5 40.0 0 0 - 0 0 - 4 4 8 3 1 1 2 2 -9
+p122
+aVAnthony Morrow GSW 03/19/2009 GSW @ LAL L 15 7 2 3 66.7 0 1 0.0 3 3 100.0 0 1 1 1 0 1 0 3 0
+p123
+aVMonta Ellis GSW 03/19/2009 GSW @ LAL L 37 27 11 19 57.9 0 0 - 5 5 100.0 0 3 3 5 3 0 2 2 -6
+p124
+aVRonny Turiaf GSW 03/17/2009 GSW vs. LAC W 27 7 2 4 50.0 0 0 - 3 4 75.0 2 3 5 8 0 3 2 5 1
+p125
+aVMarco Belinelli GSW 03/17/2009 GSW vs. LAC W 16 7 2 6 33.3 1 3 33.3 2 2 100.0 0 1 1 0 0 0 0 2 -3
+p126
+aVCJ Watson GSW 03/17/2009 GSW vs. LAC W 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 1 1 0 0 1 6
+p127
+aVKelenna Azubuike GSW 03/17/2009 GSW vs. LAC W 38 16 6 14 42.9 1 2 50.0 3 4 75.0 4 5 9 7 1 1 1 4 16
+p128
+aVCorey Maggette GSW 03/17/2009 GSW vs. LAC W 31 21 4 10 40.0 1 1 100.0 12 13 92.3 0 7 7 1 1 0 4 3 0
+p129
+aVMonta Ellis GSW 03/17/2009 GSW vs. LAC W 39 29 13 19 68.4 0 0 - 3 3 100.0 0 5 5 6 1 0 2 3 3
+p130
+aVAnthony Morrow GSW 03/17/2009 GSW vs. LAC W 32 20 8 12 66.7 4 7 57.1 0 0 - 0 3 3 2 0 1 2 1 10
+p131
+aVJermareo Davidson GSW 03/17/2009 GSW vs. LAC W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -6
+p132
+aVBrandan Wright GSW 03/17/2009 GSW vs. LAC W 16 7 2 5 40.0 0 0 - 3 6 50.0 2 4 6 1 0 3 2 4 -3
+p133
+aVAnthony Randolph GSW 03/17/2009 GSW vs. LAC W 25 14 6 9 66.7 0 0 - 2 3 66.7 1 5 6 1 1 1 0 3 11
+p134
+aVCJ Watson GSW 03/15/2009 GSW vs. PHX L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p135
+aVBrandan Wright GSW 03/15/2009 GSW vs. PHX L 9 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 2 1 1 0 2
+p136
+aVAnthony Randolph GSW 03/15/2009 GSW vs. PHX L 17 9 3 6 50.0 0 0 - 3 5 60.0 3 3 6 2 0 1 0 1 -10
+p137
+aVJamal Crawford GSW 03/15/2009 GSW vs. PHX L 41 17 5 13 38.5 4 10 40.0 3 4 75.0 1 1 2 3 0 0 1 1 -28
+p138
+aVRob Kurz GSW 03/15/2009 GSW vs. PHX L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 2
+p139
+aVAnthony Morrow GSW 03/15/2009 GSW vs. PHX L 20 13 4 10 40.0 1 4 25.0 4 4 100.0 2 0 2 0 0 0 0 4 9
+p140
+aVJermareo Davidson GSW 03/15/2009 GSW vs. PHX L 7 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 0 0 1 0 5
+p141
+aVKelenna Azubuike GSW 03/15/2009 GSW vs. PHX L 23 18 5 9 55.6 0 2 0.0 8 8 100.0 0 2 2 0 1 1 0 4 -17
+p142
+aVStephen Jackson GSW 03/15/2009 GSW vs. PHX L 25 10 3 7 42.9 1 3 33.3 3 4 75.0 1 4 5 9 1 0 4 2 -24
+p143
+aVMonta Ellis GSW 03/15/2009 GSW vs. PHX L 41 26 12 19 63.2 0 2 0.0 2 2 100.0 0 0 0 3 2 2 4 2 -37
+p144
+aVRonny Turiaf GSW 03/15/2009 GSW vs. PHX L 24 10 5 8 62.5 0 0 - 0 0 - 1 5 6 3 0 0 2 3 -10
+p145
+aVCorey Maggette GSW 03/15/2009 GSW vs. PHX L 28 21 4 8 50.0 1 3 33.3 12 13 92.3 1 4 5 3 1 0 1 3 -16
+p146
+aVRonny Turiaf GSW 03/13/2009 GSW vs. DAL W 26 4 2 5 40.0 0 0 - 0 0 - 4 8 12 1 0 5 0 0 12
+p147
+aVMonta Ellis GSW 03/13/2009 GSW vs. DAL W 44 29 11 25 44.0 0 1 0.0 7 9 77.8 1 10 11 3 1 0 2 2 10
+p148
+aVStephen Jackson GSW 03/13/2009 GSW vs. DAL W 43 31 11 23 47.8 3 7 42.9 6 6 100.0 1 6 7 10 1 0 3 1 4
+p149
+aVAnthony Randolph GSW 03/13/2009 GSW vs. DAL W 21 14 5 10 50.0 0 0 - 4 6 66.7 4 3 7 3 3 3 0 6 1
+p150
+aVJamal Crawford GSW 03/13/2009 GSW vs. DAL W 34 9 3 13 23.1 1 4 25.0 2 2 100.0 2 4 6 3 0 0 2 4 2
+p151
+aVAndris Biedrins GSW 03/13/2009 GSW vs. DAL W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -5
+p152
+aVBrandan Wright GSW 03/13/2009 GSW vs. DAL W 15 12 5 7 71.4 0 0 - 2 3 66.7 2 3 5 0 0 0 1 0 1
+p153
+aVKelenna Azubuike GSW 03/13/2009 GSW vs. DAL W 25 14 5 7 71.4 1 1 100.0 3 5 60.0 3 4 7 0 1 0 0 0 14
+p154
+aVAnthony Morrow GSW 03/13/2009 GSW vs. DAL W 24 6 3 7 42.9 0 3 0.0 0 0 - 1 1 2 2 0 0 0 1 6
+p155
+aVRonny Turiaf GSW 03/11/2009 GSW vs. NJN W 17 4 2 4 50.0 0 0 - 0 1 0.0 2 5 7 0 0 3 0 4 -2
+p156
+aVStephen Jackson GSW 03/11/2009 GSW vs. NJN W 45 29 10 21 47.6 2 7 28.6 7 8 87.5 2 5 7 7 1 0 3 4 9
+p157
+aVJamal Crawford GSW 03/11/2009 GSW vs. NJN W 46 19 5 15 33.3 2 7 28.6 7 7 100.0 1 0 1 5 2 0 3 2 3
+p158
+aVKelenna Azubuike GSW 03/11/2009 GSW vs. NJN W 9 4 1 7 14.3 0 1 0.0 2 2 100.0 3 1 4 1 0 1 1 0 -7
+p159
+aVAndris Biedrins GSW 03/11/2009 GSW vs. NJN W 31 10 5 6 83.3 0 0 - 0 0 - 4 9 13 2 2 1 1 1 6
+p160
+aVAnthony Randolph GSW 03/11/2009 GSW vs. NJN W 17 8 1 2 50.0 0 0 - 6 8 75.0 1 5 6 0 0 0 0 2 -2
+p161
+aVAnthony Morrow GSW 03/11/2009 GSW vs. NJN W 14 5 2 5 40.0 1 2 50.0 0 0 - 3 3 6 0 0 0 0 1 6
+p162
+aVCorey Maggette GSW 03/11/2009 GSW vs. NJN W 31 18 1 4 25.0 0 0 - 16 20 80.0 0 7 7 1 0 0 3 4 6
+p163
+aVMonta Ellis GSW 03/11/2009 GSW vs. NJN W 31 19 9 16 56.3 0 1 0.0 1 2 50.0 0 3 3 6 1 0 5 4 1
+p164
+aVCJ Watson GSW 03/07/2009 GSW @ MIL L 7 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -6
+p165
+aVAnthony Randolph GSW 03/07/2009 GSW @ MIL L 21 5 2 3 66.7 0 0 - 1 2 50.0 2 6 8 0 1 1 5 5 -14
+p166
+aVMarco Belinelli GSW 03/07/2009 GSW @ MIL L 31 10 4 7 57.1 1 1 100.0 1 2 50.0 0 7 7 3 1 0 2 4 -8
+p167
+aVAnthony Morrow GSW 03/07/2009 GSW @ MIL L 24 9 3 6 50.0 1 2 50.0 2 2 100.0 2 0 2 1 0 0 0 1 -4
+p168
+aVRonny Turiaf GSW 03/07/2009 GSW @ MIL L 28 15 5 5 100.0 0 0 - 5 7 71.4 0 4 4 2 1 4 1 2 2
+p169
+aVJermareo Davidson GSW 03/07/2009 GSW @ MIL L 10 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 0 0 0 0 1 3
+p170
+aVJamal Crawford GSW 03/07/2009 GSW @ MIL L 37 32 10 20 50.0 6 10 60.0 6 6 100.0 1 4 5 3 0 0 3 1 2
+p171
+aVCorey Maggette GSW 03/07/2009 GSW @ MIL L 37 22 7 15 46.7 0 2 0.0 8 11 72.7 0 5 5 5 0 2 2 5 -5
+p172
+aVStephen Jackson GSW 03/07/2009 GSW @ MIL L 45 23 9 18 50.0 0 4 0.0 5 6 83.3 1 3 4 11 2 0 7 3 -5
+p173
+aVCJ Watson GSW 03/06/2009 GSW @ DET L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 2 0 3 0 -5
+p174
+aVAnthony Morrow GSW 03/06/2009 GSW @ DET L 32 13 6 15 40.0 1 2 50.0 0 0 - 1 2 3 0 1 0 3 4 -14
+p175
+aVJamal Crawford GSW 03/06/2009 GSW @ DET L 39 25 7 20 35.0 1 3 33.3 10 10 100.0 0 5 5 8 1 0 1 0 -10
+p176
+aVAnthony Randolph GSW 03/06/2009 GSW @ DET L 47 17 5 13 38.5 0 0 - 7 7 100.0 4 4 8 1 0 3 2 4 -23
+p177
+aVJermareo Davidson GSW 03/06/2009 GSW @ DET L 33 11 5 10 50.0 0 0 - 1 5 20.0 2 8 10 0 0 1 0 3 5
+p178
+aVRonny Turiaf GSW 03/06/2009 GSW @ DET L 10 4 2 5 40.0 0 0 - 0 0 - 1 5 6 2 0 0 0 2 -17
+p179
+aVMarco Belinelli GSW 03/06/2009 GSW @ DET L 35 13 5 13 38.5 1 2 50.0 2 2 100.0 2 3 5 3 0 1 3 3 -15
+p180
+aVRob Kurz GSW 03/06/2009 GSW @ DET L 22 4 1 5 20.0 0 1 0.0 2 2 100.0 0 3 3 1 0 1 0 3 -6
+p181
+aVRonny Turiaf GSW 03/04/2009 GSW @ CHI L 14 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 1 1 3 -18
+p182
+aVAnthony Randolph GSW 03/04/2009 GSW @ CHI L 14 4 2 4 50.0 0 0 - 0 0 - 3 7 10 0 0 2 2 1 6
+p183
+aVJermareo Davidson GSW 03/04/2009 GSW @ CHI L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 1 -4
+p184
+aVStephen Jackson GSW 03/04/2009 GSW @ CHI L 39 19 8 20 40.0 1 5 20.0 2 2 100.0 2 1 3 6 2 1 2 6 -12
+p185
+aVRob Kurz GSW 03/04/2009 GSW @ CHI L 3 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 0 -2
+p186
+aVCorey Maggette GSW 03/04/2009 GSW @ CHI L 31 14 5 16 31.3 0 1 0.0 4 4 100.0 3 6 9 0 0 0 4 0 -22
+p187
+aVAnthony Morrow GSW 03/04/2009 GSW @ CHI L 19 7 3 9 33.3 1 2 50.0 0 0 - 2 0 2 0 0 0 0 1 -12
+p188
+aVCJ Watson GSW 03/04/2009 GSW @ CHI L 23 11 5 8 62.5 1 2 50.0 0 0 - 0 0 0 2 1 0 1 2 -24
+p189
+aVMarco Belinelli GSW 03/04/2009 GSW @ CHI L 23 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 2 1 0 0 2 -4
+p190
+aVJamal Crawford GSW 03/04/2009 GSW @ CHI L 35 11 4 15 26.7 0 5 0.0 3 3 100.0 0 1 1 1 0 1 0 1 -8
+p191
+aVAndris Biedrins GSW 03/04/2009 GSW @ CHI L 32 6 3 4 75.0 0 0 - 0 0 - 0 9 9 1 1 1 3 4 -10
+p192
+aVCorey Maggette GSW 03/03/2009 GSW @ MIN W 28 16 4 9 44.4 0 1 0.0 8 10 80.0 3 4 7 0 1 1 6 2 7
+p193
+aVAnthony Morrow GSW 03/03/2009 GSW @ MIN W 20 17 6 10 60.0 3 3 100.0 2 2 100.0 0 2 2 0 1 0 0 0 17
+p194
+aVMarco Belinelli GSW 03/03/2009 GSW @ MIN W 17 13 4 8 50.0 3 4 75.0 2 2 100.0 0 0 0 1 0 0 1 3 15
+p195
+aVCJ Watson GSW 03/03/2009 GSW @ MIN W 28 9 2 7 28.6 0 1 0.0 5 6 83.3 1 4 5 3 2 0 1 1 2
+p196
+aVJamal Crawford GSW 03/03/2009 GSW @ MIN W 29 11 2 8 25.0 2 4 50.0 5 6 83.3 0 1 1 5 2 0 0 2 14
+p197
+aVStephen Jackson GSW 03/03/2009 GSW @ MIN W 29 23 7 16 43.8 2 5 40.0 7 9 77.8 0 7 7 6 0 0 0 2 12
+p198
+aVRob Kurz GSW 03/03/2009 GSW @ MIN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p199
+aVAndris Biedrins GSW 03/03/2009 GSW @ MIN W 27 10 4 6 66.7 0 0 - 2 2 100.0 1 12 13 4 0 2 1 4 20
+p200
+aVJermareo Davidson GSW 03/03/2009 GSW @ MIN W 21 7 2 4 50.0 0 0 - 3 6 50.0 2 5 7 0 0 0 1 3 4
+p201
+aVKelenna Azubuike GSW 03/03/2009 GSW @ MIN W 24 8 4 8 50.0 0 2 0.0 0 2 0.0 0 3 3 2 1 1 0 0 9
+p202
+aVAnthony Randolph GSW 03/03/2009 GSW @ MIN W 17 4 2 3 66.7 0 0 - 0 1 0.0 1 4 5 0 1 2 1 3 18
+p203
+aVJermareo Davidson GSW 03/01/2009 GSW vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p204
+aVKelenna Azubuike GSW 03/01/2009 GSW vs. UTA L 35 13 5 9 55.6 2 3 66.7 1 1 100.0 0 5 5 3 0 2 4 6 -1
+p205
+aVRonny Turiaf GSW 03/01/2009 GSW vs. UTA L 14 6 3 4 75.0 0 0 - 0 1 0.0 0 2 2 4 1 2 1 2 1
+p206
+aVAndris Biedrins GSW 03/01/2009 GSW vs. UTA L 30 8 4 6 66.7 0 0 - 0 0 - 4 8 12 1 1 2 3 6 0
+p207
+aVAnthony Morrow GSW 03/01/2009 GSW vs. UTA L 25 5 2 8 25.0 1 3 33.3 0 0 - 2 1 3 1 1 0 1 0 -3
+p208
+aVAnthony Randolph GSW 03/01/2009 GSW vs. UTA L 26 20 7 11 63.6 0 0 - 6 9 66.7 3 5 8 0 0 4 1 3 -4
+p209
+aVMarco Belinelli GSW 03/01/2009 GSW vs. UTA L 15 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 2 2 0 4 1 -7
+p210
+aVJamal Crawford GSW 03/01/2009 GSW vs. UTA L 41 20 8 17 47.1 1 4 25.0 3 5 60.0 0 2 2 3 2 1 2 0 -9
+p211
+aVCJ Watson GSW 03/01/2009 GSW vs. UTA L 17 2 0 4 0.0 0 2 0.0 2 2 100.0 0 4 4 5 0 0 4 1 -7
+p212
+aVCorey Maggette GSW 03/01/2009 GSW vs. UTA L 33 27 9 13 69.2 3 5 60.0 6 6 100.0 0 3 3 3 1 0 5 5 -5
+p213
+aVMarco Belinelli GSW 02/27/2009 GSW vs. CHA L 22 6 3 7 42.9 0 3 0.0 0 0 - 0 0 0 2 1 0 2 3 9
+p214
+aVAndris Biedrins GSW 02/27/2009 GSW vs. CHA L 29 18 9 13 69.2 0 0 - 0 0 - 3 10 13 2 0 0 1 3 8
+p215
+aVAnthony Randolph GSW 02/27/2009 GSW vs. CHA L 7 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -5
+p216
+aVCorey Maggette GSW 02/27/2009 GSW vs. CHA L 29 20 5 8 62.5 1 2 50.0 9 11 81.8 1 2 3 2 0 0 2 4 -11
+p217
+aVCJ Watson GSW 02/27/2009 GSW vs. CHA L 44 10 3 10 30.0 0 2 0.0 4 4 100.0 1 2 3 3 4 0 3 4 -5
+p218
+aVRonny Turiaf GSW 02/27/2009 GSW vs. CHA L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -5
+p219
+aVAnthony Morrow GSW 02/27/2009 GSW vs. CHA L 16 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 1 0 2 -15
+p220
+aVStephen Jackson GSW 02/27/2009 GSW vs. CHA L 42 33 11 24 45.8 4 7 57.1 7 9 77.8 2 2 4 8 3 0 5 4 6
+p221
+aVKelenna Azubuike GSW 02/27/2009 GSW vs. CHA L 38 14 6 9 66.7 2 4 50.0 0 0 - 1 3 4 3 2 0 3 3 3
+p222
+aVStephen Jackson GSW 02/23/2009 GSW @ LAC L 39 28 11 20 55.0 1 4 25.0 5 6 83.3 3 2 5 4 1 2 5 2 -6
+p223
+aVAndris Biedrins GSW 02/23/2009 GSW @ LAC L 17 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 2 1 2 -16
+p224
+aVKelenna Azubuike GSW 02/23/2009 GSW @ LAC L 24 10 4 7 57.1 2 4 50.0 0 0 - 2 3 5 2 2 1 2 1 -15
+p225
+aVMarco Belinelli GSW 02/23/2009 GSW @ LAC L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 5 3 0 2 0 -3
+p226
+aVAnthony Randolph GSW 02/23/2009 GSW @ LAC L 14 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 1 0 1 0 1 -2
+p227
+aVCJ Watson GSW 02/23/2009 GSW @ LAC L 27 16 5 8 62.5 1 2 50.0 5 5 100.0 0 4 4 4 2 0 2 1 -6
+p228
+aVAnthony Morrow GSW 02/23/2009 GSW @ LAC L 16 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 2
+p229
+aVRonny Turiaf GSW 02/23/2009 GSW @ LAC L 23 7 3 6 50.0 0 0 - 1 1 100.0 0 7 7 1 0 2 2 5 6
+p230
+aVCorey Maggette GSW 02/23/2009 GSW @ LAC L 30 10 4 13 30.8 0 1 0.0 2 4 50.0 1 6 7 3 2 0 2 5 -18
+p231
+aVJamal Crawford GSW 02/23/2009 GSW @ LAC L 34 15 4 15 26.7 1 5 20.0 6 8 75.0 0 2 2 3 1 0 2 1 -7
+p232
+aVRonny Turiaf GSW 02/21/2009 GSW vs. OKC W 31 14 5 6 83.3 0 0 - 4 4 100.0 0 4 4 1 0 3 1 3 11
+p233
+aVKelenna Azubuike GSW 02/21/2009 GSW vs. OKC W 19 11 4 7 57.1 1 2 50.0 2 2 100.0 0 1 1 0 1 0 0 0 3
+p234
+aVAnthony Randolph GSW 02/21/2009 GSW vs. OKC W 17 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 4 4 2
+p235
+aVCorey Maggette GSW 02/21/2009 GSW vs. OKC W 28 25 7 12 58.3 1 1 100.0 10 11 90.9 1 7 8 3 1 0 1 5 12
+p236
+aVStephen Jackson GSW 02/21/2009 GSW vs. OKC W 38 26 8 14 57.1 3 5 60.0 7 7 100.0 0 4 4 9 3 0 7 4 7
+p237
+aVMarco Belinelli GSW 02/21/2009 GSW vs. OKC W 15 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 6
+p238
+aVJamal Crawford GSW 02/21/2009 GSW vs. OKC W 38 24 7 14 50.0 1 5 20.0 9 10 90.0 0 4 4 2 2 0 1 2 13
+p239
+aVCJ Watson GSW 02/21/2009 GSW vs. OKC W 21 11 4 8 50.0 2 3 66.7 1 1 100.0 0 0 0 2 1 0 0 0 12
+p240
+aVMonta Ellis GSW 02/21/2009 GSW vs. OKC W 32 14 7 13 53.8 0 1 0.0 0 0 - 1 1 2 4 5 0 2 2 -1
+p241
+aVMarco Belinelli GSW 02/18/2009 GSW vs. LAL L 15 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 4 1 0 0 3 0
+p242
+aVMonta Ellis GSW 02/18/2009 GSW vs. LAL L 45 15 7 18 38.9 0 2 0.0 1 1 100.0 2 3 5 5 2 0 2 1 -14
+p243
+aVJamal Crawford GSW 02/18/2009 GSW vs. LAL L 37 23 6 10 60.0 3 6 50.0 8 9 88.9 2 1 3 1 1 0 4 3 -5
+p244
+aVRonny Turiaf GSW 02/18/2009 GSW vs. LAL L 33 13 6 7 85.7 0 0 - 1 1 100.0 2 5 7 4 1 3 0 5 -9
+p245
+aVCJ Watson GSW 02/18/2009 GSW vs. LAL L 3 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 6
+p246
+aVJermareo Davidson GSW 02/18/2009 GSW vs. LAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p247
+aVCorey Maggette GSW 02/18/2009 GSW vs. LAL L 33 24 10 16 62.5 1 1 100.0 3 4 75.0 1 1 2 4 0 0 1 6 -17
+p248
+aVStephen Jackson GSW 02/18/2009 GSW vs. LAL L 45 24 10 24 41.7 2 8 25.0 2 2 100.0 1 5 6 9 1 2 6 5 -9
+p249
+aVAnthony Randolph GSW 02/18/2009 GSW vs. LAL L 28 14 7 13 53.8 0 0 - 0 0 - 6 6 12 0 1 2 2 5 10
+p250
+aVCorey Maggette GSW 02/12/2009 GSW vs. POR W 34 24 9 16 56.3 1 1 100.0 5 7 71.4 3 2 5 1 1 0 1 3 -2
+p251
+aVKelenna Azubuike GSW 02/12/2009 GSW vs. POR W 26 6 1 6 16.7 0 1 0.0 4 4 100.0 1 5 6 0 1 2 1 2 15
+p252
+aVRonny Turiaf GSW 02/12/2009 GSW vs. POR W 29 14 4 7 57.1 0 0 - 6 6 100.0 7 4 11 2 1 1 0 5 -7
+p253
+aVCJ Watson GSW 02/12/2009 GSW vs. POR W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p254
+aVAnthony Randolph GSW 02/12/2009 GSW vs. POR W 14 9 3 6 50.0 0 0 - 3 4 75.0 2 8 10 0 1 0 1 1 12
+p255
+aVJamal Crawford GSW 02/12/2009 GSW vs. POR W 38 12 2 9 22.2 0 3 0.0 8 8 100.0 0 2 2 1 2 0 1 1 4
+p256
+aVStephen Jackson GSW 02/12/2009 GSW vs. POR W 44 20 5 14 35.7 2 3 66.7 8 8 100.0 0 4 4 6 1 2 5 2 1
+p257
+aVMonta Ellis GSW 02/12/2009 GSW vs. POR W 44 20 7 16 43.8 1 1 100.0 5 6 83.3 0 2 2 3 3 0 4 3 13
+p258
+aVStephen Jackson GSW 02/10/2009 GSW vs. NYK W 47 35 9 20 45.0 4 6 66.7 13 13 100.0 3 3 6 10 2 0 0 2 18
+p259
+aVCJ Watson GSW 02/10/2009 GSW vs. NYK W 17 11 5 6 83.3 1 1 100.0 0 0 - 1 1 2 1 1 0 2 3 -6
+p260
+aVKelenna Azubuike GSW 02/10/2009 GSW vs. NYK W 34 22 9 13 69.2 3 4 75.0 1 1 100.0 3 7 10 4 3 2 1 3 15
+p261
+aVAnthony Morrow GSW 02/10/2009 GSW vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p262
+aVRonny Turiaf GSW 02/10/2009 GSW vs. NYK W 34 10 5 7 71.4 0 0 - 0 1 0.0 2 6 8 5 0 4 1 3 27
+p263
+aVCorey Maggette GSW 02/10/2009 GSW vs. NYK W 20 16 7 16 43.8 0 2 0.0 2 2 100.0 1 1 2 0 2 0 0 6 0
+p264
+aVAnthony Randolph GSW 02/10/2009 GSW vs. NYK W 14 12 4 6 66.7 0 0 - 4 4 100.0 2 5 7 0 0 2 2 3 -10
+p265
+aVMonta Ellis GSW 02/10/2009 GSW vs. NYK W 31 17 6 14 42.9 1 1 100.0 4 6 66.7 0 2 2 2 1 0 0 1 23
+p266
+aVJamal Crawford GSW 02/10/2009 GSW vs. NYK W 42 21 7 12 58.3 3 8 37.5 4 5 80.0 1 4 5 7 2 0 2 1 19
+p267
+aVStephen Jackson GSW 02/08/2009 GSW vs. UTA W 42 20 6 17 35.3 2 4 50.0 6 10 60.0 2 8 10 8 1 0 3 4 21
+p268
+aVRonny Turiaf GSW 02/08/2009 GSW vs. UTA W 36 13 5 8 62.5 0 0 - 3 4 75.0 0 3 3 1 2 0 0 2 19
+p269
+aVJamal Crawford GSW 02/08/2009 GSW vs. UTA W 35 11 2 6 33.3 2 4 50.0 5 5 100.0 0 3 3 6 0 1 3 3 7
+p270
+aVCorey Maggette GSW 02/08/2009 GSW vs. UTA W 33 24 9 14 64.3 0 1 0.0 6 7 85.7 1 4 5 2 3 1 0 5 25
+p271
+aVAnthony Randolph GSW 02/08/2009 GSW vs. UTA W 12 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 1 1 1 0 3 1
+p272
+aVMonta Ellis GSW 02/08/2009 GSW vs. UTA W 31 12 6 11 54.5 0 0 - 0 0 - 0 4 4 1 1 0 2 3 16
+p273
+aVKelenna Azubuike GSW 02/08/2009 GSW vs. UTA W 28 16 6 9 66.7 0 0 - 4 4 100.0 3 3 6 0 1 1 0 1 6
+p274
+aVAnthony Morrow GSW 02/08/2009 GSW vs. UTA W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p275
+aVCJ Watson GSW 02/08/2009 GSW vs. UTA W 22 14 5 6 83.3 2 3 66.7 2 2 100.0 0 1 1 5 1 0 0 2 5
+p276
+aVStephen Jackson GSW 02/06/2009 GSW @ PHX L 44 24 10 21 47.6 2 6 33.3 2 4 50.0 1 1 2 6 3 1 3 2 -11
+p277
+aVCJ Watson GSW 02/06/2009 GSW @ PHX L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 4 2 0 1 0 6
+p278
+aVAndris Biedrins GSW 02/06/2009 GSW @ PHX L 20 11 5 6 83.3 0 0 - 1 1 100.0 4 7 11 0 1 2 0 3 3
+p279
+aVRonny Turiaf GSW 02/06/2009 GSW @ PHX L 29 11 4 7 57.1 0 0 - 3 4 75.0 3 6 9 1 0 3 1 5 2
+p280
+aVRob Kurz GSW 02/06/2009 GSW @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -4
+p281
+aVMonta Ellis GSW 02/06/2009 GSW @ PHX L 35 15 5 12 41.7 0 0 - 5 6 83.3 1 8 9 0 0 0 5 5 -17
+p282
+aVAnthony Morrow GSW 02/06/2009 GSW @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p283
+aVCorey Maggette GSW 02/06/2009 GSW @ PHX L 39 25 9 22 40.9 1 3 33.3 6 8 75.0 0 5 5 0 0 0 2 4 -9
+p284
+aVKelenna Azubuike GSW 02/06/2009 GSW @ PHX L 15 0 0 3 0.0 0 1 0.0 0 0 - 1 4 5 0 0 0 2 3 -17
+p285
+aVJamal Crawford GSW 02/06/2009 GSW @ PHX L 41 17 5 13 38.5 1 3 33.3 6 6 100.0 1 1 2 6 0 0 4 3 1
+p286
+aVRonny Turiaf GSW 02/04/2009 GSW vs. PHX W 23 9 3 7 42.9 0 1 0.0 3 4 75.0 0 4 4 3 0 4 1 3 3
+p287
+aVCJ Watson GSW 02/04/2009 GSW vs. PHX W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 1
+p288
+aVCorey Maggette GSW 02/04/2009 GSW vs. PHX W 31 18 8 15 53.3 1 1 100.0 1 2 50.0 1 6 7 1 1 0 2 4 3
+p289
+aVStephen Jackson GSW 02/04/2009 GSW vs. PHX W 45 30 12 22 54.5 4 8 50.0 2 2 100.0 1 10 11 10 2 1 4 2 18
+p290
+aVAndris Biedrins GSW 02/04/2009 GSW vs. PHX W 25 10 4 6 66.7 0 0 - 2 5 40.0 3 6 9 3 2 1 0 4 9
+p291
+aVJamal Crawford GSW 02/04/2009 GSW vs. PHX W 45 27 10 18 55.6 3 10 30.0 4 4 100.0 1 4 5 6 0 1 1 2 8
+p292
+aVKelenna Azubuike GSW 02/04/2009 GSW vs. PHX W 27 25 9 12 75.0 4 6 66.7 3 3 100.0 0 2 2 0 0 1 3 2 12
+p293
+aVMonta Ellis GSW 02/04/2009 GSW vs. PHX W 28 2 0 7 0.0 0 0 - 2 2 100.0 0 1 1 5 1 0 1 3 6
+p294
+aVRonny Turiaf GSW 02/02/2009 GSW vs. SAS L 23 7 3 6 50.0 0 0 - 1 1 100.0 1 6 7 0 2 4 3 5 -9
+p295
+aVMonta Ellis GSW 02/02/2009 GSW vs. SAS L 36 17 8 20 40.0 1 1 100.0 0 0 - 2 6 8 4 1 2 4 3 -5
+p296
+aVCJ Watson GSW 02/02/2009 GSW vs. SAS L 26 11 4 6 66.7 1 1 100.0 2 2 100.0 1 3 4 1 0 0 1 2 0
+p297
+aVKelenna Azubuike GSW 02/02/2009 GSW vs. SAS L 25 7 3 7 42.9 1 2 50.0 0 0 - 2 1 3 0 1 1 0 4 4
+p298
+aVJamal Crawford GSW 02/02/2009 GSW vs. SAS L 47 4 2 10 20.0 0 3 0.0 0 0 - 0 2 2 5 0 0 1 2 -6
+p299
+aVStephen Jackson GSW 02/02/2009 GSW vs. SAS L 53 33 13 25 52.0 2 5 40.0 5 7 71.4 2 3 5 11 4 0 4 4 -5
+p300
+aVCorey Maggette GSW 02/02/2009 GSW vs. SAS L 33 15 6 13 46.2 0 1 0.0 3 6 50.0 0 5 5 1 0 0 3 4 -2
+p301
+aVAndris Biedrins GSW 02/02/2009 GSW vs. SAS L 22 11 5 7 71.4 0 0 - 1 2 50.0 2 7 9 1 1 1 0 4 -2
+p302
+aVCorey Maggette GSW 01/31/2009 GSW @ HOU L 33 17 6 13 46.2 0 2 0.0 5 8 62.5 1 1 2 0 1 0 1 4 -6
+p303
+aVJermareo Davidson GSW 01/31/2009 GSW @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p304
+aVStephen Jackson GSW 01/31/2009 GSW @ HOU L 38 16 5 13 38.5 1 4 25.0 5 6 83.3 0 2 2 5 1 0 3 2 -7
+p305
+aVCJ Watson GSW 01/31/2009 GSW @ HOU L 21 12 4 6 66.7 2 3 66.7 2 2 100.0 0 2 2 3 0 0 1 1 -1
+p306
+aVRonny Turiaf GSW 01/31/2009 GSW @ HOU L 32 4 2 8 25.0 0 0 - 0 0 - 1 9 10 4 2 4 1 5 -6
+p307
+aVAndris Biedrins GSW 01/31/2009 GSW @ HOU L 23 8 4 5 80.0 0 0 - 0 0 - 3 4 7 1 0 0 1 5 -8
+p308
+aVMonta Ellis GSW 01/31/2009 GSW @ HOU L 30 10 4 12 33.3 0 0 - 2 2 100.0 1 5 6 1 1 1 2 5 -9
+p309
+aVJamal Crawford GSW 01/31/2009 GSW @ HOU L 26 14 6 12 50.0 2 4 50.0 0 0 - 0 3 3 1 1 1 0 0 -10
+p310
+aVAnthony Randolph GSW 01/31/2009 GSW @ HOU L 6 5 1 2 50.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 0 -5
+p311
+aVRob Kurz GSW 01/31/2009 GSW @ HOU L 12 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 -19
+p312
+aVAnthony Morrow GSW 01/31/2009 GSW @ HOU L 19 5 2 8 25.0 1 2 50.0 0 0 - 1 0 1 2 0 0 0 2 -11
+p313
+aVKelenna Azubuike GSW 01/30/2009 GSW @ NOH W 22 6 3 10 30.0 0 2 0.0 0 1 0.0 1 3 4 0 1 0 0 2 -11
+p314
+aVAndris Biedrins GSW 01/30/2009 GSW @ NOH W 25 12 6 7 85.7 0 0 - 0 0 - 3 6 9 1 0 1 1 5 1
+p315
+aVRonny Turiaf GSW 01/30/2009 GSW @ NOH W 29 4 2 4 50.0 0 0 - 0 0 - 3 8 11 2 1 3 1 5 4
+p316
+aVCJ Watson GSW 01/30/2009 GSW @ NOH W 10 0 0 2 0.0 0 2 0.0 0 0 - 2 1 3 0 0 0 1 1 -1
+p317
+aVCorey Maggette GSW 01/30/2009 GSW @ NOH W 31 19 6 16 37.5 0 1 0.0 7 8 87.5 0 6 6 2 0 0 3 4 17
+p318
+aVStephen Jackson GSW 01/30/2009 GSW @ NOH W 44 15 6 17 35.3 1 5 20.0 2 2 100.0 0 6 6 7 3 0 2 3 4
+p319
+aVAnthony Morrow GSW 01/30/2009 GSW @ NOH W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 0
+p320
+aVJamal Crawford GSW 01/30/2009 GSW @ NOH W 37 17 4 13 30.8 2 5 40.0 7 7 100.0 0 3 3 1 1 0 3 1 1
+p321
+aVMonta Ellis GSW 01/30/2009 GSW @ NOH W 38 15 6 12 50.0 0 1 0.0 3 4 75.0 1 2 3 2 2 1 4 5 5
+p322
+aVAndris Biedrins GSW 01/28/2009 GSW @ DAL L 26 4 2 9 22.2 0 0 - 0 0 - 6 5 11 1 1 1 1 4 -23
+p323
+aVRob Kurz GSW 01/28/2009 GSW @ DAL L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p324
+aVAnthony Morrow GSW 01/28/2009 GSW @ DAL L 22 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 0 0 0 1 0 -7
+p325
+aVRonny Turiaf GSW 01/28/2009 GSW @ DAL L 22 6 3 4 75.0 0 0 - 0 0 - 0 3 3 2 0 1 1 4 -5
+p326
+aVMonta Ellis GSW 01/28/2009 GSW @ DAL L 25 7 2 11 18.2 0 1 0.0 3 3 100.0 0 2 2 3 1 0 2 1 -11
+p327
+aVJamal Crawford GSW 01/28/2009 GSW @ DAL L 23 3 1 6 16.7 1 2 50.0 0 0 - 0 4 4 1 1 0 4 3 -9
+p328
+aVAnthony Randolph GSW 01/28/2009 GSW @ DAL L 15 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 2 1 1 1 -7
+p329
+aVCJ Watson GSW 01/28/2009 GSW @ DAL L 17 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 1 -4
+p330
+aVKelenna Azubuike GSW 01/28/2009 GSW @ DAL L 27 12 5 10 50.0 2 3 66.7 0 0 - 0 2 2 2 1 2 0 1 -9
+p331
+aVStephen Jackson GSW 01/28/2009 GSW @ DAL L 31 25 7 14 50.0 2 2 100.0 9 10 90.0 0 5 5 3 2 0 4 1 -22
+p332
+aVCorey Maggette GSW 01/28/2009 GSW @ DAL L 23 21 7 13 53.8 0 0 - 7 8 87.5 1 3 4 2 0 0 0 2 -22
+p333
+aVJermareo Davidson GSW 01/28/2009 GSW @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p334
+aVAnthony Morrow GSW 01/25/2009 GSW vs. LAC W 39 17 6 15 40.0 3 8 37.5 2 3 66.7 2 1 3 4 2 0 1 4 -1
+p335
+aVRob Kurz GSW 01/25/2009 GSW vs. LAC W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p336
+aVMonta Ellis GSW 01/25/2009 GSW vs. LAC W 22 10 4 11 36.4 1 1 100.0 1 2 50.0 1 2 3 3 1 0 3 3 2
+p337
+aVAndris Biedrins GSW 01/25/2009 GSW vs. LAC W 26 12 6 8 75.0 0 0 - 0 0 - 4 10 14 1 1 1 1 2 20
+p338
+aVRonny Turiaf GSW 01/25/2009 GSW vs. LAC W 18 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 0 2 0 3 3
+p339
+aVCJ Watson GSW 01/25/2009 GSW vs. LAC W 22 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 3 3 0 2 1 17
+p340
+aVMarcus Williams GSW 01/25/2009 GSW vs. LAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -6
+p341
+aVKelenna Azubuike GSW 01/25/2009 GSW vs. LAC W 33 16 5 9 55.6 1 2 50.0 5 6 83.3 1 8 9 6 1 1 2 3 17
+p342
+aVJermareo Davidson GSW 01/25/2009 GSW vs. LAC W 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -8
+p343
+aVCorey Maggette GSW 01/25/2009 GSW vs. LAC W 23 20 7 8 87.5 0 0 - 6 8 75.0 1 5 6 1 1 0 3 2 12
+p344
+aVStephen Jackson GSW 01/25/2009 GSW vs. LAC W 31 9 3 14 21.4 2 4 50.0 1 2 50.0 0 7 7 6 0 1 1 0 22
+p345
+aVAnthony Randolph GSW 01/25/2009 GSW vs. LAC W 13 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 1 1 1 3
+p346
+aVCJ Watson GSW 01/23/2009 GSW vs. CLE L 17 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 3 0 0 0 2 4
+p347
+aVMonta Ellis GSW 01/23/2009 GSW vs. CLE L 34 20 8 19 42.1 1 1 100.0 3 5 60.0 0 3 3 3 1 1 1 4 -2
+p348
+aVAnthony Morrow GSW 01/23/2009 GSW vs. CLE L 32 19 7 10 70.0 3 4 75.0 2 3 66.7 0 3 3 0 1 1 1 4 5
+p349
+aVCorey Maggette GSW 01/23/2009 GSW vs. CLE L 32 23 6 16 37.5 0 1 0.0 11 11 100.0 1 7 8 2 1 0 2 4 -1
+p350
+aVStephen Jackson GSW 01/23/2009 GSW vs. CLE L 42 24 6 15 40.0 2 5 40.0 10 12 83.3 3 5 8 8 0 2 5 2 -7
+p351
+aVAndris Biedrins GSW 01/23/2009 GSW vs. CLE L 35 6 3 5 60.0 0 0 - 0 1 0.0 4 9 13 0 0 4 3 4 -5
+p352
+aVRonny Turiaf GSW 01/23/2009 GSW vs. CLE L 13 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 2 0 4 1
+p353
+aVKelenna Azubuike GSW 01/23/2009 GSW vs. CLE L 35 6 2 9 22.2 0 2 0.0 2 2 100.0 1 2 3 0 0 1 1 2 0
+p354
+aVRonny Turiaf GSW 01/21/2009 GSW vs. OKC L 40 8 2 5 40.0 0 0 - 4 4 100.0 2 4 6 8 0 5 2 4 10
+p355
+aVAnthony Randolph GSW 01/21/2009 GSW vs. OKC L 5 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -5
+p356
+aVJamal Crawford GSW 01/21/2009 GSW vs. OKC L 41 13 4 12 33.3 1 3 33.3 4 4 100.0 0 7 7 6 0 0 4 1 0
+p357
+aVKelenna Azubuike GSW 01/21/2009 GSW vs. OKC L 37 21 9 10 90.0 1 2 50.0 2 2 100.0 1 2 3 2 1 1 0 5 -8
+p358
+aVCorey Maggette GSW 01/21/2009 GSW vs. OKC L 31 26 8 15 53.3 0 0 - 10 11 90.9 1 5 6 1 1 0 2 6 8
+p359
+aVStephen Jackson GSW 01/21/2009 GSW vs. OKC L 45 29 8 18 44.4 2 4 50.0 11 11 100.0 0 3 3 7 1 0 5 4 -4
+p360
+aVRob Kurz GSW 01/21/2009 GSW vs. OKC L 11 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 -10
+p361
+aVCJ Watson GSW 01/21/2009 GSW vs. OKC L 18 9 2 4 50.0 0 1 0.0 5 6 83.3 1 1 2 0 3 0 1 0 4
+p362
+aVAnthony Morrow GSW 01/21/2009 GSW vs. OKC L 12 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 3 0
+p363
+aVJamal Crawford GSW 01/19/2009 GSW vs. WAS W 48 28 12 25 48.0 4 9 44.4 0 0 - 1 2 3 8 0 1 4 3 21
+p364
+aVRob Kurz GSW 01/19/2009 GSW vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p365
+aVRonny Turiaf GSW 01/19/2009 GSW vs. WAS W 15 7 3 6 50.0 0 0 - 1 1 100.0 3 0 3 3 0 0 0 3 14
+p366
+aVStephen Jackson GSW 01/19/2009 GSW vs. WAS W 41 26 10 17 58.8 3 5 60.0 3 3 100.0 2 4 6 5 0 0 5 1 19
+p367
+aVJermareo Davidson GSW 01/19/2009 GSW vs. WAS W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p368
+aVAndris Biedrins GSW 01/19/2009 GSW vs. WAS W 32 7 2 5 40.0 0 0 - 3 4 75.0 2 13 15 3 1 1 0 2 4
+p369
+aVCorey Maggette GSW 01/19/2009 GSW vs. WAS W 27 16 5 7 71.4 0 0 - 6 6 100.0 2 2 4 4 0 0 2 5 14
+p370
+aVAnthony Morrow GSW 01/19/2009 GSW vs. WAS W 23 11 4 7 57.1 3 3 100.0 0 0 - 0 3 3 3 1 1 0 3 14
+p371
+aVAnthony Randolph GSW 01/19/2009 GSW vs. WAS W 11 6 3 6 50.0 0 0 - 0 0 - 2 1 3 1 1 0 1 3 -5
+p372
+aVKelenna Azubuike GSW 01/19/2009 GSW vs. WAS W 41 17 5 10 50.0 3 4 75.0 4 6 66.7 1 2 3 1 0 2 1 2 18
+p373
+aVKelenna Azubuike GSW 01/16/2009 GSW vs. ATL W 34 11 4 9 44.4 2 2 100.0 1 2 50.0 0 2 2 2 1 0 1 2 -1
+p374
+aVAnthony Randolph GSW 01/16/2009 GSW vs. ATL W 12 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 1 1 1 2 -3
+p375
+aVJamal Crawford GSW 01/16/2009 GSW vs. ATL W 47 29 12 22 54.5 2 4 50.0 3 4 75.0 0 0 0 4 0 1 1 2 5
+p376
+aVMarcus Williams GSW 01/16/2009 GSW vs. ATL W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p377
+aVAndris Biedrins GSW 01/16/2009 GSW vs. ATL W 33 10 4 7 57.1 0 0 - 2 2 100.0 1 8 9 2 0 0 2 5 9
+p378
+aVCorey Maggette GSW 01/16/2009 GSW vs. ATL W 36 24 6 9 66.7 0 0 - 12 14 85.7 3 13 16 2 1 0 2 2 8
+p379
+aVRonny Turiaf GSW 01/16/2009 GSW vs. ATL W 14 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 2 0 3 0 4 -3
+p380
+aVStephen Jackson GSW 01/16/2009 GSW vs. ATL W 43 24 7 20 35.0 3 8 37.5 7 8 87.5 2 5 7 6 4 0 6 3 3
+p381
+aVAnthony Morrow GSW 01/16/2009 GSW vs. ATL W 20 6 2 3 66.7 1 1 100.0 1 2 50.0 1 5 6 2 0 1 0 1 7
+p382
+aVKelenna Azubuike GSW 01/14/2009 GSW vs. SAC L 51 16 4 17 23.5 2 5 40.0 6 6 100.0 3 7 10 4 0 1 2 3 9
+p383
+aVRob Kurz GSW 01/14/2009 GSW vs. SAC L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p384
+aVAnthony Morrow GSW 01/14/2009 GSW vs. SAC L 32 15 7 11 63.6 1 2 50.0 0 0 - 6 3 9 0 2 1 0 2 9
+p385
+aVCJ Watson GSW 01/14/2009 GSW vs. SAC L 49 26 10 24 41.7 1 1 100.0 5 5 100.0 0 2 2 6 3 0 1 6 -2
+p386
+aVCorey Maggette GSW 01/14/2009 GSW vs. SAC L 36 17 6 12 50.0 1 2 50.0 4 12 33.3 1 5 6 2 0 0 2 6 -12
+p387
+aVAnthony Randolph GSW 01/14/2009 GSW vs. SAC L 16 2 1 4 25.0 0 0 - 0 0 - 4 3 7 1 1 2 0 0 -12
+p388
+aVJamal Crawford GSW 01/14/2009 GSW vs. SAC L 60 35 13 31 41.9 1 5 20.0 8 10 80.0 1 3 4 4 0 1 3 0 1
+p389
+aVRonny Turiaf GSW 01/14/2009 GSW vs. SAC L 31 8 4 6 66.7 0 0 - 0 2 0.0 1 6 7 2 0 3 0 5 -25
+p390
+aVAndris Biedrins GSW 01/14/2009 GSW vs. SAC L 32 12 5 8 62.5 0 0 - 2 6 33.3 5 9 14 4 1 5 1 6 23
+p391
+aVMarco Belinelli GSW 01/11/2009 GSW vs. IND W 30 17 6 13 46.2 2 7 28.6 3 5 60.0 0 3 3 2 2 0 1 4 -5
+p392
+aVKelenna Azubuike GSW 01/11/2009 GSW vs. IND W 34 21 6 11 54.5 3 4 75.0 6 10 60.0 2 6 8 1 0 1 0 4 -5
+p393
+aVAndris Biedrins GSW 01/11/2009 GSW vs. IND W 28 11 4 9 44.4 0 0 - 3 4 75.0 3 6 9 1 0 3 1 3 1
+p394
+aVCJ Watson GSW 01/11/2009 GSW vs. IND W 37 11 4 9 44.4 1 4 25.0 2 2 100.0 0 5 5 5 2 0 2 1 14
+p395
+aVJamal Crawford GSW 01/11/2009 GSW vs. IND W 44 32 10 19 52.6 4 6 66.7 8 8 100.0 0 5 5 5 1 0 3 0 6
+p396
+aVAnthony Randolph GSW 01/11/2009 GSW vs. IND W 9 8 3 3 100.0 0 0 - 2 2 100.0 3 1 4 0 1 2 0 0 7
+p397
+aVCorey Maggette GSW 01/11/2009 GSW vs. IND W 36 14 4 10 40.0 0 2 0.0 6 6 100.0 2 5 7 2 1 0 5 5 0
+p398
+aVRonny Turiaf GSW 01/11/2009 GSW vs. IND W 20 6 2 6 33.3 0 0 - 2 2 100.0 0 4 4 5 0 1 1 4 2
+p399
+aVAnthony Morrow GSW 01/11/2009 GSW vs. IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p400
+aVAnthony Morrow GSW 01/10/2009 GSW @ POR L 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -1
+p401
+aVRob Kurz GSW 01/10/2009 GSW @ POR L 7 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -14
+p402
+aVCorey Maggette GSW 01/10/2009 GSW @ POR L 30 25 8 15 53.3 2 4 50.0 7 8 87.5 0 5 5 3 3 0 4 3 -3
+p403
+aVAnthony Randolph GSW 01/10/2009 GSW @ POR L 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 4
+p404
+aVJamal Crawford GSW 01/10/2009 GSW @ POR L 37 19 6 16 37.5 2 7 28.6 5 6 83.3 0 4 4 4 0 0 4 1 -18
+p405
+aVCJ Watson GSW 01/10/2009 GSW @ POR L 22 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 1 1 0 4 3 0
+p406
+aVKelenna Azubuike GSW 01/10/2009 GSW @ POR L 37 21 9 12 75.0 1 2 50.0 2 2 100.0 1 0 1 1 0 0 0 2 -1
+p407
+aVMarco Belinelli GSW 01/10/2009 GSW @ POR L 25 4 2 8 25.0 0 2 0.0 0 0 - 1 2 3 3 1 0 1 1 -19
+p408
+aVRonny Turiaf GSW 01/10/2009 GSW @ POR L 20 12 6 7 85.7 0 0 - 0 0 - 2 4 6 7 0 0 1 3 8
+p409
+aVJermareo Davidson GSW 01/10/2009 GSW @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p410
+aVAndris Biedrins GSW 01/10/2009 GSW @ POR L 34 10 3 5 60.0 0 0 - 4 6 66.7 1 5 6 3 0 2 2 4 -19
+p411
+aVRob Kurz GSW 01/07/2009 GSW vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 2 -10
+p412
+aVCJ Watson GSW 01/07/2009 GSW vs. LAL L 25 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 6 0 0 1 0 -10
+p413
+aVAnthony Randolph GSW 01/07/2009 GSW vs. LAL L 14 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 1 2 3 5
+p414
+aVMarco Belinelli GSW 01/07/2009 GSW vs. LAL L 33 14 6 15 40.0 2 5 40.0 0 0 - 0 1 1 0 1 0 3 2 -11
+p415
+aVBrandan Wright GSW 01/07/2009 GSW vs. LAL L 12 5 2 7 28.6 0 0 - 1 2 50.0 5 4 9 0 0 1 0 3 13
+p416
+aVJamal Crawford GSW 01/07/2009 GSW vs. LAL L 44 25 10 26 38.5 1 8 12.5 4 4 100.0 0 1 1 9 0 0 5 1 -10
+p417
+aVCorey Maggette GSW 01/07/2009 GSW vs. LAL L 38 19 9 15 60.0 0 0 - 1 4 25.0 2 4 6 2 1 0 4 6 -12
+p418
+aVKelenna Azubuike GSW 01/07/2009 GSW vs. LAL L 21 15 6 8 75.0 2 2 100.0 1 3 33.3 2 2 4 0 0 0 0 2 3
+p419
+aVRonny Turiaf GSW 01/07/2009 GSW vs. LAL L 10 6 2 6 33.3 0 1 0.0 2 2 100.0 1 1 2 0 3 0 0 1 -17
+p420
+aVAndris Biedrins GSW 01/07/2009 GSW vs. LAL L 38 12 6 8 75.0 0 0 - 0 0 - 0 17 17 8 3 3 1 3 9
+p421
+aVRonny Turiaf GSW 01/05/2009 GSW @ UTA L 19 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 1 2 5 -9
+p422
+aVRob Kurz GSW 01/05/2009 GSW @ UTA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 4 -5
+p423
+aVBrandan Wright GSW 01/05/2009 GSW @ UTA L 18 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 0 1 0 0 2 3
+p424
+aVJamal Crawford GSW 01/05/2009 GSW @ UTA L 48 28 10 20 50.0 2 6 33.3 6 8 75.0 0 3 3 6 1 0 5 1 -5
+p425
+aVMarco Belinelli GSW 01/05/2009 GSW @ UTA L 16 7 2 5 40.0 2 4 50.0 1 3 33.3 0 0 0 1 0 0 2 1 2
+p426
+aVAndris Biedrins GSW 01/05/2009 GSW @ UTA L 36 14 7 10 70.0 0 0 - 0 0 - 6 11 17 3 0 1 0 5 1
+p427
+aVAnthony Morrow GSW 01/05/2009 GSW @ UTA L 15 14 5 6 83.3 3 3 100.0 1 2 50.0 0 0 0 0 0 0 1 1 -1
+p428
+aVCJ Watson GSW 01/05/2009 GSW @ UTA L 23 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 2 2 0 1 3 -9
+p429
+aVCorey Maggette GSW 01/05/2009 GSW @ UTA L 31 23 5 9 55.6 0 1 0.0 13 16 81.3 0 5 5 3 1 0 2 5 4
+p430
+aVStephen Jackson GSW 01/05/2009 GSW @ UTA L 24 15 6 12 50.0 1 3 33.3 2 2 100.0 2 2 4 4 2 0 1 1 -6
+p431
+aVAndris Biedrins GSW 01/02/2009 GSW @ MIN L 33 18 8 12 66.7 0 0 - 2 6 33.3 5 8 13 1 0 2 0 4 -12
+p432
+aVJamal Crawford GSW 01/02/2009 GSW @ MIN L 32 11 3 12 25.0 1 6 16.7 4 4 100.0 0 3 3 3 1 0 1 2 -16
+p433
+aVAnthony Morrow GSW 01/02/2009 GSW @ MIN L 22 14 6 11 54.5 2 4 50.0 0 0 - 2 2 4 0 0 0 1 3 4
+p434
+aVMarco Belinelli GSW 01/02/2009 GSW @ MIN L 29 10 3 8 37.5 1 2 50.0 3 4 75.0 0 2 2 6 3 0 3 2 3
+p435
+aVStephen Jackson GSW 01/02/2009 GSW @ MIN L 37 25 7 14 50.0 2 3 66.7 9 11 81.8 0 3 3 7 1 1 6 3 -14
+p436
+aVKelenna Azubuike GSW 01/02/2009 GSW @ MIN L 16 2 0 2 0.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 2 -5
+p437
+aVRob Kurz GSW 01/02/2009 GSW @ MIN L 16 9 4 7 57.1 0 2 0.0 1 1 100.0 1 2 3 1 0 1 1 4 -6
+p438
+aVRonny Turiaf GSW 01/02/2009 GSW @ MIN L 22 8 4 6 66.7 0 0 - 0 0 - 0 4 4 1 0 3 2 3 8
+p439
+aVCJ Watson GSW 01/02/2009 GSW @ MIN L 31 11 3 8 37.5 1 3 33.3 4 4 100.0 2 4 6 2 3 0 1 3 3
+p440
+aVRonny Turiaf GSW 12/31/2008 GSW @ OKC L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 1 0 4 -10
+p441
+aVStephen Jackson GSW 12/31/2008 GSW @ OKC L 41 17 5 16 31.3 1 4 25.0 6 8 75.0 0 7 7 9 5 0 4 3 -5
+p442
+aVMarco Belinelli GSW 12/31/2008 GSW @ OKC L 30 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 5 0 0 4 3 -5
+p443
+aVAnthony Morrow GSW 12/31/2008 GSW @ OKC L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p444
+aVKelenna Azubuike GSW 12/31/2008 GSW @ OKC L 31 24 8 12 66.7 4 6 66.7 4 4 100.0 2 0 2 2 1 1 2 2 -10
+p445
+aVBrandan Wright GSW 12/31/2008 GSW @ OKC L 20 13 5 7 71.4 0 0 - 3 4 75.0 0 3 3 0 1 0 2 4 10
+p446
+aVJamal Crawford GSW 12/31/2008 GSW @ OKC L 36 11 4 8 50.0 0 1 0.0 3 4 75.0 0 3 3 2 0 0 3 1 -4
+p447
+aVCJ Watson GSW 12/31/2008 GSW @ OKC L 30 16 5 10 50.0 4 8 50.0 2 2 100.0 0 2 2 0 0 1 3 2 -7
+p448
+aVAndris Biedrins GSW 12/31/2008 GSW @ OKC L 36 15 6 13 46.2 0 0 - 3 4 75.0 6 7 13 1 2 1 2 4 -1
+p449
+aVMarco Belinelli GSW 12/29/2008 GSW vs. TOR W 38 23 6 12 50.0 5 8 62.5 6 6 100.0 1 1 2 6 0 0 2 3 16
+p450
+aVBrandan Wright GSW 12/29/2008 GSW vs. TOR W 8 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -4
+p451
+aVKelenna Azubuike GSW 12/29/2008 GSW vs. TOR W 27 18 8 10 80.0 2 2 100.0 0 0 - 0 4 4 0 0 0 2 3 4
+p452
+aVAndris Biedrins GSW 12/29/2008 GSW vs. TOR W 31 13 5 8 62.5 0 0 - 3 5 60.0 1 14 15 0 2 5 2 3 4
+p453
+aVCJ Watson GSW 12/29/2008 GSW vs. TOR W 35 15 5 9 55.6 2 3 66.7 3 4 75.0 0 2 2 2 3 0 0 3 7
+p454
+aVStephen Jackson GSW 12/29/2008 GSW vs. TOR W 48 30 9 20 45.0 2 6 33.3 10 10 100.0 3 4 7 7 2 2 4 4 6
+p455
+aVRonny Turiaf GSW 12/29/2008 GSW vs. TOR W 19 2 1 1 100.0 0 0 - 0 0 - 0 2 2 4 0 2 1 3 2
+p456
+aVJamal Crawford GSW 12/29/2008 GSW vs. TOR W 36 10 2 11 18.2 1 5 20.0 5 6 83.3 0 4 4 7 1 0 1 2 -5
+p457
+aVAndris Biedrins GSW 12/28/2008 GSW @ LAL L 26 8 4 9 44.4 0 0 - 0 3 0.0 6 11 17 2 3 0 0 3 -10
+p458
+aVStephen Jackson GSW 12/28/2008 GSW @ LAL L 29 9 3 9 33.3 1 4 25.0 2 2 100.0 0 1 1 5 1 0 5 2 -10
+p459
+aVJamal Crawford GSW 12/28/2008 GSW @ LAL L 27 22 7 12 58.3 2 4 50.0 6 6 100.0 0 2 2 5 1 0 3 1 -10
+p460
+aVKelenna Azubuike GSW 12/28/2008 GSW @ LAL L 20 12 5 9 55.6 0 1 0.0 2 3 66.7 0 2 2 1 1 0 2 2 -15
+p461
+aVRonny Turiaf GSW 12/28/2008 GSW @ LAL L 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 4 3 4 -15
+p462
+aVDeMarcus Nelson GSW 12/28/2008 GSW @ LAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 1 1 2
+p463
+aVMarco Belinelli GSW 12/28/2008 GSW @ LAL L 29 14 5 11 45.5 2 5 40.0 2 2 100.0 0 2 2 2 1 0 1 3 -14
+p464
+aVBrandan Wright GSW 12/28/2008 GSW @ LAL L 31 14 4 10 40.0 0 0 - 6 8 75.0 2 2 4 4 0 2 0 2 -5
+p465
+aVAnthony Randolph GSW 12/28/2008 GSW @ LAL L 9 6 2 4 50.0 0 0 - 2 4 50.0 0 0 0 0 0 0 2 1 -6
+p466
+aVRob Kurz GSW 12/28/2008 GSW @ LAL L 9 10 3 4 75.0 1 1 100.0 3 3 100.0 1 1 2 0 0 1 0 1 2
+p467
+aVCJ Watson GSW 12/28/2008 GSW @ LAL L 23 14 5 7 71.4 3 3 100.0 1 2 50.0 0 1 1 1 2 0 0 1 -6
+p468
+aVAnthony Morrow GSW 12/28/2008 GSW @ LAL L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p469
+aVAndris Biedrins GSW 12/26/2008 GSW vs. BOS W 26 7 3 5 60.0 0 0 - 1 4 25.0 3 4 7 0 2 0 2 5 -1
+p470
+aVMarco Belinelli GSW 12/26/2008 GSW vs. BOS W 43 22 7 17 41.2 4 11 36.4 4 4 100.0 0 1 1 4 2 0 5 3 12
+p471
+aVCJ Watson GSW 12/26/2008 GSW vs. BOS W 28 8 3 6 50.0 1 3 33.3 1 2 50.0 0 2 2 3 0 0 2 3 0
+p472
+aVRonny Turiaf GSW 12/26/2008 GSW vs. BOS W 30 14 2 4 50.0 0 0 - 10 10 100.0 3 5 8 2 1 2 4 4 10
+p473
+aVAnthony Morrow GSW 12/26/2008 GSW vs. BOS W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 7
+p474
+aVStephen Jackson GSW 12/26/2008 GSW vs. BOS W 46 28 9 17 52.9 3 8 37.5 7 7 100.0 1 6 7 4 2 1 6 3 10
+p475
+aVKelenna Azubuike GSW 12/26/2008 GSW vs. BOS W 31 10 4 8 50.0 2 4 50.0 0 0 - 1 4 5 2 1 2 1 1 19
+p476
+aVBrandan Wright GSW 12/26/2008 GSW vs. BOS W 20 8 4 9 44.4 0 0 - 0 0 - 2 2 4 3 0 2 1 2 -2
+p477
+aVAnthony Randolph GSW 12/26/2008 GSW vs. BOS W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p478
+aVKelenna Azubuike GSW 12/23/2008 GSW @ MIA L 40 16 6 19 31.6 2 6 33.3 2 2 100.0 3 6 9 3 0 0 4 3 0
+p479
+aVMarco Belinelli GSW 12/23/2008 GSW @ MIA L 32 7 3 11 27.3 1 4 25.0 0 0 - 0 1 1 3 1 0 2 2 -15
+p480
+aVAnthony Randolph GSW 12/23/2008 GSW @ MIA L 20 10 4 9 44.4 0 0 - 2 2 100.0 2 4 6 0 1 2 3 1 -2
+p481
+aVAndris Biedrins GSW 12/23/2008 GSW @ MIA L 30 6 3 8 37.5 0 0 - 0 2 0.0 5 4 9 2 5 0 1 4 -15
+p482
+aVCJ Watson GSW 12/23/2008 GSW @ MIA L 39 18 7 15 46.7 2 4 50.0 2 2 100.0 1 0 1 2 0 0 1 1 5
+p483
+aVAnthony Morrow GSW 12/23/2008 GSW @ MIA L 27 8 3 11 27.3 0 1 0.0 2 2 100.0 2 5 7 1 1 0 2 3 -5
+p484
+aVRonny Turiaf GSW 12/23/2008 GSW @ MIA L 18 5 2 4 50.0 0 0 - 1 1 100.0 2 3 5 2 0 0 1 3 7
+p485
+aVBrandan Wright GSW 12/23/2008 GSW @ MIA L 18 12 4 7 57.1 0 0 - 4 4 100.0 0 2 2 0 2 1 0 0 -10
+p486
+aVDeMarcus Nelson GSW 12/23/2008 GSW @ MIA L 16 6 1 5 20.0 0 0 - 4 4 100.0 1 0 1 1 2 0 2 5 -5
+p487
+aVAndris Biedrins GSW 12/22/2008 GSW @ ORL L 25 5 2 9 22.2 0 0 - 1 6 16.7 4 5 9 5 3 0 3 3 -10
+p488
+aVRob Kurz GSW 12/22/2008 GSW @ ORL L 19 2 0 6 0.0 0 2 0.0 2 2 100.0 3 2 5 0 3 1 3 4 -26
+p489
+aVAnthony Morrow GSW 12/22/2008 GSW @ ORL L 28 13 5 10 50.0 1 1 100.0 2 2 100.0 3 1 4 2 0 0 1 1 -20
+p490
+aVRonny Turiaf GSW 12/22/2008 GSW @ ORL L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 1 0 0 0 3 -9
+p491
+aVDeMarcus Nelson GSW 12/22/2008 GSW @ ORL L 9 0 0 1 0.0 0 1 0.0 0 2 0.0 0 1 1 0 0 0 1 1 -9
+p492
+aVAnthony Randolph GSW 12/22/2008 GSW @ ORL L 26 11 4 8 50.0 0 0 - 3 4 75.0 4 8 12 1 0 3 1 2 -10
+p493
+aVKelenna Azubuike GSW 12/22/2008 GSW @ ORL L 26 8 3 7 42.9 0 0 - 2 2 100.0 2 2 4 2 1 1 0 0 -14
+p494
+aVCJ Watson GSW 12/22/2008 GSW @ ORL L 11 4 1 7 14.3 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 1 -10
+p495
+aVMarco Belinelli GSW 12/22/2008 GSW @ ORL L 30 12 4 13 30.8 0 2 0.0 4 4 100.0 1 5 6 2 0 0 2 2 -17
+p496
+aVJamal Crawford GSW 12/22/2008 GSW @ ORL L 32 18 7 21 33.3 3 6 50.0 1 2 50.0 1 2 3 1 2 0 3 0 -15
+p497
+aVBrandan Wright GSW 12/22/2008 GSW @ ORL L 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -11
+p498
+aVMarcus Williams GSW 12/22/2008 GSW @ ORL L 9 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 -9
+p499
+aVBrandan Wright GSW 12/20/2008 GSW @ CHA W 8 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 2 3 -3
+p500
+aVRonny Turiaf GSW 12/20/2008 GSW @ CHA W 24 4 2 5 40.0 0 0 - 0 0 - 1 5 6 5 0 2 3 3 19
+p501
+aVMarco Belinelli GSW 12/20/2008 GSW @ CHA W 34 13 5 10 50.0 2 4 50.0 1 1 100.0 0 1 1 4 2 0 1 3 -1
+p502
+aVAnthony Randolph GSW 12/20/2008 GSW @ CHA W 7 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 1 -4
+p503
+aVAndris Biedrins GSW 12/20/2008 GSW @ CHA W 34 11 5 7 71.4 0 0 - 1 4 25.0 2 7 9 3 1 0 2 6 5
+p504
+aVKelenna Azubuike GSW 12/20/2008 GSW @ CHA W 42 21 7 18 38.9 3 6 50.0 4 5 80.0 2 11 13 0 0 1 2 2 8
+p505
+aVDeMarcus Nelson GSW 12/20/2008 GSW @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p506
+aVCJ Watson GSW 12/20/2008 GSW @ CHA W 25 5 1 3 33.3 0 0 - 3 4 75.0 2 1 3 1 1 1 0 0 0
+p507
+aVRob Kurz GSW 12/20/2008 GSW @ CHA W 10 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 3 10
+p508
+aVAnthony Morrow GSW 12/20/2008 GSW @ CHA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -12
+p509
+aVJamal Crawford GSW 12/20/2008 GSW @ CHA W 46 50 14 26 53.8 5 8 62.5 17 18 94.4 0 2 2 5 0 1 1 2 15
+p510
+aVMarco Belinelli GSW 12/19/2008 GSW @ ATL L 42 27 11 21 52.4 3 10 30.0 2 3 66.7 1 2 3 6 2 0 4 3 -15
+p511
+aVRonny Turiaf GSW 12/19/2008 GSW @ ATL L 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 3 0 4 -2
+p512
+aVRob Kurz GSW 12/19/2008 GSW @ ATL L 12 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 1 2 -8
+p513
+aVCJ Watson GSW 12/19/2008 GSW @ ATL L 13 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -5
+p514
+aVAndris Biedrins GSW 12/19/2008 GSW @ ATL L 32 14 6 9 66.7 0 0 - 2 2 100.0 3 12 15 6 0 1 4 3 -19
+p515
+aVAnthony Morrow GSW 12/19/2008 GSW @ ATL L 26 15 6 11 54.5 2 4 50.0 1 2 50.0 2 3 5 1 2 0 0 4 -1
+p516
+aVKelenna Azubuike GSW 12/19/2008 GSW @ ATL L 27 13 6 13 46.2 0 3 0.0 1 1 100.0 3 2 5 1 3 0 0 1 -16
+p517
+aVJamal Crawford GSW 12/19/2008 GSW @ ATL L 35 6 3 15 20.0 0 4 0.0 0 0 - 0 2 2 5 2 0 3 0 -12
+p518
+aVBrandan Wright GSW 12/19/2008 GSW @ ATL L 30 19 7 13 53.8 0 1 0.0 5 8 62.5 5 3 8 0 2 0 1 3 -2
+p519
+aVJamal Crawford GSW 12/17/2008 GSW @ IND L 38 29 11 26 42.3 4 11 36.4 3 4 75.0 1 8 9 4 0 0 1 2 -7
+p520
+aVKelenna Azubuike GSW 12/17/2008 GSW @ IND L 37 18 6 12 50.0 2 3 66.7 4 6 66.7 3 6 9 2 0 1 2 1 -13
+p521
+aVStephen Jackson GSW 12/17/2008 GSW @ IND L 39 20 8 14 57.1 1 3 33.3 3 3 100.0 2 4 6 3 3 1 4 1 -10
+p522
+aVRonny Turiaf GSW 12/17/2008 GSW @ IND L 25 8 2 6 33.3 0 0 - 4 4 100.0 0 2 2 4 1 6 0 4 -12
+p523
+aVAnthony Morrow GSW 12/17/2008 GSW @ IND L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 1 1 0 1 -5
+p524
+aVDeMarcus Nelson GSW 12/17/2008 GSW @ IND L 20 2 1 6 16.7 0 2 0.0 0 0 - 0 7 7 1 0 0 1 2 3
+p525
+aVAndris Biedrins GSW 12/17/2008 GSW @ IND L 23 16 6 13 46.2 0 0 - 4 6 66.7 5 5 10 0 0 2 4 5 7
+p526
+aVMarco Belinelli GSW 12/17/2008 GSW @ IND L 39 21 8 16 50.0 5 8 62.5 0 0 - 0 4 4 4 1 0 4 3 -6
+p527
+aVBrandan Wright GSW 12/17/2008 GSW @ IND L 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 8
+p528
+aVAndris Biedrins GSW 12/15/2008 GSW vs. ORL L 31 23 10 12 83.3 0 0 - 3 4 75.0 5 4 9 1 2 2 3 1 -7
+p529
+aVBrandan Wright GSW 12/15/2008 GSW vs. ORL L 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -1
+p530
+aVKelenna Azubuike GSW 12/15/2008 GSW vs. ORL L 37 6 2 14 14.3 1 3 33.3 1 2 50.0 4 6 10 1 1 0 1 1 -6
+p531
+aVAnthony Randolph GSW 12/15/2008 GSW vs. ORL L 2 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 1 0 0 1 0 5
+p532
+aVAnthony Morrow GSW 12/15/2008 GSW vs. ORL L 14 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 0 0 3 5
+p533
+aVCJ Watson GSW 12/15/2008 GSW vs. ORL L 22 7 2 6 33.3 1 1 100.0 2 2 100.0 1 2 3 0 2 0 2 3 -14
+p534
+aVRonny Turiaf GSW 12/15/2008 GSW vs. ORL L 14 5 2 7 28.6 0 0 - 1 3 33.3 0 4 4 0 1 1 0 1 -9
+p535
+aVMarco Belinelli GSW 12/15/2008 GSW vs. ORL L 31 19 8 14 57.1 2 5 40.0 1 1 100.0 0 4 4 6 1 0 2 0 -7
+p536
+aVStephen Jackson GSW 12/15/2008 GSW vs. ORL L 39 12 3 14 21.4 0 3 0.0 6 6 100.0 3 4 7 3 0 0 4 1 -5
+p537
+aVJamal Crawford GSW 12/15/2008 GSW vs. ORL L 37 16 6 17 35.3 1 6 16.7 3 3 100.0 0 3 3 6 0 0 2 0 -16
+p538
+aVAnthony Morrow GSW 12/13/2008 GSW @ DEN L 23 8 4 14 28.6 0 1 0.0 0 0 - 3 3 6 2 1 0 2 3 1
+p539
+aVJamal Crawford GSW 12/13/2008 GSW @ DEN L 41 25 11 19 57.9 0 4 0.0 3 3 100.0 0 1 1 3 5 0 1 0 -26
+p540
+aVCJ Watson GSW 12/13/2008 GSW @ DEN L 31 8 2 8 25.0 0 2 0.0 4 4 100.0 0 3 3 1 3 0 2 2 -5
+p541
+aVMarco Belinelli GSW 12/13/2008 GSW @ DEN L 21 14 5 8 62.5 2 4 50.0 2 2 100.0 0 1 1 0 0 0 1 0 -4
+p542
+aVKelenna Azubuike GSW 12/13/2008 GSW @ DEN L 24 9 3 9 33.3 1 2 50.0 2 2 100.0 1 4 5 4 0 0 0 0 -9
+p543
+aVMarcus Williams GSW 12/13/2008 GSW @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 4
+p544
+aVRob Kurz GSW 12/13/2008 GSW @ DEN L 33 20 7 11 63.6 3 3 100.0 3 4 75.0 3 4 7 1 2 2 2 3 -19
+p545
+aVAndris Biedrins GSW 12/13/2008 GSW @ DEN L 24 10 4 7 57.1 0 0 - 2 3 66.7 1 6 7 2 0 2 2 5 -10
+p546
+aVStephen Jackson GSW 12/13/2008 GSW @ DEN L 31 4 1 13 7.7 1 2 50.0 1 2 50.0 0 6 6 5 0 1 2 2 -25
+p547
+aVAnthony Randolph GSW 12/13/2008 GSW @ DEN L 10 7 3 8 37.5 0 0 - 1 4 25.0 1 3 4 2 1 0 1 0 3
+p548
+aVMarco Belinelli GSW 12/12/2008 GSW vs. HOU L 29 8 4 15 26.7 0 6 0.0 0 0 - 3 3 6 3 2 0 0 3 -3
+p549
+aVMarcus Williams GSW 12/12/2008 GSW vs. HOU L 10 2 0 3 0.0 0 3 0.0 2 4 50.0 0 2 2 3 0 0 0 1 7
+p550
+aVKelenna Azubuike GSW 12/12/2008 GSW vs. HOU L 22 11 4 8 50.0 1 1 100.0 2 2 100.0 2 2 4 4 1 1 1 5 -8
+p551
+aVAnthony Morrow GSW 12/12/2008 GSW vs. HOU L 26 15 6 13 46.2 0 2 0.0 3 3 100.0 2 2 4 1 1 0 0 2 0
+p552
+aVAnthony Randolph GSW 12/12/2008 GSW vs. HOU L 24 15 7 16 43.8 0 0 - 1 2 50.0 6 4 10 1 1 3 3 5 3
+p553
+aVRob Kurz GSW 12/12/2008 GSW vs. HOU L 15 10 4 4 100.0 1 1 100.0 1 1 100.0 1 0 1 2 1 3 0 1 6
+p554
+aVCJ Watson GSW 12/12/2008 GSW vs. HOU L 32 17 7 13 53.8 2 4 50.0 1 1 100.0 2 4 6 1 2 0 2 2 -15
+p555
+aVStephen Jackson GSW 12/12/2008 GSW vs. HOU L 31 8 2 14 14.3 0 3 0.0 4 6 66.7 1 3 4 5 1 0 3 3 -18
+p556
+aVAndris Biedrins GSW 12/12/2008 GSW vs. HOU L 26 18 8 14 57.1 0 0 - 2 4 50.0 5 7 12 0 0 3 1 4 -13
+p557
+aVJamal Crawford GSW 12/12/2008 GSW vs. HOU L 25 4 1 7 14.3 0 2 0.0 2 2 100.0 1 0 1 3 0 0 0 1 -14
+p558
+aVMarco Belinelli GSW 12/10/2008 GSW vs. MIL W 21 15 5 7 71.4 1 2 50.0 4 6 66.7 0 3 3 2 0 0 0 2 17
+p559
+aVAnthony Randolph GSW 12/10/2008 GSW vs. MIL W 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 2
+p560
+aVStephen Jackson GSW 12/10/2008 GSW vs. MIL W 41 21 7 23 30.4 1 8 12.5 6 9 66.7 0 5 5 8 4 0 2 3 24
+p561
+aVAnthony Morrow GSW 12/10/2008 GSW vs. MIL W 30 16 6 12 50.0 2 5 40.0 2 2 100.0 0 2 2 1 0 0 0 2 0
+p562
+aVJamal Crawford GSW 12/10/2008 GSW vs. MIL W 30 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 7 0 0 2 0 6
+p563
+aVRob Kurz GSW 12/10/2008 GSW vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p564
+aVKelenna Azubuike GSW 12/10/2008 GSW vs. MIL W 23 13 5 9 55.6 1 1 100.0 2 3 66.7 2 6 8 1 0 1 1 4 21
+p565
+aVCJ Watson GSW 12/10/2008 GSW vs. MIL W 36 19 7 11 63.6 1 2 50.0 4 4 100.0 2 5 7 4 0 0 1 1 24
+p566
+aVRonny Turiaf GSW 12/10/2008 GSW vs. MIL W 22 11 4 4 100.0 0 0 - 3 3 100.0 1 4 5 2 0 4 3 2 20
+p567
+aVAndris Biedrins GSW 12/10/2008 GSW vs. MIL W 27 18 6 9 66.7 0 0 - 6 6 100.0 4 10 14 2 1 4 0 2 3
+p568
+aVCJ Watson GSW 12/08/2008 GSW @ OKC W 21 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 1 1 0 2 1 2
+p569
+aVMarco Belinelli GSW 12/08/2008 GSW @ OKC W 18 13 6 7 85.7 1 1 100.0 0 0 - 0 2 2 0 2 0 2 4 4
+p570
+aVAndris Biedrins GSW 12/08/2008 GSW @ OKC W 40 17 7 15 46.7 0 0 - 3 7 42.9 6 15 21 5 3 2 6 5 7
+p571
+aVKelenna Azubuike GSW 12/08/2008 GSW @ OKC W 45 14 5 15 33.3 0 2 0.0 4 4 100.0 2 4 6 0 1 1 4 4 19
+p572
+aVRonny Turiaf GSW 12/08/2008 GSW @ OKC W 28 9 3 7 42.9 0 0 - 3 3 100.0 0 5 5 4 0 4 2 2 2
+p573
+aVJamal Crawford GSW 12/08/2008 GSW @ OKC W 40 19 7 13 53.8 1 5 20.0 4 5 80.0 0 1 1 6 2 0 5 1 0
+p574
+aVBrandan Wright GSW 12/08/2008 GSW @ OKC W 23 15 5 6 83.3 0 0 - 5 6 83.3 1 4 5 0 1 0 0 2 7
+p575
+aVAnthony Morrow GSW 12/08/2008 GSW @ OKC W 25 15 4 12 33.3 2 5 40.0 5 6 83.3 2 3 5 1 3 0 1 0 9
+p576
+aVAnthony Randolph GSW 12/06/2008 GSW @ SAS L 13 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 0 1 0 1 0 1
+p577
+aVStephen Jackson GSW 12/06/2008 GSW @ SAS L 15 6 2 5 40.0 1 3 33.3 1 2 50.0 1 1 2 1 0 0 2 2 -14
+p578
+aVRonny Turiaf GSW 12/06/2008 GSW @ SAS L 15 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 4 0 0 0 1 -15
+p579
+aVCorey Maggette GSW 12/06/2008 GSW @ SAS L 20 6 1 10 10.0 0 1 0.0 4 4 100.0 2 5 7 0 0 1 3 1 -21
+p580
+aVAndris Biedrins GSW 12/06/2008 GSW @ SAS L 21 5 2 5 40.0 0 0 - 1 2 50.0 2 6 8 0 1 0 1 4 -21
+p581
+aVRob Kurz GSW 12/06/2008 GSW @ SAS L 18 3 1 3 33.3 0 0 - 1 2 50.0 2 5 7 1 0 0 0 1 0
+p582
+aVMarco Belinelli GSW 12/06/2008 GSW @ SAS L 15 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 0
+p583
+aVBrandan Wright GSW 12/06/2008 GSW @ SAS L 21 13 6 9 66.7 0 0 - 1 2 50.0 2 4 6 0 0 0 1 4 -23
+p584
+aVAnthony Morrow GSW 12/06/2008 GSW @ SAS L 25 9 4 9 44.4 0 1 0.0 1 1 100.0 1 4 5 1 1 0 0 2 -3
+p585
+aVJamal Crawford GSW 12/06/2008 GSW @ SAS L 21 12 2 5 40.0 0 2 0.0 8 8 100.0 0 0 0 3 0 0 1 1 -33
+p586
+aVCJ Watson GSW 12/06/2008 GSW @ SAS L 31 8 4 12 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -31
+p587
+aVKelenna Azubuike GSW 12/06/2008 GSW @ SAS L 26 12 4 10 40.0 2 2 100.0 2 3 66.7 0 3 3 0 1 1 1 2 -15
+p588
+aVCorey Maggette GSW 12/05/2008 GSW @ HOU L 36 23 7 14 50.0 1 2 50.0 8 8 100.0 3 7 10 1 0 0 1 4 -11
+p589
+aVAnthony Randolph GSW 12/05/2008 GSW @ HOU L 26 12 6 8 75.0 0 0 - 0 0 - 2 1 3 1 1 0 2 4 -17
+p590
+aVAnthony Morrow GSW 12/05/2008 GSW @ HOU L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -12
+p591
+aVKelenna Azubuike GSW 12/05/2008 GSW @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p592
+aVCJ Watson GSW 12/05/2008 GSW @ HOU L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p593
+aVStephen Jackson GSW 12/05/2008 GSW @ HOU L 44 26 11 18 61.1 4 8 50.0 0 2 0.0 0 5 5 5 0 1 6 3 -12
+p594
+aVBrandan Wright GSW 12/05/2008 GSW @ HOU L 8 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p595
+aVRonny Turiaf GSW 12/05/2008 GSW @ HOU L 22 11 4 7 57.1 0 0 - 3 5 60.0 1 2 3 1 0 0 1 6 5
+p596
+aVRob Kurz GSW 12/05/2008 GSW @ HOU L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -7
+p597
+aVAndris Biedrins GSW 12/05/2008 GSW @ HOU L 32 12 5 7 71.4 0 0 - 2 6 33.3 2 5 7 2 1 2 2 6 -12
+p598
+aVJamal Crawford GSW 12/05/2008 GSW @ HOU L 43 22 9 21 42.9 2 7 28.6 2 2 100.0 0 3 3 4 3 0 2 1 -14
+p599
+aVRonny Turiaf GSW 12/01/2008 GSW vs. MIA L 18 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 1 0 5 1 2 9
+p600
+aVBrandan Wright GSW 12/01/2008 GSW vs. MIA L 31 15 7 13 53.8 0 0 - 1 2 50.0 1 3 4 0 1 2 0 3 -4
+p601
+aVCorey Maggette GSW 12/01/2008 GSW vs. MIA L 46 29 6 15 40.0 0 3 0.0 17 18 94.4 0 5 5 0 1 0 1 5 0
+p602
+aVAnthony Randolph GSW 12/01/2008 GSW vs. MIA L 7 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 3
+p603
+aVCJ Watson GSW 12/01/2008 GSW vs. MIA L 27 8 2 5 40.0 0 0 - 4 4 100.0 1 3 4 3 4 0 0 3 -4
+p604
+aVAndris Biedrins GSW 12/01/2008 GSW vs. MIA L 35 17 7 10 70.0 0 0 - 3 4 75.0 5 10 15 2 2 1 2 5 -6
+p605
+aVStephen Jackson GSW 12/01/2008 GSW vs. MIA L 49 8 2 11 18.2 0 3 0.0 4 4 100.0 0 1 1 11 1 0 4 2 -4
+p606
+aVJamal Crawford GSW 12/01/2008 GSW vs. MIA L 50 40 11 22 50.0 4 8 50.0 14 16 87.5 1 0 1 7 0 0 1 0 1
+p607
+aVAndris Biedrins GSW 11/29/2008 GSW @ NYK L 30 16 7 16 43.8 0 0 - 2 5 40.0 6 1 7 3 5 1 3 3 -17
+p608
+aVRonny Turiaf GSW 11/29/2008 GSW @ NYK L 10 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 1 0 1 8
+p609
+aVJamal Crawford GSW 11/29/2008 GSW @ NYK L 42 21 6 20 30.0 2 7 28.6 7 7 100.0 1 9 10 5 2 1 1 3 -13
+p610
+aVAnthony Morrow GSW 11/29/2008 GSW @ NYK L 18 7 2 9 22.2 1 2 50.0 2 2 100.0 1 0 1 0 1 0 0 1 1
+p611
+aVCorey Maggette GSW 11/29/2008 GSW @ NYK L 42 32 12 20 60.0 0 3 0.0 8 10 80.0 4 8 12 2 0 0 5 5 -9
+p612
+aVAnthony Randolph GSW 11/29/2008 GSW @ NYK L 12 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 1 1 2 2 2
+p613
+aVMarco Belinelli GSW 11/29/2008 GSW @ NYK L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p614
+aVBrandan Wright GSW 11/29/2008 GSW @ NYK L 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 1 0 1 -2
+p615
+aVKelenna Azubuike GSW 11/29/2008 GSW @ NYK L 37 13 4 11 36.4 2 4 50.0 3 4 75.0 1 3 4 3 0 0 1 4 -25
+p616
+aVCJ Watson GSW 11/29/2008 GSW @ NYK L 36 23 9 17 52.9 1 2 50.0 4 4 100.0 1 5 6 5 3 0 2 1 -4
+p617
+aVBrandan Wright GSW 11/28/2008 GSW @ CLE L 20 8 3 5 60.0 0 0 - 2 3 66.7 0 4 4 0 2 1 0 2 2
+p618
+aVMarco Belinelli GSW 11/28/2008 GSW @ CLE L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p619
+aVAnthony Morrow GSW 11/28/2008 GSW @ CLE L 19 5 2 6 33.3 0 1 0.0 1 2 50.0 2 2 4 1 0 0 0 1 -1
+p620
+aVJamal Crawford GSW 11/28/2008 GSW @ CLE L 35 15 6 14 42.9 2 6 33.3 1 3 33.3 0 5 5 6 1 0 5 1 -5
+p621
+aVKelenna Azubuike GSW 11/28/2008 GSW @ CLE L 20 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 1 2 1 1 2 -15
+p622
+aVCorey Maggette GSW 11/28/2008 GSW @ CLE L 32 11 3 11 27.3 0 1 0.0 5 5 100.0 1 1 2 0 1 0 2 2 -26
+p623
+aVRob Kurz GSW 11/28/2008 GSW @ CLE L 8 5 1 2 50.0 0 1 0.0 3 4 75.0 0 0 0 0 1 2 1 1 11
+p624
+aVAnthony Randolph GSW 11/28/2008 GSW @ CLE L 17 6 3 9 33.3 0 0 - 0 0 - 1 6 7 0 1 2 0 0 2
+p625
+aVCJ Watson GSW 11/28/2008 GSW @ CLE L 24 17 6 7 85.7 1 2 50.0 4 4 100.0 0 3 3 2 2 0 0 1 -8
+p626
+aVRonny Turiaf GSW 11/28/2008 GSW @ CLE L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -9
+p627
+aVStephen Jackson GSW 11/28/2008 GSW @ CLE L 25 11 2 11 18.2 0 1 0.0 7 8 87.5 3 3 6 3 0 1 3 3 -18
+p628
+aVAndris Biedrins GSW 11/28/2008 GSW @ CLE L 21 8 2 5 40.0 0 0 - 4 4 100.0 4 3 7 0 0 1 2 1 -11
+p629
+aVAnthony Randolph GSW 11/26/2008 GSW @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p630
+aVJamal Crawford GSW 11/26/2008 GSW @ BOS L 37 18 5 17 29.4 2 8 25.0 6 6 100.0 1 5 6 6 0 0 4 3 -17
+p631
+aVCJ Watson GSW 11/26/2008 GSW @ BOS L 16 10 4 4 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 4
+p632
+aVBrandan Wright GSW 11/26/2008 GSW @ BOS L 13 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 -10
+p633
+aVRonny Turiaf GSW 11/26/2008 GSW @ BOS L 22 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 5 0 4 3
+p634
+aVStephen Jackson GSW 11/26/2008 GSW @ BOS L 45 30 11 18 61.1 3 4 75.0 5 7 71.4 2 3 5 6 3 1 2 2 -6
+p635
+aVAndris Biedrins GSW 11/26/2008 GSW @ BOS L 42 8 4 9 44.4 0 0 - 0 2 0.0 1 8 9 4 1 2 0 4 0
+p636
+aVCorey Maggette GSW 11/26/2008 GSW @ BOS L 37 32 12 20 60.0 2 6 33.3 6 8 75.0 0 4 4 1 1 0 4 4 -7
+p637
+aVKelenna Azubuike GSW 11/26/2008 GSW @ BOS L 23 5 0 3 0.0 0 1 0.0 5 6 83.3 0 2 2 1 0 0 0 1 -7
+p638
+aVRob Kurz GSW 11/26/2008 GSW @ BOS L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 2
+p639
+aVRonny Turiaf GSW 11/25/2008 GSW @ WAS L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -4
+p640
+aVCJ Watson GSW 11/25/2008 GSW @ WAS L 19 6 3 5 60.0 0 0 - 0 0 - 2 1 3 3 1 0 1 0 -6
+p641
+aVCorey Maggette GSW 11/25/2008 GSW @ WAS L 30 17 6 16 37.5 1 4 25.0 4 5 80.0 1 1 2 3 1 0 2 2 -17
+p642
+aVAnthony Morrow GSW 11/25/2008 GSW @ WAS L 15 6 2 7 28.6 1 4 25.0 1 2 50.0 2 4 6 1 0 0 2 1 0
+p643
+aVAnthony Randolph GSW 11/25/2008 GSW @ WAS L 19 2 1 7 14.3 0 0 - 0 0 - 2 2 4 1 1 2 5 2 -10
+p644
+aVJamal Crawford GSW 11/25/2008 GSW @ WAS L 29 9 4 10 40.0 1 5 20.0 0 0 - 0 0 0 7 1 0 1 2 -18
+p645
+aVAndris Biedrins GSW 11/25/2008 GSW @ WAS L 30 15 5 7 71.4 0 0 - 5 9 55.6 3 6 9 2 1 2 5 1 -17
+p646
+aVStephen Jackson GSW 11/25/2008 GSW @ WAS L 34 16 5 12 41.7 2 4 50.0 4 5 80.0 1 2 3 8 2 4 3 1 -19
+p647
+aVKelenna Azubuike GSW 11/25/2008 GSW @ WAS L 33 15 6 9 66.7 1 1 100.0 2 2 100.0 1 4 5 0 0 0 1 3 -24
+p648
+aVBrandan Wright GSW 11/25/2008 GSW @ WAS L 16 10 5 6 83.3 0 1 0.0 0 0 - 1 4 5 0 0 1 0 0 -9
+p649
+aVMarco Belinelli GSW 11/25/2008 GSW @ WAS L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 4
+p650
+aVCJ Watson GSW 11/23/2008 GSW @ PHI L 24 12 5 10 50.0 1 2 50.0 1 2 50.0 0 5 5 2 3 0 4 1 -5
+p651
+aVRonny Turiaf GSW 11/23/2008 GSW @ PHI L 22 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 5 1 1 1
+p652
+aVAnthony Randolph GSW 11/23/2008 GSW @ PHI L 28 6 3 10 30.0 0 0 - 0 2 0.0 2 2 4 3 0 2 3 4 0
+p653
+aVStephen Jackson GSW 11/23/2008 GSW @ PHI L 43 12 5 14 35.7 1 7 14.3 1 2 50.0 1 6 7 7 3 1 4 2 -6
+p654
+aVAnthony Morrow GSW 11/23/2008 GSW @ PHI L 24 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 1 0 0 0 2 -3
+p655
+aVKelenna Azubuike GSW 11/23/2008 GSW @ PHI L 27 16 6 11 54.5 2 3 66.7 2 2 100.0 3 2 5 2 1 1 1 1 -18
+p656
+aVAndris Biedrins GSW 11/23/2008 GSW @ PHI L 30 10 5 8 62.5 0 0 - 0 2 0.0 4 4 8 4 2 2 3 2 -11
+p657
+aVBrandan Wright GSW 11/23/2008 GSW @ PHI L 15 10 5 7 71.4 0 0 - 0 0 - 1 1 2 0 1 1 1 0 10
+p658
+aVCorey Maggette GSW 11/23/2008 GSW @ PHI L 26 7 2 10 20.0 0 3 0.0 3 3 100.0 0 2 2 1 0 1 1 2 -8
+p659
+aVAndris Biedrins GSW 11/21/2008 GSW vs. CHI L 36 23 10 16 62.5 0 0 - 3 5 60.0 5 5 10 3 1 1 1 4 2
+p660
+aVRonny Turiaf GSW 11/21/2008 GSW vs. CHI L 7 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -2
+p661
+aVAnthony Randolph GSW 11/21/2008 GSW vs. CHI L 13 10 4 7 57.1 0 1 0.0 2 2 100.0 5 4 9 1 1 4 2 2 -1
+p662
+aVMarco Belinelli GSW 11/21/2008 GSW vs. CHI L 16 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 3 1 0 1 0 8
+p663
+aVStephen Jackson GSW 11/21/2008 GSW vs. CHI L 45 32 13 20 65.0 2 3 66.7 4 5 80.0 0 2 2 6 0 0 8 1 -11
+p664
+aVCorey Maggette GSW 11/21/2008 GSW vs. CHI L 39 24 7 11 63.6 1 2 50.0 9 11 81.8 0 7 7 2 2 0 2 3 3
+p665
+aVCJ Watson GSW 11/21/2008 GSW vs. CHI L 35 4 2 10 20.0 0 3 0.0 0 0 - 0 5 5 6 2 0 0 1 -6
+p666
+aVBrandan Wright GSW 11/21/2008 GSW vs. CHI L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -9
+p667
+aVMarcus Williams GSW 11/21/2008 GSW vs. CHI L 4 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -4
+p668
+aVAnthony Morrow GSW 11/21/2008 GSW vs. CHI L 34 7 2 9 22.2 1 3 33.3 2 2 100.0 0 1 1 1 3 0 1 0 -5
+p669
+aVCorey Maggette GSW 11/18/2008 GSW vs. POR W 38 20 6 14 42.9 1 4 25.0 7 8 87.5 0 4 4 3 2 2 2 4 6
+p670
+aVBrandan Wright GSW 11/18/2008 GSW vs. POR W 8 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -3
+p671
+aVRonny Turiaf GSW 11/18/2008 GSW vs. POR W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 2 0 1 2
+p672
+aVAndris Biedrins GSW 11/18/2008 GSW vs. POR W 34 17 6 9 66.7 0 0 - 5 6 83.3 5 4 9 2 1 2 1 4 4
+p673
+aVKelenna Azubuike GSW 11/18/2008 GSW vs. POR W 34 15 5 12 41.7 1 2 50.0 4 4 100.0 1 4 5 1 2 0 3 5 1
+p674
+aVStephen Jackson GSW 11/18/2008 GSW vs. POR W 42 20 5 18 27.8 0 3 0.0 10 10 100.0 4 4 8 8 1 1 5 3 -3
+p675
+aVCJ Watson GSW 11/18/2008 GSW vs. POR W 35 10 4 9 44.4 0 1 0.0 2 2 100.0 1 4 5 4 2 0 2 1 10
+p676
+aVMarco Belinelli GSW 11/18/2008 GSW vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p677
+aVAnthony Morrow GSW 11/18/2008 GSW vs. POR W 36 25 8 12 66.7 4 5 80.0 5 5 100.0 0 4 4 1 1 0 2 1 10
+p678
+aVAnthony Morrow GSW 11/15/2008 GSW @ LAC W 42 37 15 20 75.0 4 5 80.0 3 3 100.0 3 8 11 1 0 0 2 2 24
+p679
+aVRonny Turiaf GSW 11/15/2008 GSW @ LAC W 12 0 0 2 0.0 0 0 - 0 0 - 2 3 5 1 0 1 0 1 10
+p680
+aVKelenna Azubuike GSW 11/15/2008 GSW @ LAC W 38 15 6 12 50.0 2 2 100.0 1 1 100.0 0 2 2 1 2 0 1 3 13
+p681
+aVStephen Jackson GSW 11/15/2008 GSW @ LAC W 42 20 7 19 36.8 1 7 14.3 5 6 83.3 1 3 4 10 2 0 3 0 11
+p682
+aVMarco Belinelli GSW 11/15/2008 GSW @ LAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p683
+aVCJ Watson GSW 11/15/2008 GSW @ LAC W 28 10 3 4 75.0 0 0 - 4 6 66.7 0 3 3 8 1 0 1 1 22
+p684
+aVAnthony Randolph GSW 11/15/2008 GSW @ LAC W 9 5 2 7 28.6 0 0 - 1 2 50.0 0 2 2 1 0 0 1 1 -4
+p685
+aVAndris Biedrins GSW 11/15/2008 GSW @ LAC W 36 17 8 15 53.3 0 0 - 1 2 50.0 8 8 16 4 0 0 2 5 8
+p686
+aVCorey Maggette GSW 11/15/2008 GSW @ LAC W 26 17 7 15 46.7 0 5 0.0 3 4 75.0 0 5 5 3 0 0 2 5 12
+p687
+aVBrandan Wright GSW 11/13/2008 GSW vs. DET L 17 9 4 5 80.0 0 0 - 1 1 100.0 2 4 6 0 1 2 1 1 4
+p688
+aVKelenna Azubuike GSW 11/13/2008 GSW vs. DET L 44 15 6 16 37.5 0 2 0.0 3 4 75.0 2 3 5 2 1 0 2 3 -5
+p689
+aVCorey Maggette GSW 11/13/2008 GSW vs. DET L 28 13 2 7 28.6 0 1 0.0 9 12 75.0 0 4 4 4 0 0 2 4 -15
+p690
+aVCJ Watson GSW 11/13/2008 GSW vs. DET L 35 17 7 15 46.7 0 1 0.0 3 4 75.0 2 4 6 1 2 0 4 4 7
+p691
+aVRonny Turiaf GSW 11/13/2008 GSW vs. DET L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 2 1 1 0 1 5
+p692
+aVDeMarcus Nelson GSW 11/13/2008 GSW vs. DET L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p693
+aVAnthony Morrow GSW 11/13/2008 GSW vs. DET L 15 8 3 8 37.5 0 1 0.0 2 2 100.0 4 0 4 0 0 0 0 3 3
+p694
+aVStephen Jackson GSW 11/13/2008 GSW vs. DET L 46 15 5 19 26.3 1 4 25.0 4 6 66.7 1 4 5 9 0 0 3 2 -7
+p695
+aVMarcus Williams GSW 11/13/2008 GSW vs. DET L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p696
+aVAndris Biedrins GSW 11/13/2008 GSW vs. DET L 36 17 7 14 50.0 0 0 - 3 6 50.0 7 12 19 2 1 1 1 3 -12
+p697
+aVKelenna Azubuike GSW 11/11/2008 GSW vs. MIN W 49 22 7 17 41.2 1 5 20.0 7 9 77.8 3 5 8 1 0 0 2 1 -1
+p698
+aVAnthony Morrow GSW 11/11/2008 GSW vs. MIN W 13 8 3 6 50.0 2 4 50.0 0 0 - 1 0 1 2 0 0 1 1 -8
+p699
+aVCJ Watson GSW 11/11/2008 GSW vs. MIN W 24 8 3 6 50.0 1 1 100.0 1 2 50.0 0 4 4 4 0 0 3 2 -1
+p700
+aVMarco Belinelli GSW 11/11/2008 GSW vs. MIN W 5 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 1 2 -2
+p701
+aVAnthony Randolph GSW 11/11/2008 GSW vs. MIN W 21 4 2 7 28.6 0 0 - 0 0 - 0 8 8 2 0 2 2 0 8
+p702
+aVRonny Turiaf GSW 11/11/2008 GSW vs. MIN W 27 9 3 4 75.0 0 0 - 3 4 75.0 1 2 3 0 1 3 2 2 1
+p703
+aVAndris Biedrins GSW 11/11/2008 GSW vs. MIN W 43 13 3 9 33.3 0 0 - 7 9 77.8 3 12 15 1 1 2 4 6 5
+p704
+aVStephen Jackson GSW 11/11/2008 GSW vs. MIN W 48 30 11 21 52.4 2 6 33.3 6 7 85.7 0 3 3 5 3 1 4 1 5
+p705
+aVBrandan Wright GSW 11/11/2008 GSW vs. MIN W 34 13 4 7 57.1 0 0 - 5 6 83.3 3 4 7 1 0 0 0 2 8
+p706
+aVDeMarcus Nelson GSW 11/09/2008 GSW @ SAC L 25 6 3 8 37.5 0 0 - 0 0 - 0 3 3 2 2 1 2 4 -8
+p707
+aVAnthony Randolph GSW 11/09/2008 GSW @ SAC L 14 11 2 10 20.0 0 1 0.0 7 10 70.0 3 4 7 0 0 1 2 2 -3
+p708
+aVStephen Jackson GSW 11/09/2008 GSW @ SAC L 33 15 5 12 41.7 1 3 33.3 4 5 80.0 1 1 2 6 1 0 2 4 -13
+p709
+aVAndris Biedrins GSW 11/09/2008 GSW @ SAC L 31 16 6 14 42.9 0 1 0.0 4 7 57.1 5 13 18 4 2 2 5 3 -9
+p710
+aVRonny Turiaf GSW 11/09/2008 GSW @ SAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p711
+aVAnthony Morrow GSW 11/09/2008 GSW @ SAC L 12 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 2 -1
+p712
+aVMarcus Williams GSW 11/09/2008 GSW @ SAC L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 2 3
+p713
+aVCJ Watson GSW 11/09/2008 GSW @ SAC L 27 10 5 10 50.0 0 0 - 0 0 - 0 1 1 3 0 0 2 2 -12
+p714
+aVKelenna Azubuike GSW 11/09/2008 GSW @ SAC L 28 12 6 12 50.0 0 2 0.0 0 2 0.0 2 3 5 0 2 0 1 2 -15
+p715
+aVRob Kurz GSW 11/09/2008 GSW @ SAC L 23 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 3 -5
+p716
+aVMarco Belinelli GSW 11/09/2008 GSW @ SAC L 11 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 1 1 0 0 0 -5
+p717
+aVBrandan Wright GSW 11/09/2008 GSW @ SAC L 24 10 5 11 45.5 0 1 0.0 0 0 - 2 2 4 0 2 3 0 2 -16
+p718
+aVCJ Watson GSW 11/07/2008 GSW vs. MEM L 42 9 1 7 14.3 0 1 0.0 7 11 63.6 3 5 8 8 1 0 0 2 -8
+p719
+aVAnthony Randolph GSW 11/07/2008 GSW vs. MEM L 17 8 4 8 50.0 0 0 - 0 0 - 1 6 7 0 0 1 0 3 9
+p720
+aVDeMarcus Nelson GSW 11/07/2008 GSW vs. MEM L 10 6 3 5 60.0 0 0 - 0 1 0.0 0 1 1 0 1 0 0 2 0
+p721
+aVAndris Biedrins GSW 11/07/2008 GSW vs. MEM L 35 23 7 13 53.8 0 0 - 9 10 90.0 5 7 12 1 1 2 3 4 0
+p722
+aVBrandan Wright GSW 11/07/2008 GSW vs. MEM L 21 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 1 3 3 1 -9
+p723
+aVStephen Jackson GSW 11/07/2008 GSW vs. MEM L 44 27 9 21 42.9 0 6 0.0 9 13 69.2 2 1 3 4 1 1 2 3 -2
+p724
+aVMarco Belinelli GSW 11/07/2008 GSW vs. MEM L 10 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -3
+p725
+aVKelenna Azubuike GSW 11/07/2008 GSW vs. MEM L 39 21 8 16 50.0 2 5 40.0 3 4 75.0 1 5 6 1 1 1 3 6 -7
+p726
+aVRonny Turiaf GSW 11/07/2008 GSW vs. MEM L 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -4
+p727
+aVMarcus Williams GSW 11/07/2008 GSW vs. MEM L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 4 0 1 0 1 -1
+p728
+aVAl Harrington GSW 11/05/2008 GSW vs. DEN W 16 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 2 1 0 0 4 -14
+p729
+aVAndris Biedrins GSW 11/05/2008 GSW vs. DEN W 32 12 6 14 42.9 0 0 - 0 3 0.0 5 6 11 2 0 5 2 6 5
+p730
+aVRonny Turiaf GSW 11/05/2008 GSW vs. DEN W 20 7 2 4 50.0 0 0 - 3 4 75.0 0 4 4 2 1 2 0 3 -6
+p731
+aVKelenna Azubuike GSW 11/05/2008 GSW vs. DEN W 44 22 8 17 47.1 1 6 16.7 5 7 71.4 3 5 8 4 2 1 0 1 21
+p732
+aVStephen Jackson GSW 11/05/2008 GSW vs. DEN W 44 29 8 22 36.4 1 9 11.1 12 13 92.3 1 2 3 7 1 0 5 4 7
+p733
+aVCJ Watson GSW 11/05/2008 GSW vs. DEN W 42 14 7 16 43.8 0 0 - 0 0 - 1 4 5 4 2 0 1 1 20
+p734
+aVMarco Belinelli GSW 11/05/2008 GSW vs. DEN W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p735
+aVDeMarcus Nelson GSW 11/05/2008 GSW vs. DEN W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -10
+p736
+aVBrandan Wright GSW 11/05/2008 GSW vs. DEN W 32 18 7 9 77.8 0 0 - 4 7 57.1 6 7 13 0 0 3 1 3 24
+p737
+aVAndris Biedrins GSW 11/03/2008 GSW @ MEM L 36 16 8 14 57.1 0 0 - 0 0 - 9 13 22 1 1 0 0 4 -6
+p738
+aVBrandan Wright GSW 11/03/2008 GSW @ MEM L 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 2 1 1 4
+p739
+aVStephen Jackson GSW 11/03/2008 GSW @ MEM L 44 17 6 21 28.6 2 9 22.2 3 4 75.0 2 2 4 5 1 1 5 3 -12
+p740
+aVMarco Belinelli GSW 11/03/2008 GSW @ MEM L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p741
+aVKelenna Azubuike GSW 11/03/2008 GSW @ MEM L 25 10 4 12 33.3 0 1 0.0 2 3 66.7 2 1 3 1 0 0 1 3 -6
+p742
+aVDeMarcus Nelson GSW 11/03/2008 GSW @ MEM L 26 8 4 8 50.0 0 0 - 0 2 0.0 2 2 4 1 1 0 2 2 -5
+p743
+aVCJ Watson GSW 11/03/2008 GSW @ MEM L 20 4 2 5 40.0 0 0 - 0 0 - 1 1 2 4 1 0 1 1 -4
+p744
+aVCorey Maggette GSW 11/03/2008 GSW @ MEM L 31 13 4 16 25.0 0 5 0.0 5 5 100.0 0 1 1 2 2 0 0 1 -9
+p745
+aVRonny Turiaf GSW 11/03/2008 GSW @ MEM L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 4 -2
+p746
+aVAl Harrington GSW 11/03/2008 GSW @ MEM L 34 6 3 15 20.0 0 4 0.0 0 0 - 1 5 6 1 1 0 1 3 -19
+p747
+aVAnthony Randolph GSW 11/03/2008 GSW @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p748
+aVAndris Biedrins GSW 11/01/2008 GSW @ NJN W 33 23 8 11 72.7 0 0 - 7 8 87.5 2 9 11 0 2 2 3 3 2
+p749
+aVAl Harrington GSW 11/01/2008 GSW @ NJN W 29 14 4 13 30.8 3 7 42.9 3 6 50.0 2 1 3 1 1 0 1 2 14
+p750
+aVCorey Maggette GSW 11/01/2008 GSW @ NJN W 41 20 3 13 23.1 1 3 33.3 13 15 86.7 2 8 10 1 2 0 4 2 7
+p751
+aVStephen Jackson GSW 11/01/2008 GSW @ NJN W 41 23 7 16 43.8 3 8 37.5 6 9 66.7 2 3 5 8 1 1 3 0 8
+p752
+aVBrandan Wright GSW 11/01/2008 GSW @ NJN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 1
+p753
+aVRonny Turiaf GSW 11/01/2008 GSW @ NJN W 12 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 0 0 1 0 1 5
+p754
+aVDeMarcus Nelson GSW 11/01/2008 GSW @ NJN W 23 9 4 6 66.7 0 0 - 1 5 20.0 2 1 3 3 1 0 1 3 13
+p755
+aVCJ Watson GSW 11/01/2008 GSW @ NJN W 28 5 1 5 20.0 0 0 - 3 6 50.0 1 2 3 4 1 0 2 4 -4
+p756
+aVKelenna Azubuike GSW 11/01/2008 GSW @ NJN W 27 9 4 9 44.4 0 1 0.0 1 1 100.0 1 2 3 1 0 0 2 5 -6
+p757
+aVBrandan Wright GSW 10/31/2008 GSW @ TOR L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -8
+p758
+aVAl Harrington GSW 10/31/2008 GSW @ TOR L 46 26 10 21 47.6 6 12 50.0 0 0 - 4 7 11 3 1 0 3 2 -2
+p759
+aVDeMarcus Nelson GSW 10/31/2008 GSW @ TOR L 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -2
+p760
+aVRonny Turiaf GSW 10/31/2008 GSW @ TOR L 33 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 5 2 6 9
+p761
+aVAndris Biedrins GSW 10/31/2008 GSW @ TOR L 46 17 8 13 61.5 0 0 - 1 3 33.3 5 8 13 1 1 1 1 2 -5
+p762
+aVCJ Watson GSW 10/31/2008 GSW @ TOR L 10 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 1 1 0 0 2 -1
+p763
+aVCorey Maggette GSW 10/31/2008 GSW @ TOR L 44 14 4 15 26.7 0 3 0.0 6 9 66.7 4 4 8 3 2 0 5 3 -1
+p764
+aVStephen Jackson GSW 10/31/2008 GSW @ TOR L 45 19 7 20 35.0 4 11 36.4 1 2 50.0 0 7 7 5 1 0 5 6 -9
+p765
+aVKelenna Azubuike GSW 10/31/2008 GSW @ TOR L 22 15 6 11 54.5 1 3 33.3 2 2 100.0 1 0 1 4 0 0 1 4 -1
+p766
+aVCJ Watson GSW 10/29/2008 GSW vs. NOH L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p767
+aVKelenna Azubuike GSW 10/29/2008 GSW vs. NOH L 43 17 6 14 42.9 0 3 0.0 5 6 83.3 0 3 3 2 3 1 0 3 -2
+p768
+aVDeMarcus Nelson GSW 10/29/2008 GSW vs. NOH L 13 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 1 0 2 2 -9
+p769
+aVAndris Biedrins GSW 10/29/2008 GSW vs. NOH L 29 14 5 8 62.5 0 0 - 4 10 40.0 5 7 12 2 0 0 1 6 2
+p770
+aVCorey Maggette GSW 10/29/2008 GSW vs. NOH L 39 27 8 11 72.7 2 4 50.0 9 10 90.0 0 8 8 2 1 0 2 4 3
+p771
+aVRonny Turiaf GSW 10/29/2008 GSW vs. NOH L 24 0 0 2 0.0 0 0 - 0 0 - 2 2 4 3 0 4 1 4 -9
+p772
+aVStephen Jackson GSW 10/29/2008 GSW vs. NOH L 48 26 9 23 39.1 5 12 41.7 3 4 75.0 1 2 3 5 2 0 5 4 -5
+p773
+aVAl Harrington GSW 10/29/2008 GSW vs. NOH L 42 13 5 17 29.4 2 4 50.0 1 2 50.0 2 5 7 3 3 0 2 3 -1
+p774
+a.

@@ -1,0 +1,254 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDerek Fisher LAL 05/15/2003 LAL vs. SAS L 27 6 2 6 33.3 1 2 50.0 1 1 100.0 0 0 0 3 1 0 2 3 -4
+p2
+aVBrian Shaw LAL 05/15/2003 LAL vs. SAS L 22 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 4 1 0 0 2 -11
+p3
+aVDevean George LAL 05/15/2003 LAL vs. SAS L 24 7 3 7 42.9 1 4 25.0 0 0 - 1 3 4 1 0 0 1 4 -11
+p4
+aVShaquille O'Neal LAL 05/15/2003 LAL vs. SAS L 38 31 13 21 61.9 0 0 - 5 10 50.0 6 4 10 3 1 3 1 4 -18
+p5
+aVMark Madsen LAL 05/15/2003 LAL vs. SAS L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p6
+aVKareem Rush LAL 05/15/2003 LAL vs. SAS L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p7
+aVJannero Pargo LAL 05/15/2003 LAL vs. SAS L 21 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 3 2 0 1 3 -24
+p8
+aVRobert Horry LAL 05/15/2003 LAL vs. SAS L 23 2 1 6 16.7 0 3 0.0 0 0 - 1 4 5 4 1 0 0 1 -12
+p9
+aVSamaki Walker LAL 05/15/2003 LAL vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p10
+aVKobe Bryant LAL 05/15/2003 LAL vs. SAS L 43 20 9 19 47.4 2 5 40.0 0 2 0.0 0 2 2 6 1 0 7 4 -20
+p11
+aVSlava Medvedenko LAL 05/15/2003 LAL vs. SAS L 27 12 6 12 50.0 0 0 - 0 0 - 1 3 4 0 1 1 1 3 -21
+p12
+aVMark Madsen LAL 05/13/2003 LAL @ SAS L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -9
+p13
+aVShaquille O'Neal LAL 05/13/2003 LAL @ SAS L 40 20 8 14 57.1 0 0 - 4 7 57.1 4 8 12 2 0 3 5 1 5
+p14
+aVBrian Shaw LAL 05/13/2003 LAL @ SAS L 21 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 4 1 0 1 0 11
+p15
+aVDerek Fisher LAL 05/13/2003 LAL @ SAS L 32 8 3 3 100.0 0 0 - 2 2 100.0 0 5 5 1 0 0 0 3 -15
+p16
+aVJannero Pargo LAL 05/13/2003 LAL @ SAS L 16 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 1 0 3 13
+p17
+aVSlava Medvedenko LAL 05/13/2003 LAL @ SAS L 17 13 5 6 83.3 0 0 - 3 4 75.0 1 3 4 0 0 0 0 4 15
+p18
+aVRobert Horry LAL 05/13/2003 LAL @ SAS L 24 6 3 10 30.0 0 6 0.0 0 0 - 3 4 7 2 0 0 1 1 -7
+p19
+aVKareem Rush LAL 05/13/2003 LAL @ SAS L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p20
+aVKobe Bryant LAL 05/13/2003 LAL @ SAS L 48 36 15 31 48.4 5 11 45.5 1 2 50.0 2 5 7 6 2 0 4 3 -2
+p21
+aVDevean George LAL 05/13/2003 LAL @ SAS L 25 2 0 7 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 2 -19
+p22
+aVKobe Bryant LAL 05/11/2003 LAL vs. SAS W 40 35 10 24 41.7 1 4 25.0 14 17 82.4 2 5 7 3 2 1 2 5 -2
+p23
+aVJannero Pargo LAL 05/11/2003 LAL vs. SAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -11
+p24
+aVRobert Horry LAL 05/11/2003 LAL vs. SAS W 25 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 1 4 -5
+p25
+aVDevean George LAL 05/11/2003 LAL vs. SAS W 40 9 3 5 60.0 3 4 75.0 0 0 - 0 4 4 3 0 0 2 3 7
+p26
+aVSlava Medvedenko LAL 05/11/2003 LAL vs. SAS W 5 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 8
+p27
+aVSamaki Walker LAL 05/11/2003 LAL vs. SAS W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 4 10
+p28
+aVMark Madsen LAL 05/11/2003 LAL vs. SAS W 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 4 -15
+p29
+aVBrian Shaw LAL 05/11/2003 LAL vs. SAS W 14 6 2 5 40.0 2 3 66.7 0 0 - 0 4 4 1 0 0 1 1 1
+p30
+aVDerek Fisher LAL 05/11/2003 LAL vs. SAS W 43 17 6 12 50.0 2 4 50.0 3 3 100.0 1 2 3 1 3 0 1 2 15
+p31
+aVShaquille O'Neal LAL 05/11/2003 LAL vs. SAS W 45 29 6 17 35.3 0 0 - 17 23 73.9 10 7 17 5 2 4 3 2 10
+p32
+aVKareem Rush LAL 05/11/2003 LAL vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p33
+aVSamaki Walker LAL 05/09/2003 LAL vs. SAS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -9
+p34
+aVRobert Horry LAL 05/09/2003 LAL vs. SAS W 37 13 5 11 45.5 0 3 0.0 3 4 75.0 3 9 12 3 0 3 4 3 23
+p35
+aVShaquille O'Neal LAL 05/09/2003 LAL vs. SAS W 37 21 10 16 62.5 0 0 - 1 3 33.3 2 14 16 8 0 3 4 3 24
+p36
+aVDerek Fisher LAL 05/09/2003 LAL vs. SAS W 37 14 3 6 50.0 2 3 66.7 6 6 100.0 0 3 3 0 1 1 2 3 18
+p37
+aVJannero Pargo LAL 05/09/2003 LAL vs. SAS W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p38
+aVMark Madsen LAL 05/09/2003 LAL vs. SAS W 14 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 1 1 0 0 2 -3
+p39
+aVDevean George LAL 05/09/2003 LAL vs. SAS W 28 13 5 7 71.4 1 2 50.0 2 2 100.0 0 2 2 3 1 0 0 3 16
+p40
+aVKobe Bryant LAL 05/09/2003 LAL vs. SAS W 43 39 10 23 43.5 2 4 50.0 17 19 89.5 2 2 4 4 1 0 4 2 23
+p41
+aVBrian Shaw LAL 05/09/2003 LAL vs. SAS W 17 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 2 0 0 1 2 -11
+p42
+aVSlava Medvedenko LAL 05/09/2003 LAL vs. SAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p43
+aVKareem Rush LAL 05/09/2003 LAL vs. SAS W 8 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 2
+p44
+aVShaquille O'Neal LAL 05/07/2003 LAL @ SAS L 31 27 10 14 71.4 0 0 - 7 11 63.6 5 5 10 1 0 0 3 4 -25
+p45
+aVDerek Fisher LAL 05/07/2003 LAL @ SAS L 28 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 3 4 -35
+p46
+aVMark Madsen LAL 05/07/2003 LAL @ SAS L 11 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 -5
+p47
+aVKareem Rush LAL 05/07/2003 LAL @ SAS L 21 10 4 13 30.8 2 5 40.0 0 0 - 0 0 0 1 1 0 1 1 13
+p48
+aVSamaki Walker LAL 05/07/2003 LAL @ SAS L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 6
+p49
+aVJannero Pargo LAL 05/07/2003 LAL @ SAS L 22 13 5 7 71.4 3 5 60.0 0 0 - 0 1 1 3 2 0 1 3 10
+p50
+aVSlava Medvedenko LAL 05/07/2003 LAL @ SAS L 14 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 0 1 3 13
+p51
+aVKobe Bryant LAL 05/07/2003 LAL @ SAS L 41 27 9 24 37.5 2 6 33.3 7 10 70.0 0 6 6 1 0 0 5 4 -22
+p52
+aVRobert Horry LAL 05/07/2003 LAL @ SAS L 32 2 1 5 20.0 0 2 0.0 0 1 0.0 1 5 6 0 2 0 0 2 -27
+p53
+aVBrian Shaw LAL 05/07/2003 LAL @ SAS L 32 6 3 9 33.3 0 4 0.0 0 0 - 0 2 2 2 0 0 2 3 -23
+p54
+aVDerek Fisher LAL 05/05/2003 LAL @ SAS L 45 10 3 7 42.9 2 3 66.7 2 2 100.0 0 4 4 0 0 0 2 3 -5
+p55
+aVShaquille O'Neal LAL 05/05/2003 LAL @ SAS L 39 24 10 20 50.0 0 0 - 4 6 66.7 7 14 21 3 1 4 5 6 -8
+p56
+aVSamaki Walker LAL 05/05/2003 LAL @ SAS L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 1
+p57
+aVRobert Horry LAL 05/05/2003 LAL @ SAS L 39 3 1 6 16.7 0 3 0.0 1 2 50.0 3 11 14 2 0 2 1 3 -14
+p58
+aVDevean George LAL 05/05/2003 LAL @ SAS L 31 4 2 7 28.6 0 3 0.0 0 0 - 1 2 3 1 1 0 2 0 -12
+p59
+aVBrian Shaw LAL 05/05/2003 LAL @ SAS L 23 2 1 4 25.0 0 2 0.0 0 0 - 1 8 9 2 0 0 3 2 1
+p60
+aVMark Madsen LAL 05/05/2003 LAL @ SAS L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 11
+p61
+aVKobe Bryant LAL 05/05/2003 LAL @ SAS L 45 37 16 38 42.1 3 4 75.0 2 2 100.0 1 3 4 2 0 0 5 3 1
+p62
+aVMark Madsen LAL 05/01/2003 LAL vs. MIN W 12 0 0 2 0.0 0 1 0.0 0 2 0.0 1 2 3 2 2 0 2 1 -12
+p63
+aVShaquille O'Neal LAL 05/01/2003 LAL vs. MIN W 40 24 10 18 55.6 0 0 - 4 9 44.4 8 9 17 9 0 3 3 3 9
+p64
+aVRobert Horry LAL 05/01/2003 LAL vs. MIN W 39 11 5 12 41.7 0 5 0.0 1 2 50.0 3 7 10 6 1 1 3 4 26
+p65
+aVDevean George LAL 05/01/2003 LAL vs. MIN W 39 12 5 12 41.7 0 2 0.0 2 2 100.0 2 6 8 5 1 1 1 3 27
+p66
+aVSamaki Walker LAL 05/01/2003 LAL vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p67
+aVBrian Shaw LAL 05/01/2003 LAL vs. MIN W 20 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 -2
+p68
+aVDerek Fisher LAL 05/01/2003 LAL vs. MIN W 37 16 7 14 50.0 2 4 50.0 0 0 - 1 4 5 2 2 0 1 4 2
+p69
+aVKareem Rush LAL 05/01/2003 LAL vs. MIN W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p70
+aVKobe Bryant LAL 05/01/2003 LAL vs. MIN W 42 31 14 26 53.8 2 7 28.6 1 2 50.0 1 1 2 8 1 0 2 4 19
+p71
+aVJannero Pargo LAL 05/01/2003 LAL vs. MIN W 2 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 1
+p72
+aVSlava Medvedenko LAL 05/01/2003 LAL vs. MIN W 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p73
+aVKobe Bryant LAL 04/29/2003 LAL @ MIN W 40 32 12 21 57.1 2 4 50.0 6 8 75.0 3 5 8 5 1 0 2 0 29
+p74
+aVRobert Horry LAL 04/29/2003 LAL @ MIN W 35 12 5 12 41.7 2 4 50.0 0 0 - 1 1 2 3 2 1 0 3 39
+p75
+aVShaquille O'Neal LAL 04/29/2003 LAL @ MIN W 37 27 10 18 55.6 0 0 - 7 10 70.0 1 10 11 3 2 2 1 4 26
+p76
+aVJannero Pargo LAL 04/29/2003 LAL @ MIN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p77
+aVSlava Medvedenko LAL 04/29/2003 LAL @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p78
+aVKareem Rush LAL 04/29/2003 LAL @ MIN W 4 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p79
+aVSamaki Walker LAL 04/29/2003 LAL @ MIN W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p80
+aVDerek Fisher LAL 04/29/2003 LAL @ MIN W 38 24 8 10 80.0 5 7 71.4 3 4 75.0 1 3 4 3 4 0 1 2 27
+p81
+aVDevean George LAL 04/29/2003 LAL @ MIN W 34 12 4 7 57.1 2 3 66.7 2 2 100.0 2 6 8 6 2 0 1 3 33
+p82
+aVBrian Shaw LAL 04/29/2003 LAL @ MIN W 24 2 1 7 14.3 0 4 0.0 0 0 - 0 6 6 3 2 4 0 2 9
+p83
+aVMark Madsen LAL 04/29/2003 LAL @ MIN W 15 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 1 0 0 2 2 -4
+p84
+aVShaquille O'Neal LAL 04/27/2003 LAL vs. MIN W 46 34 13 26 50.0 0 0 - 8 15 53.3 10 13 23 6 1 2 2 3 12
+p85
+aVJannero Pargo LAL 04/27/2003 LAL vs. MIN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p86
+aVSamaki Walker LAL 04/27/2003 LAL vs. MIN W 6 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 -3
+p87
+aVBrian Shaw LAL 04/27/2003 LAL vs. MIN W 27 10 4 8 50.0 2 5 40.0 0 0 - 0 6 6 2 0 0 0 2 10
+p88
+aVDevean George LAL 04/27/2003 LAL vs. MIN W 30 9 4 9 44.4 1 4 25.0 0 0 - 1 5 6 0 1 2 1 3 10
+p89
+aVKobe Bryant LAL 04/27/2003 LAL vs. MIN W 47 32 7 25 28.0 2 3 66.7 16 17 94.1 1 4 5 5 3 0 1 2 5
+p90
+aVRobert Horry LAL 04/27/2003 LAL vs. MIN W 25 6 3 8 37.5 0 2 0.0 0 0 - 1 1 2 2 3 0 2 4 -5
+p91
+aVRick Fox LAL 04/27/2003 LAL vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p92
+aVMark Madsen LAL 04/27/2003 LAL vs. MIN W 19 4 1 2 50.0 0 0 - 2 2 100.0 3 0 3 0 0 0 0 4 6
+p93
+aVDerek Fisher LAL 04/27/2003 LAL vs. MIN W 31 5 2 8 25.0 1 5 20.0 0 1 0.0 0 1 1 4 1 0 1 4 -3
+p94
+aVDevean George LAL 04/24/2003 LAL vs. MIN L 23 7 3 7 42.9 1 4 25.0 0 1 0.0 2 4 6 2 2 0 0 2 -1
+p95
+aVRick Fox LAL 04/24/2003 LAL vs. MIN L 34 8 3 7 42.9 0 2 0.0 2 2 100.0 2 2 4 3 1 0 1 6 -10
+p96
+aVBrian Shaw LAL 04/24/2003 LAL vs. MIN L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 1 1 2 16
+p97
+aVDerek Fisher LAL 04/24/2003 LAL vs. MIN L 35 23 8 14 57.1 6 9 66.7 1 3 33.3 1 3 4 1 2 0 4 6 -12
+p98
+aVKobe Bryant LAL 04/24/2003 LAL vs. MIN L 51 30 10 28 35.7 1 5 20.0 9 10 90.0 3 4 7 6 1 0 6 1 -3
+p99
+aVShaquille O'Neal LAL 04/24/2003 LAL vs. MIN L 46 28 10 26 38.5 0 0 - 8 16 50.0 3 14 17 1 0 5 1 1 -9
+p100
+aVJannero Pargo LAL 04/24/2003 LAL vs. MIN L 17 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 4 1 0 1 3 3
+p101
+aVMark Madsen LAL 04/24/2003 LAL vs. MIN L 14 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 0 0 0 1 2 6
+p102
+aVRobert Horry LAL 04/24/2003 LAL vs. MIN L 33 4 2 7 28.6 0 2 0.0 0 0 - 3 4 7 5 2 1 3 4 -10
+p103
+aVSlava Medvedenko LAL 04/22/2003 LAL @ MIN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p104
+aVBrian Shaw LAL 04/22/2003 LAL @ MIN L 2 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -1
+p105
+aVDerek Fisher LAL 04/22/2003 LAL @ MIN L 31 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 3 2 0 0 3 -20
+p106
+aVKobe Bryant LAL 04/22/2003 LAL @ MIN L 46 27 9 28 32.1 2 6 33.3 7 9 77.8 0 4 4 8 1 0 3 4 -26
+p107
+aVKareem Rush LAL 04/22/2003 LAL @ MIN L 12 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 0 0 0 0 0 2
+p108
+aVShaquille O'Neal LAL 04/22/2003 LAL @ MIN L 38 27 10 19 52.6 0 0 - 7 9 77.8 5 9 14 1 0 0 4 1 -22
+p109
+aVSamaki Walker LAL 04/22/2003 LAL @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p110
+aVMark Madsen LAL 04/22/2003 LAL @ MIN L 24 7 3 8 37.5 0 0 - 1 1 100.0 4 0 4 5 0 1 0 5 -25
+p111
+aVDevean George LAL 04/22/2003 LAL @ MIN L 17 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 1 2 0 1 5 -9
+p112
+aVRick Fox LAL 04/22/2003 LAL @ MIN L 19 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 0 0 0 1 3 -22
+p113
+aVJannero Pargo LAL 04/22/2003 LAL @ MIN L 17 0 0 5 0.0 0 4 0.0 0 0 - 0 2 2 3 0 0 1 5 -8
+p114
+aVRobert Horry LAL 04/22/2003 LAL @ MIN L 29 6 3 8 37.5 0 4 0.0 0 0 - 2 2 4 2 2 3 2 5 -3
+p115
+aVRick Fox LAL 04/20/2003 LAL @ MIN W 21 10 3 4 75.0 3 4 75.0 1 2 50.0 0 1 1 4 0 1 1 5 6
+p116
+aVDerek Fisher LAL 04/20/2003 LAL @ MIN W 40 17 6 12 50.0 5 6 83.3 0 0 - 1 3 4 3 2 0 1 2 20
+p117
+aVJannero Pargo LAL 04/20/2003 LAL @ MIN W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -1
+p118
+aVSlava Medvedenko LAL 04/20/2003 LAL @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p119
+aVKareem Rush LAL 04/20/2003 LAL @ MIN W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p120
+aVMark Madsen LAL 04/20/2003 LAL @ MIN W 16 6 2 4 50.0 0 0 - 2 3 66.7 2 0 2 2 0 0 2 3 2
+p121
+aVRobert Horry LAL 04/20/2003 LAL @ MIN W 32 2 1 5 20.0 0 3 0.0 0 0 - 2 6 8 8 2 0 0 3 17
+p122
+aVDevean George LAL 04/20/2003 LAL @ MIN W 27 11 5 6 83.3 1 2 50.0 0 0 - 0 3 3 2 0 1 2 1 13
+p123
+aVBrian Shaw LAL 04/20/2003 LAL @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+aVKobe Bryant LAL 04/20/2003 LAL @ MIN W 45 39 16 30 53.3 1 3 33.3 6 6 100.0 1 4 5 8 1 0 1 3 18
+p125
+aVShaquille O'Neal LAL 04/20/2003 LAL @ MIN W 44 32 11 17 64.7 0 0 - 10 13 76.9 2 8 10 2 0 5 3 2 22
+p126
+a.

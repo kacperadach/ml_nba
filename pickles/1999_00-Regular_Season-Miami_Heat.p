@@ -1,0 +1,1624 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDan Majerle MIA 04/19/2000 MIA @ CHH L 18 2 1 6 16.7 0 4 0.0 0 0 - 2 0 2 3 1 0 0 0 10
+p2
+aVRodney Buford MIA 04/19/2000 MIA @ CHH L 14 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 2 -2
+p3
+aVTim James MIA 04/19/2000 MIA @ CHH L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p4
+aVBruce Bowen MIA 04/19/2000 MIA @ CHH L 19 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 2 -17
+p5
+aVMark Strickland MIA 04/19/2000 MIA @ CHH L 13 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p6
+aVClar. Weatherspoon MIA 04/19/2000 MIA @ CHH L 25 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 3 0 0 0 2 -19
+p7
+aVAlonzo Mourning MIA 04/19/2000 MIA @ CHH L 23 13 4 9 44.4 0 0 - 5 6 83.3 1 3 4 3 0 0 1 1 8
+p8
+aVAnthony Carter MIA 04/19/2000 MIA @ CHH L 38 16 7 11 63.6 0 0 - 2 2 100.0 0 2 2 4 2 0 5 2 -7
+p9
+aVOtis Thorpe MIA 04/19/2000 MIA @ CHH L 17 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 0 0 1 6 -21
+p10
+aVP.J. Brown MIA 04/19/2000 MIA @ CHH L 30 4 2 8 25.0 0 0 - 0 0 - 5 5 10 2 2 0 0 1 0
+p11
+aVJamal Mashburn MIA 04/19/2000 MIA @ CHH L 34 15 5 13 38.5 3 6 50.0 2 2 100.0 1 5 6 2 1 0 2 3 1
+p12
+aVDuane Causwell MIA 04/19/2000 MIA @ CHH L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p13
+aVMark Strickland MIA 04/18/2000 MIA vs. TOR W 23 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 1 1 2 3 10
+p14
+aVJamal Mashburn MIA 04/18/2000 MIA vs. TOR W 25 16 6 14 42.9 2 3 66.7 2 3 66.7 0 2 2 1 1 0 3 2 9
+p15
+aVDuane Causwell MIA 04/18/2000 MIA vs. TOR W 8 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 8
+p16
+aVAnthony Carter MIA 04/18/2000 MIA vs. TOR W 29 17 8 11 72.7 0 1 0.0 1 1 100.0 0 4 4 6 1 1 2 3 16
+p17
+aVOtis Thorpe MIA 04/18/2000 MIA vs. TOR W 19 7 3 7 42.9 0 0 - 1 1 100.0 1 1 2 1 0 1 0 3 -3
+p18
+aVAlonzo Mourning MIA 04/18/2000 MIA vs. TOR W 21 10 4 10 40.0 0 0 - 2 3 66.7 3 3 6 1 0 4 2 3 19
+p19
+aVP.J. Brown MIA 04/18/2000 MIA vs. TOR W 20 8 4 6 66.7 0 0 - 0 1 0.0 3 3 6 3 0 1 0 3 18
+p20
+aVRodney Buford MIA 04/18/2000 MIA vs. TOR W 22 10 4 12 33.3 0 2 0.0 2 2 100.0 3 3 6 5 0 0 0 1 7
+p21
+aVDan Majerle MIA 04/18/2000 MIA vs. TOR W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 6 6 2 1 0 0 1 17
+p22
+aVBruce Bowen MIA 04/18/2000 MIA vs. TOR W 28 8 4 6 66.7 0 1 0.0 0 0 - 0 4 4 1 0 0 1 3 11
+p23
+aVTim James MIA 04/18/2000 MIA vs. TOR W 6 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 2 0 1 9
+p24
+aVClar. Weatherspoon MIA 04/18/2000 MIA vs. TOR W 21 5 1 1 100.0 0 0 - 3 7 42.9 2 7 9 1 0 2 5 4 -1
+p25
+aVClar. Weatherspoon MIA 04/16/2000 MIA vs. ORL W 25 11 5 5 100.0 0 0 - 1 2 50.0 4 2 6 1 1 0 4 4 11
+p26
+aVAnthony Carter MIA 04/16/2000 MIA vs. ORL W 36 15 7 14 50.0 0 1 0.0 1 1 100.0 1 3 4 5 3 0 5 2 1
+p27
+aVP.J. Brown MIA 04/16/2000 MIA vs. ORL W 22 6 1 1 100.0 0 0 - 4 6 66.7 2 4 6 2 0 0 1 1 1
+p28
+aVAlonzo Mourning MIA 04/16/2000 MIA vs. ORL W 33 18 9 15 60.0 0 0 - 0 1 0.0 0 8 8 2 1 0 2 2 14
+p29
+aVOtis Thorpe MIA 04/16/2000 MIA vs. ORL W 15 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 1 1 0 2 2 -3
+p30
+aVHarold Jamison MIA 04/16/2000 MIA vs. ORL W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p31
+aVTim Hardaway MIA 04/16/2000 MIA vs. ORL W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 8
+p32
+aVDan Majerle MIA 04/16/2000 MIA vs. ORL W 40 10 3 7 42.9 3 6 50.0 1 1 100.0 0 5 5 6 1 1 0 2 18
+p33
+aVJamal Mashburn MIA 04/16/2000 MIA vs. ORL W 34 16 6 11 54.5 2 5 40.0 2 2 100.0 0 2 2 7 2 0 5 2 4
+p34
+aVBruce Bowen MIA 04/16/2000 MIA vs. ORL W 19 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 1 1 0 1 3 3
+p35
+aVMark Strickland MIA 04/16/2000 MIA vs. ORL W 7 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p36
+aVDan Majerle MIA 04/14/2000 MIA vs. IND L 38 5 2 8 25.0 1 5 20.0 0 0 - 0 3 3 7 0 0 0 3 -8
+p37
+aVAlonzo Mourning MIA 04/14/2000 MIA vs. IND L 32 28 10 13 76.9 0 0 - 8 12 66.7 2 3 5 3 1 2 3 5 -8
+p38
+aVAnthony Carter MIA 04/14/2000 MIA vs. IND L 43 14 7 12 58.3 0 0 - 0 0 - 2 2 4 5 3 0 3 3 2
+p39
+aVJamal Mashburn MIA 04/14/2000 MIA vs. IND L 41 19 6 19 31.6 0 4 0.0 7 7 100.0 0 5 5 5 1 0 1 3 -4
+p40
+aVRodney Buford MIA 04/14/2000 MIA vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p41
+aVBruce Bowen MIA 04/14/2000 MIA vs. IND L 24 3 1 7 14.3 1 4 25.0 0 0 - 1 3 4 2 0 0 0 4 6
+p42
+aVP.J. Brown MIA 04/14/2000 MIA vs. IND L 23 4 2 4 50.0 0 0 - 0 0 - 2 5 7 2 0 1 1 2 -5
+p43
+aVClar. Weatherspoon MIA 04/14/2000 MIA vs. IND L 20 14 5 7 71.4 0 0 - 4 6 66.7 2 3 5 0 0 0 0 2 -3
+p44
+aVOtis Thorpe MIA 04/14/2000 MIA vs. IND L 19 14 7 7 100.0 0 0 - 0 0 - 1 2 3 2 1 0 1 1 2
+p45
+aVMark Strickland MIA 04/12/2000 MIA @ DET L 5 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p46
+aVP.J. Brown MIA 04/12/2000 MIA @ DET L 16 4 0 4 0.0 0 0 - 4 4 100.0 0 0 0 3 1 1 0 3 -3
+p47
+aVBruce Bowen MIA 04/12/2000 MIA @ DET L 28 5 1 4 25.0 0 2 0.0 3 6 50.0 0 3 3 2 2 0 3 4 -7
+p48
+aVAlonzo Mourning MIA 04/12/2000 MIA @ DET L 30 16 6 10 60.0 0 0 - 4 10 40.0 3 7 10 0 0 4 1 2 -21
+p49
+aVAnthony Carter MIA 04/12/2000 MIA @ DET L 43 6 2 12 16.7 0 1 0.0 2 4 50.0 1 4 5 6 4 0 2 2 -17
+p50
+aVDan Majerle MIA 04/12/2000 MIA @ DET L 23 1 0 5 0.0 0 5 0.0 1 1 100.0 0 2 2 3 1 0 1 1 -13
+p51
+aVJamal Mashburn MIA 04/12/2000 MIA @ DET L 35 22 6 12 50.0 4 7 57.1 6 6 100.0 0 2 2 0 1 0 2 3 -14
+p52
+aVRodney Buford MIA 04/12/2000 MIA @ DET L 19 11 5 8 62.5 1 2 50.0 0 0 - 0 1 1 1 1 1 0 1 1
+p53
+aVOtis Thorpe MIA 04/12/2000 MIA @ DET L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 2 4 2
+p54
+aVClar. Weatherspoon MIA 04/12/2000 MIA @ DET L 26 4 1 7 14.3 0 0 - 2 2 100.0 4 5 9 1 0 0 1 0 -15
+p55
+aVDan Majerle MIA 04/10/2000 MIA @ PHI L 23 5 2 8 25.0 1 6 16.7 0 0 - 0 1 1 1 1 1 1 3 -10
+p56
+aVOtis Thorpe MIA 04/10/2000 MIA @ PHI L 21 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 1 0 0 3 2 -6
+p57
+aVClar. Weatherspoon MIA 04/10/2000 MIA @ PHI L 19 11 4 7 57.1 0 0 - 3 4 75.0 2 4 6 0 1 0 1 1 -5
+p58
+aVMark Strickland MIA 04/10/2000 MIA @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p59
+aVHarold Jamison MIA 04/10/2000 MIA @ PHI L 4 1 0 0 - 0 0 - 1 4 25.0 1 1 2 1 0 0 0 0 -1
+p60
+aVAnthony Carter MIA 04/10/2000 MIA @ PHI L 21 9 3 7 42.9 0 0 - 3 5 60.0 1 1 2 4 2 0 1 1 -7
+p61
+aVTim Hardaway MIA 04/10/2000 MIA @ PHI L 30 4 2 7 28.6 0 5 0.0 0 0 - 0 2 2 7 0 0 1 0 -9
+p62
+aVJamal Mashburn MIA 04/10/2000 MIA @ PHI L 32 16 5 16 31.3 2 4 50.0 4 4 100.0 4 4 8 4 1 0 3 3 -23
+p63
+aVAlonzo Mourning MIA 04/10/2000 MIA @ PHI L 28 13 5 8 62.5 0 0 - 3 3 100.0 0 6 6 1 0 2 1 3 -9
+p64
+aVP.J. Brown MIA 04/10/2000 MIA @ PHI L 26 4 2 4 50.0 0 0 - 0 0 - 2 6 8 0 0 1 2 2 -9
+p65
+aVRodney Buford MIA 04/10/2000 MIA @ PHI L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 5
+p66
+aVBruce Bowen MIA 04/10/2000 MIA @ PHI L 24 5 2 7 28.6 1 4 25.0 0 0 - 1 0 1 0 0 0 0 4 -5
+p67
+aVAlonzo Mourning MIA 04/09/2000 MIA vs. NYK W 47 33 14 23 60.9 0 1 0.0 5 8 62.5 4 7 11 0 2 6 3 1 -1
+p68
+aVTim Hardaway MIA 04/09/2000 MIA vs. NYK W 39 16 6 21 28.6 2 9 22.2 2 2 100.0 3 4 7 10 2 0 2 2 -2
+p69
+aVAnthony Carter MIA 04/09/2000 MIA vs. NYK W 14 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 7 1 0 0 2 3
+p70
+aVDan Majerle MIA 04/09/2000 MIA vs. NYK W 38 14 5 7 71.4 4 6 66.7 0 0 - 1 5 6 2 2 0 2 3 -6
+p71
+aVClar. Weatherspoon MIA 04/09/2000 MIA vs. NYK W 18 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 0 0 1 2 1 1
+p72
+aVOtis Thorpe MIA 04/09/2000 MIA vs. NYK W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p73
+aVP.J. Brown MIA 04/09/2000 MIA vs. NYK W 35 8 4 8 50.0 0 0 - 0 2 0.0 1 4 5 0 0 1 0 3 3
+p74
+aVBruce Bowen MIA 04/09/2000 MIA vs. NYK W 22 13 5 5 100.0 3 3 100.0 0 0 - 0 1 1 1 0 0 2 5 1
+p75
+aVJamal Mashburn MIA 04/09/2000 MIA vs. NYK W 44 2 1 14 7.1 0 2 0.0 0 0 - 1 2 3 6 1 0 2 4 9
+p76
+aVOtis Thorpe MIA 04/07/2000 MIA @ NJN W 18 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 1 0 0 2 6 -7
+p77
+aVAlonzo Mourning MIA 04/07/2000 MIA @ NJN W 23 15 7 9 77.8 0 0 - 1 1 100.0 2 9 11 1 0 4 2 4 27
+p78
+aVClar. Weatherspoon MIA 04/07/2000 MIA @ NJN W 25 14 4 4 100.0 0 0 - 6 7 85.7 2 8 10 2 0 0 2 2 7
+p79
+aVTim Hardaway MIA 04/07/2000 MIA @ NJN W 25 15 5 14 35.7 3 6 50.0 2 2 100.0 0 2 2 8 0 0 1 2 21
+p80
+aVP.J. Brown MIA 04/07/2000 MIA @ NJN W 23 7 3 5 60.0 0 0 - 1 3 33.3 0 6 6 2 0 0 0 2 15
+p81
+aVAnthony Carter MIA 04/07/2000 MIA @ NJN W 21 0 0 6 0.0 0 0 - 0 0 - 0 0 0 4 1 0 4 2 -1
+p82
+aVRodney Buford MIA 04/07/2000 MIA @ NJN W 13 7 3 5 60.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 0 2 -11
+p83
+aVHarold Jamison MIA 04/07/2000 MIA @ NJN W 7 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 1 -6
+p84
+aVJamal Mashburn MIA 04/07/2000 MIA @ NJN W 29 21 8 14 57.1 3 5 60.0 2 5 40.0 1 4 5 4 0 0 2 1 15
+p85
+aVBruce Bowen MIA 04/07/2000 MIA @ NJN W 19 2 0 4 0.0 0 2 0.0 2 4 50.0 0 3 3 1 0 0 0 4 12
+p86
+aVMark Strickland MIA 04/07/2000 MIA @ NJN W 9 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -8
+p87
+aVDan Majerle MIA 04/07/2000 MIA @ NJN W 28 10 3 4 75.0 2 3 66.7 2 2 100.0 0 3 3 5 1 0 1 1 26
+p88
+aVDan Majerle MIA 04/06/2000 MIA vs. CHH W 32 12 5 7 71.4 2 3 66.7 0 0 - 0 0 0 4 0 0 1 4 4
+p89
+aVJamal Mashburn MIA 04/06/2000 MIA vs. CHH W 34 9 3 9 33.3 1 2 50.0 2 2 100.0 0 7 7 2 0 0 3 2 0
+p90
+aVBruce Bowen MIA 04/06/2000 MIA vs. CHH W 21 9 3 6 50.0 3 4 75.0 0 0 - 2 0 2 0 0 1 0 2 4
+p91
+aVClar. Weatherspoon MIA 04/06/2000 MIA vs. CHH W 16 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 1 0 0 3 4 2
+p92
+aVTim Hardaway MIA 04/06/2000 MIA vs. CHH W 34 6 2 10 20.0 1 4 25.0 1 2 50.0 0 1 1 6 1 1 6 3 4
+p93
+aVP.J. Brown MIA 04/06/2000 MIA vs. CHH W 30 3 1 4 25.0 0 0 - 1 2 50.0 0 6 6 3 1 1 0 3 7
+p94
+aVOtis Thorpe MIA 04/06/2000 MIA vs. CHH W 20 4 2 8 25.0 0 1 0.0 0 0 - 5 4 9 2 0 1 1 0 1
+p95
+aVAlonzo Mourning MIA 04/06/2000 MIA vs. CHH W 40 26 12 21 57.1 0 0 - 2 4 50.0 5 12 17 1 2 6 2 2 6
+p96
+aVAnthony Carter MIA 04/06/2000 MIA vs. CHH W 14 2 1 6 16.7 0 0 - 0 0 - 1 3 4 3 0 0 1 2 2
+p97
+aVAnthony Carter MIA 04/04/2000 MIA vs. CLE W 24 12 6 7 85.7 0 0 - 0 0 - 0 1 1 7 1 0 3 3 11
+p98
+aVP.J. Brown MIA 04/04/2000 MIA vs. CLE W 21 11 4 9 44.4 0 0 - 3 3 100.0 2 4 6 2 0 0 1 2 21
+p99
+aVAlonzo Mourning MIA 04/04/2000 MIA vs. CLE W 25 15 5 6 83.3 0 0 - 5 6 83.3 3 8 11 1 0 2 2 2 21
+p100
+aVOtis Thorpe MIA 04/04/2000 MIA vs. CLE W 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 1 1 2 4
+p101
+aVRodney Buford MIA 04/04/2000 MIA vs. CLE W 7 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p102
+aVJamal Mashburn MIA 04/04/2000 MIA vs. CLE W 30 17 7 12 58.3 1 3 33.3 2 2 100.0 0 5 5 2 1 0 1 2 27
+p103
+aVHarold Jamison MIA 04/04/2000 MIA vs. CLE W 8 0 0 3 0.0 0 0 - 0 2 0.0 1 0 1 1 0 0 0 1 1
+p104
+aVClar. Weatherspoon MIA 04/04/2000 MIA vs. CLE W 19 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 1 0 0 2 1 4
+p105
+aVTim Hardaway MIA 04/04/2000 MIA vs. CLE W 24 14 5 15 33.3 3 8 37.5 1 1 100.0 0 1 1 10 3 0 2 0 15
+p106
+aVBruce Bowen MIA 04/04/2000 MIA vs. CLE W 23 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 0 2 0 1 4 3
+p107
+aVMark Strickland MIA 04/04/2000 MIA vs. CLE W 14 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 0 0 1 2 3
+p108
+aVDan Majerle MIA 04/04/2000 MIA vs. CLE W 28 14 4 7 57.1 1 3 33.3 5 5 100.0 0 1 1 3 4 0 1 0 19
+p109
+aVOtis Thorpe MIA 04/02/2000 MIA vs. SAS W 16 4 2 5 40.0 0 0 - 0 1 0.0 0 0 0 1 2 0 1 4 -2
+p110
+aVAlonzo Mourning MIA 04/02/2000 MIA vs. SAS W 27 15 6 10 60.0 0 0 - 3 4 75.0 3 2 5 2 0 1 1 5 10
+p111
+aVBruce Bowen MIA 04/02/2000 MIA vs. SAS W 19 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 2 0 0 1 2 4
+p112
+aVAnthony Carter MIA 04/02/2000 MIA vs. SAS W 15 5 2 3 66.7 0 1 0.0 1 2 50.0 1 2 3 2 2 0 3 0 0
+p113
+aVJamal Mashburn MIA 04/02/2000 MIA vs. SAS W 41 26 9 17 52.9 2 3 66.7 6 6 100.0 1 1 2 1 1 0 3 2 4
+p114
+aVTim Hardaway MIA 04/02/2000 MIA vs. SAS W 33 14 4 9 44.4 2 5 40.0 4 4 100.0 0 7 7 4 0 0 1 2 4
+p115
+aVClar. Weatherspoon MIA 04/02/2000 MIA vs. SAS W 18 5 2 6 33.3 0 0 - 1 2 50.0 0 4 4 0 0 0 1 4 -2
+p116
+aVDan Majerle MIA 04/02/2000 MIA vs. SAS W 36 5 1 5 20.0 1 4 25.0 2 2 100.0 1 5 6 4 1 0 1 1 0
+p117
+aVP.J. Brown MIA 04/02/2000 MIA vs. SAS W 35 8 3 10 30.0 0 0 - 2 5 40.0 5 8 13 1 2 4 1 5 2
+p118
+aVMark Strickland MIA 03/30/2000 MIA vs. CHI W 5 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 4
+p119
+aVAnthony Carter MIA 03/30/2000 MIA vs. CHI W 23 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 9 2 0 3 4 10
+p120
+aVP.J. Brown MIA 03/30/2000 MIA vs. CHI W 16 4 2 6 33.3 0 0 - 0 0 - 2 2 4 1 0 0 1 4 12
+p121
+aVRodney Buford MIA 03/30/2000 MIA vs. CHI W 23 10 4 6 66.7 0 0 - 2 3 66.7 1 4 5 0 3 1 1 4 15
+p122
+aVBruce Bowen MIA 03/30/2000 MIA vs. CHI W 21 4 0 3 0.0 0 2 0.0 4 4 100.0 0 1 1 0 1 2 0 4 14
+p123
+aVAlonzo Mourning MIA 03/30/2000 MIA vs. CHI W 18 15 7 10 70.0 0 0 - 1 2 50.0 1 3 4 2 1 1 3 4 16
+p124
+aVClar. Weatherspoon MIA 03/30/2000 MIA vs. CHI W 29 10 3 6 50.0 0 0 - 4 4 100.0 4 3 7 3 1 0 3 2 10
+p125
+aVHarold Jamison MIA 03/30/2000 MIA vs. CHI W 6 4 1 2 50.0 0 0 - 2 4 50.0 1 1 2 0 1 0 0 1 2
+p126
+aVOtis Thorpe MIA 03/30/2000 MIA vs. CHI W 21 10 3 6 50.0 0 0 - 4 6 66.7 3 3 6 1 1 0 2 3 6
+p127
+aVJamal Mashburn MIA 03/30/2000 MIA vs. CHI W 27 12 5 9 55.6 0 2 0.0 2 3 66.7 0 2 2 1 0 0 0 1 15
+p128
+aVTim Hardaway MIA 03/30/2000 MIA vs. CHI W 25 16 5 10 50.0 2 6 33.3 4 4 100.0 0 0 0 8 2 0 0 0 15
+p129
+aVDan Majerle MIA 03/30/2000 MIA vs. CHI W 25 8 3 5 60.0 1 3 33.3 1 1 100.0 0 5 5 2 5 0 2 2 6
+p130
+aVP.J. Brown MIA 03/28/2000 MIA vs. PHX W 27 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 1 1 0 4 10
+p131
+aVAnthony Carter MIA 03/28/2000 MIA vs. PHX W 14 1 0 4 0.0 0 1 0.0 1 2 50.0 0 1 1 7 2 0 1 1 -5
+p132
+aVTim Hardaway MIA 03/28/2000 MIA vs. PHX W 34 20 6 11 54.5 3 4 75.0 5 5 100.0 0 5 5 7 0 0 7 3 8
+p133
+aVDan Majerle MIA 03/28/2000 MIA vs. PHX W 40 5 2 7 28.6 0 5 0.0 1 2 50.0 0 12 12 3 1 0 2 3 1
+p134
+aVOtis Thorpe MIA 03/28/2000 MIA vs. PHX W 14 6 2 3 66.7 0 0 - 2 4 50.0 0 3 3 0 0 0 2 3 3
+p135
+aVAlonzo Mourning MIA 03/28/2000 MIA vs. PHX W 34 20 5 10 50.0 0 0 - 10 14 71.4 3 9 12 1 1 1 6 4 1
+p136
+aVMark Strickland MIA 03/28/2000 MIA vs. PHX W 19 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 16
+p137
+aVBruce Bowen MIA 03/28/2000 MIA vs. PHX W 15 4 1 3 33.3 1 1 100.0 1 2 50.0 2 0 2 0 0 1 2 1 0
+p138
+aVClar. Weatherspoon MIA 03/28/2000 MIA vs. PHX W 21 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -7
+p139
+aVRodney Buford MIA 03/28/2000 MIA vs. PHX W 22 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 0 0 1 1 4 -12
+p140
+aVAnthony Carter MIA 03/26/2000 MIA @ ORL L 20 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 2 0 2 3 -11
+p141
+aVP.J. Brown MIA 03/26/2000 MIA @ ORL L 26 12 6 12 50.0 0 0 - 0 0 - 2 3 5 4 2 1 1 3 -9
+p142
+aVDan Majerle MIA 03/26/2000 MIA @ ORL L 33 2 1 7 14.3 0 4 0.0 0 1 0.0 0 1 1 0 4 0 1 2 -14
+p143
+aVJamal Mashburn MIA 03/26/2000 MIA @ ORL L 38 10 4 10 40.0 1 2 50.0 1 2 50.0 0 4 4 3 0 1 4 5 -17
+p144
+aVMark Strickland MIA 03/26/2000 MIA @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p145
+aVHarold Jamison MIA 03/26/2000 MIA @ ORL L 4 1 0 1 0.0 0 0 - 1 4 25.0 1 0 1 0 0 0 0 0 -1
+p146
+aVClar. Weatherspoon MIA 03/26/2000 MIA @ ORL L 13 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 2 1 0 1 0 -9
+p147
+aVAlonzo Mourning MIA 03/26/2000 MIA @ ORL L 32 14 4 10 40.0 0 0 - 6 12 50.0 5 8 13 0 2 2 3 3 -18
+p148
+aVTim Hardaway MIA 03/26/2000 MIA @ ORL L 31 12 5 14 35.7 1 8 12.5 1 2 50.0 0 1 1 5 0 0 4 2 -16
+p149
+aVBruce Bowen MIA 03/26/2000 MIA @ ORL L 17 2 1 4 25.0 0 2 0.0 0 1 0.0 0 0 0 0 0 1 0 2 -9
+p150
+aVRodney Buford MIA 03/26/2000 MIA @ ORL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -6
+p151
+aVOtis Thorpe MIA 03/26/2000 MIA @ ORL L 14 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 0 1 0 1 -11
+p152
+aVClar. Weatherspoon MIA 03/24/2000 MIA @ MIL W 24 10 5 6 83.3 0 0 - 0 0 - 2 4 6 0 1 3 1 1 11
+p153
+aVJamal Mashburn MIA 03/24/2000 MIA @ MIL W 41 22 9 21 42.9 3 7 42.9 1 2 50.0 0 2 2 6 0 0 1 2 8
+p154
+aVOtis Thorpe MIA 03/24/2000 MIA @ MIL W 12 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 1 0 1 2 0
+p155
+aVBruce Bowen MIA 03/24/2000 MIA @ MIL W 15 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 1 -2
+p156
+aVAnthony Carter MIA 03/24/2000 MIA @ MIL W 23 2 1 4 25.0 0 0 - 0 0 - 0 4 4 7 0 0 1 2 3
+p157
+aVDan Majerle MIA 03/24/2000 MIA @ MIL W 34 6 1 3 33.3 1 3 33.3 3 4 75.0 0 3 3 5 1 0 1 2 11
+p158
+aVTim Hardaway MIA 03/24/2000 MIA @ MIL W 32 17 7 11 63.6 1 2 50.0 2 2 100.0 0 0 0 8 3 0 2 3 13
+p159
+aVP.J. Brown MIA 03/24/2000 MIA @ MIL W 23 12 6 9 66.7 0 0 - 0 0 - 2 2 4 1 2 0 3 1 4
+p160
+aVAlonzo Mourning MIA 03/24/2000 MIA @ MIL W 36 24 9 12 75.0 0 0 - 6 6 100.0 4 7 11 4 1 1 2 2 12
+p161
+aVClar. Weatherspoon MIA 03/21/2000 MIA @ ATL L 36 8 4 12 33.3 0 0 - 0 0 - 4 5 9 2 1 1 4 2 -8
+p162
+aVDan Majerle MIA 03/21/2000 MIA @ ATL L 37 9 3 6 50.0 3 4 75.0 0 0 - 0 7 7 2 1 0 3 2 3
+p163
+aVMark Strickland MIA 03/21/2000 MIA @ ATL L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p164
+aVAlonzo Mourning MIA 03/21/2000 MIA @ ATL L 33 18 7 13 53.8 0 0 - 4 4 100.0 3 8 11 1 0 7 3 5 2
+p165
+aVHarold Jamison MIA 03/21/2000 MIA @ ATL L 17 6 3 5 60.0 0 0 - 0 0 - 7 1 8 0 0 0 2 2 -8
+p166
+aVJamal Mashburn MIA 03/21/2000 MIA @ ATL L 43 20 8 19 42.1 0 3 0.0 4 4 100.0 0 4 4 3 0 0 2 4 -2
+p167
+aVAnthony Carter MIA 03/21/2000 MIA @ ATL L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -1
+p168
+aVTim Hardaway MIA 03/21/2000 MIA @ ATL L 37 12 5 18 27.8 0 2 0.0 2 2 100.0 0 3 3 7 2 0 3 2 -2
+p169
+aVBruce Bowen MIA 03/21/2000 MIA @ ATL L 17 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 2 -2
+p170
+aVJamal Mashburn MIA 03/20/2000 MIA vs. LAL L 41 13 6 17 35.3 1 6 16.7 0 0 - 1 3 4 3 1 0 0 5 -8
+p171
+aVBruce Bowen MIA 03/20/2000 MIA vs. LAL L 24 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 5 3
+p172
+aVDan Majerle MIA 03/20/2000 MIA vs. LAL L 24 0 0 2 0.0 0 2 0.0 0 0 - 1 3 4 2 1 0 0 2 -16
+p173
+aVRodney Buford MIA 03/20/2000 MIA vs. LAL L 14 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p174
+aVAlonzo Mourning MIA 03/20/2000 MIA vs. LAL L 42 33 12 25 48.0 0 0 - 9 10 90.0 2 11 13 1 2 1 1 5 -13
+p175
+aVClar. Weatherspoon MIA 03/20/2000 MIA vs. LAL L 29 13 4 9 44.4 0 0 - 5 6 83.3 3 0 3 1 2 1 1 3 12
+p176
+aVAnthony Carter MIA 03/20/2000 MIA vs. LAL L 13 1 0 0 - 0 0 - 1 2 50.0 0 2 2 5 0 0 3 1 3
+p177
+aVMark Strickland MIA 03/20/2000 MIA vs. LAL L 18 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -24
+p178
+aVTim Hardaway MIA 03/20/2000 MIA vs. LAL L 35 15 6 14 42.9 1 5 20.0 2 4 50.0 0 1 1 7 0 0 2 0 -14
+p179
+aVMark Strickland MIA 03/18/2000 MIA @ CLE W 10 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 0
+p180
+aVAnthony Carter MIA 03/18/2000 MIA @ CLE W 21 4 1 4 25.0 0 0 - 2 4 50.0 2 2 4 4 1 0 0 1 -4
+p181
+aVDan Majerle MIA 03/18/2000 MIA @ CLE W 31 1 0 5 0.0 0 4 0.0 1 2 50.0 0 5 5 1 0 0 1 1 5
+p182
+aVJamal Mashburn MIA 03/18/2000 MIA @ CLE W 50 29 10 24 41.7 2 4 50.0 7 8 87.5 3 2 5 6 2 0 3 4 3
+p183
+aVAlonzo Mourning MIA 03/18/2000 MIA @ CLE W 24 4 1 4 25.0 0 0 - 2 4 50.0 1 4 5 1 2 3 1 6 2
+p184
+aVClar. Weatherspoon MIA 03/18/2000 MIA @ CLE W 22 8 4 10 40.0 0 0 - 0 0 - 1 7 8 1 0 0 2 6 -5
+p185
+aVOtis Thorpe MIA 03/18/2000 MIA @ CLE W 24 6 2 7 28.6 0 0 - 2 6 33.3 5 3 8 2 1 0 1 5 5
+p186
+aVP.J. Brown MIA 03/18/2000 MIA @ CLE W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 5
+p187
+aVTim Hardaway MIA 03/18/2000 MIA @ CLE W 43 21 7 21 33.3 3 9 33.3 4 6 66.7 0 5 5 7 1 1 3 3 7
+p188
+aVHarold Jamison MIA 03/18/2000 MIA @ CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -6
+p189
+aVBruce Bowen MIA 03/18/2000 MIA @ CLE W 33 11 4 8 50.0 3 5 60.0 0 0 - 1 5 6 0 0 1 1 5 -2
+p190
+aVP.J. Brown MIA 03/16/2000 MIA vs. PHI W 33 8 4 8 50.0 0 0 - 0 0 - 0 5 5 1 1 1 0 5 19
+p191
+aVAnthony Carter MIA 03/16/2000 MIA vs. PHI W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 -11
+p192
+aVBruce Bowen MIA 03/16/2000 MIA vs. PHI W 29 16 6 8 75.0 4 4 100.0 0 0 - 1 3 4 2 3 1 1 4 9
+p193
+aVJamal Mashburn MIA 03/16/2000 MIA vs. PHI W 44 13 6 17 35.3 1 4 25.0 0 0 - 1 4 5 4 0 0 1 0 24
+p194
+aVMark Strickland MIA 03/16/2000 MIA vs. PHI W 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p195
+aVRodney Buford MIA 03/16/2000 MIA vs. PHI W 16 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 1
+p196
+aVAlonzo Mourning MIA 03/16/2000 MIA vs. PHI W 38 21 10 16 62.5 0 0 - 1 2 50.0 4 4 8 3 0 6 6 6 15
+p197
+aVTim Hardaway MIA 03/16/2000 MIA vs. PHI W 36 18 7 18 38.9 3 4 75.0 1 2 50.0 1 8 9 14 1 0 2 2 26
+p198
+aVClar. Weatherspoon MIA 03/16/2000 MIA vs. PHI W 28 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 2 0 1 1 2 1
+p199
+aVMark Strickland MIA 03/14/2000 MIA vs. MIL W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p200
+aVTim Hardaway MIA 03/14/2000 MIA vs. MIL W 36 17 5 15 33.3 1 8 12.5 6 6 100.0 0 1 1 8 1 0 2 1 11
+p201
+aVClar. Weatherspoon MIA 03/14/2000 MIA vs. MIL W 26 11 5 8 62.5 0 0 - 1 2 50.0 4 2 6 1 1 2 1 3 3
+p202
+aVJamal Mashburn MIA 03/14/2000 MIA vs. MIL W 38 28 12 18 66.7 1 4 25.0 3 4 75.0 0 4 4 3 2 1 2 3 2
+p203
+aVAlonzo Mourning MIA 03/14/2000 MIA vs. MIL W 39 22 8 12 66.7 0 0 - 6 11 54.5 7 10 17 2 1 2 0 4 2
+p204
+aVP.J. Brown MIA 03/14/2000 MIA vs. MIL W 25 4 1 4 25.0 0 0 - 2 2 100.0 3 2 5 3 0 1 0 4 1
+p205
+aVAnthony Carter MIA 03/14/2000 MIA vs. MIL W 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 1 0 3 3 -7
+p206
+aVBruce Bowen MIA 03/14/2000 MIA vs. MIL W 37 11 4 8 50.0 3 4 75.0 0 4 0.0 1 1 2 2 2 0 0 4 8
+p207
+aVRodney Buford MIA 03/14/2000 MIA vs. MIL W 19 11 4 7 57.1 1 2 50.0 2 2 100.0 0 0 0 1 0 0 2 4 3
+p208
+aVP.J. Brown MIA 03/12/2000 MIA @ IND W 32 8 3 10 30.0 0 0 - 2 2 100.0 6 6 12 1 0 1 0 2 10
+p209
+aVAnthony Carter MIA 03/12/2000 MIA @ IND W 15 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 4 1 0 2 1 -13
+p210
+aVMark Strickland MIA 03/12/2000 MIA @ IND W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p211
+aVBruce Bowen MIA 03/12/2000 MIA @ IND W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 -13
+p212
+aVAlonzo Mourning MIA 03/12/2000 MIA @ IND W 40 35 13 18 72.2 0 0 - 9 14 64.3 1 7 8 2 2 4 1 3 20
+p213
+aVDan Majerle MIA 03/12/2000 MIA @ IND W 27 2 1 4 25.0 0 1 0.0 0 0 - 1 7 8 2 1 0 0 4 19
+p214
+aVOtis Thorpe MIA 03/12/2000 MIA @ IND W 20 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -16
+p215
+aVTim Hardaway MIA 03/12/2000 MIA @ IND W 34 22 9 16 56.3 3 6 50.0 1 2 50.0 0 1 1 12 2 0 2 2 22
+p216
+aVJamal Mashburn MIA 03/12/2000 MIA @ IND W 40 21 7 12 58.3 3 4 75.0 4 4 100.0 0 2 2 4 2 0 2 4 24
+p217
+aVClar. Weatherspoon MIA 03/12/2000 MIA @ IND W 13 8 2 4 50.0 0 0 - 4 4 100.0 1 3 4 0 1 0 1 2 -1
+p218
+aVMark Strickland MIA 03/10/2000 MIA vs. DEN W 18 13 5 8 62.5 0 0 - 3 4 75.0 2 2 4 1 2 1 0 2 1
+p219
+aVHarold Jamison MIA 03/10/2000 MIA vs. DEN W 4 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 1 0 1 3 -1
+p220
+aVAnthony Carter MIA 03/10/2000 MIA vs. DEN W 17 5 2 4 50.0 0 0 - 1 3 33.3 1 1 2 6 0 0 1 1 2
+p221
+aVDan Majerle MIA 03/10/2000 MIA vs. DEN W 35 2 1 4 25.0 0 3 0.0 0 0 - 0 6 6 3 2 0 1 2 5
+p222
+aVOtis Thorpe MIA 03/10/2000 MIA vs. DEN W 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 6 -8
+p223
+aVBruce Bowen MIA 03/10/2000 MIA vs. DEN W 19 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 2 7
+p224
+aVAlonzo Mourning MIA 03/10/2000 MIA vs. DEN W 31 28 10 19 52.6 0 0 - 8 10 80.0 4 6 10 0 0 6 2 5 14
+p225
+aVJamal Mashburn MIA 03/10/2000 MIA vs. DEN W 44 23 9 22 40.9 2 8 25.0 3 3 100.0 1 4 5 6 0 1 1 2 8
+p226
+aVTim Hardaway MIA 03/10/2000 MIA vs. DEN W 31 4 1 6 16.7 0 3 0.0 2 2 100.0 0 1 1 7 0 0 1 0 7
+p227
+aVP.J. Brown MIA 03/10/2000 MIA vs. DEN W 31 18 7 9 77.8 0 0 - 4 4 100.0 1 7 8 2 1 1 2 4 5
+p228
+aVJamal Mashburn MIA 03/06/2000 MIA @ PHX L 34 9 3 12 25.0 1 2 50.0 2 2 100.0 0 3 3 6 4 0 2 5 -7
+p229
+aVDan Majerle MIA 03/06/2000 MIA @ PHX L 37 6 2 7 28.6 2 6 33.3 0 0 - 0 4 4 0 3 0 4 4 -3
+p230
+aVAnthony Carter MIA 03/06/2000 MIA @ PHX L 18 9 2 4 50.0 1 1 100.0 4 4 100.0 1 0 1 2 0 0 2 1 -2
+p231
+aVTim Hardaway MIA 03/06/2000 MIA @ PHX L 36 10 4 14 28.6 2 5 40.0 0 0 - 0 3 3 11 0 0 6 2 -10
+p232
+aVBruce Bowen MIA 03/06/2000 MIA @ PHX L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p233
+aVMark Strickland MIA 03/06/2000 MIA @ PHX L 8 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 1 0 1 1 -5
+p234
+aVP.J. Brown MIA 03/06/2000 MIA @ PHX L 41 22 10 17 58.8 0 0 - 2 3 66.7 6 5 11 1 0 1 1 4 -6
+p235
+aVClar. Weatherspoon MIA 03/06/2000 MIA @ PHX L 15 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 0 1 1 2 3 -1
+p236
+aVAlonzo Mourning MIA 03/06/2000 MIA @ PHX L 44 25 7 11 63.6 0 0 - 11 13 84.6 3 6 9 2 1 2 5 5 -3
+p237
+aVTim Hardaway MIA 03/05/2000 MIA @ LAL L 33 8 4 9 44.4 0 2 0.0 0 0 - 0 2 2 7 1 0 3 3 -14
+p238
+aVAlonzo Mourning MIA 03/05/2000 MIA @ LAL L 33 21 7 18 38.9 0 0 - 7 12 58.3 3 6 9 4 0 1 2 5 -17
+p239
+aVBruce Bowen MIA 03/05/2000 MIA @ LAL L 19 10 3 4 75.0 2 2 100.0 2 2 100.0 0 1 1 0 0 1 0 3 -4
+p240
+aVJamal Mashburn MIA 03/05/2000 MIA @ LAL L 44 17 8 13 61.5 1 4 25.0 0 0 - 0 7 7 2 1 0 5 3 -8
+p241
+aVMark Strickland MIA 03/05/2000 MIA @ LAL L 11 4 2 6 33.3 0 0 - 0 0 - 0 4 4 0 0 0 1 1 1
+p242
+aVAnthony Carter MIA 03/05/2000 MIA @ LAL L 19 2 1 5 20.0 0 0 - 0 0 - 1 4 5 1 2 0 1 2 -4
+p243
+aVP.J. Brown MIA 03/05/2000 MIA @ LAL L 19 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 0 1 1 1 6 -3
+p244
+aVHarold Jamison MIA 03/05/2000 MIA @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p245
+aVClar. Weatherspoon MIA 03/05/2000 MIA @ LAL L 31 11 3 10 30.0 0 0 - 5 6 83.3 1 6 7 3 0 0 2 2 -9
+p246
+aVDan Majerle MIA 03/05/2000 MIA @ LAL L 29 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 2 1 0 0 4 -10
+p247
+aVDuane Causwell MIA 03/05/2000 MIA @ LAL L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p248
+aVClar. Weatherspoon MIA 03/02/2000 MIA vs. SEA W 39 13 5 8 62.5 0 0 - 3 4 75.0 5 7 12 1 0 0 0 4 21
+p249
+aVJamal Mashburn MIA 03/02/2000 MIA vs. SEA W 39 29 13 20 65.0 1 2 50.0 2 2 100.0 1 5 6 1 0 1 4 2 21
+p250
+aVDan Majerle MIA 03/02/2000 MIA vs. SEA W 38 7 3 8 37.5 1 3 33.3 0 1 0.0 2 4 6 4 0 0 2 1 21
+p251
+aVAnthony Carter MIA 03/02/2000 MIA vs. SEA W 15 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -4
+p252
+aVTim Hardaway MIA 03/02/2000 MIA vs. SEA W 37 18 6 13 46.2 3 4 75.0 3 3 100.0 0 3 3 8 1 0 2 2 22
+p253
+aVBruce Bowen MIA 03/02/2000 MIA vs. SEA W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 2 -3
+p254
+aVDuane Causwell MIA 03/02/2000 MIA vs. SEA W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 1 0 3 -2
+p255
+aVMark Strickland MIA 03/02/2000 MIA vs. SEA W 17 13 5 6 83.3 0 0 - 3 3 100.0 1 2 3 0 0 1 1 1 -3
+p256
+aVP.J. Brown MIA 03/02/2000 MIA vs. SEA W 39 14 7 11 63.6 0 0 - 0 0 - 2 7 9 2 0 0 1 4 17
+p257
+aVTim Hardaway MIA 02/29/2000 MIA @ SAS L 28 4 2 10 20.0 0 3 0.0 0 0 - 1 0 1 3 0 0 0 3 -23
+p258
+aVJamal Mashburn MIA 02/29/2000 MIA @ SAS L 23 7 3 15 20.0 1 4 25.0 0 0 - 1 1 2 1 0 0 1 2 -18
+p259
+aVP.J. Brown MIA 02/29/2000 MIA @ SAS L 28 16 6 11 54.5 0 0 - 4 4 100.0 5 5 10 2 0 2 1 4 -22
+p260
+aVClar. Weatherspoon MIA 02/29/2000 MIA @ SAS L 27 10 4 15 26.7 0 0 - 2 2 100.0 4 8 12 1 0 1 1 3 -8
+p261
+aVDuane Causwell MIA 02/29/2000 MIA @ SAS L 22 13 4 8 50.0 0 0 - 5 9 55.6 1 5 6 0 0 2 0 4 -13
+p262
+aVBruce Bowen MIA 02/29/2000 MIA @ SAS L 23 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 1
+p263
+aVAnthony Carter MIA 02/29/2000 MIA @ SAS L 25 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 1 1 4 0 1
+p264
+aVMark Strickland MIA 02/29/2000 MIA @ SAS L 22 6 2 8 25.0 0 0 - 2 2 100.0 2 5 7 0 1 0 1 1 -14
+p265
+aVHarold Jamison MIA 02/29/2000 MIA @ SAS L 11 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 1 1 4 -3
+p266
+aVDan Majerle MIA 02/29/2000 MIA @ SAS L 30 7 0 3 0.0 0 3 0.0 7 7 100.0 0 2 2 4 1 0 1 2 -21
+p267
+aVTim Hardaway MIA 02/28/2000 MIA vs. NYK W 33 10 4 11 36.4 2 7 28.6 0 0 - 0 2 2 6 3 0 3 2 -1
+p268
+aVBruce Bowen MIA 02/28/2000 MIA vs. NYK W 23 7 2 4 50.0 1 2 50.0 2 2 100.0 1 5 6 1 1 0 0 3 18
+p269
+aVDuane Causwell MIA 02/28/2000 MIA vs. NYK W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 2 0 -17
+p270
+aVAnthony Carter MIA 02/28/2000 MIA vs. NYK W 15 6 1 6 16.7 0 0 - 4 4 100.0 1 2 3 3 2 0 1 1 10
+p271
+aVP.J. Brown MIA 02/28/2000 MIA vs. NYK W 40 12 6 12 50.0 0 0 - 0 0 - 4 4 8 1 1 1 1 2 -1
+p272
+aVDan Majerle MIA 02/28/2000 MIA vs. NYK W 32 8 3 9 33.3 2 7 28.6 0 0 - 2 4 6 1 0 0 0 4 -7
+p273
+aVJamal Mashburn MIA 02/28/2000 MIA vs. NYK W 41 24 8 19 42.1 0 2 0.0 8 8 100.0 3 4 7 2 0 0 3 3 5
+p274
+aVClar. Weatherspoon MIA 02/28/2000 MIA vs. NYK W 37 14 7 11 63.6 0 0 - 0 0 - 2 10 12 3 0 0 0 3 26
+p275
+aVMark Strickland MIA 02/28/2000 MIA vs. NYK W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 12
+p276
+aVAlonzo Mourning MIA 02/26/2000 MIA @ WAS W 37 28 8 16 50.0 0 0 - 12 13 92.3 3 3 6 2 0 3 0 3 15
+p277
+aVTim Hardaway MIA 02/26/2000 MIA @ WAS W 34 23 7 11 63.6 4 6 66.7 5 5 100.0 0 0 0 9 0 0 2 4 15
+p278
+aVJamal Mashburn MIA 02/26/2000 MIA @ WAS W 38 15 7 15 46.7 0 3 0.0 1 1 100.0 0 5 5 1 2 0 4 3 12
+p279
+aVDuane Causwell MIA 02/26/2000 MIA @ WAS W 9 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 2 4 -3
+p280
+aVP.J. Brown MIA 02/26/2000 MIA @ WAS W 26 8 4 7 57.1 0 0 - 0 1 0.0 1 3 4 1 0 3 0 5 15
+p281
+aVAnthony Carter MIA 02/26/2000 MIA @ WAS W 14 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 3 0 1 0 1 -5
+p282
+aVVoshon Lenard MIA 02/26/2000 MIA @ WAS W 22 8 3 9 33.3 1 4 25.0 1 1 100.0 0 1 1 1 0 0 0 2 -6
+p283
+aVClar. Weatherspoon MIA 02/26/2000 MIA @ WAS W 23 12 4 8 50.0 0 0 - 4 5 80.0 1 3 4 0 1 0 0 4 -9
+p284
+aVDan Majerle MIA 02/26/2000 MIA @ WAS W 37 3 1 5 20.0 1 5 20.0 0 0 - 0 6 6 3 1 0 0 0 16
+p285
+aVJamal Mashburn MIA 02/25/2000 MIA vs. CLE W 36 18 6 12 50.0 2 4 50.0 4 4 100.0 1 3 4 2 0 0 3 3 1
+p286
+aVAlonzo Mourning MIA 02/25/2000 MIA vs. CLE W 36 9 4 14 28.6 0 0 - 1 1 100.0 2 3 5 2 0 6 3 5 -6
+p287
+aVVoshon Lenard MIA 02/25/2000 MIA vs. CLE W 17 10 3 9 33.3 2 5 40.0 2 2 100.0 0 1 1 1 0 0 2 2 0
+p288
+aVDan Majerle MIA 02/25/2000 MIA vs. CLE W 35 8 3 7 42.9 2 5 40.0 0 0 - 2 5 7 3 0 0 1 1 7
+p289
+aVMark Strickland MIA 02/25/2000 MIA vs. CLE W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 1 0 0 2
+p290
+aVClar. Weatherspoon MIA 02/25/2000 MIA vs. CLE W 30 13 4 7 57.1 0 0 - 5 6 83.3 4 12 16 2 1 0 2 0 -3
+p291
+aVAnthony Carter MIA 02/25/2000 MIA vs. CLE W 17 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 4 0 0 3 3 0
+p292
+aVTim Hardaway MIA 02/25/2000 MIA vs. CLE W 31 12 5 19 26.3 0 5 0.0 2 2 100.0 0 0 0 7 1 1 1 2 5
+p293
+aVP.J. Brown MIA 02/25/2000 MIA vs. CLE W 30 11 5 6 83.3 0 0 - 1 2 50.0 4 9 13 1 2 0 0 4 19
+p294
+aVTim Hardaway MIA 02/23/2000 MIA vs. NJN W 26 4 1 8 12.5 1 3 33.3 1 1 100.0 0 2 2 7 0 0 4 3 8
+p295
+aVClar. Weatherspoon MIA 02/23/2000 MIA vs. NJN W 24 14 7 9 77.8 0 0 - 0 2 0.0 1 4 5 3 1 2 1 2 9
+p296
+aVP.J. Brown MIA 02/23/2000 MIA vs. NJN W 24 9 4 10 40.0 0 0 - 1 2 50.0 4 4 8 1 0 1 2 2 5
+p297
+aVAnthony Carter MIA 02/23/2000 MIA vs. NJN W 22 3 1 4 25.0 0 1 0.0 1 2 50.0 0 3 3 3 2 0 0 2 6
+p298
+aVVoshon Lenard MIA 02/23/2000 MIA vs. NJN W 26 7 2 8 25.0 1 3 33.3 2 2 100.0 0 3 3 3 0 0 0 0 6
+p299
+aVOtis Thorpe MIA 02/23/2000 MIA vs. NJN W 15 8 4 8 50.0 0 0 - 0 0 - 3 4 7 1 0 0 0 0 8
+p300
+aVDan Majerle MIA 02/23/2000 MIA vs. NJN W 33 2 1 5 20.0 0 3 0.0 0 0 - 1 6 7 3 1 0 1 2 4
+p301
+aVAlonzo Mourning MIA 02/23/2000 MIA vs. NJN W 33 43 13 14 92.9 0 0 - 17 24 70.8 7 9 16 0 0 5 2 2 6
+p302
+aVJamal Mashburn MIA 02/23/2000 MIA vs. NJN W 36 9 4 14 28.6 0 3 0.0 1 2 50.0 0 5 5 2 1 0 3 2 18
+p303
+aVVoshon Lenard MIA 02/21/2000 MIA @ DET L 25 9 3 9 33.3 1 4 25.0 2 3 66.7 2 4 6 1 1 0 0 4 4
+p304
+aVTim Hardaway MIA 02/21/2000 MIA @ DET L 32 7 2 8 25.0 1 5 20.0 2 2 100.0 1 1 2 8 1 0 3 5 -9
+p305
+aVOtis Thorpe MIA 02/21/2000 MIA @ DET L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p306
+aVAnthony Carter MIA 02/21/2000 MIA @ DET L 16 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 4 3 0 1 2 1
+p307
+aVP.J. Brown MIA 02/21/2000 MIA @ DET L 23 11 4 6 66.7 0 0 - 3 3 100.0 0 5 5 0 0 0 2 3 -11
+p308
+aVClar. Weatherspoon MIA 02/21/2000 MIA @ DET L 21 11 4 5 80.0 0 0 - 3 4 75.0 2 3 5 1 0 2 1 3 2
+p309
+aVAlonzo Mourning MIA 02/21/2000 MIA @ DET L 39 20 9 12 75.0 0 0 - 2 2 100.0 1 7 8 2 1 1 5 6 -11
+p310
+aVJamal Mashburn MIA 02/21/2000 MIA @ DET L 36 14 6 23 26.1 2 9 22.2 0 0 - 2 4 6 3 2 0 1 4 -8
+p311
+aVDan Majerle MIA 02/21/2000 MIA @ DET L 38 11 4 9 44.4 3 5 60.0 0 0 - 1 2 3 4 0 0 1 2 -10
+p312
+aVAlonzo Mourning MIA 02/20/2000 MIA @ CHH W 40 21 7 18 38.9 0 0 - 7 10 70.0 0 8 8 2 1 3 1 3 9
+p313
+aVTim Hardaway MIA 02/20/2000 MIA @ CHH W 40 23 7 13 53.8 6 8 75.0 3 4 75.0 1 3 4 12 2 0 1 2 15
+p314
+aVVoshon Lenard MIA 02/20/2000 MIA @ CHH W 21 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 1 -13
+p315
+aVOtis Thorpe MIA 02/20/2000 MIA @ CHH W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 5 -8
+p316
+aVAnthony Carter MIA 02/20/2000 MIA @ CHH W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p317
+aVP.J. Brown MIA 02/20/2000 MIA @ CHH W 33 6 3 13 23.1 0 0 - 0 0 - 5 3 8 2 0 0 3 5 17
+p318
+aVClar. Weatherspoon MIA 02/20/2000 MIA @ CHH W 17 4 0 3 0.0 0 0 - 4 8 50.0 2 3 5 0 0 1 1 1 -8
+p319
+aVJamal Mashburn MIA 02/20/2000 MIA @ CHH W 44 20 8 17 47.1 3 3 100.0 1 2 50.0 1 7 8 3 0 0 0 4 2
+p320
+aVDan Majerle MIA 02/20/2000 MIA @ CHH W 31 9 3 4 75.0 3 4 75.0 0 0 - 0 5 5 3 1 0 0 3 21
+p321
+aVP.J. Brown MIA 02/18/2000 MIA @ NJN L 28 6 3 8 37.5 0 0 - 0 0 - 4 1 5 2 2 1 1 3 5
+p322
+aVOtis Thorpe MIA 02/18/2000 MIA @ NJN L 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -7
+p323
+aVMark Strickland MIA 02/18/2000 MIA @ NJN L 10 6 3 7 42.9 0 0 - 0 0 - 2 1 3 0 0 2 0 1 9
+p324
+aVRodney Buford MIA 02/18/2000 MIA @ NJN L 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 -5
+p325
+aVVoshon Lenard MIA 02/18/2000 MIA @ NJN L 37 15 6 12 50.0 1 4 25.0 2 4 50.0 3 4 7 5 2 0 3 3 1
+p326
+aVTim Hardaway MIA 02/18/2000 MIA @ NJN L 34 18 7 17 41.2 2 5 40.0 2 2 100.0 4 3 7 6 2 0 6 3 -5
+p327
+aVJamal Mashburn MIA 02/18/2000 MIA @ NJN L 38 12 5 10 50.0 0 2 0.0 2 4 50.0 2 9 11 2 1 0 3 5 -16
+p328
+aVClar. Weatherspoon MIA 02/18/2000 MIA @ NJN L 24 7 3 3 100.0 0 0 - 1 1 100.0 0 3 3 1 0 0 3 5 -17
+p329
+aVAlonzo Mourning MIA 02/18/2000 MIA @ NJN L 35 15 6 15 40.0 0 0 - 3 4 75.0 3 8 11 0 0 3 3 5 5
+p330
+aVAnthony Carter MIA 02/18/2000 MIA @ NJN L 18 0 0 0 - 0 0 - 0 0 - 0 3 3 4 1 0 4 3 -5
+p331
+aVOtis Thorpe MIA 02/17/2000 MIA @ CHI L 10 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 1 0 1 4 -5
+p332
+aVJamal Mashburn MIA 02/17/2000 MIA @ CHI L 41 12 5 14 35.7 0 1 0.0 2 2 100.0 0 3 3 8 0 0 4 5 2
+p333
+aVTim Hardaway MIA 02/17/2000 MIA @ CHI L 35 14 5 11 45.5 4 5 80.0 0 0 - 0 6 6 9 0 0 2 3 2
+p334
+aVRodney Buford MIA 02/17/2000 MIA @ CHI L 12 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -13
+p335
+aVAlonzo Mourning MIA 02/17/2000 MIA @ CHI L 38 15 6 16 37.5 0 0 - 3 5 60.0 3 8 11 0 0 7 3 4 -2
+p336
+aVAnthony Carter MIA 02/17/2000 MIA @ CHI L 19 10 5 8 62.5 0 0 - 0 0 - 1 3 4 2 1 0 0 1 -12
+p337
+aVP.J. Brown MIA 02/17/2000 MIA @ CHI L 31 6 3 8 37.5 0 0 - 0 0 - 1 3 4 1 3 0 0 2 3
+p338
+aVClar. Weatherspoon MIA 02/17/2000 MIA @ CHI L 17 0 0 1 0.0 0 0 - 0 2 0.0 2 2 4 0 1 0 2 2 -10
+p339
+aVMark Strickland MIA 02/17/2000 MIA @ CHI L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p340
+aVVoshon Lenard MIA 02/17/2000 MIA @ CHI L 34 10 4 9 44.4 2 5 40.0 0 0 - 1 4 5 7 2 0 1 4 9
+p341
+aVDuane Causwell MIA 02/15/2000 MIA vs. LAC W 9 7 2 4 50.0 0 0 - 3 5 60.0 1 5 6 0 0 3 0 4 -7
+p342
+aVVoshon Lenard MIA 02/15/2000 MIA vs. LAC W 27 15 6 15 40.0 3 7 42.9 0 0 - 0 1 1 3 3 1 1 2 23
+p343
+aVRodney Buford MIA 02/15/2000 MIA vs. LAC W 21 4 2 10 20.0 0 1 0.0 0 0 - 0 6 6 1 1 0 0 2 -4
+p344
+aVJamal Mashburn MIA 02/15/2000 MIA vs. LAC W 31 26 9 14 64.3 4 6 66.7 4 7 57.1 3 5 8 3 0 0 0 2 23
+p345
+aVOtis Thorpe MIA 02/15/2000 MIA vs. LAC W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p346
+aVClar. Weatherspoon MIA 02/15/2000 MIA vs. LAC W 18 6 3 4 75.0 0 0 - 0 0 - 5 4 9 1 2 0 2 1 1
+p347
+aVRex Walters MIA 02/15/2000 MIA vs. LAC W 5 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 2 -2
+p348
+aVTim Hardaway MIA 02/15/2000 MIA vs. LAC W 23 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 6 0 0 4 5 6
+p349
+aVAnthony Carter MIA 02/15/2000 MIA vs. LAC W 30 6 2 8 25.0 0 1 0.0 2 2 100.0 2 3 5 8 4 0 4 1 13
+p350
+aVAlonzo Mourning MIA 02/15/2000 MIA vs. LAC W 32 20 7 12 58.3 0 0 - 6 6 100.0 6 7 13 4 0 8 3 3 26
+p351
+aVP.J. Brown MIA 02/15/2000 MIA vs. LAC W 24 10 4 5 80.0 0 0 - 2 2 100.0 1 6 7 0 2 0 3 0 20
+p352
+aVMark Strickland MIA 02/15/2000 MIA vs. LAC W 13 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 2 -4
+p353
+aVOtis Thorpe MIA 02/09/2000 MIA vs. GSW W 22 10 5 7 71.4 0 0 - 0 0 - 0 4 4 2 3 0 1 3 -1
+p354
+aVVoshon Lenard MIA 02/09/2000 MIA vs. GSW W 22 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 2 1 0 0 1 0
+p355
+aVRodney Buford MIA 02/09/2000 MIA vs. GSW W 26 17 8 13 61.5 1 3 33.3 0 0 - 0 3 3 2 0 1 0 3 15
+p356
+aVAlonzo Mourning MIA 02/09/2000 MIA vs. GSW W 26 17 6 10 60.0 0 0 - 5 6 83.3 5 7 12 2 1 2 1 3 16
+p357
+aVP.J. Brown MIA 02/09/2000 MIA vs. GSW W 25 11 4 11 36.4 0 0 - 3 4 75.0 7 6 13 2 0 2 0 2 2
+p358
+aVClar. Weatherspoon MIA 02/09/2000 MIA vs. GSW W 23 8 4 4 100.0 0 0 - 0 0 - 0 5 5 1 1 1 3 4 13
+p359
+aVMark Strickland MIA 02/09/2000 MIA vs. GSW W 10 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p360
+aVTim Hardaway MIA 02/09/2000 MIA vs. GSW W 22 6 2 7 28.6 2 4 50.0 0 0 - 0 0 0 8 1 0 1 2 0
+p361
+aVAnthony Carter MIA 02/09/2000 MIA vs. GSW W 26 10 4 8 50.0 0 1 0.0 2 4 50.0 0 1 1 5 3 0 2 2 15
+p362
+aVJamal Mashburn MIA 02/09/2000 MIA vs. GSW W 38 26 10 18 55.6 2 5 40.0 4 4 100.0 1 6 7 7 0 0 0 2 17
+p363
+aVOtis Thorpe MIA 02/06/2000 MIA @ NYK L 19 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 0 1 0 1 0 0
+p364
+aVVoshon Lenard MIA 02/06/2000 MIA @ NYK L 38 12 5 14 35.7 2 4 50.0 0 0 - 1 3 4 3 1 0 3 4 -1
+p365
+aVClar. Weatherspoon MIA 02/06/2000 MIA @ NYK L 22 4 1 8 12.5 0 0 - 2 2 100.0 0 6 6 2 1 1 1 1 -11
+p366
+aVAlonzo Mourning MIA 02/06/2000 MIA @ NYK L 29 12 5 13 38.5 0 0 - 2 5 40.0 0 5 5 1 2 0 2 4 -14
+p367
+aVP.J. Brown MIA 02/06/2000 MIA @ NYK L 30 6 2 7 28.6 0 0 - 2 2 100.0 5 4 9 1 2 1 2 5 -8
+p368
+aVMark Strickland MIA 02/06/2000 MIA @ NYK L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -8
+p369
+aVAnthony Carter MIA 02/06/2000 MIA @ NYK L 12 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 1 0 1 1 -21
+p370
+aVJamal Mashburn MIA 02/06/2000 MIA @ NYK L 45 21 8 17 47.1 2 8 25.0 3 4 75.0 1 4 5 5 1 0 1 2 -9
+p371
+aVTim Hardaway MIA 02/06/2000 MIA @ NYK L 39 23 10 16 62.5 3 4 75.0 0 0 - 0 4 4 6 0 0 5 1 2
+p372
+aVOtis Thorpe MIA 02/04/2000 MIA vs. WAS W 6 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -12
+p373
+aVJamal Mashburn MIA 02/04/2000 MIA vs. WAS W 40 24 8 17 47.1 1 2 50.0 7 7 100.0 0 8 8 2 2 0 3 1 3
+p374
+aVMark Strickland MIA 02/04/2000 MIA vs. WAS W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 4
+p375
+aVVoshon Lenard MIA 02/04/2000 MIA vs. WAS W 35 10 3 7 42.9 1 3 33.3 3 4 75.0 1 5 6 2 0 1 3 3 5
+p376
+aVTim Hardaway MIA 02/04/2000 MIA vs. WAS W 36 17 6 18 33.3 3 9 33.3 2 2 100.0 0 3 3 7 2 0 0 3 18
+p377
+aVP.J. Brown MIA 02/04/2000 MIA vs. WAS W 29 2 0 4 0.0 0 0 - 2 4 50.0 2 8 10 1 0 0 0 1 0
+p378
+aVAlonzo Mourning MIA 02/04/2000 MIA vs. WAS W 40 32 9 13 69.2 0 0 - 14 14 100.0 2 5 7 0 0 7 3 3 20
+p379
+aVClar. Weatherspoon MIA 02/04/2000 MIA vs. WAS W 21 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 2 1 2 1 2 6
+p380
+aVAnthony Carter MIA 02/04/2000 MIA vs. WAS W 25 6 3 9 33.3 0 0 - 0 0 - 2 1 3 1 3 0 2 2 -9
+p381
+aVMark Strickland MIA 02/02/2000 MIA @ BOS W 18 8 2 3 66.7 0 0 - 4 4 100.0 0 2 2 2 0 0 1 2 -14
+p382
+aVClar. Weatherspoon MIA 02/02/2000 MIA @ BOS W 22 7 3 4 75.0 0 0 - 1 2 50.0 1 5 6 3 1 2 3 2 2
+p383
+aVRodney Buford MIA 02/02/2000 MIA @ BOS W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p384
+aVAlonzo Mourning MIA 02/02/2000 MIA @ BOS W 40 23 6 15 40.0 0 0 - 11 12 91.7 2 6 8 1 0 1 0 1 3
+p385
+aVVoshon Lenard MIA 02/02/2000 MIA @ BOS W 42 14 5 14 35.7 1 4 25.0 3 3 100.0 3 3 6 5 2 2 2 4 5
+p386
+aVP.J. Brown MIA 02/02/2000 MIA @ BOS W 21 2 1 4 25.0 0 0 - 0 0 - 0 7 7 1 1 2 2 6 4
+p387
+aVOtis Thorpe MIA 02/02/2000 MIA @ BOS W 13 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 2 0 0 5 -5
+p388
+aVTim Hardaway MIA 02/02/2000 MIA @ BOS W 34 17 7 16 43.8 1 3 33.3 2 2 100.0 0 5 5 4 1 0 2 2 9
+p389
+aVAnthony Carter MIA 02/02/2000 MIA @ BOS W 14 7 3 6 50.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 2 3 -7
+p390
+aVJamal Mashburn MIA 02/02/2000 MIA @ BOS W 30 23 7 11 63.6 3 3 100.0 6 7 85.7 0 7 7 3 0 0 4 4 16
+p391
+aVVoshon Lenard MIA 01/31/2000 MIA vs. DET W 33 18 6 16 37.5 2 5 40.0 4 4 100.0 0 4 4 6 3 1 2 3 19
+p392
+aVMark Strickland MIA 01/31/2000 MIA vs. DET W 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 3 8
+p393
+aVTim Hardaway MIA 01/31/2000 MIA vs. DET W 24 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 6 1 0 3 1 12
+p394
+aVAlonzo Mourning MIA 01/31/2000 MIA vs. DET W 28 20 9 13 69.2 0 0 - 2 2 100.0 1 3 4 3 0 2 0 3 15
+p395
+aVP.J. Brown MIA 01/31/2000 MIA vs. DET W 24 2 1 5 20.0 0 0 - 0 0 - 3 2 5 1 0 1 1 2 5
+p396
+aVAnthony Carter MIA 01/31/2000 MIA vs. DET W 20 9 4 6 66.7 0 0 - 1 3 33.3 1 1 2 5 4 0 3 4 16
+p397
+aVOtis Thorpe MIA 01/31/2000 MIA vs. DET W 15 8 4 5 80.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 15
+p398
+aVJamal Mashburn MIA 01/31/2000 MIA vs. DET W 34 23 10 14 71.4 3 3 100.0 0 0 - 1 7 8 6 1 1 2 1 14
+p399
+aVRex Walters MIA 01/31/2000 MIA vs. DET W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -6
+p400
+aVClar. Weatherspoon MIA 01/31/2000 MIA vs. DET W 24 10 5 6 83.3 0 0 - 0 0 - 0 7 7 0 2 1 2 2 15
+p401
+aVDuane Causwell MIA 01/31/2000 MIA vs. DET W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -6
+p402
+aVRodney Buford MIA 01/31/2000 MIA vs. DET W 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 3
+p403
+aVClar. Weatherspoon MIA 01/29/2000 MIA @ IND L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 1 1 0 4
+p404
+aVP.J. Brown MIA 01/29/2000 MIA @ IND L 32 12 6 11 54.5 0 0 - 0 0 - 5 6 11 4 0 0 1 3 -5
+p405
+aVTim Hardaway MIA 01/29/2000 MIA @ IND L 38 14 4 15 26.7 2 8 25.0 4 5 80.0 2 5 7 8 0 0 4 3 -4
+p406
+aVJamal Mashburn MIA 01/29/2000 MIA @ IND L 39 15 6 21 28.6 1 3 33.3 2 2 100.0 2 2 4 2 1 0 4 4 -15
+p407
+aVOtis Thorpe MIA 01/29/2000 MIA @ IND L 10 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -10
+p408
+aVVoshon Lenard MIA 01/29/2000 MIA @ IND L 32 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 3 1 0 0 5 -5
+p409
+aVMark Strickland MIA 01/29/2000 MIA @ IND L 19 5 1 3 33.3 0 0 - 3 4 75.0 0 2 2 2 0 0 0 0 0
+p410
+aVAnthony Carter MIA 01/29/2000 MIA @ IND L 20 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 -2
+p411
+aVAlonzo Mourning MIA 01/29/2000 MIA @ IND L 44 24 9 18 50.0 0 0 - 6 8 75.0 6 12 18 1 0 2 1 2 -13
+p412
+aVRex Walters MIA 01/28/2000 MIA @ TOR L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 6
+p413
+aVDuane Causwell MIA 01/28/2000 MIA @ TOR L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 6
+p414
+aVAnthony Carter MIA 01/28/2000 MIA @ TOR L 27 9 4 7 57.1 1 1 100.0 0 0 - 3 2 5 4 0 0 2 1 -5
+p415
+aVAlonzo Mourning MIA 01/28/2000 MIA @ TOR L 32 26 10 15 66.7 0 0 - 6 8 75.0 5 3 8 2 0 3 0 4 -15
+p416
+aVJamal Mashburn MIA 01/28/2000 MIA @ TOR L 32 6 2 9 22.2 0 0 - 2 2 100.0 1 4 5 6 1 0 2 3 -6
+p417
+aVClar. Weatherspoon MIA 01/28/2000 MIA @ TOR L 13 6 3 4 75.0 0 0 - 0 0 - 0 4 4 1 0 0 3 0 -9
+p418
+aVMark Strickland MIA 01/28/2000 MIA @ TOR L 19 10 4 6 66.7 0 0 - 2 4 50.0 2 3 5 1 1 2 0 2 -9
+p419
+aVVoshon Lenard MIA 01/28/2000 MIA @ TOR L 33 8 4 13 30.8 0 4 0.0 0 0 - 0 3 3 1 1 0 2 3 -22
+p420
+aVTim Hardaway MIA 01/28/2000 MIA @ TOR L 26 9 4 8 50.0 1 2 50.0 0 0 - 0 0 0 2 0 1 3 2 -5
+p421
+aVTim James MIA 01/28/2000 MIA @ TOR L 6 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 6
+p422
+aVOtis Thorpe MIA 01/28/2000 MIA @ TOR L 16 10 5 8 62.5 0 1 0.0 0 0 - 0 1 1 1 0 0 3 3 -12
+p423
+aVP.J. Brown MIA 01/28/2000 MIA @ TOR L 23 4 2 8 25.0 0 0 - 0 0 - 1 1 2 1 3 0 2 5 -10
+p424
+aVOtis Thorpe MIA 01/25/2000 MIA vs. BOS W 18 17 6 8 75.0 0 0 - 5 6 83.3 2 4 6 0 0 0 2 2 9
+p425
+aVVoshon Lenard MIA 01/25/2000 MIA vs. BOS W 30 21 7 11 63.6 5 7 71.4 2 3 66.7 0 3 3 2 1 0 1 1 17
+p426
+aVDuane Causwell MIA 01/25/2000 MIA vs. BOS W 7 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 1 0 0 3 3
+p427
+aVAnthony Carter MIA 01/25/2000 MIA vs. BOS W 32 4 2 10 20.0 0 1 0.0 0 0 - 1 4 5 8 2 0 4 4 9
+p428
+aVRex Walters MIA 01/25/2000 MIA vs. BOS W 13 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 2
+p429
+aVTim Hardaway MIA 01/25/2000 MIA vs. BOS W 22 8 2 5 40.0 1 2 50.0 3 3 100.0 1 1 2 8 0 0 1 0 24
+p430
+aVJamal Mashburn MIA 01/25/2000 MIA vs. BOS W 27 11 4 7 57.1 3 3 100.0 0 0 - 1 0 1 3 1 0 1 2 19
+p431
+aVTim James MIA 01/25/2000 MIA vs. BOS W 7 4 2 4 50.0 0 0 - 0 1 0.0 1 0 1 1 0 0 1 0 3
+p432
+aVP.J. Brown MIA 01/25/2000 MIA vs. BOS W 24 4 2 6 33.3 0 0 - 0 0 - 2 6 8 2 2 1 0 0 14
+p433
+aVMark Strickland MIA 01/25/2000 MIA vs. BOS W 21 12 6 9 66.7 0 0 - 0 2 0.0 0 3 3 0 0 0 0 1 7
+p434
+aVAlonzo Mourning MIA 01/25/2000 MIA vs. BOS W 23 20 7 8 87.5 0 0 - 6 8 75.0 3 0 3 1 1 3 2 3 14
+p435
+aVClar. Weatherspoon MIA 01/25/2000 MIA vs. BOS W 17 8 3 6 50.0 0 0 - 2 4 50.0 2 7 9 1 1 3 1 4 9
+p436
+aVAlonzo Mourning MIA 01/23/2000 MIA @ HOU L 31 23 9 17 52.9 0 0 - 5 6 83.3 5 6 11 1 0 2 1 3 -11
+p437
+aVOtis Thorpe MIA 01/23/2000 MIA @ HOU L 14 2 1 3 33.3 0 0 - 0 0 - 3 3 6 1 0 0 1 2 -7
+p438
+aVP.J. Brown MIA 01/23/2000 MIA @ HOU L 17 2 1 4 25.0 0 0 - 0 0 - 1 5 6 3 1 0 1 1 -13
+p439
+aVTim Hardaway MIA 01/23/2000 MIA @ HOU L 23 5 2 9 22.2 1 3 33.3 0 0 - 1 2 3 5 0 0 1 1 -16
+p440
+aVDan Majerle MIA 01/23/2000 MIA @ HOU L 24 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 1 -13
+p441
+aVAnthony Carter MIA 01/23/2000 MIA @ HOU L 30 6 3 9 33.3 0 0 - 0 0 - 2 1 3 6 3 1 1 3 -1
+p442
+aVDuane Causwell MIA 01/23/2000 MIA @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p443
+aVVoshon Lenard MIA 01/23/2000 MIA @ HOU L 29 20 7 17 41.2 6 10 60.0 0 0 - 0 3 3 6 1 0 1 3 -4
+p444
+aVRex Walters MIA 01/23/2000 MIA @ HOU L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 6
+p445
+aVMark Strickland MIA 01/23/2000 MIA @ HOU L 7 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 2 0 7
+p446
+aVJamal Mashburn MIA 01/23/2000 MIA @ HOU L 33 17 8 18 44.4 1 2 50.0 0 2 0.0 1 1 2 1 1 0 0 0 -11
+p447
+aVClar. Weatherspoon MIA 01/23/2000 MIA @ HOU L 26 6 3 9 33.3 0 0 - 0 0 - 1 6 7 3 0 0 1 0 -7
+p448
+aVDuane Causwell MIA 01/21/2000 MIA vs. ATL W 8 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 1 1
+p449
+aVClar. Weatherspoon MIA 01/21/2000 MIA vs. ATL W 26 13 4 7 57.1 0 0 - 5 7 71.4 1 7 8 2 1 3 0 3 7
+p450
+aVP.J. Brown MIA 01/21/2000 MIA vs. ATL W 12 6 3 3 100.0 0 0 - 0 0 - 2 0 2 1 0 1 0 4 5
+p451
+aVRex Walters MIA 01/21/2000 MIA vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p452
+aVVoshon Lenard MIA 01/21/2000 MIA vs. ATL W 25 8 4 11 36.4 0 3 0.0 0 0 - 0 0 0 5 0 0 0 2 14
+p453
+aVAlonzo Mourning MIA 01/21/2000 MIA vs. ATL W 26 20 9 18 50.0 0 0 - 2 6 33.3 0 8 8 0 0 4 3 4 8
+p454
+aVAnthony Carter MIA 01/21/2000 MIA vs. ATL W 25 10 4 6 66.7 0 0 - 2 3 66.7 0 2 2 6 1 0 2 1 18
+p455
+aVDan Majerle MIA 01/21/2000 MIA vs. ATL W 27 0 0 4 0.0 0 3 0.0 0 0 - 0 10 10 1 0 0 0 0 7
+p456
+aVTim Hardaway MIA 01/21/2000 MIA vs. ATL W 27 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 11 0 0 0 2 7
+p457
+aVJamal Mashburn MIA 01/21/2000 MIA vs. ATL W 38 28 10 19 52.6 2 3 66.7 6 7 85.7 1 5 6 3 0 1 2 1 18
+p458
+aVOtis Thorpe MIA 01/21/2000 MIA vs. ATL W 23 14 7 9 77.8 0 0 - 0 3 0.0 5 5 10 1 1 0 0 2 23
+p459
+aVAlonzo Mourning MIA 01/18/2000 MIA vs. CHI L 37 20 4 10 40.0 0 0 - 12 14 85.7 4 4 8 2 0 1 1 5 -5
+p460
+aVAnthony Carter MIA 01/18/2000 MIA vs. CHI L 45 20 8 13 61.5 0 1 0.0 4 6 66.7 0 4 4 4 3 0 4 3 -3
+p461
+aVVoshon Lenard MIA 01/18/2000 MIA vs. CHI L 29 11 4 8 50.0 3 6 50.0 0 0 - 0 2 2 1 1 1 5 0 -13
+p462
+aVDan Majerle MIA 01/18/2000 MIA vs. CHI L 44 5 2 15 13.3 1 11 9.1 0 0 - 1 4 5 4 1 0 0 5 -7
+p463
+aVJamal Mashburn MIA 01/18/2000 MIA vs. CHI L 41 10 4 12 33.3 1 4 25.0 1 2 50.0 2 7 9 8 5 1 3 2 8
+p464
+aVClar. Weatherspoon MIA 01/18/2000 MIA vs. CHI L 20 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 1 2 3 0 2 -3
+p465
+aVOtis Thorpe MIA 01/18/2000 MIA vs. CHI L 16 2 1 2 50.0 0 0 - 0 2 0.0 0 3 3 1 0 0 2 4 -4
+p466
+aVP.J. Brown MIA 01/18/2000 MIA vs. CHI L 33 12 6 9 66.7 0 0 - 0 0 - 3 3 6 0 2 2 6 5 2
+p467
+aVVoshon Lenard MIA 01/16/2000 MIA @ VAN W 31 14 4 17 23.5 2 7 28.6 4 4 100.0 3 2 5 4 0 0 4 1 14
+p468
+aVOtis Thorpe MIA 01/16/2000 MIA @ VAN W 10 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 1 4
+p469
+aVP.J. Brown MIA 01/16/2000 MIA @ VAN W 35 19 9 13 69.2 0 0 - 1 3 33.3 6 4 10 4 1 0 1 0 14
+p470
+aVJamal Mashburn MIA 01/16/2000 MIA @ VAN W 39 17 8 18 44.4 1 4 25.0 0 0 - 1 4 5 5 0 0 2 2 8
+p471
+aVClar. Weatherspoon MIA 01/16/2000 MIA @ VAN W 15 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 1 1 1 2 -4
+p472
+aVDan Majerle MIA 01/16/2000 MIA @ VAN W 36 5 2 5 40.0 1 3 33.3 0 0 - 1 5 6 2 0 0 0 3 4
+p473
+aVAnthony Carter MIA 01/16/2000 MIA @ VAN W 38 6 3 7 42.9 0 0 - 0 0 - 0 5 5 8 1 0 3 4 5
+p474
+aVAlonzo Mourning MIA 01/16/2000 MIA @ VAN W 36 27 10 12 83.3 0 0 - 7 13 53.8 2 8 10 2 0 6 4 5 10
+p475
+aVRex Walters MIA 01/14/2000 MIA @ DEN W 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 1 0 0 1 3
+p476
+aVJamal Mashburn MIA 01/14/2000 MIA @ DEN W 32 10 3 11 27.3 0 2 0.0 4 6 66.7 0 3 3 6 1 0 1 2 2
+p477
+aVAlonzo Mourning MIA 01/14/2000 MIA @ DEN W 35 28 12 25 48.0 0 0 - 4 5 80.0 4 9 13 2 1 6 3 5 13
+p478
+aVVoshon Lenard MIA 01/14/2000 MIA @ DEN W 34 24 8 11 72.7 5 7 71.4 3 6 50.0 0 4 4 4 0 0 2 3 9
+p479
+aVP.J. Brown MIA 01/14/2000 MIA @ DEN W 25 6 3 8 37.5 0 0 - 0 0 - 3 6 9 1 2 0 1 6 -10
+p480
+aVDan Majerle MIA 01/14/2000 MIA @ DEN W 38 3 1 4 25.0 1 3 33.3 0 0 - 1 6 7 5 1 2 3 1 13
+p481
+aVAnthony Carter MIA 01/14/2000 MIA @ DEN W 26 2 1 7 14.3 0 0 - 0 0 - 0 1 1 4 0 0 3 2 -12
+p482
+aVClar. Weatherspoon MIA 01/14/2000 MIA @ DEN W 21 15 7 9 77.8 0 0 - 1 3 33.3 1 4 5 1 1 0 1 3 12
+p483
+aVOtis Thorpe MIA 01/14/2000 MIA @ DEN W 14 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -5
+p484
+aVDan Majerle MIA 01/13/2000 MIA @ UTA L 35 6 2 6 33.3 2 5 40.0 0 0 - 1 5 6 3 2 1 1 3 -18
+p485
+aVP.J. Brown MIA 01/13/2000 MIA @ UTA L 30 6 3 6 50.0 0 0 - 0 0 - 1 7 8 1 1 2 1 5 3
+p486
+aVJamal Mashburn MIA 01/13/2000 MIA @ UTA L 32 11 3 8 37.5 1 2 50.0 4 6 66.7 1 4 5 3 1 0 5 6 5
+p487
+aVOtis Thorpe MIA 01/13/2000 MIA @ UTA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 4 -8
+p488
+aVClar. Weatherspoon MIA 01/13/2000 MIA @ UTA L 19 6 2 3 66.7 0 0 - 2 4 50.0 2 5 7 0 0 0 1 2 7
+p489
+aVAnthony Carter MIA 01/13/2000 MIA @ UTA L 31 0 0 7 0.0 0 0 - 0 0 - 0 0 0 7 2 0 2 2 -14
+p490
+aVAlonzo Mourning MIA 01/13/2000 MIA @ UTA L 40 27 9 19 47.4 0 0 - 9 12 75.0 2 7 9 1 0 4 3 4 -22
+p491
+aVVoshon Lenard MIA 01/13/2000 MIA @ UTA L 35 25 8 17 47.1 3 6 50.0 6 6 100.0 1 4 5 0 1 1 3 5 -1
+p492
+aVRex Walters MIA 01/13/2000 MIA @ UTA L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 1 -2
+p493
+aVP.J. Brown MIA 01/11/2000 MIA @ MIN W 28 14 5 9 55.6 0 0 - 4 4 100.0 3 4 7 5 1 1 3 3 1
+p494
+aVAnthony Carter MIA 01/11/2000 MIA @ MIN W 35 6 2 9 22.2 0 0 - 2 2 100.0 0 6 6 13 0 0 1 1 -3
+p495
+aVAlonzo Mourning MIA 01/11/2000 MIA @ MIN W 30 11 4 11 36.4 0 0 - 3 4 75.0 2 5 7 0 0 0 5 5 5
+p496
+aVOtis Thorpe MIA 01/11/2000 MIA @ MIN W 21 15 7 8 87.5 0 0 - 1 1 100.0 1 1 2 1 1 0 1 2 5
+p497
+aVVoshon Lenard MIA 01/11/2000 MIA @ MIN W 20 18 8 11 72.7 1 2 50.0 1 1 100.0 0 1 1 4 1 0 0 1 15
+p498
+aVJamal Mashburn MIA 01/11/2000 MIA @ MIN W 43 13 6 15 40.0 1 3 33.3 0 0 - 1 4 5 9 0 0 1 3 11
+p499
+aVClar. Weatherspoon MIA 01/11/2000 MIA @ MIN W 18 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 1 1 1 3 2
+p500
+aVDan Majerle MIA 01/11/2000 MIA @ MIN W 44 33 11 13 84.6 9 10 90.0 2 2 100.0 0 5 5 5 2 1 0 0 14
+p501
+aVDan Majerle MIA 01/08/2000 MIA vs. NJN L 42 20 7 11 63.6 6 10 60.0 0 0 - 0 6 6 2 1 0 0 1 2
+p502
+aVRex Walters MIA 01/08/2000 MIA vs. NJN L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -2
+p503
+aVMark Strickland MIA 01/08/2000 MIA vs. NJN L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -11
+p504
+aVP.J. Brown MIA 01/08/2000 MIA vs. NJN L 40 8 4 8 50.0 0 0 - 0 3 0.0 4 5 9 1 0 0 3 2 13
+p505
+aVClar. Weatherspoon MIA 01/08/2000 MIA vs. NJN L 6 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 3
+p506
+aVAnthony Carter MIA 01/08/2000 MIA vs. NJN L 34 18 8 15 53.3 0 0 - 2 3 66.7 0 2 2 5 0 0 4 4 1
+p507
+aVOtis Thorpe MIA 01/08/2000 MIA vs. NJN L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 1
+p508
+aVRodney Buford MIA 01/08/2000 MIA vs. NJN L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p509
+aVAlonzo Mourning MIA 01/08/2000 MIA vs. NJN L 40 23 9 17 52.9 0 0 - 5 8 62.5 2 16 18 4 0 6 5 4 -7
+p510
+aVJamal Mashburn MIA 01/08/2000 MIA vs. NJN L 43 16 8 19 42.1 0 4 0.0 0 0 - 0 4 4 8 1 0 1 1 -2
+p511
+aVDan Majerle MIA 01/06/2000 MIA vs. HOU W 35 15 5 8 62.5 2 5 40.0 3 3 100.0 0 4 4 2 0 0 0 3 23
+p512
+aVAnthony Carter MIA 01/06/2000 MIA vs. HOU W 24 6 3 8 37.5 0 0 - 0 0 - 1 5 6 6 1 0 1 3 22
+p513
+aVAlonzo Mourning MIA 01/06/2000 MIA vs. HOU W 36 28 12 15 80.0 0 0 - 4 6 66.7 2 2 4 1 0 9 1 2 19
+p514
+aVRodney Buford MIA 01/06/2000 MIA vs. HOU W 16 6 3 8 37.5 0 0 - 0 0 - 1 1 2 0 0 0 0 5 -14
+p515
+aVDuane Causwell MIA 01/06/2000 MIA vs. HOU W 6 3 0 1 0.0 0 0 - 3 4 75.0 2 0 2 0 0 0 0 0 -10
+p516
+aVJamal Mashburn MIA 01/06/2000 MIA vs. HOU W 31 19 7 14 50.0 2 3 66.7 3 4 75.0 0 4 4 3 4 0 0 2 28
+p517
+aVClar. Weatherspoon MIA 01/06/2000 MIA vs. HOU W 19 8 4 5 80.0 0 0 - 0 0 - 3 1 4 1 0 0 2 1 -8
+p518
+aVRex Walters MIA 01/06/2000 MIA vs. HOU W 24 10 5 10 50.0 0 0 - 0 0 - 1 0 1 4 0 0 3 5 -10
+p519
+aVMark Strickland MIA 01/06/2000 MIA vs. HOU W 14 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 2 0 0 0 1 -13
+p520
+aVP.J. Brown MIA 01/06/2000 MIA vs. HOU W 34 11 5 12 41.7 0 0 - 1 1 100.0 5 4 9 3 0 3 1 3 23
+p521
+aVOtis Thorpe MIA 01/04/2000 MIA vs. VAN L 25 10 5 9 55.6 0 0 - 0 1 0.0 1 3 4 1 0 0 2 6 -5
+p522
+aVAlonzo Mourning MIA 01/04/2000 MIA vs. VAN L 26 12 5 13 38.5 0 0 - 2 4 50.0 1 7 8 1 1 5 3 6 -6
+p523
+aVP.J. Brown MIA 01/04/2000 MIA vs. VAN L 34 14 7 14 50.0 0 0 - 0 0 - 5 5 10 4 3 1 1 4 13
+p524
+aVRex Walters MIA 01/04/2000 MIA vs. VAN L 13 2 0 4 0.0 0 2 0.0 2 2 100.0 1 0 1 2 0 0 2 1 -14
+p525
+aVAnthony Carter MIA 01/04/2000 MIA vs. VAN L 31 7 3 3 100.0 0 0 - 1 2 50.0 0 2 2 10 1 0 1 4 11
+p526
+aVMark Strickland MIA 01/04/2000 MIA vs. VAN L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -10
+p527
+aVClar. Weatherspoon MIA 01/04/2000 MIA vs. VAN L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -10
+p528
+aVVoshon Lenard MIA 01/04/2000 MIA vs. VAN L 17 5 2 6 33.3 0 2 0.0 1 2 50.0 1 0 1 0 0 0 2 2 -13
+p529
+aVDan Majerle MIA 01/04/2000 MIA vs. VAN L 37 12 4 8 50.0 2 5 40.0 2 2 100.0 1 5 6 4 1 0 1 5 7
+p530
+aVJamal Mashburn MIA 01/04/2000 MIA vs. VAN L 41 21 9 18 50.0 2 4 50.0 1 2 50.0 0 4 4 2 2 0 0 2 7
+p531
+aVP.J. Brown MIA 01/02/2000 MIA vs. ORL W 41 12 5 15 33.3 0 0 - 2 2 100.0 6 9 15 1 0 1 1 4 14
+p532
+aVRex Walters MIA 01/02/2000 MIA vs. ORL W 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p533
+aVJamal Mashburn MIA 01/02/2000 MIA vs. ORL W 39 22 9 22 40.9 1 6 16.7 3 4 75.0 2 8 10 4 2 0 4 2 4
+p534
+aVClar. Weatherspoon MIA 01/02/2000 MIA vs. ORL W 7 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 1 1 -5
+p535
+aVAlonzo Mourning MIA 01/02/2000 MIA vs. ORL W 43 21 4 18 22.2 0 0 - 13 17 76.5 2 2 4 3 0 7 2 5 3
+p536
+aVAnthony Carter MIA 01/02/2000 MIA vs. ORL W 40 13 4 9 44.4 1 1 100.0 4 4 100.0 1 2 3 10 3 0 3 3 13
+p537
+aVVoshon Lenard MIA 01/02/2000 MIA vs. ORL W 31 24 9 12 75.0 3 6 50.0 3 3 100.0 1 0 1 3 0 0 1 6 3
+p538
+aVOtis Thorpe MIA 01/02/2000 MIA vs. ORL W 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 2 0 0 3 -4
+p539
+aVDuane Causwell MIA 01/02/2000 MIA vs. ORL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p540
+aVDan Majerle MIA 01/02/2000 MIA vs. ORL W 38 13 4 7 57.1 3 6 50.0 2 2 100.0 0 6 6 0 4 0 1 2 15
+p541
+aVDuane Causwell MIA 12/29/1999 MIA @ ORL W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 2 0 2 4
+p542
+aVP.J. Brown MIA 12/29/1999 MIA @ ORL W 24 12 6 10 60.0 0 0 - 0 0 - 2 5 7 1 0 0 2 5 0
+p543
+aVRex Walters MIA 12/29/1999 MIA @ ORL W 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 1 2 -13
+p544
+aVDan Majerle MIA 12/29/1999 MIA @ ORL W 37 7 3 6 50.0 1 3 33.3 0 0 - 1 4 5 4 3 0 0 3 7
+p545
+aVOtis Thorpe MIA 12/29/1999 MIA @ ORL W 13 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 1 0 0 3 4 0
+p546
+aVAlonzo Mourning MIA 12/29/1999 MIA @ ORL W 36 28 13 24 54.2 0 1 0.0 2 3 66.7 1 10 11 4 0 4 6 6 -1
+p547
+aVClar. Weatherspoon MIA 12/29/1999 MIA @ ORL W 25 8 3 7 42.9 0 0 - 2 2 100.0 1 3 4 2 0 1 0 3 0
+p548
+aVAnthony Carter MIA 12/29/1999 MIA @ ORL W 33 21 7 9 77.8 0 1 0.0 7 8 87.5 0 3 3 9 0 0 3 2 16
+p549
+aVMark Strickland MIA 12/29/1999 MIA @ ORL W 23 11 5 6 83.3 0 0 - 1 2 50.0 0 3 3 1 1 1 0 2 1
+p550
+aVVoshon Lenard MIA 12/29/1999 MIA @ ORL W 28 10 3 9 33.3 0 2 0.0 4 5 80.0 0 2 2 5 2 0 4 1 1
+p551
+aVAlonzo Mourning MIA 12/28/1999 MIA vs. MIN W 40 30 10 21 47.6 0 0 - 10 12 83.3 2 11 13 2 2 5 5 2 7
+p552
+aVOtis Thorpe MIA 12/28/1999 MIA vs. MIN W 24 12 6 7 85.7 0 0 - 0 0 - 4 6 10 1 0 0 2 3 5
+p553
+aVDan Majerle MIA 12/28/1999 MIA vs. MIN W 34 5 2 7 28.6 1 4 25.0 0 0 - 0 6 6 4 0 0 2 3 11
+p554
+aVP.J. Brown MIA 12/28/1999 MIA vs. MIN W 33 10 5 7 71.4 0 0 - 0 0 - 2 8 10 4 0 0 2 1 10
+p555
+aVVoshon Lenard MIA 12/28/1999 MIA vs. MIN W 32 10 3 15 20.0 2 6 33.3 2 2 100.0 1 3 4 4 1 0 2 2 3
+p556
+aVClar. Weatherspoon MIA 12/28/1999 MIA vs. MIN W 14 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 0 0 1 1 0
+p557
+aVRex Walters MIA 12/28/1999 MIA vs. MIN W 15 6 2 4 50.0 1 1 100.0 1 2 50.0 1 1 2 1 0 0 0 2 8
+p558
+aVAnthony Carter MIA 12/28/1999 MIA vs. MIN W 33 8 4 13 30.8 0 0 - 0 0 - 1 2 3 8 0 0 3 1 3
+p559
+aVMark Strickland MIA 12/28/1999 MIA vs. MIN W 16 8 4 6 66.7 0 0 - 0 0 - 1 6 7 0 0 0 0 2 8
+p560
+aVAnthony Carter MIA 12/26/1999 MIA @ MIL L 43 15 5 9 55.6 0 2 0.0 5 7 71.4 1 2 3 9 3 1 5 5 -7
+p561
+aVAlonzo Mourning MIA 12/26/1999 MIA @ MIL L 37 25 10 17 58.8 0 1 0.0 5 7 71.4 0 7 7 1 0 4 5 3 -6
+p562
+aVDan Majerle MIA 12/26/1999 MIA @ MIL L 26 3 1 4 25.0 1 4 25.0 0 0 - 0 6 6 0 1 0 2 5 -7
+p563
+aVP.J. Brown MIA 12/26/1999 MIA @ MIL L 31 10 4 9 44.4 0 0 - 2 4 50.0 2 0 2 3 3 0 2 3 -5
+p564
+aVOtis Thorpe MIA 12/26/1999 MIA @ MIL L 22 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 3 0
+p565
+aVVoshon Lenard MIA 12/26/1999 MIA @ MIL L 35 10 4 10 40.0 1 4 25.0 1 2 50.0 1 4 5 4 0 0 2 3 -9
+p566
+aVRex Walters MIA 12/26/1999 MIA @ MIL L 13 5 2 3 66.7 0 1 0.0 1 2 50.0 0 0 0 3 0 0 2 0 5
+p567
+aVClar. Weatherspoon MIA 12/26/1999 MIA @ MIL L 17 5 0 6 0.0 0 0 - 5 6 83.3 2 6 8 0 0 1 0 0 0
+p568
+aVMark Strickland MIA 12/26/1999 MIA @ MIL L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p569
+aVRodney Buford MIA 12/26/1999 MIA @ MIL L 8 5 1 3 33.3 0 1 0.0 3 4 75.0 0 0 0 0 0 0 0 1 -7
+p570
+aVMark Strickland MIA 12/22/1999 MIA vs. UTA W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -1
+p571
+aVRex Walters MIA 12/22/1999 MIA vs. UTA W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 1 3 2
+p572
+aVDan Majerle MIA 12/22/1999 MIA vs. UTA W 43 6 2 8 25.0 2 8 25.0 0 0 - 0 4 4 2 2 2 0 3 3
+p573
+aVAnthony Carter MIA 12/22/1999 MIA vs. UTA W 39 16 7 13 53.8 0 0 - 2 2 100.0 2 1 3 5 0 0 2 2 6
+p574
+aVClar. Weatherspoon MIA 12/22/1999 MIA vs. UTA W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 0
+p575
+aVOtis Thorpe MIA 12/22/1999 MIA vs. UTA W 19 6 3 7 42.9 0 0 - 0 0 - 2 4 6 2 0 1 2 1 7
+p576
+aVVoshon Lenard MIA 12/22/1999 MIA vs. UTA W 40 11 5 14 35.7 1 6 16.7 0 0 - 0 4 4 3 1 0 0 2 0
+p577
+aVAlonzo Mourning MIA 12/22/1999 MIA vs. UTA W 32 17 7 15 46.7 0 0 - 3 4 75.0 3 7 10 1 0 5 7 5 -2
+p578
+aVP.J. Brown MIA 12/22/1999 MIA vs. UTA W 37 14 7 13 53.8 0 0 - 0 0 - 3 6 9 3 0 1 1 2 -1
+p579
+aVRodney Buford MIA 12/22/1999 MIA vs. UTA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -4
+p580
+aVOtis Thorpe MIA 12/20/1999 MIA @ DAL W 22 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 1 0 2 3 10
+p581
+aVClar. Weatherspoon MIA 12/20/1999 MIA @ DAL W 20 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 3 2 0 3 1 10
+p582
+aVAlonzo Mourning MIA 12/20/1999 MIA @ DAL W 36 18 8 17 47.1 0 0 - 2 2 100.0 4 7 11 2 0 3 4 5 -2
+p583
+aVMark Strickland MIA 12/20/1999 MIA @ DAL W 14 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 2 0 0 0 2 1
+p584
+aVVoshon Lenard MIA 12/20/1999 MIA @ DAL W 33 17 6 13 46.2 4 6 66.7 1 1 100.0 1 1 2 1 0 0 1 2 4
+p585
+aVRex Walters MIA 12/20/1999 MIA @ DAL W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 7
+p586
+aVDan Majerle MIA 12/20/1999 MIA @ DAL W 41 14 4 7 57.1 4 5 80.0 2 4 50.0 0 7 7 3 3 0 1 1 -10
+p587
+aVRodney Buford MIA 12/20/1999 MIA @ DAL W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p588
+aVP.J. Brown MIA 12/20/1999 MIA @ DAL W 33 25 10 17 58.8 0 0 - 5 8 62.5 5 8 13 3 0 0 2 4 0
+p589
+aVAnthony Carter MIA 12/20/1999 MIA @ DAL W 27 0 0 4 0.0 0 0 - 0 0 - 1 2 3 7 0 0 2 3 -7
+p590
+aVJamal Mashburn MIA 12/18/1999 MIA vs. CHH L 27 12 5 12 41.7 1 4 25.0 1 1 100.0 1 2 3 3 1 0 0 2 3
+p591
+aVAnthony Carter MIA 12/18/1999 MIA vs. CHH L 37 10 5 12 41.7 0 0 - 0 0 - 0 2 2 10 0 0 4 4 -11
+p592
+aVP.J. Brown MIA 12/18/1999 MIA vs. CHH L 21 8 4 4 100.0 0 0 - 0 0 - 1 2 3 2 0 1 1 6 3
+p593
+aVClar. Weatherspoon MIA 12/18/1999 MIA vs. CHH L 14 9 4 5 80.0 0 0 - 1 2 50.0 2 2 4 0 2 1 0 2 3
+p594
+aVDan Majerle MIA 12/18/1999 MIA vs. CHH L 28 5 1 2 50.0 1 2 50.0 2 2 100.0 0 5 5 2 0 0 1 3 -29
+p595
+aVRodney Buford MIA 12/18/1999 MIA vs. CHH L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 1 7
+p596
+aVRex Walters MIA 12/18/1999 MIA vs. CHH L 16 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 3 -11
+p597
+aVMark Strickland MIA 12/18/1999 MIA vs. CHH L 6 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 0
+p598
+aVOtis Thorpe MIA 12/18/1999 MIA vs. CHH L 17 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 1 2 2 1 -9
+p599
+aVAlonzo Mourning MIA 12/18/1999 MIA vs. CHH L 41 18 7 20 35.0 0 1 0.0 4 8 50.0 4 7 11 2 1 9 3 2 -22
+p600
+aVVoshon Lenard MIA 12/18/1999 MIA vs. CHH L 32 9 4 13 30.8 1 6 16.7 0 0 - 0 2 2 5 0 0 3 1 -9
+p601
+aVDan Majerle MIA 12/16/1999 MIA vs. MIL L 34 9 4 10 40.0 1 6 16.7 0 0 - 0 7 7 3 1 1 1 2 6
+p602
+aVClar. Weatherspoon MIA 12/16/1999 MIA vs. MIL L 13 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 2 1 1 1 1 -6
+p603
+aVRex Walters MIA 12/16/1999 MIA vs. MIL L 28 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 8 0 0 2 1 0
+p604
+aVAnthony Carter MIA 12/16/1999 MIA vs. MIL L 17 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 3 1 0 2 4 -6
+p605
+aVJamal Mashburn MIA 12/16/1999 MIA vs. MIL L 38 12 5 16 31.3 1 6 16.7 1 2 50.0 0 1 1 3 0 0 2 3 2
+p606
+aVP.J. Brown MIA 12/16/1999 MIA vs. MIL L 40 12 4 17 23.5 0 0 - 4 4 100.0 3 8 11 0 0 0 2 3 -1
+p607
+aVAlonzo Mourning MIA 12/16/1999 MIA vs. MIL L 42 21 7 14 50.0 0 0 - 7 8 87.5 8 10 18 1 0 4 2 2 4
+p608
+aVVoshon Lenard MIA 12/16/1999 MIA vs. MIL L 27 29 11 17 64.7 7 10 70.0 0 0 - 1 1 2 0 1 0 0 6 -4
+p609
+aVOtis Thorpe MIA 12/14/1999 MIA @ GSW L 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 1 0 2 3 -6
+p610
+aVVoshon Lenard MIA 12/14/1999 MIA @ GSW L 27 18 8 13 61.5 1 3 33.3 1 2 50.0 2 0 2 2 0 0 2 3 2
+p611
+aVDan Majerle MIA 12/14/1999 MIA @ GSW L 36 6 2 7 28.6 2 6 33.3 0 0 - 0 5 5 5 0 2 1 2 -7
+p612
+aVClar. Weatherspoon MIA 12/14/1999 MIA @ GSW L 16 7 3 6 50.0 0 0 - 1 1 100.0 1 3 4 2 0 1 0 2 5
+p613
+aVJamal Mashburn MIA 12/14/1999 MIA @ GSW L 35 15 7 14 50.0 1 3 33.3 0 0 - 1 2 3 3 1 0 3 5 -3
+p614
+aVAnthony Carter MIA 12/14/1999 MIA @ GSW L 38 5 0 4 0.0 0 0 - 5 6 83.3 1 2 3 9 1 0 5 0 -7
+p615
+aVP.J. Brown MIA 12/14/1999 MIA @ GSW L 33 16 7 11 63.6 0 0 - 2 2 100.0 4 7 11 4 0 1 1 0 -1
+p616
+aVAlonzo Mourning MIA 12/14/1999 MIA @ GSW L 33 26 11 20 55.0 0 0 - 4 10 40.0 0 7 7 0 0 5 1 5 -8
+p617
+aVRex Walters MIA 12/14/1999 MIA @ GSW L 9 2 0 0 - 0 0 - 2 2 100.0 0 2 2 2 0 0 1 0 0
+p618
+aVRex Walters MIA 12/11/1999 MIA @ SEA L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 -1
+p619
+aVJamal Mashburn MIA 12/11/1999 MIA @ SEA L 40 21 9 19 47.4 1 4 25.0 2 2 100.0 2 4 6 4 3 0 7 4 -5
+p620
+aVAnthony Carter MIA 12/11/1999 MIA @ SEA L 36 19 7 13 53.8 0 1 0.0 5 5 100.0 1 3 4 5 0 0 4 4 6
+p621
+aVOtis Thorpe MIA 12/11/1999 MIA @ SEA L 22 6 2 5 40.0 0 0 - 2 3 66.7 1 4 5 0 1 0 3 2 -3
+p622
+aVP.J. Brown MIA 12/11/1999 MIA @ SEA L 15 2 0 4 0.0 0 0 - 2 2 100.0 2 5 7 1 0 0 3 5 -5
+p623
+aVVoshon Lenard MIA 12/11/1999 MIA @ SEA L 23 3 1 7 14.3 1 3 33.3 0 0 - 1 2 3 1 2 1 2 5 -7
+p624
+aVDan Majerle MIA 12/11/1999 MIA @ SEA L 44 11 4 6 66.7 3 5 60.0 0 2 0.0 0 8 8 3 2 0 0 5 -1
+p625
+aVAlonzo Mourning MIA 12/11/1999 MIA @ SEA L 41 23 6 13 46.2 0 0 - 11 12 91.7 1 9 10 2 1 2 6 6 -1
+p626
+aVClar. Weatherspoon MIA 12/11/1999 MIA @ SEA L 15 0 0 0 - 0 0 - 0 0 - 0 4 4 2 0 1 0 0 -3
+p627
+aVMark Strickland MIA 12/10/1999 MIA @ SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p628
+aVAnthony Carter MIA 12/10/1999 MIA @ SAC W 36 7 3 6 50.0 0 0 - 1 2 50.0 2 6 8 9 1 0 4 3 12
+p629
+aVAlonzo Mourning MIA 12/10/1999 MIA @ SAC W 39 37 15 23 65.2 0 0 - 7 10 70.0 1 10 11 2 2 8 2 3 13
+p630
+aVP.J. Brown MIA 12/10/1999 MIA @ SAC W 31 16 5 11 45.5 0 0 - 6 7 85.7 4 7 11 5 0 3 1 5 21
+p631
+aVRex Walters MIA 12/10/1999 MIA @ SAC W 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 -2
+p632
+aVJamal Mashburn MIA 12/10/1999 MIA @ SAC W 31 18 7 11 63.6 1 2 50.0 3 4 75.0 0 3 3 9 0 0 3 4 19
+p633
+aVDan Majerle MIA 12/10/1999 MIA @ SAC W 33 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 3 1 0 1 0 0
+p634
+aVOtis Thorpe MIA 12/10/1999 MIA @ SAC W 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 4 -7
+p635
+aVVoshon Lenard MIA 12/10/1999 MIA @ SAC W 26 14 5 11 45.5 1 2 50.0 3 4 75.0 1 1 2 2 0 1 2 0 12
+p636
+aVClar. Weatherspoon MIA 12/10/1999 MIA @ SAC W 20 12 5 5 100.0 0 0 - 2 2 100.0 0 7 7 0 0 0 2 5 -10
+p637
+aVAnthony Carter MIA 12/07/1999 MIA @ POR W 31 14 7 14 50.0 0 1 0.0 0 1 0.0 2 3 5 3 0 0 5 2 -9
+p638
+aVVoshon Lenard MIA 12/07/1999 MIA @ POR W 20 11 3 6 50.0 2 4 50.0 3 3 100.0 0 0 0 1 1 0 0 4 15
+p639
+aVP.J. Brown MIA 12/07/1999 MIA @ POR W 38 10 5 8 62.5 0 0 - 0 0 - 2 7 9 2 1 0 4 4 10
+p640
+aVDuane Causwell MIA 12/07/1999 MIA @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p641
+aVClar. Weatherspoon MIA 12/07/1999 MIA @ POR W 16 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 3 1 0 0 2 6
+p642
+aVMark Strickland MIA 12/07/1999 MIA @ POR W 5 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 0 0 0 0 0 -2
+p643
+aVJamal Mashburn MIA 12/07/1999 MIA @ POR W 45 16 6 15 40.0 2 3 66.7 2 2 100.0 2 4 6 8 2 0 4 0 14
+p644
+aVAlonzo Mourning MIA 12/07/1999 MIA @ POR W 40 17 7 13 53.8 0 0 - 3 6 50.0 0 7 7 4 0 6 4 3 7
+p645
+aVDan Majerle MIA 12/07/1999 MIA @ POR W 43 8 2 8 25.0 2 8 25.0 2 3 66.7 0 8 8 2 2 0 0 3 12
+p646
+aVAlonzo Mourning MIA 12/06/1999 MIA @ LAC W 39 25 10 18 55.6 0 0 - 5 7 71.4 1 10 11 0 0 8 5 3 0
+p647
+aVJamal Mashburn MIA 12/06/1999 MIA @ LAC W 36 20 9 19 47.4 2 2 100.0 0 0 - 1 5 6 3 0 0 3 2 1
+p648
+aVRex Walters MIA 12/06/1999 MIA @ LAC W 18 4 2 2 100.0 0 0 - 0 0 - 0 2 2 3 0 0 0 0 10
+p649
+aVAnthony Carter MIA 12/06/1999 MIA @ LAC W 30 20 9 13 69.2 0 0 - 2 2 100.0 0 3 3 5 1 0 2 4 -2
+p650
+aVVoshon Lenard MIA 12/06/1999 MIA @ LAC W 17 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 2 0 1 2 0
+p651
+aVP.J. Brown MIA 12/06/1999 MIA @ LAC W 36 10 5 11 45.5 0 0 - 0 0 - 1 5 6 2 2 1 2 2 13
+p652
+aVClar. Weatherspoon MIA 12/06/1999 MIA @ LAC W 15 8 2 3 66.7 0 0 - 4 4 100.0 1 4 5 1 0 0 0 1 5
+p653
+aVMark Strickland MIA 12/06/1999 MIA @ LAC W 14 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 5
+p654
+aVDan Majerle MIA 12/06/1999 MIA @ LAC W 34 5 2 4 50.0 1 2 50.0 0 0 - 0 5 5 3 1 1 1 1 8
+p655
+aVAnthony Carter MIA 12/03/1999 MIA @ BOS L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 3 1 -11
+p656
+aVVoshon Lenard MIA 12/03/1999 MIA @ BOS L 32 23 8 14 57.1 3 6 50.0 4 7 57.1 2 0 2 4 2 0 3 4 -3
+p657
+aVAlonzo Mourning MIA 12/03/1999 MIA @ BOS L 34 21 9 11 81.8 0 0 - 3 6 50.0 0 5 5 1 0 4 2 5 -7
+p658
+aVDan Majerle MIA 12/03/1999 MIA @ BOS L 29 6 2 4 50.0 2 4 50.0 0 0 - 0 7 7 4 2 0 1 4 -13
+p659
+aVRodney Buford MIA 12/03/1999 MIA @ BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p660
+aVJamal Mashburn MIA 12/03/1999 MIA @ BOS L 44 14 5 13 38.5 1 3 33.3 3 8 37.5 1 9 10 6 1 0 6 4 -11
+p661
+aVHarold Jamison MIA 12/03/1999 MIA @ BOS L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p662
+aVP.J. Brown MIA 12/03/1999 MIA @ BOS L 35 9 4 11 36.4 0 0 - 1 1 100.0 2 4 6 3 0 0 0 5 -23
+p663
+aVRex Walters MIA 12/03/1999 MIA @ BOS L 21 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 3 1 0 3 2 -3
+p664
+aVClar. Weatherspoon MIA 12/03/1999 MIA @ BOS L 20 5 2 7 28.6 0 0 - 1 2 50.0 5 4 9 0 2 0 0 1 5
+p665
+aVRex Walters MIA 12/01/1999 MIA vs. PHI W 24 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 2 3 4
+p666
+aVDan Majerle MIA 12/01/1999 MIA vs. PHI W 40 10 3 8 37.5 2 5 40.0 2 2 100.0 0 4 4 6 0 0 1 2 12
+p667
+aVAlonzo Mourning MIA 12/01/1999 MIA vs. PHI W 40 28 10 18 55.6 0 0 - 8 11 72.7 8 7 15 3 2 7 4 4 11
+p668
+aVVoshon Lenard MIA 12/01/1999 MIA vs. PHI W 28 9 4 12 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 2 1 1
+p669
+aVJamal Mashburn MIA 12/01/1999 MIA vs. PHI W 30 11 4 9 44.4 0 1 0.0 3 3 100.0 1 2 3 2 1 0 2 6 -3
+p670
+aVAnthony Carter MIA 12/01/1999 MIA vs. PHI W 22 7 2 6 33.3 0 0 - 3 3 100.0 1 1 2 8 0 0 1 5 9
+p671
+aVMark Strickland MIA 12/01/1999 MIA vs. PHI W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -5
+p672
+aVP.J. Brown MIA 12/01/1999 MIA vs. PHI W 36 14 5 11 45.5 0 0 - 4 4 100.0 2 10 12 2 3 1 2 1 9
+p673
+aVClar. Weatherspoon MIA 12/01/1999 MIA vs. PHI W 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 2 1 3 5 -3
+p674
+aVClar. Weatherspoon MIA 11/29/1999 MIA vs. SAC W 27 11 4 9 44.4 0 0 - 3 3 100.0 3 7 10 4 2 0 1 1 10
+p675
+aVDan Majerle MIA 11/29/1999 MIA vs. SAC W 35 6 2 7 28.6 1 5 20.0 1 2 50.0 2 7 9 3 2 1 1 1 7
+p676
+aVJamal Mashburn MIA 11/29/1999 MIA vs. SAC W 39 22 8 13 61.5 2 2 100.0 4 4 100.0 0 5 5 2 0 1 7 3 9
+p677
+aVP.J. Brown MIA 11/29/1999 MIA vs. SAC W 29 18 9 13 69.2 0 0 - 0 0 - 2 3 5 2 2 0 1 4 12
+p678
+aVMark Strickland MIA 11/29/1999 MIA vs. SAC W 10 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 1 0 2 1 -2
+p679
+aVDuane Causwell MIA 11/29/1999 MIA vs. SAC W 7 4 0 1 0.0 0 0 - 4 4 100.0 1 3 4 0 0 0 0 3 -1
+p680
+aVVoshon Lenard MIA 11/29/1999 MIA vs. SAC W 21 7 2 9 22.2 0 2 0.0 3 4 75.0 0 3 3 1 0 2 3 1 6
+p681
+aVAlonzo Mourning MIA 11/29/1999 MIA vs. SAC W 27 16 7 13 53.8 0 0 - 2 3 66.7 1 10 11 0 0 3 5 5 2
+p682
+aVRex Walters MIA 11/29/1999 MIA vs. SAC W 22 2 1 1 100.0 0 0 - 0 0 - 0 2 2 5 1 0 1 5 7
+p683
+aVAnthony Carter MIA 11/29/1999 MIA vs. SAC W 21 4 2 7 28.6 0 0 - 0 0 - 0 1 1 4 3 0 1 1 0
+p684
+aVP.J. Brown MIA 11/27/1999 MIA vs. WAS W 37 12 6 10 60.0 0 0 - 0 0 - 4 7 11 3 2 0 2 4 3
+p685
+aVDan Majerle MIA 11/27/1999 MIA vs. WAS W 33 7 2 7 28.6 2 6 33.3 1 2 50.0 1 4 5 3 1 0 1 3 8
+p686
+aVRex Walters MIA 11/27/1999 MIA vs. WAS W 17 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 3 1 0 0 3 -5
+p687
+aVAlonzo Mourning MIA 11/27/1999 MIA vs. WAS W 45 30 12 20 60.0 0 0 - 6 9 66.7 2 7 9 0 0 5 5 4 10
+p688
+aVVoshon Lenard MIA 11/27/1999 MIA vs. WAS W 24 13 6 10 60.0 1 2 50.0 0 0 - 0 0 0 2 0 1 2 2 -1
+p689
+aVJamal Mashburn MIA 11/27/1999 MIA vs. WAS W 43 16 7 16 43.8 2 2 100.0 0 0 - 1 8 9 10 4 1 2 4 11
+p690
+aVAnthony Carter MIA 11/27/1999 MIA vs. WAS W 17 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 2 0 0 4 4 7
+p691
+aVClar. Weatherspoon MIA 11/27/1999 MIA vs. WAS W 14 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 1 0 2 2 -7
+p692
+aVRodney Buford MIA 11/27/1999 MIA vs. WAS W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -11
+p693
+aVDuane Causwell MIA 11/24/1999 MIA vs. ATL W 15 6 2 2 100.0 0 0 - 2 2 100.0 0 5 5 0 1 2 2 2 -8
+p694
+aVClar. Weatherspoon MIA 11/24/1999 MIA vs. ATL W 17 4 2 7 28.6 0 0 - 0 0 - 3 5 8 1 2 1 1 1 4
+p695
+aVAnthony Carter MIA 11/24/1999 MIA vs. ATL W 33 8 3 9 33.3 0 0 - 2 2 100.0 0 1 1 8 2 0 3 3 2
+p696
+aVJamal Mashburn MIA 11/24/1999 MIA vs. ATL W 38 12 4 14 28.6 2 7 28.6 2 2 100.0 0 3 3 4 1 0 0 3 4
+p697
+aVDan Majerle MIA 11/24/1999 MIA vs. ATL W 32 18 6 7 85.7 4 5 80.0 2 2 100.0 0 0 0 2 0 0 2 4 -6
+p698
+aVRodney Buford MIA 11/24/1999 MIA vs. ATL W 26 10 3 10 30.0 0 2 0.0 4 5 80.0 1 4 5 3 0 1 0 0 7
+p699
+aVVoshon Lenard MIA 11/24/1999 MIA vs. ATL W 15 3 1 6 16.7 0 2 0.0 1 2 50.0 0 0 0 2 1 0 0 0 -1
+p700
+aVAlonzo Mourning MIA 11/24/1999 MIA vs. ATL W 37 25 11 26 42.3 0 0 - 3 5 60.0 4 9 13 3 1 2 1 5 7
+p701
+aVP.J. Brown MIA 11/24/1999 MIA vs. ATL W 28 7 3 4 75.0 0 0 - 1 2 50.0 4 4 8 1 0 2 0 4 1
+p702
+aVClar. Weatherspoon MIA 11/23/1999 MIA @ ATL L 19 9 4 5 80.0 0 0 - 1 1 100.0 1 3 4 1 1 0 0 1 5
+p703
+aVP.J. Brown MIA 11/23/1999 MIA @ ATL L 32 12 5 7 71.4 0 0 - 2 2 100.0 2 4 6 0 1 2 2 5 -13
+p704
+aVAnthony Carter MIA 11/23/1999 MIA @ ATL L 15 0 0 8 0.0 0 1 0.0 0 0 - 1 0 1 1 2 0 1 2 5
+p705
+aVDan Majerle MIA 11/23/1999 MIA @ ATL L 32 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 4 1 0 1 4 -10
+p706
+aVVoshon Lenard MIA 11/23/1999 MIA @ ATL L 20 12 4 9 44.4 1 2 50.0 3 3 100.0 0 2 2 2 0 0 1 3 3
+p707
+aVTim Hardaway MIA 11/23/1999 MIA @ ATL L 33 17 6 14 42.9 4 8 50.0 1 2 50.0 1 1 2 5 0 0 0 5 -12
+p708
+aVJamal Mashburn MIA 11/23/1999 MIA @ ATL L 43 22 10 20 50.0 2 3 66.7 0 0 - 3 2 5 7 1 1 2 1 -3
+p709
+aVAlonzo Mourning MIA 11/23/1999 MIA @ ATL L 40 26 10 20 50.0 0 0 - 6 8 75.0 2 9 11 1 2 1 5 5 -4
+p710
+aVMark Strickland MIA 11/23/1999 MIA @ ATL L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p711
+aVP.J. Brown MIA 11/20/1999 MIA vs. BOS W 33 12 4 8 50.0 0 0 - 4 5 80.0 3 3 6 2 3 1 1 3 12
+p712
+aVAlonzo Mourning MIA 11/20/1999 MIA vs. BOS W 36 22 8 12 66.7 0 0 - 6 7 85.7 3 3 6 0 0 3 0 4 11
+p713
+aVVoshon Lenard MIA 11/20/1999 MIA vs. BOS W 20 13 4 8 50.0 3 6 50.0 2 2 100.0 1 2 3 5 1 0 2 2 6
+p714
+aVMark Strickland MIA 11/20/1999 MIA vs. BOS W 17 12 5 6 83.3 0 0 - 2 3 66.7 1 2 3 0 0 0 2 5 10
+p715
+aVJamal Mashburn MIA 11/20/1999 MIA vs. BOS W 37 23 9 19 47.4 4 7 57.1 1 3 33.3 0 5 5 1 3 1 2 3 9
+p716
+aVDuane Causwell MIA 11/20/1999 MIA vs. BOS W 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 1 7
+p717
+aVTim Hardaway MIA 11/20/1999 MIA vs. BOS W 30 15 5 12 41.7 1 4 25.0 4 6 66.7 0 3 3 6 0 0 4 2 8
+p718
+aVRodney Buford MIA 11/20/1999 MIA vs. BOS W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 0
+p719
+aVDan Majerle MIA 11/20/1999 MIA vs. BOS W 37 7 2 6 33.3 1 4 25.0 2 2 100.0 0 7 7 6 4 1 1 3 17
+p720
+aVAnthony Carter MIA 11/20/1999 MIA vs. BOS W 18 4 2 5 40.0 0 0 - 0 0 - 1 2 3 5 2 0 1 1 10
+p721
+aVP.J. Brown MIA 11/17/1999 MIA @ PHI W 23 11 4 4 100.0 0 0 - 3 6 50.0 4 8 12 3 0 0 0 5 17
+p722
+aVVoshon Lenard MIA 11/17/1999 MIA @ PHI W 23 9 2 8 25.0 0 1 0.0 5 5 100.0 1 1 2 3 0 1 1 1 3
+p723
+aVAlonzo Mourning MIA 11/17/1999 MIA @ PHI W 39 27 11 18 61.1 0 0 - 5 7 71.4 6 8 14 3 0 3 3 6 8
+p724
+aVMark Strickland MIA 11/17/1999 MIA @ PHI W 17 3 1 5 20.0 0 0 - 1 2 50.0 4 1 5 1 1 2 0 0 2
+p725
+aVRodney Buford MIA 11/17/1999 MIA @ PHI W 14 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 0 2 1 3 5
+p726
+aVDuane Causwell MIA 11/17/1999 MIA @ PHI W 9 2 1 1 100.0 0 0 - 0 1 0.0 1 2 3 0 0 1 1 2 -8
+p727
+aVDan Majerle MIA 11/17/1999 MIA @ PHI W 31 5 2 4 50.0 1 3 33.3 0 1 0.0 0 3 3 3 1 0 2 2 -3
+p728
+aVTim Hardaway MIA 11/17/1999 MIA @ PHI W 42 17 7 20 35.0 2 6 33.3 1 3 33.3 3 4 7 7 2 0 1 3 4
+p729
+aVJamal Mashburn MIA 11/17/1999 MIA @ PHI W 43 19 6 16 37.5 2 4 50.0 5 5 100.0 1 6 7 3 2 1 6 5 -3
+p730
+aVTim Hardaway MIA 11/16/1999 MIA vs. POR L 39 17 5 12 41.7 2 8 25.0 5 7 71.4 1 4 5 10 1 0 1 2 -4
+p731
+aVVoshon Lenard MIA 11/16/1999 MIA vs. POR L 21 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 4 -5
+p732
+aVP.J. Brown MIA 11/16/1999 MIA vs. POR L 34 6 2 10 20.0 0 0 - 2 2 100.0 3 2 5 3 0 0 1 5 -7
+p733
+aVDan Majerle MIA 11/16/1999 MIA vs. POR L 35 14 5 10 50.0 4 8 50.0 0 0 - 0 0 0 0 1 1 0 2 -8
+p734
+aVMark Strickland MIA 11/16/1999 MIA vs. POR L 19 8 4 6 66.7 0 0 - 0 0 - 3 5 8 3 1 0 0 2 2
+p735
+aVAlonzo Mourning MIA 11/16/1999 MIA vs. POR L 43 23 11 20 55.0 0 0 - 1 3 33.3 4 5 9 2 1 2 3 5 -6
+p736
+aVJamal Mashburn MIA 11/16/1999 MIA vs. POR L 45 21 7 19 36.8 3 5 60.0 4 4 100.0 2 6 8 5 0 0 4 2 5
+p737
+aVRodney Buford MIA 11/16/1999 MIA vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p738
+aVRex Walters MIA 11/16/1999 MIA vs. POR L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -2
+p739
+aVClar. Weatherspoon MIA 11/14/1999 MIA @ NYK W 19 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -4
+p740
+aVVoshon Lenard MIA 11/14/1999 MIA @ NYK W 17 9 3 6 50.0 1 3 33.3 2 2 100.0 0 3 3 2 0 0 0 1 1
+p741
+aVDan Majerle MIA 11/14/1999 MIA @ NYK W 41 7 3 6 50.0 1 3 33.3 0 0 - 0 4 4 3 1 0 1 2 8
+p742
+aVP.J. Brown MIA 11/14/1999 MIA @ NYK W 36 21 7 15 46.7 0 0 - 7 9 77.8 2 5 7 0 0 1 1 5 5
+p743
+aVRex Walters MIA 11/14/1999 MIA @ NYK W 10 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 0 4
+p744
+aVAlonzo Mourning MIA 11/14/1999 MIA @ NYK W 41 25 11 17 64.7 0 0 - 3 5 60.0 1 6 7 1 0 2 1 4 12
+p745
+aVTim Hardaway MIA 11/14/1999 MIA @ NYK W 39 12 3 9 33.3 2 5 40.0 4 6 66.7 0 2 2 9 2 0 1 3 1
+p746
+aVJamal Mashburn MIA 11/14/1999 MIA @ NYK W 38 12 4 10 40.0 0 2 0.0 4 8 50.0 0 7 7 8 2 1 1 3 3
+p747
+aVVoshon Lenard MIA 11/12/1999 MIA @ WAS W 16 3 1 7 14.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 2 -15
+p748
+aVAlonzo Mourning MIA 11/12/1999 MIA @ WAS W 41 25 9 14 64.3 0 0 - 7 9 77.8 2 7 9 3 0 7 2 5 20
+p749
+aVJamal Mashburn MIA 11/12/1999 MIA @ WAS W 37 22 9 15 60.0 1 3 33.3 3 3 100.0 0 6 6 4 2 1 3 2 16
+p750
+aVP.J. Brown MIA 11/12/1999 MIA @ WAS W 38 12 4 10 40.0 0 0 - 4 4 100.0 1 7 8 3 1 0 1 4 14
+p751
+aVClar. Weatherspoon MIA 11/12/1999 MIA @ WAS W 20 7 3 4 75.0 0 0 - 1 4 25.0 0 6 6 2 0 0 0 0 -5
+p752
+aVTim Hardaway MIA 11/12/1999 MIA @ WAS W 42 21 6 14 42.9 4 6 66.7 5 8 62.5 2 4 6 11 3 0 1 4 19
+p753
+aVAnthony Carter MIA 11/12/1999 MIA @ WAS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -10
+p754
+aVDan Majerle MIA 11/12/1999 MIA @ WAS W 38 14 6 11 54.5 1 4 25.0 1 1 100.0 0 4 4 1 2 1 2 1 11
+p755
+aVRodney Buford MIA 11/12/1999 MIA @ WAS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p756
+aVDuane Causwell MIA 11/11/1999 MIA vs. DAL W 7 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 0 0 1 1 1 2
+p757
+aVMark Strickland MIA 11/11/1999 MIA vs. DAL W 8 8 4 5 80.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p758
+aVClar. Weatherspoon MIA 11/11/1999 MIA vs. DAL W 23 2 1 1 100.0 0 0 - 0 0 - 0 6 6 2 0 0 0 3 16
+p759
+aVJamal Mashburn MIA 11/11/1999 MIA vs. DAL W 31 34 13 19 68.4 3 6 50.0 5 6 83.3 3 2 5 2 0 0 4 3 18
+p760
+aVP.J. Brown MIA 11/11/1999 MIA vs. DAL W 30 15 4 9 44.4 0 0 - 7 7 100.0 2 9 11 1 0 0 0 3 20
+p761
+aVRodney Buford MIA 11/11/1999 MIA vs. DAL W 11 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 0 1 0 0 0 3
+p762
+aVRex Walters MIA 11/11/1999 MIA vs. DAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 1
+p763
+aVAlonzo Mourning MIA 11/11/1999 MIA vs. DAL W 26 18 7 13 53.8 0 0 - 4 6 66.7 1 5 6 1 0 1 3 3 4
+p764
+aVVoshon Lenard MIA 11/11/1999 MIA vs. DAL W 21 13 5 12 41.7 3 7 42.9 0 0 - 0 5 5 3 0 0 2 1 20
+p765
+aVDan Majerle MIA 11/11/1999 MIA vs. DAL W 28 4 1 3 33.3 0 2 0.0 2 2 100.0 1 9 10 4 0 0 2 2 7
+p766
+aVAnthony Carter MIA 11/11/1999 MIA vs. DAL W 20 6 3 6 50.0 0 0 - 0 0 - 0 2 2 10 0 0 4 0 16
+p767
+aVTim Hardaway MIA 11/11/1999 MIA vs. DAL W 27 16 6 11 54.5 4 8 50.0 0 0 - 0 2 2 7 2 0 2 2 6
+p768
+aVAnthony Carter MIA 11/09/1999 MIA vs. IND W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -2
+p769
+aVMark Strickland MIA 11/09/1999 MIA vs. IND W 12 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -15
+p770
+aVTim Hardaway MIA 11/09/1999 MIA vs. IND W 37 19 7 15 46.7 2 4 50.0 3 3 100.0 1 4 5 14 2 0 1 0 13
+p771
+aVP.J. Brown MIA 11/09/1999 MIA vs. IND W 23 10 4 9 44.4 0 0 - 2 2 100.0 5 1 6 1 1 1 2 4 10
+p772
+aVAlonzo Mourning MIA 11/09/1999 MIA vs. IND W 40 33 16 24 66.7 0 0 - 1 4 25.0 4 12 16 0 1 4 6 5 20
+p773
+aVClar. Weatherspoon MIA 11/09/1999 MIA vs. IND W 25 11 4 5 80.0 0 0 - 3 3 100.0 3 5 8 0 1 0 2 2 12
+p774
+aVDuane Causwell MIA 11/09/1999 MIA vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p775
+aVDan Majerle MIA 11/09/1999 MIA vs. IND W 27 7 2 5 40.0 1 4 25.0 2 2 100.0 1 4 5 2 3 0 0 1 23
+p776
+aVJamal Mashburn MIA 11/09/1999 MIA vs. IND W 41 12 5 16 31.3 0 4 0.0 2 4 50.0 0 6 6 6 1 0 1 3 13
+p777
+aVVoshon Lenard MIA 11/09/1999 MIA vs. IND W 27 15 7 16 43.8 0 2 0.0 1 2 50.0 1 2 3 2 1 1 2 1 -4
+p778
+aVAlonzo Mourning MIA 11/05/1999 MIA @ CHI W 27 15 5 9 55.6 0 0 - 5 8 62.5 3 5 8 2 0 6 2 3 21
+p779
+aVDuane Causwell MIA 11/05/1999 MIA @ CHI W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 4 -12
+p780
+aVDan Majerle MIA 11/05/1999 MIA @ CHI W 24 6 2 5 40.0 2 5 40.0 0 0 - 0 3 3 3 2 0 1 0 11
+p781
+aVAnthony Carter MIA 11/05/1999 MIA @ CHI W 14 8 1 4 25.0 0 0 - 6 6 100.0 0 3 3 5 1 0 1 2 12
+p782
+aVMark Strickland MIA 11/05/1999 MIA @ CHI W 18 8 3 9 33.3 0 0 - 2 2 100.0 1 1 2 1 3 1 1 3 -9
+p783
+aVJamal Mashburn MIA 11/05/1999 MIA @ CHI W 28 21 8 13 61.5 1 2 50.0 4 7 57.1 0 6 6 3 1 0 2 3 28
+p784
+aVClar. Weatherspoon MIA 11/05/1999 MIA @ CHI W 29 4 2 4 50.0 0 0 - 0 0 - 2 3 5 3 2 0 2 3 8
+p785
+aVP.J. Brown MIA 11/05/1999 MIA @ CHI W 28 8 3 6 50.0 0 1 0.0 2 2 100.0 2 5 7 0 1 1 4 3 19
+p786
+aVVoshon Lenard MIA 11/05/1999 MIA @ CHI W 26 22 8 11 72.7 6 8 75.0 0 0 - 0 2 2 1 1 1 2 0 4
+p787
+aVRex Walters MIA 11/05/1999 MIA @ CHI W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -6
+p788
+aVTim Hardaway MIA 11/05/1999 MIA @ CHI W 26 11 3 8 37.5 0 3 0.0 5 5 100.0 0 2 2 6 1 0 4 4 14
+p789
+aVDuane Causwell MIA 11/04/1999 MIA @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p790
+aVClar. Weatherspoon MIA 11/04/1999 MIA @ TOR L 25 8 4 10 40.0 0 0 - 0 0 - 1 3 4 3 0 1 2 1 -5
+p791
+aVAnthony Carter MIA 11/04/1999 MIA @ TOR L 10 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 1 0
+p792
+aVRex Walters MIA 11/04/1999 MIA @ TOR L 7 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -4
+p793
+aVTim Hardaway MIA 11/04/1999 MIA @ TOR L 32 12 5 11 45.5 0 1 0.0 2 2 100.0 1 2 3 5 0 0 3 1 -7
+p794
+aVVoshon Lenard MIA 11/04/1999 MIA @ TOR L 20 3 1 7 14.3 1 3 33.3 0 0 - 4 4 8 1 0 0 1 3 -28
+p795
+aVP.J. Brown MIA 11/04/1999 MIA @ TOR L 36 17 6 12 50.0 0 0 - 5 6 83.3 4 9 13 3 0 1 0 3 2
+p796
+aVDan Majerle MIA 11/04/1999 MIA @ TOR L 34 5 1 2 50.0 1 1 100.0 2 2 100.0 1 3 4 5 4 1 0 2 7
+p797
+aVJamal Mashburn MIA 11/04/1999 MIA @ TOR L 37 17 8 19 42.1 1 2 50.0 0 3 0.0 1 3 4 6 0 0 3 2 -4
+p798
+aVMark Strickland MIA 11/04/1999 MIA @ TOR L 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -1
+p799
+aVAlonzo Mourning MIA 11/04/1999 MIA @ TOR L 33 18 9 13 69.2 0 0 - 0 0 - 0 7 7 2 0 5 6 5 -8
+p800
+aVTim Hardaway MIA 11/02/1999 MIA vs. DET W 46 32 10 24 41.7 3 9 33.3 9 10 90.0 1 4 5 5 1 0 2 2 5
+p801
+aVAnthony Carter MIA 11/02/1999 MIA vs. DET W 12 2 1 6 16.7 0 0 - 0 0 - 1 2 3 2 0 0 1 1 1
+p802
+aVVoshon Lenard MIA 11/02/1999 MIA vs. DET W 38 14 3 14 21.4 1 9 11.1 7 10 70.0 2 7 9 4 2 0 1 5 6
+p803
+aVP.J. Brown MIA 11/02/1999 MIA vs. DET W 34 9 3 7 42.9 0 0 - 3 4 75.0 1 4 5 3 2 0 3 5 8
+p804
+aVRex Walters MIA 11/02/1999 MIA vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p805
+aVDan Majerle MIA 11/02/1999 MIA vs. DET W 32 13 4 9 44.4 3 6 50.0 2 2 100.0 1 3 4 5 0 0 0 6 2
+p806
+aVMark Strickland MIA 11/02/1999 MIA vs. DET W 14 6 2 3 66.7 0 0 - 2 3 66.7 4 5 9 1 0 1 0 3 2
+p807
+aVRodney Buford MIA 11/02/1999 MIA vs. DET W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p808
+aVJamal Mashburn MIA 11/02/1999 MIA vs. DET W 38 21 7 15 46.7 3 4 75.0 4 6 66.7 0 3 3 1 1 0 1 6 -7
+p809
+aVClar. Weatherspoon MIA 11/02/1999 MIA vs. DET W 37 15 5 14 35.7 0 0 - 5 6 83.3 5 10 15 1 1 2 2 5 5
+p810
+aVAlonzo Mourning MIA 11/02/1999 MIA vs. DET W 35 14 5 12 41.7 0 0 - 4 7 57.1 7 6 13 2 0 2 4 6 10
+p811
+a.

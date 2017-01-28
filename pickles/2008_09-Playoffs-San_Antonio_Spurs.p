@@ -1,0 +1,108 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBruce Bowen SAS 04/28/2009 SAS vs. DAL L 22 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 1 0 0 2 -13
+p2
+aVKurt Thomas SAS 04/28/2009 SAS vs. DAL L 22 6 2 3 66.7 0 0 - 2 2 100.0 1 4 5 0 0 2 1 4 -12
+p3
+aVIme Udoka SAS 04/28/2009 SAS vs. DAL L 22 7 3 4 75.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 5 10
+p4
+aVMichael Finley SAS 04/28/2009 SAS vs. DAL L 33 9 4 9 44.4 0 2 0.0 1 2 50.0 2 2 4 3 1 0 1 2 -8
+p5
+aVMatt Bonner SAS 04/28/2009 SAS vs. DAL L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 0 -6
+p6
+aVRoger Mason Jr. SAS 04/28/2009 SAS vs. DAL L 12 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 1 -6
+p7
+aVTony Parker SAS 04/28/2009 SAS vs. DAL L 45 26 11 21 52.4 0 4 0.0 4 4 100.0 1 3 4 12 0 0 7 5 -11
+p8
+aVGeorge Hill SAS 04/28/2009 SAS vs. DAL L 33 9 3 8 37.5 1 3 33.3 2 3 66.7 2 2 4 0 2 1 0 4 -5
+p9
+aVTim Duncan SAS 04/28/2009 SAS vs. DAL L 41 30 14 21 66.7 0 0 - 2 6 33.3 2 6 8 1 1 2 0 1 -14
+p10
+aVMichael Finley SAS 04/25/2009 SAS @ DAL L 36 7 2 6 33.3 1 5 20.0 2 2 100.0 0 1 1 2 0 0 0 1 -8
+p11
+aVTim Duncan SAS 04/25/2009 SAS @ DAL L 42 25 7 13 53.8 0 0 - 11 18 61.1 4 6 10 7 2 1 4 5 -6
+p12
+aVMatt Bonner SAS 04/25/2009 SAS @ DAL L 22 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 4 -8
+p13
+aVGeorge Hill SAS 04/25/2009 SAS @ DAL L 14 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p14
+aVTony Parker SAS 04/25/2009 SAS @ DAL L 41 43 18 29 62.1 2 5 40.0 5 8 62.5 0 5 5 3 4 1 3 3 7
+p15
+aVBruce Bowen SAS 04/25/2009 SAS @ DAL L 31 5 2 4 50.0 1 3 33.3 0 0 - 0 6 6 0 1 0 1 1 -2
+p16
+aVIme Udoka SAS 04/25/2009 SAS @ DAL L 19 1 0 4 0.0 0 2 0.0 1 2 50.0 1 3 4 1 2 1 0 4 -2
+p17
+aVDrew Gooden SAS 04/25/2009 SAS @ DAL L 8 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 4 -5
+p18
+aVRoger Mason Jr. SAS 04/25/2009 SAS @ DAL L 17 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 3 -13
+p19
+aVKurt Thomas SAS 04/25/2009 SAS @ DAL L 9 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -6
+p20
+aVGeorge Hill SAS 04/23/2009 SAS @ DAL L 24 8 2 10 20.0 0 3 0.0 4 4 100.0 1 2 3 2 0 0 2 0 6
+p21
+aVDrew Gooden SAS 04/23/2009 SAS @ DAL L 26 6 2 12 16.7 0 1 0.0 2 2 100.0 0 5 5 0 0 1 1 5 6
+p22
+aVTim Duncan SAS 04/23/2009 SAS @ DAL L 16 4 2 9 22.2 0 0 - 0 0 - 2 0 2 1 0 0 1 2 -29
+p23
+aVJacque Vaughn SAS 04/23/2009 SAS @ DAL L 16 7 2 5 40.0 0 0 - 3 6 50.0 0 0 0 2 1 0 0 0 12
+p24
+aVIme Udoka SAS 04/23/2009 SAS @ DAL L 25 4 2 4 50.0 0 1 0.0 0 1 0.0 1 4 5 0 1 0 1 3 -7
+p25
+aVBruce Bowen SAS 04/23/2009 SAS @ DAL L 24 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 1 0 0 0 3 6
+p26
+aVMichael Finley SAS 04/23/2009 SAS @ DAL L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -25
+p27
+aVKurt Thomas SAS 04/23/2009 SAS @ DAL L 18 4 2 3 66.7 0 0 - 0 0 - 1 9 10 1 0 0 1 2 -4
+p28
+aVRoger Mason Jr. SAS 04/23/2009 SAS @ DAL L 16 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 2 -24
+p29
+aVMatt Bonner SAS 04/23/2009 SAS @ DAL L 20 2 1 5 20.0 0 4 0.0 0 0 - 1 3 4 0 2 1 0 0 -23
+p30
+aVTony Parker SAS 04/23/2009 SAS @ DAL L 21 12 5 14 35.7 0 2 0.0 2 4 50.0 0 4 4 3 0 0 3 0 -31
+p31
+aVFabricio Oberto SAS 04/23/2009 SAS @ DAL L 17 10 3 5 60.0 0 0 - 4 4 100.0 2 2 4 0 2 0 1 0 8
+p32
+aVJacque Vaughn SAS 04/20/2009 SAS vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -1
+p33
+aVRoger Mason Jr. SAS 04/20/2009 SAS vs. DAL W 27 12 5 11 45.5 2 6 33.3 0 0 - 0 1 1 3 0 0 1 3 1
+p34
+aVMichael Finley SAS 04/20/2009 SAS vs. DAL W 25 5 2 7 28.6 1 2 50.0 0 0 - 1 4 5 0 0 1 1 1 28
+p35
+aVGeorge Hill SAS 04/20/2009 SAS vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p36
+aVMatt Bonner SAS 04/20/2009 SAS vs. DAL W 29 11 3 9 33.3 3 4 75.0 2 2 100.0 4 3 7 0 0 1 0 2 21
+p37
+aVBruce Bowen SAS 04/20/2009 SAS vs. DAL W 29 7 2 2 100.0 1 1 100.0 2 2 100.0 0 3 3 0 1 0 2 1 12
+p38
+aVTony Parker SAS 04/20/2009 SAS vs. DAL W 33 38 16 22 72.7 0 2 0.0 6 9 66.7 0 4 4 8 2 0 3 2 22
+p39
+aVFabricio Oberto SAS 04/20/2009 SAS vs. DAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -1
+p40
+aVTim Duncan SAS 04/20/2009 SAS vs. DAL W 28 13 5 10 50.0 0 0 - 3 3 100.0 2 9 11 5 0 3 2 0 24
+p41
+aVDrew Gooden SAS 04/20/2009 SAS vs. DAL W 19 13 6 9 66.7 0 0 - 1 1 100.0 1 2 3 0 1 0 2 2 -3
+p42
+aVIme Udoka SAS 04/20/2009 SAS vs. DAL W 22 2 1 6 16.7 0 3 0.0 0 0 - 1 6 7 1 1 0 0 2 10
+p43
+aVKurt Thomas SAS 04/20/2009 SAS vs. DAL W 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 5 -7
+p44
+aVTim Duncan SAS 04/18/2009 SAS vs. DAL L 37 27 13 24 54.2 0 0 - 1 1 100.0 2 7 9 2 0 0 0 3 1
+p45
+aVTony Parker SAS 04/18/2009 SAS vs. DAL L 41 24 9 22 40.9 1 1 100.0 5 6 83.3 0 4 4 8 0 0 5 3 -4
+p46
+aVMatt Bonner SAS 04/18/2009 SAS vs. DAL L 18 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 4 -10
+p47
+aVMichael Finley SAS 04/18/2009 SAS vs. DAL L 32 19 7 10 70.0 5 5 100.0 0 0 - 0 4 4 0 0 0 1 3 -20
+p48
+aVRoger Mason Jr. SAS 04/18/2009 SAS vs. DAL L 35 13 4 10 40.0 4 7 57.1 1 1 100.0 0 5 5 4 0 0 1 1 0
+p49
+aVIme Udoka SAS 04/18/2009 SAS vs. DAL L 16 3 1 2 50.0 0 0 - 1 2 50.0 4 1 5 2 0 0 0 0 0
+p50
+aVDrew Gooden SAS 04/18/2009 SAS vs. DAL L 18 8 3 9 33.3 0 0 - 2 2 100.0 4 0 4 1 0 0 0 2 0
+p51
+aVKurt Thomas SAS 04/18/2009 SAS vs. DAL L 18 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 1 -9
+p52
+aVBruce Bowen SAS 04/18/2009 SAS vs. DAL L 24 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 2
+p53
+a.

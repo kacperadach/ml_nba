@@ -1,0 +1,116 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCharlie Bell MIL 05/03/2006 MIL @ DET L 18 8 3 8 37.5 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -3
+p2
+aVDan Gadzuric MIL 05/03/2006 MIL @ DET L 9 13 6 7 85.7 0 0 - 1 2 50.0 2 1 3 0 0 1 0 3 8
+p3
+aVBobby Simmons MIL 05/03/2006 MIL @ DET L 28 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 4 0 0 2 -9
+p4
+aVErvin Johnson MIL 05/03/2006 MIL @ DET L 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 1 0 0 1 -3
+p5
+aVMichael Redd MIL 05/03/2006 MIL @ DET L 35 23 6 13 46.2 0 1 0.0 11 13 84.6 8 1 9 1 2 0 4 1 -34
+p6
+aVMo Williams MIL 05/03/2006 MIL @ DET L 19 4 2 8 25.0 0 5 0.0 0 0 - 0 0 0 3 1 0 2 3 -19
+p7
+aVJoe Smith MIL 05/03/2006 MIL @ DET L 13 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -16
+p8
+aVJamaal Magloire MIL 05/03/2006 MIL @ DET L 23 8 3 9 33.3 0 0 - 2 2 100.0 0 4 4 1 0 0 1 2 -26
+p9
+aVJiri Welsch MIL 05/03/2006 MIL @ DET L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -3
+p10
+aVAndrew Bogut MIL 05/03/2006 MIL @ DET L 32 10 5 9 55.6 0 0 - 0 0 - 0 3 3 2 0 0 2 5 -9
+p11
+aVT.J. Ford MIL 05/03/2006 MIL @ DET L 29 10 5 8 62.5 0 0 - 0 0 - 0 3 3 6 0 0 2 4 -10
+p12
+aVToni Kukoc MIL 05/03/2006 MIL @ DET L 19 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 2 -21
+p13
+aVJamaal Magloire MIL 05/01/2006 MIL vs. DET L 26 6 3 4 75.0 0 0 - 0 0 - 3 9 12 1 0 3 1 2 1
+p14
+aVAndrew Bogut MIL 05/01/2006 MIL vs. DET L 36 7 3 5 60.0 0 0 - 1 6 16.7 2 4 6 6 0 0 1 6 -3
+p15
+aVCharlie Bell MIL 05/01/2006 MIL vs. DET L 22 12 4 7 57.1 0 0 - 4 4 100.0 2 0 2 2 2 0 1 3 -8
+p16
+aVMichael Redd MIL 05/01/2006 MIL vs. DET L 42 33 10 17 58.8 1 5 20.0 12 15 80.0 1 3 4 2 0 0 1 4 -2
+p17
+aVJoe Smith MIL 05/01/2006 MIL vs. DET L 20 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 4 -17
+p18
+aVT.J. Ford MIL 05/01/2006 MIL vs. DET L 35 21 9 14 64.3 1 2 50.0 2 3 66.7 0 5 5 5 0 0 6 5 0
+p19
+aVToni Kukoc MIL 05/01/2006 MIL vs. DET L 13 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 3 -1
+p20
+aVBobby Simmons MIL 05/01/2006 MIL vs. DET L 32 3 1 5 20.0 1 1 100.0 0 0 - 1 2 3 3 1 1 3 4 -10
+p21
+aVMo Williams MIL 05/01/2006 MIL vs. DET L 14 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 3 0 0 1 2 -10
+p22
+aVMichael Redd MIL 04/29/2006 MIL vs. DET W 34 40 14 21 66.7 4 5 80.0 8 8 100.0 3 2 5 2 0 0 0 1 31
+p23
+aVMo Williams MIL 04/29/2006 MIL vs. DET W 18 20 9 10 90.0 2 3 66.7 0 0 - 0 0 0 2 0 0 0 4 -3
+p24
+aVT.J. Ford MIL 04/29/2006 MIL vs. DET W 30 7 2 5 40.0 0 0 - 3 3 100.0 0 7 7 15 2 0 1 4 23
+p25
+aVJiri Welsch MIL 04/29/2006 MIL vs. DET W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p26
+aVErvin Johnson MIL 04/29/2006 MIL vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p27
+aVCharlie Bell MIL 04/29/2006 MIL vs. DET W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 3 -7
+p28
+aVJamaal Magloire MIL 04/29/2006 MIL vs. DET W 28 12 5 8 62.5 0 0 - 2 4 50.0 2 5 7 1 0 2 1 3 19
+p29
+aVDan Gadzuric MIL 04/29/2006 MIL vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p30
+aVAndrew Bogut MIL 04/29/2006 MIL vs. DET W 26 8 4 9 44.4 0 0 - 0 0 - 2 0 2 2 1 0 2 3 10
+p31
+aVJoe Smith MIL 04/29/2006 MIL vs. DET W 22 13 4 5 80.0 0 0 - 5 5 100.0 0 7 7 2 1 1 0 5 4
+p32
+aVToni Kukoc MIL 04/29/2006 MIL vs. DET W 21 10 3 4 75.0 3 4 75.0 1 2 50.0 0 2 2 6 1 0 2 3 12
+p33
+aVBobby Simmons MIL 04/29/2006 MIL vs. DET W 34 10 4 11 36.4 2 4 50.0 0 0 - 1 3 4 3 2 0 2 1 23
+p34
+aVMo Williams MIL 04/26/2006 MIL @ DET L 12 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -11
+p35
+aVErvin Johnson MIL 04/26/2006 MIL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p36
+aVMichael Redd MIL 04/26/2006 MIL @ DET L 37 29 10 18 55.6 2 3 66.7 7 7 100.0 2 2 4 2 0 0 3 1 -14
+p37
+aVJiri Welsch MIL 04/26/2006 MIL @ DET L 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 3
+p38
+aVDan Gadzuric MIL 04/26/2006 MIL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p39
+aVBobby Simmons MIL 04/26/2006 MIL @ DET L 32 10 5 11 45.5 0 2 0.0 0 0 - 2 2 4 2 1 0 0 2 -9
+p40
+aVCharlie Bell MIL 04/26/2006 MIL @ DET L 27 11 4 13 30.8 3 4 75.0 0 0 - 0 0 0 2 0 1 1 5 -2
+p41
+aVJermaine Jackson MIL 04/26/2006 MIL @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p42
+aVJamaal Magloire MIL 04/26/2006 MIL @ DET L 28 8 3 9 33.3 0 0 - 2 5 40.0 2 6 8 0 1 1 2 2 -13
+p43
+aVT.J. Ford MIL 04/26/2006 MIL @ DET L 34 17 5 10 50.0 1 2 50.0 6 6 100.0 1 2 3 3 0 0 4 5 -3
+p44
+aVAndrew Bogut MIL 04/26/2006 MIL @ DET L 39 8 3 10 30.0 0 0 - 2 2 100.0 5 8 13 4 2 0 2 3 -12
+p45
+aVJoe Smith MIL 04/26/2006 MIL @ DET L 25 6 3 6 50.0 0 0 - 0 2 0.0 2 5 7 1 0 1 0 2 -3
+p46
+aVMichael Redd MIL 04/23/2006 MIL @ DET L 37 11 4 15 26.7 0 1 0.0 3 3 100.0 2 3 5 1 2 0 2 4 -19
+p47
+aVJoe Smith MIL 04/23/2006 MIL @ DET L 26 9 4 11 36.4 0 0 - 1 2 50.0 2 6 8 0 0 0 0 3 -6
+p48
+aVAndrew Bogut MIL 04/23/2006 MIL @ DET L 40 10 5 13 38.5 0 0 - 0 0 - 0 7 7 3 0 0 1 4 -21
+p49
+aVJamaal Magloire MIL 04/23/2006 MIL @ DET L 28 11 4 8 50.0 0 0 - 3 4 75.0 4 5 9 2 1 0 1 5 -10
+p50
+aVJermaine Jackson MIL 04/23/2006 MIL @ DET L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p51
+aVMo Williams MIL 04/23/2006 MIL @ DET L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -9
+p52
+aVBobby Simmons MIL 04/23/2006 MIL @ DET L 33 6 2 8 25.0 2 4 50.0 0 0 - 0 6 6 1 1 0 1 2 -17
+p53
+aVT.J. Ford MIL 04/23/2006 MIL @ DET L 34 8 4 14 28.6 0 1 0.0 0 0 - 2 0 2 3 1 0 3 2 -10
+p54
+aVDan Gadzuric MIL 04/23/2006 MIL @ DET L 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p55
+aVCharlie Bell MIL 04/23/2006 MIL @ DET L 24 13 5 12 41.7 2 6 33.3 1 1 100.0 0 1 1 1 1 1 0 3 -1
+p56
+aVJiri Welsch MIL 04/23/2006 MIL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 1
+p57
+a.

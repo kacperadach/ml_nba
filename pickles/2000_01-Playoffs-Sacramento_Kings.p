@@ -1,0 +1,156 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJason Williams SAC 05/13/2001 SAC vs. LAL L 19 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 3 1 0 3 0 -5
+p2
+aVChris Webber SAC 05/13/2001 SAC vs. LAL L 46 21 8 25 32.0 0 0 - 5 6 83.3 7 4 11 8 0 1 6 5 -5
+p3
+aVScot Pollard SAC 05/13/2001 SAC vs. LAL L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 5 2
+p4
+aVHedo Turkoglu SAC 05/13/2001 SAC vs. LAL L 22 22 8 10 80.0 4 4 100.0 2 2 100.0 1 3 4 3 1 0 0 3 -2
+p5
+aVBobby Jackson SAC 05/13/2001 SAC vs. LAL L 20 4 1 5 20.0 1 3 33.3 1 2 50.0 0 0 0 3 0 0 0 4 -10
+p6
+aVDoug Christie SAC 05/13/2001 SAC vs. LAL L 46 15 5 9 55.6 2 3 66.7 3 3 100.0 1 1 2 4 4 0 1 5 -13
+p7
+aVVlade Divac SAC 05/13/2001 SAC vs. LAL L 32 18 4 9 44.4 0 0 - 10 10 100.0 4 6 10 1 1 4 1 4 6
+p8
+aVPeja Stojakovic SAC 05/13/2001 SAC vs. LAL L 40 26 8 14 57.1 1 3 33.3 9 9 100.0 2 3 5 0 0 0 5 3 8
+p9
+aVLawrence Funderburke SAC 05/13/2001 SAC vs. LAL L 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -11
+p10
+aVPeja Stojakovic SAC 05/11/2001 SAC vs. LAL L 34 14 4 13 30.8 0 4 0.0 6 6 100.0 0 6 6 2 0 0 1 3 -12
+p11
+aVVlade Divac SAC 05/11/2001 SAC vs. LAL L 30 12 5 11 45.5 0 0 - 2 4 50.0 4 8 12 1 1 1 4 4 -5
+p12
+aVJason Williams SAC 05/11/2001 SAC vs. LAL L 21 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 4 1 0 4 0 -3
+p13
+aVJon Barry SAC 05/11/2001 SAC vs. LAL L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 0 1 -11
+p14
+aVBobby Jackson SAC 05/11/2001 SAC vs. LAL L 21 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 0 1 0 0 3 -11
+p15
+aVChris Webber SAC 05/11/2001 SAC vs. LAL L 42 28 13 27 48.1 0 0 - 2 4 50.0 6 8 14 1 0 0 2 4 -22
+p16
+aVHedo Turkoglu SAC 05/11/2001 SAC vs. LAL L 24 9 3 9 33.3 1 4 25.0 2 2 100.0 2 2 4 1 1 0 1 1 -15
+p17
+aVDarrick Martin SAC 05/11/2001 SAC vs. LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p18
+aVLawrence Funderburke SAC 05/11/2001 SAC vs. LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -2
+p19
+aVDoug Christie SAC 05/11/2001 SAC vs. LAL L 34 10 3 12 25.0 0 1 0.0 4 5 80.0 0 3 3 5 3 2 3 6 -16
+p20
+aVScot Pollard SAC 05/11/2001 SAC vs. LAL L 16 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 -11
+p21
+aVScot Pollard SAC 05/08/2001 SAC @ LAL L 21 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 4 13
+p22
+aVDoug Christie SAC 05/08/2001 SAC @ LAL L 33 9 3 13 23.1 0 3 0.0 3 4 75.0 3 3 6 2 4 1 3 5 -23
+p23
+aVHedo Turkoglu SAC 05/08/2001 SAC @ LAL L 17 10 3 5 60.0 2 3 66.7 2 2 100.0 2 2 4 1 1 0 1 5 0
+p24
+aVJason Williams SAC 05/08/2001 SAC @ LAL L 15 2 0 5 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -18
+p25
+aVJon Barry SAC 05/08/2001 SAC @ LAL L 12 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 1 0 0 0 3 12
+p26
+aVChris Webber SAC 05/08/2001 SAC @ LAL L 48 22 9 26 34.6 0 1 0.0 4 4 100.0 5 13 18 3 2 1 5 3 -6
+p27
+aVPeja Stojakovic SAC 05/08/2001 SAC @ LAL L 41 20 7 18 38.9 1 2 50.0 5 5 100.0 1 5 6 0 1 0 1 3 -4
+p28
+aVBobby Jackson SAC 05/08/2001 SAC @ LAL L 33 14 5 9 55.6 0 1 0.0 4 6 66.7 1 4 5 4 4 0 1 3 12
+p29
+aVVlade Divac SAC 05/08/2001 SAC @ LAL L 20 5 2 7 28.6 0 0 - 1 2 50.0 0 2 2 1 1 3 1 1 -16
+p30
+aVJon Barry SAC 05/06/2001 SAC @ LAL L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p31
+aVBobby Jackson SAC 05/06/2001 SAC @ LAL L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 5
+p32
+aVScot Pollard SAC 05/06/2001 SAC @ LAL L 21 9 4 8 50.0 0 0 - 1 1 100.0 6 8 14 0 0 2 0 4 -2
+p33
+aVHedo Turkoglu SAC 05/06/2001 SAC @ LAL L 22 12 5 7 71.4 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -6
+p34
+aVPeja Stojakovic SAC 05/06/2001 SAC @ LAL L 41 20 6 18 33.3 2 5 40.0 6 6 100.0 1 3 4 1 0 1 1 2 2
+p35
+aVJason Williams SAC 05/06/2001 SAC @ LAL L 36 14 5 8 62.5 2 3 66.7 2 2 100.0 0 2 2 4 2 0 6 2 -8
+p36
+aVDoug Christie SAC 05/06/2001 SAC @ LAL L 35 5 2 6 33.3 0 1 0.0 1 1 100.0 1 3 4 3 2 2 0 2 -2
+p37
+aVVlade Divac SAC 05/06/2001 SAC @ LAL L 26 7 3 11 27.3 0 0 - 1 3 33.3 2 5 7 2 1 0 4 6 2
+p38
+aVChris Webber SAC 05/06/2001 SAC @ LAL L 43 34 12 22 54.5 0 0 - 10 14 71.4 1 7 8 3 1 1 3 4 -3
+p39
+aVJason Williams SAC 05/02/2001 SAC @ PHX W 19 7 3 8 37.5 1 4 25.0 0 0 - 0 3 3 2 0 0 3 4 -3
+p40
+aVScot Pollard SAC 05/02/2001 SAC @ PHX W 24 6 1 3 33.3 0 0 - 4 6 66.7 5 8 13 1 0 2 1 3 7
+p41
+aVHedo Turkoglu SAC 05/02/2001 SAC @ PHX W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p42
+aVDoug Christie SAC 05/02/2001 SAC @ PHX W 44 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 0 3 1 3 4 11
+p43
+aVChris Webber SAC 05/02/2001 SAC @ PHX W 44 15 7 27 25.9 0 0 - 1 3 33.3 3 7 10 3 1 2 3 3 11
+p44
+aVJon Barry SAC 05/02/2001 SAC @ PHX W 5 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p45
+aVPeja Stojakovic SAC 05/02/2001 SAC @ PHX W 45 37 10 18 55.6 3 6 50.0 14 14 100.0 4 2 6 0 2 1 3 3 11
+p46
+aVBobby Jackson SAC 05/02/2001 SAC @ PHX W 29 10 3 6 50.0 1 3 33.3 3 4 75.0 1 3 4 5 1 0 1 3 10
+p47
+aVVlade Divac SAC 05/02/2001 SAC @ PHX W 23 10 4 13 30.8 0 1 0.0 2 4 50.0 3 5 8 4 1 0 0 2 -12
+p48
+aVScot Pollard SAC 04/29/2001 SAC @ PHX W 17 10 4 4 100.0 0 0 - 2 3 66.7 3 1 4 0 0 0 2 5 -7
+p49
+aVChris Webber SAC 04/29/2001 SAC @ PHX W 43 23 7 19 36.8 0 0 - 9 11 81.8 1 6 7 0 2 1 4 5 24
+p50
+aVJon Barry SAC 04/29/2001 SAC @ PHX W 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 2 0 0 2 2 7
+p51
+aVHedo Turkoglu SAC 04/29/2001 SAC @ PHX W 13 4 0 4 0.0 0 1 0.0 4 4 100.0 0 4 4 3 0 1 1 1 0
+p52
+aVDoug Christie SAC 04/29/2001 SAC @ PHX W 40 17 5 10 50.0 2 5 40.0 5 8 62.5 0 6 6 4 2 2 4 3 -1
+p53
+aVJason Williams SAC 04/29/2001 SAC @ PHX W 29 14 5 9 55.6 3 4 75.0 1 1 100.0 0 3 3 2 1 0 1 3 7
+p54
+aVPeja Stojakovic SAC 04/29/2001 SAC @ PHX W 37 21 5 15 33.3 0 2 0.0 11 12 91.7 4 4 8 0 0 1 3 1 8
+p55
+aVVlade Divac SAC 04/29/2001 SAC @ PHX W 34 11 4 12 33.3 1 1 100.0 2 2 100.0 3 9 12 3 1 2 3 3 1
+p56
+aVBobby Jackson SAC 04/29/2001 SAC @ PHX W 19 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 2 1 0 2 3 1
+p57
+aVJason Williams SAC 04/25/2001 SAC vs. PHX W 24 18 7 11 63.6 2 4 50.0 2 2 100.0 0 2 2 3 1 0 1 2 12
+p58
+aVJon Barry SAC 04/25/2001 SAC vs. PHX W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p59
+aVHedo Turkoglu SAC 04/25/2001 SAC vs. PHX W 22 3 1 5 20.0 1 1 100.0 0 0 - 1 5 6 3 0 0 2 3 9
+p60
+aVDoug Christie SAC 04/25/2001 SAC vs. PHX W 29 12 4 8 50.0 0 1 0.0 4 4 100.0 1 3 4 3 0 0 1 3 24
+p61
+aVChris Webber SAC 04/25/2001 SAC vs. PHX W 39 16 8 18 44.4 0 0 - 0 2 0.0 1 8 9 5 3 2 1 1 30
+p62
+aVLawrence Funderburke SAC 04/25/2001 SAC vs. PHX W 9 5 2 4 50.0 0 0 - 1 1 100.0 3 0 3 0 1 2 1 0 -4
+p63
+aVBobby Jackson SAC 04/25/2001 SAC vs. PHX W 28 16 6 7 85.7 2 3 66.7 2 2 100.0 2 7 9 2 0 0 2 2 12
+p64
+aVPeja Stojakovic SAC 04/25/2001 SAC vs. PHX W 32 22 7 15 46.7 1 3 33.3 7 8 87.5 2 4 6 0 0 0 2 1 23
+p65
+aVVlade Divac SAC 04/25/2001 SAC vs. PHX W 25 10 3 6 50.0 0 1 0.0 4 4 100.0 1 7 8 3 0 2 4 3 22
+p66
+aVScot Pollard SAC 04/25/2001 SAC vs. PHX W 17 11 5 7 71.4 0 0 - 1 2 50.0 3 5 8 1 1 0 0 4 7
+p67
+aVDarrick Martin SAC 04/25/2001 SAC vs. PHX W 6 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 -3
+p68
+aVBobby Jackson SAC 04/22/2001 SAC vs. PHX L 20 6 3 8 37.5 0 1 0.0 0 0 - 2 1 3 1 1 0 1 0 -2
+p69
+aVHedo Turkoglu SAC 04/22/2001 SAC vs. PHX L 13 0 0 5 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 9
+p70
+aVPeja Stojakovic SAC 04/22/2001 SAC vs. PHX L 38 13 5 17 29.4 1 1 100.0 2 2 100.0 3 7 10 0 2 0 2 1 -6
+p71
+aVJason Williams SAC 04/22/2001 SAC vs. PHX L 28 10 4 9 44.4 2 6 33.3 0 0 - 0 3 3 5 2 0 3 2 -1
+p72
+aVDoug Christie SAC 04/22/2001 SAC vs. PHX L 43 7 2 6 33.3 1 2 50.0 2 2 100.0 1 7 8 5 2 1 4 3 -4
+p73
+aVScot Pollard SAC 04/22/2001 SAC vs. PHX L 15 7 3 4 75.0 0 0 - 1 3 33.3 2 2 4 0 0 1 0 2 2
+p74
+aVJon Barry SAC 04/22/2001 SAC vs. PHX L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p75
+aVChris Webber SAC 04/22/2001 SAC vs. PHX L 43 27 12 32 37.5 0 0 - 3 5 60.0 10 5 15 2 0 0 7 4 -6
+p76
+aVVlade Divac SAC 04/22/2001 SAC vs. PHX L 35 13 3 11 27.3 0 0 - 7 9 77.8 3 5 8 4 2 0 1 2 -8
+p77
+a.

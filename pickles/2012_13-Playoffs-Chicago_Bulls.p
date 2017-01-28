@@ -1,0 +1,234 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRichard Hamilton CHI 05/15/2013 CHI @ MIA L 35 15 6 12 50.0 1 4 25.0 2 2 100.0 0 2 2 1 0 2 3 4 12
+p2
+aVMarco Belinelli CHI 05/15/2013 CHI @ MIA L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -17
+p3
+aVJimmy Butler CHI 05/15/2013 CHI @ MIA L 48 19 7 15 46.7 2 6 33.3 3 3 100.0 1 4 5 4 3 0 2 2 -3
+p4
+aVJoakim Noah CHI 05/15/2013 CHI @ MIA L 42 3 1 5 20.0 0 0 - 1 2 50.0 1 8 9 2 0 1 3 3 -6
+p5
+aVNazr Mohammed CHI 05/15/2013 CHI @ MIA L 4 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 5
+p6
+aVNate Robinson CHI 05/15/2013 CHI @ MIA L 47 21 6 15 40.0 4 7 57.1 5 6 83.3 3 2 5 6 0 0 4 4 -1
+p7
+aVCarlos Boozer CHI 05/15/2013 CHI @ MIA L 42 26 10 19 52.6 0 0 - 6 11 54.5 9 5 14 1 2 1 1 2 -3
+p8
+aVTaj Gibson CHI 05/15/2013 CHI @ MIA L 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -2
+p9
+aVCarlos Boozer CHI 05/13/2013 CHI vs. MIA L 32 14 3 14 21.4 0 0 - 8 12 66.7 5 7 12 1 3 0 2 0 -16
+p10
+aVJimmy Butler CHI 05/13/2013 CHI vs. MIA L 46 12 4 10 40.0 0 2 0.0 4 4 100.0 1 4 5 0 1 0 3 2 -23
+p11
+aVMalcolm Thomas CHI 05/13/2013 CHI vs. MIA L 2 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 0
+p12
+aVNazr Mohammed CHI 05/13/2013 CHI vs. MIA L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -1
+p13
+aVTaj Gibson CHI 05/13/2013 CHI vs. MIA L 21 10 3 8 37.5 0 1 0.0 4 5 80.0 5 4 9 0 2 1 1 3 -7
+p14
+aVDaequan Cook CHI 05/13/2013 CHI vs. MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p15
+aVJoakim Noah CHI 05/13/2013 CHI vs. MIA L 37 6 1 6 16.7 0 0 - 4 4 100.0 6 3 9 0 1 0 3 3 -22
+p16
+aVRichard Hamilton CHI 05/13/2013 CHI vs. MIA L 22 11 4 11 36.4 2 3 66.7 1 2 50.0 0 0 0 4 1 0 1 1 -2
+p17
+aVMarco Belinelli CHI 05/13/2013 CHI vs. MIA L 26 9 3 8 37.5 0 5 0.0 3 3 100.0 0 3 3 0 0 0 2 3 -21
+p18
+aVMarquis Teague CHI 05/13/2013 CHI vs. MIA L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 3 -14
+p19
+aVNate Robinson CHI 05/13/2013 CHI vs. MIA L 32 0 0 12 0.0 0 5 0.0 0 0 - 0 3 3 4 2 1 4 3 -9
+p20
+aVTaj Gibson CHI 05/10/2013 CHI vs. MIA L 22 6 2 9 22.2 0 1 0.0 2 3 66.7 2 3 5 0 0 1 0 3 -8
+p21
+aVMarquis Teague CHI 05/10/2013 CHI vs. MIA L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -4
+p22
+aVJoakim Noah CHI 05/10/2013 CHI vs. MIA L 42 15 6 12 50.0 0 0 - 3 5 60.0 7 4 11 4 2 2 0 6 -14
+p23
+aVCarlos Boozer CHI 05/10/2013 CHI vs. MIA L 29 21 10 16 62.5 0 1 0.0 1 2 50.0 1 3 4 0 0 0 3 4 -1
+p24
+aVNazr Mohammed CHI 05/10/2013 CHI vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p25
+aVJimmy Butler CHI 05/10/2013 CHI vs. MIA L 48 17 6 12 50.0 2 3 66.7 3 3 100.0 0 5 5 3 3 0 2 5 -10
+p26
+aVMarco Belinelli CHI 05/10/2013 CHI vs. MIA L 43 16 5 13 38.5 4 9 44.4 2 4 50.0 0 3 3 6 0 0 3 6 -3
+p27
+aVNate Robinson CHI 05/10/2013 CHI vs. MIA L 42 17 5 13 38.5 1 7 14.3 6 8 75.0 1 5 6 7 2 1 3 3 -13
+p28
+aVDaequan Cook CHI 05/08/2013 CHI @ MIA L 23 0 0 6 0.0 0 6 0.0 0 0 - 0 2 2 1 1 0 2 5 -20
+p29
+aVJimmy Butler CHI 05/08/2013 CHI @ MIA L 31 9 3 8 37.5 2 4 50.0 1 1 100.0 0 3 3 1 1 0 2 3 -25
+p30
+aVNate Robinson CHI 05/08/2013 CHI @ MIA L 33 11 3 10 30.0 2 5 40.0 3 6 50.0 2 1 3 2 0 0 4 3 -24
+p31
+aVVladimir Radmanovic CHI 05/08/2013 CHI @ MIA L 10 9 3 3 100.0 3 3 100.0 0 0 - 0 0 0 1 2 0 1 1 4
+p32
+aVMalcolm Thomas CHI 05/08/2013 CHI @ MIA L 3 2 1 1 100.0 0 0 - 0 3 0.0 2 0 2 0 0 0 0 0 -3
+p33
+aVTaj Gibson CHI 05/08/2013 CHI @ MIA L 14 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 1 0 1 1 -17
+p34
+aVCarlos Boozer CHI 05/08/2013 CHI @ MIA L 24 8 3 9 33.3 0 0 - 2 2 100.0 1 3 4 1 0 0 2 3 -24
+p35
+aVMarco Belinelli CHI 05/08/2013 CHI @ MIA L 39 13 4 13 30.8 2 5 40.0 3 3 100.0 0 2 2 6 1 0 1 4 -26
+p36
+aVNazr Mohammed CHI 05/08/2013 CHI @ MIA L 16 6 3 10 30.0 0 0 - 0 0 - 3 0 3 0 1 0 1 3 -11
+p37
+aVJoakim Noah CHI 05/08/2013 CHI @ MIA L 32 12 3 7 42.9 0 0 - 6 6 100.0 2 4 6 2 1 0 2 3 -26
+p38
+aVMarquis Teague CHI 05/08/2013 CHI @ MIA L 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -13
+p39
+aVMarco Belinelli CHI 05/06/2013 CHI @ MIA W 46 10 3 10 30.0 2 6 33.3 2 2 100.0 0 7 7 1 0 0 2 2 14
+p40
+aVJimmy Butler CHI 05/06/2013 CHI @ MIA W 48 21 5 13 38.5 2 4 50.0 9 10 90.0 2 12 14 3 0 1 2 3 7
+p41
+aVNazr Mohammed CHI 05/06/2013 CHI @ MIA W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p42
+aVCarlos Boozer CHI 05/06/2013 CHI @ MIA W 25 6 3 11 27.3 0 0 - 0 0 - 0 7 7 1 1 0 3 2 -5
+p43
+aVTaj Gibson CHI 05/06/2013 CHI @ MIA W 25 12 5 9 55.6 0 0 - 2 4 50.0 2 2 4 1 0 1 0 1 9
+p44
+aVDaequan Cook CHI 05/06/2013 CHI @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -7
+p45
+aVMarquis Teague CHI 05/06/2013 CHI @ MIA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p46
+aVJoakim Noah CHI 05/06/2013 CHI @ MIA W 39 13 5 9 55.6 0 0 - 3 3 100.0 5 6 11 4 2 1 3 5 11
+p47
+aVNate Robinson CHI 05/06/2013 CHI @ MIA W 40 27 8 16 50.0 3 8 37.5 8 10 80.0 0 3 3 9 1 0 3 5 10
+p48
+aVCarlos Boozer CHI 05/04/2013 CHI @ BKN W 29 17 6 13 46.2 0 0 - 5 6 83.3 3 4 7 1 1 0 2 5 2
+p49
+aVDaequan Cook CHI 05/04/2013 CHI @ BKN W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 3 0 0 0 0 10
+p50
+aVJimmy Butler CHI 05/04/2013 CHI @ BKN W 48 9 3 10 30.0 1 4 25.0 2 2 100.0 1 4 5 4 0 0 1 1 6
+p51
+aVJoakim Noah CHI 05/04/2013 CHI @ BKN W 41 24 12 17 70.6 0 0 - 0 0 - 7 7 14 2 1 6 1 2 4
+p52
+aVMarco Belinelli CHI 05/04/2013 CHI @ BKN W 41 24 8 14 57.1 3 6 50.0 5 5 100.0 0 6 6 2 1 0 0 2 -5
+p53
+aVNazr Mohammed CHI 05/04/2013 CHI @ BKN W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p54
+aVNate Robinson CHI 05/04/2013 CHI @ BKN W 33 12 5 14 35.7 2 7 28.6 0 0 - 0 4 4 4 2 0 2 1 3
+p55
+aVMarquis Teague CHI 05/04/2013 CHI @ BKN W 14 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 3 1 1 0 1 4
+p56
+aVTaj Gibson CHI 05/04/2013 CHI @ BKN W 20 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 6
+p57
+aVMarco Belinelli CHI 05/02/2013 CHI vs. BKN L 46 22 8 21 38.1 3 9 33.3 3 3 100.0 0 5 5 7 1 0 2 3 -1
+p58
+aVJoakim Noah CHI 05/02/2013 CHI vs. BKN L 43 14 7 16 43.8 0 0 - 0 3 0.0 9 6 15 5 1 5 4 3 -3
+p59
+aVTaj Gibson CHI 05/02/2013 CHI vs. BKN L 18 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 1 2 6 1
+p60
+aVMarquis Teague CHI 05/02/2013 CHI vs. BKN L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -1
+p61
+aVNazr Mohammed CHI 05/02/2013 CHI vs. BKN L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p62
+aVRichard Hamilton CHI 05/02/2013 CHI vs. BKN L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p63
+aVNate Robinson CHI 05/02/2013 CHI vs. BKN L 42 18 7 15 46.7 3 5 60.0 1 1 100.0 0 2 2 4 0 0 3 4 2
+p64
+aVJimmy Butler CHI 05/02/2013 CHI vs. BKN L 48 17 4 13 30.8 1 3 33.3 8 9 88.9 2 5 7 6 1 1 1 3 -3
+p65
+aVCarlos Boozer CHI 05/02/2013 CHI vs. BKN L 33 14 7 15 46.7 0 0 - 0 0 - 4 9 13 0 0 0 4 6 -2
+p66
+aVNazr Mohammed CHI 04/29/2013 CHI @ BKN L 13 6 2 6 33.3 0 0 - 2 2 100.0 3 1 4 0 0 2 1 3 0
+p67
+aVDaequan Cook CHI 04/29/2013 CHI @ BKN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p68
+aVMalcolm Thomas CHI 04/29/2013 CHI @ BKN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p69
+aVMarquis Teague CHI 04/29/2013 CHI @ BKN L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p70
+aVTaj Gibson CHI 04/29/2013 CHI @ BKN L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 2 0
+p71
+aVLuol Deng CHI 04/29/2013 CHI @ BKN L 43 12 6 14 42.9 0 3 0.0 0 0 - 0 8 8 3 2 0 2 1 -11
+p72
+aVJimmy Butler CHI 04/29/2013 CHI @ BKN L 32 18 5 9 55.6 3 4 75.0 5 8 62.5 1 1 2 3 4 0 0 1 -17
+p73
+aVJoakim Noah CHI 04/29/2013 CHI @ BKN L 28 11 4 8 50.0 0 0 - 3 4 75.0 2 2 4 1 1 2 1 3 -23
+p74
+aVMarco Belinelli CHI 04/29/2013 CHI @ BKN L 21 8 4 5 80.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -5
+p75
+aVCarlos Boozer CHI 04/29/2013 CHI @ BKN L 41 10 4 8 50.0 0 0 - 2 2 100.0 5 5 10 2 0 0 3 3 -12
+p76
+aVNate Robinson CHI 04/29/2013 CHI @ BKN L 44 20 9 19 47.4 1 5 20.0 1 2 50.0 0 1 1 8 1 0 3 4 -15
+p77
+aVJoakim Noah CHI 04/27/2013 CHI vs. BKN W 39 15 7 18 38.9 0 0 - 1 4 25.0 5 8 13 2 0 4 1 6 11
+p78
+aVTaj Gibson CHI 04/27/2013 CHI vs. BKN W 18 10 3 5 60.0 0 0 - 4 4 100.0 0 0 0 1 1 0 1 6 -11
+p79
+aVNazr Mohammed CHI 04/27/2013 CHI vs. BKN W 19 9 4 7 57.1 0 0 - 1 3 33.3 2 4 6 1 0 1 0 3 -5
+p80
+aVKirk Hinrich CHI 04/27/2013 CHI vs. BKN W 60 18 7 12 58.3 2 4 50.0 2 3 66.7 0 4 4 14 3 1 4 5 12
+p81
+aVLuol Deng CHI 04/27/2013 CHI vs. BKN W 57 15 7 19 36.8 0 5 0.0 1 1 100.0 1 7 8 6 0 0 4 4 8
+p82
+aVCarlos Boozer CHI 04/27/2013 CHI vs. BKN W 50 21 10 16 62.5 0 0 - 1 2 50.0 1 7 8 2 1 0 1 5 18
+p83
+aVMarco Belinelli CHI 04/27/2013 CHI vs. BKN W 4 4 0 1 0.0 0 1 0.0 4 4 100.0 0 1 1 1 0 0 0 0 3
+p84
+aVNate Robinson CHI 04/27/2013 CHI vs. BKN W 29 34 14 23 60.9 3 7 42.9 3 3 100.0 0 1 1 4 2 0 2 6 19
+p85
+aVJimmy Butler CHI 04/27/2013 CHI vs. BKN W 40 16 6 8 75.0 1 2 50.0 3 5 60.0 0 5 5 3 1 1 1 0 -15
+p86
+aVKirk Hinrich CHI 04/25/2013 CHI vs. BKN W 40 12 5 12 41.7 0 3 0.0 2 2 100.0 0 2 2 2 2 0 2 3 8
+p87
+aVNate Robinson CHI 04/25/2013 CHI vs. BKN W 16 7 2 3 66.7 1 2 50.0 2 3 66.7 0 1 1 2 0 0 0 1 3
+p88
+aVMarco Belinelli CHI 04/25/2013 CHI vs. BKN W 12 3 1 4 25.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 1 -1
+p89
+aVNazr Mohammed CHI 04/25/2013 CHI vs. BKN W 16 5 2 3 66.7 0 0 - 1 2 50.0 2 4 6 2 0 0 1 1 15
+p90
+aVLuol Deng CHI 04/25/2013 CHI vs. BKN W 44 21 9 23 39.1 1 6 16.7 2 3 66.7 2 8 10 3 2 0 3 2 1
+p91
+aVJoakim Noah CHI 04/25/2013 CHI vs. BKN W 27 1 0 7 0.0 0 0 - 1 2 50.0 3 5 8 2 0 2 2 2 -13
+p92
+aVCarlos Boozer CHI 04/25/2013 CHI vs. BKN W 40 22 9 15 60.0 0 0 - 4 5 80.0 1 15 16 3 1 0 4 2 6
+p93
+aVTaj Gibson CHI 04/25/2013 CHI vs. BKN W 12 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p94
+aVMarquis Teague CHI 04/25/2013 CHI vs. BKN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p95
+aVJimmy Butler CHI 04/25/2013 CHI vs. BKN W 32 4 1 5 20.0 1 3 33.3 1 2 50.0 1 3 4 1 1 0 0 3 2
+p96
+aVDaequan Cook CHI 04/25/2013 CHI vs. BKN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p97
+aVCarlos Boozer CHI 04/22/2013 CHI @ BKN W 42 13 6 12 50.0 0 0 - 1 1 100.0 2 10 12 2 0 0 2 2 9
+p98
+aVLuol Deng CHI 04/22/2013 CHI @ BKN W 42 15 7 17 41.2 0 2 0.0 1 3 33.3 2 8 10 4 1 2 2 2 9
+p99
+aVKirk Hinrich CHI 04/22/2013 CHI @ BKN W 35 13 4 10 40.0 2 3 66.7 3 6 50.0 1 2 3 5 2 0 1 4 10
+p100
+aVTaj Gibson CHI 04/22/2013 CHI @ BKN W 11 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 -6
+p101
+aVJimmy Butler CHI 04/22/2013 CHI @ BKN W 30 5 1 4 25.0 0 2 0.0 3 5 60.0 0 4 4 2 0 2 2 2 6
+p102
+aVNazr Mohammed CHI 04/22/2013 CHI @ BKN W 18 8 4 5 80.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 5
+p103
+aVJoakim Noah CHI 04/22/2013 CHI @ BKN W 25 11 4 8 50.0 0 0 - 3 6 50.0 4 6 10 3 0 2 4 5 7
+p104
+aVNate Robinson CHI 04/22/2013 CHI @ BKN W 26 11 4 11 36.4 1 3 33.3 2 2 100.0 0 1 1 2 2 0 1 2 5
+p105
+aVMarco Belinelli CHI 04/22/2013 CHI @ BKN W 11 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 2 1 0 1 1 -5
+p106
+aVMarco Belinelli CHI 04/20/2013 CHI @ BKN L 20 13 3 8 37.5 1 1 100.0 6 7 85.7 0 3 3 2 1 0 1 1 -3
+p107
+aVJimmy Butler CHI 04/20/2013 CHI @ BKN L 39 13 5 8 62.5 0 0 - 3 3 100.0 0 3 3 2 0 1 0 1 -18
+p108
+aVJoakim Noah CHI 04/20/2013 CHI @ BKN L 13 4 2 6 33.3 0 0 - 0 0 - 1 4 5 1 1 1 0 2 -4
+p109
+aVCarlos Boozer CHI 04/20/2013 CHI @ BKN L 45 25 12 20 60.0 0 0 - 1 2 50.0 3 5 8 4 1 0 2 2 -18
+p110
+aVTaj Gibson CHI 04/20/2013 CHI @ BKN L 23 9 3 5 60.0 0 0 - 3 4 75.0 3 4 7 0 0 1 0 4 0
+p111
+aVNate Robinson CHI 04/20/2013 CHI @ BKN L 20 17 8 12 66.7 1 4 25.0 0 0 - 0 2 2 1 0 0 3 2 2
+p112
+aVKirk Hinrich CHI 04/20/2013 CHI @ BKN L 28 2 0 3 0.0 0 1 0.0 2 3 66.7 0 2 2 2 1 0 1 2 -19
+p113
+aVNazr Mohammed CHI 04/20/2013 CHI @ BKN L 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 0 -2
+p114
+aVRichard Hamilton CHI 04/20/2013 CHI @ BKN L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p115
+aVLuol Deng CHI 04/20/2013 CHI @ BKN L 38 6 3 11 27.3 0 2 0.0 0 3 0.0 0 2 2 3 0 1 1 3 -16
+p116
+a.

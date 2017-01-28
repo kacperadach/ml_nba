@@ -1,0 +1,1764 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJim Jackson DAL 04/24/1993 DAL @ HOU W 35 23 10 20 50.0 0 1 0.0 3 4 75.0 3 1 4 5 1 0 4 3 -
+p2
+aVBrian Howard DAL 04/24/1993 DAL @ HOU W 30 11 5 7 71.4 1 1 100.0 0 0 - 2 4 6 2 6 0 3 5 -
+p3
+aVTim Legler DAL 04/24/1993 DAL @ HOU W 21 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 1 1 0 1 2 -
+p4
+aVMorlon Wiley DAL 04/24/1993 DAL @ HOU W 10 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 1 0 0 0 1 -
+p5
+aVTerry Davis DAL 04/24/1993 DAL @ HOU W 40 20 6 18 33.3 1 4 25.0 7 8 87.5 2 8 10 0 2 0 3 3 -
+p6
+aVDexter Cambridge DAL 04/24/1993 DAL @ HOU W 32 12 5 7 71.4 0 0 - 2 4 50.0 3 4 7 2 0 0 2 4 -
+p7
+aVWalter Bond DAL 04/24/1993 DAL @ HOU W 20 10 4 8 50.0 0 0 - 2 2 100.0 2 4 6 2 1 0 2 1 -
+p8
+aVDerek Harper DAL 04/24/1993 DAL @ HOU W 25 18 7 15 46.7 2 4 50.0 2 2 100.0 2 0 2 2 1 0 0 0 -
+p9
+aVMike Iuzzolino DAL 04/24/1993 DAL @ HOU W 27 19 6 8 75.0 3 5 60.0 4 4 100.0 0 0 0 6 2 0 1 3 -
+p10
+aVBrian Howard DAL 04/23/1993 DAL vs. MIN W 34 11 3 7 42.9 0 1 0.0 5 7 71.4 1 7 8 3 2 0 3 3 -
+p11
+aVDexter Cambridge DAL 04/23/1993 DAL vs. MIN W 15 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 1 1 0 1 -
+p12
+aVMorlon Wiley DAL 04/23/1993 DAL vs. MIN W 18 0 0 3 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 1 -
+p13
+aVDonald Hodge DAL 04/23/1993 DAL vs. MIN W 15 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 3 -
+p14
+aVDerek Harper DAL 04/23/1993 DAL vs. MIN W 30 13 3 9 33.3 1 4 25.0 6 8 75.0 0 2 2 6 1 1 6 4 -
+p15
+aVSean Rooks DAL 04/23/1993 DAL vs. MIN W 33 16 6 10 60.0 0 0 - 4 5 80.0 4 7 11 2 0 2 0 3 -
+p16
+aVJim Jackson DAL 04/23/1993 DAL vs. MIN W 35 32 11 21 52.4 0 1 0.0 10 13 76.9 0 4 4 3 2 1 7 4 -
+p17
+aVTim Legler DAL 04/23/1993 DAL vs. MIN W 24 11 4 10 40.0 0 2 0.0 3 5 60.0 1 0 1 0 0 0 2 0 -
+p18
+aVTerry Davis DAL 04/23/1993 DAL vs. MIN W 36 6 2 4 50.0 0 0 - 2 5 40.0 3 11 14 1 1 0 2 5 -
+p19
+aVDerek Harper DAL 04/21/1993 DAL @ DEN L 27 21 9 14 64.3 2 3 66.7 1 2 50.0 0 1 1 1 0 1 3 2 -
+p20
+aVMorlon Wiley DAL 04/21/1993 DAL @ DEN L 23 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 -
+p21
+aVDexter Cambridge DAL 04/21/1993 DAL @ DEN L 20 10 5 9 55.6 0 0 - 0 0 - 1 0 1 2 1 1 3 2 -
+p22
+aVMike Iuzzolino DAL 04/21/1993 DAL @ DEN L 12 10 5 9 55.6 0 1 0.0 0 0 - 1 0 1 1 0 0 2 1 -
+p23
+aVTim Legler DAL 04/21/1993 DAL @ DEN L 27 20 5 10 50.0 0 0 - 10 12 83.3 2 1 3 4 1 0 1 2 -
+p24
+aVJim Jackson DAL 04/21/1993 DAL @ DEN L 35 29 13 26 50.0 0 1 0.0 3 4 75.0 1 7 8 0 2 0 4 1 -
+p25
+aVWalter Bond DAL 04/21/1993 DAL @ DEN L 16 5 1 4 25.0 0 0 - 3 4 75.0 0 1 1 2 1 2 0 1 -
+p26
+aVTerry Davis DAL 04/21/1993 DAL @ DEN L 30 6 3 7 42.9 0 0 - 0 0 - 1 9 10 1 0 0 0 0 -
+p27
+aVBrian Howard DAL 04/21/1993 DAL @ DEN L 24 6 1 5 20.0 0 0 - 4 4 100.0 2 3 5 2 2 0 0 4 -
+p28
+aVDonald Hodge DAL 04/21/1993 DAL @ DEN L 26 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 4 0 3 1 5 -
+p29
+aVDonald Hodge DAL 04/20/1993 DAL vs. LAC L 16 0 0 4 0.0 0 0 - 0 0 - 2 4 6 2 0 2 1 0 -
+p30
+aVDerek Harper DAL 04/20/1993 DAL vs. LAC L 39 12 4 16 25.0 0 5 0.0 4 4 100.0 0 0 0 4 1 0 6 1 -
+p31
+aVMike Iuzzolino DAL 04/20/1993 DAL vs. LAC L 15 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 2 -
+p32
+aVMorlon Wiley DAL 04/20/1993 DAL vs. LAC L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -
+p33
+aVTim Legler DAL 04/20/1993 DAL vs. LAC L 26 17 6 12 50.0 0 2 0.0 5 6 83.3 2 2 4 3 3 0 1 3 -
+p34
+aVSean Rooks DAL 04/20/1993 DAL vs. LAC L 20 10 4 8 50.0 0 0 - 2 3 66.7 3 5 8 1 0 2 0 3 -
+p35
+aVRandy White DAL 04/20/1993 DAL vs. LAC L 22 7 3 8 37.5 0 0 - 1 1 100.0 3 5 8 2 2 1 3 4 -
+p36
+aVTerry Davis DAL 04/20/1993 DAL vs. LAC L 36 8 4 11 36.4 0 0 - 0 0 - 9 10 19 3 0 0 0 4 -
+p37
+aVBrian Howard DAL 04/20/1993 DAL vs. LAC L 24 12 6 12 50.0 0 0 - 0 0 - 1 3 4 2 0 2 0 3 -
+p38
+aVJim Jackson DAL 04/20/1993 DAL vs. LAC L 34 21 7 19 36.8 0 3 0.0 7 10 70.0 2 7 9 3 3 1 4 2 -
+p39
+aVBrian Howard DAL 04/17/1993 DAL vs. SAC L 24 4 2 6 33.3 0 0 - 0 0 - 0 5 5 0 0 1 1 2 -
+p40
+aVDonald Hodge DAL 04/17/1993 DAL vs. SAC L 17 12 6 8 75.0 0 0 - 0 0 - 1 5 6 3 0 0 0 1 -
+p41
+aVDexter Cambridge DAL 04/17/1993 DAL vs. SAC L 6 3 1 6 16.7 0 0 - 1 2 50.0 4 0 4 2 0 0 0 0 -
+p42
+aVTim Legler DAL 04/17/1993 DAL vs. SAC L 28 11 5 12 41.7 1 3 33.3 0 0 - 1 0 1 2 0 0 0 3 -
+p43
+aVJim Jackson DAL 04/17/1993 DAL vs. SAC L 38 21 9 20 45.0 2 5 40.0 1 2 50.0 1 4 5 6 2 2 5 3 -
+p44
+aVTerry Davis DAL 04/17/1993 DAL vs. SAC L 33 10 3 11 27.3 0 0 - 4 6 66.7 5 6 11 0 1 0 2 3 -
+p45
+aVSean Rooks DAL 04/17/1993 DAL vs. SAC L 36 19 8 16 50.0 0 0 - 3 5 60.0 3 8 11 3 1 1 2 4 -
+p46
+aVDerek Harper DAL 04/17/1993 DAL vs. SAC L 40 23 7 18 38.9 3 6 50.0 6 8 75.0 4 1 5 9 1 0 1 2 -
+p47
+aVRandy White DAL 04/17/1993 DAL vs. SAC L 29 4 2 7 28.6 0 0 - 0 0 - 3 4 7 0 0 0 1 3 -
+p48
+aVMorlon Wiley DAL 04/17/1993 DAL vs. SAC L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 1 6 -
+p49
+aVDerek Harper DAL 04/16/1993 DAL vs. DEN W 35 17 5 13 38.5 2 2 100.0 5 5 100.0 0 0 0 5 2 1 2 1 -
+p50
+aVDexter Cambridge DAL 04/16/1993 DAL vs. DEN W 3 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -
+p51
+aVDonald Hodge DAL 04/16/1993 DAL vs. DEN W 15 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 0 1 1 0 3 -
+p52
+aVJim Jackson DAL 04/16/1993 DAL vs. DEN W 37 20 7 16 43.8 0 3 0.0 6 7 85.7 2 2 4 6 1 0 6 4 -
+p53
+aVSean Rooks DAL 04/16/1993 DAL vs. DEN W 33 14 5 9 55.6 0 0 - 4 6 66.7 4 10 14 0 0 4 4 4 -
+p54
+aVMorlon Wiley DAL 04/16/1993 DAL vs. DEN W 19 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 4 2 0 1 3 -
+p55
+aVRandy White DAL 04/16/1993 DAL vs. DEN W 29 10 4 10 40.0 0 2 0.0 2 5 40.0 3 4 7 0 1 0 2 3 -
+p56
+aVTerry Davis DAL 04/16/1993 DAL vs. DEN W 26 10 4 9 44.4 0 0 - 2 2 100.0 2 5 7 0 1 0 0 3 -
+p57
+aVBrian Howard DAL 04/16/1993 DAL vs. DEN W 21 11 4 6 66.7 0 0 - 3 4 75.0 0 3 3 0 2 0 1 4 -
+p58
+aVTim Legler DAL 04/16/1993 DAL vs. DEN W 22 9 3 10 30.0 0 1 0.0 3 3 100.0 1 3 4 0 2 1 1 1 -
+p59
+aVMorlon Wiley DAL 04/14/1993 DAL vs. LAL L 14 1 0 3 0.0 0 3 0.0 1 2 50.0 1 1 2 3 1 0 0 2 -
+p60
+aVTerry Davis DAL 04/14/1993 DAL vs. LAL L 34 14 6 14 42.9 0 0 - 2 3 66.7 3 3 6 1 1 0 2 2 -
+p61
+aVJim Jackson DAL 04/14/1993 DAL vs. LAL L 36 20 7 19 36.8 2 4 50.0 4 4 100.0 1 1 2 6 2 0 1 1 -
+p62
+aVDonald Hodge DAL 04/14/1993 DAL vs. LAL L 13 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 1 4 -
+p63
+aVTim Legler DAL 04/14/1993 DAL vs. LAL L 14 5 2 8 25.0 0 2 0.0 1 1 100.0 1 2 3 0 0 0 1 1 -
+p64
+aVSean Rooks DAL 04/14/1993 DAL vs. LAL L 35 13 4 11 36.4 0 0 - 5 6 83.3 9 9 18 2 0 1 4 1 -
+p65
+aVRandy White DAL 04/14/1993 DAL vs. LAL L 33 20 10 19 52.6 0 2 0.0 0 0 - 3 8 11 0 1 2 4 4 -
+p66
+aVDerek Harper DAL 04/14/1993 DAL vs. LAL L 35 10 3 8 37.5 1 5 20.0 3 4 75.0 1 1 2 8 3 0 2 2 -
+p67
+aVBrian Howard DAL 04/14/1993 DAL vs. LAL L 26 14 7 13 53.8 0 0 - 0 0 - 4 2 6 2 0 0 0 2 -
+p68
+aVTim Legler DAL 04/12/1993 DAL @ UTH L 22 7 3 9 33.3 0 1 0.0 1 1 100.0 0 0 0 5 2 0 0 2 -
+p69
+aVBrian Howard DAL 04/12/1993 DAL @ UTH L 30 10 4 6 66.7 0 1 0.0 2 4 50.0 2 5 7 2 0 0 1 2 -
+p70
+aVTerry Davis DAL 04/12/1993 DAL @ UTH L 37 10 5 9 55.6 0 0 - 0 2 0.0 6 5 11 0 0 0 3 6 -
+p71
+aVJim Jackson DAL 04/12/1993 DAL @ UTH L 32 15 5 16 31.3 3 6 50.0 2 2 100.0 1 6 7 3 1 1 2 2 -
+p72
+aVSean Rooks DAL 04/12/1993 DAL @ UTH L 37 20 9 17 52.9 0 0 - 2 5 40.0 5 3 8 0 1 4 2 3 -
+p73
+aVWalter Bond DAL 04/12/1993 DAL @ UTH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p74
+aVMorlon Wiley DAL 04/12/1993 DAL @ UTH L 19 10 4 8 50.0 2 6 33.3 0 0 - 0 3 3 1 0 0 1 2 -
+p75
+aVDerek Harper DAL 04/12/1993 DAL @ UTH L 31 13 6 16 37.5 0 5 0.0 1 1 100.0 0 2 2 5 0 0 2 1 -
+p76
+aVDexter Cambridge DAL 04/12/1993 DAL @ UTH L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p77
+aVRandy White DAL 04/12/1993 DAL @ UTH L 12 2 1 5 20.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -
+p78
+aVDonald Hodge DAL 04/12/1993 DAL @ UTH L 11 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 -
+p79
+aVTim Legler DAL 04/10/1993 DAL @ GOS L 21 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 0 0 0 2 1 -
+p80
+aVRandy White DAL 04/10/1993 DAL @ GOS L 10 4 1 3 33.3 0 2 0.0 2 2 100.0 0 2 2 0 1 0 2 2 -
+p81
+aVJim Jackson DAL 04/10/1993 DAL @ GOS L 40 17 8 23 34.8 1 5 20.0 0 0 - 1 2 3 6 3 0 3 5 -
+p82
+aVTerry Davis DAL 04/10/1993 DAL @ GOS L 37 22 9 17 52.9 0 0 - 4 6 66.7 6 13 19 0 0 0 2 3 -
+p83
+aVSean Rooks DAL 04/10/1993 DAL @ GOS L 36 18 5 11 45.5 0 0 - 8 11 72.7 4 6 10 4 1 1 1 2 -
+p84
+aVBrian Howard DAL 04/10/1993 DAL @ GOS L 14 2 1 7 14.3 0 1 0.0 0 0 - 3 1 4 1 0 1 0 5 -
+p85
+aVDonald Hodge DAL 04/10/1993 DAL @ GOS L 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p86
+aVMorlon Wiley DAL 04/10/1993 DAL @ GOS L 14 6 2 6 33.3 2 5 40.0 0 0 - 1 2 3 5 1 0 0 2 -
+p87
+aVDexter Cambridge DAL 04/10/1993 DAL @ GOS L 21 0 0 4 0.0 0 0 - 0 0 - 2 2 4 1 1 0 0 4 -
+p88
+aVDerek Harper DAL 04/10/1993 DAL @ GOS L 34 17 7 18 38.9 2 4 50.0 1 3 33.3 0 2 2 6 1 0 2 3 -
+p89
+aVTerry Davis DAL 04/08/1993 DAL @ POR L 28 13 6 12 50.0 0 0 - 1 2 50.0 0 8 8 1 0 0 1 3 -
+p90
+aVMike Iuzzolino DAL 04/08/1993 DAL @ POR L 12 10 4 4 100.0 2 2 100.0 0 0 - 0 0 0 5 0 0 0 0 -
+p91
+aVDexter Cambridge DAL 04/08/1993 DAL @ POR L 24 16 8 9 88.9 0 0 - 0 0 - 4 2 6 2 0 0 1 3 -
+p92
+aVJim Jackson DAL 04/08/1993 DAL @ POR L 26 8 4 13 30.8 0 2 0.0 0 2 0.0 0 3 3 3 0 0 5 1 -
+p93
+aVWalter Bond DAL 04/08/1993 DAL @ POR L 15 7 3 7 42.9 0 0 - 1 2 50.0 0 1 1 2 3 1 1 3 -
+p94
+aVDerek Harper DAL 04/08/1993 DAL @ POR L 22 8 3 8 37.5 1 2 50.0 1 2 50.0 0 2 2 5 0 0 1 2 -
+p95
+aVBrian Howard DAL 04/08/1993 DAL @ POR L 20 10 4 6 66.7 0 0 - 2 2 100.0 0 6 6 1 1 1 1 4 -
+p96
+aVDonald Hodge DAL 04/08/1993 DAL @ POR L 31 13 5 8 62.5 0 0 - 3 4 75.0 2 4 6 2 0 2 4 5 -
+p97
+aVTim Legler DAL 04/08/1993 DAL @ POR L 26 6 3 9 33.3 0 2 0.0 0 0 - 1 2 3 4 0 0 2 4 -
+p98
+aVMorlon Wiley DAL 04/08/1993 DAL @ POR L 14 9 3 4 75.0 3 4 75.0 0 0 - 0 0 0 1 1 0 0 2 -
+p99
+aVSean Rooks DAL 04/08/1993 DAL @ POR L 22 7 2 8 25.0 0 0 - 3 6 50.0 3 4 7 1 1 0 4 3 -
+p100
+aVDerek Harper DAL 04/06/1993 DAL @ SEA W 29 13 5 10 50.0 1 2 50.0 2 2 100.0 2 2 4 5 1 0 1 1 -
+p101
+aVSean Rooks DAL 04/06/1993 DAL @ SEA W 31 13 4 10 40.0 0 0 - 5 5 100.0 1 4 5 0 0 1 0 2 -
+p102
+aVDexter Cambridge DAL 04/06/1993 DAL @ SEA W 18 11 4 6 66.7 0 1 0.0 3 4 75.0 1 2 3 1 1 0 2 4 -
+p103
+aVBrian Howard DAL 04/06/1993 DAL @ SEA W 21 10 5 6 83.3 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -
+p104
+aVTim Legler DAL 04/06/1993 DAL @ SEA W 18 8 3 6 50.0 2 4 50.0 0 1 0.0 0 1 1 3 1 0 0 3 -
+p105
+aVMorlon Wiley DAL 04/06/1993 DAL @ SEA W 20 10 4 5 80.0 2 2 100.0 0 0 - 0 0 0 4 2 0 0 1 -
+p106
+aVTerry Davis DAL 04/06/1993 DAL @ SEA W 44 15 6 12 50.0 0 0 - 3 4 75.0 3 5 8 4 0 1 1 2 -
+p107
+aVJim Jackson DAL 04/06/1993 DAL @ SEA W 38 18 7 12 58.3 1 1 100.0 3 5 60.0 2 1 3 2 0 0 6 4 -
+p108
+aVDonald Hodge DAL 04/06/1993 DAL @ SEA W 21 11 5 8 62.5 0 0 - 1 1 100.0 1 3 4 3 0 1 1 2 -
+p109
+aVDonald Hodge DAL 04/04/1993 DAL @ LAC L 10 4 2 6 33.3 0 0 - 0 0 - 1 5 6 1 1 1 0 4 -
+p110
+aVTerry Davis DAL 04/04/1993 DAL @ LAC L 35 14 7 11 63.6 0 0 - 0 2 0.0 5 3 8 0 1 0 1 3 -
+p111
+aVTim Legler DAL 04/04/1993 DAL @ LAC L 21 17 7 9 77.8 2 3 66.7 1 1 100.0 2 1 3 1 1 1 0 2 -
+p112
+aVBrian Howard DAL 04/04/1993 DAL @ LAC L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p113
+aVSean Rooks DAL 04/04/1993 DAL @ LAC L 39 21 8 12 66.7 0 0 - 5 10 50.0 2 7 9 1 5 1 6 3 -
+p114
+aVJim Jackson DAL 04/04/1993 DAL @ LAC L 33 12 5 14 35.7 0 2 0.0 2 4 50.0 0 4 4 7 2 0 6 3 -
+p115
+aVDerek Harper DAL 04/04/1993 DAL @ LAC L 27 16 6 13 46.2 2 2 100.0 2 2 100.0 1 0 1 3 2 0 1 2 -
+p116
+aVDoug Smith DAL 04/04/1993 DAL @ LAC L 38 22 11 19 57.9 0 0 - 0 0 - 2 4 6 4 0 0 0 4 -
+p117
+aVMorlon Wiley DAL 04/04/1993 DAL @ LAC L 21 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 7 0 1 4 2 -
+p118
+aVDexter Cambridge DAL 04/04/1993 DAL @ LAC L 11 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -
+p119
+aVWalter Bond DAL 04/02/1993 DAL vs. GOS L 18 12 6 10 60.0 0 1 0.0 0 0 - 0 2 2 2 1 0 1 3 -
+p120
+aVBrian Howard DAL 04/02/1993 DAL vs. GOS L 22 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 0 1 0 3 -
+p121
+aVDoug Smith DAL 04/02/1993 DAL vs. GOS L 17 6 3 12 25.0 0 0 - 0 0 - 4 3 7 0 1 0 2 5 -
+p122
+aVMike Iuzzolino DAL 04/02/1993 DAL vs. GOS L 10 6 2 5 40.0 1 1 100.0 1 1 100.0 0 0 0 0 2 0 2 0 -
+p123
+aVTim Legler DAL 04/02/1993 DAL vs. GOS L 28 12 5 12 41.7 0 4 0.0 2 4 50.0 0 1 1 3 2 0 2 3 -
+p124
+aVDexter Cambridge DAL 04/02/1993 DAL vs. GOS L 20 5 1 5 20.0 0 0 - 3 4 75.0 5 2 7 1 0 0 0 2 -
+p125
+aVSean Rooks DAL 04/02/1993 DAL vs. GOS L 33 13 5 9 55.6 0 0 - 3 8 37.5 6 2 8 0 1 0 2 2 -
+p126
+aVJim Jackson DAL 04/02/1993 DAL vs. GOS L 33 18 7 24 29.2 0 2 0.0 4 4 100.0 4 6 10 4 0 1 4 3 -
+p127
+aVDonald Hodge DAL 04/02/1993 DAL vs. GOS L 21 6 3 9 33.3 0 0 - 0 0 - 1 2 3 0 0 1 3 6 -
+p128
+aVDerek Harper DAL 04/02/1993 DAL vs. GOS L 20 6 3 6 50.0 0 2 0.0 0 0 - 1 0 1 3 2 0 2 0 -
+p129
+aVMorlon Wiley DAL 04/02/1993 DAL vs. GOS L 18 3 1 3 33.3 1 3 33.3 0 0 - 1 2 3 4 2 0 1 1 -
+p130
+aVTerry Davis DAL 03/31/1993 DAL vs. SEA L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p131
+aVMorlon Wiley DAL 03/31/1993 DAL vs. SEA L 33 6 2 8 25.0 1 5 20.0 1 1 100.0 0 0 0 4 3 0 5 2 -
+p132
+aVMike Iuzzolino DAL 03/31/1993 DAL vs. SEA L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 6 0 0 2 1 -
+p133
+aVDonald Hodge DAL 03/31/1993 DAL vs. SEA L 23 10 4 8 50.0 0 0 - 2 2 100.0 4 9 13 2 0 3 0 6 -
+p134
+aVTim Legler DAL 03/31/1993 DAL vs. SEA L 22 11 4 7 57.1 2 4 50.0 1 2 50.0 1 2 3 0 0 1 0 3 -
+p135
+aVDoug Smith DAL 03/31/1993 DAL vs. SEA L 36 26 10 19 52.6 0 1 0.0 6 6 100.0 2 5 7 1 1 1 3 4 -
+p136
+aVWalter Bond DAL 03/31/1993 DAL vs. SEA L 8 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p137
+aVBrian Howard DAL 03/31/1993 DAL vs. SEA L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -
+p138
+aVSean Rooks DAL 03/31/1993 DAL vs. SEA L 30 14 5 9 55.6 0 0 - 4 6 66.7 2 5 7 1 0 1 2 2 -
+p139
+aVJim Jackson DAL 03/31/1993 DAL vs. SEA L 39 20 7 14 50.0 1 4 25.0 5 6 83.3 2 3 5 4 1 0 5 3 -
+p140
+aVDexter Cambridge DAL 03/31/1993 DAL vs. SEA L 17 2 0 3 0.0 0 0 - 2 4 50.0 2 3 5 1 0 0 1 1 -
+p141
+aVBrian Howard DAL 03/28/1993 DAL vs. SAN L 5 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -
+p142
+aVDonald Hodge DAL 03/28/1993 DAL vs. SAN L 26 9 3 6 50.0 0 0 - 3 4 75.0 2 3 5 1 0 1 1 3 -
+p143
+aVDexter Cambridge DAL 03/28/1993 DAL vs. SAN L 26 13 6 10 60.0 0 0 - 1 1 100.0 2 3 5 0 2 0 3 3 -
+p144
+aVTerry Davis DAL 03/28/1993 DAL vs. SAN L 30 6 2 5 40.0 0 1 0.0 2 2 100.0 3 3 6 0 1 0 5 3 -
+p145
+aVWalter Bond DAL 03/28/1993 DAL vs. SAN L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -
+p146
+aVTim Legler DAL 03/28/1993 DAL vs. SAN L 28 19 7 12 58.3 3 5 60.0 2 2 100.0 2 1 3 2 1 0 2 3 -
+p147
+aVMorlon Wiley DAL 03/28/1993 DAL vs. SAN L 29 13 5 10 50.0 3 6 50.0 0 0 - 2 0 2 5 2 0 0 1 -
+p148
+aVJim Jackson DAL 03/28/1993 DAL vs. SAN L 34 18 8 15 53.3 0 3 0.0 2 3 66.7 2 1 3 11 1 0 2 3 -
+p149
+aVSean Rooks DAL 03/28/1993 DAL vs. SAN L 22 8 4 7 57.1 0 0 - 0 2 0.0 1 4 5 2 1 0 2 4 -
+p150
+aVMike Iuzzolino DAL 03/28/1993 DAL vs. SAN L 19 7 2 6 33.3 1 2 50.0 2 2 100.0 1 0 1 2 0 0 0 3 -
+p151
+aVDoug Smith DAL 03/28/1993 DAL vs. SAN L 17 14 7 8 87.5 0 0 - 0 1 0.0 2 1 3 1 0 0 2 6 -
+p152
+aVMorlon Wiley DAL 03/26/1993 DAL @ BOS L 18 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 3 0 2 6 -
+p153
+aVDexter Cambridge DAL 03/26/1993 DAL @ BOS L 21 10 4 11 36.4 0 0 - 2 2 100.0 1 1 2 1 0 1 1 2 -
+p154
+aVMike Iuzzolino DAL 03/26/1993 DAL @ BOS L 22 15 6 6 100.0 1 1 100.0 2 2 100.0 1 1 2 5 1 0 3 5 -
+p155
+aVWalter Bond DAL 03/26/1993 DAL @ BOS L 24 13 5 8 62.5 0 0 - 3 3 100.0 0 2 2 2 2 0 1 4 -
+p156
+aVDonald Hodge DAL 03/26/1993 DAL @ BOS L 19 4 2 6 33.3 0 0 - 0 2 0.0 4 5 9 0 0 0 2 3 -
+p157
+aVSean Rooks DAL 03/26/1993 DAL @ BOS L 35 18 7 9 77.8 0 0 - 4 4 100.0 2 5 7 0 0 2 2 4 -
+p158
+aVTerry Davis DAL 03/26/1993 DAL @ BOS L 39 13 4 9 44.4 0 0 - 5 6 83.3 5 6 11 1 0 1 3 3 -
+p159
+aVJim Jackson DAL 03/26/1993 DAL @ BOS L 38 12 6 16 37.5 0 3 0.0 0 0 - 2 2 4 9 1 0 4 3 -
+p160
+aVTim Legler DAL 03/26/1993 DAL @ BOS L 24 8 2 10 20.0 1 4 25.0 3 4 75.0 0 1 1 1 0 0 0 0 -
+p161
+aVRandy White DAL 03/24/1993 DAL @ WAS W 25 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 6 -
+p162
+aVMike Iuzzolino DAL 03/24/1993 DAL @ WAS W 13 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 4 1 0 2 1 -
+p163
+aVMorlon Wiley DAL 03/24/1993 DAL @ WAS W 35 11 4 8 50.0 3 5 60.0 0 0 - 2 0 2 9 1 0 1 2 -
+p164
+aVJim Jackson DAL 03/24/1993 DAL @ WAS W 39 27 12 23 52.2 2 4 50.0 1 2 50.0 1 7 8 7 2 0 3 2 -
+p165
+aVSean Rooks DAL 03/24/1993 DAL @ WAS W 40 22 9 10 90.0 0 0 - 4 7 57.1 1 6 7 1 1 0 5 2 -
+p166
+aVTim Legler DAL 03/24/1993 DAL @ WAS W 20 10 3 9 33.3 1 3 33.3 3 4 75.0 1 1 2 0 0 0 1 4 -
+p167
+aVBrian Howard DAL 03/24/1993 DAL @ WAS W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p168
+aVDonald Hodge DAL 03/24/1993 DAL @ WAS W 19 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 1 0 1 4 -
+p169
+aVWalter Bond DAL 03/24/1993 DAL @ WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p170
+aVDexter Cambridge DAL 03/24/1993 DAL @ WAS W 39 15 6 8 75.0 0 0 - 3 4 75.0 2 6 8 5 1 0 3 5 -
+p171
+aVTim Legler DAL 03/23/1993 DAL @ ATL L 24 18 7 14 50.0 2 4 50.0 2 3 66.7 2 0 2 2 0 0 2 2 -
+p172
+aVMike Iuzzolino DAL 03/23/1993 DAL @ ATL L 15 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 1 0 0 0 1 -
+p173
+aVSean Rooks DAL 03/23/1993 DAL @ ATL L 34 23 8 16 50.0 0 0 - 7 8 87.5 4 8 12 3 0 0 1 2 -
+p174
+aVDexter Cambridge DAL 03/23/1993 DAL @ ATL L 24 8 4 8 50.0 0 0 - 0 0 - 1 1 2 4 0 0 1 4 -
+p175
+aVJim Jackson DAL 03/23/1993 DAL @ ATL L 28 15 7 16 43.8 1 4 25.0 0 0 - 1 4 5 2 3 0 2 4 -
+p176
+aVRandy White DAL 03/23/1993 DAL @ ATL L 16 4 2 5 40.0 0 0 - 0 0 - 2 4 6 1 0 0 0 4 -
+p177
+aVTerry Davis DAL 03/23/1993 DAL @ ATL L 26 20 10 16 62.5 0 0 - 0 0 - 3 0 3 0 0 0 2 2 -
+p178
+aVWalter Bond DAL 03/23/1993 DAL @ ATL L 14 2 1 2 50.0 0 0 - 0 0 - 2 0 2 3 2 0 1 4 -
+p179
+aVBrian Howard DAL 03/23/1993 DAL @ ATL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 3 -
+p180
+aVDonald Hodge DAL 03/23/1993 DAL @ ATL L 17 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 1 3 2 -
+p181
+aVMorlon Wiley DAL 03/23/1993 DAL @ ATL L 34 11 4 9 44.4 3 6 50.0 0 0 - 3 1 4 4 3 0 3 2 -
+p182
+aVSean Rooks DAL 03/21/1993 DAL @ NJN L 35 17 8 17 47.1 0 0 - 1 3 33.3 2 7 9 2 2 3 4 4 -
+p183
+aVJim Jackson DAL 03/21/1993 DAL @ NJN L 34 12 5 14 35.7 2 3 66.7 0 0 - 1 1 2 4 3 1 3 3 -
+p184
+aVWalter Bond DAL 03/21/1993 DAL @ NJN L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p185
+aVDexter Cambridge DAL 03/21/1993 DAL @ NJN L 22 5 2 7 28.6 0 0 - 1 2 50.0 0 2 2 1 0 0 1 3 -
+p186
+aVDonald Hodge DAL 03/21/1993 DAL @ NJN L 26 8 3 12 25.0 0 0 - 2 2 100.0 2 3 5 0 0 1 2 1 -
+p187
+aVTerry Davis DAL 03/21/1993 DAL @ NJN L 29 12 6 16 37.5 0 0 - 0 1 0.0 4 4 8 0 2 0 2 0 -
+p188
+aVTim Legler DAL 03/21/1993 DAL @ NJN L 23 9 3 6 50.0 3 4 75.0 0 0 - 0 3 3 1 1 0 1 3 -
+p189
+aVMike Iuzzolino DAL 03/21/1993 DAL @ NJN L 24 10 5 9 55.6 0 2 0.0 0 0 - 2 1 3 1 1 0 1 1 -
+p190
+aVBrian Howard DAL 03/21/1993 DAL @ NJN L 14 8 2 3 66.7 0 0 - 4 7 57.1 3 0 3 0 2 0 0 2 -
+p191
+aVMorlon Wiley DAL 03/21/1993 DAL @ NJN L 24 3 1 7 14.3 1 4 25.0 0 0 - 0 4 4 3 3 0 5 3 -
+p192
+aVTim Legler DAL 03/19/1993 DAL @ PHL W 23 10 4 8 50.0 0 1 0.0 2 2 100.0 0 0 0 3 2 0 0 4 -
+p193
+aVTerry Davis DAL 03/19/1993 DAL @ PHL W 40 24 10 21 47.6 0 0 - 4 8 50.0 6 4 10 3 1 0 2 1 -
+p194
+aVSean Rooks DAL 03/19/1993 DAL @ PHL W 36 16 7 12 58.3 0 0 - 2 3 66.7 1 7 8 2 2 0 5 3 -
+p195
+aVDexter Cambridge DAL 03/19/1993 DAL @ PHL W 17 4 2 6 33.3 0 0 - 0 0 - 3 1 4 2 0 0 1 2 -
+p196
+aVDonald Hodge DAL 03/19/1993 DAL @ PHL W 20 7 3 7 42.9 0 0 - 1 2 50.0 2 0 2 3 2 0 3 0 -
+p197
+aVMike Iuzzolino DAL 03/19/1993 DAL @ PHL W 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -
+p198
+aVJim Jackson DAL 03/19/1993 DAL @ PHL W 32 13 6 16 37.5 1 1 100.0 0 0 - 1 1 2 7 1 1 7 4 -
+p199
+aVMorlon Wiley DAL 03/19/1993 DAL @ PHL W 34 15 5 7 71.4 4 5 80.0 1 2 50.0 1 5 6 3 1 0 2 2 -
+p200
+aVWalter Bond DAL 03/19/1993 DAL @ PHL W 24 0 0 3 0.0 0 0 - 0 0 - 0 5 5 2 1 0 0 5 -
+p201
+aVMorlon Wiley DAL 03/17/1993 DAL vs. ORL W 28 8 3 6 50.0 0 1 0.0 2 2 100.0 0 1 1 3 1 0 3 4 -
+p202
+aVJim Jackson DAL 03/17/1993 DAL vs. ORL W 34 17 7 18 38.9 0 1 0.0 3 4 75.0 3 4 7 6 0 1 4 3 -
+p203
+aVSean Rooks DAL 03/17/1993 DAL vs. ORL W 24 8 2 9 22.2 0 0 - 4 10 40.0 3 6 9 0 0 2 2 3 -
+p204
+aVTerry Davis DAL 03/17/1993 DAL vs. ORL W 45 9 4 13 30.8 0 0 - 1 2 50.0 1 9 10 3 0 0 0 4 -
+p205
+aVDexter Cambridge DAL 03/17/1993 DAL vs. ORL W 24 9 3 3 100.0 0 0 - 3 4 75.0 2 1 3 1 1 0 1 3 -
+p206
+aVMike Iuzzolino DAL 03/17/1993 DAL vs. ORL W 20 15 5 6 83.3 3 3 100.0 2 2 100.0 0 1 1 3 1 0 2 0 -
+p207
+aVDonald Hodge DAL 03/17/1993 DAL vs. ORL W 25 14 6 11 54.5 0 0 - 2 4 50.0 2 5 7 1 0 1 2 3 -
+p208
+aVTim Legler DAL 03/17/1993 DAL vs. ORL W 22 11 3 7 42.9 1 2 50.0 4 4 100.0 1 0 1 1 2 1 0 2 -
+p209
+aVWalter Bond DAL 03/17/1993 DAL vs. ORL W 15 11 4 6 66.7 0 1 0.0 3 3 100.0 0 4 4 0 0 2 0 2 -
+p210
+aVBrian Howard DAL 03/17/1993 DAL vs. ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -
+p211
+aVMike Iuzzolino DAL 03/15/1993 DAL vs. UTH L 31 6 1 5 20.0 1 2 50.0 3 4 75.0 0 1 1 6 3 0 3 1 -
+p212
+aVSean Rooks DAL 03/15/1993 DAL vs. UTH L 31 10 4 9 44.4 0 0 - 2 3 66.7 1 8 9 1 1 2 3 3 -
+p213
+aVDexter Cambridge DAL 03/15/1993 DAL vs. UTH L 19 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 1 0 1 4 -
+p214
+aVJim Jackson DAL 03/15/1993 DAL vs. UTH L 31 12 3 14 21.4 0 2 0.0 6 7 85.7 3 0 3 4 0 2 5 4 -
+p215
+aVTim Legler DAL 03/15/1993 DAL vs. UTH L 25 13 4 8 50.0 0 0 - 5 5 100.0 0 1 1 4 1 1 2 2 -
+p216
+aVDonald Hodge DAL 03/15/1993 DAL vs. UTH L 27 9 3 7 42.9 0 0 - 3 4 75.0 1 5 6 1 1 2 1 2 -
+p217
+aVWalter Bond DAL 03/15/1993 DAL vs. UTH L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p218
+aVDoug Smith DAL 03/15/1993 DAL vs. UTH L 29 22 11 20 55.0 0 0 - 0 0 - 3 9 12 2 0 1 0 5 -
+p219
+aVTerry Davis DAL 03/15/1993 DAL vs. UTH L 24 13 6 10 60.0 0 0 - 1 3 33.3 1 1 2 1 1 0 2 6 -
+p220
+aVMorlon Wiley DAL 03/15/1993 DAL vs. UTH L 16 3 1 6 16.7 1 3 33.3 0 0 - 1 1 2 3 1 0 1 2 -
+p221
+aVDonald Hodge DAL 03/13/1993 DAL @ SAC L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 1 -
+p222
+aVSean Rooks DAL 03/13/1993 DAL @ SAC L 20 6 3 6 50.0 0 0 - 0 2 0.0 0 2 2 0 0 2 1 3 -
+p223
+aVTim Legler DAL 03/13/1993 DAL @ SAC L 15 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 0 1 0 2 1 -
+p224
+aVMike Iuzzolino DAL 03/13/1993 DAL @ SAC L 24 9 4 7 57.1 0 1 0.0 1 3 33.3 0 1 1 7 0 0 3 1 -
+p225
+aVTerry Davis DAL 03/13/1993 DAL @ SAC L 33 21 9 15 60.0 0 0 - 3 4 75.0 1 5 6 0 0 0 1 1 -
+p226
+aVDoug Smith DAL 03/13/1993 DAL @ SAC L 26 9 4 9 44.4 0 0 - 1 2 50.0 1 6 7 3 3 4 4 3 -
+p227
+aVDexter Cambridge DAL 03/13/1993 DAL @ SAC L 21 12 5 8 62.5 0 0 - 2 2 100.0 2 1 3 2 1 0 1 4 -
+p228
+aVMorlon Wiley DAL 03/13/1993 DAL @ SAC L 24 10 4 8 50.0 2 5 40.0 0 0 - 0 2 2 4 1 0 4 5 -
+p229
+aVJim Jackson DAL 03/13/1993 DAL @ SAC L 38 9 3 14 21.4 2 4 50.0 1 2 50.0 1 3 4 5 1 0 3 4 -
+p230
+aVRandy White DAL 03/13/1993 DAL @ SAC L 20 6 2 3 66.7 0 0 - 2 3 66.7 2 1 3 2 0 0 4 3 -
+p231
+aVWalter Bond DAL 03/13/1993 DAL @ SAC L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 2 -
+p232
+aVDonald Hodge DAL 03/12/1993 DAL @ PHX L 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 1 -
+p233
+aVRandy White DAL 03/12/1993 DAL @ PHX L 29 8 3 8 37.5 0 0 - 2 2 100.0 1 6 7 0 0 2 1 3 -
+p234
+aVMike Iuzzolino DAL 03/12/1993 DAL @ PHX L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -
+p235
+aVDoug Smith DAL 03/12/1993 DAL @ PHX L 24 16 8 11 72.7 0 0 - 0 0 - 3 3 6 2 2 2 3 5 -
+p236
+aVDerek Harper DAL 03/12/1993 DAL @ PHX L 37 19 8 18 44.4 1 3 33.3 2 5 40.0 0 2 2 5 0 0 2 1 -
+p237
+aVTerry Davis DAL 03/12/1993 DAL @ PHX L 32 23 10 17 58.8 0 0 - 3 4 75.0 4 7 11 0 3 0 5 4 -
+p238
+aVJim Jackson DAL 03/12/1993 DAL @ PHX L 28 6 2 12 16.7 0 1 0.0 2 2 100.0 1 1 2 4 3 0 4 4 -
+p239
+aVSean Rooks DAL 03/12/1993 DAL @ PHX L 32 14 4 8 50.0 0 0 - 6 8 75.0 4 3 7 1 0 3 5 1 -
+p240
+aVTim Legler DAL 03/12/1993 DAL @ PHX L 17 6 3 8 37.5 0 1 0.0 0 0 - 2 1 3 1 0 0 1 2 -
+p241
+aVWalter Bond DAL 03/12/1993 DAL @ PHX L 21 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 5 -
+p242
+aVWalter Bond DAL 03/10/1993 DAL vs. POR L 14 0 0 4 0.0 0 0 - 0 0 - 0 1 1 4 3 0 2 5 -
+p243
+aVDexter Cambridge DAL 03/10/1993 DAL vs. POR L 14 8 3 6 50.0 0 0 - 2 3 66.7 0 6 6 0 0 0 3 6 -
+p244
+aVTim Legler DAL 03/10/1993 DAL vs. POR L 9 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 3 -
+p245
+aVDerek Harper DAL 03/10/1993 DAL vs. POR L 33 11 4 12 33.3 0 2 0.0 3 6 50.0 0 2 2 3 1 0 1 3 -
+p246
+aVTerry Davis DAL 03/10/1993 DAL vs. POR L 24 2 1 5 20.0 0 0 - 0 0 - 1 4 5 2 0 0 1 2 -
+p247
+aVDonald Hodge DAL 03/10/1993 DAL vs. POR L 16 3 1 5 20.0 0 0 - 1 2 50.0 1 4 5 0 1 0 2 4 -
+p248
+aVJim Jackson DAL 03/10/1993 DAL vs. POR L 30 13 6 14 42.9 1 2 50.0 0 0 - 2 0 2 4 1 0 3 1 -
+p249
+aVRandy White DAL 03/10/1993 DAL vs. POR L 37 31 10 14 71.4 2 3 66.7 9 10 90.0 1 6 7 1 1 1 1 4 -
+p250
+aVSean Rooks DAL 03/10/1993 DAL vs. POR L 23 5 2 9 22.2 0 0 - 1 2 50.0 3 5 8 0 0 2 3 3 -
+p251
+aVDoug Smith DAL 03/10/1993 DAL vs. POR L 24 8 3 7 42.9 0 0 - 2 2 100.0 1 3 4 2 0 0 2 4 -
+p252
+aVMorlon Wiley DAL 03/10/1993 DAL vs. POR L 16 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 4 2 0 2 1 -
+p253
+aVDonald Hodge DAL 03/09/1993 DAL @ SAN L 17 2 1 6 16.7 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -
+p254
+aVJim Jackson DAL 03/09/1993 DAL @ SAN L 23 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 0 0 0 3 0 -
+p255
+aVDexter Cambridge DAL 03/09/1993 DAL @ SAN L 19 9 4 8 50.0 0 0 - 1 2 50.0 1 3 4 3 2 0 4 2 -
+p256
+aVTerry Davis DAL 03/09/1993 DAL @ SAN L 23 5 2 9 22.2 0 0 - 1 2 50.0 2 3 5 1 0 0 1 1 -
+p257
+aVWalter Bond DAL 03/09/1993 DAL @ SAN L 24 14 7 12 58.3 0 1 0.0 0 0 - 0 1 1 3 3 1 1 4 -
+p258
+aVMorlon Wiley DAL 03/09/1993 DAL @ SAN L 19 7 1 3 33.3 0 1 0.0 5 7 71.4 1 0 1 4 3 0 3 2 -
+p259
+aVTim Legler DAL 03/09/1993 DAL @ SAN L 16 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 -
+p260
+aVDoug Smith DAL 03/09/1993 DAL @ SAN L 22 11 5 9 55.6 0 0 - 1 1 100.0 1 3 4 0 1 0 1 4 -
+p261
+aVRandy White DAL 03/09/1993 DAL @ SAN L 25 10 5 11 45.5 0 1 0.0 0 1 0.0 1 5 6 0 2 0 4 5 -
+p262
+aVSean Rooks DAL 03/09/1993 DAL @ SAN L 23 14 6 14 42.9 0 0 - 2 4 50.0 3 4 7 0 0 0 1 3 -
+p263
+aVDerek Harper DAL 03/09/1993 DAL @ SAN L 29 4 2 8 25.0 0 0 - 0 0 - 4 0 4 5 1 1 3 1 -
+p264
+aVTim Legler DAL 03/06/1993 DAL vs. PHX L 23 7 3 5 60.0 0 2 0.0 1 1 100.0 1 2 3 3 0 0 0 3 -
+p265
+aVSean Rooks DAL 03/06/1993 DAL vs. PHX L 25 11 4 11 36.4 0 0 - 3 4 75.0 2 6 8 1 0 0 1 3 -
+p266
+aVDoug Smith DAL 03/06/1993 DAL vs. PHX L 22 4 2 7 28.6 0 0 - 0 0 - 1 6 7 0 1 2 3 5 -
+p267
+aVRandy White DAL 03/06/1993 DAL vs. PHX L 27 8 2 6 33.3 0 1 0.0 4 4 100.0 3 7 10 2 2 0 3 3 -
+p268
+aVMorlon Wiley DAL 03/06/1993 DAL vs. PHX L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 2 0 0 0 2 -
+p269
+aVJim Jackson DAL 03/06/1993 DAL vs. PHX L 32 19 7 21 33.3 2 4 50.0 3 4 75.0 3 3 6 6 2 0 5 3 -
+p270
+aVDonald Hodge DAL 03/06/1993 DAL vs. PHX L 15 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 2 -
+p271
+aVDexter Cambridge DAL 03/06/1993 DAL vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p272
+aVDerek Harper DAL 03/06/1993 DAL vs. PHX L 43 27 11 20 55.0 3 5 60.0 2 2 100.0 1 1 2 7 2 0 2 4 -
+p273
+aVTerry Davis DAL 03/06/1993 DAL vs. PHX L 38 15 6 11 54.5 0 0 - 3 4 75.0 1 2 3 2 1 0 2 4 -
+p274
+aVWalter Bond DAL 03/06/1993 DAL vs. PHX L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p275
+aVTim Legler DAL 03/05/1993 DAL vs. HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p276
+aVJim Jackson DAL 03/05/1993 DAL vs. HOU L 26 6 3 8 37.5 0 0 - 0 1 0.0 0 0 0 4 2 0 5 3 -
+p277
+aVDoug Smith DAL 03/05/1993 DAL vs. HOU L 32 12 6 14 42.9 0 1 0.0 0 0 - 2 2 4 2 1 3 3 5 -
+p278
+aVSean Rooks DAL 03/05/1993 DAL vs. HOU L 30 11 4 9 44.4 0 0 - 3 5 60.0 3 7 10 1 0 3 0 5 -
+p279
+aVMike Iuzzolino DAL 03/05/1993 DAL vs. HOU L 19 7 3 9 33.3 0 2 0.0 1 1 100.0 0 1 1 1 0 1 3 2 -
+p280
+aVTerry Davis DAL 03/05/1993 DAL vs. HOU L 37 13 6 10 60.0 0 0 - 1 2 50.0 2 9 11 1 2 2 2 3 -
+p281
+aVWalter Bond DAL 03/05/1993 DAL vs. HOU L 22 8 3 9 33.3 0 0 - 2 4 50.0 1 5 6 1 1 0 2 1 -
+p282
+aVDerek Harper DAL 03/05/1993 DAL vs. HOU L 31 8 3 10 30.0 1 3 33.3 1 2 50.0 1 1 2 6 1 0 1 1 -
+p283
+aVDonald Hodge DAL 03/05/1993 DAL vs. HOU L 19 13 6 8 75.0 0 0 - 1 1 100.0 1 6 7 1 1 1 1 5 -
+p284
+aVDexter Cambridge DAL 03/05/1993 DAL vs. HOU L 20 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 1 0 0 2 4 -
+p285
+aVSean Rooks DAL 03/03/1993 DAL @ CHI L 29 13 6 12 50.0 0 0 - 1 4 25.0 3 3 6 1 0 1 1 1 -
+p286
+aVDerek Harper DAL 03/03/1993 DAL @ CHI L 28 9 4 9 44.4 0 0 - 1 1 100.0 0 0 0 7 2 0 0 3 -
+p287
+aVDoug Smith DAL 03/03/1993 DAL @ CHI L 32 14 5 12 41.7 0 0 - 4 4 100.0 4 0 4 3 2 1 1 5 -
+p288
+aVTerry Davis DAL 03/03/1993 DAL @ CHI L 41 24 12 16 75.0 0 0 - 0 1 0.0 1 6 7 3 0 0 3 2 -
+p289
+aVDonald Hodge DAL 03/03/1993 DAL @ CHI L 21 9 4 8 50.0 0 0 - 1 1 100.0 0 2 2 2 0 0 2 2 -
+p290
+aVDexter Cambridge DAL 03/03/1993 DAL @ CHI L 16 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 1 2 0 1 3 -
+p291
+aVMike Iuzzolino DAL 03/03/1993 DAL @ CHI L 21 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 7 0 0 0 0 -
+p292
+aVMorlon Wiley DAL 03/03/1993 DAL @ CHI L 12 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 2 0 -
+p293
+aVBrian Howard DAL 03/03/1993 DAL @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p294
+aVWalter Bond DAL 03/03/1993 DAL @ CHI L 25 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 2 2 -
+p295
+aVTim Legler DAL 03/03/1993 DAL @ CHI L 13 4 1 2 50.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 1 0 -
+p296
+aVDonald Hodge DAL 03/02/1993 DAL @ MIL L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 4 -
+p297
+aVRandy White DAL 03/02/1993 DAL @ MIL L 25 10 3 9 33.3 0 1 0.0 4 4 100.0 4 5 9 1 0 1 4 4 -
+p298
+aVWalter Bond DAL 03/02/1993 DAL @ MIL L 24 6 3 10 30.0 0 1 0.0 0 0 - 0 2 2 3 2 0 3 2 -
+p299
+aVMorlon Wiley DAL 03/02/1993 DAL @ MIL L 15 11 5 10 50.0 1 3 33.3 0 2 0.0 2 1 3 0 2 0 2 3 -
+p300
+aVTim Legler DAL 03/02/1993 DAL @ MIL L 24 4 2 7 28.6 0 2 0.0 0 1 0.0 3 3 6 1 3 1 2 2 -
+p301
+aVMike Iuzzolino DAL 03/02/1993 DAL @ MIL L 16 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 5 0 0 2 0 -
+p302
+aVTerry Davis DAL 03/02/1993 DAL @ MIL L 26 8 3 9 33.3 0 0 - 2 2 100.0 4 2 6 2 0 0 0 0 -
+p303
+aVDexter Cambridge DAL 03/02/1993 DAL @ MIL L 20 10 2 6 33.3 0 1 0.0 6 7 85.7 1 3 4 0 0 0 1 4 -
+p304
+aVDoug Smith DAL 03/02/1993 DAL @ MIL L 18 6 3 8 37.5 0 0 - 0 0 - 1 1 2 1 1 1 2 5 -
+p305
+aVBrian Howard DAL 03/02/1993 DAL @ MIL L 15 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 1 4 -
+p306
+aVDerek Harper DAL 03/02/1993 DAL @ MIL L 24 12 5 14 35.7 2 4 50.0 0 0 - 0 3 3 2 0 0 3 1 -
+p307
+aVSean Rooks DAL 03/02/1993 DAL @ MIL L 25 14 6 6 100.0 0 0 - 2 4 50.0 0 4 4 1 1 0 1 2 -
+p308
+aVDonald Hodge DAL 02/28/1993 DAL @ IND L 17 7 3 5 60.0 0 0 - 1 4 25.0 2 4 6 2 0 0 0 3 -
+p309
+aVDoug Smith DAL 02/28/1993 DAL @ IND L 26 12 5 10 50.0 0 1 0.0 2 2 100.0 1 6 7 0 0 0 3 4 -
+p310
+aVMorlon Wiley DAL 02/28/1993 DAL @ IND L 14 6 3 8 37.5 0 3 0.0 0 0 - 1 0 1 0 0 0 0 3 -
+p311
+aVDexter Cambridge DAL 02/28/1993 DAL @ IND L 18 3 0 4 0.0 0 0 - 3 10 30.0 4 1 5 1 0 0 3 1 -
+p312
+aVBrian Howard DAL 02/28/1993 DAL @ IND L 6 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p313
+aVSean Rooks DAL 02/28/1993 DAL @ IND L 26 17 4 9 44.4 0 0 - 9 12 75.0 5 4 9 1 0 1 1 4 -
+p314
+aVTerry Davis DAL 02/28/1993 DAL @ IND L 35 13 6 11 54.5 0 0 - 1 1 100.0 3 3 6 0 0 0 1 4 -
+p315
+aVDerek Harper DAL 02/28/1993 DAL @ IND L 34 26 9 20 45.0 2 8 25.0 6 6 100.0 0 1 1 2 1 1 1 4 -
+p316
+aVMike Iuzzolino DAL 02/28/1993 DAL @ IND L 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 1 0 0 1 -
+p317
+aVWalter Bond DAL 02/28/1993 DAL @ IND L 25 4 2 8 25.0 0 0 - 0 1 0.0 0 6 6 2 2 0 0 4 -
+p318
+aVRandy White DAL 02/28/1993 DAL @ IND L 21 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 0 0 0 1 -
+p319
+aVMorlon Wiley DAL 02/26/1993 DAL @ MIN L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 4 -
+p320
+aVRandy White DAL 02/26/1993 DAL @ MIN L 27 5 2 6 33.3 0 0 - 1 1 100.0 1 2 3 1 2 0 4 4 -
+p321
+aVTerry Davis DAL 02/26/1993 DAL @ MIN L 44 18 8 15 53.3 0 0 - 2 6 33.3 3 8 11 1 1 0 1 0 -
+p322
+aVDoug Smith DAL 02/26/1993 DAL @ MIN L 16 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 2 1 1 4 -
+p323
+aVSean Rooks DAL 02/26/1993 DAL @ MIN L 35 12 5 8 62.5 0 0 - 2 3 66.7 1 5 6 1 1 1 1 1 -
+p324
+aVBrian Howard DAL 02/26/1993 DAL @ MIN L 12 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 2 0 1 0 3 -
+p325
+aVDexter Cambridge DAL 02/26/1993 DAL @ MIN L 14 6 3 5 60.0 0 1 0.0 0 0 - 2 0 2 1 1 0 0 3 -
+p326
+aVDerek Harper DAL 02/26/1993 DAL @ MIN L 43 23 6 16 37.5 3 5 60.0 8 8 100.0 1 0 1 10 0 1 6 4 -
+p327
+aVDonald Hodge DAL 02/26/1993 DAL @ MIN L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p328
+aVWalter Bond DAL 02/26/1993 DAL @ MIN L 31 13 6 15 40.0 0 3 0.0 1 2 50.0 0 3 3 2 2 0 2 5 -
+p329
+aVMorlon Wiley DAL 02/24/1993 DAL vs. DEN L 14 0 0 5 0.0 0 3 0.0 0 0 - 1 1 2 3 0 0 0 3 -
+p330
+aVSean Rooks DAL 02/24/1993 DAL vs. DEN L 29 6 2 10 20.0 0 0 - 2 4 50.0 4 5 9 1 0 1 4 2 -
+p331
+aVMike Iuzzolino DAL 02/24/1993 DAL vs. DEN L 18 9 4 9 44.4 0 2 0.0 1 3 33.3 2 3 5 2 1 0 1 3 -
+p332
+aVBrian Howard DAL 02/24/1993 DAL vs. DEN L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p333
+aVDoug Smith DAL 02/24/1993 DAL vs. DEN L 12 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 2 6 -
+p334
+aVTerry Davis DAL 02/24/1993 DAL vs. DEN L 38 19 9 18 50.0 0 0 - 1 2 50.0 7 4 11 3 1 0 2 3 -
+p335
+aVLamont Strothers DAL 02/24/1993 DAL vs. DEN L 8 4 2 6 33.3 0 1 0.0 0 0 - 3 0 3 0 1 0 3 1 -
+p336
+aVWalter Bond DAL 02/24/1993 DAL vs. DEN L 23 7 3 9 33.3 0 0 - 1 2 50.0 0 0 0 1 3 0 1 1 -
+p337
+aVRandy White DAL 02/24/1993 DAL vs. DEN L 30 12 3 10 30.0 0 1 0.0 6 6 100.0 0 3 3 2 0 1 4 5 -
+p338
+aVDerek Harper DAL 02/24/1993 DAL vs. DEN L 33 23 7 17 41.2 1 5 20.0 8 11 72.7 1 1 2 5 3 0 4 5 -
+p339
+aVDonald Hodge DAL 02/24/1993 DAL vs. DEN L 8 0 0 0 - 0 0 - 0 0 - 2 0 2 2 0 0 0 3 -
+p340
+aVDexter Cambridge DAL 02/24/1993 DAL vs. DEN L 17 6 3 9 33.3 0 0 - 0 3 0.0 3 2 5 2 1 0 0 2 -
+p341
+aVDonald Hodge DAL 02/17/1993 DAL @ CLE L 14 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 1 1 1 -
+p342
+aVBrian Howard DAL 02/17/1993 DAL @ CLE L 10 9 4 6 66.7 0 0 - 1 1 100.0 0 3 3 1 0 1 1 2 -
+p343
+aVLamont Strothers DAL 02/17/1993 DAL @ CLE L 17 2 0 6 0.0 0 2 0.0 2 2 100.0 0 0 0 1 1 0 0 2 -
+p344
+aVDoug Smith DAL 02/17/1993 DAL @ CLE L 23 6 3 9 33.3 0 0 - 0 0 - 1 3 4 2 0 0 0 4 -
+p345
+aVMorlon Wiley DAL 02/17/1993 DAL @ CLE L 20 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 5 1 0 4 2 -
+p346
+aVSean Rooks DAL 02/17/1993 DAL @ CLE L 27 19 9 15 60.0 0 0 - 1 2 50.0 3 5 8 1 0 3 3 0 -
+p347
+aVTerry Davis DAL 02/17/1993 DAL @ CLE L 30 14 6 15 40.0 0 0 - 2 4 50.0 3 3 6 0 0 1 0 2 -
+p348
+aVRandy White DAL 02/17/1993 DAL @ CLE L 33 17 8 20 40.0 0 1 0.0 1 2 50.0 3 1 4 1 1 1 1 3 -
+p349
+aVWalter Bond DAL 02/17/1993 DAL @ CLE L 19 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -
+p350
+aVMike Iuzzolino DAL 02/17/1993 DAL @ CLE L 30 9 3 7 42.9 1 3 33.3 2 4 50.0 1 2 3 6 1 0 2 3 -
+p351
+aVDexter Cambridge DAL 02/17/1993 DAL @ CLE L 17 8 3 7 42.9 0 0 - 2 2 100.0 5 3 8 2 0 0 1 2 -
+p352
+aVRandy White DAL 02/16/1993 DAL @ NYK L 18 7 2 6 33.3 0 0 - 3 4 75.0 1 3 4 1 0 0 2 6 -
+p353
+aVMorlon Wiley DAL 02/16/1993 DAL @ NYK L 25 9 3 8 37.5 1 4 25.0 2 2 100.0 1 3 4 4 1 0 1 2 -
+p354
+aVDoug Smith DAL 02/16/1993 DAL @ NYK L 29 6 3 8 37.5 0 0 - 0 0 - 2 4 6 2 0 2 0 6 -
+p355
+aVDonald Hodge DAL 02/16/1993 DAL @ NYK L 15 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 5 -
+p356
+aVDexter Cambridge DAL 02/16/1993 DAL @ NYK L 24 7 2 11 18.2 0 0 - 3 3 100.0 2 0 2 1 0 0 3 2 -
+p357
+aVBrian Howard DAL 02/16/1993 DAL @ NYK L 17 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 1 1 0 0 1 -
+p358
+aVSean Rooks DAL 02/16/1993 DAL @ NYK L 30 23 11 18 61.1 0 0 - 1 5 20.0 3 4 7 2 0 0 1 1 -
+p359
+aVLamont Strothers DAL 02/16/1993 DAL @ NYK L 27 10 5 15 33.3 0 1 0.0 0 0 - 2 1 3 1 3 0 2 1 -
+p360
+aVMike Iuzzolino DAL 02/16/1993 DAL @ NYK L 30 10 3 6 50.0 0 2 0.0 4 4 100.0 0 1 1 5 2 0 6 1 -
+p361
+aVWalter Bond DAL 02/16/1993 DAL @ NYK L 25 11 4 8 50.0 2 3 66.7 1 1 100.0 0 4 4 1 1 0 2 3 -
+p362
+aVSean Rooks DAL 02/13/1993 DAL vs. PHL L 29 12 5 10 50.0 0 0 - 2 3 66.7 3 7 10 1 1 2 4 2 -
+p363
+aVMike Iuzzolino DAL 02/13/1993 DAL vs. PHL L 37 13 5 11 45.5 2 3 66.7 1 1 100.0 0 2 2 8 2 1 3 2 -
+p364
+aVDonald Hodge DAL 02/13/1993 DAL vs. PHL L 11 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -
+p365
+aVBrian Howard DAL 02/13/1993 DAL vs. PHL L 17 10 5 7 71.4 0 0 - 0 0 - 1 1 2 0 1 2 2 2 -
+p366
+aVLamont Strothers DAL 02/13/1993 DAL vs. PHL L 14 5 2 9 22.2 1 4 25.0 0 0 - 0 2 2 6 0 0 2 2 -
+p367
+aVDoug Smith DAL 02/13/1993 DAL vs. PHL L 31 10 4 10 40.0 0 0 - 2 2 100.0 2 7 9 2 0 2 1 5 -
+p368
+aVWalter Bond DAL 02/13/1993 DAL vs. PHL L 29 10 5 13 38.5 0 0 - 0 1 0.0 1 2 3 3 2 1 4 2 -
+p369
+aVRandy White DAL 02/13/1993 DAL vs. PHL L 31 20 6 17 35.3 2 3 66.7 6 9 66.7 4 2 6 0 2 1 3 2 -
+p370
+aVRadisav Curcic DAL 02/13/1993 DAL vs. PHL L 17 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 1 0 1 4 -
+p371
+aVDexter Cambridge DAL 02/13/1993 DAL vs. PHL L 24 8 4 10 40.0 0 0 - 0 0 - 3 0 3 2 1 0 3 3 -
+p372
+aVBrian Howard DAL 02/12/1993 DAL vs. BOS L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p373
+aVTerry Davis DAL 02/12/1993 DAL vs. BOS L 30 21 8 11 72.7 0 0 - 5 7 71.4 2 4 6 0 0 0 1 2 -
+p374
+aVDerek Harper DAL 02/12/1993 DAL vs. BOS L 24 9 2 12 16.7 2 6 33.3 3 4 75.0 0 0 0 6 2 0 2 3 -
+p375
+aVRandy White DAL 02/12/1993 DAL vs. BOS L 26 13 3 10 30.0 1 3 33.3 6 7 85.7 2 1 3 1 0 0 3 3 -
+p376
+aVLamont Strothers DAL 02/12/1993 DAL vs. BOS L 19 7 1 7 14.3 0 0 - 5 6 83.3 1 1 2 2 0 0 1 2 -
+p377
+aVWalter Bond DAL 02/12/1993 DAL vs. BOS L 27 4 2 9 22.2 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p378
+aVSean Rooks DAL 02/12/1993 DAL vs. BOS L 32 14 4 7 57.1 0 0 - 6 9 66.7 3 10 13 1 0 0 2 3 -
+p379
+aVDoug Smith DAL 02/12/1993 DAL vs. BOS L 30 12 6 13 46.2 0 0 - 0 0 - 0 8 8 5 1 1 1 5 -
+p380
+aVDexter Cambridge DAL 02/12/1993 DAL vs. BOS L 18 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -
+p381
+aVDonald Hodge DAL 02/12/1993 DAL vs. BOS L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p382
+aVMike Iuzzolino DAL 02/12/1993 DAL vs. BOS L 25 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 6 0 0 3 2 -
+p383
+aVDoug Smith DAL 02/10/1993 DAL vs. WAS L 26 9 3 11 27.3 0 0 - 3 5 60.0 1 8 9 1 1 0 0 2 -
+p384
+aVMike Iuzzolino DAL 02/10/1993 DAL vs. WAS L 13 7 3 6 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 1 4 -
+p385
+aVDonald Hodge DAL 02/10/1993 DAL vs. WAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p386
+aVWalter Bond DAL 02/10/1993 DAL vs. WAS L 32 15 5 11 45.5 0 1 0.0 5 7 71.4 0 1 1 4 4 0 4 5 -
+p387
+aVRandy White DAL 02/10/1993 DAL vs. WAS L 36 19 8 16 50.0 1 4 25.0 2 2 100.0 5 9 14 3 1 1 1 5 -
+p388
+aVDexter Cambridge DAL 02/10/1993 DAL vs. WAS L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 -
+p389
+aVBrian Howard DAL 02/10/1993 DAL vs. WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p390
+aVSean Rooks DAL 02/10/1993 DAL vs. WAS L 33 18 6 12 50.0 0 0 - 6 8 75.0 8 5 13 1 2 2 3 1 -
+p391
+aVDerek Harper DAL 02/10/1993 DAL vs. WAS L 37 23 8 19 42.1 2 5 40.0 5 6 83.3 2 0 2 9 1 0 1 2 -
+p392
+aVTerry Davis DAL 02/10/1993 DAL vs. WAS L 29 6 3 8 37.5 0 0 - 0 0 - 2 4 6 0 0 0 0 4 -
+p393
+aVLamont Strothers DAL 02/10/1993 DAL vs. WAS L 13 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 2 1 0 3 1 -
+p394
+aVDerek Harper DAL 02/08/1993 DAL @ LAL L 33 23 8 18 44.4 1 5 20.0 6 7 85.7 0 2 2 4 1 0 4 3 -
+p395
+aVLamont Strothers DAL 02/08/1993 DAL @ LAL L 18 8 4 7 57.1 0 1 0.0 0 0 - 1 0 1 1 0 0 2 3 -
+p396
+aVMike Iuzzolino DAL 02/08/1993 DAL @ LAL L 21 10 3 7 42.9 0 2 0.0 4 4 100.0 0 2 2 2 0 1 1 2 -
+p397
+aVDoug Smith DAL 02/08/1993 DAL @ LAL L 17 4 1 6 16.7 0 0 - 2 3 66.7 3 3 6 1 2 1 1 5 -
+p398
+aVDexter Cambridge DAL 02/08/1993 DAL @ LAL L 16 10 4 6 66.7 0 0 - 2 2 100.0 3 0 3 4 2 0 0 0 -
+p399
+aVDonald Hodge DAL 02/08/1993 DAL @ LAL L 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p400
+aVTerry Davis DAL 02/08/1993 DAL @ LAL L 38 8 4 5 80.0 0 0 - 0 0 - 0 14 14 2 0 0 3 4 -
+p401
+aVWalter Bond DAL 02/08/1993 DAL @ LAL L 35 11 3 8 37.5 0 0 - 5 5 100.0 0 7 7 1 1 1 4 2 -
+p402
+aVSean Rooks DAL 02/08/1993 DAL @ LAL L 39 16 5 9 55.6 0 0 - 6 13 46.2 1 6 7 3 1 3 6 6 -
+p403
+aVRandy White DAL 02/08/1993 DAL @ LAL L 37 6 3 11 27.3 0 1 0.0 0 0 - 0 6 6 0 2 0 0 5 -
+p404
+aVDerek Harper DAL 02/06/1993 DAL @ DEN L 25 12 4 13 30.8 1 3 33.3 3 4 75.0 0 0 0 3 2 0 0 4 -
+p405
+aVTerry Davis DAL 02/06/1993 DAL @ DEN L 20 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p406
+aVWalter Bond DAL 02/06/1993 DAL @ DEN L 11 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 1 3 4 -
+p407
+aVSean Rooks DAL 02/06/1993 DAL @ DEN L 27 10 5 10 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -
+p408
+aVDonald Hodge DAL 02/06/1993 DAL @ DEN L 9 9 4 6 66.7 0 0 - 1 2 50.0 2 1 3 1 0 0 1 1 -
+p409
+aVDexter Cambridge DAL 02/06/1993 DAL @ DEN L 17 6 3 7 42.9 0 0 - 0 0 - 0 3 3 2 1 0 0 4 -
+p410
+aVMike Iuzzolino DAL 02/06/1993 DAL @ DEN L 23 12 6 10 60.0 0 1 0.0 0 0 - 0 3 3 3 0 0 3 0 -
+p411
+aVRadisav Curcic DAL 02/06/1993 DAL @ DEN L 9 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 3 3 -
+p412
+aVRandy White DAL 02/06/1993 DAL @ DEN L 29 15 6 13 46.2 1 1 100.0 2 2 100.0 5 2 7 0 1 0 6 4 -
+p413
+aVDoug Smith DAL 02/06/1993 DAL @ DEN L 29 8 3 9 33.3 0 0 - 2 2 100.0 2 8 10 1 4 2 2 5 -
+p414
+aVBrian Howard DAL 02/06/1993 DAL @ DEN L 22 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 1 1 0 4 5 -
+p415
+aVLamont Strothers DAL 02/06/1993 DAL @ DEN L 19 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 0 2 0 2 1 -
+p416
+aVDexter Cambridge DAL 02/05/1993 DAL vs. IND W 13 10 4 6 66.7 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -
+p417
+aVDerek Harper DAL 02/05/1993 DAL vs. IND W 40 22 9 22 40.9 1 5 20.0 3 4 75.0 1 1 2 13 2 0 2 3 -
+p418
+aVLamont Strothers DAL 02/05/1993 DAL vs. IND W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p419
+aVSean Rooks DAL 02/05/1993 DAL vs. IND W 31 26 8 15 53.3 0 0 - 10 13 76.9 5 3 8 0 1 1 4 5 -
+p420
+aVTerry Davis DAL 02/05/1993 DAL vs. IND W 35 10 4 10 40.0 0 0 - 2 2 100.0 7 9 16 0 0 1 0 3 -
+p421
+aVDoug Smith DAL 02/05/1993 DAL vs. IND W 29 9 4 14 28.6 0 0 - 1 2 50.0 4 4 8 1 1 3 3 5 -
+p422
+aVBrian Howard DAL 02/05/1993 DAL vs. IND W 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 2 1 5 -
+p423
+aVWalter Bond DAL 02/05/1993 DAL vs. IND W 29 7 3 8 37.5 0 0 - 1 1 100.0 0 3 3 0 0 0 1 4 -
+p424
+aVRandy White DAL 02/05/1993 DAL vs. IND W 36 12 6 13 46.2 0 1 0.0 0 2 0.0 5 4 9 3 1 0 2 5 -
+p425
+aVMike Iuzzolino DAL 02/05/1993 DAL vs. IND W 11 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 0 -
+p426
+aVDexter Cambridge DAL 02/03/1993 DAL vs. HOU L 12 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 2 -
+p427
+aVRandy White DAL 02/03/1993 DAL vs. HOU L 42 22 8 17 47.1 0 0 - 6 6 100.0 5 9 14 0 2 3 1 2 -
+p428
+aVDonald Hodge DAL 02/03/1993 DAL vs. HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -
+p429
+aVDoug Smith DAL 02/03/1993 DAL vs. HOU L 19 8 4 10 40.0 0 0 - 0 0 - 0 1 1 1 0 1 0 4 -
+p430
+aVWalter Bond DAL 02/03/1993 DAL vs. HOU L 26 7 3 8 37.5 0 1 0.0 1 1 100.0 1 3 4 2 0 0 3 6 -
+p431
+aVDerek Harper DAL 02/03/1993 DAL vs. HOU L 45 27 12 21 57.1 1 3 33.3 2 4 50.0 0 1 1 8 1 0 2 4 -
+p432
+aVTerry Davis DAL 02/03/1993 DAL vs. HOU L 38 11 4 9 44.4 0 0 - 3 3 100.0 7 9 16 2 0 2 2 3 -
+p433
+aVMike Iuzzolino DAL 02/03/1993 DAL vs. HOU L 25 11 5 10 50.0 1 2 50.0 0 0 - 1 1 2 2 0 0 2 3 -
+p434
+aVSean Rooks DAL 02/03/1993 DAL vs. HOU L 29 9 4 11 36.4 0 0 - 1 2 50.0 2 2 4 2 1 2 2 5 -
+p435
+aVRandy White DAL 02/01/1993 DAL vs. NJN L 21 8 2 8 25.0 0 1 0.0 4 4 100.0 3 2 5 1 0 0 1 4 -
+p436
+aVWalter Bond DAL 02/01/1993 DAL vs. NJN L 23 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 3 1 0 4 2 -
+p437
+aVTracy Moore DAL 02/01/1993 DAL vs. NJN L 11 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 3 -
+p438
+aVDerek Harper DAL 02/01/1993 DAL vs. NJN L 32 7 2 10 20.0 2 4 50.0 1 3 33.3 0 1 1 1 1 0 2 2 -
+p439
+aVDexter Cambridge DAL 02/01/1993 DAL vs. NJN L 20 8 4 7 57.1 0 0 - 0 0 - 5 0 5 3 0 0 2 3 -
+p440
+aVBrian Howard DAL 02/01/1993 DAL vs. NJN L 11 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 1 2 0 4 -
+p441
+aVRadisav Curcic DAL 02/01/1993 DAL vs. NJN L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p442
+aVDoug Smith DAL 02/01/1993 DAL vs. NJN L 23 6 3 8 37.5 0 0 - 0 0 - 0 6 6 4 1 1 4 6 -
+p443
+aVSean Rooks DAL 02/01/1993 DAL vs. NJN L 30 21 8 15 53.3 0 0 - 5 6 83.3 4 8 12 2 0 1 3 3 -
+p444
+aVMike Iuzzolino DAL 02/01/1993 DAL vs. NJN L 21 14 4 6 66.7 1 1 100.0 5 7 71.4 0 2 2 5 0 0 3 2 -
+p445
+aVDonald Hodge DAL 02/01/1993 DAL vs. NJN L 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 2 2 -
+p446
+aVTerry Davis DAL 02/01/1993 DAL vs. NJN L 34 16 6 9 66.7 0 0 - 4 10 40.0 4 8 12 2 0 1 3 2 -
+p447
+aVDexter Cambridge DAL 01/30/1993 DAL @ PHX L 25 16 8 14 57.1 0 0 - 0 0 - 1 1 2 0 0 0 3 4 -
+p448
+aVRadisav Curcic DAL 01/30/1993 DAL @ PHX L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 0 2 -
+p449
+aVDonald Hodge DAL 01/30/1993 DAL @ PHX L 18 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 0 0 3 4 -
+p450
+aVRandy White DAL 01/30/1993 DAL @ PHX L 35 30 13 24 54.2 1 2 50.0 3 4 75.0 4 7 11 1 1 3 3 2 -
+p451
+aVTerry Davis DAL 01/30/1993 DAL @ PHX L 35 8 2 11 18.2 0 0 - 4 8 50.0 7 10 17 2 2 2 0 1 -
+p452
+aVMike Iuzzolino DAL 01/30/1993 DAL @ PHX L 36 12 4 9 44.4 0 2 0.0 4 4 100.0 0 5 5 13 0 0 3 2 -
+p453
+aVTracy Moore DAL 01/30/1993 DAL @ PHX L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -
+p454
+aVSean Rooks DAL 01/30/1993 DAL @ PHX L 23 14 5 9 55.6 0 0 - 4 6 66.7 3 0 3 6 1 2 2 3 -
+p455
+aVBrian Howard DAL 01/30/1993 DAL @ PHX L 25 15 7 10 70.0 0 1 0.0 1 1 100.0 2 1 3 2 1 0 1 4 -
+p456
+aVWalter Bond DAL 01/30/1993 DAL @ PHX L 22 2 1 8 12.5 0 0 - 0 2 0.0 1 2 3 0 2 1 1 2 -
+p457
+aVDonald Hodge DAL 01/29/1993 DAL vs. SAC L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p458
+aVWalter Bond DAL 01/29/1993 DAL vs. SAC L 39 18 8 15 53.3 0 2 0.0 2 2 100.0 0 2 2 4 3 1 0 4 -
+p459
+aVTerry Davis DAL 01/29/1993 DAL vs. SAC L 42 7 2 8 25.0 0 0 - 3 4 75.0 3 14 17 1 0 1 5 3 -
+p460
+aVRandy White DAL 01/29/1993 DAL vs. SAC L 38 22 9 17 52.9 0 0 - 4 4 100.0 5 8 13 1 0 4 4 6 -
+p461
+aVSean Rooks DAL 01/29/1993 DAL vs. SAC L 30 25 10 17 58.8 0 0 - 5 6 83.3 3 9 12 4 0 1 2 3 -
+p462
+aVMike Iuzzolino DAL 01/29/1993 DAL vs. SAC L 20 10 4 6 66.7 0 1 0.0 2 2 100.0 0 0 0 4 1 0 3 3 -
+p463
+aVDerek Harper DAL 01/29/1993 DAL vs. SAC L 37 28 10 22 45.5 3 7 42.9 5 6 83.3 2 0 2 6 0 0 2 5 -
+p464
+aVDexter Cambridge DAL 01/29/1993 DAL vs. SAC L 14 4 1 3 33.3 0 0 - 2 4 50.0 1 0 1 0 0 0 0 1 -
+p465
+aVBrian Howard DAL 01/29/1993 DAL vs. SAC L 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 1 0 6 -
+p466
+aVBrian Howard DAL 01/26/1993 DAL vs. CHI L 15 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 1 1 2 -
+p467
+aVWalter Bond DAL 01/26/1993 DAL vs. CHI L 21 12 5 9 55.6 0 1 0.0 2 3 66.7 0 1 1 2 0 0 0 3 -
+p468
+aVDonald Hodge DAL 01/26/1993 DAL vs. CHI L 12 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 0 0 2 1 0 -
+p469
+aVTerry Davis DAL 01/26/1993 DAL vs. CHI L 19 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 0 0 2 3 -
+p470
+aVDoug Smith DAL 01/26/1993 DAL vs. CHI L 27 4 1 8 12.5 0 0 - 2 2 100.0 1 4 5 1 1 1 2 4 -
+p471
+aVTracy Moore DAL 01/26/1993 DAL vs. CHI L 22 13 3 8 37.5 1 3 33.3 6 6 100.0 0 2 2 3 1 0 1 0 -
+p472
+aVRandy White DAL 01/26/1993 DAL vs. CHI L 18 9 4 11 36.4 0 1 0.0 1 2 50.0 2 5 7 1 1 1 0 4 -
+p473
+aVSean Rooks DAL 01/26/1993 DAL vs. CHI L 20 7 3 7 42.9 0 0 - 1 4 25.0 0 3 3 0 0 1 2 0 -
+p474
+aVMike Iuzzolino DAL 01/26/1993 DAL vs. CHI L 25 4 2 6 33.3 0 2 0.0 0 1 0.0 0 0 0 6 2 0 2 0 -
+p475
+aVRadisav Curcic DAL 01/26/1993 DAL vs. CHI L 17 11 4 6 66.7 0 0 - 3 5 60.0 2 4 6 0 3 0 1 4 -
+p476
+aVDexter Cambridge DAL 01/26/1993 DAL vs. CHI L 19 12 3 5 60.0 0 0 - 6 6 100.0 1 1 2 1 0 1 3 1 -
+p477
+aVDerek Harper DAL 01/26/1993 DAL vs. CHI L 25 8 3 10 30.0 1 2 50.0 1 2 50.0 1 3 4 4 1 0 5 1 -
+p478
+aVDerek Harper DAL 01/24/1993 DAL @ MIA L 36 24 7 15 46.7 0 4 0.0 10 10 100.0 0 3 3 7 0 0 4 2 -
+p479
+aVTracy Moore DAL 01/24/1993 DAL @ MIA L 28 15 6 13 46.2 1 3 33.3 2 2 100.0 1 1 2 0 1 0 2 3 -
+p480
+aVRadisav Curcic DAL 01/24/1993 DAL @ MIA L 2 2 0 1 0.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 0 -
+p481
+aVDonald Hodge DAL 01/24/1993 DAL @ MIA L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p482
+aVRandy White DAL 01/24/1993 DAL @ MIA L 19 17 5 8 62.5 0 1 0.0 7 10 70.0 5 2 7 0 1 0 1 2 -
+p483
+aVDoug Smith DAL 01/24/1993 DAL @ MIA L 36 10 5 10 50.0 0 0 - 0 0 - 1 1 2 2 1 1 3 6 -
+p484
+aVTerry Davis DAL 01/24/1993 DAL @ MIA L 39 13 5 7 71.4 0 0 - 3 6 50.0 5 7 12 2 2 1 1 4 -
+p485
+aVMike Iuzzolino DAL 01/24/1993 DAL @ MIA L 18 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 0 -
+p486
+aVWalter Bond DAL 01/24/1993 DAL @ MIA L 17 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 0 0 0 3 3 -
+p487
+aVBrian Howard DAL 01/24/1993 DAL @ MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p488
+aVSean Rooks DAL 01/24/1993 DAL @ MIA L 24 10 3 7 42.9 0 0 - 4 6 66.7 2 4 6 1 0 0 1 3 -
+p489
+aVDexter Cambridge DAL 01/24/1993 DAL @ MIA L 11 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 1 5 -
+p490
+aVTerry Davis DAL 01/23/1993 DAL @ ORL L 30 10 5 15 33.3 0 0 - 0 0 - 4 4 8 0 0 0 2 2 -
+p491
+aVDerek Harper DAL 01/23/1993 DAL @ ORL L 28 18 7 14 50.0 2 3 66.7 2 4 50.0 1 1 2 10 0 1 0 1 -
+p492
+aVTracy Moore DAL 01/23/1993 DAL @ ORL L 16 11 4 8 50.0 1 2 50.0 2 2 100.0 2 1 3 2 0 0 2 3 -
+p493
+aVWalter Bond DAL 01/23/1993 DAL @ ORL L 21 7 2 7 28.6 0 1 0.0 3 3 100.0 1 0 1 1 2 0 1 3 -
+p494
+aVRadisav Curcic DAL 01/23/1993 DAL @ ORL L 14 1 0 4 0.0 0 0 - 1 2 50.0 3 2 5 3 0 0 0 1 -
+p495
+aVDoug Smith DAL 01/23/1993 DAL @ ORL L 20 8 4 8 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 5 -
+p496
+aVRandy White DAL 01/23/1993 DAL @ ORL L 20 8 2 6 33.3 0 0 - 4 4 100.0 4 4 8 0 0 0 0 5 -
+p497
+aVDexter Cambridge DAL 01/23/1993 DAL @ ORL L 12 8 3 7 42.9 0 0 - 2 2 100.0 1 3 4 0 0 0 0 3 -
+p498
+aVDonald Hodge DAL 01/23/1993 DAL @ ORL L 18 4 2 8 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -
+p499
+aVMike Iuzzolino DAL 01/23/1993 DAL @ ORL L 21 6 3 7 42.9 0 1 0.0 0 0 - 2 2 4 6 2 0 2 0 -
+p500
+aVSean Rooks DAL 01/23/1993 DAL @ ORL L 24 13 5 11 45.5 0 0 - 3 4 75.0 1 0 1 0 2 0 1 3 -
+p501
+aVBrian Howard DAL 01/23/1993 DAL @ ORL L 16 12 5 7 71.4 0 0 - 2 2 100.0 0 2 2 0 0 0 2 3 -
+p502
+aVDerek Harper DAL 01/21/1993 DAL vs. DEN L 36 12 3 13 23.1 0 4 0.0 6 8 75.0 1 2 3 5 2 1 3 1 -
+p503
+aVWalter Bond DAL 01/21/1993 DAL vs. DEN L 19 12 4 8 50.0 0 1 0.0 4 4 100.0 2 0 2 0 0 0 2 1 -
+p504
+aVTracy Moore DAL 01/21/1993 DAL vs. DEN L 22 16 5 7 71.4 2 2 100.0 4 4 100.0 0 0 0 0 0 0 0 1 -
+p505
+aVRandy White DAL 01/21/1993 DAL vs. DEN L 23 2 0 3 0.0 0 1 0.0 2 2 100.0 2 5 7 0 2 0 0 1 -
+p506
+aVMike Iuzzolino DAL 01/21/1993 DAL vs. DEN L 22 10 5 8 62.5 0 1 0.0 0 0 - 0 1 1 5 1 0 5 0 -
+p507
+aVDoug Smith DAL 01/21/1993 DAL vs. DEN L 24 4 2 10 20.0 0 0 - 0 0 - 2 2 4 2 0 0 1 3 -
+p508
+aVTerry Davis DAL 01/21/1993 DAL vs. DEN L 34 10 5 13 38.5 0 0 - 0 1 0.0 8 11 19 2 0 1 1 3 -
+p509
+aVDexter Cambridge DAL 01/21/1993 DAL vs. DEN L 15 8 4 6 66.7 0 0 - 0 1 0.0 0 1 1 0 1 0 2 0 -
+p510
+aVDonald Hodge DAL 01/21/1993 DAL vs. DEN L 16 10 4 10 40.0 0 0 - 2 2 100.0 2 2 4 1 0 1 0 5 -
+p511
+aVSean Rooks DAL 01/21/1993 DAL vs. DEN L 29 10 5 15 33.3 0 0 - 0 1 0.0 5 2 7 1 0 3 3 4 -
+p512
+aVDexter Cambridge DAL 01/19/1993 DAL vs. DET W 6 4 2 3 66.7 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -
+p513
+aVRandy White DAL 01/19/1993 DAL vs. DET W 25 18 7 9 77.8 0 0 - 4 5 80.0 3 6 9 0 1 0 4 4 -
+p514
+aVDoug Smith DAL 01/19/1993 DAL vs. DET W 24 18 9 15 60.0 0 0 - 0 0 - 0 6 6 2 0 0 3 6 -
+p515
+aVTracy Moore DAL 01/19/1993 DAL vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p516
+aVTerry Davis DAL 01/19/1993 DAL vs. DET W 41 11 4 9 44.4 0 0 - 3 4 75.0 6 12 18 1 1 1 3 5 -
+p517
+aVSean Rooks DAL 01/19/1993 DAL vs. DET W 29 11 4 11 36.4 0 0 - 3 6 50.0 1 6 7 1 0 0 0 4 -
+p518
+aVDonald Hodge DAL 01/19/1993 DAL vs. DET W 19 8 2 3 66.7 0 0 - 4 4 100.0 0 3 3 0 0 0 0 4 -
+p519
+aVWalter Bond DAL 01/19/1993 DAL vs. DET W 31 11 5 7 71.4 1 1 100.0 0 0 - 0 1 1 4 0 0 2 5 -
+p520
+aVMike Iuzzolino DAL 01/19/1993 DAL vs. DET W 22 6 2 4 50.0 1 1 100.0 1 2 50.0 0 2 2 3 0 0 1 2 -
+p521
+aVDerek Harper DAL 01/19/1993 DAL vs. DET W 40 26 10 19 52.6 4 8 50.0 2 2 100.0 0 2 2 11 0 1 4 0 -
+p522
+aVTracy Moore DAL 01/16/1993 DAL @ DEN L 2 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -
+p523
+aVRandy White DAL 01/16/1993 DAL @ DEN L 30 15 5 8 62.5 1 1 100.0 4 6 66.7 1 7 8 2 1 2 4 5 -
+p524
+aVSean Rooks DAL 01/16/1993 DAL @ DEN L 29 14 3 8 37.5 0 0 - 8 10 80.0 3 6 9 1 0 0 3 3 -
+p525
+aVWalter Bond DAL 01/16/1993 DAL @ DEN L 34 7 2 9 22.2 0 1 0.0 3 3 100.0 0 3 3 2 2 1 3 4 -
+p526
+aVTerry Davis DAL 01/16/1993 DAL @ DEN L 39 2 1 7 14.3 0 1 0.0 0 0 - 4 6 10 0 0 0 8 2 -
+p527
+aVDonald Hodge DAL 01/16/1993 DAL @ DEN L 19 10 5 7 71.4 0 0 - 0 0 - 2 2 4 2 2 0 1 4 -
+p528
+aVDerek Harper DAL 01/16/1993 DAL @ DEN L 40 35 10 21 47.6 5 10 50.0 10 12 83.3 0 1 1 5 0 0 2 3 -
+p529
+aVDoug Smith DAL 01/16/1993 DAL @ DEN L 22 4 2 7 28.6 0 0 - 0 0 - 2 3 5 2 1 0 3 3 -
+p530
+aVMike Iuzzolino DAL 01/16/1993 DAL @ DEN L 20 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -
+p531
+aVDexter Cambridge DAL 01/16/1993 DAL @ DEN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p532
+aVDerek Harper DAL 01/15/1993 DAL vs. NYK L 36 28 6 12 50.0 3 5 60.0 13 16 81.3 0 3 3 5 0 0 4 2 -
+p533
+aVDexter Cambridge DAL 01/15/1993 DAL vs. NYK L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 5 -
+p534
+aVDoug Smith DAL 01/15/1993 DAL vs. NYK L 21 8 4 9 44.4 0 0 - 0 1 0.0 0 1 1 2 0 1 2 6 -
+p535
+aVTerry Davis DAL 01/15/1993 DAL vs. NYK L 37 15 5 9 55.6 0 0 - 5 10 50.0 2 9 11 0 0 0 3 3 -
+p536
+aVTracy Moore DAL 01/15/1993 DAL vs. NYK L 10 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 0 -
+p537
+aVWalter Bond DAL 01/15/1993 DAL vs. NYK L 30 14 6 8 75.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 3 -
+p538
+aVRadisav Curcic DAL 01/15/1993 DAL vs. NYK L 5 3 1 3 33.3 0 0 - 1 1 100.0 1 0 1 0 0 1 0 0 -
+p539
+aVBrian Howard DAL 01/15/1993 DAL vs. NYK L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p540
+aVDonald Hodge DAL 01/15/1993 DAL vs. NYK L 19 5 0 3 0.0 0 0 - 5 6 83.3 1 7 8 0 0 0 2 2 -
+p541
+aVMike Iuzzolino DAL 01/15/1993 DAL vs. NYK L 20 4 1 5 20.0 0 1 0.0 2 5 40.0 0 2 2 1 1 0 1 1 -
+p542
+aVSean Rooks DAL 01/15/1993 DAL vs. NYK L 29 11 2 10 20.0 0 0 - 7 10 70.0 2 3 5 1 0 1 1 2 -
+p543
+aVRandy White DAL 01/15/1993 DAL vs. NYK L 18 1 0 5 0.0 0 0 - 1 2 50.0 2 6 8 0 1 1 3 4 -
+p544
+aVDerek Harper DAL 01/13/1993 DAL @ DET L 36 15 4 14 28.6 2 5 40.0 5 8 62.5 0 1 1 5 2 0 5 3 -
+p545
+aVDexter Cambridge DAL 01/13/1993 DAL @ DET L 13 8 4 7 57.1 0 1 0.0 0 0 - 3 0 3 1 0 0 1 1 -
+p546
+aVRandy White DAL 01/13/1993 DAL @ DET L 12 6 3 7 42.9 0 0 - 0 0 - 2 1 3 0 0 0 2 2 -
+p547
+aVSean Rooks DAL 01/13/1993 DAL @ DET L 25 5 1 8 12.5 0 1 0.0 3 9 33.3 4 5 9 0 1 0 0 3 -
+p548
+aVMike Iuzzolino DAL 01/13/1993 DAL @ DET L 26 11 3 8 37.5 2 4 50.0 3 4 75.0 0 3 3 10 0 0 3 2 -
+p549
+aVWalter Bond DAL 01/13/1993 DAL @ DET L 18 8 4 8 50.0 0 1 0.0 0 1 0.0 0 4 4 3 1 1 1 4 -
+p550
+aVRadisav Curcic DAL 01/13/1993 DAL @ DET L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 -
+p551
+aVDonald Hodge DAL 01/13/1993 DAL @ DET L 14 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -
+p552
+aVTerry Davis DAL 01/13/1993 DAL @ DET L 34 17 8 16 50.0 0 0 - 1 5 20.0 10 4 14 1 0 0 3 3 -
+p553
+aVDoug Smith DAL 01/13/1993 DAL @ DET L 27 8 4 13 30.8 0 0 - 0 0 - 1 3 4 1 0 1 0 4 -
+p554
+aVTracy Moore DAL 01/13/1993 DAL @ DET L 16 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 3 -
+p555
+aVBrian Howard DAL 01/13/1993 DAL @ DET L 15 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 2 2 1 0 1 -
+p556
+aVTracy Moore DAL 01/11/1993 DAL vs. CHH L 8 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 -
+p557
+aVSean Rooks DAL 01/11/1993 DAL vs. CHH L 35 20 9 20 45.0 0 0 - 2 5 40.0 3 1 4 4 1 2 2 4 -
+p558
+aVTerry Davis DAL 01/11/1993 DAL vs. CHH L 32 13 6 13 46.2 0 0 - 1 4 25.0 4 5 9 1 0 2 5 5 -
+p559
+aVBrian Howard DAL 01/11/1993 DAL vs. CHH L 18 11 4 7 57.1 0 1 0.0 3 3 100.0 0 2 2 0 0 1 0 1 -
+p560
+aVDoug Smith DAL 01/11/1993 DAL vs. CHH L 20 10 5 7 71.4 0 0 - 0 1 0.0 2 4 6 2 1 1 2 5 -
+p561
+aVMike Iuzzolino DAL 01/11/1993 DAL vs. CHH L 38 6 3 9 33.3 0 3 0.0 0 0 - 0 3 3 6 2 0 1 2 -
+p562
+aVRadisav Curcic DAL 01/11/1993 DAL vs. CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p563
+aVDexter Cambridge DAL 01/11/1993 DAL vs. CHH L 16 10 4 7 57.1 0 0 - 2 2 100.0 2 3 5 1 0 1 1 4 -
+p564
+aVDerek Harper DAL 01/11/1993 DAL vs. CHH L 34 17 4 11 36.4 1 2 50.0 8 8 100.0 0 2 2 7 0 0 1 3 -
+p565
+aVRandy White DAL 01/11/1993 DAL vs. CHH L 20 10 5 8 62.5 0 1 0.0 0 0 - 2 3 5 1 1 2 1 4 -
+p566
+aVWalter Bond DAL 01/11/1993 DAL vs. CHH L 17 11 4 8 50.0 0 0 - 3 3 100.0 0 2 2 2 0 0 2 2 -
+p567
+aVRandy White DAL 01/09/1993 DAL vs. UTH L 22 17 7 15 46.7 0 0 - 3 4 75.0 6 2 8 3 3 2 0 5 -
+p568
+aVBrian Howard DAL 01/09/1993 DAL vs. UTH L 18 2 1 5 20.0 0 0 - 0 0 - 0 3 3 3 1 1 0 0 -
+p569
+aVDexter Cambridge DAL 01/09/1993 DAL vs. UTH L 19 8 3 5 60.0 0 0 - 2 3 66.7 3 1 4 1 2 0 1 3 -
+p570
+aVTracy Moore DAL 01/09/1993 DAL vs. UTH L 13 14 4 12 33.3 0 3 0.0 6 6 100.0 1 0 1 0 1 0 2 1 -
+p571
+aVSean Rooks DAL 01/09/1993 DAL vs. UTH L 23 11 5 8 62.5 0 0 - 1 2 50.0 2 4 6 1 0 0 3 1 -
+p572
+aVWalter Bond DAL 01/09/1993 DAL vs. UTH L 20 1 0 5 0.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 3 -
+p573
+aVMike Iuzzolino DAL 01/09/1993 DAL vs. UTH L 33 18 6 12 50.0 3 3 100.0 3 3 100.0 1 4 5 5 0 0 2 4 -
+p574
+aVRadisav Curcic DAL 01/09/1993 DAL vs. UTH L 9 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 1 -
+p575
+aVDonald Hodge DAL 01/09/1993 DAL vs. UTH L 17 2 1 9 11.1 0 0 - 0 0 - 2 1 3 1 1 0 1 3 -
+p576
+aVDoug Smith DAL 01/09/1993 DAL vs. UTH L 21 8 4 11 36.4 0 0 - 0 2 0.0 0 2 2 0 0 0 1 4 -
+p577
+aVTerry Davis DAL 01/09/1993 DAL vs. UTH L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p578
+aVDerek Harper DAL 01/09/1993 DAL vs. UTH L 30 17 6 13 46.2 2 6 33.3 3 5 60.0 0 0 0 6 4 0 2 6 -
+p579
+aVDoug Smith DAL 01/07/1993 DAL vs. PHX L 14 6 3 8 37.5 0 0 - 0 0 - 0 2 2 2 1 1 1 5 -
+p580
+aVDexter Cambridge DAL 01/07/1993 DAL vs. PHX L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 3 1 -
+p581
+aVSean Rooks DAL 01/07/1993 DAL vs. PHX L 31 15 5 15 33.3 0 0 - 5 9 55.6 7 4 11 1 1 2 4 3 -
+p582
+aVDerek Harper DAL 01/07/1993 DAL vs. PHX L 46 31 9 17 52.9 5 6 83.3 8 10 80.0 1 1 2 7 3 0 5 1 -
+p583
+aVDonald Hodge DAL 01/07/1993 DAL vs. PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p584
+aVTerry Davis DAL 01/07/1993 DAL vs. PHX L 39 15 6 10 60.0 0 0 - 3 9 33.3 1 8 9 1 3 0 2 5 -
+p585
+aVWalter Bond DAL 01/07/1993 DAL vs. PHX L 26 10 3 7 42.9 0 1 0.0 4 5 80.0 1 2 3 5 0 0 2 4 -
+p586
+aVRandy White DAL 01/07/1993 DAL vs. PHX L 17 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 1 4 2 0 3 -
+p587
+aVTracy Moore DAL 01/07/1993 DAL vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p588
+aVBrian Howard DAL 01/07/1993 DAL vs. PHX L 31 12 6 12 50.0 0 0 - 0 0 - 2 2 4 3 2 0 1 6 -
+p589
+aVMike Iuzzolino DAL 01/07/1993 DAL vs. PHX L 25 7 2 4 50.0 0 1 0.0 3 3 100.0 0 6 6 4 1 0 1 3 -
+p590
+aVDonald Hodge DAL 01/05/1993 DAL vs. POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p591
+aVDoug Smith DAL 01/05/1993 DAL vs. POR L 32 10 5 16 31.3 0 0 - 0 0 - 2 7 9 2 2 3 4 5 -
+p592
+aVMike Iuzzolino DAL 01/05/1993 DAL vs. POR L 39 12 4 10 40.0 1 3 33.3 3 4 75.0 0 1 1 7 4 0 2 2 -
+p593
+aVBrian Howard DAL 01/05/1993 DAL vs. POR L 37 6 2 7 28.6 0 0 - 2 4 50.0 2 7 9 2 0 1 1 5 -
+p594
+aVStephen Bardo DAL 01/05/1993 DAL vs. POR L 10 6 3 7 42.9 0 0 - 0 0 - 1 1 2 2 0 0 1 3 -
+p595
+aVSean Rooks DAL 01/05/1993 DAL vs. POR L 16 7 2 7 28.6 0 0 - 3 4 75.0 0 1 1 2 0 0 1 1 -
+p596
+aVTerry Davis DAL 01/05/1993 DAL vs. POR L 41 22 9 17 52.9 0 0 - 4 5 80.0 4 10 14 0 0 0 4 4 -
+p597
+aVWalter Bond DAL 01/05/1993 DAL vs. POR L 30 11 3 7 42.9 0 0 - 5 6 83.3 1 1 2 0 0 0 5 6 -
+p598
+aVRandy White DAL 01/05/1993 DAL vs. POR L 10 2 1 5 20.0 0 0 - 0 2 0.0 1 2 3 1 2 1 1 4 -
+p599
+aVRadisav Curcic DAL 01/05/1993 DAL vs. POR L 1 3 0 0 - 0 0 - 3 4 75.0 0 2 2 0 1 0 0 1 -
+p600
+aVTracy Moore DAL 01/05/1993 DAL vs. POR L 18 16 5 10 50.0 1 3 33.3 5 8 62.5 1 2 3 3 1 1 1 1 -
+p601
+aVTracy Moore DAL 01/02/1993 DAL @ MIN L 20 7 2 8 25.0 1 2 50.0 2 2 100.0 3 1 4 2 2 0 3 2 -
+p602
+aVWalter Bond DAL 01/02/1993 DAL @ MIN L 34 16 6 15 40.0 0 0 - 4 7 57.1 4 4 8 5 2 0 2 3 -
+p603
+aVWalter Palmer DAL 01/02/1993 DAL @ MIN L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p604
+aVDoug Smith DAL 01/02/1993 DAL @ MIN L 32 8 4 12 33.3 0 0 - 0 0 - 4 8 12 1 1 2 1 5 -
+p605
+aVTerry Davis DAL 01/02/1993 DAL @ MIN L 35 10 5 18 27.8 0 0 - 0 0 - 2 6 8 0 0 0 2 1 -
+p606
+aVRadisav Curcic DAL 01/02/1993 DAL @ MIN L 8 2 1 1 100.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -
+p607
+aVRandy White DAL 01/02/1993 DAL @ MIN L 16 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 0 2 1 5 -
+p608
+aVBrian Howard DAL 01/02/1993 DAL @ MIN L 29 7 3 8 37.5 0 0 - 1 1 100.0 0 2 2 0 0 1 1 5 -
+p609
+aVStephen Bardo DAL 01/02/1993 DAL @ MIN L 11 5 1 5 20.0 0 0 - 3 4 75.0 1 0 1 0 1 0 1 2 -
+p610
+aVMike Iuzzolino DAL 01/02/1993 DAL @ MIN L 37 7 2 6 33.3 0 2 0.0 3 4 75.0 0 0 0 6 0 0 4 1 -
+p611
+aVDonald Hodge DAL 01/02/1993 DAL @ MIN L 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -
+p612
+aVWalter Bond DAL 12/30/1992 DAL @ POR L 23 6 3 7 42.9 0 0 - 0 2 0.0 0 2 2 3 2 0 3 1 -
+p613
+aVTerry Davis DAL 12/30/1992 DAL @ POR L 30 16 7 16 43.8 0 0 - 2 2 100.0 1 8 9 0 0 1 4 0 -
+p614
+aVBrian Howard DAL 12/30/1992 DAL @ POR L 33 8 3 12 25.0 0 0 - 2 2 100.0 1 7 8 4 3 0 2 5 -
+p615
+aVStephen Bardo DAL 12/30/1992 DAL @ POR L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 3 0 0 1 3 -
+p616
+aVTracy Moore DAL 12/30/1992 DAL @ POR L 27 16 7 14 50.0 2 3 66.7 0 0 - 2 2 4 1 1 0 1 1 -
+p617
+aVWalter Palmer DAL 12/30/1992 DAL @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p618
+aVRandy White DAL 12/30/1992 DAL @ POR L 19 6 2 7 28.6 0 0 - 2 2 100.0 4 1 5 1 1 1 1 5 -
+p619
+aVRadisav Curcic DAL 12/30/1992 DAL @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 1 1 1 -
+p620
+aVDoug Smith DAL 12/30/1992 DAL @ POR L 30 20 9 17 52.9 0 0 - 2 2 100.0 1 3 4 0 1 2 3 4 -
+p621
+aVMike Iuzzolino DAL 12/30/1992 DAL @ POR L 39 16 6 9 66.7 3 6 50.0 1 2 50.0 0 2 2 9 0 0 0 0 -
+p622
+aVDonald Hodge DAL 12/30/1992 DAL @ POR L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -
+p623
+aVMike Iuzzolino DAL 12/29/1992 DAL @ SAC L 32 11 4 11 36.4 0 1 0.0 3 5 60.0 0 1 1 6 1 0 3 1 -
+p624
+aVWalter Palmer DAL 12/29/1992 DAL @ SAC L 21 6 3 7 42.9 0 0 - 0 1 0.0 0 5 5 0 1 0 2 5 -
+p625
+aVTerry Davis DAL 12/29/1992 DAL @ SAC L 24 4 2 9 22.2 0 0 - 0 0 - 1 3 4 1 0 0 3 0 -
+p626
+aVTracy Moore DAL 12/29/1992 DAL @ SAC L 23 5 2 8 25.0 0 2 0.0 1 2 50.0 0 3 3 1 0 1 3 3 -
+p627
+aVWalter Bond DAL 12/29/1992 DAL @ SAC L 25 8 4 9 44.4 0 0 - 0 0 - 2 5 7 1 1 1 3 2 -
+p628
+aVDoug Smith DAL 12/29/1992 DAL @ SAC L 24 10 5 13 38.5 0 0 - 0 0 - 2 0 2 1 0 2 1 3 -
+p629
+aVRandy White DAL 12/29/1992 DAL @ SAC L 28 15 5 9 55.6 0 0 - 5 5 100.0 2 2 4 1 3 3 3 5 -
+p630
+aVStephen Bardo DAL 12/29/1992 DAL @ SAC L 16 5 2 4 50.0 0 1 0.0 1 2 50.0 1 2 3 0 0 0 4 3 -
+p631
+aVBrian Howard DAL 12/29/1992 DAL @ SAC L 19 8 3 7 42.9 0 0 - 2 2 100.0 0 0 0 1 2 1 2 5 -
+p632
+aVRadisav Curcic DAL 12/29/1992 DAL @ SAC L 15 6 1 3 33.3 0 0 - 4 4 100.0 0 4 4 1 0 0 1 3 -
+p633
+aVDonald Hodge DAL 12/29/1992 DAL @ SAC L 13 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 1 0 0 3 3 -
+p634
+aVRadisav Curcic DAL 12/26/1992 DAL vs. GOS L 13 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -
+p635
+aVTracy Moore DAL 12/26/1992 DAL vs. GOS L 3 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 1 -
+p636
+aVDoug Smith DAL 12/26/1992 DAL vs. GOS L 32 15 5 16 31.3 0 0 - 5 6 83.3 6 5 11 2 0 1 1 3 -
+p637
+aVStephen Bardo DAL 12/26/1992 DAL vs. GOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p638
+aVMike Iuzzolino DAL 12/26/1992 DAL vs. GOS L 28 8 4 8 50.0 0 2 0.0 0 0 - 0 3 3 4 2 0 3 1 -
+p639
+aVDerek Harper DAL 12/26/1992 DAL vs. GOS L 35 18 7 19 36.8 1 1 100.0 3 3 100.0 1 3 4 5 3 1 3 2 -
+p640
+aVWalter Bond DAL 12/26/1992 DAL vs. GOS L 34 20 7 17 41.2 0 0 - 6 8 75.0 5 3 8 3 1 1 2 5 -
+p641
+aVWalter Palmer DAL 12/26/1992 DAL vs. GOS L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p642
+aVRandy White DAL 12/26/1992 DAL vs. GOS L 22 8 2 4 50.0 0 0 - 4 4 100.0 3 2 5 0 0 0 1 5 -
+p643
+aVTerry Davis DAL 12/26/1992 DAL vs. GOS L 35 6 2 14 14.3 0 0 - 2 3 66.7 4 3 7 0 1 0 2 1 -
+p644
+aVDonald Hodge DAL 12/26/1992 DAL vs. GOS L 15 11 5 7 71.4 0 0 - 1 3 33.3 0 2 2 0 0 1 0 3 -
+p645
+aVBrian Howard DAL 12/26/1992 DAL vs. GOS L 21 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -
+p646
+aVRadisav Curcic DAL 12/23/1992 DAL @ GOS L 21 7 2 5 40.0 0 0 - 3 4 75.0 2 3 5 0 1 0 0 5 -
+p647
+aVTracy Moore DAL 12/23/1992 DAL @ GOS L 12 7 3 4 75.0 1 1 100.0 0 0 - 0 2 2 3 3 0 4 0 -
+p648
+aVDerek Harper DAL 12/23/1992 DAL @ GOS L 35 25 10 23 43.5 2 6 33.3 3 6 50.0 1 2 3 3 1 1 1 2 -
+p649
+aVRandy White DAL 12/23/1992 DAL @ GOS L 31 21 9 13 69.2 0 0 - 3 6 50.0 4 1 5 0 2 1 2 3 -
+p650
+aVWalter Bond DAL 12/23/1992 DAL @ GOS L 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 2 3 -
+p651
+aVDoug Smith DAL 12/23/1992 DAL @ GOS L 27 12 6 15 40.0 0 0 - 0 0 - 3 8 11 3 0 2 1 5 -
+p652
+aVMike Iuzzolino DAL 12/23/1992 DAL @ GOS L 32 7 3 5 60.0 1 2 50.0 0 0 - 0 4 4 9 0 1 1 1 -
+p653
+aVBrian Howard DAL 12/23/1992 DAL @ GOS L 29 9 3 10 30.0 0 0 - 3 4 75.0 2 2 4 1 1 1 1 2 -
+p654
+aVStephen Bardo DAL 12/23/1992 DAL @ GOS L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p655
+aVDonald Hodge DAL 12/23/1992 DAL @ GOS L 25 9 4 8 50.0 0 0 - 1 1 100.0 1 3 4 3 1 0 1 5 -
+p656
+aVWalter Palmer DAL 12/23/1992 DAL @ GOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p657
+aVDerek Harper DAL 12/22/1992 DAL @ LAC L 38 20 8 19 42.1 3 4 75.0 1 2 50.0 0 1 1 7 2 1 2 3 -
+p658
+aVDoug Smith DAL 12/22/1992 DAL @ LAC L 28 9 4 7 57.1 0 0 - 1 2 50.0 3 4 7 3 0 1 1 3 -
+p659
+aVRadisav Curcic DAL 12/22/1992 DAL @ LAC L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -
+p660
+aVTracy Moore DAL 12/22/1992 DAL @ LAC L 3 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p661
+aVStephen Bardo DAL 12/22/1992 DAL @ LAC L 5 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 0 1 0 0 1 -
+p662
+aVBrian Howard DAL 12/22/1992 DAL @ LAC L 12 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 2 1 1 2 -
+p663
+aVMike Iuzzolino DAL 12/22/1992 DAL @ LAC L 36 6 2 7 28.6 1 2 50.0 1 1 100.0 1 5 6 6 2 0 1 2 -
+p664
+aVRandy White DAL 12/22/1992 DAL @ LAC L 23 10 5 9 55.6 0 0 - 0 0 - 3 3 6 1 1 0 1 1 -
+p665
+aVDonald Hodge DAL 12/22/1992 DAL @ LAC L 25 7 3 11 27.3 0 0 - 1 2 50.0 3 5 8 3 0 0 3 4 -
+p666
+aVWalter Bond DAL 12/22/1992 DAL @ LAC L 27 11 5 13 38.5 0 0 - 1 2 50.0 4 2 6 0 0 0 1 5 -
+p667
+aVTerry Davis DAL 12/22/1992 DAL @ LAC L 40 20 7 16 43.8 0 0 - 6 10 60.0 7 4 11 2 0 1 3 2 -
+p668
+aVDoug Smith DAL 12/19/1992 DAL @ HOU L 34 27 12 19 63.2 0 0 - 3 3 100.0 1 6 7 0 1 0 2 5 -
+p669
+aVDerek Harper DAL 12/19/1992 DAL @ HOU L 35 22 8 14 57.1 1 4 25.0 5 7 71.4 0 2 2 3 2 0 1 1 -
+p670
+aVMike Iuzzolino DAL 12/19/1992 DAL @ HOU L 33 2 1 6 16.7 0 1 0.0 0 1 0.0 1 2 3 9 0 0 2 1 -
+p671
+aVBrian Howard DAL 12/19/1992 DAL @ HOU L 25 6 3 9 33.3 0 0 - 0 0 - 1 3 4 2 1 1 1 3 -
+p672
+aVWalter Bond DAL 12/19/1992 DAL @ HOU L 24 8 1 10 10.0 0 0 - 6 6 100.0 3 2 5 3 0 1 4 3 -
+p673
+aVTracy Moore DAL 12/19/1992 DAL @ HOU L 6 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p674
+aVDonald Hodge DAL 12/19/1992 DAL @ HOU L 19 3 1 8 12.5 0 0 - 1 1 100.0 1 3 4 0 2 0 2 2 -
+p675
+aVTerry Davis DAL 12/19/1992 DAL @ HOU L 38 18 8 12 66.7 0 0 - 2 3 66.7 3 8 11 2 0 1 3 3 -
+p676
+aVStephen Bardo DAL 12/19/1992 DAL @ HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -
+p677
+aVWalter Palmer DAL 12/19/1992 DAL @ HOU L 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -
+p678
+aVRadisav Curcic DAL 12/19/1992 DAL @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p679
+aVRandy White DAL 12/19/1992 DAL @ HOU L 14 1 0 3 0.0 0 1 0.0 1 2 50.0 2 2 4 0 0 0 2 3 -
+p680
+aVWalter Bond DAL 12/18/1992 DAL @ SAN L 33 19 6 18 33.3 0 1 0.0 7 8 87.5 2 2 4 5 1 0 0 3 -
+p681
+aVBrian Howard DAL 12/18/1992 DAL @ SAN L 31 8 3 10 30.0 0 0 - 2 2 100.0 2 4 6 0 1 0 1 6 -
+p682
+aVDerek Harper DAL 12/18/1992 DAL @ SAN L 40 23 7 14 50.0 1 1 100.0 8 9 88.9 0 1 1 6 0 0 3 1 -
+p683
+aVRandy White DAL 12/18/1992 DAL @ SAN L 30 13 5 8 62.5 0 0 - 3 4 75.0 0 12 12 2 0 0 1 5 -
+p684
+aVMike Iuzzolino DAL 12/18/1992 DAL @ SAN L 22 9 3 6 50.0 2 3 66.7 1 1 100.0 0 1 1 0 0 1 0 0 -
+p685
+aVDoug Smith DAL 12/18/1992 DAL @ SAN L 12 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 1 1 6 -
+p686
+aVTerry Davis DAL 12/18/1992 DAL @ SAN L 40 15 7 16 43.8 0 0 - 1 3 33.3 1 11 12 1 1 1 4 4 -
+p687
+aVTracy Moore DAL 12/18/1992 DAL @ SAN L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -
+p688
+aVStephen Bardo DAL 12/18/1992 DAL @ SAN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p689
+aVRadisav Curcic DAL 12/18/1992 DAL @ SAN L 3 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p690
+aVWalter Palmer DAL 12/18/1992 DAL @ SAN L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -
+p691
+aVDonald Hodge DAL 12/18/1992 DAL @ SAN L 19 6 3 9 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 4 -
+p692
+aVDonald Hodge DAL 12/16/1992 DAL vs. LAL W 21 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 1 0 0 4 -
+p693
+aVMike Iuzzolino DAL 12/16/1992 DAL vs. LAL W 29 4 2 5 40.0 0 3 0.0 0 0 - 0 2 2 7 1 0 2 1 -
+p694
+aVSean Rooks DAL 12/16/1992 DAL vs. LAL W 37 22 10 13 76.9 0 0 - 2 2 100.0 1 8 9 4 0 1 1 4 -
+p695
+aVWalter Bond DAL 12/16/1992 DAL vs. LAL W 19 21 6 12 50.0 0 0 - 9 11 81.8 1 3 4 1 1 0 0 3 -
+p696
+aVBrian Howard DAL 12/16/1992 DAL vs. LAL W 35 12 6 12 50.0 0 0 - 0 0 - 1 8 9 1 1 2 3 4 -
+p697
+aVTerry Davis DAL 12/16/1992 DAL vs. LAL W 37 16 7 11 63.6 0 0 - 2 4 50.0 5 3 8 0 0 1 3 1 -
+p698
+aVDerek Harper DAL 12/16/1992 DAL vs. LAL W 45 15 6 18 33.3 0 4 0.0 3 5 60.0 1 1 2 7 0 0 1 4 -
+p699
+aVTracy Moore DAL 12/16/1992 DAL vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -
+p700
+aVDoug Smith DAL 12/16/1992 DAL vs. LAL W 12 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -
+p701
+aVTracy Moore DAL 12/12/1992 DAL vs. SAN L 16 7 2 11 18.2 0 2 0.0 3 3 100.0 1 1 2 3 0 1 0 3 -
+p702
+aVMike Iuzzolino DAL 12/12/1992 DAL vs. SAN L 38 9 2 7 28.6 0 3 0.0 5 6 83.3 1 1 2 5 1 0 3 3 -
+p703
+aVDerek Harper DAL 12/12/1992 DAL vs. SAN L 39 25 7 18 38.9 2 6 33.3 9 9 100.0 1 1 2 1 0 0 3 2 -
+p704
+aVTerry Davis DAL 12/12/1992 DAL vs. SAN L 27 10 4 9 44.4 0 0 - 2 6 33.3 3 1 4 0 1 0 0 5 -
+p705
+aVStephen Bardo DAL 12/12/1992 DAL vs. SAN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p706
+aVWalter Bond DAL 12/12/1992 DAL vs. SAN L 11 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 1 1 -
+p707
+aVDonald Hodge DAL 12/12/1992 DAL vs. SAN L 20 8 2 7 28.6 0 0 - 4 6 66.7 2 5 7 1 0 2 0 2 -
+p708
+aVRandy White DAL 12/12/1992 DAL vs. SAN L 12 4 1 4 25.0 0 1 0.0 2 2 100.0 1 3 4 0 2 1 0 3 -
+p709
+aVWalter Palmer DAL 12/12/1992 DAL vs. SAN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p710
+aVBrian Howard DAL 12/12/1992 DAL vs. SAN L 33 10 5 9 55.6 0 0 - 0 0 - 2 0 2 0 0 0 3 6 -
+p711
+aVSean Rooks DAL 12/12/1992 DAL vs. SAN L 38 17 7 13 53.8 0 0 - 3 6 50.0 5 11 16 1 1 0 6 4 -
+p712
+aVTerry Davis DAL 12/10/1992 DAL vs. MIN L 39 21 6 17 35.3 0 1 0.0 9 15 60.0 5 7 12 0 0 1 0 4 -
+p713
+aVTracy Moore DAL 12/10/1992 DAL vs. MIN L 8 11 5 9 55.6 1 4 25.0 0 0 - 0 0 0 0 1 0 0 0 -
+p714
+aVDerek Harper DAL 12/10/1992 DAL vs. MIN L 37 6 2 15 13.3 0 4 0.0 2 2 100.0 1 1 2 5 2 1 0 4 -
+p715
+aVBrian Howard DAL 12/10/1992 DAL vs. MIN L 18 2 1 6 16.7 0 0 - 0 0 - 4 0 4 0 2 1 4 6 -
+p716
+aVRandy White DAL 12/10/1992 DAL vs. MIN L 31 12 5 8 62.5 0 0 - 2 3 66.7 3 1 4 2 1 0 0 5 -
+p717
+aVWalter Bond DAL 12/10/1992 DAL vs. MIN L 21 6 2 6 33.3 0 1 0.0 2 2 100.0 2 4 6 3 1 0 2 3 -
+p718
+aVSean Rooks DAL 12/10/1992 DAL vs. MIN L 32 13 4 12 33.3 0 0 - 5 8 62.5 4 4 8 1 1 3 4 1 -
+p719
+aVDonald Hodge DAL 12/10/1992 DAL vs. MIN L 13 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -
+p720
+aVMike Iuzzolino DAL 12/10/1992 DAL vs. MIN L 35 10 3 10 30.0 1 4 25.0 3 3 100.0 1 3 4 3 0 0 3 3 -
+p721
+aVStephen Bardo DAL 12/10/1992 DAL vs. MIN L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p722
+aVWalter Palmer DAL 12/10/1992 DAL vs. MIN L 3 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -
+p723
+aVTerry Davis DAL 12/08/1992 DAL vs. MIA L 17 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 0 0 0 4 5 -
+p724
+aVMike Iuzzolino DAL 12/08/1992 DAL vs. MIA L 39 23 7 12 58.3 3 6 50.0 6 8 75.0 1 1 2 8 0 0 0 2 -
+p725
+aVDoug Smith DAL 12/08/1992 DAL vs. MIA L 30 13 6 11 54.5 0 0 - 1 2 50.0 2 3 5 3 3 0 3 6 -
+p726
+aVDerek Harper DAL 12/08/1992 DAL vs. MIA L 35 27 11 18 61.1 2 5 40.0 3 3 100.0 1 0 1 4 4 0 3 5 -
+p727
+aVRandy White DAL 12/08/1992 DAL vs. MIA L 15 4 2 5 40.0 0 0 - 0 0 - 3 0 3 1 0 0 0 4 -
+p728
+aVSean Rooks DAL 12/08/1992 DAL vs. MIA L 35 19 7 12 58.3 0 0 - 5 10 50.0 3 9 12 1 0 2 0 4 -
+p729
+aVBrian Howard DAL 12/08/1992 DAL vs. MIA L 19 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 6 -
+p730
+aVWalter Palmer DAL 12/08/1992 DAL vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -
+p731
+aVTracy Moore DAL 12/08/1992 DAL vs. MIA L 17 5 2 9 22.2 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -
+p732
+aVDonald Hodge DAL 12/08/1992 DAL vs. MIA L 13 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 1 0 2 5 -
+p733
+aVWalter Bond DAL 12/08/1992 DAL vs. MIA L 16 8 2 9 22.2 0 1 0.0 4 4 100.0 1 0 1 1 2 0 0 4 -
+p734
+aVDoug Smith DAL 12/05/1992 DAL vs. HOU L 30 8 4 9 44.4 0 0 - 0 0 - 0 2 2 6 0 0 4 3 -
+p735
+aVRandy White DAL 12/05/1992 DAL vs. HOU L 7 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 1 -
+p736
+aVStephen Bardo DAL 12/05/1992 DAL vs. HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p737
+aVSean Rooks DAL 12/05/1992 DAL vs. HOU L 24 10 5 5 100.0 0 0 - 0 1 0.0 0 3 3 2 0 1 1 1 -
+p738
+aVTracy Moore DAL 12/05/1992 DAL vs. HOU L 15 7 3 7 42.9 1 1 100.0 0 0 - 1 1 2 1 0 0 0 3 -
+p739
+aVMike Iuzzolino DAL 12/05/1992 DAL vs. HOU L 28 14 6 9 66.7 2 3 66.7 0 0 - 1 2 3 5 0 0 1 1 -
+p740
+aVDonald Hodge DAL 12/05/1992 DAL vs. HOU L 17 0 0 5 0.0 0 0 - 0 0 - 3 0 3 1 0 1 1 2 -
+p741
+aVDerek Harper DAL 12/05/1992 DAL vs. HOU L 39 23 8 15 53.3 2 5 40.0 5 6 83.3 0 1 1 4 1 0 2 3 -
+p742
+aVBrian Howard DAL 12/05/1992 DAL vs. HOU L 21 5 1 5 20.0 0 0 - 3 4 75.0 2 5 7 1 0 0 0 3 -
+p743
+aVWalter Palmer DAL 12/05/1992 DAL vs. HOU L 8 0 0 5 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -
+p744
+aVTerry Davis DAL 12/05/1992 DAL vs. HOU L 35 13 5 12 41.7 0 0 - 3 6 50.0 2 5 7 1 0 0 2 2 -
+p745
+aVWalter Bond DAL 12/05/1992 DAL vs. HOU L 14 12 6 11 54.5 0 2 0.0 0 0 - 2 3 5 0 1 0 1 3 -
+p746
+aVWalter Bond DAL 12/03/1992 DAL @ SEA L 24 8 3 11 27.3 0 2 0.0 2 4 50.0 1 0 1 2 1 0 3 3 -
+p747
+aVBrian Howard DAL 12/03/1992 DAL @ SEA L 18 8 3 6 50.0 0 0 - 2 2 100.0 4 2 6 0 0 0 1 6 -
+p748
+aVRandy White DAL 12/03/1992 DAL @ SEA L 14 6 3 6 50.0 0 1 0.0 0 0 - 3 2 5 0 0 2 0 2 -
+p749
+aVDonald Hodge DAL 12/03/1992 DAL @ SEA L 20 12 4 6 66.7 0 0 - 4 6 66.7 1 3 4 1 1 0 0 3 -
+p750
+aVTerry Davis DAL 12/03/1992 DAL @ SEA L 25 19 6 17 35.3 0 0 - 7 7 100.0 5 3 8 0 1 1 2 1 -
+p751
+aVMike Iuzzolino DAL 12/03/1992 DAL @ SEA L 34 3 0 5 0.0 0 2 0.0 3 4 75.0 1 1 2 5 1 0 3 1 -
+p752
+aVTracy Moore DAL 12/03/1992 DAL @ SEA L 24 20 8 18 44.4 1 5 20.0 3 3 100.0 0 0 0 3 0 0 1 1 -
+p753
+aVWalter Palmer DAL 12/03/1992 DAL @ SEA L 15 6 2 8 25.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 3 -
+p754
+aVStephen Bardo DAL 12/03/1992 DAL @ SEA L 16 2 1 6 16.7 0 1 0.0 0 0 - 0 6 6 4 1 1 1 4 -
+p755
+aVDoug Smith DAL 12/03/1992 DAL @ SEA L 30 16 7 10 70.0 0 0 - 2 2 100.0 3 6 9 1 2 0 4 6 -
+p756
+aVSean Rooks DAL 12/03/1992 DAL @ SEA L 20 8 3 8 37.5 0 0 - 2 4 50.0 3 5 8 1 0 0 1 3 -
+p757
+aVSean Rooks DAL 12/01/1992 DAL @ UTH L 23 4 2 5 40.0 0 0 - 0 0 - 1 7 8 2 2 0 4 3 -
+p758
+aVWalter Bond DAL 12/01/1992 DAL @ UTH L 15 5 2 5 40.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 1 2 -
+p759
+aVWalter Palmer DAL 12/01/1992 DAL @ UTH L 24 18 8 10 80.0 0 0 - 2 2 100.0 2 9 11 1 0 2 1 4 -
+p760
+aVTracy Moore DAL 12/01/1992 DAL @ UTH L 33 20 7 11 63.6 2 2 100.0 4 5 80.0 0 2 2 5 2 0 2 5 -
+p761
+aVDoug Smith DAL 12/01/1992 DAL @ UTH L 22 11 4 11 36.4 0 0 - 3 3 100.0 1 3 4 2 0 1 1 2 -
+p762
+aVTerry Davis DAL 12/01/1992 DAL @ UTH L 34 20 9 13 69.2 0 0 - 2 5 40.0 3 3 6 2 0 0 3 4 -
+p763
+aVBrian Howard DAL 12/01/1992 DAL @ UTH L 26 9 4 8 50.0 0 0 - 1 2 50.0 1 1 2 0 1 1 0 5 -
+p764
+aVDonald Hodge DAL 12/01/1992 DAL @ UTH L 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 1 0 2 1 -
+p765
+aVStephen Bardo DAL 12/01/1992 DAL @ UTH L 13 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -
+p766
+aVMike Iuzzolino DAL 12/01/1992 DAL @ UTH L 35 10 3 9 33.3 0 2 0.0 4 7 57.1 0 3 3 9 0 0 5 4 -
+p767
+aVTerry Davis DAL 11/29/1992 DAL @ LAL L 28 6 2 8 25.0 0 0 - 2 6 33.3 2 10 12 2 0 1 2 3 -
+p768
+aVDerek Harper DAL 11/29/1992 DAL @ LAL L 27 4 2 10 20.0 0 1 0.0 0 0 - 0 0 0 9 3 0 0 2 -
+p769
+aVStephen Bardo DAL 11/29/1992 DAL @ LAL L 12 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 4 1 0 0 2 -
+p770
+aVWalter Bond DAL 11/29/1992 DAL @ LAL L 16 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 3 2 0 2 3 -
+p771
+aVTracy Moore DAL 11/29/1992 DAL @ LAL L 16 14 5 11 45.5 1 4 25.0 3 4 75.0 3 0 3 2 0 0 0 1 -
+p772
+aVSean Rooks DAL 11/29/1992 DAL @ LAL L 25 12 6 6 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 3 4 -
+p773
+aVDonald Hodge DAL 11/29/1992 DAL @ LAL L 18 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 -
+p774
+aVBrian Howard DAL 11/29/1992 DAL @ LAL L 21 14 7 10 70.0 0 0 - 0 0 - 3 4 7 2 2 0 3 5 -
+p775
+aVRandy White DAL 11/29/1992 DAL @ LAL L 16 2 1 8 12.5 0 0 - 0 0 - 3 0 3 2 2 0 1 4 -
+p776
+aVDoug Smith DAL 11/29/1992 DAL @ LAL L 28 10 5 15 33.3 0 1 0.0 0 0 - 1 3 4 1 0 0 3 5 -
+p777
+aVMike Iuzzolino DAL 11/29/1992 DAL @ LAL L 28 4 2 9 22.2 0 3 0.0 0 0 - 0 0 0 2 1 0 2 2 -
+p778
+aVWalter Palmer DAL 11/29/1992 DAL @ LAL L 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 2 0 2 -
+p779
+aVDoug Smith DAL 11/27/1992 DAL vs. SEA L 27 2 1 8 12.5 0 0 - 0 1 0.0 0 7 7 1 1 0 1 5 -
+p780
+aVSean Rooks DAL 11/27/1992 DAL vs. SEA L 27 9 4 7 57.1 0 0 - 1 4 25.0 3 4 7 1 1 0 3 2 -
+p781
+aVBrian Howard DAL 11/27/1992 DAL vs. SEA L 27 12 5 10 50.0 0 0 - 2 2 100.0 1 3 4 2 0 1 1 1 -
+p782
+aVStephen Bardo DAL 11/27/1992 DAL vs. SEA L 13 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 5 2 2 3 0 -
+p783
+aVRandy White DAL 11/27/1992 DAL vs. SEA L 10 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -
+p784
+aVTracy Moore DAL 11/27/1992 DAL vs. SEA L 13 11 5 11 45.5 1 4 25.0 0 0 - 0 1 1 0 3 0 0 1 -
+p785
+aVWalter Bond DAL 11/27/1992 DAL vs. SEA L 12 7 2 4 50.0 0 0 - 3 4 75.0 1 2 3 2 1 0 0 2 -
+p786
+aVWalter Palmer DAL 11/27/1992 DAL vs. SEA L 4 9 4 4 100.0 0 0 - 1 2 50.0 2 0 2 1 0 0 0 2 -
+p787
+aVDonald Hodge DAL 11/27/1992 DAL vs. SEA L 13 3 1 3 33.3 0 0 - 1 2 50.0 3 4 7 1 2 0 2 2 -
+p788
+aVDerek Harper DAL 11/27/1992 DAL vs. SEA L 32 21 8 20 40.0 2 6 33.3 3 7 42.9 0 0 0 1 1 0 1 2 -
+p789
+aVTerry Davis DAL 11/27/1992 DAL vs. SEA L 32 12 4 15 26.7 0 0 - 4 4 100.0 6 8 14 0 0 1 3 2 -
+p790
+aVMike Iuzzolino DAL 11/27/1992 DAL vs. SEA L 30 12 3 7 42.9 1 4 25.0 5 6 83.3 0 1 1 8 0 1 2 2 -
+p791
+aVWalter Bond DAL 11/25/1992 DAL vs. LAC L 17 5 2 7 28.6 0 1 0.0 1 1 100.0 1 1 2 1 0 0 0 0 -
+p792
+aVWalter Palmer DAL 11/25/1992 DAL vs. LAC L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -
+p793
+aVDerek Harper DAL 11/25/1992 DAL vs. LAC L 37 20 8 17 47.1 1 3 33.3 3 4 75.0 1 1 2 5 0 1 1 1 -
+p794
+aVTerry Davis DAL 11/25/1992 DAL vs. LAC L 28 11 3 8 37.5 0 0 - 5 7 71.4 2 7 9 0 0 0 6 2 -
+p795
+aVMike Iuzzolino DAL 11/25/1992 DAL vs. LAC L 34 9 3 7 42.9 2 2 100.0 1 1 100.0 1 1 2 4 1 0 3 1 -
+p796
+aVDoug Smith DAL 11/25/1992 DAL vs. LAC L 28 17 8 16 50.0 0 0 - 1 2 50.0 2 3 5 4 1 0 4 6 -
+p797
+aVTracy Moore DAL 11/25/1992 DAL vs. LAC L 11 12 4 6 66.7 1 1 100.0 3 3 100.0 2 0 2 1 0 0 0 0 -
+p798
+aVSean Rooks DAL 11/25/1992 DAL vs. LAC L 30 22 8 11 72.7 0 0 - 6 10 60.0 2 3 5 1 0 1 2 4 -
+p799
+aVDonald Hodge DAL 11/25/1992 DAL vs. LAC L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -
+p800
+aVRandy White DAL 11/25/1992 DAL vs. LAC L 12 3 1 6 16.7 1 3 33.3 0 2 0.0 3 5 8 0 1 2 3 4 -
+p801
+aVBrian Howard DAL 11/25/1992 DAL vs. LAC L 19 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 0 2 0 0 2 -
+p802
+aVStephen Bardo DAL 11/25/1992 DAL vs. LAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -
+p803
+aVDoug Smith DAL 11/21/1992 DAL vs. CLE L 25 10 5 15 33.3 0 0 - 0 0 - 2 2 4 1 0 0 5 4 -
+p804
+aVTracy Moore DAL 11/21/1992 DAL vs. CLE L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 -
+p805
+aVWalter Bond DAL 11/21/1992 DAL vs. CLE L 26 9 4 7 57.1 0 2 0.0 1 2 50.0 0 3 3 2 2 0 0 4 -
+p806
+aVSean Rooks DAL 11/21/1992 DAL vs. CLE L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -
+p807
+aVDerek Harper DAL 11/21/1992 DAL vs. CLE L 37 25 9 16 56.3 3 7 42.9 4 7 57.1 1 3 4 5 3 0 0 1 -
+p808
+aVWalter Palmer DAL 11/21/1992 DAL vs. CLE L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p809
+aVRandy White DAL 11/21/1992 DAL vs. CLE L 11 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 0 2 0 0 1 -
+p810
+aVDonald Hodge DAL 11/21/1992 DAL vs. CLE L 24 0 0 6 0.0 0 0 - 0 0 - 2 5 7 5 0 1 1 2 -
+p811
+aVStephen Bardo DAL 11/21/1992 DAL vs. CLE L 3 6 1 3 33.3 0 1 0.0 4 4 100.0 1 2 3 0 1 0 1 0 -
+p812
+aVTerry Davis DAL 11/21/1992 DAL vs. CLE L 39 24 11 21 52.4 0 0 - 2 2 100.0 4 6 10 1 2 0 0 2 -
+p813
+aVBrian Howard DAL 11/21/1992 DAL vs. CLE L 19 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 2 1 3 -
+p814
+aVMike Iuzzolino DAL 11/21/1992 DAL vs. CLE L 39 19 8 11 72.7 3 4 75.0 0 0 - 2 3 5 5 0 0 3 0 -
+p815
+aVDerek Harper DAL 11/19/1992 DAL @ SAN L 33 24 10 16 62.5 2 4 50.0 2 4 50.0 0 1 1 5 1 0 1 2 -
+p816
+aVTerry Davis DAL 11/19/1992 DAL @ SAN L 29 17 6 16 37.5 1 1 100.0 4 4 100.0 3 2 5 2 1 0 1 3 -
+p817
+aVDoug Smith DAL 11/19/1992 DAL @ SAN L 23 12 4 9 44.4 0 0 - 4 4 100.0 0 1 1 2 0 0 1 5 -
+p818
+aVRandy White DAL 11/19/1992 DAL @ SAN L 14 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 1 1 0 1 2 -
+p819
+aVStephen Bardo DAL 11/19/1992 DAL @ SAN L 11 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 0 0 0 0 2 -
+p820
+aVBrian Howard DAL 11/19/1992 DAL @ SAN L 23 0 0 6 0.0 0 0 - 0 0 - 1 3 4 1 1 0 2 4 -
+p821
+aVMike Iuzzolino DAL 11/19/1992 DAL @ SAN L 23 10 3 5 60.0 3 3 100.0 1 1 100.0 0 1 1 6 0 0 1 0 -
+p822
+aVSean Rooks DAL 11/19/1992 DAL @ SAN L 21 3 1 6 16.7 0 0 - 1 2 50.0 2 3 5 0 0 0 0 1 -
+p823
+aVTracy Moore DAL 11/19/1992 DAL @ SAN L 15 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 1 1 0 2 1 -
+p824
+aVDonald Hodge DAL 11/19/1992 DAL @ SAN L 17 6 3 5 60.0 0 0 - 0 2 0.0 2 3 5 1 1 0 4 3 -
+p825
+aVWalter Bond DAL 11/19/1992 DAL @ SAN L 29 10 4 8 50.0 1 1 100.0 1 2 50.0 0 5 5 3 3 0 3 3 -
+p826
+aVWalter Palmer DAL 11/19/1992 DAL @ SAN L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p827
+aVTracy Moore DAL 11/17/1992 DAL @ CHH L 13 11 5 10 50.0 1 1 100.0 0 0 - 2 2 4 2 2 0 1 1 -
+p828
+aVTerry Davis DAL 11/17/1992 DAL @ CHH L 21 5 2 11 18.2 0 0 - 1 1 100.0 1 6 7 0 0 0 6 1 -
+p829
+aVBrian Howard DAL 11/17/1992 DAL @ CHH L 21 11 4 14 28.6 0 0 - 3 6 50.0 3 4 7 1 0 0 1 5 -
+p830
+aVDerek Harper DAL 11/17/1992 DAL @ CHH L 26 3 1 14 7.1 1 3 33.3 0 0 - 3 1 4 4 0 0 1 2 -
+p831
+aVRandy White DAL 11/17/1992 DAL @ CHH L 18 8 2 5 40.0 0 0 - 4 6 66.7 4 5 9 1 1 0 1 2 -
+p832
+aVDonald Hodge DAL 11/17/1992 DAL @ CHH L 23 10 5 11 45.5 0 0 - 0 0 - 2 6 8 0 1 1 1 4 -
+p833
+aVMike Iuzzolino DAL 11/17/1992 DAL @ CHH L 26 15 5 7 71.4 0 1 0.0 5 6 83.3 1 1 2 7 0 0 1 2 -
+p834
+aVWalter Bond DAL 11/17/1992 DAL @ CHH L 27 8 2 7 28.6 0 0 - 4 6 66.7 0 1 1 1 1 0 3 5 -
+p835
+aVWalter Palmer DAL 11/17/1992 DAL @ CHH L 4 4 2 2 100.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 -
+p836
+aVDoug Smith DAL 11/17/1992 DAL @ CHH L 20 17 8 13 61.5 0 0 - 1 1 100.0 1 3 4 1 1 0 2 4 -
+p837
+aVStephen Bardo DAL 11/17/1992 DAL @ CHH L 14 5 2 4 50.0 1 1 100.0 0 1 0.0 0 2 2 4 0 0 1 1 -
+p838
+aVSean Rooks DAL 11/17/1992 DAL @ CHH L 27 14 6 16 37.5 0 1 0.0 2 5 40.0 4 5 9 3 0 0 0 5 -
+p839
+aVTerry Davis DAL 11/14/1992 DAL vs. ATL W 40 35 13 19 68.4 0 0 - 9 12 75.0 9 8 17 2 1 0 2 2 -
+p840
+aVSean Rooks DAL 11/14/1992 DAL vs. ATL W 17 8 3 4 75.0 0 0 - 2 3 66.7 0 3 3 1 0 0 1 4 -
+p841
+aVDoug Smith DAL 11/14/1992 DAL vs. ATL W 25 11 5 11 45.5 0 0 - 1 2 50.0 2 3 5 3 0 0 2 5 -
+p842
+aVWalter Bond DAL 11/14/1992 DAL vs. ATL W 24 8 3 10 30.0 0 1 0.0 2 2 100.0 1 3 4 0 1 1 2 2 -
+p843
+aVMike Iuzzolino DAL 11/14/1992 DAL vs. ATL W 30 11 3 5 60.0 2 2 100.0 3 4 75.0 2 2 4 6 0 0 4 0 -
+p844
+aVBrian Howard DAL 11/14/1992 DAL vs. ATL W 25 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 6 -
+p845
+aVStephen Bardo DAL 11/14/1992 DAL vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p846
+aVRandy White DAL 11/14/1992 DAL vs. ATL W 8 1 0 3 0.0 0 0 - 1 2 50.0 0 3 3 1 2 0 1 2 -
+p847
+aVTracy Moore DAL 11/14/1992 DAL vs. ATL W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p848
+aVDonald Hodge DAL 11/14/1992 DAL vs. ATL W 26 9 3 6 50.0 0 0 - 3 4 75.0 3 7 10 1 2 0 4 3 -
+p849
+aVDerek Harper DAL 11/14/1992 DAL vs. ATL W 39 24 6 15 40.0 3 5 60.0 9 14 64.3 1 6 7 7 4 1 3 4 -
+p850
+aVTracy Moore DAL 11/11/1992 DAL vs. MIL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p851
+aVMike Iuzzolino DAL 11/11/1992 DAL vs. MIL L 26 11 2 8 25.0 1 4 25.0 6 6 100.0 1 1 2 5 1 0 1 2 -
+p852
+aVDerek Harper DAL 11/11/1992 DAL vs. MIL L 37 21 7 19 36.8 3 5 60.0 4 6 66.7 1 2 3 4 3 0 4 1 -
+p853
+aVTerry Davis DAL 11/11/1992 DAL vs. MIL L 32 14 5 9 55.6 0 0 - 4 8 50.0 5 6 11 0 0 2 4 6 -
+p854
+aVSean Rooks DAL 11/11/1992 DAL vs. MIL L 32 10 3 7 42.9 0 0 - 4 5 80.0 4 2 6 4 0 2 3 2 -
+p855
+aVRandy White DAL 11/11/1992 DAL vs. MIL L 14 9 3 5 60.0 0 0 - 3 4 75.0 2 0 2 1 1 0 1 3 -
+p856
+aVWalter Bond DAL 11/11/1992 DAL vs. MIL L 24 13 5 9 55.6 1 2 50.0 2 2 100.0 0 1 1 1 1 0 3 6 -
+p857
+aVDonald Hodge DAL 11/11/1992 DAL vs. MIL L 17 6 1 5 20.0 0 0 - 4 6 66.7 2 5 7 2 0 0 3 3 -
+p858
+aVBrian Howard DAL 11/11/1992 DAL vs. MIL L 28 18 8 13 61.5 0 0 - 2 4 50.0 4 2 6 1 3 0 2 5 -
+p859
+aVDoug Smith DAL 11/11/1992 DAL vs. MIL L 24 14 6 12 50.0 0 0 - 2 4 50.0 0 6 6 1 2 0 3 6 -
+p860
+aVDonald Hodge DAL 11/10/1992 DAL @ MIN L 13 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 2 0 1 0 2 -
+p861
+aVSean Rooks DAL 11/10/1992 DAL @ MIN L 37 14 5 13 38.5 0 0 - 4 4 100.0 3 1 4 2 2 3 1 1 -
+p862
+aVTracy Moore DAL 11/10/1992 DAL @ MIN L 18 0 0 7 0.0 0 3 0.0 0 0 - 3 3 6 2 0 1 0 2 -
+p863
+aVStephen Bardo DAL 11/10/1992 DAL @ MIN L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p864
+aVBrian Howard DAL 11/10/1992 DAL @ MIN L 32 9 4 8 50.0 0 0 - 1 2 50.0 0 4 4 1 0 1 1 3 -
+p865
+aVRandy White DAL 11/10/1992 DAL @ MIN L 18 14 5 8 62.5 0 0 - 4 8 50.0 3 1 4 0 0 0 4 6 -
+p866
+aVDoug Smith DAL 11/10/1992 DAL @ MIN L 24 8 4 12 33.3 0 0 - 0 0 - 4 2 6 2 1 1 1 4 -
+p867
+aVDerek Harper DAL 11/10/1992 DAL @ MIN L 35 23 8 17 47.1 2 2 100.0 5 7 71.4 0 2 2 4 2 0 2 5 -
+p868
+aVMike Iuzzolino DAL 11/10/1992 DAL @ MIN L 26 7 3 8 37.5 0 1 0.0 1 1 100.0 1 1 2 6 1 0 1 0 -
+p869
+aVWalter Bond DAL 11/10/1992 DAL @ MIN L 35 25 9 18 50.0 0 1 0.0 7 8 87.5 2 3 5 2 1 1 2 5 -
+p870
+aVWalter Bond DAL 11/07/1992 DAL vs. UTH L 20 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 0 0 1 5 -
+p871
+aVWalter Palmer DAL 11/07/1992 DAL vs. UTH L 6 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -
+p872
+aVRandy White DAL 11/07/1992 DAL vs. UTH L 17 7 2 7 28.6 0 0 - 3 4 75.0 3 2 5 0 2 0 2 2 -
+p873
+aVMike Iuzzolino DAL 11/07/1992 DAL vs. UTH L 32 10 4 13 30.8 1 4 25.0 1 5 20.0 1 5 6 6 2 0 2 0 -
+p874
+aVDerek Harper DAL 11/07/1992 DAL vs. UTH L 38 26 9 18 50.0 2 7 28.6 6 8 75.0 1 4 5 9 0 1 2 1 -
+p875
+aVDoug Smith DAL 11/07/1992 DAL vs. UTH L 22 12 6 13 46.2 0 0 - 0 0 - 1 4 5 3 2 1 1 5 -
+p876
+aVStephen Bardo DAL 11/07/1992 DAL vs. UTH L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p877
+aVDonald Hodge DAL 11/07/1992 DAL vs. UTH L 25 6 1 4 25.0 0 0 - 4 4 100.0 1 3 4 2 2 2 3 4 -
+p878
+aVTracy Moore DAL 11/07/1992 DAL vs. UTH L 12 7 3 6 50.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -
+p879
+aVSean Rooks DAL 11/07/1992 DAL vs. UTH L 37 20 7 11 63.6 0 0 - 6 10 60.0 2 2 4 0 0 1 4 6 -
+p880
+aVBrian Howard DAL 11/07/1992 DAL vs. UTH L 28 12 5 12 41.7 0 1 0.0 2 2 100.0 1 1 2 0 2 0 1 5 -
+p881
+a.

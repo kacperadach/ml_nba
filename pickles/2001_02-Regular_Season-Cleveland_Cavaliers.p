@@ -1,0 +1,1670 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTrajan Langdon CLE 04/17/2002 CLE @ TOR L 22 4 2 5 40.0 0 2 0.0 0 0 - 1 3 4 5 0 1 5 1 -15
+p2
+aVChris Mihm CLE 04/17/2002 CLE @ TOR L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 5 7
+p3
+aVMichael Doleac CLE 04/17/2002 CLE @ TOR L 22 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -23
+p4
+aVBrian Skinner CLE 04/17/2002 CLE @ TOR L 17 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 5 -8
+p5
+aVWesley Person CLE 04/17/2002 CLE @ TOR L 27 12 5 10 50.0 1 2 50.0 1 1 100.0 0 3 3 1 1 0 1 0 -4
+p6
+aVBryant Stith CLE 04/17/2002 CLE @ TOR L 21 0 0 5 0.0 0 0 - 0 0 - 2 0 2 0 1 0 1 1 -17
+p7
+aVAndre Miller CLE 04/17/2002 CLE @ TOR L 26 14 5 9 55.6 0 0 - 4 5 80.0 0 0 0 5 1 0 3 0 -3
+p8
+aVJumaine Jones CLE 04/17/2002 CLE @ TOR L 18 2 0 4 0.0 0 1 0.0 2 2 100.0 1 3 4 1 0 0 0 0 -13
+p9
+aVLamond Murray CLE 04/17/2002 CLE @ TOR L 27 28 10 19 52.6 6 10 60.0 2 4 50.0 1 4 5 2 2 0 1 1 -1
+p10
+aVTyrone Hill CLE 04/17/2002 CLE @ TOR L 23 2 0 3 0.0 0 0 - 2 4 50.0 3 7 10 1 0 0 2 5 2
+p11
+aVRicky Davis CLE 04/17/2002 CLE @ TOR L 28 19 7 17 41.2 0 2 0.0 5 5 100.0 2 0 2 2 0 1 4 1 -15
+p12
+aVJumaine Jones CLE 04/16/2002 CLE vs. IND L 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 1 0 0 6 8
+p13
+aVTrajan Langdon CLE 04/16/2002 CLE vs. IND L 15 8 2 2 100.0 2 2 100.0 2 2 100.0 0 0 0 1 0 0 0 0 4
+p14
+aVZydrunas Ilgauskas CLE 04/16/2002 CLE vs. IND L 27 20 7 16 43.8 0 0 - 6 10 60.0 3 2 5 1 0 2 2 3 -16
+p15
+aVAndre Miller CLE 04/16/2002 CLE vs. IND L 39 21 8 15 53.3 0 1 0.0 5 6 83.3 2 6 8 9 1 0 1 4 -6
+p16
+aVBrian Skinner CLE 04/16/2002 CLE vs. IND L 17 10 5 5 100.0 0 0 - 0 1 0.0 0 1 1 0 1 3 0 2 8
+p17
+aVLamond Murray CLE 04/16/2002 CLE vs. IND L 26 6 3 9 33.3 0 0 - 0 0 - 3 5 8 2 0 1 4 3 -18
+p18
+aVChris Mihm CLE 04/16/2002 CLE vs. IND L 14 6 1 4 25.0 0 0 - 4 4 100.0 0 4 4 0 0 1 0 2 9
+p19
+aVWesley Person CLE 04/16/2002 CLE vs. IND L 36 13 5 14 35.7 2 7 28.6 1 3 33.3 1 3 4 2 1 0 0 1 -6
+p20
+aVTyrone Hill CLE 04/16/2002 CLE vs. IND L 24 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 1 1 1 1 3 -8
+p21
+aVRicky Davis CLE 04/16/2002 CLE vs. IND L 31 6 1 8 12.5 0 0 - 4 4 100.0 0 1 1 6 1 0 3 4 5
+p22
+aVTyrone Hill CLE 04/13/2002 CLE @ ATL L 39 11 5 8 62.5 0 0 - 1 2 50.0 3 9 12 1 1 0 2 3 -5
+p23
+aVZydrunas Ilgauskas CLE 04/13/2002 CLE @ ATL L 25 10 3 6 50.0 0 0 - 4 6 66.7 2 4 6 1 0 3 0 6 2
+p24
+aVWesley Person CLE 04/13/2002 CLE @ ATL L 39 25 8 17 47.1 5 10 50.0 4 6 66.7 1 2 3 0 1 1 3 2 -16
+p25
+aVBryant Stith CLE 04/13/2002 CLE @ ATL L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 2
+p26
+aVRicky Davis CLE 04/13/2002 CLE @ ATL L 40 19 8 15 53.3 0 0 - 3 4 75.0 2 5 7 1 0 1 5 3 -13
+p27
+aVJumaine Jones CLE 04/13/2002 CLE @ ATL L 40 12 5 14 35.7 0 4 0.0 2 2 100.0 3 12 15 2 2 2 0 4 2
+p28
+aVAndre Miller CLE 04/13/2002 CLE @ ATL L 46 27 10 19 52.6 1 2 50.0 6 6 100.0 3 3 6 16 3 0 2 2 2
+p29
+aVLamond Murray CLE 04/13/2002 CLE @ ATL L 26 11 4 11 36.4 3 4 75.0 0 0 - 0 3 3 2 0 0 1 2 0
+p30
+aVChris Mihm CLE 04/13/2002 CLE @ ATL L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p31
+aVTrajan Langdon CLE 04/13/2002 CLE @ ATL L 20 8 3 8 37.5 2 3 66.7 0 0 - 1 3 4 1 0 0 2 2 1
+p32
+aVRicky Davis CLE 04/12/2002 CLE @ CHH L 28 19 9 18 50.0 0 0 - 1 1 100.0 1 3 4 0 1 0 2 1 -2
+p33
+aVWesley Person CLE 04/12/2002 CLE @ CHH L 35 13 4 11 36.4 1 4 25.0 4 6 66.7 2 0 2 1 1 1 2 0 -13
+p34
+aVJumaine Jones CLE 04/12/2002 CLE @ CHH L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p35
+aVZydrunas Ilgauskas CLE 04/12/2002 CLE @ CHH L 23 6 2 4 50.0 0 0 - 2 4 50.0 1 6 7 0 0 0 0 3 -9
+p36
+aVTrajan Langdon CLE 04/12/2002 CLE @ CHH L 19 24 9 10 90.0 2 2 100.0 4 5 80.0 1 1 2 2 3 0 0 0 9
+p37
+aVTyrone Hill CLE 04/12/2002 CLE @ CHH L 26 2 1 6 16.7 0 0 - 0 0 - 3 7 10 1 1 0 1 4 -14
+p38
+aVChris Mihm CLE 04/12/2002 CLE @ CHH L 10 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 1 0 4 0
+p39
+aVBryant Stith CLE 04/12/2002 CLE @ CHH L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p40
+aVLamond Murray CLE 04/12/2002 CLE @ CHH L 36 13 6 12 50.0 1 2 50.0 0 0 - 0 1 1 1 4 0 1 2 -19
+p41
+aVAndre Miller CLE 04/12/2002 CLE @ CHH L 40 16 8 15 53.3 0 1 0.0 0 0 - 1 5 6 16 3 0 5 2 -11
+p42
+aVMichael Doleac CLE 04/12/2002 CLE @ CHH L 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -1
+p43
+aVTrajan Langdon CLE 04/10/2002 CLE vs. MIL W 15 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 4 0 0 5 3 0
+p44
+aVBrian Skinner CLE 04/10/2002 CLE vs. MIL W 14 0 0 1 0.0 0 0 - 0 2 0.0 0 5 5 0 0 3 2 5 4
+p45
+aVAndre Miller CLE 04/10/2002 CLE vs. MIL W 33 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 16 2 2 3 0 25
+p46
+aVZydrunas Ilgauskas CLE 04/10/2002 CLE vs. MIL W 17 13 4 8 50.0 0 0 - 5 6 83.3 4 2 6 1 0 0 0 1 17
+p47
+aVMichael Doleac CLE 04/10/2002 CLE vs. MIL W 9 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -7
+p48
+aVBryant Stith CLE 04/10/2002 CLE vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p49
+aVLamond Murray CLE 04/10/2002 CLE vs. MIL W 24 20 7 11 63.6 4 4 100.0 2 4 50.0 0 3 3 1 0 1 2 4 11
+p50
+aVTyrone Hill CLE 04/10/2002 CLE vs. MIL W 29 8 3 4 75.0 0 0 - 2 2 100.0 1 8 9 0 0 0 1 3 18
+p51
+aVJumaine Jones CLE 04/10/2002 CLE vs. MIL W 20 10 5 6 83.3 0 0 - 0 0 - 2 4 6 1 2 0 4 3 11
+p52
+aVChris Mihm CLE 04/10/2002 CLE vs. MIL W 16 4 1 1 100.0 0 0 - 2 4 50.0 2 4 6 0 0 0 3 3 6
+p53
+aVRicky Davis CLE 04/10/2002 CLE vs. MIL W 24 16 8 13 61.5 0 1 0.0 0 0 - 0 0 0 1 2 0 0 4 13
+p54
+aVWesley Person CLE 04/10/2002 CLE vs. MIL W 36 23 9 17 52.9 1 4 25.0 4 4 100.0 0 6 6 5 3 0 1 1 27
+p55
+aVJumaine Jones CLE 04/08/2002 CLE @ IND W 14 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 4 8
+p56
+aVWesley Person CLE 04/08/2002 CLE @ IND W 37 11 4 8 50.0 2 5 40.0 1 1 100.0 0 1 1 0 0 1 1 1 3
+p57
+aVChris Mihm CLE 04/08/2002 CLE @ IND W 17 7 3 6 50.0 0 0 - 1 2 50.0 4 4 8 0 0 0 0 3 1
+p58
+aVBryant Stith CLE 04/08/2002 CLE @ IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p59
+aVAndre Miller CLE 04/08/2002 CLE @ IND W 39 12 4 10 40.0 0 1 0.0 4 6 66.7 0 6 6 9 0 1 1 5 10
+p60
+aVLamond Murray CLE 04/08/2002 CLE @ IND W 26 9 3 10 30.0 0 1 0.0 3 5 60.0 0 2 2 1 0 0 2 2 -3
+p61
+aVRicky Davis CLE 04/08/2002 CLE @ IND W 30 32 12 15 80.0 0 0 - 8 8 100.0 0 0 0 2 1 1 0 4 18
+p62
+aVTyrone Hill CLE 04/08/2002 CLE @ IND W 31 13 4 12 33.3 0 0 - 5 9 55.6 6 11 17 2 0 1 3 4 6
+p63
+aVZydrunas Ilgauskas CLE 04/08/2002 CLE @ IND W 26 20 7 12 58.3 0 0 - 6 6 100.0 3 8 11 1 0 1 1 4 3
+p64
+aVTrajan Langdon CLE 04/08/2002 CLE @ IND W 14 7 2 6 33.3 0 0 - 3 4 75.0 1 2 3 1 0 0 1 2 11
+p65
+aVTrajan Langdon CLE 04/06/2002 CLE vs. CHI W 12 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 3 0 0 0 1 9
+p66
+aVWesley Person CLE 04/06/2002 CLE vs. CHI W 40 16 7 18 38.9 2 6 33.3 0 0 - 2 3 5 3 0 1 2 1 13
+p67
+aVBryant Stith CLE 04/06/2002 CLE vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 0 2
+p68
+aVRicky Davis CLE 04/06/2002 CLE vs. CHI W 26 18 7 10 70.0 0 0 - 4 4 100.0 0 2 2 4 0 0 1 2 9
+p69
+aVAndre Miller CLE 04/06/2002 CLE vs. CHI W 36 23 8 14 57.1 0 1 0.0 7 8 87.5 1 2 3 16 7 0 3 3 10
+p70
+aVLamond Murray CLE 04/06/2002 CLE vs. CHI W 34 19 7 17 41.2 1 2 50.0 4 4 100.0 2 1 3 4 0 1 0 2 12
+p71
+aVChris Mihm CLE 04/06/2002 CLE vs. CHI W 22 10 5 9 55.6 0 0 - 0 2 0.0 3 6 9 1 0 0 1 2 11
+p72
+aVZydrunas Ilgauskas CLE 04/06/2002 CLE vs. CHI W 20 16 7 19 36.8 0 0 - 2 4 50.0 10 3 13 1 0 3 0 4 4
+p73
+aVJumaine Jones CLE 04/06/2002 CLE vs. CHI W 6 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 0
+p74
+aVBrian Skinner CLE 04/06/2002 CLE vs. CHI W 11 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 1 0 0 1 21
+p75
+aVTyrone Hill CLE 04/06/2002 CLE vs. CHI W 28 6 2 7 28.6 0 0 - 2 3 66.7 3 10 13 1 2 1 1 3 6
+p76
+aVMichael Doleac CLE 04/06/2002 CLE vs. CHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p77
+aVChris Mihm CLE 04/04/2002 CLE @ ORL L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p78
+aVTyrone Hill CLE 04/04/2002 CLE @ ORL L 27 6 2 6 33.3 0 0 - 2 4 50.0 2 9 11 1 1 1 2 6 -8
+p79
+aVLamond Murray CLE 04/04/2002 CLE @ ORL L 35 14 5 14 35.7 2 6 33.3 2 4 50.0 1 9 10 2 0 1 2 4 1
+p80
+aVZydrunas Ilgauskas CLE 04/04/2002 CLE @ ORL L 27 21 9 16 56.3 0 0 - 3 3 100.0 1 2 3 3 0 2 1 3 -7
+p81
+aVRicky Davis CLE 04/04/2002 CLE @ ORL L 34 21 6 9 66.7 0 0 - 9 10 90.0 1 4 5 3 4 0 3 4 -2
+p82
+aVJumaine Jones CLE 04/04/2002 CLE @ ORL L 19 8 3 5 60.0 0 1 0.0 2 4 50.0 1 3 4 0 1 0 0 1 4
+p83
+aVBryant Stith CLE 04/04/2002 CLE @ ORL L 6 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 6
+p84
+aVAndre Miller CLE 04/04/2002 CLE @ ORL L 48 10 4 13 30.8 0 1 0.0 2 3 66.7 2 4 6 15 1 0 6 3 -4
+p85
+aVWesley Person CLE 04/04/2002 CLE @ ORL L 37 15 7 11 63.6 0 2 0.0 1 1 100.0 1 4 5 2 1 0 0 0 -11
+p86
+aVLamond Murray CLE 04/02/2002 CLE vs. PHX W 33 14 6 13 46.2 1 2 50.0 1 1 100.0 2 2 4 0 3 0 3 1 1
+p87
+aVAndre Miller CLE 04/02/2002 CLE vs. PHX W 31 16 6 12 50.0 0 0 - 4 5 80.0 2 4 6 12 0 1 0 4 5
+p88
+aVJumaine Jones CLE 04/02/2002 CLE vs. PHX W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 2 0 -6
+p89
+aVRicky Davis CLE 04/02/2002 CLE vs. PHX W 36 28 12 22 54.5 1 1 100.0 3 6 50.0 3 6 9 3 0 2 5 1 -1
+p90
+aVWesley Person CLE 04/02/2002 CLE vs. PHX W 40 13 5 16 31.3 1 6 16.7 2 2 100.0 1 5 6 4 3 0 1 1 11
+p91
+aVBrian Skinner CLE 04/02/2002 CLE vs. PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p92
+aVChris Mihm CLE 04/02/2002 CLE vs. PHX W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p93
+aVZydrunas Ilgauskas CLE 04/02/2002 CLE vs. PHX W 27 13 4 8 50.0 0 0 - 5 6 83.3 0 4 4 4 1 1 0 3 -5
+p94
+aVTyrone Hill CLE 04/02/2002 CLE vs. PHX W 29 11 3 7 42.9 0 0 - 5 8 62.5 6 9 15 3 0 5 1 2 13
+p95
+aVMichael Doleac CLE 04/02/2002 CLE vs. PHX W 12 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 6
+p96
+aVTrajan Langdon CLE 04/02/2002 CLE vs. PHX W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 2 2 6
+p97
+aVRicky Davis CLE 03/30/2002 CLE vs. CHH L 40 22 8 17 47.1 0 0 - 6 6 100.0 0 2 2 1 0 0 2 1 -13
+p98
+aVBryant Stith CLE 03/30/2002 CLE vs. CHH L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 3 0 1 0 0 -5
+p99
+aVAndre Miller CLE 03/30/2002 CLE vs. CHH L 45 8 4 13 30.8 0 2 0.0 0 0 - 1 7 8 9 2 1 2 3 -13
+p100
+aVZydrunas Ilgauskas CLE 03/30/2002 CLE vs. CHH L 26 14 6 13 46.2 0 0 - 2 2 100.0 1 5 6 2 0 1 3 1 -4
+p101
+aVChris Mihm CLE 03/30/2002 CLE vs. CHH L 12 6 3 5 60.0 0 0 - 0 0 - 3 1 4 0 0 0 0 4 -1
+p102
+aVLamond Murray CLE 03/30/2002 CLE vs. CHH L 36 10 5 15 33.3 0 3 0.0 0 0 - 1 6 7 2 0 1 2 2 -1
+p103
+aVTrajan Langdon CLE 03/30/2002 CLE vs. CHH L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 1 0 0 8
+p104
+aVBrian Skinner CLE 03/30/2002 CLE vs. CHH L 14 6 1 3 33.3 0 0 - 4 5 80.0 1 3 4 0 0 0 0 0 -3
+p105
+aVTyrone Hill CLE 03/30/2002 CLE vs. CHH L 36 13 6 11 54.5 0 1 0.0 1 4 25.0 5 10 15 1 2 1 4 4 -4
+p106
+aVJumaine Jones CLE 03/30/2002 CLE vs. CHH L 8 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 2 0 1 0 -4
+p107
+aVMichael Doleac CLE 03/28/2002 CLE @ UTA L 23 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 2 0 6 -24
+p108
+aVBryant Stith CLE 03/28/2002 CLE @ UTA L 24 15 4 6 66.7 0 0 - 7 9 77.8 1 2 3 0 0 0 0 1 -1
+p109
+aVAndre Miller CLE 03/28/2002 CLE @ UTA L 38 12 3 9 33.3 0 0 - 6 8 75.0 0 3 3 9 1 2 6 4 -21
+p110
+aVTrajan Langdon CLE 03/28/2002 CLE @ UTA L 19 8 3 4 75.0 2 3 66.7 0 0 - 0 4 4 2 0 1 3 2 1
+p111
+aVBrian Skinner CLE 03/28/2002 CLE @ UTA L 17 1 0 4 0.0 0 0 - 1 2 50.0 0 6 6 0 1 1 0 2 5
+p112
+aVJumaine Jones CLE 03/28/2002 CLE @ UTA L 24 14 5 7 71.4 0 1 0.0 4 6 66.7 1 1 2 0 1 0 0 1 1
+p113
+aVLamond Murray CLE 03/28/2002 CLE @ UTA L 31 12 5 14 35.7 1 3 33.3 1 2 50.0 1 4 5 0 0 1 3 1 -22
+p114
+aVChris Mihm CLE 03/28/2002 CLE @ UTA L 24 5 2 4 50.0 0 0 - 1 2 50.0 1 5 6 0 0 0 2 1 -22
+p115
+aVRicky Davis CLE 03/28/2002 CLE @ UTA L 39 23 7 14 50.0 0 1 0.0 9 10 90.0 1 5 6 3 3 1 5 2 -22
+p116
+aVBryant Stith CLE 03/26/2002 CLE @ LAL L 30 14 5 9 55.6 3 3 100.0 1 1 100.0 0 3 3 0 0 0 0 2 -18
+p117
+aVTrajan Langdon CLE 03/26/2002 CLE @ LAL L 24 17 4 8 50.0 2 4 50.0 7 7 100.0 1 4 5 6 2 0 2 1 13
+p118
+aVBrian Skinner CLE 03/26/2002 CLE @ LAL L 24 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 0 0 0 3 9
+p119
+aVJumaine Jones CLE 03/26/2002 CLE @ LAL L 33 7 3 11 27.3 1 6 16.7 0 0 - 1 4 5 4 1 1 1 5 1
+p120
+aVMichael Doleac CLE 03/26/2002 CLE @ LAL L 33 9 4 11 36.4 0 0 - 1 2 50.0 2 6 8 1 1 0 0 4 -2
+p121
+aVRicky Davis CLE 03/26/2002 CLE @ LAL L 42 35 15 24 62.5 1 2 50.0 4 5 80.0 1 3 4 3 0 0 1 1 -3
+p122
+aVAndre Miller CLE 03/26/2002 CLE @ LAL L 35 21 8 9 88.9 0 0 - 5 7 71.4 0 1 1 9 3 0 3 4 -17
+p123
+aVChris Mihm CLE 03/26/2002 CLE @ LAL L 19 8 2 7 28.6 0 0 - 4 4 100.0 1 2 3 1 1 0 0 6 -8
+p124
+aVMichael Doleac CLE 03/25/2002 CLE @ PHX L 27 14 7 10 70.0 0 0 - 0 0 - 2 8 10 0 2 2 0 4 8
+p125
+aVZydrunas Ilgauskas CLE 03/25/2002 CLE @ PHX L 10 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 2 0 2 3 -12
+p126
+aVRicky Davis CLE 03/25/2002 CLE @ PHX L 42 23 10 15 66.7 0 1 0.0 3 3 100.0 1 5 6 5 0 1 2 2 -9
+p127
+aVAndre Miller CLE 03/25/2002 CLE @ PHX L 44 21 6 13 46.2 0 1 0.0 9 10 90.0 0 0 0 17 3 0 0 3 0
+p128
+aVTrajan Langdon CLE 03/25/2002 CLE @ PHX L 15 4 1 5 20.0 1 2 50.0 1 1 100.0 0 1 1 2 0 0 0 3 -4
+p129
+aVChris Mihm CLE 03/25/2002 CLE @ PHX L 19 5 2 7 28.6 0 0 - 1 2 50.0 3 3 6 1 0 0 0 5 -1
+p130
+aVJumaine Jones CLE 03/25/2002 CLE @ PHX L 26 9 4 7 57.1 1 4 25.0 0 0 - 0 5 5 0 1 0 3 2 -5
+p131
+aVBryant Stith CLE 03/25/2002 CLE @ PHX L 10 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -5
+p132
+aVBrian Skinner CLE 03/25/2002 CLE @ PHX L 11 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 1 1 0 -4
+p133
+aVWesley Person CLE 03/25/2002 CLE @ PHX L 37 14 6 17 35.3 1 6 16.7 1 2 50.0 0 1 1 4 1 0 2 1 2
+p134
+aVAndre Miller CLE 03/22/2002 CLE vs. TOR L 32 9 3 8 37.5 0 0 - 3 4 75.0 3 2 5 10 1 0 1 1 -13
+p135
+aVJumaine Jones CLE 03/22/2002 CLE vs. TOR L 24 5 2 9 22.2 1 3 33.3 0 0 - 3 6 9 2 2 0 4 3 -9
+p136
+aVBrian Skinner CLE 03/22/2002 CLE vs. TOR L 17 11 5 7 71.4 0 0 - 1 3 33.3 3 5 8 0 0 2 0 2 9
+p137
+aVWesley Person CLE 03/22/2002 CLE vs. TOR L 29 15 7 13 53.8 0 0 - 1 2 50.0 1 3 4 1 0 1 1 1 -2
+p138
+aVMichael Doleac CLE 03/22/2002 CLE vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p139
+aVChris Mihm CLE 03/22/2002 CLE vs. TOR L 22 4 1 3 33.3 0 0 - 2 4 50.0 3 1 4 1 0 1 1 4 -12
+p140
+aVZydrunas Ilgauskas CLE 03/22/2002 CLE vs. TOR L 16 3 0 5 0.0 0 0 - 3 6 50.0 1 3 4 1 0 1 2 2 2
+p141
+aVRicky Davis CLE 03/22/2002 CLE vs. TOR L 27 12 5 15 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 3 0 -14
+p142
+aVLamond Murray CLE 03/22/2002 CLE vs. TOR L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 4 -13
+p143
+aVTrajan Langdon CLE 03/22/2002 CLE vs. TOR L 19 9 4 9 44.4 1 4 25.0 0 0 - 1 0 1 1 0 0 0 0 -1
+p144
+aVBryant Stith CLE 03/22/2002 CLE vs. TOR L 17 5 1 4 25.0 1 1 100.0 2 2 100.0 1 1 2 3 1 0 0 2 -5
+p145
+aVTyrone Hill CLE 03/22/2002 CLE vs. TOR L 21 7 3 5 60.0 0 0 - 1 1 100.0 2 4 6 0 2 0 3 3 -14
+p146
+aVChris Mihm CLE 03/20/2002 CLE @ BOS L 31 12 5 7 71.4 0 0 - 2 2 100.0 2 7 9 0 1 3 2 2 -22
+p147
+aVTrajan Langdon CLE 03/20/2002 CLE @ BOS L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -8
+p148
+aVAndre Miller CLE 03/20/2002 CLE @ BOS L 36 9 4 14 28.6 0 1 0.0 1 3 33.3 1 6 7 7 1 2 6 4 -12
+p149
+aVBryant Stith CLE 03/20/2002 CLE @ BOS L 20 4 2 7 28.6 0 4 0.0 0 0 - 0 0 0 1 1 1 1 1 -20
+p150
+aVJumaine Jones CLE 03/20/2002 CLE @ BOS L 18 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 0 0 0 0 1 -19
+p151
+aVRicky Davis CLE 03/20/2002 CLE @ BOS L 28 3 0 9 0.0 0 1 0.0 3 4 75.0 0 2 2 2 2 0 4 4 -23
+p152
+aVWesley Person CLE 03/20/2002 CLE @ BOS L 27 17 6 11 54.5 4 5 80.0 1 2 50.0 0 2 2 1 1 0 2 0 -5
+p153
+aVZydrunas Ilgauskas CLE 03/20/2002 CLE @ BOS L 15 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 0 1 0 -7
+p154
+aVMichael Doleac CLE 03/20/2002 CLE @ BOS L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p155
+aVBrian Skinner CLE 03/20/2002 CLE @ BOS L 20 4 2 2 100.0 0 0 - 0 1 0.0 3 6 9 1 0 0 1 2 -4
+p156
+aVLamond Murray CLE 03/20/2002 CLE @ BOS L 29 11 3 12 25.0 2 4 50.0 3 4 75.0 1 3 4 4 0 0 3 2 -11
+p157
+aVLamond Murray CLE 03/19/2002 CLE vs. NJN W 29 17 7 15 46.7 1 4 25.0 2 2 100.0 3 3 6 1 1 1 1 2 10
+p158
+aVAndre Miller CLE 03/19/2002 CLE vs. NJN W 47 23 8 16 50.0 2 3 66.7 5 5 100.0 2 0 2 14 3 0 4 4 3
+p159
+aVMichael Doleac CLE 03/19/2002 CLE vs. NJN W 12 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -4
+p160
+aVJumaine Jones CLE 03/19/2002 CLE vs. NJN W 23 7 3 4 75.0 1 2 50.0 0 0 - 0 5 5 3 0 1 0 0 8
+p161
+aVTrajan Langdon CLE 03/19/2002 CLE vs. NJN W 7 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p162
+aVRicky Davis CLE 03/19/2002 CLE vs. NJN W 23 11 5 10 50.0 0 0 - 1 1 100.0 1 0 1 2 1 1 2 1 0
+p163
+aVZydrunas Ilgauskas CLE 03/19/2002 CLE vs. NJN W 29 26 6 16 37.5 0 0 - 14 17 82.4 7 7 14 1 1 2 4 3 8
+p164
+aVWesley Person CLE 03/19/2002 CLE vs. NJN W 36 12 4 9 44.4 2 4 50.0 2 2 100.0 0 5 5 2 0 0 0 1 10
+p165
+aVBrian Skinner CLE 03/19/2002 CLE vs. NJN W 14 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -6
+p166
+aVChris Mihm CLE 03/19/2002 CLE vs. NJN W 16 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -7
+p167
+aVBryant Stith CLE 03/19/2002 CLE vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p168
+aVAndre Miller CLE 03/17/2002 CLE vs. NYK W 45 23 8 14 57.1 1 1 100.0 6 6 100.0 1 3 4 14 0 0 4 3 2
+p169
+aVChris Mihm CLE 03/17/2002 CLE vs. NYK W 19 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -5
+p170
+aVWesley Person CLE 03/17/2002 CLE vs. NYK W 44 29 12 14 85.7 4 5 80.0 1 1 100.0 1 3 4 4 2 0 0 0 5
+p171
+aVZydrunas Ilgauskas CLE 03/17/2002 CLE vs. NYK W 28 20 9 16 56.3 0 0 - 2 2 100.0 4 4 8 1 1 3 3 4 11
+p172
+aVLamond Murray CLE 03/17/2002 CLE vs. NYK W 28 12 4 14 28.6 1 2 50.0 3 4 75.0 2 0 2 3 0 0 0 0 2
+p173
+aVRicky Davis CLE 03/17/2002 CLE vs. NYK W 27 10 2 9 22.2 0 0 - 6 6 100.0 0 4 4 4 1 0 2 0 6
+p174
+aVJumaine Jones CLE 03/17/2002 CLE vs. NYK W 17 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 1 1 0 2 1 5
+p175
+aVTyrone Hill CLE 03/17/2002 CLE vs. NYK W 33 6 3 8 37.5 0 0 - 0 0 - 1 8 9 0 0 0 1 2 -1
+p176
+aVChris Mihm CLE 03/16/2002 CLE @ NYK L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 0 2 6
+p177
+aVRicky Davis CLE 03/16/2002 CLE @ NYK L 29 18 8 14 57.1 0 2 0.0 2 4 50.0 0 1 1 2 4 0 1 3 -2
+p178
+aVAndre Miller CLE 03/16/2002 CLE @ NYK L 35 10 3 10 30.0 0 1 0.0 4 4 100.0 1 2 3 11 1 0 4 4 -2
+p179
+aVTyrone Hill CLE 03/16/2002 CLE @ NYK L 27 4 1 6 16.7 0 0 - 2 2 100.0 3 6 9 0 0 0 0 5 -15
+p180
+aVTrajan Langdon CLE 03/16/2002 CLE @ NYK L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 3 -8
+p181
+aVZydrunas Ilgauskas CLE 03/16/2002 CLE @ NYK L 15 4 2 8 25.0 0 1 0.0 0 0 - 2 1 3 1 0 1 2 3 2
+p182
+aVLamond Murray CLE 03/16/2002 CLE @ NYK L 35 24 10 16 62.5 3 4 75.0 1 2 50.0 1 4 5 4 2 1 1 4 -10
+p183
+aVBrian Skinner CLE 03/16/2002 CLE @ NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p184
+aVWesley Person CLE 03/16/2002 CLE @ NYK L 37 13 6 15 40.0 1 6 16.7 0 0 - 0 6 6 1 2 0 1 3 -2
+p185
+aVMichael Doleac CLE 03/16/2002 CLE @ NYK L 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -5
+p186
+aVJumaine Jones CLE 03/16/2002 CLE @ NYK L 31 14 7 10 70.0 0 0 - 0 0 - 1 4 5 0 1 0 0 1 -13
+p187
+aVLamond Murray CLE 03/13/2002 CLE @ DET L 28 12 5 12 41.7 1 2 50.0 1 3 33.3 0 1 1 0 2 0 2 3 3
+p188
+aVWesley Person CLE 03/13/2002 CLE @ DET L 33 12 5 9 55.6 0 1 0.0 2 2 100.0 1 3 4 0 1 0 1 1 -4
+p189
+aVAndre Miller CLE 03/13/2002 CLE @ DET L 38 16 6 14 42.9 0 1 0.0 4 4 100.0 0 4 4 9 3 1 2 3 -1
+p190
+aVTrajan Langdon CLE 03/13/2002 CLE @ DET L 9 7 3 5 60.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 1 1
+p191
+aVRicky Davis CLE 03/13/2002 CLE @ DET L 30 13 4 9 44.4 0 0 - 5 6 83.3 0 3 3 0 6 0 3 2 3
+p192
+aVTyrone Hill CLE 03/13/2002 CLE @ DET L 38 11 3 10 30.0 0 0 - 5 8 62.5 2 7 9 0 1 0 3 4 3
+p193
+aVBryant Stith CLE 03/13/2002 CLE @ DET L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -3
+p194
+aVZydrunas Ilgauskas CLE 03/13/2002 CLE @ DET L 17 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 0 2 1 -9
+p195
+aVJumaine Jones CLE 03/13/2002 CLE @ DET L 30 9 4 8 50.0 1 2 50.0 0 2 0.0 2 10 12 2 0 0 1 4 5
+p196
+aVChris Mihm CLE 03/13/2002 CLE @ DET L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -3
+p197
+aVBryant Stith CLE 03/10/2002 CLE vs. LAC L 23 4 1 4 25.0 0 1 0.0 2 3 66.7 1 5 6 2 3 0 3 3 -8
+p198
+aVBrian Skinner CLE 03/10/2002 CLE vs. LAC L 22 6 3 3 100.0 0 0 - 0 0 - 2 4 6 0 2 2 0 2 1
+p199
+aVJeff Trepagnier CLE 03/10/2002 CLE vs. LAC L 17 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 1 0 2 1 5
+p200
+aVZydrunas Ilgauskas CLE 03/10/2002 CLE vs. LAC L 14 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 0 2 1 3 -12
+p201
+aVAndre Miller CLE 03/10/2002 CLE vs. LAC L 30 6 3 9 33.3 0 0 - 0 0 - 0 0 0 10 3 0 1 1 -24
+p202
+aVLamond Murray CLE 03/10/2002 CLE vs. LAC L 17 4 2 11 18.2 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -15
+p203
+aVWesley Person CLE 03/10/2002 CLE vs. LAC L 30 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 2 2 0 0 1 -17
+p204
+aVTrajan Langdon CLE 03/10/2002 CLE vs. LAC L 18 17 6 13 46.2 4 6 66.7 1 1 100.0 0 2 2 1 0 2 2 2 7
+p205
+aVRicky Davis CLE 03/10/2002 CLE vs. LAC L 26 6 2 7 28.6 0 1 0.0 2 2 100.0 0 1 1 4 0 0 3 2 -14
+p206
+aVMichael Doleac CLE 03/10/2002 CLE vs. LAC L 12 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -6
+p207
+aVJumaine Jones CLE 03/10/2002 CLE vs. LAC L 31 14 7 14 50.0 0 0 - 0 0 - 0 7 7 1 0 1 1 1 -2
+p208
+aVJumaine Jones CLE 03/08/2002 CLE @ MIL W 37 10 5 9 55.6 0 1 0.0 0 0 - 1 7 8 1 0 0 0 4 3
+p209
+aVTyrone Hill CLE 03/08/2002 CLE @ MIL W 42 16 4 9 44.4 0 0 - 8 10 80.0 2 7 9 0 0 0 0 3 7
+p210
+aVZydrunas Ilgauskas CLE 03/08/2002 CLE @ MIL W 14 5 1 6 16.7 0 0 - 3 3 100.0 3 1 4 0 0 0 4 0 -3
+p211
+aVLamond Murray CLE 03/08/2002 CLE @ MIL W 29 12 4 14 28.6 2 3 66.7 2 2 100.0 0 4 4 2 0 0 0 0 3
+p212
+aVRicky Davis CLE 03/08/2002 CLE @ MIL W 31 21 8 11 72.7 1 2 50.0 4 4 100.0 0 6 6 2 1 0 4 2 12
+p213
+aVWesley Person CLE 03/08/2002 CLE @ MIL W 44 18 7 11 63.6 4 5 80.0 0 0 - 0 3 3 2 3 2 0 0 12
+p214
+aVAndre Miller CLE 03/08/2002 CLE @ MIL W 53 31 11 18 61.1 0 2 0.0 9 10 90.0 1 2 3 11 1 1 1 5 6
+p215
+aVMichael Doleac CLE 03/08/2002 CLE @ MIL W 15 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 0 2 2 -10
+p216
+aVJumaine Jones CLE 03/06/2002 CLE @ PHI L 25 2 1 5 20.0 0 1 0.0 0 2 0.0 4 3 7 4 0 1 0 3 -4
+p217
+aVZydrunas Ilgauskas CLE 03/06/2002 CLE @ PHI L 27 4 2 11 18.2 0 0 - 0 0 - 0 2 2 2 0 0 2 4 -7
+p218
+aVRicky Davis CLE 03/06/2002 CLE @ PHI L 17 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 3 3 -10
+p219
+aVMichael Doleac CLE 03/06/2002 CLE @ PHI L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p220
+aVAndre Miller CLE 03/06/2002 CLE @ PHI L 44 14 5 15 33.3 2 4 50.0 2 2 100.0 1 3 4 13 3 1 3 4 -9
+p221
+aVTyrone Hill CLE 03/06/2002 CLE @ PHI L 36 10 3 6 50.0 0 0 - 4 6 66.7 5 5 10 0 1 0 4 3 -5
+p222
+aVWesley Person CLE 03/06/2002 CLE @ PHI L 39 17 7 18 38.9 1 5 20.0 2 2 100.0 3 8 11 0 1 1 0 1 -4
+p223
+aVTrajan Langdon CLE 03/06/2002 CLE @ PHI L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p224
+aVLamond Murray CLE 03/06/2002 CLE @ PHI L 43 22 9 20 45.0 4 7 57.1 0 0 - 3 5 8 1 1 0 4 4 -7
+p225
+aVJumaine Jones CLE 03/05/2002 CLE vs. ATL W 27 2 1 6 16.7 0 1 0.0 0 0 - 2 6 8 3 1 0 1 0 8
+p226
+aVBryant Stith CLE 03/05/2002 CLE vs. ATL W 9 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 1
+p227
+aVMichael Doleac CLE 03/05/2002 CLE vs. ATL W 8 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 2 1 0 0 0 0
+p228
+aVTyrone Hill CLE 03/05/2002 CLE vs. ATL W 29 10 4 9 44.4 0 0 - 2 5 40.0 4 8 12 2 0 0 3 6 0
+p229
+aVRicky Davis CLE 03/05/2002 CLE vs. ATL W 27 12 5 8 62.5 0 1 0.0 2 4 50.0 0 1 1 4 0 0 3 2 8
+p230
+aVLamond Murray CLE 03/05/2002 CLE vs. ATL W 37 23 7 16 43.8 3 4 75.0 6 6 100.0 0 7 7 5 3 2 1 1 1
+p231
+aVWesley Person CLE 03/05/2002 CLE vs. ATL W 39 19 9 20 45.0 1 5 20.0 0 0 - 1 4 5 3 0 0 2 1 6
+p232
+aVBrian Skinner CLE 03/05/2002 CLE vs. ATL W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p233
+aVAndre Miller CLE 03/05/2002 CLE vs. ATL W 37 13 6 14 42.9 1 2 50.0 0 0 - 1 2 3 7 2 0 0 0 4
+p234
+aVZydrunas Ilgauskas CLE 03/05/2002 CLE vs. ATL W 21 13 3 8 37.5 0 0 - 7 8 87.5 5 2 7 0 0 0 1 4 6
+p235
+aVWesley Person CLE 03/03/2002 CLE vs. MIL L 37 11 5 13 38.5 1 3 33.3 0 0 - 2 4 6 1 0 1 0 1 -1
+p236
+aVTrajan Langdon CLE 03/03/2002 CLE vs. MIL L 9 5 1 3 33.3 0 1 0.0 3 4 75.0 1 1 2 1 0 0 0 0 -6
+p237
+aVBrian Skinner CLE 03/03/2002 CLE vs. MIL L 6 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -7
+p238
+aVJumaine Jones CLE 03/03/2002 CLE vs. MIL L 20 2 1 5 20.0 0 0 - 0 0 - 3 7 10 1 1 0 1 1 -4
+p239
+aVRicky Davis CLE 03/03/2002 CLE vs. MIL L 13 9 3 7 42.9 1 3 33.3 2 2 100.0 0 0 0 2 0 0 2 1 -15
+p240
+aVLamond Murray CLE 03/03/2002 CLE vs. MIL L 27 10 3 13 23.1 0 3 0.0 4 7 57.1 1 1 2 2 1 0 1 1 -3
+p241
+aVBryant Stith CLE 03/03/2002 CLE vs. MIL L 14 11 4 7 57.1 2 3 66.7 1 2 50.0 2 0 2 1 0 0 0 1 2
+p242
+aVMichael Doleac CLE 03/03/2002 CLE vs. MIL L 26 6 3 5 60.0 0 0 - 0 0 - 4 6 10 0 0 0 0 3 1
+p243
+aVTyrone Hill CLE 03/03/2002 CLE vs. MIL L 35 12 4 7 57.1 0 0 - 4 5 80.0 1 11 12 0 0 0 3 3 -21
+p244
+aVAndre Miller CLE 03/03/2002 CLE vs. MIL L 37 17 4 13 30.8 0 1 0.0 9 10 90.0 0 1 1 8 0 0 4 3 2
+p245
+aVZydrunas Ilgauskas CLE 03/03/2002 CLE vs. MIL L 16 7 3 5 60.0 0 1 0.0 1 2 50.0 0 1 1 2 0 1 2 3 2
+p246
+aVWesley Person CLE 03/02/2002 CLE @ ATL L 39 11 5 14 35.7 1 8 12.5 0 0 - 0 3 3 0 0 1 1 1 6
+p247
+aVJumaine Jones CLE 03/02/2002 CLE @ ATL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -7
+p248
+aVJeff Trepagnier CLE 03/02/2002 CLE @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p249
+aVTrajan Langdon CLE 03/02/2002 CLE @ ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p250
+aVZydrunas Ilgauskas CLE 03/02/2002 CLE @ ATL L 31 17 5 8 62.5 0 0 - 7 9 77.8 4 8 12 0 1 1 1 3 8
+p251
+aVMichael Doleac CLE 03/02/2002 CLE @ ATL L 15 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 1 0 3 1 -4
+p252
+aVLamond Murray CLE 03/02/2002 CLE @ ATL L 40 29 12 23 52.2 1 4 25.0 4 4 100.0 1 7 8 2 1 1 2 1 5
+p253
+aVRicky Davis CLE 03/02/2002 CLE @ ATL L 12 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 1 0 4 1 -10
+p254
+aVBrian Skinner CLE 03/02/2002 CLE @ ATL L 13 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 2 1 1 -5
+p255
+aVAndre Miller CLE 03/02/2002 CLE @ ATL L 43 12 3 10 30.0 0 1 0.0 6 6 100.0 0 3 3 9 1 0 2 4 6
+p256
+aVTyrone Hill CLE 03/02/2002 CLE @ ATL L 38 5 2 6 33.3 0 0 - 1 2 50.0 2 8 10 2 1 2 1 2 -5
+p257
+aVBrian Skinner CLE 02/28/2002 CLE vs. SAS W 16 8 4 5 80.0 0 0 - 0 0 - 3 0 3 0 0 2 0 2 -13
+p258
+aVRicky Davis CLE 02/28/2002 CLE vs. SAS W 28 5 1 5 20.0 1 1 100.0 2 4 50.0 2 4 6 3 0 0 2 4 0
+p259
+aVTyrone Hill CLE 02/28/2002 CLE vs. SAS W 42 10 4 8 50.0 0 0 - 2 2 100.0 1 7 8 0 1 1 1 5 10
+p260
+aVMichael Doleac CLE 02/28/2002 CLE vs. SAS W 15 3 1 1 100.0 0 0 - 1 2 50.0 2 7 9 2 0 0 2 1 9
+p261
+aVAndre Miller CLE 02/28/2002 CLE vs. SAS W 50 37 13 25 52.0 1 3 33.3 10 10 100.0 0 1 1 7 1 0 3 2 13
+p262
+aVWesley Person CLE 02/28/2002 CLE vs. SAS W 42 15 6 11 54.5 0 1 0.0 3 3 100.0 0 2 2 2 1 1 1 1 4
+p263
+aVLamond Murray CLE 02/28/2002 CLE vs. SAS W 39 22 7 14 50.0 3 7 42.9 5 6 83.3 1 4 5 4 1 1 2 6 7
+p264
+aVJumaine Jones CLE 02/28/2002 CLE vs. SAS W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 1
+p265
+aVZydrunas Ilgauskas CLE 02/28/2002 CLE vs. SAS W 26 12 4 10 40.0 0 0 - 4 7 57.1 1 5 6 3 0 1 2 6 4
+p266
+aVDeSagana Diop CLE 02/26/2002 CLE vs. SEA L 8 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 -4
+p267
+aVLamond Murray CLE 02/26/2002 CLE vs. SEA L 32 12 5 13 38.5 0 3 0.0 2 2 100.0 1 0 1 0 1 0 3 2 -9
+p268
+aVBrian Skinner CLE 02/26/2002 CLE vs. SEA L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -6
+p269
+aVAndre Miller CLE 02/26/2002 CLE vs. SEA L 35 9 4 9 44.4 0 1 0.0 1 2 50.0 1 5 6 9 1 0 3 3 -20
+p270
+aVMichael Doleac CLE 02/26/2002 CLE vs. SEA L 5 4 0 0 - 0 0 - 4 4 100.0 3 0 3 0 0 0 3 3 2
+p271
+aVBryant Stith CLE 02/26/2002 CLE vs. SEA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 0 -10
+p272
+aVJumaine Jones CLE 02/26/2002 CLE vs. SEA L 20 4 2 3 66.7 0 1 0.0 0 0 - 0 4 4 1 1 0 1 1 -9
+p273
+aVWesley Person CLE 02/26/2002 CLE vs. SEA L 36 22 9 15 60.0 4 8 50.0 0 0 - 1 3 4 2 2 1 1 1 -10
+p274
+aVTrajan Langdon CLE 02/26/2002 CLE vs. SEA L 7 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 1 0 1
+p275
+aVTyrone Hill CLE 02/26/2002 CLE vs. SEA L 19 5 1 2 50.0 0 0 - 3 5 60.0 0 1 1 0 0 0 1 4 -6
+p276
+aVZydrunas Ilgauskas CLE 02/26/2002 CLE vs. SEA L 28 16 4 7 57.1 0 0 - 8 10 80.0 3 4 7 0 0 1 5 3 -16
+p277
+aVRicky Davis CLE 02/26/2002 CLE vs. SEA L 31 10 4 11 36.4 0 0 - 2 2 100.0 1 3 4 9 0 0 1 2 -13
+p278
+aVRicky Davis CLE 02/24/2002 CLE vs. ORL W 38 27 10 16 62.5 1 1 100.0 6 6 100.0 5 4 9 8 1 2 3 3 29
+p279
+aVChris Mihm CLE 02/24/2002 CLE vs. ORL W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -1
+p280
+aVZydrunas Ilgauskas CLE 02/24/2002 CLE vs. ORL W 16 9 3 5 60.0 0 0 - 3 3 100.0 0 2 2 1 0 2 3 2 -3
+p281
+aVLamond Murray CLE 02/24/2002 CLE vs. ORL W 44 19 6 17 35.3 1 4 25.0 6 8 75.0 1 12 13 2 2 0 3 4 21
+p282
+aVAndre Miller CLE 02/24/2002 CLE vs. ORL W 32 9 4 7 57.1 0 1 0.0 1 2 50.0 1 1 2 15 0 0 1 5 12
+p283
+aVWesley Person CLE 02/24/2002 CLE vs. ORL W 41 26 10 19 52.6 4 8 50.0 2 2 100.0 2 6 8 3 0 0 2 0 5
+p284
+aVTrajan Langdon CLE 02/24/2002 CLE vs. ORL W 9 2 0 3 0.0 0 2 0.0 2 2 100.0 1 1 2 1 0 0 0 0 -4
+p285
+aVJumaine Jones CLE 02/24/2002 CLE vs. ORL W 16 12 6 10 60.0 0 1 0.0 0 1 0.0 4 1 5 0 2 1 1 1 12
+p286
+aVTyrone Hill CLE 02/24/2002 CLE vs. ORL W 34 4 2 4 50.0 0 0 - 0 0 - 3 8 11 2 0 0 2 4 4
+p287
+aVDeSagana Diop CLE 02/24/2002 CLE vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p288
+aVRicky Davis CLE 02/22/2002 CLE @ IND W 30 20 7 10 70.0 1 1 100.0 5 6 83.3 1 3 4 3 1 0 1 1 22
+p289
+aVLamond Murray CLE 02/22/2002 CLE @ IND W 24 15 7 14 50.0 1 3 33.3 0 0 - 1 2 3 0 0 0 2 2 -5
+p290
+aVZydrunas Ilgauskas CLE 02/22/2002 CLE @ IND W 23 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 1 3 2 4 4 12
+p291
+aVTrajan Langdon CLE 02/22/2002 CLE @ IND W 14 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 5 1 0 1 2 12
+p292
+aVJumaine Jones CLE 02/22/2002 CLE @ IND W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 10
+p293
+aVAndre Miller CLE 02/22/2002 CLE @ IND W 38 27 10 21 47.6 0 1 0.0 7 10 70.0 4 4 8 5 2 0 5 0 -2
+p294
+aVDeSagana Diop CLE 02/22/2002 CLE @ IND W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 2 0 3 -8
+p295
+aVWesley Person CLE 02/22/2002 CLE @ IND W 38 17 5 10 50.0 3 4 75.0 4 4 100.0 0 7 7 3 2 0 2 4 3
+p296
+aVChris Mihm CLE 02/22/2002 CLE @ IND W 19 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 1 1 0 2 7
+p297
+aVTyrone Hill CLE 02/22/2002 CLE @ IND W 38 10 3 10 30.0 0 0 - 4 6 66.7 4 13 17 1 1 0 2 5 -1
+p298
+aVWesley Person CLE 02/21/2002 CLE vs. LAL L 33 8 3 8 37.5 2 3 66.7 0 0 - 0 2 2 2 0 0 1 3 -1
+p299
+aVTyrone Hill CLE 02/21/2002 CLE vs. LAL L 30 3 1 7 14.3 0 0 - 1 2 50.0 7 7 14 4 0 0 3 5 -4
+p300
+aVRicky Davis CLE 02/21/2002 CLE vs. LAL L 22 19 8 12 66.7 0 0 - 3 4 75.0 1 1 2 1 0 1 0 2 -7
+p301
+aVDeSagana Diop CLE 02/21/2002 CLE vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p302
+aVLamond Murray CLE 02/21/2002 CLE vs. LAL L 33 23 7 13 53.8 2 4 50.0 7 8 87.5 1 5 6 1 0 0 2 1 -3
+p303
+aVChris Mihm CLE 02/21/2002 CLE vs. LAL L 19 10 5 9 55.6 0 0 - 0 0 - 3 5 8 1 0 1 1 4 3
+p304
+aVMichael Doleac CLE 02/21/2002 CLE vs. LAL L 17 6 1 3 33.3 0 0 - 4 4 100.0 0 3 3 2 0 1 0 2 -6
+p305
+aVAndre Miller CLE 02/21/2002 CLE vs. LAL L 45 13 4 12 33.3 0 0 - 5 6 83.3 1 5 6 15 0 0 9 4 -4
+p306
+aVJumaine Jones CLE 02/21/2002 CLE vs. LAL L 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -9
+p307
+aVZydrunas Ilgauskas CLE 02/21/2002 CLE vs. LAL L 25 11 5 11 45.5 0 0 - 1 4 25.0 1 5 6 1 0 0 0 2 -8
+p308
+aVTyrone Hill CLE 02/18/2002 CLE vs. UTA L 26 3 1 7 14.3 0 0 - 1 2 50.0 1 6 7 0 2 0 0 6 4
+p309
+aVChris Mihm CLE 02/18/2002 CLE vs. UTA L 25 10 5 8 62.5 0 0 - 0 0 - 3 4 7 0 0 2 1 6 -6
+p310
+aVZydrunas Ilgauskas CLE 02/18/2002 CLE vs. UTA L 25 12 3 10 30.0 0 0 - 6 12 50.0 2 3 5 1 1 2 1 6 -10
+p311
+aVDeSagana Diop CLE 02/18/2002 CLE vs. UTA L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p312
+aVMichael Doleac CLE 02/18/2002 CLE vs. UTA L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 -11
+p313
+aVJumaine Jones CLE 02/18/2002 CLE vs. UTA L 11 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 1 0 0 2 -12
+p314
+aVRicky Davis CLE 02/18/2002 CLE vs. UTA L 13 6 3 8 37.5 0 0 - 0 0 - 2 0 2 1 1 0 1 2 -20
+p315
+aVLamond Murray CLE 02/18/2002 CLE vs. UTA L 36 25 8 13 61.5 2 2 100.0 7 8 87.5 2 3 5 1 0 0 3 2 8
+p316
+aVTrajan Langdon CLE 02/18/2002 CLE vs. UTA L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 1
+p317
+aVWesley Person CLE 02/18/2002 CLE vs. UTA L 39 9 3 9 33.3 1 3 33.3 2 2 100.0 0 1 1 2 1 0 1 2 2
+p318
+aVAndre Miller CLE 02/18/2002 CLE vs. UTA L 42 18 1 9 11.1 0 1 0.0 16 17 94.1 1 4 5 12 2 0 2 3 -12
+p319
+aVTrajan Langdon CLE 02/16/2002 CLE @ CHI W 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 1 -9
+p320
+aVRicky Davis CLE 02/16/2002 CLE @ CHI W 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 14
+p321
+aVChris Mihm CLE 02/16/2002 CLE @ CHI W 20 7 2 7 28.6 0 0 - 3 4 75.0 2 2 4 1 0 2 0 3 -12
+p322
+aVTyrone Hill CLE 02/16/2002 CLE @ CHI W 31 16 5 12 41.7 0 0 - 6 7 85.7 8 7 15 0 0 0 3 5 -2
+p323
+aVAndre Miller CLE 02/16/2002 CLE @ CHI W 39 18 6 11 54.5 1 1 100.0 5 6 83.3 0 8 8 15 2 0 4 1 20
+p324
+aVLamond Murray CLE 02/16/2002 CLE @ CHI W 41 37 14 23 60.9 3 6 50.0 6 6 100.0 4 8 12 2 0 0 0 1 16
+p325
+aVZydrunas Ilgauskas CLE 02/16/2002 CLE @ CHI W 23 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 3 0 1 0 5 20
+p326
+aVMichael Doleac CLE 02/16/2002 CLE @ CHI W 22 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 1 1 0 1 5 18
+p327
+aVWesley Person CLE 02/16/2002 CLE @ CHI W 41 19 7 15 46.7 3 5 60.0 2 2 100.0 0 2 2 3 0 1 0 1 0
+p328
+aVWesley Person CLE 02/13/2002 CLE @ MIL W 43 33 11 16 68.8 5 9 55.6 6 6 100.0 0 3 3 3 0 0 0 0 13
+p329
+aVAndre Miller CLE 02/13/2002 CLE @ MIL W 46 27 10 21 47.6 0 1 0.0 7 8 87.5 2 2 4 19 1 0 0 3 13
+p330
+aVDeSagana Diop CLE 02/13/2002 CLE @ MIL W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 0 -1
+p331
+aVRicky Davis CLE 02/13/2002 CLE @ MIL W 22 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 0 3 0 2 2 -8
+p332
+aVJumaine Jones CLE 02/13/2002 CLE @ MIL W 18 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 2 2 -11
+p333
+aVMichael Doleac CLE 02/13/2002 CLE @ MIL W 32 12 6 11 54.5 0 0 - 0 0 - 3 8 11 2 2 0 1 2 23
+p334
+aVLamond Murray CLE 02/13/2002 CLE @ MIL W 40 22 6 12 50.0 3 5 60.0 7 8 87.5 1 3 4 1 0 0 2 3 14
+p335
+aVZydrunas Ilgauskas CLE 02/13/2002 CLE @ MIL W 29 11 5 13 38.5 0 0 - 1 2 50.0 6 4 10 2 0 2 0 4 -8
+p336
+aVChris Mihm CLE 02/13/2002 CLE @ MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 5
+p337
+aVRicky Davis CLE 02/12/2002 CLE vs. TOR W 26 18 5 8 62.5 1 1 100.0 7 8 87.5 0 1 1 2 0 0 3 2 5
+p338
+aVBrian Skinner CLE 02/12/2002 CLE vs. TOR W 22 7 2 2 100.0 0 0 - 3 3 100.0 1 1 2 0 1 1 2 3 15
+p339
+aVMichael Doleac CLE 02/12/2002 CLE vs. TOR W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p340
+aVJumaine Jones CLE 02/12/2002 CLE vs. TOR W 28 6 3 9 33.3 0 0 - 0 0 - 3 3 6 2 3 1 0 1 11
+p341
+aVChris Mihm CLE 02/12/2002 CLE vs. TOR W 12 2 1 5 20.0 0 0 - 0 0 - 0 4 4 0 0 0 0 4 6
+p342
+aVLamond Murray CLE 02/12/2002 CLE vs. TOR W 36 19 6 15 40.0 2 4 50.0 5 6 83.3 0 4 4 1 1 2 1 3 24
+p343
+aVWesley Person CLE 02/12/2002 CLE vs. TOR W 35 17 8 12 66.7 0 2 0.0 1 2 50.0 1 4 5 2 0 0 0 1 14
+p344
+aVAndre Miller CLE 02/12/2002 CLE vs. TOR W 40 22 8 14 57.1 1 1 100.0 5 6 83.3 3 7 10 17 4 0 2 4 14
+p345
+aVDeSagana Diop CLE 02/12/2002 CLE vs. TOR W 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 0 1 1 2
+p346
+aVZydrunas Ilgauskas CLE 02/12/2002 CLE vs. TOR W 20 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 1 0 0 1 0
+p347
+aVBryant Stith CLE 02/12/2002 CLE vs. TOR W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -1
+p348
+aVZydrunas Ilgauskas CLE 02/06/2002 CLE vs. HOU W 18 12 3 11 27.3 0 0 - 6 6 100.0 3 5 8 1 0 1 0 5 2
+p349
+aVRicky Davis CLE 02/06/2002 CLE vs. HOU W 31 13 5 10 50.0 0 0 - 3 3 100.0 2 1 3 2 0 0 2 4 -2
+p350
+aVJumaine Jones CLE 02/06/2002 CLE vs. HOU W 33 6 3 6 50.0 0 2 0.0 0 0 - 1 5 6 0 0 1 0 1 6
+p351
+aVLamond Murray CLE 02/06/2002 CLE vs. HOU W 30 12 4 14 28.6 0 0 - 4 5 80.0 3 5 8 4 1 2 4 2 -2
+p352
+aVAndre Miller CLE 02/06/2002 CLE vs. HOU W 45 31 12 21 57.1 0 0 - 7 8 87.5 3 4 7 13 0 2 4 3 2
+p353
+aVBimbo Coles CLE 02/06/2002 CLE vs. HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p354
+aVWesley Person CLE 02/06/2002 CLE vs. HOU W 45 23 10 12 83.3 1 1 100.0 2 5 40.0 0 4 4 6 0 0 2 1 7
+p355
+aVBrian Skinner CLE 02/06/2002 CLE vs. HOU W 16 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -5
+p356
+aVChris Mihm CLE 02/06/2002 CLE vs. HOU W 19 10 4 5 80.0 0 0 - 2 3 66.7 1 3 4 1 0 1 2 4 2
+p357
+aVJumaine Jones CLE 02/05/2002 CLE @ ORL L 28 8 4 9 44.4 0 1 0.0 0 0 - 0 3 3 3 1 1 0 2 -14
+p358
+aVChris Mihm CLE 02/05/2002 CLE @ ORL L 18 6 3 3 100.0 0 0 - 0 2 0.0 1 3 4 0 1 2 1 2 -22
+p359
+aVMichael Doleac CLE 02/05/2002 CLE @ ORL L 5 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 10
+p360
+aVWesley Person CLE 02/05/2002 CLE @ ORL L 36 21 8 17 47.1 1 3 33.3 4 5 80.0 1 4 5 3 1 0 2 0 0
+p361
+aVAndre Miller CLE 02/05/2002 CLE @ ORL L 44 11 5 17 29.4 0 0 - 1 3 33.3 5 2 7 13 2 0 4 4 -14
+p362
+aVRicky Davis CLE 02/05/2002 CLE @ ORL L 22 14 7 13 53.8 0 1 0.0 0 0 - 3 0 3 3 2 0 5 1 1
+p363
+aVBryant Stith CLE 02/05/2002 CLE @ ORL L 24 5 2 4 50.0 1 2 50.0 0 0 - 1 4 5 0 5 0 3 3 4
+p364
+aVLamond Murray CLE 02/05/2002 CLE @ ORL L 37 15 4 11 36.4 1 3 33.3 6 7 85.7 1 10 11 4 3 0 4 2 -19
+p365
+aVDeSagana Diop CLE 02/05/2002 CLE @ ORL L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p366
+aVZydrunas Ilgauskas CLE 02/05/2002 CLE @ ORL L 25 10 4 10 40.0 0 0 - 2 2 100.0 1 3 4 2 0 1 2 1 6
+p367
+aVMichael Doleac CLE 02/02/2002 CLE vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p368
+aVBryant Stith CLE 02/02/2002 CLE vs. DET L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p369
+aVBimbo Coles CLE 02/02/2002 CLE vs. DET L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p370
+aVLamond Murray CLE 02/02/2002 CLE vs. DET L 33 24 10 15 66.7 2 3 66.7 2 2 100.0 0 4 4 2 3 0 2 3 -4
+p371
+aVRicky Davis CLE 02/02/2002 CLE vs. DET L 32 28 10 17 58.8 1 1 100.0 7 8 87.5 0 0 0 9 1 1 0 4 2
+p372
+aVAndre Miller CLE 02/02/2002 CLE vs. DET L 36 20 7 11 63.6 1 1 100.0 5 6 83.3 1 5 6 8 1 0 8 3 -7
+p373
+aVZydrunas Ilgauskas CLE 02/02/2002 CLE vs. DET L 18 14 6 13 46.2 0 0 - 2 4 50.0 5 4 9 0 0 0 1 6 -15
+p374
+aVBrian Skinner CLE 02/02/2002 CLE vs. DET L 33 4 0 1 0.0 0 0 - 4 4 100.0 3 6 9 0 0 1 1 6 3
+p375
+aVJumaine Jones CLE 02/02/2002 CLE vs. DET L 28 8 3 10 30.0 0 2 0.0 2 4 50.0 2 3 5 1 2 1 0 4 3
+p376
+aVChris Mihm CLE 02/02/2002 CLE vs. DET L 11 3 1 5 20.0 0 0 - 1 2 50.0 2 5 7 0 0 1 2 3 -8
+p377
+aVWesley Person CLE 02/02/2002 CLE vs. DET L 22 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 1 0 0 3 4 -9
+p378
+aVBryant Stith CLE 01/31/2002 CLE vs. WAS L 28 15 5 11 45.5 3 5 60.0 2 2 100.0 1 0 1 1 0 0 1 0 -9
+p379
+aVZydrunas Ilgauskas CLE 01/31/2002 CLE vs. WAS L 18 12 4 10 40.0 0 0 - 4 4 100.0 1 1 2 0 0 2 1 1 19
+p380
+aVRicky Davis CLE 01/31/2002 CLE vs. WAS L 16 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 10
+p381
+aVJumaine Jones CLE 01/31/2002 CLE vs. WAS L 28 6 3 6 50.0 0 3 0.0 0 0 - 0 5 5 3 2 0 0 3 8
+p382
+aVAndre Miller CLE 01/31/2002 CLE vs. WAS L 39 15 5 9 55.6 0 1 0.0 5 6 83.3 1 2 3 12 2 0 3 1 -1
+p383
+aVBrian Skinner CLE 01/31/2002 CLE vs. WAS L 17 2 1 2 50.0 0 0 - 0 1 0.0 2 1 3 1 1 1 3 4 -15
+p384
+aVWesley Person CLE 01/31/2002 CLE vs. WAS L 41 21 9 19 47.4 3 8 37.5 0 0 - 0 5 5 3 2 0 0 1 -4
+p385
+aVMichael Doleac CLE 01/31/2002 CLE vs. WAS L 12 2 1 3 33.3 0 0 - 0 0 - 3 2 5 1 0 0 1 3 2
+p386
+aVBimbo Coles CLE 01/31/2002 CLE vs. WAS L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 3 5
+p387
+aVChris Mihm CLE 01/31/2002 CLE vs. WAS L 30 9 4 13 30.8 0 0 - 1 2 50.0 4 5 9 0 0 0 0 3 -20
+p388
+aVBrian Skinner CLE 01/29/2002 CLE vs. MIN W 23 11 4 6 66.7 0 0 - 3 7 42.9 4 5 9 0 0 0 1 5 42
+p389
+aVRicky Davis CLE 01/29/2002 CLE vs. MIN W 23 11 5 10 50.0 0 0 - 1 1 100.0 1 1 2 1 2 1 3 2 -2
+p390
+aVMichael Doleac CLE 01/29/2002 CLE vs. MIN W 12 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -7
+p391
+aVBryant Stith CLE 01/29/2002 CLE vs. MIN W 28 14 3 9 33.3 3 7 42.9 5 5 100.0 1 8 9 4 3 0 2 1 44
+p392
+aVJumaine Jones CLE 01/29/2002 CLE vs. MIN W 19 4 2 6 33.3 0 1 0.0 0 0 - 2 4 6 0 2 2 1 1 -4
+p393
+aVAndre Miller CLE 01/29/2002 CLE vs. MIN W 33 17 3 6 50.0 0 0 - 11 11 100.0 0 5 5 12 0 0 0 3 30
+p394
+aVZydrunas Ilgauskas CLE 01/29/2002 CLE vs. MIN W 19 4 1 4 25.0 0 0 - 2 4 50.0 0 4 4 0 0 2 2 4 16
+p395
+aVBimbo Coles CLE 01/29/2002 CLE vs. MIN W 16 0 0 0 - 0 0 - 0 0 - 0 3 3 4 0 0 0 2 0
+p396
+aVDeSagana Diop CLE 01/29/2002 CLE vs. MIN W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 2 3 0 0
+p397
+aVTrajan Langdon CLE 01/29/2002 CLE vs. MIN W 9 14 4 5 80.0 2 2 100.0 4 4 100.0 0 0 0 1 0 0 0 2 -5
+p398
+aVWesley Person CLE 01/29/2002 CLE vs. MIN W 35 27 12 18 66.7 3 4 75.0 0 0 - 1 3 4 4 1 0 0 0 32
+p399
+aVChris Mihm CLE 01/29/2002 CLE vs. MIN W 17 8 3 4 75.0 0 0 - 2 4 50.0 0 4 4 0 0 1 2 5 19
+p400
+aVJumaine Jones CLE 01/26/2002 CLE vs. BOS L 21 9 3 6 50.0 0 2 0.0 3 3 100.0 0 1 1 0 0 1 1 5 1
+p401
+aVWesley Person CLE 01/26/2002 CLE vs. BOS L 41 19 7 15 46.7 5 10 50.0 0 0 - 1 6 7 2 0 2 0 0 1
+p402
+aVBrian Skinner CLE 01/26/2002 CLE vs. BOS L 22 8 3 4 75.0 0 0 - 2 2 100.0 5 5 10 1 0 1 2 1 -1
+p403
+aVBimbo Coles CLE 01/26/2002 CLE vs. BOS L 11 3 1 2 50.0 0 0 - 1 3 33.3 0 0 0 0 1 0 0 1 -7
+p404
+aVChris Mihm CLE 01/26/2002 CLE vs. BOS L 24 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 2 1 3 -1
+p405
+aVZydrunas Ilgauskas CLE 01/26/2002 CLE vs. BOS L 27 11 2 7 28.6 0 0 - 7 10 70.0 5 4 9 0 0 2 3 1 -11
+p406
+aVAndre Miller CLE 01/26/2002 CLE vs. BOS L 43 25 8 17 47.1 0 3 0.0 9 12 75.0 1 9 10 17 1 0 3 4 -5
+p407
+aVRicky Davis CLE 01/26/2002 CLE vs. BOS L 16 2 1 6 16.7 0 2 0.0 0 0 - 1 3 4 2 1 0 3 2 -9
+p408
+aVMichael Doleac CLE 01/26/2002 CLE vs. BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p409
+aVBryant Stith CLE 01/26/2002 CLE vs. BOS L 34 20 7 13 53.8 5 8 62.5 1 2 50.0 0 3 3 1 2 1 1 2 -1
+p410
+aVZydrunas Ilgauskas CLE 01/24/2002 CLE @ WAS L 27 11 3 11 27.3 0 0 - 5 6 83.3 3 4 7 1 0 1 1 5 -8
+p411
+aVJumaine Jones CLE 01/24/2002 CLE @ WAS L 29 13 6 11 54.5 1 3 33.3 0 0 - 4 4 8 2 0 2 0 2 -5
+p412
+aVBryant Stith CLE 01/24/2002 CLE @ WAS L 14 6 1 3 33.3 1 1 100.0 3 4 75.0 0 2 2 1 1 0 0 1 -4
+p413
+aVBimbo Coles CLE 01/24/2002 CLE @ WAS L 14 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 0
+p414
+aVAndre Miller CLE 01/24/2002 CLE @ WAS L 34 11 5 8 62.5 0 0 - 1 4 25.0 1 2 3 12 2 0 3 6 -9
+p415
+aVDeSagana Diop CLE 01/24/2002 CLE @ WAS L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p416
+aVBrian Skinner CLE 01/24/2002 CLE @ WAS L 32 10 4 7 57.1 0 0 - 2 4 50.0 6 4 10 2 1 2 2 0 -11
+p417
+aVRicky Davis CLE 01/24/2002 CLE @ WAS L 22 7 2 8 25.0 0 0 - 3 4 75.0 1 1 2 2 1 0 0 4 -3
+p418
+aVChris Mihm CLE 01/24/2002 CLE @ WAS L 27 4 1 5 20.0 0 0 - 2 2 100.0 2 2 4 0 1 2 2 3 -3
+p419
+aVTrajan Langdon CLE 01/24/2002 CLE @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p420
+aVWesley Person CLE 01/24/2002 CLE @ WAS L 35 19 9 16 56.3 0 1 0.0 1 2 50.0 0 6 6 1 0 1 0 0 -6
+p421
+aVRicky Davis CLE 01/21/2002 CLE vs. MIA L 26 12 6 8 75.0 0 0 - 0 3 0.0 1 3 4 0 0 1 2 2 3
+p422
+aVBrian Skinner CLE 01/21/2002 CLE vs. MIA L 29 1 0 5 0.0 0 0 - 1 2 50.0 1 3 4 0 1 3 3 3 -19
+p423
+aVJumaine Jones CLE 01/21/2002 CLE vs. MIA L 43 14 4 9 44.4 1 3 33.3 5 6 83.3 1 4 5 4 1 1 2 2 4
+p424
+aVChris Mihm CLE 01/21/2002 CLE vs. MIA L 21 6 3 9 33.3 0 0 - 0 0 - 2 1 3 0 0 2 1 5 -8
+p425
+aVAndre Miller CLE 01/21/2002 CLE vs. MIA L 45 17 6 13 46.2 0 3 0.0 5 6 83.3 1 5 6 12 0 0 3 5 -6
+p426
+aVZydrunas Ilgauskas CLE 01/21/2002 CLE vs. MIA L 31 13 4 13 30.8 0 0 - 5 7 71.4 3 6 9 1 1 1 3 3 14
+p427
+aVBimbo Coles CLE 01/21/2002 CLE vs. MIA L 8 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 2 0 0 1 1 4
+p428
+aVBryant Stith CLE 01/21/2002 CLE vs. MIA L 17 8 2 7 28.6 0 3 0.0 4 4 100.0 1 2 3 2 0 1 1 2 -8
+p429
+aVWesley Person CLE 01/21/2002 CLE vs. MIA L 44 19 7 14 50.0 2 5 40.0 3 3 100.0 3 6 9 3 1 0 1 1 6
+p430
+aVAndre Miller CLE 01/18/2002 CLE @ LAC L 40 24 10 19 52.6 0 2 0.0 4 5 80.0 0 4 4 10 2 2 3 2 -9
+p431
+aVWesley Person CLE 01/18/2002 CLE @ LAC L 33 8 3 5 60.0 1 1 100.0 1 2 50.0 0 3 3 1 1 0 1 1 -3
+p432
+aVChris Mihm CLE 01/18/2002 CLE @ LAC L 21 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -7
+p433
+aVJumaine Jones CLE 01/18/2002 CLE @ LAC L 26 14 5 10 50.0 2 4 50.0 2 4 50.0 0 5 5 2 0 1 0 3 -1
+p434
+aVRicky Davis CLE 01/18/2002 CLE @ LAC L 19 9 4 7 57.1 0 0 - 1 2 50.0 2 3 5 2 1 0 1 1 -9
+p435
+aVBryant Stith CLE 01/18/2002 CLE @ LAC L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 3
+p436
+aVZydrunas Ilgauskas CLE 01/18/2002 CLE @ LAC L 27 16 6 11 54.5 0 0 - 4 6 66.7 1 1 2 4 0 1 0 4 1
+p437
+aVLamond Murray CLE 01/18/2002 CLE @ LAC L 31 24 9 17 52.9 2 4 50.0 4 5 80.0 3 3 6 1 3 0 5 3 -8
+p438
+aVBimbo Coles CLE 01/18/2002 CLE @ LAC L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 1 10
+p439
+aVBrian Skinner CLE 01/18/2002 CLE @ LAC L 22 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 2 0 1 -7
+p440
+aVJumaine Jones CLE 01/16/2002 CLE @ GSW L 28 0 0 7 0.0 0 2 0.0 0 0 - 0 4 4 2 2 1 1 6 -17
+p441
+aVBryant Stith CLE 01/16/2002 CLE @ GSW L 18 10 4 6 66.7 0 1 0.0 2 2 100.0 0 2 2 4 0 0 1 0 -8
+p442
+aVBimbo Coles CLE 01/16/2002 CLE @ GSW L 21 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 2 0 0 3 3 -24
+p443
+aVAndre Miller CLE 01/16/2002 CLE @ GSW L 26 10 4 7 57.1 0 2 0.0 2 3 66.7 0 2 2 5 0 0 3 5 2
+p444
+aVZydrunas Ilgauskas CLE 01/16/2002 CLE @ GSW L 28 17 5 7 71.4 0 0 - 7 8 87.5 3 3 6 0 1 0 1 2 -13
+p445
+aVRicky Davis CLE 01/16/2002 CLE @ GSW L 14 10 3 7 42.9 0 0 - 4 4 100.0 2 3 5 2 0 0 1 0 -8
+p446
+aVLamond Murray CLE 01/16/2002 CLE @ GSW L 21 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 3 1 0 3 2 -11
+p447
+aVBrian Skinner CLE 01/16/2002 CLE @ GSW L 21 2 1 3 33.3 0 0 - 0 2 0.0 0 3 3 0 0 1 1 5 -19
+p448
+aVChris Mihm CLE 01/16/2002 CLE @ GSW L 34 20 7 15 46.7 0 0 - 6 9 66.7 5 5 10 0 0 1 2 6 -17
+p449
+aVJeff Trepagnier CLE 01/16/2002 CLE @ GSW L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -6
+p450
+aVWesley Person CLE 01/16/2002 CLE @ GSW L 22 8 3 6 50.0 2 2 100.0 0 0 - 1 0 1 1 0 0 2 3 -24
+p451
+aVAndre Miller CLE 01/15/2002 CLE @ SAC L 37 17 7 13 53.8 1 1 100.0 2 4 50.0 1 5 6 13 2 0 4 5 -3
+p452
+aVWesley Person CLE 01/15/2002 CLE @ SAC L 31 15 6 11 54.5 1 2 50.0 2 4 50.0 0 2 2 3 1 0 0 1 -12
+p453
+aVJumaine Jones CLE 01/15/2002 CLE @ SAC L 35 16 7 8 87.5 0 0 - 2 2 100.0 2 5 7 2 0 0 2 3 8
+p454
+aVLamond Murray CLE 01/15/2002 CLE @ SAC L 28 22 7 13 53.8 2 3 66.7 6 7 85.7 2 4 6 0 1 0 2 2 1
+p455
+aVBimbo Coles CLE 01/15/2002 CLE @ SAC L 11 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 1 1 -4
+p456
+aVBrian Skinner CLE 01/15/2002 CLE @ SAC L 41 10 5 7 71.4 0 0 - 0 0 - 3 9 12 1 0 2 2 3 -5
+p457
+aVChris Mihm CLE 01/15/2002 CLE @ SAC L 15 8 4 8 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 6 -6
+p458
+aVRicky Davis CLE 01/15/2002 CLE @ SAC L 25 4 1 7 14.3 0 0 - 2 4 50.0 2 5 7 1 1 0 1 2 5
+p459
+aVZydrunas Ilgauskas CLE 01/15/2002 CLE @ SAC L 18 8 4 11 36.4 0 0 - 0 1 0.0 3 1 4 0 0 2 1 4 -19
+p460
+aVDeSagana Diop CLE 01/13/2002 CLE @ POR L 12 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 2 4 3 -6
+p461
+aVAndre Miller CLE 01/13/2002 CLE @ POR L 28 8 4 12 33.3 0 1 0.0 0 0 - 0 1 1 5 2 0 1 3 -24
+p462
+aVBryant Stith CLE 01/13/2002 CLE @ POR L 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 4 0 0 1 1 -7
+p463
+aVLamond Murray CLE 01/13/2002 CLE @ POR L 33 16 6 12 50.0 0 2 0.0 4 5 80.0 1 2 3 5 1 0 0 2 -25
+p464
+aVZydrunas Ilgauskas CLE 01/13/2002 CLE @ POR L 23 8 2 7 28.6 0 0 - 4 4 100.0 1 1 2 2 0 3 2 1 -21
+p465
+aVWesley Person CLE 01/13/2002 CLE @ POR L 24 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 1 0 1 1 1 -24
+p466
+aVJumaine Jones CLE 01/13/2002 CLE @ POR L 21 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 0 1 0 0 2 -15
+p467
+aVRicky Davis CLE 01/13/2002 CLE @ POR L 21 8 3 11 27.3 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -2
+p468
+aVChris Mihm CLE 01/13/2002 CLE @ POR L 22 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 2 0 2 1 -15
+p469
+aVBrian Skinner CLE 01/13/2002 CLE @ POR L 18 3 1 2 50.0 0 0 - 1 2 50.0 2 6 8 1 0 1 0 4 -7
+p470
+aVJeff Trepagnier CLE 01/13/2002 CLE @ POR L 6 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 1
+p471
+aVBimbo Coles CLE 01/13/2002 CLE @ POR L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 3 -15
+p472
+aVAndre Miller CLE 01/11/2002 CLE @ SEA L 35 13 6 13 46.2 1 2 50.0 0 0 - 2 4 6 10 0 0 2 5 1
+p473
+aVBrian Skinner CLE 01/11/2002 CLE @ SEA L 6 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 2 0 0 1 8
+p474
+aVRicky Davis CLE 01/11/2002 CLE @ SEA L 21 4 2 6 33.3 0 0 - 0 1 0.0 2 1 3 4 1 0 2 0 5
+p475
+aVChris Mihm CLE 01/11/2002 CLE @ SEA L 27 5 2 6 33.3 0 0 - 1 1 100.0 2 4 6 0 0 3 1 5 5
+p476
+aVLamond Murray CLE 01/11/2002 CLE @ SEA L 32 18 7 16 43.8 4 8 50.0 0 0 - 1 4 5 2 0 0 3 3 -5
+p477
+aVWesley Person CLE 01/11/2002 CLE @ SEA L 39 24 9 12 75.0 6 8 75.0 0 0 - 1 0 1 2 2 0 1 0 -2
+p478
+aVJumaine Jones CLE 01/11/2002 CLE @ SEA L 38 23 10 17 58.8 3 5 60.0 0 0 - 3 6 9 3 1 1 2 0 -7
+p479
+aVZydrunas Ilgauskas CLE 01/11/2002 CLE @ SEA L 24 6 3 10 30.0 0 0 - 0 0 - 1 3 4 1 0 2 1 3 -8
+p480
+aVBryant Stith CLE 01/11/2002 CLE @ SEA L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p481
+aVBimbo Coles CLE 01/11/2002 CLE @ SEA L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -5
+p482
+aVBryant Stith CLE 01/10/2002 CLE @ DEN L 10 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 0 1 0 1 2 -1
+p483
+aVRicky Davis CLE 01/10/2002 CLE @ DEN L 17 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 0
+p484
+aVWesley Person CLE 01/10/2002 CLE @ DEN L 39 10 4 12 33.3 2 4 50.0 0 0 - 0 5 5 6 0 0 2 2 -8
+p485
+aVChris Mihm CLE 01/10/2002 CLE @ DEN L 24 13 5 8 62.5 0 0 - 3 3 100.0 5 3 8 1 0 1 1 3 -2
+p486
+aVBimbo Coles CLE 01/10/2002 CLE @ DEN L 20 11 4 6 66.7 0 0 - 3 4 75.0 1 1 2 2 1 0 0 1 -7
+p487
+aVZydrunas Ilgauskas CLE 01/10/2002 CLE @ DEN L 24 9 3 12 25.0 0 0 - 3 4 75.0 3 5 8 3 1 3 0 1 -3
+p488
+aVAndre Miller CLE 01/10/2002 CLE @ DEN L 32 15 6 18 33.3 0 0 - 3 4 75.0 2 2 4 7 1 0 2 2 -3
+p489
+aVJumaine Jones CLE 01/10/2002 CLE @ DEN L 37 6 3 7 42.9 0 1 0.0 0 0 - 5 6 11 2 1 1 2 2 3
+p490
+aVLamond Murray CLE 01/10/2002 CLE @ DEN L 37 17 5 11 45.5 2 2 100.0 5 6 83.3 0 2 2 2 3 1 3 1 -4
+p491
+aVAndre Miller CLE 01/07/2002 CLE vs. POR L 26 7 2 11 18.2 0 0 - 3 4 75.0 2 0 2 4 3 0 2 1 -17
+p492
+aVChris Mihm CLE 01/07/2002 CLE vs. POR L 25 5 1 6 16.7 0 0 - 3 4 75.0 2 6 8 1 1 3 0 3 -19
+p493
+aVJumaine Jones CLE 01/07/2002 CLE vs. POR L 29 7 2 11 18.2 1 4 25.0 2 2 100.0 3 1 4 0 2 2 1 2 -10
+p494
+aVDeSagana Diop CLE 01/07/2002 CLE vs. POR L 12 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p495
+aVRicky Davis CLE 01/07/2002 CLE vs. POR L 20 10 5 12 41.7 0 0 - 0 0 - 0 3 3 4 1 0 3 1 -5
+p496
+aVZydrunas Ilgauskas CLE 01/07/2002 CLE vs. POR L 15 11 4 8 50.0 0 0 - 3 3 100.0 1 3 4 1 0 0 0 2 -8
+p497
+aVLamond Murray CLE 01/07/2002 CLE vs. POR L 26 10 5 8 62.5 0 3 0.0 0 0 - 0 4 4 3 0 2 1 1 -15
+p498
+aVBrian Skinner CLE 01/07/2002 CLE vs. POR L 15 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 2 0 2 -15
+p499
+aVBryant Stith CLE 01/07/2002 CLE vs. POR L 13 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 2 0 0 0 1 0
+p500
+aVJeff Trepagnier CLE 01/07/2002 CLE vs. POR L 11 0 0 5 0.0 0 0 - 0 0 - 0 2 2 2 0 1 2 0 -1
+p501
+aVBimbo Coles CLE 01/07/2002 CLE vs. POR L 21 4 2 5 40.0 0 2 0.0 0 0 - 2 0 2 3 0 0 1 1 -21
+p502
+aVWesley Person CLE 01/07/2002 CLE vs. POR L 26 5 2 7 28.6 0 0 - 1 1 100.0 0 0 0 2 0 1 0 1 -19
+p503
+aVChris Mihm CLE 01/05/2002 CLE @ DET L 19 10 5 8 62.5 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -9
+p504
+aVLamond Murray CLE 01/05/2002 CLE @ DET L 35 18 7 15 46.7 0 1 0.0 4 5 80.0 1 4 5 2 0 1 0 3 -14
+p505
+aVRicky Davis CLE 01/05/2002 CLE @ DET L 19 7 3 7 42.9 0 0 - 1 2 50.0 0 0 0 1 4 1 0 0 0
+p506
+aVWesley Person CLE 01/05/2002 CLE @ DET L 42 11 5 11 45.5 0 1 0.0 1 1 100.0 1 3 4 4 0 1 0 5 -7
+p507
+aVAndre Miller CLE 01/05/2002 CLE @ DET L 36 8 2 11 18.2 0 2 0.0 4 6 66.7 2 6 8 8 1 1 5 2 -13
+p508
+aVBimbo Coles CLE 01/05/2002 CLE @ DET L 14 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 1 5
+p509
+aVJumaine Jones CLE 01/05/2002 CLE @ DET L 31 9 4 6 66.7 1 1 100.0 0 0 - 0 5 5 0 2 2 1 3 -12
+p510
+aVBrian Skinner CLE 01/05/2002 CLE @ DET L 17 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 0 5 2
+p511
+aVZydrunas Ilgauskas CLE 01/05/2002 CLE @ DET L 27 20 8 15 53.3 0 0 - 4 5 80.0 2 6 8 1 0 1 2 2 -2
+p512
+aVAndre Miller CLE 01/04/2002 CLE @ TOR L 29 13 4 12 33.3 1 3 33.3 4 6 66.7 2 1 3 6 2 0 2 1 -17
+p513
+aVBimbo Coles CLE 01/04/2002 CLE @ TOR L 19 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 4 0 0 2 0 7
+p514
+aVChris Mihm CLE 01/04/2002 CLE @ TOR L 39 11 4 8 50.0 0 0 - 3 9 33.3 3 3 6 2 1 1 2 3 -13
+p515
+aVRicky Davis CLE 01/04/2002 CLE @ TOR L 20 15 6 9 66.7 0 0 - 3 5 60.0 1 1 2 2 1 0 2 0 6
+p516
+aVJumaine Jones CLE 01/04/2002 CLE @ TOR L 28 13 5 12 41.7 2 6 33.3 1 2 50.0 2 3 5 3 1 1 2 2 -9
+p517
+aVWesley Person CLE 01/04/2002 CLE @ TOR L 29 12 5 10 50.0 2 6 33.3 0 2 0.0 1 1 2 1 1 0 0 2 -17
+p518
+aVJeff Trepagnier CLE 01/04/2002 CLE @ TOR L 7 0 0 0 - 0 0 - 0 2 0.0 0 1 1 2 1 1 0 0 6
+p519
+aVBrian Skinner CLE 01/04/2002 CLE @ TOR L 17 4 2 2 100.0 0 0 - 0 0 - 4 2 6 1 1 0 0 2 9
+p520
+aVZydrunas Ilgauskas CLE 01/04/2002 CLE @ TOR L 20 9 4 8 50.0 0 0 - 1 3 33.3 2 1 3 1 0 3 2 5 -12
+p521
+aVLamond Murray CLE 01/04/2002 CLE @ TOR L 32 12 4 10 40.0 0 3 0.0 4 4 100.0 0 6 6 3 1 0 4 1 -10
+p522
+aVAndre Miller CLE 01/02/2002 CLE vs. GSW W 31 12 5 9 55.6 0 0 - 2 2 100.0 3 2 5 14 2 1 3 2 17
+p523
+aVBimbo Coles CLE 01/02/2002 CLE vs. GSW W 18 0 0 4 0.0 0 0 - 0 0 - 1 1 2 7 1 0 0 4 -2
+p524
+aVChris Mihm CLE 01/02/2002 CLE vs. GSW W 29 13 4 7 57.1 0 0 - 5 7 71.4 1 6 7 0 0 2 4 5 20
+p525
+aVJumaine Jones CLE 01/02/2002 CLE vs. GSW W 35 10 4 8 50.0 2 4 50.0 0 0 - 2 6 8 2 2 1 2 4 3
+p526
+aVZydrunas Ilgauskas CLE 01/02/2002 CLE vs. GSW W 14 4 2 6 33.3 0 0 - 0 2 0.0 1 1 2 1 0 2 1 4 -8
+p527
+aVTrajan Langdon CLE 01/02/2002 CLE vs. GSW W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p528
+aVLamond Murray CLE 01/02/2002 CLE vs. GSW W 38 40 16 23 69.6 3 5 60.0 5 5 100.0 0 4 4 4 0 0 2 3 21
+p529
+aVWesley Person CLE 01/02/2002 CLE vs. GSW W 33 18 8 14 57.1 2 4 50.0 0 0 - 0 3 3 4 1 0 0 0 25
+p530
+aVRicky Davis CLE 01/02/2002 CLE vs. GSW W 17 8 4 9 44.4 0 1 0.0 0 1 0.0 0 1 1 1 0 0 1 1 -6
+p531
+aVBryant Stith CLE 01/02/2002 CLE vs. GSW W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -7
+p532
+aVDeSagana Diop CLE 01/02/2002 CLE vs. GSW W 2 0 0 0 - 0 0 - 0 1 0.0 0 0 0 0 0 1 1 0 -3
+p533
+aVBrian Skinner CLE 01/02/2002 CLE vs. GSW W 15 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 0 0 1 0 2 18
+p534
+aVDeSagana Diop CLE 12/29/2001 CLE @ CHI L 15 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 1 1 1 5 2
+p535
+aVJumaine Jones CLE 12/29/2001 CLE @ CHI L 24 9 4 9 44.4 1 3 33.3 0 0 - 1 6 7 0 0 0 0 2 -24
+p536
+aVZydrunas Ilgauskas CLE 12/29/2001 CLE @ CHI L 8 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 1 1 3 -3
+p537
+aVBimbo Coles CLE 12/29/2001 CLE @ CHI L 24 4 2 7 28.6 0 0 - 0 0 - 0 0 0 6 1 0 0 0 -11
+p538
+aVTrajan Langdon CLE 12/29/2001 CLE @ CHI L 11 6 2 6 33.3 1 2 50.0 1 2 50.0 0 1 1 0 1 0 0 0 -5
+p539
+aVAndre Miller CLE 12/29/2001 CLE @ CHI L 24 10 4 11 36.4 0 0 - 2 2 100.0 1 5 6 5 2 0 3 2 -12
+p540
+aVBrian Skinner CLE 12/29/2001 CLE @ CHI L 26 6 3 5 60.0 0 0 - 0 0 - 0 8 8 1 1 1 3 5 -3
+p541
+aVBryant Stith CLE 12/29/2001 CLE @ CHI L 21 9 4 8 50.0 0 1 0.0 1 1 100.0 1 3 4 0 0 0 1 2 -7
+p542
+aVWesley Person CLE 12/29/2001 CLE @ CHI L 27 5 2 5 40.0 0 3 0.0 1 1 100.0 0 0 0 5 1 0 4 1 -18
+p543
+aVRicky Davis CLE 12/29/2001 CLE @ CHI L 37 10 4 14 28.6 0 0 - 2 2 100.0 0 3 3 3 0 0 2 3 -16
+p544
+aVChris Mihm CLE 12/29/2001 CLE @ CHI L 24 13 4 7 57.1 1 1 100.0 4 5 80.0 2 3 5 0 0 0 2 6 -18
+p545
+aVChris Mihm CLE 12/28/2001 CLE vs. NYK W 30 6 2 7 28.6 0 0 - 2 2 100.0 2 6 8 1 0 1 4 2 5
+p546
+aVJumaine Jones CLE 12/28/2001 CLE vs. NYK W 41 28 12 19 63.2 1 3 33.3 3 6 50.0 3 5 8 0 2 0 0 3 14
+p547
+aVBrian Skinner CLE 12/28/2001 CLE vs. NYK W 6 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 -2
+p548
+aVBryant Stith CLE 12/28/2001 CLE vs. NYK W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -7
+p549
+aVRicky Davis CLE 12/28/2001 CLE vs. NYK W 38 6 2 6 33.3 0 0 - 2 2 100.0 0 4 4 5 0 1 1 2 15
+p550
+aVWesley Person CLE 12/28/2001 CLE vs. NYK W 44 20 7 12 58.3 3 4 75.0 3 3 100.0 1 5 6 4 5 0 1 0 10
+p551
+aVAndre Miller CLE 12/28/2001 CLE vs. NYK W 41 25 9 20 45.0 0 3 0.0 7 7 100.0 2 5 7 11 1 1 3 3 23
+p552
+aVZydrunas Ilgauskas CLE 12/28/2001 CLE vs. NYK W 19 11 5 8 62.5 0 0 - 1 1 100.0 2 2 4 2 0 0 1 3 2
+p553
+aVBimbo Coles CLE 12/28/2001 CLE vs. NYK W 15 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 0 1 2 2 -10
+p554
+aVJumaine Jones CLE 12/26/2001 CLE vs. NJN L 35 9 4 10 40.0 1 4 25.0 0 0 - 3 8 11 3 1 6 3 1 -1
+p555
+aVRicky Davis CLE 12/26/2001 CLE vs. NJN L 16 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 2 1 0 0 2 -9
+p556
+aVTrajan Langdon CLE 12/26/2001 CLE vs. NJN L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 1
+p557
+aVBrian Skinner CLE 12/26/2001 CLE vs. NJN L 11 2 0 1 0.0 0 0 - 2 4 50.0 2 1 3 0 1 0 0 1 -3
+p558
+aVChris Mihm CLE 12/26/2001 CLE vs. NJN L 42 19 6 16 37.5 1 1 100.0 6 8 75.0 3 6 9 1 0 2 2 3 5
+p559
+aVZydrunas Ilgauskas CLE 12/26/2001 CLE vs. NJN L 25 15 7 18 38.9 0 0 - 1 2 50.0 7 5 12 1 0 4 1 4 9
+p560
+aVWesley Person CLE 12/26/2001 CLE vs. NJN L 41 16 7 19 36.8 2 8 25.0 0 0 - 2 5 7 3 5 2 0 1 -2
+p561
+aVBryant Stith CLE 12/26/2001 CLE vs. NJN L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p562
+aVBimbo Coles CLE 12/26/2001 CLE vs. NJN L 12 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 -7
+p563
+aVAndre Miller CLE 12/26/2001 CLE vs. NJN L 39 14 6 17 35.3 1 3 33.3 1 2 50.0 3 4 7 13 2 1 1 3 6
+p564
+aVJumaine Jones CLE 12/22/2001 CLE vs. IND L 33 9 3 9 33.3 2 4 50.0 1 2 50.0 2 2 4 3 0 0 0 2 -6
+p565
+aVBimbo Coles CLE 12/22/2001 CLE vs. IND L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -9
+p566
+aVZydrunas Ilgauskas CLE 12/22/2001 CLE vs. IND L 15 7 1 6 16.7 0 0 - 5 6 83.3 0 2 2 0 1 0 0 2 -9
+p567
+aVLamond Murray CLE 12/22/2001 CLE vs. IND L 25 8 4 6 66.7 0 0 - 0 0 - 0 1 1 5 1 0 1 2 -4
+p568
+aVWesley Person CLE 12/22/2001 CLE vs. IND L 38 20 7 13 53.8 3 7 42.9 3 3 100.0 0 1 1 4 1 0 3 0 2
+p569
+aVChris Mihm CLE 12/22/2001 CLE vs. IND L 38 19 8 16 50.0 0 0 - 3 3 100.0 3 4 7 1 0 2 1 4 0
+p570
+aVRicky Davis CLE 12/22/2001 CLE vs. IND L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 1 0 3 1 -6
+p571
+aVAndre Miller CLE 12/22/2001 CLE vs. IND L 38 20 7 12 58.3 0 1 0.0 6 8 75.0 3 5 8 8 1 1 4 5 3
+p572
+aVBrian Skinner CLE 12/22/2001 CLE vs. IND L 22 6 3 5 60.0 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -8
+p573
+aVBryant Stith CLE 12/22/2001 CLE vs. IND L 6 10 4 6 66.7 1 1 100.0 1 1 100.0 1 0 1 0 1 0 0 0 7
+p574
+aVChris Mihm CLE 12/21/2001 CLE @ MIA W 30 12 6 11 54.5 0 0 - 0 2 0.0 4 2 6 0 0 4 1 4 -5
+p575
+aVAndre Miller CLE 12/21/2001 CLE @ MIA W 38 10 1 13 7.7 1 3 33.3 7 8 87.5 1 6 7 8 1 1 3 2 -2
+p576
+aVWesley Person CLE 12/21/2001 CLE @ MIA W 41 13 5 13 38.5 2 6 33.3 1 2 50.0 1 6 7 0 2 0 2 3 4
+p577
+aVBimbo Coles CLE 12/21/2001 CLE @ MIA W 15 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 1 9
+p578
+aVJumaine Jones CLE 12/21/2001 CLE @ MIA W 43 18 7 15 46.7 2 5 40.0 2 2 100.0 3 12 15 3 1 0 1 5 -1
+p579
+aVRicky Davis CLE 12/21/2001 CLE @ MIA W 25 10 3 5 60.0 0 0 - 4 4 100.0 0 3 3 2 1 1 3 1 11
+p580
+aVBrian Skinner CLE 12/21/2001 CLE @ MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p581
+aVLamond Murray CLE 12/21/2001 CLE @ MIA W 44 7 3 13 23.1 0 3 0.0 1 2 50.0 1 8 9 0 0 2 3 1 -1
+p582
+aVZydrunas Ilgauskas CLE 12/21/2001 CLE @ MIA W 23 16 5 10 50.0 0 1 0.0 6 6 100.0 1 4 5 1 0 3 1 2 8
+p583
+aVZydrunas Ilgauskas CLE 12/19/2001 CLE @ BOS L 24 14 5 11 45.5 0 1 0.0 4 4 100.0 4 1 5 2 1 2 2 1 0
+p584
+aVLamond Murray CLE 12/19/2001 CLE @ BOS L 37 11 3 14 21.4 0 4 0.0 5 5 100.0 1 3 4 4 2 3 2 2 -16
+p585
+aVWesley Person CLE 12/19/2001 CLE @ BOS L 24 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 2 1 1 2 2 -9
+p586
+aVRicky Davis CLE 12/19/2001 CLE @ BOS L 17 5 2 4 50.0 0 1 0.0 1 1 100.0 0 3 3 1 0 0 0 2 1
+p587
+aVJumaine Jones CLE 12/19/2001 CLE @ BOS L 36 11 4 16 25.0 3 9 33.3 0 0 - 1 9 10 2 1 1 1 2 -4
+p588
+aVBrian Skinner CLE 12/19/2001 CLE @ BOS L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p589
+aVBimbo Coles CLE 12/19/2001 CLE @ BOS L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 3 1 -4
+p590
+aVChris Mihm CLE 12/19/2001 CLE @ BOS L 20 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 3 -7
+p591
+aVAndre Miller CLE 12/19/2001 CLE @ BOS L 38 36 14 18 77.8 2 3 66.7 6 6 100.0 5 3 8 5 3 0 1 4 -1
+p592
+aVBryant Stith CLE 12/19/2001 CLE @ BOS L 16 10 3 6 50.0 1 3 33.3 3 3 100.0 0 1 1 1 2 0 0 1 14
+p593
+aVTrajan Langdon CLE 12/19/2001 CLE @ BOS L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 2
+p594
+aVBryant Stith CLE 12/18/2001 CLE vs. CHI W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p595
+aVChris Mihm CLE 12/18/2001 CLE vs. CHI W 19 9 4 7 57.1 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 3
+p596
+aVLamond Murray CLE 12/18/2001 CLE vs. CHI W 32 10 4 9 44.4 0 0 - 2 2 100.0 3 5 8 3 1 1 0 2 10
+p597
+aVZydrunas Ilgauskas CLE 12/18/2001 CLE vs. CHI W 17 12 5 8 62.5 0 0 - 2 3 66.7 0 2 2 0 0 2 1 4 -4
+p598
+aVAndre Miller CLE 12/18/2001 CLE vs. CHI W 29 12 3 13 23.1 0 0 - 6 6 100.0 5 2 7 12 0 1 5 1 12
+p599
+aVWesley Person CLE 12/18/2001 CLE vs. CHI W 39 22 10 13 76.9 2 2 100.0 0 0 - 0 1 1 5 2 0 0 0 19
+p600
+aVBimbo Coles CLE 12/18/2001 CLE vs. CHI W 19 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 5 0 0 1 1 6
+p601
+aVRicky Davis CLE 12/18/2001 CLE vs. CHI W 18 6 3 9 33.3 0 1 0.0 0 0 - 0 3 3 3 1 0 0 1 11
+p602
+aVJumaine Jones CLE 12/18/2001 CLE vs. CHI W 44 20 9 14 64.3 2 3 66.7 0 0 - 5 7 12 4 2 2 3 4 25
+p603
+aVBrian Skinner CLE 12/18/2001 CLE vs. CHI W 15 9 2 2 100.0 0 0 - 5 6 83.3 1 4 5 0 0 2 0 2 12
+p604
+aVBimbo Coles CLE 12/15/2001 CLE vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p605
+aVWesley Person CLE 12/15/2001 CLE vs. PHI L 45 28 12 18 66.7 3 7 42.9 1 1 100.0 3 2 5 0 3 2 1 0 2
+p606
+aVLamond Murray CLE 12/15/2001 CLE vs. PHI L 34 13 6 16 37.5 1 5 20.0 0 3 0.0 1 1 2 2 2 2 1 4 10
+p607
+aVZydrunas Ilgauskas CLE 12/15/2001 CLE vs. PHI L 22 12 3 8 37.5 0 0 - 6 9 66.7 1 4 5 0 0 3 1 3 3
+p608
+aVChris Mihm CLE 12/15/2001 CLE vs. PHI L 25 8 3 9 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 1 3 -10
+p609
+aVBrian Skinner CLE 12/15/2001 CLE vs. PHI L 11 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 1 0 1 0 -6
+p610
+aVRicky Davis CLE 12/15/2001 CLE vs. PHI L 17 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 0 1 2 1 -5
+p611
+aVBryant Stith CLE 12/15/2001 CLE vs. PHI L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p612
+aVAndre Miller CLE 12/15/2001 CLE vs. PHI L 44 14 6 12 50.0 0 0 - 2 4 50.0 2 2 4 22 9 0 4 4 2
+p613
+aVJumaine Jones CLE 12/15/2001 CLE vs. PHI L 33 8 4 13 30.8 0 3 0.0 0 0 - 1 5 6 2 0 1 1 2 0
+p614
+aVJumaine Jones CLE 12/13/2001 CLE @ DAL L 37 13 6 9 66.7 1 3 33.3 0 0 - 3 7 10 2 0 0 1 4 -12
+p615
+aVWesley Person CLE 12/13/2001 CLE @ DAL L 31 6 3 13 23.1 0 1 0.0 0 0 - 0 1 1 1 0 3 0 0 -3
+p616
+aVBimbo Coles CLE 12/13/2001 CLE @ DAL L 30 13 5 9 55.6 0 2 0.0 3 3 100.0 0 2 2 5 2 0 2 3 -4
+p617
+aVBrian Skinner CLE 12/13/2001 CLE @ DAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p618
+aVRicky Davis CLE 12/13/2001 CLE @ DAL L 34 8 4 10 40.0 0 0 - 0 4 0.0 2 6 8 5 2 0 1 3 -17
+p619
+aVBryant Stith CLE 12/13/2001 CLE @ DAL L 11 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 1 1 1 -15
+p620
+aVChris Mihm CLE 12/13/2001 CLE @ DAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -1
+p621
+aVZydrunas Ilgauskas CLE 12/13/2001 CLE @ DAL L 14 6 1 5 20.0 0 1 0.0 4 4 100.0 1 2 3 0 0 0 3 3 -14
+p622
+aVDeSagana Diop CLE 12/13/2001 CLE @ DAL L 4 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 0
+p623
+aVLamond Murray CLE 12/13/2001 CLE @ DAL L 40 23 9 16 56.3 0 3 0.0 5 5 100.0 1 8 9 7 0 2 2 3 -14
+p624
+aVTrajan Langdon CLE 12/13/2001 CLE @ DAL L 18 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 0 0 0 2 3 -16
+p625
+aVChris Mihm CLE 12/11/2001 CLE @ HOU W 25 8 3 5 60.0 0 0 - 2 2 100.0 0 6 6 0 2 3 1 4 13
+p626
+aVLamond Murray CLE 12/11/2001 CLE @ HOU W 45 20 7 16 43.8 3 6 50.0 3 4 75.0 0 7 7 4 0 0 2 2 12
+p627
+aVBimbo Coles CLE 12/11/2001 CLE @ HOU W 20 11 4 4 100.0 1 1 100.0 2 2 100.0 0 0 0 4 2 1 0 2 -4
+p628
+aVJumaine Jones CLE 12/11/2001 CLE @ HOU W 36 16 7 8 87.5 0 1 0.0 2 2 100.0 2 9 11 1 0 0 0 5 7
+p629
+aVAndre Miller CLE 12/11/2001 CLE @ HOU W 28 11 4 8 50.0 1 2 50.0 2 2 100.0 0 3 3 7 1 0 4 2 9
+p630
+aVWesley Person CLE 12/11/2001 CLE @ HOU W 36 15 6 11 54.5 2 2 100.0 1 1 100.0 0 2 2 3 1 1 2 1 9
+p631
+aVRicky Davis CLE 12/11/2001 CLE @ HOU W 14 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -4
+p632
+aVZydrunas Ilgauskas CLE 12/11/2001 CLE @ HOU W 23 22 8 15 53.3 0 0 - 6 7 85.7 3 3 6 2 0 2 3 3 -8
+p633
+aVBryant Stith CLE 12/11/2001 CLE @ HOU W 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 -9
+p634
+aVRicky Davis CLE 12/08/2001 CLE vs. DEN W 18 13 6 10 60.0 0 0 - 1 2 50.0 2 3 5 0 1 0 1 2 9
+p635
+aVZydrunas Ilgauskas CLE 12/08/2001 CLE vs. DEN W 15 10 3 8 37.5 0 0 - 4 5 80.0 3 4 7 3 1 1 1 5 13
+p636
+aVJumaine Jones CLE 12/08/2001 CLE vs. DEN W 37 8 3 8 37.5 2 5 40.0 0 0 - 0 9 9 3 1 2 0 3 9
+p637
+aVWesley Person CLE 12/08/2001 CLE vs. DEN W 38 24 8 9 88.9 4 4 100.0 4 5 80.0 0 5 5 3 0 1 1 3 -3
+p638
+aVTrajan Langdon CLE 12/08/2001 CLE vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -6
+p639
+aVBrian Skinner CLE 12/08/2001 CLE vs. DEN W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p640
+aVChris Mihm CLE 12/08/2001 CLE vs. DEN W 20 4 2 10 20.0 0 0 - 0 0 - 4 5 9 1 0 2 2 5 -2
+p641
+aVBimbo Coles CLE 12/08/2001 CLE vs. DEN W 17 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 3 0 0 1 1 3
+p642
+aVDeSagana Diop CLE 12/08/2001 CLE vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p643
+aVBryant Stith CLE 12/08/2001 CLE vs. DEN W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 17
+p644
+aVAndre Miller CLE 12/08/2001 CLE vs. DEN W 33 12 6 13 46.2 0 2 0.0 0 0 - 1 3 4 13 0 0 2 2 12
+p645
+aVLamond Murray CLE 12/08/2001 CLE vs. DEN W 37 33 11 19 57.9 2 6 33.3 9 9 100.0 1 4 5 3 0 1 2 0 -1
+p646
+aVBrian Skinner CLE 12/07/2001 CLE @ NJN L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p647
+aVBryant Stith CLE 12/07/2001 CLE @ NJN L 21 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p648
+aVJumaine Jones CLE 12/07/2001 CLE @ NJN L 32 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 1 1 1 2 -12
+p649
+aVLamond Murray CLE 12/07/2001 CLE @ NJN L 38 24 8 18 44.4 3 6 50.0 5 6 83.3 1 6 7 1 0 0 2 1 -4
+p650
+aVBimbo Coles CLE 12/07/2001 CLE @ NJN L 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 1 0 0 1 5
+p651
+aVWesley Person CLE 12/07/2001 CLE @ NJN L 30 13 5 9 55.6 3 4 75.0 0 0 - 0 0 0 1 2 0 1 3 -14
+p652
+aVChris Mihm CLE 12/07/2001 CLE @ NJN L 30 2 1 10 10.0 0 1 0.0 0 0 - 2 3 5 0 1 1 3 3 -18
+p653
+aVRicky Davis CLE 12/07/2001 CLE @ NJN L 14 8 4 5 80.0 0 0 - 0 0 - 1 3 4 2 0 0 0 1 -4
+p654
+aVZydrunas Ilgauskas CLE 12/07/2001 CLE @ NJN L 18 19 6 9 66.7 0 0 - 7 8 87.5 2 5 7 2 0 2 3 2 4
+p655
+aVAndre Miller CLE 12/07/2001 CLE @ NJN L 31 8 3 9 33.3 1 2 50.0 1 4 25.0 3 4 7 10 2 1 1 3 -17
+p656
+aVWesley Person CLE 12/04/2001 CLE vs. DET W 37 12 5 8 62.5 2 4 50.0 0 1 0.0 1 3 4 4 0 1 1 2 20
+p657
+aVChris Mihm CLE 12/04/2001 CLE vs. DET W 35 10 3 8 37.5 0 0 - 4 6 66.7 2 10 12 1 0 3 2 3 2
+p658
+aVBrian Skinner CLE 12/04/2001 CLE vs. DET W 10 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 0
+p659
+aVBimbo Coles CLE 12/04/2001 CLE vs. DET W 13 7 2 4 50.0 1 1 100.0 2 2 100.0 0 0 0 4 1 0 0 0 5
+p660
+aVJumaine Jones CLE 12/04/2001 CLE vs. DET W 34 2 1 6 16.7 0 1 0.0 0 0 - 3 11 14 3 1 2 0 1 13
+p661
+aVLamond Murray CLE 12/04/2001 CLE vs. DET W 38 19 5 10 50.0 3 5 60.0 6 6 100.0 0 4 4 2 1 0 2 1 19
+p662
+aVZydrunas Ilgauskas CLE 12/04/2001 CLE vs. DET W 16 11 4 6 66.7 0 0 - 3 4 75.0 0 0 0 0 0 2 4 4 7
+p663
+aVBryant Stith CLE 12/04/2001 CLE vs. DET W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -4
+p664
+aVRicky Davis CLE 12/04/2001 CLE vs. DET W 13 1 0 4 0.0 0 0 - 1 2 50.0 0 3 3 1 2 0 0 0 -11
+p665
+aVAndre Miller CLE 12/04/2001 CLE vs. DET W 35 34 12 16 75.0 0 1 0.0 10 11 90.9 2 6 8 11 3 3 6 2 9
+p666
+aVBrian Skinner CLE 12/01/2001 CLE vs. CHH W 17 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 3 0
+p667
+aVWesley Person CLE 12/01/2001 CLE vs. CHH W 43 19 6 10 60.0 4 7 57.1 3 3 100.0 0 4 4 3 2 2 0 1 15
+p668
+aVDeSagana Diop CLE 12/01/2001 CLE vs. CHH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p669
+aVChris Mihm CLE 12/01/2001 CLE vs. CHH W 36 10 3 10 30.0 0 0 - 4 4 100.0 2 10 12 0 0 1 1 6 13
+p670
+aVRicky Davis CLE 12/01/2001 CLE vs. CHH W 15 8 3 9 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -2
+p671
+aVBryant Stith CLE 12/01/2001 CLE vs. CHH W 5 3 1 5 20.0 0 1 0.0 1 1 100.0 1 2 3 0 0 0 0 0 0
+p672
+aVLamond Murray CLE 12/01/2001 CLE vs. CHH W 38 18 5 15 33.3 2 3 66.7 6 7 85.7 2 2 4 3 2 3 4 0 11
+p673
+aVAndre Miller CLE 12/01/2001 CLE vs. CHH W 35 19 8 12 66.7 1 1 100.0 2 2 100.0 1 5 6 10 0 0 3 2 11
+p674
+aVBimbo Coles CLE 12/01/2001 CLE vs. CHH W 14 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 0 -1
+p675
+aVJumaine Jones CLE 12/01/2001 CLE vs. CHH W 34 10 3 12 25.0 0 0 - 4 4 100.0 1 6 7 2 3 1 1 1 15
+p676
+aVWesley Person CLE 11/29/2001 CLE vs. ATL L 38 20 5 13 38.5 1 3 33.3 9 11 81.8 2 1 3 4 0 1 0 1 -7
+p677
+aVAndre Miller CLE 11/29/2001 CLE vs. ATL L 37 12 5 10 50.0 0 0 - 2 2 100.0 1 1 2 10 3 1 3 4 -3
+p678
+aVBimbo Coles CLE 11/29/2001 CLE vs. ATL L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 2 1 -8
+p679
+aVBrian Skinner CLE 11/29/2001 CLE vs. ATL L 21 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 3 -5
+p680
+aVChris Mihm CLE 11/29/2001 CLE vs. ATL L 33 12 3 9 33.3 0 0 - 6 8 75.0 2 4 6 0 1 4 2 4 -6
+p681
+aVRicky Davis CLE 11/29/2001 CLE vs. ATL L 22 6 2 8 25.0 0 0 - 2 2 100.0 0 1 1 3 0 1 1 3 -7
+p682
+aVLamond Murray CLE 11/29/2001 CLE vs. ATL L 35 21 9 19 47.4 2 3 66.7 1 2 50.0 1 4 5 4 2 1 5 2 -6
+p683
+aVJumaine Jones CLE 11/29/2001 CLE vs. ATL L 43 17 7 15 46.7 3 6 50.0 0 0 - 3 9 12 0 1 0 0 3 -3
+p684
+aVBimbo Coles CLE 11/27/2001 CLE vs. WAS W 20 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 5 0 0 1 0 10
+p685
+aVAndre Miller CLE 11/27/2001 CLE vs. WAS W 27 14 6 8 75.0 0 0 - 2 2 100.0 0 2 2 9 0 1 1 5 9
+p686
+aVJeff Trepagnier CLE 11/27/2001 CLE vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p687
+aVJumaine Jones CLE 11/27/2001 CLE vs. WAS W 34 15 6 11 54.5 2 2 100.0 1 1 100.0 2 4 6 4 1 1 0 1 8
+p688
+aVBrian Skinner CLE 11/27/2001 CLE vs. WAS W 31 2 1 2 50.0 0 0 - 0 0 - 2 5 7 1 1 3 0 3 15
+p689
+aVChris Mihm CLE 11/27/2001 CLE vs. WAS W 31 13 5 12 41.7 0 0 - 3 4 75.0 2 8 10 1 0 1 1 4 15
+p690
+aVLamond Murray CLE 11/27/2001 CLE vs. WAS W 34 14 5 13 38.5 0 4 0.0 4 4 100.0 1 9 10 6 2 1 1 1 13
+p691
+aVWesley Person CLE 11/27/2001 CLE vs. WAS W 38 12 6 16 37.5 0 3 0.0 0 0 - 0 5 5 1 0 1 2 2 11
+p692
+aVTrajan Langdon CLE 11/27/2001 CLE vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p693
+aVRicky Davis CLE 11/27/2001 CLE vs. WAS W 22 18 9 14 64.3 0 0 - 0 0 - 1 2 3 1 0 1 3 1 14
+p694
+aVWesley Person CLE 11/24/2001 CLE vs. MIA W 47 25 10 16 62.5 3 5 60.0 2 2 100.0 4 10 14 1 0 0 1 3 7
+p695
+aVJeff Trepagnier CLE 11/24/2001 CLE vs. MIA W 5 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 1 2
+p696
+aVJumaine Jones CLE 11/24/2001 CLE vs. MIA W 27 8 3 5 60.0 0 1 0.0 2 3 66.7 1 5 6 2 1 0 2 4 13
+p697
+aVLamond Murray CLE 11/24/2001 CLE vs. MIA W 36 15 4 19 21.1 2 4 50.0 5 5 100.0 1 4 5 6 0 1 2 3 12
+p698
+aVBrian Skinner CLE 11/24/2001 CLE vs. MIA W 26 9 4 5 80.0 0 0 - 1 2 50.0 2 3 5 0 0 1 2 5 -11
+p699
+aVRicky Davis CLE 11/24/2001 CLE vs. MIA W 31 12 3 10 30.0 0 0 - 6 8 75.0 1 5 6 2 2 0 0 1 -7
+p700
+aVAndre Miller CLE 11/24/2001 CLE vs. MIA W 46 21 8 15 53.3 1 1 100.0 4 6 66.7 1 3 4 12 1 2 2 0 8
+p701
+aVChris Mihm CLE 11/24/2001 CLE vs. MIA W 35 10 3 8 37.5 0 0 - 4 4 100.0 1 4 5 0 0 1 1 6 1
+p702
+aVBimbo Coles CLE 11/24/2001 CLE vs. MIA W 11 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 -5
+p703
+aVTrajan Langdon CLE 11/23/2001 CLE @ PHI L 14 0 0 4 0.0 0 3 0.0 0 0 - 1 3 4 1 2 0 2 1 0
+p704
+aVAndre Miller CLE 11/23/2001 CLE @ PHI L 30 7 3 10 30.0 0 0 - 1 2 50.0 0 3 3 6 2 0 6 4 -5
+p705
+aVBimbo Coles CLE 11/23/2001 CLE @ PHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p706
+aVRicky Davis CLE 11/23/2001 CLE @ PHI L 25 11 3 8 37.5 0 0 - 5 6 83.3 1 3 4 4 0 0 4 2 -14
+p707
+aVJeff Trepagnier CLE 11/23/2001 CLE @ PHI L 13 8 4 8 50.0 0 1 0.0 0 1 0.0 0 3 3 1 2 1 3 2 0
+p708
+aVWesley Person CLE 11/23/2001 CLE @ PHI L 30 5 2 9 22.2 1 5 20.0 0 0 - 0 4 4 1 1 0 0 0 -7
+p709
+aVLamond Murray CLE 11/23/2001 CLE @ PHI L 27 4 1 12 8.3 0 1 0.0 2 2 100.0 0 4 4 2 1 1 1 3 -1
+p710
+aVChris Mihm CLE 11/23/2001 CLE @ PHI L 32 15 6 11 54.5 0 0 - 3 4 75.0 1 7 8 1 0 2 0 3 -16
+p711
+aVBrian Skinner CLE 11/23/2001 CLE @ PHI L 21 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 2 0 0 -4
+p712
+aVJumaine Jones CLE 11/23/2001 CLE @ PHI L 43 12 5 13 38.5 1 6 16.7 1 2 50.0 4 11 15 2 1 0 1 2 -2
+p713
+aVChris Mihm CLE 11/21/2001 CLE vs. MEM W 24 4 2 6 33.3 0 0 - 0 0 - 2 4 6 1 2 1 3 5 0
+p714
+aVLamond Murray CLE 11/21/2001 CLE vs. MEM W 38 21 7 13 53.8 3 4 75.0 4 4 100.0 1 6 7 3 1 0 4 3 10
+p715
+aVAndre Miller CLE 11/21/2001 CLE vs. MEM W 38 15 4 9 44.4 0 1 0.0 7 10 70.0 0 1 1 14 3 0 8 0 6
+p716
+aVRicky Davis CLE 11/21/2001 CLE vs. MEM W 17 16 6 9 66.7 0 1 0.0 4 4 100.0 0 0 0 1 1 0 1 1 -3
+p717
+aVBrian Skinner CLE 11/21/2001 CLE vs. MEM W 33 2 1 3 33.3 0 0 - 0 0 - 5 7 12 2 0 6 0 2 15
+p718
+aVJumaine Jones CLE 11/21/2001 CLE vs. MEM W 20 11 4 9 44.4 3 4 75.0 0 0 - 2 3 5 2 2 0 1 3 0
+p719
+aVWesley Person CLE 11/21/2001 CLE vs. MEM W 36 24 10 18 55.6 4 7 57.1 0 0 - 1 5 6 3 1 0 0 2 7
+p720
+aVMichael Doleac CLE 11/21/2001 CLE vs. MEM W 24 6 3 8 37.5 0 0 - 0 0 - 3 1 4 0 1 0 4 6 -3
+p721
+aVBimbo Coles CLE 11/21/2001 CLE vs. MEM W 10 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 3 0 0 1 2 3
+p722
+aVChris Mihm CLE 11/17/2001 CLE @ MEM L 27 11 5 11 45.5 0 0 - 1 2 50.0 5 3 8 0 0 1 0 3 0
+p723
+aVRicky Davis CLE 11/17/2001 CLE @ MEM L 34 12 5 10 50.0 0 0 - 2 4 50.0 0 4 4 4 0 0 1 3 -6
+p724
+aVLamond Murray CLE 11/17/2001 CLE @ MEM L 44 27 10 21 47.6 2 5 40.0 5 6 83.3 3 13 16 2 2 0 3 3 -5
+p725
+aVAndre Miller CLE 11/17/2001 CLE @ MEM L 41 13 5 16 31.3 0 3 0.0 3 5 60.0 2 4 6 15 1 0 5 1 -8
+p726
+aVBimbo Coles CLE 11/17/2001 CLE @ MEM L 15 8 4 5 80.0 0 0 - 0 0 - 0 2 2 3 0 0 0 1 -3
+p727
+aVTrajan Langdon CLE 11/17/2001 CLE @ MEM L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 6
+p728
+aVJumaine Jones CLE 11/17/2001 CLE @ MEM L 29 7 3 9 33.3 1 3 33.3 0 0 - 1 4 5 2 2 0 0 5 -3
+p729
+aVBrian Skinner CLE 11/17/2001 CLE @ MEM L 13 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 4 -10
+p730
+aVMichael Doleac CLE 11/17/2001 CLE @ MEM L 32 10 5 7 71.4 0 0 - 0 0 - 0 2 2 2 0 0 2 6 4
+p731
+aVMichael Doleac CLE 11/16/2001 CLE @ SAS L 27 2 1 6 16.7 0 0 - 0 0 - 1 4 5 1 0 0 0 4 -6
+p732
+aVBimbo Coles CLE 11/16/2001 CLE @ SAS L 18 6 2 7 28.6 1 2 50.0 1 2 50.0 0 0 0 1 0 0 0 3 -26
+p733
+aVJeff Trepagnier CLE 11/16/2001 CLE @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 2
+p734
+aVLamond Murray CLE 11/16/2001 CLE @ SAS L 26 18 7 15 46.7 4 5 80.0 0 0 - 0 2 2 3 1 0 2 4 -15
+p735
+aVChris Mihm CLE 11/16/2001 CLE @ SAS L 29 15 7 11 63.6 0 0 - 1 1 100.0 5 4 9 1 0 2 3 5 -2
+p736
+aVTrajan Langdon CLE 11/16/2001 CLE @ SAS L 3 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 1 0 1 0 3
+p737
+aVRicky Davis CLE 11/16/2001 CLE @ SAS L 17 9 4 8 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 3 -9
+p738
+aVAndre Miller CLE 11/16/2001 CLE @ SAS L 30 16 5 15 33.3 0 1 0.0 6 7 85.7 0 1 1 10 1 0 2 4 5
+p739
+aVJumaine Jones CLE 11/16/2001 CLE @ SAS L 33 12 5 9 55.6 2 3 66.7 0 0 - 4 7 11 3 0 0 2 0 -10
+p740
+aVBrian Skinner CLE 11/16/2001 CLE @ SAS L 16 0 0 1 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 3 -13
+p741
+aVWesley Person CLE 11/16/2001 CLE @ SAS L 37 10 4 8 50.0 1 2 50.0 1 1 100.0 0 5 5 2 3 0 1 1 1
+p742
+aVLamond Murray CLE 11/14/2001 CLE vs. DAL L 30 17 5 12 41.7 1 4 25.0 6 7 85.7 2 2 4 3 0 0 2 2 -19
+p743
+aVRicky Davis CLE 11/14/2001 CLE vs. DAL L 20 15 5 11 45.5 0 0 - 5 6 83.3 0 2 2 3 1 0 1 0 5
+p744
+aVWesley Person CLE 11/14/2001 CLE vs. DAL L 33 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 2 3 -17
+p745
+aVMichael Doleac CLE 11/14/2001 CLE vs. DAL L 27 17 7 15 46.7 0 0 - 3 3 100.0 1 5 6 1 1 0 2 1 -16
+p746
+aVBimbo Coles CLE 11/14/2001 CLE vs. DAL L 22 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -2
+p747
+aVJeff Trepagnier CLE 11/14/2001 CLE vs. DAL L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 6
+p748
+aVAndre Miller CLE 11/14/2001 CLE vs. DAL L 37 7 3 8 37.5 0 0 - 1 1 100.0 3 1 4 16 0 1 1 1 -24
+p749
+aVTrajan Langdon CLE 11/14/2001 CLE vs. DAL L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 6
+p750
+aVJumaine Jones CLE 11/14/2001 CLE vs. DAL L 31 20 9 12 75.0 2 3 66.7 0 0 - 1 5 6 1 1 0 1 3 -1
+p751
+aVChris Mihm CLE 11/14/2001 CLE vs. DAL L 12 5 1 6 16.7 0 0 - 3 4 75.0 3 3 6 0 0 0 3 4 -2
+p752
+aVBrian Skinner CLE 11/14/2001 CLE vs. DAL L 21 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 2 1 2 -1
+p753
+aVWesley Person CLE 11/13/2001 CLE @ MIN W 33 13 5 9 55.6 3 3 100.0 0 0 - 1 3 4 2 1 0 0 1 1
+p754
+aVBimbo Coles CLE 11/13/2001 CLE @ MIN W 16 8 2 5 40.0 0 1 0.0 4 4 100.0 0 2 2 0 0 0 0 2 11
+p755
+aVChris Mihm CLE 11/13/2001 CLE @ MIN W 11 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 4 -14
+p756
+aVMichael Doleac CLE 11/13/2001 CLE @ MIN W 33 6 3 8 37.5 0 0 - 0 0 - 2 4 6 1 0 0 0 6 -9
+p757
+aVRicky Davis CLE 11/13/2001 CLE @ MIN W 18 12 5 9 55.6 0 0 - 2 4 50.0 3 3 6 1 0 0 0 2 12
+p758
+aVLamond Murray CLE 11/13/2001 CLE @ MIN W 42 22 7 21 33.3 2 5 40.0 6 7 85.7 2 4 6 1 1 1 0 1 2
+p759
+aVJumaine Jones CLE 11/13/2001 CLE @ MIN W 35 11 5 12 41.7 1 4 25.0 0 0 - 2 7 9 1 1 0 4 6 13
+p760
+aVBrian Skinner CLE 11/13/2001 CLE @ MIN W 17 4 2 4 50.0 0 0 - 0 0 - 3 7 10 1 2 0 1 2 8
+p761
+aVAndre Miller CLE 11/13/2001 CLE @ MIN W 37 29 8 16 50.0 0 1 0.0 13 16 81.3 0 2 2 11 0 0 4 3 -4
+p762
+aVLamond Murray CLE 11/10/2001 CLE @ NJN L 39 21 8 15 53.3 1 4 25.0 4 4 100.0 2 4 6 1 1 1 0 2 3
+p763
+aVAndre Miller CLE 11/10/2001 CLE @ NJN L 45 19 7 19 36.8 0 0 - 5 6 83.3 2 4 6 14 3 0 3 3 4
+p764
+aVJumaine Jones CLE 11/10/2001 CLE @ NJN L 17 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 1 0 2 1 -9
+p765
+aVBrian Skinner CLE 11/10/2001 CLE @ NJN L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 2
+p766
+aVTrajan Langdon CLE 11/10/2001 CLE @ NJN L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p767
+aVBimbo Coles CLE 11/10/2001 CLE @ NJN L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -8
+p768
+aVWesley Person CLE 11/10/2001 CLE @ NJN L 42 11 4 12 33.3 2 5 40.0 1 1 100.0 0 4 4 2 1 0 1 0 -5
+p769
+aVChris Mihm CLE 11/10/2001 CLE @ NJN L 35 20 8 15 53.3 0 2 0.0 4 5 80.0 1 7 8 1 0 3 2 4 10
+p770
+aVRicky Davis CLE 11/10/2001 CLE @ NJN L 15 2 1 5 20.0 0 0 - 0 1 0.0 1 2 3 0 0 0 2 2 0
+p771
+aVMichael Doleac CLE 11/10/2001 CLE @ NJN L 29 9 4 7 57.1 0 0 - 1 2 50.0 2 8 10 0 0 0 3 3 -7
+p772
+aVLamond Murray CLE 11/07/2001 CLE @ NYK L 37 12 5 14 35.7 0 2 0.0 2 4 50.0 5 5 10 0 1 0 7 1 -13
+p773
+aVRicky Davis CLE 11/07/2001 CLE @ NYK L 29 9 4 10 40.0 0 0 - 1 2 50.0 2 4 6 1 2 0 1 1 -4
+p774
+aVTrajan Langdon CLE 11/07/2001 CLE @ NYK L 11 0 0 5 0.0 0 4 0.0 0 0 - 1 0 1 1 0 0 0 0 -2
+p775
+aVMichael Doleac CLE 11/07/2001 CLE @ NYK L 29 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 1 0 4 -16
+p776
+aVJumaine Jones CLE 11/07/2001 CLE @ NYK L 15 8 3 7 42.9 2 3 66.7 0 0 - 2 0 2 2 1 0 0 1 -3
+p777
+aVChris Mihm CLE 11/07/2001 CLE @ NYK L 36 8 2 11 18.2 1 1 100.0 3 6 50.0 2 6 8 0 2 3 2 4 -21
+p778
+aVJeff Trepagnier CLE 11/07/2001 CLE @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -1
+p779
+aVBrian Skinner CLE 11/07/2001 CLE @ NYK L 10 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -2
+p780
+aVAndre Miller CLE 11/07/2001 CLE @ NYK L 35 15 5 15 33.3 0 0 - 5 6 83.3 2 4 6 5 2 0 3 2 -8
+p781
+aVBimbo Coles CLE 11/07/2001 CLE @ NYK L 17 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 2 0 0 0 1 -10
+p782
+aVWesley Person CLE 11/07/2001 CLE @ NYK L 18 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 2 -10
+p783
+aVJumaine Jones CLE 11/06/2001 CLE vs. SAC L 10 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 -15
+p784
+aVLamond Murray CLE 11/06/2001 CLE vs. SAC L 40 22 10 19 52.6 0 3 0.0 2 3 66.7 1 2 3 1 2 1 1 1 1
+p785
+aVBrian Skinner CLE 11/06/2001 CLE vs. SAC L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -12
+p786
+aVMichael Doleac CLE 11/06/2001 CLE vs. SAC L 32 11 2 5 40.0 0 0 - 7 8 87.5 2 9 11 2 0 1 2 3 -11
+p787
+aVBimbo Coles CLE 11/06/2001 CLE vs. SAC L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 1 1 2 -18
+p788
+aVChris Mihm CLE 11/06/2001 CLE vs. SAC L 34 12 6 13 46.2 0 0 - 0 0 - 2 3 5 1 0 4 1 0 -2
+p789
+aVWesley Person CLE 11/06/2001 CLE vs. SAC L 37 10 5 11 45.5 0 3 0.0 0 0 - 0 2 2 3 0 0 1 1 -10
+p790
+aVAndre Miller CLE 11/06/2001 CLE vs. SAC L 41 19 7 11 63.6 0 0 - 5 7 71.4 1 5 6 17 0 2 2 3 -5
+p791
+aVRicky Davis CLE 11/06/2001 CLE vs. SAC L 23 17 7 11 63.6 1 1 100.0 2 6 33.3 0 3 3 1 0 2 4 3 -7
+p792
+aVTrajan Langdon CLE 11/06/2001 CLE vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p793
+aVBryant Stith CLE 11/03/2001 CLE vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p794
+aVRicky Davis CLE 11/03/2001 CLE vs. ORL L 22 6 3 15 20.0 0 0 - 0 0 - 2 4 6 2 0 0 2 1 -10
+p795
+aVJumaine Jones CLE 11/03/2001 CLE vs. ORL L 29 14 6 15 40.0 2 6 33.3 0 2 0.0 1 6 7 1 0 0 2 3 -27
+p796
+aVBrian Skinner CLE 11/03/2001 CLE vs. ORL L 25 4 1 5 20.0 0 0 - 2 4 50.0 5 5 10 0 1 1 0 3 0
+p797
+aVAndre Miller CLE 11/03/2001 CLE vs. ORL L 32 20 3 6 50.0 0 0 - 14 15 93.3 1 0 1 5 1 0 2 2 -17
+p798
+aVMichael Doleac CLE 11/03/2001 CLE vs. ORL L 17 1 0 6 0.0 0 0 - 1 2 50.0 2 3 5 2 0 0 1 1 -13
+p799
+aVChris Mihm CLE 11/03/2001 CLE vs. ORL L 33 13 3 12 25.0 0 1 0.0 7 8 87.5 1 7 8 0 0 2 4 3 -20
+p800
+aVTrajan Langdon CLE 11/03/2001 CLE vs. ORL L 20 2 0 7 0.0 0 3 0.0 2 2 100.0 2 5 7 2 0 0 3 4 -4
+p801
+aVLamond Murray CLE 11/03/2001 CLE vs. ORL L 17 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 -17
+p802
+aVBimbo Coles CLE 11/03/2001 CLE vs. ORL L 19 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -18
+p803
+aVWesley Person CLE 11/03/2001 CLE vs. ORL L 24 5 2 6 33.3 1 1 100.0 0 0 - 0 3 3 0 0 2 1 3 -16
+p804
+aVAndre Miller CLE 11/02/2001 CLE @ MIA W 41 30 11 17 64.7 0 0 - 8 12 66.7 2 8 10 12 1 0 6 2 13
+p805
+aVBrian Skinner CLE 11/02/2001 CLE @ MIA W 21 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 1 3 3 3
+p806
+aVRicky Davis CLE 11/02/2001 CLE @ MIA W 7 2 0 1 0.0 0 0 - 2 3 66.7 0 2 2 0 1 0 1 0 -3
+p807
+aVJumaine Jones CLE 11/02/2001 CLE @ MIA W 39 10 5 12 41.7 0 0 - 0 0 - 1 9 10 2 0 0 3 3 14
+p808
+aVChris Mihm CLE 11/02/2001 CLE @ MIA W 32 16 8 14 57.1 0 0 - 0 4 0.0 1 2 3 0 1 4 4 5 10
+p809
+aVMichael Doleac CLE 11/02/2001 CLE @ MIA W 26 6 2 3 66.7 0 0 - 2 2 100.0 0 5 5 0 1 0 1 4 -3
+p810
+aVBryant Stith CLE 11/02/2001 CLE @ MIA W 23 9 2 7 28.6 2 4 50.0 3 4 75.0 0 2 2 1 1 0 1 1 3
+p811
+aVWesley Person CLE 11/02/2001 CLE @ MIA W 37 17 5 9 55.6 3 4 75.0 4 4 100.0 1 2 3 1 1 0 1 0 10
+p812
+aVBimbo Coles CLE 11/02/2001 CLE @ MIA W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -12
+p813
+aVJumaine Jones CLE 10/31/2001 CLE @ CHH L 34 6 3 9 33.3 0 1 0.0 0 0 - 0 3 3 4 3 0 2 3 -9
+p814
+aVAndre Miller CLE 10/31/2001 CLE @ CHH L 37 22 6 15 40.0 0 0 - 10 11 90.9 0 8 8 6 1 0 3 3 0
+p815
+aVLamond Murray CLE 10/31/2001 CLE @ CHH L 20 11 5 12 41.7 0 1 0.0 1 2 50.0 0 3 3 1 2 0 1 1 12
+p816
+aVRicky Davis CLE 10/31/2001 CLE @ CHH L 12 14 5 8 62.5 0 0 - 4 4 100.0 0 0 0 0 0 0 0 1 -9
+p817
+aVMichael Doleac CLE 10/31/2001 CLE @ CHH L 23 12 4 8 50.0 0 0 - 4 4 100.0 2 6 8 0 1 1 2 4 1
+p818
+aVWesley Person CLE 10/31/2001 CLE @ CHH L 33 10 4 10 40.0 2 4 50.0 0 0 - 2 2 4 2 1 0 0 2 -8
+p819
+aVChris Mihm CLE 10/31/2001 CLE @ CHH L 37 13 3 12 25.0 0 0 - 7 8 87.5 7 3 10 0 0 1 2 5 -9
+p820
+aVBrian Skinner CLE 10/31/2001 CLE @ CHH L 33 4 1 6 16.7 0 0 - 2 2 100.0 3 7 10 0 1 2 0 4 -2
+p821
+aVBimbo Coles CLE 10/31/2001 CLE @ CHH L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -6
+p822
+aVBryant Stith CLE 10/30/2001 CLE vs. BOS L 19 4 2 6 33.3 0 3 0.0 0 0 - 0 4 4 3 0 0 1 1 -15
+p823
+aVBimbo Coles CLE 10/30/2001 CLE vs. BOS L 15 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 3 0 0 0 0 -7
+p824
+aVDeSagana Diop CLE 10/30/2001 CLE vs. BOS L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p825
+aVTrajan Langdon CLE 10/30/2001 CLE vs. BOS L 24 13 5 13 38.5 2 7 28.6 1 1 100.0 1 3 4 6 0 0 0 2 16
+p826
+aVWesley Person CLE 10/30/2001 CLE vs. BOS L 33 13 6 16 37.5 1 4 25.0 0 0 - 0 4 4 3 2 1 0 0 -7
+p827
+aVBrian Skinner CLE 10/30/2001 CLE vs. BOS L 19 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 2
+p828
+aVRicky Davis CLE 10/30/2001 CLE vs. BOS L 9 12 5 7 71.4 0 1 0.0 2 2 100.0 0 1 1 2 0 1 1 2 8
+p829
+aVLamond Murray CLE 10/30/2001 CLE vs. BOS L 14 6 3 6 50.0 0 1 0.0 0 1 0.0 1 2 3 1 1 2 2 4 -13
+p830
+aVJumaine Jones CLE 10/30/2001 CLE vs. BOS L 28 12 6 11 54.5 0 1 0.0 0 0 - 2 2 4 1 0 0 2 2 -14
+p831
+aVMichael Doleac CLE 10/30/2001 CLE vs. BOS L 25 2 0 3 0.0 0 0 - 2 2 100.0 1 7 8 2 0 0 1 4 -12
+p832
+aVAndre Miller CLE 10/30/2001 CLE vs. BOS L 29 9 4 12 33.3 0 0 - 1 2 50.0 0 1 1 9 0 0 3 1 -25
+p833
+aVChris Mihm CLE 10/30/2001 CLE vs. BOS L 19 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 0 4 1 3 -32
+p834
+a.

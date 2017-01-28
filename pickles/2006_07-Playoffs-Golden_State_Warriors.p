@@ -1,0 +1,214 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMickael Pietrus GSW 05/15/2007 GSW @ UTA L 15 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -4
+p2
+aVJason Richardson GSW 05/15/2007 GSW @ UTA L 29 13 5 12 41.7 1 7 14.3 2 2 100.0 1 7 8 1 0 0 3 5 -12
+p3
+aVMonta Ellis GSW 05/15/2007 GSW @ UTA L 27 12 5 11 45.5 0 1 0.0 2 2 100.0 0 3 3 0 0 0 3 3 -9
+p4
+aVStephen Jackson GSW 05/15/2007 GSW @ UTA L 44 16 3 17 17.6 1 7 14.3 9 9 100.0 0 5 5 5 2 2 3 3 -9
+p5
+aVBaron Davis GSW 05/15/2007 GSW @ UTA L 44 21 5 16 31.3 1 7 14.3 10 12 83.3 0 2 2 8 6 1 2 3 -7
+p6
+aVAl Harrington GSW 05/15/2007 GSW @ UTA L 26 8 4 9 44.4 0 1 0.0 0 0 - 3 3 6 0 1 1 2 5 -3
+p7
+aVAndris Biedrins GSW 05/15/2007 GSW @ UTA L 29 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 3 2 1 5 -16
+p8
+aVMatt Barnes GSW 05/15/2007 GSW @ UTA L 27 14 5 10 50.0 3 6 50.0 1 2 50.0 2 4 6 0 4 1 2 6 -5
+p9
+aVJason Richardson GSW 05/13/2007 GSW vs. UTA L 33 7 3 12 25.0 1 6 16.7 0 0 - 3 3 6 2 0 0 2 4 -20
+p10
+aVBaron Davis GSW 05/13/2007 GSW vs. UTA L 39 15 6 16 37.5 2 8 25.0 1 4 25.0 0 1 1 7 4 0 1 5 -5
+p11
+aVAl Harrington GSW 05/13/2007 GSW vs. UTA L 31 24 8 16 50.0 4 10 40.0 4 6 66.7 2 1 3 0 0 0 0 6 -2
+p12
+aVKelenna Azubuike GSW 05/13/2007 GSW vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p13
+aVJosh Powell GSW 05/13/2007 GSW vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p14
+aVMonta Ellis GSW 05/13/2007 GSW vs. UTA L 22 15 5 13 38.5 1 3 33.3 4 4 100.0 3 0 3 0 2 0 2 2 -2
+p15
+aVStephen Jackson GSW 05/13/2007 GSW vs. UTA L 44 24 5 15 33.3 3 8 37.5 11 12 91.7 0 3 3 3 2 1 6 5 -19
+p16
+aVMatt Barnes GSW 05/13/2007 GSW vs. UTA L 19 7 3 7 42.9 1 3 33.3 0 1 0.0 3 4 7 0 0 0 3 4 -19
+p17
+aVMickael Pietrus GSW 05/13/2007 GSW vs. UTA L 17 2 1 2 50.0 0 1 0.0 0 3 0.0 0 3 3 1 0 3 0 2 9
+p18
+aVAndris Biedrins GSW 05/13/2007 GSW vs. UTA L 33 7 3 3 100.0 0 0 - 1 4 25.0 2 8 10 1 1 3 1 3 -12
+p19
+aVKelenna Azubuike GSW 05/11/2007 GSW vs. UTA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p20
+aVMonta Ellis GSW 05/11/2007 GSW vs. UTA W 21 10 3 8 37.5 0 1 0.0 4 4 100.0 1 2 3 2 2 1 2 4 -5
+p21
+aVStephen Jackson GSW 05/11/2007 GSW vs. UTA W 28 8 2 4 50.0 0 2 0.0 4 5 80.0 1 0 1 5 1 1 3 4 18
+p22
+aVAdonal Foyle GSW 05/11/2007 GSW vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p23
+aVJosh Powell GSW 05/11/2007 GSW vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -2
+p24
+aVBaron Davis GSW 05/11/2007 GSW vs. UTA W 35 32 12 20 60.0 2 6 33.3 6 7 85.7 1 3 4 9 6 0 3 4 26
+p25
+aVSarunas Jasikevicius GSW 05/11/2007 GSW vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p26
+aVMatt Barnes GSW 05/11/2007 GSW vs. UTA W 25 8 3 5 60.0 2 4 50.0 0 0 - 0 0 0 2 1 0 2 3 6
+p27
+aVMickael Pietrus GSW 05/11/2007 GSW vs. UTA W 19 14 2 4 50.0 2 3 66.7 8 9 88.9 0 2 2 1 1 2 1 2 9
+p28
+aVAndris Biedrins GSW 05/11/2007 GSW vs. UTA W 38 13 5 7 71.4 0 0 - 3 6 50.0 4 9 13 0 0 1 1 4 27
+p29
+aVJason Richardson GSW 05/11/2007 GSW vs. UTA W 35 25 10 17 58.8 5 9 55.6 0 0 - 1 4 5 2 1 1 1 3 17
+p30
+aVAl Harrington GSW 05/11/2007 GSW vs. UTA W 31 15 4 12 33.3 4 7 57.1 3 4 75.0 0 3 3 1 0 1 1 3 11
+p31
+aVStephen Jackson GSW 05/09/2007 GSW @ UTA L 46 18 4 18 22.2 2 10 20.0 8 10 80.0 1 2 3 1 2 0 2 4 -10
+p32
+aVMonta Ellis GSW 05/09/2007 GSW @ UTA L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 0
+p33
+aVAndris Biedrins GSW 05/09/2007 GSW @ UTA L 33 4 1 1 100.0 0 0 - 2 2 100.0 2 4 6 1 1 3 0 4 5
+p34
+aVMickael Pietrus GSW 05/09/2007 GSW @ UTA L 13 2 1 1 100.0 0 0 - 0 3 0.0 0 2 2 1 0 1 0 3 -10
+p35
+aVJason Richardson GSW 05/09/2007 GSW @ UTA L 47 27 9 20 45.0 5 10 50.0 4 7 57.1 1 3 4 1 2 0 2 5 -10
+p36
+aVBaron Davis GSW 05/09/2007 GSW @ UTA L 46 36 13 22 59.1 4 9 44.4 6 7 85.7 2 1 3 7 4 0 4 2 -11
+p37
+aVAl Harrington GSW 05/09/2007 GSW @ UTA L 30 17 7 15 46.7 2 5 40.0 1 2 50.0 2 3 5 1 3 1 1 5 -4
+p38
+aVMatt Barnes GSW 05/09/2007 GSW @ UTA L 43 12 3 12 25.0 2 6 33.3 4 4 100.0 4 3 7 2 1 1 2 4 -10
+p39
+aVMonta Ellis GSW 05/07/2007 GSW @ UTA L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 2
+p40
+aVJason Richardson GSW 05/07/2007 GSW @ UTA L 42 21 8 19 42.1 2 6 33.3 3 3 100.0 5 5 10 4 3 0 2 4 2
+p41
+aVStephen Jackson GSW 05/07/2007 GSW @ UTA L 45 16 5 14 35.7 1 5 20.0 5 8 62.5 0 1 1 4 3 0 5 5 5
+p42
+aVAl Harrington GSW 05/07/2007 GSW @ UTA L 27 21 8 15 53.3 4 7 57.1 1 1 100.0 0 3 3 0 0 2 0 4 1
+p43
+aVBaron Davis GSW 05/07/2007 GSW @ UTA L 39 24 8 17 47.1 1 4 25.0 7 9 77.8 1 2 3 7 1 2 3 5 -11
+p44
+aVAndris Biedrins GSW 05/07/2007 GSW @ UTA L 21 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 3 2 0 3 -1
+p45
+aVMickael Pietrus GSW 05/07/2007 GSW @ UTA L 18 5 2 5 40.0 1 3 33.3 0 0 - 1 1 2 0 0 0 1 3 -1
+p46
+aVMatt Barnes GSW 05/07/2007 GSW @ UTA L 43 20 8 15 53.3 3 6 50.0 1 2 50.0 4 6 10 4 4 0 4 1 -17
+p47
+aVAndris Biedrins GSW 05/03/2007 GSW vs. DAL W 24 12 4 6 66.7 0 0 - 4 6 66.7 3 9 12 1 0 3 1 0 25
+p48
+aVAl Harrington GSW 05/03/2007 GSW vs. DAL W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -4
+p49
+aVMonta Ellis GSW 05/03/2007 GSW vs. DAL W 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 2 0 0 0 -2
+p50
+aVAdonal Foyle GSW 05/03/2007 GSW vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p51
+aVJosh Powell GSW 05/03/2007 GSW vs. DAL W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 0
+p52
+aVStephen Jackson GSW 05/03/2007 GSW vs. DAL W 44 33 10 19 52.6 7 8 87.5 6 8 75.0 2 3 5 3 3 0 1 4 26
+p53
+aVMatt Barnes GSW 05/03/2007 GSW vs. DAL W 42 16 5 12 41.7 1 2 50.0 5 6 83.3 3 8 11 7 1 0 3 5 26
+p54
+aVKelenna Azubuike GSW 05/03/2007 GSW vs. DAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p55
+aVMickael Pietrus GSW 05/03/2007 GSW vs. DAL W 20 8 2 6 33.3 0 3 0.0 4 4 100.0 4 4 8 1 1 0 1 1 4
+p56
+aVSarunas Jasikevicius GSW 05/03/2007 GSW vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p57
+aVBaron Davis GSW 05/03/2007 GSW vs. DAL W 38 20 7 17 41.2 3 10 30.0 3 4 75.0 2 8 10 6 1 0 5 3 30
+p58
+aVJason Richardson GSW 05/03/2007 GSW vs. DAL W 41 15 6 13 46.2 3 7 42.9 0 0 - 2 3 5 4 2 0 2 1 22
+p59
+aVStephen Jackson GSW 05/01/2007 GSW @ DAL L 41 16 4 14 28.6 3 8 37.5 5 8 62.5 0 4 4 5 4 0 5 2 -9
+p60
+aVAl Harrington GSW 05/01/2007 GSW @ DAL L 15 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 0 0 0 3 2 0
+p61
+aVBaron Davis GSW 05/01/2007 GSW @ DAL L 41 27 10 16 62.5 3 5 60.0 4 4 100.0 1 3 4 9 1 1 3 6 -17
+p62
+aVJason Richardson GSW 05/01/2007 GSW @ DAL L 42 23 9 16 56.3 5 10 50.0 0 0 - 2 5 7 2 0 0 1 3 -10
+p63
+aVKelenna Azubuike GSW 05/01/2007 GSW @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p64
+aVMonta Ellis GSW 05/01/2007 GSW @ DAL L 26 4 1 5 20.0 0 0 - 2 3 66.7 0 2 2 2 0 0 1 1 -6
+p65
+aVMatt Barnes GSW 05/01/2007 GSW @ DAL L 35 16 7 15 46.7 2 6 33.3 0 1 0.0 3 3 6 4 2 0 2 5 4
+p66
+aVAndris Biedrins GSW 05/01/2007 GSW @ DAL L 13 8 2 3 66.7 0 0 - 4 7 57.1 1 1 2 0 0 0 0 3 -7
+p67
+aVMickael Pietrus GSW 05/01/2007 GSW @ DAL L 26 11 3 10 30.0 2 5 40.0 3 3 100.0 4 6 10 1 1 0 0 6 10
+p68
+aVJason Richardson GSW 04/29/2007 GSW vs. DAL W 42 22 7 15 46.7 2 6 33.3 6 8 75.0 2 3 5 1 4 0 2 4 0
+p69
+aVAndris Biedrins GSW 04/29/2007 GSW vs. DAL W 23 4 2 4 50.0 0 0 - 0 3 0.0 2 2 4 1 0 0 2 4 -11
+p70
+aVAl Harrington GSW 04/29/2007 GSW vs. DAL W 14 1 0 2 0.0 0 2 0.0 1 2 50.0 1 1 2 1 0 0 1 4 8
+p71
+aVMonta Ellis GSW 04/29/2007 GSW vs. DAL W 23 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 6
+p72
+aVMatt Barnes GSW 04/29/2007 GSW vs. DAL W 27 8 3 8 37.5 2 5 40.0 0 0 - 2 5 7 3 0 0 1 2 22
+p73
+aVMickael Pietrus GSW 04/29/2007 GSW vs. DAL W 27 16 4 9 44.4 2 6 33.3 6 8 75.0 1 4 5 1 2 1 1 3 0
+p74
+aVBaron Davis GSW 04/29/2007 GSW vs. DAL W 44 33 12 17 70.6 3 4 75.0 6 12 50.0 2 6 8 4 2 1 2 4 -1
+p75
+aVStephen Jackson GSW 04/29/2007 GSW vs. DAL W 41 19 6 14 42.9 3 7 42.9 4 4 100.0 0 2 2 3 0 2 1 2 -4
+p76
+aVMonta Ellis GSW 04/27/2007 GSW vs. DAL W 35 14 6 11 54.5 0 1 0.0 2 3 66.7 0 3 3 2 3 1 5 4 12
+p77
+aVSarunas Jasikevicius GSW 04/27/2007 GSW vs. DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p78
+aVJosh Powell GSW 04/27/2007 GSW vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p79
+aVKelenna Azubuike GSW 04/27/2007 GSW vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p80
+aVMatt Barnes GSW 04/27/2007 GSW vs. DAL W 23 7 3 7 42.9 1 3 33.3 0 0 - 2 2 4 1 1 0 0 6 3
+p81
+aVStephen Jackson GSW 04/27/2007 GSW vs. DAL W 39 16 4 12 33.3 0 3 0.0 8 10 80.0 0 8 8 6 2 1 4 3 11
+p82
+aVAl Harrington GSW 04/27/2007 GSW vs. DAL W 14 7 1 3 33.3 0 1 0.0 5 9 55.6 2 6 8 0 0 1 0 3 -6
+p83
+aVBaron Davis GSW 04/27/2007 GSW vs. DAL W 42 24 9 18 50.0 1 3 33.3 5 5 100.0 0 0 0 5 2 1 0 5 26
+p84
+aVJason Richardson GSW 04/27/2007 GSW vs. DAL W 39 30 12 19 63.2 4 10 40.0 2 3 66.7 3 5 8 2 0 1 2 3 26
+p85
+aVMickael Pietrus GSW 04/27/2007 GSW vs. DAL W 20 1 0 5 0.0 0 2 0.0 1 2 50.0 2 3 5 0 0 1 3 4 7
+p86
+aVAndris Biedrins GSW 04/27/2007 GSW vs. DAL W 23 10 4 5 80.0 0 0 - 2 2 100.0 3 7 10 0 0 1 0 2 17
+p87
+aVMatt Barnes GSW 04/25/2007 GSW @ DAL L 21 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 1 1 6 -13
+p88
+aVAndris Biedrins GSW 04/25/2007 GSW @ DAL L 20 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 2 1 2
+p89
+aVMickael Pietrus GSW 04/25/2007 GSW @ DAL L 17 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 5 -14
+p90
+aVSarunas Jasikevicius GSW 04/25/2007 GSW @ DAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 5
+p91
+aVMonta Ellis GSW 04/25/2007 GSW @ DAL L 33 20 8 15 53.3 0 2 0.0 4 4 100.0 2 1 3 0 1 0 3 4 -22
+p92
+aVStephen Jackson GSW 04/25/2007 GSW @ DAL L 38 30 9 16 56.3 3 7 42.9 9 11 81.8 1 2 3 1 1 0 8 4 -11
+p93
+aVJason Richardson GSW 04/25/2007 GSW @ DAL L 38 14 7 15 46.7 0 4 0.0 0 0 - 2 8 10 3 2 2 3 2 -15
+p94
+aVAl Harrington GSW 04/25/2007 GSW @ DAL L 28 5 1 8 12.5 0 1 0.0 3 4 75.0 1 7 8 1 0 1 1 2 -5
+p95
+aVBaron Davis GSW 04/25/2007 GSW @ DAL L 32 13 5 12 41.7 1 4 25.0 2 2 100.0 0 1 1 2 2 0 6 5 -6
+p96
+aVAdonal Foyle GSW 04/25/2007 GSW @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p97
+aVKelenna Azubuike GSW 04/25/2007 GSW @ DAL L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 1 3 4 0 1 0 0 0 9
+p98
+aVMatt Barnes GSW 04/22/2007 GSW @ DAL W 25 10 3 4 75.0 2 3 66.7 2 2 100.0 2 2 4 3 2 1 0 2 20
+p99
+aVMickael Pietrus GSW 04/22/2007 GSW @ DAL W 16 2 1 5 20.0 0 3 0.0 0 0 - 1 2 3 0 0 1 0 2 -9
+p100
+aVMonta Ellis GSW 04/22/2007 GSW @ DAL W 23 7 2 7 28.6 0 0 - 3 4 75.0 0 2 2 0 0 0 2 3 -10
+p101
+aVAl Harrington GSW 04/22/2007 GSW @ DAL W 38 7 3 14 21.4 0 3 0.0 1 2 50.0 6 4 10 1 0 0 1 4 21
+p102
+aVAndris Biedrins GSW 04/22/2007 GSW @ DAL W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -3
+p103
+aVBaron Davis GSW 04/22/2007 GSW @ DAL W 44 33 11 20 55.0 4 7 57.1 7 8 87.5 2 12 14 8 3 1 3 4 17
+p104
+aVJason Richardson GSW 04/22/2007 GSW @ DAL W 41 13 5 12 41.7 1 7 14.3 2 4 50.0 2 4 6 0 0 1 4 4 9
+p105
+aVStephen Jackson GSW 04/22/2007 GSW @ DAL W 45 23 9 18 50.0 3 7 42.9 2 2 100.0 1 4 5 4 2 1 3 3 15
+p106
+a.

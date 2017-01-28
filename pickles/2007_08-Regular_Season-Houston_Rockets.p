@@ -1,0 +1,1674 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTracy McGrady HOU 04/16/2008 HOU vs. LAC W 33 7 2 11 18.2 0 5 0.0 3 4 75.0 0 2 2 11 1 0 1 0 24
+p2
+aVMichael Harris HOU 04/16/2008 HOU vs. LAC W 10 4 2 5 40.0 0 0 - 0 0 - 4 0 4 1 0 0 1 0 -12
+p3
+aVLoren Woods HOU 04/16/2008 HOU vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p4
+aVCharles Hayes HOU 04/16/2008 HOU vs. LAC W 23 6 3 6 50.0 0 0 - 0 2 0.0 1 4 5 2 3 0 0 5 5
+p5
+aVLuis Scola HOU 04/16/2008 HOU vs. LAC W 32 22 10 14 71.4 0 0 - 2 4 50.0 4 6 10 4 0 0 1 3 24
+p6
+aVLuther Head HOU 04/16/2008 HOU vs. LAC W 15 2 1 8 12.5 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p7
+aVDikembe Mutombo HOU 04/16/2008 HOU vs. LAC W 20 8 3 5 60.0 0 0 - 2 2 100.0 2 7 9 1 1 3 0 1 12
+p8
+aVCarl Landry HOU 04/16/2008 HOU vs. LAC W 10 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -6
+p9
+aVSteve Novak HOU 04/16/2008 HOU vs. LAC W 15 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 0 0 0 0 1 1
+p10
+aVBobby Jackson HOU 04/16/2008 HOU vs. LAC W 31 15 6 14 42.9 3 8 37.5 0 0 - 1 4 5 3 1 0 2 1 25
+p11
+aVAaron Brooks HOU 04/16/2008 HOU vs. LAC W 17 8 3 8 37.5 0 2 0.0 2 2 100.0 0 1 1 1 2 0 0 2 -7
+p12
+aVShane Battier HOU 04/16/2008 HOU vs. LAC W 33 8 3 10 30.0 2 6 33.3 0 0 - 2 4 6 1 0 0 0 1 30
+p13
+aVSteve Novak HOU 04/14/2008 HOU @ UTA L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 2
+p14
+aVDikembe Mutombo HOU 04/14/2008 HOU @ UTA L 18 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 1 0 1 -11
+p15
+aVLuther Head HOU 04/14/2008 HOU @ UTA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p16
+aVCarl Landry HOU 04/14/2008 HOU @ UTA L 12 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 1 0 3 1 -7
+p17
+aVAaron Brooks HOU 04/14/2008 HOU @ UTA L 14 8 2 5 40.0 2 4 50.0 2 2 100.0 0 0 0 3 0 0 1 4 -5
+p18
+aVLuis Scola HOU 04/14/2008 HOU @ UTA L 43 22 5 12 41.7 0 0 - 12 14 85.7 2 11 13 2 1 1 2 5 -3
+p19
+aVTracy McGrady HOU 04/14/2008 HOU @ UTA L 43 22 7 21 33.3 2 7 28.6 6 9 66.7 1 2 3 3 0 0 1 1 -5
+p20
+aVCharles Hayes HOU 04/14/2008 HOU @ UTA L 23 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 2 1 1 4 3
+p21
+aVMichael Harris HOU 04/14/2008 HOU @ UTA L 14 6 2 3 66.7 0 1 0.0 2 2 100.0 2 2 4 1 1 0 0 3 -3
+p22
+aVBobby Jackson HOU 04/14/2008 HOU @ UTA L 34 19 5 14 35.7 2 6 33.3 7 7 100.0 1 4 5 6 2 0 2 4 -4
+p23
+aVShane Battier HOU 04/14/2008 HOU @ UTA L 34 10 3 7 42.9 3 6 50.0 1 2 50.0 0 4 4 0 0 0 0 4 -6
+p24
+aVCharles Hayes HOU 04/13/2008 HOU @ DEN L 23 2 1 6 16.7 0 1 0.0 0 0 - 2 5 7 3 1 2 2 4 -7
+p25
+aVCarl Landry HOU 04/13/2008 HOU @ DEN L 22 11 4 9 44.4 0 0 - 3 3 100.0 4 1 5 1 0 0 1 6 -17
+p26
+aVLuis Scola HOU 04/13/2008 HOU @ DEN L 30 7 2 8 25.0 0 0 - 3 7 42.9 3 10 13 3 0 0 1 2 -11
+p27
+aVAaron Brooks HOU 04/13/2008 HOU @ DEN L 17 7 2 8 25.0 1 3 33.3 2 2 100.0 0 0 0 3 0 0 1 3 -5
+p28
+aVTracy McGrady HOU 04/13/2008 HOU @ DEN L 30 16 5 18 27.8 0 2 0.0 6 7 85.7 0 4 4 7 1 0 2 4 -13
+p29
+aVRafer Alston HOU 04/13/2008 HOU @ DEN L 25 6 2 10 20.0 1 4 25.0 1 2 50.0 1 1 2 1 2 0 2 4 -7
+p30
+aVDikembe Mutombo HOU 04/13/2008 HOU @ DEN L 16 3 1 5 20.0 0 0 - 1 2 50.0 4 4 8 0 0 0 2 0 -2
+p31
+aVLoren Woods HOU 04/13/2008 HOU @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 3
+p32
+aVSteve Novak HOU 04/13/2008 HOU @ DEN L 27 15 5 10 50.0 5 9 55.6 0 0 - 0 5 5 0 0 0 0 1 -10
+p33
+aVMichael Harris HOU 04/13/2008 HOU @ DEN L 17 8 4 6 66.7 0 0 - 0 0 - 2 4 6 0 2 0 3 2 -9
+p34
+aVLuther Head HOU 04/13/2008 HOU @ DEN L 28 19 6 12 50.0 2 6 33.3 5 5 100.0 1 3 4 2 1 2 3 1 -7
+p35
+aVAaron Brooks HOU 04/11/2008 HOU vs. PHX W 18 7 3 4 75.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 1 4 7
+p36
+aVLuther Head HOU 04/11/2008 HOU vs. PHX W 28 4 2 8 25.0 0 3 0.0 0 0 - 0 4 4 3 2 0 1 1 9
+p37
+aVCharles Hayes HOU 04/11/2008 HOU vs. PHX W 16 4 2 3 66.7 0 0 - 0 0 - 2 2 4 2 1 0 0 4 4
+p38
+aVBobby Jackson HOU 04/11/2008 HOU vs. PHX W 21 13 6 10 60.0 0 1 0.0 1 2 50.0 0 4 4 0 0 0 0 1 4
+p39
+aVTracy McGrady HOU 04/11/2008 HOU vs. PHX W 38 22 10 23 43.5 0 2 0.0 2 6 33.3 1 5 6 7 0 0 2 1 12
+p40
+aVDikembe Mutombo HOU 04/11/2008 HOU vs. PHX W 30 8 3 3 100.0 0 0 - 2 2 100.0 1 7 8 0 0 3 1 2 5
+p41
+aVSteve Novak HOU 04/11/2008 HOU vs. PHX W 10 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 -1
+p42
+aVLuis Scola HOU 04/11/2008 HOU vs. PHX W 29 19 9 15 60.0 0 0 - 1 4 25.0 3 2 5 0 2 0 0 3 6
+p43
+aVMichael Harris HOU 04/11/2008 HOU vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p44
+aVRafer Alston HOU 04/11/2008 HOU vs. PHX W 30 5 2 11 18.2 1 3 33.3 0 0 - 1 3 4 2 1 0 0 2 4
+p45
+aVCarl Landry HOU 04/11/2008 HOU vs. PHX W 19 14 6 8 75.0 0 0 - 2 3 66.7 5 2 7 3 0 0 0 2 9
+p46
+aVCharles Hayes HOU 04/09/2008 HOU vs. SEA W 28 6 3 3 100.0 0 0 - 0 0 - 1 7 8 4 0 2 0 4 19
+p47
+aVLuis Scola HOU 04/09/2008 HOU vs. SEA W 27 13 5 9 55.6 0 0 - 3 4 75.0 1 11 12 4 1 2 1 1 10
+p48
+aVAaron Brooks HOU 04/09/2008 HOU vs. SEA W 17 11 4 8 50.0 3 5 60.0 0 0 - 0 4 4 4 0 1 4 1 10
+p49
+aVDikembe Mutombo HOU 04/09/2008 HOU vs. SEA W 18 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 0 0 3 1 2 8
+p50
+aVBobby Jackson HOU 04/09/2008 HOU vs. SEA W 21 7 3 10 30.0 1 4 25.0 0 0 - 0 1 1 5 0 0 2 2 10
+p51
+aVLoren Woods HOU 04/09/2008 HOU vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p52
+aVSteve Novak HOU 04/09/2008 HOU vs. SEA W 30 17 6 12 50.0 5 9 55.6 0 0 - 0 3 3 1 0 0 1 0 19
+p53
+aVLuther Head HOU 04/09/2008 HOU vs. SEA W 24 16 7 11 63.6 1 4 25.0 1 1 100.0 1 1 2 2 0 0 1 0 8
+p54
+aVRafer Alston HOU 04/09/2008 HOU vs. SEA W 28 18 6 11 54.5 2 5 40.0 4 4 100.0 0 3 3 5 2 0 6 2 7
+p55
+aVMichael Harris HOU 04/09/2008 HOU vs. SEA W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 11
+p56
+aVCarl Landry HOU 04/09/2008 HOU vs. SEA W 21 7 3 4 75.0 0 0 - 1 4 25.0 2 2 4 0 0 0 1 3 2
+p57
+aVShane Battier HOU 04/09/2008 HOU vs. SEA W 18 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 2 1 1 0 3 4
+p58
+aVBobby Jackson HOU 04/06/2008 HOU @ LAC W 23 12 4 13 30.8 2 4 50.0 2 3 66.7 0 5 5 4 0 0 1 1 2
+p59
+aVCharles Hayes HOU 04/06/2008 HOU @ LAC W 27 4 2 5 40.0 0 1 0.0 0 0 - 2 5 7 1 1 0 2 4 12
+p60
+aVCarl Landry HOU 04/06/2008 HOU @ LAC W 16 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 2 2 16
+p61
+aVMichael Harris HOU 04/06/2008 HOU @ LAC W 3 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 6
+p62
+aVLoren Woods HOU 04/06/2008 HOU @ LAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p63
+aVShane Battier HOU 04/06/2008 HOU @ LAC W 29 11 3 9 33.3 1 2 50.0 4 5 80.0 0 1 1 3 1 0 0 4 24
+p64
+aVDikembe Mutombo HOU 04/06/2008 HOU @ LAC W 16 8 4 6 66.7 0 0 - 0 0 - 1 6 7 0 0 0 0 0 7
+p65
+aVTracy McGrady HOU 04/06/2008 HOU @ LAC W 39 13 5 16 31.3 1 5 20.0 2 2 100.0 1 7 8 9 1 1 3 1 8
+p66
+aVLuther Head HOU 04/06/2008 HOU @ LAC W 30 15 6 10 60.0 1 3 33.3 2 2 100.0 1 3 4 3 2 0 2 2 19
+p67
+aVAaron Brooks HOU 04/06/2008 HOU @ LAC W 25 18 7 9 77.8 2 3 66.7 2 3 66.7 1 3 4 4 0 0 0 1 24
+p68
+aVSteve Novak HOU 04/06/2008 HOU @ LAC W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 6
+p69
+aVLuis Scola HOU 04/06/2008 HOU @ LAC W 27 16 4 5 80.0 0 0 - 8 10 80.0 1 4 5 0 0 0 2 2 4
+p70
+aVBobby Jackson HOU 04/04/2008 HOU @ SEA W 32 13 5 12 41.7 3 6 50.0 0 0 - 1 1 2 6 1 0 2 2 13
+p71
+aVSteve Novak HOU 04/04/2008 HOU @ SEA W 2 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p72
+aVLuther Head HOU 04/04/2008 HOU @ SEA W 19 4 1 4 25.0 1 2 50.0 1 2 50.0 1 2 3 1 1 1 3 3 -9
+p73
+aVCharles Hayes HOU 04/04/2008 HOU @ SEA W 16 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 2 0 0 2 4
+p74
+aVLoren Woods HOU 04/04/2008 HOU @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p75
+aVCarl Landry HOU 04/04/2008 HOU @ SEA W 16 4 2 6 33.3 0 0 - 0 2 0.0 1 3 4 0 0 1 1 2 4
+p76
+aVMichael Harris HOU 04/04/2008 HOU @ SEA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p77
+aVLuis Scola HOU 04/04/2008 HOU @ SEA W 35 7 3 8 37.5 0 0 - 1 2 50.0 3 9 12 1 1 0 2 3 11
+p78
+aVShane Battier HOU 04/04/2008 HOU @ SEA W 40 11 4 10 40.0 3 7 42.9 0 0 - 2 6 8 2 1 0 2 0 16
+p79
+aVTracy McGrady HOU 04/04/2008 HOU @ SEA W 41 25 11 27 40.7 0 4 0.0 3 4 75.0 1 3 4 6 0 1 2 0 19
+p80
+aVAaron Brooks HOU 04/04/2008 HOU @ SEA W 17 10 3 5 60.0 1 2 50.0 3 3 100.0 1 0 1 2 0 0 0 1 -2
+p81
+aVDikembe Mutombo HOU 04/04/2008 HOU @ SEA W 16 5 2 2 100.0 0 0 - 1 2 50.0 2 2 4 0 1 1 0 4 15
+p82
+aVSteve Novak HOU 04/03/2008 HOU @ POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p83
+aVTracy McGrady HOU 04/03/2008 HOU @ POR W 43 35 14 29 48.3 4 6 66.7 3 3 100.0 1 5 6 5 2 1 3 1 7
+p84
+aVLuis Scola HOU 04/03/2008 HOU @ POR W 25 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 1 0 2 5 5
+p85
+aVBobby Jackson HOU 04/03/2008 HOU @ POR W 23 11 4 9 44.4 1 4 25.0 2 2 100.0 0 3 3 4 1 0 0 2 6
+p86
+aVMichael Harris HOU 04/03/2008 HOU @ POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p87
+aVCharles Hayes HOU 04/03/2008 HOU @ POR W 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 2 0 3 9
+p88
+aVDikembe Mutombo HOU 04/03/2008 HOU @ POR W 26 11 3 6 50.0 0 0 - 5 6 83.3 2 3 5 0 1 3 0 1 -2
+p89
+aVCarl Landry HOU 04/03/2008 HOU @ POR W 20 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 2 2 15
+p90
+aVAaron Brooks HOU 04/03/2008 HOU @ POR W 25 12 4 10 40.0 2 5 40.0 2 2 100.0 0 3 3 3 1 0 0 1 3
+p91
+aVShane Battier HOU 04/03/2008 HOU @ POR W 31 9 3 6 50.0 3 4 75.0 0 0 - 1 5 6 1 0 1 1 3 0
+p92
+aVLuther Head HOU 04/03/2008 HOU @ POR W 27 11 3 5 60.0 1 3 33.3 4 5 80.0 0 5 5 2 0 0 4 0 8
+p93
+aVShane Battier HOU 04/01/2008 HOU @ SAC L 44 9 3 8 37.5 1 2 50.0 2 2 100.0 6 3 9 2 4 4 1 5 -3
+p94
+aVLuther Head HOU 04/01/2008 HOU @ SAC L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 1
+p95
+aVTracy McGrady HOU 04/01/2008 HOU @ SAC L 44 32 12 31 38.7 1 4 25.0 7 8 87.5 2 5 7 4 1 0 5 2 0
+p96
+aVCharles Hayes HOU 04/01/2008 HOU @ SAC L 24 2 1 6 16.7 0 0 - 0 0 - 4 1 5 0 2 2 1 5 -4
+p97
+aVLuis Scola HOU 04/01/2008 HOU @ SAC L 35 20 5 9 55.6 0 0 - 10 10 100.0 3 5 8 2 1 0 2 4 -1
+p98
+aVRafer Alston HOU 04/01/2008 HOU @ SAC L 36 16 4 13 30.8 2 5 40.0 6 9 66.7 1 3 4 8 0 0 3 1 1
+p99
+aVDikembe Mutombo HOU 04/01/2008 HOU @ SAC L 21 11 4 4 100.0 0 0 - 3 6 50.0 3 4 7 0 0 2 1 3 7
+p100
+aVBobby Jackson HOU 04/01/2008 HOU @ SAC L 12 6 3 7 42.9 0 4 0.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p101
+aVCarl Landry HOU 04/01/2008 HOU @ SAC L 16 0 0 1 0.0 0 0 - 0 0 - 2 4 6 2 2 1 1 5 -4
+p102
+aVRafer Alston HOU 03/30/2008 HOU @ SAS L 33 13 4 16 25.0 0 4 0.0 5 5 100.0 0 4 4 1 0 1 2 3 -22
+p103
+aVShane Battier HOU 03/30/2008 HOU @ SAS L 33 5 2 6 33.3 1 3 33.3 0 0 - 2 3 5 0 0 0 1 5 -18
+p104
+aVSteve Novak HOU 03/30/2008 HOU @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p105
+aVMichael Harris HOU 03/30/2008 HOU @ SAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 2
+p106
+aVLuis Scola HOU 03/30/2008 HOU @ SAS L 35 24 7 12 58.3 0 0 - 10 12 83.3 4 3 7 0 0 0 0 4 -22
+p107
+aVDikembe Mutombo HOU 03/30/2008 HOU @ SAS L 21 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 2 1 0 1 -5
+p108
+aVBobby Jackson HOU 03/30/2008 HOU @ SAS L 18 9 4 10 40.0 1 1 100.0 0 0 - 0 3 3 0 0 0 2 1 -7
+p109
+aVLuther Head HOU 03/30/2008 HOU @ SAS L 27 10 4 6 66.7 2 3 66.7 0 0 - 0 3 3 5 0 1 0 0 -6
+p110
+aVCharles Hayes HOU 03/30/2008 HOU @ SAS L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -1
+p111
+aVCarl Landry HOU 03/30/2008 HOU @ SAS L 19 6 3 5 60.0 0 0 - 0 1 0.0 3 3 6 0 0 0 1 0 -10
+p112
+aVLoren Woods HOU 03/30/2008 HOU @ SAS L 3 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p113
+aVTracy McGrady HOU 03/30/2008 HOU @ SAS L 37 13 5 22 22.7 0 2 0.0 3 7 42.9 2 3 5 6 1 1 0 1 -20
+p114
+aVLuis Scola HOU 03/26/2008 HOU vs. MIN W 35 18 8 15 53.3 0 0 - 2 2 100.0 5 13 18 0 3 0 1 4 -1
+p115
+aVCarl Landry HOU 03/26/2008 HOU vs. MIN W 16 11 3 4 75.0 0 0 - 5 7 71.4 1 3 4 0 0 0 0 1 8
+p116
+aVDikembe Mutombo HOU 03/26/2008 HOU vs. MIN W 18 4 2 3 66.7 0 0 - 0 0 - 5 3 8 2 0 0 1 4 3
+p117
+aVLuther Head HOU 03/26/2008 HOU vs. MIN W 14 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 2 1 0 1 1 2
+p118
+aVShane Battier HOU 03/26/2008 HOU vs. MIN W 42 8 3 12 25.0 1 7 14.3 1 2 50.0 4 4 8 3 0 2 5 1 6
+p119
+aVRafer Alston HOU 03/26/2008 HOU vs. MIN W 32 12 5 16 31.3 2 5 40.0 0 0 - 1 0 1 3 1 0 3 1 4
+p120
+aVTracy McGrady HOU 03/26/2008 HOU vs. MIN W 40 23 9 25 36.0 0 3 0.0 5 6 83.3 1 10 11 9 1 0 1 0 14
+p121
+aVCharles Hayes HOU 03/26/2008 HOU vs. MIN W 27 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 4 0 0 2 12
+p122
+aVBobby Jackson HOU 03/26/2008 HOU vs. MIN W 16 8 4 7 57.1 0 2 0.0 0 0 - 1 2 3 1 1 0 0 0 7
+p123
+aVDikembe Mutombo HOU 03/24/2008 HOU vs. SAC W 17 6 2 2 100.0 0 0 - 2 2 100.0 3 6 9 0 0 1 1 1 9
+p124
+aVCarl Landry HOU 03/24/2008 HOU vs. SAC W 24 6 1 2 50.0 0 0 - 4 4 100.0 0 6 6 0 0 0 1 3 -1
+p125
+aVBobby Jackson HOU 03/24/2008 HOU vs. SAC W 13 8 2 3 66.7 1 1 100.0 3 4 75.0 2 1 3 1 1 0 1 0 10
+p126
+aVTracy McGrady HOU 03/24/2008 HOU vs. SAC W 41 17 5 16 31.3 0 4 0.0 7 9 77.8 1 1 2 6 2 0 1 3 13
+p127
+aVLuis Scola HOU 03/24/2008 HOU vs. SAC W 22 11 5 9 55.6 0 0 - 1 2 50.0 0 3 3 0 1 0 1 3 7
+p128
+aVShane Battier HOU 03/24/2008 HOU vs. SAC W 38 15 5 12 41.7 0 4 0.0 5 8 62.5 2 3 5 1 0 0 0 1 3
+p129
+aVCharles Hayes HOU 03/24/2008 HOU vs. SAC W 30 10 3 4 75.0 0 0 - 4 5 80.0 1 6 7 4 1 0 3 2 2
+p130
+aVLuther Head HOU 03/24/2008 HOU vs. SAC W 17 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 3 -3
+p131
+aVRafer Alston HOU 03/24/2008 HOU vs. SAC W 39 28 9 17 52.9 3 6 50.0 7 8 87.5 1 2 3 5 2 0 0 0 0
+p132
+aVBobby Jackson HOU 03/22/2008 HOU @ PHX L 22 13 5 10 50.0 1 1 100.0 2 4 50.0 0 2 2 2 2 0 0 2 -1
+p133
+aVMichael Harris HOU 03/22/2008 HOU @ PHX L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 5
+p134
+aVTracy McGrady HOU 03/22/2008 HOU @ PHX L 39 30 11 31 35.5 1 5 20.0 7 12 58.3 2 6 8 9 1 1 3 1 -3
+p135
+aVLuis Scola HOU 03/22/2008 HOU @ PHX L 33 16 7 13 53.8 0 0 - 2 2 100.0 4 2 6 2 2 1 0 6 -9
+p136
+aVLoren Woods HOU 03/22/2008 HOU @ PHX L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p137
+aVRafer Alston HOU 03/22/2008 HOU @ PHX L 33 15 6 15 40.0 3 4 75.0 0 0 - 1 4 5 1 1 0 0 1 -7
+p138
+aVLuther Head HOU 03/22/2008 HOU @ PHX L 12 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 2 0 2 2 2
+p139
+aVShane Battier HOU 03/22/2008 HOU @ PHX L 42 14 5 9 55.6 0 1 0.0 4 4 100.0 0 2 2 2 1 1 0 3 -14
+p140
+aVDikembe Mutombo HOU 03/22/2008 HOU @ PHX L 28 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 1 1 0 4 -3
+p141
+aVCarl Landry HOU 03/22/2008 HOU @ PHX L 18 9 4 8 50.0 0 0 - 1 1 100.0 3 2 5 0 0 0 0 4 -12
+p142
+aVCharles Hayes HOU 03/22/2008 HOU @ PHX L 9 4 2 2 100.0 0 0 - 0 0 - 3 0 3 0 1 0 0 2 0
+p143
+aVSteve Novak HOU 03/22/2008 HOU @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p144
+aVMichael Harris HOU 03/21/2008 HOU @ GSW W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 8
+p145
+aVCarl Landry HOU 03/21/2008 HOU @ GSW W 19 17 6 9 66.7 0 0 - 5 6 83.3 2 6 8 1 1 0 0 1 3
+p146
+aVCharles Hayes HOU 03/21/2008 HOU @ GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 3
+p147
+aVRafer Alston HOU 03/21/2008 HOU @ GSW W 40 13 4 15 26.7 1 6 16.7 4 4 100.0 0 2 2 6 0 0 4 5 4
+p148
+aVBobby Jackson HOU 03/21/2008 HOU @ GSW W 24 16 5 10 50.0 5 8 62.5 1 2 50.0 0 1 1 0 0 0 0 2 6
+p149
+aVTracy McGrady HOU 03/21/2008 HOU @ GSW W 40 26 11 23 47.8 2 3 66.7 2 3 66.7 1 7 8 8 1 0 5 4 1
+p150
+aVShane Battier HOU 03/21/2008 HOU @ GSW W 38 17 6 7 85.7 0 1 0.0 5 6 83.3 2 3 5 3 2 1 0 1 0
+p151
+aVLuther Head HOU 03/21/2008 HOU @ GSW W 32 11 4 11 36.4 0 4 0.0 3 3 100.0 2 4 6 4 0 0 2 3 -2
+p152
+aVLuis Scola HOU 03/21/2008 HOU @ GSW W 35 9 4 9 44.4 0 0 - 1 2 50.0 3 7 10 0 1 1 2 2 -8
+p153
+aVSteve Novak HOU 03/19/2008 HOU @ NOH L 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -7
+p154
+aVCharles Hayes HOU 03/19/2008 HOU @ NOH L 23 0 0 2 0.0 0 0 - 0 2 0.0 1 4 5 0 1 0 2 3 -23
+p155
+aVDikembe Mutombo HOU 03/19/2008 HOU @ NOH L 34 10 4 6 66.7 0 0 - 2 4 50.0 2 11 13 0 0 2 0 2 3
+p156
+aVLuther Head HOU 03/19/2008 HOU @ NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p157
+aVShane Battier HOU 03/19/2008 HOU @ NOH L 40 14 5 11 45.5 2 8 25.0 2 2 100.0 3 3 6 0 1 0 2 2 -8
+p158
+aVBobby Jackson HOU 03/19/2008 HOU @ NOH L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 1 -6
+p159
+aVAaron Brooks HOU 03/19/2008 HOU @ NOH L 2 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -5
+p160
+aVTracy McGrady HOU 03/19/2008 HOU @ NOH L 42 15 6 21 28.6 0 3 0.0 3 5 60.0 2 3 5 3 2 0 4 1 -22
+p161
+aVMichael Harris HOU 03/19/2008 HOU @ NOH L 12 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 2 0 -7
+p162
+aVRafer Alston HOU 03/19/2008 HOU @ NOH L 33 10 4 13 30.8 0 4 0.0 2 2 100.0 0 7 7 4 2 0 3 3 -10
+p163
+aVLuis Scola HOU 03/19/2008 HOU @ NOH L 36 14 7 18 38.9 0 0 - 0 0 - 3 6 9 1 0 0 1 6 -15
+p164
+aVDikembe Mutombo HOU 03/18/2008 HOU vs. BOS L 16 2 1 3 33.3 0 0 - 0 0 - 4 2 6 0 0 1 2 1 -12
+p165
+aVLuis Scola HOU 03/18/2008 HOU vs. BOS L 34 15 6 12 50.0 0 0 - 3 6 50.0 4 4 8 0 1 0 3 4 -22
+p166
+aVMichael Harris HOU 03/18/2008 HOU vs. BOS L 25 12 6 10 60.0 0 1 0.0 0 2 0.0 2 4 6 0 1 2 1 5 -5
+p167
+aVLuther Head HOU 03/18/2008 HOU vs. BOS L 16 2 1 6 16.7 0 4 0.0 0 0 - 1 0 1 4 0 0 0 0 3
+p168
+aVCharles Hayes HOU 03/18/2008 HOU vs. BOS L 20 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 3 0 1 3 -1
+p169
+aVRafer Alston HOU 03/18/2008 HOU vs. BOS L 31 12 4 13 30.8 2 7 28.6 2 2 100.0 0 1 1 1 2 1 4 2 -23
+p170
+aVAaron Brooks HOU 03/18/2008 HOU vs. BOS L 5 10 2 2 100.0 2 2 100.0 4 4 100.0 0 0 0 0 0 0 1 1 -1
+p171
+aVTracy McGrady HOU 03/18/2008 HOU vs. BOS L 35 8 4 11 36.4 0 1 0.0 0 2 0.0 0 7 7 8 0 0 1 0 -27
+p172
+aVSteve Novak HOU 03/18/2008 HOU vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p173
+aVShane Battier HOU 03/18/2008 HOU vs. BOS L 38 5 1 4 25.0 1 3 33.3 2 2 100.0 0 2 2 1 1 1 2 1 -15
+p174
+aVBobby Jackson HOU 03/18/2008 HOU vs. BOS L 13 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 4
+p175
+aVBobby Jackson HOU 03/16/2008 HOU vs. LAL W 20 19 7 9 77.8 2 4 50.0 3 3 100.0 1 5 6 1 0 0 0 1 15
+p176
+aVCharles Hayes HOU 03/16/2008 HOU vs. LAL W 27 3 1 4 25.0 0 0 - 1 1 100.0 0 6 6 1 2 0 1 5 7
+p177
+aVDikembe Mutombo HOU 03/16/2008 HOU vs. LAL W 16 0 0 1 0.0 0 0 - 0 0 - 2 7 9 0 0 1 0 1 -9
+p178
+aVShane Battier HOU 03/16/2008 HOU vs. LAL W 46 14 5 12 41.7 2 7 28.6 2 2 100.0 1 2 3 2 0 1 0 2 10
+p179
+aVLuther Head HOU 03/16/2008 HOU vs. LAL W 13 7 2 4 50.0 0 0 - 3 4 75.0 0 0 0 1 0 0 1 1 11
+p180
+aVRafer Alston HOU 03/16/2008 HOU vs. LAL W 40 31 10 22 45.5 8 11 72.7 3 4 75.0 1 1 2 5 2 1 4 5 4
+p181
+aVLuis Scola HOU 03/16/2008 HOU vs. LAL W 28 13 3 9 33.3 0 0 - 7 9 77.8 6 5 11 0 0 0 0 5 5
+p182
+aVMichael Harris HOU 03/16/2008 HOU vs. LAL W 10 6 3 6 50.0 0 0 - 0 0 - 4 2 6 0 0 0 1 0 11
+p183
+aVTracy McGrady HOU 03/16/2008 HOU vs. LAL W 39 11 4 16 25.0 0 4 0.0 3 6 50.0 0 3 3 6 0 0 2 1 6
+p184
+aVLuther Head HOU 03/14/2008 HOU vs. CHA W 11 2 1 7 14.3 0 6 0.0 0 1 0.0 1 3 4 2 0 0 1 1 -7
+p185
+aVSteve Novak HOU 03/14/2008 HOU vs. CHA W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p186
+aVRafer Alston HOU 03/14/2008 HOU vs. CHA W 39 17 6 19 31.6 2 10 20.0 3 4 75.0 0 7 7 4 1 1 1 1 13
+p187
+aVCharles Hayes HOU 03/14/2008 HOU vs. CHA W 11 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 1 0 2 5 -12
+p188
+aVLuis Scola HOU 03/14/2008 HOU vs. CHA W 27 13 6 11 54.5 0 0 - 1 1 100.0 2 4 6 2 1 1 2 1 13
+p189
+aVTracy McGrady HOU 03/14/2008 HOU vs. CHA W 48 30 12 25 48.0 1 5 20.0 5 8 62.5 0 7 7 4 1 0 3 1 9
+p190
+aVBobby Jackson HOU 03/14/2008 HOU vs. CHA W 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -4
+p191
+aVMichael Harris HOU 03/14/2008 HOU vs. CHA W 15 12 5 8 62.5 0 0 - 2 3 66.7 3 1 4 0 1 0 0 1 12
+p192
+aVDikembe Mutombo HOU 03/14/2008 HOU vs. CHA W 31 1 0 0 - 0 0 - 1 2 50.0 1 6 7 0 0 4 2 3 19
+p193
+aVShane Battier HOU 03/14/2008 HOU vs. CHA W 44 12 5 14 35.7 2 7 28.6 0 2 0.0 4 5 9 4 1 0 0 1 4
+p194
+aVLuther Head HOU 03/12/2008 HOU @ ATL W 19 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 3 4
+p195
+aVDikembe Mutombo HOU 03/12/2008 HOU @ ATL W 15 2 0 0 - 0 0 - 2 4 50.0 3 3 6 0 0 0 0 0 -5
+p196
+aVSteve Novak HOU 03/12/2008 HOU @ ATL W 8 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 1 0 0 1 3
+p197
+aVBobby Jackson HOU 03/12/2008 HOU @ ATL W 10 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 1 1 0 1 0 7
+p198
+aVLuis Scola HOU 03/12/2008 HOU @ ATL W 25 7 2 9 22.2 0 0 - 3 4 75.0 6 6 12 0 0 0 0 3 13
+p199
+aVTracy McGrady HOU 03/12/2008 HOU @ ATL W 41 28 10 28 35.7 1 5 20.0 7 12 58.3 3 6 9 2 2 0 1 2 1
+p200
+aVRafer Alston HOU 03/12/2008 HOU @ ATL W 38 8 3 18 16.7 2 8 25.0 0 0 - 1 3 4 7 2 0 1 2 1
+p201
+aVCharles Hayes HOU 03/12/2008 HOU @ ATL W 33 8 4 6 66.7 0 0 - 0 0 - 6 6 12 0 1 0 3 4 12
+p202
+aVShane Battier HOU 03/12/2008 HOU @ ATL W 44 15 4 11 36.4 2 9 22.2 5 6 83.3 2 3 5 2 0 2 2 2 6
+p203
+aVMichael Harris HOU 03/12/2008 HOU @ ATL W 7 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -2
+p204
+aVMichael Harris HOU 03/10/2008 HOU vs. NJN W 20 6 2 7 28.6 0 0 - 2 4 50.0 2 5 7 1 1 0 1 3 8
+p205
+aVShane Battier HOU 03/10/2008 HOU vs. NJN W 35 9 3 8 37.5 3 6 50.0 0 1 0.0 0 4 4 2 2 1 0 1 24
+p206
+aVLuther Head HOU 03/10/2008 HOU vs. NJN W 14 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 3 2 0 1 3 -2
+p207
+aVJustin Williams HOU 03/10/2008 HOU vs. NJN W 6 3 1 3 33.3 0 0 - 1 4 25.0 1 0 1 0 0 0 1 3 -8
+p208
+aVSteve Novak HOU 03/10/2008 HOU vs. NJN W 18 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 0 0 0 0 2 0
+p209
+aVCharles Hayes HOU 03/10/2008 HOU vs. NJN W 18 0 0 0 - 0 0 - 0 0 - 2 8 10 3 0 2 1 6 22
+p210
+aVAaron Brooks HOU 03/10/2008 HOU vs. NJN W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 2 1 -6
+p211
+aVDikembe Mutombo HOU 03/10/2008 HOU vs. NJN W 18 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 5 0 1 0
+p212
+aVRafer Alston HOU 03/10/2008 HOU vs. NJN W 26 12 5 11 45.5 1 2 50.0 1 2 50.0 0 4 4 3 0 1 2 2 22
+p213
+aVBobby Jackson HOU 03/10/2008 HOU vs. NJN W 16 5 2 6 33.3 0 3 0.0 1 2 50.0 1 2 3 3 1 0 0 0 2
+p214
+aVTracy McGrady HOU 03/10/2008 HOU vs. NJN W 29 19 6 14 42.9 1 3 33.3 6 7 85.7 0 4 4 4 1 0 2 1 14
+p215
+aVLuis Scola HOU 03/10/2008 HOU vs. NJN W 33 12 5 11 45.5 0 0 - 2 6 33.3 0 5 5 1 1 0 3 3 14
+p216
+aVCharles Hayes HOU 03/08/2008 HOU vs. NOH W 30 6 3 3 100.0 0 0 - 0 0 - 0 9 9 3 3 0 0 4 12
+p217
+aVBobby Jackson HOU 03/08/2008 HOU vs. NOH W 17 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 5 2 1 3 2 -1
+p218
+aVShane Battier HOU 03/08/2008 HOU vs. NOH W 40 10 4 9 44.4 2 6 33.3 0 0 - 4 3 7 3 0 0 1 1 1
+p219
+aVTracy McGrady HOU 03/08/2008 HOU vs. NOH W 48 41 17 27 63.0 3 8 37.5 4 4 100.0 0 6 6 9 0 2 3 0 10
+p220
+aVDikembe Mutombo HOU 03/08/2008 HOU vs. NOH W 18 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 0 1 1 1 -2
+p221
+aVRafer Alston HOU 03/08/2008 HOU vs. NOH W 31 20 7 13 53.8 4 8 50.0 2 2 100.0 0 3 3 2 2 1 2 5 11
+p222
+aVLuther Head HOU 03/08/2008 HOU vs. NOH W 22 9 3 9 33.3 3 7 42.9 0 0 - 0 2 2 4 0 1 0 2 13
+p223
+aVSteve Novak HOU 03/08/2008 HOU vs. NOH W 9 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 11
+p224
+aVLuis Scola HOU 03/08/2008 HOU vs. NOH W 25 6 2 7 28.6 0 0 - 2 2 100.0 3 5 8 1 1 0 1 0 -5
+p225
+aVLuis Scola HOU 03/06/2008 HOU @ DAL W 33 12 5 10 50.0 0 0 - 2 2 100.0 3 6 9 3 2 2 1 3 11
+p226
+aVBobby Jackson HOU 03/06/2008 HOU @ DAL W 18 10 4 4 100.0 2 2 100.0 0 0 - 0 5 5 1 0 0 3 2 4
+p227
+aVSteve Novak HOU 03/06/2008 HOU @ DAL W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p228
+aVDikembe Mutombo HOU 03/06/2008 HOU @ DAL W 19 4 2 3 66.7 0 0 - 0 0 - 3 4 7 0 1 0 0 2 7
+p229
+aVCharles Hayes HOU 03/06/2008 HOU @ DAL W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -2
+p230
+aVCarl Landry HOU 03/06/2008 HOU @ DAL W 24 17 6 9 66.7 0 0 - 5 8 62.5 0 2 2 0 0 0 0 4 16
+p231
+aVShane Battier HOU 03/06/2008 HOU @ DAL W 41 9 3 7 42.9 2 3 66.7 1 2 50.0 0 4 4 3 0 1 0 2 12
+p232
+aVAaron Brooks HOU 03/06/2008 HOU @ DAL W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p233
+aVTracy McGrady HOU 03/06/2008 HOU @ DAL W 41 31 13 23 56.5 1 3 33.3 4 5 80.0 1 2 3 9 0 0 1 0 24
+p234
+aVRafer Alston HOU 03/06/2008 HOU @ DAL W 36 24 10 21 47.6 2 7 28.6 2 2 100.0 1 4 5 4 2 0 0 2 11
+p235
+aVBobby Jones HOU 03/06/2008 HOU @ DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p236
+aVLuther Head HOU 03/06/2008 HOU @ DAL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 1 -2
+p237
+aVCarl Landry HOU 03/05/2008 HOU vs. IND W 20 13 5 10 50.0 0 0 - 3 4 75.0 3 4 7 0 1 0 0 2 4
+p238
+aVBobby Jackson HOU 03/05/2008 HOU vs. IND W 18 5 2 11 18.2 1 7 14.3 0 0 - 0 4 4 1 0 1 1 0 17
+p239
+aVShane Battier HOU 03/05/2008 HOU vs. IND W 32 7 2 8 25.0 1 6 16.7 2 2 100.0 2 1 3 3 1 1 1 0 16
+p240
+aVSteve Novak HOU 03/05/2008 HOU vs. IND W 8 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p241
+aVBobby Jones HOU 03/05/2008 HOU vs. IND W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p242
+aVDikembe Mutombo HOU 03/05/2008 HOU vs. IND W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p243
+aVLuther Head HOU 03/05/2008 HOU vs. IND W 26 14 5 5 100.0 4 4 100.0 0 0 - 0 2 2 4 3 0 0 0 14
+p244
+aVRafer Alston HOU 03/05/2008 HOU vs. IND W 31 21 9 15 60.0 3 6 50.0 0 0 - 0 2 2 7 2 0 1 2 8
+p245
+aVAaron Brooks HOU 03/05/2008 HOU vs. IND W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 5
+p246
+aVLuis Scola HOU 03/05/2008 HOU vs. IND W 22 13 5 8 62.5 0 0 - 3 4 75.0 4 3 7 3 0 1 2 4 8
+p247
+aVCharles Hayes HOU 03/05/2008 HOU vs. IND W 29 9 4 8 50.0 0 0 - 1 1 100.0 1 10 11 5 1 2 1 4 17
+p248
+aVTracy McGrady HOU 03/05/2008 HOU vs. IND W 35 25 10 22 45.5 4 9 44.4 1 2 50.0 1 5 6 5 0 0 3 1 15
+p249
+aVCarl Landry HOU 03/02/2008 HOU vs. DEN W 24 12 5 8 62.5 0 1 0.0 2 2 100.0 3 2 5 1 0 0 0 3 10
+p250
+aVShane Battier HOU 03/02/2008 HOU vs. DEN W 42 20 7 15 46.7 5 10 50.0 1 1 100.0 1 4 5 3 1 2 1 3 17
+p251
+aVLuther Head HOU 03/02/2008 HOU vs. DEN W 16 9 3 5 60.0 2 3 66.7 1 1 100.0 0 1 1 1 1 0 0 1 1
+p252
+aVLuis Scola HOU 03/02/2008 HOU vs. DEN W 34 18 9 18 50.0 0 0 - 0 0 - 3 11 14 2 0 0 5 3 14
+p253
+aVCharles Hayes HOU 03/02/2008 HOU vs. DEN W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -1
+p254
+aVSteve Novak HOU 03/02/2008 HOU vs. DEN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p255
+aVAaron Brooks HOU 03/02/2008 HOU vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p256
+aVBobby Jones HOU 03/02/2008 HOU vs. DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p257
+aVBobby Jackson HOU 03/02/2008 HOU vs. DEN W 14 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 2 3
+p258
+aVRafer Alston HOU 03/02/2008 HOU vs. DEN W 32 16 7 15 46.7 2 4 50.0 0 0 - 0 3 3 8 2 0 1 2 14
+p259
+aVDikembe Mutombo HOU 03/02/2008 HOU vs. DEN W 24 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 3 0 3 4
+p260
+aVTracy McGrady HOU 03/02/2008 HOU vs. DEN W 41 22 10 21 47.6 1 6 16.7 1 2 50.0 2 4 6 6 3 0 6 0 17
+p261
+aVLuis Scola HOU 02/29/2008 HOU vs. MEM W 28 15 6 8 75.0 0 0 - 3 4 75.0 1 4 5 1 5 0 2 2 27
+p262
+aVBobby Jones HOU 02/29/2008 HOU vs. MEM W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 1
+p263
+aVCharles Hayes HOU 02/29/2008 HOU vs. MEM W 17 6 2 2 100.0 0 0 - 2 2 100.0 0 5 5 1 1 2 1 3 11
+p264
+aVCarl Landry HOU 02/29/2008 HOU vs. MEM W 16 15 5 5 100.0 0 0 - 5 5 100.0 2 1 3 0 1 0 2 0 -10
+p265
+aVDikembe Mutombo HOU 02/29/2008 HOU vs. MEM W 18 4 1 4 25.0 0 0 - 2 2 100.0 1 12 13 0 0 4 0 4 17
+p266
+aVTracy McGrady HOU 02/29/2008 HOU vs. MEM W 29 25 10 18 55.6 2 5 40.0 3 4 75.0 1 5 6 6 1 2 2 2 24
+p267
+aVShane Battier HOU 02/29/2008 HOU vs. MEM W 36 13 5 8 62.5 1 2 50.0 2 3 66.7 3 4 7 2 1 4 2 1 15
+p268
+aVBobby Jackson HOU 02/29/2008 HOU vs. MEM W 18 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 4 3 -5
+p269
+aVRafer Alston HOU 02/29/2008 HOU vs. MEM W 38 11 4 13 30.8 3 8 37.5 0 0 - 1 4 5 8 2 1 3 4 21
+p270
+aVSteve Novak HOU 02/29/2008 HOU vs. MEM W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 1
+p271
+aVAaron Brooks HOU 02/29/2008 HOU vs. MEM W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 1
+p272
+aVLuther Head HOU 02/29/2008 HOU vs. MEM W 26 15 3 11 27.3 2 7 28.6 7 8 87.5 0 4 4 2 1 0 0 1 2
+p273
+aVSteve Novak HOU 02/26/2008 HOU vs. WAS W 7 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 1
+p274
+aVCarl Landry HOU 02/26/2008 HOU vs. WAS W 21 12 5 6 83.3 0 0 - 2 4 50.0 4 4 8 1 1 0 0 3 19
+p275
+aVTracy McGrady HOU 02/26/2008 HOU vs. WAS W 35 11 4 15 26.7 1 4 25.0 2 4 50.0 0 6 6 2 1 1 2 2 13
+p276
+aVBobby Jackson HOU 02/26/2008 HOU vs. WAS W 20 0 0 7 0.0 0 3 0.0 0 0 - 0 4 4 7 0 0 0 2 19
+p277
+aVLuis Scola HOU 02/26/2008 HOU vs. WAS W 23 14 7 7 100.0 0 0 - 0 0 - 0 2 2 1 0 0 3 3 1
+p278
+aVShane Battier HOU 02/26/2008 HOU vs. WAS W 33 9 3 7 42.9 1 4 25.0 2 2 100.0 2 7 9 4 0 3 2 1 17
+p279
+aVDikembe Mutombo HOU 02/26/2008 HOU vs. WAS W 23 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 1 4 0 0 3
+p280
+aVLuther Head HOU 02/26/2008 HOU vs. WAS W 26 18 7 16 43.8 3 9 33.3 1 2 50.0 1 4 5 4 0 0 3 2 24
+p281
+aVRafer Alston HOU 02/26/2008 HOU vs. WAS W 28 13 6 11 54.5 1 3 33.3 0 0 - 0 5 5 5 0 0 0 2 4
+p282
+aVCharles Hayes HOU 02/26/2008 HOU vs. WAS W 15 4 2 2 100.0 0 0 - 0 0 - 1 5 6 1 0 0 0 1 19
+p283
+aVGerald Green HOU 02/26/2008 HOU vs. WAS W 4 6 3 3 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 3
+p284
+aVAaron Brooks HOU 02/26/2008 HOU vs. WAS W 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p285
+aVCharles Hayes HOU 02/24/2008 HOU vs. CHI W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p286
+aVBobby Jackson HOU 02/24/2008 HOU vs. CHI W 19 14 5 8 62.5 2 3 66.7 2 3 66.7 0 0 0 2 0 0 2 3 21
+p287
+aVShane Battier HOU 02/24/2008 HOU vs. CHI W 41 11 4 9 44.4 3 5 60.0 0 1 0.0 5 5 10 3 1 1 0 2 11
+p288
+aVRafer Alston HOU 02/24/2008 HOU vs. CHI W 30 13 5 10 50.0 3 8 37.5 0 0 - 0 5 5 4 4 0 6 0 3
+p289
+aVYao Ming HOU 02/24/2008 HOU vs. CHI W 36 12 5 12 41.7 0 0 - 2 2 100.0 0 6 6 2 0 1 4 3 10
+p290
+aVTracy McGrady HOU 02/24/2008 HOU vs. CHI W 35 24 7 13 53.8 2 3 66.7 8 12 66.7 0 4 4 8 2 0 1 1 13
+p291
+aVLuther Head HOU 02/24/2008 HOU vs. CHI W 21 11 4 7 57.1 3 4 75.0 0 1 0.0 0 4 4 4 1 0 1 0 7
+p292
+aVCarl Landry HOU 02/24/2008 HOU vs. CHI W 17 6 2 4 50.0 0 0 - 2 6 33.3 2 3 5 1 0 1 0 3 10
+p293
+aVAaron Brooks HOU 02/24/2008 HOU vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p294
+aVLuis Scola HOU 02/24/2008 HOU vs. CHI W 34 17 7 11 63.6 0 0 - 3 6 50.0 1 3 4 3 0 0 2 5 5
+p295
+aVSteve Novak HOU 02/24/2008 HOU vs. CHI W 2 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p296
+aVLuis Scola HOU 02/22/2008 HOU @ NOH W 24 8 3 7 42.9 0 0 - 2 2 100.0 1 8 9 0 0 0 0 5 2
+p297
+aVRafer Alston HOU 02/22/2008 HOU @ NOH W 42 9 4 14 28.6 1 7 14.3 0 0 - 0 4 4 11 1 0 3 3 17
+p298
+aVShane Battier HOU 02/22/2008 HOU @ NOH W 42 5 2 4 50.0 1 3 33.3 0 0 - 1 5 6 2 0 0 0 2 17
+p299
+aVAaron Brooks HOU 02/22/2008 HOU @ NOH W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 3
+p300
+aVTracy McGrady HOU 02/22/2008 HOU @ NOH W 41 34 14 26 53.8 3 6 50.0 3 5 60.0 1 2 3 6 0 0 2 2 12
+p301
+aVYao Ming HOU 02/22/2008 HOU @ NOH W 35 28 12 21 57.1 0 0 - 4 5 80.0 5 9 14 2 0 1 2 3 30
+p302
+aVCarl Landry HOU 02/22/2008 HOU @ NOH W 28 7 3 5 60.0 0 0 - 1 1 100.0 4 7 11 0 1 0 2 2 10
+p303
+aVSteve Novak HOU 02/22/2008 HOU @ NOH W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p304
+aVCharles Hayes HOU 02/22/2008 HOU @ NOH W 9 2 1 2 50.0 0 0 - 0 0 - 3 3 6 0 0 0 1 1 -2
+p305
+aVLuther Head HOU 02/22/2008 HOU @ NOH W 11 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 10
+p306
+aVYao Ming HOU 02/21/2008 HOU vs. MIA W 38 21 10 11 90.9 0 0 - 1 2 50.0 2 7 9 0 0 1 1 4 8
+p307
+aVShane Battier HOU 02/21/2008 HOU vs. MIA W 37 12 4 6 66.7 2 3 66.7 2 2 100.0 1 4 5 4 0 0 1 3 14
+p308
+aVLuther Head HOU 02/21/2008 HOU vs. MIA W 16 7 2 5 40.0 2 5 40.0 1 2 50.0 0 1 1 1 1 0 2 2 -3
+p309
+aVAaron Brooks HOU 02/21/2008 HOU vs. MIA W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 -5
+p310
+aVSteve Novak HOU 02/21/2008 HOU vs. MIA W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 -7
+p311
+aVTracy McGrady HOU 02/21/2008 HOU vs. MIA W 39 23 8 19 42.1 1 4 25.0 6 7 85.7 1 2 3 10 2 0 1 0 23
+p312
+aVRafer Alston HOU 02/21/2008 HOU vs. MIA W 37 16 6 14 42.9 3 7 42.9 1 2 50.0 0 6 6 11 2 0 3 2 14
+p313
+aVCarl Landry HOU 02/21/2008 HOU vs. MIA W 25 19 7 9 77.8 0 0 - 5 6 83.3 4 1 5 0 0 0 0 5 5
+p314
+aVLuis Scola HOU 02/21/2008 HOU vs. MIA W 33 11 4 10 40.0 0 1 0.0 3 6 50.0 2 8 10 3 2 0 2 4 11
+p315
+aVBonzi Wells HOU 02/19/2008 HOU @ CLE W 19 7 3 5 60.0 0 2 0.0 1 4 25.0 0 6 6 0 1 1 1 2 14
+p316
+aVLuther Head HOU 02/19/2008 HOU @ CLE W 11 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 2 0 0 0 0 3
+p317
+aVSteve Novak HOU 02/19/2008 HOU @ CLE W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p318
+aVTracy McGrady HOU 02/19/2008 HOU @ CLE W 41 17 6 21 28.6 0 4 0.0 5 8 62.5 1 1 2 8 1 2 3 1 4
+p319
+aVRafer Alston HOU 02/19/2008 HOU @ CLE W 39 22 8 15 53.3 6 10 60.0 0 2 0.0 0 5 5 6 1 1 2 3 2
+p320
+aVShane Battier HOU 02/19/2008 HOU @ CLE W 32 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 2 1 2 2 4 -3
+p321
+aVAaron Brooks HOU 02/19/2008 HOU @ CLE W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 4
+p322
+aVCarl Landry HOU 02/19/2008 HOU @ CLE W 20 8 3 4 75.0 0 0 - 2 3 66.7 0 6 6 0 1 1 1 1 10
+p323
+aVYao Ming HOU 02/19/2008 HOU @ CLE W 37 16 3 17 17.6 0 0 - 10 10 100.0 4 10 14 3 1 0 2 4 1
+p324
+aVLuis Scola HOU 02/19/2008 HOU @ CLE W 30 15 6 9 66.7 0 0 - 3 3 100.0 2 6 8 1 1 1 1 3 3
+p325
+aVBonzi Wells HOU 02/13/2008 HOU vs. SAC W 19 0 0 4 0.0 0 0 - 0 2 0.0 0 3 3 4 1 0 3 2 -8
+p326
+aVShane Battier HOU 02/13/2008 HOU vs. SAC W 42 15 6 15 40.0 3 8 37.5 0 0 - 2 1 3 3 0 1 0 3 6
+p327
+aVCharles Hayes HOU 02/13/2008 HOU vs. SAC W 19 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 1 0 2 18
+p328
+aVCarl Landry HOU 02/13/2008 HOU vs. SAC W 13 2 1 6 16.7 0 0 - 0 0 - 6 1 7 0 2 0 2 2 6
+p329
+aVTracy McGrady HOU 02/13/2008 HOU vs. SAC W 41 10 3 12 25.0 1 5 20.0 3 4 75.0 0 6 6 5 3 0 3 2 -2
+p330
+aVLuis Scola HOU 02/13/2008 HOU vs. SAC W 11 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 3 -5
+p331
+aVSteve Novak HOU 02/13/2008 HOU vs. SAC W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p332
+aVAaron Brooks HOU 02/13/2008 HOU vs. SAC W 7 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 1 0 1 0 1 1
+p333
+aVRafer Alston HOU 02/13/2008 HOU vs. SAC W 41 23 9 20 45.0 3 7 42.9 2 3 66.7 0 1 1 7 1 0 3 1 1
+p334
+aVYao Ming HOU 02/13/2008 HOU vs. SAC W 39 25 9 15 60.0 0 0 - 7 8 87.5 4 10 14 1 0 3 5 5 0
+p335
+aVMike James HOU 02/11/2008 HOU vs. POR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p336
+aVSteve Novak HOU 02/11/2008 HOU vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p337
+aVYao Ming HOU 02/11/2008 HOU vs. POR W 37 25 7 11 63.6 0 0 - 11 13 84.6 1 6 7 0 0 0 5 2 18
+p338
+aVLuis Scola HOU 02/11/2008 HOU vs. POR W 32 11 4 8 50.0 0 0 - 3 4 75.0 2 5 7 2 1 0 0 4 10
+p339
+aVRafer Alston HOU 02/11/2008 HOU vs. POR W 39 17 6 12 50.0 3 5 60.0 2 2 100.0 1 4 5 7 2 0 3 0 14
+p340
+aVCarl Landry HOU 02/11/2008 HOU vs. POR W 14 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 0
+p341
+aVShane Battier HOU 02/11/2008 HOU vs. POR W 36 11 4 7 57.1 3 6 50.0 0 0 - 0 4 4 1 0 1 1 1 9
+p342
+aVCharles Hayes HOU 02/11/2008 HOU vs. POR W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p343
+aVTracy McGrady HOU 02/11/2008 HOU vs. POR W 40 12 6 15 40.0 0 4 0.0 0 0 - 1 3 4 6 2 1 1 1 17
+p344
+aVBonzi Wells HOU 02/11/2008 HOU vs. POR W 22 9 2 5 40.0 0 0 - 5 5 100.0 0 6 6 2 0 0 1 5 11
+p345
+aVAaron Brooks HOU 02/11/2008 HOU vs. POR W 9 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 0 0 -2
+p346
+aVTracy McGrady HOU 02/09/2008 HOU vs. ATL W 30 15 5 14 35.7 2 7 28.6 3 4 75.0 0 4 4 8 0 0 2 2 28
+p347
+aVYao Ming HOU 02/09/2008 HOU vs. ATL W 31 28 12 17 70.6 0 0 - 4 4 100.0 1 8 9 3 1 2 3 3 20
+p348
+aVRafer Alston HOU 02/09/2008 HOU vs. ATL W 28 10 3 6 50.0 2 4 50.0 2 2 100.0 2 1 3 5 1 1 1 2 24
+p349
+aVCharles Hayes HOU 02/09/2008 HOU vs. ATL W 20 4 2 2 100.0 0 0 - 0 0 - 1 3 4 4 0 1 0 3 1
+p350
+aVMike James HOU 02/09/2008 HOU vs. ATL W 8 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 2 1 -11
+p351
+aVBonzi Wells HOU 02/09/2008 HOU vs. ATL W 17 11 3 4 75.0 0 0 - 5 6 83.3 1 2 3 6 1 0 1 1 12
+p352
+aVShane Battier HOU 02/09/2008 HOU vs. ATL W 29 4 2 7 28.6 0 2 0.0 0 0 - 3 2 5 2 0 1 0 1 23
+p353
+aVAaron Brooks HOU 02/09/2008 HOU vs. ATL W 20 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 3 0 0 1 4 -5
+p354
+aVLuis Scola HOU 02/09/2008 HOU vs. ATL W 25 14 7 9 77.8 0 0 - 0 2 0.0 1 8 9 0 1 0 2 1 15
+p355
+aVSteve Novak HOU 02/09/2008 HOU vs. ATL W 12 9 4 6 66.7 1 3 33.3 0 0 - 1 0 1 1 0 1 1 2 -14
+p356
+aVCarl Landry HOU 02/09/2008 HOU vs. ATL W 20 6 3 7 42.9 0 0 - 0 1 0.0 3 1 4 0 0 0 1 3 2
+p357
+aVRafer Alston HOU 02/07/2008 HOU vs. CLE W 41 17 6 14 42.9 3 7 42.9 2 2 100.0 0 5 5 9 0 1 1 1 14
+p358
+aVTracy McGrady HOU 02/07/2008 HOU vs. CLE W 32 8 3 11 27.3 1 5 20.0 1 2 50.0 0 7 7 4 0 0 2 0 12
+p359
+aVYao Ming HOU 02/07/2008 HOU vs. CLE W 39 22 9 19 47.4 0 0 - 4 4 100.0 3 9 12 4 0 1 2 0 13
+p360
+aVShane Battier HOU 02/07/2008 HOU vs. CLE W 40 15 6 11 54.5 3 7 42.9 0 0 - 2 6 8 1 0 2 1 4 18
+p361
+aVCharles Hayes HOU 02/07/2008 HOU vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p362
+aVLuis Scola HOU 02/07/2008 HOU vs. CLE W 27 10 5 9 55.6 0 0 - 0 0 - 3 4 7 4 0 0 2 3 15
+p363
+aVCarl Landry HOU 02/07/2008 HOU vs. CLE W 13 4 1 3 33.3 0 0 - 2 2 100.0 4 1 5 2 2 0 0 1 3
+p364
+aVAaron Brooks HOU 02/07/2008 HOU vs. CLE W 16 3 1 8 12.5 1 8 12.5 0 0 - 0 1 1 1 0 0 0 0 -4
+p365
+aVBonzi Wells HOU 02/07/2008 HOU vs. CLE W 30 13 6 10 60.0 0 0 - 1 5 20.0 5 5 10 4 1 1 1 2 6
+p366
+aVCharles Hayes HOU 02/04/2008 HOU @ MIN W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 0 1 0 3
+p367
+aVRafer Alston HOU 02/04/2008 HOU @ MIN W 43 12 5 11 45.5 2 6 33.3 0 0 - 0 6 6 8 2 0 2 0 8
+p368
+aVBonzi Wells HOU 02/04/2008 HOU @ MIN W 20 7 2 4 50.0 1 1 100.0 2 3 66.7 0 3 3 1 3 1 2 3 10
+p369
+aVYao Ming HOU 02/04/2008 HOU @ MIN W 36 16 6 11 54.5 0 0 - 4 6 66.7 2 3 5 2 2 0 2 0 3
+p370
+aVCarl Landry HOU 02/04/2008 HOU @ MIN W 26 13 6 10 60.0 0 0 - 1 1 100.0 3 4 7 2 1 0 0 3 9
+p371
+aVAaron Brooks HOU 02/04/2008 HOU @ MIN W 6 2 0 4 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 1 1 0
+p372
+aVLuis Scola HOU 02/04/2008 HOU @ MIN W 21 11 5 11 45.5 0 0 - 1 3 33.3 4 4 8 1 0 0 3 1 -5
+p373
+aVShane Battier HOU 02/04/2008 HOU @ MIN W 34 5 1 4 25.0 1 4 25.0 2 2 100.0 0 6 6 2 1 1 0 3 -5
+p374
+aVTracy McGrady HOU 02/04/2008 HOU @ MIN W 43 26 10 21 47.6 4 6 66.7 2 2 100.0 1 5 6 7 0 1 7 2 7
+p375
+aVShane Battier HOU 02/02/2008 HOU @ MIL W 37 9 3 5 60.0 2 3 66.7 1 2 50.0 0 6 6 1 1 2 1 0 12
+p376
+aVLuis Scola HOU 02/02/2008 HOU @ MIL W 20 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 0 0 0 -2
+p377
+aVCharles Hayes HOU 02/02/2008 HOU @ MIL W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p378
+aVAaron Brooks HOU 02/02/2008 HOU @ MIL W 15 5 2 6 33.3 1 5 20.0 0 0 - 1 0 1 1 1 0 2 1 1
+p379
+aVCarl Landry HOU 02/02/2008 HOU @ MIL W 17 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -3
+p380
+aVRafer Alston HOU 02/02/2008 HOU @ MIL W 33 10 4 9 44.4 0 4 0.0 2 4 50.0 0 2 2 9 1 1 1 0 7
+p381
+aVMike James HOU 02/02/2008 HOU @ MIL W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 4
+p382
+aVTracy McGrady HOU 02/02/2008 HOU @ MIL W 42 33 14 27 51.9 2 5 40.0 3 4 75.0 3 8 11 6 1 1 3 2 4
+p383
+aVDikembe Mutombo HOU 02/02/2008 HOU @ MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 4
+p384
+aVYao Ming HOU 02/02/2008 HOU @ MIL W 38 12 5 11 45.5 0 0 - 2 5 40.0 3 9 12 2 0 3 3 4 4
+p385
+aVBonzi Wells HOU 02/02/2008 HOU @ MIL W 21 10 4 7 57.1 0 0 - 2 2 100.0 1 6 7 3 0 1 1 2 5
+p386
+aVLuis Scola HOU 02/01/2008 HOU @ IND W 20 12 6 8 75.0 0 0 - 0 1 0.0 0 2 2 1 1 0 2 3 -12
+p387
+aVTracy McGrady HOU 02/01/2008 HOU @ IND W 38 19 6 19 31.6 3 6 50.0 4 4 100.0 0 5 5 9 3 0 2 2 6
+p388
+aVAaron Brooks HOU 02/01/2008 HOU @ IND W 12 6 3 4 75.0 0 0 - 0 0 - 0 1 1 3 1 0 1 2 -3
+p389
+aVBonzi Wells HOU 02/01/2008 HOU @ IND W 13 5 2 4 50.0 0 0 - 1 1 100.0 0 3 3 0 0 0 0 1 -4
+p390
+aVCarl Landry HOU 02/01/2008 HOU @ IND W 20 22 9 11 81.8 0 0 - 4 8 50.0 0 7 7 0 1 1 2 3 -2
+p391
+aVCharles Hayes HOU 02/01/2008 HOU @ IND W 13 2 1 1 100.0 0 0 - 0 0 - 1 4 5 2 1 0 2 2 8
+p392
+aVRafer Alston HOU 02/01/2008 HOU @ IND W 36 7 3 11 27.3 1 4 25.0 0 0 - 1 3 4 3 1 0 2 2 6
+p393
+aVShane Battier HOU 02/01/2008 HOU @ IND W 42 13 4 7 57.1 3 6 50.0 2 2 100.0 1 3 4 1 2 0 1 2 -3
+p394
+aVYao Ming HOU 02/01/2008 HOU @ IND W 39 17 4 12 33.3 0 0 - 9 12 75.0 5 7 12 4 0 1 0 2 11
+p395
+aVLuther Head HOU 02/01/2008 HOU @ IND W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 7
+p396
+aVSteve Novak HOU 02/01/2008 HOU @ IND W 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p397
+aVLuther Head HOU 01/29/2008 HOU vs. GSW W 43 20 7 16 43.8 1 5 20.0 5 5 100.0 0 2 2 6 1 0 1 3 6
+p398
+aVYao Ming HOU 01/29/2008 HOU vs. GSW W 40 36 11 19 57.9 0 0 - 14 15 93.3 5 14 19 1 0 1 7 2 -2
+p399
+aVCarl Landry HOU 01/29/2008 HOU vs. GSW W 9 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 2 3
+p400
+aVShane Battier HOU 01/29/2008 HOU vs. GSW W 36 8 3 5 60.0 2 4 50.0 0 0 - 0 6 6 4 1 2 1 4 14
+p401
+aVMike James HOU 01/29/2008 HOU vs. GSW W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p402
+aVRafer Alston HOU 01/29/2008 HOU vs. GSW W 43 17 7 19 36.8 2 8 25.0 1 2 50.0 2 6 8 12 2 0 2 3 5
+p403
+aVBonzi Wells HOU 01/29/2008 HOU vs. GSW W 17 3 0 1 0.0 0 0 - 3 4 75.0 0 7 7 1 1 0 0 1 -8
+p404
+aVLuis Scola HOU 01/29/2008 HOU vs. GSW W 25 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 1 1 1 2 3 14
+p405
+aVSteve Novak HOU 01/29/2008 HOU vs. GSW W 12 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 0 0 1 0 1 -3
+p406
+aVAaron Brooks HOU 01/29/2008 HOU vs. GSW W 11 0 0 5 0.0 0 1 0.0 0 2 0.0 1 2 3 1 0 0 0 3 -6
+p407
+aVRafer Alston HOU 01/27/2008 HOU vs. UTA L 33 8 4 13 30.8 0 4 0.0 0 0 - 0 3 3 1 2 0 1 2 -3
+p408
+aVShane Battier HOU 01/27/2008 HOU vs. UTA L 35 15 6 9 66.7 3 5 60.0 0 0 - 0 3 3 1 1 1 0 4 -5
+p409
+aVCharles Hayes HOU 01/27/2008 HOU vs. UTA L 24 2 1 3 33.3 0 0 - 0 0 - 4 2 6 1 0 0 1 4 -9
+p410
+aVTracy McGrady HOU 01/27/2008 HOU vs. UTA L 39 21 10 24 41.7 1 7 14.3 0 3 0.0 0 6 6 9 0 0 4 2 -6
+p411
+aVBonzi Wells HOU 01/27/2008 HOU vs. UTA L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 1 1 1 1 1 -2
+p412
+aVCarl Landry HOU 01/27/2008 HOU vs. UTA L 22 5 1 6 16.7 0 0 - 3 4 75.0 5 3 8 0 0 0 1 3 -10
+p413
+aVLuis Scola HOU 01/27/2008 HOU vs. UTA L 40 18 6 12 50.0 0 0 - 6 12 50.0 2 4 6 3 0 1 2 4 -1
+p414
+aVAaron Brooks HOU 01/27/2008 HOU vs. UTA L 15 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 1 1 0 1 0 -5
+p415
+aVLuther Head HOU 01/27/2008 HOU vs. UTA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 0
+p416
+aVSteve Novak HOU 01/27/2008 HOU vs. UTA L 18 10 4 4 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 0 1
+p417
+aVBonzi Wells HOU 01/25/2008 HOU @ POR W 13 9 3 6 50.0 0 0 - 3 4 75.0 1 3 4 1 0 0 1 1 5
+p418
+aVYao Ming HOU 01/25/2008 HOU @ POR W 28 11 2 8 25.0 0 0 - 7 8 87.5 3 7 10 0 2 0 4 5 2
+p419
+aVLuther Head HOU 01/25/2008 HOU @ POR W 17 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 2 2 0 1 0 8
+p420
+aVLuis Scola HOU 01/25/2008 HOU @ POR W 32 11 4 10 40.0 0 0 - 3 4 75.0 4 8 12 1 3 0 1 3 14
+p421
+aVShane Battier HOU 01/25/2008 HOU @ POR W 35 8 3 9 33.3 2 5 40.0 0 1 0.0 2 1 3 3 2 0 0 2 4
+p422
+aVRafer Alston HOU 01/25/2008 HOU @ POR W 20 9 3 8 37.5 1 3 33.3 2 2 100.0 1 1 2 1 1 0 5 1 1
+p423
+aVCharles Hayes HOU 01/25/2008 HOU @ POR W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p424
+aVCarl Landry HOU 01/25/2008 HOU @ POR W 23 12 5 6 83.3 0 0 - 2 3 66.7 5 3 8 1 0 0 0 5 14
+p425
+aVAaron Brooks HOU 01/25/2008 HOU @ POR W 28 8 2 7 28.6 0 3 0.0 4 4 100.0 0 2 2 4 0 0 3 1 9
+p426
+aVTracy McGrady HOU 01/25/2008 HOU @ POR W 36 15 5 14 35.7 2 6 33.3 3 3 100.0 0 4 4 5 0 1 5 3 2
+p427
+aVRafer Alston HOU 01/23/2008 HOU @ SEA W 39 18 6 18 33.3 5 9 55.6 1 2 50.0 1 2 3 8 0 0 0 4 17
+p428
+aVCharles Hayes HOU 01/23/2008 HOU @ SEA W 15 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 1 2 0 2 3
+p429
+aVBonzi Wells HOU 01/23/2008 HOU @ SEA W 19 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 0
+p430
+aVLuther Head HOU 01/23/2008 HOU @ SEA W 7 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -11
+p431
+aVShane Battier HOU 01/23/2008 HOU @ SEA W 41 11 4 8 50.0 3 7 42.9 0 0 - 1 3 4 3 2 0 0 3 13
+p432
+aVTracy McGrady HOU 01/23/2008 HOU @ SEA W 35 28 13 23 56.5 1 3 33.3 1 6 16.7 1 3 4 5 0 0 1 0 4
+p433
+aVYao Ming HOU 01/23/2008 HOU @ SEA W 42 26 6 13 46.2 0 0 - 14 15 93.3 6 6 12 6 0 1 3 1 12
+p434
+aVSteve Novak HOU 01/23/2008 HOU @ SEA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p435
+aVCarl Landry HOU 01/23/2008 HOU @ SEA W 15 8 4 4 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 0 6 -3
+p436
+aVLuis Scola HOU 01/23/2008 HOU @ SEA W 23 6 3 6 50.0 0 0 - 0 2 0.0 0 5 5 2 1 0 0 3 -11
+p437
+aVAaron Brooks HOU 01/23/2008 HOU @ SEA W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -14
+p438
+aVLuther Head HOU 01/21/2008 HOU vs. SEA W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -3
+p439
+aVLuis Scola HOU 01/21/2008 HOU vs. SEA W 26 0 0 6 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 4 0
+p440
+aVBonzi Wells HOU 01/21/2008 HOU vs. SEA W 28 16 6 12 50.0 0 0 - 4 4 100.0 1 2 3 2 1 1 3 2 -3
+p441
+aVShane Battier HOU 01/21/2008 HOU vs. SEA W 36 7 3 9 33.3 1 5 20.0 0 0 - 4 3 7 2 2 2 0 0 11
+p442
+aVCarl Landry HOU 01/21/2008 HOU vs. SEA W 14 12 3 4 75.0 0 0 - 6 10 60.0 0 2 2 0 1 1 0 1 -4
+p443
+aVYao Ming HOU 01/21/2008 HOU vs. SEA W 39 30 12 19 63.2 0 0 - 6 9 66.7 7 10 17 2 0 3 2 2 17
+p444
+aVRafer Alston HOU 01/21/2008 HOU vs. SEA W 42 12 5 17 29.4 0 3 0.0 2 4 50.0 0 3 3 6 3 0 1 2 7
+p445
+aVCharles Hayes HOU 01/21/2008 HOU vs. SEA W 15 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 1 1 0 3 4
+p446
+aVAaron Brooks HOU 01/21/2008 HOU vs. SEA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 0
+p447
+aVTracy McGrady HOU 01/21/2008 HOU vs. SEA W 30 17 7 15 46.7 0 2 0.0 3 4 75.0 0 6 6 5 0 2 3 3 6
+p448
+aVLuis Scola HOU 01/19/2008 HOU vs. SAS W 22 6 2 11 18.2 0 0 - 2 4 50.0 3 3 6 0 1 0 0 2 -1
+p449
+aVRafer Alston HOU 01/19/2008 HOU vs. SAS W 34 16 6 15 40.0 3 4 75.0 1 2 50.0 1 3 4 6 2 1 4 4 6
+p450
+aVBonzi Wells HOU 01/19/2008 HOU vs. SAS W 17 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 3 10
+p451
+aVLuther Head HOU 01/19/2008 HOU vs. SAS W 23 9 4 11 36.4 1 4 25.0 0 0 - 0 0 0 1 1 0 1 1 -3
+p452
+aVAaron Brooks HOU 01/19/2008 HOU vs. SAS W 14 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 -4
+p453
+aVYao Ming HOU 01/19/2008 HOU vs. SAS W 39 21 7 10 70.0 0 0 - 7 10 70.0 3 11 14 3 0 2 1 2 9
+p454
+aVShane Battier HOU 01/19/2008 HOU vs. SAS W 34 5 2 6 33.3 1 5 20.0 0 0 - 3 3 6 2 1 0 0 1 6
+p455
+aVCharles Hayes HOU 01/19/2008 HOU vs. SAS W 18 0 0 6 0.0 0 0 - 0 0 - 3 5 8 1 1 1 0 2 -7
+p456
+aVTracy McGrady HOU 01/19/2008 HOU vs. SAS W 27 9 4 12 33.3 1 5 20.0 0 0 - 0 4 4 4 0 1 0 0 3
+p457
+aVCarl Landry HOU 01/19/2008 HOU vs. SAS W 12 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 1 0 0 1 2 -9
+p458
+aVShane Battier HOU 01/15/2008 HOU vs. PHI L 43 17 7 9 77.8 3 4 75.0 0 0 - 3 1 4 2 2 1 2 3 -11
+p459
+aVRafer Alston HOU 01/15/2008 HOU vs. PHI L 41 20 7 17 41.2 3 7 42.9 3 4 75.0 1 4 5 4 2 1 6 5 -5
+p460
+aVCarl Landry HOU 01/15/2008 HOU vs. PHI L 5 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 7
+p461
+aVBonzi Wells HOU 01/15/2008 HOU vs. PHI L 18 7 3 8 37.5 0 2 0.0 1 2 50.0 0 3 3 0 1 0 1 3 -3
+p462
+aVLuther Head HOU 01/15/2008 HOU vs. PHI L 40 16 6 20 30.0 2 11 18.2 2 3 66.7 1 1 2 7 1 0 2 0 2
+p463
+aVAaron Brooks HOU 01/15/2008 HOU vs. PHI L 11 6 2 4 50.0 0 2 0.0 2 2 100.0 1 0 1 2 1 0 2 4 -3
+p464
+aVYao Ming HOU 01/15/2008 HOU vs. PHI L 41 25 8 11 72.7 0 0 - 9 10 90.0 0 8 8 1 0 2 3 5 -3
+p465
+aVLuis Scola HOU 01/15/2008 HOU vs. PHI L 23 10 3 8 37.5 0 0 - 4 4 100.0 3 3 6 3 0 0 0 2 -13
+p466
+aVCharles Hayes HOU 01/15/2008 HOU vs. PHI L 18 2 1 1 100.0 0 0 - 0 0 - 2 5 7 3 1 2 1 3 9
+p467
+aVYao Ming HOU 01/13/2008 HOU vs. NOH L 42 30 11 24 45.8 0 2 0.0 8 11 72.7 3 13 16 1 0 4 6 2 -10
+p468
+aVAaron Brooks HOU 01/13/2008 HOU vs. NOH L 24 11 4 9 44.4 1 5 20.0 2 3 66.7 0 0 0 3 1 0 1 3 2
+p469
+aVShane Battier HOU 01/13/2008 HOU vs. NOH L 33 2 1 4 25.0 0 3 0.0 0 0 - 1 3 4 3 0 1 0 1 -10
+p470
+aVLuther Head HOU 01/13/2008 HOU vs. NOH L 33 11 4 11 36.4 1 3 33.3 2 2 100.0 1 3 4 1 0 0 0 4 -15
+p471
+aVLuis Scola HOU 01/13/2008 HOU vs. NOH L 29 6 3 6 50.0 0 0 - 0 0 - 2 5 7 1 2 0 3 2 5
+p472
+aVCharles Hayes HOU 01/13/2008 HOU vs. NOH L 19 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 2 0 -4
+p473
+aVRafer Alston HOU 01/13/2008 HOU vs. NOH L 40 12 4 13 30.8 2 5 40.0 2 2 100.0 0 3 3 7 2 0 2 3 -3
+p474
+aVBonzi Wells HOU 01/13/2008 HOU vs. NOH L 15 6 2 3 66.7 0 0 - 2 4 50.0 0 2 2 0 0 0 2 0 5
+p475
+aVCarl Landry HOU 01/13/2008 HOU vs. NOH L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 5
+p476
+aVSteve Novak HOU 01/11/2008 HOU vs. MIN W 8 9 3 6 50.0 3 5 60.0 0 0 - 0 1 1 0 0 1 0 0 -2
+p477
+aVLuther Head HOU 01/11/2008 HOU vs. MIN W 33 15 6 13 46.2 1 2 50.0 2 2 100.0 0 3 3 2 1 2 2 2 22
+p478
+aVShane Battier HOU 01/11/2008 HOU vs. MIN W 29 10 4 5 80.0 2 2 100.0 0 0 - 1 8 9 3 4 2 1 1 23
+p479
+aVKirk Snyder HOU 01/11/2008 HOU vs. MIN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p480
+aVLuis Scola HOU 01/11/2008 HOU vs. MIN W 24 22 7 10 70.0 0 0 - 8 12 66.7 2 7 9 5 1 0 1 1 23
+p481
+aVRafer Alston HOU 01/11/2008 HOU vs. MIN W 31 11 4 10 40.0 1 3 33.3 2 2 100.0 0 3 3 5 2 1 3 1 27
+p482
+aVMike James HOU 01/11/2008 HOU vs. MIN W 21 5 2 10 20.0 1 3 33.3 0 0 - 0 1 1 3 0 0 1 1 15
+p483
+aVAaron Brooks HOU 01/11/2008 HOU vs. MIN W 21 5 2 6 33.3 0 2 0.0 1 2 50.0 0 3 3 4 1 0 4 1 10
+p484
+aVYao Ming HOU 01/11/2008 HOU vs. MIN W 28 15 6 8 75.0 0 0 - 3 5 60.0 2 2 4 1 0 2 1 2 22
+p485
+aVCharles Hayes HOU 01/11/2008 HOU vs. MIN W 19 4 2 6 33.3 0 0 - 0 0 - 2 6 8 1 0 1 0 2 4
+p486
+aVCarl Landry HOU 01/11/2008 HOU vs. MIN W 20 15 7 7 100.0 0 0 - 1 1 100.0 6 5 11 0 0 0 0 1 9
+p487
+aVCharles Hayes HOU 01/09/2008 HOU @ NYK W 26 4 2 3 66.7 0 0 - 0 0 - 4 9 13 1 2 0 2 2 6
+p488
+aVLuther Head HOU 01/09/2008 HOU @ NYK W 36 12 4 11 36.4 2 4 50.0 2 2 100.0 0 2 2 4 1 0 0 2 12
+p489
+aVAaron Brooks HOU 01/09/2008 HOU @ NYK W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -6
+p490
+aVRafer Alston HOU 01/09/2008 HOU @ NYK W 42 20 8 17 47.1 3 7 42.9 1 2 50.0 0 6 6 8 2 0 5 2 11
+p491
+aVBonzi Wells HOU 01/09/2008 HOU @ NYK W 17 2 1 3 33.3 0 1 0.0 0 2 0.0 0 1 1 1 2 0 1 2 0
+p492
+aVShane Battier HOU 01/09/2008 HOU @ NYK W 39 6 3 8 37.5 0 2 0.0 0 0 - 3 2 5 5 2 5 0 0 10
+p493
+aVLuis Scola HOU 01/09/2008 HOU @ NYK W 29 19 9 18 50.0 0 0 - 1 3 33.3 1 2 3 2 2 0 0 4 1
+p494
+aVYao Ming HOU 01/09/2008 HOU @ NYK W 42 36 14 21 66.7 0 0 - 8 9 88.9 2 9 11 3 0 2 2 2 11
+p495
+aVRafer Alston HOU 01/08/2008 HOU @ WAS W 40 15 7 15 46.7 1 6 16.7 0 0 - 0 7 7 10 1 0 5 1 18
+p496
+aVAaron Brooks HOU 01/08/2008 HOU @ WAS W 16 3 1 5 20.0 1 2 50.0 0 0 - 1 1 2 2 0 1 0 1 -9
+p497
+aVYao Ming HOU 01/08/2008 HOU @ WAS W 40 21 7 16 43.8 0 0 - 7 7 100.0 1 8 9 4 0 4 4 3 4
+p498
+aVCharles Hayes HOU 01/08/2008 HOU @ WAS W 24 6 3 3 100.0 0 0 - 0 0 - 1 5 6 2 1 0 2 3 9
+p499
+aVLuis Scola HOU 01/08/2008 HOU @ WAS W 20 4 2 4 50.0 0 0 - 0 2 0.0 4 5 9 0 0 1 2 2 2
+p500
+aVBonzi Wells HOU 01/08/2008 HOU @ WAS W 19 8 2 6 33.3 0 0 - 4 6 66.7 0 3 3 2 0 0 0 2 -4
+p501
+aVLuther Head HOU 01/08/2008 HOU @ WAS W 33 24 8 13 61.5 4 6 66.7 4 4 100.0 0 3 3 2 2 0 4 2 15
+p502
+aVDikembe Mutombo HOU 01/08/2008 HOU @ WAS W 8 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 2 0 0 1 4
+p503
+aVShane Battier HOU 01/08/2008 HOU @ WAS W 39 9 3 7 42.9 1 4 25.0 2 2 100.0 5 1 6 2 1 3 4 4 1
+p504
+aVLuther Head HOU 01/05/2008 HOU vs. NYK W 24 10 4 9 44.4 1 5 20.0 1 1 100.0 0 1 1 3 2 0 1 1 6
+p505
+aVLuis Scola HOU 01/05/2008 HOU vs. NYK W 14 10 5 6 83.3 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -4
+p506
+aVCharles Hayes HOU 01/05/2008 HOU vs. NYK W 36 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 1 0 2 4 13
+p507
+aVRafer Alston HOU 01/05/2008 HOU vs. NYK W 40 14 5 14 35.7 2 8 25.0 2 2 100.0 0 2 2 4 2 0 3 1 8
+p508
+aVAaron Brooks HOU 01/05/2008 HOU vs. NYK W 25 22 8 10 80.0 4 5 80.0 2 2 100.0 1 2 3 1 1 0 0 1 6
+p509
+aVShane Battier HOU 01/05/2008 HOU vs. NYK W 37 4 2 7 28.6 0 4 0.0 0 0 - 1 5 6 4 1 2 0 1 11
+p510
+aVDikembe Mutombo HOU 01/05/2008 HOU vs. NYK W 7 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 2 1 1 10
+p511
+aVBonzi Wells HOU 01/05/2008 HOU vs. NYK W 19 9 3 7 42.9 1 2 50.0 2 4 50.0 0 2 2 0 1 0 1 1 5
+p512
+aVYao Ming HOU 01/05/2008 HOU vs. NYK W 39 30 12 21 57.1 0 0 - 6 7 85.7 4 4 8 6 1 4 5 3 5
+p513
+aVAaron Brooks HOU 01/04/2008 HOU @ ORL W 19 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 4 0 1 1 3 -1
+p514
+aVShane Battier HOU 01/04/2008 HOU @ ORL W 40 5 2 5 40.0 1 3 33.3 0 0 - 2 6 8 2 1 1 1 0 1
+p515
+aVCharles Hayes HOU 01/04/2008 HOU @ ORL W 18 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 1 0 2 3 13
+p516
+aVRafer Alston HOU 01/04/2008 HOU @ ORL W 44 20 7 14 50.0 3 4 75.0 3 4 75.0 0 3 3 8 2 0 4 3 1
+p517
+aVLuther Head HOU 01/04/2008 HOU @ ORL W 33 12 5 12 41.7 0 4 0.0 2 2 100.0 0 4 4 0 0 0 1 2 6
+p518
+aVSteve Novak HOU 01/04/2008 HOU @ ORL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p519
+aVLuis Scola HOU 01/04/2008 HOU @ ORL W 17 10 5 8 62.5 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -2
+p520
+aVYao Ming HOU 01/04/2008 HOU @ ORL W 31 26 10 18 55.6 0 0 - 6 7 85.7 6 4 10 1 0 0 4 4 -3
+p521
+aVBonzi Wells HOU 01/04/2008 HOU @ ORL W 34 12 3 12 25.0 0 1 0.0 6 6 100.0 2 10 12 3 1 1 6 4 -8
+p522
+aVCharles Hayes HOU 01/02/2008 HOU @ BOS L 14 4 2 4 50.0 0 0 - 0 0 - 1 5 6 1 1 0 0 4 -2
+p523
+aVAaron Brooks HOU 01/02/2008 HOU @ BOS L 11 2 1 4 25.0 0 3 0.0 0 0 - 1 1 2 3 2 0 2 1 1
+p524
+aVYao Ming HOU 01/02/2008 HOU @ BOS L 42 19 7 20 35.0 0 0 - 5 6 83.3 3 10 13 2 1 0 4 4 -2
+p525
+aVMike James HOU 01/02/2008 HOU @ BOS L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p526
+aVBonzi Wells HOU 01/02/2008 HOU @ BOS L 29 25 8 14 57.1 0 1 0.0 9 12 75.0 3 6 9 1 1 1 0 3 4
+p527
+aVLuis Scola HOU 01/02/2008 HOU @ BOS L 22 7 2 4 50.0 0 0 - 3 4 75.0 3 4 7 4 0 0 0 3 -2
+p528
+aVLuther Head HOU 01/02/2008 HOU @ BOS L 33 10 4 11 36.4 2 5 40.0 0 0 - 0 0 0 3 0 0 2 0 -9
+p529
+aVRafer Alston HOU 01/02/2008 HOU @ BOS L 44 18 8 16 50.0 1 5 20.0 1 1 100.0 0 1 1 2 1 0 3 0 -3
+p530
+aVShane Battier HOU 01/02/2008 HOU @ BOS L 36 6 2 7 28.6 2 7 28.6 0 0 - 2 0 2 1 0 1 2 3 -8
+p531
+aVLuis Scola HOU 12/31/2007 HOU vs. GSW L 23 9 3 9 33.3 0 0 - 3 4 75.0 1 2 3 1 0 0 4 3 -3
+p532
+aVSteve Novak HOU 12/31/2007 HOU vs. GSW L 19 8 2 4 50.0 2 3 66.7 2 2 100.0 1 4 5 1 0 0 1 4 1
+p533
+aVAaron Brooks HOU 12/31/2007 HOU vs. GSW L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -4
+p534
+aVLuther Head HOU 12/31/2007 HOU vs. GSW L 25 10 4 9 44.4 1 4 25.0 1 1 100.0 0 1 1 1 2 0 2 0 -25
+p535
+aVBonzi Wells HOU 12/31/2007 HOU vs. GSW L 33 17 7 15 46.7 0 0 - 3 5 60.0 2 2 4 3 2 1 6 3 -4
+p536
+aVRafer Alston HOU 12/31/2007 HOU vs. GSW L 44 22 8 17 47.1 2 9 22.2 4 7 57.1 0 2 2 5 1 0 0 3 -13
+p537
+aVCharles Hayes HOU 12/31/2007 HOU vs. GSW L 22 4 2 4 50.0 0 0 - 0 0 - 1 4 5 5 2 0 1 2 -5
+p538
+aVShane Battier HOU 12/31/2007 HOU vs. GSW L 42 7 3 11 27.3 1 5 20.0 0 0 - 1 4 5 0 3 1 4 1 -13
+p539
+aVYao Ming HOU 12/31/2007 HOU vs. GSW L 28 16 4 8 50.0 0 0 - 8 8 100.0 3 6 9 1 1 3 4 4 -19
+p540
+aVBonzi Wells HOU 12/29/2007 HOU vs. TOR W 33 13 4 17 23.5 0 2 0.0 5 6 83.3 2 8 10 5 3 1 2 2 0
+p541
+aVRafer Alston HOU 12/29/2007 HOU vs. TOR W 33 18 6 12 50.0 5 6 83.3 1 2 50.0 0 2 2 5 0 0 1 0 9
+p542
+aVLuther Head HOU 12/29/2007 HOU vs. TOR W 25 13 4 8 50.0 3 7 42.9 2 2 100.0 0 1 1 4 0 0 1 0 7
+p543
+aVLuis Scola HOU 12/29/2007 HOU vs. TOR W 20 6 3 8 37.5 0 0 - 0 0 - 4 5 9 1 0 0 2 3 4
+p544
+aVYao Ming HOU 12/29/2007 HOU vs. TOR W 42 25 8 19 42.1 0 0 - 9 9 100.0 2 9 11 3 1 2 8 5 18
+p545
+aVShane Battier HOU 12/29/2007 HOU vs. TOR W 38 10 4 8 50.0 2 6 33.3 0 0 - 1 7 8 3 1 1 1 1 15
+p546
+aVCharles Hayes HOU 12/29/2007 HOU vs. TOR W 34 2 1 2 50.0 0 0 - 0 0 - 3 6 9 1 3 2 0 3 4
+p547
+aVAaron Brooks HOU 12/29/2007 HOU vs. TOR W 15 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p548
+aVLuis Scola HOU 12/28/2007 HOU @ MEM W 29 22 11 17 64.7 0 0 - 0 0 - 1 4 5 1 2 0 1 3 17
+p549
+aVRafer Alston HOU 12/28/2007 HOU @ MEM W 30 10 4 13 30.8 2 7 28.6 0 0 - 0 2 2 6 0 0 4 3 19
+p550
+aVCharles Hayes HOU 12/28/2007 HOU @ MEM W 27 4 2 3 66.7 0 0 - 0 0 - 3 8 11 1 1 0 1 3 8
+p551
+aVDikembe Mutombo HOU 12/28/2007 HOU @ MEM W 4 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -3
+p552
+aVLuther Head HOU 12/28/2007 HOU @ MEM W 23 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 3 0 0 0 0 9
+p553
+aVShane Battier HOU 12/28/2007 HOU @ MEM W 41 18 6 9 66.7 3 4 75.0 3 4 75.0 1 6 7 1 2 1 1 2 17
+p554
+aVAaron Brooks HOU 12/28/2007 HOU @ MEM W 21 10 4 8 50.0 2 5 40.0 0 0 - 0 3 3 7 0 0 1 1 5
+p555
+aVYao Ming HOU 12/28/2007 HOU @ MEM W 33 22 9 15 60.0 0 0 - 4 5 80.0 3 9 12 3 0 5 1 4 16
+p556
+aVBonzi Wells HOU 12/28/2007 HOU @ MEM W 32 10 4 15 26.7 0 2 0.0 2 3 66.7 0 4 4 2 1 1 0 1 12
+p557
+aVDikembe Mutombo HOU 12/23/2007 HOU @ DET L 18 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 2
+p558
+aVShane Battier HOU 12/23/2007 HOU @ DET L 22 7 2 6 33.3 1 4 25.0 2 2 100.0 0 1 1 0 2 2 1 4 -12
+p559
+aVAaron Brooks HOU 12/23/2007 HOU @ DET L 18 12 3 6 50.0 2 4 50.0 4 4 100.0 1 0 1 1 0 1 3 1 3
+p560
+aVBonzi Wells HOU 12/23/2007 HOU @ DET L 15 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -7
+p561
+aVTracy McGrady HOU 12/23/2007 HOU @ DET L 20 14 6 10 60.0 0 1 0.0 2 3 66.7 0 1 1 0 0 1 1 1 -7
+p562
+aVRafer Alston HOU 12/23/2007 HOU @ DET L 30 6 2 7 28.6 2 4 50.0 0 0 - 0 0 0 3 0 0 2 2 -15
+p563
+aVCharles Hayes HOU 12/23/2007 HOU @ DET L 27 1 0 2 0.0 0 0 - 1 2 50.0 4 5 9 4 3 0 1 4 -9
+p564
+aVKirk Snyder HOU 12/23/2007 HOU @ DET L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 6
+p565
+aVLuis Scola HOU 12/23/2007 HOU @ DET L 25 18 8 11 72.7 0 0 - 2 4 50.0 2 7 9 0 0 0 1 3 -5
+p566
+aVMike James HOU 12/23/2007 HOU @ DET L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 7
+p567
+aVYao Ming HOU 12/23/2007 HOU @ DET L 26 12 4 13 30.8 0 0 - 4 5 80.0 0 5 5 3 1 1 7 3 -12
+p568
+aVLuther Head HOU 12/23/2007 HOU @ DET L 26 11 4 12 33.3 3 7 42.9 0 1 0.0 0 3 3 3 2 0 0 1 -11
+p569
+aVCharles Hayes HOU 12/22/2007 HOU @ CHI W 24 2 1 4 25.0 0 0 - 0 0 - 5 2 7 2 1 3 0 1 8
+p570
+aVLuis Scola HOU 12/22/2007 HOU @ CHI W 27 14 6 13 46.2 0 0 - 2 2 100.0 9 2 11 2 1 0 4 3 9
+p571
+aVKirk Snyder HOU 12/22/2007 HOU @ CHI W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p572
+aVRafer Alston HOU 12/22/2007 HOU @ CHI W 31 11 5 11 45.5 1 6 16.7 0 0 - 1 2 3 6 1 0 2 0 9
+p573
+aVShane Battier HOU 12/22/2007 HOU @ CHI W 32 14 5 9 55.6 4 6 66.7 0 0 - 2 4 6 0 0 3 0 3 16
+p574
+aVBonzi Wells HOU 12/22/2007 HOU @ CHI W 23 20 8 11 72.7 1 1 100.0 3 6 50.0 0 6 6 2 3 1 1 2 26
+p575
+aVLuther Head HOU 12/22/2007 HOU @ CHI W 20 13 5 9 55.6 3 4 75.0 0 0 - 0 3 3 1 1 1 1 2 16
+p576
+aVTracy McGrady HOU 12/22/2007 HOU @ CHI W 30 20 8 18 44.4 1 3 33.3 3 3 100.0 0 4 4 8 2 0 0 0 4
+p577
+aVYao Ming HOU 12/22/2007 HOU @ CHI W 28 18 6 14 42.9 0 0 - 6 8 75.0 3 5 8 2 0 2 3 3 7
+p578
+aVAaron Brooks HOU 12/22/2007 HOU @ CHI W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 6 0 0 1 1 9
+p579
+aVMike James HOU 12/22/2007 HOU @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p580
+aVLuis Scola HOU 12/20/2007 HOU @ DEN L 19 2 0 4 0.0 0 0 - 2 2 100.0 2 3 5 0 1 0 0 2 -9
+p581
+aVShane Battier HOU 12/20/2007 HOU @ DEN L 46 12 4 12 33.3 3 9 33.3 1 2 50.0 1 6 7 2 3 2 3 4 6
+p582
+aVBonzi Wells HOU 12/20/2007 HOU @ DEN L 30 17 7 15 46.7 1 2 50.0 2 4 50.0 4 4 8 1 2 1 1 3 -1
+p583
+aVCharles Hayes HOU 12/20/2007 HOU @ DEN L 25 4 2 2 100.0 0 0 - 0 2 0.0 1 4 5 1 2 1 0 2 0
+p584
+aVDikembe Mutombo HOU 12/20/2007 HOU @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p585
+aVLuther Head HOU 12/20/2007 HOU @ DEN L 45 22 7 15 46.7 5 10 50.0 3 4 75.0 0 4 4 6 0 0 5 4 5
+p586
+aVYao Ming HOU 12/20/2007 HOU @ DEN L 52 26 9 22 40.9 0 0 - 8 9 88.9 5 14 19 6 0 2 2 3 7
+p587
+aVRafer Alston HOU 12/20/2007 HOU @ DEN L 50 18 7 18 38.9 3 9 33.3 1 2 50.0 0 7 7 10 3 0 5 3 10
+p588
+aVMike James HOU 12/20/2007 HOU @ DEN L 7 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -12
+p589
+aVAaron Brooks HOU 12/20/2007 HOU @ DEN L 14 8 4 9 44.4 0 4 0.0 0 0 - 0 0 0 0 0 0 1 4 -5
+p590
+aVLuther Head HOU 12/19/2007 HOU vs. ORL L 18 6 1 8 12.5 1 4 25.0 3 5 60.0 0 2 2 2 1 0 1 0 -4
+p591
+aVMike James HOU 12/19/2007 HOU vs. ORL L 17 9 2 6 33.3 1 1 100.0 4 4 100.0 0 1 1 4 1 0 0 1 4
+p592
+aVTracy McGrady HOU 12/19/2007 HOU vs. ORL L 18 3 1 10 10.0 1 3 33.3 0 0 - 0 2 2 1 4 1 0 0 -1
+p593
+aVYao Ming HOU 12/19/2007 HOU vs. ORL L 43 19 7 18 38.9 0 0 - 5 8 62.5 5 12 17 2 2 3 3 3 -2
+p594
+aVBonzi Wells HOU 12/19/2007 HOU vs. ORL L 31 17 7 14 50.0 0 0 - 3 4 75.0 2 4 6 3 2 1 1 1 -17
+p595
+aVRafer Alston HOU 12/19/2007 HOU vs. ORL L 34 17 5 13 38.5 3 7 42.9 4 6 66.7 0 2 2 3 0 1 1 2 -2
+p596
+aVCharles Hayes HOU 12/19/2007 HOU vs. ORL L 24 6 3 3 100.0 0 0 - 0 0 - 3 5 8 3 0 3 1 2 8
+p597
+aVAaron Brooks HOU 12/19/2007 HOU vs. ORL L 3 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 2 -4
+p598
+aVShane Battier HOU 12/19/2007 HOU vs. ORL L 38 9 3 10 30.0 3 7 42.9 0 2 0.0 2 2 4 2 0 2 2 6 -4
+p599
+aVLuis Scola HOU 12/19/2007 HOU vs. ORL L 14 6 2 7 28.6 0 0 - 2 2 100.0 4 2 6 2 0 0 1 3 -3
+p600
+aVLuther Head HOU 12/15/2007 HOU vs. DAL L 26 6 2 6 33.3 0 4 0.0 2 2 100.0 0 4 4 2 0 0 1 1 -9
+p601
+aVBonzi Wells HOU 12/15/2007 HOU vs. DAL L 21 8 3 4 75.0 0 0 - 2 3 66.7 1 1 2 0 2 0 2 3 -4
+p602
+aVYao Ming HOU 12/15/2007 HOU vs. DAL L 42 28 10 18 55.6 0 0 - 8 8 100.0 7 7 14 3 1 3 3 1 -12
+p603
+aVAaron Brooks HOU 12/15/2007 HOU vs. DAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 5
+p604
+aVLuis Scola HOU 12/15/2007 HOU vs. DAL L 12 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 1 1 0 2 3 -1
+p605
+aVCharles Hayes HOU 12/15/2007 HOU vs. DAL L 29 5 2 3 66.7 0 0 - 1 2 50.0 5 2 7 0 1 0 2 2 -6
+p606
+aVSteve Francis HOU 12/15/2007 HOU vs. DAL L 23 3 1 8 12.5 1 3 33.3 0 0 - 1 0 1 3 1 0 5 3 -6
+p607
+aVKirk Snyder HOU 12/15/2007 HOU vs. DAL L 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 -1
+p608
+aVTracy McGrady HOU 12/15/2007 HOU vs. DAL L 38 12 5 18 27.8 1 6 16.7 1 2 50.0 0 5 5 3 0 1 1 2 -20
+p609
+aVShane Battier HOU 12/15/2007 HOU vs. DAL L 35 11 4 10 40.0 3 5 60.0 0 0 - 1 3 4 2 0 0 2 2 -12
+p610
+aVMike James HOU 12/15/2007 HOU vs. DAL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p611
+aVCharles Hayes HOU 12/12/2007 HOU vs. DET W 41 4 2 7 28.6 0 0 - 0 0 - 5 6 11 4 2 2 2 1 13
+p612
+aVBonzi Wells HOU 12/12/2007 HOU vs. DET W 12 8 3 5 60.0 0 0 - 2 9 22.2 1 2 3 1 0 0 0 3 -2
+p613
+aVShane Battier HOU 12/12/2007 HOU vs. DET W 36 2 1 3 33.3 0 0 - 0 0 - 2 7 9 4 0 0 2 1 5
+p614
+aVLuis Scola HOU 12/12/2007 HOU vs. DET W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -14
+p615
+aVYao Ming HOU 12/12/2007 HOU vs. DET W 44 21 9 21 42.9 0 0 - 3 6 50.0 2 11 13 3 1 4 1 2 7
+p616
+aVLuther Head HOU 12/12/2007 HOU vs. DET W 19 6 2 4 50.0 1 3 33.3 1 2 50.0 0 5 5 0 0 0 2 2 -1
+p617
+aVTracy McGrady HOU 12/12/2007 HOU vs. DET W 42 29 13 25 52.0 3 6 50.0 0 5 0.0 0 3 3 6 2 0 3 1 5
+p618
+aVRafer Alston HOU 12/12/2007 HOU vs. DET W 35 10 4 8 50.0 2 6 33.3 0 0 - 0 3 3 6 1 2 1 2 2
+p619
+aVSteve Francis HOU 12/10/2007 HOU @ PHI L 11 1 0 3 0.0 0 1 0.0 1 2 50.0 1 0 1 3 0 0 3 1 -13
+p620
+aVCharles Hayes HOU 12/10/2007 HOU @ PHI L 11 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -13
+p621
+aVKirk Snyder HOU 12/10/2007 HOU @ PHI L 12 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 1 0 0 3 3 14
+p622
+aVTracy McGrady HOU 12/10/2007 HOU @ PHI L 25 12 5 8 62.5 0 1 0.0 2 2 100.0 0 1 1 3 1 0 4 0 -26
+p623
+aVYao Ming HOU 12/10/2007 HOU @ PHI L 33 12 3 11 27.3 0 0 - 6 6 100.0 3 6 9 0 0 0 2 1 -28
+p624
+aVShane Battier HOU 12/10/2007 HOU @ PHI L 32 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 0 1 1 0 1 -25
+p625
+aVMike James HOU 12/10/2007 HOU @ PHI L 29 12 5 13 38.5 0 3 0.0 2 2 100.0 1 6 7 2 1 0 3 4 8
+p626
+aVLuther Head HOU 12/10/2007 HOU @ PHI L 31 18 6 12 50.0 4 8 50.0 2 2 100.0 1 0 1 2 0 0 2 2 9
+p627
+aVLuis Scola HOU 12/10/2007 HOU @ PHI L 21 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 1 2 0 0 3 4
+p628
+aVCarl Landry HOU 12/10/2007 HOU @ PHI L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 2
+p629
+aVBonzi Wells HOU 12/10/2007 HOU @ PHI L 32 24 8 14 57.1 0 2 0.0 8 9 88.9 4 6 10 1 2 0 4 3 8
+p630
+aVCarl Landry HOU 12/09/2007 HOU @ TOR L 10 2 1 6 16.7 0 0 - 0 0 - 5 2 7 1 1 1 1 5 -6
+p631
+aVLuther Head HOU 12/09/2007 HOU @ TOR L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p632
+aVTracy McGrady HOU 12/09/2007 HOU @ TOR L 37 23 7 21 33.3 1 6 16.7 8 10 80.0 0 4 4 3 2 0 4 2 -16
+p633
+aVMike James HOU 12/09/2007 HOU @ TOR L 17 4 1 6 16.7 0 2 0.0 2 2 100.0 0 0 0 3 0 0 1 2 0
+p634
+aVLuis Scola HOU 12/09/2007 HOU @ TOR L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 5 5 3 0 0 0 5 1
+p635
+aVYao Ming HOU 12/09/2007 HOU @ TOR L 38 15 5 10 50.0 0 0 - 5 6 83.3 0 6 6 1 0 3 3 1 -11
+p636
+aVBonzi Wells HOU 12/09/2007 HOU @ TOR L 22 12 5 10 50.0 2 3 66.7 0 0 - 1 2 3 0 1 0 0 0 -9
+p637
+aVSteve Francis HOU 12/09/2007 HOU @ TOR L 31 7 2 4 50.0 1 2 50.0 2 6 33.3 0 4 4 3 0 1 2 2 -13
+p638
+aVShane Battier HOU 12/09/2007 HOU @ TOR L 31 9 3 5 60.0 3 5 60.0 0 0 - 1 0 1 0 0 1 1 0 -6
+p639
+aVCharles Hayes HOU 12/09/2007 HOU @ TOR L 24 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 0 1 1 3 -8
+p640
+aVYao Ming HOU 12/07/2007 HOU @ NJN W 39 25 9 18 50.0 0 0 - 7 7 100.0 1 10 11 5 0 3 3 4 3
+p641
+aVShane Battier HOU 12/07/2007 HOU @ NJN W 36 12 4 6 66.7 2 3 66.7 2 2 100.0 1 4 5 6 3 0 0 5 6
+p642
+aVCharles Hayes HOU 12/07/2007 HOU @ NJN W 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 9
+p643
+aVTracy McGrady HOU 12/07/2007 HOU @ NJN W 42 24 9 16 56.3 3 4 75.0 3 5 60.0 0 1 1 6 1 0 3 2 7
+p644
+aVBonzi Wells HOU 12/07/2007 HOU @ NJN W 31 5 2 9 22.2 0 0 - 1 2 50.0 0 8 8 0 4 0 1 1 -4
+p645
+aVMike James HOU 12/07/2007 HOU @ NJN W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p646
+aVLuis Scola HOU 12/07/2007 HOU @ NJN W 15 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 1 0 0 8
+p647
+aVSteve Francis HOU 12/07/2007 HOU @ NJN W 18 5 1 5 20.0 0 1 0.0 3 4 75.0 1 2 3 2 0 0 1 2 0
+p648
+aVRafer Alston HOU 12/07/2007 HOU @ NJN W 31 15 5 11 45.5 2 6 33.3 3 4 75.0 0 1 1 2 2 0 2 0 5
+p649
+aVRafer Alston HOU 12/05/2007 HOU vs. MEM W 38 7 3 9 33.3 1 4 25.0 0 0 - 2 6 8 7 2 1 1 2 8
+p650
+aVSteve Francis HOU 12/05/2007 HOU vs. MEM W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 2 5
+p651
+aVMike James HOU 12/05/2007 HOU vs. MEM W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 1
+p652
+aVLuis Scola HOU 12/05/2007 HOU vs. MEM W 17 16 6 8 75.0 0 0 - 4 5 80.0 1 1 2 0 0 0 1 3 5
+p653
+aVYao Ming HOU 12/05/2007 HOU vs. MEM W 44 24 10 17 58.8 0 0 - 4 5 80.0 5 8 13 1 1 4 2 3 13
+p654
+aVTracy McGrady HOU 12/05/2007 HOU vs. MEM W 42 17 7 22 31.8 1 6 16.7 2 4 50.0 0 10 10 12 2 2 0 1 12
+p655
+aVShane Battier HOU 12/05/2007 HOU vs. MEM W 37 13 5 9 55.6 3 5 60.0 0 0 - 2 1 3 1 1 3 1 4 12
+p656
+aVBonzi Wells HOU 12/05/2007 HOU vs. MEM W 30 24 11 14 78.6 0 0 - 2 5 40.0 4 3 7 2 1 0 1 5 19
+p657
+aVCharles Hayes HOU 12/05/2007 HOU vs. MEM W 16 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 0 1 3 1 -10
+p658
+aVLuther Head HOU 12/05/2007 HOU vs. MEM W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p659
+aVYao Ming HOU 12/01/2007 HOU @ SAC L 37 29 8 15 53.3 0 0 - 13 13 100.0 7 4 11 1 0 2 3 6 -6
+p660
+aVCharles Hayes HOU 12/01/2007 HOU @ SAC L 18 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 1 0 0 4 -10
+p661
+aVMike James HOU 12/01/2007 HOU @ SAC L 16 7 2 6 33.3 1 4 25.0 2 2 100.0 0 2 2 1 1 0 1 4 -7
+p662
+aVBonzi Wells HOU 12/01/2007 HOU @ SAC L 27 8 4 8 50.0 0 0 - 0 0 - 2 8 10 1 2 1 0 5 -5
+p663
+aVShane Battier HOU 12/01/2007 HOU @ SAC L 43 4 2 6 33.3 0 4 0.0 0 0 - 0 4 4 1 0 3 1 2 3
+p664
+aVLuis Scola HOU 12/01/2007 HOU @ SAC L 14 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 5
+p665
+aVLuther Head HOU 12/01/2007 HOU @ SAC L 9 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 -6
+p666
+aVAaron Brooks HOU 12/01/2007 HOU @ SAC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p667
+aVTracy McGrady HOU 12/01/2007 HOU @ SAC L 41 40 14 30 46.7 5 10 50.0 7 8 87.5 0 5 5 4 1 0 5 1 -13
+p668
+aVRafer Alston HOU 12/01/2007 HOU @ SAC L 35 5 2 7 28.6 1 4 25.0 0 2 0.0 1 3 4 8 0 0 2 1 -1
+p669
+aVLuther Head HOU 11/29/2007 HOU @ GSW L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p670
+aVTracy McGrady HOU 11/29/2007 HOU @ GSW L 34 11 5 14 35.7 0 2 0.0 1 2 50.0 0 2 2 6 0 0 2 4 -5
+p671
+aVLuis Scola HOU 11/29/2007 HOU @ GSW L 19 9 4 8 50.0 0 0 - 1 4 25.0 4 5 9 1 2 1 1 2 5
+p672
+aVRafer Alston HOU 11/29/2007 HOU @ GSW L 18 8 3 8 37.5 1 4 25.0 1 2 50.0 0 1 1 2 2 0 1 1 -17
+p673
+aVShane Battier HOU 11/29/2007 HOU @ GSW L 23 5 2 6 33.3 0 2 0.0 1 1 100.0 1 1 2 2 2 0 1 4 -12
+p674
+aVKirk Snyder HOU 11/29/2007 HOU @ GSW L 19 7 2 4 50.0 0 0 - 3 5 60.0 2 4 6 1 0 1 0 1 -11
+p675
+aVBonzi Wells HOU 11/29/2007 HOU @ GSW L 26 13 4 8 50.0 0 2 0.0 5 7 71.4 2 3 5 5 0 0 1 2 -20
+p676
+aVMike James HOU 11/29/2007 HOU @ GSW L 25 19 8 14 57.1 1 4 25.0 2 2 100.0 0 2 2 2 0 0 2 4 6
+p677
+aVCharles Hayes HOU 11/29/2007 HOU @ GSW L 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -17
+p678
+aVYao Ming HOU 11/29/2007 HOU @ GSW L 28 10 4 12 33.3 0 0 - 2 2 100.0 1 6 7 1 0 3 5 0 -18
+p679
+aVSteve Francis HOU 11/29/2007 HOU @ GSW L 29 8 3 5 60.0 1 1 100.0 1 5 20.0 1 3 4 5 1 1 1 6 3
+p680
+aVTracy McGrady HOU 11/28/2007 HOU @ PHX W 35 18 7 19 36.8 1 2 50.0 3 8 37.5 0 8 8 6 1 1 3 2 -5
+p681
+aVShane Battier HOU 11/28/2007 HOU @ PHX W 33 6 2 6 33.3 2 4 50.0 0 0 - 0 3 3 3 0 2 0 3 -2
+p682
+aVBonzi Wells HOU 11/28/2007 HOU @ PHX W 13 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 0 0 0 2 0 11
+p683
+aVSteve Francis HOU 11/28/2007 HOU @ PHX W 27 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 7 2 2 1 3 2
+p684
+aVLuis Scola HOU 11/28/2007 HOU @ PHX W 22 8 4 5 80.0 0 0 - 0 0 - 0 7 7 0 0 0 2 1 13
+p685
+aVYao Ming HOU 11/28/2007 HOU @ PHX W 40 31 12 19 63.2 0 0 - 7 7 100.0 3 10 13 1 0 2 6 4 -4
+p686
+aVRafer Alston HOU 11/28/2007 HOU @ PHX W 30 15 6 11 54.5 3 5 60.0 0 0 - 0 4 4 4 2 0 3 0 3
+p687
+aVMike James HOU 11/28/2007 HOU @ PHX W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 7
+p688
+aVCharles Hayes HOU 11/28/2007 HOU @ PHX W 23 6 3 4 75.0 0 0 - 0 0 - 2 4 6 1 1 1 0 2 5
+p689
+aVTracy McGrady HOU 11/26/2007 HOU @ LAC W 42 36 13 26 50.0 2 5 40.0 8 8 100.0 0 8 8 6 1 1 4 2 17
+p690
+aVDikembe Mutombo HOU 11/26/2007 HOU @ LAC W 9 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -1
+p691
+aVBonzi Wells HOU 11/26/2007 HOU @ LAC W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 0 0 0 2 1 12
+p692
+aVSteve Francis HOU 11/26/2007 HOU @ LAC W 8 2 0 1 0.0 0 1 0.0 2 2 100.0 1 1 2 2 1 0 0 0 2
+p693
+aVMike James HOU 11/26/2007 HOU @ LAC W 8 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 1 0 1 0 3
+p694
+aVShane Battier HOU 11/26/2007 HOU @ LAC W 31 3 1 7 14.3 1 6 16.7 0 0 - 1 3 4 0 1 1 1 4 2
+p695
+aVCharles Hayes HOU 11/26/2007 HOU @ LAC W 24 3 1 1 100.0 0 0 - 1 1 100.0 2 5 7 1 0 0 1 5 18
+p696
+aVLuis Scola HOU 11/26/2007 HOU @ LAC W 24 6 1 2 50.0 0 0 - 4 4 100.0 2 6 8 0 1 0 0 0 -1
+p697
+aVRafer Alston HOU 11/26/2007 HOU @ LAC W 40 17 7 14 50.0 3 7 42.9 0 0 - 0 5 5 9 1 0 1 3 15
+p698
+aVYao Ming HOU 11/26/2007 HOU @ LAC W 37 14 5 11 45.5 0 0 - 4 5 80.0 1 7 8 2 1 1 6 4 18
+p699
+aVYao Ming HOU 11/24/2007 HOU vs. DEN W 35 22 9 18 50.0 0 0 - 4 5 80.0 4 9 13 2 0 0 3 2 27
+p700
+aVKirk Snyder HOU 11/24/2007 HOU vs. DEN W 10 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 1
+p701
+aVCarl Landry HOU 11/24/2007 HOU vs. DEN W 4 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p702
+aVRafer Alston HOU 11/24/2007 HOU vs. DEN W 33 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 5 1 0 1 3 25
+p703
+aVShane Battier HOU 11/24/2007 HOU vs. DEN W 35 8 2 7 28.6 1 4 25.0 3 4 75.0 4 8 12 2 0 0 3 3 23
+p704
+aVMike James HOU 11/24/2007 HOU vs. DEN W 22 8 4 12 33.3 0 3 0.0 0 0 - 2 2 4 2 2 0 2 0 -4
+p705
+aVSteve Francis HOU 11/24/2007 HOU vs. DEN W 20 10 4 9 44.4 0 3 0.0 2 2 100.0 1 3 4 3 2 1 1 3 11
+p706
+aVTracy McGrady HOU 11/24/2007 HOU vs. DEN W 34 35 13 23 56.5 1 4 25.0 8 9 88.9 0 5 5 2 1 0 2 1 30
+p707
+aVLuther Head HOU 11/24/2007 HOU vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p708
+aVLuis Scola HOU 11/24/2007 HOU vs. DEN W 16 5 2 5 40.0 0 0 - 1 2 50.0 5 3 8 1 0 0 2 2 6
+p709
+aVCharles Hayes HOU 11/24/2007 HOU vs. DEN W 27 8 4 5 80.0 0 0 - 0 3 0.0 2 4 6 1 4 0 3 4 21
+p710
+aVShane Battier HOU 11/23/2007 HOU @ MIA L 37 9 3 7 42.9 3 7 42.9 0 0 - 1 6 7 2 1 0 0 5 -1
+p711
+aVCharles Hayes HOU 11/23/2007 HOU @ MIA L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -6
+p712
+aVTracy McGrady HOU 11/23/2007 HOU @ MIA L 41 19 7 20 35.0 0 4 0.0 5 10 50.0 2 4 6 4 1 1 3 4 -10
+p713
+aVYao Ming HOU 11/23/2007 HOU @ MIA L 35 20 8 13 61.5 0 0 - 4 4 100.0 2 5 7 2 0 1 1 6 -4
+p714
+aVDikembe Mutombo HOU 11/23/2007 HOU @ MIA L 12 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 1 -5
+p715
+aVBonzi Wells HOU 11/23/2007 HOU @ MIA L 13 5 1 5 20.0 0 0 - 3 4 75.0 0 3 3 0 0 0 0 1 -4
+p716
+aVRafer Alston HOU 11/23/2007 HOU @ MIA L 27 3 1 6 16.7 0 3 0.0 1 2 50.0 0 1 1 4 1 0 1 0 -10
+p717
+aVLuther Head HOU 11/23/2007 HOU @ MIA L 10 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 1 1 0 5
+p718
+aVLuis Scola HOU 11/23/2007 HOU @ MIA L 36 20 10 16 62.5 0 0 - 0 0 - 4 5 9 3 1 1 2 5 -1
+p719
+aVMike James HOU 11/23/2007 HOU @ MIA L 17 8 3 8 37.5 2 3 66.7 0 0 - 0 0 0 3 1 0 1 1 1
+p720
+aVLuther Head HOU 11/21/2007 HOU vs. DAL L 13 8 3 6 50.0 2 2 100.0 0 0 - 0 1 1 1 0 0 1 1 -16
+p721
+aVBonzi Wells HOU 11/21/2007 HOU vs. DAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 4 -17
+p722
+aVTracy McGrady HOU 11/21/2007 HOU vs. DAL L 38 15 6 19 31.6 1 5 20.0 2 4 50.0 0 7 7 12 2 1 6 2 4
+p723
+aVRafer Alston HOU 11/21/2007 HOU vs. DAL L 34 18 7 13 53.8 3 7 42.9 1 1 100.0 0 4 4 3 1 0 2 0 7
+p724
+aVYao Ming HOU 11/21/2007 HOU vs. DAL L 41 30 11 18 61.1 0 0 - 8 9 88.9 3 12 15 1 0 6 2 4 7
+p725
+aVDikembe Mutombo HOU 11/21/2007 HOU vs. DAL L 5 1 0 1 0.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -6
+p726
+aVLuis Scola HOU 11/21/2007 HOU vs. DAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 3 2 -8
+p727
+aVCharles Hayes HOU 11/21/2007 HOU vs. DAL L 31 2 1 3 33.3 0 0 - 0 0 - 3 10 13 1 1 1 1 3 18
+p728
+aVMike James HOU 11/21/2007 HOU vs. DAL L 16 6 2 6 33.3 1 3 33.3 1 2 50.0 0 1 1 0 0 0 0 1 -22
+p729
+aVShane Battier HOU 11/21/2007 HOU vs. DAL L 38 12 4 9 44.4 3 6 50.0 1 1 100.0 0 2 2 3 0 1 0 0 3
+p730
+aVSteve Francis HOU 11/17/2007 HOU vs. PHX L 23 8 3 11 27.3 0 2 0.0 2 2 100.0 1 0 1 2 1 0 0 3 4
+p731
+aVBonzi Wells HOU 11/17/2007 HOU vs. PHX L 17 0 0 6 0.0 0 0 - 0 2 0.0 3 2 5 2 0 0 2 2 -6
+p732
+aVLuis Scola HOU 11/17/2007 HOU vs. PHX L 38 20 10 19 52.6 0 0 - 0 0 - 3 8 11 4 1 0 0 4 -9
+p733
+aVRafer Alston HOU 11/17/2007 HOU vs. PHX L 25 7 3 8 37.5 0 1 0.0 1 2 50.0 2 1 3 4 1 0 0 2 -14
+p734
+aVAaron Brooks HOU 11/17/2007 HOU vs. PHX L 3 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p735
+aVShane Battier HOU 11/17/2007 HOU vs. PHX L 31 10 4 8 50.0 2 3 66.7 0 0 - 2 5 7 1 3 0 1 4 -4
+p736
+aVYao Ming HOU 11/17/2007 HOU vs. PHX L 23 12 4 17 23.5 0 0 - 4 6 66.7 1 5 6 2 0 0 3 3 -13
+p737
+aVCharles Hayes HOU 11/17/2007 HOU vs. PHX L 17 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -6
+p738
+aVMike James HOU 11/17/2007 HOU vs. PHX L 25 17 6 12 50.0 2 3 66.7 3 4 75.0 1 2 3 2 0 0 2 2 -14
+p739
+aVKirk Snyder HOU 11/17/2007 HOU vs. PHX L 15 8 3 8 37.5 0 4 0.0 2 4 50.0 1 0 1 3 0 0 1 1 4
+p740
+aVLuther Head HOU 11/17/2007 HOU vs. PHX L 24 16 6 11 54.5 4 7 57.1 0 0 - 1 0 1 1 2 0 0 0 3
+p741
+aVBonzi Wells HOU 11/16/2007 HOU @ SAS L 23 4 1 9 11.1 0 2 0.0 2 2 100.0 0 2 2 0 0 0 2 1 -7
+p742
+aVLuis Scola HOU 11/16/2007 HOU @ SAS L 30 20 10 11 90.9 0 0 - 0 0 - 1 3 4 0 0 0 1 3 3
+p743
+aVLuther Head HOU 11/16/2007 HOU @ SAS L 27 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 3 2 0 2 0 2
+p744
+aVMike James HOU 11/16/2007 HOU @ SAS L 24 10 5 10 50.0 0 1 0.0 0 0 - 1 1 2 2 2 0 0 0 6
+p745
+aVRafer Alston HOU 11/16/2007 HOU @ SAS L 43 9 4 10 40.0 1 5 20.0 0 1 0.0 0 4 4 7 2 0 2 2 -6
+p746
+aVShane Battier HOU 11/16/2007 HOU @ SAS L 40 16 6 11 54.5 2 6 33.3 2 3 66.7 2 3 5 2 2 0 1 2 -13
+p747
+aVCharles Hayes HOU 11/16/2007 HOU @ SAS L 13 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 1 0 1 4 -1
+p748
+aVYao Ming HOU 11/16/2007 HOU @ SAS L 39 14 7 16 43.8 0 0 - 0 0 - 2 7 9 2 0 3 7 3 -14
+p749
+aVKirk Snyder HOU 11/14/2007 HOU vs. LAL L 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p750
+aVShane Battier HOU 11/14/2007 HOU vs. LAL L 23 8 3 9 33.3 2 6 33.3 0 0 - 2 0 2 0 1 0 1 5 2
+p751
+aVBonzi Wells HOU 11/14/2007 HOU vs. LAL L 41 21 7 19 36.8 0 1 0.0 7 12 58.3 4 6 10 2 2 3 2 5 3
+p752
+aVYao Ming HOU 11/14/2007 HOU vs. LAL L 37 26 6 18 33.3 0 0 - 14 20 70.0 7 6 13 5 3 0 1 4 -1
+p753
+aVMike James HOU 11/14/2007 HOU vs. LAL L 20 5 2 10 20.0 1 2 50.0 0 0 - 1 1 2 0 0 0 3 4 -12
+p754
+aVLuis Scola HOU 11/14/2007 HOU vs. LAL L 12 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 1 1 0 1 1 -5
+p755
+aVDikembe Mutombo HOU 11/14/2007 HOU vs. LAL L 11 1 0 1 0.0 0 0 - 1 2 50.0 3 1 4 0 0 0 1 0 -2
+p756
+aVTracy McGrady HOU 11/14/2007 HOU vs. LAL L 19 9 3 7 42.9 2 4 50.0 1 2 50.0 0 1 1 2 1 1 1 1 -3
+p757
+aVCharles Hayes HOU 11/14/2007 HOU vs. LAL L 28 0 0 0 - 0 0 - 0 0 - 2 5 7 1 3 0 0 3 -1
+p758
+aVLuther Head HOU 11/14/2007 HOU vs. LAL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p759
+aVRafer Alston HOU 11/14/2007 HOU vs. LAL L 38 11 5 13 38.5 1 6 16.7 0 1 0.0 0 2 2 7 1 0 2 2 11
+p760
+aVTracy McGrady HOU 11/13/2007 HOU @ MEM L 36 41 16 28 57.1 3 7 42.9 6 10 60.0 0 4 4 4 2 0 1 0 -1
+p761
+aVRafer Alston HOU 11/13/2007 HOU @ MEM L 20 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 6 1 0 1 1 5
+p762
+aVMike James HOU 11/13/2007 HOU @ MEM L 29 10 4 12 33.3 1 3 33.3 1 2 50.0 0 3 3 2 0 1 1 3 -11
+p763
+aVDikembe Mutombo HOU 11/13/2007 HOU @ MEM L 12 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 1 0
+p764
+aVYao Ming HOU 11/13/2007 HOU @ MEM L 35 22 7 12 58.3 0 0 - 8 8 100.0 2 5 7 1 2 1 1 5 -8
+p765
+aVLuis Scola HOU 11/13/2007 HOU @ MEM L 22 6 3 5 60.0 0 0 - 0 0 - 3 1 4 0 0 0 2 4 -10
+p766
+aVShane Battier HOU 11/13/2007 HOU @ MEM L 33 0 0 4 0.0 0 4 0.0 0 0 - 1 3 4 3 1 0 1 3 2
+p767
+aVLuther Head HOU 11/13/2007 HOU @ MEM L 14 5 2 4 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 2 1
+p768
+aVBonzi Wells HOU 11/13/2007 HOU @ MEM L 20 5 2 8 25.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 4 -15
+p769
+aVCharles Hayes HOU 11/13/2007 HOU @ MEM L 19 6 3 3 100.0 0 0 - 0 0 - 1 4 5 0 4 0 0 6 7
+p770
+aVLuis Scola HOU 11/11/2007 HOU @ CHA W 16 6 1 3 33.3 0 0 - 4 4 100.0 1 2 3 0 0 0 0 3 -13
+p771
+aVYao Ming HOU 11/11/2007 HOU @ CHA W 40 34 13 15 86.7 0 0 - 8 8 100.0 2 6 8 4 0 3 6 4 8
+p772
+aVRafer Alston HOU 11/11/2007 HOU @ CHA W 29 6 2 9 22.2 2 5 40.0 0 0 - 1 1 2 3 1 0 1 1 9
+p773
+aVCharles Hayes HOU 11/11/2007 HOU @ CHA W 22 2 1 3 33.3 0 0 - 0 0 - 2 6 8 1 2 1 0 1 7
+p774
+aVLuther Head HOU 11/11/2007 HOU @ CHA W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p775
+aVTracy McGrady HOU 11/11/2007 HOU @ CHA W 36 26 9 20 45.0 1 3 33.3 7 9 77.8 2 6 8 4 1 0 3 0 8
+p776
+aVMike James HOU 11/11/2007 HOU @ CHA W 22 5 1 5 20.0 1 2 50.0 2 2 100.0 0 1 1 2 1 0 3 1 -9
+p777
+aVBonzi Wells HOU 11/11/2007 HOU @ CHA W 26 2 1 6 16.7 0 0 - 0 0 - 0 6 6 3 1 1 3 3 -6
+p778
+aVShane Battier HOU 11/11/2007 HOU @ CHA W 36 2 0 4 0.0 0 3 0.0 2 4 50.0 3 7 10 0 0 2 3 3 16
+p779
+aVBonzi Wells HOU 11/09/2007 HOU vs. MIL W 28 18 7 13 53.8 1 2 50.0 3 3 100.0 2 5 7 1 1 2 1 1 19
+p780
+aVRafer Alston HOU 11/09/2007 HOU vs. MIL W 28 9 2 10 20.0 1 6 16.7 4 4 100.0 1 4 5 2 2 0 2 3 4
+p781
+aVShane Battier HOU 11/09/2007 HOU vs. MIL W 39 15 5 8 62.5 3 6 50.0 2 2 100.0 2 6 8 2 1 2 1 3 8
+p782
+aVYao Ming HOU 11/09/2007 HOU vs. MIL W 39 28 7 16 43.8 0 0 - 14 14 100.0 6 4 10 3 0 3 2 2 13
+p783
+aVMike James HOU 11/09/2007 HOU vs. MIL W 21 5 2 10 20.0 1 6 16.7 0 1 0.0 0 5 5 5 0 0 1 3 12
+p784
+aVLuis Scola HOU 11/09/2007 HOU vs. MIL W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 7
+p785
+aVTracy McGrady HOU 11/09/2007 HOU vs. MIL W 37 21 9 18 50.0 2 4 50.0 1 2 50.0 1 7 8 8 1 1 4 3 10
+p786
+aVLuther Head HOU 11/09/2007 HOU vs. MIL W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 0 10
+p787
+aVCharles Hayes HOU 11/09/2007 HOU vs. MIL W 23 6 3 4 75.0 0 0 - 0 0 - 2 2 4 1 1 1 0 1 -3
+p788
+aVLuis Scola HOU 11/06/2007 HOU vs. SAS W 8 0 0 2 0.0 0 0 - 0 2 0.0 0 3 3 0 0 0 1 3 5
+p789
+aVRafer Alston HOU 11/06/2007 HOU vs. SAS W 28 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 7 0 0 2 1 6
+p790
+aVYao Ming HOU 11/06/2007 HOU vs. SAS W 43 28 12 24 50.0 0 0 - 4 6 66.7 8 5 13 6 0 3 6 3 9
+p791
+aVLuther Head HOU 11/06/2007 HOU vs. SAS W 12 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 0 0 1 1 7
+p792
+aVTracy McGrady HOU 11/06/2007 HOU vs. SAS W 37 12 4 14 28.6 2 4 50.0 2 4 50.0 2 7 9 6 2 0 3 0 -2
+p793
+aVDikembe Mutombo HOU 11/06/2007 HOU vs. SAS W 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 1 0 0 0 -4
+p794
+aVMike James HOU 11/06/2007 HOU vs. SAS W 20 13 4 12 33.3 3 7 42.9 2 2 100.0 1 2 3 1 1 0 1 0 2
+p795
+aVCharles Hayes HOU 11/06/2007 HOU vs. SAS W 20 4 2 7 28.6 0 1 0.0 0 0 - 4 3 7 0 0 0 1 3 -4
+p796
+aVShane Battier HOU 11/06/2007 HOU vs. SAS W 40 12 4 5 80.0 4 5 80.0 0 0 - 0 1 1 2 1 0 1 4 11
+p797
+aVBonzi Wells HOU 11/06/2007 HOU vs. SAS W 27 14 6 11 54.5 0 0 - 2 3 66.7 7 8 15 1 1 1 2 2 10
+p798
+aVLuis Scola HOU 11/05/2007 HOU @ DAL L 25 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 1 2 2 1 -10
+p799
+aVRafer Alston HOU 11/05/2007 HOU @ DAL L 25 8 3 8 37.5 2 5 40.0 0 0 - 0 5 5 1 0 0 0 1 -3
+p800
+aVShane Battier HOU 11/05/2007 HOU @ DAL L 33 7 2 6 33.3 1 3 33.3 2 2 100.0 2 0 2 1 0 2 1 5 -11
+p801
+aVBonzi Wells HOU 11/05/2007 HOU @ DAL L 16 4 1 7 14.3 0 2 0.0 2 2 100.0 3 5 8 4 1 0 3 3 -2
+p802
+aVMike James HOU 11/05/2007 HOU @ DAL L 26 8 4 13 30.8 0 5 0.0 0 0 - 0 1 1 0 1 0 0 0 -6
+p803
+aVTracy McGrady HOU 11/05/2007 HOU @ DAL L 38 35 12 31 38.7 1 5 20.0 10 11 90.9 0 3 3 8 2 0 2 1 -4
+p804
+aVLuther Head HOU 11/05/2007 HOU @ DAL L 14 9 3 3 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 3 -1
+p805
+aVYao Ming HOU 11/05/2007 HOU @ DAL L 38 21 9 12 75.0 0 0 - 3 4 75.0 2 9 11 3 0 2 1 4 -5
+p806
+aVCharles Hayes HOU 11/05/2007 HOU @ DAL L 25 4 2 4 50.0 0 0 - 0 0 - 4 3 7 1 1 1 1 5 -3
+p807
+aVMike James HOU 11/03/2007 HOU vs. POR W 24 17 5 14 35.7 3 7 42.9 4 4 100.0 1 2 3 1 0 0 0 2 -2
+p808
+aVLuther Head HOU 11/03/2007 HOU vs. POR W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 4 0 0 1 1 4
+p809
+aVLuis Scola HOU 11/03/2007 HOU vs. POR W 19 8 4 10 40.0 0 1 0.0 0 2 0.0 4 4 8 2 1 0 1 2 15
+p810
+aVCharles Hayes HOU 11/03/2007 HOU vs. POR W 23 4 2 2 100.0 0 0 - 0 0 - 1 5 6 0 3 0 0 0 2
+p811
+aVRafer Alston HOU 11/03/2007 HOU vs. POR W 24 8 4 9 44.4 0 2 0.0 0 0 - 0 3 3 6 1 0 1 1 11
+p812
+aVBonzi Wells HOU 11/03/2007 HOU vs. POR W 26 6 3 8 37.5 0 1 0.0 0 1 0.0 2 2 4 1 1 0 2 3 -2
+p813
+aVShane Battier HOU 11/03/2007 HOU vs. POR W 36 5 2 7 28.6 1 5 20.0 0 0 - 4 1 5 1 1 0 0 2 2
+p814
+aVTracy McGrady HOU 11/03/2007 HOU vs. POR W 38 20 8 23 34.8 2 5 40.0 2 2 100.0 1 2 3 6 1 0 2 2 5
+p815
+aVYao Ming HOU 11/03/2007 HOU vs. POR W 39 21 8 17 47.1 0 0 - 5 6 83.3 2 10 12 2 0 0 3 5 10
+p816
+aVBonzi Wells HOU 11/01/2007 HOU @ UTA W 15 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 0 0 0 1 3 8
+p817
+aVLuther Head HOU 11/01/2007 HOU @ UTA W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 10
+p818
+aVYao Ming HOU 11/01/2007 HOU @ UTA W 27 11 5 14 35.7 0 0 - 1 1 100.0 1 6 7 1 2 5 6 3 -2
+p819
+aVTracy McGrady HOU 11/01/2007 HOU @ UTA W 40 47 17 27 63.0 2 5 40.0 11 14 78.6 1 3 4 4 0 0 1 2 6
+p820
+aVLuis Scola HOU 11/01/2007 HOU @ UTA W 29 7 3 6 50.0 0 0 - 1 1 100.0 2 7 9 1 1 0 0 3 18
+p821
+aVRafer Alston HOU 11/01/2007 HOU @ UTA W 24 8 3 6 50.0 1 4 25.0 1 3 33.3 0 1 1 1 2 0 2 2 -3
+p822
+aVMike James HOU 11/01/2007 HOU @ UTA W 25 15 3 6 50.0 1 1 100.0 8 9 88.9 0 0 0 7 2 1 0 2 14
+p823
+aVDikembe Mutombo HOU 11/01/2007 HOU @ UTA W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 2
+p824
+aVCharles Hayes HOU 11/01/2007 HOU @ UTA W 32 2 1 3 33.3 0 0 - 0 0 - 3 10 13 3 1 1 1 3 4
+p825
+aVShane Battier HOU 11/01/2007 HOU @ UTA W 34 8 3 8 37.5 1 4 25.0 1 2 50.0 1 1 2 1 1 1 2 4 -2
+p826
+aVLuther Head HOU 10/30/2007 HOU @ LAL W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 7
+p827
+aVCharles Hayes HOU 10/30/2007 HOU @ LAL W 26 4 2 2 100.0 0 0 - 0 1 0.0 2 6 8 0 0 0 0 3 5
+p828
+aVShane Battier HOU 10/30/2007 HOU @ LAL W 37 11 4 11 36.4 2 6 33.3 1 2 50.0 3 2 5 0 2 1 1 6 6
+p829
+aVTracy McGrady HOU 10/30/2007 HOU @ LAL W 40 30 10 20 50.0 0 4 0.0 10 12 83.3 0 6 6 4 0 0 3 4 -4
+p830
+aVMike James HOU 10/30/2007 HOU @ LAL W 26 13 5 10 50.0 3 5 60.0 0 4 0.0 1 1 2 2 3 0 3 2 -3
+p831
+aVLuis Scola HOU 10/30/2007 HOU @ LAL W 9 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -3
+p832
+aVBonzi Wells HOU 10/30/2007 HOU @ LAL W 19 7 3 7 42.9 0 1 0.0 1 2 50.0 2 4 6 2 3 1 2 3 2
+p833
+aVDikembe Mutombo HOU 10/30/2007 HOU @ LAL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p834
+aVRafer Alston HOU 10/30/2007 HOU @ LAL W 29 5 1 6 16.7 1 5 20.0 2 2 100.0 0 7 7 8 1 0 4 1 -3
+p835
+aVYao Ming HOU 10/30/2007 HOU @ LAL W 41 25 9 16 56.3 0 0 - 7 8 87.5 4 8 12 3 1 3 4 5 5
+p836
+a.

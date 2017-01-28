@@ -1,0 +1,1416 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVWillie Green ATL 04/26/2012 ATL vs. DAL W 22 11 4 8 50.0 2 3 66.7 1 1 100.0 0 0 0 2 0 0 2 4 6
+p2
+aVKirk Hinrich ATL 04/26/2012 ATL vs. DAL W 36 12 5 11 45.5 2 6 33.3 0 0 - 0 5 5 3 2 0 1 1 17
+p3
+aVMarvin Williams ATL 04/26/2012 ATL vs. DAL W 23 6 2 9 22.2 1 3 33.3 1 1 100.0 0 2 2 2 1 0 2 0 13
+p4
+aVIvan Johnson ATL 04/26/2012 ATL vs. DAL W 22 10 4 6 66.7 0 1 0.0 2 3 66.7 1 5 6 1 2 1 1 4 13
+p5
+aVJeff Teague ATL 04/26/2012 ATL vs. DAL W 28 17 7 11 63.6 3 4 75.0 0 0 - 0 2 2 5 1 0 0 0 12
+p6
+aVJerry Stackhouse ATL 04/26/2012 ATL vs. DAL W 12 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 1 2 1 -12
+p7
+aVJosh Smith ATL 04/26/2012 ATL vs. DAL W 28 23 10 14 71.4 0 1 0.0 3 4 75.0 2 7 9 7 1 0 1 4 12
+p8
+aVTracy McGrady ATL 04/26/2012 ATL vs. DAL W 14 2 1 3 33.3 0 2 0.0 0 0 - 1 7 8 4 0 0 0 0 10
+p9
+aVErick Dampier ATL 04/26/2012 ATL vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -5
+p10
+aVJason Collins ATL 04/26/2012 ATL vs. DAL W 16 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 12
+p11
+aVVladimir Radmanovic ATL 04/26/2012 ATL vs. DAL W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -8
+p12
+aVJoe Johnson ATL 04/26/2012 ATL vs. DAL W 24 15 7 11 63.6 1 4 25.0 0 0 - 0 4 4 3 0 1 3 0 15
+p13
+aVJoe Johnson ATL 04/24/2012 ATL vs. LAC W 30 28 10 17 58.8 6 9 66.7 2 3 66.7 3 4 7 3 0 0 4 0 0
+p14
+aVTracy McGrady ATL 04/24/2012 ATL vs. LAC W 20 4 2 5 40.0 0 0 - 0 0 - 2 2 4 3 1 0 2 0 3
+p15
+aVJannero Pargo ATL 04/24/2012 ATL vs. LAC W 19 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 3 1 0 0 4 5
+p16
+aVJason Collins ATL 04/24/2012 ATL vs. LAC W 19 2 1 1 100.0 0 0 - 0 0 - 1 2 3 2 0 0 0 3 0
+p17
+aVJeff Teague ATL 04/24/2012 ATL vs. LAC W 29 21 7 12 58.3 1 2 50.0 6 6 100.0 0 3 3 2 1 2 2 4 2
+p18
+aVJosh Smith ATL 04/24/2012 ATL vs. LAC W 32 18 8 17 47.1 0 1 0.0 2 3 66.7 3 7 10 5 1 0 1 1 8
+p19
+aVWillie Green ATL 04/24/2012 ATL vs. LAC W 19 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 1 2 0 0 0 5
+p20
+aVKirk Hinrich ATL 04/24/2012 ATL vs. LAC W 20 8 3 5 60.0 2 4 50.0 0 0 - 1 1 2 2 0 0 1 1 -2
+p21
+aVMarvin Williams ATL 04/24/2012 ATL vs. LAC W 27 11 5 11 45.5 1 3 33.3 0 0 - 2 2 4 3 1 0 2 1 8
+p22
+aVIvan Johnson ATL 04/24/2012 ATL vs. LAC W 25 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 0 0 2 3 3 6
+p23
+aVJosh Smith ATL 04/22/2012 ATL vs. NYK L 37 14 5 13 38.5 1 2 50.0 3 3 100.0 0 5 5 4 0 3 5 3 -1
+p24
+aVWillie Green ATL 04/22/2012 ATL vs. NYK L 18 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 1 0 0 0 -4
+p25
+aVIvan Johnson ATL 04/22/2012 ATL vs. NYK L 13 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 3 0 2 2 -4
+p26
+aVJeff Teague ATL 04/22/2012 ATL vs. NYK L 36 23 9 14 64.3 1 2 50.0 4 6 66.7 0 3 3 6 5 1 4 3 -1
+p27
+aVMarvin Williams ATL 04/22/2012 ATL vs. NYK L 39 29 10 14 71.4 4 6 66.7 5 7 71.4 3 8 11 0 1 3 1 4 7
+p28
+aVKirk Hinrich ATL 04/22/2012 ATL vs. NYK L 28 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 4 1 0 0 1 2
+p29
+aVJoe Johnson ATL 04/22/2012 ATL vs. NYK L 38 22 9 14 64.3 4 4 100.0 0 3 0.0 0 4 4 3 0 0 3 1 -2
+p30
+aVJannero Pargo ATL 04/22/2012 ATL vs. NYK L 12 12 4 8 50.0 4 6 66.7 0 0 - 0 3 3 1 1 0 2 5 0
+p31
+aVTracy McGrady ATL 04/22/2012 ATL vs. NYK L 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 1 0 1
+p32
+aVVladimir Radmanovic ATL 04/22/2012 ATL vs. NYK L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -3
+p33
+aVJeff Teague ATL 04/20/2012 ATL vs. BOS W 20 2 1 6 16.7 0 0 - 0 0 - 0 2 2 5 0 1 1 2 11
+p34
+aVVladimir Radmanovic ATL 04/20/2012 ATL vs. BOS W 9 6 2 3 66.7 1 2 50.0 1 2 50.0 1 1 2 0 0 0 1 1 -1
+p35
+aVIvan Johnson ATL 04/20/2012 ATL vs. BOS W 27 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 1 0 1 2 -8
+p36
+aVJason Collins ATL 04/20/2012 ATL vs. BOS W 25 8 3 5 60.0 0 0 - 2 3 66.7 2 5 7 4 0 0 0 0 13
+p37
+aVJosh Smith ATL 04/20/2012 ATL vs. BOS W 35 19 8 17 47.1 0 1 0.0 3 3 100.0 3 9 12 2 3 3 7 2 7
+p38
+aVJoe Johnson ATL 04/20/2012 ATL vs. BOS W 31 30 11 18 61.1 3 4 75.0 5 5 100.0 2 3 5 6 2 1 0 1 15
+p39
+aVKirk Hinrich ATL 04/20/2012 ATL vs. BOS W 24 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 2 0 0 2 0 -2
+p40
+aVWillie Green ATL 04/20/2012 ATL vs. BOS W 15 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 0 0 1 0 1 -4
+p41
+aVTracy McGrady ATL 04/20/2012 ATL vs. BOS W 14 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 2 0 1 5 0 -1
+p42
+aVJannero Pargo ATL 04/20/2012 ATL vs. BOS W 17 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 3 0 0 1 0 2
+p43
+aVMarvin Williams ATL 04/20/2012 ATL vs. BOS W 23 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 0 1 0 0 0 -7
+p44
+aVIvan Johnson ATL 04/18/2012 ATL vs. DET W 33 16 6 10 60.0 0 0 - 4 6 66.7 1 9 10 0 1 0 1 4 22
+p45
+aVMarvin Williams ATL 04/18/2012 ATL vs. DET W 19 10 3 9 33.3 0 1 0.0 4 4 100.0 1 6 7 0 2 1 0 1 20
+p46
+aVJosh Smith ATL 04/18/2012 ATL vs. DET W 19 12 4 8 50.0 0 1 0.0 4 4 100.0 1 8 9 3 0 1 2 2 11
+p47
+aVJoe Johnson ATL 04/18/2012 ATL vs. DET W 22 13 4 9 44.4 1 5 20.0 4 4 100.0 1 3 4 2 2 0 0 1 21
+p48
+aVJerry Stackhouse ATL 04/18/2012 ATL vs. DET W 12 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 0 1 0 0 0 -3
+p49
+aVWillie Green ATL 04/18/2012 ATL vs. DET W 26 10 3 9 33.3 1 5 20.0 3 4 75.0 1 2 3 3 0 1 0 1 11
+p50
+aVJannero Pargo ATL 04/18/2012 ATL vs. DET W 28 9 4 9 44.4 1 5 20.0 0 0 - 0 2 2 8 2 0 2 2 15
+p51
+aVJason Collins ATL 04/18/2012 ATL vs. DET W 15 7 3 3 100.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 0 10
+p52
+aVKirk Hinrich ATL 04/18/2012 ATL vs. DET W 17 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 2 0 0 0 2 14
+p53
+aVVladimir Radmanovic ATL 04/18/2012 ATL vs. DET W 11 7 3 4 75.0 1 2 50.0 0 0 - 0 4 4 0 0 0 0 3 -5
+p54
+aVJeff Teague ATL 04/18/2012 ATL vs. DET W 21 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 5 1 0 0 1 17
+p55
+aVTracy McGrady ATL 04/18/2012 ATL vs. DET W 17 17 6 10 60.0 1 2 50.0 4 5 80.0 1 3 4 4 1 1 1 0 27
+p56
+aVJason Collins ATL 04/16/2012 ATL @ TOR W 11 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 2 1 0 6
+p57
+aVJeff Teague ATL 04/16/2012 ATL @ TOR W 36 19 6 11 54.5 1 3 33.3 6 8 75.0 0 6 6 10 2 2 1 3 26
+p58
+aVIvan Johnson ATL 04/16/2012 ATL @ TOR W 27 21 9 13 69.2 0 0 - 3 4 75.0 3 5 8 0 0 0 1 0 6
+p59
+aVJannero Pargo ATL 04/16/2012 ATL @ TOR W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 2 0 3
+p60
+aVTracy McGrady ATL 04/16/2012 ATL @ TOR W 21 11 3 7 42.9 1 3 33.3 4 6 66.7 0 4 4 4 1 0 2 0 10
+p61
+aVJoe Johnson ATL 04/16/2012 ATL @ TOR W 37 18 6 13 46.2 2 6 33.3 4 5 80.0 0 2 2 3 0 0 0 1 15
+p62
+aVMarvin Williams ATL 04/16/2012 ATL @ TOR W 34 16 5 11 45.5 1 3 33.3 5 7 71.4 3 2 5 2 2 0 0 1 18
+p63
+aVKirk Hinrich ATL 04/16/2012 ATL @ TOR W 27 6 3 6 50.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 3 4
+p64
+aVJosh Smith ATL 04/16/2012 ATL @ TOR W 33 15 6 15 40.0 0 3 0.0 3 6 50.0 4 5 9 4 2 2 2 3 22
+p65
+aVVladimir Radmanovic ATL 04/16/2012 ATL @ TOR W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 0 2 0
+p66
+aVJannero Pargo ATL 04/15/2012 ATL vs. TOR L 23 6 1 5 20.0 0 3 0.0 4 4 100.0 0 1 1 4 0 0 1 0 -6
+p67
+aVWillie Green ATL 04/15/2012 ATL vs. TOR L 20 14 4 8 50.0 2 4 50.0 4 5 80.0 0 3 3 0 0 0 2 2 -1
+p68
+aVJoe Johnson ATL 04/15/2012 ATL vs. TOR L 31 7 2 12 16.7 1 6 16.7 2 2 100.0 1 2 3 5 0 0 1 1 -17
+p69
+aVJerry Stackhouse ATL 04/15/2012 ATL vs. TOR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p70
+aVJason Collins ATL 04/15/2012 ATL vs. TOR L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -5
+p71
+aVJosh Smith ATL 04/15/2012 ATL vs. TOR L 33 26 11 20 55.0 0 1 0.0 4 7 57.1 0 8 8 2 2 2 3 3 -11
+p72
+aVIvan Johnson ATL 04/15/2012 ATL vs. TOR L 30 14 4 9 44.4 0 0 - 6 9 66.7 3 4 7 3 3 0 2 3 0
+p73
+aVJeff Teague ATL 04/15/2012 ATL vs. TOR L 25 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 1 -10
+p74
+aVMarvin Williams ATL 04/15/2012 ATL vs. TOR L 30 6 2 5 40.0 0 1 0.0 2 2 100.0 2 4 6 3 0 0 2 2 -6
+p75
+aVVladimir Radmanovic ATL 04/15/2012 ATL vs. TOR L 21 8 3 6 50.0 2 5 40.0 0 0 - 1 3 4 0 0 0 0 1 -19
+p76
+aVKirk Hinrich ATL 04/15/2012 ATL vs. TOR L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -6
+p77
+aVJason Collins ATL 04/13/2012 ATL @ ORL W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p78
+aVTracy McGrady ATL 04/13/2012 ATL @ ORL W 25 11 5 7 71.4 1 2 50.0 0 0 - 0 6 6 2 1 0 1 1 31
+p79
+aVJosh Smith ATL 04/13/2012 ATL @ ORL W 28 16 6 12 50.0 0 0 - 4 4 100.0 3 5 8 4 1 0 3 2 23
+p80
+aVJeff Teague ATL 04/13/2012 ATL @ ORL W 14 3 1 4 25.0 0 2 0.0 1 1 100.0 0 1 1 3 0 0 0 4 4
+p81
+aVJoe Johnson ATL 04/13/2012 ATL @ ORL W 30 16 5 9 55.6 2 6 33.3 4 5 80.0 0 4 4 3 1 1 2 0 28
+p82
+aVJerry Stackhouse ATL 04/13/2012 ATL @ ORL W 13 11 4 6 66.7 2 3 66.7 1 1 100.0 0 0 0 1 1 0 2 0 1
+p83
+aVErick Dampier ATL 04/13/2012 ATL @ ORL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p84
+aVVladimir Radmanovic ATL 04/13/2012 ATL @ ORL W 16 3 1 4 25.0 1 4 25.0 0 0 - 0 7 7 1 0 1 1 1 -4
+p85
+aVJannero Pargo ATL 04/13/2012 ATL @ ORL W 29 17 6 10 60.0 5 8 62.5 0 0 - 1 2 3 3 3 0 2 1 14
+p86
+aVKirk Hinrich ATL 04/13/2012 ATL @ ORL W 28 8 3 8 37.5 2 6 33.3 0 0 - 0 5 5 3 1 1 3 2 18
+p87
+aVMarvin Williams ATL 04/13/2012 ATL @ ORL W 31 16 6 12 50.0 1 4 25.0 3 3 100.0 1 3 4 3 1 0 1 0 12
+p88
+aVZaza Pachulia ATL 04/13/2012 ATL @ ORL W 16 8 3 4 75.0 0 0 - 2 2 100.0 0 4 4 2 0 0 0 2 21
+p89
+aVJannero Pargo ATL 04/11/2012 ATL @ BOS L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p90
+aVKirk Hinrich ATL 04/11/2012 ATL @ BOS L 23 5 2 5 40.0 0 2 0.0 1 1 100.0 0 1 1 3 3 0 1 3 13
+p91
+aVJoe Johnson ATL 04/11/2012 ATL @ BOS L 42 14 5 17 29.4 0 5 0.0 4 5 80.0 1 2 3 5 0 0 2 1 7
+p92
+aVJosh Smith ATL 04/11/2012 ATL @ BOS L 42 20 9 19 47.4 1 4 25.0 1 2 50.0 0 11 11 5 0 2 6 1 9
+p93
+aVMarvin Williams ATL 04/11/2012 ATL @ BOS L 29 4 2 7 28.6 0 2 0.0 0 0 - 0 6 6 0 1 0 0 2 -17
+p94
+aVJeff Teague ATL 04/11/2012 ATL @ BOS L 41 21 8 12 66.7 1 1 100.0 4 4 100.0 0 3 3 5 2 1 5 2 0
+p95
+aVWillie Green ATL 04/11/2012 ATL @ BOS L 11 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 1 1 -11
+p96
+aVIvan Johnson ATL 04/11/2012 ATL @ BOS L 13 4 2 4 50.0 0 1 0.0 0 0 - 2 3 5 0 2 0 0 1 -17
+p97
+aVTracy McGrady ATL 04/11/2012 ATL @ BOS L 14 5 1 3 33.3 0 1 0.0 3 4 75.0 1 1 2 0 0 0 1 1 -8
+p98
+aVZaza Pachulia ATL 04/11/2012 ATL @ BOS L 39 13 5 8 62.5 0 0 - 3 7 42.9 2 5 7 2 1 0 0 3 15
+p99
+aVJason Collins ATL 04/07/2012 ATL @ CHA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p100
+aVKirk Hinrich ATL 04/07/2012 ATL @ CHA W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 3 1 0 0 2 6
+p101
+aVMarvin Williams ATL 04/07/2012 ATL @ CHA W 27 14 5 8 62.5 2 3 66.7 2 2 100.0 1 2 3 1 1 0 2 0 13
+p102
+aVIvan Johnson ATL 04/07/2012 ATL @ CHA W 31 17 5 10 50.0 1 1 100.0 6 6 100.0 1 5 6 1 1 1 4 3 11
+p103
+aVJeff Teague ATL 04/07/2012 ATL @ CHA W 23 11 5 8 62.5 0 1 0.0 1 2 50.0 1 0 1 5 0 0 3 2 2
+p104
+aVJerry Stackhouse ATL 04/07/2012 ATL @ CHA W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 1
+p105
+aVJannero Pargo ATL 04/07/2012 ATL @ CHA W 25 15 3 8 37.5 2 6 33.3 7 7 100.0 0 4 4 9 2 1 1 3 18
+p106
+aVWillie Green ATL 04/07/2012 ATL @ CHA W 26 11 4 9 44.4 1 1 100.0 2 2 100.0 1 2 3 0 1 0 1 2 15
+p107
+aVZaza Pachulia ATL 04/07/2012 ATL @ CHA W 38 12 5 6 83.3 0 0 - 2 2 100.0 5 11 16 3 2 2 2 3 29
+p108
+aVJosh Smith ATL 04/07/2012 ATL @ CHA W 23 15 7 17 41.2 0 1 0.0 1 2 50.0 1 2 3 2 1 0 0 4 2
+p109
+aVJoe Johnson ATL 04/07/2012 ATL @ CHA W 22 18 8 10 80.0 2 4 50.0 0 0 - 2 2 4 1 1 0 1 0 5
+p110
+aVZaza Pachulia ATL 04/06/2012 ATL vs. DET W 20 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 1 0 1 4 -17
+p111
+aVJoe Johnson ATL 04/06/2012 ATL vs. DET W 37 16 6 16 37.5 2 7 28.6 2 2 100.0 1 3 4 7 1 0 1 3 25
+p112
+aVWillie Green ATL 04/06/2012 ATL vs. DET W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -20
+p113
+aVJannero Pargo ATL 04/06/2012 ATL vs. DET W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p114
+aVJeff Teague ATL 04/06/2012 ATL vs. DET W 41 24 9 16 56.3 1 4 25.0 5 6 83.3 0 5 5 11 2 1 2 2 20
+p115
+aVJosh Smith ATL 04/06/2012 ATL vs. DET W 42 22 10 20 50.0 0 0 - 2 6 33.3 6 6 12 4 1 3 2 0 13
+p116
+aVIvan Johnson ATL 04/06/2012 ATL vs. DET W 29 16 8 12 66.7 0 0 - 0 1 0.0 2 4 6 1 2 1 4 2 17
+p117
+aVKirk Hinrich ATL 04/06/2012 ATL vs. DET W 24 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 4 2 0 0 3 9
+p118
+aVTracy McGrady ATL 04/06/2012 ATL vs. DET W 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 1 0 0 0 0 -14
+p119
+aVMarvin Williams ATL 04/06/2012 ATL vs. DET W 24 12 2 5 40.0 0 0 - 8 10 80.0 1 4 5 1 0 0 0 2 2
+p120
+aVZaza Pachulia ATL 04/04/2012 ATL vs. CHA W 24 6 2 4 50.0 0 0 - 2 2 100.0 3 8 11 1 2 0 2 4 10
+p121
+aVJeff Teague ATL 04/04/2012 ATL vs. CHA W 30 17 5 10 50.0 0 1 0.0 7 7 100.0 1 2 3 6 1 1 2 1 11
+p122
+aVJosh Smith ATL 04/04/2012 ATL vs. CHA W 27 24 11 17 64.7 0 0 - 2 2 100.0 2 7 9 4 0 0 0 0 14
+p123
+aVJerry Stackhouse ATL 04/04/2012 ATL vs. CHA W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p124
+aVIvan Johnson ATL 04/04/2012 ATL vs. CHA W 19 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 1 18
+p125
+aVJoe Johnson ATL 04/04/2012 ATL vs. CHA W 26 16 7 13 53.8 2 5 40.0 0 0 - 0 0 0 5 1 0 0 1 16
+p126
+aVWillie Green ATL 04/04/2012 ATL vs. CHA W 23 17 5 9 55.6 3 4 75.0 4 4 100.0 0 1 1 0 1 0 0 1 13
+p127
+aVMarvin Williams ATL 04/04/2012 ATL vs. CHA W 21 14 6 7 85.7 1 1 100.0 1 2 50.0 0 3 3 3 0 0 0 4 15
+p128
+aVKirk Hinrich ATL 04/04/2012 ATL vs. CHA W 23 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 0 0 1 2 16
+p129
+aVTracy McGrady ATL 04/04/2012 ATL vs. CHA W 21 0 0 3 0.0 0 1 0.0 0 0 - 0 6 6 5 1 0 0 3 13
+p130
+aVJannero Pargo ATL 04/04/2012 ATL vs. CHA W 16 12 5 7 71.4 2 4 50.0 0 0 - 0 1 1 6 0 0 0 1 11
+p131
+aVJason Collins ATL 04/04/2012 ATL vs. CHA W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -1
+p132
+aVJosh Smith ATL 03/31/2012 ATL @ PHI L 36 34 12 18 66.7 1 1 100.0 9 11 81.8 3 6 9 5 2 1 3 6 2
+p133
+aVMarvin Williams ATL 03/31/2012 ATL @ PHI L 27 6 2 8 25.0 1 4 25.0 1 2 50.0 1 2 3 2 3 0 0 1 -3
+p134
+aVZaza Pachulia ATL 03/31/2012 ATL @ PHI L 24 4 2 7 28.6 0 0 - 0 0 - 2 5 7 0 0 0 0 3 -5
+p135
+aVJoe Johnson ATL 03/31/2012 ATL @ PHI L 45 15 7 13 53.8 1 2 50.0 0 0 - 0 5 5 2 1 0 2 2 -10
+p136
+aVJeff Teague ATL 03/31/2012 ATL @ PHI L 32 8 2 8 25.0 0 1 0.0 4 6 66.7 0 0 0 4 1 0 2 1 8
+p137
+aVIvan Johnson ATL 03/31/2012 ATL @ PHI L 16 7 3 5 60.0 0 0 - 1 1 100.0 1 5 6 0 0 0 1 2 2
+p138
+aVWillie Green ATL 03/31/2012 ATL @ PHI L 18 8 3 7 42.9 1 3 33.3 1 2 50.0 0 2 2 1 0 0 0 1 -8
+p139
+aVKirk Hinrich ATL 03/31/2012 ATL @ PHI L 41 8 4 8 50.0 0 3 0.0 0 0 - 0 3 3 6 0 1 2 3 -11
+p140
+aVIvan Johnson ATL 03/30/2012 ATL vs. NYK W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -6
+p141
+aVJerry Stackhouse ATL 03/30/2012 ATL vs. NYK W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p142
+aVWillie Green ATL 03/30/2012 ATL vs. NYK W 19 20 8 9 88.9 2 3 66.7 2 2 100.0 0 4 4 0 0 0 0 2 6
+p143
+aVKirk Hinrich ATL 03/30/2012 ATL vs. NYK W 21 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 4 2 0 1 4 -6
+p144
+aVJason Collins ATL 03/30/2012 ATL vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p145
+aVMarvin Williams ATL 03/30/2012 ATL vs. NYK W 33 13 4 7 57.1 0 1 0.0 5 5 100.0 1 6 7 1 2 2 0 4 3
+p146
+aVZaza Pachulia ATL 03/30/2012 ATL vs. NYK W 34 5 2 6 33.3 0 0 - 1 1 100.0 4 8 12 0 1 0 1 3 16
+p147
+aVJeff Teague ATL 03/30/2012 ATL vs. NYK W 38 11 5 9 55.6 0 2 0.0 1 2 50.0 0 2 2 7 3 3 5 4 14
+p148
+aVJoe Johnson ATL 03/30/2012 ATL vs. NYK W 39 28 10 20 50.0 2 5 40.0 6 7 85.7 1 5 6 3 1 0 2 0 13
+p149
+aVJosh Smith ATL 03/30/2012 ATL vs. NYK W 42 23 8 19 42.1 0 5 0.0 7 9 77.8 2 4 6 3 2 1 7 5 12
+p150
+aVZaza Pachulia ATL 03/28/2012 ATL vs. CHI L 32 7 3 5 60.0 0 0 - 1 2 50.0 2 8 10 0 1 1 3 3 -3
+p151
+aVJeff Teague ATL 03/28/2012 ATL vs. CHI L 37 13 5 14 35.7 1 4 25.0 2 2 100.0 0 3 3 8 1 1 2 1 -9
+p152
+aVMarvin Williams ATL 03/28/2012 ATL vs. CHI L 26 10 5 9 55.6 0 2 0.0 0 0 - 1 4 5 1 0 0 1 2 -24
+p153
+aVJosh Smith ATL 03/28/2012 ATL vs. CHI L 32 19 8 21 38.1 0 2 0.0 3 3 100.0 2 5 7 2 0 1 3 3 -9
+p154
+aVJerry Stackhouse ATL 03/28/2012 ATL vs. CHI L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p155
+aVWillie Green ATL 03/28/2012 ATL vs. CHI L 21 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 0 0 1 0 0 -18
+p156
+aVIvan Johnson ATL 03/28/2012 ATL vs. CHI L 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 1 0 3 -12
+p157
+aVJason Collins ATL 03/28/2012 ATL vs. CHI L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -15
+p158
+aVKirk Hinrich ATL 03/28/2012 ATL vs. CHI L 28 3 1 6 16.7 1 2 50.0 0 0 - 0 3 3 2 0 1 0 0 -5
+p159
+aVJoe Johnson ATL 03/28/2012 ATL vs. CHI L 28 12 5 11 45.5 2 5 40.0 0 0 - 0 2 2 6 0 0 2 1 -5
+p160
+aVTracy McGrady ATL 03/28/2012 ATL vs. CHI L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p161
+aVKirk Hinrich ATL 03/27/2012 ATL @ MIL L 37 10 4 10 40.0 1 6 16.7 1 1 100.0 0 2 2 4 1 0 2 2 -1
+p162
+aVMarvin Williams ATL 03/27/2012 ATL @ MIL L 26 11 4 11 36.4 2 4 50.0 1 1 100.0 2 4 6 0 0 0 2 1 -14
+p163
+aVZaza Pachulia ATL 03/27/2012 ATL @ MIL L 32 7 3 5 60.0 0 0 - 1 2 50.0 4 3 7 1 1 0 2 2 -5
+p164
+aVIvan Johnson ATL 03/27/2012 ATL @ MIL L 23 17 7 7 100.0 1 1 100.0 2 4 50.0 0 3 3 1 2 0 0 2 -12
+p165
+aVJeff Teague ATL 03/27/2012 ATL @ MIL L 37 15 6 8 75.0 1 3 33.3 2 2 100.0 1 0 1 7 1 0 7 5 -1
+p166
+aVJoe Johnson ATL 03/27/2012 ATL @ MIL L 30 11 4 14 28.6 1 6 16.7 2 3 66.7 1 2 3 8 0 0 3 0 9
+p167
+aVWillie Green ATL 03/27/2012 ATL @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -12
+p168
+aVJosh Smith ATL 03/27/2012 ATL @ MIL L 41 30 14 26 53.8 1 3 33.3 1 4 25.0 4 14 18 5 2 1 4 1 3
+p169
+aVTracy McGrady ATL 03/27/2012 ATL @ MIL L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -2
+p170
+aVIvan Johnson ATL 03/25/2012 ATL vs. UTA W 26 9 3 6 50.0 0 0 - 3 4 75.0 0 5 5 1 0 1 1 2 1
+p171
+aVJeff Teague ATL 03/25/2012 ATL vs. UTA W 53 18 4 14 28.6 0 5 0.0 10 11 90.9 3 4 7 9 0 0 3 3 1
+p172
+aVJason Collins ATL 03/25/2012 ATL vs. UTA W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 5 4
+p173
+aVZaza Pachulia ATL 03/25/2012 ATL vs. UTA W 54 15 6 11 54.5 0 0 - 3 3 100.0 7 13 20 2 1 3 0 5 1
+p174
+aVWillie Green ATL 03/25/2012 ATL vs. UTA W 25 10 3 5 60.0 1 2 50.0 3 4 75.0 1 2 3 1 0 0 0 4 10
+p175
+aVJoe Johnson ATL 03/25/2012 ATL vs. UTA W 55 37 14 28 50.0 4 7 57.1 5 8 62.5 1 7 8 2 1 0 5 2 7
+p176
+aVMarvin Williams ATL 03/25/2012 ATL vs. UTA W 44 16 5 8 62.5 0 0 - 6 7 85.7 1 8 9 2 2 0 1 1 10
+p177
+aVKirk Hinrich ATL 03/25/2012 ATL vs. UTA W 44 12 4 9 44.4 0 2 0.0 4 4 100.0 0 2 2 5 0 1 0 2 -2
+p178
+aVJosh Smith ATL 03/25/2012 ATL vs. UTA W 30 22 9 26 34.6 1 3 33.3 3 6 50.0 2 8 10 6 1 1 1 6 -2
+p179
+aVWillie Green ATL 03/24/2012 ATL @ WAS W 15 3 1 3 33.3 0 1 0.0 1 2 50.0 1 1 2 2 0 0 0 1 6
+p180
+aVJoe Johnson ATL 03/24/2012 ATL @ WAS W 30 16 6 12 50.0 2 4 50.0 2 2 100.0 0 5 5 3 0 0 2 1 -4
+p181
+aVVladimir Radmanovic ATL 03/24/2012 ATL @ WAS W 17 6 2 6 33.3 2 4 50.0 0 0 - 4 0 4 2 0 0 1 1 2
+p182
+aVZaza Pachulia ATL 03/24/2012 ATL @ WAS W 25 13 5 6 83.3 0 0 - 3 6 50.0 1 3 4 1 0 1 1 2 -1
+p183
+aVMarvin Williams ATL 03/24/2012 ATL @ WAS W 25 13 5 11 45.5 1 3 33.3 2 2 100.0 1 2 3 0 1 0 1 0 8
+p184
+aVJason Collins ATL 03/24/2012 ATL @ WAS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p185
+aVKirk Hinrich ATL 03/24/2012 ATL @ WAS W 32 10 4 9 44.4 2 5 40.0 0 0 - 1 6 7 2 0 0 1 4 -6
+p186
+aVJeff Teague ATL 03/24/2012 ATL @ WAS W 37 9 4 10 40.0 0 4 0.0 1 2 50.0 0 1 1 9 1 0 3 5 3
+p187
+aVIvan Johnson ATL 03/24/2012 ATL @ WAS W 18 5 2 2 100.0 0 0 - 1 2 50.0 0 6 6 1 0 0 0 2 8
+p188
+aVJosh Smith ATL 03/24/2012 ATL @ WAS W 35 20 8 17 47.1 0 2 0.0 4 5 80.0 2 7 9 2 3 2 2 1 3
+p189
+aVIvan Johnson ATL 03/23/2012 ATL vs. NJN W 21 5 2 6 33.3 0 1 0.0 1 2 50.0 1 6 7 1 0 0 4 4 -14
+p190
+aVJason Collins ATL 03/23/2012 ATL vs. NJN W 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 5
+p191
+aVMarvin Williams ATL 03/23/2012 ATL vs. NJN W 26 11 5 8 62.5 1 3 33.3 0 1 0.0 1 5 6 0 0 1 1 2 8
+p192
+aVJoe Johnson ATL 03/23/2012 ATL vs. NJN W 41 16 7 17 41.2 1 5 20.0 1 2 50.0 0 2 2 5 0 0 1 1 18
+p193
+aVKirk Hinrich ATL 03/23/2012 ATL vs. NJN W 38 14 5 8 62.5 4 6 66.7 0 0 - 1 3 4 3 1 1 1 2 16
+p194
+aVTracy McGrady ATL 03/23/2012 ATL vs. NJN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p195
+aVJeff Teague ATL 03/23/2012 ATL vs. NJN W 41 17 5 8 62.5 1 2 50.0 6 7 85.7 0 3 3 6 1 0 0 3 5
+p196
+aVWillie Green ATL 03/23/2012 ATL vs. NJN W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -5
+p197
+aVJerry Stackhouse ATL 03/23/2012 ATL vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p198
+aVJosh Smith ATL 03/23/2012 ATL vs. NJN W 40 30 12 25 48.0 0 3 0.0 6 8 75.0 2 10 12 4 1 2 1 2 23
+p199
+aVKirk Hinrich ATL 03/21/2012 ATL vs. CLE W 38 10 4 13 30.8 2 5 40.0 0 0 - 1 3 4 3 2 0 1 6 -7
+p200
+aVJerry Stackhouse ATL 03/21/2012 ATL vs. CLE W 11 10 4 7 57.1 2 4 50.0 0 0 - 1 0 1 1 2 0 1 1 3
+p201
+aVTracy McGrady ATL 03/21/2012 ATL vs. CLE W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p202
+aVJason Collins ATL 03/21/2012 ATL vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -12
+p203
+aVZaza Pachulia ATL 03/21/2012 ATL vs. CLE W 48 14 5 12 41.7 0 0 - 4 4 100.0 4 3 7 1 2 1 2 4 13
+p204
+aVJoe Johnson ATL 03/21/2012 ATL vs. CLE W 45 22 7 19 36.8 3 7 42.9 5 6 83.3 0 6 6 5 2 2 0 1 0
+p205
+aVWillie Green ATL 03/21/2012 ATL vs. CLE W 15 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 3 6
+p206
+aVJeff Teague ATL 03/21/2012 ATL vs. CLE W 44 12 6 9 66.7 0 0 - 0 0 - 1 1 2 7 4 0 1 5 1
+p207
+aVJosh Smith ATL 03/21/2012 ATL vs. CLE W 51 32 10 29 34.5 0 3 0.0 12 14 85.7 4 13 17 5 0 3 1 2 4
+p208
+aVJosh Smith ATL 03/19/2012 ATL vs. BOS L 38 10 5 20 25.0 0 3 0.0 0 0 - 1 10 11 8 2 0 1 1 6
+p209
+aVJason Collins ATL 03/19/2012 ATL vs. BOS L 10 0 0 1 0.0 0 0 - 0 4 0.0 1 3 4 0 0 0 2 1 -8
+p210
+aVJerry Stackhouse ATL 03/19/2012 ATL vs. BOS L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p211
+aVZaza Pachulia ATL 03/19/2012 ATL vs. BOS L 39 16 4 7 57.1 0 0 - 8 9 88.9 4 9 13 0 3 0 2 2 -1
+p212
+aVJeff Teague ATL 03/19/2012 ATL vs. BOS L 42 8 4 13 30.8 0 2 0.0 0 0 - 0 5 5 3 0 0 2 4 2
+p213
+aVKirk Hinrich ATL 03/19/2012 ATL vs. BOS L 37 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 3 0 1 3 3 5
+p214
+aVTracy McGrady ATL 03/19/2012 ATL vs. BOS L 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -7
+p215
+aVJoe Johnson ATL 03/19/2012 ATL vs. BOS L 36 25 9 17 52.9 4 5 80.0 3 4 75.0 2 4 6 1 0 0 7 5 -1
+p216
+aVIvan Johnson ATL 03/19/2012 ATL vs. BOS L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p217
+aVJosh Smith ATL 03/18/2012 ATL @ CLE W 29 7 3 15 20.0 1 4 25.0 0 0 - 1 7 8 9 0 1 1 3 12
+p218
+aVJason Collins ATL 03/18/2012 ATL @ CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p219
+aVKirk Hinrich ATL 03/18/2012 ATL @ CLE W 37 14 6 10 60.0 2 4 50.0 0 0 - 0 3 3 1 0 1 2 1 11
+p220
+aVIvan Johnson ATL 03/18/2012 ATL @ CLE W 24 10 5 5 100.0 0 0 - 0 1 0.0 2 2 4 2 0 2 2 4 10
+p221
+aVErick Dampier ATL 03/18/2012 ATL @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p222
+aVTracy McGrady ATL 03/18/2012 ATL @ CLE W 26 8 4 9 44.4 0 1 0.0 0 0 - 1 5 6 1 1 0 1 0 14
+p223
+aVJoe Johnson ATL 03/18/2012 ATL @ CLE W 35 28 11 16 68.8 3 4 75.0 3 4 75.0 0 4 4 5 1 0 2 1 11
+p224
+aVJeff Teague ATL 03/18/2012 ATL @ CLE W 36 18 8 14 57.1 2 5 40.0 0 0 - 0 3 3 2 1 2 1 3 10
+p225
+aVJerry Stackhouse ATL 03/18/2012 ATL @ CLE W 9 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 0 1 0 0 0 2
+p226
+aVZaza Pachulia ATL 03/18/2012 ATL @ CLE W 40 9 3 11 27.3 0 0 - 3 4 75.0 5 7 12 2 1 1 2 4 10
+p227
+aVJosh Smith ATL 03/16/2012 ATL vs. WAS W 40 23 9 17 52.9 2 4 50.0 3 4 75.0 1 6 7 8 3 0 1 2 22
+p228
+aVJeff Teague ATL 03/16/2012 ATL vs. WAS W 43 14 6 13 46.2 1 5 20.0 1 1 100.0 1 4 5 4 5 2 2 1 22
+p229
+aVZaza Pachulia ATL 03/16/2012 ATL vs. WAS W 37 10 4 10 40.0 0 0 - 2 4 50.0 3 7 10 7 3 0 3 4 12
+p230
+aVVladimir Radmanovic ATL 03/16/2012 ATL vs. WAS W 5 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 1 1 -2
+p231
+aVTracy McGrady ATL 03/16/2012 ATL vs. WAS W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p232
+aVJannero Pargo ATL 03/16/2012 ATL vs. WAS W 14 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p233
+aVIvan Johnson ATL 03/16/2012 ATL vs. WAS W 15 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -4
+p234
+aVJoe Johnson ATL 03/16/2012 ATL vs. WAS W 37 34 12 19 63.2 6 8 75.0 4 4 100.0 2 4 6 5 1 0 2 1 17
+p235
+aVKirk Hinrich ATL 03/16/2012 ATL vs. WAS W 41 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 5 0 1 0 1 6
+p236
+aVJeff Teague ATL 03/14/2012 ATL @ LAC L 37 10 3 11 27.3 0 4 0.0 4 6 66.7 0 3 3 5 1 0 0 2 -9
+p237
+aVTracy McGrady ATL 03/14/2012 ATL @ LAC L 25 9 3 6 50.0 2 3 66.7 1 2 50.0 1 3 4 3 1 0 4 3 -9
+p238
+aVJannero Pargo ATL 03/14/2012 ATL @ LAC L 15 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 0 0 0 3 3 -8
+p239
+aVJoe Johnson ATL 03/14/2012 ATL @ LAC L 39 19 7 15 46.7 2 7 28.6 3 4 75.0 0 1 1 5 0 0 2 0 -11
+p240
+aVJerry Stackhouse ATL 03/14/2012 ATL @ LAC L 13 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -13
+p241
+aVErick Dampier ATL 03/14/2012 ATL @ LAC L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 3
+p242
+aVZaza Pachulia ATL 03/14/2012 ATL @ LAC L 35 12 5 8 62.5 0 0 - 2 2 100.0 3 7 10 1 0 0 1 1 -11
+p243
+aVJosh Smith ATL 03/14/2012 ATL @ LAC L 33 18 6 14 42.9 2 4 50.0 4 4 100.0 3 3 6 4 3 1 3 3 0
+p244
+aVKirk Hinrich ATL 03/14/2012 ATL @ LAC L 35 4 1 5 20.0 0 1 0.0 2 2 100.0 0 5 5 2 0 0 2 2 -12
+p245
+aVKirk Hinrich ATL 03/13/2012 ATL @ DEN L 41 22 7 8 87.5 3 4 75.0 5 6 83.3 0 0 0 4 1 0 1 1 1
+p246
+aVJeff Teague ATL 03/13/2012 ATL @ DEN L 46 9 2 8 25.0 1 3 33.3 4 4 100.0 0 5 5 8 0 0 2 2 6
+p247
+aVZaza Pachulia ATL 03/13/2012 ATL @ DEN L 45 6 3 8 37.5 0 0 - 0 0 - 5 8 13 2 0 0 1 3 1
+p248
+aVErick Dampier ATL 03/13/2012 ATL @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p249
+aVJoe Johnson ATL 03/13/2012 ATL @ DEN L 41 34 13 26 50.0 6 10 60.0 2 2 100.0 1 1 2 3 1 0 5 2 4
+p250
+aVJosh Smith ATL 03/13/2012 ATL @ DEN L 36 33 13 23 56.5 2 3 66.7 5 5 100.0 4 9 13 7 1 2 1 6 6
+p251
+aVJannero Pargo ATL 03/13/2012 ATL @ DEN L 17 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 3 1 0 1 1 -11
+p252
+aVMarvin Williams ATL 03/13/2012 ATL @ DEN L 23 10 4 10 40.0 1 2 50.0 1 2 50.0 0 2 2 2 3 0 0 0 5
+p253
+aVVladimir Radmanovic ATL 03/13/2012 ATL @ DEN L 11 0 0 4 0.0 0 4 0.0 0 0 - 1 1 2 1 0 0 1 4 -11
+p254
+aVMarvin Williams ATL 03/11/2012 ATL @ SAC W 24 12 5 11 45.5 0 3 0.0 2 3 66.7 1 4 5 1 1 1 1 3 6
+p255
+aVErick Dampier ATL 03/11/2012 ATL @ SAC W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 1 2 1
+p256
+aVKirk Hinrich ATL 03/11/2012 ATL @ SAC W 42 12 5 10 50.0 2 5 40.0 0 0 - 2 1 3 4 1 0 1 2 7
+p257
+aVJoe Johnson ATL 03/11/2012 ATL @ SAC W 38 21 5 13 38.5 2 4 50.0 9 9 100.0 0 3 3 6 5 0 4 0 2
+p258
+aVJeff Teague ATL 03/11/2012 ATL @ SAC W 38 16 7 11 63.6 1 1 100.0 1 3 33.3 0 2 2 7 3 1 3 0 15
+p259
+aVVladimir Radmanovic ATL 03/11/2012 ATL @ SAC W 16 5 2 5 40.0 1 2 50.0 0 0 - 2 8 10 0 0 0 1 0 2
+p260
+aVZaza Pachulia ATL 03/11/2012 ATL @ SAC W 30 10 4 6 66.7 0 0 - 2 2 100.0 3 10 13 1 1 0 2 6 -2
+p261
+aVJosh Smith ATL 03/11/2012 ATL @ SAC W 40 28 13 23 56.5 1 5 20.0 1 6 16.7 2 4 6 3 3 2 0 3 9
+p262
+aVJannero Pargo ATL 03/11/2012 ATL @ SAC W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -5
+p263
+aVJoe Johnson ATL 03/09/2012 ATL @ DET L 36 18 6 12 50.0 1 5 20.0 5 5 100.0 1 1 2 4 3 0 2 1 7
+p264
+aVZaza Pachulia ATL 03/09/2012 ATL @ DET L 15 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 2 0 1 3 -5
+p265
+aVMarvin Williams ATL 03/09/2012 ATL @ DET L 35 16 5 11 45.5 4 7 57.1 2 3 66.7 2 2 4 3 0 1 0 1 8
+p266
+aVErick Dampier ATL 03/09/2012 ATL @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p267
+aVKirk Hinrich ATL 03/09/2012 ATL @ DET L 17 9 3 5 60.0 1 1 100.0 2 2 100.0 0 0 0 1 1 0 0 4 -10
+p268
+aVJannero Pargo ATL 03/09/2012 ATL @ DET L 11 3 1 6 16.7 1 2 50.0 0 0 - 1 1 2 0 0 0 0 0 -6
+p269
+aVJeff Teague ATL 03/09/2012 ATL @ DET L 31 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 2 2 1 1 9
+p270
+aVVladimir Radmanovic ATL 03/09/2012 ATL @ DET L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p271
+aVTracy McGrady ATL 03/09/2012 ATL @ DET L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 0 -17
+p272
+aVJosh Smith ATL 03/09/2012 ATL @ DET L 36 21 8 19 42.1 1 2 50.0 4 8 50.0 1 6 7 3 1 2 2 5 11
+p273
+aVIvan Johnson ATL 03/09/2012 ATL @ DET L 30 10 5 7 71.4 0 0 - 0 2 0.0 2 2 4 2 5 0 1 0 0
+p274
+aVJosh Smith ATL 03/07/2012 ATL @ MIA L 38 23 9 22 40.9 1 4 25.0 4 4 100.0 2 4 6 2 2 1 1 3 2
+p275
+aVJannero Pargo ATL 03/07/2012 ATL @ MIA L 14 9 3 5 60.0 2 3 66.7 1 1 100.0 0 2 2 3 1 0 3 3 -8
+p276
+aVKirk Hinrich ATL 03/07/2012 ATL @ MIA L 28 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 2 2 0 2 2 -6
+p277
+aVVladimir Radmanovic ATL 03/07/2012 ATL @ MIA L 12 5 2 7 28.6 1 4 25.0 0 0 - 1 1 2 0 0 0 1 0 1
+p278
+aVJeff Teague ATL 03/07/2012 ATL @ MIA L 32 16 8 12 66.7 0 3 0.0 0 0 - 1 3 4 2 1 0 5 3 4
+p279
+aVIvan Johnson ATL 03/07/2012 ATL @ MIA L 19 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 2 3 -7
+p280
+aVErick Dampier ATL 03/07/2012 ATL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 0
+p281
+aVZaza Pachulia ATL 03/07/2012 ATL @ MIA L 42 9 4 9 44.4 0 0 - 1 2 50.0 2 8 10 3 2 0 3 3 -9
+p282
+aVMarvin Williams ATL 03/07/2012 ATL @ MIA L 31 7 2 5 40.0 1 2 50.0 2 2 100.0 1 2 3 2 0 0 0 4 8
+p283
+aVJerry Stackhouse ATL 03/07/2012 ATL @ MIA L 18 10 4 8 50.0 2 4 50.0 0 0 - 0 0 0 0 1 0 3 0 0
+p284
+aVZaza Pachulia ATL 03/06/2012 ATL @ IND W 29 12 4 7 57.1 0 0 - 4 4 100.0 2 8 10 1 1 1 2 4 -2
+p285
+aVErick Dampier ATL 03/06/2012 ATL @ IND W 12 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 2
+p286
+aVJeff Teague ATL 03/06/2012 ATL @ IND W 39 9 3 10 30.0 0 2 0.0 3 6 50.0 1 3 4 9 1 0 3 1 -1
+p287
+aVKirk Hinrich ATL 03/06/2012 ATL @ IND W 18 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 0 1 2 3 10
+p288
+aVIvan Johnson ATL 03/06/2012 ATL @ IND W 11 9 3 5 60.0 0 0 - 3 3 100.0 2 2 4 0 0 0 2 4 -1
+p289
+aVTracy McGrady ATL 03/06/2012 ATL @ IND W 20 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 6 1 1 0 4 -7
+p290
+aVJerry Stackhouse ATL 03/06/2012 ATL @ IND W 15 3 0 4 0.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 0 3
+p291
+aVVladimir Radmanovic ATL 03/06/2012 ATL @ IND W 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p292
+aVMarvin Williams ATL 03/06/2012 ATL @ IND W 29 12 4 11 36.4 2 5 40.0 2 2 100.0 2 4 6 0 1 1 0 4 9
+p293
+aVJosh Smith ATL 03/06/2012 ATL @ IND W 39 27 12 19 63.2 2 4 50.0 1 2 50.0 3 6 9 2 1 1 1 3 9
+p294
+aVJannero Pargo ATL 03/06/2012 ATL @ IND W 24 16 6 13 46.2 4 7 57.1 0 0 - 1 2 3 0 0 0 1 3 3
+p295
+aVVladimir Radmanovic ATL 03/03/2012 ATL vs. OKC W 14 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 2 0 0 0 2 9
+p296
+aVIvan Johnson ATL 03/03/2012 ATL vs. OKC W 21 8 4 10 40.0 0 0 - 0 0 - 0 5 5 3 1 0 1 3 5
+p297
+aVJosh Smith ATL 03/03/2012 ATL vs. OKC W 37 30 10 22 45.5 1 1 100.0 9 13 69.2 1 11 12 4 1 1 5 4 -2
+p298
+aVJeff Teague ATL 03/03/2012 ATL vs. OKC W 33 16 7 13 53.8 1 3 33.3 1 2 50.0 0 2 2 2 3 0 2 3 6
+p299
+aVJerry Stackhouse ATL 03/03/2012 ATL vs. OKC W 20 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 5 2 0 1 0 -2
+p300
+aVJannero Pargo ATL 03/03/2012 ATL vs. OKC W 17 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 1 0 0 0 0 4
+p301
+aVMarvin Williams ATL 03/03/2012 ATL vs. OKC W 30 9 2 7 28.6 0 2 0.0 5 5 100.0 1 2 3 1 1 1 0 2 -1
+p302
+aVTracy McGrady ATL 03/03/2012 ATL vs. OKC W 2 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 1
+p303
+aVZaza Pachulia ATL 03/03/2012 ATL vs. OKC W 41 10 5 11 45.5 0 0 - 0 0 - 9 5 14 2 1 0 3 4 9
+p304
+aVKirk Hinrich ATL 03/03/2012 ATL vs. OKC W 26 10 4 7 57.1 2 2 100.0 0 0 - 0 2 2 1 0 0 0 4 6
+p305
+aVIvan Johnson ATL 03/02/2012 ATL vs. MIL W 16 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 2 0 2 3 5
+p306
+aVKirk Hinrich ATL 03/02/2012 ATL vs. MIL W 25 7 3 8 37.5 1 4 25.0 0 0 - 0 3 3 3 1 0 5 1 -12
+p307
+aVJeff Teague ATL 03/02/2012 ATL vs. MIL W 32 11 4 11 36.4 0 1 0.0 3 4 75.0 0 3 3 2 1 0 3 2 -7
+p308
+aVTracy McGrady ATL 03/02/2012 ATL vs. MIL W 26 9 4 9 44.4 1 1 100.0 0 0 - 4 7 11 5 0 0 2 1 11
+p309
+aVVladimir Radmanovic ATL 03/02/2012 ATL vs. MIL W 16 9 3 4 75.0 3 4 75.0 0 0 - 0 4 4 2 0 0 3 4 13
+p310
+aVJosh Smith ATL 03/02/2012 ATL vs. MIL W 35 24 10 19 52.6 0 1 0.0 4 5 80.0 4 15 19 4 0 3 5 3 -2
+p311
+aVZaza Pachulia ATL 03/02/2012 ATL vs. MIL W 23 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 2 -4
+p312
+aVMarvin Williams ATL 03/02/2012 ATL vs. MIL W 27 10 4 9 44.4 2 5 40.0 0 0 - 0 2 2 1 2 1 1 0 -6
+p313
+aVJerry Stackhouse ATL 03/02/2012 ATL vs. MIL W 23 8 2 7 28.6 0 4 0.0 4 4 100.0 0 0 0 0 1 0 1 1 17
+p314
+aVJannero Pargo ATL 03/02/2012 ATL vs. MIL W 18 11 5 11 45.5 1 3 33.3 0 0 - 0 1 1 2 0 0 1 2 10
+p315
+aVWillie Green ATL 02/29/2012 ATL vs. GSW L 21 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 2 0 0 0 3 -8
+p316
+aVZaza Pachulia ATL 02/29/2012 ATL vs. GSW L 38 13 5 14 35.7 0 0 - 3 5 60.0 5 11 16 3 0 2 1 2 4
+p317
+aVIvan Johnson ATL 02/29/2012 ATL vs. GSW L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -7
+p318
+aVKirk Hinrich ATL 02/29/2012 ATL vs. GSW L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 4 -11
+p319
+aVJoe Johnson ATL 02/29/2012 ATL vs. GSW L 38 18 6 17 35.3 2 7 28.6 4 4 100.0 2 2 4 2 0 1 3 0 5
+p320
+aVJannero Pargo ATL 02/29/2012 ATL vs. GSW L 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p321
+aVMarvin Williams ATL 02/29/2012 ATL vs. GSW L 41 11 5 15 33.3 0 3 0.0 1 2 50.0 7 5 12 1 2 0 0 2 -5
+p322
+aVJosh Smith ATL 02/29/2012 ATL vs. GSW L 39 14 5 20 25.0 0 2 0.0 4 8 50.0 2 8 10 2 0 2 2 1 8
+p323
+aVTracy McGrady ATL 02/29/2012 ATL vs. GSW L 7 1 0 2 0.0 0 1 0.0 1 4 25.0 0 1 1 1 0 0 0 0 -9
+p324
+aVJeff Teague ATL 02/29/2012 ATL vs. GSW L 37 15 6 14 42.9 2 4 50.0 1 1 100.0 1 3 4 4 2 1 1 2 7
+p325
+aVZaza Pachulia ATL 02/23/2012 ATL vs. ORL W 40 4 1 6 16.7 0 0 - 2 2 100.0 6 7 13 4 2 0 3 4 5
+p326
+aVTracy McGrady ATL 02/23/2012 ATL vs. ORL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 6
+p327
+aVJosh Smith ATL 02/23/2012 ATL vs. ORL W 43 22 8 22 36.4 1 1 100.0 5 8 62.5 2 10 12 1 1 2 4 1 -2
+p328
+aVMarvin Williams ATL 02/23/2012 ATL vs. ORL W 22 2 0 3 0.0 0 1 0.0 2 2 100.0 2 4 6 1 1 0 0 0 -1
+p329
+aVIvan Johnson ATL 02/23/2012 ATL vs. ORL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p330
+aVKirk Hinrich ATL 02/23/2012 ATL vs. ORL W 25 6 3 9 33.3 0 2 0.0 0 0 - 1 3 4 4 1 2 2 2 1
+p331
+aVJeff Teague ATL 02/23/2012 ATL vs. ORL W 29 13 5 12 41.7 0 1 0.0 3 6 50.0 0 2 2 2 0 0 1 2 -2
+p332
+aVVladimir Radmanovic ATL 02/23/2012 ATL vs. ORL W 26 5 1 5 20.0 1 4 25.0 2 2 100.0 0 1 1 1 2 0 2 1 6
+p333
+aVWillie Green ATL 02/23/2012 ATL vs. ORL W 24 14 6 10 60.0 2 4 50.0 0 0 - 0 5 5 1 0 0 4 1 4
+p334
+aVJannero Pargo ATL 02/23/2012 ATL vs. ORL W 19 15 6 9 66.7 3 4 75.0 0 0 - 0 3 3 2 1 0 1 1 7
+p335
+aVWillie Green ATL 02/22/2012 ATL @ NYK L 31 16 7 16 43.8 1 5 20.0 1 1 100.0 0 4 4 4 1 0 2 1 -13
+p336
+aVErick Dampier ATL 02/22/2012 ATL @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p337
+aVZaza Pachulia ATL 02/22/2012 ATL @ NYK L 22 2 1 4 25.0 0 0 - 0 0 - 3 1 4 2 2 0 1 3 -6
+p338
+aVJeff Teague ATL 02/22/2012 ATL @ NYK L 29 18 7 12 58.3 2 5 40.0 2 4 50.0 0 1 1 0 3 1 3 0 -8
+p339
+aVTracy McGrady ATL 02/22/2012 ATL @ NYK L 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -21
+p340
+aVIvan Johnson ATL 02/22/2012 ATL @ NYK L 17 2 1 5 20.0 0 1 0.0 0 0 - 2 6 8 2 1 0 5 3 -3
+p341
+aVJosh Smith ATL 02/22/2012 ATL @ NYK L 34 13 5 13 38.5 0 2 0.0 3 4 75.0 4 3 7 3 4 1 4 3 -25
+p342
+aVKirk Hinrich ATL 02/22/2012 ATL @ NYK L 15 5 1 2 50.0 1 2 50.0 2 3 66.7 1 1 2 0 1 0 3 3 -5
+p343
+aVJannero Pargo ATL 02/22/2012 ATL @ NYK L 19 6 2 8 25.0 1 6 16.7 1 2 50.0 0 1 1 1 1 0 4 3 -9
+p344
+aVMarvin Williams ATL 02/22/2012 ATL @ NYK L 27 0 0 6 0.0 0 1 0.0 0 0 - 1 3 4 1 1 0 0 3 -2
+p345
+aVVladimir Radmanovic ATL 02/22/2012 ATL @ NYK L 16 7 3 5 60.0 1 3 33.3 0 1 0.0 1 4 5 1 0 0 0 1 3
+p346
+aVJerry Stackhouse ATL 02/22/2012 ATL @ NYK L 12 7 2 5 40.0 2 4 50.0 1 3 33.3 0 1 1 0 0 0 1 1 3
+p347
+aVWillie Green ATL 02/20/2012 ATL @ CHI L 18 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -9
+p348
+aVKirk Hinrich ATL 02/20/2012 ATL @ CHI L 30 5 2 8 25.0 1 4 25.0 0 2 0.0 1 3 4 2 3 0 2 2 -2
+p349
+aVTracy McGrady ATL 02/20/2012 ATL @ CHI L 22 6 2 3 66.7 1 1 100.0 1 4 25.0 0 5 5 3 0 3 2 0 10
+p350
+aVIvan Johnson ATL 02/20/2012 ATL @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p351
+aVJannero Pargo ATL 02/20/2012 ATL @ CHI L 26 19 7 12 58.3 5 8 62.5 0 0 - 2 3 5 1 1 0 2 1 3
+p352
+aVErick Dampier ATL 02/20/2012 ATL @ CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p353
+aVJoe Johnson ATL 02/20/2012 ATL @ CHI L 26 12 5 11 45.5 0 3 0.0 2 2 100.0 0 2 2 4 0 0 2 2 -21
+p354
+aVZaza Pachulia ATL 02/20/2012 ATL @ CHI L 36 8 2 5 40.0 0 0 - 4 8 50.0 1 6 7 1 0 2 1 4 -12
+p355
+aVJosh Smith ATL 02/20/2012 ATL @ CHI L 46 17 7 21 33.3 0 1 0.0 3 5 60.0 4 8 12 5 2 3 2 5 -8
+p356
+aVVladimir Radmanovic ATL 02/20/2012 ATL @ CHI L 12 0 0 5 0.0 0 4 0.0 0 0 - 0 5 5 1 0 2 0 0 -5
+p357
+aVJeff Teague ATL 02/20/2012 ATL @ CHI L 22 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 1 2 0 2 1 -14
+p358
+aVZaza Pachulia ATL 02/18/2012 ATL @ POR L 28 8 2 5 40.0 0 0 - 4 6 66.7 3 7 10 3 2 1 1 4 -12
+p359
+aVJeff Teague ATL 02/18/2012 ATL @ POR L 30 5 1 10 10.0 0 3 0.0 3 3 100.0 0 0 0 4 0 1 0 1 -15
+p360
+aVMarvin Williams ATL 02/18/2012 ATL @ POR L 25 10 4 7 57.1 2 4 50.0 0 0 - 0 2 2 0 0 0 1 2 -13
+p361
+aVKirk Hinrich ATL 02/18/2012 ATL @ POR L 20 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 3 3 0 1 2 -4
+p362
+aVVladimir Radmanovic ATL 02/18/2012 ATL @ POR L 22 1 0 3 0.0 0 3 0.0 1 1 100.0 0 1 1 1 0 1 0 4 -2
+p363
+aVJosh Smith ATL 02/18/2012 ATL @ POR L 41 14 7 14 50.0 0 2 0.0 0 0 - 1 9 10 9 2 1 3 3 -15
+p364
+aVJannero Pargo ATL 02/18/2012 ATL @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p365
+aVIvan Johnson ATL 02/18/2012 ATL @ POR L 5 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -7
+p366
+aVWillie Green ATL 02/18/2012 ATL @ POR L 23 17 7 9 77.8 2 3 66.7 1 1 100.0 0 0 0 1 0 0 1 1 -7
+p367
+aVTracy McGrady ATL 02/18/2012 ATL @ POR L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -3
+p368
+aVJoe Johnson ATL 02/18/2012 ATL @ POR L 38 19 8 17 47.1 3 9 33.3 0 0 - 0 3 3 2 1 0 1 1 -19
+p369
+aVJosh Smith ATL 02/15/2012 ATL @ PHX W 45 30 12 23 52.2 2 3 66.7 4 6 66.7 3 14 17 7 4 3 4 3 13
+p370
+aVJoe Johnson ATL 02/15/2012 ATL @ PHX W 36 6 2 10 20.0 1 5 20.0 1 1 100.0 0 0 0 3 1 0 2 1 -13
+p371
+aVErick Dampier ATL 02/15/2012 ATL @ PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p372
+aVZaza Pachulia ATL 02/15/2012 ATL @ PHX W 34 15 6 9 66.7 0 0 - 3 4 75.0 2 2 4 0 2 2 3 4 -13
+p373
+aVVladimir Radmanovic ATL 02/15/2012 ATL @ PHX W 15 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 3 15
+p374
+aVIvan Johnson ATL 02/15/2012 ATL @ PHX W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -8
+p375
+aVWillie Green ATL 02/15/2012 ATL @ PHX W 34 20 5 8 62.5 4 6 66.7 6 6 100.0 1 3 4 1 3 0 3 5 7
+p376
+aVMarvin Williams ATL 02/15/2012 ATL @ PHX W 20 4 2 5 40.0 0 0 - 0 0 - 0 4 4 2 1 0 0 0 2
+p377
+aVJeff Teague ATL 02/15/2012 ATL @ PHX W 24 16 7 12 58.3 2 3 66.7 0 0 - 0 1 1 5 2 0 1 2 -7
+p378
+aVKirk Hinrich ATL 02/15/2012 ATL @ PHX W 25 5 2 8 25.0 0 1 0.0 1 1 100.0 0 1 1 3 1 0 0 2 9
+p379
+aVZaza Pachulia ATL 02/14/2012 ATL @ LAL L 27 1 0 2 0.0 0 0 - 1 2 50.0 4 6 10 1 4 1 1 4 -13
+p380
+aVJeff Teague ATL 02/14/2012 ATL @ LAL L 34 18 6 16 37.5 2 5 40.0 4 4 100.0 0 2 2 2 3 2 1 2 -4
+p381
+aVErick Dampier ATL 02/14/2012 ATL @ LAL L 16 0 0 3 0.0 0 0 - 0 0 - 2 2 4 1 1 1 0 0 -1
+p382
+aVJosh Smith ATL 02/14/2012 ATL @ LAL L 32 15 7 18 38.9 0 2 0.0 1 4 25.0 2 7 9 3 2 3 3 2 8
+p383
+aVVladimir Radmanovic ATL 02/14/2012 ATL @ LAL L 28 9 3 8 37.5 3 6 50.0 0 0 - 2 4 6 0 1 1 1 1 -6
+p384
+aVMarvin Williams ATL 02/14/2012 ATL @ LAL L 25 4 2 8 25.0 0 1 0.0 0 0 - 3 3 6 0 0 0 1 2 -6
+p385
+aVKirk Hinrich ATL 02/14/2012 ATL @ LAL L 14 5 2 6 33.3 0 3 0.0 1 2 50.0 0 1 1 2 0 0 0 1 -4
+p386
+aVJoe Johnson ATL 02/14/2012 ATL @ LAL L 37 15 7 17 41.2 1 8 12.5 0 0 - 1 2 3 5 0 0 2 1 -2
+p387
+aVWillie Green ATL 02/14/2012 ATL @ LAL L 11 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 0 -6
+p388
+aVTracy McGrady ATL 02/14/2012 ATL @ LAL L 15 5 2 6 33.3 1 1 100.0 0 0 - 3 3 6 0 0 0 2 2 -6
+p389
+aVErick Dampier ATL 02/12/2012 ATL vs. MIA L 6 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 8
+p390
+aVKirk Hinrich ATL 02/12/2012 ATL vs. MIA L 19 6 2 7 28.6 0 4 0.0 2 3 66.7 0 1 1 1 0 0 1 1 -6
+p391
+aVMarvin Williams ATL 02/12/2012 ATL vs. MIA L 18 6 2 9 22.2 2 5 40.0 0 0 - 0 3 3 0 0 0 2 1 -19
+p392
+aVJerry Stackhouse ATL 02/12/2012 ATL vs. MIA L 9 7 3 8 37.5 1 1 100.0 0 0 - 2 0 2 0 0 0 0 0 5
+p393
+aVWillie Green ATL 02/12/2012 ATL vs. MIA L 26 17 7 12 58.3 3 3 100.0 0 0 - 1 2 3 3 0 0 1 3 7
+p394
+aVIvan Johnson ATL 02/12/2012 ATL vs. MIA L 10 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 0 2 0 1 1 -10
+p395
+aVJannero Pargo ATL 02/12/2012 ATL vs. MIA L 13 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 5 1 0 3 0 8
+p396
+aVZaza Pachulia ATL 02/12/2012 ATL vs. MIA L 30 8 4 4 100.0 0 0 - 0 0 - 4 5 9 2 1 1 1 3 -24
+p397
+aVJeff Teague ATL 02/12/2012 ATL vs. MIA L 20 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 2 0 1 1 2 -19
+p398
+aVVladimir Radmanovic ATL 02/12/2012 ATL vs. MIA L 15 6 2 3 66.7 2 3 66.7 0 0 - 0 3 3 0 0 0 1 1 10
+p399
+aVTracy McGrady ATL 02/12/2012 ATL vs. MIA L 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -6
+p400
+aVJoe Johnson ATL 02/12/2012 ATL vs. MIA L 30 12 5 13 38.5 0 4 0.0 2 2 100.0 0 0 0 5 0 0 1 1 -27
+p401
+aVJosh Smith ATL 02/12/2012 ATL vs. MIA L 34 8 4 12 33.3 0 1 0.0 0 0 - 2 5 7 7 0 2 0 5 -27
+p402
+aVIvan Johnson ATL 02/10/2012 ATL @ ORL W 6 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 0 3 -4
+p403
+aVTracy McGrady ATL 02/10/2012 ATL @ ORL W 16 9 4 7 57.1 0 0 - 1 2 50.0 0 1 1 2 0 0 2 0 -2
+p404
+aVJannero Pargo ATL 02/10/2012 ATL @ ORL W 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 1
+p405
+aVVladimir Radmanovic ATL 02/10/2012 ATL @ ORL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p406
+aVWillie Green ATL 02/10/2012 ATL @ ORL W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p407
+aVJeff Teague ATL 02/10/2012 ATL @ ORL W 39 13 6 11 54.5 1 2 50.0 0 0 - 0 0 0 2 3 0 1 5 11
+p408
+aVJoe Johnson ATL 02/10/2012 ATL @ ORL W 40 14 6 16 37.5 1 3 33.3 1 1 100.0 0 0 0 5 0 0 1 2 4
+p409
+aVErick Dampier ATL 02/10/2012 ATL @ ORL W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p410
+aVZaza Pachulia ATL 02/10/2012 ATL @ ORL W 43 9 3 6 50.0 0 0 - 3 4 75.0 1 9 10 2 1 0 0 4 0
+p411
+aVKirk Hinrich ATL 02/10/2012 ATL @ ORL W 14 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 2 0 1 1 -7
+p412
+aVMarvin Williams ATL 02/10/2012 ATL @ ORL W 35 13 4 8 50.0 3 6 50.0 2 4 50.0 3 3 6 3 0 1 0 0 6
+p413
+aVJosh Smith ATL 02/10/2012 ATL @ ORL W 47 23 9 22 40.9 1 2 50.0 4 6 66.7 1 18 19 5 0 3 4 0 8
+p414
+aVMarvin Williams ATL 02/08/2012 ATL vs. IND W 23 5 2 7 28.6 1 4 25.0 0 0 - 2 5 7 1 0 0 1 2 10
+p415
+aVTracy McGrady ATL 02/08/2012 ATL vs. IND W 22 13 4 6 66.7 1 2 50.0 4 4 100.0 1 1 2 2 0 0 1 1 5
+p416
+aVJeff Teague ATL 02/08/2012 ATL vs. IND W 26 5 1 4 25.0 0 0 - 3 4 75.0 0 5 5 4 0 1 1 4 -2
+p417
+aVWillie Green ATL 02/08/2012 ATL vs. IND W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p418
+aVIvan Johnson ATL 02/08/2012 ATL vs. IND W 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 2 2 -6
+p419
+aVJosh Smith ATL 02/08/2012 ATL vs. IND W 46 28 11 17 64.7 2 2 100.0 4 6 66.7 2 10 12 3 5 3 5 2 12
+p420
+aVZaza Pachulia ATL 02/08/2012 ATL vs. IND W 38 9 2 6 33.3 0 0 - 5 8 62.5 3 5 8 2 2 1 1 4 16
+p421
+aVVladimir Radmanovic ATL 02/08/2012 ATL vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p422
+aVKirk Hinrich ATL 02/08/2012 ATL vs. IND W 22 17 7 9 77.8 3 5 60.0 0 0 - 1 1 2 4 1 0 2 3 12
+p423
+aVJoe Johnson ATL 02/08/2012 ATL vs. IND W 44 20 8 23 34.8 2 6 33.3 2 2 100.0 3 3 6 8 0 0 2 2 12
+p424
+aVIvan Johnson ATL 02/06/2012 ATL vs. PHX L 15 9 4 9 44.4 0 0 - 1 2 50.0 2 3 5 0 0 0 0 2 -8
+p425
+aVJeff Teague ATL 02/06/2012 ATL vs. PHX L 28 6 3 8 37.5 0 2 0.0 0 0 - 1 0 1 1 0 0 0 3 -8
+p426
+aVZaza Pachulia ATL 02/06/2012 ATL vs. PHX L 26 7 2 7 28.6 0 0 - 3 3 100.0 4 4 8 2 3 1 1 4 3
+p427
+aVJannero Pargo ATL 02/06/2012 ATL vs. PHX L 6 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 2 0 1 0 1 7
+p428
+aVWillie Green ATL 02/06/2012 ATL vs. PHX L 17 14 6 11 54.5 2 5 40.0 0 0 - 0 1 1 1 0 0 0 0 0
+p429
+aVKirk Hinrich ATL 02/06/2012 ATL vs. PHX L 20 4 1 5 20.0 0 2 0.0 2 3 66.7 0 2 2 2 0 0 2 1 -4
+p430
+aVVladimir Radmanovic ATL 02/06/2012 ATL vs. PHX L 19 0 0 5 0.0 0 3 0.0 0 0 - 0 4 4 3 0 0 0 0 -8
+p431
+aVTracy McGrady ATL 02/06/2012 ATL vs. PHX L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -13
+p432
+aVJosh Smith ATL 02/06/2012 ATL vs. PHX L 30 18 6 12 50.0 1 1 100.0 5 6 83.3 2 3 5 3 2 0 1 0 -9
+p433
+aVMarvin Williams ATL 02/06/2012 ATL vs. PHX L 32 8 3 8 37.5 0 3 0.0 2 2 100.0 0 5 5 2 0 0 1 2 4
+p434
+aVJerry Stackhouse ATL 02/06/2012 ATL vs. PHX L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p435
+aVJoe Johnson ATL 02/06/2012 ATL vs. PHX L 33 17 6 13 46.2 2 5 40.0 3 3 100.0 1 2 3 3 2 0 2 1 -16
+p436
+aVMarvin Williams ATL 02/04/2012 ATL vs. PHI L 20 8 3 5 60.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 2 0 -13
+p437
+aVJoe Johnson ATL 02/04/2012 ATL vs. PHI L 37 16 7 16 43.8 1 3 33.3 1 2 50.0 2 3 5 3 0 0 3 2 -11
+p438
+aVKirk Hinrich ATL 02/04/2012 ATL vs. PHI L 19 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 5
+p439
+aVJeff Teague ATL 02/04/2012 ATL vs. PHI L 38 21 6 12 50.0 2 3 66.7 7 8 87.5 0 2 2 6 0 0 3 1 -6
+p440
+aVJosh Smith ATL 02/04/2012 ATL vs. PHI L 37 9 2 11 18.2 0 1 0.0 5 8 62.5 0 10 10 5 1 7 3 2 -14
+p441
+aVWillie Green ATL 02/04/2012 ATL vs. PHI L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p442
+aVIvan Johnson ATL 02/04/2012 ATL vs. PHI L 25 14 7 11 63.6 0 0 - 0 1 0.0 6 7 13 0 0 0 2 1 3
+p443
+aVZaza Pachulia ATL 02/04/2012 ATL vs. PHI L 23 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 2 1 -14
+p444
+aVTracy McGrady ATL 02/04/2012 ATL vs. PHI L 17 7 2 6 33.3 0 1 0.0 3 4 75.0 0 3 3 3 0 0 0 1 -3
+p445
+aVVladimir Radmanovic ATL 02/04/2012 ATL vs. PHI L 18 3 1 3 33.3 1 3 33.3 0 2 0.0 2 4 6 1 1 0 0 0 5
+p446
+aVJerry Stackhouse ATL 02/02/2012 ATL vs. MEM L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 10
+p447
+aVTracy McGrady ATL 02/02/2012 ATL vs. MEM L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 1 1 1 -5
+p448
+aVIvan Johnson ATL 02/02/2012 ATL vs. MEM L 29 10 4 11 36.4 0 0 - 2 2 100.0 2 7 9 0 0 2 2 2 2
+p449
+aVJoe Johnson ATL 02/02/2012 ATL vs. MEM L 28 10 4 10 40.0 2 4 50.0 0 0 - 0 4 4 1 1 0 2 0 -27
+p450
+aVJason Collins ATL 02/02/2012 ATL vs. MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p451
+aVKirk Hinrich ATL 02/02/2012 ATL vs. MEM L 19 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 3 1 0 2 3 -9
+p452
+aVJosh Smith ATL 02/02/2012 ATL vs. MEM L 19 11 5 9 55.6 0 0 - 1 3 33.3 1 4 5 2 1 0 3 1 -17
+p453
+aVJannero Pargo ATL 02/02/2012 ATL vs. MEM L 13 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 4 1 0 2 1 7
+p454
+aVMarvin Williams ATL 02/02/2012 ATL vs. MEM L 21 9 4 6 66.7 1 2 50.0 0 0 - 2 1 3 0 1 0 0 1 -17
+p455
+aVVladimir Radmanovic ATL 02/02/2012 ATL vs. MEM L 23 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 3 -1
+p456
+aVJeff Teague ATL 02/02/2012 ATL vs. MEM L 20 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 4 0 1 0 1 -20
+p457
+aVZaza Pachulia ATL 02/02/2012 ATL vs. MEM L 21 7 3 3 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 3 -16
+p458
+aVWillie Green ATL 02/02/2012 ATL vs. MEM L 23 9 4 11 36.4 1 4 25.0 0 0 - 0 5 5 1 1 1 0 0 2
+p459
+aVIvan Johnson ATL 01/31/2012 ATL @ TOR W 22 5 2 6 33.3 0 0 - 1 2 50.0 2 4 6 2 0 1 2 3 7
+p460
+aVMarvin Williams ATL 01/31/2012 ATL @ TOR W 22 10 4 11 36.4 2 4 50.0 0 0 - 2 2 4 3 1 1 0 2 10
+p461
+aVWillie Green ATL 01/31/2012 ATL @ TOR W 18 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 1 1 0 0 1 8
+p462
+aVJosh Smith ATL 01/31/2012 ATL @ TOR W 29 7 3 7 42.9 0 1 0.0 1 2 50.0 2 4 6 2 1 2 4 2 15
+p463
+aVJoe Johnson ATL 01/31/2012 ATL @ TOR W 30 30 13 17 76.5 3 5 60.0 1 1 100.0 1 1 2 4 0 0 2 0 18
+p464
+aVKirk Hinrich ATL 01/31/2012 ATL @ TOR W 16 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 2 0 0 0 0 16
+p465
+aVZaza Pachulia ATL 01/31/2012 ATL @ TOR W 26 10 5 6 83.3 0 0 - 0 0 - 0 6 6 0 0 0 1 0 13
+p466
+aVJeff Teague ATL 01/31/2012 ATL @ TOR W 27 10 5 11 45.5 0 1 0.0 0 0 - 1 2 3 5 2 0 1 2 9
+p467
+aVJannero Pargo ATL 01/31/2012 ATL @ TOR W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p468
+aVVladimir Radmanovic ATL 01/31/2012 ATL @ TOR W 19 0 0 1 0.0 0 0 - 0 0 - 1 4 5 1 2 1 1 4 8
+p469
+aVJerry Stackhouse ATL 01/31/2012 ATL @ TOR W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -2
+p470
+aVTracy McGrady ATL 01/31/2012 ATL @ TOR W 21 15 5 7 71.4 1 2 50.0 4 4 100.0 0 4 4 1 1 1 4 1 15
+p471
+aVZaza Pachulia ATL 01/29/2012 ATL @ NOH W 25 5 1 2 50.0 0 0 - 3 4 75.0 2 5 7 1 0 3 2 3 20
+p472
+aVMarvin Williams ATL 01/29/2012 ATL @ NOH W 24 14 5 8 62.5 3 4 75.0 1 1 100.0 1 1 2 3 3 0 0 1 13
+p473
+aVKirk Hinrich ATL 01/29/2012 ATL @ NOH W 14 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 1 5
+p474
+aVJannero Pargo ATL 01/29/2012 ATL @ NOH W 5 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -7
+p475
+aVJeff Teague ATL 01/29/2012 ATL @ NOH W 29 24 9 11 81.8 4 4 100.0 2 2 100.0 0 1 1 4 1 0 1 2 27
+p476
+aVVladimir Radmanovic ATL 01/29/2012 ATL @ NOH W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p477
+aVIvan Johnson ATL 01/29/2012 ATL @ NOH W 18 9 3 6 50.0 0 0 - 3 3 100.0 1 2 3 2 2 1 2 2 12
+p478
+aVJason Collins ATL 01/29/2012 ATL @ NOH W 23 0 0 3 0.0 0 0 - 0 0 - 3 2 5 1 1 1 1 2 -1
+p479
+aVJosh Smith ATL 01/29/2012 ATL @ NOH W 25 6 3 10 30.0 0 0 - 0 4 0.0 3 5 8 1 0 4 3 4 17
+p480
+aVJoe Johnson ATL 01/29/2012 ATL @ NOH W 30 9 4 15 26.7 0 4 0.0 1 3 33.3 2 7 9 3 1 0 2 1 27
+p481
+aVWillie Green ATL 01/29/2012 ATL @ NOH W 18 16 6 11 54.5 4 7 57.1 0 0 - 0 1 1 0 0 0 0 1 -5
+p482
+aVTracy McGrady ATL 01/29/2012 ATL @ NOH W 19 4 2 6 33.3 0 0 - 0 0 - 1 2 3 3 1 0 1 0 16
+p483
+aVJerry Stackhouse ATL 01/29/2012 ATL @ NOH W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p484
+aVJosh Smith ATL 01/27/2012 ATL @ DET W 44 19 6 16 37.5 1 2 50.0 6 8 75.0 2 9 11 8 1 3 1 5 8
+p485
+aVIvan Johnson ATL 01/27/2012 ATL @ DET W 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -2
+p486
+aVTracy McGrady ATL 01/27/2012 ATL @ DET W 18 7 3 5 60.0 0 0 - 1 1 100.0 0 5 5 3 0 0 1 0 2
+p487
+aVKirk Hinrich ATL 01/27/2012 ATL @ DET W 32 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 9 0 0 3 2 6
+p488
+aVWillie Green ATL 01/27/2012 ATL @ DET W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -1
+p489
+aVZaza Pachulia ATL 01/27/2012 ATL @ DET W 35 16 8 12 66.7 0 0 - 0 2 0.0 2 7 9 1 0 1 2 3 10
+p490
+aVVladimir Radmanovic ATL 01/27/2012 ATL @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p491
+aVJoe Johnson ATL 01/27/2012 ATL @ DET W 46 30 11 23 47.8 3 6 50.0 5 6 83.3 2 3 5 3 1 0 2 4 4
+p492
+aVJeff Teague ATL 01/27/2012 ATL @ DET W 21 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 1 3 2 0
+p493
+aVMarvin Williams ATL 01/27/2012 ATL @ DET W 35 22 6 9 66.7 5 6 83.3 5 8 62.5 1 7 8 1 0 0 1 2 4
+p494
+aVJason Collins ATL 01/27/2012 ATL @ DET W 16 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 0 1 0 0
+p495
+aVTracy McGrady ATL 01/25/2012 ATL @ SAS L 15 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -18
+p496
+aVJannero Pargo ATL 01/25/2012 ATL @ SAS L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p497
+aVWillie Green ATL 01/25/2012 ATL @ SAS L 17 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 -20
+p498
+aVJoe Johnson ATL 01/25/2012 ATL @ SAS L 31 10 5 12 41.7 0 3 0.0 0 0 - 0 0 0 7 0 1 3 0 -2
+p499
+aVVladimir Radmanovic ATL 01/25/2012 ATL @ SAS L 17 2 0 2 0.0 0 2 0.0 2 2 100.0 0 3 3 0 0 1 3 2 -22
+p500
+aVMarvin Williams ATL 01/25/2012 ATL @ SAS L 27 8 3 6 50.0 2 3 66.7 0 0 - 1 8 9 1 0 1 2 2 -3
+p501
+aVJosh Smith ATL 01/25/2012 ATL @ SAS L 31 13 6 17 35.3 0 1 0.0 1 2 50.0 1 4 5 1 2 1 3 2 0
+p502
+aVJeff Teague ATL 01/25/2012 ATL @ SAS L 29 20 9 13 69.2 1 3 33.3 1 2 50.0 1 4 5 0 3 1 0 1 -1
+p503
+aVJerry Stackhouse ATL 01/25/2012 ATL @ SAS L 6 5 2 4 50.0 1 1 100.0 0 0 - 2 0 2 1 0 1 0 0 -1
+p504
+aVIvan Johnson ATL 01/25/2012 ATL @ SAS L 21 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 2 1 2 2 4 -19
+p505
+aVKirk Hinrich ATL 01/25/2012 ATL @ SAS L 13 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 1 0 2 0 -20
+p506
+aVZaza Pachulia ATL 01/25/2012 ATL @ SAS L 27 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 0 1 0 1 4 -3
+p507
+aVWillie Green ATL 01/23/2012 ATL @ MIL W 7 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -7
+p508
+aVJoe Johnson ATL 01/23/2012 ATL @ MIL W 41 26 9 21 42.9 0 2 0.0 8 8 100.0 2 3 5 1 2 0 2 1 12
+p509
+aVZaza Pachulia ATL 01/23/2012 ATL @ MIL W 38 9 4 9 44.4 0 0 - 1 1 100.0 2 12 14 1 1 0 0 5 3
+p510
+aVIvan Johnson ATL 01/23/2012 ATL @ MIL W 9 4 1 2 50.0 0 0 - 2 4 50.0 0 0 0 2 0 0 1 2 0
+p511
+aVJosh Smith ATL 01/23/2012 ATL @ MIL W 40 19 7 14 50.0 1 1 100.0 4 5 80.0 1 12 13 4 1 3 0 3 15
+p512
+aVJeff Teague ATL 01/23/2012 ATL @ MIL W 41 15 7 15 46.7 0 1 0.0 1 1 100.0 2 4 6 5 0 0 6 2 9
+p513
+aVVladimir Radmanovic ATL 01/23/2012 ATL @ MIL W 8 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 1 0 1 1 -10
+p514
+aVTracy McGrady ATL 01/23/2012 ATL @ MIL W 26 4 2 5 40.0 0 0 - 0 0 - 0 3 3 5 0 0 0 3 1
+p515
+aVJannero Pargo ATL 01/23/2012 ATL @ MIL W 7 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p516
+aVMarvin Williams ATL 01/23/2012 ATL @ MIL W 22 8 3 7 42.9 0 2 0.0 2 2 100.0 0 4 4 1 2 0 1 0 6
+p517
+aVJeff Teague ATL 01/21/2012 ATL vs. CLE W 27 14 5 8 62.5 0 1 0.0 4 5 80.0 0 0 0 5 2 0 0 2 26
+p518
+aVIvan Johnson ATL 01/21/2012 ATL vs. CLE W 24 11 5 8 62.5 0 0 - 1 1 100.0 1 5 6 0 1 0 0 3 6
+p519
+aVJosh Smith ATL 01/21/2012 ATL vs. CLE W 28 8 2 9 22.2 0 1 0.0 4 6 66.7 1 10 11 5 4 1 1 2 23
+p520
+aVJerry Stackhouse ATL 01/21/2012 ATL vs. CLE W 6 6 1 3 33.3 0 1 0.0 4 4 100.0 0 0 0 0 0 0 0 0 -4
+p521
+aVWillie Green ATL 01/21/2012 ATL vs. CLE W 18 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 1 1 0 1 1 0
+p522
+aVTracy McGrady ATL 01/21/2012 ATL vs. CLE W 22 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 0 1 1 0 15
+p523
+aVMarvin Williams ATL 01/21/2012 ATL vs. CLE W 20 12 5 6 83.3 1 2 50.0 1 2 50.0 0 3 3 1 0 1 2 0 14
+p524
+aVZaza Pachulia ATL 01/21/2012 ATL vs. CLE W 29 13 6 7 85.7 0 0 - 1 2 50.0 5 1 6 4 2 0 2 2 27
+p525
+aVVladimir Radmanovic ATL 01/21/2012 ATL vs. CLE W 6 6 2 2 100.0 2 2 100.0 0 0 - 1 0 1 0 0 0 0 2 1
+p526
+aVJoe Johnson ATL 01/21/2012 ATL vs. CLE W 30 25 10 18 55.6 5 9 55.6 0 0 - 0 3 3 4 0 0 2 1 27
+p527
+aVJason Collins ATL 01/21/2012 ATL vs. CLE W 8 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 1 -1
+p528
+aVJannero Pargo ATL 01/21/2012 ATL vs. CLE W 15 14 6 9 66.7 2 3 66.7 0 0 - 0 2 2 6 1 0 0 2 5
+p529
+aVDonald Sloan ATL 01/21/2012 ATL vs. CLE W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -4
+p530
+aVMarvin Williams ATL 01/20/2012 ATL @ PHI L 26 4 2 9 22.2 0 0 - 0 0 - 0 5 5 2 1 0 1 2 -11
+p531
+aVJosh Smith ATL 01/20/2012 ATL @ PHI L 32 10 5 15 33.3 0 1 0.0 0 0 - 1 5 6 4 0 2 2 1 -14
+p532
+aVJoe Johnson ATL 01/20/2012 ATL @ PHI L 31 8 3 8 37.5 1 2 50.0 1 1 100.0 0 4 4 1 0 0 2 2 -14
+p533
+aVJerry Stackhouse ATL 01/20/2012 ATL @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 0
+p534
+aVIvan Johnson ATL 01/20/2012 ATL @ PHI L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p535
+aVZaza Pachulia ATL 01/20/2012 ATL @ PHI L 20 5 2 3 66.7 0 0 - 1 1 100.0 1 2 3 2 0 0 2 4 -11
+p536
+aVJason Collins ATL 01/20/2012 ATL @ PHI L 19 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -3
+p537
+aVJeff Teague ATL 01/20/2012 ATL @ PHI L 32 12 5 10 50.0 1 3 33.3 1 2 50.0 0 0 0 6 5 0 2 1 -14
+p538
+aVDonald Sloan ATL 01/20/2012 ATL @ PHI L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p539
+aVVladimir Radmanovic ATL 01/20/2012 ATL @ PHI L 17 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 2 0 0 0 1 1
+p540
+aVWillie Green ATL 01/20/2012 ATL @ PHI L 20 14 6 7 85.7 2 2 100.0 0 0 - 0 2 2 1 1 0 2 1 -2
+p541
+aVJannero Pargo ATL 01/20/2012 ATL @ PHI L 12 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 0
+p542
+aVTracy McGrady ATL 01/20/2012 ATL @ PHI L 18 10 3 7 42.9 0 0 - 4 4 100.0 0 4 4 2 0 0 2 2 -3
+p543
+aVIvan Johnson ATL 01/18/2012 ATL vs. POR W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p544
+aVJannero Pargo ATL 01/18/2012 ATL vs. POR W 11 8 4 4 100.0 0 0 - 0 0 - 0 1 1 1 0 0 3 1 5
+p545
+aVZaza Pachulia ATL 01/18/2012 ATL vs. POR W 27 5 2 5 40.0 0 0 - 1 2 50.0 2 9 11 0 0 1 1 4 2
+p546
+aVJoe Johnson ATL 01/18/2012 ATL vs. POR W 38 24 8 19 42.1 4 7 57.1 4 4 100.0 1 6 7 5 2 1 1 2 5
+p547
+aVJason Collins ATL 01/18/2012 ATL vs. POR W 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p548
+aVWillie Green ATL 01/18/2012 ATL vs. POR W 11 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p549
+aVMarvin Williams ATL 01/18/2012 ATL vs. POR W 21 12 3 8 37.5 0 1 0.0 6 8 75.0 1 7 8 1 0 0 1 1 -5
+p550
+aVTracy McGrady ATL 01/18/2012 ATL vs. POR W 27 8 3 6 50.0 0 0 - 2 3 66.7 1 5 6 2 0 1 1 1 8
+p551
+aVJosh Smith ATL 01/18/2012 ATL vs. POR W 42 17 8 17 47.1 0 1 0.0 1 2 50.0 0 11 11 3 2 3 3 3 8
+p552
+aVJeff Teague ATL 01/18/2012 ATL vs. POR W 37 13 3 5 60.0 0 1 0.0 7 8 87.5 0 1 1 5 0 1 4 2 -2
+p553
+aVVladimir Radmanovic ATL 01/16/2012 ATL vs. TOR W 11 6 2 2 100.0 1 1 100.0 1 2 50.0 2 1 3 2 0 0 0 1 9
+p554
+aVJeff Teague ATL 01/16/2012 ATL vs. TOR W 41 13 5 13 38.5 1 1 100.0 2 4 50.0 0 2 2 6 4 1 5 2 4
+p555
+aVZaza Pachulia ATL 01/16/2012 ATL vs. TOR W 18 6 0 0 - 0 0 - 6 6 100.0 0 3 3 0 0 0 0 2 8
+p556
+aVTracy McGrady ATL 01/16/2012 ATL vs. TOR W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 1 0 0 10
+p557
+aVIvan Johnson ATL 01/16/2012 ATL vs. TOR W 22 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 4
+p558
+aVJannero Pargo ATL 01/16/2012 ATL vs. TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p559
+aVJoe Johnson ATL 01/16/2012 ATL vs. TOR W 36 27 9 20 45.0 3 8 37.5 6 7 85.7 1 4 5 6 2 3 1 2 7
+p560
+aVWillie Green ATL 01/16/2012 ATL vs. TOR W 22 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 0 0 1 0 3 -1
+p561
+aVMarvin Williams ATL 01/16/2012 ATL vs. TOR W 22 5 0 5 0.0 0 2 0.0 5 6 83.3 0 5 5 0 0 0 0 1 -8
+p562
+aVJosh Smith ATL 01/16/2012 ATL vs. TOR W 42 28 13 19 68.4 0 0 - 2 4 50.0 3 12 15 2 0 1 4 2 1
+p563
+aVJason Collins ATL 01/16/2012 ATL vs. TOR W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 3
+p564
+aVVladimir Radmanovic ATL 01/14/2012 ATL vs. MIN W 22 4 1 6 16.7 1 5 20.0 1 1 100.0 3 4 7 3 1 1 0 0 16
+p565
+aVWillie Green ATL 01/14/2012 ATL vs. MIN W 18 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 1 0 0 1 0 6
+p566
+aVMarvin Williams ATL 01/14/2012 ATL vs. MIN W 19 8 3 6 50.0 0 1 0.0 2 2 100.0 2 6 8 1 0 0 2 1 -10
+p567
+aVIvan Johnson ATL 01/14/2012 ATL vs. MIN W 26 10 1 4 25.0 0 0 - 8 8 100.0 4 7 11 0 2 0 0 2 19
+p568
+aVJason Collins ATL 01/14/2012 ATL vs. MIN W 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 1 10
+p569
+aVJannero Pargo ATL 01/14/2012 ATL vs. MIN W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p570
+aVZaza Pachulia ATL 01/14/2012 ATL vs. MIN W 20 6 3 3 100.0 0 0 - 0 0 - 3 2 5 0 1 0 3 4 -11
+p571
+aVDonald Sloan ATL 01/14/2012 ATL vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 4
+p572
+aVJosh Smith ATL 01/14/2012 ATL vs. MIN W 35 8 4 13 30.8 0 1 0.0 0 3 0.0 1 7 8 3 1 4 5 3 -14
+p573
+aVJoe Johnson ATL 01/14/2012 ATL vs. MIN W 38 25 8 20 40.0 3 6 50.0 6 7 85.7 1 4 5 3 0 0 0 1 -8
+p574
+aVJeff Teague ATL 01/14/2012 ATL vs. MIN W 42 20 7 15 46.7 1 3 33.3 5 6 83.3 0 3 3 10 3 1 6 1 -4
+p575
+aVJosh Smith ATL 01/12/2012 ATL vs. CHA W 39 30 14 22 63.6 0 0 - 2 6 33.3 4 9 13 3 1 0 1 3 23
+p576
+aVDonald Sloan ATL 01/12/2012 ATL vs. CHA W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 8
+p577
+aVJeff Teague ATL 01/12/2012 ATL vs. CHA W 34 16 7 16 43.8 2 4 50.0 0 0 - 2 4 6 7 1 1 1 1 26
+p578
+aVVladimir Radmanovic ATL 01/12/2012 ATL vs. CHA W 36 7 3 7 42.9 1 4 25.0 0 0 - 3 5 8 3 1 1 1 1 18
+p579
+aVJason Collins ATL 01/12/2012 ATL vs. CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p580
+aVZaza Pachulia ATL 01/12/2012 ATL vs. CHA W 32 10 2 5 40.0 0 0 - 6 7 85.7 3 7 10 4 0 1 2 1 19
+p581
+aVJerry Stackhouse ATL 01/12/2012 ATL vs. CHA W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 12
+p582
+aVWillie Green ATL 01/12/2012 ATL vs. CHA W 21 11 4 8 50.0 1 3 33.3 2 2 100.0 1 2 3 0 3 0 1 1 8
+p583
+aVJannero Pargo ATL 01/12/2012 ATL vs. CHA W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p584
+aVIvan Johnson ATL 01/12/2012 ATL vs. CHA W 21 12 4 9 44.4 0 0 - 4 5 80.0 4 3 7 0 0 1 1 6 3
+p585
+aVJoe Johnson ATL 01/12/2012 ATL vs. CHA W 36 23 7 18 38.9 2 8 25.0 7 8 87.5 3 4 7 8 1 0 2 1 30
+p586
+aVZaza Pachulia ATL 01/11/2012 ATL @ IND L 30 11 3 6 50.0 0 0 - 5 8 62.5 3 4 7 0 1 0 3 2 -9
+p587
+aVVladimir Radmanovic ATL 01/11/2012 ATL @ IND L 27 3 1 7 14.3 1 3 33.3 0 0 - 1 2 3 0 0 0 0 1 -5
+p588
+aVJosh Smith ATL 01/11/2012 ATL @ IND L 30 16 7 13 53.8 0 1 0.0 2 6 33.3 1 6 7 3 1 1 3 3 -22
+p589
+aVWillie Green ATL 01/11/2012 ATL @ IND L 29 10 4 10 40.0 0 1 0.0 2 2 100.0 0 6 6 2 0 0 2 3 2
+p590
+aVJeff Teague ATL 01/11/2012 ATL @ IND L 28 5 2 10 20.0 0 1 0.0 1 2 50.0 0 2 2 3 2 1 3 0 -13
+p591
+aVIvan Johnson ATL 01/11/2012 ATL @ IND L 17 5 1 6 16.7 0 0 - 3 3 100.0 1 2 3 0 2 1 2 2 -3
+p592
+aVAl Horford ATL 01/11/2012 ATL @ IND L 6 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 0 -4
+p593
+aVJoe Johnson ATL 01/11/2012 ATL @ IND L 34 15 5 12 41.7 3 5 60.0 2 2 100.0 1 3 4 3 1 0 4 1 -18
+p594
+aVJannero Pargo ATL 01/11/2012 ATL @ IND L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 2 -9
+p595
+aVJerry Stackhouse ATL 01/11/2012 ATL @ IND L 7 8 2 4 50.0 1 1 100.0 3 3 100.0 0 2 2 1 0 0 0 0 10
+p596
+aVJason Collins ATL 01/11/2012 ATL @ IND L 12 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 0 1 2 1
+p597
+aVDonald Sloan ATL 01/11/2012 ATL @ IND L 5 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 0 0 0 10
+p598
+aVIvan Johnson ATL 01/09/2012 ATL @ NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p599
+aVWillie Green ATL 01/09/2012 ATL @ NJN W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 -5
+p600
+aVJoe Johnson ATL 01/09/2012 ATL @ NJN W 43 22 9 15 60.0 0 3 0.0 4 4 100.0 1 2 3 6 0 0 1 1 10
+p601
+aVJosh Smith ATL 01/09/2012 ATL @ NJN W 37 26 10 14 71.4 0 0 - 6 11 54.5 1 5 6 4 3 0 3 3 7
+p602
+aVTracy McGrady ATL 01/09/2012 ATL @ NJN W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p603
+aVAl Horford ATL 01/09/2012 ATL @ NJN W 42 14 7 14 50.0 0 0 - 0 0 - 3 6 9 5 1 1 3 0 8
+p604
+aVJeff Teague ATL 01/09/2012 ATL @ NJN W 42 20 8 13 61.5 3 3 100.0 1 2 50.0 1 2 3 4 2 1 2 5 2
+p605
+aVJannero Pargo ATL 01/09/2012 ATL @ NJN W 6 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 2 3
+p606
+aVVladimir Radmanovic ATL 01/09/2012 ATL @ NJN W 39 14 4 11 36.4 4 11 36.4 2 2 100.0 1 5 6 2 1 0 0 3 0
+p607
+aVZaza Pachulia ATL 01/09/2012 ATL @ NJN W 13 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 1 0 1 2 -2
+p608
+aVWillie Green ATL 01/07/2012 ATL vs. CHI W 20 10 5 10 50.0 0 2 0.0 0 0 - 1 1 2 0 1 0 1 2 -18
+p609
+aVJoe Johnson ATL 01/07/2012 ATL vs. CHI W 31 17 7 14 50.0 2 2 100.0 1 1 100.0 0 4 4 5 2 0 3 1 35
+p610
+aVJannero Pargo ATL 01/07/2012 ATL vs. CHI W 18 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -12
+p611
+aVIvan Johnson ATL 01/07/2012 ATL vs. CHI W 12 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 2 0 0 2 2 -9
+p612
+aVJeff Teague ATL 01/07/2012 ATL vs. CHI W 30 12 6 8 75.0 0 0 - 0 0 - 0 2 2 8 5 0 0 2 27
+p613
+aVJosh Smith ATL 01/07/2012 ATL vs. CHI W 34 25 11 17 64.7 1 1 100.0 2 2 100.0 1 4 5 5 4 6 1 3 26
+p614
+aVTracy McGrady ATL 01/07/2012 ATL vs. CHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 2
+p615
+aVJerry Stackhouse ATL 01/07/2012 ATL vs. CHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p616
+aVZaza Pachulia ATL 01/07/2012 ATL vs. CHI W 20 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 1 0 0 2 0
+p617
+aVJason Collins ATL 01/07/2012 ATL vs. CHI W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -14
+p618
+aVVladimir Radmanovic ATL 01/07/2012 ATL vs. CHI W 28 17 5 7 71.4 5 5 100.0 2 2 100.0 0 1 1 3 2 0 2 0 13
+p619
+aVMarvin Williams ATL 01/07/2012 ATL vs. CHI W 6 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 10
+p620
+aVAl Horford ATL 01/07/2012 ATL vs. CHI W 24 14 7 8 87.5 0 0 - 0 0 - 1 6 7 4 1 2 1 1 29
+p621
+aVJeff Teague ATL 01/06/2012 ATL @ CHA W 41 7 3 10 30.0 1 2 50.0 0 0 - 0 1 1 9 0 0 3 4 0
+p622
+aVZaza Pachulia ATL 01/06/2012 ATL @ CHA W 10 2 1 5 20.0 0 0 - 0 0 - 3 2 5 3 0 0 0 1 -2
+p623
+aVWillie Green ATL 01/06/2012 ATL @ CHA W 10 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p624
+aVAl Horford ATL 01/06/2012 ATL @ CHA W 43 15 5 12 41.7 0 0 - 5 5 100.0 2 5 7 2 1 1 3 1 8
+p625
+aVJoe Johnson ATL 01/06/2012 ATL @ CHA W 43 14 6 17 35.3 1 5 20.0 1 2 50.0 1 1 2 6 1 0 2 3 6
+p626
+aVMarvin Williams ATL 01/06/2012 ATL @ CHA W 32 15 6 16 37.5 2 5 40.0 1 2 50.0 4 5 9 1 1 0 0 2 -6
+p627
+aVJosh Smith ATL 01/06/2012 ATL @ CHA W 40 23 11 18 61.1 0 0 - 1 3 33.3 4 9 13 2 3 2 3 3 2
+p628
+aVIvan Johnson ATL 01/06/2012 ATL @ CHA W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 0 1 3 4
+p629
+aVJannero Pargo ATL 01/06/2012 ATL @ CHA W 12 9 3 6 50.0 1 4 25.0 2 2 100.0 0 0 0 3 0 0 0 0 6
+p630
+aVVladimir Radmanovic ATL 01/06/2012 ATL @ CHA W 22 11 4 7 57.1 2 4 50.0 1 2 50.0 2 5 7 2 0 1 2 1 12
+p631
+aVZaza Pachulia ATL 01/05/2012 ATL vs. MIA L 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 1
+p632
+aVJannero Pargo ATL 01/05/2012 ATL vs. MIA L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -3
+p633
+aVJason Collins ATL 01/05/2012 ATL vs. MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p634
+aVJosh Smith ATL 01/05/2012 ATL vs. MIA L 42 17 6 17 35.3 0 1 0.0 5 9 55.6 5 8 13 3 1 1 1 3 -2
+p635
+aVJeff Teague ATL 01/05/2012 ATL vs. MIA L 47 6 1 12 8.3 0 4 0.0 4 8 50.0 0 2 2 7 5 1 2 0 -4
+p636
+aVTracy McGrady ATL 01/05/2012 ATL vs. MIA L 30 14 4 8 50.0 1 1 100.0 5 8 62.5 1 6 7 5 1 2 1 0 12
+p637
+aVMarvin Williams ATL 01/05/2012 ATL vs. MIA L 29 7 2 10 20.0 1 2 50.0 2 2 100.0 2 5 7 0 0 0 1 1 -23
+p638
+aVWillie Green ATL 01/05/2012 ATL vs. MIA L 22 14 5 6 83.3 2 2 100.0 2 2 100.0 0 0 0 0 1 0 0 1 0
+p639
+aVIvan Johnson ATL 01/05/2012 ATL vs. MIA L 21 13 5 7 71.4 0 0 - 3 5 60.0 2 2 4 0 1 0 5 6 17
+p640
+aVVladimir Radmanovic ATL 01/05/2012 ATL vs. MIA L 9 5 0 4 0.0 0 4 0.0 5 6 83.3 1 1 2 1 0 0 0 1 -9
+p641
+aVAl Horford ATL 01/05/2012 ATL vs. MIA L 40 10 5 7 71.4 0 0 - 0 0 - 4 7 11 2 0 1 4 6 -11
+p642
+aVJoe Johnson ATL 01/05/2012 ATL vs. MIA L 49 20 7 20 35.0 1 7 14.3 5 6 83.3 0 2 2 3 1 0 2 4 -10
+p643
+aVAl Horford ATL 01/03/2012 ATL @ CHI L 40 16 7 14 50.0 0 1 0.0 2 4 50.0 3 4 7 2 2 0 1 3 5
+p644
+aVTracy McGrady ATL 01/03/2012 ATL @ CHI L 15 2 1 4 25.0 0 0 - 0 0 - 0 6 6 2 0 0 3 0 -9
+p645
+aVJoe Johnson ATL 01/03/2012 ATL @ CHI L 40 10 3 17 17.6 2 9 22.2 2 2 100.0 2 2 4 4 3 0 1 2 7
+p646
+aVMarvin Williams ATL 01/03/2012 ATL @ CHI L 33 14 5 10 50.0 0 0 - 4 7 57.1 1 7 8 2 1 0 1 4 7
+p647
+aVVladimir Radmanovic ATL 01/03/2012 ATL @ CHI L 13 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 2 0 1 0 1 -9
+p648
+aVWillie Green ATL 01/03/2012 ATL @ CHI L 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p649
+aVJosh Smith ATL 01/03/2012 ATL @ CHI L 35 15 6 13 46.2 0 1 0.0 3 6 50.0 3 11 14 2 1 2 3 0 7
+p650
+aVJeff Teague ATL 01/03/2012 ATL @ CHI L 35 7 2 8 25.0 0 1 0.0 3 6 50.0 0 1 1 4 1 0 2 3 10
+p651
+aVJannero Pargo ATL 01/03/2012 ATL @ CHI L 13 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 -12
+p652
+aVZaza Pachulia ATL 01/03/2012 ATL @ CHI L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -7
+p653
+aVVladimir Radmanovic ATL 01/02/2012 ATL @ MIA W 20 0 0 5 0.0 0 1 0.0 0 0 - 1 3 4 3 2 1 1 1 2
+p654
+aVAl Horford ATL 01/02/2012 ATL @ MIA W 39 16 6 9 66.7 0 0 - 4 4 100.0 3 6 9 2 1 2 1 2 0
+p655
+aVWillie Green ATL 01/02/2012 ATL @ MIA W 10 1 0 5 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 6
+p656
+aVZaza Pachulia ATL 01/02/2012 ATL @ MIA W 9 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 4 8
+p657
+aVJoe Johnson ATL 01/02/2012 ATL @ MIA W 38 21 8 16 50.0 3 5 60.0 2 3 66.7 2 3 5 1 0 0 2 3 2
+p658
+aVMarvin Williams ATL 01/02/2012 ATL @ MIA W 22 8 4 6 66.7 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 1
+p659
+aVJosh Smith ATL 01/02/2012 ATL @ MIA W 28 9 4 12 33.3 0 0 - 1 2 50.0 1 5 6 3 1 2 2 4 6
+p660
+aVTracy McGrady ATL 01/02/2012 ATL @ MIA W 26 16 5 8 62.5 3 3 100.0 3 7 42.9 1 6 7 4 1 0 1 0 7
+p661
+aVJannero Pargo ATL 01/02/2012 ATL @ MIA W 13 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 0 1 0 0 2 0
+p662
+aVJeff Teague ATL 01/02/2012 ATL @ MIA W 35 15 7 11 63.6 1 2 50.0 0 0 - 0 1 1 5 4 0 2 3 8
+p663
+aVJoe Johnson ATL 12/31/2011 ATL @ HOU L 35 15 7 15 46.7 1 5 20.0 0 0 - 1 3 4 3 1 2 1 2 -18
+p664
+aVTracy McGrady ATL 12/31/2011 ATL @ HOU L 25 13 6 11 54.5 1 2 50.0 0 0 - 0 6 6 1 0 0 1 1 7
+p665
+aVAl Horford ATL 12/31/2011 ATL @ HOU L 31 15 6 11 54.5 0 0 - 3 4 75.0 1 5 6 2 0 1 2 1 -19
+p666
+aVJeff Teague ATL 12/31/2011 ATL @ HOU L 30 6 3 7 42.9 0 0 - 0 0 - 0 3 3 5 0 0 2 1 -3
+p667
+aVVladimir Radmanovic ATL 12/31/2011 ATL @ HOU L 15 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 1 1 1 0 1 6
+p668
+aVJannero Pargo ATL 12/31/2011 ATL @ HOU L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 -4
+p669
+aVJason Collins ATL 12/31/2011 ATL @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p670
+aVJosh Smith ATL 12/31/2011 ATL @ HOU L 32 14 5 13 38.5 0 1 0.0 4 8 50.0 0 7 7 2 0 1 2 1 -17
+p671
+aVWillie Green ATL 12/31/2011 ATL @ HOU L 17 5 2 5 40.0 1 2 50.0 0 0 - 2 2 4 0 1 0 1 1 -1
+p672
+aVZaza Pachulia ATL 12/31/2011 ATL @ HOU L 12 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 1 0 1 2 6
+p673
+aVMarvin Williams ATL 12/31/2011 ATL @ HOU L 21 9 3 7 42.9 1 2 50.0 2 2 100.0 1 3 4 0 0 1 0 2 -14
+p674
+aVZaza Pachulia ATL 12/30/2011 ATL vs. NJN W 23 11 3 6 50.0 0 0 - 5 6 83.3 3 5 8 2 1 1 2 1 14
+p675
+aVAl Horford ATL 12/30/2011 ATL vs. NJN W 26 12 4 8 50.0 0 0 - 4 8 50.0 5 0 5 2 1 3 1 5 -8
+p676
+aVMarvin Williams ATL 12/30/2011 ATL vs. NJN W 25 11 4 9 44.4 1 3 33.3 2 2 100.0 2 4 6 2 1 0 0 0 1
+p677
+aVVladimir Radmanovic ATL 12/30/2011 ATL vs. NJN W 13 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 0 1 2 2 12
+p678
+aVJeff Teague ATL 12/30/2011 ATL vs. NJN W 33 22 9 12 75.0 0 0 - 4 5 80.0 1 0 1 6 2 0 2 3 -1
+p679
+aVTracy McGrady ATL 12/30/2011 ATL vs. NJN W 23 6 2 5 40.0 0 0 - 2 3 66.7 0 2 2 1 1 0 0 0 6
+p680
+aVJosh Smith ATL 12/30/2011 ATL vs. NJN W 34 9 4 10 40.0 0 1 0.0 1 3 33.3 1 5 6 3 1 1 3 1 -4
+p681
+aVWillie Green ATL 12/30/2011 ATL vs. NJN W 14 4 2 5 40.0 0 1 0.0 0 1 0.0 1 1 2 0 0 0 0 0 9
+p682
+aVJoe Johnson ATL 12/30/2011 ATL vs. NJN W 34 21 6 13 46.2 2 4 50.0 7 8 87.5 1 0 1 1 0 0 0 1 -2
+p683
+aVJannero Pargo ATL 12/30/2011 ATL vs. NJN W 15 4 1 5 20.0 0 3 0.0 2 2 100.0 1 4 5 5 0 0 2 2 8
+p684
+aVJannero Pargo ATL 12/28/2011 ATL vs. WAS W 14 3 1 6 16.7 1 6 16.7 0 0 - 0 1 1 1 0 0 2 0 -7
+p685
+aVMarvin Williams ATL 12/28/2011 ATL vs. WAS W 30 17 4 8 50.0 2 3 66.7 7 10 70.0 2 6 8 2 2 1 0 3 26
+p686
+aVZaza Pachulia ATL 12/28/2011 ATL vs. WAS W 16 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 1 3 -10
+p687
+aVJeff Teague ATL 12/28/2011 ATL vs. WAS W 32 11 4 11 36.4 1 3 33.3 2 2 100.0 0 2 2 5 2 0 2 5 22
+p688
+aVVladimir Radmanovic ATL 12/28/2011 ATL vs. WAS W 14 5 2 4 50.0 1 1 100.0 0 0 - 1 2 3 1 0 0 3 0 -10
+p689
+aVIvan Johnson ATL 12/28/2011 ATL vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p690
+aVWillie Green ATL 12/28/2011 ATL vs. WAS W 12 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 0 0 0 1 4 -7
+p691
+aVAl Horford ATL 12/28/2011 ATL vs. WAS W 33 11 4 9 44.4 0 0 - 3 4 75.0 2 8 10 2 2 2 0 1 25
+p692
+aVJosh Smith ATL 12/28/2011 ATL vs. WAS W 33 15 5 11 45.5 0 1 0.0 5 7 71.4 4 6 10 4 0 2 2 2 26
+p693
+aVTracy McGrady ATL 12/28/2011 ATL vs. WAS W 19 11 3 5 60.0 0 0 - 5 6 83.3 0 4 4 1 0 0 1 1 -5
+p694
+aVJoe Johnson ATL 12/28/2011 ATL vs. WAS W 33 18 7 16 43.8 4 8 50.0 0 0 - 2 1 3 4 0 0 2 1 30
+p695
+aVAl Horford ATL 12/27/2011 ATL @ NJN W 24 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 1 1 0 1 19
+p696
+aVJannero Pargo ATL 12/27/2011 ATL @ NJN W 24 6 2 6 33.3 2 3 66.7 0 0 - 0 3 3 3 1 0 3 5 18
+p697
+aVMarvin Williams ATL 12/27/2011 ATL @ NJN W 22 14 3 9 33.3 2 4 50.0 6 7 85.7 4 5 9 3 2 0 1 1 15
+p698
+aVJosh Smith ATL 12/27/2011 ATL @ NJN W 17 5 2 7 28.6 0 1 0.0 1 2 50.0 1 5 6 3 1 1 1 4 10
+p699
+aVVladimir Radmanovic ATL 12/27/2011 ATL @ NJN W 27 17 5 9 55.6 3 5 60.0 4 4 100.0 0 3 3 5 4 0 1 1 24
+p700
+aVZaza Pachulia ATL 12/27/2011 ATL @ NJN W 21 13 5 8 62.5 0 0 - 3 3 100.0 8 3 11 1 0 0 3 4 16
+p701
+aVJeff Teague ATL 12/27/2011 ATL @ NJN W 24 13 5 7 71.4 3 4 75.0 0 0 - 0 3 3 3 0 0 2 1 18
+p702
+aVJerry Stackhouse ATL 12/27/2011 ATL @ NJN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p703
+aVTracy McGrady ATL 12/27/2011 ATL @ NJN W 20 12 5 10 50.0 0 0 - 2 2 100.0 0 2 2 0 1 1 1 1 18
+p704
+aVJoe Johnson ATL 12/27/2011 ATL @ NJN W 26 11 4 11 36.4 1 3 33.3 2 2 100.0 0 2 2 1 1 0 0 0 19
+p705
+aVIvan Johnson ATL 12/27/2011 ATL @ NJN W 6 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 1 3
+p706
+aVWillie Green ATL 12/27/2011 ATL @ NJN W 22 5 2 10 20.0 1 2 50.0 0 1 0.0 2 1 3 1 0 1 0 4 17
+p707
+a.

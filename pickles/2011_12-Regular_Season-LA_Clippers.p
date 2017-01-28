@@ -1,0 +1,1356 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKenyon Martin LAC 04/25/2012 LAC @ NYK L 22 4 2 2 100.0 0 0 - 0 2 0.0 1 4 5 0 0 1 1 3 -3
+p2
+aVReggie Evans LAC 04/25/2012 LAC @ NYK L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p3
+aVMo Williams LAC 04/25/2012 LAC @ NYK L 26 9 3 9 33.3 3 4 75.0 0 0 - 1 2 3 3 0 0 3 0 -26
+p4
+aVCaron Butler LAC 04/25/2012 LAC @ NYK L 33 9 3 8 37.5 3 6 50.0 0 0 - 1 2 3 1 1 1 4 3 15
+p5
+aVEric Bledsoe LAC 04/25/2012 LAC @ NYK L 27 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 5 0 1 2 4 13
+p6
+aVNick Young LAC 04/25/2012 LAC @ NYK L 15 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -21
+p7
+aVRandy Foye LAC 04/25/2012 LAC @ NYK L 43 28 9 23 39.1 4 12 33.3 6 7 85.7 1 4 5 4 3 0 1 2 1
+p8
+aVBlake Griffin LAC 04/25/2012 LAC @ NYK L 41 29 11 14 78.6 0 1 0.0 7 14 50.0 3 7 10 6 2 0 1 4 5
+p9
+aVDeAndre Jordan LAC 04/25/2012 LAC @ NYK L 29 5 2 4 50.0 0 0 - 1 2 50.0 2 8 10 0 0 0 0 1 -9
+p10
+aVBlake Griffin LAC 04/24/2012 LAC @ ATL L 38 36 17 23 73.9 0 0 - 2 4 50.0 5 3 8 3 0 1 4 5 13
+p11
+aVEric Bledsoe LAC 04/24/2012 LAC @ ATL L 10 4 1 3 33.3 0 0 - 2 3 66.7 1 0 1 1 0 0 1 1 -8
+p12
+aVChris Paul LAC 04/24/2012 LAC @ ATL L 38 34 10 20 50.0 4 6 66.7 10 11 90.9 0 5 5 8 2 0 2 2 -1
+p13
+aVDeAndre Jordan LAC 04/24/2012 LAC @ ATL L 32 4 2 3 66.7 0 0 - 0 2 0.0 2 7 9 0 1 2 1 1 -17
+p14
+aVTrey Thompkins LAC 04/24/2012 LAC @ ATL L 0 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p15
+aVRandy Foye LAC 04/24/2012 LAC @ ATL L 20 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 4 0 0 0 1 0
+p16
+aVKenyon Martin LAC 04/24/2012 LAC @ ATL L 26 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 3 1 0 1 -11
+p17
+aVMo Williams LAC 04/24/2012 LAC @ ATL L 28 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 2 2 0 3 1 -7
+p18
+aVNick Young LAC 04/24/2012 LAC @ ATL L 17 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 -12
+p19
+aVCaron Butler LAC 04/24/2012 LAC @ ATL L 31 9 4 11 36.4 1 5 20.0 0 0 - 0 7 7 0 0 0 2 1 5
+p20
+aVDeAndre Jordan LAC 04/22/2012 LAC vs. NOH W 23 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 3 1 5 3
+p21
+aVMo Williams LAC 04/22/2012 LAC vs. NOH W 29 9 3 13 23.1 0 5 0.0 3 3 100.0 0 0 0 3 0 0 2 4 7
+p22
+aVReggie Evans LAC 04/22/2012 LAC vs. NOH W 11 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 19
+p23
+aVBlake Griffin LAC 04/22/2012 LAC vs. NOH W 38 21 7 10 70.0 0 0 - 7 9 77.8 6 9 15 2 1 0 1 3 8
+p24
+aVBobby Simmons LAC 04/22/2012 LAC vs. NOH W 19 6 2 8 25.0 1 5 20.0 1 2 50.0 1 1 2 0 2 0 0 1 -13
+p25
+aVEric Bledsoe LAC 04/22/2012 LAC vs. NOH W 13 5 2 3 66.7 0 1 0.0 1 2 50.0 0 0 0 3 0 1 2 1 5
+p26
+aVCaron Butler LAC 04/22/2012 LAC vs. NOH W 9 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 11
+p27
+aVChris Paul LAC 04/22/2012 LAC vs. NOH W 39 33 8 18 44.4 0 4 0.0 17 19 89.5 0 4 4 13 8 0 2 3 8
+p28
+aVRandy Foye LAC 04/22/2012 LAC vs. NOH W 36 24 8 16 50.0 6 12 50.0 2 2 100.0 2 0 2 2 0 0 1 3 9
+p29
+aVKenyon Martin LAC 04/22/2012 LAC vs. NOH W 23 6 2 4 50.0 0 0 - 2 4 50.0 1 6 7 0 2 1 2 4 -12
+p30
+aVBlake Griffin LAC 04/19/2012 LAC @ PHX L 37 16 7 17 41.2 0 1 0.0 2 4 50.0 5 6 11 1 0 1 2 2 -3
+p31
+aVNick Young LAC 04/19/2012 LAC @ PHX L 17 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 1 0 1 -5
+p32
+aVRandy Foye LAC 04/19/2012 LAC @ PHX L 29 11 4 7 57.1 3 4 75.0 0 0 - 0 2 2 1 2 0 0 2 3
+p33
+aVMo Williams LAC 04/19/2012 LAC @ PHX L 20 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 1 2 0 1 0 -8
+p34
+aVKenyon Martin LAC 04/19/2012 LAC @ PHX L 26 8 4 6 66.7 0 0 - 0 2 0.0 3 4 7 0 1 2 0 3 -8
+p35
+aVBobby Simmons LAC 04/19/2012 LAC @ PHX L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 3 -1
+p36
+aVChris Paul LAC 04/19/2012 LAC @ PHX L 37 19 6 19 31.6 0 2 0.0 7 7 100.0 0 2 2 10 1 0 1 2 0
+p37
+aVDeAndre Jordan LAC 04/19/2012 LAC @ PHX L 23 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 2 1 2 1 6
+p38
+aVEric Bledsoe LAC 04/19/2012 LAC @ PHX L 11 4 1 4 25.0 0 0 - 2 4 50.0 2 3 5 2 0 0 2 2 -3
+p39
+aVCaron Butler LAC 04/19/2012 LAC @ PHX L 30 17 8 13 61.5 1 4 25.0 0 0 - 0 5 5 0 2 0 1 2 4
+p40
+aVBlake Griffin LAC 04/18/2012 LAC @ DEN W 30 12 5 12 41.7 0 0 - 2 6 33.3 4 3 7 5 2 0 4 5 3
+p41
+aVCaron Butler LAC 04/18/2012 LAC @ DEN W 23 14 5 10 50.0 4 5 80.0 0 0 - 0 4 4 1 1 0 1 1 3
+p42
+aVEric Bledsoe LAC 04/18/2012 LAC @ DEN W 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 1 0 1 3 2
+p43
+aVNick Young LAC 04/18/2012 LAC @ DEN W 25 13 5 8 62.5 3 4 75.0 0 0 - 1 1 2 0 2 0 2 4 3
+p44
+aVMo Williams LAC 04/18/2012 LAC @ DEN W 28 19 6 11 54.5 4 7 57.1 3 3 100.0 0 3 3 4 1 0 1 4 8
+p45
+aVDeAndre Jordan LAC 04/18/2012 LAC @ DEN W 30 4 2 2 100.0 0 0 - 0 0 - 2 7 9 0 0 3 2 2 -5
+p46
+aVRandy Foye LAC 04/18/2012 LAC @ DEN W 20 12 4 9 44.4 2 3 66.7 2 2 100.0 0 2 2 0 0 0 1 2 4
+p47
+aVKenyon Martin LAC 04/18/2012 LAC @ DEN W 30 7 2 5 40.0 0 1 0.0 3 4 75.0 1 0 1 1 1 2 1 1 2
+p48
+aVBobby Simmons LAC 04/18/2012 LAC @ DEN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 1 6
+p49
+aVChris Paul LAC 04/18/2012 LAC @ DEN W 35 21 8 19 42.1 1 3 33.3 4 5 80.0 1 3 4 8 3 1 3 5 4
+p50
+aVBobby Simmons LAC 04/16/2012 LAC vs. OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p51
+aVRandy Foye LAC 04/16/2012 LAC vs. OKC W 24 13 5 10 50.0 3 4 75.0 0 0 - 0 2 2 0 2 0 2 0 6
+p52
+aVBlake Griffin LAC 04/16/2012 LAC vs. OKC W 35 17 7 15 46.7 0 0 - 3 5 60.0 2 9 11 6 0 4 4 4 20
+p53
+aVTrey Thompkins LAC 04/16/2012 LAC vs. OKC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p54
+aVEric Bledsoe LAC 04/16/2012 LAC vs. OKC W 14 2 1 3 33.3 0 1 0.0 0 0 - 2 3 5 1 0 1 1 4 11
+p55
+aVNick Young LAC 04/16/2012 LAC vs. OKC W 21 19 7 10 70.0 3 4 75.0 2 2 100.0 0 0 0 0 0 0 0 2 12
+p56
+aVKenyon Martin LAC 04/16/2012 LAC vs. OKC W 25 4 2 5 40.0 0 0 - 0 0 - 4 5 9 0 2 1 2 2 5
+p57
+aVChris Paul LAC 04/16/2012 LAC vs. OKC W 36 12 5 12 41.7 1 5 20.0 1 2 50.0 2 1 3 10 2 0 2 1 5
+p58
+aVReggie Evans LAC 04/16/2012 LAC vs. OKC W 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 2 0 0 2 -2
+p59
+aVMo Williams LAC 04/16/2012 LAC vs. OKC W 27 11 4 9 44.4 2 4 50.0 1 1 100.0 0 0 0 4 0 0 0 2 14
+p60
+aVCaron Butler LAC 04/16/2012 LAC vs. OKC W 23 9 3 9 33.3 0 2 0.0 3 4 75.0 0 1 1 0 0 0 1 2 -3
+p61
+aVDeAndre Jordan LAC 04/16/2012 LAC vs. OKC W 25 5 2 6 33.3 0 0 - 1 2 50.0 4 8 12 0 0 1 1 3 7
+p62
+aVReggie Evans LAC 04/14/2012 LAC vs. GSW W 8 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -8
+p63
+aVDeAndre Jordan LAC 04/14/2012 LAC vs. GSW W 24 18 8 11 72.7 0 0 - 2 5 40.0 4 2 6 0 0 2 0 2 11
+p64
+aVCaron Butler LAC 04/14/2012 LAC vs. GSW W 19 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 0 0 0 1 1 10
+p65
+aVChris Paul LAC 04/14/2012 LAC vs. GSW W 36 28 12 17 70.6 3 3 100.0 1 1 100.0 1 3 4 13 3 0 3 5 11
+p66
+aVEric Bledsoe LAC 04/14/2012 LAC vs. GSW W 14 5 2 5 40.0 0 2 0.0 1 2 50.0 0 2 2 2 0 2 1 1 -4
+p67
+aVNick Young LAC 04/14/2012 LAC vs. GSW W 21 6 2 4 50.0 1 2 50.0 1 2 50.0 1 1 2 1 0 0 0 1 -2
+p68
+aVKenyon Martin LAC 04/14/2012 LAC vs. GSW W 25 7 2 7 28.6 1 2 50.0 2 6 33.3 2 4 6 0 1 3 1 1 -2
+p69
+aVRandy Foye LAC 04/14/2012 LAC vs. GSW W 32 12 3 7 42.9 3 5 60.0 3 4 75.0 1 1 2 2 1 1 1 1 17
+p70
+aVBlake Griffin LAC 04/14/2012 LAC vs. GSW W 34 20 9 14 64.3 0 1 0.0 2 8 25.0 3 6 9 3 1 1 1 2 11
+p71
+aVMo Williams LAC 04/14/2012 LAC vs. GSW W 25 14 5 11 45.5 2 5 40.0 2 2 100.0 0 2 2 1 0 0 1 2 -4
+p72
+aVReggie Evans LAC 04/12/2012 LAC @ MIN W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p73
+aVMo Williams LAC 04/12/2012 LAC @ MIN W 20 14 6 11 54.5 2 4 50.0 0 0 - 0 0 0 5 1 0 2 1 12
+p74
+aVBlake Griffin LAC 04/12/2012 LAC @ MIN W 36 19 9 16 56.3 0 0 - 1 5 20.0 8 5 13 5 1 1 0 4 23
+p75
+aVCaron Butler LAC 04/12/2012 LAC @ MIN W 22 17 6 13 46.2 5 8 62.5 0 0 - 0 3 3 0 0 0 0 1 13
+p76
+aVNick Young LAC 04/12/2012 LAC @ MIN W 26 10 3 11 27.3 1 5 20.0 3 4 75.0 0 2 2 0 1 0 0 2 0
+p77
+aVRandy Foye LAC 04/12/2012 LAC @ MIN W 26 11 4 14 28.6 3 8 37.5 0 0 - 0 0 0 3 0 0 3 3 6
+p78
+aVKenyon Martin LAC 04/12/2012 LAC @ MIN W 25 8 4 4 100.0 0 0 - 0 0 - 1 6 7 0 2 1 0 2 10
+p79
+aVTrey Thompkins LAC 04/12/2012 LAC @ MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p80
+aVEric Bledsoe LAC 04/12/2012 LAC @ MIN W 19 4 2 8 25.0 0 3 0.0 0 0 - 0 2 2 0 3 0 3 1 6
+p81
+aVDeAndre Jordan LAC 04/12/2012 LAC @ MIN W 23 4 2 4 50.0 0 0 - 0 0 - 5 7 12 1 0 3 0 3 3
+p82
+aVBobby Simmons LAC 04/12/2012 LAC @ MIN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p83
+aVChris Paul LAC 04/12/2012 LAC @ MIN W 29 8 3 8 37.5 1 2 50.0 1 1 100.0 0 4 4 8 2 0 1 3 7
+p84
+aVRandy Foye LAC 04/11/2012 LAC @ OKC W 36 7 2 10 20.0 1 4 25.0 2 2 100.0 1 3 4 3 0 0 1 3 -1
+p85
+aVBlake Griffin LAC 04/11/2012 LAC @ OKC W 35 16 6 15 40.0 0 0 - 4 5 80.0 3 9 12 7 1 1 2 2 1
+p86
+aVChris Paul LAC 04/11/2012 LAC @ OKC W 37 31 11 20 55.0 2 4 50.0 7 7 100.0 2 4 6 4 2 0 1 3 4
+p87
+aVBobby Simmons LAC 04/11/2012 LAC @ OKC W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 1 -6
+p88
+aVCaron Butler LAC 04/11/2012 LAC @ OKC W 25 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 2 2
+p89
+aVKenyon Martin LAC 04/11/2012 LAC @ OKC W 25 12 6 9 66.7 0 1 0.0 0 0 - 1 2 3 1 0 1 0 3 4
+p90
+aVEric Bledsoe LAC 04/11/2012 LAC @ OKC W 14 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 5 0 0 1 1 3
+p91
+aVReggie Evans LAC 04/11/2012 LAC @ OKC W 10 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -3
+p92
+aVDeAndre Jordan LAC 04/11/2012 LAC @ OKC W 26 8 3 4 75.0 0 0 - 2 2 100.0 3 1 4 0 0 0 2 3 -5
+p93
+aVNick Young LAC 04/11/2012 LAC @ OKC W 27 10 3 7 42.9 0 2 0.0 4 5 80.0 0 1 1 0 0 0 2 4 11
+p94
+aVDeAndre Jordan LAC 04/09/2012 LAC @ MEM L 35 14 6 12 50.0 0 0 - 2 2 100.0 10 4 14 0 0 2 2 4 -2
+p95
+aVNick Young LAC 04/09/2012 LAC @ MEM L 18 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 2 1 0 2 -5
+p96
+aVBlake Griffin LAC 04/09/2012 LAC @ MEM L 37 19 9 14 64.3 0 1 0.0 1 3 33.3 1 5 6 3 1 0 2 3 -4
+p97
+aVEric Bledsoe LAC 04/09/2012 LAC @ MEM L 21 11 4 6 66.7 1 2 50.0 2 2 100.0 0 2 2 2 2 1 2 1 1
+p98
+aVCaron Butler LAC 04/09/2012 LAC @ MEM L 29 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 1 2 0 1 1 0
+p99
+aVRandy Foye LAC 04/09/2012 LAC @ MEM L 34 11 5 17 29.4 1 7 14.3 0 0 - 0 3 3 3 1 0 1 2 -17
+p100
+aVChris Paul LAC 04/09/2012 LAC @ MEM L 41 21 7 17 41.2 1 4 25.0 6 7 85.7 1 2 3 6 3 0 2 4 -6
+p101
+aVKenyon Martin LAC 04/09/2012 LAC @ MEM L 24 4 1 6 16.7 0 0 - 2 4 50.0 2 3 5 0 0 0 0 2 -12
+p102
+aVCaron Butler LAC 04/07/2012 LAC vs. SAC W 21 12 6 15 40.0 0 4 0.0 0 0 - 1 2 3 3 0 0 1 0 3
+p103
+aVReggie Evans LAC 04/07/2012 LAC vs. SAC W 10 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 1 0 4 -13
+p104
+aVChris Paul LAC 04/07/2012 LAC vs. SAC W 37 19 6 14 42.9 1 2 50.0 6 6 100.0 0 5 5 15 7 0 3 2 11
+p105
+aVBobby Simmons LAC 04/07/2012 LAC vs. SAC W 13 5 2 8 25.0 1 4 25.0 0 0 - 1 2 3 0 0 1 2 1 -8
+p106
+aVRandy Foye LAC 04/07/2012 LAC vs. SAC W 37 25 9 14 64.3 7 9 77.8 0 0 - 1 3 4 1 0 1 3 1 20
+p107
+aVTrey Thompkins LAC 04/07/2012 LAC vs. SAC W 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p108
+aVDeAndre Jordan LAC 04/07/2012 LAC vs. SAC W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 3 -1
+p109
+aVEric Bledsoe LAC 04/07/2012 LAC vs. SAC W 20 8 3 6 50.0 1 2 50.0 1 2 50.0 1 2 3 9 3 0 3 3 4
+p110
+aVKenyon Martin LAC 04/07/2012 LAC vs. SAC W 24 6 3 4 75.0 0 0 - 0 2 0.0 1 2 3 0 3 4 0 2 29
+p111
+aVBlake Griffin LAC 04/07/2012 LAC vs. SAC W 35 27 12 15 80.0 0 1 0.0 3 9 33.3 2 12 14 4 2 0 3 3 23
+p112
+aVNick Young LAC 04/07/2012 LAC vs. SAC W 25 5 2 7 28.6 1 4 25.0 0 0 - 1 1 2 2 1 0 0 1 13
+p113
+aVCaron Butler LAC 04/05/2012 LAC @ SAC W 28 14 6 11 54.5 2 4 50.0 0 0 - 1 2 3 1 1 0 5 1 5
+p114
+aVRandy Foye LAC 04/05/2012 LAC @ SAC W 35 20 7 17 41.2 1 6 16.7 5 5 100.0 2 4 6 2 0 0 0 2 19
+p115
+aVEric Bledsoe LAC 04/05/2012 LAC @ SAC W 17 13 4 6 66.7 0 0 - 5 6 83.3 1 2 3 1 0 0 2 0 -3
+p116
+aVChris Paul LAC 04/05/2012 LAC @ SAC W 36 13 4 16 25.0 0 2 0.0 5 7 71.4 2 3 5 8 5 0 5 2 4
+p117
+aVDeAndre Jordan LAC 04/05/2012 LAC @ SAC W 21 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 1 1 1 2 4
+p118
+aVKenyon Martin LAC 04/05/2012 LAC @ SAC W 27 7 3 5 60.0 1 1 100.0 0 0 - 1 4 5 0 2 0 1 4 2
+p119
+aVReggie Evans LAC 04/05/2012 LAC @ SAC W 10 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 1 0 0 1 7
+p120
+aVNick Young LAC 04/05/2012 LAC @ SAC W 22 7 3 10 30.0 1 6 16.7 0 0 - 0 2 2 1 1 1 3 2 -3
+p121
+aVBlake Griffin LAC 04/05/2012 LAC @ SAC W 38 14 7 11 63.6 0 0 - 0 4 0.0 3 6 9 3 0 1 1 3 -1
+p122
+aVBobby Simmons LAC 04/05/2012 LAC @ SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p123
+aVCaron Butler LAC 04/04/2012 LAC vs. LAL L 34 28 9 18 50.0 4 8 50.0 6 6 100.0 0 4 4 2 0 0 2 1 -7
+p124
+aVKenyon Martin LAC 04/04/2012 LAC vs. LAL L 19 0 0 4 0.0 0 0 - 0 0 - 1 4 5 1 1 1 1 3 -3
+p125
+aVNick Young LAC 04/04/2012 LAC vs. LAL L 19 13 6 15 40.0 1 6 16.7 0 0 - 1 0 1 1 0 1 0 2 2
+p126
+aVRandy Foye LAC 04/04/2012 LAC vs. LAL L 30 11 5 13 38.5 1 6 16.7 0 0 - 2 3 5 4 0 0 0 4 -4
+p127
+aVBobby Simmons LAC 04/04/2012 LAC vs. LAL L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p128
+aVChris Paul LAC 04/04/2012 LAC vs. LAL L 40 22 8 17 47.1 1 3 33.3 5 6 83.3 2 0 2 16 0 0 3 3 -13
+p129
+aVBlake Griffin LAC 04/04/2012 LAC vs. LAL L 36 15 7 16 43.8 0 0 - 1 3 33.3 7 7 14 1 0 0 1 3 -16
+p130
+aVDeAndre Jordan LAC 04/04/2012 LAC vs. LAL L 40 11 5 7 71.4 0 0 - 1 4 25.0 4 9 13 0 1 4 0 3 9
+p131
+aVEric Bledsoe LAC 04/04/2012 LAC vs. LAL L 14 5 2 4 50.0 1 1 100.0 0 1 0.0 1 1 2 2 3 1 3 2 12
+p132
+aVKenyon Martin LAC 04/02/2012 LAC @ DAL W 24 2 1 4 25.0 0 0 - 0 0 - 1 4 5 2 3 0 0 1 9
+p133
+aVChris Paul LAC 04/02/2012 LAC @ DAL W 34 8 3 12 25.0 0 5 0.0 2 3 66.7 1 4 5 10 1 0 1 0 15
+p134
+aVBlake Griffin LAC 04/02/2012 LAC @ DAL W 33 15 7 11 63.6 0 0 - 1 5 20.0 3 13 16 1 0 1 1 3 18
+p135
+aVEric Bledsoe LAC 04/02/2012 LAC @ DAL W 18 9 4 8 50.0 0 1 0.0 1 2 50.0 2 2 4 1 2 0 2 3 5
+p136
+aVTrey Thompkins LAC 04/02/2012 LAC @ DAL W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p137
+aVNick Young LAC 04/02/2012 LAC @ DAL W 19 10 4 9 44.4 2 5 40.0 0 0 - 1 0 1 0 0 0 1 0 7
+p138
+aVCaron Butler LAC 04/02/2012 LAC @ DAL W 25 13 6 12 50.0 1 5 20.0 0 0 - 0 2 2 1 1 1 0 2 16
+p139
+aVDeAndre Jordan LAC 04/02/2012 LAC @ DAL W 27 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 0 3 0 8
+p140
+aVReggie Evans LAC 04/02/2012 LAC @ DAL W 9 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 0 0 1 3
+p141
+aVRandy Foye LAC 04/02/2012 LAC @ DAL W 35 28 10 19 52.6 8 15 53.3 0 0 - 0 3 3 0 2 0 2 4 9
+p142
+aVBobby Simmons LAC 04/02/2012 LAC @ DAL W 13 1 0 2 0.0 0 1 0.0 1 2 50.0 2 1 3 0 1 0 0 0 5
+p143
+aVNick Young LAC 03/31/2012 LAC vs. UTA W 22 13 5 10 50.0 2 4 50.0 1 2 50.0 0 3 3 1 1 0 2 4 2
+p144
+aVRandy Foye LAC 03/31/2012 LAC vs. UTA W 33 17 5 12 41.7 3 8 37.5 4 4 100.0 0 0 0 6 0 0 0 2 10
+p145
+aVEric Bledsoe LAC 03/31/2012 LAC vs. UTA W 17 7 3 9 33.3 0 3 0.0 1 1 100.0 1 3 4 0 0 0 0 3 14
+p146
+aVChris Paul LAC 03/31/2012 LAC vs. UTA W 31 26 10 14 71.4 2 3 66.7 4 5 80.0 1 2 3 6 0 0 2 1 -5
+p147
+aVDeAndre Jordan LAC 03/31/2012 LAC vs. UTA W 31 6 2 2 100.0 0 0 - 2 2 100.0 2 8 10 1 1 1 3 2 1
+p148
+aVReggie Evans LAC 03/31/2012 LAC vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p149
+aVKenyon Martin LAC 03/31/2012 LAC vs. UTA W 25 1 0 3 0.0 0 0 - 1 2 50.0 1 5 6 1 2 3 0 3 1
+p150
+aVBobby Simmons LAC 03/31/2012 LAC vs. UTA W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -7
+p151
+aVBlake Griffin LAC 03/31/2012 LAC vs. UTA W 37 24 10 16 62.5 0 0 - 4 8 50.0 0 8 8 6 1 1 5 2 17
+p152
+aVCaron Butler LAC 03/31/2012 LAC vs. UTA W 29 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 1 1 0 0 4 13
+p153
+aVReggie Evans LAC 03/30/2012 LAC vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -12
+p154
+aVBlake Griffin LAC 03/30/2012 LAC vs. POR W 40 20 8 14 57.1 0 0 - 4 8 50.0 3 10 13 3 0 0 1 4 17
+p155
+aVNick Young LAC 03/30/2012 LAC vs. POR W 25 10 4 11 36.4 2 5 40.0 0 0 - 0 2 2 0 1 2 2 3 -5
+p156
+aVKenyon Martin LAC 03/30/2012 LAC vs. POR W 12 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -12
+p157
+aVCaron Butler LAC 03/30/2012 LAC vs. POR W 32 12 5 9 55.6 0 3 0.0 2 2 100.0 1 1 2 2 0 0 1 1 15
+p158
+aVChris Paul LAC 03/30/2012 LAC vs. POR W 39 20 8 13 61.5 1 2 50.0 3 4 75.0 0 1 1 14 4 0 1 1 11
+p159
+aVDeAndre Jordan LAC 03/30/2012 LAC vs. POR W 35 12 5 6 83.3 0 0 - 2 4 50.0 0 6 6 0 0 4 2 1 8
+p160
+aVEric Bledsoe LAC 03/30/2012 LAC vs. POR W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -10
+p161
+aVBobby Simmons LAC 03/30/2012 LAC vs. POR W 15 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 0 -11
+p162
+aVRandy Foye LAC 03/30/2012 LAC vs. POR W 29 20 7 16 43.8 5 10 50.0 1 1 100.0 1 0 1 4 0 0 1 3 4
+p163
+aVTrey Thompkins LAC 03/28/2012 LAC vs. PHX W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p164
+aVDeAndre Jordan LAC 03/28/2012 LAC vs. PHX W 28 13 3 5 60.0 0 0 - 7 8 87.5 2 4 6 0 1 1 4 2 2
+p165
+aVRandy Foye LAC 03/28/2012 LAC vs. PHX W 23 9 4 7 57.1 1 2 50.0 0 0 - 1 3 4 1 0 1 0 2 -1
+p166
+aVReggie Evans LAC 03/28/2012 LAC vs. PHX W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -1
+p167
+aVChris Paul LAC 03/28/2012 LAC vs. PHX W 37 15 6 15 40.0 2 3 66.7 1 1 100.0 0 5 5 15 2 0 2 3 9
+p168
+aVNick Young LAC 03/28/2012 LAC vs. PHX W 25 9 3 11 27.3 1 4 25.0 2 3 66.7 0 2 2 0 0 0 0 3 18
+p169
+aVEric Bledsoe LAC 03/28/2012 LAC vs. PHX W 11 2 1 2 50.0 0 1 0.0 0 2 0.0 0 1 1 3 1 0 0 0 8
+p170
+aVCaron Butler LAC 03/28/2012 LAC vs. PHX W 26 14 5 10 50.0 2 3 66.7 2 2 100.0 0 1 1 1 0 0 0 2 2
+p171
+aVBlake Griffin LAC 03/28/2012 LAC vs. PHX W 34 27 13 19 68.4 0 1 0.0 1 3 33.3 4 10 14 5 1 1 4 4 11
+p172
+aVKenyon Martin LAC 03/28/2012 LAC vs. PHX W 27 6 3 7 42.9 0 1 0.0 0 2 0.0 5 3 8 0 0 2 0 2 22
+p173
+aVBobby Simmons LAC 03/28/2012 LAC vs. PHX W 22 5 2 5 40.0 0 3 0.0 1 2 50.0 1 4 5 1 1 0 0 1 15
+p174
+aVBlake Griffin LAC 03/26/2012 LAC vs. NOH W 33 20 8 10 80.0 0 0 - 4 9 44.4 2 5 7 5 2 0 0 4 14
+p175
+aVRandy Foye LAC 03/26/2012 LAC vs. NOH W 24 5 2 8 25.0 1 5 20.0 0 0 - 0 0 0 2 1 1 1 1 4
+p176
+aVCaron Butler LAC 03/26/2012 LAC vs. NOH W 23 6 3 9 33.3 0 3 0.0 0 0 - 1 2 3 2 1 1 0 1 17
+p177
+aVReggie Evans LAC 03/26/2012 LAC vs. NOH W 15 4 2 2 100.0 0 0 - 0 1 0.0 2 2 4 1 1 0 1 2 -2
+p178
+aVBobby Simmons LAC 03/26/2012 LAC vs. NOH W 25 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 3 1 0 1 3 -5
+p179
+aVNick Young LAC 03/26/2012 LAC vs. NOH W 24 17 5 11 45.5 4 8 50.0 3 3 100.0 0 0 0 0 1 0 4 5 8
+p180
+aVEric Bledsoe LAC 03/26/2012 LAC vs. NOH W 13 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 3 0 3 0 -4
+p181
+aVChris Paul LAC 03/26/2012 LAC vs. NOH W 35 25 9 17 52.9 2 6 33.3 5 5 100.0 0 3 3 10 4 0 1 2 16
+p182
+aVTrey Thompkins LAC 03/26/2012 LAC vs. NOH W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p183
+aVDeAndre Jordan LAC 03/26/2012 LAC vs. NOH W 22 7 3 6 50.0 0 0 - 1 1 100.0 1 3 4 0 0 1 2 4 14
+p184
+aVKenyon Martin LAC 03/26/2012 LAC vs. NOH W 21 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 3 7
+p185
+aVRandy Foye LAC 03/24/2012 LAC vs. MEM W 30 18 5 11 45.5 4 8 50.0 4 5 80.0 0 3 3 1 1 1 2 3 16
+p186
+aVEric Bledsoe LAC 03/24/2012 LAC vs. MEM W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 1 1 0 -12
+p187
+aVNick Young LAC 03/24/2012 LAC vs. MEM W 26 16 6 13 46.2 0 1 0.0 4 5 80.0 2 1 3 1 0 0 0 1 5
+p188
+aVCaron Butler LAC 03/24/2012 LAC vs. MEM W 29 12 6 11 54.5 0 1 0.0 0 0 - 1 6 7 1 1 0 1 1 11
+p189
+aVBlake Griffin LAC 03/24/2012 LAC vs. MEM W 34 20 6 9 66.7 0 0 - 8 12 66.7 3 7 10 5 1 1 3 2 20
+p190
+aVKenyon Martin LAC 03/24/2012 LAC vs. MEM W 13 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 12
+p191
+aVChris Paul LAC 03/24/2012 LAC vs. MEM W 36 19 6 13 46.2 0 4 0.0 7 9 77.8 0 1 1 13 2 0 1 3 28
+p192
+aVReggie Evans LAC 03/24/2012 LAC vs. MEM W 13 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 2 0 1 4 -8
+p193
+aVDeAndre Jordan LAC 03/24/2012 LAC vs. MEM W 34 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 1 1 0 0 9
+p194
+aVTrey Thompkins LAC 03/24/2012 LAC vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p195
+aVBobby Simmons LAC 03/24/2012 LAC vs. MEM W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 0
+p196
+aVBlake Griffin LAC 03/22/2012 LAC @ NOH L 36 21 7 19 36.8 0 0 - 7 13 53.8 6 5 11 2 2 0 2 4 -3
+p197
+aVChris Paul LAC 03/22/2012 LAC @ NOH L 35 16 5 14 35.7 1 5 20.0 5 5 100.0 0 0 0 9 2 0 1 5 -5
+p198
+aVKenyon Martin LAC 03/22/2012 LAC @ NOH L 20 6 3 4 75.0 0 0 - 0 2 0.0 2 3 5 1 1 0 1 2 -6
+p199
+aVEric Bledsoe LAC 03/22/2012 LAC @ NOH L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -4
+p200
+aVDeAndre Jordan LAC 03/22/2012 LAC @ NOH L 27 14 7 8 87.5 0 0 - 0 0 - 5 4 9 0 1 0 0 4 -1
+p201
+aVCaron Butler LAC 03/22/2012 LAC @ NOH L 29 9 4 12 33.3 1 5 20.0 0 0 - 4 4 8 2 1 0 1 3 -3
+p202
+aVRandy Foye LAC 03/22/2012 LAC @ NOH L 23 3 1 14 7.1 1 8 12.5 0 0 - 0 1 1 3 1 0 0 2 -7
+p203
+aVNick Young LAC 03/22/2012 LAC @ NOH L 30 7 3 7 42.9 1 5 20.0 0 0 - 1 2 3 0 0 0 3 3 -2
+p204
+aVMo Williams LAC 03/22/2012 LAC @ NOH L 17 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 1 0 1 2 0
+p205
+aVReggie Evans LAC 03/22/2012 LAC @ NOH L 12 7 2 4 50.0 0 0 - 3 4 75.0 4 0 4 0 2 0 0 3 -4
+p206
+aVMo Williams LAC 03/21/2012 LAC @ OKC L 23 11 4 10 40.0 2 3 66.7 1 1 100.0 1 2 3 2 1 0 0 2 -18
+p207
+aVDeAndre Jordan LAC 03/21/2012 LAC @ OKC L 29 12 4 6 66.7 0 0 - 4 6 66.7 3 3 6 0 0 0 1 3 2
+p208
+aVTrey Thompkins LAC 03/21/2012 LAC @ OKC L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p209
+aVChris Paul LAC 03/21/2012 LAC @ OKC L 32 13 3 12 25.0 2 7 28.6 5 5 100.0 0 1 1 10 5 0 3 0 -4
+p210
+aVRandy Foye LAC 03/21/2012 LAC @ OKC L 35 23 9 15 60.0 5 10 50.0 0 0 - 0 1 1 2 0 0 3 1 -26
+p211
+aVKenyon Martin LAC 03/21/2012 LAC @ OKC L 20 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 0 2 1 1 3 -14
+p212
+aVBlake Griffin LAC 03/21/2012 LAC @ OKC L 33 7 3 11 27.3 0 0 - 1 2 50.0 1 6 7 3 1 0 0 4 -16
+p213
+aVNick Young LAC 03/21/2012 LAC @ OKC L 29 12 3 11 27.3 3 6 50.0 3 3 100.0 1 1 2 1 1 0 1 4 1
+p214
+aVRyan Gomes LAC 03/21/2012 LAC @ OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p215
+aVEric Bledsoe LAC 03/21/2012 LAC @ OKC L 14 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 1 0 1 2 0 -19
+p216
+aVTravis Leslie LAC 03/21/2012 LAC @ OKC L 4 2 0 1 0.0 0 0 - 2 4 50.0 1 0 1 0 1 0 0 1 -1
+p217
+aVReggie Evans LAC 03/21/2012 LAC @ OKC L 12 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 1 -15
+p218
+aVTrey Thompkins LAC 03/20/2012 LAC @ IND L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p219
+aVMo Williams LAC 03/20/2012 LAC @ IND L 28 12 5 11 45.5 1 5 20.0 1 1 100.0 1 0 1 1 1 0 0 2 -14
+p220
+aVNick Young LAC 03/20/2012 LAC @ IND L 36 13 5 13 38.5 1 6 16.7 2 2 100.0 2 3 5 1 0 0 2 2 -8
+p221
+aVReggie Evans LAC 03/20/2012 LAC @ IND L 14 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 3 -12
+p222
+aVDeAndre Jordan LAC 03/20/2012 LAC @ IND L 21 2 1 5 20.0 0 0 - 0 2 0.0 6 4 10 0 0 2 0 5 7
+p223
+aVKenyon Martin LAC 03/20/2012 LAC @ IND L 24 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 1 3 0 2 -22
+p224
+aVChris Paul LAC 03/20/2012 LAC @ IND L 35 16 6 11 54.5 1 3 33.3 3 6 50.0 0 1 1 8 1 0 1 2 -5
+p225
+aVRyan Gomes LAC 03/20/2012 LAC @ IND L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 1
+p226
+aVCaron Butler LAC 03/20/2012 LAC @ IND L 27 12 5 14 35.7 2 5 40.0 0 0 - 0 1 1 0 2 0 2 1 -6
+p227
+aVBlake Griffin LAC 03/20/2012 LAC @ IND L 35 23 10 18 55.6 1 1 100.0 2 7 28.6 4 6 10 1 0 0 1 3 0
+p228
+aVEric Bledsoe LAC 03/20/2012 LAC @ IND L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 1 1 0 1 -8
+p229
+aVTravis Leslie LAC 03/20/2012 LAC @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p230
+aVRandy Foye LAC 03/18/2012 LAC vs. DET W 25 14 6 14 42.9 2 6 33.3 0 0 - 0 3 3 1 1 0 2 3 6
+p231
+aVCaron Butler LAC 03/18/2012 LAC vs. DET W 37 6 3 16 18.8 0 2 0.0 0 0 - 3 5 8 1 2 0 0 4 4
+p232
+aVChris Paul LAC 03/18/2012 LAC vs. DET W 44 19 8 14 57.1 1 4 25.0 2 2 100.0 1 8 9 15 4 0 0 0 14
+p233
+aVBlake Griffin LAC 03/18/2012 LAC vs. DET W 39 17 7 13 53.8 0 1 0.0 3 7 42.9 2 9 11 1 1 1 3 5 8
+p234
+aVNick Young LAC 03/18/2012 LAC vs. DET W 28 9 1 6 16.7 0 1 0.0 7 8 87.5 0 0 0 1 2 0 0 2 0
+p235
+aVKenyon Martin LAC 03/18/2012 LAC vs. DET W 22 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 1 2 3 3 0
+p236
+aVMo Williams LAC 03/18/2012 LAC vs. DET W 24 5 2 10 20.0 1 4 25.0 0 0 - 0 0 0 3 0 0 0 0 1
+p237
+aVDeAndre Jordan LAC 03/18/2012 LAC vs. DET W 26 9 4 4 100.0 0 0 - 1 2 50.0 1 1 2 1 0 1 1 4 -4
+p238
+aVReggie Evans LAC 03/18/2012 LAC vs. DET W 8 0 0 0 - 0 0 - 0 0 - 3 1 4 0 1 0 1 2 -8
+p239
+aVBobby Simmons LAC 03/18/2012 LAC vs. DET W 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p240
+aVBlake Griffin LAC 03/17/2012 LAC vs. HOU W 31 18 7 13 53.8 0 0 - 4 6 66.7 3 5 8 4 2 0 0 6 6
+p241
+aVReggie Evans LAC 03/17/2012 LAC vs. HOU W 14 1 0 1 0.0 0 0 - 1 4 25.0 3 1 4 0 0 0 2 1 -19
+p242
+aVChris Paul LAC 03/17/2012 LAC vs. HOU W 38 23 7 16 43.8 1 4 25.0 8 8 100.0 2 1 3 5 5 1 2 1 12
+p243
+aVCaron Butler LAC 03/17/2012 LAC vs. HOU W 29 11 4 15 26.7 1 6 16.7 2 2 100.0 1 3 4 0 0 0 0 0 13
+p244
+aVRandy Foye LAC 03/17/2012 LAC vs. HOU W 36 15 6 17 35.3 1 6 16.7 2 2 100.0 2 3 5 4 1 1 0 1 16
+p245
+aVBobby Simmons LAC 03/17/2012 LAC vs. HOU W 17 3 1 3 33.3 1 3 33.3 0 0 - 2 0 2 0 0 0 0 0 -4
+p246
+aVKenyon Martin LAC 03/17/2012 LAC vs. HOU W 20 7 3 5 60.0 1 1 100.0 0 2 0.0 2 3 5 1 1 1 0 3 -8
+p247
+aVDeAndre Jordan LAC 03/17/2012 LAC vs. HOU W 28 6 2 5 40.0 0 0 - 2 3 66.7 4 7 11 0 0 1 2 2 23
+p248
+aVMo Williams LAC 03/17/2012 LAC vs. HOU W 26 11 5 11 45.5 1 3 33.3 0 0 - 0 3 3 3 1 0 3 3 -11
+p249
+aVEric Bledsoe LAC 03/17/2012 LAC vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -8
+p250
+aVBobby Simmons LAC 03/15/2012 LAC vs. PHX L 17 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -11
+p251
+aVEric Bledsoe LAC 03/15/2012 LAC vs. PHX L 10 0 0 4 0.0 0 1 0.0 0 0 - 2 1 3 2 1 0 0 0 -13
+p252
+aVCaron Butler LAC 03/15/2012 LAC vs. PHX L 31 14 6 13 46.2 2 3 66.7 0 0 - 1 2 3 3 0 0 1 3 7
+p253
+aVKenyon Martin LAC 03/15/2012 LAC vs. PHX L 18 10 5 9 55.6 0 0 - 0 0 - 1 4 5 0 0 0 1 2 -7
+p254
+aVReggie Evans LAC 03/15/2012 LAC vs. PHX L 16 3 1 3 33.3 0 0 - 1 3 33.3 3 2 5 0 2 0 0 2 5
+p255
+aVRandy Foye LAC 03/15/2012 LAC vs. PHX L 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -2
+p256
+aVBlake Griffin LAC 03/15/2012 LAC vs. PHX L 34 25 12 18 66.7 0 1 0.0 1 4 25.0 1 7 8 4 0 1 3 3 -9
+p257
+aVMo Williams LAC 03/15/2012 LAC vs. PHX L 35 10 4 14 28.6 2 8 25.0 0 0 - 0 1 1 3 0 0 4 3 -6
+p258
+aVChris Paul LAC 03/15/2012 LAC vs. PHX L 37 10 5 12 41.7 0 3 0.0 0 1 0.0 2 5 7 11 1 0 1 2 13
+p259
+aVDeAndre Jordan LAC 03/15/2012 LAC vs. PHX L 29 11 4 7 57.1 0 0 - 3 4 75.0 4 5 9 0 1 4 0 1 3
+p260
+aVEric Bledsoe LAC 03/14/2012 LAC vs. ATL W 17 14 5 8 62.5 2 3 66.7 2 3 66.7 0 0 0 0 4 2 1 1 -2
+p261
+aVRandy Foye LAC 03/14/2012 LAC vs. ATL W 19 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 1 0 0 0 10
+p262
+aVCaron Butler LAC 03/14/2012 LAC vs. ATL W 25 13 5 9 55.6 1 1 100.0 2 3 66.7 0 1 1 3 0 0 0 3 11
+p263
+aVDeAndre Jordan LAC 03/14/2012 LAC vs. ATL W 22 8 4 4 100.0 0 0 - 0 0 - 1 5 6 0 0 2 1 1 8
+p264
+aVBlake Griffin LAC 03/14/2012 LAC vs. ATL W 33 12 5 9 55.6 0 0 - 2 4 50.0 2 8 10 4 0 0 3 3 15
+p265
+aVReggie Evans LAC 03/14/2012 LAC vs. ATL W 21 6 3 4 75.0 0 0 - 0 1 0.0 4 6 10 0 0 0 2 2 2
+p266
+aVMo Williams LAC 03/14/2012 LAC vs. ATL W 31 25 9 18 50.0 3 5 60.0 4 4 100.0 0 2 2 3 2 1 3 0 5
+p267
+aVChris Paul LAC 03/14/2012 LAC vs. ATL W 31 13 5 9 55.6 3 5 60.0 0 0 - 0 2 2 9 2 0 0 1 16
+p268
+aVKenyon Martin LAC 03/14/2012 LAC vs. ATL W 20 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 1 0 1 2 3
+p269
+aVBobby Simmons LAC 03/14/2012 LAC vs. ATL W 21 0 0 5 0.0 0 4 0.0 0 0 - 0 2 2 0 1 0 0 6 2
+p270
+aVChris Paul LAC 03/12/2012 LAC vs. BOS L 40 14 3 12 25.0 1 5 20.0 7 7 100.0 2 2 4 5 2 0 4 4 -12
+p271
+aVRandy Foye LAC 03/12/2012 LAC vs. BOS L 19 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 2 1 -10
+p272
+aVEric Bledsoe LAC 03/12/2012 LAC vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p273
+aVKenyon Martin LAC 03/12/2012 LAC vs. BOS L 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 2 1 -4
+p274
+aVMo Williams LAC 03/12/2012 LAC vs. BOS L 33 21 8 18 44.4 1 8 12.5 4 4 100.0 0 1 1 4 4 0 2 3 5
+p275
+aVBobby Simmons LAC 03/12/2012 LAC vs. BOS L 24 6 2 5 40.0 2 4 50.0 0 0 - 1 2 3 0 1 0 1 3 -7
+p276
+aVBlake Griffin LAC 03/12/2012 LAC vs. BOS L 35 24 9 15 60.0 0 1 0.0 6 8 75.0 3 6 9 4 0 1 2 4 -9
+p277
+aVDeAndre Jordan LAC 03/12/2012 LAC vs. BOS L 23 6 3 10 30.0 0 0 - 0 0 - 8 5 13 0 1 1 0 1 0
+p278
+aVReggie Evans LAC 03/12/2012 LAC vs. BOS L 20 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 1 0 2 2 -6
+p279
+aVCaron Butler LAC 03/12/2012 LAC vs. BOS L 33 7 3 13 23.1 0 2 0.0 1 2 50.0 4 5 9 2 0 0 0 4 -1
+p280
+aVBlake Griffin LAC 03/11/2012 LAC vs. GSW L 38 27 10 19 52.6 0 1 0.0 7 15 46.7 5 7 12 3 0 2 3 3 -16
+p281
+aVDeAndre Jordan LAC 03/11/2012 LAC vs. GSW L 19 4 1 2 50.0 0 0 - 2 4 50.0 0 6 6 0 0 1 0 1 -19
+p282
+aVReggie Evans LAC 03/11/2012 LAC vs. GSW L 21 11 4 5 80.0 0 0 - 3 4 75.0 7 5 12 3 1 0 1 2 16
+p283
+aVMo Williams LAC 03/11/2012 LAC vs. GSW L 31 3 1 8 12.5 1 4 25.0 0 0 - 0 1 1 2 0 0 0 3 3
+p284
+aVChris Paul LAC 03/11/2012 LAC vs. GSW L 36 23 10 18 55.6 0 4 0.0 3 6 50.0 0 2 2 5 3 0 2 1 -4
+p285
+aVEric Bledsoe LAC 03/11/2012 LAC vs. GSW L 16 2 1 4 25.0 0 0 - 0 0 - 2 1 3 3 4 0 2 1 12
+p286
+aVBobby Simmons LAC 03/11/2012 LAC vs. GSW L 27 6 2 6 33.3 2 3 66.7 0 0 - 2 0 2 1 2 1 0 3 15
+p287
+aVRandy Foye LAC 03/11/2012 LAC vs. GSW L 33 16 5 11 45.5 3 6 50.0 3 4 75.0 0 3 3 4 1 3 3 3 -12
+p288
+aVCaron Butler LAC 03/11/2012 LAC vs. GSW L 20 1 0 6 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 3 -15
+p289
+aVReggie Evans LAC 03/09/2012 LAC @ SAS W 28 2 1 2 50.0 0 0 - 0 0 - 2 11 13 0 0 0 0 2 2
+p290
+aVEric Bledsoe LAC 03/09/2012 LAC @ SAS W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 9
+p291
+aVRandy Foye LAC 03/09/2012 LAC @ SAS W 33 15 5 12 41.7 3 7 42.9 2 2 100.0 0 2 2 1 0 0 0 2 0
+p292
+aVBlake Griffin LAC 03/09/2012 LAC @ SAS W 35 15 7 14 50.0 0 0 - 1 3 33.3 3 6 9 2 0 0 3 4 5
+p293
+aVMo Williams LAC 03/09/2012 LAC @ SAS W 35 33 12 19 63.2 7 9 77.8 2 2 100.0 0 2 2 2 1 0 0 0 18
+p294
+aVDeAndre Jordan LAC 03/09/2012 LAC @ SAS W 5 2 0 1 0.0 0 0 - 2 4 50.0 2 1 3 0 0 0 1 5 -3
+p295
+aVBobby Simmons LAC 03/09/2012 LAC @ SAS W 28 3 1 6 16.7 1 3 33.3 0 0 - 1 6 7 1 2 0 1 4 20
+p296
+aVCaron Butler LAC 03/09/2012 LAC @ SAS W 33 14 5 8 62.5 0 1 0.0 4 4 100.0 0 1 1 3 0 0 1 2 -5
+p297
+aVChris Paul LAC 03/09/2012 LAC @ SAS W 38 36 12 20 60.0 3 6 50.0 9 9 100.0 1 3 4 11 4 0 1 3 14
+p298
+aVBlake Griffin LAC 03/07/2012 LAC @ NJN L 39 28 9 15 60.0 0 0 - 10 17 58.8 6 11 17 2 2 1 2 2 -1
+p299
+aVReggie Evans LAC 03/07/2012 LAC @ NJN L 11 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 0 2 1 0
+p300
+aVEric Bledsoe LAC 03/07/2012 LAC @ NJN L 6 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 1 1 2 9
+p301
+aVKenyon Martin LAC 03/07/2012 LAC @ NJN L 27 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 1 0 0 0 2 12
+p302
+aVCaron Butler LAC 03/07/2012 LAC @ NJN L 24 2 1 6 16.7 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -7
+p303
+aVDeAndre Jordan LAC 03/07/2012 LAC @ NJN L 18 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -13
+p304
+aVRandy Foye LAC 03/07/2012 LAC @ NJN L 35 24 8 18 44.4 5 10 50.0 3 3 100.0 0 1 1 2 1 0 3 4 0
+p305
+aVMo Williams LAC 03/07/2012 LAC @ NJN L 32 9 4 12 33.3 1 5 20.0 0 0 - 0 1 1 2 0 0 2 4 8
+p306
+aVChris Paul LAC 03/07/2012 LAC @ NJN L 39 22 7 11 63.6 3 4 75.0 5 5 100.0 0 6 6 10 5 0 5 3 -4
+p307
+aVBobby Simmons LAC 03/07/2012 LAC @ NJN L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -9
+p308
+aVRandy Foye LAC 03/05/2012 LAC @ MIN L 16 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 2 0 0 0 1 1
+p309
+aVDeAndre Jordan LAC 03/05/2012 LAC @ MIN L 23 4 2 2 100.0 0 0 - 0 0 - 2 10 12 0 2 2 1 2 -3
+p310
+aVBlake Griffin LAC 03/05/2012 LAC @ MIN L 38 26 10 18 55.6 0 0 - 6 13 46.2 6 6 12 3 0 1 2 4 4
+p311
+aVReggie Evans LAC 03/05/2012 LAC @ MIN L 10 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 0 1 2 -5
+p312
+aVCaron Butler LAC 03/05/2012 LAC @ MIN L 19 0 0 6 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 -1
+p313
+aVKenyon Martin LAC 03/05/2012 LAC @ MIN L 26 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 2 0 0 2 2
+p314
+aVBobby Simmons LAC 03/05/2012 LAC @ MIN L 29 7 2 7 28.6 2 6 33.3 1 1 100.0 1 5 6 0 0 0 1 4 0
+p315
+aVEric Bledsoe LAC 03/05/2012 LAC @ MIN L 14 7 2 6 33.3 0 1 0.0 3 6 50.0 2 2 4 1 0 0 0 1 1
+p316
+aVChris Paul LAC 03/05/2012 LAC @ MIN L 35 18 5 14 35.7 0 4 0.0 8 9 88.9 1 3 4 5 1 0 2 1 -2
+p317
+aVMo Williams LAC 03/05/2012 LAC @ MIN L 32 19 7 14 50.0 2 7 28.6 3 3 100.0 0 2 2 3 1 0 0 3 -2
+p318
+aVBobby Simmons LAC 03/04/2012 LAC @ HOU W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 6
+p319
+aVBlake Griffin LAC 03/04/2012 LAC @ HOU W 38 14 5 14 35.7 0 0 - 4 7 57.1 4 7 11 3 2 1 4 1 -8
+p320
+aVReggie Evans LAC 03/04/2012 LAC @ HOU W 14 0 0 0 - 0 0 - 0 0 - 1 8 9 0 0 0 1 0 6
+p321
+aVRandy Foye LAC 03/04/2012 LAC @ HOU W 24 15 6 7 85.7 3 4 75.0 0 0 - 0 1 1 1 0 0 3 4 3
+p322
+aVDeAndre Jordan LAC 03/04/2012 LAC @ HOU W 28 8 4 5 80.0 0 0 - 0 1 0.0 4 7 11 0 0 1 0 5 -6
+p323
+aVChris Paul LAC 03/04/2012 LAC @ HOU W 42 28 10 22 45.5 0 3 0.0 8 10 80.0 1 3 4 10 1 0 2 4 -4
+p324
+aVCaron Butler LAC 03/04/2012 LAC @ HOU W 41 14 4 12 33.3 2 3 66.7 4 4 100.0 0 2 2 0 0 0 0 1 -2
+p325
+aVKenyon Martin LAC 03/04/2012 LAC @ HOU W 27 10 5 12 41.7 0 1 0.0 0 0 - 2 5 7 0 1 0 1 4 12
+p326
+aVEric Bledsoe LAC 03/04/2012 LAC @ HOU W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p327
+aVMo Williams LAC 03/04/2012 LAC @ HOU W 36 14 5 11 45.5 1 3 33.3 3 3 100.0 0 1 1 2 1 0 2 1 1
+p328
+aVEric Bledsoe LAC 03/02/2012 LAC @ PHX L 9 2 1 1 100.0 0 0 - 0 0 - 2 2 4 2 2 0 2 1 4
+p329
+aVCaron Butler LAC 03/02/2012 LAC @ PHX L 26 9 4 13 30.8 0 1 0.0 1 1 100.0 6 2 8 0 0 1 3 4 -5
+p330
+aVChris Paul LAC 03/02/2012 LAC @ PHX L 37 16 6 15 40.0 2 5 40.0 2 3 66.7 0 1 1 5 2 0 2 3 -2
+p331
+aVDeAndre Jordan LAC 03/02/2012 LAC @ PHX L 16 2 1 1 100.0 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -7
+p332
+aVMo Williams LAC 03/02/2012 LAC @ PHX L 30 13 5 13 38.5 3 4 75.0 0 0 - 1 1 2 3 0 0 1 0 9
+p333
+aVBobby Simmons LAC 03/02/2012 LAC @ PHX L 22 3 1 4 25.0 1 4 25.0 0 0 - 1 2 3 0 0 0 0 0 4
+p334
+aVReggie Evans LAC 03/02/2012 LAC @ PHX L 17 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 3 -4
+p335
+aVRandy Foye LAC 03/02/2012 LAC @ PHX L 20 2 1 8 12.5 0 2 0.0 0 0 - 0 4 4 0 0 1 1 1 -17
+p336
+aVKenyon Martin LAC 03/02/2012 LAC @ PHX L 26 14 7 11 63.6 0 0 - 0 0 - 1 7 8 0 3 1 0 4 10
+p337
+aVBlake Griffin LAC 03/02/2012 LAC @ PHX L 37 17 6 19 31.6 0 0 - 5 5 100.0 0 7 7 1 1 2 0 3 -7
+p338
+aVRyan Gomes LAC 03/01/2012 LAC @ SAC W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p339
+aVChris Paul LAC 03/01/2012 LAC @ SAC W 32 22 9 18 50.0 1 2 50.0 3 3 100.0 1 1 2 9 3 0 2 1 18
+p340
+aVReggie Evans LAC 03/01/2012 LAC @ SAC W 18 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 1 -6
+p341
+aVTrey Thompkins LAC 03/01/2012 LAC @ SAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -9
+p342
+aVBrian Cook LAC 03/01/2012 LAC @ SAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p343
+aVMo Williams LAC 03/01/2012 LAC @ SAC W 25 18 7 14 50.0 4 7 57.1 0 0 - 1 0 1 5 3 0 1 0 12
+p344
+aVKenyon Martin LAC 03/01/2012 LAC @ SAC W 23 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 0 3 0 3 12
+p345
+aVDeAndre Jordan LAC 03/01/2012 LAC @ SAC W 22 2 1 3 33.3 0 0 - 0 0 - 3 3 6 1 0 3 0 4 5
+p346
+aVBlake Griffin LAC 03/01/2012 LAC @ SAC W 30 14 7 12 58.3 0 0 - 0 0 - 2 7 9 3 1 0 2 0 14
+p347
+aVEric Bledsoe LAC 03/01/2012 LAC @ SAC W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 3 0 1 2 6 2
+p348
+aVBobby Simmons LAC 03/01/2012 LAC @ SAC W 24 13 5 8 62.5 3 4 75.0 0 0 - 0 2 2 1 0 0 0 2 11
+p349
+aVCaron Butler LAC 03/01/2012 LAC @ SAC W 21 13 5 11 45.5 1 2 50.0 2 2 100.0 0 2 2 1 2 0 0 0 6
+p350
+aVRandy Foye LAC 03/01/2012 LAC @ SAC W 27 16 6 13 46.2 3 7 42.9 1 1 100.0 0 4 4 5 1 1 1 2 -9
+p351
+aVReggie Evans LAC 02/28/2012 LAC vs. MIN L 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p352
+aVRandy Foye LAC 02/28/2012 LAC vs. MIN L 28 13 6 14 42.9 1 5 20.0 0 0 - 1 2 3 2 1 0 1 1 -1
+p353
+aVChris Paul LAC 02/28/2012 LAC vs. MIN L 37 27 11 17 64.7 1 2 50.0 4 6 66.7 0 4 4 6 1 1 1 2 -10
+p354
+aVTrey Thompkins LAC 02/28/2012 LAC vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p355
+aVCaron Butler LAC 02/28/2012 LAC vs. MIN L 29 2 1 10 10.0 0 0 - 0 0 - 2 2 4 1 0 0 0 4 4
+p356
+aVDeAndre Jordan LAC 02/28/2012 LAC vs. MIN L 36 14 7 9 77.8 0 0 - 0 0 - 4 10 14 0 2 4 0 4 -8
+p357
+aVBlake Griffin LAC 02/28/2012 LAC vs. MIN L 37 30 10 19 52.6 0 1 0.0 10 14 71.4 1 6 7 4 1 0 3 2 -2
+p358
+aVBrian Cook LAC 02/28/2012 LAC vs. MIN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p359
+aVMo Williams LAC 02/28/2012 LAC vs. MIN L 30 8 4 12 33.3 0 3 0.0 0 0 - 1 0 1 6 0 0 2 3 -17
+p360
+aVBobby Simmons LAC 02/28/2012 LAC vs. MIN L 17 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 1 0 1 4 -15
+p361
+aVKenyon Martin LAC 02/28/2012 LAC vs. MIN L 16 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -17
+p362
+aVEric Bledsoe LAC 02/28/2012 LAC vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p363
+aVCaron Butler LAC 02/22/2012 LAC vs. DEN W 33 6 3 7 42.9 0 1 0.0 0 0 - 1 4 5 2 0 0 2 3 6
+p364
+aVDeAndre Jordan LAC 02/22/2012 LAC vs. DEN W 26 10 5 9 55.6 0 0 - 0 1 0.0 9 7 16 0 1 3 3 4 1
+p365
+aVEric Bledsoe LAC 02/22/2012 LAC vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p366
+aVReggie Evans LAC 02/22/2012 LAC vs. DEN W 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 2 5 1
+p367
+aVMo Williams LAC 02/22/2012 LAC vs. DEN W 24 6 2 16 12.5 1 9 11.1 1 1 100.0 2 2 4 2 2 1 0 1 -2
+p368
+aVChris Paul LAC 02/22/2012 LAC vs. DEN W 39 36 11 16 68.8 3 7 42.9 11 12 91.7 0 1 1 9 2 0 3 1 22
+p369
+aVRyan Gomes LAC 02/22/2012 LAC vs. DEN W 9 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -1
+p370
+aVBlake Griffin LAC 02/22/2012 LAC vs. DEN W 37 27 11 18 61.1 0 1 0.0 5 10 50.0 3 9 12 5 1 0 0 4 19
+p371
+aVRandy Foye LAC 02/22/2012 LAC vs. DEN W 32 11 3 11 27.3 3 8 37.5 2 2 100.0 0 4 4 3 0 0 0 4 7
+p372
+aVKenyon Martin LAC 02/22/2012 LAC vs. DEN W 17 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 1 0 1 1 -5
+p373
+aVCaron Butler LAC 02/20/2012 LAC @ GSW L 30 8 3 10 30.0 0 3 0.0 2 2 100.0 0 5 5 2 1 0 2 1 -3
+p374
+aVBlake Griffin LAC 02/20/2012 LAC @ GSW L 29 21 7 10 70.0 0 1 0.0 7 10 70.0 2 7 9 2 0 0 2 5 -12
+p375
+aVMo Williams LAC 02/20/2012 LAC @ GSW L 33 22 8 16 50.0 6 8 75.0 0 0 - 1 0 1 1 0 0 3 2 -4
+p376
+aVChris Paul LAC 02/20/2012 LAC @ GSW L 40 24 7 16 43.8 3 7 42.9 7 8 87.5 3 2 5 6 1 0 5 3 -3
+p377
+aVDeAndre Jordan LAC 02/20/2012 LAC @ GSW L 31 5 2 6 33.3 0 0 - 1 2 50.0 4 7 11 1 0 1 1 3 -4
+p378
+aVRandy Foye LAC 02/20/2012 LAC @ GSW L 33 10 4 13 30.8 2 7 28.6 0 0 - 1 0 1 0 1 0 1 0 -14
+p379
+aVKenyon Martin LAC 02/20/2012 LAC @ GSW L 13 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 2 0 0 2 1 -1
+p380
+aVEric Bledsoe LAC 02/20/2012 LAC @ GSW L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p381
+aVReggie Evans LAC 02/20/2012 LAC @ GSW L 26 6 2 3 66.7 0 0 - 2 3 66.7 5 7 12 0 3 1 1 3 3
+p382
+aVBlake Griffin LAC 02/18/2012 LAC vs. SAS L 43 22 9 18 50.0 0 0 - 4 6 66.7 7 13 20 2 0 0 1 6 10
+p383
+aVEric Bledsoe LAC 02/18/2012 LAC vs. SAS L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 0 14
+p384
+aVDeAndre Jordan LAC 02/18/2012 LAC vs. SAS L 27 8 4 7 57.1 0 0 - 0 0 - 1 7 8 0 0 0 2 1 -10
+p385
+aVChris Paul LAC 02/18/2012 LAC vs. SAS L 41 21 6 19 31.6 1 3 33.3 8 8 100.0 0 2 2 6 2 0 2 1 -20
+p386
+aVMo Williams LAC 02/18/2012 LAC vs. SAS L 26 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 3 1 0 2 2 -6
+p387
+aVRandy Foye LAC 02/18/2012 LAC vs. SAS L 38 21 8 17 47.1 4 10 40.0 1 1 100.0 1 2 3 4 1 0 2 2 5
+p388
+aVRyan Gomes LAC 02/18/2012 LAC vs. SAS L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -8
+p389
+aVKenyon Martin LAC 02/18/2012 LAC vs. SAS L 30 3 1 4 25.0 0 1 0.0 1 2 50.0 0 7 7 2 2 0 3 2 4
+p390
+aVCaron Butler LAC 02/18/2012 LAC vs. SAS L 41 13 4 11 36.4 1 6 16.7 4 4 100.0 2 2 4 3 1 0 1 3 0
+p391
+aVReggie Evans LAC 02/18/2012 LAC vs. SAS L 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -4
+p392
+aVCaron Butler LAC 02/16/2012 LAC @ POR W 31 6 3 9 33.3 0 4 0.0 0 0 - 0 0 0 0 0 1 0 4 8
+p393
+aVReggie Evans LAC 02/16/2012 LAC @ POR W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 2 0
+p394
+aVRyan Gomes LAC 02/16/2012 LAC @ POR W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p395
+aVChris Paul LAC 02/16/2012 LAC @ POR W 38 13 5 15 33.3 1 2 50.0 2 3 66.7 1 5 6 3 4 0 4 1 4
+p396
+aVDeAndre Jordan LAC 02/16/2012 LAC @ POR W 20 5 2 3 66.7 0 0 - 1 2 50.0 3 4 7 0 1 4 3 4 0
+p397
+aVBlake Griffin LAC 02/16/2012 LAC @ POR W 37 21 9 15 60.0 0 0 - 3 4 75.0 4 10 14 1 0 1 3 5 1
+p398
+aVRandy Foye LAC 02/16/2012 LAC @ POR W 32 6 3 12 25.0 0 4 0.0 0 0 - 0 4 4 4 1 2 2 2 -8
+p399
+aVMo Williams LAC 02/16/2012 LAC @ POR W 35 17 5 15 33.3 1 7 14.3 6 8 75.0 2 4 6 2 0 2 2 0 8
+p400
+aVKenyon Martin LAC 02/16/2012 LAC @ POR W 29 6 3 8 37.5 0 0 - 0 2 0.0 2 4 6 1 1 0 0 4 5
+p401
+aVBrian Cook LAC 02/15/2012 LAC vs. WAS W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p402
+aVKenyon Martin LAC 02/15/2012 LAC vs. WAS W 23 4 2 5 40.0 0 0 - 0 2 0.0 0 3 3 0 1 1 1 3 10
+p403
+aVReggie Evans LAC 02/15/2012 LAC vs. WAS W 14 2 0 0 - 0 0 - 2 2 100.0 1 5 6 0 1 0 1 4 1
+p404
+aVMo Williams LAC 02/15/2012 LAC vs. WAS W 30 11 3 12 25.0 2 5 40.0 3 4 75.0 2 2 4 2 0 0 2 1 14
+p405
+aVTrey Thompkins LAC 02/15/2012 LAC vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p406
+aVChris Paul LAC 02/15/2012 LAC vs. WAS W 33 16 7 17 41.2 2 3 66.7 0 1 0.0 1 2 3 9 1 0 1 3 15
+p407
+aVRandy Foye LAC 02/15/2012 LAC vs. WAS W 36 10 2 7 28.6 2 6 33.3 4 4 100.0 2 1 3 4 1 0 1 2 21
+p408
+aVRyan Gomes LAC 02/15/2012 LAC vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p409
+aVDeAndre Jordan LAC 02/15/2012 LAC vs. WAS W 23 11 4 8 50.0 0 0 - 3 3 100.0 5 4 9 1 0 3 3 4 8
+p410
+aVEric Bledsoe LAC 02/15/2012 LAC vs. WAS W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -5
+p411
+aVTravis Leslie LAC 02/15/2012 LAC vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p412
+aVBlake Griffin LAC 02/15/2012 LAC vs. WAS W 34 23 10 19 52.6 0 0 - 3 5 60.0 8 7 15 3 1 0 1 3 17
+p413
+aVCaron Butler LAC 02/15/2012 LAC vs. WAS W 32 21 6 11 54.5 5 7 71.4 4 5 80.0 0 5 5 1 0 0 1 1 14
+p414
+aVBlake Griffin LAC 02/13/2012 LAC @ DAL L 40 20 9 17 52.9 0 0 - 2 9 22.2 1 6 7 2 0 0 4 3 -3
+p415
+aVDeAndre Jordan LAC 02/13/2012 LAC @ DAL L 20 5 2 3 66.7 0 0 - 1 2 50.0 3 6 9 0 0 2 0 2 -2
+p416
+aVKenyon Martin LAC 02/13/2012 LAC @ DAL L 26 10 5 7 71.4 0 1 0.0 0 0 - 0 3 3 1 0 4 1 4 -5
+p417
+aVRandy Foye LAC 02/13/2012 LAC @ DAL L 26 3 0 7 0.0 0 4 0.0 3 4 75.0 2 3 5 3 2 0 1 2 -12
+p418
+aVRyan Gomes LAC 02/13/2012 LAC @ DAL L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p419
+aVChris Paul LAC 02/13/2012 LAC @ DAL L 32 16 5 10 50.0 2 4 50.0 4 4 100.0 0 5 5 9 2 0 5 2 7
+p420
+aVReggie Evans LAC 02/13/2012 LAC @ DAL L 16 2 0 0 - 0 0 - 2 2 100.0 1 8 9 3 0 0 0 3 -1
+p421
+aVMo Williams LAC 02/13/2012 LAC @ DAL L 38 11 4 10 40.0 3 7 42.9 0 0 - 3 1 4 3 2 0 4 1 -3
+p422
+aVCaron Butler LAC 02/13/2012 LAC @ DAL L 35 23 7 18 38.9 5 10 50.0 4 4 100.0 1 7 8 1 1 0 4 3 -2
+p423
+aVBrian Cook LAC 02/11/2012 LAC @ CHA W 6 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 4 -3
+p424
+aVChris Paul LAC 02/11/2012 LAC @ CHA W 30 18 6 11 54.5 0 1 0.0 6 6 100.0 2 3 5 14 2 0 1 2 28
+p425
+aVRandy Foye LAC 02/11/2012 LAC @ CHA W 28 12 5 7 71.4 2 4 50.0 0 0 - 0 2 2 2 0 0 1 1 25
+p426
+aVDeAndre Jordan LAC 02/11/2012 LAC @ CHA W 24 11 5 6 83.3 0 0 - 1 2 50.0 5 7 12 1 0 2 1 2 24
+p427
+aVRyan Gomes LAC 02/11/2012 LAC @ CHA W 22 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 1 1 0 0 3 2
+p428
+aVCaron Butler LAC 02/11/2012 LAC @ CHA W 26 16 5 8 62.5 4 7 57.1 2 2 100.0 0 6 6 0 1 1 1 2 24
+p429
+aVEric Bledsoe LAC 02/11/2012 LAC @ CHA W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 5 -6
+p430
+aVKenyon Martin LAC 02/11/2012 LAC @ CHA W 16 7 2 5 40.0 0 1 0.0 3 4 75.0 0 3 3 0 0 0 1 2 4
+p431
+aVMo Williams LAC 02/11/2012 LAC @ CHA W 23 9 4 10 40.0 0 1 0.0 1 1 100.0 1 1 2 3 0 0 1 3 3
+p432
+aVTrey Thompkins LAC 02/11/2012 LAC @ CHA W 6 8 3 4 75.0 1 1 100.0 1 1 100.0 0 1 1 0 0 0 0 2 -3
+p433
+aVBlake Griffin LAC 02/11/2012 LAC @ CHA W 31 21 7 14 50.0 0 0 - 7 8 87.5 2 8 10 3 0 1 2 0 30
+p434
+aVTravis Leslie LAC 02/11/2012 LAC @ CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p435
+aVReggie Evans LAC 02/11/2012 LAC @ CHA W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p436
+aVMo Williams LAC 02/10/2012 LAC @ PHI W 33 14 6 15 40.0 2 7 28.6 0 1 0.0 0 3 3 0 0 0 1 1 0
+p437
+aVRyan Gomes LAC 02/10/2012 LAC @ PHI W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -2
+p438
+aVChris Paul LAC 02/10/2012 LAC @ PHI W 39 24 10 20 50.0 0 4 0.0 4 4 100.0 1 3 4 4 1 0 1 0 5
+p439
+aVReggie Evans LAC 02/10/2012 LAC @ PHI W 19 0 0 1 0.0 0 0 - 0 0 - 5 5 10 0 1 0 0 4 7
+p440
+aVKenyon Martin LAC 02/10/2012 LAC @ PHI W 23 3 1 2 50.0 0 0 - 1 2 50.0 2 5 7 0 0 1 1 4 1
+p441
+aVRandy Foye LAC 02/10/2012 LAC @ PHI W 27 10 4 14 28.6 0 5 0.0 2 2 100.0 0 1 1 4 0 0 0 3 1
+p442
+aVDeAndre Jordan LAC 02/10/2012 LAC @ PHI W 21 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 1 0 0 0 4 -1
+p443
+aVCaron Butler LAC 02/10/2012 LAC @ PHI W 28 6 2 8 25.0 0 3 0.0 2 2 100.0 0 3 3 1 2 0 2 4 -4
+p444
+aVBlake Griffin LAC 02/10/2012 LAC @ PHI W 40 16 8 19 42.1 0 0 - 0 2 0.0 4 7 11 4 1 0 1 2 -2
+p445
+aVCaron Butler LAC 02/08/2012 LAC @ CLE L 36 21 8 15 53.3 0 3 0.0 5 6 83.3 1 1 2 1 0 1 3 5 -4
+p446
+aVBlake Griffin LAC 02/08/2012 LAC @ CLE L 37 25 8 16 50.0 0 0 - 9 10 90.0 5 10 15 1 1 0 1 6 -1
+p447
+aVDeAndre Jordan LAC 02/08/2012 LAC @ CLE L 24 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 2 1 2 1
+p448
+aVKenyon Martin LAC 02/08/2012 LAC @ CLE L 20 6 3 7 42.9 0 1 0.0 0 0 - 3 1 4 0 1 2 1 4 0
+p449
+aVRyan Gomes LAC 02/08/2012 LAC @ CLE L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p450
+aVRandy Foye LAC 02/08/2012 LAC @ CLE L 28 15 5 11 45.5 3 6 50.0 2 2 100.0 0 1 1 2 1 0 1 1 -8
+p451
+aVMo Williams LAC 02/08/2012 LAC @ CLE L 34 5 2 10 20.0 0 3 0.0 1 1 100.0 0 0 0 3 2 0 2 4 -7
+p452
+aVReggie Evans LAC 02/08/2012 LAC @ CLE L 14 2 0 1 0.0 0 0 - 2 4 50.0 4 3 7 1 0 0 2 2 -10
+p453
+aVChris Paul LAC 02/08/2012 LAC @ CLE L 37 16 5 16 31.3 0 2 0.0 6 6 100.0 0 3 3 12 3 0 2 2 2
+p454
+aVDeAndre Jordan LAC 02/06/2012 LAC @ ORL W 32 8 4 8 50.0 0 0 - 0 1 0.0 4 4 8 2 1 0 1 6 -2
+p455
+aVMo Williams LAC 02/06/2012 LAC @ ORL W 32 9 3 12 25.0 1 5 20.0 2 2 100.0 0 4 4 4 0 0 2 2 6
+p456
+aVChauncey Billups LAC 02/06/2012 LAC @ ORL W 32 18 5 11 45.5 5 10 50.0 3 3 100.0 0 3 3 3 0 0 0 0 6
+p457
+aVReggie Evans LAC 02/06/2012 LAC @ ORL W 24 7 3 4 75.0 0 0 - 1 2 50.0 3 6 9 0 2 0 1 6 3
+p458
+aVChris Paul LAC 02/06/2012 LAC @ ORL W 44 29 9 16 56.3 3 3 100.0 8 8 100.0 0 7 7 8 2 0 3 3 -1
+p459
+aVRyan Gomes LAC 02/06/2012 LAC @ ORL W 10 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 0 2 0 0 0 3
+p460
+aVBrian Cook LAC 02/06/2012 LAC @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p461
+aVBlake Griffin LAC 02/06/2012 LAC @ ORL W 45 18 6 11 54.5 0 0 - 6 7 85.7 1 9 10 3 1 1 1 2 -3
+p462
+aVCaron Butler LAC 02/06/2012 LAC @ ORL W 38 14 5 13 38.5 4 11 36.4 0 0 - 1 2 3 1 3 0 4 0 6
+p463
+aVRandy Foye LAC 02/06/2012 LAC @ ORL W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p464
+aVTravis Leslie LAC 02/04/2012 LAC @ WAS W 6 6 3 3 100.0 0 0 - 0 1 0.0 2 1 3 0 0 1 0 0 -6
+p465
+aVTrey Thompkins LAC 02/04/2012 LAC @ WAS W 12 2 1 4 25.0 0 1 0.0 0 0 - 1 6 7 0 0 1 1 1 -8
+p466
+aVReggie Evans LAC 02/04/2012 LAC @ WAS W 13 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 1 0 2 1 5
+p467
+aVChauncey Billups LAC 02/04/2012 LAC @ WAS W 18 12 4 5 80.0 4 4 100.0 0 0 - 0 0 0 4 1 0 2 0 23
+p468
+aVDeAndre Jordan LAC 02/04/2012 LAC @ WAS W 33 18 9 11 81.8 0 0 - 0 0 - 7 4 11 0 0 3 2 2 27
+p469
+aVMo Williams LAC 02/04/2012 LAC @ WAS W 24 17 6 9 66.7 3 4 75.0 2 2 100.0 0 1 1 8 1 0 4 2 9
+p470
+aVChris Paul LAC 02/04/2012 LAC @ WAS W 28 2 1 8 12.5 0 1 0.0 0 2 0.0 1 2 3 7 3 0 1 3 28
+p471
+aVBlake Griffin LAC 02/04/2012 LAC @ WAS W 32 21 10 15 66.7 0 0 - 1 7 14.3 1 10 11 8 2 1 4 3 34
+p472
+aVCaron Butler LAC 02/04/2012 LAC @ WAS W 26 14 5 13 38.5 3 6 50.0 1 2 50.0 2 5 7 0 0 0 2 1 19
+p473
+aVBrian Cook LAC 02/04/2012 LAC @ WAS W 6 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 2 -6
+p474
+aVRandy Foye LAC 02/04/2012 LAC @ WAS W 21 8 3 6 50.0 1 4 25.0 1 2 50.0 0 2 2 4 0 0 3 2 3
+p475
+aVRyan Gomes LAC 02/04/2012 LAC @ WAS W 21 2 1 3 33.3 0 1 0.0 0 0 - 2 3 5 1 0 0 1 4 2
+p476
+aVChauncey Billups LAC 02/02/2012 LAC vs. DEN L 22 8 2 9 22.2 2 7 28.6 2 2 100.0 0 0 0 3 0 0 0 2 -18
+p477
+aVRandy Foye LAC 02/02/2012 LAC vs. DEN L 28 17 7 11 63.6 2 5 40.0 1 1 100.0 0 3 3 2 3 1 0 4 -6
+p478
+aVTrey Thompkins LAC 02/02/2012 LAC vs. DEN L 9 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 4
+p479
+aVChris Paul LAC 02/02/2012 LAC vs. DEN L 31 15 6 9 66.7 2 2 100.0 1 3 33.3 0 1 1 9 1 0 2 2 -12
+p480
+aVBlake Griffin LAC 02/02/2012 LAC vs. DEN L 32 18 9 12 75.0 0 0 - 0 2 0.0 1 4 5 2 1 1 2 3 -14
+p481
+aVCaron Butler LAC 02/02/2012 LAC vs. DEN L 26 11 5 14 35.7 1 4 25.0 0 0 - 1 1 2 0 0 0 0 2 -24
+p482
+aVTravis Leslie LAC 02/02/2012 LAC vs. DEN L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 0
+p483
+aVRyan Gomes LAC 02/02/2012 LAC vs. DEN L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p484
+aVDeAndre Jordan LAC 02/02/2012 LAC vs. DEN L 27 2 1 2 50.0 0 0 - 0 2 0.0 4 5 9 1 0 5 1 3 -25
+p485
+aVMo Williams LAC 02/02/2012 LAC vs. DEN L 24 13 6 13 46.2 1 5 20.0 0 0 - 0 3 3 6 1 0 3 1 -8
+p486
+aVReggie Evans LAC 02/02/2012 LAC vs. DEN L 12 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 0
+p487
+aVBrian Cook LAC 02/02/2012 LAC vs. DEN L 12 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 1 2 -2
+p488
+aVRandy Foye LAC 02/01/2012 LAC @ UTA W 19 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -4
+p489
+aVBlake Griffin LAC 02/01/2012 LAC @ UTA W 37 31 14 22 63.6 0 0 - 3 5 60.0 3 11 14 2 1 3 1 5 9
+p490
+aVRyan Gomes LAC 02/01/2012 LAC @ UTA W 21 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 3 4
+p491
+aVChris Paul LAC 02/01/2012 LAC @ UTA W 36 34 15 24 62.5 3 7 42.9 1 2 50.0 2 3 5 11 3 0 4 1 12
+p492
+aVReggie Evans LAC 02/01/2012 LAC @ UTA W 19 1 0 0 - 0 0 - 1 2 50.0 1 4 5 0 2 0 0 0 -5
+p493
+aVSolomon Jones LAC 02/01/2012 LAC @ UTA W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -14
+p494
+aVDeAndre Jordan LAC 02/01/2012 LAC @ UTA W 31 8 3 4 75.0 0 0 - 2 2 100.0 3 8 11 0 0 0 1 4 12
+p495
+aVChauncey Billups LAC 02/01/2012 LAC @ UTA W 34 8 1 8 12.5 0 5 0.0 6 7 85.7 0 7 7 3 0 0 3 3 0
+p496
+aVMo Williams LAC 02/01/2012 LAC @ UTA W 34 19 6 18 33.3 2 8 25.0 5 5 100.0 1 1 2 1 0 1 1 4 -4
+p497
+aVRandy Foye LAC 01/30/2012 LAC vs. OKC W 14 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 2 0 2 1 2
+p498
+aVSolomon Jones LAC 01/30/2012 LAC vs. OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p499
+aVDeAndre Jordan LAC 01/30/2012 LAC vs. OKC W 31 11 5 7 71.4 0 0 - 1 3 33.3 2 9 11 1 0 3 1 4 10
+p500
+aVChauncey Billups LAC 01/30/2012 LAC vs. OKC W 36 13 4 9 44.4 2 6 33.3 3 3 100.0 0 2 2 5 1 0 0 0 10
+p501
+aVBlake Griffin LAC 01/30/2012 LAC vs. OKC W 36 22 9 16 56.3 0 0 - 4 7 57.1 2 5 7 2 2 2 3 3 10
+p502
+aVChris Paul LAC 01/30/2012 LAC vs. OKC W 37 26 12 16 75.0 2 3 66.7 0 0 - 0 0 0 14 2 0 2 1 10
+p503
+aVMo Williams LAC 01/30/2012 LAC vs. OKC W 30 12 4 11 36.4 4 7 57.1 0 0 - 0 1 1 5 2 0 1 4 4
+p504
+aVTrey Thompkins LAC 01/30/2012 LAC vs. OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p505
+aVEric Bledsoe LAC 01/30/2012 LAC vs. OKC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p506
+aVReggie Evans LAC 01/30/2012 LAC vs. OKC W 17 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 0 0 0 0 1 4
+p507
+aVCaron Butler LAC 01/30/2012 LAC vs. OKC W 34 22 9 16 56.3 4 8 50.0 0 0 - 1 3 4 0 1 1 3 3 16
+p508
+aVBlake Griffin LAC 01/29/2012 LAC @ DEN W 40 17 7 16 43.8 0 0 - 3 6 50.0 4 9 13 3 0 4 2 2 21
+p509
+aVRandy Foye LAC 01/29/2012 LAC @ DEN W 13 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 2 0 1 0 1 2
+p510
+aVMo Williams LAC 01/29/2012 LAC @ DEN W 27 12 4 6 66.7 2 3 66.7 2 4 50.0 1 2 3 3 1 0 2 1 -3
+p511
+aVChauncey Billups LAC 01/29/2012 LAC @ DEN W 35 32 11 20 55.0 6 12 50.0 4 4 100.0 0 4 4 2 0 0 3 2 2
+p512
+aVChris Paul LAC 01/29/2012 LAC @ DEN W 38 25 9 19 47.4 3 6 50.0 4 4 100.0 1 5 6 7 2 1 1 4 19
+p513
+aVSolomon Jones LAC 01/29/2012 LAC @ DEN W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p514
+aVCaron Butler LAC 01/29/2012 LAC @ DEN W 28 9 3 10 30.0 2 5 40.0 1 2 50.0 0 3 3 3 1 0 1 2 4
+p515
+aVDeAndre Jordan LAC 01/29/2012 LAC @ DEN W 35 8 3 7 42.9 0 0 - 2 4 50.0 4 9 13 0 0 5 0 3 0
+p516
+aVRyan Gomes LAC 01/29/2012 LAC @ DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p517
+aVReggie Evans LAC 01/29/2012 LAC @ DEN W 12 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 1 0 0 2 -13
+p518
+aVRandy Foye LAC 01/26/2012 LAC vs. MEM W 17 7 2 2 100.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 0 2 -4
+p519
+aVChauncey Billups LAC 01/26/2012 LAC vs. MEM W 23 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 3 0 0 4 2 0
+p520
+aVDeAndre Jordan LAC 01/26/2012 LAC vs. MEM W 35 9 4 5 80.0 0 0 - 1 4 25.0 3 6 9 0 0 3 1 5 17
+p521
+aVRyan Gomes LAC 01/26/2012 LAC vs. MEM W 11 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 2 0 2 0 0
+p522
+aVReggie Evans LAC 01/26/2012 LAC vs. MEM W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p523
+aVMo Williams LAC 01/26/2012 LAC vs. MEM W 30 18 8 15 53.3 2 5 40.0 0 0 - 1 2 3 2 4 0 0 4 0
+p524
+aVCaron Butler LAC 01/26/2012 LAC vs. MEM W 30 17 6 11 54.5 3 5 60.0 2 2 100.0 0 0 0 2 2 0 2 4 10
+p525
+aVChris Paul LAC 01/26/2012 LAC vs. MEM W 36 18 3 11 27.3 2 4 50.0 10 11 90.9 0 7 7 7 2 0 2 3 18
+p526
+aVBlake Griffin LAC 01/26/2012 LAC vs. MEM W 40 20 8 14 57.1 0 1 0.0 4 8 50.0 1 8 9 8 0 2 3 2 5
+p527
+aVSolomon Jones LAC 01/26/2012 LAC vs. MEM W 13 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 2 0 -10
+p528
+aVChris Paul LAC 01/25/2012 LAC @ LAL L 27 4 2 8 25.0 0 3 0.0 0 1 0.0 0 4 4 12 1 0 0 2 6
+p529
+aVRyan Gomes LAC 01/25/2012 LAC @ LAL L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -9
+p530
+aVSolomon Jones LAC 01/25/2012 LAC @ LAL L 16 0 0 2 0.0 0 0 - 0 0 - 5 2 7 0 0 2 2 2 -3
+p531
+aVRandy Foye LAC 01/25/2012 LAC @ LAL L 12 5 2 9 22.2 1 3 33.3 0 0 - 1 2 3 2 0 0 1 1 -2
+p532
+aVChauncey Billups LAC 01/25/2012 LAC @ LAL L 33 9 1 8 12.5 0 2 0.0 7 9 77.8 1 0 1 4 2 0 0 4 -4
+p533
+aVReggie Evans LAC 01/25/2012 LAC @ LAL L 17 2 1 1 100.0 0 0 - 0 0 - 1 6 7 0 1 0 0 3 -6
+p534
+aVDeAndre Jordan LAC 01/25/2012 LAC @ LAL L 30 11 5 8 62.5 0 0 - 1 1 100.0 2 3 5 0 1 2 1 4 -2
+p535
+aVBlake Griffin LAC 01/25/2012 LAC @ LAL L 33 26 13 22 59.1 0 0 - 0 2 0.0 6 3 9 0 0 0 4 4 2
+p536
+aVMo Williams LAC 01/25/2012 LAC @ LAL L 23 16 6 16 37.5 3 6 50.0 1 1 100.0 1 0 1 1 0 0 1 2 -12
+p537
+aVCaron Butler LAC 01/25/2012 LAC @ LAL L 34 16 6 11 54.5 4 8 50.0 0 0 - 0 5 5 1 3 0 2 2 5
+p538
+aVCaron Butler LAC 01/22/2012 LAC vs. TOR W 24 15 6 10 60.0 1 2 50.0 2 5 40.0 0 2 2 0 1 1 2 1 18
+p539
+aVCourtney Fortson LAC 01/22/2012 LAC vs. TOR W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 1 -15
+p540
+aVChauncey Billups LAC 01/22/2012 LAC vs. TOR W 31 5 1 9 11.1 1 7 14.3 2 2 100.0 0 1 1 14 1 1 2 1 23
+p541
+aVMo Williams LAC 01/22/2012 LAC vs. TOR W 27 26 8 15 53.3 3 6 50.0 7 7 100.0 0 0 0 2 1 1 5 5 -1
+p542
+aVSolomon Jones LAC 01/22/2012 LAC vs. TOR W 23 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 1 2 0 0 3 -9
+p543
+aVRyan Gomes LAC 01/22/2012 LAC vs. TOR W 24 2 1 5 20.0 0 1 0.0 0 0 - 1 7 8 2 3 0 0 2 -6
+p544
+aVRandy Foye LAC 01/22/2012 LAC vs. TOR W 30 15 5 8 62.5 3 4 75.0 2 2 100.0 0 3 3 4 2 3 4 2 23
+p545
+aVBlake Griffin LAC 01/22/2012 LAC vs. TOR W 31 18 6 11 54.5 0 0 - 6 14 42.9 0 9 9 3 1 1 3 1 20
+p546
+aVTrey Thompkins LAC 01/22/2012 LAC vs. TOR W 3 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -6
+p547
+aVTravis Leslie LAC 01/22/2012 LAC vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p548
+aVReggie Evans LAC 01/22/2012 LAC vs. TOR W 14 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 2 0 1 4 -2
+p549
+aVDeAndre Jordan LAC 01/22/2012 LAC vs. TOR W 25 16 7 9 77.8 0 0 - 2 4 50.0 5 11 16 0 1 2 0 2 21
+p550
+aVBlake Griffin LAC 01/20/2012 LAC vs. MIN L 38 21 7 17 41.2 0 0 - 7 11 63.6 2 8 10 2 1 0 5 3 -6
+p551
+aVReggie Evans LAC 01/20/2012 LAC vs. MIN L 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -2
+p552
+aVMo Williams LAC 01/20/2012 LAC vs. MIN L 31 25 10 15 66.7 3 5 60.0 2 2 100.0 0 3 3 5 1 0 3 4 6
+p553
+aVRyan Gomes LAC 01/20/2012 LAC vs. MIN L 36 11 4 12 33.3 2 5 40.0 1 2 50.0 0 6 6 0 1 0 0 2 0
+p554
+aVDeAndre Jordan LAC 01/20/2012 LAC vs. MIN L 30 2 1 3 33.3 0 0 - 0 0 - 3 8 11 0 0 3 4 4 0
+p555
+aVRandy Foye LAC 01/20/2012 LAC vs. MIN L 40 12 4 7 57.1 3 4 75.0 1 2 50.0 0 1 1 2 2 0 1 3 -3
+p556
+aVSolomon Jones LAC 01/20/2012 LAC vs. MIN L 11 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 1 2 0 3 0
+p557
+aVChauncey Billups LAC 01/20/2012 LAC vs. MIN L 28 20 6 13 46.2 3 6 50.0 5 6 83.3 0 5 5 1 0 0 4 4 -13
+p558
+aVCourtney Fortson LAC 01/20/2012 LAC vs. MIN L 8 4 0 1 0.0 0 1 0.0 4 4 100.0 2 1 3 1 0 0 0 1 3
+p559
+aVCaron Butler LAC 01/18/2012 LAC vs. DAL W 36 2 1 12 8.3 0 4 0.0 0 0 - 2 3 5 3 2 0 0 1 2
+p560
+aVReggie Evans LAC 01/18/2012 LAC vs. DAL W 20 4 1 1 100.0 0 0 - 2 2 100.0 2 3 5 0 0 0 2 3 -13
+p561
+aVRandy Foye LAC 01/18/2012 LAC vs. DAL W 29 5 2 10 20.0 1 4 25.0 0 1 0.0 0 0 0 6 4 1 1 1 -1
+p562
+aVMo Williams LAC 01/18/2012 LAC vs. DAL W 35 26 11 15 73.3 2 2 100.0 2 2 100.0 0 1 1 4 2 0 2 1 -6
+p563
+aVChauncey Billups LAC 01/18/2012 LAC vs. DAL W 32 21 7 19 36.8 5 11 45.5 2 3 66.7 1 7 8 3 0 0 3 2 11
+p564
+aVRyan Gomes LAC 01/18/2012 LAC vs. DAL W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 1 0
+p565
+aVSolomon Jones LAC 01/18/2012 LAC vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p566
+aVBlake Griffin LAC 01/18/2012 LAC vs. DAL W 39 14 6 15 40.0 0 0 - 2 8 25.0 5 12 17 7 1 1 3 5 10
+p567
+aVDeAndre Jordan LAC 01/18/2012 LAC vs. DAL W 34 19 9 13 69.2 0 0 - 1 1 100.0 6 3 9 1 1 5 1 3 7
+p568
+aVTravis Leslie LAC 01/17/2012 LAC @ UTA L 10 2 1 6 16.7 0 0 - 0 0 - 2 0 2 2 0 1 1 1 -9
+p569
+aVReggie Evans LAC 01/17/2012 LAC @ UTA L 21 1 0 1 0.0 0 0 - 1 2 50.0 3 6 9 0 0 0 2 3 -18
+p570
+aVBlake Griffin LAC 01/17/2012 LAC @ UTA L 27 10 5 12 41.7 0 0 - 0 0 - 3 8 11 3 0 1 1 2 -14
+p571
+aVDeAndre Jordan LAC 01/17/2012 LAC @ UTA L 21 2 1 1 100.0 0 0 - 0 0 - 1 7 8 0 0 1 0 2 -7
+p572
+aVRyan Gomes LAC 01/17/2012 LAC @ UTA L 28 8 4 6 66.7 0 2 0.0 0 0 - 1 1 2 1 1 0 0 1 -18
+p573
+aVRandy Foye LAC 01/17/2012 LAC @ UTA L 29 11 4 14 28.6 3 6 50.0 0 0 - 0 0 0 1 1 1 2 4 -26
+p574
+aVChauncey Billups LAC 01/17/2012 LAC @ UTA L 24 10 3 12 25.0 0 4 0.0 4 6 66.7 0 2 2 6 0 0 3 4 -4
+p575
+aVSolomon Jones LAC 01/17/2012 LAC @ UTA L 8 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -7
+p576
+aVCourtney Fortson LAC 01/17/2012 LAC @ UTA L 23 13 5 10 50.0 1 2 50.0 2 5 40.0 2 2 4 2 0 0 2 1 -16
+p577
+aVCaron Butler LAC 01/17/2012 LAC @ UTA L 29 14 6 13 46.2 0 4 0.0 2 2 100.0 1 1 2 1 1 0 1 0 -14
+p578
+aVTrey Thompkins LAC 01/17/2012 LAC @ UTA L 19 7 2 10 20.0 0 2 0.0 3 4 75.0 0 4 4 1 1 0 1 2 -12
+p579
+aVReggie Evans LAC 01/16/2012 LAC vs. NJN W 12 6 2 2 100.0 0 0 - 2 5 40.0 4 0 4 1 1 0 2 4 -12
+p580
+aVChauncey Billups LAC 01/16/2012 LAC vs. NJN W 34 20 5 16 31.3 3 5 60.0 7 7 100.0 1 1 2 4 0 0 1 3 3
+p581
+aVCaron Butler LAC 01/16/2012 LAC vs. NJN W 38 20 8 17 47.1 3 8 37.5 1 4 25.0 0 6 6 5 3 0 2 0 18
+p582
+aVCourtney Fortson LAC 01/16/2012 LAC vs. NJN W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -6
+p583
+aVRyan Gomes LAC 01/16/2012 LAC vs. NJN W 23 5 1 2 50.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 0 4 0
+p584
+aVTrey Thompkins LAC 01/16/2012 LAC vs. NJN W 8 2 1 5 20.0 0 1 0.0 0 0 - 2 3 5 0 0 1 0 0 -4
+p585
+aVDeAndre Jordan LAC 01/16/2012 LAC vs. NJN W 34 12 5 6 83.3 0 0 - 2 4 50.0 2 7 9 1 1 4 0 1 18
+p586
+aVRandy Foye LAC 01/16/2012 LAC vs. NJN W 41 13 6 17 35.3 1 6 16.7 0 0 - 0 3 3 10 1 2 5 5 15
+p587
+aVBlake Griffin LAC 01/16/2012 LAC vs. NJN W 40 23 9 15 60.0 0 0 - 5 13 38.5 6 8 14 3 1 1 4 4 18
+p588
+aVCaron Butler LAC 01/14/2012 LAC vs. LAL W 32 13 4 14 28.6 1 4 25.0 4 4 100.0 2 3 5 1 1 0 3 2 6
+p589
+aVReggie Evans LAC 01/14/2012 LAC vs. LAL W 17 0 0 0 - 0 0 - 0 0 - 6 2 8 1 0 0 0 4 12
+p590
+aVRyan Gomes LAC 01/14/2012 LAC vs. LAL W 16 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 1 0 0 0 1 3
+p591
+aVRandy Foye LAC 01/14/2012 LAC vs. LAL W 24 10 2 11 18.2 1 5 20.0 5 6 83.3 0 2 2 0 0 0 0 1 -3
+p592
+aVBrian Cook LAC 01/14/2012 LAC vs. LAL W 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 0 -4
+p593
+aVChris Paul LAC 01/14/2012 LAC vs. LAL W 39 33 12 22 54.5 3 4 75.0 6 6 100.0 1 3 4 6 3 0 1 3 15
+p594
+aVChauncey Billups LAC 01/14/2012 LAC vs. LAL W 33 19 6 12 50.0 4 6 66.7 3 4 75.0 1 3 4 3 0 0 2 2 4
+p595
+aVDeAndre Jordan LAC 01/14/2012 LAC vs. LAL W 28 4 2 3 66.7 0 0 - 0 1 0.0 4 6 10 0 0 0 0 4 -3
+p596
+aVBlake Griffin LAC 01/14/2012 LAC vs. LAL W 45 22 9 18 50.0 0 0 - 4 7 57.1 3 11 14 5 1 0 3 5 10
+p597
+aVRyan Gomes LAC 01/11/2012 LAC vs. MIA W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -3
+p598
+aVMo Williams LAC 01/11/2012 LAC vs. MIA W 21 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 0
+p599
+aVCaron Butler LAC 01/11/2012 LAC vs. MIA W 42 20 6 11 54.5 3 4 75.0 5 5 100.0 0 4 4 1 0 0 2 4 10
+p600
+aVReggie Evans LAC 01/11/2012 LAC vs. MIA W 21 0 0 1 0.0 0 0 - 0 2 0.0 3 5 8 0 0 1 2 1 -4
+p601
+aVRandy Foye LAC 01/11/2012 LAC vs. MIA W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p602
+aVBrian Cook LAC 01/11/2012 LAC vs. MIA W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p603
+aVChauncey Billups LAC 01/11/2012 LAC vs. MIA W 40 12 2 11 18.2 2 8 25.0 6 7 85.7 0 1 1 6 2 0 4 2 7
+p604
+aVDeAndre Jordan LAC 01/11/2012 LAC vs. MIA W 40 8 4 5 80.0 0 0 - 0 0 - 3 8 11 0 0 6 3 4 9
+p605
+aVBlake Griffin LAC 01/11/2012 LAC vs. MIA W 41 20 9 23 39.1 1 1 100.0 1 4 25.0 4 8 12 2 1 1 2 5 9
+p606
+aVChris Paul LAC 01/11/2012 LAC vs. MIA W 45 27 11 21 52.4 0 2 0.0 5 5 100.0 0 6 6 11 3 0 1 2 13
+p607
+aVChauncey Billups LAC 01/10/2012 LAC @ POR L 31 19 5 13 38.5 2 6 33.3 7 8 87.5 0 1 1 4 0 0 5 1 -5
+p608
+aVRandy Foye LAC 01/10/2012 LAC @ POR L 10 5 1 4 25.0 0 2 0.0 3 3 100.0 0 0 0 1 0 0 0 2 -4
+p609
+aVCaron Butler LAC 01/10/2012 LAC @ POR L 39 20 8 19 42.1 2 7 28.6 2 3 66.7 1 5 6 2 0 0 1 4 -4
+p610
+aVDeAndre Jordan LAC 01/10/2012 LAC @ POR L 33 4 1 3 33.3 0 1 0.0 2 4 50.0 2 3 5 0 1 3 0 3 -6
+p611
+aVRyan Gomes LAC 01/10/2012 LAC @ POR L 11 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 0 3
+p612
+aVChris Paul LAC 01/10/2012 LAC @ POR L 31 11 4 9 44.4 1 1 100.0 2 2 100.0 2 2 4 3 2 0 2 5 -8
+p613
+aVBrian Cook LAC 01/10/2012 LAC @ POR L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p614
+aVMo Williams LAC 01/10/2012 LAC @ POR L 26 14 6 10 60.0 1 3 33.3 1 1 100.0 0 3 3 4 1 0 2 3 -5
+p615
+aVBlake Griffin LAC 01/10/2012 LAC @ POR L 38 18 9 17 52.9 0 0 - 0 2 0.0 5 7 12 2 1 0 3 5 -1
+p616
+aVReggie Evans LAC 01/10/2012 LAC @ POR L 17 2 1 1 100.0 0 0 - 0 1 0.0 2 5 7 1 0 1 0 3 4
+p617
+aVCaron Butler LAC 01/07/2012 LAC vs. MIL W 35 20 7 15 46.7 2 6 33.3 4 4 100.0 1 5 6 0 2 0 0 2 9
+p618
+aVReggie Evans LAC 01/07/2012 LAC vs. MIL W 19 3 1 1 100.0 0 0 - 1 6 16.7 2 4 6 0 0 1 0 2 -2
+p619
+aVBlake Griffin LAC 01/07/2012 LAC vs. MIL W 40 22 8 15 53.3 0 0 - 6 11 54.5 3 11 14 1 1 2 5 2 10
+p620
+aVBrian Cook LAC 01/07/2012 LAC vs. MIL W 8 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 0 0 1 0 1 -4
+p621
+aVRyan Gomes LAC 01/07/2012 LAC vs. MIL W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -1
+p622
+aVMo Williams LAC 01/07/2012 LAC vs. MIL W 22 10 4 7 57.1 0 1 0.0 2 2 100.0 0 0 0 4 1 1 3 0 -11
+p623
+aVChris Paul LAC 01/07/2012 LAC vs. MIL W 37 9 3 6 50.0 0 1 0.0 3 4 75.0 1 0 1 7 4 0 4 4 13
+p624
+aVChauncey Billups LAC 01/07/2012 LAC vs. MIL W 32 19 5 14 35.7 2 6 33.3 7 7 100.0 0 1 1 3 1 0 0 3 15
+p625
+aVRandy Foye LAC 01/07/2012 LAC vs. MIL W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 1 0 1 -7
+p626
+aVDeAndre Jordan LAC 01/07/2012 LAC vs. MIL W 29 3 0 2 0.0 0 0 - 3 6 50.0 1 4 5 0 1 3 0 5 8
+p627
+aVBrian Cook LAC 01/04/2012 LAC vs. HOU W 14 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 0 0 1 1 3 14
+p628
+aVSolomon Jones LAC 01/04/2012 LAC vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p629
+aVRyan Gomes LAC 01/04/2012 LAC vs. HOU W 22 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 2 0 0 2 11
+p630
+aVDeAndre Jordan LAC 01/04/2012 LAC vs. HOU W 28 7 2 2 100.0 0 0 - 3 4 75.0 2 6 8 0 0 0 0 1 17
+p631
+aVMo Williams LAC 01/04/2012 LAC vs. HOU W 22 7 3 5 60.0 0 1 0.0 1 1 100.0 0 2 2 7 1 0 0 2 16
+p632
+aVTravis Leslie LAC 01/04/2012 LAC vs. HOU W 5 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 0 1 0 0 0 -2
+p633
+aVBlake Griffin LAC 01/04/2012 LAC vs. HOU W 32 22 10 15 66.7 0 0 - 2 5 40.0 1 8 9 3 2 1 2 2 20
+p634
+aVTrey Thompkins LAC 01/04/2012 LAC vs. HOU W 14 8 4 9 44.4 0 2 0.0 0 0 - 1 2 3 2 0 0 1 1 5
+p635
+aVRandy Foye LAC 01/04/2012 LAC vs. HOU W 19 16 6 8 75.0 1 1 100.0 3 4 75.0 0 1 1 3 1 0 1 4 11
+p636
+aVChris Paul LAC 01/04/2012 LAC vs. HOU W 29 20 9 14 64.3 2 3 66.7 0 0 - 0 2 2 10 3 0 2 1 17
+p637
+aVChauncey Billups LAC 01/04/2012 LAC vs. HOU W 23 13 3 5 60.0 1 2 50.0 6 6 100.0 0 1 1 4 0 1 0 1 14
+p638
+aVCaron Butler LAC 01/04/2012 LAC vs. HOU W 27 11 5 10 50.0 1 4 25.0 0 0 - 0 1 1 1 1 0 0 0 19
+p639
+aVBrian Cook LAC 01/01/2012 LAC vs. POR W 13 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 0 0 0 1 1 -2
+p640
+aVRandy Foye LAC 01/01/2012 LAC vs. POR W 26 8 3 9 33.3 1 4 25.0 1 2 50.0 1 2 3 3 1 1 1 2 12
+p641
+aVCaron Butler LAC 01/01/2012 LAC vs. POR W 42 19 7 16 43.8 2 8 25.0 3 5 60.0 0 5 5 2 1 0 2 2 7
+p642
+aVRyan Gomes LAC 01/01/2012 LAC vs. POR W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 4 1 -1
+p643
+aVDeAndre Jordan LAC 01/01/2012 LAC vs. POR W 39 9 4 6 66.7 0 0 - 1 4 25.0 4 7 11 1 3 1 2 2 8
+p644
+aVMo Williams LAC 01/01/2012 LAC vs. POR W 33 13 5 13 38.5 1 5 20.0 2 3 66.7 1 3 4 8 3 0 3 2 -8
+p645
+aVChris Paul LAC 01/01/2012 LAC vs. POR W 37 17 8 15 53.3 1 5 20.0 0 0 - 0 1 1 7 2 0 3 3 6
+p646
+aVTrey Thompkins LAC 01/01/2012 LAC vs. POR W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p647
+aVBlake Griffin LAC 01/01/2012 LAC vs. POR W 37 20 6 11 54.5 0 0 - 8 10 80.0 1 9 10 4 1 0 5 4 2
+p648
+aVChris Paul LAC 12/30/2011 LAC vs. CHI L 44 15 7 14 50.0 1 1 100.0 0 1 0.0 0 4 4 14 4 0 3 2 -13
+p649
+aVRandy Foye LAC 12/30/2011 LAC vs. CHI L 19 6 2 6 33.3 2 4 50.0 0 0 - 0 0 0 1 0 0 1 2 -15
+p650
+aVCaron Butler LAC 12/30/2011 LAC vs. CHI L 39 16 6 11 54.5 1 4 25.0 3 4 75.0 0 1 1 4 1 0 2 4 -2
+p651
+aVRyan Gomes LAC 12/30/2011 LAC vs. CHI L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -18
+p652
+aVBrian Cook LAC 12/30/2011 LAC vs. CHI L 17 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 0 0 0 5 -6
+p653
+aVDeAndre Jordan LAC 12/30/2011 LAC vs. CHI L 26 12 5 6 83.3 0 0 - 2 4 50.0 1 4 5 0 0 3 2 5 0
+p654
+aVMo Williams LAC 12/30/2011 LAC vs. CHI L 33 13 5 10 50.0 2 2 100.0 1 1 100.0 1 2 3 3 0 0 0 3 2
+p655
+aVBlake Griffin LAC 12/30/2011 LAC vs. CHI L 42 34 14 25 56.0 0 0 - 6 10 60.0 6 7 13 3 1 0 2 1 -9
+p656
+aVTrey Thompkins LAC 12/30/2011 LAC vs. CHI L 9 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p657
+aVChauncey Billups LAC 12/28/2011 LAC @ SAS L 28 11 2 5 40.0 2 4 50.0 5 5 100.0 0 0 0 1 1 1 1 2 -11
+p658
+aVTrey Thompkins LAC 12/28/2011 LAC @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p659
+aVChris Paul LAC 12/28/2011 LAC @ SAS L 36 10 3 10 30.0 1 2 50.0 3 4 75.0 1 2 3 9 2 0 2 2 -17
+p660
+aVDeAndre Jordan LAC 12/28/2011 LAC @ SAS L 33 8 2 4 50.0 0 0 - 4 6 66.7 4 4 8 0 3 3 3 5 -11
+p661
+aVMo Williams LAC 12/28/2011 LAC @ SAS L 28 12 4 11 36.4 1 2 50.0 3 4 75.0 0 1 1 2 1 0 1 2 -19
+p662
+aVBlake Griffin LAC 12/28/2011 LAC @ SAS L 34 28 11 19 57.9 0 0 - 6 8 75.0 3 6 9 2 0 0 1 2 -37
+p663
+aVCaron Butler LAC 12/28/2011 LAC @ SAS L 26 12 4 10 40.0 2 5 40.0 2 3 66.7 0 1 1 1 0 0 1 1 -13
+p664
+aVRyan Gomes LAC 12/28/2011 LAC @ SAS L 26 5 2 6 33.3 1 4 25.0 0 0 - 2 3 5 2 0 0 1 1 -6
+p665
+aVBrian Cook LAC 12/28/2011 LAC @ SAS L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 1 0 1 -2
+p666
+aVRandy Foye LAC 12/28/2011 LAC @ SAS L 13 2 1 6 16.7 0 3 0.0 0 1 0.0 0 0 0 0 0 0 1 1 -9
+p667
+aVTravis Leslie LAC 12/28/2011 LAC @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p668
+aVMo Williams LAC 12/25/2011 LAC @ GSW W 22 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 3 2 0 1 1 1
+p669
+aVCaron Butler LAC 12/25/2011 LAC @ GSW W 36 11 4 10 40.0 1 3 33.3 2 3 66.7 0 10 10 4 3 0 0 0 17
+p670
+aVRandy Foye LAC 12/25/2011 LAC @ GSW W 11 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 1 0 0 1 0 2
+p671
+aVChauncey Billups LAC 12/25/2011 LAC @ GSW W 38 21 6 19 31.6 3 10 30.0 6 6 100.0 0 5 5 4 0 0 1 2 18
+p672
+aVChris Paul LAC 12/25/2011 LAC @ GSW W 37 20 7 12 58.3 1 3 33.3 5 6 83.3 1 1 2 9 2 0 2 4 19
+p673
+aVDeAndre Jordan LAC 12/25/2011 LAC @ GSW W 31 6 1 2 50.0 0 0 - 4 12 33.3 3 2 5 0 0 8 2 2 15
+p674
+aVBlake Griffin LAC 12/25/2011 LAC @ GSW W 35 22 9 18 50.0 0 0 - 4 8 50.0 5 2 7 1 2 0 3 4 17
+p675
+aVRyan Gomes LAC 12/25/2011 LAC @ GSW W 14 6 3 4 75.0 0 1 0.0 0 1 0.0 1 3 4 0 0 0 0 1 12
+p676
+aVBrian Cook LAC 12/25/2011 LAC @ GSW W 16 8 2 7 28.6 2 4 50.0 2 2 100.0 2 4 6 0 0 0 0 5 -6
+p677
+a.

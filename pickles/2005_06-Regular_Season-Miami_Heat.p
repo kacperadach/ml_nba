@@ -1,0 +1,1630 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDerek Anderson MIA 04/19/2006 MIA @ BOS L 19 2 0 4 0.0 0 2 0.0 2 4 50.0 0 2 2 4 0 0 0 1 -9
+p2
+aVEarl Barron MIA 04/19/2006 MIA @ BOS L 17 1 0 6 0.0 0 0 - 1 2 50.0 1 4 5 0 0 0 2 3 -9
+p3
+aVShandon Anderson MIA 04/19/2006 MIA @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p4
+aVDorell Wright MIA 04/19/2006 MIA @ BOS L 30 20 5 10 50.0 0 1 0.0 10 12 83.3 0 7 7 3 2 0 4 3 0
+p5
+aVGary Payton MIA 04/19/2006 MIA @ BOS L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p6
+aVWayne Simien MIA 04/19/2006 MIA @ BOS L 24 9 3 6 50.0 0 0 - 3 3 100.0 2 3 5 0 2 0 4 3 -6
+p7
+aVMichael Doleac MIA 04/19/2006 MIA @ BOS L 26 7 3 7 42.9 0 0 - 1 2 50.0 1 1 2 0 0 1 0 2 1
+p8
+aVUdonis Haslem MIA 04/19/2006 MIA @ BOS L 22 8 3 7 42.9 0 0 - 2 4 50.0 2 6 8 0 2 0 0 3 3
+p9
+aVAntoine Walker MIA 04/19/2006 MIA @ BOS L 24 14 4 11 36.4 4 7 57.1 2 2 100.0 0 2 2 1 1 1 1 2 -1
+p10
+aVJames Posey MIA 04/19/2006 MIA @ BOS L 31 8 2 10 20.0 1 2 50.0 3 3 100.0 0 5 5 2 2 1 0 4 -9
+p11
+aVJason Kapono MIA 04/19/2006 MIA @ BOS L 34 9 3 7 42.9 0 0 - 3 5 60.0 1 4 5 1 0 0 2 2 -5
+p12
+aVJason Williams MIA 04/18/2006 MIA @ ATL L 21 13 6 14 42.9 1 4 25.0 0 0 - 0 1 1 3 0 0 0 0 0
+p13
+aVAntoine Walker MIA 04/18/2006 MIA @ ATL L 30 14 6 12 50.0 1 5 20.0 1 2 50.0 1 4 5 5 0 0 3 3 1
+p14
+aVMichael Doleac MIA 04/18/2006 MIA @ ATL L 26 3 1 6 16.7 0 0 - 1 2 50.0 2 6 8 0 2 1 1 3 -3
+p15
+aVUdonis Haslem MIA 04/18/2006 MIA @ ATL L 16 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -6
+p16
+aVJames Posey MIA 04/18/2006 MIA @ ATL L 25 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 2 0 0 1 1 11
+p17
+aVDerek Anderson MIA 04/18/2006 MIA @ ATL L 23 5 2 9 22.2 0 2 0.0 1 2 50.0 0 6 6 4 1 1 1 0 -8
+p18
+aVDorell Wright MIA 04/18/2006 MIA @ ATL L 28 19 7 11 63.6 3 5 60.0 2 2 100.0 0 7 7 4 0 0 1 1 0
+p19
+aVJason Kapono MIA 04/18/2006 MIA @ ATL L 27 16 7 9 77.8 0 0 - 2 2 100.0 0 2 2 6 0 1 2 3 0
+p20
+aVWayne Simien MIA 04/18/2006 MIA @ ATL L 28 9 3 6 50.0 0 0 - 3 4 75.0 3 0 3 1 0 1 2 3 -7
+p21
+aVEarl Barron MIA 04/18/2006 MIA @ ATL L 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 0 5 -3
+p22
+aVWayne Simien MIA 04/16/2006 MIA vs. CHI L 16 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 0 1 0 2 6 -4
+p23
+aVDwyane Wade MIA 04/16/2006 MIA vs. CHI L 20 8 2 12 16.7 0 0 - 4 4 100.0 1 3 4 2 2 0 4 4 -6
+p24
+aVShaquille O'Neal MIA 04/16/2006 MIA vs. CHI L 20 14 5 8 62.5 0 0 - 4 7 57.1 3 3 6 2 0 2 1 2 1
+p25
+aVEarl Barron MIA 04/16/2006 MIA vs. CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p26
+aVJames Posey MIA 04/16/2006 MIA vs. CHI L 24 7 2 5 40.0 1 4 25.0 2 2 100.0 0 3 3 0 1 0 2 4 -23
+p27
+aVMichael Doleac MIA 04/16/2006 MIA vs. CHI L 28 12 4 7 57.1 0 0 - 4 4 100.0 2 2 4 0 0 2 1 2 -25
+p28
+aVAntoine Walker MIA 04/16/2006 MIA vs. CHI L 30 22 8 13 61.5 4 4 100.0 2 2 100.0 1 4 5 1 1 0 1 1 -15
+p29
+aVDerek Anderson MIA 04/16/2006 MIA vs. CHI L 21 10 3 6 50.0 0 1 0.0 4 4 100.0 0 2 2 3 0 0 2 1 -16
+p30
+aVShandon Anderson MIA 04/16/2006 MIA vs. CHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -12
+p31
+aVJason Williams MIA 04/16/2006 MIA vs. CHI L 22 9 3 8 37.5 1 4 25.0 2 2 100.0 0 1 1 3 0 0 2 0 -2
+p32
+aVGary Payton MIA 04/16/2006 MIA vs. CHI L 26 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -12
+p33
+aVUdonis Haslem MIA 04/16/2006 MIA vs. CHI L 24 0 0 4 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 4 1
+p34
+aVGary Payton MIA 04/14/2006 MIA vs. PHI W 31 10 5 6 83.3 0 1 0.0 0 0 - 0 1 1 4 1 0 1 4 17
+p35
+aVDerek Anderson MIA 04/14/2006 MIA vs. PHI W 19 2 0 3 0.0 0 3 0.0 2 2 100.0 0 0 0 2 0 0 1 3 1
+p36
+aVAntoine Walker MIA 04/14/2006 MIA vs. PHI W 33 16 7 14 50.0 2 6 33.3 0 0 - 2 2 4 2 0 0 3 2 4
+p37
+aVUdonis Haslem MIA 04/14/2006 MIA vs. PHI W 43 24 9 15 60.0 0 0 - 6 7 85.7 6 8 14 1 5 2 0 1 28
+p38
+aVShandon Anderson MIA 04/14/2006 MIA vs. PHI W 24 5 2 4 50.0 0 1 0.0 1 2 50.0 0 2 2 1 2 0 1 5 3
+p39
+aVShaquille O'Neal MIA 04/14/2006 MIA vs. PHI W 35 15 5 10 50.0 0 0 - 5 7 71.4 1 9 10 1 0 1 2 4 34
+p40
+aVWayne Simien MIA 04/14/2006 MIA vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p41
+aVJason Kapono MIA 04/14/2006 MIA vs. PHI W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p42
+aVDwyane Wade MIA 04/14/2006 MIA vs. PHI W 39 25 10 19 52.6 0 0 - 5 7 71.4 1 5 6 8 4 1 7 3 25
+p43
+aVMichael Doleac MIA 04/14/2006 MIA vs. PHI W 12 7 2 3 66.7 0 0 - 3 4 75.0 2 2 4 0 0 0 0 1 -15
+p44
+aVAntoine Walker MIA 04/11/2006 MIA vs. TOR W 44 32 13 26 50.0 2 8 25.0 4 4 100.0 1 7 8 5 2 1 1 0 13
+p45
+aVJason Kapono MIA 04/11/2006 MIA vs. TOR W 9 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 2 0 0 0 3 -4
+p46
+aVDerek Anderson MIA 04/11/2006 MIA vs. TOR W 30 17 5 11 45.5 4 7 57.1 3 4 75.0 2 1 3 2 0 0 0 3 -1
+p47
+aVGary Payton MIA 04/11/2006 MIA vs. TOR W 38 15 6 15 40.0 0 2 0.0 3 4 75.0 0 4 4 3 2 0 3 3 11
+p48
+aVShandon Anderson MIA 04/11/2006 MIA vs. TOR W 35 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 0 0 1 4 9
+p49
+aVShaquille O'Neal MIA 04/11/2006 MIA vs. TOR W 28 15 7 9 77.8 0 0 - 1 5 20.0 4 7 11 10 0 1 3 5 0
+p50
+aVMichael Doleac MIA 04/11/2006 MIA vs. TOR W 15 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 0 11
+p51
+aVUdonis Haslem MIA 04/11/2006 MIA vs. TOR W 40 15 6 6 100.0 0 0 - 3 4 75.0 2 7 9 2 0 1 1 2 10
+p52
+aVWayne Simien MIA 04/11/2006 MIA vs. TOR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p53
+aVShaquille O'Neal MIA 04/09/2006 MIA vs. ORL L 36 16 7 11 63.6 0 0 - 2 6 33.3 2 7 9 4 0 3 5 4 -17
+p54
+aVMichael Doleac MIA 04/09/2006 MIA vs. ORL L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 4
+p55
+aVDerek Anderson MIA 04/09/2006 MIA vs. ORL L 32 8 3 7 42.9 2 5 40.0 0 0 - 0 4 4 0 1 0 2 4 6
+p56
+aVGary Payton MIA 04/09/2006 MIA vs. ORL L 26 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 3 0 0 0 3 -16
+p57
+aVJason Kapono MIA 04/09/2006 MIA vs. ORL L 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 18
+p58
+aVDwyane Wade MIA 04/09/2006 MIA vs. ORL L 41 27 9 17 52.9 0 1 0.0 9 11 81.8 0 2 2 7 4 1 7 3 -12
+p59
+aVDorell Wright MIA 04/09/2006 MIA vs. ORL L 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p60
+aVAntoine Walker MIA 04/09/2006 MIA vs. ORL L 24 5 2 6 33.3 0 1 0.0 1 2 50.0 2 4 6 1 0 1 2 4 -18
+p61
+aVUdonis Haslem MIA 04/09/2006 MIA vs. ORL L 27 10 4 9 44.4 0 0 - 2 2 100.0 0 3 3 0 0 0 3 1 -23
+p62
+aVShandon Anderson MIA 04/09/2006 MIA vs. ORL L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -8
+p63
+aVWayne Simien MIA 04/09/2006 MIA vs. ORL L 15 8 3 5 60.0 0 0 - 2 2 100.0 3 3 6 0 0 0 0 3 14
+p64
+aVDerek Anderson MIA 04/08/2006 MIA @ WAS W 38 20 6 17 35.3 5 10 50.0 3 4 75.0 0 4 4 4 2 0 1 3 15
+p65
+aVAntoine Walker MIA 04/08/2006 MIA @ WAS W 29 5 2 8 25.0 1 5 20.0 0 0 - 1 2 3 0 0 0 3 4 6
+p66
+aVDorell Wright MIA 04/08/2006 MIA @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p67
+aVDwyane Wade MIA 04/08/2006 MIA @ WAS W 21 11 3 7 42.9 0 1 0.0 5 5 100.0 0 3 3 8 3 0 4 5 9
+p68
+aVGary Payton MIA 04/08/2006 MIA @ WAS W 34 13 6 14 42.9 1 4 25.0 0 0 - 0 4 4 8 2 0 1 4 2
+p69
+aVWayne Simien MIA 04/08/2006 MIA @ WAS W 3 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 1 0 1 2 -2
+p70
+aVJason Kapono MIA 04/08/2006 MIA @ WAS W 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 2 0 -2
+p71
+aVUdonis Haslem MIA 04/08/2006 MIA @ WAS W 32 13 5 10 50.0 0 0 - 3 4 75.0 4 10 14 1 0 1 1 2 6
+p72
+aVShaquille O'Neal MIA 04/08/2006 MIA @ WAS W 31 27 13 16 81.3 0 0 - 1 4 25.0 3 7 10 3 1 4 4 2 12
+p73
+aVShandon Anderson MIA 04/08/2006 MIA @ WAS W 27 0 0 4 0.0 0 2 0.0 0 0 - 1 4 5 3 1 0 0 5 22
+p74
+aVMichael Doleac MIA 04/08/2006 MIA @ WAS W 16 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 1
+p75
+aVMichael Doleac MIA 04/06/2006 MIA vs. DET L 18 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -3
+p76
+aVShandon Anderson MIA 04/06/2006 MIA vs. DET L 18 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 1 1 0 0 1 -5
+p77
+aVDerek Anderson MIA 04/06/2006 MIA vs. DET L 20 2 1 4 25.0 0 2 0.0 0 0 - 1 4 5 3 0 0 0 3 -4
+p78
+aVGary Payton MIA 04/06/2006 MIA vs. DET L 32 4 2 10 20.0 0 3 0.0 0 0 - 0 4 4 3 0 0 1 0 -10
+p79
+aVShaquille O'Neal MIA 04/06/2006 MIA vs. DET L 36 28 12 18 66.7 0 0 - 4 10 40.0 4 3 7 1 0 2 4 4 -5
+p80
+aVUdonis Haslem MIA 04/06/2006 MIA vs. DET L 35 3 0 2 0.0 0 0 - 3 4 75.0 1 6 7 1 1 0 0 2 -7
+p81
+aVAntoine Walker MIA 04/06/2006 MIA vs. DET L 35 6 3 11 27.3 0 4 0.0 0 0 - 1 3 4 0 0 0 1 4 -22
+p82
+aVDwyane Wade MIA 04/06/2006 MIA vs. DET L 46 29 11 22 50.0 0 0 - 7 10 70.0 2 7 9 6 1 0 3 5 -9
+p83
+aVDerek Anderson MIA 04/04/2006 MIA vs. MIL W 30 14 5 9 55.6 2 4 50.0 2 2 100.0 1 4 5 6 0 0 1 6 2
+p84
+aVJason Kapono MIA 04/04/2006 MIA vs. MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p85
+aVShaquille O'Neal MIA 04/04/2006 MIA vs. MIL W 32 24 9 13 69.2 0 0 - 6 9 66.7 2 8 10 4 0 4 2 3 30
+p86
+aVDorell Wright MIA 04/04/2006 MIA vs. MIL W 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p87
+aVShandon Anderson MIA 04/04/2006 MIA vs. MIL W 25 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 4 1
+p88
+aVAntoine Walker MIA 04/04/2006 MIA vs. MIL W 31 14 6 7 85.7 2 2 100.0 0 0 - 2 2 4 2 1 0 3 2 31
+p89
+aVDwyane Wade MIA 04/04/2006 MIA vs. MIL W 33 14 6 10 60.0 0 0 - 2 7 28.6 0 8 8 8 2 1 5 1 25
+p90
+aVGary Payton MIA 04/04/2006 MIA vs. MIL W 32 13 4 9 44.4 1 2 50.0 4 5 80.0 1 2 3 4 1 0 1 2 23
+p91
+aVMichael Doleac MIA 04/04/2006 MIA vs. MIL W 12 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 1 0 0 3 -10
+p92
+aVWayne Simien MIA 04/04/2006 MIA vs. MIL W 6 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p93
+aVEarl Barron MIA 04/04/2006 MIA vs. MIL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p94
+aVUdonis Haslem MIA 04/04/2006 MIA vs. MIL W 29 17 6 9 66.7 0 0 - 5 8 62.5 0 4 4 0 2 0 2 3 17
+p95
+aVDerek Anderson MIA 04/02/2006 MIA @ NJN L 17 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 1 0 1 1 -2
+p96
+aVGary Payton MIA 04/02/2006 MIA @ NJN L 37 6 2 8 25.0 0 4 0.0 2 2 100.0 2 5 7 7 0 0 1 5 -3
+p97
+aVJason Kapono MIA 04/02/2006 MIA @ NJN L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -4
+p98
+aVDwyane Wade MIA 04/02/2006 MIA @ NJN L 41 32 12 26 46.2 0 0 - 8 8 100.0 1 5 6 5 2 1 5 2 -13
+p99
+aVWayne Simien MIA 04/02/2006 MIA @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p100
+aVAntoine Walker MIA 04/02/2006 MIA @ NJN L 31 11 4 12 33.3 1 4 25.0 2 6 33.3 1 3 4 2 1 2 1 2 -9
+p101
+aVUdonis Haslem MIA 04/02/2006 MIA @ NJN L 27 4 2 6 33.3 0 0 - 0 1 0.0 2 9 11 0 0 0 1 1 -3
+p102
+aVShaquille O'Neal MIA 04/02/2006 MIA @ NJN L 36 18 8 12 66.7 0 0 - 2 8 25.0 3 6 9 4 0 0 6 5 -8
+p103
+aVMichael Doleac MIA 04/02/2006 MIA @ NJN L 16 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 2 0 0 2 -6
+p104
+aVShandon Anderson MIA 04/02/2006 MIA @ NJN L 18 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 0 0 0 0 2 -14
+p105
+aVWayne Simien MIA 04/01/2006 MIA @ CLE L 15 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -5
+p106
+aVShandon Anderson MIA 04/01/2006 MIA @ CLE L 25 10 4 4 100.0 2 2 100.0 0 0 - 0 4 4 1 0 0 1 4 -7
+p107
+aVDerek Anderson MIA 04/01/2006 MIA @ CLE L 25 2 0 3 0.0 0 2 0.0 2 2 100.0 0 2 2 2 1 0 2 2 2
+p108
+aVGary Payton MIA 04/01/2006 MIA @ CLE L 27 6 3 7 42.9 0 3 0.0 0 0 - 1 2 3 5 0 0 0 1 -10
+p109
+aVAntoine Walker MIA 04/01/2006 MIA @ CLE L 21 7 2 10 20.0 0 3 0.0 3 4 75.0 3 2 5 0 1 0 2 0 -13
+p110
+aVUdonis Haslem MIA 04/01/2006 MIA @ CLE L 36 16 7 11 63.6 0 0 - 2 2 100.0 4 7 11 1 0 0 1 6 0
+p111
+aVJason Williams MIA 04/01/2006 MIA @ CLE L 25 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 0 1 -5
+p112
+aVMichael Doleac MIA 04/01/2006 MIA @ CLE L 23 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 1 2 4 4
+p113
+aVDwyane Wade MIA 04/01/2006 MIA @ CLE L 43 44 18 36 50.0 1 4 25.0 7 9 77.8 2 6 8 9 2 1 1 4 -1
+p114
+aVShandon Anderson MIA 03/29/2006 MIA @ TOR W 16 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 4 0 0 0 0 14
+p115
+aVDwyane Wade MIA 03/29/2006 MIA @ TOR W 40 37 12 23 52.2 0 2 0.0 13 15 86.7 0 3 3 3 2 2 5 3 7
+p116
+aVGary Payton MIA 03/29/2006 MIA @ TOR W 23 4 1 5 20.0 0 0 - 2 2 100.0 0 6 6 0 1 0 2 1 15
+p117
+aVDerek Anderson MIA 03/29/2006 MIA @ TOR W 11 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -4
+p118
+aVJason Williams MIA 03/29/2006 MIA @ TOR W 25 0 0 3 0.0 0 2 0.0 0 1 0.0 0 3 3 3 0 0 1 0 -13
+p119
+aVAntoine Walker MIA 03/29/2006 MIA @ TOR W 37 18 8 18 44.4 1 4 25.0 1 2 50.0 5 5 10 0 0 0 3 2 3
+p120
+aVUdonis Haslem MIA 03/29/2006 MIA @ TOR W 35 15 4 9 44.4 0 0 - 7 9 77.8 4 9 13 1 0 0 1 3 5
+p121
+aVMichael Doleac MIA 03/29/2006 MIA @ TOR W 12 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -5
+p122
+aVWayne Simien MIA 03/29/2006 MIA @ TOR W 23 9 4 7 57.1 0 0 - 1 1 100.0 2 4 6 2 1 0 2 2 7
+p123
+aVJames Posey MIA 03/29/2006 MIA @ TOR W 18 7 2 7 28.6 1 5 20.0 2 2 100.0 2 1 3 0 0 0 0 2 -9
+p124
+aVUdonis Haslem MIA 03/27/2006 MIA vs. IND W 8 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 0 0 0 1 3 -2
+p125
+aVJames Posey MIA 03/27/2006 MIA vs. IND W 21 2 1 4 25.0 0 3 0.0 0 0 - 0 6 6 0 2 1 0 0 3
+p126
+aVDwyane Wade MIA 03/27/2006 MIA vs. IND W 42 22 7 21 33.3 0 0 - 8 9 88.9 4 4 8 5 2 0 4 3 5
+p127
+aVShaquille O'Neal MIA 03/27/2006 MIA vs. IND W 37 23 6 10 60.0 0 0 - 11 14 78.6 2 9 11 0 1 2 6 2 9
+p128
+aVGary Payton MIA 03/27/2006 MIA vs. IND W 26 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 3 -1
+p129
+aVMichael Doleac MIA 03/27/2006 MIA vs. IND W 11 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 2 -1
+p130
+aVAntoine Walker MIA 03/27/2006 MIA vs. IND W 25 11 5 11 45.5 0 3 0.0 1 2 50.0 3 4 7 1 0 0 0 3 3
+p131
+aVJason Williams MIA 03/27/2006 MIA vs. IND W 31 18 8 14 57.1 2 5 40.0 0 1 0.0 0 2 2 1 1 0 1 0 2
+p132
+aVWayne Simien MIA 03/27/2006 MIA vs. IND W 23 6 3 8 37.5 0 0 - 0 0 - 5 1 6 1 0 0 0 3 -2
+p133
+aVShandon Anderson MIA 03/27/2006 MIA vs. IND W 16 5 2 3 66.7 0 1 0.0 1 1 100.0 2 0 2 0 0 0 0 0 9
+p134
+aVUdonis Haslem MIA 03/24/2006 MIA vs. CHA W 31 10 4 5 80.0 0 0 - 2 2 100.0 1 7 8 2 1 0 0 3 23
+p135
+aVGary Payton MIA 03/24/2006 MIA vs. CHA W 23 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 3 3 1 0 1 8
+p136
+aVShandon Anderson MIA 03/24/2006 MIA vs. CHA W 13 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 1 0 1 1 -3
+p137
+aVMichael Doleac MIA 03/24/2006 MIA vs. CHA W 16 14 5 8 62.5 0 0 - 4 4 100.0 1 3 4 1 1 0 0 2 3
+p138
+aVWayne Simien MIA 03/24/2006 MIA vs. CHA W 6 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 3
+p139
+aVJames Posey MIA 03/24/2006 MIA vs. CHA W 28 9 3 5 60.0 2 4 50.0 1 2 50.0 1 3 4 3 1 0 3 1 16
+p140
+aVJason Williams MIA 03/24/2006 MIA vs. CHA W 30 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 6 1 0 2 1 17
+p141
+aVDwyane Wade MIA 03/24/2006 MIA vs. CHA W 31 24 9 13 69.2 0 0 - 6 7 85.7 0 5 5 8 2 1 5 3 20
+p142
+aVEarl Barron MIA 03/24/2006 MIA vs. CHA W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -2
+p143
+aVAntoine Walker MIA 03/24/2006 MIA vs. CHA W 21 14 7 11 63.6 0 0 - 0 0 - 2 1 3 3 0 2 1 2 8
+p144
+aVDerek Anderson MIA 03/24/2006 MIA vs. CHA W 12 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 2 0 0 0 0 -3
+p145
+aVShaquille O'Neal MIA 03/24/2006 MIA vs. CHA W 26 22 8 12 66.7 0 0 - 6 10 60.0 2 7 9 2 1 0 1 2 15
+p146
+aVJason Williams MIA 03/22/2006 MIA @ DET L 32 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 5 1 0 0 3 -1
+p147
+aVAntoine Walker MIA 03/22/2006 MIA @ DET L 28 15 5 14 35.7 4 9 44.4 1 2 50.0 1 4 5 1 0 0 3 3 -3
+p148
+aVMichael Doleac MIA 03/22/2006 MIA @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p149
+aVJames Posey MIA 03/22/2006 MIA @ DET L 23 3 1 2 50.0 1 2 50.0 0 0 - 0 6 6 0 0 0 0 2 -3
+p150
+aVShandon Anderson MIA 03/22/2006 MIA @ DET L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p151
+aVDwyane Wade MIA 03/22/2006 MIA @ DET L 40 13 3 15 20.0 1 3 33.3 6 8 75.0 1 2 3 9 3 1 5 4 -13
+p152
+aVGary Payton MIA 03/22/2006 MIA @ DET L 29 2 1 5 20.0 0 1 0.0 0 0 - 2 3 5 1 0 0 2 4 -3
+p153
+aVShaquille O'Neal MIA 03/22/2006 MIA @ DET L 43 27 12 21 57.1 0 0 - 3 4 75.0 4 6 10 1 0 1 2 3 -15
+p154
+aVAlonzo Mourning MIA 03/22/2006 MIA @ DET L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 6
+p155
+aVUdonis Haslem MIA 03/22/2006 MIA @ DET L 33 6 3 7 42.9 0 0 - 0 0 - 2 10 12 4 0 0 3 3 -4
+p156
+aVAntoine Walker MIA 03/21/2006 MIA @ MIN L 31 18 6 13 46.2 2 7 28.6 4 6 66.7 1 3 4 0 2 1 2 5 3
+p157
+aVGary Payton MIA 03/21/2006 MIA @ MIN L 25 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 3 2 0 3 1 -5
+p158
+aVShandon Anderson MIA 03/21/2006 MIA @ MIN L 13 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 4
+p159
+aVJames Posey MIA 03/21/2006 MIA @ MIN L 22 3 1 5 20.0 1 3 33.3 0 0 - 0 5 5 1 0 0 0 3 -3
+p160
+aVAlonzo Mourning MIA 03/21/2006 MIA @ MIN L 35 21 7 8 87.5 0 0 - 7 11 63.6 5 7 12 1 0 2 2 5 11
+p161
+aVDerek Anderson MIA 03/21/2006 MIA @ MIN L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 0
+p162
+aVJason Williams MIA 03/21/2006 MIA @ MIN L 33 8 2 9 22.2 1 5 20.0 3 3 100.0 0 2 2 4 0 0 3 0 -16
+p163
+aVMichael Doleac MIA 03/21/2006 MIA @ MIN L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -7
+p164
+aVUdonis Haslem MIA 03/21/2006 MIA @ MIN L 27 11 5 10 50.0 0 0 - 1 2 50.0 4 2 6 1 1 0 0 2 -16
+p165
+aVDwyane Wade MIA 03/21/2006 MIA @ MIN L 39 35 10 24 41.7 2 3 66.7 13 14 92.9 3 1 4 8 0 0 3 2 9
+p166
+aVUdonis Haslem MIA 03/19/2006 MIA @ NYK W 28 11 4 6 66.7 0 0 - 3 6 50.0 3 4 7 2 0 0 0 0 4
+p167
+aVDerek Anderson MIA 03/19/2006 MIA @ NYK W 15 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 0 1 0 0 2 4
+p168
+aVAlonzo Mourning MIA 03/19/2006 MIA @ NYK W 22 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 8 0 2 -2
+p169
+aVShaquille O'Neal MIA 03/19/2006 MIA @ NYK W 25 18 9 13 69.2 0 0 - 0 6 0.0 0 2 2 2 1 1 3 5 12
+p170
+aVAntoine Walker MIA 03/19/2006 MIA @ NYK W 21 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 2 1 0 0 3 8
+p171
+aVJames Posey MIA 03/19/2006 MIA @ NYK W 18 8 3 5 60.0 2 3 66.7 0 0 - 0 4 4 1 0 0 1 4 18
+p172
+aVShandon Anderson MIA 03/19/2006 MIA @ NYK W 22 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 0 -12
+p173
+aVGary Payton MIA 03/19/2006 MIA @ NYK W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 2
+p174
+aVDwyane Wade MIA 03/19/2006 MIA @ NYK W 42 30 10 17 58.8 0 1 0.0 10 13 76.9 1 4 5 9 1 0 5 2 3
+p175
+aVJason Williams MIA 03/19/2006 MIA @ NYK W 36 21 6 13 46.2 4 10 40.0 5 5 100.0 0 6 6 9 3 0 0 3 18
+p176
+aVUdonis Haslem MIA 03/18/2006 MIA @ CHI W 28 5 2 5 40.0 0 0 - 1 1 100.0 2 9 11 0 1 0 0 2 4
+p177
+aVGary Payton MIA 03/18/2006 MIA @ CHI W 31 12 3 9 33.3 1 3 33.3 5 6 83.3 1 5 6 1 1 0 0 2 -5
+p178
+aVAlonzo Mourning MIA 03/18/2006 MIA @ CHI W 16 4 0 0 - 0 0 - 4 8 50.0 0 3 3 0 0 4 1 1 -2
+p179
+aVDwyane Wade MIA 03/18/2006 MIA @ CHI W 29 15 1 8 12.5 0 0 - 13 13 100.0 2 2 4 2 3 0 10 5 7
+p180
+aVDerek Anderson MIA 03/18/2006 MIA @ CHI W 18 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p181
+aVJason Williams MIA 03/18/2006 MIA @ CHI W 31 12 4 11 36.4 3 7 42.9 1 1 100.0 1 4 5 5 0 0 2 3 -2
+p182
+aVShaquille O'Neal MIA 03/18/2006 MIA @ CHI W 32 13 4 12 33.3 0 0 - 5 9 55.6 1 4 5 3 0 3 5 5 3
+p183
+aVJames Posey MIA 03/18/2006 MIA @ CHI W 28 8 3 9 33.3 2 7 28.6 0 0 - 0 5 5 3 1 2 1 1 11
+p184
+aVAntoine Walker MIA 03/18/2006 MIA @ CHI W 27 13 5 14 35.7 3 6 50.0 0 0 - 2 4 6 4 2 0 3 0 -3
+p185
+aVAlonzo Mourning MIA 03/16/2006 MIA vs. BOS W 14 7 3 5 60.0 0 0 - 1 2 50.0 2 3 5 1 0 0 2 4 -5
+p186
+aVDwyane Wade MIA 03/16/2006 MIA vs. BOS W 39 30 12 20 60.0 0 2 0.0 6 11 54.5 1 1 2 6 3 1 1 2 2
+p187
+aVUdonis Haslem MIA 03/16/2006 MIA vs. BOS W 34 11 3 6 50.0 0 0 - 5 6 83.3 2 9 11 0 0 0 0 1 5
+p188
+aVJames Posey MIA 03/16/2006 MIA vs. BOS W 22 6 2 6 33.3 2 5 40.0 0 0 - 0 3 3 1 0 0 2 0 0
+p189
+aVDerek Anderson MIA 03/16/2006 MIA vs. BOS W 17 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 1 4
+p190
+aVJason Williams MIA 03/16/2006 MIA vs. BOS W 35 21 7 12 58.3 3 6 50.0 4 4 100.0 0 1 1 5 2 0 3 0 14
+p191
+aVShaquille O'Neal MIA 03/16/2006 MIA vs. BOS W 39 26 12 19 63.2 0 0 - 2 9 22.2 3 8 11 1 1 2 3 4 9
+p192
+aVShandon Anderson MIA 03/16/2006 MIA vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p193
+aVGary Payton MIA 03/16/2006 MIA vs. BOS W 23 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 1 2 2 0
+p194
+aVAntoine Walker MIA 03/16/2006 MIA vs. BOS W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 0 -7
+p195
+aVShandon Anderson MIA 03/14/2006 MIA vs. UTA W 11 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p196
+aVGary Payton MIA 03/14/2006 MIA vs. UTA W 23 12 3 7 42.9 2 5 40.0 4 4 100.0 0 3 3 3 0 0 3 2 9
+p197
+aVDerek Anderson MIA 03/14/2006 MIA vs. UTA W 24 6 0 4 0.0 0 3 0.0 6 6 100.0 0 2 2 2 0 1 1 1 -1
+p198
+aVWayne Simien MIA 03/14/2006 MIA vs. UTA W 10 7 2 4 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 0 0 -1
+p199
+aVAntoine Walker MIA 03/14/2006 MIA vs. UTA W 12 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 1 0 3 1 0 -3
+p200
+aVJames Posey MIA 03/14/2006 MIA vs. UTA W 28 16 5 8 62.5 3 5 60.0 3 3 100.0 3 3 6 0 2 0 1 3 40
+p201
+aVMichael Doleac MIA 03/14/2006 MIA vs. UTA W 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -1
+p202
+aVJason Williams MIA 03/14/2006 MIA vs. UTA W 25 10 3 5 60.0 0 1 0.0 4 4 100.0 0 1 1 7 2 0 1 0 29
+p203
+aVShaquille O'Neal MIA 03/14/2006 MIA vs. UTA W 17 13 6 7 85.7 0 0 - 1 4 25.0 1 6 7 0 0 3 1 4 21
+p204
+aVAlonzo Mourning MIA 03/14/2006 MIA vs. UTA W 21 19 4 5 80.0 0 0 - 11 13 84.6 1 6 7 0 0 0 5 3 18
+p205
+aVDwyane Wade MIA 03/14/2006 MIA vs. UTA W 29 25 9 13 69.2 0 1 0.0 7 7 100.0 1 5 6 6 1 2 3 3 37
+p206
+aVUdonis Haslem MIA 03/14/2006 MIA vs. UTA W 30 5 1 3 33.3 0 0 - 3 3 100.0 0 7 7 1 3 0 1 2 43
+p207
+aVJames Posey MIA 03/12/2006 MIA vs. CLE W 20 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 0 0 1 0 2 -11
+p208
+aVJason Williams MIA 03/12/2006 MIA vs. CLE W 23 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 1 -18
+p209
+aVAntoine Walker MIA 03/12/2006 MIA vs. CLE W 28 14 5 9 55.6 2 3 66.7 2 2 100.0 1 2 3 2 1 0 3 1 21
+p210
+aVGary Payton MIA 03/12/2006 MIA vs. CLE W 31 6 2 7 28.6 2 7 28.6 0 0 - 0 3 3 2 1 0 1 3 17
+p211
+aVShaquille O'Neal MIA 03/12/2006 MIA vs. CLE W 29 18 7 14 50.0 0 0 - 4 5 80.0 5 3 8 1 0 0 5 3 -16
+p212
+aVDwyane Wade MIA 03/12/2006 MIA vs. CLE W 45 35 11 26 42.3 0 0 - 13 18 72.2 3 6 9 7 2 1 2 5 9
+p213
+aVAlonzo Mourning MIA 03/12/2006 MIA vs. CLE W 23 16 6 7 85.7 0 0 - 4 6 66.7 2 6 8 0 0 1 2 6 23
+p214
+aVUdonis Haslem MIA 03/12/2006 MIA vs. CLE W 19 1 0 3 0.0 0 0 - 1 2 50.0 2 5 7 0 0 0 1 4 -13
+p215
+aVDerek Anderson MIA 03/12/2006 MIA vs. CLE W 23 2 1 2 50.0 0 0 - 0 0 - 0 3 3 5 0 0 1 3 18
+p216
+aVShandon Anderson MIA 03/10/2006 MIA vs. GSW L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -2
+p217
+aVShaquille O'Neal MIA 03/10/2006 MIA vs. GSW L 36 21 9 15 60.0 0 0 - 3 6 50.0 4 11 15 3 0 4 4 4 1
+p218
+aVDerek Anderson MIA 03/10/2006 MIA vs. GSW L 14 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 2 0 0 1 3 -8
+p219
+aVAlonzo Mourning MIA 03/10/2006 MIA vs. GSW L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -10
+p220
+aVDwyane Wade MIA 03/10/2006 MIA vs. GSW L 40 42 14 20 70.0 2 4 50.0 12 17 70.6 2 4 6 6 2 0 5 3 5
+p221
+aVJames Posey MIA 03/10/2006 MIA vs. GSW L 21 10 4 6 66.7 2 4 50.0 0 0 - 0 3 3 1 2 1 0 0 -2
+p222
+aVAntoine Walker MIA 03/10/2006 MIA vs. GSW L 16 10 4 9 44.4 1 4 25.0 1 1 100.0 0 1 1 1 1 0 3 4 -15
+p223
+aVJason Williams MIA 03/10/2006 MIA vs. GSW L 33 7 3 9 33.3 1 5 20.0 0 0 - 0 2 2 1 0 0 2 3 4
+p224
+aVUdonis Haslem MIA 03/10/2006 MIA vs. GSW L 34 6 2 5 40.0 0 0 - 2 2 100.0 3 5 8 3 0 0 0 2 10
+p225
+aVGary Payton MIA 03/10/2006 MIA vs. GSW L 24 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 4 -8
+p226
+aVAntoine Walker MIA 03/08/2006 MIA vs. WAS W 17 8 3 5 60.0 1 2 50.0 1 1 100.0 3 2 5 0 0 0 0 1 -4
+p227
+aVDerek Anderson MIA 03/08/2006 MIA vs. WAS W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 3 -3
+p228
+aVUdonis Haslem MIA 03/08/2006 MIA vs. WAS W 39 12 3 7 42.9 0 0 - 6 8 75.0 2 8 10 4 0 1 1 2 16
+p229
+aVJason Williams MIA 03/08/2006 MIA vs. WAS W 34 21 7 13 53.8 5 10 50.0 2 2 100.0 0 2 2 5 1 0 0 1 5
+p230
+aVShandon Anderson MIA 03/08/2006 MIA vs. WAS W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -4
+p231
+aVJames Posey MIA 03/08/2006 MIA vs. WAS W 24 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 1 1 0 2 2
+p232
+aVMichael Doleac MIA 03/08/2006 MIA vs. WAS W 11 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -7
+p233
+aVShaquille O'Neal MIA 03/08/2006 MIA vs. WAS W 36 19 7 14 50.0 0 0 - 5 12 41.7 4 7 11 2 1 2 3 4 11
+p234
+aVGary Payton MIA 03/08/2006 MIA vs. WAS W 23 7 1 5 20.0 1 4 25.0 4 4 100.0 0 4 4 1 0 1 1 5 3
+p235
+aVDwyane Wade MIA 03/08/2006 MIA vs. WAS W 44 40 13 21 61.9 1 3 33.3 13 14 92.9 0 3 3 5 3 0 6 2 11
+p236
+aVAntoine Walker MIA 03/06/2006 MIA @ CHA W 36 16 5 17 29.4 4 10 40.0 2 2 100.0 0 4 4 3 1 0 2 0 11
+p237
+aVJason Williams MIA 03/06/2006 MIA @ CHA W 45 24 10 19 52.6 4 8 50.0 0 1 0.0 0 2 2 5 1 0 3 3 9
+p238
+aVUdonis Haslem MIA 03/06/2006 MIA @ CHA W 39 16 6 8 75.0 0 0 - 4 5 80.0 4 9 13 1 0 1 2 3 0
+p239
+aVShandon Anderson MIA 03/06/2006 MIA @ CHA W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 1
+p240
+aVAlonzo Mourning MIA 03/06/2006 MIA @ CHA W 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 3
+p241
+aVJason Kapono MIA 03/06/2006 MIA @ CHA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p242
+aVDerek Anderson MIA 03/06/2006 MIA @ CHA W 25 5 2 9 22.2 0 3 0.0 1 2 50.0 2 4 6 1 0 0 0 4 -10
+p243
+aVGary Payton MIA 03/06/2006 MIA @ CHA W 37 6 1 7 14.3 0 1 0.0 4 4 100.0 1 3 4 3 2 0 1 2 6
+p244
+aVShaquille O'Neal MIA 03/06/2006 MIA @ CHA W 41 35 16 23 69.6 0 0 - 3 11 27.3 2 10 12 3 1 0 3 5 -2
+p245
+aVJames Posey MIA 03/06/2006 MIA @ CHA W 16 0 0 2 0.0 0 2 0.0 0 0 - 1 4 5 1 0 0 1 0 -12
+p246
+aVAlonzo Mourning MIA 03/04/2006 MIA vs. ATL W 22 11 4 4 100.0 0 0 - 3 5 60.0 0 1 1 0 1 3 1 3 0
+p247
+aVUdonis Haslem MIA 03/04/2006 MIA vs. ATL W 33 15 5 9 55.6 0 0 - 5 6 83.3 1 5 6 1 1 0 2 4 15
+p248
+aVShaquille O'Neal MIA 03/04/2006 MIA vs. ATL W 25 21 5 7 71.4 0 0 - 11 20 55.0 2 6 8 1 1 2 5 6 4
+p249
+aVShandon Anderson MIA 03/04/2006 MIA vs. ATL W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 1 -4
+p250
+aVDerek Anderson MIA 03/04/2006 MIA vs. ATL W 22 14 4 10 40.0 2 5 40.0 4 4 100.0 2 2 4 3 1 0 1 3 -1
+p251
+aVGary Payton MIA 03/04/2006 MIA vs. ATL W 30 2 1 6 16.7 0 2 0.0 0 2 0.0 0 2 2 3 2 0 2 2 -1
+p252
+aVJason Williams MIA 03/04/2006 MIA vs. ATL W 38 14 5 10 50.0 1 5 20.0 3 3 100.0 0 3 3 7 0 1 2 1 7
+p253
+aVAntoine Walker MIA 03/04/2006 MIA vs. ATL W 36 13 6 12 50.0 0 3 0.0 1 2 50.0 1 5 6 6 2 1 2 2 -11
+p254
+aVJames Posey MIA 03/04/2006 MIA vs. ATL W 17 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 1 0 0 2 1
+p255
+aVShandon Anderson MIA 03/01/2006 MIA @ BOS W 23 15 5 7 71.4 0 0 - 5 7 71.4 1 5 6 1 0 0 0 5 9
+p256
+aVJames Posey MIA 03/01/2006 MIA @ BOS W 21 5 2 8 25.0 1 5 20.0 0 0 - 2 6 8 1 3 0 0 2 4
+p257
+aVGary Payton MIA 03/01/2006 MIA @ BOS W 22 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 1 1 1 -2
+p258
+aVAntoine Walker MIA 03/01/2006 MIA @ BOS W 29 13 5 11 45.5 3 7 42.9 0 0 - 2 2 4 0 3 0 0 1 7
+p259
+aVShaquille O'Neal MIA 03/01/2006 MIA @ BOS W 36 16 7 13 53.8 0 0 - 2 9 22.2 4 5 9 3 0 3 0 1 6
+p260
+aVJason Williams MIA 03/01/2006 MIA @ BOS W 32 13 5 9 55.6 3 5 60.0 0 0 - 0 0 0 9 1 0 1 1 9
+p261
+aVDwyane Wade MIA 03/01/2006 MIA @ BOS W 40 24 7 15 46.7 0 0 - 10 16 62.5 2 3 5 8 2 0 5 3 3
+p262
+aVAlonzo Mourning MIA 03/01/2006 MIA @ BOS W 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 2 0 2 0
+p263
+aVUdonis Haslem MIA 03/01/2006 MIA @ BOS W 26 10 5 8 62.5 0 0 - 0 0 - 3 4 7 1 0 0 1 1 -1
+p264
+aVJason Williams MIA 02/27/2006 MIA vs. TOR W 21 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 3 0 0 1 1 -7
+p265
+aVAntoine Walker MIA 02/27/2006 MIA vs. TOR W 34 11 5 13 38.5 1 6 16.7 0 0 - 0 8 8 3 1 1 3 3 11
+p266
+aVJames Posey MIA 02/27/2006 MIA vs. TOR W 22 7 3 6 50.0 1 4 25.0 0 1 0.0 0 4 4 1 3 0 2 4 -1
+p267
+aVShandon Anderson MIA 02/27/2006 MIA vs. TOR W 14 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 10
+p268
+aVGary Payton MIA 02/27/2006 MIA vs. TOR W 30 5 2 4 50.0 1 3 33.3 0 1 0.0 0 2 2 4 3 0 1 1 15
+p269
+aVDwyane Wade MIA 02/27/2006 MIA vs. TOR W 45 32 15 19 78.9 0 0 - 2 4 50.0 1 4 5 6 2 0 6 2 6
+p270
+aVAlonzo Mourning MIA 02/27/2006 MIA vs. TOR W 10 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 1 15
+p271
+aVShaquille O'Neal MIA 02/27/2006 MIA vs. TOR W 37 27 11 16 68.8 0 0 - 5 15 33.3 5 6 11 3 1 3 2 3 -5
+p272
+aVUdonis Haslem MIA 02/27/2006 MIA vs. TOR W 27 4 2 4 50.0 0 0 - 0 1 0.0 2 4 6 3 0 0 1 4 -9
+p273
+aVGary Payton MIA 02/25/2006 MIA vs. SEA W 21 2 1 7 14.3 0 4 0.0 0 0 - 1 1 2 2 2 0 2 5 -8
+p274
+aVDwyane Wade MIA 02/25/2006 MIA vs. SEA W 42 26 11 20 55.0 0 0 - 4 9 44.4 2 5 7 11 0 1 3 3 8
+p275
+aVShandon Anderson MIA 02/25/2006 MIA vs. SEA W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 0
+p276
+aVShaquille O'Neal MIA 02/25/2006 MIA vs. SEA W 37 31 15 16 93.8 0 0 - 1 6 16.7 2 7 9 4 0 4 2 5 20
+p277
+aVUdonis Haslem MIA 02/25/2006 MIA vs. SEA W 35 16 8 10 80.0 0 0 - 0 0 - 1 8 9 0 0 0 2 2 10
+p278
+aVAlonzo Mourning MIA 02/25/2006 MIA vs. SEA W 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 3 0 1 -11
+p279
+aVAntoine Walker MIA 02/25/2006 MIA vs. SEA W 21 8 4 8 50.0 0 2 0.0 0 0 - 2 7 9 2 0 0 3 0 -11
+p280
+aVJames Posey MIA 02/25/2006 MIA vs. SEA W 28 13 5 10 50.0 2 6 33.3 1 2 50.0 1 6 7 6 1 1 0 3 15
+p281
+aVJason Williams MIA 02/25/2006 MIA vs. SEA W 33 13 4 11 36.4 1 6 16.7 4 4 100.0 0 4 4 9 1 0 3 2 22
+p282
+aVWayne Simien MIA 02/22/2006 MIA @ NYK W 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p283
+aVGary Payton MIA 02/22/2006 MIA @ NYK W 27 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 2 2 0 0 0 23
+p284
+aVShandon Anderson MIA 02/22/2006 MIA @ NYK W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 0
+p285
+aVAntoine Walker MIA 02/22/2006 MIA @ NYK W 24 16 7 12 58.3 2 6 33.3 0 2 0.0 0 5 5 0 0 0 2 1 24
+p286
+aVMichael Doleac MIA 02/22/2006 MIA @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -3
+p287
+aVUdonis Haslem MIA 02/22/2006 MIA @ NYK W 35 9 4 6 66.7 0 0 - 1 1 100.0 1 7 8 1 1 0 1 2 18
+p288
+aVJason Williams MIA 02/22/2006 MIA @ NYK W 37 24 8 13 61.5 4 9 44.4 4 4 100.0 0 3 3 5 2 0 5 1 5
+p289
+aVShaquille O'Neal MIA 02/22/2006 MIA @ NYK W 22 15 7 11 63.6 0 0 - 1 3 33.3 1 4 5 2 0 1 4 5 2
+p290
+aVDorell Wright MIA 02/22/2006 MIA @ NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p291
+aVAlonzo Mourning MIA 02/22/2006 MIA @ NYK W 21 6 2 5 40.0 0 0 - 2 4 50.0 4 2 6 1 0 3 0 0 21
+p292
+aVJames Posey MIA 02/22/2006 MIA @ NYK W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 0 3
+p293
+aVDwyane Wade MIA 02/22/2006 MIA @ NYK W 31 24 5 16 31.3 0 0 - 14 17 82.4 2 5 7 5 1 0 2 3 17
+p294
+aVJason Williams MIA 02/15/2006 MIA @ ORL W 37 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 3 0 0 1 4 10
+p295
+aVAlonzo Mourning MIA 02/15/2006 MIA @ ORL W 16 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 0 0 2 1 6 4
+p296
+aVMichael Doleac MIA 02/15/2006 MIA @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p297
+aVShaquille O'Neal MIA 02/15/2006 MIA @ ORL W 31 7 3 8 37.5 0 0 - 1 5 20.0 6 5 11 6 0 1 3 6 10
+p298
+aVShandon Anderson MIA 02/15/2006 MIA @ ORL W 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 5 2
+p299
+aVGary Payton MIA 02/15/2006 MIA @ ORL W 22 13 5 8 62.5 3 6 50.0 0 0 - 0 2 2 2 0 0 0 2 -4
+p300
+aVJason Kapono MIA 02/15/2006 MIA @ ORL W 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -14
+p301
+aVAntoine Walker MIA 02/15/2006 MIA @ ORL W 35 26 10 17 58.8 6 11 54.5 0 0 - 0 2 2 3 1 0 5 3 7
+p302
+aVDwyane Wade MIA 02/15/2006 MIA @ ORL W 40 36 10 19 52.6 0 0 - 16 19 84.2 4 6 10 9 1 1 5 3 22
+p303
+aVUdonis Haslem MIA 02/15/2006 MIA @ ORL W 34 12 5 10 50.0 0 0 - 2 3 66.7 2 10 12 2 1 1 0 2 17
+p304
+aVUdonis Haslem MIA 02/14/2006 MIA vs. ORL W 41 10 3 7 42.9 0 0 - 4 6 66.7 4 10 14 1 0 0 3 5 16
+p305
+aVShaquille O'Neal MIA 02/14/2006 MIA vs. ORL W 31 25 9 12 75.0 0 0 - 7 14 50.0 3 8 11 3 0 4 4 3 16
+p306
+aVDwyane Wade MIA 02/14/2006 MIA vs. ORL W 40 38 13 20 65.0 0 0 - 12 14 85.7 1 4 5 3 0 0 2 3 17
+p307
+aVJason Williams MIA 02/14/2006 MIA vs. ORL W 32 10 3 8 37.5 2 6 33.3 2 2 100.0 0 1 1 4 1 0 1 1 12
+p308
+aVShandon Anderson MIA 02/14/2006 MIA vs. ORL W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 6 2
+p309
+aVDorell Wright MIA 02/14/2006 MIA vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -3
+p310
+aVGary Payton MIA 02/14/2006 MIA vs. ORL W 24 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 2 2
+p311
+aVAlonzo Mourning MIA 02/14/2006 MIA vs. ORL W 14 6 1 3 33.3 0 0 - 4 7 57.1 0 4 4 0 0 1 3 4 0
+p312
+aVMichael Doleac MIA 02/14/2006 MIA vs. ORL W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -2
+p313
+aVAntoine Walker MIA 02/14/2006 MIA vs. ORL W 38 12 5 8 62.5 1 4 25.0 1 2 50.0 0 6 6 3 1 1 3 4 13
+p314
+aVJason Kapono MIA 02/14/2006 MIA vs. ORL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p315
+aVJames Posey MIA 02/12/2006 MIA vs. DET W 23 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 3 -13
+p316
+aVGary Payton MIA 02/12/2006 MIA vs. DET W 31 13 6 13 46.2 1 4 25.0 0 0 - 2 1 3 2 1 0 0 1 10
+p317
+aVDwyane Wade MIA 02/12/2006 MIA vs. DET W 43 37 15 27 55.6 0 1 0.0 7 9 77.8 2 6 8 4 0 1 0 3 4
+p318
+aVUdonis Haslem MIA 02/12/2006 MIA vs. DET W 31 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 2 2 0 0 5 -4
+p319
+aVAlonzo Mourning MIA 02/12/2006 MIA vs. DET W 12 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 0 0 0 0 0 -6
+p320
+aVShandon Anderson MIA 02/12/2006 MIA vs. DET W 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 2 0 0 1 9
+p321
+aVAntoine Walker MIA 02/12/2006 MIA vs. DET W 24 2 1 6 16.7 0 3 0.0 0 0 - 2 2 4 2 0 0 0 1 6
+p322
+aVJason Williams MIA 02/12/2006 MIA vs. DET W 23 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 5 1 0 0 1 -4
+p323
+aVShaquille O'Neal MIA 02/12/2006 MIA vs. DET W 37 31 14 24 58.3 0 0 - 3 6 50.0 5 3 8 0 1 3 3 4 8
+p324
+aVShandon Anderson MIA 02/09/2006 MIA @ DAL L 22 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 2 2 1 -15
+p325
+aVJames Posey MIA 02/09/2006 MIA @ DAL L 15 0 0 2 0.0 0 2 0.0 0 1 0.0 0 1 1 0 0 0 0 3 -14
+p326
+aVDwyane Wade MIA 02/09/2006 MIA @ DAL L 33 16 6 13 46.2 0 0 - 4 6 66.7 0 1 1 8 2 2 4 1 -21
+p327
+aVGary Payton MIA 02/09/2006 MIA @ DAL L 24 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 3 0 1 3 1 -17
+p328
+aVUdonis Haslem MIA 02/09/2006 MIA @ DAL L 31 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 0 0 2 3 -19
+p329
+aVJason Kapono MIA 02/09/2006 MIA @ DAL L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -12
+p330
+aVGerald Fitch MIA 02/09/2006 MIA @ DAL L 9 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 1 1 1 2 -6
+p331
+aVMichael Doleac MIA 02/09/2006 MIA @ DAL L 18 2 1 3 33.3 0 0 - 0 0 - 0 6 6 1 2 1 0 2 -19
+p332
+aVJason Williams MIA 02/09/2006 MIA @ DAL L 18 4 1 2 50.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 2 0 -16
+p333
+aVShaquille O'Neal MIA 02/09/2006 MIA @ DAL L 27 23 9 12 75.0 0 0 - 5 6 83.3 1 7 8 1 0 1 3 2 -17
+p334
+aVAntoine Walker MIA 02/09/2006 MIA @ DAL L 20 5 2 6 33.3 0 3 0.0 1 2 50.0 1 1 2 1 0 0 1 2 -16
+p335
+aVWayne Simien MIA 02/09/2006 MIA @ DAL L 10 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -8
+p336
+aVJason Kapono MIA 02/06/2006 MIA vs. BOS W 3 2 1 2 50.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 0 -3
+p337
+aVGary Payton MIA 02/06/2006 MIA vs. BOS W 27 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 2 1 0 1 3 11
+p338
+aVJames Posey MIA 02/06/2006 MIA vs. BOS W 23 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 4 0 0 0 4 5
+p339
+aVJason Williams MIA 02/06/2006 MIA vs. BOS W 27 4 2 9 22.2 0 3 0.0 0 1 0.0 1 2 3 5 0 0 0 0 5
+p340
+aVWayne Simien MIA 02/06/2006 MIA vs. BOS W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p341
+aVShaquille O'Neal MIA 02/06/2006 MIA vs. BOS W 29 21 8 14 57.1 0 0 - 5 7 71.4 1 5 6 0 0 2 0 3 7
+p342
+aVDwyane Wade MIA 02/06/2006 MIA vs. BOS W 39 34 10 17 58.8 1 1 100.0 13 15 86.7 3 5 8 8 2 1 2 4 19
+p343
+aVShandon Anderson MIA 02/06/2006 MIA vs. BOS W 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 2 1 3 12
+p344
+aVAlonzo Mourning MIA 02/06/2006 MIA vs. BOS W 16 5 1 2 50.0 0 0 - 3 3 100.0 1 5 6 0 0 1 0 4 11
+p345
+aVUdonis Haslem MIA 02/06/2006 MIA vs. BOS W 31 17 6 10 60.0 0 0 - 5 6 83.3 1 5 6 0 1 0 0 2 0
+p346
+aVAntoine Walker MIA 02/06/2006 MIA vs. BOS W 23 12 5 11 45.5 1 4 25.0 1 2 50.0 2 5 7 4 0 0 1 1 15
+p347
+aVDwyane Wade MIA 02/04/2006 MIA @ NJN L 40 31 11 21 52.4 0 1 0.0 9 10 90.0 1 2 3 5 3 0 2 3 -7
+p348
+aVJason Williams MIA 02/04/2006 MIA @ NJN L 31 6 1 7 14.3 1 3 33.3 3 4 75.0 0 4 4 7 1 0 1 0 -4
+p349
+aVGary Payton MIA 02/04/2006 MIA @ NJN L 34 0 0 6 0.0 0 5 0.0 0 0 - 0 3 3 5 0 0 1 1 -17
+p350
+aVDorell Wright MIA 02/04/2006 MIA @ NJN L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p351
+aVJason Kapono MIA 02/04/2006 MIA @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p352
+aVWayne Simien MIA 02/04/2006 MIA @ NJN L 17 6 2 3 66.7 0 0 - 2 2 100.0 2 0 2 1 2 0 0 0 -5
+p353
+aVAlonzo Mourning MIA 02/04/2006 MIA @ NJN L 21 12 5 6 83.3 0 0 - 2 4 50.0 2 4 6 0 0 2 1 4 8
+p354
+aVShandon Anderson MIA 02/04/2006 MIA @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p355
+aVShaquille O'Neal MIA 02/04/2006 MIA @ NJN L 25 11 4 12 33.3 0 0 - 3 5 60.0 1 6 7 0 0 1 6 5 -19
+p356
+aVAntoine Walker MIA 02/04/2006 MIA @ NJN L 31 19 6 14 42.9 3 7 42.9 4 4 100.0 1 4 5 1 0 0 1 1 -8
+p357
+aVJames Posey MIA 02/04/2006 MIA @ NJN L 38 7 2 7 28.6 2 7 28.6 1 1 100.0 0 7 7 3 1 0 1 6 -11
+p358
+aVShandon Anderson MIA 02/02/2006 MIA vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p359
+aVUdonis Haslem MIA 02/02/2006 MIA vs. CLE W 26 7 3 6 50.0 0 0 - 1 2 50.0 1 5 6 1 0 0 1 0 -10
+p360
+aVDwyane Wade MIA 02/02/2006 MIA vs. CLE W 34 24 11 20 55.0 0 0 - 2 3 66.7 0 4 4 6 4 1 3 4 30
+p361
+aVAntoine Walker MIA 02/02/2006 MIA vs. CLE W 20 12 5 9 55.6 1 2 50.0 1 2 50.0 2 6 8 2 0 0 0 2 38
+p362
+aVShaquille O'Neal MIA 02/02/2006 MIA vs. CLE W 27 21 10 15 66.7 0 0 - 1 4 25.0 2 6 8 1 0 2 3 4 14
+p363
+aVGary Payton MIA 02/02/2006 MIA vs. CLE W 38 14 6 9 66.7 2 4 50.0 0 0 - 0 4 4 2 0 0 1 3 7
+p364
+aVJames Posey MIA 02/02/2006 MIA vs. CLE W 39 11 4 9 44.4 3 7 42.9 0 0 - 0 10 10 0 1 0 0 1 18
+p365
+aVMichael Doleac MIA 02/02/2006 MIA vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p366
+aVJason Williams MIA 02/02/2006 MIA vs. CLE W 26 4 2 10 20.0 0 2 0.0 0 2 0.0 0 4 4 8 0 0 5 1 29
+p367
+aVWayne Simien MIA 02/02/2006 MIA vs. CLE W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 0 0
+p368
+aVAlonzo Mourning MIA 02/02/2006 MIA vs. CLE W 18 6 1 1 100.0 0 0 - 4 4 100.0 1 5 6 0 0 5 1 4 14
+p369
+aVJason Kapono MIA 02/02/2006 MIA vs. CLE W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p370
+aVAlonzo Mourning MIA 01/30/2006 MIA vs. LAC W 11 10 4 4 100.0 0 0 - 2 3 66.7 1 1 2 0 0 1 3 6 1
+p371
+aVShaquille O'Neal MIA 01/30/2006 MIA vs. LAC W 37 25 8 13 61.5 0 0 - 9 17 52.9 4 4 8 2 0 3 4 3 1
+p372
+aVDwyane Wade MIA 01/30/2006 MIA vs. LAC W 44 28 9 19 47.4 0 2 0.0 10 12 83.3 0 3 3 11 0 4 1 2 5
+p373
+aVJames Posey MIA 01/30/2006 MIA vs. LAC W 44 17 6 11 54.5 5 9 55.6 0 0 - 0 4 4 1 3 0 1 2 3
+p374
+aVGerald Fitch MIA 01/30/2006 MIA vs. LAC W 8 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 3 1
+p375
+aVGary Payton MIA 01/30/2006 MIA vs. LAC W 41 19 7 13 53.8 5 8 62.5 0 0 - 1 5 6 7 1 0 1 2 6
+p376
+aVUdonis Haslem MIA 01/30/2006 MIA vs. LAC W 28 14 4 6 66.7 0 0 - 6 7 85.7 0 3 3 4 0 0 1 2 5
+p377
+aVAntoine Walker MIA 01/30/2006 MIA vs. LAC W 27 5 2 3 66.7 1 1 100.0 0 0 - 1 4 5 1 1 1 2 2 -2
+p378
+aVUdonis Haslem MIA 01/29/2006 MIA @ HOU W 32 9 4 6 66.7 0 0 - 1 1 100.0 2 7 9 1 0 0 1 2 12
+p379
+aVShaquille O'Neal MIA 01/29/2006 MIA @ HOU W 32 24 6 10 60.0 0 0 - 12 18 66.7 3 11 14 1 0 1 1 4 10
+p380
+aVGerald Fitch MIA 01/29/2006 MIA @ HOU W 16 4 1 6 16.7 1 1 100.0 1 2 50.0 0 1 1 3 1 1 1 0 0
+p381
+aVDorell Wright MIA 01/29/2006 MIA @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p382
+aVAlonzo Mourning MIA 01/29/2006 MIA @ HOU W 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 3 0 2 -4
+p383
+aVAntoine Walker MIA 01/29/2006 MIA @ HOU W 16 10 4 8 50.0 2 5 40.0 0 0 - 1 1 2 1 1 0 0 2 -6
+p384
+aVJames Posey MIA 01/29/2006 MIA @ HOU W 43 6 2 8 25.0 2 7 28.6 0 0 - 0 6 6 2 1 0 3 4 7
+p385
+aVGary Payton MIA 01/29/2006 MIA @ HOU W 40 12 4 11 36.4 4 8 50.0 0 0 - 3 2 5 6 1 0 3 3 10
+p386
+aVDwyane Wade MIA 01/29/2006 MIA @ HOU W 42 32 8 18 44.4 0 0 - 16 19 84.2 1 5 6 9 0 0 3 1 5
+p387
+aVGary Payton MIA 01/27/2006 MIA @ CHA W 42 11 4 10 40.0 0 4 0.0 3 4 75.0 0 5 5 8 1 0 3 0 7
+p388
+aVGerald Fitch MIA 01/27/2006 MIA @ CHA W 27 6 3 7 42.9 0 1 0.0 0 0 - 3 5 8 1 2 1 1 2 17
+p389
+aVDorell Wright MIA 01/27/2006 MIA @ CHA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p390
+aVAntoine Walker MIA 01/27/2006 MIA @ CHA W 23 15 6 15 40.0 3 8 37.5 0 0 - 2 3 5 1 0 0 1 1 5
+p391
+aVAlonzo Mourning MIA 01/27/2006 MIA @ CHA W 15 6 3 4 75.0 0 0 - 0 2 0.0 0 1 1 0 0 1 1 2 10
+p392
+aVUdonis Haslem MIA 01/27/2006 MIA @ CHA W 37 17 7 10 70.0 0 0 - 3 3 100.0 1 6 7 3 1 0 1 3 10
+p393
+aVShaquille O'Neal MIA 01/27/2006 MIA @ CHA W 33 23 9 15 60.0 0 0 - 5 7 71.4 4 3 7 5 0 3 3 3 -2
+p394
+aVJason Kapono MIA 01/27/2006 MIA @ CHA W 28 5 2 7 28.6 0 3 0.0 1 1 100.0 0 2 2 1 0 0 0 2 -12
+p395
+aVJames Posey MIA 01/27/2006 MIA @ CHA W 25 7 2 7 28.6 2 6 33.3 1 2 50.0 0 6 6 1 0 0 3 3 -6
+p396
+aVWayne Simien MIA 01/27/2006 MIA @ CHA W 6 1 0 0 - 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 -3
+p397
+aVUdonis Haslem MIA 01/26/2006 MIA vs. PHX L 27 16 7 15 46.7 0 0 - 2 2 100.0 2 6 8 1 1 0 1 1 -4
+p398
+aVAntoine Walker MIA 01/26/2006 MIA vs. PHX L 23 10 4 10 40.0 0 2 0.0 2 3 66.7 5 6 11 2 1 0 1 3 -2
+p399
+aVJames Posey MIA 01/26/2006 MIA vs. PHX L 36 16 5 8 62.5 5 7 71.4 1 2 50.0 0 7 7 3 3 0 2 4 -2
+p400
+aVShaquille O'Neal MIA 01/26/2006 MIA vs. PHX L 32 15 7 11 63.6 0 0 - 1 4 25.0 3 9 12 3 0 1 2 4 0
+p401
+aVGary Payton MIA 01/26/2006 MIA vs. PHX L 36 7 3 11 27.3 0 5 0.0 1 2 50.0 0 4 4 8 1 0 4 2 -2
+p402
+aVJason Kapono MIA 01/26/2006 MIA vs. PHX L 24 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -7
+p403
+aVDwyane Wade MIA 01/26/2006 MIA vs. PHX L 42 25 10 20 50.0 1 4 25.0 4 5 80.0 2 0 2 1 2 0 3 4 -21
+p404
+aVGerald Fitch MIA 01/26/2006 MIA vs. PHX L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p405
+aVAlonzo Mourning MIA 01/26/2006 MIA vs. PHX L 13 3 1 3 33.3 0 0 - 1 4 25.0 3 1 4 0 0 2 1 0 -10
+p406
+aVUdonis Haslem MIA 01/24/2006 MIA vs. MEM W 35 8 3 7 42.9 0 0 - 2 3 66.7 1 10 11 3 3 2 0 2 15
+p407
+aVJason Williams MIA 01/24/2006 MIA vs. MEM W 37 14 6 12 50.0 1 4 25.0 1 1 100.0 0 2 2 6 2 0 3 3 11
+p408
+aVDwyane Wade MIA 01/24/2006 MIA vs. MEM W 41 25 6 12 50.0 0 2 0.0 13 20 65.0 0 4 4 4 2 3 3 2 20
+p409
+aVShaquille O'Neal MIA 01/24/2006 MIA vs. MEM W 30 20 8 13 61.5 0 0 - 4 8 50.0 5 10 15 1 2 1 3 5 3
+p410
+aVGary Payton MIA 01/24/2006 MIA vs. MEM W 26 5 1 4 25.0 1 2 50.0 2 4 50.0 2 1 3 2 2 0 1 1 0
+p411
+aVAlonzo Mourning MIA 01/24/2006 MIA vs. MEM W 16 9 1 1 100.0 0 0 - 7 8 87.5 2 3 5 0 0 3 1 3 13
+p412
+aVAntoine Walker MIA 01/24/2006 MIA vs. MEM W 24 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 0 0 0 2 2 -5
+p413
+aVDorell Wright MIA 01/24/2006 MIA vs. MEM W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p414
+aVJames Posey MIA 01/24/2006 MIA vs. MEM W 29 5 2 8 25.0 1 5 20.0 0 0 - 1 4 5 1 0 0 3 4 7
+p415
+aVWayne Simien MIA 01/22/2006 MIA vs. SAC W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 0
+p416
+aVDorell Wright MIA 01/22/2006 MIA vs. SAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p417
+aVUdonis Haslem MIA 01/22/2006 MIA vs. SAC W 31 16 8 12 66.7 0 0 - 0 3 0.0 3 3 6 1 1 0 0 2 17
+p418
+aVDwyane Wade MIA 01/22/2006 MIA vs. SAC W 37 22 11 17 64.7 0 0 - 0 1 0.0 2 4 6 7 1 1 2 0 17
+p419
+aVShaquille O'Neal MIA 01/22/2006 MIA vs. SAC W 28 27 11 15 73.3 0 0 - 5 8 62.5 2 4 6 2 1 1 1 5 14
+p420
+aVAntoine Walker MIA 01/22/2006 MIA vs. SAC W 23 12 5 8 62.5 2 3 66.7 0 1 0.0 0 3 3 2 1 1 0 0 9
+p421
+aVJason Williams MIA 01/22/2006 MIA vs. SAC W 33 19 4 8 50.0 1 3 33.3 10 10 100.0 0 4 4 11 3 0 1 3 19
+p422
+aVMichael Doleac MIA 01/22/2006 MIA vs. SAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p423
+aVJason Kapono MIA 01/22/2006 MIA vs. SAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p424
+aVGary Payton MIA 01/22/2006 MIA vs. SAC W 24 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 3 0 0 0 2 4
+p425
+aVJames Posey MIA 01/22/2006 MIA vs. SAC W 37 6 2 9 22.2 1 6 16.7 1 2 50.0 1 3 4 2 2 0 0 2 14
+p426
+aVAlonzo Mourning MIA 01/22/2006 MIA vs. SAC W 18 6 2 2 100.0 0 0 - 2 3 66.7 0 5 5 0 1 6 1 2 6
+p427
+aVUdonis Haslem MIA 01/20/2006 MIA vs. SAS L 20 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 3 0 0 1 4 1
+p428
+aVDwyane Wade MIA 01/20/2006 MIA vs. SAS L 41 36 14 29 48.3 1 2 50.0 7 8 87.5 2 2 4 1 3 0 5 3 -13
+p429
+aVAlonzo Mourning MIA 01/20/2006 MIA vs. SAS L 18 2 1 4 25.0 0 0 - 0 0 - 1 5 6 1 1 1 0 3 -6
+p430
+aVShaquille O'Neal MIA 01/20/2006 MIA vs. SAS L 30 23 9 14 64.3 0 0 - 5 11 45.5 1 5 6 1 0 3 3 6 1
+p431
+aVGary Payton MIA 01/20/2006 MIA vs. SAS L 24 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 2 -6
+p432
+aVAntoine Walker MIA 01/20/2006 MIA vs. SAS L 30 12 5 9 55.6 1 4 25.0 1 2 50.0 1 6 7 1 0 0 1 3 -10
+p433
+aVJason Williams MIA 01/20/2006 MIA vs. SAS L 38 18 8 11 72.7 1 3 33.3 1 2 50.0 0 3 3 3 1 0 4 4 -5
+p434
+aVJames Posey MIA 01/20/2006 MIA vs. SAS L 39 0 0 2 0.0 0 0 - 0 0 - 0 7 7 1 0 0 1 3 3
+p435
+aVDwyane Wade MIA 01/16/2006 MIA @ LAL L 42 34 11 24 45.8 0 3 0.0 12 16 75.0 0 2 2 7 0 1 1 1 -9
+p436
+aVAlonzo Mourning MIA 01/16/2006 MIA @ LAL L 16 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 4 1 3 4
+p437
+aVUdonis Haslem MIA 01/16/2006 MIA @ LAL L 34 13 5 10 50.0 0 0 - 3 4 75.0 7 5 12 0 0 0 2 6 1
+p438
+aVAntoine Walker MIA 01/16/2006 MIA @ LAL L 18 5 2 8 25.0 1 3 33.3 0 0 - 1 3 4 1 0 0 1 2 -10
+p439
+aVShaquille O'Neal MIA 01/16/2006 MIA @ LAL L 31 18 8 14 57.1 0 0 - 2 8 25.0 6 4 10 1 0 0 1 5 -10
+p440
+aVJason Williams MIA 01/16/2006 MIA @ LAL L 26 5 2 10 20.0 1 2 50.0 0 0 - 0 1 1 5 0 0 1 1 -14
+p441
+aVGary Payton MIA 01/16/2006 MIA @ LAL L 32 6 3 7 42.9 0 3 0.0 0 0 - 0 5 5 6 0 0 0 2 0
+p442
+aVJames Posey MIA 01/16/2006 MIA @ LAL L 40 11 3 8 37.5 3 7 42.9 2 2 100.0 2 6 8 2 1 0 0 4 -2
+p443
+aVGary Payton MIA 01/14/2006 MIA @ UTA W 25 11 5 9 55.6 1 3 33.3 0 0 - 0 1 1 1 0 0 0 3 -1
+p444
+aVAlonzo Mourning MIA 01/14/2006 MIA @ UTA W 12 4 1 3 33.3 0 0 - 2 4 50.0 1 1 2 0 0 2 1 2 -5
+p445
+aVUdonis Haslem MIA 01/14/2006 MIA @ UTA W 24 4 2 5 40.0 0 0 - 0 0 - 5 4 9 2 1 0 0 3 9
+p446
+aVDwyane Wade MIA 01/14/2006 MIA @ UTA W 46 31 10 20 50.0 0 1 0.0 11 12 91.7 2 6 8 8 4 1 5 0 13
+p447
+aVJames Posey MIA 01/14/2006 MIA @ UTA W 42 17 6 12 50.0 5 8 62.5 0 0 - 3 6 9 0 2 0 1 3 6
+p448
+aVGerald Fitch MIA 01/14/2006 MIA @ UTA W 25 10 2 7 28.6 0 1 0.0 6 7 85.7 0 1 1 4 0 0 3 2 0
+p449
+aVWayne Simien MIA 01/14/2006 MIA @ UTA W 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 1 0 -2
+p450
+aVAntoine Walker MIA 01/14/2006 MIA @ UTA W 24 9 3 7 42.9 2 5 40.0 1 2 50.0 0 3 3 4 1 0 3 2 0
+p451
+aVShaquille O'Neal MIA 01/14/2006 MIA @ UTA W 34 12 5 14 35.7 0 0 - 2 3 66.7 5 9 14 1 2 3 2 4 10
+p452
+aVJason Kapono MIA 01/13/2006 MIA @ SEA W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p453
+aVGary Payton MIA 01/13/2006 MIA @ SEA W 8 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 11
+p454
+aVAntoine Walker MIA 01/13/2006 MIA @ SEA W 35 15 6 13 46.2 2 7 28.6 1 1 100.0 1 5 6 1 0 0 2 2 19
+p455
+aVAlonzo Mourning MIA 01/13/2006 MIA @ SEA W 22 12 5 7 71.4 0 0 - 2 2 100.0 3 2 5 0 0 5 1 4 20
+p456
+aVJason Williams MIA 01/13/2006 MIA @ SEA W 36 19 7 15 46.7 1 5 20.0 4 4 100.0 0 5 5 4 1 0 1 5 17
+p457
+aVJames Posey MIA 01/13/2006 MIA @ SEA W 23 19 5 11 45.5 5 9 55.6 4 4 100.0 0 3 3 0 0 0 1 6 8
+p458
+aVUdonis Haslem MIA 01/13/2006 MIA @ SEA W 33 9 4 7 57.1 0 0 - 1 1 100.0 3 4 7 3 0 1 2 0 -12
+p459
+aVDwyane Wade MIA 01/13/2006 MIA @ SEA W 39 15 4 14 28.6 0 0 - 7 8 87.5 3 7 10 14 2 2 5 1 4
+p460
+aVGerald Fitch MIA 01/13/2006 MIA @ SEA W 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p461
+aVWayne Simien MIA 01/13/2006 MIA @ SEA W 7 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 4
+p462
+aVShaquille O'Neal MIA 01/13/2006 MIA @ SEA W 23 16 5 7 71.4 0 0 - 6 7 85.7 3 6 9 0 0 1 1 5 -2
+p463
+aVAntoine Walker MIA 01/11/2006 MIA @ GSW W 27 19 7 11 63.6 5 7 71.4 0 0 - 1 3 4 5 0 0 1 3 5
+p464
+aVShaquille O'Neal MIA 01/11/2006 MIA @ GSW W 29 21 10 15 66.7 0 0 - 1 11 9.1 2 8 10 1 0 3 4 4 -2
+p465
+aVDwyane Wade MIA 01/11/2006 MIA @ GSW W 41 32 13 19 68.4 0 1 0.0 6 6 100.0 0 5 5 11 2 1 4 2 13
+p466
+aVJason Kapono MIA 01/11/2006 MIA @ GSW W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p467
+aVUdonis Haslem MIA 01/11/2006 MIA @ GSW W 36 6 3 7 42.9 0 0 - 0 0 - 1 9 10 0 0 0 0 3 10
+p468
+aVGary Payton MIA 01/11/2006 MIA @ GSW W 27 13 5 9 55.6 3 4 75.0 0 0 - 0 7 7 6 0 0 3 2 9
+p469
+aVWayne Simien MIA 01/11/2006 MIA @ GSW W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p470
+aVJason Williams MIA 01/11/2006 MIA @ GSW W 31 11 4 7 57.1 2 3 66.7 1 2 50.0 0 1 1 8 0 0 0 3 7
+p471
+aVJames Posey MIA 01/11/2006 MIA @ GSW W 22 2 1 5 20.0 0 3 0.0 0 0 - 0 5 5 2 0 0 2 2 7
+p472
+aVAlonzo Mourning MIA 01/11/2006 MIA @ GSW W 19 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 0 4 0 2 16
+p473
+aVMichael Doleac MIA 01/08/2006 MIA @ POR W 7 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -1
+p474
+aVAntoine Walker MIA 01/08/2006 MIA @ POR W 24 16 6 9 66.7 3 6 50.0 1 1 100.0 0 4 4 2 0 0 1 3 11
+p475
+aVDwyane Wade MIA 01/08/2006 MIA @ POR W 28 31 13 17 76.5 0 0 - 5 6 83.3 2 3 5 7 6 0 2 3 18
+p476
+aVGary Payton MIA 01/08/2006 MIA @ POR W 27 8 3 6 50.0 0 1 0.0 2 2 100.0 0 4 4 5 1 0 1 2 12
+p477
+aVAlonzo Mourning MIA 01/08/2006 MIA @ POR W 15 7 3 3 100.0 0 0 - 1 2 50.0 2 1 3 1 1 1 1 2 14
+p478
+aVShandon Anderson MIA 01/08/2006 MIA @ POR W 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -1
+p479
+aVJason Kapono MIA 01/08/2006 MIA @ POR W 13 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 0 0
+p480
+aVUdonis Haslem MIA 01/08/2006 MIA @ POR W 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 14
+p481
+aVJames Posey MIA 01/08/2006 MIA @ POR W 33 12 4 6 66.7 4 6 66.7 0 0 - 0 9 9 1 0 0 0 4 22
+p482
+aVWayne Simien MIA 01/08/2006 MIA @ POR W 13 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 12
+p483
+aVJason Williams MIA 01/08/2006 MIA @ POR W 28 20 8 11 72.7 3 4 75.0 1 1 100.0 0 4 4 8 0 0 2 3 28
+p484
+aVShaquille O'Neal MIA 01/08/2006 MIA @ POR W 26 12 4 9 44.4 0 0 - 4 10 40.0 1 6 7 2 0 0 3 2 16
+p485
+aVJason Kapono MIA 01/06/2006 MIA @ PHX L 32 16 6 14 42.9 2 5 40.0 2 2 100.0 1 1 2 4 0 0 1 5 -9
+p486
+aVShandon Anderson MIA 01/06/2006 MIA @ PHX L 30 4 2 12 16.7 0 0 - 0 0 - 0 1 1 3 1 0 2 1 4
+p487
+aVGary Payton MIA 01/06/2006 MIA @ PHX L 38 15 6 11 54.5 1 4 25.0 2 2 100.0 0 3 3 3 3 0 2 2 -25
+p488
+aVAlonzo Mourning MIA 01/06/2006 MIA @ PHX L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p489
+aVShaquille O'Neal MIA 01/06/2006 MIA @ PHX L 23 8 2 6 33.3 0 0 - 4 8 50.0 6 7 13 0 0 0 2 4 -27
+p490
+aVGerald Fitch MIA 01/06/2006 MIA @ PHX L 24 5 2 8 25.0 0 2 0.0 1 2 50.0 0 4 4 6 0 1 1 1 -2
+p491
+aVUdonis Haslem MIA 01/06/2006 MIA @ PHX L 30 10 3 10 30.0 0 0 - 4 4 100.0 3 8 11 0 0 0 4 2 -8
+p492
+aVJames Posey MIA 01/06/2006 MIA @ PHX L 18 2 1 7 14.3 0 4 0.0 0 0 - 1 2 3 1 0 0 0 2 -22
+p493
+aVAntoine Walker MIA 01/06/2006 MIA @ PHX L 26 22 9 16 56.3 3 5 60.0 1 1 100.0 2 6 8 1 0 0 2 4 -5
+p494
+aVWayne Simien MIA 01/06/2006 MIA @ PHX L 16 9 4 7 57.1 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 -2
+p495
+aVJason Williams MIA 01/04/2006 MIA @ NOK L 28 15 5 11 45.5 5 9 55.6 0 0 - 0 0 0 2 2 0 2 2 -22
+p496
+aVGary Payton MIA 01/04/2006 MIA @ NOK L 27 8 3 5 60.0 1 3 33.3 1 2 50.0 0 1 1 2 0 0 0 0 -3
+p497
+aVShaquille O'Neal MIA 01/04/2006 MIA @ NOK L 30 19 9 13 69.2 0 0 - 1 4 25.0 6 3 9 0 1 1 2 4 -19
+p498
+aVMichael Doleac MIA 01/04/2006 MIA @ NOK L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p499
+aVAlonzo Mourning MIA 01/04/2006 MIA @ NOK L 14 2 0 1 0.0 0 0 - 2 2 100.0 3 2 5 0 1 2 1 5 1
+p500
+aVDwyane Wade MIA 01/04/2006 MIA @ NOK L 37 19 7 16 43.8 0 0 - 5 9 55.6 1 9 10 10 0 0 8 3 -12
+p501
+aVJason Kapono MIA 01/04/2006 MIA @ NOK L 21 5 1 6 16.7 1 4 25.0 2 2 100.0 1 0 1 1 0 1 1 3 0
+p502
+aVJames Posey MIA 01/04/2006 MIA @ NOK L 31 6 2 5 40.0 2 4 50.0 0 0 - 1 7 8 2 1 0 0 3 -8
+p503
+aVWayne Simien MIA 01/04/2006 MIA @ NOK L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 4
+p504
+aVUdonis Haslem MIA 01/04/2006 MIA @ NOK L 31 9 4 8 50.0 0 0 - 1 1 100.0 1 8 9 1 0 1 0 2 -14
+p505
+aVAntoine Walker MIA 01/04/2006 MIA @ NOK L 15 3 1 9 11.1 0 3 0.0 1 2 50.0 0 2 2 1 1 0 2 2 -6
+p506
+aVAntoine Walker MIA 01/01/2006 MIA vs. MIN W 20 9 3 8 37.5 1 2 50.0 2 2 100.0 0 2 2 1 0 0 1 1 12
+p507
+aVWayne Simien MIA 01/01/2006 MIA vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p508
+aVJames Posey MIA 01/01/2006 MIA vs. MIN W 29 11 4 5 80.0 3 4 75.0 0 0 - 1 1 2 1 4 0 1 2 22
+p509
+aVUdonis Haslem MIA 01/01/2006 MIA vs. MIN W 24 8 4 7 57.1 0 0 - 0 0 - 2 4 6 2 0 0 0 0 20
+p510
+aVDwyane Wade MIA 01/01/2006 MIA vs. MIN W 33 19 8 15 53.3 0 1 0.0 3 5 60.0 0 6 6 9 0 1 3 4 27
+p511
+aVJason Kapono MIA 01/01/2006 MIA vs. MIN W 18 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 7
+p512
+aVShaquille O'Neal MIA 01/01/2006 MIA vs. MIN W 23 16 8 12 66.7 0 0 - 0 0 - 1 6 7 0 1 0 3 4 15
+p513
+aVMichael Doleac MIA 01/01/2006 MIA vs. MIN W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 0 1
+p514
+aVJason Williams MIA 01/01/2006 MIA vs. MIN W 34 8 3 11 27.3 2 6 33.3 0 0 - 0 3 3 7 0 0 1 2 22
+p515
+aVShandon Anderson MIA 01/01/2006 MIA vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -5
+p516
+aVAlonzo Mourning MIA 01/01/2006 MIA vs. MIN W 20 13 4 6 66.7 0 0 - 5 8 62.5 6 4 10 0 0 0 0 3 13
+p517
+aVGary Payton MIA 01/01/2006 MIA vs. MIN W 26 10 4 7 57.1 2 2 100.0 0 0 - 0 3 3 3 2 0 3 2 6
+p518
+aVAntoine Walker MIA 12/30/2005 MIA @ WAS W 27 21 9 17 52.9 3 7 42.9 0 0 - 6 7 13 5 0 0 2 6 16
+p519
+aVWayne Simien MIA 12/30/2005 MIA @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p520
+aVJason Kapono MIA 12/30/2005 MIA @ WAS W 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p521
+aVGary Payton MIA 12/30/2005 MIA @ WAS W 30 10 4 10 40.0 0 4 0.0 2 4 50.0 0 3 3 7 2 0 2 1 23
+p522
+aVJames Posey MIA 12/30/2005 MIA @ WAS W 34 8 2 3 66.7 2 3 66.7 2 2 100.0 0 5 5 3 0 0 1 5 8
+p523
+aVAlonzo Mourning MIA 12/30/2005 MIA @ WAS W 17 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 0 0 2 0 4 5
+p524
+aVUdonis Haslem MIA 12/30/2005 MIA @ WAS W 31 8 3 5 60.0 0 0 - 2 2 100.0 0 5 5 2 0 0 1 2 3
+p525
+aVShaquille O'Neal MIA 12/30/2005 MIA @ WAS W 30 28 11 15 73.3 0 0 - 6 13 46.2 2 8 10 0 0 1 4 5 9
+p526
+aVJason Williams MIA 12/30/2005 MIA @ WAS W 25 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 4 0 0 2 5 -11
+p527
+aVDwyane Wade MIA 12/30/2005 MIA @ WAS W 41 34 8 17 47.1 0 1 0.0 18 21 85.7 4 4 8 5 2 0 2 3 18
+p528
+aVAntoine Walker MIA 12/29/2005 MIA @ DET L 15 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 1
+p529
+aVAlonzo Mourning MIA 12/29/2005 MIA @ DET L 13 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 1 0 3 5
+p530
+aVDwyane Wade MIA 12/29/2005 MIA @ DET L 45 33 14 20 70.0 0 0 - 5 5 100.0 1 5 6 9 0 1 4 5 1
+p531
+aVGary Payton MIA 12/29/2005 MIA @ DET L 31 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 3 1 0 1 3 -8
+p532
+aVUdonis Haslem MIA 12/29/2005 MIA @ DET L 33 8 3 6 50.0 0 0 - 2 2 100.0 5 5 10 2 1 1 1 4 -6
+p533
+aVShaquille O'Neal MIA 12/29/2005 MIA @ DET L 35 26 11 21 52.4 0 0 - 4 10 40.0 3 3 6 2 0 1 2 2 -10
+p534
+aVJason Williams MIA 12/29/2005 MIA @ DET L 39 20 8 16 50.0 2 5 40.0 2 2 100.0 0 3 3 5 3 0 2 5 -4
+p535
+aVJames Posey MIA 12/29/2005 MIA @ DET L 29 2 1 4 25.0 0 2 0.0 0 1 0.0 0 5 5 2 0 0 0 2 -4
+p536
+aVShaquille O'Neal MIA 12/27/2005 MIA vs. MIL W 31 23 10 18 55.6 0 0 - 3 3 100.0 3 5 8 1 1 2 2 4 21
+p537
+aVJason Williams MIA 12/27/2005 MIA vs. MIL W 36 18 7 10 70.0 4 6 66.7 0 0 - 0 1 1 7 1 0 1 2 9
+p538
+aVUdonis Haslem MIA 12/27/2005 MIA vs. MIL W 27 10 5 10 50.0 0 0 - 0 0 - 1 5 6 0 0 0 0 0 9
+p539
+aVGary Payton MIA 12/27/2005 MIA vs. MIL W 26 6 2 7 28.6 2 7 28.6 0 0 - 0 0 0 1 1 0 1 4 1
+p540
+aVJason Kapono MIA 12/27/2005 MIA vs. MIL W 13 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 1 0 0 2 -4
+p541
+aVAlonzo Mourning MIA 12/27/2005 MIA vs. MIL W 17 5 1 3 33.3 0 0 - 3 6 50.0 3 1 4 0 0 1 0 3 -10
+p542
+aVJames Posey MIA 12/27/2005 MIA vs. MIL W 28 2 0 3 0.0 0 3 0.0 2 2 100.0 1 5 6 1 0 0 1 3 7
+p543
+aVDwyane Wade MIA 12/27/2005 MIA vs. MIL W 41 35 10 14 71.4 0 0 - 15 19 78.9 0 3 3 7 2 1 4 3 20
+p544
+aVAntoine Walker MIA 12/27/2005 MIA vs. MIL W 21 8 2 10 20.0 0 5 0.0 4 4 100.0 1 1 2 0 3 0 4 2 2
+p545
+aVAlonzo Mourning MIA 12/25/2005 MIA vs. LAL W 13 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 4 0 4 9
+p546
+aVJames Posey MIA 12/25/2005 MIA vs. LAL W 24 8 2 6 33.3 1 4 25.0 3 3 100.0 1 2 3 1 0 0 2 4 -3
+p547
+aVAntoine Walker MIA 12/25/2005 MIA vs. LAL W 29 6 2 5 40.0 0 2 0.0 2 4 50.0 0 5 5 3 2 1 4 1 18
+p548
+aVJason Williams MIA 12/25/2005 MIA vs. LAL W 33 14 5 14 35.7 1 5 20.0 3 3 100.0 0 2 2 3 1 1 2 1 -5
+p549
+aVDwyane Wade MIA 12/25/2005 MIA vs. LAL W 30 18 5 15 33.3 0 0 - 8 13 61.5 1 3 4 5 1 0 2 4 2
+p550
+aVUdonis Haslem MIA 12/25/2005 MIA vs. LAL W 33 5 2 6 33.3 0 0 - 1 1 100.0 4 4 8 2 0 0 0 4 -12
+p551
+aVJason Kapono MIA 12/25/2005 MIA vs. LAL W 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 6
+p552
+aVGary Payton MIA 12/25/2005 MIA vs. LAL W 31 21 9 11 81.8 1 1 100.0 2 2 100.0 2 0 2 0 2 0 1 3 17
+p553
+aVShaquille O'Neal MIA 12/25/2005 MIA vs. LAL W 34 18 8 18 44.4 0 0 - 2 5 40.0 6 11 17 3 0 1 6 4 -7
+p554
+aVUdonis Haslem MIA 12/23/2005 MIA vs. NJN L 25 6 3 5 60.0 0 0 - 0 0 - 0 9 9 1 0 1 0 4 7
+p555
+aVGary Payton MIA 12/23/2005 MIA vs. NJN L 28 5 2 3 66.7 1 2 50.0 0 1 0.0 0 1 1 3 0 0 0 4 -15
+p556
+aVDwyane Wade MIA 12/23/2005 MIA vs. NJN L 40 17 4 20 20.0 0 2 0.0 9 12 75.0 1 3 4 7 2 0 1 1 9
+p557
+aVShaquille O'Neal MIA 12/23/2005 MIA vs. NJN L 32 24 10 22 45.5 0 0 - 4 11 36.4 4 10 14 1 0 1 1 4 5
+p558
+aVJason Williams MIA 12/23/2005 MIA vs. NJN L 32 7 2 7 28.6 1 4 25.0 2 2 100.0 0 4 4 3 1 0 2 1 -14
+p559
+aVJames Posey MIA 12/23/2005 MIA vs. NJN L 39 10 3 6 50.0 2 5 40.0 2 3 66.7 0 6 6 2 2 0 0 5 0
+p560
+aVAlonzo Mourning MIA 12/23/2005 MIA vs. NJN L 15 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 2 2 3 -15
+p561
+aVAntoine Walker MIA 12/23/2005 MIA vs. NJN L 23 12 4 12 33.3 2 5 40.0 2 2 100.0 2 6 8 2 0 0 3 0 -13
+p562
+aVJason Kapono MIA 12/23/2005 MIA vs. NJN L 6 5 1 3 33.3 0 1 0.0 3 4 75.0 0 2 2 0 0 0 0 5 1
+p563
+aVGary Payton MIA 12/20/2005 MIA vs. ATL W 27 15 5 13 38.5 0 2 0.0 5 5 100.0 1 2 3 8 1 0 0 3 32
+p564
+aVMichael Doleac MIA 12/20/2005 MIA vs. ATL W 22 3 1 5 20.0 0 0 - 1 2 50.0 1 4 5 1 0 1 2 3 -10
+p565
+aVGerald Fitch MIA 12/20/2005 MIA vs. ATL W 23 15 4 7 57.1 1 1 100.0 6 8 75.0 2 3 5 2 1 0 2 3 -12
+p566
+aVUdonis Haslem MIA 12/20/2005 MIA vs. ATL W 21 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 1 0 3 3 28
+p567
+aVShaquille O'Neal MIA 12/20/2005 MIA vs. ATL W 24 28 13 15 86.7 0 0 - 2 6 33.3 4 6 10 4 0 2 1 4 33
+p568
+aVDorell Wright MIA 12/20/2005 MIA vs. ATL W 11 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 1 1 0 -13
+p569
+aVJames Posey MIA 12/20/2005 MIA vs. ATL W 28 5 1 2 50.0 1 2 50.0 2 2 100.0 1 6 7 2 2 1 0 3 29
+p570
+aVJason Kapono MIA 12/20/2005 MIA vs. ATL W 31 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 3 -7
+p571
+aVWayne Simien MIA 12/20/2005 MIA vs. ATL W 8 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -8
+p572
+aVAntoine Walker MIA 12/20/2005 MIA vs. ATL W 21 13 5 12 41.7 1 5 20.0 2 2 100.0 1 2 3 2 0 0 2 3 -5
+p573
+aVDwyane Wade MIA 12/20/2005 MIA vs. ATL W 24 14 3 6 50.0 1 1 100.0 7 8 87.5 0 5 5 2 0 0 3 2 28
+p574
+aVGerald Fitch MIA 12/17/2005 MIA @ CLE L 13 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 1 0 0 0 0 7
+p575
+aVGary Payton MIA 12/17/2005 MIA @ CLE L 28 9 4 8 50.0 1 4 25.0 0 0 - 1 4 5 6 1 1 1 2 -18
+p576
+aVAntoine Walker MIA 12/17/2005 MIA @ CLE L 27 10 4 10 40.0 1 6 16.7 1 2 50.0 3 4 7 7 0 1 2 2 9
+p577
+aVJames Posey MIA 12/17/2005 MIA @ CLE L 33 13 5 8 62.5 3 5 60.0 0 0 - 0 5 5 0 0 0 0 2 9
+p578
+aVAlonzo Mourning MIA 12/17/2005 MIA @ CLE L 20 14 6 12 50.0 0 0 - 2 5 40.0 3 3 6 0 1 3 3 0 1
+p579
+aVJason Kapono MIA 12/17/2005 MIA @ CLE L 19 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 1 0 0 0 3 -1
+p580
+aVDwyane Wade MIA 12/17/2005 MIA @ CLE L 40 33 11 22 50.0 0 2 0.0 11 13 84.6 1 3 4 7 2 1 2 2 -12
+p581
+aVShandon Anderson MIA 12/17/2005 MIA @ CLE L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p582
+aVShaquille O'Neal MIA 12/17/2005 MIA @ CLE L 27 10 5 10 50.0 0 0 - 0 3 0.0 2 4 6 1 0 0 4 4 -8
+p583
+aVUdonis Haslem MIA 12/17/2005 MIA @ CLE L 22 3 1 5 20.0 0 0 - 1 1 100.0 2 3 5 0 1 0 1 2 -18
+p584
+aVJason Kapono MIA 12/16/2005 MIA @ PHI W 15 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 4 -6
+p585
+aVAlonzo Mourning MIA 12/16/2005 MIA @ PHI W 15 2 1 1 100.0 0 0 - 0 0 - 2 7 9 0 0 2 0 0 -12
+p586
+aVShandon Anderson MIA 12/16/2005 MIA @ PHI W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 4
+p587
+aVJames Posey MIA 12/16/2005 MIA @ PHI W 34 9 3 9 33.3 3 7 42.9 0 0 - 0 6 6 2 0 0 1 3 12
+p588
+aVUdonis Haslem MIA 12/16/2005 MIA @ PHI W 23 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 4 0 0 2 3 10
+p589
+aVAntoine Walker MIA 12/16/2005 MIA @ PHI W 26 16 6 12 50.0 3 5 60.0 1 2 50.0 3 5 8 4 0 1 2 3 -4
+p590
+aVGary Payton MIA 12/16/2005 MIA @ PHI W 35 12 3 8 37.5 1 3 33.3 5 6 83.3 0 1 1 5 1 0 3 3 11
+p591
+aVShaquille O'Neal MIA 12/16/2005 MIA @ PHI W 32 21 9 17 52.9 0 0 - 3 6 50.0 3 10 13 1 1 2 3 4 20
+p592
+aVDwyane Wade MIA 12/16/2005 MIA @ PHI W 42 32 11 16 68.8 0 0 - 10 13 76.9 0 6 6 3 1 1 2 3 6
+p593
+aVGerald Fitch MIA 12/16/2005 MIA @ PHI W 13 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 4 0 0 1 3 -6
+p594
+aVUdonis Haslem MIA 12/14/2005 MIA @ MIL W 29 7 3 10 30.0 0 0 - 1 2 50.0 3 7 10 0 0 0 0 2 1
+p595
+aVJames Posey MIA 12/14/2005 MIA @ MIL W 19 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 1 5 14
+p596
+aVShaquille O'Neal MIA 12/14/2005 MIA @ MIL W 25 13 4 12 33.3 0 0 - 5 8 62.5 2 4 6 1 2 2 1 3 18
+p597
+aVJason Kapono MIA 12/14/2005 MIA @ MIL W 22 8 3 7 42.9 2 5 40.0 0 0 - 0 4 4 0 0 0 0 2 15
+p598
+aVGary Payton MIA 12/14/2005 MIA @ MIL W 37 20 8 12 66.7 2 4 50.0 2 2 100.0 0 6 6 5 2 0 4 2 17
+p599
+aVDwyane Wade MIA 12/14/2005 MIA @ MIL W 43 27 9 14 64.3 0 0 - 9 9 100.0 0 4 4 7 2 1 2 2 12
+p600
+aVAlonzo Mourning MIA 12/14/2005 MIA @ MIL W 21 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 0 4 0 1 -4
+p601
+aVShandon Anderson MIA 12/14/2005 MIA @ MIL W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -9
+p602
+aVGerald Fitch MIA 12/14/2005 MIA @ MIL W 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 1 1 3 2
+p603
+aVAntoine Walker MIA 12/14/2005 MIA @ MIL W 21 12 5 11 45.5 2 6 33.3 0 0 - 0 4 4 1 0 0 1 4 19
+p604
+aVAntoine Walker MIA 12/13/2005 MIA @ CHI W 22 14 5 11 45.5 3 5 60.0 1 2 50.0 0 4 4 3 1 0 1 4 3
+p605
+aVUdonis Haslem MIA 12/13/2005 MIA @ CHI W 25 10 4 7 57.1 0 0 - 2 2 100.0 2 3 5 2 1 0 1 5 0
+p606
+aVGerald Fitch MIA 12/13/2005 MIA @ CHI W 21 2 1 5 20.0 0 3 0.0 0 0 - 1 4 5 2 0 0 1 3 7
+p607
+aVGary Payton MIA 12/13/2005 MIA @ CHI W 41 10 3 8 37.5 1 3 33.3 3 5 60.0 0 0 0 5 2 0 0 1 -2
+p608
+aVShandon Anderson MIA 12/13/2005 MIA @ CHI W 20 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 3 0
+p609
+aVJason Kapono MIA 12/13/2005 MIA @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p610
+aVDwyane Wade MIA 12/13/2005 MIA @ CHI W 42 14 6 17 35.3 0 0 - 2 4 50.0 0 5 5 11 3 2 2 4 5
+p611
+aVJames Posey MIA 12/13/2005 MIA @ CHI W 19 6 2 2 100.0 2 2 100.0 0 1 0.0 0 2 2 1 0 0 0 3 -1
+p612
+aVShaquille O'Neal MIA 12/13/2005 MIA @ CHI W 28 30 12 21 57.1 0 0 - 6 9 66.7 4 3 7 3 1 1 1 4 12
+p613
+aVAlonzo Mourning MIA 12/13/2005 MIA @ CHI W 20 11 5 12 41.7 0 0 - 1 3 33.3 6 6 12 0 0 2 1 1 -10
+p614
+aVShandon Anderson MIA 12/11/2005 MIA vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p615
+aVWayne Simien MIA 12/11/2005 MIA vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p616
+aVDwyane Wade MIA 12/11/2005 MIA vs. WAS W 47 41 15 27 55.6 0 1 0.0 11 13 84.6 3 7 10 8 4 1 2 3 3
+p617
+aVJames Posey MIA 12/11/2005 MIA vs. WAS W 36 5 1 7 14.3 1 5 20.0 2 2 100.0 1 2 3 0 0 0 2 4 -2
+p618
+aVAlonzo Mourning MIA 12/11/2005 MIA vs. WAS W 22 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 4 2 3 -1
+p619
+aVShaquille O'Neal MIA 12/11/2005 MIA vs. WAS W 23 10 2 7 28.6 0 0 - 6 16 37.5 1 10 11 1 0 1 4 6 10
+p620
+aVJason Kapono MIA 12/11/2005 MIA vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p621
+aVAntoine Walker MIA 12/11/2005 MIA vs. WAS W 28 7 2 8 25.0 1 2 50.0 2 6 33.3 0 6 6 2 0 0 1 3 -6
+p622
+aVUdonis Haslem MIA 12/11/2005 MIA vs. WAS W 43 11 5 12 41.7 0 0 - 1 2 50.0 5 3 8 0 1 1 0 2 3
+p623
+aVGerald Fitch MIA 12/11/2005 MIA vs. WAS W 15 5 2 7 28.6 1 5 20.0 0 0 - 0 0 0 1 1 0 1 2 -7
+p624
+aVGary Payton MIA 12/11/2005 MIA vs. WAS W 46 21 6 11 54.5 3 7 42.9 6 6 100.0 1 6 7 3 2 0 2 4 5
+p625
+aVAntoine Walker MIA 12/09/2005 MIA vs. DEN L 33 17 7 12 58.3 2 6 33.3 1 1 100.0 1 7 8 5 0 0 2 4 -2
+p626
+aVDwyane Wade MIA 12/09/2005 MIA vs. DEN L 42 37 10 23 43.5 0 0 - 17 21 81.0 1 9 10 3 2 1 5 3 -8
+p627
+aVGerald Fitch MIA 12/09/2005 MIA vs. DEN L 12 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 0 3 -2
+p628
+aVJames Posey MIA 12/09/2005 MIA vs. DEN L 41 6 2 6 33.3 1 4 25.0 1 2 50.0 3 4 7 3 2 2 2 5 -3
+p629
+aVGary Payton MIA 12/09/2005 MIA vs. DEN L 38 13 5 11 45.5 2 5 40.0 1 2 50.0 0 0 0 3 1 0 3 0 -10
+p630
+aVWayne Simien MIA 12/09/2005 MIA vs. DEN L 9 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 1 0 1 3 -1
+p631
+aVAlonzo Mourning MIA 12/09/2005 MIA vs. DEN L 18 6 3 8 37.5 0 0 - 0 1 0.0 1 1 2 0 0 2 1 2 -3
+p632
+aVJason Kapono MIA 12/09/2005 MIA vs. DEN L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p633
+aVUdonis Haslem MIA 12/09/2005 MIA vs. DEN L 37 4 1 6 16.7 0 0 - 2 2 100.0 4 5 9 1 1 0 2 4 -10
+p634
+aVShandon Anderson MIA 12/07/2005 MIA @ SAS L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p635
+aVWayne Simien MIA 12/07/2005 MIA @ SAS L 6 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 1 0
+p636
+aVAlonzo Mourning MIA 12/07/2005 MIA @ SAS L 30 7 3 6 50.0 0 0 - 1 3 33.3 3 4 7 0 0 0 2 4 -16
+p637
+aVUdonis Haslem MIA 12/07/2005 MIA @ SAS L 29 8 4 7 57.1 0 0 - 0 0 - 4 2 6 0 2 0 1 5 -18
+p638
+aVMichael Doleac MIA 12/07/2005 MIA @ SAS L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p639
+aVAntoine Walker MIA 12/07/2005 MIA @ SAS L 26 10 3 15 20.0 1 2 50.0 3 4 75.0 0 3 3 1 1 0 2 1 6
+p640
+aVJason Williams MIA 12/07/2005 MIA @ SAS L 25 9 2 7 28.6 1 3 33.3 4 4 100.0 1 0 1 2 3 1 1 1 -11
+p641
+aVGerald Fitch MIA 12/07/2005 MIA @ SAS L 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p642
+aVJames Posey MIA 12/07/2005 MIA @ SAS L 21 6 2 2 100.0 2 2 100.0 0 0 - 0 6 6 0 1 0 3 2 0
+p643
+aVDwyane Wade MIA 12/07/2005 MIA @ SAS L 40 31 8 20 40.0 0 1 0.0 15 17 88.2 2 4 6 10 1 0 5 4 -14
+p644
+aVGary Payton MIA 12/07/2005 MIA @ SAS L 23 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -3
+p645
+aVJason Kapono MIA 12/07/2005 MIA @ SAS L 25 5 2 8 25.0 1 3 33.3 0 0 - 1 2 3 1 1 0 2 2 -8
+p646
+aVUdonis Haslem MIA 12/05/2005 MIA @ LAC L 37 9 3 7 42.9 0 0 - 3 3 100.0 0 7 7 1 0 0 0 3 8
+p647
+aVDwyane Wade MIA 12/05/2005 MIA @ LAC L 42 29 12 25 48.0 0 2 0.0 5 7 71.4 0 6 6 4 4 1 5 4 1
+p648
+aVAlonzo Mourning MIA 12/05/2005 MIA @ LAC L 41 17 7 11 63.6 0 0 - 3 10 30.0 3 9 12 1 2 4 1 2 -7
+p649
+aVAntoine Walker MIA 12/05/2005 MIA @ LAC L 17 0 0 10 0.0 0 6 0.0 0 0 - 1 3 4 1 0 0 0 4 -21
+p650
+aVJason Kapono MIA 12/05/2005 MIA @ LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p651
+aVShandon Anderson MIA 12/05/2005 MIA @ LAC L 12 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 1
+p652
+aVJason Williams MIA 12/05/2005 MIA @ LAC L 40 17 5 14 35.7 4 8 50.0 3 3 100.0 0 1 1 9 0 1 3 1 9
+p653
+aVGary Payton MIA 12/05/2005 MIA @ LAC L 18 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 1 0 1 3 -19
+p654
+aVJames Posey MIA 12/05/2005 MIA @ LAC L 29 9 3 7 42.9 1 3 33.3 2 2 100.0 2 4 6 1 1 1 1 5 -14
+p655
+aVJames Posey MIA 12/03/2005 MIA @ DEN L 41 5 1 6 16.7 1 4 25.0 2 2 100.0 0 10 10 3 2 2 3 2 3
+p656
+aVAlonzo Mourning MIA 12/03/2005 MIA @ DEN L 26 6 3 7 42.9 0 0 - 0 2 0.0 3 6 9 1 0 2 3 2 -6
+p657
+aVGary Payton MIA 12/03/2005 MIA @ DEN L 31 17 6 7 85.7 3 4 75.0 2 2 100.0 0 1 1 5 0 1 1 3 -1
+p658
+aVDwyane Wade MIA 12/03/2005 MIA @ DEN L 33 32 9 16 56.3 0 0 - 14 19 73.7 2 4 6 6 2 0 1 5 3
+p659
+aVUdonis Haslem MIA 12/03/2005 MIA @ DEN L 27 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 0 0 2 5 -6
+p660
+aVWayne Simien MIA 12/03/2005 MIA @ DEN L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 6
+p661
+aVJason Kapono MIA 12/03/2005 MIA @ DEN L 13 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 7
+p662
+aVShandon Anderson MIA 12/03/2005 MIA @ DEN L 6 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -7
+p663
+aVAntoine Walker MIA 12/03/2005 MIA @ DEN L 34 20 9 21 42.9 2 9 22.2 0 0 - 3 4 7 2 0 1 1 3 2
+p664
+aVJason Williams MIA 12/03/2005 MIA @ DEN L 20 11 4 10 40.0 3 8 37.5 0 0 - 0 2 2 0 0 0 0 3 -11
+p665
+aVShandon Anderson MIA 12/02/2005 MIA @ SAC W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 0 1 1 1 0 0
+p666
+aVGary Payton MIA 12/02/2005 MIA @ SAC W 19 5 1 4 25.0 1 1 100.0 2 4 50.0 1 4 5 4 0 0 0 1 2
+p667
+aVJason Williams MIA 12/02/2005 MIA @ SAC W 42 20 7 14 50.0 4 8 50.0 2 2 100.0 0 2 2 8 2 0 4 2 15
+p668
+aVAlonzo Mourning MIA 12/02/2005 MIA @ SAC W 34 12 5 9 55.6 0 0 - 2 2 100.0 2 4 6 0 0 7 4 3 11
+p669
+aVDwyane Wade MIA 12/02/2005 MIA @ SAC W 35 27 11 22 50.0 0 0 - 5 6 83.3 1 4 5 7 1 1 3 5 5
+p670
+aVJames Posey MIA 12/02/2005 MIA @ SAC W 35 9 3 7 42.9 3 7 42.9 0 0 - 0 4 4 0 1 1 1 3 11
+p671
+aVAntoine Walker MIA 12/02/2005 MIA @ SAC W 24 11 4 7 57.1 3 4 75.0 0 0 - 0 4 4 3 0 2 2 3 -2
+p672
+aVMichael Doleac MIA 12/02/2005 MIA @ SAC W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -3
+p673
+aVUdonis Haslem MIA 12/02/2005 MIA @ SAC W 33 12 4 8 50.0 0 0 - 4 4 100.0 3 5 8 1 2 0 2 3 16
+p674
+aVShandon Anderson MIA 11/30/2005 MIA @ ATL W 17 10 4 5 80.0 0 1 0.0 2 3 66.7 1 3 4 0 0 1 0 1 10
+p675
+aVUdonis Haslem MIA 11/30/2005 MIA @ ATL W 32 9 4 5 80.0 0 0 - 1 2 50.0 2 3 5 1 0 0 1 3 19
+p676
+aVAlonzo Mourning MIA 11/30/2005 MIA @ ATL W 33 14 7 11 63.6 0 0 - 0 0 - 3 9 12 0 1 1 0 4 15
+p677
+aVDorell Wright MIA 11/30/2005 MIA @ ATL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p678
+aVAntoine Walker MIA 11/30/2005 MIA @ ATL W 29 6 3 7 42.9 0 3 0.0 0 0 - 0 6 6 3 0 0 3 2 10
+p679
+aVGary Payton MIA 11/30/2005 MIA @ ATL W 23 13 5 5 100.0 1 1 100.0 2 2 100.0 0 3 3 2 0 1 2 1 12
+p680
+aVDwyane Wade MIA 11/30/2005 MIA @ ATL W 37 20 8 22 36.4 0 0 - 4 5 80.0 1 3 4 6 5 0 2 2 17
+p681
+aVJason Williams MIA 11/30/2005 MIA @ ATL W 37 21 8 15 53.3 4 9 44.4 1 2 50.0 0 3 3 9 1 0 3 1 22
+p682
+aVJames Posey MIA 11/30/2005 MIA @ ATL W 27 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 3 0 0 0 3 5
+p683
+aVJason Kapono MIA 11/30/2005 MIA @ ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p684
+aVWayne Simien MIA 11/30/2005 MIA @ ATL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p685
+aVAntoine Walker MIA 11/28/2005 MIA vs. NYK W 22 9 3 9 33.3 1 3 33.3 2 2 100.0 1 5 6 2 0 1 1 2 -7
+p686
+aVGary Payton MIA 11/28/2005 MIA vs. NYK W 24 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 1 1 0 1 1 -1
+p687
+aVJason Williams MIA 11/28/2005 MIA vs. NYK W 32 18 7 10 70.0 1 3 33.3 3 3 100.0 0 2 2 6 0 0 1 0 18
+p688
+aVJames Posey MIA 11/28/2005 MIA vs. NYK W 40 19 6 12 50.0 5 9 55.6 2 2 100.0 0 5 5 2 2 1 1 2 10
+p689
+aVAlonzo Mourning MIA 11/28/2005 MIA vs. NYK W 24 9 3 4 75.0 0 0 - 3 3 100.0 4 3 7 1 1 9 0 2 27
+p690
+aVMichael Doleac MIA 11/28/2005 MIA vs. NYK W 19 4 1 4 25.0 0 0 - 2 2 100.0 3 1 4 0 0 0 2 3 -6
+p691
+aVGerald Fitch MIA 11/28/2005 MIA vs. NYK W 2 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p692
+aVUdonis Haslem MIA 11/28/2005 MIA vs. NYK W 37 10 5 11 45.5 0 0 - 0 0 - 1 11 12 2 0 0 2 2 11
+p693
+aVDorell Wright MIA 11/28/2005 MIA vs. NYK W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -11
+p694
+aVDwyane Wade MIA 11/28/2005 MIA vs. NYK W 33 33 9 19 47.4 0 1 0.0 15 18 83.3 2 1 3 5 3 2 1 3 28
+p695
+aVGary Payton MIA 11/26/2005 MIA @ ORL L 19 8 2 4 50.0 2 3 66.7 2 2 100.0 1 1 2 3 1 0 1 1 6
+p696
+aVDwyane Wade MIA 11/26/2005 MIA @ ORL L 39 21 8 20 40.0 0 0 - 5 10 50.0 1 5 6 4 0 2 4 3 -5
+p697
+aVWayne Simien MIA 11/26/2005 MIA @ ORL L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 4 0
+p698
+aVAntoine Walker MIA 11/26/2005 MIA @ ORL L 28 9 3 10 30.0 1 3 33.3 2 2 100.0 3 3 6 3 1 2 1 3 8
+p699
+aVDorell Wright MIA 11/26/2005 MIA @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p700
+aVJames Posey MIA 11/26/2005 MIA @ ORL L 22 1 0 3 0.0 0 2 0.0 1 1 100.0 1 2 3 0 1 0 1 5 -4
+p701
+aVJason Kapono MIA 11/26/2005 MIA @ ORL L 7 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 5 -8
+p702
+aVUdonis Haslem MIA 11/26/2005 MIA @ ORL L 34 6 2 10 20.0 0 0 - 2 2 100.0 3 5 8 0 2 0 1 1 -7
+p703
+aVAlonzo Mourning MIA 11/26/2005 MIA @ ORL L 38 15 4 10 40.0 0 0 - 7 12 58.3 10 11 21 0 0 4 4 3 -4
+p704
+aVJason Williams MIA 11/26/2005 MIA @ ORL L 40 14 6 16 37.5 2 9 22.2 0 0 - 0 2 2 3 1 0 1 1 3
+p705
+aVWayne Simien MIA 11/25/2005 MIA vs. DAL L 11 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 0 0 0 0 -7
+p706
+aVShandon Anderson MIA 11/25/2005 MIA vs. DAL L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p707
+aVUdonis Haslem MIA 11/25/2005 MIA vs. DAL L 36 14 6 8 75.0 0 0 - 2 2 100.0 2 6 8 2 1 0 0 3 -10
+p708
+aVGary Payton MIA 11/25/2005 MIA vs. DAL L 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -18
+p709
+aVJason Williams MIA 11/25/2005 MIA vs. DAL L 40 24 11 20 55.0 0 4 0.0 2 3 66.7 1 5 6 5 2 0 4 0 -10
+p710
+aVAntoine Walker MIA 11/25/2005 MIA vs. DAL L 21 2 1 13 7.7 0 4 0.0 0 0 - 2 1 3 0 0 0 1 4 -11
+p711
+aVDwyane Wade MIA 11/25/2005 MIA vs. DAL L 39 23 7 19 36.8 0 3 0.0 9 10 90.0 0 0 0 4 5 0 5 4 -2
+p712
+aVJames Posey MIA 11/25/2005 MIA vs. DAL L 39 10 3 5 60.0 0 0 - 4 5 80.0 1 2 3 0 0 0 0 3 1
+p713
+aVJason Kapono MIA 11/25/2005 MIA vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -9
+p714
+aVAlonzo Mourning MIA 11/25/2005 MIA vs. DAL L 28 13 5 8 62.5 0 0 - 3 9 33.3 3 4 7 0 0 6 0 1 2
+p715
+aVGary Payton MIA 11/23/2005 MIA vs. POR W 25 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 13
+p716
+aVDwyane Wade MIA 11/23/2005 MIA vs. POR W 32 19 7 13 53.8 0 0 - 5 6 83.3 3 8 11 4 2 0 2 1 17
+p717
+aVShandon Anderson MIA 11/23/2005 MIA vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p718
+aVAlonzo Mourning MIA 11/23/2005 MIA vs. POR W 18 10 4 8 50.0 0 0 - 2 2 100.0 0 1 1 0 0 3 1 3 12
+p719
+aVDorell Wright MIA 11/23/2005 MIA vs. POR W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p720
+aVAntoine Walker MIA 11/23/2005 MIA vs. POR W 24 12 5 10 50.0 2 4 50.0 0 0 - 2 4 6 4 0 1 2 0 6
+p721
+aVJason Williams MIA 11/23/2005 MIA vs. POR W 32 16 7 16 43.8 2 6 33.3 0 0 - 0 2 2 4 0 1 0 0 16
+p722
+aVJames Posey MIA 11/23/2005 MIA vs. POR W 31 12 4 6 66.7 3 4 75.0 1 2 50.0 0 5 5 0 0 1 0 2 17
+p723
+aVGerald Fitch MIA 11/23/2005 MIA vs. POR W 3 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -2
+p724
+aVWayne Simien MIA 11/23/2005 MIA vs. POR W 24 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 4 7
+p725
+aVJason Kapono MIA 11/23/2005 MIA vs. POR W 13 6 2 4 50.0 2 2 100.0 0 0 - 1 4 5 0 0 0 1 1 6
+p726
+aVUdonis Haslem MIA 11/23/2005 MIA vs. POR W 30 7 2 8 25.0 0 0 - 3 3 100.0 0 5 5 1 0 0 1 2 17
+p727
+aVGary Payton MIA 11/20/2005 MIA @ TOR L 38 6 2 10 20.0 0 4 0.0 2 2 100.0 0 3 3 7 1 0 0 3 -11
+p728
+aVDorell Wright MIA 11/20/2005 MIA @ TOR L 14 9 3 3 100.0 0 0 - 3 3 100.0 0 6 6 0 1 0 1 2 5
+p729
+aVDwyane Wade MIA 11/20/2005 MIA @ TOR L 42 33 14 29 48.3 1 4 25.0 4 7 57.1 2 6 8 9 1 0 3 2 -14
+p730
+aVWayne Simien MIA 11/20/2005 MIA @ TOR L 9 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 4 1
+p731
+aVJames Posey MIA 11/20/2005 MIA @ TOR L 35 11 4 12 33.3 3 9 33.3 0 0 - 0 1 1 1 0 0 0 5 -6
+p732
+aVUdonis Haslem MIA 11/20/2005 MIA @ TOR L 21 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 1 0 1 4 -8
+p733
+aVAntoine Walker MIA 11/20/2005 MIA @ TOR L 31 15 6 14 42.9 3 8 37.5 0 0 - 0 4 4 2 1 0 2 1 -13
+p734
+aVJason Kapono MIA 11/20/2005 MIA @ TOR L 15 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 0 0 0 1 2 -13
+p735
+aVAlonzo Mourning MIA 11/20/2005 MIA @ TOR L 35 11 4 6 66.7 0 0 - 3 6 50.0 3 4 7 0 0 4 4 4 -6
+p736
+aVAlonzo Mourning MIA 11/18/2005 MIA vs. PHI W 28 13 5 8 62.5 0 0 - 3 5 60.0 2 5 7 0 0 2 3 5 15
+p737
+aVJames Posey MIA 11/18/2005 MIA vs. PHI W 46 12 4 7 57.1 4 6 66.7 0 0 - 2 5 7 4 1 2 0 5 9
+p738
+aVAntoine Walker MIA 11/18/2005 MIA vs. PHI W 30 26 11 13 84.6 3 5 60.0 1 2 50.0 5 2 7 2 2 0 1 3 7
+p739
+aVDwyane Wade MIA 11/18/2005 MIA vs. PHI W 43 32 12 27 44.4 0 3 0.0 8 9 88.9 3 6 9 10 3 1 2 3 12
+p740
+aVGary Payton MIA 11/18/2005 MIA vs. PHI W 42 9 3 10 30.0 0 3 0.0 3 4 75.0 2 2 4 3 0 0 8 4 13
+p741
+aVJason Kapono MIA 11/18/2005 MIA vs. PHI W 14 8 2 6 33.3 2 3 66.7 2 2 100.0 0 0 0 1 0 0 2 3 -6
+p742
+aVUdonis Haslem MIA 11/18/2005 MIA vs. PHI W 37 6 2 7 28.6 0 0 - 2 4 50.0 2 10 12 0 0 0 1 1 0
+p743
+aVGary Payton MIA 11/15/2005 MIA vs. NOK W 35 9 2 6 33.3 1 3 33.3 4 4 100.0 1 2 3 6 1 0 1 2 6
+p744
+aVAntoine Walker MIA 11/15/2005 MIA vs. NOK W 29 21 8 17 47.1 3 6 50.0 2 2 100.0 2 4 6 1 2 0 1 5 -5
+p745
+aVJason Kapono MIA 11/15/2005 MIA vs. NOK W 15 9 3 5 60.0 2 4 50.0 1 1 100.0 0 2 2 0 0 0 0 2 5
+p746
+aVJason Williams MIA 11/15/2005 MIA vs. NOK W 28 17 7 14 50.0 3 8 37.5 0 0 - 0 4 4 2 1 0 1 2 -12
+p747
+aVDwyane Wade MIA 11/15/2005 MIA vs. NOK W 46 25 7 21 33.3 0 1 0.0 11 15 73.3 2 2 4 10 1 1 3 3 12
+p748
+aVAlonzo Mourning MIA 11/15/2005 MIA vs. NOK W 36 10 3 7 42.9 0 0 - 4 4 100.0 1 10 11 0 0 5 1 2 14
+p749
+aVJames Posey MIA 11/15/2005 MIA vs. NOK W 35 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 2 0 0 1 3 10
+p750
+aVUdonis Haslem MIA 11/15/2005 MIA vs. NOK W 41 12 5 10 50.0 0 0 - 2 2 100.0 2 7 9 2 1 0 3 1 5
+p751
+aVWayne Simien MIA 11/12/2005 MIA vs. CHA W 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 6 -14
+p752
+aVJason Kapono MIA 11/12/2005 MIA vs. CHA W 28 9 4 4 100.0 1 1 100.0 0 0 - 0 3 3 2 0 1 2 2 -5
+p753
+aVGary Payton MIA 11/12/2005 MIA vs. CHA W 26 4 1 3 33.3 0 1 0.0 2 2 100.0 2 3 5 6 0 0 2 3 6
+p754
+aVEarl Barron MIA 11/12/2005 MIA vs. CHA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -13
+p755
+aVUdonis Haslem MIA 11/12/2005 MIA vs. CHA W 33 14 6 9 66.7 0 0 - 2 2 100.0 1 10 11 0 0 1 4 2 20
+p756
+aVJames Posey MIA 11/12/2005 MIA vs. CHA W 21 6 2 3 66.7 2 3 66.7 0 0 - 0 7 7 2 0 1 2 4 9
+p757
+aVDwyane Wade MIA 11/12/2005 MIA vs. CHA W 33 19 7 15 46.7 0 2 0.0 5 8 62.5 2 5 7 7 2 1 2 2 34
+p758
+aVAlonzo Mourning MIA 11/12/2005 MIA vs. CHA W 17 16 6 7 85.7 0 0 - 4 6 66.7 3 3 6 0 0 2 0 3 17
+p759
+aVJason Williams MIA 11/12/2005 MIA vs. CHA W 29 22 8 14 57.1 4 6 66.7 2 2 100.0 1 3 4 7 1 0 4 0 19
+p760
+aVDorell Wright MIA 11/12/2005 MIA vs. CHA W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -21
+p761
+aVMatt Walsh MIA 11/12/2005 MIA vs. CHA W 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -15
+p762
+aVAntoine Walker MIA 11/12/2005 MIA vs. CHA W 25 12 5 13 38.5 2 6 33.3 0 2 0.0 1 8 9 2 0 1 5 2 8
+p763
+aVGary Payton MIA 11/10/2005 MIA vs. HOU W 28 12 3 9 33.3 1 4 25.0 5 6 83.3 2 4 6 3 0 0 1 1 6
+p764
+aVAlonzo Mourning MIA 11/10/2005 MIA vs. HOU W 33 13 6 10 60.0 0 0 - 1 2 50.0 5 4 9 0 0 3 6 5 9
+p765
+aVJames Posey MIA 11/10/2005 MIA vs. HOU W 24 6 2 7 28.6 2 6 33.3 0 0 - 0 4 4 1 0 0 1 3 -2
+p766
+aVUdonis Haslem MIA 11/10/2005 MIA vs. HOU W 30 7 3 7 42.9 0 0 - 1 3 33.3 2 5 7 0 0 0 1 5 6
+p767
+aVJason Williams MIA 11/10/2005 MIA vs. HOU W 37 13 5 12 41.7 2 5 40.0 1 2 50.0 1 3 4 4 1 0 2 3 0
+p768
+aVDwyane Wade MIA 11/10/2005 MIA vs. HOU W 40 25 10 23 43.5 0 1 0.0 5 6 83.3 3 5 8 7 3 1 2 1 12
+p769
+aVAntoine Walker MIA 11/10/2005 MIA vs. HOU W 33 8 3 8 37.5 2 6 33.3 0 2 0.0 0 3 3 0 0 0 1 2 -6
+p770
+aVWayne Simien MIA 11/10/2005 MIA vs. HOU W 15 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -5
+p771
+aVWayne Simien MIA 11/09/2005 MIA @ IND L 17 9 3 5 60.0 0 0 - 3 4 75.0 2 4 6 0 1 0 0 3 -14
+p772
+aVJason Kapono MIA 11/09/2005 MIA @ IND L 9 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -9
+p773
+aVAntoine Walker MIA 11/09/2005 MIA @ IND L 41 14 6 16 37.5 1 5 20.0 1 4 25.0 1 5 6 4 1 0 6 4 -2
+p774
+aVGary Payton MIA 11/09/2005 MIA @ IND L 27 2 0 2 0.0 0 2 0.0 2 2 100.0 1 2 3 2 1 0 1 3 -21
+p775
+aVDwyane Wade MIA 11/09/2005 MIA @ IND L 39 29 11 24 45.8 0 0 - 7 9 77.8 4 7 11 6 1 0 10 3 5
+p776
+aVUdonis Haslem MIA 11/09/2005 MIA @ IND L 40 19 8 11 72.7 0 1 0.0 3 4 75.0 3 8 11 1 3 1 0 5 6
+p777
+aVAlonzo Mourning MIA 11/09/2005 MIA @ IND L 27 8 3 6 50.0 0 0 - 2 4 50.0 2 5 7 1 0 7 2 6 5
+p778
+aVJason Williams MIA 11/09/2005 MIA @ IND L 40 9 3 8 37.5 2 3 66.7 1 1 100.0 0 2 2 5 0 0 1 3 5
+p779
+aVAlonzo Mourning MIA 11/07/2005 MIA vs. NJN W 38 11 5 8 62.5 0 0 - 1 4 25.0 5 6 11 1 0 5 1 3 0
+p780
+aVJason Williams MIA 11/07/2005 MIA vs. NJN W 37 11 4 9 44.4 3 8 37.5 0 0 - 0 2 2 5 1 0 3 1 11
+p781
+aVAntoine Walker MIA 11/07/2005 MIA vs. NJN W 33 18 6 13 46.2 2 6 33.3 4 4 100.0 0 5 5 3 1 2 1 3 15
+p782
+aVUdonis Haslem MIA 11/07/2005 MIA vs. NJN W 41 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 2 0 1 2 5 -4
+p783
+aVDwyane Wade MIA 11/07/2005 MIA vs. NJN W 35 23 8 18 44.4 0 1 0.0 7 10 70.0 2 4 6 6 4 1 2 3 -6
+p784
+aVGary Payton MIA 11/07/2005 MIA vs. NJN W 34 13 6 10 60.0 0 2 0.0 1 2 50.0 1 2 3 2 0 0 2 2 -6
+p785
+aVJason Kapono MIA 11/07/2005 MIA vs. NJN W 22 6 2 7 28.6 0 2 0.0 2 2 100.0 0 0 0 2 1 0 0 4 -5
+p786
+aVAntoine Walker MIA 11/05/2005 MIA @ MIL L 38 15 6 14 42.9 3 8 37.5 0 2 0.0 0 4 4 3 2 0 5 3 -4
+p787
+aVJason Williams MIA 11/05/2005 MIA @ MIL L 40 18 7 16 43.8 4 9 44.4 0 0 - 0 1 1 5 2 0 5 4 -13
+p788
+aVDwyane Wade MIA 11/05/2005 MIA @ MIL L 37 21 6 17 35.3 0 1 0.0 9 14 64.3 3 4 7 9 1 1 4 5 -6
+p789
+aVAlonzo Mourning MIA 11/05/2005 MIA @ MIL L 33 14 5 10 50.0 0 1 0.0 4 6 66.7 4 8 12 0 0 4 3 4 6
+p790
+aVGary Payton MIA 11/05/2005 MIA @ MIL L 26 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 4 1 1 0 1 -6
+p791
+aVJason Kapono MIA 11/05/2005 MIA @ MIL L 27 11 4 4 100.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 4 6
+p792
+aVUdonis Haslem MIA 11/05/2005 MIA @ MIL L 39 13 6 9 66.7 0 0 - 1 1 100.0 3 6 9 0 1 0 0 0 -8
+p793
+aVAlonzo Mourning MIA 11/03/2005 MIA vs. IND L 17 12 4 5 80.0 0 0 - 4 10 40.0 2 3 5 0 0 3 3 1 -2
+p794
+aVJason Williams MIA 11/03/2005 MIA vs. IND L 27 3 1 8 12.5 1 4 25.0 0 0 - 0 2 2 2 0 0 0 2 -5
+p795
+aVAntoine Walker MIA 11/03/2005 MIA vs. IND L 44 12 5 15 33.3 1 6 16.7 1 4 25.0 1 6 7 2 1 0 5 5 4
+p796
+aVGary Payton MIA 11/03/2005 MIA vs. IND L 30 8 4 7 57.1 0 2 0.0 0 1 0.0 1 5 6 2 2 0 0 3 -1
+p797
+aVDwyane Wade MIA 11/03/2005 MIA vs. IND L 44 31 10 17 58.8 1 4 25.0 10 13 76.9 2 4 6 10 1 1 5 3 2
+p798
+aVUdonis Haslem MIA 11/03/2005 MIA vs. IND L 31 14 4 8 50.0 0 0 - 6 6 100.0 2 6 8 1 1 0 0 5 -13
+p799
+aVJason Kapono MIA 11/03/2005 MIA vs. IND L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 3 1
+p800
+aVShaquille O'Neal MIA 11/03/2005 MIA vs. IND L 29 18 6 12 50.0 0 0 - 6 8 75.0 2 4 6 1 0 4 3 5 1
+p801
+aVEarl Barron MIA 11/03/2005 MIA vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p802
+aVAlonzo Mourning MIA 11/02/2005 MIA @ MEM W 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 5 4
+p803
+aVDwyane Wade MIA 11/02/2005 MIA @ MEM W 40 23 9 18 50.0 0 1 0.0 5 7 71.4 2 8 10 6 2 2 7 4 17
+p804
+aVUdonis Haslem MIA 11/02/2005 MIA @ MEM W 25 6 1 6 16.7 0 0 - 4 4 100.0 3 5 8 0 0 0 1 5 11
+p805
+aVDorell Wright MIA 11/02/2005 MIA @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p806
+aVWayne Simien MIA 11/02/2005 MIA @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p807
+aVMatt Walsh MIA 11/02/2005 MIA @ MEM W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p808
+aVJason Kapono MIA 11/02/2005 MIA @ MEM W 20 9 3 6 50.0 3 5 60.0 0 0 - 0 1 1 1 0 0 0 2 13
+p809
+aVJason Williams MIA 11/02/2005 MIA @ MEM W 33 10 4 7 57.1 0 3 0.0 2 2 100.0 0 2 2 3 3 0 1 5 9
+p810
+aVEarl Barron MIA 11/02/2005 MIA @ MEM W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p811
+aVAntoine Walker MIA 11/02/2005 MIA @ MEM W 41 25 10 17 58.8 4 7 57.1 1 1 100.0 3 13 16 4 0 1 1 3 17
+p812
+aVGary Payton MIA 11/02/2005 MIA @ MEM W 28 4 0 3 0.0 0 2 0.0 4 4 100.0 0 4 4 2 1 0 4 2 13
+p813
+aVShaquille O'Neal MIA 11/02/2005 MIA @ MEM W 28 12 6 14 42.9 0 0 - 0 3 0.0 1 5 6 3 1 3 3 2 16
+p814
+a.

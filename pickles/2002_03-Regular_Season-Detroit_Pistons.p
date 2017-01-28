@@ -1,0 +1,1654 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHubert Davis DET 04/16/2003 DET @ BOS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 0
+p2
+aVChauncey Billups DET 04/16/2003 DET @ BOS L 19 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 -14
+p3
+aVDon Reid DET 04/16/2003 DET @ BOS L 10 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 4 -5
+p4
+aVRichard Hamilton DET 04/16/2003 DET @ BOS L 23 11 4 11 36.4 0 0 - 3 6 50.0 1 2 3 1 1 0 2 3 -12
+p5
+aVJuan Sanchez DET 04/16/2003 DET @ BOS L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p6
+aVCorliss Williamson DET 04/16/2003 DET @ BOS L 29 13 4 11 36.4 0 0 - 5 6 83.3 2 4 6 3 1 0 3 3 1
+p7
+aVMehmet Okur DET 04/16/2003 DET @ BOS L 26 7 2 7 28.6 1 2 50.0 2 4 50.0 1 8 9 1 1 1 0 3 -12
+p8
+aVMichael Curry DET 04/16/2003 DET @ BOS L 21 7 2 5 40.0 0 1 0.0 3 3 100.0 0 1 1 5 1 0 0 2 -11
+p9
+aVChucky Atkins DET 04/16/2003 DET @ BOS L 23 8 3 8 37.5 2 5 40.0 0 0 - 0 2 2 1 1 0 2 1 5
+p10
+aVJon Barry DET 04/16/2003 DET @ BOS L 20 10 4 7 57.1 2 5 40.0 0 0 - 0 2 2 4 0 0 1 1 5
+p11
+aVDanny Manning DET 04/16/2003 DET @ BOS L 31 18 7 14 50.0 2 4 50.0 2 2 100.0 3 3 6 2 5 1 0 2 2
+p12
+aVTayshaun Prince DET 04/16/2003 DET @ BOS L 27 13 5 10 50.0 2 3 66.7 1 2 50.0 1 2 3 3 2 2 1 1 4
+p13
+aVTayshaun Prince DET 04/14/2003 DET vs. CLE W 24 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 1 1 1 1 -2
+p14
+aVChauncey Billups DET 04/14/2003 DET vs. CLE W 34 11 2 8 25.0 1 2 50.0 6 6 100.0 0 6 6 6 0 0 2 1 -2
+p15
+aVMehmet Okur DET 04/14/2003 DET vs. CLE W 31 7 3 9 33.3 0 2 0.0 1 2 50.0 2 4 6 2 1 2 0 2 -1
+p16
+aVChucky Atkins DET 04/14/2003 DET vs. CLE W 14 9 3 5 60.0 1 2 50.0 2 2 100.0 1 2 3 2 1 0 0 0 3
+p17
+aVJon Barry DET 04/14/2003 DET vs. CLE W 15 5 2 6 33.3 1 2 50.0 0 1 0.0 0 1 1 1 0 0 0 1 -1
+p18
+aVCorliss Williamson DET 04/14/2003 DET vs. CLE W 30 18 5 9 55.6 0 1 0.0 8 10 80.0 0 1 1 0 1 1 1 3 5
+p19
+aVMichael Curry DET 04/14/2003 DET vs. CLE W 18 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 -4
+p20
+aVRichard Hamilton DET 04/14/2003 DET vs. CLE W 33 16 7 20 35.0 0 1 0.0 2 2 100.0 3 1 4 1 2 0 0 4 2
+p21
+aVClifford Robinson DET 04/14/2003 DET vs. CLE W 42 15 5 13 38.5 2 3 66.7 3 5 60.0 1 6 7 2 2 2 2 1 5
+p22
+aVClifford Robinson DET 04/13/2003 DET @ MEM W 47 10 4 11 36.4 0 1 0.0 2 4 50.0 3 7 10 6 2 0 3 6 10
+p23
+aVJon Barry DET 04/13/2003 DET @ MEM W 21 13 4 5 80.0 2 2 100.0 3 4 75.0 0 2 2 3 0 0 1 1 8
+p24
+aVCorliss Williamson DET 04/13/2003 DET @ MEM W 36 14 6 13 46.2 0 0 - 2 2 100.0 4 4 8 2 2 2 2 4 2
+p25
+aVZeljko Rebraca DET 04/13/2003 DET @ MEM W 17 9 3 7 42.9 0 0 - 3 4 75.0 0 4 4 0 0 1 1 3 -2
+p26
+aVMichael Curry DET 04/13/2003 DET @ MEM W 27 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 1 0 2 1 -5
+p27
+aVChucky Atkins DET 04/13/2003 DET @ MEM W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -4
+p28
+aVChauncey Billups DET 04/13/2003 DET @ MEM W 44 28 9 23 39.1 3 6 50.0 7 9 77.8 2 8 10 6 2 0 3 0 7
+p29
+aVRichard Hamilton DET 04/13/2003 DET @ MEM W 39 18 8 17 47.1 0 1 0.0 2 2 100.0 4 1 5 0 2 0 3 2 -3
+p30
+aVMehmet Okur DET 04/13/2003 DET @ MEM W 44 13 5 13 38.5 1 1 100.0 2 2 100.0 7 5 12 0 1 1 1 5 2
+p31
+aVMichael Curry DET 04/11/2003 DET @ NOH L 23 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -11
+p32
+aVChucky Atkins DET 04/11/2003 DET @ NOH L 15 7 2 3 66.7 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 1 5
+p33
+aVMehmet Okur DET 04/11/2003 DET @ NOH L 33 5 1 6 16.7 0 1 0.0 3 4 75.0 2 7 9 3 0 1 1 5 3
+p34
+aVRichard Hamilton DET 04/11/2003 DET @ NOH L 35 16 7 14 50.0 0 1 0.0 2 2 100.0 0 6 6 0 2 1 3 3 -11
+p35
+aVCorliss Williamson DET 04/11/2003 DET @ NOH L 31 21 9 16 56.3 0 0 - 3 4 75.0 5 2 7 5 2 0 7 3 3
+p36
+aVChauncey Billups DET 04/11/2003 DET @ NOH L 33 16 6 13 46.2 1 4 25.0 3 4 75.0 0 6 6 4 3 1 2 3 -11
+p37
+aVJon Barry DET 04/11/2003 DET @ NOH L 13 5 1 3 33.3 1 2 50.0 2 2 100.0 1 2 3 1 0 1 1 0 7
+p38
+aVClifford Robinson DET 04/11/2003 DET @ NOH L 37 11 5 13 38.5 1 2 50.0 0 0 - 0 2 2 1 0 1 2 5 -6
+p39
+aVZeljko Rebraca DET 04/11/2003 DET @ NOH L 20 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 1
+p40
+aVRichard Hamilton DET 04/09/2003 DET vs. CHI W 43 17 5 11 45.5 0 1 0.0 7 9 77.8 1 5 6 9 2 0 2 1 18
+p41
+aVClifford Robinson DET 04/09/2003 DET vs. CHI W 42 24 6 10 60.0 2 3 66.7 10 12 83.3 1 4 5 1 2 1 4 4 23
+p42
+aVCorliss Williamson DET 04/09/2003 DET vs. CHI W 21 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 2 1 0 1 2 -12
+p43
+aVChucky Atkins DET 04/09/2003 DET vs. CHI W 11 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 1 0 0 1 0 -11
+p44
+aVMichael Curry DET 04/09/2003 DET vs. CHI W 31 4 1 4 25.0 0 1 0.0 2 2 100.0 2 4 6 2 1 0 0 4 14
+p45
+aVMehmet Okur DET 04/09/2003 DET vs. CHI W 45 19 6 13 46.2 2 6 33.3 5 6 83.3 2 4 6 1 1 2 2 3 10
+p46
+aVJon Barry DET 04/09/2003 DET vs. CHI W 12 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 0 1 0 1 0 -7
+p47
+aVChauncey Billups DET 04/09/2003 DET vs. CHI W 42 29 8 18 44.4 3 9 33.3 10 11 90.9 1 4 5 6 2 0 1 1 20
+p48
+aVZeljko Rebraca DET 04/09/2003 DET vs. CHI W 19 10 3 4 75.0 0 0 - 4 5 80.0 1 7 8 0 0 0 1 4 -10
+p49
+aVZeljko Rebraca DET 04/08/2003 DET @ PHI L 17 8 2 5 40.0 0 0 - 4 4 100.0 1 1 2 0 0 1 0 1 -7
+p50
+aVTayshaun Prince DET 04/08/2003 DET @ PHI L 26 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 3 1 0 4 1 -2
+p51
+aVChauncey Billups DET 04/08/2003 DET @ PHI L 33 12 3 5 60.0 1 3 33.3 5 5 100.0 0 3 3 10 1 0 2 2 -16
+p52
+aVRichard Hamilton DET 04/08/2003 DET @ PHI L 34 14 6 17 35.3 0 0 - 2 2 100.0 1 2 3 1 1 0 2 4 -15
+p53
+aVMehmet Okur DET 04/08/2003 DET @ PHI L 37 8 2 7 28.6 0 1 0.0 4 6 66.7 4 5 9 1 0 2 2 2 -14
+p54
+aVCorliss Williamson DET 04/08/2003 DET @ PHI L 22 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -7
+p55
+aVClifford Robinson DET 04/08/2003 DET @ PHI L 28 16 6 10 60.0 0 1 0.0 4 4 100.0 1 2 3 2 2 1 3 3 -12
+p56
+aVMichael Curry DET 04/08/2003 DET @ PHI L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p57
+aVHubert Davis DET 04/08/2003 DET @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p58
+aVJon Barry DET 04/08/2003 DET @ PHI L 23 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 1 3 0 3 1 -6
+p59
+aVRichard Hamilton DET 04/06/2003 DET vs. SAS L 39 13 3 17 17.6 0 2 0.0 7 8 87.5 2 6 8 5 0 1 3 3 -13
+p60
+aVTayshaun Prince DET 04/06/2003 DET vs. SAS L 24 10 5 8 62.5 0 2 0.0 0 0 - 0 0 0 3 1 0 2 2 -7
+p61
+aVJon Barry DET 04/06/2003 DET vs. SAS L 21 15 5 10 50.0 5 6 83.3 0 0 - 1 3 4 1 1 0 1 3 6
+p62
+aVMichael Curry DET 04/06/2003 DET vs. SAS L 21 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -13
+p63
+aVCorliss Williamson DET 04/06/2003 DET vs. SAS L 29 15 6 13 46.2 0 0 - 3 3 100.0 2 0 2 0 0 1 0 1 1
+p64
+aVDanny Manning DET 04/06/2003 DET vs. SAS L 5 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 0 0 0 0 0 7
+p65
+aVMehmet Okur DET 04/06/2003 DET vs. SAS L 35 12 4 9 44.4 0 2 0.0 4 4 100.0 3 5 8 4 0 3 0 4 2
+p66
+aVHubert Davis DET 04/06/2003 DET vs. SAS L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p67
+aVClifford Robinson DET 04/06/2003 DET vs. SAS L 36 1 0 6 0.0 0 2 0.0 1 2 50.0 3 1 4 4 0 3 3 2 -14
+p68
+aVBen Wallace DET 04/06/2003 DET vs. SAS L 18 4 1 3 33.3 0 0 - 2 2 100.0 1 9 10 1 1 2 0 0 -1
+p69
+aVRichard Hamilton DET 04/04/2003 DET vs. IND L 28 22 8 13 61.5 0 0 - 6 7 85.7 2 5 7 0 0 0 2 5 -7
+p70
+aVHubert Davis DET 04/04/2003 DET vs. IND L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 1
+p71
+aVMehmet Okur DET 04/04/2003 DET vs. IND L 11 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 4 -8
+p72
+aVMichael Curry DET 04/04/2003 DET vs. IND L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -10
+p73
+aVBen Wallace DET 04/04/2003 DET vs. IND L 44 4 2 8 25.0 0 0 - 0 0 - 4 11 15 1 1 4 2 2 -6
+p74
+aVCorliss Williamson DET 04/04/2003 DET vs. IND L 31 16 6 12 50.0 0 0 - 4 5 80.0 2 0 2 0 0 2 1 4 4
+p75
+aVJon Barry DET 04/04/2003 DET vs. IND L 26 11 3 4 75.0 1 2 50.0 4 4 100.0 1 3 4 4 2 0 2 1 10
+p76
+aVClifford Robinson DET 04/04/2003 DET vs. IND L 36 8 2 9 22.2 0 1 0.0 4 5 80.0 0 4 4 8 0 0 3 4 -7
+p77
+aVChauncey Billups DET 04/04/2003 DET vs. IND L 40 27 8 16 50.0 4 10 40.0 7 8 87.5 0 5 5 2 2 0 2 3 -7
+p78
+aVRichard Hamilton DET 04/02/2003 DET vs. TOR L 31 16 5 15 33.3 0 0 - 6 6 100.0 0 1 1 2 0 0 0 2 -7
+p79
+aVCorliss Williamson DET 04/02/2003 DET vs. TOR L 22 4 2 9 22.2 0 0 - 0 0 - 2 1 3 0 1 0 2 3 -4
+p80
+aVChauncey Billups DET 04/02/2003 DET vs. TOR L 35 16 7 16 43.8 2 7 28.6 0 0 - 0 4 4 6 1 0 2 3 -12
+p81
+aVDanny Manning DET 04/02/2003 DET vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 1 0 6
+p82
+aVMichael Curry DET 04/02/2003 DET vs. TOR L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -6
+p83
+aVTayshaun Prince DET 04/02/2003 DET vs. TOR L 24 4 1 3 33.3 0 2 0.0 2 2 100.0 0 0 0 1 1 0 0 0 -6
+p84
+aVHubert Davis DET 04/02/2003 DET vs. TOR L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 1
+p85
+aVJon Barry DET 04/02/2003 DET vs. TOR L 19 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 1 2 0 1 1 0
+p86
+aVClifford Robinson DET 04/02/2003 DET vs. TOR L 34 13 6 13 46.2 1 2 50.0 0 0 - 1 1 2 3 3 1 3 3 -15
+p87
+aVBen Wallace DET 04/02/2003 DET vs. TOR L 42 13 6 10 60.0 0 0 - 1 4 25.0 3 14 17 1 1 5 0 1 -12
+p88
+aVMichael Curry DET 04/01/2003 DET @ TOR W 20 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 8
+p89
+aVRichard Hamilton DET 04/01/2003 DET @ TOR W 36 20 5 11 45.5 0 1 0.0 10 13 76.9 2 2 4 0 0 0 2 3 12
+p90
+aVCorliss Williamson DET 04/01/2003 DET @ TOR W 28 19 9 15 60.0 0 0 - 1 3 33.3 4 3 7 1 0 0 2 3 -1
+p91
+aVHubert Davis DET 04/01/2003 DET @ TOR W 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p92
+aVMehmet Okur DET 04/01/2003 DET @ TOR W 11 8 4 6 66.7 0 1 0.0 0 0 - 0 4 4 1 0 0 1 1 -3
+p93
+aVClifford Robinson DET 04/01/2003 DET @ TOR W 29 16 6 12 50.0 2 3 66.7 2 2 100.0 0 2 2 4 2 0 3 2 10
+p94
+aVDanny Manning DET 04/01/2003 DET @ TOR W 10 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 -3
+p95
+aVChauncey Billups DET 04/01/2003 DET @ TOR W 37 17 3 10 30.0 0 2 0.0 11 11 100.0 2 6 8 4 2 0 4 1 12
+p96
+aVJon Barry DET 04/01/2003 DET @ TOR W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 2 0 1 2 1
+p97
+aVBen Wallace DET 04/01/2003 DET @ TOR W 42 6 1 6 16.7 0 0 - 4 4 100.0 2 18 20 4 1 3 0 2 4
+p98
+aVClifford Robinson DET 03/30/2003 DET vs. SAC W 35 21 9 14 64.3 1 3 33.3 2 2 100.0 1 2 3 2 3 1 1 2 14
+p99
+aVMehmet Okur DET 03/30/2003 DET vs. SAC W 17 5 2 8 25.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 0 1 4
+p100
+aVHubert Davis DET 03/30/2003 DET vs. SAC W 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -8
+p101
+aVCorliss Williamson DET 03/30/2003 DET vs. SAC W 25 19 5 10 50.0 0 0 - 9 10 90.0 0 3 3 2 0 0 1 3 10
+p102
+aVRichard Hamilton DET 03/30/2003 DET vs. SAC W 31 12 4 13 30.8 0 2 0.0 4 4 100.0 1 6 7 3 1 0 3 1 7
+p103
+aVBen Wallace DET 03/30/2003 DET vs. SAC W 43 12 6 12 50.0 0 1 0.0 0 0 - 5 11 16 2 3 5 1 3 6
+p104
+aVChauncey Billups DET 03/30/2003 DET vs. SAC W 33 18 6 12 50.0 3 4 75.0 3 3 100.0 1 3 4 6 1 1 3 3 20
+p105
+aVMichael Curry DET 03/30/2003 DET vs. SAC W 19 4 2 4 50.0 0 0 - 0 0 - 2 2 4 3 0 0 1 2 -6
+p106
+aVJon Barry DET 03/30/2003 DET vs. SAC W 20 8 4 7 57.1 0 3 0.0 0 0 - 0 2 2 4 1 0 1 1 13
+p107
+aVCorliss Williamson DET 03/28/2003 DET vs. PHX L 21 8 3 6 50.0 0 0 - 2 4 50.0 2 0 2 0 0 0 0 1 -8
+p108
+aVBen Wallace DET 03/28/2003 DET vs. PHX L 42 13 5 9 55.6 0 0 - 3 6 50.0 2 14 16 1 4 5 2 2 -1
+p109
+aVClifford Robinson DET 03/28/2003 DET vs. PHX L 31 11 5 15 33.3 1 3 33.3 0 0 - 3 1 4 4 2 0 2 5 0
+p110
+aVRichard Hamilton DET 03/28/2003 DET vs. PHX L 37 20 7 14 50.0 0 2 0.0 6 7 85.7 2 4 6 3 0 0 4 3 -2
+p111
+aVJon Barry DET 03/28/2003 DET vs. PHX L 18 7 3 6 50.0 1 4 25.0 0 0 - 0 1 1 3 2 1 1 0 -7
+p112
+aVMichael Curry DET 03/28/2003 DET vs. PHX L 21 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 10
+p113
+aVMehmet Okur DET 03/28/2003 DET vs. PHX L 25 9 4 10 40.0 1 4 25.0 0 0 - 2 2 4 1 0 0 3 2 -6
+p114
+aVChauncey Billups DET 03/28/2003 DET vs. PHX L 45 23 7 18 38.9 5 13 38.5 4 6 66.7 1 1 2 6 0 0 0 1 -1
+p115
+aVRichard Hamilton DET 03/26/2003 DET vs. ATL W 40 27 10 19 52.6 0 0 - 7 8 87.5 1 3 4 4 2 0 3 4 -1
+p116
+aVJon Barry DET 03/26/2003 DET vs. ATL W 23 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 2 1 0 1 1 6
+p117
+aVClifford Robinson DET 03/26/2003 DET vs. ATL W 42 13 5 14 35.7 1 5 20.0 2 4 50.0 0 6 6 4 0 0 0 5 8
+p118
+aVMichael Curry DET 03/26/2003 DET vs. ATL W 21 2 1 4 25.0 0 0 - 0 0 - 2 3 5 3 1 0 0 0 -2
+p119
+aVBen Wallace DET 03/26/2003 DET vs. ATL W 47 9 4 10 40.0 0 0 - 1 2 50.0 7 16 23 2 0 2 1 2 -9
+p120
+aVChauncey Billups DET 03/26/2003 DET vs. ATL W 49 23 7 23 30.4 3 6 50.0 6 6 100.0 0 3 3 7 4 0 2 3 2
+p121
+aVMehmet Okur DET 03/26/2003 DET vs. ATL W 25 16 4 7 57.1 1 2 50.0 7 7 100.0 1 3 4 2 1 4 1 3 8
+p122
+aVCorliss Williamson DET 03/26/2003 DET vs. ATL W 17 9 4 7 57.1 0 0 - 1 3 33.3 1 2 3 0 0 0 1 2 3
+p123
+aVBen Wallace DET 03/23/2003 DET vs. CHI W 40 7 2 8 25.0 0 0 - 3 5 60.0 9 11 20 2 4 5 0 1 16
+p124
+aVDanny Manning DET 03/23/2003 DET vs. CHI W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 4
+p125
+aVHubert Davis DET 03/23/2003 DET vs. CHI W 13 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 1 0 0 3 0
+p126
+aVMehmet Okur DET 03/23/2003 DET vs. CHI W 22 13 5 8 62.5 1 2 50.0 2 4 50.0 3 2 5 2 0 1 1 3 2
+p127
+aVJon Barry DET 03/23/2003 DET vs. CHI W 17 11 4 5 80.0 3 4 75.0 0 0 - 1 3 4 5 0 0 0 0 2
+p128
+aVTayshaun Prince DET 03/23/2003 DET vs. CHI W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p129
+aVChauncey Billups DET 03/23/2003 DET vs. CHI W 35 16 5 16 31.3 2 8 25.0 4 4 100.0 1 3 4 3 1 0 1 5 23
+p130
+aVRichard Hamilton DET 03/23/2003 DET vs. CHI W 33 26 8 19 42.1 0 0 - 10 11 90.9 3 3 6 3 1 0 1 0 18
+p131
+aVCorliss Williamson DET 03/23/2003 DET vs. CHI W 25 9 4 8 50.0 0 1 0.0 1 2 50.0 2 2 4 1 0 0 5 2 13
+p132
+aVMichael Curry DET 03/23/2003 DET vs. CHI W 21 2 1 4 25.0 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 13
+p133
+aVClifford Robinson DET 03/23/2003 DET vs. CHI W 29 13 4 11 36.4 1 3 33.3 4 6 66.7 0 2 2 4 2 1 0 3 20
+p134
+aVHubert Davis DET 03/21/2003 DET @ NYK L 9 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 1 0 -9
+p135
+aVMichael Curry DET 03/21/2003 DET @ NYK L 22 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 2 1 0 0 1 -12
+p136
+aVRichard Hamilton DET 03/21/2003 DET @ NYK L 34 27 10 19 52.6 0 1 0.0 7 7 100.0 1 4 5 2 4 0 5 4 -3
+p137
+aVMehmet Okur DET 03/21/2003 DET @ NYK L 18 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 2 0 0 1 5 -6
+p138
+aVBen Wallace DET 03/21/2003 DET @ NYK L 41 9 4 9 44.4 0 0 - 1 3 33.3 7 11 18 2 2 3 1 2 -4
+p139
+aVClifford Robinson DET 03/21/2003 DET @ NYK L 37 10 4 12 33.3 0 1 0.0 2 2 100.0 1 3 4 5 1 0 5 4 -1
+p140
+aVCorliss Williamson DET 03/21/2003 DET @ NYK L 26 14 4 6 66.7 0 0 - 6 7 85.7 3 2 5 0 0 0 0 3 9
+p141
+aVJon Barry DET 03/21/2003 DET @ NYK L 15 5 2 4 50.0 0 2 0.0 1 1 100.0 1 1 2 3 0 0 0 0 1
+p142
+aVChauncey Billups DET 03/21/2003 DET @ NYK L 39 10 2 12 16.7 1 7 14.3 5 6 83.3 0 5 5 3 1 0 5 0 5
+p143
+aVClifford Robinson DET 03/20/2003 DET vs. PHI W 30 10 4 10 40.0 1 4 25.0 1 2 50.0 0 4 4 1 0 1 4 2 28
+p144
+aVBen Wallace DET 03/20/2003 DET vs. PHI W 35 8 3 6 50.0 0 0 - 2 4 50.0 5 17 22 2 2 9 1 2 22
+p145
+aVDanny Manning DET 03/20/2003 DET vs. PHI W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 2 -3
+p146
+aVChucky Atkins DET 03/20/2003 DET vs. PHI W 9 10 4 5 80.0 2 3 66.7 0 0 - 0 0 0 0 1 0 0 0 14
+p147
+aVMichael Curry DET 03/20/2003 DET vs. PHI W 21 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 3 0 0 0 3 19
+p148
+aVRichard Hamilton DET 03/20/2003 DET vs. PHI W 24 15 6 16 37.5 0 0 - 3 3 100.0 4 1 5 1 1 0 1 1 19
+p149
+aVTayshaun Prince DET 03/20/2003 DET vs. PHI W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -4
+p150
+aVJon Barry DET 03/20/2003 DET vs. PHI W 24 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 5 4 0 0 3 9
+p151
+aVHubert Davis DET 03/20/2003 DET vs. PHI W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p152
+aVMehmet Okur DET 03/20/2003 DET vs. PHI W 23 18 7 9 77.8 2 3 66.7 2 2 100.0 2 4 6 2 0 1 1 1 9
+p153
+aVCorliss Williamson DET 03/20/2003 DET vs. PHI W 20 14 6 11 54.5 0 0 - 2 2 100.0 0 2 2 1 2 1 1 2 13
+p154
+aVChauncey Billups DET 03/20/2003 DET vs. PHI W 30 29 9 13 69.2 6 8 75.0 5 5 100.0 0 5 5 4 0 0 2 0 17
+p155
+aVClifford Robinson DET 03/18/2003 DET @ WAS W 37 6 2 10 20.0 0 2 0.0 2 5 40.0 0 3 3 5 1 0 2 1 -2
+p156
+aVJon Barry DET 03/18/2003 DET @ WAS W 27 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 5 1 1 1 2 19
+p157
+aVCorliss Williamson DET 03/18/2003 DET @ WAS W 24 16 6 15 40.0 0 0 - 4 4 100.0 0 4 4 2 0 0 1 4 9
+p158
+aVBen Wallace DET 03/18/2003 DET @ WAS W 50 6 3 8 37.5 0 0 - 0 1 0.0 6 14 20 2 2 7 0 2 -4
+p159
+aVMehmet Okur DET 03/18/2003 DET @ WAS W 23 12 5 9 55.6 2 3 66.7 0 0 - 1 3 4 0 0 1 0 0 15
+p160
+aVMichael Curry DET 03/18/2003 DET @ WAS W 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 -16
+p161
+aVChucky Atkins DET 03/18/2003 DET @ WAS W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 1 1 9
+p162
+aVChauncey Billups DET 03/18/2003 DET @ WAS W 40 26 9 17 52.9 3 7 42.9 5 6 83.3 2 3 5 6 1 0 3 2 -5
+p163
+aVRichard Hamilton DET 03/18/2003 DET @ WAS W 32 16 7 17 41.2 1 3 33.3 1 1 100.0 1 2 3 2 0 0 1 5 -5
+p164
+aVTayshaun Prince DET 03/15/2003 DET vs. BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p165
+aVHubert Davis DET 03/15/2003 DET vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p166
+aVBen Wallace DET 03/15/2003 DET vs. BOS L 40 7 3 8 37.5 0 0 - 1 2 50.0 6 15 21 2 1 0 0 4 -8
+p167
+aVRichard Hamilton DET 03/15/2003 DET vs. BOS L 25 8 3 15 20.0 1 4 25.0 1 2 50.0 1 3 4 4 0 0 4 3 -11
+p168
+aVMichael Curry DET 03/15/2003 DET vs. BOS L 19 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -6
+p169
+aVJon Barry DET 03/15/2003 DET vs. BOS L 25 11 4 7 57.1 1 2 50.0 2 2 100.0 0 3 3 1 1 0 0 2 -1
+p170
+aVCorliss Williamson DET 03/15/2003 DET vs. BOS L 27 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 1 1 0 3 5 -2
+p171
+aVClifford Robinson DET 03/15/2003 DET vs. BOS L 36 6 2 10 20.0 0 3 0.0 2 2 100.0 0 3 3 2 0 0 1 5 -16
+p172
+aVMehmet Okur DET 03/15/2003 DET vs. BOS L 20 10 4 9 44.4 1 3 33.3 1 2 50.0 1 1 2 2 0 0 1 1 4
+p173
+aVChauncey Billups DET 03/15/2003 DET vs. BOS L 42 19 6 17 35.3 2 7 28.6 5 8 62.5 1 3 4 6 1 0 4 1 -8
+p174
+aVJon Barry DET 03/14/2003 DET vs. WAS W 12 1 0 2 0.0 0 1 0.0 1 1 100.0 0 4 4 1 0 1 0 1 1
+p175
+aVJuan Sanchez DET 03/14/2003 DET vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p176
+aVMichael Curry DET 03/14/2003 DET vs. WAS W 22 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 10
+p177
+aVRichard Hamilton DET 03/14/2003 DET vs. WAS W 36 19 7 18 38.9 2 4 50.0 3 6 50.0 1 2 3 4 0 0 4 3 9
+p178
+aVCorliss Williamson DET 03/14/2003 DET vs. WAS W 26 11 3 14 21.4 0 0 - 5 6 83.3 7 2 9 2 0 1 3 5 0
+p179
+aVChauncey Billups DET 03/14/2003 DET vs. WAS W 45 25 8 14 57.1 4 6 66.7 5 6 83.3 1 5 6 1 2 1 3 2 11
+p180
+aVMehmet Okur DET 03/14/2003 DET vs. WAS W 12 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 0 -3
+p181
+aVClifford Robinson DET 03/14/2003 DET vs. WAS W 41 9 4 9 44.4 1 4 25.0 0 0 - 1 3 4 9 4 2 3 4 14
+p182
+aVBen Wallace DET 03/14/2003 DET vs. WAS W 42 17 6 11 54.5 1 2 50.0 4 10 40.0 3 21 24 3 1 3 0 3 9
+p183
+aVMehmet Okur DET 03/12/2003 DET vs. LAL W 25 22 8 10 80.0 2 3 66.7 4 4 100.0 3 2 5 0 1 0 1 3 29
+p184
+aVJon Barry DET 03/12/2003 DET vs. LAL W 18 9 4 7 57.1 1 4 25.0 0 0 - 0 0 0 1 2 0 1 0 19
+p185
+aVCorliss Williamson DET 03/12/2003 DET vs. LAL W 28 17 4 6 66.7 0 0 - 9 13 69.2 0 1 1 2 2 1 2 4 24
+p186
+aVClifford Robinson DET 03/12/2003 DET vs. LAL W 28 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 4 0 0 3 3 -2
+p187
+aVMichael Curry DET 03/12/2003 DET vs. LAL W 18 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 -4
+p188
+aVChauncey Billups DET 03/12/2003 DET vs. LAL W 43 33 12 20 60.0 4 7 57.1 5 8 62.5 1 2 3 6 2 0 0 1 16
+p189
+aVTayshaun Prince DET 03/12/2003 DET vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p190
+aVJuan Sanchez DET 03/12/2003 DET vs. LAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 0 7
+p191
+aVBen Wallace DET 03/12/2003 DET vs. LAL W 40 10 4 6 66.7 0 0 - 2 3 66.7 3 18 21 1 1 3 2 2 14
+p192
+aVHubert Davis DET 03/12/2003 DET vs. LAL W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p193
+aVRichard Hamilton DET 03/12/2003 DET vs. LAL W 29 14 5 14 35.7 0 1 0.0 4 4 100.0 1 2 3 0 0 0 1 4 1
+p194
+aVDanny Manning DET 03/12/2003 DET vs. LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 3
+p195
+aVMehmet Okur DET 03/09/2003 DET vs. GSW W 13 6 2 2 100.0 1 1 100.0 1 2 50.0 1 0 1 1 0 0 1 1 -9
+p196
+aVChauncey Billups DET 03/09/2003 DET vs. GSW W 44 31 11 15 73.3 1 4 25.0 8 9 88.9 0 2 2 8 1 0 1 4 1
+p197
+aVJon Barry DET 03/09/2003 DET vs. GSW W 22 6 2 5 40.0 1 4 25.0 1 1 100.0 0 0 0 4 0 1 1 2 -4
+p198
+aVHubert Davis DET 03/09/2003 DET vs. GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p199
+aVCorliss Williamson DET 03/09/2003 DET vs. GSW W 28 22 9 15 60.0 0 0 - 4 5 80.0 1 1 2 1 0 0 2 4 8
+p200
+aVJuan Sanchez DET 03/09/2003 DET vs. GSW W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 1
+p201
+aVClifford Robinson DET 03/09/2003 DET vs. GSW W 32 15 5 10 50.0 0 1 0.0 5 8 62.5 0 5 5 2 3 0 0 1 6
+p202
+aVRichard Hamilton DET 03/09/2003 DET vs. GSW W 35 13 5 18 27.8 0 1 0.0 3 4 75.0 1 4 5 3 1 0 3 4 9
+p203
+aVBen Wallace DET 03/09/2003 DET vs. GSW W 45 10 4 12 33.3 0 0 - 2 5 40.0 7 12 19 2 4 5 0 4 2
+p204
+aVMichael Curry DET 03/09/2003 DET vs. GSW W 17 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -4
+p205
+aVMehmet Okur DET 03/04/2003 DET vs. HOU W 20 10 3 6 50.0 2 3 66.7 2 3 66.7 0 4 4 1 0 2 2 2 9
+p206
+aVChauncey Billups DET 03/04/2003 DET vs. HOU W 41 21 8 18 44.4 2 8 25.0 3 3 100.0 1 4 5 1 1 0 2 0 4
+p207
+aVClifford Robinson DET 03/04/2003 DET vs. HOU W 35 5 2 7 28.6 1 3 33.3 0 0 - 1 2 3 5 0 1 1 4 6
+p208
+aVHubert Davis DET 03/04/2003 DET vs. HOU W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 9
+p209
+aVMichael Curry DET 03/04/2003 DET vs. HOU W 20 10 4 5 80.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 2 2 0
+p210
+aVCorliss Williamson DET 03/04/2003 DET vs. HOU W 24 8 3 12 25.0 0 0 - 2 2 100.0 2 0 2 2 0 1 0 1 10
+p211
+aVRichard Hamilton DET 03/04/2003 DET vs. HOU W 30 26 8 11 72.7 1 1 100.0 9 9 100.0 0 3 3 3 0 0 3 5 8
+p212
+aVBen Wallace DET 03/04/2003 DET vs. HOU W 41 3 1 5 20.0 0 0 - 1 2 50.0 3 10 13 1 1 2 1 4 12
+p213
+aVJon Barry DET 03/04/2003 DET vs. HOU W 23 13 4 5 80.0 2 3 66.7 3 3 100.0 3 4 7 1 0 0 0 3 7
+p214
+aVHubert Davis DET 03/02/2003 DET @ POR L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 0 4
+p215
+aVTayshaun Prince DET 03/02/2003 DET @ POR L 16 11 5 6 83.3 1 1 100.0 0 0 - 0 2 2 1 0 0 1 1 0
+p216
+aVMehmet Okur DET 03/02/2003 DET @ POR L 25 4 2 9 22.2 0 2 0.0 0 0 - 3 3 6 0 0 0 2 4 -3
+p217
+aVJon Barry DET 03/02/2003 DET @ POR L 14 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 4 0 1 1 1 1
+p218
+aVMichael Curry DET 03/02/2003 DET @ POR L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p219
+aVBen Wallace DET 03/02/2003 DET @ POR L 35 3 1 5 20.0 0 0 - 1 2 50.0 5 7 12 3 0 2 1 3 -27
+p220
+aVCorliss Williamson DET 03/02/2003 DET @ POR L 23 13 5 8 62.5 0 1 0.0 3 4 75.0 1 2 3 2 0 0 1 4 -8
+p221
+aVDanny Manning DET 03/02/2003 DET @ POR L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 2 0 1 1 10
+p222
+aVRichard Hamilton DET 03/02/2003 DET @ POR L 26 12 4 13 30.8 2 3 66.7 2 2 100.0 1 0 1 1 1 0 1 4 -11
+p223
+aVChauncey Billups DET 03/02/2003 DET @ POR L 32 21 6 12 50.0 3 7 42.9 6 7 85.7 0 2 2 2 0 0 4 3 -25
+p224
+aVClifford Robinson DET 03/02/2003 DET @ POR L 30 7 3 10 30.0 1 3 33.3 0 0 - 1 2 3 5 0 1 0 0 -18
+p225
+aVCorliss Williamson DET 03/01/2003 DET @ GSW L 24 4 1 11 9.1 0 0 - 2 2 100.0 2 4 6 2 0 0 2 4 9
+p226
+aVBen Wallace DET 03/01/2003 DET @ GSW L 42 6 3 5 60.0 0 0 - 0 0 - 8 10 18 2 1 4 2 1 -7
+p227
+aVMichael Curry DET 03/01/2003 DET @ GSW L 20 2 1 5 20.0 0 0 - 0 0 - 0 1 1 4 1 0 0 3 -13
+p228
+aVMehmet Okur DET 03/01/2003 DET @ GSW L 20 5 2 5 40.0 0 1 0.0 1 2 50.0 1 5 6 0 0 1 1 3 3
+p229
+aVChauncey Billups DET 03/01/2003 DET @ GSW L 37 33 8 17 47.1 3 6 50.0 14 14 100.0 0 4 4 5 1 0 2 5 -4
+p230
+aVClifford Robinson DET 03/01/2003 DET @ GSW L 34 9 4 13 30.8 1 2 50.0 0 0 - 3 7 10 3 0 1 0 2 0
+p231
+aVRichard Hamilton DET 03/01/2003 DET @ GSW L 42 31 12 25 48.0 0 5 0.0 7 8 87.5 2 0 2 1 0 1 2 3 -6
+p232
+aVTayshaun Prince DET 03/01/2003 DET @ GSW L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 6
+p233
+aVHubert Davis DET 03/01/2003 DET @ GSW L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p234
+aVChauncey Billups DET 02/27/2003 DET @ LAL L 32 13 4 13 30.8 3 7 42.9 2 2 100.0 0 2 2 3 1 0 1 2 -7
+p235
+aVMichael Curry DET 02/27/2003 DET @ LAL L 19 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 3 -7
+p236
+aVTayshaun Prince DET 02/27/2003 DET @ LAL L 15 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 1
+p237
+aVClifford Robinson DET 02/27/2003 DET @ LAL L 37 15 4 13 30.8 2 5 40.0 5 6 83.3 1 1 2 3 0 1 2 3 -17
+p238
+aVRichard Hamilton DET 02/27/2003 DET @ LAL L 34 18 6 16 37.5 0 1 0.0 6 6 100.0 3 4 7 2 0 0 4 3 -7
+p239
+aVCorliss Williamson DET 02/27/2003 DET @ LAL L 27 19 8 11 72.7 0 0 - 3 4 75.0 0 2 2 1 2 0 1 2 -7
+p240
+aVChucky Atkins DET 02/27/2003 DET @ LAL L 16 1 0 4 0.0 0 0 - 1 1 100.0 0 2 2 1 0 0 1 1 -3
+p241
+aVMehmet Okur DET 02/27/2003 DET @ LAL L 22 4 2 6 33.3 0 3 0.0 0 0 - 3 3 6 2 2 0 1 1 -1
+p242
+aVBen Wallace DET 02/27/2003 DET @ LAL L 38 10 5 6 83.3 0 1 0.0 0 0 - 2 6 8 1 1 1 1 2 -2
+p243
+aVCorliss Williamson DET 02/25/2003 DET @ SAC L 24 13 5 11 45.5 0 0 - 3 4 75.0 2 2 4 0 1 0 3 1 -8
+p244
+aVTayshaun Prince DET 02/25/2003 DET @ SAC L 8 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p245
+aVChucky Atkins DET 02/25/2003 DET @ SAC L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 1 -8
+p246
+aVMehmet Okur DET 02/25/2003 DET @ SAC L 17 9 4 7 57.1 1 2 50.0 0 1 0.0 1 2 3 0 1 0 2 1 -9
+p247
+aVBen Wallace DET 02/25/2003 DET @ SAC L 41 6 2 4 50.0 0 0 - 2 4 50.0 3 16 19 0 3 3 1 2 6
+p248
+aVRichard Hamilton DET 02/25/2003 DET @ SAC L 40 18 7 17 41.2 1 2 50.0 3 3 100.0 1 3 4 2 2 1 2 3 2
+p249
+aVClifford Robinson DET 02/25/2003 DET @ SAC L 38 12 5 16 31.3 1 6 16.7 1 2 50.0 3 3 6 5 1 2 2 4 -9
+p250
+aVMichael Curry DET 02/25/2003 DET @ SAC L 18 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 3 -2
+p251
+aVChauncey Billups DET 02/25/2003 DET @ SAC L 31 12 5 14 35.7 2 7 28.6 0 0 - 1 2 3 3 0 0 1 2 2
+p252
+aVJon Barry DET 02/25/2003 DET @ SAC L 6 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 1 -4
+p253
+aVMehmet Okur DET 02/24/2003 DET @ SEA L 18 0 0 1 0.0 0 0 - 0 0 - 1 4 5 4 0 1 0 1 -3
+p254
+aVClifford Robinson DET 02/24/2003 DET @ SEA L 41 19 7 13 53.8 1 3 33.3 4 4 100.0 0 3 3 4 1 1 1 3 -1
+p255
+aVMichael Curry DET 02/24/2003 DET @ SEA L 20 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -5
+p256
+aVJon Barry DET 02/24/2003 DET @ SEA L 16 5 2 9 22.2 1 6 16.7 0 0 - 0 0 0 0 2 0 3 1 -6
+p257
+aVChauncey Billups DET 02/24/2003 DET @ SEA L 29 16 6 13 46.2 2 3 66.7 2 2 100.0 1 2 3 1 0 0 1 2 -10
+p258
+aVBen Wallace DET 02/24/2003 DET @ SEA L 37 2 1 3 33.3 0 0 - 0 1 0.0 5 12 17 2 0 1 3 3 -10
+p259
+aVCorliss Williamson DET 02/24/2003 DET @ SEA L 24 5 1 9 11.1 0 0 - 3 4 75.0 0 2 2 0 0 1 1 3 -3
+p260
+aVRichard Hamilton DET 02/24/2003 DET @ SEA L 33 22 7 11 63.6 1 1 100.0 7 8 87.5 0 5 5 2 0 0 5 6 2
+p261
+aVChucky Atkins DET 02/24/2003 DET @ SEA L 23 10 4 8 50.0 2 5 40.0 0 0 - 1 1 2 1 0 0 1 1 1
+p262
+aVMichael Curry DET 02/22/2003 DET vs. NOH L 21 7 3 4 75.0 1 1 100.0 0 0 - 1 3 4 1 0 0 1 3 -6
+p263
+aVCorliss Williamson DET 02/22/2003 DET vs. NOH L 27 18 9 15 60.0 0 0 - 0 1 0.0 0 3 3 1 0 1 1 3 -1
+p264
+aVRichard Hamilton DET 02/22/2003 DET vs. NOH L 37 23 10 17 58.8 0 1 0.0 3 4 75.0 0 3 3 0 0 0 2 3 8
+p265
+aVJon Barry DET 02/22/2003 DET vs. NOH L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p266
+aVChucky Atkins DET 02/22/2003 DET vs. NOH L 17 8 2 4 50.0 0 1 0.0 4 4 100.0 0 0 0 4 0 0 0 0 1
+p267
+aVChauncey Billups DET 02/22/2003 DET vs. NOH L 31 22 5 14 35.7 1 3 33.3 11 12 91.7 1 4 5 4 1 1 1 3 -3
+p268
+aVClifford Robinson DET 02/22/2003 DET vs. NOH L 36 2 1 8 12.5 0 2 0.0 0 0 - 0 3 3 4 0 1 1 3 -10
+p269
+aVMehmet Okur DET 02/22/2003 DET vs. NOH L 18 7 2 2 100.0 1 1 100.0 2 2 100.0 0 2 2 1 1 0 2 1 3
+p270
+aVBen Wallace DET 02/22/2003 DET vs. NOH L 42 2 1 4 25.0 0 0 - 0 0 - 5 9 14 4 2 4 0 2 3
+p271
+aVClifford Robinson DET 02/21/2003 DET @ MIN L 35 11 4 11 36.4 2 4 50.0 1 2 50.0 2 2 4 2 0 3 0 4 -15
+p272
+aVChauncey Billups DET 02/21/2003 DET @ MIN L 32 23 6 17 35.3 0 8 0.0 11 11 100.0 0 0 0 7 0 0 1 1 -2
+p273
+aVJon Barry DET 02/21/2003 DET @ MIN L 16 6 2 2 100.0 2 2 100.0 0 0 - 0 3 3 1 0 0 1 2 2
+p274
+aVMehmet Okur DET 02/21/2003 DET @ MIN L 17 1 0 4 0.0 0 3 0.0 1 2 50.0 0 2 2 3 0 0 0 3 1
+p275
+aVTayshaun Prince DET 02/21/2003 DET @ MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p276
+aVDanny Manning DET 02/21/2003 DET @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p277
+aVMichael Curry DET 02/21/2003 DET @ MIN L 14 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 2 -10
+p278
+aVHubert Davis DET 02/21/2003 DET @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p279
+aVBen Wallace DET 02/21/2003 DET @ MIN L 43 16 7 10 70.0 0 0 - 2 6 33.3 4 8 12 1 1 2 2 5 1
+p280
+aVCorliss Williamson DET 02/21/2003 DET @ MIN L 26 11 4 10 40.0 0 0 - 3 4 75.0 2 8 10 1 0 0 0 4 9
+p281
+aVChucky Atkins DET 02/21/2003 DET @ MIN L 16 3 1 3 33.3 1 1 100.0 0 0 - 3 1 4 2 0 0 1 1 -5
+p282
+aVRichard Hamilton DET 02/21/2003 DET @ MIN L 34 23 11 21 52.4 1 1 100.0 0 0 - 1 5 6 0 0 0 3 0 -5
+p283
+aVMichael Curry DET 02/19/2003 DET @ TOR W 16 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p284
+aVRichard Hamilton DET 02/19/2003 DET @ TOR W 18 4 1 9 11.1 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 0 -15
+p285
+aVCorliss Williamson DET 02/19/2003 DET @ TOR W 29 16 6 14 42.9 0 0 - 4 5 80.0 1 5 6 4 1 0 0 3 22
+p286
+aVBen Wallace DET 02/19/2003 DET @ TOR W 43 8 4 11 36.4 0 1 0.0 0 0 - 4 7 11 4 0 4 0 3 2
+p287
+aVMehmet Okur DET 02/19/2003 DET @ TOR W 16 8 3 7 42.9 1 3 33.3 1 1 100.0 2 4 6 1 1 0 1 3 14
+p288
+aVClifford Robinson DET 02/19/2003 DET @ TOR W 36 13 5 17 29.4 0 3 0.0 3 4 75.0 2 1 3 3 1 1 2 2 -8
+p289
+aVChucky Atkins DET 02/19/2003 DET @ TOR W 21 12 5 7 71.4 2 3 66.7 0 0 - 1 3 4 3 0 0 0 2 11
+p290
+aVChauncey Billups DET 02/19/2003 DET @ TOR W 27 18 5 13 38.5 1 3 33.3 7 7 100.0 0 4 4 1 2 0 0 0 -6
+p291
+aVJon Barry DET 02/19/2003 DET @ TOR W 33 10 4 10 40.0 1 3 33.3 1 1 100.0 0 3 3 2 0 0 0 2 19
+p292
+aVChucky Atkins DET 02/17/2003 DET vs. MIA W 22 3 1 5 20.0 1 5 20.0 0 0 - 0 0 0 1 0 0 2 2 4
+p293
+aVBen Wallace DET 02/17/2003 DET vs. MIA W 34 4 2 6 33.3 0 0 - 0 2 0.0 3 16 19 1 1 2 0 0 31
+p294
+aVMehmet Okur DET 02/17/2003 DET vs. MIA W 21 0 0 2 0.0 0 0 - 0 0 - 2 4 6 2 0 2 3 3 2
+p295
+aVJon Barry DET 02/17/2003 DET vs. MIA W 14 6 2 3 66.7 2 3 66.7 0 0 - 0 3 3 1 0 0 0 2 11
+p296
+aVHubert Davis DET 02/17/2003 DET vs. MIA W 6 4 1 3 33.3 1 2 50.0 1 1 100.0 0 3 3 0 0 0 0 0 -5
+p297
+aVDanny Manning DET 02/17/2003 DET vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 2 2 -5
+p298
+aVTayshaun Prince DET 02/17/2003 DET vs. MIA W 12 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 2 0 1 2 1 2
+p299
+aVCorliss Williamson DET 02/17/2003 DET vs. MIA W 20 8 3 8 37.5 0 0 - 2 2 100.0 0 5 5 1 0 0 1 3 10
+p300
+aVRichard Hamilton DET 02/17/2003 DET vs. MIA W 28 34 14 22 63.6 2 3 66.7 4 4 100.0 3 1 4 3 0 0 1 3 25
+p301
+aVClifford Robinson DET 02/17/2003 DET vs. MIA W 30 15 5 9 55.6 1 2 50.0 4 5 80.0 0 2 2 0 0 1 3 1 28
+p302
+aVMichael Curry DET 02/17/2003 DET vs. MIA W 19 11 3 4 75.0 0 0 - 5 5 100.0 0 1 1 2 0 0 0 4 25
+p303
+aVChauncey Billups DET 02/17/2003 DET vs. MIA W 26 7 1 7 14.3 0 4 0.0 5 5 100.0 2 3 5 6 0 0 1 1 27
+p304
+aVChucky Atkins DET 02/16/2003 DET @ CLE W 22 10 4 11 36.4 2 6 33.3 0 0 - 0 0 0 4 1 0 1 1 -5
+p305
+aVBen Wallace DET 02/16/2003 DET @ CLE W 37 13 5 7 71.4 0 0 - 3 3 100.0 3 13 16 3 1 5 1 2 15
+p306
+aVMehmet Okur DET 02/16/2003 DET @ CLE W 23 7 2 5 40.0 0 0 - 3 4 75.0 3 6 9 1 0 0 0 5 -4
+p307
+aVTayshaun Prince DET 02/16/2003 DET @ CLE W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p308
+aVRichard Hamilton DET 02/16/2003 DET @ CLE W 29 23 10 23 43.5 1 3 33.3 2 3 66.7 2 0 2 3 3 1 0 2 18
+p309
+aVChauncey Billups DET 02/16/2003 DET @ CLE W 26 15 5 10 50.0 3 4 75.0 2 2 100.0 0 3 3 2 0 0 1 0 20
+p310
+aVClifford Robinson DET 02/16/2003 DET @ CLE W 33 2 1 10 10.0 0 3 0.0 0 0 - 1 2 3 0 3 1 1 2 23
+p311
+aVDanny Manning DET 02/16/2003 DET @ CLE W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p312
+aVMichael Curry DET 02/16/2003 DET @ CLE W 19 0 0 1 0.0 0 0 - 0 0 - 0 4 4 3 0 0 0 1 7
+p313
+aVJon Barry DET 02/16/2003 DET @ CLE W 19 4 2 10 20.0 0 5 0.0 0 0 - 1 1 2 3 1 0 1 2 -3
+p314
+aVCorliss Williamson DET 02/16/2003 DET @ CLE W 26 14 6 11 54.5 0 1 0.0 2 3 66.7 3 6 9 3 1 0 2 2 12
+p315
+aVChauncey Billups DET 02/14/2003 DET @ MIL L 28 17 4 9 44.4 3 5 60.0 6 6 100.0 1 3 4 3 0 0 2 1 -10
+p316
+aVClifford Robinson DET 02/14/2003 DET @ MIL L 37 10 4 15 26.7 1 4 25.0 1 4 25.0 2 4 6 8 2 0 1 2 3
+p317
+aVBen Wallace DET 02/14/2003 DET @ MIL L 32 3 1 2 50.0 0 0 - 1 4 25.0 0 8 8 0 1 4 0 4 -18
+p318
+aVRichard Hamilton DET 02/14/2003 DET @ MIL L 40 28 9 14 64.3 0 0 - 10 10 100.0 0 2 2 3 0 0 4 5 -11
+p319
+aVMehmet Okur DET 02/14/2003 DET @ MIL L 26 15 7 15 46.7 0 2 0.0 1 3 33.3 4 7 11 0 0 0 0 1 -3
+p320
+aVJon Barry DET 02/14/2003 DET @ MIL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p321
+aVChucky Atkins DET 02/14/2003 DET @ MIL L 27 9 3 14 21.4 3 10 30.0 0 0 - 0 2 2 2 2 0 1 3 -4
+p322
+aVCorliss Williamson DET 02/14/2003 DET @ MIL L 20 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -1
+p323
+aVMichael Curry DET 02/14/2003 DET @ MIL L 25 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 3 -10
+p324
+aVClifford Robinson DET 02/13/2003 DET vs. ORL W 44 18 7 15 46.7 2 6 33.3 2 3 66.7 1 5 6 4 1 1 3 3 6
+p325
+aVCorliss Williamson DET 02/13/2003 DET vs. ORL W 18 8 4 5 80.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -3
+p326
+aVJon Barry DET 02/13/2003 DET vs. ORL W 10 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 0 3
+p327
+aVTayshaun Prince DET 02/13/2003 DET vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p328
+aVHubert Davis DET 02/13/2003 DET vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p329
+aVMichael Curry DET 02/13/2003 DET vs. ORL W 30 11 4 7 57.1 1 3 33.3 2 2 100.0 1 2 3 2 1 0 0 3 13
+p330
+aVChucky Atkins DET 02/13/2003 DET vs. ORL W 15 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 2 1 0 0 3 -4
+p331
+aVChauncey Billups DET 02/13/2003 DET vs. ORL W 35 12 3 11 27.3 2 7 28.6 4 4 100.0 1 3 4 4 2 0 5 3 8
+p332
+aVRichard Hamilton DET 02/13/2003 DET vs. ORL W 36 29 10 18 55.6 0 0 - 9 12 75.0 0 6 6 1 0 0 3 3 14
+p333
+aVMehmet Okur DET 02/13/2003 DET vs. ORL W 11 3 1 4 25.0 0 0 - 1 1 100.0 3 0 3 1 0 0 1 1 -5
+p334
+aVBen Wallace DET 02/13/2003 DET vs. ORL W 41 7 3 6 50.0 0 0 - 1 4 25.0 5 13 18 1 0 4 1 1 17
+p335
+aVTayshaun Prince DET 02/11/2003 DET @ CHI W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p336
+aVRichard Hamilton DET 02/11/2003 DET @ CHI W 30 15 4 15 26.7 1 2 50.0 6 6 100.0 5 1 6 1 1 0 4 0 10
+p337
+aVChucky Atkins DET 02/11/2003 DET @ CHI W 22 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 3 2
+p338
+aVDanny Manning DET 02/11/2003 DET @ CHI W 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -11
+p339
+aVCorliss Williamson DET 02/11/2003 DET @ CHI W 27 14 6 12 50.0 0 0 - 2 3 66.7 4 4 8 3 0 0 1 2 10
+p340
+aVChauncey Billups DET 02/11/2003 DET @ CHI W 26 20 6 14 42.9 3 5 60.0 5 5 100.0 0 1 1 4 3 0 1 0 8
+p341
+aVClifford Robinson DET 02/11/2003 DET @ CHI W 24 10 4 9 44.4 2 5 40.0 0 0 - 0 1 1 1 0 0 4 4 16
+p342
+aVHubert Davis DET 02/11/2003 DET @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p343
+aVBen Wallace DET 02/11/2003 DET @ CHI W 39 3 1 4 25.0 0 1 0.0 1 2 50.0 4 18 22 2 1 2 2 3 14
+p344
+aVJon Barry DET 02/11/2003 DET @ CHI W 15 6 2 6 33.3 2 4 50.0 0 0 - 2 1 3 4 0 1 2 1 6
+p345
+aVMehmet Okur DET 02/11/2003 DET @ CHI W 26 17 6 12 50.0 2 5 40.0 3 5 60.0 5 0 5 0 0 0 2 5 3
+p346
+aVMichael Curry DET 02/11/2003 DET @ CHI W 19 0 0 4 0.0 0 2 0.0 0 0 - 0 5 5 1 1 0 1 2 6
+p347
+aVHubert Davis DET 02/05/2003 DET vs. LAC W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p348
+aVChucky Atkins DET 02/05/2003 DET vs. LAC W 25 8 3 10 30.0 2 6 33.3 0 0 - 1 0 1 3 0 0 2 2 4
+p349
+aVMehmet Okur DET 02/05/2003 DET vs. LAC W 38 19 7 14 50.0 1 3 33.3 4 5 80.0 3 8 11 0 0 2 1 3 17
+p350
+aVDanny Manning DET 02/05/2003 DET vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p351
+aVRichard Hamilton DET 02/05/2003 DET vs. LAC W 28 10 3 14 21.4 1 4 25.0 3 4 75.0 1 1 2 2 1 0 1 1 8
+p352
+aVCorliss Williamson DET 02/05/2003 DET vs. LAC W 25 12 6 11 54.5 0 0 - 0 0 - 3 3 6 1 0 0 1 3 -4
+p353
+aVTayshaun Prince DET 02/05/2003 DET vs. LAC W 25 10 4 4 100.0 2 2 100.0 0 0 - 1 5 6 1 0 1 2 0 6
+p354
+aVChauncey Billups DET 02/05/2003 DET vs. LAC W 23 8 3 7 42.9 2 5 40.0 0 0 - 0 3 3 3 2 0 4 2 5
+p355
+aVClifford Robinson DET 02/05/2003 DET vs. LAC W 34 17 6 17 35.3 1 5 20.0 4 5 80.0 3 4 7 6 2 2 3 3 7
+p356
+aVMichael Curry DET 02/05/2003 DET vs. LAC W 21 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p357
+aVJon Barry DET 02/05/2003 DET vs. LAC W 15 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 5 0 0 1 0 11
+p358
+aVRichard Hamilton DET 02/01/2003 DET vs. NJN W 29 24 10 14 71.4 0 1 0.0 4 5 80.0 2 4 6 3 1 0 1 5 26
+p359
+aVMichael Curry DET 02/01/2003 DET vs. NJN W 21 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 2 7
+p360
+aVChucky Atkins DET 02/01/2003 DET vs. NJN W 12 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 2
+p361
+aVBen Wallace DET 02/01/2003 DET vs. NJN W 20 2 1 2 50.0 0 0 - 0 2 0.0 2 5 7 0 1 7 0 2 15
+p362
+aVJon Barry DET 02/01/2003 DET vs. NJN W 19 8 3 7 42.9 0 3 0.0 2 2 100.0 0 3 3 3 0 0 0 1 -4
+p363
+aVTayshaun Prince DET 02/01/2003 DET vs. NJN W 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 1 4
+p364
+aVClifford Robinson DET 02/01/2003 DET vs. NJN W 40 12 5 15 33.3 2 5 40.0 0 2 0.0 0 4 4 3 0 0 2 3 19
+p365
+aVMehmet Okur DET 02/01/2003 DET vs. NJN W 25 4 2 3 66.7 0 0 - 0 0 - 1 6 7 2 0 0 1 3 8
+p366
+aVCorliss Williamson DET 02/01/2003 DET vs. NJN W 31 17 4 10 40.0 0 0 - 9 9 100.0 3 7 10 0 0 0 1 4 13
+p367
+aVChauncey Billups DET 02/01/2003 DET vs. NJN W 36 27 9 15 60.0 5 8 62.5 4 5 80.0 1 5 6 2 0 0 1 1 20
+p368
+aVTayshaun Prince DET 01/31/2003 DET @ BOS W 10 11 3 6 50.0 2 5 40.0 3 4 75.0 0 3 3 1 0 1 0 2 14
+p369
+aVMehmet Okur DET 01/31/2003 DET @ BOS W 28 11 4 6 66.7 0 1 0.0 3 5 60.0 1 5 6 3 1 0 1 3 46
+p370
+aVHubert Davis DET 01/31/2003 DET @ BOS W 9 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 8
+p371
+aVClifford Robinson DET 01/31/2003 DET @ BOS W 18 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 2 0 0 3 4 4
+p372
+aVCorliss Williamson DET 01/31/2003 DET @ BOS W 15 13 4 6 66.7 0 0 - 5 5 100.0 0 5 5 0 2 0 1 2 37
+p373
+aVChucky Atkins DET 01/31/2003 DET @ BOS W 22 3 1 7 14.3 1 5 20.0 0 0 - 0 3 3 5 0 0 1 0 32
+p374
+aVMichael Curry DET 01/31/2003 DET @ BOS W 24 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 3 0 0 0 1 7
+p375
+aVChauncey Billups DET 01/31/2003 DET @ BOS W 26 24 9 14 64.3 4 8 50.0 2 3 66.7 0 5 5 3 0 0 2 0 20
+p376
+aVJon Barry DET 01/31/2003 DET @ BOS W 17 8 3 6 50.0 2 5 40.0 0 0 - 2 4 6 4 1 0 1 0 14
+p377
+aVBen Wallace DET 01/31/2003 DET @ BOS W 34 8 3 5 60.0 0 0 - 2 3 66.7 2 9 11 0 1 2 0 1 38
+p378
+aVRichard Hamilton DET 01/31/2003 DET @ BOS W 31 29 10 17 58.8 0 2 0.0 9 11 81.8 0 2 2 2 0 0 0 2 38
+p379
+aVJuan Sanchez DET 01/31/2003 DET @ BOS W 6 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 2 0 0 0 2
+p380
+aVBen Wallace DET 01/28/2003 DET vs. BOS W 40 8 4 4 100.0 0 0 - 0 4 0.0 1 12 13 1 1 7 2 3 5
+p381
+aVChauncey Billups DET 01/28/2003 DET vs. BOS W 31 16 4 14 28.6 3 9 33.3 5 9 55.6 2 2 4 5 0 0 1 2 -1
+p382
+aVMehmet Okur DET 01/28/2003 DET vs. BOS W 18 11 3 5 60.0 3 4 75.0 2 4 50.0 0 3 3 0 2 0 1 3 -3
+p383
+aVChucky Atkins DET 01/28/2003 DET vs. BOS W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 2 0 1 2 4
+p384
+aVRichard Hamilton DET 01/28/2003 DET vs. BOS W 33 14 5 17 29.4 0 1 0.0 4 6 66.7 0 6 6 3 0 0 0 2 6
+p385
+aVMichael Curry DET 01/28/2003 DET vs. BOS W 24 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 3 0 0 0 4 1
+p386
+aVJon Barry DET 01/28/2003 DET vs. BOS W 14 2 1 5 20.0 0 2 0.0 0 1 0.0 0 0 0 4 0 0 2 1 -3
+p387
+aVCorliss Williamson DET 01/28/2003 DET vs. BOS W 25 12 4 6 66.7 0 0 - 4 4 100.0 1 4 5 1 2 2 2 3 4
+p388
+aVClifford Robinson DET 01/28/2003 DET vs. BOS W 38 11 5 12 41.7 1 2 50.0 0 0 - 1 2 3 6 0 0 1 3 2
+p389
+aVRichard Hamilton DET 01/25/2003 DET @ SAS L 28 17 7 11 63.6 0 1 0.0 3 4 75.0 0 1 1 1 1 0 5 1 -23
+p390
+aVMichael Curry DET 01/25/2003 DET @ SAS L 15 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -23
+p391
+aVChucky Atkins DET 01/25/2003 DET @ SAS L 18 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -9
+p392
+aVJuan Sanchez DET 01/25/2003 DET @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 1 0 -1
+p393
+aVTayshaun Prince DET 01/25/2003 DET @ SAS L 12 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 0 0 1 2 3 1
+p394
+aVJon Barry DET 01/25/2003 DET @ SAS L 20 12 4 9 44.4 1 5 20.0 3 3 100.0 0 2 2 2 2 0 1 0 -9
+p395
+aVClifford Robinson DET 01/25/2003 DET @ SAS L 23 8 4 9 44.4 0 2 0.0 0 4 0.0 0 2 2 2 0 0 3 3 -25
+p396
+aVBen Wallace DET 01/25/2003 DET @ SAS L 31 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 3 2 3 1 -23
+p397
+aVMehmet Okur DET 01/25/2003 DET @ SAS L 30 10 2 6 33.3 1 2 50.0 5 6 83.3 2 4 6 1 0 0 0 4 -17
+p398
+aVChauncey Billups DET 01/25/2003 DET @ SAS L 25 6 3 12 25.0 0 3 0.0 0 0 - 1 1 2 1 1 0 0 2 -22
+p399
+aVCorliss Williamson DET 01/25/2003 DET @ SAS L 25 15 7 11 63.6 0 0 - 1 1 100.0 3 1 4 1 1 0 0 1 -6
+p400
+aVHubert Davis DET 01/25/2003 DET @ SAS L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p401
+aVChauncey Billups DET 01/24/2003 DET @ HOU W 30 11 4 12 33.3 1 4 25.0 2 3 66.7 0 4 4 3 0 0 0 1 14
+p402
+aVCorliss Williamson DET 01/24/2003 DET @ HOU W 28 18 9 14 64.3 0 0 - 0 1 0.0 2 4 6 0 0 1 0 2 19
+p403
+aVChucky Atkins DET 01/24/2003 DET @ HOU W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 3 1 0 1 2 8
+p404
+aVRichard Hamilton DET 01/24/2003 DET @ HOU W 32 18 8 18 44.4 0 0 - 2 3 66.7 2 3 5 4 0 1 1 2 17
+p405
+aVBen Wallace DET 01/24/2003 DET @ HOU W 41 9 4 6 66.7 0 0 - 1 2 50.0 6 12 18 3 3 3 0 3 24
+p406
+aVJuan Sanchez DET 01/24/2003 DET @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 2
+p407
+aVClifford Robinson DET 01/24/2003 DET @ HOU W 34 20 7 14 50.0 2 4 50.0 4 7 57.1 1 0 1 3 0 0 1 3 8
+p408
+aVJon Barry DET 01/24/2003 DET @ HOU W 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 5 0 0 0 1 5
+p409
+aVMichael Curry DET 01/24/2003 DET @ HOU W 20 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 5
+p410
+aVHubert Davis DET 01/24/2003 DET @ HOU W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p411
+aVMehmet Okur DET 01/24/2003 DET @ HOU W 18 7 2 7 28.6 0 2 0.0 3 4 75.0 6 2 8 1 0 1 0 3 9
+p412
+aVTayshaun Prince DET 01/24/2003 DET @ HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 7
+p413
+aVClifford Robinson DET 01/22/2003 DET vs. PHI L 42 15 5 11 45.5 2 3 66.7 3 5 60.0 2 7 9 5 2 2 3 3 2
+p414
+aVRichard Hamilton DET 01/22/2003 DET vs. PHI L 36 18 6 14 42.9 0 1 0.0 6 6 100.0 0 3 3 2 1 0 5 4 -8
+p415
+aVCorliss Williamson DET 01/22/2003 DET vs. PHI L 28 20 8 13 61.5 0 1 0.0 4 4 100.0 3 3 6 0 0 0 4 5 -6
+p416
+aVBen Wallace DET 01/22/2003 DET vs. PHI L 43 6 3 6 50.0 0 0 - 0 0 - 4 5 9 1 1 3 1 3 -14
+p417
+aVChauncey Billups DET 01/22/2003 DET vs. PHI L 36 12 2 13 15.4 2 4 50.0 6 6 100.0 2 4 6 4 1 0 3 2 -8
+p418
+aVJon Barry DET 01/22/2003 DET vs. PHI L 13 6 2 6 33.3 2 4 50.0 0 1 0.0 1 1 2 3 1 0 1 1 -3
+p419
+aVChucky Atkins DET 01/22/2003 DET vs. PHI L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -1
+p420
+aVMehmet Okur DET 01/22/2003 DET vs. PHI L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 -4
+p421
+aVMichael Curry DET 01/22/2003 DET vs. PHI L 20 6 3 3 100.0 0 0 - 0 0 - 0 1 1 2 0 1 1 0 -3
+p422
+aVChauncey Billups DET 01/20/2003 DET vs. IND W 33 10 3 12 25.0 1 5 20.0 3 4 75.0 0 4 4 8 0 0 4 2 -3
+p423
+aVMichael Curry DET 01/20/2003 DET vs. IND W 22 8 4 5 80.0 0 1 0.0 0 0 - 0 4 4 1 2 0 0 1 1
+p424
+aVJon Barry DET 01/20/2003 DET vs. IND W 12 4 1 8 12.5 1 4 25.0 1 1 100.0 1 1 2 2 0 0 0 4 10
+p425
+aVCorliss Williamson DET 01/20/2003 DET vs. IND W 26 5 2 8 25.0 0 0 - 1 3 33.3 4 3 7 2 1 1 1 1 9
+p426
+aVRichard Hamilton DET 01/20/2003 DET vs. IND W 26 18 7 15 46.7 0 0 - 4 4 100.0 0 1 1 3 1 0 4 5 2
+p427
+aVClifford Robinson DET 01/20/2003 DET vs. IND W 40 15 5 9 55.6 3 4 75.0 2 2 100.0 1 4 5 5 0 4 3 3 4
+p428
+aVMehmet Okur DET 01/20/2003 DET vs. IND W 13 6 3 10 30.0 0 0 - 0 0 - 5 2 7 0 1 1 1 0 6
+p429
+aVBen Wallace DET 01/20/2003 DET vs. IND W 44 14 7 9 77.8 0 0 - 0 0 - 3 12 15 1 3 5 0 1 8
+p430
+aVChucky Atkins DET 01/20/2003 DET vs. IND W 15 8 3 6 50.0 2 5 40.0 0 0 - 0 0 0 2 0 0 1 0 13
+p431
+aVHubert Davis DET 01/20/2003 DET vs. IND W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 0
+p432
+aVMehmet Okur DET 01/18/2003 DET @ IND L 19 4 2 7 28.6 0 2 0.0 0 0 - 2 4 6 0 1 0 0 1 4
+p433
+aVCorliss Williamson DET 01/18/2003 DET @ IND L 29 8 4 10 40.0 0 0 - 0 0 - 5 2 7 0 0 0 0 3 -1
+p434
+aVChucky Atkins DET 01/18/2003 DET @ IND L 13 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 2 0 0 0 0 10
+p435
+aVChauncey Billups DET 01/18/2003 DET @ IND L 35 21 7 17 41.2 2 4 50.0 5 5 100.0 1 5 6 5 0 0 2 3 -12
+p436
+aVRichard Hamilton DET 01/18/2003 DET @ IND L 30 16 6 13 46.2 1 3 33.3 3 6 50.0 1 2 3 0 0 0 1 4 -6
+p437
+aVClifford Robinson DET 01/18/2003 DET @ IND L 39 12 5 18 27.8 1 5 20.0 1 2 50.0 3 6 9 4 2 3 1 5 1
+p438
+aVJon Barry DET 01/18/2003 DET @ IND L 25 12 4 8 50.0 2 3 66.7 2 2 100.0 1 2 3 5 1 0 1 1 12
+p439
+aVMichael Curry DET 01/18/2003 DET @ IND L 11 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 0 0 0 3 4 -9
+p440
+aVBen Wallace DET 01/18/2003 DET @ IND L 39 2 1 5 20.0 0 0 - 0 0 - 3 8 11 2 1 2 1 1 -9
+p441
+aVChucky Atkins DET 01/17/2003 DET vs. NYK W 20 2 1 5 20.0 0 4 0.0 0 0 - 0 3 3 3 0 0 2 1 3
+p442
+aVMehmet Okur DET 01/17/2003 DET vs. NYK W 19 7 3 9 33.3 0 0 - 1 2 50.0 3 6 9 0 0 1 0 1 -3
+p443
+aVTayshaun Prince DET 01/17/2003 DET vs. NYK W 9 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -8
+p444
+aVJon Barry DET 01/17/2003 DET vs. NYK W 13 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 1 2 0 2 3 5
+p445
+aVHubert Davis DET 01/17/2003 DET vs. NYK W 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -8
+p446
+aVCorliss Williamson DET 01/17/2003 DET vs. NYK W 24 15 4 10 40.0 0 0 - 7 9 77.8 1 1 2 2 0 1 1 5 16
+p447
+aVClifford Robinson DET 01/17/2003 DET vs. NYK W 31 22 7 13 53.8 1 2 50.0 7 7 100.0 2 3 5 2 3 2 1 2 22
+p448
+aVRichard Hamilton DET 01/17/2003 DET vs. NYK W 28 16 7 13 53.8 0 2 0.0 2 3 66.7 1 3 4 5 1 0 1 3 20
+p449
+aVJuan Sanchez DET 01/17/2003 DET vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -7
+p450
+aVChauncey Billups DET 01/17/2003 DET vs. NYK W 27 16 2 9 22.2 1 6 16.7 11 11 100.0 0 3 3 4 1 0 0 0 19
+p451
+aVBen Wallace DET 01/17/2003 DET vs. NYK W 37 2 1 3 33.3 0 0 - 0 2 0.0 2 9 11 3 1 0 1 3 21
+p452
+aVMichael Curry DET 01/17/2003 DET vs. NYK W 23 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 5
+p453
+aVClifford Robinson DET 01/14/2003 DET @ MIA L 39 18 6 17 35.3 3 7 42.9 3 4 75.0 0 3 3 3 0 1 2 2 1
+p454
+aVMichael Curry DET 01/14/2003 DET @ MIA L 16 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 3 -9
+p455
+aVCorliss Williamson DET 01/14/2003 DET @ MIA L 20 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 1 2 0 3 2 5
+p456
+aVRichard Hamilton DET 01/14/2003 DET @ MIA L 38 24 5 14 35.7 1 3 33.3 13 14 92.9 0 2 2 1 0 0 2 4 -9
+p457
+aVChauncey Billups DET 01/14/2003 DET @ MIA L 30 18 4 16 25.0 3 8 37.5 7 7 100.0 1 4 5 1 1 0 0 3 -9
+p458
+aVMehmet Okur DET 01/14/2003 DET @ MIA L 20 6 3 8 37.5 0 3 0.0 0 0 - 4 5 9 2 0 0 1 3 4
+p459
+aVJon Barry DET 01/14/2003 DET @ MIA L 21 3 1 4 25.0 1 3 33.3 0 1 0.0 4 3 7 3 0 0 0 1 7
+p460
+aVBen Wallace DET 01/14/2003 DET @ MIA L 37 0 0 3 0.0 0 0 - 0 0 - 3 9 12 0 0 3 1 3 -11
+p461
+aVChucky Atkins DET 01/14/2003 DET @ MIA L 18 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 3 0 0 1 3 6
+p462
+aVChucky Atkins DET 01/13/2003 DET @ ORL W 15 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 2
+p463
+aVJon Barry DET 01/13/2003 DET @ ORL W 26 6 2 7 28.6 2 3 66.7 0 0 - 1 1 2 5 0 0 2 0 9
+p464
+aVMichael Curry DET 01/13/2003 DET @ ORL W 22 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -4
+p465
+aVChauncey Billups DET 01/13/2003 DET @ ORL W 33 16 4 11 36.4 2 5 40.0 6 6 100.0 0 5 5 5 0 0 2 2 13
+p466
+aVMehmet Okur DET 01/13/2003 DET @ ORL W 21 11 4 11 36.4 2 2 100.0 1 1 100.0 3 3 6 1 1 1 1 2 1
+p467
+aVCorliss Williamson DET 01/13/2003 DET @ ORL W 19 13 4 8 50.0 1 2 50.0 4 4 100.0 2 5 7 1 1 1 4 4 8
+p468
+aVClifford Robinson DET 01/13/2003 DET @ ORL W 33 17 7 12 58.3 2 2 100.0 1 1 100.0 0 3 3 4 1 0 1 5 9
+p469
+aVRichard Hamilton DET 01/13/2003 DET @ ORL W 28 27 9 13 69.2 0 0 - 9 10 90.0 0 3 3 3 1 0 2 2 17
+p470
+aVBen Wallace DET 01/13/2003 DET @ ORL W 42 8 3 10 30.0 0 0 - 2 6 33.3 9 10 19 3 3 2 3 3 20
+p471
+aVCorliss Williamson DET 01/11/2003 DET vs. MIL L 33 10 3 7 42.9 0 0 - 4 4 100.0 0 9 9 0 0 1 2 2 6
+p472
+aVMichael Curry DET 01/11/2003 DET vs. MIL L 18 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p473
+aVJon Barry DET 01/11/2003 DET vs. MIL L 19 14 3 4 75.0 2 2 100.0 6 6 100.0 0 1 1 2 2 0 0 1 2
+p474
+aVChucky Atkins DET 01/11/2003 DET vs. MIL L 11 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 1 0 1 1 0 -5
+p475
+aVRichard Hamilton DET 01/11/2003 DET vs. MIL L 37 12 3 11 27.3 0 1 0.0 6 9 66.7 2 3 5 5 1 0 2 4 -11
+p476
+aVClifford Robinson DET 01/11/2003 DET vs. MIL L 47 13 6 15 40.0 1 4 25.0 0 1 0.0 0 2 2 2 2 3 4 3 0
+p477
+aVMehmet Okur DET 01/11/2003 DET vs. MIL L 23 9 4 5 80.0 1 2 50.0 0 0 - 3 3 6 2 1 0 0 2 -5
+p478
+aVChauncey Billups DET 01/11/2003 DET vs. MIL L 37 26 8 14 57.1 2 4 50.0 8 9 88.9 0 2 2 3 1 0 1 0 3
+p479
+aVHubert Davis DET 01/11/2003 DET vs. MIL L 15 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 6
+p480
+aVRichard Hamilton DET 01/10/2003 DET @ NOH W 32 22 6 14 42.9 1 1 100.0 9 9 100.0 1 3 4 3 0 0 3 5 11
+p481
+aVMichael Curry DET 01/10/2003 DET @ NOH W 19 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -10
+p482
+aVCorliss Williamson DET 01/10/2003 DET @ NOH W 34 11 4 8 50.0 0 0 - 3 3 100.0 1 4 5 2 3 1 2 2 7
+p483
+aVChauncey Billups DET 01/10/2003 DET @ NOH W 43 32 10 18 55.6 6 10 60.0 6 6 100.0 0 3 3 4 2 0 3 5 8
+p484
+aVClifford Robinson DET 01/10/2003 DET @ NOH W 48 21 6 15 40.0 1 4 25.0 8 10 80.0 0 5 5 6 1 0 0 4 4
+p485
+aVJon Barry DET 01/10/2003 DET @ NOH W 17 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 0 1 1 2 -7
+p486
+aVMehmet Okur DET 01/10/2003 DET @ NOH W 40 11 4 8 50.0 0 2 0.0 3 3 100.0 1 7 8 1 1 3 1 3 -9
+p487
+aVTayshaun Prince DET 01/10/2003 DET @ NOH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p488
+aVChucky Atkins DET 01/10/2003 DET @ NOH W 29 4 1 6 16.7 0 4 0.0 2 2 100.0 0 0 0 2 0 0 1 1 10
+p489
+aVChucky Atkins DET 01/08/2003 DET @ PHI W 17 10 4 6 66.7 1 2 50.0 1 2 50.0 0 1 1 3 0 0 1 3 9
+p490
+aVCorliss Williamson DET 01/08/2003 DET @ PHI W 36 14 7 13 53.8 0 0 - 0 0 - 2 2 4 3 1 0 2 1 7
+p491
+aVMehmet Okur DET 01/08/2003 DET @ PHI W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 5 -5
+p492
+aVJon Barry DET 01/08/2003 DET @ PHI W 20 6 2 3 66.7 1 2 50.0 1 1 100.0 1 3 4 2 1 0 2 3 8
+p493
+aVRichard Hamilton DET 01/08/2003 DET @ PHI W 37 29 10 19 52.6 0 2 0.0 9 10 90.0 1 7 8 3 0 0 4 3 10
+p494
+aVJuan Sanchez DET 01/08/2003 DET @ PHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p495
+aVChauncey Billups DET 01/08/2003 DET @ PHI W 36 19 4 10 40.0 2 3 66.7 9 10 90.0 1 3 4 4 3 1 2 3 0
+p496
+aVClifford Robinson DET 01/08/2003 DET @ PHI W 41 17 5 16 31.3 3 6 50.0 4 4 100.0 2 3 5 2 2 2 1 6 6
+p497
+aVBen Wallace DET 01/08/2003 DET @ PHI W 48 6 3 5 60.0 0 0 - 0 0 - 3 9 12 1 2 4 1 5 8
+p498
+aVMichael Curry DET 01/08/2003 DET @ PHI W 18 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 3 2
+p499
+aVCorliss Williamson DET 01/06/2003 DET vs. TOR W 26 12 6 12 50.0 0 0 - 0 0 - 2 0 2 3 0 0 1 2 11
+p500
+aVJon Barry DET 01/06/2003 DET vs. TOR W 19 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 1 1 1 0 -2
+p501
+aVChauncey Billups DET 01/06/2003 DET vs. TOR W 29 6 2 8 25.0 0 2 0.0 2 2 100.0 1 2 3 5 0 1 0 3 12
+p502
+aVBen Wallace DET 01/06/2003 DET vs. TOR W 46 6 3 6 50.0 0 0 - 0 0 - 2 13 15 0 2 4 1 1 9
+p503
+aVClifford Robinson DET 01/06/2003 DET vs. TOR W 34 25 9 17 52.9 2 4 50.0 5 8 62.5 3 8 11 2 0 2 0 4 6
+p504
+aVChucky Atkins DET 01/06/2003 DET vs. TOR W 19 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 3 2 -4
+p505
+aVRichard Hamilton DET 01/06/2003 DET vs. TOR W 30 16 4 11 36.4 0 0 - 8 11 72.7 0 3 3 3 1 0 4 2 6
+p506
+aVMichael Curry DET 01/06/2003 DET vs. TOR W 20 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 3 0 0 2 1
+p507
+aVMehmet Okur DET 01/06/2003 DET vs. TOR W 16 7 3 6 50.0 1 2 50.0 0 0 - 2 3 5 0 1 0 0 3 1
+p508
+aVChauncey Billups DET 01/04/2003 DET @ ATL W 31 23 6 10 60.0 5 5 100.0 6 6 100.0 0 2 2 1 0 0 1 2 -1
+p509
+aVMehmet Okur DET 01/04/2003 DET @ ATL W 19 6 2 6 33.3 1 2 50.0 1 2 50.0 2 3 5 2 0 0 0 4 5
+p510
+aVMichael Curry DET 01/04/2003 DET @ ATL W 20 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 1 1 -2
+p511
+aVBen Wallace DET 01/04/2003 DET @ ATL W 40 7 3 3 100.0 0 0 - 1 2 50.0 7 13 20 2 0 1 4 3 0
+p512
+aVCorliss Williamson DET 01/04/2003 DET @ ATL W 28 10 3 9 33.3 0 1 0.0 4 4 100.0 0 4 4 2 0 0 2 4 5
+p513
+aVRichard Hamilton DET 01/04/2003 DET @ ATL W 34 18 7 16 43.8 0 1 0.0 4 8 50.0 0 1 1 3 3 0 1 2 2
+p514
+aVClifford Robinson DET 01/04/2003 DET @ ATL W 36 15 7 15 46.7 0 4 0.0 1 4 25.0 0 1 1 3 1 0 3 3 1
+p515
+aVJon Barry DET 01/04/2003 DET @ ATL W 14 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 2 0 4 3 5
+p516
+aVChucky Atkins DET 01/04/2003 DET @ ATL W 17 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 0 0 0 0 1 5
+p517
+aVBen Wallace DET 12/30/2002 DET vs. POR L 45 8 3 7 42.9 0 0 - 2 10 20.0 7 13 20 3 3 5 1 2 -8
+p518
+aVRichard Hamilton DET 12/30/2002 DET vs. POR L 32 22 10 17 58.8 1 2 50.0 1 2 50.0 1 2 3 2 0 0 4 4 -15
+p519
+aVMichael Curry DET 12/30/2002 DET vs. POR L 18 2 0 3 0.0 0 2 0.0 2 2 100.0 0 4 4 4 2 0 0 2 -3
+p520
+aVCorliss Williamson DET 12/30/2002 DET vs. POR L 34 16 5 12 41.7 0 0 - 6 8 75.0 4 3 7 2 0 0 1 5 -10
+p521
+aVChauncey Billups DET 12/30/2002 DET vs. POR L 29 2 0 6 0.0 0 4 0.0 2 3 66.7 0 2 2 4 1 0 3 0 -4
+p522
+aVMehmet Okur DET 12/30/2002 DET vs. POR L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 4 -10
+p523
+aVClifford Robinson DET 12/30/2002 DET vs. POR L 22 4 2 8 25.0 0 3 0.0 0 0 - 1 0 1 2 3 0 1 6 -1
+p524
+aVJon Barry DET 12/30/2002 DET vs. POR L 22 14 4 7 57.1 3 4 75.0 3 3 100.0 0 4 4 2 1 0 4 3 1
+p525
+aVChucky Atkins DET 12/30/2002 DET vs. POR L 21 6 2 9 22.2 2 5 40.0 0 0 - 1 0 1 0 0 0 1 2 -5
+p526
+aVChucky Atkins DET 12/28/2002 DET vs. MIN W 21 11 4 8 50.0 3 6 50.0 0 0 - 0 5 5 2 0 0 0 3 10
+p527
+aVJon Barry DET 12/28/2002 DET vs. MIN W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 1 10
+p528
+aVRichard Hamilton DET 12/28/2002 DET vs. MIN W 31 24 9 19 47.4 1 3 33.3 5 8 62.5 1 4 5 2 0 0 4 4 14
+p529
+aVBen Wallace DET 12/28/2002 DET vs. MIN W 36 10 4 4 100.0 0 0 - 2 4 50.0 4 13 17 2 0 1 0 3 18
+p530
+aVTayshaun Prince DET 12/28/2002 DET vs. MIN W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 0
+p531
+aVHubert Davis DET 12/28/2002 DET vs. MIN W 5 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 2
+p532
+aVMehmet Okur DET 12/28/2002 DET vs. MIN W 23 15 6 11 54.5 2 2 100.0 1 2 50.0 3 3 6 1 0 1 0 5 16
+p533
+aVChauncey Billups DET 12/28/2002 DET vs. MIN W 33 21 7 12 58.3 2 6 33.3 5 6 83.3 0 5 5 4 0 0 3 2 13
+p534
+aVClifford Robinson DET 12/28/2002 DET vs. MIN W 31 4 2 8 25.0 0 3 0.0 0 0 - 1 2 3 4 2 0 1 2 14
+p535
+aVCorliss Williamson DET 12/28/2002 DET vs. MIN W 26 13 5 10 50.0 0 0 - 3 3 100.0 0 1 1 3 0 0 0 2 12
+p536
+aVMichael Curry DET 12/28/2002 DET vs. MIN W 20 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 4 2 0 1 2 11
+p537
+aVJon Barry DET 12/26/2002 DET @ WAS W 18 7 2 6 33.3 1 1 100.0 2 2 100.0 0 1 1 2 2 0 0 0 3
+p538
+aVChauncey Billups DET 12/26/2002 DET @ WAS W 29 5 1 6 16.7 0 3 0.0 3 4 75.0 1 2 3 5 0 0 2 1 6
+p539
+aVChucky Atkins DET 12/26/2002 DET @ WAS W 19 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 -1
+p540
+aVMehmet Okur DET 12/26/2002 DET @ WAS W 22 4 1 6 16.7 0 1 0.0 2 2 100.0 2 5 7 1 0 0 0 3 0
+p541
+aVMichael Curry DET 12/26/2002 DET @ WAS W 22 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 5
+p542
+aVCorliss Williamson DET 12/26/2002 DET @ WAS W 27 15 5 12 41.7 0 0 - 5 6 83.3 3 0 3 2 1 0 2 5 -4
+p543
+aVRichard Hamilton DET 12/26/2002 DET @ WAS W 30 22 6 16 37.5 0 1 0.0 10 13 76.9 1 6 7 1 0 0 1 5 9
+p544
+aVBen Wallace DET 12/26/2002 DET @ WAS W 46 11 4 9 44.4 0 0 - 3 4 75.0 5 8 13 2 1 0 0 2 4
+p545
+aVClifford Robinson DET 12/26/2002 DET @ WAS W 27 16 7 11 63.6 2 3 66.7 0 0 - 0 0 0 0 1 1 1 4 3
+p546
+aVBen Wallace DET 12/25/2002 DET @ ORL L 34 7 3 8 37.5 0 0 - 1 2 50.0 2 7 9 1 1 2 1 4 -6
+p547
+aVChucky Atkins DET 12/25/2002 DET @ ORL L 22 11 4 8 50.0 3 6 50.0 0 0 - 0 2 2 4 0 0 1 2 3
+p548
+aVMehmet Okur DET 12/25/2002 DET @ ORL L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 2 1 0 2 4 8
+p549
+aVRichard Hamilton DET 12/25/2002 DET @ ORL L 30 22 9 17 52.9 0 0 - 4 6 66.7 0 5 5 1 0 0 2 1 -11
+p550
+aVCorliss Williamson DET 12/25/2002 DET @ ORL L 28 17 7 13 53.8 0 0 - 3 4 75.0 2 2 4 1 1 0 2 3 8
+p551
+aVJon Barry DET 12/25/2002 DET @ ORL L 28 12 5 8 62.5 2 4 50.0 0 0 - 0 2 2 4 0 1 2 3 10
+p552
+aVClifford Robinson DET 12/25/2002 DET @ ORL L 38 11 4 9 44.4 2 5 40.0 1 2 50.0 0 1 1 4 1 0 0 6 -9
+p553
+aVMichael Curry DET 12/25/2002 DET @ ORL L 13 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 3 -21
+p554
+aVChauncey Billups DET 12/25/2002 DET @ ORL L 34 10 5 9 55.6 0 3 0.0 0 0 - 1 5 6 13 1 0 2 1 -7
+p555
+aVRichard Hamilton DET 12/21/2002 DET @ NJN L 27 13 5 11 45.5 0 0 - 3 4 75.0 0 0 0 3 0 0 6 4 -1
+p556
+aVClifford Robinson DET 12/21/2002 DET @ NJN L 32 19 9 16 56.3 1 2 50.0 0 0 - 2 2 4 4 0 1 3 5 -7
+p557
+aVBen Wallace DET 12/21/2002 DET @ NJN L 43 11 4 7 57.1 0 0 - 3 4 75.0 3 11 14 1 4 2 3 2 -10
+p558
+aVMichael Curry DET 12/21/2002 DET @ NJN L 21 5 1 2 50.0 1 2 50.0 2 2 100.0 0 2 2 5 0 0 0 2 -6
+p559
+aVJon Barry DET 12/21/2002 DET @ NJN L 14 4 1 2 50.0 0 0 - 2 4 50.0 1 1 2 1 1 1 1 0 -6
+p560
+aVCorliss Williamson DET 12/21/2002 DET @ NJN L 27 8 1 6 16.7 0 0 - 6 6 100.0 1 3 4 2 1 0 6 5 -2
+p561
+aVMehmet Okur DET 12/21/2002 DET @ NJN L 16 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 1 1 1 4 2
+p562
+aVChucky Atkins DET 12/21/2002 DET @ NJN L 20 11 4 9 44.4 3 5 60.0 0 0 - 0 2 2 4 0 0 1 4 -7
+p563
+aVChauncey Billups DET 12/21/2002 DET @ NJN L 35 14 5 10 50.0 2 3 66.7 2 2 100.0 0 2 2 4 1 0 1 2 -2
+p564
+aVZeljko Rebraca DET 12/21/2002 DET @ NJN L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p565
+aVMichael Curry DET 12/20/2002 DET vs. CLE W 20 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 5 -8
+p566
+aVRichard Hamilton DET 12/20/2002 DET vs. CLE W 35 27 6 14 42.9 1 1 100.0 14 20 70.0 2 3 5 4 0 0 2 4 6
+p567
+aVJon Barry DET 12/20/2002 DET vs. CLE W 20 6 2 4 50.0 1 2 50.0 1 1 100.0 0 0 0 4 0 0 1 2 3
+p568
+aVCorliss Williamson DET 12/20/2002 DET vs. CLE W 30 19 8 17 47.1 0 0 - 3 4 75.0 2 0 2 0 1 0 2 3 3
+p569
+aVClifford Robinson DET 12/20/2002 DET vs. CLE W 43 15 4 12 33.3 1 4 25.0 6 6 100.0 2 6 8 4 3 1 1 4 11
+p570
+aVChucky Atkins DET 12/20/2002 DET vs. CLE W 16 13 5 6 83.3 3 4 75.0 0 0 - 0 1 1 2 1 0 2 3 -2
+p571
+aVZeljko Rebraca DET 12/20/2002 DET vs. CLE W 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -6
+p572
+aVHubert Davis DET 12/20/2002 DET vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p573
+aVChauncey Billups DET 12/20/2002 DET vs. CLE W 37 12 4 11 36.4 1 3 33.3 3 6 50.0 0 3 3 3 1 2 2 3 8
+p574
+aVBen Wallace DET 12/20/2002 DET vs. CLE W 46 11 4 9 44.4 0 0 - 3 6 50.0 9 10 19 4 1 4 5 3 -3
+p575
+aVZeljko Rebraca DET 12/18/2002 DET @ CLE W 12 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 1 1 1 4 -1
+p576
+aVChucky Atkins DET 12/18/2002 DET @ CLE W 19 12 4 6 66.7 4 6 66.7 0 0 - 0 0 0 2 0 0 1 1 3
+p577
+aVChauncey Billups DET 12/18/2002 DET @ CLE W 34 23 5 10 50.0 3 6 50.0 10 10 100.0 0 5 5 3 1 2 2 2 2
+p578
+aVRichard Hamilton DET 12/18/2002 DET @ CLE W 30 12 2 15 13.3 0 1 0.0 8 8 100.0 0 4 4 3 0 0 4 1 2
+p579
+aVCorliss Williamson DET 12/18/2002 DET @ CLE W 25 12 4 11 36.4 0 0 - 4 4 100.0 2 3 5 1 0 0 2 6 -2
+p580
+aVJon Barry DET 12/18/2002 DET @ CLE W 28 17 6 11 54.5 2 5 40.0 3 4 75.0 0 4 4 4 0 0 0 0 4
+p581
+aVBen Wallace DET 12/18/2002 DET @ CLE W 48 9 4 7 57.1 0 0 - 1 2 50.0 4 15 19 2 2 3 0 2 7
+p582
+aVClifford Robinson DET 12/18/2002 DET @ CLE W 45 13 4 12 33.3 3 5 60.0 2 2 100.0 3 5 8 6 1 1 2 5 7
+p583
+aVMichael Curry DET 12/18/2002 DET @ CLE W 24 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 3 0 1 1 4 3
+p584
+aVCorliss Williamson DET 12/15/2002 DET vs. NJN W 27 17 5 8 62.5 0 0 - 7 10 70.0 2 5 7 1 0 0 2 4 9
+p585
+aVChucky Atkins DET 12/15/2002 DET vs. NJN W 21 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 1 1 0 4 3 14
+p586
+aVRichard Hamilton DET 12/15/2002 DET vs. NJN W 33 15 6 16 37.5 0 1 0.0 3 4 75.0 0 3 3 1 0 0 3 3 7
+p587
+aVZeljko Rebraca DET 12/15/2002 DET vs. NJN W 21 21 5 6 83.3 0 0 - 11 12 91.7 1 3 4 0 1 0 0 6 25
+p588
+aVMichael Curry DET 12/15/2002 DET vs. NJN W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 4 -12
+p589
+aVJon Barry DET 12/15/2002 DET vs. NJN W 26 12 2 4 50.0 1 1 100.0 7 7 100.0 1 2 3 5 3 1 1 2 17
+p590
+aVChauncey Billups DET 12/15/2002 DET vs. NJN W 27 16 4 10 40.0 1 5 20.0 7 7 100.0 1 6 7 2 0 1 3 2 -4
+p591
+aVBen Wallace DET 12/15/2002 DET vs. NJN W 40 8 3 6 50.0 0 0 - 2 4 50.0 1 8 9 1 2 3 0 2 4
+p592
+aVClifford Robinson DET 12/15/2002 DET vs. NJN W 32 4 2 6 33.3 0 0 - 0 0 - 1 1 2 3 0 1 2 5 -10
+p593
+aVClifford Robinson DET 12/14/2002 DET vs. SEA W 39 9 4 11 36.4 1 4 25.0 0 0 - 1 4 5 6 1 1 3 1 15
+p594
+aVMichael Curry DET 12/14/2002 DET vs. SEA W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -2
+p595
+aVMehmet Okur DET 12/14/2002 DET vs. SEA W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p596
+aVJon Barry DET 12/14/2002 DET vs. SEA W 22 11 4 10 40.0 2 5 40.0 1 1 100.0 0 2 2 4 1 1 1 3 10
+p597
+aVTayshaun Prince DET 12/14/2002 DET vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p598
+aVBen Wallace DET 12/14/2002 DET vs. SEA W 42 4 2 6 33.3 0 0 - 0 0 - 6 5 11 2 0 5 0 3 8
+p599
+aVZeljko Rebraca DET 12/14/2002 DET vs. SEA W 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 6
+p600
+aVRichard Hamilton DET 12/14/2002 DET vs. SEA W 29 25 9 13 69.2 0 2 0.0 7 8 87.5 1 4 5 4 3 0 3 3 4
+p601
+aVChauncey Billups DET 12/14/2002 DET vs. SEA W 27 13 4 9 44.4 3 6 50.0 2 4 50.0 0 2 2 1 0 1 0 2 6
+p602
+aVCorliss Williamson DET 12/14/2002 DET vs. SEA W 32 15 7 14 50.0 0 0 - 1 2 50.0 1 5 6 0 0 1 3 1 17
+p603
+aVChucky Atkins DET 12/14/2002 DET vs. SEA W 21 8 3 7 42.9 2 4 50.0 0 0 - 1 2 3 3 0 0 0 2 7
+p604
+aVHubert Davis DET 12/14/2002 DET vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p605
+aVMichael Curry DET 12/12/2002 DET @ CHI W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -4
+p606
+aVCorliss Williamson DET 12/12/2002 DET @ CHI W 27 14 6 13 46.2 0 0 - 2 2 100.0 3 3 6 2 0 0 0 3 13
+p607
+aVJon Barry DET 12/12/2002 DET @ CHI W 16 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 3 0 0 2 0 -1
+p608
+aVZeljko Rebraca DET 12/12/2002 DET @ CHI W 13 8 3 5 60.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 2 -7
+p609
+aVChucky Atkins DET 12/12/2002 DET @ CHI W 15 3 1 7 14.3 1 4 25.0 0 0 - 0 1 1 0 1 0 1 1 -5
+p610
+aVRichard Hamilton DET 12/12/2002 DET @ CHI W 35 20 4 18 22.2 0 1 0.0 12 13 92.3 2 4 6 9 2 1 1 3 12
+p611
+aVBen Wallace DET 12/12/2002 DET @ CHI W 43 5 2 5 40.0 0 0 - 1 2 50.0 7 14 21 3 2 2 1 3 19
+p612
+aVChauncey Billups DET 12/12/2002 DET @ CHI W 33 21 8 15 53.3 3 8 37.5 2 2 100.0 0 2 2 2 0 0 1 1 15
+p613
+aVClifford Robinson DET 12/12/2002 DET @ CHI W 41 11 5 13 38.5 1 4 25.0 0 0 - 1 3 4 5 1 3 2 1 8
+p614
+aVMehmet Okur DET 12/11/2002 DET vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -3
+p615
+aVRichard Hamilton DET 12/11/2002 DET vs. ATL W 36 32 14 26 53.8 0 1 0.0 4 4 100.0 2 3 5 4 2 1 0 1 17
+p616
+aVZeljko Rebraca DET 12/11/2002 DET vs. ATL W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -2
+p617
+aVMichael Curry DET 12/11/2002 DET vs. ATL W 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 3 0 1 3 7
+p618
+aVClifford Robinson DET 12/11/2002 DET vs. ATL W 39 21 8 15 53.3 4 6 66.7 1 3 33.3 0 3 3 2 0 0 1 5 9
+p619
+aVChauncey Billups DET 12/11/2002 DET vs. ATL W 21 7 3 7 42.9 1 1 100.0 0 0 - 1 2 3 5 1 1 1 1 9
+p620
+aVChucky Atkins DET 12/11/2002 DET vs. ATL W 27 4 1 5 20.0 1 4 25.0 1 2 50.0 0 2 2 4 2 1 0 4 2
+p621
+aVBen Wallace DET 12/11/2002 DET vs. ATL W 46 4 2 5 40.0 0 0 - 0 6 0.0 5 13 18 3 4 3 4 2 14
+p622
+aVCorliss Williamson DET 12/11/2002 DET vs. ATL W 25 16 4 8 50.0 0 1 0.0 8 9 88.9 2 3 5 1 1 1 1 3 4
+p623
+aVJon Barry DET 12/11/2002 DET vs. ATL W 16 6 2 7 28.6 0 3 0.0 2 2 100.0 0 0 0 2 1 0 0 1 -2
+p624
+aVZeljko Rebraca DET 12/07/2002 DET @ ATL L 23 8 3 9 33.3 0 0 - 2 2 100.0 4 3 7 2 0 0 1 5 -10
+p625
+aVChucky Atkins DET 12/07/2002 DET @ ATL L 27 14 6 13 46.2 2 4 50.0 0 1 0.0 1 0 1 1 1 0 0 0 0
+p626
+aVBen Wallace DET 12/07/2002 DET @ ATL L 37 8 4 9 44.4 0 0 - 0 0 - 6 8 14 4 2 1 0 4 12
+p627
+aVChauncey Billups DET 12/07/2002 DET @ ATL L 21 9 2 5 40.0 2 3 66.7 3 4 75.0 0 0 0 1 1 0 0 2 -2
+p628
+aVMichael Curry DET 12/07/2002 DET @ ATL L 23 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 1 0 0 0 2 8
+p629
+aVClifford Robinson DET 12/07/2002 DET @ ATL L 36 10 4 13 30.8 1 4 25.0 1 2 50.0 1 3 4 3 0 1 1 4 -7
+p630
+aVCorliss Williamson DET 12/07/2002 DET @ ATL L 25 11 5 9 55.6 1 1 100.0 0 0 - 2 2 4 2 0 1 3 3 -11
+p631
+aVHubert Davis DET 12/07/2002 DET @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p632
+aVRichard Hamilton DET 12/07/2002 DET @ ATL L 33 25 7 18 38.9 1 3 33.3 10 13 76.9 1 1 2 4 0 0 0 3 1
+p633
+aVJon Barry DET 12/07/2002 DET @ ATL L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -2
+p634
+aVZeljko Rebraca DET 12/04/2002 DET vs. WAS L 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 4 -8
+p635
+aVChucky Atkins DET 12/04/2002 DET vs. WAS L 29 17 6 14 42.9 3 8 37.5 2 2 100.0 0 0 0 3 0 1 0 1 0
+p636
+aVClifford Robinson DET 12/04/2002 DET vs. WAS L 43 16 5 13 38.5 3 4 75.0 3 4 75.0 0 4 4 7 2 3 4 3 -7
+p637
+aVMichael Curry DET 12/04/2002 DET vs. WAS L 20 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 0 1 0 1 2 -13
+p638
+aVHubert Davis DET 12/04/2002 DET vs. WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p639
+aVBen Wallace DET 12/04/2002 DET vs. WAS L 39 10 4 6 66.7 0 0 - 2 2 100.0 2 13 15 2 0 2 1 2 7
+p640
+aVChauncey Billups DET 12/04/2002 DET vs. WAS L 19 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 3 1 -5
+p641
+aVRichard Hamilton DET 12/04/2002 DET vs. WAS L 36 16 6 16 37.5 1 4 25.0 3 4 75.0 1 2 3 4 0 0 3 4 -12
+p642
+aVJon Barry DET 12/04/2002 DET vs. WAS L 22 8 3 8 37.5 2 5 40.0 0 0 - 0 5 5 3 1 0 2 3 9
+p643
+aVCorliss Williamson DET 12/04/2002 DET vs. WAS L 18 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 6
+p644
+aVMehmet Okur DET 11/30/2002 DET @ MIL L 11 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 2 0 0 2 2 2
+p645
+aVTayshaun Prince DET 11/30/2002 DET @ MIL L 22 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 2 1 1 2 -5
+p646
+aVZeljko Rebraca DET 11/30/2002 DET @ MIL L 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p647
+aVChucky Atkins DET 11/30/2002 DET @ MIL L 27 9 3 12 25.0 1 4 25.0 2 2 100.0 2 1 3 4 1 0 1 3 -20
+p648
+aVBen Wallace DET 11/30/2002 DET @ MIL L 32 3 1 5 20.0 0 0 - 1 2 50.0 1 8 9 3 2 1 0 1 -27
+p649
+aVHubert Davis DET 11/30/2002 DET @ MIL L 22 11 4 6 66.7 2 3 66.7 1 1 100.0 1 2 3 1 0 0 3 3 -1
+p650
+aVClifford Robinson DET 11/30/2002 DET @ MIL L 35 16 8 16 50.0 0 1 0.0 0 2 0.0 5 2 7 1 0 0 1 0 -19
+p651
+aVRichard Hamilton DET 11/30/2002 DET @ MIL L 28 15 5 11 45.5 0 1 0.0 5 5 100.0 2 3 5 1 0 0 4 4 -19
+p652
+aVJon Barry DET 11/30/2002 DET @ MIL L 23 11 4 8 50.0 1 1 100.0 2 3 66.7 0 1 1 2 0 0 2 1 -12
+p653
+aVCorliss Williamson DET 11/30/2002 DET @ MIL L 31 10 4 8 50.0 0 0 - 2 3 66.7 3 3 6 3 1 0 1 4 -11
+p654
+aVTayshaun Prince DET 11/29/2002 DET vs. MIL W 21 13 4 6 66.7 3 3 100.0 2 4 50.0 0 1 1 2 0 0 1 3 1
+p655
+aVJon Barry DET 11/29/2002 DET vs. MIL W 14 10 3 3 100.0 2 2 100.0 2 2 100.0 0 3 3 2 1 0 1 1 9
+p656
+aVChucky Atkins DET 11/29/2002 DET vs. MIL W 35 8 2 13 15.4 1 8 12.5 3 3 100.0 0 0 0 12 2 0 3 3 8
+p657
+aVClifford Robinson DET 11/29/2002 DET vs. MIL W 37 12 5 11 45.5 2 4 50.0 0 0 - 0 7 7 1 1 0 2 3 2
+p658
+aVRichard Hamilton DET 11/29/2002 DET vs. MIL W 35 20 8 16 50.0 0 3 0.0 4 4 100.0 0 3 3 5 2 0 1 3 0
+p659
+aVCorliss Williamson DET 11/29/2002 DET vs. MIL W 26 12 5 11 45.5 0 1 0.0 2 2 100.0 1 1 2 1 0 1 1 3 0
+p660
+aVZeljko Rebraca DET 11/29/2002 DET vs. MIL W 19 9 4 5 80.0 0 0 - 1 2 50.0 1 2 3 0 0 3 2 5 6
+p661
+aVBen Wallace DET 11/29/2002 DET vs. MIL W 39 12 5 8 62.5 0 0 - 2 4 50.0 7 14 21 0 1 2 3 3 2
+p662
+aVHubert Davis DET 11/29/2002 DET vs. MIL W 14 0 0 2 0.0 0 2 0.0 0 0 - 1 3 4 1 0 0 0 1 -3
+p663
+aVTayshaun Prince DET 11/27/2002 DET vs. DAL L 17 8 3 6 50.0 2 3 66.7 0 0 - 1 2 3 1 0 2 0 0 -1
+p664
+aVJon Barry DET 11/27/2002 DET vs. DAL L 23 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 6 0 0 1 2 -7
+p665
+aVChucky Atkins DET 11/27/2002 DET vs. DAL L 26 7 3 9 33.3 0 2 0.0 1 2 50.0 1 1 2 3 0 0 3 3 -23
+p666
+aVHubert Davis DET 11/27/2002 DET vs. DAL L 22 9 3 5 60.0 3 5 60.0 0 0 - 0 1 1 6 1 0 0 2 3
+p667
+aVMichael Curry DET 11/27/2002 DET vs. DAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -9
+p668
+aVRichard Hamilton DET 11/27/2002 DET vs. DAL L 29 19 6 18 33.3 0 1 0.0 7 8 87.5 0 1 1 2 0 0 6 4 -18
+p669
+aVZeljko Rebraca DET 11/27/2002 DET vs. DAL L 20 6 3 7 42.9 0 0 - 0 0 - 2 2 4 0 1 1 0 1 4
+p670
+aVClifford Robinson DET 11/27/2002 DET vs. DAL L 34 9 3 10 30.0 2 4 50.0 1 2 50.0 1 0 1 2 0 1 2 2 -26
+p671
+aVBen Wallace DET 11/27/2002 DET vs. DAL L 30 2 1 3 33.3 0 0 - 0 0 - 6 18 24 0 0 4 1 3 -28
+p672
+aVMehmet Okur DET 11/27/2002 DET vs. DAL L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 2 1 0 2 3 10
+p673
+aVCorliss Williamson DET 11/27/2002 DET vs. DAL L 20 14 7 12 58.3 0 0 - 0 0 - 2 2 4 0 0 0 2 3 -5
+p674
+aVJon Barry DET 11/23/2002 DET @ IND W 24 19 7 9 77.8 1 2 50.0 4 4 100.0 0 3 3 2 0 0 1 3 14
+p675
+aVTayshaun Prince DET 11/23/2002 DET @ IND W 20 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 1 -2
+p676
+aVRichard Hamilton DET 11/23/2002 DET @ IND W 31 22 8 13 61.5 0 0 - 6 7 85.7 0 4 4 5 0 0 3 2 7
+p677
+aVChucky Atkins DET 11/23/2002 DET @ IND W 39 15 6 14 42.9 1 3 33.3 2 3 66.7 1 2 3 8 0 0 2 2 23
+p678
+aVCorliss Williamson DET 11/23/2002 DET @ IND W 22 19 8 19 42.1 0 0 - 3 3 100.0 4 3 7 1 2 0 1 2 14
+p679
+aVZeljko Rebraca DET 11/23/2002 DET @ IND W 28 15 7 10 70.0 0 0 - 1 2 50.0 0 6 6 0 0 0 0 3 9
+p680
+aVBen Wallace DET 11/23/2002 DET @ IND W 31 0 0 2 0.0 0 0 - 0 0 - 2 9 11 2 3 3 0 4 -2
+p681
+aVMehmet Okur DET 11/23/2002 DET @ IND W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 11
+p682
+aVHubert Davis DET 11/23/2002 DET @ IND W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -8
+p683
+aVClifford Robinson DET 11/23/2002 DET @ IND W 27 12 2 8 25.0 1 2 50.0 7 7 100.0 0 2 2 3 3 4 1 5 9
+p684
+aVHubert Davis DET 11/22/2002 DET @ MIA W 14 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 4 3
+p685
+aVCorliss Williamson DET 11/22/2002 DET @ MIA W 24 14 5 11 45.5 0 0 - 4 8 50.0 4 3 7 0 0 0 0 1 14
+p686
+aVRichard Hamilton DET 11/22/2002 DET @ MIA W 37 17 5 17 29.4 0 1 0.0 7 7 100.0 0 3 3 2 1 0 0 4 -1
+p687
+aVBen Wallace DET 11/22/2002 DET @ MIA W 41 8 3 5 60.0 0 0 - 2 5 40.0 4 18 22 0 0 1 0 1 7
+p688
+aVClifford Robinson DET 11/22/2002 DET @ MIA W 31 7 3 11 27.3 1 3 33.3 0 2 0.0 1 1 2 1 1 2 4 6 -18
+p689
+aVZeljko Rebraca DET 11/22/2002 DET @ MIA W 20 8 4 7 57.1 0 0 - 0 0 - 3 2 5 0 0 1 0 1 10
+p690
+aVTayshaun Prince DET 11/22/2002 DET @ MIA W 19 4 2 4 50.0 0 1 0.0 0 1 0.0 0 2 2 0 1 0 0 1 -12
+p691
+aVChucky Atkins DET 11/22/2002 DET @ MIA W 34 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 4 0 0 3 2 0
+p692
+aVJon Barry DET 11/22/2002 DET @ MIA W 20 12 5 7 71.4 2 2 100.0 0 0 - 1 0 1 4 2 0 1 2 12
+p693
+aVRichard Hamilton DET 11/20/2002 DET vs. MIA W 25 9 3 11 27.3 0 1 0.0 3 4 75.0 1 2 3 5 3 0 5 3 6
+p694
+aVTayshaun Prince DET 11/20/2002 DET vs. MIA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p695
+aVMichael Curry DET 11/20/2002 DET vs. MIA W 20 1 0 3 0.0 0 2 0.0 1 2 50.0 0 2 2 1 1 0 1 1 7
+p696
+aVZeljko Rebraca DET 11/20/2002 DET vs. MIA W 15 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 6
+p697
+aVMehmet Okur DET 11/20/2002 DET vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p698
+aVCorliss Williamson DET 11/20/2002 DET vs. MIA W 24 11 5 10 50.0 0 0 - 1 2 50.0 1 0 1 2 1 0 0 2 1
+p699
+aVJon Barry DET 11/20/2002 DET vs. MIA W 27 8 3 4 75.0 2 3 66.7 0 0 - 0 5 5 9 1 0 0 2 8
+p700
+aVChucky Atkins DET 11/20/2002 DET vs. MIA W 40 21 8 15 53.3 5 8 62.5 0 0 - 0 2 2 2 0 0 1 1 18
+p701
+aVBen Wallace DET 11/20/2002 DET vs. MIA W 43 12 6 8 75.0 0 0 - 0 0 - 5 14 19 1 1 10 2 2 16
+p702
+aVHubert Davis DET 11/20/2002 DET vs. MIA W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p703
+aVClifford Robinson DET 11/20/2002 DET vs. MIA W 34 13 4 10 40.0 2 5 40.0 3 9 33.3 0 2 2 3 1 0 4 1 14
+p704
+aVBen Wallace DET 11/18/2002 DET @ NYK L 44 11 5 7 71.4 0 0 - 1 2 50.0 4 17 21 0 1 3 3 0 3
+p705
+aVClifford Robinson DET 11/18/2002 DET @ NYK L 33 19 8 14 57.1 0 1 0.0 3 6 50.0 1 5 6 1 2 0 2 5 6
+p706
+aVTayshaun Prince DET 11/18/2002 DET @ NYK L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -3
+p707
+aVChauncey Billups DET 11/18/2002 DET @ NYK L 7 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -13
+p708
+aVMichael Curry DET 11/18/2002 DET @ NYK L 18 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 1 2 -11
+p709
+aVChucky Atkins DET 11/18/2002 DET @ NYK L 41 14 5 13 38.5 0 1 0.0 4 4 100.0 1 3 4 8 1 1 4 0 10
+p710
+aVZeljko Rebraca DET 11/18/2002 DET @ NYK L 15 6 3 8 37.5 0 0 - 0 0 - 1 2 3 2 0 1 0 1 -9
+p711
+aVRichard Hamilton DET 11/18/2002 DET @ NYK L 36 31 11 18 61.1 2 2 100.0 7 9 77.8 1 3 4 3 2 1 0 5 7
+p712
+aVMehmet Okur DET 11/18/2002 DET @ NYK L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p713
+aVCorliss Williamson DET 11/18/2002 DET @ NYK L 20 8 2 13 15.4 0 0 - 4 4 100.0 6 1 7 0 1 0 2 2 -5
+p714
+aVJon Barry DET 11/18/2002 DET @ NYK L 19 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 2 0 0 1 2 6
+p715
+aVHubert Davis DET 11/16/2002 DET vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p716
+aVMichael Curry DET 11/16/2002 DET vs. DEN W 20 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 2 2 -5
+p717
+aVBen Wallace DET 11/16/2002 DET vs. DEN W 41 2 0 3 0.0 0 0 - 2 6 33.3 2 11 13 1 0 1 1 2 16
+p718
+aVJon Barry DET 11/16/2002 DET vs. DEN W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 2 14
+p719
+aVCorliss Williamson DET 11/16/2002 DET vs. DEN W 26 12 5 9 55.6 0 0 - 2 5 40.0 2 3 5 2 1 0 1 3 22
+p720
+aVMehmet Okur DET 11/16/2002 DET vs. DEN W 7 3 1 1 100.0 1 1 100.0 0 0 - 1 2 3 0 0 0 1 2 5
+p721
+aVZeljko Rebraca DET 11/16/2002 DET vs. DEN W 16 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 2 2 2 4
+p722
+aVChucky Atkins DET 11/16/2002 DET vs. DEN W 26 8 2 7 28.6 1 4 25.0 3 4 75.0 0 0 0 3 1 0 3 2 16
+p723
+aVTayshaun Prince DET 11/16/2002 DET vs. DEN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 4
+p724
+aVRichard Hamilton DET 11/16/2002 DET vs. DEN W 28 15 7 17 41.2 1 3 33.3 0 1 0.0 0 1 1 1 1 0 4 3 4
+p725
+aVClifford Robinson DET 11/16/2002 DET vs. DEN W 32 19 5 8 62.5 0 1 0.0 9 9 100.0 1 1 2 1 1 1 2 4 17
+p726
+aVChauncey Billups DET 11/16/2002 DET vs. DEN W 22 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 2 1 1 2 1 5
+p727
+aVJon Barry DET 11/15/2002 DET vs. UTA W 16 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 0 -9
+p728
+aVTayshaun Prince DET 11/15/2002 DET vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p729
+aVBen Wallace DET 11/15/2002 DET vs. UTA W 42 4 1 2 50.0 0 0 - 2 2 100.0 3 12 15 2 0 6 2 2 11
+p730
+aVMehmet Okur DET 11/15/2002 DET vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p731
+aVCorliss Williamson DET 11/15/2002 DET vs. UTA W 14 7 3 9 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 1 1 -1
+p732
+aVHubert Davis DET 11/15/2002 DET vs. UTA W 2 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p733
+aVMichael Curry DET 11/15/2002 DET vs. UTA W 28 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 2 0 0 1 2 19
+p734
+aVChucky Atkins DET 11/15/2002 DET vs. UTA W 14 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 0 1 1 -8
+p735
+aVChauncey Billups DET 11/15/2002 DET vs. UTA W 34 17 7 11 63.6 2 5 40.0 1 2 50.0 0 5 5 4 1 1 4 2 19
+p736
+aVZeljko Rebraca DET 11/15/2002 DET vs. UTA W 15 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 5 4 4
+p737
+aVClifford Robinson DET 11/15/2002 DET vs. UTA W 36 14 7 14 50.0 0 2 0.0 0 1 0.0 1 3 4 4 1 3 3 1 13
+p738
+aVRichard Hamilton DET 11/15/2002 DET vs. UTA W 32 25 9 15 60.0 0 0 - 7 8 87.5 1 2 3 5 2 0 4 4 25
+p739
+aVBen Wallace DET 11/12/2002 DET vs. NOH W 31 4 1 1 100.0 0 0 - 2 3 66.7 2 6 8 2 1 5 3 4 -4
+p740
+aVMichael Curry DET 11/12/2002 DET vs. NOH W 25 11 4 4 100.0 3 3 100.0 0 0 - 0 1 1 2 1 0 1 2 5
+p741
+aVMehmet Okur DET 11/12/2002 DET vs. NOH W 17 2 0 2 0.0 0 1 0.0 2 2 100.0 0 4 4 0 0 0 1 2 10
+p742
+aVZeljko Rebraca DET 11/12/2002 DET vs. NOH W 14 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 4 10
+p743
+aVJon Barry DET 11/12/2002 DET vs. NOH W 24 17 4 7 57.1 1 3 33.3 8 11 72.7 0 5 5 5 2 1 1 1 0
+p744
+aVRichard Hamilton DET 11/12/2002 DET vs. NOH W 27 16 6 13 46.2 1 1 100.0 3 3 100.0 1 4 5 2 1 1 7 3 6
+p745
+aVTayshaun Prince DET 11/12/2002 DET vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p746
+aVCorliss Williamson DET 11/12/2002 DET vs. NOH W 21 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 1 1 0 1 1 2
+p747
+aVClifford Robinson DET 11/12/2002 DET vs. NOH W 32 1 0 6 0.0 0 0 - 1 2 50.0 1 2 3 1 0 2 4 0 -5
+p748
+aVChucky Atkins DET 11/12/2002 DET vs. NOH W 45 20 8 13 61.5 3 5 60.0 1 1 100.0 0 3 3 7 2 0 3 3 9
+p749
+aVMichael Curry DET 11/09/2002 DET @ DAL L 19 4 2 5 40.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -36
+p750
+aVJon Barry DET 11/09/2002 DET @ DAL L 12 2 1 7 14.3 0 3 0.0 0 0 - 2 2 4 0 0 0 1 1 1
+p751
+aVZeljko Rebraca DET 11/09/2002 DET @ DAL L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -13
+p752
+aVBen Wallace DET 11/09/2002 DET @ DAL L 31 5 1 2 50.0 0 0 - 3 4 75.0 1 10 11 2 1 1 2 2 -37
+p753
+aVTayshaun Prince DET 11/09/2002 DET @ DAL L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 3
+p754
+aVRichard Hamilton DET 11/09/2002 DET @ DAL L 29 19 7 15 46.7 0 3 0.0 5 6 83.3 2 1 3 3 0 0 2 2 -34
+p755
+aVHubert Davis DET 11/09/2002 DET @ DAL L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 8
+p756
+aVCorliss Williamson DET 11/09/2002 DET @ DAL L 25 11 3 8 37.5 0 0 - 5 6 83.3 1 3 4 2 0 0 0 2 -3
+p757
+aVClifford Robinson DET 11/09/2002 DET @ DAL L 33 13 5 11 45.5 0 3 0.0 3 3 100.0 2 2 4 0 0 0 1 2 -33
+p758
+aVChucky Atkins DET 11/09/2002 DET @ DAL L 31 3 1 9 11.1 0 4 0.0 1 2 50.0 0 3 3 4 0 0 2 4 -30
+p759
+aVMehmet Okur DET 11/09/2002 DET @ DAL L 17 11 4 7 57.1 1 1 100.0 2 2 100.0 3 5 8 1 1 0 1 1 -2
+p760
+aVChauncey Billups DET 11/09/2002 DET @ DAL L 11 2 0 3 0.0 0 2 0.0 2 3 66.7 0 0 0 2 0 0 3 3 -19
+p761
+aVTayshaun Prince DET 11/07/2002 DET @ DEN W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p762
+aVZeljko Rebraca DET 11/07/2002 DET @ DEN W 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 2 3 6
+p763
+aVHubert Davis DET 11/07/2002 DET @ DEN W 4 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 6
+p764
+aVClifford Robinson DET 11/07/2002 DET @ DEN W 28 10 3 9 33.3 1 3 33.3 3 4 75.0 1 3 4 5 1 1 1 4 18
+p765
+aVJon Barry DET 11/07/2002 DET @ DEN W 18 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 2 2 0 2 1 7
+p766
+aVMichael Curry DET 11/07/2002 DET @ DEN W 26 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 3 1 0 0 1 12
+p767
+aVBen Wallace DET 11/07/2002 DET @ DEN W 33 6 3 4 75.0 0 0 - 0 0 - 4 9 13 2 1 3 2 5 17
+p768
+aVRichard Hamilton DET 11/07/2002 DET @ DEN W 31 15 7 14 50.0 1 1 100.0 0 0 - 1 1 2 2 2 1 3 4 20
+p769
+aVCorliss Williamson DET 11/07/2002 DET @ DEN W 16 7 2 7 28.6 0 0 - 3 4 75.0 0 5 5 1 0 1 2 3 9
+p770
+aVChauncey Billups DET 11/07/2002 DET @ DEN W 29 21 6 10 60.0 5 8 62.5 4 6 66.7 0 4 4 4 0 0 2 2 20
+p771
+aVMehmet Okur DET 11/07/2002 DET @ DEN W 15 6 2 4 50.0 0 1 0.0 2 2 100.0 1 4 5 0 1 1 0 3 5
+p772
+aVChucky Atkins DET 11/07/2002 DET @ DEN W 19 5 2 4 50.0 1 1 100.0 0 1 0.0 0 1 1 3 0 0 3 2 6
+p773
+aVChauncey Billups DET 11/06/2002 DET @ UTA W 26 5 2 8 25.0 1 4 25.0 0 0 - 0 3 3 2 1 0 1 5 12
+p774
+aVTayshaun Prince DET 11/06/2002 DET @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p775
+aVCorliss Williamson DET 11/06/2002 DET @ UTA W 20 0 0 5 0.0 0 0 - 0 2 0.0 1 0 1 2 1 1 0 3 -9
+p776
+aVJon Barry DET 11/06/2002 DET @ UTA W 22 10 2 5 40.0 2 4 50.0 4 6 66.7 0 2 2 2 1 0 1 1 3
+p777
+aVChucky Atkins DET 11/06/2002 DET @ UTA W 22 2 1 8 12.5 0 4 0.0 0 0 - 0 3 3 5 1 0 1 4 -9
+p778
+aVRichard Hamilton DET 11/06/2002 DET @ UTA W 34 28 7 14 50.0 1 1 100.0 13 14 92.9 1 3 4 5 1 0 2 6 1
+p779
+aVClifford Robinson DET 11/06/2002 DET @ UTA W 36 16 7 12 58.3 2 2 100.0 0 0 - 0 0 0 0 3 1 1 2 0
+p780
+aVZeljko Rebraca DET 11/06/2002 DET @ UTA W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 2 3 2
+p781
+aVBen Wallace DET 11/06/2002 DET @ UTA W 32 9 3 4 75.0 0 0 - 3 4 75.0 4 11 15 0 2 2 3 3 7
+p782
+aVMichael Curry DET 11/06/2002 DET @ UTA W 20 3 1 1 100.0 1 1 100.0 0 0 - 1 2 3 1 0 0 3 3 9
+p783
+aVMehmet Okur DET 11/06/2002 DET @ UTA W 16 5 2 7 28.6 0 2 0.0 1 2 50.0 2 2 4 0 0 1 2 1 -4
+p784
+aVMichael Curry DET 11/04/2002 DET @ PHX W 21 3 1 2 50.0 0 1 0.0 1 2 50.0 0 3 3 1 1 1 1 4 5
+p785
+aVMehmet Okur DET 11/04/2002 DET @ PHX W 9 7 3 6 50.0 1 2 50.0 0 0 - 2 2 4 0 0 0 0 1 5
+p786
+aVChucky Atkins DET 11/04/2002 DET @ PHX W 31 9 3 10 30.0 0 6 0.0 3 3 100.0 3 0 3 6 0 0 1 3 5
+p787
+aVBen Wallace DET 11/04/2002 DET @ PHX W 39 4 2 7 28.6 0 0 - 0 1 0.0 4 10 14 1 3 2 3 1 -3
+p788
+aVChauncey Billups DET 11/04/2002 DET @ PHX W 17 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 5 0 0 1 4 -3
+p789
+aVCorliss Williamson DET 11/04/2002 DET @ PHX W 27 14 6 15 40.0 0 0 - 2 4 50.0 1 3 4 0 0 0 2 5 -3
+p790
+aVClifford Robinson DET 11/04/2002 DET @ PHX W 31 9 4 11 36.4 0 2 0.0 1 2 50.0 0 4 4 4 2 5 0 1 3
+p791
+aVRichard Hamilton DET 11/04/2002 DET @ PHX W 35 22 8 18 44.4 1 3 33.3 5 8 62.5 2 0 2 3 1 1 0 3 -4
+p792
+aVZeljko Rebraca DET 11/04/2002 DET @ PHX W 17 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 1 2 0 2 -1
+p793
+aVJon Barry DET 11/04/2002 DET @ PHX W 13 5 1 4 25.0 1 4 25.0 2 2 100.0 0 2 2 1 2 0 0 0 6
+p794
+aVMichael Curry DET 11/03/2002 DET @ LAC L 19 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 2 0 0 0 3 1
+p795
+aVCorliss Williamson DET 11/03/2002 DET @ LAC L 23 9 3 13 23.1 0 0 - 3 4 75.0 0 4 4 1 0 0 1 3 0
+p796
+aVJon Barry DET 11/03/2002 DET @ LAC L 22 7 2 9 22.2 1 6 16.7 2 2 100.0 0 3 3 2 0 0 2 1 7
+p797
+aVRichard Hamilton DET 11/03/2002 DET @ LAC L 33 25 9 20 45.0 0 1 0.0 7 7 100.0 0 2 2 2 0 1 1 2 -12
+p798
+aVBen Wallace DET 11/03/2002 DET @ LAC L 43 3 1 4 25.0 0 0 - 1 4 25.0 5 11 16 1 0 4 1 5 -1
+p799
+aVClifford Robinson DET 11/03/2002 DET @ LAC L 27 13 5 8 62.5 1 4 25.0 2 2 100.0 1 3 4 3 2 1 3 4 1
+p800
+aVMehmet Okur DET 11/03/2002 DET @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p801
+aVChauncey Billups DET 11/03/2002 DET @ LAC L 25 7 3 11 27.3 1 5 20.0 0 0 - 1 9 10 2 2 0 0 3 -8
+p802
+aVChucky Atkins DET 11/03/2002 DET @ LAC L 24 6 2 6 33.3 2 5 40.0 0 0 - 1 2 3 2 0 0 0 2 1
+p803
+aVZeljko Rebraca DET 11/03/2002 DET @ LAC L 24 2 1 7 14.3 0 0 - 0 2 0.0 1 4 5 2 0 1 0 4 1
+p804
+aVCorliss Williamson DET 11/01/2002 DET vs. MEM W 13 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 2 0 1 2 5 10
+p805
+aVBen Wallace DET 11/01/2002 DET vs. MEM W 34 8 4 8 50.0 0 0 - 0 2 0.0 2 12 14 1 1 1 0 3 13
+p806
+aVMichael Curry DET 11/01/2002 DET vs. MEM W 20 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 2 13
+p807
+aVRichard Hamilton DET 11/01/2002 DET vs. MEM W 32 23 7 15 46.7 1 1 100.0 8 10 80.0 0 5 5 3 1 0 2 2 17
+p808
+aVTayshaun Prince DET 11/01/2002 DET vs. MEM W 7 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 1 -1
+p809
+aVChauncey Billups DET 11/01/2002 DET vs. MEM W 23 15 6 12 50.0 1 3 33.3 2 2 100.0 0 1 1 5 0 0 3 1 15
+p810
+aVZeljko Rebraca DET 11/01/2002 DET vs. MEM W 27 13 5 6 83.3 0 0 - 3 4 75.0 2 4 6 0 0 0 2 3 20
+p811
+aVClifford Robinson DET 11/01/2002 DET vs. MEM W 22 11 4 7 57.1 1 3 33.3 2 3 66.7 0 3 3 5 0 1 1 5 15
+p812
+aVHubert Davis DET 11/01/2002 DET vs. MEM W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p813
+aVMehmet Okur DET 11/01/2002 DET vs. MEM W 8 6 2 4 50.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 2 2 1
+p814
+aVJon Barry DET 11/01/2002 DET vs. MEM W 23 6 2 3 66.7 2 2 100.0 0 0 - 1 3 4 4 0 0 1 3 9
+p815
+aVChucky Atkins DET 11/01/2002 DET vs. MEM W 25 10 3 8 37.5 2 4 50.0 2 2 100.0 0 1 1 7 2 0 1 1 8
+p816
+aVClifford Robinson DET 10/30/2002 DET vs. NYK W 33 6 2 7 28.6 0 3 0.0 2 4 50.0 2 4 6 3 0 3 4 2 10
+p817
+aVChauncey Billups DET 10/30/2002 DET vs. NYK W 23 16 5 9 55.6 1 3 33.3 5 6 83.3 1 0 1 2 1 0 3 2 -6
+p818
+aVMichael Curry DET 10/30/2002 DET vs. NYK W 26 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 1 1 4 -1
+p819
+aVChucky Atkins DET 10/30/2002 DET vs. NYK W 25 12 3 10 30.0 3 8 37.5 3 4 75.0 0 3 3 4 0 0 1 1 15
+p820
+aVCorliss Williamson DET 10/30/2002 DET vs. NYK W 22 10 3 10 30.0 0 0 - 4 5 80.0 1 4 5 1 0 0 2 4 12
+p821
+aVJon Barry DET 10/30/2002 DET vs. NYK W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 10
+p822
+aVZeljko Rebraca DET 10/30/2002 DET vs. NYK W 22 10 4 6 66.7 0 0 - 2 2 100.0 4 5 9 1 2 0 3 4 -3
+p823
+aVRichard Hamilton DET 10/30/2002 DET vs. NYK W 28 22 8 21 38.1 1 4 25.0 5 6 83.3 2 4 6 1 0 0 2 2 -1
+p824
+aVTayshaun Prince DET 10/30/2002 DET vs. NYK W 7 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 0 0 1 0 -2
+p825
+aVBen Wallace DET 10/30/2002 DET vs. NYK W 40 4 1 2 50.0 0 0 - 2 2 100.0 3 11 14 1 2 2 3 4 11
+p826
+a.

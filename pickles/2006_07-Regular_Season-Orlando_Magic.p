@@ -1,0 +1,1686 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHedo Turkoglu ORL 04/18/2007 ORL vs. MIA W 28 15 5 15 33.3 2 4 50.0 3 5 60.0 4 4 8 1 2 0 1 1 20
+p2
+aVTrevor Ariza ORL 04/18/2007 ORL vs. MIA W 19 8 2 5 40.0 0 0 - 4 6 66.7 1 5 6 1 1 1 1 2 6
+p3
+aVPat Garrity ORL 04/18/2007 ORL vs. MIA W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 1
+p4
+aVGrant Hill ORL 04/18/2007 ORL vs. MIA W 26 17 7 11 63.6 0 0 - 3 5 60.0 0 3 3 3 1 1 0 2 14
+p5
+aVJameer Nelson ORL 04/18/2007 ORL vs. MIA W 27 8 4 7 57.1 0 1 0.0 0 0 - 1 4 5 6 0 0 1 2 14
+p6
+aVDwight Howard ORL 04/18/2007 ORL vs. MIA W 27 12 5 8 62.5 0 0 - 2 4 50.0 3 11 14 1 0 1 3 2 26
+p7
+aVBo Outlaw ORL 04/18/2007 ORL vs. MIA W 23 2 1 2 50.0 0 0 - 0 0 - 1 5 6 2 0 0 0 1 5
+p8
+aVKeith Bogans ORL 04/18/2007 ORL vs. MIA W 6 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 0 0 0 0 0 5
+p9
+aVTony Battie ORL 04/18/2007 ORL vs. MIA W 26 4 1 6 16.7 0 0 - 2 2 100.0 1 3 4 2 0 1 0 1 14
+p10
+aVJJ Redick ORL 04/18/2007 ORL vs. MIA W 11 10 3 5 60.0 2 3 66.7 2 2 100.0 1 0 1 0 0 0 0 0 3
+p11
+aVCarlos Arroyo ORL 04/18/2007 ORL vs. MIA W 21 9 4 7 57.1 1 2 50.0 0 2 0.0 1 1 2 1 0 0 1 3 12
+p12
+aVKeyon Dooling ORL 04/18/2007 ORL vs. MIA W 17 4 1 5 20.0 0 1 0.0 2 3 66.7 2 1 3 5 3 0 1 0 10
+p13
+aVTrevor Ariza ORL 04/17/2007 ORL @ WAS W 17 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 0 1 1 5 3
+p14
+aVCarlos Arroyo ORL 04/17/2007 ORL @ WAS W 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 4 0 0 0 4 8
+p15
+aVKeith Bogans ORL 04/17/2007 ORL @ WAS W 13 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 3 3
+p16
+aVTony Battie ORL 04/17/2007 ORL @ WAS W 14 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 0 4 0
+p17
+aVHedo Turkoglu ORL 04/17/2007 ORL @ WAS W 41 26 9 16 56.3 1 3 33.3 7 7 100.0 1 5 6 1 0 1 3 5 6
+p18
+aVJameer Nelson ORL 04/17/2007 ORL @ WAS W 23 7 2 8 25.0 0 1 0.0 3 3 100.0 0 1 1 5 0 0 3 2 -1
+p19
+aVDarko Milicic ORL 04/17/2007 ORL @ WAS W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 2 0 1 -4
+p20
+aVDwight Howard ORL 04/17/2007 ORL @ WAS W 41 17 7 11 63.6 0 0 - 3 6 50.0 3 9 12 2 0 3 6 3 10
+p21
+aVGrant Hill ORL 04/17/2007 ORL @ WAS W 35 13 4 7 57.1 0 0 - 5 6 83.3 0 4 4 2 1 2 3 2 3
+p22
+aVKeyon Dooling ORL 04/17/2007 ORL @ WAS W 26 9 2 7 28.6 0 1 0.0 5 5 100.0 1 1 2 2 0 1 0 2 5
+p23
+aVJJ Redick ORL 04/17/2007 ORL @ WAS W 7 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 0 -3
+p24
+aVDarko Milicic ORL 04/15/2007 ORL vs. BOS W 32 6 3 4 75.0 0 0 - 0 2 0.0 1 2 3 1 0 5 3 2 -6
+p25
+aVGrant Hill ORL 04/15/2007 ORL vs. BOS W 33 16 5 10 50.0 0 0 - 6 7 85.7 0 3 3 0 2 0 2 2 2
+p26
+aVTrevor Ariza ORL 04/15/2007 ORL vs. BOS W 16 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 0 0 0 1 0 -2
+p27
+aVCarlos Arroyo ORL 04/15/2007 ORL vs. BOS W 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 2 -5
+p28
+aVKeyon Dooling ORL 04/15/2007 ORL vs. BOS W 15 12 3 5 60.0 2 2 100.0 4 5 80.0 0 1 1 1 0 0 1 1 1
+p29
+aVHedo Turkoglu ORL 04/15/2007 ORL vs. BOS W 33 20 6 15 40.0 2 7 28.6 6 6 100.0 1 5 6 2 0 3 4 4 -1
+p30
+aVJameer Nelson ORL 04/15/2007 ORL vs. BOS W 35 16 4 9 44.4 1 2 50.0 7 7 100.0 2 4 6 4 1 0 4 2 7
+p31
+aVDwight Howard ORL 04/15/2007 ORL vs. BOS W 41 10 3 8 37.5 0 0 - 4 12 33.3 4 10 14 3 2 2 5 3 13
+p32
+aVTony Battie ORL 04/15/2007 ORL vs. BOS W 22 0 0 5 0.0 0 0 - 0 0 - 2 2 4 1 0 1 1 5 1
+p33
+aVTrevor Ariza ORL 04/14/2007 ORL @ PHI W 16 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -5
+p34
+aVKeyon Dooling ORL 04/14/2007 ORL @ PHI W 25 8 3 6 50.0 0 2 0.0 2 2 100.0 0 0 0 5 0 0 0 4 3
+p35
+aVDwight Howard ORL 04/14/2007 ORL @ PHI W 43 35 14 15 93.3 0 0 - 7 10 70.0 5 6 11 5 3 0 5 3 23
+p36
+aVJameer Nelson ORL 04/14/2007 ORL @ PHI W 29 10 4 10 40.0 1 1 100.0 1 1 100.0 0 3 3 5 3 0 2 5 23
+p37
+aVHedo Turkoglu ORL 04/14/2007 ORL @ PHI W 36 13 5 12 41.7 3 7 42.9 0 0 - 0 7 7 3 1 0 1 4 24
+p38
+aVDarko Milicic ORL 04/14/2007 ORL @ PHI W 29 14 6 11 54.5 0 0 - 2 2 100.0 3 4 7 3 0 3 1 2 8
+p39
+aVCarlos Arroyo ORL 04/14/2007 ORL @ PHI W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p40
+aVKeith Bogans ORL 04/14/2007 ORL @ PHI W 8 5 2 3 66.7 1 2 50.0 0 0 - 1 2 3 1 1 0 0 2 -2
+p41
+aVGrant Hill ORL 04/14/2007 ORL @ PHI W 29 11 5 12 41.7 0 0 - 1 3 33.3 0 2 2 1 1 1 3 1 15
+p42
+aVTony Battie ORL 04/14/2007 ORL @ PHI W 15 2 1 3 33.3 0 0 - 0 0 - 3 1 4 2 0 0 2 4 3
+p43
+aVDwight Howard ORL 04/11/2007 ORL @ DET L 42 12 3 12 25.0 0 0 - 6 16 37.5 8 8 16 1 0 2 2 1 -10
+p44
+aVTrevor Ariza ORL 04/11/2007 ORL @ DET L 24 9 4 9 44.4 0 0 - 1 2 50.0 2 3 5 0 0 0 1 1 9
+p45
+aVHedo Turkoglu ORL 04/11/2007 ORL @ DET L 32 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 6 0 1 2 2 -11
+p46
+aVGrant Hill ORL 04/11/2007 ORL @ DET L 35 22 10 12 83.3 0 0 - 2 2 100.0 1 3 4 4 0 2 1 0 -10
+p47
+aVJJ Redick ORL 04/11/2007 ORL @ DET L 9 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 0
+p48
+aVDarko Milicic ORL 04/11/2007 ORL @ DET L 21 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 2 0 0 1 3 5
+p49
+aVTony Battie ORL 04/11/2007 ORL @ DET L 26 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 1 0 2 3 -8
+p50
+aVJameer Nelson ORL 04/11/2007 ORL @ DET L 34 17 6 14 42.9 1 3 33.3 4 5 80.0 1 2 3 7 3 0 1 4 -7
+p51
+aVKeyon Dooling ORL 04/11/2007 ORL @ DET L 18 17 6 12 50.0 1 1 100.0 4 4 100.0 0 0 0 1 2 0 0 0 7
+p52
+aVDarko Milicic ORL 04/09/2007 ORL @ MIL W 24 11 5 5 100.0 0 0 - 1 4 25.0 2 7 9 4 1 1 1 3 16
+p53
+aVJJ Redick ORL 04/09/2007 ORL @ MIL W 18 7 2 6 33.3 1 4 25.0 2 2 100.0 0 0 0 3 1 0 1 1 -2
+p54
+aVKeith Bogans ORL 04/09/2007 ORL @ MIL W 9 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 0 -4
+p55
+aVTrevor Ariza ORL 04/09/2007 ORL @ MIL W 18 16 7 8 87.5 0 0 - 2 5 40.0 1 2 3 0 1 0 2 3 -2
+p56
+aVTony Battie ORL 04/09/2007 ORL @ MIL W 19 6 3 3 100.0 0 0 - 0 0 - 0 4 4 1 0 0 1 5 0
+p57
+aVDwight Howard ORL 04/09/2007 ORL @ MIL W 29 15 7 10 70.0 0 0 - 1 4 25.0 2 9 11 2 2 1 1 0 24
+p58
+aVBo Outlaw ORL 04/09/2007 ORL @ MIL W 6 2 1 1 100.0 0 0 - 0 1 0.0 0 2 2 1 0 1 0 1 0
+p59
+aVKeyon Dooling ORL 04/09/2007 ORL @ MIL W 16 8 4 6 66.7 0 0 - 0 0 - 0 0 0 4 2 0 1 3 2
+p60
+aVHedo Turkoglu ORL 04/09/2007 ORL @ MIL W 34 25 10 15 66.7 4 5 80.0 1 1 100.0 1 1 2 6 0 0 1 3 33
+p61
+aVJameer Nelson ORL 04/09/2007 ORL @ MIL W 26 12 4 8 50.0 0 2 0.0 4 5 80.0 1 3 4 9 2 0 2 1 18
+p62
+aVGrant Hill ORL 04/09/2007 ORL @ MIL W 28 7 3 8 37.5 0 0 - 1 1 100.0 0 4 4 1 0 0 2 0 22
+p63
+aVCarlos Arroyo ORL 04/09/2007 ORL @ MIL W 14 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 5 1 0 1 3 8
+p64
+aVKeith Bogans ORL 04/07/2007 ORL vs. MEM W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -1
+p65
+aVJJ Redick ORL 04/07/2007 ORL vs. MEM W 21 8 2 6 33.3 2 4 50.0 2 2 100.0 0 1 1 0 0 0 0 2 0
+p66
+aVHedo Turkoglu ORL 04/07/2007 ORL vs. MEM W 24 15 5 6 83.3 1 2 50.0 4 5 80.0 0 3 3 5 0 0 1 3 12
+p67
+aVDwight Howard ORL 04/07/2007 ORL vs. MEM W 32 31 10 13 76.9 0 0 - 11 17 64.7 3 8 11 2 1 0 2 3 39
+p68
+aVKeyon Dooling ORL 04/07/2007 ORL vs. MEM W 18 7 3 6 50.0 0 0 - 1 2 50.0 0 0 0 0 0 1 1 2 -8
+p69
+aVGrant Hill ORL 04/07/2007 ORL vs. MEM W 29 15 7 8 87.5 0 0 - 1 2 50.0 1 2 3 3 2 0 0 1 37
+p70
+aVCarlos Arroyo ORL 04/07/2007 ORL vs. MEM W 14 6 1 5 20.0 0 0 - 4 4 100.0 0 0 0 2 0 0 0 4 -10
+p71
+aVTrevor Ariza ORL 04/07/2007 ORL vs. MEM W 21 14 4 7 57.1 0 1 0.0 6 6 100.0 3 4 7 4 3 0 5 1 11
+p72
+aVPat Garrity ORL 04/07/2007 ORL vs. MEM W 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 0 1 0 0 1 -5
+p73
+aVTony Battie ORL 04/07/2007 ORL vs. MEM W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 5 5 2 1 1 2 3 31
+p74
+aVDarko Milicic ORL 04/07/2007 ORL vs. MEM W 21 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 1 1 2 2 3 -7
+p75
+aVJameer Nelson ORL 04/07/2007 ORL vs. MEM W 21 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 4 36
+p76
+aVDarko Milicic ORL 04/04/2007 ORL vs. TOR L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -1
+p77
+aVTony Battie ORL 04/04/2007 ORL vs. TOR L 26 13 6 7 85.7 0 0 - 1 3 33.3 2 3 5 0 2 0 0 3 -3
+p78
+aVJameer Nelson ORL 04/04/2007 ORL vs. TOR L 29 6 2 8 25.0 0 2 0.0 2 2 100.0 0 5 5 3 0 0 2 5 -5
+p79
+aVHedo Turkoglu ORL 04/04/2007 ORL vs. TOR L 45 37 12 22 54.5 6 10 60.0 7 7 100.0 0 4 4 5 3 0 6 3 0
+p80
+aVDwight Howard ORL 04/04/2007 ORL vs. TOR L 45 18 7 12 58.3 0 0 - 4 6 66.7 5 10 15 5 0 2 7 3 -2
+p81
+aVGrant Hill ORL 04/04/2007 ORL vs. TOR L 38 19 8 15 53.3 0 0 - 3 5 60.0 3 2 5 3 2 0 3 3 3
+p82
+aVKeyon Dooling ORL 04/04/2007 ORL vs. TOR L 22 10 3 6 50.0 0 0 - 4 4 100.0 1 0 1 3 2 1 2 2 2
+p83
+aVTrevor Ariza ORL 04/04/2007 ORL vs. TOR L 15 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 6 -7
+p84
+aVJJ Redick ORL 04/04/2007 ORL vs. TOR L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -2
+p85
+aVCarlos Arroyo ORL 04/04/2007 ORL vs. TOR L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 0
+p86
+aVHedo Turkoglu ORL 04/01/2007 ORL vs. MIN L 22 6 3 12 25.0 0 2 0.0 0 0 - 2 3 5 2 0 0 1 2 -10
+p87
+aVDwight Howard ORL 04/01/2007 ORL vs. MIN L 39 8 3 5 60.0 0 0 - 2 4 50.0 5 14 19 1 0 1 5 3 -9
+p88
+aVKeyon Dooling ORL 04/01/2007 ORL vs. MIN L 23 11 3 8 37.5 0 1 0.0 5 7 71.4 1 3 4 2 1 0 1 1 4
+p89
+aVJJ Redick ORL 04/01/2007 ORL vs. MIN L 16 9 3 8 37.5 1 5 20.0 2 3 66.7 0 2 2 1 0 0 0 2 8
+p90
+aVJameer Nelson ORL 04/01/2007 ORL vs. MIN L 33 8 4 14 28.6 0 3 0.0 0 0 - 0 0 0 8 1 0 3 2 -8
+p91
+aVDarko Milicic ORL 04/01/2007 ORL vs. MIN L 38 18 6 9 66.7 0 0 - 6 10 60.0 6 4 10 2 3 3 3 3 10
+p92
+aVTony Battie ORL 04/01/2007 ORL vs. MIN L 15 3 1 1 100.0 0 0 - 1 1 100.0 1 1 2 1 1 0 1 3 -11
+p93
+aVTrevor Ariza ORL 04/01/2007 ORL vs. MIN L 33 18 8 14 57.1 0 0 - 2 2 100.0 3 3 6 0 0 2 0 5 10
+p94
+aVGrant Hill ORL 04/01/2007 ORL vs. MIN L 45 23 10 16 62.5 0 0 - 3 4 75.0 0 2 2 1 1 0 1 1 1
+p95
+aVHedo Turkoglu ORL 03/30/2007 ORL vs. IND W 23 10 3 13 23.1 0 2 0.0 4 4 100.0 3 2 5 4 1 0 2 1 -1
+p96
+aVGrant Hill ORL 03/30/2007 ORL vs. IND W 29 22 4 10 40.0 0 0 - 14 16 87.5 1 4 5 0 1 0 1 2 -6
+p97
+aVKeyon Dooling ORL 03/30/2007 ORL vs. IND W 13 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 3 4 2
+p98
+aVDarko Milicic ORL 03/30/2007 ORL vs. IND W 20 2 1 1 100.0 0 0 - 0 0 - 2 4 6 1 1 0 1 1 8
+p99
+aVJJ Redick ORL 03/30/2007 ORL vs. IND W 19 7 2 4 50.0 1 2 50.0 2 2 100.0 0 4 4 2 0 0 0 2 12
+p100
+aVTrevor Ariza ORL 03/30/2007 ORL vs. IND W 26 17 6 7 85.7 0 0 - 5 7 71.4 1 1 2 0 4 0 3 2 6
+p101
+aVJameer Nelson ORL 03/30/2007 ORL vs. IND W 27 7 2 5 40.0 0 2 0.0 3 4 75.0 0 2 2 2 0 0 3 5 -6
+p102
+aVTony Battie ORL 03/30/2007 ORL vs. IND W 29 9 4 7 57.1 0 0 - 1 2 50.0 1 9 10 2 0 0 1 2 4
+p103
+aVDwight Howard ORL 03/30/2007 ORL vs. IND W 43 10 4 10 40.0 0 0 - 2 4 50.0 1 7 8 2 1 5 7 4 11
+p104
+aVCarlos Arroyo ORL 03/30/2007 ORL vs. IND W 13 8 2 3 66.7 1 1 100.0 3 4 75.0 0 0 0 2 0 0 0 0 10
+p105
+aVKeyon Dooling ORL 03/28/2007 ORL @ BOS L 23 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 2 0 0 2 0 -5
+p106
+aVGrant Hill ORL 03/28/2007 ORL @ BOS L 48 20 9 17 52.9 0 0 - 2 2 100.0 0 1 1 2 1 0 2 4 -15
+p107
+aVDarko Milicic ORL 03/28/2007 ORL @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p108
+aVTony Battie ORL 03/28/2007 ORL @ BOS L 40 13 6 17 35.3 0 1 0.0 1 4 25.0 4 7 11 1 0 0 0 2 -12
+p109
+aVTrevor Ariza ORL 03/28/2007 ORL @ BOS L 16 7 2 4 50.0 0 0 - 3 4 75.0 2 3 5 0 1 0 1 2 13
+p110
+aVHedo Turkoglu ORL 03/28/2007 ORL @ BOS L 47 20 7 14 50.0 3 6 50.0 3 5 60.0 2 7 9 4 1 1 4 5 -13
+p111
+aVJJ Redick ORL 03/28/2007 ORL @ BOS L 10 3 0 2 0.0 0 0 - 3 3 100.0 0 1 1 3 0 0 2 0 -8
+p112
+aVJameer Nelson ORL 03/28/2007 ORL @ BOS L 42 9 4 16 25.0 0 4 0.0 1 1 100.0 0 2 2 4 0 0 3 5 -19
+p113
+aVDwight Howard ORL 03/28/2007 ORL @ BOS L 51 12 4 9 44.4 0 0 - 4 12 33.3 3 11 14 3 2 6 6 3 3
+p114
+aVCarlos Arroyo ORL 03/28/2007 ORL @ BOS L 11 6 1 2 50.0 0 0 - 4 4 100.0 0 1 1 0 0 1 0 0 8
+p115
+aVKeyon Dooling ORL 03/26/2007 ORL @ NYK W 15 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -3
+p116
+aVGrant Hill ORL 03/26/2007 ORL @ NYK W 24 6 2 6 33.3 0 0 - 2 4 50.0 0 1 1 3 0 0 1 3 7
+p117
+aVDwight Howard ORL 03/26/2007 ORL @ NYK W 42 10 5 7 71.4 0 0 - 0 4 0.0 1 13 14 5 3 4 6 0 3
+p118
+aVJameer Nelson ORL 03/26/2007 ORL @ NYK W 34 18 7 16 43.8 2 6 33.3 2 2 100.0 3 2 5 4 1 0 3 4 9
+p119
+aVHedo Turkoglu ORL 03/26/2007 ORL @ NYK W 34 18 6 13 46.2 2 6 33.3 4 4 100.0 1 3 4 5 0 0 1 3 18
+p120
+aVDarko Milicic ORL 03/26/2007 ORL @ NYK W 17 4 2 2 100.0 0 0 - 0 0 - 1 1 2 2 0 1 2 3 -2
+p121
+aVTrevor Ariza ORL 03/26/2007 ORL @ NYK W 18 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 3 0 1 2 3 -13
+p122
+aVTony Battie ORL 03/26/2007 ORL @ NYK W 30 14 6 7 85.7 0 0 - 2 3 66.7 1 2 3 0 0 1 2 5 8
+p123
+aVJJ Redick ORL 03/26/2007 ORL @ NYK W 26 12 4 10 40.0 2 5 40.0 2 2 100.0 0 2 2 0 0 0 1 4 -2
+p124
+aVJameer Nelson ORL 03/23/2007 ORL vs. NJN W 32 22 8 19 42.1 1 4 25.0 5 5 100.0 2 4 6 3 1 1 2 3 8
+p125
+aVDarko Milicic ORL 03/23/2007 ORL vs. NJN W 17 7 3 5 60.0 0 0 - 1 3 33.3 3 2 5 0 0 1 2 2 -1
+p126
+aVTony Battie ORL 03/23/2007 ORL vs. NJN W 21 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 1 0 2 2 -1
+p127
+aVCarlos Arroyo ORL 03/23/2007 ORL vs. NJN W 8 9 3 4 75.0 0 0 - 3 4 75.0 0 2 2 1 0 0 1 3 -1
+p128
+aVJJ Redick ORL 03/23/2007 ORL vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p129
+aVKeyon Dooling ORL 03/23/2007 ORL vs. NJN W 13 6 1 5 20.0 0 0 - 4 4 100.0 1 0 1 0 0 0 0 1 1
+p130
+aVHedo Turkoglu ORL 03/23/2007 ORL vs. NJN W 42 11 3 13 23.1 1 4 25.0 4 4 100.0 1 6 7 1 1 1 1 2 9
+p131
+aVDwight Howard ORL 03/23/2007 ORL vs. NJN W 38 10 3 6 50.0 0 0 - 4 8 50.0 3 13 16 2 0 0 3 4 12
+p132
+aVTrevor Ariza ORL 03/23/2007 ORL vs. NJN W 28 7 3 8 37.5 0 0 - 1 2 50.0 4 3 7 2 1 1 1 4 10
+p133
+aVGrant Hill ORL 03/23/2007 ORL vs. NJN W 35 12 6 12 50.0 0 0 - 0 0 - 1 3 4 3 0 0 3 2 4
+p134
+aVHedo Turkoglu ORL 03/21/2007 ORL @ TOR L 24 4 1 11 9.1 1 1 100.0 1 2 50.0 1 3 4 1 0 0 0 3 -12
+p135
+aVJJ Redick ORL 03/21/2007 ORL @ TOR L 11 4 1 4 25.0 1 3 33.3 1 1 100.0 0 1 1 0 0 0 0 1 -6
+p136
+aVGrant Hill ORL 03/21/2007 ORL @ TOR L 38 24 8 14 57.1 0 0 - 8 9 88.9 0 5 5 1 2 0 3 4 -1
+p137
+aVJameer Nelson ORL 03/21/2007 ORL @ TOR L 31 15 4 12 33.3 3 5 60.0 4 5 80.0 0 1 1 4 0 0 1 5 -8
+p138
+aVDarko Milicic ORL 03/21/2007 ORL @ TOR L 21 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 1 3 0 3 6
+p139
+aVTony Battie ORL 03/21/2007 ORL @ TOR L 17 6 2 6 33.3 0 0 - 2 3 66.7 2 5 7 0 1 0 0 2 -17
+p140
+aVKeyon Dooling ORL 03/21/2007 ORL @ TOR L 25 6 3 12 25.0 0 1 0.0 0 0 - 0 1 1 6 4 0 1 2 7
+p141
+aVDwight Howard ORL 03/21/2007 ORL @ TOR L 44 17 6 8 75.0 0 0 - 5 13 38.5 1 11 12 3 0 3 3 3 -8
+p142
+aVTrevor Ariza ORL 03/21/2007 ORL @ TOR L 28 7 2 4 50.0 0 0 - 3 4 75.0 2 2 4 1 1 0 2 2 4
+p143
+aVBo Outlaw ORL 03/18/2007 ORL @ MIA W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p144
+aVDarko Milicic ORL 03/18/2007 ORL @ MIA W 26 12 4 6 66.7 0 0 - 4 4 100.0 3 7 10 0 0 2 1 4 2
+p145
+aVTrevor Ariza ORL 03/18/2007 ORL @ MIA W 17 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 4
+p146
+aVTony Battie ORL 03/18/2007 ORL @ MIA W 28 8 4 8 50.0 0 0 - 0 0 - 3 5 8 0 1 0 1 4 10
+p147
+aVJJ Redick ORL 03/18/2007 ORL @ MIA W 21 10 4 8 50.0 2 4 50.0 0 0 - 1 1 2 1 1 0 0 1 1
+p148
+aVHedo Turkoglu ORL 03/18/2007 ORL @ MIA W 35 20 8 18 44.4 2 4 50.0 2 2 100.0 1 2 3 4 2 1 1 3 14
+p149
+aVJameer Nelson ORL 03/18/2007 ORL @ MIA W 30 11 4 11 36.4 0 0 - 3 3 100.0 1 2 3 6 0 0 2 3 9
+p150
+aVDwight Howard ORL 03/18/2007 ORL @ MIA W 34 17 6 6 100.0 0 0 - 5 10 50.0 4 7 11 0 0 1 5 4 9
+p151
+aVKeyon Dooling ORL 03/18/2007 ORL @ MIA W 21 7 3 8 37.5 0 1 0.0 1 1 100.0 1 2 3 3 1 0 1 2 4
+p152
+aVGrant Hill ORL 03/18/2007 ORL @ MIA W 25 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 14
+p153
+aVKeyon Dooling ORL 03/17/2007 ORL vs. SAC L 26 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 3 1 0 2 3 -8
+p154
+aVCarlos Arroyo ORL 03/17/2007 ORL vs. SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p155
+aVGrant Hill ORL 03/17/2007 ORL vs. SAC L 25 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 2 0 0 1 5 -12
+p156
+aVJJ Redick ORL 03/17/2007 ORL vs. SAC L 21 12 4 8 50.0 1 4 25.0 3 3 100.0 0 2 2 3 0 0 0 4 -1
+p157
+aVHedo Turkoglu ORL 03/17/2007 ORL vs. SAC L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 1
+p158
+aVDarko Milicic ORL 03/17/2007 ORL vs. SAC L 28 10 5 6 83.3 0 0 - 0 0 - 1 4 5 1 0 1 2 4 -5
+p159
+aVTrevor Ariza ORL 03/17/2007 ORL vs. SAC L 27 17 7 13 53.8 0 1 0.0 3 5 60.0 1 6 7 1 2 0 4 5 -6
+p160
+aVJameer Nelson ORL 03/17/2007 ORL vs. SAC L 39 23 7 15 46.7 0 0 - 9 9 100.0 1 4 5 4 0 0 4 6 -16
+p161
+aVTony Battie ORL 03/17/2007 ORL vs. SAC L 23 2 1 8 12.5 0 0 - 0 0 - 1 5 6 0 0 0 0 2 -2
+p162
+aVDwight Howard ORL 03/17/2007 ORL vs. SAC L 40 6 2 10 20.0 0 0 - 2 4 50.0 2 10 12 3 0 2 5 2 -12
+p163
+aVKeyon Dooling ORL 03/14/2007 ORL vs. UTA W 21 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 2 2 2 3 0 20
+p164
+aVJameer Nelson ORL 03/14/2007 ORL vs. UTA W 27 8 2 6 33.3 0 2 0.0 4 5 80.0 0 2 2 5 0 0 4 3 -8
+p165
+aVHedo Turkoglu ORL 03/14/2007 ORL vs. UTA W 38 22 7 16 43.8 0 4 0.0 8 11 72.7 2 6 8 4 4 0 3 3 4
+p166
+aVJJ Redick ORL 03/14/2007 ORL vs. UTA W 22 8 2 5 40.0 0 2 0.0 4 4 100.0 0 0 0 0 0 0 2 2 10
+p167
+aVDwight Howard ORL 03/14/2007 ORL vs. UTA W 44 31 13 16 81.3 0 0 - 5 7 71.4 5 10 15 2 0 2 3 3 10
+p168
+aVTrevor Ariza ORL 03/14/2007 ORL vs. UTA W 24 8 4 7 57.1 0 1 0.0 0 0 - 1 5 6 2 3 1 1 3 10
+p169
+aVGrant Hill ORL 03/14/2007 ORL vs. UTA W 33 12 6 9 66.7 0 0 - 0 0 - 0 1 1 3 0 1 6 1 10
+p170
+aVTony Battie ORL 03/14/2007 ORL vs. UTA W 29 8 4 7 57.1 0 0 - 0 0 - 2 2 4 0 0 1 0 3 -1
+p171
+aVPat Garrity ORL 03/12/2007 ORL @ CHA L 11 4 1 3 33.3 1 2 50.0 1 1 100.0 0 1 1 2 0 0 0 2 4
+p172
+aVBo Outlaw ORL 03/12/2007 ORL @ CHA L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p173
+aVDwight Howard ORL 03/12/2007 ORL @ CHA L 47 26 8 11 72.7 0 0 - 10 19 52.6 4 7 11 4 1 2 1 1 -11
+p174
+aVJJ Redick ORL 03/12/2007 ORL @ CHA L 12 2 1 2 50.0 0 1 0.0 0 0 - 2 0 2 1 0 0 1 1 2
+p175
+aVJameer Nelson ORL 03/12/2007 ORL @ CHA L 37 17 6 14 42.9 1 2 50.0 4 5 80.0 3 5 8 5 2 0 2 5 -7
+p176
+aVTrevor Ariza ORL 03/12/2007 ORL @ CHA L 26 12 6 7 85.7 0 0 - 0 2 0.0 1 3 4 0 1 1 4 3 -4
+p177
+aVHedo Turkoglu ORL 03/12/2007 ORL @ CHA L 27 23 8 15 53.3 1 3 33.3 6 7 85.7 0 6 6 4 2 0 3 4 -6
+p178
+aVDarko Milicic ORL 03/12/2007 ORL @ CHA L 26 8 3 9 33.3 0 0 - 2 2 100.0 3 1 4 1 1 2 0 4 -10
+p179
+aVKeith Bogans ORL 03/12/2007 ORL @ CHA L 12 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 2 0 0 1 0 -4
+p180
+aVGrant Hill ORL 03/12/2007 ORL @ CHA L 22 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 1 0 2 2 2 -13
+p181
+aVCarlos Arroyo ORL 03/12/2007 ORL @ CHA L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p182
+aVTravis Diener ORL 03/12/2007 ORL @ CHA L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p183
+aVHedo Turkoglu ORL 03/11/2007 ORL @ HOU L 33 10 3 9 33.3 2 3 66.7 2 2 100.0 0 2 2 4 1 0 2 2 -12
+p184
+aVTrevor Ariza ORL 03/11/2007 ORL @ HOU L 18 7 3 6 50.0 0 0 - 1 4 25.0 4 1 5 0 1 0 1 4 -1
+p185
+aVDarko Milicic ORL 03/11/2007 ORL @ HOU L 35 15 6 12 50.0 0 0 - 3 3 100.0 2 7 9 3 0 4 2 6 -14
+p186
+aVJJ Redick ORL 03/11/2007 ORL @ HOU L 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p187
+aVKeyon Dooling ORL 03/11/2007 ORL @ HOU L 21 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 4 0 0 0 0 5
+p188
+aVGrant Hill ORL 03/11/2007 ORL @ HOU L 30 17 8 14 57.1 0 0 - 1 2 50.0 1 1 2 0 0 0 2 2 -10
+p189
+aVJameer Nelson ORL 03/11/2007 ORL @ HOU L 30 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 5 2 0 1 1 -13
+p190
+aVPat Garrity ORL 03/11/2007 ORL @ HOU L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p191
+aVDwight Howard ORL 03/11/2007 ORL @ HOU L 32 16 6 12 50.0 0 0 - 4 5 80.0 3 9 12 3 2 1 2 2 -13
+p192
+aVKeith Bogans ORL 03/11/2007 ORL @ HOU L 22 8 4 9 44.4 0 3 0.0 0 2 0.0 1 3 4 1 0 0 0 3 -1
+p193
+aVCarlos Arroyo ORL 03/11/2007 ORL @ HOU L 15 4 1 5 20.0 1 1 100.0 1 2 50.0 0 0 0 3 1 0 0 0 -2
+p194
+aVTrevor Ariza ORL 03/08/2007 ORL vs. CHI L 29 10 4 5 80.0 0 0 - 2 4 50.0 1 3 4 3 1 0 2 1 -11
+p195
+aVGrant Hill ORL 03/08/2007 ORL vs. CHI L 28 7 0 5 0.0 0 0 - 7 10 70.0 0 0 0 1 2 0 1 1 -27
+p196
+aVDwight Howard ORL 03/08/2007 ORL vs. CHI L 37 17 6 11 54.5 0 0 - 5 14 35.7 7 7 14 2 1 2 4 5 -14
+p197
+aVHedo Turkoglu ORL 03/08/2007 ORL vs. CHI L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 3 1 0 1 0 -11
+p198
+aVKeyon Dooling ORL 03/08/2007 ORL vs. CHI L 22 8 4 9 44.4 0 0 - 0 0 - 0 0 0 0 3 0 1 3 -7
+p199
+aVBo Outlaw ORL 03/08/2007 ORL vs. CHI L 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p200
+aVJameer Nelson ORL 03/08/2007 ORL vs. CHI L 29 13 6 13 46.2 0 2 0.0 1 2 50.0 0 0 0 1 0 0 3 3 -19
+p201
+aVKeith Bogans ORL 03/08/2007 ORL vs. CHI L 18 6 2 5 40.0 1 4 25.0 1 1 100.0 0 1 1 0 1 0 2 2 -3
+p202
+aVPat Garrity ORL 03/08/2007 ORL vs. CHI L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 1
+p203
+aVDarko Milicic ORL 03/08/2007 ORL vs. CHI L 16 2 1 5 20.0 0 0 - 0 0 - 2 3 5 1 0 0 0 5 -19
+p204
+aVJJ Redick ORL 03/08/2007 ORL vs. CHI L 16 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 0 1 0 1 0 -2
+p205
+aVCarlos Arroyo ORL 03/08/2007 ORL vs. CHI L 19 6 3 8 37.5 0 0 - 0 1 0.0 0 1 1 1 0 0 2 4 -5
+p206
+aVTravis Diener ORL 03/05/2007 ORL vs. MIL W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p207
+aVTrevor Ariza ORL 03/05/2007 ORL vs. MIL W 32 20 6 11 54.5 0 0 - 8 9 88.9 1 5 6 3 1 1 2 1 3
+p208
+aVDwight Howard ORL 03/05/2007 ORL vs. MIL W 26 10 4 5 80.0 0 0 - 2 2 100.0 0 9 9 2 1 2 5 4 19
+p209
+aVKeyon Dooling ORL 03/05/2007 ORL vs. MIL W 19 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 2 0 0 1 -2
+p210
+aVKeith Bogans ORL 03/05/2007 ORL vs. MIL W 29 7 2 7 28.6 1 5 20.0 2 2 100.0 2 1 3 0 1 0 2 2 20
+p211
+aVHedo Turkoglu ORL 03/05/2007 ORL vs. MIL W 29 25 10 14 71.4 3 5 60.0 2 2 100.0 1 8 9 4 2 0 2 2 23
+p212
+aVJJ Redick ORL 03/05/2007 ORL vs. MIL W 15 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 2 0 0 1 0 -6
+p213
+aVCarlos Arroyo ORL 03/05/2007 ORL vs. MIL W 16 2 1 5 20.0 0 0 - 0 0 - 0 0 0 4 1 0 1 3 0
+p214
+aVBo Outlaw ORL 03/05/2007 ORL vs. MIL W 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 1
+p215
+aVPat Garrity ORL 03/05/2007 ORL vs. MIL W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -7
+p216
+aVJameer Nelson ORL 03/05/2007 ORL vs. MIL W 28 9 4 7 57.1 0 2 0.0 1 1 100.0 1 0 1 6 3 0 3 2 23
+p217
+aVDarko Milicic ORL 03/05/2007 ORL vs. MIL W 33 9 4 11 36.4 0 0 - 1 1 100.0 3 4 7 1 0 2 1 2 21
+p218
+aVKeyon Dooling ORL 03/03/2007 ORL @ DAL L 14 0 0 7 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p219
+aVJJ Redick ORL 03/03/2007 ORL @ DAL L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 7
+p220
+aVKeith Bogans ORL 03/03/2007 ORL @ DAL L 29 7 2 4 50.0 1 3 33.3 2 2 100.0 0 4 4 3 0 0 0 3 -15
+p221
+aVTrevor Ariza ORL 03/03/2007 ORL @ DAL L 22 11 5 8 62.5 0 0 - 1 3 33.3 1 0 1 1 1 0 1 1 10
+p222
+aVHedo Turkoglu ORL 03/03/2007 ORL @ DAL L 40 19 8 14 57.1 1 4 25.0 2 2 100.0 1 6 7 5 0 0 2 5 -7
+p223
+aVDwight Howard ORL 03/03/2007 ORL @ DAL L 41 25 9 14 64.3 0 0 - 7 11 63.6 4 6 10 4 0 4 1 3 -11
+p224
+aVJameer Nelson ORL 03/03/2007 ORL @ DAL L 30 17 5 7 71.4 2 2 100.0 5 5 100.0 0 1 1 0 1 0 5 3 -10
+p225
+aVCarlos Arroyo ORL 03/03/2007 ORL @ DAL L 18 10 5 7 71.4 0 0 - 0 0 - 0 1 1 0 1 0 0 2 5
+p226
+aVPat Garrity ORL 03/03/2007 ORL @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p227
+aVDarko Milicic ORL 03/03/2007 ORL @ DAL L 38 7 3 11 27.3 0 0 - 1 2 50.0 4 4 8 0 1 0 1 3 -9
+p228
+aVTrevor Ariza ORL 03/02/2007 ORL @ SAS L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -21
+p229
+aVHedo Turkoglu ORL 03/02/2007 ORL @ SAS L 30 22 7 8 87.5 1 2 50.0 7 9 77.8 0 4 4 1 1 0 2 3 -5
+p230
+aVKeith Bogans ORL 03/02/2007 ORL @ SAS L 25 4 1 3 33.3 0 2 0.0 2 2 100.0 0 3 3 0 0 0 3 1 2
+p231
+aVCarlos Arroyo ORL 03/02/2007 ORL @ SAS L 16 9 4 8 50.0 0 0 - 1 1 100.0 1 2 3 3 1 0 0 2 -19
+p232
+aVJJ Redick ORL 03/02/2007 ORL @ SAS L 22 4 1 5 20.0 0 3 0.0 2 2 100.0 0 3 3 0 0 0 1 1 -20
+p233
+aVPat Garrity ORL 03/02/2007 ORL @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p234
+aVDwight Howard ORL 03/02/2007 ORL @ SAS L 34 9 4 8 50.0 0 0 - 1 4 25.0 3 6 9 0 1 1 2 4 -8
+p235
+aVKeyon Dooling ORL 03/02/2007 ORL @ SAS L 19 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 3 1 -25
+p236
+aVDarko Milicic ORL 03/02/2007 ORL @ SAS L 33 6 2 9 22.2 0 0 - 2 2 100.0 1 3 4 1 0 2 0 4 -18
+p237
+aVJameer Nelson ORL 03/02/2007 ORL @ SAS L 32 18 8 15 53.3 0 4 0.0 2 3 66.7 1 6 7 4 0 0 3 1 -5
+p238
+aVBo Outlaw ORL 03/02/2007 ORL @ SAS L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p239
+aVKeith Bogans ORL 02/28/2007 ORL @ DEN L 22 6 2 7 28.6 2 5 40.0 0 0 - 0 2 2 2 0 1 1 1 -2
+p240
+aVHedo Turkoglu ORL 02/28/2007 ORL @ DEN L 18 12 4 5 80.0 2 3 66.7 2 3 66.7 0 2 2 5 0 0 5 5 -4
+p241
+aVDarko Milicic ORL 02/28/2007 ORL @ DEN L 25 10 5 9 55.6 0 0 - 0 1 0.0 2 6 8 0 2 2 2 3 -12
+p242
+aVCarlos Arroyo ORL 02/28/2007 ORL @ DEN L 20 8 3 8 37.5 0 0 - 2 2 100.0 1 2 3 2 1 0 0 1 -1
+p243
+aVGrant Hill ORL 02/28/2007 ORL @ DEN L 13 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 0
+p244
+aVDwight Howard ORL 02/28/2007 ORL @ DEN L 33 23 9 14 64.3 0 1 0.0 5 7 71.4 4 8 12 3 2 1 4 4 -2
+p245
+aVKeyon Dooling ORL 02/28/2007 ORL @ DEN L 23 14 5 7 71.4 1 1 100.0 3 3 100.0 0 1 1 1 1 0 0 2 3
+p246
+aVBo Outlaw ORL 02/28/2007 ORL @ DEN L 20 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 0 1 1 -7
+p247
+aVPat Garrity ORL 02/28/2007 ORL @ DEN L 14 6 2 5 40.0 2 3 66.7 0 0 - 2 2 4 3 0 0 1 3 -1
+p248
+aVJameer Nelson ORL 02/28/2007 ORL @ DEN L 31 16 6 14 42.9 2 2 100.0 2 2 100.0 0 2 2 6 0 0 7 5 -11
+p249
+aVTrevor Ariza ORL 02/28/2007 ORL @ DEN L 20 4 2 5 40.0 0 0 - 0 1 0.0 2 3 5 1 0 0 2 2 -13
+p250
+aVGrant Hill ORL 02/26/2007 ORL @ CHI W 32 15 5 16 31.3 0 0 - 5 6 83.3 2 0 2 1 0 0 1 3 10
+p251
+aVKeyon Dooling ORL 02/26/2007 ORL @ CHI W 23 5 1 5 20.0 0 1 0.0 3 4 75.0 0 1 1 4 2 1 0 2 1
+p252
+aVCarlos Arroyo ORL 02/26/2007 ORL @ CHI W 12 1 0 4 0.0 0 0 - 1 1 100.0 0 0 0 2 2 0 2 2 2
+p253
+aVJameer Nelson ORL 02/26/2007 ORL @ CHI W 37 18 6 12 50.0 2 3 66.7 4 4 100.0 1 3 4 4 0 0 4 2 5
+p254
+aVDarko Milicic ORL 02/26/2007 ORL @ CHI W 35 14 6 11 54.5 0 0 - 2 4 50.0 7 9 16 2 0 5 1 2 1
+p255
+aVTrevor Ariza ORL 02/26/2007 ORL @ CHI W 19 7 3 5 60.0 0 0 - 1 1 100.0 1 3 4 1 1 0 2 2 -9
+p256
+aVHedo Turkoglu ORL 02/26/2007 ORL @ CHI W 35 9 2 8 25.0 1 5 20.0 4 4 100.0 0 4 4 7 0 0 5 4 9
+p257
+aVDwight Howard ORL 02/26/2007 ORL @ CHI W 38 21 7 10 70.0 0 0 - 7 9 77.8 8 8 16 1 1 2 11 4 16
+p258
+aVBo Outlaw ORL 02/26/2007 ORL @ CHI W 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 0
+p259
+aVJameer Nelson ORL 02/25/2007 ORL vs. HOU L 34 12 4 12 33.3 3 5 60.0 1 3 33.3 1 4 5 4 1 0 2 3 -7
+p260
+aVDarko Milicic ORL 02/25/2007 ORL vs. HOU L 34 8 3 9 33.3 0 0 - 2 2 100.0 2 1 3 1 0 3 1 3 -3
+p261
+aVCarlos Arroyo ORL 02/25/2007 ORL vs. HOU L 14 6 2 6 33.3 0 0 - 2 3 66.7 1 1 2 0 0 0 0 0 3
+p262
+aVBo Outlaw ORL 02/25/2007 ORL vs. HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p263
+aVDwight Howard ORL 02/25/2007 ORL vs. HOU L 41 18 7 14 50.0 0 0 - 4 8 50.0 7 9 16 3 2 4 4 3 -6
+p264
+aVTrevor Ariza ORL 02/25/2007 ORL vs. HOU L 20 14 2 5 40.0 0 1 0.0 10 12 83.3 1 4 5 2 0 0 1 4 7
+p265
+aVHedo Turkoglu ORL 02/25/2007 ORL vs. HOU L 32 8 4 11 36.4 0 2 0.0 0 1 0.0 1 3 4 3 1 0 2 3 -1
+p266
+aVKeith Bogans ORL 02/25/2007 ORL vs. HOU L 14 3 1 4 25.0 1 4 25.0 0 1 0.0 0 0 0 1 0 0 0 3 0
+p267
+aVGrant Hill ORL 02/25/2007 ORL vs. HOU L 36 21 7 15 46.7 0 0 - 7 8 87.5 3 4 7 1 1 0 2 3 -9
+p268
+aVKeyon Dooling ORL 02/25/2007 ORL vs. HOU L 14 3 1 3 33.3 0 0 - 1 3 33.3 2 0 2 0 0 1 0 4 1
+p269
+aVHedo Turkoglu ORL 02/23/2007 ORL vs. DET L 35 20 6 11 54.5 3 4 75.0 5 8 62.5 0 5 5 3 3 0 0 5 -2
+p270
+aVBo Outlaw ORL 02/23/2007 ORL vs. DET L 17 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 11
+p271
+aVKeyon Dooling ORL 02/23/2007 ORL vs. DET L 24 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 0 1 1 4 -1
+p272
+aVKeith Bogans ORL 02/23/2007 ORL vs. DET L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -11
+p273
+aVDwight Howard ORL 02/23/2007 ORL vs. DET L 44 20 7 12 58.3 0 0 - 6 9 66.7 3 10 13 3 0 1 4 4 -8
+p274
+aVJameer Nelson ORL 02/23/2007 ORL vs. DET L 34 10 2 8 25.0 0 2 0.0 6 7 85.7 1 1 2 6 2 0 5 2 0
+p275
+aVDarko Milicic ORL 02/23/2007 ORL vs. DET L 35 8 4 7 57.1 0 0 - 0 0 - 0 6 6 0 0 1 1 4 -14
+p276
+aVCarlos Arroyo ORL 02/23/2007 ORL vs. DET L 15 8 2 5 40.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 1 -1
+p277
+aVGrant Hill ORL 02/23/2007 ORL vs. DET L 28 15 4 10 40.0 0 0 - 7 8 87.5 0 5 5 1 2 0 5 3 1
+p278
+aVTravis Diener ORL 02/21/2007 ORL @ DET L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 -1
+p279
+aVCarlos Arroyo ORL 02/21/2007 ORL @ DET L 15 9 4 8 50.0 0 0 - 1 1 100.0 0 0 0 2 1 0 2 2 -5
+p280
+aVGrant Hill ORL 02/21/2007 ORL @ DET L 29 10 4 7 57.1 0 0 - 2 3 66.7 1 2 3 2 0 0 3 4 -7
+p281
+aVDwight Howard ORL 02/21/2007 ORL @ DET L 35 26 11 15 73.3 0 0 - 4 9 44.4 7 8 15 1 2 1 6 2 -8
+p282
+aVJJ Redick ORL 02/21/2007 ORL @ DET L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 1 1 -15
+p283
+aVPat Garrity ORL 02/21/2007 ORL @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -3
+p284
+aVHedo Turkoglu ORL 02/21/2007 ORL @ DET L 30 6 1 7 14.3 0 2 0.0 4 5 80.0 1 2 3 4 1 1 1 2 -19
+p285
+aVBo Outlaw ORL 02/21/2007 ORL @ DET L 19 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 1 0 1 3 -17
+p286
+aVKeith Bogans ORL 02/21/2007 ORL @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p287
+aVJameer Nelson ORL 02/21/2007 ORL @ DET L 30 14 3 9 33.3 1 4 25.0 7 8 87.5 1 2 3 2 1 0 3 2 -16
+p288
+aVKeyon Dooling ORL 02/21/2007 ORL @ DET L 16 6 2 2 100.0 0 0 - 2 3 66.7 0 0 0 0 1 0 2 2 -7
+p289
+aVDarko Milicic ORL 02/21/2007 ORL @ DET L 32 7 2 9 22.2 0 0 - 3 8 37.5 2 5 7 2 2 2 1 3 -9
+p290
+aVHedo Turkoglu ORL 02/20/2007 ORL @ NYK L 38 14 5 17 29.4 2 5 40.0 2 3 66.7 5 1 6 2 2 0 3 4 0
+p291
+aVJJ Redick ORL 02/20/2007 ORL @ NYK L 4 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p292
+aVKeith Bogans ORL 02/20/2007 ORL @ NYK L 6 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 1 -5
+p293
+aVDwight Howard ORL 02/20/2007 ORL @ NYK L 42 27 9 13 69.2 0 0 - 9 13 69.2 5 9 14 0 3 3 4 2 -4
+p294
+aVJameer Nelson ORL 02/20/2007 ORL @ NYK L 31 16 7 21 33.3 2 3 66.7 0 0 - 0 2 2 2 2 0 1 2 -3
+p295
+aVCarlos Arroyo ORL 02/20/2007 ORL @ NYK L 17 4 2 6 33.3 0 0 - 0 0 - 0 3 3 3 2 0 1 0 -3
+p296
+aVGrant Hill ORL 02/20/2007 ORL @ NYK L 24 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 1 1 0 3 4 -3
+p297
+aVKeyon Dooling ORL 02/20/2007 ORL @ NYK L 24 11 4 6 66.7 0 1 0.0 3 3 100.0 1 0 1 2 2 0 0 2 -5
+p298
+aVPat Garrity ORL 02/20/2007 ORL @ NYK L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -4
+p299
+aVBo Outlaw ORL 02/20/2007 ORL @ NYK L 13 2 1 1 100.0 0 0 - 0 0 - 3 0 3 2 1 0 2 4 -1
+p300
+aVDarko Milicic ORL 02/20/2007 ORL @ NYK L 32 12 5 9 55.6 0 0 - 2 4 50.0 4 3 7 1 1 1 2 4 -1
+p301
+aVHedo Turkoglu ORL 02/14/2007 ORL vs. POR W 37 24 10 16 62.5 3 6 50.0 1 2 50.0 1 2 3 4 1 1 3 4 17
+p302
+aVBo Outlaw ORL 02/14/2007 ORL vs. POR W 14 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -5
+p303
+aVJJ Redick ORL 02/14/2007 ORL vs. POR W 16 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 1 2 0 0 1 -10
+p304
+aVPat Garrity ORL 02/14/2007 ORL vs. POR W 9 2 0 3 0.0 0 1 0.0 2 2 100.0 1 2 3 0 0 0 0 1 -4
+p305
+aVDarko Milicic ORL 02/14/2007 ORL vs. POR W 34 21 6 10 60.0 0 0 - 9 9 100.0 1 7 8 4 0 2 0 2 20
+p306
+aVJames Augustine ORL 02/14/2007 ORL vs. POR W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p307
+aVDwight Howard ORL 02/14/2007 ORL vs. POR W 36 20 8 12 66.7 0 0 - 4 4 100.0 2 14 16 2 1 2 4 1 17
+p308
+aVTravis Diener ORL 02/14/2007 ORL vs. POR W 16 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -6
+p309
+aVKeith Bogans ORL 02/14/2007 ORL vs. POR W 23 6 2 6 33.3 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 21
+p310
+aVKeyon Dooling ORL 02/14/2007 ORL vs. POR W 21 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 0 1 1 2 -4
+p311
+aVCarlos Arroyo ORL 02/14/2007 ORL vs. POR W 32 15 7 10 70.0 0 1 0.0 1 1 100.0 0 5 5 7 0 0 1 3 18
+p312
+aVBo Outlaw ORL 02/10/2007 ORL @ NJN L 14 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -18
+p313
+aVJameer Nelson ORL 02/10/2007 ORL @ NJN L 35 14 6 19 31.6 1 4 25.0 1 1 100.0 0 2 2 4 1 0 2 2 -19
+p314
+aVJJ Redick ORL 02/10/2007 ORL @ NJN L 24 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 3 1 0 0 1 -9
+p315
+aVCarlos Arroyo ORL 02/10/2007 ORL @ NJN L 23 9 3 10 30.0 0 2 0.0 3 5 60.0 0 3 3 4 1 0 1 1 -5
+p316
+aVDwight Howard ORL 02/10/2007 ORL @ NJN L 41 25 11 15 73.3 0 0 - 3 5 60.0 3 9 12 1 0 4 7 2 -4
+p317
+aVDarko Milicic ORL 02/10/2007 ORL @ NJN L 37 16 7 11 63.6 0 0 - 2 2 100.0 3 9 12 0 1 4 3 2 -12
+p318
+aVTravis Diener ORL 02/10/2007 ORL @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p319
+aVHedo Turkoglu ORL 02/10/2007 ORL @ NJN L 31 2 0 8 0.0 0 2 0.0 2 2 100.0 1 3 4 2 0 0 2 5 -3
+p320
+aVKeith Bogans ORL 02/10/2007 ORL @ NJN L 34 7 2 8 25.0 2 5 40.0 1 2 50.0 0 2 2 2 2 0 0 3 -6
+p321
+aVJJ Redick ORL 02/09/2007 ORL vs. SAS W 31 16 6 11 54.5 3 8 37.5 1 1 100.0 0 1 1 1 0 0 0 1 7
+p322
+aVDarko Milicic ORL 02/09/2007 ORL vs. SAS W 33 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 2 1 3 1 2 -2
+p323
+aVTravis Diener ORL 02/09/2007 ORL vs. SAS W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p324
+aVKeith Bogans ORL 02/09/2007 ORL vs. SAS W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 -7
+p325
+aVDwight Howard ORL 02/09/2007 ORL vs. SAS W 43 30 11 14 78.6 0 0 - 8 12 66.7 1 7 8 3 4 3 4 3 4
+p326
+aVCarlos Arroyo ORL 02/09/2007 ORL vs. SAS W 30 12 6 9 66.7 0 0 - 0 0 - 0 2 2 7 1 0 3 4 9
+p327
+aVBo Outlaw ORL 02/09/2007 ORL vs. SAS W 18 4 2 3 66.7 0 0 - 0 0 - 4 1 5 0 0 0 1 1 -4
+p328
+aVHedo Turkoglu ORL 02/09/2007 ORL vs. SAS W 22 6 3 9 33.3 0 0 - 0 0 - 0 2 2 4 0 1 1 0 4
+p329
+aVJameer Nelson ORL 02/09/2007 ORL vs. SAS W 41 31 12 20 60.0 2 2 100.0 5 5 100.0 1 6 7 5 0 0 1 2 9
+p330
+aVHedo Turkoglu ORL 02/07/2007 ORL @ TOR L 27 12 4 12 33.3 1 6 16.7 3 4 75.0 1 4 5 2 0 0 4 3 -2
+p331
+aVJJ Redick ORL 02/07/2007 ORL @ TOR L 29 14 4 11 36.4 3 7 42.9 3 3 100.0 1 2 3 3 0 0 3 4 -5
+p332
+aVKeith Bogans ORL 02/07/2007 ORL @ TOR L 41 15 6 12 50.0 3 6 50.0 0 0 - 0 3 3 3 0 0 2 3 -12
+p333
+aVBo Outlaw ORL 02/07/2007 ORL @ TOR L 23 0 0 0 - 0 0 - 0 0 - 2 5 7 1 0 0 0 4 -2
+p334
+aVDwight Howard ORL 02/07/2007 ORL @ TOR L 42 32 13 14 92.9 0 0 - 6 8 75.0 3 6 9 4 0 2 5 5 -4
+p335
+aVJameer Nelson ORL 02/07/2007 ORL @ TOR L 28 9 4 12 33.3 1 3 33.3 0 0 - 1 0 1 5 0 0 0 5 -9
+p336
+aVCarlos Arroyo ORL 02/07/2007 ORL @ TOR L 20 11 5 8 62.5 1 2 50.0 0 0 - 1 3 4 2 0 0 3 2 -1
+p337
+aVPat Garrity ORL 02/07/2007 ORL @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p338
+aVDarko Milicic ORL 02/07/2007 ORL @ TOR L 24 10 5 11 45.5 0 0 - 0 0 - 2 4 6 2 1 1 0 5 -12
+p339
+aVJameer Nelson ORL 02/06/2007 ORL @ MIL L 25 5 2 8 25.0 0 3 0.0 1 1 100.0 1 4 5 5 0 0 2 5 -2
+p340
+aVHedo Turkoglu ORL 02/06/2007 ORL @ MIL L 37 18 6 16 37.5 3 8 37.5 3 4 75.0 0 1 1 4 1 0 2 5 -1
+p341
+aVCarlos Arroyo ORL 02/06/2007 ORL @ MIL L 31 14 5 7 71.4 0 1 0.0 4 4 100.0 0 3 3 7 0 0 1 3 -4
+p342
+aVKeith Bogans ORL 02/06/2007 ORL @ MIL L 32 19 6 8 75.0 3 4 75.0 4 4 100.0 1 1 2 3 0 0 1 2 -9
+p343
+aVTony Battie ORL 02/06/2007 ORL @ MIL L 24 11 3 7 42.9 0 0 - 5 6 83.3 0 4 4 1 0 0 2 2 -4
+p344
+aVDarko Milicic ORL 02/06/2007 ORL @ MIL L 22 9 4 11 36.4 0 0 - 1 2 50.0 0 6 6 1 0 1 2 3 -7
+p345
+aVJJ Redick ORL 02/06/2007 ORL @ MIL L 17 9 3 7 42.9 1 1 100.0 2 4 50.0 0 2 2 3 0 0 0 3 -5
+p346
+aVDwight Howard ORL 02/06/2007 ORL @ MIL L 35 21 9 9 100.0 0 0 - 3 7 42.9 1 10 11 2 1 1 4 4 -1
+p347
+aVBo Outlaw ORL 02/06/2007 ORL @ MIL L 17 5 1 1 100.0 0 0 - 3 6 50.0 3 3 6 0 3 0 3 5 8
+p348
+aVDarko Milicic ORL 02/03/2007 ORL vs. NYK L 27 19 7 10 70.0 0 0 - 5 7 71.4 3 3 6 0 1 1 3 6 -5
+p349
+aVPat Garrity ORL 02/03/2007 ORL vs. NYK L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p350
+aVHedo Turkoglu ORL 02/03/2007 ORL vs. NYK L 36 13 4 15 26.7 2 8 25.0 3 6 50.0 1 6 7 4 1 0 2 4 -4
+p351
+aVCarlos Arroyo ORL 02/03/2007 ORL vs. NYK L 23 7 2 9 22.2 0 0 - 3 4 75.0 1 1 2 2 1 0 1 2 -8
+p352
+aVJJ Redick ORL 02/03/2007 ORL vs. NYK L 21 11 3 8 37.5 0 3 0.0 5 5 100.0 0 0 0 0 2 0 0 2 0
+p353
+aVDwight Howard ORL 02/03/2007 ORL vs. NYK L 34 15 6 11 54.5 0 0 - 3 4 75.0 5 6 11 0 0 0 2 5 -6
+p354
+aVJameer Nelson ORL 02/03/2007 ORL vs. NYK L 31 6 2 11 18.2 0 2 0.0 2 4 50.0 1 0 1 6 0 0 2 2 -5
+p355
+aVTony Battie ORL 02/03/2007 ORL vs. NYK L 25 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 2 0 0 2 1 -2
+p356
+aVBo Outlaw ORL 02/03/2007 ORL vs. NYK L 8 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 1 0 0 1 -1
+p357
+aVKeith Bogans ORL 02/03/2007 ORL vs. NYK L 29 6 2 5 40.0 0 3 0.0 2 2 100.0 2 1 3 1 2 0 1 3 -9
+p358
+aVJJ Redick ORL 02/02/2007 ORL vs. NJN W 26 13 3 6 50.0 2 2 100.0 5 6 83.3 0 4 4 1 0 0 1 1 8
+p359
+aVKeith Bogans ORL 02/02/2007 ORL vs. NJN W 28 8 2 6 33.3 1 4 25.0 3 3 100.0 0 3 3 6 0 0 0 4 31
+p360
+aVPat Garrity ORL 02/02/2007 ORL vs. NJN W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 0 3
+p361
+aVDarko Milicic ORL 02/02/2007 ORL vs. NJN W 25 14 6 9 66.7 0 0 - 2 4 50.0 0 2 2 3 0 1 2 1 11
+p362
+aVCarlos Arroyo ORL 02/02/2007 ORL vs. NJN W 16 10 4 6 66.7 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 5
+p363
+aVDwight Howard ORL 02/02/2007 ORL vs. NJN W 29 19 8 11 72.7 0 0 - 3 4 75.0 2 7 9 0 0 0 2 3 26
+p364
+aVTony Battie ORL 02/02/2007 ORL vs. NJN W 26 11 5 5 100.0 0 0 - 1 1 100.0 1 9 10 1 0 1 0 4 23
+p365
+aVBo Outlaw ORL 02/02/2007 ORL vs. NJN W 10 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 1 0 1 3
+p366
+aVJames Augustine ORL 02/02/2007 ORL vs. NJN W 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 2 0 0 0 1 3
+p367
+aVTravis Diener ORL 02/02/2007 ORL vs. NJN W 11 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 4 0 0 1 0 -1
+p368
+aVHedo Turkoglu ORL 02/02/2007 ORL vs. NJN W 31 22 8 12 66.7 2 4 50.0 4 5 80.0 1 3 4 4 3 1 2 4 28
+p369
+aVJameer Nelson ORL 02/02/2007 ORL vs. NJN W 28 12 4 8 50.0 2 3 66.7 2 2 100.0 1 4 5 4 2 0 4 1 25
+p370
+aVTony Battie ORL 01/31/2007 ORL vs. MIL W 26 15 6 9 66.7 0 0 - 3 3 100.0 1 5 6 1 0 2 1 1 9
+p371
+aVJJ Redick ORL 01/31/2007 ORL vs. MIL W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p372
+aVBo Outlaw ORL 01/31/2007 ORL vs. MIL W 9 7 3 4 75.0 0 0 - 1 1 100.0 1 2 3 0 0 0 1 0 9
+p373
+aVJameer Nelson ORL 01/31/2007 ORL vs. MIL W 24 5 1 4 25.0 0 0 - 3 4 75.0 0 5 5 4 2 0 1 3 10
+p374
+aVTravis Diener ORL 01/31/2007 ORL vs. MIL W 2 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 5
+p375
+aVCarlos Arroyo ORL 01/31/2007 ORL vs. MIL W 24 6 2 5 40.0 0 2 0.0 2 4 50.0 1 1 2 3 3 0 1 3 17
+p376
+aVDwight Howard ORL 01/31/2007 ORL vs. MIL W 21 6 2 2 100.0 0 0 - 2 8 25.0 2 5 7 1 1 2 5 5 3
+p377
+aVHedo Turkoglu ORL 01/31/2007 ORL vs. MIL W 28 17 7 13 53.8 3 7 42.9 0 0 - 1 3 4 1 0 0 1 3 11
+p378
+aVGrant Hill ORL 01/31/2007 ORL vs. MIL W 33 12 5 10 50.0 0 0 - 2 3 66.7 2 6 8 4 0 1 2 2 15
+p379
+aVKeith Bogans ORL 01/31/2007 ORL vs. MIL W 29 14 5 13 38.5 3 8 37.5 1 2 50.0 1 4 5 7 2 0 1 3 24
+p380
+aVDarko Milicic ORL 01/31/2007 ORL vs. MIL W 34 14 3 11 27.3 0 0 - 8 11 72.7 5 5 10 0 2 4 2 0 19
+p381
+aVJameer Nelson ORL 01/29/2007 ORL @ ATL L 33 16 6 17 35.3 0 4 0.0 4 4 100.0 2 1 3 5 0 0 2 4 -9
+p382
+aVJJ Redick ORL 01/29/2007 ORL @ ATL L 17 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 1 0 1 0 -3
+p383
+aVTravis Diener ORL 01/29/2007 ORL @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p384
+aVBo Outlaw ORL 01/29/2007 ORL @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p385
+aVDwight Howard ORL 01/29/2007 ORL @ ATL L 37 15 5 11 45.5 0 0 - 5 6 83.3 1 6 7 1 0 1 3 1 -7
+p386
+aVCarlos Arroyo ORL 01/29/2007 ORL @ ATL L 15 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 4 2 0 1 0 -3
+p387
+aVGrant Hill ORL 01/29/2007 ORL @ ATL L 31 21 6 10 60.0 0 0 - 9 10 90.0 2 4 6 0 2 0 1 2 -2
+p388
+aVKeith Bogans ORL 01/29/2007 ORL @ ATL L 24 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 2 0
+p389
+aVDarko Milicic ORL 01/29/2007 ORL @ ATL L 26 9 3 8 37.5 0 0 - 3 4 75.0 2 6 8 0 1 2 1 1 -1
+p390
+aVHedo Turkoglu ORL 01/29/2007 ORL @ ATL L 36 9 4 10 40.0 1 2 50.0 0 2 0.0 1 0 1 3 4 0 3 6 -13
+p391
+aVTony Battie ORL 01/29/2007 ORL @ ATL L 17 2 0 3 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 2 1 -14
+p392
+aVHedo Turkoglu ORL 01/26/2007 ORL vs. ATL L 38 12 5 11 45.5 2 5 40.0 0 0 - 0 3 3 2 1 0 4 2 3
+p393
+aVTony Battie ORL 01/26/2007 ORL vs. ATL L 27 14 7 10 70.0 0 0 - 0 0 - 4 4 8 0 0 0 1 1 6
+p394
+aVJameer Nelson ORL 01/26/2007 ORL vs. ATL L 30 14 6 12 50.0 2 5 40.0 0 0 - 0 2 2 2 0 0 3 2 -14
+p395
+aVGrant Hill ORL 01/26/2007 ORL vs. ATL L 29 10 4 6 66.7 0 0 - 2 4 50.0 1 1 2 5 1 1 2 5 -18
+p396
+aVKeith Bogans ORL 01/26/2007 ORL vs. ATL L 22 6 2 2 100.0 1 1 100.0 1 2 50.0 1 1 2 2 2 0 0 0 8
+p397
+aVDwight Howard ORL 01/26/2007 ORL vs. ATL L 39 19 5 10 50.0 0 0 - 9 18 50.0 0 4 4 2 0 1 3 4 -9
+p398
+aVDarko Milicic ORL 01/26/2007 ORL vs. ATL L 29 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -3
+p399
+aVCarlos Arroyo ORL 01/26/2007 ORL vs. ATL L 17 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 4 0 0 2 0 11
+p400
+aVJJ Redick ORL 01/26/2007 ORL vs. ATL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p401
+aVJameer Nelson ORL 01/23/2007 ORL vs. DAL L 35 23 7 14 50.0 2 5 40.0 7 8 87.5 0 3 3 5 0 0 1 1 -11
+p402
+aVTravis Diener ORL 01/23/2007 ORL vs. DAL L 12 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -5
+p403
+aVBo Outlaw ORL 01/23/2007 ORL vs. DAL L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p404
+aVDwight Howard ORL 01/23/2007 ORL vs. DAL L 35 15 4 10 40.0 0 0 - 7 14 50.0 4 10 14 1 0 1 3 3 -16
+p405
+aVDarko Milicic ORL 01/23/2007 ORL vs. DAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 5 2
+p406
+aVTony Battie ORL 01/23/2007 ORL vs. DAL L 26 7 2 6 33.3 0 0 - 3 4 75.0 2 4 6 0 0 0 1 2 -16
+p407
+aVKeith Bogans ORL 01/23/2007 ORL vs. DAL L 13 4 1 3 33.3 1 2 50.0 1 2 50.0 0 0 0 0 0 0 1 1 -8
+p408
+aVKeyon Dooling ORL 01/23/2007 ORL vs. DAL L 31 9 2 6 33.3 0 0 - 5 6 83.3 0 0 0 3 1 0 1 1 -2
+p409
+aVGrant Hill ORL 01/23/2007 ORL vs. DAL L 34 15 3 8 37.5 0 0 - 9 11 81.8 1 2 3 3 0 0 1 2 -16
+p410
+aVHedo Turkoglu ORL 01/23/2007 ORL vs. DAL L 26 17 6 10 60.0 3 5 60.0 2 2 100.0 0 2 2 0 1 0 1 3 -6
+p411
+aVBo Outlaw ORL 01/22/2007 ORL @ CLE W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 4
+p412
+aVKeith Bogans ORL 01/22/2007 ORL @ CLE W 15 9 3 4 75.0 3 3 100.0 0 0 - 1 2 3 0 0 0 1 0 7
+p413
+aVHedo Turkoglu ORL 01/22/2007 ORL @ CLE W 33 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 2 2 3
+p414
+aVKeyon Dooling ORL 01/22/2007 ORL @ CLE W 21 9 4 7 57.1 1 2 50.0 0 0 - 0 1 1 3 3 1 1 2 9
+p415
+aVTony Battie ORL 01/22/2007 ORL @ CLE W 22 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -1
+p416
+aVJameer Nelson ORL 01/22/2007 ORL @ CLE W 33 11 4 11 36.4 1 1 100.0 2 2 100.0 0 5 5 6 2 0 4 3 6
+p417
+aVGrant Hill ORL 01/22/2007 ORL @ CLE W 33 22 8 12 66.7 0 0 - 6 9 66.7 0 5 5 1 0 0 1 3 0
+p418
+aVDwight Howard ORL 01/22/2007 ORL @ CLE W 34 18 7 10 70.0 0 0 - 4 8 50.0 3 10 13 2 0 2 5 4 2
+p419
+aVTravis Diener ORL 01/22/2007 ORL @ CLE W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 5 0 0 1 1 5
+p420
+aVDarko Milicic ORL 01/22/2007 ORL @ CLE W 21 9 4 7 57.1 0 0 - 1 2 50.0 2 7 9 0 0 1 1 5 20
+p421
+aVCarlos Arroyo ORL 01/20/2007 ORL @ NJN L 22 10 4 8 50.0 0 1 0.0 2 3 66.7 1 2 3 5 1 0 0 1 -2
+p422
+aVJameer Nelson ORL 01/20/2007 ORL @ NJN L 31 11 4 12 33.3 1 2 50.0 2 3 66.7 0 2 2 4 1 0 4 4 -5
+p423
+aVHedo Turkoglu ORL 01/20/2007 ORL @ NJN L 33 24 9 14 64.3 1 3 33.3 5 5 100.0 0 8 8 1 1 0 1 6 -4
+p424
+aVDarko Milicic ORL 01/20/2007 ORL @ NJN L 23 8 2 6 33.3 0 0 - 4 9 44.4 5 5 10 1 0 1 4 1 5
+p425
+aVTony Battie ORL 01/20/2007 ORL @ NJN L 21 6 3 5 60.0 0 0 - 0 0 - 0 6 6 1 2 0 3 2 -7
+p426
+aVJJ Redick ORL 01/20/2007 ORL @ NJN L 21 13 4 6 66.7 3 4 75.0 2 2 100.0 0 1 1 1 1 0 0 1 -1
+p427
+aVTravis Diener ORL 01/20/2007 ORL @ NJN L 21 11 3 6 50.0 1 2 50.0 4 6 66.7 0 2 2 4 0 0 1 3 1
+p428
+aVKeith Bogans ORL 01/20/2007 ORL @ NJN L 20 4 1 3 33.3 1 3 33.3 1 2 50.0 0 3 3 0 0 0 0 1 -8
+p429
+aVDwight Howard ORL 01/20/2007 ORL @ NJN L 25 1 0 6 0.0 0 0 - 1 2 50.0 1 5 6 1 0 2 5 6 -14
+p430
+aVPat Garrity ORL 01/20/2007 ORL @ NJN L 17 6 2 4 50.0 2 2 100.0 0 0 - 1 2 3 0 0 0 0 3 0
+p431
+aVDwight Howard ORL 01/19/2007 ORL vs. WAS L 39 20 8 9 88.9 0 0 - 4 6 66.7 3 10 13 3 0 1 4 2 -15
+p432
+aVDarko Milicic ORL 01/19/2007 ORL vs. WAS L 25 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 3 0 3 3 2 -6
+p433
+aVKeith Bogans ORL 01/19/2007 ORL vs. WAS L 9 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 2 0 0 1 1 -4
+p434
+aVJameer Nelson ORL 01/19/2007 ORL vs. WAS L 31 15 6 13 46.2 2 3 66.7 1 1 100.0 0 2 2 7 0 0 1 3 -9
+p435
+aVTravis Diener ORL 01/19/2007 ORL vs. WAS L 16 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 2 -12
+p436
+aVKeyon Dooling ORL 01/19/2007 ORL vs. WAS L 31 11 5 12 41.7 0 3 0.0 1 2 50.0 1 2 3 2 1 1 2 1 -14
+p437
+aVGrant Hill ORL 01/19/2007 ORL vs. WAS L 32 24 10 14 71.4 0 0 - 4 4 100.0 1 4 5 1 1 0 4 3 -12
+p438
+aVHedo Turkoglu ORL 01/19/2007 ORL vs. WAS L 33 11 3 12 25.0 2 5 40.0 3 4 75.0 0 4 4 3 1 0 1 4 -19
+p439
+aVTony Battie ORL 01/19/2007 ORL vs. WAS L 20 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 0 0 2 3 -14
+p440
+aVHedo Turkoglu ORL 01/16/2007 ORL @ NOK L 39 16 5 13 38.5 2 6 33.3 4 5 80.0 1 6 7 3 2 0 2 3 -9
+p441
+aVDwight Howard ORL 01/16/2007 ORL @ NOK L 38 17 6 13 46.2 0 0 - 5 9 55.6 4 11 15 3 1 1 2 2 -9
+p442
+aVJameer Nelson ORL 01/16/2007 ORL @ NOK L 39 12 6 17 35.3 0 3 0.0 0 0 - 1 1 2 3 2 1 2 1 -8
+p443
+aVGrant Hill ORL 01/16/2007 ORL @ NOK L 39 7 2 7 28.6 0 0 - 3 4 75.0 2 3 5 1 2 0 2 2 0
+p444
+aVKeyon Dooling ORL 01/16/2007 ORL @ NOK L 23 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 1 0 1 0 0 0
+p445
+aVPat Garrity ORL 01/16/2007 ORL @ NOK L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p446
+aVKeith Bogans ORL 01/16/2007 ORL @ NOK L 19 6 2 4 50.0 2 3 66.7 0 1 0.0 0 3 3 1 1 0 0 3 4
+p447
+aVTony Battie ORL 01/16/2007 ORL @ NOK L 22 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 1 2 3 4
+p448
+aVDarko Milicic ORL 01/16/2007 ORL @ NOK L 26 11 4 11 36.4 0 0 - 3 4 75.0 3 7 10 0 0 2 5 2 -13
+p449
+aVCarlos Arroyo ORL 01/16/2007 ORL @ NOK L 14 0 0 6 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 2
+p450
+aVDwight Howard ORL 01/13/2007 ORL @ PHX L 29 10 5 12 41.7 0 0 - 0 2 0.0 3 2 5 1 0 4 3 3 -17
+p451
+aVTony Battie ORL 01/13/2007 ORL @ PHX L 15 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 -3
+p452
+aVKeith Bogans ORL 01/13/2007 ORL @ PHX L 20 10 4 4 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 1 3
+p453
+aVJameer Nelson ORL 01/13/2007 ORL @ PHX L 27 26 9 15 60.0 4 7 57.1 4 4 100.0 0 2 2 2 1 0 1 6 5
+p454
+aVDarko Milicic ORL 01/13/2007 ORL @ PHX L 30 10 4 9 44.4 0 0 - 2 4 50.0 2 5 7 2 1 1 2 2 1
+p455
+aVBo Outlaw ORL 01/13/2007 ORL @ PHX L 17 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 0 0 2 7
+p456
+aVKeyon Dooling ORL 01/13/2007 ORL @ PHX L 26 13 6 12 50.0 1 3 33.3 0 0 - 0 1 1 0 1 1 0 2 5
+p457
+aVCarlos Arroyo ORL 01/13/2007 ORL @ PHX L 21 2 0 5 0.0 0 1 0.0 2 2 100.0 0 2 2 4 0 0 2 2 -9
+p458
+aVHedo Turkoglu ORL 01/13/2007 ORL @ PHX L 27 18 5 12 41.7 2 4 50.0 6 6 100.0 0 3 3 2 1 0 2 1 -12
+p459
+aVGrant Hill ORL 01/13/2007 ORL @ PHX L 28 6 3 9 33.3 0 0 - 0 0 - 2 6 8 3 1 1 1 0 -10
+p460
+aVCarlos Arroyo ORL 01/12/2007 ORL @ LAL L 21 11 4 9 44.4 0 0 - 3 4 75.0 2 1 3 2 0 0 0 6 -1
+p461
+aVTony Battie ORL 01/12/2007 ORL @ LAL L 29 9 3 3 100.0 0 0 - 3 3 100.0 0 2 2 2 0 2 1 4 -1
+p462
+aVJameer Nelson ORL 01/12/2007 ORL @ LAL L 26 7 3 10 30.0 1 2 50.0 0 0 - 1 5 6 6 0 0 0 3 -2
+p463
+aVHedo Turkoglu ORL 01/12/2007 ORL @ LAL L 29 18 5 10 50.0 2 4 50.0 6 7 85.7 1 5 6 5 2 1 0 3 -9
+p464
+aVPat Garrity ORL 01/12/2007 ORL @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p465
+aVDarko Milicic ORL 01/12/2007 ORL @ LAL L 17 6 3 6 50.0 0 0 - 0 0 - 2 2 4 4 0 2 2 2 2
+p466
+aVKeyon Dooling ORL 01/12/2007 ORL @ LAL L 19 3 1 6 16.7 0 3 0.0 1 2 50.0 0 1 1 1 2 0 0 2 1
+p467
+aVDwight Howard ORL 01/12/2007 ORL @ LAL L 36 25 9 14 64.3 0 0 - 7 16 43.8 3 7 10 3 0 2 5 5 -7
+p468
+aVKeith Bogans ORL 01/12/2007 ORL @ LAL L 26 7 2 6 33.3 2 3 66.7 1 1 100.0 0 0 0 2 0 0 2 2 5
+p469
+aVGrant Hill ORL 01/12/2007 ORL @ LAL L 32 20 8 11 72.7 0 0 - 4 6 66.7 1 4 5 2 0 0 2 2 -5
+p470
+aVTrevor Ariza ORL 01/10/2007 ORL @ GSW W 14 5 2 7 28.6 0 0 - 1 4 25.0 3 1 4 1 3 0 2 0 4
+p471
+aVTony Battie ORL 01/10/2007 ORL @ GSW W 26 10 5 8 62.5 0 0 - 0 0 - 2 7 9 1 0 0 0 2 4
+p472
+aVCarlos Arroyo ORL 01/10/2007 ORL @ GSW W 19 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 5 1 0 2 0 0
+p473
+aVKeith Bogans ORL 01/10/2007 ORL @ GSW W 27 16 6 9 66.7 3 5 60.0 1 2 50.0 0 2 2 0 2 0 0 1 12
+p474
+aVKeyon Dooling ORL 01/10/2007 ORL @ GSW W 29 13 5 9 55.6 3 4 75.0 0 0 - 1 2 3 4 0 0 1 2 9
+p475
+aVDwight Howard ORL 01/10/2007 ORL @ GSW W 45 30 11 18 61.1 0 0 - 8 15 53.3 9 16 25 0 2 1 5 4 14
+p476
+aVJameer Nelson ORL 01/10/2007 ORL @ GSW W 30 7 2 9 22.2 0 4 0.0 3 4 75.0 0 0 0 2 3 0 1 4 14
+p477
+aVGrant Hill ORL 01/10/2007 ORL @ GSW W 25 6 2 8 25.0 0 0 - 2 2 100.0 0 1 1 5 0 1 2 2 6
+p478
+aVDarko Milicic ORL 01/10/2007 ORL @ GSW W 25 4 1 11 9.1 0 0 - 2 6 33.3 5 2 7 2 0 4 1 4 12
+p479
+aVJameer Nelson ORL 01/07/2007 ORL vs. BOS W 33 6 3 13 23.1 0 2 0.0 0 0 - 0 4 4 5 1 0 2 4 8
+p480
+aVHedo Turkoglu ORL 01/07/2007 ORL vs. BOS W 38 9 4 11 36.4 1 2 50.0 0 0 - 0 2 2 4 1 0 2 3 12
+p481
+aVDwight Howard ORL 01/07/2007 ORL vs. BOS W 37 18 5 13 38.5 0 0 - 8 12 66.7 0 12 12 0 1 0 5 4 5
+p482
+aVCarlos Arroyo ORL 01/07/2007 ORL vs. BOS W 16 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 3 1 0 5 5 -2
+p483
+aVDarko Milicic ORL 01/07/2007 ORL vs. BOS W 25 12 4 6 66.7 0 0 - 4 6 66.7 2 2 4 1 1 3 3 5 -1
+p484
+aVKeith Bogans ORL 01/07/2007 ORL vs. BOS W 10 1 0 2 0.0 0 0 - 1 1 100.0 1 1 2 2 0 0 0 1 -3
+p485
+aVGrant Hill ORL 01/07/2007 ORL vs. BOS W 38 21 4 6 66.7 0 0 - 13 14 92.9 2 6 8 0 0 2 2 1 9
+p486
+aVTrevor Ariza ORL 01/07/2007 ORL vs. BOS W 18 5 1 6 16.7 0 1 0.0 3 6 50.0 2 3 5 0 2 1 2 2 4
+p487
+aVTony Battie ORL 01/07/2007 ORL vs. BOS W 22 11 5 10 50.0 0 0 - 1 2 50.0 4 6 10 0 2 1 0 1 10
+p488
+aVBo Outlaw ORL 01/07/2007 ORL vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p489
+aVTony Battie ORL 01/05/2007 ORL vs. CHA W 32 5 2 3 66.7 0 0 - 1 2 50.0 0 10 10 1 2 1 0 3 22
+p490
+aVKeith Bogans ORL 01/05/2007 ORL vs. CHA W 19 6 1 4 25.0 1 3 33.3 3 4 75.0 0 2 2 1 0 0 1 2 7
+p491
+aVJameer Nelson ORL 01/05/2007 ORL vs. CHA W 29 20 8 15 53.3 4 6 66.7 0 0 - 1 0 1 3 1 0 2 2 17
+p492
+aVPat Garrity ORL 01/05/2007 ORL vs. CHA W 13 6 2 3 66.7 2 2 100.0 0 0 - 0 3 3 1 1 0 1 2 22
+p493
+aVCarlos Arroyo ORL 01/05/2007 ORL vs. CHA W 15 8 4 6 66.7 0 0 - 0 1 0.0 1 1 2 3 0 0 2 3 7
+p494
+aVJJ Redick ORL 01/05/2007 ORL vs. CHA W 11 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 4 5
+p495
+aVTrevor Ariza ORL 01/05/2007 ORL vs. CHA W 33 10 4 6 66.7 0 0 - 2 2 100.0 2 7 9 5 1 2 4 2 25
+p496
+aVTravis Diener ORL 01/05/2007 ORL vs. CHA W 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 8
+p497
+aVBo Outlaw ORL 01/05/2007 ORL vs. CHA W 12 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 0 0 1 1 6
+p498
+aVDarko Milicic ORL 01/05/2007 ORL vs. CHA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p499
+aVHedo Turkoglu ORL 01/05/2007 ORL vs. CHA W 33 14 4 10 40.0 1 3 33.3 5 8 62.5 1 2 3 5 0 0 2 3 27
+p500
+aVDwight Howard ORL 01/05/2007 ORL vs. CHA W 34 22 8 10 80.0 1 1 100.0 5 9 55.6 1 11 12 0 3 4 4 2 20
+p501
+aVHedo Turkoglu ORL 01/02/2007 ORL vs. LAC W 35 13 6 15 40.0 1 5 20.0 0 0 - 1 3 4 4 1 0 1 3 4
+p502
+aVKeith Bogans ORL 01/02/2007 ORL vs. LAC W 20 3 1 4 25.0 1 2 50.0 0 2 0.0 1 0 1 1 2 0 1 2 8
+p503
+aVJameer Nelson ORL 01/02/2007 ORL vs. LAC W 35 29 11 16 68.8 1 2 50.0 6 8 75.0 2 1 3 4 0 0 1 2 9
+p504
+aVTony Battie ORL 01/02/2007 ORL vs. LAC W 20 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 2 0 0 2 0
+p505
+aVDarko Milicic ORL 01/02/2007 ORL vs. LAC W 20 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 1 0 1 2 3 1
+p506
+aVBo Outlaw ORL 01/02/2007 ORL vs. LAC W 17 4 2 2 100.0 0 0 - 0 0 - 3 2 5 0 0 0 1 3 -1
+p507
+aVTrevor Ariza ORL 01/02/2007 ORL vs. LAC W 35 14 5 11 45.5 0 0 - 4 4 100.0 2 3 5 0 2 0 4 3 2
+p508
+aVDwight Howard ORL 01/02/2007 ORL vs. LAC W 37 14 6 10 60.0 0 0 - 2 3 66.7 7 7 14 5 1 2 6 1 6
+p509
+aVCarlos Arroyo ORL 01/02/2007 ORL vs. LAC W 13 1 0 3 0.0 0 0 - 1 1 100.0 0 0 0 4 0 0 1 0 -2
+p510
+aVJJ Redick ORL 01/02/2007 ORL vs. LAC W 8 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 3 -2
+p511
+aVPat Garrity ORL 12/30/2006 ORL vs. MIA W 13 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 12
+p512
+aVBo Outlaw ORL 12/30/2006 ORL vs. MIA W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 8
+p513
+aVJJ Redick ORL 12/30/2006 ORL vs. MIA W 13 9 2 3 66.7 1 1 100.0 4 4 100.0 0 1 1 1 2 0 0 1 12
+p514
+aVTrevor Ariza ORL 12/30/2006 ORL vs. MIA W 35 16 7 11 63.6 0 1 0.0 2 4 50.0 1 9 10 3 2 1 1 2 20
+p515
+aVJameer Nelson ORL 12/30/2006 ORL vs. MIA W 23 7 3 9 33.3 0 3 0.0 1 1 100.0 1 1 2 7 1 0 3 2 10
+p516
+aVDwight Howard ORL 12/30/2006 ORL vs. MIA W 30 18 5 8 62.5 0 0 - 8 9 88.9 3 7 10 2 0 2 1 2 12
+p517
+aVTony Battie ORL 12/30/2006 ORL vs. MIA W 32 12 6 10 60.0 0 0 - 0 1 0.0 1 5 6 0 0 0 0 1 17
+p518
+aVTravis Diener ORL 12/30/2006 ORL vs. MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 8
+p519
+aVDarko Milicic ORL 12/30/2006 ORL vs. MIA W 15 5 2 8 25.0 0 0 - 1 2 50.0 2 2 4 1 0 1 0 0 9
+p520
+aVKeith Bogans ORL 12/30/2006 ORL vs. MIA W 19 9 3 6 50.0 2 4 50.0 1 1 100.0 0 2 2 0 0 0 0 2 16
+p521
+aVHedo Turkoglu ORL 12/30/2006 ORL vs. MIA W 29 11 2 8 25.0 1 4 25.0 6 7 85.7 1 3 4 5 1 0 0 1 10
+p522
+aVCarlos Arroyo ORL 12/30/2006 ORL vs. MIA W 20 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 2 0 0 1 3 11
+p523
+aVTony Battie ORL 12/29/2006 ORL @ WAS L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -10
+p524
+aVKeith Bogans ORL 12/29/2006 ORL @ WAS L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 5
+p525
+aVJameer Nelson ORL 12/29/2006 ORL @ WAS L 35 15 6 14 42.9 1 2 50.0 2 2 100.0 2 3 5 5 1 0 0 3 -1
+p526
+aVKeyon Dooling ORL 12/29/2006 ORL @ WAS L 24 20 9 13 69.2 2 3 66.7 0 0 - 0 1 1 0 0 0 0 4 6
+p527
+aVCarlos Arroyo ORL 12/29/2006 ORL @ WAS L 13 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 3 0 0 1 0 0
+p528
+aVDwight Howard ORL 12/29/2006 ORL @ WAS L 40 20 9 17 52.9 0 0 - 2 4 50.0 2 10 12 4 1 0 5 5 -6
+p529
+aVTrevor Ariza ORL 12/29/2006 ORL @ WAS L 26 18 5 8 62.5 0 0 - 8 9 88.9 4 1 5 1 3 0 0 5 4
+p530
+aVGrant Hill ORL 12/29/2006 ORL @ WAS L 23 5 2 6 33.3 0 1 0.0 1 1 100.0 0 3 3 3 1 0 1 2 -9
+p531
+aVDarko Milicic ORL 12/29/2006 ORL @ WAS L 17 6 3 5 60.0 0 1 0.0 0 1 0.0 0 0 0 0 1 1 1 2 6
+p532
+aVHedo Turkoglu ORL 12/29/2006 ORL @ WAS L 39 20 7 13 53.8 5 6 83.3 1 2 50.0 2 2 4 6 2 0 5 6 0
+p533
+aVTony Battie ORL 12/27/2006 ORL vs. LAL L 19 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 3 4
+p534
+aVDarko Milicic ORL 12/27/2006 ORL vs. LAL L 18 13 5 10 50.0 0 0 - 3 5 60.0 4 4 8 0 1 2 1 1 -8
+p535
+aVJameer Nelson ORL 12/27/2006 ORL vs. LAL L 33 15 6 12 50.0 1 1 100.0 2 2 100.0 1 2 3 7 1 0 3 3 -11
+p536
+aVHedo Turkoglu ORL 12/27/2006 ORL vs. LAL L 34 12 6 13 46.2 0 4 0.0 0 0 - 0 0 0 5 2 1 2 5 5
+p537
+aVKeyon Dooling ORL 12/27/2006 ORL vs. LAL L 20 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -12
+p538
+aVGrant Hill ORL 12/27/2006 ORL vs. LAL L 28 20 5 12 41.7 0 0 - 10 14 71.4 0 2 2 0 0 2 2 3 -1
+p539
+aVTrevor Ariza ORL 12/27/2006 ORL vs. LAL L 31 11 5 8 62.5 0 0 - 1 2 50.0 3 3 6 0 2 0 1 2 -21
+p540
+aVKeith Bogans ORL 12/27/2006 ORL vs. LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p541
+aVCarlos Arroyo ORL 12/27/2006 ORL vs. LAL L 15 6 2 6 33.3 0 0 - 2 3 66.7 2 1 3 4 1 0 3 1 -2
+p542
+aVDwight Howard ORL 12/27/2006 ORL vs. LAL L 37 12 4 10 40.0 0 0 - 4 5 80.0 2 6 8 1 1 1 3 3 -10
+p543
+aVTrevor Ariza ORL 12/23/2006 ORL @ CLE L 35 13 5 7 71.4 0 0 - 3 5 60.0 3 3 6 1 1 0 0 5 1
+p544
+aVKeyon Dooling ORL 12/23/2006 ORL @ CLE L 22 11 4 9 44.4 1 2 50.0 2 3 66.7 1 0 1 0 1 0 1 2 11
+p545
+aVJameer Nelson ORL 12/23/2006 ORL @ CLE L 27 5 1 8 12.5 0 0 - 3 4 75.0 0 2 2 4 0 0 3 4 -10
+p546
+aVBo Outlaw ORL 12/23/2006 ORL @ CLE L 11 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 1 0 0 0 -4
+p547
+aVPat Garrity ORL 12/23/2006 ORL @ CLE L 8 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 -4
+p548
+aVDarko Milicic ORL 12/23/2006 ORL @ CLE L 24 0 0 0 - 0 0 - 0 0 - 0 2 2 3 0 3 4 3 -5
+p549
+aVTravis Diener ORL 12/23/2006 ORL @ CLE L 11 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 1
+p550
+aVGrant Hill ORL 12/23/2006 ORL @ CLE L 29 15 5 9 55.6 1 2 50.0 4 4 100.0 0 4 4 2 2 0 3 1 -15
+p551
+aVTony Battie ORL 12/23/2006 ORL @ CLE L 21 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 0
+p552
+aVCarlos Arroyo ORL 12/23/2006 ORL @ CLE L 21 10 4 9 44.4 0 0 - 2 2 100.0 0 2 2 5 0 0 1 1 10
+p553
+aVDwight Howard ORL 12/23/2006 ORL @ CLE L 31 17 6 15 40.0 0 0 - 5 7 71.4 4 9 13 1 1 1 3 2 0
+p554
+aVKeyon Dooling ORL 12/22/2006 ORL vs. GSW L 21 9 2 6 33.3 0 1 0.0 5 6 83.3 0 2 2 1 2 0 2 3 -10
+p555
+aVTony Battie ORL 12/22/2006 ORL vs. GSW L 26 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 2 3 -10
+p556
+aVTravis Diener ORL 12/22/2006 ORL vs. GSW L 16 5 2 6 33.3 1 5 20.0 0 0 - 0 0 0 0 0 0 0 5 1
+p557
+aVJameer Nelson ORL 12/22/2006 ORL vs. GSW L 26 22 8 13 61.5 1 3 33.3 5 6 83.3 1 0 1 1 2 0 4 3 -5
+p558
+aVTrevor Ariza ORL 12/22/2006 ORL vs. GSW L 38 23 9 15 60.0 0 0 - 5 7 71.4 1 5 6 4 2 0 3 4 -2
+p559
+aVCarlos Arroyo ORL 12/22/2006 ORL vs. GSW L 18 4 2 5 40.0 0 1 0.0 0 0 - 3 1 4 4 0 0 3 3 -1
+p560
+aVDarko Milicic ORL 12/22/2006 ORL vs. GSW L 20 7 2 8 25.0 0 0 - 3 6 50.0 5 4 9 0 0 1 1 0 2
+p561
+aVGrant Hill ORL 12/22/2006 ORL vs. GSW L 35 21 9 18 50.0 0 0 - 3 4 75.0 0 6 6 7 0 0 1 4 -17
+p562
+aVDwight Howard ORL 12/22/2006 ORL vs. GSW L 40 15 4 8 50.0 0 0 - 7 8 87.5 3 10 13 2 1 5 1 3 -3
+p563
+aVTravis Diener ORL 12/20/2006 ORL vs. NOK W 30 13 4 8 50.0 3 7 42.9 2 2 100.0 1 0 1 1 1 0 1 4 -7
+p564
+aVCarlos Arroyo ORL 12/20/2006 ORL vs. NOK W 24 8 4 8 50.0 0 0 - 0 1 0.0 0 2 2 6 0 0 1 4 8
+p565
+aVPat Garrity ORL 12/20/2006 ORL vs. NOK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p566
+aVTony Battie ORL 12/20/2006 ORL vs. NOK W 23 6 3 10 30.0 0 0 - 0 0 - 4 4 8 0 1 0 4 3 5
+p567
+aVDwight Howard ORL 12/20/2006 ORL vs. NOK W 34 16 6 7 85.7 0 0 - 4 5 80.0 3 10 13 3 1 2 4 4 5
+p568
+aVDarko Milicic ORL 12/20/2006 ORL vs. NOK W 24 4 1 6 16.7 0 0 - 2 6 33.3 0 1 1 0 2 2 3 4 -9
+p569
+aVGrant Hill ORL 12/20/2006 ORL vs. NOK W 36 21 7 13 53.8 0 0 - 7 7 100.0 2 5 7 1 1 0 3 1 4
+p570
+aVKeyon Dooling ORL 12/20/2006 ORL vs. NOK W 24 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 1 0 0 2 1 -12
+p571
+aVBo Outlaw ORL 12/20/2006 ORL vs. NOK W 13 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 1 1 1 0 3 1
+p572
+aVTrevor Ariza ORL 12/20/2006 ORL vs. NOK W 27 14 7 12 58.3 0 1 0.0 0 2 0.0 1 1 2 3 1 0 1 4 20
+p573
+aVJJ Redick ORL 12/16/2006 ORL vs. CLE W 14 6 2 6 33.3 1 2 50.0 1 1 100.0 0 1 1 1 0 0 0 0 15
+p574
+aVCarlos Arroyo ORL 12/16/2006 ORL vs. CLE W 20 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -13
+p575
+aVTravis Diener ORL 12/16/2006 ORL vs. CLE W 28 11 4 6 66.7 2 4 50.0 1 2 50.0 0 1 1 4 0 0 1 1 20
+p576
+aVDarko Milicic ORL 12/16/2006 ORL vs. CLE W 32 12 4 10 40.0 0 0 - 4 6 66.7 3 6 9 1 1 0 1 3 15
+p577
+aVGrant Hill ORL 12/16/2006 ORL vs. CLE W 34 21 9 16 56.3 0 0 - 3 4 75.0 3 3 6 1 2 0 4 4 -6
+p578
+aVTony Battie ORL 12/16/2006 ORL vs. CLE W 20 2 1 6 16.7 0 0 - 0 0 - 3 4 7 0 0 0 1 2 -10
+p579
+aVDwight Howard ORL 12/16/2006 ORL vs. CLE W 39 14 5 11 45.5 0 0 - 4 6 66.7 4 12 16 1 2 5 6 4 3
+p580
+aVKeyon Dooling ORL 12/16/2006 ORL vs. CLE W 24 11 3 8 37.5 2 3 66.7 3 5 60.0 0 4 4 1 0 0 1 2 13
+p581
+aVTrevor Ariza ORL 12/16/2006 ORL vs. CLE W 25 4 2 5 40.0 0 0 - 0 1 0.0 1 2 3 3 1 0 1 4 -9
+p582
+aVPat Garrity ORL 12/16/2006 ORL vs. CLE W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 2 7
+p583
+aVKeyon Dooling ORL 12/14/2006 ORL @ CHA L 37 20 7 13 53.8 1 1 100.0 5 5 100.0 0 3 3 1 1 0 5 1 -1
+p584
+aVPat Garrity ORL 12/14/2006 ORL @ CHA L 10 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 -9
+p585
+aVTrevor Ariza ORL 12/14/2006 ORL @ CHA L 32 7 3 5 60.0 0 0 - 1 2 50.0 1 5 6 2 1 2 5 2 -7
+p586
+aVTravis Diener ORL 12/14/2006 ORL @ CHA L 27 16 5 6 83.3 3 4 75.0 3 3 100.0 1 2 3 3 1 0 0 3 -4
+p587
+aVDwight Howard ORL 12/14/2006 ORL @ CHA L 37 10 4 7 57.1 0 0 - 2 8 25.0 3 9 12 3 1 3 6 3 -4
+p588
+aVBo Outlaw ORL 12/14/2006 ORL @ CHA L 14 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -3
+p589
+aVDarko Milicic ORL 12/14/2006 ORL @ CHA L 25 6 3 8 37.5 0 0 - 0 0 - 0 4 4 5 0 3 3 4 -3
+p590
+aVTony Battie ORL 12/14/2006 ORL @ CHA L 13 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 1 0
+p591
+aVCarlos Arroyo ORL 12/14/2006 ORL @ CHA L 24 13 5 12 41.7 0 1 0.0 3 3 100.0 1 2 3 1 0 0 3 5 -8
+p592
+aVJJ Redick ORL 12/14/2006 ORL @ CHA L 21 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -11
+p593
+aVTony Battie ORL 12/13/2006 ORL vs. TOR L 31 11 5 9 55.6 0 0 - 1 2 50.0 2 1 3 0 1 0 3 4 -2
+p594
+aVDwight Howard ORL 12/13/2006 ORL vs. TOR L 35 17 6 17 35.3 0 0 - 5 8 62.5 8 5 13 3 2 0 2 4 -20
+p595
+aVCarlos Arroyo ORL 12/13/2006 ORL vs. TOR L 28 22 9 17 52.9 0 3 0.0 4 4 100.0 2 4 6 2 0 0 2 3 -8
+p596
+aVGrant Hill ORL 12/13/2006 ORL vs. TOR L 19 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 0 0 0 3 3 -9
+p597
+aVJJ Redick ORL 12/13/2006 ORL vs. TOR L 16 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 3 14
+p598
+aVDarko Milicic ORL 12/13/2006 ORL vs. TOR L 27 8 3 6 50.0 0 0 - 2 2 100.0 3 4 7 1 1 0 1 1 8
+p599
+aVTrevor Ariza ORL 12/13/2006 ORL vs. TOR L 32 7 3 7 42.9 0 0 - 1 2 50.0 4 1 5 0 3 0 0 2 -22
+p600
+aVTravis Diener ORL 12/13/2006 ORL vs. TOR L 20 6 2 11 18.2 2 6 33.3 0 0 - 0 3 3 1 0 0 0 1 2
+p601
+aVKeyon Dooling ORL 12/13/2006 ORL vs. TOR L 32 10 3 11 27.3 0 1 0.0 4 4 100.0 1 2 3 2 0 0 2 0 2
+p602
+aVBo Outlaw ORL 12/11/2006 ORL vs. PHX L 21 6 3 3 100.0 0 0 - 0 0 - 3 3 6 0 1 0 1 4 7
+p603
+aVGrant Hill ORL 12/11/2006 ORL vs. PHX L 30 14 6 11 54.5 0 0 - 2 5 40.0 0 5 5 4 1 0 6 3 -21
+p604
+aVTravis Diener ORL 12/11/2006 ORL vs. PHX L 17 5 2 6 33.3 1 5 20.0 0 0 - 1 1 2 3 1 0 0 2 6
+p605
+aVDwight Howard ORL 12/11/2006 ORL vs. PHX L 19 4 2 6 33.3 0 0 - 0 0 - 0 3 3 2 0 0 5 6 -5
+p606
+aVKeyon Dooling ORL 12/11/2006 ORL vs. PHX L 27 10 5 11 45.5 0 1 0.0 0 0 - 1 1 2 4 1 0 1 1 -18
+p607
+aVTony Battie ORL 12/11/2006 ORL vs. PHX L 24 2 1 4 25.0 0 0 - 0 2 0.0 4 4 8 0 0 0 0 3 -21
+p608
+aVJameer Nelson ORL 12/11/2006 ORL vs. PHX L 24 7 2 9 22.2 1 4 25.0 2 2 100.0 0 3 3 0 0 0 1 2 -19
+p609
+aVDarko Milicic ORL 12/11/2006 ORL vs. PHX L 28 10 4 8 50.0 0 0 - 2 3 66.7 2 4 6 0 0 1 2 0 -9
+p610
+aVCarlos Arroyo ORL 12/11/2006 ORL vs. PHX L 24 12 4 12 33.3 0 2 0.0 4 6 66.7 0 0 0 3 2 0 1 0 5
+p611
+aVTrevor Ariza ORL 12/11/2006 ORL vs. PHX L 26 19 9 14 64.3 0 0 - 1 3 33.3 2 5 7 2 1 0 0 2 5
+p612
+aVDarko Milicic ORL 12/09/2006 ORL vs. PHI W 15 2 1 7 14.3 0 0 - 0 0 - 1 2 3 0 1 0 1 2 -4
+p613
+aVKeyon Dooling ORL 12/09/2006 ORL vs. PHI W 34 7 3 11 27.3 0 3 0.0 1 2 50.0 1 3 4 1 0 0 2 2 2
+p614
+aVDwight Howard ORL 12/09/2006 ORL vs. PHI W 43 28 12 17 70.6 0 0 - 4 6 66.7 5 7 12 0 2 0 1 3 6
+p615
+aVJameer Nelson ORL 12/09/2006 ORL vs. PHI W 29 8 4 12 33.3 0 2 0.0 0 0 - 1 3 4 7 1 1 2 1 0
+p616
+aVTrevor Ariza ORL 12/09/2006 ORL vs. PHI W 22 13 6 9 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 2
+p617
+aVKeith Bogans ORL 12/09/2006 ORL vs. PHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 0 4
+p618
+aVCarlos Arroyo ORL 12/09/2006 ORL vs. PHI W 20 3 1 5 20.0 0 1 0.0 1 2 50.0 3 1 4 5 0 1 1 1 -3
+p619
+aVPat Garrity ORL 12/09/2006 ORL vs. PHI W 4 0 0 1 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 1 0
+p620
+aVGrant Hill ORL 12/09/2006 ORL vs. PHI W 36 23 9 16 56.3 0 1 0.0 5 8 62.5 4 3 7 2 3 1 3 3 2
+p621
+aVTony Battie ORL 12/09/2006 ORL vs. PHI W 31 2 1 4 25.0 0 0 - 0 0 - 4 2 6 2 0 0 1 4 1
+p622
+aVCarlos Arroyo ORL 12/08/2006 ORL vs. DET L 7 9 2 7 28.6 1 2 50.0 4 5 80.0 1 4 5 1 0 0 0 3 2
+p623
+aVGrant Hill ORL 12/08/2006 ORL vs. DET L 6 12 5 9 55.6 0 0 - 2 3 66.7 0 2 2 4 0 0 2 0 -8
+p624
+aVKeith Bogans ORL 12/08/2006 ORL vs. DET L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 1 0 2 -4
+p625
+aVHedo Turkoglu ORL 12/08/2006 ORL vs. DET L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 -1
+p626
+aVPat Garrity ORL 12/08/2006 ORL vs. DET L 3 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 1 0 1 3 8
+p627
+aVDwight Howard ORL 12/08/2006 ORL vs. DET L 9 25 7 13 53.8 0 0 - 11 13 84.6 3 7 10 0 3 1 5 2 -11
+p628
+aVDarko Milicic ORL 12/08/2006 ORL vs. DET L 12 4 2 5 40.0 0 0 - 0 2 0.0 0 5 5 1 1 2 1 2 3
+p629
+aVTrevor Ariza ORL 12/08/2006 ORL vs. DET L 1 10 4 5 80.0 0 0 - 2 7 28.6 1 2 3 1 1 0 1 3 1
+p630
+aVKeyon Dooling ORL 12/08/2006 ORL vs. DET L 5 7 2 5 40.0 0 3 0.0 3 4 75.0 1 0 1 2 0 0 0 0 4
+p631
+aVTony Battie ORL 12/08/2006 ORL vs. DET L 24 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -8
+p632
+aVJameer Nelson ORL 12/08/2006 ORL vs. DET L 5 9 4 10 40.0 1 4 25.0 0 0 - 0 2 2 5 0 0 2 3 -6
+p633
+aVTony Battie ORL 12/06/2006 ORL @ IND L 24 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -2
+p634
+aVTrevor Ariza ORL 12/06/2006 ORL @ IND L 18 0 0 5 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -13
+p635
+aVDwight Howard ORL 12/06/2006 ORL @ IND L 40 20 9 13 69.2 0 0 - 2 5 40.0 1 7 8 3 0 3 4 2 -13
+p636
+aVJJ Redick ORL 12/06/2006 ORL @ IND L 10 4 1 4 25.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 0 1 4
+p637
+aVJameer Nelson ORL 12/06/2006 ORL @ IND L 30 12 3 12 25.0 0 4 0.0 6 6 100.0 0 4 4 1 3 0 1 2 -1
+p638
+aVDarko Milicic ORL 12/06/2006 ORL @ IND L 14 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -13
+p639
+aVCarlos Arroyo ORL 12/06/2006 ORL @ IND L 18 11 4 11 36.4 0 0 - 3 3 100.0 1 2 3 1 1 0 3 1 -13
+p640
+aVGrant Hill ORL 12/06/2006 ORL @ IND L 33 16 8 13 61.5 0 0 - 0 3 0.0 1 2 3 1 3 1 1 0 -9
+p641
+aVHedo Turkoglu ORL 12/06/2006 ORL @ IND L 26 5 1 5 20.0 0 1 0.0 3 3 100.0 1 3 4 2 0 0 1 3 -8
+p642
+aVBo Outlaw ORL 12/06/2006 ORL @ IND L 12 2 1 1 100.0 0 0 - 0 0 - 2 0 2 2 0 0 1 3 3
+p643
+aVKeith Bogans ORL 12/06/2006 ORL @ IND L 15 4 0 1 0.0 0 1 0.0 4 4 100.0 0 0 0 0 0 0 3 2 -5
+p644
+aVPat Garrity ORL 12/04/2006 ORL @ SAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p645
+aVJameer Nelson ORL 12/04/2006 ORL @ SAC W 27 14 6 9 66.7 2 4 50.0 0 0 - 0 0 0 7 0 0 3 3 1
+p646
+aVKeyon Dooling ORL 12/04/2006 ORL @ SAC W 20 5 2 6 33.3 1 3 33.3 0 1 0.0 0 0 0 1 0 0 1 3 12
+p647
+aVDarko Milicic ORL 12/04/2006 ORL @ SAC W 22 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 1 3 3 2 1
+p648
+aVTrevor Ariza ORL 12/04/2006 ORL @ SAC W 12 3 1 2 50.0 0 0 - 1 1 100.0 1 5 6 1 0 0 0 0 -1
+p649
+aVTony Battie ORL 12/04/2006 ORL @ SAC W 30 9 3 5 60.0 0 0 - 3 4 75.0 1 8 9 0 1 2 0 3 4
+p650
+aVCarlos Arroyo ORL 12/04/2006 ORL @ SAC W 21 12 4 10 40.0 0 0 - 4 4 100.0 1 0 1 5 1 0 1 3 2
+p651
+aVDwight Howard ORL 12/04/2006 ORL @ SAC W 39 18 7 9 77.8 0 0 - 4 8 50.0 2 14 16 0 1 1 4 2 3
+p652
+aVKeith Bogans ORL 12/04/2006 ORL @ SAC W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 2 -8
+p653
+aVGrant Hill ORL 12/04/2006 ORL @ SAC W 21 10 4 8 50.0 0 1 0.0 2 5 40.0 0 3 3 0 2 1 1 5 -1
+p654
+aVHedo Turkoglu ORL 12/04/2006 ORL @ SAC W 35 14 7 14 50.0 0 2 0.0 0 2 0.0 1 3 4 5 1 0 2 3 4
+p655
+aVHedo Turkoglu ORL 12/03/2006 ORL @ LAC L 29 15 5 9 55.6 3 5 60.0 2 3 66.7 1 0 1 1 0 0 1 3 -11
+p656
+aVGrant Hill ORL 12/03/2006 ORL @ LAC L 23 8 4 10 40.0 0 0 - 0 0 - 1 4 5 5 0 0 4 2 -7
+p657
+aVKeith Bogans ORL 12/03/2006 ORL @ LAC L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 0 1 0 1 2 -8
+p658
+aVCarlos Arroyo ORL 12/03/2006 ORL @ LAC L 23 7 3 9 33.3 0 3 0.0 1 2 50.0 0 1 1 4 0 0 4 2 -17
+p659
+aVTony Battie ORL 12/03/2006 ORL @ LAC L 22 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -4
+p660
+aVKeyon Dooling ORL 12/03/2006 ORL @ LAC L 23 9 4 11 36.4 1 4 25.0 0 0 - 2 0 2 1 0 0 0 2 -17
+p661
+aVDwight Howard ORL 12/03/2006 ORL @ LAC L 36 16 5 7 71.4 0 0 - 6 10 60.0 1 6 7 2 0 2 1 4 -10
+p662
+aVPat Garrity ORL 12/03/2006 ORL @ LAC L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p663
+aVTrevor Ariza ORL 12/03/2006 ORL @ LAC L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -7
+p664
+aVDarko Milicic ORL 12/03/2006 ORL @ LAC L 26 11 4 6 66.7 0 0 - 3 4 75.0 0 4 4 1 1 0 2 3 -24
+p665
+aVJameer Nelson ORL 12/03/2006 ORL @ LAC L 25 13 6 10 60.0 1 2 50.0 0 0 - 1 4 5 3 1 0 0 1 -8
+p666
+aVDwight Howard ORL 12/01/2006 ORL @ POR W 41 18 8 11 72.7 0 0 - 2 3 66.7 4 12 16 1 0 4 1 0 2
+p667
+aVJameer Nelson ORL 12/01/2006 ORL @ POR W 26 1 0 4 0.0 0 1 0.0 1 2 50.0 0 3 3 5 2 0 2 2 0
+p668
+aVDarko Milicic ORL 12/01/2006 ORL @ POR W 28 10 5 12 41.7 0 0 - 0 0 - 1 2 3 2 0 1 1 5 -2
+p669
+aVTony Battie ORL 12/01/2006 ORL @ POR W 27 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 1 2 5 2
+p670
+aVKeyon Dooling ORL 12/01/2006 ORL @ POR W 17 10 4 8 50.0 1 3 33.3 1 1 100.0 1 0 1 2 0 0 0 2 5
+p671
+aVCarlos Arroyo ORL 12/01/2006 ORL @ POR W 22 7 3 9 33.3 0 2 0.0 1 1 100.0 0 2 2 4 2 0 0 1 2
+p672
+aVTrevor Ariza ORL 12/01/2006 ORL @ POR W 18 10 4 5 80.0 0 0 - 2 3 66.7 1 2 3 0 0 0 1 1 5
+p673
+aVHedo Turkoglu ORL 12/01/2006 ORL @ POR W 30 13 4 10 40.0 2 5 40.0 3 4 75.0 0 5 5 4 1 0 0 2 -1
+p674
+aVGrant Hill ORL 12/01/2006 ORL @ POR W 31 16 6 11 54.5 0 0 - 4 5 80.0 2 2 4 4 1 0 7 2 -3
+p675
+aVTrevor Ariza ORL 11/29/2006 ORL @ SEA W 26 8 4 7 57.1 0 0 - 0 0 - 3 3 6 1 2 1 2 4 10
+p676
+aVBo Outlaw ORL 11/29/2006 ORL @ SEA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p677
+aVDarko Milicic ORL 11/29/2006 ORL @ SEA W 26 14 3 5 60.0 0 0 - 8 12 66.7 1 2 3 1 0 3 4 1 13
+p678
+aVTony Battie ORL 11/29/2006 ORL @ SEA W 31 4 2 4 50.0 0 0 - 0 0 - 1 6 7 0 0 0 0 0 3
+p679
+aVCarlos Arroyo ORL 11/29/2006 ORL @ SEA W 24 16 5 9 55.6 0 0 - 6 7 85.7 1 1 2 4 2 0 2 2 4
+p680
+aVKeyon Dooling ORL 11/29/2006 ORL @ SEA W 20 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 1 1 4
+p681
+aVGrant Hill ORL 11/29/2006 ORL @ SEA W 28 4 2 9 22.2 0 0 - 0 0 - 0 2 2 4 2 0 2 2 6
+p682
+aVJameer Nelson ORL 11/29/2006 ORL @ SEA W 24 9 4 10 40.0 1 2 50.0 0 0 - 1 2 3 6 0 0 1 2 6
+p683
+aVKeith Bogans ORL 11/29/2006 ORL @ SEA W 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p684
+aVDwight Howard ORL 11/29/2006 ORL @ SEA W 31 24 8 8 100.0 0 0 - 8 12 66.7 4 8 12 0 0 4 4 3 2
+p685
+aVHedo Turkoglu ORL 11/29/2006 ORL @ SEA W 22 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 4 0 0 0 3 0
+p686
+aVBo Outlaw ORL 11/27/2006 ORL @ UTA W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 1 13
+p687
+aVHedo Turkoglu ORL 11/27/2006 ORL @ UTA W 23 5 2 8 25.0 1 3 33.3 0 0 - 0 2 2 1 0 0 4 3 0
+p688
+aVJameer Nelson ORL 11/27/2006 ORL @ UTA W 29 15 7 19 36.8 0 5 0.0 1 3 33.3 4 3 7 3 2 0 1 2 10
+p689
+aVDarko Milicic ORL 11/27/2006 ORL @ UTA W 23 5 1 2 50.0 0 0 - 3 4 75.0 0 5 5 1 1 2 1 5 17
+p690
+aVKeyon Dooling ORL 11/27/2006 ORL @ UTA W 18 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 2 3 0 2 3 12
+p691
+aVTrevor Ariza ORL 11/27/2006 ORL @ UTA W 22 8 3 6 50.0 0 0 - 2 3 66.7 4 0 4 1 0 0 1 0 8
+p692
+aVGrant Hill ORL 11/27/2006 ORL @ UTA W 33 16 5 10 50.0 0 1 0.0 6 7 85.7 1 0 1 1 2 0 2 1 4
+p693
+aVTony Battie ORL 11/27/2006 ORL @ UTA W 24 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 0 0 4 -4
+p694
+aVCarlos Arroyo ORL 11/27/2006 ORL @ UTA W 19 13 6 11 54.5 1 2 50.0 0 0 - 0 2 2 0 1 0 1 0 3
+p695
+aVDwight Howard ORL 11/27/2006 ORL @ UTA W 39 21 4 11 36.4 0 0 - 13 16 81.3 3 13 16 2 0 1 2 2 2
+p696
+aVTony Battie ORL 11/25/2006 ORL vs. ATL W 16 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 4 9
+p697
+aVKeyon Dooling ORL 11/25/2006 ORL vs. ATL W 22 13 4 9 44.4 2 3 66.7 3 3 100.0 0 3 3 3 1 0 1 1 3
+p698
+aVDarko Milicic ORL 11/25/2006 ORL vs. ATL W 32 7 3 7 42.9 0 0 - 1 2 50.0 1 4 5 3 1 2 1 3 12
+p699
+aVHedo Turkoglu ORL 11/25/2006 ORL vs. ATL W 26 14 6 10 60.0 1 3 33.3 1 3 33.3 0 5 5 5 0 0 1 2 17
+p700
+aVBo Outlaw ORL 11/25/2006 ORL vs. ATL W 15 2 1 2 50.0 0 0 - 0 0 - 3 4 7 1 2 1 0 0 -2
+p701
+aVTravis Diener ORL 11/25/2006 ORL vs. ATL W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p702
+aVTrevor Ariza ORL 11/25/2006 ORL vs. ATL W 22 7 3 8 37.5 0 0 - 1 2 50.0 2 2 4 0 1 2 3 2 2
+p703
+aVJJ Redick ORL 11/25/2006 ORL vs. ATL W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -1
+p704
+aVKeith Bogans ORL 11/25/2006 ORL vs. ATL W 23 13 4 8 50.0 1 4 25.0 4 4 100.0 0 2 2 1 2 0 2 0 17
+p705
+aVCarlos Arroyo ORL 11/25/2006 ORL vs. ATL W 18 15 4 11 36.4 1 2 50.0 6 6 100.0 0 1 1 2 2 0 2 3 5
+p706
+aVJameer Nelson ORL 11/25/2006 ORL vs. ATL W 27 11 4 9 44.4 1 2 50.0 2 4 50.0 0 3 3 2 1 0 1 2 15
+p707
+aVDwight Howard ORL 11/25/2006 ORL vs. ATL W 33 11 4 6 66.7 0 0 - 3 5 60.0 2 9 11 3 1 3 5 6 19
+p708
+aVKeith Bogans ORL 11/24/2006 ORL @ MIA W 14 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 4
+p709
+aVJameer Nelson ORL 11/24/2006 ORL @ MIA W 30 14 6 11 54.5 2 3 66.7 0 0 - 1 1 2 5 1 0 1 4 -13
+p710
+aVTrevor Ariza ORL 11/24/2006 ORL @ MIA W 12 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 0 0 1 0 -2
+p711
+aVHedo Turkoglu ORL 11/24/2006 ORL @ MIA W 33 6 3 8 37.5 0 3 0.0 0 0 - 1 1 2 3 2 0 1 2 -2
+p712
+aVDarko Milicic ORL 11/24/2006 ORL @ MIA W 29 11 3 7 42.9 0 0 - 5 6 83.3 2 6 8 1 1 1 0 3 13
+p713
+aVGrant Hill ORL 11/24/2006 ORL @ MIA W 34 24 9 15 60.0 0 0 - 6 8 75.0 2 1 3 2 1 0 3 3 -1
+p714
+aVCarlos Arroyo ORL 11/24/2006 ORL @ MIA W 19 7 3 7 42.9 0 0 - 1 1 100.0 1 2 3 3 0 0 0 1 16
+p715
+aVDwight Howard ORL 11/24/2006 ORL @ MIA W 38 23 6 19 31.6 0 0 - 11 15 73.3 4 8 12 2 0 1 2 3 2
+p716
+aVTony Battie ORL 11/24/2006 ORL @ MIA W 20 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 1 0 3 0 5 -9
+p717
+aVKeyon Dooling ORL 11/24/2006 ORL @ MIA W 11 8 2 2 100.0 1 1 100.0 3 3 100.0 0 1 1 1 0 0 0 0 7
+p718
+aVCarlos Arroyo ORL 11/22/2006 ORL vs. IND W 16 8 2 5 40.0 0 1 0.0 4 5 80.0 0 0 0 2 0 0 4 1 -4
+p719
+aVTrevor Ariza ORL 11/22/2006 ORL vs. IND W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p720
+aVJameer Nelson ORL 11/22/2006 ORL vs. IND W 31 22 7 12 58.3 1 2 50.0 7 9 77.8 0 3 3 5 3 0 1 4 9
+p721
+aVKeyon Dooling ORL 11/22/2006 ORL vs. IND W 28 7 2 9 22.2 0 4 0.0 3 6 50.0 0 3 3 0 0 0 0 2 -5
+p722
+aVDwight Howard ORL 11/22/2006 ORL vs. IND W 38 16 7 12 58.3 0 0 - 2 6 33.3 4 7 11 1 0 1 5 5 9
+p723
+aVHedo Turkoglu ORL 11/22/2006 ORL vs. IND W 24 4 1 5 20.0 0 0 - 2 3 66.7 0 1 1 0 2 0 1 3 7
+p724
+aVGrant Hill ORL 11/22/2006 ORL vs. IND W 35 14 4 7 57.1 0 0 - 6 8 75.0 0 6 6 4 1 1 1 1 11
+p725
+aVTony Battie ORL 11/22/2006 ORL vs. IND W 31 8 4 8 50.0 0 0 - 0 0 - 1 9 10 0 1 0 2 4 8
+p726
+aVKeith Bogans ORL 11/22/2006 ORL vs. IND W 8 4 1 2 50.0 1 1 100.0 1 2 50.0 1 0 1 0 0 0 1 2 0
+p727
+aVDarko Milicic ORL 11/22/2006 ORL vs. IND W 22 11 5 8 62.5 0 0 - 1 4 25.0 1 5 6 0 1 3 1 2 -3
+p728
+aVCarlos Arroyo ORL 11/20/2006 ORL @ MEM L 15 3 1 6 16.7 1 2 50.0 0 0 - 0 0 0 3 1 0 0 3 -13
+p729
+aVKeith Bogans ORL 11/20/2006 ORL @ MEM L 13 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 2 -7
+p730
+aVDarko Milicic ORL 11/20/2006 ORL @ MEM L 17 0 0 5 0.0 0 0 - 0 0 - 0 5 5 1 0 3 1 2 0
+p731
+aVJameer Nelson ORL 11/20/2006 ORL @ MEM L 34 12 5 12 41.7 0 3 0.0 2 2 100.0 0 2 2 4 2 0 2 4 4
+p732
+aVTony Battie ORL 11/20/2006 ORL @ MEM L 29 10 5 7 71.4 0 0 - 0 0 - 0 5 5 1 2 1 2 2 -9
+p733
+aVTrevor Ariza ORL 11/20/2006 ORL @ MEM L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -6
+p734
+aVDwight Howard ORL 11/20/2006 ORL @ MEM L 41 24 9 12 75.0 0 0 - 6 8 75.0 8 15 23 1 1 1 3 0 -3
+p735
+aVGrant Hill ORL 11/20/2006 ORL @ MEM L 38 16 6 10 60.0 0 0 - 4 5 80.0 2 4 6 7 0 2 3 2 -7
+p736
+aVKeyon Dooling ORL 11/20/2006 ORL @ MEM L 13 3 1 4 25.0 0 2 0.0 1 1 100.0 1 1 2 0 0 0 0 4 -8
+p737
+aVHedo Turkoglu ORL 11/20/2006 ORL @ MEM L 34 12 4 16 25.0 2 6 33.3 2 2 100.0 1 2 3 5 0 0 4 2 4
+p738
+aVHedo Turkoglu ORL 11/18/2006 ORL vs. CHA W 21 8 3 9 33.3 1 2 50.0 1 1 100.0 1 0 1 2 1 0 2 2 3
+p739
+aVCarlos Arroyo ORL 11/18/2006 ORL vs. CHA W 23 8 3 7 42.9 1 2 50.0 1 1 100.0 0 0 0 2 0 0 3 4 10
+p740
+aVGrant Hill ORL 11/18/2006 ORL vs. CHA W 28 15 5 11 45.5 0 1 0.0 5 7 71.4 1 2 3 3 1 0 1 1 12
+p741
+aVPat Garrity ORL 11/18/2006 ORL vs. CHA W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 6
+p742
+aVKeyon Dooling ORL 11/18/2006 ORL vs. CHA W 26 9 4 8 50.0 1 1 100.0 0 0 - 0 2 2 1 0 1 0 0 8
+p743
+aVJameer Nelson ORL 11/18/2006 ORL vs. CHA W 25 9 3 7 42.9 1 1 100.0 2 2 100.0 1 2 3 4 1 1 3 2 4
+p744
+aVTony Battie ORL 11/18/2006 ORL vs. CHA W 21 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 0 3 3
+p745
+aVDarko Milicic ORL 11/18/2006 ORL vs. CHA W 25 14 7 12 58.3 0 0 - 0 2 0.0 4 4 8 3 2 4 2 4 11
+p746
+aVKeith Bogans ORL 11/18/2006 ORL vs. CHA W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -4
+p747
+aVTrevor Ariza ORL 11/18/2006 ORL vs. CHA W 29 5 2 4 50.0 0 0 - 1 1 100.0 1 5 6 1 1 0 2 3 11
+p748
+aVDwight Howard ORL 11/18/2006 ORL vs. CHA W 30 24 7 12 58.3 0 0 - 10 13 76.9 6 15 21 2 1 0 1 2 6
+p749
+aVCarlos Arroyo ORL 11/15/2006 ORL vs. DEN W 22 14 4 8 50.0 0 1 0.0 6 8 75.0 1 4 5 5 1 0 1 1 19
+p750
+aVHedo Turkoglu ORL 11/15/2006 ORL vs. DEN W 36 18 6 14 42.9 4 7 57.1 2 2 100.0 1 5 6 2 0 0 3 6 11
+p751
+aVJameer Nelson ORL 11/15/2006 ORL vs. DEN W 26 7 3 10 30.0 0 2 0.0 1 2 50.0 0 6 6 4 0 0 4 2 -10
+p752
+aVKeith Bogans ORL 11/15/2006 ORL vs. DEN W 8 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 1 0 -1
+p753
+aVDwight Howard ORL 11/15/2006 ORL vs. DEN W 40 9 2 5 40.0 0 0 - 5 8 62.5 4 4 8 0 1 2 2 1 4
+p754
+aVTony Battie ORL 11/15/2006 ORL vs. DEN W 21 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 2 1 4 -2
+p755
+aVDarko Milicic ORL 11/15/2006 ORL vs. DEN W 14 4 1 3 33.3 0 0 - 2 3 66.7 0 4 4 1 0 2 4 5 8
+p756
+aVKeyon Dooling ORL 11/15/2006 ORL vs. DEN W 24 25 8 14 57.1 5 5 100.0 4 5 80.0 0 1 1 1 1 1 4 3 22
+p757
+aVGrant Hill ORL 11/15/2006 ORL vs. DEN W 28 15 4 6 66.7 0 0 - 7 9 77.8 0 4 4 1 0 0 3 5 -10
+p758
+aVTrevor Ariza ORL 11/15/2006 ORL vs. DEN W 21 9 4 6 66.7 0 0 - 1 1 100.0 3 1 4 1 3 0 3 5 4
+p759
+aVTony Battie ORL 11/13/2006 ORL @ BOS W 21 0 0 3 0.0 0 0 - 0 0 - 0 6 6 0 0 0 1 3 -1
+p760
+aVDwight Howard ORL 11/13/2006 ORL @ BOS W 39 17 5 8 62.5 0 0 - 7 11 63.6 2 13 15 4 0 3 3 2 8
+p761
+aVDarko Milicic ORL 11/13/2006 ORL @ BOS W 19 8 4 5 80.0 0 0 - 0 0 - 2 2 4 0 0 3 1 3 1
+p762
+aVCarlos Arroyo ORL 11/13/2006 ORL @ BOS W 13 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 1 0 0 2 0 -6
+p763
+aVKeyon Dooling ORL 11/13/2006 ORL @ BOS W 14 1 0 2 0.0 0 1 0.0 1 1 100.0 0 0 0 2 1 0 1 2 -7
+p764
+aVJameer Nelson ORL 11/13/2006 ORL @ BOS W 35 24 11 17 64.7 0 2 0.0 2 4 50.0 0 5 5 7 1 0 4 2 9
+p765
+aVGrant Hill ORL 11/13/2006 ORL @ BOS W 30 18 8 12 66.7 0 1 0.0 2 3 66.7 1 1 2 1 1 0 1 3 12
+p766
+aVBo Outlaw ORL 11/13/2006 ORL @ BOS W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p767
+aVTrevor Ariza ORL 11/13/2006 ORL @ BOS W 19 10 4 7 57.1 0 0 - 2 4 50.0 3 2 5 1 0 1 0 2 1
+p768
+aVHedo Turkoglu ORL 11/13/2006 ORL @ BOS W 36 7 3 9 33.3 0 2 0.0 1 1 100.0 1 3 4 1 0 0 1 2 0
+p769
+aVKeith Bogans ORL 11/13/2006 ORL @ BOS W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -4
+p770
+aVDwight Howard ORL 11/11/2006 ORL @ MIN W 38 21 10 16 62.5 0 0 - 1 3 33.3 7 15 22 1 0 1 0 1 6
+p771
+aVTrevor Ariza ORL 11/11/2006 ORL @ MIN W 25 10 4 6 66.7 0 0 - 2 4 50.0 3 2 5 2 2 0 1 2 11
+p772
+aVKeyon Dooling ORL 11/11/2006 ORL @ MIN W 18 10 3 4 75.0 0 0 - 4 4 100.0 0 1 1 3 0 0 3 4 12
+p773
+aVPat Garrity ORL 11/11/2006 ORL @ MIN W 19 11 2 5 40.0 1 3 33.3 6 7 85.7 1 0 1 0 0 0 0 2 1
+p774
+aVCarlos Arroyo ORL 11/11/2006 ORL @ MIN W 21 6 2 8 25.0 0 1 0.0 2 2 100.0 0 4 4 4 1 0 2 2 6
+p775
+aVJameer Nelson ORL 11/11/2006 ORL @ MIN W 31 23 8 13 61.5 1 2 50.0 6 7 85.7 0 2 2 3 1 0 2 3 1
+p776
+aVKeith Bogans ORL 11/11/2006 ORL @ MIN W 28 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 3 0 0 1 3 4
+p777
+aVTony Battie ORL 11/11/2006 ORL @ MIN W 14 6 3 6 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 0
+p778
+aVDarko Milicic ORL 11/11/2006 ORL @ MIN W 25 15 6 9 66.7 0 0 - 3 5 60.0 2 3 5 1 1 1 2 5 12
+p779
+aVHedo Turkoglu ORL 11/11/2006 ORL @ MIN W 21 2 1 9 11.1 0 3 0.0 0 0 - 0 1 1 4 0 0 0 1 2
+p780
+aVDarko Milicic ORL 11/10/2006 ORL @ IND L 20 5 2 6 33.3 0 0 - 1 2 50.0 1 1 2 1 0 3 1 1 -12
+p781
+aVCarlos Arroyo ORL 11/10/2006 ORL @ IND L 15 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 2 0 0 1 2 -4
+p782
+aVTony Battie ORL 11/10/2006 ORL @ IND L 32 3 1 4 25.0 0 0 - 1 2 50.0 1 8 9 1 3 2 1 3 -4
+p783
+aVDwight Howard ORL 11/10/2006 ORL @ IND L 42 17 7 12 58.3 0 0 - 3 7 42.9 4 10 14 1 1 3 8 4 -4
+p784
+aVHedo Turkoglu ORL 11/10/2006 ORL @ IND L 35 12 4 9 44.4 2 3 66.7 2 3 66.7 0 2 2 1 2 0 4 4 10
+p785
+aVGrant Hill ORL 11/10/2006 ORL @ IND L 33 17 6 15 40.0 1 1 100.0 4 4 100.0 1 3 4 1 4 1 3 2 6
+p786
+aVJameer Nelson ORL 11/10/2006 ORL @ IND L 33 19 8 11 72.7 0 0 - 3 4 75.0 0 1 1 6 1 0 2 3 -6
+p787
+aVTrevor Ariza ORL 11/10/2006 ORL @ IND L 15 1 0 2 0.0 0 0 - 1 4 25.0 0 0 0 2 1 0 0 2 -19
+p788
+aVKeyon Dooling ORL 11/10/2006 ORL @ IND L 15 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -17
+p789
+aVKeith Bogans ORL 11/08/2006 ORL vs. SEA W 1 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 6
+p790
+aVBo Outlaw ORL 11/08/2006 ORL vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 3 1 4 1 0 0 0 1 -9
+p791
+aVHedo Turkoglu ORL 11/08/2006 ORL vs. SEA W 11 18 7 14 50.0 2 7 28.6 2 4 50.0 0 2 2 2 0 1 3 2 4
+p792
+aVJameer Nelson ORL 11/08/2006 ORL vs. SEA W 4 18 8 12 66.7 2 3 66.7 0 0 - 0 2 2 3 3 0 3 3 4
+p793
+aVGrant Hill ORL 11/08/2006 ORL vs. SEA W 5 12 6 11 54.5 0 1 0.0 0 2 0.0 0 2 2 5 1 0 3 0 -1
+p794
+aVDarko Milicic ORL 11/08/2006 ORL vs. SEA W 10 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 2 3 4 6 4
+p795
+aVDwight Howard ORL 11/08/2006 ORL vs. SEA W 8 8 3 5 60.0 0 0 - 2 2 100.0 2 8 10 4 2 0 5 4 6
+p796
+aVKeyon Dooling ORL 11/08/2006 ORL vs. SEA W 9 7 2 5 40.0 0 1 0.0 3 4 75.0 0 0 0 0 0 0 3 1 -7
+p797
+aVCarlos Arroyo ORL 11/08/2006 ORL vs. SEA W 8 10 2 5 40.0 1 2 50.0 5 5 100.0 0 2 2 6 0 0 2 1 -3
+p798
+aVPat Garrity ORL 11/08/2006 ORL vs. SEA W 9 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 1 -3
+p799
+aVTony Battie ORL 11/08/2006 ORL vs. SEA W 6 6 2 3 66.7 0 0 - 2 6 33.3 0 5 5 0 2 0 1 3 4
+p800
+aVKeyon Dooling ORL 11/06/2006 ORL vs. WAS W 27 15 6 10 60.0 1 3 33.3 2 2 100.0 0 2 2 5 2 0 1 2 8
+p801
+aVDwight Howard ORL 11/06/2006 ORL vs. WAS W 35 7 2 6 33.3 0 0 - 3 5 60.0 6 8 14 1 0 5 2 1 1
+p802
+aVDarko Milicic ORL 11/06/2006 ORL vs. WAS W 20 4 1 8 12.5 0 0 - 2 2 100.0 3 4 7 1 1 1 1 1 -1
+p803
+aVTony Battie ORL 11/06/2006 ORL vs. WAS W 32 13 6 6 100.0 0 0 - 1 2 50.0 1 4 5 1 0 0 2 3 1
+p804
+aVKeith Bogans ORL 11/06/2006 ORL vs. WAS W 19 8 2 3 66.7 1 1 100.0 3 4 75.0 0 3 3 0 1 0 1 1 7
+p805
+aVGrant Hill ORL 11/06/2006 ORL vs. WAS W 27 10 3 7 42.9 0 1 0.0 4 6 66.7 0 2 2 3 1 0 1 6 0
+p806
+aVJameer Nelson ORL 11/06/2006 ORL vs. WAS W 22 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 4 0 0 5 2 -13
+p807
+aVCarlos Arroyo ORL 11/06/2006 ORL vs. WAS W 27 23 9 13 69.2 3 4 75.0 2 3 66.7 0 1 1 4 0 0 0 2 17
+p808
+aVHedo Turkoglu ORL 11/06/2006 ORL vs. WAS W 31 18 7 17 41.2 4 8 50.0 0 0 - 1 1 2 1 2 0 2 4 -5
+p809
+aVGrant Hill ORL 11/05/2006 ORL @ ATL L 29 14 5 11 45.5 0 0 - 4 5 80.0 0 5 5 0 1 0 3 4 -4
+p810
+aVPat Garrity ORL 11/05/2006 ORL @ ATL L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p811
+aVJameer Nelson ORL 11/05/2006 ORL @ ATL L 22 4 2 6 33.3 0 0 - 0 0 - 1 0 1 1 2 0 5 3 1
+p812
+aVCarlos Arroyo ORL 11/05/2006 ORL @ ATL L 25 22 9 9 100.0 1 1 100.0 3 4 75.0 0 3 3 3 0 0 2 1 -14
+p813
+aVKeith Bogans ORL 11/05/2006 ORL @ ATL L 15 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 1 3 -5
+p814
+aVTony Battie ORL 11/05/2006 ORL @ ATL L 24 7 3 6 50.0 0 0 - 1 1 100.0 3 4 7 0 0 1 0 1 -8
+p815
+aVBo Outlaw ORL 11/05/2006 ORL @ ATL L 12 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -1
+p816
+aVDwight Howard ORL 11/05/2006 ORL @ ATL L 25 11 3 5 60.0 0 0 - 5 8 62.5 3 5 8 0 1 2 5 5 2
+p817
+aVKeyon Dooling ORL 11/05/2006 ORL @ ATL L 26 5 2 10 20.0 0 2 0.0 1 1 100.0 0 2 2 1 0 0 2 3 -7
+p818
+aVDarko Milicic ORL 11/05/2006 ORL @ ATL L 24 9 4 11 36.4 0 0 - 1 6 16.7 5 1 6 1 0 3 1 2 -18
+p819
+aVHedo Turkoglu ORL 11/05/2006 ORL @ ATL L 26 3 1 10 10.0 0 4 0.0 1 2 50.0 1 4 5 2 0 0 1 3 -10
+p820
+aVTravis Diener ORL 11/05/2006 ORL @ ATL L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 0
+p821
+aVKeyon Dooling ORL 11/03/2006 ORL vs. PHI L 26 12 4 9 44.4 1 3 33.3 3 4 75.0 0 2 2 1 0 0 0 3 -2
+p822
+aVHedo Turkoglu ORL 11/03/2006 ORL vs. PHI L 36 15 6 14 42.9 1 2 50.0 2 2 100.0 3 6 9 3 3 0 3 2 1
+p823
+aVDarko Milicic ORL 11/03/2006 ORL vs. PHI L 15 11 5 6 83.3 0 0 - 1 1 100.0 2 4 6 2 1 0 2 5 4
+p824
+aVGrant Hill ORL 11/03/2006 ORL vs. PHI L 37 25 8 11 72.7 0 0 - 9 10 90.0 0 3 3 4 1 1 3 0 -7
+p825
+aVTony Battie ORL 11/03/2006 ORL vs. PHI L 18 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 1 0 3 5 -3
+p826
+aVTravis Diener ORL 11/03/2006 ORL vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p827
+aVPat Garrity ORL 11/03/2006 ORL vs. PHI L 16 4 1 4 25.0 0 3 0.0 2 2 100.0 1 2 3 1 0 0 1 3 0
+p828
+aVDwight Howard ORL 11/03/2006 ORL vs. PHI L 35 14 5 9 55.6 0 0 - 4 9 44.4 3 6 9 2 0 2 6 3 -6
+p829
+aVJameer Nelson ORL 11/03/2006 ORL vs. PHI L 35 14 6 12 50.0 0 0 - 2 5 40.0 2 3 5 3 0 0 4 3 2
+p830
+aVKeith Bogans ORL 11/03/2006 ORL vs. PHI L 18 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 2 1 0 1 4 -3
+p831
+aVDwight Howard ORL 11/01/2006 ORL vs. CHI W 33 27 9 12 75.0 0 0 - 9 10 90.0 2 9 11 3 1 2 4 3 14
+p832
+aVDarko Milicic ORL 11/01/2006 ORL vs. CHI W 18 7 2 5 40.0 0 0 - 3 6 50.0 1 3 4 0 0 1 1 0 0
+p833
+aVKeyon Dooling ORL 11/01/2006 ORL vs. CHI W 29 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 4 1 0 2 4 -2
+p834
+aVGrant Hill ORL 11/01/2006 ORL vs. CHI W 29 19 5 7 71.4 0 0 - 9 10 90.0 1 3 4 1 2 0 1 2 16
+p835
+aVHedo Turkoglu ORL 11/01/2006 ORL vs. CHI W 33 11 4 8 50.0 2 2 100.0 1 2 50.0 0 7 7 6 0 1 4 3 24
+p836
+aVCarlos Arroyo ORL 11/01/2006 ORL vs. CHI W 18 7 2 5 40.0 0 0 - 3 4 75.0 0 3 3 3 0 0 2 1 1
+p837
+aVTravis Diener ORL 11/01/2006 ORL vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p838
+aVBo Outlaw ORL 11/01/2006 ORL vs. CHI W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 0
+p839
+aVJameer Nelson ORL 11/01/2006 ORL vs. CHI W 32 21 7 8 87.5 2 2 100.0 5 6 83.3 0 4 4 3 1 1 5 4 18
+p840
+aVKeith Bogans ORL 11/01/2006 ORL vs. CHI W 16 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 1 1 0 2 3 -7
+p841
+aVTony Battie ORL 11/01/2006 ORL vs. CHI W 27 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 1 2 0 3 15
+p842
+a.

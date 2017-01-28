@@ -1,0 +1,290 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRashard Lewis ORL 05/28/2010 ORL @ BOS L 40 7 3 11 27.3 0 4 0.0 1 2 50.0 4 4 8 2 2 1 2 1 -13
+p2
+aVJason Williams ORL 05/28/2010 ORL @ BOS L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 11
+p3
+aVMatt Barnes ORL 05/28/2010 ORL @ BOS L 21 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 0 3 -10
+p4
+aVMickael Pietrus ORL 05/28/2010 ORL @ BOS L 12 7 2 3 66.7 2 3 66.7 1 2 50.0 0 0 0 0 1 0 0 1 -2
+p5
+aVMarcin Gortat ORL 05/28/2010 ORL @ BOS L 10 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 1 0 0 5
+p6
+aVJameer Nelson ORL 05/28/2010 ORL @ BOS L 32 11 5 14 35.7 1 5 20.0 0 0 - 0 1 1 4 0 0 5 5 -23
+p7
+aVDwight Howard ORL 05/28/2010 ORL @ BOS L 41 28 11 17 64.7 0 0 - 6 12 50.0 3 9 12 0 2 1 2 4 -18
+p8
+aVVince Carter ORL 05/28/2010 ORL @ BOS L 39 17 6 15 40.0 1 4 25.0 4 5 80.0 2 5 7 3 0 0 2 3 -4
+p9
+aVJJ Redick ORL 05/28/2010 ORL @ BOS L 23 7 2 7 28.6 1 4 25.0 2 2 100.0 0 1 1 2 3 0 1 3 -8
+p10
+aVBrandon Bass ORL 05/28/2010 ORL @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p11
+aVJason Williams ORL 05/26/2010 ORL vs. BOS W 18 5 2 4 50.0 0 2 0.0 1 1 100.0 2 1 3 5 1 0 0 0 10
+p12
+aVJJ Redick ORL 05/26/2010 ORL vs. BOS W 22 14 3 6 50.0 2 3 66.7 6 7 85.7 0 1 1 1 1 0 1 2 18
+p13
+aVRashard Lewis ORL 05/26/2010 ORL vs. BOS W 24 14 6 11 54.5 1 3 33.3 1 2 50.0 2 5 7 0 0 0 2 5 14
+p14
+aVMickael Pietrus ORL 05/26/2010 ORL vs. BOS W 24 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 0 1 1 0 2 10
+p15
+aVMatt Barnes ORL 05/26/2010 ORL vs. BOS W 25 9 3 6 50.0 3 4 75.0 0 0 - 1 6 7 0 1 1 2 2 7
+p16
+aVDwight Howard ORL 05/26/2010 ORL vs. BOS W 40 21 7 12 58.3 0 0 - 7 12 58.3 2 8 10 0 2 5 4 2 13
+p17
+aVMarcin Gortat ORL 05/26/2010 ORL vs. BOS W 20 2 0 0 - 0 0 - 2 2 100.0 2 2 4 1 0 0 0 3 9
+p18
+aVJameer Nelson ORL 05/26/2010 ORL vs. BOS W 30 24 6 10 60.0 4 5 80.0 8 8 100.0 1 4 5 5 0 0 3 4 11
+p19
+aVVince Carter ORL 05/26/2010 ORL vs. BOS W 26 8 3 10 30.0 1 4 25.0 1 1 100.0 0 3 3 3 0 0 0 4 7
+p20
+aVBrandon Bass ORL 05/26/2010 ORL vs. BOS W 12 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 6
+p21
+aVMatt Barnes ORL 05/24/2010 ORL @ BOS W 30 10 4 8 50.0 2 6 33.3 0 0 - 3 4 7 1 0 0 1 2 -9
+p22
+aVMarcin Gortat ORL 05/24/2010 ORL @ BOS W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -3
+p23
+aVRashard Lewis ORL 05/24/2010 ORL @ BOS W 42 13 4 10 40.0 2 3 66.7 3 4 75.0 1 4 5 3 2 0 0 4 13
+p24
+aVDwight Howard ORL 05/24/2010 ORL @ BOS W 43 32 13 19 68.4 0 0 - 6 14 42.9 5 11 16 0 0 4 4 4 7
+p25
+aVJameer Nelson ORL 05/24/2010 ORL @ BOS W 43 23 7 14 50.0 3 6 50.0 6 9 66.7 1 4 5 9 0 0 6 6 3
+p26
+aVJason Williams ORL 05/24/2010 ORL @ BOS W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 7
+p27
+aVMickael Pietrus ORL 05/24/2010 ORL @ BOS W 13 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 1 0 1 0 2 -4
+p28
+aVVince Carter ORL 05/24/2010 ORL @ BOS W 31 3 1 9 11.1 0 3 0.0 1 1 100.0 1 1 2 2 1 0 3 4 1
+p29
+aVJJ Redick ORL 05/24/2010 ORL @ BOS W 33 12 3 6 50.0 3 5 60.0 3 3 100.0 0 2 2 1 2 0 4 1 14
+p30
+aVBrandon Bass ORL 05/24/2010 ORL @ BOS W 11 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -9
+p31
+aVRashard Lewis ORL 05/22/2010 ORL @ BOS L 28 4 2 8 25.0 0 4 0.0 0 0 - 0 4 4 0 0 2 4 5 -16
+p32
+aVJason Williams ORL 05/22/2010 ORL @ BOS L 16 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 0 1 -8
+p33
+aVMatt Barnes ORL 05/22/2010 ORL @ BOS L 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -16
+p34
+aVJJ Redick ORL 05/22/2010 ORL @ BOS L 26 9 3 5 60.0 1 3 33.3 2 2 100.0 0 2 2 2 0 0 3 0 -4
+p35
+aVJameer Nelson ORL 05/22/2010 ORL @ BOS L 32 15 5 14 35.7 3 9 33.3 2 2 100.0 0 4 4 1 0 0 4 2 -15
+p36
+aVRyan Anderson ORL 05/22/2010 ORL @ BOS L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -5
+p37
+aVBrandon Bass ORL 05/22/2010 ORL @ BOS L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 8
+p38
+aVDwight Howard ORL 05/22/2010 ORL @ BOS L 39 7 3 10 30.0 0 0 - 1 4 25.0 1 6 7 1 1 3 1 3 -29
+p39
+aVVince Carter ORL 05/22/2010 ORL @ BOS L 35 15 5 12 41.7 1 5 20.0 4 4 100.0 0 5 5 2 2 0 2 4 -20
+p40
+aVMarcin Gortat ORL 05/22/2010 ORL @ BOS L 12 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 1 0 0 4 -4
+p41
+aVMickael Pietrus ORL 05/22/2010 ORL @ BOS L 20 12 3 6 50.0 2 5 40.0 4 4 100.0 0 1 1 1 1 0 1 3 -6
+p42
+aVMarcin Gortat ORL 05/18/2010 ORL vs. BOS L 15 2 1 1 100.0 0 0 - 0 0 - 4 2 6 1 0 1 0 3 -3
+p43
+aVDwight Howard ORL 05/18/2010 ORL vs. BOS L 40 30 9 13 69.2 0 0 - 12 17 70.6 2 6 8 1 1 0 3 4 4
+p44
+aVRashard Lewis ORL 05/18/2010 ORL vs. BOS L 41 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 4 1 1 1 3 -7
+p45
+aVMatt Barnes ORL 05/18/2010 ORL vs. BOS L 21 6 2 9 22.2 1 3 33.3 1 2 50.0 0 7 7 1 1 0 0 3 -6
+p46
+aVVince Carter ORL 05/18/2010 ORL vs. BOS L 26 16 5 15 33.3 1 2 50.0 5 7 71.4 0 1 1 1 3 0 3 4 -5
+p47
+aVJason Williams ORL 05/18/2010 ORL vs. BOS L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 0 0 1 0 -5
+p48
+aVMickael Pietrus ORL 05/18/2010 ORL vs. BOS L 16 5 1 3 33.3 0 1 0.0 3 4 75.0 0 0 0 0 1 0 0 3 -1
+p49
+aVJJ Redick ORL 05/18/2010 ORL vs. BOS L 34 16 3 9 33.3 2 3 66.7 8 8 100.0 2 3 5 4 1 0 3 3 6
+p50
+aVJameer Nelson ORL 05/18/2010 ORL vs. BOS L 38 9 4 12 33.3 1 5 20.0 0 0 - 1 4 5 4 1 0 3 2 2
+p51
+aVJJ Redick ORL 05/16/2010 ORL vs. BOS L 19 9 3 7 42.9 1 2 50.0 2 2 100.0 1 1 2 0 1 0 1 2 5
+p52
+aVMickael Pietrus ORL 05/16/2010 ORL vs. BOS L 21 4 1 5 20.0 1 4 25.0 1 2 50.0 0 1 1 0 0 0 0 1 0
+p53
+aVJason Williams ORL 05/16/2010 ORL vs. BOS L 10 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -6
+p54
+aVMarcin Gortat ORL 05/16/2010 ORL vs. BOS L 14 6 3 3 100.0 0 0 - 0 0 - 1 4 5 1 0 0 0 1 8
+p55
+aVMatt Barnes ORL 05/16/2010 ORL vs. BOS L 16 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 0 -14
+p56
+aVJameer Nelson ORL 05/16/2010 ORL vs. BOS L 38 20 8 18 44.4 2 7 28.6 2 2 100.0 4 5 9 2 0 0 3 2 2
+p57
+aVDwight Howard ORL 05/16/2010 ORL vs. BOS L 39 13 3 10 30.0 0 0 - 7 12 58.3 3 9 12 2 0 5 7 4 -10
+p58
+aVVince Carter ORL 05/16/2010 ORL vs. BOS L 41 23 9 18 50.0 0 1 0.0 5 6 83.3 3 2 5 2 2 1 3 5 1
+p59
+aVRashard Lewis ORL 05/16/2010 ORL vs. BOS L 43 6 2 10 20.0 0 6 0.0 2 2 100.0 2 5 7 2 3 2 2 2 -6
+p60
+aVJJ Redick ORL 05/10/2010 ORL @ ATL W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -6
+p61
+aVJason Williams ORL 05/10/2010 ORL @ ATL W 18 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 4 0 0 0 1 3
+p62
+aVJameer Nelson ORL 05/10/2010 ORL @ ATL W 30 16 7 11 63.6 1 4 25.0 1 4 25.0 0 3 3 9 2 0 2 3 11
+p63
+aVMatt Barnes ORL 05/10/2010 ORL @ ATL W 24 6 3 7 42.9 0 3 0.0 0 0 - 0 5 5 3 0 0 1 3 12
+p64
+aVRyan Anderson ORL 05/10/2010 ORL @ ATL W 14 3 1 6 16.7 1 4 25.0 0 0 - 2 6 8 0 0 0 2 2 -14
+p65
+aVRashard Lewis ORL 05/10/2010 ORL @ ATL W 31 17 6 10 60.0 4 7 57.1 1 1 100.0 0 6 6 5 1 1 1 4 29
+p66
+aVDwight Howard ORL 05/10/2010 ORL @ ATL W 43 13 5 5 100.0 0 0 - 3 6 50.0 1 7 8 1 1 4 7 4 21
+p67
+aVMickael Pietrus ORL 05/10/2010 ORL @ ATL W 24 12 4 8 50.0 4 8 50.0 0 0 - 0 2 2 1 0 0 0 2 2
+p68
+aVMarcin Gortat ORL 05/10/2010 ORL @ ATL W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -8
+p69
+aVVince Carter ORL 05/10/2010 ORL @ ATL W 40 22 7 12 58.3 4 7 57.1 4 6 66.7 0 4 4 3 0 1 0 2 20
+p70
+aVRashard Lewis ORL 05/08/2010 ORL @ ATL W 36 22 8 13 61.5 4 7 57.1 2 2 100.0 1 4 5 2 0 1 1 1 30
+p71
+aVRyan Anderson ORL 05/08/2010 ORL @ ATL W 12 5 2 6 33.3 0 3 0.0 1 1 100.0 2 4 6 1 1 0 0 2 0
+p72
+aVVince Carter ORL 05/08/2010 ORL @ ATL W 23 7 2 5 40.0 0 1 0.0 3 3 100.0 0 3 3 3 0 0 1 3 20
+p73
+aVJason Williams ORL 05/08/2010 ORL @ ATL W 19 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 2 2 0 0 2 8
+p74
+aVMarcin Gortat ORL 05/08/2010 ORL @ ATL W 10 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 0 0 0 0 17
+p75
+aVJJ Redick ORL 05/08/2010 ORL @ ATL W 25 8 3 7 42.9 1 3 33.3 1 2 50.0 0 1 1 3 0 0 1 2 10
+p76
+aVMickael Pietrus ORL 05/08/2010 ORL @ ATL W 24 13 4 10 40.0 3 7 42.9 2 2 100.0 0 4 4 1 0 1 0 0 15
+p77
+aVJameer Nelson ORL 05/08/2010 ORL @ ATL W 29 14 4 9 44.4 1 4 25.0 5 6 83.3 0 5 5 4 0 0 0 1 22
+p78
+aVMatt Barnes ORL 05/08/2010 ORL @ ATL W 24 11 5 9 55.6 1 3 33.3 0 0 - 2 2 4 1 1 2 0 1 15
+p79
+aVDwight Howard ORL 05/08/2010 ORL @ ATL W 38 21 6 8 75.0 0 0 - 9 18 50.0 2 14 16 3 1 1 4 4 13
+p80
+aVMarcin Gortat ORL 05/06/2010 ORL vs. ATL W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 1 3 -4
+p81
+aVVince Carter ORL 05/06/2010 ORL vs. ATL W 44 24 9 16 56.3 2 5 40.0 4 4 100.0 1 6 7 2 1 1 1 2 13
+p82
+aVJason Williams ORL 05/06/2010 ORL vs. ATL W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p83
+aVJameer Nelson ORL 05/06/2010 ORL vs. ATL W 37 20 7 14 50.0 2 6 33.3 4 5 80.0 0 1 1 6 1 0 1 4 12
+p84
+aVRashard Lewis ORL 05/06/2010 ORL vs. ATL W 46 20 7 13 53.8 3 8 37.5 3 4 75.0 1 3 4 6 1 1 0 1 21
+p85
+aVDwight Howard ORL 05/06/2010 ORL vs. ATL W 39 29 8 9 88.9 0 0 - 13 18 72.2 3 14 17 0 0 1 4 5 21
+p86
+aVJJ Redick ORL 05/06/2010 ORL vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p87
+aVMatt Barnes ORL 05/06/2010 ORL vs. ATL W 18 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 4 15
+p88
+aVBrandon Bass ORL 05/06/2010 ORL vs. ATL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p89
+aVRyan Anderson ORL 05/06/2010 ORL vs. ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p90
+aVMickael Pietrus ORL 05/06/2010 ORL vs. ATL W 30 13 4 8 50.0 2 3 66.7 3 8 37.5 1 1 2 0 1 0 1 3 -1
+p91
+aVMatt Barnes ORL 05/04/2010 ORL vs. ATL W 24 4 0 2 0.0 0 1 0.0 4 4 100.0 1 6 7 0 1 0 0 2 23
+p92
+aVDwight Howard ORL 05/04/2010 ORL vs. ATL W 29 21 8 10 80.0 0 0 - 5 10 50.0 3 9 12 2 0 5 2 3 26
+p93
+aVMickael Pietrus ORL 05/04/2010 ORL vs. ATL W 24 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 3 1 0 2 2 20
+p94
+aVJameer Nelson ORL 05/04/2010 ORL vs. ATL W 25 19 8 12 66.7 3 5 60.0 0 0 - 0 1 1 5 0 0 3 1 20
+p95
+aVRashard Lewis ORL 05/04/2010 ORL vs. ATL W 29 9 4 9 44.4 1 4 25.0 0 0 - 2 5 7 1 1 0 2 0 30
+p96
+aVVince Carter ORL 05/04/2010 ORL vs. ATL W 28 20 7 16 43.8 1 2 50.0 5 5 100.0 0 6 6 3 0 0 1 1 28
+p97
+aVMarcin Gortat ORL 05/04/2010 ORL vs. ATL W 19 9 4 6 66.7 0 0 - 1 1 100.0 3 3 6 2 0 0 0 3 17
+p98
+aVAnthony Johnson ORL 05/04/2010 ORL vs. ATL W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 5
+p99
+aVJJ Redick ORL 05/04/2010 ORL vs. ATL W 20 10 4 9 44.4 2 5 40.0 0 2 0.0 1 1 2 2 2 0 1 2 15
+p100
+aVRyan Anderson ORL 05/04/2010 ORL vs. ATL W 13 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 2 0 3 8
+p101
+aVJason Williams ORL 05/04/2010 ORL vs. ATL W 18 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 3 1 0 2 0 18
+p102
+aVBrandon Bass ORL 05/04/2010 ORL vs. ATL W 6 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 5
+p103
+aVMarcin Gortat ORL 04/26/2010 ORL @ CHA W 25 6 3 5 60.0 0 0 - 0 0 - 3 3 6 1 0 0 0 4 -6
+p104
+aVJason Williams ORL 04/26/2010 ORL @ CHA W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p105
+aVRyan Anderson ORL 04/26/2010 ORL @ CHA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p106
+aVDwight Howard ORL 04/26/2010 ORL @ CHA W 23 6 2 6 33.3 0 0 - 2 7 28.6 1 12 13 3 0 2 1 6 15
+p107
+aVRashard Lewis ORL 04/26/2010 ORL @ CHA W 44 17 5 8 62.5 4 7 57.1 3 4 75.0 1 3 4 3 0 0 3 2 6
+p108
+aVVince Carter ORL 04/26/2010 ORL @ CHA W 40 21 7 16 43.8 1 5 20.0 6 9 66.7 0 3 3 4 0 0 0 6 12
+p109
+aVJJ Redick ORL 04/26/2010 ORL @ CHA W 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 1 2
+p110
+aVMickael Pietrus ORL 04/26/2010 ORL @ CHA W 18 13 3 6 50.0 3 6 50.0 4 4 100.0 0 1 1 0 2 2 1 1 4
+p111
+aVMatt Barnes ORL 04/26/2010 ORL @ CHA W 28 14 3 10 30.0 3 7 42.9 5 6 83.3 2 6 8 1 3 0 0 1 0
+p112
+aVJameer Nelson ORL 04/26/2010 ORL @ CHA W 36 18 4 12 33.3 2 6 33.3 8 10 80.0 0 1 1 4 2 0 2 1 14
+p113
+aVJJ Redick ORL 04/24/2010 ORL @ CHA W 11 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 2 -5
+p114
+aVVince Carter ORL 04/24/2010 ORL @ CHA W 39 10 4 11 36.4 0 4 0.0 2 2 100.0 2 3 5 0 1 0 5 4 15
+p115
+aVMatt Barnes ORL 04/24/2010 ORL @ CHA W 28 7 2 7 28.6 1 2 50.0 2 2 100.0 2 2 4 3 0 0 0 3 6
+p116
+aVMickael Pietrus ORL 04/24/2010 ORL @ CHA W 19 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 1 0 0 1 3 -11
+p117
+aVRashard Lewis ORL 04/24/2010 ORL @ CHA W 32 14 4 11 36.4 2 7 28.6 4 4 100.0 0 6 6 3 1 1 5 4 12
+p118
+aVDwight Howard ORL 04/24/2010 ORL @ CHA W 26 13 4 7 57.1 0 0 - 5 10 50.0 1 7 8 3 0 7 4 6 6
+p119
+aVJameer Nelson ORL 04/24/2010 ORL @ CHA W 38 32 12 21 57.1 5 9 55.6 3 3 100.0 1 3 4 3 4 0 0 2 13
+p120
+aVBrandon Bass ORL 04/24/2010 ORL @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p121
+aVJason Williams ORL 04/24/2010 ORL @ CHA W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p122
+aVRyan Anderson ORL 04/24/2010 ORL @ CHA W 13 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 1 0 0 1 0 -5
+p123
+aVMarcin Gortat ORL 04/24/2010 ORL @ CHA W 22 5 1 1 100.0 0 0 - 3 4 75.0 5 3 8 0 1 1 1 1 -2
+p124
+aVJason Williams ORL 04/21/2010 ORL vs. CHA W 15 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 0 3
+p125
+aVJJ Redick ORL 04/21/2010 ORL vs. CHA W 13 2 0 1 0.0 0 1 0.0 2 3 66.7 0 1 1 1 0 0 1 1 4
+p126
+aVJameer Nelson ORL 04/21/2010 ORL vs. CHA W 33 13 4 11 36.4 1 5 20.0 4 5 80.0 1 1 2 5 3 0 1 2 12
+p127
+aVVince Carter ORL 04/21/2010 ORL vs. CHA W 39 19 5 10 50.0 0 3 0.0 9 11 81.8 0 5 5 3 2 0 1 2 6
+p128
+aVDwight Howard ORL 04/21/2010 ORL vs. CHA W 29 15 5 10 50.0 0 0 - 5 12 41.7 7 2 9 2 2 2 6 5 2
+p129
+aVMarcin Gortat ORL 04/21/2010 ORL vs. CHA W 19 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 13
+p130
+aVRashard Lewis ORL 04/21/2010 ORL vs. CHA W 39 13 5 12 41.7 3 7 42.9 0 0 - 0 7 7 1 2 0 1 5 17
+p131
+aVRyan Anderson ORL 04/21/2010 ORL vs. CHA W 9 6 2 4 50.0 2 3 66.7 0 0 - 2 1 3 0 0 0 1 2 -2
+p132
+aVMickael Pietrus ORL 04/21/2010 ORL vs. CHA W 12 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 0 1 0 0 1 7
+p133
+aVMatt Barnes ORL 04/21/2010 ORL vs. CHA W 32 11 4 6 66.7 1 2 50.0 2 2 100.0 1 5 6 4 1 0 3 1 13
+p134
+aVMickael Pietrus ORL 04/18/2010 ORL vs. CHA W 26 14 4 7 57.1 4 7 57.1 2 4 50.0 0 1 1 2 0 1 0 3 5
+p135
+aVJason Williams ORL 04/18/2010 ORL vs. CHA W 11 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p136
+aVJJ Redick ORL 04/18/2010 ORL vs. CHA W 19 10 3 5 60.0 2 3 66.7 2 2 100.0 0 2 2 1 0 0 1 2 3
+p137
+aVVince Carter ORL 04/18/2010 ORL vs. CHA W 30 12 4 19 21.1 0 5 0.0 4 5 80.0 0 3 3 1 0 0 0 6 4
+p138
+aVDwight Howard ORL 04/18/2010 ORL vs. CHA W 28 5 2 4 50.0 0 0 - 1 6 16.7 4 3 7 1 1 9 2 5 9
+p139
+aVRashard Lewis ORL 04/18/2010 ORL vs. CHA W 39 19 8 11 72.7 3 5 60.0 0 0 - 0 5 5 0 1 0 1 1 14
+p140
+aVMatt Barnes ORL 04/18/2010 ORL vs. CHA W 21 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 2 0 1 1 6
+p141
+aVMarcin Gortat ORL 04/18/2010 ORL vs. CHA W 20 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 1 0
+p142
+aVJameer Nelson ORL 04/18/2010 ORL vs. CHA W 37 32 10 18 55.6 4 8 50.0 8 8 100.0 0 4 4 6 1 0 2 3 14
+p143
+aVRyan Anderson ORL 04/18/2010 ORL vs. CHA W 9 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 -5
+p144
+a.

@@ -1,0 +1,1092 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJoe Smith MIN 05/05/1999 MIN @ PHX L 27 8 3 7 42.9 0 0 - 2 2 100.0 0 5 5 0 1 0 2 2 3
+p2
+aVTom Hammonds MIN 05/05/1999 MIN @ PHX L 16 6 2 5 40.0 0 0 - 2 4 50.0 0 5 5 1 0 0 0 2 1
+p3
+aVSam Mitchell MIN 05/05/1999 MIN @ PHX L 12 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -1
+p4
+aVJames Robinson MIN 05/05/1999 MIN @ PHX L 12 9 4 9 44.4 1 6 16.7 0 0 - 1 2 3 2 0 1 3 5 5
+p5
+aVMalik Sealy MIN 05/05/1999 MIN @ PHX L 18 2 1 8 12.5 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p6
+aVTerrell Brandon MIN 05/05/1999 MIN @ PHX L 29 16 8 17 47.1 0 4 0.0 0 0 - 2 4 6 13 2 1 1 4 -3
+p7
+aVDean Garrett MIN 05/05/1999 MIN @ PHX L 15 6 3 5 60.0 0 0 - 0 0 - 3 1 4 0 0 0 2 3 -5
+p8
+aVAndrae Patterson MIN 05/05/1999 MIN @ PHX L 24 4 2 5 40.0 0 0 - 0 0 - 2 5 7 3 2 0 4 1 -13
+p9
+aVRasho Nesterovic MIN 05/05/1999 MIN @ PHX L 18 4 2 8 25.0 0 0 - 0 0 - 3 3 6 1 0 0 1 4 6
+p10
+aVBobby Jackson MIN 05/05/1999 MIN @ PHX L 7 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -4
+p11
+aVKevin Garnett MIN 05/05/1999 MIN @ PHX L 32 20 9 13 69.2 1 1 100.0 1 1 100.0 0 11 11 3 1 0 2 3 -5
+p12
+aVAnthony Peeler MIN 05/05/1999 MIN @ PHX L 31 14 5 11 45.5 4 8 50.0 0 0 - 1 1 2 1 1 0 0 3 0
+p13
+aVTom Hammonds MIN 05/04/1999 MIN @ HOU L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 0
+p14
+aVAnthony Peeler MIN 05/04/1999 MIN @ HOU L 28 2 0 1 0.0 0 1 0.0 2 2 100.0 0 3 3 1 2 0 5 2 1
+p15
+aVBobby Jackson MIN 05/04/1999 MIN @ HOU L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -8
+p16
+aVJoe Smith MIN 05/04/1999 MIN @ HOU L 19 11 5 7 71.4 0 0 - 1 3 33.3 3 4 7 0 0 1 2 4 -18
+p17
+aVMalik Sealy MIN 05/04/1999 MIN @ HOU L 22 8 4 8 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -21
+p18
+aVSam Mitchell MIN 05/04/1999 MIN @ HOU L 24 5 2 7 28.6 1 1 100.0 0 0 - 1 2 3 1 0 0 0 2 -11
+p19
+aVKevin Garnett MIN 05/04/1999 MIN @ HOU L 35 18 8 16 50.0 0 0 - 2 2 100.0 2 4 6 2 0 4 3 1 -8
+p20
+aVDean Garrett MIN 05/04/1999 MIN @ HOU L 19 6 3 5 60.0 0 0 - 0 0 - 3 5 8 0 0 0 2 1 -6
+p21
+aVRasho Nesterovic MIN 05/04/1999 MIN @ HOU L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -5
+p22
+aVJames Robinson MIN 05/04/1999 MIN @ HOU L 9 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 4 0 0 3 0 -7
+p23
+aVAndrae Patterson MIN 05/04/1999 MIN @ HOU L 24 8 1 5 20.0 0 0 - 6 8 75.0 3 2 5 0 1 1 0 0 -8
+p24
+aVTerrell Brandon MIN 05/04/1999 MIN @ HOU L 33 17 8 19 42.1 0 1 0.0 1 1 100.0 2 2 4 9 2 0 1 2 -4
+p25
+aVBobby Jackson MIN 05/01/1999 MIN vs. LAC W 28 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 4 0 0 2 1 0
+p26
+aVMalik Sealy MIN 05/01/1999 MIN vs. LAC W 17 7 3 10 30.0 0 0 - 1 1 100.0 2 3 5 2 0 0 0 1 -1
+p27
+aVJames Robinson MIN 05/01/1999 MIN vs. LAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p28
+aVBill Curley MIN 05/01/1999 MIN vs. LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p29
+aVKevin Garnett MIN 05/01/1999 MIN vs. LAC W 40 19 8 20 40.0 0 0 - 3 4 75.0 6 8 14 5 3 5 3 3 14
+p30
+aVDean Garrett MIN 05/01/1999 MIN vs. LAC W 15 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 1 1 0 2 0
+p31
+aVAndrae Patterson MIN 05/01/1999 MIN vs. LAC W 11 9 3 5 60.0 0 0 - 3 4 75.0 3 0 3 1 3 0 0 4 -1
+p32
+aVTerrell Brandon MIN 05/01/1999 MIN vs. LAC W 20 9 4 8 50.0 0 0 - 1 1 100.0 0 1 1 4 0 1 0 5 10
+p33
+aVSam Mitchell MIN 05/01/1999 MIN vs. LAC W 27 8 4 9 44.4 0 0 - 0 0 - 2 1 3 2 0 1 0 2 13
+p34
+aVJoe Smith MIN 05/01/1999 MIN vs. LAC W 36 18 8 15 53.3 0 0 - 2 3 66.7 3 5 8 2 1 3 0 2 20
+p35
+aVAnthony Peeler MIN 05/01/1999 MIN vs. LAC W 32 14 5 11 45.5 2 6 33.3 2 2 100.0 1 4 5 8 0 0 1 2 10
+p36
+aVTom Hammonds MIN 05/01/1999 MIN vs. LAC W 10 5 1 5 20.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 0 -3
+p37
+aVTerrell Brandon MIN 04/30/1999 MIN vs. GSW W 41 11 5 20 25.0 0 0 - 1 1 100.0 1 4 5 14 0 0 3 2 7
+p38
+aVKevin Garnett MIN 04/30/1999 MIN vs. GSW W 43 28 11 21 52.4 0 0 - 6 8 75.0 6 9 15 4 0 0 2 4 9
+p39
+aVSam Mitchell MIN 04/30/1999 MIN vs. GSW W 42 18 7 21 33.3 0 1 0.0 4 4 100.0 1 5 6 2 1 2 1 2 4
+p40
+aVAndrae Patterson MIN 04/30/1999 MIN vs. GSW W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p41
+aVBobby Jackson MIN 04/30/1999 MIN vs. GSW W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 3 3 -1
+p42
+aVDean Garrett MIN 04/30/1999 MIN vs. GSW W 11 12 5 7 71.4 0 0 - 2 2 100.0 1 2 3 1 0 2 0 3 4
+p43
+aVJoe Smith MIN 04/30/1999 MIN vs. GSW W 25 8 2 6 33.3 0 0 - 4 4 100.0 4 5 9 1 0 1 1 4 -5
+p44
+aVTom Hammonds MIN 04/30/1999 MIN vs. GSW W 17 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 1
+p45
+aVAnthony Peeler MIN 04/30/1999 MIN vs. GSW W 41 7 3 10 30.0 1 4 25.0 0 0 - 0 3 3 5 3 0 0 1 6
+p46
+aVAnthony Peeler MIN 04/28/1999 MIN vs. PHX W 41 15 5 9 55.6 3 6 50.0 2 2 100.0 0 1 1 1 2 0 4 3 2
+p47
+aVJoe Smith MIN 04/28/1999 MIN vs. PHX W 35 8 4 10 40.0 0 0 - 0 0 - 3 10 13 2 0 0 0 6 3
+p48
+aVAndrae Patterson MIN 04/28/1999 MIN vs. PHX W 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -1
+p49
+aVTerrell Brandon MIN 04/28/1999 MIN vs. PHX W 44 16 7 16 43.8 0 0 - 2 4 50.0 1 5 6 16 2 0 2 2 4
+p50
+aVBobby Jackson MIN 04/28/1999 MIN vs. PHX W 11 4 2 5 40.0 0 0 - 0 0 - 1 1 2 3 0 0 0 2 4
+p51
+aVTom Hammonds MIN 04/28/1999 MIN vs. PHX W 23 12 6 8 75.0 0 0 - 0 1 0.0 1 3 4 1 0 0 1 2 -1
+p52
+aVSam Mitchell MIN 04/28/1999 MIN vs. PHX W 44 25 11 22 50.0 0 2 0.0 3 6 50.0 0 7 7 6 2 1 1 3 8
+p53
+aVKevin Garnett MIN 04/28/1999 MIN vs. PHX W 38 17 7 25 28.0 0 1 0.0 3 6 50.0 4 7 11 2 3 0 0 2 6
+p54
+aVAnthony Peeler MIN 04/25/1999 MIN @ POR L 27 3 1 7 14.3 1 3 33.3 0 0 - 0 1 1 4 2 0 3 4 -6
+p55
+aVBill Curley MIN 04/25/1999 MIN @ POR L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p56
+aVSam Mitchell MIN 04/25/1999 MIN @ POR L 14 0 0 4 0.0 0 1 0.0 0 2 0.0 0 1 1 0 0 0 0 3 -3
+p57
+aVJames Robinson MIN 04/25/1999 MIN @ POR L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 -4
+p58
+aVKevin Garnett MIN 04/25/1999 MIN @ POR L 43 30 10 16 62.5 1 1 100.0 9 10 90.0 0 4 4 3 2 2 4 4 -14
+p59
+aVAndrae Patterson MIN 04/25/1999 MIN @ POR L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -4
+p60
+aVJoe Smith MIN 04/25/1999 MIN @ POR L 31 17 7 13 53.8 0 0 - 3 3 100.0 2 2 4 0 1 1 1 5 -3
+p61
+aVTom Hammonds MIN 04/25/1999 MIN @ POR L 20 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 2 0 0 3 -16
+p62
+aVDean Garrett MIN 04/25/1999 MIN @ POR L 21 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 2 2 0 4 -3
+p63
+aVBobby Jackson MIN 04/25/1999 MIN @ POR L 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -4
+p64
+aVTerrell Brandon MIN 04/25/1999 MIN @ POR L 39 13 6 14 42.9 0 1 0.0 1 1 100.0 0 2 2 13 1 0 2 1 -8
+p65
+aVDennis Scott MIN 04/25/1999 MIN @ POR L 21 10 4 6 66.7 2 4 50.0 0 0 - 0 3 3 0 0 0 2 3 -10
+p66
+aVAndrae Patterson MIN 04/23/1999 MIN @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p67
+aVJames Robinson MIN 04/23/1999 MIN @ SAC L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -2
+p68
+aVDean Garrett MIN 04/23/1999 MIN @ SAC L 25 13 6 10 60.0 0 0 - 1 1 100.0 1 8 9 1 0 1 1 1 4
+p69
+aVSam Mitchell MIN 04/23/1999 MIN @ SAC L 21 11 3 7 42.9 0 0 - 5 5 100.0 1 2 3 0 1 0 0 4 -13
+p70
+aVKevin Garnett MIN 04/23/1999 MIN @ SAC L 44 29 13 23 56.5 1 1 100.0 2 2 100.0 4 5 9 2 2 1 7 3 -6
+p71
+aVTom Hammonds MIN 04/23/1999 MIN @ SAC L 13 2 1 1 100.0 0 0 - 0 1 0.0 2 3 5 0 0 0 1 4 -1
+p72
+aVJoe Smith MIN 04/23/1999 MIN @ SAC L 33 15 5 7 71.4 0 0 - 5 5 100.0 2 4 6 2 0 1 3 4 -3
+p73
+aVAnthony Peeler MIN 04/23/1999 MIN @ SAC L 39 10 4 11 36.4 2 5 40.0 0 0 - 2 3 5 4 1 0 4 4 -9
+p74
+aVBobby Jackson MIN 04/23/1999 MIN @ SAC L 16 4 2 9 22.2 0 1 0.0 0 0 - 2 2 4 1 1 0 1 2 -4
+p75
+aVTerrell Brandon MIN 04/23/1999 MIN @ SAC L 41 13 5 17 29.4 0 0 - 3 3 100.0 0 2 2 12 4 0 6 2 -3
+p76
+aVDennis Scott MIN 04/21/1999 MIN @ SEA L 14 5 2 7 28.6 1 5 20.0 0 0 - 0 1 1 2 0 1 0 1 9
+p77
+aVJoe Smith MIN 04/21/1999 MIN @ SEA L 28 10 3 8 37.5 0 0 - 4 5 80.0 1 2 3 1 0 1 1 4 -16
+p78
+aVKevin Garnett MIN 04/21/1999 MIN @ SEA L 32 23 9 15 60.0 0 0 - 5 5 100.0 2 5 7 3 2 1 0 1 -23
+p79
+aVAndrae Patterson MIN 04/21/1999 MIN @ SEA L 14 10 5 8 62.5 0 1 0.0 0 0 - 0 1 1 0 2 0 1 6 -7
+p80
+aVJames Robinson MIN 04/21/1999 MIN @ SEA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 3 1
+p81
+aVTom Hammonds MIN 04/21/1999 MIN @ SEA L 16 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 0 1 1 1 -2
+p82
+aVBobby Jackson MIN 04/21/1999 MIN @ SEA L 18 11 4 6 66.7 3 3 100.0 0 0 - 0 2 2 4 0 0 0 2 8
+p83
+aVDean Garrett MIN 04/21/1999 MIN @ SEA L 12 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 2 0 1 1 -12
+p84
+aVAnthony Peeler MIN 04/21/1999 MIN @ SEA L 36 13 5 12 41.7 1 5 20.0 2 2 100.0 1 2 3 2 2 0 2 2 -13
+p85
+aVBill Curley MIN 04/21/1999 MIN @ SEA L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 12
+p86
+aVTerrell Brandon MIN 04/21/1999 MIN @ SEA L 30 19 8 17 47.1 0 0 - 3 4 75.0 0 1 1 5 0 0 1 4 -22
+p87
+aVSam Mitchell MIN 04/21/1999 MIN @ SEA L 27 4 1 8 12.5 0 0 - 2 2 100.0 1 2 3 4 0 0 1 2 -5
+p88
+aVJames Robinson MIN 04/18/1999 MIN vs. UTA L 17 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 2 1 0 3 3 -13
+p89
+aVJoe Smith MIN 04/18/1999 MIN vs. UTA L 39 6 3 12 25.0 0 0 - 0 0 - 0 3 3 1 0 4 2 1 -23
+p90
+aVBobby Jackson MIN 04/18/1999 MIN vs. UTA L 19 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 5 1 0 1 2 -13
+p91
+aVSam Mitchell MIN 04/18/1999 MIN vs. UTA L 23 4 1 12 8.3 0 3 0.0 2 2 100.0 0 2 2 5 1 0 0 2 -8
+p92
+aVTom Hammonds MIN 04/18/1999 MIN vs. UTA L 6 0 0 2 0.0 0 0 - 0 2 0.0 2 2 4 1 0 0 0 0 -1
+p93
+aVBill Curley MIN 04/18/1999 MIN vs. UTA L 6 2 1 3 33.3 0 0 - 0 0 - 3 0 3 2 1 0 0 1 0
+p94
+aVMalik Sealy MIN 04/18/1999 MIN vs. UTA L 23 6 3 6 50.0 0 0 - 0 0 - 1 1 2 3 0 0 1 0 -14
+p95
+aVKevin Garnett MIN 04/18/1999 MIN vs. UTA L 30 18 7 18 38.9 0 0 - 4 4 100.0 3 5 8 2 3 3 3 5 -14
+p96
+aVDean Garrett MIN 04/18/1999 MIN vs. UTA L 27 10 5 7 71.4 0 0 - 0 0 - 3 4 7 0 0 0 0 2 -26
+p97
+aVAndrae Patterson MIN 04/18/1999 MIN vs. UTA L 12 11 5 6 83.3 0 0 - 1 1 100.0 0 2 2 2 1 0 0 4 5
+p98
+aVReggie Jordan MIN 04/18/1999 MIN vs. UTA L 12 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 4 0 0 0 1 5
+p99
+aVDennis Scott MIN 04/18/1999 MIN vs. UTA L 26 8 3 7 42.9 0 1 0.0 2 3 66.7 0 0 0 2 0 0 0 1 -3
+p100
+aVJoe Smith MIN 04/16/1999 MIN vs. VAN W 43 26 10 23 43.5 0 0 - 6 7 85.7 4 8 12 3 2 1 1 3 13
+p101
+aVDennis Scott MIN 04/16/1999 MIN vs. VAN W 26 8 2 7 28.6 1 2 50.0 3 4 75.0 1 2 3 3 0 0 0 3 17
+p102
+aVMalik Sealy MIN 04/16/1999 MIN vs. VAN W 22 7 3 7 42.9 0 0 - 1 1 100.0 0 3 3 3 3 0 1 2 -3
+p103
+aVAndrae Patterson MIN 04/16/1999 MIN vs. VAN W 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 10
+p104
+aVTom Hammonds MIN 04/16/1999 MIN vs. VAN W 31 2 0 7 0.0 0 0 - 2 4 50.0 3 4 7 1 0 0 3 3 20
+p105
+aVSam Mitchell MIN 04/16/1999 MIN vs. VAN W 36 19 8 14 57.1 0 0 - 3 4 75.0 0 3 3 6 1 1 3 4 2
+p106
+aVBill Curley MIN 04/16/1999 MIN vs. VAN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p107
+aVBobby Jackson MIN 04/16/1999 MIN vs. VAN W 25 8 1 2 50.0 0 0 - 6 8 75.0 1 3 4 6 0 0 2 0 1
+p108
+aVDean Garrett MIN 04/16/1999 MIN vs. VAN W 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -4
+p109
+aVJames Robinson MIN 04/16/1999 MIN vs. VAN W 24 15 5 7 71.4 3 4 75.0 2 2 100.0 1 4 5 3 0 1 2 3 16
+p110
+aVReggie Jordan MIN 04/16/1999 MIN vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p111
+aVJoe Smith MIN 04/15/1999 MIN @ DAL L 38 21 8 17 47.1 0 0 - 5 6 83.3 6 3 9 3 0 2 2 3 1
+p112
+aVMalik Sealy MIN 04/15/1999 MIN @ DAL L 20 6 3 9 33.3 0 2 0.0 0 0 - 2 3 5 2 2 0 1 2 -15
+p113
+aVBobby Jackson MIN 04/15/1999 MIN @ DAL L 35 11 4 11 36.4 1 1 100.0 2 2 100.0 2 3 5 4 1 1 2 3 -8
+p114
+aVAndrae Patterson MIN 04/15/1999 MIN @ DAL L 19 9 3 5 60.0 0 1 0.0 3 5 60.0 2 3 5 2 1 1 3 3 2
+p115
+aVTom Hammonds MIN 04/15/1999 MIN @ DAL L 17 4 2 6 33.3 0 0 - 0 1 0.0 1 2 3 1 0 0 0 4 -5
+p116
+aVDean Garrett MIN 04/15/1999 MIN @ DAL L 14 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 2 2 -9
+p117
+aVJames Robinson MIN 04/15/1999 MIN @ DAL L 18 3 1 6 16.7 1 4 25.0 0 2 0.0 0 2 2 4 0 1 3 2 6
+p118
+aVSam Mitchell MIN 04/15/1999 MIN @ DAL L 33 14 6 11 54.5 1 1 100.0 1 1 100.0 1 2 3 4 0 0 0 3 -12
+p119
+aVDennis Scott MIN 04/15/1999 MIN @ DAL L 24 18 7 12 58.3 3 4 75.0 1 1 100.0 0 0 0 0 1 0 1 2 5
+p120
+aVReggie Jordan MIN 04/15/1999 MIN @ DAL L 23 5 2 7 28.6 0 0 - 1 2 50.0 3 3 6 0 1 0 0 2 5
+p121
+aVTom Hammonds MIN 04/14/1999 MIN @ SAS L 12 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 0 0 0 2 1 -8
+p122
+aVBill Curley MIN 04/14/1999 MIN @ SAS L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 2
+p123
+aVDean Garrett MIN 04/14/1999 MIN @ SAS L 31 9 4 6 66.7 0 0 - 1 1 100.0 3 3 6 0 1 6 0 2 -13
+p124
+aVDennis Scott MIN 04/14/1999 MIN @ SAS L 23 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 1 2 1 1 1 -5
+p125
+aVBobby Jackson MIN 04/14/1999 MIN @ SAS L 28 14 6 7 85.7 0 0 - 2 2 100.0 1 4 5 5 1 0 2 1 -7
+p126
+aVSam Mitchell MIN 04/14/1999 MIN @ SAS L 29 9 3 12 25.0 0 1 0.0 3 4 75.0 2 2 4 2 0 0 3 2 -11
+p127
+aVAndrae Patterson MIN 04/14/1999 MIN @ SAS L 11 8 2 6 33.3 0 1 0.0 4 4 100.0 2 1 3 0 1 0 1 2 -5
+p128
+aVReggie Jordan MIN 04/14/1999 MIN @ SAS L 12 0 0 2 0.0 0 0 - 0 0 - 4 0 4 5 0 0 2 2 0
+p129
+aVJames Robinson MIN 04/14/1999 MIN @ SAS L 23 13 5 15 33.3 3 10 30.0 0 0 - 2 2 4 2 0 0 2 2 -8
+p130
+aVMalik Sealy MIN 04/14/1999 MIN @ SAS L 28 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 1 0 0 2 2 -15
+p131
+aVJoe Smith MIN 04/14/1999 MIN @ SAS L 29 5 2 12 16.7 0 0 - 1 2 50.0 0 6 6 0 2 0 2 2 -10
+p132
+aVDean Garrett MIN 04/12/1999 MIN vs. HOU L 17 7 3 6 50.0 0 0 - 1 1 100.0 1 6 7 0 0 1 3 3 -4
+p133
+aVReggie Jordan MIN 04/12/1999 MIN vs. HOU L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -4
+p134
+aVDennis Scott MIN 04/12/1999 MIN vs. HOU L 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -4
+p135
+aVJames Robinson MIN 04/12/1999 MIN vs. HOU L 16 4 1 9 11.1 0 2 0.0 2 2 100.0 0 1 1 7 0 0 1 1 2
+p136
+aVTom Hammonds MIN 04/12/1999 MIN vs. HOU L 21 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 5 5
+p137
+aVSam Mitchell MIN 04/12/1999 MIN vs. HOU L 24 21 8 11 72.7 2 4 50.0 3 4 75.0 1 4 5 1 1 0 0 1 -1
+p138
+aVBobby Jackson MIN 04/12/1999 MIN vs. HOU L 30 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 4 2 0 5 1 -3
+p139
+aVMalik Sealy MIN 04/12/1999 MIN vs. HOU L 22 4 0 6 0.0 0 1 0.0 4 4 100.0 1 0 1 1 2 0 0 0 0
+p140
+aVJoe Smith MIN 04/12/1999 MIN vs. HOU L 39 16 7 12 58.3 0 0 - 2 2 100.0 2 5 7 1 0 1 0 2 -9
+p141
+aVBill Curley MIN 04/12/1999 MIN vs. HOU L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -5
+p142
+aVKevin Garnett MIN 04/12/1999 MIN vs. HOU L 41 21 9 24 37.5 0 0 - 3 4 75.0 8 1 9 11 3 2 2 2 -2
+p143
+aVBobby Jackson MIN 04/11/1999 MIN vs. DET W 37 14 7 12 58.3 0 0 - 0 0 - 1 6 7 7 2 0 3 1 9
+p144
+aVDennis Scott MIN 04/11/1999 MIN vs. DET W 20 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 1 1 1
+p145
+aVDean Garrett MIN 04/11/1999 MIN vs. DET W 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 2 -1
+p146
+aVJoe Smith MIN 04/11/1999 MIN vs. DET W 37 19 4 13 30.8 0 0 - 11 14 78.6 7 10 17 3 1 1 1 1 3
+p147
+aVTom Hammonds MIN 04/11/1999 MIN vs. DET W 28 7 1 7 14.3 0 0 - 5 6 83.3 0 1 1 1 0 0 0 1 13
+p148
+aVReggie Jordan MIN 04/11/1999 MIN vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p149
+aVKevin Garnett MIN 04/11/1999 MIN vs. DET W 36 20 8 13 61.5 0 0 - 4 7 57.1 3 3 6 6 2 0 4 5 9
+p150
+aVJames Robinson MIN 04/11/1999 MIN vs. DET W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 1 0 1 0 0
+p151
+aVSam Mitchell MIN 04/11/1999 MIN vs. DET W 27 12 6 11 54.5 0 2 0.0 0 0 - 1 2 3 1 0 0 0 3 9
+p152
+aVMalik Sealy MIN 04/11/1999 MIN vs. DET W 30 4 2 7 28.6 0 1 0.0 0 0 - 1 2 3 1 0 0 1 3 4
+p153
+aVJames Robinson MIN 04/09/1999 MIN @ LAL L 17 3 1 7 14.3 1 2 50.0 0 2 0.0 0 1 1 4 2 2 2 2 -11
+p154
+aVSam Mitchell MIN 04/09/1999 MIN @ LAL L 36 18 8 13 61.5 0 0 - 2 3 66.7 2 2 4 2 1 0 2 1 -2
+p155
+aVDennis Scott MIN 04/09/1999 MIN @ LAL L 18 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 1 0 0 1 0
+p156
+aVBobby Jackson MIN 04/09/1999 MIN @ LAL L 31 10 4 12 33.3 0 0 - 2 3 66.7 1 3 4 8 1 0 2 1 4
+p157
+aVTom Hammonds MIN 04/09/1999 MIN @ LAL L 27 22 9 16 56.3 0 0 - 4 5 80.0 4 1 5 1 1 0 1 3 -5
+p158
+aVDean Garrett MIN 04/09/1999 MIN @ LAL L 26 6 3 5 60.0 0 0 - 0 0 - 3 3 6 2 0 1 0 3 -5
+p159
+aVMalik Sealy MIN 04/09/1999 MIN @ LAL L 33 9 2 8 25.0 1 1 100.0 4 4 100.0 0 3 3 2 0 0 1 5 -9
+p160
+aVReggie Jordan MIN 04/09/1999 MIN @ LAL L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p161
+aVKevin Garnett MIN 04/09/1999 MIN @ LAL L 42 16 5 21 23.8 0 1 0.0 6 9 66.7 6 10 16 2 1 1 3 6 -8
+p162
+aVBill Curley MIN 04/09/1999 MIN @ LAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 2
+p163
+aVAndrae Patterson MIN 04/09/1999 MIN @ LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p164
+aVDennis Scott MIN 04/08/1999 MIN @ LAC L 18 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p165
+aVTom Hammonds MIN 04/08/1999 MIN @ LAC L 19 12 2 4 50.0 0 0 - 8 11 72.7 2 2 4 1 0 0 0 1 -3
+p166
+aVMalik Sealy MIN 04/08/1999 MIN @ LAC L 29 14 7 14 50.0 0 2 0.0 0 0 - 1 0 1 2 0 0 1 3 -9
+p167
+aVJoe Smith MIN 04/08/1999 MIN @ LAC L 19 6 3 9 33.3 0 0 - 0 0 - 0 2 2 0 1 0 3 5 -9
+p168
+aVDean Garrett MIN 04/08/1999 MIN @ LAC L 28 2 1 2 50.0 0 0 - 0 0 - 2 8 10 0 1 0 1 2 -9
+p169
+aVSam Mitchell MIN 04/08/1999 MIN @ LAC L 33 12 5 8 62.5 0 0 - 2 3 66.7 3 6 9 1 0 0 0 6 1
+p170
+aVReggie Jordan MIN 04/08/1999 MIN @ LAC L 7 5 1 2 50.0 0 0 - 3 6 50.0 1 1 2 0 1 0 1 2 2
+p171
+aVBobby Jackson MIN 04/08/1999 MIN @ LAC L 27 12 5 11 45.5 2 2 100.0 0 0 - 2 0 2 4 0 0 2 1 -7
+p172
+aVKevin Garnett MIN 04/08/1999 MIN @ LAC L 40 15 7 25 28.0 0 0 - 1 3 33.3 3 3 6 5 2 0 2 1 -5
+p173
+aVJames Robinson MIN 04/08/1999 MIN @ LAC L 19 10 4 8 50.0 1 3 33.3 1 2 50.0 0 1 1 5 1 0 1 4 0
+p174
+aVDean Garrett MIN 04/07/1999 MIN @ PHX L 14 2 1 3 33.3 0 0 - 0 1 0.0 2 1 3 0 0 0 0 0 -3
+p175
+aVBobby Jackson MIN 04/07/1999 MIN @ PHX L 36 13 6 15 40.0 0 0 - 1 4 25.0 1 1 2 6 2 0 3 5 -14
+p176
+aVJoe Smith MIN 04/07/1999 MIN @ PHX L 29 14 5 12 41.7 0 1 0.0 4 6 66.7 5 5 10 0 0 1 2 4 0
+p177
+aVBill Curley MIN 04/07/1999 MIN @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -5
+p178
+aVMalik Sealy MIN 04/07/1999 MIN @ PHX L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 2 -12
+p179
+aVDennis Scott MIN 04/07/1999 MIN @ PHX L 31 12 4 7 57.1 2 2 100.0 2 3 66.7 0 2 2 3 2 0 3 1 2
+p180
+aVTom Hammonds MIN 04/07/1999 MIN @ PHX L 20 8 3 7 42.9 0 0 - 2 3 66.7 2 1 3 0 0 0 0 0 -9
+p181
+aVAndrae Patterson MIN 04/07/1999 MIN @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p182
+aVSam Mitchell MIN 04/07/1999 MIN @ PHX L 35 6 3 8 37.5 0 0 - 0 1 0.0 0 2 2 4 1 1 2 1 1
+p183
+aVKevin Garnett MIN 04/07/1999 MIN @ PHX L 36 19 9 15 60.0 0 0 - 1 2 50.0 4 9 13 4 2 4 5 3 -1
+p184
+aVJames Robinson MIN 04/07/1999 MIN @ PHX L 7 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 0 0 0 3 0 3
+p185
+aVReggie Jordan MIN 04/07/1999 MIN @ PHX L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 1
+p186
+aVDean Garrett MIN 04/05/1999 MIN vs. DAL W 11 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 0
+p187
+aVAndrae Patterson MIN 04/05/1999 MIN vs. DAL W 14 11 3 6 50.0 0 0 - 5 6 83.3 0 0 0 1 0 0 0 3 6
+p188
+aVTom Hammonds MIN 04/05/1999 MIN vs. DAL W 28 14 7 10 70.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 6
+p189
+aVReggie Jordan MIN 04/05/1999 MIN vs. DAL W 21 9 1 3 33.3 0 0 - 7 8 87.5 4 3 7 3 1 0 2 4 16
+p190
+aVSam Mitchell MIN 04/05/1999 MIN vs. DAL W 29 18 5 14 35.7 0 0 - 8 9 88.9 2 1 3 2 2 0 0 2 3
+p191
+aVBobby Jackson MIN 04/05/1999 MIN vs. DAL W 29 13 5 11 45.5 0 0 - 3 6 50.0 1 6 7 4 3 0 5 2 2
+p192
+aVDennis Scott MIN 04/05/1999 MIN vs. DAL W 29 9 4 6 66.7 1 3 33.3 0 0 - 1 2 3 5 2 0 1 2 -9
+p193
+aVKevin Garnett MIN 04/05/1999 MIN vs. DAL W 41 18 8 19 42.1 0 0 - 2 2 100.0 3 6 9 3 2 2 2 2 6
+p194
+aVBill Curley MIN 04/05/1999 MIN vs. DAL W 18 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 3 0 0 2 0
+p195
+aVTerrell Brandon MIN 04/05/1999 MIN vs. DAL W 20 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 8 3 0 0 2 5
+p196
+aVReggie Jordan MIN 04/03/1999 MIN vs. SAC W 15 2 1 1 100.0 0 0 - 0 0 - 2 4 6 2 0 0 0 2 8
+p197
+aVTom Hammonds MIN 04/03/1999 MIN vs. SAC W 31 23 11 18 61.1 0 0 - 1 3 33.3 2 2 4 2 0 0 0 3 17
+p198
+aVTerrell Brandon MIN 04/03/1999 MIN vs. SAC W 35 11 4 14 28.6 0 0 - 3 3 100.0 1 6 7 16 5 0 1 1 3
+p199
+aVBill Curley MIN 04/03/1999 MIN vs. SAC W 12 2 0 1 0.0 0 0 - 2 2 100.0 2 4 6 0 2 1 0 1 -6
+p200
+aVKevin Garnett MIN 04/03/1999 MIN vs. SAC W 36 24 12 21 57.1 0 0 - 0 0 - 4 6 10 4 1 2 2 2 3
+p201
+aVDennis Scott MIN 04/03/1999 MIN vs. SAC W 32 7 3 9 33.3 1 5 20.0 0 0 - 0 1 1 3 0 0 0 4 0
+p202
+aVBobby Jackson MIN 04/03/1999 MIN vs. SAC W 14 12 6 9 66.7 0 0 - 0 0 - 1 0 1 4 0 0 2 0 7
+p203
+aVAndrae Patterson MIN 04/03/1999 MIN vs. SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p204
+aVSam Mitchell MIN 04/03/1999 MIN vs. SAC W 39 18 7 19 36.8 0 0 - 4 6 66.7 3 3 6 4 1 0 1 2 1
+p205
+aVDean Garrett MIN 04/03/1999 MIN vs. SAC W 26 6 2 7 28.6 0 0 - 2 2 100.0 2 6 8 1 0 0 2 1 12
+p206
+aVAndrae Patterson MIN 04/02/1999 MIN vs. DEN W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p207
+aVBill Curley MIN 04/02/1999 MIN vs. DEN W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 1 0 1 5
+p208
+aVTerrell Brandon MIN 04/02/1999 MIN vs. DEN W 36 21 10 20 50.0 1 6 16.7 0 0 - 0 8 8 15 5 1 5 2 21
+p209
+aVSam Mitchell MIN 04/02/1999 MIN vs. DEN W 34 21 9 14 64.3 1 1 100.0 2 3 66.7 1 3 4 2 1 0 0 0 11
+p210
+aVKevin Garnett MIN 04/02/1999 MIN vs. DEN W 39 28 14 23 60.9 0 0 - 0 2 0.0 3 3 6 7 1 1 1 4 22
+p211
+aVReggie Jordan MIN 04/02/1999 MIN vs. DEN W 13 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 2 0 1 0 0 -2
+p212
+aVTom Hammonds MIN 04/02/1999 MIN vs. DEN W 31 10 5 6 83.3 0 0 - 0 0 - 2 5 7 1 0 0 2 2 11
+p213
+aVBobby Jackson MIN 04/02/1999 MIN vs. DEN W 19 8 4 6 66.7 0 0 - 0 0 - 2 1 3 4 1 0 4 6 8
+p214
+aVDennis Scott MIN 04/02/1999 MIN vs. DEN W 42 14 5 10 50.0 4 5 80.0 0 0 - 1 3 4 3 0 0 1 1 21
+p215
+aVDean Garrett MIN 04/02/1999 MIN vs. DEN W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -1
+p216
+aVKevin Garnett MIN 03/30/1999 MIN vs. DAL W 31 22 11 12 91.7 0 0 - 0 0 - 3 6 9 8 1 0 3 4 21
+p217
+aVDean Garrett MIN 03/30/1999 MIN vs. DAL W 29 12 6 8 75.0 0 0 - 0 0 - 2 5 7 0 1 0 0 1 13
+p218
+aVBill Curley MIN 03/30/1999 MIN vs. DAL W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -1
+p219
+aVReggie Jordan MIN 03/30/1999 MIN vs. DAL W 19 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 5 1 0 1 1 3
+p220
+aVDennis Scott MIN 03/30/1999 MIN vs. DAL W 29 4 0 4 0.0 0 2 0.0 4 4 100.0 1 2 3 5 0 0 1 1 16
+p221
+aVAndrae Patterson MIN 03/30/1999 MIN vs. DAL W 14 5 2 5 40.0 0 0 - 1 2 50.0 4 3 7 2 0 1 2 4 -5
+p222
+aVSam Mitchell MIN 03/30/1999 MIN vs. DAL W 27 11 5 12 41.7 0 0 - 1 2 50.0 0 8 8 3 3 1 1 3 14
+p223
+aVTom Hammonds MIN 03/30/1999 MIN vs. DAL W 26 15 7 11 63.6 0 0 - 1 2 50.0 1 1 2 0 1 1 3 6 21
+p224
+aVBobby Jackson MIN 03/30/1999 MIN vs. DAL W 22 4 2 11 18.2 0 1 0.0 0 0 - 0 1 1 5 0 0 1 4 5
+p225
+aVTerrell Brandon MIN 03/30/1999 MIN vs. DAL W 31 22 10 16 62.5 2 2 100.0 0 0 - 1 2 3 6 0 0 0 1 13
+p226
+aVSam Mitchell MIN 03/28/1999 MIN vs. MIL L 40 20 6 14 42.9 0 1 0.0 8 9 88.9 0 5 5 3 0 1 2 3 -8
+p227
+aVDennis Scott MIN 03/28/1999 MIN vs. MIL L 39 15 6 14 42.9 3 7 42.9 0 0 - 1 3 4 0 3 0 0 1 -9
+p228
+aVBill Curley MIN 03/28/1999 MIN vs. MIL L 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 0 2 0 4 2
+p229
+aVBobby Jackson MIN 03/28/1999 MIN vs. MIL L 21 6 2 9 22.2 0 1 0.0 2 4 50.0 2 1 3 4 0 0 1 0 -15
+p230
+aVDean Garrett MIN 03/28/1999 MIN vs. MIL L 18 8 3 7 42.9 0 0 - 2 2 100.0 3 0 3 0 0 0 1 1 -3
+p231
+aVReggie Jordan MIN 03/28/1999 MIN vs. MIL L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 5 -1
+p232
+aVTom Hammonds MIN 03/28/1999 MIN vs. MIL L 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 1 0 2 3
+p233
+aVJames Robinson MIN 03/28/1999 MIN vs. MIL L 9 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -3
+p234
+aVTerrell Brandon MIN 03/28/1999 MIN vs. MIL L 33 13 4 8 50.0 0 0 - 5 6 83.3 0 1 1 5 0 0 6 5 1
+p235
+aVKevin Garnett MIN 03/28/1999 MIN vs. MIL L 42 16 7 20 35.0 0 0 - 2 4 50.0 8 10 18 9 2 0 4 3 -12
+p236
+aVTom Hammonds MIN 03/26/1999 MIN vs. MIA W 17 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 2 4 3
+p237
+aVBill Curley MIN 03/26/1999 MIN vs. MIA W 21 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 1 1 0 5 1
+p238
+aVDennis Scott MIN 03/26/1999 MIN vs. MIA W 24 8 2 8 25.0 1 4 25.0 3 4 75.0 0 0 0 2 0 0 1 1 0
+p239
+aVSam Mitchell MIN 03/26/1999 MIN vs. MIA W 43 17 6 16 37.5 0 1 0.0 5 6 83.3 2 2 4 3 0 0 2 2 0
+p240
+aVReggie Jordan MIN 03/26/1999 MIN vs. MIA W 0 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p241
+aVAndrae Patterson MIN 03/26/1999 MIN vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 2 4
+p242
+aVJames Robinson MIN 03/26/1999 MIN vs. MIA W 19 6 2 4 50.0 2 3 66.7 0 0 - 2 3 5 1 2 0 2 1 4
+p243
+aVBobby Jackson MIN 03/26/1999 MIN vs. MIA W 14 6 2 6 33.3 0 0 - 2 3 66.7 2 2 4 3 1 0 1 0 8
+p244
+aVDean Garrett MIN 03/26/1999 MIN vs. MIA W 26 13 3 4 75.0 0 0 - 7 8 87.5 4 5 9 0 1 1 0 4 2
+p245
+aVTerrell Brandon MIN 03/26/1999 MIN vs. MIA W 43 14 6 13 46.2 1 1 100.0 1 3 33.3 1 4 5 11 1 0 1 1 6
+p246
+aVKevin Garnett MIN 03/26/1999 MIN vs. MIA W 30 19 8 15 53.3 0 0 - 3 4 75.0 3 4 7 2 0 2 2 5 7
+p247
+aVDennis Scott MIN 03/24/1999 MIN @ BOS W 35 22 8 17 47.1 3 9 33.3 3 4 75.0 0 5 5 0 0 0 0 2 23
+p248
+aVTerrell Brandon MIN 03/24/1999 MIN @ BOS W 25 9 3 9 33.3 1 1 100.0 2 2 100.0 0 4 4 6 1 0 0 3 9
+p249
+aVReggie Jordan MIN 03/24/1999 MIN @ BOS W 23 2 1 4 25.0 0 0 - 0 4 0.0 2 8 10 2 2 1 0 1 7
+p250
+aVTom Hammonds MIN 03/24/1999 MIN @ BOS W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p251
+aVBobby Jackson MIN 03/24/1999 MIN @ BOS W 23 9 4 8 50.0 0 0 - 1 1 100.0 0 4 4 3 5 0 1 2 10
+p252
+aVDean Garrett MIN 03/24/1999 MIN @ BOS W 7 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 0
+p253
+aVJoe Smith MIN 03/24/1999 MIN @ BOS W 27 10 4 9 44.4 0 0 - 2 6 33.3 1 1 2 3 0 2 1 4 12
+p254
+aVBrian Evans MIN 03/24/1999 MIN @ BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p255
+aVKevin Garnett MIN 03/24/1999 MIN @ BOS W 35 22 10 20 50.0 0 1 0.0 2 2 100.0 3 11 14 6 0 0 2 0 16
+p256
+aVAndrae Patterson MIN 03/24/1999 MIN @ BOS W 2 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p257
+aVSam Mitchell MIN 03/24/1999 MIN @ BOS W 33 10 3 10 30.0 0 0 - 4 6 66.7 1 5 6 1 2 1 0 2 13
+p258
+aVBill Curley MIN 03/24/1999 MIN @ BOS W 25 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 2 2 3 20
+p259
+aVJoe Smith MIN 03/21/1999 MIN vs. LAC L 38 11 2 7 28.6 0 0 - 7 8 87.5 4 4 8 3 3 2 1 5 -13
+p260
+aVBobby Jackson MIN 03/21/1999 MIN vs. LAC L 16 6 2 7 28.6 0 2 0.0 2 2 100.0 1 2 3 3 0 0 1 4 -5
+p261
+aVTom Hammonds MIN 03/21/1999 MIN vs. LAC L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p262
+aVSam Mitchell MIN 03/21/1999 MIN vs. LAC L 32 12 6 13 46.2 0 1 0.0 0 0 - 2 3 5 0 1 0 1 2 -9
+p263
+aVAndrae Patterson MIN 03/21/1999 MIN vs. LAC L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 1
+p264
+aVBill Curley MIN 03/21/1999 MIN vs. LAC L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 1 0 0 1 -5
+p265
+aVDennis Scott MIN 03/21/1999 MIN vs. LAC L 25 10 3 8 37.5 2 4 50.0 2 2 100.0 0 0 0 1 0 0 1 1 -8
+p266
+aVBrian Evans MIN 03/21/1999 MIN vs. LAC L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -1
+p267
+aVDean Garrett MIN 03/21/1999 MIN vs. LAC L 20 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 1 0 1 2 -4
+p268
+aVTerrell Brandon MIN 03/21/1999 MIN vs. LAC L 38 14 7 18 38.9 0 1 0.0 0 0 - 0 4 4 11 0 0 2 1 -11
+p269
+aVKevin Garnett MIN 03/21/1999 MIN vs. LAC L 44 27 12 24 50.0 0 0 - 3 7 42.9 1 7 8 3 3 1 3 1 -16
+p270
+aVReggie Jordan MIN 03/19/1999 MIN @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p271
+aVBobby Jackson MIN 03/19/1999 MIN @ DEN W 15 5 2 8 25.0 0 0 - 1 2 50.0 2 3 5 3 0 1 2 2 -11
+p272
+aVTom Hammonds MIN 03/19/1999 MIN @ DEN W 17 5 1 3 33.3 0 0 - 3 3 100.0 0 2 2 0 0 0 0 2 -3
+p273
+aVDean Garrett MIN 03/19/1999 MIN @ DEN W 19 0 0 2 0.0 0 0 - 0 0 - 2 6 8 1 0 1 0 1 -9
+p274
+aVKevin Garnett MIN 03/19/1999 MIN @ DEN W 38 28 11 25 44.0 0 2 0.0 6 8 75.0 2 4 6 3 1 0 4 6 0
+p275
+aVSam Mitchell MIN 03/19/1999 MIN @ DEN W 32 10 4 9 44.4 0 0 - 2 2 100.0 0 1 1 3 2 0 2 3 9
+p276
+aVDennis Scott MIN 03/19/1999 MIN @ DEN W 18 13 5 8 62.5 1 3 33.3 2 2 100.0 0 1 1 0 1 0 0 1 4
+p277
+aVJoe Smith MIN 03/19/1999 MIN @ DEN W 39 21 4 11 36.4 0 1 0.0 13 13 100.0 1 7 8 0 0 2 0 1 8
+p278
+aVTerrell Brandon MIN 03/19/1999 MIN @ DEN W 36 17 6 11 54.5 0 0 - 5 5 100.0 2 5 7 12 1 1 1 5 12
+p279
+aVBill Curley MIN 03/19/1999 MIN @ DEN W 25 6 1 2 50.0 0 1 0.0 4 4 100.0 1 4 5 1 1 0 2 6 14
+p280
+aVBill Curley MIN 03/18/1999 MIN @ VAN L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 4 1
+p281
+aVTom Hammonds MIN 03/18/1999 MIN @ VAN L 22 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 2 1 1 0 3 -5
+p282
+aVAndrae Patterson MIN 03/18/1999 MIN @ VAN L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p283
+aVDennis Scott MIN 03/18/1999 MIN @ VAN L 19 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 0 0 0 1 3 -7
+p284
+aVSam Mitchell MIN 03/18/1999 MIN @ VAN L 25 17 6 16 37.5 0 1 0.0 5 6 83.3 3 2 5 0 0 0 0 3 -2
+p285
+aVKevin Garnett MIN 03/18/1999 MIN @ VAN L 44 20 9 22 40.9 0 1 0.0 2 7 28.6 5 5 10 2 0 2 6 4 -4
+p286
+aVDean Garrett MIN 03/18/1999 MIN @ VAN L 15 2 0 2 0.0 0 0 - 2 4 50.0 3 1 4 1 0 2 0 4 -1
+p287
+aVJoe Smith MIN 03/18/1999 MIN @ VAN L 27 10 4 13 30.8 0 0 - 2 4 50.0 7 5 12 3 2 2 1 4 -5
+p288
+aVReggie Jordan MIN 03/18/1999 MIN @ VAN L 19 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 1 1 1 2 -4
+p289
+aVTerrell Brandon MIN 03/18/1999 MIN @ VAN L 40 12 5 14 35.7 0 0 - 2 2 100.0 1 2 3 12 6 0 3 5 -2
+p290
+aVBobby Jackson MIN 03/18/1999 MIN @ VAN L 18 8 1 5 20.0 0 0 - 6 8 75.0 0 4 4 1 0 0 1 0 4
+p291
+aVKevin Garnett MIN 03/16/1999 MIN vs. LAL L 40 21 10 22 45.5 1 2 50.0 0 3 0.0 5 6 11 9 0 1 0 2 -10
+p292
+aVDean Garrett MIN 03/16/1999 MIN vs. LAL L 32 12 6 11 54.5 0 0 - 0 0 - 4 0 4 1 2 0 0 4 -4
+p293
+aVBrian Evans MIN 03/16/1999 MIN vs. LAL L 1 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p294
+aVTerrell Brandon MIN 03/16/1999 MIN vs. LAL L 33 18 8 18 44.4 0 0 - 2 4 50.0 3 2 5 7 1 0 1 2 -15
+p295
+aVBobby Jackson MIN 03/16/1999 MIN vs. LAL L 15 6 2 9 22.2 0 2 0.0 2 2 100.0 1 2 3 1 0 0 1 0 9
+p296
+aVSam Mitchell MIN 03/16/1999 MIN vs. LAL L 33 13 6 14 42.9 0 0 - 1 2 50.0 0 4 4 4 0 0 0 3 -8
+p297
+aVReggie Jordan MIN 03/16/1999 MIN vs. LAL L 26 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 3 0 0 1 2 8
+p298
+aVJoe Smith MIN 03/16/1999 MIN vs. LAL L 42 22 7 15 46.7 0 0 - 8 12 66.7 10 3 13 4 1 1 2 1 -5
+p299
+aVTrevor Winter MIN 03/16/1999 MIN vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 5 -2
+p300
+aVAndrae Patterson MIN 03/16/1999 MIN vs. LAL L 9 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 1 0 1 4 4
+p301
+aVTom Hammonds MIN 03/16/1999 MIN vs. LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -7
+p302
+aVSam Mitchell MIN 03/15/1999 MIN vs. UTA L 20 3 1 7 14.3 0 1 0.0 1 2 50.0 2 2 4 3 0 1 0 3 -9
+p303
+aVDean Garrett MIN 03/15/1999 MIN vs. UTA L 31 0 0 5 0.0 0 0 - 0 0 - 2 4 6 0 2 0 0 4 -5
+p304
+aVBrian Evans MIN 03/15/1999 MIN vs. UTA L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 7
+p305
+aVReggie Jordan MIN 03/15/1999 MIN vs. UTA L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 3 0
+p306
+aVKevin Garnett MIN 03/15/1999 MIN vs. UTA L 38 10 4 16 25.0 0 0 - 2 2 100.0 4 5 9 6 1 2 5 6 -12
+p307
+aVJoe Smith MIN 03/15/1999 MIN vs. UTA L 41 26 12 23 52.2 0 0 - 2 2 100.0 8 9 17 0 0 1 4 3 2
+p308
+aVAnthony Peeler MIN 03/15/1999 MIN vs. UTA L 7 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 0 1 0 0 1 -7
+p309
+aVTerrell Brandon MIN 03/15/1999 MIN vs. UTA L 38 21 8 16 50.0 0 1 0.0 5 5 100.0 0 1 1 6 3 0 2 4 -9
+p310
+aVBobby Jackson MIN 03/15/1999 MIN vs. UTA L 27 17 6 14 42.9 2 4 50.0 3 3 100.0 1 2 3 2 1 0 1 3 1
+p311
+aVTom Hammonds MIN 03/15/1999 MIN vs. UTA L 11 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 1 1 0 2 1 -2
+p312
+aVAndrae Patterson MIN 03/15/1999 MIN vs. UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p313
+aVReggie Jordan MIN 03/13/1999 MIN @ UTA L 24 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 1 0 2 2 -13
+p314
+aVKevin Garnett MIN 03/13/1999 MIN @ UTA L 38 22 10 23 43.5 0 0 - 2 4 50.0 6 8 14 2 4 0 3 0 -18
+p315
+aVSam Mitchell MIN 03/13/1999 MIN @ UTA L 21 9 3 7 42.9 0 1 0.0 3 3 100.0 0 3 3 0 1 0 0 3 2
+p316
+aVAnthony Peeler MIN 03/13/1999 MIN @ UTA L 24 6 2 13 15.4 0 4 0.0 2 2 100.0 2 1 3 1 0 0 0 3 -19
+p317
+aVBobby Jackson MIN 03/13/1999 MIN @ UTA L 21 8 3 11 27.3 0 1 0.0 2 2 100.0 0 0 0 3 2 0 1 2 -15
+p318
+aVDean Garrett MIN 03/13/1999 MIN @ UTA L 17 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 2 2 -12
+p319
+aVAndrae Patterson MIN 03/13/1999 MIN @ UTA L 18 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 2 1 3 3 -7
+p320
+aVBrian Evans MIN 03/13/1999 MIN @ UTA L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -6
+p321
+aVTerrell Brandon MIN 03/13/1999 MIN @ UTA L 27 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 4 2 3 0 3 -12
+p322
+aVJoe Smith MIN 03/13/1999 MIN @ UTA L 34 7 3 14 21.4 0 0 - 1 2 50.0 5 4 9 0 0 2 5 2 -27
+p323
+aVTom Hammonds MIN 03/13/1999 MIN @ UTA L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -8
+p324
+aVSam Mitchell MIN 03/12/1999 MIN @ SAC W 31 12 4 11 36.4 0 0 - 4 8 50.0 0 3 3 2 1 1 2 2 -5
+p325
+aVDean Garrett MIN 03/12/1999 MIN @ SAC W 25 2 0 3 0.0 0 0 - 2 2 100.0 1 4 5 1 1 1 0 3 -1
+p326
+aVKevin Garnett MIN 03/12/1999 MIN @ SAC W 31 26 12 20 60.0 0 1 0.0 2 2 100.0 7 10 17 2 1 1 4 4 4
+p327
+aVJoe Smith MIN 03/12/1999 MIN @ SAC W 25 6 2 6 33.3 0 0 - 2 2 100.0 0 4 4 2 0 0 2 4 13
+p328
+aVAndrae Patterson MIN 03/12/1999 MIN @ SAC W 9 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 1 1 1 4
+p329
+aVAnthony Peeler MIN 03/12/1999 MIN @ SAC W 40 20 8 17 47.1 3 6 50.0 1 2 50.0 4 3 7 0 1 0 2 2 4
+p330
+aVBobby Jackson MIN 03/12/1999 MIN @ SAC W 36 15 5 14 35.7 0 0 - 5 5 100.0 2 3 5 9 3 0 4 1 4
+p331
+aVTom Hammonds MIN 03/12/1999 MIN @ SAC W 23 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 0 0 0 2 6
+p332
+aVReggie Jordan MIN 03/12/1999 MIN @ SAC W 20 6 3 6 50.0 0 0 - 0 0 - 0 1 1 5 2 1 1 3 1
+p333
+aVKevin Garnett MIN 03/11/1999 MIN @ GSW L 40 22 8 21 38.1 0 1 0.0 6 7 85.7 3 5 8 5 0 1 4 5 -2
+p334
+aVAndrae Patterson MIN 03/11/1999 MIN @ GSW L 10 5 2 4 50.0 0 0 - 1 2 50.0 3 1 4 0 0 0 1 2 -3
+p335
+aVJoe Smith MIN 03/11/1999 MIN @ GSW L 38 14 5 15 33.3 0 0 - 4 7 57.1 6 9 15 2 0 5 1 2 0
+p336
+aVSam Mitchell MIN 03/11/1999 MIN @ GSW L 26 9 2 10 20.0 0 1 0.0 5 6 83.3 4 2 6 0 1 0 1 2 -11
+p337
+aVBobby Jackson MIN 03/11/1999 MIN @ GSW L 39 15 6 19 31.6 1 3 33.3 2 2 100.0 3 4 7 8 4 1 3 5 2
+p338
+aVMalik Sealy MIN 03/11/1999 MIN @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p339
+aVTom Hammonds MIN 03/11/1999 MIN @ GSW L 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -9
+p340
+aVReggie Jordan MIN 03/11/1999 MIN @ GSW L 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 1 0 3 -6
+p341
+aVDean Garrett MIN 03/11/1999 MIN @ GSW L 22 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 4 0 3 3
+p342
+aVAnthony Peeler MIN 03/11/1999 MIN @ GSW L 37 11 4 16 25.0 2 6 33.3 1 2 50.0 2 1 3 5 1 1 4 4 -9
+p343
+aVBill Curley MIN 03/09/1999 MIN vs. SEA W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p344
+aVTom Hammonds MIN 03/09/1999 MIN vs. SEA W 4 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -6
+p345
+aVAnthony Peeler MIN 03/09/1999 MIN vs. SEA W 25 9 4 11 36.4 1 6 16.7 0 0 - 3 5 8 6 0 0 0 0 6
+p346
+aVJoe Smith MIN 03/09/1999 MIN vs. SEA W 32 10 5 13 38.5 0 0 - 0 0 - 6 5 11 0 0 2 2 3 12
+p347
+aVMalik Sealy MIN 03/09/1999 MIN vs. SEA W 30 10 4 9 44.4 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 -14
+p348
+aVSam Mitchell MIN 03/09/1999 MIN vs. SEA W 23 5 1 7 14.3 1 2 50.0 2 4 50.0 2 2 4 2 0 0 1 3 -21
+p349
+aVKevin Garnett MIN 03/09/1999 MIN vs. SEA W 38 22 11 21 52.4 0 0 - 0 0 - 8 8 16 6 2 4 4 3 17
+p350
+aVBobby Jackson MIN 03/09/1999 MIN vs. SEA W 15 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p351
+aVStephon Marbury MIN 03/09/1999 MIN vs. SEA W 36 12 5 15 33.3 0 7 0.0 2 2 100.0 0 4 4 9 1 1 2 3 8
+p352
+aVDean Garrett MIN 03/09/1999 MIN vs. SEA W 24 10 5 7 71.4 0 0 - 0 0 - 2 2 4 1 1 1 0 1 11
+p353
+aVSam Mitchell MIN 03/07/1999 MIN @ SEA W 26 16 5 13 38.5 1 2 50.0 5 7 71.4 0 1 1 2 1 1 0 2 8
+p354
+aVBill Curley MIN 03/07/1999 MIN @ SEA W 18 3 1 1 100.0 1 1 100.0 0 0 - 2 1 3 2 0 0 1 5 11
+p355
+aVDean Garrett MIN 03/07/1999 MIN @ SEA W 24 2 0 3 0.0 0 0 - 2 2 100.0 4 4 8 1 0 0 3 2 -4
+p356
+aVJoe Smith MIN 03/07/1999 MIN @ SEA W 22 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 1 1 3 0
+p357
+aVAnthony Peeler MIN 03/07/1999 MIN @ SEA W 14 12 5 10 50.0 2 4 50.0 0 0 - 0 0 0 1 1 0 0 2 -1
+p358
+aVKevin Garnett MIN 03/07/1999 MIN @ SEA W 41 19 7 13 53.8 0 0 - 5 6 83.3 4 10 14 7 4 1 3 0 15
+p359
+aVStephon Marbury MIN 03/07/1999 MIN @ SEA W 34 10 4 11 36.4 1 3 33.3 1 3 33.3 0 2 2 6 1 0 1 3 11
+p360
+aVTom Hammonds MIN 03/07/1999 MIN @ SEA W 13 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 2 1 0
+p361
+aVBobby Jackson MIN 03/07/1999 MIN @ SEA W 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 3 0 0 1 2 0
+p362
+aVMalik Sealy MIN 03/07/1999 MIN @ SEA W 34 18 8 13 61.5 0 0 - 2 2 100.0 0 4 4 1 1 1 2 1 15
+p363
+aVAnthony Peeler MIN 03/05/1999 MIN @ POR L 27 8 3 8 37.5 1 3 33.3 1 2 50.0 0 5 5 0 0 0 2 3 -5
+p364
+aVMalik Sealy MIN 03/05/1999 MIN @ POR L 21 4 1 5 20.0 0 0 - 2 2 100.0 0 6 6 2 1 0 2 4 -7
+p365
+aVBobby Jackson MIN 03/05/1999 MIN @ POR L 11 8 4 5 80.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p366
+aVJoe Smith MIN 03/05/1999 MIN @ POR L 41 10 3 14 21.4 0 0 - 4 6 66.7 7 5 12 3 4 4 1 2 -15
+p367
+aVSam Mitchell MIN 03/05/1999 MIN @ POR L 22 12 5 11 45.5 0 1 0.0 2 2 100.0 1 2 3 1 1 0 1 4 -8
+p368
+aVStephon Marbury MIN 03/05/1999 MIN @ POR L 37 18 5 19 26.3 0 1 0.0 8 8 100.0 0 2 2 7 1 0 5 4 -10
+p369
+aVDean Garrett MIN 03/05/1999 MIN @ POR L 23 7 2 5 40.0 0 0 - 3 4 75.0 2 4 6 0 0 0 0 2 -5
+p370
+aVKevin Garnett MIN 03/05/1999 MIN @ POR L 37 16 8 15 53.3 0 0 - 0 0 - 1 4 5 1 1 3 2 3 -6
+p371
+aVChris Carr MIN 03/05/1999 MIN @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -3
+p372
+aVBill Curley MIN 03/05/1999 MIN @ POR L 16 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 3 1
+p373
+aVTom Hammonds MIN 03/04/1999 MIN @ VAN W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p374
+aVAnthony Peeler MIN 03/04/1999 MIN @ VAN W 37 14 6 12 50.0 0 3 0.0 2 3 66.7 1 2 3 1 3 1 0 1 9
+p375
+aVMalik Sealy MIN 03/04/1999 MIN @ VAN W 23 11 3 7 42.9 1 1 100.0 4 4 100.0 0 2 2 1 2 1 1 4 3
+p376
+aVBill Curley MIN 03/04/1999 MIN @ VAN W 13 1 0 6 0.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 3 5
+p377
+aVJoe Smith MIN 03/04/1999 MIN @ VAN W 33 19 6 11 54.5 0 0 - 7 8 87.5 3 6 9 2 2 1 4 5 -3
+p378
+aVDean Garrett MIN 03/04/1999 MIN @ VAN W 27 10 3 7 42.9 0 0 - 4 4 100.0 2 3 5 0 3 0 1 5 12
+p379
+aVStephon Marbury MIN 03/04/1999 MIN @ VAN W 39 16 8 17 47.1 0 0 - 0 0 - 1 2 3 11 1 0 2 2 9
+p380
+aVBobby Jackson MIN 03/04/1999 MIN @ VAN W 9 4 0 1 0.0 0 0 - 4 4 100.0 1 0 1 3 0 0 0 1 0
+p381
+aVKevin Garnett MIN 03/04/1999 MIN @ VAN W 41 23 9 17 52.9 0 1 0.0 5 7 71.4 2 6 8 3 0 6 3 2 5
+p382
+aVSam Mitchell MIN 03/04/1999 MIN @ VAN W 15 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 1 0 0 1 3
+p383
+aVDean Garrett MIN 03/02/1999 MIN vs. GSW W 19 1 0 5 0.0 0 0 - 1 2 50.0 4 3 7 2 0 1 0 2 -3
+p384
+aVMalik Sealy MIN 03/02/1999 MIN vs. GSW W 26 11 2 4 50.0 0 1 0.0 7 7 100.0 1 4 5 0 0 0 1 3 13
+p385
+aVTom Hammonds MIN 03/02/1999 MIN vs. GSW W 14 0 0 0 - 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -4
+p386
+aVAnthony Peeler MIN 03/02/1999 MIN vs. GSW W 32 11 3 12 25.0 1 3 33.3 4 4 100.0 2 1 3 3 0 0 3 3 16
+p387
+aVJoe Smith MIN 03/02/1999 MIN vs. GSW W 40 14 6 14 42.9 0 0 - 2 2 100.0 4 4 8 0 2 1 0 4 13
+p388
+aVSam Mitchell MIN 03/02/1999 MIN vs. GSW W 21 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 2 1 -5
+p389
+aVStephon Marbury MIN 03/02/1999 MIN vs. GSW W 37 19 7 16 43.8 0 1 0.0 5 6 83.3 3 2 5 6 2 0 5 2 9
+p390
+aVBobby Jackson MIN 03/02/1999 MIN vs. GSW W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 2 1 2
+p391
+aVKevin Garnett MIN 03/02/1999 MIN vs. GSW W 41 27 8 18 44.4 0 0 - 11 18 61.1 2 12 14 6 2 3 1 4 14
+p392
+aVTom Hammonds MIN 02/28/1999 MIN vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p393
+aVAnthony Peeler MIN 02/28/1999 MIN vs. POR L 26 11 4 13 30.8 0 6 0.0 3 4 75.0 0 0 0 0 2 1 1 1 -11
+p394
+aVSam Mitchell MIN 02/28/1999 MIN vs. POR L 18 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p395
+aVStephon Marbury MIN 02/28/1999 MIN vs. POR L 41 25 8 19 42.1 1 4 25.0 8 11 72.7 1 4 5 16 1 1 2 4 7
+p396
+aVDean Garrett MIN 02/28/1999 MIN vs. POR L 26 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 1 0 0 1 -10
+p397
+aVBill Curley MIN 02/28/1999 MIN vs. POR L 13 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 2 4 -2
+p398
+aVKevin Garnett MIN 02/28/1999 MIN vs. POR L 37 17 6 11 54.5 0 0 - 5 7 71.4 1 8 9 0 2 4 1 6 -4
+p399
+aVAndrae Patterson MIN 02/28/1999 MIN vs. POR L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 2 1 -1
+p400
+aVMalik Sealy MIN 02/28/1999 MIN vs. POR L 29 13 6 7 85.7 0 1 0.0 1 2 50.0 0 5 5 1 0 0 3 3 10
+p401
+aVJoe Smith MIN 02/28/1999 MIN vs. POR L 40 11 4 13 30.8 0 0 - 3 4 75.0 6 3 9 3 2 5 1 1 -5
+p402
+aVBobby Jackson MIN 02/28/1999 MIN vs. POR L 7 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -14
+p403
+aVAndrae Patterson MIN 02/26/1999 MIN @ TOR L 17 12 5 10 50.0 0 1 0.0 2 2 100.0 3 4 7 1 2 0 0 4 17
+p404
+aVJoe Smith MIN 02/26/1999 MIN @ TOR L 31 12 3 9 33.3 0 0 - 6 8 75.0 2 7 9 1 1 2 2 4 -11
+p405
+aVStephon Marbury MIN 02/26/1999 MIN @ TOR L 33 17 6 20 30.0 2 6 33.3 3 4 75.0 1 2 3 9 1 0 2 2 -7
+p406
+aVDean Garrett MIN 02/26/1999 MIN @ TOR L 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -19
+p407
+aVTom Hammonds MIN 02/26/1999 MIN @ TOR L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p408
+aVSam Mitchell MIN 02/26/1999 MIN @ TOR L 21 15 7 12 58.3 0 0 - 1 1 100.0 1 1 2 2 0 0 1 2 -3
+p409
+aVBobby Jackson MIN 02/26/1999 MIN @ TOR L 15 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 5 3 0 1 0 -3
+p410
+aVBill Curley MIN 02/26/1999 MIN @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p411
+aVAnthony Peeler MIN 02/26/1999 MIN @ TOR L 33 15 6 13 46.2 3 8 37.5 0 0 - 3 1 4 1 2 1 1 1 0
+p412
+aVChris Carr MIN 02/26/1999 MIN @ TOR L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -6
+p413
+aVKevin Garnett MIN 02/26/1999 MIN @ TOR L 38 12 4 15 26.7 0 0 - 4 4 100.0 2 7 9 4 1 1 3 2 -14
+p414
+aVMalik Sealy MIN 02/26/1999 MIN @ TOR L 18 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -7
+p415
+aVTom Hammonds MIN 02/25/1999 MIN @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p416
+aVKevin Garnett MIN 02/25/1999 MIN @ NYK L 45 25 9 20 45.0 0 0 - 7 7 100.0 5 9 14 6 1 2 2 5 -7
+p417
+aVBobby Jackson MIN 02/25/1999 MIN @ NYK L 15 6 3 4 75.0 0 0 - 0 0 - 0 2 2 3 0 0 0 4 3
+p418
+aVBill Curley MIN 02/25/1999 MIN @ NYK L 8 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 1 0 0 1 -2
+p419
+aVAnthony Peeler MIN 02/25/1999 MIN @ NYK L 9 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 0 6
+p420
+aVMalik Sealy MIN 02/25/1999 MIN @ NYK L 34 10 5 12 41.7 0 1 0.0 0 2 0.0 0 1 1 1 1 0 1 2 -1
+p421
+aVStephon Marbury MIN 02/25/1999 MIN @ NYK L 44 20 7 25 28.0 0 4 0.0 6 8 75.0 3 6 9 9 3 0 9 3 -10
+p422
+aVJoe Smith MIN 02/25/1999 MIN @ NYK L 45 20 9 18 50.0 0 0 - 2 4 50.0 9 7 16 5 0 1 2 5 2
+p423
+aVDean Garrett MIN 02/25/1999 MIN @ NYK L 29 13 6 8 75.0 0 0 - 1 3 33.3 5 5 10 2 1 0 0 2 -6
+p424
+aVSam Mitchell MIN 02/25/1999 MIN @ NYK L 27 10 2 10 20.0 0 1 0.0 6 8 75.0 2 2 4 1 0 0 0 1 10
+p425
+aVChris Carr MIN 02/25/1999 MIN @ NYK L 8 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -1
+p426
+aVKevin Garnett MIN 02/22/1999 MIN vs. SAS W 41 14 7 19 36.8 0 0 - 0 0 - 4 7 11 6 5 3 4 4 -6
+p427
+aVStephon Marbury MIN 02/22/1999 MIN vs. SAS W 35 16 6 16 37.5 0 1 0.0 4 6 66.7 1 2 3 6 4 1 3 1 1
+p428
+aVSam Mitchell MIN 02/22/1999 MIN vs. SAS W 18 17 7 10 70.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 1 7
+p429
+aVDean Garrett MIN 02/22/1999 MIN vs. SAS W 33 6 2 8 25.0 0 0 - 2 2 100.0 2 1 3 2 1 3 1 1 -3
+p430
+aVJoe Smith MIN 02/22/1999 MIN vs. SAS W 28 8 4 9 44.4 0 0 - 0 0 - 2 8 10 2 0 2 3 6 1
+p431
+aVAnthony Peeler MIN 02/22/1999 MIN vs. SAS W 26 8 4 9 44.4 0 2 0.0 0 0 - 1 1 2 2 1 0 0 1 0
+p432
+aVMalik Sealy MIN 02/22/1999 MIN vs. SAS W 22 14 4 5 80.0 1 2 50.0 5 6 83.3 0 2 2 1 2 0 0 2 6
+p433
+aVBobby Jackson MIN 02/22/1999 MIN vs. SAS W 13 4 2 6 33.3 0 0 - 0 0 - 0 3 3 3 1 0 1 1 5
+p434
+aVTom Hammonds MIN 02/22/1999 MIN vs. SAS W 12 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 0 0 0 4 14
+p435
+aVBill Curley MIN 02/22/1999 MIN vs. SAS W 11 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 1 0 1 1 3 5
+p436
+aVAnthony Peeler MIN 02/21/1999 MIN vs. SAC W 30 12 4 14 28.6 1 6 16.7 3 5 60.0 1 3 4 4 2 0 1 2 27
+p437
+aVSam Mitchell MIN 02/21/1999 MIN vs. SAC W 14 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -9
+p438
+aVBobby Jackson MIN 02/21/1999 MIN vs. SAC W 8 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 1 0 0 1 1 -9
+p439
+aVDean Garrett MIN 02/21/1999 MIN vs. SAC W 25 4 2 6 33.3 0 0 - 0 0 - 4 5 9 1 0 3 0 5 12
+p440
+aVAndrae Patterson MIN 02/21/1999 MIN vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p441
+aVMalik Sealy MIN 02/21/1999 MIN vs. SAC W 20 2 1 10 10.0 0 2 0.0 0 0 - 1 1 2 0 4 0 2 3 -12
+p442
+aVStephon Marbury MIN 02/21/1999 MIN vs. SAC W 40 23 9 21 42.9 0 0 - 5 7 71.4 1 1 2 15 1 1 1 4 21
+p443
+aVBill Curley MIN 02/21/1999 MIN vs. SAC W 9 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 3
+p444
+aVJoe Smith MIN 02/21/1999 MIN vs. SAC W 39 30 10 16 62.5 0 1 0.0 10 13 76.9 7 6 13 2 1 1 1 4 16
+p445
+aVChris Carr MIN 02/21/1999 MIN vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p446
+aVTom Hammonds MIN 02/21/1999 MIN vs. SAC W 12 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -4
+p447
+aVKevin Garnett MIN 02/21/1999 MIN vs. SAC W 43 22 10 18 55.6 0 0 - 2 3 66.7 6 13 19 7 5 2 6 2 19
+p448
+aVDean Garrett MIN 02/19/1999 MIN vs. VAN W 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 1 2 3 1
+p449
+aVKevin Garnett MIN 02/19/1999 MIN vs. VAN W 26 18 9 17 52.9 0 0 - 0 0 - 4 7 11 7 2 2 3 4 8
+p450
+aVJoe Smith MIN 02/19/1999 MIN vs. VAN W 35 21 8 15 53.3 0 0 - 5 6 83.3 2 3 5 2 1 2 1 5 17
+p451
+aVBill Curley MIN 02/19/1999 MIN vs. VAN W 21 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 5 10
+p452
+aVTom Hammonds MIN 02/19/1999 MIN vs. VAN W 9 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 2 2
+p453
+aVChris Carr MIN 02/19/1999 MIN vs. VAN W 6 4 1 2 50.0 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 0 -1
+p454
+aVAnthony Peeler MIN 02/19/1999 MIN vs. VAN W 21 7 3 5 60.0 1 2 50.0 0 2 0.0 0 2 2 6 1 1 2 0 5
+p455
+aVStephon Marbury MIN 02/19/1999 MIN vs. VAN W 34 23 10 17 58.8 0 0 - 3 4 75.0 0 1 1 10 2 0 4 4 7
+p456
+aVMalik Sealy MIN 02/19/1999 MIN vs. VAN W 27 7 2 6 33.3 1 1 100.0 2 2 100.0 2 0 2 0 2 1 1 2 14
+p457
+aVAndrae Patterson MIN 02/19/1999 MIN vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p458
+aVSam Mitchell MIN 02/19/1999 MIN vs. VAN W 31 19 7 13 53.8 0 0 - 5 5 100.0 2 4 6 1 1 1 0 2 16
+p459
+aVBobby Jackson MIN 02/19/1999 MIN vs. VAN W 14 10 4 6 66.7 0 0 - 2 2 100.0 0 0 0 7 1 0 0 0 12
+p460
+aVPaul Grant MIN 02/17/1999 MIN vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p461
+aVReggie Jordan MIN 02/17/1999 MIN vs. HOU W 2 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -4
+p462
+aVJoe Smith MIN 02/17/1999 MIN vs. HOU W 32 11 5 12 41.7 0 0 - 1 2 50.0 4 3 7 5 1 2 4 2 21
+p463
+aVTom Hammonds MIN 02/17/1999 MIN vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p464
+aVKevin Garnett MIN 02/17/1999 MIN vs. HOU W 39 23 11 20 55.0 0 0 - 1 2 50.0 2 7 9 9 0 1 2 3 18
+p465
+aVBill Curley MIN 02/17/1999 MIN vs. HOU W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 6
+p466
+aVStephon Marbury MIN 02/17/1999 MIN vs. HOU W 40 40 16 24 66.7 0 1 0.0 8 11 72.7 0 4 4 12 2 0 0 1 24
+p467
+aVAnthony Peeler MIN 02/17/1999 MIN vs. HOU W 27 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 3 1 0 0 4 11
+p468
+aVMalik Sealy MIN 02/17/1999 MIN vs. HOU W 23 10 4 9 44.4 0 0 - 2 2 100.0 2 4 6 1 1 1 0 3 13
+p469
+aVAndrae Patterson MIN 02/17/1999 MIN vs. HOU W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p470
+aVChris Carr MIN 02/17/1999 MIN vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p471
+aVDean Garrett MIN 02/17/1999 MIN vs. HOU W 26 8 4 4 100.0 0 0 - 0 2 0.0 4 2 6 0 1 1 2 5 8
+p472
+aVBobby Jackson MIN 02/17/1999 MIN vs. HOU W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p473
+aVSam Mitchell MIN 02/17/1999 MIN vs. HOU W 21 12 5 8 62.5 0 1 0.0 2 2 100.0 1 2 3 2 1 0 0 3 4
+p474
+aVAnthony Peeler MIN 02/15/1999 MIN @ GSW L 37 9 4 9 44.4 1 3 33.3 0 1 0.0 0 3 3 7 2 0 2 3 3
+p475
+aVSam Mitchell MIN 02/15/1999 MIN @ GSW L 19 6 1 8 12.5 0 0 - 4 4 100.0 4 1 5 2 2 0 1 3 -5
+p476
+aVMalik Sealy MIN 02/15/1999 MIN @ GSW L 19 12 4 4 100.0 1 1 100.0 3 4 75.0 0 2 2 2 1 0 1 2 -11
+p477
+aVStephon Marbury MIN 02/15/1999 MIN @ GSW L 37 11 4 9 44.4 1 1 100.0 2 2 100.0 0 1 1 10 1 0 5 2 -7
+p478
+aVJoe Smith MIN 02/15/1999 MIN @ GSW L 31 9 4 14 28.6 0 0 - 1 1 100.0 5 1 6 1 0 0 1 5 8
+p479
+aVTom Hammonds MIN 02/15/1999 MIN @ GSW L 10 1 0 5 0.0 0 0 - 1 2 50.0 3 0 3 0 0 0 1 1 -4
+p480
+aVDean Garrett MIN 02/15/1999 MIN @ GSW L 38 22 11 14 78.6 0 0 - 0 0 - 1 8 9 1 2 3 0 5 2
+p481
+aVKevin Garnett MIN 02/15/1999 MIN @ GSW L 39 29 10 22 45.5 0 0 - 9 10 90.0 1 9 10 1 1 0 4 4 -1
+p482
+aVBobby Jackson MIN 02/15/1999 MIN @ GSW L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 5
+p483
+aVBobby Jackson MIN 02/14/1999 MIN @ LAC W 14 4 1 4 25.0 0 1 0.0 2 2 100.0 1 3 4 3 0 0 1 0 2
+p484
+aVDean Garrett MIN 02/14/1999 MIN @ LAC W 29 4 1 3 33.3 0 0 - 2 2 100.0 0 8 8 0 0 0 0 1 10
+p485
+aVMalik Sealy MIN 02/14/1999 MIN @ LAC W 24 11 4 8 50.0 1 1 100.0 2 2 100.0 0 3 3 0 1 0 2 1 11
+p486
+aVBill Curley MIN 02/14/1999 MIN @ LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p487
+aVReggie Jordan MIN 02/14/1999 MIN @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p488
+aVPaul Grant MIN 02/14/1999 MIN @ LAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p489
+aVSam Mitchell MIN 02/14/1999 MIN @ LAC W 20 4 0 5 0.0 0 1 0.0 4 4 100.0 0 1 1 0 1 0 0 2 5
+p490
+aVKevin Garnett MIN 02/14/1999 MIN @ LAC W 35 24 9 17 52.9 0 0 - 6 8 75.0 2 9 11 2 3 1 4 3 23
+p491
+aVStephon Marbury MIN 02/14/1999 MIN @ LAC W 32 13 6 13 46.2 1 1 100.0 0 0 - 1 2 3 9 2 0 3 1 18
+p492
+aVAnthony Peeler MIN 02/14/1999 MIN @ LAC W 22 12 5 8 62.5 2 5 40.0 0 0 - 0 1 1 3 0 0 0 2 13
+p493
+aVJoe Smith MIN 02/14/1999 MIN @ LAC W 29 14 7 10 70.0 0 0 - 0 1 0.0 2 3 5 2 0 1 2 3 22
+p494
+aVAndrae Patterson MIN 02/14/1999 MIN @ LAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 6
+p495
+aVChris Carr MIN 02/14/1999 MIN @ LAC W 2 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 0 0
+p496
+aVTom Hammonds MIN 02/14/1999 MIN @ LAC W 20 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 4 4
+p497
+aVChris Carr MIN 02/11/1999 MIN vs. LAL W 15 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 3 -3
+p498
+aVPaul Grant MIN 02/11/1999 MIN vs. LAL W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p499
+aVJoe Smith MIN 02/11/1999 MIN vs. LAL W 36 17 7 16 43.8 0 0 - 3 3 100.0 3 3 6 0 1 3 0 3 4
+p500
+aVReggie Jordan MIN 02/11/1999 MIN vs. LAL W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p501
+aVBobby Jackson MIN 02/11/1999 MIN vs. LAL W 21 4 2 4 50.0 0 0 - 0 1 0.0 1 5 6 7 0 0 1 2 1
+p502
+aVMalik Sealy MIN 02/11/1999 MIN vs. LAL W 32 7 2 8 25.0 0 1 0.0 3 4 75.0 2 3 5 3 1 0 5 4 19
+p503
+aVBill Curley MIN 02/11/1999 MIN vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p504
+aVTom Hammonds MIN 02/11/1999 MIN vs. LAL W 15 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 1 14
+p505
+aVDean Garrett MIN 02/11/1999 MIN vs. LAL W 25 2 1 4 25.0 0 0 - 0 2 0.0 1 4 5 0 0 2 0 2 1
+p506
+aVAndrae Patterson MIN 02/11/1999 MIN vs. LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p507
+aVSam Mitchell MIN 02/11/1999 MIN vs. LAL W 26 20 8 13 61.5 0 1 0.0 4 7 57.1 2 4 6 3 2 0 0 0 15
+p508
+aVStephon Marbury MIN 02/11/1999 MIN vs. LAL W 27 11 4 8 50.0 1 1 100.0 2 2 100.0 0 1 1 8 1 0 2 4 10
+p509
+aVKevin Garnett MIN 02/11/1999 MIN vs. LAL W 36 21 9 19 47.4 0 0 - 3 4 75.0 2 3 5 3 1 1 1 3 10
+p510
+aVJoe Smith MIN 02/09/1999 MIN vs. SAS W 27 9 3 10 30.0 0 0 - 3 6 50.0 3 4 7 3 1 1 0 3 10
+p511
+aVKevin Garnett MIN 02/09/1999 MIN vs. SAS W 43 12 6 25 24.0 0 0 - 0 0 - 3 9 12 5 3 3 2 4 7
+p512
+aVSam Mitchell MIN 02/09/1999 MIN vs. SAS W 22 7 2 5 40.0 0 1 0.0 3 4 75.0 3 2 5 5 0 2 0 1 -1
+p513
+aVDean Garrett MIN 02/09/1999 MIN vs. SAS W 21 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 1 2 0 3 2
+p514
+aVTom Hammonds MIN 02/09/1999 MIN vs. SAS W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -8
+p515
+aVChris Carr MIN 02/09/1999 MIN vs. SAS W 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 3 1 1 0 2 6
+p516
+aVStephon Marbury MIN 02/09/1999 MIN vs. SAS W 37 12 6 19 31.6 0 2 0.0 0 4 0.0 1 3 4 5 2 1 3 0 -4
+p517
+aVBill Curley MIN 02/09/1999 MIN vs. SAS W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -2
+p518
+aVBobby Jackson MIN 02/09/1999 MIN vs. SAS W 16 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 6
+p519
+aVMalik Sealy MIN 02/09/1999 MIN vs. SAS W 33 16 8 13 61.5 0 1 0.0 0 0 - 2 4 6 1 1 0 2 2 4
+p520
+aVStephon Marbury MIN 02/06/1999 MIN @ SAS L 41 12 5 22 22.7 1 6 16.7 1 4 25.0 4 5 9 9 2 0 4 1 -16
+p521
+aVJoe Smith MIN 02/06/1999 MIN @ SAS L 33 11 5 17 29.4 0 0 - 1 3 33.3 4 0 4 0 0 1 0 6 -14
+p522
+aVBobby Jackson MIN 02/06/1999 MIN @ SAS L 25 10 3 10 30.0 0 0 - 4 5 80.0 2 3 5 1 1 0 3 3 4
+p523
+aVChris Carr MIN 02/06/1999 MIN @ SAS L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -14
+p524
+aVDean Garrett MIN 02/06/1999 MIN @ SAS L 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -14
+p525
+aVMalik Sealy MIN 02/06/1999 MIN @ SAS L 18 10 3 7 42.9 0 1 0.0 4 4 100.0 1 3 4 1 2 0 0 3 -4
+p526
+aVSam Mitchell MIN 02/06/1999 MIN @ SAS L 20 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p527
+aVAnthony Peeler MIN 02/06/1999 MIN @ SAS L 30 4 2 8 25.0 0 2 0.0 0 0 - 3 3 6 3 2 0 0 2 -10
+p528
+aVKevin Garnett MIN 02/06/1999 MIN @ SAS L 32 19 8 23 34.8 0 0 - 3 5 60.0 4 12 16 1 0 5 3 6 0
+p529
+aVBill Curley MIN 02/06/1999 MIN @ SAS L 8 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 0 1 0 0 4 14
+p530
+aVTom Hammonds MIN 02/06/1999 MIN @ SAS L 12 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 0 0 0 1 0 -11
+p531
+aVAnthony Peeler MIN 02/05/1999 MIN @ DEN W 32 14 5 11 45.5 2 4 50.0 2 2 100.0 1 3 4 4 2 1 1 4 22
+p532
+aVPaul Grant MIN 02/05/1999 MIN @ DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p533
+aVAndrae Patterson MIN 02/05/1999 MIN @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -5
+p534
+aVKevin Garnett MIN 02/05/1999 MIN @ DEN W 30 16 7 22 31.8 0 0 - 2 4 50.0 2 3 5 3 2 3 2 3 19
+p535
+aVBill Curley MIN 02/05/1999 MIN @ DEN W 3 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 0
+p536
+aVTom Hammonds MIN 02/05/1999 MIN @ DEN W 13 1 0 0 - 0 0 - 1 2 50.0 3 1 4 0 0 0 2 1 -4
+p537
+aVJoe Smith MIN 02/05/1999 MIN @ DEN W 27 23 10 11 90.9 0 0 - 3 3 100.0 1 5 6 0 1 1 1 5 12
+p538
+aVSam Mitchell MIN 02/05/1999 MIN @ DEN W 30 9 3 7 42.9 1 1 100.0 2 2 100.0 0 6 6 2 1 1 1 3 15
+p539
+aVDean Garrett MIN 02/05/1999 MIN @ DEN W 27 10 4 6 66.7 0 0 - 2 2 100.0 2 5 7 1 2 3 0 3 15
+p540
+aVChris Carr MIN 02/05/1999 MIN @ DEN W 7 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 2
+p541
+aVReggie Jordan MIN 02/05/1999 MIN @ DEN W 2 0 0 2 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 1 -3
+p542
+aVBobby Jackson MIN 02/05/1999 MIN @ DEN W 12 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 3 0 0 3 0 -5
+p543
+aVStephon Marbury MIN 02/05/1999 MIN @ DEN W 37 21 8 13 61.5 0 0 - 5 5 100.0 0 1 1 10 1 0 2 3 25
+p544
+aVMalik Sealy MIN 02/05/1999 MIN @ DEN W 18 6 1 5 20.0 0 0 - 4 4 100.0 0 1 1 1 1 1 0 4 0
+p545
+a.

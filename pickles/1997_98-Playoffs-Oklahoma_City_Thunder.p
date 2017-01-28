@@ -1,0 +1,200 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJim McIlvaine SEA 05/12/1998 SEA vs. LAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p2
+aVDale Ellis SEA 05/12/1998 SEA vs. LAL L 18 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 1 2 0 0 1 15
+p3
+aVDetlef Schrempf SEA 05/12/1998 SEA vs. LAL L 35 14 6 13 46.2 0 1 0.0 2 2 100.0 0 8 8 2 0 0 2 2 -30
+p4
+aVNate McMillan SEA 05/12/1998 SEA vs. LAL L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 2 0 0 0 1 6
+p5
+aVSam Perkins SEA 05/12/1998 SEA vs. LAL L 29 5 1 4 25.0 1 3 33.3 2 2 100.0 0 2 2 2 1 0 0 4 -24
+p6
+aVHersey Hawkins SEA 05/12/1998 SEA vs. LAL L 33 5 2 8 25.0 1 4 25.0 0 1 0.0 3 1 4 6 1 0 1 3 -20
+p7
+aVGary Payton SEA 05/12/1998 SEA vs. LAL L 48 20 5 16 31.3 2 7 28.6 8 8 100.0 1 2 3 5 3 0 3 3 -15
+p8
+aVJerome Kersey SEA 05/12/1998 SEA vs. LAL L 20 13 6 12 50.0 0 0 - 1 2 50.0 2 1 3 0 2 0 0 5 8
+p9
+aVVin Baker SEA 05/12/1998 SEA vs. LAL L 37 28 12 19 63.2 0 0 - 4 7 57.1 4 5 9 3 4 1 0 5 -11
+p10
+aVSam Perkins SEA 05/10/1998 SEA @ LAL L 21 6 2 4 50.0 1 2 50.0 1 2 50.0 2 1 3 1 1 0 1 3 -5
+p11
+aVVin Baker SEA 05/10/1998 SEA @ LAL L 37 12 6 15 40.0 0 0 - 0 0 - 3 3 6 2 1 3 2 6 -5
+p12
+aVJim McIlvaine SEA 05/10/1998 SEA @ LAL L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p13
+aVDale Ellis SEA 05/10/1998 SEA @ LAL L 15 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -13
+p14
+aVDetlef Schrempf SEA 05/10/1998 SEA @ LAL L 41 25 10 16 62.5 0 0 - 5 7 71.4 3 3 6 3 0 0 3 2 -3
+p15
+aVGreg Anthony SEA 05/10/1998 SEA @ LAL L 22 3 1 6 16.7 0 2 0.0 1 1 100.0 1 1 2 1 2 0 1 3 -7
+p16
+aVGary Payton SEA 05/10/1998 SEA @ LAL L 41 31 12 18 66.7 4 6 66.7 3 3 100.0 3 5 8 13 1 0 4 2 -6
+p17
+aVJerome Kersey SEA 05/10/1998 SEA @ LAL L 19 3 1 6 16.7 0 0 - 1 2 50.0 1 3 4 1 1 0 2 4 -12
+p18
+aVHersey Hawkins SEA 05/10/1998 SEA @ LAL L 34 15 5 8 62.5 2 2 100.0 3 4 75.0 2 5 7 0 2 0 1 1 -6
+p19
+aVGreg Anthony SEA 05/08/1998 SEA @ LAL L 12 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p20
+aVHersey Hawkins SEA 05/08/1998 SEA @ LAL L 30 5 2 6 33.3 0 2 0.0 1 1 100.0 2 3 5 7 2 0 0 1 -18
+p21
+aVDetlef Schrempf SEA 05/08/1998 SEA @ LAL L 40 26 12 20 60.0 1 4 25.0 1 2 50.0 3 5 8 6 3 1 1 4 -7
+p22
+aVJim McIlvaine SEA 05/08/1998 SEA @ LAL L 12 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 0 1 0 1 4 -7
+p23
+aVSam Perkins SEA 05/08/1998 SEA @ LAL L 21 4 0 4 0.0 0 0 - 4 6 66.7 1 0 1 1 0 1 0 3 -11
+p24
+aVJerome Kersey SEA 05/08/1998 SEA @ LAL L 18 4 1 7 14.3 0 0 - 2 2 100.0 3 3 6 0 0 1 2 4 -5
+p25
+aVGary Payton SEA 05/08/1998 SEA @ LAL L 44 22 8 17 47.1 0 4 0.0 6 6 100.0 0 2 2 13 2 0 3 2 -11
+p26
+aVVin Baker SEA 05/08/1998 SEA @ LAL L 34 20 10 19 52.6 0 0 - 0 5 0.0 6 6 12 0 2 0 1 5 -14
+p27
+aVDale Ellis SEA 05/08/1998 SEA @ LAL L 26 16 6 8 75.0 4 6 66.7 0 0 - 0 2 2 0 0 0 0 4 -6
+p28
+aVDetlef Schrempf SEA 05/06/1998 SEA vs. LAL L 35 1 0 6 0.0 0 0 - 1 2 50.0 2 6 8 3 1 0 2 0 -18
+p29
+aVDavid Wingate SEA 05/06/1998 SEA vs. LAL L 4 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -1
+p30
+aVGary Payton SEA 05/06/1998 SEA vs. LAL L 38 12 6 17 35.3 0 4 0.0 0 0 - 1 1 2 5 1 0 2 4 -19
+p31
+aVHersey Hawkins SEA 05/06/1998 SEA vs. LAL L 30 10 3 8 37.5 1 4 25.0 3 4 75.0 2 3 5 2 1 0 1 3 -10
+p32
+aVDale Ellis SEA 05/06/1998 SEA vs. LAL L 17 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -12
+p33
+aVAaron Williams SEA 05/06/1998 SEA vs. LAL L 2 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 1 0 0 -1
+p34
+aVSam Perkins SEA 05/06/1998 SEA vs. LAL L 21 12 4 6 66.7 3 4 75.0 1 4 25.0 1 0 1 0 0 1 1 2 -12
+p35
+aVJerome Kersey SEA 05/06/1998 SEA vs. LAL L 19 7 2 7 28.6 0 0 - 3 4 75.0 1 2 3 0 1 2 2 3 -12
+p36
+aVJim McIlvaine SEA 05/06/1998 SEA vs. LAL L 15 8 4 7 57.1 0 0 - 0 0 - 2 1 3 0 0 3 0 6 -4
+p37
+aVVin Baker SEA 05/06/1998 SEA vs. LAL L 34 13 5 12 41.7 0 0 - 3 4 75.0 2 5 7 3 1 1 4 2 -17
+p38
+aVGreg Anthony SEA 05/06/1998 SEA vs. LAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -2
+p39
+aVNate McMillan SEA 05/06/1998 SEA vs. LAL L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 1 4 -12
+p40
+aVDavid Wingate SEA 05/04/1998 SEA vs. LAL W 0 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 1
+p41
+aVJerome Kersey SEA 05/04/1998 SEA vs. LAL W 23 12 5 7 71.4 0 0 - 2 2 100.0 4 3 7 0 1 3 1 1 22
+p42
+aVDale Ellis SEA 05/04/1998 SEA vs. LAL W 18 5 2 6 33.3 1 2 50.0 0 0 - 1 2 3 1 0 0 0 0 12
+p43
+aVHersey Hawkins SEA 05/04/1998 SEA vs. LAL W 29 20 5 7 71.4 3 5 60.0 7 7 100.0 3 5 8 3 2 0 1 2 2
+p44
+aVVin Baker SEA 05/04/1998 SEA vs. LAL W 36 11 5 12 41.7 0 0 - 1 2 50.0 3 5 8 2 2 1 3 4 5
+p45
+aVGreg Anthony SEA 05/04/1998 SEA vs. LAL W 13 0 0 4 0.0 0 1 0.0 0 2 0.0 0 1 1 3 1 0 3 4 18
+p46
+aVSam Perkins SEA 05/04/1998 SEA vs. LAL W 21 9 3 4 75.0 3 4 75.0 0 0 - 0 6 6 1 0 2 1 1 5
+p47
+aVAaron Williams SEA 05/04/1998 SEA vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p48
+aVDetlef Schrempf SEA 05/04/1998 SEA vs. LAL W 36 19 6 12 50.0 1 2 50.0 6 6 100.0 1 4 5 4 0 0 5 3 -1
+p49
+aVGary Payton SEA 05/04/1998 SEA vs. LAL W 43 25 8 19 42.1 3 6 50.0 6 6 100.0 0 1 1 6 1 0 1 2 13
+p50
+aVJim McIlvaine SEA 05/04/1998 SEA vs. LAL W 15 4 2 6 33.3 0 1 0.0 0 0 - 2 0 2 1 0 2 0 5 -7
+p51
+aVNate McMillan SEA 05/02/1998 SEA vs. MIN W 14 2 0 1 0.0 0 1 0.0 2 2 100.0 1 4 5 1 1 0 0 2 -1
+p52
+aVGary Payton SEA 05/02/1998 SEA vs. MIN W 48 29 10 17 58.8 2 3 66.7 7 8 87.5 1 1 2 4 4 0 1 3 13
+p53
+aVVin Baker SEA 05/02/1998 SEA vs. MIN W 40 11 5 8 62.5 0 0 - 1 2 50.0 3 4 7 2 3 1 4 4 11
+p54
+aVDetlef Schrempf SEA 05/02/1998 SEA vs. MIN W 36 16 5 12 41.7 0 1 0.0 6 6 100.0 3 8 11 4 1 0 5 1 20
+p55
+aVDale Ellis SEA 05/02/1998 SEA vs. MIN W 16 4 1 4 25.0 1 2 50.0 1 1 100.0 0 1 1 1 0 0 1 1 -1
+p56
+aVGreg Anthony SEA 05/02/1998 SEA vs. MIN W 4 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 3
+p57
+aVJerome Kersey SEA 05/02/1998 SEA vs. MIN W 23 6 1 4 25.0 0 0 - 4 4 100.0 0 4 4 2 2 0 2 4 2
+p58
+aVSam Perkins SEA 05/02/1998 SEA vs. MIN W 19 2 1 4 25.0 0 2 0.0 0 0 - 1 3 4 1 0 1 3 1 1
+p59
+aVHersey Hawkins SEA 05/02/1998 SEA vs. MIN W 37 24 7 13 53.8 4 7 57.1 6 6 100.0 2 3 5 4 2 0 1 3 17
+p60
+aVGreg Anthony SEA 04/30/1998 SEA @ MIN W 7 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -13
+p61
+aVSam Perkins SEA 04/30/1998 SEA @ MIN W 20 3 1 5 20.0 1 4 25.0 0 0 - 0 4 4 2 1 0 3 2 -2
+p62
+aVGary Payton SEA 04/30/1998 SEA @ MIN W 45 24 10 18 55.6 1 3 33.3 3 3 100.0 1 5 6 8 1 1 2 3 6
+p63
+aVVin Baker SEA 04/30/1998 SEA @ MIN W 39 13 6 11 54.5 0 0 - 1 8 12.5 6 6 12 1 3 2 2 3 8
+p64
+aVDale Ellis SEA 04/30/1998 SEA @ MIN W 20 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 2 0 0 0 0 4
+p65
+aVDetlef Schrempf SEA 04/30/1998 SEA @ MIN W 37 12 6 10 60.0 0 2 0.0 0 0 - 1 4 5 5 1 0 1 3 5
+p66
+aVJerome Kersey SEA 04/30/1998 SEA @ MIN W 21 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 4 1 0 1 4 6
+p67
+aVHersey Hawkins SEA 04/30/1998 SEA @ MIN W 34 24 6 12 50.0 4 8 50.0 8 9 88.9 0 5 5 2 2 0 2 3 -1
+p68
+aVNate McMillan SEA 04/30/1998 SEA @ MIN W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 7
+p69
+aVHersey Hawkins SEA 04/28/1998 SEA @ MIN L 31 9 4 9 44.4 1 5 20.0 0 0 - 1 1 2 5 2 0 0 4 4
+p70
+aVNate McMillan SEA 04/28/1998 SEA @ MIN L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 3 -16
+p71
+aVDale Ellis SEA 04/28/1998 SEA @ MIN L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -8
+p72
+aVGary Payton SEA 04/28/1998 SEA @ MIN L 44 26 9 18 50.0 2 4 50.0 6 7 85.7 0 6 6 5 1 0 5 5 -1
+p73
+aVVin Baker SEA 04/28/1998 SEA @ MIN L 38 17 8 13 61.5 0 0 - 1 2 50.0 5 7 12 2 1 2 3 4 4
+p74
+aVJerome Kersey SEA 04/28/1998 SEA @ MIN L 28 12 5 13 38.5 0 2 0.0 2 2 100.0 5 4 9 0 0 2 2 2 0
+p75
+aVSam Perkins SEA 04/28/1998 SEA @ MIN L 24 6 2 6 33.3 1 3 33.3 1 2 50.0 0 2 2 1 0 0 1 2 -14
+p76
+aVGreg Anthony SEA 04/28/1998 SEA @ MIN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -7
+p77
+aVDetlef Schrempf SEA 04/28/1998 SEA @ MIN L 39 16 6 13 46.2 0 2 0.0 4 4 100.0 2 6 8 5 1 0 1 1 -2
+p78
+aVHersey Hawkins SEA 04/26/1998 SEA vs. MIN L 42 10 3 9 33.3 1 3 33.3 3 3 100.0 0 6 6 3 3 1 0 1 -4
+p79
+aVJerome Kersey SEA 04/26/1998 SEA vs. MIN L 9 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -8
+p80
+aVGreg Anthony SEA 04/26/1998 SEA vs. MIN L 24 13 5 10 50.0 3 7 42.9 0 1 0.0 2 1 3 0 1 1 4 6 1
+p81
+aVNate McMillan SEA 04/26/1998 SEA vs. MIN L 20 7 3 6 50.0 1 3 33.3 0 0 - 1 1 2 6 1 1 1 4 2
+p82
+aVVin Baker SEA 04/26/1998 SEA vs. MIN L 42 8 3 6 50.0 0 0 - 2 4 50.0 4 5 9 2 0 2 3 4 -4
+p83
+aVSam Perkins SEA 04/26/1998 SEA vs. MIN L 12 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 2 0 0 0 2 -7
+p84
+aVDetlef Schrempf SEA 04/26/1998 SEA vs. MIN L 39 15 6 12 50.0 0 2 0.0 3 4 75.0 1 9 10 5 0 0 2 3 6
+p85
+aVGary Payton SEA 04/26/1998 SEA vs. MIN L 42 32 12 25 48.0 2 6 33.3 6 7 85.7 1 1 2 4 1 0 4 6 -7
+p86
+aVDale Ellis SEA 04/26/1998 SEA vs. MIN L 6 3 1 4 25.0 1 4 25.0 0 0 - 1 0 1 0 0 0 0 0 -4
+p87
+aVDale Ellis SEA 04/24/1998 SEA vs. MIN W 19 9 3 7 42.9 2 4 50.0 1 1 100.0 1 0 1 0 0 0 0 0 2
+p88
+aVDavid Wingate SEA 04/24/1998 SEA vs. MIN W 8 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 2 0 0 1 1 -3
+p89
+aVVin Baker SEA 04/24/1998 SEA vs. MIN W 28 25 11 19 57.9 0 0 - 3 4 75.0 5 7 12 1 1 2 0 1 19
+p90
+aVJim McIlvaine SEA 04/24/1998 SEA vs. MIN W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 4 -1
+p91
+aVAaron Williams SEA 04/24/1998 SEA vs. MIN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p92
+aVDetlef Schrempf SEA 04/24/1998 SEA vs. MIN W 30 17 7 11 63.6 0 0 - 3 5 60.0 2 6 8 2 0 0 0 2 27
+p93
+aVHersey Hawkins SEA 04/24/1998 SEA vs. MIN W 35 12 4 8 50.0 0 3 0.0 4 5 80.0 2 8 10 4 1 0 2 3 18
+p94
+aVGary Payton SEA 04/24/1998 SEA vs. MIN W 31 19 7 18 38.9 3 7 42.9 2 2 100.0 1 1 2 7 3 0 1 1 19
+p95
+aVGreg Anthony SEA 04/24/1998 SEA vs. MIN W 18 3 1 7 14.3 0 3 0.0 1 2 50.0 0 3 3 3 0 0 1 1 5
+p96
+aVSam Perkins SEA 04/24/1998 SEA vs. MIN W 16 6 2 4 50.0 0 2 0.0 2 2 100.0 0 6 6 3 0 0 1 2 9
+p97
+aVJerome Kersey SEA 04/24/1998 SEA vs. MIN W 27 11 5 8 62.5 0 0 - 1 1 100.0 0 1 1 2 2 1 1 4 24
+p98
+aVNate McMillan SEA 04/24/1998 SEA vs. MIN W 14 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 2 6
+p99
+a.

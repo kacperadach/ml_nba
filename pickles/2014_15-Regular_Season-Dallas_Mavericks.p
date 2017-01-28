@@ -1,0 +1,1850 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBernard James DAL 04/15/2015 DAL vs. POR W 5 3 1 2 50.0 0 0 - 1 1 100.0 2 1 3 0 0 0 0 1 0
+p2
+aVTyson Chandler DAL 04/15/2015 DAL vs. POR W 25 22 5 7 71.4 0 0 - 12 15 80.0 3 12 15 0 1 1 0 1 23
+p3
+aVMonta Ellis DAL 04/15/2015 DAL vs. POR W 28 15 7 13 53.8 0 1 0.0 1 2 50.0 0 4 4 2 2 0 4 3 18
+p4
+aVCharlie Villanueva DAL 04/15/2015 DAL vs. POR W 13 8 3 8 37.5 2 4 50.0 0 0 - 1 3 4 0 0 2 1 0 -7
+p5
+aVAmar'e Stoudemire DAL 04/15/2015 DAL vs. POR W 18 13 5 12 41.7 0 0 - 3 4 75.0 2 4 6 1 0 1 0 3 -7
+p6
+aVRajon Rondo DAL 04/15/2015 DAL vs. POR W 24 9 4 7 57.1 0 1 0.0 1 2 50.0 1 1 2 7 2 0 4 0 18
+p7
+aVDwight Powell DAL 04/15/2015 DAL vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p8
+aVJ.J. Barea DAL 04/15/2015 DAL vs. POR W 22 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 1 1 0 1 2 -2
+p9
+aVRaymond Felton DAL 04/15/2015 DAL vs. POR W 22 10 4 9 44.4 1 5 20.0 1 2 50.0 1 2 3 4 2 0 0 1 -2
+p10
+aVDirk Nowitzki DAL 04/15/2015 DAL vs. POR W 27 16 5 14 35.7 2 6 33.3 4 4 100.0 0 5 5 0 1 0 2 2 16
+p11
+aVAl-Farouq Aminu DAL 04/15/2015 DAL vs. POR W 33 7 2 4 50.0 1 2 50.0 2 2 100.0 1 8 9 3 0 1 1 2 -3
+p12
+aVRichard Jefferson DAL 04/15/2015 DAL vs. POR W 19 8 2 4 50.0 2 3 66.7 2 2 100.0 1 1 2 0 0 0 1 2 25
+p13
+aVJ.J. Barea DAL 04/13/2015 DAL @ UTA L 23 18 8 15 53.3 1 1 100.0 1 1 100.0 1 1 2 1 1 0 1 3 -12
+p14
+aVRaymond Felton DAL 04/13/2015 DAL @ UTA L 37 7 3 8 37.5 1 3 33.3 0 0 - 0 4 4 5 1 0 3 2 -9
+p15
+aVAmar'e Stoudemire DAL 04/13/2015 DAL @ UTA L 22 15 7 11 63.6 0 0 - 1 4 25.0 1 2 3 1 0 0 0 2 1
+p16
+aVBernard James DAL 04/13/2015 DAL @ UTA L 23 5 2 7 28.6 0 0 - 1 2 50.0 1 4 5 0 0 1 3 4 -19
+p17
+aVDwight Powell DAL 04/13/2015 DAL @ UTA L 24 8 2 9 22.2 1 4 25.0 3 4 75.0 2 6 8 1 0 1 0 4 -4
+p18
+aVDevin Harris DAL 04/13/2015 DAL @ UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p19
+aVRajon Rondo DAL 04/13/2015 DAL @ UTA L 32 13 4 6 66.7 2 3 66.7 3 4 75.0 0 4 4 5 1 0 3 1 -15
+p20
+aVCharlie Villanueva DAL 04/13/2015 DAL @ UTA L 22 15 6 13 46.2 3 6 50.0 0 0 - 0 4 4 0 1 1 1 3 -8
+p21
+aVRichard Jefferson DAL 04/13/2015 DAL @ UTA L 17 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 2 0 -4
+p22
+aVAl-Farouq Aminu DAL 04/13/2015 DAL @ UTA L 29 10 2 8 25.0 1 1 100.0 5 6 83.3 6 4 10 3 0 1 2 1 -12
+p23
+aVGreg Smith DAL 04/13/2015 DAL @ UTA L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 0
+p24
+aVDwight Powell DAL 04/12/2015 DAL @ LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -2
+p25
+aVMonta Ellis DAL 04/12/2015 DAL @ LAL W 30 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 5 1 1 2 2 1
+p26
+aVAl-Farouq Aminu DAL 04/12/2015 DAL @ LAL W 26 10 4 7 57.1 1 2 50.0 1 1 100.0 2 8 10 1 1 0 2 2 11
+p27
+aVCharlie Villanueva DAL 04/12/2015 DAL @ LAL W 20 14 5 11 45.5 3 6 50.0 1 2 50.0 1 3 4 1 2 1 0 3 1
+p28
+aVDirk Nowitzki DAL 04/12/2015 DAL @ LAL W 29 16 5 10 50.0 2 4 50.0 4 4 100.0 0 4 4 1 1 0 2 2 18
+p29
+aVGreg Smith DAL 04/12/2015 DAL @ LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p30
+aVRajon Rondo DAL 04/12/2015 DAL @ LAL W 30 11 4 11 36.4 1 1 100.0 2 2 100.0 1 7 8 11 1 0 3 3 1
+p31
+aVJ.J. Barea DAL 04/12/2015 DAL @ LAL W 18 9 4 6 66.7 0 1 0.0 1 2 50.0 0 0 0 6 0 0 1 1 13
+p32
+aVRichard Jefferson DAL 04/12/2015 DAL @ LAL W 27 17 4 7 57.1 2 4 50.0 7 9 77.8 0 3 3 2 1 0 0 2 11
+p33
+aVRaymond Felton DAL 04/12/2015 DAL @ LAL W 18 15 7 10 70.0 1 2 50.0 0 0 - 0 2 2 3 0 0 1 2 13
+p34
+aVTyson Chandler DAL 04/12/2015 DAL @ LAL W 27 20 9 10 90.0 0 0 - 2 4 50.0 2 7 9 1 0 2 0 2 9
+p35
+aVBernard James DAL 04/12/2015 DAL @ LAL W 12 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 4 0 1 -2
+p36
+aVDevin Harris DAL 04/10/2015 DAL @ DEN W 29 21 7 9 77.8 3 3 100.0 4 6 66.7 0 2 2 9 3 0 2 0 -2
+p37
+aVTyson Chandler DAL 04/10/2015 DAL @ DEN W 31 6 2 3 66.7 0 0 - 2 2 100.0 3 8 11 1 0 1 3 4 8
+p38
+aVRaymond Felton DAL 04/10/2015 DAL @ DEN W 30 13 6 12 50.0 1 3 33.3 0 1 0.0 0 4 4 5 2 1 1 1 6
+p39
+aVRichard Jefferson DAL 04/10/2015 DAL @ DEN W 31 24 8 15 53.3 4 8 50.0 4 4 100.0 0 4 4 2 0 0 2 4 3
+p40
+aVAl-Farouq Aminu DAL 04/10/2015 DAL @ DEN W 29 10 5 11 45.5 0 0 - 0 0 - 7 2 9 1 0 1 1 2 -10
+p41
+aVAmar'e Stoudemire DAL 04/10/2015 DAL @ DEN W 22 15 6 8 75.0 0 0 - 3 4 75.0 0 4 4 0 1 0 0 2 -6
+p42
+aVDirk Nowitzki DAL 04/10/2015 DAL @ DEN W 38 25 10 19 52.6 0 3 0.0 5 5 100.0 0 9 9 4 1 3 2 2 16
+p43
+aVBernard James DAL 04/10/2015 DAL @ DEN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -1
+p44
+aVMonta Ellis DAL 04/10/2015 DAL @ DEN W 37 19 9 17 52.9 0 1 0.0 1 2 50.0 0 0 0 5 0 0 5 2 10
+p45
+aVCharlie Villanueva DAL 04/10/2015 DAL @ DEN W 18 6 2 10 20.0 2 8 25.0 0 0 - 1 2 3 3 0 0 0 2 -7
+p46
+aVJ.J. Barea DAL 04/10/2015 DAL @ DEN W 20 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 9 0 0 1 2 -12
+p47
+aVRichard Jefferson DAL 04/08/2015 DAL vs. PHX W 27 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 0 0 0 1 2 6
+p48
+aVRajon Rondo DAL 04/08/2015 DAL vs. PHX W 30 12 6 9 66.7 0 0 - 0 0 - 1 2 3 7 0 0 1 2 2
+p49
+aVCharlie Villanueva DAL 04/08/2015 DAL vs. PHX W 13 9 3 7 42.9 3 6 50.0 0 0 - 0 0 0 0 1 0 0 1 -5
+p50
+aVDevin Harris DAL 04/08/2015 DAL vs. PHX W 18 12 5 9 55.6 0 0 - 2 3 66.7 0 0 0 0 2 0 1 0 1
+p51
+aVAmar'e Stoudemire DAL 04/08/2015 DAL vs. PHX W 14 10 4 5 80.0 0 0 - 2 2 100.0 2 4 6 0 0 0 1 5 -3
+p52
+aVDirk Nowitzki DAL 04/08/2015 DAL vs. PHX W 31 19 7 15 46.7 1 4 25.0 4 5 80.0 0 4 4 1 0 0 1 1 12
+p53
+aVTyson Chandler DAL 04/08/2015 DAL vs. PHX W 34 12 5 9 55.6 0 0 - 2 2 100.0 9 14 23 0 0 2 0 3 6
+p54
+aVAl-Farouq Aminu DAL 04/08/2015 DAL vs. PHX W 22 1 0 5 0.0 0 2 0.0 1 2 50.0 2 2 4 2 0 1 1 2 -9
+p55
+aVMonta Ellis DAL 04/08/2015 DAL vs. PHX W 35 20 10 21 47.6 0 3 0.0 0 0 - 1 1 2 3 0 0 1 1 1
+p56
+aVJ.J. Barea DAL 04/08/2015 DAL vs. PHX W 16 6 2 6 33.3 0 2 0.0 2 2 100.0 0 2 2 5 0 0 1 0 4
+p57
+aVDirk Nowitzki DAL 04/04/2015 DAL vs. GSW L 23 18 3 5 60.0 0 0 - 12 15 80.0 0 4 4 2 0 1 2 4 -5
+p58
+aVAmar'e Stoudemire DAL 04/04/2015 DAL vs. GSW L 15 10 4 9 44.4 0 0 - 2 3 66.7 0 3 3 0 0 1 0 0 1
+p59
+aVBernard James DAL 04/04/2015 DAL vs. GSW L 3 4 0 0 - 0 0 - 4 4 100.0 2 1 3 0 0 0 0 0 1
+p60
+aVCharlie Villanueva DAL 04/04/2015 DAL vs. GSW L 11 4 2 7 28.6 0 2 0.0 0 0 - 2 3 5 0 0 0 0 2 -6
+p61
+aVDwight Powell DAL 04/04/2015 DAL vs. GSW L 4 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 4
+p62
+aVDevin Harris DAL 04/04/2015 DAL vs. GSW L 23 6 1 5 20.0 0 1 0.0 4 5 80.0 0 1 1 2 0 0 3 5 -4
+p63
+aVRajon Rondo DAL 04/04/2015 DAL vs. GSW L 19 4 2 5 40.0 0 1 0.0 0 1 0.0 1 2 3 5 0 0 1 2 -15
+p64
+aVTyson Chandler DAL 04/04/2015 DAL vs. GSW L 24 10 4 5 80.0 0 0 - 2 4 50.0 3 10 13 0 0 0 0 2 -12
+p65
+aVRaymond Felton DAL 04/04/2015 DAL vs. GSW L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 4
+p66
+aVMonta Ellis DAL 04/04/2015 DAL vs. GSW L 33 14 6 16 37.5 0 1 0.0 2 4 50.0 0 2 2 1 0 0 3 1 -11
+p67
+aVAl-Farouq Aminu DAL 04/04/2015 DAL vs. GSW L 31 7 2 5 40.0 0 2 0.0 3 6 50.0 2 5 7 1 3 0 1 2 -5
+p68
+aVRichard Jefferson DAL 04/04/2015 DAL vs. GSW L 27 13 3 8 37.5 2 5 40.0 5 6 83.3 0 3 3 0 3 0 2 1 -9
+p69
+aVJ.J. Barea DAL 04/04/2015 DAL vs. GSW L 23 14 6 12 50.0 1 3 33.3 1 2 50.0 0 0 0 3 0 0 2 3 -8
+p70
+aVAl-Farouq Aminu DAL 04/02/2015 DAL vs. HOU L 26 7 2 7 28.6 1 2 50.0 2 3 66.7 4 4 8 2 0 4 0 3 -7
+p71
+aVDevin Harris DAL 04/02/2015 DAL vs. HOU L 22 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 1 0 2 6 -6
+p72
+aVTyson Chandler DAL 04/02/2015 DAL vs. HOU L 30 8 3 5 60.0 0 0 - 2 4 50.0 0 8 8 1 1 1 0 1 1
+p73
+aVMonta Ellis DAL 04/02/2015 DAL vs. HOU L 38 19 7 21 33.3 0 7 0.0 5 9 55.6 0 4 4 2 0 0 4 4 -11
+p74
+aVDirk Nowitzki DAL 04/02/2015 DAL vs. HOU L 32 21 7 11 63.6 2 3 66.7 5 6 83.3 1 6 7 0 1 0 1 3 2
+p75
+aVCharlie Villanueva DAL 04/02/2015 DAL vs. HOU L 3 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 0
+p76
+aVJ.J. Barea DAL 04/02/2015 DAL vs. HOU L 17 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 5 0 0 0 1 7
+p77
+aVRichard Jefferson DAL 04/02/2015 DAL vs. HOU L 9 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 2 1 0 0 3 -11
+p78
+aVAmar'e Stoudemire DAL 04/02/2015 DAL vs. HOU L 14 11 5 7 71.4 0 0 - 1 1 100.0 2 3 5 0 2 0 1 3 -2
+p79
+aVChandler Parsons DAL 04/02/2015 DAL vs. HOU L 26 11 3 9 33.3 3 7 42.9 2 2 100.0 1 2 3 4 0 0 2 1 -2
+p80
+aVRajon Rondo DAL 04/02/2015 DAL vs. HOU L 23 8 4 6 66.7 0 0 - 0 0 - 1 3 4 6 0 0 3 2 -6
+p81
+aVRajon Rondo DAL 04/01/2015 DAL @ OKC W 29 10 5 12 41.7 0 0 - 0 0 - 0 1 1 10 1 0 1 2 -10
+p82
+aVAmar'e Stoudemire DAL 04/01/2015 DAL @ OKC W 20 18 8 9 88.9 0 0 - 2 3 66.7 1 3 4 2 0 0 1 3 4
+p83
+aVTyson Chandler DAL 04/01/2015 DAL @ OKC W 28 14 6 6 100.0 0 0 - 2 2 100.0 3 7 10 1 0 0 1 2 0
+p84
+aVMonta Ellis DAL 04/01/2015 DAL @ OKC W 37 26 9 14 64.3 0 1 0.0 8 9 88.9 0 4 4 5 4 0 1 4 -2
+p85
+aVCharlie Villanueva DAL 04/01/2015 DAL @ OKC W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p86
+aVJ.J. Barea DAL 04/01/2015 DAL @ OKC W 11 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 3 0 0 0 2 6
+p87
+aVAl-Farouq Aminu DAL 04/01/2015 DAL @ OKC W 23 12 4 5 80.0 1 1 100.0 3 5 60.0 0 6 6 2 1 1 0 1 11
+p88
+aVDirk Nowitzki DAL 04/01/2015 DAL @ OKC W 32 18 8 17 47.1 2 5 40.0 0 0 - 0 4 4 3 0 0 1 1 0
+p89
+aVChandler Parsons DAL 04/01/2015 DAL @ OKC W 37 22 10 15 66.7 0 3 0.0 2 3 66.7 0 4 4 6 1 0 1 5 -3
+p90
+aVDevin Harris DAL 04/01/2015 DAL @ OKC W 19 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 3 1 0 0 2 15
+p91
+aVCharlie Villanueva DAL 03/29/2015 DAL @ IND L 12 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 2 -5
+p92
+aVDirk Nowitzki DAL 03/29/2015 DAL @ IND L 34 19 7 13 53.8 1 1 100.0 4 5 80.0 0 5 5 0 0 0 2 3 -7
+p93
+aVRaymond Felton DAL 03/29/2015 DAL @ IND L 14 9 3 6 50.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 3 1 9
+p94
+aVChandler Parsons DAL 03/29/2015 DAL @ IND L 37 27 11 20 55.0 2 4 50.0 3 5 60.0 1 9 10 1 0 1 3 4 -6
+p95
+aVRichard Jefferson DAL 03/29/2015 DAL @ IND L 16 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 1 3 -15
+p96
+aVDevin Harris DAL 03/29/2015 DAL @ IND L 27 4 1 5 20.0 1 2 50.0 1 2 50.0 1 1 2 3 0 0 1 2 2
+p97
+aVAl-Farouq Aminu DAL 03/29/2015 DAL @ IND L 15 3 1 4 25.0 0 1 0.0 1 2 50.0 1 1 2 0 1 0 0 2 3
+p98
+aVRajon Rondo DAL 03/29/2015 DAL @ IND L 38 17 8 14 57.1 0 0 - 1 1 100.0 3 4 7 10 2 1 2 2 -6
+p99
+aVAmar'e Stoudemire DAL 03/29/2015 DAL @ IND L 19 11 5 12 41.7 0 1 0.0 1 2 50.0 1 1 2 0 1 0 0 3 -2
+p100
+aVTyson Chandler DAL 03/29/2015 DAL @ IND L 28 2 1 5 20.0 0 0 - 0 0 - 2 9 11 2 1 1 0 3 2
+p101
+aVTyson Chandler DAL 03/27/2015 DAL @ SAS L 30 10 4 8 50.0 0 0 - 2 5 40.0 6 8 14 2 0 0 2 1 -13
+p102
+aVDwight Powell DAL 03/27/2015 DAL @ SAS L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p103
+aVDevin Harris DAL 03/27/2015 DAL @ SAS L 26 8 3 8 37.5 0 3 0.0 2 2 100.0 0 2 2 0 1 0 4 1 -31
+p104
+aVBernard James DAL 03/27/2015 DAL @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p105
+aVChandler Parsons DAL 03/27/2015 DAL @ SAS L 35 9 4 11 36.4 1 3 33.3 0 0 - 0 6 6 2 3 0 3 4 -2
+p106
+aVMonta Ellis DAL 03/27/2015 DAL @ SAS L 23 10 5 10 50.0 0 3 0.0 0 0 - 0 2 2 1 1 0 0 1 7
+p107
+aVRaymond Felton DAL 03/27/2015 DAL @ SAS L 12 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 1 0 1 2 -14
+p108
+aVRichard Jefferson DAL 03/27/2015 DAL @ SAS L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -5
+p109
+aVAl-Farouq Aminu DAL 03/27/2015 DAL @ SAS L 21 6 2 5 40.0 1 3 33.3 1 2 50.0 5 2 7 0 1 1 1 1 -22
+p110
+aVRajon Rondo DAL 03/27/2015 DAL @ SAS L 32 7 3 10 30.0 0 0 - 1 1 100.0 1 4 5 5 1 0 4 2 -1
+p111
+aVDirk Nowitzki DAL 03/27/2015 DAL @ SAS L 29 7 3 9 33.3 1 1 100.0 0 1 0.0 0 5 5 4 0 1 1 4 -4
+p112
+aVAmar'e Stoudemire DAL 03/27/2015 DAL @ SAS L 15 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 0 0 1 1 3 -8
+p113
+aVCharlie Villanueva DAL 03/27/2015 DAL @ SAS L 4 4 1 5 20.0 0 1 0.0 2 2 100.0 2 0 2 0 0 1 0 0 -3
+p114
+aVAl-Farouq Aminu DAL 03/24/2015 DAL vs. SAS W 20 2 1 4 25.0 0 2 0.0 0 1 0.0 1 4 5 1 0 0 1 2 -4
+p115
+aVCharlie Villanueva DAL 03/24/2015 DAL vs. SAS W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 4
+p116
+aVRichard Jefferson DAL 03/24/2015 DAL vs. SAS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p117
+aVRajon Rondo DAL 03/24/2015 DAL vs. SAS W 27 2 1 5 20.0 0 0 - 0 0 - 1 8 9 5 0 0 4 2 -5
+p118
+aVMonta Ellis DAL 03/24/2015 DAL vs. SAS W 40 38 16 27 59.3 2 6 33.3 4 4 100.0 0 2 2 5 2 0 3 2 3
+p119
+aVTyson Chandler DAL 03/24/2015 DAL vs. SAS W 30 6 3 4 75.0 0 0 - 0 0 - 2 5 7 2 0 0 3 4 -2
+p120
+aVDirk Nowitzki DAL 03/24/2015 DAL vs. SAS W 31 15 6 16 37.5 1 3 33.3 2 2 100.0 3 10 13 3 0 0 1 1 15
+p121
+aVAmar'e Stoudemire DAL 03/24/2015 DAL vs. SAS W 12 6 3 6 50.0 0 0 - 0 1 0.0 1 1 2 0 0 0 1 0 -3
+p122
+aVChandler Parsons DAL 03/24/2015 DAL vs. SAS W 40 15 6 12 50.0 1 5 20.0 2 3 66.7 1 5 6 4 2 1 1 2 5
+p123
+aVDevin Harris DAL 03/24/2015 DAL vs. SAS W 26 9 3 8 37.5 1 3 33.3 2 2 100.0 0 1 1 1 1 1 2 6 14
+p124
+aVRaymond Felton DAL 03/24/2015 DAL vs. SAS W 8 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 10
+p125
+aVRaymond Felton DAL 03/22/2015 DAL @ PHX L 5 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 3
+p126
+aVDirk Nowitzki DAL 03/22/2015 DAL @ PHX L 33 11 5 10 50.0 1 3 33.3 0 0 - 0 7 7 4 2 0 1 1 -8
+p127
+aVAl-Farouq Aminu DAL 03/22/2015 DAL @ PHX L 27 3 1 5 20.0 0 0 - 1 2 50.0 4 5 9 2 1 1 2 2 9
+p128
+aVChandler Parsons DAL 03/22/2015 DAL @ PHX L 33 19 7 17 41.2 2 7 28.6 3 6 50.0 0 4 4 3 2 0 2 3 -11
+p129
+aVMonta Ellis DAL 03/22/2015 DAL @ PHX L 37 11 4 22 18.2 0 3 0.0 3 4 75.0 1 1 2 2 3 0 2 3 -6
+p130
+aVAmar'e Stoudemire DAL 03/22/2015 DAL @ PHX L 17 16 7 11 63.6 0 0 - 2 2 100.0 3 1 4 0 0 0 0 2 7
+p131
+aVCharlie Villanueva DAL 03/22/2015 DAL @ PHX L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p132
+aVRajon Rondo DAL 03/22/2015 DAL @ PHX L 35 12 6 13 46.2 0 1 0.0 0 0 - 1 1 2 6 1 0 1 4 -13
+p133
+aVDevin Harris DAL 03/22/2015 DAL @ PHX L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p134
+aVTyson Chandler DAL 03/22/2015 DAL @ PHX L 31 7 2 7 28.6 0 0 - 3 6 50.0 6 5 11 2 0 0 3 4 -13
+p135
+aVRichard Jefferson DAL 03/22/2015 DAL @ PHX L 11 10 4 6 66.7 1 1 100.0 1 2 50.0 0 1 1 0 0 0 0 2 0
+p136
+aVChandler Parsons DAL 03/20/2015 DAL vs. MEM L 35 12 4 11 36.4 1 4 25.0 3 6 50.0 1 4 5 2 0 0 2 2 -7
+p137
+aVCharlie Villanueva DAL 03/20/2015 DAL vs. MEM L 11 12 5 9 55.6 2 6 33.3 0 0 - 0 1 1 1 0 0 1 2 8
+p138
+aVDirk Nowitzki DAL 03/20/2015 DAL vs. MEM L 30 16 4 14 28.6 1 2 50.0 7 8 87.5 1 5 6 1 0 0 0 6 -22
+p139
+aVRaymond Felton DAL 03/20/2015 DAL vs. MEM L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p140
+aVBernard James DAL 03/20/2015 DAL vs. MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p141
+aVJ.J. Barea DAL 03/20/2015 DAL vs. MEM L 16 6 1 8 12.5 0 2 0.0 4 4 100.0 0 0 0 0 0 0 1 1 3
+p142
+aVAl-Farouq Aminu DAL 03/20/2015 DAL vs. MEM L 19 2 1 2 50.0 0 1 0.0 0 2 0.0 0 2 2 0 2 0 0 4 6
+p143
+aVDevin Harris DAL 03/20/2015 DAL vs. MEM L 21 16 5 6 83.3 3 3 100.0 3 4 75.0 0 4 4 3 0 0 0 2 -8
+p144
+aVMonta Ellis DAL 03/20/2015 DAL vs. MEM L 34 12 3 9 33.3 1 2 50.0 5 6 83.3 0 0 0 2 1 0 3 4 -10
+p145
+aVTyson Chandler DAL 03/20/2015 DAL vs. MEM L 36 9 4 4 100.0 0 0 - 1 4 25.0 5 8 13 1 1 3 4 3 -12
+p146
+aVAmar'e Stoudemire DAL 03/20/2015 DAL vs. MEM L 7 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 3 -15
+p147
+aVRajon Rondo DAL 03/20/2015 DAL vs. MEM L 30 10 4 8 50.0 0 2 0.0 2 2 100.0 1 5 6 4 2 0 4 2 -6
+p148
+aVCharlie Villanueva DAL 03/18/2015 DAL vs. ORL W 9 10 4 7 57.1 2 4 50.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p149
+aVDirk Nowitzki DAL 03/18/2015 DAL vs. ORL W 31 25 9 15 60.0 5 6 83.3 2 2 100.0 1 7 8 2 0 0 1 2 1
+p150
+aVTyson Chandler DAL 03/18/2015 DAL vs. ORL W 30 3 1 2 50.0 0 0 - 1 2 50.0 2 6 8 0 0 4 4 0 -1
+p151
+aVAmar'e Stoudemire DAL 03/18/2015 DAL vs. ORL W 16 8 3 8 37.5 0 0 - 2 4 50.0 0 1 1 0 0 0 0 0 -1
+p152
+aVRichard Jefferson DAL 03/18/2015 DAL vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p153
+aVDevin Harris DAL 03/18/2015 DAL vs. ORL W 22 12 3 8 37.5 3 6 50.0 3 4 75.0 0 3 3 5 1 0 1 2 2
+p154
+aVRajon Rondo DAL 03/18/2015 DAL vs. ORL W 29 9 4 7 57.1 0 1 0.0 1 2 50.0 1 5 6 11 1 0 8 3 5
+p155
+aVAl-Farouq Aminu DAL 03/18/2015 DAL vs. ORL W 24 7 1 4 25.0 0 2 0.0 5 6 83.3 4 4 8 1 1 0 1 3 2
+p156
+aVMonta Ellis DAL 03/18/2015 DAL vs. ORL W 36 21 9 17 52.9 1 5 20.0 2 4 50.0 0 2 2 4 2 2 2 2 12
+p157
+aVJ.J. Barea DAL 03/18/2015 DAL vs. ORL W 16 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 2 2 0 2 1 1
+p158
+aVChandler Parsons DAL 03/18/2015 DAL vs. ORL W 27 8 3 8 37.5 2 6 33.3 0 0 - 0 4 4 3 0 0 1 2 6
+p159
+aVCharlie Villanueva DAL 03/16/2015 DAL vs. OKC W 19 10 4 8 50.0 2 5 40.0 0 0 - 1 4 5 0 0 0 1 3 -3
+p160
+aVRajon Rondo DAL 03/16/2015 DAL vs. OKC W 33 11 5 8 62.5 1 2 50.0 0 0 - 1 3 4 13 1 0 4 3 12
+p161
+aVTyson Chandler DAL 03/16/2015 DAL vs. OKC W 34 5 1 4 25.0 0 0 - 3 6 50.0 4 3 7 1 2 2 0 4 5
+p162
+aVDirk Nowitzki DAL 03/16/2015 DAL vs. OKC W 27 22 8 18 44.4 4 7 57.1 2 2 100.0 0 4 4 2 0 0 0 4 5
+p163
+aVRichard Jefferson DAL 03/16/2015 DAL vs. OKC W 11 3 0 2 0.0 0 1 0.0 3 4 75.0 0 1 1 0 1 0 0 1 -4
+p164
+aVMonta Ellis DAL 03/16/2015 DAL vs. OKC W 37 24 8 20 40.0 0 3 0.0 8 11 72.7 0 5 5 3 3 0 4 5 6
+p165
+aVDevin Harris DAL 03/16/2015 DAL vs. OKC W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -15
+p166
+aVAmar'e Stoudemire DAL 03/16/2015 DAL vs. OKC W 14 10 5 9 55.6 0 0 - 0 1 0.0 2 3 5 1 0 0 0 2 -1
+p167
+aVJ.J. Barea DAL 03/16/2015 DAL vs. OKC W 18 3 1 5 20.0 0 2 0.0 1 2 50.0 0 2 2 7 0 0 0 1 5
+p168
+aVChandler Parsons DAL 03/16/2015 DAL vs. OKC W 38 31 10 14 71.4 3 5 60.0 8 9 88.9 0 4 4 0 2 0 3 4 10
+p169
+aVRajon Rondo DAL 03/13/2015 DAL vs. LAC W 22 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 7 4 0 3 3 1
+p170
+aVGreg Smith DAL 03/13/2015 DAL vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p171
+aVChandler Parsons DAL 03/13/2015 DAL vs. LAC W 26 22 8 12 66.7 5 6 83.3 1 1 100.0 1 4 5 4 2 0 1 1 4
+p172
+aVDevin Harris DAL 03/13/2015 DAL vs. LAC W 20 15 5 8 62.5 2 4 50.0 3 3 100.0 1 0 1 4 2 0 3 2 28
+p173
+aVMonta Ellis DAL 03/13/2015 DAL vs. LAC W 26 14 7 12 58.3 0 0 - 0 1 0.0 0 3 3 4 0 0 4 2 4
+p174
+aVTyson Chandler DAL 03/13/2015 DAL vs. LAC W 28 14 6 7 85.7 0 0 - 2 3 66.7 6 6 12 2 0 1 1 2 2
+p175
+aVDirk Nowitzki DAL 03/13/2015 DAL vs. LAC W 25 14 5 9 55.6 2 3 66.7 2 2 100.0 0 2 2 1 1 0 0 0 30
+p176
+aVBernard James DAL 03/13/2015 DAL vs. LAC W 5 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -2
+p177
+aVCharlie Villanueva DAL 03/13/2015 DAL vs. LAC W 23 19 8 15 53.3 3 8 37.5 0 0 - 0 5 5 1 0 1 1 1 3
+p178
+aVJ.J. Barea DAL 03/13/2015 DAL vs. LAC W 18 15 6 7 85.7 2 2 100.0 1 2 50.0 0 2 2 4 0 0 0 1 23
+p179
+aVRaymond Felton DAL 03/13/2015 DAL vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 1
+p180
+aVRichard Jefferson DAL 03/13/2015 DAL vs. LAC W 23 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 2 2 0 0 2 23
+p181
+aVAmar'e Stoudemire DAL 03/13/2015 DAL vs. LAC W 14 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 0 0 0 0 2 30
+p182
+aVJ.J. Barea DAL 03/10/2015 DAL vs. CLE L 14 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 5 0 0 1 0 -14
+p183
+aVAl-Farouq Aminu DAL 03/10/2015 DAL vs. CLE L 7 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 7
+p184
+aVDevin Harris DAL 03/10/2015 DAL vs. CLE L 21 7 2 4 50.0 1 2 50.0 2 2 100.0 1 0 1 2 1 0 0 2 -9
+p185
+aVMonta Ellis DAL 03/10/2015 DAL vs. CLE L 32 17 8 18 44.4 0 4 0.0 1 2 50.0 1 2 3 4 2 1 0 1 -18
+p186
+aVTyson Chandler DAL 03/10/2015 DAL vs. CLE L 23 9 1 4 25.0 0 0 - 7 8 87.5 6 4 10 0 1 1 1 3 -25
+p187
+aVRajon Rondo DAL 03/10/2015 DAL vs. CLE L 24 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 2 2 -21
+p188
+aVRichard Jefferson DAL 03/10/2015 DAL vs. CLE L 20 5 2 4 50.0 0 1 0.0 1 2 50.0 1 4 5 1 0 0 2 5 -11
+p189
+aVBernard James DAL 03/10/2015 DAL vs. CLE L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -4
+p190
+aVRaymond Felton DAL 03/10/2015 DAL vs. CLE L 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 1 0 0 -4
+p191
+aVChandler Parsons DAL 03/10/2015 DAL vs. CLE L 32 18 7 12 58.3 3 4 75.0 1 2 50.0 1 4 5 1 0 1 4 1 -27
+p192
+aVDirk Nowitzki DAL 03/10/2015 DAL vs. CLE L 29 13 3 10 30.0 1 3 33.3 6 7 85.7 2 2 4 1 1 1 2 4 -25
+p193
+aVAmar'e Stoudemire DAL 03/10/2015 DAL vs. CLE L 20 15 7 11 63.6 0 0 - 1 2 50.0 2 1 3 0 0 0 1 1 -4
+p194
+aVCharlie Villanueva DAL 03/10/2015 DAL vs. CLE L 8 1 0 4 0.0 0 3 0.0 1 4 25.0 0 1 1 0 0 0 1 1 -10
+p195
+aVChandler Parsons DAL 03/08/2015 DAL @ LAL W 35 11 5 11 45.5 1 5 20.0 0 1 0.0 1 5 6 2 0 1 0 1 11
+p196
+aVDirk Nowitzki DAL 03/08/2015 DAL @ LAL W 27 12 5 12 41.7 2 5 40.0 0 0 - 0 4 4 2 1 0 0 3 -1
+p197
+aVRajon Rondo DAL 03/08/2015 DAL @ LAL W 36 8 4 10 40.0 0 2 0.0 0 0 - 1 3 4 9 0 0 3 4 8
+p198
+aVRichard Jefferson DAL 03/08/2015 DAL @ LAL W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p199
+aVAl-Farouq Aminu DAL 03/08/2015 DAL @ LAL W 20 13 3 7 42.9 1 4 25.0 6 7 85.7 1 4 5 0 6 3 1 3 2
+p200
+aVRaymond Felton DAL 03/08/2015 DAL @ LAL W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p201
+aVAmar'e Stoudemire DAL 03/08/2015 DAL @ LAL W 19 9 3 4 75.0 0 0 - 3 4 75.0 1 2 3 1 0 1 0 1 1
+p202
+aVTyson Chandler DAL 03/08/2015 DAL @ LAL W 32 8 2 2 100.0 0 0 - 4 4 100.0 2 4 6 0 0 1 1 3 4
+p203
+aVJ.J. Barea DAL 03/08/2015 DAL @ LAL W 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 3 2 0 1 2 1
+p204
+aVMonta Ellis DAL 03/08/2015 DAL @ LAL W 38 31 12 22 54.5 5 7 71.4 2 6 33.3 0 3 3 3 1 1 1 3 11
+p205
+aVJ.J. Barea DAL 03/06/2015 DAL @ GSW L 27 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 3 1 0 0 0 6
+p206
+aVRichard Jefferson DAL 03/06/2015 DAL @ GSW L 27 4 1 4 25.0 1 1 100.0 1 2 50.0 0 5 5 1 1 0 0 0 -15
+p207
+aVBernard James DAL 03/06/2015 DAL @ GSW L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 11
+p208
+aVGreg Smith DAL 03/06/2015 DAL @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p209
+aVAmar'e Stoudemire DAL 03/06/2015 DAL @ GSW L 18 12 5 9 55.6 0 0 - 2 3 66.7 1 4 5 0 1 0 3 4 -9
+p210
+aVRaymond Felton DAL 03/06/2015 DAL @ GSW L 6 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 0 11
+p211
+aVTyson Chandler DAL 03/06/2015 DAL @ GSW L 24 9 2 3 66.7 0 0 - 5 6 83.3 0 5 5 0 0 0 2 2 -17
+p212
+aVAl-Farouq Aminu DAL 03/06/2015 DAL @ GSW L 19 7 3 7 42.9 0 2 0.0 1 2 50.0 1 3 4 1 5 0 0 1 -5
+p213
+aVDirk Nowitzki DAL 03/06/2015 DAL @ GSW L 27 14 5 16 31.3 2 3 66.7 2 2 100.0 0 1 1 2 0 0 1 3 -13
+p214
+aVMonta Ellis DAL 03/06/2015 DAL @ GSW L 31 6 2 14 14.3 0 4 0.0 2 3 66.7 1 2 3 2 4 1 3 5 -26
+p215
+aVCharlie Villanueva DAL 03/06/2015 DAL @ GSW L 15 7 1 5 20.0 0 3 0.0 5 6 83.3 0 0 0 0 0 0 0 2 -13
+p216
+aVDwight Powell DAL 03/06/2015 DAL @ GSW L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 11
+p217
+aVRajon Rondo DAL 03/06/2015 DAL @ GSW L 32 14 6 15 40.0 1 2 50.0 1 2 50.0 0 4 4 6 2 0 0 3 -21
+p218
+aVAmar'e Stoudemire DAL 03/05/2015 DAL @ POR L 14 12 5 7 71.4 0 0 - 2 2 100.0 0 1 1 0 1 0 0 2 -8
+p219
+aVRaymond Felton DAL 03/05/2015 DAL @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p220
+aVRichard Jefferson DAL 03/05/2015 DAL @ POR L 33 9 4 6 66.7 1 2 50.0 0 0 - 0 6 6 0 1 1 1 0 -2
+p221
+aVBernard James DAL 03/05/2015 DAL @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p222
+aVDevin Harris DAL 03/05/2015 DAL @ POR L 28 7 3 8 37.5 0 3 0.0 1 2 50.0 0 3 3 0 2 0 2 1 -14
+p223
+aVCharlie Villanueva DAL 03/05/2015 DAL @ POR L 4 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 2
+p224
+aVTyson Chandler DAL 03/05/2015 DAL @ POR L 32 4 1 4 25.0 0 0 - 2 2 100.0 4 10 14 1 1 1 0 3 -7
+p225
+aVGreg Smith DAL 03/05/2015 DAL @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p226
+aVAl-Farouq Aminu DAL 03/05/2015 DAL @ POR L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 0 0 0 1 2 -7
+p227
+aVRajon Rondo DAL 03/05/2015 DAL @ POR L 29 10 5 13 38.5 0 1 0.0 0 0 - 0 7 7 9 1 0 4 2 -6
+p228
+aVMonta Ellis DAL 03/05/2015 DAL @ POR L 32 12 5 20 25.0 0 1 0.0 2 2 100.0 1 0 1 5 3 1 2 1 -7
+p229
+aVJ.J. Barea DAL 03/05/2015 DAL @ POR L 16 4 2 8 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 2 0 -12
+p230
+aVDirk Nowitzki DAL 03/05/2015 DAL @ POR L 27 10 5 13 38.5 0 4 0.0 0 0 - 0 4 4 0 1 0 1 3 -24
+p231
+aVRichard Jefferson DAL 03/02/2015 DAL vs. NOP W 34 16 5 6 83.3 2 2 100.0 4 4 100.0 1 4 5 0 0 1 1 1 13
+p232
+aVMonta Ellis DAL 03/02/2015 DAL vs. NOP W 33 20 8 19 42.1 0 3 0.0 4 4 100.0 2 4 6 2 0 1 1 2 11
+p233
+aVCharlie Villanueva DAL 03/02/2015 DAL vs. NOP W 4 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 2
+p234
+aVDevin Harris DAL 03/02/2015 DAL vs. NOP W 19 14 3 6 50.0 0 1 0.0 8 9 88.9 0 0 0 2 0 0 0 1 -7
+p235
+aVJ.J. Barea DAL 03/02/2015 DAL vs. NOP W 15 3 1 5 20.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 1 -2
+p236
+aVBernard James DAL 03/02/2015 DAL vs. NOP W 25 0 0 1 0.0 0 0 - 0 0 - 1 5 6 1 0 2 0 2 23
+p237
+aVRajon Rondo DAL 03/02/2015 DAL vs. NOP W 32 19 9 15 60.0 1 1 100.0 0 0 - 1 4 5 2 0 0 3 0 11
+p238
+aVAl-Farouq Aminu DAL 03/02/2015 DAL vs. NOP W 24 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 1 4 0 0 2 -7
+p239
+aVAmar'e Stoudemire DAL 03/02/2015 DAL vs. NOP W 23 14 6 9 66.7 0 0 - 2 2 100.0 2 2 4 2 2 0 0 2 -14
+p240
+aVDirk Nowitzki DAL 03/02/2015 DAL vs. NOP W 31 14 5 13 38.5 3 5 60.0 1 1 100.0 0 8 8 0 1 2 0 3 15
+p241
+aVBernard James DAL 02/28/2015 DAL vs. BKN L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 2
+p242
+aVCharlie Villanueva DAL 02/28/2015 DAL vs. BKN L 15 5 2 8 25.0 1 4 25.0 0 0 - 2 3 5 2 1 0 1 0 1
+p243
+aVRichard Jefferson DAL 02/28/2015 DAL vs. BKN L 30 5 2 7 28.6 1 5 20.0 0 0 - 1 4 5 0 1 0 3 1 -14
+p244
+aVAmar'e Stoudemire DAL 02/28/2015 DAL vs. BKN L 19 9 3 7 42.9 0 0 - 3 4 75.0 0 6 6 0 0 0 1 3 3
+p245
+aVDevin Harris DAL 02/28/2015 DAL vs. BKN L 28 14 5 7 71.4 2 4 50.0 2 2 100.0 0 0 0 5 1 0 1 4 14
+p246
+aVDirk Nowitzki DAL 02/28/2015 DAL vs. BKN L 31 20 8 14 57.1 2 5 40.0 2 3 66.7 2 4 6 2 0 0 0 1 -7
+p247
+aVAl-Farouq Aminu DAL 02/28/2015 DAL vs. BKN L 24 12 4 4 100.0 2 2 100.0 2 2 100.0 0 5 5 2 4 2 0 3 -2
+p248
+aVMonta Ellis DAL 02/28/2015 DAL vs. BKN L 38 12 4 16 25.0 1 5 20.0 3 3 100.0 0 1 1 5 3 0 2 2 -18
+p249
+aVRajon Rondo DAL 02/28/2015 DAL vs. BKN L 28 8 4 10 40.0 0 0 - 0 0 - 2 5 7 6 0 0 4 2 -22
+p250
+aVJ.J. Barea DAL 02/28/2015 DAL vs. BKN L 22 7 3 9 33.3 0 3 0.0 1 2 50.0 1 1 2 1 0 0 0 2 -7
+p251
+aVDevin Harris DAL 02/25/2015 DAL @ ATL L 20 10 2 7 28.6 0 3 0.0 6 6 100.0 0 3 3 2 0 0 1 1 -13
+p252
+aVRichard Jefferson DAL 02/25/2015 DAL @ ATL L 31 10 3 10 30.0 1 4 25.0 3 5 60.0 0 4 4 1 0 0 1 2 -20
+p253
+aVAl-Farouq Aminu DAL 02/25/2015 DAL @ ATL L 27 2 1 7 14.3 0 4 0.0 0 0 - 0 5 5 0 0 0 4 1 0
+p254
+aVRaymond Felton DAL 02/25/2015 DAL @ ATL L 9 4 1 5 20.0 0 2 0.0 2 2 100.0 0 0 0 1 0 1 0 1 4
+p255
+aVDwight Powell DAL 02/25/2015 DAL @ ATL L 9 6 3 7 42.9 0 1 0.0 0 0 - 3 3 6 0 0 0 2 2 4
+p256
+aVBernard James DAL 02/25/2015 DAL @ ATL L 27 7 2 3 66.7 0 0 - 3 4 75.0 7 4 11 3 0 2 1 1 -8
+p257
+aVDirk Nowitzki DAL 02/25/2015 DAL @ ATL L 25 4 2 7 28.6 0 3 0.0 0 0 - 0 5 5 4 0 0 0 2 -21
+p258
+aVGreg Smith DAL 02/25/2015 DAL @ ATL L 9 4 2 3 66.7 0 0 - 0 1 0.0 1 2 3 0 0 0 0 0 4
+p259
+aVJ.J. Barea DAL 02/25/2015 DAL @ ATL L 30 13 6 10 60.0 1 3 33.3 0 0 - 1 4 5 7 0 0 3 2 -21
+p260
+aVCharlie Villanueva DAL 02/25/2015 DAL @ ATL L 22 8 3 7 42.9 2 6 33.3 0 0 - 0 0 0 0 0 0 1 3 -9
+p261
+aVMonta Ellis DAL 02/25/2015 DAL @ ATL L 30 19 9 14 64.3 1 5 20.0 0 0 - 1 1 2 2 0 0 2 3 -5
+p262
+aVAmar'e Stoudemire DAL 02/24/2015 DAL vs. TOR W 17 6 2 3 66.7 0 0 - 2 3 66.7 0 3 3 0 1 0 1 2 8
+p263
+aVTyson Chandler DAL 02/24/2015 DAL vs. TOR W 30 4 2 3 66.7 0 0 - 0 0 - 2 5 7 0 3 1 3 1 1
+p264
+aVRajon Rondo DAL 02/24/2015 DAL vs. TOR W 18 4 2 6 33.3 0 0 - 0 0 - 0 2 2 4 0 0 2 3 -3
+p265
+aVRichard Jefferson DAL 02/24/2015 DAL vs. TOR W 27 11 3 7 42.9 1 2 50.0 4 4 100.0 1 1 2 1 0 0 3 1 -1
+p266
+aVDirk Nowitzki DAL 02/24/2015 DAL vs. TOR W 33 18 7 18 38.9 2 5 40.0 2 2 100.0 0 9 9 1 1 0 1 0 10
+p267
+aVDevin Harris DAL 02/24/2015 DAL vs. TOR W 28 14 5 10 50.0 1 4 25.0 3 3 100.0 0 3 3 5 4 0 0 2 8
+p268
+aVMonta Ellis DAL 02/24/2015 DAL vs. TOR W 37 20 8 15 53.3 1 4 25.0 3 4 75.0 0 1 1 3 3 1 4 2 10
+p269
+aVJ.J. Barea DAL 02/24/2015 DAL vs. TOR W 19 13 5 8 62.5 3 4 75.0 0 0 - 1 0 1 3 0 0 1 0 2
+p270
+aVAl-Farouq Aminu DAL 02/24/2015 DAL vs. TOR W 28 9 4 9 44.4 0 0 - 1 2 50.0 4 8 12 0 1 2 4 2 5
+p271
+aVCharlie Villanueva DAL 02/24/2015 DAL vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p272
+aVRajon Rondo DAL 02/22/2015 DAL vs. CHA W 27 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 4 1 0 4 0 13
+p273
+aVRichard Jefferson DAL 02/22/2015 DAL vs. CHA W 33 10 3 8 37.5 3 7 42.9 1 2 50.0 0 10 10 4 1 1 1 3 16
+p274
+aVDevin Harris DAL 02/22/2015 DAL vs. CHA W 21 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 4 4 0 2 1 -2
+p275
+aVAmar'e Stoudemire DAL 02/22/2015 DAL vs. CHA W 11 14 5 8 62.5 0 0 - 4 4 100.0 2 1 3 0 0 0 2 2 6
+p276
+aVDirk Nowitzki DAL 02/22/2015 DAL vs. CHA W 25 8 3 7 42.9 0 0 - 2 3 66.7 0 12 12 0 0 0 0 2 5
+p277
+aVTyson Chandler DAL 02/22/2015 DAL vs. CHA W 33 12 6 6 100.0 0 0 - 0 0 - 3 4 7 2 0 2 1 2 5
+p278
+aVCharlie Villanueva DAL 02/22/2015 DAL vs. CHA W 18 6 2 7 28.6 1 4 25.0 1 2 50.0 1 7 8 0 0 0 0 0 5
+p279
+aVJ.J. Barea DAL 02/22/2015 DAL vs. CHA W 11 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 0 0
+p280
+aVMonta Ellis DAL 02/22/2015 DAL vs. CHA W 37 23 9 21 42.9 0 1 0.0 5 6 83.3 0 3 3 4 1 0 2 2 11
+p281
+aVAl-Farouq Aminu DAL 02/22/2015 DAL vs. CHA W 24 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 3 1 4 -4
+p282
+aVCharlie Villanueva DAL 02/20/2015 DAL vs. HOU W 14 13 4 5 80.0 3 3 100.0 2 2 100.0 0 4 4 1 1 0 1 0 -10
+p283
+aVMonta Ellis DAL 02/20/2015 DAL vs. HOU W 35 12 5 13 38.5 0 1 0.0 2 2 100.0 0 2 2 4 2 0 3 5 12
+p284
+aVJ.J. Barea DAL 02/20/2015 DAL vs. HOU W 12 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 5 0 0 0 1 3
+p285
+aVTyson Chandler DAL 02/20/2015 DAL vs. HOU W 35 10 5 9 55.6 0 0 - 0 0 - 5 9 14 0 1 0 4 3 4
+p286
+aVDevin Harris DAL 02/20/2015 DAL vs. HOU W 30 17 7 18 38.9 3 9 33.3 0 0 - 0 6 6 7 2 0 2 3 16
+p287
+aVDirk Nowitzki DAL 02/20/2015 DAL vs. HOU W 27 12 6 13 46.2 0 1 0.0 0 0 - 1 5 6 2 1 0 0 3 15
+p288
+aVRajon Rondo DAL 02/20/2015 DAL vs. HOU W 21 13 6 9 66.7 0 0 - 1 4 25.0 0 0 0 3 0 0 6 0 -8
+p289
+aVAl-Farouq Aminu DAL 02/20/2015 DAL vs. HOU W 30 17 6 11 54.5 1 4 25.0 4 4 100.0 5 7 12 1 0 2 0 3 12
+p290
+aVChandler Parsons DAL 02/20/2015 DAL vs. HOU W 29 13 4 9 44.4 1 3 33.3 4 4 100.0 1 3 4 3 2 0 1 1 11
+p291
+aVRichard Jefferson DAL 02/20/2015 DAL vs. HOU W 8 4 1 1 100.0 1 1 100.0 1 2 50.0 0 1 1 0 1 0 0 0 0
+p292
+aVDevin Harris DAL 02/19/2015 DAL @ OKC L 18 13 5 8 62.5 1 3 33.3 2 2 100.0 0 1 1 1 2 0 3 3 0
+p293
+aVTyson Chandler DAL 02/19/2015 DAL @ OKC L 33 10 4 10 40.0 0 0 - 2 3 66.7 7 6 13 0 0 0 2 3 -14
+p294
+aVBernard James DAL 02/19/2015 DAL @ OKC L 8 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 -7
+p295
+aVDirk Nowitzki DAL 02/19/2015 DAL @ OKC L 31 14 6 16 37.5 0 3 0.0 2 2 100.0 0 4 4 0 0 2 0 1 -16
+p296
+aVJ.J. Barea DAL 02/19/2015 DAL @ OKC L 14 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 2 1 0 1 0 6
+p297
+aVRajon Rondo DAL 02/19/2015 DAL @ OKC L 29 5 2 9 22.2 0 0 - 1 2 50.0 1 1 2 6 0 0 2 4 -20
+p298
+aVCharlie Villanueva DAL 02/19/2015 DAL @ OKC L 13 11 4 8 50.0 2 5 40.0 1 2 50.0 0 2 2 0 2 0 1 0 2
+p299
+aVAl-Farouq Aminu DAL 02/19/2015 DAL @ OKC L 17 8 2 7 28.6 2 4 50.0 2 2 100.0 3 2 5 1 2 0 1 3 8
+p300
+aVChandler Parsons DAL 02/19/2015 DAL @ OKC L 36 8 3 12 25.0 2 5 40.0 0 0 - 1 6 7 2 1 0 3 2 -17
+p301
+aVRichard Jefferson DAL 02/19/2015 DAL @ OKC L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -1
+p302
+aVMonta Ellis DAL 02/19/2015 DAL @ OKC L 35 7 2 13 15.4 1 5 20.0 2 2 100.0 0 0 0 4 6 0 2 2 -16
+p303
+aVJ.J. Barea DAL 02/11/2015 DAL vs. UTA W 35 22 8 15 53.3 4 7 57.1 2 2 100.0 1 3 4 3 0 0 2 2 5
+p304
+aVChandler Parsons DAL 02/11/2015 DAL vs. UTA W 33 8 2 11 18.2 2 6 33.3 2 2 100.0 0 5 5 3 1 0 1 4 3
+p305
+aVDirk Nowitzki DAL 02/11/2015 DAL vs. UTA W 33 15 5 14 35.7 0 3 0.0 5 6 83.3 2 12 14 2 2 0 2 3 11
+p306
+aVGreg Smith DAL 02/11/2015 DAL vs. UTA W 23 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 1 1 0 0 2 10
+p307
+aVAl-Farouq Aminu DAL 02/11/2015 DAL vs. UTA W 20 6 3 7 42.9 0 1 0.0 0 0 - 2 5 7 0 0 0 1 3 3
+p308
+aVCharlie Villanueva DAL 02/11/2015 DAL vs. UTA W 12 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 -7
+p309
+aVBernard James DAL 02/11/2015 DAL vs. UTA W 22 9 3 7 42.9 0 0 - 3 4 75.0 2 1 3 0 0 3 1 3 -6
+p310
+aVDevin Harris DAL 02/11/2015 DAL vs. UTA W 23 8 2 7 28.6 1 6 16.7 3 4 75.0 0 2 2 6 0 0 1 0 10
+p311
+aVRichard Jefferson DAL 02/11/2015 DAL vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p312
+aVMonta Ellis DAL 02/11/2015 DAL vs. UTA W 37 7 1 6 16.7 1 2 50.0 4 4 100.0 0 2 2 3 7 0 3 3 1
+p313
+aVCharlie Villanueva DAL 02/09/2015 DAL vs. LAC L 23 26 9 13 69.2 5 7 71.4 3 6 50.0 2 3 5 1 0 0 4 1 -5
+p314
+aVRaymond Felton DAL 02/09/2015 DAL vs. LAC L 15 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 2 0 0 2 0 -17
+p315
+aVTyson Chandler DAL 02/09/2015 DAL vs. LAC L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p316
+aVChandler Parsons DAL 02/09/2015 DAL vs. LAC L 34 16 5 15 33.3 1 4 25.0 5 6 83.3 3 9 12 4 0 0 0 2 -11
+p317
+aVJ.J. Barea DAL 02/09/2015 DAL vs. LAC L 34 15 6 10 60.0 1 4 25.0 2 2 100.0 0 2 2 7 0 0 1 3 -6
+p318
+aVRichard Jefferson DAL 02/09/2015 DAL vs. LAC L 24 7 2 8 25.0 1 6 16.7 2 2 100.0 0 5 5 0 0 0 1 2 -7
+p319
+aVAl-Farouq Aminu DAL 02/09/2015 DAL vs. LAC L 19 5 2 6 33.3 1 3 33.3 0 0 - 4 2 6 1 1 1 0 3 -5
+p320
+aVDevin Harris DAL 02/09/2015 DAL vs. LAC L 32 4 1 8 12.5 0 4 0.0 2 3 66.7 2 2 4 2 0 1 1 5 -8
+p321
+aVDwight Powell DAL 02/09/2015 DAL vs. LAC L 14 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 0 1 0 0 3 -3
+p322
+aVDirk Nowitzki DAL 02/09/2015 DAL vs. LAC L 27 18 7 11 63.6 0 2 0.0 4 5 80.0 2 5 7 0 0 0 1 3 -5
+p323
+aVGreg Smith DAL 02/09/2015 DAL vs. LAC L 9 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -14
+p324
+aVRicky Ledo DAL 02/09/2015 DAL vs. LAC L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 1
+p325
+aVMonta Ellis DAL 02/09/2015 DAL vs. LAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p326
+aVDirk Nowitzki DAL 02/07/2015 DAL vs. POR W 35 25 11 19 57.9 3 6 50.0 0 0 - 1 2 3 1 0 0 1 2 23
+p327
+aVRichard Jefferson DAL 02/07/2015 DAL vs. POR W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -6
+p328
+aVChandler Parsons DAL 02/07/2015 DAL vs. POR W 40 20 7 16 43.8 2 5 40.0 4 5 80.0 4 5 9 4 3 0 0 4 20
+p329
+aVDevin Harris DAL 02/07/2015 DAL vs. POR W 30 16 5 15 33.3 4 9 44.4 2 2 100.0 1 6 7 2 2 1 1 3 13
+p330
+aVJ.J. Barea DAL 02/07/2015 DAL vs. POR W 33 7 2 11 18.2 1 3 33.3 2 2 100.0 2 4 6 7 0 0 4 0 -1
+p331
+aVMonta Ellis DAL 02/07/2015 DAL vs. POR W 43 20 9 25 36.0 2 7 28.6 0 1 0.0 0 4 4 6 4 2 4 2 8
+p332
+aVCharlie Villanueva DAL 02/07/2015 DAL vs. POR W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 1 -7
+p333
+aVTyson Chandler DAL 02/07/2015 DAL vs. POR W 38 11 5 8 62.5 0 0 - 1 2 50.0 9 4 13 0 1 1 3 4 -2
+p334
+aVAl-Farouq Aminu DAL 02/07/2015 DAL vs. POR W 31 9 3 9 33.3 1 4 25.0 2 4 50.0 3 6 9 1 1 2 2 4 2
+p335
+aVRicky Ledo DAL 02/05/2015 DAL @ SAC W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -2
+p336
+aVCharlie Villanueva DAL 02/05/2015 DAL @ SAC W 25 8 4 14 28.6 0 6 0.0 0 0 - 2 6 8 2 0 2 0 2 14
+p337
+aVDevin Harris DAL 02/05/2015 DAL @ SAC W 19 15 4 8 50.0 3 5 60.0 4 4 100.0 0 1 1 2 0 1 0 0 9
+p338
+aVRaymond Felton DAL 02/05/2015 DAL @ SAC W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -2
+p339
+aVGreg Smith DAL 02/05/2015 DAL @ SAC W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -3
+p340
+aVTyson Chandler DAL 02/05/2015 DAL @ SAC W 30 16 7 9 77.8 0 0 - 2 3 66.7 2 14 16 1 1 0 1 1 26
+p341
+aVChandler Parsons DAL 02/05/2015 DAL @ SAC W 25 6 2 9 22.2 2 4 50.0 0 0 - 0 3 3 4 1 0 2 1 14
+p342
+aVAl-Farouq Aminu DAL 02/05/2015 DAL @ SAC W 22 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 1 2 3 1 4 10
+p343
+aVJ.J. Barea DAL 02/05/2015 DAL @ SAC W 32 15 7 12 58.3 1 5 20.0 0 0 - 0 3 3 5 0 1 1 1 18
+p344
+aVMonta Ellis DAL 02/05/2015 DAL @ SAC W 30 21 9 16 56.3 3 6 50.0 0 0 - 1 1 2 6 3 0 3 1 23
+p345
+aVRichard Jefferson DAL 02/05/2015 DAL @ SAC W 29 14 5 11 45.5 3 6 50.0 1 3 33.3 1 5 6 0 1 0 0 4 13
+p346
+aVDwight Powell DAL 02/05/2015 DAL @ SAC W 4 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -5
+p347
+aVRichard Jefferson DAL 02/04/2015 DAL @ GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p348
+aVMonta Ellis DAL 02/04/2015 DAL @ GSW L 39 14 7 19 36.8 0 4 0.0 0 0 - 0 2 2 3 1 0 2 1 0
+p349
+aVAl-Farouq Aminu DAL 02/04/2015 DAL @ GSW L 25 12 5 9 55.6 1 2 50.0 1 1 100.0 4 3 7 2 2 1 0 4 -9
+p350
+aVJ.J. Barea DAL 02/04/2015 DAL @ GSW L 28 10 3 10 30.0 2 4 50.0 2 2 100.0 0 4 4 5 0 0 1 1 -3
+p351
+aVRaymond Felton DAL 02/04/2015 DAL @ GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p352
+aVRicky Ledo DAL 02/04/2015 DAL @ GSW L 1 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p353
+aVChandler Parsons DAL 02/04/2015 DAL @ GSW L 38 24 9 18 50.0 1 3 33.3 5 9 55.6 1 3 4 4 2 0 0 3 4
+p354
+aVDirk Nowitzki DAL 02/04/2015 DAL @ GSW L 30 15 4 15 26.7 1 4 25.0 6 6 100.0 2 1 3 2 0 0 2 3 -3
+p355
+aVCharlie Villanueva DAL 02/04/2015 DAL @ GSW L 15 9 3 9 33.3 3 7 42.9 0 0 - 0 3 3 0 1 0 0 1 -26
+p356
+aVTyson Chandler DAL 02/04/2015 DAL @ GSW L 34 21 8 9 88.9 0 0 - 5 6 83.3 6 11 17 1 2 0 1 2 -1
+p357
+aVDevin Harris DAL 02/04/2015 DAL @ GSW L 21 8 2 7 28.6 2 5 40.0 2 2 100.0 1 1 2 7 0 0 1 3 -13
+p358
+aVRaymond Felton DAL 02/02/2015 DAL vs. MIN W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 2
+p359
+aVAl-Farouq Aminu DAL 02/02/2015 DAL vs. MIN W 21 9 4 5 80.0 1 2 50.0 0 0 - 2 3 5 2 2 2 3 3 16
+p360
+aVGreg Smith DAL 02/02/2015 DAL vs. MIN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p361
+aVChandler Parsons DAL 02/02/2015 DAL vs. MIN W 35 18 8 12 66.7 2 4 50.0 0 0 - 1 5 6 2 4 0 3 3 -11
+p362
+aVDwight Powell DAL 02/02/2015 DAL vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p363
+aVTyson Chandler DAL 02/02/2015 DAL vs. MIN W 31 6 2 2 100.0 0 0 - 2 2 100.0 5 5 10 5 0 3 0 2 -7
+p364
+aVCharlie Villanueva DAL 02/02/2015 DAL vs. MIN W 13 4 2 9 22.2 0 6 0.0 0 0 - 1 5 6 1 0 3 1 0 15
+p365
+aVRichard Jefferson DAL 02/02/2015 DAL vs. MIN W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -10
+p366
+aVDirk Nowitzki DAL 02/02/2015 DAL vs. MIN W 31 16 7 10 70.0 2 3 66.7 0 1 0.0 0 7 7 2 1 1 2 2 16
+p367
+aVMonta Ellis DAL 02/02/2015 DAL vs. MIN W 36 23 7 21 33.3 3 7 42.9 6 11 54.5 0 1 1 2 2 0 3 4 -8
+p368
+aVJ.J. Barea DAL 02/02/2015 DAL vs. MIN W 29 10 4 14 28.6 0 3 0.0 2 2 100.0 3 1 4 8 0 0 1 2 17
+p369
+aVDevin Harris DAL 02/02/2015 DAL vs. MIN W 24 7 2 6 33.3 1 5 20.0 2 2 100.0 0 1 1 4 1 1 1 1 1
+p370
+aVGreg Smith DAL 01/31/2015 DAL @ ORL W 11 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 0 2 3
+p371
+aVRajon Rondo DAL 01/31/2015 DAL @ ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p372
+aVRichard Jefferson DAL 01/31/2015 DAL @ ORL W 28 14 4 5 80.0 3 3 100.0 3 4 75.0 0 3 3 1 1 1 1 2 28
+p373
+aVJ.J. Barea DAL 01/31/2015 DAL @ ORL W 18 10 4 7 57.1 1 2 50.0 1 2 50.0 0 0 0 0 1 0 2 1 -10
+p374
+aVDirk Nowitzki DAL 01/31/2015 DAL @ ORL W 27 11 4 7 57.1 1 1 100.0 2 3 66.7 1 3 4 4 1 0 3 1 -3
+p375
+aVDevin Harris DAL 01/31/2015 DAL @ ORL W 30 12 4 8 50.0 3 6 50.0 1 2 50.0 0 1 1 5 0 0 2 4 32
+p376
+aVTyson Chandler DAL 01/31/2015 DAL @ ORL W 31 20 9 12 75.0 0 0 - 2 2 100.0 0 9 9 2 0 1 0 0 17
+p377
+aVCharlie Villanueva DAL 01/31/2015 DAL @ ORL W 20 6 2 6 33.3 2 4 50.0 0 4 0.0 0 5 5 0 0 1 0 3 -3
+p378
+aVAl-Farouq Aminu DAL 01/31/2015 DAL @ ORL W 27 6 2 5 40.0 0 1 0.0 2 3 66.7 2 6 8 1 2 0 0 2 3
+p379
+aVRaymond Felton DAL 01/31/2015 DAL @ ORL W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -9
+p380
+aVMonta Ellis DAL 01/31/2015 DAL @ ORL W 37 25 11 20 55.0 1 3 33.3 2 2 100.0 0 2 2 13 3 1 3 4 16
+p381
+aVDirk Nowitzki DAL 01/30/2015 DAL @ MIA W 27 12 4 16 25.0 1 3 33.3 3 4 75.0 0 6 6 4 0 0 0 1 8
+p382
+aVCharlie Villanueva DAL 01/30/2015 DAL @ MIA W 23 20 7 15 46.7 6 11 54.5 0 0 - 1 4 5 0 0 1 1 1 29
+p383
+aVRajon Rondo DAL 01/30/2015 DAL @ MIA W 23 4 2 4 50.0 0 0 - 0 0 - 1 3 4 4 2 0 2 0 -3
+p384
+aVAl-Farouq Aminu DAL 01/30/2015 DAL @ MIA W 29 10 3 5 60.0 0 1 0.0 4 6 66.7 5 2 7 2 4 0 1 1 23
+p385
+aVJ.J. Barea DAL 01/30/2015 DAL @ MIA W 18 5 2 10 20.0 1 3 33.3 0 0 - 0 2 2 4 0 0 1 1 16
+p386
+aVTyson Chandler DAL 01/30/2015 DAL @ MIA W 30 11 5 7 71.4 0 0 - 1 2 50.0 5 8 13 0 1 0 3 4 12
+p387
+aVDevin Harris DAL 01/30/2015 DAL @ MIA W 27 9 3 8 37.5 3 6 50.0 0 0 - 1 5 6 2 1 0 0 2 25
+p388
+aVMonta Ellis DAL 01/30/2015 DAL @ MIA W 31 12 4 9 44.4 1 2 50.0 3 6 50.0 0 1 1 7 2 0 0 2 5
+p389
+aVGreg Smith DAL 01/30/2015 DAL @ MIA W 12 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 0 2 1 1 -6
+p390
+aVRichard Jefferson DAL 01/30/2015 DAL @ MIA W 21 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 1 0 1 1 0 -4
+p391
+aVDevin Harris DAL 01/28/2015 DAL @ HOU L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 3 3 -10
+p392
+aVCharlie Villanueva DAL 01/28/2015 DAL @ HOU L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 0 -2
+p393
+aVChandler Parsons DAL 01/28/2015 DAL @ HOU L 36 21 8 13 61.5 5 8 62.5 0 0 - 1 2 3 2 1 0 4 2 3
+p394
+aVDwight Powell DAL 01/28/2015 DAL @ HOU L 9 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -11
+p395
+aVDirk Nowitzki DAL 01/28/2015 DAL @ HOU L 31 14 4 11 36.4 2 4 50.0 4 4 100.0 0 5 5 1 0 0 1 2 -10
+p396
+aVJ.J. Barea DAL 01/28/2015 DAL @ HOU L 9 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 1 0 0 2 3 -11
+p397
+aVMonta Ellis DAL 01/28/2015 DAL @ HOU L 39 33 14 23 60.9 1 5 20.0 4 4 100.0 0 4 4 5 1 0 3 2 6
+p398
+aVTyson Chandler DAL 01/28/2015 DAL @ HOU L 32 8 4 8 50.0 0 0 - 0 2 0.0 6 9 15 1 2 0 3 0 10
+p399
+aVRajon Rondo DAL 01/28/2015 DAL @ HOU L 34 0 0 7 0.0 0 2 0.0 0 0 - 0 5 5 6 1 1 5 1 3
+p400
+aVAl-Farouq Aminu DAL 01/28/2015 DAL @ HOU L 29 10 2 7 28.6 2 3 66.7 4 4 100.0 1 6 7 0 3 6 2 2 -3
+p401
+aVDirk Nowitzki DAL 01/27/2015 DAL vs. MEM L 29 11 5 12 41.7 0 2 0.0 1 2 50.0 2 3 5 4 0 1 0 0 -14
+p402
+aVAl-Farouq Aminu DAL 01/27/2015 DAL vs. MEM L 12 4 2 5 40.0 0 3 0.0 0 0 - 0 3 3 1 2 1 0 1 1
+p403
+aVRaymond Felton DAL 01/27/2015 DAL vs. MEM L 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p404
+aVTyson Chandler DAL 01/27/2015 DAL vs. MEM L 32 10 4 4 100.0 0 0 - 2 2 100.0 3 2 5 1 0 0 3 5 -11
+p405
+aVDevin Harris DAL 01/27/2015 DAL vs. MEM L 16 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 2 1 0 2 4 -10
+p406
+aVJ.J. Barea DAL 01/27/2015 DAL vs. MEM L 15 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 2 0 0 0 0 -6
+p407
+aVMonta Ellis DAL 01/27/2015 DAL vs. MEM L 33 19 8 16 50.0 1 4 25.0 2 2 100.0 0 1 1 1 2 0 3 1 -14
+p408
+aVCharlie Villanueva DAL 01/27/2015 DAL vs. MEM L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 2 0 -4
+p409
+aVRajon Rondo DAL 01/27/2015 DAL vs. MEM L 28 7 3 8 37.5 1 3 33.3 0 0 - 2 5 7 5 2 0 3 2 -14
+p410
+aVRichard Jefferson DAL 01/27/2015 DAL vs. MEM L 13 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p411
+aVDwight Powell DAL 01/27/2015 DAL vs. MEM L 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 4 -7
+p412
+aVGreg Smith DAL 01/27/2015 DAL vs. MEM L 5 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 0 2
+p413
+aVChandler Parsons DAL 01/27/2015 DAL vs. MEM L 32 19 7 11 63.6 3 5 60.0 2 2 100.0 0 2 2 3 0 0 2 1 -11
+p414
+aVTyson Chandler DAL 01/25/2015 DAL @ NOP L 33 4 1 2 50.0 0 0 - 2 2 100.0 3 4 7 2 0 3 0 5 -10
+p415
+aVDevin Harris DAL 01/25/2015 DAL @ NOP L 15 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 1 1 0 1 1 1
+p416
+aVRajon Rondo DAL 01/25/2015 DAL @ NOP L 34 17 7 10 70.0 2 2 100.0 1 2 50.0 2 6 8 9 2 0 2 1 1
+p417
+aVMonta Ellis DAL 01/25/2015 DAL @ NOP L 35 36 16 27 59.3 4 9 44.4 0 0 - 2 3 5 2 1 0 1 2 -13
+p418
+aVRichard Jefferson DAL 01/25/2015 DAL @ NOP L 18 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -1
+p419
+aVDwight Powell DAL 01/25/2015 DAL @ NOP L 15 10 2 2 100.0 0 0 - 6 8 75.0 5 1 6 2 0 1 0 1 6
+p420
+aVJ.J. Barea DAL 01/25/2015 DAL @ NOP L 12 2 1 5 20.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 5
+p421
+aVChandler Parsons DAL 01/25/2015 DAL @ NOP L 30 6 2 6 33.3 0 1 0.0 2 3 66.7 1 0 1 0 0 0 3 2 -9
+p422
+aVDirk Nowitzki DAL 01/25/2015 DAL @ NOP L 33 24 8 19 42.1 2 8 25.0 6 8 75.0 0 6 6 1 1 0 1 3 1
+p423
+aVAl-Farouq Aminu DAL 01/25/2015 DAL @ NOP L 15 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 1 0 2 0 2 4
+p424
+aVDwight Powell DAL 01/23/2015 DAL vs. CHI L 21 4 0 4 0.0 0 0 - 4 4 100.0 0 0 0 0 1 2 0 3 -8
+p425
+aVRajon Rondo DAL 01/23/2015 DAL vs. CHI L 27 6 3 9 33.3 0 0 - 0 0 - 2 0 2 4 1 0 2 3 -5
+p426
+aVJ.J. Barea DAL 01/23/2015 DAL vs. CHI L 11 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 0 1 0 0 0 -3
+p427
+aVDirk Nowitzki DAL 01/23/2015 DAL vs. CHI L 34 24 10 15 66.7 2 5 40.0 2 2 100.0 0 7 7 0 0 1 3 0 4
+p428
+aVRichard Jefferson DAL 01/23/2015 DAL vs. CHI L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 3
+p429
+aVDevin Harris DAL 01/23/2015 DAL vs. CHI L 24 9 2 6 33.3 2 4 50.0 3 3 100.0 0 2 2 2 1 0 2 2 -4
+p430
+aVChandler Parsons DAL 01/23/2015 DAL vs. CHI L 38 19 8 14 57.1 1 3 33.3 2 2 100.0 0 1 1 2 2 0 0 2 0
+p431
+aVMonta Ellis DAL 01/23/2015 DAL vs. CHI L 38 17 7 18 38.9 0 2 0.0 3 3 100.0 1 1 2 4 5 0 3 3 0
+p432
+aVTyson Chandler DAL 01/23/2015 DAL vs. CHI L 36 10 3 6 50.0 0 0 - 4 4 100.0 6 6 12 3 1 5 2 2 -7
+p433
+aVChandler Parsons DAL 01/21/2015 DAL @ MIN W 26 22 9 13 69.2 4 6 66.7 0 0 - 0 2 2 2 0 1 1 0 10
+p434
+aVRajon Rondo DAL 01/21/2015 DAL @ MIN W 21 9 4 10 40.0 1 2 50.0 0 0 - 0 1 1 3 0 0 2 4 16
+p435
+aVJ.J. Barea DAL 01/21/2015 DAL @ MIN W 22 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 10 1 0 1 0 19
+p436
+aVRaymond Felton DAL 01/21/2015 DAL @ MIN W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 0 0 2
+p437
+aVGreg Smith DAL 01/21/2015 DAL @ MIN W 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 2
+p438
+aVAl-Farouq Aminu DAL 01/21/2015 DAL @ MIN W 15 5 2 6 33.3 1 2 50.0 0 0 - 4 1 5 0 0 0 1 0 9
+p439
+aVRichard Jefferson DAL 01/21/2015 DAL @ MIN W 16 5 2 5 40.0 1 3 33.3 0 2 0.0 0 3 3 2 1 0 0 0 6
+p440
+aVDirk Nowitzki DAL 01/21/2015 DAL @ MIN W 25 16 6 9 66.7 2 4 50.0 2 2 100.0 0 9 9 0 0 0 1 0 17
+p441
+aVCharlie Villanueva DAL 01/21/2015 DAL @ MIN W 4 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p442
+aVDwight Powell DAL 01/21/2015 DAL @ MIN W 20 6 3 3 100.0 0 0 - 0 0 - 2 8 10 1 0 0 1 3 9
+p443
+aVTyson Chandler DAL 01/21/2015 DAL @ MIN W 31 7 3 3 100.0 0 0 - 1 2 50.0 0 6 6 0 0 2 0 1 16
+p444
+aVDevin Harris DAL 01/21/2015 DAL @ MIN W 18 6 2 4 50.0 2 3 66.7 0 0 - 0 3 3 2 0 0 1 1 0
+p445
+aVMonta Ellis DAL 01/21/2015 DAL @ MIN W 30 7 3 12 25.0 0 3 0.0 1 2 50.0 0 0 0 3 3 0 1 2 9
+p446
+aVChandler Parsons DAL 01/19/2015 DAL @ MEM W 35 15 5 14 35.7 3 8 37.5 2 4 50.0 0 4 4 3 1 2 3 3 11
+p447
+aVRichard Jefferson DAL 01/19/2015 DAL @ MEM W 16 6 1 3 33.3 1 3 33.3 3 4 75.0 1 3 4 0 0 0 0 1 0
+p448
+aVDevin Harris DAL 01/19/2015 DAL @ MEM W 23 12 5 8 62.5 1 3 33.3 1 1 100.0 1 4 5 3 2 0 1 3 15
+p449
+aVJ.J. Barea DAL 01/19/2015 DAL @ MEM W 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 -6
+p450
+aVAl-Farouq Aminu DAL 01/19/2015 DAL @ MEM W 4 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 1
+p451
+aVTyson Chandler DAL 01/19/2015 DAL @ MEM W 40 10 3 6 50.0 0 0 - 4 5 80.0 7 9 16 2 0 1 1 2 10
+p452
+aVMonta Ellis DAL 01/19/2015 DAL @ MEM W 40 25 9 18 50.0 3 7 42.9 4 7 57.1 0 2 2 7 1 0 5 2 14
+p453
+aVDirk Nowitzki DAL 01/19/2015 DAL @ MEM W 32 21 7 13 53.8 2 4 50.0 5 5 100.0 0 6 6 0 0 0 0 2 -2
+p454
+aVDwight Powell DAL 01/19/2015 DAL @ MEM W 17 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 0 1 0 0 5 6
+p455
+aVRajon Rondo DAL 01/19/2015 DAL @ MEM W 26 6 3 8 37.5 0 0 - 0 0 - 2 1 3 1 1 0 2 3 -7
+p456
+aVGreg Smith DAL 01/19/2015 DAL @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p457
+aVChandler Parsons DAL 01/16/2015 DAL vs. DEN W 36 18 6 11 54.5 1 5 20.0 5 6 83.3 1 6 7 2 1 0 0 0 2
+p458
+aVMonta Ellis DAL 01/16/2015 DAL vs. DEN W 33 14 6 15 40.0 1 2 50.0 1 1 100.0 0 1 1 4 1 0 4 4 11
+p459
+aVAl-Farouq Aminu DAL 01/16/2015 DAL vs. DEN W 18 8 1 6 16.7 0 4 0.0 6 6 100.0 3 2 5 2 0 1 1 3 -7
+p460
+aVDwight Powell DAL 01/16/2015 DAL vs. DEN W 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 2 0 1 3 -8
+p461
+aVDevin Harris DAL 01/16/2015 DAL vs. DEN W 17 6 1 5 20.0 1 3 33.3 3 4 75.0 0 0 0 1 0 0 0 2 -7
+p462
+aVRajon Rondo DAL 01/16/2015 DAL vs. DEN W 29 2 1 6 16.7 0 1 0.0 0 2 0.0 0 9 9 8 1 0 5 3 15
+p463
+aVJ.J. Barea DAL 01/16/2015 DAL vs. DEN W 18 9 4 7 57.1 1 3 33.3 0 1 0.0 0 2 2 2 0 0 1 2 -3
+p464
+aVTyson Chandler DAL 01/16/2015 DAL vs. DEN W 34 11 4 4 100.0 0 0 - 3 4 75.0 4 12 16 1 0 1 2 2 16
+p465
+aVDirk Nowitzki DAL 01/16/2015 DAL vs. DEN W 30 25 8 18 44.4 4 5 80.0 5 5 100.0 1 8 9 1 1 0 0 2 16
+p466
+aVRichard Jefferson DAL 01/16/2015 DAL vs. DEN W 12 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 1 1 0 0 2 5
+p467
+aVChandler Parsons DAL 01/14/2015 DAL @ DEN L 28 13 6 13 46.2 1 5 20.0 0 0 - 1 1 2 2 1 0 1 2 -10
+p468
+aVDevin Harris DAL 01/14/2015 DAL @ DEN L 26 13 5 13 38.5 0 6 0.0 3 4 75.0 0 2 2 4 1 0 0 2 6
+p469
+aVGreg Smith DAL 01/14/2015 DAL @ DEN L 17 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 1 0 1 0 2 -10
+p470
+aVRaymond Felton DAL 01/14/2015 DAL @ DEN L 29 10 4 12 33.3 0 2 0.0 2 2 100.0 0 3 3 5 1 1 0 0 -13
+p471
+aVRichard Jefferson DAL 01/14/2015 DAL @ DEN L 30 16 6 13 46.2 4 9 44.4 0 0 - 2 4 6 1 1 1 0 4 -10
+p472
+aVMonta Ellis DAL 01/14/2015 DAL @ DEN L 22 5 1 11 9.1 0 2 0.0 3 4 75.0 0 4 4 0 1 0 3 2 -19
+p473
+aVAl-Farouq Aminu DAL 01/14/2015 DAL @ DEN L 20 10 4 7 57.1 1 2 50.0 1 1 100.0 2 3 5 2 2 1 0 3 10
+p474
+aVCharlie Villanueva DAL 01/14/2015 DAL @ DEN L 19 11 4 7 57.1 2 5 40.0 1 1 100.0 0 4 4 1 1 0 1 2 3
+p475
+aVJ.J. Barea DAL 01/14/2015 DAL @ DEN L 21 17 6 15 40.0 1 5 20.0 4 4 100.0 1 2 3 6 0 0 2 2 9
+p476
+aVDwight Powell DAL 01/14/2015 DAL @ DEN L 29 11 5 8 62.5 0 1 0.0 1 2 50.0 3 2 5 2 0 1 1 6 -1
+p477
+aVGreg Smith DAL 01/13/2015 DAL @ SAC W 6 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -7
+p478
+aVRichard Jefferson DAL 01/13/2015 DAL @ SAC W 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -19
+p479
+aVTyson Chandler DAL 01/13/2015 DAL @ SAC W 44 16 6 8 75.0 0 0 - 4 6 66.7 3 14 17 1 0 1 0 5 18
+p480
+aVDevin Harris DAL 01/13/2015 DAL @ SAC W 22 9 3 9 33.3 1 6 16.7 2 2 100.0 0 2 2 1 1 0 0 1 -21
+p481
+aVRajon Rondo DAL 01/13/2015 DAL @ SAC W 38 21 10 16 62.5 1 2 50.0 0 3 0.0 2 3 5 7 4 0 3 5 17
+p482
+aVJ.J. Barea DAL 01/13/2015 DAL @ SAC W 15 3 1 6 16.7 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 0 -5
+p483
+aVAl-Farouq Aminu DAL 01/13/2015 DAL @ SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p484
+aVCharlie Villanueva DAL 01/13/2015 DAL @ SAC W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 0 -11
+p485
+aVChandler Parsons DAL 01/13/2015 DAL @ SAC W 37 13 6 16 37.5 1 5 20.0 0 0 - 3 4 7 2 1 0 4 2 17
+p486
+aVMonta Ellis DAL 01/13/2015 DAL @ SAC W 40 28 11 23 47.8 2 3 66.7 4 5 80.0 2 2 4 10 4 1 2 5 9
+p487
+aVDirk Nowitzki DAL 01/13/2015 DAL @ SAC W 38 15 5 13 38.5 1 3 33.3 4 4 100.0 1 3 4 0 2 1 0 4 19
+p488
+aVChandler Parsons DAL 01/10/2015 DAL @ LAC L 31 12 4 10 40.0 1 4 25.0 3 4 75.0 1 2 3 1 0 0 1 1 -20
+p489
+aVDwight Powell DAL 01/10/2015 DAL @ LAC L 5 8 2 2 100.0 2 2 100.0 2 2 100.0 0 0 0 0 0 0 0 1 3
+p490
+aVTyson Chandler DAL 01/10/2015 DAL @ LAC L 32 5 2 4 50.0 0 0 - 1 2 50.0 2 8 10 0 0 2 1 3 -20
+p491
+aVMonta Ellis DAL 01/10/2015 DAL @ LAC L 32 23 9 15 60.0 4 6 66.7 1 1 100.0 1 3 4 6 1 0 2 1 -21
+p492
+aVRajon Rondo DAL 01/10/2015 DAL @ LAC L 27 2 1 11 9.1 0 3 0.0 0 0 - 1 2 3 8 1 0 1 3 -27
+p493
+aVDirk Nowitzki DAL 01/10/2015 DAL @ LAC L 30 25 10 19 52.6 2 5 40.0 3 4 75.0 0 6 6 1 0 0 1 1 -24
+p494
+aVRichard Jefferson DAL 01/10/2015 DAL @ LAC L 13 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p495
+aVDevin Harris DAL 01/10/2015 DAL @ LAC L 18 5 2 5 40.0 0 2 0.0 1 2 50.0 0 3 3 5 0 0 2 2 1
+p496
+aVAl-Farouq Aminu DAL 01/10/2015 DAL @ LAC L 9 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 0 1 5
+p497
+aVCharlie Villanueva DAL 01/10/2015 DAL @ LAC L 14 9 3 8 37.5 2 6 33.3 1 2 50.0 0 3 3 0 1 0 1 3 5
+p498
+aVGreg Smith DAL 01/10/2015 DAL @ LAC L 13 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 2 0
+p499
+aVRaymond Felton DAL 01/10/2015 DAL @ LAC L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 0 3
+p500
+aVJ.J. Barea DAL 01/10/2015 DAL @ LAC L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 3 1 0 1 0 2
+p501
+aVTyson Chandler DAL 01/07/2015 DAL vs. DET L 31 9 4 5 80.0 0 0 - 1 2 50.0 4 11 15 1 1 1 0 2 -7
+p502
+aVDwight Powell DAL 01/07/2015 DAL vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p503
+aVDevin Harris DAL 01/07/2015 DAL vs. DET L 21 14 5 8 62.5 2 3 66.7 2 3 66.7 0 3 3 2 2 0 1 3 -6
+p504
+aVRajon Rondo DAL 01/07/2015 DAL vs. DET L 28 6 3 7 42.9 0 0 - 0 0 - 2 4 6 8 2 0 7 2 -11
+p505
+aVJ.J. Barea DAL 01/07/2015 DAL vs. DET L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -4
+p506
+aVRichard Jefferson DAL 01/07/2015 DAL vs. DET L 17 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 1 -5
+p507
+aVMonta Ellis DAL 01/07/2015 DAL vs. DET L 36 16 6 17 35.3 0 4 0.0 4 6 66.7 1 4 5 4 0 1 3 0 -8
+p508
+aVGreg Smith DAL 01/07/2015 DAL vs. DET L 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 1 0 2 -9
+p509
+aVAl-Farouq Aminu DAL 01/07/2015 DAL vs. DET L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p510
+aVDirk Nowitzki DAL 01/07/2015 DAL vs. DET L 29 19 8 19 42.1 0 3 0.0 3 4 75.0 0 5 5 2 1 1 1 1 -9
+p511
+aVChandler Parsons DAL 01/07/2015 DAL vs. DET L 36 15 5 13 38.5 2 5 40.0 3 3 100.0 0 3 3 4 2 0 0 3 -8
+p512
+aVCharlie Villanueva DAL 01/07/2015 DAL vs. DET L 14 6 3 8 37.5 0 4 0.0 0 0 - 0 1 1 1 0 0 1 0 -2
+p513
+aVMonta Ellis DAL 01/05/2015 DAL @ BKN W 39 19 6 16 37.5 1 3 33.3 6 6 100.0 0 7 7 4 1 0 3 4 0
+p514
+aVDirk Nowitzki DAL 01/05/2015 DAL @ BKN W 35 15 6 16 37.5 2 3 66.7 1 1 100.0 2 5 7 0 1 1 2 1 9
+p515
+aVJ.J. Barea DAL 01/05/2015 DAL @ BKN W 13 9 3 4 75.0 2 2 100.0 1 2 50.0 0 3 3 0 1 0 1 0 9
+p516
+aVTyson Chandler DAL 01/05/2015 DAL @ BKN W 37 14 6 11 54.5 0 0 - 2 2 100.0 8 5 13 0 1 1 1 1 0
+p517
+aVRichard Jefferson DAL 01/05/2015 DAL @ BKN W 21 10 4 8 50.0 1 3 33.3 1 2 50.0 0 0 0 1 0 1 0 2 2
+p518
+aVChandler Parsons DAL 01/05/2015 DAL @ BKN W 38 5 2 11 18.2 1 7 14.3 0 2 0.0 0 3 3 2 2 0 1 1 1
+p519
+aVDevin Harris DAL 01/05/2015 DAL @ BKN W 17 9 4 7 57.1 1 3 33.3 0 0 - 0 2 2 2 0 1 1 0 0
+p520
+aVRajon Rondo DAL 01/05/2015 DAL @ BKN W 37 2 1 13 7.7 0 2 0.0 0 2 0.0 3 7 10 14 2 0 1 4 7
+p521
+aVCharlie Villanueva DAL 01/05/2015 DAL @ BKN W 13 8 3 6 50.0 2 4 50.0 0 0 - 1 2 3 0 0 1 0 1 4
+p522
+aVGreg Smith DAL 01/05/2015 DAL @ BKN W 16 5 2 2 100.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 3 8
+p523
+aVCharlie Villanueva DAL 01/04/2015 DAL @ CLE W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 1
+p524
+aVChandler Parsons DAL 01/04/2015 DAL @ CLE W 26 14 5 11 45.5 2 7 28.6 2 2 100.0 1 3 4 3 1 0 1 1 12
+p525
+aVTyson Chandler DAL 01/04/2015 DAL @ CLE W 29 14 6 7 85.7 0 0 - 2 2 100.0 1 7 8 3 0 1 1 2 14
+p526
+aVAl-Farouq Aminu DAL 01/04/2015 DAL @ CLE W 25 4 2 4 50.0 0 0 - 0 1 0.0 2 4 6 1 1 0 1 4 12
+p527
+aVDirk Nowitzki DAL 01/04/2015 DAL @ CLE W 25 15 7 12 58.3 1 2 50.0 0 0 - 0 5 5 3 0 2 0 0 3
+p528
+aVMonta Ellis DAL 01/04/2015 DAL @ CLE W 26 20 8 15 53.3 1 4 25.0 3 4 75.0 0 1 1 2 1 1 1 2 9
+p529
+aVRichard Jefferson DAL 01/04/2015 DAL @ CLE W 24 11 3 5 60.0 3 3 100.0 2 2 100.0 0 3 3 3 0 1 1 2 9
+p530
+aVDwight Powell DAL 01/04/2015 DAL @ CLE W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p531
+aVRaymond Felton DAL 01/04/2015 DAL @ CLE W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 1
+p532
+aVDevin Harris DAL 01/04/2015 DAL @ CLE W 18 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 2 1 2 1 1 7
+p533
+aVRajon Rondo DAL 01/04/2015 DAL @ CLE W 28 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 8 2 1 1 2 13
+p534
+aVJ.J. Barea DAL 01/04/2015 DAL @ CLE W 21 14 6 7 85.7 2 3 66.7 0 0 - 0 2 2 4 0 0 2 4 8
+p535
+aVGreg Smith DAL 01/04/2015 DAL @ CLE W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p536
+aVChandler Parsons DAL 01/02/2015 DAL @ BOS W 35 13 4 9 44.4 2 4 50.0 3 4 75.0 3 4 7 2 0 1 3 4 7
+p537
+aVTyson Chandler DAL 01/02/2015 DAL @ BOS W 32 8 2 7 28.6 0 0 - 4 4 100.0 4 12 16 1 2 0 1 3 18
+p538
+aVJ.J. Barea DAL 01/02/2015 DAL @ BOS W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p539
+aVAl-Farouq Aminu DAL 01/02/2015 DAL @ BOS W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p540
+aVGreg Smith DAL 01/02/2015 DAL @ BOS W 14 6 3 4 75.0 0 0 - 0 0 - 2 1 3 1 1 0 1 2 -1
+p541
+aVDevin Harris DAL 01/02/2015 DAL @ BOS W 17 10 3 8 37.5 2 6 33.3 2 2 100.0 0 1 1 3 1 0 0 1 18
+p542
+aVCharlie Villanueva DAL 01/02/2015 DAL @ BOS W 8 0 0 3 0.0 0 1 0.0 0 0 - 3 0 3 0 0 0 2 0 5
+p543
+aVRajon Rondo DAL 01/02/2015 DAL @ BOS W 35 29 12 19 63.2 5 7 71.4 0 0 - 1 5 6 5 1 0 2 3 9
+p544
+aVMonta Ellis DAL 01/02/2015 DAL @ BOS W 34 22 8 17 47.1 2 3 66.7 4 4 100.0 0 5 5 4 2 0 0 2 5
+p545
+aVDwight Powell DAL 01/02/2015 DAL @ BOS W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p546
+aVRaymond Felton DAL 01/02/2015 DAL @ BOS W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p547
+aVRichard Jefferson DAL 01/02/2015 DAL @ BOS W 21 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 2 1 0 0 3 6
+p548
+aVDirk Nowitzki DAL 01/02/2015 DAL @ BOS W 30 17 7 19 36.8 0 2 0.0 3 3 100.0 2 5 7 4 0 0 2 2 17
+p549
+aVDevin Harris DAL 12/30/2014 DAL vs. WAS W 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 3 1 1 0 0 5
+p550
+aVCharlie Villanueva DAL 12/30/2014 DAL vs. WAS W 12 14 6 8 75.0 2 4 50.0 0 0 - 0 2 2 0 0 0 0 1 5
+p551
+aVRaymond Felton DAL 12/30/2014 DAL vs. WAS W 6 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p552
+aVRichard Jefferson DAL 12/30/2014 DAL vs. WAS W 24 14 6 9 66.7 2 2 100.0 0 0 - 1 3 4 1 1 0 0 3 13
+p553
+aVTyson Chandler DAL 12/30/2014 DAL vs. WAS W 22 2 1 2 50.0 0 0 - 0 0 - 1 11 12 1 0 1 1 0 18
+p554
+aVJ.J. Barea DAL 12/30/2014 DAL vs. WAS W 22 5 2 8 25.0 1 3 33.3 0 0 - 0 2 2 5 2 0 0 2 15
+p555
+aVAl-Farouq Aminu DAL 12/30/2014 DAL vs. WAS W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p556
+aVChandler Parsons DAL 12/30/2014 DAL vs. WAS W 28 14 5 8 62.5 2 2 100.0 2 4 50.0 0 2 2 1 1 1 0 1 20
+p557
+aVDirk Nowitzki DAL 12/30/2014 DAL vs. WAS W 27 13 2 8 25.0 0 0 - 9 10 90.0 0 8 8 2 0 1 1 3 17
+p558
+aVDwight Powell DAL 12/30/2014 DAL vs. WAS W 6 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 -1
+p559
+aVGreg Smith DAL 12/30/2014 DAL vs. WAS W 21 8 3 4 75.0 0 0 - 2 4 50.0 1 0 1 0 1 1 0 3 10
+p560
+aVMonta Ellis DAL 12/30/2014 DAL vs. WAS W 28 20 8 15 53.3 1 2 50.0 3 4 75.0 0 0 0 2 4 0 2 3 20
+p561
+aVRajon Rondo DAL 12/30/2014 DAL vs. WAS W 28 11 4 10 40.0 0 1 0.0 3 4 75.0 0 1 1 5 1 0 3 5 15
+p562
+aVMonta Ellis DAL 12/28/2014 DAL vs. OKC W 33 18 6 20 30.0 1 6 16.7 5 5 100.0 1 3 4 5 0 0 3 2 9
+p563
+aVJ.J. Barea DAL 12/28/2014 DAL vs. OKC W 23 9 3 5 60.0 1 2 50.0 2 2 100.0 1 3 4 2 1 0 2 3 -6
+p564
+aVRichard Jefferson DAL 12/28/2014 DAL vs. OKC W 22 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -3
+p565
+aVDirk Nowitzki DAL 12/28/2014 DAL vs. OKC W 29 30 8 13 61.5 2 3 66.7 12 12 100.0 0 5 5 2 1 2 1 5 16
+p566
+aVChandler Parsons DAL 12/28/2014 DAL vs. OKC W 35 26 10 16 62.5 5 9 55.6 1 1 100.0 1 4 5 3 2 0 0 2 7
+p567
+aVRaymond Felton DAL 12/28/2014 DAL vs. OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p568
+aVCharlie Villanueva DAL 12/28/2014 DAL vs. OKC W 15 7 3 11 27.3 1 7 14.3 0 0 - 0 3 3 0 0 2 0 1 1
+p569
+aVGreg Smith DAL 12/28/2014 DAL vs. OKC W 25 4 1 1 100.0 0 0 - 2 2 100.0 2 6 8 0 1 2 3 0 -9
+p570
+aVDevin Harris DAL 12/28/2014 DAL vs. OKC W 24 1 0 4 0.0 0 3 0.0 1 2 50.0 0 0 0 6 1 0 1 1 -2
+p571
+aVRajon Rondo DAL 12/28/2014 DAL vs. OKC W 34 15 7 17 41.2 0 1 0.0 1 4 25.0 2 4 6 7 2 0 2 1 17
+p572
+aVTyson Chandler DAL 12/26/2014 DAL vs. LAL W 31 15 5 7 71.4 0 0 - 5 7 71.4 3 9 12 1 0 1 4 4 11
+p573
+aVRichard Jefferson DAL 12/26/2014 DAL vs. LAL W 18 6 2 3 66.7 1 2 50.0 1 4 25.0 0 2 2 0 0 0 1 1 -8
+p574
+aVRajon Rondo DAL 12/26/2014 DAL vs. LAL W 35 21 10 17 58.8 1 1 100.0 0 2 0.0 2 6 8 7 1 0 4 2 7
+p575
+aVChandler Parsons DAL 12/26/2014 DAL vs. LAL W 33 12 6 9 66.7 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 5
+p576
+aVDirk Nowitzki DAL 12/26/2014 DAL vs. LAL W 24 14 5 13 38.5 0 1 0.0 4 4 100.0 0 8 8 0 1 0 0 1 10
+p577
+aVJ.J. Barea DAL 12/26/2014 DAL vs. LAL W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -4
+p578
+aVCharlie Villanueva DAL 12/26/2014 DAL vs. LAL W 21 13 5 9 55.6 3 6 50.0 0 0 - 1 2 3 1 0 4 0 2 1
+p579
+aVMonta Ellis DAL 12/26/2014 DAL vs. LAL W 34 15 6 12 50.0 0 2 0.0 3 5 60.0 0 0 0 7 3 0 2 2 5
+p580
+aVGreg Smith DAL 12/26/2014 DAL vs. LAL W 17 0 0 2 0.0 0 0 - 0 2 0.0 0 5 5 0 1 1 1 5 -7
+p581
+aVDevin Harris DAL 12/26/2014 DAL vs. LAL W 15 6 3 8 37.5 0 3 0.0 0 0 - 0 0 0 0 3 0 0 1 0
+p582
+aVJ.J. Barea DAL 12/23/2014 DAL @ PHX L 13 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 2
+p583
+aVDirk Nowitzki DAL 12/23/2014 DAL @ PHX L 29 22 7 12 58.3 2 3 66.7 6 7 85.7 0 5 5 1 1 0 2 3 -3
+p584
+aVChandler Parsons DAL 12/23/2014 DAL @ PHX L 25 7 3 9 33.3 1 5 20.0 0 0 - 2 6 8 2 0 0 6 2 -13
+p585
+aVDwight Powell DAL 12/23/2014 DAL @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p586
+aVRajon Rondo DAL 12/23/2014 DAL @ PHX L 31 13 6 14 42.9 1 1 100.0 0 0 - 2 4 6 8 1 0 5 6 -2
+p587
+aVRichard Jefferson DAL 12/23/2014 DAL @ PHX L 23 1 0 1 0.0 0 0 - 1 2 50.0 0 6 6 1 0 0 1 4 4
+p588
+aVGreg Smith DAL 12/23/2014 DAL @ PHX L 13 6 2 2 100.0 0 0 - 2 2 100.0 3 3 6 0 0 0 0 2 -3
+p589
+aVTyson Chandler DAL 12/23/2014 DAL @ PHX L 34 22 6 8 75.0 0 0 - 10 12 83.3 6 8 14 2 0 0 0 2 -3
+p590
+aVDevin Harris DAL 12/23/2014 DAL @ PHX L 17 3 1 5 20.0 0 2 0.0 1 2 50.0 0 0 0 1 0 0 2 3 -7
+p591
+aVMonta Ellis DAL 12/23/2014 DAL @ PHX L 35 15 5 17 29.4 1 4 25.0 4 4 100.0 0 0 0 6 2 1 3 1 -11
+p592
+aVCharlie Villanueva DAL 12/23/2014 DAL @ PHX L 20 18 7 13 53.8 4 9 44.4 0 0 - 1 3 4 0 0 0 0 3 -10
+p593
+aVDirk Nowitzki DAL 12/22/2014 DAL vs. ATL L 30 16 6 13 46.2 0 1 0.0 4 4 100.0 1 5 6 2 0 1 3 0 -13
+p594
+aVTyson Chandler DAL 12/22/2014 DAL vs. ATL L 34 8 3 4 75.0 0 0 - 2 4 50.0 4 15 19 0 0 2 2 0 -11
+p595
+aVCharlie Villanueva DAL 12/22/2014 DAL vs. ATL L 13 14 4 8 50.0 4 6 66.7 2 2 100.0 3 3 6 1 2 0 1 2 13
+p596
+aVRichard Jefferson DAL 12/22/2014 DAL vs. ATL L 19 10 4 7 57.1 1 2 50.0 1 2 50.0 0 1 1 2 1 0 1 4 6
+p597
+aVJ.J. Barea DAL 12/22/2014 DAL vs. ATL L 12 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 2 0 0 0 1 2
+p598
+aVChandler Parsons DAL 12/22/2014 DAL vs. ATL L 29 4 2 6 33.3 0 2 0.0 0 2 0.0 0 4 4 1 2 0 0 6 1
+p599
+aVRajon Rondo DAL 12/22/2014 DAL vs. ATL L 33 13 6 15 40.0 1 3 33.3 0 0 - 2 2 4 11 3 1 3 4 -3
+p600
+aVDevin Harris DAL 12/22/2014 DAL vs. ATL L 20 11 3 5 60.0 3 5 60.0 2 2 100.0 0 0 0 1 0 0 0 1 -8
+p601
+aVGreg Smith DAL 12/22/2014 DAL vs. ATL L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 3
+p602
+aVMonta Ellis DAL 12/22/2014 DAL vs. ATL L 36 18 8 22 36.4 1 6 16.7 1 2 50.0 2 0 2 2 4 0 5 5 -5
+p603
+aVAl-Farouq Aminu DAL 12/22/2014 DAL vs. ATL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -3
+p604
+aVRicky Ledo DAL 12/22/2014 DAL vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p605
+aVCharlie Villanueva DAL 12/20/2014 DAL vs. SAS W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p606
+aVChandler Parsons DAL 12/20/2014 DAL vs. SAS W 38 16 6 15 40.0 1 5 20.0 3 3 100.0 2 9 11 1 1 0 3 5 15
+p607
+aVRicky Ledo DAL 12/20/2014 DAL vs. SAS W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p608
+aVDirk Nowitzki DAL 12/20/2014 DAL vs. SAS W 33 13 4 14 28.6 0 3 0.0 5 5 100.0 1 2 3 3 0 0 1 4 5
+p609
+aVMonta Ellis DAL 12/20/2014 DAL vs. SAS W 40 38 15 23 65.2 5 6 83.3 3 6 50.0 0 0 0 1 4 0 2 1 15
+p610
+aVRajon Rondo DAL 12/20/2014 DAL vs. SAS W 34 6 3 11 27.3 0 1 0.0 0 0 - 2 5 7 9 2 0 4 4 17
+p611
+aVRichard Jefferson DAL 12/20/2014 DAL vs. SAS W 12 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -7
+p612
+aVGreg Smith DAL 12/20/2014 DAL vs. SAS W 10 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -6
+p613
+aVDevin Harris DAL 12/20/2014 DAL vs. SAS W 23 13 5 12 41.7 3 9 33.3 0 0 - 0 0 0 3 2 0 0 2 -9
+p614
+aVAl-Farouq Aminu DAL 12/20/2014 DAL vs. SAS W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 3
+p615
+aVTyson Chandler DAL 12/20/2014 DAL vs. SAS W 36 6 1 2 50.0 0 0 - 4 4 100.0 5 9 14 0 1 2 1 2 12
+p616
+aVJ.J. Barea DAL 12/20/2014 DAL vs. SAS W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -12
+p617
+aVTyson Chandler DAL 12/17/2014 DAL @ DET W 32 16 5 9 55.6 0 0 - 6 9 66.7 4 5 9 4 1 1 1 0 -1
+p618
+aVDirk Nowitzki DAL 12/17/2014 DAL @ DET W 31 18 5 10 50.0 2 4 50.0 6 6 100.0 0 10 10 2 1 0 1 1 13
+p619
+aVChandler Parsons DAL 12/17/2014 DAL @ DET W 35 32 10 17 58.8 4 6 66.7 8 9 88.9 3 4 7 2 2 0 2 0 15
+p620
+aVJ.J. Barea DAL 12/17/2014 DAL @ DET W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 3 0 0 2 1 0
+p621
+aVMonta Ellis DAL 12/17/2014 DAL @ DET W 35 25 11 20 55.0 1 2 50.0 2 4 50.0 0 2 2 8 1 0 3 3 12
+p622
+aVAl-Farouq Aminu DAL 12/17/2014 DAL @ DET W 5 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -4
+p623
+aVJae Crowder DAL 12/17/2014 DAL @ DET W 14 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 1 0 1 1 -2
+p624
+aVBrandan Wright DAL 12/17/2014 DAL @ DET W 20 10 4 5 80.0 0 0 - 2 3 66.7 1 4 5 0 0 3 0 3 14
+p625
+aVRichard Jefferson DAL 12/17/2014 DAL @ DET W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -1
+p626
+aVDevin Harris DAL 12/17/2014 DAL @ DET W 22 8 2 4 50.0 2 3 66.7 2 2 100.0 0 3 3 9 3 0 2 2 17
+p627
+aVJameer Nelson DAL 12/17/2014 DAL @ DET W 26 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 1 -8
+p628
+aVJ.J. Barea DAL 12/16/2014 DAL @ NYK W 17 10 4 7 57.1 2 2 100.0 0 0 - 1 0 1 5 0 0 0 0 2
+p629
+aVDevin Harris DAL 12/16/2014 DAL @ NYK W 18 11 4 6 66.7 3 5 60.0 0 0 - 0 4 4 2 0 0 2 0 -2
+p630
+aVDirk Nowitzki DAL 12/16/2014 DAL @ NYK W 23 16 5 11 45.5 1 4 25.0 5 5 100.0 0 5 5 5 1 0 2 1 14
+p631
+aVJae Crowder DAL 12/16/2014 DAL @ NYK W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -4
+p632
+aVAl-Farouq Aminu DAL 12/16/2014 DAL @ NYK W 25 7 3 7 42.9 1 3 33.3 0 0 - 2 2 4 0 2 1 3 3 2
+p633
+aVRichard Jefferson DAL 12/16/2014 DAL @ NYK W 20 9 3 7 42.9 2 5 40.0 1 1 100.0 1 1 2 2 1 0 2 2 8
+p634
+aVJameer Nelson DAL 12/16/2014 DAL @ NYK W 24 6 2 4 50.0 2 4 50.0 0 0 - 1 1 2 3 1 0 2 1 23
+p635
+aVBrandan Wright DAL 12/16/2014 DAL @ NYK W 18 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 11
+p636
+aVCharlie Villanueva DAL 12/16/2014 DAL @ NYK W 4 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 0 0 0 0 0 -3
+p637
+aVGreg Smith DAL 12/16/2014 DAL @ NYK W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p638
+aVChandler Parsons DAL 12/16/2014 DAL @ NYK W 23 13 5 12 41.7 3 6 50.0 0 0 - 0 3 3 6 1 1 0 1 16
+p639
+aVMonta Ellis DAL 12/16/2014 DAL @ NYK W 32 14 6 14 42.9 0 2 0.0 2 2 100.0 0 0 0 6 3 0 3 1 24
+p640
+aVTyson Chandler DAL 12/16/2014 DAL @ NYK W 25 8 4 5 80.0 0 0 - 0 0 - 3 11 14 1 0 1 0 4 14
+p641
+aVDevin Harris DAL 12/13/2014 DAL vs. GSW L 22 6 2 7 28.6 1 1 100.0 1 1 100.0 0 1 1 1 2 0 0 2 -18
+p642
+aVBrandan Wright DAL 12/13/2014 DAL vs. GSW L 12 7 2 3 66.7 0 0 - 3 3 100.0 3 2 5 0 1 0 1 0 6
+p643
+aVAl-Farouq Aminu DAL 12/13/2014 DAL vs. GSW L 8 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p644
+aVJameer Nelson DAL 12/13/2014 DAL vs. GSW L 28 6 2 7 28.6 0 3 0.0 2 2 100.0 2 2 4 5 1 0 2 3 3
+p645
+aVDirk Nowitzki DAL 12/13/2014 DAL vs. GSW L 33 23 11 20 55.0 0 0 - 1 2 50.0 5 3 8 1 1 0 3 1 5
+p646
+aVMonta Ellis DAL 12/13/2014 DAL vs. GSW L 34 24 8 22 36.4 2 8 25.0 6 7 85.7 0 1 1 5 3 0 3 5 -1
+p647
+aVJ.J. Barea DAL 12/13/2014 DAL vs. GSW L 17 6 2 7 28.6 0 3 0.0 2 3 66.7 1 2 3 1 0 0 2 3 -2
+p648
+aVTyson Chandler DAL 12/13/2014 DAL vs. GSW L 31 11 3 6 50.0 0 0 - 5 8 62.5 4 8 12 0 0 0 2 2 -11
+p649
+aVJae Crowder DAL 12/13/2014 DAL vs. GSW L 22 2 1 6 16.7 0 3 0.0 0 0 - 1 4 5 1 3 0 0 2 -9
+p650
+aVRichard Jefferson DAL 12/13/2014 DAL vs. GSW L 35 13 5 8 62.5 2 4 50.0 1 4 25.0 1 12 13 0 0 0 2 5 -4
+p651
+aVTyson Chandler DAL 12/10/2014 DAL vs. NOP W 31 9 4 7 57.1 0 0 - 1 1 100.0 2 4 6 1 0 2 0 2 6
+p652
+aVMonta Ellis DAL 12/10/2014 DAL vs. NOP W 38 26 11 19 57.9 2 2 100.0 2 3 66.7 0 4 4 5 1 1 2 2 3
+p653
+aVRichard Jefferson DAL 12/10/2014 DAL vs. NOP W 9 4 1 2 50.0 0 1 0.0 2 2 100.0 1 3 4 2 1 0 0 1 5
+p654
+aVJ.J. Barea DAL 12/10/2014 DAL vs. NOP W 23 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -4
+p655
+aVDirk Nowitzki DAL 12/10/2014 DAL vs. NOP W 31 20 8 16 50.0 0 1 0.0 4 4 100.0 2 4 6 2 1 0 3 0 -4
+p656
+aVBrandan Wright DAL 12/10/2014 DAL vs. NOP W 19 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 -6
+p657
+aVAl-Farouq Aminu DAL 12/10/2014 DAL vs. NOP W 15 3 0 0 - 0 0 - 3 4 75.0 0 2 2 0 0 1 1 3 8
+p658
+aVChandler Parsons DAL 12/10/2014 DAL vs. NOP W 34 20 8 13 61.5 3 6 50.0 1 1 100.0 0 2 2 2 1 1 1 1 7
+p659
+aVJae Crowder DAL 12/10/2014 DAL vs. NOP W 15 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 3 1
+p660
+aVDevin Harris DAL 12/10/2014 DAL vs. NOP W 26 20 8 13 61.5 3 7 42.9 1 1 100.0 0 2 2 3 1 0 1 4 9
+p661
+aVGreg Smith DAL 12/09/2014 DAL @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p662
+aVDevin Harris DAL 12/09/2014 DAL @ MEM L 26 6 2 4 50.0 1 3 33.3 1 2 50.0 1 2 3 2 0 0 2 4 -3
+p663
+aVJae Crowder DAL 12/09/2014 DAL @ MEM L 24 13 5 6 83.3 3 3 100.0 0 0 - 3 3 6 1 2 1 1 4 0
+p664
+aVDirk Nowitzki DAL 12/09/2014 DAL @ MEM L 32 11 4 17 23.5 0 6 0.0 3 3 100.0 0 6 6 4 0 1 2 2 -15
+p665
+aVJ.J. Barea DAL 12/09/2014 DAL @ MEM L 21 17 7 16 43.8 3 8 37.5 0 0 - 0 3 3 1 0 0 2 1 -7
+p666
+aVTyson Chandler DAL 12/09/2014 DAL @ MEM L 32 0 0 1 0.0 0 0 - 0 0 - 4 5 9 1 0 2 2 3 1
+p667
+aVMonta Ellis DAL 12/09/2014 DAL @ MEM L 25 2 1 11 9.1 0 3 0.0 0 0 - 0 1 1 2 0 0 3 1 -7
+p668
+aVBrandan Wright DAL 12/09/2014 DAL @ MEM L 21 5 2 2 100.0 0 0 - 1 2 50.0 3 1 4 1 0 2 0 3 -10
+p669
+aVCharlie Villanueva DAL 12/09/2014 DAL @ MEM L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p670
+aVChandler Parsons DAL 12/09/2014 DAL @ MEM L 34 30 10 18 55.6 6 10 60.0 4 5 80.0 1 6 7 3 2 1 1 0 -5
+p671
+aVJameer Nelson DAL 12/09/2014 DAL @ MEM L 24 18 6 9 66.7 4 6 66.7 2 2 100.0 0 4 4 4 0 0 3 4 -3
+p672
+aVJameer Nelson DAL 12/07/2014 DAL vs. MIL W 17 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 5 0 0 1 3 -11
+p673
+aVGreg Smith DAL 12/07/2014 DAL vs. MIL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p674
+aVDevin Harris DAL 12/07/2014 DAL vs. MIL W 23 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 1 0 0 0 0 25
+p675
+aVChandler Parsons DAL 12/07/2014 DAL vs. MIL W 31 28 11 14 78.6 4 6 66.7 2 4 50.0 1 4 5 1 0 1 2 1 15
+p676
+aVBrandan Wright DAL 12/07/2014 DAL vs. MIL W 21 8 4 6 66.7 0 0 - 0 0 - 2 5 7 2 4 3 1 1 9
+p677
+aVJ.J. Barea DAL 12/07/2014 DAL vs. MIL W 23 9 4 9 44.4 1 5 20.0 0 0 - 0 0 0 9 1 0 0 4 8
+p678
+aVTyson Chandler DAL 12/07/2014 DAL vs. MIL W 24 7 2 3 66.7 0 0 - 3 3 100.0 0 7 7 2 3 2 2 0 11
+p679
+aVJae Crowder DAL 12/07/2014 DAL vs. MIL W 26 9 4 10 40.0 1 3 33.3 0 0 - 1 1 2 3 3 1 2 2 20
+p680
+aVMonta Ellis DAL 12/07/2014 DAL vs. MIL W 29 19 7 13 53.8 1 5 20.0 4 6 66.7 2 2 4 4 2 1 2 0 20
+p681
+aVRichard Jefferson DAL 12/07/2014 DAL vs. MIL W 5 10 4 4 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p682
+aVDirk Nowitzki DAL 12/07/2014 DAL vs. MIL W 26 21 8 12 66.7 1 4 25.0 4 4 100.0 1 3 4 0 1 0 1 1 6
+p683
+aVAl-Farouq Aminu DAL 12/07/2014 DAL vs. MIL W 13 4 1 4 25.0 0 1 0.0 2 2 100.0 1 4 5 2 0 0 0 1 5
+p684
+aVRichard Jefferson DAL 12/05/2014 DAL vs. PHX L 17 4 1 6 16.7 0 0 - 2 4 50.0 0 1 1 1 2 0 1 1 4
+p685
+aVMonta Ellis DAL 12/05/2014 DAL vs. PHX L 37 33 14 22 63.6 2 5 40.0 3 5 60.0 0 2 2 2 0 1 2 2 -7
+p686
+aVJameer Nelson DAL 12/05/2014 DAL vs. PHX L 24 5 2 8 25.0 1 4 25.0 0 0 - 3 2 5 3 0 0 2 2 -4
+p687
+aVJ.J. Barea DAL 12/05/2014 DAL vs. PHX L 11 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 2 -4
+p688
+aVCharlie Villanueva DAL 12/05/2014 DAL vs. PHX L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p689
+aVDirk Nowitzki DAL 12/05/2014 DAL vs. PHX L 32 10 2 10 20.0 0 0 - 6 7 85.7 0 4 4 0 0 0 1 2 -7
+p690
+aVAl-Farouq Aminu DAL 12/05/2014 DAL vs. PHX L 10 1 0 4 0.0 0 3 0.0 1 2 50.0 0 3 3 1 1 0 0 0 -9
+p691
+aVBrandan Wright DAL 12/05/2014 DAL vs. PHX L 16 8 4 4 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 -3
+p692
+aVGreg Smith DAL 12/05/2014 DAL vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p693
+aVTyson Chandler DAL 12/05/2014 DAL vs. PHX L 31 15 6 7 85.7 0 0 - 3 3 100.0 9 9 18 0 1 0 1 2 -11
+p694
+aVChandler Parsons DAL 12/05/2014 DAL vs. PHX L 34 15 6 14 42.9 1 4 25.0 2 3 66.7 1 2 3 2 0 0 0 3 -8
+p695
+aVJae Crowder DAL 12/05/2014 DAL vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p696
+aVDevin Harris DAL 12/05/2014 DAL vs. PHX L 24 10 3 8 37.5 0 2 0.0 4 4 100.0 1 1 2 1 1 0 2 2 -7
+p697
+aVTyson Chandler DAL 12/03/2014 DAL @ MIL W 33 18 8 11 72.7 0 0 - 2 6 33.3 10 10 20 0 1 1 4 1 9
+p698
+aVAl-Farouq Aminu DAL 12/03/2014 DAL @ MIL W 28 13 5 11 45.5 2 5 40.0 1 1 100.0 3 2 5 1 1 3 1 2 6
+p699
+aVChandler Parsons DAL 12/03/2014 DAL @ MIL W 35 14 6 17 35.3 1 6 16.7 1 2 50.0 2 6 8 4 2 0 4 4 13
+p700
+aVMonta Ellis DAL 12/03/2014 DAL @ MIL W 36 23 11 26 42.3 0 3 0.0 1 1 100.0 0 2 2 7 3 1 0 3 8
+p701
+aVJae Crowder DAL 12/03/2014 DAL @ MIL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p702
+aVJ.J. Barea DAL 12/03/2014 DAL @ MIL W 12 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 3 -6
+p703
+aVDevin Harris DAL 12/03/2014 DAL @ MIL W 18 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 3 0 0 3 2 -7
+p704
+aVRichard Jefferson DAL 12/03/2014 DAL @ MIL W 23 10 2 5 40.0 1 3 33.3 5 6 83.3 0 0 0 2 0 0 1 1 -6
+p705
+aVBrandan Wright DAL 12/03/2014 DAL @ MIL W 15 7 2 3 66.7 0 0 - 3 4 75.0 1 2 3 0 0 1 0 1 -7
+p706
+aVCharlie Villanueva DAL 12/03/2014 DAL @ MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p707
+aVJameer Nelson DAL 12/03/2014 DAL @ MIL W 30 13 5 7 71.4 3 5 60.0 0 0 - 1 3 4 3 1 0 3 4 9
+p708
+aVTyson Chandler DAL 12/02/2014 DAL @ CHI W 40 5 1 2 50.0 0 0 - 3 6 50.0 4 10 14 3 1 2 2 5 -2
+p709
+aVDirk Nowitzki DAL 12/02/2014 DAL @ CHI W 42 22 8 22 36.4 2 6 33.3 4 4 100.0 1 6 7 10 0 0 1 4 18
+p710
+aVDevin Harris DAL 12/02/2014 DAL @ CHI W 35 20 7 10 70.0 6 6 100.0 0 0 - 0 4 4 8 1 0 1 4 1
+p711
+aVMonta Ellis DAL 12/02/2014 DAL @ CHI W 45 38 16 35 45.7 1 4 25.0 5 5 100.0 1 1 2 1 2 0 3 4 -9
+p712
+aVChandler Parsons DAL 12/02/2014 DAL @ CHI W 45 24 7 16 43.8 3 7 42.9 7 8 87.5 1 6 7 2 3 0 2 2 -9
+p713
+aVAl-Farouq Aminu DAL 12/02/2014 DAL @ CHI W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p714
+aVJ.J. Barea DAL 12/02/2014 DAL @ CHI W 13 13 5 8 62.5 1 2 50.0 2 2 100.0 1 0 1 0 0 0 1 1 14
+p715
+aVJae Crowder DAL 12/02/2014 DAL @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p716
+aVRichard Jefferson DAL 12/02/2014 DAL @ CHI W 17 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 2 0 0 1 4 9
+p717
+aVJameer Nelson DAL 12/02/2014 DAL @ CHI W 23 3 1 4 25.0 1 3 33.3 0 0 - 2 2 4 3 1 1 2 1 2
+p718
+aVBrandan Wright DAL 12/02/2014 DAL @ CHI W 23 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 1 3 0 2 -4
+p719
+aVTyson Chandler DAL 11/29/2014 DAL @ PHI W 32 20 7 9 77.8 0 0 - 6 7 85.7 7 6 13 3 4 0 1 2 29
+p720
+aVJae Crowder DAL 11/29/2014 DAL @ PHI W 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 1 -8
+p721
+aVChandler Parsons DAL 11/29/2014 DAL @ PHI W 36 17 7 19 36.8 3 10 30.0 0 0 - 1 5 6 5 0 0 1 1 17
+p722
+aVRichard Jefferson DAL 11/29/2014 DAL @ PHI W 26 10 3 6 50.0 1 3 33.3 3 6 50.0 1 1 2 3 0 0 0 1 -6
+p723
+aVBrandan Wright DAL 11/29/2014 DAL @ PHI W 19 6 3 4 75.0 0 0 - 0 1 0.0 0 1 1 1 1 4 1 3 -18
+p724
+aVAl-Farouq Aminu DAL 11/29/2014 DAL @ PHI W 21 6 2 7 28.6 0 3 0.0 2 2 100.0 0 3 3 1 1 0 0 1 2
+p725
+aVCharlie Villanueva DAL 11/29/2014 DAL @ PHI W 9 11 4 7 57.1 3 4 75.0 0 0 - 0 1 1 1 0 0 1 3 4
+p726
+aVMonta Ellis DAL 11/29/2014 DAL @ PHI W 36 18 6 14 42.9 0 2 0.0 6 7 85.7 1 3 4 5 3 0 4 3 1
+p727
+aVDevin Harris DAL 11/29/2014 DAL @ PHI W 31 15 6 13 46.2 1 3 33.3 2 3 66.7 1 4 5 5 1 1 3 3 18
+p728
+aVJ.J. Barea DAL 11/29/2014 DAL @ PHI W 23 7 2 8 25.0 0 4 0.0 3 4 75.0 1 3 4 3 2 0 1 4 -4
+p729
+aVDevin Harris DAL 11/28/2014 DAL @ TOR W 33 8 1 4 25.0 1 3 33.3 5 6 83.3 0 2 2 6 1 1 2 3 6
+p730
+aVMonta Ellis DAL 11/28/2014 DAL @ TOR W 36 30 12 25 48.0 3 5 60.0 3 4 75.0 0 1 1 6 3 1 3 1 -2
+p731
+aVJae Crowder DAL 11/28/2014 DAL @ TOR W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 0
+p732
+aVJ.J. Barea DAL 11/28/2014 DAL @ TOR W 23 5 2 6 33.3 1 3 33.3 0 0 - 1 4 5 9 3 0 1 2 3
+p733
+aVChandler Parsons DAL 11/28/2014 DAL @ TOR W 36 16 6 11 54.5 2 4 50.0 2 3 66.7 1 6 7 2 0 0 0 3 14
+p734
+aVAl-Farouq Aminu DAL 11/28/2014 DAL @ TOR W 24 14 5 6 83.3 2 3 66.7 2 4 50.0 0 2 2 2 0 1 0 3 5
+p735
+aVTyson Chandler DAL 11/28/2014 DAL @ TOR W 35 11 5 7 71.4 0 0 - 1 2 50.0 3 7 10 1 0 4 1 0 12
+p736
+aVBrandan Wright DAL 11/28/2014 DAL @ TOR W 15 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -5
+p737
+aVDirk Nowitzki DAL 11/28/2014 DAL @ TOR W 32 15 6 19 31.6 1 7 14.3 2 3 66.7 0 8 8 1 0 1 0 2 -13
+p738
+aVTyson Chandler DAL 11/26/2014 DAL vs. NYK W 43 17 7 12 58.3 0 0 - 3 5 60.0 10 15 25 1 1 2 2 3 14
+p739
+aVBrandan Wright DAL 11/26/2014 DAL vs. NYK W 18 6 3 7 42.9 0 0 - 0 0 - 5 2 7 0 2 1 1 3 -1
+p740
+aVChandler Parsons DAL 11/26/2014 DAL vs. NYK W 44 13 4 14 28.6 1 8 12.5 4 7 57.1 0 5 5 1 1 0 2 0 6
+p741
+aVMonta Ellis DAL 11/26/2014 DAL vs. NYK W 40 8 3 13 23.1 0 3 0.0 2 2 100.0 0 2 2 6 3 1 3 5 2
+p742
+aVRichard Jefferson DAL 11/26/2014 DAL vs. NYK W 1 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 -2
+p743
+aVAl-Farouq Aminu DAL 11/26/2014 DAL vs. NYK W 15 6 3 4 75.0 0 1 0.0 0 0 - 2 2 4 0 0 0 2 0 -8
+p744
+aVDevin Harris DAL 11/26/2014 DAL vs. NYK W 40 9 2 10 20.0 1 5 20.0 4 6 66.7 0 2 2 8 2 1 1 1 5
+p745
+aVJae Crowder DAL 11/26/2014 DAL vs. NYK W 12 7 2 4 50.0 0 2 0.0 3 3 100.0 2 1 3 0 0 0 0 1 0
+p746
+aVDirk Nowitzki DAL 11/26/2014 DAL vs. NYK W 39 30 11 24 45.8 1 8 12.5 7 7 100.0 0 6 6 2 3 0 0 3 9
+p747
+aVJ.J. Barea DAL 11/26/2014 DAL vs. NYK W 15 10 3 7 42.9 1 4 25.0 3 4 75.0 1 0 1 2 0 0 0 0 10
+p748
+aVChandler Parsons DAL 11/24/2014 DAL vs. IND L 35 16 6 13 46.2 3 6 50.0 1 2 50.0 0 3 3 1 2 1 1 6 -6
+p749
+aVBrandan Wright DAL 11/24/2014 DAL vs. IND L 25 13 6 6 100.0 0 0 - 1 2 50.0 1 3 4 0 0 2 2 1 -5
+p750
+aVDevin Harris DAL 11/24/2014 DAL vs. IND L 19 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 4 -14
+p751
+aVDirk Nowitzki DAL 11/24/2014 DAL vs. IND L 33 22 9 17 52.9 2 4 50.0 2 2 100.0 1 10 11 1 0 1 1 1 -17
+p752
+aVJae Crowder DAL 11/24/2014 DAL vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -8
+p753
+aVJameer Nelson DAL 11/24/2014 DAL vs. IND L 29 10 4 11 36.4 2 8 25.0 0 0 - 0 3 3 5 1 0 0 4 3
+p754
+aVMonta Ellis DAL 11/24/2014 DAL vs. IND L 37 24 9 19 47.4 1 5 20.0 5 8 62.5 0 3 3 6 2 0 5 3 -6
+p755
+aVTyson Chandler DAL 11/24/2014 DAL vs. IND L 31 6 2 3 66.7 0 0 - 2 4 50.0 4 5 9 1 0 1 0 4 5
+p756
+aVAl-Farouq Aminu DAL 11/24/2014 DAL vs. IND L 14 3 1 1 100.0 0 0 - 1 1 100.0 0 3 3 0 1 1 0 1 -2
+p757
+aVJ.J. Barea DAL 11/24/2014 DAL vs. IND L 11 4 2 5 40.0 0 0 - 0 2 0.0 0 1 1 4 0 0 0 2 -5
+p758
+aVCharlie Villanueva DAL 11/24/2014 DAL vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p759
+aVDirk Nowitzki DAL 11/22/2014 DAL @ HOU L 31 11 4 18 22.2 0 8 0.0 3 4 75.0 2 5 7 2 0 2 0 2 -5
+p760
+aVAl-Farouq Aminu DAL 11/22/2014 DAL @ HOU L 19 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 1 0 1 2 -2
+p761
+aVJ.J. Barea DAL 11/22/2014 DAL @ HOU L 17 7 3 5 60.0 0 1 0.0 1 1 100.0 0 1 1 2 1 0 1 2 -3
+p762
+aVChandler Parsons DAL 11/22/2014 DAL @ HOU L 34 8 3 9 33.3 0 5 0.0 2 5 40.0 2 6 8 1 1 0 1 5 -4
+p763
+aVDevin Harris DAL 11/22/2014 DAL @ HOU L 24 9 2 7 28.6 2 6 33.3 3 3 100.0 0 0 0 1 1 0 2 1 8
+p764
+aVTyson Chandler DAL 11/22/2014 DAL @ HOU L 26 13 5 7 71.4 0 0 - 3 3 100.0 3 10 13 1 0 0 2 2 -4
+p765
+aVJameer Nelson DAL 11/22/2014 DAL @ HOU L 28 11 4 9 44.4 3 6 50.0 0 0 - 0 2 2 6 0 0 2 3 0
+p766
+aVBrandan Wright DAL 11/22/2014 DAL @ HOU L 22 14 6 7 85.7 0 0 - 2 2 100.0 6 5 11 0 0 3 0 0 1
+p767
+aVRichard Jefferson DAL 11/22/2014 DAL @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 0
+p768
+aVMonta Ellis DAL 11/22/2014 DAL @ HOU L 35 17 7 21 33.3 1 6 16.7 2 4 50.0 3 3 6 4 1 0 4 3 -6
+p769
+aVJ.J. Barea DAL 11/21/2014 DAL vs. LAL W 22 16 5 7 71.4 5 5 100.0 1 2 50.0 1 1 2 8 0 0 2 2 18
+p770
+aVJae Crowder DAL 11/21/2014 DAL vs. LAL W 20 10 4 7 57.1 2 5 40.0 0 1 0.0 1 3 4 1 1 1 0 1 13
+p771
+aVBrandan Wright DAL 11/21/2014 DAL vs. LAL W 19 12 5 5 100.0 0 0 - 2 2 100.0 3 0 3 1 2 0 0 1 24
+p772
+aVTyson Chandler DAL 11/21/2014 DAL vs. LAL W 22 5 1 1 100.0 0 0 - 3 4 75.0 2 2 4 1 0 0 0 2 13
+p773
+aVCharlie Villanueva DAL 11/21/2014 DAL vs. LAL W 8 4 2 6 33.3 0 3 0.0 0 0 - 0 3 3 0 0 0 0 0 3
+p774
+aVDirk Nowitzki DAL 11/21/2014 DAL vs. LAL W 21 23 8 10 80.0 2 2 100.0 5 6 83.3 0 2 2 2 0 1 0 0 6
+p775
+aVJameer Nelson DAL 11/21/2014 DAL vs. LAL W 26 10 4 8 50.0 2 5 40.0 0 0 - 0 4 4 7 1 0 2 1 16
+p776
+aVChandler Parsons DAL 11/21/2014 DAL vs. LAL W 29 21 8 13 61.5 2 6 33.3 3 4 75.0 1 1 2 3 0 0 1 0 23
+p777
+aVAl-Farouq Aminu DAL 11/21/2014 DAL vs. LAL W 16 13 5 9 55.6 1 3 33.3 2 4 50.0 1 5 6 1 0 0 1 2 16
+p778
+aVGreg Smith DAL 11/21/2014 DAL vs. LAL W 11 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 3 6
+p779
+aVRichard Jefferson DAL 11/21/2014 DAL vs. LAL W 18 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 2 0 0 1 3 10
+p780
+aVMonta Ellis DAL 11/21/2014 DAL vs. LAL W 29 20 7 10 70.0 3 4 75.0 3 3 100.0 0 3 3 10 0 0 2 1 22
+p781
+aVJae Crowder DAL 11/19/2014 DAL @ WAS W 11 5 1 2 50.0 1 2 50.0 2 2 100.0 1 0 1 0 0 0 0 0 -5
+p782
+aVMonta Ellis DAL 11/19/2014 DAL @ WAS W 37 34 10 21 47.6 2 4 50.0 12 14 85.7 0 1 1 4 1 0 4 3 6
+p783
+aVRichard Jefferson DAL 11/19/2014 DAL @ WAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p784
+aVTyson Chandler DAL 11/19/2014 DAL @ WAS W 34 5 2 4 50.0 0 0 - 1 1 100.0 3 13 16 1 1 3 1 1 11
+p785
+aVBrandan Wright DAL 11/19/2014 DAL @ WAS W 24 14 6 7 85.7 0 0 - 2 2 100.0 2 4 6 0 1 1 0 2 -9
+p786
+aVGreg Smith DAL 11/19/2014 DAL @ WAS W 3 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -2
+p787
+aVChandler Parsons DAL 11/19/2014 DAL @ WAS W 37 11 4 12 33.3 3 8 37.5 0 0 - 1 2 3 1 0 0 1 2 -2
+p788
+aVJ.J. Barea DAL 11/19/2014 DAL @ WAS W 23 14 4 8 50.0 1 3 33.3 5 6 83.3 0 4 4 6 0 0 2 3 0
+p789
+aVAl-Farouq Aminu DAL 11/19/2014 DAL @ WAS W 13 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 0 0 1 0 1 -1
+p790
+aVDirk Nowitzki DAL 11/19/2014 DAL @ WAS W 28 13 4 12 33.3 3 4 75.0 2 2 100.0 0 4 4 2 1 0 0 3 10
+p791
+aVJameer Nelson DAL 11/19/2014 DAL @ WAS W 25 5 2 12 16.7 1 5 20.0 0 0 - 0 2 2 4 1 0 4 2 3
+p792
+aVJ.J. Barea DAL 11/17/2014 DAL @ CHA W 19 8 4 6 66.7 0 1 0.0 0 0 - 1 1 2 7 0 0 1 0 5
+p793
+aVDirk Nowitzki DAL 11/17/2014 DAL @ CHA W 25 13 6 14 42.9 1 5 20.0 0 0 - 0 5 5 1 0 1 1 3 19
+p794
+aVMonta Ellis DAL 11/17/2014 DAL @ CHA W 30 18 7 17 41.2 0 2 0.0 4 6 66.7 0 2 2 2 1 0 1 2 23
+p795
+aVJae Crowder DAL 11/17/2014 DAL @ CHA W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 0
+p796
+aVTyson Chandler DAL 11/17/2014 DAL @ CHA W 23 14 7 7 100.0 0 0 - 0 0 - 2 7 9 3 0 0 0 1 13
+p797
+aVBrandan Wright DAL 11/17/2014 DAL @ CHA W 17 10 4 7 57.1 0 0 - 2 4 50.0 3 0 3 0 2 1 1 2 15
+p798
+aVJameer Nelson DAL 11/17/2014 DAL @ CHA W 25 11 4 6 66.7 3 4 75.0 0 0 - 1 1 2 8 2 0 1 2 19
+p799
+aVChandler Parsons DAL 11/17/2014 DAL @ CHA W 31 17 5 10 50.0 4 9 44.4 3 4 75.0 0 9 9 6 1 0 0 2 22
+p800
+aVGreg Smith DAL 11/17/2014 DAL @ CHA W 9 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -2
+p801
+aVAl-Farouq Aminu DAL 11/17/2014 DAL @ CHA W 30 9 3 8 37.5 1 2 50.0 2 2 100.0 1 10 11 0 0 2 0 1 17
+p802
+aVCharlie Villanueva DAL 11/17/2014 DAL @ CHA W 8 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -3
+p803
+aVDevin Harris DAL 11/17/2014 DAL @ CHA W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 5 0 0 0 1 7
+p804
+aVGreg Smith DAL 11/15/2014 DAL vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p805
+aVJ.J. Barea DAL 11/15/2014 DAL vs. MIN W 21 14 4 9 44.4 0 0 - 6 6 100.0 0 1 1 5 1 0 0 4 4
+p806
+aVCharlie Villanueva DAL 11/15/2014 DAL vs. MIN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p807
+aVRichard Jefferson DAL 11/15/2014 DAL vs. MIN W 12 10 4 5 80.0 0 1 0.0 2 4 50.0 0 1 1 1 0 1 2 0 -5
+p808
+aVMonta Ellis DAL 11/15/2014 DAL vs. MIN W 35 30 11 21 52.4 3 7 42.9 5 5 100.0 0 0 0 3 1 0 3 3 16
+p809
+aVDevin Harris DAL 11/15/2014 DAL vs. MIN W 21 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 5 0 1 0 4 7
+p810
+aVAl-Farouq Aminu DAL 11/15/2014 DAL vs. MIN W 23 10 5 7 71.4 0 2 0.0 0 0 - 1 5 6 1 3 2 0 2 5
+p811
+aVDirk Nowitzki DAL 11/15/2014 DAL vs. MIN W 23 15 6 9 66.7 1 3 33.3 2 2 100.0 0 3 3 1 0 0 0 1 18
+p812
+aVChandler Parsons DAL 11/15/2014 DAL vs. MIN W 29 12 5 12 41.7 1 4 25.0 1 2 50.0 2 3 5 5 0 1 1 2 11
+p813
+aVJae Crowder DAL 11/15/2014 DAL vs. MIN W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 1 0 0 -8
+p814
+aVTyson Chandler DAL 11/15/2014 DAL vs. MIN W 24 12 5 7 71.4 0 0 - 2 2 100.0 7 9 16 2 0 3 0 2 19
+p815
+aVBrandan Wright DAL 11/15/2014 DAL vs. MIN W 21 13 6 6 100.0 0 0 - 1 2 50.0 2 3 5 1 0 1 1 3 2
+p816
+aVJameer Nelson DAL 11/15/2014 DAL vs. MIN W 22 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 6 0 0 0 3 10
+p817
+aVRichard Jefferson DAL 11/13/2014 DAL vs. PHI W 17 8 3 6 50.0 1 2 50.0 1 1 100.0 1 6 7 1 0 1 3 4 4
+p818
+aVGreg Smith DAL 11/13/2014 DAL vs. PHI W 13 5 1 1 100.0 0 0 - 3 4 75.0 1 2 3 0 1 0 0 4 14
+p819
+aVTyson Chandler DAL 11/13/2014 DAL vs. PHI W 19 9 3 4 75.0 0 0 - 3 3 100.0 1 9 10 2 0 0 2 2 23
+p820
+aVBrandan Wright DAL 11/13/2014 DAL vs. PHI W 16 14 4 7 57.1 0 0 - 6 7 85.7 2 3 5 0 1 2 0 3 16
+p821
+aVChandler Parsons DAL 11/13/2014 DAL vs. PHI W 28 14 4 7 57.1 2 5 40.0 4 6 66.7 2 4 6 3 0 0 0 1 19
+p822
+aVAl-Farouq Aminu DAL 11/13/2014 DAL vs. PHI W 15 3 1 6 16.7 1 4 25.0 0 0 - 2 2 4 1 2 2 3 1 26
+p823
+aVJ.J. Barea DAL 11/13/2014 DAL vs. PHI W 20 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 11 1 0 1 1 32
+p824
+aVJae Crowder DAL 11/13/2014 DAL vs. PHI W 18 6 2 7 28.6 1 4 25.0 1 1 100.0 0 0 0 1 3 0 0 1 19
+p825
+aVMonta Ellis DAL 11/13/2014 DAL vs. PHI W 29 17 7 12 58.3 2 4 50.0 1 2 50.0 0 4 4 4 3 0 3 3 23
+p826
+aVCharlie Villanueva DAL 11/13/2014 DAL vs. PHI W 8 10 4 6 66.7 2 4 50.0 0 0 - 0 2 2 0 0 0 1 0 11
+p827
+aVDirk Nowitzki DAL 11/13/2014 DAL vs. PHI W 20 21 7 8 87.5 1 2 50.0 6 7 85.7 0 3 3 4 0 0 1 1 33
+p828
+aVDevin Harris DAL 11/13/2014 DAL vs. PHI W 12 7 2 3 66.7 1 2 50.0 2 2 100.0 0 2 2 1 2 0 0 0 28
+p829
+aVJameer Nelson DAL 11/13/2014 DAL vs. PHI W 24 2 0 6 0.0 0 4 0.0 2 2 100.0 0 2 2 5 1 0 1 4 17
+p830
+aVDevin Harris DAL 11/11/2014 DAL vs. SAC W 33 12 4 7 57.1 0 1 0.0 4 4 100.0 0 2 2 5 3 0 2 4 -7
+p831
+aVBrandan Wright DAL 11/11/2014 DAL vs. SAC W 16 10 4 4 100.0 0 0 - 2 2 100.0 0 0 0 0 0 3 0 2 -1
+p832
+aVJameer Nelson DAL 11/11/2014 DAL vs. SAC W 26 5 2 7 28.6 1 4 25.0 0 0 - 1 4 5 5 0 0 1 2 2
+p833
+aVJ.J. Barea DAL 11/11/2014 DAL vs. SAC W 8 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 1 1 0 0 3 0
+p834
+aVTyson Chandler DAL 11/11/2014 DAL vs. SAC W 33 14 5 8 62.5 0 0 - 4 5 80.0 5 6 11 1 1 2 2 4 17
+p835
+aVDirk Nowitzki DAL 11/11/2014 DAL vs. SAC W 34 23 7 12 58.3 2 3 66.7 7 8 87.5 0 7 7 3 0 1 2 2 9
+p836
+aVMonta Ellis DAL 11/11/2014 DAL vs. SAC W 29 16 7 16 43.8 1 4 25.0 1 3 33.3 1 1 2 4 2 1 3 3 21
+p837
+aVGreg Smith DAL 11/11/2014 DAL vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p838
+aVChandler Parsons DAL 11/11/2014 DAL vs. SAC W 36 19 7 19 36.8 5 11 45.5 0 0 - 2 2 4 3 1 0 0 5 10
+p839
+aVJae Crowder DAL 11/11/2014 DAL vs. SAC W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p840
+aVAl-Farouq Aminu DAL 11/11/2014 DAL vs. SAC W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 3 -1
+p841
+aVTyson Chandler DAL 11/09/2014 DAL vs. MIA L 30 16 7 10 70.0 0 0 - 2 3 66.7 10 5 15 2 0 1 3 1 -2
+p842
+aVAl-Farouq Aminu DAL 11/09/2014 DAL vs. MIA L 18 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 1 0 1 -18
+p843
+aVCharlie Villanueva DAL 11/09/2014 DAL vs. MIA L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p844
+aVDevin Harris DAL 11/09/2014 DAL vs. MIA L 21 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 2 1 1 0 0 -18
+p845
+aVJ.J. Barea DAL 11/09/2014 DAL vs. MIA L 13 3 1 9 11.1 1 3 33.3 0 0 - 0 1 1 2 2 0 0 0 -7
+p846
+aVDirk Nowitzki DAL 11/09/2014 DAL vs. MIA L 30 17 6 15 40.0 2 3 66.7 3 4 75.0 0 6 6 3 1 1 1 0 -11
+p847
+aVMonta Ellis DAL 11/09/2014 DAL vs. MIA L 34 23 8 14 57.1 2 5 40.0 5 6 83.3 1 1 2 5 0 0 2 5 1
+p848
+aVJameer Nelson DAL 11/09/2014 DAL vs. MIA L 28 11 4 9 44.4 2 7 28.6 1 2 50.0 0 2 2 5 1 0 4 2 6
+p849
+aVChandler Parsons DAL 11/09/2014 DAL vs. MIA L 29 4 1 9 11.1 0 4 0.0 2 2 100.0 2 4 6 1 2 3 2 2 9
+p850
+aVBrandan Wright DAL 11/09/2014 DAL vs. MIA L 18 4 2 2 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 2 -7
+p851
+aVRichard Jefferson DAL 11/09/2014 DAL vs. MIA L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 1 0 0 1 -5
+p852
+aVJae Crowder DAL 11/09/2014 DAL vs. MIA L 12 15 5 6 83.3 2 2 100.0 3 3 100.0 1 0 1 1 0 0 0 1 7
+p853
+aVCharlie Villanueva DAL 11/07/2014 DAL @ UTA W 5 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -6
+p854
+aVDirk Nowitzki DAL 11/07/2014 DAL @ UTA W 28 27 11 18 61.1 5 8 62.5 0 0 - 0 10 10 2 1 0 0 3 28
+p855
+aVTyson Chandler DAL 11/07/2014 DAL @ UTA W 30 15 6 9 66.7 0 0 - 3 3 100.0 4 9 13 0 0 1 3 2 20
+p856
+aVJae Crowder DAL 11/07/2014 DAL @ UTA W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p857
+aVJ.J. Barea DAL 11/07/2014 DAL @ UTA W 18 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 4 1 0 1 0 6
+p858
+aVDevin Harris DAL 11/07/2014 DAL @ UTA W 20 8 2 2 100.0 1 1 100.0 3 4 75.0 0 2 2 6 2 0 2 3 9
+p859
+aVBrandan Wright DAL 11/07/2014 DAL @ UTA W 26 12 6 11 54.5 0 0 - 0 0 - 3 2 5 0 0 2 1 1 -1
+p860
+aVRichard Jefferson DAL 11/07/2014 DAL @ UTA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 2 0 0 0 3
+p861
+aVGreg Smith DAL 11/07/2014 DAL @ UTA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p862
+aVJameer Nelson DAL 11/07/2014 DAL @ UTA W 24 10 4 8 50.0 2 5 40.0 0 0 - 1 1 2 3 1 0 0 1 14
+p863
+aVMonta Ellis DAL 11/07/2014 DAL @ UTA W 30 13 5 12 41.7 0 1 0.0 3 3 100.0 1 0 1 6 3 0 0 4 17
+p864
+aVChandler Parsons DAL 11/07/2014 DAL @ UTA W 28 5 1 11 9.1 0 4 0.0 3 4 75.0 2 1 3 0 2 0 0 1 21
+p865
+aVAl-Farouq Aminu DAL 11/07/2014 DAL @ UTA W 19 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 5 4
+p866
+aVCharlie Villanueva DAL 11/06/2014 DAL @ POR L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 0
+p867
+aVRichard Jefferson DAL 11/06/2014 DAL @ POR L 11 3 1 5 20.0 0 1 0.0 1 1 100.0 1 1 2 0 0 0 0 1 -2
+p868
+aVAl-Farouq Aminu DAL 11/06/2014 DAL @ POR L 16 7 3 6 50.0 1 1 100.0 0 0 - 2 3 5 0 2 1 0 1 -5
+p869
+aVDirk Nowitzki DAL 11/06/2014 DAL @ POR L 27 17 6 17 35.3 2 7 28.6 3 3 100.0 0 3 3 1 0 0 2 3 -14
+p870
+aVGreg Smith DAL 11/06/2014 DAL @ POR L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p871
+aVBrandan Wright DAL 11/06/2014 DAL @ POR L 12 6 3 5 60.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -12
+p872
+aVMonta Ellis DAL 11/06/2014 DAL @ POR L 27 14 6 13 46.2 0 1 0.0 2 2 100.0 0 3 3 1 1 0 2 4 -4
+p873
+aVDevin Harris DAL 11/06/2014 DAL @ POR L 27 7 2 7 28.6 0 2 0.0 3 3 100.0 1 2 3 4 1 0 0 2 -19
+p874
+aVTyson Chandler DAL 11/06/2014 DAL @ POR L 29 4 0 2 0.0 0 0 - 4 4 100.0 1 2 3 2 0 3 1 1 -9
+p875
+aVJ.J. Barea DAL 11/06/2014 DAL @ POR L 16 8 3 8 37.5 0 2 0.0 2 2 100.0 0 2 2 2 2 0 0 0 -9
+p876
+aVChandler Parsons DAL 11/06/2014 DAL @ POR L 28 11 5 13 38.5 0 3 0.0 1 1 100.0 0 4 4 1 0 0 1 0 -14
+p877
+aVJameer Nelson DAL 11/06/2014 DAL @ POR L 25 6 2 9 22.2 2 5 40.0 0 0 - 1 3 4 1 0 0 1 1 -17
+p878
+aVJae Crowder DAL 11/06/2014 DAL @ POR L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p879
+aVBrandan Wright DAL 11/03/2014 DAL vs. BOS W 18 6 2 2 100.0 0 0 - 2 3 66.7 1 5 6 0 1 2 0 2 12
+p880
+aVTyson Chandler DAL 11/03/2014 DAL vs. BOS W 30 10 5 7 71.4 0 0 - 0 0 - 4 8 12 0 0 4 5 2 -7
+p881
+aVJameer Nelson DAL 11/03/2014 DAL vs. BOS W 23 6 2 7 28.6 2 6 33.3 0 0 - 0 2 2 2 0 0 5 3 -1
+p882
+aVDevin Harris DAL 11/03/2014 DAL vs. BOS W 30 12 4 9 44.4 2 6 33.3 2 2 100.0 0 2 2 6 1 0 1 0 13
+p883
+aVChandler Parsons DAL 11/03/2014 DAL vs. BOS W 35 29 10 15 66.7 4 5 80.0 5 7 71.4 0 3 3 2 2 0 0 1 2
+p884
+aVRichard Jefferson DAL 11/03/2014 DAL vs. BOS W 15 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 1 -5
+p885
+aVAl-Farouq Aminu DAL 11/03/2014 DAL vs. BOS W 10 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 1 0 1 11
+p886
+aVJae Crowder DAL 11/03/2014 DAL vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p887
+aVJ.J. Barea DAL 11/03/2014 DAL vs. BOS W 13 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 3 1 0 1 2 5
+p888
+aVDirk Nowitzki DAL 11/03/2014 DAL vs. BOS W 30 27 9 14 64.3 4 4 100.0 5 6 83.3 1 6 7 4 0 0 1 3 -2
+p889
+aVMonta Ellis DAL 11/03/2014 DAL vs. BOS W 35 14 6 15 40.0 0 0 - 2 2 100.0 0 0 0 6 0 2 3 1 0
+p890
+aVDevin Harris DAL 11/01/2014 DAL @ NOP W 27 12 4 7 57.1 2 4 50.0 2 4 50.0 0 3 3 6 1 0 0 2 -6
+p891
+aVMonta Ellis DAL 11/01/2014 DAL @ NOP W 33 17 7 14 50.0 0 2 0.0 3 3 100.0 4 3 7 3 1 0 2 4 0
+p892
+aVJ.J. Barea DAL 11/01/2014 DAL @ NOP W 14 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 3 1 0 1 2 13
+p893
+aVTyson Chandler DAL 11/01/2014 DAL @ NOP W 30 11 5 7 71.4 0 0 - 1 4 25.0 1 6 7 1 0 2 1 4 -4
+p894
+aVAl-Farouq Aminu DAL 11/01/2014 DAL @ NOP W 16 2 1 3 33.3 0 1 0.0 0 2 0.0 1 4 5 0 0 0 0 1 3
+p895
+aVBrandan Wright DAL 11/01/2014 DAL @ NOP W 18 12 6 7 85.7 0 0 - 0 0 - 3 2 5 0 0 3 0 3 9
+p896
+aVRichard Jefferson DAL 11/01/2014 DAL @ NOP W 7 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 0 4
+p897
+aVJameer Nelson DAL 11/01/2014 DAL @ NOP W 31 8 3 8 37.5 2 5 40.0 0 0 - 1 4 5 4 0 0 1 2 -1
+p898
+aVChandler Parsons DAL 11/01/2014 DAL @ NOP W 34 20 7 13 53.8 2 6 33.3 4 4 100.0 0 4 4 4 0 0 3 2 -7
+p899
+aVDirk Nowitzki DAL 11/01/2014 DAL @ NOP W 30 17 8 19 42.1 0 5 0.0 1 2 50.0 0 6 6 3 0 1 4 5 14
+p900
+aVAl-Farouq Aminu DAL 10/30/2014 DAL vs. UTA W 20 16 6 7 85.7 1 1 100.0 3 4 75.0 2 8 10 1 1 0 1 2 -1
+p901
+aVJameer Nelson DAL 10/30/2014 DAL vs. UTA W 21 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 5 2 0 1 3 -2
+p902
+aVTyson Chandler DAL 10/30/2014 DAL vs. UTA W 25 13 5 5 100.0 0 0 - 3 4 75.0 2 4 6 2 1 1 0 2 0
+p903
+aVBrandan Wright DAL 10/30/2014 DAL vs. UTA W 20 14 6 7 85.7 0 0 - 2 2 100.0 3 0 3 1 1 2 0 0 17
+p904
+aVJ.J. Barea DAL 10/30/2014 DAL vs. UTA W 19 4 2 5 40.0 0 0 - 0 0 - 0 4 4 3 0 0 1 0 13
+p905
+aVCharlie Villanueva DAL 10/30/2014 DAL vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p906
+aVRichard Jefferson DAL 10/30/2014 DAL vs. UTA W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 2 19
+p907
+aVDirk Nowitzki DAL 10/30/2014 DAL vs. UTA W 24 21 9 13 69.2 2 4 50.0 1 2 50.0 0 3 3 1 1 1 1 2 12
+p908
+aVChandler Parsons DAL 10/30/2014 DAL vs. UTA W 29 21 8 16 50.0 1 3 33.3 4 4 100.0 4 3 7 2 0 0 2 1 4
+p909
+aVMonta Ellis DAL 10/30/2014 DAL vs. UTA W 29 14 6 13 46.2 0 1 0.0 2 3 66.7 0 3 3 6 0 0 1 1 5
+p910
+aVGreg Smith DAL 10/30/2014 DAL vs. UTA W 3 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 1
+p911
+aVDevin Harris DAL 10/30/2014 DAL vs. UTA W 24 12 3 9 33.3 3 7 42.9 3 4 75.0 0 1 1 3 1 0 1 0 19
+p912
+aVJae Crowder DAL 10/30/2014 DAL vs. UTA W 9 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 0 4
+p913
+aVTyson Chandler DAL 10/28/2014 DAL @ SAS L 28 8 4 8 50.0 0 0 - 0 0 - 3 7 10 0 2 0 1 5 -8
+p914
+aVJae Crowder DAL 10/28/2014 DAL @ SAS L 11 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 -8
+p915
+aVMonta Ellis DAL 10/28/2014 DAL @ SAS L 37 26 11 21 52.4 1 2 50.0 3 4 75.0 1 3 4 6 1 0 3 0 4
+p916
+aVDirk Nowitzki DAL 10/28/2014 DAL @ SAS L 32 18 7 11 63.6 0 1 0.0 4 4 100.0 2 4 6 2 1 0 1 4 -2
+p917
+aVAl-Farouq Aminu DAL 10/28/2014 DAL @ SAS L 5 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 1 1 0
+p918
+aVChandler Parsons DAL 10/28/2014 DAL @ SAS L 34 5 2 10 20.0 1 4 25.0 0 0 - 0 4 4 0 2 1 1 2 0
+p919
+aVRichard Jefferson DAL 10/28/2014 DAL @ SAS L 13 6 1 3 33.3 1 2 50.0 3 4 75.0 1 1 2 1 0 0 1 2 1
+p920
+aVBrandan Wright DAL 10/28/2014 DAL @ SAS L 18 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 0 0 1 0 2 6
+p921
+aVGreg Smith DAL 10/28/2014 DAL @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p922
+aVJameer Nelson DAL 10/28/2014 DAL @ SAS L 30 9 3 7 42.9 3 5 60.0 0 0 - 0 0 0 3 1 1 0 1 3
+p923
+aVDevin Harris DAL 10/28/2014 DAL @ SAS L 29 17 6 12 50.0 2 5 40.0 3 4 75.0 0 0 0 5 2 0 1 1 -2
+p924
+a.

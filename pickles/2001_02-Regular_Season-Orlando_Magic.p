@@ -1,0 +1,1764 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJaren Jackson ORL 04/17/2002 ORL vs. MIA L 16 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 1 0 0 1 1 -22
+p2
+aVJud Buechler ORL 04/17/2002 ORL vs. MIA L 15 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 1 0 0 1 0 -5
+p3
+aVMonty Williams ORL 04/17/2002 ORL vs. MIA L 34 21 9 14 64.3 0 0 - 3 3 100.0 2 2 4 2 1 0 0 3 -2
+p4
+aVSteven Hunter ORL 04/17/2002 ORL vs. MIA L 11 5 1 3 33.3 0 0 - 3 5 60.0 0 1 1 0 0 0 0 3 0
+p5
+aVHorace Grant ORL 04/17/2002 ORL vs. MIA L 37 10 3 9 33.3 0 0 - 4 4 100.0 1 6 7 1 0 0 1 2 -12
+p6
+aVDarrell Armstrong ORL 04/17/2002 ORL vs. MIA L 29 13 4 10 40.0 3 7 42.9 2 2 100.0 1 2 3 4 1 1 4 2 -2
+p7
+aVPat Garrity ORL 04/17/2002 ORL vs. MIA L 34 9 3 9 33.3 3 6 50.0 0 0 - 0 4 4 1 1 0 1 1 -10
+p8
+aVTroy Hudson ORL 04/17/2002 ORL vs. MIA L 46 22 8 22 36.4 1 3 33.3 5 6 83.3 0 4 4 4 2 0 4 1 -15
+p9
+aVAndrew DeClercq ORL 04/17/2002 ORL vs. MIA L 15 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -2
+p10
+aVJeryl Sasser ORL 04/17/2002 ORL vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p11
+aVDarrell Armstrong ORL 04/16/2002 ORL @ ATL W 13 4 0 4 0.0 0 1 0.0 4 4 100.0 0 1 1 2 1 0 4 1 0
+p12
+aVTracy McGrady ORL 04/16/2002 ORL @ ATL W 36 16 6 17 35.3 0 1 0.0 4 7 57.1 0 4 4 7 5 0 0 1 16
+p13
+aVAndrew DeClercq ORL 04/16/2002 ORL @ ATL W 17 10 5 6 83.3 0 0 - 0 0 - 1 3 4 0 1 1 1 3 11
+p14
+aVHorace Grant ORL 04/16/2002 ORL @ ATL W 35 2 1 6 16.7 0 0 - 0 0 - 1 6 7 1 1 2 1 0 7
+p15
+aVMonty Williams ORL 04/16/2002 ORL @ ATL W 37 23 10 16 62.5 0 0 - 3 5 60.0 2 5 7 3 3 1 2 4 12
+p16
+aVJaren Jackson ORL 04/16/2002 ORL @ ATL W 12 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 0 1 -6
+p17
+aVTroy Hudson ORL 04/16/2002 ORL @ ATL W 37 18 5 15 33.3 0 2 0.0 8 11 72.7 0 2 2 7 0 0 1 0 11
+p18
+aVDon Reid ORL 04/16/2002 ORL @ ATL W 5 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -5
+p19
+aVPat Garrity ORL 04/16/2002 ORL @ ATL W 26 12 4 7 57.1 3 3 100.0 1 2 50.0 0 4 4 0 2 1 1 5 -8
+p20
+aVJud Buechler ORL 04/16/2002 ORL @ ATL W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -3
+p21
+aVPatrick Ewing ORL 04/16/2002 ORL @ ATL W 16 12 6 7 85.7 0 0 - 0 2 0.0 1 2 3 0 0 1 3 1 0
+p22
+aVPat Garrity ORL 04/14/2002 ORL vs. PHI L 37 11 4 12 33.3 3 7 42.9 0 0 - 0 2 2 2 1 1 0 4 -1
+p23
+aVAndrew DeClercq ORL 04/14/2002 ORL vs. PHI L 4 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -1
+p24
+aVJaren Jackson ORL 04/14/2002 ORL vs. PHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 1
+p25
+aVMonty Williams ORL 04/14/2002 ORL vs. PHI L 11 4 2 8 25.0 0 0 - 0 0 - 1 1 2 3 1 0 1 1 -5
+p26
+aVTroy Hudson ORL 04/14/2002 ORL vs. PHI L 34 15 7 15 46.7 1 2 50.0 0 0 - 1 0 1 6 0 0 1 4 0
+p27
+aVDarrell Armstrong ORL 04/14/2002 ORL vs. PHI L 39 8 3 9 33.3 1 4 25.0 1 1 100.0 1 1 2 2 3 0 2 1 -10
+p28
+aVMike Miller ORL 04/14/2002 ORL vs. PHI L 26 8 3 8 37.5 1 2 50.0 1 2 50.0 0 2 2 2 0 1 0 2 -8
+p29
+aVTracy McGrady ORL 04/14/2002 ORL vs. PHI L 48 31 10 17 58.8 3 3 100.0 8 12 66.7 1 8 9 3 1 1 2 1 -6
+p30
+aVHorace Grant ORL 04/14/2002 ORL vs. PHI L 30 8 3 7 42.9 0 0 - 2 2 100.0 3 4 7 2 0 1 1 1 -1
+p31
+aVDon Reid ORL 04/14/2002 ORL vs. PHI L 5 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 1 1
+p32
+aVMike Miller ORL 04/12/2002 ORL @ MIA L 32 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 5 0 0 1 0 -7
+p33
+aVTracy McGrady ORL 04/12/2002 ORL @ MIA L 37 34 14 31 45.2 2 4 50.0 4 4 100.0 5 6 11 3 1 0 1 2 -3
+p34
+aVHorace Grant ORL 04/12/2002 ORL @ MIA L 30 3 1 6 16.7 0 0 - 1 1 100.0 2 6 8 0 0 0 1 1 -1
+p35
+aVPatrick Ewing ORL 04/12/2002 ORL @ MIA L 11 8 4 5 80.0 0 0 - 0 2 0.0 1 4 5 1 0 2 0 2 -8
+p36
+aVMonty Williams ORL 04/12/2002 ORL @ MIA L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 3 0 0 3 -4
+p37
+aVAndrew DeClercq ORL 04/12/2002 ORL @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 3
+p38
+aVJaren Jackson ORL 04/12/2002 ORL @ MIA L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p39
+aVPat Garrity ORL 04/12/2002 ORL @ MIA L 27 5 1 6 16.7 1 5 20.0 2 2 100.0 0 5 5 2 0 0 3 5 -4
+p40
+aVDarrell Armstrong ORL 04/12/2002 ORL @ MIA L 32 16 6 13 46.2 2 7 28.6 2 2 100.0 2 3 5 3 0 0 2 4 -5
+p41
+aVDon Reid ORL 04/12/2002 ORL @ MIA L 21 3 1 3 33.3 0 0 - 1 2 50.0 3 0 3 4 1 1 0 3 1
+p42
+aVTroy Hudson ORL 04/12/2002 ORL @ MIA L 20 18 6 15 40.0 2 3 66.7 4 5 80.0 0 2 2 1 1 0 4 0 2
+p43
+aVAndrew DeClercq ORL 04/11/2002 ORL vs. NJN L 11 2 1 1 100.0 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 -5
+p44
+aVMonty Williams ORL 04/11/2002 ORL vs. NJN L 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -10
+p45
+aVHorace Grant ORL 04/11/2002 ORL vs. NJN L 37 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 0 0 0 2 -1
+p46
+aVMike Miller ORL 04/11/2002 ORL vs. NJN L 37 12 5 15 33.3 2 8 25.0 0 0 - 2 0 2 1 1 0 2 1 5
+p47
+aVJaren Jackson ORL 04/11/2002 ORL vs. NJN L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p48
+aVTracy McGrady ORL 04/11/2002 ORL vs. NJN L 45 39 16 33 48.5 2 5 40.0 5 7 71.4 5 11 16 7 2 2 5 0 8
+p49
+aVDon Reid ORL 04/11/2002 ORL vs. NJN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p50
+aVPat Garrity ORL 04/11/2002 ORL vs. NJN L 41 18 6 13 46.2 4 10 40.0 2 2 100.0 1 1 2 2 3 1 0 3 -1
+p51
+aVDarrell Armstrong ORL 04/11/2002 ORL vs. NJN L 39 10 4 13 30.8 2 5 40.0 0 0 - 1 4 5 10 3 0 0 1 8
+p52
+aVPatrick Ewing ORL 04/11/2002 ORL vs. NJN L 14 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 0 2 1 0 1 5
+p53
+aVTroy Hudson ORL 04/11/2002 ORL vs. NJN L 16 8 3 9 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 5 1 -7
+p54
+aVPat Garrity ORL 04/09/2002 ORL @ NYK W 32 13 4 8 50.0 3 5 60.0 2 2 100.0 0 2 2 1 2 0 0 4 -3
+p55
+aVDarrell Armstrong ORL 04/09/2002 ORL @ NYK W 22 3 1 7 14.3 0 3 0.0 1 1 100.0 0 5 5 7 3 0 2 2 15
+p56
+aVTroy Hudson ORL 04/09/2002 ORL @ NYK W 26 29 10 17 58.8 7 10 70.0 2 2 100.0 0 3 3 6 0 0 2 2 -4
+p57
+aVDon Reid ORL 04/09/2002 ORL @ NYK W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p58
+aVPatrick Ewing ORL 04/09/2002 ORL @ NYK W 18 6 2 3 66.7 0 0 - 2 4 50.0 0 5 5 1 0 0 0 2 11
+p59
+aVTracy McGrady ORL 04/09/2002 ORL @ NYK W 37 17 7 14 50.0 0 3 0.0 3 4 75.0 0 3 3 6 0 2 4 1 5
+p60
+aVHorace Grant ORL 04/09/2002 ORL @ NYK W 38 22 11 13 84.6 0 0 - 0 0 - 3 7 10 4 2 1 1 1 22
+p61
+aVAndrew DeClercq ORL 04/09/2002 ORL @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p62
+aVMonty Williams ORL 04/09/2002 ORL @ NYK W 33 8 4 6 66.7 0 0 - 0 0 - 2 3 5 1 2 0 5 3 20
+p63
+aVJaren Jackson ORL 04/09/2002 ORL @ NYK W 27 8 2 5 40.0 2 5 40.0 2 2 100.0 0 5 5 3 2 0 3 1 -3
+p64
+aVPat Garrity ORL 04/08/2002 ORL vs. HOU W 38 10 4 7 57.1 1 2 50.0 1 2 50.0 1 3 4 0 2 1 0 3 18
+p65
+aVTracy McGrady ORL 04/08/2002 ORL vs. HOU W 44 22 10 20 50.0 2 4 50.0 0 0 - 1 9 10 6 1 1 3 0 6
+p66
+aVDon Reid ORL 04/08/2002 ORL vs. HOU W 10 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -7
+p67
+aVTroy Hudson ORL 04/08/2002 ORL vs. HOU W 31 19 7 13 53.8 1 2 50.0 4 5 80.0 0 3 3 3 0 0 1 3 2
+p68
+aVJaren Jackson ORL 04/08/2002 ORL vs. HOU W 14 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 1 0 0 1 2 -10
+p69
+aVPatrick Ewing ORL 04/08/2002 ORL vs. HOU W 5 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -7
+p70
+aVHorace Grant ORL 04/08/2002 ORL vs. HOU W 34 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 1 0 0 2 4 20
+p71
+aVDarrell Armstrong ORL 04/08/2002 ORL vs. HOU W 34 14 6 14 42.9 2 7 28.6 0 0 - 0 3 3 5 2 0 1 5 9
+p72
+aVMonty Williams ORL 04/08/2002 ORL vs. HOU W 26 9 4 6 66.7 0 0 - 1 4 25.0 1 3 4 1 1 0 2 0 13
+p73
+aVAndrew DeClercq ORL 04/08/2002 ORL vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p74
+aVPatrick Ewing ORL 04/05/2002 ORL @ NJN L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p75
+aVDon Reid ORL 04/05/2002 ORL @ NJN L 9 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 0 1 1 5 -6
+p76
+aVSteven Hunter ORL 04/05/2002 ORL @ NJN L 9 5 1 4 25.0 0 0 - 3 4 75.0 2 2 4 0 0 1 1 0 1
+p77
+aVPat Garrity ORL 04/05/2002 ORL @ NJN L 28 5 2 8 25.0 1 4 25.0 0 0 - 3 4 7 2 0 0 0 3 -20
+p78
+aVTracy McGrady ORL 04/05/2002 ORL @ NJN L 29 21 7 14 50.0 1 1 100.0 6 8 75.0 0 7 7 1 0 1 3 2 -20
+p79
+aVAndrew DeClercq ORL 04/05/2002 ORL @ NJN L 23 4 2 3 66.7 0 0 - 0 0 - 1 6 7 1 2 1 1 2 -5
+p80
+aVHorace Grant ORL 04/05/2002 ORL @ NJN L 18 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 1 -17
+p81
+aVTroy Hudson ORL 04/05/2002 ORL @ NJN L 41 20 7 18 38.9 1 2 50.0 5 6 83.3 1 1 2 3 3 0 4 0 -25
+p82
+aVMonty Williams ORL 04/05/2002 ORL @ NJN L 23 4 1 4 25.0 0 0 - 2 4 50.0 1 4 5 3 1 0 2 4 -4
+p83
+aVJaren Jackson ORL 04/05/2002 ORL @ NJN L 27 11 5 11 45.5 1 4 25.0 0 0 - 0 2 2 1 2 0 2 2 -10
+p84
+aVDarrell Armstrong ORL 04/05/2002 ORL @ NJN L 29 8 3 11 27.3 1 6 16.7 1 1 100.0 1 2 3 4 0 0 1 2 -18
+p85
+aVAndrew DeClercq ORL 04/04/2002 ORL vs. CLE W 5 4 2 5 40.0 0 0 - 0 0 - 3 0 3 0 0 1 0 2 -1
+p86
+aVTroy Hudson ORL 04/04/2002 ORL vs. CLE W 17 6 1 5 20.0 1 2 50.0 3 5 60.0 0 1 1 3 1 0 4 2 -5
+p87
+aVPatrick Ewing ORL 04/04/2002 ORL vs. CLE W 12 10 4 6 66.7 0 0 - 2 2 100.0 1 4 5 0 0 0 1 1 4
+p88
+aVHorace Grant ORL 04/04/2002 ORL vs. CLE W 28 1 0 5 0.0 0 0 - 1 2 50.0 3 1 4 0 3 1 1 1 9
+p89
+aVMonty Williams ORL 04/04/2002 ORL vs. CLE W 19 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 1 1 3 4 -4
+p90
+aVTracy McGrady ORL 04/04/2002 ORL vs. CLE W 46 35 14 32 43.8 1 2 50.0 6 9 66.7 7 7 14 7 1 0 1 2 9
+p91
+aVPat Garrity ORL 04/04/2002 ORL vs. CLE W 39 14 4 13 30.8 2 7 28.6 4 4 100.0 4 7 11 1 1 0 1 3 -1
+p92
+aVDarrell Armstrong ORL 04/04/2002 ORL vs. CLE W 36 18 6 15 40.0 3 8 37.5 3 4 75.0 0 7 7 10 2 0 2 2 6
+p93
+aVJaren Jackson ORL 04/04/2002 ORL vs. CLE W 22 8 3 4 75.0 2 3 66.7 0 2 0.0 0 1 1 2 0 0 1 3 9
+p94
+aVMike Miller ORL 04/04/2002 ORL vs. CLE W 15 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p95
+aVAndrew DeClercq ORL 03/31/2002 ORL vs. NYK W 18 2 1 3 33.3 0 0 - 0 1 0.0 1 5 6 0 0 1 0 2 4
+p96
+aVJud Buechler ORL 03/31/2002 ORL vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p97
+aVDarrell Armstrong ORL 03/31/2002 ORL vs. NYK W 30 13 5 13 38.5 1 5 20.0 2 2 100.0 2 1 3 1 1 0 3 1 0
+p98
+aVPatrick Ewing ORL 03/31/2002 ORL vs. NYK W 15 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 2 1 1 2 -4
+p99
+aVDon Reid ORL 03/31/2002 ORL vs. NYK W 26 7 2 10 20.0 0 0 - 3 3 100.0 3 8 11 0 2 5 0 4 3
+p100
+aVMike Miller ORL 03/31/2002 ORL vs. NYK W 34 15 6 14 42.9 1 6 16.7 2 2 100.0 0 1 1 2 2 0 2 0 11
+p101
+aVPat Garrity ORL 03/31/2002 ORL vs. NYK W 37 14 6 12 50.0 1 4 25.0 1 1 100.0 0 3 3 2 0 0 1 3 11
+p102
+aVTracy McGrady ORL 03/31/2002 ORL vs. NYK W 38 31 12 23 52.2 2 6 33.3 5 7 71.4 4 5 9 7 1 1 3 2 15
+p103
+aVTroy Hudson ORL 03/31/2002 ORL vs. NYK W 18 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 4 2 0 2 2 6
+p104
+aVMonty Williams ORL 03/31/2002 ORL vs. NYK W 21 8 4 5 80.0 0 0 - 0 0 - 2 3 5 1 2 1 2 3 -9
+p105
+aVAndrew DeClercq ORL 03/29/2002 ORL vs. IND W 23 8 4 7 57.1 0 0 - 0 0 - 2 3 5 2 4 2 1 3 21
+p106
+aVMonty Williams ORL 03/29/2002 ORL vs. IND W 32 19 7 12 58.3 0 0 - 5 6 83.3 3 7 10 4 3 1 1 1 5
+p107
+aVTroy Hudson ORL 03/29/2002 ORL vs. IND W 29 14 5 12 41.7 1 2 50.0 3 4 75.0 0 1 1 4 0 0 0 1 -4
+p108
+aVDarrell Armstrong ORL 03/29/2002 ORL vs. IND W 40 15 6 12 50.0 1 5 20.0 2 2 100.0 1 1 2 2 1 0 3 2 11
+p109
+aVPat Garrity ORL 03/29/2002 ORL vs. IND W 32 9 3 8 37.5 1 4 25.0 2 2 100.0 1 5 6 3 3 0 0 5 -1
+p110
+aVJud Buechler ORL 03/29/2002 ORL vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p111
+aVSteven Hunter ORL 03/29/2002 ORL vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p112
+aVHorace Grant ORL 03/29/2002 ORL vs. IND W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 0 -2
+p113
+aVMike Miller ORL 03/29/2002 ORL vs. IND W 30 15 6 13 46.2 1 4 25.0 2 4 50.0 0 4 4 6 1 1 2 3 -4
+p114
+aVDon Reid ORL 03/29/2002 ORL vs. IND W 11 5 1 2 50.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 5 4
+p115
+aVTracy McGrady ORL 03/29/2002 ORL vs. IND W 35 29 13 23 56.5 1 3 33.3 2 3 66.7 2 7 9 5 1 3 4 2 16
+p116
+aVHorace Grant ORL 03/27/2002 ORL @ CHH L 36 17 8 13 61.5 0 0 - 1 1 100.0 2 3 5 2 0 1 0 2 3
+p117
+aVDon Reid ORL 03/27/2002 ORL @ CHH L 9 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 -8
+p118
+aVPatrick Ewing ORL 03/27/2002 ORL @ CHH L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p119
+aVMonty Williams ORL 03/27/2002 ORL @ CHH L 24 9 4 7 57.1 0 0 - 1 2 50.0 0 2 2 3 0 0 1 5 -8
+p120
+aVDarrell Armstrong ORL 03/27/2002 ORL @ CHH L 41 10 3 10 30.0 1 2 50.0 3 3 100.0 1 5 6 10 1 0 3 1 -1
+p121
+aVTroy Hudson ORL 03/27/2002 ORL @ CHH L 33 25 9 17 52.9 3 4 75.0 4 4 100.0 1 2 3 3 1 0 4 0 1
+p122
+aVTracy McGrady ORL 03/27/2002 ORL @ CHH L 42 25 11 24 45.8 0 3 0.0 3 6 50.0 3 4 7 7 5 1 3 3 -7
+p123
+aVJud Buechler ORL 03/27/2002 ORL @ CHH L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p124
+aVAndrew DeClercq ORL 03/27/2002 ORL @ CHH L 2 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -5
+p125
+aVPat Garrity ORL 03/27/2002 ORL @ CHH L 41 18 6 9 66.7 5 6 83.3 1 2 50.0 1 5 6 1 4 0 1 3 0
+p126
+aVTracy McGrady ORL 03/26/2002 ORL vs. CHI W 37 20 7 17 41.2 1 4 25.0 5 7 71.4 1 10 11 7 1 0 0 1 18
+p127
+aVAndrew DeClercq ORL 03/26/2002 ORL vs. CHI W 14 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 0 0 3 5
+p128
+aVDon Reid ORL 03/26/2002 ORL vs. CHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 2 -8
+p129
+aVMonty Williams ORL 03/26/2002 ORL vs. CHI W 39 18 5 8 62.5 0 0 - 8 10 80.0 5 6 11 3 1 0 3 6 21
+p130
+aVPat Garrity ORL 03/26/2002 ORL vs. CHI W 28 9 4 11 36.4 1 7 14.3 0 0 - 2 7 9 0 0 0 1 4 13
+p131
+aVHorace Grant ORL 03/26/2002 ORL vs. CHI W 35 10 5 8 62.5 0 0 - 0 0 - 1 2 3 2 1 0 0 3 29
+p132
+aVDee Brown ORL 03/26/2002 ORL vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p133
+aVPatrick Ewing ORL 03/26/2002 ORL vs. CHI W 9 5 1 4 25.0 0 0 - 3 3 100.0 0 3 3 0 0 0 0 3 -8
+p134
+aVDarrell Armstrong ORL 03/26/2002 ORL vs. CHI W 33 15 4 14 28.6 3 10 30.0 4 4 100.0 0 3 3 5 3 0 4 2 8
+p135
+aVSteven Hunter ORL 03/26/2002 ORL vs. CHI W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -2
+p136
+aVJud Buechler ORL 03/26/2002 ORL vs. CHI W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p137
+aVTroy Hudson ORL 03/26/2002 ORL vs. CHI W 24 16 7 13 53.8 1 2 50.0 1 1 100.0 1 1 2 2 0 0 2 1 4
+p138
+aVMonty Williams ORL 03/24/2002 ORL @ MIL L 31 16 4 10 40.0 0 0 - 8 8 100.0 4 6 10 2 1 0 3 2 -18
+p139
+aVDon Reid ORL 03/24/2002 ORL @ MIL L 18 2 1 6 16.7 0 0 - 0 1 0.0 1 1 2 1 1 2 1 4 -12
+p140
+aVTroy Hudson ORL 03/24/2002 ORL @ MIL L 26 6 2 8 25.0 0 1 0.0 2 2 100.0 0 0 0 5 3 0 2 3 -12
+p141
+aVHorace Grant ORL 03/24/2002 ORL @ MIL L 24 8 4 8 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p142
+aVJud Buechler ORL 03/24/2002 ORL @ MIL L 21 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -12
+p143
+aVSteven Hunter ORL 03/24/2002 ORL @ MIL L 10 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -1
+p144
+aVDee Brown ORL 03/24/2002 ORL @ MIL L 19 2 1 9 11.1 0 5 0.0 0 0 - 0 5 5 1 1 0 1 0 -13
+p145
+aVDarrell Armstrong ORL 03/24/2002 ORL @ MIL L 33 17 6 11 54.5 2 4 50.0 3 4 75.0 0 4 4 6 1 0 3 1 -21
+p146
+aVPatrick Ewing ORL 03/24/2002 ORL @ MIL L 13 9 4 7 57.1 0 0 - 1 3 33.3 0 3 3 1 0 1 2 3 -11
+p147
+aVPat Garrity ORL 03/24/2002 ORL @ MIL L 28 8 3 11 27.3 2 4 50.0 0 0 - 1 2 3 0 0 0 1 2 -18
+p148
+aVAndrew DeClercq ORL 03/24/2002 ORL @ MIL L 17 11 2 3 66.7 0 0 - 7 10 70.0 2 6 8 1 0 0 1 1 -3
+p149
+aVAndrew DeClercq ORL 03/22/2002 ORL vs. CHH L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 3
+p150
+aVMonty Williams ORL 03/22/2002 ORL vs. CHH L 34 11 5 11 45.5 0 0 - 1 3 33.3 2 5 7 3 1 0 3 3 -7
+p151
+aVPatrick Ewing ORL 03/22/2002 ORL vs. CHH L 11 4 2 6 33.3 0 0 - 0 2 0.0 0 2 2 0 0 0 0 1 -3
+p152
+aVHorace Grant ORL 03/22/2002 ORL vs. CHH L 29 7 3 6 50.0 0 0 - 1 2 50.0 5 6 11 3 1 1 1 1 -10
+p153
+aVSteven Hunter ORL 03/22/2002 ORL vs. CHH L 8 5 0 1 0.0 0 0 - 5 6 83.3 1 0 1 0 0 1 0 4 -4
+p154
+aVTracy McGrady ORL 03/22/2002 ORL vs. CHH L 14 11 4 10 40.0 1 2 50.0 2 4 50.0 2 2 4 1 0 0 0 1 -8
+p155
+aVDarrell Armstrong ORL 03/22/2002 ORL vs. CHH L 37 22 10 15 66.7 2 6 33.3 0 0 - 0 6 6 3 1 0 2 4 -20
+p156
+aVDon Reid ORL 03/22/2002 ORL vs. CHH L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p157
+aVPat Garrity ORL 03/22/2002 ORL vs. CHH L 39 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 3 1 0 1 3 -18
+p158
+aVTroy Hudson ORL 03/22/2002 ORL vs. CHH L 36 23 11 21 52.4 0 2 0.0 1 1 100.0 0 2 2 5 1 0 6 3 -13
+p159
+aVJud Buechler ORL 03/22/2002 ORL vs. CHH L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 4
+p160
+aVDee Brown ORL 03/22/2002 ORL vs. CHH L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p161
+aVDon Reid ORL 03/19/2002 ORL vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p162
+aVTracy McGrady ORL 03/19/2002 ORL vs. MIL W 44 48 18 35 51.4 6 9 66.7 6 10 60.0 3 9 12 3 3 0 3 2 9
+p163
+aVHorace Grant ORL 03/19/2002 ORL vs. MIL W 36 10 4 6 66.7 0 0 - 2 2 100.0 5 7 12 1 1 1 2 2 11
+p164
+aVTroy Hudson ORL 03/19/2002 ORL vs. MIL W 37 7 3 13 23.1 0 2 0.0 1 2 50.0 1 1 2 8 2 0 3 3 17
+p165
+aVAndrew DeClercq ORL 03/19/2002 ORL vs. MIL W 13 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 1 0 1 1 1
+p166
+aVJud Buechler ORL 03/19/2002 ORL vs. MIL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p167
+aVPatrick Ewing ORL 03/19/2002 ORL vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p168
+aVDarrell Armstrong ORL 03/19/2002 ORL vs. MIL W 37 8 3 11 27.3 0 5 0.0 2 3 66.7 2 1 3 6 3 0 1 2 7
+p169
+aVMonty Williams ORL 03/19/2002 ORL vs. MIL W 19 3 0 3 0.0 0 0 - 3 4 75.0 0 2 2 1 1 0 2 5 -2
+p170
+aVDee Brown ORL 03/19/2002 ORL vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p171
+aVPat Garrity ORL 03/19/2002 ORL vs. MIL W 39 21 7 14 50.0 7 10 70.0 0 0 - 0 5 5 4 2 1 2 1 11
+p172
+aVMonty Williams ORL 03/17/2002 ORL @ PHI W 23 9 4 8 50.0 0 2 0.0 1 2 50.0 0 2 2 4 2 0 1 0 -2
+p173
+aVPatrick Ewing ORL 03/17/2002 ORL @ PHI W 22 10 5 7 71.4 0 0 - 0 0 - 0 5 5 0 0 2 0 3 9
+p174
+aVAndrew DeClercq ORL 03/17/2002 ORL @ PHI W 6 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -9
+p175
+aVDarrell Armstrong ORL 03/17/2002 ORL @ PHI W 34 15 5 10 50.0 2 4 50.0 3 3 100.0 0 1 1 3 1 0 1 2 1
+p176
+aVTroy Hudson ORL 03/17/2002 ORL @ PHI W 26 19 8 9 88.9 2 3 66.7 1 1 100.0 0 1 1 2 0 0 3 4 0
+p177
+aVDon Reid ORL 03/17/2002 ORL @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -1
+p178
+aVPat Garrity ORL 03/17/2002 ORL @ PHI W 42 18 6 12 50.0 4 7 57.1 2 2 100.0 1 2 3 1 3 0 2 2 6
+p179
+aVHorace Grant ORL 03/17/2002 ORL @ PHI W 22 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 1 0 0 4 -1
+p180
+aVJud Buechler ORL 03/17/2002 ORL @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p181
+aVTracy McGrady ORL 03/17/2002 ORL @ PHI W 48 29 11 25 44.0 1 3 33.3 6 12 50.0 1 7 8 13 0 3 2 1 2
+p182
+aVDee Brown ORL 03/17/2002 ORL @ PHI W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p183
+aVPat Garrity ORL 03/15/2002 ORL vs. DEN W 30 18 7 13 53.8 4 9 44.4 0 0 - 0 2 2 1 2 1 0 5 26
+p184
+aVAndrew DeClercq ORL 03/15/2002 ORL vs. DEN W 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 3 3 2
+p185
+aVDarrell Armstrong ORL 03/15/2002 ORL vs. DEN W 30 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 7 4 0 2 1 19
+p186
+aVTracy McGrady ORL 03/15/2002 ORL vs. DEN W 39 30 9 17 52.9 0 4 0.0 12 12 100.0 0 7 7 9 6 2 2 1 18
+p187
+aVMonty Williams ORL 03/15/2002 ORL vs. DEN W 21 18 8 8 100.0 0 0 - 2 2 100.0 1 0 1 3 2 0 0 4 22
+p188
+aVPatrick Ewing ORL 03/15/2002 ORL vs. DEN W 12 7 1 2 50.0 0 0 - 5 6 83.3 0 0 0 1 0 0 0 2 0
+p189
+aVTroy Hudson ORL 03/15/2002 ORL vs. DEN W 26 24 10 17 58.8 0 3 0.0 4 4 100.0 1 2 3 3 0 0 1 2 10
+p190
+aVSteven Hunter ORL 03/15/2002 ORL vs. DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p191
+aVJud Buechler ORL 03/15/2002 ORL vs. DEN W 12 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 1 0 0 -10
+p192
+aVDee Brown ORL 03/15/2002 ORL vs. DEN W 16 5 2 7 28.6 1 6 16.7 0 0 - 0 1 1 1 2 0 1 1 9
+p193
+aVDon Reid ORL 03/15/2002 ORL vs. DEN W 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 0 3 2 5 -1
+p194
+aVHorace Grant ORL 03/15/2002 ORL vs. DEN W 24 7 3 5 60.0 0 0 - 1 2 50.0 0 5 5 0 0 2 1 0 15
+p195
+aVDon Reid ORL 03/13/2002 ORL vs. PHX W 7 7 3 3 100.0 0 0 - 1 1 100.0 1 2 3 1 1 2 2 1 -1
+p196
+aVJud Buechler ORL 03/13/2002 ORL vs. PHX W 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 1 0 1 -4
+p197
+aVTroy Hudson ORL 03/13/2002 ORL vs. PHX W 38 34 14 23 60.9 5 10 50.0 1 1 100.0 1 2 3 1 3 0 4 2 7
+p198
+aVPat Garrity ORL 03/13/2002 ORL vs. PHX W 44 8 3 10 30.0 2 5 40.0 0 0 - 2 7 9 4 0 1 0 3 7
+p199
+aVDarrell Armstrong ORL 03/13/2002 ORL vs. PHX W 40 2 1 4 25.0 0 2 0.0 0 0 - 1 6 7 9 2 0 6 2 3
+p200
+aVMonty Williams ORL 03/13/2002 ORL vs. PHX W 34 16 7 12 58.3 0 0 - 2 5 40.0 0 2 2 3 1 0 2 1 6
+p201
+aVDee Brown ORL 03/13/2002 ORL vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -4
+p202
+aVTracy McGrady ORL 03/13/2002 ORL vs. PHX W 47 35 14 28 50.0 2 3 66.7 5 7 71.4 1 7 8 8 3 2 1 1 5
+p203
+aVPatrick Ewing ORL 03/13/2002 ORL vs. PHX W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 0
+p204
+aVHorace Grant ORL 03/13/2002 ORL vs. PHX W 32 17 7 13 53.8 0 0 - 3 4 75.0 3 6 9 1 3 1 0 1 6
+p205
+aVPat Garrity ORL 03/10/2002 ORL vs. TOR W 30 15 4 7 57.1 1 3 33.3 6 6 100.0 1 6 7 3 0 0 0 2 5
+p206
+aVDon Reid ORL 03/10/2002 ORL vs. TOR W 10 5 2 4 50.0 0 0 - 1 2 50.0 0 4 4 0 0 0 1 4 5
+p207
+aVPatrick Ewing ORL 03/10/2002 ORL vs. TOR W 14 6 2 2 100.0 0 0 - 2 3 66.7 0 5 5 0 0 1 1 3 3
+p208
+aVJud Buechler ORL 03/10/2002 ORL vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p209
+aVAndrew DeClercq ORL 03/10/2002 ORL vs. TOR W 10 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 3 4
+p210
+aVDarrell Armstrong ORL 03/10/2002 ORL vs. TOR W 37 14 6 15 40.0 0 7 0.0 2 2 100.0 0 3 3 4 3 0 3 0 10
+p211
+aVTroy Hudson ORL 03/10/2002 ORL vs. TOR W 28 10 3 8 37.5 2 3 66.7 2 2 100.0 1 1 2 2 2 0 2 1 11
+p212
+aVMonty Williams ORL 03/10/2002 ORL vs. TOR W 34 10 5 9 55.6 0 0 - 0 0 - 3 3 6 3 0 2 3 3 5
+p213
+aVHorace Grant ORL 03/10/2002 ORL vs. TOR W 32 7 3 3 100.0 0 0 - 1 2 50.0 3 3 6 1 0 1 1 3 11
+p214
+aVSteven Hunter ORL 03/10/2002 ORL vs. TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p215
+aVTracy McGrady ORL 03/10/2002 ORL vs. TOR W 44 22 7 24 29.2 2 8 25.0 6 8 75.0 2 4 6 4 0 1 6 4 11
+p216
+aVMike Miller ORL 03/08/2002 ORL vs. WAS W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p217
+aVJud Buechler ORL 03/08/2002 ORL vs. WAS W 10 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 2 1 1 -2
+p218
+aVTracy McGrady ORL 03/08/2002 ORL vs. WAS W 42 50 18 29 62.1 4 7 57.1 10 15 66.7 0 10 10 3 2 0 3 1 7
+p219
+aVDarrell Armstrong ORL 03/08/2002 ORL vs. WAS W 37 10 4 9 44.4 2 4 50.0 0 0 - 1 3 4 5 4 0 2 2 7
+p220
+aVTroy Hudson ORL 03/08/2002 ORL vs. WAS W 27 5 2 10 20.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 1 -4
+p221
+aVPatrick Ewing ORL 03/08/2002 ORL vs. WAS W 9 4 1 3 33.3 0 0 - 2 4 50.0 0 0 0 1 0 0 0 2 -9
+p222
+aVPat Garrity ORL 03/08/2002 ORL vs. WAS W 36 9 4 6 66.7 1 3 33.3 0 0 - 1 5 6 1 0 0 1 2 13
+p223
+aVDon Reid ORL 03/08/2002 ORL vs. WAS W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 0
+p224
+aVMonty Williams ORL 03/08/2002 ORL vs. WAS W 34 10 5 7 71.4 0 0 - 0 0 - 1 2 3 1 1 2 1 4 -10
+p225
+aVHorace Grant ORL 03/08/2002 ORL vs. WAS W 28 2 1 8 12.5 0 0 - 0 2 0.0 1 5 6 2 1 3 0 0 8
+p226
+aVAndrew DeClercq ORL 03/08/2002 ORL vs. WAS W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -2
+p227
+aVJud Buechler ORL 03/06/2002 ORL @ BOS L 19 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 3 0 0 1 2 2
+p228
+aVPat Garrity ORL 03/06/2002 ORL @ BOS L 26 16 6 13 46.2 3 7 42.9 1 2 50.0 2 1 3 1 1 0 1 2 -19
+p229
+aVMonty Williams ORL 03/06/2002 ORL @ BOS L 22 16 7 11 63.6 0 0 - 2 2 100.0 2 4 6 0 0 0 1 2 -4
+p230
+aVTroy Hudson ORL 03/06/2002 ORL @ BOS L 29 12 3 11 27.3 0 3 0.0 6 6 100.0 1 2 3 7 2 0 4 2 -6
+p231
+aVMike Miller ORL 03/06/2002 ORL @ BOS L 33 4 1 7 14.3 0 3 0.0 2 2 100.0 1 5 6 4 2 0 1 1 -22
+p232
+aVTracy McGrady ORL 03/06/2002 ORL @ BOS L 20 17 5 11 45.5 2 4 50.0 5 5 100.0 2 2 4 4 0 0 3 2 -16
+p233
+aVDarrell Armstrong ORL 03/06/2002 ORL @ BOS L 29 16 6 10 60.0 1 3 33.3 3 4 75.0 1 1 2 5 1 0 2 2 -20
+p234
+aVAndrew DeClercq ORL 03/06/2002 ORL @ BOS L 20 11 5 7 71.4 0 0 - 1 2 50.0 1 3 4 0 2 2 2 5 4
+p235
+aVSteven Hunter ORL 03/06/2002 ORL @ BOS L 21 10 2 4 50.0 0 0 - 6 10 60.0 0 3 3 0 0 0 1 0 0
+p236
+aVPatrick Ewing ORL 03/06/2002 ORL @ BOS L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p237
+aVDon Reid ORL 03/06/2002 ORL @ BOS L 11 6 0 0 - 0 0 - 6 6 100.0 0 2 2 0 1 1 1 4 -13
+p238
+aVTracy McGrady ORL 03/05/2002 ORL @ IND L 40 13 5 21 23.8 0 5 0.0 3 4 75.0 3 8 11 7 3 3 2 1 -10
+p239
+aVHorace Grant ORL 03/05/2002 ORL @ IND L 27 7 3 10 30.0 0 0 - 1 2 50.0 4 4 8 3 4 2 0 0 -12
+p240
+aVTroy Hudson ORL 03/05/2002 ORL @ IND L 25 16 7 16 43.8 0 2 0.0 2 2 100.0 0 0 0 5 1 0 3 1 -5
+p241
+aVPatrick Ewing ORL 03/05/2002 ORL @ IND L 13 10 3 6 50.0 0 0 - 4 5 80.0 3 2 5 1 1 0 0 3 -3
+p242
+aVDon Reid ORL 03/05/2002 ORL @ IND L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p243
+aVPat Garrity ORL 03/05/2002 ORL @ IND L 42 18 7 13 53.8 4 6 66.7 0 0 - 1 4 5 0 1 0 2 5 -13
+p244
+aVMike Miller ORL 03/05/2002 ORL @ IND L 36 17 8 16 50.0 1 3 33.3 0 1 0.0 0 3 3 4 0 0 2 4 -12
+p245
+aVAndrew DeClercq ORL 03/05/2002 ORL @ IND L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p246
+aVDarrell Armstrong ORL 03/05/2002 ORL @ IND L 33 13 4 11 36.4 1 5 20.0 4 5 80.0 2 4 6 2 1 0 1 3 -8
+p247
+aVJud Buechler ORL 03/05/2002 ORL @ IND L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p248
+aVMonty Williams ORL 03/05/2002 ORL @ IND L 10 0 0 2 0.0 0 0 - 0 0 - 2 3 5 2 0 0 1 0 -4
+p249
+aVTracy McGrady ORL 03/03/2002 ORL @ WAS L 51 30 10 24 41.7 1 3 33.3 9 14 64.3 2 6 8 9 4 2 2 5 -3
+p250
+aVPatrick Ewing ORL 03/03/2002 ORL @ WAS L 9 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 -5
+p251
+aVHorace Grant ORL 03/03/2002 ORL @ WAS L 38 14 5 9 55.6 0 0 - 4 4 100.0 4 4 8 0 0 1 1 1 1
+p252
+aVMonty Williams ORL 03/03/2002 ORL @ WAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p253
+aVDarrell Armstrong ORL 03/03/2002 ORL @ WAS L 41 12 4 10 40.0 2 4 50.0 2 2 100.0 2 3 5 6 2 0 3 6 -1
+p254
+aVTroy Hudson ORL 03/03/2002 ORL @ WAS L 23 13 6 10 60.0 1 2 50.0 0 0 - 1 1 2 2 1 1 2 2 4
+p255
+aVSteven Hunter ORL 03/03/2002 ORL @ WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p256
+aVDon Reid ORL 03/03/2002 ORL @ WAS L 10 0 0 1 0.0 0 0 - 0 0 - 2 3 5 1 0 0 1 2 5
+p257
+aVPat Garrity ORL 03/03/2002 ORL @ WAS L 46 10 3 12 25.0 2 8 25.0 2 2 100.0 1 7 8 1 0 0 2 3 -11
+p258
+aVMike Miller ORL 03/03/2002 ORL @ WAS L 45 17 7 18 38.9 0 4 0.0 3 5 60.0 1 4 5 5 2 0 2 1 -11
+p259
+aVMike Miller ORL 03/01/2002 ORL @ DET L 36 13 4 9 44.4 1 3 33.3 4 6 66.7 0 2 2 5 1 0 1 3 6
+p260
+aVDon Reid ORL 03/01/2002 ORL @ DET L 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 3 3 0
+p261
+aVSteven Hunter ORL 03/01/2002 ORL @ DET L 0 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p262
+aVAndrew DeClercq ORL 03/01/2002 ORL @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p263
+aVPatrick Ewing ORL 03/01/2002 ORL @ DET L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 1 0 1 1 -7
+p264
+aVMonty Williams ORL 03/01/2002 ORL @ DET L 13 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 3 0 0 0 1 -4
+p265
+aVTracy McGrady ORL 03/01/2002 ORL @ DET L 40 29 11 29 37.9 2 6 33.3 5 8 62.5 1 6 7 2 1 1 0 5 -9
+p266
+aVPat Garrity ORL 03/01/2002 ORL @ DET L 40 11 4 10 40.0 3 5 60.0 0 0 - 1 7 8 2 0 0 1 4 -7
+p267
+aVDarrell Armstrong ORL 03/01/2002 ORL @ DET L 35 9 3 4 75.0 1 2 50.0 2 2 100.0 1 2 3 7 4 0 1 2 -5
+p268
+aVHorace Grant ORL 03/01/2002 ORL @ DET L 31 11 5 8 62.5 0 0 - 1 2 50.0 1 4 5 0 0 0 0 2 -8
+p269
+aVTroy Hudson ORL 03/01/2002 ORL @ DET L 23 17 7 10 70.0 0 0 - 3 3 100.0 1 0 1 0 0 0 2 2 -10
+p270
+aVTracy McGrady ORL 02/27/2002 ORL @ TOR W 44 24 7 20 35.0 0 2 0.0 10 10 100.0 0 3 3 8 0 0 2 2 8
+p271
+aVMike Miller ORL 02/27/2002 ORL @ TOR W 35 12 5 11 45.5 1 1 100.0 1 2 50.0 0 5 5 4 0 0 2 3 13
+p272
+aVSteven Hunter ORL 02/27/2002 ORL @ TOR W 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -3
+p273
+aVTroy Hudson ORL 02/27/2002 ORL @ TOR W 23 6 3 9 33.3 0 2 0.0 0 0 - 0 1 1 3 1 0 3 0 9
+p274
+aVHorace Grant ORL 02/27/2002 ORL @ TOR W 37 18 8 9 88.9 0 0 - 2 2 100.0 1 7 8 1 1 0 0 2 7
+p275
+aVDarrell Armstrong ORL 02/27/2002 ORL @ TOR W 29 7 1 4 25.0 1 3 33.3 4 4 100.0 0 2 2 2 3 0 5 3 -1
+p276
+aVPatrick Ewing ORL 02/27/2002 ORL @ TOR W 10 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -6
+p277
+aVPat Garrity ORL 02/27/2002 ORL @ TOR W 37 10 4 6 66.7 2 3 66.7 0 0 - 0 9 9 0 0 0 1 4 11
+p278
+aVDon Reid ORL 02/27/2002 ORL @ TOR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p279
+aVMonty Williams ORL 02/27/2002 ORL @ TOR W 13 8 4 5 80.0 0 0 - 0 0 - 2 2 4 0 0 1 1 2 -10
+p280
+aVMonty Williams ORL 02/26/2002 ORL @ CHI W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p281
+aVTroy Hudson ORL 02/26/2002 ORL @ CHI W 23 13 4 12 33.3 2 2 100.0 3 3 100.0 0 0 0 2 0 0 0 2 4
+p282
+aVTracy McGrady ORL 02/26/2002 ORL @ CHI W 41 25 9 19 47.4 2 3 66.7 5 8 62.5 0 9 9 7 2 1 1 1 12
+p283
+aVDon Reid ORL 02/26/2002 ORL @ CHI W 7 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 5
+p284
+aVPatrick Ewing ORL 02/26/2002 ORL @ CHI W 10 6 2 5 40.0 0 0 - 2 4 50.0 3 7 10 1 0 0 1 2 0
+p285
+aVDarrell Armstrong ORL 02/26/2002 ORL @ CHI W 34 9 3 8 37.5 3 7 42.9 0 0 - 0 3 3 11 0 0 0 0 3
+p286
+aVHorace Grant ORL 02/26/2002 ORL @ CHI W 28 16 8 10 80.0 0 0 - 0 0 - 2 3 5 3 0 0 1 2 18
+p287
+aVJud Buechler ORL 02/26/2002 ORL @ CHI W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p288
+aVMike Miller ORL 02/26/2002 ORL @ CHI W 40 15 5 12 41.7 1 5 20.0 4 4 100.0 2 2 4 10 1 0 1 1 23
+p289
+aVPat Garrity ORL 02/26/2002 ORL @ CHI W 32 18 7 11 63.6 2 5 40.0 2 2 100.0 1 7 8 2 0 0 1 3 19
+p290
+aVSteven Hunter ORL 02/26/2002 ORL @ CHI W 10 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -6
+p291
+aVJud Buechler ORL 02/24/2002 ORL @ CLE L 22 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -15
+p292
+aVSteven Hunter ORL 02/24/2002 ORL @ CLE L 21 7 1 3 33.3 0 0 - 5 6 83.3 0 3 3 0 0 1 0 1 4
+p293
+aVMonty Williams ORL 02/24/2002 ORL @ CLE L 32 13 6 12 50.0 0 0 - 1 1 100.0 0 1 1 4 1 0 1 4 -1
+p294
+aVDarrell Armstrong ORL 02/24/2002 ORL @ CLE L 37 14 4 8 50.0 2 4 50.0 4 5 80.0 0 3 3 6 2 0 0 4 -23
+p295
+aVMike Miller ORL 02/24/2002 ORL @ CLE L 35 23 10 23 43.5 1 4 25.0 2 2 100.0 0 2 2 3 2 0 1 2 -11
+p296
+aVDon Reid ORL 02/24/2002 ORL @ CLE L 7 0 0 2 0.0 0 0 - 0 2 0.0 2 0 2 0 0 0 0 1 -7
+p297
+aVAndrew DeClercq ORL 02/24/2002 ORL @ CLE L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 13
+p298
+aVHorace Grant ORL 02/24/2002 ORL @ CLE L 27 8 4 7 57.1 0 0 - 0 1 0.0 1 4 5 1 0 0 1 3 -14
+p299
+aVPatrick Ewing ORL 02/24/2002 ORL @ CLE L 10 5 2 8 25.0 0 0 - 1 2 50.0 5 2 7 0 0 1 0 3 -11
+p300
+aVTroy Hudson ORL 02/24/2002 ORL @ CLE L 41 24 11 22 50.0 2 5 40.0 0 0 - 1 2 3 4 0 1 2 1 -10
+p301
+aVSteven Hunter ORL 02/23/2002 ORL vs. PHI W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p302
+aVTracy McGrady ORL 02/23/2002 ORL vs. PHI W 35 22 8 20 40.0 2 6 33.3 4 5 80.0 2 9 11 11 4 0 2 1 21
+p303
+aVPatrick Ewing ORL 02/23/2002 ORL vs. PHI W 8 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 4
+p304
+aVJud Buechler ORL 02/23/2002 ORL vs. PHI W 14 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 0 2 0 2 0 0
+p305
+aVPat Garrity ORL 02/23/2002 ORL vs. PHI W 29 4 2 9 22.2 0 4 0.0 0 0 - 1 3 4 0 3 1 1 2 17
+p306
+aVMike Miller ORL 02/23/2002 ORL vs. PHI W 37 25 9 17 52.9 5 8 62.5 2 2 100.0 1 10 11 2 0 0 4 2 17
+p307
+aVMonty Williams ORL 02/23/2002 ORL vs. PHI W 18 5 1 4 25.0 0 0 - 3 4 75.0 3 2 5 2 1 0 1 1 1
+p308
+aVTroy Hudson ORL 02/23/2002 ORL vs. PHI W 20 12 5 10 50.0 2 4 50.0 0 0 - 1 0 1 3 1 0 3 2 8
+p309
+aVHorace Grant ORL 02/23/2002 ORL vs. PHI W 22 2 1 3 33.3 0 0 - 0 0 - 3 2 5 2 1 0 2 0 9
+p310
+aVDon Reid ORL 02/23/2002 ORL vs. PHI W 17 6 2 5 40.0 0 0 - 2 5 40.0 1 2 3 2 0 3 2 6 1
+p311
+aVDarrell Armstrong ORL 02/23/2002 ORL vs. PHI W 31 15 6 12 50.0 3 8 37.5 0 1 0.0 0 3 3 4 2 0 0 2 18
+p312
+aVAndrew DeClercq ORL 02/23/2002 ORL vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p313
+aVAndrew DeClercq ORL 02/21/2002 ORL vs. LAC W 12 2 1 3 33.3 0 0 - 0 0 - 2 0 2 4 1 0 1 2 -4
+p314
+aVMonty Williams ORL 02/21/2002 ORL vs. LAC W 26 13 5 5 100.0 0 0 - 3 3 100.0 1 3 4 1 0 0 2 3 -4
+p315
+aVHorace Grant ORL 02/21/2002 ORL vs. LAC W 22 6 3 5 60.0 0 0 - 0 0 - 6 5 11 1 1 0 0 1 12
+p316
+aVJud Buechler ORL 02/21/2002 ORL vs. LAC W 10 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 -6
+p317
+aVPat Garrity ORL 02/21/2002 ORL vs. LAC W 25 3 1 8 12.5 1 3 33.3 0 0 - 2 3 5 2 1 0 1 4 16
+p318
+aVMike Miller ORL 02/21/2002 ORL vs. LAC W 35 19 8 21 38.1 2 6 33.3 1 1 100.0 0 2 2 2 0 0 0 2 25
+p319
+aVSteven Hunter ORL 02/21/2002 ORL vs. LAC W 10 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 0 2 0 1 -2
+p320
+aVTracy McGrady ORL 02/21/2002 ORL vs. LAC W 30 22 8 17 47.1 2 5 40.0 4 7 57.1 2 5 7 2 3 1 1 0 16
+p321
+aVDarrell Armstrong ORL 02/21/2002 ORL vs. LAC W 26 20 8 14 57.1 4 7 57.1 0 0 - 3 3 6 4 3 0 2 2 17
+p322
+aVTroy Hudson ORL 02/21/2002 ORL vs. LAC W 22 8 2 8 25.0 0 3 0.0 4 4 100.0 0 2 2 5 0 0 4 2 0
+p323
+aVPatrick Ewing ORL 02/21/2002 ORL vs. LAC W 11 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 0 0 0 0 9
+p324
+aVDon Reid ORL 02/21/2002 ORL vs. LAC W 11 7 2 3 66.7 0 0 - 3 4 75.0 1 1 2 1 1 0 2 5 6
+p325
+aVMonty Williams ORL 02/16/2002 ORL @ HOU W 14 4 2 3 66.7 0 0 - 0 6 0.0 1 3 4 1 0 1 2 0 0
+p326
+aVMike Miller ORL 02/16/2002 ORL @ HOU W 33 15 6 9 66.7 1 1 100.0 2 4 50.0 1 3 4 4 0 0 3 4 7
+p327
+aVDon Reid ORL 02/16/2002 ORL @ HOU W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 0
+p328
+aVPat Garrity ORL 02/16/2002 ORL @ HOU W 41 17 7 11 63.6 3 3 100.0 0 0 - 1 4 5 2 0 2 0 3 8
+p329
+aVDarrell Armstrong ORL 02/16/2002 ORL @ HOU W 41 27 8 11 72.7 5 8 62.5 6 6 100.0 1 3 4 4 1 0 1 1 15
+p330
+aVJud Buechler ORL 02/16/2002 ORL @ HOU W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p331
+aVPatrick Ewing ORL 02/16/2002 ORL @ HOU W 5 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 1 0 2 1 -3
+p332
+aVHorace Grant ORL 02/16/2002 ORL @ HOU W 32 0 0 2 0.0 0 0 - 0 0 - 0 7 7 3 3 1 1 3 9
+p333
+aVTracy McGrady ORL 02/16/2002 ORL @ HOU W 44 39 14 32 43.8 2 6 33.3 9 11 81.8 2 10 12 7 2 2 2 2 13
+p334
+aVTroy Hudson ORL 02/16/2002 ORL @ HOU W 22 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 1 1 0 2 2 0
+p335
+aVJud Buechler ORL 02/13/2002 ORL @ MIA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p336
+aVTracy McGrady ORL 02/13/2002 ORL @ MIA L 41 26 10 20 50.0 3 4 75.0 3 8 37.5 0 4 4 6 2 0 2 2 -10
+p337
+aVPat Garrity ORL 02/13/2002 ORL @ MIA L 36 25 10 16 62.5 3 3 100.0 2 2 100.0 0 5 5 2 0 0 1 2 -4
+p338
+aVPatrick Ewing ORL 02/13/2002 ORL @ MIA L 11 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 1 0 4 -3
+p339
+aVHorace Grant ORL 02/13/2002 ORL @ MIA L 26 8 4 7 57.1 0 0 - 0 0 - 1 2 3 2 4 0 0 1 0
+p340
+aVMike Miller ORL 02/13/2002 ORL @ MIA L 43 16 5 10 50.0 2 4 50.0 4 6 66.7 2 1 3 3 0 0 0 2 -14
+p341
+aVDon Reid ORL 02/13/2002 ORL @ MIA L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -12
+p342
+aVTroy Hudson ORL 02/13/2002 ORL @ MIA L 25 7 3 8 37.5 1 1 100.0 0 1 0.0 0 1 1 2 0 0 2 1 -19
+p343
+aVMonty Williams ORL 02/13/2002 ORL @ MIA L 11 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 1 -11
+p344
+aVSteven Hunter ORL 02/13/2002 ORL @ MIA L 2 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -2
+p345
+aVDarrell Armstrong ORL 02/13/2002 ORL @ MIA L 31 2 0 4 0.0 0 2 0.0 2 2 100.0 0 2 2 3 0 0 2 1 -7
+p346
+aVMike Miller ORL 02/12/2002 ORL vs. NYK W 42 18 4 10 40.0 1 1 100.0 9 12 75.0 0 5 5 10 2 1 2 3 18
+p347
+aVPat Garrity ORL 02/12/2002 ORL vs. NYK W 39 29 11 15 73.3 6 8 75.0 1 1 100.0 0 4 4 3 3 0 2 1 4
+p348
+aVHorace Grant ORL 02/12/2002 ORL vs. NYK W 30 7 3 4 75.0 0 0 - 1 2 50.0 2 3 5 1 1 3 0 3 11
+p349
+aVPatrick Ewing ORL 02/12/2002 ORL vs. NYK W 9 5 1 1 100.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 2 -3
+p350
+aVSteven Hunter ORL 02/12/2002 ORL vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p351
+aVMonty Williams ORL 02/12/2002 ORL vs. NYK W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p352
+aVTroy Hudson ORL 02/12/2002 ORL vs. NYK W 18 14 6 12 50.0 0 2 0.0 2 2 100.0 0 3 3 1 0 0 3 2 -10
+p353
+aVJud Buechler ORL 02/12/2002 ORL vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -13
+p354
+aVDarrell Armstrong ORL 02/12/2002 ORL vs. NYK W 35 11 4 8 50.0 3 7 42.9 0 0 - 0 2 2 9 2 0 2 0 20
+p355
+aVDon Reid ORL 02/12/2002 ORL vs. NYK W 13 2 1 2 50.0 0 0 - 0 1 0.0 1 3 4 2 0 1 0 4 6
+p356
+aVTracy McGrady ORL 02/12/2002 ORL vs. NYK W 41 36 16 26 61.5 0 4 0.0 4 6 66.7 1 6 7 8 4 1 4 0 22
+p357
+aVTracy McGrady ORL 02/05/2002 ORL vs. CLE W 42 29 12 24 50.0 1 4 25.0 4 5 80.0 2 6 8 4 2 2 3 3 9
+p358
+aVJeryl Sasser ORL 02/05/2002 ORL vs. CLE W 2 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -8
+p359
+aVAndrew DeClercq ORL 02/05/2002 ORL vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -8
+p360
+aVMike Miller ORL 02/05/2002 ORL vs. CLE W 37 8 2 7 28.6 1 3 33.3 3 4 75.0 0 8 8 6 1 1 3 3 11
+p361
+aVDon Reid ORL 02/05/2002 ORL vs. CLE W 18 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 1 0 2 3 3
+p362
+aVJud Buechler ORL 02/05/2002 ORL vs. CLE W 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -4
+p363
+aVHorace Grant ORL 02/05/2002 ORL vs. CLE W 26 14 6 9 66.7 0 0 - 2 2 100.0 1 4 5 0 1 0 2 0 4
+p364
+aVSteven Hunter ORL 02/05/2002 ORL vs. CLE W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 2 0 -8
+p365
+aVPat Garrity ORL 02/05/2002 ORL vs. CLE W 18 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 0 0 0 17
+p366
+aVMonty Williams ORL 02/05/2002 ORL vs. CLE W 17 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 1 1 0 1 1 -10
+p367
+aVDarrell Armstrong ORL 02/05/2002 ORL vs. CLE W 37 14 4 10 40.0 3 5 60.0 3 3 100.0 1 2 3 5 2 0 4 1 24
+p368
+aVTroy Hudson ORL 02/05/2002 ORL vs. CLE W 27 22 10 18 55.6 0 4 0.0 2 2 100.0 0 3 3 2 2 0 3 0 10
+p369
+aVSteven Hunter ORL 02/03/2002 ORL vs. SAS L 18 7 3 7 42.9 0 0 - 1 2 50.0 0 2 2 0 0 2 0 4 -6
+p370
+aVPat Garrity ORL 02/03/2002 ORL vs. SAS L 31 11 5 14 35.7 0 4 0.0 1 2 50.0 0 3 3 1 2 0 0 4 3
+p371
+aVAndrew DeClercq ORL 02/03/2002 ORL vs. SAS L 19 2 1 3 33.3 0 0 - 0 2 0.0 1 5 6 0 0 1 0 1 -9
+p372
+aVTroy Hudson ORL 02/03/2002 ORL vs. SAS L 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -6
+p373
+aVTracy McGrady ORL 02/03/2002 ORL vs. SAS L 50 26 12 36 33.3 2 8 25.0 0 2 0.0 9 8 17 6 1 0 4 1 -2
+p374
+aVMonty Williams ORL 02/03/2002 ORL vs. SAS L 11 0 0 4 0.0 0 1 0.0 0 0 - 2 2 4 1 0 0 1 0 -6
+p375
+aVMike Miller ORL 02/03/2002 ORL vs. SAS L 45 18 7 18 38.9 2 5 40.0 2 2 100.0 1 5 6 7 0 0 1 5 -6
+p376
+aVDarrell Armstrong ORL 02/03/2002 ORL vs. SAS L 41 25 8 17 47.1 0 4 0.0 9 9 100.0 0 2 2 7 5 0 5 3 1
+p377
+aVDon Reid ORL 02/03/2002 ORL vs. SAS L 36 7 3 8 37.5 0 0 - 1 2 50.0 4 9 13 0 0 6 1 5 -4
+p378
+aVDon Reid ORL 02/01/2002 ORL @ DET W 19 4 2 6 33.3 0 0 - 0 2 0.0 2 1 3 0 1 1 2 3 3
+p379
+aVTracy McGrady ORL 02/01/2002 ORL @ DET W 29 12 5 14 35.7 0 3 0.0 2 2 100.0 1 8 9 4 4 0 5 5 0
+p380
+aVTroy Hudson ORL 02/01/2002 ORL @ DET W 19 11 3 12 25.0 0 1 0.0 5 5 100.0 1 0 1 0 0 0 1 1 -8
+p381
+aVJud Buechler ORL 02/01/2002 ORL @ DET W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p382
+aVAndrew DeClercq ORL 02/01/2002 ORL @ DET W 27 12 5 8 62.5 0 0 - 2 4 50.0 5 3 8 0 1 1 0 4 1
+p383
+aVPat Garrity ORL 02/01/2002 ORL @ DET W 40 10 4 7 57.1 2 3 66.7 0 0 - 1 6 7 0 0 0 0 1 3
+p384
+aVMike Miller ORL 02/01/2002 ORL @ DET W 38 18 6 15 40.0 2 3 66.7 4 4 100.0 1 2 3 1 2 1 4 2 6
+p385
+aVDarrell Armstrong ORL 02/01/2002 ORL @ DET W 37 12 3 12 25.0 3 4 75.0 3 3 100.0 1 5 6 4 4 0 3 1 5
+p386
+aVMonty Williams ORL 02/01/2002 ORL @ DET W 25 4 2 7 28.6 0 0 - 0 0 - 0 3 3 2 1 0 1 3 1
+p387
+aVDon Reid ORL 01/30/2002 ORL vs. LAL L 18 6 3 4 75.0 0 0 - 0 0 - 2 3 5 1 0 0 2 5 6
+p388
+aVTracy McGrady ORL 01/30/2002 ORL vs. LAL L 40 22 8 16 50.0 2 6 33.3 4 4 100.0 0 10 10 3 1 1 3 2 -7
+p389
+aVPat Garrity ORL 01/30/2002 ORL vs. LAL L 41 22 8 18 44.4 6 13 46.2 0 0 - 0 3 3 0 0 0 3 5 -10
+p390
+aVTroy Hudson ORL 01/30/2002 ORL vs. LAL L 21 11 5 13 38.5 1 1 100.0 0 0 - 0 2 2 2 0 0 1 0 -15
+p391
+aVAndrew DeClercq ORL 01/30/2002 ORL vs. LAL L 21 0 0 3 0.0 0 0 - 0 0 - 4 3 7 0 0 0 1 4 -17
+p392
+aVMike Miller ORL 01/30/2002 ORL vs. LAL L 44 13 4 16 25.0 0 5 0.0 5 6 83.3 0 5 5 6 2 0 2 4 -12
+p393
+aVJud Buechler ORL 01/30/2002 ORL vs. LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p394
+aVDarrell Armstrong ORL 01/30/2002 ORL vs. LAL L 35 12 3 9 33.3 2 6 33.3 4 4 100.0 0 4 4 7 1 0 2 3 -8
+p395
+aVJeryl Sasser ORL 01/30/2002 ORL vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p396
+aVSteven Hunter ORL 01/30/2002 ORL vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p397
+aVMonty Williams ORL 01/30/2002 ORL vs. LAL L 13 7 3 4 75.0 0 0 - 1 3 33.3 1 2 3 0 0 0 1 2 -16
+p398
+aVTroy Hudson ORL 01/27/2002 ORL @ TOR L 26 13 3 8 37.5 1 3 33.3 6 6 100.0 0 2 2 4 1 0 2 1 -2
+p399
+aVPat Garrity ORL 01/27/2002 ORL @ TOR L 24 4 1 7 14.3 1 2 50.0 1 1 100.0 0 2 2 1 0 0 1 3 -5
+p400
+aVDarrell Armstrong ORL 01/27/2002 ORL @ TOR L 40 20 6 12 50.0 2 4 50.0 6 7 85.7 1 3 4 5 3 1 2 2 -5
+p401
+aVTracy McGrady ORL 01/27/2002 ORL @ TOR L 43 27 8 18 44.4 2 6 33.3 9 9 100.0 0 10 10 2 2 2 4 0 -7
+p402
+aVMonty Williams ORL 01/27/2002 ORL @ TOR L 11 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 2 2 -3
+p403
+aVJud Buechler ORL 01/27/2002 ORL @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p404
+aVMike Miller ORL 01/27/2002 ORL @ TOR L 41 8 3 7 42.9 2 4 50.0 0 0 - 1 3 4 3 2 0 3 2 -9
+p405
+aVSteven Hunter ORL 01/27/2002 ORL @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p406
+aVDon Reid ORL 01/27/2002 ORL @ TOR L 13 8 3 4 75.0 0 0 - 2 4 50.0 1 3 4 0 0 1 0 2 -12
+p407
+aVHorace Grant ORL 01/27/2002 ORL @ TOR L 40 15 7 12 58.3 0 0 - 1 1 100.0 3 2 5 0 1 0 1 2 -5
+p408
+aVDarrell Armstrong ORL 01/24/2002 ORL vs. MIA W 38 18 4 9 44.4 1 4 25.0 9 9 100.0 1 4 5 6 4 0 3 3 7
+p409
+aVMike Miller ORL 01/24/2002 ORL vs. MIA W 34 12 4 14 28.6 2 8 25.0 2 4 50.0 0 8 8 5 1 0 2 3 -5
+p410
+aVJud Buechler ORL 01/24/2002 ORL vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p411
+aVHorace Grant ORL 01/24/2002 ORL vs. MIA W 37 7 2 6 33.3 0 0 - 3 6 50.0 3 6 9 2 1 1 1 5 8
+p412
+aVPat Garrity ORL 01/24/2002 ORL vs. MIA W 35 14 6 12 50.0 2 5 40.0 0 0 - 1 4 5 2 0 0 1 3 0
+p413
+aVMonty Williams ORL 01/24/2002 ORL vs. MIA W 11 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 1 0 0 2 -2
+p414
+aVTracy McGrady ORL 01/24/2002 ORL vs. MIA W 42 17 6 17 35.3 2 5 40.0 3 9 33.3 3 8 11 3 2 2 2 1 8
+p415
+aVTroy Hudson ORL 01/24/2002 ORL vs. MIA W 29 17 5 16 31.3 1 6 16.7 6 7 85.7 0 2 2 4 2 0 2 1 11
+p416
+aVDon Reid ORL 01/24/2002 ORL vs. MIA W 13 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 0
+p417
+aVTracy McGrady ORL 01/22/2002 ORL vs. ATL W 29 9 4 7 57.1 1 2 50.0 0 4 0.0 1 8 9 8 1 1 2 2 17
+p418
+aVHorace Grant ORL 01/22/2002 ORL vs. ATL W 25 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 1 1 0 0 1 7
+p419
+aVDarrell Armstrong ORL 01/22/2002 ORL vs. ATL W 27 15 6 8 75.0 3 5 60.0 0 0 - 1 3 4 2 2 0 4 1 8
+p420
+aVJud Buechler ORL 01/22/2002 ORL vs. ATL W 17 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 0 5
+p421
+aVMike Miller ORL 01/22/2002 ORL vs. ATL W 29 5 2 8 25.0 1 3 33.3 0 0 - 2 1 3 4 0 0 2 2 7
+p422
+aVSteven Hunter ORL 01/22/2002 ORL vs. ATL W 6 2 0 1 0.0 0 0 - 2 4 50.0 0 0 0 0 0 1 0 0 -6
+p423
+aVAndrew DeClercq ORL 01/22/2002 ORL vs. ATL W 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 3 0
+p424
+aVPat Garrity ORL 01/22/2002 ORL vs. ATL W 34 23 9 13 69.2 3 5 60.0 2 2 100.0 1 1 2 2 0 0 2 2 20
+p425
+aVJeryl Sasser ORL 01/22/2002 ORL vs. ATL W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -7
+p426
+aVMonty Williams ORL 01/22/2002 ORL vs. ATL W 21 10 3 4 75.0 0 0 - 4 4 100.0 0 3 3 1 2 1 0 1 -1
+p427
+aVDon Reid ORL 01/22/2002 ORL vs. ATL W 19 15 7 8 87.5 0 0 - 1 1 100.0 1 2 3 1 1 1 4 3 7
+p428
+aVTroy Hudson ORL 01/22/2002 ORL vs. ATL W 15 7 2 5 40.0 0 1 0.0 3 3 100.0 0 3 3 4 1 0 2 1 13
+p429
+aVPat Garrity ORL 01/19/2002 ORL @ MEM W 30 15 6 10 60.0 2 3 66.7 1 2 50.0 1 5 6 2 1 0 2 3 18
+p430
+aVTracy McGrady ORL 01/19/2002 ORL @ MEM W 26 25 9 14 64.3 1 3 33.3 6 6 100.0 1 9 10 7 2 0 2 3 10
+p431
+aVDon Reid ORL 01/19/2002 ORL @ MEM W 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 1 2 1 5 19
+p432
+aVMonty Williams ORL 01/19/2002 ORL @ MEM W 22 8 4 8 50.0 0 0 - 0 0 - 2 4 6 4 2 0 2 2 6
+p433
+aVMike Miller ORL 01/19/2002 ORL @ MEM W 25 16 4 10 40.0 1 3 33.3 7 8 87.5 0 3 3 4 0 0 1 3 15
+p434
+aVDarrell Armstrong ORL 01/19/2002 ORL @ MEM W 29 9 4 7 57.1 0 1 0.0 1 1 100.0 0 3 3 6 3 1 0 2 10
+p435
+aVAndrew DeClercq ORL 01/19/2002 ORL @ MEM W 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 3 0 1 1 3 0
+p436
+aVSteven Hunter ORL 01/19/2002 ORL @ MEM W 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -5
+p437
+aVTroy Hudson ORL 01/19/2002 ORL @ MEM W 29 18 6 12 50.0 2 3 66.7 4 6 66.7 1 2 3 7 1 0 0 0 10
+p438
+aVJud Buechler ORL 01/19/2002 ORL @ MEM W 13 9 3 5 60.0 3 3 100.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p439
+aVHorace Grant ORL 01/19/2002 ORL @ MEM W 26 8 4 10 40.0 0 0 - 0 0 - 2 3 5 1 0 0 2 1 0
+p440
+aVPat Garrity ORL 01/18/2002 ORL @ MIL L 34 5 2 8 25.0 1 5 20.0 0 0 - 2 2 4 2 1 2 1 1 0
+p441
+aVJud Buechler ORL 01/18/2002 ORL @ MIL L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p442
+aVMike Miller ORL 01/18/2002 ORL @ MIL L 36 25 10 18 55.6 5 8 62.5 0 0 - 0 4 4 1 0 1 1 0 -3
+p443
+aVTracy McGrady ORL 01/18/2002 ORL @ MIL L 41 22 9 22 40.9 1 4 25.0 3 3 100.0 0 5 5 4 0 1 0 2 -15
+p444
+aVAndrew DeClercq ORL 01/18/2002 ORL @ MIL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p445
+aVHorace Grant ORL 01/18/2002 ORL @ MIL L 34 17 6 10 60.0 0 0 - 5 5 100.0 3 3 6 4 1 3 0 3 -2
+p446
+aVMonty Williams ORL 01/18/2002 ORL @ MIL L 13 6 3 8 37.5 0 0 - 0 0 - 0 3 3 2 0 0 0 2 9
+p447
+aVTroy Hudson ORL 01/18/2002 ORL @ MIL L 19 9 3 11 27.3 2 5 40.0 1 1 100.0 0 3 3 2 0 0 0 5 -7
+p448
+aVDon Reid ORL 01/18/2002 ORL @ MIL L 15 8 4 6 66.7 0 0 - 0 0 - 4 0 4 1 0 1 1 3 -5
+p449
+aVDarrell Armstrong ORL 01/18/2002 ORL @ MIL L 36 18 7 15 46.7 2 4 50.0 2 2 100.0 2 4 6 8 2 0 0 3 0
+p450
+aVDon Reid ORL 01/14/2002 ORL vs. DAL W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 0
+p451
+aVJud Buechler ORL 01/14/2002 ORL vs. DAL W 14 2 1 4 25.0 0 1 0.0 0 0 - 3 4 7 1 1 0 0 0 -1
+p452
+aVSteven Hunter ORL 01/14/2002 ORL vs. DAL W 6 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p453
+aVDarrell Armstrong ORL 01/14/2002 ORL vs. DAL W 23 11 4 7 57.1 0 0 - 3 3 100.0 0 2 2 2 1 0 1 2 18
+p454
+aVAndrew DeClercq ORL 01/14/2002 ORL vs. DAL W 17 8 4 6 66.7 0 0 - 0 0 - 4 2 6 1 0 0 2 5 0
+p455
+aVMonty Williams ORL 01/14/2002 ORL vs. DAL W 25 5 1 4 25.0 0 0 - 3 6 50.0 2 6 8 4 1 0 3 2 6
+p456
+aVMike Miller ORL 01/14/2002 ORL vs. DAL W 26 15 6 10 60.0 1 2 50.0 2 3 66.7 0 5 5 1 0 0 1 3 33
+p457
+aVTracy McGrady ORL 01/14/2002 ORL vs. DAL W 31 26 8 16 50.0 2 4 50.0 8 8 100.0 1 7 8 3 0 0 3 0 20
+p458
+aVHorace Grant ORL 01/14/2002 ORL vs. DAL W 26 16 6 9 66.7 0 0 - 4 4 100.0 1 5 6 2 0 0 0 1 24
+p459
+aVPat Garrity ORL 01/14/2002 ORL vs. DAL W 34 7 3 9 33.3 1 3 33.3 0 0 - 2 4 6 3 0 0 0 3 29
+p460
+aVTroy Hudson ORL 01/14/2002 ORL vs. DAL W 30 21 6 12 50.0 3 7 42.9 6 6 100.0 0 2 2 5 0 0 3 2 6
+p461
+aVMike Miller ORL 01/12/2002 ORL vs. NJN L 32 10 3 12 25.0 2 8 25.0 2 5 40.0 1 6 7 0 0 1 4 3 2
+p462
+aVJud Buechler ORL 01/12/2002 ORL vs. NJN L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p463
+aVDarrell Armstrong ORL 01/12/2002 ORL vs. NJN L 32 2 1 10 10.0 0 7 0.0 0 0 - 2 6 8 4 4 0 4 2 -10
+p464
+aVPat Garrity ORL 01/12/2002 ORL vs. NJN L 38 17 6 13 46.2 3 7 42.9 2 2 100.0 1 6 7 0 1 1 1 4 -3
+p465
+aVDon Reid ORL 01/12/2002 ORL vs. NJN L 20 9 4 6 66.7 0 0 - 1 2 50.0 2 2 4 1 0 3 1 5 -3
+p466
+aVTracy McGrady ORL 01/12/2002 ORL vs. NJN L 39 17 6 20 30.0 0 2 0.0 5 8 62.5 3 9 12 7 0 3 2 1 -7
+p467
+aVTroy Hudson ORL 01/12/2002 ORL vs. NJN L 25 7 3 8 37.5 1 2 50.0 0 0 - 0 2 2 6 1 0 2 0 -1
+p468
+aVHorace Grant ORL 01/12/2002 ORL vs. NJN L 33 16 8 13 61.5 0 0 - 0 0 - 2 6 8 0 1 2 0 2 -4
+p469
+aVMonty Williams ORL 01/12/2002 ORL vs. NJN L 13 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 1 1 0 1 3 -5
+p470
+aVAndrew DeClercq ORL 01/11/2002 ORL vs. POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 4
+p471
+aVMike Miller ORL 01/11/2002 ORL vs. POR L 45 14 6 14 42.9 0 3 0.0 2 3 66.7 1 6 7 3 1 2 2 1 -8
+p472
+aVMonty Williams ORL 01/11/2002 ORL vs. POR L 14 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 0 0 1 2 -4
+p473
+aVDarrell Armstrong ORL 01/11/2002 ORL vs. POR L 34 16 6 8 75.0 2 4 50.0 2 3 66.7 2 3 5 5 1 0 3 2 -7
+p474
+aVJud Buechler ORL 01/11/2002 ORL vs. POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p475
+aVTracy McGrady ORL 01/11/2002 ORL vs. POR L 40 17 6 17 35.3 0 3 0.0 5 7 71.4 2 2 4 4 1 0 2 3 -6
+p476
+aVHorace Grant ORL 01/11/2002 ORL vs. POR L 33 10 5 5 100.0 0 0 - 0 1 0.0 4 3 7 0 1 2 1 1 -3
+p477
+aVPat Garrity ORL 01/11/2002 ORL vs. POR L 32 11 4 13 30.8 3 6 50.0 0 0 - 0 4 4 2 0 0 5 4 1
+p478
+aVTroy Hudson ORL 01/11/2002 ORL vs. POR L 17 8 3 6 50.0 1 3 33.3 1 1 100.0 0 1 1 2 1 0 1 3 -6
+p479
+aVDon Reid ORL 01/11/2002 ORL vs. POR L 16 5 2 6 33.3 0 0 - 1 1 100.0 3 0 3 0 2 1 1 1 -5
+p480
+aVMike Miller ORL 01/09/2002 ORL @ PHI W 41 18 7 16 43.8 4 5 80.0 0 0 - 0 9 9 4 0 0 1 4 7
+p481
+aVHorace Grant ORL 01/09/2002 ORL @ PHI W 35 21 9 15 60.0 0 0 - 3 3 100.0 1 1 2 3 0 0 1 2 10
+p482
+aVDon Reid ORL 01/09/2002 ORL @ PHI W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -3
+p483
+aVPat Garrity ORL 01/09/2002 ORL @ PHI W 38 10 3 9 33.3 2 6 33.3 2 2 100.0 0 5 5 1 1 0 0 4 11
+p484
+aVTracy McGrady ORL 01/09/2002 ORL @ PHI W 48 26 9 23 39.1 1 3 33.3 7 10 70.0 1 9 10 8 3 3 2 3 11
+p485
+aVDarrell Armstrong ORL 01/09/2002 ORL @ PHI W 30 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 6 1 0 1 3 13
+p486
+aVJud Buechler ORL 01/09/2002 ORL @ PHI W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p487
+aVTroy Hudson ORL 01/09/2002 ORL @ PHI W 19 10 4 8 50.0 1 2 50.0 1 1 100.0 0 1 1 3 0 0 0 1 5
+p488
+aVMonty Williams ORL 01/09/2002 ORL @ PHI W 15 9 4 5 80.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 -3
+p489
+aVDarrell Armstrong ORL 01/07/2002 ORL vs. BOS W 31 13 3 8 37.5 1 4 25.0 6 6 100.0 1 5 6 6 4 0 5 0 19
+p490
+aVDon Reid ORL 01/07/2002 ORL vs. BOS W 9 7 3 4 75.0 0 0 - 1 1 100.0 1 1 2 0 0 1 0 5 3
+p491
+aVTracy McGrady ORL 01/07/2002 ORL vs. BOS W 39 21 9 18 50.0 3 6 50.0 0 0 - 0 7 7 6 0 0 4 1 5
+p492
+aVSteven Hunter ORL 01/07/2002 ORL vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p493
+aVMike Miller ORL 01/07/2002 ORL vs. BOS W 42 27 9 18 50.0 4 8 50.0 5 8 62.5 3 6 9 5 1 0 4 2 12
+p494
+aVTroy Hudson ORL 01/07/2002 ORL vs. BOS W 18 10 3 10 30.0 0 1 0.0 4 4 100.0 1 1 2 5 0 0 1 0 -6
+p495
+aVJud Buechler ORL 01/07/2002 ORL vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p496
+aVMonty Williams ORL 01/07/2002 ORL vs. BOS W 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 5
+p497
+aVHorace Grant ORL 01/07/2002 ORL vs. BOS W 35 11 4 9 44.4 0 0 - 3 6 50.0 5 2 7 2 0 1 1 1 8
+p498
+aVPat Garrity ORL 01/07/2002 ORL vs. BOS W 38 5 2 11 18.2 1 8 12.5 0 0 - 3 6 9 0 1 2 1 1 13
+p499
+aVAndrew DeClercq ORL 01/07/2002 ORL vs. BOS W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 1 1 2 -1
+p500
+aVSteven Hunter ORL 01/05/2002 ORL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p501
+aVJud Buechler ORL 01/05/2002 ORL vs. GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p502
+aVMonty Williams ORL 01/05/2002 ORL vs. GSW W 16 11 4 5 80.0 0 0 - 3 4 75.0 1 2 3 1 0 1 3 2 -7
+p503
+aVTracy McGrady ORL 01/05/2002 ORL vs. GSW W 42 17 5 17 29.4 1 4 25.0 6 7 85.7 4 6 10 8 3 1 2 1 12
+p504
+aVDon Reid ORL 01/05/2002 ORL vs. GSW W 22 4 2 5 40.0 0 0 - 0 2 0.0 3 4 7 2 0 2 1 5 -7
+p505
+aVTroy Hudson ORL 01/05/2002 ORL vs. GSW W 28 26 9 14 64.3 4 5 80.0 4 4 100.0 1 1 2 1 0 0 4 3 4
+p506
+aVPatrick Ewing ORL 01/05/2002 ORL vs. GSW W 15 8 4 8 50.0 0 0 - 0 0 - 1 4 5 2 1 1 2 2 6
+p507
+aVPat Garrity ORL 01/05/2002 ORL vs. GSW W 20 9 3 5 60.0 3 4 75.0 0 0 - 1 1 2 1 0 0 0 4 13
+p508
+aVDarrell Armstrong ORL 01/05/2002 ORL vs. GSW W 29 9 3 13 23.1 2 7 28.6 1 1 100.0 2 1 3 3 1 0 2 4 4
+p509
+aVMike Miller ORL 01/05/2002 ORL vs. GSW W 30 19 6 11 54.5 3 6 50.0 4 6 66.7 1 2 3 2 0 2 2 5 17
+p510
+aVHorace Grant ORL 01/05/2002 ORL vs. GSW W 33 15 6 8 75.0 0 0 - 3 3 100.0 5 6 11 3 0 1 1 2 13
+p511
+aVPat Garrity ORL 01/04/2002 ORL @ NJN W 23 14 6 8 75.0 2 4 50.0 0 0 - 1 2 3 1 1 0 0 1 13
+p512
+aVHorace Grant ORL 01/04/2002 ORL @ NJN W 38 8 4 7 57.1 0 0 - 0 0 - 1 6 7 1 0 1 1 1 12
+p513
+aVTroy Hudson ORL 01/04/2002 ORL @ NJN W 20 14 6 8 75.0 1 2 50.0 1 1 100.0 0 1 1 2 2 0 0 0 6
+p514
+aVMike Miller ORL 01/04/2002 ORL @ NJN W 41 18 7 15 46.7 2 5 40.0 2 2 100.0 2 3 5 2 2 0 3 2 20
+p515
+aVTracy McGrady ORL 01/04/2002 ORL @ NJN W 36 35 11 25 44.0 1 4 25.0 12 16 75.0 2 5 7 5 2 0 7 1 2
+p516
+aVPatrick Ewing ORL 01/04/2002 ORL @ NJN W 22 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 3 1 1 1 4
+p517
+aVDarrell Armstrong ORL 01/04/2002 ORL @ NJN W 34 10 3 7 42.9 2 4 50.0 2 3 66.7 1 2 3 9 2 1 0 2 11
+p518
+aVAndrew DeClercq ORL 01/04/2002 ORL @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p519
+aVMonty Williams ORL 01/04/2002 ORL @ NJN W 14 2 1 2 50.0 0 0 - 0 0 - 0 5 5 1 0 0 1 1 0
+p520
+aVDon Reid ORL 01/04/2002 ORL @ NJN W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 6 4
+p521
+aVJud Buechler ORL 01/02/2002 ORL @ BOS L 13 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 0 1 0
+p522
+aVPatrick Ewing ORL 01/02/2002 ORL @ BOS L 20 11 5 8 62.5 0 0 - 1 2 50.0 1 5 6 1 2 2 3 1 -11
+p523
+aVJeryl Sasser ORL 01/02/2002 ORL @ BOS L 8 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 2 0 0 0 6
+p524
+aVHorace Grant ORL 01/02/2002 ORL @ BOS L 21 9 4 11 36.4 0 0 - 1 2 50.0 4 3 7 0 0 0 0 2 -9
+p525
+aVTroy Hudson ORL 01/02/2002 ORL @ BOS L 23 9 3 8 37.5 1 3 33.3 2 2 100.0 0 3 3 6 0 0 3 1 -6
+p526
+aVMonty Williams ORL 01/02/2002 ORL @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -8
+p527
+aVMike Miller ORL 01/02/2002 ORL @ BOS L 38 15 6 14 42.9 3 8 37.5 0 0 - 0 1 1 3 1 0 0 0 -19
+p528
+aVPat Garrity ORL 01/02/2002 ORL @ BOS L 30 19 8 13 61.5 3 7 42.9 0 0 - 1 3 4 2 0 0 1 2 -11
+p529
+aVDarrell Armstrong ORL 01/02/2002 ORL @ BOS L 36 3 1 3 33.3 1 3 33.3 0 0 - 0 6 6 13 2 0 8 3 -14
+p530
+aVAndrew DeClercq ORL 01/02/2002 ORL @ BOS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -4
+p531
+aVTracy McGrady ORL 01/02/2002 ORL @ BOS L 31 15 6 14 42.9 2 4 50.0 1 2 50.0 1 1 2 5 0 2 1 2 -8
+p532
+aVDon Reid ORL 01/02/2002 ORL @ BOS L 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 1 0 0 4
+p533
+aVPat Garrity ORL 12/30/2001 ORL @ NYK W 29 9 3 8 37.5 1 3 33.3 2 2 100.0 0 4 4 1 1 0 1 4 7
+p534
+aVMike Miller ORL 12/30/2001 ORL @ NYK W 33 13 3 12 25.0 3 9 33.3 4 4 100.0 1 1 2 2 1 0 2 4 13
+p535
+aVTroy Hudson ORL 12/30/2001 ORL @ NYK W 24 15 4 9 44.4 1 3 33.3 6 6 100.0 1 7 8 3 0 0 1 1 23
+p536
+aVTracy McGrady ORL 12/30/2001 ORL @ NYK W 42 29 7 23 30.4 1 5 20.0 14 17 82.4 4 7 11 4 4 2 2 0 3
+p537
+aVMonty Williams ORL 12/30/2001 ORL @ NYK W 17 8 4 5 80.0 0 0 - 0 0 - 2 1 3 1 1 0 2 2 -10
+p538
+aVDarrell Armstrong ORL 12/30/2001 ORL @ NYK W 34 7 3 7 42.9 0 4 0.0 1 2 50.0 1 1 2 2 1 0 0 2 0
+p539
+aVHorace Grant ORL 12/30/2001 ORL @ NYK W 17 4 2 3 66.7 0 0 - 0 0 - 0 5 5 1 1 0 0 0 -8
+p540
+aVDon Reid ORL 12/30/2001 ORL @ NYK W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -3
+p541
+aVJud Buechler ORL 12/30/2001 ORL @ NYK W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p542
+aVAndrew DeClercq ORL 12/30/2001 ORL @ NYK W 16 2 0 1 0.0 0 0 - 2 4 50.0 3 2 5 0 0 1 1 4 1
+p543
+aVPatrick Ewing ORL 12/30/2001 ORL @ NYK W 15 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 1 1 0 1 1 -7
+p544
+aVDarrell Armstrong ORL 12/28/2001 ORL vs. DET W 37 21 7 12 58.3 4 6 66.7 3 3 100.0 3 3 6 6 1 0 3 3 5
+p545
+aVTracy McGrady ORL 12/28/2001 ORL vs. DET W 35 20 7 17 41.2 1 2 50.0 5 6 83.3 2 6 8 6 1 0 5 6 2
+p546
+aVPatrick Ewing ORL 12/28/2001 ORL vs. DET W 22 11 4 10 40.0 0 0 - 3 4 75.0 1 8 9 0 1 0 0 4 11
+p547
+aVMonty Williams ORL 12/28/2001 ORL vs. DET W 15 2 1 1 100.0 0 0 - 0 0 - 1 4 5 2 2 0 4 0 13
+p548
+aVTroy Hudson ORL 12/28/2001 ORL vs. DET W 14 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 3 1 0 3 1 1
+p549
+aVMike Miller ORL 12/28/2001 ORL vs. DET W 42 14 6 13 46.2 1 3 33.3 1 2 50.0 1 3 4 4 1 0 2 3 7
+p550
+aVAndrew DeClercq ORL 12/28/2001 ORL vs. DET W 12 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -3
+p551
+aVPat Garrity ORL 12/28/2001 ORL vs. DET W 29 3 1 7 14.3 1 3 33.3 0 0 - 0 5 5 0 2 0 1 4 7
+p552
+aVJud Buechler ORL 12/28/2001 ORL vs. DET W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p553
+aVHorace Grant ORL 12/28/2001 ORL vs. DET W 33 9 4 7 57.1 0 0 - 1 3 33.3 0 8 8 1 0 0 0 3 3
+p554
+aVDarrell Armstrong ORL 12/26/2001 ORL vs. IND L 35 6 2 7 28.6 1 3 33.3 1 1 100.0 0 2 2 5 1 0 1 2 -7
+p555
+aVJeryl Sasser ORL 12/26/2001 ORL vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p556
+aVMike Miller ORL 12/26/2001 ORL vs. IND L 41 9 3 15 20.0 1 6 16.7 2 2 100.0 1 2 3 3 0 3 2 4 -8
+p557
+aVTroy Hudson ORL 12/26/2001 ORL vs. IND L 13 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 4 0 0 2 2 -2
+p558
+aVHorace Grant ORL 12/26/2001 ORL vs. IND L 34 4 2 2 100.0 0 0 - 0 0 - 1 9 10 0 1 0 1 2 0
+p559
+aVPat Garrity ORL 12/26/2001 ORL vs. IND L 30 10 4 10 40.0 2 7 28.6 0 0 - 0 3 3 0 1 0 2 4 -1
+p560
+aVJud Buechler ORL 12/26/2001 ORL vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p561
+aVMonty Williams ORL 12/26/2001 ORL vs. IND L 25 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 3 1 0 1 1 -8
+p562
+aVTracy McGrady ORL 12/26/2001 ORL vs. IND L 36 31 11 19 57.9 1 4 25.0 8 9 88.9 0 4 4 1 1 0 4 3 2
+p563
+aVPatrick Ewing ORL 12/26/2001 ORL vs. IND L 16 8 3 8 37.5 0 0 - 2 4 50.0 1 3 4 2 0 1 3 2 -5
+p564
+aVAndrew DeClercq ORL 12/26/2001 ORL vs. IND L 10 0 0 6 0.0 0 0 - 0 0 - 3 1 4 0 0 1 0 2 -8
+p565
+aVDon Reid ORL 12/22/2001 ORL @ DAL L 10 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 0 -11
+p566
+aVAndrew DeClercq ORL 12/22/2001 ORL @ DAL L 15 2 1 2 50.0 0 0 - 0 0 - 3 1 4 1 0 0 0 0 -11
+p567
+aVPatrick Ewing ORL 12/22/2001 ORL @ DAL L 20 16 5 11 45.5 0 0 - 6 7 85.7 1 4 5 1 0 1 3 3 -1
+p568
+aVPat Garrity ORL 12/22/2001 ORL @ DAL L 31 6 2 7 28.6 0 4 0.0 2 2 100.0 4 3 7 1 1 0 0 4 -17
+p569
+aVMike Miller ORL 12/22/2001 ORL @ DAL L 33 20 8 21 38.1 3 9 33.3 1 2 50.0 2 2 4 1 1 0 1 1 -15
+p570
+aVDarrell Armstrong ORL 12/22/2001 ORL @ DAL L 24 6 2 11 18.2 1 8 12.5 1 2 50.0 3 0 3 4 0 0 1 3 -11
+p571
+aVJeryl Sasser ORL 12/22/2001 ORL @ DAL L 15 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 3 -7
+p572
+aVTroy Hudson ORL 12/22/2001 ORL @ DAL L 27 6 2 11 18.2 0 1 0.0 2 2 100.0 0 1 1 4 0 0 3 2 -14
+p573
+aVHorace Grant ORL 12/22/2001 ORL @ DAL L 19 5 2 6 33.3 0 0 - 1 2 50.0 4 7 11 1 1 0 0 0 -4
+p574
+aVMonty Williams ORL 12/22/2001 ORL @ DAL L 24 8 3 6 50.0 0 0 - 2 4 50.0 3 4 7 0 0 1 3 2 -8
+p575
+aVJud Buechler ORL 12/22/2001 ORL @ DAL L 22 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 1 0 1 -11
+p576
+aVMike Miller ORL 12/21/2001 ORL vs. WAS L 24 14 5 7 71.4 0 1 0.0 4 7 57.1 0 2 2 1 0 0 1 1 -6
+p577
+aVMonty Williams ORL 12/21/2001 ORL vs. WAS L 31 11 5 14 35.7 0 0 - 1 3 33.3 4 2 6 2 0 0 1 4 -19
+p578
+aVJud Buechler ORL 12/21/2001 ORL vs. WAS L 25 4 2 7 28.6 0 5 0.0 0 0 - 5 1 6 0 0 1 0 2 -9
+p579
+aVDarrell Armstrong ORL 12/21/2001 ORL vs. WAS L 38 13 4 16 25.0 3 9 33.3 2 2 100.0 5 3 8 2 3 0 3 3 -12
+p580
+aVAndrew DeClercq ORL 12/21/2001 ORL vs. WAS L 14 3 1 4 25.0 0 0 - 1 2 50.0 4 2 6 0 0 1 0 4 -6
+p581
+aVDon Reid ORL 12/21/2001 ORL vs. WAS L 7 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 1 1 1 1 -2
+p582
+aVTroy Hudson ORL 12/21/2001 ORL vs. WAS L 28 13 6 13 46.2 0 1 0.0 1 2 50.0 0 1 1 6 1 0 1 1 -14
+p583
+aVPatrick Ewing ORL 12/21/2001 ORL vs. WAS L 20 8 4 12 33.3 0 0 - 0 0 - 5 7 12 0 1 0 1 4 0
+p584
+aVHorace Grant ORL 12/21/2001 ORL vs. WAS L 27 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 0 0 1 0 -7
+p585
+aVPat Garrity ORL 12/21/2001 ORL vs. WAS L 24 5 2 14 14.3 1 5 20.0 0 0 - 1 0 1 0 2 0 0 0 -11
+p586
+aVSteven Hunter ORL 12/21/2001 ORL vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p587
+aVTroy Hudson ORL 12/19/2001 ORL vs. UTA W 26 8 2 9 22.2 0 2 0.0 4 6 66.7 1 4 5 3 0 0 2 4 13
+p588
+aVPatrick Ewing ORL 12/19/2001 ORL vs. UTA W 19 11 5 9 55.6 0 0 - 1 4 25.0 1 5 6 0 0 2 2 3 9
+p589
+aVJud Buechler ORL 12/19/2001 ORL vs. UTA W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 2 -1
+p590
+aVHorace Grant ORL 12/19/2001 ORL vs. UTA W 37 6 3 9 33.3 0 0 - 0 0 - 6 2 8 4 2 0 2 3 5
+p591
+aVMonty Williams ORL 12/19/2001 ORL vs. UTA W 28 4 2 6 33.3 0 0 - 0 0 - 2 1 3 1 0 1 0 2 0
+p592
+aVAndrew DeClercq ORL 12/19/2001 ORL vs. UTA W 20 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 2 2 1 2 1
+p593
+aVDarrell Armstrong ORL 12/19/2001 ORL vs. UTA W 37 24 9 17 52.9 2 5 40.0 4 4 100.0 3 3 6 9 3 0 1 2 13
+p594
+aVMike Miller ORL 12/19/2001 ORL vs. UTA W 39 21 7 18 38.9 2 4 50.0 5 5 100.0 1 3 4 5 0 2 7 4 -1
+p595
+aVPat Garrity ORL 12/19/2001 ORL vs. UTA W 20 16 6 10 60.0 4 5 80.0 0 0 - 1 1 2 1 0 2 0 2 1
+p596
+aVDon Reid ORL 12/16/2001 ORL @ SEA L 7 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 1 0 0 0 2 -2
+p597
+aVHorace Grant ORL 12/16/2001 ORL @ SEA L 21 7 3 7 42.9 0 0 - 1 1 100.0 2 1 3 1 0 0 0 0 -8
+p598
+aVTracy McGrady ORL 12/16/2001 ORL @ SEA L 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -10
+p599
+aVDarrell Armstrong ORL 12/16/2001 ORL @ SEA L 28 9 4 11 36.4 1 4 25.0 0 0 - 2 0 2 5 1 0 4 1 -9
+p600
+aVMike Miller ORL 12/16/2001 ORL @ SEA L 38 23 8 16 50.0 3 7 42.9 4 6 66.7 0 8 8 4 1 0 3 0 -22
+p601
+aVPatrick Ewing ORL 12/16/2001 ORL @ SEA L 19 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 0 0 2 2 -1
+p602
+aVSteven Hunter ORL 12/16/2001 ORL @ SEA L 13 6 2 4 50.0 0 0 - 2 3 66.7 2 4 6 0 0 2 1 2 -20
+p603
+aVAndrew DeClercq ORL 12/16/2001 ORL @ SEA L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -8
+p604
+aVTroy Hudson ORL 12/16/2001 ORL @ SEA L 28 10 4 10 40.0 0 3 0.0 2 2 100.0 0 3 3 5 0 0 3 2 -20
+p605
+aVJud Buechler ORL 12/16/2001 ORL @ SEA L 29 8 3 6 50.0 1 3 33.3 1 2 50.0 4 2 6 4 1 1 0 0 -3
+p606
+aVMonty Williams ORL 12/16/2001 ORL @ SEA L 23 7 3 5 60.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 0 1 -11
+p607
+aVPat Garrity ORL 12/16/2001 ORL @ SEA L 24 9 4 9 44.4 1 4 25.0 0 0 - 2 1 3 1 1 0 2 5 -1
+p608
+aVDarrell Armstrong ORL 12/15/2001 ORL @ POR L 31 5 2 10 20.0 1 4 25.0 0 0 - 1 2 3 6 1 0 0 2 -11
+p609
+aVMonty Williams ORL 12/15/2001 ORL @ POR L 14 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 1 1 4 0
+p610
+aVTroy Hudson ORL 12/15/2001 ORL @ POR L 14 15 5 9 55.6 1 2 50.0 4 4 100.0 0 0 0 3 0 0 3 1 -5
+p611
+aVAndrew DeClercq ORL 12/15/2001 ORL @ POR L 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 0 4
+p612
+aVPat Garrity ORL 12/15/2001 ORL @ POR L 28 10 4 8 50.0 1 2 50.0 1 2 50.0 3 1 4 2 1 0 2 5 -8
+p613
+aVPatrick Ewing ORL 12/15/2001 ORL @ POR L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p614
+aVJud Buechler ORL 12/15/2001 ORL @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p615
+aVHorace Grant ORL 12/15/2001 ORL @ POR L 37 7 3 8 37.5 0 0 - 1 2 50.0 3 5 8 2 1 2 0 1 -5
+p616
+aVMike Miller ORL 12/15/2001 ORL @ POR L 37 18 5 14 35.7 2 4 50.0 6 6 100.0 2 3 5 4 0 0 1 2 -8
+p617
+aVTracy McGrady ORL 12/15/2001 ORL @ POR L 45 36 11 22 50.0 5 7 71.4 9 9 100.0 0 7 7 9 2 1 0 2 -14
+p618
+aVDon Reid ORL 12/15/2001 ORL @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p619
+aVSteven Hunter ORL 12/15/2001 ORL @ POR L 14 7 2 3 66.7 0 0 - 3 6 50.0 2 1 3 0 0 2 3 1 -11
+p620
+aVPatrick Ewing ORL 12/13/2001 ORL @ GSW W 24 14 3 7 42.9 0 0 - 8 9 88.9 1 2 3 0 0 1 1 3 12
+p621
+aVTroy Hudson ORL 12/13/2001 ORL @ GSW W 16 12 3 6 50.0 0 1 0.0 6 8 75.0 0 2 2 2 0 0 2 1 -1
+p622
+aVJud Buechler ORL 12/13/2001 ORL @ GSW W 11 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 1 1 0 0 0 4
+p623
+aVDarrell Armstrong ORL 12/13/2001 ORL @ GSW W 35 5 2 7 28.6 0 5 0.0 1 1 100.0 2 4 6 11 1 0 3 2 3
+p624
+aVMonty Williams ORL 12/13/2001 ORL @ GSW W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 7
+p625
+aVDon Reid ORL 12/13/2001 ORL @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p626
+aVAndrew DeClercq ORL 12/13/2001 ORL @ GSW W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -2
+p627
+aVMike Miller ORL 12/13/2001 ORL @ GSW W 36 15 5 12 41.7 2 4 50.0 3 4 75.0 2 4 6 8 2 1 1 1 2
+p628
+aVPat Garrity ORL 12/13/2001 ORL @ GSW W 21 3 1 5 20.0 1 3 33.3 0 0 - 4 2 6 1 0 0 0 2 11
+p629
+aVHorace Grant ORL 12/13/2001 ORL @ GSW W 33 9 3 6 50.0 0 0 - 3 3 100.0 1 3 4 0 0 1 0 2 3
+p630
+aVSteven Hunter ORL 12/13/2001 ORL @ GSW W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 2 0 3 -9
+p631
+aVTracy McGrady ORL 12/13/2001 ORL @ GSW W 36 40 19 30 63.3 1 3 33.3 1 3 33.3 2 5 7 4 0 0 1 1 -1
+p632
+aVPatrick Ewing ORL 12/11/2001 ORL @ SAC L 14 6 2 9 22.2 0 0 - 2 2 100.0 1 2 3 1 1 2 1 0 -13
+p633
+aVDarrell Armstrong ORL 12/11/2001 ORL @ SAC L 33 12 5 12 41.7 2 7 28.6 0 0 - 0 1 1 7 2 0 2 0 11
+p634
+aVPat Garrity ORL 12/11/2001 ORL @ SAC L 24 17 7 14 50.0 3 7 42.9 0 0 - 0 2 2 3 0 0 0 2 -12
+p635
+aVMike Miller ORL 12/11/2001 ORL @ SAC L 38 17 8 16 50.0 1 5 20.0 0 0 - 1 8 9 6 0 1 2 0 4
+p636
+aVSteven Hunter ORL 12/11/2001 ORL @ SAC L 16 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 0 2 0 3 0
+p637
+aVMonty Williams ORL 12/11/2001 ORL @ SAC L 6 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 1 1 2 -14
+p638
+aVTroy Hudson ORL 12/11/2001 ORL @ SAC L 21 11 4 7 57.1 1 3 33.3 2 2 100.0 0 1 1 3 1 0 1 1 -18
+p639
+aVTracy McGrady ORL 12/11/2001 ORL @ SAC L 40 21 7 16 43.8 3 5 60.0 4 4 100.0 1 5 6 2 2 0 4 1 -5
+p640
+aVAndrew DeClercq ORL 12/11/2001 ORL @ SAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p641
+aVJud Buechler ORL 12/11/2001 ORL @ SAC L 22 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 2 2 0 0 3 -9
+p642
+aVHorace Grant ORL 12/11/2001 ORL @ SAC L 24 6 3 7 42.9 0 0 - 0 0 - 2 6 8 3 1 0 0 2 -2
+p643
+aVAndrew DeClercq ORL 12/10/2001 ORL @ LAC L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -9
+p644
+aVJud Buechler ORL 12/10/2001 ORL @ LAC L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p645
+aVPatrick Ewing ORL 12/10/2001 ORL @ LAC L 11 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -10
+p646
+aVTracy McGrady ORL 12/10/2001 ORL @ LAC L 43 47 17 32 53.1 2 4 50.0 11 15 73.3 2 9 11 4 0 1 2 3 0
+p647
+aVSteven Hunter ORL 12/10/2001 ORL @ LAC L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 2 0 3 6
+p648
+aVMonty Williams ORL 12/10/2001 ORL @ LAC L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -9
+p649
+aVDarrell Armstrong ORL 12/10/2001 ORL @ LAC L 38 15 4 7 57.1 2 3 66.7 5 5 100.0 3 5 8 6 2 0 2 4 1
+p650
+aVMike Miller ORL 12/10/2001 ORL @ LAC L 41 10 4 16 25.0 1 7 14.3 1 1 100.0 2 2 4 0 0 1 4 3 -3
+p651
+aVTroy Hudson ORL 12/10/2001 ORL @ LAC L 16 6 3 6 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 -5
+p652
+aVPat Garrity ORL 12/10/2001 ORL @ LAC L 24 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 1 1 0 0 3 -4
+p653
+aVHorace Grant ORL 12/10/2001 ORL @ LAC L 32 10 5 9 55.6 0 0 - 0 0 - 5 5 10 2 0 1 1 2 1
+p654
+aVTracy McGrady ORL 12/08/2001 ORL @ ATL L 42 40 11 22 50.0 3 4 75.0 15 18 83.3 3 8 11 4 3 0 7 3 -2
+p655
+aVTroy Hudson ORL 12/08/2001 ORL @ ATL L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 3 -2
+p656
+aVJud Buechler ORL 12/08/2001 ORL @ ATL L 9 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 0 -5
+p657
+aVMonty Williams ORL 12/08/2001 ORL @ ATL L 5 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p658
+aVPat Garrity ORL 12/08/2001 ORL @ ATL L 28 0 0 6 0.0 0 3 0.0 0 0 - 0 3 3 3 1 0 0 5 -14
+p659
+aVHorace Grant ORL 12/08/2001 ORL @ ATL L 29 11 5 8 62.5 0 0 - 1 3 33.3 0 4 4 1 0 1 1 2 3
+p660
+aVSteven Hunter ORL 12/08/2001 ORL @ ATL L 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 3 0 1 9
+p661
+aVMike Miller ORL 12/08/2001 ORL @ ATL L 39 16 6 18 33.3 3 9 33.3 1 2 50.0 2 7 9 4 0 0 1 1 4
+p662
+aVDon Reid ORL 12/08/2001 ORL @ ATL L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -3
+p663
+aVPatrick Ewing ORL 12/08/2001 ORL @ ATL L 20 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 3 4 -1
+p664
+aVDarrell Armstrong ORL 12/08/2001 ORL @ ATL L 35 10 3 9 33.3 2 7 28.6 2 2 100.0 2 4 6 3 1 0 4 1 -3
+p665
+aVTracy McGrady ORL 12/07/2001 ORL vs. ATL W 32 32 10 19 52.6 2 4 50.0 10 10 100.0 4 3 7 8 2 1 5 0 24
+p666
+aVMike Miller ORL 12/07/2001 ORL vs. ATL W 22 22 7 11 63.6 3 5 60.0 5 6 83.3 1 4 5 0 0 0 1 4 6
+p667
+aVPatrick Ewing ORL 12/07/2001 ORL vs. ATL W 10 7 1 1 100.0 0 0 - 5 6 83.3 0 5 5 1 0 3 1 1 21
+p668
+aVAndrew DeClercq ORL 12/07/2001 ORL vs. ATL W 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 1 2 3 3
+p669
+aVHorace Grant ORL 12/07/2001 ORL vs. ATL W 26 6 3 4 75.0 0 0 - 0 0 - 1 4 5 2 0 0 0 0 3
+p670
+aVDarrell Armstrong ORL 12/07/2001 ORL vs. ATL W 25 8 3 8 37.5 2 3 66.7 0 0 - 0 3 3 6 1 0 2 0 7
+p671
+aVTroy Hudson ORL 12/07/2001 ORL vs. ATL W 28 20 6 8 75.0 3 5 60.0 5 5 100.0 0 3 3 3 1 1 2 1 38
+p672
+aVJud Buechler ORL 12/07/2001 ORL vs. ATL W 20 6 2 3 66.7 2 2 100.0 0 0 - 2 5 7 0 2 0 0 2 21
+p673
+aVSteven Hunter ORL 12/07/2001 ORL vs. ATL W 15 6 3 3 100.0 0 0 - 0 3 0.0 0 1 1 0 0 0 1 2 -3
+p674
+aVDon Reid ORL 12/07/2001 ORL vs. ATL W 12 5 2 4 50.0 0 0 - 1 1 100.0 2 1 3 1 0 0 1 3 9
+p675
+aVMonty Williams ORL 12/07/2001 ORL vs. ATL W 16 11 4 4 100.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 3 11
+p676
+aVPat Garrity ORL 12/07/2001 ORL vs. ATL W 25 4 1 6 16.7 1 5 20.0 1 2 50.0 0 4 4 2 1 1 0 2 35
+p677
+aVHorace Grant ORL 12/05/2001 ORL vs. CHI W 26 8 4 6 66.7 0 0 - 0 0 - 0 6 6 3 3 0 0 0 24
+p678
+aVDarrell Armstrong ORL 12/05/2001 ORL vs. CHI W 27 10 4 10 40.0 2 5 40.0 0 0 - 1 1 2 6 2 0 1 1 26
+p679
+aVPat Garrity ORL 12/05/2001 ORL vs. CHI W 25 11 4 11 36.4 2 5 40.0 1 2 50.0 3 3 6 1 1 1 3 1 7
+p680
+aVPatrick Ewing ORL 12/05/2001 ORL vs. CHI W 10 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 2 0 1 0 1 6
+p681
+aVAndrew DeClercq ORL 12/05/2001 ORL vs. CHI W 10 7 3 4 75.0 0 0 - 1 2 50.0 2 2 4 1 2 1 1 2 -7
+p682
+aVTracy McGrady ORL 12/05/2001 ORL vs. CHI W 27 14 4 11 36.4 1 4 25.0 5 6 83.3 1 3 4 7 2 0 1 3 27
+p683
+aVTroy Hudson ORL 12/05/2001 ORL vs. CHI W 24 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 3 1 0 5 2 5
+p684
+aVJud Buechler ORL 12/05/2001 ORL vs. CHI W 22 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 3 0 1 1 2
+p685
+aVDon Reid ORL 12/05/2001 ORL vs. CHI W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p686
+aVMike Miller ORL 12/05/2001 ORL vs. CHI W 34 21 8 11 72.7 2 4 50.0 3 3 100.0 0 3 3 0 2 0 1 1 32
+p687
+aVSteven Hunter ORL 12/05/2001 ORL vs. CHI W 22 17 7 9 77.8 0 0 - 3 4 75.0 3 0 3 0 0 2 0 1 18
+p688
+aVDarrell Armstrong ORL 12/03/2001 ORL vs. MEM W 31 13 4 8 50.0 2 2 100.0 3 3 100.0 1 4 5 8 1 0 6 2 24
+p689
+aVDon Reid ORL 12/03/2001 ORL vs. MEM W 12 8 4 4 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 4 11
+p690
+aVPatrick Ewing ORL 12/03/2001 ORL vs. MEM W 13 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 1 2 1 1 4
+p691
+aVTracy McGrady ORL 12/03/2001 ORL vs. MEM W 31 22 9 16 56.3 1 4 25.0 3 4 75.0 1 7 8 4 3 0 4 0 31
+p692
+aVJud Buechler ORL 12/03/2001 ORL vs. MEM W 21 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 1 0 0 4 1 17
+p693
+aVSteven Hunter ORL 12/03/2001 ORL vs. MEM W 20 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 0 3 1 4 6
+p694
+aVMike Miller ORL 12/03/2001 ORL vs. MEM W 31 26 9 14 64.3 3 5 60.0 5 6 83.3 0 6 6 3 1 0 0 2 27
+p695
+aVTroy Hudson ORL 12/03/2001 ORL vs. MEM W 23 10 3 7 42.9 1 2 50.0 3 3 100.0 2 2 4 7 1 0 4 1 21
+p696
+aVHorace Grant ORL 12/03/2001 ORL vs. MEM W 25 4 2 3 66.7 0 0 - 0 0 - 2 6 8 2 0 2 0 2 27
+p697
+aVPat Garrity ORL 12/03/2001 ORL vs. MEM W 24 18 7 10 70.0 4 5 80.0 0 0 - 1 6 7 1 0 1 0 3 33
+p698
+aVAndrew DeClercq ORL 12/03/2001 ORL vs. MEM W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 9
+p699
+aVPatrick Ewing ORL 12/01/2001 ORL @ WAS W 28 18 6 13 46.2 0 0 - 6 8 75.0 3 9 12 0 0 2 2 4 7
+p700
+aVDarrell Armstrong ORL 12/01/2001 ORL @ WAS W 40 17 7 16 43.8 2 7 28.6 1 1 100.0 2 6 8 12 2 1 2 5 8
+p701
+aVHorace Grant ORL 12/01/2001 ORL @ WAS W 21 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 3
+p702
+aVTracy McGrady ORL 12/01/2001 ORL @ WAS W 32 26 10 20 50.0 0 0 - 6 8 75.0 3 5 8 2 0 1 0 4 2
+p703
+aVPat Garrity ORL 12/01/2001 ORL @ WAS W 27 5 2 7 28.6 1 5 20.0 0 1 0.0 1 1 2 1 0 0 0 2 6
+p704
+aVSteven Hunter ORL 12/01/2001 ORL @ WAS W 20 6 2 5 40.0 0 0 - 2 4 50.0 3 0 3 0 0 3 0 2 -1
+p705
+aVTroy Hudson ORL 12/01/2001 ORL @ WAS W 19 11 5 11 45.5 1 2 50.0 0 0 - 1 1 2 2 3 0 1 0 4
+p706
+aVJud Buechler ORL 12/01/2001 ORL @ WAS W 27 0 0 3 0.0 0 2 0.0 0 0 - 1 3 4 2 1 0 1 3 15
+p707
+aVMike Miller ORL 12/01/2001 ORL @ WAS W 26 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 1 0 1 1 5 1
+p708
+aVJud Buechler ORL 11/29/2001 ORL vs. BOS L 31 7 3 9 33.3 1 6 16.7 0 0 - 2 10 12 1 1 1 0 3 -9
+p709
+aVTroy Hudson ORL 11/29/2001 ORL vs. BOS L 17 10 4 11 36.4 0 3 0.0 2 3 66.7 2 0 2 5 0 0 1 1 -2
+p710
+aVTracy McGrady ORL 11/29/2001 ORL vs. BOS L 42 22 9 22 40.9 0 3 0.0 4 4 100.0 2 4 6 4 1 2 2 1 -10
+p711
+aVSteven Hunter ORL 11/29/2001 ORL vs. BOS L 23 2 1 3 33.3 0 0 - 0 2 0.0 0 6 6 0 0 2 1 1 -10
+p712
+aVPatrick Ewing ORL 11/29/2001 ORL vs. BOS L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -3
+p713
+aVHorace Grant ORL 11/29/2001 ORL vs. BOS L 28 4 2 6 33.3 0 0 - 0 0 - 4 5 9 1 0 0 1 2 -4
+p714
+aVPat Garrity ORL 11/29/2001 ORL vs. BOS L 23 13 5 10 50.0 2 6 33.3 1 2 50.0 1 2 3 0 0 1 0 2 -1
+p715
+aVDon Reid ORL 11/29/2001 ORL vs. BOS L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -1
+p716
+aVAndrew DeClercq ORL 11/29/2001 ORL vs. BOS L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p717
+aVMike Miller ORL 11/29/2001 ORL vs. BOS L 23 16 6 13 46.2 2 8 25.0 2 2 100.0 0 3 3 0 0 0 2 4 -1
+p718
+aVDarrell Armstrong ORL 11/29/2001 ORL vs. BOS L 37 12 3 10 30.0 1 4 25.0 5 5 100.0 1 5 6 7 2 0 1 1 -5
+p719
+aVTracy McGrady ORL 11/26/2001 ORL vs. DET L 43 24 9 25 36.0 2 5 40.0 4 4 100.0 1 2 3 5 0 1 2 3 -10
+p720
+aVDon Reid ORL 11/26/2001 ORL vs. DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p721
+aVJud Buechler ORL 11/26/2001 ORL vs. DET L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p722
+aVTroy Hudson ORL 11/26/2001 ORL vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p723
+aVPatrick Ewing ORL 11/26/2001 ORL vs. DET L 17 2 1 5 20.0 0 0 - 0 2 0.0 0 4 4 0 1 0 1 1 -9
+p724
+aVMike Miller ORL 11/26/2001 ORL vs. DET L 35 21 9 15 60.0 3 5 60.0 0 0 - 2 4 6 1 1 0 2 4 2
+p725
+aVPat Garrity ORL 11/26/2001 ORL vs. DET L 17 9 3 6 50.0 1 2 50.0 2 2 100.0 1 0 1 1 1 0 2 3 2
+p726
+aVSteven Hunter ORL 11/26/2001 ORL vs. DET L 17 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 0 3 -5
+p727
+aVDarrell Armstrong ORL 11/26/2001 ORL vs. DET L 34 22 8 19 42.1 1 3 33.3 5 6 83.3 3 1 4 7 6 0 0 2 -1
+p728
+aVGrant Hill ORL 11/26/2001 ORL vs. DET L 31 14 5 11 45.5 0 0 - 4 7 57.1 3 5 8 2 2 0 2 3 2
+p729
+aVHorace Grant ORL 11/26/2001 ORL vs. DET L 31 0 0 4 0.0 0 0 - 0 0 - 3 3 6 2 3 1 0 2 -4
+p730
+aVJud Buechler ORL 11/24/2001 ORL vs. CHH L 10 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 2 -1
+p731
+aVHorace Grant ORL 11/24/2001 ORL vs. CHH L 35 0 0 2 0.0 0 0 - 0 0 - 2 7 9 2 0 1 0 0 0
+p732
+aVTroy Hudson ORL 11/24/2001 ORL vs. CHH L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p733
+aVTracy McGrady ORL 11/24/2001 ORL vs. CHH L 44 31 13 31 41.9 0 0 - 5 7 71.4 5 2 7 3 2 2 4 1 -2
+p734
+aVSteven Hunter ORL 11/24/2001 ORL vs. CHH L 14 9 4 4 100.0 0 0 - 1 4 25.0 1 1 2 1 1 2 1 2 -5
+p735
+aVDarrell Armstrong ORL 11/24/2001 ORL vs. CHH L 37 12 4 10 40.0 1 5 20.0 3 5 60.0 0 5 5 8 4 0 1 1 7
+p736
+aVMike Miller ORL 11/24/2001 ORL vs. CHH L 42 32 13 22 59.1 6 8 75.0 0 0 - 2 5 7 5 1 0 5 3 -1
+p737
+aVPat Garrity ORL 11/24/2001 ORL vs. CHH L 32 7 2 5 40.0 1 1 100.0 2 2 100.0 1 3 4 0 0 2 1 2 7
+p738
+aVPatrick Ewing ORL 11/24/2001 ORL vs. CHH L 15 5 2 7 28.6 0 0 - 1 1 100.0 1 5 6 0 0 1 3 2 -8
+p739
+aVJud Buechler ORL 11/23/2001 ORL @ CHH W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -13
+p740
+aVTroy Hudson ORL 11/23/2001 ORL @ CHH W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -5
+p741
+aVDarrell Armstrong ORL 11/23/2001 ORL @ CHH W 38 10 4 7 57.1 1 3 33.3 1 1 100.0 0 2 2 6 2 1 5 1 5
+p742
+aVTracy McGrady ORL 11/23/2001 ORL @ CHH W 39 24 10 21 47.6 0 3 0.0 4 4 100.0 2 5 7 8 2 0 2 1 17
+p743
+aVSteven Hunter ORL 11/23/2001 ORL @ CHH W 13 1 0 3 0.0 0 0 - 1 4 25.0 4 1 5 0 0 1 1 3 -7
+p744
+aVMike Miller ORL 11/23/2001 ORL @ CHH W 28 21 7 12 58.3 5 8 62.5 2 3 66.7 0 3 3 1 2 0 3 4 19
+p745
+aVPatrick Ewing ORL 11/23/2001 ORL @ CHH W 16 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 1 0 0 1 1 -1
+p746
+aVHorace Grant ORL 11/23/2001 ORL @ CHH W 30 13 5 6 83.3 0 0 - 3 5 60.0 1 9 10 3 1 1 2 1 17
+p747
+aVGrant Hill ORL 11/23/2001 ORL @ CHH W 32 13 6 12 50.0 0 0 - 1 1 100.0 1 6 7 7 0 0 2 4 10
+p748
+aVAndrew DeClercq ORL 11/23/2001 ORL @ CHH W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p749
+aVPat Garrity ORL 11/23/2001 ORL @ CHH W 27 19 7 11 63.6 5 8 62.5 0 0 - 0 0 0 0 0 0 1 2 10
+p750
+aVPat Garrity ORL 11/21/2001 ORL vs. MIN W 29 8 2 9 22.2 2 6 33.3 2 2 100.0 1 5 6 0 0 0 1 2 -6
+p751
+aVMike Miller ORL 11/21/2001 ORL vs. MIN W 25 7 3 9 33.3 1 4 25.0 0 0 - 2 3 5 2 1 0 0 0 8
+p752
+aVDon Reid ORL 11/21/2001 ORL vs. MIN W 22 7 2 6 33.3 0 0 - 3 4 75.0 2 4 6 0 0 0 2 5 -6
+p753
+aVJud Buechler ORL 11/21/2001 ORL vs. MIN W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 6
+p754
+aVPatrick Ewing ORL 11/21/2001 ORL vs. MIN W 13 0 0 5 0.0 0 0 - 0 0 - 2 3 5 1 1 1 0 4 11
+p755
+aVGrant Hill ORL 11/21/2001 ORL vs. MIN W 35 11 3 8 37.5 0 0 - 5 6 83.3 1 6 7 5 0 0 2 6 1
+p756
+aVSteven Hunter ORL 11/21/2001 ORL vs. MIN W 23 13 6 9 66.7 0 0 - 1 2 50.0 3 2 5 1 1 0 1 4 12
+p757
+aVTracy McGrady ORL 11/21/2001 ORL vs. MIN W 46 39 13 30 43.3 3 7 42.9 10 10 100.0 3 4 7 8 1 3 3 0 13
+p758
+aVDarrell Armstrong ORL 11/21/2001 ORL vs. MIN W 42 29 9 13 69.2 5 9 55.6 6 6 100.0 2 2 4 6 0 0 3 1 16
+p759
+aVDarrell Armstrong ORL 11/17/2001 ORL @ MIN L 28 5 2 12 16.7 0 4 0.0 1 2 50.0 1 2 3 3 2 0 1 1 -20
+p760
+aVSteven Hunter ORL 11/17/2001 ORL @ MIN L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -11
+p761
+aVTracy McGrady ORL 11/17/2001 ORL @ MIN L 39 25 10 20 50.0 2 4 50.0 3 5 60.0 3 3 6 1 1 1 0 3 -16
+p762
+aVPat Garrity ORL 11/17/2001 ORL @ MIN L 24 11 4 7 57.1 3 5 60.0 0 0 - 1 0 1 2 0 0 0 3 -4
+p763
+aVGrant Hill ORL 11/17/2001 ORL @ MIN L 42 16 6 18 33.3 0 0 - 4 6 66.7 2 5 7 4 1 0 6 1 -15
+p764
+aVMike Miller ORL 11/17/2001 ORL @ MIN L 31 17 6 11 54.5 2 6 33.3 3 3 100.0 0 0 0 3 0 0 0 0 4
+p765
+aVPatrick Ewing ORL 11/17/2001 ORL @ MIN L 22 5 2 8 25.0 0 1 0.0 1 2 50.0 0 5 5 1 0 0 0 4 10
+p766
+aVAndrew DeClercq ORL 11/17/2001 ORL @ MIN L 2 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 6
+p767
+aVDon Reid ORL 11/17/2001 ORL @ MIN L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p768
+aVTroy Hudson ORL 11/17/2001 ORL @ MIN L 12 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 2 1 0 2 1 11
+p769
+aVHorace Grant ORL 11/17/2001 ORL @ MIN L 21 8 2 5 40.0 0 0 - 4 4 100.0 3 3 6 1 1 0 1 1 -19
+p770
+aVJud Buechler ORL 11/17/2001 ORL @ MIN L 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 8
+p771
+aVGrant Hill ORL 11/15/2001 ORL @ DEN W 39 23 10 19 52.6 0 0 - 3 3 100.0 3 8 11 4 1 0 2 0 25
+p772
+aVBo Outlaw ORL 11/15/2001 ORL @ DEN W 8 2 0 1 0.0 0 0 - 2 4 50.0 0 2 2 0 0 1 1 1 -2
+p773
+aVTracy McGrady ORL 11/15/2001 ORL @ DEN W 30 20 8 16 50.0 0 1 0.0 4 4 100.0 1 6 7 3 0 1 1 3 20
+p774
+aVPatrick Ewing ORL 11/15/2001 ORL @ DEN W 20 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 0 2 1 4 2
+p775
+aVPat Garrity ORL 11/15/2001 ORL @ DEN W 28 12 4 11 36.4 2 6 33.3 2 2 100.0 3 3 6 1 1 0 1 3 8
+p776
+aVDon Reid ORL 11/15/2001 ORL @ DEN W 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p777
+aVMike Miller ORL 11/15/2001 ORL @ DEN W 24 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 4 1 0 0 4 3
+p778
+aVTroy Hudson ORL 11/15/2001 ORL @ DEN W 17 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 -1
+p779
+aVHorace Grant ORL 11/15/2001 ORL @ DEN W 24 10 4 7 57.1 0 0 - 2 2 100.0 2 4 6 2 0 0 0 1 18
+p780
+aVDarrell Armstrong ORL 11/15/2001 ORL @ DEN W 31 12 3 6 50.0 2 3 66.7 4 6 66.7 0 3 3 2 0 0 0 1 20
+p781
+aVSteven Hunter ORL 11/15/2001 ORL @ DEN W 14 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 1 0 3 3
+p782
+aVTroy Hudson ORL 11/14/2001 ORL @ PHX W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 1 0 1 1 6
+p783
+aVHorace Grant ORL 11/14/2001 ORL @ PHX W 23 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -12
+p784
+aVTracy McGrady ORL 11/14/2001 ORL @ PHX W 45 24 10 22 45.5 0 3 0.0 4 5 80.0 3 6 9 8 1 1 4 1 1
+p785
+aVPat Garrity ORL 11/14/2001 ORL @ PHX W 4 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p786
+aVMike Miller ORL 11/14/2001 ORL @ PHX W 22 12 4 10 40.0 2 5 40.0 2 2 100.0 0 3 3 1 1 0 2 2 3
+p787
+aVSteven Hunter ORL 11/14/2001 ORL @ PHX W 11 2 1 3 33.3 0 0 - 0 2 0.0 1 0 1 0 1 0 1 4 -12
+p788
+aVGrant Hill ORL 11/14/2001 ORL @ PHX W 37 14 3 9 33.3 0 0 - 8 8 100.0 0 7 7 4 0 0 3 2 -5
+p789
+aVBo Outlaw ORL 11/14/2001 ORL @ PHX W 25 6 2 2 100.0 0 0 - 2 2 100.0 2 1 3 0 2 2 1 4 9
+p790
+aVDarrell Armstrong ORL 11/14/2001 ORL @ PHX W 32 7 2 7 28.6 2 4 50.0 1 1 100.0 0 3 3 4 0 0 2 3 -6
+p791
+aVPatrick Ewing ORL 11/14/2001 ORL @ PHX W 30 22 10 16 62.5 0 0 - 2 2 100.0 4 11 15 1 0 0 3 1 18
+p792
+aVPat Garrity ORL 11/12/2001 ORL @ UTA L 25 12 5 11 45.5 2 4 50.0 0 0 - 1 2 3 2 1 2 1 6 9
+p793
+aVBo Outlaw ORL 11/12/2001 ORL @ UTA L 12 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 2 1 0 1 12
+p794
+aVTracy McGrady ORL 11/12/2001 ORL @ UTA L 35 17 5 18 27.8 2 4 50.0 5 6 83.3 3 4 7 6 0 0 3 2 -3
+p795
+aVHorace Grant ORL 11/12/2001 ORL @ UTA L 28 0 0 2 0.0 0 0 - 0 0 - 4 4 8 3 1 1 2 2 -12
+p796
+aVPatrick Ewing ORL 11/12/2001 ORL @ UTA L 18 8 3 8 37.5 0 0 - 2 2 100.0 2 8 10 2 0 1 1 3 -5
+p797
+aVGrant Hill ORL 11/12/2001 ORL @ UTA L 42 15 3 16 18.8 0 0 - 9 10 90.0 3 4 7 5 0 0 2 4 -16
+p798
+aVSteven Hunter ORL 11/12/2001 ORL @ UTA L 17 8 4 8 50.0 0 0 - 0 0 - 3 1 4 0 1 3 0 5 -6
+p799
+aVTroy Hudson ORL 11/12/2001 ORL @ UTA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 1 0 2 -5
+p800
+aVDarrell Armstrong ORL 11/12/2001 ORL @ UTA L 28 18 7 14 50.0 3 5 60.0 1 3 33.3 0 0 0 3 0 0 3 6 2
+p801
+aVMike Miller ORL 11/12/2001 ORL @ UTA L 26 16 5 12 41.7 3 6 50.0 3 3 100.0 0 1 1 1 1 1 0 4 -11
+p802
+aVAndrew DeClercq ORL 11/11/2001 ORL @ LAL L 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 0 3 -7
+p803
+aVDarrell Armstrong ORL 11/11/2001 ORL @ LAL L 29 14 4 9 44.4 3 6 50.0 3 3 100.0 2 0 2 5 2 0 3 3 -10
+p804
+aVSteven Hunter ORL 11/11/2001 ORL @ LAL L 16 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 -2
+p805
+aVPat Garrity ORL 11/11/2001 ORL @ LAL L 21 6 2 10 20.0 2 9 22.2 0 0 - 0 2 2 0 0 1 0 3 -10
+p806
+aVBo Outlaw ORL 11/11/2001 ORL @ LAL L 7 0 0 2 0.0 0 0 - 0 2 0.0 2 0 2 1 1 1 0 2 -6
+p807
+aVMike Miller ORL 11/11/2001 ORL @ LAL L 29 10 4 11 36.4 2 6 33.3 0 0 - 1 5 6 3 0 0 2 3 -6
+p808
+aVPatrick Ewing ORL 11/11/2001 ORL @ LAL L 13 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 2 0 4 2
+p809
+aVTroy Hudson ORL 11/11/2001 ORL @ LAL L 13 7 1 7 14.3 0 0 - 5 5 100.0 1 2 3 0 0 0 2 1 -6
+p810
+aVGrant Hill ORL 11/11/2001 ORL @ LAL L 39 21 7 11 63.6 0 0 - 7 8 87.5 2 11 13 9 2 0 3 2 -3
+p811
+aVHorace Grant ORL 11/11/2001 ORL @ LAL L 27 4 1 8 12.5 0 0 - 2 2 100.0 2 2 4 2 0 0 0 3 -6
+p812
+aVTracy McGrady ORL 11/11/2001 ORL @ LAL L 41 22 7 18 38.9 0 1 0.0 8 13 61.5 3 4 7 0 0 1 1 5 -11
+p813
+aVGrant Hill ORL 11/09/2001 ORL vs. SAC W 35 14 6 16 37.5 0 0 - 2 3 66.7 1 4 5 6 1 1 1 5 -4
+p814
+aVTroy Hudson ORL 11/09/2001 ORL vs. SAC W 17 11 5 7 71.4 0 0 - 1 1 100.0 1 1 2 0 0 0 1 0 4
+p815
+aVSteven Hunter ORL 11/09/2001 ORL vs. SAC W 13 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 1 0 4 8
+p816
+aVTracy McGrady ORL 11/09/2001 ORL vs. SAC W 42 44 14 30 46.7 1 4 25.0 15 20 75.0 3 10 13 6 3 2 2 0 10
+p817
+aVHorace Grant ORL 11/09/2001 ORL vs. SAC W 32 6 3 10 30.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 12
+p818
+aVBo Outlaw ORL 11/09/2001 ORL vs. SAC W 14 0 0 1 0.0 0 0 - 0 0 - 3 2 5 1 1 0 1 4 7
+p819
+aVPat Garrity ORL 11/09/2001 ORL vs. SAC W 5 1 0 2 0.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 5
+p820
+aVDarrell Armstrong ORL 11/09/2001 ORL vs. SAC W 31 10 2 11 18.2 1 7 14.3 5 6 83.3 1 2 3 9 3 2 2 2 7
+p821
+aVPatrick Ewing ORL 11/09/2001 ORL vs. SAC W 18 7 2 4 50.0 0 0 - 3 4 75.0 2 4 6 0 0 1 3 3 -11
+p822
+aVMike Miller ORL 11/09/2001 ORL vs. SAC W 33 18 7 16 43.8 2 8 25.0 2 2 100.0 3 4 7 1 3 2 0 2 12
+p823
+aVMonty Williams ORL 11/06/2001 ORL @ SAS L 18 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 2 -5
+p824
+aVHorace Grant ORL 11/06/2001 ORL @ SAS L 27 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 2 4 0 3 -15
+p825
+aVDon Reid ORL 11/06/2001 ORL @ SAS L 17 4 1 2 50.0 0 0 - 2 2 100.0 3 3 6 0 1 0 0 5 -15
+p826
+aVBo Outlaw ORL 11/06/2001 ORL @ SAS L 16 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 2 2 -2
+p827
+aVSteven Hunter ORL 11/06/2001 ORL @ SAS L 7 2 1 4 25.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 2 -2
+p828
+aVGrant Hill ORL 11/06/2001 ORL @ SAS L 28 17 6 18 33.3 0 1 0.0 5 5 100.0 8 8 16 1 0 0 5 6 -18
+p829
+aVPatrick Ewing ORL 11/06/2001 ORL @ SAS L 13 12 4 8 50.0 0 0 - 4 4 100.0 1 1 2 0 0 1 0 3 -3
+p830
+aVDarrell Armstrong ORL 11/06/2001 ORL @ SAS L 34 6 1 6 16.7 0 2 0.0 4 4 100.0 0 3 3 5 0 0 1 0 -6
+p831
+aVTroy Hudson ORL 11/06/2001 ORL @ SAS L 33 15 6 17 35.3 0 4 0.0 3 5 60.0 2 1 3 6 2 0 3 0 -3
+p832
+aVTracy McGrady ORL 11/06/2001 ORL @ SAS L 37 20 7 21 33.3 2 3 66.7 4 6 66.7 4 3 7 2 2 0 3 1 -10
+p833
+aVAndrew DeClercq ORL 11/06/2001 ORL @ SAS L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 4
+p834
+aVDarrell Armstrong ORL 11/05/2001 ORL vs. SEA L 44 17 6 14 42.9 4 12 33.3 1 2 50.0 2 5 7 6 2 0 0 2 -7
+p835
+aVAndrew DeClercq ORL 11/05/2001 ORL vs. SEA L 18 9 4 8 50.0 0 0 - 1 1 100.0 2 1 3 1 0 0 1 3 5
+p836
+aVGrant Hill ORL 11/05/2001 ORL vs. SEA L 48 28 10 19 52.6 0 1 0.0 8 8 100.0 1 7 8 3 0 1 2 2 -2
+p837
+aVPatrick Ewing ORL 11/05/2001 ORL vs. SEA L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 0
+p838
+aVHorace Grant ORL 11/05/2001 ORL vs. SEA L 36 4 2 4 50.0 0 0 - 0 2 0.0 4 6 10 0 0 0 1 1 -6
+p839
+aVBo Outlaw ORL 11/05/2001 ORL vs. SEA L 21 5 2 3 66.7 0 0 - 1 3 33.3 2 2 4 1 1 0 1 3 -4
+p840
+aVMonty Williams ORL 11/05/2001 ORL vs. SEA L 16 7 3 4 75.0 0 0 - 1 1 100.0 2 2 4 0 0 1 2 1 1
+p841
+aVTroy Hudson ORL 11/05/2001 ORL vs. SEA L 18 8 4 10 40.0 0 2 0.0 0 0 - 0 0 0 4 0 1 2 2 -10
+p842
+aVTracy McGrady ORL 11/05/2001 ORL vs. SEA L 55 27 10 26 38.5 0 2 0.0 7 7 100.0 2 4 6 7 1 1 4 3 -3
+p843
+aVPat Garrity ORL 11/05/2001 ORL vs. SEA L 24 14 4 10 40.0 4 8 50.0 2 2 100.0 1 2 3 0 1 0 1 2 3
+p844
+aVDon Reid ORL 11/05/2001 ORL vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 3
+p845
+aVTracy McGrady ORL 11/03/2001 ORL @ CLE W 34 22 9 20 45.0 0 0 - 4 5 80.0 5 5 10 7 1 2 2 1 28
+p846
+aVSteven Hunter ORL 11/03/2001 ORL @ CLE W 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 0 0 4
+p847
+aVDarrell Armstrong ORL 11/03/2001 ORL @ CLE W 24 8 3 8 37.5 2 5 40.0 0 0 - 0 5 5 6 3 1 0 3 15
+p848
+aVDon Reid ORL 11/03/2001 ORL @ CLE W 7 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 0 0 0 0 3 4
+p849
+aVGrant Hill ORL 11/03/2001 ORL @ CLE W 30 14 5 12 41.7 0 0 - 4 4 100.0 2 9 11 1 0 2 0 2 12
+p850
+aVPat Garrity ORL 11/03/2001 ORL @ CLE W 20 8 3 11 27.3 2 6 33.3 0 0 - 2 2 4 0 0 0 1 1 12
+p851
+aVTroy Hudson ORL 11/03/2001 ORL @ CLE W 24 4 2 8 25.0 0 4 0.0 0 0 - 0 1 1 6 1 1 1 4 15
+p852
+aVPatrick Ewing ORL 11/03/2001 ORL @ CLE W 20 4 1 6 16.7 0 0 - 2 2 100.0 0 8 8 1 0 2 1 4 11
+p853
+aVHorace Grant ORL 11/03/2001 ORL @ CLE W 21 12 6 11 54.5 0 0 - 0 0 - 0 4 4 1 1 0 2 2 13
+p854
+aVBo Outlaw ORL 11/03/2001 ORL @ CLE W 26 11 5 5 100.0 0 0 - 1 3 33.3 1 3 4 1 0 3 3 1 22
+p855
+aVAndrew DeClercq ORL 11/03/2001 ORL @ CLE W 14 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 1 0 4 7
+p856
+aVMonty Williams ORL 11/03/2001 ORL @ CLE W 12 5 1 2 50.0 0 0 - 3 6 50.0 1 2 3 1 1 0 0 1 7
+p857
+aVTroy Hudson ORL 11/02/2001 ORL @ IND L 27 19 7 12 58.3 1 3 33.3 4 4 100.0 1 1 2 2 3 0 1 2 -11
+p858
+aVDon Reid ORL 11/02/2001 ORL @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p859
+aVGrant Hill ORL 11/02/2001 ORL @ IND L 42 13 4 12 33.3 0 0 - 5 6 83.3 2 13 15 8 1 0 3 1 -4
+p860
+aVPat Garrity ORL 11/02/2001 ORL @ IND L 33 17 6 17 35.3 4 9 44.4 1 2 50.0 1 1 2 1 0 1 1 3 -6
+p861
+aVDarrell Armstrong ORL 11/02/2001 ORL @ IND L 30 23 9 17 52.9 2 6 33.3 3 4 75.0 2 2 4 4 2 0 0 2 6
+p862
+aVAndrew DeClercq ORL 11/02/2001 ORL @ IND L 14 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 1 0 1 0 3 3
+p863
+aVSteven Hunter ORL 11/02/2001 ORL @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p864
+aVBo Outlaw ORL 11/02/2001 ORL @ IND L 15 4 1 2 50.0 0 0 - 2 4 50.0 2 0 2 0 0 0 0 2 -7
+p865
+aVTracy McGrady ORL 11/02/2001 ORL @ IND L 29 11 3 10 30.0 0 1 0.0 5 6 83.3 2 0 2 6 1 0 3 5 -8
+p866
+aVPatrick Ewing ORL 11/02/2001 ORL @ IND L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -7
+p867
+aVMonty Williams ORL 11/02/2001 ORL @ IND L 18 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 2 2 -6
+p868
+aVHorace Grant ORL 11/02/2001 ORL @ IND L 21 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 1 0 0 0 1 -4
+p869
+aVHorace Grant ORL 10/30/2001 ORL vs. TOR W 29 12 5 8 62.5 0 0 - 2 2 100.0 3 3 6 2 1 0 0 2 28
+p870
+aVTroy Hudson ORL 10/30/2001 ORL vs. TOR W 19 12 6 11 54.5 0 1 0.0 0 0 - 0 2 2 2 0 0 3 3 4
+p871
+aVDon Reid ORL 10/30/2001 ORL vs. TOR W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 5 13
+p872
+aVBo Outlaw ORL 10/30/2001 ORL vs. TOR W 16 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 1 2 3 -5
+p873
+aVPatrick Ewing ORL 10/30/2001 ORL vs. TOR W 25 12 5 8 62.5 0 0 - 2 2 100.0 3 5 8 0 2 3 3 3 5
+p874
+aVSteven Hunter ORL 10/30/2001 ORL vs. TOR W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 2
+p875
+aVTracy McGrady ORL 10/30/2001 ORL vs. TOR W 34 23 9 16 56.3 1 2 50.0 4 10 40.0 1 3 4 5 1 1 2 1 31
+p876
+aVMonty Williams ORL 10/30/2001 ORL vs. TOR W 10 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 1 1 0 0 0 1
+p877
+aVGrant Hill ORL 10/30/2001 ORL vs. TOR W 32 22 9 14 64.3 0 0 - 4 5 80.0 0 3 3 5 0 0 4 2 26
+p878
+aVPat Garrity ORL 10/30/2001 ORL vs. TOR W 19 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 0 0 1 0 5 3
+p879
+aVDarrell Armstrong ORL 10/30/2001 ORL vs. TOR W 29 16 6 7 85.7 2 3 66.7 2 2 100.0 1 3 4 5 3 1 1 1 25
+p880
+aVAndrew DeClercq ORL 10/30/2001 ORL vs. TOR W 12 3 0 0 - 0 0 - 3 4 75.0 0 3 3 2 3 0 1 5 12
+p881
+a.

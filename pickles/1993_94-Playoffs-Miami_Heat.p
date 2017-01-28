@@ -1,0 +1,92 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBimbo Coles MIA 05/08/1994 MIA @ ATL L 24 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 1 2 0 3 5 -
+p2
+aVJohn Salley MIA 05/08/1994 MIA @ ATL L 43 17 7 16 43.8 0 0 - 3 4 75.0 3 6 9 1 0 0 1 5 -
+p3
+aVRony Seikaly MIA 05/08/1994 MIA @ ATL L 28 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 4 1 1 3 4 -
+p4
+aVGlen Rice MIA 05/08/1994 MIA @ ATL L 43 11 4 14 28.6 3 9 33.3 0 0 - 1 4 5 2 3 0 4 4 -
+p5
+aVGrant Long MIA 05/08/1994 MIA @ ATL L 30 22 5 15 33.3 0 0 - 12 14 85.7 7 3 10 2 1 0 1 2 -
+p6
+aVBrian Shaw MIA 05/08/1994 MIA @ ATL L 32 17 8 12 66.7 0 3 0.0 1 2 50.0 1 5 6 2 0 0 3 1 -
+p7
+aVSteven Smith MIA 05/08/1994 MIA @ ATL L 40 10 3 13 23.1 0 5 0.0 4 4 100.0 2 4 6 3 1 0 3 2 -
+p8
+aVGlen Rice MIA 05/05/1994 MIA vs. ATL L 37 13 5 15 33.3 1 5 20.0 2 2 100.0 1 6 7 2 3 0 2 3 -
+p9
+aVRony Seikaly MIA 05/05/1994 MIA vs. ATL L 42 9 2 5 40.0 0 0 - 5 7 71.4 4 4 8 1 0 2 2 5 -
+p10
+aVBimbo Coles MIA 05/05/1994 MIA vs. ATL L 31 18 7 13 53.8 0 0 - 4 6 66.7 1 3 4 7 4 0 0 1 -
+p11
+aVHarold Miner MIA 05/05/1994 MIA vs. ATL L 16 10 3 6 50.0 0 0 - 4 6 66.7 1 2 3 0 0 0 0 1 -
+p12
+aVBrian Shaw MIA 05/05/1994 MIA vs. ATL L 17 8 3 8 37.5 0 3 0.0 2 4 50.0 0 2 2 1 2 0 1 2 -
+p13
+aVGrant Long MIA 05/05/1994 MIA vs. ATL L 23 8 2 7 28.6 0 0 - 4 6 66.7 2 1 3 1 0 0 4 6 -
+p14
+aVSteven Smith MIA 05/05/1994 MIA vs. ATL L 40 15 4 13 30.8 4 6 66.7 3 4 75.0 2 3 5 4 1 0 1 5 -
+p15
+aVJohn Salley MIA 05/05/1994 MIA vs. ATL L 34 8 3 11 27.3 0 0 - 2 2 100.0 3 4 7 2 0 1 2 4 -
+p16
+aVBimbo Coles MIA 05/03/1994 MIA vs. ATL W 28 14 5 9 55.6 0 1 0.0 4 4 100.0 0 3 3 2 0 0 4 2 -
+p17
+aVSteven Smith MIA 05/03/1994 MIA vs. ATL W 41 25 9 24 37.5 2 7 28.6 5 6 83.3 3 1 4 2 1 1 2 3 -
+p18
+aVBrian Shaw MIA 05/03/1994 MIA vs. ATL W 22 4 2 8 25.0 0 3 0.0 0 0 - 1 4 5 4 0 1 2 0 -
+p19
+aVRony Seikaly MIA 05/03/1994 MIA vs. ATL W 44 12 4 7 57.1 0 0 - 4 8 50.0 8 12 20 2 2 2 2 4 -
+p20
+aVJohn Salley MIA 05/03/1994 MIA vs. ATL W 48 12 5 12 41.7 0 0 - 2 2 100.0 1 7 8 2 0 1 1 3 -
+p21
+aVHarold Miner MIA 05/03/1994 MIA vs. ATL W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p22
+aVGlen Rice MIA 05/03/1994 MIA vs. ATL W 39 19 8 15 53.3 1 4 25.0 2 4 50.0 2 5 7 2 2 1 4 2 -
+p23
+aVMatt Geiger MIA 05/03/1994 MIA vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p24
+aVWillie Burton MIA 05/03/1994 MIA vs. ATL W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -
+p25
+aVSteven Smith MIA 04/30/1994 MIA @ ATL L 35 24 9 15 60.0 1 1 100.0 5 6 83.3 6 3 9 1 1 0 2 1 -
+p26
+aVWillie Burton MIA 04/30/1994 MIA @ ATL L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -
+p27
+aVGrant Long MIA 04/30/1994 MIA @ ATL L 28 10 3 5 60.0 0 0 - 4 6 66.7 1 2 3 2 0 1 2 3 -
+p28
+aVBimbo Coles MIA 04/30/1994 MIA @ ATL L 25 13 4 9 44.4 0 0 - 5 7 71.4 0 0 0 2 0 1 3 4 -
+p29
+aVBrian Shaw MIA 04/30/1994 MIA @ ATL L 25 10 3 9 33.3 0 3 0.0 4 6 66.7 1 2 3 1 2 0 4 4 -
+p30
+aVGlen Rice MIA 04/30/1994 MIA @ ATL L 37 9 4 10 40.0 1 2 50.0 0 0 - 1 6 7 2 1 0 2 4 -
+p31
+aVMatt Geiger MIA 04/30/1994 MIA @ ATL L 7 1 0 2 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 1 -
+p32
+aVJohn Salley MIA 04/30/1994 MIA @ ATL L 36 4 1 7 14.3 0 0 - 2 6 33.3 4 4 8 2 2 2 0 3 -
+p33
+aVKeith Askins MIA 04/30/1994 MIA @ ATL L 0 0 0 0 - 0 - - 0 0 - - - - - - - - - -
+p34
+aVRony Seikaly MIA 04/30/1994 MIA @ ATL L 21 0 0 3 0.0 0 0 - 0 0 - 1 5 6 0 1 0 3 5 -
+p35
+aVHarold Miner MIA 04/30/1994 MIA @ ATL L 23 15 7 13 53.8 0 0 - 1 1 100.0 2 1 3 1 1 0 2 2 -
+p36
+aVJohn Salley MIA 04/28/1994 MIA @ ATL W 40 14 6 11 54.5 0 0 - 2 2 100.0 5 3 8 1 0 1 2 6 -
+p37
+aVGlen Rice MIA 04/28/1994 MIA @ ATL W 39 13 5 14 35.7 1 3 33.3 2 2 100.0 1 9 10 2 2 1 2 1 -
+p38
+aVSteven Smith MIA 04/28/1994 MIA @ ATL W 36 22 8 15 53.3 2 3 66.7 4 5 80.0 4 2 6 1 0 1 2 1 -
+p39
+aVGrant Long MIA 04/28/1994 MIA @ ATL W 29 9 4 9 44.4 0 0 - 1 1 100.0 0 2 2 2 2 1 3 5 -
+p40
+aVBrian Shaw MIA 04/28/1994 MIA @ ATL W 16 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 3 1 -
+p41
+aVKeith Askins MIA 04/28/1994 MIA @ ATL W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -
+p42
+aVRony Seikaly MIA 04/28/1994 MIA @ ATL W 30 13 5 11 45.5 0 0 - 3 6 50.0 4 3 7 1 0 2 1 4 -
+p43
+aVBimbo Coles MIA 04/28/1994 MIA @ ATL W 32 17 7 10 70.0 0 1 0.0 3 4 75.0 1 5 6 5 1 0 1 3 -
+p44
+aVHarold Miner MIA 04/28/1994 MIA @ ATL W 12 5 1 5 20.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 1 -
+p45
+a.

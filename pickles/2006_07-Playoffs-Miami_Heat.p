@@ -1,0 +1,82 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDwyane Wade MIA 04/29/2007 MIA vs. CHI L 45 24 8 22 36.4 0 2 0.0 8 9 88.9 2 3 5 10 0 1 7 5 -10
+p2
+aVDorell Wright MIA 04/29/2007 MIA vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p3
+aVMichael Doleac MIA 04/29/2007 MIA vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p4
+aVJason Kapono MIA 04/29/2007 MIA vs. CHI L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 1 3 -8
+p5
+aVJason Williams MIA 04/29/2007 MIA vs. CHI L 24 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 4 0 0 1 3 0
+p6
+aVAlonzo Mourning MIA 04/29/2007 MIA vs. CHI L 16 14 6 6 100.0 0 0 - 2 7 28.6 0 2 2 0 0 0 0 3 -2
+p7
+aVShaquille O'Neal MIA 04/29/2007 MIA vs. CHI L 31 16 8 14 57.1 0 0 - 0 7 0.0 3 4 7 0 0 2 3 3 -12
+p8
+aVUdonis Haslem MIA 04/29/2007 MIA vs. CHI L 32 8 4 9 44.4 0 0 - 0 0 - 4 6 10 1 0 1 1 5 -4
+p9
+aVGary Payton MIA 04/29/2007 MIA vs. CHI L 18 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -5
+p10
+aVJames Posey MIA 04/29/2007 MIA vs. CHI L 44 5 1 8 12.5 1 6 16.7 2 2 100.0 1 17 18 2 1 2 2 4 -16
+p11
+aVAntoine Walker MIA 04/29/2007 MIA vs. CHI L 15 4 1 4 25.0 1 4 25.0 1 2 50.0 0 2 2 1 0 0 0 0 -4
+p12
+aVShaquille O'Neal MIA 04/27/2007 MIA vs. CHI L 32 23 10 17 58.8 0 0 - 3 12 25.0 6 7 13 1 1 2 2 3 -10
+p13
+aVUdonis Haslem MIA 04/27/2007 MIA vs. CHI L 24 5 1 5 20.0 0 0 - 3 4 75.0 0 1 1 0 0 0 0 5 -12
+p14
+aVJason Kapono MIA 04/27/2007 MIA vs. CHI L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -11
+p15
+aVEddie Jones MIA 04/27/2007 MIA vs. CHI L 26 6 1 2 50.0 1 1 100.0 3 4 75.0 0 2 2 2 0 0 0 3 1
+p16
+aVAntoine Walker MIA 04/27/2007 MIA vs. CHI L 23 12 5 11 45.5 2 2 100.0 0 1 0.0 1 2 3 1 2 0 3 4 2
+p17
+aVJames Posey MIA 04/27/2007 MIA vs. CHI L 36 10 4 8 50.0 2 5 40.0 0 0 - 0 3 3 2 2 2 0 6 5
+p18
+aVJason Williams MIA 04/27/2007 MIA vs. CHI L 27 5 1 7 14.3 1 4 25.0 2 2 100.0 0 1 1 3 1 0 0 1 -5
+p19
+aVAlonzo Mourning MIA 04/27/2007 MIA vs. CHI L 13 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 2 0 3 2
+p20
+aVDwyane Wade MIA 04/27/2007 MIA vs. CHI L 43 28 12 27 44.4 0 2 0.0 4 10 40.0 5 4 9 5 3 0 4 2 -12
+p21
+aVAntoine Walker MIA 04/24/2007 MIA @ CHI L 24 11 4 8 50.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 0 2 -4
+p22
+aVShaquille O'Neal MIA 04/24/2007 MIA @ CHI L 31 17 6 14 42.9 0 0 - 5 5 100.0 5 3 8 1 0 1 7 3 -19
+p23
+aVDwyane Wade MIA 04/24/2007 MIA @ CHI L 41 21 9 19 47.4 0 0 - 3 6 50.0 0 3 3 7 1 0 7 1 -11
+p24
+aVJames Posey MIA 04/24/2007 MIA @ CHI L 30 11 3 7 42.9 2 6 33.3 3 3 100.0 0 8 8 2 5 1 3 5 1
+p25
+aVJason Kapono MIA 04/24/2007 MIA @ CHI L 33 11 5 8 62.5 1 1 100.0 0 0 - 0 0 0 0 1 0 0 2 -3
+p26
+aVAlonzo Mourning MIA 04/24/2007 MIA @ CHI L 12 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 0 -6
+p27
+aVUdonis Haslem MIA 04/24/2007 MIA @ CHI L 22 6 3 5 60.0 0 0 - 0 0 - 0 4 4 3 1 0 1 1 -13
+p28
+aVEddie Jones MIA 04/24/2007 MIA @ CHI L 17 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 3 0 1 0 0 -14
+p29
+aVJason Williams MIA 04/24/2007 MIA @ CHI L 30 4 1 7 14.3 1 5 20.0 1 2 50.0 0 4 4 4 1 0 1 0 -21
+p30
+aVAntoine Walker MIA 04/21/2007 MIA @ CHI L 30 20 5 14 35.7 4 7 57.1 6 6 100.0 1 2 3 3 0 1 1 5 14
+p31
+aVJason Kapono MIA 04/21/2007 MIA @ CHI L 16 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 1 0 0 0 2 -2
+p32
+aVEddie Jones MIA 04/21/2007 MIA @ CHI L 24 2 0 4 0.0 0 4 0.0 2 2 100.0 0 3 3 0 1 0 1 4 -4
+p33
+aVAlonzo Mourning MIA 04/21/2007 MIA @ CHI L 14 0 0 1 0.0 0 0 - 0 2 0.0 1 3 4 1 0 0 0 0 -9
+p34
+aVJason Williams MIA 04/21/2007 MIA @ CHI L 30 9 3 8 37.5 2 5 40.0 1 1 100.0 0 2 2 3 3 1 1 1 3
+p35
+aVGary Payton MIA 04/21/2007 MIA @ CHI L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 2 -7
+p36
+aVUdonis Haslem MIA 04/21/2007 MIA @ CHI L 25 11 4 6 66.7 0 0 - 3 4 75.0 0 6 6 0 0 1 0 3 -11
+p37
+aVDwyane Wade MIA 04/21/2007 MIA @ CHI L 33 21 7 16 43.8 0 1 0.0 7 7 100.0 0 2 2 3 1 1 5 5 -7
+p38
+aVShaquille O'Neal MIA 04/21/2007 MIA @ CHI L 27 19 9 14 64.3 0 0 - 1 3 33.3 2 4 6 3 0 1 2 6 -6
+p39
+aVJames Posey MIA 04/21/2007 MIA @ CHI L 28 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 0 3 4
+p40
+a.

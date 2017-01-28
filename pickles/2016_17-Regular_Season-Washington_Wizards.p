@@ -1,0 +1,914 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKelly Oubre Jr. WAS 01/23/2017 WAS @ CHA W 23 10 4 5 80.0 2 3 66.7 0 2 0.0 0 2 2 1 1 2 0 2 7
+p2
+aVSheldon McClellan WAS 01/23/2017 WAS @ CHA W 13 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 2
+p3
+aVMarcin Gortat WAS 01/23/2017 WAS @ CHA W 29 8 4 5 80.0 0 0 - 0 0 - 2 5 7 1 1 1 1 3 2
+p4
+aVJason Smith WAS 01/23/2017 WAS @ CHA W 19 6 3 4 75.0 0 0 - 0 0 - 0 5 5 0 1 0 2 4 6
+p5
+aVJohn Wall WAS 01/23/2017 WAS @ CHA W 38 24 9 20 45.0 0 1 0.0 6 7 85.7 0 4 4 7 1 0 5 2 6
+p6
+aVBradley Beal WAS 01/23/2017 WAS @ CHA W 32 18 6 16 37.5 4 9 44.4 2 3 66.7 2 3 5 4 1 0 4 3 16
+p7
+aVTrey Burke WAS 01/23/2017 WAS @ CHA W 12 6 3 3 100.0 0 0 - 0 0 - 0 1 1 4 0 0 0 1 -4
+p8
+aVMarkieff Morris WAS 01/23/2017 WAS @ CHA W 41 23 8 13 61.5 2 4 50.0 5 5 100.0 0 8 8 2 0 0 2 5 8
+p9
+aVOtto Porter WAS 01/23/2017 WAS @ CHA W 35 14 6 11 54.5 2 6 33.3 0 0 - 1 12 13 2 0 0 0 1 7
+p10
+aVTrey Burke WAS 01/21/2017 WAS @ DET L 9 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 2 0 0 1 3 5
+p11
+aVOtto Porter WAS 01/21/2017 WAS @ DET L 34 11 4 13 30.8 2 6 33.3 1 2 50.0 1 6 7 3 2 0 1 2 -3
+p12
+aVMarcin Gortat WAS 01/21/2017 WAS @ DET L 25 12 4 7 57.1 0 0 - 4 5 80.0 1 6 7 2 2 0 1 3 -11
+p13
+aVJason Smith WAS 01/21/2017 WAS @ DET L 19 16 6 9 66.7 2 3 66.7 2 2 100.0 1 3 4 0 0 1 0 2 0
+p14
+aVTomas Satoransky WAS 01/21/2017 WAS @ DET L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p15
+aVBradley Beal WAS 01/21/2017 WAS @ DET L 38 17 4 15 26.7 0 7 0.0 9 11 81.8 1 4 5 4 2 1 0 1 0
+p16
+aVJohn Wall WAS 01/21/2017 WAS @ DET L 39 19 6 15 40.0 0 2 0.0 7 9 77.8 2 5 7 10 2 0 4 3 -6
+p17
+aVMarkieff Morris WAS 01/21/2017 WAS @ DET L 38 19 7 17 41.2 2 5 40.0 3 4 75.0 4 5 9 2 2 1 3 5 8
+p18
+aVSheldon McClellan WAS 01/21/2017 WAS @ DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 9
+p19
+aVKelly Oubre Jr. WAS 01/21/2017 WAS @ DET L 27 11 5 9 55.6 1 2 50.0 0 0 - 2 2 4 0 2 0 0 2 3
+p20
+aVOtto Porter WAS 01/19/2017 WAS @ NYK W 30 23 7 13 53.8 6 10 60.0 3 3 100.0 1 5 6 2 1 1 0 3 1
+p21
+aVBradley Beal WAS 01/19/2017 WAS @ NYK W 38 8 4 13 30.8 0 7 0.0 0 0 - 1 1 2 5 1 0 5 1 0
+p22
+aVMarcin Gortat WAS 01/19/2017 WAS @ NYK W 30 12 6 12 50.0 0 0 - 0 0 - 5 7 12 2 0 0 1 3 9
+p23
+aVTrey Burke WAS 01/19/2017 WAS @ NYK W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -8
+p24
+aVTomas Satoransky WAS 01/19/2017 WAS @ NYK W 14 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 2 0 1 0 3
+p25
+aVMarkieff Morris WAS 01/19/2017 WAS @ NYK W 35 14 6 11 54.5 2 3 66.7 0 0 - 2 4 6 4 0 2 3 1 -12
+p26
+aVKelly Oubre Jr. WAS 01/19/2017 WAS @ NYK W 25 10 3 6 50.0 1 4 25.0 3 3 100.0 0 3 3 1 0 0 0 4 7
+p27
+aVJohn Wall WAS 01/19/2017 WAS @ NYK W 37 29 11 21 52.4 1 3 33.3 6 8 75.0 0 5 5 13 3 0 2 2 11
+p28
+aVJason Smith WAS 01/19/2017 WAS @ NYK W 23 11 5 8 62.5 1 2 50.0 0 0 - 1 3 4 0 0 2 2 4 4
+p29
+aVKelly Oubre Jr. WAS 01/18/2017 WAS vs. MEM W 20 3 1 3 33.3 0 2 0.0 1 1 100.0 0 4 4 3 0 0 1 2 3
+p30
+aVJason Smith WAS 01/18/2017 WAS vs. MEM W 20 8 3 8 37.5 0 2 0.0 2 2 100.0 1 2 3 0 2 1 0 4 2
+p31
+aVTrey Burke WAS 01/18/2017 WAS vs. MEM W 8 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 1 0 0 1 0 8
+p32
+aVMarkieff Morris WAS 01/18/2017 WAS vs. MEM W 34 17 6 16 37.5 0 5 0.0 5 5 100.0 3 9 12 2 1 1 1 5 13
+p33
+aVTomas Satoransky WAS 01/18/2017 WAS vs. MEM W 14 2 1 1 100.0 0 0 - 0 0 - 2 1 3 3 0 0 1 1 7
+p34
+aVBradley Beal WAS 01/18/2017 WAS vs. MEM W 37 12 4 14 28.6 1 7 14.3 3 4 75.0 0 1 1 4 1 0 3 4 -9
+p35
+aVOtto Porter WAS 01/18/2017 WAS vs. MEM W 34 25 9 12 75.0 6 8 75.0 1 1 100.0 2 5 7 0 1 0 0 2 -11
+p36
+aVMarcin Gortat WAS 01/18/2017 WAS vs. MEM W 36 7 3 5 60.0 0 0 - 1 2 50.0 3 8 11 1 0 0 0 5 2
+p37
+aVJohn Wall WAS 01/18/2017 WAS vs. MEM W 37 25 7 18 38.9 1 5 20.0 10 10 100.0 1 1 2 13 2 1 4 2 0
+p38
+aVKelly Oubre Jr. WAS 01/16/2017 WAS vs. POR W 28 18 5 8 62.5 3 4 75.0 5 5 100.0 3 1 4 2 0 1 2 3 2
+p39
+aVTrey Burke WAS 01/16/2017 WAS vs. POR W 20 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 3 0 0 1 1 3
+p40
+aVJason Smith WAS 01/16/2017 WAS vs. POR W 18 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 5 22
+p41
+aVJohn Wall WAS 01/16/2017 WAS vs. POR W 28 24 10 17 58.8 2 3 66.7 2 2 100.0 1 3 4 7 2 0 4 0 16
+p42
+aVTomas Satoransky WAS 01/16/2017 WAS vs. POR W 19 10 4 7 57.1 1 3 33.3 1 1 100.0 3 7 10 3 1 0 2 0 7
+p43
+aVDaniel Ochefu WAS 01/16/2017 WAS vs. POR W 3 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -4
+p44
+aVOtto Porter WAS 01/16/2017 WAS vs. POR W 30 12 4 9 44.4 3 5 60.0 1 3 33.3 0 4 4 0 1 0 1 1 13
+p45
+aVMarcin Gortat WAS 01/16/2017 WAS vs. POR W 27 6 3 9 33.3 0 0 - 0 0 - 2 4 6 0 0 2 1 2 1
+p46
+aVSheldon McClellan WAS 01/16/2017 WAS vs. POR W 5 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -3
+p47
+aVMarkieff Morris WAS 01/16/2017 WAS vs. POR W 33 17 6 9 66.7 1 2 50.0 4 4 100.0 0 13 13 5 2 2 0 3 26
+p48
+aVBradley Beal WAS 01/16/2017 WAS vs. POR W 29 25 7 11 63.6 3 3 100.0 8 8 100.0 1 1 2 5 3 0 1 2 12
+p49
+aVBradley Beal WAS 01/14/2017 WAS vs. PHI W 27 20 8 15 53.3 2 3 66.7 2 2 100.0 0 4 4 1 1 0 1 1 18
+p50
+aVMarcin Gortat WAS 01/14/2017 WAS vs. PHI W 23 12 6 9 66.7 0 0 - 0 1 0.0 2 8 10 0 0 1 1 2 25
+p51
+aVAndrew Nicholson WAS 01/14/2017 WAS vs. PHI W 10 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 3
+p52
+aVOtto Porter WAS 01/14/2017 WAS vs. PHI W 30 10 4 12 33.3 0 2 0.0 2 4 50.0 3 3 6 1 1 0 0 0 15
+p53
+aVJason Smith WAS 01/14/2017 WAS vs. PHI W 13 7 3 6 50.0 1 1 100.0 0 0 - 2 2 4 1 0 1 1 5 -4
+p54
+aVKelly Oubre Jr. WAS 01/14/2017 WAS vs. PHI W 27 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 0 2 0 0 1 8
+p55
+aVTomas Satoransky WAS 01/14/2017 WAS vs. PHI W 21 4 0 3 0.0 0 0 - 4 4 100.0 2 2 4 2 1 0 0 0 -2
+p56
+aVJohn Wall WAS 01/14/2017 WAS vs. PHI W 30 25 9 17 52.9 3 4 75.0 4 5 80.0 2 5 7 7 2 0 3 1 16
+p57
+aVMarkieff Morris WAS 01/14/2017 WAS vs. PHI W 30 14 6 10 60.0 2 2 100.0 0 0 - 0 9 9 1 0 0 3 4 15
+p58
+aVTrey Burke WAS 01/14/2017 WAS vs. PHI W 18 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 4 0 0 1 0 0
+p59
+aVSheldon McClellan WAS 01/14/2017 WAS vs. PHI W 7 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 0 0 -8
+p60
+aVDaniel Ochefu WAS 01/14/2017 WAS vs. PHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p61
+aVJohn Wall WAS 01/11/2017 WAS @ BOS L 39 9 4 21 19.0 0 5 0.0 1 2 50.0 3 4 7 11 3 1 1 2 -2
+p62
+aVBradley Beal WAS 01/11/2017 WAS @ BOS L 37 35 13 26 50.0 6 10 60.0 3 4 75.0 2 0 2 4 1 1 2 4 1
+p63
+aVKelly Oubre Jr. WAS 01/11/2017 WAS @ BOS L 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 1 1 1 -2
+p64
+aVMarcin Gortat WAS 01/11/2017 WAS @ BOS L 32 10 5 8 62.5 0 0 - 0 0 - 5 4 9 2 0 0 1 0 -3
+p65
+aVMarkieff Morris WAS 01/11/2017 WAS @ BOS L 38 14 6 21 28.6 1 6 16.7 1 2 50.0 2 7 9 4 2 0 1 1 -5
+p66
+aVSheldon McClellan WAS 01/11/2017 WAS @ BOS L 16 5 2 3 66.7 1 2 50.0 0 0 - 0 4 4 0 0 0 0 2 -13
+p67
+aVOtto Porter WAS 01/11/2017 WAS @ BOS L 37 20 9 12 75.0 2 2 100.0 0 0 - 2 4 6 4 3 0 0 1 -5
+p68
+aVJason Smith WAS 01/11/2017 WAS @ BOS L 19 13 5 9 55.6 0 1 0.0 3 4 75.0 2 3 5 1 0 0 1 1 -9
+p69
+aVTrey Burke WAS 01/11/2017 WAS @ BOS L 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -7
+p70
+aVKelly Oubre Jr. WAS 01/10/2017 WAS vs. CHI W 23 3 1 6 16.7 0 3 0.0 1 2 50.0 0 5 5 1 1 0 1 4 -5
+p71
+aVMarkieff Morris WAS 01/10/2017 WAS vs. CHI W 22 19 8 12 66.7 3 3 100.0 0 0 - 1 4 5 2 3 0 3 6 -1
+p72
+aVTrey Burke WAS 01/10/2017 WAS vs. CHI W 13 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 1 0 0 2 2 -11
+p73
+aVMarcin Gortat WAS 01/10/2017 WAS vs. CHI W 42 10 5 8 62.5 0 0 - 0 0 - 3 9 12 0 1 1 3 4 16
+p74
+aVJohn Wall WAS 01/10/2017 WAS vs. CHI W 40 26 11 21 52.4 1 2 50.0 3 4 75.0 0 6 6 14 1 1 5 2 24
+p75
+aVJason Smith WAS 01/10/2017 WAS vs. CHI W 23 7 3 7 42.9 1 2 50.0 0 0 - 3 3 6 0 0 3 3 2 -17
+p76
+aVOtto Porter WAS 01/10/2017 WAS vs. CHI W 34 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 2 2 1 0 1 16
+p77
+aVSheldon McClellan WAS 01/10/2017 WAS vs. CHI W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -19
+p78
+aVBradley Beal WAS 01/10/2017 WAS vs. CHI W 37 19 7 15 46.7 3 6 50.0 2 3 66.7 0 4 4 3 0 0 4 2 7
+p79
+aVOtto Porter WAS 01/08/2017 WAS @ MIL W 39 13 3 8 37.5 3 7 42.9 4 4 100.0 1 6 7 7 1 2 2 4 9
+p80
+aVMarkieff Morris WAS 01/08/2017 WAS @ MIL W 38 20 9 15 60.0 1 3 33.3 1 2 50.0 5 5 10 1 3 0 3 3 1
+p81
+aVJason Smith WAS 01/08/2017 WAS @ MIL W 5 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -2
+p82
+aVMarcin Gortat WAS 01/08/2017 WAS @ MIL W 37 7 2 5 40.0 0 0 - 3 4 75.0 2 10 12 0 0 1 3 2 5
+p83
+aVJohn Wall WAS 01/08/2017 WAS @ MIL W 37 16 7 15 46.7 0 3 0.0 2 2 100.0 0 3 3 7 1 0 5 1 11
+p84
+aVTrey Burke WAS 01/08/2017 WAS @ MIL W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 5 1 0 2 2 -5
+p85
+aVKelly Oubre Jr. WAS 01/08/2017 WAS @ MIL W 25 17 7 14 50.0 3 7 42.9 0 0 - 3 2 5 1 1 0 1 4 5
+p86
+aVBradley Beal WAS 01/08/2017 WAS @ MIL W 36 26 10 19 52.6 2 10 20.0 4 5 80.0 1 3 4 2 0 1 3 5 7
+p87
+aVSheldon McClellan WAS 01/08/2017 WAS @ MIL W 12 8 3 5 60.0 1 2 50.0 1 1 100.0 0 3 3 0 2 0 0 0 -1
+p88
+aVJason Smith WAS 01/06/2017 WAS vs. MIN W 22 10 5 8 62.5 0 0 - 0 0 - 0 3 3 2 0 2 0 0 -1
+p89
+aVSheldon McClellan WAS 01/06/2017 WAS vs. MIN W 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 -2
+p90
+aVMarkieff Morris WAS 01/06/2017 WAS vs. MIN W 36 15 6 13 46.2 1 3 33.3 2 2 100.0 0 6 6 1 0 0 1 4 7
+p91
+aVTrey Burke WAS 01/06/2017 WAS vs. MIN W 11 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 0 -13
+p92
+aVOtto Porter WAS 01/06/2017 WAS vs. MIN W 34 17 7 12 58.3 3 6 50.0 0 0 - 1 5 6 2 1 2 2 2 8
+p93
+aVBradley Beal WAS 01/06/2017 WAS vs. MIN W 34 22 7 12 58.3 5 7 71.4 3 3 100.0 0 3 3 3 0 0 1 0 13
+p94
+aVAndrew Nicholson WAS 01/06/2017 WAS vs. MIN W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -2
+p95
+aVMarcin Gortat WAS 01/06/2017 WAS vs. MIN W 33 19 9 9 100.0 0 0 - 1 2 50.0 2 8 10 1 0 3 5 3 10
+p96
+aVKelly Oubre Jr. WAS 01/06/2017 WAS vs. MIN W 14 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 0 0 1 4 -1
+p97
+aVJohn Wall WAS 01/06/2017 WAS vs. MIN W 40 18 8 16 50.0 0 1 0.0 2 2 100.0 0 1 1 18 2 0 3 2 16
+p98
+aVMarkieff Morris WAS 01/03/2017 WAS @ DAL L 26 13 5 10 50.0 1 2 50.0 2 3 66.7 1 4 5 0 0 0 0 3 -12
+p99
+aVTrey Burke WAS 01/03/2017 WAS @ DAL L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 1 -13
+p100
+aVJason Smith WAS 01/03/2017 WAS @ DAL L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 2 1 2 -13
+p101
+aVSheldon McClellan WAS 01/03/2017 WAS @ DAL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p102
+aVMarcin Gortat WAS 01/03/2017 WAS @ DAL L 40 12 5 11 45.5 0 0 - 2 2 100.0 4 12 16 4 0 1 1 2 5
+p103
+aVMarcus Thornton WAS 01/03/2017 WAS @ DAL L 15 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 1 3 -14
+p104
+aVKelly Oubre Jr. WAS 01/03/2017 WAS @ DAL L 25 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 2 0 0 0 3 -8
+p105
+aVBradley Beal WAS 01/03/2017 WAS @ DAL L 35 25 10 26 38.5 3 11 27.3 2 3 66.7 0 4 4 6 0 0 1 2 3
+p106
+aVOtto Porter WAS 01/03/2017 WAS @ DAL L 37 13 5 11 45.5 3 5 60.0 0 0 - 0 4 4 3 3 3 1 3 7
+p107
+aVJohn Wall WAS 01/03/2017 WAS @ DAL L 39 27 10 19 52.6 1 3 33.3 6 6 100.0 0 4 4 8 3 1 4 0 5
+p108
+aVTrey Burke WAS 01/02/2017 WAS @ HOU L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 3
+p109
+aVOtto Porter WAS 01/02/2017 WAS @ HOU L 33 8 4 12 33.3 0 5 0.0 0 0 - 0 3 3 1 1 1 0 3 -13
+p110
+aVBradley Beal WAS 01/02/2017 WAS @ HOU L 35 27 9 18 50.0 5 10 50.0 4 4 100.0 0 3 3 2 2 0 3 0 -3
+p111
+aVMarcin Gortat WAS 01/02/2017 WAS @ HOU L 40 13 6 10 60.0 0 0 - 1 2 50.0 4 10 14 3 1 0 4 2 -13
+p112
+aVMarkieff Morris WAS 01/02/2017 WAS @ HOU L 33 12 5 11 45.5 0 4 0.0 2 3 66.7 1 7 8 3 0 1 2 5 4
+p113
+aVMarcus Thornton WAS 01/02/2017 WAS @ HOU L 18 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 0 1 0 1 2 -5
+p114
+aVKelly Oubre Jr. WAS 01/02/2017 WAS @ HOU L 23 0 0 4 0.0 0 1 0.0 0 0 - 1 6 7 0 2 0 0 3 -11
+p115
+aVJason Smith WAS 01/02/2017 WAS @ HOU L 9 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 2 1
+p116
+aVJohn Wall WAS 01/02/2017 WAS @ HOU L 37 18 8 18 44.4 0 2 0.0 2 3 66.7 1 4 5 12 2 0 5 2 -13
+p117
+aVJohn Wall WAS 12/30/2016 WAS vs. BKN W 32 19 7 14 50.0 1 4 25.0 4 4 100.0 0 2 2 14 4 1 6 1 12
+p118
+aVTrey Burke WAS 12/30/2016 WAS vs. BKN W 30 27 10 12 83.3 5 5 100.0 2 2 100.0 0 2 2 2 2 0 2 0 20
+p119
+aVTomas Satoransky WAS 12/30/2016 WAS vs. BKN W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 7
+p120
+aVJason Smith WAS 12/30/2016 WAS vs. BKN W 18 10 5 7 71.4 0 0 - 0 0 - 3 5 8 1 0 2 1 6 3
+p121
+aVAndrew Nicholson WAS 12/30/2016 WAS vs. BKN W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p122
+aVKelly Oubre Jr. WAS 12/30/2016 WAS vs. BKN W 13 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 1 2 1 5
+p123
+aVOtto Porter WAS 12/30/2016 WAS vs. BKN W 31 12 5 10 50.0 2 4 50.0 0 0 - 0 4 4 2 1 1 0 2 9
+p124
+aVSheldon McClellan WAS 12/30/2016 WAS vs. BKN W 24 8 2 6 33.3 1 2 50.0 3 3 100.0 0 1 1 2 1 0 1 1 16
+p125
+aVDaniel Ochefu WAS 12/30/2016 WAS vs. BKN W 2 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 3
+p126
+aVMarcus Thornton WAS 12/30/2016 WAS vs. BKN W 21 8 3 6 50.0 2 2 100.0 0 0 - 1 2 3 5 1 1 2 3 11
+p127
+aVMarkieff Morris WAS 12/30/2016 WAS vs. BKN W 21 10 5 8 62.5 0 2 0.0 0 0 - 2 4 6 0 1 0 1 4 6
+p128
+aVMarcin Gortat WAS 12/30/2016 WAS vs. BKN W 31 19 8 13 61.5 0 0 - 3 4 75.0 2 11 13 1 1 1 3 2 18
+p129
+aVMarcus Thornton WAS 12/28/2016 WAS vs. IND W 20 7 3 6 50.0 1 2 50.0 0 2 0.0 1 4 5 2 0 0 2 4 0
+p130
+aVBradley Beal WAS 12/28/2016 WAS vs. IND W 18 12 5 9 55.6 1 3 33.3 1 4 25.0 0 1 1 2 2 0 0 0 9
+p131
+aVMarcin Gortat WAS 12/28/2016 WAS vs. IND W 41 13 4 8 50.0 0 0 - 5 7 71.4 4 12 16 4 1 0 2 2 6
+p132
+aVJohn Wall WAS 12/28/2016 WAS vs. IND W 39 36 11 19 57.9 2 3 66.7 12 13 92.3 2 9 11 9 2 0 5 4 5
+p133
+aVAndrew Nicholson WAS 12/28/2016 WAS vs. IND W 7 2 1 3 33.3 0 1 0.0 0 0 - 2 0 2 0 2 0 0 2 0
+p134
+aVJason Smith WAS 12/28/2016 WAS vs. IND W 18 7 3 4 75.0 1 1 100.0 0 2 0.0 3 4 7 1 0 0 1 3 15
+p135
+aVOtto Porter WAS 12/28/2016 WAS vs. IND W 33 22 6 10 60.0 3 6 50.0 7 7 100.0 0 1 1 0 0 0 1 4 6
+p136
+aVTrey Burke WAS 12/28/2016 WAS vs. IND W 11 0 0 5 0.0 0 3 0.0 0 0 - 1 1 2 0 0 1 1 0 2
+p137
+aVKelly Oubre Jr. WAS 12/28/2016 WAS vs. IND W 21 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 3 3 1
+p138
+aVMarkieff Morris WAS 12/28/2016 WAS vs. IND W 26 10 4 11 36.4 0 2 0.0 2 2 100.0 2 5 7 1 1 0 3 5 -7
+p139
+aVSheldon McClellan WAS 12/28/2016 WAS vs. IND W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p140
+aVTrey Burke WAS 12/26/2016 WAS vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p141
+aVOtto Porter WAS 12/26/2016 WAS vs. MIL W 41 32 13 18 72.2 5 9 55.6 1 2 50.0 0 13 13 1 0 1 2 4 12
+p142
+aVBradley Beal WAS 12/26/2016 WAS vs. MIL W 37 22 5 14 35.7 3 8 37.5 9 10 90.0 1 3 4 5 2 0 3 2 15
+p143
+aVMarkieff Morris WAS 12/26/2016 WAS vs. MIL W 38 18 7 11 63.6 1 2 50.0 3 4 75.0 1 3 4 0 2 1 2 2 4
+p144
+aVJason Smith WAS 12/26/2016 WAS vs. MIL W 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -4
+p145
+aVMarcus Thornton WAS 12/26/2016 WAS vs. MIL W 13 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 -12
+p146
+aVMarcin Gortat WAS 12/26/2016 WAS vs. MIL W 42 4 2 5 40.0 0 0 - 0 0 - 2 10 12 3 0 1 0 1 7
+p147
+aVKelly Oubre Jr. WAS 12/26/2016 WAS vs. MIL W 17 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 3 1 0 1 2 -4
+p148
+aVJohn Wall WAS 12/26/2016 WAS vs. MIL W 42 18 8 19 42.1 1 4 25.0 1 2 50.0 2 1 3 16 2 2 7 2 10
+p149
+aVKelly Oubre Jr. WAS 12/23/2016 WAS @ MIL L 14 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 0 1 0 0 1 -15
+p150
+aVTrey Burke WAS 12/23/2016 WAS @ MIL L 16 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 2 1 -13
+p151
+aVBradley Beal WAS 12/23/2016 WAS @ MIL L 31 10 3 10 30.0 1 5 20.0 3 3 100.0 1 1 2 6 0 1 3 2 -11
+p152
+aVJohn Wall WAS 12/23/2016 WAS @ MIL L 32 18 8 18 44.4 0 3 0.0 2 2 100.0 0 3 3 10 1 0 3 0 -14
+p153
+aVTomas Satoransky WAS 12/23/2016 WAS @ MIL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -1
+p154
+aVJason Smith WAS 12/23/2016 WAS @ MIL L 11 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 1 2 3 -9
+p155
+aVAndrew Nicholson WAS 12/23/2016 WAS @ MIL L 8 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 1
+p156
+aVOtto Porter WAS 12/23/2016 WAS @ MIL L 25 18 7 9 77.8 4 5 80.0 0 0 - 2 3 5 0 0 0 0 3 -3
+p157
+aVDaniel Ochefu WAS 12/23/2016 WAS @ MIL L 11 6 3 4 75.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 2 -5
+p158
+aVMarcus Thornton WAS 12/23/2016 WAS @ MIL L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -15
+p159
+aVSheldon McClellan WAS 12/23/2016 WAS @ MIL L 23 6 1 5 20.0 0 3 0.0 4 4 100.0 0 2 2 2 0 0 0 2 -22
+p160
+aVMarcin Gortat WAS 12/23/2016 WAS @ MIL L 26 8 4 8 50.0 0 0 - 0 0 - 1 5 6 3 0 0 1 3 -13
+p161
+aVMarkieff Morris WAS 12/23/2016 WAS @ MIL L 26 14 5 10 50.0 1 2 50.0 3 4 75.0 0 2 2 0 0 0 1 3 -15
+p162
+aVBradley Beal WAS 12/21/2016 WAS @ CHI W 37 21 7 17 41.2 1 7 14.3 6 8 75.0 0 0 0 5 2 0 2 2 8
+p163
+aVTrey Burke WAS 12/21/2016 WAS @ CHI W 12 6 3 5 60.0 0 0 - 0 1 0.0 0 1 1 1 0 0 1 2 8
+p164
+aVMarcus Thornton WAS 12/21/2016 WAS @ CHI W 15 10 5 9 55.6 0 3 0.0 0 0 - 1 1 2 1 1 0 0 0 2
+p165
+aVSheldon McClellan WAS 12/21/2016 WAS @ CHI W 19 7 2 3 66.7 0 0 - 3 4 75.0 0 2 2 1 0 1 0 1 10
+p166
+aVOtto Porter WAS 12/21/2016 WAS @ CHI W 12 8 3 5 60.0 2 4 50.0 0 0 - 0 2 2 1 0 0 0 0 -7
+p167
+aVMarcin Gortat WAS 12/21/2016 WAS @ CHI W 35 14 7 9 77.8 0 0 - 0 0 - 1 10 11 2 0 1 3 4 1
+p168
+aVJason Smith WAS 12/21/2016 WAS @ CHI W 12 6 2 4 50.0 0 0 - 2 3 66.7 1 2 3 1 0 1 0 1 6
+p169
+aVJohn Wall WAS 12/21/2016 WAS @ CHI W 36 23 9 14 64.3 0 2 0.0 5 7 71.4 0 6 6 9 3 0 2 2 2
+p170
+aVMarkieff Morris WAS 12/21/2016 WAS @ CHI W 39 8 4 12 33.3 0 0 - 0 0 - 2 10 12 2 0 0 0 3 18
+p171
+aVKelly Oubre Jr. WAS 12/21/2016 WAS @ CHI W 22 4 1 4 25.0 0 2 0.0 2 2 100.0 1 4 5 0 1 0 2 5 2
+p172
+aVJason Smith WAS 12/19/2016 WAS @ IND L 5 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -1
+p173
+aVJohn Wall WAS 12/19/2016 WAS @ IND L 38 19 6 14 42.9 0 5 0.0 7 8 87.5 1 3 4 10 2 0 4 3 -2
+p174
+aVMarcin Gortat WAS 12/19/2016 WAS @ IND L 43 21 10 15 66.7 0 0 - 1 3 33.3 4 9 13 1 0 0 3 2 4
+p175
+aVDaniel Ochefu WAS 12/19/2016 WAS @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p176
+aVMarkieff Morris WAS 12/19/2016 WAS @ IND L 27 6 2 9 22.2 0 3 0.0 2 2 100.0 0 6 6 1 1 1 2 3 6
+p177
+aVBradley Beal WAS 12/19/2016 WAS @ IND L 30 22 7 19 36.8 3 11 27.3 5 6 83.3 1 1 2 3 0 0 2 4 8
+p178
+aVKelly Oubre Jr. WAS 12/19/2016 WAS @ IND L 19 5 2 8 25.0 0 2 0.0 1 2 50.0 4 3 7 1 0 1 0 3 -8
+p179
+aVAndrew Nicholson WAS 12/19/2016 WAS @ IND L 7 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 1 0 1 1 0 -6
+p180
+aVOtto Porter WAS 12/19/2016 WAS @ IND L 38 17 5 13 38.5 2 6 33.3 5 5 100.0 2 7 9 0 1 3 1 2 1
+p181
+aVTomas Satoransky WAS 12/19/2016 WAS @ IND L 7 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 1 2
+p182
+aVTrey Burke WAS 12/19/2016 WAS @ IND L 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -5
+p183
+aVMarcus Thornton WAS 12/19/2016 WAS @ IND L 16 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -7
+p184
+aVTrey Burke WAS 12/18/2016 WAS vs. LAC W 17 7 2 3 66.7 2 2 100.0 1 2 50.0 0 0 0 1 0 0 1 2 -1
+p185
+aVMarcus Thornton WAS 12/18/2016 WAS vs. LAC W 14 7 3 4 75.0 1 1 100.0 0 0 - 1 3 4 0 0 0 2 1 -1
+p186
+aVOtto Porter WAS 12/18/2016 WAS vs. LAC W 33 9 3 7 42.9 0 2 0.0 3 4 75.0 2 2 4 2 3 0 0 1 6
+p187
+aVMarkieff Morris WAS 12/18/2016 WAS vs. LAC W 33 23 10 17 58.8 1 2 50.0 2 3 66.7 1 8 9 3 3 1 2 5 15
+p188
+aVJohn Wall WAS 12/18/2016 WAS vs. LAC W 36 18 7 16 43.8 0 2 0.0 4 8 50.0 2 3 5 11 1 1 5 2 7
+p189
+aVBradley Beal WAS 12/18/2016 WAS vs. LAC W 38 41 13 23 56.5 6 10 60.0 9 11 81.8 0 3 3 3 1 0 1 2 10
+p190
+aVDaniel Ochefu WAS 12/18/2016 WAS vs. LAC W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 3 -5
+p191
+aVMarcin Gortat WAS 12/18/2016 WAS vs. LAC W 39 9 4 8 50.0 0 0 - 1 1 100.0 2 5 7 0 1 2 2 4 7
+p192
+aVAndrew Nicholson WAS 12/18/2016 WAS vs. LAC W 13 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 1 0 1 3 -7
+p193
+aVTomas Satoransky WAS 12/18/2016 WAS vs. LAC W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 4
+p194
+aVJason Smith WAS 12/16/2016 WAS vs. DET W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p195
+aVJohn Wall WAS 12/16/2016 WAS vs. DET W 35 29 8 14 57.1 4 4 100.0 9 12 75.0 0 2 2 11 3 0 0 2 15
+p196
+aVDaniel Ochefu WAS 12/16/2016 WAS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p197
+aVOtto Porter WAS 12/16/2016 WAS vs. DET W 34 15 6 10 60.0 3 4 75.0 0 0 - 0 8 8 3 0 0 1 3 14
+p198
+aVMarcus Thornton WAS 12/16/2016 WAS vs. DET W 15 11 4 6 66.7 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 3 3
+p199
+aVAndrew Nicholson WAS 12/16/2016 WAS vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p200
+aVKelly Oubre Jr. WAS 12/16/2016 WAS vs. DET W 34 7 1 6 16.7 0 3 0.0 5 6 83.3 0 6 6 0 1 0 0 3 5
+p201
+aVTomas Satoransky WAS 12/16/2016 WAS vs. DET W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 1
+p202
+aVTrey Burke WAS 12/16/2016 WAS vs. DET W 15 8 2 4 50.0 1 2 50.0 3 4 75.0 0 0 0 2 1 0 2 4 -5
+p203
+aVMarkieff Morris WAS 12/16/2016 WAS vs. DET W 18 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 4 1 1 1 3 10
+p204
+aVMarcin Gortat WAS 12/16/2016 WAS vs. DET W 38 12 6 10 60.0 0 0 - 0 0 - 3 11 14 4 0 0 0 3 19
+p205
+aVBradley Beal WAS 12/16/2016 WAS vs. DET W 34 25 10 16 62.5 2 8 25.0 3 3 100.0 0 2 2 4 0 0 0 1 16
+p206
+aVTrey Burke WAS 12/14/2016 WAS vs. CHA W 18 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -2
+p207
+aVMarcus Thornton WAS 12/14/2016 WAS vs. CHA W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -7
+p208
+aVJason Smith WAS 12/14/2016 WAS vs. CHA W 18 12 5 9 55.6 0 0 - 2 2 100.0 3 4 7 2 3 0 2 1 -2
+p209
+aVAndrew Nicholson WAS 12/14/2016 WAS vs. CHA W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p210
+aVMarcin Gortat WAS 12/14/2016 WAS vs. CHA W 36 16 8 11 72.7 0 0 - 0 0 - 5 7 12 2 2 1 1 3 11
+p211
+aVJohn Wall WAS 12/14/2016 WAS vs. CHA W 36 25 9 19 47.4 0 2 0.0 7 8 87.5 2 4 6 10 7 0 8 2 4
+p212
+aVKelly Oubre Jr. WAS 12/14/2016 WAS vs. CHA W 40 15 7 12 58.3 1 4 25.0 0 1 0.0 0 6 6 1 2 0 1 2 2
+p213
+aVBradley Beal WAS 12/14/2016 WAS vs. CHA W 37 20 6 16 37.5 3 7 42.9 5 6 83.3 0 4 4 9 0 0 1 4 9
+p214
+aVOtto Porter WAS 12/14/2016 WAS vs. CHA W 36 10 5 9 55.6 0 2 0.0 0 0 - 2 3 5 2 1 2 0 3 0
+p215
+aVJason Smith WAS 12/12/2016 WAS @ MIA L 10 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 0 3 0
+p216
+aVJohn Wall WAS 12/12/2016 WAS @ MIA L 38 30 12 26 46.2 1 5 20.0 5 6 83.3 2 4 6 8 1 1 5 1 -14
+p217
+aVBradley Beal WAS 12/12/2016 WAS @ MIA L 35 29 11 20 55.0 2 8 25.0 5 5 100.0 0 2 2 1 4 0 2 5 -17
+p218
+aVTrey Burke WAS 12/12/2016 WAS @ MIA L 14 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 2 0
+p219
+aVMarcin Gortat WAS 12/12/2016 WAS @ MIA L 32 7 3 5 60.0 0 0 - 1 2 50.0 5 6 11 3 1 0 3 3 -10
+p220
+aVMarcus Thornton WAS 12/12/2016 WAS @ MIA L 13 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 6
+p221
+aVOtto Porter WAS 12/12/2016 WAS @ MIA L 37 9 4 7 57.1 1 3 33.3 0 1 0.0 0 4 4 0 0 0 1 2 -8
+p222
+aVMarkieff Morris WAS 12/12/2016 WAS @ MIA L 37 10 4 10 40.0 1 3 33.3 1 2 50.0 2 3 5 3 0 0 1 3 -6
+p223
+aVKelly Oubre Jr. WAS 12/12/2016 WAS @ MIA L 24 6 2 5 40.0 0 2 0.0 2 2 100.0 1 4 5 0 1 0 1 2 -6
+p224
+aVMarcus Thornton WAS 12/10/2016 WAS vs. MIL W 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -6
+p225
+aVBradley Beal WAS 12/10/2016 WAS vs. MIL W 37 20 6 15 40.0 1 4 25.0 7 8 87.5 0 0 0 6 0 0 1 0 11
+p226
+aVJason Smith WAS 12/10/2016 WAS vs. MIL W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p227
+aVOtto Porter WAS 12/10/2016 WAS vs. MIL W 33 10 4 9 44.4 2 4 50.0 0 0 - 1 0 1 1 2 1 0 2 1
+p228
+aVTrey Burke WAS 12/10/2016 WAS vs. MIL W 9 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 5
+p229
+aVKelly Oubre Jr. WAS 12/10/2016 WAS vs. MIL W 29 19 7 11 63.6 3 6 50.0 2 2 100.0 1 8 9 1 3 0 0 4 7
+p230
+aVAndrew Nicholson WAS 12/10/2016 WAS vs. MIL W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 3 3
+p231
+aVJohn Wall WAS 12/10/2016 WAS vs. MIL W 39 24 8 20 40.0 1 4 25.0 7 8 87.5 0 4 4 11 2 1 4 3 0
+p232
+aVMarcin Gortat WAS 12/10/2016 WAS vs. MIL W 35 9 4 8 50.0 0 0 - 1 2 50.0 7 7 14 2 0 1 2 2 9
+p233
+aVMarkieff Morris WAS 12/10/2016 WAS vs. MIL W 34 15 5 12 41.7 0 1 0.0 5 8 62.5 2 7 9 3 3 1 1 1 1
+p234
+aVJohn Wall WAS 12/08/2016 WAS vs. DEN W 38 15 5 14 35.7 0 4 0.0 5 6 83.3 1 6 7 5 3 1 5 2 9
+p235
+aVJason Smith WAS 12/08/2016 WAS vs. DEN W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 1
+p236
+aVMarcus Thornton WAS 12/08/2016 WAS vs. DEN W 11 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 1 1
+p237
+aVTrey Burke WAS 12/08/2016 WAS vs. DEN W 12 6 3 6 50.0 0 0 - 0 0 - 1 0 1 2 1 0 1 0 -5
+p238
+aVKelly Oubre Jr. WAS 12/08/2016 WAS vs. DEN W 25 8 4 9 44.4 0 2 0.0 0 0 - 2 3 5 2 2 0 0 4 11
+p239
+aVMarkieff Morris WAS 12/08/2016 WAS vs. DEN W 33 15 5 12 41.7 0 0 - 5 5 100.0 2 1 3 4 0 0 1 3 -5
+p240
+aVBradley Beal WAS 12/08/2016 WAS vs. DEN W 37 26 8 15 53.3 4 7 57.1 6 6 100.0 0 3 3 5 0 0 2 1 6
+p241
+aVOtto Porter WAS 12/08/2016 WAS vs. DEN W 36 9 4 9 44.4 1 4 25.0 0 0 - 0 5 5 1 3 1 3 3 11
+p242
+aVAndrew Nicholson WAS 12/08/2016 WAS vs. DEN W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 5
+p243
+aVMarcin Gortat WAS 12/08/2016 WAS vs. DEN W 36 4 2 4 50.0 0 0 - 0 0 - 2 5 7 1 2 1 4 3 1
+p244
+aVTrey Burke WAS 12/06/2016 WAS vs. ORL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -7
+p245
+aVJason Smith WAS 12/06/2016 WAS vs. ORL L 10 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 -3
+p246
+aVAndrew Nicholson WAS 12/06/2016 WAS vs. ORL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p247
+aVOtto Porter WAS 12/06/2016 WAS vs. ORL L 27 7 3 4 75.0 1 2 50.0 0 0 - 1 2 3 0 0 0 1 4 -6
+p248
+aVMarcus Thornton WAS 12/06/2016 WAS vs. ORL L 18 8 4 7 57.1 0 2 0.0 0 0 - 2 4 6 3 1 0 1 2 5
+p249
+aVBradley Beal WAS 12/06/2016 WAS vs. ORL L 37 19 7 18 38.9 3 6 50.0 2 4 50.0 1 2 3 4 0 0 3 3 -9
+p250
+aVKelly Oubre Jr. WAS 12/06/2016 WAS vs. ORL L 21 3 1 4 25.0 1 2 50.0 0 0 - 1 4 5 0 0 0 0 3 -2
+p251
+aVMarcin Gortat WAS 12/06/2016 WAS vs. ORL L 38 6 3 11 27.3 0 0 - 0 1 0.0 2 9 11 1 1 1 0 5 -5
+p252
+aVJohn Wall WAS 12/06/2016 WAS vs. ORL L 42 52 18 31 58.1 5 8 62.5 11 14 78.6 1 3 4 8 3 0 4 3 -1
+p253
+aVMarkieff Morris WAS 12/06/2016 WAS vs. ORL L 33 10 3 10 30.0 0 2 0.0 4 5 80.0 2 5 7 1 0 1 0 3 -5
+p254
+aVKelly Oubre Jr. WAS 12/05/2016 WAS @ BKN W 18 10 3 8 37.5 2 5 40.0 2 2 100.0 1 4 5 0 1 0 1 3 -11
+p255
+aVBradley Beal WAS 12/05/2016 WAS @ BKN W 36 18 7 18 38.9 3 8 37.5 1 4 25.0 1 3 4 4 3 0 1 3 17
+p256
+aVMarcus Thornton WAS 12/05/2016 WAS @ BKN W 18 11 4 10 40.0 2 5 40.0 1 2 50.0 2 1 3 0 2 2 0 0 -13
+p257
+aVMarcin Gortat WAS 12/05/2016 WAS @ BKN W 33 10 5 9 55.6 0 0 - 0 0 - 3 9 12 2 0 2 1 2 8
+p258
+aVMarkieff Morris WAS 12/05/2016 WAS @ BKN W 33 16 5 9 55.6 0 1 0.0 6 6 100.0 1 4 5 1 4 0 2 4 16
+p259
+aVTrey Burke WAS 12/05/2016 WAS @ BKN W 12 8 3 5 60.0 2 4 50.0 0 0 - 0 0 0 2 0 0 0 1 -1
+p260
+aVAndrew Nicholson WAS 12/05/2016 WAS @ BKN W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p261
+aVTomas Satoransky WAS 12/05/2016 WAS @ BKN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p262
+aVOtto Porter WAS 12/05/2016 WAS @ BKN W 36 18 7 9 77.8 4 5 80.0 0 0 - 0 4 4 2 3 0 1 6 13
+p263
+aVJohn Wall WAS 12/05/2016 WAS @ BKN W 36 25 10 19 52.6 1 5 20.0 4 4 100.0 0 1 1 13 3 0 4 0 6
+p264
+aVJason Smith WAS 12/05/2016 WAS @ BKN W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 2 -3
+p265
+aVMarkieff Morris WAS 12/02/2016 WAS @ SAS L 38 12 4 7 57.1 0 0 - 4 4 100.0 1 3 4 3 0 1 4 3 10
+p266
+aVKelly Oubre Jr. WAS 12/02/2016 WAS @ SAS L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 2 -16
+p267
+aVMarcus Thornton WAS 12/02/2016 WAS @ SAS L 18 5 2 7 28.6 0 1 0.0 1 1 100.0 1 2 3 0 3 0 1 5 -13
+p268
+aVOtto Porter WAS 12/02/2016 WAS @ SAS L 37 15 6 10 60.0 1 3 33.3 2 2 100.0 0 12 12 2 4 0 3 1 12
+p269
+aVMarcin Gortat WAS 12/02/2016 WAS @ SAS L 42 21 8 16 50.0 0 0 - 5 6 83.3 6 12 18 2 2 2 2 6 -5
+p270
+aVTrey Burke WAS 12/02/2016 WAS @ SAS L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -9
+p271
+aVJohn Wall WAS 12/02/2016 WAS @ SAS L 37 17 8 16 50.0 1 1 100.0 0 0 - 0 2 2 15 3 0 3 1 7
+p272
+aVJason Smith WAS 12/02/2016 WAS @ SAS L 14 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 5 -7
+p273
+aVBradley Beal WAS 12/02/2016 WAS @ SAS L 30 23 7 11 63.6 5 5 100.0 4 5 80.0 0 0 0 0 0 0 2 2 11
+p274
+aVJason Smith WAS 11/30/2016 WAS @ OKC L 11 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -15
+p275
+aVOtto Porter WAS 11/30/2016 WAS @ OKC L 39 11 5 9 55.6 1 2 50.0 0 0 - 0 8 8 1 3 0 1 3 0
+p276
+aVJohn Wall WAS 11/30/2016 WAS @ OKC L 44 15 6 20 30.0 2 7 28.6 1 2 50.0 3 3 6 15 1 1 3 1 -11
+p277
+aVTomas Satoransky WAS 11/30/2016 WAS @ OKC L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 0 2 -9
+p278
+aVBradley Beal WAS 11/30/2016 WAS @ OKC L 42 31 10 21 47.6 4 10 40.0 7 10 70.0 1 4 5 1 2 0 4 5 -5
+p279
+aVMarkieff Morris WAS 11/30/2016 WAS @ OKC L 37 19 7 16 43.8 0 2 0.0 5 8 62.5 1 6 7 2 1 1 2 5 -17
+p280
+aVKelly Oubre Jr. WAS 11/30/2016 WAS @ OKC L 28 12 4 6 66.7 2 3 66.7 2 2 100.0 0 6 6 1 1 0 1 2 5
+p281
+aVMarcus Thornton WAS 11/30/2016 WAS @ OKC L 17 11 4 7 57.1 1 3 33.3 2 2 100.0 1 2 3 0 0 0 0 1 -3
+p282
+aVMarcin Gortat WAS 11/30/2016 WAS @ OKC L 36 12 6 12 50.0 0 0 - 0 2 0.0 4 7 11 2 0 1 0 4 0
+p283
+aVOtto Porter WAS 11/28/2016 WAS vs. SAC W 30 15 6 9 66.7 2 4 50.0 1 2 50.0 1 7 8 0 3 0 0 4 4
+p284
+aVMarkieff Morris WAS 11/28/2016 WAS vs. SAC W 44 8 2 12 16.7 0 2 0.0 4 4 100.0 2 3 5 4 1 0 6 5 1
+p285
+aVTomas Satoransky WAS 11/28/2016 WAS vs. SAC W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 1
+p286
+aVJason Smith WAS 11/28/2016 WAS vs. SAC W 22 4 2 8 25.0 0 0 - 0 0 - 0 4 4 0 1 1 0 3 8
+p287
+aVBradley Beal WAS 11/28/2016 WAS vs. SAC W 41 31 12 24 50.0 7 13 53.8 0 2 0.0 1 5 6 3 0 1 2 0 7
+p288
+aVJohn Wall WAS 11/28/2016 WAS vs. SAC W 43 19 6 16 37.5 1 3 33.3 6 6 100.0 0 8 8 11 3 1 11 2 0
+p289
+aVTrey Burke WAS 11/28/2016 WAS vs. SAC W 11 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 1 1 0 7
+p290
+aVAndrew Nicholson WAS 11/28/2016 WAS vs. SAC W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -2
+p291
+aVMarcin Gortat WAS 11/28/2016 WAS vs. SAC W 36 10 4 6 66.7 0 0 - 2 4 50.0 3 4 7 0 1 3 1 4 2
+p292
+aVKelly Oubre Jr. WAS 11/28/2016 WAS vs. SAC W 24 10 2 3 66.7 0 1 0.0 6 6 100.0 4 6 10 2 2 0 1 2 2
+p293
+aVTrey Burke WAS 11/26/2016 WAS vs. SAS L 9 8 4 7 57.1 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p294
+aVSheldon McClellan WAS 11/26/2016 WAS vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p295
+aVJohn Wall WAS 11/26/2016 WAS vs. SAS L 37 21 8 16 50.0 0 1 0.0 5 7 71.4 0 3 3 5 1 0 4 3 -9
+p296
+aVBradley Beal WAS 11/26/2016 WAS vs. SAS L 38 25 11 23 47.8 3 9 33.3 0 0 - 2 4 6 5 2 0 0 0 1
+p297
+aVTomas Satoransky WAS 11/26/2016 WAS vs. SAS L 12 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 3 2 0 1 3 -4
+p298
+aVJason Smith WAS 11/26/2016 WAS vs. SAS L 16 4 2 6 33.3 0 1 0.0 0 0 - 2 2 4 0 0 0 0 1 -8
+p299
+aVIan Mahinmi WAS 11/26/2016 WAS vs. SAS L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 2 3 -11
+p300
+aVAndrew Nicholson WAS 11/26/2016 WAS vs. SAS L 7 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 3 2
+p301
+aVMarkieff Morris WAS 11/26/2016 WAS vs. SAS L 18 12 4 9 44.4 2 3 66.7 2 2 100.0 1 0 1 1 1 0 1 4 -2
+p302
+aVKelly Oubre Jr. WAS 11/26/2016 WAS vs. SAS L 3 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -4
+p303
+aVMarcus Thornton WAS 11/26/2016 WAS vs. SAS L 15 2 1 3 33.3 0 1 0.0 0 0 - 2 2 4 2 1 0 1 0 -17
+p304
+aVMarcin Gortat WAS 11/26/2016 WAS vs. SAS L 33 10 5 7 71.4 0 0 - 0 0 - 2 8 10 1 0 0 1 3 -4
+p305
+aVOtto Porter WAS 11/26/2016 WAS vs. SAS L 38 14 6 8 75.0 1 1 100.0 1 1 100.0 2 6 8 3 3 0 1 5 -9
+p306
+aVMarcus Thornton WAS 11/25/2016 WAS @ ORL W 8 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 0 -2
+p307
+aVBradley Beal WAS 11/25/2016 WAS @ ORL W 38 14 6 15 40.0 2 6 33.3 0 0 - 0 2 2 8 1 0 3 1 10
+p308
+aVAndrew Nicholson WAS 11/25/2016 WAS @ ORL W 16 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 1 0 2 0 2 -4
+p309
+aVOtto Porter WAS 11/25/2016 WAS @ ORL W 34 19 8 15 53.3 3 8 37.5 0 0 - 2 5 7 2 0 0 0 4 11
+p310
+aVMarkieff Morris WAS 11/25/2016 WAS @ ORL W 32 11 5 10 50.0 0 3 0.0 1 2 50.0 0 3 3 2 3 1 2 3 11
+p311
+aVKelly Oubre Jr. WAS 11/25/2016 WAS @ ORL W 15 0 0 3 0.0 0 2 0.0 0 0 - 2 1 3 0 1 0 0 2 -10
+p312
+aVJason Smith WAS 11/25/2016 WAS @ ORL W 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -9
+p313
+aVTomas Satoransky WAS 11/25/2016 WAS @ ORL W 12 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 0 1 0 1 1 -12
+p314
+aVMarcin Gortat WAS 11/25/2016 WAS @ ORL W 34 12 6 9 66.7 0 1 0.0 0 0 - 1 8 9 2 0 0 1 2 9
+p315
+aVJohn Wall WAS 11/25/2016 WAS @ ORL W 39 26 10 18 55.6 1 4 25.0 5 6 83.3 0 7 7 10 3 0 4 2 11
+p316
+aVKelly Oubre Jr. WAS 11/21/2016 WAS vs. PHX W 25 5 2 5 40.0 0 2 0.0 1 4 25.0 0 4 4 2 0 0 0 1 4
+p317
+aVMarcin Gortat WAS 11/21/2016 WAS vs. PHX W 38 10 5 9 55.6 0 0 - 0 2 0.0 4 9 13 1 0 1 2 5 12
+p318
+aVTrey Burke WAS 11/21/2016 WAS vs. PHX W 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -1
+p319
+aVJason Smith WAS 11/21/2016 WAS vs. PHX W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p320
+aVOtto Porter WAS 11/21/2016 WAS vs. PHX W 23 9 3 7 42.9 0 3 0.0 3 4 75.0 2 7 9 2 2 0 1 1 3
+p321
+aVMarcus Thornton WAS 11/21/2016 WAS vs. PHX W 21 9 3 9 33.3 3 5 60.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p322
+aVTomas Satoransky WAS 11/21/2016 WAS vs. PHX W 16 6 1 1 100.0 1 1 100.0 3 4 75.0 0 4 4 2 0 0 1 1 2
+p323
+aVBradley Beal WAS 11/21/2016 WAS vs. PHX W 40 42 14 22 63.6 5 10 50.0 9 11 81.8 1 3 4 1 0 0 1 2 1
+p324
+aVMarkieff Morris WAS 11/21/2016 WAS vs. PHX W 26 5 2 8 25.0 0 2 0.0 1 4 25.0 4 1 5 1 2 0 2 3 7
+p325
+aVJohn Wall WAS 11/21/2016 WAS vs. PHX W 38 18 6 24 25.0 1 5 20.0 5 5 100.0 2 2 4 15 4 3 2 3 0
+p326
+aVAndrew Nicholson WAS 11/19/2016 WAS vs. MIA L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 2 5
+p327
+aVMarkieff Morris WAS 11/19/2016 WAS vs. MIA L 9 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p328
+aVJason Smith WAS 11/19/2016 WAS vs. MIA L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p329
+aVBradley Beal WAS 11/19/2016 WAS vs. MIA L 40 34 12 26 46.2 4 11 36.4 6 6 100.0 2 3 5 4 1 0 3 4 -4
+p330
+aVTomas Satoransky WAS 11/19/2016 WAS vs. MIA L 25 8 3 5 60.0 0 0 - 2 3 66.7 0 2 2 4 0 0 0 4 12
+p331
+aVMarcin Gortat WAS 11/19/2016 WAS vs. MIA L 38 10 4 6 66.7 0 0 - 2 4 50.0 6 10 16 4 0 5 1 2 -11
+p332
+aVKelly Oubre Jr. WAS 11/19/2016 WAS vs. MIA L 15 2 1 6 16.7 0 2 0.0 0 0 - 2 1 3 0 1 0 1 3 7
+p333
+aVJohn Wall WAS 11/19/2016 WAS vs. MIA L 37 34 12 23 52.2 5 6 83.3 5 8 62.5 1 2 3 8 0 0 3 3 -4
+p334
+aVOtto Porter WAS 11/19/2016 WAS vs. MIA L 37 6 2 9 22.2 2 6 33.3 0 0 - 1 6 7 1 4 0 0 2 -5
+p335
+aVMarcus Thornton WAS 11/19/2016 WAS vs. MIA L 23 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 1 2 0 2 0 -4
+p336
+aVBradley Beal WAS 11/17/2016 WAS vs. NYK W 29 18 5 10 50.0 3 5 60.0 5 5 100.0 0 2 2 5 0 0 1 0 11
+p337
+aVMarkieff Morris WAS 11/17/2016 WAS vs. NYK W 35 8 4 11 36.4 0 2 0.0 0 0 - 1 7 8 2 1 0 3 4 5
+p338
+aVJohn Wall WAS 11/17/2016 WAS vs. NYK W 31 23 7 15 46.7 3 6 50.0 6 6 100.0 0 2 2 11 1 0 2 3 20
+p339
+aVOtto Porter WAS 11/17/2016 WAS vs. NYK W 39 21 8 14 57.1 4 5 80.0 1 1 100.0 1 7 8 1 2 1 2 2 18
+p340
+aVJason Smith WAS 11/17/2016 WAS vs. NYK W 11 6 2 2 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 -6
+p341
+aVTomas Satoransky WAS 11/17/2016 WAS vs. NYK W 18 4 2 2 100.0 0 0 - 0 0 - 0 1 1 4 2 0 3 2 -13
+p342
+aVKelly Oubre Jr. WAS 11/17/2016 WAS vs. NYK W 23 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 1 0 0 1 2 -14
+p343
+aVMarcus Thornton WAS 11/17/2016 WAS vs. NYK W 18 13 5 7 71.4 3 3 100.0 0 0 - 1 1 2 1 1 0 2 3 -4
+p344
+aVMarcin Gortat WAS 11/17/2016 WAS vs. NYK W 31 16 7 12 58.3 0 0 - 2 4 50.0 2 6 8 1 0 1 1 4 16
+p345
+aVAndrew Nicholson WAS 11/17/2016 WAS vs. NYK W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p346
+aVJason Smith WAS 11/16/2016 WAS @ PHI L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p347
+aVMarcin Gortat WAS 11/16/2016 WAS @ PHI L 39 10 5 6 83.3 0 0 - 0 1 0.0 2 12 14 1 0 0 3 3 2
+p348
+aVTrey Burke WAS 11/16/2016 WAS @ PHI L 5 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p349
+aVMarkieff Morris WAS 11/16/2016 WAS @ PHI L 31 19 7 15 46.7 3 5 60.0 2 2 100.0 2 2 4 0 1 0 2 4 13
+p350
+aVJohn Wall WAS 11/16/2016 WAS @ PHI L 24 27 8 19 42.1 1 3 33.3 10 12 83.3 0 4 4 6 1 0 2 2 1
+p351
+aVKelly Oubre Jr. WAS 11/16/2016 WAS @ PHI L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p352
+aVOtto Porter WAS 11/16/2016 WAS @ PHI L 41 15 5 17 29.4 2 5 40.0 3 4 75.0 5 8 13 1 4 1 0 2 -2
+p353
+aVTomas Satoransky WAS 11/16/2016 WAS @ PHI L 23 7 3 4 75.0 0 1 0.0 1 4 25.0 1 0 1 3 0 0 2 4 1
+p354
+aVMarcus Thornton WAS 11/16/2016 WAS @ PHI L 37 10 4 13 30.8 2 6 33.3 0 0 - 0 2 2 6 0 0 1 4 -7
+p355
+aVSheldon McClellan WAS 11/16/2016 WAS @ PHI L 20 6 2 7 28.6 0 3 0.0 2 2 100.0 1 1 2 1 2 0 1 3 -9
+p356
+aVAndrew Nicholson WAS 11/16/2016 WAS @ PHI L 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -17
+p357
+aVTomas Satoransky WAS 11/12/2016 WAS @ CHI L 31 12 4 12 33.3 1 2 50.0 3 3 100.0 0 4 4 9 1 0 2 3 13
+p358
+aVMarcus Thornton WAS 11/12/2016 WAS @ CHI L 23 9 4 14 28.6 0 4 0.0 1 1 100.0 2 2 4 1 1 0 0 0 -18
+p359
+aVMarcin Gortat WAS 11/12/2016 WAS @ CHI L 35 18 9 12 75.0 0 0 - 0 0 - 3 11 14 2 0 1 2 4 1
+p360
+aVTrey Burke WAS 11/12/2016 WAS @ CHI L 17 6 3 7 42.9 0 0 - 0 0 - 0 0 0 3 1 0 1 0 -24
+p361
+aVJason Smith WAS 11/12/2016 WAS @ CHI L 17 0 0 4 0.0 0 0 - 0 0 - 2 3 5 0 0 1 2 4 -22
+p362
+aVKelly Oubre Jr. WAS 11/12/2016 WAS @ CHI L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -6
+p363
+aVSheldon McClellan WAS 11/12/2016 WAS @ CHI L 35 15 5 9 55.6 1 1 100.0 4 5 80.0 1 1 2 1 0 0 0 2 0
+p364
+aVMarkieff Morris WAS 11/12/2016 WAS @ CHI L 44 24 9 19 47.4 0 1 0.0 6 6 100.0 4 11 15 2 0 3 3 1 -1
+p365
+aVOtto Porter WAS 11/12/2016 WAS @ CHI L 29 8 3 12 25.0 1 3 33.3 1 3 33.3 1 3 4 1 0 2 2 5 2
+p366
+aVTrey Burke WAS 11/11/2016 WAS vs. CLE L 22 9 4 7 57.1 0 0 - 1 1 100.0 0 2 2 3 0 0 0 0 3
+p367
+aVDaniel Ochefu WAS 11/11/2016 WAS vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p368
+aVJohn Wall WAS 11/11/2016 WAS vs. CLE L 35 28 12 24 50.0 1 3 33.3 3 5 60.0 1 1 2 3 2 1 6 3 -18
+p369
+aVKelly Oubre Jr. WAS 11/11/2016 WAS vs. CLE L 21 10 5 8 62.5 0 1 0.0 0 0 - 0 6 6 0 1 1 1 4 1
+p370
+aVSheldon McClellan WAS 11/11/2016 WAS vs. CLE L 12 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p371
+aVTomas Satoransky WAS 11/11/2016 WAS vs. CLE L 20 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 2 1 0 1 0 0
+p372
+aVDanuel House WAS 11/11/2016 WAS vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p373
+aVMarcin Gortat WAS 11/11/2016 WAS vs. CLE L 26 4 2 5 40.0 0 0 - 0 2 0.0 4 11 15 1 1 0 2 3 -15
+p374
+aVJason Smith WAS 11/11/2016 WAS vs. CLE L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 5 10
+p375
+aVMarkieff Morris WAS 11/11/2016 WAS vs. CLE L 33 20 6 14 42.9 1 3 33.3 7 7 100.0 1 4 5 1 1 1 1 2 -10
+p376
+aVOtto Porter WAS 11/11/2016 WAS vs. CLE L 34 11 5 11 45.5 1 3 33.3 0 0 - 3 5 8 5 0 1 2 3 -11
+p377
+aVMarcus Thornton WAS 11/11/2016 WAS vs. CLE L 21 2 0 5 0.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 1 1 -13
+p378
+aVKelly Oubre Jr. WAS 11/09/2016 WAS vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p379
+aVBradley Beal WAS 11/09/2016 WAS vs. BOS W 11 3 1 8 12.5 0 1 0.0 1 2 50.0 2 2 4 1 1 0 0 1 12
+p380
+aVJohn Wall WAS 11/09/2016 WAS vs. BOS W 31 19 6 16 37.5 1 3 33.3 6 7 85.7 0 3 3 7 1 1 5 3 17
+p381
+aVMarkieff Morris WAS 11/09/2016 WAS vs. BOS W 17 5 2 6 33.3 1 1 100.0 0 0 - 0 6 6 1 1 0 3 3 21
+p382
+aVTomas Satoransky WAS 11/09/2016 WAS vs. BOS W 32 4 2 6 33.3 0 1 0.0 0 0 - 2 2 4 4 0 0 0 2 -1
+p383
+aVJason Smith WAS 11/09/2016 WAS vs. BOS W 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 2 1 0 0 2 8
+p384
+aVOtto Porter WAS 11/09/2016 WAS vs. BOS W 38 34 14 19 73.7 3 5 60.0 3 3 100.0 7 7 14 4 3 3 0 2 18
+p385
+aVAndrew Nicholson WAS 11/09/2016 WAS vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -3
+p386
+aVTrey Burke WAS 11/09/2016 WAS vs. BOS W 17 18 7 9 77.8 3 4 75.0 1 2 50.0 1 0 1 2 0 0 0 3 8
+p387
+aVSheldon McClellan WAS 11/09/2016 WAS vs. BOS W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p388
+aVMarcin Gortat WAS 11/09/2016 WAS vs. BOS W 32 13 6 9 66.7 0 0 - 1 2 50.0 5 4 9 2 0 2 1 4 24
+p389
+aVMarcus Thornton WAS 11/09/2016 WAS vs. BOS W 34 16 5 13 38.5 2 5 40.0 4 4 100.0 2 2 4 4 3 0 1 3 9
+p390
+aVDaniel Ochefu WAS 11/09/2016 WAS vs. BOS W 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 4
+p391
+aVMarcus Thornton WAS 11/07/2016 WAS vs. HOU L 17 8 2 10 20.0 2 7 28.6 2 2 100.0 1 4 5 1 0 0 1 2 2
+p392
+aVJohn Wall WAS 11/07/2016 WAS vs. HOU L 35 21 9 16 56.3 1 2 50.0 2 2 100.0 1 4 5 9 2 0 6 2 -7
+p393
+aVKelly Oubre Jr. WAS 11/07/2016 WAS vs. HOU L 14 10 3 7 42.9 2 3 66.7 2 2 100.0 1 0 1 0 0 0 0 2 4
+p394
+aVMarkieff Morris WAS 11/07/2016 WAS vs. HOU L 33 7 3 14 21.4 1 2 50.0 0 0 - 4 5 9 0 1 0 2 1 -14
+p395
+aVBradley Beal WAS 11/07/2016 WAS vs. HOU L 34 20 8 18 44.4 2 6 33.3 2 2 100.0 1 1 2 3 4 1 1 3 -8
+p396
+aVOtto Porter WAS 11/07/2016 WAS vs. HOU L 39 20 6 13 46.2 2 5 40.0 6 6 100.0 3 5 8 2 3 1 0 2 -8
+p397
+aVJason Smith WAS 11/07/2016 WAS vs. HOU L 11 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 1 2 2 -3
+p398
+aVTomas Satoransky WAS 11/07/2016 WAS vs. HOU L 13 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 1 0 0 0 3
+p399
+aVTrey Burke WAS 11/07/2016 WAS vs. HOU L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p400
+aVMarcin Gortat WAS 11/07/2016 WAS vs. HOU L 37 14 5 9 55.6 0 0 - 4 6 66.7 3 9 12 2 0 2 1 2 -5
+p401
+aVAndrew Nicholson WAS 11/05/2016 WAS @ ORL L 10 9 4 10 40.0 0 1 0.0 1 1 100.0 3 1 4 0 1 0 1 2 4
+p402
+aVBradley Beal WAS 11/05/2016 WAS @ ORL L 33 15 6 17 35.3 1 5 20.0 2 2 100.0 2 2 4 3 1 1 0 5 16
+p403
+aVMarkieff Morris WAS 11/05/2016 WAS @ ORL L 38 18 5 16 31.3 1 4 25.0 7 9 77.8 1 6 7 3 0 2 2 1 -6
+p404
+aVTomas Satoransky WAS 11/05/2016 WAS @ ORL L 32 8 4 7 57.1 0 0 - 0 1 0.0 0 2 2 3 1 0 1 3 13
+p405
+aVJason Smith WAS 11/05/2016 WAS @ ORL L 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 2 1 1 -15
+p406
+aVMarcin Gortat WAS 11/05/2016 WAS @ ORL L 37 8 3 10 30.0 0 0 - 2 4 50.0 4 10 14 2 1 0 2 3 13
+p407
+aVTrey Burke WAS 11/05/2016 WAS @ ORL L 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -15
+p408
+aVKelly Oubre Jr. WAS 11/05/2016 WAS @ ORL L 17 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p409
+aVOtto Porter WAS 11/05/2016 WAS @ ORL L 29 10 4 8 50.0 2 3 66.7 0 0 - 3 10 13 0 0 0 0 4 1
+p410
+aVMarcus Thornton WAS 11/05/2016 WAS @ ORL L 17 9 4 8 50.0 1 3 33.3 0 0 - 0 4 4 0 0 0 2 2 -13
+p411
+aVMarcin Gortat WAS 11/04/2016 WAS vs. ATL W 31 12 5 8 62.5 0 0 - 2 2 100.0 5 10 15 0 1 1 2 4 -5
+p412
+aVMarkieff Morris WAS 11/04/2016 WAS vs. ATL W 33 18 5 13 38.5 1 3 33.3 7 9 77.8 0 9 9 1 3 1 2 5 15
+p413
+aVTomas Satoransky WAS 11/04/2016 WAS vs. ATL W 22 4 2 6 33.3 0 3 0.0 0 0 - 0 3 3 1 0 0 3 2 -3
+p414
+aVBradley Beal WAS 11/04/2016 WAS vs. ATL W 39 28 6 16 37.5 3 8 37.5 13 14 92.9 1 1 2 3 0 1 5 1 4
+p415
+aVOtto Porter WAS 11/04/2016 WAS vs. ATL W 38 8 4 7 57.1 0 3 0.0 0 0 - 0 0 0 2 0 0 1 2 -1
+p416
+aVMarcus Thornton WAS 11/04/2016 WAS vs. ATL W 17 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p417
+aVAndrew Nicholson WAS 11/04/2016 WAS vs. ATL W 7 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 1 1 -8
+p418
+aVJohn Wall WAS 11/04/2016 WAS vs. ATL W 33 21 7 17 41.2 1 2 50.0 6 8 75.0 3 7 10 6 2 0 2 3 2
+p419
+aVJason Smith WAS 11/04/2016 WAS vs. ATL W 14 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 3 5 11
+p420
+aVTrey Burke WAS 11/04/2016 WAS vs. ATL W 7 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p421
+aVMarkieff Morris WAS 11/02/2016 WAS vs. TOR L 36 6 2 7 28.6 1 2 50.0 1 2 50.0 0 3 3 2 1 0 2 3 -12
+p422
+aVMarcin Gortat WAS 11/02/2016 WAS vs. TOR L 43 15 6 10 60.0 0 0 - 3 4 75.0 1 9 10 2 1 2 1 2 -7
+p423
+aVOtto Porter WAS 11/02/2016 WAS vs. TOR L 38 23 11 13 84.6 0 1 0.0 1 1 100.0 4 9 13 0 1 0 2 3 -1
+p424
+aVKelly Oubre Jr. WAS 11/02/2016 WAS vs. TOR L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -9
+p425
+aVTomas Satoransky WAS 11/02/2016 WAS vs. TOR L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 1 0 1 2 3
+p426
+aVMarcus Thornton WAS 11/02/2016 WAS vs. TOR L 14 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 0 0
+p427
+aVAndrew Nicholson WAS 11/02/2016 WAS vs. TOR L 9 4 2 4 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 -4
+p428
+aVBradley Beal WAS 11/02/2016 WAS vs. TOR L 39 15 5 13 38.5 2 4 50.0 3 6 50.0 0 1 1 2 0 2 1 2 -8
+p429
+aVTrey Burke WAS 11/02/2016 WAS vs. TOR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -11
+p430
+aVJohn Wall WAS 11/02/2016 WAS vs. TOR L 37 33 13 19 68.4 0 3 0.0 7 9 77.8 1 4 5 11 3 1 9 3 -1
+p431
+aVOtto Porter WAS 10/30/2016 WAS @ MEM L 36 13 6 15 40.0 0 5 0.0 1 1 100.0 3 1 4 0 1 0 0 2 -7
+p432
+aVTomas Satoransky WAS 10/30/2016 WAS @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p433
+aVMarkieff Morris WAS 10/30/2016 WAS @ MEM L 36 11 5 8 62.5 1 2 50.0 0 0 - 0 7 7 1 2 1 4 5 -1
+p434
+aVBradley Beal WAS 10/30/2016 WAS @ MEM L 40 14 5 17 29.4 2 8 25.0 2 2 100.0 0 3 3 1 2 1 1 2 -4
+p435
+aVAndrew Nicholson WAS 10/30/2016 WAS @ MEM L 25 8 4 9 44.4 0 3 0.0 0 1 0.0 1 2 3 0 2 0 1 4 -8
+p436
+aVSheldon McClellan WAS 10/30/2016 WAS @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p437
+aVJohn Wall WAS 10/30/2016 WAS @ MEM L 37 22 8 19 42.1 1 3 33.3 5 5 100.0 0 3 3 13 1 1 5 4 3
+p438
+aVMarcus Thornton WAS 10/30/2016 WAS @ MEM L 16 11 4 6 66.7 1 2 50.0 2 3 66.7 2 3 5 1 0 0 0 1 -3
+p439
+aVTrey Burke WAS 10/30/2016 WAS @ MEM L 16 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 0 -12
+p440
+aVKelly Oubre Jr. WAS 10/30/2016 WAS @ MEM L 15 5 2 4 50.0 0 2 0.0 1 1 100.0 1 1 2 1 0 0 2 0 -4
+p441
+aVJason Smith WAS 10/30/2016 WAS @ MEM L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p442
+aVMarcin Gortat WAS 10/30/2016 WAS @ MEM L 38 14 2 3 66.7 0 0 - 10 10 100.0 1 11 12 1 0 0 0 4 -10
+p443
+aVTrey Burke WAS 10/27/2016 WAS @ ATL L 18 8 4 7 57.1 0 2 0.0 0 1 0.0 0 0 0 2 1 0 2 0 -6
+p444
+aVAndrew Nicholson WAS 10/27/2016 WAS @ ATL L 19 9 3 6 50.0 1 2 50.0 2 2 100.0 2 5 7 0 1 1 1 1 -10
+p445
+aVKelly Oubre Jr. WAS 10/27/2016 WAS @ ATL L 22 5 1 6 16.7 1 4 25.0 2 4 50.0 0 1 1 1 1 0 0 1 -10
+p446
+aVMarcus Thornton WAS 10/27/2016 WAS @ ATL L 20 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 2 -3
+p447
+aVDaniel Ochefu WAS 10/27/2016 WAS @ ATL L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p448
+aVBradley Beal WAS 10/27/2016 WAS @ ATL L 24 13 6 12 50.0 0 2 0.0 1 1 100.0 0 0 0 4 0 0 3 4 -16
+p449
+aVJohn Wall WAS 10/27/2016 WAS @ ATL L 30 12 3 15 20.0 0 2 0.0 6 7 85.7 2 1 3 10 4 1 5 2 -9
+p450
+aVTomas Satoransky WAS 10/27/2016 WAS @ ATL L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 4
+p451
+aVSheldon McClellan WAS 10/27/2016 WAS @ ATL L 4 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 0 2 0 0 0 4
+p452
+aVJason Smith WAS 10/27/2016 WAS @ ATL L 9 2 1 2 50.0 0 0 - 0 0 - 1 4 5 2 0 0 4 2 -7
+p453
+aVMarcin Gortat WAS 10/27/2016 WAS @ ATL L 32 4 2 6 33.3 0 0 - 0 0 - 3 8 11 1 1 1 3 4 -14
+p454
+aVMarkieff Morris WAS 10/27/2016 WAS @ ATL L 28 22 9 18 50.0 2 3 66.7 2 2 100.0 1 3 4 2 2 1 0 2 -7
+p455
+aVOtto Porter WAS 10/27/2016 WAS @ ATL L 26 10 5 7 71.4 0 0 - 0 1 0.0 2 4 6 1 2 0 0 2 -5
+p456
+a.

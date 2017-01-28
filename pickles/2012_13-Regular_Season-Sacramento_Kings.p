@@ -1,0 +1,1786 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDeMarcus Cousins SAC 04/17/2013 SAC vs. LAC L 41 36 14 24 58.3 0 0 - 8 11 72.7 4 18 22 3 0 3 3 4 2
+p2
+aVMarcus Thornton SAC 04/17/2013 SAC vs. LAC L 37 21 8 20 40.0 5 12 41.7 0 0 - 1 1 2 3 1 0 0 1 1
+p3
+aVJimmer Fredette SAC 04/17/2013 SAC vs. LAC L 7 2 1 2 50.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 1 1 -4
+p4
+aVTravis Outlaw SAC 04/17/2013 SAC vs. LAC L 27 17 5 10 50.0 0 3 0.0 7 9 77.8 0 2 2 4 0 0 2 2 -9
+p5
+aVIsaiah Thomas SAC 04/17/2013 SAC vs. LAC L 43 15 5 17 29.4 3 7 42.9 2 2 100.0 3 1 4 10 2 0 3 4 -6
+p6
+aVJohn Salmons SAC 04/17/2013 SAC vs. LAC L 30 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 0 1 2 0 6
+p7
+aVJason Thompson SAC 04/17/2013 SAC vs. LAC L 26 8 3 7 42.9 0 0 - 2 2 100.0 1 5 6 0 2 0 0 4 1
+p8
+aVCole Aldrich SAC 04/17/2013 SAC vs. LAC L 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p9
+aVPatrick Patterson SAC 04/17/2013 SAC vs. LAC L 25 5 2 3 66.7 1 1 100.0 0 0 - 2 1 3 2 0 0 0 4 -5
+p10
+aVMarcus Thornton SAC 04/15/2013 SAC @ OKC L 19 6 3 10 30.0 0 4 0.0 0 0 - 3 0 3 3 2 0 1 1 -19
+p11
+aVTravis Outlaw SAC 04/15/2013 SAC @ OKC L 24 15 6 11 54.5 0 2 0.0 3 6 50.0 0 2 2 3 1 0 0 0 6
+p12
+aVDeMarcus Cousins SAC 04/15/2013 SAC @ OKC L 25 7 2 9 22.2 0 0 - 3 4 75.0 1 5 6 2 0 0 5 1 -26
+p13
+aVJason Thompson SAC 04/15/2013 SAC @ OKC L 26 7 2 8 25.0 0 1 0.0 3 6 50.0 1 2 3 0 1 0 0 2 -17
+p14
+aVToney Douglas SAC 04/15/2013 SAC @ OKC L 14 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 2 1 0 0 3 -5
+p15
+aVPatrick Patterson SAC 04/15/2013 SAC @ OKC L 22 6 3 5 60.0 0 0 - 0 0 - 0 5 5 1 0 0 0 0 8
+p16
+aVTyreke Evans SAC 04/15/2013 SAC @ OKC L 10 8 4 5 80.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -5
+p17
+aVIsaiah Thomas SAC 04/15/2013 SAC @ OKC L 28 16 5 10 50.0 4 8 50.0 2 2 100.0 1 3 4 2 0 0 5 2 -4
+p18
+aVJohn Salmons SAC 04/15/2013 SAC @ OKC L 24 4 2 8 25.0 0 3 0.0 0 0 - 1 4 5 3 0 0 1 3 -15
+p19
+aVJimmer Fredette SAC 04/15/2013 SAC @ OKC L 25 11 4 12 33.3 2 6 33.3 1 3 33.3 0 3 3 2 2 0 1 0 15
+p20
+aVCole Aldrich SAC 04/15/2013 SAC @ OKC L 23 12 6 6 100.0 0 0 - 0 0 - 4 9 13 0 0 0 2 2 17
+p21
+aVPatrick Patterson SAC 04/14/2013 SAC @ HOU L 27 8 4 11 36.4 0 1 0.0 0 0 - 2 2 4 2 2 2 0 1 5
+p22
+aVJimmer Fredette SAC 04/14/2013 SAC @ HOU L 21 10 5 14 35.7 0 2 0.0 0 0 - 0 5 5 5 3 0 1 2 -7
+p23
+aVJason Thompson SAC 04/14/2013 SAC @ HOU L 21 7 3 11 27.3 0 0 - 1 2 50.0 1 3 4 2 0 1 1 3 -26
+p24
+aVCole Aldrich SAC 04/14/2013 SAC @ HOU L 26 12 6 7 85.7 0 0 - 0 0 - 5 7 12 0 1 4 1 2 -1
+p25
+aVToney Douglas SAC 04/14/2013 SAC @ HOU L 24 6 2 7 28.6 2 5 40.0 0 0 - 3 2 5 1 1 0 3 3 -6
+p26
+aVDeMarcus Cousins SAC 04/14/2013 SAC @ HOU L 22 8 3 9 33.3 0 0 - 2 4 50.0 3 5 8 0 3 0 2 2 -20
+p27
+aVMarcus Thornton SAC 04/14/2013 SAC @ HOU L 8 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -3
+p28
+aVTravis Outlaw SAC 04/14/2013 SAC @ HOU L 18 15 5 8 62.5 1 3 33.3 4 4 100.0 0 2 2 3 0 1 2 0 6
+p29
+aVJohn Salmons SAC 04/14/2013 SAC @ HOU L 26 14 5 8 62.5 3 6 50.0 1 1 100.0 0 0 0 0 0 1 1 3 -18
+p30
+aVTyreke Evans SAC 04/14/2013 SAC @ HOU L 18 10 4 10 40.0 1 3 33.3 1 1 100.0 1 2 3 1 0 1 2 1 -18
+p31
+aVIsaiah Thomas SAC 04/14/2013 SAC @ HOU L 28 10 2 9 22.2 1 3 33.3 5 5 100.0 0 1 1 10 0 0 1 4 -17
+p32
+aVIsaiah Thomas SAC 04/12/2013 SAC @ SAS L 22 6 3 10 30.0 0 2 0.0 0 0 - 0 2 2 3 3 0 2 1 -10
+p33
+aVPatrick Patterson SAC 04/12/2013 SAC @ SAS L 18 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 2 -8
+p34
+aVMarcus Thornton SAC 04/12/2013 SAC @ SAS L 30 12 4 10 40.0 4 7 57.1 0 0 - 0 2 2 2 1 0 1 0 -2
+p35
+aVDeMarcus Cousins SAC 04/12/2013 SAC @ SAS L 29 19 6 11 54.5 0 0 - 7 9 77.8 4 8 12 1 1 2 2 4 1
+p36
+aVJohn Salmons SAC 04/12/2013 SAC @ SAS L 20 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 3 1 0 1 1 -9
+p37
+aVJason Thompson SAC 04/12/2013 SAC @ SAS L 32 18 8 15 53.3 0 0 - 2 2 100.0 3 3 6 1 1 2 0 4 -5
+p38
+aVJimmer Fredette SAC 04/12/2013 SAC @ SAS L 24 14 5 8 62.5 2 3 66.7 2 2 100.0 0 0 0 2 1 0 1 1 6
+p39
+aVCharles Hayes SAC 04/12/2013 SAC @ SAS L 17 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 1 0 2 1 -2
+p40
+aVToney Douglas SAC 04/12/2013 SAC @ SAS L 26 15 6 11 54.5 3 4 75.0 0 0 - 0 3 3 7 4 0 0 2 3
+p41
+aVTyreke Evans SAC 04/12/2013 SAC @ SAS L 21 9 3 9 33.3 2 2 100.0 1 2 50.0 0 1 1 2 0 0 3 0 -9
+p42
+aVToney Douglas SAC 04/10/2013 SAC vs. NOH W 21 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 6 3 0 1 3 5
+p43
+aVDeMarcus Cousins SAC 04/10/2013 SAC vs. NOH W 25 11 4 10 40.0 0 0 - 3 3 100.0 0 4 4 5 2 2 1 6 12
+p44
+aVJohn Salmons SAC 04/10/2013 SAC vs. NOH W 32 22 7 10 70.0 2 4 50.0 6 8 75.0 0 3 3 3 0 0 1 3 28
+p45
+aVIsaiah Thomas SAC 04/10/2013 SAC vs. NOH W 27 15 6 13 46.2 1 2 50.0 2 4 50.0 1 2 3 3 1 0 1 2 6
+p46
+aVCole Aldrich SAC 04/10/2013 SAC vs. NOH W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -15
+p47
+aVTyreke Evans SAC 04/10/2013 SAC vs. NOH W 23 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 3 1 0 2 2 4
+p48
+aVMarcus Thornton SAC 04/10/2013 SAC vs. NOH W 30 20 8 13 61.5 4 8 50.0 0 0 - 1 4 5 0 1 1 2 1 7
+p49
+aVJason Thompson SAC 04/10/2013 SAC vs. NOH W 34 20 8 12 66.7 0 0 - 4 6 66.7 3 5 8 1 1 2 1 4 11
+p50
+aVJimmer Fredette SAC 04/10/2013 SAC vs. NOH W 11 6 2 6 33.3 2 3 66.7 0 0 - 0 0 0 1 0 0 1 1 -17
+p51
+aVCharles Hayes SAC 04/10/2013 SAC vs. NOH W 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 4 1 0 1 2 15
+p52
+aVTravis Outlaw SAC 04/10/2013 SAC vs. NOH W 15 9 4 6 66.7 1 1 100.0 0 0 - 2 1 3 0 0 2 1 2 -1
+p53
+aVToney Douglas SAC 04/07/2013 SAC vs. MEM L 24 14 5 10 50.0 2 4 50.0 2 2 100.0 1 3 4 2 4 0 1 3 14
+p54
+aVMarcus Thornton SAC 04/07/2013 SAC vs. MEM L 31 6 2 13 15.4 2 8 25.0 0 0 - 0 1 1 3 1 0 1 1 4
+p55
+aVIsaiah Thomas SAC 04/07/2013 SAC vs. MEM L 32 18 5 13 38.5 1 4 25.0 7 10 70.0 2 4 6 8 1 0 2 1 -10
+p56
+aVDeMarcus Cousins SAC 04/07/2013 SAC vs. MEM L 30 22 9 15 60.0 0 1 0.0 4 4 100.0 0 9 9 0 1 0 1 3 -5
+p57
+aVTyreke Evans SAC 04/07/2013 SAC vs. MEM L 25 5 1 7 14.3 0 2 0.0 3 4 75.0 1 4 5 0 0 0 2 3 -11
+p58
+aVCole Aldrich SAC 04/07/2013 SAC vs. MEM L 15 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 2 0 2 2
+p59
+aVJohn Salmons SAC 04/07/2013 SAC vs. MEM L 20 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 1 0 1 1 -13
+p60
+aVJimmer Fredette SAC 04/07/2013 SAC vs. MEM L 15 13 3 7 42.9 2 4 50.0 5 6 83.3 1 0 1 0 0 0 4 2 8
+p61
+aVCharles Hayes SAC 04/07/2013 SAC vs. MEM L 29 4 2 4 50.0 0 0 - 0 0 - 4 5 9 3 0 2 0 3 11
+p62
+aVJason Thompson SAC 04/07/2013 SAC vs. MEM L 19 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 1 0 2 5 -10
+p63
+aVIsaiah Thomas SAC 04/05/2013 SAC vs. DAL L 36 29 9 20 45.0 0 7 0.0 11 12 91.7 2 1 3 1 1 0 1 3 -3
+p64
+aVToney Douglas SAC 04/05/2013 SAC vs. DAL L 18 14 6 9 66.7 2 5 40.0 0 0 - 0 1 1 1 2 0 1 3 -2
+p65
+aVTyreke Evans SAC 04/05/2013 SAC vs. DAL L 41 26 10 15 66.7 2 4 50.0 4 6 66.7 2 7 9 6 0 0 1 1 -3
+p66
+aVMarcus Thornton SAC 04/05/2013 SAC vs. DAL L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -5
+p67
+aVJohn Salmons SAC 04/05/2013 SAC vs. DAL L 26 3 1 6 16.7 1 5 20.0 0 0 - 0 2 2 2 1 0 0 1 -9
+p68
+aVJason Thompson SAC 04/05/2013 SAC vs. DAL L 37 16 6 13 46.2 0 0 - 4 5 80.0 3 13 16 4 0 1 3 1 -5
+p69
+aVJimmer Fredette SAC 04/05/2013 SAC vs. DAL L 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 0 3 -7
+p70
+aVDeMarcus Cousins SAC 04/05/2013 SAC vs. DAL L 9 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -8
+p71
+aVTravis Outlaw SAC 04/05/2013 SAC vs. DAL L 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p72
+aVJames Johnson SAC 04/05/2013 SAC vs. DAL L 9 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 2 0 0 0 0 -3
+p73
+aVPatrick Patterson SAC 04/05/2013 SAC vs. DAL L 42 10 3 9 33.3 1 3 33.3 3 4 75.0 2 5 7 2 0 0 3 2 -2
+p74
+aVCole Aldrich SAC 04/03/2013 SAC vs. HOU L 12 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 1 1 0 -2
+p75
+aVIsaiah Thomas SAC 04/03/2013 SAC vs. HOU L 35 12 3 16 18.8 1 7 14.3 5 5 100.0 0 0 0 5 1 1 2 1 -6
+p76
+aVJason Thompson SAC 04/03/2013 SAC vs. HOU L 32 17 6 12 50.0 0 0 - 5 6 83.3 3 12 15 1 1 2 0 4 -4
+p77
+aVPatrick Patterson SAC 04/03/2013 SAC vs. HOU L 16 2 1 4 25.0 0 0 - 0 0 - 3 0 3 1 0 0 1 1 -6
+p78
+aVToney Douglas SAC 04/03/2013 SAC vs. HOU L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 2 -4
+p79
+aVCharles Hayes SAC 04/03/2013 SAC vs. HOU L 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 4
+p80
+aVMarcus Thornton SAC 04/03/2013 SAC vs. HOU L 22 21 8 13 61.5 3 6 50.0 2 2 100.0 0 1 1 1 2 0 2 0 0
+p81
+aVTravis Outlaw SAC 04/03/2013 SAC vs. HOU L 6 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -2
+p82
+aVTyreke Evans SAC 04/03/2013 SAC vs. HOU L 29 22 7 18 38.9 2 5 40.0 6 8 75.0 2 2 4 0 4 0 1 3 -11
+p83
+aVJohn Salmons SAC 04/03/2013 SAC vs. HOU L 39 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 5 1 0 0 2 -7
+p84
+aVDeMarcus Cousins SAC 04/03/2013 SAC vs. HOU L 27 20 7 13 53.8 0 0 - 6 9 66.7 3 3 6 2 2 0 2 6 -12
+p85
+aVTyreke Evans SAC 03/30/2013 SAC vs. LAL L 43 21 9 15 60.0 0 1 0.0 3 3 100.0 2 7 9 6 0 0 4 3 8
+p86
+aVToney Douglas SAC 03/30/2013 SAC vs. LAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p87
+aVJohn Salmons SAC 03/30/2013 SAC vs. LAL L 44 13 5 12 41.7 3 7 42.9 0 0 - 2 1 3 3 1 1 1 2 -5
+p88
+aVIsaiah Thomas SAC 03/30/2013 SAC vs. LAL L 25 10 3 5 60.0 2 4 50.0 2 3 66.7 0 0 0 5 0 0 1 1 -3
+p89
+aVDeMarcus Cousins SAC 03/30/2013 SAC vs. LAL L 39 19 8 20 40.0 0 2 0.0 3 4 75.0 2 9 11 2 0 0 3 3 1
+p90
+aVCharles Hayes SAC 03/30/2013 SAC vs. LAL L 12 2 1 5 20.0 0 0 - 0 0 - 3 2 5 1 0 0 1 1 -2
+p91
+aVMarcus Thornton SAC 03/30/2013 SAC vs. LAL L 26 18 6 15 40.0 2 7 28.6 4 5 80.0 3 4 7 0 0 0 0 0 -11
+p92
+aVPatrick Patterson SAC 03/30/2013 SAC vs. LAL L 20 0 0 4 0.0 0 3 0.0 0 0 - 2 2 4 1 0 1 0 3 -2
+p93
+aVJason Thompson SAC 03/30/2013 SAC vs. LAL L 24 15 7 10 70.0 0 0 - 1 1 100.0 2 2 4 1 0 0 1 4 -5
+p94
+aVIsaiah Thomas SAC 03/28/2013 SAC @ PHX W 29 23 6 10 60.0 3 4 75.0 8 8 100.0 0 3 3 8 0 0 5 3 11
+p95
+aVToney Douglas SAC 03/28/2013 SAC @ PHX W 10 7 3 6 50.0 1 3 33.3 0 0 - 1 1 2 0 3 0 0 0 8
+p96
+aVPatrick Patterson SAC 03/28/2013 SAC @ PHX W 29 10 5 10 50.0 0 2 0.0 0 0 - 3 7 10 0 0 2 0 5 12
+p97
+aVJason Thompson SAC 03/28/2013 SAC @ PHX W 19 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 1 0 0 3 2 2
+p98
+aVTravis Outlaw SAC 03/28/2013 SAC @ PHX W 9 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -1
+p99
+aVTyreke Evans SAC 03/28/2013 SAC @ PHX W 33 12 5 9 55.6 0 3 0.0 2 2 100.0 0 3 3 6 1 0 0 4 4
+p100
+aVCole Aldrich SAC 03/28/2013 SAC @ PHX W 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -5
+p101
+aVMarcus Thornton SAC 03/28/2013 SAC @ PHX W 11 3 1 4 25.0 1 1 100.0 0 0 - 2 3 5 2 0 0 2 0 2
+p102
+aVJimmer Fredette SAC 03/28/2013 SAC @ PHX W 12 7 3 5 60.0 1 1 100.0 0 1 0.0 0 0 0 0 0 0 0 0 4
+p103
+aVCharles Hayes SAC 03/28/2013 SAC @ PHX W 11 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 8
+p104
+aVDeMarcus Cousins SAC 03/28/2013 SAC @ PHX W 30 34 12 16 75.0 1 2 50.0 9 9 100.0 5 9 14 2 1 1 5 4 11
+p105
+aVJohn Salmons SAC 03/28/2013 SAC @ PHX W 38 6 3 9 33.3 0 2 0.0 0 0 - 0 3 3 1 0 0 2 0 14
+p106
+aVIsaiah Thomas SAC 03/27/2013 SAC @ GSW W 35 31 10 18 55.6 7 12 58.3 4 6 66.7 0 3 3 7 1 0 3 2 6
+p107
+aVMarcus Thornton SAC 03/27/2013 SAC @ GSW W 28 13 6 13 46.2 1 7 14.3 0 0 - 1 1 2 0 0 0 1 2 1
+p108
+aVPatrick Patterson SAC 03/27/2013 SAC @ GSW W 27 6 3 8 37.5 0 1 0.0 0 0 - 2 7 9 2 1 0 2 0 -2
+p109
+aVDeMarcus Cousins SAC 03/27/2013 SAC @ GSW W 23 14 7 15 46.7 0 0 - 0 4 0.0 4 2 6 0 2 0 5 4 9
+p110
+aVToney Douglas SAC 03/27/2013 SAC @ GSW W 16 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 2 1 1
+p111
+aVJason Thompson SAC 03/27/2013 SAC @ GSW W 23 9 4 10 40.0 0 0 - 1 2 50.0 3 6 9 1 1 1 1 1 6
+p112
+aVJohn Salmons SAC 03/27/2013 SAC @ GSW W 32 9 3 9 33.3 1 3 33.3 2 3 66.7 2 4 6 5 0 0 0 0 6
+p113
+aVCharles Hayes SAC 03/27/2013 SAC @ GSW W 23 6 3 3 100.0 0 0 - 0 0 - 3 4 7 2 0 0 0 1 1
+p114
+aVTyreke Evans SAC 03/27/2013 SAC @ GSW W 34 12 4 12 33.3 1 4 25.0 3 4 75.0 1 2 3 5 1 0 1 3 7
+p115
+aVMarcus Thornton SAC 03/24/2013 SAC vs. PHI L 27 22 9 12 75.0 1 4 25.0 3 3 100.0 0 0 0 1 0 0 1 1 -10
+p116
+aVTravis Outlaw SAC 03/24/2013 SAC vs. PHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p117
+aVJohn Salmons SAC 03/24/2013 SAC vs. PHI L 31 5 2 9 22.2 1 6 16.7 0 0 - 1 4 5 2 0 0 0 1 1
+p118
+aVJason Thompson SAC 03/24/2013 SAC vs. PHI L 27 8 4 10 40.0 0 0 - 0 2 0.0 3 5 8 0 0 1 2 0 -7
+p119
+aVCole Aldrich SAC 03/24/2013 SAC vs. PHI L 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -13
+p120
+aVDeMarcus Cousins SAC 03/24/2013 SAC vs. PHI L 27 8 3 9 33.3 0 0 - 2 2 100.0 2 7 9 2 1 1 2 5 4
+p121
+aVToney Douglas SAC 03/24/2013 SAC vs. PHI L 21 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 1 -5
+p122
+aVIsaiah Thomas SAC 03/24/2013 SAC vs. PHI L 29 25 10 15 66.7 4 7 57.1 1 1 100.0 0 3 3 0 0 0 3 3 -6
+p123
+aVPatrick Patterson SAC 03/24/2013 SAC vs. PHI L 34 12 5 11 45.5 2 3 66.7 0 0 - 3 4 7 2 2 0 1 2 -15
+p124
+aVTyreke Evans SAC 03/24/2013 SAC vs. PHI L 34 19 8 15 53.3 1 3 33.3 2 2 100.0 0 2 2 8 2 1 1 0 -21
+p125
+aVPatrick Patterson SAC 03/23/2013 SAC @ DEN L 20 7 3 4 75.0 1 1 100.0 0 0 - 2 2 4 2 1 0 1 4 4
+p126
+aVMarcus Thornton SAC 03/23/2013 SAC @ DEN L 31 10 4 13 30.8 0 5 0.0 2 2 100.0 1 1 2 1 1 1 2 0 -6
+p127
+aVIsaiah Thomas SAC 03/23/2013 SAC @ DEN L 33 10 3 12 25.0 2 8 25.0 2 3 66.7 1 0 1 9 1 0 2 4 0
+p128
+aVJimmer Fredette SAC 03/23/2013 SAC @ DEN L 10 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p129
+aVJason Thompson SAC 03/23/2013 SAC @ DEN L 26 6 3 11 27.3 0 0 - 0 0 - 2 2 4 0 1 1 0 4 -13
+p130
+aVJohn Salmons SAC 03/23/2013 SAC @ DEN L 36 18 7 12 58.3 4 8 50.0 0 0 - 0 3 3 2 0 1 1 3 -3
+p131
+aVToney Douglas SAC 03/23/2013 SAC @ DEN L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 0 -5
+p132
+aVDeMarcus Cousins SAC 03/23/2013 SAC @ DEN L 36 24 10 16 62.5 0 0 - 4 8 50.0 3 12 15 3 0 5 6 5 -10
+p133
+aVTyreke Evans SAC 03/23/2013 SAC @ DEN L 23 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 -1
+p134
+aVTravis Outlaw SAC 03/23/2013 SAC @ DEN L 8 8 3 6 50.0 1 2 50.0 1 2 50.0 0 0 0 0 1 1 0 2 1
+p135
+aVCole Aldrich SAC 03/23/2013 SAC @ DEN L 11 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 1 0 1 0 2 4
+p136
+aVMarcus Thornton SAC 03/21/2013 SAC vs. MIN W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p137
+aVIsaiah Thomas SAC 03/21/2013 SAC vs. MIN W 35 24 8 15 53.3 3 6 50.0 5 5 100.0 0 3 3 6 0 0 1 2 3
+p138
+aVToney Douglas SAC 03/21/2013 SAC vs. MIN W 12 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 1 0 1 4 5
+p139
+aVPatrick Patterson SAC 03/21/2013 SAC vs. MIN W 31 11 5 10 50.0 1 3 33.3 0 0 - 1 3 4 2 2 2 1 1 8
+p140
+aVJason Thompson SAC 03/21/2013 SAC vs. MIN W 21 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 0 1 1 4 -3
+p141
+aVCharles Hayes SAC 03/21/2013 SAC vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -6
+p142
+aVTyreke Evans SAC 03/21/2013 SAC vs. MIN W 39 21 8 11 72.7 1 3 33.3 4 5 80.0 0 5 5 5 0 0 3 2 7
+p143
+aVDeMarcus Cousins SAC 03/21/2013 SAC vs. MIN W 28 15 6 12 50.0 0 0 - 3 5 60.0 2 12 14 2 0 1 4 5 -5
+p144
+aVCole Aldrich SAC 03/21/2013 SAC vs. MIN W 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 2 2 2 12
+p145
+aVJohn Salmons SAC 03/21/2013 SAC vs. MIN W 43 13 5 11 45.5 0 3 0.0 3 3 100.0 0 5 5 3 1 0 1 1 4
+p146
+aVJimmer Fredette SAC 03/21/2013 SAC vs. MIN W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p147
+aVTyreke Evans SAC 03/19/2013 SAC vs. LAC W 36 17 4 13 30.8 0 2 0.0 9 10 90.0 0 4 4 5 2 0 1 2 11
+p148
+aVPatrick Patterson SAC 03/19/2013 SAC vs. LAC W 26 13 6 10 60.0 1 2 50.0 0 0 - 3 2 5 1 0 0 2 3 -4
+p149
+aVJason Thompson SAC 03/19/2013 SAC vs. LAC W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 2 2 -4
+p150
+aVCole Aldrich SAC 03/19/2013 SAC vs. LAC W 16 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 1 0 0 3
+p151
+aVMarcus Thornton SAC 03/19/2013 SAC vs. LAC W 30 25 7 14 50.0 6 10 60.0 5 5 100.0 0 4 4 4 1 0 1 1 17
+p152
+aVJohn Salmons SAC 03/19/2013 SAC vs. LAC W 36 11 2 4 50.0 2 4 50.0 5 6 83.3 1 3 4 2 0 0 1 3 21
+p153
+aVIsaiah Thomas SAC 03/19/2013 SAC vs. LAC W 22 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 3 2 0 2 4 -6
+p154
+aVDeMarcus Cousins SAC 03/19/2013 SAC vs. LAC W 28 17 6 10 60.0 0 1 0.0 5 9 55.6 2 9 11 1 2 0 3 5 16
+p155
+aVJimmer Fredette SAC 03/19/2013 SAC vs. LAC W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 0
+p156
+aVToney Douglas SAC 03/19/2013 SAC vs. LAC W 26 19 6 10 60.0 3 5 60.0 4 4 100.0 0 2 2 7 1 0 2 3 21
+p157
+aVCharles Hayes SAC 03/17/2013 SAC @ LAL L 28 8 4 5 80.0 0 0 - 0 0 - 2 5 7 1 0 0 0 4 -2
+p158
+aVCole Aldrich SAC 03/17/2013 SAC @ LAL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 0
+p159
+aVIsaiah Thomas SAC 03/17/2013 SAC @ LAL L 34 26 9 20 45.0 3 10 30.0 5 5 100.0 0 1 1 6 1 0 1 3 -7
+p160
+aVTyreke Evans SAC 03/17/2013 SAC @ LAL L 42 13 6 19 31.6 1 6 16.7 0 0 - 0 5 5 7 3 1 1 2 -7
+p161
+aVPatrick Patterson SAC 03/17/2013 SAC @ LAL L 36 22 9 12 75.0 2 2 100.0 2 2 100.0 3 2 5 0 0 0 0 2 -17
+p162
+aVToney Douglas SAC 03/17/2013 SAC @ LAL L 17 11 5 10 50.0 1 4 25.0 0 0 - 1 3 4 1 2 1 0 0 -3
+p163
+aVJason Thompson SAC 03/17/2013 SAC @ LAL L 25 4 2 8 25.0 0 0 - 0 0 - 0 7 7 0 1 0 1 5 -3
+p164
+aVMarcus Thornton SAC 03/17/2013 SAC @ LAL L 21 15 6 15 40.0 2 6 33.3 1 1 100.0 1 2 3 1 0 0 1 2 -10
+p165
+aVJohn Salmons SAC 03/17/2013 SAC @ LAL L 30 3 1 7 14.3 1 3 33.3 0 0 - 0 0 0 5 0 0 0 3 -6
+p166
+aVMarcus Thornton SAC 03/13/2013 SAC vs. CHI W 12 7 3 8 37.5 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 15
+p167
+aVTravis Outlaw SAC 03/13/2013 SAC vs. CHI W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p168
+aVJimmer Fredette SAC 03/13/2013 SAC vs. CHI W 12 9 3 6 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 0 9
+p169
+aVCharles Hayes SAC 03/13/2013 SAC vs. CHI W 26 10 3 5 60.0 0 0 - 4 7 57.1 4 4 8 1 1 0 0 1 24
+p170
+aVToney Douglas SAC 03/13/2013 SAC vs. CHI W 20 10 3 5 60.0 1 2 50.0 3 3 100.0 0 3 3 1 3 0 0 3 16
+p171
+aVJohn Salmons SAC 03/13/2013 SAC vs. CHI W 30 5 2 10 20.0 1 5 20.0 0 0 - 0 2 2 2 0 0 0 1 20
+p172
+aVIsaiah Thomas SAC 03/13/2013 SAC vs. CHI W 28 22 8 14 57.1 2 5 40.0 4 4 100.0 0 3 3 3 1 0 1 0 26
+p173
+aVJason Thompson SAC 03/13/2013 SAC vs. CHI W 26 12 4 8 50.0 0 0 - 4 4 100.0 0 3 3 1 0 1 1 3 3
+p174
+aVPatrick Patterson SAC 03/13/2013 SAC vs. CHI W 20 14 6 7 85.7 2 2 100.0 0 0 - 1 8 9 2 1 0 0 3 17
+p175
+aVTyreke Evans SAC 03/13/2013 SAC vs. CHI W 36 26 11 13 84.6 1 3 33.3 3 4 75.0 1 4 5 7 3 1 2 3 33
+p176
+aVCole Aldrich SAC 03/13/2013 SAC vs. CHI W 24 6 2 5 40.0 0 0 - 2 2 100.0 1 5 6 0 0 1 1 2 40
+p177
+aVDeMarcus Cousins SAC 03/10/2013 SAC vs. MIL L 28 24 10 12 83.3 0 0 - 4 4 100.0 0 10 10 1 1 0 0 4 2
+p178
+aVJimmer Fredette SAC 03/10/2013 SAC vs. MIL L 9 14 5 6 83.3 1 2 50.0 3 4 75.0 1 0 1 0 0 0 0 2 8
+p179
+aVTravis Outlaw SAC 03/10/2013 SAC vs. MIL L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p180
+aVIsaiah Thomas SAC 03/10/2013 SAC vs. MIL L 35 14 4 16 25.0 1 5 20.0 5 6 83.3 1 4 5 9 0 0 2 4 -7
+p181
+aVJason Thompson SAC 03/10/2013 SAC vs. MIL L 37 18 8 13 61.5 0 0 - 2 2 100.0 2 6 8 2 1 1 1 2 -1
+p182
+aVTyreke Evans SAC 03/10/2013 SAC vs. MIL L 31 20 8 17 47.1 1 3 33.3 3 4 75.0 1 4 5 3 2 0 2 4 9
+p183
+aVJohn Salmons SAC 03/10/2013 SAC vs. MIL L 36 5 2 8 25.0 1 5 20.0 0 2 0.0 0 4 4 4 0 0 1 2 0
+p184
+aVCole Aldrich SAC 03/10/2013 SAC vs. MIL L 3 3 1 3 33.3 0 0 - 1 1 100.0 2 1 3 1 1 0 0 0 10
+p185
+aVMarcus Thornton SAC 03/10/2013 SAC vs. MIL L 25 9 4 9 44.4 1 3 33.3 0 0 - 1 1 2 1 2 0 0 2 -7
+p186
+aVToney Douglas SAC 03/10/2013 SAC vs. MIL L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 2 5
+p187
+aVPatrick Patterson SAC 03/10/2013 SAC vs. MIL L 17 4 1 6 16.7 1 2 50.0 1 2 50.0 2 1 3 1 0 2 0 2 -9
+p188
+aVCharles Hayes SAC 03/10/2013 SAC vs. MIL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -12
+p189
+aVIsaiah Thomas SAC 03/08/2013 SAC vs. PHX W 33 27 8 13 61.5 4 5 80.0 7 7 100.0 1 4 5 6 5 0 2 3 20
+p190
+aVJohn Salmons SAC 03/08/2013 SAC vs. PHX W 23 2 1 5 20.0 0 4 0.0 0 0 - 0 3 3 5 0 0 1 0 15
+p191
+aVToney Douglas SAC 03/08/2013 SAC vs. PHX W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 6
+p192
+aVPatrick Patterson SAC 03/08/2013 SAC vs. PHX W 26 8 4 9 44.4 0 1 0.0 0 0 - 2 4 6 2 0 1 0 4 0
+p193
+aVDeMarcus Cousins SAC 03/08/2013 SAC vs. PHX W 35 22 9 13 69.2 0 0 - 4 4 100.0 1 13 14 7 2 0 4 5 10
+p194
+aVTravis Outlaw SAC 03/08/2013 SAC vs. PHX W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 5
+p195
+aVMarcus Thornton SAC 03/08/2013 SAC vs. PHX W 24 23 9 13 69.2 5 7 71.4 0 0 - 1 2 3 1 0 0 0 3 -11
+p196
+aVJimmer Fredette SAC 03/08/2013 SAC vs. PHX W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -10
+p197
+aVCharles Hayes SAC 03/08/2013 SAC vs. PHX W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -10
+p198
+aVJason Thompson SAC 03/08/2013 SAC vs. PHX W 29 12 4 8 50.0 0 0 - 4 6 66.7 1 0 1 1 0 1 1 2 20
+p199
+aVTyreke Evans SAC 03/08/2013 SAC vs. PHX W 35 25 9 12 75.0 4 6 66.7 3 4 75.0 0 2 2 5 1 2 6 2 0
+p200
+aVPatrick Patterson SAC 03/06/2013 SAC @ GSW L 28 15 6 10 60.0 3 3 100.0 0 0 - 0 8 8 4 1 1 0 3 15
+p201
+aVMarcus Thornton SAC 03/06/2013 SAC @ GSW L 28 9 3 8 37.5 1 5 20.0 2 2 100.0 0 6 6 0 1 0 1 4 7
+p202
+aVJason Thompson SAC 03/06/2013 SAC @ GSW L 34 17 8 13 61.5 0 0 - 1 3 33.3 2 6 8 1 2 0 1 2 -13
+p203
+aVToney Douglas SAC 03/06/2013 SAC @ GSW L 28 10 3 9 33.3 2 6 33.3 2 2 100.0 0 3 3 6 2 0 2 3 4
+p204
+aVCharles Hayes SAC 03/06/2013 SAC @ GSW L 14 4 2 5 40.0 0 1 0.0 0 0 - 2 3 5 3 0 0 2 3 11
+p205
+aVJohn Salmons SAC 03/06/2013 SAC @ GSW L 38 5 2 9 22.2 1 5 20.0 0 0 - 0 3 3 4 0 0 3 1 -2
+p206
+aVIsaiah Thomas SAC 03/06/2013 SAC @ GSW L 20 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 2 4 -8
+p207
+aVDeMarcus Cousins SAC 03/06/2013 SAC @ GSW L 20 5 2 10 20.0 0 0 - 1 1 100.0 2 2 4 3 4 1 2 3 -19
+p208
+aVTyreke Evans SAC 03/06/2013 SAC @ GSW L 31 9 4 14 28.6 0 3 0.0 1 2 50.0 0 2 2 6 1 2 1 1 -15
+p209
+aVPatrick Patterson SAC 03/05/2013 SAC vs. DEN L 11 6 2 3 66.7 0 1 0.0 2 2 100.0 2 0 2 0 0 0 1 0 2
+p210
+aVMarcus Thornton SAC 03/05/2013 SAC vs. DEN L 35 32 12 21 57.1 5 11 45.5 3 3 100.0 2 2 4 2 0 0 1 1 9
+p211
+aVIsaiah Thomas SAC 03/05/2013 SAC vs. DEN L 34 23 6 13 46.2 3 6 50.0 8 9 88.9 1 2 3 8 1 1 2 2 -7
+p212
+aVCharles Hayes SAC 03/05/2013 SAC vs. DEN L 20 2 1 4 25.0 0 0 - 0 0 - 2 5 7 1 1 0 1 1 5
+p213
+aVDeMarcus Cousins SAC 03/05/2013 SAC vs. DEN L 27 8 1 12 8.3 0 1 0.0 6 10 60.0 3 10 13 3 0 5 3 3 -13
+p214
+aVJames Johnson SAC 03/05/2013 SAC vs. DEN L 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 3 1 -3
+p215
+aVJohn Salmons SAC 03/05/2013 SAC vs. DEN L 32 11 4 9 44.4 3 7 42.9 0 0 - 1 3 4 2 0 1 2 5 -7
+p216
+aVJimmer Fredette SAC 03/05/2013 SAC vs. DEN L 12 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 2 2 0 0 2 -1
+p217
+aVTyreke Evans SAC 03/05/2013 SAC vs. DEN L 32 7 2 5 40.0 1 4 25.0 2 2 100.0 0 1 1 2 0 0 2 3 -16
+p218
+aVJason Thompson SAC 03/05/2013 SAC vs. DEN L 29 18 9 11 81.8 0 0 - 0 0 - 2 4 6 2 1 0 2 5 -4
+p219
+aVCole Aldrich SAC 03/03/2013 SAC vs. CHA W 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 0 1 -5
+p220
+aVJames Johnson SAC 03/03/2013 SAC vs. CHA W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 3 0 -5
+p221
+aVMarcus Thornton SAC 03/03/2013 SAC vs. CHA W 20 18 7 11 63.6 2 4 50.0 2 2 100.0 1 1 2 3 2 0 2 2 18
+p222
+aVJohn Salmons SAC 03/03/2013 SAC vs. CHA W 30 22 6 13 46.2 5 10 50.0 5 5 100.0 2 1 3 2 2 0 1 3 34
+p223
+aVToney Douglas SAC 03/03/2013 SAC vs. CHA W 15 2 0 4 0.0 0 1 0.0 2 2 100.0 2 1 3 2 0 0 1 1 2
+p224
+aVDeMarcus Cousins SAC 03/03/2013 SAC vs. CHA W 23 14 6 14 42.9 0 2 0.0 2 4 50.0 3 6 9 1 0 1 3 4 24
+p225
+aVJason Thompson SAC 03/03/2013 SAC vs. CHA W 28 18 6 8 75.0 0 0 - 6 6 100.0 4 10 14 0 2 0 2 4 34
+p226
+aVJimmer Fredette SAC 03/03/2013 SAC vs. CHA W 19 7 3 11 27.3 1 6 16.7 0 0 - 0 3 3 1 1 0 2 2 0
+p227
+aVTyreke Evans SAC 03/03/2013 SAC vs. CHA W 24 13 3 6 50.0 2 3 66.7 5 7 71.4 0 7 7 4 1 1 1 1 30
+p228
+aVIsaiah Thomas SAC 03/03/2013 SAC vs. CHA W 27 10 4 10 40.0 2 5 40.0 0 0 - 0 2 2 7 0 0 2 2 29
+p229
+aVPatrick Patterson SAC 03/03/2013 SAC vs. CHA W 17 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 0 0 1 1 0 -1
+p230
+aVCharles Hayes SAC 03/03/2013 SAC vs. CHA W 21 6 3 5 60.0 0 0 - 0 1 0.0 4 8 12 4 0 0 0 3 20
+p231
+aVIsaiah Thomas SAC 03/01/2013 SAC @ SAS L 24 18 6 12 50.0 1 4 25.0 5 5 100.0 0 0 0 1 2 0 1 3 -21
+p232
+aVDeMarcus Cousins SAC 03/01/2013 SAC @ SAS L 21 9 4 9 44.4 0 0 - 1 2 50.0 2 5 7 0 1 0 4 3 -16
+p233
+aVCharles Hayes SAC 03/01/2013 SAC @ SAS L 14 8 3 3 100.0 0 0 - 2 3 66.7 1 1 2 1 0 0 1 1 -5
+p234
+aVPatrick Patterson SAC 03/01/2013 SAC @ SAS L 26 6 3 9 33.3 0 1 0.0 0 0 - 1 4 5 1 3 0 1 2 -14
+p235
+aVJimmer Fredette SAC 03/01/2013 SAC @ SAS L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 2 0 -10
+p236
+aVMarcus Thornton SAC 03/01/2013 SAC @ SAS L 32 25 8 13 61.5 2 5 40.0 7 7 100.0 0 1 1 5 1 0 1 2 -15
+p237
+aVJason Thompson SAC 03/01/2013 SAC @ SAS L 25 6 3 6 50.0 0 0 - 0 0 - 0 5 5 2 1 1 1 4 -22
+p238
+aVTravis Outlaw SAC 03/01/2013 SAC @ SAS L 8 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 0 1
+p239
+aVJohn Salmons SAC 03/01/2013 SAC @ SAS L 21 3 1 7 14.3 1 2 50.0 0 0 - 0 1 1 1 2 0 1 1 -14
+p240
+aVTyreke Evans SAC 03/01/2013 SAC @ SAS L 22 10 3 7 42.9 2 2 100.0 2 2 100.0 0 2 2 2 2 1 4 1 -13
+p241
+aVJames Johnson SAC 03/01/2013 SAC @ SAS L 6 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -5
+p242
+aVToney Douglas SAC 03/01/2013 SAC @ SAS L 21 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 4 1 0 2 1 -6
+p243
+aVJason Thompson SAC 02/27/2013 SAC @ ORL W 22 8 3 7 42.9 0 0 - 2 2 100.0 1 6 7 0 0 0 0 1 17
+p244
+aVMarcus Thornton SAC 02/27/2013 SAC @ ORL W 23 20 6 13 46.2 2 8 25.0 6 7 85.7 0 8 8 2 0 0 2 2 9
+p245
+aVCharles Hayes SAC 02/27/2013 SAC @ ORL W 24 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 6
+p246
+aVToney Douglas SAC 02/27/2013 SAC @ ORL W 12 8 3 4 75.0 1 2 50.0 1 1 100.0 0 2 2 4 2 0 1 2 8
+p247
+aVIsaiah Thomas SAC 02/27/2013 SAC @ ORL W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 3 7
+p248
+aVDeMarcus Cousins SAC 02/27/2013 SAC @ ORL W 24 13 4 10 40.0 0 0 - 5 6 83.3 1 5 6 4 0 1 0 3 17
+p249
+aVTyreke Evans SAC 02/27/2013 SAC @ ORL W 26 17 7 11 63.6 0 0 - 3 4 75.0 0 3 3 7 4 0 1 0 23
+p250
+aVJimmer Fredette SAC 02/27/2013 SAC @ ORL W 27 13 5 9 55.6 3 4 75.0 0 0 - 0 1 1 4 2 0 2 2 13
+p251
+aVPatrick Patterson SAC 02/27/2013 SAC @ ORL W 26 13 5 8 62.5 0 1 0.0 3 4 75.0 3 4 7 0 0 1 2 2 8
+p252
+aVJohn Salmons SAC 02/27/2013 SAC @ ORL W 22 21 7 9 77.8 4 5 80.0 3 3 100.0 0 1 1 5 0 0 0 2 15
+p253
+aVJames Johnson SAC 02/27/2013 SAC @ ORL W 20 10 5 10 50.0 0 1 0.0 0 2 0.0 2 1 3 2 3 1 3 3 -3
+p254
+aVJason Thompson SAC 02/26/2013 SAC @ MIA L 26 8 3 10 30.0 0 0 - 2 3 66.7 3 3 6 2 1 0 4 1 4
+p255
+aVMarcus Thornton SAC 02/26/2013 SAC @ MIA L 40 36 11 18 61.1 8 12 66.7 6 8 75.0 2 0 2 3 1 1 1 3 -12
+p256
+aVCharles Hayes SAC 02/26/2013 SAC @ MIA L 9 4 2 2 100.0 0 0 - 0 0 - 0 4 4 2 0 1 0 1 5
+p257
+aVTyreke Evans SAC 02/26/2013 SAC @ MIA L 43 26 11 19 57.9 1 4 25.0 3 4 75.0 3 1 4 4 5 0 2 5 -16
+p258
+aVDeMarcus Cousins SAC 02/26/2013 SAC @ MIA L 49 24 10 17 58.8 0 1 0.0 4 7 57.1 6 9 15 5 2 0 4 5 -17
+p259
+aVTravis Outlaw SAC 02/26/2013 SAC @ MIA L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -2
+p260
+aVPatrick Patterson SAC 02/26/2013 SAC @ MIA L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p261
+aVAaron Brooks SAC 02/26/2013 SAC @ MIA L 10 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 1 1 1 1 3
+p262
+aVJohn Salmons SAC 02/26/2013 SAC @ MIA L 50 15 6 11 54.5 3 4 75.0 0 0 - 0 5 5 7 1 2 4 4 -3
+p263
+aVIsaiah Thomas SAC 02/26/2013 SAC @ MIA L 48 14 5 11 45.5 2 4 50.0 2 2 100.0 0 2 2 9 1 0 2 3 -15
+p264
+aVDeMarcus Cousins SAC 02/24/2013 SAC @ NOH L 37 16 5 13 38.5 0 0 - 6 6 100.0 1 9 10 2 2 0 2 2 -7
+p265
+aVJames Johnson SAC 02/24/2013 SAC @ NOH L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 2 1 4 -15
+p266
+aVJason Thompson SAC 02/24/2013 SAC @ NOH L 28 16 8 11 72.7 0 0 - 0 0 - 4 5 9 0 0 1 3 2 -3
+p267
+aVPatrick Patterson SAC 02/24/2013 SAC @ NOH L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p268
+aVJohn Salmons SAC 02/24/2013 SAC @ NOH L 37 18 6 14 42.9 6 7 85.7 0 0 - 1 2 3 3 0 1 2 0 -8
+p269
+aVTyreke Evans SAC 02/24/2013 SAC @ NOH L 34 12 4 16 25.0 2 3 66.7 2 2 100.0 1 2 3 4 1 0 0 2 -23
+p270
+aVIsaiah Thomas SAC 02/24/2013 SAC @ NOH L 34 16 6 14 42.9 1 3 33.3 3 3 100.0 1 2 3 5 2 0 1 2 -15
+p271
+aVMarcus Thornton SAC 02/24/2013 SAC @ NOH L 31 12 4 7 57.1 2 3 66.7 2 2 100.0 2 2 4 3 0 0 2 1 -2
+p272
+aVCharles Hayes SAC 02/24/2013 SAC @ NOH L 13 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -7
+p273
+aVJimmer Fredette SAC 02/24/2013 SAC @ NOH L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 1 3
+p274
+aVMarcus Thornton SAC 02/22/2013 SAC @ ATL L 21 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 0 0 0 1 1 -21
+p275
+aVCharles Hayes SAC 02/22/2013 SAC @ ATL L 18 0 0 1 0.0 0 0 - 0 0 - 3 2 5 1 0 0 0 2 -16
+p276
+aVJohn Salmons SAC 02/22/2013 SAC @ ATL L 27 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 2 0 0 0 1 7
+p277
+aVIsaiah Thomas SAC 02/22/2013 SAC @ ATL L 37 30 9 18 50.0 4 6 66.7 8 9 88.9 2 4 6 9 0 0 3 2 -7
+p278
+aVTyreke Evans SAC 02/22/2013 SAC @ ATL L 39 15 5 14 35.7 1 3 33.3 4 4 100.0 2 6 8 6 0 0 2 2 -3
+p279
+aVJimmer Fredette SAC 02/22/2013 SAC @ ATL L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 2 0 2
+p280
+aVDeMarcus Cousins SAC 02/22/2013 SAC @ ATL L 37 26 11 22 50.0 1 1 100.0 3 6 50.0 5 8 13 2 3 0 4 4 -6
+p281
+aVTravis Outlaw SAC 02/22/2013 SAC @ ATL L 17 9 3 7 42.9 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 0 -21
+p282
+aVJames Johnson SAC 02/22/2013 SAC @ ATL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -3
+p283
+aVJason Thompson SAC 02/22/2013 SAC @ ATL L 30 9 3 9 33.3 0 0 - 3 4 75.0 2 8 10 0 0 2 2 5 -2
+p284
+aVJohn Salmons SAC 02/19/2013 SAC vs. SAS L 28 6 2 6 33.3 0 2 0.0 2 2 100.0 1 2 3 2 1 0 3 3 -13
+p285
+aVThomas Robinson SAC 02/19/2013 SAC vs. SAS L 10 2 1 4 25.0 0 0 - 0 0 - 2 5 7 1 0 0 0 1 5
+p286
+aVJason Thompson SAC 02/19/2013 SAC vs. SAS L 34 11 4 10 40.0 0 0 - 3 3 100.0 1 7 8 2 1 0 1 3 -14
+p287
+aVMarcus Thornton SAC 02/19/2013 SAC vs. SAS L 24 16 6 16 37.5 4 9 44.4 0 0 - 0 4 4 0 1 0 0 1 8
+p288
+aVIsaiah Thomas SAC 02/19/2013 SAC vs. SAS L 31 22 6 10 60.0 2 4 50.0 8 8 100.0 0 2 2 4 0 0 2 3 -3
+p289
+aVFrancisco Garcia SAC 02/19/2013 SAC vs. SAS L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 5
+p290
+aVDeMarcus Cousins SAC 02/19/2013 SAC vs. SAS L 27 11 3 8 37.5 0 0 - 5 8 62.5 3 4 7 4 0 2 3 4 -10
+p291
+aVCharles Hayes SAC 02/19/2013 SAC vs. SAS L 21 4 2 5 40.0 0 0 - 0 0 - 2 1 3 2 0 0 1 4 4
+p292
+aVTyreke Evans SAC 02/19/2013 SAC vs. SAS L 31 20 6 15 40.0 1 3 33.3 7 8 87.5 0 5 5 1 3 0 0 3 -12
+p293
+aVJimmer Fredette SAC 02/19/2013 SAC vs. SAS L 21 10 4 12 33.3 2 5 40.0 0 0 - 1 1 2 3 2 0 0 0 0
+p294
+aVTyreke Evans SAC 02/13/2013 SAC @ DAL L 37 23 8 12 66.7 0 2 0.0 7 7 100.0 1 1 2 1 3 0 5 3 -19
+p295
+aVIsaiah Thomas SAC 02/13/2013 SAC @ DAL L 29 12 4 12 33.3 1 4 25.0 3 3 100.0 0 1 1 3 0 0 2 3 -21
+p296
+aVFrancisco Garcia SAC 02/13/2013 SAC @ DAL L 24 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 2 1 1 0 2 -16
+p297
+aVCharles Hayes SAC 02/13/2013 SAC @ DAL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 0
+p298
+aVJames Johnson SAC 02/13/2013 SAC @ DAL L 25 16 6 11 54.5 0 0 - 4 5 80.0 1 5 6 4 0 0 4 1 -23
+p299
+aVJason Thompson SAC 02/13/2013 SAC @ DAL L 36 17 6 11 54.5 0 0 - 5 6 83.3 3 6 9 2 0 1 2 4 -21
+p300
+aVTravis Outlaw SAC 02/13/2013 SAC @ DAL L 6 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 1 -5
+p301
+aVTyler Honeycutt SAC 02/13/2013 SAC @ DAL L 5 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p302
+aVJimmer Fredette SAC 02/13/2013 SAC @ DAL L 19 3 1 7 14.3 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 2 -2
+p303
+aVDeMarcus Cousins SAC 02/13/2013 SAC @ DAL L 29 17 5 9 55.6 0 1 0.0 7 9 77.8 6 7 13 2 0 0 5 2 -5
+p304
+aVJohn Salmons SAC 02/13/2013 SAC @ DAL L 27 6 1 5 20.0 1 1 100.0 3 4 75.0 0 4 4 3 2 0 0 3 -3
+p305
+aVTyreke Evans SAC 02/12/2013 SAC @ MEM L 32 20 10 17 58.8 0 1 0.0 0 4 0.0 3 4 7 3 0 0 0 1 0
+p306
+aVJohn Salmons SAC 02/12/2013 SAC @ MEM L 30 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 2 1 1 0 2 -4
+p307
+aVFrancisco Garcia SAC 02/12/2013 SAC @ MEM L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 1 2 1 -2
+p308
+aVAaron Brooks SAC 02/12/2013 SAC @ MEM L 20 10 4 6 66.7 0 0 - 2 2 100.0 0 0 0 4 2 0 1 4 4
+p309
+aVJason Thompson SAC 02/12/2013 SAC @ MEM L 28 15 7 11 63.6 0 0 - 1 1 100.0 1 5 6 0 1 0 2 4 -2
+p310
+aVDeMarcus Cousins SAC 02/12/2013 SAC @ MEM L 36 23 8 15 53.3 0 0 - 7 9 77.8 3 4 7 4 5 0 3 5 -15
+p311
+aVMarcus Thornton SAC 02/12/2013 SAC @ MEM L 21 15 4 12 33.3 3 7 42.9 4 5 80.0 1 0 1 0 1 0 2 1 -8
+p312
+aVCharles Hayes SAC 02/12/2013 SAC @ MEM L 18 0 0 3 0.0 0 0 - 0 0 - 1 3 4 2 1 0 1 1 1
+p313
+aVIsaiah Thomas SAC 02/12/2013 SAC @ MEM L 28 11 4 9 44.4 0 3 0.0 3 3 100.0 0 0 0 3 1 0 1 2 -11
+p314
+aVThomas Robinson SAC 02/12/2013 SAC @ MEM L 15 2 1 6 16.7 0 0 - 0 0 - 3 3 6 1 0 0 2 3 2
+p315
+aVJason Thompson SAC 02/10/2013 SAC vs. HOU W 33 12 6 10 60.0 0 0 - 0 0 - 2 5 7 1 1 2 1 4 7
+p316
+aVCharles Hayes SAC 02/10/2013 SAC vs. HOU W 24 8 2 4 50.0 0 0 - 4 4 100.0 3 9 12 3 1 0 0 2 6
+p317
+aVThomas Robinson SAC 02/10/2013 SAC vs. HOU W 15 6 3 11 27.3 0 0 - 0 0 - 6 1 7 0 1 0 2 1 -3
+p318
+aVIsaiah Thomas SAC 02/10/2013 SAC vs. HOU W 33 23 4 10 40.0 2 3 66.7 13 13 100.0 0 1 1 6 2 0 2 1 11
+p319
+aVJimmer Fredette SAC 02/10/2013 SAC vs. HOU W 8 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 -8
+p320
+aVJohn Salmons SAC 02/10/2013 SAC vs. HOU W 36 23 6 14 42.9 4 7 57.1 7 7 100.0 0 1 1 6 2 0 2 1 1
+p321
+aVTyreke Evans SAC 02/10/2013 SAC vs. HOU W 23 6 3 7 42.9 0 1 0.0 0 0 - 2 2 4 4 1 0 2 4 -5
+p322
+aVFrancisco Garcia SAC 02/10/2013 SAC vs. HOU W 18 11 4 7 57.1 3 4 75.0 0 0 - 0 3 3 1 1 0 1 1 14
+p323
+aVAaron Brooks SAC 02/10/2013 SAC vs. HOU W 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p324
+aVMarcus Thornton SAC 02/10/2013 SAC vs. HOU W 19 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 0 2 0 4
+p325
+aVDeMarcus Cousins SAC 02/10/2013 SAC vs. HOU W 24 20 9 14 64.3 0 0 - 2 3 66.7 1 6 7 1 0 0 1 5 0
+p326
+aVTyreke Evans SAC 02/09/2013 SAC vs. UTA W 30 12 4 10 40.0 0 1 0.0 4 4 100.0 2 2 4 6 2 0 1 0 11
+p327
+aVFrancisco Garcia SAC 02/09/2013 SAC vs. UTA W 18 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 4 1 2 0
+p328
+aVIsaiah Thomas SAC 02/09/2013 SAC vs. UTA W 33 25 10 16 62.5 2 4 50.0 3 3 100.0 0 4 4 3 3 0 3 4 21
+p329
+aVMarcus Thornton SAC 02/09/2013 SAC vs. UTA W 27 24 7 14 50.0 2 5 40.0 8 9 88.9 0 1 1 2 0 0 1 2 -9
+p330
+aVJason Thompson SAC 02/09/2013 SAC vs. UTA W 36 21 9 11 81.8 0 0 - 3 5 60.0 4 3 7 0 1 1 0 3 20
+p331
+aVDeMarcus Cousins SAC 02/09/2013 SAC vs. UTA W 29 13 4 9 44.4 0 0 - 5 9 55.6 2 9 11 6 3 0 6 5 2
+p332
+aVCharles Hayes SAC 02/09/2013 SAC vs. UTA W 19 1 0 1 0.0 0 0 - 1 4 25.0 3 4 7 2 1 1 0 5 9
+p333
+aVThomas Robinson SAC 02/09/2013 SAC vs. UTA W 12 2 1 2 50.0 0 0 - 0 0 - 3 1 4 1 0 0 2 3 -9
+p334
+aVJimmer Fredette SAC 02/09/2013 SAC vs. UTA W 15 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 3 1 0 2 0 -10
+p335
+aVJohn Salmons SAC 02/09/2013 SAC vs. UTA W 21 11 4 11 36.4 3 8 37.5 0 1 0.0 1 1 2 4 0 0 0 0 20
+p336
+aVIsaiah Thomas SAC 02/04/2013 SAC @ UTA L 38 17 6 13 46.2 2 4 50.0 3 3 100.0 0 2 2 3 1 0 1 1 0
+p337
+aVThomas Robinson SAC 02/04/2013 SAC @ UTA L 15 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 3 -6
+p338
+aVMarcus Thornton SAC 02/04/2013 SAC @ UTA L 26 9 3 12 25.0 1 6 16.7 2 2 100.0 1 2 3 1 2 0 0 1 -14
+p339
+aVJimmer Fredette SAC 02/04/2013 SAC @ UTA L 13 2 0 5 0.0 0 3 0.0 2 2 100.0 1 1 2 1 1 0 3 1 -8
+p340
+aVJohn Salmons SAC 02/04/2013 SAC @ UTA L 36 2 1 9 11.1 0 4 0.0 0 0 - 0 3 3 2 1 1 1 3 3
+p341
+aVTyreke Evans SAC 02/04/2013 SAC @ UTA L 40 20 7 15 46.7 0 3 0.0 6 10 60.0 2 0 2 3 0 0 2 3 4
+p342
+aVCharles Hayes SAC 02/04/2013 SAC @ UTA L 26 2 1 2 50.0 0 0 - 0 0 - 3 2 5 1 1 0 1 2 -5
+p343
+aVDeMarcus Cousins SAC 02/04/2013 SAC @ UTA L 19 10 5 8 62.5 0 0 - 0 0 - 0 6 6 2 2 1 3 2 -2
+p344
+aVJames Johnson SAC 02/04/2013 SAC @ UTA L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 1 1 1 -6
+p345
+aVJason Thompson SAC 02/04/2013 SAC @ UTA L 45 23 9 18 50.0 0 0 - 5 8 62.5 5 5 10 0 2 1 1 4 -1
+p346
+aVFrancisco Garcia SAC 02/02/2013 SAC @ NYK L 22 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 1 -21
+p347
+aVMarcus Thornton SAC 02/02/2013 SAC @ NYK L 8 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 1 0 1 2 -21
+p348
+aVIsaiah Thomas SAC 02/02/2013 SAC @ NYK L 36 8 3 13 23.1 2 7 28.6 0 0 - 0 4 4 6 1 0 1 2 -7
+p349
+aVTravis Outlaw SAC 02/02/2013 SAC @ NYK L 19 6 2 6 33.3 0 2 0.0 2 4 50.0 0 1 1 1 1 0 0 1 -11
+p350
+aVJohn Salmons SAC 02/02/2013 SAC @ NYK L 24 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 1 0 0 3 3 -27
+p351
+aVTyreke Evans SAC 02/02/2013 SAC @ NYK L 31 7 3 10 30.0 0 0 - 1 2 50.0 1 3 4 4 1 1 3 1 -30
+p352
+aVCharles Hayes SAC 02/02/2013 SAC @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -11
+p353
+aVJimmer Fredette SAC 02/02/2013 SAC @ NYK L 23 14 6 8 75.0 2 3 66.7 0 0 - 0 2 2 1 0 0 2 2 -19
+p354
+aVThomas Robinson SAC 02/02/2013 SAC @ NYK L 26 11 4 8 50.0 0 0 - 3 4 75.0 2 2 4 0 1 1 2 1 -12
+p355
+aVJason Thompson SAC 02/02/2013 SAC @ NYK L 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 1 0 1 0 -2
+p356
+aVDeMarcus Cousins SAC 02/02/2013 SAC @ NYK L 33 25 10 14 71.4 0 1 0.0 5 5 100.0 1 8 9 1 1 0 3 2 -34
+p357
+aVThomas Robinson SAC 02/01/2013 SAC @ PHI L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -2
+p358
+aVCharles Hayes SAC 02/01/2013 SAC @ PHI L 5 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 0 -8
+p359
+aVAaron Brooks SAC 02/01/2013 SAC @ PHI L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -13
+p360
+aVFrancisco Garcia SAC 02/01/2013 SAC @ PHI L 20 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 2 3 1 0 2 -13
+p361
+aVJohn Salmons SAC 02/01/2013 SAC @ PHI L 33 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 3 1 0 0 0 11
+p362
+aVJason Thompson SAC 02/01/2013 SAC @ PHI L 31 6 3 9 33.3 0 0 - 0 0 - 1 3 4 0 1 0 1 3 -11
+p363
+aVIsaiah Thomas SAC 02/01/2013 SAC @ PHI L 33 24 7 18 38.9 0 3 0.0 10 10 100.0 0 4 4 5 1 0 2 2 11
+p364
+aVMarcus Thornton SAC 02/01/2013 SAC @ PHI L 23 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 2 2 0 0 1 -15
+p365
+aVDeMarcus Cousins SAC 02/01/2013 SAC @ PHI L 35 12 6 13 46.2 0 0 - 0 3 0.0 5 7 12 4 2 3 4 4 -2
+p366
+aVTyreke Evans SAC 02/01/2013 SAC @ PHI L 42 29 11 18 61.1 1 2 50.0 6 8 75.0 0 4 4 4 2 0 3 3 6
+p367
+aVJimmer Fredette SAC 02/01/2013 SAC @ PHI L 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -9
+p368
+aVFrancisco Garcia SAC 01/30/2013 SAC @ BOS L 21 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 0 0 0 3 0 -15
+p369
+aVJason Thompson SAC 01/30/2013 SAC @ BOS L 21 9 4 7 57.1 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 -14
+p370
+aVTravis Outlaw SAC 01/30/2013 SAC @ BOS L 4 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p371
+aVThomas Robinson SAC 01/30/2013 SAC @ BOS L 21 11 4 5 80.0 0 0 - 3 6 50.0 1 3 4 1 1 0 2 4 2
+p372
+aVTyler Honeycutt SAC 01/30/2013 SAC @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p373
+aVJimmer Fredette SAC 01/30/2013 SAC @ BOS L 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 0 7
+p374
+aVJames Johnson SAC 01/30/2013 SAC @ BOS L 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p375
+aVMarcus Thornton SAC 01/30/2013 SAC @ BOS L 27 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 1 3 0 0 4 -4
+p376
+aVIsaiah Thomas SAC 01/30/2013 SAC @ BOS L 24 8 2 10 20.0 1 4 25.0 3 4 75.0 0 3 3 1 3 0 0 0 -11
+p377
+aVAaron Brooks SAC 01/30/2013 SAC @ BOS L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -14
+p378
+aVDeMarcus Cousins SAC 01/30/2013 SAC @ BOS L 33 13 4 12 33.3 0 1 0.0 5 8 62.5 2 4 6 4 1 1 5 4 -19
+p379
+aVTyreke Evans SAC 01/30/2013 SAC @ BOS L 41 19 7 15 46.7 1 2 50.0 4 4 100.0 3 8 11 2 3 0 4 3 -9
+p380
+aVCharles Hayes SAC 01/30/2013 SAC @ BOS L 21 2 1 3 33.3 0 0 - 0 0 - 3 2 5 2 0 0 0 2 -5
+p381
+aVJohn Salmons SAC 01/28/2013 SAC @ WAS W 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p382
+aVIsaiah Thomas SAC 01/28/2013 SAC @ WAS W 32 22 9 16 56.3 1 4 25.0 3 7 42.9 0 4 4 7 0 0 1 0 2
+p383
+aVMarcus Thornton SAC 01/28/2013 SAC @ WAS W 24 11 4 12 33.3 3 7 42.9 0 0 - 0 4 4 2 1 0 1 1 9
+p384
+aVDeMarcus Cousins SAC 01/28/2013 SAC @ WAS W 26 12 5 8 62.5 0 0 - 2 4 50.0 1 3 4 1 2 1 3 3 -15
+p385
+aVCharles Hayes SAC 01/28/2013 SAC @ WAS W 22 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 1 0 0 1 13
+p386
+aVJames Johnson SAC 01/28/2013 SAC @ WAS W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 0
+p387
+aVThomas Robinson SAC 01/28/2013 SAC @ WAS W 28 9 4 10 40.0 0 0 - 1 1 100.0 2 1 3 2 1 2 1 3 2
+p388
+aVJason Thompson SAC 01/28/2013 SAC @ WAS W 14 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 1 0 0 3 -4
+p389
+aVTyreke Evans SAC 01/28/2013 SAC @ WAS W 36 13 4 10 40.0 0 2 0.0 5 8 62.5 0 5 5 6 4 0 3 3 -3
+p390
+aVFrancisco Garcia SAC 01/28/2013 SAC @ WAS W 26 17 6 10 60.0 4 6 66.7 1 1 100.0 0 3 3 1 3 0 1 3 0
+p391
+aVJimmer Fredette SAC 01/28/2013 SAC @ WAS W 14 7 2 4 50.0 1 2 50.0 2 2 100.0 1 0 1 4 1 0 0 1 11
+p392
+aVTyreke Evans SAC 01/26/2013 SAC @ DEN L 22 15 5 8 62.5 2 2 100.0 3 6 50.0 1 2 3 1 0 0 1 0 -18
+p393
+aVFrancisco Garcia SAC 01/26/2013 SAC @ DEN L 16 3 1 4 25.0 0 2 0.0 1 1 100.0 1 1 2 0 0 1 1 3 0
+p394
+aVAaron Brooks SAC 01/26/2013 SAC @ DEN L 27 16 7 13 53.8 1 3 33.3 1 1 100.0 0 2 2 2 1 0 2 1 -4
+p395
+aVTravis Outlaw SAC 01/26/2013 SAC @ DEN L 6 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -3
+p396
+aVThomas Robinson SAC 01/26/2013 SAC @ DEN L 23 10 3 7 42.9 0 0 - 4 10 40.0 3 7 10 1 0 0 2 1 6
+p397
+aVJohn Salmons SAC 01/26/2013 SAC @ DEN L 23 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 3 0 0 3 2 -27
+p398
+aVJason Thompson SAC 01/26/2013 SAC @ DEN L 20 7 3 6 50.0 0 0 - 1 2 50.0 2 3 5 0 1 0 2 4 -26
+p399
+aVIsaiah Thomas SAC 01/26/2013 SAC @ DEN L 21 10 5 10 50.0 0 1 0.0 0 0 - 0 3 3 3 0 0 2 3 -24
+p400
+aVCharles Hayes SAC 01/26/2013 SAC @ DEN L 17 4 2 4 50.0 0 0 - 0 0 - 5 3 8 2 0 2 0 0 -4
+p401
+aVDeMarcus Cousins SAC 01/26/2013 SAC @ DEN L 22 3 1 6 16.7 0 0 - 1 2 50.0 0 2 2 4 4 1 2 1 -22
+p402
+aVJimmer Fredette SAC 01/26/2013 SAC @ DEN L 16 5 2 8 25.0 1 6 16.7 0 0 - 0 2 2 1 2 0 1 0 -4
+p403
+aVMarcus Thornton SAC 01/26/2013 SAC @ DEN L 10 8 3 5 60.0 2 4 50.0 0 0 - 1 0 1 1 0 0 2 0 -6
+p404
+aVJames Johnson SAC 01/26/2013 SAC @ DEN L 18 4 2 7 28.6 0 0 - 0 0 - 0 0 0 1 0 1 1 0 -8
+p405
+aVTyreke Evans SAC 01/25/2013 SAC vs. OKC L 32 16 6 11 54.5 1 1 100.0 3 4 75.0 0 4 4 3 1 0 1 2 -2
+p406
+aVJohn Salmons SAC 01/25/2013 SAC vs. OKC L 28 5 2 5 40.0 1 2 50.0 0 0 - 1 7 8 2 1 0 0 3 -16
+p407
+aVJimmer Fredette SAC 01/25/2013 SAC vs. OKC L 18 6 2 8 25.0 2 3 66.7 0 0 - 2 1 3 1 0 0 1 1 3
+p408
+aVMarcus Thornton SAC 01/25/2013 SAC vs. OKC L 25 13 4 8 50.0 3 5 60.0 2 2 100.0 0 2 2 0 4 0 2 4 -18
+p409
+aVJames Johnson SAC 01/25/2013 SAC vs. OKC L 19 6 3 7 42.9 0 0 - 0 0 - 0 3 3 4 0 2 1 2 -9
+p410
+aVDeMarcus Cousins SAC 01/25/2013 SAC vs. OKC L 32 14 6 16 37.5 0 0 - 2 3 66.7 3 5 8 2 3 0 7 3 -9
+p411
+aVJason Thompson SAC 01/25/2013 SAC vs. OKC L 33 14 5 11 45.5 0 0 - 4 8 50.0 1 4 5 0 0 0 3 3 -2
+p412
+aVTravis Outlaw SAC 01/25/2013 SAC vs. OKC L 15 10 4 10 40.0 1 2 50.0 1 1 100.0 1 1 2 1 1 0 1 2 9
+p413
+aVIsaiah Thomas SAC 01/25/2013 SAC vs. OKC L 22 7 2 5 40.0 0 2 0.0 3 3 100.0 0 0 0 1 1 0 1 5 -3
+p414
+aVThomas Robinson SAC 01/25/2013 SAC vs. OKC L 17 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 1 1 2 -3
+p415
+aVJimmer Fredette SAC 01/23/2013 SAC vs. PHX L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 7
+p416
+aVThomas Robinson SAC 01/23/2013 SAC vs. PHX L 26 12 6 9 66.7 0 0 - 0 2 0.0 5 9 14 2 1 0 3 0 -11
+p417
+aVCharles Hayes SAC 01/23/2013 SAC vs. PHX L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p418
+aVJames Johnson SAC 01/23/2013 SAC vs. PHX L 22 14 6 9 66.7 0 0 - 2 3 66.7 3 3 6 1 1 4 4 2 -3
+p419
+aVDeMarcus Cousins SAC 01/23/2013 SAC vs. PHX L 37 15 7 18 38.9 1 1 100.0 0 0 - 5 10 15 5 2 1 6 5 -3
+p420
+aVAaron Brooks SAC 01/23/2013 SAC vs. PHX L 15 8 2 3 66.7 1 1 100.0 3 4 75.0 0 0 0 1 0 1 4 3 -11
+p421
+aVIsaiah Thomas SAC 01/23/2013 SAC vs. PHX L 29 6 2 10 20.0 0 3 0.0 2 2 100.0 0 0 0 7 0 0 3 3 -7
+p422
+aVTravis Outlaw SAC 01/23/2013 SAC vs. PHX L 7 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 1 8
+p423
+aVMarcus Thornton SAC 01/23/2013 SAC vs. PHX L 15 8 2 5 40.0 1 4 25.0 3 3 100.0 0 0 0 1 1 0 0 3 -6
+p424
+aVJason Thompson SAC 01/23/2013 SAC vs. PHX L 10 4 2 6 33.3 0 0 - 0 0 - 2 1 3 1 0 0 1 3 -4
+p425
+aVTyreke Evans SAC 01/23/2013 SAC vs. PHX L 33 16 6 14 42.9 1 1 100.0 3 4 75.0 3 3 6 4 2 1 3 0 -3
+p426
+aVJohn Salmons SAC 01/23/2013 SAC vs. PHX L 31 6 2 2 100.0 0 0 - 2 6 33.3 0 2 2 0 0 2 0 2 -10
+p427
+aVJames Johnson SAC 01/21/2013 SAC @ NOH L 12 6 1 5 20.0 0 0 - 4 5 80.0 0 1 1 0 0 1 0 0 -8
+p428
+aVFrancisco Garcia SAC 01/21/2013 SAC @ NOH L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p429
+aVTyreke Evans SAC 01/21/2013 SAC @ NOH L 37 16 5 12 41.7 0 2 0.0 6 7 85.7 0 2 2 4 2 0 1 3 -7
+p430
+aVIsaiah Thomas SAC 01/21/2013 SAC @ NOH L 40 20 8 14 57.1 1 1 100.0 3 3 100.0 0 1 1 3 1 0 4 5 -8
+p431
+aVTravis Outlaw SAC 01/21/2013 SAC @ NOH L 16 10 3 6 50.0 1 2 50.0 3 4 75.0 0 2 2 1 0 0 0 1 12
+p432
+aVDeMarcus Cousins SAC 01/21/2013 SAC @ NOH L 41 29 11 17 64.7 0 2 0.0 7 9 77.8 6 7 13 3 0 0 2 5 -8
+p433
+aVThomas Robinson SAC 01/21/2013 SAC @ NOH L 10 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -2
+p434
+aVAaron Brooks SAC 01/21/2013 SAC @ NOH L 8 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p435
+aVMarcus Thornton SAC 01/21/2013 SAC @ NOH L 11 4 2 9 22.2 0 3 0.0 0 0 - 2 2 4 1 1 0 0 1 -2
+p436
+aVJohn Salmons SAC 01/21/2013 SAC @ NOH L 29 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 4 1 0 0 2 -7
+p437
+aVCharles Hayes SAC 01/21/2013 SAC @ NOH L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p438
+aVJason Thompson SAC 01/21/2013 SAC @ NOH L 17 7 3 4 75.0 0 0 - 1 2 50.0 2 4 6 1 0 0 3 2 -7
+p439
+aVJason Thompson SAC 01/19/2013 SAC @ CHA W 32 11 5 6 83.3 0 0 - 1 2 50.0 1 3 4 2 1 0 0 2 5
+p440
+aVMarcus Thornton SAC 01/19/2013 SAC @ CHA W 27 18 6 11 54.5 4 7 57.1 2 2 100.0 0 1 1 0 0 0 0 2 -8
+p441
+aVJames Johnson SAC 01/19/2013 SAC @ CHA W 19 9 4 8 50.0 0 1 0.0 1 1 100.0 3 6 9 1 0 2 0 4 -2
+p442
+aVFrancisco Garcia SAC 01/19/2013 SAC @ CHA W 17 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 0 3 1
+p443
+aVCharles Hayes SAC 01/19/2013 SAC @ CHA W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p444
+aVThomas Robinson SAC 01/19/2013 SAC @ CHA W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p445
+aVTyreke Evans SAC 01/19/2013 SAC @ CHA W 26 16 6 10 60.0 0 1 0.0 4 4 100.0 0 3 3 4 2 0 2 5 7
+p446
+aVJohn Salmons SAC 01/19/2013 SAC @ CHA W 26 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 3 2 6
+p447
+aVIsaiah Thomas SAC 01/19/2013 SAC @ CHA W 30 15 4 11 36.4 0 4 0.0 7 8 87.5 2 3 5 7 2 0 0 4 8
+p448
+aVDeMarcus Cousins SAC 01/19/2013 SAC @ CHA W 38 17 8 19 42.1 0 0 - 1 2 50.0 2 8 10 4 1 0 5 4 7
+p449
+aVAaron Brooks SAC 01/19/2013 SAC @ CHA W 18 2 0 4 0.0 0 2 0.0 2 2 100.0 0 2 2 3 0 0 1 1 -2
+p450
+aVJimmer Fredette SAC 01/18/2013 SAC @ MEM L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 1 3
+p451
+aVMarcus Thornton SAC 01/18/2013 SAC @ MEM L 20 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 0 2 0 1 0 -5
+p452
+aVJohn Salmons SAC 01/18/2013 SAC @ MEM L 31 6 3 6 50.0 0 1 0.0 0 0 - 1 3 4 2 2 3 2 2 -4
+p453
+aVDeMarcus Cousins SAC 01/18/2013 SAC @ MEM L 38 22 9 19 47.4 0 0 - 4 6 66.7 4 8 12 1 2 1 3 5 -5
+p454
+aVAaron Brooks SAC 01/18/2013 SAC @ MEM L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p455
+aVJames Johnson SAC 01/18/2013 SAC @ MEM L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -5
+p456
+aVJason Thompson SAC 01/18/2013 SAC @ MEM L 21 3 1 6 16.7 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 -11
+p457
+aVTravis Outlaw SAC 01/18/2013 SAC @ MEM L 16 8 3 6 50.0 2 3 66.7 0 0 - 1 3 4 0 0 0 0 0 -1
+p458
+aVThomas Robinson SAC 01/18/2013 SAC @ MEM L 14 2 1 5 20.0 0 0 - 0 0 - 3 1 4 1 0 1 0 0 -11
+p459
+aVTyreke Evans SAC 01/18/2013 SAC @ MEM L 28 8 3 10 30.0 0 0 - 2 2 100.0 1 6 7 0 0 1 4 2 -11
+p460
+aVIsaiah Thomas SAC 01/18/2013 SAC @ MEM L 29 9 4 12 33.3 0 2 0.0 1 2 50.0 0 0 0 5 2 0 1 1 -12
+p461
+aVCharles Hayes SAC 01/18/2013 SAC @ MEM L 8 5 2 5 40.0 0 0 - 1 3 33.3 1 2 3 0 0 0 1 0 -4
+p462
+aVFrancisco Garcia SAC 01/18/2013 SAC @ MEM L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p463
+aVDeMarcus Cousins SAC 01/16/2013 SAC vs. WAS W 43 21 9 19 47.4 0 0 - 3 3 100.0 4 12 16 5 3 0 6 5 9
+p464
+aVIsaiah Thomas SAC 01/16/2013 SAC vs. WAS W 20 2 1 4 25.0 0 2 0.0 0 2 0.0 0 0 0 4 1 0 1 0 -7
+p465
+aVFrancisco Garcia SAC 01/16/2013 SAC vs. WAS W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 2 -3
+p466
+aVCharles Hayes SAC 01/16/2013 SAC vs. WAS W 21 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 1 0 2 1 3
+p467
+aVMarcus Thornton SAC 01/16/2013 SAC vs. WAS W 8 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 0 0 0 1 1 -2
+p468
+aVThomas Robinson SAC 01/16/2013 SAC vs. WAS W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -4
+p469
+aVTyreke Evans SAC 01/16/2013 SAC vs. WAS W 40 21 8 15 53.3 1 1 100.0 4 7 57.1 0 8 8 8 3 0 2 2 3
+p470
+aVJason Thompson SAC 01/16/2013 SAC vs. WAS W 22 6 3 8 37.5 0 0 - 0 0 - 1 1 2 0 0 0 2 5 -4
+p471
+aVJames Johnson SAC 01/16/2013 SAC vs. WAS W 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p472
+aVJimmer Fredette SAC 01/16/2013 SAC vs. WAS W 21 12 5 11 45.5 2 3 66.7 0 0 - 0 0 0 2 1 0 0 3 9
+p473
+aVAaron Brooks SAC 01/16/2013 SAC vs. WAS W 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p474
+aVJohn Salmons SAC 01/16/2013 SAC vs. WAS W 43 21 9 15 60.0 2 3 66.7 1 1 100.0 2 2 4 2 1 0 2 1 4
+p475
+aVTyreke Evans SAC 01/14/2013 SAC vs. CLE W 25 18 6 6 100.0 2 2 100.0 4 4 100.0 1 3 4 0 0 0 2 2 3
+p476
+aVJohn Salmons SAC 01/14/2013 SAC vs. CLE W 32 14 5 12 41.7 1 4 25.0 3 4 75.0 2 0 2 4 2 1 0 2 -6
+p477
+aVDeMarcus Cousins SAC 01/14/2013 SAC vs. CLE W 32 26 7 14 50.0 0 0 - 12 12 100.0 3 11 14 6 2 3 3 5 2
+p478
+aVJimmer Fredette SAC 01/14/2013 SAC vs. CLE W 14 16 5 8 62.5 3 4 75.0 3 3 100.0 0 1 1 1 0 1 1 3 7
+p479
+aVFrancisco Garcia SAC 01/14/2013 SAC vs. CLE W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 1 0 1 12
+p480
+aVCharles Hayes SAC 01/14/2013 SAC vs. CLE W 14 4 1 2 50.0 0 0 - 2 4 50.0 3 1 4 1 1 0 1 3 7
+p481
+aVJason Thompson SAC 01/14/2013 SAC vs. CLE W 22 6 2 9 22.2 0 0 - 2 2 100.0 3 1 4 1 0 0 0 4 -5
+p482
+aVIsaiah Thomas SAC 01/14/2013 SAC vs. CLE W 31 6 2 8 25.0 0 3 0.0 2 2 100.0 0 2 2 6 1 0 1 3 -2
+p483
+aVThomas Robinson SAC 01/14/2013 SAC vs. CLE W 28 12 6 10 60.0 0 0 - 0 0 - 4 3 7 2 0 1 0 3 8
+p484
+aVMarcus Thornton SAC 01/14/2013 SAC vs. CLE W 30 20 8 14 57.1 3 6 50.0 1 2 50.0 0 1 1 1 2 0 3 2 4
+p485
+aVIsaiah Thomas SAC 01/12/2013 SAC vs. MIA L 33 34 13 22 59.1 6 8 75.0 2 3 66.7 0 2 2 5 1 0 3 3 -17
+p486
+aVJames Johnson SAC 01/12/2013 SAC vs. MIA L 16 11 5 8 62.5 0 0 - 1 3 33.3 2 0 2 1 0 0 1 4 1
+p487
+aVJohn Salmons SAC 01/12/2013 SAC vs. MIA L 19 0 0 3 0.0 0 0 - 0 0 - 0 2 2 3 0 0 2 2 -28
+p488
+aVCharles Hayes SAC 01/12/2013 SAC vs. MIA L 14 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 1 0 0 0 -3
+p489
+aVTyler Honeycutt SAC 01/12/2013 SAC vs. MIA L 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p490
+aVJason Thompson SAC 01/12/2013 SAC vs. MIA L 22 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 0 1 1 0 -14
+p491
+aVDeMarcus Cousins SAC 01/12/2013 SAC vs. MIA L 33 11 4 11 36.4 0 0 - 3 3 100.0 3 5 8 4 1 0 3 2 -26
+p492
+aVMarcus Thornton SAC 01/12/2013 SAC vs. MIA L 21 5 2 8 25.0 1 4 25.0 0 0 - 1 0 1 1 0 0 1 2 -10
+p493
+aVTyreke Evans SAC 01/12/2013 SAC vs. MIA L 25 8 2 9 22.2 0 0 - 4 6 66.7 2 5 7 2 1 0 3 1 -4
+p494
+aVJimmer Fredette SAC 01/12/2013 SAC vs. MIA L 15 9 3 6 50.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 1 0 -12
+p495
+aVFrancisco Garcia SAC 01/12/2013 SAC vs. MIA L 14 3 1 4 25.0 1 4 25.0 0 0 - 0 3 3 0 0 1 1 2 -24
+p496
+aVThomas Robinson SAC 01/12/2013 SAC vs. MIA L 24 10 4 9 44.4 0 0 - 2 2 100.0 7 3 10 2 0 0 1 3 -11
+p497
+aVJames Johnson SAC 01/10/2013 SAC vs. DAL L 10 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 3
+p498
+aVJimmer Fredette SAC 01/10/2013 SAC vs. DAL L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 1 0 1 2 -3
+p499
+aVCharles Hayes SAC 01/10/2013 SAC vs. DAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 0 9
+p500
+aVJohn Salmons SAC 01/10/2013 SAC vs. DAL L 38 11 4 15 26.7 3 10 30.0 0 0 - 0 1 1 4 2 0 4 6 -3
+p501
+aVAaron Brooks SAC 01/10/2013 SAC vs. DAL L 17 4 1 3 33.3 0 2 0.0 2 2 100.0 1 2 3 1 0 0 1 3 -2
+p502
+aVThomas Robinson SAC 01/10/2013 SAC vs. DAL L 13 2 1 3 33.3 0 0 - 0 0 - 1 9 10 0 0 2 3 3 -2
+p503
+aVFrancisco Garcia SAC 01/10/2013 SAC vs. DAL L 33 13 4 8 50.0 2 5 40.0 3 3 100.0 0 4 4 3 0 1 1 2 -9
+p504
+aVTyreke Evans SAC 01/10/2013 SAC vs. DAL L 32 20 8 11 72.7 0 1 0.0 4 5 80.0 1 6 7 2 2 3 1 0 -9
+p505
+aVIsaiah Thomas SAC 01/10/2013 SAC vs. DAL L 31 18 6 11 54.5 1 4 25.0 5 5 100.0 0 2 2 4 2 0 2 2 3
+p506
+aVMarcus Thornton SAC 01/10/2013 SAC vs. DAL L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p507
+aVDeMarcus Cousins SAC 01/10/2013 SAC vs. DAL L 39 29 9 14 64.3 0 0 - 11 17 64.7 3 6 9 4 1 1 5 6 -4
+p508
+aVJason Thompson SAC 01/10/2013 SAC vs. DAL L 30 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 2 5 -2
+p509
+aVAaron Brooks SAC 01/07/2013 SAC vs. MEM L 23 8 2 5 40.0 2 4 50.0 2 2 100.0 0 1 1 1 0 0 1 2 -21
+p510
+aVJason Thompson SAC 01/07/2013 SAC vs. MEM L 24 12 5 8 62.5 0 0 - 2 2 100.0 1 3 4 2 1 0 0 2 -6
+p511
+aVCharles Hayes SAC 01/07/2013 SAC vs. MEM L 9 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -4
+p512
+aVJimmer Fredette SAC 01/07/2013 SAC vs. MEM L 20 0 0 7 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -21
+p513
+aVFrancisco Garcia SAC 01/07/2013 SAC vs. MEM L 17 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 2 1 0 0 3 -2
+p514
+aVThomas Robinson SAC 01/07/2013 SAC vs. MEM L 21 8 4 8 50.0 0 0 - 0 0 - 5 7 12 0 1 0 4 2 -23
+p515
+aVTyreke Evans SAC 01/07/2013 SAC vs. MEM L 12 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 1 0 1 0 1 -9
+p516
+aVTyler Honeycutt SAC 01/07/2013 SAC vs. MEM L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 0 -6
+p517
+aVJohn Salmons SAC 01/07/2013 SAC vs. MEM L 30 17 7 12 58.3 3 4 75.0 0 0 - 0 0 0 2 1 0 1 2 -12
+p518
+aVDeMarcus Cousins SAC 01/07/2013 SAC vs. MEM L 27 10 3 9 33.3 0 0 - 4 5 80.0 2 6 8 1 1 0 4 3 -21
+p519
+aVTravis Outlaw SAC 01/07/2013 SAC vs. MEM L 5 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -4
+p520
+aVIsaiah Thomas SAC 01/07/2013 SAC vs. MEM L 29 9 2 12 16.7 0 7 0.0 5 6 83.3 0 2 2 4 0 0 1 3 -14
+p521
+aVJames Johnson SAC 01/07/2013 SAC vs. MEM L 15 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -17
+p522
+aVJimmer Fredette SAC 01/05/2013 SAC @ BKN L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -13
+p523
+aVTyler Honeycutt SAC 01/05/2013 SAC @ BKN L 5 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 0 1 0 1 2
+p524
+aVCharles Hayes SAC 01/05/2013 SAC @ BKN L 6 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -4
+p525
+aVThomas Robinson SAC 01/05/2013 SAC @ BKN L 17 8 4 7 57.1 0 0 - 0 2 0.0 4 2 6 0 2 0 0 0 -14
+p526
+aVDeMarcus Cousins SAC 01/05/2013 SAC @ BKN L 34 28 11 18 61.1 0 0 - 6 8 75.0 6 5 11 3 0 1 0 3 -14
+p527
+aVTravis Outlaw SAC 01/05/2013 SAC @ BKN L 18 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 1 0 1 0 1 3
+p528
+aVIsaiah Thomas SAC 01/05/2013 SAC @ BKN L 22 12 3 5 60.0 1 3 33.3 5 5 100.0 0 1 1 2 0 1 2 2 -8
+p529
+aVJason Thompson SAC 01/05/2013 SAC @ BKN L 26 15 7 16 43.8 0 0 - 1 4 25.0 4 0 4 1 0 0 2 2 -15
+p530
+aVJames Johnson SAC 01/05/2013 SAC @ BKN L 22 4 2 5 40.0 0 1 0.0 0 0 - 2 4 6 1 2 5 2 2 -10
+p531
+aVFrancisco Garcia SAC 01/05/2013 SAC @ BKN L 21 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 1 1 0 0 -10
+p532
+aVAaron Brooks SAC 01/05/2013 SAC @ BKN L 26 13 4 7 57.1 2 3 66.7 3 4 75.0 1 4 5 4 2 0 2 1 -12
+p533
+aVJohn Salmons SAC 01/05/2013 SAC @ BKN L 33 13 5 13 38.5 3 7 42.9 0 0 - 1 1 2 2 0 0 0 1 -5
+p534
+aVJohn Salmons SAC 01/04/2013 SAC @ TOR W 35 20 7 14 50.0 1 4 25.0 5 7 71.4 0 2 2 4 1 0 2 0 23
+p535
+aVAaron Brooks SAC 01/04/2013 SAC @ TOR W 17 7 3 4 75.0 1 1 100.0 0 0 - 1 0 1 3 2 0 2 4 -15
+p536
+aVIsaiah Thomas SAC 01/04/2013 SAC @ TOR W 31 11 4 6 66.7 0 1 0.0 3 4 75.0 0 3 3 6 0 0 1 2 24
+p537
+aVJason Thompson SAC 01/04/2013 SAC @ TOR W 30 14 7 11 63.6 0 0 - 0 0 - 0 6 6 0 0 0 0 1 27
+p538
+aVDeMarcus Cousins SAC 01/04/2013 SAC @ TOR W 33 31 11 18 61.1 0 0 - 9 12 75.0 6 14 20 4 2 0 4 4 18
+p539
+aVCharles Hayes SAC 01/04/2013 SAC @ TOR W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -11
+p540
+aVTyler Honeycutt SAC 01/04/2013 SAC @ TOR W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p541
+aVThomas Robinson SAC 01/04/2013 SAC @ TOR W 23 5 2 3 66.7 0 0 - 1 3 33.3 1 3 4 3 1 0 2 3 -6
+p542
+aVFrancisco Garcia SAC 01/04/2013 SAC @ TOR W 23 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 2 2 3 0 5 18
+p543
+aVJimmer Fredette SAC 01/04/2013 SAC @ TOR W 15 4 1 3 33.3 1 1 100.0 1 2 50.0 0 0 0 1 0 0 3 0 -16
+p544
+aVJames Johnson SAC 01/04/2013 SAC @ TOR W 27 8 3 8 37.5 0 0 - 2 2 100.0 1 2 3 0 1 2 3 3 -10
+p545
+aVFrancisco Garcia SAC 01/02/2013 SAC @ CLE W 34 14 6 13 46.2 2 6 33.3 0 0 - 1 5 6 2 2 2 0 2 11
+p546
+aVJames Johnson SAC 01/02/2013 SAC @ CLE W 16 8 2 6 33.3 0 0 - 4 5 80.0 1 3 4 0 0 0 1 3 -9
+p547
+aVAaron Brooks SAC 01/02/2013 SAC @ CLE W 29 13 6 10 60.0 0 2 0.0 1 2 50.0 1 1 2 3 1 0 0 1 1
+p548
+aVIsaiah Thomas SAC 01/02/2013 SAC @ CLE W 19 8 3 8 37.5 0 2 0.0 2 3 66.7 0 1 1 4 1 0 1 1 4
+p549
+aVDeMarcus Cousins SAC 01/02/2013 SAC @ CLE W 34 18 7 17 41.2 0 0 - 4 4 100.0 7 9 16 6 2 1 1 3 13
+p550
+aVJimmer Fredette SAC 01/02/2013 SAC @ CLE W 15 6 1 5 20.0 0 2 0.0 4 5 80.0 0 0 0 0 0 0 2 1 -7
+p551
+aVCharles Hayes SAC 01/02/2013 SAC @ CLE W 17 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 1 0 0 0 -9
+p552
+aVThomas Robinson SAC 01/02/2013 SAC @ CLE W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p553
+aVJason Thompson SAC 01/02/2013 SAC @ CLE W 36 19 8 16 50.0 0 0 - 3 4 75.0 3 7 10 2 0 3 1 3 4
+p554
+aVJohn Salmons SAC 01/02/2013 SAC @ CLE W 32 7 3 6 50.0 1 4 25.0 0 0 - 1 2 3 3 1 0 3 5 10
+p555
+aVFrancisco Garcia SAC 01/01/2013 SAC @ DET L 24 5 1 5 20.0 1 3 33.3 2 2 100.0 1 0 1 2 3 0 1 1 2
+p556
+aVAaron Brooks SAC 01/01/2013 SAC @ DET L 22 7 2 8 25.0 1 6 16.7 2 2 100.0 0 3 3 3 0 0 1 4 -6
+p557
+aVJames Johnson SAC 01/01/2013 SAC @ DET L 25 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 0 0 2 2 4 -14
+p558
+aVIsaiah Thomas SAC 01/01/2013 SAC @ DET L 26 12 4 10 40.0 2 5 40.0 2 2 100.0 0 2 2 2 1 0 4 0 0
+p559
+aVCharles Hayes SAC 01/01/2013 SAC @ DET L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -13
+p560
+aVThomas Robinson SAC 01/01/2013 SAC @ DET L 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p561
+aVDeMarcus Cousins SAC 01/01/2013 SAC @ DET L 36 21 10 21 47.6 0 0 - 1 2 50.0 8 6 14 2 3 0 2 5 -7
+p562
+aVJohn Salmons SAC 01/01/2013 SAC @ DET L 28 10 4 9 44.4 2 5 40.0 0 0 - 0 1 1 6 1 0 2 2 2
+p563
+aVJimmer Fredette SAC 01/01/2013 SAC @ DET L 24 14 4 10 40.0 3 5 60.0 3 3 100.0 0 1 1 1 0 0 0 2 -5
+p564
+aVTravis Outlaw SAC 01/01/2013 SAC @ DET L 14 6 2 4 50.0 0 1 0.0 2 4 50.0 3 1 4 0 2 0 0 0 10
+p565
+aVJason Thompson SAC 01/01/2013 SAC @ DET L 33 16 6 10 60.0 0 0 - 4 6 66.7 2 4 6 1 0 1 0 1 7
+p566
+aVThomas Robinson SAC 12/30/2012 SAC vs. BOS W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 2 2 2 -6
+p567
+aVMarcus Thornton SAC 12/30/2012 SAC vs. BOS W 19 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 0 0 0 1 1 6
+p568
+aVJames Johnson SAC 12/30/2012 SAC vs. BOS W 22 10 3 5 60.0 1 1 100.0 3 3 100.0 1 5 6 3 2 3 3 2 11
+p569
+aVJohn Salmons SAC 12/30/2012 SAC vs. BOS W 33 23 9 12 75.0 2 4 50.0 3 3 100.0 1 5 6 4 0 0 0 1 26
+p570
+aVJason Thompson SAC 12/30/2012 SAC vs. BOS W 32 20 8 11 72.7 0 0 - 4 8 50.0 3 3 6 0 1 2 1 3 19
+p571
+aVFrancisco Garcia SAC 12/30/2012 SAC vs. BOS W 16 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 0 1 0 0 1 -1
+p572
+aVIsaiah Thomas SAC 12/30/2012 SAC vs. BOS W 40 27 10 15 66.7 3 7 42.9 4 5 80.0 0 4 4 5 1 0 2 2 20
+p573
+aVCharles Hayes SAC 12/30/2012 SAC vs. BOS W 16 2 0 2 0.0 0 0 - 2 2 100.0 2 4 6 1 2 1 1 3 3
+p574
+aVDeMarcus Cousins SAC 12/30/2012 SAC vs. BOS W 31 12 4 12 33.3 0 0 - 4 4 100.0 2 8 10 10 1 0 2 5 21
+p575
+aVTyler Honeycutt SAC 12/30/2012 SAC vs. BOS W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 1
+p576
+aVJimmer Fredette SAC 12/30/2012 SAC vs. BOS W 22 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 5 0 0 0 1 10
+p577
+aVAaron Brooks SAC 12/28/2012 SAC vs. NYK W 19 10 4 6 66.7 2 3 66.7 0 0 - 0 1 1 3 1 1 3 0 0
+p578
+aVMarcus Thornton SAC 12/28/2012 SAC vs. NYK W 28 18 5 12 41.7 2 6 33.3 6 6 100.0 0 3 3 1 0 0 0 0 -4
+p579
+aVIsaiah Thomas SAC 12/28/2012 SAC vs. NYK W 29 11 3 10 30.0 3 6 50.0 2 2 100.0 1 0 1 4 1 0 0 2 1
+p580
+aVFrancisco Garcia SAC 12/28/2012 SAC vs. NYK W 24 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 2 2 0 0 1 8
+p581
+aVJohn Salmons SAC 12/28/2012 SAC vs. NYK W 29 8 3 9 33.3 2 4 50.0 0 2 0.0 0 1 1 3 2 2 1 2 -1
+p582
+aVJimmer Fredette SAC 12/28/2012 SAC vs. NYK W 19 15 6 9 66.7 3 6 50.0 0 0 - 0 2 2 4 1 0 2 1 2
+p583
+aVJames Johnson SAC 12/28/2012 SAC vs. NYK W 29 17 8 14 57.1 1 1 100.0 0 1 0.0 4 3 7 3 1 1 2 4 4
+p584
+aVCharles Hayes SAC 12/28/2012 SAC vs. NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p585
+aVDeMarcus Cousins SAC 12/28/2012 SAC vs. NYK W 31 15 5 14 35.7 0 0 - 5 6 83.3 3 7 10 5 3 1 2 5 6
+p586
+aVJason Thompson SAC 12/28/2012 SAC vs. NYK W 28 6 3 8 37.5 0 0 - 0 0 - 3 5 8 2 0 1 1 4 -5
+p587
+aVJason Thompson SAC 12/26/2012 SAC @ POR L 25 11 5 10 50.0 0 0 - 1 2 50.0 2 4 6 0 0 1 0 3 -24
+p588
+aVIsaiah Thomas SAC 12/26/2012 SAC @ POR L 28 12 4 11 36.4 2 5 40.0 2 2 100.0 0 1 1 6 1 0 2 3 4
+p589
+aVTravis Outlaw SAC 12/26/2012 SAC @ POR L 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 2 4 -4
+p590
+aVAaron Brooks SAC 12/26/2012 SAC @ POR L 20 9 4 8 50.0 1 3 33.3 0 0 - 0 0 0 5 1 0 1 0 -22
+p591
+aVTyler Honeycutt SAC 12/26/2012 SAC @ POR L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p592
+aVCharles Hayes SAC 12/26/2012 SAC @ POR L 26 4 1 2 50.0 0 0 - 2 2 100.0 1 8 9 3 0 0 1 1 3
+p593
+aVJohn Salmons SAC 12/26/2012 SAC @ POR L 29 19 6 10 60.0 3 4 75.0 4 4 100.0 0 2 2 4 1 0 0 1 -17
+p594
+aVMarcus Thornton SAC 12/26/2012 SAC @ POR L 22 6 2 9 22.2 2 6 33.3 0 0 - 2 1 3 2 0 0 0 2 -17
+p595
+aVFrancisco Garcia SAC 12/26/2012 SAC @ POR L 19 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 3 0 1 0 1 5
+p596
+aVJimmer Fredette SAC 12/26/2012 SAC @ POR L 20 7 2 8 25.0 0 2 0.0 3 4 75.0 1 1 2 2 2 0 2 0 -3
+p597
+aVThomas Robinson SAC 12/26/2012 SAC @ POR L 21 6 3 7 42.9 0 0 - 0 2 0.0 1 2 3 0 1 0 0 1 1
+p598
+aVJames Johnson SAC 12/26/2012 SAC @ POR L 18 4 2 9 22.2 0 1 0.0 0 0 - 3 1 4 3 2 1 2 2 -16
+p599
+aVJames Johnson SAC 12/23/2012 SAC vs. POR W 23 10 4 7 57.1 0 0 - 2 2 100.0 3 0 3 2 1 1 1 5 -9
+p600
+aVTravis Outlaw SAC 12/23/2012 SAC vs. POR W 16 15 6 7 85.7 1 1 100.0 2 2 100.0 0 0 0 1 1 0 0 0 8
+p601
+aVAaron Brooks SAC 12/23/2012 SAC vs. POR W 27 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 6 1 0 1 0 2
+p602
+aVMarcus Thornton SAC 12/23/2012 SAC vs. POR W 35 22 10 18 55.6 2 5 40.0 0 0 - 0 4 4 4 2 0 2 2 16
+p603
+aVJimmer Fredette SAC 12/23/2012 SAC vs. POR W 18 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 4 0 0 0 0 9
+p604
+aVJason Thompson SAC 12/23/2012 SAC vs. POR W 21 10 5 9 55.6 0 0 - 0 2 0.0 0 6 6 2 1 0 3 3 -5
+p605
+aVIsaiah Thomas SAC 12/23/2012 SAC vs. POR W 21 11 4 8 50.0 2 4 50.0 1 1 100.0 0 1 1 5 1 0 1 1 10
+p606
+aVCharles Hayes SAC 12/23/2012 SAC vs. POR W 24 6 3 3 100.0 0 0 - 0 0 - 2 4 6 0 1 0 1 1 21
+p607
+aVThomas Robinson SAC 12/23/2012 SAC vs. POR W 20 4 1 4 25.0 0 0 - 2 2 100.0 0 5 5 0 0 1 1 2 10
+p608
+aVJohn Salmons SAC 12/23/2012 SAC vs. POR W 32 15 6 11 54.5 1 3 33.3 2 2 100.0 1 6 7 7 2 0 2 3 4
+p609
+aVTyler Honeycutt SAC 12/23/2012 SAC vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -6
+p610
+aVIsaiah Thomas SAC 12/21/2012 SAC @ LAC L 27 12 4 13 30.8 2 7 28.6 2 2 100.0 2 0 2 1 0 0 2 3 -5
+p611
+aVDeMarcus Cousins SAC 12/21/2012 SAC @ LAC L 20 9 4 9 44.4 0 0 - 1 2 50.0 0 5 5 3 2 1 2 0 -9
+p612
+aVTravis Outlaw SAC 12/21/2012 SAC @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p613
+aVJames Johnson SAC 12/21/2012 SAC @ LAC L 23 10 5 12 41.7 0 1 0.0 0 3 0.0 1 2 3 0 0 3 0 2 -5
+p614
+aVJohn Salmons SAC 12/21/2012 SAC @ LAC L 29 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 4 0 1 1 3 -12
+p615
+aVJason Thompson SAC 12/21/2012 SAC @ LAC L 27 10 5 7 71.4 0 0 - 0 0 - 3 5 8 2 0 2 3 4 6
+p616
+aVJimmer Fredette SAC 12/21/2012 SAC @ LAC L 23 16 4 10 40.0 2 3 66.7 6 7 85.7 0 0 0 2 3 0 0 1 -8
+p617
+aVCharles Hayes SAC 12/21/2012 SAC @ LAC L 25 2 1 3 33.3 0 0 - 0 0 - 2 5 7 3 0 0 2 4 -12
+p618
+aVThomas Robinson SAC 12/21/2012 SAC @ LAC L 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 1 1 4 -3
+p619
+aVAaron Brooks SAC 12/21/2012 SAC @ LAC L 21 6 2 6 33.3 1 4 25.0 1 1 100.0 0 0 0 2 0 1 3 4 -7
+p620
+aVMarcus Thornton SAC 12/21/2012 SAC @ LAC L 25 11 4 9 44.4 2 5 40.0 1 1 100.0 0 4 4 1 1 0 1 0 -4
+p621
+aVIsaiah Thomas SAC 12/19/2012 SAC vs. GSW W 18 11 5 7 71.4 1 1 100.0 0 0 - 0 0 0 3 0 0 0 1 0
+p622
+aVJohn Salmons SAC 12/19/2012 SAC vs. GSW W 35 17 6 13 46.2 0 1 0.0 5 6 83.3 1 5 6 5 1 1 1 1 10
+p623
+aVDeMarcus Cousins SAC 12/19/2012 SAC vs. GSW W 38 24 5 12 41.7 0 0 - 14 18 77.8 3 4 7 5 2 1 5 5 6
+p624
+aVMarcus Thornton SAC 12/19/2012 SAC vs. GSW W 31 19 7 15 46.7 5 10 50.0 0 0 - 0 3 3 0 1 0 0 3 2
+p625
+aVJames Johnson SAC 12/19/2012 SAC vs. GSW W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p626
+aVCharles Hayes SAC 12/19/2012 SAC vs. GSW W 18 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 3 -11
+p627
+aVJason Thompson SAC 12/19/2012 SAC vs. GSW W 35 10 5 14 35.7 0 0 - 0 0 - 5 10 15 3 0 3 0 2 17
+p628
+aVThomas Robinson SAC 12/19/2012 SAC vs. GSW W 5 4 1 3 33.3 0 0 - 2 4 50.0 1 0 1 0 1 0 0 0 -5
+p629
+aVAaron Brooks SAC 12/19/2012 SAC vs. GSW W 30 23 9 12 75.0 3 3 100.0 2 2 100.0 0 2 2 5 2 0 1 2 11
+p630
+aVFrancisco Garcia SAC 12/19/2012 SAC vs. GSW W 11 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 3 0 1 0 1 9
+p631
+aVJimmer Fredette SAC 12/19/2012 SAC vs. GSW W 15 15 3 7 42.9 1 3 33.3 8 8 100.0 0 2 2 1 0 0 0 0 -14
+p632
+aVThomas Robinson SAC 12/17/2012 SAC @ PHX L 16 6 3 6 50.0 0 0 - 0 0 - 5 4 9 0 0 0 3 1 -3
+p633
+aVJimmer Fredette SAC 12/17/2012 SAC @ PHX L 22 22 7 13 53.8 3 5 60.0 5 5 100.0 3 0 3 1 0 0 1 1 5
+p634
+aVJohn Salmons SAC 12/17/2012 SAC @ PHX L 31 6 2 7 28.6 0 0 - 2 4 50.0 0 6 6 2 1 0 3 1 -17
+p635
+aVAaron Brooks SAC 12/17/2012 SAC @ PHX L 30 12 6 11 54.5 0 3 0.0 0 0 - 0 3 3 3 0 1 1 2 -20
+p636
+aVDeMarcus Cousins SAC 12/17/2012 SAC @ PHX L 26 9 1 10 10.0 0 0 - 7 8 87.5 4 6 10 0 1 0 3 4 -15
+p637
+aVCharles Hayes SAC 12/17/2012 SAC @ PHX L 24 4 1 4 25.0 0 0 - 2 2 100.0 1 5 6 3 0 1 1 1 1
+p638
+aVFrancisco Garcia SAC 12/17/2012 SAC @ PHX L 19 6 2 6 33.3 0 2 0.0 2 3 66.7 0 2 2 0 1 0 1 2 -8
+p639
+aVJason Thompson SAC 12/17/2012 SAC @ PHX L 28 8 4 10 40.0 0 0 - 0 0 - 2 4 6 2 0 0 1 4 -7
+p640
+aVIsaiah Thomas SAC 12/17/2012 SAC @ PHX L 23 6 3 10 30.0 0 3 0.0 0 0 - 1 2 3 3 0 0 1 1 6
+p641
+aVJames Johnson SAC 12/17/2012 SAC @ PHX L 21 11 5 6 83.3 0 0 - 1 2 50.0 2 1 3 1 2 3 1 0 3
+p642
+aVCharles Hayes SAC 12/16/2012 SAC vs. DEN L 12 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 1 0 0 0 -1
+p643
+aVThomas Robinson SAC 12/16/2012 SAC vs. DEN L 16 2 1 5 20.0 0 0 - 0 0 - 3 3 6 0 0 0 1 1 4
+p644
+aVIsaiah Thomas SAC 12/16/2012 SAC vs. DEN L 27 20 3 10 30.0 1 3 33.3 13 15 86.7 1 2 3 4 1 0 4 1 2
+p645
+aVAaron Brooks SAC 12/16/2012 SAC vs. DEN L 21 9 3 10 30.0 2 4 50.0 1 2 50.0 1 1 2 2 0 0 2 2 -27
+p646
+aVJohn Salmons SAC 12/16/2012 SAC vs. DEN L 21 4 1 8 12.5 0 4 0.0 2 2 100.0 0 0 0 1 0 0 1 3 -23
+p647
+aVJason Thompson SAC 12/16/2012 SAC vs. DEN L 26 16 7 14 50.0 0 0 - 2 2 100.0 7 3 10 1 2 1 0 0 -22
+p648
+aVTyreke Evans SAC 12/16/2012 SAC vs. DEN L 10 2 0 4 0.0 0 2 0.0 2 2 100.0 1 0 1 0 0 0 0 0 -13
+p649
+aVJames Johnson SAC 12/16/2012 SAC vs. DEN L 20 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 2 2 0 0 4 -1
+p650
+aVDeMarcus Cousins SAC 12/16/2012 SAC vs. DEN L 33 19 5 14 35.7 0 0 - 9 11 81.8 6 5 11 1 0 0 1 3 -22
+p651
+aVFrancisco Garcia SAC 12/16/2012 SAC vs. DEN L 19 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 1 -13
+p652
+aVJimmer Fredette SAC 12/16/2012 SAC vs. DEN L 19 10 4 9 44.4 2 5 40.0 0 0 - 0 3 3 0 0 0 0 1 1
+p653
+aVTravis Outlaw SAC 12/16/2012 SAC vs. DEN L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 3 -10
+p654
+aVJames Johnson SAC 12/14/2012 SAC @ OKC L 15 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 2 0 1 1 2 5
+p655
+aVJason Thompson SAC 12/14/2012 SAC @ OKC L 29 15 6 7 85.7 0 0 - 3 4 75.0 2 4 6 4 1 1 2 4 -16
+p656
+aVIsaiah Thomas SAC 12/14/2012 SAC @ OKC L 16 26 10 13 76.9 4 7 57.1 2 2 100.0 0 1 1 0 1 0 0 4 4
+p657
+aVFrancisco Garcia SAC 12/14/2012 SAC @ OKC L 13 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 2 0 0 1 -23
+p658
+aVJimmer Fredette SAC 12/14/2012 SAC @ OKC L 14 5 0 4 0.0 0 1 0.0 5 5 100.0 1 0 1 2 1 0 2 0 3
+p659
+aVJohn Salmons SAC 12/14/2012 SAC @ OKC L 28 3 1 7 14.3 1 4 25.0 0 0 - 0 2 2 3 0 0 1 3 -4
+p660
+aVAaron Brooks SAC 12/14/2012 SAC @ OKC L 23 13 4 8 50.0 2 4 50.0 3 3 100.0 1 1 2 1 0 0 3 3 -1
+p661
+aVTyreke Evans SAC 12/14/2012 SAC @ OKC L 35 21 8 12 66.7 0 1 0.0 5 7 71.4 1 3 4 2 3 0 2 1 -14
+p662
+aVDeMarcus Cousins SAC 12/14/2012 SAC @ OKC L 28 10 3 12 25.0 0 0 - 4 4 100.0 2 5 7 2 1 1 2 0 -6
+p663
+aVThomas Robinson SAC 12/14/2012 SAC @ OKC L 19 6 1 2 50.0 0 0 - 4 4 100.0 0 3 3 1 0 2 1 0 6
+p664
+aVCharles Hayes SAC 12/14/2012 SAC @ OKC L 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 -4
+p665
+aVJason Thompson SAC 12/12/2012 SAC @ MIL L 33 8 4 10 40.0 0 0 - 0 1 0.0 5 10 15 1 2 1 2 1 -11
+p666
+aVJimmer Fredette SAC 12/12/2012 SAC @ MIL L 15 9 4 8 50.0 0 2 0.0 1 1 100.0 1 1 2 0 0 0 0 1 -3
+p667
+aVCharles Hayes SAC 12/12/2012 SAC @ MIL L 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 1 1 1
+p668
+aVTravis Outlaw SAC 12/12/2012 SAC @ MIL L 16 6 1 6 16.7 0 1 0.0 4 4 100.0 2 2 4 0 0 0 0 1 -8
+p669
+aVTyreke Evans SAC 12/12/2012 SAC @ MIL L 23 17 6 15 40.0 1 1 100.0 4 5 80.0 2 5 7 2 0 0 5 3 -3
+p670
+aVIsaiah Thomas SAC 12/12/2012 SAC @ MIL L 11 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 0 0
+p671
+aVAaron Brooks SAC 12/12/2012 SAC @ MIL L 35 10 3 11 27.3 1 7 14.3 3 3 100.0 0 1 1 6 1 1 4 3 -14
+p672
+aVThomas Robinson SAC 12/12/2012 SAC @ MIL L 25 8 3 9 33.3 0 0 - 2 2 100.0 2 6 8 1 0 0 1 3 -7
+p673
+aVJames Johnson SAC 12/12/2012 SAC @ MIL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p674
+aVFrancisco Garcia SAC 12/12/2012 SAC @ MIL L 22 3 1 5 20.0 0 2 0.0 1 2 50.0 1 4 5 1 0 2 1 2 -11
+p675
+aVJohn Salmons SAC 12/12/2012 SAC @ MIL L 36 16 7 14 50.0 1 5 20.0 1 1 100.0 1 2 3 1 0 2 1 4 -12
+p676
+aVJason Thompson SAC 12/10/2012 SAC @ DAL L 30 11 5 8 62.5 0 0 - 1 4 25.0 2 10 12 2 0 1 2 0 -6
+p677
+aVJames Johnson SAC 12/10/2012 SAC @ DAL L 12 2 1 5 20.0 0 0 - 0 1 0.0 1 3 4 1 1 0 0 1 -5
+p678
+aVJohn Salmons SAC 12/10/2012 SAC @ DAL L 30 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 7 1 0 2 0 -6
+p679
+aVJimmer Fredette SAC 12/10/2012 SAC @ DAL L 8 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 0 2 2 -6
+p680
+aVIsaiah Thomas SAC 12/10/2012 SAC @ DAL L 16 4 2 9 22.2 0 4 0.0 0 0 - 0 3 3 4 0 0 0 0 -10
+p681
+aVCharles Hayes SAC 12/10/2012 SAC @ DAL L 14 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 -15
+p682
+aVFrancisco Garcia SAC 12/10/2012 SAC @ DAL L 31 25 9 16 56.3 7 12 58.3 0 0 - 0 1 1 1 0 3 0 4 7
+p683
+aVTravis Outlaw SAC 12/10/2012 SAC @ DAL L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -12
+p684
+aVThomas Robinson SAC 12/10/2012 SAC @ DAL L 12 0 0 4 0.0 0 0 - 0 0 - 3 0 3 0 0 0 2 1 -10
+p685
+aVAaron Brooks SAC 12/10/2012 SAC @ DAL L 28 9 3 8 37.5 2 4 50.0 1 2 50.0 0 5 5 5 0 0 3 1 -9
+p686
+aVDeMarcus Cousins SAC 12/10/2012 SAC @ DAL L 35 25 10 17 58.8 0 1 0.0 5 6 83.3 5 1 6 1 1 0 4 2 -14
+p687
+aVMarcus Thornton SAC 12/10/2012 SAC @ DAL L 19 10 3 6 50.0 2 3 66.7 2 2 100.0 0 0 0 0 1 0 3 3 -29
+p688
+aVFrancisco Garcia SAC 12/08/2012 SAC @ POR W 31 12 5 13 38.5 2 5 40.0 0 0 - 1 4 5 2 1 2 1 2 17
+p689
+aVCharles Hayes SAC 12/08/2012 SAC @ POR W 14 0 0 0 - 0 0 - 0 0 - 0 2 2 2 1 0 0 0 6
+p690
+aVIsaiah Thomas SAC 12/08/2012 SAC @ POR W 18 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 2 0 0 3 1 9
+p691
+aVJason Thompson SAC 12/08/2012 SAC @ POR W 29 12 4 10 40.0 0 0 - 4 5 80.0 2 6 8 0 2 0 2 3 12
+p692
+aVThomas Robinson SAC 12/08/2012 SAC @ POR W 8 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 1 -4
+p693
+aVJames Johnson SAC 12/08/2012 SAC @ POR W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -2
+p694
+aVJohn Salmons SAC 12/08/2012 SAC @ POR W 36 19 6 10 60.0 3 4 75.0 4 5 80.0 1 2 3 11 2 0 0 3 17
+p695
+aVDeMarcus Cousins SAC 12/08/2012 SAC @ POR W 34 19 6 17 35.3 0 1 0.0 7 8 87.5 2 10 12 2 1 0 0 2 13
+p696
+aVMarcus Thornton SAC 12/08/2012 SAC @ POR W 17 6 2 9 22.2 0 3 0.0 2 2 100.0 1 1 2 0 4 0 0 0 2
+p697
+aVAaron Brooks SAC 12/08/2012 SAC @ POR W 30 14 6 10 60.0 2 4 50.0 0 0 - 0 2 2 3 2 0 4 1 10
+p698
+aVTravis Outlaw SAC 12/08/2012 SAC @ POR W 17 11 5 7 71.4 1 1 100.0 0 0 - 1 3 4 0 1 0 0 1 15
+p699
+aVMarcus Thornton SAC 12/07/2012 SAC vs. ORL W 24 5 1 7 14.3 1 4 25.0 2 2 100.0 0 3 3 2 1 1 2 0 2
+p700
+aVDeMarcus Cousins SAC 12/07/2012 SAC vs. ORL W 32 17 5 13 38.5 0 0 - 7 10 70.0 2 12 14 4 3 2 4 2 6
+p701
+aVIsaiah Thomas SAC 12/07/2012 SAC vs. ORL W 29 17 5 10 50.0 0 5 0.0 7 8 87.5 1 4 5 4 1 0 1 2 6
+p702
+aVAaron Brooks SAC 12/07/2012 SAC vs. ORL W 19 11 5 9 55.6 1 3 33.3 0 0 - 0 4 4 3 1 0 1 2 3
+p703
+aVFrancisco Garcia SAC 12/07/2012 SAC vs. ORL W 22 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 1 2 3 1 2 -2
+p704
+aVJohn Salmons SAC 12/07/2012 SAC vs. ORL W 28 2 1 8 12.5 0 3 0.0 0 0 - 0 2 2 1 0 0 0 3 5
+p705
+aVJason Thompson SAC 12/07/2012 SAC vs. ORL W 28 12 5 11 45.5 0 0 - 2 2 100.0 2 4 6 1 1 0 3 1 2
+p706
+aVJimmer Fredette SAC 12/07/2012 SAC vs. ORL W 21 15 5 7 71.4 1 3 33.3 4 4 100.0 1 3 4 1 0 0 4 2 13
+p707
+aVCharles Hayes SAC 12/07/2012 SAC vs. ORL W 19 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 0 0 2 1 4
+p708
+aVThomas Robinson SAC 12/07/2012 SAC vs. ORL W 17 1 0 5 0.0 0 0 - 1 2 50.0 1 6 7 3 2 0 0 4 6
+p709
+aVJohn Salmons SAC 12/05/2012 SAC vs. TOR W 33 12 4 7 57.1 2 2 100.0 2 2 100.0 0 2 2 7 0 1 0 1 11
+p710
+aVCharles Hayes SAC 12/05/2012 SAC vs. TOR W 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -3
+p711
+aVDeMarcus Cousins SAC 12/05/2012 SAC vs. TOR W 37 25 11 18 61.1 0 1 0.0 3 3 100.0 2 11 13 1 0 1 4 3 10
+p712
+aVJames Johnson SAC 12/05/2012 SAC vs. TOR W 14 6 3 5 60.0 0 0 - 0 1 0.0 1 7 8 1 0 2 1 5 4
+p713
+aVTyreke Evans SAC 12/05/2012 SAC vs. TOR W 34 23 7 16 43.8 2 4 50.0 7 12 58.3 1 1 2 2 1 2 2 1 10
+p714
+aVThomas Robinson SAC 12/05/2012 SAC vs. TOR W 15 7 2 3 66.7 0 0 - 3 4 75.0 2 2 4 1 1 1 2 2 -2
+p715
+aVAaron Brooks SAC 12/05/2012 SAC vs. TOR W 33 11 2 8 25.0 1 3 33.3 6 8 75.0 0 1 1 4 1 0 3 2 8
+p716
+aVJason Thompson SAC 12/05/2012 SAC vs. TOR W 34 13 6 11 54.5 0 0 - 1 1 100.0 3 7 10 1 1 0 1 3 8
+p717
+aVJimmer Fredette SAC 12/05/2012 SAC vs. TOR W 12 7 2 5 40.0 1 2 50.0 2 2 100.0 1 0 1 0 0 0 1 0 -2
+p718
+aVMarcus Thornton SAC 12/05/2012 SAC vs. TOR W 17 3 1 7 14.3 0 3 0.0 1 1 100.0 0 3 3 1 1 0 1 1 -9
+p719
+aVJimmer Fredette SAC 12/01/2012 SAC @ LAC L 16 1 0 6 0.0 0 1 0.0 1 1 100.0 0 2 2 4 0 1 0 0 -3
+p720
+aVJames Johnson SAC 12/01/2012 SAC @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -11
+p721
+aVJohn Salmons SAC 12/01/2012 SAC @ LAC L 36 9 4 12 33.3 0 3 0.0 1 2 50.0 0 4 4 4 0 0 2 1 -17
+p722
+aVThomas Robinson SAC 12/01/2012 SAC @ LAC L 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 1 -16
+p723
+aVAaron Brooks SAC 12/01/2012 SAC @ LAC L 22 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 2 0 0 2 3 -19
+p724
+aVMarcus Thornton SAC 12/01/2012 SAC @ LAC L 38 20 7 11 63.6 6 9 66.7 0 0 - 0 2 2 2 0 0 1 1 -25
+p725
+aVJason Thompson SAC 12/01/2012 SAC @ LAC L 30 16 6 10 60.0 0 0 - 4 4 100.0 4 8 12 4 0 0 0 3 -15
+p726
+aVFrancisco Garcia SAC 12/01/2012 SAC @ LAC L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 2 0 2 2 -10
+p727
+aVCharles Hayes SAC 12/01/2012 SAC @ LAC L 23 2 1 2 50.0 0 0 - 0 0 - 3 5 8 4 0 2 0 4 -13
+p728
+aVDeMarcus Cousins SAC 12/01/2012 SAC @ LAC L 18 8 3 9 33.3 0 0 - 2 3 66.7 1 5 6 1 0 0 2 2 -19
+p729
+aVIsaiah Thomas SAC 12/01/2012 SAC @ LAC L 17 14 4 11 36.4 2 4 50.0 4 4 100.0 0 1 1 0 0 0 3 1 -20
+p730
+aVTravis Outlaw SAC 12/01/2012 SAC @ LAC L 10 4 1 5 20.0 0 2 0.0 2 4 50.0 1 1 2 0 0 0 1 1 -7
+p731
+aVThomas Robinson SAC 11/30/2012 SAC vs. IND L 25 7 2 8 25.0 0 0 - 3 4 75.0 2 5 7 2 0 3 3 2 -2
+p732
+aVJimmer Fredette SAC 11/30/2012 SAC vs. IND L 18 12 5 10 50.0 1 3 33.3 1 1 100.0 0 0 0 3 0 0 1 1 3
+p733
+aVCharles Hayes SAC 11/30/2012 SAC vs. IND L 16 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 1 0 0 0 1
+p734
+aVFrancisco Garcia SAC 11/30/2012 SAC vs. IND L 15 12 5 7 71.4 2 4 50.0 0 0 - 0 0 0 0 0 0 1 3 6
+p735
+aVJohn Salmons SAC 11/30/2012 SAC vs. IND L 28 9 2 4 50.0 0 2 0.0 5 6 83.3 0 5 5 3 0 0 0 0 -6
+p736
+aVMarcus Thornton SAC 11/30/2012 SAC vs. IND L 33 15 5 11 45.5 2 6 33.3 3 3 100.0 0 3 3 0 0 0 2 2 -11
+p737
+aVDeMarcus Cousins SAC 11/30/2012 SAC vs. IND L 32 19 5 17 29.4 0 0 - 9 10 90.0 5 11 16 1 2 0 2 1 -6
+p738
+aVJames Johnson SAC 11/30/2012 SAC vs. IND L 20 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 2 0 0 0 1
+p739
+aVAaron Brooks SAC 11/30/2012 SAC vs. IND L 30 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 3 6 -10
+p740
+aVIsaiah Thomas SAC 11/30/2012 SAC vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p741
+aVJason Thompson SAC 11/30/2012 SAC vs. IND L 22 3 1 3 33.3 0 0 - 1 1 100.0 0 3 3 1 0 1 0 4 -1
+p742
+aVDeMarcus Cousins SAC 11/27/2012 SAC vs. MIN L 28 20 9 22 40.9 0 0 - 2 2 100.0 4 1 5 2 2 0 2 4 -1
+p743
+aVJason Thompson SAC 11/27/2012 SAC vs. MIN L 27 7 3 8 37.5 0 0 - 1 2 50.0 0 5 5 0 1 3 2 1 -7
+p744
+aVJames Johnson SAC 11/27/2012 SAC vs. MIN L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -4
+p745
+aVAaron Brooks SAC 11/27/2012 SAC vs. MIN L 26 7 2 7 28.6 1 4 25.0 2 3 66.7 2 1 3 4 0 0 0 3 -7
+p746
+aVMarcus Thornton SAC 11/27/2012 SAC vs. MIN L 26 12 5 13 38.5 2 7 28.6 0 0 - 0 2 2 2 2 0 1 1 -6
+p747
+aVThomas Robinson SAC 11/27/2012 SAC vs. MIN L 14 2 1 3 33.3 0 0 - 0 0 - 0 6 6 1 0 0 0 1 -2
+p748
+aVIsaiah Thomas SAC 11/27/2012 SAC vs. MIN L 21 12 4 6 66.7 0 1 0.0 4 5 80.0 0 3 3 3 2 0 4 1 5
+p749
+aVCharles Hayes SAC 11/27/2012 SAC vs. MIN L 27 2 1 5 20.0 0 0 - 0 2 0.0 2 2 4 1 0 0 0 3 -8
+p750
+aVTyreke Evans SAC 11/27/2012 SAC vs. MIN L 36 20 9 14 64.3 2 3 66.7 0 0 - 0 7 7 6 2 2 2 1 -3
+p751
+aVJohn Salmons SAC 11/27/2012 SAC vs. MIN L 30 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 1 0 2 4 -7
+p752
+aVThomas Robinson SAC 11/24/2012 SAC vs. UTA W 15 9 4 4 100.0 0 0 - 1 2 50.0 0 4 4 1 0 0 3 2 -2
+p753
+aVJimmer Fredette SAC 11/24/2012 SAC vs. UTA W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 3
+p754
+aVJason Thompson SAC 11/24/2012 SAC vs. UTA W 33 16 6 12 50.0 0 0 - 4 6 66.7 4 5 9 2 0 1 1 1 12
+p755
+aVDeMarcus Cousins SAC 11/24/2012 SAC vs. UTA W 30 14 6 11 54.5 0 1 0.0 2 4 50.0 4 5 9 3 0 0 2 3 2
+p756
+aVJohn Salmons SAC 11/24/2012 SAC vs. UTA W 28 8 3 8 37.5 2 4 50.0 0 0 - 2 3 5 1 0 0 1 2 14
+p757
+aVAaron Brooks SAC 11/24/2012 SAC vs. UTA W 32 13 5 6 83.3 3 4 75.0 0 0 - 0 0 0 2 4 0 1 1 6
+p758
+aVTyreke Evans SAC 11/24/2012 SAC vs. UTA W 37 27 9 17 52.9 0 1 0.0 9 9 100.0 1 4 5 5 2 0 2 2 11
+p759
+aVMarcus Thornton SAC 11/24/2012 SAC vs. UTA W 19 9 3 9 33.3 1 6 16.7 2 5 40.0 2 0 2 0 0 0 0 3 -2
+p760
+aVCharles Hayes SAC 11/24/2012 SAC vs. UTA W 17 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 2 1 1 1 2 9
+p761
+aVIsaiah Thomas SAC 11/24/2012 SAC vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -1
+p762
+aVJames Johnson SAC 11/24/2012 SAC vs. UTA W 16 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 1 0 0 4 3
+p763
+aVAaron Brooks SAC 11/23/2012 SAC @ UTA L 32 17 7 9 77.8 3 4 75.0 0 0 - 1 1 2 3 0 0 1 0 2
+p764
+aVTyreke Evans SAC 11/23/2012 SAC @ UTA L 31 19 7 17 41.2 1 3 33.3 4 4 100.0 1 3 4 5 2 0 1 4 6
+p765
+aVMarcus Thornton SAC 11/23/2012 SAC @ UTA L 20 18 7 13 53.8 3 4 75.0 1 1 100.0 1 1 2 2 0 0 0 2 -13
+p766
+aVJames Johnson SAC 11/23/2012 SAC @ UTA L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p767
+aVJimmer Fredette SAC 11/23/2012 SAC @ UTA L 17 10 3 7 42.9 3 4 75.0 1 2 50.0 0 0 0 1 0 1 2 0 -1
+p768
+aVCharles Hayes SAC 11/23/2012 SAC @ UTA L 16 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 4 2 0 1 4 0
+p769
+aVJohn Salmons SAC 11/23/2012 SAC @ UTA L 30 4 2 5 40.0 0 2 0.0 0 0 - 1 4 5 2 0 0 1 2 5
+p770
+aVJason Thompson SAC 11/23/2012 SAC @ UTA L 33 11 5 9 55.6 0 0 - 1 1 100.0 1 2 3 0 0 0 1 3 -7
+p771
+aVThomas Robinson SAC 11/23/2012 SAC @ UTA L 13 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 1 0 1 3 1
+p772
+aVDeMarcus Cousins SAC 11/23/2012 SAC @ UTA L 33 14 5 11 45.5 0 0 - 4 6 66.7 1 6 7 4 0 2 4 4 -1
+p773
+aVJames Johnson SAC 11/21/2012 SAC vs. LAL W 19 6 3 5 60.0 0 0 - 0 1 0.0 0 0 0 5 2 1 2 4 -4
+p774
+aVDeMarcus Cousins SAC 11/21/2012 SAC vs. LAL W 21 7 3 9 33.3 0 0 - 1 2 50.0 2 6 8 2 0 0 3 6 10
+p775
+aVTyreke Evans SAC 11/21/2012 SAC vs. LAL W 29 18 7 11 63.6 0 0 - 4 4 100.0 1 3 4 6 0 1 5 3 17
+p776
+aVJohn Salmons SAC 11/21/2012 SAC vs. LAL W 31 13 5 12 41.7 2 4 50.0 1 2 50.0 0 3 3 1 2 0 0 3 17
+p777
+aVJason Thompson SAC 11/21/2012 SAC vs. LAL W 40 13 6 12 50.0 0 1 0.0 1 2 50.0 4 6 10 1 1 1 1 1 13
+p778
+aVMarcus Thornton SAC 11/21/2012 SAC vs. LAL W 28 23 8 13 61.5 3 5 60.0 4 4 100.0 0 4 4 1 1 0 1 3 14
+p779
+aVIsaiah Thomas SAC 11/21/2012 SAC vs. LAL W 16 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 2 0 0 2 1 0
+p780
+aVJimmer Fredette SAC 11/21/2012 SAC vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p781
+aVCharles Hayes SAC 11/21/2012 SAC vs. LAL W 23 10 4 5 80.0 0 0 - 2 2 100.0 1 4 5 1 2 0 1 3 7
+p782
+aVThomas Robinson SAC 11/21/2012 SAC vs. LAL W 10 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 1 1 1 3
+p783
+aVAaron Brooks SAC 11/21/2012 SAC vs. LAL W 22 13 5 9 55.6 2 5 40.0 1 1 100.0 1 3 4 3 1 0 0 2 1
+p784
+aVJames Johnson SAC 11/18/2012 SAC vs. BKN L 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 2 0 2 0 -5
+p785
+aVJimmer Fredette SAC 11/18/2012 SAC vs. BKN L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 -6
+p786
+aVIsaiah Thomas SAC 11/18/2012 SAC vs. BKN L 14 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 4 0 0 0 3 2
+p787
+aVThomas Robinson SAC 11/18/2012 SAC vs. BKN L 20 4 2 4 50.0 0 0 - 0 0 - 3 1 4 2 0 0 1 3 -1
+p788
+aVAaron Brooks SAC 11/18/2012 SAC vs. BKN L 18 4 2 2 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 2 2 -1
+p789
+aVTyreke Evans SAC 11/18/2012 SAC vs. BKN L 32 21 8 14 57.1 1 2 50.0 4 6 66.7 1 6 7 2 1 2 2 3 -2
+p790
+aVJohn Salmons SAC 11/18/2012 SAC vs. BKN L 28 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 1 0 0 0 1 2
+p791
+aVDeMarcus Cousins SAC 11/18/2012 SAC vs. BKN L 34 29 12 21 57.1 1 1 100.0 4 6 66.7 2 5 7 3 2 1 4 3 -2
+p792
+aVJason Thompson SAC 11/18/2012 SAC vs. BKN L 27 8 4 9 44.4 0 0 - 0 2 0.0 5 3 8 0 0 1 3 2 -6
+p793
+aVCharles Hayes SAC 11/18/2012 SAC vs. BKN L 15 2 1 5 20.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -9
+p794
+aVMarcus Thornton SAC 11/18/2012 SAC vs. BKN L 26 12 4 13 30.8 3 10 30.0 1 2 50.0 0 2 2 0 0 0 1 5 -17
+p795
+aVJimmer Fredette SAC 11/16/2012 SAC vs. ATL L 7 2 0 3 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p796
+aVDeMarcus Cousins SAC 11/16/2012 SAC vs. ATL L 36 9 4 15 26.7 0 0 - 1 1 100.0 4 12 16 7 2 0 2 3 -19
+p797
+aVAaron Brooks SAC 11/16/2012 SAC vs. ATL L 22 13 5 7 71.4 3 4 75.0 0 0 - 0 1 1 4 0 0 1 2 8
+p798
+aVMarcus Thornton SAC 11/16/2012 SAC vs. ATL L 30 17 7 13 53.8 2 5 40.0 1 2 50.0 2 1 3 0 2 0 4 2 -1
+p799
+aVThomas Robinson SAC 11/16/2012 SAC vs. ATL L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 1 0 0 4 -2
+p800
+aVJames Johnson SAC 11/16/2012 SAC vs. ATL L 17 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 1 2 0 1 2 -15
+p801
+aVCharles Hayes SAC 11/16/2012 SAC vs. ATL L 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 2
+p802
+aVTyreke Evans SAC 11/16/2012 SAC vs. ATL L 27 14 5 11 45.5 1 2 50.0 3 4 75.0 0 0 0 1 1 0 2 1 -25
+p803
+aVIsaiah Thomas SAC 11/16/2012 SAC vs. ATL L 19 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 5 1 0 0 2 -18
+p804
+aVJason Thompson SAC 11/16/2012 SAC vs. ATL L 33 19 8 12 66.7 0 0 - 3 5 60.0 4 6 10 0 0 0 2 3 -12
+p805
+aVJohn Salmons SAC 11/16/2012 SAC vs. ATL L 26 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 4 2 0 1 2 3
+p806
+aVTyreke Evans SAC 11/13/2012 SAC vs. POR L 30 10 4 8 50.0 0 2 0.0 2 4 50.0 0 1 1 4 1 0 2 2 -20
+p807
+aVJimmer Fredette SAC 11/13/2012 SAC vs. POR L 25 13 5 12 41.7 0 3 0.0 3 4 75.0 0 1 1 6 1 0 2 2 1
+p808
+aVMarcus Thornton SAC 11/13/2012 SAC vs. POR L 32 14 6 14 42.9 0 3 0.0 2 2 100.0 3 2 5 0 1 0 1 4 -14
+p809
+aVJason Thompson SAC 11/13/2012 SAC vs. POR L 31 8 3 9 33.3 0 0 - 2 2 100.0 2 9 11 0 0 2 2 3 -15
+p810
+aVCharles Hayes SAC 11/13/2012 SAC vs. POR L 31 6 3 7 42.9 0 0 - 0 0 - 3 5 8 6 0 0 1 4 -7
+p811
+aVJames Johnson SAC 11/13/2012 SAC vs. POR L 33 16 7 13 53.8 0 1 0.0 2 3 66.7 0 2 2 0 1 2 2 3 -21
+p812
+aVThomas Robinson SAC 11/13/2012 SAC vs. POR L 30 12 5 7 71.4 0 0 - 2 4 50.0 2 2 4 1 1 0 1 2 -5
+p813
+aVAaron Brooks SAC 11/13/2012 SAC vs. POR L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p814
+aVJohn Salmons SAC 11/13/2012 SAC vs. POR L 22 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 2 2 0 2 0 6
+p815
+aVJames Johnson SAC 11/11/2012 SAC @ LAL L 27 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 3 -17
+p816
+aVTravis Outlaw SAC 11/11/2012 SAC @ LAL L 26 11 5 9 55.6 1 2 50.0 0 0 - 0 3 3 2 0 2 1 4 0
+p817
+aVJimmer Fredette SAC 11/11/2012 SAC @ LAL L 11 18 7 9 77.8 3 5 60.0 1 1 100.0 1 1 2 1 0 0 1 0 5
+p818
+aVMarcus Thornton SAC 11/11/2012 SAC @ LAL L 22 2 1 10 10.0 0 2 0.0 0 0 - 1 2 3 3 1 0 1 2 -14
+p819
+aVCharles Hayes SAC 11/11/2012 SAC @ LAL L 28 6 3 7 42.9 0 0 - 0 0 - 4 4 8 1 2 1 0 5 -2
+p820
+aVJohn Salmons SAC 11/11/2012 SAC @ LAL L 23 9 3 9 33.3 1 3 33.3 2 2 100.0 0 2 2 2 1 1 2 2 3
+p821
+aVJason Thompson SAC 11/11/2012 SAC @ LAL L 34 15 4 10 40.0 0 1 0.0 7 9 77.8 6 4 10 3 2 1 3 6 -14
+p822
+aVIsaiah Thomas SAC 11/11/2012 SAC @ LAL L 23 13 6 11 54.5 1 3 33.3 0 0 - 1 1 2 1 0 0 0 1 -8
+p823
+aVFrancisco Garcia SAC 11/11/2012 SAC @ LAL L 3 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p824
+aVAaron Brooks SAC 11/11/2012 SAC @ LAL L 18 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 2 1 0 1 1 5
+p825
+aVTyreke Evans SAC 11/11/2012 SAC @ LAL L 26 9 4 9 44.4 0 1 0.0 1 2 50.0 0 4 4 4 2 0 1 0 -18
+p826
+aVDeMarcus Cousins SAC 11/09/2012 SAC vs. SAS L 23 14 4 14 28.6 0 0 - 6 7 85.7 4 5 9 3 1 0 2 5 -7
+p827
+aVMarcus Thornton SAC 11/09/2012 SAC vs. SAS L 28 17 7 17 41.2 2 6 33.3 1 3 33.3 2 2 4 3 0 0 0 3 -12
+p828
+aVJimmer Fredette SAC 11/09/2012 SAC vs. SAS L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p829
+aVIsaiah Thomas SAC 11/09/2012 SAC vs. SAS L 29 10 3 11 27.3 1 5 20.0 3 4 75.0 2 2 4 2 1 0 3 3 0
+p830
+aVTyreke Evans SAC 11/09/2012 SAC vs. SAS L 33 12 5 13 38.5 0 2 0.0 2 2 100.0 0 6 6 3 1 0 1 0 -3
+p831
+aVFrancisco Garcia SAC 11/09/2012 SAC vs. SAS L 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 1 0 0 -6
+p832
+aVCharles Hayes SAC 11/09/2012 SAC vs. SAS L 25 2 1 6 16.7 0 0 - 0 0 - 3 4 7 3 0 0 1 2 0
+p833
+aVJohn Salmons SAC 11/09/2012 SAC vs. SAS L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 1 0 0 0
+p834
+aVJason Thompson SAC 11/09/2012 SAC vs. SAS L 38 17 7 10 70.0 0 0 - 3 4 75.0 1 5 6 1 2 1 0 2 -6
+p835
+aVAaron Brooks SAC 11/09/2012 SAC vs. SAS L 19 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 -11
+p836
+aVTravis Outlaw SAC 11/09/2012 SAC vs. SAS L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 2 0 0 0 -6
+p837
+aVJames Johnson SAC 11/09/2012 SAC vs. SAS L 21 9 3 6 50.0 0 0 - 3 4 75.0 2 3 5 0 2 0 4 2 1
+p838
+aVTyreke Evans SAC 11/07/2012 SAC vs. DET W 31 15 5 11 45.5 0 1 0.0 5 6 83.3 2 5 7 3 3 0 2 4 -5
+p839
+aVAaron Brooks SAC 11/07/2012 SAC vs. DET W 24 11 5 12 41.7 1 5 20.0 0 0 - 0 2 2 4 1 0 0 3 13
+p840
+aVThomas Robinson SAC 11/07/2012 SAC vs. DET W 12 2 1 2 50.0 0 0 - 0 1 0.0 4 3 7 0 1 1 3 3 7
+p841
+aVJimmer Fredette SAC 11/07/2012 SAC vs. DET W 15 12 3 7 42.9 2 3 66.7 4 4 100.0 0 0 0 2 1 0 0 0 1
+p842
+aVMarcus Thornton SAC 11/07/2012 SAC vs. DET W 28 11 5 12 41.7 1 3 33.3 0 0 - 1 0 1 0 0 0 0 0 6
+p843
+aVDeMarcus Cousins SAC 11/07/2012 SAC vs. DET W 33 21 8 17 47.1 0 0 - 5 7 71.4 3 8 11 0 2 0 1 2 -8
+p844
+aVJason Thompson SAC 11/07/2012 SAC vs. DET W 28 13 5 6 83.3 0 0 - 3 4 75.0 2 2 4 1 0 1 1 3 -2
+p845
+aVCharles Hayes SAC 11/07/2012 SAC vs. DET W 16 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 3 1 10
+p846
+aVJames Johnson SAC 11/07/2012 SAC vs. DET W 32 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 2 0 1 2 3 -5
+p847
+aVIsaiah Thomas SAC 11/07/2012 SAC vs. DET W 21 15 6 9 66.7 3 4 75.0 0 0 - 1 0 1 2 0 0 1 2 -7
+p848
+aVAaron Brooks SAC 11/05/2012 SAC vs. GSW W 20 12 5 8 62.5 1 2 50.0 1 2 50.0 0 0 0 2 0 0 2 3 1
+p849
+aVMarcus Thornton SAC 11/05/2012 SAC vs. GSW W 30 16 6 15 40.0 2 8 25.0 2 2 100.0 1 3 4 3 1 0 0 1 1
+p850
+aVTravis Outlaw SAC 11/05/2012 SAC vs. GSW W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 2 0 0 2 2 -2
+p851
+aVTyreke Evans SAC 11/05/2012 SAC vs. GSW W 29 3 1 9 11.1 0 2 0.0 1 2 50.0 0 3 3 2 0 0 2 3 6
+p852
+aVThomas Robinson SAC 11/05/2012 SAC vs. GSW W 12 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 1 0 0 3 3
+p853
+aVCharles Hayes SAC 11/05/2012 SAC vs. GSW W 24 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 0 0 1 1 -2
+p854
+aVJimmer Fredette SAC 11/05/2012 SAC vs. GSW W 2 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -4
+p855
+aVDeMarcus Cousins SAC 11/05/2012 SAC vs. GSW W 34 23 10 16 62.5 0 0 - 3 5 60.0 5 10 15 1 2 2 3 2 1
+p856
+aVJason Thompson SAC 11/05/2012 SAC vs. GSW W 27 6 1 2 50.0 0 0 - 4 4 100.0 0 6 6 0 0 1 1 1 2
+p857
+aVIsaiah Thomas SAC 11/05/2012 SAC vs. GSW W 21 10 4 8 50.0 1 3 33.3 1 1 100.0 0 0 0 0 2 0 2 3 -2
+p858
+aVJames Johnson SAC 11/05/2012 SAC vs. GSW W 29 7 2 8 25.0 0 2 0.0 3 6 50.0 0 2 2 2 1 2 0 5 6
+p859
+aVCharles Hayes SAC 11/03/2012 SAC @ IND L 34 2 1 2 50.0 0 0 - 0 0 - 2 4 6 4 0 3 0 4 -7
+p860
+aVIsaiah Thomas SAC 11/03/2012 SAC @ IND L 23 5 2 6 33.3 1 4 25.0 0 0 - 1 1 2 2 1 0 5 0 -2
+p861
+aVJason Thompson SAC 11/03/2012 SAC @ IND L 24 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 3 0 3 0
+p862
+aVAaron Brooks SAC 11/03/2012 SAC @ IND L 35 11 4 11 36.4 3 7 42.9 0 0 - 1 4 5 2 1 1 2 5 -4
+p863
+aVThomas Robinson SAC 11/03/2012 SAC @ IND L 12 9 3 6 50.0 0 0 - 3 4 75.0 0 0 0 0 2 0 1 3 -1
+p864
+aVJames Johnson SAC 11/03/2012 SAC @ IND L 20 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 1 1 3 2 0 -11
+p865
+aVFrancisco Garcia SAC 11/03/2012 SAC @ IND L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 1 4
+p866
+aVTyreke Evans SAC 11/03/2012 SAC @ IND L 44 14 5 15 33.3 0 0 - 4 4 100.0 2 7 9 4 3 2 4 3 -12
+p867
+aVMarcus Thornton SAC 11/03/2012 SAC @ IND L 42 26 9 21 42.9 4 10 40.0 4 4 100.0 2 4 6 4 2 0 1 3 1
+p868
+aVDeMarcus Cousins SAC 11/03/2012 SAC @ IND L 42 21 9 27 33.3 0 0 - 3 6 50.0 7 6 13 1 4 1 1 4 -8
+p869
+aVJames Johnson SAC 11/02/2012 SAC @ MIN L 21 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 2 2 0 2 3 -7
+p870
+aVThomas Robinson SAC 11/02/2012 SAC @ MIN L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 0 2 0 1 2 -8
+p871
+aVCharles Hayes SAC 11/02/2012 SAC @ MIN L 20 3 1 3 33.3 0 0 - 1 2 50.0 3 8 11 2 0 1 1 3 -1
+p872
+aVIsaiah Thomas SAC 11/02/2012 SAC @ MIN L 26 20 7 13 53.8 3 7 42.9 3 4 75.0 0 2 2 2 0 0 2 5 -7
+p873
+aVAaron Brooks SAC 11/02/2012 SAC @ MIN L 7 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p874
+aVTravis Outlaw SAC 11/02/2012 SAC @ MIN L 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -4
+p875
+aVJimmer Fredette SAC 11/02/2012 SAC @ MIN L 15 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 0
+p876
+aVFrancisco Garcia SAC 11/02/2012 SAC @ MIN L 15 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 2 -7
+p877
+aVDeMarcus Cousins SAC 11/02/2012 SAC @ MIN L 25 11 5 13 38.5 0 0 - 1 1 100.0 0 4 4 0 0 0 1 5 -5
+p878
+aVMarcus Thornton SAC 11/02/2012 SAC @ MIN L 28 15 6 13 46.2 0 4 0.0 3 3 100.0 0 0 0 2 0 0 0 1 -3
+p879
+aVJason Thompson SAC 11/02/2012 SAC @ MIN L 34 10 4 10 40.0 0 0 - 2 2 100.0 4 3 7 2 1 2 0 4 -6
+p880
+aVTyreke Evans SAC 11/02/2012 SAC @ MIN L 30 6 3 14 21.4 0 1 0.0 0 0 - 2 5 7 5 1 0 2 4 -7
+p881
+aVJames Johnson SAC 10/31/2012 SAC @ CHI L 21 2 1 8 12.5 0 1 0.0 0 0 - 2 1 3 1 3 0 4 3 -13
+p882
+aVAaron Brooks SAC 10/31/2012 SAC @ CHI L 23 7 3 10 30.0 1 3 33.3 0 1 0.0 0 3 3 1 1 0 0 6 0
+p883
+aVJason Thompson SAC 10/31/2012 SAC @ CHI L 28 8 3 6 50.0 0 0 - 2 2 100.0 3 5 8 2 0 1 0 4 -2
+p884
+aVFrancisco Garcia SAC 10/31/2012 SAC @ CHI L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 0
+p885
+aVJimmer Fredette SAC 10/31/2012 SAC @ CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p886
+aVDeMarcus Cousins SAC 10/31/2012 SAC @ CHI L 25 14 7 14 50.0 0 0 - 0 0 - 3 4 7 1 3 2 7 4 -12
+p887
+aVCharles Hayes SAC 10/31/2012 SAC @ CHI L 18 2 1 2 50.0 0 0 - 0 0 - 1 2 3 3 1 1 0 3 -2
+p888
+aVTyreke Evans SAC 10/31/2012 SAC @ CHI L 39 21 8 13 61.5 1 2 50.0 4 4 100.0 1 7 8 3 0 1 2 3 1
+p889
+aVThomas Robinson SAC 10/31/2012 SAC @ CHI L 22 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 1 0 3 3 1
+p890
+aVIsaiah Thomas SAC 10/31/2012 SAC @ CHI L 25 10 3 8 37.5 2 3 66.7 2 2 100.0 0 0 0 1 0 0 3 1 -6
+p891
+aVMarcus Thornton SAC 10/31/2012 SAC @ CHI L 32 15 5 15 33.3 1 6 16.7 4 5 80.0 0 4 4 2 1 0 0 1 1
+p892
+a.

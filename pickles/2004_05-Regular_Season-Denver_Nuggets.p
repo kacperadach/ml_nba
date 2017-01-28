@@ -1,0 +1,1678 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAndre Miller DEN 04/19/2005 DEN vs. POR W 15 2 1 4 25.0 0 0 - 0 0 - 1 2 3 5 0 0 3 1 -7
+p2
+aVNene DEN 04/19/2005 DEN vs. POR W 33 21 10 16 62.5 0 0 - 1 1 100.0 3 10 13 4 2 1 2 3 11
+p3
+aVWesley Person DEN 04/19/2005 DEN vs. POR W 18 9 3 5 60.0 2 2 100.0 1 2 50.0 1 3 4 1 1 0 0 1 -6
+p4
+aVFrancisco Elson DEN 04/19/2005 DEN vs. POR W 26 6 3 8 37.5 0 0 - 0 0 - 1 4 5 1 1 1 1 4 1
+p5
+aVBryon Russell DEN 04/19/2005 DEN vs. POR W 9 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 3 -11
+p6
+aVDerMarr Johnson DEN 04/19/2005 DEN vs. POR W 20 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 2 5 10
+p7
+aVEarl Boykins DEN 04/19/2005 DEN vs. POR W 36 24 8 16 50.0 0 0 - 8 8 100.0 0 1 1 12 0 1 2 4 9
+p8
+aVGreg Buckner DEN 04/19/2005 DEN vs. POR W 31 11 5 7 71.4 1 3 33.3 0 0 - 3 4 7 2 2 1 1 5 2
+p9
+aVCarmelo Anthony DEN 04/19/2005 DEN vs. POR W 39 36 12 25 48.0 0 4 0.0 12 14 85.7 5 8 13 1 1 4 3 3 12
+p10
+aVVoshon Lenard DEN 04/19/2005 DEN vs. POR W 13 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 2 1 0 1 1 -1
+p11
+aVAndre Miller DEN 04/18/2005 DEN @ PHX L 29 17 5 12 41.7 0 0 - 7 7 100.0 2 2 4 11 2 0 3 3 -9
+p12
+aVEduardo Najera DEN 04/18/2005 DEN @ PHX L 24 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 0 2 2 -17
+p13
+aVFrancisco Elson DEN 04/18/2005 DEN @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 11
+p14
+aVWesley Person DEN 04/18/2005 DEN @ PHX L 17 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -21
+p15
+aVDerMarr Johnson DEN 04/18/2005 DEN @ PHX L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 2 1 -14
+p16
+aVCarmelo Anthony DEN 04/18/2005 DEN @ PHX L 38 36 12 17 70.6 0 0 - 12 13 92.3 1 3 4 1 2 0 3 4 4
+p17
+aVEarl Boykins DEN 04/18/2005 DEN @ PHX L 25 2 1 9 11.1 0 1 0.0 0 0 - 0 1 1 3 2 0 1 2 -5
+p18
+aVNene DEN 04/18/2005 DEN @ PHX L 23 9 4 10 40.0 0 0 - 1 2 50.0 5 4 9 0 0 0 1 3 -19
+p19
+aVVoshon Lenard DEN 04/18/2005 DEN @ PHX L 17 14 5 11 45.5 2 4 50.0 2 3 66.7 0 3 3 3 0 0 0 0 11
+p20
+aVKenyon Martin DEN 04/18/2005 DEN @ PHX L 28 22 9 18 50.0 0 0 - 4 5 80.0 6 5 11 1 1 1 2 3 -14
+p21
+aVGreg Buckner DEN 04/18/2005 DEN @ PHX L 20 8 3 5 60.0 2 3 66.7 0 0 - 0 5 5 2 4 0 1 1 7
+p22
+aVBryon Russell DEN 04/18/2005 DEN @ PHX L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p23
+aVNene DEN 04/16/2005 DEN @ HOU L 26 12 4 6 66.7 0 0 - 4 10 40.0 0 5 5 1 0 0 0 4 -2
+p24
+aVEarl Boykins DEN 04/16/2005 DEN @ HOU L 30 9 4 7 57.1 0 0 - 1 1 100.0 0 2 2 3 1 0 3 1 -27
+p25
+aVAndre Miller DEN 04/16/2005 DEN @ HOU L 34 12 4 11 36.4 0 0 - 4 4 100.0 0 1 1 9 3 0 2 2 -8
+p26
+aVKenyon Martin DEN 04/16/2005 DEN @ HOU L 31 22 10 17 58.8 0 0 - 2 3 66.7 3 6 9 2 1 0 4 3 -2
+p27
+aVBryon Russell DEN 04/16/2005 DEN @ HOU L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p28
+aVDerMarr Johnson DEN 04/16/2005 DEN @ HOU L 15 4 1 1 100.0 1 1 100.0 1 2 50.0 0 1 1 1 1 0 0 1 3
+p29
+aVWesley Person DEN 04/16/2005 DEN @ HOU L 13 3 1 6 16.7 1 3 33.3 0 0 - 0 0 0 0 0 0 1 1 -27
+p30
+aVFrancisco Elson DEN 04/16/2005 DEN @ HOU L 11 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -14
+p31
+aVEduardo Najera DEN 04/16/2005 DEN @ HOU L 21 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 1 2 4 -30
+p32
+aVGreg Buckner DEN 04/16/2005 DEN @ HOU L 19 6 2 5 40.0 1 2 50.0 1 1 100.0 2 3 5 1 1 0 1 3 -9
+p33
+aVCarmelo Anthony DEN 04/16/2005 DEN @ HOU L 36 16 4 17 23.5 0 1 0.0 8 9 88.9 1 1 2 2 0 0 1 2 -16
+p34
+aVEarl Boykins DEN 04/15/2005 DEN vs. MEM W 29 10 2 7 28.6 0 2 0.0 6 7 85.7 0 1 1 8 0 0 0 2 1
+p35
+aVAndre Miller DEN 04/15/2005 DEN vs. MEM W 33 15 7 10 70.0 0 0 - 1 1 100.0 1 5 6 8 1 0 4 2 19
+p36
+aVWesley Person DEN 04/15/2005 DEN vs. MEM W 21 11 4 9 44.4 3 5 60.0 0 0 - 0 4 4 0 0 0 2 0 2
+p37
+aVEduardo Najera DEN 04/15/2005 DEN vs. MEM W 19 7 3 7 42.9 0 0 - 1 1 100.0 1 1 2 0 1 0 3 5 -15
+p38
+aVCarmelo Anthony DEN 04/15/2005 DEN vs. MEM W 36 22 5 13 38.5 0 0 - 12 14 85.7 3 2 5 1 0 1 4 3 0
+p39
+aVDerMarr Johnson DEN 04/15/2005 DEN vs. MEM W 24 8 4 7 57.1 0 1 0.0 0 0 - 2 3 5 2 2 0 2 2 3
+p40
+aVKenyon Martin DEN 04/15/2005 DEN vs. MEM W 31 17 5 10 50.0 0 0 - 7 7 100.0 1 7 8 5 2 1 2 3 21
+p41
+aVNene DEN 04/15/2005 DEN vs. MEM W 27 14 4 8 50.0 0 0 - 6 9 66.7 9 6 15 1 0 1 2 4 -4
+p42
+aVMarcus Camby DEN 04/15/2005 DEN vs. MEM W 20 7 3 6 50.0 0 0 - 1 2 50.0 0 8 8 3 1 6 3 1 18
+p43
+aVEduardo Najera DEN 04/13/2005 DEN vs. NOH W 22 2 0 4 0.0 0 1 0.0 2 2 100.0 1 4 5 1 1 3 1 0 5
+p44
+aVMarcus Camby DEN 04/13/2005 DEN vs. NOH W 27 6 3 10 30.0 0 0 - 0 0 - 2 8 10 5 2 5 0 3 7
+p45
+aVCarmelo Anthony DEN 04/13/2005 DEN vs. NOH W 34 19 7 13 53.8 0 1 0.0 5 5 100.0 1 4 5 3 1 1 1 1 12
+p46
+aVEarl Boykins DEN 04/13/2005 DEN vs. NOH W 28 18 8 15 53.3 0 0 - 2 2 100.0 0 1 1 11 1 0 0 3 14
+p47
+aVBryon Russell DEN 04/13/2005 DEN vs. NOH W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p48
+aVFrancisco Elson DEN 04/13/2005 DEN vs. NOH W 9 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -3
+p49
+aVAndre Miller DEN 04/13/2005 DEN vs. NOH W 27 10 5 9 55.6 0 0 - 0 0 - 0 3 3 5 1 0 3 4 9
+p50
+aVNene DEN 04/13/2005 DEN vs. NOH W 21 14 5 6 83.3 0 0 - 4 6 66.7 4 4 8 1 1 0 2 2 12
+p51
+aVWesley Person DEN 04/13/2005 DEN vs. NOH W 23 17 7 12 58.3 3 4 75.0 0 0 - 0 0 0 1 2 0 0 0 7
+p52
+aVDerMarr Johnson DEN 04/13/2005 DEN vs. NOH W 18 11 4 8 50.0 0 0 - 3 5 60.0 1 2 3 1 2 0 1 4 -2
+p53
+aVKenyon Martin DEN 04/13/2005 DEN vs. NOH W 22 12 5 10 50.0 0 0 - 2 7 28.6 4 3 7 1 0 1 2 2 13
+p54
+aVGreg Buckner DEN 04/11/2005 DEN vs. GSW W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -2
+p55
+aVCarmelo Anthony DEN 04/11/2005 DEN vs. GSW W 33 32 12 16 75.0 0 1 0.0 8 12 66.7 3 6 9 3 0 2 1 3 23
+p56
+aVAndre Miller DEN 04/11/2005 DEN vs. GSW W 33 10 5 8 62.5 0 0 - 0 0 - 0 6 6 16 2 0 4 2 11
+p57
+aVFrancisco Elson DEN 04/11/2005 DEN vs. GSW W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p58
+aVDerMarr Johnson DEN 04/11/2005 DEN vs. GSW W 26 20 6 11 54.5 3 7 42.9 5 6 83.3 2 2 4 0 3 0 2 0 16
+p59
+aVEarl Boykins DEN 04/11/2005 DEN vs. GSW W 25 12 5 6 83.3 0 1 0.0 2 2 100.0 1 3 4 10 0 0 0 0 4
+p60
+aVKenyon Martin DEN 04/11/2005 DEN vs. GSW W 12 12 4 7 57.1 0 0 - 4 5 80.0 0 0 0 0 0 0 0 3 -1
+p61
+aVNene DEN 04/11/2005 DEN vs. GSW W 16 5 2 6 33.3 0 0 - 1 5 20.0 0 2 2 0 1 1 1 4 -5
+p62
+aVMarcus Camby DEN 04/11/2005 DEN vs. GSW W 30 14 5 12 41.7 0 0 - 4 4 100.0 0 9 9 4 1 3 1 1 24
+p63
+aVWesley Person DEN 04/11/2005 DEN vs. GSW W 17 6 3 9 33.3 0 2 0.0 0 0 - 0 6 6 0 1 0 0 0 -4
+p64
+aVBryon Russell DEN 04/11/2005 DEN vs. GSW W 10 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 2 0 0 0 1 -3
+p65
+aVEduardo Najera DEN 04/11/2005 DEN vs. GSW W 25 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 3 1 0 2 0 19
+p66
+aVCarmelo Anthony DEN 04/09/2005 DEN vs. SEA W 29 24 8 17 47.1 0 1 0.0 8 9 88.9 1 0 1 0 0 0 2 4 2
+p67
+aVGreg Buckner DEN 04/09/2005 DEN vs. SEA W 21 0 0 0 - 0 0 - 0 0 - 0 4 4 2 0 0 0 2 6
+p68
+aVEarl Boykins DEN 04/09/2005 DEN vs. SEA W 30 23 8 11 72.7 1 2 50.0 6 8 75.0 0 1 1 3 2 0 3 0 15
+p69
+aVNene DEN 04/09/2005 DEN vs. SEA W 21 16 3 5 60.0 0 0 - 10 14 71.4 2 5 7 1 0 2 1 0 11
+p70
+aVFrancisco Elson DEN 04/09/2005 DEN vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p71
+aVWesley Person DEN 04/09/2005 DEN vs. SEA W 16 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 3
+p72
+aVKenyon Martin DEN 04/09/2005 DEN vs. SEA W 31 14 5 7 71.4 0 0 - 4 6 66.7 1 3 4 2 0 2 2 2 12
+p73
+aVAndre Miller DEN 04/09/2005 DEN vs. SEA W 32 14 5 9 55.6 0 1 0.0 4 4 100.0 0 3 3 17 3 0 1 0 13
+p74
+aVDerMarr Johnson DEN 04/09/2005 DEN vs. SEA W 18 14 4 8 50.0 3 5 60.0 3 3 100.0 0 1 1 2 0 0 0 3 1
+p75
+aVMarcus Camby DEN 04/09/2005 DEN vs. SEA W 33 9 4 8 50.0 0 0 - 1 2 50.0 2 11 13 3 0 3 2 5 12
+p76
+aVBryon Russell DEN 04/09/2005 DEN vs. SEA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 2 1 3 7
+p77
+aVKenyon Martin DEN 04/08/2005 DEN @ MIN W 33 24 10 17 58.8 0 0 - 4 6 66.7 3 2 5 4 2 1 1 6 2
+p78
+aVNene DEN 04/08/2005 DEN @ MIN W 13 2 1 4 25.0 0 0 - 0 1 0.0 0 1 1 1 1 0 1 4 5
+p79
+aVMarcus Camby DEN 04/08/2005 DEN @ MIN W 27 10 5 10 50.0 0 0 - 0 0 - 0 9 9 0 0 2 0 5 5
+p80
+aVEarl Boykins DEN 04/08/2005 DEN @ MIN W 15 4 2 10 20.0 0 2 0.0 0 0 - 1 1 2 5 0 0 0 1 -7
+p81
+aVEduardo Najera DEN 04/08/2005 DEN @ MIN W 19 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -1
+p82
+aVDerMarr Johnson DEN 04/08/2005 DEN @ MIN W 20 9 4 8 50.0 1 3 33.3 0 0 - 1 3 4 0 0 0 2 0 1
+p83
+aVFrancisco Elson DEN 04/08/2005 DEN @ MIN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -5
+p84
+aVCarmelo Anthony DEN 04/08/2005 DEN @ MIN W 37 26 10 15 66.7 0 0 - 6 8 75.0 1 5 6 3 0 1 0 0 9
+p85
+aVWesley Person DEN 04/08/2005 DEN @ MIN W 13 10 4 4 100.0 2 2 100.0 0 0 - 0 3 3 1 0 0 1 2 -1
+p86
+aVAndre Miller DEN 04/08/2005 DEN @ MIN W 34 22 10 20 50.0 0 1 0.0 2 2 100.0 1 3 4 15 3 0 2 2 11
+p87
+aVGreg Buckner DEN 04/08/2005 DEN @ MIN W 25 0 0 3 0.0 0 2 0.0 0 0 - 2 5 7 1 1 0 0 3 -4
+p88
+aVNene DEN 04/06/2005 DEN @ NOH W 25 10 4 8 50.0 0 0 - 2 4 50.0 1 5 6 2 1 0 0 3 22
+p89
+aVMarcus Camby DEN 04/06/2005 DEN @ NOH W 27 11 4 8 50.0 0 0 - 3 4 75.0 0 13 13 3 0 3 2 1 17
+p90
+aVDerMarr Johnson DEN 04/06/2005 DEN @ NOH W 25 12 4 4 100.0 1 1 100.0 3 4 75.0 0 3 3 0 2 0 0 4 9
+p91
+aVEduardo Najera DEN 04/06/2005 DEN @ NOH W 22 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 5 -6
+p92
+aVWesley Person DEN 04/06/2005 DEN @ NOH W 21 12 5 7 71.4 2 2 100.0 0 0 - 0 3 3 0 0 0 0 2 -9
+p93
+aVKenyon Martin DEN 04/06/2005 DEN @ NOH W 22 9 3 9 33.3 0 0 - 3 4 75.0 3 1 4 2 0 1 1 0 -11
+p94
+aVAndre Miller DEN 04/06/2005 DEN @ NOH W 31 16 4 9 44.4 0 0 - 8 8 100.0 1 0 1 8 2 0 2 2 17
+p95
+aVEarl Boykins DEN 04/06/2005 DEN @ NOH W 21 0 0 7 0.0 0 0 - 0 0 - 0 1 1 4 1 0 1 1 1
+p96
+aVBryon Russell DEN 04/06/2005 DEN @ NOH W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 3 2 1 0 1 -2
+p97
+aVCarmelo Anthony DEN 04/06/2005 DEN @ NOH W 36 18 6 18 33.3 0 0 - 6 7 85.7 1 5 6 1 0 0 6 2 17
+p98
+aVKenyon Martin DEN 04/05/2005 DEN @ MEM W 28 20 8 11 72.7 0 0 - 4 4 100.0 1 6 7 1 2 0 0 4 5
+p99
+aVDerMarr Johnson DEN 04/05/2005 DEN @ MEM W 19 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 3 1 0 0 1 6
+p100
+aVAndre Miller DEN 04/05/2005 DEN @ MEM W 37 18 8 12 66.7 0 1 0.0 2 4 50.0 0 5 5 6 1 0 3 3 -3
+p101
+aVMarcus Camby DEN 04/05/2005 DEN @ MEM W 34 14 6 10 60.0 0 0 - 2 2 100.0 1 6 7 3 0 2 3 4 0
+p102
+aVCarmelo Anthony DEN 04/05/2005 DEN @ MEM W 32 24 11 17 64.7 0 2 0.0 2 2 100.0 2 6 8 2 0 0 2 4 11
+p103
+aVEduardo Najera DEN 04/05/2005 DEN @ MEM W 14 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 3
+p104
+aVBryon Russell DEN 04/05/2005 DEN @ MEM W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 1 -2
+p105
+aVNene DEN 04/05/2005 DEN @ MEM W 20 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 1 1 0 2 -2
+p106
+aVEarl Boykins DEN 04/05/2005 DEN @ MEM W 27 6 2 13 15.4 0 2 0.0 2 4 50.0 0 1 1 3 1 0 1 3 -3
+p107
+aVWesley Person DEN 04/05/2005 DEN @ MEM W 24 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 1 2 0 1 3 0
+p108
+aVWesley Person DEN 04/02/2005 DEN @ POR W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -4
+p109
+aVFrancisco Elson DEN 04/02/2005 DEN @ POR W 7 0 0 3 0.0 0 0 - 0 2 0.0 1 0 1 0 0 2 0 0 -2
+p110
+aVMarcus Camby DEN 04/02/2005 DEN @ POR W 28 6 2 8 25.0 0 0 - 2 2 100.0 1 7 8 3 3 2 1 1 1
+p111
+aVDerMarr Johnson DEN 04/02/2005 DEN @ POR W 29 10 5 6 83.3 0 0 - 0 2 0.0 2 3 5 1 2 2 2 4 5
+p112
+aVEarl Boykins DEN 04/02/2005 DEN @ POR W 29 17 5 12 41.7 0 2 0.0 7 7 100.0 1 0 1 5 0 0 2 1 8
+p113
+aVBryon Russell DEN 04/02/2005 DEN @ POR W 10 7 3 4 75.0 1 2 50.0 0 0 - 4 2 6 0 0 0 0 3 -2
+p114
+aVEduardo Najera DEN 04/02/2005 DEN @ POR W 22 8 4 7 57.1 0 0 - 0 2 0.0 2 2 4 2 0 0 1 5 10
+p115
+aVCarmelo Anthony DEN 04/02/2005 DEN @ POR W 38 23 9 17 52.9 0 0 - 5 5 100.0 0 6 6 3 1 0 4 5 8
+p116
+aVAndre Miller DEN 04/02/2005 DEN @ POR W 31 16 6 11 54.5 0 0 - 4 5 80.0 1 3 4 7 1 0 5 2 0
+p117
+aVNene DEN 04/02/2005 DEN @ POR W 33 14 6 6 100.0 0 0 - 2 2 100.0 1 5 6 2 1 1 4 4 6
+p118
+aVGreg Buckner DEN 04/01/2005 DEN vs. SAS W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 1
+p119
+aVEduardo Najera DEN 04/01/2005 DEN vs. SAS W 28 9 4 9 44.4 0 0 - 1 3 33.3 4 3 7 3 0 0 0 4 6
+p120
+aVCarmelo Anthony DEN 04/01/2005 DEN vs. SAS W 32 18 3 12 25.0 0 1 0.0 12 14 85.7 3 4 7 0 0 0 1 1 5
+p121
+aVWesley Person DEN 04/01/2005 DEN vs. SAS W 17 4 2 3 66.7 0 0 - 0 0 - 0 3 3 3 1 0 0 1 11
+p122
+aVAndre Miller DEN 04/01/2005 DEN vs. SAS W 33 12 4 9 44.4 0 0 - 4 4 100.0 3 3 6 6 1 0 4 1 13
+p123
+aVDerMarr Johnson DEN 04/01/2005 DEN vs. SAS W 20 8 3 6 50.0 2 2 100.0 0 0 - 1 2 3 0 1 0 0 4 1
+p124
+aVNene DEN 04/01/2005 DEN vs. SAS W 27 13 5 12 41.7 0 0 - 3 3 100.0 0 7 7 0 0 3 4 4 16
+p125
+aVMarcus Camby DEN 04/01/2005 DEN vs. SAS W 34 15 6 13 46.2 0 0 - 3 3 100.0 3 7 10 5 0 8 0 3 15
+p126
+aVEarl Boykins DEN 04/01/2005 DEN vs. SAS W 28 23 7 13 53.8 2 2 100.0 7 7 100.0 1 0 1 3 1 0 0 3 21
+p127
+aVBryon Russell DEN 04/01/2005 DEN vs. SAS W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 1 2 1
+p128
+aVNene DEN 03/30/2005 DEN @ UTA W 23 1 0 3 0.0 0 0 - 1 2 50.0 2 4 6 2 2 0 4 5 -3
+p129
+aVFrancisco Elson DEN 03/30/2005 DEN @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p130
+aVDerMarr Johnson DEN 03/30/2005 DEN @ UTA W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 3
+p131
+aVBryon Russell DEN 03/30/2005 DEN @ UTA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p132
+aVGreg Buckner DEN 03/30/2005 DEN @ UTA W 17 7 2 3 66.7 1 1 100.0 2 2 100.0 1 1 2 1 0 0 0 3 1
+p133
+aVAndre Miller DEN 03/30/2005 DEN @ UTA W 37 24 7 10 70.0 0 0 - 10 11 90.9 0 4 4 9 2 0 4 3 20
+p134
+aVWesley Person DEN 03/30/2005 DEN @ UTA W 17 9 3 6 50.0 1 3 33.3 2 2 100.0 0 3 3 1 1 0 1 1 -10
+p135
+aVEduardo Najera DEN 03/30/2005 DEN @ UTA W 34 9 3 4 75.0 0 0 - 3 7 42.9 0 1 1 0 1 0 2 3 9
+p136
+aVCarmelo Anthony DEN 03/30/2005 DEN @ UTA W 35 23 9 16 56.3 0 2 0.0 5 7 71.4 1 3 4 1 1 0 2 4 15
+p137
+aVMarcus Camby DEN 03/30/2005 DEN @ UTA W 38 23 11 17 64.7 0 0 - 1 4 25.0 3 13 16 2 1 4 0 4 17
+p138
+aVEarl Boykins DEN 03/30/2005 DEN @ UTA W 26 11 3 8 37.5 0 3 0.0 5 5 100.0 2 1 3 6 0 0 3 1 6
+p139
+aVAndre Miller DEN 03/28/2005 DEN @ PHX L 35 19 9 19 47.4 0 0 - 1 2 50.0 5 1 6 7 1 0 2 3 -7
+p140
+aVEduardo Najera DEN 03/28/2005 DEN @ PHX L 27 10 4 8 50.0 0 0 - 2 2 100.0 2 5 7 1 1 1 2 4 2
+p141
+aVWesley Person DEN 03/28/2005 DEN @ PHX L 20 14 5 6 83.3 4 4 100.0 0 0 - 0 1 1 2 1 0 0 0 8
+p142
+aVEarl Boykins DEN 03/28/2005 DEN @ PHX L 26 11 3 11 27.3 1 4 25.0 4 4 100.0 0 0 0 7 1 0 2 1 6
+p143
+aVNene DEN 03/28/2005 DEN @ PHX L 15 4 0 3 0.0 0 0 - 4 6 66.7 0 3 3 2 1 0 0 2 9
+p144
+aVGreg Buckner DEN 03/28/2005 DEN @ PHX L 23 10 4 6 66.7 2 3 66.7 0 0 - 2 3 5 2 3 0 1 2 -5
+p145
+aVMarcus Camby DEN 03/28/2005 DEN @ PHX L 29 14 7 11 63.6 0 0 - 0 0 - 4 5 9 3 1 3 2 2 -22
+p146
+aVCarmelo Anthony DEN 03/28/2005 DEN @ PHX L 32 22 8 19 42.1 0 3 0.0 6 10 60.0 3 3 6 1 2 0 3 5 -16
+p147
+aVBryon Russell DEN 03/28/2005 DEN @ PHX L 21 8 3 6 50.0 2 4 50.0 0 0 - 0 1 1 0 2 1 1 3 -13
+p148
+aVDerMarr Johnson DEN 03/28/2005 DEN @ PHX L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p149
+aVGreg Buckner DEN 03/26/2005 DEN vs. SAC W 29 11 4 6 66.7 2 3 66.7 1 1 100.0 0 3 3 1 4 0 0 2 2
+p150
+aVFrancisco Elson DEN 03/26/2005 DEN vs. SAC W 26 5 2 6 33.3 0 0 - 1 2 50.0 3 7 10 2 2 0 2 4 11
+p151
+aVCarmelo Anthony DEN 03/26/2005 DEN vs. SAC W 34 28 8 17 47.1 2 4 50.0 10 12 83.3 4 3 7 4 0 1 0 5 18
+p152
+aVWesley Person DEN 03/26/2005 DEN vs. SAC W 11 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 1 1 1 -9
+p153
+aVAndre Miller DEN 03/26/2005 DEN vs. SAC W 37 18 8 15 53.3 0 1 0.0 2 2 100.0 2 4 6 10 1 0 2 1 23
+p154
+aVNene DEN 03/26/2005 DEN vs. SAC W 21 12 5 7 71.4 0 0 - 2 6 33.3 1 2 3 3 2 2 3 4 9
+p155
+aVDerMarr Johnson DEN 03/26/2005 DEN vs. SAC W 18 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 2 0 1 1 19
+p156
+aVKenyon Martin DEN 03/26/2005 DEN vs. SAC W 18 3 1 4 25.0 0 0 - 1 3 33.3 0 4 4 4 0 0 2 1 8
+p157
+aVEarl Boykins DEN 03/26/2005 DEN vs. SAC W 24 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 5 0 0 2 1 -10
+p158
+aVEduardo Najera DEN 03/26/2005 DEN vs. SAC W 22 16 8 11 72.7 0 0 - 0 3 0.0 5 6 11 1 1 0 2 5 -1
+p159
+aVEarl Boykins DEN 03/24/2005 DEN vs. LAL W 28 21 5 11 45.5 3 4 75.0 8 9 88.9 0 2 2 4 2 0 2 2 17
+p160
+aVFrancisco Elson DEN 03/24/2005 DEN vs. LAL W 13 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 2 0 1 3 1
+p161
+aVWesley Person DEN 03/24/2005 DEN vs. LAL W 21 8 4 11 36.4 0 5 0.0 0 0 - 0 3 3 2 0 0 0 0 12
+p162
+aVDerMarr Johnson DEN 03/24/2005 DEN vs. LAL W 24 20 8 17 47.1 4 9 44.4 0 0 - 1 1 2 1 0 0 1 2 0
+p163
+aVCarmelo Anthony DEN 03/24/2005 DEN vs. LAL W 31 16 5 10 50.0 1 1 100.0 5 8 62.5 1 2 3 4 2 0 5 4 16
+p164
+aVAndre Miller DEN 03/24/2005 DEN vs. LAL W 27 18 8 10 80.0 0 0 - 2 2 100.0 2 2 4 6 2 0 3 2 6
+p165
+aVBryon Russell DEN 03/24/2005 DEN vs. LAL W 24 4 1 6 16.7 1 4 25.0 1 2 50.0 2 1 3 2 1 0 1 5 -1
+p166
+aVGreg Buckner DEN 03/24/2005 DEN vs. LAL W 20 9 3 6 50.0 1 3 33.3 2 2 100.0 1 5 6 3 1 0 0 1 17
+p167
+aVEduardo Najera DEN 03/24/2005 DEN vs. LAL W 31 12 6 11 54.5 0 0 - 0 0 - 3 4 7 1 0 3 1 2 21
+p168
+aVNene DEN 03/24/2005 DEN vs. LAL W 21 7 1 2 50.0 0 0 - 5 8 62.5 1 5 6 2 3 1 0 5 16
+p169
+aVKenyon Martin DEN 03/22/2005 DEN vs. WAS W 22 14 6 8 75.0 0 1 0.0 2 7 28.6 2 3 5 2 1 2 2 3 15
+p170
+aVGreg Buckner DEN 03/22/2005 DEN vs. WAS W 27 7 3 7 42.9 1 4 25.0 0 1 0.0 2 3 5 3 2 0 0 5 23
+p171
+aVCarmelo Anthony DEN 03/22/2005 DEN vs. WAS W 23 14 6 10 60.0 1 1 100.0 1 4 25.0 1 3 4 5 0 0 4 4 7
+p172
+aVEduardo Najera DEN 03/22/2005 DEN vs. WAS W 23 16 7 8 87.5 0 0 - 2 2 100.0 1 4 5 3 1 0 1 3 12
+p173
+aVMarcus Camby DEN 03/22/2005 DEN vs. WAS W 21 6 2 8 25.0 0 0 - 2 6 33.3 0 5 5 2 3 2 1 2 8
+p174
+aVDerMarr Johnson DEN 03/22/2005 DEN vs. WAS W 24 20 8 11 72.7 2 3 66.7 2 2 100.0 1 2 3 1 2 0 2 4 11
+p175
+aVBryon Russell DEN 03/22/2005 DEN vs. WAS W 10 7 2 5 40.0 2 4 50.0 1 2 50.0 1 4 5 1 0 0 0 1 11
+p176
+aVNene DEN 03/22/2005 DEN vs. WAS W 13 7 2 5 40.0 0 0 - 3 4 75.0 2 4 6 0 0 1 1 4 7
+p177
+aVWesley Person DEN 03/22/2005 DEN vs. WAS W 22 9 4 11 36.4 1 3 33.3 0 0 - 0 4 4 4 0 0 0 3 13
+p178
+aVFrancisco Elson DEN 03/22/2005 DEN vs. WAS W 8 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 1 1 1 8
+p179
+aVAndre Miller DEN 03/22/2005 DEN vs. WAS W 25 10 4 8 50.0 0 1 0.0 2 2 100.0 2 0 2 7 5 0 1 2 14
+p180
+aVEarl Boykins DEN 03/22/2005 DEN vs. WAS W 22 11 4 6 66.7 1 1 100.0 2 2 100.0 1 1 2 9 1 0 3 0 16
+p181
+aVEduardo Najera DEN 03/20/2005 DEN vs. MIL W 22 12 5 7 71.4 0 0 - 2 2 100.0 3 0 3 1 0 2 0 1 -1
+p182
+aVGreg Buckner DEN 03/20/2005 DEN vs. MIL W 20 6 2 6 33.3 1 1 100.0 1 2 50.0 2 2 4 2 2 0 0 4 5
+p183
+aVWesley Person DEN 03/20/2005 DEN vs. MIL W 19 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 2 -2
+p184
+aVEarl Boykins DEN 03/20/2005 DEN vs. MIL W 29 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 8 0 0 1 0 3
+p185
+aVCarmelo Anthony DEN 03/20/2005 DEN vs. MIL W 30 15 5 12 41.7 0 2 0.0 5 5 100.0 2 1 3 1 0 1 3 5 11
+p186
+aVAndre Miller DEN 03/20/2005 DEN vs. MIL W 29 22 5 8 62.5 0 1 0.0 12 13 92.3 0 5 5 8 0 0 4 3 11
+p187
+aVKenyon Martin DEN 03/20/2005 DEN vs. MIL W 30 19 8 12 66.7 0 0 - 3 4 75.0 1 2 3 1 2 3 2 5 19
+p188
+aVNene DEN 03/20/2005 DEN vs. MIL W 7 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -1
+p189
+aVMarcus Camby DEN 03/20/2005 DEN vs. MIL W 35 9 3 7 42.9 0 0 - 3 4 75.0 0 9 9 4 2 3 1 1 7
+p190
+aVDerMarr Johnson DEN 03/20/2005 DEN vs. MIL W 19 9 3 3 100.0 2 2 100.0 1 1 100.0 0 4 4 1 0 0 0 3 8
+p191
+aVWesley Person DEN 03/18/2005 DEN vs. LAC W 21 10 4 7 57.1 1 1 100.0 1 3 33.3 0 0 0 2 1 0 1 2 12
+p192
+aVKenyon Martin DEN 03/18/2005 DEN vs. LAC W 29 17 8 15 53.3 0 0 - 1 4 25.0 2 7 9 0 0 2 2 2 14
+p193
+aVEarl Boykins DEN 03/18/2005 DEN vs. LAC W 29 14 4 12 33.3 0 4 0.0 6 6 100.0 0 2 2 10 1 0 1 2 23
+p194
+aVDerMarr Johnson DEN 03/18/2005 DEN vs. LAC W 18 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 1 0 2 -8
+p195
+aVEduardo Najera DEN 03/18/2005 DEN vs. LAC W 24 6 3 7 42.9 0 1 0.0 0 0 - 1 5 6 2 4 1 2 4 9
+p196
+aVFrancisco Elson DEN 03/18/2005 DEN vs. LAC W 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 -7
+p197
+aVCarmelo Anthony DEN 03/18/2005 DEN vs. LAC W 30 21 6 9 66.7 1 1 100.0 8 10 80.0 2 2 4 4 1 0 1 5 16
+p198
+aVMarcus Camby DEN 03/18/2005 DEN vs. LAC W 30 20 7 13 53.8 0 2 0.0 6 8 75.0 3 14 17 3 0 3 2 1 19
+p199
+aVMark Pope DEN 03/18/2005 DEN vs. LAC W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p200
+aVGreg Buckner DEN 03/18/2005 DEN vs. LAC W 16 11 5 5 100.0 1 1 100.0 0 2 0.0 0 1 1 0 1 0 0 3 0
+p201
+aVAndre Miller DEN 03/18/2005 DEN vs. LAC W 30 8 3 3 100.0 0 0 - 2 4 50.0 1 3 4 10 0 0 1 2 14
+p202
+aVEarl Boykins DEN 03/16/2005 DEN vs. CHA W 20 10 4 7 57.1 0 1 0.0 2 2 100.0 0 3 3 11 1 0 1 0 7
+p203
+aVWesley Person DEN 03/16/2005 DEN vs. CHA W 24 13 5 8 62.5 2 3 66.7 1 2 50.0 0 4 4 1 0 2 0 0 14
+p204
+aVAndre Miller DEN 03/16/2005 DEN vs. CHA W 32 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 14 1 0 3 1 10
+p205
+aVMark Pope DEN 03/16/2005 DEN vs. CHA W 5 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -3
+p206
+aVBryon Russell DEN 03/16/2005 DEN vs. CHA W 13 12 4 9 44.4 2 5 40.0 2 2 100.0 0 3 3 0 0 0 1 1 -1
+p207
+aVEduardo Najera DEN 03/16/2005 DEN vs. CHA W 22 13 6 8 75.0 0 0 - 1 2 50.0 2 4 6 2 1 1 1 2 13
+p208
+aVDerMarr Johnson DEN 03/16/2005 DEN vs. CHA W 22 14 5 5 100.0 2 2 100.0 2 2 100.0 1 2 3 1 0 1 0 2 7
+p209
+aVMarcus Camby DEN 03/16/2005 DEN vs. CHA W 25 7 2 8 25.0 0 1 0.0 3 4 75.0 1 11 12 4 1 3 1 3 12
+p210
+aVCarmelo Anthony DEN 03/16/2005 DEN vs. CHA W 21 25 10 16 62.5 2 4 50.0 3 4 75.0 1 2 3 2 0 2 3 3 7
+p211
+aVGreg Buckner DEN 03/16/2005 DEN vs. CHA W 25 7 1 6 16.7 1 5 20.0 4 6 66.7 2 0 2 2 3 0 1 3 12
+p212
+aVFrancisco Elson DEN 03/16/2005 DEN vs. CHA W 31 14 7 12 58.3 0 0 - 0 2 0.0 4 2 6 3 2 1 2 2 17
+p213
+aVCarmelo Anthony DEN 03/13/2005 DEN vs. PHX L 24 9 2 10 20.0 0 0 - 5 8 62.5 3 1 4 2 0 0 1 0 -12
+p214
+aVDerMarr Johnson DEN 03/13/2005 DEN vs. PHX L 18 11 4 7 57.1 2 5 40.0 1 2 50.0 0 1 1 1 0 1 2 2 -3
+p215
+aVWesley Person DEN 03/13/2005 DEN vs. PHX L 28 14 5 10 50.0 4 8 50.0 0 0 - 0 5 5 2 0 0 0 1 4
+p216
+aVBryon Russell DEN 03/13/2005 DEN vs. PHX L 17 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 1 0 4 2
+p217
+aVFrancisco Elson DEN 03/13/2005 DEN vs. PHX L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -13
+p218
+aVAndre Miller DEN 03/13/2005 DEN vs. PHX L 33 8 3 9 33.3 0 1 0.0 2 2 100.0 1 5 6 7 2 0 2 3 -14
+p219
+aVEduardo Najera DEN 03/13/2005 DEN vs. PHX L 22 2 1 5 20.0 0 0 - 0 0 - 2 6 8 1 0 1 0 2 1
+p220
+aVEarl Boykins DEN 03/13/2005 DEN vs. PHX L 31 20 6 19 31.6 1 3 33.3 7 8 87.5 1 1 2 9 3 0 0 2 8
+p221
+aVKenyon Martin DEN 03/13/2005 DEN vs. PHX L 36 21 9 22 40.9 0 0 - 3 6 50.0 1 8 9 1 5 1 1 4 3
+p222
+aVGreg Buckner DEN 03/13/2005 DEN vs. PHX L 19 14 6 8 75.0 2 4 50.0 0 0 - 0 2 2 1 1 0 0 1 -1
+p223
+aVMarcus Camby DEN 03/12/2005 DEN @ SAS W 35 8 4 9 44.4 0 0 - 0 0 - 0 7 7 1 2 3 1 1 13
+p224
+aVAndre Miller DEN 03/12/2005 DEN @ SAS W 29 14 5 12 41.7 0 0 - 4 6 66.7 0 3 3 0 0 0 1 3 13
+p225
+aVKenyon Martin DEN 03/12/2005 DEN @ SAS W 36 23 9 15 60.0 0 0 - 5 7 71.4 2 4 6 2 1 3 1 4 4
+p226
+aVGreg Buckner DEN 03/12/2005 DEN @ SAS W 24 3 1 4 25.0 1 3 33.3 0 0 - 1 5 6 0 1 0 1 3 4
+p227
+aVFrancisco Elson DEN 03/12/2005 DEN @ SAS W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -5
+p228
+aVEduardo Najera DEN 03/12/2005 DEN @ SAS W 18 5 2 4 50.0 0 0 - 1 4 25.0 2 3 5 0 1 0 0 2 -10
+p229
+aVCarmelo Anthony DEN 03/12/2005 DEN @ SAS W 37 21 4 17 23.5 1 1 100.0 12 13 92.3 4 2 6 1 0 1 3 4 6
+p230
+aVEarl Boykins DEN 03/12/2005 DEN @ SAS W 24 8 2 8 25.0 1 1 100.0 3 4 75.0 1 0 1 8 2 0 1 1 -2
+p231
+aVDerMarr Johnson DEN 03/12/2005 DEN @ SAS W 9 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 1
+p232
+aVWesley Person DEN 03/12/2005 DEN @ SAS W 22 5 2 6 33.3 1 5 20.0 0 0 - 0 0 0 1 1 0 1 1 -9
+p233
+aVCarmelo Anthony DEN 03/07/2005 DEN vs. POR W 29 23 9 18 50.0 0 2 0.0 5 6 83.3 2 5 7 3 4 1 3 1 10
+p234
+aVEarl Boykins DEN 03/07/2005 DEN vs. POR W 28 10 4 12 33.3 1 1 100.0 1 1 100.0 2 0 2 8 2 0 1 2 2
+p235
+aVFrancisco Elson DEN 03/07/2005 DEN vs. POR W 34 15 6 9 66.7 0 0 - 3 4 75.0 2 3 5 4 0 2 1 5 10
+p236
+aVGreg Buckner DEN 03/07/2005 DEN vs. POR W 21 16 4 5 80.0 4 4 100.0 4 4 100.0 0 3 3 1 2 0 0 1 6
+p237
+aVWesley Person DEN 03/07/2005 DEN vs. POR W 22 18 8 15 53.3 2 4 50.0 0 0 - 0 3 3 1 0 1 0 0 -1
+p238
+aVMark Pope DEN 03/07/2005 DEN vs. POR W 5 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -5
+p239
+aVKenyon Martin DEN 03/07/2005 DEN vs. POR W 23 7 3 8 37.5 0 0 - 1 1 100.0 1 1 2 4 5 4 2 2 16
+p240
+aVEduardo Najera DEN 03/07/2005 DEN vs. POR W 23 3 0 7 0.0 0 0 - 3 4 75.0 6 2 8 0 2 0 3 3 5
+p241
+aVBryon Russell DEN 03/07/2005 DEN vs. POR W 9 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 0 2
+p242
+aVAndre Miller DEN 03/07/2005 DEN vs. POR W 27 10 3 5 60.0 0 0 - 4 4 100.0 1 5 6 7 1 0 4 0 14
+p243
+aVDerMarr Johnson DEN 03/07/2005 DEN vs. POR W 19 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 4 0 0 1 3 6
+p244
+aVCarmelo Anthony DEN 03/05/2005 DEN @ LAC W 31 21 9 14 64.3 0 0 - 3 3 100.0 2 4 6 0 0 0 2 2 -2
+p245
+aVAndre Miller DEN 03/05/2005 DEN @ LAC W 29 5 2 9 22.2 0 0 - 1 2 50.0 0 4 4 10 2 0 2 4 -3
+p246
+aVBryon Russell DEN 03/05/2005 DEN @ LAC W 16 11 3 5 60.0 3 3 100.0 2 2 100.0 2 1 3 2 1 0 0 2 19
+p247
+aVMarcus Camby DEN 03/05/2005 DEN @ LAC W 35 14 6 15 40.0 0 0 - 2 4 50.0 1 11 12 5 3 3 2 4 9
+p248
+aVEarl Boykins DEN 03/05/2005 DEN @ LAC W 22 22 7 12 58.3 2 2 100.0 6 6 100.0 0 0 0 2 1 0 4 1 16
+p249
+aVWesley Person DEN 03/05/2005 DEN @ LAC W 20 10 4 8 50.0 2 3 66.7 0 0 - 0 4 4 3 0 0 1 0 19
+p250
+aVDerMarr Johnson DEN 03/05/2005 DEN @ LAC W 22 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 1 1 1 2 -5
+p251
+aVMark Pope DEN 03/05/2005 DEN @ LAC W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 0
+p252
+aVEduardo Najera DEN 03/05/2005 DEN @ LAC W 25 13 5 9 55.6 0 1 0.0 3 3 100.0 3 3 6 2 1 0 0 2 15
+p253
+aVFrancisco Elson DEN 03/05/2005 DEN @ LAC W 19 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 3 3
+p254
+aVGreg Buckner DEN 03/05/2005 DEN @ LAC W 19 2 1 1 100.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 9
+p255
+aVBryon Russell DEN 03/03/2005 DEN vs. IND W 16 9 2 5 40.0 1 3 33.3 4 5 80.0 1 3 4 3 2 1 1 3 -3
+p256
+aVAndre Miller DEN 03/03/2005 DEN vs. IND W 34 2 1 5 20.0 0 0 - 0 0 - 0 1 1 4 0 0 1 2 3
+p257
+aVWesley Person DEN 03/03/2005 DEN vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p258
+aVMarcus Camby DEN 03/03/2005 DEN vs. IND W 39 17 8 17 47.1 0 0 - 1 2 50.0 4 18 22 7 1 7 4 4 15
+p259
+aVDerMarr Johnson DEN 03/03/2005 DEN vs. IND W 31 7 3 7 42.9 1 1 100.0 0 0 - 1 4 5 2 0 0 2 3 24
+p260
+aVEarl Boykins DEN 03/03/2005 DEN vs. IND W 26 12 4 11 36.4 2 2 100.0 2 3 66.7 1 1 2 5 0 0 4 1 2
+p261
+aVEduardo Najera DEN 03/03/2005 DEN vs. IND W 25 7 1 5 20.0 0 1 0.0 5 5 100.0 2 3 5 0 3 1 3 4 -6
+p262
+aVFrancisco Elson DEN 03/03/2005 DEN vs. IND W 18 14 5 7 71.4 0 0 - 4 6 66.7 0 2 2 0 0 0 1 4 8
+p263
+aVCarmelo Anthony DEN 03/03/2005 DEN vs. IND W 35 28 7 14 50.0 0 0 - 14 16 87.5 1 2 3 3 0 0 4 5 7
+p264
+aVGreg Buckner DEN 03/03/2005 DEN vs. IND W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 1 0 0 4 -2
+p265
+aVMark Pope DEN 03/03/2005 DEN vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p266
+aVMarcus Camby DEN 03/01/2005 DEN vs. ATL W 35 11 5 10 50.0 0 0 - 1 4 25.0 2 11 13 2 0 3 5 2 18
+p267
+aVCarmelo Anthony DEN 03/01/2005 DEN vs. ATL W 31 23 9 16 56.3 0 1 0.0 5 5 100.0 3 4 7 1 1 0 6 2 12
+p268
+aVMark Pope DEN 03/01/2005 DEN vs. ATL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p269
+aVEarl Boykins DEN 03/01/2005 DEN vs. ATL W 25 14 4 11 36.4 1 1 100.0 5 6 83.3 2 0 2 2 2 1 4 1 10
+p270
+aVEduardo Najera DEN 03/01/2005 DEN vs. ATL W 25 11 4 8 50.0 0 1 0.0 3 4 75.0 2 3 5 3 2 0 0 5 27
+p271
+aVGreg Buckner DEN 03/01/2005 DEN vs. ATL W 22 2 1 4 25.0 0 2 0.0 0 0 - 1 4 5 6 4 0 1 3 5
+p272
+aVFrancisco Elson DEN 03/01/2005 DEN vs. ATL W 17 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 3 -1
+p273
+aVDerMarr Johnson DEN 03/01/2005 DEN vs. ATL W 22 10 5 7 71.4 0 2 0.0 0 0 - 1 0 1 3 2 0 2 0 16
+p274
+aVBryon Russell DEN 03/01/2005 DEN vs. ATL W 16 5 2 5 40.0 1 1 100.0 0 0 - 1 0 1 0 2 0 1 2 7
+p275
+aVLuis Flores DEN 03/01/2005 DEN vs. ATL W 4 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 2
+p276
+aVAndre Miller DEN 03/01/2005 DEN vs. ATL W 30 14 6 9 66.7 0 0 - 2 2 100.0 1 1 2 10 2 0 3 3 22
+p277
+aVKenyon Martin DEN 03/01/2005 DEN vs. ATL W 8 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -4
+p278
+aVEarl Boykins DEN 02/27/2005 DEN @ NOH W 31 16 5 10 50.0 0 1 0.0 6 6 100.0 0 3 3 3 1 1 2 1 10
+p279
+aVMarcus Camby DEN 02/27/2005 DEN @ NOH W 37 5 1 6 16.7 0 0 - 3 4 75.0 0 10 10 2 1 7 2 3 12
+p280
+aVBryon Russell DEN 02/27/2005 DEN @ NOH W 28 12 3 8 37.5 2 4 50.0 4 4 100.0 2 4 6 1 2 0 2 2 0
+p281
+aVDerMarr Johnson DEN 02/27/2005 DEN @ NOH W 18 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -5
+p282
+aVAndre Miller DEN 02/27/2005 DEN @ NOH W 39 12 5 13 38.5 0 1 0.0 2 2 100.0 1 2 3 6 6 0 2 3 2
+p283
+aVGreg Buckner DEN 02/27/2005 DEN @ NOH W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p284
+aVEduardo Najera DEN 02/27/2005 DEN @ NOH W 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p285
+aVFrancisco Elson DEN 02/27/2005 DEN @ NOH W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -7
+p286
+aVKenyon Martin DEN 02/27/2005 DEN @ NOH W 23 12 4 9 44.4 0 0 - 4 6 66.7 1 3 4 1 0 0 5 5 -5
+p287
+aVCarmelo Anthony DEN 02/27/2005 DEN @ NOH W 36 31 8 20 40.0 1 3 33.3 14 14 100.0 6 4 10 2 2 0 4 2 12
+p288
+aVBryon Russell DEN 02/25/2005 DEN @ MEM W 34 7 2 7 28.6 1 3 33.3 2 2 100.0 1 7 8 2 0 0 2 3 14
+p289
+aVGreg Buckner DEN 02/25/2005 DEN @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p290
+aVFrancisco Elson DEN 02/25/2005 DEN @ MEM W 13 6 1 1 100.0 0 0 - 4 6 66.7 1 2 3 1 0 2 0 4 0
+p291
+aVMarcus Camby DEN 02/25/2005 DEN @ MEM W 38 17 6 15 40.0 0 0 - 5 5 100.0 3 12 15 1 1 4 3 5 -3
+p292
+aVCarmelo Anthony DEN 02/25/2005 DEN @ MEM W 28 12 3 13 23.1 0 1 0.0 6 8 75.0 6 2 8 0 2 0 5 5 -8
+p293
+aVEduardo Najera DEN 02/25/2005 DEN @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p294
+aVEarl Boykins DEN 02/25/2005 DEN @ MEM W 32 19 2 6 33.3 0 1 0.0 15 16 93.8 1 0 1 4 0 1 3 1 3
+p295
+aVDerMarr Johnson DEN 02/25/2005 DEN @ MEM W 32 9 2 9 22.2 1 7 14.3 4 4 100.0 2 3 5 1 2 0 1 3 6
+p296
+aVKenyon Martin DEN 02/25/2005 DEN @ MEM W 46 12 5 10 50.0 0 0 - 2 4 50.0 1 4 5 2 2 1 4 5 -1
+p297
+aVAndre Miller DEN 02/25/2005 DEN @ MEM W 40 15 4 12 33.3 1 2 50.0 6 7 85.7 1 4 5 5 2 0 3 5 4
+p298
+aVMarcus Camby DEN 02/23/2005 DEN vs. BOS W 27 6 3 7 42.9 0 0 - 0 0 - 2 7 9 3 2 2 3 3 16
+p299
+aVMark Pope DEN 02/23/2005 DEN vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -2
+p300
+aVEarl Boykins DEN 02/23/2005 DEN vs. BOS W 26 8 2 7 28.6 1 4 25.0 3 3 100.0 1 3 4 5 3 0 1 3 3
+p301
+aVKenyon Martin DEN 02/23/2005 DEN vs. BOS W 30 18 8 17 47.1 0 0 - 2 4 50.0 2 11 13 3 2 2 3 4 26
+p302
+aVCarmelo Anthony DEN 02/23/2005 DEN vs. BOS W 26 19 3 14 21.4 1 2 50.0 12 14 85.7 2 4 6 6 0 0 2 4 11
+p303
+aVFrancisco Elson DEN 02/23/2005 DEN vs. BOS W 27 8 4 6 66.7 0 0 - 0 4 0.0 2 6 8 0 2 2 2 1 1
+p304
+aVRodney White DEN 02/23/2005 DEN vs. BOS W 13 8 3 7 42.9 2 3 66.7 0 0 - 0 1 1 0 2 0 2 3 -6
+p305
+aVBryon Russell DEN 02/23/2005 DEN vs. BOS W 20 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 4 0 0 0 0 11
+p306
+aVAndre Miller DEN 02/23/2005 DEN vs. BOS W 32 22 7 14 50.0 0 0 - 8 9 88.9 2 1 3 6 2 0 2 3 25
+p307
+aVNikoloz Tskitishvili DEN 02/23/2005 DEN vs. BOS W 7 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 2 -1
+p308
+aVDerMarr Johnson DEN 02/23/2005 DEN vs. BOS W 29 14 5 9 55.6 2 5 40.0 2 2 100.0 2 2 4 3 1 1 1 3 16
+p309
+aVMarcus Camby DEN 02/16/2005 DEN @ CHA L 37 12 3 12 25.0 0 0 - 6 6 100.0 3 10 13 2 3 7 0 3 -15
+p310
+aVKenyon Martin DEN 02/16/2005 DEN @ CHA L 37 17 6 10 60.0 0 0 - 5 6 83.3 0 5 5 4 0 1 2 6 -1
+p311
+aVFrancisco Elson DEN 02/16/2005 DEN @ CHA L 17 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 0 1 0 0 3 -5
+p312
+aVMark Pope DEN 02/16/2005 DEN @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p313
+aVEarl Boykins DEN 02/16/2005 DEN @ CHA L 37 16 6 12 50.0 0 2 0.0 4 4 100.0 0 3 3 4 2 1 4 2 5
+p314
+aVBryon Russell DEN 02/16/2005 DEN @ CHA L 16 4 1 2 50.0 0 1 0.0 2 2 100.0 1 0 1 0 1 0 0 1 5
+p315
+aVAndre Miller DEN 02/16/2005 DEN @ CHA L 30 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 0 0 4 2 -16
+p316
+aVCarmelo Anthony DEN 02/16/2005 DEN @ CHA L 38 21 8 17 47.1 0 0 - 5 7 71.4 3 4 7 3 1 0 4 2 3
+p317
+aVDerMarr Johnson DEN 02/16/2005 DEN @ CHA L 27 11 4 10 40.0 1 5 20.0 2 2 100.0 1 4 5 0 1 0 2 1 -3
+p318
+aVMarcus Camby DEN 02/15/2005 DEN @ ATL W 37 17 7 18 38.9 0 0 - 3 3 100.0 7 3 10 3 1 6 2 4 12
+p319
+aVGreg Buckner DEN 02/15/2005 DEN @ ATL W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -8
+p320
+aVEarl Boykins DEN 02/15/2005 DEN @ ATL W 34 12 3 11 27.3 0 3 0.0 6 6 100.0 1 1 2 6 2 0 0 2 5
+p321
+aVRodney White DEN 02/15/2005 DEN @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p322
+aVBryon Russell DEN 02/15/2005 DEN @ ATL W 8 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 2 0
+p323
+aVMark Pope DEN 02/15/2005 DEN @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p324
+aVFrancisco Elson DEN 02/15/2005 DEN @ ATL W 21 9 4 4 100.0 0 0 - 1 2 50.0 2 1 3 1 0 2 0 2 -5
+p325
+aVAndre Miller DEN 02/15/2005 DEN @ ATL W 37 5 2 8 25.0 0 0 - 1 2 50.0 0 2 2 4 1 0 5 2 6
+p326
+aVKenyon Martin DEN 02/15/2005 DEN @ ATL W 36 16 5 13 38.5 0 0 - 6 7 85.7 4 7 11 2 2 2 2 4 5
+p327
+aVDerMarr Johnson DEN 02/15/2005 DEN @ ATL W 16 16 6 10 60.0 3 5 60.0 1 2 50.0 2 3 5 1 2 1 1 4 2
+p328
+aVCarmelo Anthony DEN 02/15/2005 DEN @ ATL W 40 22 10 18 55.6 0 3 0.0 2 6 33.3 2 4 6 4 0 0 1 3 7
+p329
+aVEarl Boykins DEN 02/13/2005 DEN @ NJN L 31 7 3 10 30.0 0 2 0.0 1 2 50.0 0 2 2 2 1 0 3 0 -22
+p330
+aVBryon Russell DEN 02/13/2005 DEN @ NJN L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 2 1 -10
+p331
+aVDerMarr Johnson DEN 02/13/2005 DEN @ NJN L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 9
+p332
+aVKenyon Martin DEN 02/13/2005 DEN @ NJN L 30 13 6 14 42.9 0 0 - 1 2 50.0 0 4 4 1 1 1 1 2 -24
+p333
+aVFrancisco Elson DEN 02/13/2005 DEN @ NJN L 31 8 2 2 100.0 0 0 - 4 8 50.0 2 5 7 0 2 0 3 5 -1
+p334
+aVAndre Miller DEN 02/13/2005 DEN @ NJN L 35 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 5 0 0 5 5 -15
+p335
+aVNikoloz Tskitishvili DEN 02/13/2005 DEN @ NJN L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p336
+aVNene DEN 02/13/2005 DEN @ NJN L 15 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 2 0 0 0 2 -4
+p337
+aVCarmelo Anthony DEN 02/13/2005 DEN @ NJN L 33 18 5 12 41.7 0 1 0.0 8 9 88.9 2 6 8 5 2 1 3 3 -24
+p338
+aVGreg Buckner DEN 02/13/2005 DEN @ NJN L 24 8 3 5 60.0 1 2 50.0 1 2 50.0 3 1 4 1 1 0 1 2 1
+p339
+aVRodney White DEN 02/13/2005 DEN @ NJN L 13 12 4 8 50.0 2 3 66.7 2 3 66.7 1 1 2 0 1 0 1 1 9
+p340
+aVAndre Miller DEN 02/11/2005 DEN @ CLE W 36 14 5 10 50.0 0 0 - 4 4 100.0 0 4 4 4 1 0 3 2 -8
+p341
+aVCarmelo Anthony DEN 02/11/2005 DEN @ CLE W 38 14 5 12 41.7 0 0 - 4 5 80.0 3 3 6 1 1 0 4 1 6
+p342
+aVKenyon Martin DEN 02/11/2005 DEN @ CLE W 43 19 8 19 42.1 0 2 0.0 3 5 60.0 1 7 8 0 0 3 3 4 8
+p343
+aVBryon Russell DEN 02/11/2005 DEN @ CLE W 10 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 0 1 1 1 1 -1
+p344
+aVNene DEN 02/11/2005 DEN @ CLE W 38 17 4 8 50.0 0 0 - 9 10 90.0 4 4 8 4 0 1 0 5 -1
+p345
+aVFrancisco Elson DEN 02/11/2005 DEN @ CLE W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 2 7
+p346
+aVEarl Boykins DEN 02/11/2005 DEN @ CLE W 39 20 7 12 58.3 0 0 - 6 6 100.0 0 1 1 8 1 0 2 0 15
+p347
+aVGreg Buckner DEN 02/11/2005 DEN @ CLE W 21 8 3 7 42.9 1 3 33.3 1 2 50.0 1 2 3 5 4 1 0 2 3
+p348
+aVMarcus Camby DEN 02/11/2005 DEN @ CLE W 7 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 2 1 1 3 -4
+p349
+aVEarl Boykins DEN 02/09/2005 DEN @ MIN L 23 19 6 11 54.5 2 4 50.0 5 5 100.0 0 1 1 1 1 1 0 3 -12
+p350
+aVNene DEN 02/09/2005 DEN @ MIN L 21 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 0 3 4 -2
+p351
+aVAndre Miller DEN 02/09/2005 DEN @ MIN L 37 10 5 12 41.7 0 1 0.0 0 1 0.0 1 3 4 12 1 0 2 2 -2
+p352
+aVCarmelo Anthony DEN 02/09/2005 DEN @ MIN L 38 21 8 15 53.3 0 2 0.0 5 6 83.3 1 4 5 4 0 0 2 4 2
+p353
+aVDerMarr Johnson DEN 02/09/2005 DEN @ MIN L 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -7
+p354
+aVKenyon Martin DEN 02/09/2005 DEN @ MIN L 43 16 7 15 46.7 0 1 0.0 2 3 66.7 3 8 11 3 2 0 2 4 1
+p355
+aVBryon Russell DEN 02/09/2005 DEN @ MIN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p356
+aVMarcus Camby DEN 02/09/2005 DEN @ MIN L 31 15 7 14 50.0 0 0 - 1 2 50.0 0 3 3 3 1 2 3 3 -10
+p357
+aVGreg Buckner DEN 02/09/2005 DEN @ MIN L 32 7 2 5 40.0 1 3 33.3 2 2 100.0 0 4 4 4 1 0 2 1 9
+p358
+aVRodney White DEN 02/08/2005 DEN vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p359
+aVNene DEN 02/08/2005 DEN vs. UTA W 24 8 3 8 37.5 0 0 - 2 3 66.7 2 5 7 1 2 0 1 4 -18
+p360
+aVAndre Miller DEN 02/08/2005 DEN vs. UTA W 38 9 3 10 30.0 0 0 - 3 4 75.0 4 4 8 10 0 0 2 4 20
+p361
+aVFrancisco Elson DEN 02/08/2005 DEN vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p362
+aVGreg Buckner DEN 02/08/2005 DEN vs. UTA W 22 8 3 6 50.0 0 2 0.0 2 3 66.7 1 0 1 3 1 1 0 2 22
+p363
+aVDerMarr Johnson DEN 02/08/2005 DEN vs. UTA W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -13
+p364
+aVCarmelo Anthony DEN 02/08/2005 DEN vs. UTA W 39 25 8 15 53.3 1 3 33.3 8 9 88.9 2 4 6 3 3 1 0 2 28
+p365
+aVKenyon Martin DEN 02/08/2005 DEN vs. UTA W 37 17 5 12 41.7 0 0 - 7 10 70.0 2 3 5 2 2 2 2 3 24
+p366
+aVMarcus Camby DEN 02/08/2005 DEN vs. UTA W 31 8 3 9 33.3 0 0 - 2 4 50.0 1 13 14 5 0 7 0 5 23
+p367
+aVBryon Russell DEN 02/08/2005 DEN vs. UTA W 12 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -20
+p368
+aVEarl Boykins DEN 02/08/2005 DEN vs. UTA W 28 20 8 17 47.1 1 1 100.0 3 3 100.0 2 2 4 2 1 0 4 2 -11
+p369
+aVEarl Boykins DEN 02/05/2005 DEN vs. GSW W 23 4 1 6 16.7 0 2 0.0 2 2 100.0 0 3 3 10 1 0 2 1 25
+p370
+aVAndre Miller DEN 02/05/2005 DEN vs. GSW W 33 8 4 5 80.0 0 0 - 0 0 - 2 1 3 5 0 0 2 4 9
+p371
+aVGreg Buckner DEN 02/05/2005 DEN vs. GSW W 19 10 4 6 66.7 2 4 50.0 0 0 - 0 1 1 3 1 0 2 2 8
+p372
+aVDerMarr Johnson DEN 02/05/2005 DEN vs. GSW W 28 8 2 8 25.0 1 3 33.3 3 3 100.0 1 3 4 3 0 0 2 1 16
+p373
+aVNene DEN 02/05/2005 DEN vs. GSW W 25 16 6 9 66.7 0 0 - 4 5 80.0 1 8 9 1 0 2 1 3 10
+p374
+aVCarmelo Anthony DEN 02/05/2005 DEN vs. GSW W 27 18 6 14 42.9 1 3 33.3 5 6 83.3 0 6 6 1 1 0 4 5 6
+p375
+aVFrancisco Elson DEN 02/05/2005 DEN vs. GSW W 9 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -5
+p376
+aVMarcus Camby DEN 02/05/2005 DEN vs. GSW W 27 6 2 5 40.0 0 0 - 2 4 50.0 2 7 9 2 0 1 2 1 6
+p377
+aVNikoloz Tskitishvili DEN 02/05/2005 DEN vs. GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -9
+p378
+aVRodney White DEN 02/05/2005 DEN vs. GSW W 14 10 3 6 50.0 2 2 100.0 2 2 100.0 0 1 1 0 3 1 1 1 -6
+p379
+aVKenyon Martin DEN 02/05/2005 DEN vs. GSW W 31 24 9 15 60.0 0 0 - 6 6 100.0 3 6 9 3 1 3 1 3 20
+p380
+aVNene DEN 02/02/2005 DEN @ POR L 23 8 4 6 66.7 0 0 - 0 0 - 3 4 7 0 0 2 1 2 0
+p381
+aVCarmelo Anthony DEN 02/02/2005 DEN @ POR L 41 7 3 14 21.4 1 4 25.0 0 2 0.0 0 1 1 1 2 1 2 4 -4
+p382
+aVBryon Russell DEN 02/02/2005 DEN @ POR L 24 10 4 8 50.0 2 4 50.0 0 0 - 3 2 5 2 0 0 0 3 -4
+p383
+aVMarcus Camby DEN 02/02/2005 DEN @ POR L 32 10 5 11 45.5 0 0 - 0 0 - 4 7 11 0 2 0 2 2 -12
+p384
+aVEarl Boykins DEN 02/02/2005 DEN @ POR L 26 13 4 9 44.4 2 5 40.0 3 3 100.0 0 0 0 1 1 1 0 0 -1
+p385
+aVAndre Miller DEN 02/02/2005 DEN @ POR L 38 27 13 21 61.9 1 1 100.0 0 1 0.0 3 3 6 9 0 0 2 3 2
+p386
+aVKenyon Martin DEN 02/02/2005 DEN @ POR L 39 12 6 17 35.3 0 0 - 0 0 - 4 5 9 5 4 1 3 6 -3
+p387
+aVGreg Buckner DEN 02/02/2005 DEN @ POR L 17 7 2 3 66.7 1 2 50.0 2 2 100.0 0 3 3 0 0 0 0 0 7
+p388
+aVCarmelo Anthony DEN 02/01/2005 DEN vs. NYK W 34 19 8 15 53.3 1 2 50.0 2 3 66.7 2 5 7 5 1 0 5 2 19
+p389
+aVEarl Boykins DEN 02/01/2005 DEN vs. NYK W 26 11 5 10 50.0 1 3 33.3 0 0 - 0 1 1 4 1 0 1 1 23
+p390
+aVAndre Miller DEN 02/01/2005 DEN vs. NYK W 33 6 3 7 42.9 0 0 - 0 0 - 1 3 4 6 1 0 4 3 9
+p391
+aVRodney White DEN 02/01/2005 DEN vs. NYK W 5 4 0 2 0.0 0 1 0.0 4 4 100.0 0 2 2 1 0 0 0 2 -1
+p392
+aVNikoloz Tskitishvili DEN 02/01/2005 DEN vs. NYK W 5 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -3
+p393
+aVNene DEN 02/01/2005 DEN vs. NYK W 27 9 3 5 60.0 0 0 - 3 3 100.0 5 6 11 3 2 4 2 2 19
+p394
+aVDerMarr Johnson DEN 02/01/2005 DEN vs. NYK W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -3
+p395
+aVGreg Buckner DEN 02/01/2005 DEN vs. NYK W 22 2 1 3 33.3 0 0 - 0 0 - 1 1 2 4 0 0 1 2 3
+p396
+aVBryon Russell DEN 02/01/2005 DEN vs. NYK W 16 4 1 5 20.0 0 3 0.0 2 2 100.0 0 2 2 0 0 0 0 3 10
+p397
+aVMarcus Camby DEN 02/01/2005 DEN vs. NYK W 32 10 5 8 62.5 0 0 - 0 1 0.0 1 9 10 2 2 4 0 3 8
+p398
+aVKenyon Martin DEN 02/01/2005 DEN vs. NYK W 32 27 11 17 64.7 0 0 - 5 6 83.3 1 6 7 1 1 0 2 2 16
+p399
+aVFrancisco Elson DEN 01/29/2005 DEN @ IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 3
+p400
+aVKenyon Martin DEN 01/29/2005 DEN @ IND W 36 25 8 11 72.7 0 0 - 9 10 90.0 0 4 4 3 5 0 2 2 2
+p401
+aVAndre Miller DEN 01/29/2005 DEN @ IND W 36 4 0 5 0.0 0 0 - 4 4 100.0 0 2 2 5 3 1 6 2 -5
+p402
+aVEarl Boykins DEN 01/29/2005 DEN @ IND W 28 10 3 9 33.3 0 0 - 4 4 100.0 0 2 2 6 0 0 1 2 23
+p403
+aVCarmelo Anthony DEN 01/29/2005 DEN @ IND W 37 15 5 13 38.5 0 0 - 5 7 71.4 2 3 5 1 1 0 3 1 -8
+p404
+aVMarcus Camby DEN 01/29/2005 DEN @ IND W 29 13 6 10 60.0 0 0 - 1 1 100.0 2 10 12 2 1 1 3 5 -12
+p405
+aVDerMarr Johnson DEN 01/29/2005 DEN @ IND W 9 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 1 0 0 0 1 5
+p406
+aVNene DEN 01/29/2005 DEN @ IND W 25 11 4 7 57.1 0 0 - 3 4 75.0 2 2 4 0 2 2 1 4 20
+p407
+aVGreg Buckner DEN 01/29/2005 DEN @ IND W 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 2 0 -12
+p408
+aVBryon Russell DEN 01/29/2005 DEN @ IND W 21 13 4 4 100.0 1 1 100.0 4 4 100.0 0 4 4 0 1 0 1 1 19
+p409
+aVEarl Boykins DEN 01/28/2005 DEN @ MIL W 35 17 5 12 41.7 1 3 33.3 6 6 100.0 0 3 3 8 0 0 2 3 18
+p410
+aVBryon Russell DEN 01/28/2005 DEN @ MIL W 19 7 3 7 42.9 0 3 0.0 1 2 50.0 3 2 5 3 1 0 0 1 9
+p411
+aVKenyon Martin DEN 01/28/2005 DEN @ MIL W 32 14 7 16 43.8 0 0 - 0 0 - 0 6 6 1 2 1 2 2 -5
+p412
+aVMarcus Camby DEN 01/28/2005 DEN @ MIL W 35 14 7 11 63.6 0 0 - 0 0 - 4 5 9 4 2 3 0 4 -7
+p413
+aVCarmelo Anthony DEN 01/28/2005 DEN @ MIL W 34 25 10 18 55.6 0 2 0.0 5 9 55.6 2 2 4 1 2 0 3 4 4
+p414
+aVGreg Buckner DEN 01/28/2005 DEN @ MIL W 22 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -24
+p415
+aVAndre Miller DEN 01/28/2005 DEN @ MIL W 35 12 4 9 44.4 0 0 - 4 6 66.7 1 1 2 8 2 0 1 4 11
+p416
+aVNene DEN 01/28/2005 DEN @ MIL W 28 13 5 7 71.4 0 0 - 3 4 75.0 2 10 12 2 0 2 0 3 24
+p417
+aVGreg Buckner DEN 01/26/2005 DEN @ DET L 14 4 1 4 25.0 0 2 0.0 2 2 100.0 2 4 6 1 2 0 1 3 -14
+p418
+aVAndre Miller DEN 01/26/2005 DEN @ DET L 32 10 3 9 33.3 0 0 - 4 4 100.0 1 3 4 1 1 1 4 3 -24
+p419
+aVBryon Russell DEN 01/26/2005 DEN @ DET L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 7
+p420
+aVEarl Boykins DEN 01/26/2005 DEN @ DET L 33 14 3 8 37.5 0 1 0.0 8 8 100.0 0 1 1 2 0 0 1 1 -1
+p421
+aVKenyon Martin DEN 01/26/2005 DEN @ DET L 21 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 0 0 2 3 -6
+p422
+aVNene DEN 01/26/2005 DEN @ DET L 18 9 3 7 42.9 0 0 - 3 4 75.0 1 1 2 0 1 0 2 3 -18
+p423
+aVDerMarr Johnson DEN 01/26/2005 DEN @ DET L 15 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 2 0 2 1 -10
+p424
+aVNikoloz Tskitishvili DEN 01/26/2005 DEN @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 2
+p425
+aVMarcus Camby DEN 01/26/2005 DEN @ DET L 30 10 5 13 38.5 0 0 - 0 0 - 4 10 14 1 0 3 0 2 -17
+p426
+aVRodney White DEN 01/26/2005 DEN @ DET L 10 4 2 6 33.3 0 0 - 0 0 - 0 1 1 3 1 0 0 1 6
+p427
+aVFrancisco Elson DEN 01/26/2005 DEN @ DET L 24 8 4 8 50.0 0 0 - 0 1 0.0 3 2 5 2 2 0 1 0 5
+p428
+aVCarmelo Anthony DEN 01/26/2005 DEN @ DET L 28 5 2 13 15.4 0 0 - 1 1 100.0 2 2 4 0 0 0 2 1 -15
+p429
+aVBryon Russell DEN 01/25/2005 DEN @ CHI L 14 2 0 2 0.0 0 1 0.0 2 4 50.0 0 1 1 1 1 0 0 2 -8
+p430
+aVNene DEN 01/25/2005 DEN @ CHI L 33 19 7 14 50.0 0 0 - 5 6 83.3 0 4 4 4 0 1 3 5 -8
+p431
+aVDerMarr Johnson DEN 01/25/2005 DEN @ CHI L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 3 1
+p432
+aVGreg Buckner DEN 01/25/2005 DEN @ CHI L 22 5 2 6 33.3 1 1 100.0 0 0 - 4 1 5 2 0 0 0 1 -11
+p433
+aVRodney White DEN 01/25/2005 DEN @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p434
+aVFrancisco Elson DEN 01/25/2005 DEN @ CHI L 13 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 2 2
+p435
+aVEarl Boykins DEN 01/25/2005 DEN @ CHI L 24 16 5 7 71.4 0 0 - 6 6 100.0 0 1 1 2 3 0 2 3 -2
+p436
+aVKenyon Martin DEN 01/25/2005 DEN @ CHI L 40 12 5 9 55.6 0 0 - 2 2 100.0 0 9 9 1 2 2 4 3 -2
+p437
+aVAndre Miller DEN 01/25/2005 DEN @ CHI L 45 15 5 12 41.7 0 1 0.0 5 8 62.5 0 3 3 11 3 0 1 2 4
+p438
+aVCarmelo Anthony DEN 01/25/2005 DEN @ CHI L 41 32 11 20 55.0 2 5 40.0 8 9 88.9 2 4 6 3 1 0 3 2 1
+p439
+aVMarcus Camby DEN 01/23/2005 DEN @ DAL L 10 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 2 1 1 0 3
+p440
+aVFrancisco Elson DEN 01/23/2005 DEN @ DAL L 24 10 3 6 50.0 0 0 - 4 6 66.7 4 3 7 0 0 0 0 4 -2
+p441
+aVCarmelo Anthony DEN 01/23/2005 DEN @ DAL L 37 14 6 13 46.2 1 2 50.0 1 1 100.0 2 3 5 1 0 0 3 3 -16
+p442
+aVKenyon Martin DEN 01/23/2005 DEN @ DAL L 47 19 8 20 40.0 0 0 - 3 5 60.0 4 7 11 2 1 0 1 4 -2
+p443
+aVBryon Russell DEN 01/23/2005 DEN @ DAL L 14 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 1 0 0 2 3 6
+p444
+aVRodney White DEN 01/23/2005 DEN @ DAL L 11 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 4
+p445
+aVDerMarr Johnson DEN 01/23/2005 DEN @ DAL L 8 5 2 5 40.0 1 4 25.0 0 0 - 1 0 1 0 1 0 0 2 1
+p446
+aVAndre Miller DEN 01/23/2005 DEN @ DAL L 39 16 5 14 35.7 0 1 0.0 6 7 85.7 3 5 8 10 2 0 1 1 10
+p447
+aVEarl Boykins DEN 01/23/2005 DEN @ DAL L 28 11 3 9 33.3 1 3 33.3 4 4 100.0 0 0 0 6 3 0 1 0 -4
+p448
+aVNikoloz Tskitishvili DEN 01/23/2005 DEN @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p449
+aVGreg Buckner DEN 01/23/2005 DEN @ DAL L 18 6 3 5 60.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 4 -3
+p450
+aVFrancisco Elson DEN 01/21/2005 DEN vs. MEM W 16 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 2 11
+p451
+aVEarl Boykins DEN 01/21/2005 DEN vs. MEM W 32 25 10 13 76.9 1 2 50.0 4 4 100.0 0 1 1 10 1 0 2 1 22
+p452
+aVNikoloz Tskitishvili DEN 01/21/2005 DEN vs. MEM W 9 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 15
+p453
+aVBryon Russell DEN 01/21/2005 DEN vs. MEM W 24 10 4 7 57.1 1 3 33.3 1 2 50.0 3 6 9 0 1 0 0 2 18
+p454
+aVDerMarr Johnson DEN 01/21/2005 DEN vs. MEM W 19 6 3 8 37.5 0 1 0.0 0 0 - 2 1 3 0 0 1 0 1 -16
+p455
+aVGreg Buckner DEN 01/21/2005 DEN vs. MEM W 20 4 1 3 33.3 0 2 0.0 2 2 100.0 0 5 5 1 0 0 1 1 -11
+p456
+aVMarcus Camby DEN 01/21/2005 DEN vs. MEM W 36 18 9 14 64.3 0 0 - 0 0 - 3 10 13 3 1 6 0 4 3
+p457
+aVKenyon Martin DEN 01/21/2005 DEN vs. MEM W 36 13 5 16 31.3 0 2 0.0 3 8 37.5 3 5 8 2 1 1 4 4 -1
+p458
+aVRodney White DEN 01/21/2005 DEN vs. MEM W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p459
+aVAndre Miller DEN 01/21/2005 DEN vs. MEM W 43 14 5 10 50.0 0 0 - 4 4 100.0 2 3 5 6 0 0 1 3 9
+p460
+aVGreg Buckner DEN 01/18/2005 DEN @ SEA W 25 8 4 5 80.0 0 1 0.0 0 0 - 0 2 2 3 1 0 1 3 10
+p461
+aVFrancisco Elson DEN 01/18/2005 DEN @ SEA W 34 7 3 11 27.3 0 0 - 1 2 50.0 2 1 3 1 3 0 1 6 6
+p462
+aVRodney White DEN 01/18/2005 DEN @ SEA W 9 2 1 6 16.7 0 0 - 0 0 - 1 0 1 2 0 1 0 1 -13
+p463
+aVMarcus Camby DEN 01/18/2005 DEN @ SEA W 48 25 12 19 63.2 0 0 - 1 2 50.0 7 17 24 5 0 1 1 4 15
+p464
+aVEarl Boykins DEN 01/18/2005 DEN @ SEA W 27 18 5 11 45.5 2 2 100.0 6 7 85.7 0 0 0 2 0 0 1 1 -6
+p465
+aVDerMarr Johnson DEN 01/18/2005 DEN @ SEA W 14 9 1 4 25.0 0 2 0.0 7 7 100.0 1 0 1 1 1 0 0 2 -4
+p466
+aVCarmelo Anthony DEN 01/18/2005 DEN @ SEA W 32 10 3 11 27.3 0 3 0.0 4 4 100.0 0 2 2 5 1 1 1 2 6
+p467
+aVBryon Russell DEN 01/18/2005 DEN @ SEA W 28 7 2 8 25.0 1 4 25.0 2 2 100.0 1 3 4 0 2 0 0 1 -1
+p468
+aVAndre Miller DEN 01/18/2005 DEN @ SEA W 48 30 11 21 52.4 0 3 0.0 8 8 100.0 3 6 9 5 0 0 1 2 17
+p469
+aVRodney White DEN 01/17/2005 DEN @ GSW L 23 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 2 1 2 0 3 7
+p470
+aVDerMarr Johnson DEN 01/17/2005 DEN @ GSW L 22 22 9 13 69.2 2 6 33.3 2 2 100.0 0 3 3 0 0 0 2 2 4
+p471
+aVEarl Boykins DEN 01/17/2005 DEN @ GSW L 27 16 5 7 71.4 2 2 100.0 4 4 100.0 0 4 4 4 0 0 1 1 -2
+p472
+aVBryon Russell DEN 01/17/2005 DEN @ GSW L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 1 0 2 -14
+p473
+aVCarmelo Anthony DEN 01/17/2005 DEN @ GSW L 46 24 8 18 44.4 2 3 66.7 6 6 100.0 2 6 8 0 1 0 3 3 -8
+p474
+aVAndre Miller DEN 01/17/2005 DEN @ GSW L 39 14 7 12 58.3 0 1 0.0 0 2 0.0 4 6 10 9 1 0 10 4 0
+p475
+aVNikoloz Tskitishvili DEN 01/17/2005 DEN @ GSW L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -10
+p476
+aVGreg Buckner DEN 01/17/2005 DEN @ GSW L 20 2 1 1 100.0 0 0 - 0 0 - 0 2 2 3 1 0 3 2 -10
+p477
+aVKenyon Martin DEN 01/17/2005 DEN @ GSW L 39 13 4 15 26.7 0 0 - 5 6 83.3 5 8 13 3 2 0 3 4 -17
+p478
+aVCarmelo Anthony DEN 01/14/2005 DEN vs. MIN L 33 13 5 18 27.8 0 2 0.0 3 5 60.0 1 4 5 4 0 0 3 4 -9
+p479
+aVEarl Boykins DEN 01/14/2005 DEN vs. MIN L 16 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -14
+p480
+aVGreg Buckner DEN 01/14/2005 DEN vs. MIN L 29 11 4 5 80.0 2 2 100.0 1 2 50.0 0 2 2 1 2 0 0 2 -2
+p481
+aVKenyon Martin DEN 01/14/2005 DEN vs. MIN L 36 23 11 17 64.7 0 0 - 1 2 50.0 3 3 6 1 2 1 0 3 3
+p482
+aVRodney White DEN 01/14/2005 DEN vs. MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 6
+p483
+aVNene DEN 01/14/2005 DEN vs. MIN L 14 7 3 9 33.3 0 1 0.0 1 2 50.0 1 2 3 0 0 0 0 1 -2
+p484
+aVMarcus Camby DEN 01/14/2005 DEN vs. MIN L 35 12 4 8 50.0 0 0 - 4 4 100.0 3 9 12 5 1 1 2 2 -9
+p485
+aVDerMarr Johnson DEN 01/14/2005 DEN vs. MIN L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p486
+aVBryon Russell DEN 01/14/2005 DEN vs. MIN L 17 3 0 2 0.0 0 2 0.0 3 4 75.0 0 2 2 1 1 0 0 2 -6
+p487
+aVFrancisco Elson DEN 01/14/2005 DEN vs. MIN L 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -12
+p488
+aVAndre Miller DEN 01/14/2005 DEN vs. MIN L 40 6 3 11 27.3 0 0 - 0 0 - 0 1 1 6 2 0 2 1 0
+p489
+aVBryon Russell DEN 01/12/2005 DEN vs. LAL W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 2 -6
+p490
+aVDerMarr Johnson DEN 01/12/2005 DEN vs. LAL W 14 9 3 3 100.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 0 2 16
+p491
+aVNikoloz Tskitishvili DEN 01/12/2005 DEN vs. LAL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p492
+aVRodney White DEN 01/12/2005 DEN vs. LAL W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p493
+aVCarmelo Anthony DEN 01/12/2005 DEN vs. LAL W 28 17 7 14 50.0 0 1 0.0 3 4 75.0 1 4 5 1 1 0 1 3 2
+p494
+aVAndre Miller DEN 01/12/2005 DEN vs. LAL W 38 15 6 12 50.0 0 0 - 3 4 75.0 3 2 5 7 3 0 1 2 20
+p495
+aVMarcus Camby DEN 01/12/2005 DEN vs. LAL W 29 8 2 6 33.3 0 0 - 4 5 80.0 1 14 15 1 0 0 1 1 16
+p496
+aVGreg Buckner DEN 01/12/2005 DEN vs. LAL W 34 4 2 8 25.0 0 3 0.0 0 0 - 2 1 3 3 3 0 1 4 3
+p497
+aVFrancisco Elson DEN 01/12/2005 DEN vs. LAL W 11 2 0 1 0.0 0 1 0.0 2 2 100.0 0 4 4 1 0 0 0 1 -7
+p498
+aVKenyon Martin DEN 01/12/2005 DEN vs. LAL W 27 18 9 12 75.0 0 0 - 0 1 0.0 0 4 4 3 0 3 2 1 12
+p499
+aVEarl Boykins DEN 01/12/2005 DEN vs. LAL W 19 8 4 9 44.4 0 0 - 0 0 - 0 0 0 4 0 0 2 3 5
+p500
+aVNene DEN 01/12/2005 DEN vs. LAL W 23 10 3 9 33.3 0 0 - 4 4 100.0 2 2 4 1 0 0 3 3 6
+p501
+aVDerMarr Johnson DEN 01/11/2005 DEN @ SAC L 14 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 0 2 -10
+p502
+aVNene DEN 01/11/2005 DEN @ SAC L 23 8 3 6 50.0 0 0 - 2 4 50.0 4 5 9 2 2 1 1 2 -2
+p503
+aVCarmelo Anthony DEN 01/11/2005 DEN @ SAC L 41 16 4 14 28.6 0 4 0.0 8 11 72.7 0 3 3 3 2 0 1 4 -3
+p504
+aVRodney White DEN 01/11/2005 DEN @ SAC L 8 6 2 5 40.0 0 2 0.0 2 2 100.0 1 1 2 0 0 0 1 1 3
+p505
+aVBryon Russell DEN 01/11/2005 DEN @ SAC L 11 6 2 5 40.0 2 4 50.0 0 0 - 1 2 3 0 0 0 2 5 3
+p506
+aVAndre Miller DEN 01/11/2005 DEN @ SAC L 38 16 8 12 66.7 0 1 0.0 0 0 - 1 3 4 11 2 0 3 3 -10
+p507
+aVKenyon Martin DEN 01/11/2005 DEN @ SAC L 35 17 7 13 53.8 0 0 - 3 5 60.0 2 7 9 1 0 3 4 4 -17
+p508
+aVMarcus Camby DEN 01/11/2005 DEN @ SAC L 33 8 2 7 28.6 0 0 - 4 4 100.0 2 9 11 2 0 2 3 3 -3
+p509
+aVEarl Boykins DEN 01/11/2005 DEN @ SAC L 18 6 2 7 28.6 0 2 0.0 2 2 100.0 2 0 2 4 0 0 2 2 4
+p510
+aVGreg Buckner DEN 01/11/2005 DEN @ SAC L 19 14 6 8 75.0 1 2 50.0 1 1 100.0 0 2 2 1 0 0 2 4 -10
+p511
+aVDerMarr Johnson DEN 01/09/2005 DEN vs. HOU L 21 11 4 5 80.0 3 4 75.0 0 0 - 0 1 1 1 1 1 0 3 -10
+p512
+aVFrancisco Elson DEN 01/09/2005 DEN vs. HOU L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 1
+p513
+aVEarl Boykins DEN 01/09/2005 DEN vs. HOU L 28 8 2 7 28.6 0 1 0.0 4 4 100.0 0 3 3 5 2 0 3 1 -11
+p514
+aVAndre Miller DEN 01/09/2005 DEN vs. HOU L 36 13 5 11 45.5 0 1 0.0 3 4 75.0 1 4 5 5 2 0 3 2 -7
+p515
+aVCarmelo Anthony DEN 01/09/2005 DEN vs. HOU L 40 27 7 20 35.0 2 6 33.3 11 13 84.6 2 5 7 3 0 0 4 2 -14
+p516
+aVBryon Russell DEN 01/09/2005 DEN vs. HOU L 11 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 0 1 7
+p517
+aVKenyon Martin DEN 01/09/2005 DEN vs. HOU L 38 15 6 13 46.2 0 0 - 3 4 75.0 4 6 10 6 1 3 2 3 -27
+p518
+aVRodney White DEN 01/09/2005 DEN vs. HOU L 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p519
+aVNene DEN 01/09/2005 DEN vs. HOU L 25 8 3 6 50.0 0 0 - 2 3 66.7 2 2 4 1 0 0 1 4 -2
+p520
+aVMarcus Camby DEN 01/09/2005 DEN vs. HOU L 31 9 2 7 28.6 0 0 - 5 6 83.3 0 4 4 1 0 3 0 4 -22
+p521
+aVDerMarr Johnson DEN 01/08/2005 DEN @ SAS L 16 5 1 2 50.0 0 1 0.0 3 4 75.0 0 0 0 0 0 2 0 2 1
+p522
+aVCarmelo Anthony DEN 01/08/2005 DEN @ SAS L 33 8 4 15 26.7 0 3 0.0 0 0 - 3 2 5 5 0 0 4 4 -24
+p523
+aVAndre Miller DEN 01/08/2005 DEN @ SAS L 38 16 6 13 46.2 0 0 - 4 5 80.0 0 2 2 3 2 0 2 4 -3
+p524
+aVKenyon Martin DEN 01/08/2005 DEN @ SAS L 42 26 10 18 55.6 0 0 - 6 6 100.0 3 4 7 1 2 0 4 4 -10
+p525
+aVBryon Russell DEN 01/08/2005 DEN @ SAS L 18 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 2 1 0 1 2 11
+p526
+aVEarl Boykins DEN 01/08/2005 DEN @ SAS L 25 12 3 7 42.9 0 1 0.0 6 6 100.0 0 1 1 2 2 0 0 3 -15
+p527
+aVMarcus Camby DEN 01/08/2005 DEN @ SAS L 37 10 4 8 50.0 0 1 0.0 2 2 100.0 2 13 15 3 1 0 3 3 -2
+p528
+aVNene DEN 01/08/2005 DEN @ SAS L 31 10 5 10 50.0 0 0 - 0 0 - 2 4 6 1 1 1 0 3 -3
+p529
+aVRodney White DEN 01/03/2005 DEN vs. LAC L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 0
+p530
+aVFrancisco Elson DEN 01/03/2005 DEN vs. LAC L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 2 0 1 2 -1
+p531
+aVDerMarr Johnson DEN 01/03/2005 DEN vs. LAC L 24 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 1 1 0 1 5 -1
+p532
+aVCarmelo Anthony DEN 01/03/2005 DEN vs. LAC L 39 21 6 21 28.6 2 8 25.0 7 8 87.5 3 3 6 2 0 2 3 5 -11
+p533
+aVEarl Boykins DEN 01/03/2005 DEN vs. LAC L 27 13 5 11 45.5 1 2 50.0 2 3 66.7 1 1 2 4 1 1 2 4 -8
+p534
+aVNene DEN 01/03/2005 DEN vs. LAC L 42 20 7 14 50.0 0 0 - 6 7 85.7 3 10 13 4 3 3 1 2 3
+p535
+aVAndre Miller DEN 01/03/2005 DEN vs. LAC L 37 17 6 8 75.0 1 1 100.0 4 4 100.0 1 1 2 4 0 0 1 4 9
+p536
+aVKenyon Martin DEN 01/03/2005 DEN vs. LAC L 30 10 5 10 50.0 0 0 - 0 0 - 1 7 8 2 2 0 2 5 -4
+p537
+aVNikoloz Tskitishvili DEN 01/03/2005 DEN vs. LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p538
+aVBryon Russell DEN 01/03/2005 DEN vs. LAC L 18 7 1 4 25.0 1 4 25.0 4 4 100.0 0 1 1 2 1 0 0 2 -1
+p539
+aVBryon Russell DEN 01/02/2005 DEN @ LAL L 16 2 1 4 25.0 0 3 0.0 0 0 - 3 1 4 2 0 0 1 2 1
+p540
+aVNene DEN 01/02/2005 DEN @ LAL L 37 16 6 11 54.5 0 0 - 4 6 66.7 6 5 11 0 0 0 3 5 0
+p541
+aVAndre Miller DEN 01/02/2005 DEN @ LAL L 30 7 3 7 42.9 0 0 - 1 2 50.0 2 3 5 8 0 0 3 3 -2
+p542
+aVDerMarr Johnson DEN 01/02/2005 DEN @ LAL L 35 12 6 13 46.2 0 3 0.0 0 0 - 2 6 8 1 1 0 2 4 -11
+p543
+aVFrancisco Elson DEN 01/02/2005 DEN @ LAL L 20 4 2 3 66.7 0 0 - 0 0 - 1 5 6 1 1 1 1 3 -6
+p544
+aVEarl Boykins DEN 01/02/2005 DEN @ LAL L 21 11 4 11 36.4 1 2 50.0 2 2 100.0 1 0 1 0 0 0 1 0 -3
+p545
+aVKenyon Martin DEN 01/02/2005 DEN @ LAL L 28 11 4 12 33.3 0 0 - 3 5 60.0 1 4 5 0 1 0 2 5 -2
+p546
+aVCarmelo Anthony DEN 01/02/2005 DEN @ LAL L 39 27 7 21 33.3 0 2 0.0 13 14 92.9 0 6 6 4 1 1 1 1 2
+p547
+aVRodney White DEN 01/02/2005 DEN @ LAL L 11 1 0 4 0.0 0 1 0.0 1 2 50.0 0 3 3 1 1 0 0 3 -14
+p548
+aVNikoloz Tskitishvili DEN 01/02/2005 DEN @ LAL L 3 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -5
+p549
+aVNikoloz Tskitishvili DEN 12/31/2004 DEN vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -7
+p550
+aVRodney White DEN 12/31/2004 DEN vs. PHI W 14 1 0 6 0.0 0 2 0.0 1 2 50.0 0 0 0 2 2 0 0 1 -24
+p551
+aVDerMarr Johnson DEN 12/31/2004 DEN vs. PHI W 32 18 7 11 63.6 2 4 50.0 2 4 50.0 1 3 4 5 2 1 2 3 28
+p552
+aVMarcus Camby DEN 12/31/2004 DEN vs. PHI W 9 8 4 5 80.0 0 0 - 0 0 - 2 0 2 0 0 1 1 1 7
+p553
+aVNene DEN 12/31/2004 DEN vs. PHI W 40 16 7 13 53.8 0 0 - 2 2 100.0 5 7 12 3 0 1 4 1 -3
+p554
+aVBryon Russell DEN 12/31/2004 DEN vs. PHI W 18 7 2 7 28.6 1 5 20.0 2 3 66.7 2 4 6 1 3 1 0 3 7
+p555
+aVAndre Miller DEN 12/31/2004 DEN vs. PHI W 30 7 1 6 16.7 0 0 - 5 6 83.3 1 7 8 7 1 0 2 3 14
+p556
+aVFrancisco Elson DEN 12/31/2004 DEN vs. PHI W 27 8 4 7 57.1 0 0 - 0 0 - 0 4 4 1 3 3 2 4 4
+p557
+aVEarl Boykins DEN 12/31/2004 DEN vs. PHI W 25 8 4 12 33.3 0 2 0.0 0 0 - 3 0 3 2 2 0 2 1 -12
+p558
+aVCarmelo Anthony DEN 12/31/2004 DEN vs. PHI W 42 24 9 25 36.0 2 4 50.0 4 6 66.7 2 6 8 4 2 1 3 2 11
+p559
+aVEarl Boykins DEN 12/27/2004 DEN @ GSW L 16 4 2 9 22.2 0 3 0.0 0 0 - 0 1 1 2 0 0 0 3 -9
+p560
+aVMarcus Camby DEN 12/27/2004 DEN @ GSW L 36 16 7 13 53.8 0 0 - 2 2 100.0 2 10 12 1 0 3 1 5 -14
+p561
+aVBryon Russell DEN 12/27/2004 DEN @ GSW L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 3 0
+p562
+aVAndre Miller DEN 12/27/2004 DEN @ GSW L 44 21 9 25 36.0 0 1 0.0 3 6 50.0 2 2 4 14 2 1 4 3 1
+p563
+aVGreg Buckner DEN 12/27/2004 DEN @ GSW L 27 7 3 6 50.0 0 2 0.0 1 1 100.0 2 5 7 5 1 0 1 2 4
+p564
+aVNikoloz Tskitishvili DEN 12/27/2004 DEN @ GSW L 13 12 5 7 71.4 0 0 - 2 3 66.7 1 3 4 0 0 2 2 2 3
+p565
+aVRodney White DEN 12/27/2004 DEN @ GSW L 30 17 7 12 58.3 2 2 100.0 1 2 50.0 0 1 1 1 1 0 1 1 -9
+p566
+aVFrancisco Elson DEN 12/27/2004 DEN @ GSW L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p567
+aVNene DEN 12/27/2004 DEN @ GSW L 36 19 9 12 75.0 0 0 - 1 3 33.3 2 7 9 4 0 1 4 5 5
+p568
+aVDerMarr Johnson DEN 12/27/2004 DEN @ GSW L 20 5 2 4 50.0 0 1 0.0 1 3 33.3 0 1 1 4 0 0 1 4 11
+p569
+aVDerMarr Johnson DEN 12/26/2004 DEN vs. DAL L 17 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p570
+aVRodney White DEN 12/26/2004 DEN vs. DAL L 17 7 3 9 33.3 1 2 50.0 0 0 - 0 2 2 6 0 1 1 0 -14
+p571
+aVBryon Russell DEN 12/26/2004 DEN vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p572
+aVFrancisco Elson DEN 12/26/2004 DEN vs. DAL L 8 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -8
+p573
+aVKenyon Martin DEN 12/26/2004 DEN vs. DAL L 20 15 7 10 70.0 0 0 - 1 2 50.0 4 1 5 1 0 0 1 2 15
+p574
+aVMarcus Camby DEN 12/26/2004 DEN vs. DAL L 36 9 2 9 22.2 0 0 - 5 6 83.3 3 8 11 1 0 0 1 1 -21
+p575
+aVEarl Boykins DEN 12/26/2004 DEN vs. DAL L 30 16 5 14 35.7 3 6 50.0 3 3 100.0 0 2 2 1 2 0 0 3 -12
+p576
+aVAndre Miller DEN 12/26/2004 DEN vs. DAL L 39 18 6 12 50.0 0 0 - 6 6 100.0 1 3 4 8 3 0 1 1 -16
+p577
+aVGreg Buckner DEN 12/26/2004 DEN vs. DAL L 38 15 6 12 50.0 1 4 25.0 2 2 100.0 1 1 2 5 1 0 1 4 3
+p578
+aVNene DEN 12/26/2004 DEN vs. DAL L 29 2 1 8 12.5 0 1 0.0 0 0 - 1 3 4 2 0 0 1 3 -10
+p579
+aVNikoloz Tskitishvili DEN 12/22/2004 DEN @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 0 0 2
+p580
+aVNene DEN 12/22/2004 DEN @ SEA L 26 7 2 3 66.7 0 0 - 3 9 33.3 1 2 3 1 1 1 5 4 -8
+p581
+aVMarcus Camby DEN 12/22/2004 DEN @ SEA L 23 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 1 0 1 2 2 -8
+p582
+aVFrancisco Elson DEN 12/22/2004 DEN @ SEA L 14 2 0 1 0.0 0 0 - 2 2 100.0 0 5 5 0 1 0 0 2 -5
+p583
+aVDerMarr Johnson DEN 12/22/2004 DEN @ SEA L 29 8 3 8 37.5 0 3 0.0 2 2 100.0 0 3 3 3 0 1 1 2 -13
+p584
+aVEarl Boykins DEN 12/22/2004 DEN @ SEA L 19 2 1 9 11.1 0 3 0.0 0 0 - 0 2 2 5 1 0 2 1 -9
+p585
+aVKenyon Martin DEN 12/22/2004 DEN @ SEA L 29 18 8 12 66.7 0 0 - 2 2 100.0 4 3 7 0 1 0 3 3 -13
+p586
+aVAndre Miller DEN 12/22/2004 DEN @ SEA L 39 20 8 11 72.7 0 0 - 4 4 100.0 1 0 1 7 1 1 4 3 -7
+p587
+aVRodney White DEN 12/22/2004 DEN @ SEA L 31 17 8 20 40.0 1 3 33.3 0 0 - 2 4 6 0 0 0 0 1 3
+p588
+aVBryon Russell DEN 12/22/2004 DEN @ SEA L 21 6 2 5 40.0 2 2 100.0 0 0 - 0 3 3 1 0 0 0 2 -13
+p589
+aVGreg Buckner DEN 12/22/2004 DEN @ SEA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -4
+p590
+aVKenyon Martin DEN 12/20/2004 DEN vs. PHX L 39 22 10 18 55.6 0 0 - 2 4 50.0 2 9 11 1 1 1 4 2 -6
+p591
+aVEarl Boykins DEN 12/20/2004 DEN vs. PHX L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 5
+p592
+aVGreg Buckner DEN 12/20/2004 DEN vs. PHX L 43 12 6 11 54.5 0 1 0.0 0 0 - 2 2 4 3 0 0 2 2 -5
+p593
+aVDerMarr Johnson DEN 12/20/2004 DEN vs. PHX L 22 7 2 7 28.6 1 4 25.0 2 2 100.0 0 3 3 2 0 0 0 1 -8
+p594
+aVFrancisco Elson DEN 12/20/2004 DEN vs. PHX L 19 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 4 1 3 4
+p595
+aVAndre Miller DEN 12/20/2004 DEN vs. PHX L 42 23 9 19 47.4 0 1 0.0 5 6 83.3 1 4 5 11 0 1 1 2 -4
+p596
+aVBryon Russell DEN 12/20/2004 DEN vs. PHX L 26 14 4 10 40.0 4 10 40.0 2 2 100.0 1 2 3 6 1 1 0 3 6
+p597
+aVNene DEN 12/20/2004 DEN vs. PHX L 38 19 8 13 61.5 0 0 - 3 4 75.0 2 8 10 6 3 2 0 2 -2
+p598
+aVAndre Miller DEN 12/18/2004 DEN @ ORL L 26 13 5 10 50.0 0 1 0.0 3 3 100.0 0 1 1 3 2 0 1 0 -25
+p599
+aVMarcus Camby DEN 12/18/2004 DEN @ ORL L 23 4 2 8 25.0 0 0 - 0 0 - 3 3 6 2 0 3 1 0 -16
+p600
+aVGreg Buckner DEN 12/18/2004 DEN @ ORL L 25 5 2 5 40.0 1 3 33.3 0 0 - 3 1 4 1 0 0 0 1 -28
+p601
+aVNikoloz Tskitishvili DEN 12/18/2004 DEN @ ORL L 12 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 2 2 0 2 9
+p602
+aVDerMarr Johnson DEN 12/18/2004 DEN @ ORL L 35 18 6 12 50.0 2 4 50.0 4 9 44.4 1 7 8 3 4 0 6 4 -3
+p603
+aVEarl Boykins DEN 12/18/2004 DEN @ ORL L 24 13 5 13 38.5 1 3 33.3 2 2 100.0 0 0 0 0 1 0 1 0 0
+p604
+aVFrancisco Elson DEN 12/18/2004 DEN @ ORL L 17 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 1 1 0 1 7
+p605
+aVNene DEN 12/18/2004 DEN @ ORL L 17 7 3 4 75.0 0 0 - 1 4 25.0 2 3 5 1 1 0 3 3 -19
+p606
+aVRodney White DEN 12/18/2004 DEN @ ORL L 19 13 5 8 62.5 2 3 66.7 1 3 33.3 3 1 4 1 1 0 2 0 10
+p607
+aVKenyon Martin DEN 12/18/2004 DEN @ ORL L 30 16 6 17 35.3 0 1 0.0 4 5 80.0 3 5 8 3 1 0 3 2 -25
+p608
+aVBryon Russell DEN 12/18/2004 DEN @ ORL L 12 0 0 4 0.0 0 3 0.0 0 0 - 1 1 2 1 0 0 1 1 -20
+p609
+aVBryon Russell DEN 12/17/2004 DEN @ MIA L 19 10 2 4 50.0 2 4 50.0 4 4 100.0 1 2 3 1 1 0 1 1 -5
+p610
+aVEarl Boykins DEN 12/17/2004 DEN @ MIA L 20 11 4 11 36.4 2 4 50.0 1 1 100.0 0 0 0 1 0 0 0 2 -1
+p611
+aVKenyon Martin DEN 12/17/2004 DEN @ MIA L 40 21 9 18 50.0 0 1 0.0 3 4 75.0 1 10 11 3 1 0 3 4 0
+p612
+aVRodney White DEN 12/17/2004 DEN @ MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -6
+p613
+aVDerMarr Johnson DEN 12/17/2004 DEN @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p614
+aVCarmelo Anthony DEN 12/17/2004 DEN @ MIA L 29 14 6 13 46.2 1 3 33.3 1 1 100.0 0 3 3 1 1 0 4 2 -2
+p615
+aVGreg Buckner DEN 12/17/2004 DEN @ MIA L 33 7 3 3 100.0 1 1 100.0 0 0 - 1 1 2 1 2 1 1 3 -14
+p616
+aVNene DEN 12/17/2004 DEN @ MIA L 16 5 1 6 16.7 0 0 - 3 4 75.0 2 2 4 1 0 0 0 3 -9
+p617
+aVMarcus Camby DEN 12/17/2004 DEN @ MIA L 32 8 4 9 44.4 0 0 - 0 0 - 1 6 7 3 2 5 3 5 -3
+p618
+aVAndre Miller DEN 12/17/2004 DEN @ MIA L 42 24 10 19 52.6 0 1 0.0 4 5 80.0 4 1 5 7 6 0 3 6 2
+p619
+aVFrancisco Elson DEN 12/17/2004 DEN @ MIA L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 4
+p620
+aVGreg Buckner DEN 12/15/2004 DEN @ BOS W 17 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 1 0 1 4 1
+p621
+aVBryon Russell DEN 12/15/2004 DEN @ BOS W 22 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 2 0 0 1 2 12
+p622
+aVEarl Boykins DEN 12/15/2004 DEN @ BOS W 17 8 3 8 37.5 1 2 50.0 1 1 100.0 0 0 0 2 0 0 1 1 1
+p623
+aVKenyon Martin DEN 12/15/2004 DEN @ BOS W 43 18 8 19 42.1 0 1 0.0 2 2 100.0 2 9 11 6 3 4 3 2 0
+p624
+aVCarmelo Anthony DEN 12/15/2004 DEN @ BOS W 39 25 8 20 40.0 3 6 50.0 6 7 85.7 2 8 10 3 0 1 4 5 -13
+p625
+aVFrancisco Elson DEN 12/15/2004 DEN @ BOS W 13 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 16
+p626
+aVDerMarr Johnson DEN 12/15/2004 DEN @ BOS W 13 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 2 6
+p627
+aVMarcus Camby DEN 12/15/2004 DEN @ BOS W 40 16 5 9 55.6 0 0 - 6 7 85.7 2 9 11 4 1 5 2 5 -14
+p628
+aVAndre Miller DEN 12/15/2004 DEN @ BOS W 36 19 8 12 66.7 0 0 - 3 6 50.0 1 6 7 2 2 0 3 2 -4
+p629
+aVAndre Miller DEN 12/14/2004 DEN @ PHI L 41 14 4 12 33.3 0 0 - 6 7 85.7 1 4 5 6 2 0 3 4 -12
+p630
+aVEarl Boykins DEN 12/14/2004 DEN @ PHI L 16 6 3 5 60.0 0 0 - 0 0 - 0 1 1 4 0 0 0 1 -14
+p631
+aVMarcus Camby DEN 12/14/2004 DEN @ PHI L 40 16 6 10 60.0 0 0 - 4 4 100.0 3 5 8 3 1 0 3 5 6
+p632
+aVRodney White DEN 12/14/2004 DEN @ PHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 3 0 3 3 -1
+p633
+aVGreg Buckner DEN 12/14/2004 DEN @ PHI L 39 8 3 6 50.0 2 4 50.0 0 0 - 1 3 4 5 2 0 2 5 9
+p634
+aVFrancisco Elson DEN 12/14/2004 DEN @ PHI L 16 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 2 1 0 -17
+p635
+aVCarmelo Anthony DEN 12/14/2004 DEN @ PHI L 43 29 8 18 44.4 2 3 66.7 11 12 91.7 4 1 5 4 2 0 4 4 -8
+p636
+aVKenyon Martin DEN 12/14/2004 DEN @ PHI L 39 25 7 16 43.8 0 1 0.0 11 17 64.7 4 6 10 3 1 0 1 3 -3
+p637
+aVRodney White DEN 12/12/2004 DEN @ NYK L 11 6 3 3 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 3 -1
+p638
+aVKenyon Martin DEN 12/12/2004 DEN @ NYK L 43 18 7 14 50.0 0 0 - 4 5 80.0 1 6 7 3 0 2 2 2 -6
+p639
+aVCarmelo Anthony DEN 12/12/2004 DEN @ NYK L 44 26 7 23 30.4 0 2 0.0 12 16 75.0 1 7 8 3 0 0 7 2 -6
+p640
+aVNene DEN 12/12/2004 DEN @ NYK L 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p641
+aVBryon Russell DEN 12/12/2004 DEN @ NYK L 14 5 2 3 66.7 1 1 100.0 0 1 0.0 2 0 2 0 0 0 0 2 -7
+p642
+aVMarcus Camby DEN 12/12/2004 DEN @ NYK L 38 21 6 10 60.0 0 0 - 9 12 75.0 6 8 14 2 0 4 3 0 -7
+p643
+aVEarl Boykins DEN 12/12/2004 DEN @ NYK L 25 12 3 6 50.0 0 2 0.0 6 6 100.0 0 4 4 1 1 0 2 3 -3
+p644
+aVAndre Miller DEN 12/12/2004 DEN @ NYK L 37 2 1 7 14.3 0 1 0.0 0 0 - 0 4 4 6 1 0 7 3 -10
+p645
+aVGreg Buckner DEN 12/12/2004 DEN @ NYK L 23 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 1 0 1 2 -8
+p646
+aVFrancisco Elson DEN 12/12/2004 DEN @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p647
+aVAndre Miller DEN 12/10/2004 DEN @ TOR W 34 18 8 11 72.7 0 0 - 2 2 100.0 0 3 3 5 1 0 5 5 19
+p648
+aVKenyon Martin DEN 12/10/2004 DEN @ TOR W 37 14 6 11 54.5 0 0 - 2 5 40.0 1 11 12 0 3 1 2 4 26
+p649
+aVEarl Boykins DEN 12/10/2004 DEN @ TOR W 23 5 2 9 22.2 0 4 0.0 1 1 100.0 0 3 3 3 0 0 1 3 -12
+p650
+aVNene DEN 12/10/2004 DEN @ TOR W 40 21 9 10 90.0 0 0 - 3 5 60.0 3 3 6 1 4 3 5 3 20
+p651
+aVDerMarr Johnson DEN 12/10/2004 DEN @ TOR W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p652
+aVNikoloz Tskitishvili DEN 12/10/2004 DEN @ TOR W 7 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 2 -15
+p653
+aVBryon Russell DEN 12/10/2004 DEN @ TOR W 24 8 3 8 37.5 2 6 33.3 0 0 - 1 4 5 3 0 0 1 2 -1
+p654
+aVGreg Buckner DEN 12/10/2004 DEN @ TOR W 23 4 2 3 66.7 0 0 - 0 0 - 2 1 3 3 0 0 1 4 14
+p655
+aVCarmelo Anthony DEN 12/10/2004 DEN @ TOR W 37 28 9 18 50.0 0 0 - 10 15 66.7 1 7 8 9 1 0 4 3 24
+p656
+aVFrancisco Elson DEN 12/10/2004 DEN @ TOR W 12 0 0 1 0.0 0 0 - 0 0 - 0 5 5 2 0 1 0 2 -3
+p657
+aVEarl Boykins DEN 12/08/2004 DEN @ WAS W 30 13 5 15 33.3 2 5 40.0 1 2 50.0 2 2 4 8 1 0 2 2 1
+p658
+aVGreg Buckner DEN 12/08/2004 DEN @ WAS W 23 6 3 4 75.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 4 12
+p659
+aVAndre Miller DEN 12/08/2004 DEN @ WAS W 43 34 15 25 60.0 1 1 100.0 3 3 100.0 2 6 8 8 1 0 2 1 -1
+p660
+aVKenyon Martin DEN 12/08/2004 DEN @ WAS W 30 6 2 7 28.6 0 0 - 2 3 66.7 2 1 3 3 2 1 2 5 -6
+p661
+aVRodney White DEN 12/08/2004 DEN @ WAS W 12 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 0 0 1 0 1 4
+p662
+aVFrancisco Elson DEN 12/08/2004 DEN @ WAS W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 4
+p663
+aVCarmelo Anthony DEN 12/08/2004 DEN @ WAS W 36 23 8 16 50.0 1 3 33.3 6 7 85.7 0 7 7 1 0 0 1 1 2
+p664
+aVNene DEN 12/08/2004 DEN @ WAS W 24 6 2 6 33.3 0 0 - 2 2 100.0 3 2 5 4 1 0 2 2 4
+p665
+aVMarcus Camby DEN 12/08/2004 DEN @ WAS W 36 16 7 11 63.6 0 0 - 2 2 100.0 0 9 9 2 0 4 2 1 10
+p666
+aVFrancisco Elson DEN 12/06/2004 DEN vs. ORL W 10 0 0 2 0.0 0 0 - 0 0 - 2 2 4 3 2 0 1 1 -2
+p667
+aVNene DEN 12/06/2004 DEN vs. ORL W 31 11 5 10 50.0 0 0 - 1 1 100.0 2 6 8 3 2 0 2 4 7
+p668
+aVEarl Boykins DEN 12/06/2004 DEN vs. ORL W 27 13 4 10 40.0 0 1 0.0 5 7 71.4 1 0 1 2 0 0 1 3 6
+p669
+aVGreg Buckner DEN 12/06/2004 DEN vs. ORL W 14 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 2 0 0 1 2 -3
+p670
+aVCarmelo Anthony DEN 12/06/2004 DEN vs. ORL W 38 28 10 18 55.6 0 1 0.0 8 10 80.0 2 1 3 4 1 0 2 2 7
+p671
+aVMarcus Camby DEN 12/06/2004 DEN vs. ORL W 15 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 1 2 1 11
+p672
+aVAndre Miller DEN 12/06/2004 DEN vs. ORL W 38 29 7 12 58.3 1 3 33.3 14 14 100.0 3 4 7 7 3 1 1 4 12
+p673
+aVBryon Russell DEN 12/06/2004 DEN vs. ORL W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 1 0 0 2 6
+p674
+aVKenyon Martin DEN 12/06/2004 DEN vs. ORL W 41 23 11 23 47.8 0 0 - 1 2 50.0 5 7 12 1 0 1 5 5 10
+p675
+aVRodney White DEN 12/06/2004 DEN vs. ORL W 16 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 11
+p676
+aVGreg Buckner DEN 12/04/2004 DEN vs. MIA W 30 10 3 7 42.9 3 5 60.0 1 4 25.0 1 0 1 2 1 0 0 2 14
+p677
+aVCarmelo Anthony DEN 12/04/2004 DEN vs. MIA W 39 28 12 19 63.2 0 3 0.0 4 5 80.0 1 3 4 5 4 0 6 2 2
+p678
+aVBryon Russell DEN 12/04/2004 DEN vs. MIA W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 0 6
+p679
+aVKenyon Martin DEN 12/04/2004 DEN vs. MIA W 35 12 6 13 46.2 0 1 0.0 0 2 0.0 4 6 10 7 2 1 4 4 2
+p680
+aVAndre Miller DEN 12/04/2004 DEN vs. MIA W 34 10 4 6 66.7 0 0 - 2 3 66.7 0 3 3 5 1 0 3 3 -1
+p681
+aVNene DEN 12/04/2004 DEN vs. MIA W 22 10 3 5 60.0 0 0 - 4 6 66.7 0 3 3 2 3 1 2 2 2
+p682
+aVEarl Boykins DEN 12/04/2004 DEN vs. MIA W 32 16 5 13 38.5 0 3 0.0 6 7 85.7 0 2 2 6 5 0 3 1 3
+p683
+aVMarcus Camby DEN 12/04/2004 DEN vs. MIA W 25 8 2 5 40.0 0 0 - 4 4 100.0 2 11 13 1 1 2 2 4 16
+p684
+aVFrancisco Elson DEN 12/04/2004 DEN vs. MIA W 14 7 3 7 42.9 0 0 - 1 1 100.0 2 2 4 0 0 0 0 1 1
+p685
+aVEarl Boykins DEN 12/02/2004 DEN vs. CLE L 27 9 3 8 37.5 0 1 0.0 3 4 75.0 0 0 0 2 0 0 1 2 -13
+p686
+aVRodney White DEN 12/02/2004 DEN vs. CLE L 13 7 3 5 60.0 0 1 0.0 1 2 50.0 2 3 5 1 0 0 0 0 11
+p687
+aVNene DEN 12/02/2004 DEN vs. CLE L 20 4 2 5 40.0 0 0 - 0 2 0.0 3 5 8 0 1 1 2 3 -12
+p688
+aVMarcus Camby DEN 12/02/2004 DEN vs. CLE L 31 7 2 5 40.0 0 0 - 3 4 75.0 2 8 10 2 0 4 2 3 -13
+p689
+aVAndre Miller DEN 12/02/2004 DEN vs. CLE L 38 10 4 10 40.0 0 1 0.0 2 2 100.0 1 4 5 5 0 0 2 1 -16
+p690
+aVKenyon Martin DEN 12/02/2004 DEN vs. CLE L 24 6 2 11 18.2 0 0 - 2 2 100.0 1 2 3 3 0 0 2 4 -16
+p691
+aVNikoloz Tskitishvili DEN 12/02/2004 DEN vs. CLE L 12 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 0 0 3 3 -1
+p692
+aVGreg Buckner DEN 12/02/2004 DEN vs. CLE L 22 8 3 4 75.0 1 1 100.0 1 1 100.0 1 1 2 1 1 1 1 2 -5
+p693
+aVDerMarr Johnson DEN 12/02/2004 DEN vs. CLE L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p694
+aVCarmelo Anthony DEN 12/02/2004 DEN vs. CLE L 29 14 6 20 30.0 0 1 0.0 2 4 50.0 1 3 4 0 0 1 5 2 -16
+p695
+aVBryon Russell DEN 12/02/2004 DEN vs. CLE L 17 4 0 2 0.0 0 2 0.0 4 4 100.0 0 3 3 1 0 0 0 3 -12
+p696
+aVMarcus Camby DEN 11/29/2004 DEN vs. NOH W 39 0 0 3 0.0 0 0 - 0 0 - 2 9 11 4 1 4 2 1 15
+p697
+aVEarl Boykins DEN 11/29/2004 DEN vs. NOH W 34 22 9 16 56.3 3 5 60.0 1 1 100.0 0 1 1 3 1 0 6 2 9
+p698
+aVBryon Russell DEN 11/29/2004 DEN vs. NOH W 24 12 4 9 44.4 4 4 100.0 0 0 - 0 3 3 1 1 0 1 2 9
+p699
+aVNene DEN 11/29/2004 DEN vs. NOH W 22 7 2 5 40.0 0 0 - 3 4 75.0 1 5 6 0 1 0 1 2 -5
+p700
+aVAndre Miller DEN 11/29/2004 DEN vs. NOH W 38 14 5 14 35.7 0 0 - 4 4 100.0 3 0 3 8 3 1 2 2 9
+p701
+aVKenyon Martin DEN 11/29/2004 DEN vs. NOH W 31 10 4 8 50.0 0 0 - 2 3 66.7 0 6 6 2 2 3 2 2 8
+p702
+aVFrancisco Elson DEN 11/29/2004 DEN vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p703
+aVRodney White DEN 11/29/2004 DEN vs. NOH W 25 8 4 10 40.0 0 1 0.0 0 2 0.0 0 4 4 1 2 0 0 2 0
+p704
+aVGreg Buckner DEN 11/29/2004 DEN vs. NOH W 24 3 0 4 0.0 0 1 0.0 3 4 75.0 0 1 1 1 3 0 1 1 0
+p705
+aVMarcus Camby DEN 11/27/2004 DEN @ HOU W 41 13 6 10 60.0 0 0 - 1 1 100.0 2 12 14 1 3 1 1 2 11
+p706
+aVRodney White DEN 11/27/2004 DEN @ HOU W 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 2 0 0 0 -5
+p707
+aVNene DEN 11/27/2004 DEN @ HOU W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 3 5 -7
+p708
+aVGreg Buckner DEN 11/27/2004 DEN @ HOU W 39 13 3 5 60.0 2 3 66.7 5 6 83.3 1 2 3 3 1 0 2 3 13
+p709
+aVBryon Russell DEN 11/27/2004 DEN @ HOU W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 3 -7
+p710
+aVCarmelo Anthony DEN 11/27/2004 DEN @ HOU W 25 8 3 14 21.4 0 1 0.0 2 3 66.7 2 3 5 3 0 0 1 1 12
+p711
+aVEarl Boykins DEN 11/27/2004 DEN @ HOU W 11 0 0 6 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -9
+p712
+aVFrancisco Elson DEN 11/27/2004 DEN @ HOU W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p713
+aVKenyon Martin DEN 11/27/2004 DEN @ HOU W 39 19 8 19 42.1 0 0 - 3 11 27.3 5 8 13 3 1 0 2 1 8
+p714
+aVAndre Miller DEN 11/27/2004 DEN @ HOU W 38 20 9 14 64.3 0 0 - 2 4 50.0 1 6 7 7 2 0 3 2 15
+p715
+aVNikoloz Tskitishvili DEN 11/26/2004 DEN vs. SAS L 5 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p716
+aVRodney White DEN 11/26/2004 DEN vs. SAS L 15 2 1 6 16.7 0 1 0.0 0 0 - 1 5 6 1 0 0 2 1 10
+p717
+aVEarl Boykins DEN 11/26/2004 DEN vs. SAS L 33 9 4 10 40.0 1 3 33.3 0 0 - 1 2 3 1 0 0 0 2 1
+p718
+aVMarcus Camby DEN 11/26/2004 DEN vs. SAS L 35 13 5 13 38.5 0 0 - 3 4 75.0 5 6 11 2 0 4 1 2 -16
+p719
+aVGreg Buckner DEN 11/26/2004 DEN vs. SAS L 19 4 1 2 50.0 0 0 - 2 3 66.7 1 1 2 2 2 0 0 3 -18
+p720
+aVDerMarr Johnson DEN 11/26/2004 DEN vs. SAS L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 2
+p721
+aVNene DEN 11/26/2004 DEN vs. SAS L 28 7 2 10 20.0 0 0 - 3 6 50.0 1 4 5 2 2 1 4 2 -3
+p722
+aVFrancisco Elson DEN 11/26/2004 DEN vs. SAS L 12 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -3
+p723
+aVAndre Miller DEN 11/26/2004 DEN vs. SAS L 34 6 1 10 10.0 0 1 0.0 4 4 100.0 0 2 2 4 3 0 3 0 -17
+p724
+aVBryon Russell DEN 11/26/2004 DEN vs. SAS L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 1 -7
+p725
+aVKenyon Martin DEN 11/26/2004 DEN vs. SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -11
+p726
+aVCarmelo Anthony DEN 11/26/2004 DEN vs. SAS L 39 24 9 22 40.9 0 1 0.0 6 9 66.7 4 2 6 3 0 1 0 2 -10
+p727
+aVDerMarr Johnson DEN 11/23/2004 DEN vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -6
+p728
+aVEarl Boykins DEN 11/23/2004 DEN vs. NJN W 20 12 4 7 57.1 2 2 100.0 2 2 100.0 0 2 2 1 0 0 1 1 -8
+p729
+aVCarmelo Anthony DEN 11/23/2004 DEN vs. NJN W 34 9 4 15 26.7 1 4 25.0 0 0 - 0 2 2 3 0 0 4 5 16
+p730
+aVBryon Russell DEN 11/23/2004 DEN vs. NJN W 12 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 0 1 0 0 1 -10
+p731
+aVAndre Miller DEN 11/23/2004 DEN vs. NJN W 42 17 8 10 80.0 0 0 - 1 1 100.0 0 2 2 9 1 0 1 1 11
+p732
+aVKenyon Martin DEN 11/23/2004 DEN vs. NJN W 40 22 10 19 52.6 0 0 - 2 3 66.7 1 11 12 6 0 0 2 3 14
+p733
+aVNene DEN 11/23/2004 DEN vs. NJN W 18 5 1 5 20.0 0 0 - 3 4 75.0 0 3 3 2 0 2 2 3 -9
+p734
+aVMarcus Camby DEN 11/23/2004 DEN vs. NJN W 38 12 6 10 60.0 0 0 - 0 1 0.0 2 7 9 2 1 9 2 1 -1
+p735
+aVGreg Buckner DEN 11/23/2004 DEN vs. NJN W 33 8 4 8 50.0 0 1 0.0 0 0 - 1 4 5 3 1 1 0 3 3
+p736
+aVCarmelo Anthony DEN 11/21/2004 DEN vs. DAL W 31 21 9 14 64.3 1 2 50.0 2 5 40.0 0 6 6 6 0 1 5 1 28
+p737
+aVFrancisco Elson DEN 11/21/2004 DEN vs. DAL W 10 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 1 1 1 17
+p738
+aVMarcus Camby DEN 11/21/2004 DEN vs. DAL W 20 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 2 2 1 4 2
+p739
+aVNikoloz Tskitishvili DEN 11/21/2004 DEN vs. DAL W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 0 9
+p740
+aVRodney White DEN 11/21/2004 DEN vs. DAL W 17 11 4 10 40.0 1 3 33.3 2 4 50.0 2 4 6 3 2 1 0 1 14
+p741
+aVBryon Russell DEN 11/21/2004 DEN vs. DAL W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 3 1 0 0 1 -8
+p742
+aVNene DEN 11/21/2004 DEN vs. DAL W 17 4 0 1 0.0 0 0 - 4 4 100.0 1 0 1 0 0 1 1 3 6
+p743
+aVAndre Miller DEN 11/21/2004 DEN vs. DAL W 24 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 7 2 1 1 0 7
+p744
+aVGreg Buckner DEN 11/21/2004 DEN vs. DAL W 32 28 10 13 76.9 2 4 50.0 6 8 75.0 2 7 9 2 4 0 1 3 36
+p745
+aVKenyon Martin DEN 11/21/2004 DEN vs. DAL W 33 19 6 12 50.0 0 0 - 7 10 70.0 3 7 10 5 0 0 4 3 8
+p746
+aVDerMarr Johnson DEN 11/21/2004 DEN vs. DAL W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 4 3
+p747
+aVEarl Boykins DEN 11/21/2004 DEN vs. DAL W 30 10 4 10 40.0 1 2 50.0 1 1 100.0 1 5 6 5 1 0 3 1 18
+p748
+aVDerMarr Johnson DEN 11/19/2004 DEN vs. CHI W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 6
+p749
+aVEarl Boykins DEN 11/19/2004 DEN vs. CHI W 29 32 10 15 66.7 2 3 66.7 10 10 100.0 2 1 3 5 1 0 0 0 24
+p750
+aVKenyon Martin DEN 11/19/2004 DEN vs. CHI W 36 13 6 11 54.5 0 0 - 1 3 33.3 1 9 10 6 5 3 3 2 19
+p751
+aVNikoloz Tskitishvili DEN 11/19/2004 DEN vs. CHI W 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -1
+p752
+aVGreg Buckner DEN 11/19/2004 DEN vs. CHI W 23 2 0 2 0.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 1 3 -2
+p753
+aVFrancisco Elson DEN 11/19/2004 DEN vs. CHI W 28 5 2 6 33.3 0 0 - 1 2 50.0 0 6 6 0 1 2 2 5 14
+p754
+aVMarcus Camby DEN 11/19/2004 DEN vs. CHI W 13 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 1 0 0 1 2 -4
+p755
+aVAndre Miller DEN 11/19/2004 DEN vs. CHI W 34 16 4 7 57.1 0 0 - 8 8 100.0 0 1 1 2 1 0 3 4 11
+p756
+aVCarmelo Anthony DEN 11/19/2004 DEN vs. CHI W 30 18 8 15 53.3 1 4 25.0 1 2 50.0 1 6 7 2 2 0 5 4 10
+p757
+aVBryon Russell DEN 11/19/2004 DEN vs. CHI W 18 7 2 5 40.0 2 4 50.0 1 2 50.0 0 1 1 1 0 0 0 0 15
+p758
+aVRodney White DEN 11/19/2004 DEN vs. CHI W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 -2
+p759
+aVAndre Miller DEN 11/17/2004 DEN vs. TOR W 33 14 6 12 50.0 0 1 0.0 2 3 66.7 5 2 7 7 1 0 1 5 9
+p760
+aVEarl Boykins DEN 11/17/2004 DEN vs. TOR W 20 11 4 8 50.0 0 1 0.0 3 3 100.0 1 2 3 4 0 1 1 1 0
+p761
+aVKenyon Martin DEN 11/17/2004 DEN vs. TOR W 40 24 11 23 47.8 0 0 - 2 5 40.0 5 11 16 4 2 2 1 4 16
+p762
+aVDerMarr Johnson DEN 11/17/2004 DEN vs. TOR W 20 12 3 4 75.0 1 1 100.0 5 5 100.0 1 0 1 0 0 1 1 2 -5
+p763
+aVFrancisco Elson DEN 11/17/2004 DEN vs. TOR W 23 8 4 9 44.4 0 0 - 0 0 - 0 3 3 0 0 1 0 2 8
+p764
+aVRodney White DEN 11/17/2004 DEN vs. TOR W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 2 -9
+p765
+aVGreg Buckner DEN 11/17/2004 DEN vs. TOR W 29 9 4 6 66.7 1 2 50.0 0 0 - 2 4 6 4 1 0 0 2 11
+p766
+aVBryon Russell DEN 11/17/2004 DEN vs. TOR W 14 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 1 0 2 2 -4
+p767
+aVCarmelo Anthony DEN 11/17/2004 DEN vs. TOR W 42 30 7 18 38.9 0 2 0.0 16 16 100.0 1 3 4 3 1 2 6 5 16
+p768
+aVNikoloz Tskitishvili DEN 11/17/2004 DEN vs. TOR W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 1 2 2 -12
+p769
+aVRodney White DEN 11/14/2004 DEN @ SAC L 21 14 6 8 75.0 1 1 100.0 1 2 50.0 0 3 3 1 1 1 2 3 2
+p770
+aVFrancisco Elson DEN 11/14/2004 DEN @ SAC L 19 2 0 2 0.0 0 0 - 2 4 50.0 3 5 8 1 1 0 0 3 -12
+p771
+aVAndre Miller DEN 11/14/2004 DEN @ SAC L 34 5 2 11 18.2 0 0 - 1 2 50.0 1 5 6 3 0 0 2 0 -19
+p772
+aVKenyon Martin DEN 11/14/2004 DEN @ SAC L 35 10 4 12 33.3 0 0 - 2 3 66.7 2 3 5 3 2 1 1 3 -23
+p773
+aVNikoloz Tskitishvili DEN 11/14/2004 DEN @ SAC L 13 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 1 0 1 10
+p774
+aVBryon Russell DEN 11/14/2004 DEN @ SAC L 12 9 3 4 75.0 3 3 100.0 0 0 - 0 2 2 0 1 0 1 1 2
+p775
+aVEarl Boykins DEN 11/14/2004 DEN @ SAC L 28 5 1 11 9.1 0 2 0.0 3 4 75.0 0 3 3 5 3 0 2 2 -10
+p776
+aVGreg Buckner DEN 11/14/2004 DEN @ SAC L 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 3 2 0 1 4 -5
+p777
+aVCarmelo Anthony DEN 11/14/2004 DEN @ SAC L 44 28 10 23 43.5 1 3 33.3 7 11 63.6 3 3 6 3 1 0 3 4 -15
+p778
+aVDerMarr Johnson DEN 11/14/2004 DEN @ SAC L 19 10 4 10 40.0 2 5 40.0 0 0 - 2 3 5 0 0 1 2 2 10
+p779
+aVDerMarr Johnson DEN 11/11/2004 DEN vs. DET W 10 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 1 0 1 0 1 11
+p780
+aVCarmelo Anthony DEN 11/11/2004 DEN vs. DET W 40 34 11 20 55.0 3 3 100.0 9 10 90.0 3 4 7 5 4 1 2 6 3
+p781
+aVAndre Miller DEN 11/11/2004 DEN vs. DET W 34 14 5 9 55.6 0 1 0.0 4 5 80.0 0 3 3 6 2 0 1 1 -5
+p782
+aVEarl Boykins DEN 11/11/2004 DEN vs. DET W 33 32 11 15 73.3 2 3 66.7 8 8 100.0 1 1 2 6 1 0 4 3 -1
+p783
+aVMarcus Camby DEN 11/11/2004 DEN vs. DET W 17 4 2 5 40.0 0 0 - 0 2 0.0 0 7 7 0 1 1 0 2 6
+p784
+aVNikoloz Tskitishvili DEN 11/11/2004 DEN vs. DET W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p785
+aVRodney White DEN 11/11/2004 DEN vs. DET W 27 13 6 10 60.0 1 1 100.0 0 0 - 1 1 2 0 1 0 3 2 3
+p786
+aVGreg Buckner DEN 11/11/2004 DEN vs. DET W 20 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 2 1 0 0 3 14
+p787
+aVFrancisco Elson DEN 11/11/2004 DEN vs. DET W 19 5 0 3 0.0 0 0 - 5 6 83.3 2 0 2 1 0 0 1 3 -3
+p788
+aVKenyon Martin DEN 11/11/2004 DEN vs. DET W 32 6 3 9 33.3 0 0 - 0 2 0.0 1 2 3 2 3 1 0 5 15
+p789
+aVGreg Buckner DEN 11/09/2004 DEN vs. SEA L 11 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 -9
+p790
+aVMarcus Camby DEN 11/09/2004 DEN vs. SEA L 27 7 3 7 42.9 0 0 - 1 4 25.0 3 4 7 1 1 3 3 3 -23
+p791
+aVFrancisco Elson DEN 11/09/2004 DEN vs. SEA L 15 3 1 1 100.0 0 0 - 1 2 50.0 2 0 2 2 0 3 0 2 8
+p792
+aVBryon Russell DEN 11/09/2004 DEN vs. SEA L 14 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 3 -7
+p793
+aVEarl Boykins DEN 11/09/2004 DEN vs. SEA L 36 10 4 13 30.8 1 3 33.3 1 1 100.0 1 3 4 9 1 0 1 0 -6
+p794
+aVRodney White DEN 11/09/2004 DEN vs. SEA L 9 6 3 6 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p795
+aVDerMarr Johnson DEN 11/09/2004 DEN vs. SEA L 24 7 1 3 33.3 0 1 0.0 5 5 100.0 0 0 0 0 1 0 1 3 -3
+p796
+aVCarmelo Anthony DEN 11/09/2004 DEN vs. SEA L 31 20 8 15 53.3 2 4 50.0 2 3 66.7 0 4 4 2 1 0 6 3 -22
+p797
+aVAndre Miller DEN 11/09/2004 DEN vs. SEA L 37 18 8 12 66.7 0 0 - 2 2 100.0 0 3 3 6 1 0 5 5 -19
+p798
+aVKenyon Martin DEN 11/09/2004 DEN vs. SEA L 36 14 7 13 53.8 0 0 - 0 5 0.0 2 5 7 1 0 1 2 4 -16
+p799
+aVCarmelo Anthony DEN 11/08/2004 DEN @ UTA L 32 17 5 14 35.7 0 1 0.0 7 12 58.3 2 6 8 0 4 0 6 5 3
+p800
+aVGreg Buckner DEN 11/08/2004 DEN @ UTA L 24 11 3 4 75.0 2 2 100.0 3 3 100.0 0 1 1 2 0 0 0 2 -12
+p801
+aVFrancisco Elson DEN 11/08/2004 DEN @ UTA L 22 2 1 5 20.0 0 0 - 0 2 0.0 2 1 3 0 1 1 0 4 -2
+p802
+aVRodney White DEN 11/08/2004 DEN @ UTA L 23 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 0 0 0 1 2 -8
+p803
+aVMarcus Camby DEN 11/08/2004 DEN @ UTA L 30 8 4 6 66.7 0 0 - 0 0 - 2 2 4 1 0 2 0 3 -19
+p804
+aVKenyon Martin DEN 11/08/2004 DEN @ UTA L 31 14 4 9 44.4 0 0 - 6 6 100.0 0 4 4 3 0 1 1 3 -9
+p805
+aVBryon Russell DEN 11/08/2004 DEN @ UTA L 22 9 3 5 60.0 2 3 66.7 1 2 50.0 1 4 5 2 3 0 0 4 3
+p806
+aVAndre Miller DEN 11/08/2004 DEN @ UTA L 31 11 4 12 33.3 0 1 0.0 3 6 50.0 2 5 7 5 1 0 4 1 -14
+p807
+aVEarl Boykins DEN 11/08/2004 DEN @ UTA L 25 13 3 8 37.5 1 2 50.0 6 7 85.7 0 0 0 4 0 0 0 1 3
+p808
+aVKenyon Martin DEN 11/06/2004 DEN vs. UTA L 37 14 6 14 42.9 0 1 0.0 2 4 50.0 1 5 6 6 2 1 0 2 -28
+p809
+aVCarmelo Anthony DEN 11/06/2004 DEN vs. UTA L 30 7 3 20 15.0 0 3 0.0 1 2 50.0 2 4 6 2 0 0 2 4 -30
+p810
+aVEarl Boykins DEN 11/06/2004 DEN vs. UTA L 38 17 6 12 50.0 0 1 0.0 5 6 83.3 0 2 2 6 2 1 1 2 -23
+p811
+aVGreg Buckner DEN 11/06/2004 DEN vs. UTA L 17 4 1 2 50.0 0 0 - 2 2 100.0 3 2 5 1 0 0 1 2 -2
+p812
+aVAndre Miller DEN 11/06/2004 DEN vs. UTA L 31 6 3 7 42.9 0 0 - 0 0 - 1 0 1 1 1 0 5 5 -20
+p813
+aVMarcus Camby DEN 11/06/2004 DEN vs. UTA L 23 4 1 6 16.7 0 0 - 2 4 50.0 4 5 9 0 0 0 2 3 -17
+p814
+aVRodney White DEN 11/06/2004 DEN vs. UTA L 21 13 5 8 62.5 1 1 100.0 2 2 100.0 2 3 5 2 1 1 1 2 -3
+p815
+aVBryon Russell DEN 11/06/2004 DEN vs. UTA L 13 7 2 3 66.7 0 1 0.0 3 6 50.0 1 0 1 1 0 0 1 2 14
+p816
+aVDerMarr Johnson DEN 11/06/2004 DEN vs. UTA L 7 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 1 0 1 0 1 4
+p817
+aVFrancisco Elson DEN 11/06/2004 DEN vs. UTA L 23 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 4 1 3 -15
+p818
+aVCarmelo Anthony DEN 11/04/2004 DEN vs. MIN W 46 19 5 25 20.0 1 5 20.0 8 10 80.0 2 12 14 4 1 0 3 3 12
+p819
+aVMarcus Camby DEN 11/04/2004 DEN vs. MIN W 42 8 3 7 42.9 0 0 - 2 2 100.0 2 8 10 4 2 4 0 4 3
+p820
+aVKenyon Martin DEN 11/04/2004 DEN vs. MIN W 41 18 9 14 64.3 0 0 - 0 0 - 6 7 13 2 3 0 5 6 3
+p821
+aVRodney White DEN 11/04/2004 DEN vs. MIN W 18 9 4 8 50.0 1 1 100.0 0 0 - 1 0 1 0 2 0 1 0 -2
+p822
+aVAndre Miller DEN 11/04/2004 DEN vs. MIN W 39 19 8 21 38.1 0 0 - 3 3 100.0 4 1 5 6 1 0 1 3 1
+p823
+aVDerMarr Johnson DEN 11/04/2004 DEN vs. MIN W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 10
+p824
+aVFrancisco Elson DEN 11/04/2004 DEN vs. MIN W 13 5 2 3 66.7 0 0 - 1 1 100.0 3 2 5 1 0 0 0 2 -8
+p825
+aVEarl Boykins DEN 11/04/2004 DEN vs. MIN W 39 14 5 14 35.7 1 5 20.0 3 5 60.0 1 2 3 6 0 2 1 1 -3
+p826
+aVGreg Buckner DEN 11/04/2004 DEN vs. MIN W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -6
+p827
+aVKenyon Martin DEN 11/02/2004 DEN @ LAL L 33 13 4 8 50.0 0 0 - 5 6 83.3 3 4 7 5 4 2 0 5 -2
+p828
+aVMarcus Camby DEN 11/02/2004 DEN @ LAL L 36 8 4 8 50.0 0 0 - 0 2 0.0 2 14 16 1 1 6 2 2 1
+p829
+aVNene DEN 11/02/2004 DEN @ LAL L 18 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 1 0 4 3 -14
+p830
+aVEarl Boykins DEN 11/02/2004 DEN @ LAL L 18 3 1 9 11.1 0 2 0.0 1 1 100.0 0 0 0 2 1 0 0 0 -7
+p831
+aVFrancisco Elson DEN 11/02/2004 DEN @ LAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 1 0 1 1 -3
+p832
+aVCarmelo Anthony DEN 11/02/2004 DEN @ LAL L 39 20 9 22 40.9 0 1 0.0 2 3 66.7 4 1 5 4 2 0 2 4 -4
+p833
+aVRodney White DEN 11/02/2004 DEN @ LAL L 10 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 0 0 0 3 1 -13
+p834
+aVAndre Miller DEN 11/02/2004 DEN @ LAL L 34 10 4 13 30.8 0 0 - 2 2 100.0 2 2 4 3 0 0 1 0 -4
+p835
+aVDerMarr Johnson DEN 11/02/2004 DEN @ LAL L 4 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 4
+p836
+aVVoshon Lenard DEN 11/02/2004 DEN @ LAL L 24 13 4 9 44.4 2 6 33.3 3 5 60.0 0 1 1 1 0 0 1 1 -7
+p837
+aVGreg Buckner DEN 11/02/2004 DEN @ LAL L 16 2 0 5 0.0 0 1 0.0 2 2 100.0 3 0 3 1 0 0 1 4 -6
+p838
+a.

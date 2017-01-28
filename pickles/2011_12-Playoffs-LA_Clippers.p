@@ -1,0 +1,230 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMo Williams LAC 05/20/2012 LAC vs. SAS L 17 7 3 7 42.9 0 2 0.0 1 1 100.0 0 2 2 2 0 0 0 2 -3
+p2
+aVBlake Griffin LAC 05/20/2012 LAC vs. SAS L 37 21 9 20 45.0 0 0 - 3 3 100.0 0 5 5 2 1 1 0 2 3
+p3
+aVEric Bledsoe LAC 05/20/2012 LAC vs. SAS L 26 17 8 10 80.0 1 1 100.0 0 0 - 3 1 4 1 3 1 2 3 -1
+p4
+aVNick Young LAC 05/20/2012 LAC vs. SAS L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 1 -5
+p5
+aVBobby Simmons LAC 05/20/2012 LAC vs. SAS L 6 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 3 4
+p6
+aVKenyon Martin LAC 05/20/2012 LAC vs. SAS L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -6
+p7
+aVCaron Butler LAC 05/20/2012 LAC vs. SAS L 23 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 -2
+p8
+aVDeAndre Jordan LAC 05/20/2012 LAC vs. SAS L 31 10 4 7 57.1 0 0 - 2 4 50.0 3 5 8 0 1 3 0 5 7
+p9
+aVChris Paul LAC 05/20/2012 LAC vs. SAS L 41 23 9 18 50.0 2 5 40.0 3 3 100.0 2 4 6 11 2 0 2 1 2
+p10
+aVReggie Evans LAC 05/20/2012 LAC vs. SAS L 8 0 0 0 - 0 0 - 0 2 0.0 1 4 5 0 0 0 0 2 -14
+p11
+aVRandy Foye LAC 05/20/2012 LAC vs. SAS L 33 8 2 6 33.3 0 1 0.0 4 6 66.7 0 2 2 3 3 0 1 1 0
+p12
+aVMo Williams LAC 05/19/2012 LAC vs. SAS L 23 19 8 12 66.7 1 1 100.0 2 2 100.0 0 0 0 2 0 0 1 1 -11
+p13
+aVCaron Butler LAC 05/19/2012 LAC vs. SAS L 24 0 0 2 0.0 0 0 - 0 0 - 0 6 6 3 2 0 2 1 3
+p14
+aVNick Young LAC 05/19/2012 LAC vs. SAS L 18 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 0 0 1 0 2 -7
+p15
+aVDeAndre Jordan LAC 05/19/2012 LAC vs. SAS L 20 4 2 4 50.0 0 0 - 0 2 0.0 2 3 5 0 1 1 1 1 -7
+p16
+aVRandy Foye LAC 05/19/2012 LAC vs. SAS L 27 7 3 7 42.9 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 -1
+p17
+aVReggie Evans LAC 05/19/2012 LAC vs. SAS L 14 5 1 1 100.0 0 0 - 3 10 30.0 2 5 7 0 1 1 1 1 -2
+p18
+aVEric Bledsoe LAC 05/19/2012 LAC vs. SAS L 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 2 1 2 3 -5
+p19
+aVChris Paul LAC 05/19/2012 LAC vs. SAS L 39 12 5 17 29.4 0 2 0.0 2 2 100.0 1 2 3 11 2 0 3 4 -9
+p20
+aVBobby Simmons LAC 05/19/2012 LAC vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p21
+aVKenyon Martin LAC 05/19/2012 LAC vs. SAS L 15 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 1 0 4 -6
+p22
+aVBlake Griffin LAC 05/19/2012 LAC vs. SAS L 43 28 13 24 54.2 0 0 - 2 2 100.0 4 12 16 2 2 3 2 4 -5
+p23
+aVReggie Evans LAC 05/17/2012 LAC @ SAS L 11 5 1 2 50.0 0 0 - 3 4 75.0 2 2 4 0 1 0 0 1 -4
+p24
+aVDeAndre Jordan LAC 05/17/2012 LAC @ SAS L 26 4 2 4 50.0 0 0 - 0 2 0.0 2 5 7 1 1 0 0 0 -19
+p25
+aVBlake Griffin LAC 05/17/2012 LAC @ SAS L 37 20 7 16 43.8 0 0 - 6 8 75.0 0 1 1 1 1 1 2 3 -16
+p26
+aVMo Williams LAC 05/17/2012 LAC @ SAS L 18 9 3 3 100.0 1 1 100.0 2 2 100.0 0 1 1 0 1 2 2 1 0
+p27
+aVEric Bledsoe LAC 05/17/2012 LAC @ SAS L 23 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 1 0 4 4 8
+p28
+aVChris Paul LAC 05/17/2012 LAC @ SAS L 34 10 4 9 44.4 2 2 100.0 0 0 - 0 4 4 5 2 0 8 3 -22
+p29
+aVRandy Foye LAC 05/17/2012 LAC @ SAS L 26 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 0 0 1 0 3 -20
+p30
+aVNick Young LAC 05/17/2012 LAC @ SAS L 18 9 2 5 40.0 2 3 66.7 3 3 100.0 0 2 2 1 0 0 0 1 4
+p31
+aVKenyon Martin LAC 05/17/2012 LAC @ SAS L 18 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 1 0 3 0 2 5
+p32
+aVCaron Butler LAC 05/17/2012 LAC @ SAS L 30 9 3 9 33.3 1 2 50.0 2 2 100.0 0 5 5 2 0 0 2 2 -21
+p33
+aVKenyon Martin LAC 05/15/2012 LAC @ SAS L 23 7 2 6 33.3 0 0 - 3 4 75.0 0 2 2 0 1 2 0 3 3
+p34
+aVMo Williams LAC 05/15/2012 LAC @ SAS L 21 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 1 0 2 4
+p35
+aVChris Paul LAC 05/15/2012 LAC @ SAS L 38 6 3 13 23.1 0 3 0.0 0 0 - 0 3 3 10 5 0 5 1 -18
+p36
+aVBobby Simmons LAC 05/15/2012 LAC @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p37
+aVRandy Foye LAC 05/15/2012 LAC @ SAS L 21 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 1 0 0 -11
+p38
+aVDeAndre Jordan LAC 05/15/2012 LAC @ SAS L 23 7 3 5 60.0 0 0 - 1 2 50.0 2 7 9 0 1 0 0 2 -10
+p39
+aVNick Young LAC 05/15/2012 LAC @ SAS L 20 13 4 7 57.1 3 3 100.0 2 3 66.7 0 1 1 0 0 0 0 0 4
+p40
+aVEric Bledsoe LAC 05/15/2012 LAC @ SAS L 27 23 10 16 62.5 1 3 33.3 2 2 100.0 4 1 5 4 3 1 2 5 -6
+p41
+aVReggie Evans LAC 05/15/2012 LAC @ SAS L 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 2 4 0
+p42
+aVCaron Butler LAC 05/15/2012 LAC @ SAS L 29 15 6 13 46.2 3 7 42.9 0 0 - 0 2 2 0 0 1 3 2 -22
+p43
+aVBlake Griffin LAC 05/15/2012 LAC @ SAS L 28 15 7 17 41.2 0 0 - 1 2 50.0 2 7 9 4 1 3 3 2 -24
+p44
+aVDeAndre Jordan LAC 05/13/2012 LAC @ MEM W 24 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 1 1 0 2 -6
+p45
+aVNick Young LAC 05/13/2012 LAC @ MEM W 20 13 3 8 37.5 2 3 66.7 5 6 83.3 1 1 2 1 0 0 2 4 13
+p46
+aVBlake Griffin LAC 05/13/2012 LAC @ MEM W 28 8 3 11 27.3 0 0 - 2 3 66.7 3 1 4 0 2 2 2 3 -5
+p47
+aVEric Bledsoe LAC 05/13/2012 LAC @ MEM W 14 8 3 6 50.0 0 0 - 2 2 100.0 0 2 2 3 1 0 1 2 3
+p48
+aVMo Williams LAC 05/13/2012 LAC @ MEM W 24 9 4 9 44.4 1 4 25.0 0 0 - 0 0 0 1 1 0 1 1 15
+p49
+aVChris Paul LAC 05/13/2012 LAC @ MEM W 35 19 7 17 41.2 1 6 16.7 4 4 100.0 0 9 9 4 2 0 5 3 4
+p50
+aVReggie Evans LAC 05/13/2012 LAC @ MEM W 19 0 0 0 - 0 0 - 0 0 - 0 9 9 1 1 1 0 4 18
+p51
+aVRandy Foye LAC 05/13/2012 LAC @ MEM W 22 6 2 6 33.3 0 1 0.0 2 2 100.0 1 1 2 2 1 0 2 2 -2
+p52
+aVCaron Butler LAC 05/13/2012 LAC @ MEM W 28 8 3 12 25.0 0 3 0.0 2 4 50.0 2 3 5 0 1 0 2 2 -3
+p53
+aVKenyon Martin LAC 05/13/2012 LAC @ MEM W 25 11 5 7 71.4 0 0 - 1 2 50.0 4 6 10 0 0 2 1 5 13
+p54
+aVReggie Evans LAC 05/11/2012 LAC vs. MEM L 24 6 1 4 25.0 0 0 - 4 6 66.7 3 7 10 0 1 3 1 5 6
+p55
+aVDeAndre Jordan LAC 05/11/2012 LAC vs. MEM L 18 7 2 4 50.0 0 0 - 3 6 50.0 2 2 4 0 1 1 0 0 -7
+p56
+aVNick Young LAC 05/11/2012 LAC vs. MEM L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 2 0 0 1 2
+p57
+aVBlake Griffin LAC 05/11/2012 LAC vs. MEM L 33 17 6 11 54.5 0 0 - 5 6 83.3 1 4 5 6 3 0 1 3 -2
+p58
+aVEric Bledsoe LAC 05/11/2012 LAC vs. MEM L 24 14 6 12 50.0 0 0 - 2 3 66.7 2 2 4 6 1 0 1 2 4
+p59
+aVKenyon Martin LAC 05/11/2012 LAC vs. MEM L 21 10 5 6 83.3 0 0 - 0 0 - 1 1 2 0 0 2 0 3 0
+p60
+aVMo Williams LAC 05/11/2012 LAC vs. MEM L 11 2 1 7 14.3 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p61
+aVChris Paul LAC 05/11/2012 LAC vs. MEM L 35 11 4 9 44.4 1 3 33.3 2 4 50.0 0 5 5 7 3 0 3 6 -5
+p62
+aVRandy Foye LAC 05/11/2012 LAC vs. MEM L 26 9 4 13 30.8 1 4 25.0 0 0 - 1 0 1 2 1 0 1 1 -6
+p63
+aVCaron Butler LAC 05/11/2012 LAC vs. MEM L 32 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 0 0 0 0 3 -4
+p64
+aVChris Paul LAC 05/09/2012 LAC @ MEM L 40 19 5 11 45.5 1 4 25.0 8 10 80.0 0 6 6 4 4 1 3 1 -8
+p65
+aVNick Young LAC 05/09/2012 LAC @ MEM L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 1 5
+p66
+aVKenyon Martin LAC 05/09/2012 LAC @ MEM L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -6
+p67
+aVDeAndre Jordan LAC 05/09/2012 LAC @ MEM L 19 1 0 0 - 0 0 - 1 2 50.0 0 0 0 2 0 2 0 3 -15
+p68
+aVBlake Griffin LAC 05/09/2012 LAC @ MEM L 39 15 6 11 54.5 0 0 - 3 6 50.0 3 8 11 0 3 0 2 3 -3
+p69
+aVCaron Butler LAC 05/09/2012 LAC @ MEM L 31 8 2 10 20.0 1 5 20.0 3 4 75.0 0 4 4 2 0 0 2 5 -23
+p70
+aVRandy Foye LAC 05/09/2012 LAC @ MEM L 23 11 3 8 37.5 2 5 40.0 3 3 100.0 1 1 2 2 0 0 3 2 -14
+p71
+aVReggie Evans LAC 05/09/2012 LAC @ MEM L 28 4 1 2 50.0 0 0 - 2 2 100.0 3 6 9 0 0 0 1 5 3
+p72
+aVMo Williams LAC 05/09/2012 LAC @ MEM L 33 20 8 21 38.1 3 9 33.3 1 2 50.0 0 0 0 1 0 0 1 3 -1
+p73
+aVEric Bledsoe LAC 05/09/2012 LAC @ MEM L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p74
+aVCaron Butler LAC 05/07/2012 LAC vs. MEM W 26 14 5 10 50.0 1 2 50.0 3 4 75.0 0 1 1 0 1 0 1 3 1
+p75
+aVDeAndre Jordan LAC 05/07/2012 LAC vs. MEM W 22 6 3 5 60.0 0 0 - 0 1 0.0 0 4 4 0 1 3 1 2 0
+p76
+aVReggie Evans LAC 05/07/2012 LAC vs. MEM W 25 2 0 1 0.0 0 0 - 2 4 50.0 4 4 8 0 2 0 0 3 -10
+p77
+aVKenyon Martin LAC 05/07/2012 LAC vs. MEM W 23 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 3 0 4 -10
+p78
+aVEric Bledsoe LAC 05/07/2012 LAC vs. MEM W 12 3 0 0 - 0 0 - 3 4 75.0 1 2 3 0 1 1 0 1 14
+p79
+aVBlake Griffin LAC 05/07/2012 LAC vs. MEM W 37 30 10 15 66.7 0 0 - 10 17 58.8 3 2 5 7 1 0 2 6 18
+p80
+aVChris Paul LAC 05/07/2012 LAC vs. MEM W 42 27 10 22 45.5 1 3 33.3 6 6 100.0 2 7 9 7 0 0 2 0 -9
+p81
+aVNick Young LAC 05/07/2012 LAC vs. MEM W 19 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 0 0 1 0 2 6
+p82
+aVMo Williams LAC 05/07/2012 LAC vs. MEM W 29 9 3 10 30.0 1 4 25.0 2 2 100.0 0 3 3 4 1 0 1 3 10
+p83
+aVRandy Foye LAC 05/07/2012 LAC vs. MEM W 30 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 0 0 0 2 2 0
+p84
+aVRandy Foye LAC 05/05/2012 LAC vs. MEM W 36 16 6 9 66.7 4 5 80.0 0 0 - 0 4 4 2 1 1 3 3 -6
+p85
+aVMo Williams LAC 05/05/2012 LAC vs. MEM W 15 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 0 0 2 1 1 8
+p86
+aVDeAndre Jordan LAC 05/05/2012 LAC vs. MEM W 18 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 4 -9
+p87
+aVEric Bledsoe LAC 05/05/2012 LAC vs. MEM W 13 3 1 3 33.3 0 0 - 1 5 20.0 1 0 1 3 0 0 0 1 -1
+p88
+aVChris Paul LAC 05/05/2012 LAC vs. MEM W 41 24 8 19 42.1 1 3 33.3 7 8 87.5 0 4 4 11 4 0 3 2 8
+p89
+aVReggie Evans LAC 05/05/2012 LAC vs. MEM W 24 4 1 2 50.0 0 0 - 2 8 25.0 3 8 11 0 2 0 0 1 8
+p90
+aVNick Young LAC 05/05/2012 LAC vs. MEM W 18 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 0 1 0 1 3 7
+p91
+aVCaron Butler LAC 05/05/2012 LAC vs. MEM W 22 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 0 1 1 2 2 -5
+p92
+aVKenyon Martin LAC 05/05/2012 LAC vs. MEM W 21 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 0 2 5 2
+p93
+aVBlake Griffin LAC 05/05/2012 LAC vs. MEM W 33 17 7 13 53.8 0 0 - 3 9 33.3 0 4 4 2 1 0 5 5 -7
+p94
+aVReggie Evans LAC 05/02/2012 LAC @ MEM L 16 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -13
+p95
+aVDeAndre Jordan LAC 05/02/2012 LAC @ MEM L 25 6 3 5 60.0 0 0 - 0 3 0.0 2 6 8 1 0 4 3 1 2
+p96
+aVKenyon Martin LAC 05/02/2012 LAC @ MEM L 14 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 1 4 -5
+p97
+aVNick Young LAC 05/02/2012 LAC @ MEM L 24 11 4 7 57.1 3 3 100.0 0 0 - 0 0 0 0 0 0 1 4 -12
+p98
+aVEric Bledsoe LAC 05/02/2012 LAC @ MEM L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -4
+p99
+aVBlake Griffin LAC 05/02/2012 LAC @ MEM L 43 22 9 15 60.0 0 0 - 4 6 66.7 1 8 9 2 2 0 4 5 3
+p100
+aVMo Williams LAC 05/02/2012 LAC @ MEM L 21 11 4 8 50.0 1 3 33.3 2 2 100.0 0 1 1 4 0 0 3 1 -13
+p101
+aVBobby Simmons LAC 05/02/2012 LAC @ MEM L 22 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 4 4
+p102
+aVChris Paul LAC 05/02/2012 LAC @ MEM L 41 29 10 17 58.8 4 6 66.7 5 5 100.0 0 3 3 6 5 0 5 5 -3
+p103
+aVRandy Foye LAC 05/02/2012 LAC @ MEM L 27 6 2 6 33.3 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 2 6
+p104
+aVMo Williams LAC 04/29/2012 LAC @ MEM W 16 9 3 6 50.0 1 1 100.0 2 2 100.0 1 1 2 0 2 0 2 1 3
+p105
+aVKenyon Martin LAC 04/29/2012 LAC @ MEM W 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 3 0 3 1
+p106
+aVReggie Evans LAC 04/29/2012 LAC @ MEM W 21 7 3 3 100.0 0 0 - 1 4 25.0 2 11 13 0 1 1 3 3 23
+p107
+aVEric Bledsoe LAC 04/29/2012 LAC @ MEM W 20 9 4 8 50.0 1 3 33.3 0 0 - 1 3 4 2 0 0 1 0 24
+p108
+aVCaron Butler LAC 04/29/2012 LAC @ MEM W 23 12 5 12 41.7 0 4 0.0 2 2 100.0 1 1 2 1 1 0 2 1 -27
+p109
+aVChris Paul LAC 04/29/2012 LAC @ MEM W 38 14 5 12 41.7 0 2 0.0 4 5 80.0 1 3 4 11 1 0 4 4 -1
+p110
+aVRandy Foye LAC 04/29/2012 LAC @ MEM W 22 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 3 0 0 0 1 -24
+p111
+aVBlake Griffin LAC 04/29/2012 LAC @ MEM W 35 17 7 15 46.7 0 1 0.0 3 4 75.0 2 5 7 1 3 0 2 5 -3
+p112
+aVNick Young LAC 04/29/2012 LAC @ MEM W 24 19 6 9 66.7 3 4 75.0 4 4 100.0 0 2 2 1 0 1 1 1 28
+p113
+aVDeAndre Jordan LAC 04/29/2012 LAC @ MEM W 26 5 2 4 50.0 0 0 - 1 2 50.0 3 4 7 0 0 2 2 0 -19
+p114
+a.

@@ -1,0 +1,122 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKenneth Faried DEN 05/02/2013 DEN @ GSW L 28 11 5 10 50.0 0 0 - 1 3 33.3 5 6 11 0 0 0 0 5 -2
+p2
+aVKosta Koufos DEN 05/02/2013 DEN @ GSW L 21 6 2 5 40.0 1 1 100.0 1 2 50.0 2 1 3 0 0 1 0 0 -21
+p3
+aVCorey Brewer DEN 05/02/2013 DEN @ GSW L 19 2 1 8 12.5 0 5 0.0 0 0 - 0 2 2 0 1 1 1 5 -5
+p4
+aVWilson Chandler DEN 05/02/2013 DEN @ GSW L 36 11 5 17 29.4 1 6 16.7 0 0 - 1 0 1 3 3 0 1 5 1
+p5
+aVJaVale McGee DEN 05/02/2013 DEN @ GSW L 26 9 4 7 57.1 0 0 - 1 4 25.0 7 3 10 0 2 1 2 3 8
+p6
+aVTy Lawson DEN 05/02/2013 DEN @ GSW L 43 17 7 21 33.3 0 4 0.0 3 4 75.0 1 4 5 6 2 0 0 2 -5
+p7
+aVAndre Iguodala DEN 05/02/2013 DEN @ GSW L 42 24 7 18 38.9 5 8 62.5 5 6 83.3 2 7 9 6 1 0 2 2 -3
+p8
+aVAndre Miller DEN 05/02/2013 DEN @ GSW L 26 8 3 12 25.0 0 4 0.0 2 2 100.0 2 1 3 3 1 0 1 0 7
+p9
+aVWilson Chandler DEN 04/30/2013 DEN vs. GSW W 39 19 6 14 42.9 5 11 45.5 2 2 100.0 0 2 2 0 1 0 1 1 12
+p10
+aVCorey Brewer DEN 04/30/2013 DEN vs. GSW W 22 4 1 11 9.1 0 5 0.0 2 2 100.0 1 2 3 2 3 0 0 3 2
+p11
+aVAndre Miller DEN 04/30/2013 DEN vs. GSW W 26 11 4 10 40.0 0 1 0.0 3 3 100.0 1 1 2 5 0 0 3 2 -5
+p12
+aVKosta Koufos DEN 04/30/2013 DEN vs. GSW W 15 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 1 1 0 4 4
+p13
+aVKenneth Faried DEN 04/30/2013 DEN vs. GSW W 32 13 5 8 62.5 0 0 - 3 4 75.0 2 8 10 1 2 1 1 6 -1
+p14
+aVAnthony Randolph DEN 04/30/2013 DEN vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p15
+aVJaVale McGee DEN 04/30/2013 DEN vs. GSW W 20 10 4 9 44.4 0 0 - 2 4 50.0 5 3 8 0 1 3 4 3 2
+p16
+aVTy Lawson DEN 04/30/2013 DEN vs. GSW W 40 19 5 14 35.7 2 4 50.0 7 10 70.0 1 2 3 10 2 0 1 3 6
+p17
+aVAndre Iguodala DEN 04/30/2013 DEN vs. GSW W 40 25 10 17 58.8 3 6 50.0 2 2 100.0 3 9 12 7 2 1 2 1 16
+p18
+aVJulyan Stone DEN 04/30/2013 DEN vs. GSW W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p19
+aVAndre Miller DEN 04/28/2013 DEN @ GSW L 20 12 3 9 33.3 1 1 100.0 5 7 71.4 2 1 3 1 0 0 3 3 -5
+p20
+aVWilson Chandler DEN 04/28/2013 DEN @ GSW L 23 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 3 2 0 1 6 -6
+p21
+aVAnthony Randolph DEN 04/28/2013 DEN @ GSW L 9 6 1 1 100.0 0 0 - 4 4 100.0 0 2 2 0 1 0 1 1 -2
+p22
+aVCorey Brewer DEN 04/28/2013 DEN @ GSW L 29 14 3 9 33.3 3 8 37.5 5 8 62.5 0 1 1 0 1 0 2 3 -13
+p23
+aVKosta Koufos DEN 04/28/2013 DEN @ GSW L 14 2 0 0 - 0 0 - 2 2 100.0 1 2 3 1 0 1 0 2 -8
+p24
+aVEvan Fournier DEN 04/28/2013 DEN @ GSW L 9 2 1 5 20.0 0 4 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p25
+aVKenneth Faried DEN 04/28/2013 DEN @ GSW L 33 8 3 6 50.0 0 0 - 2 2 100.0 3 9 12 0 0 0 0 2 -1
+p26
+aVAndre Iguodala DEN 04/28/2013 DEN @ GSW L 40 19 7 11 63.6 2 3 66.7 3 4 75.0 2 6 8 2 2 0 7 2 -22
+p27
+aVTy Lawson DEN 04/28/2013 DEN @ GSW L 38 26 11 20 55.0 0 3 0.0 4 5 80.0 1 2 3 6 0 0 5 2 -20
+p28
+aVJaVale McGee DEN 04/28/2013 DEN @ GSW L 14 4 1 3 33.3 0 0 - 2 4 50.0 2 1 3 0 0 1 3 4 -8
+p29
+aVJordan Hamilton DEN 04/28/2013 DEN @ GSW L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p30
+aVJulyan Stone DEN 04/28/2013 DEN @ GSW L 8 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 12
+p31
+aVCorey Brewer DEN 04/26/2013 DEN @ GSW L 24 16 6 12 50.0 1 3 33.3 3 3 100.0 2 1 3 2 1 0 3 5 11
+p32
+aVWilson Chandler DEN 04/26/2013 DEN @ GSW L 37 11 4 8 50.0 2 3 66.7 1 2 50.0 1 8 9 2 2 1 2 5 -6
+p33
+aVAndre Iguodala DEN 04/26/2013 DEN @ GSW L 42 14 6 15 40.0 2 7 28.6 0 1 0.0 2 3 5 5 2 0 2 1 5
+p34
+aVTy Lawson DEN 04/26/2013 DEN @ GSW L 38 35 11 22 50.0 1 3 33.3 12 12 100.0 1 2 3 10 2 0 4 2 -2
+p35
+aVKenneth Faried DEN 04/26/2013 DEN @ GSW L 30 15 6 7 85.7 0 0 - 3 3 100.0 1 6 7 0 2 0 2 4 2
+p36
+aVAnthony Randolph DEN 04/26/2013 DEN @ GSW L 4 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 2 -2
+p37
+aVEvan Fournier DEN 04/26/2013 DEN @ GSW L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -8
+p38
+aVJaVale McGee DEN 04/26/2013 DEN @ GSW L 14 4 2 5 40.0 0 0 - 0 2 0.0 1 0 1 0 1 0 0 3 -1
+p39
+aVAndre Miller DEN 04/26/2013 DEN @ GSW L 27 7 2 13 15.4 1 1 100.0 2 3 66.7 2 2 4 4 0 0 3 1 -9
+p40
+aVKosta Koufos DEN 04/26/2013 DEN @ GSW L 11 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 0 0 0
+p41
+aVKosta Koufos DEN 04/23/2013 DEN vs. GSW L 14 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -18
+p42
+aVAndre Miller DEN 04/23/2013 DEN vs. GSW L 27 18 6 9 66.7 2 3 66.7 4 5 80.0 3 2 5 5 0 0 4 1 -8
+p43
+aVTy Lawson DEN 04/23/2013 DEN vs. GSW L 39 19 8 17 47.1 1 4 25.0 2 2 100.0 0 1 1 12 1 0 1 3 -24
+p44
+aVJaVale McGee DEN 04/23/2013 DEN vs. GSW L 14 7 3 3 100.0 0 0 - 1 1 100.0 0 3 3 0 0 0 1 1 5
+p45
+aVKenneth Faried DEN 04/23/2013 DEN vs. GSW L 21 4 1 1 100.0 0 0 - 2 3 66.7 1 1 2 0 1 0 2 5 10
+p46
+aVAnthony Randolph DEN 04/23/2013 DEN vs. GSW L 10 14 5 6 83.3 0 0 - 4 6 66.7 0 1 1 0 1 0 0 1 5
+p47
+aVWilson Chandler DEN 04/23/2013 DEN vs. GSW L 32 14 4 15 26.7 1 4 25.0 5 6 83.3 1 5 6 0 0 0 1 4 -20
+p48
+aVAndre Iguodala DEN 04/23/2013 DEN vs. GSW L 43 18 6 11 54.5 2 4 50.0 4 6 66.7 0 4 4 7 2 1 2 1 -10
+p49
+aVEvan Fournier DEN 04/23/2013 DEN vs. GSW L 9 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 3 3 -3
+p50
+aVCorey Brewer DEN 04/23/2013 DEN vs. GSW L 30 19 6 16 37.5 3 11 27.3 4 6 66.7 0 2 2 3 0 0 0 1 -7
+p51
+aVTy Lawson DEN 04/20/2013 DEN vs. GSW W 39 12 6 15 40.0 0 3 0.0 0 0 - 1 4 5 4 3 0 2 1 -8
+p52
+aVKosta Koufos DEN 04/20/2013 DEN vs. GSW W 26 6 2 7 28.6 0 0 - 2 2 100.0 2 5 7 0 0 1 1 5 0
+p53
+aVAndre Miller DEN 04/20/2013 DEN vs. GSW W 27 28 11 16 68.8 1 1 100.0 5 7 71.4 1 2 3 5 1 0 2 1 5
+p54
+aVJaVale McGee DEN 04/20/2013 DEN vs. GSW W 23 9 4 4 100.0 0 0 - 1 3 33.3 2 4 6 0 0 1 1 3 -4
+p55
+aVEvan Fournier DEN 04/20/2013 DEN vs. GSW W 22 11 3 9 33.3 0 3 0.0 5 6 83.3 0 0 0 2 2 0 1 0 1
+p56
+aVAnthony Randolph DEN 04/20/2013 DEN vs. GSW W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p57
+aVAndre Iguodala DEN 04/20/2013 DEN vs. GSW W 36 8 2 4 50.0 0 1 0.0 4 6 66.7 0 10 10 5 3 0 2 2 11
+p58
+aVCorey Brewer DEN 04/20/2013 DEN vs. GSW W 21 10 4 12 33.3 2 4 50.0 0 2 0.0 0 0 0 0 0 0 1 2 1
+p59
+aVWilson Chandler DEN 04/20/2013 DEN vs. GSW W 39 11 5 16 31.3 0 4 0.0 1 2 50.0 1 12 13 0 0 2 1 4 10
+p60
+a.

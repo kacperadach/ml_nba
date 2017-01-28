@@ -1,0 +1,1542 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDerek Harper NYK 04/21/1996 NYK @ BOS W 35 14 7 12 58.3 0 2 0.0 0 0 - 0 1 1 4 1 0 1 2 -
+p2
+aVJ.R. Reid NYK 04/21/1996 NYK @ BOS W 16 10 5 7 71.4 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -
+p3
+aVWillie Anderson NYK 04/21/1996 NYK @ BOS W 11 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 3 0 0 0 1 -
+p4
+aVBrad Lohaus NYK 04/21/1996 NYK @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p5
+aVCharlie Ward NYK 04/21/1996 NYK @ BOS W 23 7 3 7 42.9 0 2 0.0 1 2 50.0 2 4 6 4 1 1 0 3 -
+p6
+aVHubert Davis NYK 04/21/1996 NYK @ BOS W 31 11 5 7 71.4 0 0 - 1 2 50.0 0 3 3 2 0 0 3 3 -
+p7
+aVJohn Starks NYK 04/21/1996 NYK @ BOS W 32 18 8 14 57.1 2 4 50.0 0 0 - 1 6 7 5 0 2 2 0 -
+p8
+aVGary Grant NYK 04/21/1996 NYK @ BOS W 7 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -
+p9
+aVAnthony Mason NYK 04/21/1996 NYK @ BOS W 43 25 10 11 90.9 0 0 - 5 5 100.0 0 7 7 4 0 0 5 4 -
+p10
+aVPatrick Ewing NYK 04/21/1996 NYK @ BOS W 40 28 9 14 64.3 0 0 - 10 11 90.9 1 12 13 2 3 2 5 5 -
+p11
+aVRonnie Grandison NYK 04/21/1996 NYK @ BOS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p12
+aVJ.R. Reid NYK 04/19/1996 NYK vs. CHH L 20 0 0 2 0.0 0 0 - 0 0 - 2 5 7 1 1 0 2 4 -
+p13
+aVAnthony Mason NYK 04/19/1996 NYK vs. CHH L 47 25 11 13 84.6 0 0 - 3 4 75.0 2 5 7 6 0 1 5 4 -
+p14
+aVHubert Davis NYK 04/19/1996 NYK vs. CHH L 20 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 4 -
+p15
+aVHerb Williams NYK 04/19/1996 NYK vs. CHH L 13 6 3 4 75.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -
+p16
+aVWillie Anderson NYK 04/19/1996 NYK vs. CHH L 10 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -
+p17
+aVCharlie Ward NYK 04/19/1996 NYK vs. CHH L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -
+p18
+aVJohn Starks NYK 04/19/1996 NYK vs. CHH L 38 18 6 14 42.9 4 10 40.0 2 2 100.0 0 2 2 5 1 1 1 4 -
+p19
+aVPatrick Ewing NYK 04/19/1996 NYK vs. CHH L 44 28 10 26 38.5 0 2 0.0 8 9 88.9 3 12 15 11 0 1 1 3 -
+p20
+aVDerek Harper NYK 04/19/1996 NYK vs. CHH L 42 16 6 13 46.2 2 6 33.3 2 4 50.0 0 2 2 5 2 0 2 3 -
+p21
+aVHubert Davis NYK 04/18/1996 NYK @ CLE L 28 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 1 1 0 0 6 -
+p22
+aVRonnie Grandison NYK 04/18/1996 NYK @ CLE L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p23
+aVWillie Anderson NYK 04/18/1996 NYK @ CLE L 16 11 5 6 83.3 0 0 - 1 2 50.0 0 3 3 0 1 1 1 1 -
+p24
+aVJohn Starks NYK 04/18/1996 NYK @ CLE L 41 13 5 12 41.7 1 4 25.0 2 2 100.0 1 3 4 3 0 1 4 3 -
+p25
+aVPatrick Ewing NYK 04/18/1996 NYK @ CLE L 31 18 8 15 53.3 1 1 100.0 1 2 50.0 1 8 9 0 0 2 5 2 -
+p26
+aVJ.R. Reid NYK 04/18/1996 NYK @ CLE L 14 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -
+p27
+aVAnthony Mason NYK 04/18/1996 NYK @ CLE L 35 13 5 9 55.6 0 0 - 3 4 75.0 3 4 7 2 0 1 5 1 -
+p28
+aVHerb Williams NYK 04/18/1996 NYK @ CLE L 17 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 2 1 1 1 -
+p29
+aVBrad Lohaus NYK 04/18/1996 NYK @ CLE L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p30
+aVCharlie Ward NYK 04/18/1996 NYK @ CLE L 15 8 3 3 100.0 2 2 100.0 0 0 - 0 4 4 5 1 0 1 0 -
+p31
+aVDerek Harper NYK 04/18/1996 NYK @ CLE L 33 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 4 2 0 4 1 -
+p32
+aVJohn Starks NYK 04/15/1996 NYK vs. TOR W 33 19 7 11 63.6 3 3 100.0 2 3 66.7 0 3 3 2 5 0 3 0 -
+p33
+aVGary Grant NYK 04/15/1996 NYK vs. TOR W 12 14 7 8 87.5 0 0 - 0 0 - 0 0 0 3 1 0 0 4 -
+p34
+aVHubert Davis NYK 04/15/1996 NYK vs. TOR W 26 13 5 12 41.7 1 4 25.0 2 2 100.0 1 1 2 2 1 0 0 1 -
+p35
+aVPatrick Ewing NYK 04/15/1996 NYK vs. TOR W 30 23 11 19 57.9 0 0 - 1 2 50.0 3 6 9 1 1 3 1 1 -
+p36
+aVCharlie Ward NYK 04/15/1996 NYK vs. TOR W 25 11 3 5 60.0 3 5 60.0 2 2 100.0 1 1 2 6 3 0 3 2 -
+p37
+aVBrad Lohaus NYK 04/15/1996 NYK vs. TOR W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 0 0 0 0 -
+p38
+aVAnthony Mason NYK 04/15/1996 NYK vs. TOR W 33 14 6 9 66.7 0 0 - 2 2 100.0 2 4 6 7 0 0 0 4 -
+p39
+aVJ.R. Reid NYK 04/15/1996 NYK vs. TOR W 29 8 3 5 60.0 0 0 - 2 2 100.0 1 6 7 2 0 1 3 0 -
+p40
+aVHerb Williams NYK 04/15/1996 NYK vs. TOR W 18 8 4 6 66.7 0 0 - 0 0 - 0 3 3 0 1 1 2 4 -
+p41
+aVWillie Anderson NYK 04/15/1996 NYK vs. TOR W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -
+p42
+aVDerek Harper NYK 04/15/1996 NYK vs. TOR W 22 12 5 9 55.6 2 5 40.0 0 0 - 0 0 0 6 0 0 0 3 -
+p43
+aVJohn Starks NYK 04/13/1996 NYK @ MIA L 29 10 3 9 33.3 1 3 33.3 3 3 100.0 0 1 1 3 1 0 3 6 -
+p44
+aVHerb Williams NYK 04/13/1996 NYK @ MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 3 -
+p45
+aVAnthony Mason NYK 04/13/1996 NYK @ MIA L 46 26 11 19 57.9 0 0 - 4 7 57.1 3 6 9 5 3 0 0 3 -
+p46
+aVCharlie Ward NYK 04/13/1996 NYK @ MIA L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 0 3 -
+p47
+aVHubert Davis NYK 04/13/1996 NYK @ MIA L 27 6 2 8 25.0 1 3 33.3 1 1 100.0 0 2 2 2 0 2 0 1 -
+p48
+aVWillie Anderson NYK 04/13/1996 NYK @ MIA L 18 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -
+p49
+aVJ.R. Reid NYK 04/13/1996 NYK @ MIA L 21 6 3 9 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 4 -
+p50
+aVDerek Harper NYK 04/13/1996 NYK @ MIA L 38 17 7 11 63.6 3 4 75.0 0 0 - 0 2 2 4 2 0 1 3 -
+p51
+aVPatrick Ewing NYK 04/13/1996 NYK @ MIA L 42 24 9 21 42.9 0 0 - 6 8 75.0 2 16 18 3 0 3 3 5 -
+p52
+aVHerb Williams NYK 04/11/1996 NYK vs. CLE L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 1 0 0 -
+p53
+aVAnthony Mason NYK 04/11/1996 NYK vs. CLE L 45 17 4 8 50.0 0 0 - 9 11 81.8 5 2 7 6 0 0 2 4 -
+p54
+aVJohn Starks NYK 04/11/1996 NYK vs. CLE L 34 14 4 11 36.4 3 5 60.0 3 3 100.0 1 1 2 8 1 0 1 5 -
+p55
+aVJ.R. Reid NYK 04/11/1996 NYK vs. CLE L 23 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -
+p56
+aVDerek Harper NYK 04/11/1996 NYK vs. CLE L 41 12 5 10 50.0 2 5 40.0 0 0 - 0 2 2 2 3 0 8 2 -
+p57
+aVHubert Davis NYK 04/11/1996 NYK vs. CLE L 32 17 5 9 55.6 5 7 71.4 2 2 100.0 0 0 0 0 0 0 0 0 -
+p58
+aVPatrick Ewing NYK 04/11/1996 NYK vs. CLE L 41 29 11 18 61.1 0 0 - 7 9 77.8 5 6 11 2 1 0 6 5 -
+p59
+aVWillie Anderson NYK 04/11/1996 NYK vs. CLE L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 2 1 0 0 3 -
+p60
+aVHerb Williams NYK 04/09/1996 NYK vs. BOS W 11 6 3 5 60.0 0 0 - 0 1 0.0 0 0 0 0 1 1 1 3 -
+p61
+aVJ.R. Reid NYK 04/09/1996 NYK vs. BOS W 26 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 2 0 0 4 2 -
+p62
+aVCharles Oakley NYK 04/09/1996 NYK vs. BOS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p63
+aVAnthony Mason NYK 04/09/1996 NYK vs. BOS W 44 21 7 12 58.3 0 0 - 7 8 87.5 1 9 10 2 0 0 1 4 -
+p64
+aVHubert Davis NYK 04/09/1996 NYK vs. BOS W 24 14 5 7 71.4 4 4 100.0 0 0 - 0 0 0 1 1 0 2 1 -
+p65
+aVDerek Harper NYK 04/09/1996 NYK vs. BOS W 43 15 6 13 46.2 1 3 33.3 2 2 100.0 0 5 5 8 4 0 3 2 -
+p66
+aVCharlie Ward NYK 04/09/1996 NYK vs. BOS W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 4 -
+p67
+aVPatrick Ewing NYK 04/09/1996 NYK vs. BOS W 38 26 8 21 38.1 0 0 - 10 12 83.3 3 8 11 2 0 3 3 1 -
+p68
+aVJohn Starks NYK 04/09/1996 NYK vs. BOS W 40 11 4 8 50.0 1 3 33.3 2 2 100.0 0 2 2 8 7 0 0 3 -
+p69
+aVHubert Davis NYK 04/08/1996 NYK vs. SEA L 23 9 1 5 20.0 1 2 50.0 6 6 100.0 0 2 2 3 1 0 0 1 -
+p70
+aVHerb Williams NYK 04/08/1996 NYK vs. SEA L 12 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 1 -
+p71
+aVAnthony Mason NYK 04/08/1996 NYK vs. SEA L 41 19 7 10 70.0 0 0 - 5 6 83.3 6 2 8 6 0 1 3 2 -
+p72
+aVDerek Harper NYK 04/08/1996 NYK vs. SEA L 34 22 8 14 57.1 6 7 85.7 0 0 - 1 0 1 6 0 0 2 1 -
+p73
+aVBrad Lohaus NYK 04/08/1996 NYK vs. SEA L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p74
+aVJ.R. Reid NYK 04/08/1996 NYK vs. SEA L 22 3 1 6 16.7 0 0 - 1 1 100.0 2 0 2 0 2 1 1 2 -
+p75
+aVCharlie Ward NYK 04/08/1996 NYK vs. SEA L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 1 1 -
+p76
+aVCharles Oakley NYK 04/08/1996 NYK vs. SEA L 29 7 3 8 37.5 0 0 - 1 1 100.0 3 3 6 3 2 1 5 4 -
+p77
+aVJohn Starks NYK 04/08/1996 NYK vs. SEA L 31 13 5 12 41.7 3 8 37.5 0 0 - 0 0 0 4 2 0 3 3 -
+p78
+aVPatrick Ewing NYK 04/08/1996 NYK vs. SEA L 36 14 5 21 23.8 0 1 0.0 4 6 66.7 4 8 12 0 2 4 3 2 -
+p79
+aVJ.R. Reid NYK 04/06/1996 NYK @ TOR W 11 7 1 2 50.0 0 0 - 5 6 83.3 0 1 1 1 1 0 0 2 -
+p80
+aVCharlie Ward NYK 04/06/1996 NYK @ TOR W 20 7 2 5 40.0 1 3 33.3 2 2 100.0 2 2 4 4 1 0 1 3 -
+p81
+aVJohn Starks NYK 04/06/1996 NYK @ TOR W 38 37 14 24 58.3 7 16 43.8 2 4 50.0 0 3 3 3 0 1 0 2 -
+p82
+aVBrad Lohaus NYK 04/06/1996 NYK @ TOR W 3 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -
+p83
+aVHubert Davis NYK 04/06/1996 NYK @ TOR W 27 21 7 14 50.0 3 7 42.9 4 4 100.0 4 3 7 0 0 0 2 2 -
+p84
+aVCharles Oakley NYK 04/06/1996 NYK @ TOR W 21 6 2 4 50.0 0 0 - 2 2 100.0 3 4 7 2 0 0 5 4 -
+p85
+aVDerek Harper NYK 04/06/1996 NYK @ TOR W 34 20 8 13 61.5 4 8 50.0 0 0 - 0 5 5 11 1 0 2 4 -
+p86
+aVAnthony Mason NYK 04/06/1996 NYK @ TOR W 38 18 7 12 58.3 0 0 - 4 4 100.0 4 5 9 7 2 2 3 4 -
+p87
+aVHerb Williams NYK 04/06/1996 NYK @ TOR W 12 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 1 0 1 0 -
+p88
+aVPatrick Ewing NYK 04/06/1996 NYK @ TOR W 30 17 7 17 41.2 0 1 0.0 3 4 75.0 5 12 17 6 3 1 3 2 -
+p89
+aVWillie Anderson NYK 04/06/1996 NYK @ TOR W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p90
+aVPatrick Ewing NYK 04/05/1996 NYK @ MIL W 37 24 8 15 53.3 0 0 - 8 10 80.0 2 11 13 4 0 5 0 1 -
+p91
+aVJ.R. Reid NYK 04/05/1996 NYK @ MIL W 19 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -
+p92
+aVDerek Harper NYK 04/05/1996 NYK @ MIL W 33 11 4 10 40.0 1 3 33.3 2 2 100.0 3 1 4 3 1 0 2 2 -
+p93
+aVAnthony Mason NYK 04/05/1996 NYK @ MIL W 42 10 4 10 40.0 0 0 - 2 2 100.0 1 8 9 7 1 1 4 4 -
+p94
+aVCharlie Ward NYK 04/05/1996 NYK @ MIL W 15 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 0 2 0 1 4 -
+p95
+aVHerb Williams NYK 04/05/1996 NYK @ MIL W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p96
+aVJohn Starks NYK 04/05/1996 NYK @ MIL W 29 7 2 9 22.2 1 6 16.7 2 2 100.0 0 3 3 2 0 0 1 1 -
+p97
+aVHubert Davis NYK 04/05/1996 NYK @ MIL W 19 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 2 1 -
+p98
+aVCharles Oakley NYK 04/05/1996 NYK @ MIL W 35 11 5 10 50.0 0 0 - 1 2 50.0 0 2 2 4 1 0 0 4 -
+p99
+aVJ.R. Reid NYK 04/03/1996 NYK vs. ORL L 20 12 6 7 85.7 0 0 - 0 0 - 0 2 2 3 0 0 0 2 -
+p100
+aVPatrick Ewing NYK 04/03/1996 NYK vs. ORL L 38 5 1 14 7.1 0 0 - 3 4 75.0 2 11 13 4 0 1 1 3 -
+p101
+aVCharlie Ward NYK 04/03/1996 NYK vs. ORL L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -
+p102
+aVCharles Oakley NYK 04/03/1996 NYK vs. ORL L 28 15 7 14 50.0 0 0 - 1 1 100.0 2 7 9 2 1 0 3 2 -
+p103
+aVDerek Harper NYK 04/03/1996 NYK vs. ORL L 36 15 6 11 54.5 3 5 60.0 0 0 - 2 2 4 2 1 0 3 2 -
+p104
+aVHubert Davis NYK 04/03/1996 NYK vs. ORL L 21 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 1 1 0 2 1 -
+p105
+aVJohn Starks NYK 04/03/1996 NYK vs. ORL L 36 3 1 8 12.5 1 6 16.7 0 0 - 0 5 5 5 2 0 3 5 -
+p106
+aVHerb Williams NYK 04/03/1996 NYK vs. ORL L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p107
+aVAnthony Mason NYK 04/03/1996 NYK vs. ORL L 44 22 9 15 60.0 0 0 - 4 4 100.0 4 5 9 5 1 1 2 2 -
+p108
+aVWillie Anderson NYK 04/03/1996 NYK vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p109
+aVHubert Davis NYK 04/02/1996 NYK @ IND W 17 3 1 5 20.0 0 2 0.0 1 1 100.0 0 0 0 3 0 0 2 1 -
+p110
+aVAnthony Mason NYK 04/02/1996 NYK @ IND W 42 23 9 12 75.0 0 0 - 5 7 71.4 2 8 10 3 0 0 3 1 -
+p111
+aVCharles Oakley NYK 04/02/1996 NYK @ IND W 34 15 5 7 71.4 0 0 - 5 6 83.3 0 6 6 4 1 1 3 4 -
+p112
+aVJ.R. Reid NYK 04/02/1996 NYK @ IND W 25 10 3 6 50.0 0 0 - 4 4 100.0 1 3 4 0 2 0 0 3 -
+p113
+aVJohn Starks NYK 04/02/1996 NYK @ IND W 31 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 3 2 0 0 3 -
+p114
+aVHerb Williams NYK 04/02/1996 NYK @ IND W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 2 2 0 2 -
+p115
+aVCharlie Ward NYK 04/02/1996 NYK @ IND W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 1 -
+p116
+aVDerek Harper NYK 04/02/1996 NYK @ IND W 38 9 3 9 33.3 2 4 50.0 1 1 100.0 1 6 7 6 1 0 3 3 -
+p117
+aVPatrick Ewing NYK 04/02/1996 NYK @ IND W 33 21 8 15 53.3 0 0 - 5 5 100.0 1 6 7 0 2 3 4 4 -
+p118
+aVCharles Oakley NYK 03/31/1996 NYK @ ORL L 33 12 5 8 62.5 0 0 - 2 2 100.0 2 8 10 2 0 0 2 3 -
+p119
+aVAnthony Mason NYK 03/31/1996 NYK @ ORL L 40 14 7 11 63.6 0 0 - 0 0 - 2 6 8 4 0 0 3 2 -
+p120
+aVPatrick Ewing NYK 03/31/1996 NYK @ ORL L 38 30 13 25 52.0 0 0 - 4 4 100.0 1 10 11 1 0 1 2 4 -
+p121
+aVJohn Starks NYK 03/31/1996 NYK @ ORL L 29 7 3 10 30.0 1 6 16.7 0 0 - 0 3 3 4 0 0 1 1 -
+p122
+aVBrad Lohaus NYK 03/31/1996 NYK @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p123
+aVHerb Williams NYK 03/31/1996 NYK @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p124
+aVDerek Harper NYK 03/31/1996 NYK @ ORL L 35 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 -
+p125
+aVHubert Davis NYK 03/31/1996 NYK @ ORL L 18 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 1 0 1 0 1 -
+p126
+aVJ.R. Reid NYK 03/31/1996 NYK @ ORL L 19 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -
+p127
+aVWillie Anderson NYK 03/31/1996 NYK @ ORL L 21 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 1 3 2 -
+p128
+aVCharlie Ward NYK 03/31/1996 NYK @ ORL L 3 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p129
+aVHerb Williams NYK 03/29/1996 NYK vs. NJN W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p130
+aVJohn Starks NYK 03/29/1996 NYK vs. NJN W 30 16 4 11 36.4 4 10 40.0 4 5 80.0 0 2 2 4 2 0 1 2 -
+p131
+aVDerek Harper NYK 03/29/1996 NYK vs. NJN W 32 18 6 10 60.0 4 7 57.1 2 2 100.0 0 2 2 4 4 0 2 3 -
+p132
+aVCharles Oakley NYK 03/29/1996 NYK vs. NJN W 26 8 4 6 66.7 0 0 - 0 0 - 3 2 5 6 2 0 2 3 -
+p133
+aVAnthony Mason NYK 03/29/1996 NYK vs. NJN W 44 11 5 10 50.0 0 0 - 1 3 33.3 1 9 10 3 2 1 3 0 -
+p134
+aVBrad Lohaus NYK 03/29/1996 NYK vs. NJN W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p135
+aVJ.R. Reid NYK 03/29/1996 NYK vs. NJN W 24 14 6 8 75.0 0 0 - 2 4 50.0 1 6 7 0 0 0 2 4 -
+p136
+aVPatrick Ewing NYK 03/29/1996 NYK vs. NJN W 36 20 7 17 41.2 0 0 - 6 7 85.7 3 7 10 4 0 3 0 2 -
+p137
+aVWillie Anderson NYK 03/29/1996 NYK vs. NJN W 18 2 1 1 100.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 -
+p138
+aVCharlie Ward NYK 03/29/1996 NYK vs. NJN W 16 3 1 7 14.3 1 4 25.0 0 0 - 1 1 2 0 0 1 1 2 -
+p139
+aVCharles Oakley NYK 03/27/1996 NYK @ SAN L 25 14 7 12 58.3 0 0 - 0 0 - 2 4 6 0 0 0 0 3 -
+p140
+aVDerek Harper NYK 03/27/1996 NYK @ SAN L 39 5 2 8 25.0 1 4 25.0 0 0 - 2 3 5 4 1 0 2 1 -
+p141
+aVCharlie Ward NYK 03/27/1996 NYK @ SAN L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -
+p142
+aVWillie Anderson NYK 03/27/1996 NYK @ SAN L 22 8 4 7 57.1 0 2 0.0 0 0 - 0 2 2 4 0 0 0 4 -
+p143
+aVAnthony Mason NYK 03/27/1996 NYK @ SAN L 41 11 4 6 66.7 0 0 - 3 4 75.0 3 7 10 5 0 0 1 2 -
+p144
+aVJ.R. Reid NYK 03/27/1996 NYK @ SAN L 15 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 1 1 0 1 1 -
+p145
+aVPatrick Ewing NYK 03/27/1996 NYK @ SAN L 39 20 6 21 28.6 0 0 - 8 10 80.0 2 11 13 4 0 3 5 4 -
+p146
+aVHerb Williams NYK 03/27/1996 NYK @ SAN L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 2 0 2 -
+p147
+aVJohn Starks NYK 03/27/1996 NYK @ SAN L 39 19 8 19 42.1 2 8 25.0 1 1 100.0 1 5 6 3 1 0 3 4 -
+p148
+aVJohn Starks NYK 03/26/1996 NYK @ HOU W 39 21 8 14 57.1 2 6 33.3 3 5 60.0 0 5 5 4 2 0 2 3 -
+p149
+aVDerek Harper NYK 03/26/1996 NYK @ HOU W 40 18 8 15 53.3 1 6 16.7 1 1 100.0 0 2 2 3 1 0 3 2 -
+p150
+aVCharles Oakley NYK 03/26/1996 NYK @ HOU W 21 2 1 3 33.3 0 0 - 0 0 - 1 3 4 4 1 1 2 2 -
+p151
+aVJ.R. Reid NYK 03/26/1996 NYK @ HOU W 20 2 1 3 33.3 0 0 - 0 0 - 0 4 4 3 0 0 1 4 -
+p152
+aVAnthony Mason NYK 03/26/1996 NYK @ HOU W 41 13 6 10 60.0 0 0 - 1 4 25.0 3 14 17 5 0 1 5 3 -
+p153
+aVHerb Williams NYK 03/26/1996 NYK @ HOU W 12 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 -
+p154
+aVCharlie Ward NYK 03/26/1996 NYK @ HOU W 24 6 2 5 40.0 1 3 33.3 1 2 50.0 1 2 3 1 1 0 2 2 -
+p155
+aVPatrick Ewing NYK 03/26/1996 NYK @ HOU W 43 17 7 20 35.0 0 0 - 3 6 50.0 3 11 14 5 3 5 2 2 -
+p156
+aVAnthony Mason NYK 03/24/1996 NYK @ DAL W 20 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 2 0 0 3 0 -
+p157
+aVCharlie Ward NYK 03/24/1996 NYK @ DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -
+p158
+aVJohn Starks NYK 03/24/1996 NYK @ DAL W 40 19 8 17 47.1 3 7 42.9 0 0 - 1 1 2 4 3 0 3 3 -
+p159
+aVWillie Anderson NYK 03/24/1996 NYK @ DAL W 31 4 2 6 33.3 0 1 0.0 0 0 - 2 5 7 3 5 0 4 2 -
+p160
+aVRonnie Grandison NYK 03/24/1996 NYK @ DAL W 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -
+p161
+aVDerek Harper NYK 03/24/1996 NYK @ DAL W 41 13 6 13 46.2 1 4 25.0 0 0 - 1 6 7 6 5 2 2 1 -
+p162
+aVPatrick Ewing NYK 03/24/1996 NYK @ DAL W 42 36 16 30 53.3 0 0 - 4 5 80.0 2 13 15 1 1 3 3 1 -
+p163
+aVJ.R. Reid NYK 03/24/1996 NYK @ DAL W 23 8 2 6 33.3 0 0 - 4 4 100.0 3 4 7 0 0 1 1 4 -
+p164
+aVHerb Williams NYK 03/24/1996 NYK @ DAL W 33 2 1 6 16.7 0 0 - 0 0 - 2 5 7 2 0 0 3 2 -
+p165
+aVAnthony Mason NYK 03/21/1996 NYK @ CHI L 32 6 2 11 18.2 0 0 - 2 4 50.0 3 4 7 3 1 0 1 4 -
+p166
+aVBrad Lohaus NYK 03/21/1996 NYK @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p167
+aVWillie Anderson NYK 03/21/1996 NYK @ CHI L 26 10 2 6 33.3 1 2 50.0 5 5 100.0 1 2 3 1 1 0 0 1 -
+p168
+aVGary Grant NYK 03/21/1996 NYK @ CHI L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 2 0 1 2 -
+p169
+aVRonnie Grandison NYK 03/21/1996 NYK @ CHI L 12 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 0 1 0 0 1 -
+p170
+aVDerek Harper NYK 03/21/1996 NYK @ CHI L 33 13 4 9 44.4 2 5 40.0 3 6 50.0 0 4 4 2 1 0 3 1 -
+p171
+aVJ.R. Reid NYK 03/21/1996 NYK @ CHI L 27 10 3 7 42.9 0 0 - 4 4 100.0 0 1 1 2 0 0 0 4 -
+p172
+aVJohn Starks NYK 03/21/1996 NYK @ CHI L 34 8 3 14 21.4 1 7 14.3 1 2 50.0 1 1 2 5 2 0 1 4 -
+p173
+aVPatrick Ewing NYK 03/21/1996 NYK @ CHI L 36 20 9 19 47.4 0 1 0.0 2 4 50.0 1 7 8 1 1 1 2 4 -
+p174
+aVHerb Williams NYK 03/21/1996 NYK @ CHI L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p175
+aVCharlie Ward NYK 03/21/1996 NYK @ CHI L 19 10 4 7 57.1 2 4 50.0 0 0 - 2 0 2 4 0 0 0 2 -
+p176
+aVHerb Williams NYK 03/20/1996 NYK vs. IND W 25 7 1 5 20.0 0 0 - 5 6 83.3 3 4 7 1 0 4 0 3 -
+p177
+aVJohn Starks NYK 03/20/1996 NYK vs. IND W 33 19 6 8 75.0 4 6 66.7 3 3 100.0 0 0 0 6 1 0 5 3 -
+p178
+aVWillie Anderson NYK 03/20/1996 NYK vs. IND W 16 4 1 4 25.0 0 0 - 2 3 66.7 0 0 0 2 0 0 2 1 -
+p179
+aVJ.R. Reid NYK 03/20/1996 NYK vs. IND W 34 10 4 6 66.7 0 0 - 2 4 50.0 1 5 6 2 1 0 3 3 -
+p180
+aVAnthony Mason NYK 03/20/1996 NYK vs. IND W 44 16 7 9 77.8 0 0 - 2 2 100.0 1 8 9 3 1 0 1 5 -
+p181
+aVCharlie Ward NYK 03/20/1996 NYK vs. IND W 10 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 2 1 0 2 2 -
+p182
+aVDerek Harper NYK 03/20/1996 NYK vs. IND W 38 12 4 10 40.0 2 4 50.0 2 2 100.0 1 3 4 9 2 0 3 2 -
+p183
+aVPatrick Ewing NYK 03/20/1996 NYK vs. IND W 40 31 9 17 52.9 0 0 - 13 15 86.7 0 5 5 4 2 1 4 2 -
+p184
+aVWillie Anderson NYK 03/16/1996 NYK vs. PHL W 15 0 0 6 0.0 0 3 0.0 0 0 - 1 0 1 2 0 0 0 0 -
+p185
+aVDerek Harper NYK 03/16/1996 NYK vs. PHL W 38 18 7 15 46.7 1 8 12.5 3 5 60.0 0 1 1 7 3 0 1 2 -
+p186
+aVJohn Starks NYK 03/16/1996 NYK vs. PHL W 41 20 8 20 40.0 3 11 27.3 1 3 33.3 1 0 1 4 2 0 2 4 -
+p187
+aVHerb Williams NYK 03/16/1996 NYK vs. PHL W 10 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 1 0 2 -
+p188
+aVPatrick Ewing NYK 03/16/1996 NYK vs. PHL W 38 26 11 21 52.4 0 0 - 4 6 66.7 3 6 9 4 0 1 0 5 -
+p189
+aVJ.R. Reid NYK 03/16/1996 NYK vs. PHL W 15 4 2 2 100.0 0 0 - 0 1 0.0 2 0 2 0 0 0 0 5 -
+p190
+aVRonnie Grandison NYK 03/16/1996 NYK vs. PHL W 25 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 1 3 0 1 0 -
+p191
+aVAnthony Mason NYK 03/16/1996 NYK vs. PHL W 45 18 7 12 58.3 0 0 - 4 4 100.0 4 6 10 5 2 0 3 2 -
+p192
+aVCharlie Ward NYK 03/16/1996 NYK vs. PHL W 13 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 3 1 0 0 1 -
+p193
+aVJohn Starks NYK 03/13/1996 NYK @ MIN W 30 20 8 15 53.3 2 2 100.0 2 6 33.3 0 2 2 4 3 0 1 2 -
+p194
+aVHerb Williams NYK 03/13/1996 NYK @ MIN W 24 6 3 7 42.9 0 0 - 0 0 - 1 2 3 2 0 3 1 4 -
+p195
+aVHubert Davis NYK 03/13/1996 NYK @ MIN W 20 13 4 9 44.4 2 4 50.0 3 4 75.0 0 1 1 3 1 0 0 1 -
+p196
+aVJ.R. Reid NYK 03/13/1996 NYK @ MIN W 27 7 2 4 50.0 0 0 - 3 4 75.0 2 6 8 3 1 0 3 4 -
+p197
+aVDerek Harper NYK 03/13/1996 NYK @ MIN W 32 9 4 9 44.4 1 1 100.0 0 1 0.0 1 2 3 7 1 0 4 3 -
+p198
+aVAnthony Mason NYK 03/13/1996 NYK @ MIN W 43 18 7 13 53.8 0 0 - 4 6 66.7 7 13 20 6 1 3 2 3 -
+p199
+aVRonnie Grandison NYK 03/13/1996 NYK @ MIN W 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p200
+aVGary Grant NYK 03/13/1996 NYK @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -
+p201
+aVCharlie Ward NYK 03/13/1996 NYK @ MIN W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 2 1 1 3 -
+p202
+aVPatrick Ewing NYK 03/13/1996 NYK @ MIN W 22 21 7 9 77.8 0 0 - 7 7 100.0 0 4 4 1 0 2 2 5 -
+p203
+aVWillie Anderson NYK 03/13/1996 NYK @ MIN W 17 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 1 0 0 -
+p204
+aVWillie Anderson NYK 03/10/1996 NYK vs. CHI W 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 1 0 0 3 -
+p205
+aVJ.R. Reid NYK 03/10/1996 NYK vs. CHI W 27 12 6 8 75.0 0 0 - 0 0 - 0 7 7 1 2 0 1 2 -
+p206
+aVAnthony Mason NYK 03/10/1996 NYK vs. CHI W 42 8 3 5 60.0 0 0 - 2 2 100.0 4 5 9 8 2 1 2 2 -
+p207
+aVHubert Davis NYK 03/10/1996 NYK vs. CHI W 25 11 3 10 30.0 2 5 40.0 3 3 100.0 0 0 0 2 1 1 2 2 -
+p208
+aVBrad Lohaus NYK 03/10/1996 NYK vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p209
+aVHerb Williams NYK 03/10/1996 NYK vs. CHI W 10 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 0 -
+p210
+aVJohn Starks NYK 03/10/1996 NYK vs. CHI W 26 12 4 11 36.4 2 5 40.0 2 2 100.0 0 2 2 5 0 0 1 5 -
+p211
+aVDerek Harper NYK 03/10/1996 NYK vs. CHI W 38 23 9 13 69.2 4 8 50.0 1 1 100.0 0 1 1 6 1 0 3 2 -
+p212
+aVCharlie Ward NYK 03/10/1996 NYK vs. CHI W 15 10 4 6 66.7 2 2 100.0 0 0 - 0 0 0 1 0 0 1 2 -
+p213
+aVPatrick Ewing NYK 03/10/1996 NYK vs. CHI W 38 26 13 23 56.5 0 1 0.0 0 0 - 2 12 14 1 1 1 1 1 -
+p214
+aVBrad Lohaus NYK 03/08/1996 NYK @ PHL L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 1 1 -
+p215
+aVHerb Williams NYK 03/08/1996 NYK @ PHL L 27 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 0 1 1 4 -
+p216
+aVPatrick Ewing NYK 03/08/1996 NYK @ PHL L 40 24 11 20 55.0 0 0 - 2 5 40.0 2 5 7 4 4 4 7 2 -
+p217
+aVCharlie Ward NYK 03/08/1996 NYK @ PHL L 15 0 0 3 0.0 0 0 - 0 0 - 0 2 2 3 1 0 2 1 -
+p218
+aVJ.R. Reid NYK 03/08/1996 NYK @ PHL L 22 8 4 6 66.7 0 0 - 0 0 - 4 1 5 1 0 0 1 4 -
+p219
+aVDerek Harper NYK 03/08/1996 NYK @ PHL L 36 13 5 14 35.7 0 1 0.0 3 3 100.0 0 1 1 6 1 0 1 4 -
+p220
+aVAnthony Mason NYK 03/08/1996 NYK @ PHL L 45 20 10 13 76.9 0 0 - 0 0 - 3 8 11 5 0 0 5 5 -
+p221
+aVWillie Anderson NYK 03/08/1996 NYK @ PHL L 5 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 2 -
+p222
+aVHubert Davis NYK 03/08/1996 NYK @ PHL L 40 17 6 15 40.0 3 8 37.5 2 2 100.0 1 4 5 3 0 0 1 2 -
+p223
+aVHubert Davis NYK 03/06/1996 NYK @ TOR W 44 30 9 17 52.9 5 10 50.0 7 8 87.5 0 2 2 1 1 2 1 1 -
+p224
+aVDerek Harper NYK 03/06/1996 NYK @ TOR W 41 13 5 11 45.5 2 4 50.0 1 2 50.0 0 1 1 2 3 0 2 0 -
+p225
+aVJohn Starks NYK 03/06/1996 NYK @ TOR W 17 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 3 0 1 1 3 -
+p226
+aVBrad Lohaus NYK 03/06/1996 NYK @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p227
+aVPatrick Ewing NYK 03/06/1996 NYK @ TOR W 35 17 5 13 38.5 0 0 - 7 11 63.6 2 11 13 4 0 4 7 5 -
+p228
+aVHerb Williams NYK 03/06/1996 NYK @ TOR W 32 4 2 8 25.0 0 0 - 0 2 0.0 1 7 8 0 2 2 2 2 -
+p229
+aVJ.R. Reid NYK 03/06/1996 NYK @ TOR W 23 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 1 2 1 3 -
+p230
+aVAnthony Mason NYK 03/06/1996 NYK @ TOR W 43 16 4 9 44.4 0 0 - 8 10 80.0 3 9 12 6 0 0 5 2 -
+p231
+aVHubert Davis NYK 03/05/1996 NYK vs. LAC L 42 25 9 17 52.9 3 7 42.9 4 4 100.0 0 2 2 3 1 0 2 2 -
+p232
+aVBrad Lohaus NYK 03/05/1996 NYK vs. LAC L 21 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 2 0 0 1 3 -
+p233
+aVCharlie Ward NYK 03/05/1996 NYK vs. LAC L 13 6 2 4 50.0 1 2 50.0 1 4 25.0 0 0 0 2 1 0 1 0 -
+p234
+aVJohn Starks NYK 03/05/1996 NYK vs. LAC L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 1 1 -
+p235
+aVWillie Anderson NYK 03/05/1996 NYK vs. LAC L 17 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -
+p236
+aVHerb Williams NYK 03/05/1996 NYK vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p237
+aVDerek Harper NYK 03/05/1996 NYK vs. LAC L 33 6 3 10 30.0 0 0 - 0 0 - 0 2 2 5 0 0 4 2 -
+p238
+aVPatrick Ewing NYK 03/05/1996 NYK vs. LAC L 40 24 7 17 41.2 0 0 - 10 12 83.3 0 11 11 1 1 1 1 4 -
+p239
+aVJ.R. Reid NYK 03/05/1996 NYK vs. LAC L 18 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 -
+p240
+aVAnthony Mason NYK 03/05/1996 NYK vs. LAC L 41 12 5 10 50.0 0 0 - 2 7 28.6 3 10 13 2 0 1 2 4 -
+p241
+aVCharlie Ward NYK 03/03/1996 NYK vs. GOS W 27 11 4 5 80.0 1 1 100.0 2 4 50.0 1 5 6 7 1 0 4 4 -
+p242
+aVJ.R. Reid NYK 03/03/1996 NYK vs. GOS W 18 7 3 4 75.0 0 0 - 1 2 50.0 2 4 6 0 0 1 1 4 -
+p243
+aVWillie Anderson NYK 03/03/1996 NYK vs. GOS W 15 3 1 5 20.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 2 4 -
+p244
+aVAnthony Mason NYK 03/03/1996 NYK vs. GOS W 33 12 5 6 83.3 0 0 - 2 3 66.7 3 10 13 6 1 0 3 0 -
+p245
+aVJohn Starks NYK 03/03/1996 NYK vs. GOS W 25 21 7 15 46.7 3 6 50.0 4 4 100.0 1 2 3 3 1 0 0 4 -
+p246
+aVMatt Fish NYK 03/03/1996 NYK vs. GOS W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p247
+aVPatrick Ewing NYK 03/03/1996 NYK vs. GOS W 22 9 2 10 20.0 0 0 - 5 6 83.3 0 6 6 0 2 2 1 4 -
+p248
+aVHubert Davis NYK 03/03/1996 NYK vs. GOS W 31 18 7 13 53.8 2 6 33.3 2 2 100.0 0 5 5 3 0 0 3 3 -
+p249
+aVDerek Harper NYK 03/03/1996 NYK vs. GOS W 29 13 5 9 55.6 2 3 66.7 1 2 50.0 0 1 1 4 1 0 1 2 -
+p250
+aVBrad Lohaus NYK 03/03/1996 NYK vs. GOS W 17 3 1 5 20.0 1 4 25.0 0 0 - 1 0 1 2 0 1 0 5 -
+p251
+aVHerb Williams NYK 03/03/1996 NYK vs. GOS W 21 10 5 8 62.5 0 0 - 0 0 - 0 4 4 1 0 0 0 4 -
+p252
+aVCharlie Ward NYK 03/01/1996 NYK @ UTH L 16 7 1 4 25.0 1 3 33.3 4 4 100.0 0 0 0 1 3 0 1 3 -
+p253
+aVJ.R. Reid NYK 03/01/1996 NYK @ UTH L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p254
+aVAnthony Mason NYK 03/01/1996 NYK @ UTH L 40 11 5 6 83.3 0 0 - 1 2 50.0 5 8 13 2 0 3 1 3 -
+p255
+aVJohn Starks NYK 03/01/1996 NYK @ UTH L 22 10 3 7 42.9 2 4 50.0 2 2 100.0 0 0 0 2 0 0 4 3 -
+p256
+aVBrad Lohaus NYK 03/01/1996 NYK @ UTH L 26 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 1 0 2 2 2 -
+p257
+aVHubert Davis NYK 03/01/1996 NYK @ UTH L 30 16 6 14 42.9 2 5 40.0 2 2 100.0 0 3 3 3 0 0 0 4 -
+p258
+aVWillie Anderson NYK 03/01/1996 NYK @ UTH L 18 8 3 8 37.5 0 1 0.0 2 2 100.0 2 1 3 1 0 0 0 3 -
+p259
+aVDerek Harper NYK 03/01/1996 NYK @ UTH L 32 13 4 11 36.4 0 2 0.0 5 5 100.0 0 3 3 2 0 0 2 3 -
+p260
+aVPatrick Ewing NYK 03/01/1996 NYK @ UTH L 41 16 6 16 37.5 0 1 0.0 4 4 100.0 1 7 8 2 0 1 2 2 -
+p261
+aVHerb Williams NYK 03/01/1996 NYK @ UTH L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p262
+aVHubert Davis NYK 02/28/1996 NYK @ SAC L 36 13 4 11 36.4 2 3 66.7 3 3 100.0 0 2 2 5 2 0 1 4 -
+p263
+aVDerek Harper NYK 02/28/1996 NYK @ SAC L 43 7 2 12 16.7 0 1 0.0 3 5 60.0 0 2 2 3 2 0 1 5 -
+p264
+aVJohn Starks NYK 02/28/1996 NYK @ SAC L 12 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 2 0 2 2 -
+p265
+aVHerb Williams NYK 02/28/1996 NYK @ SAC L 10 5 2 3 66.7 0 1 0.0 1 2 50.0 1 1 2 0 1 0 1 0 -
+p266
+aVWillie Anderson NYK 02/28/1996 NYK @ SAC L 42 16 6 14 42.9 1 3 33.3 3 7 42.9 0 2 2 1 2 1 1 5 -
+p267
+aVGary Grant NYK 02/28/1996 NYK @ SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p268
+aVPatrick Ewing NYK 02/28/1996 NYK @ SAC L 38 31 12 24 50.0 0 0 - 7 12 58.3 3 10 13 3 0 1 1 4 -
+p269
+aVAnthony Mason NYK 02/28/1996 NYK @ SAC L 47 8 4 9 44.4 0 0 - 0 0 - 6 7 13 5 2 0 1 4 -
+p270
+aVBrad Lohaus NYK 02/28/1996 NYK @ SAC L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 1 -
+p271
+aVAnthony Mason NYK 02/26/1996 NYK @ LAL L 45 23 8 17 47.1 0 0 - 7 9 77.8 2 7 9 8 0 2 2 1 -
+p272
+aVMatt Fish NYK 02/26/1996 NYK @ LAL L 15 10 5 8 62.5 0 0 - 0 1 0.0 3 0 3 1 0 1 0 2 -
+p273
+aVBrad Lohaus NYK 02/26/1996 NYK @ LAL L 32 9 3 7 42.9 3 6 50.0 0 0 - 0 4 4 1 0 0 1 1 -
+p274
+aVWillie Anderson NYK 02/26/1996 NYK @ LAL L 29 5 1 7 14.3 0 2 0.0 3 4 75.0 2 2 4 1 1 1 0 2 -
+p275
+aVGary Grant NYK 02/26/1996 NYK @ LAL L 22 8 4 12 33.3 0 2 0.0 0 0 - 0 1 1 3 2 0 2 2 -
+p276
+aVDerek Harper NYK 02/26/1996 NYK @ LAL L 25 16 8 9 88.9 0 0 - 0 0 - 0 0 0 0 2 0 2 3 -
+p277
+aVHubert Davis NYK 02/26/1996 NYK @ LAL L 33 6 3 10 30.0 0 2 0.0 0 0 - 2 3 5 2 0 0 2 2 -
+p278
+aVJohn Starks NYK 02/26/1996 NYK @ LAL L 17 8 3 6 50.0 1 1 100.0 1 2 50.0 0 3 3 1 0 0 2 1 -
+p279
+aVCharlie Ward NYK 02/26/1996 NYK @ LAL L 22 11 4 6 66.7 1 2 50.0 2 2 100.0 0 4 4 2 2 0 2 2 -
+p280
+aVWillie Anderson NYK 02/25/1996 NYK @ PHX L 20 10 5 8 62.5 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -
+p281
+aVAnthony Mason NYK 02/25/1996 NYK @ PHX L 36 14 5 9 55.6 0 0 - 4 6 66.7 1 5 6 1 2 2 1 3 -
+p282
+aVJ.R. Reid NYK 02/25/1996 NYK @ PHX L 41 22 9 10 90.0 0 0 - 4 5 80.0 1 10 11 1 0 1 0 3 -
+p283
+aVBrad Lohaus NYK 02/25/1996 NYK @ PHX L 21 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 2 1 0 1 5 -
+p284
+aVGary Grant NYK 02/25/1996 NYK @ PHX L 17 4 2 7 28.6 0 0 - 0 0 - 1 3 4 6 2 0 0 3 -
+p285
+aVJohn Starks NYK 02/25/1996 NYK @ PHX L 30 13 6 16 37.5 1 4 25.0 0 0 - 0 2 2 3 1 0 1 1 -
+p286
+aVCharlie Ward NYK 02/25/1996 NYK @ PHX L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 2 0 -
+p287
+aVDerek Harper NYK 02/25/1996 NYK @ PHX L 25 12 5 10 50.0 0 4 0.0 2 4 50.0 0 1 1 4 3 0 3 2 -
+p288
+aVHubert Davis NYK 02/25/1996 NYK @ PHX L 44 20 9 14 64.3 1 5 20.0 1 1 100.0 1 1 2 2 1 0 1 2 -
+p289
+aVGary Grant NYK 02/23/1996 NYK vs. ATL L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p290
+aVDerek Harper NYK 02/23/1996 NYK vs. ATL L 33 9 3 11 27.3 1 4 25.0 2 2 100.0 0 2 2 5 0 0 1 1 -
+p291
+aVWillie Anderson NYK 02/23/1996 NYK vs. ATL L 32 4 2 8 25.0 0 1 0.0 0 2 0.0 1 4 5 3 2 1 2 3 -
+p292
+aVBrad Lohaus NYK 02/23/1996 NYK vs. ATL L 27 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 0 0 0 1 3 -
+p293
+aVAnthony Mason NYK 02/23/1996 NYK vs. ATL L 48 24 10 13 76.9 0 0 - 4 6 66.7 4 10 14 2 5 0 4 4 -
+p294
+aVCharlie Ward NYK 02/23/1996 NYK vs. ATL L 16 6 1 3 33.3 0 0 - 4 6 66.7 0 1 1 2 2 0 3 2 -
+p295
+aVJ.R. Reid NYK 02/23/1996 NYK vs. ATL L 19 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 2 2 0 0 2 -
+p296
+aVHubert Davis NYK 02/23/1996 NYK vs. ATL L 27 16 6 13 46.2 2 6 33.3 2 2 100.0 2 4 6 2 1 0 1 4 -
+p297
+aVJohn Starks NYK 02/23/1996 NYK vs. ATL L 35 26 10 18 55.6 2 4 50.0 4 4 100.0 1 2 3 3 0 0 3 2 -
+p298
+aVGary Grant NYK 02/21/1996 NYK @ DET W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p299
+aVHubert Davis NYK 02/21/1996 NYK @ DET W 43 22 8 10 80.0 4 6 66.7 2 2 100.0 1 4 5 2 0 0 1 2 -
+p300
+aVAnthony Mason NYK 02/21/1996 NYK @ DET W 49 24 8 12 66.7 0 0 - 8 12 66.7 3 5 8 6 0 0 1 3 -
+p301
+aVJohn Starks NYK 02/21/1996 NYK @ DET W 28 13 5 12 41.7 2 4 50.0 1 2 50.0 0 2 2 3 0 0 1 3 -
+p302
+aVWillie Anderson NYK 02/21/1996 NYK @ DET W 33 13 5 11 45.5 1 3 33.3 2 4 50.0 2 4 6 7 2 2 3 5 -
+p303
+aVPatrick Ewing NYK 02/21/1996 NYK @ DET W 43 20 6 18 33.3 0 0 - 8 11 72.7 2 6 8 2 2 1 2 4 -
+p304
+aVDerek Harper NYK 02/21/1996 NYK @ DET W 44 13 6 14 42.9 1 3 33.3 0 2 0.0 0 3 3 6 1 0 4 5 -
+p305
+aVBrad Lohaus NYK 02/21/1996 NYK @ DET W 24 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 3 0 2 0 5 -
+p306
+aVJohn Starks NYK 02/20/1996 NYK vs. MIL L 25 7 3 8 37.5 1 4 25.0 0 0 - 2 2 4 1 1 0 0 2 -
+p307
+aVJ.R. Reid NYK 02/20/1996 NYK vs. MIL L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -
+p308
+aVPatrick Ewing NYK 02/20/1996 NYK vs. MIL L 42 29 11 31 35.5 0 1 0.0 7 8 87.5 11 8 19 0 2 2 3 4 -
+p309
+aVWillie Anderson NYK 02/20/1996 NYK vs. MIL L 19 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -
+p310
+aVBrad Lohaus NYK 02/20/1996 NYK vs. MIL L 32 16 6 11 54.5 4 8 50.0 0 0 - 0 2 2 4 3 2 1 2 -
+p311
+aVAnthony Mason NYK 02/20/1996 NYK vs. MIL L 47 10 4 9 44.4 0 0 - 2 2 100.0 4 9 13 8 1 0 1 2 -
+p312
+aVHubert Davis NYK 02/20/1996 NYK vs. MIL L 32 8 2 10 20.0 2 4 50.0 2 2 100.0 2 0 2 3 0 2 1 0 -
+p313
+aVDerek Harper NYK 02/20/1996 NYK vs. MIL L 27 7 3 10 30.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 3 2 -
+p314
+aVCharlie Ward NYK 02/20/1996 NYK vs. MIL L 10 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 2 0 -
+p315
+aVJ.R. Reid NYK 02/17/1996 NYK @ NJN L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p316
+aVPatrick Ewing NYK 02/17/1996 NYK @ NJN L 37 19 7 21 33.3 1 2 50.0 4 5 80.0 5 9 14 0 1 3 4 4 -
+p317
+aVCharlie Ward NYK 02/17/1996 NYK @ NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p318
+aVHerb Williams NYK 02/17/1996 NYK @ NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p319
+aVBrad Lohaus NYK 02/17/1996 NYK @ NJN L 37 6 2 11 18.2 2 8 25.0 0 0 - 1 1 2 1 1 1 1 3 -
+p320
+aVJohn Starks NYK 02/17/1996 NYK @ NJN L 26 9 4 14 28.6 1 9 11.1 0 0 - 0 2 2 3 2 0 1 2 -
+p321
+aVHubert Davis NYK 02/17/1996 NYK @ NJN L 31 8 3 10 30.0 2 6 33.3 0 0 - 2 0 2 1 0 0 1 2 -
+p322
+aVDerek Harper NYK 02/17/1996 NYK @ NJN L 39 16 7 14 50.0 2 5 40.0 0 0 - 0 4 4 6 3 0 4 3 -
+p323
+aVDoug Christie NYK 02/17/1996 NYK @ NJN L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -
+p324
+aVAnthony Mason NYK 02/17/1996 NYK @ NJN L 44 15 4 11 36.4 0 0 - 7 9 77.8 4 11 15 4 2 0 2 5 -
+p325
+aVPatrick Ewing NYK 02/16/1996 NYK vs. PHL W 31 18 7 16 43.8 0 0 - 4 4 100.0 2 8 10 0 1 1 2 2 -
+p326
+aVJohn Starks NYK 02/16/1996 NYK vs. PHL W 23 7 3 9 33.3 1 7 14.3 0 0 - 0 6 6 3 0 0 3 1 -
+p327
+aVHerb Williams NYK 02/16/1996 NYK vs. PHL W 10 2 1 8 12.5 0 1 0.0 0 1 0.0 0 1 1 1 0 2 1 3 -
+p328
+aVJ.R. Reid NYK 02/16/1996 NYK vs. PHL W 18 8 3 6 50.0 0 0 - 2 2 100.0 5 4 9 0 0 0 0 3 -
+p329
+aVCharlie Ward NYK 02/16/1996 NYK vs. PHL W 26 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 5 4 0 2 1 -
+p330
+aVDoug Christie NYK 02/16/1996 NYK vs. PHL W 23 16 4 9 44.4 3 5 60.0 5 6 83.3 3 4 7 2 0 0 2 3 -
+p331
+aVBrad Lohaus NYK 02/16/1996 NYK vs. PHL W 19 8 3 4 75.0 2 3 66.7 0 0 - 0 4 4 2 1 1 1 3 -
+p332
+aVHubert Davis NYK 02/16/1996 NYK vs. PHL W 27 13 4 7 57.1 2 3 66.7 3 3 100.0 1 0 1 3 0 0 1 2 -
+p333
+aVDerek Harper NYK 02/16/1996 NYK vs. PHL W 28 21 8 12 66.7 3 5 60.0 2 2 100.0 1 5 6 7 0 0 2 4 -
+p334
+aVAnthony Mason NYK 02/16/1996 NYK vs. PHL W 35 15 7 7 100.0 0 0 - 1 1 100.0 3 9 12 4 2 0 6 2 -
+p335
+aVCharlie Ward NYK 02/14/1996 NYK @ CHH L 27 5 2 5 40.0 0 1 0.0 1 2 50.0 0 3 3 7 1 0 3 2 -
+p336
+aVJ.R. Reid NYK 02/14/1996 NYK @ CHH L 13 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 -
+p337
+aVCharles Oakley NYK 02/14/1996 NYK @ CHH L 26 8 4 10 40.0 0 0 - 0 0 - 4 3 7 3 2 0 1 4 -
+p338
+aVBrad Lohaus NYK 02/14/1996 NYK @ CHH L 14 8 3 5 60.0 2 3 66.7 0 0 - 0 5 5 3 1 0 0 1 -
+p339
+aVGary Grant NYK 02/14/1996 NYK @ CHH L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 3 0 0 0 -
+p340
+aVDoug Christie NYK 02/14/1996 NYK @ CHH L 11 7 3 8 37.5 1 1 100.0 0 0 - 1 0 1 1 0 0 2 4 -
+p341
+aVPatrick Ewing NYK 02/14/1996 NYK @ CHH L 35 26 11 21 52.4 0 0 - 4 5 80.0 4 5 9 1 0 1 1 3 -
+p342
+aVDerek Harper NYK 02/14/1996 NYK @ CHH L 24 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 2 0 0 3 2 -
+p343
+aVHubert Davis NYK 02/14/1996 NYK @ CHH L 26 14 5 8 62.5 2 3 66.7 2 3 66.7 0 0 0 1 2 0 2 2 -
+p344
+aVAnthony Mason NYK 02/14/1996 NYK @ CHH L 33 10 3 10 30.0 0 0 - 4 4 100.0 4 2 6 2 1 0 1 2 -
+p345
+aVJohn Starks NYK 02/14/1996 NYK @ CHH L 22 8 3 9 33.3 0 3 0.0 2 3 66.7 0 1 1 2 0 0 2 2 -
+p346
+aVCharlie Ward NYK 02/07/1996 NYK vs. WAS W 15 5 2 6 33.3 0 2 0.0 1 1 100.0 1 2 3 2 2 0 2 3 -
+p347
+aVCharles Smith NYK 02/07/1996 NYK vs. WAS W 28 6 2 4 50.0 0 1 0.0 2 2 100.0 2 2 4 0 1 3 2 3 -
+p348
+aVDerek Harper NYK 02/07/1996 NYK vs. WAS W 27 6 3 10 30.0 0 4 0.0 0 1 0.0 1 0 1 3 0 0 1 0 -
+p349
+aVPatrick Ewing NYK 02/07/1996 NYK vs. WAS W 38 31 13 25 52.0 0 1 0.0 5 5 100.0 0 11 11 1 1 5 2 3 -
+p350
+aVCharles Oakley NYK 02/07/1996 NYK vs. WAS W 40 4 2 8 25.0 0 1 0.0 0 0 - 4 8 12 3 0 1 3 3 -
+p351
+aVHubert Davis NYK 02/07/1996 NYK vs. WAS W 29 16 6 9 66.7 2 4 50.0 2 2 100.0 0 0 0 2 0 0 1 1 -
+p352
+aVJohn Starks NYK 02/07/1996 NYK vs. WAS W 25 8 3 7 42.9 2 4 50.0 0 0 - 0 4 4 4 4 0 4 2 -
+p353
+aVAnthony Mason NYK 02/07/1996 NYK vs. WAS W 38 11 4 7 57.1 0 0 - 3 4 75.0 2 6 8 2 1 0 2 1 -
+p354
+aVDerek Harper NYK 02/05/1996 NYK vs. DET W 33 14 3 8 37.5 2 3 66.7 6 6 100.0 0 2 2 3 0 0 0 3 -
+p355
+aVCharlie Ward NYK 02/05/1996 NYK vs. DET W 12 6 1 3 33.3 0 2 0.0 4 4 100.0 0 3 3 2 1 0 1 3 -
+p356
+aVCharles Smith NYK 02/05/1996 NYK vs. DET W 20 2 1 6 16.7 0 0 - 0 0 - 1 1 2 2 0 0 0 2 -
+p357
+aVPatrick Ewing NYK 02/05/1996 NYK vs. DET W 39 25 10 18 55.6 0 0 - 5 9 55.6 1 12 13 3 1 2 2 3 -
+p358
+aVAnthony Mason NYK 02/05/1996 NYK vs. DET W 43 9 3 7 42.9 0 0 - 3 4 75.0 1 4 5 2 0 0 4 4 -
+p359
+aVCharles Oakley NYK 02/05/1996 NYK vs. DET W 41 13 4 7 57.1 0 0 - 5 6 83.3 1 6 7 1 3 0 2 3 -
+p360
+aVHubert Davis NYK 02/05/1996 NYK vs. DET W 23 15 5 13 38.5 3 4 75.0 2 2 100.0 0 1 1 3 0 0 0 3 -
+p361
+aVJohn Starks NYK 02/05/1996 NYK vs. DET W 29 13 5 10 50.0 2 5 40.0 1 2 50.0 0 2 2 7 1 1 1 4 -
+p362
+aVHubert Davis NYK 02/04/1996 NYK @ IND L 26 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 2 -
+p363
+aVDerek Harper NYK 02/04/1996 NYK @ IND L 38 14 4 13 30.8 2 6 33.3 4 4 100.0 0 1 1 2 2 0 2 2 -
+p364
+aVCharles Smith NYK 02/04/1996 NYK @ IND L 22 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 1 -
+p365
+aVAnthony Mason NYK 02/04/1996 NYK @ IND L 41 8 3 8 37.5 0 0 - 2 6 33.3 5 5 10 6 1 0 2 3 -
+p366
+aVCharles Oakley NYK 02/04/1996 NYK @ IND L 42 11 4 10 40.0 0 1 0.0 3 3 100.0 3 3 6 1 0 0 3 5 -
+p367
+aVJohn Starks NYK 02/04/1996 NYK @ IND L 29 14 4 8 50.0 3 4 75.0 3 4 75.0 0 3 3 3 0 0 2 4 -
+p368
+aVPatrick Ewing NYK 02/04/1996 NYK @ IND L 42 22 10 22 45.5 0 1 0.0 2 3 66.7 3 10 13 2 1 3 3 2 -
+p369
+aVJohn Starks NYK 02/01/1996 NYK vs. ORL W 27 11 3 8 37.5 1 4 25.0 4 4 100.0 0 2 2 2 0 1 3 3 -
+p370
+aVHubert Davis NYK 02/01/1996 NYK vs. ORL W 25 17 6 8 75.0 5 6 83.3 0 0 - 1 2 3 2 0 0 1 0 -
+p371
+aVDerek Harper NYK 02/01/1996 NYK vs. ORL W 38 15 6 8 75.0 1 2 50.0 2 3 66.7 1 1 2 12 3 0 2 1 -
+p372
+aVCharles Smith NYK 02/01/1996 NYK vs. ORL W 29 10 4 9 44.4 0 0 - 2 2 100.0 1 4 5 0 0 1 1 3 -
+p373
+aVCharles Oakley NYK 02/01/1996 NYK vs. ORL W 31 11 4 9 44.4 0 1 0.0 3 4 75.0 5 9 14 2 1 0 3 6 -
+p374
+aVAnthony Mason NYK 02/01/1996 NYK vs. ORL W 45 21 8 15 53.3 0 0 - 5 5 100.0 3 5 8 4 1 0 1 2 -
+p375
+aVHerb Williams NYK 02/01/1996 NYK vs. ORL W 4 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -
+p376
+aVPatrick Ewing NYK 02/01/1996 NYK vs. ORL W 41 23 10 27 37.0 0 0 - 3 3 100.0 3 12 15 0 2 0 3 3 -
+p377
+aVCharles Smith NYK 01/29/1996 NYK vs. MIA W 16 4 1 6 16.7 0 0 - 2 2 100.0 0 0 0 3 2 0 1 1 -
+p378
+aVGary Grant NYK 01/29/1996 NYK vs. MIA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p379
+aVCharlie Ward NYK 01/29/1996 NYK vs. MIA W 21 3 1 6 16.7 0 3 0.0 1 2 50.0 1 1 2 2 2 0 3 3 -
+p380
+aVPatrick Ewing NYK 01/29/1996 NYK vs. MIA W 40 35 15 26 57.7 0 0 - 5 10 50.0 3 6 9 1 1 2 4 4 -
+p381
+aVJohn Starks NYK 01/29/1996 NYK vs. MIA W 17 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 2 0 1 3 -
+p382
+aVHubert Davis NYK 01/29/1996 NYK vs. MIA W 25 19 6 8 75.0 4 5 80.0 3 3 100.0 0 0 0 2 0 0 2 2 -
+p383
+aVDerek Harper NYK 01/29/1996 NYK vs. MIA W 40 13 5 10 50.0 2 6 33.3 1 2 50.0 1 1 2 5 1 0 2 1 -
+p384
+aVCharles Oakley NYK 01/29/1996 NYK vs. MIA W 39 12 3 7 42.9 0 1 0.0 6 7 85.7 3 10 13 6 4 0 0 3 -
+p385
+aVAnthony Mason NYK 01/29/1996 NYK vs. MIA W 41 4 0 6 0.0 0 0 - 4 6 66.7 2 9 11 3 1 1 0 2 -
+p386
+aVDoug Christie NYK 01/27/1996 NYK vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p387
+aVAnthony Mason NYK 01/27/1996 NYK vs. MIN W 33 5 2 5 40.0 0 0 - 1 2 50.0 4 6 10 4 0 0 1 3 -
+p388
+aVCharlie Ward NYK 01/27/1996 NYK vs. MIN W 21 5 2 7 28.6 1 2 50.0 0 0 - 2 0 2 5 2 0 2 2 -
+p389
+aVCharles Smith NYK 01/27/1996 NYK vs. MIN W 30 15 7 11 63.6 0 0 - 1 1 100.0 1 4 5 2 0 4 2 3 -
+p390
+aVPatrick Ewing NYK 01/27/1996 NYK vs. MIN W 37 28 12 21 57.1 0 0 - 4 4 100.0 3 7 10 1 2 5 4 5 -
+p391
+aVDerek Harper NYK 01/27/1996 NYK vs. MIN W 36 16 5 11 45.5 1 4 25.0 5 7 71.4 0 0 0 4 3 0 3 2 -
+p392
+aVCharles Oakley NYK 01/27/1996 NYK vs. MIN W 43 19 7 16 43.8 1 2 50.0 4 5 80.0 4 6 10 4 4 1 2 5 -
+p393
+aVHubert Davis NYK 01/27/1996 NYK vs. MIN W 17 13 4 4 100.0 2 2 100.0 3 3 100.0 0 3 3 3 1 0 1 2 -
+p394
+aVJohn Starks NYK 01/27/1996 NYK vs. MIN W 22 3 1 8 12.5 1 5 20.0 0 0 - 0 2 2 4 0 0 1 2 -
+p395
+aVPatrick Ewing NYK 01/24/1996 NYK @ MIA W 41 37 16 31 51.6 0 1 0.0 5 5 100.0 1 4 5 0 0 2 3 5 -
+p396
+aVDoug Christie NYK 01/24/1996 NYK @ MIA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p397
+aVGary Grant NYK 01/24/1996 NYK @ MIA W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -
+p398
+aVHubert Davis NYK 01/24/1996 NYK @ MIA W 15 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -
+p399
+aVCharles Smith NYK 01/24/1996 NYK @ MIA W 22 6 3 6 50.0 0 1 0.0 0 2 0.0 4 0 4 0 0 0 2 2 -
+p400
+aVCharles Oakley NYK 01/24/1996 NYK @ MIA W 34 9 1 5 20.0 0 1 0.0 7 9 77.8 1 6 7 1 2 1 2 5 -
+p401
+aVDerek Harper NYK 01/24/1996 NYK @ MIA W 27 9 2 6 33.3 0 1 0.0 5 7 71.4 0 4 4 4 1 0 2 3 -
+p402
+aVAnthony Mason NYK 01/24/1996 NYK @ MIA W 42 11 4 8 50.0 0 0 - 3 5 60.0 2 5 7 6 1 0 2 3 -
+p403
+aVJohn Starks NYK 01/24/1996 NYK @ MIA W 29 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 3 2 0 2 2 -
+p404
+aVCharlie Ward NYK 01/24/1996 NYK @ MIA W 19 6 2 5 40.0 2 2 100.0 0 0 - 1 2 3 4 2 0 2 2 -
+p405
+aVPatrick Ewing NYK 01/23/1996 NYK vs. CHI L 39 10 5 17 29.4 0 0 - 0 0 - 0 9 9 5 0 2 3 3 -
+p406
+aVAnthony Mason NYK 01/23/1996 NYK vs. CHI L 40 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -
+p407
+aVHubert Davis NYK 01/23/1996 NYK vs. CHI L 24 11 4 7 57.1 1 4 25.0 2 4 50.0 0 4 4 3 1 0 1 2 -
+p408
+aVDerek Harper NYK 01/23/1996 NYK vs. CHI L 24 2 0 6 0.0 0 3 0.0 2 2 100.0 0 2 2 1 0 0 5 3 -
+p409
+aVCharles Oakley NYK 01/23/1996 NYK vs. CHI L 30 6 2 3 66.7 0 0 - 2 3 66.7 2 2 4 4 3 0 1 3 -
+p410
+aVMonty Williams NYK 01/23/1996 NYK vs. CHI L 8 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 0 0 -
+p411
+aVGary Grant NYK 01/23/1996 NYK vs. CHI L 11 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 1 0 2 1 -
+p412
+aVDoug Christie NYK 01/23/1996 NYK vs. CHI L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 3 3 -
+p413
+aVCharlie Ward NYK 01/23/1996 NYK vs. CHI L 13 9 4 5 80.0 1 2 50.0 0 0 - 0 2 2 3 1 0 2 0 -
+p414
+aVJohn Starks NYK 01/23/1996 NYK vs. CHI L 24 15 6 9 66.7 1 3 33.3 2 2 100.0 1 2 3 1 0 0 5 1 -
+p415
+aVCharles Smith NYK 01/23/1996 NYK vs. CHI L 14 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 1 -
+p416
+aVHerb Williams NYK 01/23/1996 NYK vs. CHI L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -
+p417
+aVHerb Williams NYK 01/20/1996 NYK @ VAN L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p418
+aVDoug Christie NYK 01/20/1996 NYK @ VAN L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 3 -
+p419
+aVDerek Harper NYK 01/20/1996 NYK @ VAN L 31 6 3 8 37.5 0 2 0.0 0 1 0.0 0 0 0 4 1 0 2 4 -
+p420
+aVCharlie Ward NYK 01/20/1996 NYK @ VAN L 13 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 1 1 1 2 1 -
+p421
+aVGary Grant NYK 01/20/1996 NYK @ VAN L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 2 3 -
+p422
+aVHubert Davis NYK 01/20/1996 NYK @ VAN L 23 14 6 12 50.0 2 5 40.0 0 0 - 0 0 0 0 1 0 0 2 -
+p423
+aVMonty Williams NYK 01/20/1996 NYK @ VAN L 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -
+p424
+aVCharles Oakley NYK 01/20/1996 NYK @ VAN L 27 9 4 7 57.1 0 1 0.0 1 2 50.0 1 3 4 2 0 0 1 5 -
+p425
+aVJohn Starks NYK 01/20/1996 NYK @ VAN L 27 9 3 10 30.0 1 3 33.3 2 4 50.0 2 2 4 6 1 0 1 2 -
+p426
+aVPatrick Ewing NYK 01/20/1996 NYK @ VAN L 43 23 10 21 47.6 0 0 - 3 5 60.0 3 20 23 1 1 2 5 4 -
+p427
+aVAnthony Mason NYK 01/20/1996 NYK @ VAN L 42 12 5 8 62.5 0 0 - 2 2 100.0 2 5 7 4 1 1 5 2 -
+p428
+aVDoug Christie NYK 01/19/1996 NYK @ SEA W 25 6 2 6 33.3 0 1 0.0 2 4 50.0 0 5 5 5 1 0 2 3 -
+p429
+aVCharles Smith NYK 01/19/1996 NYK @ SEA W 18 1 0 5 0.0 0 0 - 1 2 50.0 1 1 2 3 0 0 3 3 -
+p430
+aVDerek Harper NYK 01/19/1996 NYK @ SEA W 43 17 7 16 43.8 0 6 0.0 3 4 75.0 1 2 3 4 1 0 0 3 -
+p431
+aVHubert Davis NYK 01/19/1996 NYK @ SEA W 26 4 2 5 40.0 0 1 0.0 0 1 0.0 1 1 2 1 0 0 1 1 -
+p432
+aVGary Grant NYK 01/19/1996 NYK @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p433
+aVJohn Starks NYK 01/19/1996 NYK @ SEA W 34 17 4 11 36.4 2 6 33.3 7 8 87.5 1 4 5 3 1 0 1 4 -
+p434
+aVCharlie Ward NYK 01/19/1996 NYK @ SEA W 31 6 3 6 50.0 0 3 0.0 0 0 - 2 1 3 6 3 0 3 5 -
+p435
+aVAnthony Mason NYK 01/19/1996 NYK @ SEA W 42 8 3 4 75.0 0 0 - 2 5 40.0 0 9 9 1 0 0 1 6 -
+p436
+aVPatrick Ewing NYK 01/19/1996 NYK @ SEA W 45 41 18 28 64.3 0 0 - 5 7 71.4 4 12 16 2 3 2 4 4 -
+p437
+aVAnthony Mason NYK 01/17/1996 NYK @ LAC W 43 13 5 7 71.4 0 0 - 3 6 50.0 1 5 6 3 1 0 4 4 -
+p438
+aVCharlie Ward NYK 01/17/1996 NYK @ LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p439
+aVDoug Christie NYK 01/17/1996 NYK @ LAC W 10 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 0 0 1 1 0 -
+p440
+aVDerek Harper NYK 01/17/1996 NYK @ LAC W 35 16 5 9 55.6 2 3 66.7 4 4 100.0 0 6 6 3 0 0 2 2 -
+p441
+aVGary Grant NYK 01/17/1996 NYK @ LAC W 14 0 0 3 0.0 0 0 - 0 2 0.0 1 1 2 1 1 0 2 3 -
+p442
+aVJohn Starks NYK 01/17/1996 NYK @ LAC W 37 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 6 4 0 6 3 -
+p443
+aVHubert Davis NYK 01/17/1996 NYK @ LAC W 11 5 1 6 16.7 1 1 100.0 2 3 66.7 1 0 1 0 1 0 2 0 -
+p444
+aVCharles Smith NYK 01/17/1996 NYK @ LAC W 39 20 8 13 61.5 0 0 - 4 5 80.0 2 6 8 1 0 1 4 5 -
+p445
+aVHerb Williams NYK 01/17/1996 NYK @ LAC W 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -
+p446
+aVPatrick Ewing NYK 01/17/1996 NYK @ LAC W 38 22 11 19 57.9 0 0 - 0 0 - 4 6 10 3 2 1 4 4 -
+p447
+aVHubert Davis NYK 01/15/1996 NYK vs. MIL L 20 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 0 0 0 1 1 -
+p448
+aVCharlie Ward NYK 01/15/1996 NYK vs. MIL L 11 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 1 0 1 2 -
+p449
+aVJohn Starks NYK 01/15/1996 NYK vs. MIL L 29 4 2 5 40.0 0 3 0.0 0 0 - 1 5 6 4 0 0 3 2 -
+p450
+aVAnthony Mason NYK 01/15/1996 NYK vs. MIL L 48 21 8 12 66.7 0 0 - 5 6 83.3 3 11 14 5 0 0 1 3 -
+p451
+aVCharles Oakley NYK 01/15/1996 NYK vs. MIL L 27 13 5 7 71.4 1 1 100.0 2 2 100.0 0 1 1 3 3 1 0 6 -
+p452
+aVPatrick Ewing NYK 01/15/1996 NYK vs. MIL L 34 13 6 15 40.0 0 0 - 1 3 33.3 1 7 8 3 1 2 6 4 -
+p453
+aVDoug Christie NYK 01/15/1996 NYK vs. MIL L 15 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 0 1 0 1 1 -
+p454
+aVDerek Harper NYK 01/15/1996 NYK vs. MIL L 37 14 5 11 45.5 1 2 50.0 3 4 75.0 0 1 1 5 1 0 2 3 -
+p455
+aVCharles Smith NYK 01/15/1996 NYK vs. MIL L 19 7 3 7 42.9 0 0 - 1 2 50.0 2 1 3 0 1 2 3 3 -
+p456
+aVPatrick Ewing NYK 01/13/1996 NYK vs. SAC L 41 29 11 19 57.9 1 1 100.0 6 9 66.7 3 8 11 0 0 3 6 1 -
+p457
+aVCharles Oakley NYK 01/13/1996 NYK vs. SAC L 25 7 2 4 50.0 0 0 - 3 4 75.0 4 6 10 3 0 0 1 3 -
+p458
+aVGary Grant NYK 01/13/1996 NYK vs. SAC L 12 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 4 -
+p459
+aVJohn Starks NYK 01/13/1996 NYK vs. SAC L 22 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 5 0 0 2 0 -
+p460
+aVHubert Davis NYK 01/13/1996 NYK vs. SAC L 33 18 6 12 50.0 4 8 50.0 2 2 100.0 1 1 2 2 1 0 2 1 -
+p461
+aVDerek Harper NYK 01/13/1996 NYK vs. SAC L 29 12 5 11 45.5 2 6 33.3 0 0 - 0 0 0 4 3 0 1 3 -
+p462
+aVAnthony Mason NYK 01/13/1996 NYK vs. SAC L 38 15 5 10 50.0 0 0 - 5 8 62.5 1 6 7 7 1 0 2 2 -
+p463
+aVDoug Christie NYK 01/13/1996 NYK vs. SAC L 21 13 4 6 66.7 3 3 100.0 2 4 50.0 0 2 2 5 3 0 0 6 -
+p464
+aVCharles Smith NYK 01/13/1996 NYK vs. SAC L 19 5 2 3 66.7 0 0 - 1 2 50.0 2 2 4 3 0 0 0 4 -
+p465
+aVJohn Starks NYK 01/12/1996 NYK @ BOS W 37 12 4 10 40.0 1 4 25.0 3 4 75.0 1 1 2 7 3 0 3 5 -
+p466
+aVDoug Christie NYK 01/12/1996 NYK @ BOS W 3 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p467
+aVGary Grant NYK 01/12/1996 NYK @ BOS W 13 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 1 1 -
+p468
+aVAnthony Mason NYK 01/12/1996 NYK @ BOS W 45 21 9 15 60.0 0 0 - 3 7 42.9 1 9 10 3 1 4 3 2 -
+p469
+aVDerek Harper NYK 01/12/1996 NYK @ BOS W 36 17 7 13 53.8 1 1 100.0 2 2 100.0 2 4 6 4 1 0 2 2 -
+p470
+aVPatrick Ewing NYK 01/12/1996 NYK @ BOS W 42 37 15 26 57.7 0 0 - 7 8 87.5 2 11 13 0 1 5 7 4 -
+p471
+aVCharles Oakley NYK 01/12/1996 NYK @ BOS W 37 2 1 2 50.0 0 0 - 0 0 - 0 8 8 6 1 0 1 4 -
+p472
+aVCharles Smith NYK 01/12/1996 NYK @ BOS W 16 6 3 8 37.5 0 0 - 0 1 0.0 2 1 3 1 2 2 1 4 -
+p473
+aVHubert Davis NYK 01/12/1996 NYK @ BOS W 11 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 3 -
+p474
+aVJohn Starks NYK 01/10/1996 NYK @ NJN L 30 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 4 1 1 1 3 -
+p475
+aVDoug Christie NYK 01/10/1996 NYK @ NJN L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 4 -
+p476
+aVCharlie Ward NYK 01/10/1996 NYK @ NJN L 1 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p477
+aVHerb Williams NYK 01/10/1996 NYK @ NJN L 13 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -
+p478
+aVGary Grant NYK 01/10/1996 NYK @ NJN L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 -
+p479
+aVCharles Oakley NYK 01/10/1996 NYK @ NJN L 33 7 3 8 37.5 0 0 - 1 1 100.0 0 2 2 4 2 0 1 2 -
+p480
+aVAnthony Mason NYK 01/10/1996 NYK @ NJN L 40 21 9 10 90.0 0 0 - 3 3 100.0 1 12 13 1 1 1 5 3 -
+p481
+aVDerek Harper NYK 01/10/1996 NYK @ NJN L 32 12 5 13 38.5 2 4 50.0 0 0 - 1 2 3 2 1 0 2 2 -
+p482
+aVHubert Davis NYK 01/10/1996 NYK @ NJN L 26 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 2 0 0 2 0 -
+p483
+aVCharles Smith NYK 01/10/1996 NYK @ NJN L 13 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 1 0 2 -
+p484
+aVPatrick Ewing NYK 01/10/1996 NYK @ NJN L 33 23 10 22 45.5 0 1 0.0 3 3 100.0 1 4 5 3 0 1 2 4 -
+p485
+aVAnthony Mason NYK 01/09/1996 NYK vs. BOS W 45 17 7 12 58.3 0 0 - 3 3 100.0 3 6 9 5 3 0 2 2 -
+p486
+aVCharles Smith NYK 01/09/1996 NYK vs. BOS W 9 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -
+p487
+aVHerb Williams NYK 01/09/1996 NYK vs. BOS W 22 6 3 6 50.0 0 0 - 0 0 - 0 5 5 1 0 2 1 1 -
+p488
+aVPatrick Ewing NYK 01/09/1996 NYK vs. BOS W 25 9 4 9 44.4 0 0 - 1 2 50.0 1 10 11 1 0 2 6 4 -
+p489
+aVDoug Christie NYK 01/09/1996 NYK vs. BOS W 10 6 2 3 66.7 1 1 100.0 1 2 50.0 0 1 1 1 2 0 0 1 -
+p490
+aVCharles Oakley NYK 01/09/1996 NYK vs. BOS W 29 10 2 7 28.6 0 0 - 6 6 100.0 6 4 10 1 0 0 2 4 -
+p491
+aVCharlie Ward NYK 01/09/1996 NYK vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 3 0 0 1 0 -
+p492
+aVGary Grant NYK 01/09/1996 NYK vs. BOS W 12 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 1 -
+p493
+aVJohn Starks NYK 01/09/1996 NYK vs. BOS W 27 7 2 8 25.0 1 5 20.0 2 2 100.0 0 2 2 1 1 0 0 1 -
+p494
+aVDerek Harper NYK 01/09/1996 NYK vs. BOS W 33 17 7 12 58.3 1 5 20.0 2 2 100.0 0 3 3 4 0 0 2 2 -
+p495
+aVHubert Davis NYK 01/09/1996 NYK vs. BOS W 22 17 5 10 50.0 2 4 50.0 5 7 71.4 0 0 0 2 0 0 1 1 -
+p496
+aVDoug Christie NYK 01/04/1996 NYK vs. NJN W 16 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 1 0 1 1 3 -
+p497
+aVDerek Harper NYK 01/04/1996 NYK vs. NJN W 26 10 3 11 27.3 1 3 33.3 3 4 75.0 0 3 3 7 1 0 0 3 -
+p498
+aVMonty Williams NYK 01/04/1996 NYK vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p499
+aVGary Grant NYK 01/04/1996 NYK vs. NJN W 19 8 3 4 75.0 0 0 - 2 4 50.0 0 0 0 3 2 0 0 5 -
+p500
+aVCharles Smith NYK 01/04/1996 NYK vs. NJN W 24 13 6 11 54.5 0 0 - 1 3 33.3 1 2 3 2 0 3 1 5 -
+p501
+aVCharlie Ward NYK 01/04/1996 NYK vs. NJN W 2 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -
+p502
+aVHubert Davis NYK 01/04/1996 NYK vs. NJN W 29 16 3 4 75.0 2 3 66.7 8 8 100.0 0 1 1 0 0 0 1 0 -
+p503
+aVCharles Oakley NYK 01/04/1996 NYK vs. NJN W 37 12 5 10 50.0 0 0 - 2 3 66.7 1 5 6 3 2 1 2 2 -
+p504
+aVHerb Williams NYK 01/04/1996 NYK vs. NJN W 26 10 5 8 62.5 0 0 - 0 0 - 1 3 4 2 0 3 1 2 -
+p505
+aVAnthony Mason NYK 01/04/1996 NYK vs. NJN W 36 13 4 9 44.4 0 0 - 5 5 100.0 2 5 7 6 1 0 2 4 -
+p506
+aVJohn Starks NYK 01/04/1996 NYK vs. NJN W 20 13 6 11 54.5 1 3 33.3 0 0 - 1 3 4 2 3 0 2 0 -
+p507
+aVHerb Williams NYK 01/02/1996 NYK vs. POR L 14 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 4 -
+p508
+aVCharlie Ward NYK 01/02/1996 NYK vs. POR L 11 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 1 0 0 0 1 -
+p509
+aVAnthony Mason NYK 01/02/1996 NYK vs. POR L 44 12 3 11 27.3 0 0 - 6 6 100.0 2 3 5 4 0 0 2 4 -
+p510
+aVHubert Davis NYK 01/02/1996 NYK vs. POR L 24 16 5 9 55.6 3 6 50.0 3 4 75.0 0 0 0 0 3 0 1 1 -
+p511
+aVCharles Oakley NYK 01/02/1996 NYK vs. POR L 41 17 7 10 70.0 0 0 - 3 5 60.0 3 12 15 3 1 0 2 4 -
+p512
+aVDerek Harper NYK 01/02/1996 NYK vs. POR L 40 22 9 19 47.4 2 6 33.3 2 4 50.0 0 0 0 4 5 0 2 5 -
+p513
+aVJohn Starks NYK 01/02/1996 NYK vs. POR L 38 12 4 12 33.3 0 4 0.0 4 6 66.7 0 6 6 4 3 1 2 1 -
+p514
+aVGary Grant NYK 01/02/1996 NYK vs. POR L 9 4 2 5 40.0 0 0 - 0 3 0.0 2 1 3 1 0 0 0 3 -
+p515
+aVCharles Smith NYK 01/02/1996 NYK vs. POR L 19 1 0 6 0.0 0 0 - 1 2 50.0 1 3 4 1 1 0 1 1 -
+p516
+aVHubert Davis NYK 12/29/1995 NYK @ WAS L 30 14 5 8 62.5 3 5 60.0 1 1 100.0 0 2 2 0 0 0 0 2 -
+p517
+aVGary Grant NYK 12/29/1995 NYK @ WAS L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 1 3 -
+p518
+aVCharles Smith NYK 12/29/1995 NYK @ WAS L 22 6 3 7 42.9 0 0 - 0 0 - 1 1 2 2 0 0 3 6 -
+p519
+aVHerb Williams NYK 12/29/1995 NYK @ WAS L 23 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 0 0 2 0 1 -
+p520
+aVAnthony Mason NYK 12/29/1995 NYK @ WAS L 51 30 11 20 55.0 0 0 - 8 8 100.0 2 5 7 8 1 0 2 4 -
+p521
+aVJohn Starks NYK 12/29/1995 NYK @ WAS L 42 19 7 12 58.3 1 3 33.3 4 6 66.7 1 3 4 9 3 0 4 5 -
+p522
+aVCharles Oakley NYK 12/29/1995 NYK @ WAS L 41 20 8 16 50.0 0 0 - 4 5 80.0 4 8 12 2 0 0 2 6 -
+p523
+aVDerek Harper NYK 12/29/1995 NYK @ WAS L 33 21 9 18 50.0 3 8 37.5 0 0 - 1 3 4 1 3 0 2 2 -
+p524
+aVDoug Christie NYK 12/29/1995 NYK @ WAS L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 1 0 2 -
+p525
+aVJohn Starks NYK 12/28/1995 NYK vs. CLE L 33 8 4 10 40.0 0 5 0.0 0 0 - 0 2 2 5 3 1 3 4 -
+p526
+aVCharles Smith NYK 12/28/1995 NYK vs. CLE L 27 7 3 8 37.5 0 1 0.0 1 1 100.0 2 4 6 1 0 1 1 2 -
+p527
+aVPatrick Ewing NYK 12/28/1995 NYK vs. CLE L 5 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 2 0 -
+p528
+aVDerek Harper NYK 12/28/1995 NYK vs. CLE L 37 9 4 10 40.0 1 4 25.0 0 2 0.0 0 0 0 3 1 0 4 4 -
+p529
+aVCharlie Ward NYK 12/28/1995 NYK vs. CLE L 6 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 -
+p530
+aVGary Grant NYK 12/28/1995 NYK vs. CLE L 11 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 4 -
+p531
+aVHerb Williams NYK 12/28/1995 NYK vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p532
+aVCharles Oakley NYK 12/28/1995 NYK vs. CLE L 41 14 6 14 42.9 0 0 - 2 3 66.7 6 10 16 3 0 0 2 5 -
+p533
+aVAnthony Mason NYK 12/28/1995 NYK vs. CLE L 45 8 3 6 50.0 0 0 - 2 4 50.0 1 10 11 2 1 2 5 3 -
+p534
+aVHubert Davis NYK 12/28/1995 NYK vs. CLE L 30 20 6 11 54.5 4 8 50.0 4 4 100.0 1 1 2 1 0 0 1 1 -
+p535
+aVGary Grant NYK 12/23/1995 NYK vs. TOR W 20 6 3 6 50.0 0 1 0.0 0 1 0.0 1 1 2 1 1 0 0 2 -
+p536
+aVCharles Oakley NYK 12/23/1995 NYK vs. TOR W 36 11 3 5 60.0 0 0 - 5 7 71.4 0 4 4 2 0 0 2 2 -
+p537
+aVAnthony Mason NYK 12/23/1995 NYK vs. TOR W 45 12 4 9 44.4 0 0 - 4 4 100.0 2 4 6 5 2 0 0 2 -
+p538
+aVCharles Smith NYK 12/23/1995 NYK vs. TOR W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 1 -
+p539
+aVPatrick Ewing NYK 12/23/1995 NYK vs. TOR W 41 40 15 19 78.9 0 0 - 10 14 71.4 2 7 9 2 0 3 3 1 -
+p540
+aVDerek Harper NYK 12/23/1995 NYK vs. TOR W 31 13 5 12 41.7 1 5 20.0 2 2 100.0 0 2 2 5 1 0 2 3 -
+p541
+aVJohn Starks NYK 12/23/1995 NYK vs. TOR W 40 14 6 14 42.9 2 8 25.0 0 0 - 0 4 4 6 0 0 0 3 -
+p542
+aVHubert Davis NYK 12/23/1995 NYK vs. TOR W 19 3 1 5 20.0 0 2 0.0 1 1 100.0 1 0 1 2 1 0 1 1 -
+p543
+aVDoug Christie NYK 12/22/1995 NYK @ ORL L 4 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 1 0 1 1 -
+p544
+aVHubert Davis NYK 12/22/1995 NYK @ ORL L 26 8 3 9 33.3 2 6 33.3 0 1 0.0 1 3 4 3 0 0 1 2 -
+p545
+aVCharles Smith NYK 12/22/1995 NYK @ ORL L 23 8 4 8 50.0 0 0 - 0 1 0.0 2 2 4 0 0 0 3 2 -
+p546
+aVGary Grant NYK 12/22/1995 NYK @ ORL L 17 12 6 11 54.5 0 0 - 0 0 - 2 1 3 2 1 1 1 0 -
+p547
+aVAnthony Mason NYK 12/22/1995 NYK @ ORL L 39 8 3 8 37.5 0 0 - 2 5 40.0 5 4 9 5 1 0 3 3 -
+p548
+aVCharles Oakley NYK 12/22/1995 NYK @ ORL L 31 7 3 11 27.3 0 0 - 1 2 50.0 3 9 12 1 0 1 2 5 -
+p549
+aVDerek Harper NYK 12/22/1995 NYK @ ORL L 28 21 9 15 60.0 1 5 20.0 2 2 100.0 2 3 5 4 1 1 3 3 -
+p550
+aVPatrick Ewing NYK 12/22/1995 NYK @ ORL L 33 13 5 20 25.0 0 2 0.0 3 4 75.0 1 8 9 1 0 4 3 4 -
+p551
+aVCharlie Ward NYK 12/22/1995 NYK @ ORL L 12 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 3 -
+p552
+aVMonty Williams NYK 12/22/1995 NYK @ ORL L 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p553
+aVJohn Starks NYK 12/22/1995 NYK @ ORL L 23 7 3 8 37.5 1 3 33.3 0 0 - 2 3 5 1 0 0 1 3 -
+p554
+aVDerek Harper NYK 12/19/1995 NYK vs. MIA W 31 13 4 10 40.0 3 6 50.0 2 2 100.0 0 2 2 2 0 0 2 2 -
+p555
+aVCharlie Ward NYK 12/19/1995 NYK vs. MIA W 22 10 3 5 60.0 1 1 100.0 3 3 100.0 2 4 6 3 2 0 2 3 -
+p556
+aVGary Grant NYK 12/19/1995 NYK vs. MIA W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p557
+aVHubert Davis NYK 12/19/1995 NYK vs. MIA W 18 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 2 1 0 2 2 -
+p558
+aVJohn Starks NYK 12/19/1995 NYK vs. MIA W 25 15 5 7 71.4 3 3 100.0 2 2 100.0 0 2 2 2 2 0 0 1 -
+p559
+aVPatrick Ewing NYK 12/19/1995 NYK vs. MIA W 35 18 8 16 50.0 0 1 0.0 2 2 100.0 3 13 16 1 2 3 3 2 -
+p560
+aVCharles Smith NYK 12/19/1995 NYK vs. MIA W 27 3 0 5 0.0 0 0 - 3 4 75.0 1 2 3 0 0 3 2 3 -
+p561
+aVCharles Oakley NYK 12/19/1995 NYK vs. MIA W 31 8 2 4 50.0 0 0 - 4 6 66.7 4 5 9 3 1 2 7 2 -
+p562
+aVHerb Williams NYK 12/19/1995 NYK vs. MIA W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p563
+aVAnthony Mason NYK 12/19/1995 NYK vs. MIA W 40 9 2 5 40.0 0 0 - 5 10 50.0 0 7 7 5 0 0 3 3 -
+p564
+aVCharles Oakley NYK 12/16/1995 NYK vs. DET W 38 15 6 10 60.0 0 0 - 3 5 60.0 5 10 15 3 0 0 7 4 -
+p565
+aVDerek Harper NYK 12/16/1995 NYK vs. DET W 34 14 5 10 50.0 2 3 66.7 2 2 100.0 1 2 3 2 2 0 1 3 -
+p566
+aVGary Grant NYK 12/16/1995 NYK vs. DET W 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 5 -
+p567
+aVJohn Starks NYK 12/16/1995 NYK vs. DET W 34 7 1 7 14.3 1 5 20.0 4 6 66.7 0 0 0 6 0 0 2 4 -
+p568
+aVHubert Davis NYK 12/16/1995 NYK vs. DET W 18 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 0 0 0 1 1 -
+p569
+aVPatrick Ewing NYK 12/16/1995 NYK vs. DET W 41 21 10 21 47.6 0 0 - 1 2 50.0 1 11 12 4 0 2 4 1 -
+p570
+aVAnthony Mason NYK 12/16/1995 NYK vs. DET W 44 11 4 11 36.4 0 0 - 3 4 75.0 4 6 10 6 0 0 2 5 -
+p571
+aVCharles Smith NYK 12/16/1995 NYK vs. DET W 17 10 3 4 75.0 0 0 - 4 4 100.0 1 2 3 1 0 1 2 4 -
+p572
+aVDerek Harper NYK 12/14/1995 NYK vs. DEN L 38 16 6 12 50.0 1 3 33.3 3 4 75.0 0 1 1 3 3 1 1 1 -
+p573
+aVGary Grant NYK 12/14/1995 NYK vs. DEN L 23 6 1 1 100.0 0 0 - 4 4 100.0 1 1 2 0 0 0 1 4 -
+p574
+aVPatrick Ewing NYK 12/14/1995 NYK vs. DEN L 41 30 14 32 43.8 0 1 0.0 2 2 100.0 1 11 12 0 0 3 2 5 -
+p575
+aVAnthony Mason NYK 12/14/1995 NYK vs. DEN L 48 21 7 14 50.0 0 0 - 7 9 77.8 4 8 12 7 0 1 3 3 -
+p576
+aVCharles Smith NYK 12/14/1995 NYK vs. DEN L 18 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 0 2 2 1 2 -
+p577
+aVJohn Starks NYK 12/14/1995 NYK vs. DEN L 40 8 4 9 44.4 0 1 0.0 0 0 - 0 4 4 5 1 0 1 3 -
+p578
+aVHubert Davis NYK 12/14/1995 NYK vs. DEN L 32 9 3 6 50.0 2 4 50.0 1 2 50.0 0 2 2 2 1 0 0 1 -
+p579
+aVHubert Davis NYK 12/12/1995 NYK vs. LAL W 20 12 4 7 57.1 2 3 66.7 2 2 100.0 0 0 0 1 0 0 0 1 -
+p580
+aVCharles Smith NYK 12/12/1995 NYK vs. LAL W 27 8 3 9 33.3 0 0 - 2 2 100.0 2 5 7 0 1 4 1 4 -
+p581
+aVPatrick Ewing NYK 12/12/1995 NYK vs. LAL W 31 16 4 13 30.8 0 0 - 8 8 100.0 3 10 13 1 0 5 2 3 -
+p582
+aVAnthony Mason NYK 12/12/1995 NYK vs. LAL W 43 17 6 11 54.5 0 0 - 5 6 83.3 1 6 7 4 1 2 3 2 -
+p583
+aVDerek Harper NYK 12/12/1995 NYK vs. LAL W 32 17 5 11 45.5 2 4 50.0 5 5 100.0 0 2 2 7 0 0 1 1 -
+p584
+aVGary Grant NYK 12/12/1995 NYK vs. LAL W 15 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 0 1 0 2 1 -
+p585
+aVJohn Starks NYK 12/12/1995 NYK vs. LAL W 28 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 3 0 0 1 2 -
+p586
+aVMonty Williams NYK 12/12/1995 NYK vs. LAL W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -
+p587
+aVCharlie Ward NYK 12/12/1995 NYK vs. LAL W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p588
+aVCharles Oakley NYK 12/12/1995 NYK vs. LAL W 35 15 5 8 62.5 0 0 - 5 6 83.3 3 13 16 2 0 0 2 4 -
+p589
+aVHerb Williams NYK 12/10/1995 NYK vs. SAN W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p590
+aVPatrick Ewing NYK 12/10/1995 NYK vs. SAN W 39 19 9 27 33.3 0 0 - 1 4 25.0 2 5 7 4 2 2 1 6 -
+p591
+aVDerek Harper NYK 12/10/1995 NYK vs. SAN W 49 13 6 12 50.0 1 4 25.0 0 2 0.0 1 4 5 5 6 0 1 4 -
+p592
+aVAnthony Mason NYK 12/10/1995 NYK vs. SAN W 50 15 4 11 36.4 0 0 - 7 10 70.0 3 12 15 1 0 0 5 6 -
+p593
+aVGary Grant NYK 12/10/1995 NYK vs. SAN W 19 16 4 7 57.1 1 1 100.0 7 7 100.0 0 1 1 0 2 0 0 3 -
+p594
+aVJohn Starks NYK 12/10/1995 NYK vs. SAN W 45 25 7 17 41.2 3 8 37.5 8 8 100.0 0 5 5 4 1 0 2 3 -
+p595
+aVHubert Davis NYK 12/10/1995 NYK vs. SAN W 31 11 4 7 57.1 2 3 66.7 1 1 100.0 1 2 3 0 1 0 0 2 -
+p596
+aVCharles Oakley NYK 12/10/1995 NYK vs. SAN W 49 19 4 11 36.4 0 0 - 11 12 91.7 9 10 19 2 0 1 2 6 -
+p597
+aVPatrick Ewing NYK 12/09/1995 NYK @ ATL W 42 29 10 23 43.5 0 0 - 9 11 81.8 1 6 7 4 0 3 3 3 -
+p598
+aVJohn Starks NYK 12/09/1995 NYK @ ATL W 40 20 7 10 70.0 4 7 57.1 2 2 100.0 0 4 4 6 0 0 1 2 -
+p599
+aVCharlie Ward NYK 12/09/1995 NYK @ ATL W 10 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 2 0 1 0 1 -
+p600
+aVCharles Oakley NYK 12/09/1995 NYK @ ATL W 33 4 1 6 16.7 0 1 0.0 2 4 50.0 7 9 16 2 0 0 3 2 -
+p601
+aVMonty Williams NYK 12/09/1995 NYK @ ATL W 4 3 1 1 100.0 0 0 - 1 4 25.0 0 0 0 1 0 0 0 1 -
+p602
+aVHubert Davis NYK 12/09/1995 NYK @ ATL W 16 8 3 3 100.0 1 1 100.0 1 2 50.0 1 1 2 1 0 0 1 4 -
+p603
+aVDerek Harper NYK 12/09/1995 NYK @ ATL W 39 14 4 12 33.3 3 6 50.0 3 4 75.0 0 2 2 4 1 0 3 4 -
+p604
+aVAnthony Mason NYK 12/09/1995 NYK @ ATL W 44 14 6 10 60.0 0 0 - 2 5 40.0 6 5 11 4 1 0 3 2 -
+p605
+aVGary Grant NYK 12/09/1995 NYK @ ATL W 12 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p606
+aVPatrick Ewing NYK 12/06/1995 NYK @ CHI L 39 22 8 18 44.4 0 0 - 6 7 85.7 1 6 7 2 0 3 4 4 -
+p607
+aVCharles Oakley NYK 12/06/1995 NYK @ CHI L 33 13 5 12 41.7 0 0 - 3 4 75.0 3 7 10 2 1 0 0 6 -
+p608
+aVJohn Starks NYK 12/06/1995 NYK @ CHI L 41 25 9 12 75.0 3 6 50.0 4 5 80.0 1 3 4 4 1 0 1 3 -
+p609
+aVGary Grant NYK 12/06/1995 NYK @ CHI L 18 12 6 8 75.0 0 1 0.0 0 0 - 0 0 0 2 0 1 2 0 -
+p610
+aVCharles Smith NYK 12/06/1995 NYK @ CHI L 22 3 1 6 16.7 0 2 0.0 1 2 50.0 0 3 3 0 1 2 1 4 -
+p611
+aVMonty Williams NYK 12/06/1995 NYK @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p612
+aVAnthony Mason NYK 12/06/1995 NYK @ CHI L 47 10 4 7 57.1 0 0 - 2 8 25.0 3 12 15 3 3 0 3 5 -
+p613
+aVDerek Harper NYK 12/06/1995 NYK @ CHI L 39 9 3 10 30.0 2 6 33.3 1 1 100.0 0 0 0 4 2 0 4 3 -
+p614
+aVGary Grant NYK 12/05/1995 NYK vs. DAL W 14 3 0 3 0.0 0 0 - 3 3 100.0 0 0 0 0 2 0 3 0 -
+p615
+aVJohn Starks NYK 12/05/1995 NYK vs. DAL W 30 6 3 10 30.0 0 3 0.0 0 0 - 0 5 5 5 3 0 3 1 -
+p616
+aVCharles Smith NYK 12/05/1995 NYK vs. DAL W 29 11 3 9 33.3 0 1 0.0 5 6 83.3 0 8 8 0 1 1 1 4 -
+p617
+aVAnthony Mason NYK 12/05/1995 NYK vs. DAL W 46 14 4 5 80.0 0 0 - 6 6 100.0 1 9 10 4 0 0 4 2 -
+p618
+aVPatrick Ewing NYK 12/05/1995 NYK vs. DAL W 33 22 9 20 45.0 0 0 - 4 6 66.7 2 10 12 3 3 1 3 1 -
+p619
+aVDerek Harper NYK 12/05/1995 NYK vs. DAL W 34 16 7 12 58.3 2 5 40.0 0 0 - 0 1 1 5 1 0 5 2 -
+p620
+aVHubert Davis NYK 12/05/1995 NYK vs. DAL W 19 7 3 5 60.0 0 2 0.0 1 1 100.0 1 0 1 1 0 0 0 1 -
+p621
+aVCharles Oakley NYK 12/05/1995 NYK vs. DAL W 33 13 4 10 40.0 0 0 - 5 5 100.0 3 4 7 1 2 1 2 3 -
+p622
+aVMonty Williams NYK 12/05/1995 NYK vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p623
+aVCharlie Ward NYK 12/03/1995 NYK vs. WAS W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 1 1 -
+p624
+aVPatrick Ewing NYK 12/03/1995 NYK vs. WAS W 22 11 4 10 40.0 0 0 - 3 4 75.0 1 6 7 3 1 4 1 5 -
+p625
+aVAnthony Mason NYK 12/03/1995 NYK vs. WAS W 39 19 6 10 60.0 0 0 - 7 10 70.0 2 9 11 4 1 0 1 2 -
+p626
+aVGary Grant NYK 12/03/1995 NYK vs. WAS W 20 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 3 -
+p627
+aVMonty Williams NYK 12/03/1995 NYK vs. WAS W 10 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 1 1 0 2 1 -
+p628
+aVDerek Harper NYK 12/03/1995 NYK vs. WAS W 30 14 6 11 54.5 2 3 66.7 0 0 - 0 2 2 4 3 0 1 2 -
+p629
+aVCharles Oakley NYK 12/03/1995 NYK vs. WAS W 36 16 4 10 40.0 0 0 - 8 10 80.0 10 6 16 4 1 0 3 3 -
+p630
+aVCharles Smith NYK 12/03/1995 NYK vs. WAS W 29 15 6 10 60.0 0 0 - 3 5 60.0 2 5 7 0 2 3 2 3 -
+p631
+aVJohn Starks NYK 12/03/1995 NYK vs. WAS W 27 8 2 7 28.6 1 4 25.0 3 4 75.0 1 1 2 4 2 0 2 2 -
+p632
+aVHubert Davis NYK 12/03/1995 NYK vs. WAS W 18 18 7 9 77.8 4 5 80.0 0 0 - 0 2 2 0 0 0 1 1 -
+p633
+aVDoug Christie NYK 12/03/1995 NYK vs. WAS W 4 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -
+p634
+aVDerek Harper NYK 12/02/1995 NYK @ PHL W 39 10 4 13 30.8 0 1 0.0 2 2 100.0 2 3 5 5 0 0 1 4 -
+p635
+aVJohn Starks NYK 12/02/1995 NYK @ PHL W 38 17 6 12 50.0 1 5 20.0 4 5 80.0 0 5 5 2 0 0 2 4 -
+p636
+aVMonty Williams NYK 12/02/1995 NYK @ PHL W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p637
+aVCharles Oakley NYK 12/02/1995 NYK @ PHL W 34 14 3 8 37.5 0 1 0.0 8 8 100.0 4 6 10 2 3 0 1 5 -
+p638
+aVGary Grant NYK 12/02/1995 NYK @ PHL W 19 9 3 8 37.5 0 1 0.0 3 3 100.0 1 4 5 2 2 0 2 3 -
+p639
+aVPatrick Ewing NYK 12/02/1995 NYK @ PHL W 33 19 7 14 50.0 0 0 - 5 9 55.6 2 4 6 1 0 5 4 3 -
+p640
+aVCharles Smith NYK 12/02/1995 NYK @ PHL W 21 5 2 7 28.6 0 0 - 1 2 50.0 0 2 2 0 0 1 1 2 -
+p641
+aVHubert Davis NYK 12/02/1995 NYK @ PHL W 10 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p642
+aVAnthony Mason NYK 12/02/1995 NYK @ PHL W 44 18 7 12 58.3 0 0 - 4 4 100.0 4 9 13 1 0 0 4 4 -
+p643
+aVHubert Davis NYK 11/29/1995 NYK @ CHH L 13 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 4 0 0 1 1 -
+p644
+aVAnthony Mason NYK 11/29/1995 NYK @ CHH L 47 18 6 9 66.7 0 0 - 6 8 75.0 1 3 4 6 0 0 2 6 -
+p645
+aVDerek Harper NYK 11/29/1995 NYK @ CHH L 42 22 8 17 47.1 4 7 57.1 2 2 100.0 1 1 2 4 0 0 0 5 -
+p646
+aVGary Grant NYK 11/29/1995 NYK @ CHH L 7 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 0 -
+p647
+aVCharles Oakley NYK 11/29/1995 NYK @ CHH L 36 14 5 10 50.0 0 1 0.0 4 4 100.0 5 4 9 3 3 0 2 6 -
+p648
+aVPatrick Ewing NYK 11/29/1995 NYK @ CHH L 40 10 5 17 29.4 0 1 0.0 0 0 - 2 9 11 4 0 1 1 4 -
+p649
+aVCharles Smith NYK 11/29/1995 NYK @ CHH L 11 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -
+p650
+aVJohn Starks NYK 11/29/1995 NYK @ CHH L 44 27 11 18 61.1 4 7 57.1 1 2 50.0 0 4 4 2 0 0 3 5 -
+p651
+aVPatrick Ewing NYK 11/28/1995 NYK vs. ATL L 41 35 14 23 60.9 0 1 0.0 7 8 87.5 1 9 10 2 0 3 3 5 -
+p652
+aVGary Grant NYK 11/28/1995 NYK vs. ATL L 20 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 5 4 0 3 2 -
+p653
+aVCharlie Ward NYK 11/28/1995 NYK vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p654
+aVAnthony Mason NYK 11/28/1995 NYK vs. ATL L 52 15 7 15 46.7 0 0 - 1 2 50.0 7 5 12 2 0 0 3 4 -
+p655
+aVCharles Smith NYK 11/28/1995 NYK vs. ATL L 18 3 1 5 20.0 0 0 - 1 4 25.0 3 5 8 0 0 2 2 4 -
+p656
+aVJohn Starks NYK 11/28/1995 NYK vs. ATL L 32 11 3 10 30.0 2 7 28.6 3 4 75.0 2 1 3 7 0 0 3 1 -
+p657
+aVCharles Oakley NYK 11/28/1995 NYK vs. ATL L 47 18 4 10 40.0 1 3 33.3 9 9 100.0 3 11 14 3 0 0 2 4 -
+p658
+aVDerek Harper NYK 11/28/1995 NYK vs. ATL L 40 6 3 13 23.1 0 3 0.0 0 0 - 1 0 1 5 2 0 3 2 -
+p659
+aVHubert Davis NYK 11/28/1995 NYK vs. ATL L 14 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 4 -
+p660
+aVAnthony Mason NYK 11/25/1995 NYK vs. HOU W 48 15 6 11 54.5 0 0 - 3 7 42.9 2 8 10 5 0 1 3 4 -
+p661
+aVPatrick Ewing NYK 11/25/1995 NYK vs. HOU W 42 27 9 20 45.0 0 0 - 9 10 90.0 3 8 11 2 2 4 3 4 -
+p662
+aVGary Grant NYK 11/25/1995 NYK vs. HOU W 16 5 2 4 50.0 1 2 50.0 0 1 0.0 0 1 1 3 0 0 0 3 -
+p663
+aVCharles Oakley NYK 11/25/1995 NYK vs. HOU W 37 17 5 8 62.5 0 1 0.0 7 8 87.5 4 6 10 4 1 1 1 4 -
+p664
+aVHubert Davis NYK 11/25/1995 NYK vs. HOU W 11 1 0 4 0.0 0 3 0.0 1 1 100.0 0 1 1 0 0 0 0 1 -
+p665
+aVDerek Harper NYK 11/25/1995 NYK vs. HOU W 35 19 6 12 50.0 2 6 33.3 5 6 83.3 0 0 0 2 2 0 1 2 -
+p666
+aVCharles Smith NYK 11/25/1995 NYK vs. HOU W 30 10 3 7 42.9 0 3 0.0 4 4 100.0 1 3 4 0 0 3 1 1 -
+p667
+aVJohn Starks NYK 11/25/1995 NYK vs. HOU W 21 9 4 8 50.0 1 5 20.0 0 0 - 0 1 1 4 2 0 2 4 -
+p668
+aVGary Grant NYK 11/22/1995 NYK @ CLE W 22 10 3 7 42.9 0 0 - 4 4 100.0 0 3 3 4 0 0 1 3 -
+p669
+aVDerek Harper NYK 11/22/1995 NYK @ CLE W 41 17 8 15 53.3 1 2 50.0 0 0 - 0 3 3 0 3 0 1 4 -
+p670
+aVHubert Davis NYK 11/22/1995 NYK @ CLE W 14 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 1 0 0 2 -
+p671
+aVAnthony Mason NYK 11/22/1995 NYK @ CLE W 47 8 2 6 33.3 0 0 - 4 4 100.0 4 5 9 11 1 0 3 0 -
+p672
+aVMonty Williams NYK 11/22/1995 NYK @ CLE W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p673
+aVJohn Starks NYK 11/22/1995 NYK @ CLE W 26 10 3 10 30.0 2 7 28.6 2 2 100.0 1 4 5 3 0 0 3 3 -
+p674
+aVCharles Oakley NYK 11/22/1995 NYK @ CLE W 41 16 7 14 50.0 0 1 0.0 2 2 100.0 5 4 9 2 0 0 5 1 -
+p675
+aVPatrick Ewing NYK 11/22/1995 NYK @ CLE W 41 26 11 22 50.0 0 0 - 4 4 100.0 4 8 12 3 1 3 1 2 -
+p676
+aVCharlie Ward NYK 11/19/1995 NYK vs. VAN W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -
+p677
+aVCharles Oakley NYK 11/19/1995 NYK vs. VAN W 27 12 4 7 57.1 1 1 100.0 3 3 100.0 0 4 4 2 2 0 1 2 -
+p678
+aVAnthony Mason NYK 11/19/1995 NYK vs. VAN W 45 20 10 12 83.3 0 0 - 0 0 - 3 2 5 2 0 0 3 4 -
+p679
+aVDerek Harper NYK 11/19/1995 NYK vs. VAN W 42 25 9 16 56.3 1 6 16.7 6 8 75.0 0 1 1 5 4 0 3 0 -
+p680
+aVMonty Williams NYK 11/19/1995 NYK vs. VAN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p681
+aVJohn Starks NYK 11/19/1995 NYK vs. VAN W 32 13 5 12 41.7 1 2 50.0 2 2 100.0 0 2 2 4 1 0 4 2 -
+p682
+aVDoug Christie NYK 11/19/1995 NYK vs. VAN W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p683
+aVPatrick Ewing NYK 11/19/1995 NYK vs. VAN W 37 13 5 10 50.0 0 0 - 3 4 75.0 4 12 16 1 0 3 1 3 -
+p684
+aVHerb Williams NYK 11/19/1995 NYK vs. VAN W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p685
+aVGary Grant NYK 11/19/1995 NYK vs. VAN W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -
+p686
+aVHubert Davis NYK 11/19/1995 NYK vs. VAN W 19 11 5 12 41.7 1 4 25.0 0 0 - 1 3 4 2 0 0 0 0 -
+p687
+aVAnthony Mason NYK 11/17/1995 NYK @ DEN W 44 10 4 8 50.0 0 0 - 2 2 100.0 2 6 8 6 1 0 3 5 -
+p688
+aVHubert Davis NYK 11/17/1995 NYK @ DEN W 11 11 4 6 66.7 3 4 75.0 0 1 0.0 2 0 2 0 0 0 0 2 -
+p689
+aVPatrick Ewing NYK 11/17/1995 NYK @ DEN W 34 20 8 18 44.4 1 3 33.3 3 4 75.0 0 6 6 5 0 1 1 4 -
+p690
+aVJohn Starks NYK 11/17/1995 NYK @ DEN W 33 18 7 13 53.8 4 7 57.1 0 2 0.0 1 3 4 6 3 0 2 4 -
+p691
+aVCharles Oakley NYK 11/17/1995 NYK @ DEN W 32 13 5 7 71.4 1 1 100.0 2 2 100.0 2 9 11 0 1 0 3 3 -
+p692
+aVCharles Smith NYK 11/17/1995 NYK @ DEN W 17 9 3 8 37.5 0 0 - 3 4 75.0 3 0 3 1 0 0 1 2 -
+p693
+aVGary Grant NYK 11/17/1995 NYK @ DEN W 27 11 4 5 80.0 1 1 100.0 2 2 100.0 0 3 3 6 1 0 3 3 -
+p694
+aVCharlie Ward NYK 11/17/1995 NYK @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p695
+aVDerek Harper NYK 11/17/1995 NYK @ DEN W 34 9 3 9 33.3 2 4 50.0 1 2 50.0 0 0 0 3 0 1 2 3 -
+p696
+aVDoug Christie NYK 11/17/1995 NYK @ DEN W 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 3 0 0 1 0 -
+p697
+aVAnthony Mason NYK 11/16/1995 NYK @ GOS W 43 13 5 7 71.4 0 0 - 3 4 75.0 3 6 9 4 2 0 4 2 -
+p698
+aVPatrick Ewing NYK 11/16/1995 NYK @ GOS W 32 20 7 20 35.0 0 1 0.0 6 7 85.7 0 5 5 2 5 2 5 3 -
+p699
+aVCharles Smith NYK 11/16/1995 NYK @ GOS W 22 14 5 12 41.7 1 1 100.0 3 4 75.0 2 2 4 0 0 1 1 5 -
+p700
+aVDerek Harper NYK 11/16/1995 NYK @ GOS W 34 22 7 13 53.8 1 4 25.0 7 7 100.0 1 3 4 10 3 0 1 3 -
+p701
+aVCharlie Ward NYK 11/16/1995 NYK @ GOS W 8 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p702
+aVCharles Oakley NYK 11/16/1995 NYK @ GOS W 39 15 3 10 30.0 0 1 0.0 9 11 81.8 8 2 10 3 1 0 1 5 -
+p703
+aVDoug Christie NYK 11/16/1995 NYK @ GOS W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -
+p704
+aVHubert Davis NYK 11/16/1995 NYK @ GOS W 9 0 0 2 0.0 0 2 0.0 0 1 0.0 0 0 0 0 0 0 0 0 -
+p705
+aVGary Grant NYK 11/16/1995 NYK @ GOS W 21 10 4 8 50.0 0 1 0.0 2 2 100.0 1 5 6 1 2 0 0 4 -
+p706
+aVMonty Williams NYK 11/16/1995 NYK @ GOS W 2 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -
+p707
+aVJohn Starks NYK 11/16/1995 NYK @ GOS W 26 18 7 10 70.0 4 5 80.0 0 0 - 0 2 2 6 2 0 0 4 -
+p708
+aVDerek Harper NYK 11/14/1995 NYK @ POR L 37 20 7 12 58.3 1 3 33.3 5 6 83.3 1 3 4 6 4 0 2 2 -
+p709
+aVAnthony Mason NYK 11/14/1995 NYK @ POR L 46 12 3 4 75.0 0 0 - 6 8 75.0 2 5 7 5 1 0 3 3 -
+p710
+aVPatrick Ewing NYK 11/14/1995 NYK @ POR L 39 29 13 23 56.5 0 0 - 3 5 60.0 1 15 16 0 0 6 4 6 -
+p711
+aVGary Grant NYK 11/14/1995 NYK @ POR L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 2 -
+p712
+aVCharles Smith NYK 11/14/1995 NYK @ POR L 21 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 1 0 1 2 4 -
+p713
+aVHubert Davis NYK 11/14/1995 NYK @ POR L 19 10 3 7 42.9 2 4 50.0 2 2 100.0 0 0 0 0 0 0 0 1 -
+p714
+aVCharles Oakley NYK 11/14/1995 NYK @ POR L 34 7 3 7 42.9 0 1 0.0 1 1 100.0 0 4 4 2 0 0 2 4 -
+p715
+aVJohn Starks NYK 11/14/1995 NYK @ POR L 30 15 6 10 60.0 3 4 75.0 0 0 - 0 4 4 2 2 0 3 4 -
+p716
+aVCharles Smith NYK 11/12/1995 NYK vs. UTH W 16 3 1 7 14.3 0 0 - 1 4 25.0 2 0 2 1 1 1 1 3 -
+p717
+aVDerek Harper NYK 11/12/1995 NYK vs. UTH W 39 20 4 9 44.4 2 4 50.0 10 12 83.3 0 4 4 1 4 0 2 3 -
+p718
+aVJohn Starks NYK 11/12/1995 NYK vs. UTH W 35 26 7 12 58.3 6 9 66.7 6 8 75.0 0 4 4 2 0 0 2 4 -
+p719
+aVPatrick Ewing NYK 11/12/1995 NYK vs. UTH W 32 17 5 10 50.0 0 0 - 7 9 77.8 1 8 9 3 0 2 2 5 -
+p720
+aVHubert Davis NYK 11/12/1995 NYK vs. UTH W 9 4 1 4 25.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -
+p721
+aVAnthony Mason NYK 11/12/1995 NYK vs. UTH W 43 16 6 8 75.0 0 0 - 4 6 66.7 2 2 4 9 1 0 4 5 -
+p722
+aVCharlie Ward NYK 11/12/1995 NYK vs. UTH W 10 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 2 0 0 1 1 -
+p723
+aVGary Grant NYK 11/12/1995 NYK vs. UTH W 14 12 3 8 37.5 0 0 - 6 6 100.0 1 1 2 1 2 0 3 4 -
+p724
+aVCharles Oakley NYK 11/12/1995 NYK vs. UTH W 42 20 6 10 60.0 1 1 100.0 7 8 87.5 6 4 10 2 1 0 1 3 -
+p725
+aVJohn Starks NYK 11/10/1995 NYK @ WAS W 37 15 4 9 44.4 3 6 50.0 4 5 80.0 1 3 4 4 0 0 3 4 -
+p726
+aVHubert Davis NYK 11/10/1995 NYK @ WAS W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -
+p727
+aVDerek Harper NYK 11/10/1995 NYK @ WAS W 37 22 8 16 50.0 2 4 50.0 4 4 100.0 0 3 3 4 2 0 1 1 -
+p728
+aVPatrick Ewing NYK 11/10/1995 NYK @ WAS W 37 25 10 20 50.0 0 0 - 5 8 62.5 1 3 4 0 0 3 1 4 -
+p729
+aVAnthony Mason NYK 11/10/1995 NYK @ WAS W 45 20 6 12 50.0 0 0 - 8 9 88.9 5 6 11 6 2 0 1 1 -
+p730
+aVCharles Oakley NYK 11/10/1995 NYK @ WAS W 36 13 4 9 44.4 0 1 0.0 5 5 100.0 3 4 7 3 1 0 1 4 -
+p731
+aVCharles Smith NYK 11/10/1995 NYK @ WAS W 25 7 3 9 33.3 0 2 0.0 1 1 100.0 0 4 4 0 1 0 1 6 -
+p732
+aVCharlie Ward NYK 11/10/1995 NYK @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p733
+aVGary Grant NYK 11/10/1995 NYK @ WAS W 12 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -
+p734
+aVPatrick Ewing NYK 11/09/1995 NYK vs. IND W 31 21 9 17 52.9 0 0 - 3 4 75.0 2 12 14 0 1 4 2 1 -
+p735
+aVCharlie Ward NYK 11/09/1995 NYK vs. IND W 11 3 1 3 33.3 0 2 0.0 1 2 50.0 1 0 1 2 0 1 2 4 -
+p736
+aVAnthony Mason NYK 11/09/1995 NYK vs. IND W 37 7 1 6 16.7 0 0 - 5 6 83.3 2 4 6 3 0 0 1 2 -
+p737
+aVHubert Davis NYK 11/09/1995 NYK vs. IND W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -
+p738
+aVJohn Starks NYK 11/09/1995 NYK vs. IND W 40 18 7 14 50.0 1 6 16.7 3 5 60.0 1 3 4 8 3 0 1 4 -
+p739
+aVCharles Oakley NYK 11/09/1995 NYK vs. IND W 30 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 4 2 0 1 3 -
+p740
+aVCharles Smith NYK 11/09/1995 NYK vs. IND W 29 21 6 11 54.5 1 1 100.0 8 10 80.0 2 3 5 0 0 0 2 3 -
+p741
+aVDerek Harper NYK 11/09/1995 NYK vs. IND W 40 22 8 11 72.7 3 5 60.0 3 5 60.0 0 4 4 5 0 0 5 5 -
+p742
+aVGary Grant NYK 11/09/1995 NYK vs. IND W 6 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 -
+p743
+aVDoug Christie NYK 11/09/1995 NYK vs. IND W 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 2 -
+p744
+aVMonty Williams NYK 11/09/1995 NYK vs. IND W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p745
+aVPatrick Ewing NYK 11/07/1995 NYK vs. PHX L 42 25 10 21 47.6 0 1 0.0 5 9 55.6 1 5 6 3 0 0 1 3 -
+p746
+aVCharles Oakley NYK 11/07/1995 NYK vs. PHX L 36 15 7 12 58.3 1 1 100.0 0 0 - 3 7 10 2 0 0 0 4 -
+p747
+aVCharlie Ward NYK 11/07/1995 NYK vs. PHX L 7 1 0 0 - 0 0 - 1 4 25.0 0 1 1 2 1 0 2 1 -
+p748
+aVHerb Williams NYK 11/07/1995 NYK vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p749
+aVDerek Harper NYK 11/07/1995 NYK vs. PHX L 42 17 5 13 38.5 0 3 0.0 7 11 63.6 0 1 1 6 2 0 2 0 -
+p750
+aVJohn Starks NYK 11/07/1995 NYK vs. PHX L 39 11 5 11 45.5 0 2 0.0 1 2 50.0 1 4 5 4 0 0 3 6 -
+p751
+aVCharles Smith NYK 11/07/1995 NYK vs. PHX L 26 9 4 11 36.4 0 0 - 1 3 33.3 4 4 8 1 0 1 2 5 -
+p752
+aVAnthony Mason NYK 11/07/1995 NYK vs. PHX L 24 11 5 6 83.3 0 0 - 1 2 50.0 0 5 5 3 3 0 1 2 -
+p753
+aVDoug Christie NYK 11/07/1995 NYK vs. PHX L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p754
+aVHubert Davis NYK 11/07/1995 NYK vs. PHX L 20 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -
+p755
+aVCharles Oakley NYK 11/04/1995 NYK @ MIL W 27 10 3 9 33.3 0 1 0.0 4 4 100.0 3 3 6 1 2 0 0 2 -
+p756
+aVPatrick Ewing NYK 11/04/1995 NYK @ MIL W 32 17 7 14 50.0 0 1 0.0 3 4 75.0 2 11 13 2 1 3 4 3 -
+p757
+aVJohn Starks NYK 11/04/1995 NYK @ MIL W 36 13 5 9 55.6 2 5 40.0 1 3 33.3 0 3 3 3 1 0 1 2 -
+p758
+aVDerek Harper NYK 11/04/1995 NYK @ MIL W 35 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 4 1 0 3 1 -
+p759
+aVCharles Smith NYK 11/04/1995 NYK @ MIL W 31 15 5 17 29.4 0 1 0.0 5 6 83.3 5 5 10 1 1 3 4 4 -
+p760
+aVHubert Davis NYK 11/04/1995 NYK @ MIL W 26 7 3 7 42.9 1 2 50.0 0 0 - 2 0 2 0 1 0 0 0 -
+p761
+aVCharlie Ward NYK 11/04/1995 NYK @ MIL W 10 0 0 1 0.0 0 0 - 0 0 - 2 0 2 3 1 0 3 1 -
+p762
+aVAnthony Mason NYK 11/04/1995 NYK @ MIL W 43 15 5 10 50.0 0 0 - 5 8 62.5 3 8 11 6 1 0 5 3 -
+p763
+aVCharlie Ward NYK 11/03/1995 NYK @ DET W 31 15 6 10 60.0 1 5 20.0 2 3 66.7 0 3 3 3 1 0 4 4 -
+p764
+aVCharles Smith NYK 11/03/1995 NYK @ DET W 17 6 2 7 28.6 0 0 - 2 2 100.0 2 2 4 0 0 2 2 4 -
+p765
+aVDerek Harper NYK 11/03/1995 NYK @ DET W 42 20 9 15 60.0 2 5 40.0 0 0 - 1 6 7 5 2 0 1 3 -
+p766
+aVAnthony Mason NYK 11/03/1995 NYK @ DET W 44 18 7 13 53.8 0 0 - 4 4 100.0 2 11 13 5 0 0 2 5 -
+p767
+aVJohn Starks NYK 11/03/1995 NYK @ DET W 24 7 3 7 42.9 1 4 25.0 0 0 - 0 4 4 5 2 0 1 4 -
+p768
+aVHubert Davis NYK 11/03/1995 NYK @ DET W 48 21 7 10 70.0 5 7 71.4 2 3 66.7 2 4 6 1 0 0 3 4 -
+p769
+aVPatrick Ewing NYK 11/03/1995 NYK @ DET W 34 19 7 13 53.8 0 0 - 5 7 71.4 0 4 4 3 1 2 6 3 -
+p770
+a.

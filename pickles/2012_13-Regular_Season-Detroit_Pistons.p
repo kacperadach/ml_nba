@@ -1,0 +1,1678 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKhris Middleton DET 04/17/2013 DET @ BKN L 25 10 3 9 33.3 0 1 0.0 4 4 100.0 0 7 7 2 2 0 1 0 4
+p2
+aVCharlie Villanueva DET 04/17/2013 DET @ BKN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -3
+p3
+aVBrandon Knight DET 04/17/2013 DET @ BKN L 35 7 3 14 21.4 0 3 0.0 1 3 33.3 0 1 1 5 2 0 2 1 -3
+p4
+aVAndre Drummond DET 04/17/2013 DET @ BKN L 30 13 5 7 71.4 0 0 - 3 3 100.0 1 2 3 1 3 3 1 4 -9
+p5
+aVRodney Stuckey DET 04/17/2013 DET @ BKN L 27 11 5 8 62.5 1 3 33.3 0 0 - 0 0 0 2 1 0 2 1 -8
+p6
+aVWill Bynum DET 04/17/2013 DET @ BKN L 22 23 7 10 70.0 0 2 0.0 9 11 81.8 0 0 0 1 2 0 6 1 0
+p7
+aVGreg Monroe DET 04/17/2013 DET @ BKN L 29 12 5 10 50.0 0 0 - 2 4 50.0 3 9 12 3 2 0 5 4 -11
+p8
+aVViacheslav Kravtsov DET 04/17/2013 DET @ BKN L 7 6 3 5 60.0 0 0 - 0 0 - 5 0 5 0 1 1 0 1 11
+p9
+aVJonas Jerebko DET 04/17/2013 DET @ BKN L 25 6 1 4 25.0 0 1 0.0 4 4 100.0 0 6 6 0 1 0 2 4 4
+p10
+aVKim English DET 04/17/2013 DET @ BKN L 13 7 3 6 50.0 0 1 0.0 1 3 33.3 0 1 1 1 1 0 2 3 9
+p11
+aVKyle Singler DET 04/17/2013 DET @ BKN L 22 4 2 5 40.0 0 2 0.0 0 0 - 1 3 4 2 1 1 1 2 -14
+p12
+aVWill Bynum DET 04/15/2013 DET vs. PHI W 25 22 8 13 61.5 2 3 66.7 4 4 100.0 0 3 3 6 0 0 2 3 4
+p13
+aVKyle Singler DET 04/15/2013 DET vs. PHI W 31 16 6 11 54.5 2 6 33.3 2 2 100.0 0 5 5 0 3 0 0 0 18
+p14
+aVGreg Monroe DET 04/15/2013 DET vs. PHI W 37 27 10 14 71.4 0 0 - 7 7 100.0 6 10 16 4 0 1 2 1 17
+p15
+aVAndre Drummond DET 04/15/2013 DET vs. PHI W 33 5 2 4 50.0 0 0 - 1 4 25.0 3 5 8 0 2 1 3 6 -3
+p16
+aVCharlie Villanueva DET 04/15/2013 DET vs. PHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p17
+aVBrandon Knight DET 04/15/2013 DET vs. PHI W 31 12 5 16 31.3 2 6 33.3 0 0 - 2 0 2 4 1 0 3 2 9
+p18
+aVRodney Stuckey DET 04/15/2013 DET vs. PHI W 33 8 3 9 33.3 2 5 40.0 0 0 - 0 4 4 6 1 0 2 3 13
+p19
+aVKhris Middleton DET 04/15/2013 DET vs. PHI W 16 10 4 7 57.1 1 2 50.0 1 1 100.0 0 2 2 1 0 0 1 3 -6
+p20
+aVKim English DET 04/15/2013 DET vs. PHI W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -14
+p21
+aVJonas Jerebko DET 04/15/2013 DET vs. PHI W 20 9 3 7 42.9 0 2 0.0 3 4 75.0 1 1 2 2 0 1 1 3 12
+p22
+aVGreg Monroe DET 04/12/2013 DET vs. CHA W 32 12 4 9 44.4 0 0 - 4 4 100.0 3 3 6 4 4 0 2 2 10
+p23
+aVRodney Stuckey DET 04/12/2013 DET vs. CHA W 26 4 1 7 14.3 1 1 100.0 1 1 100.0 0 2 2 9 0 0 2 3 8
+p24
+aVViacheslav Kravtsov DET 04/12/2013 DET vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p25
+aVJonas Jerebko DET 04/12/2013 DET vs. CHA W 28 21 9 18 50.0 2 4 50.0 1 1 100.0 3 5 8 1 1 1 1 2 17
+p26
+aVCharlie Villanueva DET 04/12/2013 DET vs. CHA W 7 6 2 2 100.0 2 2 100.0 0 0 - 0 1 1 0 1 0 0 0 7
+p27
+aVBrandon Knight DET 04/12/2013 DET vs. CHA W 34 19 6 9 66.7 3 3 100.0 4 6 66.7 2 5 7 2 1 0 5 2 6
+p28
+aVKhris Middleton DET 04/12/2013 DET vs. CHA W 26 9 4 8 50.0 1 4 25.0 0 0 - 0 3 3 4 0 1 1 2 22
+p29
+aVWill Bynum DET 04/12/2013 DET vs. CHA W 27 15 5 10 50.0 1 2 50.0 4 4 100.0 0 3 3 10 1 0 4 4 15
+p30
+aVAndre Drummond DET 04/12/2013 DET vs. CHA W 28 15 7 13 53.8 0 0 - 1 4 25.0 5 4 9 0 2 1 5 4 4
+p31
+aVKim English DET 04/12/2013 DET vs. CHA W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 11
+p32
+aVKyle Singler DET 04/12/2013 DET vs. CHA W 22 10 4 6 66.7 2 2 100.0 0 0 - 2 4 6 0 0 0 2 1 -2
+p33
+aVCharlie Villanueva DET 04/10/2013 DET @ CLE W 6 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 1 0 0 -13
+p34
+aVKyle Singler DET 04/10/2013 DET @ CLE W 27 7 1 7 14.3 0 2 0.0 5 6 83.3 1 4 5 0 1 0 1 1 28
+p35
+aVJonas Jerebko DET 04/10/2013 DET @ CLE W 17 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 2 2 0 0 1 2
+p36
+aVBrandon Knight DET 04/10/2013 DET @ CLE W 35 7 2 11 18.2 0 3 0.0 3 3 100.0 1 3 4 2 1 0 1 3 8
+p37
+aVAndre Drummond DET 04/10/2013 DET @ CLE W 34 29 10 11 90.9 0 0 - 9 17 52.9 3 8 11 1 0 0 0 4 3
+p38
+aVKim English DET 04/10/2013 DET @ CLE W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p39
+aVRodney Stuckey DET 04/10/2013 DET @ CLE W 37 18 5 8 62.5 2 2 100.0 6 9 66.7 0 1 1 7 1 0 1 1 19
+p40
+aVKhris Middleton DET 04/10/2013 DET @ CLE W 21 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -21
+p41
+aVWill Bynum DET 04/10/2013 DET @ CLE W 21 16 7 10 70.0 2 4 50.0 0 0 - 0 1 1 3 0 0 1 4 -1
+p42
+aVGreg Monroe DET 04/10/2013 DET @ CLE W 38 23 10 18 55.6 0 0 - 3 5 60.0 0 8 8 4 1 0 0 2 19
+p43
+aVKhris Middleton DET 04/07/2013 DET vs. CHI W 33 10 4 7 57.1 2 2 100.0 0 0 - 0 3 3 2 2 0 0 4 19
+p44
+aVKim English DET 04/07/2013 DET vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p45
+aVJonas Jerebko DET 04/07/2013 DET vs. CHI W 27 17 7 8 87.5 1 2 50.0 2 2 100.0 2 7 9 0 1 0 2 1 16
+p46
+aVGreg Monroe DET 04/07/2013 DET vs. CHI W 32 11 5 11 45.5 0 0 - 1 2 50.0 2 5 7 7 0 0 2 2 2
+p47
+aVBrandon Knight DET 04/07/2013 DET vs. CHI W 37 20 7 12 58.3 1 4 25.0 5 7 71.4 0 2 2 5 0 0 3 2 10
+p48
+aVViacheslav Kravtsov DET 04/07/2013 DET vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p49
+aVKyle Singler DET 04/07/2013 DET vs. CHI W 21 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 0 1 1 0 2 -2
+p50
+aVAndre Drummond DET 04/07/2013 DET vs. CHI W 20 3 1 2 50.0 0 0 - 1 2 50.0 1 9 10 0 1 0 1 5 -3
+p51
+aVWill Bynum DET 04/07/2013 DET vs. CHI W 17 4 2 4 50.0 0 0 - 0 1 0.0 1 1 2 5 0 0 2 2 8
+p52
+aVRodney Stuckey DET 04/07/2013 DET vs. CHI W 36 14 5 12 41.7 1 2 50.0 3 3 100.0 1 1 2 5 1 0 2 2 7
+p53
+aVCharlie Villanueva DET 04/07/2013 DET vs. CHI W 15 12 5 11 45.5 2 5 40.0 0 0 - 1 3 4 1 0 1 1 3 11
+p54
+aVJose Calderon DET 04/06/2013 DET @ MIN L 27 6 3 5 60.0 0 0 - 0 0 - 1 1 2 4 3 0 3 1 -16
+p55
+aVCharlie Villanueva DET 04/06/2013 DET @ MIN L 9 5 2 5 40.0 1 3 33.3 0 0 - 1 3 4 1 0 0 0 1 -1
+p56
+aVJonas Jerebko DET 04/06/2013 DET @ MIN L 23 7 2 5 40.0 1 2 50.0 2 2 100.0 1 2 3 0 0 1 3 2 12
+p57
+aVBrandon Knight DET 04/06/2013 DET @ MIN L 41 25 9 15 60.0 3 4 75.0 4 6 66.7 2 0 2 6 2 0 3 4 -1
+p58
+aVKyle Singler DET 04/06/2013 DET @ MIN L 23 6 2 6 33.3 0 2 0.0 2 3 66.7 1 2 3 0 0 0 2 3 -8
+p59
+aVRodney Stuckey DET 04/06/2013 DET @ MIN L 28 20 8 15 53.3 0 1 0.0 4 6 66.7 1 7 8 4 0 1 5 0 5
+p60
+aVAndre Drummond DET 04/06/2013 DET @ MIN L 31 9 4 5 80.0 0 0 - 1 2 50.0 1 9 10 2 1 3 3 5 -17
+p61
+aVGreg Monroe DET 04/06/2013 DET @ MIN L 32 16 7 13 53.8 0 1 0.0 2 2 100.0 3 3 6 1 2 1 4 4 -8
+p62
+aVKhris Middleton DET 04/06/2013 DET @ MIN L 26 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 4 2 0 1 5 4
+p63
+aVGreg Monroe DET 04/03/2013 DET @ BOS L 39 24 11 22 50.0 0 1 0.0 2 3 66.7 9 8 17 3 2 0 6 2 3
+p64
+aVRodney Stuckey DET 04/03/2013 DET @ BOS L 37 22 5 16 31.3 1 6 16.7 11 15 73.3 1 1 2 4 1 1 0 2 -13
+p65
+aVBrandon Knight DET 04/03/2013 DET @ BOS L 37 7 2 10 20.0 1 3 33.3 2 2 100.0 2 1 3 4 0 0 2 3 3
+p66
+aVKim English DET 04/03/2013 DET @ BOS L 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p67
+aVAndre Drummond DET 04/03/2013 DET @ BOS L 21 8 4 6 66.7 0 0 - 0 3 0.0 7 2 9 1 1 0 2 2 -10
+p68
+aVCharlie Villanueva DET 04/03/2013 DET @ BOS L 23 4 2 17 11.8 0 8 0.0 0 0 - 3 6 9 5 1 0 2 3 1
+p69
+aVJonas Jerebko DET 04/03/2013 DET @ BOS L 27 19 6 10 60.0 2 3 66.7 5 5 100.0 0 5 5 1 3 0 1 4 5
+p70
+aVKyle Singler DET 04/03/2013 DET @ BOS L 25 7 3 7 42.9 0 1 0.0 1 2 50.0 2 3 5 1 0 0 2 2 -6
+p71
+aVKhris Middleton DET 04/03/2013 DET @ BOS L 23 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 2 -3
+p72
+aVGreg Monroe DET 04/01/2013 DET @ TOR W 38 24 10 18 55.6 0 0 - 4 4 100.0 2 2 4 4 0 1 0 0 10
+p73
+aVCharlie Villanueva DET 04/01/2013 DET @ TOR W 10 7 2 5 40.0 0 2 0.0 3 4 75.0 0 1 1 0 1 0 0 1 0
+p74
+aVBrandon Knight DET 04/01/2013 DET @ TOR W 29 5 2 8 25.0 1 4 25.0 0 0 - 1 3 4 2 1 0 2 2 -5
+p75
+aVRodney Stuckey DET 04/01/2013 DET @ TOR W 28 18 7 10 70.0 3 3 100.0 1 2 50.0 0 4 4 6 1 0 3 2 17
+p76
+aVKhris Middleton DET 04/01/2013 DET @ TOR W 25 11 5 6 83.3 1 2 50.0 0 0 - 1 3 4 0 0 0 1 4 16
+p77
+aVAndre Drummond DET 04/01/2013 DET @ TOR W 20 4 2 5 40.0 0 0 - 0 2 0.0 0 4 4 0 0 0 0 3 -9
+p78
+aVKyle Singler DET 04/01/2013 DET @ TOR W 19 5 1 5 20.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 0 2 -9
+p79
+aVJose Calderon DET 04/01/2013 DET @ TOR W 43 19 8 12 66.7 1 2 50.0 2 3 66.7 0 1 1 9 1 0 1 2 11
+p80
+aVJonas Jerebko DET 04/01/2013 DET @ TOR W 28 15 6 8 75.0 0 1 0.0 3 4 75.0 2 4 6 3 0 0 1 1 19
+p81
+aVGreg Monroe DET 03/31/2013 DET @ CHI L 32 18 7 12 58.3 0 0 - 4 6 66.7 1 9 10 4 2 2 4 3 8
+p82
+aVKim English DET 03/31/2013 DET @ CHI L 12 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 1 1 0
+p83
+aVJose Calderon DET 03/31/2013 DET @ CHI L 34 11 4 8 50.0 1 2 50.0 2 2 100.0 0 0 0 5 0 0 1 0 0
+p84
+aVJonas Jerebko DET 03/31/2013 DET @ CHI L 18 5 2 3 66.7 0 1 0.0 1 2 50.0 0 3 3 1 1 0 2 1 -11
+p85
+aVAndre Drummond DET 03/31/2013 DET @ CHI L 23 8 4 7 57.1 0 0 - 0 3 0.0 4 10 14 2 0 1 0 3 11
+p86
+aVRodney Stuckey DET 03/31/2013 DET @ CHI L 29 25 10 19 52.6 2 3 66.7 3 4 75.0 1 1 2 2 0 0 1 2 -8
+p87
+aVCharlie Villanueva DET 03/31/2013 DET @ CHI L 24 14 4 13 30.8 2 7 28.6 4 4 100.0 0 5 5 1 0 2 2 3 -10
+p88
+aVBrandon Knight DET 03/31/2013 DET @ CHI L 37 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 4 2 0 4 3 6
+p89
+aVKyle Singler DET 03/31/2013 DET @ CHI L 27 8 3 4 75.0 1 1 100.0 1 1 100.0 1 5 6 1 0 0 1 6 -2
+p90
+aVKhris Middleton DET 03/31/2013 DET @ CHI L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p91
+aVKyle Singler DET 03/29/2013 DET vs. TOR L 33 13 5 12 41.7 1 4 25.0 2 4 50.0 1 5 6 2 2 0 1 1 -15
+p92
+aVBrandon Knight DET 03/29/2013 DET vs. TOR L 26 4 1 4 25.0 0 1 0.0 2 3 66.7 0 0 0 3 0 0 1 2 -24
+p93
+aVRodney Stuckey DET 03/29/2013 DET vs. TOR L 25 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 2 -10
+p94
+aVJason Maxiell DET 03/29/2013 DET vs. TOR L 13 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -11
+p95
+aVJonas Jerebko DET 03/29/2013 DET vs. TOR L 28 20 9 14 64.3 0 4 0.0 2 2 100.0 2 3 5 1 0 0 1 2 -6
+p96
+aVAndre Drummond DET 03/29/2013 DET vs. TOR L 19 17 8 10 80.0 0 0 - 1 4 25.0 1 3 4 0 2 2 2 3 -7
+p97
+aVJose Calderon DET 03/29/2013 DET vs. TOR L 31 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 7 0 0 3 2 -16
+p98
+aVGreg Monroe DET 03/29/2013 DET vs. TOR L 30 11 3 11 27.3 0 0 - 5 6 83.3 6 7 13 5 0 2 3 1 -16
+p99
+aVViacheslav Kravtsov DET 03/29/2013 DET vs. TOR L 6 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 6
+p100
+aVKim English DET 03/29/2013 DET vs. TOR L 21 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 1 0 0 0 0 4
+p101
+aVKhris Middleton DET 03/29/2013 DET vs. TOR L 8 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 3 0 0 0 0 10
+p102
+aVKyle Singler DET 03/26/2013 DET vs. MIN L 29 8 2 7 28.6 2 5 40.0 2 2 100.0 1 3 4 1 0 0 3 2 -10
+p103
+aVJason Maxiell DET 03/26/2013 DET vs. MIN L 26 6 3 5 60.0 0 0 - 0 0 - 2 3 5 2 0 2 1 2 -9
+p104
+aVKhris Middleton DET 03/26/2013 DET vs. MIN L 23 10 5 10 50.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -10
+p105
+aVBrandon Knight DET 03/26/2013 DET vs. MIN L 26 7 3 10 30.0 1 3 33.3 0 0 - 0 1 1 3 1 0 4 0 -16
+p106
+aVKim English DET 03/26/2013 DET vs. MIN L 12 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 5
+p107
+aVJose Calderon DET 03/26/2013 DET vs. MIN L 32 14 5 9 55.6 2 2 100.0 2 2 100.0 0 1 1 1 0 0 1 1 -26
+p108
+aVViacheslav Kravtsov DET 03/26/2013 DET vs. MIN L 12 5 1 3 33.3 0 0 - 3 4 75.0 1 3 4 2 1 1 0 0 5
+p109
+aVGreg Monroe DET 03/26/2013 DET vs. MIN L 29 11 5 13 38.5 0 1 0.0 1 2 50.0 5 7 12 1 4 0 2 2 -28
+p110
+aVRodney Stuckey DET 03/26/2013 DET vs. MIN L 21 7 2 7 28.6 0 1 0.0 3 3 100.0 1 1 2 2 0 0 3 2 -12
+p111
+aVCharlie Villanueva DET 03/26/2013 DET vs. MIN L 14 2 1 7 14.3 0 2 0.0 0 0 - 1 3 4 4 0 1 0 1 -8
+p112
+aVJonas Jerebko DET 03/26/2013 DET vs. MIN L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 1 0 0 1 -6
+p113
+aVCharlie Villanueva DET 03/23/2013 DET @ CHA W 20 18 7 13 53.8 4 7 57.1 0 0 - 0 4 4 0 1 0 0 3 7
+p114
+aVJonas Jerebko DET 03/23/2013 DET @ CHA W 22 8 3 6 50.0 0 0 - 2 4 50.0 1 2 3 2 4 0 0 1 -2
+p115
+aVWill Bynum DET 03/23/2013 DET @ CHA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 1
+p116
+aVJose Calderon DET 03/23/2013 DET @ CHA W 30 11 4 8 50.0 3 5 60.0 0 0 - 0 1 1 6 0 0 1 0 -8
+p117
+aVKyle Singler DET 03/23/2013 DET @ CHA W 28 6 2 6 33.3 0 4 0.0 2 2 100.0 2 5 7 2 1 1 2 5 -7
+p118
+aVKhris Middleton DET 03/23/2013 DET @ CHA W 16 6 2 3 66.7 0 1 0.0 2 2 100.0 0 4 4 0 0 0 0 3 10
+p119
+aVGreg Monroe DET 03/23/2013 DET @ CHA W 29 6 2 11 18.2 0 0 - 2 2 100.0 3 6 9 8 2 0 1 2 0
+p120
+aVRodney Stuckey DET 03/23/2013 DET @ CHA W 30 13 5 8 62.5 2 3 66.7 1 2 50.0 0 2 2 8 0 1 5 1 7
+p121
+aVJason Maxiell DET 03/23/2013 DET @ CHA W 22 14 7 13 53.8 0 0 - 0 0 - 0 4 4 0 0 1 0 2 -3
+p122
+aVBrandon Knight DET 03/23/2013 DET @ CHA W 37 10 4 10 40.0 1 6 16.7 1 2 50.0 2 4 6 4 0 0 5 1 0
+p123
+aVRodney Stuckey DET 03/22/2013 DET @ MIA L 41 11 4 15 26.7 1 5 20.0 2 2 100.0 3 2 5 3 2 0 4 2 -4
+p124
+aVKyle Singler DET 03/22/2013 DET @ MIA L 37 18 8 14 57.1 2 5 40.0 0 0 - 5 3 8 1 1 1 2 3 -9
+p125
+aVJason Maxiell DET 03/22/2013 DET @ MIA L 19 6 2 6 33.3 0 0 - 2 4 50.0 1 5 6 1 0 1 2 3 -5
+p126
+aVKim English DET 03/22/2013 DET @ MIA L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 1 1 6 -8
+p127
+aVJose Calderon DET 03/22/2013 DET @ MIA L 43 18 7 11 63.6 3 6 50.0 1 1 100.0 1 2 3 7 2 0 7 3 -12
+p128
+aVGreg Monroe DET 03/22/2013 DET @ MIA L 41 23 10 19 52.6 0 0 - 3 5 60.0 6 9 15 6 1 1 3 3 -15
+p129
+aVCharlie Villanueva DET 03/22/2013 DET @ MIA L 9 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 1 0 1 0 0 -4
+p130
+aVWill Bynum DET 03/22/2013 DET @ MIA L 14 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -9
+p131
+aVJonas Jerebko DET 03/22/2013 DET @ MIA L 25 9 2 8 25.0 1 2 50.0 4 4 100.0 2 6 8 1 1 0 2 3 -4
+p132
+aVJonas Jerebko DET 03/18/2013 DET vs. BKN L 19 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 -19
+p133
+aVJose Calderon DET 03/18/2013 DET vs. BKN L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -11
+p134
+aVCharlie Villanueva DET 03/18/2013 DET vs. BKN L 19 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 0 1 1 0 2 -17
+p135
+aVKhris Middleton DET 03/18/2013 DET vs. BKN L 21 6 2 8 25.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 2 -12
+p136
+aVJason Maxiell DET 03/18/2013 DET vs. BKN L 23 4 2 3 66.7 0 0 - 0 0 - 0 5 5 1 0 0 0 1 -14
+p137
+aVRodney Stuckey DET 03/18/2013 DET vs. BKN L 34 10 3 8 37.5 0 0 - 4 4 100.0 0 1 1 4 2 0 3 2 -21
+p138
+aVViacheslav Kravtsov DET 03/18/2013 DET vs. BKN L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p139
+aVKyle Singler DET 03/18/2013 DET vs. BKN L 29 6 3 8 37.5 0 4 0.0 0 0 - 4 2 6 0 1 1 2 3 -25
+p140
+aVGreg Monroe DET 03/18/2013 DET vs. BKN L 32 17 8 10 80.0 0 0 - 1 2 50.0 2 5 7 3 1 2 6 4 -28
+p141
+aVKim English DET 03/18/2013 DET vs. BKN L 18 10 3 7 42.9 0 3 0.0 4 5 80.0 0 3 3 3 0 0 2 3 -5
+p142
+aVWill Bynum DET 03/18/2013 DET vs. BKN L 30 18 8 19 42.1 0 2 0.0 2 2 100.0 3 2 5 6 1 0 1 2 -28
+p143
+aVJonas Jerebko DET 03/16/2013 DET @ POR L 16 4 2 4 50.0 0 2 0.0 0 0 - 1 4 5 1 0 1 2 2 -7
+p144
+aVKyle Singler DET 03/16/2013 DET @ POR L 40 4 2 10 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p145
+aVJason Maxiell DET 03/16/2013 DET @ POR L 38 10 4 6 66.7 0 0 - 2 4 50.0 2 3 5 3 2 1 3 5 -6
+p146
+aVKhris Middleton DET 03/16/2013 DET @ POR L 12 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 2 0 0 3 -6
+p147
+aVGreg Monroe DET 03/16/2013 DET @ POR L 36 14 5 9 55.6 0 0 - 4 8 50.0 2 7 9 6 0 0 1 5 -6
+p148
+aVJose Calderon DET 03/16/2013 DET @ POR L 24 13 5 8 62.5 3 5 60.0 0 0 - 0 4 4 5 2 0 1 3 -1
+p149
+aVCharlie Villanueva DET 03/16/2013 DET @ POR L 6 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 1 3 1 -3
+p150
+aVRodney Stuckey DET 03/16/2013 DET @ POR L 40 32 12 23 52.2 2 6 33.3 6 7 85.7 0 3 3 0 0 0 1 2 -12
+p151
+aVWill Bynum DET 03/16/2013 DET @ POR L 28 23 10 14 71.4 0 1 0.0 3 3 100.0 0 2 2 4 1 0 2 0 -10
+p152
+aVWill Bynum DET 03/13/2013 DET @ GSW L 28 16 8 13 61.5 0 1 0.0 0 0 - 1 1 2 4 3 0 1 3 6
+p153
+aVJason Maxiell DET 03/13/2013 DET @ GSW L 32 8 4 7 57.1 0 0 - 0 0 - 6 8 14 3 0 0 1 3 -15
+p154
+aVKyle Singler DET 03/13/2013 DET @ GSW L 29 17 8 16 50.0 1 3 33.3 0 0 - 2 2 4 1 0 0 1 5 -19
+p155
+aVJonas Jerebko DET 03/13/2013 DET @ GSW L 24 11 4 9 44.4 1 2 50.0 2 2 100.0 2 2 4 2 0 0 0 1 11
+p156
+aVKhris Middleton DET 03/13/2013 DET @ GSW L 21 4 2 5 40.0 0 3 0.0 0 0 - 0 3 3 1 0 0 0 1 11
+p157
+aVGreg Monroe DET 03/13/2013 DET @ GSW L 39 13 4 16 25.0 0 0 - 5 6 83.3 2 5 7 4 1 0 2 4 -12
+p158
+aVRodney Stuckey DET 03/13/2013 DET @ GSW L 38 22 8 18 44.4 1 4 25.0 5 6 83.3 1 2 3 5 1 0 3 4 -14
+p159
+aVJose Calderon DET 03/13/2013 DET @ GSW L 30 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 6 1 0 1 1 -8
+p160
+aVWill Bynum DET 03/11/2013 DET @ UTA L 19 12 4 11 36.4 0 1 0.0 4 4 100.0 0 0 0 1 0 0 2 0 -11
+p161
+aVKyle Singler DET 03/11/2013 DET @ UTA L 23 5 1 6 16.7 0 0 - 3 4 75.0 2 0 2 0 0 2 0 2 -1
+p162
+aVRodney Stuckey DET 03/11/2013 DET @ UTA L 35 15 6 10 60.0 1 3 33.3 2 2 100.0 1 3 4 2 2 0 2 2 -9
+p163
+aVCharlie Villanueva DET 03/11/2013 DET @ UTA L 21 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 1 0 0 0 3 -8
+p164
+aVKhris Middleton DET 03/11/2013 DET @ UTA L 25 12 4 7 57.1 4 5 80.0 0 0 - 0 1 1 0 0 1 0 3 -12
+p165
+aVBrandon Knight DET 03/11/2013 DET @ UTA L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p166
+aVJonas Jerebko DET 03/11/2013 DET @ UTA L 29 15 5 14 35.7 1 4 25.0 4 4 100.0 2 5 7 0 1 0 1 2 -10
+p167
+aVGreg Monroe DET 03/11/2013 DET @ UTA L 41 15 7 15 46.7 0 0 - 1 1 100.0 1 12 13 3 0 1 0 2 -2
+p168
+aVJose Calderon DET 03/11/2013 DET @ UTA L 37 14 6 8 75.0 1 2 50.0 1 1 100.0 0 2 2 7 2 1 2 0 -2
+p169
+aVViacheslav Kravtsov DET 03/11/2013 DET @ UTA L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -8
+p170
+aVBrandon Knight DET 03/10/2013 DET @ LAC L 19 10 3 9 33.3 2 6 33.3 2 2 100.0 0 0 0 3 0 0 2 3 -28
+p171
+aVWill Bynum DET 03/10/2013 DET @ LAC L 19 10 3 7 42.9 3 4 75.0 1 4 25.0 0 1 1 2 2 0 2 1 -14
+p172
+aVViacheslav Kravtsov DET 03/10/2013 DET @ LAC L 12 5 2 3 66.7 0 0 - 1 5 20.0 1 0 1 1 0 3 0 2 -4
+p173
+aVKim English DET 03/10/2013 DET @ LAC L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p174
+aVRodney Stuckey DET 03/10/2013 DET @ LAC L 23 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 5 0 0 0 1 -3
+p175
+aVKhris Middleton DET 03/10/2013 DET @ LAC L 19 9 2 5 40.0 0 3 0.0 5 6 83.3 0 2 2 1 0 1 0 1 -14
+p176
+aVJonas Jerebko DET 03/10/2013 DET @ LAC L 28 14 5 9 55.6 1 1 100.0 3 4 75.0 3 5 8 3 1 0 2 4 -13
+p177
+aVKyle Singler DET 03/10/2013 DET @ LAC L 29 6 2 4 50.0 0 1 0.0 2 2 100.0 0 4 4 1 0 0 1 2 -18
+p178
+aVCharlie Villanueva DET 03/10/2013 DET @ LAC L 5 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 1
+p179
+aVJason Maxiell DET 03/10/2013 DET @ LAC L 19 3 1 4 25.0 0 0 - 1 2 50.0 2 1 3 1 1 0 1 2 -22
+p180
+aVGreg Monroe DET 03/10/2013 DET @ LAC L 33 10 2 8 25.0 0 0 - 6 10 60.0 3 2 5 4 0 0 3 3 -26
+p181
+aVJose Calderon DET 03/10/2013 DET @ LAC L 29 18 6 8 75.0 4 5 80.0 2 3 66.7 0 2 2 4 1 0 3 1 -18
+p182
+aVJose Calderon DET 03/08/2013 DET vs. DAL L 35 7 3 8 37.5 1 5 20.0 0 0 - 1 5 6 7 0 0 0 2 5
+p183
+aVWill Bynum DET 03/08/2013 DET vs. DAL L 16 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 1 4 0 -1
+p184
+aVKyle Singler DET 03/08/2013 DET vs. DAL L 28 9 3 11 27.3 1 6 16.7 2 3 66.7 1 3 4 0 3 1 1 3 -4
+p185
+aVRodney Stuckey DET 03/08/2013 DET vs. DAL L 13 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -9
+p186
+aVCharlie Villanueva DET 03/08/2013 DET vs. DAL L 14 12 5 9 55.6 2 5 40.0 0 1 0.0 3 0 3 1 0 0 0 1 6
+p187
+aVKhris Middleton DET 03/08/2013 DET vs. DAL L 20 14 6 12 50.0 2 5 40.0 0 1 0.0 2 3 5 1 1 0 1 4 1
+p188
+aVJason Maxiell DET 03/08/2013 DET vs. DAL L 34 12 4 10 40.0 0 0 - 4 6 66.7 6 7 13 0 1 1 0 3 -1
+p189
+aVJonas Jerebko DET 03/08/2013 DET vs. DAL L 14 5 2 9 22.2 1 2 50.0 0 0 - 3 2 5 2 1 0 1 3 -11
+p190
+aVGreg Monroe DET 03/08/2013 DET vs. DAL L 34 14 5 13 38.5 0 1 0.0 4 5 80.0 0 10 10 4 1 0 2 0 0
+p191
+aVBrandon Knight DET 03/08/2013 DET vs. DAL L 32 21 9 17 52.9 2 6 33.3 1 1 100.0 1 2 3 3 0 0 1 3 -1
+p192
+aVBrandon Knight DET 03/06/2013 DET vs. NYK L 39 17 6 17 35.3 4 8 50.0 1 2 50.0 1 4 5 1 0 1 5 1 0
+p193
+aVViacheslav Kravtsov DET 03/06/2013 DET vs. NYK L 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 3 2 -2
+p194
+aVJonas Jerebko DET 03/06/2013 DET vs. NYK L 27 12 5 8 62.5 1 1 100.0 1 3 33.3 1 3 4 2 1 0 1 2 -1
+p195
+aVRodney Stuckey DET 03/06/2013 DET vs. NYK L 26 3 0 5 0.0 0 3 0.0 3 4 75.0 0 3 3 3 2 1 2 1 -18
+p196
+aVJose Calderon DET 03/06/2013 DET vs. NYK L 40 10 4 10 40.0 1 4 25.0 1 1 100.0 0 3 3 16 2 0 3 0 -3
+p197
+aVJason Maxiell DET 03/06/2013 DET vs. NYK L 37 14 7 12 58.3 0 0 - 0 0 - 3 6 9 1 0 2 2 3 -8
+p198
+aVKyle Singler DET 03/06/2013 DET vs. NYK L 42 13 6 12 50.0 1 3 33.3 0 0 - 2 6 8 0 2 1 2 3 -1
+p199
+aVWill Bynum DET 03/06/2013 DET vs. NYK L 17 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 0 1 0 2 2 -17
+p200
+aVWill Bynum DET 03/03/2013 DET @ SAS L 11 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 1 1 0 4 0 -2
+p201
+aVJason Maxiell DET 03/03/2013 DET @ SAS L 16 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 4 -11
+p202
+aVKyle Singler DET 03/03/2013 DET @ SAS L 23 5 2 10 20.0 1 2 50.0 0 0 - 1 1 2 0 0 0 2 3 -21
+p203
+aVCharlie Villanueva DET 03/03/2013 DET @ SAS L 25 10 4 11 36.4 2 6 33.3 0 0 - 2 8 10 1 0 0 1 1 -19
+p204
+aVViacheslav Kravtsov DET 03/03/2013 DET @ SAS L 7 3 1 1 100.0 0 0 - 1 3 33.3 2 3 5 0 0 0 1 0 -9
+p205
+aVKhris Middleton DET 03/03/2013 DET @ SAS L 16 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 4 -13
+p206
+aVJonas Jerebko DET 03/03/2013 DET @ SAS L 18 10 3 9 33.3 0 1 0.0 4 4 100.0 2 3 5 0 0 0 2 3 -6
+p207
+aVRodney Stuckey DET 03/03/2013 DET @ SAS L 19 0 0 5 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -18
+p208
+aVKim English DET 03/03/2013 DET @ SAS L 11 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 1 -8
+p209
+aVJose Calderon DET 03/03/2013 DET @ SAS L 28 14 6 10 60.0 2 3 66.7 0 0 - 0 3 3 2 0 0 0 2 -30
+p210
+aVGreg Monroe DET 03/03/2013 DET @ SAS L 30 16 6 13 46.2 0 0 - 4 4 100.0 1 7 8 4 0 0 4 1 -33
+p211
+aVBrandon Knight DET 03/03/2013 DET @ SAS L 36 8 3 14 21.4 1 6 16.7 1 3 33.3 3 3 6 6 2 0 3 3 -25
+p212
+aVJason Maxiell DET 03/01/2013 DET @ NOH L 31 10 5 6 83.3 0 0 - 0 1 0.0 3 3 6 3 1 2 1 2 -2
+p213
+aVViacheslav Kravtsov DET 03/01/2013 DET @ NOH L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -3
+p214
+aVCharlie Villanueva DET 03/01/2013 DET @ NOH L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 4
+p215
+aVJose Calderon DET 03/01/2013 DET @ NOH L 34 7 2 5 40.0 2 3 66.7 1 1 100.0 0 4 4 11 0 0 2 2 4
+p216
+aVWill Bynum DET 03/01/2013 DET @ NOH L 14 7 2 5 40.0 1 2 50.0 2 2 100.0 0 2 2 1 0 0 1 3 -9
+p217
+aVRodney Stuckey DET 03/01/2013 DET @ NOH L 24 6 3 7 42.9 0 1 0.0 0 0 - 1 5 6 4 1 0 1 0 -12
+p218
+aVGreg Monroe DET 03/01/2013 DET @ NOH L 35 27 11 22 50.0 0 0 - 5 8 62.5 3 7 10 3 1 0 4 4 3
+p219
+aVKim English DET 03/01/2013 DET @ NOH L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p220
+aVKyle Singler DET 03/01/2013 DET @ NOH L 29 10 3 7 42.9 2 3 66.7 2 2 100.0 1 3 4 0 1 0 1 2 -2
+p221
+aVJonas Jerebko DET 03/01/2013 DET @ NOH L 18 4 2 4 50.0 0 1 0.0 0 2 0.0 2 1 3 0 0 1 1 2 -10
+p222
+aVBrandon Knight DET 03/01/2013 DET @ NOH L 37 22 10 18 55.6 2 7 28.6 0 0 - 1 3 4 3 2 0 2 1 11
+p223
+aVGreg Monroe DET 02/27/2013 DET @ WAS W 39 26 12 17 70.6 0 0 - 2 3 66.7 3 8 11 1 4 0 5 4 9
+p224
+aVCharlie Villanueva DET 02/27/2013 DET @ WAS W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 2 1 0 0 1 -9
+p225
+aVJason Maxiell DET 02/27/2013 DET @ WAS W 26 4 2 4 50.0 0 0 - 0 0 - 1 7 8 3 1 4 0 1 21
+p226
+aVViacheslav Kravtsov DET 02/27/2013 DET @ WAS W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p227
+aVJonas Jerebko DET 02/27/2013 DET @ WAS W 12 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 -9
+p228
+aVKyle Singler DET 02/27/2013 DET @ WAS W 27 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 1 1 0 0 2 12
+p229
+aVBrandon Knight DET 02/27/2013 DET @ WAS W 36 32 11 18 61.1 5 6 83.3 5 9 55.6 0 3 3 4 1 0 4 1 3
+p230
+aVKim English DET 02/27/2013 DET @ WAS W 12 10 4 6 66.7 2 2 100.0 0 0 - 0 0 0 0 1 0 0 1 -2
+p231
+aVJose Calderon DET 02/27/2013 DET @ WAS W 36 6 2 6 33.3 0 1 0.0 2 2 100.0 0 4 4 18 1 0 2 1 8
+p232
+aVRodney Stuckey DET 02/27/2013 DET @ WAS W 20 2 1 2 50.0 0 1 0.0 0 2 0.0 0 3 3 2 0 0 2 0 -7
+p233
+aVWill Bynum DET 02/27/2013 DET @ WAS W 14 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 3 0 0 2 1 -13
+p234
+aVGreg Monroe DET 02/25/2013 DET vs. ATL L 31 15 5 9 55.6 0 0 - 5 8 62.5 3 5 8 5 2 1 2 0 -11
+p235
+aVJason Maxiell DET 02/25/2013 DET vs. ATL L 17 7 3 7 42.9 0 0 - 1 2 50.0 1 5 6 0 1 0 0 2 -6
+p236
+aVRodney Stuckey DET 02/25/2013 DET vs. ATL L 36 22 10 17 58.8 0 0 - 2 2 100.0 1 4 5 2 1 0 2 4 -18
+p237
+aVJose Calderon DET 02/25/2013 DET vs. ATL L 33 7 3 11 27.3 1 5 20.0 0 0 - 0 5 5 9 0 0 4 2 -10
+p238
+aVViacheslav Kravtsov DET 02/25/2013 DET vs. ATL L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 0
+p239
+aVJonas Jerebko DET 02/25/2013 DET vs. ATL L 24 21 9 12 75.0 1 3 33.3 2 2 100.0 3 3 6 3 1 0 1 2 4
+p240
+aVKhris Middleton DET 02/25/2013 DET vs. ATL L 23 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 2 1 6
+p241
+aVCharlie Villanueva DET 02/25/2013 DET vs. ATL L 7 2 1 4 25.0 0 2 0.0 0 0 - 2 0 2 0 0 0 1 2 -9
+p242
+aVKyle Singler DET 02/25/2013 DET vs. ATL L 29 13 5 11 45.5 1 3 33.3 2 2 100.0 0 4 4 1 1 0 2 4 -9
+p243
+aVKim English DET 02/25/2013 DET vs. ATL L 23 10 2 5 40.0 0 0 - 6 6 100.0 0 1 1 2 1 0 2 0 -2
+p244
+aVGreg Monroe DET 02/23/2013 DET vs. IND L 34 12 4 16 25.0 0 0 - 4 7 57.1 5 7 12 4 3 0 5 5 -11
+p245
+aVViacheslav Kravtsov DET 02/23/2013 DET vs. IND L 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -7
+p246
+aVCharlie Villanueva DET 02/23/2013 DET vs. IND L 25 5 1 11 9.1 1 5 20.0 2 2 100.0 0 5 5 0 0 1 0 5 -1
+p247
+aVKhris Middleton DET 02/23/2013 DET vs. IND L 26 9 3 7 42.9 1 5 20.0 2 2 100.0 0 2 2 1 0 0 0 3 -1
+p248
+aVKim English DET 02/23/2013 DET vs. IND L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 2 0 0 0 4
+p249
+aVWill Bynum DET 02/23/2013 DET vs. IND L 15 15 7 14 50.0 0 0 - 1 1 100.0 2 1 3 2 1 0 1 2 -10
+p250
+aVKyle Singler DET 02/23/2013 DET vs. IND L 29 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 0 1 0 1 2 -19
+p251
+aVRodney Stuckey DET 02/23/2013 DET vs. IND L 33 11 3 8 37.5 0 1 0.0 5 5 100.0 0 2 2 1 1 0 2 0 -20
+p252
+aVJose Calderon DET 02/23/2013 DET vs. IND L 33 13 5 7 71.4 0 0 - 3 3 100.0 0 5 5 5 1 0 2 0 -8
+p253
+aVJason Maxiell DET 02/23/2013 DET vs. IND L 23 4 2 6 33.3 0 0 - 0 2 0.0 3 3 6 0 0 1 2 2 -17
+p254
+aVKim English DET 02/22/2013 DET @ IND L 20 8 3 8 37.5 1 5 20.0 1 3 33.3 1 2 3 1 1 0 1 4 2
+p255
+aVCharlie Villanueva DET 02/22/2013 DET @ IND L 15 2 0 3 0.0 0 2 0.0 2 2 100.0 0 4 4 0 0 1 1 1 -16
+p256
+aVViacheslav Kravtsov DET 02/22/2013 DET @ IND L 29 14 6 7 85.7 0 0 - 2 10 20.0 5 5 10 1 0 0 0 4 -4
+p257
+aVKyle Singler DET 02/22/2013 DET @ IND L 14 2 1 7 14.3 0 1 0.0 0 0 - 2 1 3 0 0 0 1 2 -21
+p258
+aVRodney Stuckey DET 02/22/2013 DET @ IND L 28 11 5 12 41.7 0 2 0.0 1 2 50.0 1 0 1 2 1 0 2 0 -34
+p259
+aVGreg Monroe DET 02/22/2013 DET @ IND L 22 5 2 9 22.2 0 0 - 1 2 50.0 0 4 4 2 0 1 2 1 -32
+p260
+aVJonas Jerebko DET 02/22/2013 DET @ IND L 20 4 1 5 20.0 1 3 33.3 1 2 50.0 2 2 4 1 1 0 0 3 -1
+p261
+aVWill Bynum DET 02/22/2013 DET @ IND L 22 17 7 12 58.3 0 2 0.0 3 4 75.0 1 0 1 4 1 0 5 4 1
+p262
+aVKhris Middleton DET 02/22/2013 DET @ IND L 24 10 1 7 14.3 1 1 100.0 7 9 77.8 0 3 3 0 1 1 1 2 1
+p263
+aVJose Calderon DET 02/22/2013 DET @ IND L 26 5 1 6 16.7 0 3 0.0 3 3 100.0 0 1 1 3 3 0 0 2 -35
+p264
+aVJason Maxiell DET 02/22/2013 DET @ IND L 20 4 2 6 33.3 0 0 - 0 0 - 3 4 7 1 0 2 3 3 -21
+p265
+aVViacheslav Kravtsov DET 02/20/2013 DET @ CHA W 13 6 3 4 75.0 0 0 - 0 2 0.0 2 2 4 0 0 0 1 3 5
+p266
+aVWill Bynum DET 02/20/2013 DET @ CHA W 26 8 4 9 44.4 0 1 0.0 0 0 - 1 2 3 7 1 0 2 3 -2
+p267
+aVKyle Singler DET 02/20/2013 DET @ CHA W 23 8 4 6 66.7 0 2 0.0 0 0 - 1 2 3 0 0 2 3 6 10
+p268
+aVJose Calderon DET 02/20/2013 DET @ CHA W 29 17 4 8 50.0 4 4 100.0 5 6 83.3 1 1 2 2 0 0 0 1 13
+p269
+aVCharlie Villanueva DET 02/20/2013 DET @ CHA W 26 7 3 8 37.5 1 3 33.3 0 0 - 1 8 9 2 0 2 0 1 7
+p270
+aVRodney Stuckey DET 02/20/2013 DET @ CHA W 30 12 5 11 45.5 0 2 0.0 2 4 50.0 1 6 7 3 1 0 1 4 -6
+p271
+aVBrandon Knight DET 02/20/2013 DET @ CHA W 30 21 7 11 63.6 3 4 75.0 4 4 100.0 0 3 3 5 1 0 1 2 4
+p272
+aVJason Maxiell DET 02/20/2013 DET @ CHA W 17 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 2
+p273
+aVGreg Monroe DET 02/20/2013 DET @ CHA W 35 19 7 13 53.8 0 0 - 5 5 100.0 1 6 7 7 1 3 1 2 1
+p274
+aVJonas Jerebko DET 02/20/2013 DET @ CHA W 9 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -4
+p275
+aVJonas Jerebko DET 02/19/2013 DET vs. MEM L 11 13 5 5 100.0 3 3 100.0 0 0 - 0 2 2 4 0 0 1 1 12
+p276
+aVJason Maxiell DET 02/19/2013 DET vs. MEM L 20 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -9
+p277
+aVJose Calderon DET 02/19/2013 DET vs. MEM L 30 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 7 1 0 3 1 -10
+p278
+aVWill Bynum DET 02/19/2013 DET vs. MEM L 18 5 2 7 28.6 0 1 0.0 1 2 50.0 0 0 0 2 2 0 3 1 -4
+p279
+aVGreg Monroe DET 02/19/2013 DET vs. MEM L 23 9 4 9 44.4 0 0 - 1 1 100.0 2 4 6 2 1 1 1 3 -9
+p280
+aVViacheslav Kravtsov DET 02/19/2013 DET vs. MEM L 25 8 4 5 80.0 0 0 - 0 3 0.0 1 3 4 1 0 1 1 4 -5
+p281
+aVKim English DET 02/19/2013 DET vs. MEM L 16 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 5 0 0 0 2 11
+p282
+aVRodney Stuckey DET 02/19/2013 DET vs. MEM L 23 8 2 4 50.0 0 1 0.0 4 4 100.0 0 1 1 3 0 0 1 2 -20
+p283
+aVKhris Middleton DET 02/19/2013 DET vs. MEM L 9 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 10
+p284
+aVCharlie Villanueva DET 02/19/2013 DET vs. MEM L 17 2 1 8 12.5 0 5 0.0 0 0 - 0 2 2 0 2 2 0 0 -17
+p285
+aVKyle Singler DET 02/19/2013 DET vs. MEM L 22 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 1 0 0 3 2 -9
+p286
+aVBrandon Knight DET 02/19/2013 DET vs. MEM L 26 13 5 11 45.5 3 4 75.0 0 0 - 2 3 5 1 1 0 2 1 -20
+p287
+aVJason Maxiell DET 02/13/2013 DET vs. WAS W 19 1 0 5 0.0 0 0 - 1 4 25.0 2 2 4 1 1 0 2 3 0
+p288
+aVViacheslav Kravtsov DET 02/13/2013 DET vs. WAS W 14 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 2 1 0 4 0
+p289
+aVCharlie Villanueva DET 02/13/2013 DET vs. WAS W 29 11 3 6 50.0 3 4 75.0 2 3 66.7 0 5 5 0 0 2 2 3 11
+p290
+aVJose Calderon DET 02/13/2013 DET vs. WAS W 37 24 9 17 52.9 6 9 66.7 0 0 - 0 5 5 3 1 1 4 3 8
+p291
+aVWill Bynum DET 02/13/2013 DET vs. WAS W 21 20 8 12 66.7 0 0 - 4 4 100.0 1 2 3 8 0 0 4 1 11
+p292
+aVKyle Singler DET 02/13/2013 DET vs. WAS W 38 12 5 10 50.0 0 1 0.0 2 2 100.0 3 4 7 0 1 0 1 1 15
+p293
+aVRodney Stuckey DET 02/13/2013 DET vs. WAS W 20 2 0 7 0.0 0 1 0.0 2 4 50.0 1 1 2 0 2 0 1 0 -1
+p294
+aVBrandon Knight DET 02/13/2013 DET vs. WAS W 29 6 3 8 37.5 0 3 0.0 0 0 - 1 2 3 3 1 0 2 2 0
+p295
+aVGreg Monroe DET 02/13/2013 DET vs. WAS W 34 16 5 12 41.7 0 0 - 6 8 75.0 5 13 18 4 2 0 1 3 11
+p296
+aVKim English DET 02/11/2013 DET vs. NOH L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 1 0 1
+p297
+aVJonas Jerebko DET 02/11/2013 DET vs. NOH L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 1 3
+p298
+aVKyle Singler DET 02/11/2013 DET vs. NOH L 29 14 4 10 40.0 1 2 50.0 5 5 100.0 3 2 5 1 1 0 1 1 -22
+p299
+aVWill Bynum DET 02/11/2013 DET vs. NOH L 22 2 0 8 0.0 0 2 0.0 2 2 100.0 0 3 3 2 2 0 1 4 3
+p300
+aVCharlie Villanueva DET 02/11/2013 DET vs. NOH L 20 5 2 7 28.6 0 3 0.0 1 2 50.0 2 4 6 1 1 0 0 0 -4
+p301
+aVJason Maxiell DET 02/11/2013 DET vs. NOH L 24 5 2 7 28.6 0 0 - 1 2 50.0 1 1 2 0 0 1 3 3 -23
+p302
+aVGreg Monroe DET 02/11/2013 DET vs. NOH L 39 17 8 15 53.3 0 0 - 1 7 14.3 5 6 11 4 2 2 2 2 -10
+p303
+aVJose Calderon DET 02/11/2013 DET vs. NOH L 34 13 5 10 50.0 3 6 50.0 0 0 - 1 3 4 9 4 0 1 3 -17
+p304
+aVBrandon Knight DET 02/11/2013 DET vs. NOH L 25 7 3 10 30.0 1 3 33.3 0 0 - 1 2 3 3 1 0 3 2 -24
+p305
+aVRodney Stuckey DET 02/11/2013 DET vs. NOH L 30 19 4 12 33.3 0 3 0.0 11 13 84.6 0 4 4 1 0 0 0 0 -2
+p306
+aVGreg Monroe DET 02/09/2013 DET @ MIL W 35 14 6 12 50.0 0 0 - 2 3 66.7 3 10 13 4 4 0 4 3 12
+p307
+aVCharlie Villanueva DET 02/09/2013 DET @ MIL W 25 18 7 13 53.8 4 7 57.1 0 0 - 1 12 13 1 0 1 3 3 4
+p308
+aVJason Maxiell DET 02/09/2013 DET @ MIL W 32 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 1 1 4 -3
+p309
+aVRodney Stuckey DET 02/09/2013 DET @ MIL W 26 19 5 9 55.6 1 2 50.0 8 8 100.0 2 1 3 2 1 0 3 1 3
+p310
+aVViacheslav Kravtsov DET 02/09/2013 DET @ MIL W 4 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 2 1 -3
+p311
+aVKyle Singler DET 02/09/2013 DET @ MIL W 29 11 5 11 45.5 0 1 0.0 1 2 50.0 2 3 5 0 0 0 1 1 -3
+p312
+aVJose Calderon DET 02/09/2013 DET @ MIL W 35 23 10 13 76.9 3 4 75.0 0 0 - 1 4 5 10 3 0 3 4 15
+p313
+aVBrandon Knight DET 02/09/2013 DET @ MIL W 25 4 2 13 15.4 0 3 0.0 0 0 - 0 3 3 4 2 0 1 1 0
+p314
+aVWill Bynum DET 02/09/2013 DET @ MIL W 28 12 4 8 50.0 0 0 - 4 4 100.0 1 1 2 3 1 0 2 2 0
+p315
+aVJason Maxiell DET 02/08/2013 DET vs. SAS W 23 7 3 7 42.9 0 0 - 1 1 100.0 1 2 3 0 0 1 0 5 -3
+p316
+aVRodney Stuckey DET 02/08/2013 DET vs. SAS W 24 11 4 7 57.1 1 2 50.0 2 2 100.0 2 4 6 4 1 0 4 1 3
+p317
+aVWill Bynum DET 02/08/2013 DET vs. SAS W 17 9 4 6 66.7 0 0 - 1 1 100.0 0 2 2 5 1 0 1 2 -3
+p318
+aVKyle Singler DET 02/08/2013 DET vs. SAS W 36 14 6 11 54.5 1 3 33.3 1 1 100.0 2 5 7 2 0 0 1 5 12
+p319
+aVJose Calderon DET 02/08/2013 DET vs. SAS W 31 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 8 1 0 0 2 13
+p320
+aVGreg Monroe DET 02/08/2013 DET vs. SAS W 40 26 9 16 56.3 0 0 - 8 10 80.0 5 11 16 5 2 1 5 2 13
+p321
+aVCharlie Villanueva DET 02/08/2013 DET vs. SAS W 33 21 7 15 46.7 5 9 55.6 2 2 100.0 3 5 8 0 0 2 0 1 10
+p322
+aVBrandon Knight DET 02/08/2013 DET vs. SAS W 36 24 10 21 47.6 2 5 40.0 2 3 66.7 2 3 5 2 0 0 1 2 5
+p323
+aVBrandon Knight DET 02/06/2013 DET vs. BKN L 26 12 4 10 40.0 0 3 0.0 4 6 66.7 0 2 2 4 2 0 2 4 -3
+p324
+aVGreg Monroe DET 02/06/2013 DET vs. BKN L 35 23 10 16 62.5 0 0 - 3 6 50.0 3 7 10 2 0 1 2 5 4
+p325
+aVJonas Jerebko DET 02/06/2013 DET vs. BKN L 19 6 2 7 28.6 0 1 0.0 2 2 100.0 3 0 3 1 0 1 0 4 -1
+p326
+aVCharlie Villanueva DET 02/06/2013 DET vs. BKN L 16 2 1 8 12.5 0 4 0.0 0 0 - 0 2 2 1 1 0 1 1 -2
+p327
+aVRodney Stuckey DET 02/06/2013 DET vs. BKN L 23 4 2 7 28.6 0 1 0.0 0 0 - 0 3 3 0 1 0 0 1 -7
+p328
+aVWill Bynum DET 02/06/2013 DET vs. BKN L 20 13 4 9 44.4 0 3 0.0 5 5 100.0 1 3 4 7 2 0 2 2 4
+p329
+aVAndre Drummond DET 02/06/2013 DET vs. BKN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 2 0 2 -1
+p330
+aVJason Maxiell DET 02/06/2013 DET vs. BKN L 20 6 3 8 37.5 0 0 - 0 0 - 4 5 9 0 0 2 2 5 6
+p331
+aVKyle Singler DET 02/06/2013 DET vs. BKN L 34 12 5 7 71.4 1 2 50.0 1 2 50.0 1 4 5 3 0 1 1 2 3
+p332
+aVJose Calderon DET 02/06/2013 DET vs. BKN L 31 8 3 7 42.9 2 3 66.7 0 0 - 0 1 1 9 1 0 3 0 -7
+p333
+aVViacheslav Kravtsov DET 02/06/2013 DET vs. BKN L 11 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 3 -11
+p334
+aVRodney Stuckey DET 02/04/2013 DET @ NYK L 30 14 6 15 40.0 0 1 0.0 2 4 50.0 1 6 7 4 3 0 1 0 -8
+p335
+aVGreg Monroe DET 02/04/2013 DET @ NYK L 35 13 6 13 46.2 0 0 - 1 2 50.0 3 7 10 2 1 3 5 1 -12
+p336
+aVKyle Singler DET 02/04/2013 DET @ NYK L 25 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 3 -9
+p337
+aVBrandon Knight DET 02/04/2013 DET @ NYK L 28 5 2 10 20.0 1 6 16.7 0 0 - 0 1 1 2 0 0 0 0 -12
+p338
+aVWill Bynum DET 02/04/2013 DET @ NYK L 21 13 5 8 62.5 0 0 - 3 4 75.0 0 1 1 1 1 0 3 1 -5
+p339
+aVKim English DET 02/04/2013 DET @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p340
+aVJonas Jerebko DET 02/04/2013 DET @ NYK L 17 8 4 7 57.1 0 0 - 0 0 - 4 1 5 0 3 0 2 3 -7
+p341
+aVJason Maxiell DET 02/04/2013 DET @ NYK L 22 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 1 0 2 3
+p342
+aVViacheslav Kravtsov DET 02/04/2013 DET @ NYK L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p343
+aVCharlie Villanueva DET 02/04/2013 DET @ NYK L 23 6 3 9 33.3 0 1 0.0 0 0 - 4 4 8 2 0 0 0 2 -12
+p344
+aVJose Calderon DET 02/04/2013 DET @ NYK L 27 15 7 12 58.3 1 4 25.0 0 0 - 0 1 1 3 0 0 0 0 -9
+p345
+aVAndre Drummond DET 02/04/2013 DET @ NYK L 8 2 1 6 16.7 0 0 - 0 2 0.0 3 2 5 0 1 1 1 0 -3
+p346
+aVCharlie Villanueva DET 02/03/2013 DET vs. LAL L 16 10 4 9 44.4 2 4 50.0 0 0 - 1 1 2 0 1 0 0 0 3
+p347
+aVAndre Drummond DET 02/03/2013 DET vs. LAL L 23 9 4 10 40.0 0 0 - 1 4 25.0 2 9 11 1 2 4 0 2 11
+p348
+aVBrandon Knight DET 02/03/2013 DET vs. LAL L 34 10 3 13 23.1 0 3 0.0 4 4 100.0 1 4 5 7 3 0 3 2 -10
+p349
+aVJonas Jerebko DET 02/03/2013 DET vs. LAL L 10 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 0 0 0 0 0 -6
+p350
+aVGreg Monroe DET 02/03/2013 DET vs. LAL L 32 20 9 14 64.3 0 0 - 2 2 100.0 1 11 12 2 0 2 4 1 -4
+p351
+aVWill Bynum DET 02/03/2013 DET vs. LAL L 29 18 9 18 50.0 0 1 0.0 0 1 0.0 0 1 1 10 1 0 3 2 15
+p352
+aVKim English DET 02/03/2013 DET vs. LAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -11
+p353
+aVKyle Singler DET 02/03/2013 DET vs. LAL L 40 11 4 12 33.3 2 4 50.0 1 2 50.0 1 5 6 1 0 0 2 4 12
+p354
+aVJason Maxiell DET 02/03/2013 DET vs. LAL L 25 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 0 2 2 1 2 -12
+p355
+aVRodney Stuckey DET 02/03/2013 DET vs. LAL L 23 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 5 0 0 1 3 -3
+p356
+aVKyle Singler DET 02/01/2013 DET vs. CLE W 37 20 9 17 52.9 1 4 25.0 1 2 50.0 4 4 8 1 2 3 2 5 17
+p357
+aVJonas Jerebko DET 02/01/2013 DET vs. CLE W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p358
+aVAndre Drummond DET 02/01/2013 DET vs. CLE W 18 9 4 4 100.0 0 0 - 1 5 20.0 1 4 5 0 0 1 1 0 -9
+p359
+aVWill Bynum DET 02/01/2013 DET vs. CLE W 16 11 4 5 80.0 0 0 - 3 6 50.0 0 0 0 8 0 0 2 5 -9
+p360
+aVKhris Middleton DET 02/01/2013 DET vs. CLE W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p361
+aVKim English DET 02/01/2013 DET vs. CLE W 16 0 0 2 0.0 0 2 0.0 0 0 - 1 3 4 1 0 0 1 1 -5
+p362
+aVGreg Monroe DET 02/01/2013 DET vs. CLE W 36 18 7 16 43.8 0 0 - 4 8 50.0 4 12 16 4 1 2 1 2 21
+p363
+aVRodney Stuckey DET 02/01/2013 DET vs. CLE W 35 14 5 8 62.5 0 1 0.0 4 4 100.0 0 2 2 0 1 0 2 2 20
+p364
+aVBrandon Knight DET 02/01/2013 DET vs. CLE W 32 20 7 14 50.0 2 4 50.0 4 6 66.7 0 6 6 10 2 1 1 3 30
+p365
+aVCharlie Villanueva DET 02/01/2013 DET vs. CLE W 18 10 3 5 60.0 1 3 33.3 3 8 37.5 0 3 3 2 0 4 1 0 4
+p366
+aVJason Maxiell DET 02/01/2013 DET vs. CLE W 23 9 4 8 50.0 0 0 - 1 2 50.0 3 2 5 1 2 0 0 2 16
+p367
+aVViacheslav Kravtsov DET 02/01/2013 DET vs. CLE W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 4
+p368
+aVBrandon Knight DET 01/30/2013 DET @ IND L 28 7 3 12 25.0 0 2 0.0 1 1 100.0 1 0 1 4 0 0 1 0 -9
+p369
+aVKim English DET 01/30/2013 DET @ IND L 14 6 2 6 33.3 0 2 0.0 2 2 100.0 0 1 1 2 1 0 1 2 -2
+p370
+aVGreg Monroe DET 01/30/2013 DET @ IND L 33 18 8 17 47.1 0 0 - 2 6 33.3 3 6 9 0 0 2 4 3 -15
+p371
+aVWill Bynum DET 01/30/2013 DET @ IND L 23 13 6 12 50.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 4 2 -11
+p372
+aVJason Maxiell DET 01/30/2013 DET @ IND L 17 2 1 5 20.0 0 0 - 0 0 - 2 3 5 0 0 2 0 0 -7
+p373
+aVCharlie Villanueva DET 01/30/2013 DET @ IND L 15 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 2 -16
+p374
+aVAndre Drummond DET 01/30/2013 DET @ IND L 24 4 1 3 33.3 0 0 - 2 10 20.0 6 8 14 1 2 3 1 4 -3
+p375
+aVRodney Stuckey DET 01/30/2013 DET @ IND L 34 14 6 16 37.5 1 6 16.7 1 2 50.0 1 2 3 2 2 0 2 2 -17
+p376
+aVJonas Jerebko DET 01/30/2013 DET @ IND L 19 3 0 4 0.0 0 2 0.0 3 4 75.0 1 3 4 0 1 0 0 1 3
+p377
+aVKyle Singler DET 01/30/2013 DET @ IND L 30 5 2 6 33.3 1 1 100.0 0 0 - 1 3 4 0 2 2 0 0 -19
+p378
+aVViacheslav Kravtsov DET 01/30/2013 DET @ IND L 3 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 1
+p379
+aVTayshaun Prince DET 01/29/2013 DET vs. MIL L 24 10 4 9 44.4 0 0 - 2 2 100.0 1 5 6 3 0 0 1 1 -12
+p380
+aVRodney Stuckey DET 01/29/2013 DET vs. MIL L 27 7 1 4 25.0 1 1 100.0 4 6 66.7 0 2 2 1 0 1 2 2 -15
+p381
+aVWill Bynum DET 01/29/2013 DET vs. MIL L 17 2 1 7 14.3 0 2 0.0 0 0 - 0 0 0 2 0 0 2 0 -21
+p382
+aVKyle Singler DET 01/29/2013 DET vs. MIL L 28 12 4 11 36.4 1 4 25.0 3 3 100.0 1 1 2 0 1 0 3 2 -14
+p383
+aVJonas Jerebko DET 01/29/2013 DET vs. MIL L 9 6 3 9 33.3 0 1 0.0 0 2 0.0 2 1 3 0 0 0 0 0 -3
+p384
+aVCharlie Villanueva DET 01/29/2013 DET vs. MIL L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 1 -15
+p385
+aVAustin Daye DET 01/29/2013 DET vs. MIL L 18 3 0 5 0.0 0 1 0.0 3 4 75.0 3 4 7 3 0 0 0 4 -5
+p386
+aVGreg Monroe DET 01/29/2013 DET vs. MIL L 24 14 6 8 75.0 0 0 - 2 3 66.7 4 4 8 4 2 1 5 3 -11
+p387
+aVBrandon Knight DET 01/29/2013 DET vs. MIL L 23 10 3 8 37.5 0 1 0.0 4 4 100.0 0 0 0 3 1 0 4 1 -12
+p388
+aVAndre Drummond DET 01/29/2013 DET vs. MIL L 28 18 9 15 60.0 0 0 - 0 1 0.0 9 9 18 1 2 1 0 3 -21
+p389
+aVJason Maxiell DET 01/29/2013 DET vs. MIL L 20 3 1 5 20.0 0 0 - 1 1 100.0 1 2 3 1 0 1 0 2 -3
+p390
+aVKim English DET 01/29/2013 DET vs. MIL L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 -3
+p391
+aVCharlie Villanueva DET 01/27/2013 DET @ ORL W 25 12 5 12 41.7 2 5 40.0 0 1 0.0 2 3 5 0 1 2 0 1 4
+p392
+aVTayshaun Prince DET 01/27/2013 DET @ ORL W 35 7 3 13 23.1 0 2 0.0 1 2 50.0 2 3 5 4 2 0 3 0 -8
+p393
+aVKim English DET 01/27/2013 DET @ ORL W 19 6 2 3 66.7 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 0 -11
+p394
+aVJason Maxiell DET 01/27/2013 DET @ ORL W 20 4 2 5 40.0 0 0 - 0 1 0.0 0 3 3 0 0 1 0 2 3
+p395
+aVAustin Daye DET 01/27/2013 DET @ ORL W 16 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 1 1 0 1 1 8
+p396
+aVWill Bynum DET 01/27/2013 DET @ ORL W 20 9 3 7 42.9 0 1 0.0 3 4 75.0 0 0 0 12 0 0 2 4 8
+p397
+aVGreg Monroe DET 01/27/2013 DET @ ORL W 33 17 7 11 63.6 0 0 - 3 4 75.0 2 5 7 6 1 2 2 1 -2
+p398
+aVKyle Singler DET 01/27/2013 DET @ ORL W 19 10 3 5 60.0 2 2 100.0 2 2 100.0 0 3 3 2 2 0 0 4 14
+p399
+aVAndre Drummond DET 01/27/2013 DET @ ORL W 16 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 2 1 1 -1
+p400
+aVBrandon Knight DET 01/27/2013 DET @ ORL W 37 31 12 16 75.0 5 8 62.5 2 2 100.0 0 4 4 0 1 0 3 0 -5
+p401
+aVAndre Drummond DET 01/25/2013 DET @ MIA L 25 6 3 6 50.0 0 0 - 0 2 0.0 1 6 7 1 3 2 2 3 -13
+p402
+aVKim English DET 01/25/2013 DET @ MIA L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p403
+aVGreg Monroe DET 01/25/2013 DET @ MIA L 34 31 12 17 70.6 0 0 - 7 8 87.5 6 6 12 0 1 0 3 3 -10
+p404
+aVWill Bynum DET 01/25/2013 DET @ MIA L 22 13 4 7 57.1 1 1 100.0 4 4 100.0 1 1 2 1 0 0 4 1 -7
+p405
+aVJonas Jerebko DET 01/25/2013 DET @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p406
+aVBrandon Knight DET 01/25/2013 DET @ MIA L 28 9 4 7 57.1 0 3 0.0 1 3 33.3 0 0 0 5 1 0 3 3 -16
+p407
+aVCharlie Villanueva DET 01/25/2013 DET @ MIA L 12 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 -13
+p408
+aVRodney Stuckey DET 01/25/2013 DET @ MIA L 25 4 2 6 33.3 0 2 0.0 0 2 0.0 1 1 2 1 1 0 0 0 -2
+p409
+aVAustin Daye DET 01/25/2013 DET @ MIA L 19 9 2 4 50.0 1 1 100.0 4 4 100.0 0 2 2 0 0 0 0 2 -7
+p410
+aVTayshaun Prince DET 01/25/2013 DET @ MIA L 29 8 3 7 42.9 2 3 66.7 0 0 - 2 4 6 2 0 0 3 1 -15
+p411
+aVKyle Singler DET 01/25/2013 DET @ MIA L 21 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 3 0 2 1 -15
+p412
+aVJason Maxiell DET 01/25/2013 DET @ MIA L 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p413
+aVWill Bynum DET 01/23/2013 DET @ CHI L 16 9 3 9 33.3 0 1 0.0 3 3 100.0 1 2 3 1 0 0 1 2 -6
+p414
+aVGreg Monroe DET 01/23/2013 DET @ CHI L 37 9 4 13 30.8 0 0 - 1 3 33.3 3 5 8 6 1 0 2 2 -4
+p415
+aVKyle Singler DET 01/23/2013 DET @ CHI L 25 12 5 7 71.4 2 2 100.0 0 1 0.0 1 1 2 0 1 0 0 3 -5
+p416
+aVBrandon Knight DET 01/23/2013 DET @ CHI L 34 13 4 9 44.4 0 3 0.0 5 5 100.0 1 1 2 7 0 1 2 1 2
+p417
+aVTayshaun Prince DET 01/23/2013 DET @ CHI L 34 11 5 12 41.7 1 2 50.0 0 0 - 0 3 3 1 1 0 0 1 4
+p418
+aVAndre Drummond DET 01/23/2013 DET @ CHI L 22 8 4 6 66.7 0 0 - 0 0 - 4 3 7 0 1 1 1 3 -3
+p419
+aVJason Maxiell DET 01/23/2013 DET @ CHI L 32 6 3 6 50.0 0 0 - 0 0 - 3 8 11 1 1 2 2 3 2
+p420
+aVRodney Stuckey DET 01/23/2013 DET @ CHI L 26 11 5 16 31.3 0 4 0.0 1 2 50.0 0 0 0 4 0 0 3 3 -8
+p421
+aVAustin Daye DET 01/23/2013 DET @ CHI L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 4
+p422
+aVCharlie Villanueva DET 01/23/2013 DET @ CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -1
+p423
+aVRodney Stuckey DET 01/22/2013 DET vs. ORL W 25 14 6 13 46.2 2 5 40.0 0 0 - 1 1 2 1 0 0 1 1 18
+p424
+aVWill Bynum DET 01/22/2013 DET vs. ORL W 26 15 7 14 50.0 0 1 0.0 1 1 100.0 2 2 4 6 0 1 1 2 6
+p425
+aVCharlie Villanueva DET 01/22/2013 DET vs. ORL W 13 6 2 6 33.3 2 5 40.0 0 0 - 0 6 6 2 0 1 0 0 1
+p426
+aVJason Maxiell DET 01/22/2013 DET vs. ORL W 23 11 3 8 37.5 0 0 - 5 5 100.0 5 6 11 1 0 1 1 0 12
+p427
+aVKyle Singler DET 01/22/2013 DET vs. ORL W 33 6 3 4 75.0 0 1 0.0 0 0 - 3 4 7 1 1 0 0 3 0
+p428
+aVAustin Daye DET 01/22/2013 DET vs. ORL W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p429
+aVKim English DET 01/22/2013 DET vs. ORL W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p430
+aVBrandon Knight DET 01/22/2013 DET vs. ORL W 33 18 7 17 41.2 3 7 42.9 1 2 50.0 1 3 4 5 3 0 4 2 8
+p431
+aVTayshaun Prince DET 01/22/2013 DET vs. ORL W 25 6 2 6 33.3 0 1 0.0 2 3 66.7 0 3 3 5 0 0 0 0 18
+p432
+aVAndre Drummond DET 01/22/2013 DET vs. ORL W 24 11 5 7 71.4 0 0 - 1 4 25.0 3 8 11 0 2 2 1 4 13
+p433
+aVGreg Monroe DET 01/22/2013 DET vs. ORL W 29 16 6 12 50.0 0 0 - 4 6 66.7 1 5 6 2 1 0 0 1 6
+p434
+aVTayshaun Prince DET 01/20/2013 DET vs. BOS W 38 14 6 13 46.2 2 2 100.0 0 0 - 0 4 4 1 0 0 2 1 16
+p435
+aVAustin Daye DET 01/20/2013 DET vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -3
+p436
+aVBrandon Knight DET 01/20/2013 DET vs. BOS W 31 15 5 12 41.7 2 6 33.3 3 6 50.0 0 6 6 5 1 0 7 1 14
+p437
+aVJason Maxiell DET 01/20/2013 DET vs. BOS W 24 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 1 1 4 1 2 7
+p438
+aVWill Bynum DET 01/20/2013 DET vs. BOS W 21 15 5 12 41.7 0 1 0.0 5 8 62.5 1 1 2 5 1 0 1 4 4
+p439
+aVRodney Stuckey DET 01/20/2013 DET vs. BOS W 20 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 1 1 2 3 3
+p440
+aVKyle Singler DET 01/20/2013 DET vs. BOS W 35 13 4 11 36.4 2 5 40.0 3 3 100.0 4 4 8 5 3 1 3 4 14
+p441
+aVCharlie Villanueva DET 01/20/2013 DET vs. BOS W 8 6 2 4 50.0 2 3 66.7 0 0 - 0 5 5 0 0 0 1 2 -4
+p442
+aVAndre Drummond DET 01/20/2013 DET vs. BOS W 20 16 5 6 83.3 0 0 - 6 8 75.0 2 5 7 0 1 1 0 2 2
+p443
+aVGreg Monroe DET 01/20/2013 DET vs. BOS W 38 15 6 12 50.0 0 0 - 3 4 75.0 4 7 11 5 1 0 2 1 22
+p444
+aVKyle Singler DET 01/17/2013 DET vs. NYK L 35 15 5 10 50.0 3 6 50.0 2 4 50.0 0 3 3 4 0 1 2 2 -11
+p445
+aVRodney Stuckey DET 01/17/2013 DET vs. NYK L 21 6 2 6 33.3 0 1 0.0 2 4 50.0 0 1 1 3 0 0 2 2 -1
+p446
+aVAustin Daye DET 01/17/2013 DET vs. NYK L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p447
+aVCharlie Villanueva DET 01/17/2013 DET vs. NYK L 12 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 0 0 0 0 1 -8
+p448
+aVBrandon Knight DET 01/17/2013 DET vs. NYK L 18 1 0 4 0.0 0 3 0.0 1 2 50.0 0 1 1 1 0 0 1 2 -9
+p449
+aVWill Bynum DET 01/17/2013 DET vs. NYK L 30 22 10 16 62.5 2 2 100.0 0 0 - 0 2 2 4 1 0 3 2 -6
+p450
+aVViacheslav Kravtsov DET 01/17/2013 DET vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p451
+aVAndre Drummond DET 01/17/2013 DET vs. NYK L 23 11 5 7 71.4 0 0 - 1 2 50.0 4 6 10 1 2 2 0 4 -12
+p452
+aVTayshaun Prince DET 01/17/2013 DET vs. NYK L 35 12 5 10 50.0 0 0 - 2 6 33.3 1 2 3 3 2 0 2 2 -15
+p453
+aVJason Maxiell DET 01/17/2013 DET vs. NYK L 19 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 1 1 2 -9
+p454
+aVGreg Monroe DET 01/17/2013 DET vs. NYK L 36 11 4 12 33.3 0 0 - 3 4 75.0 4 6 10 5 1 0 4 1 -3
+p455
+aVRodney Stuckey DET 01/12/2013 DET vs. UTA L 22 9 2 6 33.3 2 4 50.0 3 4 75.0 0 2 2 2 1 0 1 1 -7
+p456
+aVJason Maxiell DET 01/12/2013 DET vs. UTA L 26 7 2 5 40.0 0 0 - 3 4 75.0 1 5 6 3 0 3 1 3 10
+p457
+aVTayshaun Prince DET 01/12/2013 DET vs. UTA L 33 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 3 0 0 1 1 1
+p458
+aVAustin Daye DET 01/12/2013 DET vs. UTA L 15 5 1 3 33.3 1 2 50.0 2 2 100.0 1 0 1 1 0 2 1 3 -4
+p459
+aVWill Bynum DET 01/12/2013 DET vs. UTA L 19 13 6 6 100.0 0 0 - 1 2 50.0 0 0 0 4 3 0 0 3 0
+p460
+aVAndre Drummond DET 01/12/2013 DET vs. UTA L 21 9 4 5 80.0 0 0 - 1 4 25.0 3 2 5 1 1 1 2 4 -5
+p461
+aVCharlie Villanueva DET 01/12/2013 DET vs. UTA L 16 4 1 5 20.0 1 3 33.3 1 3 33.3 0 0 0 1 1 0 1 2 -11
+p462
+aVGreg Monroe DET 01/12/2013 DET vs. UTA L 32 12 6 9 66.7 0 0 - 0 0 - 2 9 11 3 2 0 7 2 0
+p463
+aVKyle Singler DET 01/12/2013 DET vs. UTA L 20 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 2
+p464
+aVBrandon Knight DET 01/12/2013 DET vs. UTA L 35 16 7 16 43.8 2 7 28.6 0 0 - 0 3 3 1 1 0 2 1 -1
+p465
+aVAndre Drummond DET 01/11/2013 DET @ MIL W 17 8 4 7 57.1 0 0 - 0 0 - 4 7 11 1 1 4 1 0 -10
+p466
+aVRodney Stuckey DET 01/11/2013 DET @ MIL W 22 7 2 7 28.6 1 2 50.0 2 3 66.7 1 3 4 4 1 2 3 2 7
+p467
+aVJason Maxiell DET 01/11/2013 DET @ MIL W 27 10 5 6 83.3 0 0 - 0 2 0.0 2 5 7 0 1 0 1 0 14
+p468
+aVBrandon Knight DET 01/11/2013 DET @ MIL W 34 20 7 16 43.8 3 7 42.9 3 3 100.0 0 4 4 5 2 0 0 2 28
+p469
+aVKim English DET 01/11/2013 DET @ MIL W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p470
+aVTayshaun Prince DET 01/11/2013 DET @ MIL W 28 6 3 12 25.0 0 0 - 0 0 - 0 5 5 4 0 0 0 2 20
+p471
+aVCharlie Villanueva DET 01/11/2013 DET @ MIL W 18 8 3 7 42.9 2 6 33.3 0 0 - 0 3 3 0 1 1 0 0 -7
+p472
+aVAustin Daye DET 01/11/2013 DET @ MIL W 20 7 1 5 20.0 1 4 25.0 4 4 100.0 0 1 1 2 2 0 1 2 -4
+p473
+aVKyle Singler DET 01/11/2013 DET @ MIL W 23 10 3 5 60.0 1 3 33.3 3 3 100.0 3 1 4 3 0 1 3 1 14
+p474
+aVWill Bynum DET 01/11/2013 DET @ MIL W 14 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 2 -12
+p475
+aVGreg Monroe DET 01/11/2013 DET @ MIL W 35 26 11 19 57.9 0 0 - 4 8 50.0 3 8 11 2 0 0 1 1 35
+p476
+aVBrandon Knight DET 01/06/2013 DET vs. CHA L 33 12 5 11 45.5 0 3 0.0 2 4 50.0 3 1 4 1 0 1 4 3 -6
+p477
+aVJason Maxiell DET 01/06/2013 DET vs. CHA L 20 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 3 2 4 7
+p478
+aVTayshaun Prince DET 01/06/2013 DET vs. CHA L 42 21 9 15 60.0 1 3 33.3 2 2 100.0 2 5 7 3 1 1 4 3 -4
+p479
+aVKyle Singler DET 01/06/2013 DET vs. CHA L 17 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 1 0 1 3 5 5
+p480
+aVGreg Monroe DET 01/06/2013 DET vs. CHA L 37 18 7 10 70.0 0 0 - 4 5 80.0 4 10 14 6 0 1 1 1 3
+p481
+aVAndre Drummond DET 01/06/2013 DET vs. CHA L 28 10 5 6 83.3 0 0 - 0 2 0.0 2 4 6 1 0 3 1 2 -13
+p482
+aVRodney Stuckey DET 01/06/2013 DET vs. CHA L 34 18 6 11 54.5 3 5 60.0 3 4 75.0 0 0 0 1 3 0 3 3 -8
+p483
+aVWill Bynum DET 01/06/2013 DET vs. CHA L 24 5 2 9 22.2 1 5 20.0 0 0 - 0 2 2 9 1 0 1 2 -13
+p484
+aVAustin Daye DET 01/06/2013 DET vs. CHA L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -1
+p485
+aVCharlie Villanueva DET 01/06/2013 DET vs. CHA L 19 9 3 8 37.5 3 8 37.5 0 0 - 0 2 2 0 0 1 2 2 -5
+p486
+aVAndre Drummond DET 01/04/2013 DET vs. ATL W 20 6 3 5 60.0 0 0 - 0 0 - 1 8 9 0 0 2 0 4 8
+p487
+aVCharlie Villanueva DET 01/04/2013 DET vs. ATL W 13 0 0 4 0.0 0 2 0.0 0 0 - 1 3 4 0 1 2 0 3 -7
+p488
+aVWill Bynum DET 01/04/2013 DET vs. ATL W 17 5 2 8 25.0 0 2 0.0 1 2 50.0 0 3 3 5 0 0 3 1 -6
+p489
+aVGreg Monroe DET 01/04/2013 DET vs. ATL W 34 18 5 14 35.7 0 0 - 8 10 80.0 5 4 9 1 3 0 2 3 -5
+p490
+aVTayshaun Prince DET 01/04/2013 DET vs. ATL W 29 6 2 12 16.7 1 1 100.0 1 2 50.0 3 3 6 2 0 1 1 1 -4
+p491
+aVKyle Singler DET 01/04/2013 DET vs. ATL W 16 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -4
+p492
+aVJason Maxiell DET 01/04/2013 DET vs. ATL W 29 10 4 6 66.7 0 0 - 2 5 40.0 4 6 10 2 0 3 1 1 6
+p493
+aVAustin Daye DET 01/04/2013 DET vs. ATL W 22 20 9 11 81.8 2 4 50.0 0 1 0.0 1 5 6 1 0 0 2 1 6
+p494
+aVBrandon Knight DET 01/04/2013 DET vs. ATL W 36 8 4 11 36.4 0 5 0.0 0 0 - 0 3 3 4 2 0 2 1 -8
+p495
+aVRodney Stuckey DET 01/04/2013 DET vs. ATL W 24 10 5 11 45.5 0 1 0.0 0 1 0.0 1 3 4 2 1 1 2 1 19
+p496
+aVWill Bynum DET 01/01/2013 DET vs. SAC W 21 15 4 9 44.4 1 1 100.0 6 6 100.0 2 0 2 4 1 0 2 1 0
+p497
+aVAndre Drummond DET 01/01/2013 DET vs. SAC W 21 7 3 6 50.0 0 0 - 1 2 50.0 3 8 11 0 1 3 0 2 11
+p498
+aVBrandon Knight DET 01/01/2013 DET vs. SAC W 35 20 8 13 61.5 2 6 33.3 2 3 66.7 0 2 2 4 0 0 2 0 5
+p499
+aVKyle Singler DET 01/01/2013 DET vs. SAC W 33 4 2 5 40.0 0 2 0.0 0 0 - 0 4 4 2 1 0 1 1 1
+p500
+aVGreg Monroe DET 01/01/2013 DET vs. SAC W 38 18 6 13 46.2 0 0 - 6 8 75.0 4 7 11 3 1 2 4 1 4
+p501
+aVCharlie Villanueva DET 01/01/2013 DET vs. SAC W 11 9 3 5 60.0 3 5 60.0 0 0 - 0 1 1 1 1 1 0 1 10
+p502
+aVJason Maxiell DET 01/01/2013 DET vs. SAC W 25 7 3 6 50.0 0 0 - 1 2 50.0 3 2 5 0 1 1 4 3 -14
+p503
+aVTayshaun Prince DET 01/01/2013 DET vs. SAC W 35 10 5 8 62.5 0 2 0.0 0 0 - 1 5 6 3 1 1 4 2 -2
+p504
+aVAustin Daye DET 01/01/2013 DET vs. SAC W 21 13 5 10 50.0 2 4 50.0 1 1 100.0 0 2 2 2 0 0 0 4 15
+p505
+aVAndre Drummond DET 12/30/2012 DET vs. MIL W 19 8 4 4 100.0 0 0 - 0 0 - 2 5 7 0 1 2 0 2 3
+p506
+aVKim English DET 12/30/2012 DET vs. MIL W 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p507
+aVTayshaun Prince DET 12/30/2012 DET vs. MIL W 35 20 8 16 50.0 0 2 0.0 4 4 100.0 0 2 2 2 0 0 0 0 -2
+p508
+aVWill Bynum DET 12/30/2012 DET vs. MIL W 24 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 5 0 1 5 2 6
+p509
+aVKyle Singler DET 12/30/2012 DET vs. MIL W 31 8 2 11 18.2 0 2 0.0 4 4 100.0 5 1 6 0 3 1 1 0 5
+p510
+aVGreg Monroe DET 12/30/2012 DET vs. MIL W 29 14 6 12 50.0 0 0 - 2 3 66.7 4 6 10 2 0 0 3 2 -1
+p511
+aVCharlie Villanueva DET 12/30/2012 DET vs. MIL W 22 11 4 8 50.0 3 7 42.9 0 0 - 0 3 3 1 1 0 1 0 -3
+p512
+aVBrandon Knight DET 12/30/2012 DET vs. MIL W 35 11 4 12 33.3 2 5 40.0 1 2 50.0 2 1 3 3 0 0 4 3 -5
+p513
+aVJason Maxiell DET 12/30/2012 DET vs. MIL W 26 10 5 8 62.5 0 0 - 0 0 - 3 7 10 3 0 0 2 1 5
+p514
+aVAustin Daye DET 12/30/2012 DET vs. MIL W 13 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 0 0 1 0 3 4
+p515
+aVAndre Drummond DET 12/28/2012 DET vs. MIA W 23 10 5 7 71.4 0 0 - 0 0 - 3 7 10 0 2 0 2 5 12
+p516
+aVKyle Singler DET 12/28/2012 DET vs. MIA W 31 12 5 11 45.5 1 3 33.3 1 1 100.0 2 3 5 2 1 0 1 2 14
+p517
+aVJason Maxiell DET 12/28/2012 DET vs. MIA W 19 9 4 7 57.1 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 -7
+p518
+aVAustin Daye DET 12/28/2012 DET vs. MIA W 29 11 4 5 80.0 2 2 100.0 1 2 50.0 0 4 4 2 0 2 1 4 17
+p519
+aVCharlie Villanueva DET 12/28/2012 DET vs. MIA W 26 18 7 10 70.0 4 5 80.0 0 0 - 1 5 6 0 1 0 1 1 21
+p520
+aVBrandon Knight DET 12/28/2012 DET vs. MIA W 20 7 1 3 33.3 1 3 33.3 4 6 66.7 0 3 3 2 1 0 2 3 -7
+p521
+aVGreg Monroe DET 12/28/2012 DET vs. MIA W 28 6 3 6 50.0 0 0 - 0 1 0.0 1 6 7 3 0 0 5 1 -6
+p522
+aVWill Bynum DET 12/28/2012 DET vs. MIA W 28 25 10 16 62.5 3 4 75.0 2 3 66.7 0 2 2 10 1 0 2 2 17
+p523
+aVTayshaun Prince DET 12/28/2012 DET vs. MIA W 36 11 4 9 44.4 1 2 50.0 2 2 100.0 0 0 0 4 0 0 0 2 -11
+p524
+aVWill Bynum DET 12/26/2012 DET @ ATL L 36 31 13 26 50.0 4 6 66.7 1 2 50.0 2 2 4 4 1 0 2 4 6
+p525
+aVAustin Daye DET 12/26/2012 DET @ ATL L 32 8 3 6 50.0 2 3 66.7 0 0 - 2 9 11 1 1 0 0 2 17
+p526
+aVRodney Stuckey DET 12/26/2012 DET @ ATL L 44 16 7 19 36.8 1 3 33.3 1 1 100.0 1 4 5 11 0 0 3 4 1
+p527
+aVAndre Drummond DET 12/26/2012 DET @ ATL L 36 16 7 9 77.8 0 0 - 2 4 50.0 7 5 12 0 2 1 3 2 7
+p528
+aVCharlie Villanueva DET 12/26/2012 DET @ ATL L 32 14 5 12 41.7 4 9 44.4 0 2 0.0 0 7 7 1 0 2 0 5 16
+p529
+aVTayshaun Prince DET 12/26/2012 DET @ ATL L 25 14 6 12 50.0 2 2 100.0 0 0 - 2 5 7 0 0 0 0 0 -21
+p530
+aVKyle Singler DET 12/26/2012 DET @ ATL L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 2 0 -11
+p531
+aVBrandon Knight DET 12/26/2012 DET @ ATL L 23 9 3 8 37.5 1 3 33.3 2 2 100.0 1 3 4 2 0 1 4 1 -13
+p532
+aVJason Maxiell DET 12/26/2012 DET @ ATL L 22 1 0 3 0.0 0 0 - 1 2 50.0 4 2 6 0 0 0 0 4 -16
+p533
+aVGreg Monroe DET 12/26/2012 DET @ ATL L 26 10 4 11 36.4 0 0 - 2 2 100.0 2 2 4 2 1 0 3 1 -21
+p534
+aVGreg Monroe DET 12/22/2012 DET @ WAS W 29 13 6 11 54.5 0 0 - 1 3 33.3 3 5 8 0 1 0 2 4 4
+p535
+aVWill Bynum DET 12/22/2012 DET @ WAS W 13 5 2 4 50.0 1 1 100.0 0 0 - 1 0 1 2 0 0 0 3 -1
+p536
+aVAustin Daye DET 12/22/2012 DET @ WAS W 23 6 2 6 33.3 2 2 100.0 0 0 - 2 3 5 3 0 0 1 2 9
+p537
+aVCharlie Villanueva DET 12/22/2012 DET @ WAS W 22 19 8 13 61.5 3 6 50.0 0 0 - 3 4 7 2 2 0 1 1 11
+p538
+aVJason Maxiell DET 12/22/2012 DET @ WAS W 21 12 5 10 50.0 0 0 - 2 2 100.0 1 4 5 0 1 2 2 5 10
+p539
+aVBrandon Knight DET 12/22/2012 DET @ WAS W 31 10 3 12 25.0 1 4 25.0 3 3 100.0 1 4 5 4 1 0 2 4 -1
+p540
+aVRodney Stuckey DET 12/22/2012 DET @ WAS W 35 18 4 12 33.3 1 3 33.3 9 10 90.0 0 2 2 8 0 0 5 0 -6
+p541
+aVKyle Singler DET 12/22/2012 DET @ WAS W 30 2 1 6 16.7 0 3 0.0 0 0 - 1 6 7 0 2 0 2 3 14
+p542
+aVAndre Drummond DET 12/22/2012 DET @ WAS W 24 4 2 8 25.0 0 0 - 0 0 - 4 7 11 1 0 1 1 3 -7
+p543
+aVTayshaun Prince DET 12/22/2012 DET @ WAS W 14 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 2 0 0 1 0 12
+p544
+aVTayshaun Prince DET 12/21/2012 DET vs. WAS W 26 8 3 13 23.1 1 2 50.0 1 1 100.0 3 3 6 4 0 1 2 1 12
+p545
+aVJonas Jerebko DET 12/21/2012 DET vs. WAS W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 4 4 0 1 0 0 0 7
+p546
+aVBrandon Knight DET 12/21/2012 DET vs. WAS W 30 15 4 11 36.4 2 6 33.3 5 7 71.4 0 2 2 4 0 0 2 1 26
+p547
+aVRodney Stuckey DET 12/21/2012 DET vs. WAS W 17 11 4 6 66.7 3 3 100.0 0 0 - 1 1 2 5 0 0 1 1 13
+p548
+aVAustin Daye DET 12/21/2012 DET vs. WAS W 24 5 2 9 22.2 1 2 50.0 0 0 - 0 7 7 1 1 2 1 2 19
+p549
+aVKim English DET 12/21/2012 DET vs. WAS W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 7
+p550
+aVJason Maxiell DET 12/21/2012 DET vs. WAS W 20 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 3 0 2 14
+p551
+aVKyle Singler DET 12/21/2012 DET vs. WAS W 28 10 4 10 40.0 1 4 25.0 1 1 100.0 5 0 5 1 0 1 1 1 13
+p552
+aVAndre Drummond DET 12/21/2012 DET vs. WAS W 21 11 5 7 71.4 0 0 - 1 4 25.0 5 9 14 2 1 5 1 1 10
+p553
+aVWill Bynum DET 12/21/2012 DET vs. WAS W 12 8 4 7 57.1 0 2 0.0 0 0 - 1 0 1 2 0 0 1 3 6
+p554
+aVViacheslav Kravtsov DET 12/21/2012 DET vs. WAS W 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 0 7
+p555
+aVCharlie Villanueva DET 12/21/2012 DET vs. WAS W 18 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 1 0 0 0 1 8
+p556
+aVGreg Monroe DET 12/21/2012 DET vs. WAS W 26 15 5 12 41.7 0 0 - 5 6 83.3 0 9 9 3 1 1 1 2 18
+p557
+aVJason Maxiell DET 12/19/2012 DET @ TOR L 21 6 2 6 33.3 0 0 - 2 4 50.0 3 1 4 0 0 0 1 0 -7
+p558
+aVKyle Singler DET 12/19/2012 DET @ TOR L 31 9 3 9 33.3 1 2 50.0 2 2 100.0 4 2 6 0 0 0 0 6 -16
+p559
+aVAustin Daye DET 12/19/2012 DET @ TOR L 15 3 1 6 16.7 1 3 33.3 0 0 - 1 0 1 0 0 1 1 1 -4
+p560
+aVBrandon Knight DET 12/19/2012 DET @ TOR L 36 2 1 10 10.0 0 1 0.0 0 0 - 2 2 4 6 0 0 2 0 3
+p561
+aVTayshaun Prince DET 12/19/2012 DET @ TOR L 33 9 3 6 50.0 0 0 - 3 4 75.0 2 4 6 2 1 0 0 5 -2
+p562
+aVGreg Monroe DET 12/19/2012 DET @ TOR L 35 35 14 22 63.6 0 0 - 7 8 87.5 6 4 10 2 2 0 1 2 5
+p563
+aVAndre Drummond DET 12/19/2012 DET @ TOR L 20 6 2 3 66.7 0 0 - 2 7 28.6 2 6 8 0 1 1 1 1 -4
+p564
+aVCharlie Villanueva DET 12/19/2012 DET @ TOR L 20 8 4 10 40.0 0 5 0.0 0 0 - 2 2 4 1 0 0 1 0 -2
+p565
+aVRodney Stuckey DET 12/19/2012 DET @ TOR L 29 13 5 12 41.7 1 1 100.0 2 5 40.0 0 1 1 4 0 0 3 4 -3
+p566
+aVCharlie Villanueva DET 12/17/2012 DET vs. LAC L 12 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p567
+aVAndre Drummond DET 12/17/2012 DET vs. LAC L 20 7 2 8 25.0 0 0 - 3 4 75.0 2 4 6 0 0 3 0 1 -4
+p568
+aVBrandon Knight DET 12/17/2012 DET vs. LAC L 36 16 5 16 31.3 3 10 30.0 3 5 60.0 2 3 5 5 0 0 5 4 -8
+p569
+aVWill Bynum DET 12/17/2012 DET vs. LAC L 15 6 3 5 60.0 0 0 - 0 0 - 1 0 1 2 1 0 4 1 -10
+p570
+aVGreg Monroe DET 12/17/2012 DET vs. LAC L 39 11 4 7 57.1 0 0 - 3 6 50.0 0 7 7 6 0 1 3 1 -10
+p571
+aVTayshaun Prince DET 12/17/2012 DET vs. LAC L 36 15 6 12 50.0 1 3 33.3 2 2 100.0 2 5 7 0 2 1 1 0 -8
+p572
+aVAustin Daye DET 12/17/2012 DET vs. LAC L 18 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -11
+p573
+aVJason Maxiell DET 12/17/2012 DET vs. LAC L 26 2 1 6 16.7 0 0 - 0 2 0.0 0 2 2 0 1 1 1 5 -9
+p574
+aVKyle Singler DET 12/17/2012 DET vs. LAC L 39 11 5 10 50.0 1 3 33.3 0 0 - 1 2 3 0 0 1 1 3 1
+p575
+aVKyle Singler DET 12/15/2012 DET vs. IND L 30 7 3 9 33.3 1 3 33.3 0 0 - 2 3 5 1 1 0 2 2 -10
+p576
+aVRodney Stuckey DET 12/15/2012 DET vs. IND L 32 15 6 14 42.9 0 1 0.0 3 4 75.0 0 5 5 7 0 0 1 3 3
+p577
+aVTayshaun Prince DET 12/15/2012 DET vs. IND L 32 4 2 7 28.6 0 0 - 0 1 0.0 0 1 1 0 0 0 3 1 -19
+p578
+aVJason Maxiell DET 12/15/2012 DET vs. IND L 25 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 2 0 0 2 -14
+p579
+aVCharlie Villanueva DET 12/15/2012 DET vs. IND L 9 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 0 0 0 0 0 -1
+p580
+aVBrandon Knight DET 12/15/2012 DET vs. IND L 33 14 6 17 35.3 2 5 40.0 0 0 - 2 2 4 3 0 0 2 4 -15
+p581
+aVGreg Monroe DET 12/15/2012 DET vs. IND L 33 18 8 15 53.3 0 0 - 2 3 66.7 4 4 8 4 0 1 2 1 -15
+p582
+aVCorey Maggette DET 12/15/2012 DET vs. IND L 16 6 1 7 14.3 0 2 0.0 4 5 80.0 0 2 2 1 1 0 0 1 8
+p583
+aVAndre Drummond DET 12/15/2012 DET vs. IND L 29 11 5 7 71.4 0 0 - 1 2 50.0 2 7 9 1 1 3 0 2 8
+p584
+aVBrandon Knight DET 12/14/2012 DET @ BKN L 47 22 8 18 44.4 5 6 83.3 1 2 50.0 1 4 5 5 1 0 3 3 9
+p585
+aVKyle Singler DET 12/14/2012 DET @ BKN L 32 8 4 12 33.3 0 3 0.0 0 0 - 2 6 8 3 1 0 0 3 -1
+p586
+aVJason Maxiell DET 12/14/2012 DET @ BKN L 38 13 3 8 37.5 0 0 - 7 8 87.5 2 0 2 1 0 0 1 3 -5
+p587
+aVCorey Maggette DET 12/14/2012 DET @ BKN L 11 2 0 3 0.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 0 2 -3
+p588
+aVCharlie Villanueva DET 12/14/2012 DET @ BKN L 16 4 1 6 16.7 0 2 0.0 2 2 100.0 2 2 4 1 1 1 0 1 -2
+p589
+aVRodney Stuckey DET 12/14/2012 DET @ BKN L 40 19 7 17 41.2 0 3 0.0 5 6 83.3 1 5 6 3 0 0 0 1 -16
+p590
+aVTayshaun Prince DET 12/14/2012 DET @ BKN L 44 12 6 12 50.0 0 0 - 0 0 - 0 10 10 6 1 0 2 3 6
+p591
+aVGreg Monroe DET 12/14/2012 DET @ BKN L 43 17 7 15 46.7 0 0 - 3 6 50.0 3 5 8 2 1 0 3 4 8
+p592
+aVAndre Drummond DET 12/14/2012 DET @ BKN L 18 8 4 8 50.0 0 0 - 0 0 - 7 2 9 0 0 3 2 1 -6
+p593
+aVBrandon Knight DET 12/11/2012 DET vs. DEN L 38 20 8 16 50.0 2 5 40.0 2 2 100.0 0 4 4 5 1 0 1 4 -3
+p594
+aVTayshaun Prince DET 12/11/2012 DET vs. DEN L 32 8 4 9 44.4 0 1 0.0 0 0 - 0 6 6 2 0 1 1 1 -1
+p595
+aVRodney Stuckey DET 12/11/2012 DET vs. DEN L 28 17 5 12 41.7 2 3 66.7 5 5 100.0 1 2 3 2 1 0 5 6 -8
+p596
+aVKyle Singler DET 12/11/2012 DET vs. DEN L 28 9 4 12 33.3 0 2 0.0 1 2 50.0 0 3 3 2 0 1 0 2 3
+p597
+aVCorey Maggette DET 12/11/2012 DET vs. DEN L 16 6 2 4 50.0 0 0 - 2 4 50.0 1 1 2 1 0 0 1 4 -6
+p598
+aVWill Bynum DET 12/11/2012 DET vs. DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p599
+aVJason Maxiell DET 12/11/2012 DET vs. DEN L 32 18 6 11 54.5 0 0 - 6 10 60.0 3 3 6 0 1 6 1 4 -7
+p600
+aVCharlie Villanueva DET 12/11/2012 DET vs. DEN L 16 3 1 4 25.0 1 2 50.0 0 0 - 1 3 4 3 0 1 1 0 0
+p601
+aVGreg Monroe DET 12/11/2012 DET vs. DEN L 27 6 1 9 11.1 0 0 - 4 6 66.7 5 7 12 3 3 0 5 5 1
+p602
+aVAndre Drummond DET 12/11/2012 DET vs. DEN L 21 7 3 4 75.0 0 0 - 1 2 50.0 3 8 11 0 2 1 1 1 -8
+p603
+aVBrandon Knight DET 12/10/2012 DET @ PHI L 38 22 8 18 44.4 2 6 33.3 4 6 66.7 2 1 3 4 2 0 2 4 -6
+p604
+aVCorey Maggette DET 12/10/2012 DET @ PHI L 8 3 0 2 0.0 0 1 0.0 3 4 75.0 1 1 2 0 0 0 0 0 -3
+p605
+aVJason Maxiell DET 12/10/2012 DET @ PHI L 26 2 1 10 10.0 0 0 - 0 0 - 4 7 11 0 1 2 4 3 -6
+p606
+aVRodney Stuckey DET 12/10/2012 DET @ PHI L 31 19 5 14 35.7 0 4 0.0 9 9 100.0 0 2 2 5 0 0 2 2 3
+p607
+aVTayshaun Prince DET 12/10/2012 DET @ PHI L 37 16 6 12 50.0 0 1 0.0 4 4 100.0 4 4 8 2 1 1 1 0 -12
+p608
+aVCharlie Villanueva DET 12/10/2012 DET @ PHI L 22 8 3 7 42.9 2 5 40.0 0 0 - 2 3 5 1 2 0 2 4 1
+p609
+aVKyle Singler DET 12/10/2012 DET @ PHI L 29 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 2 -5
+p610
+aVAndre Drummond DET 12/10/2012 DET @ PHI L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 2 0 2 1
+p611
+aVGreg Monroe DET 12/10/2012 DET @ PHI L 35 22 7 13 53.8 0 0 - 8 10 80.0 1 6 7 3 1 0 2 3 -8
+p612
+aVJason Maxiell DET 12/08/2012 DET @ CLE W 30 10 4 7 57.1 0 0 - 2 4 50.0 2 2 4 0 0 1 1 4 13
+p613
+aVCharlie Villanueva DET 12/08/2012 DET @ CLE W 16 6 2 5 40.0 2 4 50.0 0 0 - 1 2 3 1 0 0 1 1 -8
+p614
+aVRodney Stuckey DET 12/08/2012 DET @ CLE W 29 10 4 10 40.0 2 4 50.0 0 0 - 0 2 2 6 1 1 0 1 11
+p615
+aVGreg Monroe DET 12/08/2012 DET @ CLE W 29 11 2 8 25.0 0 0 - 7 9 77.8 1 3 4 3 1 0 3 2 -1
+p616
+aVAndre Drummond DET 12/08/2012 DET @ CLE W 21 9 4 6 66.7 0 0 - 1 3 33.3 1 2 3 0 1 1 0 4 10
+p617
+aVCorey Maggette DET 12/08/2012 DET @ CLE W 7 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 2 -7
+p618
+aVKyle Singler DET 12/08/2012 DET @ CLE W 35 9 2 4 50.0 0 1 0.0 5 5 100.0 2 0 2 1 1 0 2 4 1
+p619
+aVBrandon Knight DET 12/08/2012 DET @ CLE W 38 30 10 20 50.0 5 6 83.3 5 6 83.3 2 5 7 5 1 1 1 3 13
+p620
+aVTayshaun Prince DET 12/08/2012 DET @ CLE W 34 14 5 11 45.5 0 0 - 4 4 100.0 0 8 8 1 0 0 1 1 3
+p621
+aVBrandon Knight DET 12/07/2012 DET vs. CHI L 35 21 6 11 54.5 3 3 100.0 6 7 85.7 0 1 1 2 0 0 3 4 -10
+p622
+aVRodney Stuckey DET 12/07/2012 DET vs. CHI L 36 24 7 12 58.3 2 3 66.7 8 8 100.0 0 1 1 7 2 1 2 3 9
+p623
+aVTayshaun Prince DET 12/07/2012 DET vs. CHI L 34 13 4 9 44.4 0 0 - 5 6 83.3 0 2 2 1 0 0 0 0 -11
+p624
+aVCharlie Villanueva DET 12/07/2012 DET vs. CHI L 21 15 6 9 66.7 3 5 60.0 0 0 - 1 1 2 1 1 0 0 2 0
+p625
+aVGreg Monroe DET 12/07/2012 DET vs. CHI L 25 13 6 13 46.2 0 0 - 1 2 50.0 3 2 5 2 1 0 1 1 -7
+p626
+aVAndre Drummond DET 12/07/2012 DET vs. CHI L 23 7 3 3 100.0 0 0 - 1 2 50.0 0 4 4 0 1 0 0 2 3
+p627
+aVKyle Singler DET 12/07/2012 DET vs. CHI L 24 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 0 0 0 1 3 -7
+p628
+aVCorey Maggette DET 12/07/2012 DET vs. CHI L 16 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 2 9
+p629
+aVJason Maxiell DET 12/07/2012 DET vs. CHI L 27 6 2 5 40.0 0 0 - 2 4 50.0 1 8 9 0 1 0 0 2 -6
+p630
+aVKyle Singler DET 12/05/2012 DET vs. GSW L 32 3 1 6 16.7 1 2 50.0 0 0 - 1 2 3 0 0 0 2 4 -10
+p631
+aVGreg Monroe DET 12/05/2012 DET vs. GSW L 22 9 3 6 50.0 0 0 - 3 4 75.0 2 3 5 3 0 1 4 4 -24
+p632
+aVCorey Maggette DET 12/05/2012 DET vs. GSW L 23 10 3 7 42.9 0 1 0.0 4 6 66.7 1 2 3 1 1 0 1 3 -8
+p633
+aVBrandon Knight DET 12/05/2012 DET vs. GSW L 24 4 1 9 11.1 1 7 14.3 1 3 33.3 2 2 4 3 0 0 4 2 3
+p634
+aVAndre Drummond DET 12/05/2012 DET vs. GSW L 31 15 6 8 75.0 0 0 - 3 7 42.9 4 8 12 0 1 2 1 2 17
+p635
+aVTayshaun Prince DET 12/05/2012 DET vs. GSW L 35 24 10 18 55.6 2 3 66.7 2 2 100.0 0 2 2 5 0 0 1 1 -5
+p636
+aVJason Maxiell DET 12/05/2012 DET vs. GSW L 24 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 1 0 1 1 3 -22
+p637
+aVCharlie Villanueva DET 12/05/2012 DET vs. GSW L 19 11 5 10 50.0 1 3 33.3 0 0 - 2 2 4 0 1 1 0 4 15
+p638
+aVRodney Stuckey DET 12/05/2012 DET vs. GSW L 31 17 5 11 45.5 1 5 20.0 6 7 85.7 1 3 4 9 1 0 3 3 -1
+p639
+aVCharlie Villanueva DET 12/03/2012 DET vs. CLE W 13 2 1 6 16.7 0 4 0.0 0 0 - 0 0 0 0 1 1 0 1 2
+p640
+aVJason Maxiell DET 12/03/2012 DET vs. CLE W 28 12 6 12 50.0 0 0 - 0 0 - 0 6 6 0 0 5 1 2 10
+p641
+aVAndre Drummond DET 12/03/2012 DET vs. CLE W 20 7 3 8 37.5 0 0 - 1 4 25.0 9 3 12 1 1 3 0 2 -1
+p642
+aVGreg Monroe DET 12/03/2012 DET vs. CLE W 36 9 4 10 40.0 0 0 - 1 3 33.3 4 10 14 5 2 2 3 4 9
+p643
+aVKyle Singler DET 12/03/2012 DET vs. CLE W 33 15 6 14 42.9 3 6 50.0 0 0 - 2 4 6 1 0 1 2 2 14
+p644
+aVCorey Maggette DET 12/03/2012 DET vs. CLE W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 2 4
+p645
+aVRodney Stuckey DET 12/03/2012 DET vs. CLE W 27 8 4 9 44.4 0 2 0.0 0 1 0.0 0 3 3 6 1 1 1 1 -3
+p646
+aVBrandon Knight DET 12/03/2012 DET vs. CLE W 34 17 5 13 38.5 0 4 0.0 7 7 100.0 0 5 5 5 0 0 3 1 9
+p647
+aVTayshaun Prince DET 12/03/2012 DET vs. CLE W 34 15 6 10 60.0 1 2 50.0 2 2 100.0 0 2 2 2 0 0 0 1 6
+p648
+aVCorey Maggette DET 12/01/2012 DET @ DAL L 11 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p649
+aVCharlie Villanueva DET 12/01/2012 DET @ DAL L 15 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 2 0 0 0 0 -8
+p650
+aVAndre Drummond DET 12/01/2012 DET @ DAL L 12 2 1 1 100.0 0 0 - 0 0 - 1 3 4 2 0 1 0 0 1
+p651
+aVRodney Stuckey DET 12/01/2012 DET @ DAL L 28 9 4 11 36.4 1 5 20.0 0 0 - 1 4 5 6 0 0 2 2 1
+p652
+aVGreg Monroe DET 12/01/2012 DET @ DAL L 32 8 4 17 23.5 0 0 - 0 1 0.0 7 8 15 2 1 0 3 0 -17
+p653
+aVTayshaun Prince DET 12/01/2012 DET @ DAL L 37 12 5 14 35.7 1 2 50.0 1 2 50.0 3 2 5 1 0 1 1 2 -10
+p654
+aVJason Maxiell DET 12/01/2012 DET @ DAL L 37 10 4 11 36.4 0 0 - 2 2 100.0 1 11 12 0 2 5 2 2 -6
+p655
+aVBrandon Knight DET 12/01/2012 DET @ DAL L 35 20 6 14 42.9 2 6 33.3 6 7 85.7 1 3 4 2 3 0 3 2 -10
+p656
+aVKyle Singler DET 12/01/2012 DET @ DAL L 33 12 3 6 50.0 1 3 33.3 5 6 83.3 1 3 4 1 1 0 4 5 -21
+p657
+aVRodney Stuckey DET 11/30/2012 DET @ MEM L 28 6 3 11 27.3 0 2 0.0 0 0 - 2 2 4 3 0 1 1 2 -12
+p658
+aVGreg Monroe DET 11/30/2012 DET @ MEM L 31 17 7 15 46.7 0 0 - 3 3 100.0 1 8 9 2 2 0 7 4 -10
+p659
+aVAndre Drummond DET 11/30/2012 DET @ MEM L 19 4 2 3 66.7 0 1 0.0 0 0 - 4 4 8 0 1 0 2 1 -9
+p660
+aVJason Maxiell DET 11/30/2012 DET @ MEM L 31 5 2 4 50.0 0 0 - 1 2 50.0 1 8 9 1 0 3 1 3 -2
+p661
+aVKyle Singler DET 11/30/2012 DET @ MEM L 39 9 3 7 42.9 1 3 33.3 2 2 100.0 0 6 6 2 2 0 1 4 -7
+p662
+aVTayshaun Prince DET 11/30/2012 DET @ MEM L 35 15 6 13 46.2 1 2 50.0 2 2 100.0 1 1 2 4 0 0 0 1 -11
+p663
+aVCorey Maggette DET 11/30/2012 DET @ MEM L 15 3 0 3 0.0 0 2 0.0 3 4 75.0 0 0 0 3 1 0 2 2 -3
+p664
+aVBrandon Knight DET 11/30/2012 DET @ MEM L 27 10 3 9 33.3 0 2 0.0 4 5 80.0 0 5 5 0 0 0 6 1 -3
+p665
+aVCharlie Villanueva DET 11/30/2012 DET @ MEM L 15 9 3 7 42.9 2 4 50.0 1 2 50.0 2 1 3 0 1 1 2 2 -3
+p666
+aVAndre Drummond DET 11/28/2012 DET vs. PHX W 25 6 3 7 42.9 0 0 - 0 2 0.0 2 7 9 0 1 2 1 2 21
+p667
+aVBrandon Knight DET 11/28/2012 DET vs. PHX W 24 19 5 11 45.5 3 3 100.0 6 7 85.7 0 1 1 6 2 0 3 5 24
+p668
+aVKim English DET 11/28/2012 DET vs. PHX W 5 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 0
+p669
+aVRodney Stuckey DET 11/28/2012 DET vs. PHX W 25 18 4 8 50.0 0 0 - 10 11 90.9 2 3 5 4 1 1 0 0 22
+p670
+aVTayshaun Prince DET 11/28/2012 DET vs. PHX W 30 12 3 5 60.0 1 2 50.0 5 6 83.3 0 2 2 3 1 0 0 0 23
+p671
+aVGreg Monroe DET 11/28/2012 DET vs. PHX W 28 9 4 7 57.1 0 0 - 1 2 50.0 2 6 8 3 2 0 4 2 15
+p672
+aVWill Bynum DET 11/28/2012 DET vs. PHX W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 4 0 0 0 0 10
+p673
+aVKyle Singler DET 11/28/2012 DET vs. PHX W 32 12 5 12 41.7 1 3 33.3 1 2 50.0 0 4 4 1 2 0 0 4 19
+p674
+aVJason Maxiell DET 11/28/2012 DET vs. PHX W 22 9 4 6 66.7 0 0 - 1 2 50.0 1 5 6 2 0 1 2 2 12
+p675
+aVAustin Daye DET 11/28/2012 DET vs. PHX W 7 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 11
+p676
+aVCharlie Villanueva DET 11/28/2012 DET vs. PHX W 21 19 7 8 87.5 4 5 80.0 1 3 33.3 1 5 6 2 0 1 1 1 32
+p677
+aVCorey Maggette DET 11/28/2012 DET vs. PHX W 15 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 2 0 0 0 2 11
+p678
+aVJason Maxiell DET 11/26/2012 DET vs. POR W 34 11 5 9 55.6 0 0 - 1 2 50.0 2 3 5 3 1 0 3 4 7
+p679
+aVRodney Stuckey DET 11/26/2012 DET vs. POR W 23 11 4 6 66.7 1 2 50.0 2 3 66.7 0 1 1 4 0 0 1 0 -1
+p680
+aVWill Bynum DET 11/26/2012 DET vs. POR W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p681
+aVCharlie Villanueva DET 11/26/2012 DET vs. POR W 15 10 4 6 66.7 2 4 50.0 0 0 - 0 3 3 2 2 0 0 4 -2
+p682
+aVCorey Maggette DET 11/26/2012 DET vs. POR W 16 0 0 2 0.0 0 0 - 0 1 0.0 0 2 2 3 0 1 2 3 -6
+p683
+aVTayshaun Prince DET 11/26/2012 DET vs. POR W 31 10 4 9 44.4 0 0 - 2 2 100.0 1 3 4 4 0 0 0 1 11
+p684
+aVBrandon Knight DET 11/26/2012 DET vs. POR W 33 26 9 17 52.9 3 6 50.0 5 5 100.0 1 5 6 2 0 0 5 4 13
+p685
+aVGreg Monroe DET 11/26/2012 DET vs. POR W 33 20 8 16 50.0 0 0 - 4 8 50.0 3 7 10 3 1 1 3 2 -1
+p686
+aVKyle Singler DET 11/26/2012 DET vs. POR W 36 16 6 7 85.7 3 3 100.0 1 1 100.0 2 8 10 5 2 1 0 3 13
+p687
+aVAndre Drummond DET 11/26/2012 DET vs. POR W 14 2 1 6 16.7 0 0 - 0 0 - 3 3 6 0 0 2 1 4 8
+p688
+aVTayshaun Prince DET 11/25/2012 DET @ NYK L 33 6 3 11 27.3 0 1 0.0 0 0 - 0 5 5 3 1 0 3 0 -22
+p689
+aVJason Maxiell DET 11/25/2012 DET @ NYK L 24 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 1 2 3 -7
+p690
+aVBrandon Knight DET 11/25/2012 DET @ NYK L 34 21 8 13 61.5 3 5 60.0 2 2 100.0 1 1 2 5 0 0 2 2 -17
+p691
+aVRodney Stuckey DET 11/25/2012 DET @ NYK L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 3 1 -12
+p692
+aVAustin Daye DET 11/25/2012 DET @ NYK L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p693
+aVWill Bynum DET 11/25/2012 DET @ NYK L 14 9 3 6 50.0 0 1 0.0 3 3 100.0 0 0 0 2 0 0 1 1 -4
+p694
+aVGreg Monroe DET 11/25/2012 DET @ NYK L 30 12 4 8 50.0 0 0 - 4 5 80.0 2 3 5 7 3 0 4 2 -15
+p695
+aVKyle Singler DET 11/25/2012 DET @ NYK L 29 16 5 7 71.4 2 4 50.0 4 5 80.0 0 3 3 1 0 0 2 5 -6
+p696
+aVKim English DET 11/25/2012 DET @ NYK L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p697
+aVCorey Maggette DET 11/25/2012 DET @ NYK L 17 9 2 5 40.0 1 1 100.0 4 5 80.0 0 2 2 0 1 0 1 4 -2
+p698
+aVAndre Drummond DET 11/25/2012 DET @ NYK L 19 2 1 6 16.7 0 0 - 0 0 - 4 7 11 0 1 3 1 4 -9
+p699
+aVCharlie Villanueva DET 11/25/2012 DET @ NYK L 19 17 7 15 46.7 3 7 42.9 0 2 0.0 1 3 4 1 0 0 0 0 -11
+p700
+aVJason Maxiell DET 11/23/2012 DET vs. TOR W 20 6 1 3 33.3 0 0 - 4 4 100.0 2 4 6 1 0 0 0 2 2
+p701
+aVRodney Stuckey DET 11/23/2012 DET vs. TOR W 21 8 2 9 22.2 1 3 33.3 3 5 60.0 1 3 4 0 0 0 1 0 -3
+p702
+aVGreg Monroe DET 11/23/2012 DET vs. TOR W 38 19 8 20 40.0 0 0 - 3 6 50.0 3 8 11 5 1 1 4 3 10
+p703
+aVCorey Maggette DET 11/23/2012 DET vs. TOR W 8 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 1 -3
+p704
+aVBrandon Knight DET 11/23/2012 DET vs. TOR W 26 16 6 8 75.0 3 5 60.0 1 2 50.0 0 0 0 3 0 0 5 3 3
+p705
+aVKyle Singler DET 11/23/2012 DET vs. TOR W 29 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 3 7
+p706
+aVJonas Jerebko DET 11/23/2012 DET vs. TOR W 12 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 0 1 0 3 -10
+p707
+aVTayshaun Prince DET 11/23/2012 DET vs. TOR W 38 16 8 11 72.7 0 1 0.0 0 0 - 0 7 7 3 0 0 1 1 3
+p708
+aVWill Bynum DET 11/23/2012 DET vs. TOR W 22 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 4 -2
+p709
+aVAndre Drummond DET 11/23/2012 DET vs. TOR W 24 13 6 11 54.5 0 0 - 1 6 16.7 8 5 13 0 2 0 1 2 -2
+p710
+aVAndre Drummond DET 11/21/2012 DET @ ORL L 19 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 2 1 1 0
+p711
+aVCharlie Villanueva DET 11/21/2012 DET @ ORL L 10 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 2
+p712
+aVCorey Maggette DET 11/21/2012 DET @ ORL L 11 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 2 -9
+p713
+aVKim English DET 11/21/2012 DET @ ORL L 4 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 6
+p714
+aVBrandon Knight DET 11/21/2012 DET @ ORL L 29 8 3 11 27.3 1 1 100.0 1 3 33.3 0 2 2 5 0 0 2 1 -11
+p715
+aVTayshaun Prince DET 11/21/2012 DET @ ORL L 27 10 5 12 41.7 0 2 0.0 0 0 - 2 6 8 1 0 0 1 0 -9
+p716
+aVWill Bynum DET 11/21/2012 DET @ ORL L 14 4 2 8 25.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 1 -12
+p717
+aVKyle Singler DET 11/21/2012 DET @ ORL L 31 2 1 6 16.7 0 3 0.0 0 0 - 2 2 4 0 0 0 0 3 -14
+p718
+aVJason Maxiell DET 11/21/2012 DET @ ORL L 26 4 2 7 28.6 0 0 - 0 1 0.0 1 6 7 0 0 0 2 2 -8
+p719
+aVRodney Stuckey DET 11/21/2012 DET @ ORL L 25 13 4 9 44.4 0 3 0.0 5 6 83.3 2 5 7 3 1 0 3 1 -3
+p720
+aVGreg Monroe DET 11/21/2012 DET @ ORL L 30 19 5 11 45.5 0 0 - 9 11 81.8 2 6 8 3 2 0 4 3 -18
+p721
+aVAustin Daye DET 11/21/2012 DET @ ORL L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 6
+p722
+aVJonas Jerebko DET 11/21/2012 DET @ ORL L 11 2 1 6 16.7 0 0 - 0 1 0.0 1 3 4 0 1 0 0 1 -10
+p723
+aVGreg Monroe DET 11/18/2012 DET vs. BOS W 32 20 8 11 72.7 0 0 - 4 5 80.0 1 12 13 3 2 0 3 2 11
+p724
+aVJonas Jerebko DET 11/18/2012 DET vs. BOS W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 2
+p725
+aVJason Maxiell DET 11/18/2012 DET vs. BOS W 30 15 5 10 50.0 0 0 - 5 6 83.3 2 4 6 1 1 1 3 2 12
+p726
+aVKhris Middleton DET 11/18/2012 DET vs. BOS W 2 0 0 0 - 0 0 - 0 1 0.0 0 0 0 2 0 0 0 1 1
+p727
+aVAndre Drummond DET 11/18/2012 DET vs. BOS W 18 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 1 0 0 3 11
+p728
+aVTayshaun Prince DET 11/18/2012 DET vs. BOS W 33 10 5 11 45.5 0 1 0.0 0 0 - 0 4 4 2 1 0 1 0 16
+p729
+aVRodney Stuckey DET 11/18/2012 DET vs. BOS W 31 14 4 10 40.0 0 2 0.0 6 6 100.0 2 3 5 5 0 0 0 0 17
+p730
+aVKyle Singler DET 11/18/2012 DET vs. BOS W 24 14 6 9 66.7 1 1 100.0 1 2 50.0 0 2 2 2 0 0 2 5 8
+p731
+aVAustin Daye DET 11/18/2012 DET vs. BOS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p732
+aVBrandon Knight DET 11/18/2012 DET vs. BOS W 24 6 2 3 66.7 1 2 50.0 1 2 50.0 0 1 1 1 1 0 5 2 7
+p733
+aVCorey Maggette DET 11/18/2012 DET vs. BOS W 14 11 3 6 50.0 1 2 50.0 4 4 100.0 0 1 1 2 0 0 1 3 3
+p734
+aVWill Bynum DET 11/18/2012 DET vs. BOS W 21 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 5 2 0 0 2 11
+p735
+aVWill Bynum DET 11/16/2012 DET vs. ORL L 11 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 2 -4
+p736
+aVKyle Singler DET 11/16/2012 DET vs. ORL L 29 14 5 10 50.0 1 1 100.0 3 4 75.0 1 1 2 1 1 0 1 3 17
+p737
+aVJason Maxiell DET 11/16/2012 DET vs. ORL L 31 11 5 10 50.0 0 0 - 1 1 100.0 0 5 5 0 2 1 1 2 3
+p738
+aVCorey Maggette DET 11/16/2012 DET vs. ORL L 14 7 3 8 37.5 0 2 0.0 1 2 50.0 0 1 1 0 1 0 2 1 -4
+p739
+aVGreg Monroe DET 11/16/2012 DET vs. ORL L 36 23 9 12 75.0 0 0 - 5 5 100.0 2 5 7 1 1 0 2 2 0
+p740
+aVRodney Stuckey DET 11/16/2012 DET vs. ORL L 21 9 4 7 57.1 0 0 - 1 2 50.0 0 1 1 1 0 0 1 3 -19
+p741
+aVTayshaun Prince DET 11/16/2012 DET vs. ORL L 34 18 7 11 63.6 0 0 - 4 4 100.0 0 3 3 3 0 1 1 1 0
+p742
+aVBrandon Knight DET 11/16/2012 DET vs. ORL L 35 10 4 12 33.3 1 4 25.0 1 2 50.0 0 6 6 12 1 0 3 2 -2
+p743
+aVJonas Jerebko DET 11/16/2012 DET vs. ORL L 13 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p744
+aVAndre Drummond DET 11/16/2012 DET vs. ORL L 15 10 5 6 83.3 0 0 - 0 0 - 2 1 3 0 1 2 2 1 -9
+p745
+aVTayshaun Prince DET 11/14/2012 DET @ PHI W 34 15 7 13 53.8 0 0 - 1 2 50.0 1 4 5 6 1 0 1 1 20
+p746
+aVKyle Singler DET 11/14/2012 DET @ PHI W 40 16 7 14 50.0 1 3 33.3 1 2 50.0 1 3 4 1 0 1 0 4 15
+p747
+aVJonas Jerebko DET 11/14/2012 DET @ PHI W 15 0 0 3 0.0 0 1 0.0 0 0 - 1 5 6 0 1 1 1 2 2
+p748
+aVWill Bynum DET 11/14/2012 DET @ PHI W 13 6 2 6 33.3 0 0 - 2 3 66.7 0 1 1 0 0 0 1 2 5
+p749
+aVJason Maxiell DET 11/14/2012 DET @ PHI W 28 8 2 3 66.7 0 0 - 4 6 66.7 2 10 12 3 0 3 1 2 11
+p750
+aVGreg Monroe DET 11/14/2012 DET @ PHI W 40 19 7 16 43.8 0 0 - 5 6 83.3 5 13 18 6 0 1 6 2 17
+p751
+aVAndre Drummond DET 11/14/2012 DET @ PHI W 11 6 3 6 50.0 0 0 - 0 2 0.0 2 0 2 1 1 1 1 3 2
+p752
+aVCorey Maggette DET 11/14/2012 DET @ PHI W 22 9 2 3 66.7 1 1 100.0 4 4 100.0 0 2 2 3 0 0 4 6 7
+p753
+aVKim English DET 11/14/2012 DET @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p754
+aVKhris Middleton DET 11/14/2012 DET @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p755
+aVBrandon Knight DET 11/14/2012 DET @ PHI W 35 15 5 9 55.6 1 2 50.0 4 6 66.7 0 7 7 7 0 0 2 3 13
+p756
+aVRodney Stuckey DET 11/12/2012 DET vs. OKC L 41 19 7 13 53.8 1 3 33.3 4 6 66.7 0 3 3 5 1 0 2 3 -4
+p757
+aVTayshaun Prince DET 11/12/2012 DET vs. OKC L 40 12 4 12 33.3 1 1 100.0 3 5 60.0 3 3 6 3 0 1 0 3 3
+p758
+aVJason Maxiell DET 11/12/2012 DET vs. OKC L 30 13 5 10 50.0 0 0 - 3 6 50.0 3 4 7 1 0 3 1 3 7
+p759
+aVJonas Jerebko DET 11/12/2012 DET vs. OKC L 19 3 1 6 16.7 0 2 0.0 1 1 100.0 4 0 4 0 0 0 1 2 -10
+p760
+aVAndre Drummond DET 11/12/2012 DET vs. OKC L 13 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 2 1 1 3 0
+p761
+aVWill Bynum DET 11/12/2012 DET vs. OKC L 17 5 2 7 28.6 0 0 - 1 1 100.0 0 0 0 4 0 0 1 3 2
+p762
+aVBrandon Knight DET 11/12/2012 DET vs. OKC L 32 8 2 13 15.4 2 8 25.0 2 2 100.0 1 3 4 6 1 1 3 3 -1
+p763
+aVGreg Monroe DET 11/12/2012 DET vs. OKC L 34 17 7 14 50.0 0 0 - 3 4 75.0 0 6 6 2 4 1 2 2 -2
+p764
+aVKyle Singler DET 11/12/2012 DET vs. OKC L 16 9 3 5 60.0 2 3 66.7 1 2 50.0 0 3 3 0 0 0 0 6 -5
+p765
+aVRodney Stuckey DET 11/10/2012 DET @ HOU L 29 8 4 12 33.3 0 2 0.0 0 0 - 1 1 2 2 0 0 1 1 -17
+p766
+aVJonas Jerebko DET 11/10/2012 DET @ HOU L 16 8 3 12 25.0 2 6 33.3 0 0 - 3 1 4 1 2 0 0 2 -18
+p767
+aVKhris Middleton DET 11/10/2012 DET @ HOU L 9 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 2 0 0 1 7
+p768
+aVJason Maxiell DET 11/10/2012 DET @ HOU L 19 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 4 0
+p769
+aVGreg Monroe DET 11/10/2012 DET @ HOU L 32 12 4 10 40.0 0 0 - 4 4 100.0 3 8 11 1 2 2 4 1 -8
+p770
+aVWill Bynum DET 11/10/2012 DET @ HOU L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 0 1 1 1 -17
+p771
+aVAndre Drummond DET 11/10/2012 DET @ HOU L 20 7 2 2 100.0 0 0 - 3 6 50.0 2 5 7 0 1 0 0 1 -9
+p772
+aVBrandon Knight DET 11/10/2012 DET @ HOU L 35 16 6 10 60.0 2 4 50.0 2 2 100.0 0 4 4 7 0 0 5 1 3
+p773
+aVAustin Daye DET 11/10/2012 DET @ HOU L 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 9
+p774
+aVKyle Singler DET 11/10/2012 DET @ HOU L 23 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 0 0 4 0 2 -21
+p775
+aVCharlie Villanueva DET 11/10/2012 DET @ HOU L 9 3 1 5 20.0 1 3 33.3 0 2 0.0 0 2 2 1 0 0 1 0 7
+p776
+aVTayshaun Prince DET 11/10/2012 DET @ HOU L 30 13 6 9 66.7 1 1 100.0 0 0 - 1 5 6 3 1 1 4 1 -6
+p777
+aVAndre Drummond DET 11/09/2012 DET @ OKC L 21 22 8 10 80.0 0 0 - 6 9 66.7 5 3 8 0 1 1 1 2 0
+p778
+aVJason Maxiell DET 11/09/2012 DET @ OKC L 20 1 0 3 0.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 2 -4
+p779
+aVWill Bynum DET 11/09/2012 DET @ OKC L 12 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 0 2 0 3 3 -12
+p780
+aVKim English DET 11/09/2012 DET @ OKC L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p781
+aVGreg Monroe DET 11/09/2012 DET @ OKC L 35 14 6 15 40.0 0 0 - 2 4 50.0 2 8 10 6 0 3 4 2 -9
+p782
+aVKyle Singler DET 11/09/2012 DET @ OKC L 15 7 3 5 60.0 1 2 50.0 0 0 - 2 0 2 0 0 0 1 2 -13
+p783
+aVJonas Jerebko DET 11/09/2012 DET @ OKC L 20 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 3 0 1 2 -9
+p784
+aVRodney Stuckey DET 11/09/2012 DET @ OKC L 36 15 5 14 35.7 2 4 50.0 3 3 100.0 1 1 2 6 0 0 0 1 -1
+p785
+aVTayshaun Prince DET 11/09/2012 DET @ OKC L 36 16 6 16 37.5 2 4 50.0 2 2 100.0 1 5 6 3 2 0 2 1 -2
+p786
+aVBrandon Knight DET 11/09/2012 DET @ OKC L 36 11 4 10 40.0 1 5 20.0 2 2 100.0 2 4 6 6 0 0 3 4 1
+p787
+aVAndre Drummond DET 11/07/2012 DET @ SAC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -4
+p788
+aVWill Bynum DET 11/07/2012 DET @ SAC L 15 14 4 6 66.7 0 1 0.0 6 7 85.7 0 0 0 1 0 1 2 0 -4
+p789
+aVKyle Singler DET 11/07/2012 DET @ SAC L 25 12 3 8 37.5 1 4 25.0 5 6 83.3 2 2 4 0 1 2 0 2 -1
+p790
+aVTayshaun Prince DET 11/07/2012 DET @ SAC L 27 10 4 10 40.0 0 0 - 2 2 100.0 0 3 3 1 1 1 2 0 -8
+p791
+aVJonas Jerebko DET 11/07/2012 DET @ SAC L 15 7 3 6 50.0 1 4 25.0 0 2 0.0 1 1 2 0 0 0 3 3 -4
+p792
+aVKim English DET 11/07/2012 DET @ SAC L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -5
+p793
+aVBrandon Knight DET 11/07/2012 DET @ SAC L 33 21 6 10 60.0 5 9 55.6 4 5 80.0 0 2 2 4 0 0 2 3 0
+p794
+aVGreg Monroe DET 11/07/2012 DET @ SAC L 40 21 8 15 53.3 0 0 - 5 7 71.4 5 7 12 11 1 0 2 4 7
+p795
+aVRodney Stuckey DET 11/07/2012 DET @ SAC L 34 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 4 1 0 3 4 8
+p796
+aVJason Maxiell DET 11/07/2012 DET @ SAC L 34 11 5 9 55.6 0 0 - 1 2 50.0 1 5 6 1 0 1 2 2 1
+p797
+aVAndre Drummond DET 11/06/2012 DET @ DEN L 12 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 0 -8
+p798
+aVBrandon Knight DET 11/06/2012 DET @ DEN L 33 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 9 1 1 4 3 -1
+p799
+aVRodney Stuckey DET 11/06/2012 DET @ DEN L 39 17 5 17 29.4 2 6 33.3 5 7 71.4 1 3 4 4 0 1 2 2 -9
+p800
+aVKyle Singler DET 11/06/2012 DET @ DEN L 19 9 3 5 60.0 0 0 - 3 4 75.0 1 0 1 0 0 1 1 1 -2
+p801
+aVKim English DET 11/06/2012 DET @ DEN L 9 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 1 1 3 -6
+p802
+aVGreg Monroe DET 11/06/2012 DET @ DEN L 35 27 10 20 50.0 0 0 - 7 7 100.0 3 7 10 2 1 3 2 4 -1
+p803
+aVCharlie Villanueva DET 11/06/2012 DET @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p804
+aVWill Bynum DET 11/06/2012 DET @ DEN L 15 5 1 5 20.0 0 0 - 3 3 100.0 0 3 3 8 0 0 2 2 -11
+p805
+aVTayshaun Prince DET 11/06/2012 DET @ DEN L 29 4 2 8 25.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -10
+p806
+aVJonas Jerebko DET 11/06/2012 DET @ DEN L 25 11 4 8 50.0 1 2 50.0 2 2 100.0 1 5 6 0 3 0 1 2 -4
+p807
+aVJason Maxiell DET 11/06/2012 DET @ DEN L 23 9 4 4 100.0 0 0 - 1 2 50.0 1 1 2 0 1 2 0 2 -8
+p808
+aVBrandon Knight DET 11/04/2012 DET @ LAL L 23 2 1 8 12.5 0 1 0.0 0 0 - 0 1 1 6 0 0 5 0 -30
+p809
+aVTayshaun Prince DET 11/04/2012 DET @ LAL L 24 9 3 8 37.5 0 0 - 3 4 75.0 0 2 2 0 0 1 1 1 -40
+p810
+aVWill Bynum DET 11/04/2012 DET @ LAL L 25 10 4 11 36.4 0 1 0.0 2 2 100.0 1 0 1 5 0 0 2 2 1
+p811
+aVJason Maxiell DET 11/04/2012 DET @ LAL L 19 8 3 7 42.9 0 0 - 2 2 100.0 3 3 6 0 0 0 2 2 -26
+p812
+aVKim English DET 11/04/2012 DET @ LAL L 20 8 2 5 40.0 2 4 50.0 2 2 100.0 0 1 1 0 0 1 2 3 -1
+p813
+aVAndre Drummond DET 11/04/2012 DET @ LAL L 22 5 2 6 33.3 0 0 - 1 2 50.0 4 3 7 0 0 2 1 2 2
+p814
+aVJonas Jerebko DET 11/04/2012 DET @ LAL L 29 18 5 9 55.6 1 2 50.0 7 9 77.8 2 0 2 2 1 0 1 1 -3
+p815
+aVKyle Singler DET 11/04/2012 DET @ LAL L 26 11 4 9 44.4 1 4 25.0 2 2 100.0 1 4 5 2 0 0 1 5 6
+p816
+aVRodney Stuckey DET 11/04/2012 DET @ LAL L 25 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 2 -23
+p817
+aVGreg Monroe DET 11/04/2012 DET @ LAL L 26 8 4 10 40.0 0 0 - 0 0 - 2 5 7 1 4 1 1 2 -31
+p818
+aVRodney Stuckey DET 11/02/2012 DET @ PHX L 22 1 0 7 0.0 0 3 0.0 1 1 100.0 0 4 4 4 0 2 2 1 -7
+p819
+aVKyle Singler DET 11/02/2012 DET @ PHX L 24 5 2 2 100.0 1 1 100.0 0 0 - 2 0 2 0 0 0 1 0 3
+p820
+aVWill Bynum DET 11/02/2012 DET @ PHX L 17 10 4 9 44.4 0 0 - 2 2 100.0 0 3 3 1 1 0 1 3 3
+p821
+aVJason Maxiell DET 11/02/2012 DET @ PHX L 31 16 7 12 58.3 0 0 - 2 3 66.7 4 2 6 0 0 1 1 2 -7
+p822
+aVTayshaun Prince DET 11/02/2012 DET @ PHX L 34 18 7 15 46.7 1 1 100.0 3 5 60.0 1 2 3 2 0 0 1 1 0
+p823
+aVJonas Jerebko DET 11/02/2012 DET @ PHX L 17 11 5 10 50.0 0 3 0.0 1 1 100.0 0 1 1 0 0 0 0 3 5
+p824
+aVGreg Monroe DET 11/02/2012 DET @ PHX L 29 10 5 17 29.4 0 0 - 0 2 0.0 1 5 6 0 0 0 1 4 -4
+p825
+aVBrandon Knight DET 11/02/2012 DET @ PHX L 31 13 5 12 41.7 2 4 50.0 1 2 50.0 0 5 5 10 0 0 2 3 -7
+p826
+aVAndre Drummond DET 11/02/2012 DET @ PHX L 19 5 2 3 66.7 0 0 - 1 3 33.3 2 6 8 1 0 2 0 2 1
+p827
+aVKim English DET 11/02/2012 DET @ PHX L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 0 -2
+p828
+aVBrandon Knight DET 10/31/2012 DET vs. HOU L 37 15 5 15 33.3 1 4 25.0 4 6 66.7 0 4 4 4 1 0 2 0 -12
+p829
+aVKim English DET 10/31/2012 DET vs. HOU L 14 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 3 2 0 1 1 8
+p830
+aVRodney Stuckey DET 10/31/2012 DET vs. HOU L 37 9 1 10 10.0 0 3 0.0 7 8 87.5 0 2 2 6 1 0 0 0 -19
+p831
+aVGreg Monroe DET 10/31/2012 DET vs. HOU L 35 14 7 13 53.8 0 0 - 0 3 0.0 2 6 8 4 3 0 4 4 -9
+p832
+aVJason Maxiell DET 10/31/2012 DET vs. HOU L 24 10 4 7 57.1 0 0 - 2 2 100.0 4 4 8 0 0 2 2 2 4
+p833
+aVKyle Singler DET 10/31/2012 DET vs. HOU L 16 10 4 5 80.0 2 2 100.0 0 0 - 0 2 2 0 0 1 1 0 -1
+p834
+aVJonas Jerebko DET 10/31/2012 DET vs. HOU L 20 7 2 7 28.6 0 1 0.0 3 3 100.0 4 0 4 1 1 0 0 2 -10
+p835
+aVAndre Drummond DET 10/31/2012 DET vs. HOU L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 2 1 2 2 0
+p836
+aVWill Bynum DET 10/31/2012 DET vs. HOU L 13 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 2 1 0 3 4 2
+p837
+aVTayshaun Prince DET 10/31/2012 DET vs. HOU L 32 12 4 9 44.4 0 1 0.0 4 4 100.0 0 4 4 1 1 0 1 0 -8
+p838
+a.

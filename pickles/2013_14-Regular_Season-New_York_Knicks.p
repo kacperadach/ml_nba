@@ -1,0 +1,1722 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAmar'e Stoudemire NYK 04/16/2014 NYK vs. TOR W 20 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 1 0 0 1 1 2
+p2
+aVToure' Murry NYK 04/16/2014 NYK vs. TOR W 29 15 6 12 50.0 2 2 100.0 1 1 100.0 0 2 2 2 0 0 3 4 -8
+p3
+aVJeremy Tyler NYK 04/16/2014 NYK vs. TOR W 24 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 1 4 -14
+p4
+aVIman Shumpert NYK 04/16/2014 NYK vs. TOR W 30 3 1 10 10.0 1 5 20.0 0 2 0.0 2 2 4 2 2 1 0 3 12
+p5
+aVCole Aldrich NYK 04/16/2014 NYK vs. TOR W 40 13 5 8 62.5 0 0 - 3 4 75.0 7 9 16 1 2 5 1 3 12
+p6
+aVShannon Brown NYK 04/16/2014 NYK vs. TOR W 21 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 1 0 5 4 -10
+p7
+aVTim Hardaway Jr. NYK 04/16/2014 NYK vs. TOR W 35 18 6 15 40.0 3 5 60.0 3 4 75.0 0 2 2 2 0 0 1 1 -11
+p8
+aVJR Smith NYK 04/16/2014 NYK vs. TOR W 27 30 13 19 68.4 2 5 40.0 2 4 50.0 0 4 4 1 5 0 2 1 21
+p9
+aVPablo Prigioni NYK 04/16/2014 NYK vs. TOR W 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 2 0 2 2 11
+p10
+aVCole Aldrich NYK 04/15/2014 NYK @ BKN W 26 13 4 6 66.7 0 0 - 5 5 100.0 3 10 13 0 1 1 2 5 0
+p11
+aVRaymond Felton NYK 04/15/2014 NYK @ BKN W 21 8 3 8 37.5 2 4 50.0 0 0 - 1 3 4 2 2 1 3 2 9
+p12
+aVIman Shumpert NYK 04/15/2014 NYK @ BKN W 31 11 4 9 44.4 0 2 0.0 3 4 75.0 1 3 4 2 3 0 2 4 9
+p13
+aVPablo Prigioni NYK 04/15/2014 NYK @ BKN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 4
+p14
+aVAmar'e Stoudemire NYK 04/15/2014 NYK @ BKN W 21 14 3 4 75.0 0 0 - 8 9 88.9 1 2 3 0 0 1 1 2 14
+p15
+aVTim Hardaway Jr. NYK 04/15/2014 NYK @ BKN W 36 16 5 10 50.0 4 5 80.0 2 2 100.0 0 0 0 0 0 0 0 4 0
+p16
+aVJR Smith NYK 04/15/2014 NYK @ BKN W 23 14 3 8 37.5 3 7 42.9 5 6 83.3 1 6 7 3 1 1 3 2 17
+p17
+aVShannon Brown NYK 04/15/2014 NYK @ BKN W 30 14 4 7 57.1 0 0 - 6 6 100.0 1 0 1 1 1 0 0 2 0
+p18
+aVToure' Murry NYK 04/15/2014 NYK @ BKN W 22 9 2 8 25.0 2 3 66.7 3 4 75.0 0 1 1 5 3 0 0 2 -2
+p19
+aVTyson Chandler NYK 04/15/2014 NYK @ BKN W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 6
+p20
+aVJeremy Tyler NYK 04/15/2014 NYK @ BKN W 20 8 3 5 60.0 0 0 - 2 4 50.0 0 2 2 1 0 1 3 5 -2
+p21
+aVTyson Chandler NYK 04/13/2014 NYK vs. CHI W 30 1 0 2 0.0 0 0 - 1 2 50.0 1 11 12 1 1 1 2 2 10
+p22
+aVJeremy Tyler NYK 04/13/2014 NYK vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p23
+aVTim Hardaway Jr. NYK 04/13/2014 NYK vs. CHI W 27 20 5 12 41.7 2 7 28.6 8 8 100.0 0 1 1 0 3 0 0 2 2
+p24
+aVToure' Murry NYK 04/13/2014 NYK vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p25
+aVJR Smith NYK 04/13/2014 NYK vs. CHI W 22 17 6 13 46.2 5 9 55.6 0 0 - 0 3 3 1 1 0 1 0 9
+p26
+aVCarmelo Anthony NYK 04/13/2014 NYK vs. CHI W 28 17 7 13 53.8 1 4 25.0 2 3 66.7 1 0 1 3 1 0 2 4 5
+p27
+aVRaymond Felton NYK 04/13/2014 NYK vs. CHI W 36 14 5 14 35.7 1 3 33.3 3 4 75.0 0 1 1 7 1 0 1 4 3
+p28
+aVIman Shumpert NYK 04/13/2014 NYK vs. CHI W 32 10 5 11 45.5 0 1 0.0 0 0 - 0 7 7 0 1 0 1 3 8
+p29
+aVCole Aldrich NYK 04/13/2014 NYK vs. CHI W 18 6 3 5 60.0 0 0 - 0 0 - 3 5 8 2 0 3 2 4 1
+p30
+aVAmar'e Stoudemire NYK 04/13/2014 NYK vs. CHI W 34 12 5 8 62.5 0 0 - 2 3 66.7 2 1 3 2 1 1 0 2 7
+p31
+aVPablo Prigioni NYK 04/13/2014 NYK vs. CHI W 12 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 4 6
+p32
+aVAmar'e Stoudemire NYK 04/11/2014 NYK @ TOR W 40 24 10 14 71.4 0 0 - 4 6 66.7 3 8 11 0 0 1 0 3 14
+p33
+aVCarmelo Anthony NYK 04/11/2014 NYK @ TOR W 39 30 8 17 47.1 1 3 33.3 13 14 92.9 1 7 8 3 3 0 2 3 8
+p34
+aVIman Shumpert NYK 04/11/2014 NYK @ TOR W 28 11 4 9 44.4 0 3 0.0 3 4 75.0 1 4 5 1 2 0 0 6 0
+p35
+aVJR Smith NYK 04/11/2014 NYK @ TOR W 36 15 4 10 40.0 3 9 33.3 4 4 100.0 0 1 1 1 0 1 2 4 9
+p36
+aVCole Aldrich NYK 04/11/2014 NYK @ TOR W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -6
+p37
+aVTim Hardaway Jr. NYK 04/11/2014 NYK @ TOR W 12 4 2 5 40.0 0 3 0.0 0 0 - 1 0 1 1 0 0 1 1 -8
+p38
+aVPablo Prigioni NYK 04/11/2014 NYK @ TOR W 17 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 5 1 0 1 2 9
+p39
+aVTyson Chandler NYK 04/11/2014 NYK @ TOR W 30 6 1 2 50.0 0 0 - 4 4 100.0 0 7 7 1 0 0 2 3 9
+p40
+aVRaymond Felton NYK 04/11/2014 NYK @ TOR W 31 12 4 12 33.3 0 3 0.0 4 4 100.0 1 1 2 4 0 0 0 1 5
+p41
+aVToure' Murry NYK 04/06/2014 NYK @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p42
+aVCarmelo Anthony NYK 04/06/2014 NYK @ MIA L 44 13 4 17 23.5 1 4 25.0 4 5 80.0 3 2 5 6 2 1 1 2 0
+p43
+aVTyson Chandler NYK 04/06/2014 NYK @ MIA L 34 10 4 7 57.1 0 0 - 2 2 100.0 3 8 11 0 0 0 1 1 6
+p44
+aVCole Aldrich NYK 04/06/2014 NYK @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p45
+aVJeremy Tyler NYK 04/06/2014 NYK @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p46
+aVIman Shumpert NYK 04/06/2014 NYK @ MIA L 28 9 3 7 42.9 2 6 33.3 1 2 50.0 6 2 8 2 1 0 0 4 -6
+p47
+aVAmar'e Stoudemire NYK 04/06/2014 NYK @ MIA L 30 12 5 9 55.6 0 0 - 2 2 100.0 2 3 5 1 1 1 2 3 -11
+p48
+aVShannon Brown NYK 04/06/2014 NYK @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p49
+aVRaymond Felton NYK 04/06/2014 NYK @ MIA L 31 15 6 12 50.0 2 5 40.0 1 2 50.0 1 1 2 5 4 0 3 4 10
+p50
+aVPablo Prigioni NYK 04/06/2014 NYK @ MIA L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -21
+p51
+aVJR Smith NYK 04/06/2014 NYK @ MIA L 43 32 11 28 39.3 10 22 45.5 0 0 - 0 5 5 3 2 0 2 5 -5
+p52
+aVTim Hardaway Jr. NYK 04/06/2014 NYK @ MIA L 12 0 0 7 0.0 0 4 0.0 0 0 - 0 1 1 0 0 0 0 3 -26
+p53
+aVTyson Chandler NYK 04/04/2014 NYK vs. WAS L 31 6 3 7 42.9 0 0 - 0 0 - 2 6 8 0 1 0 0 0 -11
+p54
+aVCarmelo Anthony NYK 04/04/2014 NYK vs. WAS L 38 10 5 14 35.7 0 4 0.0 0 0 - 1 7 8 5 4 0 9 3 -13
+p55
+aVAmar'e Stoudemire NYK 04/04/2014 NYK vs. WAS L 30 16 6 9 66.7 0 0 - 4 4 100.0 0 4 4 0 0 1 1 1 0
+p56
+aVRaymond Felton NYK 04/04/2014 NYK vs. WAS L 28 9 2 8 25.0 2 2 100.0 3 4 75.0 1 4 5 7 1 0 0 3 -6
+p57
+aVTim Hardaway Jr. NYK 04/04/2014 NYK vs. WAS L 21 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 0
+p58
+aVIman Shumpert NYK 04/04/2014 NYK vs. WAS L 29 5 2 5 40.0 1 2 50.0 0 0 - 3 1 4 2 3 0 1 2 9
+p59
+aVJR Smith NYK 04/04/2014 NYK vs. WAS L 43 32 12 23 52.2 8 16 50.0 0 0 - 1 2 3 1 0 0 2 3 11
+p60
+aVPablo Prigioni NYK 04/04/2014 NYK vs. WAS L 20 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 7 0 0 2 1 5
+p61
+aVCarmelo Anthony NYK 04/02/2014 NYK vs. BKN W 37 23 8 16 50.0 0 1 0.0 7 8 87.5 1 9 10 3 1 1 3 3 22
+p62
+aVTim Hardaway Jr. NYK 04/02/2014 NYK vs. BKN W 28 17 7 10 70.0 3 5 60.0 0 0 - 1 0 1 0 0 0 0 1 33
+p63
+aVIman Shumpert NYK 04/02/2014 NYK vs. BKN W 24 10 4 6 66.7 0 2 0.0 2 3 66.7 1 2 3 2 5 0 2 5 29
+p64
+aVCole Aldrich NYK 04/02/2014 NYK vs. BKN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p65
+aVShannon Brown NYK 04/02/2014 NYK vs. BKN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 2 0 0 0 2
+p66
+aVTyson Chandler NYK 04/02/2014 NYK vs. BKN W 30 4 2 2 100.0 0 0 - 0 2 0.0 1 4 5 1 1 2 2 4 14
+p67
+aVJeremy Tyler NYK 04/02/2014 NYK vs. BKN W 6 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p68
+aVAmar'e Stoudemire NYK 04/02/2014 NYK vs. BKN W 21 13 4 6 66.7 0 0 - 5 6 83.3 1 5 6 2 0 2 2 4 -1
+p69
+aVJR Smith NYK 04/02/2014 NYK vs. BKN W 35 24 9 16 56.3 6 12 50.0 0 0 - 0 8 8 6 1 0 1 3 18
+p70
+aVToure' Murry NYK 04/02/2014 NYK vs. BKN W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 2
+p71
+aVPablo Prigioni NYK 04/02/2014 NYK vs. BKN W 21 6 2 2 100.0 1 1 100.0 1 1 100.0 1 1 2 3 0 0 2 2 17
+p72
+aVRaymond Felton NYK 04/02/2014 NYK vs. BKN W 20 5 2 5 40.0 1 4 25.0 0 0 - 2 1 3 3 1 0 1 0 5
+p73
+aVTyson Chandler NYK 03/31/2014 NYK @ UTA W 35 15 6 7 85.7 0 0 - 3 8 37.5 2 7 9 1 1 2 1 3 18
+p74
+aVIman Shumpert NYK 03/31/2014 NYK @ UTA W 23 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 4 3
+p75
+aVPablo Prigioni NYK 03/31/2014 NYK @ UTA W 17 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 2 1 0 0 0 5
+p76
+aVCarmelo Anthony NYK 03/31/2014 NYK @ UTA W 39 34 11 19 57.9 4 7 57.1 8 8 100.0 0 8 8 3 3 1 3 2 13
+p77
+aVJeremy Tyler NYK 03/31/2014 NYK @ UTA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p78
+aVRaymond Felton NYK 03/31/2014 NYK @ UTA W 35 12 5 8 62.5 1 4 25.0 1 2 50.0 0 3 3 6 1 0 4 1 5
+p79
+aVTim Hardaway Jr. NYK 03/31/2014 NYK @ UTA W 31 10 3 9 33.3 1 5 20.0 3 4 75.0 0 2 2 2 0 0 0 3 5
+p80
+aVCole Aldrich NYK 03/31/2014 NYK @ UTA W 13 6 2 4 50.0 0 0 - 2 2 100.0 0 6 6 0 0 3 0 3 -12
+p81
+aVJR Smith NYK 03/31/2014 NYK @ UTA W 43 13 5 14 35.7 3 10 30.0 0 0 - 0 3 3 4 1 0 1 2 12
+p82
+aVShannon Brown NYK 03/31/2014 NYK @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p83
+aVJR Smith NYK 03/30/2014 NYK @ GSW W 42 21 8 17 47.1 3 9 33.3 2 2 100.0 1 4 5 2 0 1 1 4 10
+p84
+aVRaymond Felton NYK 03/30/2014 NYK @ GSW W 28 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 4 2 0 1 3 1
+p85
+aVTyson Chandler NYK 03/30/2014 NYK @ GSW W 30 6 3 6 50.0 0 0 - 0 0 - 0 7 7 1 0 1 0 2 -1
+p86
+aVIman Shumpert NYK 03/30/2014 NYK @ GSW W 26 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 0 1 0 1 12
+p87
+aVPablo Prigioni NYK 03/30/2014 NYK @ GSW W 20 6 2 2 100.0 2 2 100.0 0 0 - 1 1 2 2 1 0 2 3 4
+p88
+aVShannon Brown NYK 03/30/2014 NYK @ GSW W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 2
+p89
+aVAmar'e Stoudemire NYK 03/30/2014 NYK @ GSW W 31 15 5 14 35.7 0 0 - 5 6 83.3 6 7 13 1 0 0 4 2 -4
+p90
+aVTim Hardaway Jr. NYK 03/30/2014 NYK @ GSW W 28 15 6 12 50.0 3 7 42.9 0 0 - 0 2 2 1 1 0 0 0 15
+p91
+aVCarmelo Anthony NYK 03/30/2014 NYK @ GSW W 34 19 7 21 33.3 0 4 0.0 5 6 83.3 2 7 9 3 0 0 1 4 -14
+p92
+aVShannon Brown NYK 03/28/2014 NYK @ PHX L 5 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p93
+aVAmar'e Stoudemire NYK 03/28/2014 NYK @ PHX L 30 19 8 16 50.0 0 0 - 3 5 60.0 1 5 6 0 0 1 0 2 -27
+p94
+aVPablo Prigioni NYK 03/28/2014 NYK @ PHX L 20 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 3 1 0 2 2 -1
+p95
+aVToure' Murry NYK 03/28/2014 NYK @ PHX L 5 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 1 1 0 1 0 3
+p96
+aVCole Aldrich NYK 03/28/2014 NYK @ PHX L 6 0 0 0 - 0 0 - 0 0 - 2 2 4 1 0 0 0 1 5
+p97
+aVJR Smith NYK 03/28/2014 NYK @ PHX L 31 15 6 14 42.9 2 8 25.0 1 1 100.0 0 4 4 1 2 0 3 4 -37
+p98
+aVTyson Chandler NYK 03/28/2014 NYK @ PHX L 29 1 0 4 0.0 0 0 - 1 2 50.0 3 4 7 2 0 0 1 5 -21
+p99
+aVJeremy Tyler NYK 03/28/2014 NYK @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p100
+aVTim Hardaway Jr. NYK 03/28/2014 NYK @ PHX L 21 5 2 11 18.2 1 7 14.3 0 0 - 1 0 1 1 1 0 0 2 5
+p101
+aVIman Shumpert NYK 03/28/2014 NYK @ PHX L 26 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 1 -1
+p102
+aVCarmelo Anthony NYK 03/28/2014 NYK @ PHX L 40 21 8 20 40.0 2 6 33.3 3 5 60.0 3 4 7 1 0 1 0 3 -23
+p103
+aVRaymond Felton NYK 03/28/2014 NYK @ PHX L 23 6 2 6 33.3 1 1 100.0 1 1 100.0 1 0 1 4 2 0 4 4 -26
+p104
+aVRaymond Felton NYK 03/26/2014 NYK @ SAC W 32 5 2 7 28.6 0 0 - 1 2 50.0 1 6 7 9 0 0 0 3 -1
+p105
+aVPablo Prigioni NYK 03/26/2014 NYK @ SAC W 16 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 7 0 0 2 1 9
+p106
+aVCarmelo Anthony NYK 03/26/2014 NYK @ SAC W 42 36 12 21 57.1 5 8 62.5 7 7 100.0 0 5 5 3 0 1 5 5 4
+p107
+aVIman Shumpert NYK 03/26/2014 NYK @ SAC W 25 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 1 0 0 1 4 -5
+p108
+aVTyson Chandler NYK 03/26/2014 NYK @ SAC W 29 10 4 5 80.0 0 0 - 2 2 100.0 2 6 8 0 0 1 1 5 10
+p109
+aVJR Smith NYK 03/26/2014 NYK @ SAC W 42 29 10 19 52.6 9 12 75.0 0 0 - 1 3 4 4 0 1 2 2 4
+p110
+aVAmar'e Stoudemire NYK 03/26/2014 NYK @ SAC W 33 12 6 10 60.0 0 0 - 0 0 - 1 5 6 1 1 0 3 5 17
+p111
+aVCole Aldrich NYK 03/26/2014 NYK @ SAC W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -7
+p112
+aVTim Hardaway Jr. NYK 03/26/2014 NYK @ SAC W 17 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 0 2 0 0 2 9
+p113
+aVJR Smith NYK 03/25/2014 NYK @ LAL L 29 12 4 6 66.7 1 2 50.0 3 4 75.0 2 2 4 3 0 1 2 0 -13
+p114
+aVIman Shumpert NYK 03/25/2014 NYK @ LAL L 19 0 0 6 0.0 0 2 0.0 0 0 - 1 1 2 0 2 0 1 0 -15
+p115
+aVToure' Murry NYK 03/25/2014 NYK @ LAL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p116
+aVAmar'e Stoudemire NYK 03/25/2014 NYK @ LAL L 27 16 7 14 50.0 0 0 - 2 2 100.0 2 0 2 0 0 1 1 2 -30
+p117
+aVCole Aldrich NYK 03/25/2014 NYK @ LAL L 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -15
+p118
+aVPablo Prigioni NYK 03/25/2014 NYK @ LAL L 22 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 5 1 0 0 0 -16
+p119
+aVRaymond Felton NYK 03/25/2014 NYK @ LAL L 20 6 3 7 42.9 0 3 0.0 0 2 0.0 1 3 4 6 2 0 1 2 -8
+p120
+aVJeremy Tyler NYK 03/25/2014 NYK @ LAL L 7 0 0 0 - 0 0 - 0 2 0.0 0 2 2 1 0 0 2 1 -5
+p121
+aVShannon Brown NYK 03/25/2014 NYK @ LAL L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p122
+aVTim Hardaway Jr. NYK 03/25/2014 NYK @ LAL L 24 17 5 7 71.4 2 3 66.7 5 7 71.4 0 1 1 3 1 0 1 5 -16
+p123
+aVCarmelo Anthony NYK 03/25/2014 NYK @ LAL L 38 29 10 21 47.6 1 4 25.0 8 8 100.0 0 9 9 3 1 1 3 3 -16
+p124
+aVTyson Chandler NYK 03/25/2014 NYK @ LAL L 29 12 5 7 71.4 0 0 - 2 2 100.0 1 4 5 2 1 1 3 2 -7
+p125
+aVCarmelo Anthony NYK 03/23/2014 NYK vs. CLE L 40 32 8 20 40.0 4 9 44.4 12 12 100.0 0 8 8 2 1 2 3 4 -8
+p126
+aVCole Aldrich NYK 03/23/2014 NYK vs. CLE L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 5
+p127
+aVAmar'e Stoudemire NYK 03/23/2014 NYK vs. CLE L 30 12 6 10 60.0 0 0 - 0 0 - 2 4 6 1 0 0 0 3 3
+p128
+aVTim Hardaway Jr. NYK 03/23/2014 NYK vs. CLE L 27 12 5 12 41.7 1 4 25.0 1 1 100.0 0 2 2 0 0 0 0 1 -2
+p129
+aVJR Smith NYK 03/23/2014 NYK vs. CLE L 38 18 7 15 46.7 2 7 28.6 2 2 100.0 0 3 3 4 0 0 2 2 -4
+p130
+aVShannon Brown NYK 03/23/2014 NYK vs. CLE L 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -1
+p131
+aVRaymond Felton NYK 03/23/2014 NYK vs. CLE L 32 14 5 12 41.7 3 5 60.0 1 2 50.0 3 3 6 8 3 0 1 2 -13
+p132
+aVTyson Chandler NYK 03/23/2014 NYK vs. CLE L 36 4 2 2 100.0 0 0 - 0 0 - 2 4 6 2 0 0 4 0 -17
+p133
+aVPablo Prigioni NYK 03/23/2014 NYK vs. CLE L 16 6 2 2 100.0 2 2 100.0 0 0 - 1 0 1 3 1 0 1 0 7
+p134
+aVIman Shumpert NYK 03/21/2014 NYK @ PHI W 27 11 4 7 57.1 3 6 50.0 0 0 - 0 0 0 2 1 0 0 3 8
+p135
+aVToure' Murry NYK 03/21/2014 NYK @ PHI W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -13
+p136
+aVRaymond Felton NYK 03/21/2014 NYK @ PHI W 27 7 2 8 25.0 0 2 0.0 3 4 75.0 0 3 3 6 0 0 1 0 1
+p137
+aVTyson Chandler NYK 03/21/2014 NYK @ PHI W 31 17 7 10 70.0 0 1 0.0 3 4 75.0 4 6 10 2 1 1 1 1 7
+p138
+aVShannon Brown NYK 03/21/2014 NYK @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -13
+p139
+aVJR Smith NYK 03/21/2014 NYK @ PHI W 25 6 2 10 20.0 2 9 22.2 0 0 - 1 2 3 2 1 0 3 2 7
+p140
+aVCarmelo Anthony NYK 03/21/2014 NYK @ PHI W 35 21 5 16 31.3 2 5 40.0 9 12 75.0 0 8 8 5 1 1 1 2 11
+p141
+aVAmar'e Stoudemire NYK 03/21/2014 NYK @ PHI W 28 22 10 15 66.7 0 0 - 2 2 100.0 2 8 10 1 0 0 0 3 8
+p142
+aVTim Hardaway Jr. NYK 03/21/2014 NYK @ PHI W 27 6 3 11 27.3 0 5 0.0 0 1 0.0 0 1 1 2 2 0 0 3 -1
+p143
+aVPablo Prigioni NYK 03/21/2014 NYK @ PHI W 18 0 0 1 0.0 0 1 0.0 0 0 - 1 3 4 9 0 0 1 1 13
+p144
+aVJeremy Tyler NYK 03/21/2014 NYK @ PHI W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p145
+aVCole Aldrich NYK 03/21/2014 NYK @ PHI W 12 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 0 1 1 -10
+p146
+aVJR Smith NYK 03/19/2014 NYK vs. IND W 29 7 3 9 33.3 1 3 33.3 0 0 - 1 5 6 2 0 0 1 4 7
+p147
+aVTyson Chandler NYK 03/19/2014 NYK vs. IND W 39 7 2 5 40.0 0 0 - 3 4 75.0 6 8 14 0 1 1 2 4 5
+p148
+aVCarmelo Anthony NYK 03/19/2014 NYK vs. IND W 43 34 12 23 52.2 0 4 0.0 10 12 83.3 0 3 3 5 3 0 4 4 13
+p149
+aVCole Aldrich NYK 03/19/2014 NYK vs. IND W 9 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 1 1 -2
+p150
+aVAmar'e Stoudemire NYK 03/19/2014 NYK vs. IND W 29 21 8 15 53.3 0 0 - 5 6 83.3 0 4 4 0 0 0 1 3 8
+p151
+aVTim Hardaway Jr. NYK 03/19/2014 NYK vs. IND W 15 2 0 7 0.0 0 4 0.0 2 2 100.0 1 4 5 0 0 0 0 2 -3
+p152
+aVRaymond Felton NYK 03/19/2014 NYK vs. IND W 28 11 4 11 36.4 1 2 50.0 2 3 66.7 1 5 6 6 2 0 1 2 5
+p153
+aVPablo Prigioni NYK 03/19/2014 NYK vs. IND W 20 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 2 1
+p154
+aVShannon Brown NYK 03/19/2014 NYK vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p155
+aVIman Shumpert NYK 03/19/2014 NYK vs. IND W 29 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 4 -4
+p156
+aVTim Hardaway Jr. NYK 03/15/2014 NYK vs. MIL W 25 20 8 12 66.7 2 6 33.3 2 3 66.7 0 1 1 0 0 1 2 3 4
+p157
+aVCole Aldrich NYK 03/15/2014 NYK vs. MIL W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 0 3
+p158
+aVShannon Brown NYK 03/15/2014 NYK vs. MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p159
+aVRaymond Felton NYK 03/15/2014 NYK vs. MIL W 23 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 1 0 1 1 3 13
+p160
+aVCarmelo Anthony NYK 03/15/2014 NYK vs. MIL W 33 23 8 16 50.0 1 5 20.0 6 6 100.0 2 5 7 2 0 2 3 3 19
+p161
+aVJeremy Tyler NYK 03/15/2014 NYK vs. MIL W 18 6 1 2 50.0 0 0 - 4 6 66.7 1 5 6 0 0 1 1 3 1
+p162
+aVTyson Chandler NYK 03/15/2014 NYK vs. MIL W 25 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 18
+p163
+aVToure' Murry NYK 03/15/2014 NYK vs. MIL W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 1
+p164
+aVEarl Clark NYK 03/15/2014 NYK vs. MIL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p165
+aVAmar'e Stoudemire NYK 03/15/2014 NYK vs. MIL W 26 15 6 13 46.2 0 0 - 3 4 75.0 3 3 6 1 0 1 1 3 14
+p166
+aVJR Smith NYK 03/15/2014 NYK vs. MIL W 23 15 5 7 71.4 2 3 66.7 3 3 100.0 2 6 8 4 1 0 0 0 18
+p167
+aVIman Shumpert NYK 03/15/2014 NYK vs. MIL W 27 14 5 12 41.7 2 3 66.7 2 2 100.0 3 1 4 4 1 0 1 2 -2
+p168
+aVPablo Prigioni NYK 03/15/2014 NYK vs. MIL W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 2 7
+p169
+aVEarl Clark NYK 03/12/2014 NYK @ BOS W 20 6 2 5 40.0 1 1 100.0 1 2 50.0 1 5 6 1 1 2 1 3 22
+p170
+aVIman Shumpert NYK 03/12/2014 NYK @ BOS W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 3 3 4 0 0 0 5 20
+p171
+aVShannon Brown NYK 03/12/2014 NYK @ BOS W 5 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 1 0 1 0 5
+p172
+aVJR Smith NYK 03/12/2014 NYK @ BOS W 29 13 6 11 54.5 0 1 0.0 1 1 100.0 0 3 3 4 2 1 0 3 5
+p173
+aVCole Aldrich NYK 03/12/2014 NYK @ BOS W 25 12 4 5 80.0 0 0 - 4 5 80.0 5 5 10 1 0 3 1 3 19
+p174
+aVRaymond Felton NYK 03/12/2014 NYK @ BOS W 27 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 4 1 0 3 0 7
+p175
+aVCarmelo Anthony NYK 03/12/2014 NYK @ BOS W 39 34 11 25 44.0 4 7 57.1 8 8 100.0 0 9 9 2 1 0 0 2 13
+p176
+aVPablo Prigioni NYK 03/12/2014 NYK @ BOS W 19 6 2 3 66.7 2 2 100.0 0 0 - 1 1 2 4 3 0 0 1 12
+p177
+aVJeremy Tyler NYK 03/12/2014 NYK @ BOS W 15 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 0 1 1 1 4 1
+p178
+aVToure' Murry NYK 03/12/2014 NYK @ BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p179
+aVTim Hardaway Jr. NYK 03/12/2014 NYK @ BOS W 38 22 7 11 63.6 3 5 60.0 5 6 83.3 0 3 3 0 1 0 1 0 11
+p180
+aVJR Smith NYK 03/10/2014 NYK vs. PHI W 39 22 8 18 44.4 4 11 36.4 2 4 50.0 0 3 3 5 2 0 0 4 21
+p181
+aVPablo Prigioni NYK 03/10/2014 NYK vs. PHI W 15 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 4 2 0 2 4 18
+p182
+aVToure' Murry NYK 03/10/2014 NYK vs. PHI W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -6
+p183
+aVEarl Clark NYK 03/10/2014 NYK vs. PHI W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 2 0 1 -8
+p184
+aVAmar'e Stoudemire NYK 03/10/2014 NYK vs. PHI W 30 23 9 10 90.0 0 0 - 5 8 62.5 3 3 6 0 0 1 2 2 21
+p185
+aVJeremy Tyler NYK 03/10/2014 NYK vs. PHI W 18 6 2 4 50.0 0 0 - 2 4 50.0 1 4 5 0 1 2 2 3 -6
+p186
+aVCarmelo Anthony NYK 03/10/2014 NYK vs. PHI W 32 22 9 24 37.5 0 7 0.0 4 4 100.0 2 7 9 5 1 0 3 3 13
+p187
+aVRaymond Felton NYK 03/10/2014 NYK vs. PHI W 27 13 4 5 80.0 3 4 75.0 2 2 100.0 0 1 1 2 2 1 0 1 1
+p188
+aVIman Shumpert NYK 03/10/2014 NYK vs. PHI W 31 2 1 3 33.3 0 1 0.0 0 0 - 2 2 4 3 2 0 0 2 13
+p189
+aVShannon Brown NYK 03/10/2014 NYK vs. PHI W 6 0 0 0 - 0 0 - 0 4 0.0 0 0 0 1 0 0 1 1 -10
+p190
+aVTim Hardaway Jr. NYK 03/10/2014 NYK vs. PHI W 29 28 9 13 69.2 5 7 71.4 5 6 83.3 0 2 2 0 0 0 2 2 8
+p191
+aVJeremy Tyler NYK 03/08/2014 NYK @ CLE W 8 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 0 0 0 0 0 -1
+p192
+aVIman Shumpert NYK 03/08/2014 NYK @ CLE W 31 7 3 8 37.5 1 4 25.0 0 0 - 1 4 5 3 1 1 1 3 11
+p193
+aVShannon Brown NYK 03/08/2014 NYK @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p194
+aVPablo Prigioni NYK 03/08/2014 NYK @ CLE W 18 11 3 6 50.0 3 5 60.0 2 2 100.0 0 1 1 4 0 0 1 1 5
+p195
+aVTyson Chandler NYK 03/08/2014 NYK @ CLE W 37 15 5 9 55.6 0 0 - 5 7 71.4 5 6 11 2 0 1 1 2 11
+p196
+aVJR Smith NYK 03/08/2014 NYK @ CLE W 34 17 6 13 46.2 5 9 55.6 0 0 - 0 3 3 3 0 0 2 1 11
+p197
+aVToure' Murry NYK 03/08/2014 NYK @ CLE W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -4
+p198
+aVTim Hardaway Jr. NYK 03/08/2014 NYK @ CLE W 14 5 2 6 33.3 1 5 20.0 0 0 - 0 1 1 0 1 0 0 0 0
+p199
+aVCarmelo Anthony NYK 03/08/2014 NYK @ CLE W 39 26 10 23 43.5 4 7 57.1 2 2 100.0 1 6 7 4 3 2 3 3 16
+p200
+aVRaymond Felton NYK 03/08/2014 NYK @ CLE W 30 8 2 6 33.3 0 1 0.0 4 4 100.0 0 5 5 6 2 2 2 3 9
+p201
+aVEarl Clark NYK 03/08/2014 NYK @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p202
+aVCole Aldrich NYK 03/08/2014 NYK @ CLE W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p203
+aVAmar'e Stoudemire NYK 03/08/2014 NYK @ CLE W 28 17 7 16 43.8 0 0 - 3 4 75.0 6 6 12 4 0 3 2 2 7
+p204
+aVPablo Prigioni NYK 03/07/2014 NYK vs. UTA W 17 7 2 3 66.7 2 2 100.0 1 2 50.0 0 0 0 2 0 0 1 1 -2
+p205
+aVToure' Murry NYK 03/07/2014 NYK vs. UTA W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 9
+p206
+aVShannon Brown NYK 03/07/2014 NYK vs. UTA W 5 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 7
+p207
+aVTyson Chandler NYK 03/07/2014 NYK vs. UTA W 23 16 8 10 80.0 0 0 - 0 2 0.0 4 7 11 0 0 0 0 3 18
+p208
+aVCole Aldrich NYK 03/07/2014 NYK vs. UTA W 11 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 1 1 1 0 5
+p209
+aVEarl Clark NYK 03/07/2014 NYK vs. UTA W 16 3 1 5 20.0 0 3 0.0 1 2 50.0 0 2 2 0 0 0 0 0 -4
+p210
+aVRaymond Felton NYK 03/07/2014 NYK vs. UTA W 26 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 5 0 0 0 2 20
+p211
+aVCarmelo Anthony NYK 03/07/2014 NYK vs. UTA W 32 29 10 19 52.6 3 7 42.9 6 8 75.0 0 4 4 8 2 1 2 1 31
+p212
+aVAmar'e Stoudemire NYK 03/07/2014 NYK vs. UTA W 19 10 3 4 75.0 0 0 - 4 4 100.0 0 1 1 0 0 1 0 0 16
+p213
+aVJeremy Tyler NYK 03/07/2014 NYK vs. UTA W 11 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 1 1 5 -4
+p214
+aVIman Shumpert NYK 03/07/2014 NYK vs. UTA W 27 7 3 4 75.0 1 1 100.0 0 0 - 2 2 4 3 2 0 2 1 15
+p215
+aVTim Hardaway Jr. NYK 03/07/2014 NYK vs. UTA W 25 5 2 11 18.2 1 6 16.7 0 0 - 0 0 0 3 3 0 0 3 4
+p216
+aVJR Smith NYK 03/07/2014 NYK vs. UTA W 24 17 6 13 46.2 5 11 45.5 0 0 - 0 3 3 1 0 3 0 3 20
+p217
+aVJeremy Tyler NYK 03/05/2014 NYK @ MIN W 1 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 2
+p218
+aVPablo Prigioni NYK 03/05/2014 NYK @ MIN W 16 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 4 1 0 1 2 -11
+p219
+aVTyson Chandler NYK 03/05/2014 NYK @ MIN W 35 15 6 8 75.0 0 0 - 3 3 100.0 5 9 14 0 0 0 1 4 2
+p220
+aVJR Smith NYK 03/05/2014 NYK @ MIN W 27 14 6 11 54.5 2 4 50.0 0 0 - 0 5 5 5 0 0 0 2 2
+p221
+aVAmar'e Stoudemire NYK 03/05/2014 NYK @ MIN W 31 18 8 18 44.4 0 0 - 2 3 66.7 4 4 8 1 1 2 3 3 17
+p222
+aVCole Aldrich NYK 03/05/2014 NYK @ MIN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p223
+aVEarl Clark NYK 03/05/2014 NYK @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p224
+aVTim Hardaway Jr. NYK 03/05/2014 NYK @ MIN W 27 11 4 10 40.0 3 6 50.0 0 0 - 0 1 1 0 0 0 0 4 3
+p225
+aVRaymond Felton NYK 03/05/2014 NYK @ MIN W 31 18 5 8 62.5 2 4 50.0 6 8 75.0 1 2 3 8 4 1 2 4 21
+p226
+aVIman Shumpert NYK 03/05/2014 NYK @ MIN W 21 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 1 2 0 0 2 9
+p227
+aVCarmelo Anthony NYK 03/05/2014 NYK @ MIN W 43 33 14 27 51.9 3 10 30.0 2 4 50.0 0 5 5 5 3 0 5 2 14
+p228
+aVToure' Murry NYK 03/05/2014 NYK @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p229
+aVCarmelo Anthony NYK 03/03/2014 NYK @ DET L 41 28 11 21 52.4 4 7 57.1 2 4 50.0 0 5 5 2 3 0 6 4 -17
+p230
+aVTyson Chandler NYK 03/03/2014 NYK @ DET L 42 8 3 9 33.3 0 0 - 2 2 100.0 5 13 18 2 1 2 1 4 -12
+p231
+aVJeremy Tyler NYK 03/03/2014 NYK @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 2 0 2 2
+p232
+aVRaymond Felton NYK 03/03/2014 NYK @ DET L 32 4 1 9 11.1 1 3 33.3 1 2 50.0 1 2 3 5 2 0 4 2 -5
+p233
+aVToure' Murry NYK 03/03/2014 NYK @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p234
+aVCole Aldrich NYK 03/03/2014 NYK @ DET L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p235
+aVIman Shumpert NYK 03/03/2014 NYK @ DET L 16 5 2 7 28.6 1 3 33.3 0 0 - 1 1 2 1 2 1 0 1 -10
+p236
+aVAmar'e Stoudemire NYK 03/03/2014 NYK @ DET L 32 22 9 11 81.8 0 0 - 4 4 100.0 2 4 6 0 0 0 0 3 -5
+p237
+aVJR Smith NYK 03/03/2014 NYK @ DET L 31 16 5 17 29.4 4 11 36.4 2 2 100.0 0 2 2 1 0 1 1 4 0
+p238
+aVPablo Prigioni NYK 03/03/2014 NYK @ DET L 16 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 3 -9
+p239
+aVTim Hardaway Jr. NYK 03/03/2014 NYK @ DET L 22 0 0 6 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 2 4 -5
+p240
+aVPablo Prigioni NYK 03/02/2014 NYK @ CHI L 17 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 3 0 1 0 2 -16
+p241
+aVAmar'e Stoudemire NYK 03/02/2014 NYK @ CHI L 23 14 7 8 87.5 0 0 - 0 0 - 1 5 6 0 0 0 1 6 0
+p242
+aVCarmelo Anthony NYK 03/02/2014 NYK @ CHI L 38 21 8 17 47.1 2 4 50.0 3 3 100.0 0 2 2 3 0 0 4 3 -10
+p243
+aVIman Shumpert NYK 03/02/2014 NYK @ CHI L 20 3 1 6 16.7 1 3 33.3 0 0 - 1 4 5 1 0 1 3 2 -9
+p244
+aVEarl Clark NYK 03/02/2014 NYK @ CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p245
+aVRaymond Felton NYK 03/02/2014 NYK @ CHI L 31 8 2 10 20.0 0 1 0.0 4 4 100.0 1 1 2 4 0 0 2 2 -15
+p246
+aVToure' Murry NYK 03/02/2014 NYK @ CHI L 4 3 1 2 50.0 0 0 - 1 1 100.0 1 2 3 1 0 0 1 0 -1
+p247
+aVJR Smith NYK 03/02/2014 NYK @ CHI L 28 13 6 12 50.0 0 2 0.0 1 2 50.0 0 1 1 2 0 0 0 2 -17
+p248
+aVTim Hardaway Jr. NYK 03/02/2014 NYK @ CHI L 25 14 5 14 35.7 2 8 25.0 2 2 100.0 0 2 2 1 0 0 0 2 -9
+p249
+aVJeremy Tyler NYK 03/02/2014 NYK @ CHI L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p250
+aVTyson Chandler NYK 03/02/2014 NYK @ CHI L 40 8 3 5 60.0 0 0 - 2 4 50.0 8 14 22 2 0 3 1 2 -15
+p251
+aVShannon Brown NYK 03/02/2014 NYK @ CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p252
+aVTim Hardaway Jr. NYK 02/28/2014 NYK vs. GSW L 40 22 6 11 54.5 4 7 57.1 6 6 100.0 0 2 2 0 2 0 1 3 -10
+p253
+aVEarl Clark NYK 02/28/2014 NYK vs. GSW L 11 8 2 5 40.0 0 2 0.0 4 4 100.0 0 4 4 1 0 2 0 0 -4
+p254
+aVPablo Prigioni NYK 02/28/2014 NYK vs. GSW L 10 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -18
+p255
+aVTyson Chandler NYK 02/28/2014 NYK vs. GSW L 30 6 2 10 20.0 0 0 - 2 3 66.7 3 9 12 3 2 0 2 5 -11
+p256
+aVJeremy Tyler NYK 02/28/2014 NYK vs. GSW L 19 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 1 1 5 -15
+p257
+aVShannon Brown NYK 02/28/2014 NYK vs. GSW L 15 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 2 0 0 1 3
+p258
+aVCarmelo Anthony NYK 02/28/2014 NYK vs. GSW L 37 23 7 26 26.9 1 6 16.7 8 8 100.0 7 9 16 2 1 0 2 3 -17
+p259
+aVToure' Murry NYK 02/28/2014 NYK vs. GSW L 24 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 0 1 3 0 -1
+p260
+aVRaymond Felton NYK 02/28/2014 NYK vs. GSW L 22 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 3 1 0 6 2 -17
+p261
+aVJR Smith NYK 02/28/2014 NYK vs. GSW L 31 17 7 19 36.8 3 7 42.9 0 0 - 1 3 4 1 0 0 2 2 -25
+p262
+aVCarmelo Anthony NYK 02/27/2014 NYK @ MIA L 36 29 11 20 55.0 3 8 37.5 4 6 66.7 3 4 7 2 0 1 4 4 -22
+p263
+aVEarl Clark NYK 02/27/2014 NYK @ MIA L 6 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 0
+p264
+aVPablo Prigioni NYK 02/27/2014 NYK @ MIA L 25 0 0 3 0.0 0 3 0.0 0 0 - 1 2 3 4 2 0 0 1 -8
+p265
+aVAmar'e Stoudemire NYK 02/27/2014 NYK @ MIA L 19 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -30
+p266
+aVShannon Brown NYK 02/27/2014 NYK @ MIA L 16 6 3 7 42.9 0 0 - 0 0 - 0 0 0 0 2 0 0 0 -14
+p267
+aVTim Hardaway Jr. NYK 02/27/2014 NYK @ MIA L 34 6 2 15 13.3 0 8 0.0 2 2 100.0 1 2 3 0 0 0 1 4 -35
+p268
+aVToure' Murry NYK 02/27/2014 NYK @ MIA L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p269
+aVJR Smith NYK 02/27/2014 NYK @ MIA L 28 11 4 9 44.4 1 2 50.0 2 4 50.0 0 1 1 5 0 0 2 2 -7
+p270
+aVRaymond Felton NYK 02/27/2014 NYK @ MIA L 31 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 5 3 0 2 3 -9
+p271
+aVTyson Chandler NYK 02/27/2014 NYK @ MIA L 32 19 6 9 66.7 0 0 - 7 8 87.5 6 10 16 0 0 0 2 2 -6
+p272
+aVJeremy Tyler NYK 02/27/2014 NYK @ MIA L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 1
+p273
+aVRaymond Felton NYK 02/24/2014 NYK vs. DAL L 34 8 3 4 75.0 2 3 66.7 0 0 - 2 1 3 7 2 0 2 3 -7
+p274
+aVTim Hardaway Jr. NYK 02/24/2014 NYK vs. DAL L 31 10 4 10 40.0 2 8 25.0 0 0 - 0 2 2 0 0 0 1 3 8
+p275
+aVAmar'e Stoudemire NYK 02/24/2014 NYK vs. DAL L 20 9 3 5 60.0 0 0 - 3 3 100.0 1 1 2 1 0 0 2 4 -8
+p276
+aVJeremy Tyler NYK 02/24/2014 NYK vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -5
+p277
+aVCole Aldrich NYK 02/24/2014 NYK vs. DAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 12
+p278
+aVCarmelo Anthony NYK 02/24/2014 NYK vs. DAL L 42 44 14 29 48.3 7 12 58.3 9 9 100.0 4 5 9 4 0 1 4 3 2
+p279
+aVTyson Chandler NYK 02/24/2014 NYK vs. DAL L 36 12 5 5 100.0 0 0 - 2 4 50.0 3 9 12 0 1 2 4 4 -14
+p280
+aVPablo Prigioni NYK 02/24/2014 NYK vs. DAL L 28 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 4 0 0 1 3 -2
+p281
+aVJR Smith NYK 02/24/2014 NYK vs. DAL L 35 15 7 16 43.8 1 6 16.7 0 0 - 1 3 4 7 0 0 4 2 4
+p282
+aVToure' Murry NYK 02/22/2014 NYK @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p283
+aVTim Hardaway Jr. NYK 02/22/2014 NYK @ ATL L 30 7 3 10 30.0 1 5 20.0 0 0 - 0 0 0 1 0 0 1 6 -5
+p284
+aVAmar'e Stoudemire NYK 02/22/2014 NYK @ ATL L 28 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 1 1 1 0 -11
+p285
+aVRaymond Felton NYK 02/22/2014 NYK @ ATL L 36 16 6 15 40.0 2 6 33.3 2 2 100.0 3 2 5 10 1 0 2 5 -1
+p286
+aVJeremy Tyler NYK 02/22/2014 NYK @ ATL L 6 3 1 1 100.0 0 0 - 1 4 25.0 1 0 1 0 0 0 0 0 -6
+p287
+aVJR Smith NYK 02/22/2014 NYK @ ATL L 39 11 4 13 30.8 1 4 25.0 2 4 50.0 0 5 5 3 1 0 2 4 -20
+p288
+aVTyson Chandler NYK 02/22/2014 NYK @ ATL L 36 10 5 13 38.5 0 0 - 0 0 - 4 19 23 1 1 2 1 2 6
+p289
+aVCole Aldrich NYK 02/22/2014 NYK @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p290
+aVCarmelo Anthony NYK 02/22/2014 NYK @ ATL L 37 35 13 25 52.0 4 8 50.0 5 6 83.3 0 4 4 3 0 1 3 4 2
+p291
+aVPablo Prigioni NYK 02/22/2014 NYK @ ATL L 26 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 4 2 0 0 3 -12
+p292
+aVCarmelo Anthony NYK 02/21/2014 NYK @ ORL L 50 44 16 28 57.1 6 10 60.0 6 7 85.7 2 9 11 4 1 0 2 3 -2
+p293
+aVPablo Prigioni NYK 02/21/2014 NYK @ ORL L 25 9 3 4 75.0 3 4 75.0 0 0 - 1 1 2 4 0 0 2 1 -11
+p294
+aVAmar'e Stoudemire NYK 02/21/2014 NYK @ ORL L 18 10 3 6 50.0 0 0 - 4 6 66.7 1 3 4 1 0 0 1 3 -19
+p295
+aVJR Smith NYK 02/21/2014 NYK @ ORL L 49 10 4 14 28.6 2 6 33.3 0 0 - 0 5 5 4 2 0 1 2 4
+p296
+aVMetta World Peace NYK 02/21/2014 NYK @ ORL L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 1 -4
+p297
+aVRaymond Felton NYK 02/21/2014 NYK @ ORL L 45 15 7 16 43.8 1 7 14.3 0 0 - 0 4 4 8 1 2 2 3 3
+p298
+aVJeremy Tyler NYK 02/21/2014 NYK @ ORL L 9 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 1 -9
+p299
+aVTim Hardaway Jr. NYK 02/21/2014 NYK @ ORL L 45 15 6 16 37.5 3 6 50.0 0 0 - 1 3 4 0 0 0 1 5 -8
+p300
+aVTyson Chandler NYK 02/21/2014 NYK @ ORL L 42 14 5 8 62.5 0 0 - 4 8 50.0 1 10 11 3 2 1 1 2 6
+p301
+aVTim Hardaway Jr. NYK 02/19/2014 NYK @ NOP W 36 16 6 13 46.2 3 6 50.0 1 2 50.0 0 3 3 2 1 0 0 1 9
+p302
+aVJeremy Tyler NYK 02/19/2014 NYK @ NOP W 15 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -2
+p303
+aVRaymond Felton NYK 02/19/2014 NYK @ NOP W 33 5 1 8 12.5 0 1 0.0 3 3 100.0 1 6 7 7 0 1 1 1 15
+p304
+aVIman Shumpert NYK 02/19/2014 NYK @ NOP W 17 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 2 1 0 2 1 2
+p305
+aVJR Smith NYK 02/19/2014 NYK @ NOP W 40 19 7 13 53.8 3 4 75.0 2 3 66.7 1 4 5 3 2 0 1 2 8
+p306
+aVPablo Prigioni NYK 02/19/2014 NYK @ NOP W 23 6 2 4 50.0 2 3 66.7 0 0 - 2 1 3 4 1 0 0 4 -9
+p307
+aVTyson Chandler NYK 02/19/2014 NYK @ NOP W 36 4 2 6 33.3 0 0 - 0 0 - 6 5 11 0 0 2 3 3 7
+p308
+aVCarmelo Anthony NYK 02/19/2014 NYK @ NOP W 40 42 16 29 55.2 2 6 33.3 8 12 66.7 2 2 4 2 3 2 2 2 5
+p309
+aVJeremy Tyler NYK 02/18/2014 NYK @ MEM L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 2 2 -7
+p310
+aVCarmelo Anthony NYK 02/18/2014 NYK @ MEM L 42 22 8 22 36.4 1 5 20.0 5 8 62.5 4 7 11 2 2 0 1 2 5
+p311
+aVPablo Prigioni NYK 02/18/2014 NYK @ MEM L 30 7 3 5 60.0 1 3 33.3 0 0 - 3 2 5 10 1 0 2 4 2
+p312
+aVTim Hardaway Jr. NYK 02/18/2014 NYK @ MEM L 24 23 7 15 46.7 4 9 44.4 5 5 100.0 1 0 1 0 1 0 1 3 -13
+p313
+aVAmar'e Stoudemire NYK 02/18/2014 NYK @ MEM L 23 12 4 11 36.4 0 0 - 4 4 100.0 3 3 6 0 1 1 2 3 -5
+p314
+aVJR Smith NYK 02/18/2014 NYK @ MEM L 35 4 2 8 25.0 0 2 0.0 0 0 - 1 4 5 1 0 0 1 0 -8
+p315
+aVIman Shumpert NYK 02/18/2014 NYK @ MEM L 20 6 3 9 33.3 0 5 0.0 0 0 - 0 2 2 0 0 0 0 2 2
+p316
+aVRaymond Felton NYK 02/18/2014 NYK @ MEM L 29 6 2 7 28.6 0 3 0.0 2 2 100.0 0 3 3 1 2 1 1 1 1
+p317
+aVTyson Chandler NYK 02/18/2014 NYK @ MEM L 26 9 4 5 80.0 0 0 - 1 1 100.0 2 4 6 1 1 2 2 6 -2
+p318
+aVJeremy Tyler NYK 02/12/2014 NYK vs. SAC L 12 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -7
+p319
+aVIman Shumpert NYK 02/12/2014 NYK vs. SAC L 22 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 2 3 0 2 2 9
+p320
+aVRaymond Felton NYK 02/12/2014 NYK vs. SAC L 41 8 3 11 27.3 0 2 0.0 2 4 50.0 4 2 6 12 0 0 3 5 7
+p321
+aVTyson Chandler NYK 02/12/2014 NYK vs. SAC L 41 17 8 12 66.7 0 0 - 1 2 50.0 3 8 11 2 1 1 1 3 2
+p322
+aVPablo Prigioni NYK 02/12/2014 NYK vs. SAC L 23 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 5 2 0 1 2 -1
+p323
+aVTim Hardaway Jr. NYK 02/12/2014 NYK vs. SAC L 38 7 3 12 25.0 1 6 16.7 0 1 0.0 1 1 2 1 1 0 2 1 -28
+p324
+aVAmar'e Stoudemire NYK 02/12/2014 NYK vs. SAC L 37 20 10 15 66.7 0 0 - 0 0 - 3 5 8 1 0 2 6 3 -6
+p325
+aVToure' Murry NYK 02/12/2014 NYK vs. SAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p326
+aVCarmelo Anthony NYK 02/12/2014 NYK vs. SAC L 48 36 12 28 42.9 5 11 45.5 7 7 100.0 1 10 11 3 0 0 3 3 6
+p327
+aVRaymond Felton NYK 02/09/2014 NYK @ OKC L 34 16 7 14 50.0 2 4 50.0 0 0 - 2 5 7 7 1 0 3 4 -14
+p328
+aVCole Aldrich NYK 02/09/2014 NYK @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p329
+aVMetta World Peace NYK 02/09/2014 NYK @ OKC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p330
+aVToure' Murry NYK 02/09/2014 NYK @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p331
+aVIman Shumpert NYK 02/09/2014 NYK @ OKC L 22 12 4 9 44.4 4 8 50.0 0 0 - 1 2 3 2 0 0 2 3 -5
+p332
+aVJR Smith NYK 02/09/2014 NYK @ OKC L 31 7 3 10 30.0 1 4 25.0 0 1 0.0 0 2 2 5 1 0 2 1 -10
+p333
+aVJeremy Tyler NYK 02/09/2014 NYK @ OKC L 11 10 4 8 50.0 0 0 - 2 2 100.0 1 4 5 0 0 1 2 1 2
+p334
+aVCarmelo Anthony NYK 02/09/2014 NYK @ OKC L 36 15 5 19 26.3 1 5 20.0 4 5 80.0 4 3 7 5 1 0 1 5 -9
+p335
+aVAmar'e Stoudemire NYK 02/09/2014 NYK @ OKC L 26 16 5 11 45.5 0 0 - 6 7 85.7 3 1 4 0 0 0 0 2 -14
+p336
+aVTyson Chandler NYK 02/09/2014 NYK @ OKC L 32 12 5 6 83.3 0 0 - 2 3 66.7 1 6 7 1 2 2 1 1 -10
+p337
+aVTim Hardaway Jr. NYK 02/09/2014 NYK @ OKC L 22 5 2 6 33.3 0 2 0.0 1 2 50.0 0 2 2 1 0 0 0 2 -7
+p338
+aVPablo Prigioni NYK 02/09/2014 NYK @ OKC L 22 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 4 1 0 1 1 1
+p339
+aVTim Hardaway Jr. NYK 02/07/2014 NYK vs. DEN W 30 10 4 9 44.4 2 6 33.3 0 0 - 0 1 1 2 0 0 1 2 13
+p340
+aVMetta World Peace NYK 02/07/2014 NYK vs. DEN W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 3 0 6
+p341
+aVTyson Chandler NYK 02/07/2014 NYK vs. DEN W 23 12 6 7 85.7 0 0 - 0 1 0.0 2 6 8 0 3 0 4 1 15
+p342
+aVCole Aldrich NYK 02/07/2014 NYK vs. DEN W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 6
+p343
+aVJR Smith NYK 02/07/2014 NYK vs. DEN W 24 13 5 12 41.7 2 6 33.3 1 2 50.0 0 0 0 2 2 0 2 3 3
+p344
+aVJeremy Tyler NYK 02/07/2014 NYK vs. DEN W 22 12 5 9 55.6 0 0 - 2 3 66.7 3 8 11 2 1 0 1 5 18
+p345
+aVAmar'e Stoudemire NYK 02/07/2014 NYK vs. DEN W 20 17 7 12 58.3 0 0 - 3 3 100.0 1 7 8 0 0 0 1 2 2
+p346
+aVPablo Prigioni NYK 02/07/2014 NYK vs. DEN W 22 0 0 0 - 0 0 - 0 0 - 1 1 2 6 4 0 1 1 18
+p347
+aVCarmelo Anthony NYK 02/07/2014 NYK vs. DEN W 33 31 12 21 57.1 4 9 44.4 3 3 100.0 0 3 3 2 1 1 3 1 18
+p348
+aVIman Shumpert NYK 02/07/2014 NYK vs. DEN W 17 5 2 5 40.0 1 4 25.0 0 0 - 1 1 2 0 0 0 4 3 18
+p349
+aVRaymond Felton NYK 02/07/2014 NYK vs. DEN W 28 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 8 2 0 1 0 16
+p350
+aVToure' Murry NYK 02/07/2014 NYK vs. DEN W 10 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 1 0 2 3 2
+p351
+aVCarmelo Anthony NYK 02/05/2014 NYK vs. POR L 40 26 11 28 39.3 1 6 16.7 3 3 100.0 2 6 8 0 1 2 1 3 -13
+p352
+aVJeremy Tyler NYK 02/05/2014 NYK vs. POR L 11 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 0 0 2 0 3 10
+p353
+aVRaymond Felton NYK 02/05/2014 NYK vs. POR L 23 7 2 6 33.3 0 1 0.0 3 6 50.0 1 3 4 3 0 0 1 1 -10
+p354
+aVTim Hardaway Jr. NYK 02/05/2014 NYK vs. POR L 27 12 5 13 38.5 1 7 14.3 1 2 50.0 0 5 5 0 0 0 1 1 9
+p355
+aVAmar'e Stoudemire NYK 02/05/2014 NYK vs. POR L 22 15 6 10 60.0 0 0 - 3 4 75.0 2 5 7 0 0 1 1 0 2
+p356
+aVPablo Prigioni NYK 02/05/2014 NYK vs. POR L 31 5 2 6 33.3 1 3 33.3 0 0 - 4 3 7 7 2 0 0 3 4
+p357
+aVTyson Chandler NYK 02/05/2014 NYK vs. POR L 31 2 1 3 33.3 0 0 - 0 0 - 2 7 9 1 2 0 0 5 -6
+p358
+aVJR Smith NYK 02/05/2014 NYK vs. POR L 31 18 7 14 50.0 1 4 25.0 3 3 100.0 1 2 3 6 1 0 5 5 -8
+p359
+aVIman Shumpert NYK 02/05/2014 NYK vs. POR L 24 0 0 5 0.0 0 0 - 0 0 - 1 2 3 1 2 0 0 3 -8
+p360
+aVRaymond Felton NYK 02/03/2014 NYK @ MIL L 35 3 1 7 14.3 1 2 50.0 0 2 0.0 1 4 5 7 2 0 0 2 3
+p361
+aVIman Shumpert NYK 02/03/2014 NYK @ MIL L 25 5 2 7 28.6 1 3 33.3 0 0 - 1 0 1 0 1 0 1 4 -16
+p362
+aVCarmelo Anthony NYK 02/03/2014 NYK @ MIL L 37 36 13 25 52.0 5 10 50.0 5 6 83.3 1 4 5 3 0 0 4 3 3
+p363
+aVPablo Prigioni NYK 02/03/2014 NYK @ MIL L 22 3 1 2 50.0 1 2 50.0 0 0 - 0 6 6 1 0 0 0 0 -14
+p364
+aVJeremy Tyler NYK 02/03/2014 NYK @ MIL L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p365
+aVTim Hardaway Jr. NYK 02/03/2014 NYK @ MIL L 28 7 2 10 20.0 1 6 16.7 2 2 100.0 0 1 1 2 1 0 0 1 7
+p366
+aVJR Smith NYK 02/03/2014 NYK @ MIL L 39 30 9 17 52.9 6 11 54.5 6 6 100.0 0 7 7 3 0 0 2 4 6
+p367
+aVTyson Chandler NYK 02/03/2014 NYK @ MIL L 35 7 3 3 100.0 0 0 - 1 6 16.7 3 7 10 0 0 1 1 3 -4
+p368
+aVAmar'e Stoudemire NYK 02/03/2014 NYK @ MIL L 17 7 3 7 42.9 0 0 - 1 2 50.0 1 3 4 1 0 1 1 2 -3
+p369
+aVJR Smith NYK 02/01/2014 NYK vs. MIA L 40 20 6 11 54.5 4 7 57.1 4 8 50.0 0 2 2 0 1 0 2 4 -16
+p370
+aVToure' Murry NYK 02/01/2014 NYK vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p371
+aVTyson Chandler NYK 02/01/2014 NYK vs. MIA L 34 8 4 5 80.0 0 0 - 0 0 - 4 7 11 0 0 2 1 4 -10
+p372
+aVAmar'e Stoudemire NYK 02/01/2014 NYK vs. MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p373
+aVCarmelo Anthony NYK 02/01/2014 NYK vs. MIA L 41 26 8 17 47.1 1 4 25.0 9 13 69.2 1 7 8 4 1 0 7 4 -10
+p374
+aVKenyon Martin NYK 02/01/2014 NYK vs. MIA L 15 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 2 1 2 2
+p375
+aVCole Aldrich NYK 02/01/2014 NYK vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p376
+aVMetta World Peace NYK 02/01/2014 NYK vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p377
+aVTim Hardaway Jr. NYK 02/01/2014 NYK vs. MIA L 37 17 7 14 50.0 3 7 42.9 0 0 - 0 1 1 1 1 0 1 3 -19
+p378
+aVRaymond Felton NYK 02/01/2014 NYK vs. MIA L 34 7 3 9 33.3 1 3 33.3 0 0 - 0 2 2 4 2 0 4 1 -12
+p379
+aVJeremy Tyler NYK 02/01/2014 NYK vs. MIA L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 0
+p380
+aVPablo Prigioni NYK 02/01/2014 NYK vs. MIA L 26 6 2 5 40.0 2 5 40.0 0 0 - 2 1 3 4 2 0 1 2 -8
+p381
+aVJeremy Tyler NYK 01/30/2014 NYK vs. CLE W 22 8 4 6 66.7 0 0 - 0 1 0.0 2 4 6 1 2 1 2 4 14
+p382
+aVRaymond Felton NYK 01/30/2014 NYK vs. CLE W 36 12 5 10 50.0 0 2 0.0 2 2 100.0 0 5 5 9 1 2 4 2 33
+p383
+aVCole Aldrich NYK 01/30/2014 NYK vs. CLE W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 2 2 1 5
+p384
+aVJR Smith NYK 01/30/2014 NYK vs. CLE W 35 19 8 16 50.0 2 5 40.0 1 3 33.3 1 3 4 2 1 1 0 1 16
+p385
+aVToure' Murry NYK 01/30/2014 NYK vs. CLE W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 2 0 2
+p386
+aVTim Hardaway Jr. NYK 01/30/2014 NYK vs. CLE W 30 29 11 17 64.7 6 12 50.0 1 1 100.0 0 3 3 1 0 0 1 3 10
+p387
+aVMetta World Peace NYK 01/30/2014 NYK vs. CLE W 19 5 2 4 50.0 1 2 50.0 0 2 0.0 3 3 6 1 0 0 1 2 24
+p388
+aVPablo Prigioni NYK 01/30/2014 NYK vs. CLE W 22 0 0 0 - 0 0 - 0 0 - 2 1 3 4 0 0 1 2 15
+p389
+aVTyson Chandler NYK 01/30/2014 NYK vs. CLE W 32 11 4 4 100.0 0 0 - 3 5 60.0 0 8 8 0 0 3 1 1 27
+p390
+aVCarmelo Anthony NYK 01/30/2014 NYK vs. CLE W 30 29 8 17 47.1 3 5 60.0 10 12 83.3 0 5 5 1 1 1 2 2 9
+p391
+aVIman Shumpert NYK 01/28/2014 NYK vs. BOS W 8 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 14
+p392
+aVCarmelo Anthony NYK 01/28/2014 NYK vs. BOS W 28 24 8 15 53.3 3 5 60.0 5 7 71.4 2 7 9 3 4 0 3 3 22
+p393
+aVJeremy Tyler NYK 01/28/2014 NYK vs. BOS W 23 17 7 9 77.8 0 0 - 3 5 60.0 3 2 5 0 0 2 2 2 -2
+p394
+aVPablo Prigioni NYK 01/28/2014 NYK vs. BOS W 27 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 2 2 0 1 3 12
+p395
+aVJR Smith NYK 01/28/2014 NYK vs. BOS W 34 17 6 14 42.9 3 5 60.0 2 5 40.0 0 1 1 5 0 2 0 2 13
+p396
+aVTyson Chandler NYK 01/28/2014 NYK vs. BOS W 23 12 5 6 83.3 0 0 - 2 2 100.0 2 11 13 0 0 0 0 0 28
+p397
+aVMetta World Peace NYK 01/28/2014 NYK vs. BOS W 8 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 0
+p398
+aVRaymond Felton NYK 01/28/2014 NYK vs. BOS W 25 4 2 6 33.3 0 1 0.0 0 0 - 2 2 4 8 1 1 4 1 24
+p399
+aVTim Hardaway Jr. NYK 01/28/2014 NYK vs. BOS W 33 16 5 10 50.0 2 4 50.0 4 4 100.0 0 2 2 2 1 0 1 3 10
+p400
+aVKenyon Martin NYK 01/28/2014 NYK vs. BOS W 9 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 0 1 1 1 12
+p401
+aVCole Aldrich NYK 01/28/2014 NYK vs. BOS W 14 2 1 1 100.0 0 0 - 0 0 - 2 4 6 1 0 1 0 2 -3
+p402
+aVToure' Murry NYK 01/28/2014 NYK vs. BOS W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 1 0 1 2 0
+p403
+aVCarmelo Anthony NYK 01/26/2014 NYK vs. LAL W 40 35 14 31 45.2 2 7 28.6 5 6 83.3 1 3 4 5 0 1 2 2 8
+p404
+aVTim Hardaway Jr. NYK 01/26/2014 NYK vs. LAL W 26 18 7 12 58.3 4 5 80.0 0 1 0.0 2 2 4 0 1 0 1 1 -1
+p405
+aVRaymond Felton NYK 01/26/2014 NYK vs. LAL W 36 20 8 10 80.0 2 2 100.0 2 2 100.0 1 1 2 5 1 1 1 2 11
+p406
+aVPablo Prigioni NYK 01/26/2014 NYK vs. LAL W 22 0 0 3 0.0 0 3 0.0 0 0 - 1 1 2 4 0 0 1 4 -3
+p407
+aVTyson Chandler NYK 01/26/2014 NYK vs. LAL W 30 13 5 11 45.5 0 0 - 3 3 100.0 6 8 14 0 1 1 1 4 11
+p408
+aVCole Aldrich NYK 01/26/2014 NYK vs. LAL W 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 3 0 0 -5
+p409
+aVJR Smith NYK 01/26/2014 NYK vs. LAL W 38 16 6 12 50.0 2 4 50.0 2 4 50.0 0 6 6 4 0 0 1 2 6
+p410
+aVJeremy Tyler NYK 01/26/2014 NYK vs. LAL W 9 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 0 0 0 1 2 -2
+p411
+aVIman Shumpert NYK 01/26/2014 NYK vs. LAL W 27 5 2 7 28.6 1 5 20.0 0 0 - 1 3 4 2 1 0 3 2 10
+p412
+aVCarmelo Anthony NYK 01/24/2014 NYK vs. CHA W 39 62 23 35 65.7 6 11 54.5 10 10 100.0 1 12 13 0 0 0 0 1 34
+p413
+aVJeremy Tyler NYK 01/24/2014 NYK vs. CHA W 22 8 4 8 50.0 0 0 - 0 0 - 3 2 5 1 1 2 0 1 9
+p414
+aVIman Shumpert NYK 01/24/2014 NYK vs. CHA W 19 4 2 6 33.3 0 0 - 0 0 - 1 1 2 3 1 0 0 3 12
+p415
+aVPablo Prigioni NYK 01/24/2014 NYK vs. CHA W 22 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 3 1 0 0 2 21
+p416
+aVTyson Chandler NYK 01/24/2014 NYK vs. CHA W 19 2 1 2 50.0 0 0 - 0 0 - 2 4 6 2 0 2 1 3 22
+p417
+aVToure' Murry NYK 01/24/2014 NYK vs. CHA W 7 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -8
+p418
+aVCole Aldrich NYK 01/24/2014 NYK vs. CHA W 15 2 1 4 25.0 0 0 - 0 0 - 4 4 8 0 0 0 0 2 -10
+p419
+aVBeno Udrih NYK 01/24/2014 NYK vs. CHA W 7 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 -8
+p420
+aVTim Hardaway Jr. NYK 01/24/2014 NYK vs. CHA W 31 10 4 8 50.0 2 6 33.3 0 0 - 0 1 1 3 1 0 0 2 20
+p421
+aVJR Smith NYK 01/24/2014 NYK vs. CHA W 31 14 5 9 55.6 3 4 75.0 1 1 100.0 0 2 2 4 2 0 2 3 25
+p422
+aVRaymond Felton NYK 01/24/2014 NYK vs. CHA W 28 11 5 9 55.6 1 3 33.3 0 0 - 0 1 1 5 1 0 1 1 28
+p423
+aVTim Hardaway Jr. NYK 01/22/2014 NYK vs. PHI L 16 6 2 5 40.0 1 3 33.3 1 1 100.0 0 1 1 0 1 0 1 0 13
+p424
+aVRaymond Felton NYK 01/22/2014 NYK vs. PHI L 31 9 4 10 40.0 1 3 33.3 0 0 - 1 1 2 7 1 1 1 4 -9
+p425
+aVJR Smith NYK 01/22/2014 NYK vs. PHI L 34 14 5 16 31.3 3 9 33.3 1 4 25.0 0 3 3 3 1 2 1 5 5
+p426
+aVCarmelo Anthony NYK 01/22/2014 NYK vs. PHI L 41 28 10 23 43.5 6 8 75.0 2 3 66.7 1 3 4 7 2 1 3 4 -8
+p427
+aVAndrea Bargnani NYK 01/22/2014 NYK vs. PHI L 28 20 7 12 58.3 1 5 20.0 5 6 83.3 0 4 4 0 0 4 5 4 5
+p428
+aVIman Shumpert NYK 01/22/2014 NYK vs. PHI L 34 19 5 9 55.6 3 5 60.0 6 8 75.0 3 5 8 2 0 0 1 4 -19
+p429
+aVPablo Prigioni NYK 01/22/2014 NYK vs. PHI L 17 0 0 0 - 0 0 - 0 0 - 1 2 3 4 2 0 0 2 5
+p430
+aVJeremy Tyler NYK 01/22/2014 NYK vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p431
+aVTyson Chandler NYK 01/22/2014 NYK vs. PHI L 35 10 4 7 57.1 0 0 - 2 2 100.0 2 12 14 1 0 3 1 1 -8
+p432
+aVToure' Murry NYK 01/20/2014 NYK vs. BKN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p433
+aVCole Aldrich NYK 01/20/2014 NYK vs. BKN L 3 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -4
+p434
+aVPablo Prigioni NYK 01/20/2014 NYK vs. BKN L 19 2 0 3 0.0 0 3 0.0 2 2 100.0 2 3 5 2 0 0 3 1 -10
+p435
+aVIman Shumpert NYK 01/20/2014 NYK vs. BKN L 20 5 2 8 25.0 1 6 16.7 0 0 - 1 1 2 0 0 1 1 3 -11
+p436
+aVTyson Chandler NYK 01/20/2014 NYK vs. BKN L 35 4 2 2 100.0 0 0 - 0 2 0.0 5 5 10 1 0 1 0 2 -11
+p437
+aVTim Hardaway Jr. NYK 01/20/2014 NYK vs. BKN L 25 11 3 5 60.0 1 2 50.0 4 5 80.0 0 2 2 0 0 0 0 2 -15
+p438
+aVJeremy Tyler NYK 01/20/2014 NYK vs. BKN L 3 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -4
+p439
+aVBeno Udrih NYK 01/20/2014 NYK vs. BKN L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p440
+aVRaymond Felton NYK 01/20/2014 NYK vs. BKN L 35 9 2 11 18.2 1 4 25.0 4 8 50.0 0 2 2 6 1 0 3 3 -11
+p441
+aVAndrea Bargnani NYK 01/20/2014 NYK vs. BKN L 19 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 1 0 1 3 1 -15
+p442
+aVCarmelo Anthony NYK 01/20/2014 NYK vs. BKN L 39 26 8 19 42.1 2 4 50.0 8 13 61.5 3 9 12 2 2 0 2 0 -11
+p443
+aVJR Smith NYK 01/20/2014 NYK vs. BKN L 34 15 4 12 33.3 3 6 50.0 4 4 100.0 0 3 3 0 1 0 2 3 -16
+p444
+aVCarmelo Anthony NYK 01/17/2014 NYK vs. LAC L 40 26 4 23 17.4 2 7 28.6 16 16 100.0 7 13 20 3 2 0 4 5 -12
+p445
+aVJeremy Tyler NYK 01/17/2014 NYK vs. LAC L 14 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -4
+p446
+aVToure' Murry NYK 01/17/2014 NYK vs. LAC L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 2 3 -9
+p447
+aVAndrea Bargnani NYK 01/17/2014 NYK vs. LAC L 36 13 5 12 41.7 0 2 0.0 3 4 75.0 3 3 6 1 0 1 3 3 -18
+p448
+aVTyson Chandler NYK 01/17/2014 NYK vs. LAC L 37 12 3 8 37.5 0 0 - 6 8 75.0 6 8 14 3 0 0 2 6 -8
+p449
+aVIman Shumpert NYK 01/17/2014 NYK vs. LAC L 25 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 3 2 -4
+p450
+aVJR Smith NYK 01/17/2014 NYK vs. LAC L 35 24 9 18 50.0 3 7 42.9 3 4 75.0 1 3 4 2 0 0 0 4 -5
+p451
+aVRaymond Felton NYK 01/17/2014 NYK vs. LAC L 32 5 2 8 25.0 0 3 0.0 1 2 50.0 2 2 4 9 0 0 4 5 -6
+p452
+aVTim Hardaway Jr. NYK 01/17/2014 NYK vs. LAC L 11 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 -4
+p453
+aVCarmelo Anthony NYK 01/16/2014 NYK @ IND L 31 28 8 17 47.1 3 3 100.0 9 9 100.0 3 4 7 1 0 1 2 1 -16
+p454
+aVIman Shumpert NYK 01/16/2014 NYK @ IND L 20 2 1 4 25.0 0 3 0.0 0 0 - 1 4 5 2 0 0 0 3 -10
+p455
+aVAmar'e Stoudemire NYK 01/16/2014 NYK @ IND L 14 8 3 6 50.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 2 -12
+p456
+aVToure' Murry NYK 01/16/2014 NYK @ IND L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p457
+aVCole Aldrich NYK 01/16/2014 NYK @ IND L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 0 0
+p458
+aVKenyon Martin NYK 01/16/2014 NYK @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p459
+aVBeno Udrih NYK 01/16/2014 NYK @ IND L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 0 1 1 0 -10
+p460
+aVTyson Chandler NYK 01/16/2014 NYK @ IND L 26 13 4 8 50.0 0 0 - 5 8 62.5 2 7 9 3 0 1 1 3 -15
+p461
+aVAndrea Bargnani NYK 01/16/2014 NYK @ IND L 32 6 3 9 33.3 0 1 0.0 0 0 - 2 5 7 0 0 2 2 2 -23
+p462
+aVJeremy Tyler NYK 01/16/2014 NYK @ IND L 7 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -6
+p463
+aVTim Hardaway Jr. NYK 01/16/2014 NYK @ IND L 21 4 2 10 20.0 0 5 0.0 0 0 - 0 0 0 0 0 0 1 3 -6
+p464
+aVRaymond Felton NYK 01/16/2014 NYK @ IND L 29 12 5 10 50.0 1 3 33.3 1 1 100.0 0 4 4 5 2 0 4 3 -19
+p465
+aVJR Smith NYK 01/16/2014 NYK @ IND L 28 12 6 12 50.0 0 3 0.0 0 0 - 0 4 4 1 0 0 1 3 -18
+p466
+aVCole Aldrich NYK 01/14/2014 NYK @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p467
+aVToure' Murry NYK 01/14/2014 NYK @ CHA L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 13
+p468
+aVTyson Chandler NYK 01/14/2014 NYK @ CHA L 16 5 2 2 100.0 0 0 - 1 1 100.0 0 4 4 0 0 1 2 2 -7
+p469
+aVAndrea Bargnani NYK 01/14/2014 NYK @ CHA L 22 8 3 4 75.0 1 1 100.0 1 2 50.0 0 1 1 1 0 2 0 1 -21
+p470
+aVAmar'e Stoudemire NYK 01/14/2014 NYK @ CHA L 22 17 6 10 60.0 0 0 - 5 5 100.0 0 4 4 2 0 0 2 3 4
+p471
+aVRaymond Felton NYK 01/14/2014 NYK @ CHA L 29 13 5 12 41.7 1 1 100.0 2 2 100.0 0 2 2 3 1 1 1 6 -21
+p472
+aVTim Hardaway Jr. NYK 01/14/2014 NYK @ CHA L 27 12 4 10 40.0 2 6 33.3 2 3 66.7 1 0 1 1 1 0 0 0 -6
+p473
+aVCarmelo Anthony NYK 01/14/2014 NYK @ CHA L 38 20 9 22 40.9 0 4 0.0 2 2 100.0 0 6 6 3 0 1 2 1 -20
+p474
+aVIman Shumpert NYK 01/14/2014 NYK @ CHA L 33 5 2 5 40.0 1 4 25.0 0 1 0.0 0 3 3 3 1 1 1 5 5
+p475
+aVJeremy Tyler NYK 01/14/2014 NYK @ CHA L 2 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 5
+p476
+aVBeno Udrih NYK 01/14/2014 NYK @ CHA L 13 6 2 3 66.7 1 1 100.0 1 2 50.0 1 1 2 5 1 1 1 0 3
+p477
+aVKenyon Martin NYK 01/14/2014 NYK @ CHA L 28 6 3 6 50.0 0 0 - 0 0 - 1 5 6 1 0 1 0 5 -7
+p478
+aVAmar'e Stoudemire NYK 01/13/2014 NYK vs. PHX W 19 9 2 5 40.0 0 0 - 5 6 83.3 1 6 7 0 0 0 3 5 3
+p479
+aVIman Shumpert NYK 01/13/2014 NYK vs. PHX W 38 6 2 5 40.0 1 4 25.0 1 2 50.0 2 7 9 1 1 0 2 3 13
+p480
+aVKenyon Martin NYK 01/13/2014 NYK vs. PHX W 35 8 4 9 44.4 0 0 - 0 0 - 4 5 9 2 0 1 3 5 -10
+p481
+aVRaymond Felton NYK 01/13/2014 NYK vs. PHX W 44 19 8 16 50.0 2 6 33.3 1 2 50.0 0 1 1 1 1 1 2 5 7
+p482
+aVJR Smith NYK 01/13/2014 NYK vs. PHX W 25 10 5 11 45.5 0 1 0.0 0 2 0.0 0 2 2 2 0 1 0 2 -15
+p483
+aVAndrea Bargnani NYK 01/13/2014 NYK vs. PHX W 33 10 3 8 37.5 0 2 0.0 4 4 100.0 1 6 7 1 0 1 2 3 22
+p484
+aVCarmelo Anthony NYK 01/13/2014 NYK vs. PHX W 46 29 9 24 37.5 3 6 50.0 8 9 88.9 3 13 16 4 1 1 5 5 2
+p485
+aVToure' Murry NYK 01/13/2014 NYK vs. PHX W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p486
+aVTim Hardaway Jr. NYK 01/13/2014 NYK vs. PHX W 15 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 2 -10
+p487
+aVToure' Murry NYK 01/11/2014 NYK @ PHI W 12 8 3 6 50.0 0 0 - 2 3 66.7 0 0 0 0 0 0 0 4 6
+p488
+aVIman Shumpert NYK 01/11/2014 NYK @ PHI W 32 7 2 9 22.2 2 6 33.3 1 2 50.0 2 5 7 1 4 0 2 1 3
+p489
+aVTim Hardaway Jr. NYK 01/11/2014 NYK @ PHI W 22 7 2 3 66.7 1 2 50.0 2 2 100.0 0 2 2 0 2 0 1 0 0
+p490
+aVCarmelo Anthony NYK 01/11/2014 NYK @ PHI W 36 18 8 21 38.1 0 3 0.0 2 3 66.7 2 7 9 7 1 0 3 2 19
+p491
+aVAndrea Bargnani NYK 01/11/2014 NYK @ PHI W 24 10 4 9 44.4 0 2 0.0 2 2 100.0 1 3 4 3 0 0 1 3 -8
+p492
+aVCole Aldrich NYK 01/11/2014 NYK @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p493
+aVJeremy Tyler NYK 01/11/2014 NYK @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p494
+aVJR Smith NYK 01/11/2014 NYK @ PHI W 27 14 5 8 62.5 3 4 75.0 1 2 50.0 0 3 3 6 1 0 1 2 20
+p495
+aVKenyon Martin NYK 01/11/2014 NYK @ PHI W 27 8 4 5 80.0 0 0 - 0 0 - 3 5 8 3 0 2 3 5 3
+p496
+aVAmar'e Stoudemire NYK 01/11/2014 NYK @ PHI W 22 21 8 10 80.0 0 0 - 5 5 100.0 2 3 5 0 1 0 2 3 7
+p497
+aVRaymond Felton NYK 01/11/2014 NYK @ PHI W 36 9 3 11 27.3 0 1 0.0 3 4 75.0 0 1 1 6 2 0 0 0 4
+p498
+aVTim Hardaway Jr. NYK 01/09/2014 NYK vs. MIA W 14 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 1 1 0 1 2 -1
+p499
+aVToure' Murry NYK 01/09/2014 NYK vs. MIA W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 2 0 0 2 5
+p500
+aVAndrea Bargnani NYK 01/09/2014 NYK vs. MIA W 42 19 9 13 69.2 0 0 - 1 1 100.0 1 4 5 0 0 1 0 3 4
+p501
+aVIman Shumpert NYK 01/09/2014 NYK vs. MIA W 43 12 4 8 50.0 4 7 57.1 0 0 - 1 8 9 3 0 0 0 2 14
+p502
+aVKenyon Martin NYK 01/09/2014 NYK vs. MIA W 24 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 1 1 0 1 2 0
+p503
+aVAmar'e Stoudemire NYK 01/09/2014 NYK vs. MIA W 27 14 7 12 58.3 0 0 - 0 2 0.0 3 8 11 0 1 0 4 4 19
+p504
+aVRaymond Felton NYK 01/09/2014 NYK vs. MIA W 39 13 6 14 42.9 1 6 16.7 0 0 - 2 3 5 14 1 0 2 0 3
+p505
+aVCarmelo Anthony NYK 01/09/2014 NYK vs. MIA W 42 29 12 24 50.0 3 8 37.5 2 3 66.7 1 7 8 5 2 0 2 4 6
+p506
+aVToure' Murry NYK 01/07/2014 NYK vs. DET W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p507
+aVBeno Udrih NYK 01/07/2014 NYK vs. DET W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 0 -5
+p508
+aVJR Smith NYK 01/07/2014 NYK vs. DET W 30 6 2 6 33.3 1 4 25.0 1 1 100.0 0 0 0 2 0 0 2 3 -10
+p509
+aVCarmelo Anthony NYK 01/07/2014 NYK vs. DET W 39 34 13 24 54.2 6 7 85.7 2 4 50.0 1 3 4 2 4 1 2 4 10
+p510
+aVRaymond Felton NYK 01/07/2014 NYK vs. DET W 31 12 4 9 44.4 1 2 50.0 3 4 75.0 1 1 2 6 1 0 4 2 10
+p511
+aVKenyon Martin NYK 01/07/2014 NYK vs. DET W 30 6 2 4 50.0 0 0 - 2 2 100.0 0 7 7 5 1 2 1 5 3
+p512
+aVTim Hardaway Jr. NYK 01/07/2014 NYK vs. DET W 13 2 0 4 0.0 0 4 0.0 2 2 100.0 0 2 2 0 0 0 0 1 -12
+p513
+aVAmar'e Stoudemire NYK 01/07/2014 NYK vs. DET W 24 9 3 9 33.3 0 0 - 3 6 50.0 3 2 5 0 0 1 1 2 -4
+p514
+aVIman Shumpert NYK 01/07/2014 NYK vs. DET W 29 5 2 8 25.0 0 4 0.0 1 1 100.0 1 5 6 5 2 0 1 3 16
+p515
+aVAndrea Bargnani NYK 01/07/2014 NYK vs. DET W 32 13 6 13 46.2 1 3 33.3 0 0 - 3 8 11 1 2 0 0 1 17
+p516
+aVTim Hardaway Jr. NYK 01/05/2014 NYK @ DAL W 12 10 4 6 66.7 1 2 50.0 1 1 100.0 0 2 2 0 0 0 0 1 0
+p517
+aVAndrea Bargnani NYK 01/05/2014 NYK @ DAL W 26 13 6 12 50.0 1 1 100.0 0 0 - 1 5 6 0 0 0 3 3 7
+p518
+aVAmar'e Stoudemire NYK 01/05/2014 NYK @ DAL W 22 11 4 9 44.4 0 0 - 3 3 100.0 2 5 7 0 0 1 1 2 1
+p519
+aVCole Aldrich NYK 01/05/2014 NYK @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p520
+aVToure' Murry NYK 01/05/2014 NYK @ DAL W 15 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 2 0 0 0 2 0
+p521
+aVCarmelo Anthony NYK 01/05/2014 NYK @ DAL W 36 19 6 16 37.5 1 3 33.3 6 8 75.0 2 5 7 5 3 1 1 1 12
+p522
+aVJeremy Tyler NYK 01/05/2014 NYK @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p523
+aVJR Smith NYK 01/05/2014 NYK @ DAL W 31 7 3 8 37.5 1 3 33.3 0 0 - 0 7 7 3 0 0 1 2 11
+p524
+aVIman Shumpert NYK 01/05/2014 NYK @ DAL W 30 9 3 5 60.0 1 3 33.3 2 2 100.0 1 5 6 0 3 0 2 2 9
+p525
+aVKenyon Martin NYK 01/05/2014 NYK @ DAL W 29 14 7 8 87.5 0 0 - 0 0 - 3 3 6 2 0 1 2 3 15
+p526
+aVTyson Chandler NYK 01/05/2014 NYK @ DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p527
+aVBeno Udrih NYK 01/05/2014 NYK @ DAL W 33 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 8 2 0 3 2 9
+p528
+aVToure' Murry NYK 01/03/2014 NYK @ HOU L 14 3 1 4 25.0 0 1 0.0 1 4 25.0 1 0 1 4 1 0 1 2 -1
+p529
+aVTim Hardaway Jr. NYK 01/03/2014 NYK @ HOU L 11 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -14
+p530
+aVTyson Chandler NYK 01/03/2014 NYK @ HOU L 27 13 4 5 80.0 0 0 - 5 7 71.4 5 6 11 0 1 1 1 3 0
+p531
+aVAndrea Bargnani NYK 01/03/2014 NYK @ HOU L 30 7 3 10 30.0 0 3 0.0 1 2 50.0 4 4 8 0 0 2 2 4 -2
+p532
+aVBeno Udrih NYK 01/03/2014 NYK @ HOU L 34 10 5 13 38.5 0 1 0.0 0 0 - 1 3 4 7 2 0 0 3 -1
+p533
+aVIman Shumpert NYK 01/03/2014 NYK @ HOU L 36 26 9 14 64.3 6 6 100.0 2 2 100.0 1 3 4 5 1 0 0 3 10
+p534
+aVJR Smith NYK 01/03/2014 NYK @ HOU L 31 9 3 13 23.1 1 8 12.5 2 2 100.0 0 0 0 2 2 0 0 1 -11
+p535
+aVCarmelo Anthony NYK 01/03/2014 NYK @ HOU L 38 25 10 23 43.5 2 4 50.0 3 3 100.0 1 7 8 2 0 0 2 4 12
+p536
+aVAmar'e Stoudemire NYK 01/03/2014 NYK @ HOU L 19 6 2 6 33.3 0 0 - 2 2 100.0 4 3 7 0 2 0 2 2 -3
+p537
+aVCarmelo Anthony NYK 01/02/2014 NYK @ SAS W 39 27 10 20 50.0 2 4 50.0 5 5 100.0 1 11 12 4 1 1 3 5 10
+p538
+aVToure' Murry NYK 01/02/2014 NYK @ SAS W 15 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 2 2 0 0 1 0
+p539
+aVTyson Chandler NYK 01/02/2014 NYK @ SAS W 22 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 1 0 3 5
+p540
+aVBeno Udrih NYK 01/02/2014 NYK @ SAS W 32 10 4 9 44.4 0 2 0.0 2 2 100.0 1 1 2 7 1 0 2 0 7
+p541
+aVIman Shumpert NYK 01/02/2014 NYK @ SAS W 31 27 10 13 76.9 6 8 75.0 1 1 100.0 2 4 6 1 3 0 2 2 10
+p542
+aVAndrea Bargnani NYK 01/02/2014 NYK @ SAS W 22 10 3 8 37.5 0 1 0.0 4 4 100.0 2 1 3 1 0 1 2 2 19
+p543
+aVAmar'e Stoudemire NYK 01/02/2014 NYK @ SAS W 24 11 4 6 66.7 0 0 - 3 4 75.0 2 1 3 0 0 2 2 2 -15
+p544
+aVKenyon Martin NYK 01/02/2014 NYK @ SAS W 14 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -4
+p545
+aVTim Hardaway Jr. NYK 01/02/2014 NYK @ SAS W 12 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 1 0 0 0 0 -7
+p546
+aVJR Smith NYK 01/02/2014 NYK @ SAS W 29 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 3 0 0 2 4 -5
+p547
+aVBeno Udrih NYK 12/28/2013 NYK @ TOR L 21 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 3 1 0 4 2 -19
+p548
+aVTim Hardaway Jr. NYK 12/28/2013 NYK @ TOR L 28 12 4 11 36.4 2 5 40.0 2 3 66.7 0 1 1 0 0 0 1 3 -9
+p549
+aVTyson Chandler NYK 12/28/2013 NYK @ TOR L 27 16 6 7 85.7 0 0 - 4 5 80.0 0 2 2 3 1 1 2 1 -16
+p550
+aVAmar'e Stoudemire NYK 12/28/2013 NYK @ TOR L 30 23 9 12 75.0 0 0 - 5 6 83.3 3 6 9 1 1 2 2 3 1
+p551
+aVJR Smith NYK 12/28/2013 NYK @ TOR L 39 13 5 16 31.3 3 8 37.5 0 0 - 0 7 7 6 2 0 1 5 -20
+p552
+aVAndrea Bargnani NYK 12/28/2013 NYK @ TOR L 18 12 5 11 45.5 0 1 0.0 2 2 100.0 1 2 3 0 1 0 0 4 -13
+p553
+aVChris Smith NYK 12/28/2013 NYK @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p554
+aVKenyon Martin NYK 12/28/2013 NYK @ TOR L 20 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 1 0 1 2 4
+p555
+aVToure' Murry NYK 12/28/2013 NYK @ TOR L 27 11 5 11 45.5 0 2 0.0 1 2 50.0 0 3 3 6 3 0 2 4 6
+p556
+aVIman Shumpert NYK 12/28/2013 NYK @ TOR L 29 6 2 5 40.0 1 4 25.0 1 2 50.0 2 6 8 2 1 1 1 2 3
+p557
+aVCole Aldrich NYK 12/28/2013 NYK @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p558
+aVIman Shumpert NYK 12/27/2013 NYK vs. TOR L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 4 -8
+p559
+aVKenyon Martin NYK 12/27/2013 NYK vs. TOR L 11 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 3 0 2 2 3
+p560
+aVMetta World Peace NYK 12/27/2013 NYK vs. TOR L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 2
+p561
+aVTim Hardaway Jr. NYK 12/27/2013 NYK vs. TOR L 37 15 5 13 38.5 4 5 80.0 1 1 100.0 0 0 0 1 1 1 2 3 -5
+p562
+aVTyson Chandler NYK 12/27/2013 NYK vs. TOR L 32 7 3 7 42.9 0 0 - 1 3 33.3 4 2 6 1 0 2 3 2 -22
+p563
+aVJR Smith NYK 12/27/2013 NYK vs. TOR L 43 17 7 15 46.7 3 7 42.9 0 2 0.0 0 7 7 6 1 0 1 5 -14
+p564
+aVAmar'e Stoudemire NYK 12/27/2013 NYK vs. TOR L 16 7 2 5 40.0 0 0 - 3 6 50.0 2 2 4 0 0 0 3 3 2
+p565
+aVBeno Udrih NYK 12/27/2013 NYK vs. TOR L 38 15 6 11 54.5 1 1 100.0 2 2 100.0 0 4 4 10 4 0 1 6 -9
+p566
+aVAndrea Bargnani NYK 12/27/2013 NYK vs. TOR L 37 18 6 17 35.3 2 3 66.7 4 5 80.0 5 7 12 0 0 2 1 1 -7
+p567
+aVToure' Murry NYK 12/27/2013 NYK vs. TOR L 9 4 1 4 25.0 0 1 0.0 2 2 100.0 1 1 2 1 1 0 2 2 -2
+p568
+aVToure' Murry NYK 12/25/2013 NYK vs. OKC L 15 6 2 5 40.0 0 2 0.0 2 2 100.0 3 1 4 3 0 0 2 2 -10
+p569
+aVBeno Udrih NYK 12/25/2013 NYK vs. OKC L 30 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 6 0 0 2 1 -12
+p570
+aVIman Shumpert NYK 12/25/2013 NYK vs. OKC L 27 8 3 8 37.5 1 4 25.0 1 2 50.0 1 6 7 4 2 0 2 5 -8
+p571
+aVTim Hardaway Jr. NYK 12/25/2013 NYK vs. OKC L 38 21 8 19 42.1 2 7 28.6 3 3 100.0 1 4 5 2 0 0 0 1 -22
+p572
+aVJR Smith NYK 12/25/2013 NYK vs. OKC L 38 20 8 22 36.4 3 9 33.3 1 3 33.3 0 6 6 3 1 0 2 2 -32
+p573
+aVChris Smith NYK 12/25/2013 NYK vs. OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p574
+aVCole Aldrich NYK 12/25/2013 NYK vs. OKC L 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 1 1 -1
+p575
+aVTyson Chandler NYK 12/25/2013 NYK vs. OKC L 29 5 2 5 40.0 0 0 - 1 2 50.0 4 5 9 3 2 0 0 3 -14
+p576
+aVKenyon Martin NYK 12/25/2013 NYK vs. OKC L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -14
+p577
+aVAmar'e Stoudemire NYK 12/25/2013 NYK vs. OKC L 27 22 10 16 62.5 0 0 - 2 4 50.0 2 0 2 1 0 1 2 4 -18
+p578
+aVAndrea Bargnani NYK 12/25/2013 NYK vs. OKC L 16 9 4 8 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 1 1 -13
+p579
+aVAndrea Bargnani NYK 12/23/2013 NYK @ ORL W 28 13 5 12 41.7 0 1 0.0 3 3 100.0 1 4 5 0 0 1 0 2 -6
+p580
+aVTim Hardaway Jr. NYK 12/23/2013 NYK @ ORL W 18 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -9
+p581
+aVRaymond Felton NYK 12/23/2013 NYK @ ORL W 25 13 4 11 36.4 2 4 50.0 3 4 75.0 0 2 2 4 0 0 3 4 -8
+p582
+aVCarmelo Anthony NYK 12/23/2013 NYK @ ORL W 24 19 7 14 50.0 3 4 75.0 2 2 100.0 0 3 3 2 0 0 0 1 14
+p583
+aVAmar'e Stoudemire NYK 12/23/2013 NYK @ ORL W 18 6 3 9 33.3 0 0 - 0 0 - 2 4 6 0 0 0 2 4 -9
+p584
+aVBeno Udrih NYK 12/23/2013 NYK @ ORL W 23 10 2 3 66.7 0 1 0.0 6 6 100.0 0 1 1 6 0 0 1 1 13
+p585
+aVTyson Chandler NYK 12/23/2013 NYK @ ORL W 40 10 5 9 55.6 0 0 - 0 2 0.0 2 11 13 2 2 1 0 4 11
+p586
+aVJR Smith NYK 12/23/2013 NYK @ ORL W 37 18 7 17 41.2 3 6 50.0 1 2 50.0 1 9 10 4 0 2 1 3 11
+p587
+aVIman Shumpert NYK 12/23/2013 NYK @ ORL W 27 9 4 7 57.1 1 2 50.0 0 0 - 3 3 6 0 1 0 2 2 8
+p588
+aVTyson Chandler NYK 12/21/2013 NYK vs. MEM L 33 8 2 7 28.6 0 0 - 4 8 50.0 3 3 6 2 1 1 0 4 -11
+p589
+aVTim Hardaway Jr. NYK 12/21/2013 NYK vs. MEM L 30 16 7 13 53.8 2 7 28.6 0 0 - 0 1 1 2 1 1 1 2 1
+p590
+aVToure' Murry NYK 12/21/2013 NYK vs. MEM L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -1
+p591
+aVAndrea Bargnani NYK 12/21/2013 NYK vs. MEM L 22 3 1 5 20.0 0 1 0.0 1 2 50.0 1 1 2 1 0 1 1 1 4
+p592
+aVCarmelo Anthony NYK 12/21/2013 NYK vs. MEM L 42 30 11 22 50.0 2 6 33.3 6 7 85.7 1 6 7 1 2 2 0 0 -2
+p593
+aVAmar'e Stoudemire NYK 12/21/2013 NYK vs. MEM L 17 6 2 4 50.0 0 0 - 2 4 50.0 1 1 2 1 1 0 1 1 -4
+p594
+aVIman Shumpert NYK 12/21/2013 NYK vs. MEM L 18 2 1 7 14.3 0 3 0.0 0 0 - 0 4 4 0 0 0 0 2 -12
+p595
+aVJR Smith NYK 12/21/2013 NYK vs. MEM L 38 16 6 12 50.0 2 3 66.7 2 2 100.0 0 4 4 7 4 0 2 1 1
+p596
+aVBeno Udrih NYK 12/21/2013 NYK vs. MEM L 31 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 6 2 1 2 3 -16
+p597
+aVTim Hardaway Jr. NYK 12/18/2013 NYK @ MIL W 22 8 3 7 42.9 1 2 50.0 1 1 100.0 0 3 3 3 1 0 0 2 13
+p598
+aVToure' Murry NYK 12/18/2013 NYK @ MIL W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 3 4
+p599
+aVBeno Udrih NYK 12/18/2013 NYK @ MIL W 40 21 8 12 66.7 5 7 71.4 0 0 - 0 4 4 5 2 0 1 5 3
+p600
+aVJR Smith NYK 12/18/2013 NYK @ MIL W 48 19 7 23 30.4 5 17 29.4 0 0 - 1 4 5 6 0 0 1 4 -3
+p601
+aVCarmelo Anthony NYK 12/18/2013 NYK @ MIL W 55 29 9 29 31.0 4 7 57.1 7 8 87.5 4 5 9 5 0 2 4 5 7
+p602
+aVTyson Chandler NYK 12/18/2013 NYK @ MIL W 37 9 3 4 75.0 0 0 - 3 4 75.0 5 4 9 1 1 3 1 3 -3
+p603
+aVMetta World Peace NYK 12/18/2013 NYK @ MIL W 12 8 3 4 75.0 0 0 - 2 4 50.0 1 2 3 1 4 0 0 0 3
+p604
+aVIman Shumpert NYK 12/18/2013 NYK @ MIL W 31 1 0 5 0.0 0 2 0.0 1 2 50.0 1 5 6 4 2 1 3 5 -10
+p605
+aVAndrea Bargnani NYK 12/18/2013 NYK @ MIL W 34 12 5 16 31.3 2 6 33.3 0 0 - 2 8 10 0 0 0 2 4 16
+p606
+aVAndrea Bargnani NYK 12/16/2013 NYK vs. WAS L 37 13 4 12 33.3 0 1 0.0 5 6 83.3 1 5 6 2 0 2 2 1 -7
+p607
+aVBeno Udrih NYK 12/16/2013 NYK vs. WAS L 30 12 3 7 42.9 1 2 50.0 5 6 83.3 0 2 2 5 1 0 0 1 14
+p608
+aVAmar'e Stoudemire NYK 12/16/2013 NYK vs. WAS L 19 4 1 7 14.3 0 0 - 2 4 50.0 1 3 4 0 2 0 2 3 -2
+p609
+aVJR Smith NYK 12/16/2013 NYK vs. WAS L 37 18 6 16 37.5 5 11 45.5 1 2 50.0 1 3 4 6 3 0 0 2 8
+p610
+aVPablo Prigioni NYK 12/16/2013 NYK vs. WAS L 18 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 3 2 0 1 2 -15
+p611
+aVTim Hardaway Jr. NYK 12/16/2013 NYK vs. WAS L 22 14 5 6 83.3 2 3 66.7 2 3 66.7 0 3 3 0 0 0 2 3 -12
+p612
+aVCarmelo Anthony NYK 12/16/2013 NYK vs. WAS L 42 32 12 20 60.0 1 5 20.0 7 8 87.5 2 3 5 3 0 4 1 3 1
+p613
+aVMetta World Peace NYK 12/16/2013 NYK vs. WAS L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -3
+p614
+aVIman Shumpert NYK 12/16/2013 NYK vs. WAS L 31 8 2 8 25.0 2 5 40.0 2 2 100.0 3 6 9 2 0 0 1 4 11
+p615
+aVTim Hardaway Jr. NYK 12/14/2013 NYK vs. ATL W 27 13 5 10 50.0 1 3 33.3 2 3 66.7 1 3 4 2 3 0 1 0 5
+p616
+aVCarmelo Anthony NYK 12/14/2013 NYK vs. ATL W 38 35 13 22 59.1 3 5 60.0 6 6 100.0 3 3 6 4 2 0 4 3 19
+p617
+aVJR Smith NYK 12/14/2013 NYK vs. ATL W 24 2 1 8 12.5 0 1 0.0 0 0 - 0 0 0 4 0 0 1 2 -5
+p618
+aVIman Shumpert NYK 12/14/2013 NYK vs. ATL W 33 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 2 0 0 0 3 25
+p619
+aVAmar'e Stoudemire NYK 12/14/2013 NYK vs. ATL W 19 9 4 8 50.0 0 0 - 1 2 50.0 5 0 5 0 0 0 1 3 -8
+p620
+aVToure' Murry NYK 12/14/2013 NYK vs. ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p621
+aVAndrea Bargnani NYK 12/14/2013 NYK vs. ATL W 36 23 11 16 68.8 1 3 33.3 0 0 - 4 2 6 0 2 1 2 0 18
+p622
+aVBeno Udrih NYK 12/14/2013 NYK vs. ATL W 18 10 3 7 42.9 0 0 - 4 4 100.0 0 2 2 1 2 0 1 0 -14
+p623
+aVMetta World Peace NYK 12/14/2013 NYK vs. ATL W 9 5 2 5 40.0 0 1 0.0 1 1 100.0 1 0 1 0 1 0 0 0 -12
+p624
+aVPablo Prigioni NYK 12/14/2013 NYK vs. ATL W 31 11 4 8 50.0 3 6 50.0 0 0 - 0 1 1 6 4 0 1 4 17
+p625
+aVCole Aldrich NYK 12/14/2013 NYK vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p626
+aVAndrea Bargnani NYK 12/13/2013 NYK @ BOS L 38 22 9 22 40.9 0 5 0.0 4 4 100.0 2 5 7 4 1 0 1 2 14
+p627
+aVKenyon Martin NYK 12/13/2013 NYK @ BOS L 24 8 4 5 80.0 0 0 - 0 0 - 0 7 7 0 4 0 1 3 3
+p628
+aVAmar'e Stoudemire NYK 12/13/2013 NYK @ BOS L 30 18 7 9 77.8 0 0 - 4 5 80.0 0 5 5 0 1 1 0 4 -15
+p629
+aVJR Smith NYK 12/13/2013 NYK @ BOS L 26 2 0 1 0.0 0 1 0.0 2 2 100.0 1 5 6 3 1 0 1 3 -13
+p630
+aVTim Hardaway Jr. NYK 12/13/2013 NYK @ BOS L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -11
+p631
+aVMetta World Peace NYK 12/13/2013 NYK @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p632
+aVBeno Udrih NYK 12/13/2013 NYK @ BOS L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 2 2 -14
+p633
+aVIman Shumpert NYK 12/13/2013 NYK @ BOS L 23 3 1 8 12.5 1 4 25.0 0 0 - 1 4 5 1 0 0 1 0 2
+p634
+aVPablo Prigioni NYK 12/13/2013 NYK @ BOS L 39 5 1 6 16.7 1 3 33.3 2 2 100.0 3 1 4 8 0 0 0 1 10
+p635
+aVCole Aldrich NYK 12/13/2013 NYK @ BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p636
+aVCarmelo Anthony NYK 12/13/2013 NYK @ BOS L 42 26 9 24 37.5 3 7 42.9 5 6 83.3 2 2 4 3 0 0 0 2 4
+p637
+aVJR Smith NYK 12/11/2013 NYK vs. CHI W 29 7 2 8 25.0 1 5 20.0 2 2 100.0 0 2 2 2 1 0 2 4 0
+p638
+aVKenyon Martin NYK 12/11/2013 NYK vs. CHI W 35 3 0 3 0.0 0 0 - 3 4 75.0 2 5 7 2 2 4 2 5 16
+p639
+aVAmar'e Stoudemire NYK 12/11/2013 NYK vs. CHI W 30 14 7 11 63.6 0 0 - 0 0 - 3 6 9 1 2 1 1 4 2
+p640
+aVCarmelo Anthony NYK 12/11/2013 NYK vs. CHI W 41 30 9 21 42.9 1 3 33.3 11 12 91.7 3 7 10 4 3 1 2 4 -2
+p641
+aVPablo Prigioni NYK 12/11/2013 NYK vs. CHI W 31 6 2 9 22.2 2 7 28.6 0 0 - 1 1 2 2 4 0 0 1 1
+p642
+aVBeno Udrih NYK 12/11/2013 NYK vs. CHI W 17 8 4 5 80.0 0 0 - 0 0 - 0 2 2 2 1 0 4 1 4
+p643
+aVTim Hardaway Jr. NYK 12/11/2013 NYK vs. CHI W 18 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 -1
+p644
+aVIman Shumpert NYK 12/11/2013 NYK vs. CHI W 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 2 0 1 0 6
+p645
+aVAndrea Bargnani NYK 12/11/2013 NYK vs. CHI W 27 8 4 10 40.0 0 1 0.0 0 1 0.0 0 3 3 1 1 1 1 1 -1
+p646
+aVCole Aldrich NYK 12/10/2013 NYK @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 0 1
+p647
+aVTim Hardaway Jr. NYK 12/10/2013 NYK @ CLE L 22 9 4 7 57.1 1 4 25.0 0 0 - 0 0 0 1 0 1 1 2 4
+p648
+aVJR Smith NYK 12/10/2013 NYK @ CLE L 29 14 5 14 35.7 4 9 44.4 0 0 - 0 1 1 3 1 0 3 1 -9
+p649
+aVCarmelo Anthony NYK 12/10/2013 NYK @ CLE L 39 29 12 19 63.2 3 4 75.0 2 2 100.0 3 5 8 3 0 0 1 2 -18
+p650
+aVMetta World Peace NYK 12/10/2013 NYK @ CLE L 20 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 0 0 0 2 3 -9
+p651
+aVToure' Murry NYK 12/10/2013 NYK @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 1
+p652
+aVRaymond Felton NYK 12/10/2013 NYK @ CLE L 19 6 3 8 37.5 0 2 0.0 0 0 - 1 1 2 3 0 1 1 2 -10
+p653
+aVAmar'e Stoudemire NYK 12/10/2013 NYK @ CLE L 27 15 7 10 70.0 0 0 - 1 1 100.0 2 3 5 0 1 2 1 1 -1
+p654
+aVPablo Prigioni NYK 12/10/2013 NYK @ CLE L 27 6 2 5 40.0 2 5 40.0 0 0 - 0 3 3 9 0 0 1 3 -6
+p655
+aVAndrea Bargnani NYK 12/10/2013 NYK @ CLE L 32 11 5 17 29.4 0 3 0.0 1 2 50.0 0 3 3 2 1 0 1 3 -22
+p656
+aVIman Shumpert NYK 12/10/2013 NYK @ CLE L 21 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 4 1 1 0 2 -6
+p657
+aVCarmelo Anthony NYK 12/08/2013 NYK vs. BOS L 32 19 5 15 33.3 1 2 50.0 8 10 80.0 1 4 5 1 0 0 2 1 -40
+p658
+aVAndrea Bargnani NYK 12/08/2013 NYK vs. BOS L 23 2 1 7 14.3 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -34
+p659
+aVTim Hardaway Jr. NYK 12/08/2013 NYK vs. BOS L 25 8 3 7 42.9 1 2 50.0 1 1 100.0 0 2 2 1 3 1 2 1 -29
+p660
+aVMetta World Peace NYK 12/08/2013 NYK vs. BOS L 20 12 5 10 50.0 2 4 50.0 0 0 - 1 2 3 2 3 0 2 3 1
+p661
+aVIman Shumpert NYK 12/08/2013 NYK vs. BOS L 31 0 0 6 0.0 0 4 0.0 0 0 - 1 1 2 0 1 0 1 2 -31
+p662
+aVPablo Prigioni NYK 12/08/2013 NYK vs. BOS L 17 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 4 1 0 1 2 0
+p663
+aVCole Aldrich NYK 12/08/2013 NYK vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -2
+p664
+aVAmar'e Stoudemire NYK 12/08/2013 NYK vs. BOS L 21 17 5 7 71.4 0 0 - 7 10 70.0 0 2 2 0 0 1 1 2 -12
+p665
+aVBeno Udrih NYK 12/08/2013 NYK vs. BOS L 13 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 0 -7
+p666
+aVJR Smith NYK 12/08/2013 NYK vs. BOS L 27 3 1 5 20.0 0 0 - 1 2 50.0 0 3 3 3 1 0 2 3 -11
+p667
+aVToure' Murry NYK 12/08/2013 NYK vs. BOS L 6 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p668
+aVRaymond Felton NYK 12/08/2013 NYK vs. BOS L 20 0 0 6 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -38
+p669
+aVBeno Udrih NYK 12/06/2013 NYK vs. ORL W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 8
+p670
+aVRaymond Felton NYK 12/06/2013 NYK vs. ORL W 27 14 6 10 60.0 2 5 40.0 0 0 - 2 2 4 5 0 0 0 2 4
+p671
+aVCarmelo Anthony NYK 12/06/2013 NYK vs. ORL W 30 20 6 10 60.0 0 0 - 8 9 88.9 0 11 11 4 3 1 1 1 11
+p672
+aVAndrea Bargnani NYK 12/06/2013 NYK vs. ORL W 28 17 6 16 37.5 2 6 33.3 3 4 75.0 6 2 8 0 0 2 1 0 11
+p673
+aVMetta World Peace NYK 12/06/2013 NYK vs. ORL W 25 12 4 7 57.1 2 3 66.7 2 2 100.0 0 2 2 2 1 0 0 4 39
+p674
+aVIman Shumpert NYK 12/06/2013 NYK vs. ORL W 25 10 4 9 44.4 0 3 0.0 2 2 100.0 0 4 4 0 0 0 1 4 4
+p675
+aVKenyon Martin NYK 12/06/2013 NYK vs. ORL W 20 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 2 0 3 6
+p676
+aVJR Smith NYK 12/06/2013 NYK vs. ORL W 28 17 6 11 54.5 5 9 55.6 0 0 - 0 6 6 1 0 0 2 3 33
+p677
+aVToure' Murry NYK 12/06/2013 NYK vs. ORL W 7 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 8
+p678
+aVCole Aldrich NYK 12/06/2013 NYK vs. ORL W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 8
+p679
+aVTim Hardaway Jr. NYK 12/06/2013 NYK vs. ORL W 23 15 5 7 71.4 5 7 71.4 0 0 - 0 1 1 3 1 0 0 0 32
+p680
+aVPablo Prigioni NYK 12/06/2013 NYK vs. ORL W 15 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 6 3 0 2 1 26
+p681
+aVBeno Udrih NYK 12/05/2013 NYK @ BKN W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p682
+aVKenyon Martin NYK 12/05/2013 NYK @ BKN W 25 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 2 1 2 3 23
+p683
+aVAmar'e Stoudemire NYK 12/05/2013 NYK @ BKN W 19 11 5 6 83.3 0 0 - 1 2 50.0 1 3 4 0 0 1 1 3 12
+p684
+aVMetta World Peace NYK 12/05/2013 NYK @ BKN W 9 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 1 -1
+p685
+aVAndrea Bargnani NYK 12/05/2013 NYK @ BKN W 28 16 7 13 53.8 1 2 50.0 1 1 100.0 1 1 2 3 1 3 1 3 11
+p686
+aVIman Shumpert NYK 12/05/2013 NYK @ BKN W 23 17 5 8 62.5 5 7 71.4 2 2 100.0 1 5 6 0 2 0 0 3 19
+p687
+aVTim Hardaway Jr. NYK 12/05/2013 NYK @ BKN W 19 12 5 11 45.5 2 6 33.3 0 0 - 0 0 0 1 0 0 0 2 9
+p688
+aVToure' Murry NYK 12/05/2013 NYK @ BKN W 7 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 1 2 0 1 1 -3
+p689
+aVCole Aldrich NYK 12/05/2013 NYK @ BKN W 7 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 1 1 1 1 -3
+p690
+aVJR Smith NYK 12/05/2013 NYK @ BKN W 25 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 1 0 0 0 4 29
+p691
+aVPablo Prigioni NYK 12/05/2013 NYK @ BKN W 13 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 3 2 0 0 2 3
+p692
+aVRaymond Felton NYK 12/05/2013 NYK @ BKN W 29 13 5 9 55.6 3 5 60.0 0 0 - 0 1 1 4 0 0 3 2 30
+p693
+aVCarmelo Anthony NYK 12/05/2013 NYK @ BKN W 31 19 8 12 66.7 1 1 100.0 2 2 100.0 3 7 10 6 0 1 2 3 24
+p694
+aVTim Hardaway Jr. NYK 12/01/2013 NYK vs. NOP L 25 21 6 10 60.0 5 8 62.5 4 4 100.0 0 0 0 2 0 0 1 1 -6
+p695
+aVAndrea Bargnani NYK 12/01/2013 NYK vs. NOP L 36 17 5 13 38.5 0 3 0.0 7 8 87.5 1 6 7 0 2 6 2 4 -4
+p696
+aVAmar'e Stoudemire NYK 12/01/2013 NYK vs. NOP L 14 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 3 2 2
+p697
+aVRaymond Felton NYK 12/01/2013 NYK vs. NOP L 38 12 4 10 40.0 2 6 33.3 2 4 50.0 2 0 2 8 1 0 1 3 0
+p698
+aVJR Smith NYK 12/01/2013 NYK vs. NOP L 34 12 4 11 36.4 3 8 37.5 1 1 100.0 3 5 8 3 1 0 3 4 -1
+p699
+aVPablo Prigioni NYK 12/01/2013 NYK vs. NOP L 10 3 1 1 100.0 1 1 100.0 0 0 - 1 2 3 3 0 0 1 0 -4
+p700
+aVMetta World Peace NYK 12/01/2013 NYK vs. NOP L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p701
+aVKenyon Martin NYK 12/01/2013 NYK vs. NOP L 17 0 0 2 0.0 0 0 - 0 0 - 2 1 3 2 3 3 1 1 -10
+p702
+aVCarmelo Anthony NYK 12/01/2013 NYK vs. NOP L 44 23 9 21 42.9 1 7 14.3 4 4 100.0 1 9 10 3 2 0 3 4 3
+p703
+aVIman Shumpert NYK 12/01/2013 NYK vs. NOP L 21 7 3 5 60.0 1 2 50.0 0 0 - 3 4 7 2 0 0 2 4 1
+p704
+aVIman Shumpert NYK 11/29/2013 NYK @ DEN L 32 11 4 8 50.0 1 2 50.0 2 2 100.0 1 6 7 0 1 0 1 2 -2
+p705
+aVCarmelo Anthony NYK 11/29/2013 NYK @ DEN L 40 27 8 22 36.4 0 3 0.0 11 13 84.6 2 5 7 0 0 2 1 4 -4
+p706
+aVMetta World Peace NYK 11/29/2013 NYK @ DEN L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 0 -3
+p707
+aVTim Hardaway Jr. NYK 11/29/2013 NYK @ DEN L 15 8 3 5 60.0 2 3 66.7 0 0 - 1 2 3 0 0 2 1 1 3
+p708
+aVAmar'e Stoudemire NYK 11/29/2013 NYK @ DEN L 15 4 2 7 28.6 0 0 - 0 0 - 1 3 4 0 1 0 0 2 1
+p709
+aVBeno Udrih NYK 11/29/2013 NYK @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -3
+p710
+aVPablo Prigioni NYK 11/29/2013 NYK @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 2 2
+p711
+aVJR Smith NYK 11/29/2013 NYK @ DEN L 32 11 5 13 38.5 1 7 14.3 0 0 - 1 5 6 3 2 0 2 4 4
+p712
+aVRaymond Felton NYK 11/29/2013 NYK @ DEN L 37 8 3 9 33.3 1 4 25.0 1 2 50.0 1 3 4 7 0 1 3 3 -1
+p713
+aVAndrea Bargnani NYK 11/29/2013 NYK @ DEN L 39 22 7 11 63.6 1 2 50.0 7 8 87.5 0 5 5 2 1 0 1 4 1
+p714
+aVKenyon Martin NYK 11/29/2013 NYK @ DEN L 14 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -8
+p715
+aVIman Shumpert NYK 11/27/2013 NYK @ LAC L 25 2 1 5 20.0 0 2 0.0 0 0 - 2 1 3 2 0 0 1 0 0
+p716
+aVMetta World Peace NYK 11/27/2013 NYK @ LAC L 10 0 0 6 0.0 0 4 0.0 0 0 - 0 1 1 0 1 1 1 2 -16
+p717
+aVCarmelo Anthony NYK 11/27/2013 NYK @ LAC L 41 27 9 23 39.1 0 3 0.0 9 10 90.0 3 7 10 1 0 0 1 4 -2
+p718
+aVTim Hardaway Jr. NYK 11/27/2013 NYK @ LAC L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -11
+p719
+aVPablo Prigioni NYK 11/27/2013 NYK @ LAC L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 1 1 0 1 2 -6
+p720
+aVAndrea Bargnani NYK 11/27/2013 NYK @ LAC L 39 20 8 18 44.4 0 2 0.0 4 4 100.0 3 6 9 1 0 4 0 3 3
+p721
+aVRaymond Felton NYK 11/27/2013 NYK @ LAC L 35 12 5 9 55.6 2 4 50.0 0 0 - 0 3 3 7 2 0 4 3 -6
+p722
+aVAmar'e Stoudemire NYK 11/27/2013 NYK @ LAC L 20 4 2 5 40.0 0 0 - 0 1 0.0 0 2 2 0 1 0 2 4 -29
+p723
+aVBeno Udrih NYK 11/27/2013 NYK @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -1
+p724
+aVJR Smith NYK 11/27/2013 NYK @ LAC L 26 7 3 9 33.3 1 2 50.0 0 0 - 2 3 5 2 0 1 1 2 -14
+p725
+aVKenyon Martin NYK 11/27/2013 NYK @ LAC L 24 6 3 3 100.0 0 0 - 0 0 - 2 5 7 5 1 0 0 4 17
+p726
+aVIman Shumpert NYK 11/25/2013 NYK @ POR L 23 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 3 -22
+p727
+aVKenyon Martin NYK 11/25/2013 NYK @ POR L 24 10 5 10 50.0 0 0 - 0 0 - 3 2 5 6 1 0 0 2 -7
+p728
+aVAndrea Bargnani NYK 11/25/2013 NYK @ POR L 43 16 7 16 43.8 2 4 50.0 0 2 0.0 1 5 6 3 0 1 1 1 -9
+p729
+aVAmar'e Stoudemire NYK 11/25/2013 NYK @ POR L 25 10 5 12 41.7 0 0 - 0 0 - 4 2 6 2 0 1 2 2 -7
+p730
+aVPablo Prigioni NYK 11/25/2013 NYK @ POR L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 -10
+p731
+aVBeno Udrih NYK 11/25/2013 NYK @ POR L 31 13 5 7 71.4 3 3 100.0 0 0 - 0 5 5 5 1 0 1 1 -1
+p732
+aVMetta World Peace NYK 11/25/2013 NYK @ POR L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p733
+aVJR Smith NYK 11/25/2013 NYK @ POR L 25 6 2 8 25.0 0 2 0.0 2 2 100.0 0 4 4 3 0 0 1 5 11
+p734
+aVCarmelo Anthony NYK 11/25/2013 NYK @ POR L 43 34 13 24 54.2 1 4 25.0 7 10 70.0 2 13 15 3 1 1 2 2 -7
+p735
+aVTim Hardaway Jr. NYK 11/23/2013 NYK @ WAS L 7 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 1
+p736
+aVAndrea Bargnani NYK 11/23/2013 NYK @ WAS L 33 11 5 14 35.7 1 4 25.0 0 0 - 2 2 4 5 0 1 1 3 -13
+p737
+aVJR Smith NYK 11/23/2013 NYK @ WAS L 30 15 6 14 42.9 3 7 42.9 0 4 0.0 0 3 3 0 2 0 3 2 -2
+p738
+aVAmar'e Stoudemire NYK 11/23/2013 NYK @ WAS L 22 12 5 5 100.0 0 0 - 2 4 50.0 2 2 4 1 1 0 0 2 -7
+p739
+aVCarmelo Anthony NYK 11/23/2013 NYK @ WAS L 41 23 9 19 47.4 2 6 33.3 3 4 75.0 3 9 12 2 0 0 1 2 -11
+p740
+aVBeno Udrih NYK 11/23/2013 NYK @ WAS L 25 2 1 7 14.3 0 3 0.0 0 0 - 1 3 4 5 0 0 2 2 -1
+p741
+aVIman Shumpert NYK 11/23/2013 NYK @ WAS L 27 6 2 4 50.0 1 2 50.0 1 2 50.0 1 0 1 4 3 0 1 3 -3
+p742
+aVMetta World Peace NYK 11/23/2013 NYK @ WAS L 10 5 2 7 28.6 1 2 50.0 0 0 - 2 1 3 0 0 1 1 3 2
+p743
+aVToure' Murry NYK 11/23/2013 NYK @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p744
+aVKenyon Martin NYK 11/23/2013 NYK @ WAS L 25 4 2 5 40.0 0 0 - 0 1 0.0 0 7 7 3 0 1 0 4 -3
+p745
+aVPablo Prigioni NYK 11/23/2013 NYK @ WAS L 19 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 3 1 0 0 2 -9
+p746
+aVPablo Prigioni NYK 11/20/2013 NYK vs. IND L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 3 1 0 3 3 -5
+p747
+aVTim Hardaway Jr. NYK 11/20/2013 NYK vs. IND L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p748
+aVBeno Udrih NYK 11/20/2013 NYK vs. IND L 38 19 8 15 53.3 3 4 75.0 0 0 - 2 6 8 4 0 0 2 4 -1
+p749
+aVCole Aldrich NYK 11/20/2013 NYK vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p750
+aVCarmelo Anthony NYK 11/20/2013 NYK vs. IND L 42 30 10 28 35.7 0 3 0.0 10 10 100.0 9 9 18 3 0 2 4 4 -4
+p751
+aVIman Shumpert NYK 11/20/2013 NYK vs. IND L 36 4 1 6 16.7 0 4 0.0 2 2 100.0 1 3 4 2 5 0 1 5 6
+p752
+aVAndrea Bargnani NYK 11/20/2013 NYK vs. IND L 38 10 4 16 25.0 1 6 16.7 1 2 50.0 2 6 8 0 0 1 0 6 2
+p753
+aVKenyon Martin NYK 11/20/2013 NYK vs. IND L 38 6 3 8 37.5 0 0 - 0 2 0.0 1 8 9 2 1 2 4 5 -6
+p754
+aVJR Smith NYK 11/20/2013 NYK vs. IND L 38 21 8 19 42.1 4 10 40.0 1 1 100.0 1 4 5 0 2 0 1 2 -11
+p755
+aVMetta World Peace NYK 11/20/2013 NYK vs. IND L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 3 -12
+p756
+aVIman Shumpert NYK 11/19/2013 NYK @ DET L 34 11 5 9 55.6 1 3 33.3 0 0 - 0 2 2 1 1 0 1 5 -9
+p757
+aVKenyon Martin NYK 11/19/2013 NYK @ DET L 29 5 1 2 50.0 0 0 - 3 4 75.0 1 6 7 0 2 1 0 3 3
+p758
+aVAmar'e Stoudemire NYK 11/19/2013 NYK @ DET L 15 6 3 7 42.9 0 0 - 0 0 - 3 2 5 1 0 0 0 1 2
+p759
+aVAndrea Bargnani NYK 11/19/2013 NYK @ DET L 38 13 6 12 50.0 0 2 0.0 1 1 100.0 1 5 6 2 0 1 0 4 -10
+p760
+aVCarmelo Anthony NYK 11/19/2013 NYK @ DET L 37 25 8 20 40.0 1 3 33.3 8 11 72.7 4 3 7 1 2 0 7 5 -5
+p761
+aVBeno Udrih NYK 11/19/2013 NYK @ DET L 18 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 4 0 0 2 0 -9
+p762
+aVTim Hardaway Jr. NYK 11/19/2013 NYK @ DET L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -1
+p763
+aVJR Smith NYK 11/19/2013 NYK @ DET L 34 18 7 15 46.7 2 9 22.2 2 2 100.0 0 1 1 2 1 0 3 2 1
+p764
+aVPablo Prigioni NYK 11/19/2013 NYK @ DET L 23 8 3 5 60.0 2 4 50.0 0 0 - 0 5 5 5 2 1 0 2 -2
+p765
+aVRaymond Felton NYK 11/16/2013 NYK vs. ATL L 33 7 3 8 37.5 1 4 25.0 0 0 - 0 4 4 5 1 1 4 3 -15
+p766
+aVJR Smith NYK 11/16/2013 NYK vs. ATL L 36 7 3 18 16.7 1 9 11.1 0 0 - 3 2 5 1 0 0 1 3 -13
+p767
+aVTim Hardaway Jr. NYK 11/16/2013 NYK vs. ATL L 22 8 3 7 42.9 2 2 100.0 0 1 0.0 1 0 1 3 1 0 1 0 -12
+p768
+aVIman Shumpert NYK 11/16/2013 NYK vs. ATL L 34 11 4 8 50.0 3 3 100.0 0 0 - 1 6 7 3 1 0 2 2 -10
+p769
+aVCarmelo Anthony NYK 11/16/2013 NYK vs. ATL L 34 23 8 21 38.1 1 4 25.0 6 7 85.7 5 7 12 2 1 0 1 4 -2
+p770
+aVToure' Murry NYK 11/16/2013 NYK vs. ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p771
+aVAmar'e Stoudemire NYK 11/16/2013 NYK vs. ATL L 14 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 -16
+p772
+aVKenyon Martin NYK 11/16/2013 NYK vs. ATL L 17 6 3 6 50.0 0 1 0.0 0 0 - 4 2 6 2 1 0 1 2 -12
+p773
+aVCole Aldrich NYK 11/16/2013 NYK vs. ATL L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p774
+aVPablo Prigioni NYK 11/16/2013 NYK vs. ATL L 15 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 1 0 2 2 -5
+p775
+aVAndrea Bargnani NYK 11/16/2013 NYK vs. ATL L 28 16 5 11 45.5 1 4 25.0 5 6 83.3 4 5 9 2 0 2 2 2 -15
+p776
+aVAmar'e Stoudemire NYK 11/14/2013 NYK vs. HOU L 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p777
+aVAndrea Bargnani NYK 11/14/2013 NYK vs. HOU L 33 24 9 12 75.0 3 3 100.0 3 4 75.0 3 1 4 0 0 1 0 5 7
+p778
+aVJR Smith NYK 11/14/2013 NYK vs. HOU L 39 15 4 16 25.0 2 5 40.0 5 7 71.4 2 6 8 4 3 1 0 3 -1
+p779
+aVIman Shumpert NYK 11/14/2013 NYK vs. HOU L 30 2 1 4 25.0 0 1 0.0 0 0 - 0 6 6 4 1 0 1 4 14
+p780
+aVMetta World Peace NYK 11/14/2013 NYK vs. HOU L 17 2 1 7 14.3 0 3 0.0 0 0 - 1 2 3 0 0 1 0 1 -19
+p781
+aVTim Hardaway Jr. NYK 11/14/2013 NYK vs. HOU L 14 8 2 3 66.7 1 1 100.0 3 3 100.0 0 1 1 0 1 0 0 1 -10
+p782
+aVKenyon Martin NYK 11/14/2013 NYK vs. HOU L 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -3
+p783
+aVRaymond Felton NYK 11/14/2013 NYK vs. HOU L 41 8 3 9 33.3 0 2 0.0 2 2 100.0 0 0 0 7 1 1 5 5 4
+p784
+aVPablo Prigioni NYK 11/14/2013 NYK vs. HOU L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -7
+p785
+aVCarmelo Anthony NYK 11/14/2013 NYK vs. HOU L 44 45 17 30 56.7 2 4 50.0 9 11 81.8 3 7 10 4 0 1 3 5 7
+p786
+aVCarmelo Anthony NYK 11/13/2013 NYK @ ATL W 40 25 9 25 36.0 3 6 50.0 4 5 80.0 0 4 4 2 1 0 2 4 -5
+p787
+aVCole Aldrich NYK 11/13/2013 NYK @ ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p788
+aVRaymond Felton NYK 11/13/2013 NYK @ ATL W 32 10 5 12 41.7 0 3 0.0 0 0 - 1 1 2 5 1 1 0 3 1
+p789
+aVJR Smith NYK 11/13/2013 NYK @ ATL W 33 12 4 10 40.0 3 7 42.9 1 4 25.0 2 5 7 1 1 0 0 1 -3
+p790
+aVIman Shumpert NYK 11/13/2013 NYK @ ATL W 35 5 2 8 25.0 1 4 25.0 0 0 - 1 5 6 9 4 1 0 3 15
+p791
+aVAndrea Bargnani NYK 11/13/2013 NYK @ ATL W 31 20 8 15 53.3 2 4 50.0 2 2 100.0 4 7 11 2 0 1 1 2 6
+p792
+aVMetta World Peace NYK 11/13/2013 NYK @ ATL W 21 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 0 -4
+p793
+aVTim Hardaway Jr. NYK 11/13/2013 NYK @ ATL W 15 14 5 8 62.5 2 4 50.0 2 2 100.0 0 2 2 0 1 0 0 0 3
+p794
+aVKenyon Martin NYK 11/13/2013 NYK @ ATL W 17 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 2
+p795
+aVPablo Prigioni NYK 11/13/2013 NYK @ ATL W 16 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 4 2 0 0 4 9
+p796
+aVAndrea Bargnani NYK 11/10/2013 NYK vs. SAS L 26 16 5 10 50.0 1 2 50.0 5 6 83.3 0 1 1 0 0 0 1 2 -26
+p797
+aVToure' Murry NYK 11/10/2013 NYK vs. SAS L 4 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 1
+p798
+aVJR Smith NYK 11/10/2013 NYK vs. SAS L 21 5 1 9 11.1 1 5 20.0 2 2 100.0 0 2 2 3 1 0 4 1 -18
+p799
+aVPablo Prigioni NYK 11/10/2013 NYK vs. SAS L 15 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 2 0 0 0 2 -20
+p800
+aVCarmelo Anthony NYK 11/10/2013 NYK vs. SAS L 35 16 5 10 50.0 0 0 - 6 8 75.0 1 7 8 1 1 0 1 3 -27
+p801
+aVCole Aldrich NYK 11/10/2013 NYK vs. SAS L 9 2 1 2 50.0 0 0 - 0 0 - 1 6 7 3 0 0 0 0 2
+p802
+aVRaymond Felton NYK 11/10/2013 NYK vs. SAS L 25 7 3 10 30.0 1 5 20.0 0 0 - 0 0 0 2 1 1 0 1 -18
+p803
+aVBeno Udrih NYK 11/10/2013 NYK vs. SAS L 20 6 3 9 33.3 0 1 0.0 0 0 - 1 0 1 1 1 0 1 3 -10
+p804
+aVAmar'e Stoudemire NYK 11/10/2013 NYK vs. SAS L 13 2 1 5 20.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 2 -7
+p805
+aVMetta World Peace NYK 11/10/2013 NYK vs. SAS L 32 13 5 11 45.5 1 3 33.3 2 2 100.0 2 3 5 3 1 0 2 5 -8
+p806
+aVTim Hardaway Jr. NYK 11/10/2013 NYK vs. SAS L 19 11 3 7 42.9 1 4 25.0 4 5 80.0 1 1 2 1 0 0 1 1 -4
+p807
+aVIman Shumpert NYK 11/10/2013 NYK vs. SAS L 22 3 1 5 20.0 0 1 0.0 1 2 50.0 0 3 3 0 1 0 0 2 -20
+p808
+aVPablo Prigioni NYK 11/08/2013 NYK @ CHA W 22 9 3 6 50.0 3 4 75.0 0 0 - 0 3 3 2 1 0 0 5 4
+p809
+aVCarmelo Anthony NYK 11/08/2013 NYK @ CHA W 39 28 12 22 54.5 1 2 50.0 3 5 60.0 5 3 8 6 1 1 3 2 16
+p810
+aVBeno Udrih NYK 11/08/2013 NYK @ CHA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p811
+aVCole Aldrich NYK 11/08/2013 NYK @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p812
+aVAmar'e Stoudemire NYK 11/08/2013 NYK @ CHA W 8 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 1 1 0 1 1 -7
+p813
+aVAndrea Bargnani NYK 11/08/2013 NYK @ CHA W 35 25 11 25 44.0 3 9 33.3 0 0 - 3 5 8 3 0 5 1 1 14
+p814
+aVRaymond Felton NYK 11/08/2013 NYK @ CHA W 38 15 6 17 35.3 2 6 33.3 1 1 100.0 1 3 4 5 0 1 1 3 17
+p815
+aVKenyon Martin NYK 11/08/2013 NYK @ CHA W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 8
+p816
+aVMetta World Peace NYK 11/08/2013 NYK @ CHA W 29 9 4 9 44.4 1 2 50.0 0 1 0.0 2 1 3 2 2 1 2 2 4
+p817
+aVTim Hardaway Jr. NYK 11/08/2013 NYK @ CHA W 14 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 2 1 -1
+p818
+aVToure' Murry NYK 11/08/2013 NYK @ CHA W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p819
+aVIman Shumpert NYK 11/08/2013 NYK @ CHA W 39 5 2 3 66.7 1 1 100.0 0 0 - 1 6 7 4 0 1 1 4 3
+p820
+aVPablo Prigioni NYK 11/05/2013 NYK vs. CHA L 19 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 1 1 0 0 2 -2
+p821
+aVMetta World Peace NYK 11/05/2013 NYK vs. CHA L 32 18 7 13 53.8 2 7 28.6 2 2 100.0 1 5 6 1 3 0 3 5 -1
+p822
+aVIman Shumpert NYK 11/05/2013 NYK vs. CHA L 33 14 4 8 50.0 1 4 25.0 5 6 83.3 0 5 5 2 3 0 1 5 -1
+p823
+aVRaymond Felton NYK 11/05/2013 NYK vs. CHA L 37 14 6 15 40.0 2 7 28.6 0 0 - 3 3 6 2 2 1 2 3 -5
+p824
+aVAndrea Bargnani NYK 11/05/2013 NYK vs. CHA L 23 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -7
+p825
+aVKenyon Martin NYK 11/05/2013 NYK vs. CHA L 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 0 4 5
+p826
+aVCarmelo Anthony NYK 11/05/2013 NYK vs. CHA L 45 32 10 28 35.7 2 5 40.0 10 10 100.0 1 4 5 2 2 0 2 3 -5
+p827
+aVTyson Chandler NYK 11/05/2013 NYK vs. CHA L 7 2 1 1 100.0 0 0 - 0 1 0.0 2 0 2 1 0 1 0 1 -1
+p828
+aVTim Hardaway Jr. NYK 11/05/2013 NYK vs. CHA L 12 4 2 7 28.6 0 4 0.0 0 0 - 1 0 1 1 0 0 0 1 -9
+p829
+aVBeno Udrih NYK 11/05/2013 NYK vs. CHA L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 0 1 0
+p830
+aVAmar'e Stoudemire NYK 11/05/2013 NYK vs. CHA L 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 5 0 1
+p831
+aVRaymond Felton NYK 11/03/2013 NYK vs. MIN L 38 8 3 12 25.0 0 3 0.0 2 2 100.0 0 2 2 12 3 1 3 4 -17
+p832
+aVTim Hardaway Jr. NYK 11/03/2013 NYK vs. MIN L 25 6 3 12 25.0 0 7 0.0 0 0 - 1 0 1 1 0 0 1 3 -7
+p833
+aVKenyon Martin NYK 11/03/2013 NYK vs. MIN L 16 6 3 4 75.0 0 0 - 0 0 - 3 3 6 1 1 1 0 2 -12
+p834
+aVCarmelo Anthony NYK 11/03/2013 NYK vs. MIN L 44 22 8 21 38.1 2 6 33.3 4 5 80.0 5 12 17 3 0 0 5 4 8
+p835
+aVAndrea Bargnani NYK 11/03/2013 NYK vs. MIN L 19 14 6 10 60.0 2 4 50.0 0 0 - 1 2 3 0 1 0 3 0 -11
+p836
+aVTyson Chandler NYK 11/03/2013 NYK vs. MIN L 32 10 3 4 75.0 0 0 - 4 4 100.0 3 6 9 1 0 0 0 4 -17
+p837
+aVPablo Prigioni NYK 11/03/2013 NYK vs. MIN L 20 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 2 0
+p838
+aVMetta World Peace NYK 11/03/2013 NYK vs. MIN L 21 17 7 13 53.8 2 5 40.0 1 2 50.0 0 4 4 0 1 1 0 3 17
+p839
+aVIman Shumpert NYK 11/03/2013 NYK vs. MIN L 26 12 5 8 62.5 2 4 50.0 0 0 - 1 5 6 1 1 0 3 4 -6
+p840
+aVCarmelo Anthony NYK 10/31/2013 NYK @ CHI L 42 22 8 24 33.3 2 7 28.6 4 5 80.0 0 6 6 6 6 2 4 0 -6
+p841
+aVAmar'e Stoudemire NYK 10/31/2013 NYK @ CHI L 11 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 1 0 3 4 -3
+p842
+aVRaymond Felton NYK 10/31/2013 NYK @ CHI L 37 13 5 14 35.7 1 3 33.3 2 3 66.7 1 3 4 6 0 1 2 0 6
+p843
+aVAndrea Bargnani NYK 10/31/2013 NYK @ CHI L 25 9 4 7 57.1 1 2 50.0 0 0 - 1 0 1 1 0 0 3 4 -9
+p844
+aVMetta World Peace NYK 10/31/2013 NYK @ CHI L 23 8 3 11 27.3 2 4 50.0 0 0 - 1 1 2 1 2 1 0 2 -4
+p845
+aVTyson Chandler NYK 10/31/2013 NYK @ CHI L 36 7 3 8 37.5 0 0 - 1 2 50.0 8 11 19 2 1 4 2 2 8
+p846
+aVIman Shumpert NYK 10/31/2013 NYK @ CHI L 25 7 2 6 33.3 1 2 50.0 2 2 100.0 2 1 3 1 2 0 1 4 1
+p847
+aVKenyon Martin NYK 10/31/2013 NYK @ CHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p848
+aVTim Hardaway Jr. NYK 10/31/2013 NYK @ CHI L 27 10 4 13 30.8 2 6 33.3 0 0 - 0 3 3 0 0 0 0 4 7
+p849
+aVPablo Prigioni NYK 10/31/2013 NYK @ CHI L 11 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 0 4 -7
+p850
+aVKenyon Martin NYK 10/30/2013 NYK vs. MIL W 5 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 0 6
+p851
+aVAndrea Bargnani NYK 10/30/2013 NYK vs. MIL W 17 6 3 9 33.3 0 3 0.0 0 0 - 0 2 2 1 1 0 3 2 -11
+p852
+aVBeno Udrih NYK 10/30/2013 NYK vs. MIL W 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 -12
+p853
+aVCarmelo Anthony NYK 10/30/2013 NYK vs. MIL W 38 19 7 16 43.8 0 2 0.0 5 6 83.3 2 8 10 1 1 0 3 2 4
+p854
+aVTim Hardaway Jr. NYK 10/30/2013 NYK vs. MIL W 15 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 2 0
+p855
+aVTyson Chandler NYK 10/30/2013 NYK vs. MIL W 32 10 5 7 71.4 0 0 - 0 0 - 2 4 6 1 3 5 5 3 18
+p856
+aVIman Shumpert NYK 10/30/2013 NYK vs. MIL W 33 16 5 13 38.5 1 5 20.0 5 5 100.0 0 4 4 1 0 1 1 2 4
+p857
+aVPablo Prigioni NYK 10/30/2013 NYK vs. MIL W 37 7 3 3 100.0 1 1 100.0 0 0 - 0 3 3 5 3 0 4 1 19
+p858
+aVRaymond Felton NYK 10/30/2013 NYK vs. MIL W 34 18 7 12 58.3 0 1 0.0 4 4 100.0 1 0 1 3 3 0 3 2 11
+p859
+aVMetta World Peace NYK 10/30/2013 NYK vs. MIL W 18 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 1 0 1 0 -4
+p860
+a.

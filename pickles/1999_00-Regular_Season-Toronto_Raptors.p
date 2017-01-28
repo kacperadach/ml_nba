@@ -1,0 +1,1678 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAntonio Davis TOR 04/19/2000 TOR @ ORL L 21 14 6 10 60.0 0 0 - 2 2 100.0 2 6 8 4 1 0 1 2 0
+p2
+aVVince Carter TOR 04/19/2000 TOR @ ORL L 21 13 5 11 45.5 1 2 50.0 2 2 100.0 2 0 2 2 1 1 1 1 -2
+p3
+aVTracy McGrady TOR 04/19/2000 TOR @ ORL L 25 14 6 14 42.9 2 4 50.0 0 0 - 0 4 4 2 0 0 0 2 -5
+p4
+aVJohn Thomas TOR 04/19/2000 TOR @ ORL L 26 7 3 10 30.0 0 0 - 1 2 50.0 6 2 8 0 2 3 0 3 -16
+p5
+aVMichael Stewart TOR 04/19/2000 TOR @ ORL L 30 11 5 12 41.7 0 0 - 1 3 33.3 5 6 11 1 0 1 2 4 4
+p6
+aVDoug Christie TOR 04/19/2000 TOR @ ORL L 20 11 5 5 100.0 1 1 100.0 0 0 - 0 3 3 5 2 0 4 1 3
+p7
+aVHaywoode Workman TOR 04/19/2000 TOR @ ORL L 24 10 4 8 50.0 2 4 50.0 0 0 - 0 3 3 4 1 0 1 6 -8
+p8
+aVAleksandar Radojevic TOR 04/19/2000 TOR @ ORL L 19 6 2 5 40.0 0 0 - 2 4 50.0 2 6 8 1 1 1 4 5 -4
+p9
+aVDee Brown TOR 04/19/2000 TOR @ ORL L 20 5 2 8 25.0 1 5 20.0 0 0 - 0 0 0 4 1 0 2 1 7
+p10
+aVAlvin Williams TOR 04/19/2000 TOR @ ORL L 32 9 3 16 18.8 0 4 0.0 3 4 75.0 0 4 4 3 2 0 2 3 -9
+p11
+aVHaywoode Workman TOR 04/18/2000 TOR @ MIA L 7 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -9
+p12
+aVDell Curry TOR 04/18/2000 TOR @ MIA L 16 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -1
+p13
+aVJohn Thomas TOR 04/18/2000 TOR @ MIA L 14 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 4 -15
+p14
+aVMichael Stewart TOR 04/18/2000 TOR @ MIA L 23 3 0 2 0.0 0 0 - 3 4 75.0 0 2 2 0 1 0 1 6 -11
+p15
+aVCharles Oakley TOR 04/18/2000 TOR @ MIA L 27 4 2 6 33.3 0 0 - 0 0 - 1 8 9 0 1 0 2 2 -16
+p16
+aVAleksandar Radojevic TOR 04/18/2000 TOR @ MIA L 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 -6
+p17
+aVAntonio Davis TOR 04/18/2000 TOR @ MIA L 32 5 2 9 22.2 0 0 - 1 2 50.0 1 5 6 2 0 1 0 4 -18
+p18
+aVAlvin Williams TOR 04/18/2000 TOR @ MIA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p19
+aVTracy McGrady TOR 04/18/2000 TOR @ MIA L 36 15 5 13 38.5 0 0 - 5 10 50.0 2 4 6 1 0 0 2 4 -15
+p20
+aVVince Carter TOR 04/18/2000 TOR @ MIA L 31 17 5 20 25.0 1 2 50.0 6 7 85.7 2 3 5 3 1 1 2 2 -8
+p21
+aVDoug Christie TOR 04/18/2000 TOR @ MIA L 26 6 1 4 25.0 0 1 0.0 4 4 100.0 0 2 2 4 2 0 0 0 -10
+p22
+aVDee Brown TOR 04/18/2000 TOR @ MIA L 16 10 4 8 50.0 1 5 20.0 1 1 100.0 0 2 2 1 2 0 0 0 -3
+p23
+aVMichael Stewart TOR 04/16/2000 TOR vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p24
+aVKevin Willis TOR 04/16/2000 TOR vs. CHI W 23 7 2 6 33.3 0 0 - 3 4 75.0 1 1 2 0 0 0 2 3 -13
+p25
+aVMuggsy Bogues TOR 04/16/2000 TOR vs. CHI W 26 6 3 10 30.0 0 3 0.0 0 0 - 1 1 2 1 0 0 0 3 -10
+p26
+aVDoug Christie TOR 04/16/2000 TOR vs. CHI W 21 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 3 2 1 1 1 7
+p27
+aVDell Curry TOR 04/16/2000 TOR vs. CHI W 22 5 2 10 20.0 1 6 16.7 0 0 - 0 4 4 1 0 0 2 2 -7
+p28
+aVVince Carter TOR 04/16/2000 TOR vs. CHI W 39 25 9 16 56.3 1 3 33.3 6 7 85.7 0 4 4 2 3 4 3 3 13
+p29
+aVDee Brown TOR 04/16/2000 TOR vs. CHI W 13 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 1 0 0 1 9
+p30
+aVTracy McGrady TOR 04/16/2000 TOR vs. CHI W 41 13 5 14 35.7 1 2 50.0 2 2 100.0 4 3 7 5 2 1 1 2 4
+p31
+aVAntonio Davis TOR 04/16/2000 TOR vs. CHI W 26 17 6 8 75.0 0 0 - 5 5 100.0 4 5 9 0 0 1 2 5 9
+p32
+aVCharles Oakley TOR 04/16/2000 TOR vs. CHI W 26 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 2 1 0 2 3 -2
+p33
+aVVince Carter TOR 04/14/2000 TOR vs. NYK W 34 34 14 19 73.7 3 5 60.0 3 4 75.0 0 5 5 6 2 3 2 3 15
+p34
+aVKevin Willis TOR 04/14/2000 TOR vs. NYK W 27 6 1 8 12.5 0 0 - 4 4 100.0 2 5 7 0 0 3 1 3 4
+p35
+aVMichael Stewart TOR 04/14/2000 TOR vs. NYK W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -1
+p36
+aVAlvin Williams TOR 04/14/2000 TOR vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p37
+aVMuggsy Bogues TOR 04/14/2000 TOR vs. NYK W 35 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 6 1 0 0 0 23
+p38
+aVDee Brown TOR 04/14/2000 TOR vs. NYK W 13 0 0 9 0.0 0 5 0.0 0 0 - 0 0 0 3 0 0 0 0 -9
+p39
+aVJohn Thomas TOR 04/14/2000 TOR vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p40
+aVDell Curry TOR 04/14/2000 TOR vs. NYK W 17 10 3 9 33.3 1 3 33.3 3 3 100.0 1 0 1 2 0 0 0 1 9
+p41
+aVAntonio Davis TOR 04/14/2000 TOR vs. NYK W 36 17 8 13 61.5 0 0 - 1 2 50.0 0 3 3 0 0 3 1 2 10
+p42
+aVCharles Oakley TOR 04/14/2000 TOR vs. NYK W 32 6 3 9 33.3 0 3 0.0 0 0 - 0 7 7 3 1 1 0 5 21
+p43
+aVTracy McGrady TOR 04/14/2000 TOR vs. NYK W 35 11 5 15 33.3 1 2 50.0 0 1 0.0 5 4 9 2 2 3 1 2 5
+p44
+aVDell Curry TOR 04/12/2000 TOR @ IND L 13 3 1 9 11.1 1 6 16.7 0 0 - 0 2 2 0 3 0 0 2 1
+p45
+aVAntonio Davis TOR 04/12/2000 TOR @ IND L 42 11 2 10 20.0 0 0 - 7 8 87.5 5 8 13 2 0 1 3 3 -13
+p46
+aVCharles Oakley TOR 04/12/2000 TOR @ IND L 37 4 1 10 10.0 0 1 0.0 2 2 100.0 1 7 8 1 0 1 4 3 -5
+p47
+aVVince Carter TOR 04/12/2000 TOR @ IND L 44 28 12 25 48.0 3 7 42.9 1 4 25.0 0 4 4 2 1 1 2 3 -4
+p48
+aVTracy McGrady TOR 04/12/2000 TOR @ IND L 41 19 8 17 47.1 1 2 50.0 2 4 50.0 7 7 14 8 1 1 1 2 -9
+p49
+aVMichael Stewart TOR 04/12/2000 TOR @ IND L 22 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 1 0 6 15
+p50
+aVDee Brown TOR 04/12/2000 TOR @ IND L 14 6 2 5 40.0 1 3 33.3 1 2 50.0 0 0 0 3 0 0 0 0 -5
+p51
+aVMuggsy Bogues TOR 04/12/2000 TOR @ IND L 28 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 2 1 0 0 3 0
+p52
+aVCharles Oakley TOR 04/10/2000 TOR vs. CLE W 30 9 3 9 33.3 0 0 - 3 4 75.0 3 7 10 2 0 0 3 4 14
+p53
+aVMichael Stewart TOR 04/10/2000 TOR vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p54
+aVKevin Willis TOR 04/10/2000 TOR vs. CLE W 21 2 0 3 0.0 0 0 - 2 2 100.0 1 4 5 1 1 1 1 2 0
+p55
+aVDee Brown TOR 04/10/2000 TOR vs. CLE W 25 14 5 10 50.0 3 8 37.5 1 2 50.0 0 2 2 1 2 0 2 2 1
+p56
+aVTracy McGrady TOR 04/10/2000 TOR vs. CLE W 44 27 8 16 50.0 0 0 - 11 13 84.6 1 5 6 9 3 6 3 4 14
+p57
+aVMuggsy Bogues TOR 04/10/2000 TOR vs. CLE W 26 10 4 5 80.0 1 1 100.0 1 2 50.0 0 1 1 4 1 0 0 1 -2
+p58
+aVVince Carter TOR 04/10/2000 TOR vs. CLE W 44 31 13 19 68.4 1 3 33.3 4 6 66.7 3 8 11 10 1 1 2 3 10
+p59
+aVDell Curry TOR 04/10/2000 TOR vs. CLE W 16 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 1 0 0 0 8
+p60
+aVAntonio Davis TOR 04/10/2000 TOR vs. CLE W 33 14 5 8 62.5 0 0 - 4 5 80.0 1 3 4 0 0 4 1 2 -4
+p61
+aVDee Brown TOR 04/08/2000 TOR @ CHI W 22 19 7 13 53.8 5 9 55.6 0 0 - 0 2 2 3 2 0 2 1 16
+p62
+aVMichael Stewart TOR 04/08/2000 TOR @ CHI W 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -3
+p63
+aVDell Curry TOR 04/08/2000 TOR @ CHI W 24 13 5 8 62.5 3 6 50.0 0 0 - 0 3 3 5 0 0 2 1 1
+p64
+aVMuggsy Bogues TOR 04/08/2000 TOR @ CHI W 29 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 8 1 0 0 2 21
+p65
+aVAntonio Davis TOR 04/08/2000 TOR @ CHI W 29 10 3 6 50.0 0 0 - 4 8 50.0 1 5 6 1 1 0 3 5 16
+p66
+aVAlvin Williams TOR 04/08/2000 TOR @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p67
+aVKevin Willis TOR 04/08/2000 TOR @ CHI W 28 6 3 9 33.3 0 0 - 0 0 - 2 3 5 1 2 0 0 4 15
+p68
+aVVince Carter TOR 04/08/2000 TOR @ CHI W 36 17 7 13 53.8 3 5 60.0 0 2 0.0 1 3 4 5 2 2 0 4 4
+p69
+aVJohn Thomas TOR 04/08/2000 TOR @ CHI W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p70
+aVTracy McGrady TOR 04/08/2000 TOR @ CHI W 33 19 8 15 53.3 0 2 0.0 3 4 75.0 1 4 5 5 1 1 3 0 10
+p71
+aVCharles Oakley TOR 04/08/2000 TOR @ CHI W 26 6 3 5 60.0 0 0 - 0 0 - 1 6 7 3 1 0 1 3 11
+p72
+aVTracy McGrady TOR 04/07/2000 TOR @ ATL W 34 21 10 16 62.5 1 1 100.0 0 0 - 1 3 4 2 0 0 2 0 16
+p73
+aVJohn Thomas TOR 04/07/2000 TOR @ ATL W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p74
+aVKevin Willis TOR 04/07/2000 TOR @ ATL W 25 10 5 8 62.5 0 0 - 0 0 - 3 4 7 0 1 0 2 4 2
+p75
+aVAntonio Davis TOR 04/07/2000 TOR @ ATL W 32 11 4 6 66.7 0 0 - 3 4 75.0 3 8 11 6 1 1 2 4 17
+p76
+aVVince Carter TOR 04/07/2000 TOR @ ATL W 43 23 7 13 53.8 1 2 50.0 8 10 80.0 0 6 6 9 2 1 0 3 24
+p77
+aVDee Brown TOR 04/07/2000 TOR @ ATL W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 1 -6
+p78
+aVMichael Stewart TOR 04/07/2000 TOR @ ATL W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p79
+aVAlvin Williams TOR 04/07/2000 TOR @ ATL W 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 2
+p80
+aVMuggsy Bogues TOR 04/07/2000 TOR @ ATL W 34 13 5 6 83.3 2 2 100.0 1 1 100.0 0 3 3 4 1 0 0 2 20
+p81
+aVCharles Oakley TOR 04/07/2000 TOR @ ATL W 31 8 4 12 33.3 0 3 0.0 0 0 - 0 3 3 0 0 0 3 4 14
+p82
+aVDell Curry TOR 04/07/2000 TOR @ ATL W 22 14 4 8 50.0 3 6 50.0 3 3 100.0 0 1 1 2 1 0 1 2 7
+p83
+aVVince Carter TOR 04/04/2000 TOR vs. DET L 36 24 6 15 40.0 3 5 60.0 9 12 75.0 0 6 6 5 0 1 4 2 -12
+p84
+aVCharles Oakley TOR 04/04/2000 TOR vs. DET L 29 4 2 6 33.3 0 0 - 0 0 - 2 8 10 2 0 0 1 3 -4
+p85
+aVTracy McGrady TOR 04/04/2000 TOR vs. DET L 45 28 12 26 46.2 1 4 25.0 3 3 100.0 5 6 11 5 0 4 2 4 -14
+p86
+aVKevin Willis TOR 04/04/2000 TOR vs. DET L 23 6 2 8 25.0 0 0 - 2 2 100.0 4 3 7 1 0 0 1 3 -8
+p87
+aVAntonio Davis TOR 04/04/2000 TOR vs. DET L 31 4 2 9 22.2 0 0 - 0 0 - 6 6 12 1 0 1 2 5 -4
+p88
+aVJohn Thomas TOR 04/04/2000 TOR vs. DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 1
+p89
+aVDoug Christie TOR 04/04/2000 TOR vs. DET L 25 8 3 10 30.0 2 6 33.3 0 0 - 1 2 3 4 0 1 3 2 -18
+p90
+aVMuggsy Bogues TOR 04/04/2000 TOR vs. DET L 31 0 0 6 0.0 0 2 0.0 0 0 - 0 0 0 5 2 0 2 3 -5
+p91
+aVDell Curry TOR 04/04/2000 TOR vs. DET L 18 14 6 9 66.7 2 4 50.0 0 0 - 0 1 1 0 0 0 2 2 -16
+p92
+aVCharles Oakley TOR 04/02/2000 TOR vs. IND L 35 6 3 9 33.3 0 2 0.0 0 0 - 1 4 5 3 1 0 1 3 -19
+p93
+aVAntonio Davis TOR 04/02/2000 TOR vs. IND L 34 8 3 10 30.0 0 0 - 2 2 100.0 1 10 11 3 0 1 2 4 -16
+p94
+aVMichael Stewart TOR 04/02/2000 TOR vs. IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p95
+aVAlvin Williams TOR 04/02/2000 TOR vs. IND L 3 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 3
+p96
+aVKevin Willis TOR 04/02/2000 TOR vs. IND L 23 10 4 9 44.4 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 -10
+p97
+aVMuggsy Bogues TOR 04/02/2000 TOR vs. IND L 20 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 2 2 0 1 3 -10
+p98
+aVJohn Thomas TOR 04/02/2000 TOR vs. IND L 4 4 1 4 25.0 0 0 - 2 2 100.0 3 0 3 0 0 0 0 0 3
+p99
+aVDee Brown TOR 04/02/2000 TOR vs. IND L 12 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 1 1 0 1 0 -3
+p100
+aVVince Carter TOR 04/02/2000 TOR vs. IND L 29 17 7 13 53.8 1 5 20.0 2 2 100.0 0 4 4 1 0 2 3 1 -11
+p101
+aVTracy McGrady TOR 04/02/2000 TOR vs. IND L 36 24 9 14 64.3 0 2 0.0 6 6 100.0 3 5 8 5 1 2 0 1 -16
+p102
+aVDell Curry TOR 04/02/2000 TOR vs. IND L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p103
+aVDoug Christie TOR 04/02/2000 TOR vs. IND L 30 6 2 11 18.2 0 2 0.0 2 2 100.0 2 3 5 5 0 0 2 0 -14
+p104
+aVTracy McGrady TOR 03/31/2000 TOR @ CHH L 46 16 6 20 30.0 0 1 0.0 4 5 80.0 4 9 13 4 2 1 4 4 -15
+p105
+aVAntonio Davis TOR 03/31/2000 TOR @ CHH L 38 11 5 11 45.5 0 0 - 1 2 50.0 4 3 7 1 1 3 2 5 -15
+p106
+aVDoug Christie TOR 03/31/2000 TOR @ CHH L 28 8 2 6 33.3 0 1 0.0 4 4 100.0 1 1 2 2 1 0 2 5 -5
+p107
+aVDell Curry TOR 03/31/2000 TOR @ CHH L 19 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 4 1 0 0 0 -5
+p108
+aVKevin Willis TOR 03/31/2000 TOR @ CHH L 25 14 6 7 85.7 0 0 - 2 2 100.0 1 4 5 1 0 0 1 4 -1
+p109
+aVCharles Oakley TOR 03/31/2000 TOR @ CHH L 35 7 2 2 100.0 2 2 100.0 1 2 50.0 2 7 9 3 2 0 2 6 -12
+p110
+aVVince Carter TOR 03/31/2000 TOR @ CHH L 42 31 12 30 40.0 3 5 60.0 4 6 66.7 2 4 6 3 0 1 3 1 -21
+p111
+aVMuggsy Bogues TOR 03/31/2000 TOR @ CHH L 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 7 0 0 1 3 12
+p112
+aVDee Brown TOR 03/31/2000 TOR @ CHH L 15 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 0 2 17
+p113
+aVAlvin Williams TOR 03/30/2000 TOR @ NJN L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p114
+aVVince Carter TOR 03/30/2000 TOR @ NJN L 44 39 14 28 50.0 1 3 33.3 10 15 66.7 5 2 7 7 0 0 1 3 1
+p115
+aVTracy McGrady TOR 03/30/2000 TOR @ NJN L 37 10 4 13 30.8 0 2 0.0 2 3 66.7 1 5 6 6 0 1 0 4 5
+p116
+aVDoug Christie TOR 03/30/2000 TOR @ NJN L 20 0 0 5 0.0 0 2 0.0 0 0 - 0 4 4 6 0 0 1 6 -5
+p117
+aVCharles Oakley TOR 03/30/2000 TOR @ NJN L 28 6 3 6 50.0 0 0 - 0 0 - 3 4 7 3 1 0 2 3 10
+p118
+aVAntonio Davis TOR 03/30/2000 TOR @ NJN L 32 15 5 11 45.5 0 0 - 5 6 83.3 7 6 13 1 0 2 1 6 -4
+p119
+aVKevin Willis TOR 03/30/2000 TOR @ NJN L 19 12 4 9 44.4 0 0 - 4 4 100.0 2 5 7 0 1 2 0 1 -8
+p120
+aVDee Brown TOR 03/30/2000 TOR @ NJN L 19 9 3 8 37.5 3 6 50.0 0 0 - 0 1 1 0 1 0 0 2 -7
+p121
+aVMichael Stewart TOR 03/30/2000 TOR @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p122
+aVMuggsy Bogues TOR 03/30/2000 TOR @ NJN L 26 8 3 7 42.9 0 1 0.0 2 2 100.0 1 1 2 6 1 1 2 0 -5
+p123
+aVDell Curry TOR 03/30/2000 TOR @ NJN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p124
+aVVince Carter TOR 03/28/2000 TOR @ CLE W 41 19 6 17 35.3 0 2 0.0 7 8 87.5 2 6 8 6 1 2 3 4 12
+p125
+aVDoug Christie TOR 03/28/2000 TOR @ CLE W 28 14 5 11 45.5 2 2 100.0 2 2 100.0 1 1 2 3 2 0 3 3 1
+p126
+aVMuggsy Bogues TOR 03/28/2000 TOR @ CLE W 27 10 4 4 100.0 2 2 100.0 0 0 - 0 0 0 4 2 0 5 4 8
+p127
+aVKevin Willis TOR 03/28/2000 TOR @ CLE W 12 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 2 2 -6
+p128
+aVTracy McGrady TOR 03/28/2000 TOR @ CLE W 35 18 7 13 53.8 2 3 66.7 2 2 100.0 2 6 8 5 2 1 5 2 -5
+p129
+aVMichael Stewart TOR 03/28/2000 TOR @ CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 0 -2
+p130
+aVDee Brown TOR 03/28/2000 TOR @ CLE W 26 14 4 9 44.4 3 7 42.9 3 3 100.0 0 1 1 3 0 1 2 1 11
+p131
+aVAlvin Williams TOR 03/28/2000 TOR @ CLE W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p132
+aVCharles Oakley TOR 03/28/2000 TOR @ CLE W 25 7 3 8 37.5 1 1 100.0 0 0 - 1 7 8 2 2 4 2 4 -10
+p133
+aVDell Curry TOR 03/28/2000 TOR @ CLE W 12 3 1 6 16.7 1 4 25.0 0 0 - 0 3 3 0 0 0 1 0 3
+p134
+aVAntonio Davis TOR 03/28/2000 TOR @ CLE W 29 6 2 3 66.7 0 0 - 2 5 40.0 0 4 4 1 0 0 0 5 4
+p135
+aVTracy McGrady TOR 03/26/2000 TOR @ MIN L 48 21 7 18 38.9 0 1 0.0 7 9 77.8 2 4 6 8 1 0 1 5 -9
+p136
+aVVince Carter TOR 03/26/2000 TOR @ MIN L 44 38 13 31 41.9 0 3 0.0 12 14 85.7 1 6 7 4 1 1 1 3 1
+p137
+aVDell Curry TOR 03/26/2000 TOR @ MIN L 13 8 3 5 60.0 2 4 50.0 0 0 - 0 0 0 1 0 0 0 2 -6
+p138
+aVCharles Oakley TOR 03/26/2000 TOR @ MIN L 31 2 1 4 25.0 0 0 - 0 0 - 0 5 5 6 1 1 3 5 -2
+p139
+aVKevin Willis TOR 03/26/2000 TOR @ MIN L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 2 4 2
+p140
+aVDee Brown TOR 03/26/2000 TOR @ MIN L 23 8 3 9 33.3 2 6 33.3 0 0 - 0 1 1 3 2 1 3 3 -7
+p141
+aVAntonio Davis TOR 03/26/2000 TOR @ MIN L 45 12 4 11 36.4 0 0 - 4 7 57.1 4 3 7 0 5 0 2 6 -5
+p142
+aVDoug Christie TOR 03/26/2000 TOR @ MIN L 32 6 3 5 60.0 0 0 - 0 0 - 1 5 6 4 2 0 0 1 0
+p143
+aVMuggsy Bogues TOR 03/26/2000 TOR @ MIN L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 4 0 0 0 1 1
+p144
+aVVince Carter TOR 03/24/2000 TOR vs. CHH L 34 18 4 16 25.0 4 5 80.0 6 6 100.0 0 0 0 3 1 0 3 3 -9
+p145
+aVTracy McGrady TOR 03/24/2000 TOR vs. CHH L 38 16 8 17 47.1 0 0 - 0 0 - 4 4 8 4 1 3 1 2 -8
+p146
+aVDell Curry TOR 03/24/2000 TOR vs. CHH L 14 10 4 5 80.0 2 3 66.7 0 0 - 0 1 1 0 0 1 0 2 -14
+p147
+aVCharles Oakley TOR 03/24/2000 TOR vs. CHH L 36 6 3 5 60.0 0 1 0.0 0 0 - 0 6 6 3 1 0 2 2 -6
+p148
+aVHaywoode Workman TOR 03/24/2000 TOR vs. CHH L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p149
+aVJohn Thomas TOR 03/24/2000 TOR vs. CHH L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p150
+aVMuggsy Bogues TOR 03/24/2000 TOR vs. CHH L 15 6 2 7 28.6 0 2 0.0 2 2 100.0 0 0 0 3 1 0 1 2 -16
+p151
+aVAlvin Williams TOR 03/24/2000 TOR vs. CHH L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p152
+aVMichael Stewart TOR 03/24/2000 TOR vs. CHH L 15 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 1 -13
+p153
+aVDoug Christie TOR 03/24/2000 TOR vs. CHH L 26 10 4 14 28.6 2 5 40.0 0 0 - 1 10 11 4 0 0 1 1 -6
+p154
+aVKevin Willis TOR 03/24/2000 TOR vs. CHH L 24 2 1 8 12.5 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -15
+p155
+aVAntonio Davis TOR 03/24/2000 TOR vs. CHH L 28 11 4 7 57.1 0 0 - 3 3 100.0 3 2 5 2 1 1 2 3 -9
+p156
+aVDoug Christie TOR 03/22/2000 TOR @ PHI L 37 13 5 9 55.6 0 0 - 3 4 75.0 0 4 4 8 0 0 1 1 -20
+p157
+aVMuggsy Bogues TOR 03/22/2000 TOR @ PHI L 15 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -10
+p158
+aVJohn Thomas TOR 03/22/2000 TOR @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p159
+aVKevin Willis TOR 03/22/2000 TOR @ PHI L 26 8 3 9 33.3 0 0 - 2 4 50.0 4 4 8 1 0 0 0 3 -18
+p160
+aVAlvin Williams TOR 03/22/2000 TOR @ PHI L 9 7 3 5 60.0 1 1 100.0 0 0 - 1 2 3 1 0 0 0 1 0
+p161
+aVVince Carter TOR 03/22/2000 TOR @ PHI L 43 26 10 24 41.7 0 5 0.0 6 7 85.7 1 1 2 3 3 0 2 1 -14
+p162
+aVMichael Stewart TOR 03/22/2000 TOR @ PHI L 14 0 0 0 - 0 0 - 0 0 - 2 1 3 1 1 1 1 3 9
+p163
+aVTracy McGrady TOR 03/22/2000 TOR @ PHI L 35 20 8 15 53.3 1 2 50.0 3 5 60.0 3 4 7 5 0 1 3 5 4
+p164
+aVCharles Oakley TOR 03/22/2000 TOR @ PHI L 18 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 1 2 0 2 5 7
+p165
+aVDell Curry TOR 03/22/2000 TOR @ PHI L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -16
+p166
+aVHaywoode Workman TOR 03/22/2000 TOR @ PHI L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p167
+aVAntonio Davis TOR 03/22/2000 TOR @ PHI L 27 7 3 8 37.5 0 0 - 1 2 50.0 4 5 9 0 0 1 2 3 -14
+p168
+aVMuggsy Bogues TOR 03/21/2000 TOR vs. NJN L 22 7 3 10 30.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 3 2
+p169
+aVDoug Christie TOR 03/21/2000 TOR vs. NJN L 34 11 5 10 50.0 1 4 25.0 0 0 - 2 3 5 7 1 0 1 2 -9
+p170
+aVVince Carter TOR 03/21/2000 TOR vs. NJN L 40 23 5 18 27.8 2 8 25.0 11 13 84.6 2 6 8 3 1 2 3 5 -6
+p171
+aVCharles Oakley TOR 03/21/2000 TOR vs. NJN L 28 5 2 6 33.3 1 1 100.0 0 0 - 1 8 9 2 0 1 3 3 -13
+p172
+aVTracy McGrady TOR 03/21/2000 TOR vs. NJN L 39 22 8 18 44.4 0 1 0.0 6 6 100.0 7 5 12 4 1 0 3 1 -3
+p173
+aVDell Curry TOR 03/21/2000 TOR vs. NJN L 26 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 3 0 0 0 0 7
+p174
+aVAntonio Davis TOR 03/21/2000 TOR vs. NJN L 35 12 3 8 37.5 0 0 - 6 8 75.0 6 6 12 2 0 3 3 1 -13
+p175
+aVKevin Willis TOR 03/21/2000 TOR vs. NJN L 17 8 4 7 57.1 0 0 - 0 0 - 3 4 7 1 0 0 0 0 0
+p176
+aVAntonio Davis TOR 03/19/2000 TOR vs. HOU W 15 9 2 3 66.7 0 0 - 5 6 83.3 1 2 3 0 0 0 0 3 2
+p177
+aVJohn Thomas TOR 03/19/2000 TOR vs. HOU W 13 1 0 0 - 0 0 - 1 2 50.0 2 2 4 1 1 0 1 0 -13
+p178
+aVDell Curry TOR 03/19/2000 TOR vs. HOU W 18 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 0 1 0 2 0 15
+p179
+aVDoug Christie TOR 03/19/2000 TOR vs. HOU W 33 8 4 13 30.8 0 1 0.0 0 0 - 4 1 5 5 1 0 1 1 -14
+p180
+aVTracy McGrady TOR 03/19/2000 TOR vs. HOU W 44 16 8 16 50.0 0 0 - 0 0 - 4 3 7 4 2 7 1 2 10
+p181
+aVMuggsy Bogues TOR 03/19/2000 TOR vs. HOU W 21 2 1 4 25.0 0 0 - 0 0 - 1 0 1 4 0 0 0 0 8
+p182
+aVCharles Oakley TOR 03/19/2000 TOR vs. HOU W 29 6 2 7 28.6 0 0 - 2 3 66.7 2 5 7 3 0 1 1 5 -11
+p183
+aVKevin Willis TOR 03/19/2000 TOR vs. HOU W 27 19 8 15 53.3 0 0 - 3 3 100.0 6 7 13 0 0 2 0 4 14
+p184
+aVVince Carter TOR 03/19/2000 TOR vs. HOU W 43 37 14 28 50.0 3 6 50.0 6 6 100.0 1 3 4 3 1 0 2 4 -1
+p185
+aVTracy McGrady TOR 03/17/2000 TOR vs. ORL W 40 11 3 12 25.0 0 0 - 5 6 83.3 6 7 13 4 1 2 2 2 8
+p186
+aVHaywoode Workman TOR 03/17/2000 TOR vs. ORL W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -8
+p187
+aVKevin Willis TOR 03/17/2000 TOR vs. ORL W 31 10 5 11 45.5 0 0 - 0 0 - 2 5 7 2 1 0 0 4 -2
+p188
+aVDell Curry TOR 03/17/2000 TOR vs. ORL W 20 11 5 8 62.5 1 4 25.0 0 0 - 0 0 0 1 0 0 0 1 0
+p189
+aVCharles Oakley TOR 03/17/2000 TOR vs. ORL W 33 7 2 12 16.7 0 0 - 3 4 75.0 3 5 8 5 3 0 3 2 9
+p190
+aVVince Carter TOR 03/17/2000 TOR vs. ORL W 37 30 10 21 47.6 1 6 16.7 9 13 69.2 2 4 6 2 1 2 2 3 4
+p191
+aVJohn Thomas TOR 03/17/2000 TOR vs. ORL W 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 3 5
+p192
+aVDoug Christie TOR 03/17/2000 TOR vs. ORL W 33 22 6 13 46.2 1 3 33.3 9 9 100.0 0 4 4 7 5 1 1 3 3
+p193
+aVMuggsy Bogues TOR 03/17/2000 TOR vs. ORL W 22 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 2 0 0 2 1
+p194
+aVCharles Oakley TOR 03/14/2000 TOR vs. GSW W 38 13 6 8 75.0 0 1 0.0 1 2 50.0 0 10 10 0 2 0 2 5 0
+p195
+aVHaywoode Workman TOR 03/14/2000 TOR vs. GSW W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 1
+p196
+aVMuggsy Bogues TOR 03/14/2000 TOR vs. GSW W 18 0 0 7 0.0 0 0 - 0 0 - 0 2 2 7 0 0 0 1 5
+p197
+aVVince Carter TOR 03/14/2000 TOR vs. GSW W 36 23 7 14 50.0 3 4 75.0 6 6 100.0 0 3 3 1 1 4 1 4 0
+p198
+aVDell Curry TOR 03/14/2000 TOR vs. GSW W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 8
+p199
+aVAlvin Williams TOR 03/14/2000 TOR vs. GSW W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -3
+p200
+aVDoug Christie TOR 03/14/2000 TOR vs. GSW W 29 12 4 13 30.8 2 2 100.0 2 2 100.0 2 2 4 4 0 1 1 2 8
+p201
+aVTracy McGrady TOR 03/14/2000 TOR vs. GSW W 36 20 4 11 36.4 0 1 0.0 12 18 66.7 2 5 7 4 4 6 0 1 2
+p202
+aVMichael Stewart TOR 03/14/2000 TOR vs. GSW W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 7
+p203
+aVKevin Willis TOR 03/14/2000 TOR vs. GSW W 40 12 6 9 66.7 0 0 - 0 0 - 4 11 15 0 0 1 2 4 -1
+p204
+aVJohn Thomas TOR 03/14/2000 TOR vs. GSW W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 1 8
+p205
+aVKevin Willis TOR 03/12/2000 TOR @ SEA W 31 9 4 10 40.0 0 0 - 1 1 100.0 4 9 13 1 0 0 0 2 -5
+p206
+aVDee Brown TOR 03/12/2000 TOR @ SEA W 7 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 0 -7
+p207
+aVAntonio Davis TOR 03/12/2000 TOR @ SEA W 13 2 1 4 25.0 0 0 - 0 0 - 0 4 4 2 0 0 0 1 7
+p208
+aVDoug Christie TOR 03/12/2000 TOR @ SEA W 40 13 4 11 36.4 2 6 33.3 3 3 100.0 0 3 3 2 1 0 2 3 5
+p209
+aVDell Curry TOR 03/12/2000 TOR @ SEA W 8 5 2 7 28.6 1 2 50.0 0 0 - 2 1 3 0 0 0 0 0 0
+p210
+aVVince Carter TOR 03/12/2000 TOR @ SEA W 41 34 11 22 50.0 1 5 20.0 11 12 91.7 4 5 9 4 0 1 2 5 10
+p211
+aVTracy McGrady TOR 03/12/2000 TOR @ SEA W 37 19 7 11 63.6 0 0 - 5 9 55.6 0 6 6 6 1 1 3 5 9
+p212
+aVAlvin Williams TOR 03/12/2000 TOR @ SEA W 5 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 1
+p213
+aVMuggsy Bogues TOR 03/12/2000 TOR @ SEA W 16 3 1 5 20.0 0 1 0.0 1 2 50.0 0 0 0 3 2 0 1 1 -14
+p214
+aVCharles Oakley TOR 03/12/2000 TOR @ SEA W 41 7 3 6 50.0 1 1 100.0 0 0 - 0 6 6 5 0 2 3 6 4
+p215
+aVAlvin Williams TOR 03/10/2000 TOR @ SAC L 8 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -3
+p216
+aVTracy McGrady TOR 03/10/2000 TOR @ SAC L 32 11 3 8 37.5 0 0 - 5 8 62.5 1 7 8 1 1 4 4 6 -6
+p217
+aVKevin Willis TOR 03/10/2000 TOR @ SAC L 20 13 6 9 66.7 0 0 - 1 5 20.0 2 6 8 1 0 0 3 3 -10
+p218
+aVJohn Thomas TOR 03/10/2000 TOR @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p219
+aVCharles Oakley TOR 03/10/2000 TOR @ SAC L 26 6 2 6 33.3 2 3 66.7 0 0 - 1 4 5 1 1 0 1 2 -9
+p220
+aVMuggsy Bogues TOR 03/10/2000 TOR @ SAC L 19 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 2 0 0 0 0 -5
+p221
+aVDee Brown TOR 03/10/2000 TOR @ SAC L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 3 0
+p222
+aVVince Carter TOR 03/10/2000 TOR @ SAC L 37 25 10 23 43.5 0 2 0.0 5 7 71.4 3 2 5 3 0 1 1 4 -15
+p223
+aVAntonio Davis TOR 03/10/2000 TOR @ SAC L 38 10 4 10 40.0 0 0 - 2 5 40.0 4 11 15 2 0 2 1 5 -15
+p224
+aVDoug Christie TOR 03/10/2000 TOR @ SAC L 29 9 3 10 30.0 1 2 50.0 2 2 100.0 1 2 3 4 1 0 2 2 -9
+p225
+aVDell Curry TOR 03/10/2000 TOR @ SAC L 15 6 2 5 40.0 1 3 33.3 1 2 50.0 0 2 2 2 0 0 0 2 -2
+p226
+aVHaywoode Workman TOR 03/10/2000 TOR @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p227
+aVAntonio Davis TOR 03/08/2000 TOR @ LAC W 31 13 5 7 71.4 0 0 - 3 4 75.0 5 6 11 0 1 1 2 4 -4
+p228
+aVKevin Willis TOR 03/08/2000 TOR @ LAC W 30 13 5 8 62.5 0 0 - 3 5 60.0 1 3 4 0 1 1 1 3 -7
+p229
+aVTracy McGrady TOR 03/08/2000 TOR @ LAC W 35 15 5 13 38.5 0 0 - 5 8 62.5 4 6 10 3 3 0 3 0 5
+p230
+aVDee Brown TOR 03/08/2000 TOR @ LAC W 7 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 3 0 0 1 1 10
+p231
+aVDell Curry TOR 03/08/2000 TOR @ LAC W 10 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p232
+aVMuggsy Bogues TOR 03/08/2000 TOR @ LAC W 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 4 2 0 2 3 -10
+p233
+aVDoug Christie TOR 03/08/2000 TOR @ LAC W 38 18 6 12 50.0 4 8 50.0 2 2 100.0 1 2 3 2 4 0 2 2 9
+p234
+aVVince Carter TOR 03/08/2000 TOR @ LAC W 40 23 9 21 42.9 2 4 50.0 3 6 50.0 1 4 5 5 1 0 2 2 3
+p235
+aVCharles Oakley TOR 03/08/2000 TOR @ LAC W 35 2 1 5 20.0 0 0 - 0 0 - 0 1 1 4 1 0 1 3 7
+p236
+aVVince Carter TOR 03/06/2000 TOR @ POR W 46 35 12 23 52.2 4 5 80.0 7 10 70.0 2 4 6 5 3 0 4 1 18
+p237
+aVDoug Christie TOR 03/06/2000 TOR @ POR W 41 26 9 16 56.3 5 9 55.6 3 4 75.0 1 5 6 5 2 1 1 4 13
+p238
+aVAntonio Davis TOR 03/06/2000 TOR @ POR W 30 6 2 7 28.6 0 0 - 2 4 50.0 0 5 5 2 0 0 1 5 11
+p239
+aVTracy McGrady TOR 03/06/2000 TOR @ POR W 39 13 4 11 36.4 0 0 - 5 6 83.3 3 4 7 3 0 1 2 4 24
+p240
+aVCharles Oakley TOR 03/06/2000 TOR @ POR W 35 8 3 9 33.3 0 0 - 2 2 100.0 2 5 7 4 2 0 1 4 19
+p241
+aVKevin Willis TOR 03/06/2000 TOR @ POR W 31 12 5 9 55.6 1 1 100.0 1 1 100.0 4 4 8 1 0 0 2 1 8
+p242
+aVDell Curry TOR 03/06/2000 TOR @ POR W 10 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 2 0 0 3 -1
+p243
+aVMuggsy Bogues TOR 03/06/2000 TOR @ POR W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 4 1 0 0 1 3
+p244
+aVDee Brown TOR 03/05/2000 TOR @ VAN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p245
+aVVince Carter TOR 03/05/2000 TOR @ VAN W 43 28 11 21 52.4 0 2 0.0 6 9 66.7 3 6 9 4 2 2 4 6 7
+p246
+aVDell Curry TOR 03/05/2000 TOR @ VAN W 14 16 6 7 85.7 3 4 75.0 1 2 50.0 0 1 1 0 2 0 0 0 5
+p247
+aVJohn Thomas TOR 03/05/2000 TOR @ VAN W 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -5
+p248
+aVKevin Willis TOR 03/05/2000 TOR @ VAN W 16 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 2 6 4
+p249
+aVDoug Christie TOR 03/05/2000 TOR @ VAN W 34 6 2 6 33.3 0 1 0.0 2 2 100.0 1 4 5 6 1 1 0 2 -8
+p250
+aVCharles Oakley TOR 03/05/2000 TOR @ VAN W 37 14 7 15 46.7 0 1 0.0 0 0 - 1 3 4 3 2 2 2 5 -1
+p251
+aVTracy McGrady TOR 03/05/2000 TOR @ VAN W 35 12 5 15 33.3 0 0 - 2 2 100.0 3 7 10 4 0 3 1 3 -2
+p252
+aVMuggsy Bogues TOR 03/05/2000 TOR @ VAN W 23 5 2 4 50.0 0 1 0.0 1 2 50.0 0 3 3 7 0 0 0 2 7
+p253
+aVAntonio Davis TOR 03/05/2000 TOR @ VAN W 27 9 4 9 44.4 0 0 - 1 2 50.0 1 5 6 0 0 0 0 5 0
+p254
+aVAlvin Williams TOR 03/03/2000 TOR vs. BOS W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 0
+p255
+aVCharles Oakley TOR 03/03/2000 TOR vs. BOS W 31 8 3 5 60.0 0 1 0.0 2 2 100.0 0 6 6 4 0 0 3 4 13
+p256
+aVMuggsy Bogues TOR 03/03/2000 TOR vs. BOS W 29 24 6 6 100.0 4 4 100.0 8 8 100.0 0 2 2 5 1 0 0 2 -4
+p257
+aVAntonio Davis TOR 03/03/2000 TOR vs. BOS W 33 7 2 7 28.6 0 0 - 3 4 75.0 2 4 6 5 0 2 1 5 20
+p258
+aVKevin Willis TOR 03/03/2000 TOR vs. BOS W 18 2 1 4 25.0 0 0 - 0 0 - 3 3 6 0 1 0 3 3 -10
+p259
+aVDoug Christie TOR 03/03/2000 TOR vs. BOS W 38 11 2 7 28.6 0 2 0.0 7 7 100.0 0 4 4 5 2 4 6 1 17
+p260
+aVVince Carter TOR 03/03/2000 TOR vs. BOS W 40 30 11 20 55.0 4 7 57.1 4 8 50.0 2 5 7 7 1 0 1 3 10
+p261
+aVJohn Thomas TOR 03/03/2000 TOR vs. BOS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p262
+aVDell Curry TOR 03/03/2000 TOR vs. BOS W 9 6 3 7 42.9 0 3 0.0 0 0 - 0 0 0 1 0 1 0 2 -10
+p263
+aVTracy McGrady TOR 03/03/2000 TOR vs. BOS W 35 24 10 21 47.6 0 0 - 4 4 100.0 3 3 6 1 2 3 1 4 18
+p264
+aVVince Carter TOR 03/01/2000 TOR @ BOS W 41 28 11 23 47.8 3 4 75.0 3 4 75.0 1 4 5 4 0 0 3 3 3
+p265
+aVDell Curry TOR 03/01/2000 TOR @ BOS W 13 4 2 5 40.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 5
+p266
+aVCharles Oakley TOR 03/01/2000 TOR @ BOS W 36 6 2 9 22.2 0 0 - 2 2 100.0 2 2 4 0 2 0 2 5 -3
+p267
+aVTracy McGrady TOR 03/01/2000 TOR @ BOS W 42 18 7 17 41.2 1 1 100.0 3 3 100.0 6 5 11 6 2 2 2 4 -1
+p268
+aVDoug Christie TOR 03/01/2000 TOR @ BOS W 26 21 6 14 42.9 2 5 40.0 7 8 87.5 1 2 3 5 4 2 0 2 6
+p269
+aVJohn Thomas TOR 03/01/2000 TOR @ BOS W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -4
+p270
+aVKevin Willis TOR 03/01/2000 TOR @ BOS W 15 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 0 4 5 2
+p271
+aVHaywoode Workman TOR 03/01/2000 TOR @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 2 0 1
+p272
+aVMuggsy Bogues TOR 03/01/2000 TOR @ BOS W 19 3 1 7 14.3 0 2 0.0 1 2 50.0 1 6 7 3 1 0 0 0 -5
+p273
+aVAntonio Davis TOR 03/01/2000 TOR @ BOS W 36 8 1 4 25.0 0 0 - 6 8 75.0 4 5 9 1 1 0 3 5 6
+p274
+aVDell Curry TOR 02/29/2000 TOR vs. CHI W 8 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 2 0 0 0 0 -3
+p275
+aVAntonio Davis TOR 02/29/2000 TOR vs. CHI W 32 7 2 8 25.0 0 0 - 3 6 50.0 4 8 12 0 0 3 3 4 17
+p276
+aVVince Carter TOR 02/29/2000 TOR vs. CHI W 38 26 10 19 52.6 2 5 40.0 4 4 100.0 0 1 1 3 3 1 3 3 13
+p277
+aVMuggsy Bogues TOR 02/29/2000 TOR vs. CHI W 21 8 4 6 66.7 0 0 - 0 0 - 0 0 0 4 0 0 2 1 -4
+p278
+aVKevin Willis TOR 02/29/2000 TOR vs. CHI W 17 4 2 6 33.3 0 0 - 0 0 - 5 0 5 0 2 2 2 4 -10
+p279
+aVTracy McGrady TOR 02/29/2000 TOR vs. CHI W 38 13 4 15 26.7 0 1 0.0 5 7 71.4 10 5 15 5 2 2 2 2 7
+p280
+aVDee Brown TOR 02/29/2000 TOR vs. CHI W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 0 0
+p281
+aVCharles Oakley TOR 02/29/2000 TOR vs. CHI W 37 14 7 13 53.8 0 0 - 0 0 - 0 6 6 3 3 2 1 4 11
+p282
+aVJohn Thomas TOR 02/29/2000 TOR vs. CHI W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p283
+aVDoug Christie TOR 02/29/2000 TOR vs. CHI W 36 7 3 9 33.3 1 6 16.7 0 0 - 0 8 8 7 2 7 1 0 8
+p284
+aVAntonio Davis TOR 02/27/2000 TOR vs. PHX W 36 9 1 5 20.0 0 0 - 7 8 87.5 1 10 11 1 1 0 1 2 3
+p285
+aVCharles Oakley TOR 02/27/2000 TOR vs. PHX W 28 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 3 1 1 4 3 -1
+p286
+aVKevin Willis TOR 02/27/2000 TOR vs. PHX W 19 9 2 7 28.6 0 0 - 5 6 83.3 3 3 6 1 1 1 0 3 -2
+p287
+aVTracy McGrady TOR 02/27/2000 TOR vs. PHX W 35 15 3 10 30.0 0 0 - 9 12 75.0 2 3 5 4 4 3 3 3 -7
+p288
+aVDee Brown TOR 02/27/2000 TOR vs. PHX W 9 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 1 0 0 0 0 0
+p289
+aVMuggsy Bogues TOR 02/27/2000 TOR vs. PHX W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 1 3 5
+p290
+aVVince Carter TOR 02/27/2000 TOR vs. PHX W 43 51 17 32 53.1 4 8 50.0 13 13 100.0 5 4 9 1 3 0 5 5 5
+p291
+aVDoug Christie TOR 02/27/2000 TOR vs. PHX W 33 5 1 5 20.0 1 3 33.3 2 2 100.0 0 3 3 7 2 0 3 3 0
+p292
+aVJohn Thomas TOR 02/27/2000 TOR vs. PHX W 13 6 2 2 100.0 0 0 - 2 2 100.0 2 1 3 0 0 1 0 4 2
+p293
+aVDell Curry TOR 02/27/2000 TOR vs. PHX W 12 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 0
+p294
+aVMuggsy Bogues TOR 02/25/2000 TOR vs. MIN L 18 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -15
+p295
+aVHaywoode Workman TOR 02/25/2000 TOR vs. MIN L 14 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 4 1 0 0 1 5
+p296
+aVJohn Thomas TOR 02/25/2000 TOR vs. MIN L 14 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 0 0 2 0 2 8
+p297
+aVDoug Christie TOR 02/25/2000 TOR vs. MIN L 22 11 4 5 80.0 1 1 100.0 2 4 50.0 0 2 2 4 0 0 3 3 -6
+p298
+aVAntonio Davis TOR 02/25/2000 TOR vs. MIN L 27 5 2 8 25.0 0 0 - 1 2 50.0 2 6 8 3 1 1 0 2 -20
+p299
+aVCharles Oakley TOR 02/25/2000 TOR vs. MIN L 31 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 2 1 0 3 3 -26
+p300
+aVDee Brown TOR 02/25/2000 TOR vs. MIN L 9 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p301
+aVDell Curry TOR 02/25/2000 TOR vs. MIN L 12 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 0 0 0 0 0 -10
+p302
+aVKevin Willis TOR 02/25/2000 TOR vs. MIN L 12 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 0 0 0 4 5 -7
+p303
+aVAlvin Williams TOR 02/25/2000 TOR vs. MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p304
+aVTracy McGrady TOR 02/25/2000 TOR vs. MIN L 41 20 6 14 42.9 0 2 0.0 8 9 88.9 2 7 9 2 0 2 2 4 -17
+p305
+aVVince Carter TOR 02/25/2000 TOR vs. MIN L 38 23 9 18 50.0 2 3 66.7 3 4 75.0 1 4 5 2 4 0 1 2 -19
+p306
+aVAntonio Davis TOR 02/23/2000 TOR @ NYK W 37 10 2 4 50.0 0 0 - 6 8 75.0 1 2 3 0 2 0 2 3 19
+p307
+aVDoug Christie TOR 02/23/2000 TOR @ NYK W 38 22 7 12 58.3 2 3 66.7 6 6 100.0 1 4 5 3 2 0 2 4 21
+p308
+aVMuggsy Bogues TOR 02/23/2000 TOR @ NYK W 11 3 1 5 20.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 0 0 -8
+p309
+aVTracy McGrady TOR 02/23/2000 TOR @ NYK W 40 16 7 14 50.0 0 0 - 2 4 50.0 2 5 7 2 0 0 2 4 18
+p310
+aVJohn Thomas TOR 02/23/2000 TOR @ NYK W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 4 -8
+p311
+aVVince Carter TOR 02/23/2000 TOR @ NYK W 42 33 12 21 57.1 1 3 33.3 8 9 88.9 1 8 9 9 0 0 0 3 20
+p312
+aVDell Curry TOR 02/23/2000 TOR @ NYK W 7 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 1 -12
+p313
+aVCharles Oakley TOR 02/23/2000 TOR @ NYK W 44 11 4 8 50.0 1 1 100.0 2 2 100.0 2 4 6 6 1 1 1 4 17
+p314
+aVKevin Willis TOR 02/23/2000 TOR @ NYK W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -12
+p315
+aVKevin Willis TOR 02/20/2000 TOR vs. DAL L 22 10 5 10 50.0 0 0 - 0 0 - 4 3 7 2 0 0 0 2 3
+p316
+aVAntonio Davis TOR 02/20/2000 TOR vs. DAL L 40 20 7 14 50.0 0 0 - 6 10 60.0 1 7 8 1 0 4 0 5 -3
+p317
+aVTracy McGrady TOR 02/20/2000 TOR vs. DAL L 25 15 5 14 35.7 0 0 - 5 5 100.0 4 3 7 5 1 1 1 3 1
+p318
+aVVince Carter TOR 02/20/2000 TOR vs. DAL L 37 24 11 21 52.4 1 2 50.0 1 2 50.0 2 3 5 7 1 1 3 6 4
+p319
+aVDell Curry TOR 02/20/2000 TOR vs. DAL L 23 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 1 -9
+p320
+aVCharles Oakley TOR 02/20/2000 TOR vs. DAL L 27 4 2 4 50.0 0 1 0.0 0 0 - 0 6 6 3 0 0 2 4 -13
+p321
+aVMichael Stewart TOR 02/20/2000 TOR vs. DAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 5
+p322
+aVDoug Christie TOR 02/20/2000 TOR vs. DAL L 34 6 3 4 75.0 0 0 - 0 0 - 0 3 3 7 3 1 1 2 -7
+p323
+aVMuggsy Bogues TOR 02/20/2000 TOR vs. DAL L 26 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 2 0 0 1 1 -1
+p324
+aVVince Carter TOR 02/18/2000 TOR vs. DEN L 40 31 14 30 46.7 0 2 0.0 3 4 75.0 2 1 3 1 1 1 1 2 -17
+p325
+aVHaywoode Workman TOR 02/18/2000 TOR vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -7
+p326
+aVAntonio Davis TOR 02/18/2000 TOR vs. DEN L 31 14 6 11 54.5 0 0 - 2 6 33.3 0 5 5 3 1 0 0 4 0
+p327
+aVDell Curry TOR 02/18/2000 TOR vs. DEN L 18 9 3 8 37.5 3 8 37.5 0 0 - 0 0 0 3 1 0 1 0 9
+p328
+aVMichael Stewart TOR 02/18/2000 TOR vs. DEN L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p329
+aVTracy McGrady TOR 02/18/2000 TOR vs. DEN L 20 3 1 9 11.1 0 0 - 1 4 25.0 4 1 5 2 0 2 2 1 -4
+p330
+aVKevin Willis TOR 02/18/2000 TOR vs. DEN L 25 9 3 9 33.3 0 0 - 3 4 75.0 5 3 8 3 1 2 1 5 5
+p331
+aVDoug Christie TOR 02/18/2000 TOR vs. DEN L 31 8 3 8 37.5 1 5 20.0 1 2 50.0 1 2 3 4 1 2 3 3 -2
+p332
+aVCharles Oakley TOR 02/18/2000 TOR vs. DEN L 33 6 2 7 28.6 0 2 0.0 2 2 100.0 2 5 7 3 2 1 1 6 -6
+p333
+aVMuggsy Bogues TOR 02/18/2000 TOR vs. DEN L 26 11 5 9 55.6 1 4 25.0 0 0 - 1 7 8 5 0 0 0 3 7
+p334
+aVCharles Oakley TOR 02/16/2000 TOR @ IND L 37 13 6 8 75.0 1 1 100.0 0 1 0.0 0 4 4 3 0 1 2 5 -16
+p335
+aVKevin Willis TOR 02/16/2000 TOR @ IND L 23 8 4 7 57.1 0 0 - 0 0 - 3 6 9 1 1 0 2 1 0
+p336
+aVTracy McGrady TOR 02/16/2000 TOR @ IND L 29 20 8 13 61.5 1 1 100.0 3 4 75.0 1 2 3 3 3 1 0 2 -6
+p337
+aVHaywoode Workman TOR 02/16/2000 TOR @ IND L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 0 1 6
+p338
+aVMuggsy Bogues TOR 02/16/2000 TOR @ IND L 17 4 2 6 33.3 0 0 - 0 0 - 0 1 1 4 1 0 0 0 -3
+p339
+aVDoug Christie TOR 02/16/2000 TOR @ IND L 31 14 6 11 54.5 2 5 40.0 0 0 - 0 0 0 6 2 0 1 4 0
+p340
+aVVince Carter TOR 02/16/2000 TOR @ IND L 40 21 7 15 46.7 0 1 0.0 7 9 77.8 2 4 6 3 0 1 3 5 -5
+p341
+aVAntonio Davis TOR 02/16/2000 TOR @ IND L 40 17 7 17 41.2 0 0 - 3 4 75.0 7 6 13 2 0 1 1 2 -3
+p342
+aVDell Curry TOR 02/16/2000 TOR @ IND L 15 4 1 9 11.1 1 6 16.7 1 3 33.3 1 1 2 1 0 0 1 2 -13
+p343
+aVKevin Willis TOR 02/15/2000 TOR vs. NYK W 17 3 0 4 0.0 0 0 - 3 4 75.0 0 0 0 0 0 1 1 4 -2
+p344
+aVVince Carter TOR 02/15/2000 TOR vs. NYK W 41 29 11 18 61.1 3 5 60.0 4 4 100.0 0 5 5 2 1 3 1 3 30
+p345
+aVJohn Thomas TOR 02/15/2000 TOR vs. NYK W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 9
+p346
+aVAlvin Williams TOR 02/15/2000 TOR vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p347
+aVHaywoode Workman TOR 02/15/2000 TOR vs. NYK W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 4
+p348
+aVDell Curry TOR 02/15/2000 TOR vs. NYK W 12 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 0 1 0 0 2 1
+p349
+aVTracy McGrady TOR 02/15/2000 TOR vs. NYK W 26 18 7 13 53.8 0 0 - 4 6 66.7 3 3 6 1 3 2 0 2 11
+p350
+aVMuggsy Bogues TOR 02/15/2000 TOR vs. NYK W 26 3 1 6 16.7 0 1 0.0 1 1 100.0 1 2 3 3 0 0 1 1 0
+p351
+aVDoug Christie TOR 02/15/2000 TOR vs. NYK W 31 10 4 9 44.4 2 6 33.3 0 0 - 2 6 8 13 1 1 2 0 19
+p352
+aVMichael Stewart TOR 02/15/2000 TOR vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p353
+aVAntonio Davis TOR 02/15/2000 TOR vs. NYK W 30 2 1 9 11.1 0 0 - 0 0 - 4 10 14 1 0 0 1 3 7
+p354
+aVCharles Oakley TOR 02/15/2000 TOR vs. NYK W 34 15 7 13 53.8 0 1 0.0 1 1 100.0 0 6 6 3 5 1 0 1 24
+p355
+aVVince Carter TOR 02/09/2000 TOR @ DET L 44 34 10 23 43.5 0 4 0.0 14 15 93.3 2 11 13 4 3 1 3 3 4
+p356
+aVCharles Oakley TOR 02/09/2000 TOR @ DET L 30 2 1 8 12.5 0 0 - 0 0 - 2 4 6 4 0 0 2 6 -1
+p357
+aVAntonio Davis TOR 02/09/2000 TOR @ DET L 41 19 5 12 41.7 0 0 - 9 13 69.2 3 7 10 3 1 2 0 3 -5
+p358
+aVDoug Christie TOR 02/09/2000 TOR @ DET L 39 14 3 11 27.3 1 3 33.3 7 8 87.5 1 4 5 1 1 0 4 4 -2
+p359
+aVTracy McGrady TOR 02/09/2000 TOR @ DET L 37 20 7 17 41.2 0 0 - 6 6 100.0 3 6 9 1 1 1 5 6 3
+p360
+aVKevin Willis TOR 02/09/2000 TOR @ DET L 17 3 0 2 0.0 0 0 - 3 3 100.0 1 1 2 0 0 0 0 4 -8
+p361
+aVHaywoode Workman TOR 02/09/2000 TOR @ DET L 11 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 0 1 0 0 4 -2
+p362
+aVMuggsy Bogues TOR 02/09/2000 TOR @ DET L 18 6 3 6 50.0 0 0 - 0 0 - 1 2 3 3 0 0 1 3 -15
+p363
+aVDell Curry TOR 02/09/2000 TOR @ DET L 27 6 2 7 28.6 1 5 20.0 1 1 100.0 0 1 1 1 0 1 2 2 -9
+p364
+aVKevin Willis TOR 02/08/2000 TOR vs. ATL W 20 6 3 9 33.3 0 0 - 0 0 - 2 7 9 0 0 0 1 2 7
+p365
+aVAlvin Williams TOR 02/08/2000 TOR vs. ATL W 27 10 5 9 55.6 0 1 0.0 0 0 - 0 2 2 7 0 1 1 4 14
+p366
+aVVince Carter TOR 02/08/2000 TOR vs. ATL W 40 36 14 27 51.9 4 6 66.7 4 4 100.0 1 3 4 5 4 0 0 2 31
+p367
+aVDoug Christie TOR 02/08/2000 TOR vs. ATL W 31 16 6 12 50.0 0 3 0.0 4 4 100.0 0 3 3 3 2 1 1 1 24
+p368
+aVMuggsy Bogues TOR 02/08/2000 TOR vs. ATL W 24 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 12 0 0 2 2 -9
+p369
+aVJohn Thomas TOR 02/08/2000 TOR vs. ATL W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -8
+p370
+aVDell Curry TOR 02/08/2000 TOR vs. ATL W 18 14 6 9 66.7 2 3 66.7 0 0 - 1 1 2 0 0 0 0 1 11
+p371
+aVAntonio Davis TOR 02/08/2000 TOR vs. ATL W 25 7 3 9 33.3 0 0 - 1 1 100.0 4 5 9 4 1 1 0 4 15
+p372
+aVMichael Stewart TOR 02/08/2000 TOR vs. ATL W 20 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 3 -2
+p373
+aVCharles Oakley TOR 02/08/2000 TOR vs. ATL W 26 4 2 7 28.6 0 0 - 0 0 - 1 3 4 3 0 2 0 2 22
+p374
+aVAntonio Davis TOR 02/05/2000 TOR @ MIL W 33 12 6 11 54.5 0 0 - 0 0 - 5 3 8 0 0 2 2 4 -6
+p375
+aVVince Carter TOR 02/05/2000 TOR @ MIL W 40 30 10 23 43.5 0 2 0.0 10 13 76.9 4 7 11 5 4 2 3 3 4
+p376
+aVDell Curry TOR 02/05/2000 TOR @ MIL W 25 16 6 13 46.2 4 7 57.1 0 0 - 0 3 3 2 1 0 1 2 2
+p377
+aVKevin Willis TOR 02/05/2000 TOR @ MIL W 17 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 3
+p378
+aVMuggsy Bogues TOR 02/05/2000 TOR @ MIL W 19 7 1 2 50.0 1 1 100.0 4 4 100.0 0 3 3 2 2 0 1 1 5
+p379
+aVAlvin Williams TOR 02/05/2000 TOR @ MIL W 12 10 4 6 66.7 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 1 3
+p380
+aVDoug Christie TOR 02/05/2000 TOR @ MIL W 30 6 3 10 30.0 0 3 0.0 0 1 0.0 1 5 6 1 0 0 2 4 -5
+p381
+aVCharles Oakley TOR 02/05/2000 TOR @ MIL W 31 2 1 4 25.0 0 0 - 0 0 - 2 7 9 7 2 0 2 3 0
+p382
+aVJohn Thomas TOR 02/05/2000 TOR @ MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p383
+aVTracy McGrady TOR 02/05/2000 TOR @ MIL W 28 11 4 13 30.8 0 0 - 3 6 50.0 2 1 3 0 2 2 1 3 5
+p384
+aVDoug Christie TOR 02/03/2000 TOR @ SAS L 30 7 2 8 25.0 0 1 0.0 3 4 75.0 1 6 7 5 0 1 3 2 -14
+p385
+aVMuggsy Bogues TOR 02/03/2000 TOR @ SAS L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -4
+p386
+aVCharles Oakley TOR 02/03/2000 TOR @ SAS L 26 4 2 7 28.6 0 1 0.0 0 0 - 3 2 5 5 1 0 3 2 -15
+p387
+aVVince Carter TOR 02/03/2000 TOR @ SAS L 36 19 7 19 36.8 1 2 50.0 4 4 100.0 2 2 4 4 2 0 2 1 -6
+p388
+aVAntonio Lang TOR 02/03/2000 TOR @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p389
+aVDell Curry TOR 02/03/2000 TOR @ SAS L 22 17 6 11 54.5 5 8 62.5 0 0 - 1 2 3 0 0 0 2 2 -16
+p390
+aVAntonio Davis TOR 02/03/2000 TOR @ SAS L 27 15 5 12 41.7 0 0 - 5 6 83.3 4 4 8 0 0 1 1 1 -10
+p391
+aVKevin Willis TOR 02/03/2000 TOR @ SAS L 15 0 0 5 0.0 0 0 - 0 0 - 0 3 3 2 2 1 0 3 -8
+p392
+aVMichael Stewart TOR 02/03/2000 TOR @ SAS L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p393
+aVAlvin Williams TOR 02/03/2000 TOR @ SAS L 7 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 1
+p394
+aVTracy McGrady TOR 02/03/2000 TOR @ SAS L 29 21 7 16 43.8 1 1 100.0 6 9 66.7 5 1 6 3 3 2 2 3 -10
+p395
+aVJohn Thomas TOR 02/03/2000 TOR @ SAS L 14 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 0 0 1 0 6 -7
+p396
+aVAntonio Lang TOR 01/29/2000 TOR @ CHI W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -7
+p397
+aVTracy McGrady TOR 01/29/2000 TOR @ CHI W 31 18 8 12 66.7 1 2 50.0 1 2 50.0 1 2 3 7 1 3 3 0 4
+p398
+aVDell Curry TOR 01/29/2000 TOR @ CHI W 26 17 7 8 87.5 3 4 75.0 0 0 - 0 2 2 6 4 0 1 1 20
+p399
+aVKevin Willis TOR 01/29/2000 TOR @ CHI W 23 21 8 9 88.9 0 0 - 5 6 83.3 2 4 6 0 1 0 2 2 10
+p400
+aVAlvin Williams TOR 01/29/2000 TOR @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p401
+aVAntonio Davis TOR 01/29/2000 TOR @ CHI W 28 12 5 9 55.6 0 0 - 2 2 100.0 2 4 6 2 0 0 2 3 25
+p402
+aVMuggsy Bogues TOR 01/29/2000 TOR @ CHI W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 5 1 0 0 1 7
+p403
+aVDoug Christie TOR 01/29/2000 TOR @ CHI W 31 3 1 7 14.3 0 2 0.0 1 2 50.0 1 5 6 9 2 0 1 0 23
+p404
+aVCharles Oakley TOR 01/29/2000 TOR @ CHI W 30 10 4 7 57.1 0 1 0.0 2 3 66.7 0 2 2 4 4 0 2 3 17
+p405
+aVJohn Thomas TOR 01/29/2000 TOR @ CHI W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -13
+p406
+aVVince Carter TOR 01/29/2000 TOR @ CHI W 37 22 7 13 53.8 2 2 100.0 6 8 75.0 0 4 4 3 0 0 2 3 11
+p407
+aVMichael Stewart TOR 01/29/2000 TOR @ CHI W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -7
+p408
+aVJohn Thomas TOR 01/28/2000 TOR vs. MIA W 15 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 4
+p409
+aVTracy McGrady TOR 01/28/2000 TOR vs. MIA W 32 20 6 9 66.7 0 1 0.0 8 12 66.7 1 4 5 4 0 2 1 1 12
+p410
+aVCharles Oakley TOR 01/28/2000 TOR vs. MIA W 34 10 3 4 75.0 1 1 100.0 3 4 75.0 1 4 5 7 3 3 3 3 16
+p411
+aVVince Carter TOR 01/28/2000 TOR vs. MIA W 39 23 11 24 45.8 1 2 50.0 0 0 - 4 3 7 4 3 2 1 2 9
+p412
+aVMichael Stewart TOR 01/28/2000 TOR vs. MIA W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p413
+aVDell Curry TOR 01/28/2000 TOR vs. MIA W 20 11 5 11 45.5 1 6 16.7 0 0 - 0 2 2 2 1 0 3 1 6
+p414
+aVAntonio Lang TOR 01/28/2000 TOR vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p415
+aVMuggsy Bogues TOR 01/28/2000 TOR vs. MIA W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 0 12
+p416
+aVAntonio Davis TOR 01/28/2000 TOR vs. MIA W 27 17 5 9 55.6 0 0 - 7 7 100.0 6 6 12 1 1 2 2 2 17
+p417
+aVKevin Willis TOR 01/28/2000 TOR vs. MIA W 14 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 1
+p418
+aVDoug Christie TOR 01/28/2000 TOR vs. MIA W 38 15 4 13 30.8 2 5 40.0 5 7 71.4 1 5 6 5 2 1 4 2 8
+p419
+aVJohn Thomas TOR 01/26/2000 TOR vs. WAS W 25 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 0 1 0 4 2
+p420
+aVKevin Willis TOR 01/26/2000 TOR vs. WAS W 21 8 3 8 37.5 0 0 - 2 2 100.0 4 5 9 2 1 0 1 5 4
+p421
+aVMichael Stewart TOR 01/26/2000 TOR vs. WAS W 12 2 1 1 100.0 0 0 - 0 3 0.0 0 3 3 0 1 2 0 5 17
+p422
+aVMuggsy Bogues TOR 01/26/2000 TOR vs. WAS W 19 11 4 5 80.0 0 0 - 3 4 75.0 0 2 2 5 0 0 0 2 8
+p423
+aVTracy McGrady TOR 01/26/2000 TOR vs. WAS W 28 20 7 14 50.0 0 0 - 6 9 66.7 3 1 4 6 1 1 3 2 5
+p424
+aVDell Curry TOR 01/26/2000 TOR vs. WAS W 20 10 3 7 42.9 2 5 40.0 2 2 100.0 0 3 3 4 0 0 0 2 7
+p425
+aVDoug Christie TOR 01/26/2000 TOR vs. WAS W 31 21 8 10 80.0 3 3 100.0 2 2 100.0 0 1 1 5 2 0 2 2 4
+p426
+aVAntonio Lang TOR 01/26/2000 TOR vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 3
+p427
+aVVince Carter TOR 01/26/2000 TOR vs. WAS W 38 26 10 22 45.5 1 4 25.0 5 6 83.3 0 5 5 5 2 3 4 2 15
+p428
+aVAntonio Davis TOR 01/26/2000 TOR vs. WAS W 12 5 1 4 25.0 0 0 - 3 4 75.0 1 2 3 0 0 0 0 1 3
+p429
+aVCharles Oakley TOR 01/26/2000 TOR vs. WAS W 31 9 4 7 57.1 1 1 100.0 0 2 0.0 1 3 4 8 2 0 3 4 7
+p430
+aVJohn Thomas TOR 01/23/2000 TOR vs. SEA W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p431
+aVSean Marks TOR 01/23/2000 TOR vs. SEA W 1 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p432
+aVDoug Christie TOR 01/23/2000 TOR vs. SEA W 33 10 2 10 20.0 0 4 0.0 6 8 75.0 1 4 5 6 0 0 1 1 23
+p433
+aVTracy McGrady TOR 01/23/2000 TOR vs. SEA W 34 17 8 18 44.4 0 1 0.0 1 3 33.3 5 6 11 5 2 3 1 3 5
+p434
+aVMuggsy Bogues TOR 01/23/2000 TOR vs. SEA W 29 0 0 2 0.0 0 0 - 0 0 - 2 2 4 4 1 1 0 1 13
+p435
+aVAntonio Lang TOR 01/23/2000 TOR vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p436
+aVVince Carter TOR 01/23/2000 TOR vs. SEA W 25 13 6 15 40.0 1 2 50.0 0 0 - 0 1 1 1 0 1 3 5 14
+p437
+aVAlvin Williams TOR 01/23/2000 TOR vs. SEA W 22 6 3 5 60.0 0 1 0.0 0 0 - 2 1 3 2 1 0 0 1 -4
+p438
+aVCharles Oakley TOR 01/23/2000 TOR vs. SEA W 32 15 7 9 77.8 1 2 50.0 0 0 - 0 5 5 2 0 0 2 3 9
+p439
+aVKevin Willis TOR 01/23/2000 TOR vs. SEA W 28 12 5 10 50.0 0 0 - 2 2 100.0 3 9 12 0 2 1 2 4 13
+p440
+aVAntonio Davis TOR 01/23/2000 TOR vs. SEA W 26 17 5 11 45.5 0 0 - 7 7 100.0 2 9 11 1 0 3 1 3 8
+p441
+aVCharles Oakley TOR 01/19/2000 TOR @ BOS L 40 10 4 7 57.1 0 1 0.0 2 2 100.0 1 9 10 3 3 1 3 5 -2
+p442
+aVVince Carter TOR 01/19/2000 TOR @ BOS L 39 20 8 28 28.6 1 2 50.0 3 4 75.0 4 3 7 4 1 0 3 4 -1
+p443
+aVDoug Christie TOR 01/19/2000 TOR @ BOS L 32 11 4 10 40.0 3 7 42.9 0 0 - 1 4 5 3 2 1 1 2 4
+p444
+aVKevin Willis TOR 01/19/2000 TOR @ BOS L 18 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 2 0 3 2 -7
+p445
+aVJohn Thomas TOR 01/19/2000 TOR @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p446
+aVTracy McGrady TOR 01/19/2000 TOR @ BOS L 18 14 6 10 60.0 0 1 0.0 2 3 66.7 0 4 4 0 0 0 1 3 -2
+p447
+aVAntonio Davis TOR 01/19/2000 TOR @ BOS L 34 14 5 9 55.6 0 0 - 4 5 80.0 3 5 8 1 1 4 3 5 -5
+p448
+aVMuggsy Bogues TOR 01/19/2000 TOR @ BOS L 29 6 2 5 40.0 0 0 - 2 3 66.7 0 1 1 5 0 0 0 1 -12
+p449
+aVAlvin Williams TOR 01/19/2000 TOR @ BOS L 28 13 5 10 50.0 1 3 33.3 2 2 100.0 0 3 3 5 0 0 1 1 3
+p450
+aVMichael Stewart TOR 01/17/2000 TOR @ CHH L 21 4 1 2 50.0 0 0 - 2 4 50.0 4 4 8 0 0 1 0 4 -21
+p451
+aVKevin Willis TOR 01/17/2000 TOR @ CHH L 31 11 5 15 33.3 0 0 - 1 2 50.0 4 2 6 0 1 1 2 5 2
+p452
+aVDoug Christie TOR 01/17/2000 TOR @ CHH L 30 14 5 13 38.5 1 2 50.0 3 4 75.0 2 2 4 4 1 0 1 5 -14
+p453
+aVVince Carter TOR 01/17/2000 TOR @ CHH L 29 24 11 22 50.0 0 3 0.0 2 2 100.0 2 3 5 6 1 1 3 4 -13
+p454
+aVAlvin Williams TOR 01/17/2000 TOR @ CHH L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -17
+p455
+aVMuggsy Bogues TOR 01/17/2000 TOR @ CHH L 29 6 3 7 42.9 0 0 - 0 0 - 2 1 3 5 1 0 1 1 -4
+p456
+aVAntonio Lang TOR 01/17/2000 TOR @ CHH L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -10
+p457
+aVJohn Thomas TOR 01/17/2000 TOR @ CHH L 18 11 5 6 83.3 0 0 - 1 5 20.0 2 1 3 0 0 0 0 5 -4
+p458
+aVSean Marks TOR 01/17/2000 TOR @ CHH L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p459
+aVAntonio Davis TOR 01/17/2000 TOR @ CHH L 36 13 4 11 36.4 0 0 - 5 5 100.0 1 6 7 1 0 1 2 5 -25
+p460
+aVTracy McGrady TOR 01/17/2000 TOR @ CHH L 22 9 4 7 57.1 0 0 - 1 2 50.0 1 4 5 4 0 0 2 4 5
+p461
+aVMichael Stewart TOR 01/15/2000 TOR @ MIL L 23 7 3 7 42.9 0 0 - 1 2 50.0 6 4 10 0 0 0 0 3 9
+p462
+aVMuggsy Bogues TOR 01/15/2000 TOR @ MIL L 25 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 5 0 0 1 2 -5
+p463
+aVAntonio Davis TOR 01/15/2000 TOR @ MIL L 12 6 1 3 33.3 0 0 - 4 6 66.7 0 0 0 0 0 0 1 3 -2
+p464
+aVDoug Christie TOR 01/15/2000 TOR @ MIL L 38 31 8 18 44.4 4 6 66.7 11 12 91.7 1 4 5 3 1 0 0 2 -27
+p465
+aVAntonio Lang TOR 01/15/2000 TOR @ MIL L 14 2 0 0 - 0 0 - 2 2 100.0 0 3 3 1 3 0 2 2 3
+p466
+aVSean Marks TOR 01/15/2000 TOR @ MIL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 0
+p467
+aVVince Carter TOR 01/15/2000 TOR @ MIL L 36 24 11 25 44.0 1 2 50.0 1 2 50.0 5 3 8 5 2 0 1 3 -21
+p468
+aVTracy McGrady TOR 01/15/2000 TOR @ MIL L 1 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 2
+p469
+aVJohn Thomas TOR 01/15/2000 TOR @ MIL L 12 5 2 6 33.3 0 0 - 1 1 100.0 2 0 2 0 0 0 0 2 -1
+p470
+aVCharles Oakley TOR 01/15/2000 TOR @ MIL L 11 2 0 2 0.0 0 1 0.0 2 2 100.0 3 4 7 0 1 0 0 2 -23
+p471
+aVKevin Willis TOR 01/15/2000 TOR @ MIL L 29 9 4 14 28.6 0 0 - 1 4 25.0 8 4 12 2 0 0 3 5 -20
+p472
+aVAlvin Williams TOR 01/15/2000 TOR @ MIL L 34 4 1 14 7.1 1 4 25.0 1 2 50.0 1 1 2 4 4 0 1 3 -20
+p473
+aVAntonio Davis TOR 01/14/2000 TOR vs. MIL W 38 10 3 5 60.0 0 0 - 4 4 100.0 1 6 7 1 0 1 1 2 5
+p474
+aVVince Carter TOR 01/14/2000 TOR vs. MIL W 43 47 20 32 62.5 3 3 100.0 4 4 100.0 3 2 5 4 2 2 3 5 3
+p475
+aVMichael Stewart TOR 01/14/2000 TOR vs. MIL W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 -5
+p476
+aVMuggsy Bogues TOR 01/14/2000 TOR vs. MIL W 22 12 3 5 60.0 0 1 0.0 6 6 100.0 0 2 2 5 1 0 0 2 6
+p477
+aVCharles Oakley TOR 01/14/2000 TOR vs. MIL W 36 9 3 10 30.0 1 1 100.0 2 2 100.0 5 7 12 7 1 0 1 3 9
+p478
+aVAlvin Williams TOR 01/14/2000 TOR vs. MIL W 17 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 -9
+p479
+aVDoug Christie TOR 01/14/2000 TOR vs. MIL W 32 20 6 16 37.5 3 7 42.9 5 5 100.0 0 1 1 8 4 3 2 4 8
+p480
+aVKevin Willis TOR 01/14/2000 TOR vs. MIL W 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 0
+p481
+aVTracy McGrady TOR 01/14/2000 TOR vs. MIL W 31 15 4 8 50.0 1 2 50.0 6 9 66.7 2 3 5 4 1 2 1 1 8
+p482
+aVVince Carter TOR 01/12/2000 TOR vs. ORL W 41 30 11 23 47.8 0 1 0.0 8 9 88.9 3 3 6 9 4 0 2 4 10
+p483
+aVAlvin Williams TOR 01/12/2000 TOR vs. ORL W 19 7 3 6 50.0 1 1 100.0 0 0 - 1 0 1 3 3 0 3 2 3
+p484
+aVTracy McGrady TOR 01/12/2000 TOR vs. ORL W 25 16 6 8 75.0 0 0 - 4 5 80.0 1 4 5 4 1 3 2 2 0
+p485
+aVCharles Oakley TOR 01/12/2000 TOR vs. ORL W 30 6 3 10 30.0 0 0 - 0 0 - 1 3 4 4 1 1 3 5 -2
+p486
+aVAntonio Davis TOR 01/12/2000 TOR vs. ORL W 37 10 4 11 36.4 0 0 - 2 5 40.0 2 7 9 0 1 1 2 5 -5
+p487
+aVMichael Stewart TOR 01/12/2000 TOR vs. ORL W 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 11
+p488
+aVDoug Christie TOR 01/12/2000 TOR vs. ORL W 32 11 4 10 40.0 1 3 33.3 2 2 100.0 3 2 5 6 4 0 4 5 2
+p489
+aVMuggsy Bogues TOR 01/12/2000 TOR vs. ORL W 27 22 6 10 60.0 0 1 0.0 10 11 90.9 0 0 0 1 2 1 1 1 7
+p490
+aVKevin Willis TOR 01/12/2000 TOR vs. ORL W 18 6 3 7 42.9 0 0 - 0 0 - 4 0 4 1 0 0 3 4 4
+p491
+aVTracy McGrady TOR 01/11/2000 TOR @ WAS L 32 16 5 13 38.5 1 2 50.0 5 8 62.5 1 3 4 1 1 0 3 2 -28
+p492
+aVDoug Christie TOR 01/11/2000 TOR @ WAS L 30 12 4 13 30.8 0 5 0.0 4 5 80.0 2 1 3 2 0 0 3 1 -12
+p493
+aVKevin Willis TOR 01/11/2000 TOR @ WAS L 18 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 1 5 -20
+p494
+aVJohn Thomas TOR 01/11/2000 TOR @ WAS L 11 8 3 5 60.0 0 0 - 2 4 50.0 1 0 1 0 1 1 0 0 1
+p495
+aVAlvin Williams TOR 01/11/2000 TOR @ WAS L 24 10 4 12 33.3 0 1 0.0 2 2 100.0 1 3 4 4 0 1 0 3 -10
+p496
+aVMuggsy Bogues TOR 01/11/2000 TOR @ WAS L 26 4 2 5 40.0 0 0 - 0 0 - 0 1 1 6 1 0 1 1 -18
+p497
+aVAntonio Davis TOR 01/11/2000 TOR @ WAS L 27 14 5 11 45.5 0 0 - 4 4 100.0 8 7 15 0 1 0 1 3 -12
+p498
+aVMichael Stewart TOR 01/11/2000 TOR @ WAS L 12 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 1 6 -14
+p499
+aVCharles Oakley TOR 01/11/2000 TOR @ WAS L 26 0 0 5 0.0 0 0 - 0 0 - 0 2 2 1 3 0 0 3 -15
+p500
+aVSean Marks TOR 01/11/2000 TOR @ WAS L 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 1 3 0
+p501
+aVVince Carter TOR 01/11/2000 TOR @ WAS L 31 19 6 14 42.9 0 0 - 7 9 77.8 0 1 1 4 1 1 1 3 -12
+p502
+aVTracy McGrady TOR 01/09/2000 TOR vs. VAN L 27 19 8 15 53.3 0 0 - 3 4 75.0 6 1 7 1 3 2 4 4 -16
+p503
+aVKevin Willis TOR 01/09/2000 TOR vs. VAN L 8 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -10
+p504
+aVVince Carter TOR 01/09/2000 TOR vs. VAN L 43 20 8 17 47.1 0 1 0.0 4 6 66.7 4 6 10 6 3 2 5 5 -5
+p505
+aVAntonio Davis TOR 01/09/2000 TOR vs. VAN L 35 20 6 10 60.0 0 0 - 8 10 80.0 0 6 6 0 0 3 1 4 0
+p506
+aVJohn Thomas TOR 01/09/2000 TOR vs. VAN L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -4
+p507
+aVCharles Oakley TOR 01/09/2000 TOR vs. VAN L 38 18 9 15 60.0 0 0 - 0 0 - 1 6 7 6 1 3 2 6 -3
+p508
+aVDoug Christie TOR 01/09/2000 TOR vs. VAN L 38 11 5 12 41.7 1 5 20.0 0 0 - 2 1 3 4 0 0 2 4 -6
+p509
+aVAlvin Williams TOR 01/09/2000 TOR vs. VAN L 27 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 4 1 0 1 5 7
+p510
+aVMuggsy Bogues TOR 01/09/2000 TOR vs. VAN L 22 2 1 2 50.0 0 0 - 0 0 - 0 1 1 4 0 0 0 4 -13
+p511
+aVAlvin Williams TOR 01/07/2000 TOR @ ATL L 21 9 4 8 50.0 1 2 50.0 0 0 - 2 1 3 2 0 0 2 2 -7
+p512
+aVTracy McGrady TOR 01/07/2000 TOR @ ATL L 29 13 5 10 50.0 0 1 0.0 3 7 42.9 0 5 5 1 2 3 2 2 -2
+p513
+aVMichael Stewart TOR 01/07/2000 TOR @ ATL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p514
+aVVince Carter TOR 01/07/2000 TOR @ ATL L 48 34 11 22 50.0 1 2 50.0 11 12 91.7 3 4 7 3 0 0 2 4 -8
+p515
+aVDoug Christie TOR 01/07/2000 TOR @ ATL L 44 13 3 11 27.3 1 5 20.0 6 6 100.0 3 3 6 5 0 0 1 4 -10
+p516
+aVMuggsy Bogues TOR 01/07/2000 TOR @ ATL L 24 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 3 1 0 0 2 2
+p517
+aVCharles Oakley TOR 01/07/2000 TOR @ ATL L 43 14 6 12 50.0 0 1 0.0 2 2 100.0 0 7 7 1 2 0 1 6 -8
+p518
+aVKevin Willis TOR 01/07/2000 TOR @ ATL L 27 5 1 11 9.1 0 0 - 3 4 75.0 4 3 7 0 0 0 1 1 -9
+p519
+aVAntonio Davis TOR 01/06/2000 TOR vs. SAC W 26 10 3 7 42.9 0 0 - 4 4 100.0 6 6 12 1 0 1 3 5 3
+p520
+aVMichael Stewart TOR 01/06/2000 TOR vs. SAC W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 4
+p521
+aVVince Carter TOR 01/06/2000 TOR vs. SAC W 38 14 7 23 30.4 0 1 0.0 0 0 - 1 3 4 6 2 2 0 1 14
+p522
+aVAlvin Williams TOR 01/06/2000 TOR vs. SAC W 18 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 10 1 3 2 0 4
+p523
+aVTracy McGrady TOR 01/06/2000 TOR vs. SAC W 27 15 7 16 43.8 0 0 - 1 3 33.3 3 1 4 3 3 2 1 1 11
+p524
+aVDoug Christie TOR 01/06/2000 TOR vs. SAC W 32 16 6 17 35.3 4 9 44.4 0 0 - 0 3 3 4 1 3 1 0 -1
+p525
+aVMuggsy Bogues TOR 01/06/2000 TOR vs. SAC W 28 12 6 8 75.0 0 0 - 0 0 - 0 0 0 5 1 0 1 2 8
+p526
+aVCharles Oakley TOR 01/06/2000 TOR vs. SAC W 34 20 10 18 55.6 0 0 - 0 0 - 2 14 16 5 0 2 1 4 1
+p527
+aVKevin Willis TOR 01/06/2000 TOR vs. SAC W 30 7 3 10 30.0 0 0 - 1 2 50.0 6 4 10 0 1 1 2 4 16
+p528
+aVMuggsy Bogues TOR 01/04/2000 TOR vs. POR L 21 7 3 5 60.0 0 0 - 1 1 100.0 0 0 0 3 0 0 0 5 -2
+p529
+aVKevin Willis TOR 01/04/2000 TOR vs. POR L 26 17 6 13 46.2 0 1 0.0 5 6 83.3 2 6 8 0 1 0 1 3 -5
+p530
+aVMichael Stewart TOR 01/04/2000 TOR vs. POR L 8 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 1 0 -7
+p531
+aVCharles Oakley TOR 01/04/2000 TOR vs. POR L 27 2 1 6 16.7 0 0 - 0 0 - 1 5 6 1 2 0 1 5 -5
+p532
+aVVince Carter TOR 01/04/2000 TOR vs. POR L 35 13 5 15 33.3 1 4 25.0 2 3 66.7 1 2 3 2 0 1 3 1 -23
+p533
+aVDoug Christie TOR 01/04/2000 TOR vs. POR L 33 17 5 12 41.7 2 4 50.0 5 8 62.5 0 4 4 4 1 0 2 3 -16
+p534
+aVAlvin Williams TOR 01/04/2000 TOR vs. POR L 15 4 2 9 22.2 0 3 0.0 0 0 - 0 0 0 3 0 0 1 3 -24
+p535
+aVAntonio Davis TOR 01/04/2000 TOR vs. POR L 34 8 3 11 27.3 0 0 - 2 2 100.0 4 3 7 2 0 5 0 2 -28
+p536
+aVSean Marks TOR 01/04/2000 TOR vs. POR L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -2
+p537
+aVTracy McGrady TOR 01/04/2000 TOR vs. POR L 34 18 9 13 69.2 0 1 0.0 0 0 - 1 3 4 4 0 3 2 0 -5
+p538
+aVJohn Thomas TOR 01/04/2000 TOR vs. POR L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p539
+aVAntonio Davis TOR 12/30/1999 TOR @ DAL W 34 19 7 16 43.8 0 0 - 5 6 83.3 3 12 15 0 0 3 1 4 14
+p540
+aVCharles Oakley TOR 12/30/1999 TOR @ DAL W 40 14 7 12 58.3 0 0 - 0 1 0.0 3 8 11 3 1 0 1 5 8
+p541
+aVKevin Willis TOR 12/30/1999 TOR @ DAL W 14 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 0 1 0 2 -9
+p542
+aVMuggsy Bogues TOR 12/30/1999 TOR @ DAL W 20 10 2 4 50.0 0 0 - 6 6 100.0 0 0 0 3 0 0 1 1 -7
+p543
+aVVince Carter TOR 12/30/1999 TOR @ DAL W 41 22 10 20 50.0 0 0 - 2 2 100.0 4 4 8 8 1 2 4 4 13
+p544
+aVAlvin Williams TOR 12/30/1999 TOR @ DAL W 18 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 5 2 0 2 1 -2
+p545
+aVTracy McGrady TOR 12/30/1999 TOR @ DAL W 34 24 10 16 62.5 0 0 - 4 4 100.0 4 7 11 4 1 2 4 1 1
+p546
+aVDoug Christie TOR 12/30/1999 TOR @ DAL W 36 14 5 12 41.7 3 6 50.0 1 2 50.0 1 2 3 4 2 0 3 2 11
+p547
+aVMichael Stewart TOR 12/30/1999 TOR @ DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p548
+aVAlvin Williams TOR 12/28/1999 TOR @ HOU W 32 17 6 13 46.2 2 3 66.7 3 4 75.0 2 3 5 5 3 0 0 3 7
+p549
+aVMuggsy Bogues TOR 12/28/1999 TOR @ HOU W 27 4 2 4 50.0 0 0 - 0 0 - 0 0 0 5 1 0 1 0 -19
+p550
+aVAntonio Davis TOR 12/28/1999 TOR @ HOU W 35 12 4 10 40.0 0 0 - 4 4 100.0 1 6 7 1 0 1 2 3 8
+p551
+aVKevin Willis TOR 12/28/1999 TOR @ HOU W 14 6 3 6 50.0 0 0 - 0 0 - 4 2 6 0 0 0 0 5 -4
+p552
+aVCharles Oakley TOR 12/28/1999 TOR @ HOU W 29 10 5 7 71.4 0 0 - 0 0 - 0 6 6 2 0 0 2 5 14
+p553
+aVDoug Christie TOR 12/28/1999 TOR @ HOU W 31 6 2 10 20.0 0 4 0.0 2 2 100.0 0 3 3 3 1 0 3 3 4
+p554
+aVVince Carter TOR 12/28/1999 TOR @ HOU W 43 35 11 25 44.0 0 1 0.0 13 17 76.5 5 7 12 4 1 0 2 3 8
+p555
+aVMichael Stewart TOR 12/28/1999 TOR @ HOU W 4 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 0 -4
+p556
+aVTracy McGrady TOR 12/28/1999 TOR @ HOU W 27 10 5 15 33.3 0 1 0.0 0 0 - 2 2 4 2 0 1 2 1 -9
+p557
+aVDoug Christie TOR 12/26/1999 TOR @ CLE W 31 20 5 11 45.5 2 4 50.0 8 8 100.0 0 2 2 6 2 0 5 4 13
+p558
+aVCharles Oakley TOR 12/26/1999 TOR @ CLE W 28 4 2 8 25.0 0 0 - 0 0 - 2 8 10 3 1 0 3 2 16
+p559
+aVMichael Stewart TOR 12/26/1999 TOR @ CLE W 16 0 0 0 - 0 0 - 0 0 - 1 4 5 0 1 2 1 3 -8
+p560
+aVTracy McGrady TOR 12/26/1999 TOR @ CLE W 34 8 4 11 36.4 0 1 0.0 0 0 - 2 3 5 2 3 0 4 1 -2
+p561
+aVMuggsy Bogues TOR 12/26/1999 TOR @ CLE W 17 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p562
+aVKevin Willis TOR 12/26/1999 TOR @ CLE W 20 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 5 -7
+p563
+aVVince Carter TOR 12/26/1999 TOR @ CLE W 43 36 12 22 54.5 1 5 20.0 11 11 100.0 0 4 4 8 2 2 3 5 3
+p564
+aVAntonio Davis TOR 12/26/1999 TOR @ CLE W 31 15 5 7 71.4 0 0 - 5 6 83.3 4 6 10 1 0 0 2 4 9
+p565
+aVAlvin Williams TOR 12/26/1999 TOR @ CLE W 20 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 6 0 2 3 4 -4
+p566
+aVAlvin Williams TOR 12/22/1999 TOR @ NYK L 20 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 3 1 0 1 3 -6
+p567
+aVMuggsy Bogues TOR 12/22/1999 TOR @ NYK L 28 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 4 2 0 0 1 5
+p568
+aVJohn Thomas TOR 12/22/1999 TOR @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p569
+aVDoug Christie TOR 12/22/1999 TOR @ NYK L 32 11 5 14 35.7 1 6 16.7 0 0 - 0 3 3 4 2 0 1 2 10
+p570
+aVDell Curry TOR 12/22/1999 TOR @ NYK L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p571
+aVAntonio Davis TOR 12/22/1999 TOR @ NYK L 37 12 5 15 33.3 0 0 - 2 7 28.6 7 10 17 0 0 0 3 2 2
+p572
+aVTracy McGrady TOR 12/22/1999 TOR @ NYK L 24 10 3 8 37.5 0 0 - 4 6 66.7 1 4 5 3 1 1 2 3 -15
+p573
+aVKevin Willis TOR 12/22/1999 TOR @ NYK L 20 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -15
+p574
+aVVince Carter TOR 12/22/1999 TOR @ NYK L 40 36 13 25 52.0 0 2 0.0 10 13 76.9 0 7 7 1 2 1 2 5 4
+p575
+aVCharles Oakley TOR 12/22/1999 TOR @ NYK L 34 6 2 8 25.0 0 0 - 2 2 100.0 4 8 12 2 1 0 3 5 11
+p576
+aVKevin Willis TOR 12/21/1999 TOR vs. NJN W 25 14 6 9 66.7 0 0 - 2 3 66.7 3 7 10 0 0 2 2 2 15
+p577
+aVTracy McGrady TOR 12/21/1999 TOR vs. NJN W 25 15 6 8 75.0 0 0 - 3 6 50.0 2 3 5 3 0 4 3 1 8
+p578
+aVJohn Thomas TOR 12/21/1999 TOR vs. NJN W 7 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 -2
+p579
+aVDoug Christie TOR 12/21/1999 TOR vs. NJN W 23 20 8 18 44.4 4 9 44.4 0 0 - 2 1 3 3 3 0 0 2 21
+p580
+aVAntonio Davis TOR 12/21/1999 TOR vs. NJN W 27 15 6 8 75.0 0 0 - 3 3 100.0 1 4 5 4 0 3 1 2 20
+p581
+aVMuggsy Bogues TOR 12/21/1999 TOR vs. NJN W 24 4 2 7 28.6 0 0 - 0 0 - 0 3 3 2 0 1 1 3 4
+p582
+aVMichael Stewart TOR 12/21/1999 TOR vs. NJN W 12 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 0 0 1 0 2 -2
+p583
+aVVince Carter TOR 12/21/1999 TOR vs. NJN W 36 24 9 20 45.0 2 2 100.0 4 5 80.0 3 3 6 2 2 2 1 2 27
+p584
+aVAlvin Williams TOR 12/21/1999 TOR vs. NJN W 28 6 1 6 16.7 0 0 - 4 4 100.0 1 2 3 12 3 0 0 2 21
+p585
+aVCharles Oakley TOR 12/21/1999 TOR vs. NJN W 22 8 3 3 100.0 0 0 - 2 2 100.0 4 5 9 3 2 0 0 3 24
+p586
+aVDell Curry TOR 12/21/1999 TOR vs. NJN W 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 9
+p587
+aVCharles Oakley TOR 12/19/1999 TOR vs. LAL L 25 1 0 2 0.0 0 0 - 1 2 50.0 2 12 14 1 0 0 2 3 -11
+p588
+aVDee Brown TOR 12/19/1999 TOR vs. LAL L 29 5 2 6 33.3 1 5 20.0 0 0 - 0 2 2 5 0 0 2 5 -2
+p589
+aVMuggsy Bogues TOR 12/19/1999 TOR vs. LAL L 28 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 4 2 0 1 1 -3
+p590
+aVDell Curry TOR 12/19/1999 TOR vs. LAL L 24 8 3 7 42.9 2 4 50.0 0 0 - 1 1 2 2 1 0 0 2 1
+p591
+aVVince Carter TOR 12/19/1999 TOR vs. LAL L 39 29 11 28 39.3 0 1 0.0 7 10 70.0 0 2 2 4 4 1 3 5 -10
+p592
+aVAntonio Davis TOR 12/19/1999 TOR vs. LAL L 33 19 9 17 52.9 0 0 - 1 2 50.0 7 9 16 1 0 1 2 5 0
+p593
+aVJohn Thomas TOR 12/19/1999 TOR vs. LAL L 20 0 0 1 0.0 0 0 - 0 2 0.0 3 1 4 0 0 1 1 4 -7
+p594
+aVTracy McGrady TOR 12/19/1999 TOR vs. LAL L 25 8 2 10 20.0 0 0 - 4 5 80.0 1 2 3 1 2 3 2 1 -3
+p595
+aVKevin Willis TOR 12/19/1999 TOR vs. LAL L 17 10 4 9 44.4 0 0 - 2 2 100.0 2 4 6 1 0 1 0 4 5
+p596
+aVMichael Stewart TOR 12/17/1999 TOR @ ORL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 5
+p597
+aVVince Carter TOR 12/17/1999 TOR @ ORL L 36 23 8 22 36.4 1 1 100.0 6 9 66.7 3 4 7 1 1 0 3 4 -15
+p598
+aVKevin Willis TOR 12/17/1999 TOR @ ORL L 16 12 3 6 50.0 0 0 - 6 7 85.7 1 3 4 1 0 0 1 4 -8
+p599
+aVAntonio Davis TOR 12/17/1999 TOR @ ORL L 35 18 6 12 50.0 0 0 - 6 6 100.0 3 10 13 2 0 0 2 5 -21
+p600
+aVAlvin Williams TOR 12/17/1999 TOR @ ORL L 13 0 0 4 0.0 0 0 - 0 2 0.0 0 3 3 2 1 0 1 1 -4
+p601
+aVDee Brown TOR 12/17/1999 TOR @ ORL L 25 5 2 6 33.3 1 4 25.0 0 0 - 1 0 1 2 0 0 0 1 -11
+p602
+aVMuggsy Bogues TOR 12/17/1999 TOR @ ORL L 24 9 4 8 50.0 0 1 0.0 1 1 100.0 0 1 1 5 1 0 1 0 -1
+p603
+aVDell Curry TOR 12/17/1999 TOR @ ORL L 20 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 1 3 0 1 0 -8
+p604
+aVJohn Thomas TOR 12/17/1999 TOR @ ORL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 2
+p605
+aVCharles Oakley TOR 12/17/1999 TOR @ ORL L 23 4 2 5 40.0 0 0 - 0 0 - 2 4 6 3 1 0 3 5 -12
+p606
+aVTracy McGrady TOR 12/17/1999 TOR @ ORL L 37 20 8 21 38.1 0 4 0.0 4 5 80.0 5 3 8 6 0 2 3 3 3
+p607
+aVCharles Oakley TOR 12/15/1999 TOR @ PHI L 32 6 2 7 28.6 0 0 - 2 2 100.0 3 9 12 0 1 0 1 5 -15
+p608
+aVAlvin Williams TOR 12/15/1999 TOR @ PHI L 22 8 3 6 50.0 1 2 50.0 1 3 33.3 0 1 1 3 0 0 2 0 -5
+p609
+aVDell Curry TOR 12/15/1999 TOR @ PHI L 5 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p610
+aVKevin Willis TOR 12/15/1999 TOR @ PHI L 24 17 6 12 50.0 0 0 - 5 6 83.3 3 4 7 0 0 1 1 2 13
+p611
+aVVince Carter TOR 12/15/1999 TOR @ PHI L 35 19 9 19 47.4 0 0 - 1 2 50.0 0 2 2 4 2 1 2 3 -11
+p612
+aVTracy McGrady TOR 12/15/1999 TOR @ PHI L 34 18 7 12 58.3 0 1 0.0 4 6 66.7 3 6 9 6 0 1 6 3 -2
+p613
+aVAntonio Davis TOR 12/15/1999 TOR @ PHI L 40 11 4 11 36.4 0 0 - 3 4 75.0 9 9 18 1 2 1 2 1 -3
+p614
+aVMuggsy Bogues TOR 12/15/1999 TOR @ PHI L 23 0 0 2 0.0 0 0 - 0 0 - 0 4 4 3 1 0 3 1 4
+p615
+aVDee Brown TOR 12/15/1999 TOR @ PHI L 25 12 3 12 25.0 3 8 37.5 3 4 75.0 1 2 3 6 0 0 1 6 8
+p616
+aVDell Curry TOR 12/14/1999 TOR vs. IND W 15 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 3 0 0 1 1 0
+p617
+aVTracy McGrady TOR 12/14/1999 TOR vs. IND W 31 21 9 12 75.0 0 1 0.0 3 4 75.0 1 6 7 6 0 2 3 5 7
+p618
+aVAlvin Williams TOR 12/14/1999 TOR vs. IND W 16 4 2 5 40.0 0 0 - 0 0 - 2 0 2 6 0 0 0 3 8
+p619
+aVVince Carter TOR 12/14/1999 TOR vs. IND W 39 24 10 23 43.5 0 1 0.0 4 4 100.0 1 1 2 3 0 1 1 4 5
+p620
+aVKevin Willis TOR 12/14/1999 TOR vs. IND W 26 9 3 10 30.0 0 0 - 3 4 75.0 5 4 9 2 0 1 2 0 -6
+p621
+aVMuggsy Bogues TOR 12/14/1999 TOR vs. IND W 14 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 1 0 1 2 5
+p622
+aVDee Brown TOR 12/14/1999 TOR vs. IND W 26 8 3 8 37.5 2 7 28.6 0 0 - 0 2 2 3 0 1 0 4 -1
+p623
+aVAntonio Davis TOR 12/14/1999 TOR vs. IND W 38 16 5 16 31.3 0 0 - 6 8 75.0 6 8 14 0 1 2 3 1 4
+p624
+aVCharles Oakley TOR 12/14/1999 TOR vs. IND W 34 15 6 12 50.0 1 1 100.0 2 2 100.0 4 7 11 6 3 0 2 2 18
+p625
+aVCharles Oakley TOR 12/12/1999 TOR vs. UTA L 30 4 2 4 50.0 0 0 - 0 0 - 1 6 7 3 1 0 0 5 -14
+p626
+aVKevin Willis TOR 12/12/1999 TOR vs. UTA L 25 16 3 9 33.3 0 0 - 10 12 83.3 5 5 10 0 0 0 1 3 -10
+p627
+aVTracy McGrady TOR 12/12/1999 TOR vs. UTA L 26 11 3 12 25.0 1 1 100.0 4 7 57.1 4 1 5 2 0 1 1 0 -1
+p628
+aVDee Brown TOR 12/12/1999 TOR vs. UTA L 25 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 3 0 0 1 1 -16
+p629
+aVJohn Thomas TOR 12/12/1999 TOR vs. UTA L 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p630
+aVVince Carter TOR 12/12/1999 TOR vs. UTA L 37 16 7 16 43.8 0 2 0.0 2 7 28.6 1 5 6 3 1 0 2 4 -6
+p631
+aVAlvin Williams TOR 12/12/1999 TOR vs. UTA L 13 14 5 6 83.3 1 1 100.0 3 4 75.0 1 0 1 2 0 0 0 1 -1
+p632
+aVMuggsy Bogues TOR 12/12/1999 TOR vs. UTA L 17 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 0 -4
+p633
+aVMichael Stewart TOR 12/12/1999 TOR vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 3 5
+p634
+aVDoug Christie TOR 12/12/1999 TOR vs. UTA L 20 8 2 5 40.0 1 1 100.0 3 4 75.0 1 0 1 1 0 1 4 3 -15
+p635
+aVAntonio Davis TOR 12/12/1999 TOR vs. UTA L 24 7 1 6 16.7 0 0 - 5 6 83.3 5 5 10 2 0 0 5 5 -15
+p636
+aVDell Curry TOR 12/12/1999 TOR vs. UTA L 11 1 0 6 0.0 0 3 0.0 1 2 50.0 0 0 0 0 0 0 0 0 3
+p637
+aVJohn Thomas TOR 12/10/1999 TOR vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p638
+aVMuggsy Bogues TOR 12/10/1999 TOR vs. MIL L 26 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 3 1 0 2 1 3
+p639
+aVDoug Christie TOR 12/10/1999 TOR vs. MIL L 37 14 6 17 35.3 1 8 12.5 1 2 50.0 1 1 2 6 1 0 2 1 -17
+p640
+aVAlvin Williams TOR 12/10/1999 TOR vs. MIL L 14 7 3 5 60.0 1 1 100.0 0 2 0.0 1 3 4 0 0 1 1 2 4
+p641
+aVAntonio Davis TOR 12/10/1999 TOR vs. MIL L 32 10 4 8 50.0 0 0 - 2 3 66.7 3 5 8 0 1 3 4 5 -26
+p642
+aVDell Curry TOR 12/10/1999 TOR vs. MIL L 20 11 4 12 33.3 2 7 28.6 1 2 50.0 1 1 2 1 0 0 0 0 -3
+p643
+aVKevin Willis TOR 12/10/1999 TOR vs. MIL L 24 6 2 6 33.3 0 0 - 2 2 100.0 3 7 10 0 1 0 4 3 1
+p644
+aVDee Brown TOR 12/10/1999 TOR vs. MIL L 26 12 4 10 40.0 4 9 44.4 0 0 - 0 0 0 4 3 1 1 3 -14
+p645
+aVCharles Oakley TOR 12/10/1999 TOR vs. MIL L 22 1 0 3 0.0 0 0 - 1 1 100.0 3 4 7 2 2 1 2 1 -9
+p646
+aVVince Carter TOR 12/10/1999 TOR vs. MIL L 38 25 9 22 40.9 0 0 - 7 7 100.0 6 3 9 4 1 2 3 4 -19
+p647
+aVTracy McGrady TOR 12/07/1999 TOR vs. CLE W 23 10 4 11 36.4 0 2 0.0 2 5 40.0 0 4 4 2 1 3 2 4 -3
+p648
+aVJohn Thomas TOR 12/07/1999 TOR vs. CLE W 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 5 4
+p649
+aVDoug Christie TOR 12/07/1999 TOR vs. CLE W 25 4 1 8 12.5 0 4 0.0 2 2 100.0 0 2 2 5 3 0 2 1 -5
+p650
+aVKevin Willis TOR 12/07/1999 TOR vs. CLE W 18 6 3 4 75.0 0 0 - 0 0 - 3 2 5 2 0 2 0 5 4
+p651
+aVMuggsy Bogues TOR 12/07/1999 TOR vs. CLE W 19 9 3 6 50.0 0 0 - 3 3 100.0 0 1 1 8 0 0 1 4 12
+p652
+aVVince Carter TOR 12/07/1999 TOR vs. CLE W 46 32 13 26 50.0 2 3 66.7 4 4 100.0 2 5 7 4 1 0 5 4 10
+p653
+aVAntonio Davis TOR 12/07/1999 TOR vs. CLE W 20 8 3 5 60.0 0 0 - 2 2 100.0 1 7 8 1 0 0 2 0 -3
+p654
+aVDee Brown TOR 12/07/1999 TOR vs. CLE W 24 17 6 12 50.0 5 10 50.0 0 0 - 4 3 7 1 2 0 6 1 0
+p655
+aVDell Curry TOR 12/07/1999 TOR vs. CLE W 21 11 4 8 50.0 2 3 66.7 1 2 50.0 1 1 2 1 0 0 1 2 -2
+p656
+aVCharles Oakley TOR 12/07/1999 TOR vs. CLE W 35 4 1 9 11.1 0 0 - 2 2 100.0 3 6 9 6 3 2 3 5 -2
+p657
+aVAntonio Davis TOR 12/05/1999 TOR vs. SAS W 33 10 3 7 42.9 0 0 - 4 6 66.7 1 6 7 2 0 3 1 4 11
+p658
+aVVince Carter TOR 12/05/1999 TOR vs. SAS W 36 39 15 25 60.0 1 1 100.0 8 8 100.0 1 6 7 2 0 1 1 1 12
+p659
+aVKevin Willis TOR 12/05/1999 TOR vs. SAS W 21 2 1 2 50.0 0 0 - 0 0 - 3 4 7 1 0 2 1 3 -9
+p660
+aVMuggsy Bogues TOR 12/05/1999 TOR vs. SAS W 18 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 3 0 1 1 -9
+p661
+aVJohn Thomas TOR 12/05/1999 TOR vs. SAS W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 11
+p662
+aVMichael Stewart TOR 12/05/1999 TOR vs. SAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p663
+aVDell Curry TOR 12/05/1999 TOR vs. SAS W 16 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 2 0 1 2 0 -4
+p664
+aVDoug Christie TOR 12/05/1999 TOR vs. SAS W 24 12 3 6 50.0 1 3 33.3 5 5 100.0 0 3 3 9 0 0 0 2 5
+p665
+aVCharles Oakley TOR 12/05/1999 TOR vs. SAS W 32 8 4 7 57.1 0 0 - 0 0 - 3 8 11 4 2 1 3 5 4
+p666
+aVTracy McGrady TOR 12/05/1999 TOR vs. SAS W 30 16 6 14 42.9 0 0 - 4 5 80.0 2 4 6 3 1 2 2 0 -7
+p667
+aVDee Brown TOR 12/05/1999 TOR vs. SAS W 20 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 2 2 1 2 2 21
+p668
+aVDell Curry TOR 12/03/1999 TOR vs. WAS W 14 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 0 0 0 2 1 -4
+p669
+aVKevin Willis TOR 12/03/1999 TOR vs. WAS W 25 12 5 12 41.7 0 0 - 2 2 100.0 2 5 7 1 0 1 0 5 6
+p670
+aVDoug Christie TOR 12/03/1999 TOR vs. WAS W 17 3 1 6 16.7 1 3 33.3 0 0 - 1 1 2 5 0 0 0 1 7
+p671
+aVTracy McGrady TOR 12/03/1999 TOR vs. WAS W 34 21 9 15 60.0 0 0 - 3 5 60.0 1 7 8 3 0 2 3 3 7
+p672
+aVDee Brown TOR 12/03/1999 TOR vs. WAS W 17 8 3 6 50.0 2 5 40.0 0 0 - 0 0 0 4 1 0 0 0 6
+p673
+aVCharles Oakley TOR 12/03/1999 TOR vs. WAS W 32 2 1 7 14.3 0 0 - 0 0 - 4 5 9 7 1 0 1 4 -1
+p674
+aVVince Carter TOR 12/03/1999 TOR vs. WAS W 40 23 8 20 40.0 1 3 33.3 6 8 75.0 2 3 5 3 1 3 0 2 1
+p675
+aVAlvin Williams TOR 12/03/1999 TOR vs. WAS W 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p676
+aVMuggsy Bogues TOR 12/03/1999 TOR vs. WAS W 16 0 0 0 - 0 0 - 0 0 - 0 0 0 3 1 0 0 2 -2
+p677
+aVAntonio Davis TOR 12/03/1999 TOR vs. WAS W 38 15 4 7 57.1 0 0 - 7 9 77.8 2 5 7 2 0 4 1 1 -2
+p678
+aVJohn Thomas TOR 12/03/1999 TOR vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p679
+aVAlvin Williams TOR 11/30/1999 TOR vs. ATL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p680
+aVCharles Oakley TOR 11/30/1999 TOR vs. ATL L 32 8 4 10 40.0 0 0 - 0 0 - 2 7 9 3 1 0 2 3 -17
+p681
+aVMuggsy Bogues TOR 11/30/1999 TOR vs. ATL L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -11
+p682
+aVDoug Christie TOR 11/30/1999 TOR vs. ATL L 25 12 5 13 38.5 2 6 33.3 0 0 - 1 0 1 2 0 0 2 4 -8
+p683
+aVTracy McGrady TOR 11/30/1999 TOR vs. ATL L 30 10 4 14 28.6 0 0 - 2 2 100.0 3 4 7 4 2 4 0 1 -21
+p684
+aVDell Curry TOR 11/30/1999 TOR vs. ATL L 18 7 2 8 25.0 2 5 40.0 1 1 100.0 0 0 0 3 1 0 1 1 -2
+p685
+aVAntonio Davis TOR 11/30/1999 TOR vs. ATL L 33 16 7 13 53.8 0 0 - 2 2 100.0 6 6 12 1 2 0 0 3 0
+p686
+aVMichael Stewart TOR 11/30/1999 TOR vs. ATL L 3 3 1 1 100.0 0 0 - 1 2 50.0 2 0 2 0 1 0 0 0 -1
+p687
+aVKevin Willis TOR 11/30/1999 TOR vs. ATL L 17 6 3 8 37.5 0 0 - 0 0 - 1 0 1 2 0 1 1 4 -8
+p688
+aVVince Carter TOR 11/30/1999 TOR vs. ATL L 27 14 5 13 38.5 0 0 - 4 5 80.0 2 2 4 3 0 4 1 1 -8
+p689
+aVJohn Thomas TOR 11/30/1999 TOR vs. ATL L 10 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 0 3 -10
+p690
+aVDee Brown TOR 11/30/1999 TOR vs. ATL L 28 11 4 11 36.4 2 8 25.0 1 2 50.0 2 2 4 5 0 0 2 2 -3
+p691
+aVAlvin Williams TOR 11/27/1999 TOR @ GSW W 6 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -10
+p692
+aVVince Carter TOR 11/27/1999 TOR @ GSW W 29 22 8 17 47.1 1 3 33.3 5 6 83.3 1 2 3 1 0 0 0 1 14
+p693
+aVKevin Willis TOR 11/27/1999 TOR @ GSW W 18 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 0 0 0 4 26
+p694
+aVAntonio Davis TOR 11/27/1999 TOR @ GSW W 36 28 10 13 76.9 0 0 - 8 8 100.0 1 2 3 1 0 2 0 2 30
+p695
+aVJohn Thomas TOR 11/27/1999 TOR @ GSW W 5 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -12
+p696
+aVMichael Stewart TOR 11/27/1999 TOR @ GSW W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -18
+p697
+aVTracy McGrady TOR 11/27/1999 TOR @ GSW W 28 10 3 12 25.0 0 1 0.0 4 6 66.7 3 4 7 4 1 2 2 2 -12
+p698
+aVDell Curry TOR 11/27/1999 TOR @ GSW W 19 9 3 6 50.0 1 2 50.0 2 2 100.0 0 3 3 1 1 0 0 0 4
+p699
+aVDee Brown TOR 11/27/1999 TOR @ GSW W 21 12 4 9 44.4 4 9 44.4 0 0 - 0 5 5 3 0 0 2 2 15
+p700
+aVDoug Christie TOR 11/27/1999 TOR @ GSW W 27 13 6 12 50.0 1 2 50.0 0 0 - 1 5 6 4 2 0 0 0 23
+p701
+aVMuggsy Bogues TOR 11/27/1999 TOR @ GSW W 19 2 1 1 100.0 0 0 - 0 0 - 0 2 2 3 5 0 1 1 18
+p702
+aVCharles Oakley TOR 11/27/1999 TOR @ GSW W 24 2 1 3 33.3 0 0 - 0 0 - 1 5 6 4 5 0 2 3 12
+p703
+aVTracy McGrady TOR 11/26/1999 TOR @ UTA W 24 17 7 11 63.6 0 0 - 3 4 75.0 0 4 4 3 2 0 2 3 22
+p704
+aVDoug Christie TOR 11/26/1999 TOR @ UTA W 25 15 4 13 30.8 0 3 0.0 7 10 70.0 1 4 5 1 1 1 3 3 -4
+p705
+aVVince Carter TOR 11/26/1999 TOR @ UTA W 41 18 9 19 47.4 0 0 - 0 1 0.0 1 3 4 4 0 0 3 3 17
+p706
+aVKevin Willis TOR 11/26/1999 TOR @ UTA W 21 10 3 4 75.0 0 0 - 4 4 100.0 5 4 9 2 0 0 2 3 6
+p707
+aVAlvin Williams TOR 11/26/1999 TOR @ UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p708
+aVAntonio Davis TOR 11/26/1999 TOR @ UTA W 32 5 1 3 33.3 0 0 - 3 4 75.0 3 5 8 2 0 0 3 2 14
+p709
+aVDee Brown TOR 11/26/1999 TOR @ UTA W 24 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 3 0 0 0 3 -5
+p710
+aVDell Curry TOR 11/26/1999 TOR @ UTA W 20 12 4 8 50.0 2 6 33.3 2 2 100.0 0 3 3 1 1 0 0 0 6
+p711
+aVCharles Oakley TOR 11/26/1999 TOR @ UTA W 31 10 2 3 66.7 0 0 - 6 6 100.0 2 7 9 3 1 1 3 4 2
+p712
+aVMuggsy Bogues TOR 11/26/1999 TOR @ UTA W 20 8 1 3 33.3 0 0 - 6 6 100.0 1 3 4 2 0 0 1 1 6
+p713
+aVCharles Oakley TOR 11/24/1999 TOR @ DEN L 19 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 1 1 2 2 -12
+p714
+aVDoug Christie TOR 11/24/1999 TOR @ DEN L 24 2 1 9 11.1 0 1 0.0 0 0 - 0 3 3 5 1 0 4 0 -11
+p715
+aVJohn Thomas TOR 11/24/1999 TOR @ DEN L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -13
+p716
+aVMichael Stewart TOR 11/24/1999 TOR @ DEN L 11 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 1 0 1 -9
+p717
+aVAlvin Williams TOR 11/24/1999 TOR @ DEN L 10 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 1 0 0 2 2 -6
+p718
+aVAntonio Davis TOR 11/24/1999 TOR @ DEN L 21 5 1 4 25.0 0 0 - 3 4 75.0 0 6 6 2 0 0 1 1 -6
+p719
+aVKevin Willis TOR 11/24/1999 TOR @ DEN L 24 8 2 5 40.0 0 0 - 4 4 100.0 1 7 8 2 1 4 3 3 -10
+p720
+aVTracy McGrady TOR 11/24/1999 TOR @ DEN L 30 13 4 10 40.0 0 2 0.0 5 5 100.0 1 5 6 0 0 1 3 2 -10
+p721
+aVMuggsy Bogues TOR 11/24/1999 TOR @ DEN L 21 4 2 3 66.7 0 0 - 0 0 - 0 2 2 3 0 0 2 1 -11
+p722
+aVVince Carter TOR 11/24/1999 TOR @ DEN L 27 16 7 13 53.8 0 1 0.0 2 2 100.0 1 7 8 3 0 0 5 4 -18
+p723
+aVDell Curry TOR 11/24/1999 TOR @ DEN L 20 13 5 9 55.6 3 5 60.0 0 0 - 0 2 2 4 0 0 0 1 -9
+p724
+aVDee Brown TOR 11/24/1999 TOR @ DEN L 18 8 3 7 42.9 2 6 33.3 0 0 - 0 0 0 2 1 0 1 2 -10
+p725
+aVDee Brown TOR 11/23/1999 TOR @ PHX L 23 12 4 8 50.0 4 7 57.1 0 0 - 0 2 2 5 1 0 1 4 -6
+p726
+aVDell Curry TOR 11/23/1999 TOR @ PHX L 18 5 2 7 28.6 1 3 33.3 0 0 - 0 4 4 3 1 0 2 1 3
+p727
+aVTracy McGrady TOR 11/23/1999 TOR @ PHX L 28 9 4 10 40.0 0 1 0.0 1 2 50.0 0 2 2 3 1 0 2 5 0
+p728
+aVCharles Oakley TOR 11/23/1999 TOR @ PHX L 27 6 3 6 50.0 0 0 - 0 0 - 2 4 6 5 1 0 2 4 -8
+p729
+aVDoug Christie TOR 11/23/1999 TOR @ PHX L 25 10 3 10 30.0 0 1 0.0 4 6 66.7 0 2 2 2 1 0 3 2 -6
+p730
+aVMuggsy Bogues TOR 11/23/1999 TOR @ PHX L 22 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 0 0 0 2 7
+p731
+aVVince Carter TOR 11/23/1999 TOR @ PHX L 31 19 9 23 39.1 1 4 25.0 0 0 - 3 4 7 4 0 0 3 4 -6
+p732
+aVAntonio Davis TOR 11/23/1999 TOR @ PHX L 42 12 4 9 44.4 0 0 - 4 4 100.0 4 3 7 2 0 0 4 3 8
+p733
+aVKevin Willis TOR 11/23/1999 TOR @ PHX L 25 16 7 13 53.8 0 0 - 2 2 100.0 2 5 7 2 2 0 0 0 3
+p734
+aVMichael Stewart TOR 11/21/1999 TOR @ LAL W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p735
+aVDell Curry TOR 11/21/1999 TOR @ LAL W 17 13 5 9 55.6 3 3 100.0 0 0 - 0 0 0 0 1 0 0 0 5
+p736
+aVVince Carter TOR 11/21/1999 TOR @ LAL W 40 34 13 26 50.0 1 2 50.0 7 8 87.5 3 10 13 4 1 1 0 1 31
+p737
+aVCharles Oakley TOR 11/21/1999 TOR @ LAL W 27 5 1 5 20.0 0 0 - 3 4 75.0 1 5 6 1 0 2 1 4 6
+p738
+aVTracy McGrady TOR 11/21/1999 TOR @ LAL W 29 12 3 7 42.9 0 0 - 6 7 85.7 0 6 6 1 2 1 3 4 -13
+p739
+aVJohn Thomas TOR 11/21/1999 TOR @ LAL W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 2
+p740
+aVAntonio Davis TOR 11/21/1999 TOR @ LAL W 34 13 5 11 45.5 0 0 - 3 4 75.0 3 7 10 1 2 0 2 5 8
+p741
+aVKevin Willis TOR 11/21/1999 TOR @ LAL W 7 2 0 3 0.0 0 0 - 2 4 50.0 2 2 4 1 0 0 0 3 -6
+p742
+aVDoug Christie TOR 11/21/1999 TOR @ LAL W 34 15 5 10 50.0 2 3 66.7 3 4 75.0 1 4 5 1 3 1 2 4 2
+p743
+aVMuggsy Bogues TOR 11/21/1999 TOR @ LAL W 16 2 1 1 100.0 0 0 - 0 0 - 1 2 3 3 0 0 1 1 8
+p744
+aVDee Brown TOR 11/21/1999 TOR @ LAL W 31 15 5 13 38.5 4 8 50.0 1 2 50.0 0 3 3 4 0 0 0 0 2
+p745
+aVKevin Willis TOR 11/19/1999 TOR vs. LAC W 22 4 1 5 20.0 0 0 - 2 2 100.0 1 4 5 0 0 1 1 5 2
+p746
+aVMuggsy Bogues TOR 11/19/1999 TOR vs. LAC W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 5
+p747
+aVDoug Christie TOR 11/19/1999 TOR vs. LAC W 34 10 5 11 45.5 0 2 0.0 0 0 - 3 2 5 5 1 1 3 2 -2
+p748
+aVTracy McGrady TOR 11/19/1999 TOR vs. LAC W 24 14 5 8 62.5 0 0 - 4 6 66.7 0 5 5 5 1 3 3 3 4
+p749
+aVVince Carter TOR 11/19/1999 TOR vs. LAC W 35 19 7 14 50.0 0 1 0.0 5 6 83.3 4 3 7 4 2 0 2 5 -7
+p750
+aVDell Curry TOR 11/19/1999 TOR vs. LAC W 20 16 6 10 60.0 4 4 100.0 0 0 - 0 2 2 2 0 0 0 3 5
+p751
+aVDee Brown TOR 11/19/1999 TOR vs. LAC W 8 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 1 0 0 2 4
+p752
+aVCharles Oakley TOR 11/19/1999 TOR vs. LAC W 29 5 2 7 28.6 0 0 - 1 2 50.0 2 6 8 4 3 0 2 2 11
+p753
+aVAntonio Davis TOR 11/19/1999 TOR vs. LAC W 36 20 7 16 43.8 0 0 - 6 6 100.0 1 6 7 2 2 2 0 3 0
+p754
+aVJohn Thomas TOR 11/19/1999 TOR vs. LAC W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p755
+aVAlvin Williams TOR 11/19/1999 TOR vs. LAC W 17 12 3 4 75.0 1 2 50.0 5 6 83.3 0 1 1 1 0 1 2 1 6
+p756
+aVAlvin Williams TOR 11/18/1999 TOR @ WAS L 17 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 2 0 1 1 0
+p757
+aVCharles Oakley TOR 11/18/1999 TOR @ WAS L 39 6 2 7 28.6 0 0 - 2 5 40.0 5 3 8 6 2 0 5 5 -7
+p758
+aVDell Curry TOR 11/18/1999 TOR @ WAS L 20 9 3 7 42.9 3 6 50.0 0 0 - 0 3 3 2 1 0 2 1 3
+p759
+aVDoug Christie TOR 11/18/1999 TOR @ WAS L 29 8 4 10 40.0 0 2 0.0 0 2 0.0 1 4 5 3 0 0 4 4 -16
+p760
+aVMuggsy Bogues TOR 11/18/1999 TOR @ WAS L 20 0 0 4 0.0 0 0 - 0 0 - 1 1 2 3 0 0 0 0 -3
+p761
+aVJohn Thomas TOR 11/18/1999 TOR @ WAS L 7 3 1 1 100.0 0 0 - 1 4 25.0 1 1 2 0 2 0 0 2 -4
+p762
+aVAntonio Davis TOR 11/18/1999 TOR @ WAS L 26 9 1 2 50.0 0 0 - 7 8 87.5 2 6 8 0 1 0 1 5 -4
+p763
+aVVince Carter TOR 11/18/1999 TOR @ WAS L 39 23 7 27 25.9 0 3 0.0 9 11 81.8 2 9 11 4 1 1 1 5 -5
+p764
+aVDee Brown TOR 11/18/1999 TOR @ WAS L 19 11 4 11 36.4 3 7 42.9 0 0 - 0 1 1 0 1 0 1 4 -13
+p765
+aVKevin Willis TOR 11/18/1999 TOR @ WAS L 23 4 2 9 22.2 0 0 - 0 0 - 3 2 5 0 1 0 1 3 -6
+p766
+aVAlvin Williams TOR 11/16/1999 TOR vs. DET W 13 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 5
+p767
+aVAntonio Davis TOR 11/16/1999 TOR vs. DET W 45 24 9 14 64.3 0 0 - 6 8 75.0 6 9 15 2 2 4 5 3 6
+p768
+aVDell Curry TOR 11/16/1999 TOR vs. DET W 15 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 1 0 -5
+p769
+aVTracy McGrady TOR 11/16/1999 TOR vs. DET W 8 8 3 7 42.9 0 0 - 2 4 50.0 0 3 3 0 1 1 1 2 -2
+p770
+aVMuggsy Bogues TOR 11/16/1999 TOR vs. DET W 22 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 6 1 0 2 0 1
+p771
+aVDoug Christie TOR 11/16/1999 TOR vs. DET W 40 15 6 14 42.9 2 6 33.3 1 1 100.0 0 8 8 4 2 3 4 2 11
+p772
+aVCharles Oakley TOR 11/16/1999 TOR vs. DET W 27 8 3 5 60.0 0 0 - 2 4 50.0 1 3 4 2 0 1 5 1 13
+p773
+aVKevin Willis TOR 11/16/1999 TOR vs. DET W 13 2 0 5 0.0 0 0 - 2 2 100.0 3 2 5 0 0 0 2 6 -4
+p774
+aVVince Carter TOR 11/16/1999 TOR vs. DET W 40 21 7 13 53.8 1 2 50.0 6 9 66.7 0 1 1 3 1 1 2 4 4
+p775
+aVJohn Thomas TOR 11/16/1999 TOR vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -4
+p776
+aVDee Brown TOR 11/16/1999 TOR vs. DET W 12 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 3 0 0 1 2 -5
+p777
+aVKevin Willis TOR 11/14/1999 TOR vs. PHI L 21 7 1 5 20.0 0 0 - 5 6 83.3 2 4 6 1 2 2 3 3 0
+p778
+aVCharles Oakley TOR 11/14/1999 TOR vs. PHI L 24 0 0 3 0.0 0 0 - 0 0 - 2 4 6 3 0 1 1 3 -15
+p779
+aVDoug Christie TOR 11/14/1999 TOR vs. PHI L 43 19 8 12 66.7 1 2 50.0 2 2 100.0 0 3 3 3 1 0 2 3 -4
+p780
+aVTracy McGrady TOR 11/14/1999 TOR vs. PHI L 21 8 2 6 33.3 0 1 0.0 4 6 66.7 1 1 2 2 0 5 0 5 -2
+p781
+aVMuggsy Bogues TOR 11/14/1999 TOR vs. PHI L 22 3 1 3 33.3 0 0 - 1 1 100.0 1 2 3 2 0 0 2 2 5
+p782
+aVAntonio Davis TOR 11/14/1999 TOR vs. PHI L 32 6 2 9 22.2 0 0 - 2 2 100.0 3 4 7 1 1 2 3 3 -6
+p783
+aVDell Curry TOR 11/14/1999 TOR vs. PHI L 20 13 5 12 41.7 3 6 50.0 0 0 - 0 0 0 0 0 2 0 1 16
+p784
+aVAlvin Williams TOR 11/14/1999 TOR vs. PHI L 17 7 2 7 28.6 0 1 0.0 3 4 75.0 2 3 5 2 2 0 4 3 -12
+p785
+aVVince Carter TOR 11/14/1999 TOR vs. PHI L 42 27 8 21 38.1 1 1 100.0 10 12 83.3 4 7 11 5 1 3 3 2 3
+p786
+aVVince Carter TOR 11/11/1999 TOR @ DET W 36 22 7 16 43.8 0 0 - 8 12 66.7 0 11 11 2 0 1 3 5 16
+p787
+aVTracy McGrady TOR 11/11/1999 TOR @ DET W 25 8 3 10 30.0 0 0 - 2 2 100.0 2 0 2 2 1 4 2 5 9
+p788
+aVAlvin Williams TOR 11/11/1999 TOR @ DET W 20 13 6 7 85.7 0 1 0.0 1 1 100.0 1 0 1 5 1 0 3 2 8
+p789
+aVJohn Thomas TOR 11/11/1999 TOR @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p790
+aVDell Curry TOR 11/11/1999 TOR @ DET W 20 10 3 5 60.0 2 2 100.0 2 2 100.0 0 4 4 1 0 1 0 3 14
+p791
+aVCharles Oakley TOR 11/11/1999 TOR @ DET W 17 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 1 0 1 3 2
+p792
+aVMuggsy Bogues TOR 11/11/1999 TOR @ DET W 28 12 3 7 42.9 0 0 - 6 6 100.0 0 2 2 7 1 0 3 2 9
+p793
+aVAntonio Davis TOR 11/11/1999 TOR @ DET W 23 10 4 7 57.1 0 0 - 2 2 100.0 2 9 11 2 1 1 1 4 12
+p794
+aVDoug Christie TOR 11/11/1999 TOR @ DET W 41 24 8 14 57.1 4 8 50.0 4 4 100.0 1 2 3 5 1 0 2 2 11
+p795
+aVKevin Willis TOR 11/11/1999 TOR @ DET W 27 18 8 14 57.1 0 1 0.0 2 2 100.0 6 7 13 3 1 3 3 6 4
+p796
+aVCharles Oakley TOR 11/07/1999 TOR vs. CHH W 31 10 4 5 80.0 0 0 - 2 2 100.0 0 5 5 6 2 2 2 2 -9
+p797
+aVMuggsy Bogues TOR 11/07/1999 TOR vs. CHH W 29 10 5 5 100.0 0 0 - 0 0 - 0 2 2 11 2 0 0 2 13
+p798
+aVKevin Willis TOR 11/07/1999 TOR vs. CHH W 19 6 3 6 50.0 0 0 - 0 0 - 5 1 6 0 0 1 2 4 21
+p799
+aVDoug Christie TOR 11/07/1999 TOR vs. CHH W 22 13 5 7 71.4 2 4 50.0 1 2 50.0 0 2 2 4 2 0 1 4 -1
+p800
+aVAlvin Williams TOR 11/07/1999 TOR vs. CHH W 18 9 3 8 37.5 1 1 100.0 2 2 100.0 0 1 1 2 2 0 2 1 -3
+p801
+aVTracy McGrady TOR 11/07/1999 TOR vs. CHH W 14 14 6 11 54.5 0 0 - 2 2 100.0 2 2 4 2 1 0 3 4 3
+p802
+aVAntonio Davis TOR 11/07/1999 TOR vs. CHH W 35 6 3 9 33.3 0 0 - 0 0 - 3 9 12 2 0 0 1 3 -10
+p803
+aVVince Carter TOR 11/07/1999 TOR vs. CHH W 40 25 12 25 48.0 1 3 33.3 0 0 - 1 1 2 5 2 5 2 4 11
+p804
+aVDell Curry TOR 11/07/1999 TOR vs. CHH W 22 14 6 10 60.0 2 5 40.0 0 1 0.0 0 1 1 2 0 0 0 2 7
+p805
+aVJohn Thomas TOR 11/07/1999 TOR vs. CHH W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 18
+p806
+aVVince Carter TOR 11/05/1999 TOR @ NJN W 29 26 11 17 64.7 0 1 0.0 4 7 57.1 3 2 5 1 3 0 2 3 9
+p807
+aVAlvin Williams TOR 11/05/1999 TOR @ NJN W 16 5 1 4 25.0 0 1 0.0 3 4 75.0 1 2 3 3 0 0 2 1 10
+p808
+aVKevin Willis TOR 11/05/1999 TOR @ NJN W 28 20 8 12 66.7 0 0 - 4 6 66.7 5 4 9 1 1 1 0 5 10
+p809
+aVJohn Thomas TOR 11/05/1999 TOR @ NJN W 18 9 4 6 66.7 0 0 - 1 2 50.0 0 2 2 2 0 0 0 3 19
+p810
+aVTracy McGrady TOR 11/05/1999 TOR @ NJN W 32 16 6 14 42.9 1 1 100.0 3 4 75.0 1 8 9 4 0 2 3 3 10
+p811
+aVMichael Stewart TOR 11/05/1999 TOR @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -7
+p812
+aVCharles Oakley TOR 11/05/1999 TOR @ NJN W 25 2 1 4 25.0 0 0 - 0 0 - 2 7 9 2 0 0 1 4 11
+p813
+aVAntonio Davis TOR 11/05/1999 TOR @ NJN W 21 12 5 11 45.5 0 0 - 2 2 100.0 3 5 8 0 0 0 0 3 7
+p814
+aVDell Curry TOR 11/05/1999 TOR @ NJN W 19 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 2 0 0 1 2 11
+p815
+aVMuggsy Bogues TOR 11/05/1999 TOR @ NJN W 25 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 0 3 12
+p816
+aVDoug Christie TOR 11/05/1999 TOR @ NJN W 23 12 4 9 44.4 2 3 66.7 2 2 100.0 2 0 2 1 1 1 1 2 8
+p817
+aVMuggsy Bogues TOR 11/04/1999 TOR vs. MIA W 15 0 0 3 0.0 0 0 - 0 0 - 1 2 3 3 1 0 0 0 1
+p818
+aVDell Curry TOR 11/04/1999 TOR vs. MIA W 19 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 4 1 1 2 0 9
+p819
+aVDoug Christie TOR 11/04/1999 TOR vs. MIA W 33 28 9 15 60.0 6 10 60.0 4 4 100.0 0 3 3 2 2 1 3 2 10
+p820
+aVTracy McGrady TOR 11/04/1999 TOR vs. MIA W 26 14 5 11 45.5 0 0 - 4 6 66.7 0 2 2 1 1 2 1 2 1
+p821
+aVJohn Thomas TOR 11/04/1999 TOR vs. MIA W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p822
+aVKevin Willis TOR 11/04/1999 TOR vs. MIA W 22 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 2 2 1 4 17
+p823
+aVAntonio Davis TOR 11/04/1999 TOR vs. MIA W 37 7 2 9 22.2 0 0 - 3 6 50.0 3 10 13 2 0 4 0 3 13
+p824
+aVAlvin Williams TOR 11/04/1999 TOR vs. MIA W 19 8 3 8 37.5 1 2 50.0 1 1 100.0 2 1 3 2 1 1 1 3 1
+p825
+aVVince Carter TOR 11/04/1999 TOR vs. MIA W 32 24 11 24 45.8 1 1 100.0 1 1 100.0 3 1 4 6 1 2 2 4 15
+p826
+aVCharles Oakley TOR 11/04/1999 TOR vs. MIA W 26 4 2 5 40.0 0 0 - 0 0 - 1 3 4 7 0 1 1 3 -2
+p827
+aVDoug Christie TOR 11/02/1999 TOR vs. BOS L 38 20 7 13 53.8 1 3 33.3 5 7 71.4 1 6 7 4 1 1 4 2 -16
+p828
+aVAleksandar Radojevic TOR 11/02/1999 TOR vs. BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p829
+aVAlvin Williams TOR 11/02/1999 TOR vs. BOS L 21 13 6 7 85.7 0 0 - 1 3 33.3 1 0 1 3 2 1 1 1 -10
+p830
+aVDell Curry TOR 11/02/1999 TOR vs. BOS L 20 7 3 8 37.5 1 4 25.0 0 0 - 0 4 4 2 0 0 0 0 -4
+p831
+aVTracy McGrady TOR 11/02/1999 TOR vs. BOS L 19 11 5 10 50.0 0 1 0.0 1 2 50.0 0 1 1 1 1 5 1 1 -3
+p832
+aVVince Carter TOR 11/02/1999 TOR vs. BOS L 40 12 3 10 30.0 1 5 20.0 5 8 62.5 2 3 5 2 2 0 2 3 -5
+p833
+aVJohn Thomas TOR 11/02/1999 TOR vs. BOS L 5 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p834
+aVKevin Willis TOR 11/02/1999 TOR vs. BOS L 21 5 1 7 14.3 0 0 - 3 4 75.0 4 3 7 1 0 0 3 3 5
+p835
+aVAntonio Davis TOR 11/02/1999 TOR vs. BOS L 28 8 1 7 14.3 0 0 - 6 6 100.0 1 2 3 2 0 0 2 4 -20
+p836
+aVMuggsy Bogues TOR 11/02/1999 TOR vs. BOS L 24 4 2 3 66.7 0 0 - 0 0 - 0 2 2 5 3 0 1 3 -4
+p837
+aVCharles Oakley TOR 11/02/1999 TOR vs. BOS L 23 8 4 6 66.7 0 0 - 0 0 - 1 4 5 2 0 0 3 2 -13
+p838
+a.

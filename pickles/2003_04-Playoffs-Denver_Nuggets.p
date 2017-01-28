@@ -1,0 +1,116 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJon Barry DEN 04/30/2004 DEN @ MIN L 28 7 3 6 50.0 1 1 100.0 0 1 0.0 1 4 5 2 2 0 2 1 -6
+p2
+aVEarl Boykins DEN 04/30/2004 DEN @ MIN L 28 19 7 19 36.8 3 8 37.5 2 2 100.0 0 0 0 4 0 0 1 1 6
+p3
+aVVoshon Lenard DEN 04/30/2004 DEN @ MIN L 43 17 7 18 38.9 1 5 20.0 2 4 50.0 2 2 4 4 2 0 2 4 -5
+p4
+aVNene DEN 04/30/2004 DEN @ MIN L 21 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 1 3 4 -24
+p5
+aVAndre Miller DEN 04/30/2004 DEN @ MIN L 41 21 10 17 58.8 0 0 - 1 1 100.0 4 2 6 3 3 0 5 6 -17
+p6
+aVRyan Bowen DEN 04/30/2004 DEN @ MIN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p7
+aVChris Andersen DEN 04/30/2004 DEN @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p8
+aVMichael Doleac DEN 04/30/2004 DEN @ MIN L 26 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 0 1 5 12
+p9
+aVRodney White DEN 04/30/2004 DEN @ MIN L 8 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -12
+p10
+aVMarcus Camby DEN 04/30/2004 DEN @ MIN L 41 21 10 15 66.7 0 0 - 1 2 50.0 3 12 15 1 2 2 3 5 -8
+p11
+aVFrancisco Elson DEN 04/27/2004 DEN vs. MIN L 11 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -6
+p12
+aVEarl Boykins DEN 04/27/2004 DEN vs. MIN L 31 10 4 12 33.3 0 3 0.0 2 2 100.0 1 2 3 4 2 0 2 2 6
+p13
+aVCarmelo Anthony DEN 04/27/2004 DEN vs. MIN L 32 2 1 16 6.3 0 2 0.0 0 0 - 2 6 8 1 1 0 4 2 -14
+p14
+aVMarcus Camby DEN 04/27/2004 DEN vs. MIN L 42 9 3 7 42.9 0 0 - 3 6 50.0 2 12 14 5 0 1 2 3 -1
+p15
+aVMichael Doleac DEN 04/27/2004 DEN vs. MIN L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 1
+p16
+aVJon Barry DEN 04/27/2004 DEN vs. MIN L 11 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 1 0 0 0 0 9
+p17
+aVAndre Miller DEN 04/27/2004 DEN vs. MIN L 38 13 6 16 37.5 0 0 - 1 3 33.3 5 1 6 2 2 0 0 3 5
+p18
+aVNene DEN 04/27/2004 DEN vs. MIN L 30 11 4 10 40.0 0 0 - 3 4 75.0 4 4 8 2 1 0 2 5 -8
+p19
+aVVoshon Lenard DEN 04/27/2004 DEN vs. MIN L 32 28 11 20 55.0 6 7 85.7 0 0 - 2 1 3 1 1 0 2 3 -9
+p20
+aVChris Andersen DEN 04/27/2004 DEN vs. MIN L 6 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 1 0 1 0 7
+p21
+aVJon Barry DEN 04/24/2004 DEN vs. MIN W 14 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 2 0 0 0 0 -1
+p22
+aVFrancisco Elson DEN 04/24/2004 DEN vs. MIN W 18 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 0 1 1 0 2 10
+p23
+aVCarmelo Anthony DEN 04/24/2004 DEN vs. MIN W 38 24 9 20 45.0 2 3 66.7 4 4 100.0 2 8 10 4 1 0 3 1 14
+p24
+aVMarcus Camby DEN 04/24/2004 DEN vs. MIN W 36 12 5 11 45.5 1 1 100.0 1 2 50.0 8 8 16 5 0 1 0 5 12
+p25
+aVAndre Miller DEN 04/24/2004 DEN vs. MIN W 37 19 7 17 41.2 0 1 0.0 5 5 100.0 5 2 7 6 1 0 2 3 12
+p26
+aVRodney White DEN 04/24/2004 DEN vs. MIN W 8 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 1 0 1 1 5
+p27
+aVVoshon Lenard DEN 04/24/2004 DEN vs. MIN W 31 9 3 11 27.3 2 4 50.0 1 2 50.0 0 1 1 3 1 0 1 3 22
+p28
+aVMichael Doleac DEN 04/24/2004 DEN vs. MIN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p29
+aVRyan Bowen DEN 04/24/2004 DEN vs. MIN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p30
+aVNene DEN 04/24/2004 DEN vs. MIN W 24 14 7 8 87.5 0 0 - 0 1 0.0 0 3 3 4 1 0 3 4 15
+p31
+aVEarl Boykins DEN 04/24/2004 DEN vs. MIN W 20 10 5 11 45.5 0 0 - 0 0 - 3 3 6 5 1 0 1 1 10
+p32
+aVChris Andersen DEN 04/24/2004 DEN vs. MIN W 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 2 2
+p33
+aVRyan Bowen DEN 04/21/2004 DEN @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p34
+aVRodney White DEN 04/21/2004 DEN @ MIN L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p35
+aVMarcus Camby DEN 04/21/2004 DEN @ MIN L 37 2 1 9 11.1 0 0 - 0 0 - 0 4 4 1 2 1 0 3 -10
+p36
+aVChris Andersen DEN 04/21/2004 DEN @ MIN L 3 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 0 0 1 5
+p37
+aVCarmelo Anthony DEN 04/21/2004 DEN @ MIN L 37 15 5 11 45.5 0 1 0.0 5 6 83.3 1 8 9 3 1 0 7 2 -18
+p38
+aVAndre Miller DEN 04/21/2004 DEN @ MIN L 33 12 6 13 46.2 0 1 0.0 0 0 - 0 2 2 2 2 0 2 1 -7
+p39
+aVVoshon Lenard DEN 04/21/2004 DEN @ MIN L 32 24 8 17 47.1 2 5 40.0 6 6 100.0 0 3 3 1 0 0 2 2 -7
+p40
+aVEarl Boykins DEN 04/21/2004 DEN @ MIN L 18 12 5 11 45.5 0 1 0.0 2 3 66.7 2 0 2 1 1 0 0 1 -7
+p41
+aVNene DEN 04/21/2004 DEN @ MIN L 25 8 2 6 33.3 0 0 - 4 8 50.0 4 1 5 3 1 0 0 5 1
+p42
+aVFrancisco Elson DEN 04/21/2004 DEN @ MIN L 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 2 4 -20
+p43
+aVJon Barry DEN 04/21/2004 DEN @ MIN L 19 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 1 0 0 2 -14
+p44
+aVMichael Doleac DEN 04/21/2004 DEN @ MIN L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p45
+aVMarcus Camby DEN 04/18/2004 DEN @ MIN L 37 19 8 13 61.5 0 1 0.0 3 4 75.0 1 7 8 0 0 2 1 5 -23
+p46
+aVChris Andersen DEN 04/18/2004 DEN @ MIN L 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 9
+p47
+aVCarmelo Anthony DEN 04/18/2004 DEN @ MIN L 36 19 6 17 35.3 0 5 0.0 7 10 70.0 2 4 6 3 2 0 3 6 -13
+p48
+aVJon Barry DEN 04/18/2004 DEN @ MIN L 28 9 3 8 37.5 1 5 20.0 2 2 100.0 1 1 2 3 0 0 2 1 2
+p49
+aVAndre Miller DEN 04/18/2004 DEN @ MIN L 26 12 5 9 55.6 0 0 - 2 2 100.0 1 1 2 3 0 0 1 3 -17
+p50
+aVFrancisco Elson DEN 04/18/2004 DEN @ MIN L 10 6 3 3 100.0 0 0 - 0 0 - 0 3 3 2 0 0 0 5 9
+p51
+aVNene DEN 04/18/2004 DEN @ MIN L 32 4 2 8 25.0 0 0 - 0 0 - 3 4 7 4 2 2 1 4 -18
+p52
+aVMichael Doleac DEN 04/18/2004 DEN @ MIN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p53
+aVRyan Bowen DEN 04/18/2004 DEN @ MIN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p54
+aVRodney White DEN 04/18/2004 DEN @ MIN L 6 0 0 5 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -10
+p55
+aVEarl Boykins DEN 04/18/2004 DEN @ MIN L 24 16 7 10 70.0 2 2 100.0 0 0 - 0 1 1 5 1 1 2 1 5
+p56
+aVVoshon Lenard DEN 04/18/2004 DEN @ MIN L 24 7 3 9 33.3 0 3 0.0 1 2 50.0 0 2 2 3 0 0 2 1 -12
+p57
+a.

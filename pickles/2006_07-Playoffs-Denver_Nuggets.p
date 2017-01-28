@@ -1,0 +1,86 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLinas Kleiza DEN 05/02/2007 DEN @ SAS L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p2
+aVNene DEN 05/02/2007 DEN @ SAS L 28 10 4 6 66.7 0 0 - 2 2 100.0 4 2 6 2 0 0 3 6 -19
+p3
+aVSteve Blake DEN 05/02/2007 DEN @ SAS L 38 12 4 8 50.0 4 6 66.7 0 0 - 0 0 0 2 0 0 0 1 -7
+p4
+aVMarcus Camby DEN 05/02/2007 DEN @ SAS L 36 4 2 10 20.0 0 0 - 0 0 - 5 14 19 2 0 5 5 3 -3
+p5
+aVAnthony Carter DEN 05/02/2007 DEN @ SAS L 14 8 4 4 100.0 0 0 - 0 1 0.0 0 1 1 2 0 0 1 2 -7
+p6
+aVYakhouba Diawara DEN 05/02/2007 DEN @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p7
+aVCarmelo Anthony DEN 05/02/2007 DEN @ SAS L 43 21 8 20 40.0 1 2 50.0 4 5 80.0 3 4 7 0 3 0 4 2 -14
+p8
+aVAllen Iverson DEN 05/02/2007 DEN @ SAS L 44 21 6 22 27.3 2 5 40.0 7 9 77.8 0 0 0 8 2 0 3 0 -11
+p9
+aVEduardo Najera DEN 05/02/2007 DEN @ SAS L 27 0 0 5 0.0 0 2 0.0 0 0 - 2 7 9 0 0 1 0 3 -6
+p10
+aVCarmelo Anthony DEN 04/30/2007 DEN vs. SAS L 38 29 11 18 61.1 2 5 40.0 5 6 83.3 1 5 6 3 0 0 6 4 -3
+p11
+aVSteve Blake DEN 04/30/2007 DEN vs. SAS L 35 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 4 0 0 4 1 2
+p12
+aVAllen Iverson DEN 04/30/2007 DEN vs. SAS L 45 22 9 25 36.0 0 3 0.0 4 5 80.0 0 0 0 7 1 0 2 4 -8
+p13
+aVLinas Kleiza DEN 04/30/2007 DEN vs. SAS L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 0
+p14
+aVEduardo Najera DEN 04/30/2007 DEN vs. SAS L 15 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 3 -10
+p15
+aVJR Smith DEN 04/30/2007 DEN vs. SAS L 14 2 1 5 20.0 0 4 0.0 0 0 - 0 2 2 2 2 0 1 1 -9
+p16
+aVNene DEN 04/30/2007 DEN vs. SAS L 40 18 7 9 77.8 0 0 - 4 5 80.0 2 5 7 3 1 0 2 5 -7
+p17
+aVMarcus Camby DEN 04/30/2007 DEN vs. SAS L 35 10 5 8 62.5 0 0 - 0 0 - 4 13 17 3 0 4 1 4 0
+p18
+aVAllen Iverson DEN 04/28/2007 DEN vs. SAS L 45 20 7 20 35.0 0 3 0.0 6 9 66.7 0 2 2 4 0 0 3 2 -5
+p19
+aVNene DEN 04/28/2007 DEN vs. SAS L 37 18 7 11 63.6 0 0 - 4 4 100.0 4 3 7 3 0 1 2 3 4
+p20
+aVLinas Kleiza DEN 04/28/2007 DEN vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p21
+aVJR Smith DEN 04/28/2007 DEN vs. SAS L 16 12 4 10 40.0 0 3 0.0 4 4 100.0 0 3 3 0 2 1 1 2 -8
+p22
+aVCarmelo Anthony DEN 04/28/2007 DEN vs. SAS L 44 28 10 21 47.6 2 3 66.7 6 11 54.5 6 6 12 2 0 0 3 3 -4
+p23
+aVEduardo Najera DEN 04/28/2007 DEN vs. SAS L 20 0 0 2 0.0 0 0 - 0 0 - 4 6 10 1 1 0 2 2 -16
+p24
+aVSteve Blake DEN 04/28/2007 DEN vs. SAS L 36 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 7 0 0 2 2 5
+p25
+aVMarcus Camby DEN 04/28/2007 DEN vs. SAS L 38 6 2 7 28.6 0 0 - 2 2 100.0 1 9 10 2 0 2 1 2 0
+p26
+aVMarcus Camby DEN 04/25/2007 DEN @ SAS L 39 10 4 11 36.4 0 0 - 2 4 50.0 1 17 18 0 2 3 1 4 -6
+p27
+aVSteve Blake DEN 04/25/2007 DEN @ SAS L 35 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 7 1 0 2 2 -10
+p28
+aVCarmelo Anthony DEN 04/25/2007 DEN @ SAS L 44 26 8 21 38.1 2 4 50.0 8 9 88.9 6 4 10 1 1 0 4 2 -9
+p29
+aVNene DEN 04/25/2007 DEN @ SAS L 36 17 8 15 53.3 0 0 - 1 2 50.0 4 3 7 2 0 1 1 4 -12
+p30
+aVJR Smith DEN 04/25/2007 DEN @ SAS L 12 2 0 4 0.0 0 3 0.0 2 2 100.0 0 3 3 0 0 0 0 1 -8
+p31
+aVAllen Iverson DEN 04/25/2007 DEN @ SAS L 45 20 9 25 36.0 2 3 66.7 0 0 - 0 0 0 5 3 0 4 4 -4
+p32
+aVEduardo Najera DEN 04/25/2007 DEN @ SAS L 14 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 1
+p33
+aVLinas Kleiza DEN 04/25/2007 DEN @ SAS L 16 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 1 3
+p34
+aVMarcus Camby DEN 04/22/2007 DEN @ SAS W 37 8 4 9 44.4 0 0 - 0 0 - 1 9 10 3 2 2 2 1 9
+p35
+aVSteve Blake DEN 04/22/2007 DEN @ SAS W 37 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 3 2 0 2 2 10
+p36
+aVJR Smith DEN 04/22/2007 DEN @ SAS W 5 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 0 0 0 1 2 -3
+p37
+aVNene DEN 04/22/2007 DEN @ SAS W 38 13 5 12 41.7 0 0 - 3 5 60.0 8 4 12 2 2 1 5 3 2
+p38
+aVAllen Iverson DEN 04/22/2007 DEN @ SAS W 45 31 11 22 50.0 1 3 33.3 8 8 100.0 0 1 1 5 1 0 3 1 5
+p39
+aVLinas Kleiza DEN 04/22/2007 DEN @ SAS W 19 1 0 5 0.0 0 2 0.0 1 2 50.0 0 4 4 0 0 0 0 2 -1
+p40
+aVEduardo Najera DEN 04/22/2007 DEN @ SAS W 20 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 1 2
+p41
+aVCarmelo Anthony DEN 04/22/2007 DEN @ SAS W 40 30 10 18 55.6 2 4 50.0 8 8 100.0 2 6 8 0 1 0 2 1 6
+p42
+a.

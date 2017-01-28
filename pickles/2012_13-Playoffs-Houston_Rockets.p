@@ -1,0 +1,114 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChandler Parsons HOU 05/03/2013 HOU vs. OKC L 46 25 8 14 57.1 6 8 75.0 3 4 75.0 0 7 7 3 0 0 5 1 -4
+p2
+aVPatrick Beverley HOU 05/03/2013 HOU vs. OKC L 33 8 4 11 36.4 0 3 0.0 0 0 - 1 2 3 0 1 0 1 4 4
+p3
+aVJeremy Lin HOU 05/03/2013 HOU vs. OKC L 13 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 1 1 1 -18
+p4
+aVJames Anderson HOU 05/03/2013 HOU vs. OKC L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 -16
+p5
+aVGreg Smith HOU 05/03/2013 HOU vs. OKC L 7 2 0 0 - 0 0 - 2 4 50.0 1 1 2 0 0 0 0 0 -16
+p6
+aVJames Harden HOU 05/03/2013 HOU vs. OKC L 43 26 7 22 31.8 4 10 40.0 8 11 72.7 2 4 6 7 2 2 4 1 3
+p7
+aVAaron Brooks HOU 05/03/2013 HOU vs. OKC L 10 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 1 0 0 2 0 -11
+p8
+aVOmer Asik HOU 05/03/2013 HOU vs. OKC L 41 13 3 7 42.9 0 0 - 7 12 58.3 5 8 13 0 1 2 2 4 7
+p9
+aVFrancisco Garcia HOU 05/03/2013 HOU vs. OKC L 37 11 4 9 44.4 3 6 50.0 0 0 - 0 6 6 5 1 0 0 5 6
+p10
+aVOmer Asik HOU 05/01/2013 HOU @ OKC W 38 21 4 6 66.7 0 0 - 13 18 72.2 1 10 11 0 0 2 2 4 12
+p11
+aVGreg Smith HOU 05/01/2013 HOU @ OKC W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 1 0 0 2 -5
+p12
+aVPatrick Beverley HOU 05/01/2013 HOU @ OKC W 39 14 5 11 45.5 2 5 40.0 2 2 100.0 3 5 8 1 1 1 1 4 3
+p13
+aVCarlos Delfino HOU 05/01/2013 HOU @ OKC W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -1
+p14
+aVAaron Brooks HOU 05/01/2013 HOU @ OKC W 19 10 4 11 36.4 0 3 0.0 2 4 50.0 1 2 3 3 0 0 1 1 8
+p15
+aVJames Harden HOU 05/01/2013 HOU @ OKC W 42 31 10 16 62.5 7 9 77.8 4 5 80.0 0 8 8 3 1 1 3 2 16
+p16
+aVFrancisco Garcia HOU 05/01/2013 HOU @ OKC W 40 18 6 14 42.9 5 12 41.7 1 2 50.0 1 4 5 3 1 1 2 4 0
+p17
+aVChandler Parsons HOU 05/01/2013 HOU @ OKC W 42 10 4 12 33.3 0 5 0.0 2 4 50.0 0 5 5 4 0 0 3 4 2
+p18
+aVCarlos Delfino HOU 04/29/2013 HOU vs. OKC W 25 13 4 6 66.7 3 5 60.0 2 2 100.0 0 4 4 3 2 0 3 3 -3
+p19
+aVOmer Asik HOU 04/29/2013 HOU vs. OKC W 38 17 7 10 70.0 0 0 - 3 5 60.0 8 6 14 1 1 1 3 4 2
+p20
+aVJames Harden HOU 04/29/2013 HOU vs. OKC W 35 15 4 12 33.3 0 4 0.0 7 8 87.5 0 1 1 3 5 1 10 5 9
+p21
+aVChandler Parsons HOU 04/29/2013 HOU vs. OKC W 41 27 11 21 52.4 3 6 50.0 2 3 66.7 2 8 10 8 0 1 3 5 5
+p22
+aVPatrick Beverley HOU 04/29/2013 HOU vs. OKC W 37 16 5 10 50.0 2 4 50.0 4 4 100.0 1 3 4 3 1 1 0 3 6
+p23
+aVAaron Brooks HOU 04/29/2013 HOU vs. OKC W 16 7 3 7 42.9 1 1 100.0 0 0 - 1 2 3 2 0 0 2 0 -4
+p24
+aVFrancisco Garcia HOU 04/29/2013 HOU vs. OKC W 37 9 3 9 33.3 3 7 42.9 0 0 - 1 1 2 1 1 1 1 5 -5
+p25
+aVGreg Smith HOU 04/29/2013 HOU vs. OKC W 10 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 2 0 1 0
+p26
+aVTerrence Jones HOU 04/27/2013 HOU vs. OKC L 17 4 2 3 66.7 0 0 - 0 1 0.0 1 6 7 0 0 0 0 2 10
+p27
+aVPatrick Beverley HOU 04/27/2013 HOU vs. OKC L 22 6 3 10 30.0 0 3 0.0 0 0 - 0 2 2 3 0 1 0 5 9
+p28
+aVOmer Asik HOU 04/27/2013 HOU vs. OKC L 31 5 1 1 100.0 0 0 - 3 4 75.0 1 7 8 0 0 4 0 3 -13
+p29
+aVFrancisco Garcia HOU 04/27/2013 HOU vs. OKC L 32 18 7 13 53.8 4 8 50.0 0 0 - 1 4 5 0 1 3 1 5 14
+p30
+aVJeremy Lin HOU 04/27/2013 HOU vs. OKC L 18 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 -23
+p31
+aVChandler Parsons HOU 04/27/2013 HOU vs. OKC L 44 21 8 12 66.7 3 6 50.0 2 3 66.7 1 6 7 7 1 1 5 3 -5
+p32
+aVAaron Brooks HOU 04/27/2013 HOU vs. OKC L 9 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 2 1 0 0 1 9
+p33
+aVCarlos Delfino HOU 04/27/2013 HOU vs. OKC L 23 11 3 10 30.0 3 8 37.5 2 2 100.0 0 3 3 4 1 1 2 1 -16
+p34
+aVJames Harden HOU 04/27/2013 HOU vs. OKC L 44 30 9 22 40.9 2 8 25.0 10 15 66.7 1 7 8 6 2 2 2 4 0
+p35
+aVGreg Smith HOU 04/24/2013 HOU @ OKC L 14 6 3 3 100.0 0 0 - 0 0 - 4 1 5 0 0 0 1 4 -15
+p36
+aVJeremy Lin HOU 04/24/2013 HOU @ OKC L 20 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 3 0 0 2 2 0
+p37
+aVOmer Asik HOU 04/24/2013 HOU @ OKC L 34 9 3 6 50.0 0 0 - 3 4 75.0 3 11 14 0 1 1 2 4 12
+p38
+aVJames Harden HOU 04/24/2013 HOU @ OKC L 45 36 9 24 37.5 1 7 14.3 17 20 85.0 2 9 11 6 1 0 6 3 -4
+p39
+aVCarlos Delfino HOU 04/24/2013 HOU @ OKC L 36 11 4 13 30.8 3 10 30.0 0 0 - 1 2 3 1 0 0 0 3 -2
+p40
+aVPatrick Beverley HOU 04/24/2013 HOU @ OKC L 41 16 7 13 53.8 2 4 50.0 0 0 - 5 7 12 6 2 1 3 4 4
+p41
+aVChandler Parsons HOU 04/24/2013 HOU @ OKC L 40 17 7 23 30.4 3 10 30.0 0 0 - 3 4 7 0 0 0 1 3 2
+p42
+aVAaron Brooks HOU 04/24/2013 HOU @ OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -7
+p43
+aVFrancisco Garcia HOU 04/24/2013 HOU @ OKC L 6 0 0 1 0.0 0 1 0.0 0 1 0.0 0 1 1 0 0 0 0 0 -5
+p44
+aVCarlos Delfino HOU 04/21/2013 HOU @ OKC L 26 10 4 10 40.0 2 7 28.6 0 0 - 0 2 2 1 0 0 0 2 -13
+p45
+aVFrancisco Garcia HOU 04/21/2013 HOU @ OKC L 12 8 2 4 50.0 2 3 66.7 2 2 100.0 0 1 1 0 0 0 0 2 -6
+p46
+aVOmer Asik HOU 04/21/2013 HOU @ OKC L 27 9 4 9 44.4 0 0 - 1 4 25.0 3 4 7 2 0 0 3 3 -3
+p47
+aVGreg Smith HOU 04/21/2013 HOU @ OKC L 17 6 2 4 50.0 0 0 - 2 4 50.0 1 2 3 0 1 0 3 2 -34
+p48
+aVChandler Parsons HOU 04/21/2013 HOU @ OKC L 25 9 4 11 36.4 1 5 20.0 0 0 - 1 2 3 0 0 0 1 3 -18
+p49
+aVPatrick Beverley HOU 04/21/2013 HOU @ OKC L 28 11 4 10 40.0 2 5 40.0 1 1 100.0 1 3 4 4 2 0 1 4 -18
+p50
+aVAaron Brooks HOU 04/21/2013 HOU @ OKC L 8 5 2 6 33.3 0 2 0.0 1 1 100.0 0 1 1 3 0 0 0 1 2
+p51
+aVJeremy Lin HOU 04/21/2013 HOU @ OKC L 32 4 1 7 14.3 0 4 0.0 2 2 100.0 0 3 3 4 2 0 4 5 -23
+p52
+aVJames Harden HOU 04/21/2013 HOU @ OKC L 34 20 6 19 31.6 1 6 16.7 7 7 100.0 0 6 6 2 1 0 2 3 -28
+p53
+aVDonatas Motiejunas HOU 04/21/2013 HOU @ OKC L 5 5 2 2 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 4
+p54
+aVJames Anderson HOU 04/21/2013 HOU @ OKC L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 4
+p55
+aVTerrence Jones HOU 04/21/2013 HOU @ OKC L 18 4 2 7 28.6 0 2 0.0 0 2 0.0 4 4 8 1 0 1 1 0 -12
+p56
+a.

@@ -1,0 +1,1640 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGreg Kite ORL 04/21/1991 ORL vs. NJN W 28 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 1 1 0 5 -
+p2
+aVDennis Scott ORL 04/21/1991 ORL vs. NJN W 30 24 9 17 52.9 1 4 25.0 5 6 83.3 0 2 2 0 0 1 1 1 -
+p3
+aVJeff Turner ORL 04/21/1991 ORL vs. NJN W 41 21 9 15 60.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 3 -
+p4
+aVJerry Reynolds ORL 04/21/1991 ORL vs. NJN W 31 15 5 13 38.5 0 0 - 5 7 71.4 2 3 5 7 1 0 5 2 -
+p5
+aVMark Acres ORL 04/21/1991 ORL vs. NJN W 25 7 3 5 60.0 0 0 - 1 2 50.0 2 6 8 0 0 0 1 3 -
+p6
+aVNick Anderson ORL 04/21/1991 ORL vs. NJN W 37 26 11 15 73.3 0 0 - 4 4 100.0 3 6 9 1 1 1 2 3 -
+p7
+aVScott Skiles ORL 04/21/1991 ORL vs. NJN W 48 25 5 13 38.5 3 5 60.0 12 12 100.0 0 5 5 18 1 0 2 4 -
+p8
+aVJeff Turner ORL 04/19/1991 ORL vs. WAS W 30 12 4 6 66.7 0 0 - 4 4 100.0 3 2 5 2 0 0 0 0 -
+p9
+aVOtis Smith ORL 04/19/1991 ORL vs. WAS W 32 11 5 15 33.3 0 0 - 1 1 100.0 4 5 9 4 1 3 1 2 -
+p10
+aVScott Skiles ORL 04/19/1991 ORL vs. WAS W 48 32 8 16 50.0 3 6 50.0 13 14 92.9 2 5 7 10 0 0 5 4 -
+p11
+aVGreg Kite ORL 04/19/1991 ORL vs. WAS W 23 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 2 3 4 -
+p12
+aVNick Anderson ORL 04/19/1991 ORL vs. WAS W 21 8 3 7 42.9 0 1 0.0 2 2 100.0 0 2 2 1 0 2 2 3 -
+p13
+aVJerry Reynolds ORL 04/19/1991 ORL vs. WAS W 30 25 9 21 42.9 0 1 0.0 7 8 87.5 4 10 14 4 3 3 2 2 -
+p14
+aVMichael Ansley ORL 04/19/1991 ORL vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p15
+aVDennis Scott ORL 04/19/1991 ORL vs. WAS W 28 13 4 13 30.8 1 4 25.0 4 4 100.0 1 3 4 0 1 0 1 3 -
+p16
+aVMark Acres ORL 04/19/1991 ORL vs. WAS W 23 9 3 7 42.9 0 0 - 3 6 50.0 6 5 11 1 0 0 0 4 -
+p17
+aVOtis Smith ORL 04/17/1991 ORL @ CLE L 36 27 12 22 54.5 0 2 0.0 3 4 75.0 6 3 9 5 1 1 2 1 -
+p18
+aVMorlon Wiley ORL 04/17/1991 ORL @ CLE L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 2 1 0 0 0 -
+p19
+aVScott Skiles ORL 04/17/1991 ORL @ CLE L 47 25 8 16 50.0 4 4 100.0 5 5 100.0 0 8 8 10 3 0 8 5 -
+p20
+aVGreg Kite ORL 04/17/1991 ORL @ CLE L 31 4 1 5 20.0 0 0 - 2 2 100.0 2 4 6 0 0 1 0 4 -
+p21
+aVDennis Scott ORL 04/17/1991 ORL @ CLE L 37 14 6 14 42.9 0 1 0.0 2 4 50.0 0 4 4 2 0 0 3 4 -
+p22
+aVMark Acres ORL 04/17/1991 ORL @ CLE L 29 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 3 0 0 0 4 -
+p23
+aVJeff Turner ORL 04/17/1991 ORL @ CLE L 31 15 7 13 53.8 0 1 0.0 1 1 100.0 1 1 2 2 0 0 1 2 -
+p24
+aVJerry Reynolds ORL 04/17/1991 ORL @ CLE L 23 12 5 10 50.0 0 0 - 2 4 50.0 0 3 3 3 0 0 2 4 -
+p25
+aVJerry Reynolds ORL 04/16/1991 ORL vs. ATL W 26 13 5 15 33.3 0 1 0.0 3 4 75.0 2 2 4 1 1 0 5 1 -
+p26
+aVDennis Scott ORL 04/16/1991 ORL vs. ATL W 28 21 9 16 56.3 2 4 50.0 1 1 100.0 1 4 5 2 0 0 3 4 -
+p27
+aVGreg Kite ORL 04/16/1991 ORL vs. ATL W 45 4 2 7 28.6 0 0 - 0 0 - 3 5 8 1 0 1 1 4 -
+p28
+aVMichael Ansley ORL 04/16/1991 ORL vs. ATL W 5 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p29
+aVJeff Turner ORL 04/16/1991 ORL vs. ATL W 28 18 9 16 56.3 0 0 - 0 0 - 3 4 7 6 0 0 2 5 -
+p30
+aVMorlon Wiley ORL 04/16/1991 ORL vs. ATL W 14 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 1 -
+p31
+aVOtis Smith ORL 04/16/1991 ORL vs. ATL W 38 25 10 15 66.7 0 0 - 5 7 71.4 3 1 4 4 1 1 1 5 -
+p32
+aVMark Acres ORL 04/16/1991 ORL vs. ATL W 14 0 0 0 - 0 0 - 0 0 - 1 3 4 1 1 0 1 6 -
+p33
+aVScott Skiles ORL 04/16/1991 ORL vs. ATL W 42 25 10 13 76.9 2 2 100.0 3 3 100.0 0 9 9 9 1 0 5 2 -
+p34
+aVGreg Kite ORL 04/14/1991 ORL @ POR L 29 9 4 7 57.1 0 0 - 1 2 50.0 1 5 6 0 0 0 0 3 -
+p35
+aVMichael Ansley ORL 04/14/1991 ORL @ POR L 15 6 3 7 42.9 0 0 - 0 0 - 1 4 5 1 0 0 1 2 -
+p36
+aVMorlon Wiley ORL 04/14/1991 ORL @ POR L 24 17 8 16 50.0 0 0 - 1 1 100.0 0 0 0 4 3 0 1 1 -
+p37
+aVOtis Smith ORL 04/14/1991 ORL @ POR L 30 11 5 11 45.5 0 0 - 1 2 50.0 2 1 3 5 2 0 2 3 -
+p38
+aVJerry Reynolds ORL 04/14/1991 ORL @ POR L 17 10 3 9 33.3 0 1 0.0 4 4 100.0 3 2 5 2 0 0 1 1 -
+p39
+aVMark Acres ORL 04/14/1991 ORL @ POR L 35 6 2 5 40.0 0 0 - 2 2 100.0 4 4 8 0 1 1 2 3 -
+p40
+aVScott Skiles ORL 04/14/1991 ORL @ POR L 35 17 7 17 41.2 1 5 20.0 2 2 100.0 0 2 2 9 3 0 4 2 -
+p41
+aVDennis Scott ORL 04/14/1991 ORL @ POR L 30 28 9 19 47.4 4 9 44.4 6 6 100.0 1 0 1 1 1 0 2 4 -
+p42
+aVJeff Turner ORL 04/14/1991 ORL @ POR L 25 15 6 12 50.0 1 2 50.0 2 2 100.0 1 3 4 3 0 0 3 5 -
+p43
+aVJerry Reynolds ORL 04/13/1991 ORL @ SEA L 18 10 3 6 50.0 0 0 - 4 4 100.0 0 1 1 0 0 1 3 1 -
+p44
+aVMorlon Wiley ORL 04/13/1991 ORL @ SEA L 19 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 2 2 -
+p45
+aVOtis Smith ORL 04/13/1991 ORL @ SEA L 38 18 7 13 53.8 0 0 - 4 5 80.0 2 4 6 2 0 0 2 5 -
+p46
+aVMark Acres ORL 04/13/1991 ORL @ SEA L 30 7 2 5 40.0 0 1 0.0 3 4 75.0 3 4 7 1 1 0 2 4 -
+p47
+aVJeff Turner ORL 04/13/1991 ORL @ SEA L 30 12 5 11 45.5 0 0 - 2 3 66.7 2 8 10 1 1 0 3 3 -
+p48
+aVDennis Scott ORL 04/13/1991 ORL @ SEA L 35 24 10 18 55.6 0 3 0.0 4 4 100.0 0 2 2 1 2 0 2 3 -
+p49
+aVScott Skiles ORL 04/13/1991 ORL @ SEA L 39 17 6 12 50.0 3 4 75.0 2 2 100.0 2 0 2 6 0 0 6 1 -
+p50
+aVGreg Kite ORL 04/13/1991 ORL @ SEA L 31 6 2 5 40.0 0 0 - 2 3 66.7 5 8 13 3 1 1 3 4 -
+p51
+aVMark Acres ORL 04/11/1991 ORL @ SAC L 35 11 5 10 50.0 0 0 - 1 1 100.0 4 7 11 0 0 1 1 5 -
+p52
+aVOtis Smith ORL 04/11/1991 ORL @ SAC L 41 12 4 14 28.6 0 0 - 4 4 100.0 0 9 9 4 4 1 5 3 -
+p53
+aVMichael Ansley ORL 04/11/1991 ORL @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p54
+aVJeff Turner ORL 04/11/1991 ORL @ SAC L 41 14 6 13 46.2 0 0 - 2 3 66.7 2 8 10 1 0 2 5 4 -
+p55
+aVGreg Kite ORL 04/11/1991 ORL @ SAC L 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 1 5 -
+p56
+aVScott Skiles ORL 04/11/1991 ORL @ SAC L 41 21 6 14 42.9 1 3 33.3 8 8 100.0 1 3 4 13 1 0 0 3 -
+p57
+aVDennis Scott ORL 04/11/1991 ORL @ SAC L 33 17 7 14 50.0 1 3 33.3 2 4 50.0 1 2 3 0 1 1 2 3 -
+p58
+aVMorlon Wiley ORL 04/11/1991 ORL @ SAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -
+p59
+aVJerry Reynolds ORL 04/11/1991 ORL @ SAC L 26 17 5 9 55.6 0 0 - 7 10 70.0 1 3 4 2 1 2 3 2 -
+p60
+aVJerry Reynolds ORL 04/09/1991 ORL @ LAC W 34 21 8 17 47.1 1 4 25.0 4 6 66.7 1 4 5 4 1 1 5 3 -
+p61
+aVDennis Scott ORL 04/09/1991 ORL @ LAC W 27 4 2 9 22.2 0 1 0.0 0 0 - 1 3 4 1 1 0 3 1 -
+p62
+aVScott Skiles ORL 04/09/1991 ORL @ LAC W 39 31 14 25 56.0 2 2 100.0 1 1 100.0 3 6 9 5 1 0 1 4 -
+p63
+aVGreg Kite ORL 04/09/1991 ORL @ LAC W 15 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 1 0 4 -
+p64
+aVJeff Turner ORL 04/09/1991 ORL @ LAC W 44 19 8 12 66.7 0 0 - 3 3 100.0 3 7 10 2 1 0 4 4 -
+p65
+aVMorlon Wiley ORL 04/09/1991 ORL @ LAC W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 2 3 0 1 0 -
+p66
+aVMark Acres ORL 04/09/1991 ORL @ LAC W 37 8 4 4 100.0 0 0 - 0 0 - 3 7 10 2 0 1 2 5 -
+p67
+aVOtis Smith ORL 04/09/1991 ORL @ LAC W 35 26 9 14 64.3 0 0 - 8 12 66.7 1 1 2 3 0 3 3 2 -
+p68
+aVMark Acres ORL 04/08/1991 ORL @ UTH L 21 4 1 2 50.0 0 0 - 2 4 50.0 1 1 2 0 0 0 1 4 -
+p69
+aVGreg Kite ORL 04/08/1991 ORL @ UTH L 37 8 4 6 66.7 0 0 - 0 0 - 2 7 9 2 1 1 2 5 -
+p70
+aVJerry Reynolds ORL 04/08/1991 ORL @ UTH L 26 12 5 12 41.7 1 2 50.0 1 2 50.0 4 1 5 0 2 0 1 2 -
+p71
+aVDennis Scott ORL 04/08/1991 ORL @ UTH L 35 26 10 18 55.6 1 2 50.0 5 6 83.3 1 4 5 3 2 0 1 6 -
+p72
+aVScott Skiles ORL 04/08/1991 ORL @ UTH L 39 20 7 17 41.2 1 6 16.7 5 6 83.3 2 4 6 5 1 0 7 3 -
+p73
+aVMorlon Wiley ORL 04/08/1991 ORL @ UTH L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -
+p74
+aVJeff Turner ORL 04/08/1991 ORL @ UTH L 30 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 3 6 -
+p75
+aVOtis Smith ORL 04/08/1991 ORL @ UTH L 43 21 7 18 38.9 0 0 - 7 9 77.8 2 3 5 2 2 1 3 2 -
+p76
+aVMark Acres ORL 04/06/1991 ORL vs. BOS W 21 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 1 0 2 1 -
+p77
+aVDennis Scott ORL 04/06/1991 ORL vs. BOS W 28 8 3 11 27.3 2 5 40.0 0 0 - 2 1 3 3 0 0 2 3 -
+p78
+aVOtis Smith ORL 04/06/1991 ORL vs. BOS W 30 18 6 13 46.2 0 1 0.0 6 7 85.7 2 5 7 1 1 1 2 1 -
+p79
+aVMorlon Wiley ORL 04/06/1991 ORL vs. BOS W 8 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 0 -
+p80
+aVJerry Reynolds ORL 04/06/1991 ORL vs. BOS W 38 23 7 16 43.8 2 3 66.7 7 8 87.5 1 2 3 4 1 1 2 3 -
+p81
+aVGreg Kite ORL 04/06/1991 ORL vs. BOS W 43 4 2 6 33.3 0 0 - 0 0 - 5 4 9 1 1 1 0 4 -
+p82
+aVScott Skiles ORL 04/06/1991 ORL vs. BOS W 40 26 11 20 55.0 0 3 0.0 4 5 80.0 1 2 3 8 1 1 2 2 -
+p83
+aVJeff Turner ORL 04/06/1991 ORL vs. BOS W 32 12 5 10 50.0 0 1 0.0 2 2 100.0 0 3 3 1 2 0 0 3 -
+p84
+aVScott Skiles ORL 04/05/1991 ORL vs. POR L 46 20 5 16 31.3 1 4 25.0 9 9 100.0 0 3 3 10 0 0 3 3 -
+p85
+aVJerry Reynolds ORL 04/05/1991 ORL vs. POR L 34 20 4 11 36.4 0 1 0.0 12 16 75.0 1 3 4 6 4 0 5 4 -
+p86
+aVTerry Catledge ORL 04/05/1991 ORL vs. POR L 9 4 2 2 100.0 0 0 - 0 1 0.0 1 0 1 0 1 0 0 0 -
+p87
+aVMark Acres ORL 04/05/1991 ORL vs. POR L 24 4 2 4 50.0 0 0 - 0 0 - 3 7 10 0 0 1 0 3 -
+p88
+aVDennis Scott ORL 04/05/1991 ORL vs. POR L 35 17 6 17 35.3 3 5 60.0 2 6 33.3 1 4 5 2 0 0 2 2 -
+p89
+aVJeff Turner ORL 04/05/1991 ORL vs. POR L 29 8 4 8 50.0 0 0 - 0 0 - 1 6 7 1 0 0 1 6 -
+p90
+aVGreg Kite ORL 04/05/1991 ORL vs. POR L 19 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -
+p91
+aVMorlon Wiley ORL 04/05/1991 ORL vs. POR L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p92
+aVOtis Smith ORL 04/05/1991 ORL vs. POR L 35 17 7 15 46.7 0 1 0.0 3 4 75.0 2 1 3 2 2 0 1 2 -
+p93
+aVGreg Kite ORL 04/02/1991 ORL @ CHI L 26 2 1 1 100.0 0 0 - 0 0 - 0 9 9 0 5 0 4 4 -
+p94
+aVOtis Smith ORL 04/02/1991 ORL @ CHI L 27 16 5 11 45.5 0 0 - 6 7 85.7 4 1 5 0 2 0 2 6 -
+p95
+aVMark Acres ORL 04/02/1991 ORL @ CHI L 20 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 0 0 4 -
+p96
+aVScott Skiles ORL 04/02/1991 ORL @ CHI L 48 25 10 18 55.6 4 7 57.1 1 2 50.0 0 2 2 12 4 0 4 3 -
+p97
+aVDennis Scott ORL 04/02/1991 ORL @ CHI L 22 11 5 12 41.7 1 4 25.0 0 0 - 0 1 1 0 1 0 3 0 -
+p98
+aVNick Anderson ORL 04/02/1991 ORL @ CHI L 42 14 6 8 75.0 0 1 0.0 2 2 100.0 2 3 5 2 1 0 6 3 -
+p99
+aVJerry Reynolds ORL 04/02/1991 ORL @ CHI L 29 18 7 13 53.8 0 0 - 4 4 100.0 1 7 8 4 1 2 5 1 -
+p100
+aVJeff Turner ORL 04/02/1991 ORL @ CHI L 26 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 2 0 0 4 4 -
+p101
+aVGreg Kite ORL 03/30/1991 ORL vs. HOU W 34 7 2 4 50.0 0 0 - 3 5 60.0 1 6 7 0 0 2 3 4 -
+p102
+aVMorlon Wiley ORL 03/30/1991 ORL vs. HOU W 2 6 2 2 100.0 1 1 100.0 1 2 50.0 0 0 0 2 0 0 0 0 -
+p103
+aVMichael Ansley ORL 03/30/1991 ORL vs. HOU W 4 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -
+p104
+aVDennis Scott ORL 03/30/1991 ORL vs. HOU W 17 10 5 10 50.0 0 2 0.0 0 0 - 1 0 1 1 0 0 3 1 -
+p105
+aVJerry Reynolds ORL 03/30/1991 ORL vs. HOU W 31 18 8 13 61.5 0 0 - 2 2 100.0 2 4 6 2 1 0 2 2 -
+p106
+aVMark Acres ORL 03/30/1991 ORL vs. HOU W 21 8 2 2 100.0 0 0 - 4 4 100.0 1 3 4 0 0 0 1 6 -
+p107
+aVOtis Smith ORL 03/30/1991 ORL vs. HOU W 20 13 4 5 80.0 0 0 - 5 10 50.0 0 2 2 5 1 0 0 1 -
+p108
+aVScott Skiles ORL 03/30/1991 ORL vs. HOU W 46 25 7 14 50.0 2 4 50.0 9 9 100.0 1 3 4 14 0 0 5 4 -
+p109
+aVNick Anderson ORL 03/30/1991 ORL vs. HOU W 34 9 3 10 30.0 2 3 66.7 1 2 50.0 2 12 14 2 0 1 1 2 -
+p110
+aVJeff Turner ORL 03/30/1991 ORL vs. HOU W 31 14 7 13 53.8 0 0 - 0 0 - 2 10 12 4 0 1 3 5 -
+p111
+aVMorlon Wiley ORL 03/28/1991 ORL @ SAN L 19 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 1 -
+p112
+aVNick Anderson ORL 03/28/1991 ORL @ SAN L 34 15 6 17 35.3 0 0 - 3 4 75.0 1 5 6 1 2 1 0 1 -
+p113
+aVJeff Turner ORL 03/28/1991 ORL @ SAN L 26 7 3 7 42.9 0 0 - 1 2 50.0 3 3 6 0 2 0 3 5 -
+p114
+aVGreg Kite ORL 03/28/1991 ORL @ SAN L 25 3 0 2 0.0 0 0 - 3 4 75.0 0 5 5 0 0 1 1 5 -
+p115
+aVMark Acres ORL 03/28/1991 ORL @ SAN L 23 6 2 4 50.0 0 0 - 2 2 100.0 4 2 6 1 1 0 1 5 -
+p116
+aVDennis Scott ORL 03/28/1991 ORL @ SAN L 30 9 4 12 33.3 1 4 25.0 0 2 0.0 0 2 2 2 3 0 1 1 -
+p117
+aVScott Skiles ORL 03/28/1991 ORL @ SAN L 29 21 5 13 38.5 2 3 66.7 9 10 90.0 0 0 0 4 1 0 5 2 -
+p118
+aVJerry Reynolds ORL 03/28/1991 ORL @ SAN L 34 15 6 13 46.2 0 0 - 3 4 75.0 2 6 8 5 1 0 2 2 -
+p119
+aVOtis Smith ORL 03/28/1991 ORL @ SAN L 20 14 6 13 46.2 0 1 0.0 2 2 100.0 5 2 7 1 2 0 2 1 -
+p120
+aVJerry Reynolds ORL 03/27/1991 ORL @ DAL W 23 20 4 7 57.1 0 0 - 12 16 75.0 0 4 4 1 1 1 3 3 -
+p121
+aVMorlon Wiley ORL 03/27/1991 ORL @ DAL W 16 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 2 1 0 0 2 -
+p122
+aVDennis Scott ORL 03/27/1991 ORL @ DAL W 35 6 2 10 20.0 0 3 0.0 2 6 33.3 0 0 0 1 0 0 1 2 -
+p123
+aVMark Acres ORL 03/27/1991 ORL @ DAL W 22 4 2 3 66.7 0 0 - 0 0 - 3 6 9 0 1 0 1 2 -
+p124
+aVGreg Kite ORL 03/27/1991 ORL @ DAL W 32 7 3 7 42.9 0 0 - 1 4 25.0 4 12 16 0 1 1 0 4 -
+p125
+aVNick Anderson ORL 03/27/1991 ORL @ DAL W 29 14 7 13 53.8 0 0 - 0 0 - 0 1 1 1 1 0 3 1 -
+p126
+aVOtis Smith ORL 03/27/1991 ORL @ DAL W 20 13 5 10 50.0 0 0 - 3 5 60.0 2 4 6 2 2 0 0 2 -
+p127
+aVScott Skiles ORL 03/27/1991 ORL @ DAL W 33 18 6 11 54.5 0 1 0.0 6 6 100.0 0 5 5 8 1 0 2 4 -
+p128
+aVJeff Turner ORL 03/27/1991 ORL @ DAL W 28 10 4 9 44.4 0 0 - 2 4 50.0 3 4 7 2 1 0 1 2 -
+p129
+aVMichael Ansley ORL 03/27/1991 ORL @ DAL W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p130
+aVOtis Smith ORL 03/25/1991 ORL vs. GOS W 22 16 5 7 71.4 0 0 - 6 7 85.7 1 2 3 1 0 1 3 4 -
+p131
+aVMark Acres ORL 03/25/1991 ORL vs. GOS W 10 3 1 1 100.0 0 0 - 1 1 100.0 0 3 3 0 0 0 1 3 -
+p132
+aVScott Skiles ORL 03/25/1991 ORL vs. GOS W 48 31 9 19 47.4 4 9 44.4 9 11 81.8 0 5 5 14 4 0 4 3 -
+p133
+aVDennis Scott ORL 03/25/1991 ORL vs. GOS W 41 25 11 22 50.0 2 5 40.0 1 1 100.0 2 5 7 2 1 1 1 1 -
+p134
+aVJeff Turner ORL 03/25/1991 ORL vs. GOS W 18 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 0 5 5 -
+p135
+aVMichael Ansley ORL 03/25/1991 ORL vs. GOS W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p136
+aVJerry Reynolds ORL 03/25/1991 ORL vs. GOS W 38 23 9 17 52.9 0 1 0.0 5 5 100.0 5 4 9 9 3 1 5 4 -
+p137
+aVNick Anderson ORL 03/25/1991 ORL vs. GOS W 32 10 4 8 50.0 0 0 - 2 5 40.0 1 3 4 2 0 0 2 0 -
+p138
+aVGreg Kite ORL 03/25/1991 ORL vs. GOS W 23 5 2 4 50.0 0 0 - 1 2 50.0 3 4 7 0 1 3 2 4 -
+p139
+aVJeff Turner ORL 03/23/1991 ORL vs. DAL W 31 8 3 9 33.3 0 0 - 2 3 66.7 3 2 5 2 0 0 3 2 -
+p140
+aVMark Acres ORL 03/23/1991 ORL vs. DAL W 19 2 1 1 100.0 0 0 - 0 0 - 3 3 6 0 0 0 0 3 -
+p141
+aVDennis Scott ORL 03/23/1991 ORL vs. DAL W 26 16 7 15 46.7 1 3 33.3 1 1 100.0 0 4 4 2 2 0 0 3 -
+p142
+aVJerry Reynolds ORL 03/23/1991 ORL vs. DAL W 25 26 7 10 70.0 0 0 - 12 14 85.7 0 7 7 5 2 1 1 0 -
+p143
+aVOtis Smith ORL 03/23/1991 ORL vs. DAL W 16 12 5 11 45.5 0 0 - 2 4 50.0 0 2 2 1 3 1 2 2 -
+p144
+aVScott Skiles ORL 03/23/1991 ORL vs. DAL W 37 22 8 14 57.1 1 2 50.0 5 5 100.0 0 2 2 7 0 0 3 1 -
+p145
+aVMorlon Wiley ORL 03/23/1991 ORL vs. DAL W 11 1 0 4 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 3 1 -
+p146
+aVGreg Kite ORL 03/23/1991 ORL vs. DAL W 34 6 3 10 30.0 0 0 - 0 0 - 3 4 7 2 0 1 0 3 -
+p147
+aVMichael Ansley ORL 03/23/1991 ORL vs. DAL W 9 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 1 3 -
+p148
+aVNick Anderson ORL 03/23/1991 ORL vs. DAL W 32 10 5 12 41.7 0 0 - 0 0 - 3 7 10 0 2 0 2 3 -
+p149
+aVNick Anderson ORL 03/21/1991 ORL vs. SAN W 43 27 12 20 60.0 0 0 - 3 6 50.0 0 7 7 2 1 1 1 3 -
+p150
+aVDennis Scott ORL 03/21/1991 ORL vs. SAN W 28 17 6 14 42.9 1 6 16.7 4 6 66.7 2 3 5 1 1 0 1 3 -
+p151
+aVMorlon Wiley ORL 03/21/1991 ORL vs. SAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p152
+aVJeff Turner ORL 03/21/1991 ORL vs. SAN W 35 11 4 10 40.0 0 1 0.0 3 4 75.0 2 4 6 1 2 0 1 3 -
+p153
+aVJerry Reynolds ORL 03/21/1991 ORL vs. SAN W 26 22 7 10 70.0 1 2 50.0 7 8 87.5 0 2 2 3 4 2 2 3 -
+p154
+aVGreg Kite ORL 03/21/1991 ORL vs. SAN W 33 3 1 2 50.0 0 0 - 1 2 50.0 1 6 7 2 0 1 0 5 -
+p155
+aVMark Acres ORL 03/21/1991 ORL vs. SAN W 14 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -
+p156
+aVMichael Ansley ORL 03/21/1991 ORL vs. SAN W 13 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p157
+aVScott Skiles ORL 03/21/1991 ORL vs. SAN W 44 21 7 18 38.9 1 3 33.3 6 6 100.0 0 2 2 9 0 0 7 2 -
+p158
+aVJeff Turner ORL 03/18/1991 ORL @ PHL L 39 19 7 13 53.8 3 3 100.0 2 2 100.0 2 9 11 1 0 0 1 4 -
+p159
+aVSam Vincent ORL 03/18/1991 ORL @ PHL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p160
+aVTerry Catledge ORL 03/18/1991 ORL @ PHL L 9 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 0 -
+p161
+aVJerry Reynolds ORL 03/18/1991 ORL @ PHL L 20 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 2 1 3 0 -
+p162
+aVDennis Scott ORL 03/18/1991 ORL @ PHL L 41 22 8 33 24.2 0 7 0.0 6 8 75.0 2 4 6 5 2 0 5 3 -
+p163
+aVMorlon Wiley ORL 03/18/1991 ORL @ PHL L 26 8 4 5 80.0 0 0 - 0 0 - 0 3 3 2 5 0 1 6 -
+p164
+aVMichael Ansley ORL 03/18/1991 ORL @ PHL L 10 7 2 4 50.0 0 0 - 3 4 75.0 2 1 3 1 1 0 1 1 -
+p165
+aVGreg Kite ORL 03/18/1991 ORL @ PHL L 25 2 1 3 33.3 0 0 - 0 4 0.0 4 4 8 1 0 0 1 1 -
+p166
+aVMark Acres ORL 03/18/1991 ORL @ PHL L 19 10 4 5 80.0 0 0 - 2 2 100.0 1 4 5 0 1 1 1 4 -
+p167
+aVScott Skiles ORL 03/18/1991 ORL @ PHL L 46 20 9 19 47.4 2 4 50.0 0 0 - 1 1 2 9 2 0 2 5 -
+p168
+aVScott Skiles ORL 03/16/1991 ORL @ DET L 40 21 9 18 50.0 0 5 0.0 3 3 100.0 2 2 4 5 2 0 4 3 -
+p169
+aVNick Anderson ORL 03/16/1991 ORL @ DET L 36 22 8 13 61.5 0 0 - 6 8 75.0 2 2 4 0 1 1 3 3 -
+p170
+aVMark Acres ORL 03/16/1991 ORL @ DET L 17 5 2 4 50.0 0 0 - 1 3 33.3 2 3 5 0 1 1 0 1 -
+p171
+aVMichael Ansley ORL 03/16/1991 ORL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p172
+aVJerry Reynolds ORL 03/16/1991 ORL @ DET L 18 5 1 5 20.0 0 0 - 3 4 75.0 0 1 1 2 0 0 2 3 -
+p173
+aVJeff Turner ORL 03/16/1991 ORL @ DET L 36 18 6 17 35.3 0 1 0.0 6 7 85.7 7 6 13 1 0 0 2 4 -
+p174
+aVGreg Kite ORL 03/16/1991 ORL @ DET L 21 0 0 0 - 0 0 - 0 2 0.0 1 4 5 1 0 0 1 3 -
+p175
+aVTerry Catledge ORL 03/16/1991 ORL @ DET L 19 12 5 6 83.3 0 0 - 2 2 100.0 3 2 5 0 0 0 2 2 -
+p176
+aVSam Vincent ORL 03/16/1991 ORL @ DET L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p177
+aVDennis Scott ORL 03/16/1991 ORL @ DET L 43 14 7 21 33.3 0 4 0.0 0 1 0.0 0 6 6 1 0 0 1 4 -
+p178
+aVMorlon Wiley ORL 03/14/1991 ORL @ HOU L 10 7 2 3 66.7 1 1 100.0 2 2 100.0 1 0 1 5 0 0 3 1 -
+p179
+aVJeff Turner ORL 03/14/1991 ORL @ HOU L 21 8 4 8 50.0 0 0 - 0 0 - 0 4 4 2 0 0 1 4 -
+p180
+aVSam Vincent ORL 03/14/1991 ORL @ HOU L 18 8 4 11 36.4 0 0 - 0 0 - 1 2 3 3 0 0 3 0 -
+p181
+aVMark Acres ORL 03/14/1991 ORL @ HOU L 21 4 2 3 66.7 0 0 - 0 0 - 3 6 9 0 0 0 0 4 -
+p182
+aVOtis Smith ORL 03/14/1991 ORL @ HOU L 16 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p183
+aVDennis Scott ORL 03/14/1991 ORL @ HOU L 30 15 7 18 38.9 0 3 0.0 1 1 100.0 2 2 4 2 1 0 1 2 -
+p184
+aVScott Skiles ORL 03/14/1991 ORL @ HOU L 20 4 1 10 10.0 0 2 0.0 2 2 100.0 0 2 2 7 0 0 0 0 -
+p185
+aVTerry Catledge ORL 03/14/1991 ORL @ HOU L 22 13 5 9 55.6 0 0 - 3 4 75.0 5 4 9 1 1 0 2 0 -
+p186
+aVMichael Ansley ORL 03/14/1991 ORL @ HOU L 8 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 1 1 1 0 0 -
+p187
+aVNick Anderson ORL 03/14/1991 ORL @ HOU L 23 9 4 12 33.3 0 1 0.0 1 2 50.0 0 6 6 0 0 0 0 1 -
+p188
+aVGreg Kite ORL 03/14/1991 ORL @ HOU L 32 10 4 8 50.0 0 0 - 2 2 100.0 6 8 14 1 0 3 2 2 -
+p189
+aVJerry Reynolds ORL 03/14/1991 ORL @ HOU L 19 11 3 8 37.5 0 0 - 5 6 83.3 1 0 1 4 1 0 2 0 -
+p190
+aVMichael Ansley ORL 03/10/1991 ORL vs. LAL L 23 11 5 6 83.3 0 0 - 1 1 100.0 3 4 7 0 0 0 3 2 -
+p191
+aVOtis Smith ORL 03/10/1991 ORL vs. LAL L 24 12 4 13 30.8 1 1 100.0 3 4 75.0 0 4 4 1 1 0 0 2 -
+p192
+aVJerry Reynolds ORL 03/10/1991 ORL vs. LAL L 9 5 2 6 33.3 1 1 100.0 0 2 0.0 2 1 3 1 1 0 1 0 -
+p193
+aVGreg Kite ORL 03/10/1991 ORL vs. LAL L 34 5 2 4 50.0 0 0 - 1 3 33.3 4 8 12 3 0 1 2 5 -
+p194
+aVScott Skiles ORL 03/10/1991 ORL vs. LAL L 40 20 7 19 36.8 2 6 33.3 4 5 80.0 0 1 1 7 2 0 6 2 -
+p195
+aVNick Anderson ORL 03/10/1991 ORL vs. LAL L 25 14 7 14 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -
+p196
+aVSam Vincent ORL 03/10/1991 ORL vs. LAL L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p197
+aVDennis Scott ORL 03/10/1991 ORL vs. LAL L 39 34 14 25 56.0 1 3 33.3 5 7 71.4 2 1 3 5 1 1 3 4 -
+p198
+aVJeff Turner ORL 03/10/1991 ORL vs. LAL L 17 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -
+p199
+aVMark Acres ORL 03/10/1991 ORL vs. LAL L 21 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -
+p200
+aVNick Anderson ORL 03/08/1991 ORL vs. DEN W 27 14 5 13 38.5 0 0 - 4 6 66.7 4 7 11 3 0 2 1 4 -
+p201
+aVMichael Ansley ORL 03/08/1991 ORL vs. DEN W 14 13 4 6 66.7 0 0 - 5 6 83.3 2 3 5 0 0 0 0 1 -
+p202
+aVMark Acres ORL 03/08/1991 ORL vs. DEN W 16 1 0 0 - 0 0 - 1 2 50.0 0 6 6 0 0 1 2 3 -
+p203
+aVOtis Smith ORL 03/08/1991 ORL vs. DEN W 20 2 1 10 10.0 0 0 - 0 0 - 1 7 8 1 1 1 0 3 -
+p204
+aVDennis Scott ORL 03/08/1991 ORL vs. DEN W 32 40 16 22 72.7 4 5 80.0 4 4 100.0 0 3 3 3 0 1 3 3 -
+p205
+aVJerry Reynolds ORL 03/08/1991 ORL vs. DEN W 16 13 3 7 42.9 0 0 - 7 8 87.5 2 1 3 1 0 0 1 1 -
+p206
+aVScott Skiles ORL 03/08/1991 ORL vs. DEN W 44 20 8 16 50.0 2 3 66.7 2 2 100.0 2 5 7 20 0 0 3 3 -
+p207
+aVGreg Kite ORL 03/08/1991 ORL vs. DEN W 32 4 2 2 100.0 0 0 - 0 0 - 0 6 6 0 0 1 2 5 -
+p208
+aVMorlon Wiley ORL 03/08/1991 ORL vs. DEN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p209
+aVSam Vincent ORL 03/08/1991 ORL vs. DEN W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p210
+aVJeff Turner ORL 03/08/1991 ORL vs. DEN W 34 20 10 18 55.6 0 0 - 0 0 - 0 7 7 5 0 0 3 4 -
+p211
+aVMark Acres ORL 03/06/1991 ORL vs. LAC W 16 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -
+p212
+aVJeff Turner ORL 03/06/1991 ORL vs. LAC W 38 12 6 8 75.0 0 0 - 0 0 - 2 4 6 3 0 1 3 4 -
+p213
+aVNick Anderson ORL 03/06/1991 ORL vs. LAC W 27 16 5 11 45.5 0 1 0.0 6 8 75.0 2 7 9 0 0 2 2 0 -
+p214
+aVJerry Reynolds ORL 03/06/1991 ORL vs. LAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -
+p215
+aVOtis Smith ORL 03/06/1991 ORL vs. LAC W 26 13 5 12 41.7 0 0 - 3 6 50.0 1 4 5 1 3 0 1 3 -
+p216
+aVScott Skiles ORL 03/06/1991 ORL vs. LAC W 48 17 5 17 29.4 1 3 33.3 6 6 100.0 1 5 6 14 5 0 5 2 -
+p217
+aVTerry Catledge ORL 03/06/1991 ORL vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p218
+aVMichael Ansley ORL 03/06/1991 ORL vs. LAC W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p219
+aVGreg Kite ORL 03/06/1991 ORL vs. LAC W 30 10 4 7 57.1 0 0 - 2 4 50.0 5 8 13 0 1 0 1 2 -
+p220
+aVDennis Scott ORL 03/06/1991 ORL vs. LAC W 38 18 7 19 36.8 0 3 0.0 4 6 66.7 0 4 4 4 1 0 3 4 -
+p221
+aVJerry Reynolds ORL 03/04/1991 ORL vs. UTH L 18 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p222
+aVJeff Turner ORL 03/04/1991 ORL vs. UTH L 32 2 1 6 16.7 0 0 - 0 0 - 1 4 5 5 0 0 3 3 -
+p223
+aVMichael Ansley ORL 03/04/1991 ORL vs. UTH L 16 10 4 11 36.4 0 0 - 2 3 66.7 5 1 6 0 0 0 1 2 -
+p224
+aVNick Anderson ORL 03/04/1991 ORL vs. UTH L 12 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p225
+aVOtis Smith ORL 03/04/1991 ORL vs. UTH L 31 11 5 10 50.0 0 1 0.0 1 2 50.0 2 0 2 3 0 0 2 4 -
+p226
+aVScott Skiles ORL 03/04/1991 ORL vs. UTH L 33 5 2 8 25.0 0 0 - 1 1 100.0 1 1 2 8 1 0 2 1 -
+p227
+aVSam Vincent ORL 03/04/1991 ORL vs. UTH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p228
+aVDennis Scott ORL 03/04/1991 ORL vs. UTH L 35 28 11 23 47.8 0 5 0.0 6 6 100.0 1 2 3 2 1 0 1 3 -
+p229
+aVMark Acres ORL 03/04/1991 ORL vs. UTH L 17 9 3 4 75.0 1 1 100.0 2 2 100.0 0 3 3 0 0 0 1 4 -
+p230
+aVMorlon Wiley ORL 03/04/1991 ORL vs. UTH L 10 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 1 0 0 3 -
+p231
+aVGreg Kite ORL 03/04/1991 ORL vs. UTH L 31 10 4 7 57.1 0 0 - 2 2 100.0 2 8 10 0 1 1 0 2 -
+p232
+aVJeff Turner ORL 03/02/1991 ORL @ DEN L 25 12 4 9 44.4 0 0 - 4 4 100.0 1 2 3 0 1 0 2 6 -
+p233
+aVGreg Kite ORL 03/02/1991 ORL @ DEN L 16 2 0 3 0.0 0 0 - 2 2 100.0 4 3 7 0 0 1 1 3 -
+p234
+aVMichael Ansley ORL 03/02/1991 ORL @ DEN L 8 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -
+p235
+aVTerry Catledge ORL 03/02/1991 ORL @ DEN L 10 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 3 0 -
+p236
+aVSam Vincent ORL 03/02/1991 ORL @ DEN L 10 9 1 4 25.0 0 0 - 7 8 87.5 0 2 2 4 0 0 1 3 -
+p237
+aVScott Skiles ORL 03/02/1991 ORL @ DEN L 41 24 7 15 46.7 1 2 50.0 9 9 100.0 0 1 1 7 0 1 4 1 -
+p238
+aVMark Acres ORL 03/02/1991 ORL @ DEN L 27 4 1 6 16.7 0 0 - 2 2 100.0 1 9 10 0 0 0 0 4 -
+p239
+aVNick Anderson ORL 03/02/1991 ORL @ DEN L 21 7 3 7 42.9 0 0 - 1 2 50.0 1 6 7 1 1 0 0 0 -
+p240
+aVJerry Reynolds ORL 03/02/1991 ORL @ DEN L 26 16 3 8 37.5 1 1 100.0 9 14 64.3 0 6 6 1 0 1 3 1 -
+p241
+aVOtis Smith ORL 03/02/1991 ORL @ DEN L 24 12 3 15 20.0 0 0 - 6 8 75.0 5 4 9 0 2 0 2 5 -
+p242
+aVDennis Scott ORL 03/02/1991 ORL @ DEN L 32 18 7 21 33.3 2 6 33.3 2 2 100.0 0 2 2 1 1 0 1 0 -
+p243
+aVGreg Kite ORL 03/01/1991 ORL @ LAL L 20 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 2 3 -
+p244
+aVJeff Turner ORL 03/01/1991 ORL @ LAL L 39 13 6 11 54.5 0 0 - 1 2 50.0 1 6 7 6 0 0 0 4 -
+p245
+aVMark Acres ORL 03/01/1991 ORL @ LAL L 31 4 2 7 28.6 0 0 - 0 1 0.0 6 6 12 0 0 2 3 4 -
+p246
+aVJerry Reynolds ORL 03/01/1991 ORL @ LAL L 17 16 4 10 40.0 0 0 - 8 8 100.0 1 3 4 2 0 1 2 1 -
+p247
+aVMichael Ansley ORL 03/01/1991 ORL @ LAL L 6 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 -
+p248
+aVMorlon Wiley ORL 03/01/1991 ORL @ LAL L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p249
+aVDennis Scott ORL 03/01/1991 ORL @ LAL L 34 19 9 14 64.3 1 1 100.0 0 0 - 0 3 3 2 1 0 2 4 -
+p250
+aVOtis Smith ORL 03/01/1991 ORL @ LAL L 25 15 6 13 46.2 0 0 - 3 4 75.0 2 3 5 2 0 0 3 2 -
+p251
+aVSam Vincent ORL 03/01/1991 ORL @ LAL L 15 6 2 4 50.0 0 1 0.0 2 3 66.7 0 2 2 5 1 0 2 1 -
+p252
+aVScott Skiles ORL 03/01/1991 ORL @ LAL L 29 14 6 14 42.9 1 1 100.0 1 2 50.0 1 4 5 9 2 0 2 1 -
+p253
+aVNick Anderson ORL 03/01/1991 ORL @ LAL L 20 6 2 6 33.3 0 0 - 2 3 66.7 3 1 4 0 0 0 0 2 -
+p254
+aVGreg Kite ORL 02/27/1991 ORL @ PHX W 31 7 2 6 33.3 0 0 - 3 4 75.0 6 9 15 1 1 1 1 3 -
+p255
+aVSam Vincent ORL 02/27/1991 ORL @ PHX W 16 12 5 7 71.4 0 0 - 2 2 100.0 0 1 1 5 1 0 3 2 -
+p256
+aVMichael Ansley ORL 02/27/1991 ORL @ PHX W 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p257
+aVScott Skiles ORL 02/27/1991 ORL @ PHX W 32 22 7 14 50.0 4 4 100.0 4 6 66.7 0 2 2 11 2 0 2 3 -
+p258
+aVMark Acres ORL 02/27/1991 ORL @ PHX W 23 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 1 2 1 4 -
+p259
+aVDennis Scott ORL 02/27/1991 ORL @ PHX W 41 17 6 14 42.9 1 4 25.0 4 6 66.7 0 1 1 1 1 2 1 2 -
+p260
+aVNick Anderson ORL 02/27/1991 ORL @ PHX W 32 16 7 11 63.6 0 0 - 2 5 40.0 1 8 9 5 0 0 0 3 -
+p261
+aVJerry Reynolds ORL 02/27/1991 ORL @ PHX W 17 15 4 11 36.4 0 0 - 7 10 70.0 2 0 2 2 0 0 2 1 -
+p262
+aVJeff Turner ORL 02/27/1991 ORL @ PHX W 22 11 5 10 50.0 0 0 - 1 2 50.0 4 2 6 1 0 0 2 5 -
+p263
+aVOtis Smith ORL 02/27/1991 ORL @ PHX W 17 15 7 10 70.0 0 1 0.0 1 1 100.0 0 1 1 4 2 0 1 3 -
+p264
+aVJerry Reynolds ORL 02/26/1991 ORL @ GOS W 22 15 3 10 30.0 0 0 - 9 11 81.8 2 2 4 4 1 0 0 1 -
+p265
+aVOtis Smith ORL 02/26/1991 ORL @ GOS W 28 7 2 11 18.2 0 1 0.0 3 4 75.0 1 9 10 3 2 0 3 3 -
+p266
+aVDennis Scott ORL 02/26/1991 ORL @ GOS W 46 35 12 19 63.2 4 8 50.0 7 9 77.8 0 2 2 1 2 1 2 5 -
+p267
+aVJeff Turner ORL 02/26/1991 ORL @ GOS W 40 28 10 13 76.9 0 0 - 8 9 88.9 2 2 4 2 0 0 6 4 -
+p268
+aVSam Vincent ORL 02/26/1991 ORL @ GOS W 16 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 1 0 -
+p269
+aVNick Anderson ORL 02/26/1991 ORL @ GOS W 20 9 4 7 57.1 0 0 - 1 2 50.0 2 5 7 1 1 0 0 4 -
+p270
+aVMark Acres ORL 02/26/1991 ORL @ GOS W 12 2 1 1 100.0 0 0 - 0 0 - 2 5 7 0 0 1 0 3 -
+p271
+aVGreg Kite ORL 02/26/1991 ORL @ GOS W 24 7 2 4 50.0 0 0 - 3 6 50.0 3 3 6 1 0 3 1 5 -
+p272
+aVScott Skiles ORL 02/26/1991 ORL @ GOS W 32 20 6 12 50.0 0 1 0.0 8 8 100.0 1 5 6 10 1 0 4 4 -
+p273
+aVJerry Reynolds ORL 02/24/1991 ORL vs. SAC W 31 23 5 13 38.5 0 1 0.0 13 17 76.5 2 6 8 2 0 1 1 4 -
+p274
+aVNick Anderson ORL 02/24/1991 ORL vs. SAC W 27 20 9 14 64.3 0 1 0.0 2 3 66.7 0 10 10 0 2 0 1 1 -
+p275
+aVMichael Ansley ORL 02/24/1991 ORL vs. SAC W 19 15 6 8 75.0 0 0 - 3 3 100.0 1 1 2 0 2 0 0 1 -
+p276
+aVOtis Smith ORL 02/24/1991 ORL vs. SAC W 21 16 7 13 53.8 0 1 0.0 2 2 100.0 2 3 5 1 0 2 2 0 -
+p277
+aVJeff Turner ORL 02/24/1991 ORL vs. SAC W 23 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 0 2 3 -
+p278
+aVGreg Kite ORL 02/24/1991 ORL vs. SAC W 31 7 3 5 60.0 0 0 - 1 1 100.0 2 3 5 0 0 1 1 4 -
+p279
+aVDennis Scott ORL 02/24/1991 ORL vs. SAC W 17 9 4 9 44.4 1 2 50.0 0 0 - 0 1 1 4 2 0 0 1 -
+p280
+aVMorlon Wiley ORL 02/24/1991 ORL vs. SAC W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p281
+aVMark Acres ORL 02/24/1991 ORL vs. SAC W 23 6 2 5 40.0 0 0 - 2 2 100.0 5 3 8 0 0 1 0 4 -
+p282
+aVScott Skiles ORL 02/24/1991 ORL vs. SAC W 35 16 7 14 50.0 0 3 0.0 2 3 66.7 0 3 3 10 2 0 3 2 -
+p283
+aVSam Vincent ORL 02/24/1991 ORL vs. SAC W 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 4 0 0 1 1 -
+p284
+aVJerry Reynolds ORL 02/22/1991 ORL @ MIN W 30 14 6 10 60.0 0 0 - 2 4 50.0 0 4 4 2 3 3 3 2 -
+p285
+aVMichael Ansley ORL 02/22/1991 ORL @ MIN W 20 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 0 0 0 0 2 -
+p286
+aVMark Acres ORL 02/22/1991 ORL @ MIN W 21 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 -
+p287
+aVScott Skiles ORL 02/22/1991 ORL @ MIN W 41 25 8 17 47.1 0 2 0.0 9 9 100.0 0 4 4 14 1 0 2 1 -
+p288
+aVSam Vincent ORL 02/22/1991 ORL @ MIN W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 3 0 0 1 2 -
+p289
+aVDennis Scott ORL 02/22/1991 ORL @ MIN W 18 13 6 16 37.5 1 3 33.3 0 0 - 2 1 3 3 0 1 1 1 -
+p290
+aVJeff Turner ORL 02/22/1991 ORL @ MIN W 28 14 7 10 70.0 0 0 - 0 0 - 4 6 10 4 0 0 2 4 -
+p291
+aVOtis Smith ORL 02/22/1991 ORL @ MIN W 27 14 6 13 46.2 0 0 - 2 2 100.0 1 3 4 3 1 0 0 2 -
+p292
+aVNick Anderson ORL 02/22/1991 ORL @ MIN W 21 11 5 8 62.5 0 0 - 1 2 50.0 0 3 3 0 0 1 0 2 -
+p293
+aVGreg Kite ORL 02/22/1991 ORL @ MIN W 27 4 2 4 50.0 0 0 - 0 5 0.0 3 2 5 0 0 2 0 4 -
+p294
+aVSam Vincent ORL 02/20/1991 ORL @ IND L 30 7 3 9 33.3 0 0 - 1 2 50.0 0 6 6 8 1 0 1 1 -
+p295
+aVNick Anderson ORL 02/20/1991 ORL @ IND L 27 25 10 18 55.6 0 1 0.0 5 8 62.5 3 2 5 1 1 0 1 3 -
+p296
+aVDennis Scott ORL 02/20/1991 ORL @ IND L 32 24 10 16 62.5 0 1 0.0 4 4 100.0 2 7 9 4 0 0 5 3 -
+p297
+aVJeff Turner ORL 02/20/1991 ORL @ IND L 17 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 2 -
+p298
+aVMark Acres ORL 02/20/1991 ORL @ IND L 33 6 3 5 60.0 0 0 - 0 0 - 4 5 9 1 0 0 1 3 -
+p299
+aVOtis Smith ORL 02/20/1991 ORL @ IND L 26 15 6 9 66.7 1 1 100.0 2 4 50.0 0 1 1 0 1 0 3 5 -
+p300
+aVTerry Catledge ORL 02/20/1991 ORL @ IND L 36 8 4 12 33.3 0 0 - 0 1 0.0 5 4 9 2 2 0 0 4 -
+p301
+aVJerry Reynolds ORL 02/20/1991 ORL @ IND L 22 18 7 14 50.0 0 0 - 4 4 100.0 1 0 1 1 2 1 3 2 -
+p302
+aVScott Skiles ORL 02/20/1991 ORL @ IND L 23 7 3 10 30.0 0 2 0.0 1 1 100.0 0 0 0 4 0 0 4 1 -
+p303
+aVGreg Kite ORL 02/20/1991 ORL @ IND L 19 6 2 4 50.0 0 0 - 2 2 100.0 3 4 7 0 0 2 1 3 -
+p304
+aVJeff Turner ORL 02/17/1991 ORL vs. MIL L 21 4 2 7 28.6 0 0 - 0 0 - 0 3 3 4 0 0 3 5 -
+p305
+aVMichael Ansley ORL 02/17/1991 ORL vs. MIL L 13 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -
+p306
+aVJerry Reynolds ORL 02/17/1991 ORL vs. MIL L 30 17 5 14 35.7 0 0 - 7 8 87.5 1 2 3 1 0 1 2 5 -
+p307
+aVSam Vincent ORL 02/17/1991 ORL vs. MIL L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p308
+aVOtis Smith ORL 02/17/1991 ORL vs. MIL L 34 20 9 22 40.9 0 2 0.0 2 2 100.0 3 5 8 1 1 2 4 3 -
+p309
+aVGreg Kite ORL 02/17/1991 ORL vs. MIL L 8 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -
+p310
+aVMark Acres ORL 02/17/1991 ORL vs. MIL L 24 5 2 7 28.6 0 0 - 1 2 50.0 8 9 17 1 0 0 2 5 -
+p311
+aVScott Skiles ORL 02/17/1991 ORL vs. MIL L 45 20 7 11 63.6 1 3 33.3 5 5 100.0 2 1 3 10 0 0 5 6 -
+p312
+aVTerry Catledge ORL 02/17/1991 ORL vs. MIL L 36 14 7 14 50.0 0 0 - 0 1 0.0 5 7 12 3 3 0 2 3 -
+p313
+aVDennis Scott ORL 02/17/1991 ORL vs. MIL L 26 11 4 10 40.0 0 2 0.0 3 4 75.0 2 3 5 2 2 1 2 3 -
+p314
+aVNick Anderson ORL 02/17/1991 ORL vs. MIL L 20 4 1 8 12.5 0 1 0.0 2 4 50.0 1 3 4 1 2 2 2 2 -
+p315
+aVMorlon Wiley ORL 02/14/1991 ORL vs. SEA L 4 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 1 0 -
+p316
+aVGreg Kite ORL 02/14/1991 ORL vs. SEA L 28 8 3 5 60.0 0 0 - 2 2 100.0 0 5 5 0 0 0 2 3 -
+p317
+aVScott Skiles ORL 02/14/1991 ORL vs. SEA L 44 17 6 16 37.5 2 4 50.0 3 5 60.0 2 2 4 9 0 0 6 4 -
+p318
+aVDennis Scott ORL 02/14/1991 ORL vs. SEA L 32 14 5 16 31.3 3 5 60.0 1 2 50.0 0 3 3 1 1 0 2 3 -
+p319
+aVMichael Ansley ORL 02/14/1991 ORL vs. SEA L 10 7 3 5 60.0 0 0 - 1 3 33.3 3 2 5 1 0 0 0 3 -
+p320
+aVMark Acres ORL 02/14/1991 ORL vs. SEA L 17 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 0 1 0 3 -
+p321
+aVOtis Smith ORL 02/14/1991 ORL vs. SEA L 29 15 6 11 54.5 0 0 - 3 4 75.0 4 6 10 3 1 1 2 3 -
+p322
+aVNick Anderson ORL 02/14/1991 ORL vs. SEA L 21 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 4 1 1 1 -
+p323
+aVJerry Reynolds ORL 02/14/1991 ORL vs. SEA L 18 10 2 11 18.2 0 0 - 6 9 66.7 1 4 5 0 1 2 5 0 -
+p324
+aVJeff Turner ORL 02/14/1991 ORL vs. SEA L 28 0 0 3 0.0 0 0 - 0 0 - 1 2 3 3 0 0 1 4 -
+p325
+aVTerry Catledge ORL 02/14/1991 ORL vs. SEA L 9 4 2 5 40.0 0 0 - 0 4 0.0 7 1 8 0 0 0 2 3 -
+p326
+aVSam Vincent ORL 02/12/1991 ORL vs. DEN W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p327
+aVJerry Reynolds ORL 02/12/1991 ORL vs. DEN W 31 26 10 20 50.0 0 0 - 6 6 100.0 2 7 9 4 2 1 1 2 -
+p328
+aVOtis Smith ORL 02/12/1991 ORL vs. DEN W 33 26 9 19 47.4 0 0 - 8 10 80.0 2 3 5 3 2 1 4 3 -
+p329
+aVTerry Catledge ORL 02/12/1991 ORL vs. DEN W 18 5 2 8 25.0 0 0 - 1 4 25.0 3 3 6 2 0 0 0 2 -
+p330
+aVScott Skiles ORL 02/12/1991 ORL vs. DEN W 40 33 10 21 47.6 3 6 50.0 10 11 90.9 0 2 2 9 3 0 6 1 -
+p331
+aVNick Anderson ORL 02/12/1991 ORL vs. DEN W 15 13 5 7 71.4 0 0 - 3 4 75.0 0 1 1 1 0 0 0 1 -
+p332
+aVDennis Scott ORL 02/12/1991 ORL vs. DEN W 17 6 3 8 37.5 0 2 0.0 0 0 - 1 4 5 0 1 1 2 0 -
+p333
+aVGreg Kite ORL 02/12/1991 ORL vs. DEN W 35 10 4 8 50.0 0 0 - 2 2 100.0 7 9 16 0 0 1 1 2 -
+p334
+aVJeff Turner ORL 02/12/1991 ORL vs. DEN W 24 0 0 5 0.0 0 0 - 0 0 - 4 3 7 1 0 0 2 1 -
+p335
+aVMark Acres ORL 02/12/1991 ORL vs. DEN W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p336
+aVMichael Ansley ORL 02/12/1991 ORL vs. DEN W 10 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 1 0 0 0 -
+p337
+aVJerry Reynolds ORL 02/07/1991 ORL vs. MIN W 39 17 7 14 50.0 0 0 - 3 5 60.0 3 2 5 5 1 2 5 3 -
+p338
+aVOtis Smith ORL 02/07/1991 ORL vs. MIN W 39 28 12 27 44.4 0 2 0.0 4 5 80.0 5 2 7 3 2 1 0 4 -
+p339
+aVScott Skiles ORL 02/07/1991 ORL vs. MIN W 40 33 9 15 60.0 2 2 100.0 13 14 92.9 1 3 4 8 1 0 3 3 -
+p340
+aVJeff Turner ORL 02/07/1991 ORL vs. MIN W 30 12 4 9 44.4 0 0 - 4 5 80.0 2 6 8 1 1 0 1 5 -
+p341
+aVMichael Ansley ORL 02/07/1991 ORL vs. MIN W 27 7 2 2 100.0 0 0 - 3 4 75.0 3 8 11 1 0 0 0 3 -
+p342
+aVDennis Scott ORL 02/07/1991 ORL vs. MIN W 18 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 4 -
+p343
+aVGreg Kite ORL 02/07/1991 ORL vs. MIN W 27 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 1 0 1 3 4 -
+p344
+aVSam Vincent ORL 02/07/1991 ORL vs. MIN W 8 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p345
+aVMark Acres ORL 02/07/1991 ORL vs. MIN W 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 -
+p346
+aVJeff Turner ORL 02/05/1991 ORL vs. NYK W 32 12 6 10 60.0 0 0 - 0 2 0.0 2 6 8 1 1 0 4 6 -
+p347
+aVMark Acres ORL 02/05/1991 ORL vs. NYK W 17 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 0 0 1 0 6 -
+p348
+aVGreg Kite ORL 02/05/1991 ORL vs. NYK W 31 8 3 4 75.0 0 0 - 2 2 100.0 4 6 10 0 0 0 2 5 -
+p349
+aVJerry Reynolds ORL 02/05/1991 ORL vs. NYK W 31 17 7 16 43.8 0 0 - 3 4 75.0 0 4 4 5 2 1 2 1 -
+p350
+aVOtis Smith ORL 02/05/1991 ORL vs. NYK W 30 16 6 12 50.0 0 1 0.0 4 6 66.7 1 1 2 4 3 1 2 3 -
+p351
+aVSam Vincent ORL 02/05/1991 ORL vs. NYK W 21 12 6 8 75.0 0 0 - 0 0 - 0 0 0 5 0 0 2 0 -
+p352
+aVDennis Scott ORL 02/05/1991 ORL vs. NYK W 35 20 6 14 42.9 2 3 66.7 6 6 100.0 3 2 5 3 1 0 2 3 -
+p353
+aVMichael Ansley ORL 02/05/1991 ORL vs. NYK W 16 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 2 -
+p354
+aVScott Skiles ORL 02/05/1991 ORL vs. NYK W 27 23 9 15 60.0 2 2 100.0 3 4 75.0 0 1 1 7 0 0 2 0 -
+p355
+aVScott Skiles ORL 02/02/1991 ORL vs. MIA W 39 27 10 24 41.7 2 3 66.7 5 7 71.4 2 3 5 4 5 0 4 3 -
+p356
+aVOtis Smith ORL 02/02/1991 ORL vs. MIA W 25 11 3 7 42.9 0 0 - 5 8 62.5 3 4 7 1 2 0 3 2 -
+p357
+aVJeff Turner ORL 02/02/1991 ORL vs. MIA W 40 11 4 10 40.0 0 0 - 3 4 75.0 0 5 5 2 0 4 0 2 -
+p358
+aVDennis Scott ORL 02/02/1991 ORL vs. MIA W 39 24 10 21 47.6 2 3 66.7 2 2 100.0 2 3 5 3 1 1 3 1 -
+p359
+aVNick Anderson ORL 02/02/1991 ORL vs. MIA W 24 9 2 6 33.3 0 1 0.0 5 6 83.3 2 5 7 0 2 1 1 3 -
+p360
+aVSam Vincent ORL 02/02/1991 ORL vs. MIA W 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 2 0 -
+p361
+aVMark Acres ORL 02/02/1991 ORL vs. MIA W 17 9 3 4 75.0 0 0 - 3 3 100.0 3 1 4 0 0 0 1 1 -
+p362
+aVJerry Reynolds ORL 02/02/1991 ORL vs. MIA W 9 4 1 6 16.7 0 0 - 2 2 100.0 3 0 3 0 0 0 1 1 -
+p363
+aVMichael Ansley ORL 02/02/1991 ORL vs. MIA W 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -
+p364
+aVGreg Kite ORL 02/02/1991 ORL vs. MIA W 30 5 2 3 66.7 0 0 - 1 2 50.0 4 3 7 2 0 2 0 5 -
+p365
+aVMark Acres ORL 01/30/1991 ORL @ BOS L 19 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 1 0 0 0 4 -
+p366
+aVGreg Kite ORL 01/30/1991 ORL @ BOS L 22 4 2 4 50.0 0 0 - 0 0 - 2 10 12 0 0 0 1 4 -
+p367
+aVNick Anderson ORL 01/30/1991 ORL @ BOS L 4 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p368
+aVOtis Smith ORL 01/30/1991 ORL @ BOS L 26 8 4 17 23.5 0 1 0.0 0 0 - 2 3 5 3 1 0 3 1 -
+p369
+aVJeff Turner ORL 01/30/1991 ORL @ BOS L 31 16 8 13 61.5 0 0 - 0 0 - 4 3 7 2 2 0 3 3 -
+p370
+aVMichael Ansley ORL 01/30/1991 ORL @ BOS L 24 14 6 8 75.0 0 0 - 2 2 100.0 4 1 5 1 1 1 1 2 -
+p371
+aVSam Vincent ORL 01/30/1991 ORL @ BOS L 25 20 8 17 47.1 1 3 33.3 3 4 75.0 1 3 4 4 0 0 2 1 -
+p372
+aVJerry Reynolds ORL 01/30/1991 ORL @ BOS L 23 11 2 7 28.6 0 0 - 7 8 87.5 1 3 4 3 1 0 1 1 -
+p373
+aVMorlon Wiley ORL 01/30/1991 ORL @ BOS L 12 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 2 1 0 3 2 -
+p374
+aVScott Skiles ORL 01/30/1991 ORL @ BOS L 19 2 1 11 9.1 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 -
+p375
+aVDennis Scott ORL 01/30/1991 ORL @ BOS L 35 14 6 21 28.6 1 5 20.0 1 2 50.0 1 2 3 4 0 0 0 3 -
+p376
+aVMichael Ansley ORL 01/29/1991 ORL vs. PHX W 7 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -
+p377
+aVJerry Reynolds ORL 01/29/1991 ORL vs. PHX W 30 22 10 19 52.6 0 0 - 2 4 50.0 4 6 10 5 1 1 4 1 -
+p378
+aVOtis Smith ORL 01/29/1991 ORL vs. PHX W 30 24 11 17 64.7 0 0 - 2 2 100.0 3 3 6 3 0 0 0 1 -
+p379
+aVScott Skiles ORL 01/29/1991 ORL vs. PHX W 43 19 7 22 31.8 0 2 0.0 5 5 100.0 3 3 6 7 4 0 8 3 -
+p380
+aVMark Acres ORL 01/29/1991 ORL vs. PHX W 19 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 1 0 0 2 -
+p381
+aVGreg Kite ORL 01/29/1991 ORL vs. PHX W 28 6 3 5 60.0 0 0 - 0 0 - 1 6 7 1 2 3 1 6 -
+p382
+aVJeff Turner ORL 01/29/1991 ORL vs. PHX W 41 15 6 12 50.0 0 0 - 3 3 100.0 1 7 8 5 0 0 3 5 -
+p383
+aVNick Anderson ORL 01/29/1991 ORL vs. PHX W 18 6 1 7 14.3 0 0 - 4 4 100.0 1 1 2 2 1 0 0 4 -
+p384
+aVDennis Scott ORL 01/29/1991 ORL vs. PHX W 19 12 4 10 40.0 2 2 100.0 2 2 100.0 1 1 2 0 0 0 0 3 -
+p385
+aVSam Vincent ORL 01/29/1991 ORL vs. PHX W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -
+p386
+aVOtis Smith ORL 01/26/1991 ORL vs. DET L 14 4 2 10 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p387
+aVMorlon Wiley ORL 01/26/1991 ORL vs. DET L 6 8 2 4 50.0 1 3 33.3 3 4 75.0 0 0 0 1 0 0 1 1 -
+p388
+aVTerry Catledge ORL 01/26/1991 ORL vs. DET L 15 7 2 5 40.0 0 0 - 3 4 75.0 2 0 2 0 0 0 1 0 -
+p389
+aVNick Anderson ORL 01/26/1991 ORL vs. DET L 34 14 5 19 26.3 0 1 0.0 4 5 80.0 3 1 4 0 0 0 1 4 -
+p390
+aVMichael Ansley ORL 01/26/1991 ORL vs. DET L 21 8 3 10 30.0 0 0 - 2 4 50.0 7 1 8 0 0 0 1 3 -
+p391
+aVGreg Kite ORL 01/26/1991 ORL vs. DET L 26 4 2 6 33.3 0 0 - 0 0 - 5 5 10 0 2 0 2 3 -
+p392
+aVDennis Scott ORL 01/26/1991 ORL vs. DET L 33 17 7 17 41.2 2 4 50.0 1 1 100.0 1 2 3 1 0 1 1 4 -
+p393
+aVSam Vincent ORL 01/26/1991 ORL vs. DET L 21 5 2 9 22.2 0 0 - 1 2 50.0 0 2 2 4 1 0 1 3 -
+p394
+aVJerry Reynolds ORL 01/26/1991 ORL vs. DET L 10 1 0 2 0.0 0 0 - 1 4 25.0 0 0 0 0 3 0 2 2 -
+p395
+aVScott Skiles ORL 01/26/1991 ORL vs. DET L 21 0 0 9 0.0 0 2 0.0 0 0 - 0 1 1 5 0 0 0 1 -
+p396
+aVMark Acres ORL 01/26/1991 ORL vs. DET L 22 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 0 2 0 0 1 -
+p397
+aVJeff Turner ORL 01/26/1991 ORL vs. DET L 17 7 2 4 50.0 0 0 - 3 4 75.0 1 1 2 1 2 0 3 3 -
+p398
+aVNick Anderson ORL 01/22/1991 ORL vs. LAL L 18 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 1 0 1 2 -
+p399
+aVGreg Kite ORL 01/22/1991 ORL vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p400
+aVTerry Catledge ORL 01/22/1991 ORL vs. LAL L 22 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 0 0 3 2 -
+p401
+aVOtis Smith ORL 01/22/1991 ORL vs. LAL L 26 20 7 13 53.8 0 0 - 6 6 100.0 1 0 1 1 0 0 1 3 -
+p402
+aVMorlon Wiley ORL 01/22/1991 ORL vs. LAL L 12 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 4 0 0 1 1 -
+p403
+aVDennis Scott ORL 01/22/1991 ORL vs. LAL L 29 11 5 14 35.7 1 2 50.0 0 0 - 1 0 1 0 1 0 2 2 -
+p404
+aVScott Skiles ORL 01/22/1991 ORL vs. LAL L 36 18 6 12 50.0 0 3 0.0 6 8 75.0 1 2 3 7 1 0 2 1 -
+p405
+aVJerry Reynolds ORL 01/22/1991 ORL vs. LAL L 23 7 3 11 27.3 0 0 - 1 2 50.0 0 6 6 6 2 1 1 4 -
+p406
+aVJeff Turner ORL 01/22/1991 ORL vs. LAL L 29 13 5 11 45.5 1 2 50.0 2 2 100.0 2 6 8 0 0 0 3 2 -
+p407
+aVMichael Ansley ORL 01/22/1991 ORL vs. LAL L 22 11 5 7 71.4 0 0 - 1 2 50.0 4 5 9 2 0 0 1 1 -
+p408
+aVMark Acres ORL 01/22/1991 ORL vs. LAL L 17 2 1 5 20.0 0 0 - 0 4 0.0 4 1 5 0 1 1 0 2 -
+p409
+aVOtis Smith ORL 01/21/1991 ORL @ WAS L 15 11 3 8 37.5 0 0 - 5 5 100.0 1 2 3 3 0 0 2 0 -
+p410
+aVMichael Ansley ORL 01/21/1991 ORL @ WAS L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 0 1 1 -
+p411
+aVGreg Kite ORL 01/21/1991 ORL @ WAS L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 1 3 -
+p412
+aVMark Acres ORL 01/21/1991 ORL @ WAS L 24 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 0 0 2 4 -
+p413
+aVScott Skiles ORL 01/21/1991 ORL @ WAS L 43 27 8 21 38.1 1 2 50.0 10 12 83.3 1 3 4 12 1 0 4 4 -
+p414
+aVDennis Scott ORL 01/21/1991 ORL @ WAS L 35 30 12 22 54.5 4 7 57.1 2 2 100.0 3 0 3 4 2 0 1 2 -
+p415
+aVNick Anderson ORL 01/21/1991 ORL @ WAS L 33 12 6 17 35.3 0 0 - 0 1 0.0 1 9 10 3 2 2 2 2 -
+p416
+aVJerry Reynolds ORL 01/21/1991 ORL @ WAS L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -
+p417
+aVJeff Turner ORL 01/21/1991 ORL @ WAS L 8 6 3 5 60.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -
+p418
+aVSam Vincent ORL 01/21/1991 ORL @ WAS L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -
+p419
+aVTerry Catledge ORL 01/21/1991 ORL @ WAS L 36 24 10 20 50.0 0 0 - 4 6 66.7 10 3 13 1 1 0 1 1 -
+p420
+aVScott Skiles ORL 01/18/1991 ORL @ MIL L 40 16 2 11 18.2 2 4 50.0 10 10 100.0 1 3 4 15 1 0 3 4 -
+p421
+aVOtis Smith ORL 01/18/1991 ORL @ MIL L 22 12 5 9 55.6 0 0 - 2 3 66.7 0 0 0 2 1 0 1 2 -
+p422
+aVSam Vincent ORL 01/18/1991 ORL @ MIL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -
+p423
+aVNick Anderson ORL 01/18/1991 ORL @ MIL L 41 16 7 10 70.0 0 1 0.0 2 3 66.7 1 4 5 2 2 0 4 4 -
+p424
+aVJeff Turner ORL 01/18/1991 ORL @ MIL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 3 2 -
+p425
+aVGreg Kite ORL 01/18/1991 ORL @ MIL L 29 6 3 3 100.0 0 0 - 0 0 - 1 2 3 1 0 3 1 5 -
+p426
+aVMichael Ansley ORL 01/18/1991 ORL @ MIL L 18 12 4 7 57.1 0 0 - 4 8 50.0 3 5 8 0 2 0 1 3 -
+p427
+aVMark Acres ORL 01/18/1991 ORL @ MIL L 19 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 0 2 4 -
+p428
+aVTerry Catledge ORL 01/18/1991 ORL @ MIL L 30 21 8 15 53.3 0 0 - 5 12 41.7 1 3 4 4 0 0 1 2 -
+p429
+aVDennis Scott ORL 01/18/1991 ORL @ MIL L 26 15 5 12 41.7 3 6 50.0 2 2 100.0 1 4 5 0 0 1 3 3 -
+p430
+aVDennis Scott ORL 01/16/1991 ORL vs. CHI L 31 16 6 11 54.5 2 4 50.0 2 2 100.0 0 1 1 1 0 0 3 2 -
+p431
+aVOtis Smith ORL 01/16/1991 ORL vs. CHI L 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -
+p432
+aVNick Anderson ORL 01/16/1991 ORL vs. CHI L 41 25 8 21 38.1 0 2 0.0 9 11 81.8 2 10 12 2 0 0 1 3 -
+p433
+aVTerry Catledge ORL 01/16/1991 ORL vs. CHI L 48 16 7 16 43.8 0 1 0.0 2 2 100.0 7 11 18 1 2 0 2 5 -
+p434
+aVGreg Kite ORL 01/16/1991 ORL vs. CHI L 26 2 1 2 50.0 0 0 - 0 0 - 1 5 6 1 0 2 2 6 -
+p435
+aVSam Vincent ORL 01/16/1991 ORL vs. CHI L 25 8 1 6 16.7 0 0 - 6 6 100.0 1 4 5 6 0 1 9 4 -
+p436
+aVMark Acres ORL 01/16/1991 ORL vs. CHI L 22 4 1 3 33.3 0 1 0.0 2 2 100.0 1 2 3 0 1 1 0 3 -
+p437
+aVScott Skiles ORL 01/16/1991 ORL vs. CHI L 23 9 3 7 42.9 1 2 50.0 2 2 100.0 0 1 1 1 0 0 2 2 -
+p438
+aVJerry Reynolds ORL 01/16/1991 ORL vs. CHI L 13 6 2 8 25.0 0 0 - 2 2 100.0 1 0 1 0 0 0 3 1 -
+p439
+aVTerry Catledge ORL 01/15/1991 ORL @ MIA L 26 3 1 8 12.5 0 0 - 1 5 20.0 3 0 3 0 0 0 2 2 -
+p440
+aVJeff Turner ORL 01/15/1991 ORL @ MIA L 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -
+p441
+aVJerry Reynolds ORL 01/15/1991 ORL @ MIA L 31 23 8 14 57.1 0 1 0.0 7 9 77.8 1 5 6 2 1 3 5 3 -
+p442
+aVGreg Kite ORL 01/15/1991 ORL @ MIA L 42 16 6 6 100.0 0 0 - 4 7 57.1 4 12 16 1 0 2 1 4 -
+p443
+aVSam Vincent ORL 01/15/1991 ORL @ MIA L 38 7 2 11 18.2 0 0 - 3 4 75.0 0 3 3 6 0 1 3 3 -
+p444
+aVOtis Smith ORL 01/15/1991 ORL @ MIA L 16 9 4 9 44.4 0 0 - 1 2 50.0 3 2 5 1 1 0 1 2 -
+p445
+aVDennis Scott ORL 01/15/1991 ORL @ MIA L 17 6 3 12 25.0 0 3 0.0 0 0 - 0 0 0 1 1 1 2 2 -
+p446
+aVNick Anderson ORL 01/15/1991 ORL @ MIA L 32 22 9 14 64.3 0 0 - 4 6 66.7 3 3 6 1 4 0 3 3 -
+p447
+aVMichael Ansley ORL 01/15/1991 ORL @ MIA L 24 16 6 8 75.0 0 0 - 4 5 80.0 3 4 7 1 0 1 2 3 -
+p448
+aVMorlon Wiley ORL 01/15/1991 ORL @ MIA L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 2 2 0 1 2 -
+p449
+aVMorlon Wiley ORL 01/12/1991 ORL @ DAL W 16 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 6 0 0 1 1 -
+p450
+aVTerry Catledge ORL 01/12/1991 ORL @ DAL W 36 18 8 13 61.5 0 0 - 2 4 50.0 4 5 9 0 1 1 3 0 -
+p451
+aVSam Vincent ORL 01/12/1991 ORL @ DAL W 32 24 10 12 83.3 0 0 - 4 5 80.0 0 4 4 6 2 1 1 0 -
+p452
+aVMichael Ansley ORL 01/12/1991 ORL @ DAL W 12 9 3 6 50.0 0 0 - 3 4 75.0 2 0 2 0 1 0 0 4 -
+p453
+aVJeff Turner ORL 01/12/1991 ORL @ DAL W 25 9 4 5 80.0 1 1 100.0 0 0 - 0 8 8 1 0 1 2 2 -
+p454
+aVGreg Kite ORL 01/12/1991 ORL @ DAL W 20 0 0 0 - 0 0 - 0 0 - 1 3 4 2 0 1 0 3 -
+p455
+aVDennis Scott ORL 01/12/1991 ORL @ DAL W 28 19 9 17 52.9 0 2 0.0 1 2 50.0 0 4 4 4 0 1 3 3 -
+p456
+aVMark Acres ORL 01/12/1991 ORL @ DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p457
+aVNick Anderson ORL 01/12/1991 ORL @ DAL W 44 24 10 17 58.8 0 0 - 4 6 66.7 2 5 7 4 2 2 3 3 -
+p458
+aVJerry Reynolds ORL 01/12/1991 ORL @ DAL W 24 22 4 9 44.4 0 0 - 14 15 93.3 1 4 5 4 1 1 3 1 -
+p459
+aVJerry Reynolds ORL 01/10/1991 ORL @ SAN L 17 11 5 9 55.6 0 0 - 1 2 50.0 0 0 0 1 2 0 1 1 -
+p460
+aVGreg Kite ORL 01/10/1991 ORL @ SAN L 28 4 2 3 66.7 0 0 - 0 4 0.0 1 3 4 0 0 2 1 3 -
+p461
+aVSam Vincent ORL 01/10/1991 ORL @ SAN L 31 16 7 12 58.3 1 1 100.0 1 3 33.3 0 1 1 9 2 0 5 4 -
+p462
+aVMichael Ansley ORL 01/10/1991 ORL @ SAN L 25 16 6 9 66.7 0 0 - 4 4 100.0 3 4 7 0 0 0 0 3 -
+p463
+aVNick Anderson ORL 01/10/1991 ORL @ SAN L 35 18 6 21 28.6 1 2 50.0 5 7 71.4 3 7 10 2 0 0 2 1 -
+p464
+aVMark Acres ORL 01/10/1991 ORL @ SAN L 19 7 3 6 50.0 0 0 - 1 1 100.0 3 1 4 0 1 0 0 5 -
+p465
+aVMorlon Wiley ORL 01/10/1991 ORL @ SAN L 17 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 4 1 0 2 1 -
+p466
+aVDennis Scott ORL 01/10/1991 ORL @ SAN L 31 23 10 20 50.0 3 3 100.0 0 0 - 1 2 3 2 1 0 0 4 -
+p467
+aVJeff Turner ORL 01/10/1991 ORL @ SAN L 22 5 2 9 22.2 0 0 - 1 2 50.0 3 6 9 1 1 0 0 6 -
+p468
+aVOtis Smith ORL 01/10/1991 ORL @ SAN L 15 10 4 8 50.0 0 2 0.0 2 2 100.0 3 1 4 1 1 0 1 3 -
+p469
+aVMichael Ansley ORL 01/09/1991 ORL vs. MIN L 25 6 3 6 50.0 0 0 - 0 0 - 4 4 8 0 0 0 0 4 -
+p470
+aVGreg Kite ORL 01/09/1991 ORL vs. MIN L 21 4 2 5 40.0 0 0 - 0 0 - 3 4 7 1 0 2 0 3 -
+p471
+aVSam Vincent ORL 01/09/1991 ORL vs. MIN L 12 6 3 8 37.5 0 1 0.0 0 0 - 1 1 2 0 0 0 1 1 -
+p472
+aVOtis Smith ORL 01/09/1991 ORL vs. MIN L 27 9 3 9 33.3 0 0 - 3 3 100.0 1 3 4 1 1 0 1 5 -
+p473
+aVDennis Scott ORL 01/09/1991 ORL vs. MIN L 39 28 11 20 55.0 3 5 60.0 3 5 60.0 1 4 5 1 0 0 0 3 -
+p474
+aVTerry Catledge ORL 01/09/1991 ORL vs. MIN L 12 6 2 3 66.7 0 0 - 2 5 40.0 1 1 2 1 0 0 3 1 -
+p475
+aVNick Anderson ORL 01/09/1991 ORL vs. MIN L 17 9 2 11 18.2 0 0 - 5 6 83.3 1 1 2 1 0 0 1 2 -
+p476
+aVScott Skiles ORL 01/09/1991 ORL vs. MIN L 36 9 2 10 20.0 0 2 0.0 5 6 83.3 0 1 1 7 0 0 4 4 -
+p477
+aVJerry Reynolds ORL 01/09/1991 ORL vs. MIN L 24 18 3 8 37.5 0 1 0.0 12 13 92.3 1 3 4 3 2 0 1 1 -
+p478
+aVJeff Turner ORL 01/09/1991 ORL vs. MIN L 27 8 4 9 44.4 0 0 - 0 2 0.0 3 3 6 2 1 0 2 2 -
+p479
+aVOtis Smith ORL 01/07/1991 ORL vs. SAC W 22 17 8 8 100.0 0 0 - 1 1 100.0 0 2 2 4 0 0 0 3 -
+p480
+aVDennis Scott ORL 01/07/1991 ORL vs. SAC W 29 14 4 13 30.8 1 5 20.0 5 7 71.4 3 4 7 1 1 1 1 1 -
+p481
+aVTerry Catledge ORL 01/07/1991 ORL vs. SAC W 33 14 6 10 60.0 0 0 - 2 2 100.0 1 3 4 4 0 0 1 1 -
+p482
+aVMichael Ansley ORL 01/07/1991 ORL vs. SAC W 10 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -
+p483
+aVJerry Reynolds ORL 01/07/1991 ORL vs. SAC W 19 19 7 11 63.6 0 0 - 5 5 100.0 1 2 3 3 2 0 3 0 -
+p484
+aVGreg Kite ORL 01/07/1991 ORL vs. SAC W 23 9 3 4 75.0 0 0 - 3 5 60.0 2 6 8 0 0 4 3 5 -
+p485
+aVSam Vincent ORL 01/07/1991 ORL vs. SAC W 21 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 7 1 0 0 1 -
+p486
+aVScott Skiles ORL 01/07/1991 ORL vs. SAC W 27 10 3 9 33.3 0 1 0.0 4 4 100.0 1 5 6 8 0 0 4 3 -
+p487
+aVNick Anderson ORL 01/07/1991 ORL vs. SAC W 26 7 2 8 25.0 1 1 100.0 2 4 50.0 0 4 4 1 5 1 1 2 -
+p488
+aVJeff Turner ORL 01/07/1991 ORL vs. SAC W 30 13 6 8 75.0 0 0 - 1 2 50.0 2 7 9 0 1 0 2 2 -
+p489
+aVTerry Catledge ORL 01/05/1991 ORL vs. SAN L 32 9 2 14 14.3 0 0 - 5 8 62.5 3 4 7 0 0 0 2 1 -
+p490
+aVNick Anderson ORL 01/05/1991 ORL vs. SAN L 28 14 3 10 30.0 0 0 - 8 8 100.0 2 6 8 2 0 1 0 0 -
+p491
+aVSam Vincent ORL 01/05/1991 ORL vs. SAN L 12 5 0 3 0.0 0 1 0.0 5 6 83.3 0 3 3 1 0 0 0 1 -
+p492
+aVMichael Ansley ORL 01/05/1991 ORL vs. SAN L 12 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -
+p493
+aVGreg Kite ORL 01/05/1991 ORL vs. SAN L 24 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 2 -
+p494
+aVDennis Scott ORL 01/05/1991 ORL vs. SAN L 23 8 3 12 25.0 1 4 25.0 1 2 50.0 2 2 4 0 2 0 1 0 -
+p495
+aVScott Skiles ORL 01/05/1991 ORL vs. SAN L 36 10 4 13 30.8 0 4 0.0 2 2 100.0 1 3 4 9 1 0 2 1 -
+p496
+aVJeff Turner ORL 01/05/1991 ORL vs. SAN L 28 13 5 11 45.5 0 1 0.0 3 4 75.0 3 3 6 1 1 0 1 2 -
+p497
+aVOtis Smith ORL 01/05/1991 ORL vs. SAN L 20 13 4 13 30.8 0 0 - 5 6 83.3 3 1 4 0 1 0 2 3 -
+p498
+aVJerry Reynolds ORL 01/05/1991 ORL vs. SAN L 25 8 3 10 30.0 0 0 - 2 2 100.0 2 2 4 2 1 1 1 2 -
+p499
+aVJerry Reynolds ORL 01/03/1991 ORL vs. LAC W 24 7 3 7 42.9 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 2 -
+p500
+aVDennis Scott ORL 01/03/1991 ORL vs. LAC W 24 13 4 14 28.6 2 4 50.0 3 4 75.0 0 3 3 2 0 0 2 3 -
+p501
+aVTerry Catledge ORL 01/03/1991 ORL vs. LAC W 33 18 8 19 42.1 0 0 - 2 3 66.7 7 3 10 2 0 0 0 2 -
+p502
+aVOtis Smith ORL 01/03/1991 ORL vs. LAC W 21 15 7 16 43.8 0 0 - 1 2 50.0 3 0 3 0 3 0 1 0 -
+p503
+aVMichael Ansley ORL 01/03/1991 ORL vs. LAC W 13 8 2 3 66.7 0 0 - 4 4 100.0 2 2 4 0 1 0 0 1 -
+p504
+aVJeff Turner ORL 01/03/1991 ORL vs. LAC W 23 5 1 4 25.0 0 0 - 3 4 75.0 2 5 7 1 2 0 1 5 -
+p505
+aVScott Skiles ORL 01/03/1991 ORL vs. LAC W 40 22 7 13 53.8 2 4 50.0 6 8 75.0 1 2 3 13 2 1 4 2 -
+p506
+aVGreg Kite ORL 01/03/1991 ORL vs. LAC W 27 0 0 2 0.0 0 0 - 0 0 - 2 5 7 1 0 0 3 3 -
+p507
+aVSam Vincent ORL 01/03/1991 ORL vs. LAC W 8 1 0 2 0.0 0 0 - 1 1 100.0 1 3 4 1 0 0 2 0 -
+p508
+aVNick Anderson ORL 01/03/1991 ORL vs. LAC W 27 21 10 16 62.5 1 1 100.0 0 0 - 0 3 3 1 2 0 1 1 -
+p509
+aVSam Vincent ORL 12/30/1990 ORL vs. DEN W 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 1 3 -
+p510
+aVGreg Kite ORL 12/30/1990 ORL vs. DEN W 24 4 2 2 100.0 0 0 - 0 0 - 0 10 10 0 0 2 1 2 -
+p511
+aVOtis Smith ORL 12/30/1990 ORL vs. DEN W 21 14 6 11 54.5 0 0 - 2 2 100.0 2 3 5 2 1 1 0 1 -
+p512
+aVTerry Catledge ORL 12/30/1990 ORL vs. DEN W 28 25 10 18 55.6 0 0 - 5 5 100.0 5 6 11 2 1 0 1 1 -
+p513
+aVScott Skiles ORL 12/30/1990 ORL vs. DEN W 44 22 7 13 53.8 2 3 66.7 6 7 85.7 1 5 6 30 2 0 4 2 -
+p514
+aVNick Anderson ORL 12/30/1990 ORL vs. DEN W 21 17 7 10 70.0 0 0 - 3 4 75.0 0 2 2 1 3 1 3 4 -
+p515
+aVDennis Scott ORL 12/30/1990 ORL vs. DEN W 22 18 8 12 66.7 2 4 50.0 0 0 - 1 2 3 3 0 2 3 1 -
+p516
+aVJeff Turner ORL 12/30/1990 ORL vs. DEN W 18 13 5 9 55.6 0 0 - 3 4 75.0 2 3 5 1 2 0 4 3 -
+p517
+aVMark Acres ORL 12/30/1990 ORL vs. DEN W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p518
+aVJerry Reynolds ORL 12/30/1990 ORL vs. DEN W 26 27 10 16 62.5 0 0 - 7 9 77.8 0 5 5 3 2 1 3 1 -
+p519
+aVMichael Ansley ORL 12/30/1990 ORL vs. DEN W 20 13 5 10 50.0 0 0 - 3 5 60.0 4 9 13 0 0 0 0 1 -
+p520
+aVTerry Catledge ORL 12/29/1990 ORL @ CHH L 47 24 9 21 42.9 0 1 0.0 6 11 54.5 3 3 6 3 1 0 4 4 -
+p521
+aVOtis Smith ORL 12/29/1990 ORL @ CHH L 13 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 0 0 3 0 -
+p522
+aVScott Skiles ORL 12/29/1990 ORL @ CHH L 28 7 2 6 33.3 0 1 0.0 3 3 100.0 0 2 2 10 0 0 1 2 -
+p523
+aVSam Vincent ORL 12/29/1990 ORL @ CHH L 20 8 4 6 66.7 0 0 - 0 0 - 0 2 2 4 0 0 4 1 -
+p524
+aVMark Acres ORL 12/29/1990 ORL @ CHH L 15 0 0 0 - 0 0 - 0 0 - 2 3 5 0 0 0 1 3 -
+p525
+aVJeff Turner ORL 12/29/1990 ORL @ CHH L 12 6 3 5 60.0 0 0 - 0 1 0.0 0 5 5 0 0 0 1 5 -
+p526
+aVDennis Scott ORL 12/29/1990 ORL @ CHH L 28 18 8 18 44.4 2 5 40.0 0 0 - 0 2 2 1 1 0 3 1 -
+p527
+aVJerry Reynolds ORL 12/29/1990 ORL @ CHH L 20 11 4 8 50.0 0 0 - 3 6 50.0 1 1 2 3 2 0 1 2 -
+p528
+aVGreg Kite ORL 12/29/1990 ORL @ CHH L 21 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 1 0 1 2 -
+p529
+aVNick Anderson ORL 12/29/1990 ORL @ CHH L 36 20 7 13 53.8 0 1 0.0 6 9 66.7 1 4 5 1 3 2 0 3 -
+p530
+aVOtis Smith ORL 12/26/1990 ORL vs. HOU W 14 8 4 7 57.1 0 0 - 0 0 - 0 2 2 3 1 1 0 1 -
+p531
+aVDennis Scott ORL 12/26/1990 ORL vs. HOU W 13 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 0 1 0 0 0 -
+p532
+aVJerry Reynolds ORL 12/26/1990 ORL vs. HOU W 35 24 9 19 47.4 0 0 - 6 6 100.0 2 3 5 3 2 0 2 0 -
+p533
+aVSam Vincent ORL 12/26/1990 ORL vs. HOU W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -
+p534
+aVTerry Catledge ORL 12/26/1990 ORL vs. HOU W 31 20 6 13 46.2 0 0 - 8 9 88.9 4 1 5 0 1 1 5 5 -
+p535
+aVScott Skiles ORL 12/26/1990 ORL vs. HOU W 39 10 3 12 25.0 0 2 0.0 4 5 80.0 0 3 3 5 0 0 4 1 -
+p536
+aVGreg Kite ORL 12/26/1990 ORL vs. HOU W 15 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 4 2 -
+p537
+aVNick Anderson ORL 12/26/1990 ORL vs. HOU W 38 31 11 18 61.1 0 0 - 9 11 81.8 1 8 9 2 2 1 0 4 -
+p538
+aVMark Acres ORL 12/26/1990 ORL vs. HOU W 33 7 2 4 50.0 0 0 - 3 6 50.0 2 4 6 0 0 1 1 4 -
+p539
+aVMichael Ansley ORL 12/26/1990 ORL vs. HOU W 13 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 1 0 1 1 -
+p540
+aVScott Skiles ORL 12/22/1990 ORL vs. UTH L 48 34 13 25 52.0 3 4 75.0 5 5 100.0 3 3 6 6 2 0 4 3 -
+p541
+aVJerry Reynolds ORL 12/22/1990 ORL vs. UTH L 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 0 0 1 1 -
+p542
+aVTerry Catledge ORL 12/22/1990 ORL vs. UTH L 44 29 9 23 39.1 0 0 - 11 14 78.6 6 1 7 4 1 1 2 5 -
+p543
+aVNick Anderson ORL 12/22/1990 ORL vs. UTH L 36 10 4 11 36.4 0 2 0.0 2 2 100.0 1 4 5 1 0 2 1 3 -
+p544
+aVMark Acres ORL 12/22/1990 ORL vs. UTH L 18 3 1 2 50.0 0 0 - 1 3 33.3 1 5 6 1 0 0 0 2 -
+p545
+aVDennis Scott ORL 12/22/1990 ORL vs. UTH L 30 9 3 13 23.1 0 5 0.0 3 4 75.0 0 2 2 1 0 0 2 5 -
+p546
+aVMichael Ansley ORL 12/22/1990 ORL vs. UTH L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p547
+aVOtis Smith ORL 12/22/1990 ORL vs. UTH L 16 9 2 5 40.0 0 0 - 5 5 100.0 2 3 5 1 0 0 1 1 -
+p548
+aVGreg Kite ORL 12/22/1990 ORL vs. UTH L 29 2 1 1 100.0 0 0 - 0 0 - 2 4 6 2 0 0 0 5 -
+p549
+aVGreg Kite ORL 12/20/1990 ORL @ HOU L 38 10 4 9 44.4 0 0 - 2 3 66.7 3 5 8 1 0 0 3 2 -
+p550
+aVTerry Catledge ORL 12/20/1990 ORL @ HOU L 45 28 10 24 41.7 0 1 0.0 8 12 66.7 11 6 17 3 1 0 4 3 -
+p551
+aVNick Anderson ORL 12/20/1990 ORL @ HOU L 31 10 5 12 41.7 0 0 - 0 0 - 1 4 5 1 0 2 3 0 -
+p552
+aVScott Skiles ORL 12/20/1990 ORL @ HOU L 53 31 13 21 61.9 3 4 75.0 2 2 100.0 1 3 4 17 2 0 4 5 -
+p553
+aVMichael Ansley ORL 12/20/1990 ORL @ HOU L 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -
+p554
+aVJerry Reynolds ORL 12/20/1990 ORL @ HOU L 40 6 2 10 20.0 0 1 0.0 2 2 100.0 1 8 9 9 3 0 1 1 -
+p555
+aVMark Acres ORL 12/20/1990 ORL @ HOU L 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -
+p556
+aVDennis Scott ORL 12/20/1990 ORL @ HOU L 35 35 13 23 56.5 3 5 60.0 6 6 100.0 1 4 5 0 0 0 2 4 -
+p557
+aVGreg Kite ORL 12/18/1990 ORL @ SEA L 16 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 0 1 0 3 -
+p558
+aVMichael Ansley ORL 12/18/1990 ORL @ SEA L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -
+p559
+aVMark Acres ORL 12/18/1990 ORL @ SEA L 26 4 1 1 100.0 0 0 - 2 4 50.0 1 5 6 2 1 0 1 4 -
+p560
+aVMorlon Wiley ORL 12/18/1990 ORL @ SEA L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -
+p561
+aVJerry Reynolds ORL 12/18/1990 ORL @ SEA L 27 17 7 13 53.8 0 1 0.0 3 4 75.0 1 3 4 2 1 0 2 5 -
+p562
+aVTerry Catledge ORL 12/18/1990 ORL @ SEA L 37 30 12 22 54.5 0 0 - 6 10 60.0 5 5 10 0 0 0 3 6 -
+p563
+aVDennis Scott ORL 12/18/1990 ORL @ SEA L 21 7 3 11 27.3 1 5 20.0 0 0 - 0 0 0 0 1 0 2 2 -
+p564
+aVScott Skiles ORL 12/18/1990 ORL @ SEA L 43 24 7 16 43.8 3 5 60.0 7 7 100.0 0 3 3 6 2 0 3 1 -
+p565
+aVNick Anderson ORL 12/18/1990 ORL @ SEA L 45 21 7 17 41.2 0 3 0.0 7 8 87.5 1 1 2 3 3 0 0 2 -
+p566
+aVJeff Turner ORL 12/18/1990 ORL @ SEA L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p567
+aVMichael Ansley ORL 12/16/1990 ORL @ POR L 10 4 1 3 33.3 0 0 - 2 2 100.0 2 1 3 1 0 0 0 2 -
+p568
+aVMark Acres ORL 12/16/1990 ORL @ POR L 25 4 2 4 50.0 0 0 - 0 0 - 3 6 9 0 1 1 0 6 -
+p569
+aVGreg Kite ORL 12/16/1990 ORL @ POR L 26 3 1 2 50.0 0 0 - 1 4 25.0 0 4 4 1 0 1 2 4 -
+p570
+aVScott Skiles ORL 12/16/1990 ORL @ POR L 38 21 8 15 53.3 0 1 0.0 5 5 100.0 0 5 5 8 3 0 2 5 -
+p571
+aVJerry Reynolds ORL 12/16/1990 ORL @ POR L 26 13 4 10 40.0 0 0 - 5 5 100.0 3 2 5 2 1 0 1 2 -
+p572
+aVMorlon Wiley ORL 12/16/1990 ORL @ POR L 10 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 1 1 0 1 0 -
+p573
+aVOtis Smith ORL 12/16/1990 ORL @ POR L 20 9 4 7 57.1 0 1 0.0 1 3 33.3 1 3 4 3 0 1 2 4 -
+p574
+aVHoward Wright ORL 12/16/1990 ORL @ POR L 13 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p575
+aVDennis Scott ORL 12/16/1990 ORL @ POR L 27 16 5 15 33.3 2 7 28.6 4 5 80.0 0 1 1 1 0 0 2 2 -
+p576
+aVTerry Catledge ORL 12/16/1990 ORL @ POR L 17 8 4 11 36.4 0 0 - 0 0 - 2 1 3 0 2 1 2 2 -
+p577
+aVNick Anderson ORL 12/16/1990 ORL @ POR L 28 16 7 18 38.9 2 5 40.0 0 0 - 1 6 7 2 2 1 4 3 -
+p578
+aVNick Anderson ORL 12/15/1990 ORL @ SAC L 18 7 3 9 33.3 1 1 100.0 0 1 0.0 0 4 4 0 1 1 1 1 -
+p579
+aVMark Acres ORL 12/15/1990 ORL @ SAC L 16 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 5 -
+p580
+aVJerry Reynolds ORL 12/15/1990 ORL @ SAC L 22 24 9 15 60.0 1 2 50.0 5 6 83.3 1 0 1 0 0 0 1 2 -
+p581
+aVMorlon Wiley ORL 12/15/1990 ORL @ SAC L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -
+p582
+aVOtis Smith ORL 12/15/1990 ORL @ SAC L 31 21 10 15 66.7 0 0 - 1 3 33.3 6 2 8 2 1 1 4 4 -
+p583
+aVMichael Ansley ORL 12/15/1990 ORL @ SAC L 6 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -
+p584
+aVTerry Catledge ORL 12/15/1990 ORL @ SAC L 41 21 7 17 41.2 0 0 - 7 7 100.0 2 8 10 2 0 0 2 4 -
+p585
+aVDennis Scott ORL 12/15/1990 ORL @ SAC L 28 14 4 12 33.3 2 7 28.6 4 6 66.7 0 2 2 3 0 0 1 4 -
+p586
+aVGreg Kite ORL 12/15/1990 ORL @ SAC L 30 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 2 5 -
+p587
+aVScott Skiles ORL 12/15/1990 ORL @ SAC L 41 13 4 8 50.0 1 1 100.0 4 6 66.7 0 5 5 14 1 0 2 1 -
+p588
+aVTerry Catledge ORL 12/13/1990 ORL @ PHX L 32 19 7 15 46.7 0 0 - 5 7 71.4 4 7 11 0 1 1 6 6 -
+p589
+aVMichael Ansley ORL 12/13/1990 ORL @ PHX L 16 10 4 5 80.0 0 0 - 2 4 50.0 2 3 5 0 1 0 1 3 -
+p590
+aVNick Anderson ORL 12/13/1990 ORL @ PHX L 17 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 2 4 2 -
+p591
+aVScott Skiles ORL 12/13/1990 ORL @ PHX L 48 25 7 18 38.9 1 4 25.0 10 11 90.9 0 1 1 8 1 0 4 1 -
+p592
+aVMark Acres ORL 12/13/1990 ORL @ PHX L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -
+p593
+aVDennis Scott ORL 12/13/1990 ORL @ PHX L 36 22 9 15 60.0 2 4 50.0 2 2 100.0 0 2 2 7 0 0 1 5 -
+p594
+aVGreg Kite ORL 12/13/1990 ORL @ PHX L 33 10 5 9 55.6 0 0 - 0 0 - 5 10 15 1 0 3 1 5 -
+p595
+aVJeff Turner ORL 12/13/1990 ORL @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p596
+aVOtis Smith ORL 12/13/1990 ORL @ PHX L 32 19 9 19 47.4 1 3 33.3 0 0 - 5 5 10 5 0 1 3 3 -
+p597
+aVJerry Reynolds ORL 12/13/1990 ORL @ PHX L 12 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p598
+aVDennis Scott ORL 12/11/1990 ORL vs. PHL L 42 29 11 26 42.3 5 7 71.4 2 2 100.0 2 3 5 0 1 2 0 4 -
+p599
+aVNick Anderson ORL 12/11/1990 ORL vs. PHL L 25 8 4 7 57.1 0 3 0.0 0 0 - 1 4 5 3 0 1 4 1 -
+p600
+aVJerry Reynolds ORL 12/11/1990 ORL vs. PHL L 4 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -
+p601
+aVGreg Kite ORL 12/11/1990 ORL vs. PHL L 23 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 0 3 3 6 -
+p602
+aVOtis Smith ORL 12/11/1990 ORL vs. PHL L 26 17 7 14 50.0 1 1 100.0 2 3 66.7 2 3 5 2 0 0 1 2 -
+p603
+aVMark Acres ORL 12/11/1990 ORL vs. PHL L 24 12 5 7 71.4 0 0 - 2 4 50.0 7 4 11 0 1 1 0 5 -
+p604
+aVScott Skiles ORL 12/11/1990 ORL vs. PHL L 39 20 8 16 50.0 2 4 50.0 2 3 66.7 1 4 5 10 0 0 2 4 -
+p605
+aVTerry Catledge ORL 12/11/1990 ORL vs. PHL L 35 20 7 17 41.2 0 0 - 6 8 75.0 4 7 11 1 0 1 1 3 -
+p606
+aVMichael Ansley ORL 12/11/1990 ORL vs. PHL L 13 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 0 0 0 4 -
+p607
+aVMorlon Wiley ORL 12/11/1990 ORL vs. PHL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 5 1 0 1 1 -
+p608
+aVGreg Kite ORL 12/08/1990 ORL vs. PHX L 33 6 3 6 50.0 0 0 - 0 0 - 3 5 8 1 0 3 0 4 -
+p609
+aVJeff Turner ORL 12/08/1990 ORL vs. PHX L 4 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p610
+aVScott Skiles ORL 12/08/1990 ORL vs. PHX L 41 13 5 10 50.0 0 1 0.0 3 3 100.0 0 4 4 8 0 1 6 6 -
+p611
+aVMark Acres ORL 12/08/1990 ORL vs. PHX L 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -
+p612
+aVOtis Smith ORL 12/08/1990 ORL vs. PHX L 32 18 7 19 36.8 1 3 33.3 3 4 75.0 5 1 6 4 2 0 3 4 -
+p613
+aVNick Anderson ORL 12/08/1990 ORL vs. PHX L 17 5 2 5 40.0 0 2 0.0 1 2 50.0 1 1 2 1 1 1 3 1 -
+p614
+aVMichael Ansley ORL 12/08/1990 ORL vs. PHX L 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -
+p615
+aVJerry Reynolds ORL 12/08/1990 ORL vs. PHX L 25 11 5 17 29.4 0 0 - 1 1 100.0 0 1 1 2 0 3 0 0 -
+p616
+aVTerry Catledge ORL 12/08/1990 ORL vs. PHX L 41 30 12 20 60.0 0 1 0.0 6 7 85.7 6 6 12 4 1 0 1 4 -
+p617
+aVMorlon Wiley ORL 12/08/1990 ORL vs. PHX L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -
+p618
+aVDennis Scott ORL 12/08/1990 ORL vs. PHX L 24 20 7 14 50.0 2 4 50.0 4 7 57.1 0 2 2 2 1 0 1 3 -
+p619
+aVMorlon Wiley ORL 12/07/1990 ORL vs. SEA W 10 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 0 0 2 1 -
+p620
+aVTerry Catledge ORL 12/07/1990 ORL vs. SEA W 28 8 3 10 30.0 0 0 - 2 2 100.0 2 4 6 1 0 1 1 1 -
+p621
+aVDennis Scott ORL 12/07/1990 ORL vs. SEA W 16 5 2 6 33.3 1 5 20.0 0 0 - 0 1 1 1 0 1 0 1 -
+p622
+aVScott Skiles ORL 12/07/1990 ORL vs. SEA W 38 14 5 11 45.5 0 2 0.0 4 4 100.0 2 0 2 9 2 0 5 2 -
+p623
+aVNick Anderson ORL 12/07/1990 ORL vs. SEA W 16 10 5 8 62.5 0 1 0.0 0 2 0.0 0 1 1 2 1 0 1 1 -
+p624
+aVJerry Reynolds ORL 12/07/1990 ORL vs. SEA W 33 14 6 10 60.0 0 0 - 2 3 66.7 0 4 4 5 4 2 6 0 -
+p625
+aVGreg Kite ORL 12/07/1990 ORL vs. SEA W 28 9 4 8 50.0 0 0 - 1 7 14.3 4 2 6 2 1 2 1 3 -
+p626
+aVMichael Ansley ORL 12/07/1990 ORL vs. SEA W 20 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 0 1 0 1 3 -
+p627
+aVOtis Smith ORL 12/07/1990 ORL vs. SEA W 32 33 13 19 68.4 0 0 - 7 10 70.0 5 3 8 4 2 1 1 1 -
+p628
+aVMark Acres ORL 12/07/1990 ORL vs. SEA W 19 2 0 2 0.0 0 0 - 2 2 100.0 3 1 4 0 2 1 0 1 -
+p629
+aVJerry Reynolds ORL 12/05/1990 ORL vs. POR L 13 6 1 3 33.3 0 1 0.0 4 4 100.0 0 1 1 1 0 0 1 3 -
+p630
+aVDennis Scott ORL 12/05/1990 ORL vs. POR L 35 18 8 19 42.1 2 7 28.6 0 0 - 0 2 2 1 0 0 2 3 -
+p631
+aVMark Acres ORL 12/05/1990 ORL vs. POR L 30 9 4 6 66.7 0 0 - 1 2 50.0 3 4 7 0 0 1 0 4 -
+p632
+aVScott Skiles ORL 12/05/1990 ORL vs. POR L 48 27 10 18 55.6 3 6 50.0 4 4 100.0 0 6 6 18 1 0 4 3 -
+p633
+aVOtis Smith ORL 12/05/1990 ORL vs. POR L 26 13 6 14 42.9 0 0 - 1 2 50.0 3 3 6 4 0 0 2 3 -
+p634
+aVNick Anderson ORL 12/05/1990 ORL vs. POR L 25 13 4 15 26.7 1 3 33.3 4 7 57.1 2 2 4 1 1 1 1 3 -
+p635
+aVTerry Catledge ORL 12/05/1990 ORL vs. POR L 41 18 8 16 50.0 0 0 - 2 6 33.3 4 6 10 0 2 0 3 4 -
+p636
+aVMichael Ansley ORL 12/05/1990 ORL vs. POR L 5 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 1 0 0 1 -
+p637
+aVGreg Kite ORL 12/05/1990 ORL vs. POR L 17 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -
+p638
+aVDennis Scott ORL 12/04/1990 ORL @ NYK W 23 10 4 15 26.7 2 5 40.0 0 0 - 2 0 2 2 0 0 0 2 -
+p639
+aVNick Anderson ORL 12/04/1990 ORL @ NYK W 24 14 6 12 50.0 1 2 50.0 1 4 25.0 0 3 3 1 1 0 1 0 -
+p640
+aVScott Skiles ORL 12/04/1990 ORL @ NYK W 38 24 9 15 60.0 1 2 50.0 5 5 100.0 0 5 5 9 2 0 5 4 -
+p641
+aVGreg Kite ORL 12/04/1990 ORL @ NYK W 31 6 3 7 42.9 0 0 - 0 2 0.0 3 10 13 1 1 0 2 5 -
+p642
+aVMark Acres ORL 12/04/1990 ORL @ NYK W 17 4 2 3 66.7 0 0 - 0 0 - 3 0 3 3 2 0 0 5 -
+p643
+aVOtis Smith ORL 12/04/1990 ORL @ NYK W 24 11 5 9 55.6 0 1 0.0 1 1 100.0 4 5 9 6 5 0 1 1 -
+p644
+aVMichael Ansley ORL 12/04/1990 ORL @ NYK W 14 2 1 2 50.0 0 0 - 0 2 0.0 1 3 4 1 0 0 0 2 -
+p645
+aVMorlon Wiley ORL 12/04/1990 ORL @ NYK W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 0 0 1 -
+p646
+aVJerry Reynolds ORL 12/04/1990 ORL @ NYK W 25 16 6 10 60.0 0 1 0.0 4 4 100.0 0 4 4 4 2 1 5 2 -
+p647
+aVTerry Catledge ORL 12/04/1990 ORL @ NYK W 34 24 10 18 55.6 0 0 - 4 6 66.7 1 6 7 2 1 0 2 4 -
+p648
+aVHoward Wright ORL 12/01/1990 ORL @ NJN L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -
+p649
+aVNick Anderson ORL 12/01/1990 ORL @ NJN L 27 18 8 12 66.7 2 2 100.0 0 0 - 3 6 9 2 0 0 3 3 -
+p650
+aVOtis Smith ORL 12/01/1990 ORL @ NJN L 34 14 3 8 37.5 0 0 - 8 10 80.0 1 3 4 3 0 2 9 4 -
+p651
+aVJerry Reynolds ORL 12/01/1990 ORL @ NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p652
+aVJeff Turner ORL 12/01/1990 ORL @ NJN L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p653
+aVTerry Catledge ORL 12/01/1990 ORL @ NJN L 32 10 5 11 45.5 0 0 - 0 0 - 3 4 7 0 0 0 2 1 -
+p654
+aVMark Acres ORL 12/01/1990 ORL @ NJN L 24 4 1 5 20.0 0 0 - 2 2 100.0 3 5 8 0 1 1 2 4 -
+p655
+aVScott Skiles ORL 12/01/1990 ORL @ NJN L 40 27 11 20 55.0 1 5 20.0 4 6 66.7 4 5 9 1 1 0 3 4 -
+p656
+aVDennis Scott ORL 12/01/1990 ORL @ NJN L 32 8 3 18 16.7 1 9 11.1 1 2 50.0 2 1 3 2 1 0 2 4 -
+p657
+aVMichael Ansley ORL 12/01/1990 ORL @ NJN L 19 8 2 4 50.0 0 0 - 4 4 100.0 1 2 3 1 2 0 2 3 -
+p658
+aVGreg Kite ORL 12/01/1990 ORL @ NJN L 16 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 2 -
+p659
+aVScott Skiles ORL 11/30/1990 ORL vs. GOS L 34 19 8 18 44.4 1 5 20.0 2 2 100.0 0 3 3 10 1 0 2 5 -
+p660
+aVDennis Scott ORL 11/30/1990 ORL vs. GOS L 35 24 8 19 42.1 6 10 60.0 2 2 100.0 1 2 3 1 3 0 0 3 -
+p661
+aVTerry Catledge ORL 11/30/1990 ORL vs. GOS L 33 16 5 11 45.5 0 0 - 6 7 85.7 2 5 7 4 1 0 3 1 -
+p662
+aVMichael Ansley ORL 11/30/1990 ORL vs. GOS L 25 10 3 5 60.0 0 0 - 4 8 50.0 4 4 8 2 0 0 0 4 -
+p663
+aVJeff Turner ORL 11/30/1990 ORL vs. GOS L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -
+p664
+aVOtis Smith ORL 11/30/1990 ORL vs. GOS L 29 16 7 11 63.6 0 1 0.0 2 5 40.0 5 6 11 4 1 2 4 5 -
+p665
+aVGreg Kite ORL 11/30/1990 ORL vs. GOS L 19 2 1 2 50.0 0 0 - 0 2 0.0 0 5 5 1 0 0 1 3 -
+p666
+aVNick Anderson ORL 11/30/1990 ORL vs. GOS L 23 15 5 9 55.6 0 0 - 5 8 62.5 1 3 4 1 1 0 1 2 -
+p667
+aVJerry Reynolds ORL 11/30/1990 ORL vs. GOS L 9 4 1 6 16.7 0 0 - 2 2 100.0 0 0 0 0 3 0 2 0 -
+p668
+aVHoward Wright ORL 11/30/1990 ORL vs. GOS L 11 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 2 2 1 -
+p669
+aVSam Vincent ORL 11/30/1990 ORL vs. GOS L 14 4 2 5 40.0 0 0 - 0 0 - 0 3 3 3 0 0 1 0 -
+p670
+aVMichael Ansley ORL 11/27/1990 ORL @ DEN L 19 10 3 4 75.0 0 0 - 4 6 66.7 3 2 5 0 0 0 1 1 -
+p671
+aVScott Skiles ORL 11/27/1990 ORL @ DEN L 16 15 6 9 66.7 2 3 66.7 1 1 100.0 3 2 5 3 1 0 2 1 -
+p672
+aVHoward Wright ORL 11/27/1990 ORL @ DEN L 15 1 0 6 0.0 0 0 - 1 2 50.0 2 5 7 0 0 0 1 3 -
+p673
+aVNick Anderson ORL 11/27/1990 ORL @ DEN L 29 12 5 16 31.3 1 3 33.3 1 2 50.0 0 5 5 2 0 0 1 1 -
+p674
+aVTerry Catledge ORL 11/27/1990 ORL @ DEN L 35 30 14 24 58.3 0 0 - 2 6 33.3 2 3 5 1 2 0 1 2 -
+p675
+aVDennis Scott ORL 11/27/1990 ORL @ DEN L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 0 1 0 1 -
+p676
+aVSam Vincent ORL 11/27/1990 ORL @ DEN L 32 14 6 16 37.5 0 0 - 2 4 50.0 1 2 3 3 0 0 2 3 -
+p677
+aVOtis Smith ORL 11/27/1990 ORL @ DEN L 26 16 7 15 46.7 0 0 - 2 2 100.0 5 3 8 2 0 0 1 4 -
+p678
+aVJerry Reynolds ORL 11/27/1990 ORL @ DEN L 30 13 6 19 31.6 0 0 - 1 1 100.0 5 6 11 2 1 2 3 0 -
+p679
+aVGreg Kite ORL 11/27/1990 ORL @ DEN L 31 2 1 2 50.0 0 0 - 0 0 - 5 10 15 3 0 0 3 2 -
+p680
+aVMark Acres ORL 11/25/1990 ORL @ LAC L 7 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -
+p681
+aVJerry Reynolds ORL 11/25/1990 ORL @ LAC L 19 8 2 10 20.0 0 1 0.0 4 4 100.0 0 0 0 3 3 0 3 2 -
+p682
+aVHoward Wright ORL 11/25/1990 ORL @ LAC L 30 13 4 10 40.0 0 0 - 5 7 71.4 2 3 5 2 1 2 2 5 -
+p683
+aVJeff Turner ORL 11/25/1990 ORL @ LAC L 11 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -
+p684
+aVTerry Catledge ORL 11/25/1990 ORL @ LAC L 26 16 7 13 53.8 0 0 - 2 5 40.0 2 3 5 0 1 0 2 2 -
+p685
+aVNick Anderson ORL 11/25/1990 ORL @ LAC L 25 12 4 10 40.0 0 0 - 4 5 80.0 2 3 5 2 0 0 1 2 -
+p686
+aVOtis Smith ORL 11/25/1990 ORL @ LAC L 29 8 2 10 20.0 0 0 - 4 5 80.0 4 3 7 1 1 0 2 2 -
+p687
+aVScott Skiles ORL 11/25/1990 ORL @ LAC L 10 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 1 0 3 0 -
+p688
+aVSam Vincent ORL 11/25/1990 ORL @ LAC L 37 14 4 14 28.6 0 0 - 6 8 75.0 0 1 1 7 2 1 2 2 -
+p689
+aVDennis Scott ORL 11/25/1990 ORL @ LAC L 24 6 2 7 28.6 1 3 33.3 1 2 50.0 0 3 3 0 2 0 4 2 -
+p690
+aVGreg Kite ORL 11/25/1990 ORL @ LAC L 22 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 2 1 5 -
+p691
+aVJeff Turner ORL 11/24/1990 ORL @ LAL L 15 11 3 5 60.0 0 0 - 5 5 100.0 3 4 7 0 1 0 2 3 -
+p692
+aVTerry Catledge ORL 11/24/1990 ORL @ LAL L 25 11 5 12 41.7 0 0 - 1 4 25.0 0 3 3 0 0 0 0 2 -
+p693
+aVJerry Reynolds ORL 11/24/1990 ORL @ LAL L 26 12 5 11 45.5 0 1 0.0 2 2 100.0 1 3 4 3 1 2 0 1 -
+p694
+aVHoward Wright ORL 11/24/1990 ORL @ LAL L 19 6 2 6 33.3 0 0 - 2 2 100.0 0 5 5 0 1 1 0 2 -
+p695
+aVOtis Smith ORL 11/24/1990 ORL @ LAL L 21 6 3 13 23.1 0 1 0.0 0 0 - 3 1 4 2 0 0 1 2 -
+p696
+aVScott Skiles ORL 11/24/1990 ORL @ LAL L 16 5 1 4 25.0 0 2 0.0 3 3 100.0 2 0 2 5 1 0 1 0 -
+p697
+aVNick Anderson ORL 11/24/1990 ORL @ LAL L 24 5 2 10 20.0 1 1 100.0 0 0 - 2 2 4 3 0 0 1 4 -
+p698
+aVMichael Ansley ORL 11/24/1990 ORL @ LAL L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p699
+aVDennis Scott ORL 11/24/1990 ORL @ LAL L 23 21 9 20 45.0 2 5 40.0 1 3 33.3 1 0 1 0 0 0 1 4 -
+p700
+aVSam Vincent ORL 11/24/1990 ORL @ LAL L 32 6 3 10 30.0 0 1 0.0 0 0 - 0 5 5 4 1 0 2 2 -
+p701
+aVGreg Kite ORL 11/24/1990 ORL @ LAL L 31 6 3 4 75.0 0 0 - 0 0 - 3 4 7 0 0 2 1 2 -
+p702
+aVDennis Scott ORL 11/21/1990 ORL @ UTH L 21 9 3 10 30.0 3 5 60.0 0 0 - 1 2 3 0 0 0 1 1 -
+p703
+aVJeff Turner ORL 11/21/1990 ORL @ UTH L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -
+p704
+aVHoward Wright ORL 11/21/1990 ORL @ UTH L 18 6 3 8 37.5 0 0 - 0 1 0.0 3 3 6 0 1 0 3 5 -
+p705
+aVOtis Smith ORL 11/21/1990 ORL @ UTH L 16 8 3 6 50.0 0 1 0.0 2 3 66.7 1 4 5 2 1 0 2 0 -
+p706
+aVGreg Kite ORL 11/21/1990 ORL @ UTH L 23 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -
+p707
+aVJerry Reynolds ORL 11/21/1990 ORL @ UTH L 27 6 2 6 33.3 1 1 100.0 1 2 50.0 0 4 4 6 0 1 3 0 -
+p708
+aVMichael Ansley ORL 11/21/1990 ORL @ UTH L 5 4 2 5 40.0 0 0 - 0 0 - 4 0 4 0 0 0 0 2 -
+p709
+aVSam Vincent ORL 11/21/1990 ORL @ UTH L 26 10 4 11 36.4 0 1 0.0 2 3 66.7 1 0 1 2 0 0 3 3 -
+p710
+aVTerry Catledge ORL 11/21/1990 ORL @ UTH L 41 18 7 18 38.9 0 0 - 4 7 57.1 4 5 9 1 0 0 4 4 -
+p711
+aVNick Anderson ORL 11/21/1990 ORL @ UTH L 32 16 7 13 53.8 0 1 0.0 2 2 100.0 1 5 6 2 2 1 1 2 -
+p712
+aVScott Skiles ORL 11/21/1990 ORL @ UTH L 22 6 2 7 28.6 1 4 25.0 1 1 100.0 1 2 3 6 1 0 2 1 -
+p713
+aVDennis Scott ORL 11/20/1990 ORL @ GOS L 25 16 6 13 46.2 4 6 66.7 0 0 - 1 0 1 1 3 0 0 5 -
+p714
+aVScott Skiles ORL 11/20/1990 ORL @ GOS L 9 11 4 6 66.7 1 1 100.0 2 2 100.0 0 2 2 7 1 0 0 1 -
+p715
+aVMichael Ansley ORL 11/20/1990 ORL @ GOS L 10 9 2 4 50.0 0 0 - 5 5 100.0 2 2 4 1 0 0 2 5 -
+p716
+aVTerry Catledge ORL 11/20/1990 ORL @ GOS L 35 17 4 10 40.0 0 0 - 9 11 81.8 4 6 10 1 0 0 4 1 -
+p717
+aVSam Vincent ORL 11/20/1990 ORL @ GOS L 37 11 3 11 27.3 0 2 0.0 5 5 100.0 1 1 2 8 2 0 4 3 -
+p718
+aVJeff Turner ORL 11/20/1990 ORL @ GOS L 16 8 4 5 80.0 0 0 - 0 0 - 1 5 6 2 0 1 1 4 -
+p719
+aVHoward Wright ORL 11/20/1990 ORL @ GOS L 24 9 3 3 100.0 0 0 - 3 5 60.0 2 8 10 1 0 0 0 5 -
+p720
+aVJerry Reynolds ORL 11/20/1990 ORL @ GOS L 23 11 4 9 44.4 0 0 - 3 6 50.0 0 2 2 3 1 2 4 3 -
+p721
+aVOtis Smith ORL 11/20/1990 ORL @ GOS L 16 15 5 15 33.3 0 2 0.0 5 6 83.3 1 2 3 2 3 0 4 5 -
+p722
+aVNick Anderson ORL 11/20/1990 ORL @ GOS L 34 13 5 11 45.5 0 0 - 3 7 42.9 1 3 4 2 2 1 2 1 -
+p723
+aVGreg Kite ORL 11/20/1990 ORL @ GOS L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p724
+aVScott Skiles ORL 11/17/1990 ORL vs. IND W 5 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 0 -
+p725
+aVGreg Kite ORL 11/17/1990 ORL vs. IND W 39 3 1 4 25.0 0 0 - 1 1 100.0 2 8 10 1 0 1 2 5 -
+p726
+aVDennis Scott ORL 11/17/1990 ORL vs. IND W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p727
+aVTerry Catledge ORL 11/17/1990 ORL vs. IND W 38 20 9 18 50.0 0 1 0.0 2 5 40.0 4 8 12 2 3 1 3 0 -
+p728
+aVNick Anderson ORL 11/17/1990 ORL vs. IND W 30 12 5 13 38.5 0 0 - 2 5 40.0 2 8 10 4 0 0 1 1 -
+p729
+aVSam Vincent ORL 11/17/1990 ORL vs. IND W 43 26 8 17 47.1 1 2 50.0 9 10 90.0 1 3 4 5 2 0 3 2 -
+p730
+aVOtis Smith ORL 11/17/1990 ORL vs. IND W 23 9 3 12 25.0 0 2 0.0 3 3 100.0 3 1 4 3 0 0 2 1 -
+p731
+aVJerry Reynolds ORL 11/17/1990 ORL vs. IND W 34 17 5 12 41.7 0 0 - 7 10 70.0 4 5 9 2 2 0 2 3 -
+p732
+aVJeff Turner ORL 11/17/1990 ORL vs. IND W 12 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 2 3 -
+p733
+aVMichael Ansley ORL 11/17/1990 ORL vs. IND W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p734
+aVGreg Kite ORL 11/15/1990 ORL vs. UTH W 48 5 2 6 33.3 0 0 - 1 2 50.0 2 10 12 1 0 0 1 4 -
+p735
+aVScott Skiles ORL 11/15/1990 ORL vs. UTH W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -
+p736
+aVDennis Scott ORL 11/15/1990 ORL vs. UTH W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p737
+aVJeff Turner ORL 11/15/1990 ORL vs. UTH W 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p738
+aVNick Anderson ORL 11/15/1990 ORL vs. UTH W 42 23 10 20 50.0 0 1 0.0 3 4 75.0 0 7 7 3 2 0 3 2 -
+p739
+aVSam Vincent ORL 11/15/1990 ORL vs. UTH W 43 21 9 16 56.3 0 1 0.0 3 4 75.0 1 2 3 7 0 0 4 3 -
+p740
+aVJerry Reynolds ORL 11/15/1990 ORL vs. UTH W 34 22 8 10 80.0 0 0 - 6 6 100.0 0 1 1 4 1 2 3 1 -
+p741
+aVOtis Smith ORL 11/15/1990 ORL vs. UTH W 27 14 6 8 75.0 1 1 100.0 1 2 50.0 2 4 6 4 2 0 4 3 -
+p742
+aVMichael Ansley ORL 11/15/1990 ORL vs. UTH W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -
+p743
+aVTerry Catledge ORL 11/15/1990 ORL vs. UTH W 38 13 4 11 36.4 0 0 - 5 7 71.4 5 7 12 0 2 0 5 4 -
+p744
+aVNick Anderson ORL 11/13/1990 ORL vs. DAL W 31 18 8 12 66.7 0 2 0.0 2 3 66.7 1 4 5 4 0 0 1 2 -
+p745
+aVTerry Catledge ORL 11/13/1990 ORL vs. DAL W 43 30 13 21 61.9 0 0 - 4 8 50.0 1 4 5 3 1 0 4 4 -
+p746
+aVJeff Turner ORL 11/13/1990 ORL vs. DAL W 20 9 4 7 57.1 0 0 - 1 1 100.0 2 4 6 1 0 0 2 1 -
+p747
+aVScott Skiles ORL 11/13/1990 ORL vs. DAL W 16 5 1 5 20.0 0 2 0.0 3 4 75.0 0 0 0 6 0 0 1 3 -
+p748
+aVJerry Reynolds ORL 11/13/1990 ORL vs. DAL W 21 8 1 3 33.3 0 0 - 6 8 75.0 1 2 3 3 1 1 0 3 -
+p749
+aVOtis Smith ORL 11/13/1990 ORL vs. DAL W 18 5 2 8 25.0 0 0 - 1 3 33.3 4 4 8 2 0 1 1 2 -
+p750
+aVSam Vincent ORL 11/13/1990 ORL vs. DAL W 32 16 5 8 62.5 0 1 0.0 6 6 100.0 1 4 5 7 0 0 0 3 -
+p751
+aVDennis Scott ORL 11/13/1990 ORL vs. DAL W 26 13 5 7 71.4 3 4 75.0 0 0 - 0 1 1 0 1 1 2 2 -
+p752
+aVGreg Kite ORL 11/13/1990 ORL vs. DAL W 33 5 2 6 33.3 0 0 - 1 1 100.0 2 5 7 2 0 0 1 5 -
+p753
+aVMichael Ansley ORL 11/11/1990 ORL @ MIN L 27 7 3 8 37.5 0 0 - 1 2 50.0 2 1 3 0 0 2 0 3 -
+p754
+aVGreg Kite ORL 11/11/1990 ORL @ MIN L 31 4 2 3 66.7 0 0 - 0 1 0.0 0 6 6 2 0 1 2 3 -
+p755
+aVDennis Scott ORL 11/11/1990 ORL @ MIN L 34 13 5 12 41.7 3 5 60.0 0 0 - 1 0 1 5 1 0 2 0 -
+p756
+aVSam Vincent ORL 11/11/1990 ORL @ MIN L 32 14 4 11 36.4 0 0 - 6 6 100.0 1 2 3 2 1 1 0 2 -
+p757
+aVOtis Smith ORL 11/11/1990 ORL @ MIN L 28 22 7 16 43.8 0 2 0.0 8 11 72.7 3 3 6 2 1 0 2 4 -
+p758
+aVNick Anderson ORL 11/11/1990 ORL @ MIN L 26 13 5 11 45.5 0 1 0.0 3 5 60.0 1 3 4 0 3 2 6 2 -
+p759
+aVMark Acres ORL 11/11/1990 ORL @ MIN L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -
+p760
+aVScott Skiles ORL 11/11/1990 ORL @ MIN L 16 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 5 0 0 2 1 -
+p761
+aVTerry Catledge ORL 11/11/1990 ORL @ MIN L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 4 2 -
+p762
+aVJeff Turner ORL 11/11/1990 ORL @ MIN L 31 4 2 6 33.3 0 1 0.0 0 0 - 0 5 5 0 1 0 1 3 -
+p763
+aVNick Anderson ORL 11/09/1990 ORL @ DAL L 39 29 12 21 57.1 2 2 100.0 3 5 60.0 2 5 7 4 0 0 3 2 -
+p764
+aVJerry Reynolds ORL 11/09/1990 ORL @ DAL L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 1 0 1 -
+p765
+aVMichael Ansley ORL 11/09/1990 ORL @ DAL L 24 11 4 8 50.0 0 0 - 3 4 75.0 4 5 9 0 0 0 2 4 -
+p766
+aVOtis Smith ORL 11/09/1990 ORL @ DAL L 19 14 5 11 45.5 1 3 33.3 3 6 50.0 2 1 3 1 2 0 1 3 -
+p767
+aVScott Skiles ORL 11/09/1990 ORL @ DAL L 11 5 2 6 33.3 0 1 0.0 1 2 50.0 0 2 2 2 0 0 1 1 -
+p768
+aVJeff Turner ORL 11/09/1990 ORL @ DAL L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p769
+aVMark Acres ORL 11/09/1990 ORL @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p770
+aVGreg Kite ORL 11/09/1990 ORL @ DAL L 42 9 4 8 50.0 0 0 - 1 1 100.0 3 7 10 0 0 0 2 5 -
+p771
+aVSam Vincent ORL 11/09/1990 ORL @ DAL L 37 14 6 11 54.5 0 0 - 2 2 100.0 2 4 6 12 2 0 4 3 -
+p772
+aVDennis Scott ORL 11/09/1990 ORL @ DAL L 30 9 4 6 66.7 1 1 100.0 0 0 - 0 5 5 0 0 0 3 2 -
+p773
+aVTerry Catledge ORL 11/09/1990 ORL @ DAL L 18 8 3 8 37.5 0 0 - 2 4 50.0 0 2 2 0 0 0 1 1 -
+p774
+aVMark McNamara ORL 11/08/1990 ORL @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p775
+aVJerry Reynolds ORL 11/08/1990 ORL @ HOU L 12 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 1 0 0 0 -
+p776
+aVTerry Catledge ORL 11/08/1990 ORL @ HOU L 15 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 1 2 -
+p777
+aVGreg Kite ORL 11/08/1990 ORL @ HOU L 31 4 2 4 50.0 0 0 - 0 0 - 8 3 11 2 0 0 1 6 -
+p778
+aVSam Vincent ORL 11/08/1990 ORL @ HOU L 29 10 3 9 33.3 0 0 - 4 5 80.0 1 4 5 7 1 0 3 1 -
+p779
+aVScott Skiles ORL 11/08/1990 ORL @ HOU L 20 8 3 10 30.0 2 3 66.7 0 0 - 1 1 2 7 2 0 2 3 -
+p780
+aVNick Anderson ORL 11/08/1990 ORL @ HOU L 33 16 7 20 35.0 0 1 0.0 2 3 66.7 3 5 8 4 1 1 4 2 -
+p781
+aVOtis Smith ORL 11/08/1990 ORL @ HOU L 15 8 4 8 50.0 0 0 - 0 0 - 2 2 4 2 0 1 1 2 -
+p782
+aVMichael Ansley ORL 11/08/1990 ORL @ HOU L 27 13 5 8 62.5 0 0 - 3 3 100.0 3 5 8 1 2 0 2 4 -
+p783
+aVJeff Turner ORL 11/08/1990 ORL @ HOU L 19 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 5 -
+p784
+aVDennis Scott ORL 11/08/1990 ORL @ HOU L 37 28 10 20 50.0 3 9 33.3 5 6 83.3 0 4 4 2 1 0 1 1 -
+p785
+aVMark Acres ORL 11/06/1990 ORL vs. CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -
+p786
+aVMark McNamara ORL 11/06/1990 ORL vs. CLE L 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -
+p787
+aVOtis Smith ORL 11/06/1990 ORL vs. CLE L 27 15 5 16 31.3 1 3 33.3 4 6 66.7 3 1 4 3 2 1 5 2 -
+p788
+aVMichael Ansley ORL 11/06/1990 ORL vs. CLE L 21 15 6 8 75.0 0 0 - 3 5 60.0 3 1 4 1 2 1 2 2 -
+p789
+aVJeff Turner ORL 11/06/1990 ORL vs. CLE L 15 9 4 8 50.0 0 1 0.0 1 2 50.0 3 3 6 0 0 0 1 3 -
+p790
+aVTerry Catledge ORL 11/06/1990 ORL vs. CLE L 21 4 2 11 18.2 0 0 - 0 0 - 4 1 5 0 0 0 1 1 -
+p791
+aVSam Vincent ORL 11/06/1990 ORL vs. CLE L 35 17 6 15 40.0 0 1 0.0 5 7 71.4 1 6 7 11 4 0 3 5 -
+p792
+aVGreg Kite ORL 11/06/1990 ORL vs. CLE L 22 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 5 -
+p793
+aVJerry Reynolds ORL 11/06/1990 ORL vs. CLE L 23 12 2 9 22.2 0 0 - 8 8 100.0 2 2 4 1 2 0 1 0 -
+p794
+aVScott Skiles ORL 11/06/1990 ORL vs. CLE L 14 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 1 2 -
+p795
+aVNick Anderson ORL 11/06/1990 ORL vs. CLE L 28 20 8 19 42.1 1 2 50.0 3 4 75.0 3 4 7 2 2 0 2 4 -
+p796
+aVDennis Scott ORL 11/06/1990 ORL vs. CLE L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 4 -
+p797
+aVOtis Smith ORL 11/03/1990 ORL vs. CHH L 23 10 3 10 30.0 1 2 50.0 3 4 75.0 5 7 12 1 0 0 2 3 -
+p798
+aVScott Skiles ORL 11/03/1990 ORL vs. CHH L 22 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 5 0 0 1 3 -
+p799
+aVJeff Turner ORL 11/03/1990 ORL vs. CHH L 15 4 2 7 28.6 0 0 - 0 0 - 2 5 7 0 0 0 4 3 -
+p800
+aVMark Acres ORL 11/03/1990 ORL vs. CHH L 13 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 2 -
+p801
+aVNick Anderson ORL 11/03/1990 ORL vs. CHH L 38 27 13 26 50.0 0 0 - 1 5 20.0 4 5 9 3 0 0 3 2 -
+p802
+aVSam Vincent ORL 11/03/1990 ORL vs. CHH L 26 9 4 9 44.4 0 2 0.0 1 2 50.0 1 1 2 5 2 0 5 1 -
+p803
+aVTerry Catledge ORL 11/03/1990 ORL vs. CHH L 20 7 3 8 37.5 0 0 - 1 2 50.0 2 1 3 0 0 0 1 2 -
+p804
+aVJerry Reynolds ORL 11/03/1990 ORL vs. CHH L 23 12 5 9 55.6 0 0 - 2 2 100.0 2 1 3 2 0 0 2 0 -
+p805
+aVDennis Scott ORL 11/03/1990 ORL vs. CHH L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p806
+aVMichael Ansley ORL 11/03/1990 ORL vs. CHH L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 1 0 0 2 -
+p807
+aVGreg Kite ORL 11/03/1990 ORL vs. CHH L 34 13 5 11 45.5 0 0 - 3 5 60.0 4 4 8 1 1 0 2 2 -
+p808
+aVGreg Kite ORL 11/02/1990 ORL @ ATL L 35 6 3 5 60.0 0 0 - 0 1 0.0 4 4 8 1 1 1 2 4 -
+p809
+aVJeff Turner ORL 11/02/1990 ORL @ ATL L 16 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 0 0 0 3 -
+p810
+aVTerry Catledge ORL 11/02/1990 ORL @ ATL L 28 27 10 14 71.4 0 0 - 7 12 58.3 3 5 8 1 1 0 3 0 -
+p811
+aVJerry Reynolds ORL 11/02/1990 ORL @ ATL L 12 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 1 1 1 -
+p812
+aVDennis Scott ORL 11/02/1990 ORL @ ATL L 29 9 3 11 27.3 2 5 40.0 1 1 100.0 0 2 2 4 1 1 0 3 -
+p813
+aVMark Acres ORL 11/02/1990 ORL @ ATL L 11 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 0 0 1 2 -
+p814
+aVNick Anderson ORL 11/02/1990 ORL @ ATL L 33 19 9 14 64.3 0 0 - 1 2 50.0 2 4 6 2 2 2 2 2 -
+p815
+aVScott Skiles ORL 11/02/1990 ORL @ ATL L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 0 0 2 2 -
+p816
+aVOtis Smith ORL 11/02/1990 ORL @ ATL L 24 16 5 15 33.3 0 0 - 6 8 75.0 5 7 12 1 2 0 1 4 -
+p817
+aVSam Vincent ORL 11/02/1990 ORL @ ATL L 33 18 8 17 47.1 0 0 - 2 2 100.0 0 2 2 7 2 0 3 4 -
+p818
+aVMichael Ansley ORL 11/02/1990 ORL @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p819
+a.

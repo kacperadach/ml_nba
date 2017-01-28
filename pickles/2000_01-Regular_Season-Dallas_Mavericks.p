@@ -1,0 +1,1600 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCalvin Booth DAL 04/18/2001 DAL vs. MIN W 17 12 6 11 54.5 0 0 - 0 0 - 1 6 7 1 0 3 0 1 17
+p2
+aVDonnell Harvey DAL 04/18/2001 DAL vs. MIN W 7 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 3 3 -6
+p3
+aVShawn Bradley DAL 04/18/2001 DAL vs. MIN W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 11
+p4
+aVSteve Nash DAL 04/18/2001 DAL vs. MIN W 23 13 6 9 66.7 1 3 33.3 0 0 - 0 2 2 7 0 0 2 2 23
+p5
+aVDirk Nowitzki DAL 04/18/2001 DAL vs. MIN W 29 15 5 10 50.0 1 3 33.3 4 4 100.0 1 7 8 3 2 4 1 1 32
+p6
+aVMark Bryant DAL 04/18/2001 DAL vs. MIN W 17 6 2 5 40.0 0 0 - 2 4 50.0 0 1 1 0 1 0 0 3 -6
+p7
+aVEduardo Najera DAL 04/18/2001 DAL vs. MIN W 22 8 4 9 44.4 0 1 0.0 0 0 - 3 4 7 3 1 1 1 2 -7
+p8
+aVWang Zhi-zhi DAL 04/18/2001 DAL vs. MIN W 18 13 5 10 50.0 0 1 0.0 3 4 75.0 0 3 3 0 0 0 0 2 -12
+p9
+aVJuwan Howard DAL 04/18/2001 DAL vs. MIN W 25 13 6 9 66.7 0 1 0.0 1 1 100.0 0 4 4 6 0 0 2 3 31
+p10
+aVHoward Eisley DAL 04/18/2001 DAL vs. MIN W 25 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 4 1 0 0 2 -3
+p11
+aVMichael Finley DAL 04/18/2001 DAL vs. MIN W 28 24 10 14 71.4 3 4 75.0 1 2 50.0 1 5 6 7 3 1 1 2 36
+p12
+aVVernon Maxwell DAL 04/18/2001 DAL vs. MIN W 20 1 0 6 0.0 0 3 0.0 1 1 100.0 0 3 3 2 0 0 3 1 -16
+p13
+aVShawn Bradley DAL 04/16/2001 DAL @ GSW W 18 10 3 3 100.0 0 0 - 4 4 100.0 0 9 9 0 1 3 2 4 13
+p14
+aVJuwan Howard DAL 04/16/2001 DAL @ GSW W 34 30 12 18 66.7 0 0 - 6 7 85.7 3 3 6 0 0 3 5 4 1
+p15
+aVCalvin Booth DAL 04/16/2001 DAL @ GSW W 26 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 3 0 2 3 4 -5
+p16
+aVMichael Finley DAL 04/16/2001 DAL @ GSW W 45 21 8 18 44.4 3 5 60.0 2 5 40.0 1 5 6 4 1 1 0 2 5
+p17
+aVSteve Nash DAL 04/16/2001 DAL @ GSW W 32 17 6 9 66.7 3 3 100.0 2 2 100.0 1 3 4 6 0 0 6 1 12
+p18
+aVDirk Nowitzki DAL 04/16/2001 DAL @ GSW W 34 14 2 8 25.0 0 2 0.0 10 13 76.9 2 2 4 4 0 1 1 6 6
+p19
+aVHoward Eisley DAL 04/16/2001 DAL @ GSW W 25 9 3 4 75.0 1 1 100.0 2 2 100.0 0 2 2 6 3 0 0 6 4
+p20
+aVVernon Maxwell DAL 04/16/2001 DAL @ GSW W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 0
+p21
+aVWang Zhi-zhi DAL 04/16/2001 DAL @ GSW W 9 5 1 3 33.3 0 0 - 3 4 75.0 1 0 1 0 0 0 1 2 1
+p22
+aVEduardo Najera DAL 04/16/2001 DAL @ GSW W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 8
+p23
+aVMichael Finley DAL 04/15/2001 DAL @ SEA W 46 26 8 19 42.1 4 10 40.0 6 6 100.0 1 4 5 1 2 1 2 1 2
+p24
+aVCalvin Booth DAL 04/15/2001 DAL @ SEA W 16 9 4 7 57.1 0 0 - 1 3 33.3 2 3 5 1 1 1 2 3 -3
+p25
+aVVernon Maxwell DAL 04/15/2001 DAL @ SEA W 22 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 2 1 0 2 1 -7
+p26
+aVHoward Eisley DAL 04/15/2001 DAL @ SEA W 28 9 3 6 50.0 2 5 40.0 1 2 50.0 0 3 3 3 0 0 1 3 8
+p27
+aVDirk Nowitzki DAL 04/15/2001 DAL @ SEA W 47 22 7 20 35.0 1 8 12.5 7 9 77.8 3 12 15 4 3 2 3 4 12
+p28
+aVSteve Nash DAL 04/15/2001 DAL @ SEA W 30 13 4 10 40.0 1 2 50.0 4 4 100.0 0 4 4 6 1 0 3 2 -6
+p29
+aVJuwan Howard DAL 04/15/2001 DAL @ SEA W 45 11 3 11 27.3 0 0 - 5 6 83.3 5 7 12 5 0 0 4 3 17
+p30
+aVShawn Bradley DAL 04/15/2001 DAL @ SEA W 31 10 4 11 36.4 0 0 - 2 2 100.0 5 8 13 1 0 3 2 2 17
+p31
+aVSteve Nash DAL 04/13/2001 DAL vs. SAC W 27 14 5 10 50.0 1 1 100.0 3 3 100.0 0 1 1 5 1 0 3 4 -5
+p32
+aVMichael Finley DAL 04/13/2001 DAL vs. SAC W 48 31 11 29 37.9 2 4 50.0 7 9 77.8 1 2 3 4 1 0 0 1 4
+p33
+aVDirk Nowitzki DAL 04/13/2001 DAL vs. SAC W 43 13 5 15 33.3 0 4 0.0 3 6 50.0 1 5 6 2 1 0 2 0 -2
+p34
+aVCalvin Booth DAL 04/13/2001 DAL vs. SAC W 24 7 2 5 40.0 0 0 - 3 4 75.0 1 5 6 1 3 5 1 5 -5
+p35
+aVJuwan Howard DAL 04/13/2001 DAL vs. SAC W 47 26 12 23 52.2 0 0 - 2 2 100.0 6 6 12 4 1 0 4 5 6
+p36
+aVShawn Bradley DAL 04/13/2001 DAL vs. SAC W 30 8 4 7 57.1 0 1 0.0 0 0 - 2 13 15 2 0 5 1 3 13
+p37
+aVHoward Eisley DAL 04/13/2001 DAL vs. SAC W 21 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 9
+p38
+aVEduardo Najera DAL 04/11/2001 DAL @ PHX L 14 6 3 5 60.0 0 0 - 0 0 - 1 3 4 3 0 0 0 2 -16
+p39
+aVHoward Eisley DAL 04/11/2001 DAL @ PHX L 15 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -2
+p40
+aVShawn Bradley DAL 04/11/2001 DAL @ PHX L 29 4 1 2 50.0 0 0 - 2 4 50.0 0 4 4 1 0 1 0 5 1
+p41
+aVJuwan Howard DAL 04/11/2001 DAL @ PHX L 45 23 9 16 56.3 0 0 - 5 6 83.3 1 4 5 3 3 1 3 4 0
+p42
+aVCalvin Booth DAL 04/11/2001 DAL @ PHX L 12 2 1 3 33.3 0 0 - 0 2 0.0 2 0 2 1 0 0 1 3 -6
+p43
+aVMichael Finley DAL 04/11/2001 DAL @ PHX L 47 34 11 23 47.8 2 4 50.0 10 11 90.9 1 6 7 4 0 0 3 2 -5
+p44
+aVSteve Nash DAL 04/11/2001 DAL @ PHX L 41 18 6 16 37.5 3 10 30.0 3 3 100.0 0 2 2 5 3 1 4 1 1
+p45
+aVDirk Nowitzki DAL 04/11/2001 DAL @ PHX L 38 19 7 13 53.8 0 1 0.0 5 6 83.3 0 11 11 1 2 1 1 4 2
+p46
+aVHoward Eisley DAL 04/10/2001 DAL @ SAS L 17 0 0 3 0.0 0 0 - 0 0 - 0 1 1 4 1 0 0 0 -2
+p47
+aVSteve Nash DAL 04/10/2001 DAL @ SAS L 28 2 1 6 16.7 0 3 0.0 0 0 - 0 4 4 5 2 0 4 1 -14
+p48
+aVVernon Maxwell DAL 04/10/2001 DAL @ SAS L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -3
+p49
+aVJuwan Howard DAL 04/10/2001 DAL @ SAS L 37 16 6 17 35.3 0 0 - 4 4 100.0 2 1 3 1 1 0 3 4 -3
+p50
+aVEduardo Najera DAL 04/10/2001 DAL @ SAS L 6 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 1
+p51
+aVCalvin Booth DAL 04/10/2001 DAL @ SAS L 30 10 4 8 50.0 0 0 - 2 2 100.0 4 7 11 3 0 2 2 5 3
+p52
+aVMichael Finley DAL 04/10/2001 DAL @ SAS L 42 25 9 19 47.4 3 5 60.0 4 7 57.1 2 5 7 3 1 0 2 2 -13
+p53
+aVDirk Nowitzki DAL 04/10/2001 DAL @ SAS L 38 20 7 16 43.8 3 7 42.9 3 3 100.0 0 7 7 0 0 3 3 4 -12
+p54
+aVWang Zhi-zhi DAL 04/10/2001 DAL @ SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -11
+p55
+aVShawn Bradley DAL 04/10/2001 DAL @ SAS L 31 4 1 8 12.5 0 1 0.0 2 2 100.0 4 5 9 1 2 5 1 3 -6
+p56
+aVEduardo Najera DAL 04/07/2001 DAL vs. UTA L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p57
+aVDirk Nowitzki DAL 04/07/2001 DAL vs. UTA L 43 22 7 16 43.8 1 5 20.0 7 7 100.0 0 9 9 2 0 3 4 5 -9
+p58
+aVWang Zhi-zhi DAL 04/07/2001 DAL vs. UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p59
+aVShawn Bradley DAL 04/07/2001 DAL vs. UTA L 18 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 1 2 3 -10
+p60
+aVJuwan Howard DAL 04/07/2001 DAL vs. UTA L 38 24 7 13 53.8 0 0 - 10 10 100.0 0 4 4 2 1 0 3 5 -12
+p61
+aVCalvin Booth DAL 04/07/2001 DAL vs. UTA L 16 9 3 3 100.0 0 0 - 3 4 75.0 1 5 6 2 1 1 2 5 -3
+p62
+aVMichael Finley DAL 04/07/2001 DAL vs. UTA L 45 14 5 10 50.0 1 5 20.0 3 3 100.0 1 2 3 4 2 1 7 4 -16
+p63
+aVHoward Eisley DAL 04/07/2001 DAL vs. UTA L 19 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 1 1 -9
+p64
+aVVernon Maxwell DAL 04/07/2001 DAL vs. UTA L 22 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 0 2 0 0 2 -4
+p65
+aVSteve Nash DAL 04/07/2001 DAL vs. UTA L 33 12 3 7 42.9 2 3 66.7 4 4 100.0 0 2 2 11 1 0 4 5 0
+p66
+aVSteve Nash DAL 04/05/2001 DAL vs. ATL W 23 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 6 1 0 0 2 -2
+p67
+aVObinna Ekezie DAL 04/05/2001 DAL vs. ATL W 3 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p68
+aVJuwan Howard DAL 04/05/2001 DAL vs. ATL W 32 20 6 14 42.9 0 0 - 8 10 80.0 1 6 7 2 1 1 2 3 15
+p69
+aVVernon Maxwell DAL 04/05/2001 DAL vs. ATL W 10 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 1 21
+p70
+aVDirk Nowitzki DAL 04/05/2001 DAL vs. ATL W 34 18 5 12 41.7 3 5 60.0 5 5 100.0 1 4 5 2 5 0 1 1 15
+p71
+aVCalvin Booth DAL 04/05/2001 DAL vs. ATL W 21 12 4 8 50.0 0 0 - 4 4 100.0 1 2 3 1 1 2 2 4 -9
+p72
+aVEduardo Najera DAL 04/05/2001 DAL vs. ATL W 16 7 3 3 100.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 0
+p73
+aVHoward Eisley DAL 04/05/2001 DAL vs. ATL W 32 8 2 4 50.0 1 2 50.0 3 4 75.0 0 2 2 7 1 0 1 3 9
+p74
+aVMichael Finley DAL 04/05/2001 DAL vs. ATL W 34 11 4 14 28.6 1 4 25.0 2 3 66.7 0 1 1 5 1 1 2 0 6
+p75
+aVShawn Bradley DAL 04/05/2001 DAL vs. ATL W 27 16 6 12 50.0 0 1 0.0 4 5 80.0 5 10 15 0 0 3 1 0 23
+p76
+aVWang Zhi-zhi DAL 04/05/2001 DAL vs. ATL W 8 6 2 5 40.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 2 -6
+p77
+aVShawn Bradley DAL 04/03/2001 DAL @ HOU W 9 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 10
+p78
+aVHoward Eisley DAL 04/03/2001 DAL @ HOU W 28 9 3 5 60.0 1 1 100.0 2 2 100.0 1 3 4 2 0 0 0 1 9
+p79
+aVGreg Buckner DAL 04/03/2001 DAL @ HOU W 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p80
+aVVernon Maxwell DAL 04/03/2001 DAL @ HOU W 33 8 3 10 30.0 2 5 40.0 0 0 - 0 3 3 4 1 0 1 4 9
+p81
+aVObinna Ekezie DAL 04/03/2001 DAL @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p82
+aVCalvin Booth DAL 04/03/2001 DAL @ HOU W 16 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 1 1 0 5 0
+p83
+aVEduardo Najera DAL 04/03/2001 DAL @ HOU W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p84
+aVSteve Nash DAL 04/03/2001 DAL @ HOU W 38 16 7 12 58.3 0 0 - 2 3 66.7 3 3 6 9 1 0 4 5 -3
+p85
+aVDirk Nowitzki DAL 04/03/2001 DAL @ HOU W 33 20 9 16 56.3 1 7 14.3 1 3 33.3 0 9 9 1 1 1 0 4 21
+p86
+aVMichael Finley DAL 04/03/2001 DAL @ HOU W 41 27 12 21 57.1 1 3 33.3 2 2 100.0 2 4 6 3 1 0 3 2 21
+p87
+aVJuwan Howard DAL 04/03/2001 DAL @ HOU W 28 23 8 13 61.5 0 0 - 7 7 100.0 1 5 6 1 0 0 3 4 12
+p88
+aVShawn Bradley DAL 04/01/2001 DAL @ SAC W 10 0 0 3 0.0 0 0 - 0 0 - 4 1 5 0 0 1 0 3 -4
+p89
+aVCalvin Booth DAL 04/01/2001 DAL @ SAC W 15 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 2 3 1 5 4
+p90
+aVVernon Maxwell DAL 04/01/2001 DAL @ SAC W 11 7 3 4 75.0 1 2 50.0 0 0 - 1 0 1 1 0 0 0 1 4
+p91
+aVSteve Nash DAL 04/01/2001 DAL @ SAC W 40 18 7 14 50.0 1 4 25.0 3 3 100.0 0 1 1 12 4 0 4 3 6
+p92
+aVHoward Eisley DAL 04/01/2001 DAL @ SAC W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 15
+p93
+aVJuwan Howard DAL 04/01/2001 DAL @ SAC W 46 32 15 27 55.6 0 0 - 2 3 66.7 2 10 12 5 3 0 4 2 10
+p94
+aVDirk Nowitzki DAL 04/01/2001 DAL @ SAC W 48 25 9 15 60.0 5 7 71.4 2 2 100.0 1 10 11 3 0 1 1 4 12
+p95
+aVMichael Finley DAL 04/01/2001 DAL @ SAC W 45 23 8 21 38.1 2 5 40.0 5 6 83.3 1 5 6 5 1 1 3 2 14
+p96
+aVGreg Buckner DAL 04/01/2001 DAL @ SAC W 15 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -1
+p97
+aVShawn Bradley DAL 03/30/2001 DAL @ LAL L 23 12 6 10 60.0 0 0 - 0 0 - 0 3 3 0 2 1 0 4 -7
+p98
+aVDirk Nowitzki DAL 03/30/2001 DAL @ LAL L 40 24 7 13 53.8 3 5 60.0 7 12 58.3 3 6 9 3 2 1 0 2 -4
+p99
+aVMichael Finley DAL 03/30/2001 DAL @ LAL L 41 18 8 18 44.4 0 3 0.0 2 5 40.0 1 3 4 3 0 0 1 1 -2
+p100
+aVGreg Buckner DAL 03/30/2001 DAL @ LAL L 18 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -5
+p101
+aVObinna Ekezie DAL 03/30/2001 DAL @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p102
+aVEduardo Najera DAL 03/30/2001 DAL @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p103
+aVJuwan Howard DAL 03/30/2001 DAL @ LAL L 37 6 3 5 60.0 0 0 - 0 0 - 0 2 2 4 1 0 1 3 -12
+p104
+aVSteve Nash DAL 03/30/2001 DAL @ LAL L 28 10 5 13 38.5 0 2 0.0 0 0 - 0 2 2 4 0 0 5 1 -18
+p105
+aVCalvin Booth DAL 03/30/2001 DAL @ LAL L 28 10 5 9 55.6 0 0 - 0 0 - 1 3 4 2 3 3 0 5 2
+p106
+aVHoward Eisley DAL 03/30/2001 DAL @ LAL L 23 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 6 2 0 1 1 1
+p107
+aVHoward Eisley DAL 03/28/2001 DAL @ POR W 18 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -3
+p108
+aVSteve Nash DAL 03/28/2001 DAL @ POR W 31 14 5 12 41.7 2 4 50.0 2 2 100.0 0 3 3 8 0 0 5 2 17
+p109
+aVGreg Buckner DAL 03/28/2001 DAL @ POR W 18 9 4 6 66.7 0 0 - 1 1 100.0 1 4 5 4 2 0 0 3 7
+p110
+aVCalvin Booth DAL 03/28/2001 DAL @ POR W 24 4 2 3 66.7 0 0 - 0 0 - 2 3 5 2 0 3 1 5 1
+p111
+aVShawn Bradley DAL 03/28/2001 DAL @ POR W 22 1 0 4 0.0 0 0 - 1 2 50.0 1 4 5 2 0 0 1 4 1
+p112
+aVMichael Finley DAL 03/28/2001 DAL @ POR W 45 23 10 20 50.0 3 6 50.0 0 0 - 4 2 6 3 1 0 1 0 6
+p113
+aVJuwan Howard DAL 03/28/2001 DAL @ POR W 38 24 11 21 52.4 0 0 - 2 4 50.0 1 5 6 3 1 0 3 5 5
+p114
+aVDirk Nowitzki DAL 03/28/2001 DAL @ POR W 43 19 6 14 42.9 3 9 33.3 4 4 100.0 0 14 14 2 2 2 4 4 16
+p115
+aVDirk Nowitzki DAL 03/26/2001 DAL @ UTA W 41 27 5 18 27.8 2 8 25.0 15 17 88.2 1 12 13 2 1 0 1 3 19
+p116
+aVMichael Finley DAL 03/26/2001 DAL @ UTA W 48 33 13 28 46.4 5 8 62.5 2 2 100.0 3 9 12 3 0 0 1 1 8
+p117
+aVSteve Nash DAL 03/26/2001 DAL @ UTA W 36 9 2 11 18.2 0 0 - 5 5 100.0 0 6 6 9 1 1 3 4 7
+p118
+aVVernon Maxwell DAL 03/26/2001 DAL @ UTA W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 1 0 2 -8
+p119
+aVCalvin Booth DAL 03/26/2001 DAL @ UTA W 13 8 4 5 80.0 0 0 - 0 0 - 2 1 3 0 0 2 0 1 6
+p120
+aVShawn Bradley DAL 03/26/2001 DAL @ UTA W 28 8 2 6 33.3 0 0 - 4 4 100.0 2 5 7 0 0 4 0 1 3
+p121
+aVMark Bryant DAL 03/26/2001 DAL @ UTA W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p122
+aVGreg Buckner DAL 03/26/2001 DAL @ UTA W 12 3 1 3 33.3 0 0 - 1 1 100.0 0 2 2 2 1 0 0 4 6
+p123
+aVHoward Eisley DAL 03/26/2001 DAL @ UTA W 16 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 1
+p124
+aVJuwan Howard DAL 03/26/2001 DAL @ UTA W 34 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 1 0 1 5 -1
+p125
+aVDirk Nowitzki DAL 03/24/2001 DAL vs. CHH W 40 27 8 16 50.0 3 6 50.0 8 11 72.7 1 6 7 2 2 0 1 3 3
+p126
+aVGreg Buckner DAL 03/24/2001 DAL vs. CHH W 17 0 0 0 - 0 0 - 0 0 - 0 1 1 4 0 1 0 4 -9
+p127
+aVSteve Nash DAL 03/24/2001 DAL vs. CHH W 36 22 8 13 61.5 4 7 57.1 2 4 50.0 2 3 5 2 1 0 3 4 6
+p128
+aVCalvin Booth DAL 03/24/2001 DAL vs. CHH W 19 3 1 3 33.3 0 0 - 1 4 25.0 1 3 4 1 0 0 2 3 17
+p129
+aVMichael Finley DAL 03/24/2001 DAL vs. CHH W 45 31 10 18 55.6 0 2 0.0 11 12 91.7 1 9 10 7 1 0 5 3 5
+p130
+aVHoward Eisley DAL 03/24/2001 DAL vs. CHH W 17 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 2 0 0 0 3 -9
+p131
+aVShawn Bradley DAL 03/24/2001 DAL vs. CHH W 28 10 4 8 50.0 0 0 - 2 2 100.0 3 9 12 1 0 5 0 5 -10
+p132
+aVJuwan Howard DAL 03/24/2001 DAL vs. CHH W 38 8 3 11 27.3 0 0 - 2 6 33.3 1 9 10 3 0 1 3 3 12
+p133
+aVVernon Maxwell DAL 03/21/2001 DAL @ MIN L 21 6 2 7 28.6 0 1 0.0 2 4 50.0 0 2 2 1 1 1 1 1 9
+p134
+aVJuwan Howard DAL 03/21/2001 DAL @ MIN L 29 13 6 16 37.5 0 0 - 1 2 50.0 2 3 5 2 0 1 2 3 -14
+p135
+aVSteve Nash DAL 03/21/2001 DAL @ MIN L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 4 0 0 1 1 -18
+p136
+aVMichael Finley DAL 03/21/2001 DAL @ MIN L 38 16 4 13 30.8 1 3 33.3 7 7 100.0 1 3 4 3 1 1 5 2 -15
+p137
+aVEduardo Najera DAL 03/21/2001 DAL @ MIN L 14 4 2 2 100.0 0 0 - 0 2 0.0 0 5 5 0 0 0 0 0 11
+p138
+aVHoward Eisley DAL 03/21/2001 DAL @ MIN L 40 10 4 10 40.0 2 4 50.0 0 0 - 1 1 2 6 3 1 1 2 -3
+p139
+aVShawn Bradley DAL 03/21/2001 DAL @ MIN L 16 7 2 3 66.7 1 1 100.0 2 2 100.0 0 7 7 0 0 0 2 2 2
+p140
+aVGreg Buckner DAL 03/21/2001 DAL @ MIN L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 2 0 2 3 -3
+p141
+aVDirk Nowitzki DAL 03/21/2001 DAL @ MIN L 39 30 11 20 55.0 2 5 40.0 6 6 100.0 2 2 4 1 0 1 1 1 -21
+p142
+aVCalvin Booth DAL 03/21/2001 DAL @ MIN L 16 8 3 5 60.0 0 0 - 2 6 33.3 4 1 5 1 0 2 0 1 -8
+p143
+aVMichael Finley DAL 03/20/2001 DAL vs. POR L 42 24 9 22 40.9 1 5 20.0 5 6 83.3 1 2 3 2 1 1 1 2 -5
+p144
+aVJuwan Howard DAL 03/20/2001 DAL vs. POR L 43 20 9 18 50.0 0 0 - 2 4 50.0 3 7 10 2 0 5 2 6 -8
+p145
+aVSteve Nash DAL 03/20/2001 DAL vs. POR L 37 9 2 12 16.7 1 4 25.0 4 7 57.1 1 4 5 9 1 0 1 3 -8
+p146
+aVVernon Maxwell DAL 03/20/2001 DAL vs. POR L 6 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p147
+aVDirk Nowitzki DAL 03/20/2001 DAL vs. POR L 43 15 5 14 35.7 4 8 50.0 1 2 50.0 3 10 13 2 3 2 2 3 -9
+p148
+aVShawn Bradley DAL 03/20/2001 DAL vs. POR L 34 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 2 0 2 2 5 6
+p149
+aVHoward Eisley DAL 03/20/2001 DAL vs. POR L 12 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 4 -2
+p150
+aVGreg Buckner DAL 03/20/2001 DAL vs. POR L 22 11 4 6 66.7 0 0 - 3 4 75.0 1 0 1 1 0 0 0 2 -11
+p151
+aVShawn Bradley DAL 03/17/2001 DAL vs. PHX W 18 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 1 1 5 3
+p152
+aVJuwan Howard DAL 03/17/2001 DAL vs. PHX W 41 11 4 14 28.6 0 0 - 3 4 75.0 4 10 14 3 2 0 2 4 8
+p153
+aVGreg Buckner DAL 03/17/2001 DAL vs. PHX W 19 6 2 3 66.7 1 1 100.0 1 2 50.0 2 2 4 2 0 1 0 5 10
+p154
+aVDirk Nowitzki DAL 03/17/2001 DAL vs. PHX W 46 34 12 20 60.0 2 3 66.7 8 8 100.0 4 9 13 1 1 4 2 4 10
+p155
+aVMichael Finley DAL 03/17/2001 DAL vs. PHX W 41 20 8 16 50.0 2 3 66.7 2 6 33.3 1 5 6 11 3 0 0 3 19
+p156
+aVSteve Nash DAL 03/17/2001 DAL vs. PHX W 38 28 10 19 52.6 2 3 66.7 6 6 100.0 1 2 3 3 0 0 4 0 13
+p157
+aVVernon Maxwell DAL 03/17/2001 DAL vs. PHX W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p158
+aVEduardo Najera DAL 03/17/2001 DAL vs. PHX W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p159
+aVHoward Eisley DAL 03/17/2001 DAL vs. PHX W 22 3 1 5 20.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 2 2 -12
+p160
+aVDonnell Harvey DAL 03/15/2001 DAL vs. MIN W 2 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p161
+aVEduardo Najera DAL 03/15/2001 DAL vs. MIN W 4 6 2 2 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p162
+aVJuwan Howard DAL 03/15/2001 DAL vs. MIN W 31 10 3 10 30.0 0 0 - 4 6 66.7 1 5 6 4 2 2 5 4 17
+p163
+aVSteve Nash DAL 03/15/2001 DAL vs. MIN W 34 18 4 10 40.0 2 3 66.7 8 8 100.0 0 2 2 7 1 0 5 0 23
+p164
+aVMichael Finley DAL 03/15/2001 DAL vs. MIN W 43 22 10 21 47.6 1 3 33.3 1 2 50.0 2 8 10 4 0 0 1 2 18
+p165
+aVGreg Buckner DAL 03/15/2001 DAL vs. MIN W 17 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 -9
+p166
+aVVernon Maxwell DAL 03/15/2001 DAL vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p167
+aVHoward Eisley DAL 03/15/2001 DAL vs. MIN W 27 16 5 5 100.0 4 4 100.0 2 4 50.0 0 2 2 1 0 0 0 5 0
+p168
+aVMark Bryant DAL 03/15/2001 DAL vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 4
+p169
+aVDirk Nowitzki DAL 03/15/2001 DAL vs. MIN W 38 14 5 15 33.3 2 4 50.0 2 2 100.0 2 12 14 2 2 1 1 3 25
+p170
+aVShawn Bradley DAL 03/15/2001 DAL vs. MIN W 35 11 4 9 44.4 0 0 - 3 3 100.0 2 11 13 0 1 3 1 2 23
+p171
+aVJuwan Howard DAL 03/13/2001 DAL vs. NJN W 38 27 8 15 53.3 0 0 - 11 11 100.0 1 8 9 4 1 0 4 3 21
+p172
+aVVernon Maxwell DAL 03/13/2001 DAL vs. NJN W 18 11 4 7 57.1 2 5 40.0 1 2 50.0 0 1 1 2 0 0 2 2 1
+p173
+aVGreg Buckner DAL 03/13/2001 DAL vs. NJN W 20 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 10
+p174
+aVDonnell Harvey DAL 03/13/2001 DAL vs. NJN W 5 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 0 1 0 0 2 2
+p175
+aVHoward Eisley DAL 03/13/2001 DAL vs. NJN W 22 7 3 7 42.9 1 1 100.0 0 0 - 0 0 0 5 2 0 2 3 9
+p176
+aVEduardo Najera DAL 03/13/2001 DAL vs. NJN W 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 0 0 0 2 1
+p177
+aVSteve Nash DAL 03/13/2001 DAL vs. NJN W 30 6 2 8 25.0 0 0 - 2 2 100.0 0 2 2 11 0 0 1 2 11
+p178
+aVGary Trent DAL 03/13/2001 DAL vs. NJN W 6 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p179
+aVShawn Bradley DAL 03/13/2001 DAL vs. NJN W 25 12 6 10 60.0 0 0 - 0 0 - 3 5 8 0 1 4 1 3 14
+p180
+aVMichael Finley DAL 03/13/2001 DAL vs. NJN W 35 25 11 18 61.1 3 3 100.0 0 0 - 1 3 4 4 1 0 0 2 30
+p181
+aVDirk Nowitzki DAL 03/13/2001 DAL vs. NJN W 31 25 6 10 60.0 3 4 75.0 10 10 100.0 1 6 7 2 4 1 2 4 19
+p182
+aVGreg Buckner DAL 03/11/2001 DAL vs. LAC W 24 10 5 9 55.6 0 0 - 0 0 - 1 2 3 1 0 0 0 2 6
+p183
+aVJuwan Howard DAL 03/11/2001 DAL vs. LAC W 33 20 8 16 50.0 0 1 0.0 4 4 100.0 2 8 10 2 1 1 2 4 18
+p184
+aVHoward Eisley DAL 03/11/2001 DAL vs. LAC W 22 3 1 6 16.7 1 1 100.0 0 0 - 0 1 1 3 1 0 2 2 -3
+p185
+aVDirk Nowitzki DAL 03/11/2001 DAL vs. LAC W 28 22 9 12 75.0 2 2 100.0 2 2 100.0 0 5 5 6 1 0 2 4 18
+p186
+aVVernon Maxwell DAL 03/11/2001 DAL vs. LAC W 17 2 1 8 12.5 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -10
+p187
+aVEduardo Najera DAL 03/11/2001 DAL vs. LAC W 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 0 -3
+p188
+aVGary Trent DAL 03/11/2001 DAL vs. LAC W 9 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 1 1 0 1 1 -4
+p189
+aVSteve Nash DAL 03/11/2001 DAL vs. LAC W 26 16 6 7 85.7 2 2 100.0 2 2 100.0 0 1 1 7 0 0 3 3 21
+p190
+aVDonnell Harvey DAL 03/11/2001 DAL vs. LAC W 10 5 2 4 50.0 0 0 - 1 4 25.0 3 0 3 0 0 0 0 0 -6
+p191
+aVMichael Finley DAL 03/11/2001 DAL vs. LAC W 29 14 5 9 55.6 1 2 50.0 3 4 75.0 0 2 2 8 1 0 0 1 27
+p192
+aVMark Bryant DAL 03/11/2001 DAL vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p193
+aVShawn Bradley DAL 03/11/2001 DAL vs. LAC W 31 12 5 8 62.5 0 0 - 2 3 66.7 1 10 11 1 5 3 0 2 25
+p194
+aVVernon Maxwell DAL 03/09/2001 DAL vs. GSW W 18 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 2 2 1 2 1 12
+p195
+aVMichael Finley DAL 03/09/2001 DAL vs. GSW W 38 12 5 13 38.5 0 1 0.0 2 2 100.0 3 3 6 7 0 0 3 1 20
+p196
+aVEduardo Najera DAL 03/09/2001 DAL vs. GSW W 9 1 0 2 0.0 0 0 - 1 4 25.0 1 1 2 1 1 0 0 0 -2
+p197
+aVMark Bryant DAL 03/09/2001 DAL vs. GSW W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p198
+aVJuwan Howard DAL 03/09/2001 DAL vs. GSW W 35 15 7 16 43.8 0 0 - 1 2 50.0 4 5 9 2 1 1 0 3 34
+p199
+aVGary Trent DAL 03/09/2001 DAL vs. GSW W 10 5 1 4 25.0 0 0 - 3 4 75.0 3 1 4 0 0 0 0 1 -3
+p200
+aVDonnell Harvey DAL 03/09/2001 DAL vs. GSW W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 4
+p201
+aVDirk Nowitzki DAL 03/09/2001 DAL vs. GSW W 36 32 9 16 56.3 0 3 0.0 14 17 82.4 1 7 8 1 3 0 1 2 24
+p202
+aVHoward Eisley DAL 03/09/2001 DAL vs. GSW W 22 4 2 7 28.6 0 3 0.0 0 0 - 0 3 3 3 0 0 2 5 1
+p203
+aVSteve Nash DAL 03/09/2001 DAL vs. GSW W 27 12 5 11 45.5 1 4 25.0 1 1 100.0 0 1 1 7 3 0 1 4 22
+p204
+aVShawn Bradley DAL 03/09/2001 DAL vs. GSW W 37 12 5 12 41.7 0 0 - 2 2 100.0 6 14 20 2 1 5 1 4 31
+p205
+aVMichael Finley DAL 03/07/2001 DAL @ MIA W 40 16 7 13 53.8 2 2 100.0 0 0 - 0 2 2 4 2 0 4 0 4
+p206
+aVSteve Nash DAL 03/07/2001 DAL @ MIA W 34 19 7 10 70.0 0 0 - 5 6 83.3 0 2 2 7 1 0 5 3 11
+p207
+aVJuwan Howard DAL 03/07/2001 DAL @ MIA W 44 16 8 14 57.1 0 0 - 0 0 - 1 13 14 2 1 0 3 3 9
+p208
+aVVernon Maxwell DAL 03/07/2001 DAL @ MIA W 12 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 1 1 0 0 4 -7
+p209
+aVHoward Eisley DAL 03/07/2001 DAL @ MIA W 21 7 2 5 40.0 0 1 0.0 3 4 75.0 0 3 3 0 0 0 1 2 -1
+p210
+aVDirk Nowitzki DAL 03/07/2001 DAL @ MIA W 44 29 10 16 62.5 5 8 62.5 4 6 66.7 0 5 5 2 1 1 2 1 12
+p211
+aVGary Trent DAL 03/07/2001 DAL @ MIA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p212
+aVShawn Bradley DAL 03/07/2001 DAL @ MIA W 42 4 1 2 50.0 0 0 - 2 2 100.0 1 13 14 1 1 9 1 2 15
+p213
+aVGary Trent DAL 03/05/2001 DAL @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p214
+aVHoward Eisley DAL 03/05/2001 DAL @ ORL L 36 3 1 8 12.5 0 2 0.0 1 1 100.0 0 3 3 2 0 0 3 2 -28
+p215
+aVShawn Bradley DAL 03/05/2001 DAL @ ORL L 20 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 0 1 0 2 4 -2
+p216
+aVEduardo Najera DAL 03/05/2001 DAL @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -4
+p217
+aVVernon Maxwell DAL 03/05/2001 DAL @ ORL L 22 8 3 9 33.3 1 7 14.3 1 1 100.0 0 6 6 0 0 0 2 4 -4
+p218
+aVDonnell Harvey DAL 03/05/2001 DAL @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p219
+aVJuwan Howard DAL 03/05/2001 DAL @ ORL L 38 17 4 14 28.6 0 1 0.0 9 11 81.8 2 6 8 3 0 0 5 5 -18
+p220
+aVMichael Finley DAL 03/05/2001 DAL @ ORL L 43 14 4 14 28.6 0 1 0.0 6 6 100.0 0 3 3 3 6 0 0 3 -8
+p221
+aVDirk Nowitzki DAL 03/05/2001 DAL @ ORL L 39 22 6 14 42.9 2 9 22.2 8 11 72.7 2 12 14 1 0 2 5 4 -3
+p222
+aVSteve Nash DAL 03/05/2001 DAL @ ORL L 34 10 5 9 55.6 0 2 0.0 0 2 0.0 1 2 3 6 1 1 3 5 -1
+p223
+aVVernon Maxwell DAL 03/03/2001 DAL vs. HOU W 22 5 2 7 28.6 0 4 0.0 1 2 50.0 0 2 2 2 1 0 1 1 19
+p224
+aVEduardo Najera DAL 03/03/2001 DAL vs. HOU W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p225
+aVShawn Bradley DAL 03/03/2001 DAL vs. HOU W 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 2
+p226
+aVSteve Nash DAL 03/03/2001 DAL vs. HOU W 29 17 6 13 46.2 1 3 33.3 4 4 100.0 2 3 5 7 0 0 2 3 -4
+p227
+aVMichael Finley DAL 03/03/2001 DAL vs. HOU W 44 27 11 21 52.4 1 1 100.0 4 4 100.0 2 6 8 5 4 3 4 2 -2
+p228
+aVDirk Nowitzki DAL 03/03/2001 DAL vs. HOU W 43 26 10 18 55.6 3 6 50.0 3 3 100.0 0 13 13 2 0 5 1 2 6
+p229
+aVGreg Buckner DAL 03/03/2001 DAL vs. HOU W 17 0 0 4 0.0 0 0 - 0 0 - 2 1 3 2 0 0 1 0 5
+p230
+aVHoward Eisley DAL 03/03/2001 DAL vs. HOU W 37 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 4 1 0 1 5 11
+p231
+aVJuwan Howard DAL 03/03/2001 DAL vs. HOU W 32 19 8 11 72.7 0 0 - 3 4 75.0 0 3 3 0 3 0 2 5 -12
+p232
+aVDirk Nowitzki DAL 02/27/2001 DAL @ VAN W 40 31 9 15 60.0 4 6 66.7 9 9 100.0 1 5 6 4 4 2 3 2 11
+p233
+aVSteve Nash DAL 02/27/2001 DAL @ VAN W 35 22 8 13 61.5 0 1 0.0 6 6 100.0 0 4 4 7 2 0 4 4 13
+p234
+aVMichael Finley DAL 02/27/2001 DAL @ VAN W 42 16 8 12 66.7 0 0 - 0 0 - 0 2 2 11 1 0 1 2 11
+p235
+aVEduardo Najera DAL 02/27/2001 DAL @ VAN W 17 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 2 1 1 1 -3
+p236
+aVShawn Bradley DAL 02/27/2001 DAL @ VAN W 19 4 1 4 25.0 0 0 - 2 2 100.0 0 4 4 0 1 0 0 2 -14
+p237
+aVHoward Eisley DAL 02/27/2001 DAL @ VAN W 21 7 2 6 33.3 2 2 100.0 1 2 50.0 0 0 0 1 2 0 1 1 -15
+p238
+aVJuwan Howard DAL 02/27/2001 DAL @ VAN W 39 20 10 16 62.5 0 0 - 0 3 0.0 2 2 4 2 1 0 2 5 17
+p239
+aVGreg Buckner DAL 02/27/2001 DAL @ VAN W 27 10 5 8 62.5 0 0 - 0 0 - 0 1 1 1 1 0 0 3 0
+p240
+aVJuwan Howard DAL 02/26/2001 DAL @ LAC W 32 15 6 10 60.0 0 0 - 3 4 75.0 1 0 1 1 3 0 2 4 3
+p241
+aVSteve Nash DAL 02/26/2001 DAL @ LAC W 32 10 3 11 27.3 0 1 0.0 4 4 100.0 2 1 3 11 2 0 2 3 8
+p242
+aVEduardo Najera DAL 02/26/2001 DAL @ LAC W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p243
+aVDonnell Harvey DAL 02/26/2001 DAL @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p244
+aVObinna Ekezie DAL 02/26/2001 DAL @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p245
+aVMichael Finley DAL 02/26/2001 DAL @ LAC W 41 23 10 21 47.6 1 4 25.0 2 2 100.0 3 2 5 3 1 0 3 3 10
+p246
+aVDirk Nowitzki DAL 02/26/2001 DAL @ LAC W 39 22 8 11 72.7 0 2 0.0 6 10 60.0 2 3 5 1 0 0 1 3 17
+p247
+aVHoward Eisley DAL 02/26/2001 DAL @ LAC W 33 7 2 8 25.0 1 4 25.0 2 2 100.0 0 0 0 3 4 0 0 1 13
+p248
+aVShawn Bradley DAL 02/26/2001 DAL @ LAC W 22 10 3 3 100.0 0 0 - 4 4 100.0 1 9 10 1 0 1 0 4 8
+p249
+aVGreg Buckner DAL 02/26/2001 DAL @ LAC W 33 12 4 8 50.0 0 1 0.0 4 5 80.0 0 7 7 1 2 0 1 2 1
+p250
+aVHoward Eisley DAL 02/24/2001 DAL vs. SAS L 34 14 5 9 55.6 2 4 50.0 2 2 100.0 1 2 3 0 0 0 1 5 -3
+p251
+aVMichael Finley DAL 02/24/2001 DAL vs. SAS L 45 23 10 24 41.7 1 5 20.0 2 2 100.0 2 5 7 4 3 1 1 2 6
+p252
+aVGreg Buckner DAL 02/24/2001 DAL vs. SAS L 19 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -5
+p253
+aVSteve Nash DAL 02/24/2001 DAL vs. SAS L 42 29 11 16 68.8 2 5 40.0 5 5 100.0 3 1 4 10 1 0 3 4 -2
+p254
+aVGary Trent DAL 02/24/2001 DAL vs. SAS L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p255
+aVEduardo Najera DAL 02/24/2001 DAL vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p256
+aVDirk Nowitzki DAL 02/24/2001 DAL vs. SAS L 40 16 4 9 44.4 3 5 60.0 5 6 83.3 1 8 9 4 0 1 1 4 8
+p257
+aVJuwan Howard DAL 02/24/2001 DAL vs. SAS L 35 12 4 14 28.6 0 0 - 4 6 66.7 3 4 7 4 1 0 1 4 -18
+p258
+aVShawn Bradley DAL 02/24/2001 DAL vs. SAS L 20 6 3 4 75.0 0 0 - 0 0 - 2 1 3 1 1 3 0 5 6
+p259
+aVGary Trent DAL 02/22/2001 DAL vs. BOS W 16 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 2 1 1 0 3 2
+p260
+aVGreg Buckner DAL 02/22/2001 DAL vs. BOS W 32 15 6 10 60.0 0 1 0.0 3 5 60.0 2 5 7 2 3 0 1 4 8
+p261
+aVHoward Eisley DAL 02/22/2001 DAL vs. BOS W 26 4 2 7 28.6 0 4 0.0 0 0 - 0 1 1 1 1 1 1 2 7
+p262
+aVSteve Nash DAL 02/22/2001 DAL vs. BOS W 36 5 2 7 28.6 0 1 0.0 1 3 33.3 0 2 2 12 1 0 4 0 0
+p263
+aVShawn Bradley DAL 02/22/2001 DAL vs. BOS W 28 14 6 10 60.0 0 0 - 2 2 100.0 3 6 9 1 2 4 2 5 -7
+p264
+aVDirk Nowitzki DAL 02/22/2001 DAL vs. BOS W 32 23 9 18 50.0 4 6 66.7 1 1 100.0 0 5 5 1 2 1 3 5 10
+p265
+aVEduardo Najera DAL 02/22/2001 DAL vs. BOS W 27 9 4 7 57.1 0 0 - 1 2 50.0 6 6 12 1 1 0 1 2 7
+p266
+aVMichael Finley DAL 02/22/2001 DAL vs. BOS W 44 19 7 14 50.0 1 3 33.3 4 4 100.0 0 4 4 7 0 0 4 4 8
+p267
+aVHubert Davis DAL 02/20/2001 DAL vs. LAL L 21 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 1 0 0 2 5 -13
+p268
+aVShawn Bradley DAL 02/20/2001 DAL vs. LAL L 12 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 2 0 3 7
+p269
+aVGreg Buckner DAL 02/20/2001 DAL vs. LAL L 21 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 3 1 1 0 5 -1
+p270
+aVMichael Finley DAL 02/20/2001 DAL vs. LAL L 44 22 9 22 40.9 2 7 28.6 2 3 66.7 3 2 5 5 0 0 1 3 -7
+p271
+aVDirk Nowitzki DAL 02/20/2001 DAL vs. LAL L 41 25 10 18 55.6 2 4 50.0 3 3 100.0 1 7 8 0 1 2 1 3 -12
+p272
+aVSteve Nash DAL 02/20/2001 DAL vs. LAL L 38 31 10 22 45.5 3 9 33.3 8 10 80.0 0 3 3 7 0 0 1 3 -7
+p273
+aVLoy Vaught DAL 02/20/2001 DAL vs. LAL L 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -10
+p274
+aVChristian Laettner DAL 02/20/2001 DAL vs. LAL L 28 9 4 7 57.1 0 0 - 1 2 50.0 1 5 6 2 0 2 0 4 -3
+p275
+aVHoward Eisley DAL 02/20/2001 DAL vs. LAL L 32 9 3 8 37.5 3 6 50.0 0 0 - 0 2 2 2 0 0 1 2 -4
+p276
+aVGary Trent DAL 02/17/2001 DAL vs. WAS W 10 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 1 1 2 3
+p277
+aVHubert Davis DAL 02/17/2001 DAL vs. WAS W 12 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 3
+p278
+aVGreg Buckner DAL 02/17/2001 DAL vs. WAS W 27 11 3 4 75.0 0 0 - 5 7 71.4 2 5 7 2 1 0 0 3 -1
+p279
+aVSteve Nash DAL 02/17/2001 DAL vs. WAS W 30 16 3 10 30.0 1 3 33.3 9 11 81.8 1 1 2 9 1 0 4 3 -9
+p280
+aVShawn Bradley DAL 02/17/2001 DAL vs. WAS W 26 10 3 5 60.0 0 0 - 4 4 100.0 3 2 5 0 0 0 0 2 -2
+p281
+aVLoy Vaught DAL 02/17/2001 DAL vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p282
+aVHoward Eisley DAL 02/17/2001 DAL vs. WAS W 32 7 3 8 37.5 0 3 0.0 1 1 100.0 0 4 4 5 3 0 3 2 14
+p283
+aVDirk Nowitzki DAL 02/17/2001 DAL vs. WAS W 38 25 8 13 61.5 1 1 100.0 8 9 88.9 4 6 10 2 2 0 2 4 5
+p284
+aVChristian Laettner DAL 02/17/2001 DAL vs. WAS W 20 6 3 3 100.0 0 0 - 0 0 - 0 3 3 3 1 0 0 4 9
+p285
+aVMichael Finley DAL 02/17/2001 DAL vs. WAS W 43 26 12 24 50.0 0 3 0.0 2 4 50.0 1 4 5 2 2 0 3 3 15
+p286
+aVMichael Finley DAL 02/15/2001 DAL vs. CLE W 31 17 7 11 63.6 0 0 - 3 4 75.0 2 2 4 4 1 1 6 1 6
+p287
+aVHubert Davis DAL 02/15/2001 DAL vs. CLE W 18 9 4 8 50.0 1 4 25.0 0 0 - 0 0 0 1 1 0 2 0 9
+p288
+aVShawn Bradley DAL 02/15/2001 DAL vs. CLE W 19 13 5 5 100.0 0 0 - 3 3 100.0 1 3 4 0 0 0 0 3 20
+p289
+aVHoward Eisley DAL 02/15/2001 DAL vs. CLE W 39 12 5 12 41.7 1 4 25.0 1 2 50.0 0 3 3 5 3 0 0 1 16
+p290
+aVGary Trent DAL 02/15/2001 DAL vs. CLE W 13 4 1 5 20.0 0 0 - 2 2 100.0 2 2 4 0 1 1 2 2 -9
+p291
+aVDirk Nowitzki DAL 02/15/2001 DAL vs. CLE W 36 17 8 17 47.1 0 1 0.0 1 2 50.0 4 11 15 2 1 3 3 3 28
+p292
+aVGreg Buckner DAL 02/15/2001 DAL vs. CLE W 22 11 5 8 62.5 0 0 - 1 2 50.0 4 4 8 2 0 0 0 3 14
+p293
+aVChristian Laettner DAL 02/15/2001 DAL vs. CLE W 22 8 4 6 66.7 0 0 - 0 0 - 1 4 5 2 2 0 2 4 16
+p294
+aVMark Bryant DAL 02/15/2001 DAL vs. CLE W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -6
+p295
+aVSteve Nash DAL 02/15/2001 DAL vs. CLE W 30 11 4 7 57.1 1 2 50.0 2 3 66.7 0 2 2 2 1 0 2 2 17
+p296
+aVCourtney Alexander DAL 02/15/2001 DAL vs. CLE W 6 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 3 -6
+p297
+aVShawn Bradley DAL 02/13/2001 DAL @ SAS L 23 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 1 2 1 2 -10
+p298
+aVHubert Davis DAL 02/13/2001 DAL @ SAS L 25 8 4 8 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 2 -14
+p299
+aVCourtney Alexander DAL 02/13/2001 DAL @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p300
+aVGary Trent DAL 02/13/2001 DAL @ SAS L 21 8 4 13 30.8 0 0 - 0 0 - 4 4 8 0 2 1 0 2 2
+p301
+aVDirk Nowitzki DAL 02/13/2001 DAL @ SAS L 42 30 10 18 55.6 2 5 40.0 8 8 100.0 2 8 10 2 1 3 2 2 -16
+p302
+aVMichael Finley DAL 02/13/2001 DAL @ SAS L 44 26 10 23 43.5 1 3 33.3 5 6 83.3 0 5 5 2 2 1 4 4 -14
+p303
+aVChristian Laettner DAL 02/13/2001 DAL @ SAS L 7 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -8
+p304
+aVHoward Eisley DAL 02/13/2001 DAL @ SAS L 41 13 4 12 33.3 2 4 50.0 3 4 75.0 0 4 4 2 0 0 2 5 -4
+p305
+aVLoy Vaught DAL 02/13/2001 DAL @ SAS L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 1
+p306
+aVGreg Buckner DAL 02/13/2001 DAL @ SAS L 27 1 0 3 0.0 0 1 0.0 1 2 50.0 4 0 4 3 1 0 1 5 -1
+p307
+aVChristian Laettner DAL 02/07/2001 DAL @ NYK L 22 8 4 5 80.0 0 0 - 0 0 - 3 5 8 2 0 0 3 3 11
+p308
+aVDirk Nowitzki DAL 02/07/2001 DAL @ NYK L 51 16 5 19 26.3 1 7 14.3 5 5 100.0 0 7 7 2 3 0 0 2 6
+p309
+aVMichael Finley DAL 02/07/2001 DAL @ NYK L 57 21 9 22 40.9 3 5 60.0 0 2 0.0 0 5 5 5 1 0 4 4 -2
+p310
+aVHoward Eisley DAL 02/07/2001 DAL @ NYK L 44 17 7 17 41.2 3 10 30.0 0 0 - 0 0 0 4 4 0 2 3 5
+p311
+aVLoy Vaught DAL 02/07/2001 DAL @ NYK L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p312
+aVHubert Davis DAL 02/07/2001 DAL @ NYK L 24 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -10
+p313
+aVCourtney Alexander DAL 02/07/2001 DAL @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p314
+aVShawn Bradley DAL 02/07/2001 DAL @ NYK L 26 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 -20
+p315
+aVGary Trent DAL 02/07/2001 DAL @ NYK L 14 9 4 4 100.0 0 0 - 1 2 50.0 1 2 3 1 1 0 3 1 -8
+p316
+aVGreg Buckner DAL 02/07/2001 DAL @ NYK L 46 12 3 10 30.0 0 1 0.0 6 6 100.0 2 4 6 3 6 1 3 4 4
+p317
+aVCourtney Alexander DAL 02/05/2001 DAL @ ATL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -14
+p318
+aVShawn Bradley DAL 02/05/2001 DAL @ ATL W 28 11 5 12 41.7 0 0 - 1 1 100.0 0 7 7 0 0 6 1 3 24
+p319
+aVChristian Laettner DAL 02/05/2001 DAL @ ATL W 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 4 1 1 2 1 -14
+p320
+aVGary Trent DAL 02/05/2001 DAL @ ATL W 15 6 3 6 50.0 0 0 - 0 1 0.0 0 1 1 1 0 2 2 2 -2
+p321
+aVMichael Finley DAL 02/05/2001 DAL @ ATL W 41 15 6 14 42.9 0 1 0.0 3 4 75.0 1 4 5 3 2 1 0 0 -4
+p322
+aVHoward Eisley DAL 02/05/2001 DAL @ ATL W 42 22 6 13 46.2 3 3 100.0 7 7 100.0 2 5 7 4 2 0 2 4 12
+p323
+aVLoy Vaught DAL 02/05/2001 DAL @ ATL W 6 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 -2
+p324
+aVHubert Davis DAL 02/05/2001 DAL @ ATL W 27 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 24
+p325
+aVGreg Buckner DAL 02/05/2001 DAL @ ATL W 17 11 4 6 66.7 1 1 100.0 2 4 50.0 1 3 4 0 1 1 1 2 22
+p326
+aVDirk Nowitzki DAL 02/05/2001 DAL @ ATL W 39 22 10 16 62.5 0 3 0.0 2 2 100.0 1 10 11 2 2 0 2 4 4
+p327
+aVChristian Laettner DAL 02/03/2001 DAL vs. GSW W 30 15 5 7 71.4 1 1 100.0 4 4 100.0 1 5 6 2 3 1 3 5 8
+p328
+aVMichael Finley DAL 02/03/2001 DAL vs. GSW W 35 7 3 13 23.1 0 1 0.0 1 2 50.0 1 2 3 6 1 0 1 1 -3
+p329
+aVHoward Eisley DAL 02/03/2001 DAL vs. GSW W 45 20 8 19 42.1 4 8 50.0 0 0 - 0 4 4 8 2 0 1 1 1
+p330
+aVShawn Bradley DAL 02/03/2001 DAL vs. GSW W 21 10 5 9 55.6 0 0 - 0 0 - 3 5 8 0 0 3 1 6 4
+p331
+aVDirk Nowitzki DAL 02/03/2001 DAL vs. GSW W 43 23 7 17 41.2 1 4 25.0 8 9 88.9 1 8 9 4 1 2 4 5 8
+p332
+aVHubert Davis DAL 02/03/2001 DAL vs. GSW W 29 15 6 9 66.7 3 4 75.0 0 0 - 0 2 2 0 1 0 0 1 4
+p333
+aVGary Trent DAL 02/03/2001 DAL vs. GSW W 16 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 -5
+p334
+aVGreg Buckner DAL 02/03/2001 DAL vs. GSW W 19 6 2 5 40.0 0 0 - 2 3 66.7 2 3 5 2 1 0 3 4 13
+p335
+aVMichael Finley DAL 02/01/2001 DAL vs. MIA W 50 26 10 22 45.5 2 2 100.0 4 6 66.7 1 10 11 2 1 1 2 0 0
+p336
+aVHoward Eisley DAL 02/01/2001 DAL vs. MIA W 46 17 8 18 44.4 1 3 33.3 0 0 - 0 3 3 4 0 1 2 3 -2
+p337
+aVHubert Davis DAL 02/01/2001 DAL vs. MIA W 21 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 3 2 0 0 0 16
+p338
+aVLoy Vaught DAL 02/01/2001 DAL vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p339
+aVChristian Laettner DAL 02/01/2001 DAL vs. MIA W 19 13 4 7 57.1 0 1 0.0 5 5 100.0 3 4 7 2 0 1 0 1 -1
+p340
+aVGary Trent DAL 02/01/2001 DAL vs. MIA W 14 10 5 7 71.4 0 0 - 0 1 0.0 2 3 5 0 0 1 0 4 7
+p341
+aVGreg Buckner DAL 02/01/2001 DAL vs. MIA W 25 4 1 4 25.0 0 0 - 2 2 100.0 2 4 6 3 0 1 1 5 -2
+p342
+aVDirk Nowitzki DAL 02/01/2001 DAL vs. MIA W 44 10 5 20 25.0 0 4 0.0 0 0 - 1 3 4 2 0 1 2 2 -5
+p343
+aVShawn Bradley DAL 02/01/2001 DAL vs. MIA W 34 4 2 5 40.0 0 0 - 0 0 - 3 10 13 0 1 3 1 4 7
+p344
+aVSteve Nash DAL 02/01/2001 DAL vs. MIA W 12 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 0 0 1 1 0
+p345
+aVGreg Buckner DAL 01/27/2001 DAL @ DEN L 12 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 0 -1
+p346
+aVDirk Nowitzki DAL 01/27/2001 DAL @ DEN L 43 21 7 21 33.3 0 3 0.0 7 8 87.5 2 12 14 6 2 2 2 2 1
+p347
+aVShawn Bradley DAL 01/27/2001 DAL @ DEN L 25 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 5 1 1 2
+p348
+aVLoy Vaught DAL 01/27/2001 DAL @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p349
+aVChristian Laettner DAL 01/27/2001 DAL @ DEN L 18 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 0 1 2 5 -9
+p350
+aVHubert Davis DAL 01/27/2001 DAL @ DEN L 26 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 0 0 0 1 5 8
+p351
+aVHoward Eisley DAL 01/27/2001 DAL @ DEN L 24 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 3 1 1 1 3 -4
+p352
+aVGary Trent DAL 01/27/2001 DAL @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p353
+aVSteve Nash DAL 01/27/2001 DAL @ DEN L 43 23 7 13 53.8 3 4 75.0 6 6 100.0 0 6 6 5 3 0 2 1 5
+p354
+aVMichael Finley DAL 01/27/2001 DAL @ DEN L 43 32 13 25 52.0 2 3 66.7 4 5 80.0 0 3 3 6 1 0 0 1 -5
+p355
+aVSteve Nash DAL 01/25/2001 DAL vs. VAN W 34 21 8 12 66.7 0 1 0.0 5 6 83.3 0 4 4 7 0 0 0 1 30
+p356
+aVHoward Eisley DAL 01/25/2001 DAL vs. VAN W 32 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 3 2 0 0 3 18
+p357
+aVLoy Vaught DAL 01/25/2001 DAL vs. VAN W 11 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 0 0 1 1 0
+p358
+aVCourtney Alexander DAL 01/25/2001 DAL vs. VAN W 12 9 3 6 50.0 0 0 - 3 3 100.0 2 0 2 1 0 0 1 2 2
+p359
+aVMark Bryant DAL 01/25/2001 DAL vs. VAN W 14 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 2
+p360
+aVHubert Davis DAL 01/25/2001 DAL vs. VAN W 23 19 8 12 66.7 3 5 60.0 0 0 - 0 1 1 0 0 0 0 0 18
+p361
+aVChristian Laettner DAL 01/25/2001 DAL vs. VAN W 20 8 4 4 100.0 0 0 - 0 0 - 1 2 3 2 2 1 1 5 12
+p362
+aVShawn Bradley DAL 01/25/2001 DAL vs. VAN W 9 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 2 0 2 17
+p363
+aVGary Trent DAL 01/25/2001 DAL vs. VAN W 16 10 5 9 55.6 0 0 - 0 0 - 4 1 5 1 2 0 1 4 22
+p364
+aVDirk Nowitzki DAL 01/25/2001 DAL vs. VAN W 27 19 6 12 50.0 1 4 25.0 6 6 100.0 2 8 10 6 0 0 2 3 22
+p365
+aVMichael Finley DAL 01/25/2001 DAL vs. VAN W 29 20 9 14 64.3 0 0 - 2 2 100.0 1 2 3 3 1 1 1 1 26
+p366
+aVGreg Buckner DAL 01/25/2001 DAL vs. VAN W 13 3 0 4 0.0 0 0 - 3 4 75.0 1 2 3 0 2 0 0 2 16
+p367
+aVHoward Eisley DAL 01/23/2001 DAL vs. PHI L 34 14 5 8 62.5 4 7 57.1 0 0 - 0 0 0 2 1 0 3 3 -6
+p368
+aVMichael Finley DAL 01/23/2001 DAL vs. PHI L 45 27 12 28 42.9 1 6 16.7 2 2 100.0 2 4 6 7 10 0 4 1 -12
+p369
+aVGary Trent DAL 01/23/2001 DAL vs. PHI L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p370
+aVLoy Vaught DAL 01/23/2001 DAL vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 1
+p371
+aVDirk Nowitzki DAL 01/23/2001 DAL vs. PHI L 42 15 4 12 33.3 2 5 40.0 5 8 62.5 4 11 15 3 1 1 2 5 -18
+p372
+aVHubert Davis DAL 01/23/2001 DAL vs. PHI L 28 11 5 9 55.6 1 2 50.0 0 0 - 1 0 1 0 0 1 2 1 -10
+p373
+aVSteve Nash DAL 01/23/2001 DAL vs. PHI L 39 20 9 18 50.0 0 4 0.0 2 2 100.0 1 6 7 7 0 0 4 5 -16
+p374
+aVChristian Laettner DAL 01/23/2001 DAL vs. PHI L 15 1 0 3 0.0 0 0 - 1 2 50.0 1 3 4 0 0 1 2 3 3
+p375
+aVShawn Bradley DAL 01/23/2001 DAL vs. PHI L 28 8 3 5 60.0 0 0 - 2 4 50.0 1 7 8 0 0 5 1 4 -20
+p376
+aVMichael Finley DAL 01/20/2001 DAL vs. DEN W 42 23 8 19 42.1 2 4 50.0 5 6 83.3 1 2 3 6 1 0 1 2 12
+p377
+aVLoy Vaught DAL 01/20/2001 DAL vs. DEN W 22 8 4 10 40.0 0 0 - 0 0 - 3 5 8 1 0 0 0 1 17
+p378
+aVHoward Eisley DAL 01/20/2001 DAL vs. DEN W 28 5 2 11 18.2 1 6 16.7 0 0 - 0 6 6 10 3 1 2 2 19
+p379
+aVGary Trent DAL 01/20/2001 DAL vs. DEN W 11 7 2 7 28.6 0 0 - 3 6 50.0 5 3 8 0 0 0 0 1 -6
+p380
+aVCourtney Alexander DAL 01/20/2001 DAL vs. DEN W 12 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 2 0 1 2 -1
+p381
+aVShawn Bradley DAL 01/20/2001 DAL vs. DEN W 27 0 0 3 0.0 0 1 0.0 0 0 - 2 9 11 1 0 2 0 5 7
+p382
+aVDirk Nowitzki DAL 01/20/2001 DAL vs. DEN W 38 27 9 21 42.9 0 1 0.0 9 9 100.0 6 6 12 5 0 2 1 3 14
+p383
+aVDonnell Harvey DAL 01/20/2001 DAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p384
+aVHubert Davis DAL 01/20/2001 DAL vs. DEN W 37 17 6 12 50.0 5 6 83.3 0 0 - 3 3 6 0 0 0 4 2 17
+p385
+aVChristian Laettner DAL 01/20/2001 DAL vs. DEN W 23 8 4 9 44.4 0 0 - 0 0 - 1 5 6 3 4 2 1 1 13
+p386
+aVDirk Nowitzki DAL 01/18/2001 DAL vs. ORL W 47 38 12 26 46.2 1 6 16.7 13 16 81.3 7 10 17 3 1 2 5 5 15
+p387
+aVShawn Bradley DAL 01/18/2001 DAL vs. ORL W 28 7 2 6 33.3 0 0 - 3 5 60.0 6 7 13 0 0 3 0 3 -1
+p388
+aVChristian Laettner DAL 01/18/2001 DAL vs. ORL W 28 12 4 13 30.8 0 0 - 4 4 100.0 6 8 14 0 2 1 2 3 7
+p389
+aVCourtney Alexander DAL 01/18/2001 DAL vs. ORL W 26 11 2 7 28.6 0 0 - 7 8 87.5 1 0 1 1 1 0 0 6 -9
+p390
+aVMichael Finley DAL 01/18/2001 DAL vs. ORL W 48 21 9 21 42.9 3 6 50.0 0 0 - 5 1 6 4 0 1 5 6 1
+p391
+aVLoy Vaught DAL 01/18/2001 DAL vs. ORL W 11 10 5 11 45.5 0 0 - 0 0 - 3 3 6 0 0 0 1 1 0
+p392
+aVHoward Eisley DAL 01/18/2001 DAL vs. ORL W 42 8 1 11 9.1 0 4 0.0 6 7 85.7 0 8 8 7 4 0 5 4 9
+p393
+aVHubert Davis DAL 01/18/2001 DAL vs. ORL W 33 8 3 10 30.0 0 4 0.0 2 2 100.0 1 3 4 3 0 0 0 2 23
+p394
+aVCourtney Alexander DAL 01/17/2001 DAL @ CHH W 24 7 3 9 33.3 0 0 - 1 1 100.0 1 1 2 1 1 1 0 1 -13
+p395
+aVHubert Davis DAL 01/17/2001 DAL @ CHH W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p396
+aVHoward Eisley DAL 01/17/2001 DAL @ CHH W 42 23 7 15 46.7 2 3 66.7 7 7 100.0 2 1 3 8 1 0 1 2 6
+p397
+aVMichael Finley DAL 01/17/2001 DAL @ CHH W 41 14 6 18 33.3 0 2 0.0 2 2 100.0 1 0 1 3 2 1 3 1 1
+p398
+aVChristian Laettner DAL 01/17/2001 DAL @ CHH W 17 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -16
+p399
+aVLoy Vaught DAL 01/17/2001 DAL @ CHH W 30 8 4 10 40.0 0 0 - 0 0 - 2 8 10 2 4 0 1 4 19
+p400
+aVShawn Bradley DAL 01/17/2001 DAL @ CHH W 36 8 3 4 75.0 0 0 - 2 4 50.0 0 6 6 0 0 3 0 2 11
+p401
+aVDirk Nowitzki DAL 01/17/2001 DAL @ CHH W 41 27 9 17 52.9 1 2 50.0 8 8 100.0 0 6 6 3 1 1 2 5 -1
+p402
+aVCourtney Alexander DAL 01/15/2001 DAL vs. SAC L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -3
+p403
+aVGary Trent DAL 01/15/2001 DAL vs. SAC L 9 2 1 4 25.0 0 1 0.0 0 0 - 3 0 3 0 0 0 2 3 -15
+p404
+aVChristian Laettner DAL 01/15/2001 DAL vs. SAC L 25 13 4 7 57.1 0 0 - 5 6 83.3 1 3 4 4 1 1 0 5 -4
+p405
+aVDirk Nowitzki DAL 01/15/2001 DAL vs. SAC L 46 28 10 23 43.5 4 11 36.4 4 4 100.0 1 10 11 3 0 1 2 1 -13
+p406
+aVHoward Eisley DAL 01/15/2001 DAL vs. SAC L 45 23 7 13 53.8 6 8 75.0 3 4 75.0 0 2 2 8 2 0 3 1 -6
+p407
+aVHubert Davis DAL 01/15/2001 DAL vs. SAC L 21 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 2 -8
+p408
+aVMichael Finley DAL 01/15/2001 DAL vs. SAC L 48 24 10 25 40.0 1 5 20.0 3 4 75.0 1 5 6 7 1 0 4 2 -11
+p409
+aVShawn Bradley DAL 01/15/2001 DAL vs. SAC L 31 9 3 6 50.0 0 0 - 3 6 50.0 3 7 10 0 0 3 2 3 -1
+p410
+aVLoy Vaught DAL 01/15/2001 DAL vs. SAC L 9 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 6
+p411
+aVHubert Davis DAL 01/13/2001 DAL vs. PHX L 25 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 1 0 3 0 -14
+p412
+aVCourtney Alexander DAL 01/13/2001 DAL vs. PHX L 21 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 3 -1
+p413
+aVChristian Laettner DAL 01/13/2001 DAL vs. PHX L 26 6 2 7 28.6 0 0 - 2 2 100.0 3 4 7 1 1 0 1 3 -12
+p414
+aVDirk Nowitzki DAL 01/13/2001 DAL vs. PHX L 35 15 6 15 40.0 0 3 0.0 3 3 100.0 2 10 12 1 0 1 2 4 -15
+p415
+aVGary Trent DAL 01/13/2001 DAL vs. PHX L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 2 -7
+p416
+aVLoy Vaught DAL 01/13/2001 DAL vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -2
+p417
+aVShawn Bradley DAL 01/13/2001 DAL vs. PHX L 29 8 4 6 66.7 0 0 - 0 0 - 2 11 13 0 0 6 3 2 -2
+p418
+aVMichael Finley DAL 01/13/2001 DAL vs. PHX L 46 27 11 24 45.8 0 4 0.0 5 8 62.5 1 3 4 6 0 2 8 1 -15
+p419
+aVDonnell Harvey DAL 01/13/2001 DAL vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p420
+aVHoward Eisley DAL 01/13/2001 DAL vs. PHX L 46 20 6 20 30.0 3 9 33.3 5 5 100.0 0 4 4 4 1 1 5 5 -15
+p421
+aVHubert Davis DAL 01/11/2001 DAL @ MIL L 36 4 2 6 33.3 0 3 0.0 0 0 - 1 1 2 3 1 0 2 3 -8
+p422
+aVMichael Finley DAL 01/11/2001 DAL @ MIL L 45 30 14 29 48.3 0 6 0.0 2 6 33.3 2 3 5 2 2 0 0 1 -11
+p423
+aVShawn Bradley DAL 01/11/2001 DAL @ MIL L 27 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 1 1 1 2 -8
+p424
+aVMark Bryant DAL 01/11/2001 DAL @ MIL L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 3
+p425
+aVHoward Eisley DAL 01/11/2001 DAL @ MIL L 39 8 2 8 25.0 1 4 25.0 3 3 100.0 0 1 1 4 4 0 2 2 0
+p426
+aVGary Trent DAL 01/11/2001 DAL @ MIL L 9 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -7
+p427
+aVCourtney Alexander DAL 01/11/2001 DAL @ MIL L 9 7 2 4 50.0 0 0 - 3 3 100.0 0 0 0 0 0 0 0 2 1
+p428
+aVDirk Nowitzki DAL 01/11/2001 DAL @ MIL L 39 23 8 19 42.1 2 4 50.0 5 5 100.0 2 9 11 3 0 0 3 4 -11
+p429
+aVChristian Laettner DAL 01/11/2001 DAL @ MIL L 30 16 7 17 41.2 0 0 - 2 2 100.0 4 8 12 1 3 0 1 5 1
+p430
+aVLoy Vaught DAL 01/10/2001 DAL @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p431
+aVDirk Nowitzki DAL 01/10/2001 DAL @ MIN W 39 28 9 17 52.9 3 6 50.0 7 9 77.8 1 7 8 2 0 2 0 3 23
+p432
+aVHubert Davis DAL 01/10/2001 DAL @ MIN W 12 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 1 0 2 0 -4
+p433
+aVSteve Nash DAL 01/10/2001 DAL @ MIN W 30 10 4 10 40.0 2 3 66.7 0 0 - 0 3 3 11 1 0 2 1 23
+p434
+aVChristian Laettner DAL 01/10/2001 DAL @ MIN W 21 14 7 11 63.6 0 0 - 0 0 - 5 4 9 2 1 1 1 2 11
+p435
+aVHoward Eisley DAL 01/10/2001 DAL @ MIN W 39 12 5 13 38.5 1 3 33.3 1 2 50.0 0 5 5 5 3 0 2 2 9
+p436
+aVDonnell Harvey DAL 01/10/2001 DAL @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -5
+p437
+aVShawn Bradley DAL 01/10/2001 DAL @ MIN W 32 4 2 4 50.0 0 0 - 0 2 0.0 2 7 9 0 0 2 1 3 27
+p438
+aVCourtney Alexander DAL 01/10/2001 DAL @ MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -7
+p439
+aVGary Trent DAL 01/10/2001 DAL @ MIN W 14 5 2 4 50.0 0 0 - 1 4 25.0 0 6 6 0 1 0 1 4 -2
+p440
+aVMichael Finley DAL 01/10/2001 DAL @ MIN W 40 26 12 24 50.0 0 3 0.0 2 2 100.0 1 5 6 5 0 0 0 3 25
+p441
+aVShawn Bradley DAL 01/08/2001 DAL @ CHI W 22 12 5 5 100.0 0 0 - 2 3 66.7 4 4 8 1 1 2 1 4 1
+p442
+aVSteve Nash DAL 01/08/2001 DAL @ CHI W 38 14 5 11 45.5 2 4 50.0 2 2 100.0 0 1 1 8 3 0 3 1 19
+p443
+aVChristian Laettner DAL 01/08/2001 DAL @ CHI W 20 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 2 1 0 0 4 12
+p444
+aVHoward Eisley DAL 01/08/2001 DAL @ CHI W 36 10 4 11 36.4 2 6 33.3 0 0 - 0 1 1 3 1 1 2 2 13
+p445
+aVHubert Davis DAL 01/08/2001 DAL @ CHI W 24 3 1 4 25.0 1 3 33.3 0 0 - 2 2 4 3 1 0 1 2 -3
+p446
+aVCourtney Alexander DAL 01/08/2001 DAL @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p447
+aVGary Trent DAL 01/08/2001 DAL @ CHI W 8 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 1 0
+p448
+aVDirk Nowitzki DAL 01/08/2001 DAL @ CHI W 44 22 6 17 35.3 0 6 0.0 10 11 90.9 3 7 10 3 0 1 2 1 19
+p449
+aVDonnell Harvey DAL 01/08/2001 DAL @ CHI W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p450
+aVMichael Finley DAL 01/08/2001 DAL @ CHI W 46 30 13 25 52.0 3 3 100.0 1 1 100.0 0 10 10 6 2 0 2 0 19
+p451
+aVDirk Nowitzki DAL 01/06/2001 DAL @ WAS W 42 28 9 16 56.3 3 6 50.0 7 8 87.5 0 10 10 0 1 0 2 2 20
+p452
+aVMichael Finley DAL 01/06/2001 DAL @ WAS W 42 25 9 21 42.9 1 2 50.0 6 8 75.0 1 1 2 3 1 1 3 2 19
+p453
+aVHoward Eisley DAL 01/06/2001 DAL @ WAS W 23 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 1 2 0 0 2 -4
+p454
+aVShawn Bradley DAL 01/06/2001 DAL @ WAS W 35 14 6 8 75.0 0 0 - 2 2 100.0 3 14 17 1 0 0 3 1 20
+p455
+aVSteve Nash DAL 01/06/2001 DAL @ WAS W 40 14 3 9 33.3 0 1 0.0 8 8 100.0 0 3 3 13 0 0 1 2 20
+p456
+aVGary Trent DAL 01/06/2001 DAL @ WAS W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p457
+aVHubert Davis DAL 01/06/2001 DAL @ WAS W 34 5 1 4 25.0 1 3 33.3 2 3 66.7 0 3 3 1 0 0 2 2 20
+p458
+aVChristian Laettner DAL 01/06/2001 DAL @ WAS W 18 11 5 5 100.0 0 0 - 1 1 100.0 2 2 4 2 2 0 5 2 -3
+p459
+aVLoy Vaught DAL 01/05/2001 DAL @ TOR W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p460
+aVDonnell Harvey DAL 01/05/2001 DAL @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p461
+aVHoward Eisley DAL 01/05/2001 DAL @ TOR W 33 8 3 10 30.0 2 5 40.0 0 0 - 1 3 4 4 1 0 3 3 9
+p462
+aVSteve Nash DAL 01/05/2001 DAL @ TOR W 44 27 12 16 75.0 1 2 50.0 2 2 100.0 2 3 5 8 2 0 6 1 7
+p463
+aVMark Bryant DAL 01/05/2001 DAL @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p464
+aVDirk Nowitzki DAL 01/05/2001 DAL @ TOR W 39 29 9 17 52.9 2 3 66.7 9 10 90.0 1 10 11 0 0 2 3 3 11
+p465
+aVMichael Finley DAL 01/05/2001 DAL @ TOR W 42 20 7 19 36.8 1 4 25.0 5 6 83.3 1 3 4 4 2 0 2 4 10
+p466
+aVGary Trent DAL 01/05/2001 DAL @ TOR W 5 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -4
+p467
+aVShawn Bradley DAL 01/05/2001 DAL @ TOR W 34 7 2 6 33.3 0 0 - 3 4 75.0 2 12 14 0 1 5 2 3 21
+p468
+aVHubert Davis DAL 01/05/2001 DAL @ TOR W 19 12 4 6 66.7 3 3 100.0 1 2 50.0 0 1 1 1 1 0 0 1 8
+p469
+aVChristian Laettner DAL 01/05/2001 DAL @ TOR W 14 6 3 3 100.0 0 0 - 0 0 - 1 2 3 2 1 1 0 5 2
+p470
+aVHoward Eisley DAL 01/03/2001 DAL vs. DET L 44 7 3 9 33.3 1 5 20.0 0 0 - 1 6 7 7 1 0 2 4 -7
+p471
+aVDirk Nowitzki DAL 01/03/2001 DAL vs. DET L 40 25 7 12 58.3 4 6 66.7 7 10 70.0 2 10 12 0 0 1 6 5 3
+p472
+aVShawn Bradley DAL 01/03/2001 DAL vs. DET L 36 5 2 3 66.7 0 0 - 1 1 100.0 1 9 10 0 0 6 0 6 1
+p473
+aVGary Trent DAL 01/03/2001 DAL vs. DET L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -8
+p474
+aVSteve Nash DAL 01/03/2001 DAL vs. DET L 45 22 7 20 35.0 2 11 18.2 6 7 85.7 1 5 6 9 1 0 2 2 -3
+p475
+aVMichael Finley DAL 01/03/2001 DAL vs. DET L 48 35 12 23 52.2 0 2 0.0 11 14 78.6 1 2 3 4 1 0 1 4 -3
+p476
+aVHubert Davis DAL 01/03/2001 DAL vs. DET L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 2
+p477
+aVChristian Laettner DAL 01/03/2001 DAL vs. DET L 10 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 0 1 0 0 5 0
+p478
+aVChristian Laettner DAL 12/30/2000 DAL vs. HOU L 8 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -6
+p479
+aVHoward Eisley DAL 12/30/2000 DAL vs. HOU L 37 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 5 0 0 2 6 -2
+p480
+aVShawn Bradley DAL 12/30/2000 DAL vs. HOU L 20 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 0 2 0 2 -14
+p481
+aVCourtney Alexander DAL 12/30/2000 DAL vs. HOU L 21 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 1 2 2 -6
+p482
+aVDonnell Harvey DAL 12/30/2000 DAL vs. HOU L 9 3 0 0 - 0 0 - 3 4 75.0 1 2 3 0 0 0 1 3 3
+p483
+aVDirk Nowitzki DAL 12/30/2000 DAL vs. HOU L 33 20 6 18 33.3 0 2 0.0 8 10 80.0 0 8 8 0 0 0 1 5 -8
+p484
+aVMichael Finley DAL 12/30/2000 DAL vs. HOU L 44 32 10 22 45.5 3 5 60.0 9 10 90.0 3 6 9 2 2 0 3 3 -14
+p485
+aVHubert Davis DAL 12/30/2000 DAL vs. HOU L 25 9 1 4 25.0 1 2 50.0 6 6 100.0 0 3 3 2 0 0 2 4 -6
+p486
+aVSteve Nash DAL 12/30/2000 DAL vs. HOU L 39 26 8 16 50.0 2 5 40.0 8 11 72.7 1 2 3 6 2 0 4 3 -18
+p487
+aVGary Trent DAL 12/30/2000 DAL vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -4
+p488
+aVChristian Laettner DAL 12/28/2000 DAL vs. LAC W 17 7 3 5 60.0 0 0 - 1 1 100.0 0 7 7 1 0 1 2 5 -3
+p489
+aVMichael Finley DAL 12/28/2000 DAL vs. LAC W 45 25 9 18 50.0 2 2 100.0 5 7 71.4 4 3 7 4 1 0 6 4 11
+p490
+aVHubert Davis DAL 12/28/2000 DAL vs. LAC W 17 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p491
+aVCourtney Alexander DAL 12/28/2000 DAL vs. LAC W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -10
+p492
+aVSteve Nash DAL 12/28/2000 DAL vs. LAC W 41 20 8 11 72.7 2 2 100.0 2 2 100.0 0 1 1 8 3 0 2 4 14
+p493
+aVHoward Eisley DAL 12/28/2000 DAL vs. LAC W 35 11 5 11 45.5 1 4 25.0 0 0 - 1 2 3 4 1 0 0 2 13
+p494
+aVGary Trent DAL 12/28/2000 DAL vs. LAC W 12 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 0 0 0 3 1 -6
+p495
+aVDirk Nowitzki DAL 12/28/2000 DAL vs. LAC W 36 17 4 16 25.0 1 4 25.0 8 8 100.0 2 13 15 4 2 2 2 2 15
+p496
+aVShawn Bradley DAL 12/28/2000 DAL vs. LAC W 30 14 5 8 62.5 0 0 - 4 5 80.0 3 9 12 1 0 4 1 6 13
+p497
+aVDirk Nowitzki DAL 12/26/2000 DAL vs. SEA W 45 21 8 18 44.4 1 7 14.3 4 8 50.0 1 10 11 2 2 0 1 3 24
+p498
+aVGary Trent DAL 12/26/2000 DAL vs. SEA W 7 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 1 3
+p499
+aVMichael Finley DAL 12/26/2000 DAL vs. SEA W 45 38 16 22 72.7 2 2 100.0 4 8 50.0 1 8 9 8 1 2 3 3 19
+p500
+aVHubert Davis DAL 12/26/2000 DAL vs. SEA W 23 3 1 4 25.0 0 1 0.0 1 1 100.0 0 0 0 3 3 0 1 2 7
+p501
+aVSteve Nash DAL 12/26/2000 DAL vs. SEA W 41 22 6 11 54.5 4 5 80.0 6 6 100.0 0 3 3 8 1 0 3 4 24
+p502
+aVCourtney Alexander DAL 12/26/2000 DAL vs. SEA W 5 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 4
+p503
+aVDonnell Harvey DAL 12/26/2000 DAL vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p504
+aVShawn Bradley DAL 12/26/2000 DAL vs. SEA W 18 7 3 4 75.0 0 0 - 1 1 100.0 2 5 7 0 0 5 1 5 12
+p505
+aVHoward Eisley DAL 12/26/2000 DAL vs. SEA W 36 12 4 13 30.8 3 6 50.0 1 2 50.0 1 2 3 8 0 0 1 2 8
+p506
+aVChristian Laettner DAL 12/26/2000 DAL vs. SEA W 19 9 3 5 60.0 0 1 0.0 3 3 100.0 0 3 3 1 4 0 0 3 2
+p507
+aVLoy Vaught DAL 12/22/2000 DAL vs. LAL L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p508
+aVHubert Davis DAL 12/22/2000 DAL vs. LAL L 18 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 0 0 0 1 2 -1
+p509
+aVMichael Finley DAL 12/22/2000 DAL vs. LAL L 48 22 8 19 42.1 0 2 0.0 6 9 66.7 4 4 8 8 4 0 1 2 -5
+p510
+aVShawn Bradley DAL 12/22/2000 DAL vs. LAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p511
+aVCourtney Alexander DAL 12/22/2000 DAL vs. LAL L 14 0 0 5 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -3
+p512
+aVSteve Nash DAL 12/22/2000 DAL vs. LAL L 42 18 7 14 50.0 1 4 25.0 3 3 100.0 0 2 2 8 0 0 1 3 -5
+p513
+aVGary Trent DAL 12/22/2000 DAL vs. LAL L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -6
+p514
+aVHoward Eisley DAL 12/22/2000 DAL vs. LAL L 33 16 6 14 42.9 4 7 57.1 0 0 - 0 3 3 2 1 0 0 2 2
+p515
+aVMark Bryant DAL 12/22/2000 DAL vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 6 4
+p516
+aVChristian Laettner DAL 12/22/2000 DAL vs. LAL L 14 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 1 1 0 0 3 -8
+p517
+aVDirk Nowitzki DAL 12/22/2000 DAL vs. LAL L 46 29 9 15 60.0 0 3 0.0 11 15 73.3 0 10 10 2 0 0 1 5 2
+p518
+aVDonnell Harvey DAL 12/22/2000 DAL vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p519
+aVGary Trent DAL 12/20/2000 DAL vs. POR W 15 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 2 0 1 0 2
+p520
+aVHoward Eisley DAL 12/20/2000 DAL vs. POR W 37 11 5 9 55.6 1 2 50.0 0 0 - 0 1 1 6 1 0 2 4 8
+p521
+aVSteve Nash DAL 12/20/2000 DAL vs. POR W 37 18 5 10 50.0 0 0 - 8 8 100.0 1 3 4 8 1 1 5 2 -8
+p522
+aVMichael Finley DAL 12/20/2000 DAL vs. POR W 44 20 8 18 44.4 0 3 0.0 4 4 100.0 2 2 4 0 0 0 3 3 5
+p523
+aVChristian Laettner DAL 12/20/2000 DAL vs. POR W 16 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 1 0 1 1 1 -5
+p524
+aVDirk Nowitzki DAL 12/20/2000 DAL vs. POR W 38 29 11 19 57.9 1 2 50.0 6 6 100.0 5 7 12 2 1 2 3 5 8
+p525
+aVCourtney Alexander DAL 12/20/2000 DAL vs. POR W 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 7
+p526
+aVHubert Davis DAL 12/20/2000 DAL vs. POR W 19 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 -2
+p527
+aVShawn Bradley DAL 12/20/2000 DAL vs. POR W 24 13 4 6 66.7 0 0 - 5 6 83.3 4 8 12 1 0 1 1 1 10
+p528
+aVChristian Laettner DAL 12/18/2000 DAL @ BOS W 6 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 -5
+p529
+aVHubert Davis DAL 12/18/2000 DAL @ BOS W 24 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 2
+p530
+aVDirk Nowitzki DAL 12/18/2000 DAL @ BOS W 39 31 10 16 62.5 5 7 71.4 6 7 85.7 0 4 4 2 0 0 2 3 19
+p531
+aVCourtney Alexander DAL 12/18/2000 DAL @ BOS W 4 5 2 5 40.0 0 0 - 1 1 100.0 2 2 4 0 0 0 0 0 2
+p532
+aVHoward Eisley DAL 12/18/2000 DAL @ BOS W 33 7 2 8 25.0 1 3 33.3 2 2 100.0 0 2 2 4 0 0 2 3 6
+p533
+aVShawn Bradley DAL 12/18/2000 DAL @ BOS W 32 13 5 9 55.6 0 0 - 3 4 75.0 3 3 6 0 1 3 2 5 3
+p534
+aVSteve Nash DAL 12/18/2000 DAL @ BOS W 41 20 6 7 85.7 1 2 50.0 7 7 100.0 0 5 5 14 5 0 2 2 10
+p535
+aVLoy Vaught DAL 12/18/2000 DAL @ BOS W 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p536
+aVGary Trent DAL 12/18/2000 DAL @ BOS W 12 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 1 1
+p537
+aVMichael Finley DAL 12/18/2000 DAL @ BOS W 44 18 8 17 47.1 0 1 0.0 2 3 66.7 2 3 5 6 2 1 3 1 6
+p538
+aVChristian Laettner DAL 12/17/2000 DAL @ DET W 16 16 7 9 77.8 0 0 - 2 2 100.0 1 4 5 1 0 1 2 5 16
+p539
+aVGary Trent DAL 12/17/2000 DAL @ DET W 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -5
+p540
+aVHoward Eisley DAL 12/17/2000 DAL @ DET W 32 11 4 8 50.0 3 4 75.0 0 0 - 0 2 2 2 2 0 1 3 15
+p541
+aVHubert Davis DAL 12/17/2000 DAL @ DET W 18 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 3 -2
+p542
+aVCourtney Alexander DAL 12/17/2000 DAL @ DET W 12 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 0 0 0 4 1
+p543
+aVLoy Vaught DAL 12/17/2000 DAL @ DET W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -1
+p544
+aVShawn Bradley DAL 12/17/2000 DAL @ DET W 25 8 1 3 33.3 0 0 - 6 6 100.0 0 8 8 0 0 3 1 2 -2
+p545
+aVDirk Nowitzki DAL 12/17/2000 DAL @ DET W 38 25 9 17 52.9 5 9 55.6 2 2 100.0 1 6 7 1 0 0 1 3 5
+p546
+aVSteve Nash DAL 12/17/2000 DAL @ DET W 41 16 5 10 50.0 2 5 40.0 4 5 80.0 1 1 2 9 1 0 4 0 3
+p547
+aVMichael Finley DAL 12/17/2000 DAL @ DET W 41 13 5 17 29.4 0 4 0.0 3 3 100.0 1 4 5 8 0 0 3 4 15
+p548
+aVLoy Vaught DAL 12/15/2000 DAL @ PHI W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 11
+p549
+aVSteve Nash DAL 12/15/2000 DAL @ PHI W 38 18 7 17 41.2 1 4 25.0 3 3 100.0 2 5 7 13 1 0 4 3 17
+p550
+aVDirk Nowitzki DAL 12/15/2000 DAL @ PHI W 40 36 13 19 68.4 5 8 62.5 5 5 100.0 1 5 6 1 0 1 0 1 10
+p551
+aVCourtney Alexander DAL 12/15/2000 DAL @ PHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -1
+p552
+aVHoward Eisley DAL 12/15/2000 DAL @ PHI W 31 16 7 9 77.8 2 3 66.7 0 0 - 1 3 4 2 2 0 1 4 9
+p553
+aVMark Bryant DAL 12/15/2000 DAL @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p554
+aVMichael Finley DAL 12/15/2000 DAL @ PHI W 46 25 11 21 52.4 1 5 20.0 2 2 100.0 2 1 3 5 2 0 0 1 18
+p555
+aVHubert Davis DAL 12/15/2000 DAL @ PHI W 27 3 1 10 10.0 1 4 25.0 0 0 - 0 8 8 1 0 0 0 2 10
+p556
+aVDonnell Harvey DAL 12/15/2000 DAL @ PHI W 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 0
+p557
+aVChristian Laettner DAL 12/15/2000 DAL @ PHI W 28 9 3 11 27.3 0 0 - 3 3 100.0 5 3 8 1 0 0 3 5 7
+p558
+aVShawn Bradley DAL 12/15/2000 DAL @ PHI W 16 1 0 4 0.0 0 0 - 1 2 50.0 2 1 3 1 1 2 0 4 9
+p559
+aVEduardo Najera DAL 12/15/2000 DAL @ PHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p560
+aVChristian Laettner DAL 12/13/2000 DAL @ IND L 28 13 4 7 57.1 0 0 - 5 5 100.0 2 3 5 3 1 0 2 3 -1
+p561
+aVLoy Vaught DAL 12/13/2000 DAL @ IND L 15 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 1 1 1 -4
+p562
+aVDirk Nowitzki DAL 12/13/2000 DAL @ IND L 34 5 1 10 10.0 0 3 0.0 3 4 75.0 2 5 7 0 1 1 1 4 -9
+p563
+aVShawn Bradley DAL 12/13/2000 DAL @ IND L 16 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 3 6
+p564
+aVEduardo Najera DAL 12/13/2000 DAL @ IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p565
+aVMichael Finley DAL 12/13/2000 DAL @ IND L 45 24 11 21 52.4 1 3 33.3 1 1 100.0 2 2 4 6 2 0 3 6 -3
+p566
+aVHoward Eisley DAL 12/13/2000 DAL @ IND L 41 27 9 15 60.0 5 9 55.6 4 4 100.0 1 5 6 1 1 0 3 3 -1
+p567
+aVHubert Davis DAL 12/13/2000 DAL @ IND L 18 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 4 -8
+p568
+aVSteve Nash DAL 12/13/2000 DAL @ IND L 38 13 5 14 35.7 2 2 100.0 1 1 100.0 1 3 4 8 0 0 4 0 -1
+p569
+aVDirk Nowitzki DAL 12/12/2000 DAL @ CLE L 39 12 5 16 31.3 2 8 25.0 0 0 - 0 4 4 1 0 3 0 4 -8
+p570
+aVMichael Finley DAL 12/12/2000 DAL @ CLE L 43 15 7 21 33.3 0 4 0.0 1 2 50.0 2 5 7 5 1 0 3 2 -2
+p571
+aVChristian Laettner DAL 12/12/2000 DAL @ CLE L 12 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 1 0 1 1 1
+p572
+aVMark Bryant DAL 12/12/2000 DAL @ CLE L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -5
+p573
+aVLoy Vaught DAL 12/12/2000 DAL @ CLE L 9 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 1 0 0 0 2 5
+p574
+aVHubert Davis DAL 12/12/2000 DAL @ CLE L 29 12 3 7 42.9 2 3 66.7 4 4 100.0 1 3 4 3 1 0 0 2 5
+p575
+aVSteve Nash DAL 12/12/2000 DAL @ CLE L 37 21 8 17 47.1 3 6 50.0 2 2 100.0 0 0 0 8 1 0 2 2 -20
+p576
+aVHoward Eisley DAL 12/12/2000 DAL @ CLE L 33 14 5 9 55.6 3 6 50.0 1 2 50.0 1 2 3 4 2 0 0 5 1
+p577
+aVShawn Bradley DAL 12/12/2000 DAL @ CLE L 33 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 5 0 6 -2
+p578
+aVDirk Nowitzki DAL 12/10/2000 DAL @ NJN W 34 31 9 13 69.2 4 6 66.7 9 11 81.8 1 7 8 0 2 2 1 1 28
+p579
+aVHubert Davis DAL 12/10/2000 DAL @ NJN W 30 6 3 7 42.9 0 3 0.0 0 0 - 0 5 5 2 0 0 3 3 13
+p580
+aVSteve Nash DAL 12/10/2000 DAL @ NJN W 27 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 6 0 0 4 4 26
+p581
+aVChristian Laettner DAL 12/10/2000 DAL @ NJN W 24 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 1 2 0 2 2 11
+p582
+aVDonnell Harvey DAL 12/10/2000 DAL @ NJN W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p583
+aVLoy Vaught DAL 12/10/2000 DAL @ NJN W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p584
+aVMichael Finley DAL 12/10/2000 DAL @ NJN W 35 21 9 17 52.9 1 4 25.0 2 2 100.0 1 4 5 2 1 0 0 0 26
+p585
+aVHoward Eisley DAL 12/10/2000 DAL @ NJN W 31 15 6 10 60.0 0 3 0.0 3 4 75.0 2 3 5 6 1 0 1 2 16
+p586
+aVShawn Bradley DAL 12/10/2000 DAL @ NJN W 19 5 2 3 66.7 0 0 - 1 2 50.0 0 5 5 1 1 3 4 3 19
+p587
+aVCourtney Alexander DAL 12/10/2000 DAL @ NJN W 9 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 -3
+p588
+aVEduardo Najera DAL 12/10/2000 DAL @ NJN W 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 1 1 2 0
+p589
+aVMark Bryant DAL 12/10/2000 DAL @ NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -4
+p590
+aVHoward Eisley DAL 12/08/2000 DAL vs. CHI W 25 3 1 5 20.0 0 1 0.0 1 2 50.0 0 0 0 3 3 0 1 2 22
+p591
+aVDonnell Harvey DAL 12/08/2000 DAL vs. CHI W 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -3
+p592
+aVSteve Nash DAL 12/08/2000 DAL vs. CHI W 24 22 10 12 83.3 0 0 - 2 2 100.0 0 1 1 5 0 0 1 1 18
+p593
+aVMichael Finley DAL 12/08/2000 DAL vs. CHI W 28 14 6 11 54.5 0 1 0.0 2 3 66.7 1 1 2 3 0 0 3 0 18
+p594
+aVChristian Laettner DAL 12/08/2000 DAL vs. CHI W 21 17 8 14 57.1 0 0 - 1 1 100.0 3 3 6 2 0 1 0 4 10
+p595
+aVEduardo Najera DAL 12/08/2000 DAL vs. CHI W 13 8 3 8 37.5 0 1 0.0 2 7 28.6 1 2 3 1 1 0 1 1 -9
+p596
+aVLoy Vaught DAL 12/08/2000 DAL vs. CHI W 20 10 4 5 80.0 0 0 - 2 3 66.7 5 2 7 2 1 0 0 3 -3
+p597
+aVMark Bryant DAL 12/08/2000 DAL vs. CHI W 12 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 1 0 0 2 4 -5
+p598
+aVCourtney Alexander DAL 12/08/2000 DAL vs. CHI W 17 2 1 7 14.3 0 0 - 0 0 - 0 3 3 2 1 0 1 2 3
+p599
+aVShawn Bradley DAL 12/08/2000 DAL vs. CHI W 15 2 1 2 50.0 0 0 - 0 0 - 3 4 7 0 0 5 0 1 14
+p600
+aVDirk Nowitzki DAL 12/08/2000 DAL vs. CHI W 24 14 4 11 36.4 1 3 33.3 5 6 83.3 2 5 7 2 0 1 2 2 25
+p601
+aVHubert Davis DAL 12/08/2000 DAL vs. CHI W 33 6 2 8 25.0 2 4 50.0 0 0 - 0 3 3 1 2 0 2 0 5
+p602
+aVDirk Nowitzki DAL 12/06/2000 DAL vs. NYK W 32 12 5 6 83.3 0 0 - 2 2 100.0 3 11 14 3 0 1 4 5 28
+p603
+aVCourtney Alexander DAL 12/06/2000 DAL vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -9
+p604
+aVShawn Bradley DAL 12/06/2000 DAL vs. NYK W 32 10 5 7 71.4 0 1 0.0 0 0 - 2 10 12 0 0 2 2 3 5
+p605
+aVMichael Finley DAL 12/06/2000 DAL vs. NYK W 41 21 9 21 42.9 1 3 33.3 2 2 100.0 2 2 4 5 0 1 3 3 23
+p606
+aVHubert Davis DAL 12/06/2000 DAL vs. NYK W 29 15 6 10 60.0 3 6 50.0 0 0 - 0 5 5 0 0 0 0 0 -2
+p607
+aVGreg Buckner DAL 12/06/2000 DAL vs. NYK W 17 3 0 1 0.0 0 0 - 3 4 75.0 0 1 1 0 0 0 1 5 -6
+p608
+aVLoy Vaught DAL 12/06/2000 DAL vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p609
+aVSteve Nash DAL 12/06/2000 DAL vs. NYK W 40 14 7 14 50.0 0 3 0.0 0 0 - 1 3 4 6 0 0 0 3 16
+p610
+aVMark Bryant DAL 12/06/2000 DAL vs. NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -11
+p611
+aVHoward Eisley DAL 12/06/2000 DAL vs. NYK W 35 17 7 11 63.6 3 5 60.0 0 0 - 0 4 4 3 2 0 2 1 6
+p612
+aVMichael Finley DAL 12/05/2000 DAL @ HOU L 48 22 10 20 50.0 2 4 50.0 0 0 - 2 5 7 4 4 0 2 5 -7
+p613
+aVHoward Eisley DAL 12/05/2000 DAL @ HOU L 48 24 9 18 50.0 4 7 57.1 2 2 100.0 3 2 5 7 1 0 1 2 -7
+p614
+aVHubert Davis DAL 12/05/2000 DAL @ HOU L 39 7 2 8 25.0 0 2 0.0 3 4 75.0 0 2 2 3 1 0 3 4 -8
+p615
+aVDirk Nowitzki DAL 12/05/2000 DAL @ HOU L 42 35 11 18 61.1 2 5 40.0 11 13 84.6 1 11 12 2 0 0 3 4 -2
+p616
+aVMark Bryant DAL 12/05/2000 DAL @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p617
+aVCourtney Alexander DAL 12/05/2000 DAL @ HOU L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 -1
+p618
+aVChristian Laettner DAL 12/05/2000 DAL @ HOU L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 1 1 -9
+p619
+aVGreg Buckner DAL 12/05/2000 DAL @ HOU L 29 6 3 8 37.5 0 0 - 0 0 - 3 1 4 0 0 0 0 4 9
+p620
+aVShawn Bradley DAL 12/05/2000 DAL @ HOU L 17 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 2 4 -13
+p621
+aVShawn Bradley DAL 12/03/2000 DAL @ LAL L 15 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 1 1 0 3 -5
+p622
+aVHoward Eisley DAL 12/03/2000 DAL @ LAL L 46 14 6 14 42.9 0 3 0.0 2 3 66.7 1 1 2 10 4 0 1 6 -2
+p623
+aVMichael Finley DAL 12/03/2000 DAL @ LAL L 44 22 11 19 57.9 0 1 0.0 0 0 - 1 1 2 5 0 0 1 1 1
+p624
+aVChristian Laettner DAL 12/03/2000 DAL @ LAL L 20 8 4 7 57.1 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -3
+p625
+aVDirk Nowitzki DAL 12/03/2000 DAL @ LAL L 38 25 9 16 56.3 2 6 33.3 5 6 83.3 1 10 11 1 0 3 5 1 8
+p626
+aVGreg Buckner DAL 12/03/2000 DAL @ LAL L 24 8 3 6 50.0 0 0 - 2 2 100.0 2 0 2 1 0 0 2 6 -11
+p627
+aVMark Bryant DAL 12/03/2000 DAL @ LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 4 3
+p628
+aVCourtney Alexander DAL 12/03/2000 DAL @ LAL L 35 12 6 15 40.0 0 1 0.0 0 0 - 1 2 3 2 1 0 0 5 6
+p629
+aVLoy Vaught DAL 12/03/2000 DAL @ LAL L 13 4 2 5 40.0 0 0 - 0 0 - 1 4 5 2 0 0 0 2 -7
+p630
+aVHoward Eisley DAL 12/02/2000 DAL @ GSW W 44 13 5 13 38.5 3 7 42.9 0 0 - 0 5 5 6 4 0 1 3 18
+p631
+aVEduardo Najera DAL 12/02/2000 DAL @ GSW W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 1 1 -2
+p632
+aVCourtney Alexander DAL 12/02/2000 DAL @ GSW W 25 11 5 11 45.5 0 1 0.0 1 2 50.0 0 5 5 1 0 0 1 2 5
+p633
+aVShawn Bradley DAL 12/02/2000 DAL @ GSW W 32 11 4 10 40.0 0 0 - 3 4 75.0 5 9 14 0 4 4 1 1 12
+p634
+aVSteve Nash DAL 12/02/2000 DAL @ GSW W 36 19 6 16 37.5 3 9 33.3 4 4 100.0 1 5 6 4 0 0 4 3 11
+p635
+aVChristian Laettner DAL 12/02/2000 DAL @ GSW W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 1 3 3 9
+p636
+aVMichael Finley DAL 12/02/2000 DAL @ GSW W 44 13 6 11 54.5 0 0 - 1 2 50.0 1 12 13 10 1 1 3 1 23
+p637
+aVLoy Vaught DAL 12/02/2000 DAL @ GSW W 11 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -1
+p638
+aVMark Bryant DAL 12/02/2000 DAL @ GSW W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p639
+aVDirk Nowitzki DAL 12/02/2000 DAL @ GSW W 35 24 9 17 52.9 3 5 60.0 3 6 50.0 2 4 6 3 0 0 3 2 21
+p640
+aVHoward Eisley DAL 11/30/2000 DAL @ POR L 18 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 3
+p641
+aVSteve Nash DAL 11/30/2000 DAL @ POR L 36 16 4 10 40.0 3 5 60.0 5 5 100.0 2 0 2 2 3 0 5 3 -14
+p642
+aVChristian Laettner DAL 11/30/2000 DAL @ POR L 22 9 4 6 66.7 0 0 - 1 1 100.0 3 1 4 5 0 0 0 3 0
+p643
+aVDirk Nowitzki DAL 11/30/2000 DAL @ POR L 36 17 5 11 45.5 0 1 0.0 7 8 87.5 1 8 9 3 0 1 3 3 -5
+p644
+aVShawn Bradley DAL 11/30/2000 DAL @ POR L 21 4 2 5 40.0 0 0 - 0 0 - 3 1 4 1 0 1 1 1 -11
+p645
+aVEduardo Najera DAL 11/30/2000 DAL @ POR L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p646
+aVLoy Vaught DAL 11/30/2000 DAL @ POR L 29 6 3 6 50.0 0 0 - 0 0 - 2 5 7 1 1 0 2 3 -14
+p647
+aVCourtney Alexander DAL 11/30/2000 DAL @ POR L 29 20 7 15 46.7 2 4 50.0 4 4 100.0 2 4 6 2 2 0 3 5 -5
+p648
+aVMichael Finley DAL 11/30/2000 DAL @ POR L 44 10 5 17 29.4 0 4 0.0 0 0 - 0 3 3 3 2 0 5 3 -9
+p649
+aVLoy Vaught DAL 11/28/2000 DAL vs. TOR W 19 3 1 5 20.0 0 0 - 1 1 100.0 1 6 7 0 0 0 1 1 4
+p650
+aVHoward Eisley DAL 11/28/2000 DAL vs. TOR W 20 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 17
+p651
+aVSteve Nash DAL 11/28/2000 DAL vs. TOR W 40 21 9 16 56.3 1 3 33.3 2 2 100.0 1 5 6 10 2 0 2 1 9
+p652
+aVChristian Laettner DAL 11/28/2000 DAL vs. TOR W 10 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -12
+p653
+aVShawn Bradley DAL 11/28/2000 DAL vs. TOR W 22 9 2 7 28.6 0 0 - 5 7 71.4 2 5 7 0 1 1 0 4 19
+p654
+aVEduardo Najera DAL 11/28/2000 DAL vs. TOR W 3 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 1 3
+p655
+aVMichael Finley DAL 11/28/2000 DAL vs. TOR W 45 32 16 29 55.2 0 1 0.0 0 0 - 4 1 5 3 0 2 1 2 13
+p656
+aVDirk Nowitzki DAL 11/28/2000 DAL vs. TOR W 41 19 5 14 35.7 4 10 40.0 5 5 100.0 0 4 4 2 1 1 0 4 16
+p657
+aVHubert Davis DAL 11/28/2000 DAL vs. TOR W 39 11 3 6 50.0 1 3 33.3 4 5 80.0 0 4 4 5 1 0 0 2 1
+p658
+aVMichael Finley DAL 11/25/2000 DAL vs. DEN W 40 14 6 19 31.6 0 2 0.0 2 2 100.0 0 2 2 6 3 0 1 2 20
+p659
+aVBill Curley DAL 11/25/2000 DAL vs. DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p660
+aVHubert Davis DAL 11/25/2000 DAL vs. DEN W 35 15 6 8 75.0 3 4 75.0 0 0 - 0 2 2 2 0 0 0 4 24
+p661
+aVChristian Laettner DAL 11/25/2000 DAL vs. DEN W 13 6 3 7 42.9 0 0 - 0 0 - 1 3 4 1 0 1 0 5 9
+p662
+aVHoward Eisley DAL 11/25/2000 DAL vs. DEN W 32 10 4 8 50.0 2 4 50.0 0 0 - 0 4 4 6 1 0 0 3 12
+p663
+aVCourtney Alexander DAL 11/25/2000 DAL vs. DEN W 4 2 1 3 33.3 0 1 0.0 0 1 0.0 1 1 2 0 0 0 0 0 0
+p664
+aVLoy Vaught DAL 11/25/2000 DAL vs. DEN W 18 6 3 7 42.9 0 0 - 0 0 - 4 5 9 0 0 1 0 4 5
+p665
+aVSteve Nash DAL 11/25/2000 DAL vs. DEN W 31 19 6 9 66.7 3 3 100.0 4 4 100.0 2 0 2 3 0 0 3 1 14
+p666
+aVShawn Bradley DAL 11/25/2000 DAL vs. DEN W 27 4 1 4 25.0 0 0 - 2 4 50.0 0 8 8 2 0 3 1 2 9
+p667
+aVEduardo Najera DAL 11/25/2000 DAL vs. DEN W 4 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 0
+p668
+aVDirk Nowitzki DAL 11/25/2000 DAL vs. DEN W 34 24 6 12 50.0 3 5 60.0 9 12 75.0 3 10 13 5 2 2 1 0 25
+p669
+aVShawn Bradley DAL 11/21/2000 DAL vs. SEA L 24 10 3 7 42.9 0 0 - 4 6 66.7 3 5 8 0 1 5 5 5 -5
+p670
+aVChristian Laettner DAL 11/21/2000 DAL vs. SEA L 9 2 1 5 20.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -4
+p671
+aVEduardo Najera DAL 11/21/2000 DAL vs. SEA L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -6
+p672
+aVDirk Nowitzki DAL 11/21/2000 DAL vs. SEA L 34 12 4 7 57.1 0 0 - 4 5 80.0 2 4 6 0 0 1 2 2 2
+p673
+aVHubert Davis DAL 11/21/2000 DAL vs. SEA L 40 32 11 20 55.0 7 12 58.3 3 4 75.0 0 4 4 1 2 0 1 5 6
+p674
+aVCourtney Alexander DAL 11/21/2000 DAL vs. SEA L 25 8 3 8 37.5 1 2 50.0 1 4 25.0 2 2 4 0 0 0 1 4 -6
+p675
+aVMichael Finley DAL 11/21/2000 DAL vs. SEA L 43 23 8 17 47.1 1 4 25.0 6 8 75.0 1 4 5 5 1 0 1 4 -7
+p676
+aVSteve Nash DAL 11/21/2000 DAL vs. SEA L 39 16 6 9 66.7 2 5 40.0 2 2 100.0 1 3 4 12 1 0 2 1 -3
+p677
+aVHoward Eisley DAL 11/21/2000 DAL vs. SEA L 18 7 3 5 60.0 1 3 33.3 0 1 0.0 0 1 1 1 0 0 1 4 -7
+p678
+aVShawn Bradley DAL 11/20/2000 DAL @ UTA W 25 11 4 5 80.0 0 0 - 3 4 75.0 1 3 4 0 1 6 1 5 7
+p679
+aVHoward Eisley DAL 11/20/2000 DAL @ UTA W 27 8 2 4 50.0 1 1 100.0 3 3 100.0 0 1 1 1 2 1 1 2 -1
+p680
+aVMichael Finley DAL 11/20/2000 DAL @ UTA W 44 29 11 20 55.0 2 5 40.0 5 6 83.3 0 7 7 2 0 0 1 1 11
+p681
+aVChristian Laettner DAL 11/20/2000 DAL @ UTA W 31 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 0 1 3 6 3
+p682
+aVDirk Nowitzki DAL 11/20/2000 DAL @ UTA W 35 20 6 11 54.5 3 4 75.0 5 6 83.3 1 13 14 1 1 0 2 1 0
+p683
+aVHubert Davis DAL 11/20/2000 DAL @ UTA W 26 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 2 0 0 1 3 0
+p684
+aVSteve Nash DAL 11/20/2000 DAL @ UTA W 41 17 5 13 38.5 1 5 20.0 6 6 100.0 0 5 5 17 2 0 7 2 13
+p685
+aVEduardo Najera DAL 11/20/2000 DAL @ UTA W 12 8 4 4 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 12
+p686
+aVHubert Davis DAL 11/18/2000 DAL @ VAN W 39 20 8 14 57.1 2 5 40.0 2 2 100.0 1 4 5 3 1 0 2 2 0
+p687
+aVDirk Nowitzki DAL 11/18/2000 DAL @ VAN W 42 20 8 13 61.5 0 2 0.0 4 5 80.0 1 9 10 3 0 1 2 3 9
+p688
+aVShawn Bradley DAL 11/18/2000 DAL @ VAN W 25 4 2 5 40.0 0 0 - 0 0 - 2 6 8 0 0 5 2 4 11
+p689
+aVCourtney Alexander DAL 11/18/2000 DAL @ VAN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p690
+aVSteve Nash DAL 11/18/2000 DAL @ VAN W 43 12 4 12 33.3 2 4 50.0 2 4 50.0 1 5 6 4 0 0 3 2 10
+p691
+aVChristian Laettner DAL 11/18/2000 DAL @ VAN W 19 8 3 7 42.9 0 0 - 2 4 50.0 3 2 5 0 0 0 0 3 -6
+p692
+aVEduardo Najera DAL 11/18/2000 DAL @ VAN W 14 6 1 2 50.0 0 0 - 4 6 66.7 1 2 3 2 2 0 0 0 -5
+p693
+aVHoward Eisley DAL 11/18/2000 DAL @ VAN W 17 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 2 1 -4
+p694
+aVMichael Finley DAL 11/18/2000 DAL @ VAN W 37 16 5 14 35.7 2 3 66.7 4 4 100.0 0 6 6 3 2 0 5 4 1
+p695
+aVShawn Bradley DAL 11/17/2000 DAL @ SEA W 36 14 6 10 60.0 0 0 - 2 2 100.0 7 5 12 1 0 5 2 4 14
+p696
+aVHubert Davis DAL 11/17/2000 DAL @ SEA W 22 5 2 7 28.6 0 1 0.0 1 2 50.0 0 2 2 2 1 0 0 2 1
+p697
+aVGreg Buckner DAL 11/17/2000 DAL @ SEA W 31 8 3 7 42.9 0 0 - 2 4 50.0 2 4 6 2 2 1 3 5 -2
+p698
+aVEduardo Najera DAL 11/17/2000 DAL @ SEA W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -11
+p699
+aVDirk Nowitzki DAL 11/17/2000 DAL @ SEA W 38 28 10 19 52.6 3 5 60.0 5 6 83.3 0 14 14 4 1 1 2 0 13
+p700
+aVHoward Eisley DAL 11/17/2000 DAL @ SEA W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 1 0 4 -10
+p701
+aVSteve Nash DAL 11/17/2000 DAL @ SEA W 39 14 6 10 60.0 0 1 0.0 2 2 100.0 1 3 4 9 2 0 1 1 16
+p702
+aVChristian Laettner DAL 11/17/2000 DAL @ SEA W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -8
+p703
+aVMichael Finley DAL 11/17/2000 DAL @ SEA W 43 26 12 23 52.2 1 2 50.0 1 2 50.0 1 4 5 1 2 1 5 1 11
+p704
+aVLoy Vaught DAL 11/17/2000 DAL @ SEA W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -4
+p705
+aVDirk Nowitzki DAL 11/15/2000 DAL @ PHX L 35 15 5 16 31.3 1 5 20.0 4 4 100.0 2 4 6 2 0 1 4 2 -16
+p706
+aVSteve Nash DAL 11/15/2000 DAL @ PHX L 37 19 6 11 54.5 2 3 66.7 5 6 83.3 0 2 2 6 0 0 3 2 -12
+p707
+aVBill Curley DAL 11/15/2000 DAL @ PHX L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -7
+p708
+aVEduardo Najera DAL 11/15/2000 DAL @ PHX L 10 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -14
+p709
+aVHoward Eisley DAL 11/15/2000 DAL @ PHX L 21 8 3 5 60.0 0 2 0.0 2 2 100.0 0 2 2 3 3 0 4 2 -11
+p710
+aVLoy Vaught DAL 11/15/2000 DAL @ PHX L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -3
+p711
+aVMichael Finley DAL 11/15/2000 DAL @ PHX L 34 7 3 16 18.8 0 1 0.0 1 2 50.0 1 3 4 3 3 0 2 4 -5
+p712
+aVCourtney Alexander DAL 11/15/2000 DAL @ PHX L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -9
+p713
+aVHubert Davis DAL 11/15/2000 DAL @ PHX L 25 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -17
+p714
+aVShawn Bradley DAL 11/15/2000 DAL @ PHX L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 3 1 -5
+p715
+aVGreg Buckner DAL 11/15/2000 DAL @ PHX L 34 6 2 8 25.0 0 1 0.0 2 2 100.0 3 7 10 2 3 0 1 2 -5
+p716
+aVChristian Laettner DAL 11/15/2000 DAL @ PHX L 10 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 1 0 0 4 4 -1
+p717
+aVCourtney Alexander DAL 11/13/2000 DAL @ LAC W 14 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 0 0 0 2 3 -5
+p718
+aVSteve Nash DAL 11/13/2000 DAL @ LAC W 24 8 2 6 33.3 2 2 100.0 2 2 100.0 1 1 2 4 1 0 2 0 13
+p719
+aVChristian Laettner DAL 11/13/2000 DAL @ LAC W 16 9 3 5 60.0 0 0 - 3 4 75.0 1 3 4 0 2 1 2 1 -7
+p720
+aVDirk Nowitzki DAL 11/13/2000 DAL @ LAC W 18 16 4 12 33.3 0 1 0.0 8 9 88.9 2 6 8 0 0 1 1 4 10
+p721
+aVHoward Eisley DAL 11/13/2000 DAL @ LAC W 28 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 4 0 1 1 4 1
+p722
+aVMichael Finley DAL 11/13/2000 DAL @ LAC W 40 9 4 19 21.1 1 3 33.3 0 0 - 1 4 5 5 2 0 0 1 18
+p723
+aVGreg Buckner DAL 11/13/2000 DAL @ LAC W 33 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 1 0 0 1 6 25
+p724
+aVBill Curley DAL 11/13/2000 DAL @ LAC W 3 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 0 1 0 0 1 -7
+p725
+aVShawn Bradley DAL 11/13/2000 DAL @ LAC W 31 22 8 9 88.9 0 0 - 6 6 100.0 3 5 8 0 0 3 1 3 23
+p726
+aVHubert Davis DAL 11/13/2000 DAL @ LAC W 35 10 4 9 44.4 2 5 40.0 0 0 - 0 1 1 1 1 0 0 3 -1
+p727
+aVLoy Vaught DAL 11/12/2000 DAL @ SAC L 18 8 4 6 66.7 0 0 - 0 0 - 1 7 8 2 1 0 0 0 4
+p728
+aVBill Curley DAL 11/12/2000 DAL @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p729
+aVHoward Eisley DAL 11/12/2000 DAL @ SAC L 24 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 3 0 0 1 2 -9
+p730
+aVChristian Laettner DAL 11/12/2000 DAL @ SAC L 25 12 6 11 54.5 0 0 - 0 1 0.0 3 3 6 0 0 0 4 3 -20
+p731
+aVHubert Davis DAL 11/12/2000 DAL @ SAC L 29 11 5 9 55.6 1 2 50.0 0 0 - 0 4 4 1 1 0 0 4 -2
+p732
+aVEduardo Najera DAL 11/12/2000 DAL @ SAC L 15 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 1 0 0 3 -15
+p733
+aVShawn Bradley DAL 11/12/2000 DAL @ SAC L 13 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -13
+p734
+aVDirk Nowitzki DAL 11/12/2000 DAL @ SAC L 30 16 5 10 50.0 0 2 0.0 6 6 100.0 1 5 6 2 1 1 2 1 -19
+p735
+aVSteve Nash DAL 11/12/2000 DAL @ SAC L 24 7 3 11 27.3 0 2 0.0 1 2 50.0 0 2 2 4 0 0 0 0 -16
+p736
+aVGreg Buckner DAL 11/12/2000 DAL @ SAC L 20 10 5 9 55.6 0 0 - 0 0 - 2 1 3 1 1 1 1 1 -1
+p737
+aVCourtney Alexander DAL 11/12/2000 DAL @ SAC L 12 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 3 -12
+p738
+aVMichael Finley DAL 11/12/2000 DAL @ SAC L 28 12 5 14 35.7 0 1 0.0 2 2 100.0 1 2 3 0 1 0 1 2 -24
+p739
+aVHoward Eisley DAL 11/10/2000 DAL vs. SAS W 20 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 1 1 3 -1
+p740
+aVCourtney Alexander DAL 11/10/2000 DAL vs. SAS W 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -12
+p741
+aVDirk Nowitzki DAL 11/10/2000 DAL vs. SAS W 36 18 8 20 40.0 1 5 20.0 1 2 50.0 1 9 10 3 0 3 0 3 3
+p742
+aVMichael Finley DAL 11/10/2000 DAL vs. SAS W 42 20 10 20 50.0 0 2 0.0 0 0 - 1 5 6 4 1 0 5 2 3
+p743
+aVEduardo Najera DAL 11/10/2000 DAL vs. SAS W 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -1
+p744
+aVGreg Buckner DAL 11/10/2000 DAL vs. SAS W 16 3 1 5 20.0 0 0 - 1 2 50.0 3 6 9 0 0 0 0 3 -1
+p745
+aVHubert Davis DAL 11/10/2000 DAL vs. SAS W 19 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 1 2 0 0 0 7
+p746
+aVShawn Bradley DAL 11/10/2000 DAL vs. SAS W 34 7 2 8 25.0 0 0 - 3 4 75.0 2 6 8 1 0 8 0 2 -6
+p747
+aVSteve Nash DAL 11/10/2000 DAL vs. SAS W 39 11 3 8 37.5 1 4 25.0 4 4 100.0 4 3 7 7 2 0 4 3 8
+p748
+aVChristian Laettner DAL 11/10/2000 DAL vs. SAS W 16 10 5 5 100.0 0 0 - 0 0 - 1 2 3 2 0 2 2 5 10
+p749
+aVHoward Eisley DAL 11/08/2000 DAL vs. VAN L 22 2 0 5 0.0 0 2 0.0 2 2 100.0 0 2 2 5 0 0 1 2 -16
+p750
+aVMichael Finley DAL 11/08/2000 DAL vs. VAN L 34 10 4 15 26.7 0 1 0.0 2 4 50.0 1 4 5 1 1 0 2 3 -26
+p751
+aVLoy Vaught DAL 11/08/2000 DAL vs. VAN L 19 8 4 9 44.4 0 0 - 0 0 - 3 0 3 0 1 1 3 2 -17
+p752
+aVEduardo Najera DAL 11/08/2000 DAL vs. VAN L 22 6 3 5 60.0 0 0 - 0 0 - 3 4 7 0 0 1 2 1 -2
+p753
+aVSteve Nash DAL 11/08/2000 DAL vs. VAN L 23 9 4 9 44.4 0 2 0.0 1 1 100.0 0 2 2 1 1 0 1 3 -13
+p754
+aVChristian Laettner DAL 11/08/2000 DAL vs. VAN L 14 17 8 11 72.7 0 0 - 1 3 33.3 0 1 1 0 0 0 2 2 -2
+p755
+aVShawn Bradley DAL 11/08/2000 DAL vs. VAN L 26 5 2 5 40.0 0 0 - 1 1 100.0 3 6 9 1 0 4 1 6 -14
+p756
+aVHubert Davis DAL 11/08/2000 DAL vs. VAN L 22 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 2 -12
+p757
+aVCourtney Alexander DAL 11/08/2000 DAL vs. VAN L 25 10 4 9 44.4 0 0 - 2 4 50.0 0 1 1 1 2 1 2 2 -17
+p758
+aVBill Curley DAL 11/08/2000 DAL vs. VAN L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 0
+p759
+aVDirk Nowitzki DAL 11/08/2000 DAL vs. VAN L 28 5 2 12 16.7 1 3 33.3 0 0 - 0 5 5 1 1 1 2 0 -21
+p760
+aVMichael Finley DAL 11/06/2000 DAL @ DEN W 44 26 9 17 52.9 1 2 50.0 7 7 100.0 1 5 6 4 1 1 1 2 11
+p761
+aVHubert Davis DAL 11/06/2000 DAL @ DEN W 22 13 5 9 55.6 3 6 50.0 0 0 - 0 2 2 1 0 0 5 1 -10
+p762
+aVSteve Nash DAL 11/06/2000 DAL @ DEN W 28 6 1 6 16.7 0 1 0.0 4 4 100.0 1 2 3 5 0 0 3 2 -3
+p763
+aVShawn Bradley DAL 11/06/2000 DAL @ DEN W 18 6 2 4 50.0 0 0 - 2 4 50.0 0 4 4 0 0 2 1 6 6
+p764
+aVDirk Nowitzki DAL 11/06/2000 DAL @ DEN W 38 18 6 13 46.2 2 5 40.0 4 5 80.0 1 5 6 2 1 1 0 3 11
+p765
+aVHoward Eisley DAL 11/06/2000 DAL @ DEN W 25 14 3 6 50.0 2 4 50.0 6 7 85.7 0 1 1 8 0 0 1 3 13
+p766
+aVCourtney Alexander DAL 11/06/2000 DAL @ DEN W 23 14 7 12 58.3 0 1 0.0 0 0 - 0 2 2 3 2 0 0 2 24
+p767
+aVEduardo Najera DAL 11/06/2000 DAL @ DEN W 19 4 2 4 50.0 0 0 - 0 0 - 3 2 5 1 1 0 0 1 11
+p768
+aVLoy Vaught DAL 11/06/2000 DAL @ DEN W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 1 1 5
+p769
+aVChristian Laettner DAL 11/06/2000 DAL @ DEN W 16 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 5 -8
+p770
+aVLoy Vaught DAL 11/04/2000 DAL vs. UTA L 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 3
+p771
+aVMichael Finley DAL 11/04/2000 DAL vs. UTA L 45 20 7 16 43.8 2 5 40.0 4 4 100.0 0 3 3 2 2 1 4 5 -6
+p772
+aVShawn Bradley DAL 11/04/2000 DAL vs. UTA L 28 7 2 9 22.2 0 0 - 3 4 75.0 7 7 14 2 0 1 3 5 -14
+p773
+aVChristian Laettner DAL 11/04/2000 DAL vs. UTA L 7 3 0 2 0.0 0 0 - 3 3 100.0 0 1 1 1 0 0 0 1 0
+p774
+aVCourtney Alexander DAL 11/04/2000 DAL vs. UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p775
+aVSteve Nash DAL 11/04/2000 DAL vs. UTA L 37 24 8 13 61.5 1 3 33.3 7 8 87.5 0 1 1 12 0 0 5 1 -9
+p776
+aVHoward Eisley DAL 11/04/2000 DAL vs. UTA L 21 12 2 7 28.6 2 4 50.0 6 7 85.7 0 3 3 3 0 0 0 3 5
+p777
+aVDirk Nowitzki DAL 11/04/2000 DAL vs. UTA L 34 20 8 14 57.1 4 8 50.0 0 0 - 1 6 7 1 0 1 1 4 -12
+p778
+aVEduardo Najera DAL 11/04/2000 DAL vs. UTA L 29 6 3 6 50.0 0 0 - 0 1 0.0 2 1 3 0 0 0 1 4 -9
+p779
+aVHubert Davis DAL 11/04/2000 DAL vs. UTA L 24 10 3 5 60.0 2 2 100.0 2 2 100.0 1 1 2 0 0 0 2 2 10
+p780
+aVShawn Bradley DAL 11/02/2000 DAL vs. IND W 30 6 2 10 20.0 0 0 - 2 2 100.0 2 5 7 2 0 5 3 3 15
+p781
+aVChristian Laettner DAL 11/02/2000 DAL vs. IND W 9 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p782
+aVGreg Buckner DAL 11/02/2000 DAL vs. IND W 30 13 5 7 71.4 0 0 - 3 3 100.0 0 6 6 3 1 0 0 4 -1
+p783
+aVLoy Vaught DAL 11/02/2000 DAL vs. IND W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 5 -13
+p784
+aVHubert Davis DAL 11/02/2000 DAL vs. IND W 10 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -4
+p785
+aVHoward Eisley DAL 11/02/2000 DAL vs. IND W 22 16 5 9 55.6 1 3 33.3 5 6 83.3 0 1 1 3 2 0 1 2 -6
+p786
+aVMichael Finley DAL 11/02/2000 DAL vs. IND W 37 14 5 11 45.5 1 2 50.0 3 3 100.0 0 4 4 2 1 0 1 0 8
+p787
+aVSteve Nash DAL 11/02/2000 DAL vs. IND W 33 18 7 13 53.8 3 5 60.0 1 1 100.0 2 1 3 5 1 0 2 4 13
+p788
+aVDirk Nowitzki DAL 11/02/2000 DAL vs. IND W 34 15 5 13 38.5 1 5 20.0 4 6 66.7 0 5 5 1 2 2 3 3 16
+p789
+aVEduardo Najera DAL 11/02/2000 DAL vs. IND W 18 4 2 3 66.7 0 0 - 0 0 - 3 1 4 1 0 0 1 3 5
+p790
+aVChristian Laettner DAL 10/31/2000 DAL vs. MIL W 19 5 2 9 22.2 0 0 - 1 2 50.0 3 1 4 2 1 1 3 2 6
+p791
+aVShawn Bradley DAL 10/31/2000 DAL vs. MIL W 20 6 3 8 37.5 0 0 - 0 0 - 0 5 5 1 0 6 2 3 -3
+p792
+aVMichael Finley DAL 10/31/2000 DAL vs. MIL W 42 26 10 21 47.6 0 5 0.0 6 8 75.0 3 6 9 8 2 0 2 2 13
+p793
+aVHubert Davis DAL 10/31/2000 DAL vs. MIL W 14 0 0 2 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 3 2 -4
+p794
+aVSteve Nash DAL 10/31/2000 DAL vs. MIL W 37 20 7 15 46.7 3 6 50.0 3 3 100.0 1 3 4 5 1 1 5 3 8
+p795
+aVDirk Nowitzki DAL 10/31/2000 DAL vs. MIL W 34 16 5 12 41.7 4 8 50.0 2 2 100.0 1 6 7 2 2 0 1 4 8
+p796
+aVEduardo Najera DAL 10/31/2000 DAL vs. MIL W 23 10 4 7 57.1 0 0 - 2 4 50.0 3 1 4 1 2 0 0 3 12
+p797
+aVHoward Eisley DAL 10/31/2000 DAL vs. MIL W 24 7 2 7 28.6 2 5 40.0 1 2 50.0 0 4 4 3 0 1 1 3 -10
+p798
+aVGreg Buckner DAL 10/31/2000 DAL vs. MIL W 27 7 2 7 28.6 0 0 - 3 6 50.0 8 3 11 0 1 0 0 4 -10
+p799
+a.

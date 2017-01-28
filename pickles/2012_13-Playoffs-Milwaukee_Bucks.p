@@ -1,0 +1,98 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrandon Jennings MIL 04/28/2013 MIL vs. MIA L 23 3 1 7 14.3 1 4 25.0 0 0 - 0 0 0 1 1 1 2 1 -9
+p2
+aVJohn Henson MIL 04/28/2013 MIL vs. MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p3
+aVErsan Ilyasova MIL 04/28/2013 MIL vs. MIA L 27 8 3 13 23.1 1 4 25.0 1 1 100.0 3 6 9 2 1 0 1 0 -1
+p4
+aVLarry Sanders MIL 04/28/2013 MIL vs. MIA L 31 7 3 9 33.3 0 0 - 1 1 100.0 3 8 11 2 0 3 2 3 -14
+p5
+aVMonta Ellis MIL 04/28/2013 MIL vs. MIA L 39 21 10 20 50.0 1 4 25.0 0 2 0.0 1 4 5 8 1 0 6 1 -10
+p6
+aVEkpe Udoh MIL 04/28/2013 MIL vs. MIA L 16 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 2 2 0 0 0
+p7
+aVIsh Smith MIL 04/28/2013 MIL vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p8
+aVMike Dunleavy MIL 04/28/2013 MIL vs. MIA L 28 17 5 9 55.6 3 6 50.0 4 5 80.0 2 3 5 1 0 0 1 2 -3
+p9
+aVJJ Redick MIL 04/28/2013 MIL vs. MIA L 28 10 5 11 45.5 0 3 0.0 0 0 - 0 1 1 1 1 0 1 3 -9
+p10
+aVLuc Mbah a Moute MIL 04/28/2013 MIL vs. MIA L 40 9 2 7 28.6 0 1 0.0 5 6 83.3 2 2 4 3 1 0 2 2 -14
+p11
+aVGustavo Ayon MIL 04/28/2013 MIL vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p12
+aVJohn Henson MIL 04/25/2013 MIL vs. MIA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p13
+aVLarry Sanders MIL 04/25/2013 MIL vs. MIA L 35 16 7 10 70.0 0 0 - 2 4 50.0 4 7 11 1 2 1 3 5 -9
+p14
+aVIsh Smith MIL 04/25/2013 MIL vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p15
+aVMarquis Daniels MIL 04/25/2013 MIL vs. MIA L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p16
+aVMonta Ellis MIL 04/25/2013 MIL vs. MIA L 40 7 2 9 22.2 1 6 16.7 2 4 50.0 0 0 0 6 3 0 2 2 -6
+p17
+aVEkpe Udoh MIL 04/25/2013 MIL vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p18
+aVBrandon Jennings MIL 04/25/2013 MIL vs. MIA L 36 16 5 15 33.3 1 7 14.3 5 7 71.4 1 4 5 8 5 0 4 3 -9
+p19
+aVMike Dunleavy MIL 04/25/2013 MIL vs. MIA L 22 11 4 8 50.0 1 3 33.3 2 2 100.0 0 4 4 0 0 0 2 0 -8
+p20
+aVErsan Ilyasova MIL 04/25/2013 MIL vs. MIA L 33 15 7 12 58.3 1 2 50.0 0 0 - 2 6 8 4 3 1 2 3 0
+p21
+aVSamuel Dalembert MIL 04/25/2013 MIL vs. MIA L 9 1 0 2 0.0 0 0 - 1 4 25.0 1 2 3 0 1 0 2 3 -4
+p22
+aVJJ Redick MIL 04/25/2013 MIL vs. MIA L 17 11 4 7 57.1 3 6 50.0 0 0 - 0 0 0 1 0 0 3 2 -11
+p23
+aVLuc Mbah a Moute MIL 04/25/2013 MIL vs. MIA L 33 12 3 5 60.0 0 1 0.0 6 8 75.0 1 5 6 2 0 0 1 1 -17
+p24
+aVLarry Sanders MIL 04/23/2013 MIL @ MIA L 28 14 6 7 85.7 0 0 - 2 4 50.0 0 6 6 2 0 1 5 5 0
+p25
+aVGustavo Ayon MIL 04/23/2013 MIL @ MIA L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p26
+aVLuc Mbah a Moute MIL 04/23/2013 MIL @ MIA L 33 6 3 7 42.9 0 0 - 0 2 0.0 0 1 1 2 2 0 0 2 -6
+p27
+aVMike Dunleavy MIL 04/23/2013 MIL @ MIA L 25 16 6 9 66.7 2 5 40.0 2 2 100.0 0 6 6 5 2 0 0 2 -12
+p28
+aVEkpe Udoh MIL 04/23/2013 MIL @ MIA L 14 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -16
+p29
+aVJohn Henson MIL 04/23/2013 MIL @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 2
+p30
+aVBrandon Jennings MIL 04/23/2013 MIL @ MIA L 41 8 3 15 20.0 0 7 0.0 2 4 50.0 0 3 3 5 2 0 2 1 -15
+p31
+aVIsh Smith MIL 04/23/2013 MIL @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p32
+aVJJ Redick MIL 04/23/2013 MIL @ MIA L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p33
+aVMonta Ellis MIL 04/23/2013 MIL @ MIA L 34 7 2 7 28.6 0 3 0.0 3 4 75.0 0 4 4 5 2 1 4 3 -5
+p34
+aVMarquis Daniels MIL 04/23/2013 MIL @ MIA L 15 8 4 6 66.7 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -15
+p35
+aVErsan Ilyasova MIL 04/23/2013 MIL @ MIA L 29 21 9 14 64.3 2 3 66.7 1 1 100.0 3 3 6 1 0 0 2 3 5
+p36
+aVIsh Smith MIL 04/21/2013 MIL @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p37
+aVJohn Henson MIL 04/21/2013 MIL @ MIA L 20 6 3 7 42.9 0 0 - 0 0 - 0 5 5 0 2 0 1 2 -9
+p38
+aVLuc Mbah a Moute MIL 04/21/2013 MIL @ MIA L 29 6 2 4 50.0 0 2 0.0 2 2 100.0 1 2 3 0 1 0 2 4 -15
+p39
+aVMike Dunleavy MIL 04/21/2013 MIL @ MIA L 17 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 2 0 0 0 1 -12
+p40
+aVBrandon Jennings MIL 04/21/2013 MIL @ MIA L 33 26 8 20 40.0 4 10 40.0 6 7 85.7 0 1 1 2 1 0 3 1 -9
+p41
+aVJJ Redick MIL 04/21/2013 MIL @ MIA L 16 6 1 6 16.7 1 3 33.3 3 3 100.0 0 1 1 3 0 0 1 3 -7
+p42
+aVMonta Ellis MIL 04/21/2013 MIL @ MIA L 39 22 10 19 52.6 1 6 16.7 1 6 16.7 1 3 4 3 4 0 2 2 -26
+p43
+aVEkpe Udoh MIL 04/21/2013 MIL @ MIA L 21 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 0 1 2
+p44
+aVMarquis Daniels MIL 04/21/2013 MIL @ MIA L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -3
+p45
+aVLarry Sanders MIL 04/21/2013 MIL @ MIA L 19 6 3 7 42.9 0 0 - 0 2 0.0 4 1 5 0 1 0 2 5 -22
+p46
+aVErsan Ilyasova MIL 04/21/2013 MIL @ MIA L 28 2 1 7 14.3 0 1 0.0 0 0 - 2 4 6 0 1 0 1 2 -14
+p47
+aVGustavo Ayon MIL 04/21/2013 MIL @ MIA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p48
+a.

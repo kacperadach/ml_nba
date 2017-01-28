@@ -1,0 +1,158 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJon Leuer MEM 05/03/2014 MEM @ OKC L 19 9 3 5 60.0 1 2 50.0 2 2 100.0 2 5 7 1 1 0 0 2 -1
+p2
+aVMike Conley MEM 05/03/2014 MEM @ OKC L 36 20 8 14 57.1 0 2 0.0 4 5 80.0 0 5 5 9 4 0 4 3 -11
+p3
+aVMike Miller MEM 05/03/2014 MEM @ OKC L 29 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 2 1 0 2 2 -10
+p4
+aVBeno Udrih MEM 05/03/2014 MEM @ OKC L 17 12 4 8 50.0 1 2 50.0 3 3 100.0 0 0 0 0 1 0 1 1 1
+p5
+aVMarc Gasol MEM 05/03/2014 MEM @ OKC L 41 24 7 20 35.0 0 1 0.0 10 11 90.9 2 0 2 6 4 1 3 5 -11
+p6
+aVTony Allen MEM 05/03/2014 MEM @ OKC L 36 15 4 11 36.4 0 1 0.0 7 8 87.5 2 2 4 1 0 0 2 4 -10
+p7
+aVKosta Koufos MEM 05/03/2014 MEM @ OKC L 7 4 2 3 66.7 0 0 - 0 0 - 3 1 4 0 1 0 0 0 0
+p8
+aVTayshaun Prince MEM 05/03/2014 MEM @ OKC L 16 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 -5
+p9
+aVJamaal Franklin MEM 05/03/2014 MEM @ OKC L 1 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p10
+aVCourtney Lee MEM 05/03/2014 MEM @ OKC L 37 16 5 10 50.0 2 5 40.0 4 5 80.0 0 0 0 2 1 0 2 3 -18
+p11
+aVEd Davis MEM 05/03/2014 MEM @ OKC L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p12
+aVJamaal Franklin MEM 05/01/2014 MEM vs. OKC L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p13
+aVKosta Koufos MEM 05/01/2014 MEM vs. OKC L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 3
+p14
+aVMike Conley MEM 05/01/2014 MEM vs. OKC L 28 5 2 10 20.0 0 2 0.0 1 2 50.0 1 3 4 6 1 0 2 3 -21
+p15
+aVMarc Gasol MEM 05/01/2014 MEM vs. OKC L 33 17 6 13 46.2 0 0 - 5 6 83.3 0 5 5 4 1 0 2 2 -17
+p16
+aVJames Johnson MEM 05/01/2014 MEM vs. OKC L 18 15 4 11 36.4 1 4 25.0 6 8 75.0 4 1 5 0 1 0 0 1 0
+p17
+aVZach Randolph MEM 05/01/2014 MEM vs. OKC L 35 16 7 14 50.0 0 0 - 2 4 50.0 1 7 8 1 1 0 1 2 -25
+p18
+aVCourtney Lee MEM 05/01/2014 MEM vs. OKC L 22 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 0 0 1 0 2 -9
+p19
+aVTony Allen MEM 05/01/2014 MEM vs. OKC L 28 13 5 9 55.6 0 0 - 3 4 75.0 1 4 5 0 1 0 0 3 -11
+p20
+aVMike Miller MEM 05/01/2014 MEM vs. OKC L 24 7 2 6 33.3 2 4 50.0 1 1 100.0 0 3 3 1 0 0 3 2 -11
+p21
+aVBeno Udrih MEM 05/01/2014 MEM vs. OKC L 20 2 1 8 12.5 0 2 0.0 0 0 - 0 0 0 3 0 0 0 2 1
+p22
+aVTayshaun Prince MEM 05/01/2014 MEM vs. OKC L 16 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -12
+p23
+aVEd Davis MEM 05/01/2014 MEM vs. OKC L 3 2 1 1 100.0 0 0 - 0 1 0.0 2 0 2 0 0 0 0 0 0
+p24
+aVJon Leuer MEM 05/01/2014 MEM vs. OKC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p25
+aVTayshaun Prince MEM 04/29/2014 MEM @ OKC W 22 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 2 1 0 0 2 2
+p26
+aVZach Randolph MEM 04/29/2014 MEM @ OKC W 42 20 8 15 53.3 0 0 - 4 7 57.1 1 9 10 0 1 0 1 3 3
+p27
+aVMike Conley MEM 04/29/2014 MEM @ OKC W 38 17 8 17 47.1 1 3 33.3 0 0 - 1 1 2 4 0 0 1 1 9
+p28
+aVEd Davis MEM 04/29/2014 MEM @ OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p29
+aVMarc Gasol MEM 04/29/2014 MEM @ OKC W 47 11 4 14 28.6 0 0 - 3 4 75.0 5 10 15 4 1 2 1 5 7
+p30
+aVCourtney Lee MEM 04/29/2014 MEM @ OKC W 29 7 2 8 25.0 0 3 0.0 3 4 75.0 0 2 2 4 2 0 2 3 -1
+p31
+aVMike Miller MEM 04/29/2014 MEM @ OKC W 31 21 6 11 54.5 5 8 62.5 4 4 100.0 1 5 6 3 3 0 0 0 0
+p32
+aVTony Allen MEM 04/29/2014 MEM @ OKC W 34 7 3 7 42.9 0 1 0.0 1 3 33.3 3 6 9 2 3 0 3 3 -3
+p33
+aVBeno Udrih MEM 04/29/2014 MEM @ OKC W 15 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 2 -8
+p34
+aVKosta Koufos MEM 04/29/2014 MEM @ OKC W 6 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 1 0 2 -6
+p35
+aVBeno Udrih MEM 04/26/2014 MEM vs. OKC L 19 6 2 6 33.3 2 3 66.7 0 0 - 1 1 2 2 1 0 3 1 9
+p36
+aVMarc Gasol MEM 04/26/2014 MEM vs. OKC L 49 23 10 21 47.6 0 0 - 3 4 75.0 3 8 11 4 1 2 4 4 0
+p37
+aVMike Miller MEM 04/26/2014 MEM vs. OKC L 25 8 2 7 28.6 2 6 33.3 2 4 50.0 0 3 3 0 1 0 0 3 4
+p38
+aVCourtney Lee MEM 04/26/2014 MEM vs. OKC L 30 9 3 10 30.0 2 5 40.0 1 2 50.0 1 3 4 1 1 0 1 4 -10
+p39
+aVJames Johnson MEM 04/26/2014 MEM vs. OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p40
+aVKosta Koufos MEM 04/26/2014 MEM vs. OKC L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p41
+aVTony Allen MEM 04/26/2014 MEM vs. OKC L 34 14 6 14 42.9 0 0 - 2 3 66.7 10 3 13 0 1 1 2 1 0
+p42
+aVEd Davis MEM 04/26/2014 MEM vs. OKC L 5 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 0 0 0 -1
+p43
+aVMike Conley MEM 04/26/2014 MEM vs. OKC L 48 14 5 16 31.3 0 6 0.0 4 5 80.0 0 4 4 10 4 1 1 1 -2
+p44
+aVTayshaun Prince MEM 04/26/2014 MEM vs. OKC L 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p45
+aVZach Randolph MEM 04/26/2014 MEM vs. OKC L 33 11 5 14 35.7 0 0 - 1 5 20.0 1 6 7 2 3 0 2 3 -14
+p46
+aVEd Davis MEM 04/24/2014 MEM vs. OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p47
+aVCourtney Lee MEM 04/24/2014 MEM vs. OKC W 36 10 3 9 33.3 1 2 50.0 3 4 75.0 1 2 3 3 1 0 1 2 3
+p48
+aVMarc Gasol MEM 04/24/2014 MEM vs. OKC W 39 14 7 14 50.0 0 0 - 0 0 - 2 6 8 2 1 0 0 2 -7
+p49
+aVMike Miller MEM 04/24/2014 MEM vs. OKC W 20 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 3 1
+p50
+aVMike Conley MEM 04/24/2014 MEM vs. OKC W 39 20 8 14 57.1 2 5 40.0 2 2 100.0 1 4 5 3 2 0 4 3 1
+p51
+aVTayshaun Prince MEM 04/24/2014 MEM vs. OKC W 24 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 4
+p52
+aVBeno Udrih MEM 04/24/2014 MEM vs. OKC W 14 12 5 6 83.3 1 2 50.0 1 2 50.0 0 2 2 2 1 0 3 2 2
+p53
+aVKosta Koufos MEM 04/24/2014 MEM vs. OKC W 17 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 1 1 1 3 9
+p54
+aVZach Randolph MEM 04/24/2014 MEM vs. OKC W 45 16 5 20 25.0 0 1 0.0 6 7 85.7 4 6 10 6 0 0 3 0 3
+p55
+aVTony Allen MEM 04/24/2014 MEM vs. OKC W 31 16 8 15 53.3 0 3 0.0 0 0 - 3 6 9 3 2 0 2 4 -1
+p56
+aVKosta Koufos MEM 04/21/2014 MEM @ OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p57
+aVTayshaun Prince MEM 04/21/2014 MEM @ OKC W 14 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p58
+aVZach Randolph MEM 04/21/2014 MEM @ OKC W 41 25 10 20 50.0 0 0 - 5 6 83.3 2 4 6 2 0 0 2 0 3
+p59
+aVTony Allen MEM 04/21/2014 MEM @ OKC W 35 8 3 4 75.0 0 1 0.0 2 2 100.0 2 6 8 3 4 0 1 4 2
+p60
+aVCourtney Lee MEM 04/21/2014 MEM @ OKC W 42 16 6 9 66.7 1 2 50.0 3 3 100.0 1 2 3 1 0 0 0 3 6
+p61
+aVMarc Gasol MEM 04/21/2014 MEM @ OKC W 46 16 6 15 40.0 0 0 - 4 4 100.0 0 7 7 7 1 1 1 6 2
+p62
+aVBeno Udrih MEM 04/21/2014 MEM @ OKC W 14 14 6 8 75.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 2 5
+p63
+aVMike Conley MEM 04/21/2014 MEM @ OKC W 39 19 7 16 43.8 0 3 0.0 5 7 71.4 2 5 7 12 0 0 2 2 3
+p64
+aVMike Miller MEM 04/21/2014 MEM @ OKC W 25 9 3 6 50.0 3 4 75.0 0 0 - 0 6 6 2 0 0 0 2 13
+p65
+aVEd Davis MEM 04/21/2014 MEM @ OKC W 9 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 0 2 1 1 -1
+p66
+aVMike Miller MEM 04/19/2014 MEM @ OKC L 20 3 1 6 16.7 1 2 50.0 0 0 - 1 2 3 0 0 0 0 4 -21
+p67
+aVMarc Gasol MEM 04/19/2014 MEM @ OKC L 45 16 7 19 36.8 0 0 - 2 5 40.0 1 5 6 4 3 0 1 3 -15
+p68
+aVTayshaun Prince MEM 04/19/2014 MEM @ OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p69
+aVEd Davis MEM 04/19/2014 MEM @ OKC L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -3
+p70
+aVCourtney Lee MEM 04/19/2014 MEM @ OKC L 29 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -2
+p71
+aVTony Allen MEM 04/19/2014 MEM @ OKC L 33 13 6 12 50.0 0 1 0.0 1 1 100.0 2 4 6 1 1 0 2 4 9
+p72
+aVJames Johnson MEM 04/19/2014 MEM @ OKC L 6 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 0 0 0 0 0 -6
+p73
+aVKosta Koufos MEM 04/19/2014 MEM @ OKC L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 2 -4
+p74
+aVJon Leuer MEM 04/19/2014 MEM @ OKC L 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p75
+aVZach Randolph MEM 04/19/2014 MEM @ OKC L 39 21 7 21 33.3 0 0 - 7 12 58.3 8 3 11 3 0 1 1 5 -2
+p76
+aVMike Conley MEM 04/19/2014 MEM @ OKC L 39 16 6 15 40.0 0 6 0.0 4 5 80.0 0 5 5 11 3 0 1 1 -10
+p77
+aVBeno Udrih MEM 04/19/2014 MEM @ OKC L 15 3 1 4 25.0 0 1 0.0 1 4 25.0 1 3 4 1 0 0 0 1 -6
+p78
+a.

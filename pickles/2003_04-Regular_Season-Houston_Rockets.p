@@ -1,0 +1,1600 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVYao Ming HOU 04/14/2004 HOU vs. DAL L 22 12 5 7 71.4 0 0 - 2 5 40.0 3 4 7 1 0 1 3 4 -13
+p2
+aVJim Jackson HOU 04/14/2004 HOU vs. DAL L 31 12 5 14 35.7 2 4 50.0 0 0 - 1 2 3 3 1 0 3 2 -7
+p3
+aVBostjan Nachbar HOU 04/14/2004 HOU vs. DAL L 39 12 5 10 50.0 1 3 33.3 1 2 50.0 1 4 5 6 3 0 4 6 -3
+p4
+aVMaurice Taylor HOU 04/14/2004 HOU vs. DAL L 19 7 2 9 22.2 0 0 - 3 4 75.0 0 5 5 1 0 0 1 1 -1
+p5
+aVMike Wilks HOU 04/14/2004 HOU vs. DAL L 25 13 5 11 45.5 1 2 50.0 2 4 50.0 0 4 4 5 1 0 1 3 8
+p6
+aVEric Piatkowski HOU 04/14/2004 HOU vs. DAL L 17 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 3 1 0 1 1 4
+p7
+aVClar. Weatherspoon HOU 04/14/2004 HOU vs. DAL L 25 6 3 6 50.0 0 0 - 0 0 - 2 6 8 2 0 1 4 2 3
+p8
+aVMark Jackson HOU 04/14/2004 HOU vs. DAL L 30 3 1 4 25.0 1 1 100.0 0 0 - 1 4 5 2 0 0 2 2 -11
+p9
+aVScott Padgett HOU 04/14/2004 HOU vs. DAL L 32 18 8 13 61.5 2 6 33.3 0 0 - 1 10 11 1 0 1 0 3 5
+p10
+aVJim Jackson HOU 04/12/2004 HOU @ SEA W 47 22 7 13 53.8 5 8 62.5 3 5 60.0 0 6 6 0 1 0 3 4 10
+p11
+aVBostjan Nachbar HOU 04/12/2004 HOU @ SEA W 41 11 4 8 50.0 3 4 75.0 0 2 0.0 0 5 5 3 3 0 2 5 2
+p12
+aVEric Piatkowski HOU 04/12/2004 HOU @ SEA W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 2 0 -5
+p13
+aVMike Wilks HOU 04/12/2004 HOU @ SEA W 10 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 -4
+p14
+aVScott Padgett HOU 04/12/2004 HOU @ SEA W 29 12 4 9 44.4 2 4 50.0 2 3 66.7 1 4 5 3 1 0 1 4 10
+p15
+aVYao Ming HOU 04/12/2004 HOU @ SEA W 34 20 6 13 46.2 0 1 0.0 8 9 88.9 0 5 5 2 0 1 2 5 18
+p16
+aVClar. Weatherspoon HOU 04/12/2004 HOU @ SEA W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -7
+p17
+aVMark Jackson HOU 04/12/2004 HOU @ SEA W 39 25 4 8 50.0 3 7 42.9 14 17 82.4 0 5 5 9 1 0 3 2 8
+p18
+aVMaurice Taylor HOU 04/12/2004 HOU @ SEA W 25 16 4 7 57.1 0 0 - 8 9 88.9 1 3 4 0 0 0 3 5 -12
+p19
+aVScott Padgett HOU 04/10/2004 HOU @ UTA L 10 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 2 0 0 2
+p20
+aVJim Jackson HOU 04/10/2004 HOU @ UTA L 38 6 1 12 8.3 0 5 0.0 4 4 100.0 0 1 1 1 2 0 0 2 -19
+p21
+aVCuttino Mobley HOU 04/10/2004 HOU @ UTA L 38 15 5 11 45.5 3 4 75.0 2 2 100.0 0 4 4 0 1 2 5 3 -16
+p22
+aVYao Ming HOU 04/10/2004 HOU @ UTA L 28 15 5 11 45.5 0 0 - 5 5 100.0 2 4 6 2 0 3 2 5 -3
+p23
+aVClar. Weatherspoon HOU 04/10/2004 HOU @ UTA L 15 5 2 5 40.0 0 0 - 1 1 100.0 1 0 1 0 2 0 0 2 5
+p24
+aVKelvin Cato HOU 04/10/2004 HOU @ UTA L 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 4 -13
+p25
+aVMark Jackson HOU 04/10/2004 HOU @ UTA L 30 5 2 2 100.0 0 0 - 1 2 50.0 0 3 3 6 2 0 4 2 -2
+p26
+aVMike Wilks HOU 04/10/2004 HOU @ UTA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p27
+aVMaurice Taylor HOU 04/10/2004 HOU @ UTA L 36 16 7 13 53.8 0 0 - 2 2 100.0 0 7 7 1 1 0 0 6 -12
+p28
+aVSteve Francis HOU 04/10/2004 HOU @ UTA L 23 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 2 0 0 6 4 -14
+p29
+aVEric Piatkowski HOU 04/10/2004 HOU @ UTA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 5
+p30
+aVScott Padgett HOU 04/09/2004 HOU vs. DEN W 3 5 1 2 50.0 1 2 50.0 2 2 100.0 1 0 1 0 0 0 0 1 1
+p31
+aVSteve Francis HOU 04/09/2004 HOU vs. DEN W 43 33 10 19 52.6 2 4 50.0 11 13 84.6 0 3 3 11 4 0 4 3 7
+p32
+aVMaurice Taylor HOU 04/09/2004 HOU vs. DEN W 27 10 5 8 62.5 0 0 - 0 0 - 1 4 5 3 0 2 2 6 3
+p33
+aVBostjan Nachbar HOU 04/09/2004 HOU vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p34
+aVJim Jackson HOU 04/09/2004 HOU vs. DEN W 44 17 5 10 50.0 2 5 40.0 5 5 100.0 2 5 7 4 0 0 1 3 6
+p35
+aVMark Jackson HOU 04/09/2004 HOU vs. DEN W 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 3 0 -5
+p36
+aVCuttino Mobley HOU 04/09/2004 HOU vs. DEN W 44 22 9 17 52.9 2 5 40.0 2 2 100.0 0 3 3 2 1 2 1 1 4
+p37
+aVClar. Weatherspoon HOU 04/09/2004 HOU vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p38
+aVKelvin Cato HOU 04/09/2004 HOU vs. DEN W 24 7 1 3 33.3 0 0 - 5 6 83.3 3 4 7 1 1 0 0 3 4
+p39
+aVEric Piatkowski HOU 04/09/2004 HOU vs. DEN W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p40
+aVYao Ming HOU 04/09/2004 HOU vs. DEN W 35 12 5 14 35.7 0 0 - 2 4 50.0 2 4 6 1 0 1 3 4 -4
+p41
+aVYao Ming HOU 04/07/2004 HOU @ LAC W 22 12 6 12 50.0 0 0 - 0 0 - 3 7 10 0 0 4 2 5 19
+p42
+aVMark Jackson HOU 04/07/2004 HOU @ LAC W 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 6 0 0 2 1 5
+p43
+aVSteve Francis HOU 04/07/2004 HOU @ LAC W 33 10 3 5 60.0 0 0 - 4 4 100.0 1 3 4 11 2 0 4 0 18
+p44
+aVScott Padgett HOU 04/07/2004 HOU @ LAC W 3 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 1 1
+p45
+aVJim Jackson HOU 04/07/2004 HOU @ LAC W 35 21 8 12 66.7 5 7 71.4 0 0 - 0 3 3 0 3 0 1 3 17
+p46
+aVMike Wilks HOU 04/07/2004 HOU @ LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p47
+aVCuttino Mobley HOU 04/07/2004 HOU @ LAC W 36 21 8 17 47.1 1 2 50.0 4 5 80.0 1 3 4 4 2 0 3 2 5
+p48
+aVEric Piatkowski HOU 04/07/2004 HOU @ LAC W 23 8 3 7 42.9 2 5 40.0 0 0 - 0 5 5 1 0 0 2 0 23
+p49
+aVBostjan Nachbar HOU 04/07/2004 HOU @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p50
+aVClar. Weatherspoon HOU 04/07/2004 HOU @ LAC W 13 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 3
+p51
+aVMaurice Taylor HOU 04/07/2004 HOU @ LAC W 29 14 7 12 58.3 0 0 - 0 0 - 3 5 8 1 1 0 1 2 9
+p52
+aVKelvin Cato HOU 04/07/2004 HOU @ LAC W 27 6 3 5 60.0 0 0 - 0 0 - 1 6 7 1 0 6 2 3 13
+p53
+aVMike Wilks HOU 04/06/2004 HOU @ GSW L 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p54
+aVEric Piatkowski HOU 04/06/2004 HOU @ GSW L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 0 1 1 0 0 -2
+p55
+aVMark Jackson HOU 04/06/2004 HOU @ GSW L 9 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 1 0 2 1 -4
+p56
+aVJim Jackson HOU 04/06/2004 HOU @ GSW L 40 19 8 10 80.0 2 3 66.7 1 1 100.0 0 5 5 1 1 0 2 2 -5
+p57
+aVKelvin Cato HOU 04/06/2004 HOU @ GSW L 10 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 0 0 1 1 1 0
+p58
+aVMaurice Taylor HOU 04/06/2004 HOU @ GSW L 29 10 4 12 33.3 0 0 - 2 2 100.0 3 1 4 1 0 1 5 5 -8
+p59
+aVClar. Weatherspoon HOU 04/06/2004 HOU @ GSW L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -6
+p60
+aVSteve Francis HOU 04/06/2004 HOU @ GSW L 39 18 4 12 33.3 0 0 - 10 10 100.0 1 5 6 2 2 1 3 5 0
+p61
+aVScott Padgett HOU 04/06/2004 HOU @ GSW L 9 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p62
+aVYao Ming HOU 04/06/2004 HOU @ GSW L 34 15 6 14 42.9 0 0 - 3 3 100.0 1 7 8 2 0 2 2 6 -4
+p63
+aVCuttino Mobley HOU 04/06/2004 HOU @ GSW L 40 11 5 8 62.5 0 1 0.0 1 2 50.0 0 3 3 3 1 0 0 1 -7
+p64
+aVJim Jackson HOU 04/04/2004 HOU vs. SAC L 44 18 8 14 57.1 1 4 25.0 1 1 100.0 1 8 9 6 0 0 3 2 -5
+p65
+aVMark Jackson HOU 04/04/2004 HOU vs. SAC L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 2 0 2 0 0
+p66
+aVMike Wilks HOU 04/04/2004 HOU vs. SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p67
+aVClar. Weatherspoon HOU 04/04/2004 HOU vs. SAC L 21 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 2 0 1 2 -6
+p68
+aVCuttino Mobley HOU 04/04/2004 HOU vs. SAC L 37 15 6 12 50.0 3 6 50.0 0 0 - 0 5 5 0 2 1 3 1 -17
+p69
+aVSteve Francis HOU 04/04/2004 HOU vs. SAC L 38 11 2 10 20.0 0 0 - 7 10 70.0 0 2 2 12 3 0 3 6 -5
+p70
+aVYao Ming HOU 04/04/2004 HOU vs. SAC L 36 21 9 19 47.4 0 0 - 3 3 100.0 1 9 10 2 0 0 6 3 -8
+p71
+aVMaurice Taylor HOU 04/04/2004 HOU vs. SAC L 24 8 4 8 50.0 0 0 - 0 1 0.0 1 2 3 4 0 0 1 1 -4
+p72
+aVEric Piatkowski HOU 04/04/2004 HOU vs. SAC L 15 7 3 6 50.0 1 4 25.0 0 0 - 0 1 1 0 0 0 1 1 12
+p73
+aVScott Padgett HOU 04/04/2004 HOU vs. SAC L 14 8 3 4 75.0 2 3 66.7 0 0 - 1 3 4 1 0 0 0 2 8
+p74
+aVYao Ming HOU 04/02/2004 HOU @ DEN L 35 23 8 12 66.7 0 0 - 7 9 77.8 2 8 10 2 1 1 4 2 4
+p75
+aVCuttino Mobley HOU 04/02/2004 HOU @ DEN L 43 17 6 15 40.0 2 7 28.6 3 4 75.0 1 4 5 2 1 0 2 4 -13
+p76
+aVJim Jackson HOU 04/02/2004 HOU @ DEN L 39 15 7 15 46.7 1 4 25.0 0 0 - 0 9 9 5 1 0 4 5 -8
+p77
+aVScott Padgett HOU 04/02/2004 HOU @ DEN L 11 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 1 0 0 -5
+p78
+aVClar. Weatherspoon HOU 04/02/2004 HOU @ DEN L 27 16 8 9 88.9 0 0 - 0 3 0.0 4 3 7 0 0 1 0 2 -20
+p79
+aVMark Jackson HOU 04/02/2004 HOU @ DEN L 10 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 1 0 1 1 2
+p80
+aVCharles Oakley HOU 04/02/2004 HOU @ DEN L 8 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 1 5
+p81
+aVBostjan Nachbar HOU 04/02/2004 HOU @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p82
+aVMaurice Taylor HOU 04/02/2004 HOU @ DEN L 15 6 3 8 37.5 0 0 - 0 2 0.0 1 1 2 3 0 0 2 3 -4
+p83
+aVEric Piatkowski HOU 04/02/2004 HOU @ DEN L 12 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 1 0 0 0 -4
+p84
+aVSteve Francis HOU 04/02/2004 HOU @ DEN L 39 9 3 9 33.3 1 2 50.0 2 4 50.0 2 3 5 6 1 0 6 4 -9
+p85
+aVScott Padgett HOU 04/01/2004 HOU @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p86
+aVJim Jackson HOU 04/01/2004 HOU @ LAL L 40 13 5 15 33.3 2 5 40.0 1 1 100.0 2 10 12 3 2 0 5 5 -3
+p87
+aVCuttino Mobley HOU 04/01/2004 HOU @ LAL L 45 26 12 23 52.2 2 5 40.0 0 0 - 0 3 3 1 2 1 2 1 -3
+p88
+aVClar. Weatherspoon HOU 04/01/2004 HOU @ LAL L 28 9 4 6 66.7 0 0 - 1 2 50.0 1 3 4 1 3 1 1 4 -10
+p89
+aVMaurice Taylor HOU 04/01/2004 HOU @ LAL L 26 10 3 4 75.0 0 0 - 4 4 100.0 1 0 1 1 1 1 2 6 0
+p90
+aVEric Piatkowski HOU 04/01/2004 HOU @ LAL L 11 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -10
+p91
+aVCharles Oakley HOU 04/01/2004 HOU @ LAL L 8 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 3 -2
+p92
+aVYao Ming HOU 04/01/2004 HOU @ LAL L 33 6 3 15 20.0 0 0 - 0 0 - 0 8 8 3 0 2 1 3 -5
+p93
+aVSteve Francis HOU 04/01/2004 HOU @ LAL L 42 17 5 12 41.7 2 3 66.7 5 5 100.0 1 4 5 8 3 1 5 4 -6
+p94
+aVMark Jackson HOU 04/01/2004 HOU @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p95
+aVJim Jackson HOU 03/29/2004 HOU vs. MIN L 45 16 7 11 63.6 1 1 100.0 1 1 100.0 0 6 6 4 1 1 4 4 -8
+p96
+aVCuttino Mobley HOU 03/29/2004 HOU vs. MIN L 46 17 6 18 33.3 2 7 28.6 3 3 100.0 0 9 9 4 2 2 0 0 -8
+p97
+aVSteve Francis HOU 03/29/2004 HOU vs. MIN L 38 17 7 11 63.6 0 0 - 3 6 50.0 4 4 8 7 1 0 6 5 -12
+p98
+aVMaurice Taylor HOU 03/29/2004 HOU vs. MIN L 40 17 8 17 47.1 0 0 - 1 1 100.0 5 5 10 1 2 0 2 3 -3
+p99
+aVYao Ming HOU 03/29/2004 HOU vs. MIN L 38 16 8 14 57.1 0 0 - 0 0 - 2 5 7 2 1 1 2 4 -13
+p100
+aVBostjan Nachbar HOU 03/29/2004 HOU vs. MIN L 5 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 4
+p101
+aVMark Jackson HOU 03/29/2004 HOU vs. MIN L 10 3 1 4 25.0 0 2 0.0 1 2 50.0 1 1 2 3 0 0 2 0 6
+p102
+aVClar. Weatherspoon HOU 03/29/2004 HOU vs. MIN L 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 4
+p103
+aVMark Jackson HOU 03/28/2004 HOU @ MIL W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 1 4
+p104
+aVSteve Francis HOU 03/28/2004 HOU @ MIL W 49 23 5 10 50.0 0 2 0.0 13 16 81.3 0 10 10 8 3 1 3 5 5
+p105
+aVYao Ming HOU 03/28/2004 HOU @ MIL W 41 27 7 13 53.8 0 0 - 13 13 100.0 3 10 13 1 1 5 6 5 18
+p106
+aVJim Jackson HOU 03/28/2004 HOU @ MIL W 36 10 3 10 30.0 1 7 14.3 3 3 100.0 0 4 4 3 0 0 3 5 -6
+p107
+aVScott Padgett HOU 03/28/2004 HOU @ MIL W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 -3
+p108
+aVMaurice Taylor HOU 03/28/2004 HOU @ MIL W 33 19 6 12 50.0 0 0 - 7 8 87.5 1 5 6 0 1 2 2 6 4
+p109
+aVClar. Weatherspoon HOU 03/28/2004 HOU @ MIL W 28 12 6 7 85.7 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -9
+p110
+aVEric Piatkowski HOU 03/28/2004 HOU @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p111
+aVCuttino Mobley HOU 03/28/2004 HOU @ MIL W 44 19 7 14 50.0 3 6 50.0 2 3 66.7 0 5 5 3 1 0 2 4 13
+p112
+aVBostjan Nachbar HOU 03/28/2004 HOU @ MIL W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 4 -2
+p113
+aVMike Wilks HOU 03/28/2004 HOU @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p114
+aVBostjan Nachbar HOU 03/26/2004 HOU @ MEM L 13 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 1 1 4 -20
+p115
+aVMaurice Taylor HOU 03/26/2004 HOU @ MEM L 27 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 0 0 0 2 2 -32
+p116
+aVJim Jackson HOU 03/26/2004 HOU @ MEM L 31 14 6 10 60.0 1 2 50.0 1 1 100.0 1 3 4 2 0 2 1 2 -15
+p117
+aVEric Piatkowski HOU 03/26/2004 HOU @ MEM L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 2
+p118
+aVYao Ming HOU 03/26/2004 HOU @ MEM L 31 14 5 13 38.5 0 0 - 4 4 100.0 2 5 7 0 0 4 2 3 -9
+p119
+aVCuttino Mobley HOU 03/26/2004 HOU @ MEM L 30 4 2 9 22.2 0 4 0.0 0 0 - 0 4 4 2 1 0 3 3 -19
+p120
+aVMark Jackson HOU 03/26/2004 HOU @ MEM L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 5 1 0 2 1 2
+p121
+aVClar. Weatherspoon HOU 03/26/2004 HOU @ MEM L 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 2 0 -17
+p122
+aVCharles Oakley HOU 03/26/2004 HOU @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p123
+aVMike Wilks HOU 03/26/2004 HOU @ MEM L 9 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 0 6
+p124
+aVScott Padgett HOU 03/26/2004 HOU @ MEM L 18 9 4 8 50.0 0 1 0.0 1 1 100.0 1 5 6 0 0 0 2 4 14
+p125
+aVSteve Francis HOU 03/26/2004 HOU @ MEM L 35 17 6 11 54.5 0 3 0.0 5 6 83.3 2 3 5 4 1 0 3 1 -25
+p126
+aVClar. Weatherspoon HOU 03/24/2004 HOU vs. TOR W 24 5 2 6 33.3 0 0 - 1 2 50.0 1 6 7 0 0 0 1 2 -5
+p127
+aVEric Piatkowski HOU 03/24/2004 HOU vs. TOR W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 3 2 -1
+p128
+aVMaurice Taylor HOU 03/24/2004 HOU vs. TOR W 41 16 8 17 47.1 0 0 - 0 0 - 1 5 6 2 0 1 2 3 3
+p129
+aVYao Ming HOU 03/24/2004 HOU vs. TOR W 40 25 9 20 45.0 0 0 - 7 7 100.0 7 10 17 1 0 2 5 5 4
+p130
+aVCharles Oakley HOU 03/24/2004 HOU vs. TOR W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p131
+aVMark Jackson HOU 03/24/2004 HOU vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p132
+aVAdrian Griffin HOU 03/24/2004 HOU vs. TOR W 13 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 3 0 0 0 1 -4
+p133
+aVCuttino Mobley HOU 03/24/2004 HOU vs. TOR W 51 17 6 15 40.0 3 6 50.0 2 2 100.0 0 7 7 2 2 0 2 5 1
+p134
+aVSteve Francis HOU 03/24/2004 HOU vs. TOR W 49 17 6 14 42.9 0 1 0.0 5 5 100.0 1 3 4 9 1 0 2 2 -1
+p135
+aVBostjan Nachbar HOU 03/24/2004 HOU vs. TOR W 26 5 1 6 16.7 0 4 0.0 3 4 75.0 1 7 8 1 0 1 0 4 6
+p136
+aVCharles Oakley HOU 03/22/2004 HOU @ POR W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -4
+p137
+aVMaurice Taylor HOU 03/22/2004 HOU @ POR W 29 8 4 9 44.4 0 0 - 0 0 - 1 2 3 5 2 1 4 5 26
+p138
+aVYao Ming HOU 03/22/2004 HOU @ POR W 44 28 12 19 63.2 0 0 - 4 5 80.0 3 10 13 2 0 5 2 3 10
+p139
+aVEric Piatkowski HOU 03/22/2004 HOU @ POR W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 1
+p140
+aVCuttino Mobley HOU 03/22/2004 HOU @ POR W 50 10 4 11 36.4 2 5 40.0 0 0 - 0 5 5 8 0 1 1 1 7
+p141
+aVClar. Weatherspoon HOU 03/22/2004 HOU @ POR W 29 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 1 0 3 3 -16
+p142
+aVMark Jackson HOU 03/22/2004 HOU @ POR W 8 7 3 4 75.0 1 1 100.0 0 0 - 1 1 2 1 0 1 1 1 -4
+p143
+aVJim Jackson HOU 03/22/2004 HOU @ POR W 50 9 4 13 30.8 1 4 25.0 0 0 - 1 9 10 3 0 0 1 3 8
+p144
+aVSteve Francis HOU 03/22/2004 HOU @ POR W 45 22 9 18 50.0 1 3 33.3 3 4 75.0 3 6 9 10 3 0 5 3 12
+p145
+aVYao Ming HOU 03/21/2004 HOU @ SAC L 30 11 4 10 40.0 0 0 - 3 3 100.0 4 5 9 0 0 1 5 6 5
+p146
+aVSteve Francis HOU 03/21/2004 HOU @ SAC L 44 17 7 21 33.3 1 3 33.3 2 2 100.0 2 3 5 6 5 2 2 2 5
+p147
+aVScott Padgett HOU 03/21/2004 HOU @ SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p148
+aVCharles Oakley HOU 03/21/2004 HOU @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p149
+aVJim Jackson HOU 03/21/2004 HOU @ SAC L 44 13 4 13 30.8 3 7 42.9 2 2 100.0 1 10 11 8 4 0 1 3 9
+p150
+aVMark Jackson HOU 03/21/2004 HOU @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -10
+p151
+aVMaurice Taylor HOU 03/21/2004 HOU @ SAC L 38 23 10 16 62.5 0 0 - 3 4 75.0 1 5 6 1 0 1 3 4 -7
+p152
+aVCuttino Mobley HOU 03/21/2004 HOU @ SAC L 40 16 7 15 46.7 2 4 50.0 0 0 - 1 3 4 2 2 1 3 3 -11
+p153
+aVEric Piatkowski HOU 03/21/2004 HOU @ SAC L 12 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 -8
+p154
+aVClar. Weatherspoon HOU 03/21/2004 HOU @ SAC L 25 10 4 5 80.0 0 0 - 2 2 100.0 3 2 5 1 1 0 1 4 -8
+p155
+aVCuttino Mobley HOU 03/19/2004 HOU @ GSW L 42 25 10 14 71.4 2 2 100.0 3 3 100.0 2 2 4 2 0 1 5 5 0
+p156
+aVMaurice Taylor HOU 03/19/2004 HOU @ GSW L 27 10 5 10 50.0 0 0 - 0 0 - 3 2 5 0 0 2 2 4 -11
+p157
+aVYao Ming HOU 03/19/2004 HOU @ GSW L 30 10 4 15 26.7 0 0 - 2 3 66.7 1 8 9 0 1 1 2 2 -6
+p158
+aVMark Jackson HOU 03/19/2004 HOU @ GSW L 16 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 -8
+p159
+aVSteve Francis HOU 03/19/2004 HOU @ GSW L 42 19 6 16 37.5 2 4 50.0 5 6 83.3 4 4 8 5 5 1 7 5 -3
+p160
+aVCharles Oakley HOU 03/19/2004 HOU @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 7
+p161
+aVAdrian Griffin HOU 03/19/2004 HOU @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p162
+aVJim Jackson HOU 03/19/2004 HOU @ GSW L 42 5 2 9 22.2 0 3 0.0 1 1 100.0 0 3 3 2 1 1 3 4 -10
+p163
+aVClar. Weatherspoon HOU 03/19/2004 HOU @ GSW L 20 11 5 7 71.4 0 0 - 1 2 50.0 2 1 3 0 2 1 1 2 1
+p164
+aVScott Padgett HOU 03/19/2004 HOU @ GSW L 15 4 0 4 0.0 0 3 0.0 4 4 100.0 1 2 3 0 1 0 0 1 -1
+p165
+aVCuttino Mobley HOU 03/15/2004 HOU vs. PHX L 48 20 7 20 35.0 3 9 33.3 3 4 75.0 2 7 9 6 0 0 4 5 3
+p166
+aVYao Ming HOU 03/15/2004 HOU vs. PHX L 43 29 11 16 68.8 0 0 - 7 9 77.8 7 12 19 1 0 6 4 4 1
+p167
+aVAdrian Griffin HOU 03/15/2004 HOU vs. PHX L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 4 4 1 0 0 1 3 -2
+p168
+aVScott Padgett HOU 03/15/2004 HOU vs. PHX L 29 5 2 7 28.6 1 2 50.0 0 0 - 4 5 9 0 1 0 2 4 3
+p169
+aVKelvin Cato HOU 03/15/2004 HOU vs. PHX L 22 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 2 0 2 0 4 -2
+p170
+aVMark Jackson HOU 03/15/2004 HOU vs. PHX L 14 2 0 2 0.0 0 2 0.0 2 4 50.0 0 2 2 0 1 0 1 0 -10
+p171
+aVJim Jackson HOU 03/15/2004 HOU vs. PHX L 44 23 8 18 44.4 7 8 87.5 0 0 - 0 5 5 8 0 0 5 3 -6
+p172
+aVSteve Francis HOU 03/15/2004 HOU vs. PHX L 49 12 3 15 20.0 1 3 33.3 5 6 83.3 1 4 5 5 2 1 5 4 3
+p173
+aVEric Piatkowski HOU 03/15/2004 HOU vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p174
+aVKelvin Cato HOU 03/13/2004 HOU vs. MEM W 21 5 1 2 50.0 0 0 - 3 4 75.0 5 4 9 3 1 0 2 3 -3
+p175
+aVSteve Francis HOU 03/13/2004 HOU vs. MEM W 40 14 7 15 46.7 0 5 0.0 0 0 - 0 4 4 8 1 0 3 2 11
+p176
+aVMark Jackson HOU 03/13/2004 HOU vs. MEM W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 3 1 1
+p177
+aVJim Jackson HOU 03/13/2004 HOU vs. MEM W 43 20 6 15 40.0 2 8 25.0 6 6 100.0 0 5 5 5 3 0 2 2 9
+p178
+aVAdrian Griffin HOU 03/13/2004 HOU vs. MEM W 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 9
+p179
+aVScott Padgett HOU 03/13/2004 HOU vs. MEM W 16 8 3 4 75.0 2 2 100.0 0 0 - 1 2 3 0 0 1 0 2 4
+p180
+aVCuttino Mobley HOU 03/13/2004 HOU vs. MEM W 40 15 7 14 50.0 1 5 20.0 0 0 - 0 4 4 2 2 1 2 4 -4
+p181
+aVYao Ming HOU 03/13/2004 HOU vs. MEM W 34 17 6 12 50.0 0 0 - 5 5 100.0 3 8 11 0 0 3 0 3 0
+p182
+aVMaurice Taylor HOU 03/13/2004 HOU vs. MEM W 25 9 4 8 50.0 0 0 - 1 1 100.0 0 4 4 0 0 2 4 4 13
+p183
+aVAdrian Griffin HOU 03/11/2004 HOU vs. NOH W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 1 0 1 1
+p184
+aVCuttino Mobley HOU 03/11/2004 HOU vs. NOH W 45 31 10 17 58.8 6 9 66.7 5 6 83.3 1 4 5 2 0 0 2 2 7
+p185
+aVMaurice Taylor HOU 03/11/2004 HOU vs. NOH W 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 2 1 4
+p186
+aVJim Jackson HOU 03/11/2004 HOU vs. NOH W 37 19 7 12 58.3 1 5 20.0 4 5 80.0 1 6 7 3 0 0 3 2 3
+p187
+aVMark Jackson HOU 03/11/2004 HOU vs. NOH W 20 2 0 2 0.0 0 2 0.0 2 2 100.0 0 3 3 3 1 0 1 0 14
+p188
+aVYao Ming HOU 03/11/2004 HOU vs. NOH W 29 17 7 12 58.3 0 0 - 3 5 60.0 2 7 9 1 0 2 0 5 4
+p189
+aVClar. Weatherspoon HOU 03/11/2004 HOU vs. NOH W 24 4 2 6 33.3 0 1 0.0 0 2 0.0 1 6 7 1 2 1 0 2 11
+p190
+aVScott Padgett HOU 03/11/2004 HOU vs. NOH W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p191
+aVKelvin Cato HOU 03/11/2004 HOU vs. NOH W 27 1 0 5 0.0 0 0 - 1 2 50.0 1 4 5 2 1 2 0 1 8
+p192
+aVSteve Francis HOU 03/11/2004 HOU vs. NOH W 37 19 6 14 42.9 0 2 0.0 7 7 100.0 0 6 6 5 2 0 3 5 9
+p193
+aVKelvin Cato HOU 03/09/2004 HOU vs. LAC W 17 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 2 0 0 0 1 -8
+p194
+aVMark Jackson HOU 03/09/2004 HOU vs. LAC W 21 6 3 5 60.0 0 2 0.0 0 0 - 0 2 2 2 2 0 3 0 15
+p195
+aVCuttino Mobley HOU 03/09/2004 HOU vs. LAC W 30 10 4 9 44.4 0 2 0.0 2 3 66.7 1 3 4 2 0 0 3 1 -2
+p196
+aVClar. Weatherspoon HOU 03/09/2004 HOU vs. LAC W 13 2 1 6 16.7 0 0 - 0 0 - 2 3 5 0 0 0 0 3 2
+p197
+aVYao Ming HOU 03/09/2004 HOU vs. LAC W 32 19 4 12 33.3 0 0 - 11 12 91.7 3 7 10 1 1 2 2 2 5
+p198
+aVJim Jackson HOU 03/09/2004 HOU vs. LAC W 41 11 3 10 30.0 1 5 20.0 4 5 80.0 1 6 7 1 1 0 1 4 2
+p199
+aVMaurice Taylor HOU 03/09/2004 HOU vs. LAC W 33 15 5 12 41.7 0 0 - 5 8 62.5 0 4 4 5 1 1 3 3 11
+p200
+aVAdrian Griffin HOU 03/09/2004 HOU vs. LAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p201
+aVSteve Francis HOU 03/09/2004 HOU vs. LAC W 47 24 10 15 66.7 2 2 100.0 2 3 66.7 1 3 4 7 5 0 4 4 7
+p202
+aVMaurice Taylor HOU 03/07/2004 HOU vs. DAL W 20 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 2 1 0 2 3 2
+p203
+aVYao Ming HOU 03/07/2004 HOU vs. DAL W 39 29 13 19 68.4 0 0 - 3 3 100.0 2 8 10 1 2 3 4 2 6
+p204
+aVMark Jackson HOU 03/07/2004 HOU vs. DAL W 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 4 0 0 2 3 -1
+p205
+aVAdrian Griffin HOU 03/07/2004 HOU vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p206
+aVCuttino Mobley HOU 03/07/2004 HOU vs. DAL W 39 13 4 12 33.3 2 6 33.3 3 4 75.0 1 8 9 1 1 0 5 1 -1
+p207
+aVKelvin Cato HOU 03/07/2004 HOU vs. DAL W 17 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 1 0 2 1 1
+p208
+aVJim Jackson HOU 03/07/2004 HOU vs. DAL W 45 24 9 17 52.9 4 7 57.1 2 2 100.0 2 4 6 5 2 0 6 4 8
+p209
+aVSteve Francis HOU 03/07/2004 HOU vs. DAL W 41 11 4 10 40.0 0 2 0.0 3 7 42.9 3 3 6 8 2 1 5 6 2
+p210
+aVClar. Weatherspoon HOU 03/07/2004 HOU vs. DAL W 22 10 3 10 30.0 0 0 - 4 4 100.0 5 5 10 0 1 0 2 1 0
+p211
+aVYao Ming HOU 03/05/2004 HOU @ MIN W 32 27 9 16 56.3 0 0 - 9 9 100.0 2 4 6 4 0 0 3 2 13
+p212
+aVJim Jackson HOU 03/05/2004 HOU @ MIN W 42 6 1 7 14.3 1 3 33.3 3 3 100.0 0 4 4 3 1 1 1 3 5
+p213
+aVClar. Weatherspoon HOU 03/05/2004 HOU @ MIN W 20 11 4 6 66.7 0 0 - 3 4 75.0 1 2 3 1 0 0 0 2 -6
+p214
+aVCuttino Mobley HOU 03/05/2004 HOU @ MIN W 45 18 6 15 40.0 4 8 50.0 2 2 100.0 0 3 3 5 1 0 1 2 8
+p215
+aVKelvin Cato HOU 03/05/2004 HOU @ MIN W 18 6 2 6 33.3 0 0 - 2 2 100.0 3 2 5 2 1 1 2 1 4
+p216
+aVMaurice Taylor HOU 03/05/2004 HOU @ MIN W 25 16 7 8 87.5 0 0 - 2 2 100.0 2 2 4 2 0 0 0 3 -5
+p217
+aVMark Jackson HOU 03/05/2004 HOU @ MIN W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p218
+aVSteve Francis HOU 03/05/2004 HOU @ MIN W 44 25 8 15 53.3 4 5 80.0 5 5 100.0 0 6 6 6 3 0 5 5 7
+p219
+aVAdrian Griffin HOU 03/05/2004 HOU @ MIN W 8 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 2 1 0 0 1 -9
+p220
+aVSteve Francis HOU 03/03/2004 HOU vs. LAL L 43 16 5 12 41.7 2 7 28.6 4 6 66.7 2 3 5 10 1 0 4 4 -8
+p221
+aVKelvin Cato HOU 03/03/2004 HOU vs. LAL L 29 8 4 4 100.0 0 0 - 0 0 - 0 4 4 1 0 1 1 2 -8
+p222
+aVAdrian Griffin HOU 03/03/2004 HOU vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p223
+aVMaurice Taylor HOU 03/03/2004 HOU vs. LAL L 30 9 3 9 33.3 0 0 - 3 4 75.0 1 2 3 2 2 0 0 4 -9
+p224
+aVMark Jackson HOU 03/03/2004 HOU vs. LAL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 4 0 0 1 2 5
+p225
+aVEric Piatkowski HOU 03/03/2004 HOU vs. LAL L 19 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 1 0 0 1 4
+p226
+aVCuttino Mobley HOU 03/03/2004 HOU vs. LAL L 35 5 2 13 15.4 1 6 16.7 0 0 - 1 4 5 4 1 0 3 4 -21
+p227
+aVYao Ming HOU 03/03/2004 HOU vs. LAL L 37 33 13 21 61.9 0 0 - 7 7 100.0 1 7 8 1 0 1 2 5 11
+p228
+aVJim Jackson HOU 03/03/2004 HOU vs. LAL L 41 17 6 12 50.0 3 7 42.9 2 2 100.0 1 4 5 3 1 0 1 5 11
+p229
+aVMaurice Taylor HOU 02/29/2004 HOU vs. SEA L 31 10 5 9 55.6 0 0 - 0 0 - 2 5 7 1 1 0 1 3 -19
+p230
+aVEric Piatkowski HOU 02/29/2004 HOU vs. SEA L 7 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p231
+aVClar. Weatherspoon HOU 02/29/2004 HOU vs. SEA L 10 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 0 1 0 2 -3
+p232
+aVMark Jackson HOU 02/29/2004 HOU vs. SEA L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 5 -4
+p233
+aVSteve Francis HOU 02/29/2004 HOU vs. SEA L 40 15 4 18 22.2 1 7 14.3 6 6 100.0 2 3 5 7 1 1 3 4 -14
+p234
+aVYao Ming HOU 02/29/2004 HOU vs. SEA L 30 14 2 9 22.2 0 0 - 10 10 100.0 1 4 5 2 0 2 2 2 1
+p235
+aVCuttino Mobley HOU 02/29/2004 HOU vs. SEA L 39 9 3 11 27.3 1 5 20.0 2 2 100.0 1 4 5 1 1 0 3 2 -22
+p236
+aVJim Jackson HOU 02/29/2004 HOU vs. SEA L 45 14 4 12 33.3 3 9 33.3 3 5 60.0 0 2 2 1 2 1 2 3 -14
+p237
+aVKelvin Cato HOU 02/29/2004 HOU vs. SEA L 21 11 4 5 80.0 0 0 - 3 4 75.0 5 6 11 1 1 0 0 4 -5
+p238
+aVJim Jackson HOU 02/27/2004 HOU vs. POR W 40 8 4 10 40.0 0 5 0.0 0 0 - 1 3 4 1 0 0 1 2 0
+p239
+aVSteve Francis HOU 02/27/2004 HOU vs. POR W 43 21 7 17 41.2 1 4 25.0 6 9 66.7 0 5 5 5 5 0 4 2 5
+p240
+aVMaurice Taylor HOU 02/27/2004 HOU vs. POR W 26 12 5 13 38.5 0 0 - 2 2 100.0 1 2 3 2 0 0 0 4 2
+p241
+aVYao Ming HOU 02/27/2004 HOU vs. POR W 28 13 5 10 50.0 0 0 - 3 4 75.0 1 3 4 3 0 0 3 4 10
+p242
+aVClar. Weatherspoon HOU 02/27/2004 HOU vs. POR W 10 6 3 4 75.0 0 0 - 0 1 0.0 1 3 4 0 0 1 0 1 -12
+p243
+aVEric Piatkowski HOU 02/27/2004 HOU vs. POR W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 -6
+p244
+aVCuttino Mobley HOU 02/27/2004 HOU vs. POR W 44 16 5 12 41.7 4 5 80.0 2 4 50.0 0 6 6 6 3 0 1 1 12
+p245
+aVMark Jackson HOU 02/27/2004 HOU vs. POR W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 1
+p246
+aVKelvin Cato HOU 02/27/2004 HOU vs. POR W 31 10 4 7 57.1 0 0 - 2 2 100.0 4 3 7 1 1 1 0 1 8
+p247
+aVYao Ming HOU 02/25/2004 HOU vs. CLE W 30 17 7 18 38.9 0 0 - 3 4 75.0 2 6 8 1 0 3 0 4 7
+p248
+aVMaurice Taylor HOU 02/25/2004 HOU vs. CLE W 23 4 2 9 22.2 0 0 - 0 2 0.0 1 5 6 0 1 0 2 2 5
+p249
+aVMark Jackson HOU 02/25/2004 HOU vs. CLE W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 6
+p250
+aVCuttino Mobley HOU 02/25/2004 HOU vs. CLE W 41 22 9 14 64.3 2 4 50.0 2 3 66.7 1 6 7 3 2 0 2 0 0
+p251
+aVAdrian Griffin HOU 02/25/2004 HOU vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p252
+aVEric Piatkowski HOU 02/25/2004 HOU vs. CLE W 11 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 9
+p253
+aVClar. Weatherspoon HOU 02/25/2004 HOU vs. CLE W 22 12 5 8 62.5 0 0 - 2 4 50.0 4 5 9 0 1 1 0 2 4
+p254
+aVSteve Francis HOU 02/25/2004 HOU vs. CLE W 42 8 2 11 18.2 0 2 0.0 4 4 100.0 2 1 3 7 4 1 2 3 0
+p255
+aVJim Jackson HOU 02/25/2004 HOU vs. CLE W 44 15 5 13 38.5 3 8 37.5 2 2 100.0 1 5 6 4 0 0 2 4 3
+p256
+aVKelvin Cato HOU 02/25/2004 HOU vs. CLE W 20 8 3 7 42.9 0 0 - 2 3 66.7 1 4 5 1 0 2 0 1 -4
+p257
+aVMaurice Taylor HOU 02/24/2004 HOU @ SAS L 28 8 3 14 21.4 0 0 - 2 4 50.0 2 3 5 0 1 0 4 2 -4
+p258
+aVScott Padgett HOU 02/24/2004 HOU @ SAS L 2 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 5
+p259
+aVSteve Francis HOU 02/24/2004 HOU @ SAS L 39 16 5 12 41.7 1 2 50.0 5 8 62.5 2 4 6 2 1 0 2 1 -16
+p260
+aVEric Piatkowski HOU 02/24/2004 HOU @ SAS L 12 3 1 1 100.0 1 1 100.0 0 0 - 2 0 2 0 1 0 0 0 0
+p261
+aVKelvin Cato HOU 02/24/2004 HOU @ SAS L 13 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 1 1 2 0
+p262
+aVJim Jackson HOU 02/24/2004 HOU @ SAS L 29 3 1 5 20.0 0 1 0.0 1 1 100.0 2 3 5 2 1 0 2 4 -18
+p263
+aVAdrian Griffin HOU 02/24/2004 HOU @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 5
+p264
+aVClar. Weatherspoon HOU 02/24/2004 HOU @ SAS L 20 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 3 -7
+p265
+aVBostjan Nachbar HOU 02/24/2004 HOU @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p266
+aVMark Jackson HOU 02/24/2004 HOU @ SAS L 17 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 0 5
+p267
+aVCuttino Mobley HOU 02/24/2004 HOU @ SAS L 43 11 4 11 36.4 0 2 0.0 3 3 100.0 0 3 3 7 2 0 5 3 -8
+p268
+aVYao Ming HOU 02/24/2004 HOU @ SAS L 33 20 10 16 62.5 0 0 - 0 1 0.0 1 3 4 0 1 2 0 4 -12
+p269
+aVCuttino Mobley HOU 02/22/2004 HOU vs. ATL W 60 28 9 20 45.0 5 12 41.7 5 6 83.3 2 5 7 3 0 0 1 3 6
+p270
+aVClar. Weatherspoon HOU 02/22/2004 HOU vs. ATL W 26 10 3 9 33.3 0 0 - 4 6 66.7 3 1 4 0 3 1 0 2 -3
+p271
+aVAdrian Griffin HOU 02/22/2004 HOU vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p272
+aVMaurice Taylor HOU 02/22/2004 HOU vs. ATL W 29 2 0 5 0.0 0 0 - 2 4 50.0 2 4 6 3 0 0 4 3 -8
+p273
+aVJim Jackson HOU 02/22/2004 HOU vs. ATL W 54 17 6 15 40.0 5 10 50.0 0 0 - 0 3 3 5 1 0 4 3 0
+p274
+aVMark Jackson HOU 02/22/2004 HOU vs. ATL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p275
+aVKelvin Cato HOU 02/22/2004 HOU vs. ATL W 20 4 1 5 20.0 0 0 - 2 2 100.0 1 5 6 1 3 3 2 1 0
+p276
+aVYao Ming HOU 02/22/2004 HOU vs. ATL W 50 41 15 21 71.4 0 0 - 11 13 84.6 4 12 16 7 0 2 5 4 15
+p277
+aVEric Piatkowski HOU 02/22/2004 HOU vs. ATL W 11 5 2 2 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 1
+p278
+aVSteve Francis HOU 02/22/2004 HOU vs. ATL W 58 16 5 20 25.0 1 10 10.0 5 6 83.3 2 6 8 9 3 0 2 6 5
+p279
+aVCuttino Mobley HOU 02/21/2004 HOU @ DAL L 45 16 6 21 28.6 4 12 33.3 0 0 - 1 1 2 3 2 1 1 3 0
+p280
+aVScott Padgett HOU 02/21/2004 HOU @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p281
+aVClar. Weatherspoon HOU 02/21/2004 HOU @ DAL L 18 11 3 5 60.0 0 0 - 5 5 100.0 2 4 6 0 1 0 0 0 -13
+p282
+aVMaurice Taylor HOU 02/21/2004 HOU @ DAL L 24 8 4 8 50.0 0 0 - 0 0 - 1 3 4 2 0 1 3 2 -13
+p283
+aVMark Jackson HOU 02/21/2004 HOU @ DAL L 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 1 1 -9
+p284
+aVJim Jackson HOU 02/21/2004 HOU @ DAL L 42 18 6 13 46.2 5 9 55.6 1 2 50.0 1 7 8 2 1 0 2 2 -8
+p285
+aVEric Piatkowski HOU 02/21/2004 HOU @ DAL L 9 7 3 6 50.0 1 4 25.0 0 0 - 1 3 4 1 0 0 1 2 3
+p286
+aVKelvin Cato HOU 02/21/2004 HOU @ DAL L 18 8 3 5 60.0 0 0 - 2 3 66.7 2 3 5 1 1 1 0 3 7
+p287
+aVYao Ming HOU 02/21/2004 HOU @ DAL L 31 14 7 10 70.0 0 0 - 0 0 - 1 4 5 2 0 2 3 5 -2
+p288
+aVAdrian Griffin HOU 02/21/2004 HOU @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p289
+aVSteve Francis HOU 02/21/2004 HOU @ DAL L 38 6 3 11 27.3 0 3 0.0 0 0 - 2 5 7 6 1 0 4 3 -4
+p290
+aVScott Padgett HOU 02/17/2004 HOU vs. WAS W 5 3 1 5 20.0 1 1 100.0 0 0 - 4 0 4 0 1 0 0 0 -5
+p291
+aVClar. Weatherspoon HOU 02/17/2004 HOU vs. WAS W 25 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 5 0 1 0 0 5
+p292
+aVAdrian Griffin HOU 02/17/2004 HOU vs. WAS W 17 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 0 1 1 -7
+p293
+aVKelvin Cato HOU 02/17/2004 HOU vs. WAS W 26 15 7 10 70.0 0 0 - 1 2 50.0 2 8 10 3 2 1 0 3 22
+p294
+aVSteve Francis HOU 02/17/2004 HOU vs. WAS W 36 11 5 12 41.7 0 1 0.0 1 3 33.3 0 3 3 7 2 0 4 1 27
+p295
+aVBostjan Nachbar HOU 02/17/2004 HOU vs. WAS W 9 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 0 -4
+p296
+aVCuttino Mobley HOU 02/17/2004 HOU vs. WAS W 28 12 4 8 50.0 2 4 50.0 2 2 100.0 0 0 0 3 1 0 4 1 19
+p297
+aVMark Jackson HOU 02/17/2004 HOU vs. WAS W 23 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 9 0 0 1 1 10
+p298
+aVJim Jackson HOU 02/17/2004 HOU vs. WAS W 31 17 6 10 60.0 2 5 40.0 3 3 100.0 2 4 6 1 1 1 2 3 33
+p299
+aVMaurice Taylor HOU 02/17/2004 HOU vs. WAS W 16 10 5 7 71.4 0 0 - 0 0 - 1 0 1 3 0 0 2 5 17
+p300
+aVYao Ming HOU 02/17/2004 HOU vs. WAS W 24 16 7 11 63.6 0 0 - 2 2 100.0 2 4 6 1 1 4 3 1 13
+p301
+aVBostjan Nachbar HOU 02/11/2004 HOU vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p302
+aVSteve Francis HOU 02/11/2004 HOU vs. LAL W 42 21 9 11 81.8 1 2 50.0 2 2 100.0 4 3 7 6 2 0 3 5 18
+p303
+aVClar. Weatherspoon HOU 02/11/2004 HOU vs. LAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p304
+aVAdrian Griffin HOU 02/11/2004 HOU vs. LAL W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -7
+p305
+aVCuttino Mobley HOU 02/11/2004 HOU vs. LAL W 44 21 7 12 58.3 2 4 50.0 5 5 100.0 0 6 6 10 0 1 3 0 20
+p306
+aVScott Padgett HOU 02/11/2004 HOU vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p307
+aVMark Jackson HOU 02/11/2004 HOU vs. LAL W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p308
+aVMaurice Taylor HOU 02/11/2004 HOU vs. LAL W 29 14 7 11 63.6 0 0 - 0 1 0.0 0 2 2 1 1 1 2 4 10
+p309
+aVYao Ming HOU 02/11/2004 HOU vs. LAL W 37 29 10 21 47.6 0 0 - 9 11 81.8 3 8 11 1 0 1 2 5 9
+p310
+aVKelvin Cato HOU 02/11/2004 HOU vs. LAL W 28 4 2 5 40.0 0 0 - 0 0 - 1 6 7 0 1 1 0 4 13
+p311
+aVJim Jackson HOU 02/11/2004 HOU vs. LAL W 44 9 3 8 37.5 3 4 75.0 0 0 - 0 8 8 2 1 0 2 0 19
+p312
+aVCuttino Mobley HOU 02/09/2004 HOU vs. SAS L 44 12 5 12 41.7 2 7 28.6 0 0 - 2 3 5 4 1 0 1 2 3
+p313
+aVYao Ming HOU 02/09/2004 HOU vs. SAS L 38 25 11 16 68.8 0 0 - 3 4 75.0 0 7 7 2 0 1 1 1 -3
+p314
+aVScott Padgett HOU 02/09/2004 HOU vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p315
+aVClar. Weatherspoon HOU 02/09/2004 HOU vs. SAS L 14 2 1 1 100.0 0 0 - 0 1 0.0 2 1 3 1 1 0 0 0 12
+p316
+aVMaurice Taylor HOU 02/09/2004 HOU vs. SAS L 23 10 4 11 36.4 0 1 0.0 2 2 100.0 2 3 5 0 1 0 4 3 -8
+p317
+aVJim Jackson HOU 02/09/2004 HOU vs. SAS L 45 11 3 12 25.0 0 3 0.0 5 5 100.0 1 8 9 2 2 0 3 3 -8
+p318
+aVKelvin Cato HOU 02/09/2004 HOU vs. SAS L 19 2 1 2 50.0 0 0 - 0 2 0.0 2 1 3 2 0 1 1 3 -6
+p319
+aVMark Jackson HOU 02/09/2004 HOU vs. SAS L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 4 0 0 2 0 -1
+p320
+aVSteve Francis HOU 02/09/2004 HOU vs. SAS L 48 18 6 18 33.3 1 7 14.3 5 6 83.3 2 9 11 6 2 0 4 3 -3
+p321
+aVAdrian Griffin HOU 02/09/2004 HOU vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p322
+aVAdrian Griffin HOU 02/07/2004 HOU @ ATL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -7
+p323
+aVJim Jackson HOU 02/07/2004 HOU @ ATL W 42 18 5 8 62.5 2 5 40.0 6 6 100.0 0 7 7 1 2 0 5 4 10
+p324
+aVSteve Francis HOU 02/07/2004 HOU @ ATL W 43 24 6 12 50.0 2 2 100.0 10 12 83.3 0 2 2 4 0 2 1 2 13
+p325
+aVKelvin Cato HOU 02/07/2004 HOU @ ATL W 17 9 3 8 37.5 0 0 - 3 3 100.0 3 2 5 0 0 0 0 3 1
+p326
+aVClar. Weatherspoon HOU 02/07/2004 HOU @ ATL W 15 2 1 2 50.0 0 0 - 0 0 - 1 6 7 1 0 0 2 1 16
+p327
+aVMaurice Taylor HOU 02/07/2004 HOU @ ATL W 34 11 5 10 50.0 0 0 - 1 2 50.0 1 3 4 3 1 0 3 5 2
+p328
+aVCuttino Mobley HOU 02/07/2004 HOU @ ATL W 39 15 5 11 45.5 3 7 42.9 2 2 100.0 1 1 2 3 4 3 2 1 21
+p329
+aVMark Jackson HOU 02/07/2004 HOU @ ATL W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 1 0 0 3 -6
+p330
+aVYao Ming HOU 02/07/2004 HOU @ ATL W 29 7 2 11 18.2 0 0 - 3 4 75.0 1 8 9 2 0 1 3 2 -5
+p331
+aVKelvin Cato HOU 02/06/2004 HOU vs. CHI W 24 7 3 4 75.0 0 0 - 1 1 100.0 1 8 9 1 0 0 1 4 4
+p332
+aVMaurice Taylor HOU 02/06/2004 HOU vs. CHI W 28 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 0 1 2 3 -4
+p333
+aVClar. Weatherspoon HOU 02/06/2004 HOU vs. CHI W 15 8 4 6 66.7 0 0 - 0 0 - 0 5 5 0 0 0 2 1 7
+p334
+aVJim Jackson HOU 02/06/2004 HOU vs. CHI W 42 14 5 15 33.3 1 3 33.3 3 3 100.0 1 9 10 4 1 0 4 0 8
+p335
+aVAdrian Griffin HOU 02/06/2004 HOU vs. CHI W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 1 0 0 -8
+p336
+aVYao Ming HOU 02/06/2004 HOU vs. CHI W 29 22 8 15 53.3 0 0 - 6 6 100.0 1 5 6 3 0 2 2 1 -3
+p337
+aVCuttino Mobley HOU 02/06/2004 HOU vs. CHI W 41 13 5 13 38.5 1 5 20.0 2 2 100.0 0 7 7 4 1 0 0 0 4
+p338
+aVMark Jackson HOU 02/06/2004 HOU vs. CHI W 11 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 4 0 0 0 1 8
+p339
+aVSteve Francis HOU 02/06/2004 HOU vs. CHI W 40 11 3 7 42.9 0 1 0.0 5 6 83.3 0 2 2 6 1 0 5 4 -6
+p340
+aVCuttino Mobley HOU 02/04/2004 HOU vs. MIL W 38 19 6 11 54.5 3 5 60.0 4 4 100.0 0 5 5 3 0 0 0 2 15
+p341
+aVAdrian Griffin HOU 02/04/2004 HOU vs. MIL W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 3 0 0 0 -2
+p342
+aVMark Jackson HOU 02/04/2004 HOU vs. MIL W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -3
+p343
+aVKelvin Cato HOU 02/04/2004 HOU vs. MIL W 22 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 22
+p344
+aVSteve Francis HOU 02/04/2004 HOU vs. MIL W 39 23 7 15 46.7 3 6 50.0 6 6 100.0 0 5 5 7 1 2 2 3 17
+p345
+aVMaurice Taylor HOU 02/04/2004 HOU vs. MIL W 23 19 8 14 57.1 0 0 - 3 3 100.0 3 0 3 2 0 1 0 4 1
+p346
+aVYao Ming HOU 02/04/2004 HOU vs. MIL W 28 16 5 9 55.6 0 0 - 6 8 75.0 1 4 5 2 0 1 3 4 2
+p347
+aVJim Jackson HOU 02/04/2004 HOU vs. MIL W 41 14 6 15 40.0 1 7 14.3 1 1 100.0 1 8 9 4 2 1 2 3 13
+p348
+aVClar. Weatherspoon HOU 02/04/2004 HOU vs. MIL W 23 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 1 0 1 3 5
+p349
+aVClar. Weatherspoon HOU 02/02/2004 HOU @ PHX L 28 12 4 10 40.0 0 0 - 4 4 100.0 5 3 8 0 0 1 2 2 6
+p350
+aVKelvin Cato HOU 02/02/2004 HOU @ PHX L 6 4 2 2 100.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -5
+p351
+aVCuttino Mobley HOU 02/02/2004 HOU @ PHX L 40 16 5 18 27.8 2 7 28.6 4 7 57.1 0 7 7 2 2 1 3 4 -15
+p352
+aVMark Jackson HOU 02/02/2004 HOU @ PHX L 32 2 1 7 14.3 0 3 0.0 0 0 - 2 2 4 6 1 0 2 4 -12
+p353
+aVBostjan Nachbar HOU 02/02/2004 HOU @ PHX L 10 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p354
+aVEric Piatkowski HOU 02/02/2004 HOU @ PHX L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p355
+aVMaurice Taylor HOU 02/02/2004 HOU @ PHX L 21 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 3 0 0 1 2 -17
+p356
+aVYao Ming HOU 02/02/2004 HOU @ PHX L 31 16 6 11 54.5 0 0 - 4 9 44.4 1 7 8 0 0 2 2 1 -13
+p357
+aVMike Wilks HOU 02/02/2004 HOU @ PHX L 11 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 0 -6
+p358
+aVJim Jackson HOU 02/02/2004 HOU @ PHX L 44 15 6 16 37.5 2 8 25.0 1 2 50.0 1 5 6 5 2 2 4 4 -20
+p359
+aVScott Padgett HOU 02/02/2004 HOU @ PHX L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -11
+p360
+aVBostjan Nachbar HOU 01/31/2004 HOU vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p361
+aVYao Ming HOU 01/31/2004 HOU vs. NJN L 29 9 2 9 22.2 0 0 - 5 6 83.3 1 5 6 0 0 1 1 0 -3
+p362
+aVSteve Francis HOU 01/31/2004 HOU vs. NJN L 44 26 10 16 62.5 1 1 100.0 5 8 62.5 0 2 2 7 1 0 4 2 -12
+p363
+aVMaurice Taylor HOU 01/31/2004 HOU vs. NJN L 30 6 3 8 37.5 0 0 - 0 0 - 3 5 8 2 0 0 1 2 -9
+p364
+aVMike Wilks HOU 01/31/2004 HOU vs. NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p365
+aVCuttino Mobley HOU 01/31/2004 HOU vs. NJN L 39 13 3 7 42.9 2 4 50.0 5 6 83.3 1 1 2 4 2 0 5 4 -12
+p366
+aVJim Jackson HOU 01/31/2004 HOU vs. NJN L 41 15 6 12 50.0 2 4 50.0 1 2 50.0 0 4 4 4 1 0 1 5 -8
+p367
+aVMark Jackson HOU 01/31/2004 HOU vs. NJN L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 2
+p368
+aVClar. Weatherspoon HOU 01/31/2004 HOU vs. NJN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p369
+aVKelvin Cato HOU 01/31/2004 HOU vs. NJN L 26 6 3 5 60.0 0 0 - 0 2 0.0 0 5 5 1 2 0 1 3 -7
+p370
+aVScott Padgett HOU 01/31/2004 HOU vs. NJN L 10 2 1 3 33.3 0 1 0.0 0 0 - 2 2 4 0 0 1 0 1 -1
+p371
+aVScott Padgett HOU 01/28/2004 HOU vs. SAC L 3 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 1 0 1 1 3
+p372
+aVJim Jackson HOU 01/28/2004 HOU vs. SAC L 37 28 11 12 91.7 5 5 100.0 1 1 100.0 0 9 9 0 1 0 0 3 -11
+p373
+aVBostjan Nachbar HOU 01/28/2004 HOU vs. SAC L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p374
+aVYao Ming HOU 01/28/2004 HOU vs. SAC L 34 12 5 10 50.0 0 0 - 2 3 66.7 2 9 11 2 0 1 5 2 -6
+p375
+aVMark Jackson HOU 01/28/2004 HOU vs. SAC L 12 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 4 1 -1
+p376
+aVKelvin Cato HOU 01/28/2004 HOU vs. SAC L 23 4 2 3 66.7 0 0 - 0 2 0.0 2 2 4 0 0 0 2 4 -1
+p377
+aVMaurice Taylor HOU 01/28/2004 HOU vs. SAC L 36 18 8 14 57.1 0 0 - 2 4 50.0 6 8 14 2 1 0 2 4 -6
+p378
+aVSteve Francis HOU 01/28/2004 HOU vs. SAC L 44 7 3 17 17.6 0 3 0.0 1 2 50.0 3 2 5 13 2 1 4 5 1
+p379
+aVCuttino Mobley HOU 01/28/2004 HOU vs. SAC L 42 19 7 18 38.9 3 11 27.3 2 2 100.0 1 4 5 0 2 0 4 2 -5
+p380
+aVMark Jackson HOU 01/26/2004 HOU @ MIA L 24 8 3 3 100.0 0 0 - 2 2 100.0 0 1 1 4 0 0 0 0 -12
+p381
+aVClar. Weatherspoon HOU 01/26/2004 HOU @ MIA L 5 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 1 0 0 0 -2
+p382
+aVSteve Francis HOU 01/26/2004 HOU @ MIA L 39 9 2 9 22.2 1 3 33.3 4 5 80.0 0 3 3 3 0 0 2 5 -15
+p383
+aVKelvin Cato HOU 01/26/2004 HOU @ MIA L 27 9 2 3 66.7 0 0 - 5 6 83.3 0 4 4 0 0 1 1 3 -6
+p384
+aVMaurice Taylor HOU 01/26/2004 HOU @ MIA L 24 16 6 15 40.0 0 0 - 4 4 100.0 3 7 10 1 0 0 2 5 -6
+p385
+aVEric Piatkowski HOU 01/26/2004 HOU @ MIA L 5 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 0 0 0 1 0 4
+p386
+aVScott Padgett HOU 01/26/2004 HOU @ MIA L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 -2
+p387
+aVYao Ming HOU 01/26/2004 HOU @ MIA L 28 12 5 9 55.6 0 0 - 2 2 100.0 2 4 6 1 0 0 1 2 -16
+p388
+aVCuttino Mobley HOU 01/26/2004 HOU @ MIA L 38 14 4 13 30.8 1 4 25.0 5 7 71.4 0 4 4 1 0 0 2 2 -8
+p389
+aVMike Wilks HOU 01/26/2004 HOU @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p390
+aVBostjan Nachbar HOU 01/26/2004 HOU @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p391
+aVJim Jackson HOU 01/26/2004 HOU @ MIA L 42 5 1 12 8.3 1 9 11.1 2 3 66.7 2 5 7 1 1 0 0 2 -7
+p392
+aVCuttino Mobley HOU 01/25/2004 HOU @ ORL W 33 12 4 10 40.0 2 3 66.7 2 3 66.7 0 3 3 1 1 0 2 4 6
+p393
+aVSteve Francis HOU 01/25/2004 HOU @ ORL W 38 7 3 11 27.3 1 5 20.0 0 0 - 1 2 3 4 1 0 3 2 8
+p394
+aVYao Ming HOU 01/25/2004 HOU @ ORL W 34 37 15 23 65.2 0 0 - 7 7 100.0 2 8 10 0 0 2 1 3 13
+p395
+aVJim Jackson HOU 01/25/2004 HOU @ ORL W 39 11 4 8 50.0 2 4 50.0 1 1 100.0 1 6 7 3 1 0 1 3 6
+p396
+aVBostjan Nachbar HOU 01/25/2004 HOU @ ORL W 9 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 1
+p397
+aVScott Padgett HOU 01/25/2004 HOU @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p398
+aVKelvin Cato HOU 01/25/2004 HOU @ ORL W 32 8 3 5 60.0 0 0 - 2 3 66.7 2 5 7 3 0 2 1 2 2
+p399
+aVMaurice Taylor HOU 01/25/2004 HOU @ ORL W 29 20 8 13 61.5 0 0 - 4 4 100.0 2 6 8 1 0 1 2 3 11
+p400
+aVMark Jackson HOU 01/25/2004 HOU @ ORL W 24 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 10 1 0 0 3 17
+p401
+aVMike Wilks HOU 01/25/2004 HOU @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p402
+aVClar. Weatherspoon HOU 01/23/2004 HOU @ IND W 17 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 1 0 3 -1
+p403
+aVMark Jackson HOU 01/23/2004 HOU @ IND W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p404
+aVCuttino Mobley HOU 01/23/2004 HOU @ IND W 42 12 4 13 30.8 2 6 33.3 2 2 100.0 1 3 4 5 2 0 2 0 5
+p405
+aVJim Jackson HOU 01/23/2004 HOU @ IND W 44 14 5 11 45.5 4 8 50.0 0 0 - 1 9 10 1 0 1 2 2 6
+p406
+aVSteve Francis HOU 01/23/2004 HOU @ IND W 41 19 7 15 46.7 1 3 33.3 4 6 66.7 3 4 7 6 4 1 5 2 9
+p407
+aVScott Padgett HOU 01/23/2004 HOU @ IND W 11 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 1 5
+p408
+aVYao Ming HOU 01/23/2004 HOU @ IND W 36 17 6 12 50.0 0 0 - 5 5 100.0 5 7 12 1 0 1 2 6 1
+p409
+aVKelvin Cato HOU 01/23/2004 HOU @ IND W 18 7 3 8 37.5 0 0 - 1 1 100.0 2 3 5 1 0 1 3 5 4
+p410
+aVMaurice Taylor HOU 01/23/2004 HOU @ IND W 23 6 3 8 37.5 0 0 - 0 0 - 1 4 5 1 1 1 3 6 -4
+p411
+aVJim Jackson HOU 01/21/2004 HOU vs. NYK W 43 14 6 12 50.0 2 4 50.0 0 0 - 1 7 8 4 0 1 1 1 15
+p412
+aVYao Ming HOU 01/21/2004 HOU vs. NYK W 29 29 12 15 80.0 0 0 - 5 7 71.4 2 8 10 0 1 1 2 3 13
+p413
+aVSteve Francis HOU 01/21/2004 HOU vs. NYK W 36 10 4 14 28.6 0 3 0.0 2 3 66.7 0 4 4 5 3 0 1 2 5
+p414
+aVBostjan Nachbar HOU 01/21/2004 HOU vs. NYK W 14 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 2 1 0 2 10
+p415
+aVMark Jackson HOU 01/21/2004 HOU vs. NYK W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 16
+p416
+aVScott Padgett HOU 01/21/2004 HOU vs. NYK W 15 0 0 3 0.0 0 2 0.0 0 0 - 3 3 6 0 1 1 1 0 11
+p417
+aVKelvin Cato HOU 01/21/2004 HOU vs. NYK W 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -10
+p418
+aVCuttino Mobley HOU 01/21/2004 HOU vs. NYK W 36 8 4 12 33.3 0 3 0.0 0 0 - 0 5 5 5 1 0 3 2 -1
+p419
+aVMaurice Taylor HOU 01/21/2004 HOU vs. NYK W 36 21 10 15 66.7 0 0 - 1 3 33.3 1 4 5 0 0 0 2 3 16
+p420
+aVCuttino Mobley HOU 01/19/2004 HOU @ MEM L 43 13 5 14 35.7 2 6 33.3 1 2 50.0 0 2 2 6 2 0 1 2 -7
+p421
+aVJim Jackson HOU 01/19/2004 HOU @ MEM L 44 10 4 12 33.3 2 6 33.3 0 2 0.0 1 5 6 2 2 0 0 4 -2
+p422
+aVYao Ming HOU 01/19/2004 HOU @ MEM L 33 13 4 7 57.1 0 0 - 5 7 71.4 2 4 6 1 1 2 4 3 -10
+p423
+aVScott Padgett HOU 01/19/2004 HOU @ MEM L 19 12 5 8 62.5 2 2 100.0 0 0 - 1 3 4 0 0 0 1 3 -2
+p424
+aVBostjan Nachbar HOU 01/19/2004 HOU @ MEM L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 1 2 -1
+p425
+aVMike Wilks HOU 01/19/2004 HOU @ MEM L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p426
+aVMaurice Taylor HOU 01/19/2004 HOU @ MEM L 33 8 4 10 40.0 0 0 - 0 0 - 1 6 7 2 1 0 2 4 16
+p427
+aVSteve Francis HOU 01/19/2004 HOU @ MEM L 43 23 9 19 47.4 1 6 16.7 4 5 80.0 4 3 7 6 1 1 2 3 5
+p428
+aVKelvin Cato HOU 01/19/2004 HOU @ MEM L 11 2 1 6 16.7 0 0 - 0 0 - 2 1 3 2 0 0 1 2 -14
+p429
+aVKelvin Cato HOU 01/17/2004 HOU vs. MIN W 24 10 5 7 71.4 0 0 - 0 0 - 4 6 10 1 0 0 4 3 15
+p430
+aVJim Jackson HOU 01/17/2004 HOU vs. MIN W 43 11 4 7 57.1 2 4 50.0 1 2 50.0 0 5 5 3 0 0 5 2 11
+p431
+aVSteve Francis HOU 01/17/2004 HOU vs. MIN W 44 19 6 13 46.2 0 1 0.0 7 8 87.5 2 6 8 7 2 1 6 4 15
+p432
+aVYao Ming HOU 01/17/2004 HOU vs. MIN W 37 22 9 16 56.3 0 0 - 4 4 100.0 4 11 15 0 1 2 0 2 11
+p433
+aVBostjan Nachbar HOU 01/17/2004 HOU vs. MIN W 14 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 1 0 0 0 10
+p434
+aVMaurice Taylor HOU 01/17/2004 HOU vs. MIN W 31 16 4 8 50.0 0 0 - 8 10 80.0 3 0 3 1 0 0 1 4 10
+p435
+aVCuttino Mobley HOU 01/17/2004 HOU vs. MIN W 43 13 6 19 31.6 1 6 16.7 0 0 - 0 7 7 5 2 2 1 1 19
+p436
+aVMike Wilks HOU 01/17/2004 HOU vs. MIN W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p437
+aVMaurice Taylor HOU 01/14/2004 HOU @ BOS W 34 10 5 7 71.4 0 0 - 0 0 - 0 3 3 4 1 0 2 2 3
+p438
+aVBostjan Nachbar HOU 01/14/2004 HOU @ BOS W 19 8 2 5 40.0 2 2 100.0 2 2 100.0 0 3 3 0 1 0 1 4 3
+p439
+aVCuttino Mobley HOU 01/14/2004 HOU @ BOS W 38 24 8 15 53.3 5 9 55.6 3 4 75.0 0 4 4 6 1 0 2 2 14
+p440
+aVJim Jackson HOU 01/14/2004 HOU @ BOS W 39 11 3 10 30.0 3 7 42.9 2 2 100.0 0 1 1 2 1 1 2 1 12
+p441
+aVScott Padgett HOU 01/14/2004 HOU @ BOS W 24 7 2 6 33.3 1 1 100.0 2 2 100.0 3 9 12 2 0 0 1 4 6
+p442
+aVMike Wilks HOU 01/14/2004 HOU @ BOS W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 0 1 8
+p443
+aVYao Ming HOU 01/14/2004 HOU @ BOS W 38 21 10 14 71.4 0 0 - 1 2 50.0 1 14 15 1 1 4 1 2 22
+p444
+aVSteve Francis HOU 01/14/2004 HOU @ BOS W 38 14 4 11 36.4 0 3 0.0 6 8 75.0 1 2 3 6 1 0 7 2 7
+p445
+aVJim Jackson HOU 01/13/2004 HOU @ WAS W 38 16 6 12 50.0 4 7 57.1 0 0 - 1 4 5 4 2 0 3 4 7
+p446
+aVCuttino Mobley HOU 01/13/2004 HOU @ WAS W 42 16 6 15 40.0 1 4 25.0 3 6 50.0 1 1 2 3 1 0 2 3 26
+p447
+aVKelvin Cato HOU 01/13/2004 HOU @ WAS W 34 12 6 7 85.7 0 0 - 0 0 - 2 6 8 6 3 2 1 4 7
+p448
+aVBostjan Nachbar HOU 01/13/2004 HOU @ WAS W 15 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 0
+p449
+aVMaurice Taylor HOU 01/13/2004 HOU @ WAS W 27 10 3 8 37.5 0 0 - 4 4 100.0 2 5 7 3 0 4 2 4 5
+p450
+aVMike Wilks HOU 01/13/2004 HOU @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -3
+p451
+aVSteve Francis HOU 01/13/2004 HOU @ WAS W 46 16 7 12 58.3 2 4 50.0 0 0 - 1 7 8 10 0 1 7 0 16
+p452
+aVYao Ming HOU 01/13/2004 HOU @ WAS W 33 21 6 9 66.7 0 0 - 9 10 90.0 4 7 11 0 0 2 3 2 14
+p453
+aVEric Piatkowski HOU 01/13/2004 HOU @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p454
+aVJim Jackson HOU 01/11/2004 HOU vs. BOS L 46 26 8 13 61.5 6 9 66.7 4 5 80.0 2 6 8 4 3 1 4 3 0
+p455
+aVScott Padgett HOU 01/11/2004 HOU vs. BOS L 12 8 3 7 42.9 2 3 66.7 0 0 - 2 1 3 2 1 1 0 1 2
+p456
+aVSteve Francis HOU 01/11/2004 HOU vs. BOS L 45 19 7 17 41.2 3 5 60.0 2 2 100.0 4 3 7 7 1 0 6 4 1
+p457
+aVMike Wilks HOU 01/11/2004 HOU vs. BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p458
+aVEric Piatkowski HOU 01/11/2004 HOU vs. BOS L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p459
+aVYao Ming HOU 01/11/2004 HOU vs. BOS L 23 6 2 5 40.0 0 0 - 2 4 50.0 2 7 9 0 0 1 1 1 -1
+p460
+aVMaurice Taylor HOU 01/11/2004 HOU vs. BOS L 34 15 7 13 53.8 0 0 - 1 1 100.0 2 2 4 0 1 0 1 3 -12
+p461
+aVKelvin Cato HOU 01/11/2004 HOU vs. BOS L 26 4 1 4 25.0 0 0 - 2 2 100.0 3 5 8 2 0 0 2 3 2
+p462
+aVCuttino Mobley HOU 01/11/2004 HOU vs. BOS L 43 15 7 17 41.2 1 7 14.3 0 0 - 0 5 5 8 2 0 2 3 4
+p463
+aVMaurice Taylor HOU 01/08/2004 HOU @ NYK W 27 15 5 9 55.6 0 0 - 5 6 83.3 2 7 9 1 1 0 2 3 6
+p464
+aVBostjan Nachbar HOU 01/08/2004 HOU @ NYK W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p465
+aVKelvin Cato HOU 01/08/2004 HOU @ NYK W 27 10 2 6 33.3 0 0 - 6 6 100.0 2 5 7 0 0 0 2 4 31
+p466
+aVCuttino Mobley HOU 01/08/2004 HOU @ NYK W 38 14 5 13 38.5 3 6 50.0 1 1 100.0 0 3 3 3 3 0 0 1 26
+p467
+aVScott Padgett HOU 01/08/2004 HOU @ NYK W 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 5 2
+p468
+aVMike Wilks HOU 01/08/2004 HOU @ NYK W 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 9
+p469
+aVJim Jackson HOU 01/08/2004 HOU @ NYK W 39 21 8 11 72.7 4 6 66.7 1 4 25.0 0 7 7 3 3 1 1 2 35
+p470
+aVSteve Francis HOU 01/08/2004 HOU @ NYK W 40 27 7 14 50.0 3 5 60.0 10 12 83.3 2 6 8 6 3 2 2 3 23
+p471
+aVYao Ming HOU 01/08/2004 HOU @ NYK W 27 15 5 10 50.0 0 0 - 5 6 83.3 2 7 9 2 0 1 1 2 25
+p472
+aVEric Piatkowski HOU 01/08/2004 HOU @ NYK W 17 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 0 0 0 2 0 -4
+p473
+aVYao Ming HOU 01/07/2004 HOU @ DET L 22 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 2 4 3 -21
+p474
+aVKelvin Cato HOU 01/07/2004 HOU @ DET L 27 3 1 2 50.0 0 0 - 1 2 50.0 0 6 6 0 1 2 0 3 -14
+p475
+aVEric Piatkowski HOU 01/07/2004 HOU @ DET L 23 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 1 -2
+p476
+aVJim Jackson HOU 01/07/2004 HOU @ DET L 35 15 6 12 50.0 3 8 37.5 0 0 - 0 7 7 2 1 0 2 0 -15
+p477
+aVMike Wilks HOU 01/07/2004 HOU @ DET L 9 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 1 0 0 1 0 -3
+p478
+aVClar. Weatherspoon HOU 01/07/2004 HOU @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p479
+aVSteve Francis HOU 01/07/2004 HOU @ DET L 38 15 6 16 37.5 0 3 0.0 3 7 42.9 3 0 3 6 2 0 2 4 -16
+p480
+aVMaurice Taylor HOU 01/07/2004 HOU @ DET L 28 6 2 12 16.7 0 0 - 2 4 50.0 1 8 9 0 0 1 1 4 -8
+p481
+aVScott Padgett HOU 01/07/2004 HOU @ DET L 13 3 1 3 33.3 0 1 0.0 1 2 50.0 2 2 4 0 0 0 0 3 4
+p482
+aVCuttino Mobley HOU 01/07/2004 HOU @ DET L 34 8 2 12 16.7 2 7 28.6 2 2 100.0 0 2 2 1 0 1 3 2 -25
+p483
+aVBostjan Nachbar HOU 01/07/2004 HOU @ DET L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 3
+p484
+aVYao Ming HOU 01/05/2004 HOU vs. GSW W 23 10 4 10 40.0 0 0 - 2 2 100.0 1 9 10 0 0 0 1 3 7
+p485
+aVJim Jackson HOU 01/05/2004 HOU vs. GSW W 40 18 7 11 63.6 4 4 100.0 0 0 - 0 7 7 3 2 0 0 0 24
+p486
+aVMaurice Taylor HOU 01/05/2004 HOU vs. GSW W 36 25 12 19 63.2 0 1 0.0 1 1 100.0 2 6 8 4 0 0 3 4 25
+p487
+aVEric Piatkowski HOU 01/05/2004 HOU vs. GSW W 18 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 0 0 0 0 0 0
+p488
+aVScott Padgett HOU 01/05/2004 HOU vs. GSW W 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 1 2
+p489
+aVMike Wilks HOU 01/05/2004 HOU vs. GSW W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 4 -2
+p490
+aVSteve Francis HOU 01/05/2004 HOU vs. GSW W 43 2 1 11 9.1 0 1 0.0 0 0 - 0 4 4 12 0 0 7 2 20
+p491
+aVKelvin Cato HOU 01/05/2004 HOU vs. GSW W 30 9 3 5 60.0 0 0 - 3 4 75.0 2 6 8 0 1 2 4 1 0
+p492
+aVCuttino Mobley HOU 01/05/2004 HOU vs. GSW W 38 14 6 14 42.9 1 5 20.0 1 1 100.0 1 6 7 2 2 1 2 1 14
+p493
+aVEric Piatkowski HOU 01/03/2004 HOU vs. UTA W 21 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 1 0 0 2 2 17
+p494
+aVCuttino Mobley HOU 01/03/2004 HOU vs. UTA W 39 13 4 9 44.4 0 2 0.0 5 6 83.3 0 3 3 1 2 0 1 1 18
+p495
+aVAlton Ford HOU 01/03/2004 HOU vs. UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p496
+aVKelvin Cato HOU 01/03/2004 HOU vs. UTA W 35 11 3 6 50.0 0 0 - 5 6 83.3 5 10 15 2 0 4 2 5 10
+p497
+aVYao Ming HOU 01/03/2004 HOU vs. UTA W 28 16 8 12 66.7 0 0 - 0 0 - 3 4 7 2 1 2 2 5 16
+p498
+aVMaurice Taylor HOU 01/03/2004 HOU vs. UTA W 29 14 7 12 58.3 0 0 - 0 0 - 1 4 5 0 2 1 1 4 16
+p499
+aVJim Jackson HOU 01/03/2004 HOU vs. UTA W 34 3 1 8 12.5 0 2 0.0 1 1 100.0 0 4 4 3 1 1 4 3 7
+p500
+aVMike Wilks HOU 01/03/2004 HOU vs. UTA W 10 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 12
+p501
+aVBostjan Nachbar HOU 01/03/2004 HOU vs. UTA W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p502
+aVSteve Francis HOU 01/03/2004 HOU vs. UTA W 38 17 7 12 58.3 1 2 50.0 2 2 100.0 1 5 6 7 0 0 3 2 9
+p503
+aVScott Padgett HOU 01/03/2004 HOU vs. UTA W 2 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 0
+p504
+aVMike Wilks HOU 12/31/2003 HOU vs. PHI W 8 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 2 1 0 0 1 5
+p505
+aVMaurice Taylor HOU 12/31/2003 HOU vs. PHI W 28 8 4 9 44.4 0 0 - 0 3 0.0 4 4 8 2 2 1 5 5 13
+p506
+aVEric Piatkowski HOU 12/31/2003 HOU vs. PHI W 19 3 1 5 20.0 1 3 33.3 0 0 - 1 2 3 0 1 0 1 0 0
+p507
+aVJim Jackson HOU 12/31/2003 HOU vs. PHI W 39 6 2 11 18.2 2 8 25.0 0 0 - 2 7 9 1 0 0 2 1 3
+p508
+aVYao Ming HOU 12/31/2003 HOU vs. PHI W 34 21 8 15 53.3 0 0 - 5 6 83.3 1 6 7 2 1 1 2 6 11
+p509
+aVKelvin Cato HOU 12/31/2003 HOU vs. PHI W 27 7 3 6 50.0 0 0 - 1 2 50.0 4 2 6 2 0 0 1 4 2
+p510
+aVScott Padgett HOU 12/31/2003 HOU vs. PHI W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -9
+p511
+aVCuttino Mobley HOU 12/31/2003 HOU vs. PHI W 41 20 7 13 53.8 6 9 66.7 0 0 - 1 6 7 4 2 0 3 2 12
+p512
+aVSteve Francis HOU 12/31/2003 HOU vs. PHI W 39 15 6 16 37.5 1 3 33.3 2 2 100.0 1 4 5 5 1 0 5 3 3
+p513
+aVMoochie Norris HOU 12/29/2003 HOU vs. SEA L 11 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 2 0 0 1 1
+p514
+aVMaurice Taylor HOU 12/29/2003 HOU vs. SEA L 31 13 5 11 45.5 0 0 - 3 3 100.0 2 5 7 2 0 1 3 4 2
+p515
+aVEric Piatkowski HOU 12/29/2003 HOU vs. SEA L 17 14 5 10 50.0 4 7 57.1 0 0 - 1 2 3 0 0 0 1 1 2
+p516
+aVBostjan Nachbar HOU 12/29/2003 HOU vs. SEA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p517
+aVCuttino Mobley HOU 12/29/2003 HOU vs. SEA L 39 14 7 17 41.2 0 4 0.0 0 0 - 1 2 3 3 2 0 3 3 -1
+p518
+aVKelvin Cato HOU 12/29/2003 HOU vs. SEA L 31 0 0 1 0.0 0 0 - 0 0 - 3 5 8 0 1 3 2 2 -6
+p519
+aVScott Padgett HOU 12/29/2003 HOU vs. SEA L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p520
+aVYao Ming HOU 12/29/2003 HOU vs. SEA L 28 15 4 6 66.7 0 0 - 7 8 87.5 1 5 6 0 0 0 5 5 -2
+p521
+aVJim Jackson HOU 12/29/2003 HOU vs. SEA L 40 14 6 13 46.2 2 6 33.3 0 0 - 1 7 8 5 1 1 0 2 -1
+p522
+aVSteve Francis HOU 12/29/2003 HOU vs. SEA L 37 12 4 12 33.3 2 3 66.7 2 4 50.0 1 5 6 6 2 1 5 5 -2
+p523
+aVJim Jackson HOU 12/26/2003 HOU @ DEN L 39 16 7 10 70.0 2 4 50.0 0 0 - 0 7 7 2 0 1 4 3 2
+p524
+aVYao Ming HOU 12/26/2003 HOU @ DEN L 32 12 6 12 50.0 0 0 - 0 0 - 4 6 10 3 0 2 5 2 6
+p525
+aVMoochie Norris HOU 12/26/2003 HOU @ DEN L 13 5 2 7 28.6 0 1 0.0 1 2 50.0 0 0 0 0 1 0 3 2 -13
+p526
+aVKelvin Cato HOU 12/26/2003 HOU @ DEN L 27 8 4 6 66.7 0 0 - 0 1 0.0 3 7 10 1 0 3 3 2 2
+p527
+aVEric Piatkowski HOU 12/26/2003 HOU @ DEN L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -6
+p528
+aVCuttino Mobley HOU 12/26/2003 HOU @ DEN L 41 17 4 9 44.4 3 4 75.0 6 6 100.0 0 4 4 5 0 1 2 4 2
+p529
+aVSteve Francis HOU 12/26/2003 HOU @ DEN L 36 14 5 12 41.7 1 3 33.3 3 6 50.0 1 5 6 10 1 1 1 4 9
+p530
+aVScott Padgett HOU 12/26/2003 HOU @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 1
+p531
+aVMaurice Taylor HOU 12/26/2003 HOU @ DEN L 32 22 9 17 52.9 0 0 - 4 4 100.0 4 1 5 0 1 0 1 2 -8
+p532
+aVSteve Francis HOU 12/25/2003 HOU @ LAL W 42 22 7 18 38.9 0 4 0.0 8 10 80.0 2 7 9 7 2 0 2 4 13
+p533
+aVJim Jackson HOU 12/25/2003 HOU @ LAL W 36 18 6 12 50.0 2 2 100.0 4 4 100.0 0 6 6 1 1 1 0 3 2
+p534
+aVScott Padgett HOU 12/25/2003 HOU @ LAL W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p535
+aVCuttino Mobley HOU 12/25/2003 HOU @ LAL W 39 15 5 13 38.5 2 3 66.7 3 4 75.0 0 3 3 4 0 0 2 3 14
+p536
+aVAlton Ford HOU 12/25/2003 HOU @ LAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p537
+aVMoochie Norris HOU 12/25/2003 HOU @ LAL W 12 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 9
+p538
+aVKelvin Cato HOU 12/25/2003 HOU @ LAL W 34 5 2 4 50.0 0 0 - 1 2 50.0 1 7 8 1 1 3 3 4 4
+p539
+aVMaurice Taylor HOU 12/25/2003 HOU @ LAL W 27 14 6 11 54.5 0 0 - 2 2 100.0 1 7 8 1 1 1 1 3 9
+p540
+aVEric Piatkowski HOU 12/25/2003 HOU @ LAL W 15 4 1 5 20.0 1 4 25.0 1 1 100.0 0 1 1 0 1 1 1 1 -2
+p541
+aVYao Ming HOU 12/25/2003 HOU @ LAL W 30 18 8 14 57.1 0 0 - 2 2 100.0 5 3 8 2 0 2 3 5 8
+p542
+aVMoochie Norris HOU 12/23/2003 HOU vs. IND L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -5
+p543
+aVSteve Francis HOU 12/23/2003 HOU vs. IND L 45 23 7 16 43.8 0 1 0.0 9 13 69.2 2 3 5 4 4 0 5 2 -6
+p544
+aVCuttino Mobley HOU 12/23/2003 HOU vs. IND L 35 4 2 13 15.4 0 5 0.0 0 0 - 2 2 4 3 1 0 0 2 -7
+p545
+aVJim Jackson HOU 12/23/2003 HOU vs. IND L 40 14 6 13 46.2 2 6 33.3 0 0 - 1 7 8 5 0 0 4 4 1
+p546
+aVYao Ming HOU 12/23/2003 HOU vs. IND L 33 12 3 4 75.0 0 0 - 6 9 66.7 2 6 8 0 0 1 2 4 -8
+p547
+aVEric Piatkowski HOU 12/23/2003 HOU vs. IND L 21 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 1 0 0 1 2 -2
+p548
+aVKelvin Cato HOU 12/23/2003 HOU vs. IND L 30 6 2 7 28.6 0 0 - 2 3 66.7 1 7 8 0 0 2 1 4 -9
+p549
+aVScott Padgett HOU 12/23/2003 HOU vs. IND L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 7
+p550
+aVMaurice Taylor HOU 12/23/2003 HOU vs. IND L 27 4 2 10 20.0 0 0 - 0 2 0.0 4 9 13 1 1 3 1 2 -11
+p551
+aVSteve Francis HOU 12/20/2003 HOU @ PHX L 40 14 5 13 38.5 1 5 20.0 3 7 42.9 3 4 7 5 1 0 6 2 -16
+p552
+aVJim Jackson HOU 12/20/2003 HOU @ PHX L 40 9 4 16 25.0 1 4 25.0 0 0 - 4 5 9 2 1 0 3 1 -18
+p553
+aVKelvin Cato HOU 12/20/2003 HOU @ PHX L 36 16 6 9 66.7 0 0 - 4 5 80.0 3 11 14 1 3 3 0 2 -1
+p554
+aVYao Ming HOU 12/20/2003 HOU @ PHX L 20 14 4 7 57.1 0 0 - 6 7 85.7 3 1 4 3 0 1 0 5 -5
+p555
+aVMaurice Taylor HOU 12/20/2003 HOU @ PHX L 34 10 4 9 44.4 0 0 - 2 2 100.0 1 4 5 2 1 1 2 3 -24
+p556
+aVCuttino Mobley HOU 12/20/2003 HOU @ PHX L 41 16 4 16 25.0 2 7 28.6 6 6 100.0 1 2 3 4 1 0 4 0 -9
+p557
+aVMoochie Norris HOU 12/20/2003 HOU @ PHX L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 2 0 1 0 1
+p558
+aVEric Piatkowski HOU 12/20/2003 HOU @ PHX L 21 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 0 0 0 0 0 -3
+p559
+aVSteve Francis HOU 12/19/2003 HOU vs. LAC W 39 16 6 15 40.0 2 4 50.0 2 2 100.0 0 3 3 6 2 0 2 2 19
+p560
+aVMoochie Norris HOU 12/19/2003 HOU vs. LAC W 14 2 1 3 33.3 0 0 - 0 1 0.0 0 4 4 0 2 0 1 0 -2
+p561
+aVEric Piatkowski HOU 12/19/2003 HOU vs. LAC W 18 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 0 2 -7
+p562
+aVBostjan Nachbar HOU 12/19/2003 HOU vs. LAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 0
+p563
+aVCuttino Mobley HOU 12/19/2003 HOU vs. LAC W 35 22 9 15 60.0 2 5 40.0 2 2 100.0 2 5 7 2 1 1 3 4 15
+p564
+aVScott Padgett HOU 12/19/2003 HOU vs. LAC W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 2 0
+p565
+aVMaurice Taylor HOU 12/19/2003 HOU vs. LAC W 21 13 5 10 50.0 0 0 - 3 5 60.0 2 1 3 1 2 0 1 4 4
+p566
+aVYao Ming HOU 12/19/2003 HOU vs. LAC W 37 21 9 13 69.2 0 0 - 3 6 50.0 4 6 10 4 0 5 1 3 8
+p567
+aVJim Jackson HOU 12/19/2003 HOU vs. LAC W 36 12 5 11 45.5 2 5 40.0 0 0 - 0 12 12 3 0 1 2 3 17
+p568
+aVKelvin Cato HOU 12/19/2003 HOU vs. LAC W 30 6 2 5 40.0 0 0 - 2 2 100.0 2 4 6 3 2 2 2 1 16
+p569
+aVEric Piatkowski HOU 12/17/2003 HOU @ CLE W 17 10 4 6 66.7 2 4 50.0 0 0 - 0 1 1 0 0 1 0 2 -9
+p570
+aVJim Jackson HOU 12/17/2003 HOU @ CLE W 37 11 4 14 28.6 1 8 12.5 2 2 100.0 1 5 6 6 1 1 1 4 8
+p571
+aVYao Ming HOU 12/17/2003 HOU @ CLE W 30 12 6 8 75.0 0 0 - 0 0 - 1 5 6 0 0 3 2 4 7
+p572
+aVScott Padgett HOU 12/17/2003 HOU @ CLE W 11 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 1 1 0 -3
+p573
+aVMoochie Norris HOU 12/17/2003 HOU @ CLE W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p574
+aVKelvin Cato HOU 12/17/2003 HOU @ CLE W 30 4 2 5 40.0 0 0 - 0 0 - 2 8 10 0 2 1 1 2 6
+p575
+aVMaurice Taylor HOU 12/17/2003 HOU @ CLE W 25 14 6 12 50.0 0 0 - 2 2 100.0 1 2 3 1 0 3 3 3 -4
+p576
+aVSteve Francis HOU 12/17/2003 HOU @ CLE W 45 18 6 18 33.3 1 4 25.0 5 6 83.3 0 7 7 9 1 0 1 3 5
+p577
+aVCuttino Mobley HOU 12/17/2003 HOU @ CLE W 41 18 8 16 50.0 2 6 33.3 0 0 - 0 7 7 6 1 1 1 1 11
+p578
+aVJim Jackson HOU 12/16/2003 HOU @ MIN L 37 12 4 10 40.0 2 3 66.7 2 2 100.0 0 5 5 4 1 0 1 1 -13
+p579
+aVKelvin Cato HOU 12/16/2003 HOU @ MIN L 18 3 1 6 16.7 0 0 - 1 2 50.0 1 3 4 2 1 0 0 3 -9
+p580
+aVMaurice Taylor HOU 12/16/2003 HOU @ MIN L 30 10 5 11 45.5 0 0 - 0 0 - 0 4 4 3 1 1 4 3 -18
+p581
+aVScott Padgett HOU 12/16/2003 HOU @ MIN L 14 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 2 0 0 0 0
+p582
+aVMoochie Norris HOU 12/16/2003 HOU @ MIN L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -5
+p583
+aVYao Ming HOU 12/16/2003 HOU @ MIN L 28 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 -8
+p584
+aVAlton Ford HOU 12/16/2003 HOU @ MIN L 5 6 2 3 66.7 0 0 - 2 4 50.0 1 1 2 0 0 0 0 1 1
+p585
+aVBostjan Nachbar HOU 12/16/2003 HOU @ MIN L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 1
+p586
+aVCuttino Mobley HOU 12/16/2003 HOU @ MIN L 33 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 2 2 1 4 0 -21
+p587
+aVSteve Francis HOU 12/16/2003 HOU @ MIN L 35 16 6 15 40.0 0 2 0.0 4 7 57.1 1 7 8 5 1 0 2 4 -17
+p588
+aVEric Piatkowski HOU 12/16/2003 HOU @ MIN L 20 11 3 6 50.0 1 4 25.0 4 4 100.0 0 3 3 2 1 0 1 1 4
+p589
+aVYao Ming HOU 12/13/2003 HOU @ SAS L 32 11 3 9 33.3 0 0 - 5 5 100.0 4 5 9 2 0 3 3 1 -17
+p590
+aVEric Piatkowski HOU 12/13/2003 HOU @ SAS L 22 8 3 9 33.3 1 5 20.0 1 1 100.0 1 1 2 0 0 0 0 1 -7
+p591
+aVSteve Francis HOU 12/13/2003 HOU @ SAS L 31 17 5 17 29.4 1 2 50.0 6 6 100.0 2 3 5 5 1 0 2 4 -7
+p592
+aVMoochie Norris HOU 12/13/2003 HOU @ SAS L 22 2 1 6 16.7 0 1 0.0 0 2 0.0 0 2 2 2 1 0 0 0 1
+p593
+aVMaurice Taylor HOU 12/13/2003 HOU @ SAS L 31 8 3 10 30.0 0 0 - 2 4 50.0 4 4 8 1 1 1 2 3 3
+p594
+aVAlton Ford HOU 12/13/2003 HOU @ SAS L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 2
+p595
+aVJim Jackson HOU 12/13/2003 HOU @ SAS L 30 11 4 8 50.0 1 2 50.0 2 2 100.0 0 4 4 0 0 0 3 4 -19
+p596
+aVScott Padgett HOU 12/13/2003 HOU @ SAS L 8 9 2 3 66.7 1 1 100.0 4 5 80.0 1 1 2 1 0 0 0 0 10
+p597
+aVCuttino Mobley HOU 12/13/2003 HOU @ SAS L 37 7 3 7 42.9 1 2 50.0 0 0 - 0 6 6 1 1 0 2 4 -10
+p598
+aVKelvin Cato HOU 12/13/2003 HOU @ SAS L 22 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 2 1 2 -24
+p599
+aVBostjan Nachbar HOU 12/13/2003 HOU @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p600
+aVScott Padgett HOU 12/11/2003 HOU vs. SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p601
+aVYao Ming HOU 12/11/2003 HOU vs. SAS L 36 8 4 13 30.8 0 0 - 0 0 - 3 7 10 1 0 1 3 3 -10
+p602
+aVBostjan Nachbar HOU 12/11/2003 HOU vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p603
+aVSteve Francis HOU 12/11/2003 HOU vs. SAS L 45 18 7 22 31.8 0 2 0.0 4 4 100.0 1 5 6 3 1 2 5 4 -2
+p604
+aVMaurice Taylor HOU 12/11/2003 HOU vs. SAS L 27 10 5 12 41.7 0 0 - 0 0 - 3 4 7 0 0 1 1 4 13
+p605
+aVJim Jackson HOU 12/11/2003 HOU vs. SAS L 40 8 4 6 66.7 0 0 - 0 0 - 0 6 6 5 2 0 5 4 0
+p606
+aVCuttino Mobley HOU 12/11/2003 HOU vs. SAS L 36 19 8 14 57.1 2 2 100.0 1 2 50.0 0 7 7 3 2 1 3 4 -8
+p607
+aVMoochie Norris HOU 12/11/2003 HOU vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -4
+p608
+aVKelvin Cato HOU 12/11/2003 HOU vs. SAS L 29 2 1 4 25.0 0 0 - 0 0 - 0 4 4 3 1 3 1 2 -10
+p609
+aVEric Piatkowski HOU 12/11/2003 HOU vs. SAS L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 5
+p610
+aVCuttino Mobley HOU 12/09/2003 HOU vs. POR W 37 24 8 16 50.0 1 4 25.0 7 7 100.0 0 2 2 4 2 1 0 1 3
+p611
+aVYao Ming HOU 12/09/2003 HOU vs. POR W 35 16 6 11 54.5 0 0 - 4 8 50.0 1 7 8 2 0 1 3 3 9
+p612
+aVJim Jackson HOU 12/09/2003 HOU vs. POR W 36 12 5 8 62.5 1 4 25.0 1 1 100.0 0 4 4 4 0 0 3 1 2
+p613
+aVEric Piatkowski HOU 12/09/2003 HOU vs. POR W 18 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 4
+p614
+aVMaurice Taylor HOU 12/09/2003 HOU vs. POR W 33 10 5 11 45.5 0 0 - 0 0 - 2 6 8 1 0 1 3 2 2
+p615
+aVMoochie Norris HOU 12/09/2003 HOU vs. POR W 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 2
+p616
+aVSteve Francis HOU 12/09/2003 HOU vs. POR W 41 15 6 16 37.5 1 3 33.3 2 4 50.0 3 2 5 5 1 1 4 3 -5
+p617
+aVKelvin Cato HOU 12/09/2003 HOU vs. POR W 29 6 3 4 75.0 0 0 - 0 0 - 2 7 9 0 1 3 1 5 -7
+p618
+aVCuttino Mobley HOU 12/06/2003 HOU vs. DET W 36 14 6 13 46.2 1 6 16.7 1 1 100.0 0 1 1 1 3 1 3 3 1
+p619
+aVSteve Francis HOU 12/06/2003 HOU vs. DET W 36 9 4 13 30.8 0 0 - 1 4 25.0 3 3 6 11 1 0 2 4 15
+p620
+aVEric Piatkowski HOU 12/06/2003 HOU vs. DET W 15 4 1 2 50.0 1 1 100.0 1 1 100.0 0 2 2 1 2 1 2 1 -2
+p621
+aVMoochie Norris HOU 12/06/2003 HOU vs. DET W 14 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -7
+p622
+aVJim Jackson HOU 12/06/2003 HOU vs. DET W 42 10 4 11 36.4 2 5 40.0 0 1 0.0 0 6 6 2 0 0 0 5 11
+p623
+aVYao Ming HOU 12/06/2003 HOU vs. DET W 40 22 9 18 50.0 0 0 - 4 6 66.7 6 14 20 3 0 4 2 4 11
+p624
+aVKelvin Cato HOU 12/06/2003 HOU vs. DET W 24 13 6 6 100.0 0 0 - 1 1 100.0 3 4 7 0 1 1 0 4 13
+p625
+aVMaurice Taylor HOU 12/06/2003 HOU vs. DET W 32 14 7 13 53.8 0 0 - 0 1 0.0 2 2 4 1 1 0 2 1 -12
+p626
+aVSteve Francis HOU 12/05/2003 HOU @ NOH W 42 10 3 12 25.0 1 4 25.0 3 4 75.0 2 2 4 6 0 0 4 2 17
+p627
+aVEric Piatkowski HOU 12/05/2003 HOU @ NOH W 20 4 1 6 16.7 0 2 0.0 2 2 100.0 0 1 1 2 1 0 1 0 -6
+p628
+aVMaurice Taylor HOU 12/05/2003 HOU @ NOH W 31 17 8 10 80.0 0 0 - 1 2 50.0 2 2 4 1 1 0 1 1 -5
+p629
+aVMoochie Norris HOU 12/05/2003 HOU @ NOH W 11 5 1 4 25.0 1 1 100.0 2 2 100.0 0 0 0 1 1 1 0 0 -8
+p630
+aVYao Ming HOU 12/05/2003 HOU @ NOH W 33 15 5 7 71.4 0 0 - 5 6 83.3 2 8 10 2 0 1 2 1 11
+p631
+aVKelvin Cato HOU 12/05/2003 HOU @ NOH W 32 9 3 9 33.3 0 0 - 3 3 100.0 2 8 10 2 1 4 1 4 12
+p632
+aVJim Jackson HOU 12/05/2003 HOU @ NOH W 29 7 3 6 50.0 1 3 33.3 0 0 - 0 8 8 2 0 0 4 3 13
+p633
+aVCuttino Mobley HOU 12/05/2003 HOU @ NOH W 43 16 5 12 41.7 4 8 50.0 2 3 66.7 2 4 6 4 0 0 2 3 11
+p634
+aVYao Ming HOU 12/03/2003 HOU vs. UTA W 48 20 6 12 50.0 0 0 - 8 10 80.0 3 5 8 2 1 0 6 5 11
+p635
+aVBostjan Nachbar HOU 12/03/2003 HOU vs. UTA W 16 5 2 6 33.3 1 3 33.3 0 0 - 1 0 1 0 1 1 1 5 -15
+p636
+aVKelvin Cato HOU 12/03/2003 HOU vs. UTA W 22 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 0 2 1 3 -16
+p637
+aVMaurice Taylor HOU 12/03/2003 HOU vs. UTA W 35 6 2 4 50.0 0 0 - 2 2 100.0 4 6 10 3 1 1 6 5 17
+p638
+aVEric Piatkowski HOU 12/03/2003 HOU vs. UTA W 37 13 5 9 55.6 3 6 50.0 0 0 - 0 3 3 2 1 1 2 5 23
+p639
+aVSteve Francis HOU 12/03/2003 HOU vs. UTA W 39 19 4 10 40.0 0 1 0.0 11 14 78.6 1 1 2 4 3 0 3 5 1
+p640
+aVMoochie Norris HOU 12/03/2003 HOU vs. UTA W 17 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 1 0 2 0 0
+p641
+aVCuttino Mobley HOU 12/03/2003 HOU vs. UTA W 51 32 11 18 61.1 3 7 42.9 7 7 100.0 0 6 6 5 0 1 2 3 9
+p642
+aVMoochie Norris HOU 11/29/2003 HOU @ SEA L 9 1 0 0 - 0 0 - 1 2 50.0 0 2 2 1 0 1 1 0 -9
+p643
+aVSteve Francis HOU 11/29/2003 HOU @ SEA L 43 28 8 17 47.1 1 7 14.3 11 14 78.6 1 5 6 1 2 0 2 5 1
+p644
+aVJim Jackson HOU 11/29/2003 HOU @ SEA L 39 12 5 14 35.7 0 3 0.0 2 2 100.0 2 7 9 1 1 1 1 2 -2
+p645
+aVCuttino Mobley HOU 11/29/2003 HOU @ SEA L 41 9 2 9 22.2 2 5 40.0 3 3 100.0 0 8 8 1 2 0 0 2 -10
+p646
+aVYao Ming HOU 11/29/2003 HOU @ SEA L 44 19 7 14 50.0 0 0 - 5 9 55.6 4 5 9 0 0 2 1 5 -7
+p647
+aVKelvin Cato HOU 11/29/2003 HOU @ SEA L 15 2 0 4 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 4 3
+p648
+aVMaurice Taylor HOU 11/29/2003 HOU @ SEA L 27 13 5 10 50.0 0 0 - 3 8 37.5 2 0 2 3 0 0 1 4 -11
+p649
+aVEric Piatkowski HOU 11/29/2003 HOU @ SEA L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 3 -2
+p650
+aVScott Padgett HOU 11/29/2003 HOU @ SEA L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p651
+aVScott Padgett HOU 11/28/2003 HOU @ SAC L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 2 1 0 2 1
+p652
+aVMaurice Taylor HOU 11/28/2003 HOU @ SAC L 22 4 2 8 25.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -16
+p653
+aVEric Piatkowski HOU 11/28/2003 HOU @ SAC L 18 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -17
+p654
+aVJim Jackson HOU 11/28/2003 HOU @ SAC L 26 0 0 7 0.0 0 1 0.0 0 0 - 0 5 5 1 0 0 1 4 -5
+p655
+aVMoochie Norris HOU 11/28/2003 HOU @ SAC L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 0 -13
+p656
+aVCuttino Mobley HOU 11/28/2003 HOU @ SAC L 33 17 6 11 54.5 2 5 40.0 3 3 100.0 0 4 4 1 1 0 2 0 -22
+p657
+aVAlton Ford HOU 11/28/2003 HOU @ SAC L 20 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 1 0 0 2 4 -6
+p658
+aVBostjan Nachbar HOU 11/28/2003 HOU @ SAC L 19 9 1 4 25.0 0 1 0.0 7 8 87.5 0 1 1 1 0 1 2 3 -12
+p659
+aVYao Ming HOU 11/28/2003 HOU @ SAC L 23 14 6 11 54.5 0 0 - 2 2 100.0 3 5 8 0 0 1 4 3 -18
+p660
+aVKelvin Cato HOU 11/28/2003 HOU @ SAC L 24 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 0 1 2 -17
+p661
+aVSteve Francis HOU 11/28/2003 HOU @ SAC L 32 15 6 16 37.5 3 4 75.0 0 0 - 4 1 5 3 0 0 3 0 -15
+p662
+aVJim Jackson HOU 11/26/2003 HOU @ UTA L 30 3 1 8 12.5 0 3 0.0 1 2 50.0 1 3 4 1 3 0 0 3 -3
+p663
+aVScott Padgett HOU 11/26/2003 HOU @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p664
+aVYao Ming HOU 11/26/2003 HOU @ UTA L 31 20 3 15 20.0 0 0 - 14 16 87.5 3 7 10 1 0 1 1 2 -1
+p665
+aVEric Piatkowski HOU 11/26/2003 HOU @ UTA L 24 9 3 6 50.0 3 6 50.0 0 0 - 0 1 1 1 0 0 0 2 -3
+p666
+aVMaurice Taylor HOU 11/26/2003 HOU @ UTA L 26 13 6 11 54.5 0 0 - 1 1 100.0 4 2 6 0 0 1 0 3 -3
+p667
+aVKelvin Cato HOU 11/26/2003 HOU @ UTA L 34 2 1 6 16.7 0 0 - 0 2 0.0 4 10 14 1 0 0 2 5 -4
+p668
+aVSteve Francis HOU 11/26/2003 HOU @ UTA L 39 13 5 15 33.3 2 4 50.0 1 1 100.0 4 2 6 3 0 0 8 5 -7
+p669
+aVMoochie Norris HOU 11/26/2003 HOU @ UTA L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -4
+p670
+aVCuttino Mobley HOU 11/26/2003 HOU @ UTA L 41 14 6 11 54.5 2 4 50.0 0 0 - 0 1 1 3 1 1 4 4 -4
+p671
+aVBostjan Nachbar HOU 11/24/2003 HOU @ LAC W 12 7 2 5 40.0 1 2 50.0 2 3 66.7 0 3 3 0 0 0 0 3 -7
+p672
+aVMaurice Taylor HOU 11/24/2003 HOU @ LAC W 25 17 7 12 58.3 0 0 - 3 3 100.0 3 0 3 1 2 0 1 4 6
+p673
+aVAlton Ford HOU 11/24/2003 HOU @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p674
+aVYao Ming HOU 11/24/2003 HOU @ LAC W 32 18 6 7 85.7 0 0 - 6 6 100.0 2 8 10 4 0 3 3 5 15
+p675
+aVEric Piatkowski HOU 11/24/2003 HOU @ LAC W 10 5 1 3 33.3 1 3 33.3 2 3 66.7 0 0 0 0 0 0 0 0 6
+p676
+aVJim Jackson HOU 11/24/2003 HOU @ LAC W 27 12 4 10 40.0 3 6 50.0 1 1 100.0 0 3 3 2 0 0 2 5 10
+p677
+aVMoochie Norris HOU 11/24/2003 HOU @ LAC W 23 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 3 1 0 1 0 8
+p678
+aVKelvin Cato HOU 11/24/2003 HOU @ LAC W 26 4 2 5 40.0 0 0 - 0 4 0.0 4 5 9 1 1 1 3 4 6
+p679
+aVCuttino Mobley HOU 11/24/2003 HOU @ LAC W 38 17 7 20 35.0 2 6 33.3 1 2 50.0 1 8 9 6 0 0 0 4 17
+p680
+aVScott Padgett HOU 11/24/2003 HOU @ LAC W 13 3 1 4 25.0 0 1 0.0 1 2 50.0 1 4 5 0 0 0 1 2 3
+p681
+aVSteve Francis HOU 11/24/2003 HOU @ LAC W 33 19 7 10 70.0 1 2 50.0 4 5 80.0 1 3 4 9 1 2 6 5 14
+p682
+aVMoochie Norris HOU 11/21/2003 HOU @ POR L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -2
+p683
+aVYao Ming HOU 11/21/2003 HOU @ POR L 38 21 7 12 58.3 0 0 - 7 8 87.5 3 6 9 1 0 2 2 3 -7
+p684
+aVBostjan Nachbar HOU 11/21/2003 HOU @ POR L 17 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 0 1 1 0 3 8
+p685
+aVSteve Francis HOU 11/21/2003 HOU @ POR L 41 4 2 9 22.2 0 2 0.0 0 0 - 1 6 7 7 2 0 3 3 -10
+p686
+aVCuttino Mobley HOU 11/21/2003 HOU @ POR L 40 17 7 13 53.8 3 5 60.0 0 0 - 0 6 6 2 1 1 3 4 -15
+p687
+aVMaurice Taylor HOU 11/21/2003 HOU @ POR L 25 13 6 11 54.5 0 0 - 1 2 50.0 1 1 2 0 0 1 3 3 -10
+p688
+aVKelvin Cato HOU 11/21/2003 HOU @ POR L 27 4 0 5 0.0 0 0 - 4 6 66.7 5 6 11 2 0 1 2 4 4
+p689
+aVTorraye Braggs HOU 11/21/2003 HOU @ POR L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -3
+p690
+aVJim Jackson HOU 11/21/2003 HOU @ POR L 39 14 6 13 46.2 2 8 25.0 0 1 0.0 0 6 6 4 0 1 2 1 0
+p691
+aVMoochie Norris HOU 11/19/2003 HOU vs. GSW W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 6
+p692
+aVSteve Francis HOU 11/19/2003 HOU vs. GSW W 40 23 9 18 50.0 3 3 100.0 2 2 100.0 1 3 4 5 2 1 2 5 -4
+p693
+aVBostjan Nachbar HOU 11/19/2003 HOU vs. GSW W 19 6 3 7 42.9 0 2 0.0 0 0 - 1 2 3 1 1 0 0 3 4
+p694
+aVJim Jackson HOU 11/19/2003 HOU vs. GSW W 37 11 4 8 50.0 3 5 60.0 0 0 - 0 4 4 3 0 0 0 0 -4
+p695
+aVMaurice Taylor HOU 11/19/2003 HOU vs. GSW W 16 7 3 9 33.3 0 0 - 1 1 100.0 1 2 3 0 0 0 0 1 -10
+p696
+aVYao Ming HOU 11/19/2003 HOU vs. GSW W 34 23 9 18 50.0 0 0 - 5 9 55.6 4 7 11 4 0 1 3 3 6
+p697
+aVKelvin Cato HOU 11/19/2003 HOU vs. GSW W 30 3 1 2 50.0 0 0 - 1 2 50.0 2 6 8 1 0 3 3 2 2
+p698
+aVCuttino Mobley HOU 11/19/2003 HOU vs. GSW W 41 7 3 11 27.3 1 4 25.0 0 0 - 1 2 3 3 3 0 2 4 5
+p699
+aVTorraye Braggs HOU 11/19/2003 HOU vs. GSW W 16 2 1 4 25.0 0 0 - 0 2 0.0 1 1 2 2 1 0 0 0 5
+p700
+aVBostjan Nachbar HOU 11/17/2003 HOU @ PHI W 17 3 1 5 20.0 1 4 25.0 0 0 - 0 4 4 2 0 1 0 1 0
+p701
+aVMoochie Norris HOU 11/17/2003 HOU @ PHI W 12 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 4
+p702
+aVTorraye Braggs HOU 11/17/2003 HOU @ PHI W 16 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 8
+p703
+aVJim Jackson HOU 11/17/2003 HOU @ PHI W 37 12 3 11 27.3 3 8 37.5 3 3 100.0 1 4 5 1 1 0 3 3 7
+p704
+aVCuttino Mobley HOU 11/17/2003 HOU @ PHI W 42 19 7 16 43.8 4 10 40.0 1 2 50.0 0 3 3 3 0 0 4 4 9
+p705
+aVYao Ming HOU 11/17/2003 HOU @ PHI W 38 12 5 15 33.3 0 0 - 2 2 100.0 5 9 14 3 1 4 3 3 3
+p706
+aVSteve Francis HOU 11/17/2003 HOU @ PHI W 37 11 3 17 17.6 1 5 20.0 4 4 100.0 2 8 10 6 2 1 6 3 4
+p707
+aVKelvin Cato HOU 11/17/2003 HOU @ PHI W 36 7 2 8 25.0 0 0 - 3 5 60.0 5 6 11 0 0 2 0 4 7
+p708
+aVScott Padgett HOU 11/17/2003 HOU @ PHI W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p709
+aVAlton Ford HOU 11/16/2003 HOU @ TOR L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p710
+aVCuttino Mobley HOU 11/16/2003 HOU @ TOR L 53 19 5 14 35.7 2 5 40.0 7 9 77.8 2 1 3 4 3 0 6 4 3
+p711
+aVTorraye Braggs HOU 11/16/2003 HOU @ TOR L 14 6 2 4 50.0 0 0 - 2 3 66.7 1 1 2 1 0 1 1 3 3
+p712
+aVSteve Francis HOU 11/16/2003 HOU @ TOR L 50 25 9 27 33.3 0 5 0.0 7 7 100.0 1 6 7 1 2 0 1 1 -9
+p713
+aVKelvin Cato HOU 11/16/2003 HOU @ TOR L 44 6 2 9 22.2 0 0 - 2 2 100.0 5 7 12 0 1 1 2 5 -12
+p714
+aVMoochie Norris HOU 11/16/2003 HOU @ TOR L 14 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 2 2 0 1 1 -3
+p715
+aVYao Ming HOU 11/16/2003 HOU @ TOR L 50 20 6 12 50.0 0 0 - 8 10 80.0 5 7 12 1 0 1 7 5 2
+p716
+aVScott Padgett HOU 11/16/2003 HOU @ TOR L 6 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 4 4
+p717
+aVJim Jackson HOU 11/16/2003 HOU @ TOR L 42 6 2 7 28.6 1 4 25.0 1 1 100.0 0 4 4 1 2 0 1 6 -7
+p718
+aVBostjan Nachbar HOU 11/16/2003 HOU @ TOR L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p719
+aVYao Ming HOU 11/14/2003 HOU vs. PHX W 37 21 8 17 47.1 0 0 - 5 8 62.5 6 8 14 2 0 2 5 4 8
+p720
+aVScott Padgett HOU 11/14/2003 HOU vs. PHX W 13 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 0 0 1 0 2 0
+p721
+aVKelvin Cato HOU 11/14/2003 HOU vs. PHX W 37 6 3 10 30.0 0 0 - 0 0 - 3 7 10 3 4 4 0 3 8
+p722
+aVMoochie Norris HOU 11/14/2003 HOU vs. PHX W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -8
+p723
+aVSteve Francis HOU 11/14/2003 HOU vs. PHX W 41 26 9 19 47.4 2 6 33.3 6 8 75.0 0 4 4 1 0 0 1 3 11
+p724
+aVBostjan Nachbar HOU 11/14/2003 HOU vs. PHX W 12 8 3 5 60.0 2 2 100.0 0 0 - 1 2 3 0 0 0 0 3 -1
+p725
+aVJim Jackson HOU 11/14/2003 HOU vs. PHX W 41 11 4 12 33.3 3 7 42.9 0 0 - 1 3 4 1 0 0 6 2 11
+p726
+aVCuttino Mobley HOU 11/14/2003 HOU vs. PHX W 42 10 3 13 23.1 0 4 0.0 4 8 50.0 1 2 3 8 2 0 0 2 6
+p727
+aVTorraye Braggs HOU 11/14/2003 HOU vs. PHX W 8 4 1 1 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 2 -10
+p728
+aVJim Jackson HOU 11/13/2003 HOU @ DAL L 37 23 9 16 56.3 5 7 71.4 0 0 - 0 4 4 3 0 0 1 3 -16
+p729
+aVMike Wilks HOU 11/13/2003 HOU @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 7
+p730
+aVYao Ming HOU 11/13/2003 HOU @ DAL L 31 12 5 12 41.7 0 0 - 2 2 100.0 3 5 8 4 2 1 1 4 -15
+p731
+aVBostjan Nachbar HOU 11/13/2003 HOU @ DAL L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 1 1 2 1
+p732
+aVAlton Ford HOU 11/13/2003 HOU @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 7
+p733
+aVSteve Francis HOU 11/13/2003 HOU @ DAL L 37 15 6 14 42.9 0 3 0.0 3 3 100.0 0 3 3 7 2 0 3 3 -17
+p734
+aVMoochie Norris HOU 11/13/2003 HOU @ DAL L 23 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 5 0 0 1 1 -5
+p735
+aVTorraye Braggs HOU 11/13/2003 HOU @ DAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 2
+p736
+aVScott Padgett HOU 11/13/2003 HOU @ DAL L 24 8 2 9 22.2 1 4 25.0 3 3 100.0 1 4 5 0 0 0 1 1 -2
+p737
+aVKelvin Cato HOU 11/13/2003 HOU @ DAL L 27 12 6 14 42.9 0 0 - 0 0 - 7 2 9 0 1 1 2 3 -3
+p738
+aVCuttino Mobley HOU 11/13/2003 HOU @ DAL L 35 9 2 10 20.0 1 5 20.0 4 4 100.0 0 5 5 1 0 0 2 3 -14
+p739
+aVMike Wilks HOU 11/11/2003 HOU vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p740
+aVScott Padgett HOU 11/11/2003 HOU vs. MIA W 24 13 5 7 71.4 3 4 75.0 0 0 - 1 1 2 1 0 0 4 4 12
+p741
+aVMoochie Norris HOU 11/11/2003 HOU vs. MIA W 21 5 1 3 33.3 1 2 50.0 2 2 100.0 0 5 5 2 0 0 0 1 14
+p742
+aVJim Jackson HOU 11/11/2003 HOU vs. MIA W 25 2 1 8 12.5 0 2 0.0 0 0 - 0 1 1 4 1 0 1 3 -3
+p743
+aVSteve Francis HOU 11/11/2003 HOU vs. MIA W 37 14 5 14 35.7 0 4 0.0 4 5 80.0 1 6 7 7 0 1 3 2 12
+p744
+aVYao Ming HOU 11/11/2003 HOU vs. MIA W 32 16 5 7 71.4 0 0 - 6 7 85.7 1 7 8 1 0 7 2 3 20
+p745
+aVAlton Ford HOU 11/11/2003 HOU vs. MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 0
+p746
+aVKelvin Cato HOU 11/11/2003 HOU vs. MIA W 20 5 1 3 33.3 0 0 - 3 3 100.0 4 2 6 0 0 1 0 4 -2
+p747
+aVCuttino Mobley HOU 11/11/2003 HOU vs. MIA W 41 30 11 21 52.4 5 8 62.5 3 3 100.0 0 5 5 2 3 0 0 0 27
+p748
+aVTorraye Braggs HOU 11/11/2003 HOU vs. MIA W 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 2 1 1 1 8
+p749
+aVBostjan Nachbar HOU 11/11/2003 HOU vs. MIA W 19 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 3 0 1 3 3 11
+p750
+aVBostjan Nachbar HOU 11/08/2003 HOU vs. ORL W 18 6 2 7 28.6 2 5 40.0 0 0 - 0 2 2 3 0 1 0 1 0
+p751
+aVTorraye Braggs HOU 11/08/2003 HOU vs. ORL W 15 0 0 2 0.0 0 0 - 0 0 - 5 5 10 1 1 0 3 1 6
+p752
+aVMoochie Norris HOU 11/08/2003 HOU vs. ORL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p753
+aVSteve Francis HOU 11/08/2003 HOU vs. ORL W 44 31 11 18 61.1 3 6 50.0 6 8 75.0 2 5 7 6 2 2 3 1 23
+p754
+aVKelvin Cato HOU 11/08/2003 HOU vs. ORL W 30 10 3 7 42.9 0 0 - 4 4 100.0 4 7 11 1 1 1 2 3 8
+p755
+aVJim Jackson HOU 11/08/2003 HOU vs. ORL W 35 5 2 11 18.2 1 8 12.5 0 0 - 0 5 5 3 1 0 3 5 6
+p756
+aVCuttino Mobley HOU 11/08/2003 HOU vs. ORL W 42 21 9 14 64.3 2 2 100.0 1 2 50.0 0 2 2 2 0 0 3 2 3
+p757
+aVYao Ming HOU 11/08/2003 HOU vs. ORL W 34 16 6 18 33.3 0 0 - 4 6 66.7 6 5 11 3 1 1 1 2 4
+p758
+aVScott Padgett HOU 11/08/2003 HOU vs. ORL W 15 7 3 3 100.0 1 1 100.0 0 2 0.0 2 1 3 1 0 1 0 1 6
+p759
+aVJim Jackson HOU 11/04/2003 HOU @ NJN W 40 12 5 9 55.6 2 2 100.0 0 0 - 1 7 8 2 4 0 2 3 14
+p760
+aVSteve Francis HOU 11/04/2003 HOU @ NJN W 38 17 6 17 35.3 1 4 25.0 4 4 100.0 0 10 10 6 1 0 5 3 9
+p761
+aVScott Padgett HOU 11/04/2003 HOU @ NJN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 6
+p762
+aVBostjan Nachbar HOU 11/04/2003 HOU @ NJN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 1 1
+p763
+aVKelvin Cato HOU 11/04/2003 HOU @ NJN W 23 8 4 7 57.1 0 0 - 0 2 0.0 1 4 5 0 2 1 2 4 -2
+p764
+aVMoochie Norris HOU 11/04/2003 HOU @ NJN W 16 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 1 0 0 2 1 1
+p765
+aVTorraye Braggs HOU 11/04/2003 HOU @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p766
+aVCuttino Mobley HOU 11/04/2003 HOU @ NJN W 43 20 8 9 88.9 2 3 66.7 2 4 50.0 0 0 0 4 1 0 3 2 8
+p767
+aVYao Ming HOU 11/04/2003 HOU @ NJN W 37 10 4 10 40.0 0 0 - 2 3 66.7 0 11 11 1 0 1 4 2 8
+p768
+aVMaurice Taylor HOU 11/04/2003 HOU @ NJN W 28 14 7 10 70.0 0 0 - 0 0 - 3 4 7 1 1 1 2 4 11
+p769
+aVCuttino Mobley HOU 11/03/2003 HOU @ CHI W 31 14 4 10 40.0 3 5 60.0 3 4 75.0 0 4 4 2 3 1 1 0 16
+p770
+aVJim Jackson HOU 11/03/2003 HOU @ CHI W 31 10 5 8 62.5 0 1 0.0 0 0 - 0 6 6 4 2 0 0 0 24
+p771
+aVMike Wilks HOU 11/03/2003 HOU @ CHI W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 2
+p772
+aVKelvin Cato HOU 11/03/2003 HOU @ CHI W 23 2 1 3 33.3 0 0 - 0 2 0.0 0 8 8 0 3 3 1 5 14
+p773
+aVMaurice Taylor HOU 11/03/2003 HOU @ CHI W 26 9 2 9 22.2 0 0 - 5 6 83.3 0 3 3 2 0 2 2 4 17
+p774
+aVTorraye Braggs HOU 11/03/2003 HOU @ CHI W 12 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 2 2 7
+p775
+aVSteve Francis HOU 11/03/2003 HOU @ CHI W 27 19 9 14 64.3 1 2 50.0 0 0 - 0 4 4 3 2 1 4 2 21
+p776
+aVBostjan Nachbar HOU 11/03/2003 HOU @ CHI W 22 12 4 4 100.0 4 4 100.0 0 0 - 0 0 0 2 0 1 1 1 18
+p777
+aVScott Padgett HOU 11/03/2003 HOU @ CHI W 6 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 9
+p778
+aVYao Ming HOU 11/03/2003 HOU @ CHI W 29 12 5 9 55.6 0 0 - 2 2 100.0 0 7 7 3 1 2 0 3 17
+p779
+aVMoochie Norris HOU 11/03/2003 HOU @ CHI W 24 8 2 5 40.0 1 2 50.0 3 3 100.0 0 3 3 5 0 0 3 2 15
+p780
+aVKelvin Cato HOU 11/01/2003 HOU vs. MEM L 34 7 2 4 50.0 0 0 - 3 6 50.0 3 4 7 0 2 6 3 5 -2
+p781
+aVSteve Francis HOU 11/01/2003 HOU vs. MEM L 44 19 6 16 37.5 0 5 0.0 7 7 100.0 3 3 6 4 3 1 6 5 -5
+p782
+aVJim Jackson HOU 11/01/2003 HOU vs. MEM L 38 9 2 10 20.0 1 2 50.0 4 4 100.0 1 6 7 4 1 0 4 2 -7
+p783
+aVMaurice Taylor HOU 11/01/2003 HOU vs. MEM L 21 6 2 7 28.6 0 0 - 2 2 100.0 2 2 4 0 0 0 2 2 -5
+p784
+aVBostjan Nachbar HOU 11/01/2003 HOU vs. MEM L 6 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p785
+aVMoochie Norris HOU 11/01/2003 HOU vs. MEM L 21 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 3 1 0 2 0 4
+p786
+aVCuttino Mobley HOU 11/01/2003 HOU vs. MEM L 39 9 4 9 44.4 1 2 50.0 0 0 - 2 2 4 3 1 0 3 1 -13
+p787
+aVYao Ming HOU 11/01/2003 HOU vs. MEM L 37 19 7 11 63.6 0 1 0.0 5 9 55.6 1 9 10 0 0 3 2 2 -10
+p788
+aVBostjan Nachbar HOU 10/30/2003 HOU vs. DEN W 20 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 5 -8
+p789
+aVCuttino Mobley HOU 10/30/2003 HOU vs. DEN W 42 21 6 16 37.5 2 3 66.7 7 8 87.5 0 8 8 2 3 0 3 1 19
+p790
+aVScott Padgett HOU 10/30/2003 HOU vs. DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p791
+aVMoochie Norris HOU 10/30/2003 HOU vs. DEN W 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 4 0 0 5 2 3
+p792
+aVMike Wilks HOU 10/30/2003 HOU vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p793
+aVMaurice Taylor HOU 10/30/2003 HOU vs. DEN W 19 10 5 11 45.5 0 0 - 0 0 - 1 3 4 1 1 1 1 4 1
+p794
+aVJim Jackson HOU 10/30/2003 HOU vs. DEN W 30 10 5 12 41.7 0 2 0.0 0 0 - 2 2 4 3 3 0 1 4 24
+p795
+aVYao Ming HOU 10/30/2003 HOU vs. DEN W 20 19 6 8 75.0 0 0 - 7 8 87.5 0 3 3 2 1 3 3 5 15
+p796
+aVTorraye Braggs HOU 10/30/2003 HOU vs. DEN W 16 6 2 5 40.0 0 0 - 2 3 66.7 3 3 6 1 0 0 0 3 8
+p797
+aVKelvin Cato HOU 10/30/2003 HOU vs. DEN W 38 10 4 8 50.0 0 0 - 2 2 100.0 6 7 13 2 1 0 1 3 15
+p798
+aVSteve Francis HOU 10/30/2003 HOU vs. DEN W 36 17 5 11 45.5 1 1 100.0 6 11 54.5 2 2 4 6 2 0 4 2 16
+p799
+a.

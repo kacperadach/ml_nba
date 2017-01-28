@@ -1,0 +1,1420 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRonnie Price PHX 04/25/2012 PHX vs. SAS L 11 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 0 0 0 2 5 -4
+p2
+aVMarkieff Morris PHX 04/25/2012 PHX vs. SAS L 24 6 3 7 42.9 0 1 0.0 0 0 - 2 4 6 1 0 0 3 4 -4
+p3
+aVMichael Redd PHX 04/25/2012 PHX vs. SAS L 22 14 6 14 42.9 1 3 33.3 1 2 50.0 0 2 2 0 0 0 1 0 -4
+p4
+aVHakim Warrick PHX 04/25/2012 PHX vs. SAS L 24 4 0 8 0.0 0 0 - 4 4 100.0 0 5 5 4 1 1 1 1 0
+p5
+aVSebastian Telfair PHX 04/25/2012 PHX vs. SAS L 22 20 8 13 61.5 1 3 33.3 3 4 75.0 0 1 1 1 0 0 0 3 -1
+p6
+aVJosh Childress PHX 04/25/2012 PHX vs. SAS L 22 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 1 -13
+p7
+aVJared Dudley PHX 04/25/2012 PHX vs. SAS L 21 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 0 0 0 0 1
+p8
+aVRobin Lopez PHX 04/25/2012 PHX vs. SAS L 25 10 5 7 71.4 0 0 - 0 0 - 2 3 5 1 0 3 1 1 -12
+p9
+aVShannon Brown PHX 04/25/2012 PHX vs. SAS L 29 21 8 16 50.0 3 5 60.0 2 2 100.0 1 0 1 2 2 1 1 0 7
+p10
+aVMarcin Gortat PHX 04/25/2012 PHX vs. SAS L 23 9 4 6 66.7 0 0 - 1 1 100.0 4 6 10 0 2 3 1 1 8
+p11
+aVSteve Nash PHX 04/25/2012 PHX vs. SAS L 17 8 4 7 57.1 0 0 - 0 0 - 0 3 3 7 0 0 3 0 2
+p12
+aVSteve Nash PHX 04/24/2012 PHX @ UTA L 36 14 4 11 36.4 0 3 0.0 6 6 100.0 0 4 4 11 0 1 5 2 -13
+p13
+aVJosh Childress PHX 04/24/2012 PHX @ UTA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p14
+aVRobin Lopez PHX 04/24/2012 PHX @ UTA L 19 7 3 5 60.0 0 0 - 1 3 33.3 0 4 4 0 1 1 0 3 -1
+p15
+aVMarcin Gortat PHX 04/24/2012 PHX @ UTA L 29 2 1 8 12.5 0 0 - 0 0 - 3 9 12 0 0 1 1 1 -11
+p16
+aVSebastian Telfair PHX 04/24/2012 PHX @ UTA L 12 5 2 5 40.0 0 2 0.0 1 1 100.0 0 1 1 1 1 0 3 4 1
+p17
+aVShannon Brown PHX 04/24/2012 PHX @ UTA L 34 12 5 10 50.0 2 4 50.0 0 0 - 1 4 5 2 1 0 3 1 -6
+p18
+aVMarkieff Morris PHX 04/24/2012 PHX @ UTA L 24 6 3 8 37.5 0 3 0.0 0 1 0.0 1 3 4 0 0 0 1 4 -5
+p19
+aVGrant Hill PHX 04/24/2012 PHX @ UTA L 3 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -6
+p20
+aVHakim Warrick PHX 04/24/2012 PHX @ UTA L 23 12 4 9 44.4 0 1 0.0 4 6 66.7 0 5 5 3 1 0 2 1 -4
+p21
+aVMichael Redd PHX 04/24/2012 PHX @ UTA L 20 15 5 11 45.5 3 6 50.0 2 3 66.7 0 1 1 1 0 0 0 3 -7
+p22
+aVJared Dudley PHX 04/24/2012 PHX @ UTA L 37 15 7 13 53.8 0 3 0.0 1 3 33.3 1 5 6 0 0 0 0 3 -10
+p23
+aVJosh Childress PHX 04/21/2012 PHX vs. DEN L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p24
+aVHakim Warrick PHX 04/21/2012 PHX vs. DEN L 19 7 3 8 37.5 0 0 - 1 2 50.0 2 2 4 0 1 0 0 1 -12
+p25
+aVMichael Redd PHX 04/21/2012 PHX vs. DEN L 18 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 2 0 1 1 0
+p26
+aVMarcin Gortat PHX 04/21/2012 PHX vs. DEN L 27 18 8 14 57.1 0 0 - 2 3 66.7 7 4 11 0 0 3 0 1 -18
+p27
+aVJared Dudley PHX 04/21/2012 PHX vs. DEN L 32 9 4 12 33.3 0 4 0.0 1 1 100.0 4 2 6 1 1 0 3 0 -10
+p28
+aVRobin Lopez PHX 04/21/2012 PHX vs. DEN L 15 8 3 4 75.0 0 0 - 2 3 66.7 2 3 5 0 0 2 2 2 5
+p29
+aVChanning Frye PHX 04/21/2012 PHX vs. DEN L 12 5 2 5 40.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 1 -1
+p30
+aVSebastian Telfair PHX 04/21/2012 PHX vs. DEN L 20 15 6 7 85.7 3 4 75.0 0 0 - 0 0 0 4 0 0 3 0 -3
+p31
+aVSteve Nash PHX 04/21/2012 PHX vs. DEN L 30 8 4 9 44.4 0 3 0.0 0 0 - 1 5 6 13 1 0 5 2 -12
+p32
+aVMarkieff Morris PHX 04/21/2012 PHX vs. DEN L 18 3 1 6 16.7 1 2 50.0 0 0 - 0 4 4 3 0 0 2 3 2
+p33
+aVShannon Brown PHX 04/21/2012 PHX vs. DEN L 41 28 10 24 41.7 6 12 50.0 2 2 100.0 1 5 6 1 3 2 1 1 -8
+p34
+aVSteve Nash PHX 04/19/2012 PHX vs. LAC W 34 13 4 6 66.7 2 3 66.7 3 4 75.0 0 2 2 6 0 0 6 0 0
+p35
+aVMarkieff Morris PHX 04/19/2012 PHX vs. LAC W 17 5 2 9 22.2 0 3 0.0 1 1 100.0 2 5 7 1 0 0 1 2 9
+p36
+aVJared Dudley PHX 04/19/2012 PHX vs. LAC W 40 18 7 14 50.0 4 7 57.1 0 0 - 0 2 2 4 0 0 2 2 5
+p37
+aVJosh Childress PHX 04/19/2012 PHX vs. LAC W 11 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -2
+p38
+aVShannon Brown PHX 04/19/2012 PHX vs. LAC W 31 8 4 12 33.3 0 2 0.0 0 0 - 1 1 2 2 4 0 1 1 -2
+p39
+aVChanning Frye PHX 04/19/2012 PHX vs. LAC W 32 16 5 10 50.0 2 6 33.3 4 4 100.0 1 4 5 3 0 0 2 2 -6
+p40
+aVSebastian Telfair PHX 04/19/2012 PHX vs. LAC W 16 13 3 5 60.0 1 2 50.0 6 6 100.0 1 1 2 3 0 1 2 4 5
+p41
+aVMarcin Gortat PHX 04/19/2012 PHX vs. LAC W 36 14 6 11 54.5 0 0 - 2 5 40.0 5 9 14 2 0 0 1 1 6
+p42
+aVRobin Lopez PHX 04/19/2012 PHX vs. LAC W 12 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -3
+p43
+aVMichael Redd PHX 04/19/2012 PHX vs. LAC W 13 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 0 0 3
+p44
+aVMichael Redd PHX 04/18/2012 PHX vs. OKC L 14 7 3 7 42.9 0 1 0.0 1 1 100.0 1 0 1 0 0 0 1 0 -8
+p45
+aVShannon Brown PHX 04/18/2012 PHX vs. OKC L 26 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 2 1 0 0 1 -4
+p46
+aVJared Dudley PHX 04/18/2012 PHX vs. OKC L 36 21 7 14 50.0 2 5 40.0 5 10 50.0 2 4 6 1 0 0 0 1 -8
+p47
+aVSteve Nash PHX 04/18/2012 PHX vs. OKC L 28 12 3 6 50.0 1 2 50.0 5 5 100.0 0 1 1 5 0 1 5 3 -4
+p48
+aVMarcin Gortat PHX 04/18/2012 PHX vs. OKC L 34 9 2 13 15.4 0 0 - 5 6 83.3 2 10 12 2 1 1 0 2 -5
+p49
+aVChanning Frye PHX 04/18/2012 PHX vs. OKC L 27 13 5 13 38.5 1 4 25.0 2 2 100.0 3 5 8 2 0 1 1 3 5
+p50
+aVJosh Childress PHX 04/18/2012 PHX vs. OKC L 23 8 4 6 66.7 0 1 0.0 0 0 - 2 6 8 1 1 0 1 3 -6
+p51
+aVMarkieff Morris PHX 04/18/2012 PHX vs. OKC L 17 5 1 3 33.3 1 1 100.0 2 4 50.0 1 1 2 1 0 0 4 2 -15
+p52
+aVSebastian Telfair PHX 04/18/2012 PHX vs. OKC L 20 4 2 7 28.6 0 3 0.0 0 0 - 1 1 2 4 0 0 2 4 -8
+p53
+aVRobin Lopez PHX 04/18/2012 PHX vs. OKC L 14 11 4 5 80.0 0 0 - 3 4 75.0 0 2 2 0 0 1 0 2 -7
+p54
+aVMarkieff Morris PHX 04/16/2012 PHX vs. POR W 23 14 5 9 55.6 0 1 0.0 4 4 100.0 3 3 6 3 0 1 1 3 0
+p55
+aVMarcin Gortat PHX 04/16/2012 PHX vs. POR W 29 20 8 13 61.5 0 0 - 4 6 66.7 2 8 10 0 1 1 1 0 24
+p56
+aVSteve Nash PHX 04/16/2012 PHX vs. POR W 27 6 3 6 50.0 0 0 - 0 0 - 0 2 2 13 0 0 4 1 26
+p57
+aVJosh Childress PHX 04/16/2012 PHX vs. POR W 18 4 2 2 100.0 0 0 - 0 0 - 1 1 2 2 2 0 0 0 -5
+p58
+aVJared Dudley PHX 04/16/2012 PHX vs. POR W 27 18 8 10 80.0 2 2 100.0 0 0 - 2 2 4 1 0 0 0 3 26
+p59
+aVShannon Brown PHX 04/16/2012 PHX vs. POR W 30 16 7 10 70.0 2 4 50.0 0 0 - 0 4 4 3 1 0 0 2 23
+p60
+aVRobin Lopez PHX 04/16/2012 PHX vs. POR W 19 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 1 0 4 1 5 -6
+p61
+aVMichael Redd PHX 04/16/2012 PHX vs. POR W 21 9 1 7 14.3 1 2 50.0 6 6 100.0 0 2 2 0 0 0 1 3 -8
+p62
+aVSebastian Telfair PHX 04/16/2012 PHX vs. POR W 21 12 6 12 50.0 0 3 0.0 0 0 - 0 3 3 3 0 0 2 1 -8
+p63
+aVChanning Frye PHX 04/16/2012 PHX vs. POR W 25 19 8 11 72.7 2 3 66.7 1 1 100.0 0 6 6 3 0 2 0 2 18
+p64
+aVJosh Childress PHX 04/14/2012 PHX @ SAS L 22 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 1 1 0 1 1 15
+p65
+aVRonnie Price PHX 04/14/2012 PHX @ SAS L 20 7 3 7 42.9 0 2 0.0 1 1 100.0 0 1 1 1 2 0 1 5 7
+p66
+aVChanning Frye PHX 04/14/2012 PHX @ SAS L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 2 -25
+p67
+aVSteve Nash PHX 04/14/2012 PHX @ SAS L 6 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -17
+p68
+aVMichael Redd PHX 04/14/2012 PHX @ SAS L 17 13 4 10 40.0 1 3 33.3 4 5 80.0 0 1 1 1 1 0 0 0 -1
+p69
+aVMarcin Gortat PHX 04/14/2012 PHX @ SAS L 20 6 3 12 25.0 0 0 - 0 0 - 4 3 7 0 0 2 0 1 -27
+p70
+aVGrant Hill PHX 04/14/2012 PHX @ SAS L 8 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -7
+p71
+aVShannon Brown PHX 04/14/2012 PHX @ SAS L 17 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -23
+p72
+aVMarkieff Morris PHX 04/14/2012 PHX @ SAS L 32 10 3 10 30.0 0 2 0.0 4 6 66.7 2 7 9 4 1 3 1 2 11
+p73
+aVHakim Warrick PHX 04/14/2012 PHX @ SAS L 8 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 10
+p74
+aVJared Dudley PHX 04/14/2012 PHX @ SAS L 22 6 2 3 66.7 1 1 100.0 1 2 50.0 1 1 2 1 1 0 1 0 -20
+p75
+aVRobin Lopez PHX 04/14/2012 PHX @ SAS L 20 8 4 7 57.1 0 0 - 0 0 - 8 1 9 1 1 0 2 0 3
+p76
+aVSebastian Telfair PHX 04/14/2012 PHX @ SAS L 31 21 9 21 42.9 0 3 0.0 3 4 75.0 2 4 6 4 3 1 2 4 4
+p77
+aVShannon Brown PHX 04/13/2012 PHX @ HOU W 28 10 3 9 33.3 0 2 0.0 4 4 100.0 1 4 5 2 0 0 1 0 7
+p78
+aVSteve Nash PHX 04/13/2012 PHX @ HOU W 34 18 4 8 50.0 1 2 50.0 9 9 100.0 1 2 3 10 0 0 5 2 7
+p79
+aVMarkieff Morris PHX 04/13/2012 PHX @ HOU W 16 7 1 4 25.0 0 1 0.0 5 5 100.0 0 2 2 2 1 1 2 3 -5
+p80
+aVMichael Redd PHX 04/13/2012 PHX @ HOU W 20 13 4 10 40.0 1 1 100.0 4 4 100.0 1 2 3 1 0 0 0 0 1
+p81
+aVMarcin Gortat PHX 04/13/2012 PHX @ HOU W 36 20 10 15 66.7 0 0 - 0 0 - 1 14 15 0 1 2 1 4 3
+p82
+aVRobin Lopez PHX 04/13/2012 PHX @ HOU W 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 4 4
+p83
+aVJared Dudley PHX 04/13/2012 PHX @ HOU W 26 19 7 12 58.3 3 5 60.0 2 3 66.7 2 1 3 2 1 0 0 4 3
+p84
+aVChanning Frye PHX 04/13/2012 PHX @ HOU W 28 7 2 5 40.0 1 4 25.0 2 2 100.0 0 4 4 4 1 0 0 1 15
+p85
+aVGrant Hill PHX 04/13/2012 PHX @ HOU W 25 4 2 7 28.6 0 1 0.0 0 2 0.0 0 6 6 0 1 0 2 4 0
+p86
+aVSebastian Telfair PHX 04/13/2012 PHX @ HOU W 14 12 4 5 80.0 2 2 100.0 2 4 50.0 1 1 2 1 0 0 1 4 0
+p87
+aVJared Dudley PHX 04/11/2012 PHX @ MEM L 27 2 1 6 16.7 0 0 - 0 0 - 2 3 5 1 0 1 1 1 -12
+p88
+aVMichael Redd PHX 04/11/2012 PHX @ MEM L 15 2 0 2 0.0 0 1 0.0 2 4 50.0 2 0 2 0 0 0 2 2 6
+p89
+aVMarcin Gortat PHX 04/11/2012 PHX @ MEM L 35 19 9 12 75.0 0 0 - 1 2 50.0 3 2 5 1 1 0 0 2 -20
+p90
+aVJosh Childress PHX 04/11/2012 PHX @ MEM L 18 10 5 7 71.4 0 0 - 0 0 - 0 1 1 1 1 0 0 3 2
+p91
+aVMarkieff Morris PHX 04/11/2012 PHX @ MEM L 27 17 7 12 58.3 1 4 25.0 2 2 100.0 3 3 6 1 0 0 0 1 -4
+p92
+aVChanning Frye PHX 04/11/2012 PHX @ MEM L 21 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 1 1 0 0 3 -7
+p93
+aVSteve Nash PHX 04/11/2012 PHX @ MEM L 35 11 4 10 40.0 0 1 0.0 3 4 75.0 1 3 4 10 2 0 7 0 -21
+p94
+aVShannon Brown PHX 04/11/2012 PHX @ MEM L 36 18 6 17 35.3 4 10 40.0 2 2 100.0 1 0 1 1 1 1 1 3 -18
+p95
+aVSebastian Telfair PHX 04/11/2012 PHX @ MEM L 13 7 3 6 50.0 1 4 25.0 0 0 - 0 4 4 8 1 1 1 1 10
+p96
+aVRobin Lopez PHX 04/11/2012 PHX @ MEM L 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 9
+p97
+aVHakim Warrick PHX 04/09/2012 PHX @ MIN W 5 6 1 1 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 2 1 -3
+p98
+aVMichael Redd PHX 04/09/2012 PHX @ MIN W 21 13 5 9 55.6 1 2 50.0 2 2 100.0 0 3 3 1 0 0 1 0 17
+p99
+aVJared Dudley PHX 04/09/2012 PHX @ MIN W 23 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 2 0 0 1 0 10
+p100
+aVJosh Childress PHX 04/09/2012 PHX @ MIN W 20 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 0 19
+p101
+aVRobin Lopez PHX 04/09/2012 PHX @ MIN W 22 6 2 6 33.3 0 0 - 2 4 50.0 0 3 3 2 0 3 1 5 16
+p102
+aVRonnie Price PHX 04/09/2012 PHX @ MIN W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -3
+p103
+aVChanning Frye PHX 04/09/2012 PHX @ MIN W 16 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 3 10
+p104
+aVMarkieff Morris PHX 04/09/2012 PHX @ MIN W 31 21 9 15 60.0 1 3 33.3 2 2 100.0 1 5 6 1 1 1 3 4 14
+p105
+aVSebastian Telfair PHX 04/09/2012 PHX @ MIN W 22 14 6 7 85.7 1 2 50.0 1 1 100.0 0 1 1 7 2 1 0 3 15
+p106
+aVShannon Brown PHX 04/09/2012 PHX @ MIN W 28 17 7 14 50.0 2 6 33.3 1 2 50.0 0 7 7 4 0 1 1 0 5
+p107
+aVSteve Nash PHX 04/09/2012 PHX @ MIN W 26 14 6 10 60.0 1 3 33.3 1 1 100.0 0 2 2 6 0 1 3 0 9
+p108
+aVMarcin Gortat PHX 04/09/2012 PHX @ MIN W 21 4 2 3 66.7 0 0 - 0 0 - 3 4 7 0 1 0 3 3 11
+p109
+aVChanning Frye PHX 04/07/2012 PHX vs. LAL W 22 11 4 7 57.1 1 2 50.0 2 2 100.0 0 5 5 0 1 1 0 1 9
+p110
+aVRobin Lopez PHX 04/07/2012 PHX vs. LAL W 20 7 2 4 50.0 0 0 - 3 6 50.0 0 2 2 0 1 3 0 2 7
+p111
+aVMichael Redd PHX 04/07/2012 PHX vs. LAL W 26 23 8 18 44.4 4 10 40.0 3 4 75.0 0 0 0 1 2 0 0 2 19
+p112
+aVMarcin Gortat PHX 04/07/2012 PHX vs. LAL W 28 14 6 11 54.5 0 0 - 2 2 100.0 3 6 9 0 0 4 0 2 13
+p113
+aVSteve Nash PHX 04/07/2012 PHX vs. LAL W 26 13 6 9 66.7 1 2 50.0 0 0 - 1 1 2 11 0 0 1 0 9
+p114
+aVJared Dudley PHX 04/07/2012 PHX vs. LAL W 18 5 2 7 28.6 1 2 50.0 0 0 - 1 1 2 1 0 1 1 0 -1
+p115
+aVSebastian Telfair PHX 04/07/2012 PHX vs. LAL W 22 13 5 11 45.5 2 3 66.7 1 1 100.0 1 2 3 7 2 0 0 3 11
+p116
+aVShannon Brown PHX 04/07/2012 PHX vs. LAL W 30 24 9 19 47.4 4 8 50.0 2 2 100.0 1 4 5 3 0 0 0 0 9
+p117
+aVMarkieff Morris PHX 04/07/2012 PHX vs. LAL W 26 13 4 5 80.0 1 1 100.0 4 4 100.0 2 3 5 0 0 2 1 2 11
+p118
+aVJosh Childress PHX 04/07/2012 PHX vs. LAL W 22 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 3 0 0 0 3 13
+p119
+aVSteve Nash PHX 04/06/2012 PHX @ DEN L 35 14 5 10 50.0 2 3 66.7 2 2 100.0 2 1 3 11 0 0 3 0 -2
+p120
+aVMarcin Gortat PHX 04/06/2012 PHX @ DEN L 34 9 4 7 57.1 0 0 - 1 2 50.0 4 10 14 1 1 1 3 3 -1
+p121
+aVMarkieff Morris PHX 04/06/2012 PHX @ DEN L 17 3 0 1 0.0 0 1 0.0 3 4 75.0 1 2 3 0 0 0 0 5 3
+p122
+aVMichael Redd PHX 04/06/2012 PHX @ DEN L 16 15 4 12 33.3 1 3 33.3 6 8 75.0 2 1 3 0 0 0 0 0 -8
+p123
+aVRobin Lopez PHX 04/06/2012 PHX @ DEN L 14 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 0 1 1 1 -5
+p124
+aVChanning Frye PHX 04/06/2012 PHX @ DEN L 31 13 4 10 40.0 1 3 33.3 4 4 100.0 2 9 11 1 0 3 1 5 -9
+p125
+aVJared Dudley PHX 04/06/2012 PHX @ DEN L 31 17 6 14 42.9 1 4 25.0 4 5 80.0 1 3 4 4 0 0 3 3 -3
+p126
+aVSebastian Telfair PHX 04/06/2012 PHX @ DEN L 13 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 1 1 -4
+p127
+aVJosh Childress PHX 04/06/2012 PHX @ DEN L 15 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 2 1 4 -2
+p128
+aVShannon Brown PHX 04/06/2012 PHX @ DEN L 35 18 7 18 38.9 3 6 50.0 1 2 50.0 0 6 6 1 1 0 3 1 1
+p129
+aVSteve Nash PHX 04/04/2012 PHX @ UTA W 32 13 5 9 55.6 3 7 42.9 0 0 - 0 2 2 9 0 0 4 2 -11
+p130
+aVJared Dudley PHX 04/04/2012 PHX @ UTA W 37 10 4 10 40.0 2 6 33.3 0 3 0.0 5 2 7 3 3 0 2 1 -10
+p131
+aVChanning Frye PHX 04/04/2012 PHX @ UTA W 30 13 5 13 38.5 3 5 60.0 0 0 - 0 4 4 1 1 1 1 3 -9
+p132
+aVMarkieff Morris PHX 04/04/2012 PHX @ UTA W 18 11 4 7 57.1 1 3 33.3 2 4 50.0 1 3 4 3 0 0 1 4 11
+p133
+aVMarcin Gortat PHX 04/04/2012 PHX @ UTA W 30 14 7 10 70.0 0 0 - 0 2 0.0 3 5 8 0 0 1 1 0 -6
+p134
+aVShannon Brown PHX 04/04/2012 PHX @ UTA W 26 11 4 14 28.6 0 1 0.0 3 3 100.0 1 3 4 4 0 0 1 1 -7
+p135
+aVJosh Childress PHX 04/04/2012 PHX @ UTA W 11 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 1 10
+p136
+aVSebastian Telfair PHX 04/04/2012 PHX @ UTA W 16 9 3 6 50.0 1 2 50.0 2 2 100.0 1 4 5 3 3 1 0 2 13
+p137
+aVRobin Lopez PHX 04/04/2012 PHX @ UTA W 18 7 1 5 20.0 0 0 - 5 7 71.4 2 5 7 0 2 4 0 3 8
+p138
+aVMichael Redd PHX 04/04/2012 PHX @ UTA W 22 19 8 17 47.1 3 7 42.9 0 1 0.0 0 0 0 0 1 0 1 1 11
+p139
+aVMarcin Gortat PHX 04/03/2012 PHX @ SAC W 32 20 7 11 63.6 0 0 - 6 7 85.7 1 9 10 0 1 3 2 6 10
+p140
+aVShannon Brown PHX 04/03/2012 PHX @ SAC W 32 12 5 14 35.7 1 5 20.0 1 2 50.0 2 4 6 3 1 0 3 1 5
+p141
+aVSebastian Telfair PHX 04/03/2012 PHX @ SAC W 15 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 3 1 -4
+p142
+aVRobin Lopez PHX 04/03/2012 PHX @ SAC W 14 6 1 3 33.3 0 0 - 4 4 100.0 2 3 5 1 0 1 1 2 0
+p143
+aVJared Dudley PHX 04/03/2012 PHX @ SAC W 37 15 5 9 55.6 1 2 50.0 4 5 80.0 1 5 6 3 0 0 1 2 7
+p144
+aVJosh Childress PHX 04/03/2012 PHX @ SAC W 14 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 2 0 1 0 2 10
+p145
+aVMarkieff Morris PHX 04/03/2012 PHX @ SAC W 14 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 0 2 0 1 3 -4
+p146
+aVMichael Redd PHX 04/03/2012 PHX @ SAC W 16 16 7 14 50.0 1 2 50.0 1 1 100.0 1 0 1 1 1 0 0 1 -5
+p147
+aVChanning Frye PHX 04/03/2012 PHX @ SAC W 34 15 6 16 37.5 0 7 0.0 3 3 100.0 2 4 6 0 0 4 1 3 13
+p148
+aVSteve Nash PHX 04/03/2012 PHX @ SAC W 33 18 7 12 58.3 2 3 66.7 2 2 100.0 2 5 7 11 0 0 1 2 13
+p149
+aVShannon Brown PHX 04/01/2012 PHX vs. NOH W 27 16 6 11 54.5 1 5 20.0 3 3 100.0 1 3 4 0 1 0 4 0 28
+p150
+aVHakim Warrick PHX 04/01/2012 PHX vs. NOH W 14 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 0 0 2 1 -3
+p151
+aVMichael Redd PHX 04/01/2012 PHX vs. NOH W 14 7 2 3 66.7 0 0 - 3 3 100.0 0 0 0 0 0 0 2 1 -7
+p152
+aVChanning Frye PHX 04/01/2012 PHX vs. NOH W 34 14 6 14 42.9 0 4 0.0 2 2 100.0 3 8 11 2 2 2 3 3 20
+p153
+aVSteve Nash PHX 04/01/2012 PHX vs. NOH W 35 4 2 4 50.0 0 0 - 0 0 - 0 1 1 14 2 0 3 2 18
+p154
+aVJared Dudley PHX 04/01/2012 PHX vs. NOH W 36 21 9 16 56.3 1 3 33.3 2 3 66.7 1 6 7 1 0 0 0 1 25
+p155
+aVSebastian Telfair PHX 04/01/2012 PHX vs. NOH W 13 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -1
+p156
+aVJosh Childress PHX 04/01/2012 PHX vs. NOH W 19 5 2 3 66.7 1 2 50.0 0 0 - 1 5 6 0 1 0 0 0 -12
+p157
+aVRobin Lopez PHX 04/01/2012 PHX vs. NOH W 21 10 2 4 50.0 0 0 - 6 6 100.0 1 2 3 2 0 2 2 3 -4
+p158
+aVMarcin Gortat PHX 04/01/2012 PHX vs. NOH W 27 13 5 8 62.5 0 0 - 3 4 75.0 2 5 7 2 0 0 3 1 21
+p159
+aVRonnie Price PHX 03/28/2012 PHX @ LAC L 10 3 1 2 50.0 1 1 100.0 0 0 - 1 2 3 1 0 0 1 1 -9
+p160
+aVRobin Lopez PHX 03/28/2012 PHX @ LAC L 18 10 3 7 42.9 0 0 - 4 5 80.0 2 2 4 0 0 0 1 2 -12
+p161
+aVShannon Brown PHX 03/28/2012 PHX @ LAC L 38 10 4 9 44.4 1 3 33.3 1 4 25.0 0 5 5 2 1 0 0 2 -10
+p162
+aVJared Dudley PHX 03/28/2012 PHX @ LAC L 39 10 5 12 41.7 0 3 0.0 0 4 0.0 2 2 4 4 0 0 0 3 -2
+p163
+aVMichael Redd PHX 03/28/2012 PHX @ LAC L 13 7 1 6 16.7 1 4 25.0 4 5 80.0 0 1 1 0 0 0 0 2 -15
+p164
+aVChanning Frye PHX 03/28/2012 PHX @ LAC L 38 16 6 15 40.0 2 11 18.2 2 2 100.0 1 6 7 4 0 1 1 5 -8
+p165
+aVHakim Warrick PHX 03/28/2012 PHX @ LAC L 10 6 1 4 25.0 0 1 0.0 4 4 100.0 2 3 5 0 0 0 1 1 -9
+p166
+aVMarcin Gortat PHX 03/28/2012 PHX @ LAC L 30 23 9 16 56.3 0 0 - 5 7 71.4 4 3 7 0 0 2 0 3 -5
+p167
+aVSteve Nash PHX 03/28/2012 PHX @ LAC L 30 1 0 4 0.0 0 1 0.0 1 1 100.0 0 4 4 15 1 0 4 0 2
+p168
+aVSebastian Telfair PHX 03/28/2012 PHX @ LAC L 14 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 3 -17
+p169
+aVJared Dudley PHX 03/27/2012 PHX vs. SAS L 29 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 0 0 0 0 3 4
+p170
+aVSebastian Telfair PHX 03/27/2012 PHX vs. SAS L 14 11 5 10 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -14
+p171
+aVRonnie Price PHX 03/27/2012 PHX vs. SAS L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 2 -8
+p172
+aVMarkieff Morris PHX 03/27/2012 PHX vs. SAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -3
+p173
+aVRobin Lopez PHX 03/27/2012 PHX vs. SAS L 11 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -12
+p174
+aVHakim Warrick PHX 03/27/2012 PHX vs. SAS L 8 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -8
+p175
+aVSteve Nash PHX 03/27/2012 PHX vs. SAS L 34 16 8 16 50.0 0 0 - 0 0 - 2 3 5 8 1 0 5 3 7
+p176
+aVChanning Frye PHX 03/27/2012 PHX vs. SAS L 33 7 3 9 33.3 1 2 50.0 0 0 - 1 6 7 0 0 2 2 3 4
+p177
+aVShannon Brown PHX 03/27/2012 PHX vs. SAS L 42 32 11 18 61.1 5 10 50.0 5 5 100.0 0 1 1 3 0 0 0 0 -1
+p178
+aVMarcin Gortat PHX 03/27/2012 PHX vs. SAS L 37 21 9 15 60.0 0 1 0.0 3 3 100.0 2 12 14 1 0 2 0 1 5
+p179
+aVMichael Redd PHX 03/27/2012 PHX vs. SAS L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -9
+p180
+aVRonnie Price PHX 03/25/2012 PHX @ CLE W 5 2 0 0 - 0 0 - 2 4 50.0 0 0 0 1 1 0 0 3 4
+p181
+aVSebastian Telfair PHX 03/25/2012 PHX @ CLE W 19 7 2 6 33.3 0 2 0.0 3 3 100.0 1 1 2 6 1 0 2 0 5
+p182
+aVMichael Redd PHX 03/25/2012 PHX @ CLE W 20 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 8
+p183
+aVChanning Frye PHX 03/25/2012 PHX @ CLE W 22 11 4 10 40.0 1 4 25.0 2 2 100.0 1 3 4 5 1 0 2 2 25
+p184
+aVSteve Nash PHX 03/25/2012 PHX @ CLE W 29 4 2 2 100.0 0 0 - 0 0 - 1 2 3 13 1 1 1 2 20
+p185
+aVRobin Lopez PHX 03/25/2012 PHX @ CLE W 18 3 1 6 16.7 0 0 - 1 2 50.0 1 2 3 0 1 1 1 2 5
+p186
+aVGrant Hill PHX 03/25/2012 PHX @ CLE W 22 7 2 6 33.3 0 0 - 3 4 75.0 0 3 3 2 4 0 0 3 16
+p187
+aVMarkieff Morris PHX 03/25/2012 PHX @ CLE W 26 22 9 12 75.0 2 3 66.7 2 3 66.7 1 4 5 0 0 1 1 3 0
+p188
+aVJared Dudley PHX 03/25/2012 PHX @ CLE W 25 10 3 7 42.9 2 4 50.0 2 2 100.0 2 4 6 2 1 0 1 0 22
+p189
+aVMarcin Gortat PHX 03/25/2012 PHX @ CLE W 30 22 10 16 62.5 0 0 - 2 5 40.0 4 4 8 1 0 2 2 2 20
+p190
+aVShannon Brown PHX 03/25/2012 PHX @ CLE W 24 16 7 12 58.3 1 2 50.0 1 1 100.0 2 1 3 1 1 1 1 2 0
+p191
+aVChanning Frye PHX 03/23/2012 PHX @ IND W 27 11 5 7 71.4 1 2 50.0 0 2 0.0 1 4 5 0 1 0 0 1 15
+p192
+aVMarkieff Morris PHX 03/23/2012 PHX @ IND W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -3
+p193
+aVSteve Nash PHX 03/23/2012 PHX @ IND W 34 12 3 8 37.5 0 3 0.0 6 6 100.0 1 2 3 17 2 0 4 0 2
+p194
+aVShannon Brown PHX 03/23/2012 PHX @ IND W 15 6 2 6 33.3 1 2 50.0 1 1 100.0 1 3 4 0 0 1 1 0 2
+p195
+aVRobin Lopez PHX 03/23/2012 PHX @ IND W 15 5 2 7 28.6 0 0 - 1 2 50.0 4 0 4 0 0 1 1 2 5
+p196
+aVGrant Hill PHX 03/23/2012 PHX @ IND W 35 22 9 16 56.3 1 1 100.0 3 4 75.0 0 0 0 1 1 0 1 2 -3
+p197
+aVSebastian Telfair PHX 03/23/2012 PHX @ IND W 14 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 -6
+p198
+aVMarcin Gortat PHX 03/23/2012 PHX @ IND W 33 23 8 13 61.5 0 0 - 7 11 63.6 3 5 8 2 1 0 0 4 3
+p199
+aVHakim Warrick PHX 03/23/2012 PHX @ IND W 14 9 3 6 50.0 0 1 0.0 3 4 75.0 1 4 5 0 1 0 1 1 -7
+p200
+aVMichael Redd PHX 03/23/2012 PHX @ IND W 14 10 3 7 42.9 0 3 0.0 4 5 80.0 1 0 1 0 0 0 0 2 1
+p201
+aVJared Dudley PHX 03/23/2012 PHX @ IND W 32 10 4 9 44.4 1 3 33.3 1 2 50.0 2 2 4 0 0 0 1 4 1
+p202
+aVSteve Nash PHX 03/21/2012 PHX @ ORL L 27 12 4 7 57.1 0 0 - 4 5 80.0 0 2 2 2 2 0 5 1 -8
+p203
+aVRobin Lopez PHX 03/21/2012 PHX @ ORL L 22 14 6 11 54.5 0 0 - 2 5 40.0 5 3 8 1 1 0 1 3 0
+p204
+aVShannon Brown PHX 03/21/2012 PHX @ ORL L 21 10 5 10 50.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 1 -2
+p205
+aVMarcin Gortat PHX 03/21/2012 PHX @ ORL L 26 4 1 7 14.3 0 0 - 2 2 100.0 4 5 9 3 0 3 1 3 -10
+p206
+aVSebastian Telfair PHX 03/21/2012 PHX @ ORL L 21 10 3 8 37.5 1 1 100.0 3 4 75.0 0 4 4 3 2 0 1 1 -2
+p207
+aVMarkieff Morris PHX 03/21/2012 PHX @ ORL L 26 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 0 1 0 2 3 -7
+p208
+aVChanning Frye PHX 03/21/2012 PHX @ ORL L 22 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 1 1 0 1 2 -3
+p209
+aVJared Dudley PHX 03/21/2012 PHX @ ORL L 30 17 7 10 70.0 1 1 100.0 2 3 66.7 1 5 6 2 1 0 2 2 -13
+p210
+aVRonnie Price PHX 03/21/2012 PHX @ ORL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 7
+p211
+aVGrant Hill PHX 03/21/2012 PHX @ ORL L 27 6 3 7 42.9 0 0 - 0 0 - 0 4 4 2 1 0 1 2 -8
+p212
+aVMichael Redd PHX 03/21/2012 PHX @ ORL L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -4
+p213
+aVMarkieff Morris PHX 03/20/2012 PHX @ MIA L 22 12 4 7 57.1 1 2 50.0 3 5 60.0 0 4 4 0 1 1 1 5 7
+p214
+aVShannon Brown PHX 03/20/2012 PHX @ MIA L 20 9 4 7 57.1 1 3 33.3 0 1 0.0 0 3 3 3 0 2 1 0 10
+p215
+aVSteve Nash PHX 03/20/2012 PHX @ MIA L 34 9 4 7 57.1 1 2 50.0 0 1 0.0 2 3 5 10 1 0 7 2 -5
+p216
+aVGrant Hill PHX 03/20/2012 PHX @ MIA L 35 19 8 14 57.1 0 1 0.0 3 4 75.0 2 5 7 3 0 0 5 2 -14
+p217
+aVSebastian Telfair PHX 03/20/2012 PHX @ MIA L 14 8 2 3 66.7 1 1 100.0 3 3 100.0 0 0 0 1 0 1 2 1 1
+p218
+aVMichael Redd PHX 03/20/2012 PHX @ MIA L 10 7 1 4 25.0 1 1 100.0 4 4 100.0 0 2 2 0 0 0 0 0 9
+p219
+aVRobin Lopez PHX 03/20/2012 PHX @ MIA L 13 6 2 7 28.6 0 0 - 2 2 100.0 3 1 4 0 1 0 0 3 3
+p220
+aVJared Dudley PHX 03/20/2012 PHX @ MIA L 31 10 4 11 36.4 1 2 50.0 1 2 50.0 3 1 4 1 1 1 0 4 -12
+p221
+aVChanning Frye PHX 03/20/2012 PHX @ MIA L 25 2 1 7 14.3 0 3 0.0 0 0 - 1 3 4 2 2 2 3 5 -12
+p222
+aVMarcin Gortat PHX 03/20/2012 PHX @ MIA L 35 13 6 13 46.2 0 0 - 1 2 50.0 3 5 8 1 0 1 0 3 -7
+p223
+aVMarcin Gortat PHX 03/18/2012 PHX vs. HOU W 31 15 7 9 77.8 0 0 - 1 4 25.0 3 7 10 0 3 2 1 1 10
+p224
+aVSteve Nash PHX 03/18/2012 PHX vs. HOU W 30 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 11 1 0 1 2 10
+p225
+aVMarkieff Morris PHX 03/18/2012 PHX vs. HOU W 17 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 0 1 2 1 7
+p226
+aVShannon Brown PHX 03/18/2012 PHX vs. HOU W 18 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 0
+p227
+aVMichael Redd PHX 03/18/2012 PHX vs. HOU W 19 25 10 13 76.9 3 5 60.0 2 3 66.7 0 2 2 0 0 0 0 1 1
+p228
+aVChanning Frye PHX 03/18/2012 PHX vs. HOU W 31 19 8 14 57.1 2 6 33.3 1 2 50.0 3 5 8 1 0 1 1 4 6
+p229
+aVGrant Hill PHX 03/18/2012 PHX vs. HOU W 31 10 3 10 30.0 0 0 - 4 6 66.7 1 4 5 7 1 0 1 2 11
+p230
+aVJared Dudley PHX 03/18/2012 PHX vs. HOU W 29 4 1 7 14.3 0 3 0.0 2 2 100.0 1 2 3 1 1 0 1 3 12
+p231
+aVSebastian Telfair PHX 03/18/2012 PHX vs. HOU W 18 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 4 2 0 0 2 3
+p232
+aVRobin Lopez PHX 03/18/2012 PHX vs. HOU W 16 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 0 1 2 1 1 5
+p233
+aVRobin Lopez PHX 03/16/2012 PHX vs. DET W 20 14 4 7 57.1 0 0 - 6 8 75.0 1 3 4 1 0 0 1 3 4
+p234
+aVGrant Hill PHX 03/16/2012 PHX vs. DET W 31 14 7 13 53.8 0 1 0.0 0 0 - 1 2 3 3 3 0 1 1 8
+p235
+aVChanning Frye PHX 03/16/2012 PHX vs. DET W 36 15 4 14 28.6 3 6 50.0 4 4 100.0 5 8 13 3 0 2 0 0 10
+p236
+aVJared Dudley PHX 03/16/2012 PHX vs. DET W 34 23 8 12 66.7 4 5 80.0 3 3 100.0 3 4 7 0 1 1 1 1 12
+p237
+aVMarcin Gortat PHX 03/16/2012 PHX vs. DET W 27 16 8 14 57.1 0 0 - 0 2 0.0 2 3 5 1 2 2 1 3 0
+p238
+aVSteve Nash PHX 03/16/2012 PHX vs. DET W 34 5 1 2 50.0 0 0 - 3 3 100.0 0 2 2 17 0 0 3 0 11
+p239
+aVShannon Brown PHX 03/16/2012 PHX vs. DET W 16 7 3 6 50.0 1 4 25.0 0 0 - 1 1 2 0 0 0 1 2 0
+p240
+aVSebastian Telfair PHX 03/16/2012 PHX vs. DET W 14 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 5 0 0 2 1 -1
+p241
+aVMichael Redd PHX 03/16/2012 PHX vs. DET W 15 11 4 8 50.0 2 2 100.0 1 2 50.0 1 1 2 0 0 0 2 0 -2
+p242
+aVMarkieff Morris PHX 03/16/2012 PHX vs. DET W 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 1 1 5 -2
+p243
+aVMarcin Gortat PHX 03/15/2012 PHX @ LAC W 27 8 3 10 30.0 0 0 - 2 4 50.0 3 3 6 1 0 0 1 1 -12
+p244
+aVShannon Brown PHX 03/15/2012 PHX @ LAC W 29 21 5 12 41.7 3 5 60.0 8 10 80.0 1 2 3 0 1 0 0 0 0
+p245
+aVJosh Childress PHX 03/15/2012 PHX @ LAC W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p246
+aVRobin Lopez PHX 03/15/2012 PHX @ LAC W 19 8 4 6 66.7 0 0 - 0 0 - 2 0 2 1 0 1 0 1 18
+p247
+aVChanning Frye PHX 03/15/2012 PHX @ LAC W 31 12 4 7 57.1 4 6 66.7 0 0 - 0 6 6 2 0 3 0 3 -7
+p248
+aVMarkieff Morris PHX 03/15/2012 PHX @ LAC W 16 10 4 10 40.0 1 3 33.3 1 2 50.0 1 5 6 1 3 1 2 0 12
+p249
+aVSebastian Telfair PHX 03/15/2012 PHX @ LAC W 34 7 3 11 27.3 0 4 0.0 1 1 100.0 0 2 2 8 1 1 1 4 -6
+p250
+aVJared Dudley PHX 03/15/2012 PHX @ LAC W 41 11 3 10 30.0 1 4 25.0 4 4 100.0 2 4 6 1 0 0 2 2 1
+p251
+aVHakim Warrick PHX 03/15/2012 PHX @ LAC W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 3 0 -3
+p252
+aVRonnie Price PHX 03/15/2012 PHX @ LAC W 14 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 2 2 0 0 1 10
+p253
+aVMichael Redd PHX 03/15/2012 PHX @ LAC W 19 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 0 4
+p254
+aVMichael Redd PHX 03/14/2012 PHX vs. UTA W 9 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -6
+p255
+aVShannon Brown PHX 03/14/2012 PHX vs. UTA W 17 5 2 5 40.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 0 -14
+p256
+aVSebastian Telfair PHX 03/14/2012 PHX vs. UTA W 12 8 4 5 80.0 0 1 0.0 0 1 0.0 0 1 1 2 2 0 2 3 -9
+p257
+aVSteve Nash PHX 03/14/2012 PHX vs. UTA W 36 12 2 4 50.0 0 0 - 8 8 100.0 1 3 4 16 0 0 5 2 18
+p258
+aVJared Dudley PHX 03/14/2012 PHX vs. UTA W 35 21 6 13 46.2 4 6 66.7 5 7 71.4 0 4 4 2 2 0 0 1 21
+p259
+aVRobin Lopez PHX 03/14/2012 PHX vs. UTA W 14 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 0 0 1 0 3 -10
+p260
+aVHakim Warrick PHX 03/14/2012 PHX vs. UTA W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -16
+p261
+aVChanning Frye PHX 03/14/2012 PHX vs. UTA W 38 26 10 18 55.6 5 10 50.0 1 1 100.0 1 8 9 2 1 4 2 2 25
+p262
+aVMarcin Gortat PHX 03/14/2012 PHX vs. UTA W 34 25 10 12 83.3 0 1 0.0 5 10 50.0 0 5 5 1 1 0 2 2 19
+p263
+aVGrant Hill PHX 03/14/2012 PHX vs. UTA W 35 12 5 10 50.0 0 0 - 2 3 66.7 1 6 7 3 2 1 0 0 17
+p264
+aVShannon Brown PHX 03/12/2012 PHX vs. MIN L 28 11 4 13 30.8 0 3 0.0 3 3 100.0 3 2 5 3 0 0 0 2 -10
+p265
+aVMarcin Gortat PHX 03/12/2012 PHX vs. MIN L 20 8 3 6 50.0 0 0 - 2 6 33.3 1 3 4 0 1 0 0 4 9
+p266
+aVChanning Frye PHX 03/12/2012 PHX vs. MIN L 32 18 7 11 63.6 4 6 66.7 0 0 - 0 5 5 4 2 1 2 4 7
+p267
+aVMarkieff Morris PHX 03/12/2012 PHX vs. MIN L 20 4 2 8 25.0 0 3 0.0 0 0 - 1 4 5 0 1 1 0 2 -8
+p268
+aVSteve Nash PHX 03/12/2012 PHX vs. MIN L 32 25 10 16 62.5 2 3 66.7 3 3 100.0 1 2 3 10 0 0 0 2 1
+p269
+aVGrant Hill PHX 03/12/2012 PHX vs. MIN L 32 10 4 9 44.4 0 0 - 2 2 100.0 1 1 2 4 1 0 1 0 3
+p270
+aVSebastian Telfair PHX 03/12/2012 PHX vs. MIN L 16 10 4 6 66.7 1 1 100.0 1 1 100.0 0 1 1 2 1 1 1 2 -4
+p271
+aVJared Dudley PHX 03/12/2012 PHX vs. MIN L 36 28 10 15 66.7 2 5 40.0 6 6 100.0 2 7 9 1 1 1 1 1 1
+p272
+aVRobin Lopez PHX 03/12/2012 PHX vs. MIN L 24 10 2 5 40.0 0 0 - 6 8 75.0 1 2 3 0 0 3 2 2 -14
+p273
+aVRobin Lopez PHX 03/10/2012 PHX vs. MEM W 17 11 5 12 41.7 0 0 - 1 2 50.0 6 1 7 0 1 3 1 1 -1
+p274
+aVGrant Hill PHX 03/10/2012 PHX vs. MEM W 37 14 7 14 50.0 0 0 - 0 0 - 1 5 6 2 1 1 0 1 8
+p275
+aVMichael Redd PHX 03/10/2012 PHX vs. MEM W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -8
+p276
+aVChanning Frye PHX 03/10/2012 PHX vs. MEM W 30 10 4 9 44.4 0 1 0.0 2 2 100.0 0 6 6 1 0 0 2 2 9
+p277
+aVJared Dudley PHX 03/10/2012 PHX vs. MEM W 35 19 9 16 56.3 1 5 20.0 0 0 - 3 4 7 2 0 1 4 3 8
+p278
+aVHakim Warrick PHX 03/10/2012 PHX vs. MEM W 15 5 1 4 25.0 0 0 - 3 4 75.0 1 4 5 2 0 0 0 0 6
+p279
+aVSteve Nash PHX 03/10/2012 PHX vs. MEM W 35 11 4 6 66.7 1 1 100.0 2 2 100.0 0 2 2 15 0 0 5 1 13
+p280
+aVShannon Brown PHX 03/10/2012 PHX vs. MEM W 20 8 3 6 50.0 1 1 100.0 1 1 100.0 2 4 6 1 0 1 0 1 6
+p281
+aVSebastian Telfair PHX 03/10/2012 PHX vs. MEM W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 -6
+p282
+aVMarkieff Morris PHX 03/10/2012 PHX vs. MEM W 3 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -8
+p283
+aVMarcin Gortat PHX 03/10/2012 PHX vs. MEM W 31 15 6 9 66.7 0 0 - 3 4 75.0 2 7 9 0 2 0 1 3 8
+p284
+aVMarcin Gortat PHX 03/08/2012 PHX vs. DAL W 33 16 7 14 50.0 0 0 - 2 2 100.0 1 11 12 2 0 1 5 1 -1
+p285
+aVMarkieff Morris PHX 03/08/2012 PHX vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p286
+aVSebastian Telfair PHX 03/08/2012 PHX vs. DAL W 13 5 2 5 40.0 1 4 25.0 0 0 - 0 4 4 3 0 0 0 0 4
+p287
+aVShannon Brown PHX 03/08/2012 PHX vs. DAL W 18 7 3 8 37.5 0 1 0.0 1 1 100.0 1 2 3 0 0 0 0 0 3
+p288
+aVChanning Frye PHX 03/08/2012 PHX vs. DAL W 32 5 2 8 25.0 0 2 0.0 1 1 100.0 1 2 3 5 2 1 0 4 -2
+p289
+aVHakim Warrick PHX 03/08/2012 PHX vs. DAL W 17 9 1 5 20.0 0 0 - 7 10 70.0 4 0 4 0 1 0 0 0 13
+p290
+aVJared Dudley PHX 03/08/2012 PHX vs. DAL W 37 18 7 12 58.3 2 5 40.0 2 4 50.0 1 7 8 0 0 3 1 3 0
+p291
+aVSteve Nash PHX 03/08/2012 PHX vs. DAL W 35 11 4 7 57.1 0 2 0.0 3 3 100.0 0 3 3 11 1 0 1 0 -2
+p292
+aVGrant Hill PHX 03/08/2012 PHX vs. DAL W 36 15 7 12 58.3 0 0 - 1 4 25.0 0 5 5 2 1 1 0 5 4
+p293
+aVRobin Lopez PHX 03/08/2012 PHX vs. DAL W 8 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p294
+aVMichael Redd PHX 03/08/2012 PHX vs. DAL W 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -3
+p295
+aVRobin Lopez PHX 03/07/2012 PHX @ OKC L 8 3 0 1 0.0 0 0 - 3 4 75.0 2 1 3 0 0 0 0 1 -7
+p296
+aVMichael Redd PHX 03/07/2012 PHX @ OKC L 11 8 3 9 33.3 0 4 0.0 2 2 100.0 0 4 4 1 0 0 2 0 -15
+p297
+aVShannon Brown PHX 03/07/2012 PHX @ OKC L 26 12 5 12 41.7 0 3 0.0 2 3 66.7 1 1 2 2 0 0 1 2 -16
+p298
+aVJared Dudley PHX 03/07/2012 PHX @ OKC L 38 17 7 16 43.8 1 5 20.0 2 4 50.0 4 7 11 1 2 0 2 1 -4
+p299
+aVChanning Frye PHX 03/07/2012 PHX @ OKC L 29 13 5 9 55.6 2 4 50.0 1 1 100.0 1 7 8 2 0 0 3 4 14
+p300
+aVMarcin Gortat PHX 03/07/2012 PHX @ OKC L 40 28 9 19 47.4 0 0 - 10 13 76.9 5 6 11 2 1 3 4 3 -4
+p301
+aVGrant Hill PHX 03/07/2012 PHX @ OKC L 27 10 3 5 60.0 0 1 0.0 4 4 100.0 0 3 3 2 1 1 3 5 1
+p302
+aVSteve Nash PHX 03/07/2012 PHX @ OKC L 39 12 6 9 66.7 0 1 0.0 0 1 0.0 0 2 2 13 0 0 1 1 -3
+p303
+aVMarkieff Morris PHX 03/07/2012 PHX @ OKC L 13 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 2 0 3 1 2 -13
+p304
+aVSebastian Telfair PHX 03/07/2012 PHX @ OKC L 9 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 3 0 0 1 4 -8
+p305
+aVJared Dudley PHX 03/04/2012 PHX vs. SAC W 37 14 6 10 60.0 1 2 50.0 1 2 50.0 2 4 6 2 0 1 2 2 14
+p306
+aVGrant Hill PHX 03/04/2012 PHX vs. SAC W 31 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 4 0 0 2 1 8
+p307
+aVRobin Lopez PHX 03/04/2012 PHX vs. SAC W 18 7 3 7 42.9 0 0 - 1 2 50.0 3 2 5 1 0 2 0 1 5
+p308
+aVSteve Nash PHX 03/04/2012 PHX vs. SAC W 33 19 8 13 61.5 2 2 100.0 1 1 100.0 1 2 3 7 0 0 3 0 5
+p309
+aVShannon Brown PHX 03/04/2012 PHX vs. SAC W 21 13 5 11 45.5 2 3 66.7 1 1 100.0 0 1 1 0 1 0 2 3 -2
+p310
+aVChanning Frye PHX 03/04/2012 PHX vs. SAC W 29 11 3 12 25.0 0 1 0.0 5 6 83.3 2 8 10 0 0 2 3 2 6
+p311
+aVSebastian Telfair PHX 03/04/2012 PHX vs. SAC W 15 8 4 8 50.0 0 0 - 0 0 - 2 2 4 1 1 2 0 1 3
+p312
+aVMichael Redd PHX 03/04/2012 PHX vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p313
+aVMarkieff Morris PHX 03/04/2012 PHX vs. SAC W 18 2 0 7 0.0 0 3 0.0 2 2 100.0 1 5 6 1 0 0 1 3 2
+p314
+aVMarcin Gortat PHX 03/04/2012 PHX vs. SAC W 30 14 7 11 63.6 0 0 - 0 2 0.0 3 14 17 1 1 2 2 3 3
+p315
+aVGrant Hill PHX 03/02/2012 PHX vs. LAC W 35 14 6 10 60.0 0 0 - 2 6 33.3 1 1 2 3 0 2 0 1 10
+p316
+aVSteve Nash PHX 03/02/2012 PHX vs. LAC W 34 6 1 4 25.0 1 3 33.3 3 3 100.0 0 5 5 6 0 1 7 0 10
+p317
+aVShannon Brown PHX 03/02/2012 PHX vs. LAC W 18 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 -11
+p318
+aVChanning Frye PHX 03/02/2012 PHX vs. LAC W 35 6 2 18 11.1 1 4 25.0 1 2 50.0 3 11 14 0 1 1 0 4 6
+p319
+aVRobin Lopez PHX 03/02/2012 PHX vs. LAC W 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p320
+aVMarcin Gortat PHX 03/02/2012 PHX vs. LAC W 32 18 6 11 54.5 0 0 - 6 10 60.0 5 9 14 2 0 2 1 2 23
+p321
+aVMarkieff Morris PHX 03/02/2012 PHX vs. LAC W 16 3 1 8 12.5 1 3 33.3 0 0 - 2 2 4 2 0 0 1 4 -10
+p322
+aVMichael Redd PHX 03/02/2012 PHX vs. LAC W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -7
+p323
+aVJared Dudley PHX 03/02/2012 PHX vs. LAC W 36 22 7 14 50.0 3 4 75.0 5 6 83.3 4 3 7 4 1 1 0 1 14
+p324
+aVSebastian Telfair PHX 03/02/2012 PHX vs. LAC W 14 4 1 4 25.0 1 3 33.3 1 2 50.0 0 2 2 2 0 1 2 1 -7
+p325
+aVGrant Hill PHX 03/01/2012 PHX vs. MIN W 37 20 8 12 66.7 0 0 - 4 4 100.0 2 3 5 2 0 1 1 2 1
+p326
+aVSebastian Telfair PHX 03/01/2012 PHX vs. MIN W 14 5 2 3 66.7 0 0 - 1 4 25.0 1 2 3 1 2 0 2 3 0
+p327
+aVSteve Nash PHX 03/01/2012 PHX vs. MIN W 34 13 6 13 46.2 1 3 33.3 0 0 - 0 8 8 17 1 0 5 3 9
+p328
+aVHakim Warrick PHX 03/01/2012 PHX vs. MIN W 8 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -4
+p329
+aVMarcin Gortat PHX 03/01/2012 PHX vs. MIN W 35 17 6 10 60.0 0 0 - 5 5 100.0 3 3 6 0 1 2 1 2 7
+p330
+aVShannon Brown PHX 03/01/2012 PHX vs. MIN W 25 12 6 11 54.5 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 8
+p331
+aVMarkieff Morris PHX 03/01/2012 PHX vs. MIN W 17 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 2 0 1 5 4
+p332
+aVChanning Frye PHX 03/01/2012 PHX vs. MIN W 23 14 5 10 50.0 2 3 66.7 2 2 100.0 2 3 5 1 0 2 2 4 9
+p333
+aVJared Dudley PHX 03/01/2012 PHX vs. MIN W 34 12 6 11 54.5 0 1 0.0 0 0 - 1 6 7 3 0 0 1 3 9
+p334
+aVRobin Lopez PHX 03/01/2012 PHX vs. MIN W 13 4 0 1 0.0 0 0 - 4 4 100.0 2 4 6 1 0 2 1 4 2
+p335
+aVChanning Frye PHX 02/22/2012 PHX vs. GSW L 38 22 10 23 43.5 2 8 25.0 0 0 - 7 2 9 0 3 1 0 3 -1
+p336
+aVMichael Redd PHX 02/22/2012 PHX vs. GSW L 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 4 0 0 1 1 3
+p337
+aVMarcin Gortat PHX 02/22/2012 PHX vs. GSW L 41 21 9 13 69.2 0 0 - 3 3 100.0 5 10 15 1 1 1 0 4 -4
+p338
+aVMarkieff Morris PHX 02/22/2012 PHX vs. GSW L 10 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 0 0 0 0 2 1
+p339
+aVSebastian Telfair PHX 02/22/2012 PHX vs. GSW L 14 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 4
+p340
+aVSteve Nash PHX 02/22/2012 PHX vs. GSW L 34 7 2 4 50.0 1 2 50.0 2 3 66.7 0 5 5 9 0 0 5 1 -8
+p341
+aVGrant Hill PHX 02/22/2012 PHX vs. GSW L 32 16 6 16 37.5 0 1 0.0 4 6 66.7 1 2 3 6 1 1 1 2 -5
+p342
+aVRobin Lopez PHX 02/22/2012 PHX vs. GSW L 7 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 2
+p343
+aVShannon Brown PHX 02/22/2012 PHX vs. GSW L 18 8 3 7 42.9 0 1 0.0 2 3 66.7 2 2 4 0 0 0 0 1 8
+p344
+aVJared Dudley PHX 02/22/2012 PHX vs. GSW L 30 17 7 13 53.8 0 4 0.0 3 5 60.0 4 1 5 3 0 0 2 1 -10
+p345
+aVMarkieff Morris PHX 02/20/2012 PHX vs. WAS W 25 6 2 8 25.0 0 2 0.0 2 2 100.0 1 4 5 0 0 0 1 4 -2
+p346
+aVShannon Brown PHX 02/20/2012 PHX vs. WAS W 20 5 2 7 28.6 1 3 33.3 0 0 - 1 0 1 1 1 0 2 1 -8
+p347
+aVRobin Lopez PHX 02/20/2012 PHX vs. WAS W 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 -2
+p348
+aVSebastian Telfair PHX 02/20/2012 PHX vs. WAS W 20 8 4 6 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -8
+p349
+aVJared Dudley PHX 02/20/2012 PHX vs. WAS W 26 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 1 2 0 2 1 15
+p350
+aVMichael Redd PHX 02/20/2012 PHX vs. WAS W 22 14 4 9 44.4 2 4 50.0 4 4 100.0 1 3 4 3 0 0 1 1 1
+p351
+aVChanning Frye PHX 02/20/2012 PHX vs. WAS W 32 19 6 9 66.7 4 7 57.1 3 4 75.0 2 9 11 0 0 2 1 4 17
+p352
+aVGrant Hill PHX 02/20/2012 PHX vs. WAS W 28 11 3 12 25.0 0 1 0.0 5 6 83.3 0 5 5 2 1 0 0 1 24
+p353
+aVMarcin Gortat PHX 02/20/2012 PHX vs. WAS W 34 20 9 14 64.3 0 0 - 2 4 50.0 1 6 7 1 2 1 2 2 19
+p354
+aVSteve Nash PHX 02/20/2012 PHX vs. WAS W 28 12 3 6 50.0 0 2 0.0 6 7 85.7 1 6 7 11 2 1 3 0 24
+p355
+aVMarkieff Morris PHX 02/19/2012 PHX vs. LAL W 21 10 2 11 18.2 1 3 33.3 5 6 83.3 3 5 8 2 1 2 1 2 -8
+p356
+aVMarcin Gortat PHX 02/19/2012 PHX vs. LAL W 42 21 9 15 60.0 0 0 - 3 5 60.0 3 12 15 1 1 0 2 2 15
+p357
+aVShannon Brown PHX 02/19/2012 PHX vs. LAL W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 1 -1
+p358
+aVMichael Redd PHX 02/19/2012 PHX vs. LAL W 14 6 2 8 25.0 0 3 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -11
+p359
+aVJared Dudley PHX 02/19/2012 PHX vs. LAL W 34 25 9 15 60.0 2 6 33.3 5 6 83.3 1 2 3 4 1 2 0 0 21
+p360
+aVSebastian Telfair PHX 02/19/2012 PHX vs. LAL W 12 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -6
+p361
+aVRobin Lopez PHX 02/19/2012 PHX vs. LAL W 5 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 1 1 0 2 -1
+p362
+aVGrant Hill PHX 02/19/2012 PHX vs. LAL W 36 15 5 13 38.5 1 1 100.0 4 4 100.0 1 2 3 2 1 1 2 4 15
+p363
+aVSteve Nash PHX 02/19/2012 PHX vs. LAL W 37 8 2 8 25.0 0 2 0.0 4 4 100.0 0 2 2 14 1 0 3 1 18
+p364
+aVChanning Frye PHX 02/19/2012 PHX vs. LAL W 28 13 4 7 57.1 3 4 75.0 2 3 66.7 0 6 6 0 3 0 0 5 18
+p365
+aVChanning Frye PHX 02/17/2012 PHX @ LAL L 20 5 2 9 22.2 1 3 33.3 0 0 - 0 6 6 2 1 2 1 3 -3
+p366
+aVSebastian Telfair PHX 02/17/2012 PHX @ LAL L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 -6
+p367
+aVJared Dudley PHX 02/17/2012 PHX @ LAL L 23 8 4 9 44.4 0 2 0.0 0 0 - 0 2 2 0 1 0 2 2 -1
+p368
+aVMichael Redd PHX 02/17/2012 PHX @ LAL L 19 9 4 9 44.4 1 4 25.0 0 2 0.0 0 1 1 3 1 0 2 0 -11
+p369
+aVSteve Nash PHX 02/17/2012 PHX @ LAL L 36 11 4 11 36.4 2 5 40.0 1 2 50.0 1 2 3 17 2 0 7 0 -6
+p370
+aVJosh Childress PHX 02/17/2012 PHX @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -11
+p371
+aVMarcin Gortat PHX 02/17/2012 PHX @ LAL L 42 21 9 16 56.3 0 0 - 3 3 100.0 3 13 16 1 2 0 1 3 -1
+p372
+aVGrant Hill PHX 02/17/2012 PHX @ LAL L 28 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 4 1 1 1 4 3
+p373
+aVHakim Warrick PHX 02/17/2012 PHX @ LAL L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 2 -7
+p374
+aVShannon Brown PHX 02/17/2012 PHX @ LAL L 20 15 6 11 54.5 2 5 40.0 1 1 100.0 1 0 1 0 0 0 0 3 -4
+p375
+aVMarkieff Morris PHX 02/17/2012 PHX @ LAL L 24 14 6 13 46.2 2 5 40.0 0 1 0.0 0 4 4 2 3 2 0 4 -2
+p376
+aVRobin Lopez PHX 02/17/2012 PHX @ LAL L 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -11
+p377
+aVRobin Lopez PHX 02/15/2012 PHX vs. ATL L 8 5 2 2 100.0 0 0 - 1 4 25.0 0 0 0 0 0 0 2 3 -7
+p378
+aVChanning Frye PHX 02/15/2012 PHX vs. ATL L 33 13 6 13 46.2 1 3 33.3 0 0 - 2 9 11 2 1 2 2 3 7
+p379
+aVRonnie Price PHX 02/15/2012 PHX vs. ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 3 0 -3
+p380
+aVJared Dudley PHX 02/15/2012 PHX vs. ATL L 34 11 4 6 66.7 2 4 50.0 1 2 50.0 0 3 3 0 0 0 2 1 5
+p381
+aVSebastian Telfair PHX 02/15/2012 PHX vs. ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 1
+p382
+aVMichael Redd PHX 02/15/2012 PHX vs. ATL L 15 9 3 8 37.5 0 3 0.0 3 3 100.0 0 3 3 1 0 0 3 1 -5
+p383
+aVJosh Childress PHX 02/15/2012 PHX vs. ATL L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -9
+p384
+aVSteve Nash PHX 02/15/2012 PHX vs. ATL L 39 22 7 14 50.0 1 4 25.0 7 8 87.5 0 4 4 16 1 0 4 0 0
+p385
+aVMarkieff Morris PHX 02/15/2012 PHX vs. ATL L 20 8 2 3 66.7 1 1 100.0 3 4 75.0 0 5 5 0 1 1 1 6 -10
+p386
+aVMarcin Gortat PHX 02/15/2012 PHX vs. ATL L 35 13 5 12 41.7 0 0 - 3 4 75.0 3 3 6 1 3 2 0 0 4
+p387
+aVGrant Hill PHX 02/15/2012 PHX vs. ATL L 37 18 8 11 72.7 1 2 50.0 1 2 50.0 0 6 6 2 1 0 2 1 7
+p388
+aVJosh Childress PHX 02/14/2012 PHX @ DEN L 19 2 1 6 16.7 0 1 0.0 0 0 - 3 2 5 3 1 0 0 0 -4
+p389
+aVMichael Redd PHX 02/14/2012 PHX @ DEN L 27 20 7 15 46.7 3 6 50.0 3 3 100.0 2 4 6 0 1 0 3 0 -9
+p390
+aVChanning Frye PHX 02/14/2012 PHX @ DEN L 17 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 1 1 1 0 3 -6
+p391
+aVHakim Warrick PHX 02/14/2012 PHX @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p392
+aVRobin Lopez PHX 02/14/2012 PHX @ DEN L 13 2 0 7 0.0 0 0 - 2 2 100.0 0 1 1 0 2 1 1 3 4
+p393
+aVRonnie Price PHX 02/14/2012 PHX @ DEN L 33 10 2 11 18.2 1 3 33.3 5 6 83.3 0 3 3 6 2 0 5 4 -6
+p394
+aVSebastian Telfair PHX 02/14/2012 PHX @ DEN L 16 6 3 8 37.5 0 3 0.0 0 0 - 1 0 1 3 0 0 1 3 -12
+p395
+aVJared Dudley PHX 02/14/2012 PHX @ DEN L 27 6 3 8 37.5 0 1 0.0 0 0 - 1 5 6 2 0 0 4 3 -12
+p396
+aVMarkieff Morris PHX 02/14/2012 PHX @ DEN L 29 21 8 16 50.0 2 4 50.0 3 4 75.0 5 1 6 1 4 2 0 6 -8
+p397
+aVShannon Brown PHX 02/14/2012 PHX @ DEN L 23 8 2 11 18.2 2 4 50.0 2 2 100.0 2 0 2 1 2 1 2 0 -9
+p398
+aVMarcin Gortat PHX 02/14/2012 PHX @ DEN L 32 10 4 13 30.8 0 0 - 2 2 100.0 4 10 14 3 1 1 2 3 -17
+p399
+aVJosh Childress PHX 02/13/2012 PHX @ GSW L 14 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -8
+p400
+aVSebastian Telfair PHX 02/13/2012 PHX @ GSW L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 1 1
+p401
+aVRobin Lopez PHX 02/13/2012 PHX @ GSW L 5 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -1
+p402
+aVGrant Hill PHX 02/13/2012 PHX @ GSW L 34 10 4 6 66.7 2 2 100.0 0 0 - 2 3 5 5 1 1 3 3 0
+p403
+aVMarcin Gortat PHX 02/13/2012 PHX @ GSW L 37 25 11 17 64.7 0 0 - 3 6 50.0 4 8 12 0 0 2 0 2 1
+p404
+aVSteve Nash PHX 02/13/2012 PHX @ GSW L 36 7 3 6 50.0 0 3 0.0 1 1 100.0 0 3 3 14 2 0 4 2 0
+p405
+aVMarkieff Morris PHX 02/13/2012 PHX @ GSW L 21 10 4 11 36.4 1 4 25.0 1 2 50.0 2 2 4 1 0 1 1 1 -8
+p406
+aVMichael Redd PHX 02/13/2012 PHX @ GSW L 16 9 2 6 33.3 0 2 0.0 5 5 100.0 0 1 1 2 0 0 2 0 -6
+p407
+aVJared Dudley PHX 02/13/2012 PHX @ GSW L 32 11 4 9 44.4 1 5 20.0 2 2 100.0 0 3 3 2 0 0 1 1 0
+p408
+aVRonnie Price PHX 02/13/2012 PHX @ GSW L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -8
+p409
+aVChanning Frye PHX 02/13/2012 PHX @ GSW L 32 18 7 17 41.2 1 8 12.5 3 3 100.0 0 5 5 4 1 1 0 4 -1
+p410
+aVGrant Hill PHX 02/11/2012 PHX @ SAC W 33 7 3 7 42.9 0 2 0.0 1 2 50.0 1 4 5 1 1 1 1 3 13
+p411
+aVRonnie Price PHX 02/11/2012 PHX @ SAC W 13 6 3 3 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -3
+p412
+aVJared Dudley PHX 02/11/2012 PHX @ SAC W 37 20 8 13 61.5 3 6 50.0 1 1 100.0 2 8 10 1 2 2 5 1 12
+p413
+aVMarcin Gortat PHX 02/11/2012 PHX @ SAC W 36 15 6 9 66.7 0 0 - 3 4 75.0 1 6 7 1 0 4 1 5 12
+p414
+aVChanning Frye PHX 02/11/2012 PHX @ SAC W 27 17 6 12 50.0 3 5 60.0 2 2 100.0 0 0 0 2 1 1 0 4 11
+p415
+aVSebastian Telfair PHX 02/11/2012 PHX @ SAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 4 1 0 0 0 1
+p416
+aVRobin Lopez PHX 02/11/2012 PHX @ SAC W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 1
+p417
+aVMarkieff Morris PHX 02/11/2012 PHX @ SAC W 26 18 7 13 53.8 1 5 20.0 3 4 75.0 2 4 6 0 1 3 0 4 4
+p418
+aVJosh Childress PHX 02/11/2012 PHX @ SAC W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p419
+aVSteve Nash PHX 02/11/2012 PHX @ SAC W 29 4 2 7 28.6 0 1 0.0 0 0 - 0 4 4 15 0 0 5 0 14
+p420
+aVMichael Redd PHX 02/11/2012 PHX @ SAC W 18 9 3 11 27.3 1 4 25.0 2 2 100.0 0 1 1 1 1 0 1 0 4
+p421
+aVSebastian Telfair PHX 02/09/2012 PHX vs. HOU L 13 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 1 1 0 1 2 -19
+p422
+aVMarkieff Morris PHX 02/09/2012 PHX vs. HOU L 6 2 1 2 50.0 0 1 0.0 0 2 0.0 0 2 2 0 0 0 0 0 -7
+p423
+aVJared Dudley PHX 02/09/2012 PHX vs. HOU L 35 14 6 11 54.5 2 3 66.7 0 0 - 0 1 1 4 1 0 0 5 3
+p424
+aVGrant Hill PHX 02/09/2012 PHX vs. HOU L 31 11 4 7 57.1 1 2 50.0 2 2 100.0 0 6 6 4 1 0 2 1 12
+p425
+aVRobin Lopez PHX 02/09/2012 PHX vs. HOU L 6 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -14
+p426
+aVMichael Redd PHX 02/09/2012 PHX vs. HOU L 19 11 4 10 40.0 2 7 28.6 1 1 100.0 0 0 0 1 0 0 1 0 -12
+p427
+aVMarcin Gortat PHX 02/09/2012 PHX vs. HOU L 41 16 5 10 50.0 0 0 - 6 10 60.0 2 7 9 0 0 1 3 2 9
+p428
+aVChanning Frye PHX 02/09/2012 PHX vs. HOU L 42 21 8 17 47.1 4 9 44.4 1 1 100.0 1 9 10 1 2 2 2 3 0
+p429
+aVJosh Childress PHX 02/09/2012 PHX vs. HOU L 13 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 0 0 -19
+p430
+aVSteve Nash PHX 02/09/2012 PHX vs. HOU L 35 14 7 7 100.0 0 0 - 0 0 - 0 1 1 13 1 0 4 0 12
+p431
+aVMarcin Gortat PHX 02/07/2012 PHX @ MIL W 37 21 8 12 66.7 0 0 - 5 5 100.0 5 4 9 2 1 0 4 3 11
+p432
+aVJared Dudley PHX 02/07/2012 PHX @ MIL W 28 19 7 9 77.8 3 4 75.0 2 2 100.0 1 3 4 3 0 0 0 3 19
+p433
+aVMichael Redd PHX 02/07/2012 PHX @ MIL W 20 14 7 14 50.0 0 4 0.0 0 0 - 1 3 4 0 0 0 2 0 -17
+p434
+aVGrant Hill PHX 02/07/2012 PHX @ MIL W 32 13 5 12 41.7 2 4 50.0 1 1 100.0 0 4 4 5 1 0 0 1 17
+p435
+aVChanning Frye PHX 02/07/2012 PHX @ MIL W 28 14 6 12 50.0 2 6 33.3 0 0 - 2 3 5 1 0 2 1 5 17
+p436
+aVRobin Lopez PHX 02/07/2012 PHX @ MIL W 11 6 3 9 33.3 0 0 - 0 0 - 2 0 2 0 0 1 0 1 -9
+p437
+aVSebastian Telfair PHX 02/07/2012 PHX @ MIL W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -8
+p438
+aVRonnie Price PHX 02/07/2012 PHX @ MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -4
+p439
+aVSteve Nash PHX 02/07/2012 PHX @ MIL W 35 18 8 13 61.5 2 4 50.0 0 0 - 0 3 3 11 1 0 4 1 14
+p440
+aVMarkieff Morris PHX 02/07/2012 PHX @ MIL W 20 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 2 2 1 0 0 -15
+p441
+aVJosh Childress PHX 02/07/2012 PHX @ MIL W 16 0 0 4 0.0 0 1 0.0 0 0 - 5 7 12 3 0 0 0 0 -15
+p442
+aVJared Dudley PHX 02/06/2012 PHX @ ATL W 28 10 4 7 57.1 1 3 33.3 1 1 100.0 0 1 1 1 0 0 2 1 -3
+p443
+aVMichael Redd PHX 02/06/2012 PHX @ ATL W 20 10 3 9 33.3 1 4 25.0 3 4 75.0 1 0 1 0 0 0 0 0 12
+p444
+aVMarcin Gortat PHX 02/06/2012 PHX @ ATL W 35 8 4 10 40.0 0 0 - 0 0 - 3 6 9 1 0 1 1 2 16
+p445
+aVJosh Childress PHX 02/06/2012 PHX @ ATL W 18 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 7
+p446
+aVRobin Lopez PHX 02/06/2012 PHX @ ATL W 13 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -7
+p447
+aVSteve Nash PHX 02/06/2012 PHX @ ATL W 31 24 9 12 75.0 4 4 100.0 2 2 100.0 0 4 4 11 0 0 4 0 9
+p448
+aVMarkieff Morris PHX 02/06/2012 PHX @ ATL W 20 7 3 5 60.0 1 1 100.0 0 0 - 0 7 7 1 1 3 0 3 11
+p449
+aVChanning Frye PHX 02/06/2012 PHX @ ATL W 28 19 8 16 50.0 3 8 37.5 0 0 - 1 8 9 1 0 2 1 3 -2
+p450
+aVSebastian Telfair PHX 02/06/2012 PHX @ ATL W 17 9 4 7 57.1 1 2 50.0 0 0 - 1 2 3 3 1 1 3 4 0
+p451
+aVGrant Hill PHX 02/06/2012 PHX @ ATL W 30 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 5 0 1 2 1 2
+p452
+aVMichael Redd PHX 02/04/2012 PHX vs. CHA W 23 17 6 12 50.0 4 7 57.1 1 2 50.0 0 2 2 0 0 0 0 0 1
+p453
+aVRonnie Price PHX 02/04/2012 PHX vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 0
+p454
+aVSteve Nash PHX 02/04/2012 PHX vs. CHA W 33 11 4 8 50.0 1 2 50.0 2 2 100.0 1 2 3 10 0 1 4 2 -5
+p455
+aVRobin Lopez PHX 02/04/2012 PHX vs. CHA W 20 13 4 8 50.0 0 0 - 5 5 100.0 2 4 6 0 1 1 0 3 7
+p456
+aVMarcin Gortat PHX 02/04/2012 PHX vs. CHA W 28 12 5 11 45.5 0 0 - 2 4 50.0 5 7 12 3 0 1 0 0 -1
+p457
+aVSebastian Telfair PHX 02/04/2012 PHX vs. CHA W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 4 1 0 0 3 11
+p458
+aVJosh Childress PHX 02/04/2012 PHX vs. CHA W 18 7 3 5 60.0 1 1 100.0 0 0 - 1 4 5 0 0 0 0 3 3
+p459
+aVShannon Brown PHX 02/04/2012 PHX vs. CHA W 23 9 3 10 30.0 1 1 100.0 2 4 50.0 0 3 3 0 1 0 0 1 10
+p460
+aVChanning Frye PHX 02/04/2012 PHX vs. CHA W 21 6 3 9 33.3 0 2 0.0 0 0 - 0 4 4 0 0 0 0 0 7
+p461
+aVGrant Hill PHX 02/04/2012 PHX vs. CHA W 28 9 3 6 50.0 1 2 50.0 2 2 100.0 1 1 2 1 1 2 1 0 -2
+p462
+aVMarkieff Morris PHX 02/04/2012 PHX vs. CHA W 27 11 3 13 23.1 2 5 40.0 3 5 60.0 2 6 8 2 1 0 2 2 -1
+p463
+aVChanning Frye PHX 02/03/2012 PHX @ HOU L 18 4 1 7 14.3 0 2 0.0 2 2 100.0 0 2 2 0 0 2 1 2 -8
+p464
+aVRonnie Price PHX 02/03/2012 PHX @ HOU L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 0 1 3 -1
+p465
+aVShannon Brown PHX 02/03/2012 PHX @ HOU L 22 12 6 11 54.5 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -11
+p466
+aVMarcin Gortat PHX 02/03/2012 PHX @ HOU L 34 15 7 11 63.6 0 0 - 1 2 50.0 2 10 12 0 2 3 2 2 -15
+p467
+aVRobin Lopez PHX 02/03/2012 PHX @ HOU L 8 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 0 1 0 0 3
+p468
+aVGrant Hill PHX 02/03/2012 PHX @ HOU L 23 7 3 9 33.3 0 1 0.0 1 2 50.0 0 0 0 3 0 0 2 0 -3
+p469
+aVHakim Warrick PHX 02/03/2012 PHX @ HOU L 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -7
+p470
+aVJared Dudley PHX 02/03/2012 PHX @ HOU L 27 15 5 10 50.0 2 4 50.0 3 4 75.0 2 3 5 0 3 0 0 1 -12
+p471
+aVSteve Nash PHX 02/03/2012 PHX @ HOU L 25 6 2 5 40.0 2 4 50.0 0 0 - 0 5 5 9 1 0 4 0 -6
+p472
+aVMichael Redd PHX 02/03/2012 PHX @ HOU L 7 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 1 1 0 1 0 3
+p473
+aVSebastian Telfair PHX 02/03/2012 PHX @ HOU L 20 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 1 1 0 4 2 -10
+p474
+aVMarkieff Morris PHX 02/03/2012 PHX @ HOU L 19 7 3 10 30.0 0 2 0.0 1 2 50.0 2 2 4 2 1 0 0 1 -5
+p475
+aVJosh Childress PHX 02/03/2012 PHX @ HOU L 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -18
+p476
+aVMarkieff Morris PHX 02/01/2012 PHX @ NOH W 10 5 2 7 28.6 1 2 50.0 0 0 - 1 0 1 1 0 1 0 2 -5
+p477
+aVRonnie Price PHX 02/01/2012 PHX @ NOH W 15 8 3 7 42.9 1 3 33.3 1 1 100.0 0 2 2 2 0 0 0 1 19
+p478
+aVHakim Warrick PHX 02/01/2012 PHX @ NOH W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 2
+p479
+aVSteve Nash PHX 02/01/2012 PHX @ NOH W 29 30 13 16 81.3 1 1 100.0 3 3 100.0 0 2 2 10 1 1 1 1 29
+p480
+aVJosh Childress PHX 02/01/2012 PHX @ NOH W 21 8 4 4 100.0 0 0 - 0 2 0.0 2 2 4 1 0 0 0 1 5
+p481
+aVChanning Frye PHX 02/01/2012 PHX @ NOH W 33 16 5 9 55.6 1 3 33.3 5 5 100.0 1 6 7 1 1 2 0 5 19
+p482
+aVSebastian Telfair PHX 02/01/2012 PHX @ NOH W 19 9 3 8 37.5 1 2 50.0 2 3 66.7 0 1 1 3 2 0 2 3 -14
+p483
+aVJared Dudley PHX 02/01/2012 PHX @ NOH W 36 15 3 9 33.3 1 2 50.0 8 9 88.9 0 3 3 2 3 0 0 0 17
+p484
+aVRobin Lopez PHX 02/01/2012 PHX @ NOH W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -1
+p485
+aVGrant Hill PHX 02/01/2012 PHX @ NOH W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p486
+aVMarcin Gortat PHX 02/01/2012 PHX @ NOH W 38 23 6 10 60.0 0 0 - 11 14 78.6 3 8 11 2 1 1 3 2 19
+p487
+aVShannon Brown PHX 02/01/2012 PHX @ NOH W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 1 0 0
+p488
+aVMichael Redd PHX 01/30/2012 PHX vs. DAL L 7 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p489
+aVShannon Brown PHX 01/30/2012 PHX vs. DAL L 21 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 2 0 1 1 2 0
+p490
+aVChanning Frye PHX 01/30/2012 PHX vs. DAL L 20 7 1 5 20.0 1 3 33.3 4 4 100.0 0 0 0 1 1 1 0 2 -15
+p491
+aVMarkieff Morris PHX 01/30/2012 PHX vs. DAL L 20 7 2 7 28.6 1 1 100.0 2 3 66.7 1 3 4 0 0 0 0 2 1
+p492
+aVSebastian Telfair PHX 01/30/2012 PHX vs. DAL L 23 13 5 12 41.7 3 4 75.0 0 0 - 1 0 1 6 1 0 1 3 -2
+p493
+aVJosh Childress PHX 01/30/2012 PHX vs. DAL L 18 9 4 6 66.7 1 2 50.0 0 0 - 1 3 4 2 2 0 3 5 -1
+p494
+aVRonnie Price PHX 01/30/2012 PHX vs. DAL L 25 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 5 0 0 3 0 -21
+p495
+aVHakim Warrick PHX 01/30/2012 PHX vs. DAL L 11 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -14
+p496
+aVMarcin Gortat PHX 01/30/2012 PHX vs. DAL L 33 17 7 12 58.3 0 0 - 3 4 75.0 0 10 10 0 1 4 1 0 -21
+p497
+aVRobin Lopez PHX 01/30/2012 PHX vs. DAL L 12 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 2 0 0 3
+p498
+aVJared Dudley PHX 01/30/2012 PHX vs. DAL L 28 15 3 8 37.5 3 4 75.0 6 6 100.0 3 2 5 3 0 0 0 0 -23
+p499
+aVGrant Hill PHX 01/30/2012 PHX vs. DAL L 23 12 5 7 71.4 0 0 - 2 3 66.7 0 1 1 1 0 0 1 3 -21
+p500
+aVGrant Hill PHX 01/28/2012 PHX vs. MEM W 35 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 3 0 2 1 4 7
+p501
+aVHakim Warrick PHX 01/28/2012 PHX vs. MEM W 18 8 2 7 28.6 0 0 - 4 7 57.1 1 5 6 0 0 0 2 1 5
+p502
+aVJared Dudley PHX 01/28/2012 PHX vs. MEM W 42 20 6 14 42.9 2 5 40.0 6 8 75.0 4 2 6 4 3 0 0 1 4
+p503
+aVMichael Redd PHX 01/28/2012 PHX vs. MEM W 5 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 0 1
+p504
+aVChanning Frye PHX 01/28/2012 PHX vs. MEM W 14 2 1 9 11.1 0 3 0.0 0 0 - 1 2 3 0 0 0 0 1 1
+p505
+aVMarkieff Morris PHX 01/28/2012 PHX vs. MEM W 20 10 5 12 41.7 0 1 0.0 0 0 - 3 6 9 1 0 0 2 5 -3
+p506
+aVJosh Childress PHX 01/28/2012 PHX vs. MEM W 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -6
+p507
+aVSebastian Telfair PHX 01/28/2012 PHX vs. MEM W 16 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 2 2 -7
+p508
+aVMarcin Gortat PHX 01/28/2012 PHX vs. MEM W 44 13 6 17 35.3 0 0 - 1 3 33.3 6 6 12 1 0 1 0 4 1
+p509
+aVRonnie Price PHX 01/28/2012 PHX vs. MEM W 7 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 0 2 1 -2
+p510
+aVSteve Nash PHX 01/28/2012 PHX vs. MEM W 32 21 8 14 57.1 2 3 66.7 3 3 100.0 1 4 5 6 2 0 5 0 9
+p511
+aVJared Dudley PHX 01/27/2012 PHX @ POR L 23 8 4 5 80.0 0 0 - 0 0 - 1 2 3 2 0 0 1 2 -27
+p512
+aVMarkieff Morris PHX 01/27/2012 PHX @ POR L 19 3 1 4 25.0 1 2 50.0 0 0 - 2 2 4 1 0 1 1 3 -16
+p513
+aVShannon Brown PHX 01/27/2012 PHX @ POR L 15 7 3 6 50.0 0 2 0.0 1 1 100.0 0 1 1 0 2 0 4 0 -17
+p514
+aVChanning Frye PHX 01/27/2012 PHX @ POR L 27 5 2 8 25.0 1 4 25.0 0 0 - 0 7 7 2 1 1 0 4 -21
+p515
+aVMarcin Gortat PHX 01/27/2012 PHX @ POR L 28 8 3 10 30.0 0 0 - 2 4 50.0 2 8 10 0 0 1 3 2 -20
+p516
+aVMichael Redd PHX 01/27/2012 PHX @ POR L 6 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 1 0 0 0 -2
+p517
+aVRonnie Price PHX 01/27/2012 PHX @ POR L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 3 0 3 2 -7
+p518
+aVJosh Childress PHX 01/27/2012 PHX @ POR L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 0 1 0 1 -5
+p519
+aVSteve Nash PHX 01/27/2012 PHX @ POR L 25 5 2 7 28.6 0 0 - 1 3 33.3 0 2 2 7 0 0 1 0 -14
+p520
+aVSebastian Telfair PHX 01/27/2012 PHX @ POR L 23 10 4 11 36.4 1 2 50.0 1 2 50.0 0 3 3 1 1 0 4 2 -24
+p521
+aVGrant Hill PHX 01/27/2012 PHX @ POR L 23 12 5 13 38.5 1 2 50.0 1 2 50.0 0 1 1 0 1 0 1 2 -18
+p522
+aVHakim Warrick PHX 01/27/2012 PHX @ POR L 22 9 3 6 50.0 0 0 - 3 4 75.0 2 5 7 3 0 0 3 0 -19
+p523
+aVSteve Nash PHX 01/24/2012 PHX vs. TOR L 35 17 8 14 57.1 1 4 25.0 0 0 - 1 6 7 14 0 0 6 0 -3
+p524
+aVHakim Warrick PHX 01/24/2012 PHX vs. TOR L 26 17 6 9 66.7 0 0 - 5 6 83.3 1 0 1 4 0 0 1 2 -6
+p525
+aVRobin Lopez PHX 01/24/2012 PHX vs. TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p526
+aVMarkieff Morris PHX 01/24/2012 PHX vs. TOR L 17 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -5
+p527
+aVChanning Frye PHX 01/24/2012 PHX vs. TOR L 12 3 1 7 14.3 1 4 25.0 0 0 - 0 3 3 0 1 2 2 3 5
+p528
+aVJared Dudley PHX 01/24/2012 PHX vs. TOR L 24 6 2 7 28.6 1 4 25.0 1 2 50.0 0 1 1 1 3 0 1 1 -1
+p529
+aVMarcin Gortat PHX 01/24/2012 PHX vs. TOR L 38 21 9 16 56.3 0 0 - 3 5 60.0 3 9 12 1 0 2 0 2 -5
+p530
+aVShannon Brown PHX 01/24/2012 PHX vs. TOR L 17 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 0 1 -5
+p531
+aVSebastian Telfair PHX 01/24/2012 PHX vs. TOR L 14 4 1 6 16.7 0 0 - 2 2 100.0 1 2 3 2 0 0 1 1 1
+p532
+aVRonnie Price PHX 01/24/2012 PHX vs. TOR L 28 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 2 0 0 4 6
+p533
+aVGrant Hill PHX 01/24/2012 PHX vs. TOR L 22 11 5 10 50.0 1 1 100.0 0 0 - 0 5 5 0 0 0 3 2 0
+p534
+aVMichael Redd PHX 01/24/2012 PHX vs. TOR L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p535
+aVSteve Nash PHX 01/23/2012 PHX @ DAL L 36 8 2 9 22.2 0 3 0.0 4 4 100.0 0 1 1 12 0 0 3 0 0
+p536
+aVRonnie Price PHX 01/23/2012 PHX @ DAL L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 2 0 0 2 -10
+p537
+aVRobin Lopez PHX 01/23/2012 PHX @ DAL L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -12
+p538
+aVShannon Brown PHX 01/23/2012 PHX @ DAL L 25 14 6 14 42.9 2 4 50.0 0 0 - 0 1 1 2 1 0 1 0 0
+p539
+aVMarcin Gortat PHX 01/23/2012 PHX @ DAL L 37 19 8 15 53.3 0 0 - 3 4 75.0 4 13 17 2 0 3 0 3 6
+p540
+aVJared Dudley PHX 01/23/2012 PHX @ DAL L 24 3 1 7 14.3 0 2 0.0 1 1 100.0 4 4 8 1 1 0 2 2 0
+p541
+aVMarkieff Morris PHX 01/23/2012 PHX @ DAL L 29 7 2 9 22.2 1 1 100.0 2 2 100.0 4 7 11 1 1 0 1 5 10
+p542
+aVGrant Hill PHX 01/23/2012 PHX @ DAL L 34 19 6 10 60.0 1 1 100.0 6 7 85.7 2 6 8 2 2 0 8 1 4
+p543
+aVChanning Frye PHX 01/23/2012 PHX @ DAL L 15 4 2 6 33.3 0 2 0.0 0 0 - 3 2 5 1 0 0 1 1 -22
+p544
+aVSebastian Telfair PHX 01/23/2012 PHX @ DAL L 12 8 2 7 28.6 1 4 25.0 3 4 75.0 0 1 1 0 2 0 2 2 -6
+p545
+aVJared Dudley PHX 01/20/2012 PHX @ BOS W 21 12 5 8 62.5 2 4 50.0 0 0 - 2 2 4 4 0 0 2 1 11
+p546
+aVShannon Brown PHX 01/20/2012 PHX @ BOS W 17 7 3 8 37.5 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 1 11
+p547
+aVRonnie Price PHX 01/20/2012 PHX @ BOS W 30 6 2 7 28.6 2 4 50.0 0 0 - 1 1 2 1 2 1 2 4 -4
+p548
+aVRobin Lopez PHX 01/20/2012 PHX @ BOS W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 0 5
+p549
+aVMarcin Gortat PHX 01/20/2012 PHX @ BOS W 38 24 10 18 55.6 0 0 - 4 4 100.0 2 10 12 0 1 2 3 2 3
+p550
+aVSebastian Telfair PHX 01/20/2012 PHX @ BOS W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 2 0 0 2 7
+p551
+aVChanning Frye PHX 01/20/2012 PHX @ BOS W 22 3 1 5 20.0 1 4 25.0 0 0 - 2 3 5 1 1 1 1 3 5
+p552
+aVGrant Hill PHX 01/20/2012 PHX @ BOS W 35 9 4 9 44.4 0 3 0.0 1 2 50.0 1 7 8 3 4 2 3 2 4
+p553
+aVMarkieff Morris PHX 01/20/2012 PHX @ BOS W 20 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 1 0 1 4 1 -3
+p554
+aVSteve Nash PHX 01/20/2012 PHX @ BOS W 38 11 3 6 50.0 0 1 0.0 5 6 83.3 0 5 5 9 0 0 4 0 1
+p555
+aVShannon Brown PHX 01/18/2012 PHX @ NYK W 27 14 6 12 50.0 2 3 66.7 0 0 - 0 2 2 1 2 0 1 2 6
+p556
+aVJared Dudley PHX 01/18/2012 PHX @ NYK W 17 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 0
+p557
+aVRobin Lopez PHX 01/18/2012 PHX @ NYK W 10 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 0 1 2 0 4 -3
+p558
+aVChanning Frye PHX 01/18/2012 PHX @ NYK W 26 9 3 6 50.0 3 4 75.0 0 0 - 0 4 4 1 0 4 0 5 4
+p559
+aVMarkieff Morris PHX 01/18/2012 PHX @ NYK W 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 2 0 0 2 1
+p560
+aVSteve Nash PHX 01/18/2012 PHX @ NYK W 38 26 9 12 75.0 2 3 66.7 6 6 100.0 0 5 5 11 0 0 3 0 4
+p561
+aVGrant Hill PHX 01/18/2012 PHX @ NYK W 38 14 6 15 40.0 0 0 - 2 2 100.0 1 4 5 3 0 0 1 3 2
+p562
+aVRonnie Price PHX 01/18/2012 PHX @ NYK W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 2 0 1 2 -5
+p563
+aVMarcin Gortat PHX 01/18/2012 PHX @ NYK W 38 11 5 13 38.5 0 0 - 1 2 50.0 0 12 12 2 2 2 5 1 6
+p564
+aVSebastian Telfair PHX 01/18/2012 PHX @ NYK W 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p565
+aVHakim Warrick PHX 01/18/2012 PHX @ NYK W 16 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 1 0 0 3 0 1
+p566
+aVRobin Lopez PHX 01/17/2012 PHX @ CHI L 17 16 6 7 85.7 0 0 - 4 4 100.0 3 3 6 0 0 1 0 1 -2
+p567
+aVGrant Hill PHX 01/17/2012 PHX @ CHI L 21 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -13
+p568
+aVMarkieff Morris PHX 01/17/2012 PHX @ CHI L 30 4 1 7 14.3 0 2 0.0 2 2 100.0 0 4 4 1 1 0 5 4 -7
+p569
+aVMarcin Gortat PHX 01/17/2012 PHX @ CHI L 31 14 5 7 71.4 0 0 - 4 5 80.0 2 13 15 1 0 1 2 3 -19
+p570
+aVSteve Nash PHX 01/17/2012 PHX @ CHI L 30 25 10 13 76.9 3 3 100.0 2 3 66.7 0 1 1 9 0 0 5 0 -26
+p571
+aVJared Dudley PHX 01/17/2012 PHX @ CHI L 26 7 3 7 42.9 0 1 0.0 1 1 100.0 0 1 1 3 0 0 0 1 -16
+p572
+aVChanning Frye PHX 01/17/2012 PHX @ CHI L 18 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 0 1 1 2 1 -14
+p573
+aVRonnie Price PHX 01/17/2012 PHX @ CHI L 18 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 4 0 1 0 3 5
+p574
+aVMichael Redd PHX 01/17/2012 PHX @ CHI L 15 3 0 3 0.0 0 1 0.0 3 4 75.0 0 0 0 1 0 0 1 1 -3
+p575
+aVHakim Warrick PHX 01/17/2012 PHX @ CHI L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -4
+p576
+aVShannon Brown PHX 01/17/2012 PHX @ CHI L 24 9 4 10 40.0 1 1 100.0 0 0 - 1 1 2 0 0 1 2 0 -6
+p577
+aVGrant Hill PHX 01/15/2012 PHX @ SAS L 23 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -10
+p578
+aVChanning Frye PHX 01/15/2012 PHX @ SAS L 18 0 0 7 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 2 -7
+p579
+aVRobin Lopez PHX 01/15/2012 PHX @ SAS L 11 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 0
+p580
+aVShannon Brown PHX 01/15/2012 PHX @ SAS L 24 10 5 10 50.0 0 1 0.0 0 0 - 1 2 3 2 1 0 0 3 -1
+p581
+aVRonnie Price PHX 01/15/2012 PHX @ SAS L 13 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 7 2 0 1 3 -3
+p582
+aVMarcin Gortat PHX 01/15/2012 PHX @ SAS L 36 24 11 20 55.0 0 0 - 2 4 50.0 4 11 15 0 0 1 2 3 -11
+p583
+aVHakim Warrick PHX 01/15/2012 PHX @ SAS L 6 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 -4
+p584
+aVMichael Redd PHX 01/15/2012 PHX @ SAS L 13 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -1
+p585
+aVMarkieff Morris PHX 01/15/2012 PHX @ SAS L 25 14 6 10 60.0 2 6 33.3 0 0 - 0 3 3 1 0 0 1 4 0
+p586
+aVSteve Nash PHX 01/15/2012 PHX @ SAS L 35 20 9 19 47.4 0 1 0.0 2 2 100.0 0 1 1 10 1 0 4 0 -8
+p587
+aVJared Dudley PHX 01/15/2012 PHX @ SAS L 36 12 4 9 44.4 2 2 100.0 2 2 100.0 2 6 8 0 2 0 1 3 -10
+p588
+aVSebastian Telfair PHX 01/13/2012 PHX vs. NJN L 16 6 2 8 25.0 2 4 50.0 0 0 - 0 1 1 3 1 0 1 3 -11
+p589
+aVMarkieff Morris PHX 01/13/2012 PHX vs. NJN L 18 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 3 1 -11
+p590
+aVRonnie Price PHX 01/13/2012 PHX vs. NJN L 32 18 7 11 63.6 1 3 33.3 3 3 100.0 2 2 4 8 2 0 4 1 3
+p591
+aVShannon Brown PHX 01/13/2012 PHX vs. NJN L 35 13 6 14 42.9 1 4 25.0 0 0 - 1 2 3 3 1 0 1 3 6
+p592
+aVChanning Frye PHX 01/13/2012 PHX vs. NJN L 30 15 6 10 60.0 2 5 40.0 1 2 50.0 1 5 6 7 0 0 2 3 4
+p593
+aVMichael Redd PHX 01/13/2012 PHX vs. NJN L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 2 -13
+p594
+aVRobin Lopez PHX 01/13/2012 PHX vs. NJN L 16 4 0 0 - 0 0 - 4 4 100.0 1 2 3 1 0 0 1 2 -9
+p595
+aVJared Dudley PHX 01/13/2012 PHX vs. NJN L 37 18 6 10 60.0 2 3 66.7 4 4 100.0 0 4 4 2 0 1 1 0 2
+p596
+aVHakim Warrick PHX 01/13/2012 PHX vs. NJN L 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -9
+p597
+aVMarcin Gortat PHX 01/13/2012 PHX vs. NJN L 32 20 10 14 71.4 0 0 - 0 1 0.0 3 7 10 1 0 0 0 3 3
+p598
+aVJared Dudley PHX 01/12/2012 PHX vs. CLE L 37 8 4 7 57.1 0 1 0.0 0 0 - 0 7 7 1 1 0 0 1 -12
+p599
+aVMarkieff Morris PHX 01/12/2012 PHX vs. CLE L 23 13 5 9 55.6 2 2 100.0 1 1 100.0 1 7 8 1 1 1 2 5 -5
+p600
+aVSteve Nash PHX 01/12/2012 PHX vs. CLE L 35 16 6 10 60.0 1 2 50.0 3 5 60.0 0 0 0 15 0 0 3 0 -10
+p601
+aVShannon Brown PHX 01/12/2012 PHX vs. CLE L 27 11 3 9 33.3 0 1 0.0 5 6 83.3 0 2 2 0 1 0 3 3 4
+p602
+aVRonnie Price PHX 01/12/2012 PHX vs. CLE L 13 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 1 3 -1
+p603
+aVHakim Warrick PHX 01/12/2012 PHX vs. CLE L 11 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 3 6
+p604
+aVMichael Redd PHX 01/12/2012 PHX vs. CLE L 19 12 4 9 44.4 3 7 42.9 1 2 50.0 0 0 0 1 1 0 0 1 -11
+p605
+aVRobin Lopez PHX 01/12/2012 PHX vs. CLE L 5 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 2 0 2 4
+p606
+aVMarcin Gortat PHX 01/12/2012 PHX vs. CLE L 34 14 7 11 63.6 0 0 - 0 2 0.0 4 6 10 2 0 5 3 1 -10
+p607
+aVGrant Hill PHX 01/12/2012 PHX vs. CLE L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 2 0 1 -14
+p608
+aVChanning Frye PHX 01/12/2012 PHX vs. CLE L 28 12 5 11 45.5 2 6 33.3 0 0 - 1 6 7 1 2 0 2 1 -6
+p609
+aVJared Dudley PHX 01/10/2012 PHX @ LAL L 28 6 2 7 28.6 1 3 33.3 1 2 50.0 1 0 1 0 0 1 1 0 -4
+p610
+aVGrant Hill PHX 01/10/2012 PHX @ LAL L 33 5 1 12 8.3 0 3 0.0 3 4 75.0 0 6 6 3 1 0 1 4 3
+p611
+aVMarkieff Morris PHX 01/10/2012 PHX @ LAL L 16 2 0 4 0.0 0 1 0.0 2 2 100.0 0 3 3 1 4 0 1 2 -6
+p612
+aVMarcin Gortat PHX 01/10/2012 PHX @ LAL L 35 16 7 13 53.8 0 0 - 2 2 100.0 4 8 12 2 0 0 1 2 -15
+p613
+aVShannon Brown PHX 01/10/2012 PHX @ LAL L 19 11 5 13 38.5 1 4 25.0 0 0 - 1 2 3 1 1 0 1 2 -23
+p614
+aVChanning Frye PHX 01/10/2012 PHX @ LAL L 32 17 7 9 77.8 3 5 60.0 0 0 - 1 2 3 0 0 0 1 4 -10
+p615
+aVRonnie Price PHX 01/10/2012 PHX @ LAL L 14 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 3 0 3
+p616
+aVSteve Nash PHX 01/10/2012 PHX @ LAL L 34 13 6 11 54.5 1 3 33.3 0 0 - 0 1 1 8 0 0 1 0 -19
+p617
+aVRobin Lopez PHX 01/10/2012 PHX @ LAL L 13 0 0 1 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 2 -1
+p618
+aVHakim Warrick PHX 01/10/2012 PHX @ LAL L 16 8 4 7 57.1 0 0 - 0 0 - 2 1 3 2 3 0 0 0 -8
+p619
+aVHakim Warrick PHX 01/08/2012 PHX vs. MIL W 13 4 1 3 33.3 0 1 0.0 2 4 50.0 1 1 2 0 0 0 1 2 -4
+p620
+aVJared Dudley PHX 01/08/2012 PHX vs. MIL W 28 11 5 10 50.0 1 4 25.0 0 0 - 2 5 7 2 1 0 3 3 26
+p621
+aVRobin Lopez PHX 01/08/2012 PHX vs. MIL W 19 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 2 5 -11
+p622
+aVShannon Brown PHX 01/08/2012 PHX vs. MIL W 25 14 2 8 25.0 0 3 0.0 10 12 83.3 0 0 0 1 1 0 0 3 -12
+p623
+aVRonnie Price PHX 01/08/2012 PHX vs. MIL W 13 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 3 2 0 1 1 2
+p624
+aVSebastian Telfair PHX 01/08/2012 PHX vs. MIL W 7 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -12
+p625
+aVMarkieff Morris PHX 01/08/2012 PHX vs. MIL W 30 13 5 10 50.0 3 4 75.0 0 0 - 2 8 10 3 1 2 0 1 -1
+p626
+aVGrant Hill PHX 01/08/2012 PHX vs. MIL W 24 14 6 11 54.5 1 3 33.3 1 1 100.0 0 1 1 1 1 0 1 1 28
+p627
+aVMarcin Gortat PHX 01/08/2012 PHX vs. MIL W 28 18 9 10 90.0 0 0 - 0 0 - 0 7 7 3 2 3 1 0 28
+p628
+aVSteve Nash PHX 01/08/2012 PHX vs. MIL W 27 10 5 7 71.4 0 1 0.0 0 0 - 0 1 1 17 1 0 3 0 26
+p629
+aVChanning Frye PHX 01/08/2012 PHX vs. MIL W 19 16 6 7 85.7 4 4 100.0 0 0 - 1 5 6 0 0 0 1 4 16
+p630
+aVJosh Childress PHX 01/08/2012 PHX vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -6
+p631
+aVSebastian Telfair PHX 01/06/2012 PHX vs. POR W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p632
+aVMarcin Gortat PHX 01/06/2012 PHX vs. POR W 26 12 6 8 75.0 0 0 - 0 0 - 0 8 8 0 1 1 1 3 11
+p633
+aVGrant Hill PHX 01/06/2012 PHX vs. POR W 23 6 1 6 16.7 0 0 - 4 4 100.0 1 1 2 1 1 3 2 2 14
+p634
+aVChanning Frye PHX 01/06/2012 PHX vs. POR W 17 4 1 5 20.0 0 3 0.0 2 2 100.0 0 3 3 0 1 0 0 2 17
+p635
+aVShannon Brown PHX 01/06/2012 PHX vs. POR W 18 14 4 12 33.3 2 6 33.3 4 4 100.0 2 3 5 0 1 0 1 1 7
+p636
+aVJared Dudley PHX 01/06/2012 PHX vs. POR W 30 18 7 11 63.6 0 3 0.0 4 5 80.0 1 0 1 3 3 1 0 1 16
+p637
+aVRonnie Price PHX 01/06/2012 PHX vs. POR W 17 1 0 3 0.0 0 1 0.0 1 2 50.0 1 1 2 5 0 0 0 3 3
+p638
+aVSteve Nash PHX 01/06/2012 PHX vs. POR W 28 17 7 7 100.0 2 2 100.0 1 1 100.0 0 2 2 9 1 0 3 1 22
+p639
+aVRobin Lopez PHX 01/06/2012 PHX vs. POR W 18 5 2 5 40.0 0 0 - 1 1 100.0 3 9 12 1 1 1 4 6 14
+p640
+aVMarkieff Morris PHX 01/06/2012 PHX vs. POR W 31 13 5 13 38.5 3 4 75.0 0 0 - 2 7 9 1 0 1 1 4 8
+p641
+aVHakim Warrick PHX 01/06/2012 PHX vs. POR W 24 12 4 8 50.0 0 1 0.0 4 6 66.7 2 1 3 0 0 0 2 3 13
+p642
+aVSebastian Telfair PHX 01/04/2012 PHX @ DAL L 7 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -13
+p643
+aVRonnie Price PHX 01/04/2012 PHX @ DAL L 5 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -7
+p644
+aVGrant Hill PHX 01/04/2012 PHX @ DAL L 34 14 7 14 50.0 0 1 0.0 0 0 - 1 2 3 2 1 1 2 1 -1
+p645
+aVHakim Warrick PHX 01/04/2012 PHX @ DAL L 19 9 3 8 37.5 1 2 50.0 2 2 100.0 2 1 3 1 0 0 0 2 -14
+p646
+aVChanning Frye PHX 01/04/2012 PHX @ DAL L 25 7 3 4 75.0 1 1 100.0 0 0 - 1 9 10 0 0 1 4 4 5
+p647
+aVMarcin Gortat PHX 01/04/2012 PHX @ DAL L 38 22 10 15 66.7 0 0 - 2 3 66.7 1 9 10 0 0 1 2 2 0
+p648
+aVMarkieff Morris PHX 01/04/2012 PHX @ DAL L 17 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 1 0 0 0 4 -8
+p649
+aVRobin Lopez PHX 01/04/2012 PHX @ DAL L 10 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 0 0 0 0 1 -9
+p650
+aVSteve Nash PHX 01/04/2012 PHX @ DAL L 37 15 6 12 50.0 2 6 33.3 1 1 100.0 2 2 4 12 3 0 4 1 11
+p651
+aVShannon Brown PHX 01/04/2012 PHX @ DAL L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -13
+p652
+aVJared Dudley PHX 01/04/2012 PHX @ DAL L 37 10 4 13 30.8 1 4 25.0 1 3 33.3 2 2 4 1 1 0 2 3 4
+p653
+aVRobin Lopez PHX 01/02/2012 PHX vs. GSW W 12 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 1 2 1 6
+p654
+aVJared Dudley PHX 01/02/2012 PHX vs. GSW W 37 15 6 14 42.9 2 5 40.0 1 2 50.0 0 4 4 2 0 0 1 1 2
+p655
+aVHakim Warrick PHX 01/02/2012 PHX vs. GSW W 16 8 3 9 33.3 0 1 0.0 2 2 100.0 2 1 3 1 0 0 0 2 -5
+p656
+aVShannon Brown PHX 01/02/2012 PHX vs. GSW W 23 10 3 8 37.5 2 6 33.3 2 3 66.7 2 3 5 2 1 0 0 0 10
+p657
+aVMarcin Gortat PHX 01/02/2012 PHX vs. GSW W 18 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 0 0 1 1 3 1
+p658
+aVGrant Hill PHX 01/02/2012 PHX vs. GSW W 28 8 4 10 40.0 0 0 - 0 0 - 3 5 8 2 1 0 1 3 12
+p659
+aVRonnie Price PHX 01/02/2012 PHX vs. GSW W 15 7 1 3 33.3 1 2 50.0 4 4 100.0 1 2 3 4 1 0 3 3 6
+p660
+aVChanning Frye PHX 01/02/2012 PHX vs. GSW W 26 10 3 8 37.5 1 3 33.3 3 4 75.0 3 7 10 1 1 0 1 1 -2
+p661
+aVSteve Nash PHX 01/02/2012 PHX vs. GSW W 33 21 9 13 69.2 1 3 33.3 2 2 100.0 0 0 0 9 2 0 2 1 5
+p662
+aVMarkieff Morris PHX 01/02/2012 PHX vs. GSW W 32 16 7 13 53.8 1 3 33.3 1 2 50.0 3 6 9 2 0 0 0 3 20
+p663
+aVJared Dudley PHX 12/31/2011 PHX @ OKC L 26 14 5 10 50.0 1 3 33.3 3 3 100.0 2 3 5 2 2 1 1 0 -11
+p664
+aVSebastian Telfair PHX 12/31/2011 PHX @ OKC L 12 7 2 7 28.6 1 1 100.0 2 2 100.0 1 0 1 2 1 0 0 1 12
+p665
+aVGrant Hill PHX 12/31/2011 PHX @ OKC L 20 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 0 0 1 0 3 -14
+p666
+aVMarcin Gortat PHX 12/31/2011 PHX @ OKC L 27 12 5 9 55.6 0 0 - 2 2 100.0 2 4 6 0 4 2 4 2 -15
+p667
+aVMarkieff Morris PHX 12/31/2011 PHX @ OKC L 16 15 5 8 62.5 3 4 75.0 2 3 66.7 0 6 6 1 0 1 1 3 11
+p668
+aVJosh Childress PHX 12/31/2011 PHX @ OKC L 16 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 1 1 0 0 0 -8
+p669
+aVRonnie Price PHX 12/31/2011 PHX @ OKC L 17 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 2 -5
+p670
+aVHakim Warrick PHX 12/31/2011 PHX @ OKC L 24 15 5 8 62.5 0 0 - 5 7 71.4 1 1 2 3 0 0 0 1 1
+p671
+aVSteve Nash PHX 12/31/2011 PHX @ OKC L 22 8 3 10 30.0 2 7 28.6 0 0 - 1 3 4 6 0 0 3 0 -10
+p672
+aVShannon Brown PHX 12/31/2011 PHX @ OKC L 21 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 0 1 1 1 0 -4
+p673
+aVRobin Lopez PHX 12/31/2011 PHX @ OKC L 21 4 1 4 25.0 0 0 - 2 2 100.0 3 2 5 0 0 1 0 3 5
+p674
+aVChanning Frye PHX 12/31/2011 PHX @ OKC L 19 2 1 6 16.7 0 4 0.0 0 0 - 2 2 4 3 0 0 0 1 -12
+p675
+aVSteve Nash PHX 12/30/2011 PHX @ NOH W 36 7 2 8 25.0 1 3 33.3 2 2 100.0 1 2 3 12 0 0 3 0 17
+p676
+aVChanning Frye PHX 12/30/2011 PHX @ NOH W 25 10 4 15 26.7 2 9 22.2 0 0 - 2 14 16 2 0 3 1 4 18
+p677
+aVMarcin Gortat PHX 12/30/2011 PHX @ NOH W 30 12 6 8 75.0 0 0 - 0 1 0.0 1 6 7 1 0 4 0 2 18
+p678
+aVJosh Childress PHX 12/30/2011 PHX @ NOH W 11 2 1 2 50.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 2 2
+p679
+aVRonnie Price PHX 12/30/2011 PHX @ NOH W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 2 -2
+p680
+aVShannon Brown PHX 12/30/2011 PHX @ NOH W 16 11 4 9 44.4 1 2 50.0 2 2 100.0 0 4 4 1 2 0 2 2 1
+p681
+aVHakim Warrick PHX 12/30/2011 PHX @ NOH W 25 18 6 12 50.0 0 2 0.0 6 7 85.7 3 4 7 1 0 1 2 2 -3
+p682
+aVMarkieff Morris PHX 12/30/2011 PHX @ NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p683
+aVRobin Lopez PHX 12/30/2011 PHX @ NOH W 17 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 4 -1
+p684
+aVJared Dudley PHX 12/30/2011 PHX @ NOH W 33 16 5 9 55.6 2 4 50.0 4 4 100.0 0 1 1 0 0 0 0 1 12
+p685
+aVGrant Hill PHX 12/30/2011 PHX @ NOH W 33 10 3 9 33.3 0 1 0.0 4 4 100.0 0 3 3 3 1 2 0 1 15
+p686
+aVRonnie Price PHX 12/28/2011 PHX vs. PHI L 31 16 7 13 53.8 1 4 25.0 1 1 100.0 0 1 1 4 1 1 2 3 2
+p687
+aVJosh Childress PHX 12/28/2011 PHX vs. PHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p688
+aVSteve Nash PHX 12/28/2011 PHX vs. PHI L 17 4 2 11 18.2 0 3 0.0 0 0 - 0 0 0 1 0 0 6 4 -22
+p689
+aVHakim Warrick PHX 12/28/2011 PHX vs. PHI L 32 14 7 13 53.8 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -4
+p690
+aVChanning Frye PHX 12/28/2011 PHX vs. PHI L 13 2 0 4 0.0 0 1 0.0 2 2 100.0 2 6 8 0 0 0 1 0 -16
+p691
+aVJared Dudley PHX 12/28/2011 PHX vs. PHI L 24 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 2 1 0 0 4 -32
+p692
+aVSebastian Telfair PHX 12/28/2011 PHX vs. PHI L 6 7 2 3 66.7 0 0 - 3 4 75.0 1 0 1 1 1 0 0 0 10
+p693
+aVMarcin Gortat PHX 12/28/2011 PHX vs. PHI L 18 4 1 6 16.7 0 0 - 2 2 100.0 3 5 8 0 0 1 1 0 -18
+p694
+aVMarkieff Morris PHX 12/28/2011 PHX vs. PHI L 27 9 4 5 80.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 3 5
+p695
+aVShannon Brown PHX 12/28/2011 PHX vs. PHI L 21 6 3 7 42.9 0 0 - 0 1 0.0 0 3 3 1 0 0 1 0 -2
+p696
+aVRobin Lopez PHX 12/28/2011 PHX vs. PHI L 20 7 3 4 75.0 0 0 - 1 2 50.0 1 5 6 3 0 0 0 1 -2
+p697
+aVGrant Hill PHX 12/28/2011 PHX vs. PHI L 27 14 4 12 33.3 0 0 - 6 6 100.0 0 2 2 2 0 0 0 1 -22
+p698
+aVSebastian Telfair PHX 12/26/2011 PHX vs. NOH L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 2 -2
+p699
+aVJared Dudley PHX 12/26/2011 PHX vs. NOH L 35 9 3 11 27.3 1 5 20.0 2 3 66.7 1 7 8 3 1 0 1 3 1
+p700
+aVJosh Childress PHX 12/26/2011 PHX vs. NOH L 18 7 3 6 50.0 1 4 25.0 0 0 - 0 3 3 1 1 1 1 1 -7
+p701
+aVMarcin Gortat PHX 12/26/2011 PHX vs. NOH L 21 13 6 9 66.7 0 0 - 1 3 33.3 3 2 5 0 1 0 0 3 1
+p702
+aVRonnie Price PHX 12/26/2011 PHX vs. NOH L 11 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 2 2 -4
+p703
+aVRobin Lopez PHX 12/26/2011 PHX vs. NOH L 27 21 8 12 66.7 0 0 - 5 6 83.3 2 5 7 1 0 0 1 3 -2
+p704
+aVGrant Hill PHX 12/26/2011 PHX vs. NOH L 23 6 3 10 30.0 0 4 0.0 0 0 - 1 6 7 1 0 0 2 0 6
+p705
+aVSteve Nash PHX 12/26/2011 PHX vs. NOH L 30 14 5 10 50.0 2 3 66.7 2 2 100.0 0 0 0 12 0 0 4 3 5
+p706
+aVShannon Brown PHX 12/26/2011 PHX vs. NOH L 20 2 1 8 12.5 0 2 0.0 0 0 - 1 0 1 1 1 0 2 3 -2
+p707
+aVMarkieff Morris PHX 12/26/2011 PHX vs. NOH L 25 7 2 5 40.0 1 3 33.3 2 2 100.0 3 6 9 2 2 2 1 4 -6
+p708
+aVChanning Frye PHX 12/26/2011 PHX vs. NOH L 23 3 1 6 16.7 0 2 0.0 1 1 100.0 0 4 4 0 2 0 0 0 5
+p709
+a.

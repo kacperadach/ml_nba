@@ -1,0 +1,1752 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBen Poquette CLE 04/13/1986 CLE vs. CHI W 16 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 1 0 1 1 -
+p2
+aVMel Turpin CLE 04/13/1986 CLE vs. CHI W 24 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 1 2 3 -
+p3
+aVWorld Free CLE 04/13/1986 CLE vs. CHI W 34 31 11 25 44.0 2 7 28.6 7 8 87.5 0 2 2 5 0 0 2 3 -
+p4
+aVBen McDonald CLE 04/13/1986 CLE vs. CHI W 16 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -
+p5
+aVRon Brewer CLE 04/13/1986 CLE vs. CHI W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -
+p6
+aVMark West CLE 04/13/1986 CLE vs. CHI W 24 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 1 0 0 1 2 -
+p7
+aVEddie Johnson CLE 04/13/1986 CLE vs. CHI W 21 7 3 9 33.3 0 4 0.0 1 1 100.0 1 2 3 6 0 0 2 1 -
+p8
+aVRoy Hinson CLE 04/13/1986 CLE vs. CHI W 35 11 4 10 40.0 0 0 - 3 6 50.0 3 6 9 4 3 0 4 4 -
+p9
+aVKeith Lee CLE 04/13/1986 CLE vs. CHI W 29 14 7 11 63.6 0 0 - 0 0 - 6 7 13 2 0 2 3 4 -
+p10
+aVDirk Minniefield CLE 04/13/1986 CLE vs. CHI W 27 20 8 15 53.3 0 2 0.0 4 4 100.0 3 0 3 5 1 0 0 3 -
+p11
+aVBen Poquette CLE 04/11/1986 CLE @ BOS L 12 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 -
+p12
+aVEddie Johnson CLE 04/11/1986 CLE @ BOS L 27 9 4 12 33.3 1 3 33.3 0 0 - 0 0 0 5 0 0 4 3 -
+p13
+aVRon Brewer CLE 04/11/1986 CLE @ BOS L 10 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p14
+aVDirk Minniefield CLE 04/11/1986 CLE @ BOS L 19 6 3 7 42.9 0 0 - 0 1 0.0 1 3 4 5 1 0 2 2 -
+p15
+aVRoy Hinson CLE 04/11/1986 CLE @ BOS L 41 22 8 16 50.0 0 0 - 6 8 75.0 2 5 7 1 3 0 5 4 -
+p16
+aVMark West CLE 04/11/1986 CLE @ BOS L 18 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -
+p17
+aVBen McDonald CLE 04/11/1986 CLE @ BOS L 15 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -
+p18
+aVWorld Free CLE 04/11/1986 CLE @ BOS L 40 28 11 17 64.7 1 2 50.0 5 6 83.3 2 3 5 7 0 1 4 5 -
+p19
+aVKeith Lee CLE 04/11/1986 CLE @ BOS L 27 11 4 6 66.7 0 0 - 3 4 75.0 3 3 6 2 0 1 2 6 -
+p20
+aVMel Turpin CLE 04/11/1986 CLE @ BOS L 31 14 6 14 42.9 0 0 - 2 2 100.0 0 4 4 2 0 1 1 4 -
+p21
+aVMark West CLE 04/10/1986 CLE vs. MIL L 5 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -
+p22
+aVMel Turpin CLE 04/10/1986 CLE vs. MIL L 43 25 7 14 50.0 0 0 - 11 11 100.0 5 3 8 0 0 1 1 3 -
+p23
+aVJohn Bagley CLE 04/10/1986 CLE vs. MIL L 11 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 1 0 1 0 -
+p24
+aVKeith Lee CLE 04/10/1986 CLE vs. MIL L 41 12 5 11 45.5 0 0 - 2 4 50.0 4 10 14 1 1 0 3 5 -
+p25
+aVRoy Hinson CLE 04/10/1986 CLE vs. MIL L 42 17 8 17 47.1 0 1 0.0 1 2 50.0 2 3 5 1 1 2 1 2 -
+p26
+aVWorld Free CLE 04/10/1986 CLE vs. MIL L 44 26 8 17 47.1 2 3 66.7 8 8 100.0 0 4 4 4 3 0 3 4 -
+p27
+aVBen McDonald CLE 04/10/1986 CLE vs. MIL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p28
+aVDirk Minniefield CLE 04/10/1986 CLE vs. MIL L 13 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 0 0 1 4 -
+p29
+aVEddie Johnson CLE 04/10/1986 CLE vs. MIL L 28 11 4 12 33.3 1 3 33.3 2 2 100.0 1 1 2 5 0 0 1 4 -
+p30
+aVBen Poquette CLE 04/10/1986 CLE vs. MIL L 6 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p31
+aVJohn Bagley CLE 04/07/1986 CLE @ DET L 38 22 10 12 83.3 0 0 - 2 2 100.0 0 2 2 7 2 0 0 1 -
+p32
+aVKeith Lee CLE 04/07/1986 CLE @ DET L 13 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 1 1 0 6 -
+p33
+aVBen McDonald CLE 04/07/1986 CLE @ DET L 9 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 2 0 0 2 -
+p34
+aVRoy Hinson CLE 04/07/1986 CLE @ DET L 35 21 8 17 47.1 0 0 - 5 7 71.4 2 6 8 3 0 2 4 6 -
+p35
+aVMark West CLE 04/07/1986 CLE @ DET L 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 1 4 6 -
+p36
+aVBen Poquette CLE 04/07/1986 CLE @ DET L 38 10 3 11 27.3 0 0 - 4 5 80.0 2 5 7 1 0 1 1 3 -
+p37
+aVEddie Johnson CLE 04/07/1986 CLE @ DET L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 0 -
+p38
+aVRon Brewer CLE 04/07/1986 CLE @ DET L 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p39
+aVDirk Minniefield CLE 04/07/1986 CLE @ DET L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -
+p40
+aVWorld Free CLE 04/07/1986 CLE @ DET L 37 29 11 21 52.4 1 2 50.0 6 9 66.7 2 5 7 4 0 1 4 2 -
+p41
+aVMel Turpin CLE 04/07/1986 CLE @ DET L 28 9 3 7 42.9 0 0 - 3 4 75.0 1 7 8 0 0 0 4 5 -
+p42
+aVLonnie Shelton CLE 04/06/1986 CLE @ WAS L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p43
+aVMark West CLE 04/06/1986 CLE @ WAS L 11 2 1 4 25.0 0 0 - 0 0 - 3 3 6 0 1 1 0 3 -
+p44
+aVJohn Bagley CLE 04/06/1986 CLE @ WAS L 28 8 4 7 57.1 0 0 - 0 0 - 1 2 3 4 1 0 4 1 -
+p45
+aVDirk Minniefield CLE 04/06/1986 CLE @ WAS L 12 6 3 6 50.0 0 0 - 0 0 - 2 1 3 2 3 0 2 1 -
+p46
+aVWorld Free CLE 04/06/1986 CLE @ WAS L 40 22 9 18 50.0 2 2 100.0 2 3 66.7 1 1 2 7 0 1 3 1 -
+p47
+aVRoy Hinson CLE 04/06/1986 CLE @ WAS L 44 24 11 21 52.4 0 0 - 2 2 100.0 5 2 7 2 3 0 3 3 -
+p48
+aVKeith Lee CLE 04/06/1986 CLE @ WAS L 39 10 5 14 35.7 0 1 0.0 0 0 - 7 10 17 3 0 4 4 3 -
+p49
+aVBen McDonald CLE 04/06/1986 CLE @ WAS L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p50
+aVEddie Johnson CLE 04/06/1986 CLE @ WAS L 16 8 3 10 30.0 1 6 16.7 1 2 50.0 1 1 2 1 0 0 2 1 -
+p51
+aVBen Poquette CLE 04/06/1986 CLE @ WAS L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p52
+aVMel Turpin CLE 04/06/1986 CLE @ WAS L 33 12 4 15 26.7 0 0 - 4 5 80.0 2 5 7 1 0 4 1 4 -
+p53
+aVBen McDonald CLE 04/04/1986 CLE @ PHL L 22 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 0 0 1 2 -
+p54
+aVDirk Minniefield CLE 04/04/1986 CLE @ PHL L 12 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -
+p55
+aVMel Turpin CLE 04/04/1986 CLE @ PHL L 22 8 4 10 40.0 0 0 - 0 0 - 4 2 6 1 0 3 2 2 -
+p56
+aVRoy Hinson CLE 04/04/1986 CLE @ PHL L 31 24 9 13 69.2 0 0 - 6 7 85.7 0 3 3 0 0 0 3 5 -
+p57
+aVEddie Johnson CLE 04/04/1986 CLE @ PHL L 20 11 3 8 37.5 1 2 50.0 4 4 100.0 3 0 3 8 1 0 2 0 -
+p58
+aVBen Poquette CLE 04/04/1986 CLE @ PHL L 17 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 1 0 0 0 1 -
+p59
+aVJohn Bagley CLE 04/04/1986 CLE @ PHL L 25 4 2 6 33.3 0 0 - 0 0 - 0 5 5 9 0 1 3 3 -
+p60
+aVKeith Lee CLE 04/04/1986 CLE @ PHL L 43 19 8 12 66.7 0 0 - 3 4 75.0 3 6 9 2 1 0 2 4 -
+p61
+aVWorld Free CLE 04/04/1986 CLE @ PHL L 37 25 10 18 55.6 1 2 50.0 4 4 100.0 1 0 1 7 2 0 3 4 -
+p62
+aVRon Brewer CLE 04/04/1986 CLE @ PHL L 2 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p63
+aVMark West CLE 04/04/1986 CLE @ PHL L 9 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 2 0 1 -
+p64
+aVRoy Hinson CLE 04/03/1986 CLE @ MIL L 40 21 9 16 56.3 0 0 - 3 5 60.0 1 6 7 0 1 0 4 3 -
+p65
+aVJohn Bagley CLE 04/03/1986 CLE @ MIL L 34 18 8 16 50.0 0 1 0.0 2 3 66.7 1 2 3 5 2 0 3 2 -
+p66
+aVBen McDonald CLE 04/03/1986 CLE @ MIL L 19 10 5 9 55.6 0 0 - 0 0 - 4 1 5 2 0 0 0 4 -
+p67
+aVEddie Johnson CLE 04/03/1986 CLE @ MIL L 16 8 4 6 66.7 0 2 0.0 0 0 - 0 0 0 3 2 0 0 2 -
+p68
+aVWorld Free CLE 04/03/1986 CLE @ MIL L 32 12 3 11 27.3 1 2 50.0 5 7 71.4 1 3 4 3 2 0 0 2 -
+p69
+aVRon Brewer CLE 04/03/1986 CLE @ MIL L 8 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 0 0 0 2 1 -
+p70
+aVBen Poquette CLE 04/03/1986 CLE @ MIL L 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -
+p71
+aVDirk Minniefield CLE 04/03/1986 CLE @ MIL L 11 2 1 3 33.3 0 0 - 0 0 - 2 1 3 2 0 0 2 0 -
+p72
+aVKeith Lee CLE 04/03/1986 CLE @ MIL L 27 10 5 9 55.6 0 0 - 0 0 - 4 8 12 2 0 0 1 4 -
+p73
+aVMark West CLE 04/03/1986 CLE @ MIL L 14 4 2 2 100.0 0 0 - 0 3 0.0 2 0 2 0 0 0 1 4 -
+p74
+aVMel Turpin CLE 04/03/1986 CLE @ MIL L 29 6 2 9 22.2 0 0 - 2 2 100.0 2 1 3 1 0 2 3 1 -
+p75
+aVJohn Bagley CLE 04/01/1986 CLE vs. BOS L 34 8 4 11 36.4 0 2 0.0 0 2 0.0 1 1 2 11 0 0 1 0 -
+p76
+aVBen Poquette CLE 04/01/1986 CLE vs. BOS L 20 8 4 7 57.1 0 0 - 0 0 - 2 6 8 1 0 0 0 2 -
+p77
+aVKeith Lee CLE 04/01/1986 CLE vs. BOS L 21 11 5 8 62.5 0 0 - 1 4 25.0 2 4 6 1 0 1 3 6 -
+p78
+aVDirk Minniefield CLE 04/01/1986 CLE vs. BOS L 13 7 3 6 50.0 1 1 100.0 0 0 - 0 3 3 3 1 0 0 2 -
+p79
+aVEddie Johnson CLE 04/01/1986 CLE vs. BOS L 15 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -
+p80
+aVRoy Hinson CLE 04/01/1986 CLE vs. BOS L 38 12 3 10 30.0 0 0 - 6 9 66.7 0 7 7 2 0 3 3 6 -
+p81
+aVWorld Free CLE 04/01/1986 CLE vs. BOS L 34 28 10 18 55.6 4 6 66.7 4 5 80.0 0 2 2 3 0 0 5 2 -
+p82
+aVMark West CLE 04/01/1986 CLE vs. BOS L 21 2 1 2 50.0 0 0 - 0 0 - 3 5 8 0 2 1 3 3 -
+p83
+aVMel Turpin CLE 04/01/1986 CLE vs. BOS L 23 16 7 11 63.6 0 0 - 2 2 100.0 1 3 4 0 0 1 0 4 -
+p84
+aVBen McDonald CLE 04/01/1986 CLE vs. BOS L 16 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -
+p85
+aVRon Brewer CLE 04/01/1986 CLE vs. BOS L 5 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -
+p86
+aVEddie Johnson CLE 03/29/1986 CLE @ ATL W 12 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 6 0 0 1 0 -
+p87
+aVBen Poquette CLE 03/29/1986 CLE @ ATL W 18 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 3 0 1 1 -
+p88
+aVKeith Lee CLE 03/29/1986 CLE @ ATL W 32 14 6 8 75.0 1 1 100.0 1 2 50.0 2 3 5 3 3 0 2 4 -
+p89
+aVDirk Minniefield CLE 03/29/1986 CLE @ ATL W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 2 6 -
+p90
+aVRon Brewer CLE 03/29/1986 CLE @ ATL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p91
+aVMark West CLE 03/29/1986 CLE @ ATL W 20 6 3 3 100.0 0 0 - 0 3 0.0 0 2 2 0 0 0 1 4 -
+p92
+aVMel Turpin CLE 03/29/1986 CLE @ ATL W 28 17 8 13 61.5 0 1 0.0 1 2 50.0 2 5 7 0 0 2 2 6 -
+p93
+aVJohn Bagley CLE 03/29/1986 CLE @ ATL W 29 5 1 5 20.0 0 1 0.0 3 4 75.0 0 1 1 9 0 0 4 3 -
+p94
+aVWorld Free CLE 03/29/1986 CLE @ ATL W 39 43 16 23 69.6 3 3 100.0 8 8 100.0 1 5 6 11 1 1 0 3 -
+p95
+aVRoy Hinson CLE 03/29/1986 CLE @ ATL W 43 26 9 13 69.2 0 0 - 8 9 88.9 0 6 6 0 1 2 3 4 -
+p96
+aVBen McDonald CLE 03/29/1986 CLE @ ATL W 3 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -
+p97
+aVJohn Bagley CLE 03/26/1986 CLE @ NJN W 38 17 7 10 70.0 2 2 100.0 1 2 50.0 1 2 3 12 1 0 5 2 -
+p98
+aVEddie Johnson CLE 03/26/1986 CLE @ NJN W 10 8 4 6 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p99
+aVEdgar Jones CLE 03/26/1986 CLE @ NJN W 18 6 2 4 50.0 0 0 - 2 4 50.0 1 2 3 2 1 0 1 5 -
+p100
+aVBen Poquette CLE 03/26/1986 CLE @ NJN W 13 6 2 3 66.7 0 1 0.0 2 2 100.0 1 2 3 0 1 0 0 3 -
+p101
+aVDirk Minniefield CLE 03/26/1986 CLE @ NJN W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 2 4 -
+p102
+aVKeith Lee CLE 03/26/1986 CLE @ NJN W 24 14 6 9 66.7 0 0 - 2 2 100.0 1 8 9 1 0 0 1 6 -
+p103
+aVWorld Free CLE 03/26/1986 CLE @ NJN W 38 26 12 22 54.5 2 3 66.7 0 0 - 2 3 5 7 2 1 1 2 -
+p104
+aVMel Turpin CLE 03/26/1986 CLE @ NJN W 40 16 7 10 70.0 0 0 - 2 2 100.0 2 5 7 0 0 3 2 3 -
+p105
+aVMark West CLE 03/26/1986 CLE @ NJN W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p106
+aVRoy Hinson CLE 03/26/1986 CLE @ NJN W 40 15 7 18 38.9 0 0 - 1 3 33.3 3 6 9 4 0 1 5 4 -
+p107
+aVBen McDonald CLE 03/26/1986 CLE @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p108
+aVDirk Minniefield CLE 03/25/1986 CLE vs. ATL L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 2 0 0 3 0 -
+p109
+aVMark West CLE 03/25/1986 CLE vs. ATL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p110
+aVBen Poquette CLE 03/25/1986 CLE vs. ATL L 21 6 2 2 100.0 0 0 - 2 3 66.7 1 7 8 0 0 0 4 1 -
+p111
+aVKeith Lee CLE 03/25/1986 CLE vs. ATL L 28 4 1 9 11.1 0 0 - 2 2 100.0 1 7 8 1 1 1 2 6 -
+p112
+aVMel Turpin CLE 03/25/1986 CLE vs. ATL L 43 26 10 20 50.0 0 0 - 6 7 85.7 3 1 4 0 0 0 3 1 -
+p113
+aVEddie Johnson CLE 03/25/1986 CLE vs. ATL L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -
+p114
+aVWorld Free CLE 03/25/1986 CLE vs. ATL L 38 23 10 21 47.6 1 3 33.3 2 3 66.7 1 1 2 4 0 1 1 2 -
+p115
+aVJohn Bagley CLE 03/25/1986 CLE vs. ATL L 30 8 3 6 50.0 0 0 - 2 3 66.7 1 3 4 7 3 0 2 5 -
+p116
+aVRoy Hinson CLE 03/25/1986 CLE vs. ATL L 27 11 4 9 44.4 0 0 - 3 6 50.0 1 4 5 1 0 1 2 3 -
+p117
+aVEdgar Jones CLE 03/25/1986 CLE vs. ATL L 20 7 2 3 66.7 0 0 - 3 3 100.0 1 1 2 3 0 1 2 1 -
+p118
+aVEdgar Jones CLE 03/22/1986 CLE vs. CHI W 27 15 6 10 60.0 0 0 - 3 5 60.0 6 3 9 2 1 0 0 5 -
+p119
+aVDirk Minniefield CLE 03/22/1986 CLE vs. CHI W 38 9 3 8 37.5 0 1 0.0 3 5 60.0 0 2 2 16 1 0 1 3 -
+p120
+aVRon Brewer CLE 03/22/1986 CLE vs. CHI W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p121
+aVRoy Hinson CLE 03/22/1986 CLE vs. CHI W 41 28 8 19 42.1 0 0 - 12 16 75.0 0 9 9 5 1 1 2 3 -
+p122
+aVMel Turpin CLE 03/22/1986 CLE vs. CHI W 37 18 8 10 80.0 0 0 - 2 6 33.3 1 7 8 0 1 1 4 6 -
+p123
+aVKeith Lee CLE 03/22/1986 CLE vs. CHI W 27 4 2 6 33.3 0 0 - 0 2 0.0 2 6 8 1 0 1 1 6 -
+p124
+aVEddie Johnson CLE 03/22/1986 CLE vs. CHI W 11 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 2 0 0 4 0 -
+p125
+aVMark West CLE 03/22/1986 CLE vs. CHI W 12 2 1 1 100.0 0 0 - 0 0 - 3 2 5 0 0 0 0 5 -
+p126
+aVWorld Free CLE 03/22/1986 CLE vs. CHI W 39 38 15 26 57.7 2 2 100.0 6 11 54.5 3 2 5 4 0 1 1 4 -
+p127
+aVWorld Free CLE 03/20/1986 CLE vs. NYK L 38 18 8 19 42.1 0 1 0.0 2 2 100.0 1 3 4 6 1 0 1 2 -
+p128
+aVBen McDonald CLE 03/20/1986 CLE vs. NYK L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p129
+aVMel Turpin CLE 03/20/1986 CLE vs. NYK L 24 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 1 1 1 4 -
+p130
+aVBen Poquette CLE 03/20/1986 CLE vs. NYK L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p131
+aVEddie Johnson CLE 03/20/1986 CLE vs. NYK L 32 15 6 17 35.3 2 5 40.0 1 1 100.0 0 4 4 5 1 0 2 3 -
+p132
+aVEdgar Jones CLE 03/20/1986 CLE vs. NYK L 16 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -
+p133
+aVRoy Hinson CLE 03/20/1986 CLE vs. NYK L 44 19 4 14 28.6 0 0 - 11 14 78.6 6 12 18 2 0 3 6 3 -
+p134
+aVRon Brewer CLE 03/20/1986 CLE vs. NYK L 10 2 1 6 16.7 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -
+p135
+aVDirk Minniefield CLE 03/20/1986 CLE vs. NYK L 16 13 4 7 57.1 0 1 0.0 5 5 100.0 1 1 2 3 3 0 2 3 -
+p136
+aVKeith Lee CLE 03/20/1986 CLE vs. NYK L 23 6 3 7 42.9 0 0 - 0 0 - 2 4 6 0 2 0 1 3 -
+p137
+aVMark West CLE 03/20/1986 CLE vs. NYK L 20 2 0 4 0.0 0 0 - 2 3 66.7 2 2 4 0 0 2 2 3 -
+p138
+aVRon Brewer CLE 03/18/1986 CLE @ BOS L 14 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 0 0 0 0 0 -
+p139
+aVJohn Bagley CLE 03/18/1986 CLE @ BOS L 23 8 4 12 33.3 0 0 - 0 0 - 1 2 3 6 3 0 0 1 -
+p140
+aVMark West CLE 03/18/1986 CLE @ BOS L 18 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 0 0 4 1 0 -
+p141
+aVDirk Minniefield CLE 03/18/1986 CLE @ BOS L 13 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 3 4 0 2 0 -
+p142
+aVMel Turpin CLE 03/18/1986 CLE @ BOS L 31 8 4 12 33.3 0 0 - 0 0 - 2 2 4 1 0 1 3 2 -
+p143
+aVBen Poquette CLE 03/18/1986 CLE @ BOS L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p144
+aVEddie Johnson CLE 03/18/1986 CLE @ BOS L 17 22 10 15 66.7 2 3 66.7 0 1 0.0 0 1 1 4 0 0 2 2 -
+p145
+aVRoy Hinson CLE 03/18/1986 CLE @ BOS L 24 8 4 8 50.0 0 0 - 0 0 - 0 3 3 0 0 1 3 6 -
+p146
+aVKeith Lee CLE 03/18/1986 CLE @ BOS L 32 13 5 10 50.0 0 0 - 3 4 75.0 2 10 12 0 1 1 1 3 -
+p147
+aVWorld Free CLE 03/18/1986 CLE @ BOS L 36 26 11 25 44.0 1 3 33.3 3 4 75.0 1 2 3 1 0 0 2 2 -
+p148
+aVBen McDonald CLE 03/18/1986 CLE @ BOS L 19 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 2 0 2 3 -
+p149
+aVKeith Lee CLE 03/17/1986 CLE vs. PHL L 29 8 4 7 57.1 0 0 - 0 0 - 1 3 4 2 0 2 1 6 -
+p150
+aVLonnie Shelton CLE 03/17/1986 CLE vs. PHL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p151
+aVBen Poquette CLE 03/17/1986 CLE vs. PHL L 17 6 3 4 75.0 0 1 0.0 0 0 - 2 4 6 2 0 0 1 2 -
+p152
+aVEddie Johnson CLE 03/17/1986 CLE vs. PHL L 17 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 6 0 0 3 1 -
+p153
+aVMel Turpin CLE 03/17/1986 CLE vs. PHL L 45 28 12 20 60.0 0 0 - 4 4 100.0 3 8 11 1 0 3 3 5 -
+p154
+aVRoy Hinson CLE 03/17/1986 CLE vs. PHL L 39 14 7 15 46.7 0 0 - 0 0 - 2 8 10 1 0 2 2 5 -
+p155
+aVMark West CLE 03/17/1986 CLE vs. PHL L 7 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 3 -
+p156
+aVBen McDonald CLE 03/17/1986 CLE vs. PHL L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p157
+aVJohn Bagley CLE 03/17/1986 CLE vs. PHL L 36 4 2 10 20.0 0 0 - 0 0 - 0 1 1 15 1 0 8 2 -
+p158
+aVWorld Free CLE 03/17/1986 CLE vs. PHL L 43 32 14 25 56.0 2 2 100.0 2 4 50.0 1 0 1 2 5 0 3 2 -
+p159
+aVRon Brewer CLE 03/17/1986 CLE vs. PHL L 14 8 4 7 57.1 0 0 - 0 0 - 1 1 2 2 3 0 0 1 -
+p160
+aVEddie Johnson CLE 03/15/1986 CLE vs. NJN L 19 10 4 10 40.0 0 1 0.0 2 2 100.0 0 0 0 4 0 0 1 1 -
+p161
+aVBen Poquette CLE 03/15/1986 CLE vs. NJN L 14 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p162
+aVMel Turpin CLE 03/15/1986 CLE vs. NJN L 31 20 10 12 83.3 0 0 - 0 1 0.0 2 4 6 0 3 1 5 4 -
+p163
+aVWorld Free CLE 03/15/1986 CLE vs. NJN L 33 9 4 15 26.7 0 0 - 1 5 20.0 0 5 5 6 1 1 4 1 -
+p164
+aVMark West CLE 03/15/1986 CLE vs. NJN L 17 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 0 2 0 2 -
+p165
+aVKeith Lee CLE 03/15/1986 CLE vs. NJN L 31 14 5 9 55.6 0 0 - 4 4 100.0 4 7 11 3 1 2 5 2 -
+p166
+aVRoy Hinson CLE 03/15/1986 CLE vs. NJN L 34 18 8 16 50.0 0 0 - 2 3 66.7 3 3 6 1 0 1 0 5 -
+p167
+aVBen McDonald CLE 03/15/1986 CLE vs. NJN L 17 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p168
+aVDirk Minniefield CLE 03/15/1986 CLE vs. NJN L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 1 3 0 1 0 -
+p169
+aVJohn Bagley CLE 03/15/1986 CLE vs. NJN L 36 17 6 15 40.0 0 1 0.0 5 6 83.3 0 4 4 11 0 0 2 0 -
+p170
+aVLonnie Shelton CLE 03/14/1986 CLE @ PHL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p171
+aVBen McDonald CLE 03/14/1986 CLE @ PHL L 13 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -
+p172
+aVEddie Johnson CLE 03/14/1986 CLE @ PHL L 18 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 4 0 0 6 3 -
+p173
+aVRoy Hinson CLE 03/14/1986 CLE @ PHL L 38 29 13 24 54.2 0 0 - 3 6 50.0 2 2 4 0 1 0 2 4 -
+p174
+aVDirk Minniefield CLE 03/14/1986 CLE @ PHL L 15 9 4 6 66.7 1 1 100.0 0 0 - 0 0 0 5 3 0 0 0 -
+p175
+aVRon Brewer CLE 03/14/1986 CLE @ PHL L 27 10 3 7 42.9 0 1 0.0 4 4 100.0 0 3 3 1 0 0 1 1 -
+p176
+aVMark West CLE 03/14/1986 CLE @ PHL L 14 6 3 3 100.0 0 0 - 0 0 - 1 4 5 1 2 0 1 3 -
+p177
+aVKeith Lee CLE 03/14/1986 CLE @ PHL L 36 10 5 12 41.7 0 0 - 0 0 - 5 9 14 4 1 1 6 3 -
+p178
+aVJohn Bagley CLE 03/14/1986 CLE @ PHL L 38 20 8 19 42.1 0 4 0.0 4 4 100.0 1 2 3 7 1 1 2 2 -
+p179
+aVMel Turpin CLE 03/14/1986 CLE @ PHL L 26 6 3 8 37.5 0 0 - 0 0 - 1 6 7 2 3 0 2 5 -
+p180
+aVBen Poquette CLE 03/14/1986 CLE @ PHL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -
+p181
+aVBen Poquette CLE 03/12/1986 CLE vs. WAS L 18 2 1 1 100.0 0 0 - 0 0 - 1 4 5 2 1 0 0 3 -
+p182
+aVJohn Bagley CLE 03/12/1986 CLE vs. WAS L 23 10 3 5 60.0 0 1 0.0 4 4 100.0 1 1 2 5 0 0 1 2 -
+p183
+aVLonnie Shelton CLE 03/12/1986 CLE vs. WAS L 8 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -
+p184
+aVEddie Johnson CLE 03/12/1986 CLE vs. WAS L 30 25 11 15 73.3 3 5 60.0 0 1 0.0 1 1 2 7 1 0 5 1 -
+p185
+aVWorld Free CLE 03/12/1986 CLE vs. WAS L 23 9 4 12 33.3 0 0 - 1 2 50.0 1 1 2 4 1 0 1 2 -
+p186
+aVRon Brewer CLE 03/12/1986 CLE vs. WAS L 23 6 3 9 33.3 0 1 0.0 0 0 - 0 3 3 3 0 0 0 3 -
+p187
+aVRoy Hinson CLE 03/12/1986 CLE vs. WAS L 33 24 9 12 75.0 0 0 - 6 10 60.0 1 6 7 1 0 0 4 1 -
+p188
+aVMark West CLE 03/12/1986 CLE vs. WAS L 15 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 0 0 1 0 2 -
+p189
+aVDirk Minniefield CLE 03/12/1986 CLE vs. WAS L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -
+p190
+aVKeith Lee CLE 03/12/1986 CLE vs. WAS L 26 11 4 11 36.4 0 0 - 3 4 75.0 5 4 9 2 1 0 4 5 -
+p191
+aVBen McDonald CLE 03/12/1986 CLE vs. WAS L 7 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 1 -
+p192
+aVMel Turpin CLE 03/12/1986 CLE vs. WAS L 30 23 8 12 66.7 0 0 - 7 8 87.5 4 5 9 2 2 1 3 1 -
+p193
+aVRon Brewer CLE 03/11/1986 CLE @ NYK W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p194
+aVMel Turpin CLE 03/11/1986 CLE @ NYK W 34 32 9 17 52.9 0 0 - 14 15 93.3 7 6 13 1 3 3 3 4 -
+p195
+aVKeith Lee CLE 03/11/1986 CLE @ NYK W 33 10 2 5 40.0 0 0 - 6 6 100.0 3 5 8 6 0 1 2 4 -
+p196
+aVMark West CLE 03/11/1986 CLE @ NYK W 11 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 1 0 0 3 -
+p197
+aVRoy Hinson CLE 03/11/1986 CLE @ NYK W 36 25 9 18 50.0 0 0 - 7 10 70.0 1 5 6 0 2 2 2 4 -
+p198
+aVJohn Bagley CLE 03/11/1986 CLE @ NYK W 39 20 6 12 50.0 0 0 - 8 10 80.0 2 1 3 12 3 0 2 1 -
+p199
+aVBen Poquette CLE 03/11/1986 CLE @ NYK W 15 4 2 4 50.0 0 0 - 0 0 - 2 5 7 1 1 1 0 1 -
+p200
+aVBen McDonald CLE 03/11/1986 CLE @ NYK W 15 2 1 4 25.0 0 0 - 0 0 - 1 5 6 1 0 0 0 1 -
+p201
+aVWorld Free CLE 03/11/1986 CLE @ NYK W 31 12 5 18 27.8 0 1 0.0 2 3 66.7 1 1 2 1 0 0 4 3 -
+p202
+aVEddie Johnson CLE 03/11/1986 CLE @ NYK W 21 3 1 8 12.5 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 -
+p203
+aVLonnie Shelton CLE 03/08/1986 CLE @ GOS L 4 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p204
+aVDirk Minniefield CLE 03/08/1986 CLE @ GOS L 9 12 3 5 60.0 1 1 100.0 5 6 83.3 1 0 1 3 1 0 1 4 -
+p205
+aVMark West CLE 03/08/1986 CLE @ GOS L 21 3 1 4 25.0 0 0 - 1 1 100.0 3 5 8 0 0 1 1 6 -
+p206
+aVJohn Bagley CLE 03/08/1986 CLE @ GOS L 28 15 7 14 50.0 1 2 50.0 0 0 - 0 1 1 7 1 0 3 4 -
+p207
+aVRon Brewer CLE 03/08/1986 CLE @ GOS L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -
+p208
+aVKeith Lee CLE 03/08/1986 CLE @ GOS L 17 2 1 7 14.3 0 0 - 0 0 - 6 1 7 0 0 0 1 5 -
+p209
+aVMel Turpin CLE 03/08/1986 CLE @ GOS L 27 14 5 10 50.0 0 0 - 4 5 80.0 4 3 7 0 1 3 2 3 -
+p210
+aVBen McDonald CLE 03/08/1986 CLE @ GOS L 23 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p211
+aVRoy Hinson CLE 03/08/1986 CLE @ GOS L 35 30 12 18 66.7 0 0 - 6 12 50.0 3 5 8 1 0 0 2 5 -
+p212
+aVBen Poquette CLE 03/08/1986 CLE @ GOS L 17 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 0 2 3 -
+p213
+aVEddie Johnson CLE 03/08/1986 CLE @ GOS L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -
+p214
+aVWorld Free CLE 03/08/1986 CLE @ GOS L 34 36 12 20 60.0 1 2 50.0 11 13 84.6 0 2 2 8 3 1 2 4 -
+p215
+aVDirk Minniefield CLE 03/07/1986 CLE @ SEA L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 1 3 -
+p216
+aVKeith Lee CLE 03/07/1986 CLE @ SEA L 28 8 3 8 37.5 0 0 - 2 2 100.0 2 5 7 3 0 2 0 1 -
+p217
+aVBen McDonald CLE 03/07/1986 CLE @ SEA L 9 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -
+p218
+aVMark West CLE 03/07/1986 CLE @ SEA L 29 12 5 9 55.6 0 0 - 2 2 100.0 3 6 9 1 1 1 2 5 -
+p219
+aVRon Brewer CLE 03/07/1986 CLE @ SEA L 21 15 6 7 85.7 1 1 100.0 2 2 100.0 0 0 0 0 2 0 1 1 -
+p220
+aVRoy Hinson CLE 03/07/1986 CLE @ SEA L 31 17 7 16 43.8 0 1 0.0 3 5 60.0 2 3 5 2 0 1 2 5 -
+p221
+aVMel Turpin CLE 03/07/1986 CLE @ SEA L 16 8 3 9 33.3 0 0 - 2 2 100.0 6 1 7 1 0 0 0 5 -
+p222
+aVJohn Bagley CLE 03/07/1986 CLE @ SEA L 23 12 6 17 35.3 0 1 0.0 0 2 0.0 1 2 3 10 6 0 2 2 -
+p223
+aVWorld Free CLE 03/07/1986 CLE @ SEA L 27 15 7 22 31.8 0 2 0.0 1 1 100.0 0 1 1 2 1 0 0 0 -
+p224
+aVEddie Johnson CLE 03/07/1986 CLE @ SEA L 18 6 2 8 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 4 2 -
+p225
+aVLonnie Shelton CLE 03/07/1986 CLE @ SEA L 18 2 1 2 50.0 0 0 - 0 0 - 1 4 5 3 0 0 0 4 -
+p226
+aVBen Poquette CLE 03/07/1986 CLE @ SEA L 13 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 1 -
+p227
+aVRoy Hinson CLE 03/05/1986 CLE @ PHX W 30 22 9 13 69.2 0 0 - 4 7 57.1 2 7 9 2 1 1 2 1 -
+p228
+aVJohn Bagley CLE 03/05/1986 CLE @ PHX W 33 18 8 17 47.1 1 1 100.0 1 3 33.3 0 5 5 8 4 0 3 2 -
+p229
+aVKeith Lee CLE 03/05/1986 CLE @ PHX W 16 4 2 5 40.0 0 0 - 0 0 - 0 5 5 0 0 1 0 6 -
+p230
+aVWorld Free CLE 03/05/1986 CLE @ PHX W 28 23 8 19 42.1 1 2 50.0 6 11 54.5 1 2 3 5 2 1 1 4 -
+p231
+aVMark West CLE 03/05/1986 CLE @ PHX W 30 5 2 4 50.0 0 0 - 1 2 50.0 6 10 16 1 0 2 2 4 -
+p232
+aVMel Turpin CLE 03/05/1986 CLE @ PHX W 16 4 2 3 66.7 0 0 - 0 0 - 4 4 8 0 0 0 2 3 -
+p233
+aVBen Poquette CLE 03/05/1986 CLE @ PHX W 28 9 2 5 40.0 0 0 - 5 6 83.3 0 1 1 1 2 0 4 5 -
+p234
+aVRon Brewer CLE 03/05/1986 CLE @ PHX W 17 2 0 6 0.0 0 0 - 2 2 100.0 0 0 0 3 1 0 0 2 -
+p235
+aVBen McDonald CLE 03/05/1986 CLE @ PHX W 23 9 4 8 50.0 0 1 0.0 1 2 50.0 2 4 6 0 0 0 2 2 -
+p236
+aVEddie Johnson CLE 03/05/1986 CLE @ PHX W 19 19 7 10 70.0 2 2 100.0 3 4 75.0 0 0 0 2 1 0 1 3 -
+p237
+aVRon Brewer CLE 03/04/1986 CLE @ LAC L 14 16 6 8 75.0 0 0 - 4 4 100.0 0 1 1 0 1 1 2 1 -
+p238
+aVJohn Bagley CLE 03/04/1986 CLE @ LAC L 34 11 4 15 26.7 0 0 - 3 3 100.0 1 1 2 6 3 0 3 2 -
+p239
+aVWorld Free CLE 03/04/1986 CLE @ LAC L 34 23 7 21 33.3 1 6 16.7 8 8 100.0 1 0 1 4 0 0 2 3 -
+p240
+aVLonnie Shelton CLE 03/04/1986 CLE @ LAC L 17 11 4 8 50.0 0 0 - 3 3 100.0 1 3 4 0 0 0 2 4 -
+p241
+aVMel Turpin CLE 03/04/1986 CLE @ LAC L 28 2 1 7 14.3 0 0 - 0 0 - 0 3 3 0 1 0 2 2 -
+p242
+aVBen Poquette CLE 03/04/1986 CLE @ LAC L 26 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 2 1 0 1 2 -
+p243
+aVDirk Minniefield CLE 03/04/1986 CLE @ LAC L 14 0 0 2 0.0 0 1 0.0 0 0 - 1 3 4 8 1 0 2 4 -
+p244
+aVKeith Lee CLE 03/04/1986 CLE @ LAC L 19 6 3 6 50.0 0 0 - 0 0 - 2 7 9 0 0 0 0 6 -
+p245
+aVRoy Hinson CLE 03/04/1986 CLE @ LAC L 37 20 6 11 54.5 0 0 - 8 10 80.0 2 8 10 0 0 2 1 3 -
+p246
+aVBen McDonald CLE 03/04/1986 CLE @ LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p247
+aVMark West CLE 03/04/1986 CLE @ LAC L 14 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -
+p248
+aVBen Poquette CLE 02/28/1986 CLE @ CHI L 25 2 1 3 33.3 0 0 - 0 0 - 4 3 7 4 0 0 5 2 -
+p249
+aVDirk Minniefield CLE 02/28/1986 CLE @ CHI L 26 16 6 9 66.7 2 3 66.7 2 2 100.0 0 0 0 7 3 0 2 3 -
+p250
+aVEddie Johnson CLE 02/28/1986 CLE @ CHI L 16 7 3 10 30.0 0 2 0.0 1 1 100.0 2 1 3 1 0 1 0 1 -
+p251
+aVRoy Hinson CLE 02/28/1986 CLE @ CHI L 32 17 7 12 58.3 0 0 - 3 4 75.0 1 2 3 1 0 0 1 2 -
+p252
+aVRon Brewer CLE 02/28/1986 CLE @ CHI L 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p253
+aVWorld Free CLE 02/28/1986 CLE @ CHI L 24 12 4 11 36.4 1 2 50.0 3 4 75.0 0 3 3 3 1 0 0 3 -
+p254
+aVKeith Lee CLE 02/28/1986 CLE @ CHI L 24 11 5 8 62.5 0 0 - 1 1 100.0 1 2 3 3 0 2 2 5 -
+p255
+aVMark West CLE 02/28/1986 CLE @ CHI L 26 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 2 1 3 -
+p256
+aVMel Turpin CLE 02/28/1986 CLE @ CHI L 33 18 8 14 57.1 0 0 - 2 2 100.0 7 3 10 1 0 2 5 2 -
+p257
+aVJohn Bagley CLE 02/28/1986 CLE @ CHI L 24 5 2 10 20.0 0 0 - 1 2 50.0 1 2 3 7 0 0 2 0 -
+p258
+aVJohn Bagley CLE 02/26/1986 CLE @ ATL L 34 14 6 21 28.6 0 0 - 2 2 100.0 1 5 6 12 5 0 2 3 -
+p259
+aVDirk Minniefield CLE 02/26/1986 CLE @ ATL L 9 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 -
+p260
+aVRoy Hinson CLE 02/26/1986 CLE @ ATL L 39 26 10 14 71.4 0 0 - 6 9 66.7 2 10 12 1 2 1 4 4 -
+p261
+aVMark West CLE 02/26/1986 CLE @ ATL L 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 3 4 -
+p262
+aVBen Poquette CLE 02/26/1986 CLE @ ATL L 29 14 5 8 62.5 0 0 - 4 4 100.0 3 6 9 1 0 0 1 4 -
+p263
+aVMel Turpin CLE 02/26/1986 CLE @ ATL L 30 19 8 14 57.1 0 0 - 3 5 60.0 0 6 6 1 0 0 0 2 -
+p264
+aVKeith Lee CLE 02/26/1986 CLE @ ATL L 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 0 5 -
+p265
+aVLonnie Shelton CLE 02/26/1986 CLE @ ATL L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -
+p266
+aVRon Brewer CLE 02/26/1986 CLE @ ATL L 32 15 6 14 42.9 0 1 0.0 3 4 75.0 1 0 1 3 1 0 2 1 -
+p267
+aVEddie Johnson CLE 02/26/1986 CLE @ ATL L 25 11 5 14 35.7 1 1 100.0 0 0 - 0 0 0 9 1 0 1 4 -
+p268
+aVDirk Minniefield CLE 02/24/1986 CLE vs. SAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p269
+aVEddie Johnson CLE 02/24/1986 CLE vs. SAN W 20 15 4 7 57.1 0 2 0.0 7 8 87.5 1 4 5 1 0 0 3 2 -
+p270
+aVLonnie Shelton CLE 02/24/1986 CLE vs. SAN W 20 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 0 0 1 5 -
+p271
+aVBen Poquette CLE 02/24/1986 CLE vs. SAN W 21 8 3 7 42.9 0 0 - 2 2 100.0 5 0 5 2 0 0 1 2 -
+p272
+aVRon Brewer CLE 02/24/1986 CLE vs. SAN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p273
+aVEdgar Jones CLE 02/24/1986 CLE vs. SAN W 26 11 3 8 37.5 0 2 0.0 5 6 83.3 7 1 8 2 4 0 2 3 -
+p274
+aVKeith Lee CLE 02/24/1986 CLE vs. SAN W 7 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -
+p275
+aVRoy Hinson CLE 02/24/1986 CLE vs. SAN W 38 21 7 11 63.6 0 0 - 7 8 87.5 0 8 8 2 3 2 2 4 -
+p276
+aVWorld Free CLE 02/24/1986 CLE vs. SAN W 40 31 11 26 42.3 3 5 60.0 6 8 75.0 0 2 2 3 3 1 2 1 -
+p277
+aVMel Turpin CLE 02/24/1986 CLE vs. SAN W 27 2 1 5 20.0 0 0 - 0 0 - 0 6 6 2 1 2 2 3 -
+p278
+aVMark West CLE 02/24/1986 CLE vs. SAN W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p279
+aVJohn Bagley CLE 02/24/1986 CLE vs. SAN W 33 24 9 13 69.2 0 1 0.0 6 6 100.0 2 4 6 11 1 1 4 6 -
+p280
+aVRoy Hinson CLE 02/22/1986 CLE vs. WAS L 37 26 10 26 38.5 0 0 - 6 8 75.0 5 7 12 1 0 0 3 5 -
+p281
+aVBen Poquette CLE 02/22/1986 CLE vs. WAS L 12 8 4 4 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p282
+aVDirk Minniefield CLE 02/22/1986 CLE vs. WAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p283
+aVLonnie Shelton CLE 02/22/1986 CLE vs. WAS L 15 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 0 0 0 6 -
+p284
+aVJohn Bagley CLE 02/22/1986 CLE vs. WAS L 38 15 5 11 45.5 0 0 - 5 6 83.3 1 4 5 17 0 0 4 0 -
+p285
+aVMel Turpin CLE 02/22/1986 CLE vs. WAS L 30 14 7 14 50.0 0 0 - 0 0 - 2 3 5 1 1 2 0 2 -
+p286
+aVEdgar Jones CLE 02/22/1986 CLE vs. WAS L 10 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p287
+aVMark West CLE 02/22/1986 CLE vs. WAS L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 6 -
+p288
+aVRon Brewer CLE 02/22/1986 CLE vs. WAS L 29 8 4 11 36.4 0 1 0.0 0 0 - 0 1 1 3 2 1 2 3 -
+p289
+aVKeith Lee CLE 02/22/1986 CLE vs. WAS L 25 10 5 5 100.0 0 0 - 0 0 - 1 3 4 2 0 3 0 1 -
+p290
+aVEddie Johnson CLE 02/22/1986 CLE vs. WAS L 24 9 4 13 30.8 0 3 0.0 1 1 100.0 0 1 1 4 0 0 0 2 -
+p291
+aVMel Turpin CLE 02/20/1986 CLE vs. DET L 35 15 6 9 66.7 0 0 - 3 3 100.0 2 5 7 0 1 2 1 2 -
+p292
+aVJohn Bagley CLE 02/20/1986 CLE vs. DET L 39 19 9 15 60.0 0 0 - 1 3 33.3 0 5 5 15 1 1 3 5 -
+p293
+aVEddie Johnson CLE 02/20/1986 CLE vs. DET L 31 20 7 16 43.8 1 3 33.3 5 5 100.0 0 2 2 2 0 0 3 4 -
+p294
+aVEdgar Jones CLE 02/20/1986 CLE vs. DET L 9 5 1 1 100.0 0 0 - 3 6 50.0 0 2 2 0 1 2 0 2 -
+p295
+aVDirk Minniefield CLE 02/20/1986 CLE vs. DET L 5 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -
+p296
+aVLonnie Shelton CLE 02/20/1986 CLE vs. DET L 17 5 2 4 50.0 0 0 - 1 1 100.0 2 3 5 0 1 0 0 4 -
+p297
+aVBen Poquette CLE 02/20/1986 CLE vs. DET L 23 6 3 8 37.5 0 0 - 0 0 - 4 9 13 3 0 0 1 4 -
+p298
+aVKeith Lee CLE 02/20/1986 CLE vs. DET L 21 6 3 6 50.0 0 0 - 0 0 - 0 4 4 1 0 3 2 3 -
+p299
+aVRoy Hinson CLE 02/20/1986 CLE vs. DET L 39 21 7 15 46.7 0 0 - 7 9 77.8 0 8 8 2 1 0 0 3 -
+p300
+aVRon Brewer CLE 02/20/1986 CLE vs. DET L 21 8 4 12 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p301
+aVKeith Lee CLE 02/18/1986 CLE @ NYK W 26 6 3 6 50.0 0 0 - 0 0 - 2 7 9 2 1 1 0 5 -
+p302
+aVEdgar Jones CLE 02/18/1986 CLE @ NYK W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p303
+aVRoy Hinson CLE 02/18/1986 CLE @ NYK W 37 34 14 19 73.7 0 0 - 6 7 85.7 2 7 9 3 1 1 1 5 -
+p304
+aVDirk Minniefield CLE 02/18/1986 CLE @ NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -
+p305
+aVBen Poquette CLE 02/18/1986 CLE @ NYK W 19 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 1 3 5 -
+p306
+aVMel Turpin CLE 02/18/1986 CLE @ NYK W 31 18 7 10 70.0 0 0 - 4 4 100.0 2 5 7 2 0 0 1 3 -
+p307
+aVLonnie Shelton CLE 02/18/1986 CLE @ NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p308
+aVEddie Johnson CLE 02/18/1986 CLE @ NYK W 26 10 5 11 45.5 0 1 0.0 0 4 0.0 2 2 4 6 0 0 2 2 -
+p309
+aVWorld Free CLE 02/18/1986 CLE @ NYK W 25 18 6 16 37.5 0 1 0.0 6 8 75.0 0 0 0 5 0 0 1 2 -
+p310
+aVJohn Bagley CLE 02/18/1986 CLE @ NYK W 43 20 7 14 50.0 0 0 - 6 8 75.0 2 3 5 10 2 0 3 3 -
+p311
+aVMark West CLE 02/18/1986 CLE @ NYK W 16 3 1 2 50.0 0 0 - 1 1 100.0 0 4 4 1 0 1 2 3 -
+p312
+aVMel Turpin CLE 02/17/1986 CLE vs. NYK W 28 17 5 11 45.5 0 0 - 7 9 77.8 2 4 6 0 0 1 1 2 -
+p313
+aVEddie Johnson CLE 02/17/1986 CLE vs. NYK W 27 15 5 7 71.4 4 6 66.7 1 4 25.0 1 2 3 5 1 0 1 3 -
+p314
+aVRon Brewer CLE 02/17/1986 CLE vs. NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p315
+aVMark West CLE 02/17/1986 CLE vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 1 1 -
+p316
+aVBen Poquette CLE 02/17/1986 CLE vs. NYK W 21 4 2 3 66.7 0 0 - 0 0 - 2 6 8 1 0 1 1 2 -
+p317
+aVWorld Free CLE 02/17/1986 CLE vs. NYK W 32 23 10 18 55.6 1 2 50.0 2 2 100.0 0 0 0 3 1 0 2 2 -
+p318
+aVDirk Minniefield CLE 02/17/1986 CLE vs. NYK W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p319
+aVKeith Lee CLE 02/17/1986 CLE vs. NYK W 28 7 2 6 33.3 0 0 - 3 4 75.0 3 9 12 0 0 0 1 5 -
+p320
+aVRoy Hinson CLE 02/17/1986 CLE vs. NYK W 39 24 9 15 60.0 0 1 0.0 6 8 75.0 3 6 9 2 0 3 3 3 -
+p321
+aVLonnie Shelton CLE 02/17/1986 CLE vs. NYK W 16 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 1 0 4 3 -
+p322
+aVJohn Bagley CLE 02/17/1986 CLE vs. NYK W 37 17 7 13 53.8 0 1 0.0 3 5 60.0 2 3 5 15 0 0 2 3 -
+p323
+aVBen Poquette CLE 02/15/1986 CLE @ IND L 28 1 0 2 0.0 0 0 - 1 2 50.0 2 3 5 2 0 1 0 3 -
+p324
+aVMark West CLE 02/15/1986 CLE @ IND L 25 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 2 0 4 1 5 -
+p325
+aVLonnie Shelton CLE 02/15/1986 CLE @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p326
+aVEdgar Jones CLE 02/15/1986 CLE @ IND L 13 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 1 1 0 0 3 -
+p327
+aVRoy Hinson CLE 02/15/1986 CLE @ IND L 41 33 14 25 56.0 0 0 - 5 5 100.0 4 5 9 3 1 2 0 4 -
+p328
+aVKeith Lee CLE 02/15/1986 CLE @ IND L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 5 -
+p329
+aVEddie Johnson CLE 02/15/1986 CLE @ IND L 24 14 5 11 45.5 2 3 66.7 2 2 100.0 0 2 2 3 0 0 2 2 -
+p330
+aVWorld Free CLE 02/15/1986 CLE @ IND L 32 17 6 18 33.3 1 3 33.3 4 7 57.1 2 2 4 3 1 0 0 5 -
+p331
+aVMel Turpin CLE 02/15/1986 CLE @ IND L 16 4 2 5 40.0 0 0 - 0 2 0.0 0 3 3 0 1 1 2 2 -
+p332
+aVDirk Minniefield CLE 02/15/1986 CLE @ IND L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p333
+aVRon Brewer CLE 02/15/1986 CLE @ IND L 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -
+p334
+aVJohn Bagley CLE 02/15/1986 CLE @ IND L 35 15 4 10 40.0 0 2 0.0 7 9 77.8 3 1 4 5 0 0 5 1 -
+p335
+aVRoy Hinson CLE 02/13/1986 CLE vs. NJN W 40 17 7 12 58.3 0 0 - 3 5 60.0 1 4 5 2 4 3 2 4 -
+p336
+aVLonnie Shelton CLE 02/13/1986 CLE vs. NJN W 18 6 3 5 60.0 0 0 - 0 0 - 0 3 3 2 3 1 1 6 -
+p337
+aVEddie Johnson CLE 02/13/1986 CLE vs. NJN W 21 12 6 12 50.0 0 0 - 0 0 - 0 1 1 5 0 0 0 4 -
+p338
+aVRon Brewer CLE 02/13/1986 CLE vs. NJN W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 2 0 1 1 0 -
+p339
+aVMel Turpin CLE 02/13/1986 CLE vs. NJN W 27 18 8 15 53.3 0 1 0.0 2 2 100.0 1 7 8 2 1 2 2 3 -
+p340
+aVKeith Lee CLE 02/13/1986 CLE vs. NJN W 24 11 5 6 83.3 0 0 - 1 2 50.0 1 5 6 1 3 0 3 5 -
+p341
+aVJohn Bagley CLE 02/13/1986 CLE vs. NJN W 33 22 8 14 57.1 0 0 - 6 8 75.0 0 3 3 14 3 0 2 1 -
+p342
+aVDirk Minniefield CLE 02/13/1986 CLE vs. NJN W 6 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -
+p343
+aVBen Poquette CLE 02/13/1986 CLE vs. NJN W 30 15 5 7 71.4 0 0 - 5 8 62.5 5 6 11 4 1 1 0 4 -
+p344
+aVWorld Free CLE 02/13/1986 CLE vs. NJN W 28 28 10 18 55.6 1 2 50.0 7 8 87.5 1 2 3 7 2 0 4 5 -
+p345
+aVWorld Free CLE 02/11/1986 CLE vs. IND W 35 27 11 21 52.4 0 1 0.0 5 6 83.3 0 0 0 3 0 0 1 3 -
+p346
+aVEddie Johnson CLE 02/11/1986 CLE vs. IND W 3 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p347
+aVMel Turpin CLE 02/11/1986 CLE vs. IND W 22 13 6 8 75.0 0 0 - 1 2 50.0 1 0 1 0 3 2 2 5 -
+p348
+aVJohn Bagley CLE 02/11/1986 CLE vs. IND W 39 22 9 14 64.3 0 1 0.0 4 4 100.0 0 1 1 15 2 0 3 1 -
+p349
+aVRon Brewer CLE 02/11/1986 CLE vs. IND W 14 7 2 6 33.3 0 0 - 3 3 100.0 1 1 2 0 1 0 1 1 -
+p350
+aVLonnie Shelton CLE 02/11/1986 CLE vs. IND W 26 6 3 6 50.0 0 0 - 0 0 - 2 7 9 3 1 0 1 2 -
+p351
+aVEdgar Jones CLE 02/11/1986 CLE vs. IND W 26 18 5 9 55.6 0 0 - 8 10 80.0 2 1 3 1 1 0 1 3 -
+p352
+aVBen Poquette CLE 02/11/1986 CLE vs. IND W 26 9 3 4 75.0 0 0 - 3 3 100.0 2 4 6 1 1 1 2 2 -
+p353
+aVKeith Lee CLE 02/11/1986 CLE vs. IND W 14 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 1 0 1 5 -
+p354
+aVDirk Minniefield CLE 02/11/1986 CLE vs. IND W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 0 0 2 -
+p355
+aVRoy Hinson CLE 02/11/1986 CLE vs. IND W 27 9 4 10 40.0 0 0 - 1 1 100.0 0 6 6 0 1 1 1 3 -
+p356
+aVDirk Minniefield CLE 02/06/1986 CLE vs. PHL L 15 6 3 5 60.0 0 0 - 0 0 - 1 1 2 4 0 0 3 3 -
+p357
+aVRon Brewer CLE 02/06/1986 CLE vs. PHL L 12 6 2 5 40.0 2 2 100.0 0 0 - 0 1 1 3 1 0 0 0 -
+p358
+aVKeith Lee CLE 02/06/1986 CLE vs. PHL L 31 8 3 6 50.0 0 0 - 2 4 50.0 2 7 9 1 1 0 0 4 -
+p359
+aVJohnny Davis CLE 02/06/1986 CLE vs. PHL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p360
+aVLonnie Shelton CLE 02/06/1986 CLE vs. PHL L 17 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 1 1 0 2 -
+p361
+aVBen Poquette CLE 02/06/1986 CLE vs. PHL L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 -
+p362
+aVWorld Free CLE 02/06/1986 CLE vs. PHL L 37 21 8 21 38.1 3 4 75.0 2 2 100.0 1 2 3 5 2 1 4 4 -
+p363
+aVEdgar Jones CLE 02/06/1986 CLE vs. PHL L 14 7 3 8 37.5 0 1 0.0 1 2 50.0 1 1 2 0 0 1 1 1 -
+p364
+aVMel Turpin CLE 02/06/1986 CLE vs. PHL L 30 15 6 14 42.9 0 0 - 3 3 100.0 7 5 12 1 2 0 2 5 -
+p365
+aVJohn Bagley CLE 02/06/1986 CLE vs. PHL L 35 8 4 13 30.8 0 0 - 0 0 - 0 7 7 9 4 0 0 2 -
+p366
+aVRoy Hinson CLE 02/06/1986 CLE vs. PHL L 34 24 10 17 58.8 0 0 - 4 4 100.0 4 4 8 2 0 2 3 6 -
+p367
+aVBen Poquette CLE 02/04/1986 CLE vs. ATL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p368
+aVWorld Free CLE 02/04/1986 CLE vs. ATL L 36 28 13 25 52.0 1 1 100.0 1 2 50.0 2 4 6 6 1 1 2 1 -
+p369
+aVRon Brewer CLE 02/04/1986 CLE vs. ATL L 12 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -
+p370
+aVRoy Hinson CLE 02/04/1986 CLE vs. ATL L 37 27 12 17 70.6 0 0 - 3 7 42.9 2 7 9 3 2 1 2 4 -
+p371
+aVJohn Bagley CLE 02/04/1986 CLE vs. ATL L 33 9 4 12 33.3 0 1 0.0 1 1 100.0 1 2 3 14 2 0 4 4 -
+p372
+aVKeith Lee CLE 02/04/1986 CLE vs. ATL L 25 8 4 8 50.0 0 1 0.0 0 0 - 3 4 7 1 2 0 2 1 -
+p373
+aVMel Turpin CLE 02/04/1986 CLE vs. ATL L 36 14 6 13 46.2 0 0 - 2 2 100.0 2 3 5 1 0 2 1 6 -
+p374
+aVLonnie Shelton CLE 02/04/1986 CLE vs. ATL L 18 8 4 6 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -
+p375
+aVEdgar Jones CLE 02/04/1986 CLE vs. ATL L 22 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 1 1 1 3 -
+p376
+aVDirk Minniefield CLE 02/04/1986 CLE vs. ATL L 15 4 2 4 50.0 0 0 - 0 0 - 1 1 2 4 0 0 2 4 -
+p377
+aVDirk Minniefield CLE 01/31/1986 CLE @ DAL L 32 13 6 13 46.2 0 1 0.0 1 5 20.0 1 2 3 5 2 0 0 3 -
+p378
+aVLonnie Shelton CLE 01/31/1986 CLE @ DAL L 7 0 0 5 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p379
+aVJohn Bagley CLE 01/31/1986 CLE @ DAL L 31 9 2 6 33.3 0 1 0.0 5 5 100.0 1 3 4 5 1 1 3 4 -
+p380
+aVWorld Free CLE 01/31/1986 CLE @ DAL L 17 7 3 8 37.5 0 0 - 1 1 100.0 1 3 4 1 1 0 4 2 -
+p381
+aVJohnny Davis CLE 01/31/1986 CLE @ DAL L 16 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 4 1 0 0 0 -
+p382
+aVRon Brewer CLE 01/31/1986 CLE @ DAL L 26 13 5 8 62.5 1 1 100.0 2 4 50.0 0 1 1 0 1 0 2 2 -
+p383
+aVKeith Lee CLE 01/31/1986 CLE @ DAL L 27 14 4 6 66.7 0 0 - 6 6 100.0 1 9 10 1 2 0 2 2 -
+p384
+aVEdgar Jones CLE 01/31/1986 CLE @ DAL L 7 3 0 0 - 0 0 - 3 4 75.0 1 0 1 0 1 1 2 3 -
+p385
+aVRoy Hinson CLE 01/31/1986 CLE @ DAL L 35 17 5 13 38.5 0 0 - 7 10 70.0 2 3 5 1 0 3 4 3 -
+p386
+aVBen Poquette CLE 01/31/1986 CLE @ DAL L 42 11 5 13 38.5 0 0 - 1 2 50.0 7 10 17 2 2 2 3 5 -
+p387
+aVDirk Minniefield CLE 01/30/1986 CLE @ SAN L 14 7 3 6 50.0 0 1 0.0 1 1 100.0 0 2 2 2 0 0 0 0 -
+p388
+aVKeith Lee CLE 01/30/1986 CLE @ SAN L 21 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 0 0 5 -
+p389
+aVJohn Bagley CLE 01/30/1986 CLE @ SAN L 36 17 5 20 25.0 0 1 0.0 7 8 87.5 5 2 7 8 0 0 6 1 -
+p390
+aVEdgar Jones CLE 01/30/1986 CLE @ SAN L 29 18 6 10 60.0 0 0 - 6 7 85.7 3 4 7 1 0 2 1 2 -
+p391
+aVRon Brewer CLE 01/30/1986 CLE @ SAN L 25 8 4 6 66.7 0 0 - 0 0 - 1 1 2 4 0 0 0 3 -
+p392
+aVRoy Hinson CLE 01/30/1986 CLE @ SAN L 31 15 4 12 33.3 0 0 - 7 7 100.0 0 6 6 0 0 0 2 5 -
+p393
+aVBen Poquette CLE 01/30/1986 CLE @ SAN L 24 6 3 4 75.0 0 0 - 0 0 - 1 7 8 2 1 3 1 5 -
+p394
+aVLonnie Shelton CLE 01/30/1986 CLE @ SAN L 23 8 4 10 40.0 0 0 - 0 0 - 2 1 3 3 1 1 2 3 -
+p395
+aVWorld Free CLE 01/30/1986 CLE @ SAN L 37 14 7 18 38.9 0 0 - 0 2 0.0 1 1 2 4 4 0 1 3 -
+p396
+aVLonnie Shelton CLE 01/28/1986 CLE @ HOU L 23 4 2 6 33.3 0 0 - 0 0 - 3 2 5 1 0 0 3 3 -
+p397
+aVKeith Lee CLE 01/28/1986 CLE @ HOU L 13 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 0 1 3 -
+p398
+aVDirk Minniefield CLE 01/28/1986 CLE @ HOU L 20 2 0 0 - 0 0 - 2 2 100.0 0 1 1 8 1 0 2 4 -
+p399
+aVMel Turpin CLE 01/28/1986 CLE @ HOU L 37 17 7 10 70.0 0 0 - 3 6 50.0 2 4 6 0 0 1 1 5 -
+p400
+aVRoy Hinson CLE 01/28/1986 CLE @ HOU L 39 39 11 15 73.3 0 0 - 17 20 85.0 1 1 2 0 1 0 2 5 -
+p401
+aVJohn Bagley CLE 01/28/1986 CLE @ HOU L 28 16 8 13 61.5 0 1 0.0 0 0 - 1 3 4 5 0 0 5 5 -
+p402
+aVWorld Free CLE 01/28/1986 CLE @ HOU L 36 23 6 19 31.6 1 3 33.3 10 12 83.3 0 3 3 10 3 0 5 5 -
+p403
+aVBen Poquette CLE 01/28/1986 CLE @ HOU L 31 4 1 3 33.3 0 1 0.0 2 2 100.0 0 8 8 1 0 0 1 3 -
+p404
+aVRon Brewer CLE 01/28/1986 CLE @ HOU L 13 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 0 1 0 0 0 -
+p405
+aVJohn Bagley CLE 01/27/1986 CLE @ DEN L 28 7 3 7 42.9 0 0 - 1 2 50.0 0 4 4 6 0 0 2 0 -
+p406
+aVJohnny Davis CLE 01/27/1986 CLE @ DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p407
+aVRoy Hinson CLE 01/27/1986 CLE @ DEN L 30 18 9 12 75.0 0 0 - 0 0 - 3 6 9 2 0 3 1 4 -
+p408
+aVKeith Lee CLE 01/27/1986 CLE @ DEN L 21 2 1 9 11.1 0 0 - 0 0 - 2 3 5 1 0 0 0 3 -
+p409
+aVWorld Free CLE 01/27/1986 CLE @ DEN L 36 19 7 15 46.7 0 0 - 5 7 71.4 1 2 3 2 1 0 4 4 -
+p410
+aVEdgar Jones CLE 01/27/1986 CLE @ DEN L 12 8 3 6 50.0 1 1 100.0 1 2 50.0 1 0 1 0 0 1 3 4 -
+p411
+aVRon Brewer CLE 01/27/1986 CLE @ DEN L 20 6 3 9 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 4 -
+p412
+aVDirk Minniefield CLE 01/27/1986 CLE @ DEN L 23 16 6 10 60.0 0 0 - 4 5 80.0 4 2 6 3 0 0 2 3 -
+p413
+aVMel Turpin CLE 01/27/1986 CLE @ DEN L 31 18 7 13 53.8 0 0 - 4 5 80.0 1 8 9 0 2 2 5 1 -
+p414
+aVBen Poquette CLE 01/27/1986 CLE @ DEN L 37 9 4 10 40.0 0 0 - 1 2 50.0 3 5 8 2 1 1 2 1 -
+p415
+aVKeith Lee CLE 01/24/1986 CLE vs. PHL L 34 25 8 15 53.3 0 0 - 9 9 100.0 6 4 10 7 2 0 3 4 -
+p416
+aVJohn Bagley CLE 01/24/1986 CLE vs. PHL L 34 10 3 7 42.9 0 0 - 4 4 100.0 0 0 0 5 2 0 4 3 -
+p417
+aVLonnie Shelton CLE 01/24/1986 CLE vs. PHL L 18 6 3 7 42.9 0 0 - 0 0 - 1 0 1 5 1 0 2 3 -
+p418
+aVRoy Hinson CLE 01/24/1986 CLE vs. PHL L 26 10 5 9 55.6 0 0 - 0 0 - 0 5 5 0 0 0 3 6 -
+p419
+aVBen Poquette CLE 01/24/1986 CLE vs. PHL L 22 3 0 5 0.0 0 0 - 3 4 75.0 0 3 3 1 1 1 0 4 -
+p420
+aVRon Brewer CLE 01/24/1986 CLE vs. PHL L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 2 0 1 0 -
+p421
+aVWorld Free CLE 01/24/1986 CLE vs. PHL L 36 28 11 21 52.4 1 2 50.0 5 7 71.4 3 2 5 2 2 0 2 4 -
+p422
+aVMel Turpin CLE 01/24/1986 CLE vs. PHL L 42 26 12 23 52.2 0 0 - 2 5 40.0 5 4 9 1 0 1 0 2 -
+p423
+aVDirk Minniefield CLE 01/24/1986 CLE vs. PHL L 15 4 2 2 100.0 0 0 - 0 0 - 1 1 2 5 1 0 0 2 -
+p424
+aVEdgar Jones CLE 01/22/1986 CLE vs. DET L 20 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 1 0 1 0 2 -
+p425
+aVLonnie Shelton CLE 01/22/1986 CLE vs. DET L 15 2 1 2 50.0 0 0 - 0 0 - 0 4 4 2 0 0 1 1 -
+p426
+aVJohn Bagley CLE 01/22/1986 CLE vs. DET L 36 12 5 13 38.5 0 0 - 2 2 100.0 1 3 4 16 1 1 4 2 -
+p427
+aVRon Brewer CLE 01/22/1986 CLE vs. DET L 17 10 4 8 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 3 0 2 -
+p428
+aVKeith Lee CLE 01/22/1986 CLE vs. DET L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -
+p429
+aVWorld Free CLE 01/22/1986 CLE vs. DET L 33 21 9 18 50.0 0 1 0.0 3 4 75.0 0 0 0 3 1 0 3 3 -
+p430
+aVMel Turpin CLE 01/22/1986 CLE vs. DET L 33 12 6 12 50.0 0 0 - 0 0 - 2 4 6 2 2 0 0 4 -
+p431
+aVDirk Minniefield CLE 01/22/1986 CLE vs. DET L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 2 1 -
+p432
+aVBen Poquette CLE 01/22/1986 CLE vs. DET L 25 10 3 4 75.0 0 1 0.0 4 4 100.0 0 4 4 2 0 0 0 2 -
+p433
+aVRoy Hinson CLE 01/22/1986 CLE vs. DET L 42 30 11 14 78.6 0 0 - 8 11 72.7 1 5 6 1 1 3 1 5 -
+p434
+aVWorld Free CLE 01/20/1986 CLE vs. PHX W 34 31 12 24 50.0 0 0 - 7 8 87.5 2 2 4 3 3 0 2 2 -
+p435
+aVKeith Lee CLE 01/20/1986 CLE vs. PHX W 20 8 4 7 57.1 0 0 - 0 0 - 1 5 6 1 0 1 2 1 -
+p436
+aVBen Poquette CLE 01/20/1986 CLE vs. PHX W 17 8 4 7 57.1 0 0 - 0 0 - 2 2 4 2 2 1 0 3 -
+p437
+aVJohn Bagley CLE 01/20/1986 CLE vs. PHX W 31 8 4 8 50.0 0 0 - 0 0 - 0 4 4 13 2 0 2 1 -
+p438
+aVMel Turpin CLE 01/20/1986 CLE vs. PHX W 23 12 4 9 44.4 0 0 - 4 4 100.0 1 2 3 0 0 0 1 4 -
+p439
+aVLonnie Shelton CLE 01/20/1986 CLE vs. PHX W 24 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 1 0 1 3 -
+p440
+aVEdgar Jones CLE 01/20/1986 CLE vs. PHX W 21 12 3 5 60.0 0 0 - 6 6 100.0 1 4 5 1 1 0 2 5 -
+p441
+aVRon Brewer CLE 01/20/1986 CLE vs. PHX W 19 11 4 8 50.0 0 0 - 3 4 75.0 0 2 2 1 0 0 1 4 -
+p442
+aVRoy Hinson CLE 01/20/1986 CLE vs. PHX W 34 12 5 10 50.0 0 0 - 2 6 33.3 3 5 8 1 0 2 4 3 -
+p443
+aVDirk Minniefield CLE 01/20/1986 CLE vs. PHX W 17 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 5 0 0 0 3 -
+p444
+aVRoy Hinson CLE 01/18/1986 CLE vs. IND W 31 18 7 13 53.8 0 0 - 4 4 100.0 1 6 7 0 0 1 0 5 -
+p445
+aVLonnie Shelton CLE 01/18/1986 CLE vs. IND W 21 8 4 6 66.7 0 1 0.0 0 0 - 1 2 3 4 1 0 3 3 -
+p446
+aVWorld Free CLE 01/18/1986 CLE vs. IND W 32 14 6 21 28.6 0 4 0.0 2 2 100.0 0 1 1 1 0 0 0 0 -
+p447
+aVEdgar Jones CLE 01/18/1986 CLE vs. IND W 17 2 1 5 20.0 0 0 - 0 0 - 1 4 5 4 0 1 0 2 -
+p448
+aVJohn Bagley CLE 01/18/1986 CLE vs. IND W 31 10 3 6 50.0 0 0 - 4 5 80.0 2 2 4 11 4 0 5 2 -
+p449
+aVMel Turpin CLE 01/18/1986 CLE vs. IND W 37 27 10 20 50.0 0 1 0.0 7 9 77.8 5 7 12 1 2 0 0 1 -
+p450
+aVRon Brewer CLE 01/18/1986 CLE vs. IND W 18 4 2 3 66.7 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -
+p451
+aVBen Poquette CLE 01/18/1986 CLE vs. IND W 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p452
+aVKeith Lee CLE 01/18/1986 CLE vs. IND W 22 5 2 6 33.3 0 0 - 1 2 50.0 2 2 4 0 1 1 1 3 -
+p453
+aVDirk Minniefield CLE 01/18/1986 CLE vs. IND W 20 18 7 8 87.5 0 0 - 4 6 66.7 1 0 1 5 2 0 3 1 -
+p454
+aVJohn Bagley CLE 01/16/1986 CLE @ ATL L 25 12 3 9 33.3 0 0 - 6 6 100.0 1 1 2 6 2 0 5 1 -
+p455
+aVLonnie Shelton CLE 01/16/1986 CLE @ ATL L 15 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -
+p456
+aVRoy Hinson CLE 01/16/1986 CLE @ ATL L 34 21 9 14 64.3 0 0 - 3 5 60.0 0 4 4 0 0 1 2 4 -
+p457
+aVMel Turpin CLE 01/16/1986 CLE @ ATL L 34 6 3 5 60.0 0 0 - 0 0 - 1 9 10 1 2 0 3 2 -
+p458
+aVWorld Free CLE 01/16/1986 CLE @ ATL L 35 26 8 18 44.4 2 2 100.0 8 10 80.0 1 4 5 6 0 0 5 1 -
+p459
+aVJohnny Davis CLE 01/16/1986 CLE @ ATL L 4 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p460
+aVKeith Lee CLE 01/16/1986 CLE @ ATL L 15 8 2 6 33.3 0 0 - 4 4 100.0 2 4 6 1 0 1 0 2 -
+p461
+aVEdgar Jones CLE 01/16/1986 CLE @ ATL L 28 8 3 5 60.0 0 0 - 2 3 66.7 2 0 2 2 1 0 2 4 -
+p462
+aVRon Brewer CLE 01/16/1986 CLE @ ATL L 19 6 2 8 25.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 -
+p463
+aVDirk Minniefield CLE 01/16/1986 CLE @ ATL L 17 9 4 6 66.7 0 0 - 1 1 100.0 1 1 2 2 1 0 2 3 -
+p464
+aVBen Poquette CLE 01/16/1986 CLE @ ATL L 14 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -
+p465
+aVKeith Lee CLE 01/14/1986 CLE vs. POR L 15 6 2 11 18.2 0 1 0.0 2 3 66.7 2 6 8 1 1 0 0 5 -
+p466
+aVWorld Free CLE 01/14/1986 CLE vs. POR L 35 22 8 19 42.1 0 0 - 6 8 75.0 0 2 2 2 2 0 4 1 -
+p467
+aVRoy Hinson CLE 01/14/1986 CLE vs. POR L 37 26 12 18 66.7 0 0 - 2 3 66.7 5 5 10 0 0 1 3 6 -
+p468
+aVRon Brewer CLE 01/14/1986 CLE vs. POR L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p469
+aVJohn Bagley CLE 01/14/1986 CLE vs. POR L 33 13 6 13 46.2 0 0 - 1 2 50.0 2 1 3 11 2 0 2 2 -
+p470
+aVBen Poquette CLE 01/14/1986 CLE vs. POR L 8 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -
+p471
+aVLonnie Shelton CLE 01/14/1986 CLE vs. POR L 13 7 2 5 40.0 0 0 - 3 4 75.0 2 2 4 2 0 0 1 5 -
+p472
+aVEdgar Jones CLE 01/14/1986 CLE vs. POR L 34 9 3 8 37.5 0 1 0.0 3 5 60.0 3 3 6 3 0 0 2 5 -
+p473
+aVMel Turpin CLE 01/14/1986 CLE vs. POR L 36 8 4 8 50.0 0 0 - 0 0 - 1 4 5 1 1 2 1 3 -
+p474
+aVDirk Minniefield CLE 01/14/1986 CLE vs. POR L 22 11 3 7 42.9 0 0 - 5 5 100.0 2 3 5 3 1 0 3 3 -
+p475
+aVLonnie Shelton CLE 01/11/1986 CLE vs. SAC W 18 6 3 4 75.0 0 0 - 0 0 - 2 4 6 3 0 0 0 4 -
+p476
+aVEdgar Jones CLE 01/11/1986 CLE vs. SAC W 24 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 3 0 1 0 2 -
+p477
+aVBen Poquette CLE 01/11/1986 CLE vs. SAC W 12 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -
+p478
+aVJohnny Davis CLE 01/11/1986 CLE vs. SAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p479
+aVKeith Lee CLE 01/11/1986 CLE vs. SAC W 14 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 2 0 0 1 5 -
+p480
+aVRon Brewer CLE 01/11/1986 CLE vs. SAC W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -
+p481
+aVDirk Minniefield CLE 01/11/1986 CLE vs. SAC W 21 6 3 6 50.0 0 0 - 0 0 - 1 0 1 7 0 0 2 2 -
+p482
+aVWorld Free CLE 01/11/1986 CLE vs. SAC W 37 24 10 19 52.6 0 0 - 4 6 66.7 1 0 1 4 1 0 2 1 -
+p483
+aVRoy Hinson CLE 01/11/1986 CLE vs. SAC W 38 22 7 15 46.7 0 0 - 8 10 80.0 3 7 10 1 0 0 4 2 -
+p484
+aVMel Turpin CLE 01/11/1986 CLE vs. SAC W 30 15 7 11 63.6 0 0 - 1 1 100.0 2 5 7 0 1 1 1 5 -
+p485
+aVMark West CLE 01/11/1986 CLE vs. SAC W 8 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 0 2 -
+p486
+aVJohn Bagley CLE 01/11/1986 CLE vs. SAC W 27 12 4 9 44.4 0 0 - 4 4 100.0 2 0 2 7 2 0 1 3 -
+p487
+aVWorld Free CLE 01/08/1986 CLE @ BOS L 23 10 4 14 28.6 0 1 0.0 2 2 100.0 0 2 2 1 1 1 2 1 -
+p488
+aVBen Poquette CLE 01/08/1986 CLE @ BOS L 16 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 0 0 0 1 3 -
+p489
+aVEdgar Jones CLE 01/08/1986 CLE @ BOS L 24 20 9 10 90.0 0 0 - 2 2 100.0 1 1 2 3 0 2 5 3 -
+p490
+aVJohnny Davis CLE 01/08/1986 CLE @ BOS L 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -
+p491
+aVKeith Lee CLE 01/08/1986 CLE @ BOS L 13 5 0 4 0.0 0 0 - 5 6 83.3 2 3 5 0 0 0 0 2 -
+p492
+aVDirk Minniefield CLE 01/08/1986 CLE @ BOS L 32 12 6 11 54.5 0 1 0.0 0 3 0.0 0 2 2 7 1 0 3 3 -
+p493
+aVJohn Bagley CLE 01/08/1986 CLE @ BOS L 19 3 1 6 16.7 0 0 - 1 2 50.0 0 2 2 5 2 0 6 3 -
+p494
+aVRoy Hinson CLE 01/08/1986 CLE @ BOS L 27 10 3 6 50.0 0 0 - 4 6 66.7 0 3 3 2 0 0 2 2 -
+p495
+aVMark West CLE 01/08/1986 CLE @ BOS L 23 8 3 7 42.9 0 0 - 2 2 100.0 0 6 6 0 1 1 2 5 -
+p496
+aVLonnie Shelton CLE 01/08/1986 CLE @ BOS L 18 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 2 0 0 5 -
+p497
+aVMel Turpin CLE 01/08/1986 CLE @ BOS L 23 12 6 9 66.7 0 0 - 0 0 - 2 7 9 0 1 2 0 2 -
+p498
+aVMark West CLE 01/07/1986 CLE @ MIL L 17 2 1 5 20.0 0 0 - 0 2 0.0 0 3 3 0 1 1 2 4 -
+p499
+aVJohn Bagley CLE 01/07/1986 CLE @ MIL L 37 8 4 17 23.5 0 1 0.0 0 0 - 2 4 6 6 1 0 3 1 -
+p500
+aVBen Poquette CLE 01/07/1986 CLE @ MIL L 14 6 3 7 42.9 0 0 - 0 0 - 1 0 1 0 1 1 0 2 -
+p501
+aVKeith Lee CLE 01/07/1986 CLE @ MIL L 7 5 2 6 33.3 1 1 100.0 0 0 - 2 0 2 1 0 0 0 2 -
+p502
+aVMel Turpin CLE 01/07/1986 CLE @ MIL L 25 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 1 4 2 1 -
+p503
+aVRoy Hinson CLE 01/07/1986 CLE @ MIL L 38 24 7 16 43.8 0 0 - 10 10 100.0 5 5 10 1 2 2 0 4 -
+p504
+aVDirk Minniefield CLE 01/07/1986 CLE @ MIL L 25 12 5 9 55.6 1 2 50.0 1 1 100.0 1 5 6 1 1 0 3 5 -
+p505
+aVLonnie Shelton CLE 01/07/1986 CLE @ MIL L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -
+p506
+aVJohnny Davis CLE 01/07/1986 CLE @ MIL L 19 10 3 9 33.3 0 1 0.0 4 6 66.7 1 2 3 6 1 0 1 2 -
+p507
+aVEdgar Jones CLE 01/07/1986 CLE @ MIL L 16 4 1 3 33.3 0 1 0.0 2 2 100.0 2 4 6 1 0 1 1 3 -
+p508
+aVWorld Free CLE 01/07/1986 CLE @ MIL L 36 22 8 17 47.1 1 2 50.0 5 5 100.0 0 1 1 3 2 0 1 1 -
+p509
+aVBen Poquette CLE 01/04/1986 CLE @ NJN L 16 6 3 6 50.0 0 0 - 0 1 0.0 1 4 5 0 0 0 1 4 -
+p510
+aVDirk Minniefield CLE 01/04/1986 CLE @ NJN L 25 10 4 8 50.0 0 1 0.0 2 2 100.0 0 4 4 5 3 0 4 0 -
+p511
+aVJohnny Davis CLE 01/04/1986 CLE @ NJN L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p512
+aVRoy Hinson CLE 01/04/1986 CLE @ NJN L 31 10 4 14 28.6 0 0 - 2 2 100.0 1 4 5 0 0 1 1 5 -
+p513
+aVEdgar Jones CLE 01/04/1986 CLE @ NJN L 18 7 1 2 50.0 0 0 - 5 6 83.3 0 2 2 0 0 0 1 0 -
+p514
+aVMel Turpin CLE 01/04/1986 CLE @ NJN L 25 11 4 8 50.0 0 0 - 3 3 100.0 1 8 9 0 0 1 1 6 -
+p515
+aVLonnie Shelton CLE 01/04/1986 CLE @ NJN L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 3 -
+p516
+aVJohn Bagley CLE 01/04/1986 CLE @ NJN L 33 12 6 16 37.5 0 1 0.0 0 0 - 0 3 3 10 4 0 2 2 -
+p517
+aVMark West CLE 01/04/1986 CLE @ NJN L 21 7 3 6 50.0 0 0 - 1 2 50.0 3 3 6 1 0 0 0 4 -
+p518
+aVWorld Free CLE 01/04/1986 CLE @ NJN L 32 28 9 18 50.0 1 3 33.3 9 9 100.0 1 1 2 3 1 0 1 2 -
+p519
+aVKeith Lee CLE 01/04/1986 CLE @ NJN L 17 9 3 8 37.5 0 3 0.0 3 3 100.0 2 0 2 0 0 0 2 4 -
+p520
+aVWorld Free CLE 01/03/1986 CLE vs. LAC W 33 22 11 20 55.0 0 1 0.0 0 1 0.0 0 1 1 8 1 0 3 0 -
+p521
+aVKeith Lee CLE 01/03/1986 CLE vs. LAC W 17 9 4 9 44.4 0 0 - 1 2 50.0 0 6 6 1 0 1 3 2 -
+p522
+aVMel Turpin CLE 01/03/1986 CLE vs. LAC W 30 20 7 13 53.8 0 0 - 6 6 100.0 3 6 9 1 1 2 3 4 -
+p523
+aVJohnny Davis CLE 01/03/1986 CLE vs. LAC W 16 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 2 1 0 2 3 -
+p524
+aVDirk Minniefield CLE 01/03/1986 CLE vs. LAC W 23 12 5 8 62.5 0 1 0.0 2 2 100.0 2 3 5 9 2 0 4 5 -
+p525
+aVLonnie Shelton CLE 01/03/1986 CLE vs. LAC W 16 6 3 4 75.0 0 0 - 0 0 - 2 3 5 4 2 0 0 2 -
+p526
+aVBen Poquette CLE 01/03/1986 CLE vs. LAC W 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -
+p527
+aVEdgar Jones CLE 01/03/1986 CLE vs. LAC W 19 13 4 5 80.0 0 0 - 5 5 100.0 1 3 4 1 0 1 2 2 -
+p528
+aVRoy Hinson CLE 01/03/1986 CLE vs. LAC W 33 16 7 11 63.6 0 0 - 2 3 66.7 3 4 7 3 2 4 1 3 -
+p529
+aVMark West CLE 01/03/1986 CLE vs. LAC W 21 6 3 3 100.0 0 0 - 0 2 0.0 2 6 8 1 1 1 1 5 -
+p530
+aVJohn Bagley CLE 01/03/1986 CLE vs. LAC W 24 14 7 11 63.6 0 0 - 0 0 - 0 4 4 9 1 0 2 4 -
+p531
+aVJohn Bagley CLE 12/30/1985 CLE vs. CHI L 34 15 4 12 33.3 0 1 0.0 7 7 100.0 4 2 6 18 1 0 2 1 -
+p532
+aVLonnie Shelton CLE 12/30/1985 CLE vs. CHI L 22 8 4 7 57.1 0 0 - 0 0 - 1 6 7 2 0 0 2 5 -
+p533
+aVJohnny Davis CLE 12/30/1985 CLE vs. CHI L 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 4 0 0 1 2 -
+p534
+aVKeith Lee CLE 12/30/1985 CLE vs. CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p535
+aVMark West CLE 12/30/1985 CLE vs. CHI L 16 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 0 0 2 5 -
+p536
+aVEdgar Jones CLE 12/30/1985 CLE vs. CHI L 17 12 4 10 40.0 0 0 - 4 4 100.0 1 4 5 1 0 2 0 0 -
+p537
+aVRoy Hinson CLE 12/30/1985 CLE vs. CHI L 35 19 8 16 50.0 0 0 - 3 8 37.5 2 8 10 3 1 1 2 1 -
+p538
+aVDirk Minniefield CLE 12/30/1985 CLE vs. CHI L 14 8 3 4 75.0 1 1 100.0 1 2 50.0 0 0 0 2 0 0 1 3 -
+p539
+aVWorld Free CLE 12/30/1985 CLE vs. CHI L 31 29 12 18 66.7 0 2 0.0 5 6 83.3 0 1 1 2 2 1 1 5 -
+p540
+aVMel Turpin CLE 12/30/1985 CLE vs. CHI L 32 10 5 11 45.5 0 0 - 0 0 - 2 8 10 1 0 4 0 2 -
+p541
+aVBen Poquette CLE 12/30/1985 CLE vs. CHI L 17 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p542
+aVWorld Free CLE 12/28/1985 CLE vs. MIL L 43 22 10 22 45.5 0 2 0.0 2 4 50.0 3 1 4 5 1 0 1 4 -
+p543
+aVDirk Minniefield CLE 12/28/1985 CLE vs. MIL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -
+p544
+aVEdgar Jones CLE 12/28/1985 CLE vs. MIL L 15 10 4 8 50.0 0 0 - 2 3 66.7 0 3 3 1 0 0 1 1 -
+p545
+aVJohnny Davis CLE 12/28/1985 CLE vs. MIL L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -
+p546
+aVBen Poquette CLE 12/28/1985 CLE vs. MIL L 30 14 5 9 55.6 0 0 - 4 4 100.0 3 3 6 1 0 1 5 5 -
+p547
+aVMark West CLE 12/28/1985 CLE vs. MIL L 28 6 3 6 50.0 0 0 - 0 5 0.0 4 5 9 1 1 2 1 4 -
+p548
+aVKeith Lee CLE 12/28/1985 CLE vs. MIL L 5 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 -
+p549
+aVRoy Hinson CLE 12/28/1985 CLE vs. MIL L 42 18 7 10 70.0 0 0 - 4 7 57.1 0 7 7 2 0 1 3 4 -
+p550
+aVMel Turpin CLE 12/28/1985 CLE vs. MIL L 36 20 10 15 66.7 0 0 - 0 0 - 4 4 8 1 0 0 2 4 -
+p551
+aVJohn Bagley CLE 12/28/1985 CLE vs. MIL L 44 18 6 14 42.9 0 0 - 6 6 100.0 3 8 11 13 2 0 5 3 -
+p552
+aVLonnie Shelton CLE 12/28/1985 CLE vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p553
+aVKeith Lee CLE 12/27/1985 CLE @ DET W 10 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 1 0 1 0 -
+p554
+aVWorld Free CLE 12/27/1985 CLE @ DET W 33 29 8 18 44.4 1 2 50.0 12 13 92.3 2 3 5 3 1 0 4 2 -
+p555
+aVLonnie Shelton CLE 12/27/1985 CLE @ DET W 21 13 6 7 85.7 0 0 - 1 1 100.0 1 2 3 3 1 0 0 4 -
+p556
+aVMel Turpin CLE 12/27/1985 CLE @ DET W 30 17 7 13 53.8 0 0 - 3 4 75.0 5 10 15 2 0 6 3 3 -
+p557
+aVBen Poquette CLE 12/27/1985 CLE @ DET W 24 5 1 4 25.0 0 0 - 3 3 100.0 1 4 5 1 0 0 2 2 -
+p558
+aVRoy Hinson CLE 12/27/1985 CLE @ DET W 30 22 8 13 61.5 0 0 - 6 8 75.0 4 6 10 2 3 0 0 3 -
+p559
+aVJohnny Davis CLE 12/27/1985 CLE @ DET W 17 10 3 6 50.0 0 0 - 4 4 100.0 0 0 0 2 2 0 1 1 -
+p560
+aVMark West CLE 12/27/1985 CLE @ DET W 29 4 1 5 20.0 0 0 - 2 4 50.0 1 4 5 0 0 2 5 4 -
+p561
+aVDirk Minniefield CLE 12/27/1985 CLE @ DET W 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 5 0 0 4 1 -
+p562
+aVJohn Bagley CLE 12/27/1985 CLE @ DET W 34 13 6 17 35.3 0 1 0.0 1 2 50.0 1 4 5 10 3 0 0 3 -
+p563
+aVLonnie Shelton CLE 12/23/1985 CLE @ NJN L 26 2 1 7 14.3 0 1 0.0 0 0 - 0 4 4 2 1 0 3 2 -
+p564
+aVRoy Hinson CLE 12/23/1985 CLE @ NJN L 37 20 8 14 57.1 0 0 - 4 6 66.7 3 2 5 2 2 1 2 2 -
+p565
+aVEdgar Jones CLE 12/23/1985 CLE @ NJN L 17 9 4 9 44.4 1 2 50.0 0 5 0.0 0 2 2 2 0 0 2 3 -
+p566
+aVMel Turpin CLE 12/23/1985 CLE @ NJN L 29 12 5 8 62.5 0 0 - 2 3 66.7 3 5 8 3 0 1 1 2 -
+p567
+aVDirk Minniefield CLE 12/23/1985 CLE @ NJN L 10 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -
+p568
+aVJohn Bagley CLE 12/23/1985 CLE @ NJN L 38 12 6 12 50.0 0 0 - 0 0 - 0 1 1 9 3 0 3 1 -
+p569
+aVMark West CLE 12/23/1985 CLE @ NJN L 14 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 6 -
+p570
+aVJohnny Davis CLE 12/23/1985 CLE @ NJN L 14 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -
+p571
+aVBen Poquette CLE 12/23/1985 CLE @ NJN L 21 4 2 2 100.0 0 0 - 0 0 - 1 4 5 2 0 0 2 0 -
+p572
+aVWorld Free CLE 12/23/1985 CLE @ NJN L 34 30 9 19 47.4 2 6 33.3 10 12 83.3 3 1 4 2 3 0 2 4 -
+p573
+aVEdgar Jones CLE 12/22/1985 CLE vs. DAL W 18 16 6 11 54.5 0 0 - 4 5 80.0 0 1 1 0 1 0 1 0 -
+p574
+aVBen Poquette CLE 12/22/1985 CLE vs. DAL W 20 8 4 7 57.1 0 0 - 0 0 - 3 2 5 1 0 0 0 1 -
+p575
+aVMark West CLE 12/22/1985 CLE vs. DAL W 25 3 1 1 100.0 0 0 - 1 4 25.0 1 6 7 1 3 1 2 5 -
+p576
+aVLonnie Shelton CLE 12/22/1985 CLE vs. DAL W 24 10 5 7 71.4 0 0 - 0 0 - 0 5 5 2 1 0 1 5 -
+p577
+aVDirk Minniefield CLE 12/22/1985 CLE vs. DAL W 21 9 3 8 37.5 0 1 0.0 3 4 75.0 2 0 2 7 2 0 1 1 -
+p578
+aVKeith Lee CLE 12/22/1985 CLE vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p579
+aVRoy Hinson CLE 12/22/1985 CLE vs. DAL W 33 26 9 17 52.9 0 0 - 8 8 100.0 3 5 8 2 0 0 0 5 -
+p580
+aVMel Turpin CLE 12/22/1985 CLE vs. DAL W 16 1 0 2 0.0 0 0 - 1 2 50.0 0 5 5 0 1 0 2 4 -
+p581
+aVJohnny Davis CLE 12/22/1985 CLE vs. DAL W 18 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 4 1 0 2 0 -
+p582
+aVJohn Bagley CLE 12/22/1985 CLE vs. DAL W 25 6 3 8 37.5 0 1 0.0 0 0 - 1 4 5 14 1 0 1 0 -
+p583
+aVWorld Free CLE 12/22/1985 CLE vs. DAL W 37 32 14 27 51.9 2 4 50.0 2 2 100.0 0 0 0 4 2 1 3 4 -
+p584
+aVJohn Bagley CLE 12/20/1985 CLE vs. LAL L 21 7 3 11 27.3 0 0 - 1 2 50.0 0 1 1 9 1 0 2 1 -
+p585
+aVBen Poquette CLE 12/20/1985 CLE vs. LAL L 14 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -
+p586
+aVMel Turpin CLE 12/20/1985 CLE vs. LAL L 23 14 6 11 54.5 0 0 - 2 2 100.0 1 2 3 1 1 1 1 2 -
+p587
+aVRoy Hinson CLE 12/20/1985 CLE vs. LAL L 19 11 4 9 44.4 0 0 - 3 3 100.0 1 1 2 0 1 0 2 5 -
+p588
+aVDirk Minniefield CLE 12/20/1985 CLE vs. LAL L 27 12 5 10 50.0 0 1 0.0 2 2 100.0 0 0 0 8 1 0 1 2 -
+p589
+aVKeith Lee CLE 12/20/1985 CLE vs. LAL L 8 9 4 11 36.4 0 0 - 1 2 50.0 3 0 3 0 0 0 0 0 -
+p590
+aVLonnie Shelton CLE 12/20/1985 CLE vs. LAL L 12 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 0 0 0 1 1 -
+p591
+aVJohnny Davis CLE 12/20/1985 CLE vs. LAL L 16 6 1 3 33.3 0 0 - 4 4 100.0 0 0 0 5 0 0 0 1 -
+p592
+aVEdgar Jones CLE 12/20/1985 CLE vs. LAL L 18 14 6 10 60.0 0 1 0.0 2 3 66.7 1 2 3 0 1 1 1 2 -
+p593
+aVPhil Hubbard CLE 12/20/1985 CLE vs. LAL L 22 14 6 9 66.7 0 0 - 2 4 50.0 3 5 8 1 0 0 1 3 -
+p594
+aVWorld Free CLE 12/20/1985 CLE vs. LAL L 28 15 4 13 30.8 1 4 25.0 6 6 100.0 0 1 1 2 1 0 2 2 -
+p595
+aVMark West CLE 12/20/1985 CLE vs. LAL L 32 6 3 3 100.0 0 0 - 0 0 - 1 10 11 0 0 1 1 4 -
+p596
+aVKeith Lee CLE 12/19/1985 CLE @ NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p597
+aVMark West CLE 12/19/1985 CLE @ NYK W 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 2 5 -
+p598
+aVJohn Bagley CLE 12/19/1985 CLE @ NYK W 37 16 6 13 46.2 1 1 100.0 3 4 75.0 0 2 2 4 2 0 3 2 -
+p599
+aVMel Turpin CLE 12/19/1985 CLE @ NYK W 38 29 13 15 86.7 0 0 - 3 6 50.0 3 11 14 1 1 0 2 4 -
+p600
+aVRoy Hinson CLE 12/19/1985 CLE @ NYK W 23 14 5 7 71.4 0 0 - 4 5 80.0 2 4 6 1 0 0 3 5 -
+p601
+aVWorld Free CLE 12/19/1985 CLE @ NYK W 39 28 8 21 38.1 0 3 0.0 12 12 100.0 3 2 5 7 1 0 2 1 -
+p602
+aVBen Poquette CLE 12/19/1985 CLE @ NYK W 20 3 1 4 25.0 0 0 - 1 2 50.0 3 2 5 1 1 2 1 1 -
+p603
+aVLonnie Shelton CLE 12/19/1985 CLE @ NYK W 22 4 2 4 50.0 0 0 - 0 0 - 2 2 4 2 0 0 1 5 -
+p604
+aVDirk Minniefield CLE 12/19/1985 CLE @ NYK W 15 6 2 4 50.0 0 0 - 2 3 66.7 0 3 3 0 1 0 1 1 -
+p605
+aVEdgar Jones CLE 12/19/1985 CLE @ NYK W 9 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 4 -
+p606
+aVJohnny Davis CLE 12/19/1985 CLE @ NYK W 5 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -
+p607
+aVPhil Hubbard CLE 12/19/1985 CLE @ NYK W 19 5 2 4 50.0 0 0 - 1 3 33.3 2 1 3 2 2 0 5 5 -
+p608
+aVDirk Minniefield CLE 12/17/1985 CLE vs. HOU L 12 5 2 6 33.3 0 0 - 1 1 100.0 1 3 4 3 1 0 1 1 -
+p609
+aVWorld Free CLE 12/17/1985 CLE vs. HOU L 36 23 8 23 34.8 2 5 40.0 5 6 83.3 2 4 6 8 2 0 3 3 -
+p610
+aVJohn Bagley CLE 12/17/1985 CLE vs. HOU L 36 6 3 9 33.3 0 0 - 0 0 - 1 5 6 11 1 0 3 3 -
+p611
+aVMel Turpin CLE 12/17/1985 CLE vs. HOU L 27 12 6 9 66.7 0 0 - 0 0 - 1 2 3 2 1 0 1 3 -
+p612
+aVMark West CLE 12/17/1985 CLE vs. HOU L 30 12 5 5 100.0 0 0 - 2 2 100.0 4 6 10 0 0 1 1 5 -
+p613
+aVLonnie Shelton CLE 12/17/1985 CLE vs. HOU L 19 6 3 6 50.0 0 0 - 0 0 - 3 2 5 2 0 0 3 4 -
+p614
+aVRoy Hinson CLE 12/17/1985 CLE vs. HOU L 39 24 12 18 66.7 0 0 - 0 0 - 0 7 7 0 0 3 1 2 -
+p615
+aVJohnny Davis CLE 12/17/1985 CLE vs. HOU L 12 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 1 1 2 2 -
+p616
+aVBen Poquette CLE 12/17/1985 CLE vs. HOU L 22 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 -
+p617
+aVKeith Lee CLE 12/17/1985 CLE vs. HOU L 7 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -
+p618
+aVJohnny Davis CLE 12/14/1985 CLE vs. BOS W 18 6 3 6 50.0 0 0 - 0 0 - 0 0 0 5 0 0 0 0 -
+p619
+aVRoy Hinson CLE 12/14/1985 CLE vs. BOS W 42 20 8 12 66.7 0 0 - 4 4 100.0 0 10 10 2 1 2 4 5 -
+p620
+aVLonnie Shelton CLE 12/14/1985 CLE vs. BOS W 27 12 5 10 50.0 0 0 - 2 2 100.0 3 4 7 1 1 0 1 5 -
+p621
+aVWorld Free CLE 12/14/1985 CLE vs. BOS W 37 22 7 21 33.3 2 3 66.7 6 7 85.7 0 1 1 6 1 0 3 1 -
+p622
+aVKeith Lee CLE 12/14/1985 CLE vs. BOS W 4 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p623
+aVDirk Minniefield CLE 12/14/1985 CLE vs. BOS W 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 3 0 2 2 -
+p624
+aVMel Turpin CLE 12/14/1985 CLE vs. BOS W 20 6 3 8 37.5 0 0 - 0 2 0.0 2 6 8 2 0 1 2 3 -
+p625
+aVMark West CLE 12/14/1985 CLE vs. BOS W 32 14 6 6 100.0 0 0 - 2 2 100.0 3 8 11 1 1 2 2 2 -
+p626
+aVBen Poquette CLE 12/14/1985 CLE vs. BOS W 19 8 4 9 44.4 0 0 - 0 0 - 1 3 4 3 0 0 0 1 -
+p627
+aVJohn Bagley CLE 12/14/1985 CLE vs. BOS W 30 11 4 10 40.0 1 1 100.0 2 4 50.0 0 6 6 8 0 0 6 3 -
+p628
+aVWorld Free CLE 12/13/1985 CLE @ MIL W 39 39 13 22 59.1 4 6 66.7 9 14 64.3 1 3 4 2 3 0 4 4 -
+p629
+aVPhil Hubbard CLE 12/13/1985 CLE @ MIL W 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 4 2 -
+p630
+aVBen Poquette CLE 12/13/1985 CLE @ MIL W 23 8 4 10 40.0 0 0 - 0 0 - 2 5 7 0 0 1 1 4 -
+p631
+aVJohn Bagley CLE 12/13/1985 CLE @ MIL W 39 10 3 11 27.3 0 0 - 4 4 100.0 1 5 6 14 1 0 7 3 -
+p632
+aVDirk Minniefield CLE 12/13/1985 CLE @ MIL W 18 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 3 2 0 1 2 -
+p633
+aVLonnie Shelton CLE 12/13/1985 CLE @ MIL W 13 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 1 0 0 1 5 -
+p634
+aVMark West CLE 12/13/1985 CLE @ MIL W 24 12 5 5 100.0 0 0 - 2 3 66.7 3 2 5 0 0 1 3 4 -
+p635
+aVMel Turpin CLE 12/13/1985 CLE @ MIL W 16 17 7 10 70.0 0 0 - 3 3 100.0 4 5 9 0 1 1 2 6 -
+p636
+aVRoy Hinson CLE 12/13/1985 CLE @ MIL W 33 10 4 12 33.3 0 0 - 2 2 100.0 6 5 11 1 0 1 2 5 -
+p637
+aVJohnny Davis CLE 12/13/1985 CLE @ MIL W 24 17 3 7 42.9 0 0 - 11 14 78.6 0 1 1 5 1 0 2 0 -
+p638
+aVEdgar Jones CLE 12/11/1985 CLE @ PHL L 20 18 6 12 50.0 1 4 25.0 5 6 83.3 0 2 2 0 2 0 0 4 -
+p639
+aVJohnny Davis CLE 12/11/1985 CLE @ PHL L 14 4 2 5 40.0 0 0 - 0 0 - 1 0 1 3 0 0 1 2 -
+p640
+aVDirk Minniefield CLE 12/11/1985 CLE @ PHL L 18 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 8 0 0 0 2 -
+p641
+aVMel Turpin CLE 12/11/1985 CLE @ PHL L 19 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 2 0 3 5 -
+p642
+aVMark West CLE 12/11/1985 CLE @ PHL L 6 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -
+p643
+aVPhil Hubbard CLE 12/11/1985 CLE @ PHL L 30 14 5 7 71.4 0 0 - 4 6 66.7 5 4 9 0 1 0 3 5 -
+p644
+aVWorld Free CLE 12/11/1985 CLE @ PHL L 29 27 10 17 58.8 0 1 0.0 7 12 58.3 0 1 1 2 1 2 5 2 -
+p645
+aVLonnie Shelton CLE 12/11/1985 CLE @ PHL L 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 0 3 2 -
+p646
+aVJohn Bagley CLE 12/11/1985 CLE @ PHL L 35 6 2 5 40.0 0 0 - 2 4 50.0 1 4 5 10 2 0 5 2 -
+p647
+aVBen Poquette CLE 12/11/1985 CLE @ PHL L 21 10 5 8 62.5 0 0 - 0 1 0.0 2 8 10 0 0 0 2 3 -
+p648
+aVRoy Hinson CLE 12/11/1985 CLE @ PHL L 34 21 8 14 57.1 0 0 - 5 5 100.0 3 3 6 0 2 1 6 4 -
+p649
+aVMel Turpin CLE 12/10/1985 CLE vs. DET L 27 11 3 7 42.9 0 0 - 5 6 83.3 3 1 4 0 1 0 2 3 -
+p650
+aVEnnis Whatley CLE 12/10/1985 CLE vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p651
+aVMark West CLE 12/10/1985 CLE vs. DET L 5 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p652
+aVBen Poquette CLE 12/10/1985 CLE vs. DET L 12 7 3 3 100.0 0 0 - 1 1 100.0 1 3 4 0 0 1 1 6 -
+p653
+aVLonnie Shelton CLE 12/10/1985 CLE vs. DET L 14 9 4 5 80.0 0 0 - 1 1 100.0 0 3 3 2 0 1 0 1 -
+p654
+aVPhil Hubbard CLE 12/10/1985 CLE vs. DET L 30 11 4 14 28.6 0 0 - 3 6 50.0 4 6 10 3 1 0 0 2 -
+p655
+aVDirk Minniefield CLE 12/10/1985 CLE vs. DET L 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 1 -
+p656
+aVWorld Free CLE 12/10/1985 CLE vs. DET L 38 30 12 26 46.2 1 3 33.3 5 6 83.3 0 3 3 1 1 1 1 3 -
+p657
+aVJohnny Davis CLE 12/10/1985 CLE vs. DET L 12 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 1 0 0 2 1 -
+p658
+aVEdgar Jones CLE 12/10/1985 CLE vs. DET L 20 5 2 8 25.0 0 1 0.0 1 3 33.3 3 0 3 0 1 0 1 4 -
+p659
+aVJohn Bagley CLE 12/10/1985 CLE vs. DET L 35 12 4 7 57.1 0 0 - 4 4 100.0 2 2 4 10 1 0 5 2 -
+p660
+aVRoy Hinson CLE 12/10/1985 CLE vs. DET L 35 23 8 17 47.1 0 0 - 7 10 70.0 5 5 10 3 0 2 0 2 -
+p661
+aVEdgar Jones CLE 12/07/1985 CLE vs. DEN W 19 10 3 7 42.9 0 0 - 4 4 100.0 1 3 4 1 1 0 1 1 -
+p662
+aVBen Poquette CLE 12/07/1985 CLE vs. DEN W 23 8 3 9 33.3 0 0 - 2 3 66.7 5 6 11 1 0 1 2 3 -
+p663
+aVWorld Free CLE 12/07/1985 CLE vs. DEN W 34 31 12 26 46.2 0 0 - 7 9 77.8 3 3 6 3 1 0 3 2 -
+p664
+aVJohn Bagley CLE 12/07/1985 CLE vs. DEN W 37 9 3 4 75.0 0 0 - 3 4 75.0 0 2 2 14 3 1 6 1 -
+p665
+aVRoy Hinson CLE 12/07/1985 CLE vs. DEN W 28 16 6 9 66.7 0 0 - 4 4 100.0 0 10 10 1 0 0 3 5 -
+p666
+aVPhil Hubbard CLE 12/07/1985 CLE vs. DEN W 36 22 10 14 71.4 0 0 - 2 4 50.0 7 7 14 2 3 0 5 5 -
+p667
+aVEnnis Whatley CLE 12/07/1985 CLE vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p668
+aVJohnny Davis CLE 12/07/1985 CLE vs. DEN W 20 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 5 1 0 2 1 -
+p669
+aVMark West CLE 12/07/1985 CLE vs. DEN W 12 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 2 4 4 -
+p670
+aVMel Turpin CLE 12/07/1985 CLE vs. DEN W 29 20 8 15 53.3 0 0 - 4 4 100.0 3 7 10 0 1 2 1 2 -
+p671
+aVMel Turpin CLE 12/05/1985 CLE vs. SEA W 39 19 8 18 44.4 0 0 - 3 4 75.0 4 5 9 3 0 0 2 4 -
+p672
+aVMark West CLE 12/05/1985 CLE vs. SEA W 24 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 4 -
+p673
+aVJohnny Davis CLE 12/05/1985 CLE vs. SEA W 19 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 7 0 0 1 2 -
+p674
+aVEdgar Jones CLE 12/05/1985 CLE vs. SEA W 29 16 7 13 53.8 0 0 - 2 2 100.0 2 3 5 2 0 2 2 3 -
+p675
+aVBen Poquette CLE 12/05/1985 CLE vs. SEA W 22 2 1 3 33.3 0 0 - 0 0 - 0 10 10 1 0 0 0 3 -
+p676
+aVWorld Free CLE 12/05/1985 CLE vs. SEA W 41 24 4 13 30.8 0 2 0.0 16 21 76.2 1 5 6 6 1 0 2 2 -
+p677
+aVJohn Bagley CLE 12/05/1985 CLE vs. SEA W 36 12 4 9 44.4 0 1 0.0 4 6 66.7 1 0 1 11 1 0 2 2 -
+p678
+aVRon Anderson CLE 12/05/1985 CLE vs. SEA W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p679
+aVRoy Hinson CLE 12/05/1985 CLE vs. SEA W 21 17 8 11 72.7 0 0 - 1 2 50.0 2 4 6 0 0 1 4 5 -
+p680
+aVEnnis Whatley CLE 12/03/1985 CLE vs. IND L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p681
+aVRon Anderson CLE 12/03/1985 CLE vs. IND L 8 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 -
+p682
+aVPhil Hubbard CLE 12/03/1985 CLE vs. IND L 21 5 1 4 25.0 0 0 - 3 8 37.5 1 2 3 3 1 0 1 3 -
+p683
+aVDirk Minniefield CLE 12/03/1985 CLE vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -
+p684
+aVRoy Hinson CLE 12/03/1985 CLE vs. IND L 38 19 7 17 41.2 0 0 - 5 7 71.4 3 5 8 0 0 1 3 5 -
+p685
+aVBen Poquette CLE 12/03/1985 CLE vs. IND L 20 8 4 7 57.1 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -
+p686
+aVMark West CLE 12/03/1985 CLE vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -
+p687
+aVJohn Bagley CLE 12/03/1985 CLE vs. IND L 35 4 2 6 33.3 0 0 - 0 0 - 1 3 4 14 2 0 2 1 -
+p688
+aVMel Turpin CLE 12/03/1985 CLE vs. IND L 34 16 8 15 53.3 0 0 - 0 0 - 1 7 8 1 3 3 2 3 -
+p689
+aVJohnny Davis CLE 12/03/1985 CLE vs. IND L 16 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 2 2 0 2 1 -
+p690
+aVWorld Free CLE 12/03/1985 CLE vs. IND L 32 16 7 21 33.3 0 2 0.0 2 6 33.3 1 4 5 2 1 1 1 0 -
+p691
+aVEdgar Jones CLE 12/03/1985 CLE vs. IND L 19 6 2 7 28.6 1 2 50.0 1 2 50.0 2 3 5 0 0 1 2 4 -
+p692
+aVPhil Hubbard CLE 11/30/1985 CLE vs. NJN W 21 11 4 8 50.0 0 0 - 3 3 100.0 2 1 3 5 0 1 2 1 -
+p693
+aVRon Anderson CLE 11/30/1985 CLE vs. NJN W 10 8 3 7 42.9 0 0 - 2 3 66.7 0 0 0 0 0 0 0 0 -
+p694
+aVBen Poquette CLE 11/30/1985 CLE vs. NJN W 23 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 3 -
+p695
+aVJohn Bagley CLE 11/30/1985 CLE vs. NJN W 29 6 3 8 37.5 0 0 - 0 0 - 1 1 2 7 0 0 0 3 -
+p696
+aVMel Turpin CLE 11/30/1985 CLE vs. NJN W 32 11 3 6 50.0 0 0 - 5 6 83.3 1 11 12 0 0 2 0 5 -
+p697
+aVDirk Minniefield CLE 11/30/1985 CLE vs. NJN W 17 8 4 7 57.1 0 0 - 0 0 - 0 4 4 4 0 0 1 2 -
+p698
+aVMark West CLE 11/30/1985 CLE vs. NJN W 15 7 3 4 75.0 0 0 - 1 2 50.0 2 7 9 1 1 0 0 5 -
+p699
+aVRoy Hinson CLE 11/30/1985 CLE vs. NJN W 26 11 5 10 50.0 0 0 - 1 2 50.0 2 5 7 1 0 2 1 2 -
+p700
+aVEnnis Whatley CLE 11/30/1985 CLE vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 2 0 1 0 -
+p701
+aVJohnny Davis CLE 11/30/1985 CLE vs. NJN W 18 12 6 7 85.7 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -
+p702
+aVEdgar Jones CLE 11/30/1985 CLE vs. NJN W 17 20 8 12 66.7 0 0 - 4 4 100.0 0 4 4 0 1 1 1 1 -
+p703
+aVWorld Free CLE 11/30/1985 CLE vs. NJN W 27 21 10 18 55.6 1 3 33.3 0 1 0.0 0 3 3 6 1 0 2 1 -
+p704
+aVMel Turpin CLE 11/26/1985 CLE @ DET L 28 16 7 13 53.8 0 0 - 2 2 100.0 2 5 7 0 0 2 2 4 -
+p705
+aVMark West CLE 11/26/1985 CLE @ DET L 17 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 0 1 4 4 -
+p706
+aVJohn Bagley CLE 11/26/1985 CLE @ DET L 23 6 3 9 33.3 0 0 - 0 0 - 1 1 2 7 2 0 3 0 -
+p707
+aVRoy Hinson CLE 11/26/1985 CLE @ DET L 35 24 11 22 50.0 0 0 - 2 5 40.0 3 9 12 0 0 3 3 2 -
+p708
+aVDirk Minniefield CLE 11/26/1985 CLE @ DET L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 8 3 0 3 4 -
+p709
+aVJohnny Davis CLE 11/26/1985 CLE @ DET L 19 6 3 6 50.0 0 0 - 0 0 - 0 1 1 3 1 1 3 2 -
+p710
+aVEnnis Whatley CLE 11/26/1985 CLE @ DET L 21 2 1 3 33.3 0 0 - 0 0 - 0 1 1 5 0 0 2 1 -
+p711
+aVBen Poquette CLE 11/26/1985 CLE @ DET L 25 6 3 7 42.9 0 0 - 0 0 - 5 5 10 2 0 1 2 3 -
+p712
+aVRon Anderson CLE 11/26/1985 CLE @ DET L 27 8 4 9 44.4 0 0 - 0 0 - 2 2 4 2 0 0 1 1 -
+p713
+aVEdgar Jones CLE 11/26/1985 CLE @ DET L 31 22 10 18 55.6 0 1 0.0 2 2 100.0 0 5 5 1 2 3 1 3 -
+p714
+aVPhil Hubbard CLE 11/24/1985 CLE vs. ATL W 28 11 4 10 40.0 0 0 - 3 6 50.0 5 4 9 2 1 0 3 1 -
+p715
+aVMel Turpin CLE 11/24/1985 CLE vs. ATL W 33 27 12 17 70.6 0 0 - 3 3 100.0 4 4 8 0 0 0 1 1 -
+p716
+aVJohnny Davis CLE 11/24/1985 CLE vs. ATL W 23 8 3 7 42.9 0 0 - 2 2 100.0 1 0 1 2 0 0 1 0 -
+p717
+aVBen Poquette CLE 11/24/1985 CLE vs. ATL W 20 6 1 7 14.3 0 0 - 4 6 66.7 1 2 3 0 1 0 0 5 -
+p718
+aVEdgar Jones CLE 11/24/1985 CLE vs. ATL W 20 12 4 9 44.4 0 1 0.0 4 6 66.7 1 0 1 0 0 0 0 2 -
+p719
+aVRoy Hinson CLE 11/24/1985 CLE vs. ATL W 33 9 4 15 26.7 0 0 - 1 5 20.0 4 7 11 1 1 2 1 3 -
+p720
+aVMark West CLE 11/24/1985 CLE vs. ATL W 10 0 0 0 - 0 0 - 0 2 0.0 1 2 3 0 1 0 0 2 -
+p721
+aVRon Anderson CLE 11/24/1985 CLE vs. ATL W 25 14 6 9 66.7 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 -
+p722
+aVEnnis Whatley CLE 11/24/1985 CLE vs. ATL W 13 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 2 2 0 1 1 -
+p723
+aVJohn Bagley CLE 11/24/1985 CLE vs. ATL W 35 8 4 10 40.0 0 0 - 0 0 - 0 5 5 13 1 1 3 3 -
+p724
+aVBen Poquette CLE 11/22/1985 CLE vs. UTH L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p725
+aVEdgar Jones CLE 11/22/1985 CLE vs. UTH L 18 15 3 6 50.0 0 0 - 9 11 81.8 1 0 1 0 0 2 2 2 -
+p726
+aVJohn Bagley CLE 11/22/1985 CLE vs. UTH L 36 14 7 18 38.9 0 1 0.0 0 2 0.0 7 1 8 18 3 0 5 3 -
+p727
+aVRon Anderson CLE 11/22/1985 CLE vs. UTH L 22 6 2 5 40.0 0 0 - 2 2 100.0 0 5 5 1 0 0 1 0 -
+p728
+aVMark West CLE 11/22/1985 CLE vs. UTH L 17 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 0 2 4 -
+p729
+aVRoy Hinson CLE 11/22/1985 CLE vs. UTH L 37 23 9 20 45.0 0 0 - 5 7 71.4 4 7 11 4 0 2 1 3 -
+p730
+aVJohnny Davis CLE 11/22/1985 CLE vs. UTH L 27 7 3 10 30.0 0 1 0.0 1 1 100.0 0 1 1 3 0 0 1 3 -
+p731
+aVPhil Hubbard CLE 11/22/1985 CLE vs. UTH L 29 16 6 13 46.2 0 0 - 4 5 80.0 0 1 1 0 0 0 2 6 -
+p732
+aVDirk Minniefield CLE 11/22/1985 CLE vs. UTH L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 3 4 -
+p733
+aVMel Turpin CLE 11/22/1985 CLE vs. UTH L 31 26 12 18 66.7 0 1 0.0 2 3 66.7 3 6 9 0 2 3 0 3 -
+p734
+aVRon Anderson CLE 11/20/1985 CLE @ WAS L 13 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p735
+aVDirk Minniefield CLE 11/20/1985 CLE @ WAS L 19 9 2 5 40.0 1 1 100.0 4 4 100.0 0 1 1 4 1 0 1 1 -
+p736
+aVJohn Bagley CLE 11/20/1985 CLE @ WAS L 18 6 3 7 42.9 0 0 - 0 0 - 1 1 2 3 0 1 3 0 -
+p737
+aVMark West CLE 11/20/1985 CLE @ WAS L 28 9 3 8 37.5 0 0 - 3 4 75.0 3 5 8 1 1 1 3 3 -
+p738
+aVJohnny Davis CLE 11/20/1985 CLE @ WAS L 28 10 4 9 44.4 0 0 - 2 3 66.7 0 1 1 7 1 1 1 2 -
+p739
+aVPhil Hubbard CLE 11/20/1985 CLE @ WAS L 24 8 1 6 16.7 0 0 - 6 6 100.0 1 1 2 0 1 0 2 3 -
+p740
+aVEdgar Jones CLE 11/20/1985 CLE @ WAS L 24 19 8 11 72.7 0 1 0.0 3 3 100.0 1 7 8 0 1 1 2 4 -
+p741
+aVEnnis Whatley CLE 11/20/1985 CLE @ WAS L 12 14 6 8 75.0 0 0 - 2 3 66.7 1 2 3 0 1 0 0 1 -
+p742
+aVWorld Free CLE 11/20/1985 CLE @ WAS L 16 6 2 8 25.0 0 1 0.0 2 2 100.0 0 0 0 3 0 0 1 0 -
+p743
+aVMel Turpin CLE 11/20/1985 CLE @ WAS L 13 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -
+p744
+aVRoy Hinson CLE 11/20/1985 CLE @ WAS L 26 9 4 15 26.7 0 0 - 1 1 100.0 0 4 4 1 1 1 0 3 -
+p745
+aVBen Poquette CLE 11/20/1985 CLE @ WAS L 19 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 2 0 1 3 -
+p746
+aVWorld Free CLE 11/19/1985 CLE vs. GOS L 36 21 6 16 37.5 0 1 0.0 9 11 81.8 2 2 4 4 1 0 4 3 -
+p747
+aVRoy Hinson CLE 11/19/1985 CLE vs. GOS L 30 18 6 9 66.7 0 0 - 6 9 66.7 3 8 11 0 1 3 3 1 -
+p748
+aVJohnny Davis CLE 11/19/1985 CLE vs. GOS L 25 17 7 13 53.8 0 1 0.0 3 4 75.0 1 0 1 2 3 0 1 1 -
+p749
+aVMark West CLE 11/19/1985 CLE vs. GOS L 19 6 2 2 100.0 0 0 - 2 3 66.7 2 5 7 0 1 1 1 4 -
+p750
+aVPhil Hubbard CLE 11/19/1985 CLE vs. GOS L 29 11 4 7 57.1 0 0 - 3 4 75.0 0 1 1 2 1 0 3 3 -
+p751
+aVBen Poquette CLE 11/19/1985 CLE vs. GOS L 17 4 2 5 40.0 0 0 - 0 0 - 3 5 8 0 0 1 2 0 -
+p752
+aVJohn Bagley CLE 11/19/1985 CLE vs. GOS L 26 10 5 11 45.5 0 0 - 0 0 - 1 3 4 10 2 0 5 2 -
+p753
+aVMel Turpin CLE 11/19/1985 CLE vs. GOS L 26 10 5 9 55.6 0 0 - 0 0 - 1 2 3 0 1 2 0 2 -
+p754
+aVDirk Minniefield CLE 11/19/1985 CLE vs. GOS L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 5 0 0 2 1 -
+p755
+aVEdgar Jones CLE 11/19/1985 CLE vs. GOS L 22 5 2 7 28.6 0 0 - 1 2 50.0 5 5 10 1 1 1 3 2 -
+p756
+aVRon Anderson CLE 11/16/1985 CLE @ CHI W 7 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p757
+aVEdgar Jones CLE 11/16/1985 CLE @ CHI W 23 9 4 9 44.4 0 0 - 1 2 50.0 4 3 7 0 1 2 2 3 -
+p758
+aVRoy Hinson CLE 11/16/1985 CLE @ CHI W 42 24 10 17 58.8 0 0 - 4 7 57.1 2 6 8 0 1 2 1 4 -
+p759
+aVPhil Hubbard CLE 11/16/1985 CLE @ CHI W 37 18 5 9 55.6 0 0 - 8 8 100.0 0 4 4 1 1 0 3 5 -
+p760
+aVDirk Minniefield CLE 11/16/1985 CLE @ CHI W 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 4 0 0 1 3 -
+p761
+aVJohn Bagley CLE 11/16/1985 CLE @ CHI W 32 12 3 7 42.9 0 0 - 6 8 75.0 0 1 1 4 1 0 2 2 -
+p762
+aVMark West CLE 11/16/1985 CLE @ CHI W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 5 -
+p763
+aVBen Poquette CLE 11/16/1985 CLE @ CHI W 21 8 4 5 80.0 0 0 - 0 1 0.0 2 4 6 3 1 0 0 6 -
+p764
+aVMel Turpin CLE 11/16/1985 CLE @ CHI W 23 10 4 5 80.0 0 0 - 2 2 100.0 0 3 3 0 2 1 1 6 -
+p765
+aVJohnny Davis CLE 11/16/1985 CLE @ CHI W 21 15 4 10 40.0 0 1 0.0 7 7 100.0 0 2 2 2 1 0 1 1 -
+p766
+aVWorld Free CLE 11/16/1985 CLE @ CHI W 37 28 6 18 33.3 0 1 0.0 16 19 84.2 2 4 6 5 1 0 3 3 -
+p767
+aVDirk Minniefield CLE 11/14/1985 CLE @ IND W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 4 2 0 1 1 -
+p768
+aVRoy Hinson CLE 11/14/1985 CLE @ IND W 36 23 10 16 62.5 0 0 - 3 5 60.0 1 8 9 0 0 4 1 5 -
+p769
+aVBen Poquette CLE 11/14/1985 CLE @ IND W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p770
+aVRon Anderson CLE 11/14/1985 CLE @ IND W 14 10 5 9 55.6 0 1 0.0 0 0 - 1 1 2 1 1 0 0 3 -
+p771
+aVWorld Free CLE 11/14/1985 CLE @ IND W 32 20 7 18 38.9 1 4 25.0 5 7 71.4 0 1 1 7 3 0 2 4 -
+p772
+aVJohn Bagley CLE 11/14/1985 CLE @ IND W 35 6 3 9 33.3 0 0 - 0 1 0.0 0 4 4 12 1 0 2 2 -
+p773
+aVPhil Hubbard CLE 11/14/1985 CLE @ IND W 29 17 6 8 75.0 0 0 - 5 5 100.0 1 5 6 1 0 0 3 1 -
+p774
+aVJohnny Davis CLE 11/14/1985 CLE @ IND W 16 9 4 10 40.0 0 0 - 1 1 100.0 0 0 0 2 1 0 2 1 -
+p775
+aVMel Turpin CLE 11/14/1985 CLE @ IND W 35 18 7 9 77.8 0 0 - 4 5 80.0 5 7 12 1 0 3 2 1 -
+p776
+aVEdgar Jones CLE 11/14/1985 CLE @ IND W 14 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 1 -
+p777
+aVMark West CLE 11/14/1985 CLE @ IND W 12 3 1 3 33.3 0 0 - 1 2 50.0 0 6 6 1 1 0 1 4 -
+p778
+aVWorld Free CLE 11/10/1985 CLE @ POR L 36 30 12 20 60.0 3 4 75.0 3 4 75.0 3 1 4 8 0 0 4 6 -
+p779
+aVBen Poquette CLE 11/10/1985 CLE @ POR L 15 2 0 2 0.0 0 0 - 2 4 50.0 2 2 4 0 0 0 0 2 -
+p780
+aVRon Anderson CLE 11/10/1985 CLE @ POR L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p781
+aVPhil Hubbard CLE 11/10/1985 CLE @ POR L 33 10 2 8 25.0 0 0 - 6 6 100.0 1 2 3 0 1 0 7 4 -
+p782
+aVEdgar Jones CLE 11/10/1985 CLE @ POR L 15 7 2 7 28.6 0 0 - 3 3 100.0 1 1 2 0 0 0 0 4 -
+p783
+aVJohnny Davis CLE 11/10/1985 CLE @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p784
+aVMark West CLE 11/10/1985 CLE @ POR L 23 8 3 5 60.0 0 0 - 2 2 100.0 1 7 8 0 0 1 2 5 -
+p785
+aVMel Turpin CLE 11/10/1985 CLE @ POR L 20 12 5 5 100.0 0 0 - 2 2 100.0 2 4 6 0 1 0 1 4 -
+p786
+aVJohn Bagley CLE 11/10/1985 CLE @ POR L 34 14 6 10 60.0 0 0 - 2 2 100.0 0 2 2 10 0 0 3 2 -
+p787
+aVDirk Minniefield CLE 11/10/1985 CLE @ POR L 18 4 1 5 20.0 0 0 - 2 2 100.0 1 0 1 4 0 0 1 3 -
+p788
+aVRoy Hinson CLE 11/10/1985 CLE @ POR L 38 18 6 11 54.5 0 1 0.0 6 8 75.0 3 11 14 0 1 6 2 5 -
+p789
+aVMark West CLE 11/09/1985 CLE @ UTH L 22 8 2 4 50.0 0 0 - 4 6 66.7 2 6 8 0 1 0 2 4 -
+p790
+aVDirk Minniefield CLE 11/09/1985 CLE @ UTH L 19 7 3 4 75.0 1 1 100.0 0 0 - 0 4 4 3 1 0 2 4 -
+p791
+aVRon Anderson CLE 11/09/1985 CLE @ UTH L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p792
+aVMel Turpin CLE 11/09/1985 CLE @ UTH L 24 12 6 10 60.0 0 0 - 0 0 - 2 3 5 0 1 2 0 2 -
+p793
+aVEdgar Jones CLE 11/09/1985 CLE @ UTH L 15 6 2 5 40.0 1 1 100.0 1 2 50.0 0 2 2 1 1 0 1 5 -
+p794
+aVJohn Bagley CLE 11/09/1985 CLE @ UTH L 25 6 2 8 25.0 0 0 - 2 2 100.0 0 3 3 8 2 1 5 3 -
+p795
+aVPhil Hubbard CLE 11/09/1985 CLE @ UTH L 27 4 2 8 25.0 0 0 - 0 0 - 2 5 7 1 2 0 4 4 -
+p796
+aVWorld Free CLE 11/09/1985 CLE @ UTH L 31 21 8 20 40.0 1 3 33.3 4 5 80.0 1 2 3 5 0 0 2 1 -
+p797
+aVJohnny Davis CLE 11/09/1985 CLE @ UTH L 21 16 5 10 50.0 1 3 33.3 5 6 83.3 0 0 0 4 0 0 1 1 -
+p798
+aVBen Poquette CLE 11/09/1985 CLE @ UTH L 20 7 3 5 60.0 0 1 0.0 1 2 50.0 3 5 8 0 2 0 1 3 -
+p799
+aVRoy Hinson CLE 11/09/1985 CLE @ UTH L 32 25 11 19 57.9 0 0 - 3 4 75.0 3 6 9 0 0 1 1 4 -
+p800
+aVJohnny Davis CLE 11/07/1985 CLE @ SAC W 24 16 7 14 50.0 0 0 - 2 3 66.7 0 3 3 3 1 1 1 1 -
+p801
+aVRoy Hinson CLE 11/07/1985 CLE @ SAC W 31 7 2 10 20.0 0 0 - 3 4 75.0 1 9 10 0 2 1 7 6 -
+p802
+aVDirk Minniefield CLE 11/07/1985 CLE @ SAC W 17 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 1 0 1 3 -
+p803
+aVBen Poquette CLE 11/07/1985 CLE @ SAC W 15 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 1 3 2 2 -
+p804
+aVJohn Bagley CLE 11/07/1985 CLE @ SAC W 21 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 1 0 1 3 -
+p805
+aVWorld Free CLE 11/07/1985 CLE @ SAC W 34 29 11 23 47.8 2 2 100.0 5 6 83.3 0 0 0 4 1 0 5 3 -
+p806
+aVEdgar Jones CLE 11/07/1985 CLE @ SAC W 18 9 4 7 57.1 0 0 - 1 2 50.0 4 4 8 0 0 1 4 4 -
+p807
+aVMel Turpin CLE 11/07/1985 CLE @ SAC W 18 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 -
+p808
+aVMark West CLE 11/07/1985 CLE @ SAC W 28 2 1 2 50.0 0 0 - 0 0 - 2 6 8 0 1 2 1 3 -
+p809
+aVPhil Hubbard CLE 11/07/1985 CLE @ SAC W 34 12 5 8 62.5 0 1 0.0 2 5 40.0 0 4 4 1 3 0 3 3 -
+p810
+aVEnnis Whatley CLE 11/05/1985 CLE @ LAL W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 2 1 -
+p811
+aVMark West CLE 11/05/1985 CLE @ LAL W 29 10 3 7 42.9 0 0 - 4 6 66.7 2 6 8 0 0 1 4 4 -
+p812
+aVJohn Bagley CLE 11/05/1985 CLE @ LAL W 28 20 9 16 56.3 0 0 - 2 2 100.0 0 3 3 11 1 0 2 1 -
+p813
+aVBen Poquette CLE 11/05/1985 CLE @ LAL W 8 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 0 0 2 -
+p814
+aVMel Turpin CLE 11/05/1985 CLE @ LAL W 19 9 4 6 66.7 0 0 - 1 1 100.0 0 2 2 0 2 2 0 3 -
+p815
+aVWorld Free CLE 11/05/1985 CLE @ LAL W 26 20 9 14 64.3 1 2 50.0 1 3 33.3 1 1 2 3 0 0 1 1 -
+p816
+aVRon Anderson CLE 11/05/1985 CLE @ LAL W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p817
+aVEdgar Jones CLE 11/05/1985 CLE @ LAL W 30 24 9 14 64.3 0 0 - 6 9 66.7 3 9 12 1 3 2 0 4 -
+p818
+aVRoy Hinson CLE 11/05/1985 CLE @ LAL W 26 17 6 8 75.0 0 0 - 5 5 100.0 2 6 8 2 1 1 3 3 -
+p819
+aVPhil Hubbard CLE 11/05/1985 CLE @ LAL W 30 10 4 10 40.0 0 0 - 2 4 50.0 2 3 5 1 0 2 2 5 -
+p820
+aVDirk Minniefield CLE 11/05/1985 CLE @ LAL W 19 0 0 2 0.0 0 0 - 0 0 - 0 3 3 7 0 0 0 3 -
+p821
+aVJohnny Davis CLE 11/05/1985 CLE @ LAL W 19 17 7 9 77.8 0 0 - 3 4 75.0 0 1 1 2 2 0 0 0 -
+p822
+aVMark West CLE 11/03/1985 CLE vs. MIL L 18 4 1 4 25.0 0 0 - 2 2 100.0 2 4 6 0 1 1 2 2 -
+p823
+aVDirk Minniefield CLE 11/03/1985 CLE vs. MIL L 21 12 4 8 50.0 0 0 - 4 5 80.0 1 3 4 8 1 1 1 5 -
+p824
+aVMel Turpin CLE 11/03/1985 CLE vs. MIL L 33 16 6 8 75.0 0 0 - 4 4 100.0 4 8 12 3 1 3 2 5 -
+p825
+aVEdgar Jones CLE 11/03/1985 CLE vs. MIL L 12 8 4 10 40.0 0 0 - 0 2 0.0 1 3 4 1 0 0 1 3 -
+p826
+aVWorld Free CLE 11/03/1985 CLE vs. MIL L 30 14 3 12 25.0 0 0 - 8 10 80.0 3 0 3 4 0 0 3 3 -
+p827
+aVRon Anderson CLE 11/03/1985 CLE vs. MIL L 13 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p828
+aVBen Poquette CLE 11/03/1985 CLE vs. MIL L 12 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 0 1 1 4 -
+p829
+aVRoy Hinson CLE 11/03/1985 CLE vs. MIL L 34 20 8 16 50.0 0 0 - 4 6 66.7 1 9 10 3 3 1 5 4 -
+p830
+aVPhil Hubbard CLE 11/03/1985 CLE vs. MIL L 35 18 5 10 50.0 0 0 - 8 10 80.0 1 2 3 0 0 0 2 3 -
+p831
+aVJohn Bagley CLE 11/03/1985 CLE vs. MIL L 32 12 5 13 38.5 1 1 100.0 1 1 100.0 3 0 3 6 1 0 3 3 -
+p832
+aVRon Anderson CLE 10/31/1985 CLE @ WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -
+p833
+aVDirk Minniefield CLE 10/31/1985 CLE @ WAS W 4 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -
+p834
+aVJohnny Davis CLE 10/31/1985 CLE @ WAS W 14 4 2 9 22.2 0 0 - 0 0 - 0 0 0 4 0 0 0 1 -
+p835
+aVWorld Free CLE 10/31/1985 CLE @ WAS W 35 24 9 20 45.0 0 0 - 6 7 85.7 0 1 1 3 2 0 1 1 -
+p836
+aVPhil Hubbard CLE 10/31/1985 CLE @ WAS W 33 21 9 13 69.2 0 0 - 3 3 100.0 1 1 2 2 0 0 4 4 -
+p837
+aVRoy Hinson CLE 10/31/1985 CLE @ WAS W 35 24 7 11 63.6 0 0 - 10 10 100.0 2 9 11 1 0 0 2 5 -
+p838
+aVEdgar Jones CLE 10/31/1985 CLE @ WAS W 13 4 2 4 50.0 0 0 - 0 1 0.0 1 3 4 1 0 0 0 2 -
+p839
+aVJohn Bagley CLE 10/31/1985 CLE @ WAS W 37 12 4 12 33.3 0 0 - 4 4 100.0 2 5 7 15 3 0 5 2 -
+p840
+aVBen Poquette CLE 10/31/1985 CLE @ WAS W 15 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 1 1 1 0 3 -
+p841
+aVMark West CLE 10/31/1985 CLE @ WAS W 15 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 1 2 1 6 -
+p842
+aVMel Turpin CLE 10/31/1985 CLE @ WAS W 33 12 5 10 50.0 0 0 - 2 2 100.0 4 9 13 1 2 1 6 4 -
+p843
+aVRon Anderson CLE 10/29/1985 CLE vs. WAS L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p844
+aVBen Poquette CLE 10/29/1985 CLE vs. WAS L 19 8 3 6 50.0 0 1 0.0 2 2 100.0 2 1 3 1 0 2 0 3 -
+p845
+aVEdgar Jones CLE 10/29/1985 CLE vs. WAS L 27 8 3 7 42.9 1 1 100.0 1 2 50.0 1 2 3 0 1 1 2 3 -
+p846
+aVMark West CLE 10/29/1985 CLE vs. WAS L 16 2 1 3 33.3 0 0 - 0 2 0.0 1 3 4 0 0 1 1 4 -
+p847
+aVPhil Hubbard CLE 10/29/1985 CLE vs. WAS L 20 4 1 5 20.0 0 0 - 2 3 66.7 2 3 5 0 2 0 2 0 -
+p848
+aVJohnny Davis CLE 10/29/1985 CLE vs. WAS L 20 11 4 12 33.3 1 1 100.0 2 2 100.0 1 1 2 8 2 0 0 3 -
+p849
+aVRoy Hinson CLE 10/29/1985 CLE vs. WAS L 33 13 6 15 40.0 0 0 - 1 2 50.0 2 10 12 4 1 0 1 3 -
+p850
+aVMel Turpin CLE 10/29/1985 CLE vs. WAS L 25 12 4 10 40.0 0 0 - 4 6 66.7 1 3 4 0 2 0 0 3 -
+p851
+aVJohn Bagley CLE 10/29/1985 CLE vs. WAS L 22 4 1 6 16.7 0 0 - 2 2 100.0 0 0 0 4 1 0 1 4 -
+p852
+aVWorld Free CLE 10/29/1985 CLE vs. WAS L 33 24 8 18 44.4 1 4 25.0 7 8 87.5 2 2 4 4 1 0 1 2 -
+p853
+aVDirk Minniefield CLE 10/29/1985 CLE vs. WAS L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -
+p854
+aVJohn Bagley CLE 10/26/1985 CLE vs. BOS L 29 18 7 13 53.8 2 2 100.0 2 2 100.0 0 2 2 5 0 0 4 3 -
+p855
+aVRoy Hinson CLE 10/26/1985 CLE vs. BOS L 27 15 7 11 63.6 0 0 - 1 6 16.7 2 5 7 0 1 4 1 5 -
+p856
+aVDirk Minniefield CLE 10/26/1985 CLE vs. BOS L 21 6 3 4 75.0 0 2 0.0 0 0 - 0 1 1 6 1 0 2 1 -
+p857
+aVJohnny Davis CLE 10/26/1985 CLE vs. BOS L 7 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 -
+p858
+aVMel Turpin CLE 10/26/1985 CLE vs. BOS L 21 3 1 6 16.7 0 0 - 1 1 100.0 2 4 6 0 0 0 2 2 -
+p859
+aVMark West CLE 10/26/1985 CLE vs. BOS L 24 5 1 4 25.0 0 0 - 3 6 50.0 3 6 9 2 1 2 1 6 -
+p860
+aVEdgar Jones CLE 10/26/1985 CLE vs. BOS L 19 9 4 6 66.7 1 2 50.0 0 0 - 1 3 4 0 0 1 0 5 -
+p861
+aVRon Anderson CLE 10/26/1985 CLE vs. BOS L 13 3 1 5 20.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 4 -
+p862
+aVBen Poquette CLE 10/26/1985 CLE vs. BOS L 18 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 2 1 0 0 1 -
+p863
+aVPhil Hubbard CLE 10/26/1985 CLE vs. BOS L 26 12 4 12 33.3 0 0 - 4 7 57.1 3 1 4 1 0 0 1 4 -
+p864
+aVWorld Free CLE 10/26/1985 CLE vs. BOS L 35 22 9 20 45.0 0 1 0.0 4 4 100.0 0 1 1 3 0 0 0 1 -
+p865
+aVBen Poquette CLE 10/25/1985 CLE @ CHI L 25 5 2 4 50.0 1 1 100.0 0 0 - 2 2 4 2 0 0 0 2 -
+p866
+aVEdgar Jones CLE 10/25/1985 CLE @ CHI L 14 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -
+p867
+aVPhil Hubbard CLE 10/25/1985 CLE @ CHI L 36 6 2 8 25.0 0 0 - 2 6 33.3 4 7 11 1 0 0 4 6 -
+p868
+aVMark West CLE 10/25/1985 CLE @ CHI L 21 6 3 3 100.0 0 0 - 0 0 - 1 6 7 0 0 3 2 4 -
+p869
+aVRoy Hinson CLE 10/25/1985 CLE @ CHI L 40 21 6 17 35.3 0 0 - 9 12 75.0 3 3 6 1 1 3 3 2 -
+p870
+aVRon Anderson CLE 10/25/1985 CLE @ CHI L 16 13 6 6 100.0 0 0 - 1 1 100.0 0 2 2 2 0 0 0 4 -
+p871
+aVWorld Free CLE 10/25/1985 CLE @ CHI L 36 27 10 20 50.0 1 2 50.0 6 7 85.7 3 3 6 5 1 0 2 5 -
+p872
+aVMel Turpin CLE 10/25/1985 CLE @ CHI L 23 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 0 1 2 1 4 -
+p873
+aVDirk Minniefield CLE 10/25/1985 CLE @ CHI L 16 11 4 5 80.0 0 0 - 3 4 75.0 1 1 2 4 2 0 1 3 -
+p874
+aVJohn Bagley CLE 10/25/1985 CLE @ CHI L 38 14 7 20 35.0 0 0 - 0 0 - 1 2 3 9 3 0 5 3 -
+p875
+a.

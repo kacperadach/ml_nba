@@ -1,0 +1,246 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVThaddeus Young PHI 05/26/2012 PHI @ BOS L 24 6 3 8 37.5 0 0 - 0 1 0.0 2 8 10 1 0 1 2 3 -1
+p2
+aVEvan Turner PHI 05/26/2012 PHI @ BOS L 31 6 3 8 37.5 0 0 - 0 0 - 3 5 8 0 1 0 2 3 -23
+p3
+aVJodie Meeks PHI 05/26/2012 PHI @ BOS L 5 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 3 1
+p4
+aVElton Brand PHI 05/26/2012 PHI @ BOS L 34 15 6 11 54.5 0 0 - 3 4 75.0 3 3 6 0 1 0 1 6 -8
+p5
+aVLavoy Allen PHI 05/26/2012 PHI @ BOS L 17 2 1 4 25.0 0 0 - 0 1 0.0 2 4 6 0 1 0 2 2 1
+p6
+aVAndre Iguodala PHI 05/26/2012 PHI @ BOS L 44 18 5 11 45.5 3 5 60.0 5 8 62.5 2 2 4 3 0 0 3 2 -6
+p7
+aVJrue Holiday PHI 05/26/2012 PHI @ BOS L 41 15 5 17 29.4 2 6 33.3 3 3 100.0 0 3 3 9 5 0 4 0 -7
+p8
+aVSpencer Hawes PHI 05/26/2012 PHI @ BOS L 18 4 2 8 25.0 0 0 - 0 0 - 1 4 5 1 0 0 1 2 -10
+p9
+aVLou Williams PHI 05/26/2012 PHI @ BOS L 26 7 2 9 22.2 0 4 0.0 3 3 100.0 0 3 3 1 1 0 0 2 3
+p10
+aVLou Williams PHI 05/23/2012 PHI vs. BOS W 27 11 5 13 38.5 0 2 0.0 1 2 50.0 0 0 0 6 0 0 2 1 1
+p11
+aVElton Brand PHI 05/23/2012 PHI vs. BOS W 34 13 5 9 55.6 0 0 - 3 4 75.0 4 6 10 0 1 1 0 3 11
+p12
+aVJrue Holiday PHI 05/23/2012 PHI vs. BOS W 39 20 7 15 46.7 0 2 0.0 6 6 100.0 0 3 3 6 2 0 2 1 5
+p13
+aVAndre Iguodala PHI 05/23/2012 PHI vs. BOS W 38 12 4 11 36.4 1 2 50.0 3 7 42.9 0 6 6 2 1 1 0 4 2
+p14
+aVJodie Meeks PHI 05/23/2012 PHI vs. BOS W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -2
+p15
+aVEvan Turner PHI 05/23/2012 PHI vs. BOS W 38 12 5 11 45.5 0 1 0.0 2 5 40.0 0 9 9 4 0 1 4 1 7
+p16
+aVLavoy Allen PHI 05/23/2012 PHI vs. BOS W 19 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 1 1 2 0 4 4
+p17
+aVSpencer Hawes PHI 05/23/2012 PHI vs. BOS W 21 9 4 6 66.7 0 1 0.0 1 2 50.0 0 3 3 2 1 0 1 1 8
+p18
+aVThaddeus Young PHI 05/23/2012 PHI vs. BOS W 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 1 1 1 -1
+p19
+aVLou Williams PHI 05/21/2012 PHI @ BOS L 28 9 3 10 30.0 0 2 0.0 3 4 75.0 0 2 2 2 1 0 0 1 -9
+p20
+aVXavier Silas PHI 05/21/2012 PHI @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p21
+aVLavoy Allen PHI 05/21/2012 PHI @ BOS L 19 12 6 6 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -15
+p22
+aVEvan Turner PHI 05/21/2012 PHI @ BOS L 37 11 5 13 38.5 0 0 - 1 2 50.0 0 10 10 3 0 0 1 5 -10
+p23
+aVThaddeus Young PHI 05/21/2012 PHI @ BOS L 18 6 3 8 37.5 0 0 - 0 0 - 2 2 4 1 0 0 4 2 -14
+p24
+aVElton Brand PHI 05/21/2012 PHI @ BOS L 30 19 8 13 61.5 0 0 - 3 4 75.0 2 1 3 1 2 1 1 4 -10
+p25
+aVJodie Meeks PHI 05/21/2012 PHI @ BOS L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p26
+aVJrue Holiday PHI 05/21/2012 PHI @ BOS L 36 10 4 6 66.7 2 3 66.7 0 0 - 3 0 3 7 1 0 4 1 -11
+p27
+aVAndre Iguodala PHI 05/21/2012 PHI @ BOS L 35 8 3 10 30.0 1 4 25.0 1 4 25.0 3 3 6 3 3 0 1 2 -13
+p28
+aVSpencer Hawes PHI 05/21/2012 PHI @ BOS L 24 10 4 8 50.0 0 0 - 2 2 100.0 3 2 5 3 0 0 3 4 4
+p29
+aVLou Williams PHI 05/18/2012 PHI vs. BOS W 29 15 5 11 45.5 1 4 25.0 4 6 66.7 0 4 4 8 1 0 1 1 28
+p30
+aVLavoy Allen PHI 05/18/2012 PHI vs. BOS W 33 8 4 10 40.0 0 0 - 0 0 - 5 5 10 0 2 1 0 1 11
+p31
+aVElton Brand PHI 05/18/2012 PHI vs. BOS W 16 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 1 -3
+p32
+aVJrue Holiday PHI 05/18/2012 PHI vs. BOS W 32 11 4 9 44.4 0 2 0.0 3 3 100.0 2 5 7 1 1 0 1 4 -6
+p33
+aVEvan Turner PHI 05/18/2012 PHI vs. BOS W 36 16 5 22 22.7 0 0 - 6 9 66.7 2 7 9 1 1 0 1 3 0
+p34
+aVThaddeus Young PHI 05/18/2012 PHI vs. BOS W 31 12 4 8 50.0 0 0 - 4 6 66.7 5 4 9 3 0 1 3 3 6
+p35
+aVAndre Iguodala PHI 05/18/2012 PHI vs. BOS W 38 16 5 12 41.7 3 3 100.0 3 6 50.0 3 4 7 4 0 0 2 2 -2
+p36
+aVJodie Meeks PHI 05/18/2012 PHI vs. BOS W 12 9 2 3 66.7 1 2 50.0 4 4 100.0 0 1 1 0 3 0 1 2 15
+p37
+aVSpencer Hawes PHI 05/18/2012 PHI vs. BOS W 15 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -4
+p38
+aVThaddeus Young PHI 05/16/2012 PHI vs. BOS L 26 22 10 16 62.5 0 0 - 2 2 100.0 2 3 5 1 0 1 0 2 -1
+p39
+aVJrue Holiday PHI 05/16/2012 PHI vs. BOS L 36 15 5 10 50.0 3 4 75.0 2 2 100.0 0 6 6 9 0 1 3 1 -15
+p40
+aVLavoy Allen PHI 05/16/2012 PHI vs. BOS L 20 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 5 -2
+p41
+aVEvan Turner PHI 05/16/2012 PHI vs. BOS L 35 4 1 10 10.0 0 0 - 2 4 50.0 0 8 8 3 1 2 0 3 -6
+p42
+aVElton Brand PHI 05/16/2012 PHI vs. BOS L 15 3 1 6 16.7 0 0 - 1 1 100.0 3 1 4 1 0 0 0 2 -23
+p43
+aVLou Williams PHI 05/16/2012 PHI vs. BOS L 28 13 4 10 40.0 2 3 66.7 3 3 100.0 0 0 0 4 1 0 1 1 -12
+p44
+aVJodie Meeks PHI 05/16/2012 PHI vs. BOS L 17 13 4 9 44.4 1 4 25.0 4 4 100.0 2 0 2 1 0 0 0 1 -1
+p45
+aVAndre Iguodala PHI 05/16/2012 PHI vs. BOS L 32 10 3 6 50.0 2 4 50.0 2 3 66.7 2 2 4 2 1 1 3 3 -16
+p46
+aVXavier Silas PHI 05/16/2012 PHI vs. BOS L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p47
+aVNikola Vucevic PHI 05/16/2012 PHI vs. BOS L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 3
+p48
+aVSam Young PHI 05/16/2012 PHI vs. BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p49
+aVSpencer Hawes PHI 05/16/2012 PHI vs. BOS L 25 4 2 8 25.0 0 0 - 0 1 0.0 1 3 4 1 0 1 2 2 -13
+p50
+aVLou Williams PHI 05/14/2012 PHI @ BOS W 39 8 3 13 23.1 0 3 0.0 2 2 100.0 2 5 7 3 2 0 0 0 17
+p51
+aVThaddeus Young PHI 05/14/2012 PHI @ BOS W 13 4 0 3 0.0 0 0 - 4 4 100.0 1 3 4 2 0 0 0 1 1
+p52
+aVLavoy Allen PHI 05/14/2012 PHI @ BOS W 30 10 4 7 57.1 0 0 - 2 2 100.0 3 5 8 0 2 2 1 2 21
+p53
+aVSpencer Hawes PHI 05/14/2012 PHI @ BOS W 27 8 4 9 44.4 0 0 - 0 0 - 2 8 10 0 0 2 4 1 -12
+p54
+aVEvan Turner PHI 05/14/2012 PHI @ BOS W 28 10 4 11 36.4 0 1 0.0 2 2 100.0 1 5 6 1 1 1 5 1 -15
+p55
+aVElton Brand PHI 05/14/2012 PHI @ BOS W 18 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 0 2 1 1 2 -7
+p56
+aVAndre Iguodala PHI 05/14/2012 PHI @ BOS W 37 13 5 11 45.5 1 3 33.3 2 7 28.6 0 6 6 7 1 0 4 4 8
+p57
+aVJodie Meeks PHI 05/14/2012 PHI @ BOS W 6 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 -1
+p58
+aVJrue Holiday PHI 05/14/2012 PHI @ BOS W 41 18 7 15 46.7 4 6 66.7 0 0 - 1 1 2 3 2 0 1 2 -7
+p59
+aVJodie Meeks PHI 05/12/2012 PHI @ BOS L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p60
+aVAndre Iguodala PHI 05/12/2012 PHI @ BOS L 41 19 7 16 43.8 3 5 60.0 2 2 100.0 2 4 6 6 2 0 2 3 3
+p61
+aVLou Williams PHI 05/12/2012 PHI @ BOS L 24 9 4 11 36.4 1 4 25.0 0 0 - 0 3 3 0 0 0 3 1 -7
+p62
+aVEvan Turner PHI 05/12/2012 PHI @ BOS L 42 16 7 13 53.8 0 0 - 2 2 100.0 2 8 10 3 4 1 4 1 4
+p63
+aVThaddeus Young PHI 05/12/2012 PHI @ BOS L 22 5 1 4 25.0 0 0 - 3 6 50.0 0 1 1 0 0 0 0 1 -11
+p64
+aVLavoy Allen PHI 05/12/2012 PHI @ BOS L 20 12 5 7 71.4 0 0 - 2 2 100.0 2 4 6 2 1 1 0 3 6
+p65
+aVElton Brand PHI 05/12/2012 PHI @ BOS L 15 4 2 5 40.0 0 0 - 0 2 0.0 0 1 1 1 0 2 0 0 3
+p66
+aVSpencer Hawes PHI 05/12/2012 PHI @ BOS L 34 15 6 12 50.0 0 0 - 3 4 75.0 1 7 8 3 1 2 1 3 5
+p67
+aVJrue Holiday PHI 05/12/2012 PHI @ BOS L 37 8 3 13 23.1 0 4 0.0 2 2 100.0 1 5 6 4 1 2 1 2 -3
+p68
+aVLou Williams PHI 05/10/2012 PHI vs. CHI W 26 14 4 12 33.3 2 7 28.6 4 7 57.1 0 2 2 3 3 0 3 0 5
+p69
+aVJodie Meeks PHI 05/10/2012 PHI vs. CHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p70
+aVAndre Iguodala PHI 05/10/2012 PHI vs. CHI W 43 20 7 12 58.3 2 3 66.7 4 4 100.0 0 4 4 7 1 1 0 3 1
+p71
+aVJrue Holiday PHI 05/10/2012 PHI vs. CHI W 41 14 4 11 36.4 2 4 50.0 4 5 80.0 0 3 3 4 2 0 0 0 7
+p72
+aVElton Brand PHI 05/10/2012 PHI vs. CHI W 35 5 2 9 22.2 0 0 - 1 2 50.0 0 3 3 0 1 2 0 4 4
+p73
+aVSpencer Hawes PHI 05/10/2012 PHI vs. CHI W 31 8 4 10 40.0 0 1 0.0 0 0 - 2 8 10 2 0 0 2 5 -4
+p74
+aVEvan Turner PHI 05/10/2012 PHI vs. CHI W 29 10 4 11 36.4 0 1 0.0 2 2 100.0 0 5 5 0 0 1 0 2 -10
+p75
+aVThaddeus Young PHI 05/10/2012 PHI vs. CHI W 30 8 4 8 50.0 0 0 - 0 0 - 3 3 6 3 0 2 2 3 2
+p76
+aVElton Brand PHI 05/08/2012 PHI @ CHI L 32 5 2 6 33.3 0 0 - 1 2 50.0 2 5 7 1 0 3 1 2 1
+p77
+aVLavoy Allen PHI 05/08/2012 PHI @ CHI L 13 9 4 7 57.1 0 0 - 1 4 25.0 1 5 6 0 0 2 1 1 -1
+p78
+aVThaddeus Young PHI 05/08/2012 PHI @ CHI L 14 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 1 1 0 1 -7
+p79
+aVJrue Holiday PHI 05/08/2012 PHI @ CHI L 43 16 5 17 29.4 1 2 50.0 5 5 100.0 3 2 5 4 3 2 2 4 -1
+p80
+aVSpencer Hawes PHI 05/08/2012 PHI @ CHI L 36 11 4 9 44.4 0 0 - 3 5 60.0 2 12 14 3 0 2 3 2 -7
+p81
+aVEvan Turner PHI 05/08/2012 PHI @ CHI L 33 4 2 7 28.6 0 0 - 0 0 - 1 7 8 2 0 0 4 4 -10
+p82
+aVLou Williams PHI 05/08/2012 PHI @ CHI L 24 13 4 10 40.0 0 3 0.0 5 6 83.3 0 2 2 3 0 0 2 3 -9
+p83
+aVAndre Iguodala PHI 05/08/2012 PHI @ CHI L 43 11 4 19 21.1 1 6 16.7 2 2 100.0 0 4 4 1 3 1 1 1 -4
+p84
+aVJodie Meeks PHI 05/08/2012 PHI @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p85
+aVEvan Turner PHI 05/06/2012 PHI vs. CHI W 28 9 3 12 25.0 0 0 - 3 6 50.0 0 6 6 3 1 0 2 5 4
+p86
+aVElton Brand PHI 05/06/2012 PHI vs. CHI W 37 7 3 7 42.9 0 0 - 1 4 25.0 5 4 9 2 0 2 1 4 -2
+p87
+aVThaddeus Young PHI 05/06/2012 PHI vs. CHI W 18 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 0 1 0 0 3 4
+p88
+aVLavoy Allen PHI 05/06/2012 PHI vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p89
+aVAndre Iguodala PHI 05/06/2012 PHI vs. CHI W 43 14 5 11 45.5 1 4 25.0 3 4 75.0 3 9 12 2 3 0 0 0 11
+p90
+aVJodie Meeks PHI 05/06/2012 PHI vs. CHI W 8 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 1
+p91
+aVSpencer Hawes PHI 05/06/2012 PHI vs. CHI W 36 22 9 11 81.8 1 2 50.0 3 4 75.0 2 6 8 1 0 3 2 2 9
+p92
+aVLou Williams PHI 05/06/2012 PHI vs. CHI W 25 7 2 10 20.0 1 5 20.0 2 3 66.7 0 0 0 1 0 0 0 2 1
+p93
+aVJrue Holiday PHI 05/06/2012 PHI vs. CHI W 41 20 7 23 30.4 2 7 28.6 4 4 100.0 1 7 8 6 1 1 3 0 10
+p94
+aVJodie Meeks PHI 05/04/2012 PHI vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p95
+aVJrue Holiday PHI 05/04/2012 PHI vs. CHI W 31 17 5 10 50.0 0 2 0.0 7 9 77.8 3 3 6 6 1 1 2 5 5
+p96
+aVEvan Turner PHI 05/04/2012 PHI vs. CHI W 41 16 5 12 41.7 0 2 0.0 6 8 75.0 2 7 9 1 0 0 1 2 5
+p97
+aVLou Williams PHI 05/04/2012 PHI vs. CHI W 28 14 5 14 35.7 0 4 0.0 4 4 100.0 0 2 2 0 0 0 2 2 3
+p98
+aVAndre Iguodala PHI 05/04/2012 PHI vs. CHI W 40 5 2 9 22.2 0 5 0.0 1 2 50.0 1 3 4 3 2 0 0 3 7
+p99
+aVSpencer Hawes PHI 05/04/2012 PHI vs. CHI W 32 21 7 15 46.7 1 1 100.0 6 6 100.0 2 7 9 2 1 0 1 2 11
+p100
+aVElton Brand PHI 05/04/2012 PHI vs. CHI W 26 0 0 5 0.0 0 0 - 0 0 - 0 2 2 1 2 1 1 4 9
+p101
+aVThaddeus Young PHI 05/04/2012 PHI vs. CHI W 21 6 2 8 25.0 0 0 - 2 4 50.0 4 7 11 0 1 0 1 0 -4
+p102
+aVLavoy Allen PHI 05/04/2012 PHI vs. CHI W 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -6
+p103
+aVSpencer Hawes PHI 05/01/2012 PHI @ CHI W 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 1 1 3 11
+p104
+aVJodie Meeks PHI 05/01/2012 PHI @ CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p105
+aVLavoy Allen PHI 05/01/2012 PHI @ CHI W 26 11 5 7 71.4 0 0 - 1 1 100.0 2 7 9 0 1 2 0 2 12
+p106
+aVAndre Iguodala PHI 05/01/2012 PHI @ CHI W 33 11 5 12 41.7 1 3 33.3 0 1 0.0 0 5 5 3 1 1 2 2 15
+p107
+aVLou Williams PHI 05/01/2012 PHI @ CHI W 27 20 8 13 61.5 1 5 20.0 3 4 75.0 0 1 1 6 2 0 0 1 11
+p108
+aVJrue Holiday PHI 05/01/2012 PHI @ CHI W 41 26 11 15 73.3 3 3 100.0 1 2 50.0 0 2 2 6 1 0 0 2 12
+p109
+aVThaddeus Young PHI 05/01/2012 PHI @ CHI W 23 8 3 6 50.0 0 0 - 2 2 100.0 1 5 6 2 1 0 1 3 1
+p110
+aVElton Brand PHI 05/01/2012 PHI @ CHI W 29 12 5 6 83.3 0 0 - 2 2 100.0 1 4 5 0 0 3 0 1 10
+p111
+aVEvan Turner PHI 05/01/2012 PHI @ CHI W 42 19 8 15 53.3 0 1 0.0 3 3 100.0 2 5 7 6 0 0 3 4 13
+p112
+aVSam Young PHI 04/28/2012 PHI @ CHI L 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p113
+aVAndre Iguodala PHI 04/28/2012 PHI @ CHI L 39 11 3 11 27.3 0 2 0.0 5 6 83.3 1 5 6 5 1 0 1 3 -4
+p114
+aVLavoy Allen PHI 04/28/2012 PHI @ CHI L 20 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 1 0 0 3 -6
+p115
+aVThaddeus Young PHI 04/28/2012 PHI @ CHI L 25 13 6 12 50.0 0 0 - 1 2 50.0 1 3 4 1 2 0 1 2 -2
+p116
+aVElton Brand PHI 04/28/2012 PHI @ CHI L 35 19 8 15 53.3 0 0 - 3 3 100.0 1 6 7 0 1 4 0 3 -13
+p117
+aVSpencer Hawes PHI 04/28/2012 PHI @ CHI L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 2 0 0 0 3 -3
+p118
+aVJrue Holiday PHI 04/28/2012 PHI @ CHI L 36 16 7 18 38.9 1 4 25.0 1 3 33.3 3 4 7 2 0 1 3 2 -25
+p119
+aVLou Williams PHI 04/28/2012 PHI @ CHI L 27 9 1 6 16.7 0 2 0.0 7 8 87.5 1 0 1 2 2 0 2 2 6
+p120
+aVEvan Turner PHI 04/28/2012 PHI @ CHI L 29 12 4 9 44.4 0 0 - 4 5 80.0 1 2 3 5 3 0 3 2 -5
+p121
+aVJodie Meeks PHI 04/28/2012 PHI @ CHI L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 1 -6
+p122
+a.

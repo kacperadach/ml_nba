@@ -1,0 +1,1448 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJulius Erving PHL 04/19/1987 PHL @ WAS W 39 24 10 21 47.6 0 1 0.0 4 5 80.0 3 8 11 2 1 2 2 2 -
+p2
+aVAndrew Toney PHL 04/19/1987 PHL @ WAS W 39 13 5 10 50.0 2 3 66.7 1 2 50.0 0 3 3 6 3 0 6 1 -
+p3
+aVMark McNamara PHL 04/19/1987 PHL @ WAS W 12 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 -
+p4
+aVRoy Hinson PHL 04/19/1987 PHL @ WAS W 34 15 6 14 42.9 0 0 - 3 4 75.0 1 7 8 1 2 1 1 3 -
+p5
+aVTim McCormick PHL 04/19/1987 PHL @ WAS W 36 16 6 11 54.5 0 0 - 4 4 100.0 4 3 7 1 1 1 1 3 -
+p6
+aVDavid Wingate PHL 04/19/1987 PHL @ WAS W 26 18 7 16 43.8 0 0 - 4 5 80.0 2 1 3 3 0 0 0 0 -
+p7
+aVCliff T. Robinson PHL 04/19/1987 PHL @ WAS W 14 6 3 5 60.0 0 0 - 0 0 - 0 5 5 1 2 1 0 3 -
+p8
+aVKenny Green PHL 04/19/1987 PHL @ WAS W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 0 0 -
+p9
+aVSteve Colter PHL 04/19/1987 PHL @ WAS W 32 10 4 9 44.4 0 0 - 2 4 50.0 0 0 0 3 3 0 1 1 -
+p10
+aVJulius Erving PHL 04/17/1987 PHL vs. IND L 41 38 17 31 54.8 1 2 50.0 3 7 42.9 3 4 7 2 2 1 3 2 -
+p11
+aVRoy Hinson PHL 04/17/1987 PHL vs. IND L 35 10 3 10 30.0 0 0 - 4 5 80.0 0 3 3 2 2 0 1 4 -
+p12
+aVSteve Colter PHL 04/17/1987 PHL vs. IND L 27 14 5 6 83.3 2 2 100.0 2 2 100.0 0 2 2 3 0 0 2 4 -
+p13
+aVDavid Wingate PHL 04/17/1987 PHL vs. IND L 31 12 5 10 50.0 0 0 - 2 3 66.7 1 2 3 1 2 0 3 2 -
+p14
+aVTim McCormick PHL 04/17/1987 PHL vs. IND L 37 10 4 11 36.4 0 0 - 2 4 50.0 5 7 12 1 1 1 1 3 -
+p15
+aVAndrew Toney PHL 04/17/1987 PHL vs. IND L 25 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 13 0 0 3 3 -
+p16
+aVCliff T. Robinson PHL 04/17/1987 PHL vs. IND L 32 17 6 13 46.2 0 1 0.0 5 5 100.0 0 9 9 1 2 2 2 2 -
+p17
+aVMark McNamara PHL 04/17/1987 PHL vs. IND L 12 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 0 1 0 2 3 -
+p18
+aVDavid Wingate PHL 04/15/1987 PHL @ MIL L 20 3 1 5 20.0 0 0 - 1 1 100.0 1 0 1 3 2 0 4 1 -
+p19
+aVKenny Green PHL 04/15/1987 PHL @ MIL L 2 0 0 1 0.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 1 -
+p20
+aVRoy Hinson PHL 04/15/1987 PHL @ MIL L 26 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 1 1 1 2 0 -
+p21
+aVJulius Erving PHL 04/15/1987 PHL @ MIL L 33 26 9 17 52.9 1 2 50.0 7 8 87.5 1 3 4 1 3 0 5 3 -
+p22
+aVCliff T. Robinson PHL 04/15/1987 PHL @ MIL L 33 14 7 15 46.7 0 0 - 0 0 - 1 7 8 1 2 0 2 3 -
+p23
+aVMaurice Cheeks PHL 04/15/1987 PHL @ MIL L 32 12 5 7 71.4 0 0 - 2 2 100.0 0 4 4 5 1 0 7 2 -
+p24
+aVSteve Colter PHL 04/15/1987 PHL @ MIL L 25 4 2 7 28.6 0 0 - 0 0 - 2 0 2 1 2 0 1 2 -
+p25
+aVTim McCormick PHL 04/15/1987 PHL @ MIL L 24 8 3 7 42.9 0 0 - 2 4 50.0 5 3 8 0 0 0 1 3 -
+p26
+aVDanny Vranes PHL 04/15/1987 PHL @ MIL L 8 1 0 2 0.0 0 0 - 1 4 25.0 2 1 3 1 0 2 0 2 -
+p27
+aVMark McNamara PHL 04/15/1987 PHL @ MIL L 19 10 4 6 66.7 0 0 - 2 3 66.7 3 6 9 1 0 0 0 4 -
+p28
+aVAndrew Toney PHL 04/15/1987 PHL @ MIL L 18 9 3 9 33.3 2 3 66.7 1 2 50.0 0 1 1 1 0 0 3 2 -
+p29
+aVRoy Hinson PHL 04/13/1987 PHL vs. WAS W 34 12 5 7 71.4 0 0 - 2 3 66.7 3 6 9 1 0 5 2 5 -
+p30
+aVJulius Erving PHL 04/13/1987 PHL vs. WAS W 30 17 6 12 50.0 0 1 0.0 5 7 71.4 1 2 3 2 2 3 4 1 -
+p31
+aVCliff T. Robinson PHL 04/13/1987 PHL vs. WAS W 37 22 8 20 40.0 0 0 - 6 8 75.0 2 7 9 2 3 1 1 2 -
+p32
+aVMaurice Cheeks PHL 04/13/1987 PHL vs. WAS W 37 15 5 8 62.5 0 0 - 5 6 83.3 1 1 2 19 1 0 2 4 -
+p33
+aVMark McNamara PHL 04/13/1987 PHL vs. WAS W 4 4 2 5 40.0 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 -
+p34
+aVDanny Vranes PHL 04/13/1987 PHL vs. WAS W 19 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 1 1 0 4 -
+p35
+aVTim McCormick PHL 04/13/1987 PHL vs. WAS W 39 17 7 17 41.2 0 0 - 3 4 75.0 5 6 11 2 2 0 3 3 -
+p36
+aVDavid Wingate PHL 04/13/1987 PHL vs. WAS W 27 18 8 14 57.1 0 0 - 2 4 50.0 2 3 5 3 1 0 1 1 -
+p37
+aVSteve Colter PHL 04/13/1987 PHL vs. WAS W 13 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 1 0 1 2 2 -
+p38
+aVCliff T. Robinson PHL 04/10/1987 PHL vs. CHI W 41 22 8 18 44.4 0 0 - 6 6 100.0 6 14 20 1 0 2 3 5 -
+p39
+aVCharles Barkley PHL 04/10/1987 PHL vs. CHI W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -
+p40
+aVDanny Vranes PHL 04/10/1987 PHL vs. CHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -
+p41
+aVRoy Hinson PHL 04/10/1987 PHL vs. CHI W 44 17 7 17 41.2 0 0 - 3 4 75.0 1 4 5 1 2 3 4 4 -
+p42
+aVTim McCormick PHL 04/10/1987 PHL vs. CHI W 50 13 5 10 50.0 0 0 - 3 6 50.0 1 11 12 1 1 3 1 1 -
+p43
+aVMaurice Cheeks PHL 04/10/1987 PHL vs. CHI W 36 17 7 12 58.3 0 0 - 3 4 75.0 0 0 0 9 6 0 2 2 -
+p44
+aVJulius Erving PHL 04/10/1987 PHL vs. CHI W 43 11 3 13 23.1 1 2 50.0 4 7 57.1 2 2 4 4 1 3 1 4 -
+p45
+aVDavid Wingate PHL 04/10/1987 PHL vs. CHI W 20 8 4 6 66.7 0 1 0.0 0 0 - 1 0 1 2 1 0 1 5 -
+p46
+aVSteve Colter PHL 04/10/1987 PHL vs. CHI W 17 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 2 1 1 3 0 -
+p47
+aVRoy Hinson PHL 04/08/1987 PHL @ ATL L 28 9 3 8 37.5 0 0 - 3 4 75.0 1 2 3 1 0 3 1 4 -
+p48
+aVMark McNamara PHL 04/08/1987 PHL @ ATL L 3 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p49
+aVSteve Colter PHL 04/08/1987 PHL @ ATL L 41 10 4 12 33.3 0 0 - 2 4 50.0 0 1 1 11 0 0 1 2 -
+p50
+aVKenny Green PHL 04/08/1987 PHL @ ATL L 6 2 0 4 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 -
+p51
+aVDanny Vranes PHL 04/08/1987 PHL @ ATL L 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 1 0 0 -
+p52
+aVCharles Barkley PHL 04/08/1987 PHL @ ATL L 37 19 8 14 57.1 0 3 0.0 3 5 60.0 8 9 17 1 1 0 5 4 -
+p53
+aVTim McCormick PHL 04/08/1987 PHL @ ATL L 32 10 5 9 55.6 0 0 - 0 0 - 1 4 5 0 0 0 3 5 -
+p54
+aVCliff T. Robinson PHL 04/08/1987 PHL @ ATL L 19 11 5 9 55.6 0 0 - 1 2 50.0 0 2 2 0 1 0 1 2 -
+p55
+aVJulius Erving PHL 04/08/1987 PHL @ ATL L 31 15 6 14 42.9 0 1 0.0 3 4 75.0 0 3 3 3 0 1 2 4 -
+p56
+aVAndrew Toney PHL 04/08/1987 PHL @ ATL L 7 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 2 0 -
+p57
+aVDavid Wingate PHL 04/08/1987 PHL @ ATL L 25 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 2 3 0 1 2 -
+p58
+aVCliff T. Robinson PHL 04/06/1987 PHL @ NYK L 14 2 1 6 16.7 0 0 - 0 0 - 2 1 3 3 1 0 5 2 -
+p59
+aVJulius Erving PHL 04/06/1987 PHL @ NYK L 34 21 8 15 53.3 0 1 0.0 5 7 71.4 0 1 1 4 0 0 5 0 -
+p60
+aVAndrew Toney PHL 04/06/1987 PHL @ NYK L 18 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 1 2 -
+p61
+aVRoy Hinson PHL 04/06/1987 PHL @ NYK L 33 19 8 17 47.1 0 0 - 3 4 75.0 4 9 13 1 0 1 2 4 -
+p62
+aVSteve Colter PHL 04/06/1987 PHL @ NYK L 39 9 3 6 50.0 0 0 - 3 4 75.0 2 1 3 6 2 0 0 1 -
+p63
+aVTim McCormick PHL 04/06/1987 PHL @ NYK L 36 13 6 9 66.7 0 0 - 1 2 50.0 1 3 4 3 0 0 0 2 -
+p64
+aVCharles Barkley PHL 04/06/1987 PHL @ NYK L 44 27 10 15 66.7 1 3 33.3 6 8 75.0 11 12 23 4 3 2 8 5 -
+p65
+aVDavid Wingate PHL 04/06/1987 PHL @ NYK L 22 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 1 0 1 1 4 -
+p66
+aVCliff T. Robinson PHL 04/05/1987 PHL vs. BOS W 38 22 11 19 57.9 0 0 - 0 0 - 1 3 4 1 3 2 4 3 -
+p67
+aVAndrew Toney PHL 04/05/1987 PHL vs. BOS W 25 16 3 8 37.5 1 1 100.0 9 10 90.0 1 0 1 5 0 0 3 0 -
+p68
+aVTim McCormick PHL 04/05/1987 PHL vs. BOS W 43 10 4 6 66.7 0 0 - 2 2 100.0 2 7 9 2 0 1 3 3 -
+p69
+aVSteve Colter PHL 04/05/1987 PHL vs. BOS W 44 6 3 9 33.3 0 0 - 0 0 - 0 3 3 4 2 0 1 2 -
+p70
+aVRoy Hinson PHL 04/05/1987 PHL vs. BOS W 23 5 0 2 0.0 0 0 - 5 6 83.3 0 5 5 0 0 2 1 4 -
+p71
+aVJulius Erving PHL 04/05/1987 PHL vs. BOS W 23 11 5 10 50.0 0 0 - 1 1 100.0 1 4 5 5 0 0 1 4 -
+p72
+aVCharles Barkley PHL 04/05/1987 PHL vs. BOS W 47 28 11 17 64.7 0 0 - 6 10 60.0 7 11 18 6 3 4 4 5 -
+p73
+aVDavid Wingate PHL 04/05/1987 PHL vs. BOS W 22 8 2 5 40.0 0 1 0.0 4 4 100.0 0 2 2 2 0 0 4 2 -
+p74
+aVJulius Erving PHL 04/03/1987 PHL @ NJN L 28 6 2 12 16.7 0 0 - 2 4 50.0 3 1 4 6 3 0 1 3 -
+p75
+aVTim McCormick PHL 04/03/1987 PHL @ NJN L 46 19 7 12 58.3 0 0 - 5 8 62.5 3 1 4 0 1 0 2 2 -
+p76
+aVCliff T. Robinson PHL 04/03/1987 PHL @ NJN L 15 10 3 6 50.0 0 0 - 4 6 66.7 0 2 2 1 3 0 1 3 -
+p77
+aVSteve Colter PHL 04/03/1987 PHL @ NJN L 35 19 7 13 53.8 0 0 - 5 5 100.0 2 2 4 4 1 0 1 1 -
+p78
+aVDavid Wingate PHL 04/03/1987 PHL @ NJN L 28 11 4 14 28.6 0 1 0.0 3 4 75.0 1 0 1 1 4 1 1 3 -
+p79
+aVCharles Barkley PHL 04/03/1987 PHL @ NJN L 32 26 9 14 64.3 0 0 - 8 10 80.0 4 4 8 3 1 1 4 6 -
+p80
+aVRoy Hinson PHL 04/03/1987 PHL @ NJN L 37 14 4 9 44.4 0 0 - 6 7 85.7 2 6 8 1 0 3 1 6 -
+p81
+aVAndrew Toney PHL 04/03/1987 PHL @ NJN L 19 4 1 7 14.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 3 -
+p82
+aVAndrew Toney PHL 04/01/1987 PHL vs. CLE W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 2 0 -
+p83
+aVDanny Vranes PHL 04/01/1987 PHL vs. CLE W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p84
+aVRoy Hinson PHL 04/01/1987 PHL vs. CLE W 41 22 9 18 50.0 0 0 - 4 7 57.1 4 2 6 1 2 0 1 4 -
+p85
+aVCharles Barkley PHL 04/01/1987 PHL vs. CLE W 37 25 11 19 57.9 0 1 0.0 3 3 100.0 11 6 17 4 0 2 8 3 -
+p86
+aVJulius Erving PHL 04/01/1987 PHL vs. CLE W 29 20 10 19 52.6 0 0 - 0 0 - 0 1 1 2 2 3 1 2 -
+p87
+aVCliff T. Robinson PHL 04/01/1987 PHL vs. CLE W 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p88
+aVDavid Wingate PHL 04/01/1987 PHL vs. CLE W 29 12 6 13 46.2 0 1 0.0 0 0 - 2 4 6 6 3 0 3 1 -
+p89
+aVSteve Colter PHL 04/01/1987 PHL vs. CLE W 44 15 5 9 55.6 0 0 - 5 6 83.3 0 4 4 10 2 0 1 3 -
+p90
+aVTim McCormick PHL 04/01/1987 PHL vs. CLE W 33 12 5 7 71.4 0 0 - 2 2 100.0 0 6 6 1 0 1 1 4 -
+p91
+aVTim McCormick PHL 03/31/1987 PHL @ CLE W 39 19 8 14 57.1 0 0 - 3 3 100.0 4 4 8 0 1 0 0 3 -
+p92
+aVDavid Wingate PHL 03/31/1987 PHL @ CLE W 26 16 6 12 50.0 1 1 100.0 3 4 75.0 1 0 1 3 1 0 4 1 -
+p93
+aVSteve Colter PHL 03/31/1987 PHL @ CLE W 40 20 9 13 69.2 0 0 - 2 3 66.7 0 4 4 11 2 0 0 1 -
+p94
+aVRoy Hinson PHL 03/31/1987 PHL @ CLE W 32 2 1 9 11.1 0 0 - 0 0 - 0 5 5 0 2 3 3 4 -
+p95
+aVDanny Vranes PHL 03/31/1987 PHL @ CLE W 19 3 1 4 25.0 0 0 - 1 2 50.0 3 1 4 0 1 0 0 3 -
+p96
+aVCharles Barkley PHL 03/31/1987 PHL @ CLE W 43 34 12 14 85.7 0 0 - 10 11 90.9 6 6 12 3 1 2 4 4 -
+p97
+aVJulius Erving PHL 03/31/1987 PHL @ CLE W 30 17 6 10 60.0 0 2 0.0 5 5 100.0 0 1 1 1 3 0 2 2 -
+p98
+aVAndrew Toney PHL 03/31/1987 PHL @ CLE W 11 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 2 1 -
+p99
+aVRoy Hinson PHL 03/29/1987 PHL @ BOS L 41 13 6 13 46.2 0 0 - 1 2 50.0 2 4 6 0 2 1 1 4 -
+p100
+aVTim McCormick PHL 03/29/1987 PHL @ BOS L 35 7 3 7 42.9 0 0 - 1 1 100.0 0 6 6 1 2 0 2 3 -
+p101
+aVDavid Wingate PHL 03/29/1987 PHL @ BOS L 20 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 2 0 0 2 1 -
+p102
+aVAndrew Toney PHL 03/29/1987 PHL @ BOS L 19 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 1 1 0 3 1 -
+p103
+aVJulius Erving PHL 03/29/1987 PHL @ BOS L 35 28 11 26 42.3 1 2 50.0 5 5 100.0 2 1 3 4 3 1 3 5 -
+p104
+aVMark McNamara PHL 03/29/1987 PHL @ BOS L 1 0 0 0 - 0 0 - 0 4 0.0 1 0 1 0 0 0 0 1 -
+p105
+aVSteve Colter PHL 03/29/1987 PHL @ BOS L 37 22 10 18 55.6 0 0 - 2 4 50.0 0 4 4 6 1 1 1 3 -
+p106
+aVDanny Vranes PHL 03/29/1987 PHL @ BOS L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p107
+aVCharles Barkley PHL 03/29/1987 PHL @ BOS L 41 19 5 9 55.6 0 1 0.0 9 11 81.8 6 6 12 4 0 0 0 3 -
+p108
+aVJulius Erving PHL 03/27/1987 PHL vs. NJN W 34 29 12 16 75.0 0 1 0.0 5 6 83.3 2 2 4 4 2 1 5 4 -
+p109
+aVTim McCormick PHL 03/27/1987 PHL vs. NJN W 31 15 6 8 75.0 0 0 - 3 3 100.0 3 6 9 4 0 0 2 5 -
+p110
+aVRoy Hinson PHL 03/27/1987 PHL vs. NJN W 34 12 4 8 50.0 0 0 - 4 6 66.7 1 8 9 1 0 1 1 5 -
+p111
+aVDavid Wingate PHL 03/27/1987 PHL vs. NJN W 30 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 1 1 1 2 0 -
+p112
+aVCharles Barkley PHL 03/27/1987 PHL vs. NJN W 48 28 9 14 64.3 0 1 0.0 10 12 83.3 7 8 15 10 1 2 10 5 -
+p113
+aVSteve Colter PHL 03/27/1987 PHL vs. NJN W 44 16 5 12 41.7 0 0 - 6 8 75.0 0 3 3 5 0 1 2 1 -
+p114
+aVDanny Vranes PHL 03/27/1987 PHL vs. NJN W 15 2 0 3 0.0 0 0 - 2 4 50.0 2 1 3 0 1 0 2 5 -
+p115
+aVAndrew Toney PHL 03/27/1987 PHL vs. NJN W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -
+p116
+aVRoy Hinson PHL 03/24/1987 PHL @ CHI L 40 6 2 9 22.2 0 0 - 2 2 100.0 2 7 9 2 0 0 5 2 -
+p117
+aVTim McCormick PHL 03/24/1987 PHL @ CHI L 39 13 6 12 50.0 0 1 0.0 1 2 50.0 1 5 6 2 0 1 2 1 -
+p118
+aVMark McNamara PHL 03/24/1987 PHL @ CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p119
+aVDanny Vranes PHL 03/24/1987 PHL @ CHI L 14 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 0 2 0 0 4 -
+p120
+aVCharles Barkley PHL 03/24/1987 PHL @ CHI L 47 17 6 15 40.0 0 1 0.0 5 6 83.3 11 14 25 6 2 3 6 6 -
+p121
+aVAndrew Toney PHL 03/24/1987 PHL @ CHI L 22 14 4 11 36.4 1 4 25.0 5 6 83.3 1 2 3 7 0 0 4 3 -
+p122
+aVDavid Wingate PHL 03/24/1987 PHL @ CHI L 32 13 6 13 46.2 0 3 0.0 1 1 100.0 1 1 2 3 1 0 4 5 -
+p123
+aVSteve Colter PHL 03/24/1987 PHL @ CHI L 42 21 9 18 50.0 1 1 100.0 2 2 100.0 0 1 1 2 1 0 3 4 -
+p124
+aVRoy Hinson PHL 03/23/1987 PHL vs. DAL L 42 19 9 21 42.9 0 0 - 1 2 50.0 3 1 4 1 0 4 2 5 -
+p125
+aVAndrew Toney PHL 03/23/1987 PHL vs. DAL L 20 4 2 6 33.3 0 0 - 0 0 - 0 2 2 3 0 0 1 0 -
+p126
+aVCharles Barkley PHL 03/23/1987 PHL vs. DAL L 45 24 10 19 52.6 0 2 0.0 4 5 80.0 9 11 20 4 1 0 2 3 -
+p127
+aVSteve Colter PHL 03/23/1987 PHL vs. DAL L 37 13 6 10 60.0 0 0 - 1 1 100.0 0 4 4 3 1 0 1 1 -
+p128
+aVDavid Wingate PHL 03/23/1987 PHL vs. DAL L 41 18 8 20 40.0 0 3 0.0 2 2 100.0 2 3 5 13 2 0 1 4 -
+p129
+aVDanny Vranes PHL 03/23/1987 PHL vs. DAL L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 1 0 2 -
+p130
+aVTim McCormick PHL 03/23/1987 PHL vs. DAL L 45 22 8 14 57.1 0 0 - 6 10 60.0 3 5 8 1 0 0 2 4 -
+p131
+aVMark McNamara PHL 03/21/1987 PHL @ MIL W 10 3 1 3 33.3 0 0 - 1 2 50.0 3 5 8 1 0 0 1 1 -
+p132
+aVSteve Colter PHL 03/21/1987 PHL @ MIL W 30 9 4 10 40.0 0 0 - 1 2 50.0 1 2 3 6 1 1 2 4 -
+p133
+aVCharles Barkley PHL 03/21/1987 PHL @ MIL W 42 32 10 16 62.5 1 4 25.0 11 11 100.0 5 9 14 2 3 1 4 4 -
+p134
+aVRoy Hinson PHL 03/21/1987 PHL @ MIL W 44 27 12 19 63.2 0 0 - 3 7 42.9 2 7 9 0 0 2 1 2 -
+p135
+aVTim McCormick PHL 03/21/1987 PHL @ MIL W 36 7 3 10 30.0 0 0 - 1 2 50.0 3 5 8 2 1 1 2 2 -
+p136
+aVDavid Wingate PHL 03/21/1987 PHL @ MIL W 39 13 5 18 27.8 1 4 25.0 2 2 100.0 4 2 6 4 4 0 3 2 -
+p137
+aVAndrew Toney PHL 03/21/1987 PHL @ MIL W 31 14 4 8 50.0 0 1 0.0 6 6 100.0 0 1 1 8 0 0 3 3 -
+p138
+aVDanny Vranes PHL 03/21/1987 PHL @ MIL W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 4 -
+p139
+aVDanny Vranes PHL 03/20/1987 PHL vs. DEN W 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 2 1 0 4 -
+p140
+aVRoy Hinson PHL 03/20/1987 PHL vs. DEN W 41 22 9 21 42.9 0 0 - 4 6 66.7 4 9 13 3 0 1 2 2 -
+p141
+aVMaurice Cheeks PHL 03/20/1987 PHL vs. DEN W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p142
+aVTim McCormick PHL 03/20/1987 PHL vs. DEN W 39 19 7 16 43.8 0 0 - 5 7 71.4 2 8 10 1 0 1 2 2 -
+p143
+aVCharles Barkley PHL 03/20/1987 PHL vs. DEN W 41 26 10 16 62.5 0 1 0.0 6 7 85.7 16 9 25 9 3 2 4 2 -
+p144
+aVAndrew Toney PHL 03/20/1987 PHL vs. DEN W 19 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 1 -
+p145
+aVDavid Wingate PHL 03/20/1987 PHL vs. DEN W 38 26 7 14 50.0 1 3 33.3 11 13 84.6 2 1 3 5 0 0 2 3 -
+p146
+aVSteve Colter PHL 03/20/1987 PHL vs. DEN W 44 15 7 13 53.8 0 2 0.0 1 1 100.0 1 2 3 6 0 0 0 2 -
+p147
+aVSteve Colter PHL 03/18/1987 PHL vs. ATL W 29 11 4 8 50.0 0 0 - 3 4 75.0 1 1 2 3 2 0 0 2 -
+p148
+aVMaurice Cheeks PHL 03/18/1987 PHL vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p149
+aVRoy Hinson PHL 03/18/1987 PHL vs. ATL W 38 15 7 14 50.0 0 0 - 1 1 100.0 0 4 4 1 0 4 3 2 -
+p150
+aVCharles Barkley PHL 03/18/1987 PHL vs. ATL W 46 34 12 16 75.0 0 0 - 10 13 76.9 8 5 13 2 1 0 5 5 -
+p151
+aVDavid Wingate PHL 03/18/1987 PHL vs. ATL W 36 14 5 13 38.5 0 1 0.0 4 4 100.0 2 0 2 6 7 2 2 2 -
+p152
+aVAndrew Toney PHL 03/18/1987 PHL vs. ATL W 34 14 6 17 35.3 1 3 33.3 1 5 20.0 0 4 4 5 0 0 4 0 -
+p153
+aVDanny Vranes PHL 03/18/1987 PHL vs. ATL W 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 -
+p154
+aVTim McCormick PHL 03/18/1987 PHL vs. ATL W 43 21 7 9 77.8 0 0 - 7 9 77.8 2 5 7 3 0 0 0 2 -
+p155
+aVMark McNamara PHL 03/14/1987 PHL @ DET L 29 5 2 6 33.3 0 0 - 1 2 50.0 3 2 5 0 0 0 2 2 -
+p156
+aVDanny Vranes PHL 03/14/1987 PHL @ DET L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p157
+aVDavid Wingate PHL 03/14/1987 PHL @ DET L 43 15 6 18 33.3 0 2 0.0 3 3 100.0 1 5 6 4 4 1 1 2 -
+p158
+aVCharles Barkley PHL 03/14/1987 PHL @ DET L 46 30 12 24 50.0 0 6 0.0 6 8 75.0 5 9 14 10 2 1 0 2 -
+p159
+aVMaurice Cheeks PHL 03/14/1987 PHL @ DET L 42 15 7 13 53.8 0 0 - 1 2 50.0 0 2 2 3 0 0 5 3 -
+p160
+aVCliff T. Robinson PHL 03/14/1987 PHL @ DET L 31 10 5 10 50.0 0 0 - 0 4 0.0 2 4 6 1 0 0 2 4 -
+p161
+aVRoy Hinson PHL 03/14/1987 PHL @ DET L 35 14 6 11 54.5 0 0 - 2 3 66.7 0 4 4 2 1 0 3 5 -
+p162
+aVSteve Colter PHL 03/14/1987 PHL @ DET L 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 2 0 0 0 -
+p163
+aVMark McNamara PHL 03/11/1987 PHL vs. CHI W 17 2 1 2 50.0 0 0 - 0 1 0.0 1 1 2 0 1 0 0 2 -
+p164
+aVRoy Hinson PHL 03/11/1987 PHL vs. CHI W 21 8 3 6 50.0 0 0 - 2 2 100.0 0 5 5 0 0 1 3 5 -
+p165
+aVDanny Vranes PHL 03/11/1987 PHL vs. CHI W 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 2 1 0 -
+p166
+aVSteve Colter PHL 03/11/1987 PHL vs. CHI W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p167
+aVCliff T. Robinson PHL 03/11/1987 PHL vs. CHI W 32 23 8 14 57.1 0 0 - 7 8 87.5 1 2 3 2 2 1 0 4 -
+p168
+aVCharles Barkley PHL 03/11/1987 PHL vs. CHI W 44 31 9 12 75.0 1 2 50.0 12 13 92.3 5 7 12 3 1 2 5 5 -
+p169
+aVMaurice Cheeks PHL 03/11/1987 PHL vs. CHI W 42 21 9 13 69.2 0 0 - 3 4 75.0 0 4 4 9 3 0 2 1 -
+p170
+aVTim McCormick PHL 03/11/1987 PHL vs. CHI W 20 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 1 2 0 0 1 -
+p171
+aVDavid Wingate PHL 03/11/1987 PHL vs. CHI W 44 28 11 21 52.4 1 3 33.3 5 5 100.0 2 1 3 6 2 0 2 3 -
+p172
+aVMaurice Cheeks PHL 03/10/1987 PHL @ CLE W 38 12 3 10 30.0 0 0 - 6 8 75.0 1 0 1 5 4 0 5 0 -
+p173
+aVDavid Wingate PHL 03/10/1987 PHL @ CLE W 46 22 10 19 52.6 2 4 50.0 0 0 - 0 4 4 3 3 2 3 4 -
+p174
+aVCliff T. Robinson PHL 03/10/1987 PHL @ CLE W 28 14 6 16 37.5 0 0 - 2 2 100.0 4 7 11 1 0 2 6 2 -
+p175
+aVRoy Hinson PHL 03/10/1987 PHL @ CLE W 31 13 3 9 33.3 0 0 - 7 10 70.0 3 5 8 3 2 0 1 4 -
+p176
+aVCharles Barkley PHL 03/10/1987 PHL @ CLE W 45 23 10 15 66.7 1 2 50.0 2 4 50.0 3 12 15 3 1 0 5 4 -
+p177
+aVSteve Colter PHL 03/10/1987 PHL @ CLE W 12 2 1 3 33.3 0 0 - 0 1 0.0 1 2 3 1 0 0 2 1 -
+p178
+aVTim McCormick PHL 03/10/1987 PHL @ CLE W 40 14 6 9 66.7 0 0 - 2 2 100.0 2 6 8 3 0 0 2 4 -
+p179
+aVMaurice Cheeks PHL 03/07/1987 PHL vs. NJN L 40 18 5 12 41.7 0 0 - 8 10 80.0 0 1 1 5 2 0 4 1 -
+p180
+aVTim McCormick PHL 03/07/1987 PHL vs. NJN L 33 11 4 7 57.1 0 1 0.0 3 3 100.0 1 6 7 2 0 1 1 2 -
+p181
+aVCharles Barkley PHL 03/07/1987 PHL vs. NJN L 35 13 6 12 50.0 1 5 20.0 0 0 - 6 13 19 6 1 1 2 4 -
+p182
+aVCliff T. Robinson PHL 03/07/1987 PHL vs. NJN L 20 6 1 7 14.3 0 0 - 4 4 100.0 2 0 2 1 2 0 0 3 -
+p183
+aVDavid Wingate PHL 03/07/1987 PHL vs. NJN L 15 1 0 5 0.0 0 1 0.0 1 2 50.0 1 0 1 3 0 1 2 2 -
+p184
+aVDanny Vranes PHL 03/07/1987 PHL vs. NJN L 15 6 3 4 75.0 0 0 - 0 1 0.0 0 0 0 0 0 1 0 2 -
+p185
+aVSteve Colter PHL 03/07/1987 PHL vs. NJN L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -
+p186
+aVRoy Hinson PHL 03/07/1987 PHL vs. NJN L 40 18 5 12 41.7 0 0 - 8 8 100.0 3 6 9 1 0 1 1 5 -
+p187
+aVAndrew Toney PHL 03/07/1987 PHL vs. NJN L 34 29 13 21 61.9 1 1 100.0 2 4 50.0 1 4 5 5 0 0 4 0 -
+p188
+aVCharles Barkley PHL 03/06/1987 PHL vs. WAS W 39 22 6 17 35.3 0 1 0.0 10 11 90.9 11 7 18 6 1 0 8 3 -
+p189
+aVDavid Wingate PHL 03/06/1987 PHL vs. WAS W 12 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 2 0 0 3 -
+p190
+aVMaurice Cheeks PHL 03/06/1987 PHL vs. WAS W 41 24 10 15 66.7 0 0 - 4 4 100.0 2 2 4 10 2 0 5 3 -
+p191
+aVDanny Vranes PHL 03/06/1987 PHL vs. WAS W 9 2 1 2 50.0 0 1 0.0 0 4 0.0 1 1 2 1 1 1 0 1 -
+p192
+aVTim McCormick PHL 03/06/1987 PHL vs. WAS W 38 18 7 8 87.5 0 0 - 4 4 100.0 1 9 10 2 1 0 3 6 -
+p193
+aVAndrew Toney PHL 03/06/1987 PHL vs. WAS W 37 16 4 6 66.7 0 0 - 8 10 80.0 1 4 5 10 0 1 3 2 -
+p194
+aVCliff T. Robinson PHL 03/06/1987 PHL vs. WAS W 30 26 11 24 45.8 0 0 - 4 6 66.7 3 4 7 2 0 1 1 5 -
+p195
+aVRoy Hinson PHL 03/06/1987 PHL vs. WAS W 25 13 6 9 66.7 0 0 - 1 1 100.0 0 5 5 0 0 3 0 4 -
+p196
+aVSteve Colter PHL 03/06/1987 PHL vs. WAS W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p197
+aVMark McNamara PHL 03/06/1987 PHL vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p198
+aVTim McCormick PHL 03/04/1987 PHL vs. NYK L 37 11 5 12 41.7 0 0 - 1 2 50.0 4 7 11 2 0 0 2 3 -
+p199
+aVRoy Hinson PHL 03/04/1987 PHL vs. NYK L 42 13 4 9 44.4 0 0 - 5 9 55.6 1 8 9 3 0 0 5 5 -
+p200
+aVCharles Barkley PHL 03/04/1987 PHL vs. NYK L 48 28 11 24 45.8 0 2 0.0 6 10 60.0 16 5 21 6 2 0 7 5 -
+p201
+aVSteve Colter PHL 03/04/1987 PHL vs. NYK L 6 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 1 0 0 0 0 -
+p202
+aVDanny Vranes PHL 03/04/1987 PHL vs. NYK L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 0 0 -
+p203
+aVMaurice Cheeks PHL 03/04/1987 PHL vs. NYK L 42 20 8 12 66.7 0 1 0.0 4 6 66.7 3 2 5 6 3 1 2 4 -
+p204
+aVDavid Wingate PHL 03/04/1987 PHL vs. NYK L 25 11 5 12 41.7 1 1 100.0 0 0 - 2 1 3 3 2 1 1 2 -
+p205
+aVAndrew Toney PHL 03/04/1987 PHL vs. NYK L 29 12 6 14 42.9 0 0 - 0 0 - 0 1 1 4 0 0 3 2 -
+p206
+aVRoy Hinson PHL 03/01/1987 PHL @ HOU W 20 15 6 10 60.0 0 0 - 3 4 75.0 0 4 4 0 1 1 2 6 -
+p207
+aVCharles Barkley PHL 03/01/1987 PHL @ HOU W 46 14 6 14 42.9 0 1 0.0 2 2 100.0 3 12 15 2 1 0 1 3 -
+p208
+aVAndrew Toney PHL 03/01/1987 PHL @ HOU W 29 12 6 11 54.5 0 0 - 0 0 - 0 2 2 5 0 0 4 2 -
+p209
+aVSteve Colter PHL 03/01/1987 PHL @ HOU W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p210
+aVDavid Wingate PHL 03/01/1987 PHL @ HOU W 20 8 2 4 50.0 0 0 - 4 5 80.0 0 0 0 2 0 0 0 2 -
+p211
+aVTim McCormick PHL 03/01/1987 PHL @ HOU W 47 26 10 17 58.8 0 0 - 6 8 75.0 3 4 7 1 1 0 3 5 -
+p212
+aVMaurice Cheeks PHL 03/01/1987 PHL @ HOU W 43 17 6 13 46.2 0 0 - 5 5 100.0 0 1 1 6 4 0 1 1 -
+p213
+aVDanny Vranes PHL 03/01/1987 PHL @ HOU W 30 10 4 7 57.1 0 1 0.0 2 4 50.0 5 3 8 2 1 1 1 2 -
+p214
+aVDanny Vranes PHL 02/27/1987 PHL @ DAL L 21 4 2 7 28.6 0 0 - 0 0 - 3 3 6 1 1 0 2 2 -
+p215
+aVDavid Wingate PHL 02/27/1987 PHL @ DAL L 32 16 7 14 50.0 1 1 100.0 1 3 33.3 2 2 4 2 0 0 2 5 -
+p216
+aVWorld Free PHL 02/27/1987 PHL @ DAL L 5 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -
+p217
+aVCharles Barkley PHL 02/27/1987 PHL @ DAL L 39 15 7 9 77.8 0 2 0.0 1 2 50.0 4 7 11 7 0 3 5 3 -
+p218
+aVAndrew Toney PHL 02/27/1987 PHL @ DAL L 16 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 1 0 0 0 2 -
+p219
+aVMaurice Cheeks PHL 02/27/1987 PHL @ DAL L 32 12 6 9 66.7 0 0 - 0 0 - 0 3 3 5 0 1 2 1 -
+p220
+aVTim McCormick PHL 02/27/1987 PHL @ DAL L 42 26 13 17 76.5 0 0 - 0 0 - 3 6 9 6 0 1 3 2 -
+p221
+aVSteve Colter PHL 02/27/1987 PHL @ DAL L 12 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 4 1 0 1 2 -
+p222
+aVRoy Hinson PHL 02/27/1987 PHL @ DAL L 35 21 8 16 50.0 0 0 - 5 7 71.4 5 3 8 2 0 0 2 4 -
+p223
+aVKenny Green PHL 02/27/1987 PHL @ DAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p224
+aVAndrew Toney PHL 02/26/1987 PHL @ SAN L 36 17 7 21 33.3 0 1 0.0 3 4 75.0 1 3 4 3 2 0 5 4 -
+p225
+aVRoy Hinson PHL 02/26/1987 PHL @ SAN L 45 23 10 15 66.7 0 0 - 3 6 50.0 1 5 6 0 0 1 5 4 -
+p226
+aVDavid Wingate PHL 02/26/1987 PHL @ SAN L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 2 0 2 2 -
+p227
+aVDanny Vranes PHL 02/26/1987 PHL @ SAN L 24 4 2 3 66.7 0 0 - 0 0 - 1 6 7 1 0 0 1 3 -
+p228
+aVTim McCormick PHL 02/26/1987 PHL @ SAN L 28 4 1 5 20.0 0 0 - 2 4 50.0 3 3 6 3 0 0 2 4 -
+p229
+aVMaurice Cheeks PHL 02/26/1987 PHL @ SAN L 46 28 12 14 85.7 0 0 - 4 4 100.0 1 4 5 11 4 0 3 1 -
+p230
+aVCharles Barkley PHL 02/26/1987 PHL @ SAN L 47 18 7 10 70.0 1 2 50.0 3 7 42.9 2 15 17 10 3 1 6 3 -
+p231
+aVTim McCormick PHL 02/23/1987 PHL @ ATL L 44 4 1 4 25.0 0 0 - 2 2 100.0 3 5 8 0 2 1 3 3 -
+p232
+aVRoy Hinson PHL 02/23/1987 PHL @ ATL L 32 15 4 13 30.8 0 0 - 7 8 87.5 4 4 8 2 0 2 0 5 -
+p233
+aVAndrew Toney PHL 02/23/1987 PHL @ ATL L 35 23 6 11 54.5 0 0 - 11 13 84.6 0 1 1 4 0 0 6 3 -
+p234
+aVMaurice Cheeks PHL 02/23/1987 PHL @ ATL L 40 17 7 14 50.0 1 2 50.0 2 3 66.7 2 3 5 11 5 0 2 2 -
+p235
+aVSteve Colter PHL 02/23/1987 PHL @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p236
+aVCharles Barkley PHL 02/23/1987 PHL @ ATL L 41 20 5 10 50.0 1 2 50.0 9 12 75.0 8 9 17 7 3 1 4 5 -
+p237
+aVDavid Wingate PHL 02/23/1987 PHL @ ATL L 18 13 4 5 80.0 1 1 100.0 4 5 80.0 0 0 0 2 0 1 3 3 -
+p238
+aVCliff T. Robinson PHL 02/23/1987 PHL @ ATL L 27 11 4 12 33.3 0 0 - 3 3 100.0 1 2 3 1 2 0 3 0 -
+p239
+aVWorld Free PHL 02/22/1987 PHL vs. LAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p240
+aVCharles Barkley PHL 02/22/1987 PHL vs. LAL L 53 29 11 21 52.4 0 2 0.0 7 9 77.8 9 4 13 4 2 5 6 4 -
+p241
+aVRoy Hinson PHL 02/22/1987 PHL vs. LAL L 49 15 7 13 53.8 0 0 - 1 1 100.0 2 6 8 3 0 1 1 5 -
+p242
+aVMaurice Cheeks PHL 02/22/1987 PHL vs. LAL L 53 14 7 19 36.8 0 1 0.0 0 0 - 1 3 4 11 5 0 2 0 -
+p243
+aVTim McCormick PHL 02/22/1987 PHL vs. LAL L 46 20 9 14 64.3 0 1 0.0 2 2 100.0 4 5 9 4 0 2 1 4 -
+p244
+aVAndrew Toney PHL 02/22/1987 PHL vs. LAL L 46 26 8 16 50.0 0 0 - 10 10 100.0 0 1 1 9 1 1 3 0 -
+p245
+aVDanny Vranes PHL 02/22/1987 PHL vs. LAL L 10 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -
+p246
+aVDavid Wingate PHL 02/22/1987 PHL vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p247
+aVRoy Hinson PHL 02/20/1987 PHL vs. SAC W 36 17 7 10 70.0 0 0 - 3 4 75.0 2 8 10 2 0 2 0 2 -
+p248
+aVMaurice Cheeks PHL 02/20/1987 PHL vs. SAC W 35 17 8 10 80.0 0 0 - 1 2 50.0 0 6 6 11 5 0 1 0 -
+p249
+aVCharles Barkley PHL 02/20/1987 PHL vs. SAC W 37 18 7 12 58.3 0 0 - 4 5 80.0 5 12 17 6 0 1 5 0 -
+p250
+aVSteve Colter PHL 02/20/1987 PHL vs. SAC W 13 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 0 2 0 1 3 -
+p251
+aVKenny Green PHL 02/20/1987 PHL vs. SAC W 8 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 2 0 2 1 -
+p252
+aVWorld Free PHL 02/20/1987 PHL vs. SAC W 18 12 5 10 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 -
+p253
+aVDanny Vranes PHL 02/20/1987 PHL vs. SAC W 23 8 3 3 100.0 0 0 - 2 2 100.0 1 1 2 1 1 0 4 5 -
+p254
+aVTim McCormick PHL 02/20/1987 PHL vs. SAC W 35 8 2 5 40.0 0 0 - 4 6 66.7 1 8 9 1 1 0 2 2 -
+p255
+aVAndrew Toney PHL 02/20/1987 PHL vs. SAC W 30 32 15 24 62.5 0 0 - 2 3 66.7 1 0 1 8 1 1 2 2 -
+p256
+aVDavid Wingate PHL 02/20/1987 PHL vs. SAC W 5 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 -
+p257
+aVDanny Vranes PHL 02/18/1987 PHL vs. GOS W 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p258
+aVWorld Free PHL 02/18/1987 PHL vs. GOS W 11 5 1 5 20.0 0 0 - 3 5 60.0 0 1 1 0 0 0 1 2 -
+p259
+aVCharles Barkley PHL 02/18/1987 PHL vs. GOS W 47 23 6 10 60.0 0 2 0.0 11 11 100.0 5 13 18 4 0 1 3 4 -
+p260
+aVTim McCormick PHL 02/18/1987 PHL vs. GOS W 37 18 5 8 62.5 0 0 - 8 10 80.0 1 3 4 2 1 1 2 4 -
+p261
+aVMaurice Cheeks PHL 02/18/1987 PHL vs. GOS W 47 25 9 17 52.9 0 0 - 7 8 87.5 2 5 7 14 5 0 1 0 -
+p262
+aVAndrew Toney PHL 02/18/1987 PHL vs. GOS W 38 27 9 17 52.9 1 2 50.0 8 9 88.9 0 3 3 7 0 0 3 4 -
+p263
+aVRoy Hinson PHL 02/18/1987 PHL vs. GOS W 45 16 7 15 46.7 0 0 - 2 6 33.3 3 4 7 1 1 6 0 4 -
+p264
+aVDanny Vranes PHL 02/16/1987 PHL @ NYK W 13 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 0 4 -
+p265
+aVRoy Hinson PHL 02/16/1987 PHL @ NYK W 43 18 8 13 61.5 0 0 - 2 2 100.0 1 5 6 0 0 0 1 4 -
+p266
+aVJulius Erving PHL 02/16/1987 PHL @ NYK W 20 10 5 9 55.6 0 0 - 0 0 - 1 0 1 3 0 0 3 2 -
+p267
+aVDavid Wingate PHL 02/16/1987 PHL @ NYK W 25 9 3 7 42.9 0 2 0.0 3 4 75.0 1 3 4 1 1 0 0 1 -
+p268
+aVCharles Barkley PHL 02/16/1987 PHL @ NYK W 43 17 5 12 41.7 0 1 0.0 7 9 77.8 5 14 19 4 3 1 4 2 -
+p269
+aVTim McCormick PHL 02/16/1987 PHL @ NYK W 40 19 6 9 66.7 0 0 - 7 10 70.0 0 8 8 3 0 1 2 3 -
+p270
+aVAndrew Toney PHL 02/16/1987 PHL @ NYK W 22 15 5 7 71.4 1 2 50.0 4 5 80.0 0 1 1 4 0 0 3 1 -
+p271
+aVMaurice Cheeks PHL 02/16/1987 PHL @ NYK W 34 18 7 13 53.8 0 0 - 4 7 57.1 1 1 2 5 1 0 2 1 -
+p272
+aVWorld Free PHL 02/14/1987 PHL @ DET L 15 6 1 9 11.1 0 1 0.0 4 4 100.0 0 3 3 3 0 0 2 2 -
+p273
+aVMaurice Cheeks PHL 02/14/1987 PHL @ DET L 38 11 4 10 40.0 0 1 0.0 3 3 100.0 0 5 5 9 1 0 0 0 -
+p274
+aVSteve Colter PHL 02/14/1987 PHL @ DET L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -
+p275
+aVDanny Vranes PHL 02/14/1987 PHL @ DET L 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p276
+aVAndrew Toney PHL 02/14/1987 PHL @ DET L 19 11 5 7 71.4 0 0 - 1 2 50.0 0 0 0 4 0 0 5 4 -
+p277
+aVKenny Green PHL 02/14/1987 PHL @ DET L 11 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 0 -
+p278
+aVDavid Wingate PHL 02/14/1987 PHL @ DET L 15 11 4 5 80.0 0 0 - 3 3 100.0 0 0 0 1 1 0 1 2 -
+p279
+aVJulius Erving PHL 02/14/1987 PHL @ DET L 35 15 6 12 50.0 0 1 0.0 3 4 75.0 1 3 4 3 3 1 3 4 -
+p280
+aVTim McCormick PHL 02/14/1987 PHL @ DET L 39 23 10 15 66.7 0 0 - 3 5 60.0 1 3 4 1 2 0 2 5 -
+p281
+aVRoy Hinson PHL 02/14/1987 PHL @ DET L 41 27 12 21 57.1 0 0 - 3 4 75.0 4 6 10 0 0 0 0 3 -
+p282
+aVAndrew Toney PHL 02/11/1987 PHL vs. DET L 22 16 5 18 27.8 0 2 0.0 6 8 75.0 0 2 2 3 0 1 1 2 -
+p283
+aVTim McCormick PHL 02/11/1987 PHL vs. DET L 47 20 8 12 66.7 0 0 - 4 4 100.0 4 7 11 3 0 2 3 2 -
+p284
+aVJulius Erving PHL 02/11/1987 PHL vs. DET L 45 19 8 21 38.1 0 0 - 3 4 75.0 4 3 7 4 1 3 3 4 -
+p285
+aVCharles Barkley PHL 02/11/1987 PHL vs. DET L 22 6 3 6 50.0 0 0 - 0 0 - 2 2 4 2 2 0 2 0 -
+p286
+aVRoy Hinson PHL 02/11/1987 PHL vs. DET L 35 9 3 8 37.5 0 0 - 3 4 75.0 2 4 6 0 0 4 4 3 -
+p287
+aVDanny Vranes PHL 02/11/1987 PHL vs. DET L 22 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 1 0 1 4 -
+p288
+aVDavid Wingate PHL 02/11/1987 PHL vs. DET L 26 8 3 8 37.5 0 0 - 2 4 50.0 1 0 1 6 1 0 4 5 -
+p289
+aVMaurice Cheeks PHL 02/11/1987 PHL vs. DET L 46 31 15 21 71.4 0 0 - 1 2 50.0 1 3 4 12 6 0 4 1 -
+p290
+aVJulius Erving PHL 02/10/1987 PHL @ CHI L 36 30 12 23 52.2 0 2 0.0 6 7 85.7 2 6 8 1 3 2 2 3 -
+p291
+aVDavid Wingate PHL 02/10/1987 PHL @ CHI L 21 9 3 8 37.5 0 0 - 3 3 100.0 1 0 1 2 2 2 1 2 -
+p292
+aVTim McCormick PHL 02/10/1987 PHL @ CHI L 43 13 4 11 36.4 0 0 - 5 7 71.4 2 7 9 2 1 0 0 5 -
+p293
+aVDanny Vranes PHL 02/10/1987 PHL @ CHI L 21 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 1 0 1 1 5 -
+p294
+aVAndrew Toney PHL 02/10/1987 PHL @ CHI L 9 5 2 4 50.0 0 2 0.0 1 2 50.0 0 1 1 1 0 0 2 0 -
+p295
+aVCharles Barkley PHL 02/10/1987 PHL @ CHI L 40 12 5 9 55.6 0 3 0.0 2 3 66.7 4 2 6 5 1 1 9 5 -
+p296
+aVMaurice Cheeks PHL 02/10/1987 PHL @ CHI L 42 16 8 12 66.7 0 0 - 0 0 - 0 3 3 12 3 0 2 1 -
+p297
+aVRoy Hinson PHL 02/10/1987 PHL @ CHI L 22 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 0 0 0 1 5 -
+p298
+aVSteve Colter PHL 02/10/1987 PHL @ CHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p299
+aVDavid Wingate PHL 02/04/1987 PHL @ NJN W 13 13 5 8 62.5 0 0 - 3 4 75.0 5 1 6 0 2 0 2 0 -
+p300
+aVSteve Colter PHL 02/04/1987 PHL @ NJN W 12 4 1 5 20.0 0 0 - 2 2 100.0 0 2 2 1 2 0 1 1 -
+p301
+aVTim McCormick PHL 02/04/1987 PHL @ NJN W 33 16 7 10 70.0 0 0 - 2 2 100.0 2 4 6 3 0 2 3 3 -
+p302
+aVMaurice Cheeks PHL 02/04/1987 PHL @ NJN W 36 10 4 8 50.0 0 0 - 2 4 50.0 0 4 4 4 2 1 3 0 -
+p303
+aVWorld Free PHL 02/04/1987 PHL @ NJN W 3 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p304
+aVKenny Green PHL 02/04/1987 PHL @ NJN W 6 8 2 3 66.7 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 -
+p305
+aVJulius Erving PHL 02/04/1987 PHL @ NJN W 28 28 11 17 64.7 2 2 100.0 4 4 100.0 2 2 4 1 2 4 3 2 -
+p306
+aVAndrew Toney PHL 02/04/1987 PHL @ NJN W 16 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 6 0 0 3 0 -
+p307
+aVCharles Barkley PHL 02/04/1987 PHL @ NJN W 34 10 3 9 33.3 0 0 - 4 5 80.0 4 4 8 3 0 2 3 4 -
+p308
+aVRoy Hinson PHL 02/04/1987 PHL @ NJN W 26 21 8 13 61.5 0 0 - 5 5 100.0 3 5 8 1 0 3 3 4 -
+p309
+aVDanny Vranes PHL 02/04/1987 PHL @ NJN W 33 2 1 5 20.0 0 0 - 0 0 - 0 5 5 0 0 0 0 3 -
+p310
+aVDavid Wingate PHL 02/03/1987 PHL @ IND W 21 9 4 6 66.7 0 0 - 1 2 50.0 1 0 1 2 1 1 0 0 -
+p311
+aVDanny Vranes PHL 02/03/1987 PHL @ IND W 22 6 3 6 50.0 0 0 - 0 0 - 2 3 5 2 1 0 0 4 -
+p312
+aVCharles Barkley PHL 02/03/1987 PHL @ IND W 45 22 7 18 38.9 1 3 33.3 7 9 77.8 4 9 13 1 6 3 4 3 -
+p313
+aVTim McCormick PHL 02/03/1987 PHL @ IND W 33 12 6 13 46.2 0 0 - 0 0 - 1 13 14 2 0 0 4 3 -
+p314
+aVRoy Hinson PHL 02/03/1987 PHL @ IND W 23 16 6 11 54.5 0 0 - 4 5 80.0 1 1 2 0 1 0 1 2 -
+p315
+aVJulius Erving PHL 02/03/1987 PHL @ IND W 30 10 3 6 50.0 0 0 - 4 4 100.0 1 1 2 6 0 2 3 2 -
+p316
+aVMaurice Cheeks PHL 02/03/1987 PHL @ IND W 44 11 3 7 42.9 0 1 0.0 5 6 83.3 0 2 2 5 2 0 4 1 -
+p317
+aVAndrew Toney PHL 02/03/1987 PHL @ IND W 15 9 3 6 50.0 0 1 0.0 3 3 100.0 0 3 3 1 0 0 1 1 -
+p318
+aVWorld Free PHL 02/03/1987 PHL @ IND W 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p319
+aVCharles Barkley PHL 01/31/1987 PHL @ WAS L 48 28 8 16 50.0 1 3 33.3 11 12 91.7 9 8 17 8 2 2 3 4 -
+p320
+aVMaurice Cheeks PHL 01/31/1987 PHL @ WAS L 36 11 4 13 30.8 0 0 - 3 5 60.0 1 3 4 6 3 0 4 2 -
+p321
+aVTim McCormick PHL 01/31/1987 PHL @ WAS L 40 25 11 16 68.8 0 0 - 3 3 100.0 2 8 10 1 1 0 2 4 -
+p322
+aVSteve Colter PHL 01/31/1987 PHL @ WAS L 18 11 4 11 36.4 0 1 0.0 3 5 60.0 1 2 3 2 1 0 0 2 -
+p323
+aVDanny Vranes PHL 01/31/1987 PHL @ WAS L 32 7 3 5 60.0 0 0 - 1 2 50.0 1 5 6 0 1 1 2 5 -
+p324
+aVWorld Free PHL 01/31/1987 PHL @ WAS L 15 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 1 0 0 1 1 -
+p325
+aVDavid Wingate PHL 01/31/1987 PHL @ WAS L 33 11 4 10 40.0 0 1 0.0 3 4 75.0 5 1 6 3 1 0 6 1 -
+p326
+aVRoy Hinson PHL 01/31/1987 PHL @ WAS L 18 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 0 0 4 5 -
+p327
+aVDavid Wingate PHL 01/30/1987 PHL vs. CHI W 18 12 5 10 50.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 1 -
+p328
+aVRoy Hinson PHL 01/30/1987 PHL vs. CHI W 27 10 5 8 62.5 0 0 - 0 0 - 3 4 7 0 0 1 0 5 -
+p329
+aVAndrew Toney PHL 01/30/1987 PHL vs. CHI W 29 8 3 8 37.5 0 1 0.0 2 4 50.0 0 2 2 6 2 0 0 4 -
+p330
+aVCharles Barkley PHL 01/30/1987 PHL vs. CHI W 46 40 12 17 70.6 0 1 0.0 16 22 72.7 8 13 21 5 0 1 7 3 -
+p331
+aVCliff T. Robinson PHL 01/30/1987 PHL vs. CHI W 18 16 5 11 45.5 0 0 - 6 6 100.0 0 2 2 1 0 1 0 1 -
+p332
+aVWorld Free PHL 01/30/1987 PHL vs. CHI W 8 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p333
+aVTim McCormick PHL 01/30/1987 PHL vs. CHI W 37 14 5 8 62.5 0 0 - 4 6 66.7 1 3 4 2 2 2 2 2 -
+p334
+aVDanny Vranes PHL 01/30/1987 PHL vs. CHI W 16 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -
+p335
+aVMaurice Cheeks PHL 01/30/1987 PHL vs. CHI W 41 17 4 7 57.1 0 0 - 9 11 81.8 1 4 5 8 1 3 2 1 -
+p336
+aVCharles Barkley PHL 01/28/1987 PHL vs. CLE W 33 14 5 10 50.0 0 1 0.0 4 4 100.0 6 8 14 4 3 2 2 4 -
+p337
+aVTim McCormick PHL 01/28/1987 PHL vs. CLE W 30 13 5 8 62.5 0 0 - 3 4 75.0 2 6 8 0 0 2 2 6 -
+p338
+aVJulius Erving PHL 01/28/1987 PHL vs. CLE W 38 12 4 17 23.5 0 0 - 4 4 100.0 1 3 4 2 1 4 3 2 -
+p339
+aVDavid Wingate PHL 01/28/1987 PHL vs. CLE W 22 7 2 8 25.0 0 0 - 3 5 60.0 1 1 2 2 1 0 1 3 -
+p340
+aVAndrew Toney PHL 01/28/1987 PHL vs. CLE W 28 21 7 11 63.6 0 0 - 7 8 87.5 0 0 0 5 0 2 2 4 -
+p341
+aVCliff T. Robinson PHL 01/28/1987 PHL vs. CLE W 40 23 10 19 52.6 0 0 - 3 5 60.0 3 3 6 2 2 1 4 3 -
+p342
+aVDanny Vranes PHL 01/28/1987 PHL vs. CLE W 20 6 2 5 40.0 0 0 - 2 2 100.0 4 3 7 1 1 0 1 3 -
+p343
+aVMaurice Cheeks PHL 01/28/1987 PHL vs. CLE W 29 13 6 8 75.0 0 0 - 1 2 50.0 0 0 0 8 3 0 2 2 -
+p344
+aVDavid Wingate PHL 01/27/1987 PHL @ NYK W 16 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 3 4 -
+p345
+aVMaurice Cheeks PHL 01/27/1987 PHL @ NYK W 34 12 5 8 62.5 0 0 - 2 3 66.7 0 2 2 5 0 0 2 0 -
+p346
+aVRoy Hinson PHL 01/27/1987 PHL @ NYK W 27 22 10 13 76.9 0 0 - 2 3 66.7 2 1 3 1 2 2 4 2 -
+p347
+aVCharles Barkley PHL 01/27/1987 PHL @ NYK W 48 25 6 11 54.5 2 4 50.0 11 11 100.0 9 14 23 7 7 0 5 3 -
+p348
+aVJulius Erving PHL 01/27/1987 PHL @ NYK W 35 22 9 16 56.3 0 0 - 4 4 100.0 2 0 2 2 2 0 4 2 -
+p349
+aVCliff T. Robinson PHL 01/27/1987 PHL @ NYK W 30 13 5 18 27.8 0 0 - 3 4 75.0 2 1 3 2 2 0 3 3 -
+p350
+aVAndrew Toney PHL 01/27/1987 PHL @ NYK W 20 11 3 5 60.0 1 1 100.0 4 6 66.7 2 0 2 5 2 0 3 4 -
+p351
+aVTim McCormick PHL 01/27/1987 PHL @ NYK W 30 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 0 2 3 -
+p352
+aVAndrew Toney PHL 01/25/1987 PHL @ BOS L 16 21 8 11 72.7 2 2 100.0 3 3 100.0 1 1 2 2 0 0 4 2 -
+p353
+aVWorld Free PHL 01/25/1987 PHL @ BOS L 12 7 3 5 60.0 0 1 0.0 1 3 33.3 0 0 0 0 2 0 1 1 -
+p354
+aVSteve Colter PHL 01/25/1987 PHL @ BOS L 12 10 4 7 57.1 1 1 100.0 1 2 50.0 0 0 0 4 2 0 1 1 -
+p355
+aVMaurice Cheeks PHL 01/25/1987 PHL @ BOS L 23 2 1 6 16.7 0 0 - 0 0 - 1 0 1 3 3 0 2 2 -
+p356
+aVRoy Hinson PHL 01/25/1987 PHL @ BOS L 27 9 3 8 37.5 0 0 - 3 4 75.0 0 4 4 1 2 1 1 5 -
+p357
+aVDavid Wingate PHL 01/25/1987 PHL @ BOS L 25 8 4 6 66.7 0 1 0.0 0 1 0.0 0 0 0 0 2 0 3 1 -
+p358
+aVJulius Erving PHL 01/25/1987 PHL @ BOS L 29 6 3 11 27.3 0 1 0.0 0 0 - 2 3 5 2 1 2 1 3 -
+p359
+aVDanny Vranes PHL 01/25/1987 PHL @ BOS L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -
+p360
+aVCharles Barkley PHL 01/25/1987 PHL @ BOS L 33 18 6 15 40.0 1 3 33.3 5 6 83.3 7 4 11 2 0 1 4 3 -
+p361
+aVTim McCormick PHL 01/25/1987 PHL @ BOS L 35 10 4 12 33.3 0 0 - 2 5 40.0 4 9 13 1 0 0 1 4 -
+p362
+aVCliff T. Robinson PHL 01/25/1987 PHL @ BOS L 20 5 2 8 25.0 0 0 - 1 1 100.0 1 4 5 2 1 0 2 1 -
+p363
+aVWorld Free PHL 01/21/1987 PHL vs. SEA W 10 5 2 7 28.6 0 1 0.0 1 1 100.0 0 0 0 3 0 0 1 1 -
+p364
+aVCharles Barkley PHL 01/21/1987 PHL vs. SEA W 37 16 6 11 54.5 0 1 0.0 4 7 57.1 5 8 13 4 2 1 7 6 -
+p365
+aVSteve Colter PHL 01/21/1987 PHL vs. SEA W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -
+p366
+aVDanny Vranes PHL 01/21/1987 PHL vs. SEA W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p367
+aVJulius Erving PHL 01/21/1987 PHL vs. SEA W 22 12 6 9 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -
+p368
+aVDavid Wingate PHL 01/21/1987 PHL vs. SEA W 21 5 2 10 20.0 0 1 0.0 1 1 100.0 1 0 1 1 0 1 1 0 -
+p369
+aVCliff T. Robinson PHL 01/21/1987 PHL vs. SEA W 32 20 9 13 69.2 0 0 - 2 3 66.7 2 2 4 4 3 0 3 4 -
+p370
+aVRoy Hinson PHL 01/21/1987 PHL vs. SEA W 48 28 10 16 62.5 0 0 - 8 9 88.9 3 5 8 2 2 4 0 4 -
+p371
+aVTim McCormick PHL 01/21/1987 PHL vs. SEA W 37 27 8 11 72.7 0 0 - 11 14 78.6 2 8 10 0 0 0 1 4 -
+p372
+aVMaurice Cheeks PHL 01/21/1987 PHL vs. SEA W 44 16 8 11 72.7 0 0 - 0 0 - 1 2 3 15 5 0 3 2 -
+p373
+aVWorld Free PHL 01/19/1987 PHL vs. PHX W 14 11 5 9 55.6 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 -
+p374
+aVTim McCormick PHL 01/19/1987 PHL vs. PHX W 19 8 4 8 50.0 0 0 - 0 0 - 1 5 6 1 0 0 3 4 -
+p375
+aVCliff T. Robinson PHL 01/19/1987 PHL vs. PHX W 35 12 6 11 54.5 0 0 - 0 2 0.0 0 0 0 2 1 0 2 3 -
+p376
+aVDavid Wingate PHL 01/19/1987 PHL vs. PHX W 14 7 2 4 50.0 1 1 100.0 2 2 100.0 0 0 0 2 2 0 1 0 -
+p377
+aVJulius Erving PHL 01/19/1987 PHL vs. PHX W 20 20 8 14 57.1 0 0 - 4 4 100.0 1 3 4 0 0 1 2 3 -
+p378
+aVMaurice Cheeks PHL 01/19/1987 PHL vs. PHX W 41 8 4 8 50.0 0 0 - 0 0 - 1 7 8 14 3 0 4 1 -
+p379
+aVCharles Barkley PHL 01/19/1987 PHL vs. PHX W 37 27 9 12 75.0 0 0 - 9 11 81.8 6 7 13 4 2 1 5 4 -
+p380
+aVSteve Colter PHL 01/19/1987 PHL vs. PHX W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p381
+aVJeff Ruland PHL 01/19/1987 PHL vs. PHX W 17 5 2 3 66.7 0 0 - 1 1 100.0 1 4 5 0 0 2 2 1 -
+p382
+aVRoy Hinson PHL 01/19/1987 PHL vs. PHX W 36 7 2 11 18.2 0 1 0.0 3 4 75.0 3 1 4 1 0 5 0 2 -
+p383
+aVCliff T. Robinson PHL 01/17/1987 PHL @ CHI L 21 14 6 12 50.0 0 0 - 2 2 100.0 0 2 2 0 3 0 1 1 -
+p384
+aVWorld Free PHL 01/17/1987 PHL @ CHI L 13 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 -
+p385
+aVTim McCormick PHL 01/17/1987 PHL @ CHI L 25 4 1 3 33.3 0 0 - 2 4 50.0 1 3 4 2 0 0 1 2 -
+p386
+aVRoy Hinson PHL 01/17/1987 PHL @ CHI L 32 10 3 7 42.9 0 0 - 4 4 100.0 2 4 6 0 0 1 2 3 -
+p387
+aVCharles Barkley PHL 01/17/1987 PHL @ CHI L 41 21 9 15 60.0 0 2 0.0 3 3 100.0 3 10 13 4 0 1 5 4 -
+p388
+aVJulius Erving PHL 01/17/1987 PHL @ CHI L 20 8 4 10 40.0 0 1 0.0 0 2 0.0 1 0 1 2 0 1 1 3 -
+p389
+aVMaurice Cheeks PHL 01/17/1987 PHL @ CHI L 39 13 5 8 62.5 0 0 - 3 6 50.0 0 2 2 6 1 0 2 2 -
+p390
+aVJeff Ruland PHL 01/17/1987 PHL @ CHI L 23 7 2 6 33.3 0 0 - 3 4 75.0 0 3 3 1 0 0 4 4 -
+p391
+aVDavid Wingate PHL 01/17/1987 PHL @ CHI L 17 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 1 6 -
+p392
+aVSteve Colter PHL 01/17/1987 PHL @ CHI L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 2 0 0 0 -
+p393
+aVJulius Erving PHL 01/14/1987 PHL vs. ATL W 27 6 3 10 30.0 0 2 0.0 0 0 - 1 4 5 2 2 3 6 1 -
+p394
+aVJeff Ruland PHL 01/14/1987 PHL vs. ATL W 24 19 7 8 87.5 0 0 - 5 6 83.3 2 3 5 2 0 2 2 2 -
+p395
+aVSteve Colter PHL 01/14/1987 PHL vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p396
+aVDavid Wingate PHL 01/14/1987 PHL vs. ATL W 28 17 5 14 35.7 0 1 0.0 7 10 70.0 0 1 1 0 1 0 2 3 -
+p397
+aVTim McCormick PHL 01/14/1987 PHL vs. ATL W 34 6 3 5 60.0 0 0 - 0 0 - 0 9 9 1 0 0 4 0 -
+p398
+aVRoy Hinson PHL 01/14/1987 PHL vs. ATL W 25 3 1 4 25.0 0 0 - 1 3 33.3 1 1 2 1 0 3 2 5 -
+p399
+aVMaurice Cheeks PHL 01/14/1987 PHL vs. ATL W 42 16 7 16 43.8 0 0 - 2 3 66.7 0 1 1 9 6 1 3 3 -
+p400
+aVWorld Free PHL 01/14/1987 PHL vs. ATL W 11 5 1 6 16.7 0 1 0.0 3 4 75.0 0 0 0 2 0 0 0 4 -
+p401
+aVCharles Barkley PHL 01/14/1987 PHL vs. ATL W 43 24 10 11 90.9 1 1 100.0 3 4 75.0 4 16 20 4 2 3 5 4 -
+p402
+aVWorld Free PHL 01/13/1987 PHL @ IND W 24 10 2 6 33.3 0 1 0.0 6 9 66.7 0 1 1 2 1 0 0 2 -
+p403
+aVSteve Colter PHL 01/13/1987 PHL @ IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p404
+aVDanny Vranes PHL 01/13/1987 PHL @ IND W 17 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -
+p405
+aVJulius Erving PHL 01/13/1987 PHL @ IND W 31 14 6 13 46.2 0 0 - 2 3 66.7 2 1 3 5 0 1 1 2 -
+p406
+aVRoy Hinson PHL 01/13/1987 PHL @ IND W 20 8 3 9 33.3 0 0 - 2 2 100.0 1 2 3 0 0 1 1 0 -
+p407
+aVDavid Wingate PHL 01/13/1987 PHL @ IND W 16 14 5 7 71.4 1 1 100.0 3 3 100.0 0 1 1 2 2 0 1 3 -
+p408
+aVTim McCormick PHL 01/13/1987 PHL @ IND W 40 4 2 4 50.0 0 0 - 0 0 - 0 4 4 2 0 0 1 3 -
+p409
+aVMaurice Cheeks PHL 01/13/1987 PHL @ IND W 43 18 8 14 57.1 0 0 - 2 5 40.0 0 3 3 8 2 0 2 1 -
+p410
+aVCharles Barkley PHL 01/13/1987 PHL @ IND W 44 33 10 13 76.9 1 1 100.0 12 15 80.0 5 10 15 5 2 5 2 3 -
+p411
+aVTim McCormick PHL 01/10/1987 PHL @ WAS L 39 24 9 13 69.2 0 0 - 6 7 85.7 3 4 7 1 0 1 1 5 -
+p412
+aVCliff T. Robinson PHL 01/10/1987 PHL @ WAS L 27 8 4 10 40.0 0 0 - 0 0 - 1 3 4 0 1 0 3 2 -
+p413
+aVDavid Wingate PHL 01/10/1987 PHL @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p414
+aVWorld Free PHL 01/10/1987 PHL @ WAS L 26 7 2 9 22.2 0 0 - 3 3 100.0 0 2 2 6 0 2 3 2 -
+p415
+aVJulius Erving PHL 01/10/1987 PHL @ WAS L 37 20 10 16 62.5 0 1 0.0 0 0 - 2 5 7 2 2 2 4 3 -
+p416
+aVMaurice Cheeks PHL 01/10/1987 PHL @ WAS L 42 20 8 13 61.5 0 0 - 4 4 100.0 0 1 1 8 2 0 4 3 -
+p417
+aVCharles Barkley PHL 01/10/1987 PHL @ WAS L 41 23 6 8 75.0 0 1 0.0 11 14 78.6 2 10 12 8 2 2 3 3 -
+p418
+aVDanny Vranes PHL 01/10/1987 PHL @ WAS L 20 9 3 5 60.0 1 1 100.0 2 2 100.0 0 5 5 0 0 1 2 5 -
+p419
+aVSteve Colter PHL 01/10/1987 PHL @ WAS L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p420
+aVCharles Barkley PHL 01/09/1987 PHL vs. NYK L 36 19 8 12 66.7 0 0 - 3 6 50.0 6 4 10 1 3 1 4 6 -
+p421
+aVDanny Vranes PHL 01/09/1987 PHL vs. NYK L 9 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 2 0 0 2 -
+p422
+aVJulius Erving PHL 01/09/1987 PHL vs. NYK L 29 19 7 13 53.8 0 2 0.0 5 6 83.3 1 3 4 2 3 2 3 2 -
+p423
+aVTim McCormick PHL 01/09/1987 PHL vs. NYK L 41 11 4 7 57.1 0 0 - 3 4 75.0 2 3 5 2 0 1 3 3 -
+p424
+aVCliff T. Robinson PHL 01/09/1987 PHL vs. NYK L 39 9 3 13 23.1 0 0 - 3 4 75.0 2 4 6 3 2 2 5 4 -
+p425
+aVMaurice Cheeks PHL 01/09/1987 PHL vs. NYK L 33 10 3 12 25.0 0 1 0.0 4 4 100.0 1 1 2 3 2 0 0 1 -
+p426
+aVDavid Wingate PHL 01/09/1987 PHL vs. NYK L 21 3 0 5 0.0 0 1 0.0 3 6 50.0 2 0 2 1 3 0 2 1 -
+p427
+aVWorld Free PHL 01/09/1987 PHL vs. NYK L 17 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 1 -
+p428
+aVSteve Colter PHL 01/09/1987 PHL vs. NYK L 15 6 3 4 75.0 0 0 - 0 0 - 0 0 0 2 1 0 3 0 -
+p429
+aVDavid Wingate PHL 01/07/1987 PHL @ ATL W 22 15 6 10 60.0 1 2 50.0 2 2 100.0 2 1 3 1 2 0 1 2 -
+p430
+aVDanny Vranes PHL 01/07/1987 PHL @ ATL W 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 3 -
+p431
+aVSteve Colter PHL 01/07/1987 PHL @ ATL W 10 6 3 3 100.0 0 0 - 0 0 - 0 4 4 2 1 0 1 2 -
+p432
+aVMaurice Cheeks PHL 01/07/1987 PHL @ ATL W 38 15 5 10 50.0 0 0 - 5 5 100.0 2 0 2 7 2 0 1 0 -
+p433
+aVTim McCormick PHL 01/07/1987 PHL @ ATL W 38 7 3 5 60.0 0 0 - 1 2 50.0 3 2 5 1 0 0 5 4 -
+p434
+aVCliff T. Robinson PHL 01/07/1987 PHL @ ATL W 44 31 15 20 75.0 0 0 - 1 3 33.3 1 2 3 6 4 0 2 2 -
+p435
+aVWorld Free PHL 01/07/1987 PHL @ ATL W 27 10 2 10 20.0 1 2 50.0 5 6 83.3 1 3 4 2 1 0 1 3 -
+p436
+aVCharles Barkley PHL 01/07/1987 PHL @ ATL W 47 25 9 15 60.0 0 0 - 7 13 53.8 7 8 15 4 3 0 5 2 -
+p437
+aVSteve Colter PHL 01/05/1987 PHL vs. LAC W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -
+p438
+aVWorld Free PHL 01/05/1987 PHL vs. LAC W 28 8 4 11 36.4 0 1 0.0 0 0 - 1 0 1 2 0 1 2 2 -
+p439
+aVDanny Vranes PHL 01/05/1987 PHL vs. LAC W 13 2 0 2 0.0 0 0 - 2 4 50.0 1 0 1 2 2 1 0 0 -
+p440
+aVCharles Barkley PHL 01/05/1987 PHL vs. LAC W 43 38 15 23 65.2 1 2 50.0 7 11 63.6 9 3 12 4 5 2 4 3 -
+p441
+aVTim McCormick PHL 01/05/1987 PHL vs. LAC W 38 4 1 4 25.0 0 0 - 2 4 50.0 2 4 6 1 0 1 3 4 -
+p442
+aVCliff T. Robinson PHL 01/05/1987 PHL vs. LAC W 40 23 9 19 47.4 0 0 - 5 6 83.3 2 5 7 2 4 0 3 6 -
+p443
+aVJulius Erving PHL 01/05/1987 PHL vs. LAC W 30 11 3 12 25.0 0 0 - 5 5 100.0 4 4 8 3 1 4 3 1 -
+p444
+aVMaurice Cheeks PHL 01/05/1987 PHL vs. LAC W 42 22 10 15 66.7 0 0 - 2 3 66.7 1 2 3 10 9 0 3 3 -
+p445
+aVSteve Colter PHL 01/02/1987 PHL @ UTH W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p446
+aVJulius Erving PHL 01/02/1987 PHL @ UTH W 30 14 7 19 36.8 0 0 - 0 0 - 4 0 4 3 0 1 2 1 -
+p447
+aVCliff T. Robinson PHL 01/02/1987 PHL @ UTH W 35 24 11 20 55.0 0 0 - 2 2 100.0 2 3 5 1 5 0 2 2 -
+p448
+aVTim McCormick PHL 01/02/1987 PHL @ UTH W 40 7 1 7 14.3 0 0 - 5 6 83.3 4 6 10 1 1 1 2 3 -
+p449
+aVMaurice Cheeks PHL 01/02/1987 PHL @ UTH W 39 21 6 11 54.5 1 1 100.0 8 9 88.9 1 2 3 10 3 0 5 3 -
+p450
+aVCharles Barkley PHL 01/02/1987 PHL @ UTH W 44 30 10 15 66.7 0 1 0.0 10 13 76.9 4 10 14 2 1 0 2 4 -
+p451
+aVDanny Vranes PHL 01/02/1987 PHL @ UTH W 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p452
+aVRoy Hinson PHL 01/02/1987 PHL @ UTH W 8 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 -
+p453
+aVWorld Free PHL 01/02/1987 PHL @ UTH W 14 0 0 6 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 2 -
+p454
+aVDavid Wingate PHL 01/02/1987 PHL @ UTH W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 -
+p455
+aVMaurice Cheeks PHL 12/30/1986 PHL @ DEN W 40 18 8 14 57.1 0 0 - 2 4 50.0 0 3 3 3 5 0 2 4 -
+p456
+aVCliff T. Robinson PHL 12/30/1986 PHL @ DEN W 32 12 5 14 35.7 0 0 - 2 3 66.7 0 0 0 1 1 0 3 0 -
+p457
+aVCharles Barkley PHL 12/30/1986 PHL @ DEN W 42 29 9 15 60.0 1 1 100.0 10 17 58.8 4 9 13 3 3 0 4 5 -
+p458
+aVRoy Hinson PHL 12/30/1986 PHL @ DEN W 15 9 4 10 40.0 0 0 - 1 1 100.0 3 4 7 0 0 0 4 6 -
+p459
+aVJulius Erving PHL 12/30/1986 PHL @ DEN W 34 17 7 15 46.7 0 1 0.0 3 4 75.0 0 4 4 6 2 2 2 2 -
+p460
+aVDanny Vranes PHL 12/30/1986 PHL @ DEN W 10 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 5 -
+p461
+aVTim McCormick PHL 12/30/1986 PHL @ DEN W 25 7 2 4 50.0 0 0 - 3 5 60.0 1 8 9 1 0 2 2 3 -
+p462
+aVDavid Wingate PHL 12/30/1986 PHL @ DEN W 20 11 4 7 57.1 0 0 - 3 4 75.0 1 1 2 2 1 0 2 2 -
+p463
+aVAndrew Toney PHL 12/30/1986 PHL @ DEN W 22 2 1 4 25.0 0 1 0.0 0 2 0.0 0 4 4 4 1 0 3 2 -
+p464
+aVKenny Green PHL 12/28/1986 PHL @ LAL L 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 2 1 -
+p465
+aVCharles Barkley PHL 12/28/1986 PHL @ LAL L 32 13 4 11 36.4 0 1 0.0 5 7 71.4 3 13 16 2 3 0 3 4 -
+p466
+aVMaurice Cheeks PHL 12/28/1986 PHL @ LAL L 37 17 5 9 55.6 0 0 - 7 7 100.0 0 2 2 5 2 0 3 0 -
+p467
+aVCliff T. Robinson PHL 12/28/1986 PHL @ LAL L 30 8 4 11 36.4 0 0 - 0 0 - 3 3 6 0 1 0 4 2 -
+p468
+aVDavid Wingate PHL 12/28/1986 PHL @ LAL L 15 10 4 5 80.0 0 1 0.0 2 3 66.7 0 1 1 1 0 0 5 4 -
+p469
+aVDanny Vranes PHL 12/28/1986 PHL @ LAL L 15 0 0 5 0.0 0 1 0.0 0 0 - 1 0 1 2 1 1 0 1 -
+p470
+aVSedale Threatt PHL 12/28/1986 PHL @ LAL L 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -
+p471
+aVTim McCormick PHL 12/28/1986 PHL @ LAL L 29 10 5 8 62.5 0 0 - 0 2 0.0 3 3 6 0 0 0 0 3 -
+p472
+aVJulius Erving PHL 12/28/1986 PHL @ LAL L 31 6 3 9 33.3 0 2 0.0 0 0 - 2 0 2 5 1 1 3 2 -
+p473
+aVAndrew Toney PHL 12/28/1986 PHL @ LAL L 10 6 2 10 20.0 0 4 0.0 2 2 100.0 1 0 1 2 0 0 1 0 -
+p474
+aVRoy Hinson PHL 12/28/1986 PHL @ LAL L 24 15 3 9 33.3 0 0 - 9 9 100.0 3 5 8 0 0 0 3 3 -
+p475
+aVSedale Threatt PHL 12/27/1986 PHL @ SAC W 12 4 2 7 28.6 0 0 - 0 1 0.0 1 0 1 0 0 0 0 1 -
+p476
+aVMaurice Cheeks PHL 12/27/1986 PHL @ SAC W 44 8 4 15 26.7 0 0 - 0 0 - 1 3 4 7 4 0 3 0 -
+p477
+aVCliff T. Robinson PHL 12/27/1986 PHL @ SAC W 34 23 10 16 62.5 0 0 - 3 4 75.0 1 5 6 4 3 2 4 4 -
+p478
+aVDavid Wingate PHL 12/27/1986 PHL @ SAC W 8 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 1 0 1 4 -
+p479
+aVDanny Vranes PHL 12/27/1986 PHL @ SAC W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p480
+aVTim McCormick PHL 12/27/1986 PHL @ SAC W 40 14 3 8 37.5 0 0 - 8 8 100.0 3 3 6 0 0 2 1 2 -
+p481
+aVCharles Barkley PHL 12/27/1986 PHL @ SAC W 33 17 5 10 50.0 0 2 0.0 7 9 77.8 6 8 14 2 1 1 6 4 -
+p482
+aVJulius Erving PHL 12/27/1986 PHL @ SAC W 32 19 8 14 57.1 0 0 - 3 5 60.0 2 1 3 1 1 1 4 0 -
+p483
+aVRoy Hinson PHL 12/27/1986 PHL @ SAC W 23 8 3 9 33.3 0 0 - 2 4 50.0 3 4 7 0 1 1 0 2 -
+p484
+aVCharles Barkley PHL 12/25/1986 PHL vs. WAS L 43 16 6 8 75.0 1 3 33.3 3 6 50.0 2 8 10 7 2 2 5 3 -
+p485
+aVDanny Vranes PHL 12/25/1986 PHL vs. WAS L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -
+p486
+aVMaurice Cheeks PHL 12/25/1986 PHL vs. WAS L 42 17 8 12 66.7 0 1 0.0 1 3 33.3 1 4 5 9 2 0 2 5 -
+p487
+aVCliff T. Robinson PHL 12/25/1986 PHL vs. WAS L 40 28 12 24 50.0 0 1 0.0 4 5 80.0 3 6 9 3 0 0 2 3 -
+p488
+aVTim McCormick PHL 12/25/1986 PHL vs. WAS L 29 11 4 6 66.7 0 0 - 3 4 75.0 1 6 7 1 0 1 1 5 -
+p489
+aVDavid Wingate PHL 12/25/1986 PHL vs. WAS L 14 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 1 0 1 2 2 -
+p490
+aVSedale Threatt PHL 12/25/1986 PHL vs. WAS L 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 0 2 3 -
+p491
+aVJulius Erving PHL 12/25/1986 PHL vs. WAS L 31 12 5 17 29.4 0 1 0.0 2 2 100.0 1 1 2 3 1 3 0 3 -
+p492
+aVKenny Green PHL 12/25/1986 PHL vs. WAS L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -
+p493
+aVTim McCormick PHL 12/22/1986 PHL vs. UTH L 25 6 2 5 40.0 0 0 - 2 2 100.0 0 6 6 1 0 2 0 4 -
+p494
+aVMaurice Cheeks PHL 12/22/1986 PHL vs. UTH L 38 16 6 12 50.0 0 0 - 4 4 100.0 2 1 3 5 0 0 2 0 -
+p495
+aVSedale Threatt PHL 12/22/1986 PHL vs. UTH L 21 12 4 8 50.0 0 0 - 4 4 100.0 0 1 1 3 0 1 0 3 -
+p496
+aVRoy Hinson PHL 12/22/1986 PHL vs. UTH L 29 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 0 0 6 2 2 -
+p497
+aVCliff T. Robinson PHL 12/22/1986 PHL vs. UTH L 24 19 9 13 69.2 0 0 - 1 2 50.0 0 2 2 3 0 0 2 2 -
+p498
+aVCharles Barkley PHL 12/22/1986 PHL vs. UTH L 40 23 6 10 60.0 0 1 0.0 11 12 91.7 4 17 21 7 3 0 7 4 -
+p499
+aVJulius Erving PHL 12/22/1986 PHL vs. UTH L 39 18 6 13 46.2 0 0 - 6 8 75.0 3 2 5 7 4 0 3 2 -
+p500
+aVAndrew Toney PHL 12/22/1986 PHL vs. UTH L 24 11 5 14 35.7 1 2 50.0 0 0 - 0 3 3 2 1 0 2 3 -
+p501
+aVCharles Barkley PHL 12/20/1986 PHL vs. DET L 44 22 7 14 50.0 0 3 0.0 8 10 80.0 8 13 21 5 0 3 6 4 -
+p502
+aVAndrew Toney PHL 12/20/1986 PHL vs. DET L 6 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 0 1 -
+p503
+aVRoy Hinson PHL 12/20/1986 PHL vs. DET L 27 8 3 9 33.3 0 0 - 2 2 100.0 1 3 4 0 0 5 1 1 -
+p504
+aVMaurice Cheeks PHL 12/20/1986 PHL vs. DET L 40 10 4 15 26.7 0 1 0.0 2 2 100.0 1 2 3 8 3 0 2 1 -
+p505
+aVJulius Erving PHL 12/20/1986 PHL vs. DET L 30 14 6 14 42.9 1 2 50.0 1 2 50.0 3 3 6 3 2 2 6 0 -
+p506
+aVTim McCormick PHL 12/20/1986 PHL vs. DET L 24 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 0 0 2 0 -
+p507
+aVDavid Wingate PHL 12/20/1986 PHL vs. DET L 13 0 0 4 0.0 0 0 - 0 0 - 0 3 3 2 1 0 1 1 -
+p508
+aVCliff T. Robinson PHL 12/20/1986 PHL vs. DET L 37 23 10 18 55.6 0 1 0.0 3 3 100.0 4 4 8 1 0 1 1 4 -
+p509
+aVSedale Threatt PHL 12/20/1986 PHL vs. DET L 19 3 1 8 12.5 0 0 - 1 1 100.0 0 2 2 0 0 1 2 2 -
+p510
+aVCliff T. Robinson PHL 12/19/1986 PHL vs. BOS W 28 16 8 14 57.1 0 0 - 0 0 - 0 4 4 1 0 0 3 3 -
+p511
+aVDavid Wingate PHL 12/19/1986 PHL vs. BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p512
+aVMaurice Cheeks PHL 12/19/1986 PHL vs. BOS W 46 15 6 10 60.0 0 0 - 3 3 100.0 0 1 1 10 0 0 1 1 -
+p513
+aVCharles Barkley PHL 12/19/1986 PHL vs. BOS W 44 15 7 11 63.6 0 0 - 1 2 50.0 3 11 14 11 3 0 7 1 -
+p514
+aVSedale Threatt PHL 12/19/1986 PHL vs. BOS W 25 11 4 5 80.0 0 0 - 3 4 75.0 0 2 2 5 1 0 0 2 -
+p515
+aVJulius Erving PHL 12/19/1986 PHL vs. BOS W 33 24 7 12 58.3 0 0 - 10 12 83.3 4 3 7 5 1 2 2 2 -
+p516
+aVKenny Green PHL 12/19/1986 PHL vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p517
+aVRoy Hinson PHL 12/19/1986 PHL vs. BOS W 27 21 6 9 66.7 0 0 - 9 9 100.0 1 2 3 0 1 3 1 2 -
+p518
+aVDanny Vranes PHL 12/19/1986 PHL vs. BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -
+p519
+aVTim McCormick PHL 12/19/1986 PHL vs. BOS W 31 16 6 7 85.7 0 0 - 4 6 66.7 0 5 5 0 0 2 2 5 -
+p520
+aVCliff T. Robinson PHL 12/17/1986 PHL vs. CLE L 38 16 8 19 42.1 0 0 - 0 2 0.0 1 8 9 1 3 2 4 2 -
+p521
+aVRoy Hinson PHL 12/17/1986 PHL vs. CLE L 32 11 3 9 33.3 0 0 - 5 6 83.3 4 4 8 0 2 4 2 3 -
+p522
+aVTim McCormick PHL 12/17/1986 PHL vs. CLE L 20 5 1 5 20.0 0 0 - 3 4 75.0 4 3 7 0 0 0 1 4 -
+p523
+aVSedale Threatt PHL 12/17/1986 PHL vs. CLE L 13 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 3 -
+p524
+aVDavid Wingate PHL 12/17/1986 PHL vs. CLE L 11 5 1 4 25.0 0 0 - 3 4 75.0 0 0 0 3 0 0 1 2 -
+p525
+aVMaurice Cheeks PHL 12/17/1986 PHL vs. CLE L 43 14 5 10 50.0 0 0 - 4 4 100.0 0 2 2 12 0 0 4 5 -
+p526
+aVCharles Barkley PHL 12/17/1986 PHL vs. CLE L 43 32 12 15 80.0 0 0 - 8 14 57.1 5 9 14 3 4 2 9 5 -
+p527
+aVJulius Erving PHL 12/17/1986 PHL vs. CLE L 40 20 8 19 42.1 1 1 100.0 3 3 100.0 3 3 6 1 1 2 4 2 -
+p528
+aVCharles Barkley PHL 12/16/1986 PHL @ MIL L 37 27 11 17 64.7 1 2 50.0 4 5 80.0 3 8 11 4 0 1 8 6 -
+p529
+aVRoy Hinson PHL 12/16/1986 PHL @ MIL L 28 17 5 12 41.7 0 0 - 7 11 63.6 2 3 5 1 0 1 3 3 -
+p530
+aVDanny Vranes PHL 12/16/1986 PHL @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p531
+aVCliff T. Robinson PHL 12/16/1986 PHL @ MIL L 26 9 4 13 30.8 0 0 - 1 2 50.0 2 2 4 1 0 0 1 3 -
+p532
+aVTim McCormick PHL 12/16/1986 PHL @ MIL L 34 7 2 9 22.2 0 0 - 3 8 37.5 2 5 7 0 1 1 2 2 -
+p533
+aVMaurice Cheeks PHL 12/16/1986 PHL @ MIL L 33 3 1 6 16.7 0 0 - 1 1 100.0 0 4 4 4 2 0 2 1 -
+p534
+aVJulius Erving PHL 12/16/1986 PHL @ MIL L 27 9 3 7 42.9 0 1 0.0 3 3 100.0 1 3 4 1 0 1 0 1 -
+p535
+aVSedale Threatt PHL 12/16/1986 PHL @ MIL L 15 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 3 2 1 0 1 -
+p536
+aVAndrew Toney PHL 12/16/1986 PHL @ MIL L 29 14 5 8 62.5 2 2 100.0 2 2 100.0 1 2 3 3 2 0 2 1 -
+p537
+aVDavid Wingate PHL 12/16/1986 PHL @ MIL L 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 3 -
+p538
+aVCharles Barkley PHL 12/13/1986 PHL @ CLE L 44 41 18 30 60.0 2 4 50.0 3 6 50.0 3 9 12 6 4 2 4 4 -
+p539
+aVMaurice Cheeks PHL 12/13/1986 PHL @ CLE L 39 25 11 23 47.8 1 3 33.3 2 2 100.0 4 4 8 7 1 2 3 1 -
+p540
+aVTim McCormick PHL 12/13/1986 PHL @ CLE L 37 9 4 8 50.0 0 0 - 1 2 50.0 1 7 8 0 0 0 1 3 -
+p541
+aVDavid Wingate PHL 12/13/1986 PHL @ CLE L 23 12 4 9 44.4 0 0 - 4 6 66.7 0 2 2 1 2 0 4 3 -
+p542
+aVKenny Green PHL 12/13/1986 PHL @ CLE L 17 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 1 0 0 1 1 -
+p543
+aVRoy Hinson PHL 12/13/1986 PHL @ CLE L 43 11 4 10 40.0 0 0 - 3 6 50.0 3 6 9 1 1 4 1 3 -
+p544
+aVSedale Threatt PHL 12/13/1986 PHL @ CLE L 33 15 6 11 54.5 0 1 0.0 3 3 100.0 1 1 2 6 2 0 6 4 -
+p545
+aVAndrew Toney PHL 12/13/1986 PHL @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p546
+aVMaurice Cheeks PHL 12/12/1986 PHL @ NJN L 26 8 2 8 25.0 0 1 0.0 4 4 100.0 0 1 1 7 1 0 5 2 -
+p547
+aVKenny Green PHL 12/12/1986 PHL @ NJN L 28 12 4 12 33.3 0 0 - 4 6 66.7 1 2 3 1 0 0 1 2 -
+p548
+aVDanny Vranes PHL 12/12/1986 PHL @ NJN L 13 0 0 2 0.0 0 0 - 0 2 0.0 2 0 2 1 0 0 0 1 -
+p549
+aVJim Lampley PHL 12/12/1986 PHL @ NJN L 16 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 1 0 1 0 -
+p550
+aVTim McCormick PHL 12/12/1986 PHL @ NJN L 23 6 0 3 0.0 0 0 - 6 8 75.0 1 2 3 0 0 1 1 3 -
+p551
+aVDavid Wingate PHL 12/12/1986 PHL @ NJN L 24 12 3 8 37.5 0 0 - 6 8 75.0 0 1 1 1 1 0 2 4 -
+p552
+aVSedale Threatt PHL 12/12/1986 PHL @ NJN L 22 14 5 11 45.5 0 0 - 4 4 100.0 2 0 2 1 3 0 2 4 -
+p553
+aVCharles Barkley PHL 12/12/1986 PHL @ NJN L 29 15 5 10 50.0 0 1 0.0 5 8 62.5 3 7 10 2 2 2 4 4 -
+p554
+aVJulius Erving PHL 12/12/1986 PHL @ NJN L 24 10 4 8 50.0 0 1 0.0 2 3 66.7 0 1 1 0 1 3 2 1 -
+p555
+aVRoy Hinson PHL 12/12/1986 PHL @ NJN L 25 4 1 8 12.5 0 0 - 2 2 100.0 1 3 4 0 0 4 0 5 -
+p556
+aVAndrew Toney PHL 12/12/1986 PHL @ NJN L 10 6 2 6 33.3 0 2 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -
+p557
+aVDavid Wingate PHL 12/10/1986 PHL vs. IND W 26 9 3 8 37.5 0 0 - 3 6 50.0 0 2 2 5 1 1 3 1 -
+p558
+aVMaurice Cheeks PHL 12/10/1986 PHL vs. IND W 42 22 8 14 57.1 0 0 - 6 7 85.7 0 4 4 10 4 2 2 2 -
+p559
+aVTim McCormick PHL 12/10/1986 PHL vs. IND W 44 25 8 13 61.5 0 0 - 9 9 100.0 5 7 12 4 2 5 5 3 -
+p560
+aVKenny Green PHL 12/10/1986 PHL vs. IND W 19 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 0 1 1 1 -
+p561
+aVAndrew Toney PHL 12/10/1986 PHL vs. IND W 11 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 3 0 0 1 0 -
+p562
+aVRoy Hinson PHL 12/10/1986 PHL vs. IND W 28 17 6 7 85.7 0 0 - 5 5 100.0 1 4 5 0 1 2 5 4 -
+p563
+aVDanny Vranes PHL 12/10/1986 PHL vs. IND W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -
+p564
+aVCharles Barkley PHL 12/10/1986 PHL vs. IND W 45 30 11 19 57.9 0 2 0.0 8 10 80.0 7 14 21 6 1 4 8 4 -
+p565
+aVJulius Erving PHL 12/10/1986 PHL vs. IND W 20 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 2 1 -
+p566
+aVAndrew Toney PHL 12/06/1986 PHL vs. NJN W 16 18 6 8 75.0 0 0 - 6 8 75.0 0 0 0 2 0 0 1 1 -
+p567
+aVSedale Threatt PHL 12/06/1986 PHL vs. NJN W 9 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -
+p568
+aVTim McCormick PHL 12/06/1986 PHL vs. NJN W 37 9 4 5 80.0 0 0 - 1 3 33.3 1 2 3 2 1 2 3 3 -
+p569
+aVRoy Hinson PHL 12/06/1986 PHL vs. NJN W 35 16 5 11 45.5 0 0 - 6 8 75.0 5 5 10 1 1 4 1 5 -
+p570
+aVCharles Barkley PHL 12/06/1986 PHL vs. NJN W 31 20 7 10 70.0 0 0 - 6 8 75.0 4 5 9 4 2 3 7 4 -
+p571
+aVMaurice Cheeks PHL 12/06/1986 PHL vs. NJN W 40 14 5 12 41.7 0 0 - 4 4 100.0 0 3 3 8 1 0 3 3 -
+p572
+aVJulius Erving PHL 12/06/1986 PHL vs. NJN W 38 20 5 12 41.7 1 2 50.0 9 9 100.0 2 3 5 4 1 6 2 2 -
+p573
+aVDavid Wingate PHL 12/06/1986 PHL vs. NJN W 9 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 1 0 1 1 -
+p574
+aVCliff T. Robinson PHL 12/06/1986 PHL vs. NJN W 25 6 2 10 20.0 0 0 - 2 2 100.0 1 1 2 2 1 1 0 1 -
+p575
+aVSedale Threatt PHL 12/05/1986 PHL @ BOS L 12 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 2 0 0 1 5 -
+p576
+aVDanny Vranes PHL 12/05/1986 PHL @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p577
+aVCliff T. Robinson PHL 12/05/1986 PHL @ BOS L 35 16 8 15 53.3 0 0 - 0 2 0.0 2 4 6 2 0 1 3 3 -
+p578
+aVTim McCormick PHL 12/05/1986 PHL @ BOS L 33 11 5 7 71.4 0 0 - 1 1 100.0 1 9 10 1 0 1 1 2 -
+p579
+aVCharles Barkley PHL 12/05/1986 PHL @ BOS L 36 23 9 15 60.0 1 3 33.3 4 5 80.0 3 11 14 3 0 0 8 5 -
+p580
+aVMaurice Cheeks PHL 12/05/1986 PHL @ BOS L 41 16 6 10 60.0 0 0 - 4 6 66.7 0 1 1 5 0 0 0 4 -
+p581
+aVJulius Erving PHL 12/05/1986 PHL @ BOS L 31 18 7 13 53.8 1 1 100.0 3 6 50.0 2 1 3 5 2 1 3 2 -
+p582
+aVDavid Wingate PHL 12/05/1986 PHL @ BOS L 20 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 3 -
+p583
+aVRoy Hinson PHL 12/05/1986 PHL @ BOS L 27 14 5 9 55.6 0 0 - 4 8 50.0 5 1 6 2 1 0 3 3 -
+p584
+aVJulius Erving PHL 12/03/1986 PHL vs. MIL W 40 15 6 12 50.0 0 1 0.0 3 4 75.0 3 3 6 3 0 3 5 4 -
+p585
+aVCliff T. Robinson PHL 12/03/1986 PHL vs. MIL W 38 18 7 11 63.6 0 0 - 4 6 66.7 2 4 6 5 5 0 4 3 -
+p586
+aVDavid Wingate PHL 12/03/1986 PHL vs. MIL W 8 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p587
+aVTim McCormick PHL 12/03/1986 PHL vs. MIL W 41 22 8 18 44.4 0 0 - 6 9 66.7 7 4 11 3 2 1 4 4 -
+p588
+aVMaurice Cheeks PHL 12/03/1986 PHL vs. MIL W 46 17 7 12 58.3 0 0 - 3 4 75.0 1 2 3 12 6 0 4 0 -
+p589
+aVCharles Barkley PHL 12/03/1986 PHL vs. MIL W 38 17 5 10 50.0 0 1 0.0 7 10 70.0 4 12 16 7 2 0 3 2 -
+p590
+aVSedale Threatt PHL 12/03/1986 PHL vs. MIL W 28 15 6 12 50.0 0 0 - 3 3 100.0 0 4 4 1 1 0 2 2 -
+p591
+aVRoy Hinson PHL 12/03/1986 PHL vs. MIL W 26 11 5 10 50.0 0 0 - 1 2 50.0 4 5 9 0 1 1 1 5 -
+p592
+aVRoy Hinson PHL 11/28/1986 PHL vs. POR W 22 12 5 9 55.6 0 0 - 2 3 66.7 1 6 7 0 0 3 2 5 -
+p593
+aVAndrew Toney PHL 11/28/1986 PHL vs. POR W 17 7 2 5 40.0 0 2 0.0 3 4 75.0 1 1 2 2 0 1 1 0 -
+p594
+aVCliff T. Robinson PHL 11/28/1986 PHL vs. POR W 34 17 7 13 53.8 0 0 - 3 3 100.0 1 7 8 2 0 1 3 4 -
+p595
+aVDavid Wingate PHL 11/28/1986 PHL vs. POR W 28 14 7 12 58.3 0 0 - 0 0 - 3 1 4 3 0 0 1 2 -
+p596
+aVJulius Erving PHL 11/28/1986 PHL vs. POR W 35 14 6 12 50.0 0 1 0.0 2 3 66.7 3 1 4 4 0 3 3 2 -
+p597
+aVSedale Threatt PHL 11/28/1986 PHL vs. POR W 32 9 4 7 57.1 0 0 - 1 2 50.0 0 6 6 8 3 0 5 3 -
+p598
+aVTim McCormick PHL 11/28/1986 PHL vs. POR W 29 12 4 10 40.0 0 0 - 4 6 66.7 4 4 8 0 0 1 5 6 -
+p599
+aVCharles Barkley PHL 11/28/1986 PHL vs. POR W 43 31 11 18 61.1 0 0 - 9 11 81.8 9 12 21 9 1 7 7 5 -
+p600
+aVCharles Barkley PHL 11/25/1986 PHL vs. BOS W 32 17 6 9 66.7 0 1 0.0 5 7 71.4 4 7 11 5 1 3 0 3 -
+p601
+aVCliff T. Robinson PHL 11/25/1986 PHL vs. BOS W 31 18 7 17 41.2 0 0 - 4 6 66.7 3 1 4 0 0 0 0 2 -
+p602
+aVTim McCormick PHL 11/25/1986 PHL vs. BOS W 30 4 1 7 14.3 0 0 - 2 2 100.0 1 5 6 0 0 1 1 5 -
+p603
+aVRoy Hinson PHL 11/25/1986 PHL vs. BOS W 31 16 5 12 41.7 0 0 - 6 7 85.7 2 9 11 1 3 2 1 5 -
+p604
+aVMaurice Cheeks PHL 11/25/1986 PHL vs. BOS W 47 23 11 18 61.1 0 0 - 1 2 50.0 1 3 4 8 1 0 1 1 -
+p605
+aVSedale Threatt PHL 11/25/1986 PHL vs. BOS W 25 8 3 9 33.3 0 0 - 2 2 100.0 0 0 0 7 2 0 0 4 -
+p606
+aVJulius Erving PHL 11/25/1986 PHL vs. BOS W 41 16 7 14 50.0 0 1 0.0 2 2 100.0 0 5 5 3 0 0 4 3 -
+p607
+aVDavid Wingate PHL 11/25/1986 PHL vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 1 0 1 1 -
+p608
+aVSedale Threatt PHL 11/23/1986 PHL vs. HOU W 26 5 2 6 33.3 0 1 0.0 1 1 100.0 0 2 2 3 0 0 4 2 -
+p609
+aVCharles Barkley PHL 11/23/1986 PHL vs. HOU W 23 12 2 6 33.3 0 2 0.0 8 10 80.0 3 5 8 5 0 1 4 2 -
+p610
+aVMaurice Cheeks PHL 11/23/1986 PHL vs. HOU W 42 15 6 9 66.7 0 0 - 3 3 100.0 1 3 4 8 3 1 3 2 -
+p611
+aVTim McCormick PHL 11/23/1986 PHL vs. HOU W 35 17 6 11 54.5 0 1 0.0 5 6 83.3 0 4 4 1 0 2 4 2 -
+p612
+aVCliff T. Robinson PHL 11/23/1986 PHL vs. HOU W 28 12 5 12 41.7 0 0 - 2 2 100.0 1 4 5 0 1 0 2 1 -
+p613
+aVJulius Erving PHL 11/23/1986 PHL vs. HOU W 36 23 9 13 69.2 1 1 100.0 4 5 80.0 5 5 10 6 0 3 1 1 -
+p614
+aVRoy Hinson PHL 11/23/1986 PHL vs. HOU W 44 24 10 21 47.6 0 0 - 4 5 80.0 8 7 15 1 2 2 6 3 -
+p615
+aVDavid Wingate PHL 11/23/1986 PHL vs. HOU W 6 6 1 3 33.3 0 0 - 4 4 100.0 1 0 1 0 0 0 0 1 -
+p616
+aVKenny Green PHL 11/21/1986 PHL vs. DET L 8 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p617
+aVTim McCormick PHL 11/21/1986 PHL vs. DET L 44 27 10 14 71.4 0 0 - 7 8 87.5 4 8 12 6 1 1 2 2 -
+p618
+aVSedale Threatt PHL 11/21/1986 PHL vs. DET L 23 7 3 9 33.3 1 1 100.0 0 0 - 0 0 0 3 1 0 2 4 -
+p619
+aVCliff T. Robinson PHL 11/21/1986 PHL vs. DET L 34 15 6 17 35.3 0 0 - 3 5 60.0 2 5 7 3 0 2 1 3 -
+p620
+aVJulius Erving PHL 11/21/1986 PHL vs. DET L 34 15 7 23 30.4 1 2 50.0 0 0 - 4 0 4 4 2 3 2 2 -
+p621
+aVRoy Hinson PHL 11/21/1986 PHL vs. DET L 41 18 7 11 63.6 0 0 - 4 5 80.0 4 8 12 1 1 4 1 2 -
+p622
+aVMaurice Cheeks PHL 11/21/1986 PHL vs. DET L 42 20 8 18 44.4 0 0 - 4 7 57.1 1 4 5 12 3 0 1 2 -
+p623
+aVDavid Wingate PHL 11/21/1986 PHL vs. DET L 14 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p624
+aVDavid Wingate PHL 11/19/1986 PHL vs. NYK W 22 10 5 9 55.6 0 0 - 0 0 - 1 3 4 3 0 1 1 3 -
+p625
+aVSedale Threatt PHL 11/19/1986 PHL vs. NYK W 29 17 7 14 50.0 1 2 50.0 2 5 40.0 2 2 4 8 1 0 1 1 -
+p626
+aVDanny Vranes PHL 11/19/1986 PHL vs. NYK W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p627
+aVTim McCormick PHL 11/19/1986 PHL vs. NYK W 37 18 6 9 66.7 0 0 - 6 10 60.0 5 8 13 2 0 0 2 4 -
+p628
+aVMaurice Cheeks PHL 11/19/1986 PHL vs. NYK W 40 11 5 10 50.0 0 1 0.0 1 3 33.3 1 3 4 7 5 1 3 2 -
+p629
+aVJulius Erving PHL 11/19/1986 PHL vs. NYK W 27 11 3 10 30.0 0 0 - 5 6 83.3 3 1 4 3 2 0 4 2 -
+p630
+aVRoy Hinson PHL 11/19/1986 PHL vs. NYK W 45 23 9 16 56.3 0 0 - 5 9 55.6 1 5 6 2 1 5 1 1 -
+p631
+aVCliff T. Robinson PHL 11/19/1986 PHL vs. NYK W 28 8 3 12 25.0 0 1 0.0 2 2 100.0 1 6 7 1 4 0 3 4 -
+p632
+aVMaurice Cheeks PHL 11/16/1986 PHL @ LAC W 41 14 5 11 45.5 0 0 - 4 6 66.7 2 5 7 6 5 0 2 3 -
+p633
+aVDanny Vranes PHL 11/16/1986 PHL @ LAC W 22 4 2 5 40.0 0 0 - 0 0 - 4 2 6 2 3 1 1 4 -
+p634
+aVSedale Threatt PHL 11/16/1986 PHL @ LAC W 22 6 3 10 30.0 0 2 0.0 0 0 - 2 0 2 1 1 0 3 1 -
+p635
+aVKenny Green PHL 11/16/1986 PHL @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p636
+aVJulius Erving PHL 11/16/1986 PHL @ LAC W 36 23 10 18 55.6 1 1 100.0 2 2 100.0 3 3 6 6 0 1 3 1 -
+p637
+aVDavid Wingate PHL 11/16/1986 PHL @ LAC W 14 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 1 1 0 0 4 -
+p638
+aVTim McCormick PHL 11/16/1986 PHL @ LAC W 38 4 2 7 28.6 0 0 - 0 0 - 5 6 11 0 1 1 2 6 -
+p639
+aVCliff T. Robinson PHL 11/16/1986 PHL @ LAC W 28 22 9 19 47.4 0 0 - 4 6 66.7 5 11 16 3 1 0 3 3 -
+p640
+aVRoy Hinson PHL 11/16/1986 PHL @ LAC W 38 23 9 21 42.9 0 0 - 5 6 83.3 3 2 5 0 1 2 2 4 -
+p641
+aVRoy Hinson PHL 11/14/1986 PHL @ PHX L 29 10 5 11 45.5 0 0 - 0 0 - 0 1 1 2 1 1 2 4 -
+p642
+aVSedale Threatt PHL 11/14/1986 PHL @ PHX L 42 18 8 22 36.4 0 0 - 2 2 100.0 2 0 2 4 2 0 3 4 -
+p643
+aVKenny Green PHL 11/14/1986 PHL @ PHX L 12 6 3 9 33.3 0 0 - 0 0 - 1 4 5 0 1 0 0 0 -
+p644
+aVDanny Vranes PHL 11/14/1986 PHL @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p645
+aVMaurice Cheeks PHL 11/14/1986 PHL @ PHX L 27 9 4 8 50.0 0 0 - 1 2 50.0 2 3 5 4 0 0 0 1 -
+p646
+aVDavid Wingate PHL 11/14/1986 PHL @ PHX L 31 13 6 13 46.2 0 1 0.0 1 2 50.0 1 2 3 1 4 0 4 4 -
+p647
+aVCliff T. Robinson PHL 11/14/1986 PHL @ PHX L 23 13 5 15 33.3 0 0 - 3 4 75.0 4 4 8 1 2 0 1 3 -
+p648
+aVAndrew Toney PHL 11/14/1986 PHL @ PHX L 20 7 2 7 28.6 0 4 0.0 3 3 100.0 1 1 2 4 0 0 1 2 -
+p649
+aVJulius Erving PHL 11/14/1986 PHL @ PHX L 24 10 2 7 28.6 0 0 - 6 6 100.0 4 4 8 2 0 1 2 2 -
+p650
+aVTim McCormick PHL 11/14/1986 PHL @ PHX L 27 11 4 7 57.1 0 0 - 3 6 50.0 3 5 8 0 0 1 0 2 -
+p651
+aVKenny Green PHL 11/13/1986 PHL @ GOS L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p652
+aVRoy Hinson PHL 11/13/1986 PHL @ GOS L 35 15 5 6 83.3 0 0 - 5 8 62.5 1 6 7 0 0 2 1 6 -
+p653
+aVDanny Vranes PHL 11/13/1986 PHL @ GOS L 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -
+p654
+aVDavid Wingate PHL 11/13/1986 PHL @ GOS L 27 7 3 12 25.0 0 1 0.0 1 4 25.0 2 4 6 2 2 1 3 3 -
+p655
+aVCliff T. Robinson PHL 11/13/1986 PHL @ GOS L 34 24 9 15 60.0 0 0 - 6 7 85.7 2 11 13 1 2 0 4 5 -
+p656
+aVJulius Erving PHL 11/13/1986 PHL @ GOS L 34 8 4 13 30.8 0 1 0.0 0 0 - 1 5 6 8 1 1 1 5 -
+p657
+aVMaurice Cheeks PHL 11/13/1986 PHL @ GOS L 38 17 5 14 35.7 0 0 - 7 8 87.5 2 3 5 11 2 0 4 0 -
+p658
+aVSedale Threatt PHL 11/13/1986 PHL @ GOS L 36 27 11 21 52.4 2 2 100.0 3 5 60.0 2 2 4 0 2 0 2 5 -
+p659
+aVTim McCormick PHL 11/13/1986 PHL @ GOS L 15 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 2 5 -
+p660
+aVSedale Threatt PHL 11/11/1986 PHL @ SEA W 34 12 6 11 54.5 0 0 - 0 0 - 0 1 1 1 1 0 2 2 -
+p661
+aVJulius Erving PHL 11/11/1986 PHL @ SEA W 32 20 9 20 45.0 0 1 0.0 2 3 66.7 4 3 7 4 0 1 1 3 -
+p662
+aVMaurice Cheeks PHL 11/11/1986 PHL @ SEA W 35 20 6 12 50.0 0 0 - 8 11 72.7 1 3 4 4 1 0 1 2 -
+p663
+aVDanny Vranes PHL 11/11/1986 PHL @ SEA W 14 0 0 0 - 0 0 - 0 2 0.0 0 4 4 1 1 0 0 1 -
+p664
+aVCliff T. Robinson PHL 11/11/1986 PHL @ SEA W 24 35 13 19 68.4 0 0 - 9 9 100.0 1 3 4 1 1 0 1 4 -
+p665
+aVRoy Hinson PHL 11/11/1986 PHL @ SEA W 42 14 5 10 50.0 0 0 - 4 6 66.7 0 7 7 0 0 2 4 3 -
+p666
+aVTim McCormick PHL 11/11/1986 PHL @ SEA W 28 9 3 4 75.0 0 0 - 3 5 60.0 1 5 6 1 0 0 3 4 -
+p667
+aVDavid Wingate PHL 11/11/1986 PHL @ SEA W 23 11 4 7 57.1 0 0 - 3 5 60.0 1 4 5 6 2 0 3 5 -
+p668
+aVAndrew Toney PHL 11/11/1986 PHL @ SEA W 8 0 0 4 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -
+p669
+aVCliff T. Robinson PHL 11/09/1986 PHL @ POR W 20 5 1 5 20.0 0 0 - 3 4 75.0 0 5 5 0 3 1 3 3 -
+p670
+aVDanny Vranes PHL 11/09/1986 PHL @ POR W 19 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 2 1 0 1 4 -
+p671
+aVRoy Hinson PHL 11/09/1986 PHL @ POR W 34 17 4 7 57.1 0 0 - 9 10 90.0 1 3 4 1 0 4 1 5 -
+p672
+aVTim McCormick PHL 11/09/1986 PHL @ POR W 36 21 5 8 62.5 0 0 - 11 15 73.3 5 4 9 1 0 0 1 3 -
+p673
+aVSedale Threatt PHL 11/09/1986 PHL @ POR W 27 17 8 14 57.1 0 1 0.0 1 2 50.0 0 3 3 3 4 0 3 4 -
+p674
+aVDavid Wingate PHL 11/09/1986 PHL @ POR W 18 7 2 7 28.6 0 0 - 3 4 75.0 1 1 2 2 0 0 2 4 -
+p675
+aVAndrew Toney PHL 11/09/1986 PHL @ POR W 8 1 0 2 0.0 0 0 - 1 1 100.0 0 2 2 1 0 0 2 1 -
+p676
+aVJulius Erving PHL 11/09/1986 PHL @ POR W 35 29 11 14 78.6 0 0 - 7 9 77.8 1 2 3 2 2 1 3 3 -
+p677
+aVMaurice Cheeks PHL 11/09/1986 PHL @ POR W 43 24 7 15 46.7 1 2 50.0 9 9 100.0 0 2 2 10 2 0 3 2 -
+p678
+aVDavid Wingate PHL 11/07/1986 PHL vs. SAN W 22 14 5 9 55.6 0 1 0.0 4 4 100.0 1 0 1 1 1 0 1 2 -
+p679
+aVRoy Hinson PHL 11/07/1986 PHL vs. SAN W 36 17 6 10 60.0 0 0 - 5 5 100.0 2 6 8 0 1 4 3 3 -
+p680
+aVCliff T. Robinson PHL 11/07/1986 PHL vs. SAN W 25 6 3 10 30.0 0 0 - 0 0 - 1 2 3 1 1 0 2 2 -
+p681
+aVSedale Threatt PHL 11/07/1986 PHL vs. SAN W 34 18 8 20 40.0 2 3 66.7 0 0 - 2 2 4 8 0 0 0 3 -
+p682
+aVKenny Green PHL 11/07/1986 PHL vs. SAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p683
+aVMaurice Cheeks PHL 11/07/1986 PHL vs. SAN W 42 17 5 9 55.6 0 0 - 7 9 77.8 0 3 3 18 8 0 6 2 -
+p684
+aVDanny Vranes PHL 11/07/1986 PHL vs. SAN W 16 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 4 -
+p685
+aVTim McCormick PHL 11/07/1986 PHL vs. SAN W 35 16 7 13 53.8 0 0 - 2 2 100.0 3 7 10 1 0 2 0 3 -
+p686
+aVJulius Erving PHL 11/07/1986 PHL vs. SAN W 29 23 11 17 64.7 0 0 - 1 1 100.0 1 6 7 4 3 1 1 1 -
+p687
+aVDavid Wingate PHL 11/05/1986 PHL vs. MIL W 26 12 5 7 71.4 0 0 - 2 4 50.0 0 2 2 0 4 0 1 2 -
+p688
+aVCliff T. Robinson PHL 11/05/1986 PHL vs. MIL W 33 16 5 12 41.7 0 0 - 6 8 75.0 2 5 7 3 3 3 2 3 -
+p689
+aVJulius Erving PHL 11/05/1986 PHL vs. MIL W 35 18 6 12 50.0 0 0 - 6 6 100.0 3 2 5 3 1 1 3 2 -
+p690
+aVSedale Threatt PHL 11/05/1986 PHL vs. MIL W 32 13 4 12 33.3 0 1 0.0 5 6 83.3 0 7 7 2 0 0 0 4 -
+p691
+aVMaurice Cheeks PHL 11/05/1986 PHL vs. MIL W 44 14 5 13 38.5 0 0 - 4 5 80.0 0 4 4 15 3 1 3 2 -
+p692
+aVRoy Hinson PHL 11/05/1986 PHL vs. MIL W 36 16 5 10 50.0 0 0 - 6 7 85.7 1 8 9 0 1 5 2 4 -
+p693
+aVTim McCormick PHL 11/05/1986 PHL vs. MIL W 34 18 6 10 60.0 0 0 - 6 7 85.7 3 6 9 4 1 4 1 4 -
+p694
+aVCliff T. Robinson PHL 11/04/1986 PHL @ IND L 16 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 2 0 0 3 1 -
+p695
+aVMaurice Cheeks PHL 11/04/1986 PHL @ IND L 55 21 5 11 45.5 0 0 - 11 13 84.6 1 2 3 8 1 1 5 1 -
+p696
+aVAndrew Toney PHL 11/04/1986 PHL @ IND L 5 7 3 3 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 2 -
+p697
+aVSedale Threatt PHL 11/04/1986 PHL @ IND L 31 8 4 12 33.3 0 1 0.0 0 0 - 0 1 1 4 3 0 1 2 -
+p698
+aVJulius Erving PHL 11/04/1986 PHL @ IND L 34 14 6 13 46.2 0 0 - 2 2 100.0 2 3 5 5 2 1 3 3 -
+p699
+aVDanny Vranes PHL 11/04/1986 PHL @ IND L 11 4 2 3 66.7 0 0 - 0 0 - 1 5 6 1 0 0 0 3 -
+p700
+aVRoy Hinson PHL 11/04/1986 PHL @ IND L 44 15 5 11 45.5 0 0 - 5 7 71.4 2 7 9 0 0 4 5 5 -
+p701
+aVCharles Barkley PHL 11/04/1986 PHL @ IND L 53 34 15 20 75.0 0 1 0.0 4 5 80.0 1 9 10 14 2 4 5 5 -
+p702
+aVTim McCormick PHL 11/04/1986 PHL @ IND L 41 10 5 7 71.4 0 0 - 0 0 - 0 8 8 0 1 1 1 5 -
+p703
+aVJeff Ruland PHL 11/02/1986 PHL vs. ATL L 25 4 2 4 50.0 0 0 - 0 0 - 3 4 7 3 0 0 1 3 -
+p704
+aVSedale Threatt PHL 11/02/1986 PHL vs. ATL L 19 6 3 8 37.5 0 0 - 0 0 - 1 0 1 5 2 0 1 2 -
+p705
+aVCliff T. Robinson PHL 11/02/1986 PHL vs. ATL L 23 6 2 4 50.0 0 0 - 2 3 66.7 1 5 6 3 3 0 3 3 -
+p706
+aVJulius Erving PHL 11/02/1986 PHL vs. ATL L 29 14 4 15 26.7 0 2 0.0 6 6 100.0 4 2 6 4 1 2 3 3 -
+p707
+aVCharles Barkley PHL 11/02/1986 PHL vs. ATL L 40 26 10 15 66.7 0 2 0.0 6 8 75.0 5 9 14 7 0 4 5 4 -
+p708
+aVTim McCormick PHL 11/02/1986 PHL vs. ATL L 16 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 5 -
+p709
+aVRoy Hinson PHL 11/02/1986 PHL vs. ATL L 31 9 2 5 40.0 0 0 - 5 6 83.3 2 1 3 2 0 4 3 3 -
+p710
+aVAndrew Toney PHL 11/02/1986 PHL vs. ATL L 18 14 5 9 55.6 2 2 100.0 2 2 100.0 0 1 1 3 0 0 1 0 -
+p711
+aVMaurice Cheeks PHL 11/02/1986 PHL vs. ATL L 34 26 12 17 70.6 0 0 - 2 5 40.0 0 1 1 1 2 0 1 1 -
+p712
+aVDavid Wingate PHL 11/02/1986 PHL vs. ATL L 5 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -
+p713
+aVCliff T. Robinson PHL 10/31/1986 PHL vs. IND W 10 0 0 4 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -
+p714
+aVJulius Erving PHL 10/31/1986 PHL vs. IND W 35 18 7 14 50.0 1 2 50.0 3 4 75.0 0 2 2 3 2 0 3 1 -
+p715
+aVTim McCormick PHL 10/31/1986 PHL vs. IND W 20 8 4 9 44.4 0 0 - 0 4 0.0 4 6 10 0 0 0 3 5 -
+p716
+aVMaurice Cheeks PHL 10/31/1986 PHL vs. IND W 40 15 6 9 66.7 0 0 - 3 4 75.0 0 2 2 7 3 0 2 4 -
+p717
+aVCharles Barkley PHL 10/31/1986 PHL vs. IND W 38 31 12 16 75.0 0 0 - 7 10 70.0 5 7 12 6 2 0 6 4 -
+p718
+aVSedale Threatt PHL 10/31/1986 PHL vs. IND W 19 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 1 0 1 1 2 -
+p719
+aVRoy Hinson PHL 10/31/1986 PHL vs. IND W 31 7 2 7 28.6 0 0 - 3 3 100.0 3 5 8 1 0 3 7 5 -
+p720
+aVAndrew Toney PHL 10/31/1986 PHL vs. IND W 14 12 4 9 44.4 0 0 - 4 4 100.0 0 0 0 4 0 1 0 0 -
+p721
+aVKenny Green PHL 10/31/1986 PHL vs. IND W 6 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -
+p722
+aVJeff Ruland PHL 10/31/1986 PHL vs. IND W 27 12 6 7 85.7 0 0 - 0 1 0.0 6 2 8 4 0 0 1 3 -
+p723
+a.

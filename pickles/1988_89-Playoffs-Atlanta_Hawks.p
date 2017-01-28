@@ -1,0 +1,94 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCliff Levingston ATL 05/07/1989 ATL vs. MIL L 11 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 0 1 2 -
+p2
+aVAntoine Carr ATL 05/07/1989 ATL vs. MIL L 16 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 -
+p3
+aVSpud Webb ATL 05/07/1989 ATL vs. MIL L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -
+p4
+aVJon Koncak ATL 05/07/1989 ATL vs. MIL L 42 8 2 6 33.3 0 0 - 4 5 80.0 3 10 13 1 1 2 1 5 -
+p5
+aVReggie Theus ATL 05/07/1989 ATL vs. MIL L 25 11 4 10 40.0 0 0 - 3 3 100.0 3 0 3 6 1 0 3 2 -
+p6
+aVMoses Malone ATL 05/07/1989 ATL vs. MIL L 38 25 8 13 61.5 1 1 100.0 8 14 57.1 8 8 16 5 2 1 1 1 -
+p7
+aVDominique Wilkins ATL 05/07/1989 ATL vs. MIL L 37 22 9 20 45.0 0 3 0.0 4 7 57.1 2 2 4 2 0 2 2 1 -
+p8
+aVJohn Battle ATL 05/07/1989 ATL vs. MIL L 23 9 4 12 33.3 0 3 0.0 1 2 50.0 0 3 3 3 1 0 1 3 -
+p9
+aVDoc Rivers ATL 05/07/1989 ATL vs. MIL L 38 14 6 11 54.5 1 4 25.0 1 2 50.0 0 4 4 6 0 0 4 4 -
+p10
+aVSpud Webb ATL 05/05/1989 ATL @ MIL W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 7 1 0 0 2 -
+p11
+aVReggie Theus ATL 05/05/1989 ATL @ MIL W 20 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 3 0 0 3 4 -
+p12
+aVDoc Rivers ATL 05/05/1989 ATL @ MIL W 40 17 5 15 33.3 3 5 60.0 4 7 57.1 1 3 4 6 2 0 2 6 -
+p13
+aVJohn Battle ATL 05/05/1989 ATL @ MIL W 34 19 7 12 58.3 0 0 - 5 6 83.3 2 1 3 3 1 0 3 5 -
+p14
+aVDominique Wilkins ATL 05/05/1989 ATL @ MIL W 47 24 9 24 37.5 4 7 57.1 2 6 33.3 1 6 7 3 0 1 1 0 -
+p15
+aVCliff Levingston ATL 05/05/1989 ATL @ MIL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -
+p16
+aVMoses Malone ATL 05/05/1989 ATL @ MIL W 47 24 7 14 50.0 0 0 - 10 12 83.3 7 10 17 2 0 2 4 3 -
+p17
+aVJon Koncak ATL 05/05/1989 ATL @ MIL W 44 13 3 7 42.9 0 0 - 7 7 100.0 3 6 9 1 0 1 2 4 -
+p18
+aVAntoine Carr ATL 05/05/1989 ATL @ MIL W 13 11 4 4 100.0 0 0 - 3 4 75.0 1 0 1 1 0 0 0 2 -
+p19
+aVAntoine Carr ATL 05/02/1989 ATL @ MIL L 28 16 7 9 77.8 0 0 - 2 3 66.7 2 2 4 3 0 3 0 3 -
+p20
+aVJon Koncak ATL 05/02/1989 ATL @ MIL L 37 19 5 5 100.0 0 0 - 9 11 81.8 5 6 11 1 0 2 1 3 -
+p21
+aVCliff Levingston ATL 05/02/1989 ATL @ MIL L 20 6 1 4 25.0 0 0 - 4 4 100.0 2 3 5 0 0 1 0 3 -
+p22
+aVSpud Webb ATL 05/02/1989 ATL @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p23
+aVJohn Battle ATL 05/02/1989 ATL @ MIL L 29 8 4 12 33.3 0 3 0.0 0 0 - 2 2 4 4 0 0 1 1 -
+p24
+aVDoc Rivers ATL 05/02/1989 ATL @ MIL L 41 15 5 16 31.3 1 4 25.0 4 5 80.0 2 2 4 4 1 1 1 6 -
+p25
+aVMoses Malone ATL 05/02/1989 ATL @ MIL L 35 14 4 7 57.1 0 0 - 6 6 100.0 1 5 6 0 1 0 4 0 -
+p26
+aVDominique Wilkins ATL 05/02/1989 ATL @ MIL L 48 30 13 28 46.4 1 4 25.0 3 3 100.0 2 3 5 4 2 1 3 0 -
+p27
+aVReggie Theus ATL 05/02/1989 ATL @ MIL L 23 5 1 5 20.0 0 0 - 3 4 75.0 0 0 0 5 0 0 1 6 -
+p28
+aVDominique Wilkins ATL 04/29/1989 ATL vs. MIL L 41 32 11 24 45.8 0 3 0.0 10 13 76.9 4 2 6 3 1 3 3 2 -
+p29
+aVAntoine Carr ATL 04/29/1989 ATL vs. MIL L 9 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 3 -
+p30
+aVMoses Malone ATL 04/29/1989 ATL vs. MIL L 39 19 5 12 41.7 0 0 - 9 10 90.0 5 3 8 1 2 1 1 1 -
+p31
+aVJohn Battle ATL 04/29/1989 ATL vs. MIL L 20 11 4 8 50.0 0 0 - 3 4 75.0 1 0 1 5 0 0 0 3 -
+p32
+aVDoc Rivers ATL 04/29/1989 ATL vs. MIL L 36 6 1 5 20.0 0 3 0.0 4 6 66.7 0 7 7 8 0 0 4 4 -
+p33
+aVJon Koncak ATL 04/29/1989 ATL vs. MIL L 35 11 3 4 75.0 0 0 - 5 5 100.0 2 2 4 0 1 2 1 5 -
+p34
+aVCliff Levingston ATL 04/29/1989 ATL vs. MIL L 20 4 1 3 33.3 1 1 100.0 1 2 50.0 3 2 5 0 0 0 0 4 -
+p35
+aVReggie Theus ATL 04/29/1989 ATL vs. MIL L 26 11 5 9 55.6 0 1 0.0 1 2 50.0 0 3 3 4 0 0 1 4 -
+p36
+aVSpud Webb ATL 04/29/1989 ATL vs. MIL L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 0 0 0 2 -
+p37
+aVSpud Webb ATL 04/27/1989 ATL vs. MIL W 15 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 2 0 0 1 -
+p38
+aVCliff Levingston ATL 04/27/1989 ATL vs. MIL W 18 4 0 1 0.0 0 0 - 4 4 100.0 1 1 2 1 0 1 1 5 -
+p39
+aVDoc Rivers ATL 04/27/1989 ATL vs. MIL W 36 15 5 10 50.0 1 3 33.3 4 4 100.0 1 4 5 10 4 1 1 2 -
+p40
+aVMoses Malone ATL 04/27/1989 ATL vs. MIL W 38 23 8 18 44.4 0 0 - 7 9 77.8 6 7 13 1 2 0 1 0 -
+p41
+aVJon Koncak ATL 04/27/1989 ATL vs. MIL W 34 13 5 7 71.4 0 0 - 3 5 60.0 3 8 11 1 0 1 3 6 -
+p42
+aVAntoine Carr ATL 04/27/1989 ATL vs. MIL W 15 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 0 1 1 3 -
+p43
+aVJohn Battle ATL 04/27/1989 ATL vs. MIL W 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p44
+aVReggie Theus ATL 04/27/1989 ATL vs. MIL W 33 5 2 9 22.2 0 1 0.0 1 1 100.0 0 0 0 6 0 0 2 2 -
+p45
+aVDominique Wilkins ATL 04/27/1989 ATL vs. MIL W 39 28 10 20 50.0 0 0 - 8 9 88.9 1 4 5 5 1 1 3 2 -
+p46
+a.

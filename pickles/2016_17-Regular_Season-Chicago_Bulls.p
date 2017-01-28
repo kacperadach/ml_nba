@@ -1,0 +1,946 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJimmy Butler CHI 01/21/2017 CHI vs. SAC W 39 23 6 14 42.9 1 3 33.3 10 10 100.0 0 5 5 7 0 0 2 1 14
+p2
+aVRobin Lopez CHI 01/21/2017 CHI vs. SAC W 29 9 4 8 50.0 0 0 - 1 2 50.0 4 4 8 2 0 1 0 3 -6
+p3
+aVNikola Mirotic CHI 01/21/2017 CHI vs. SAC W 22 11 5 11 45.5 1 2 50.0 0 0 - 2 3 5 1 1 0 0 3 2
+p4
+aVCristiano Felicio CHI 01/21/2017 CHI vs. SAC W 15 4 1 2 50.0 0 0 - 2 2 100.0 2 8 10 1 0 0 2 2 2
+p5
+aVRajon Rondo CHI 01/21/2017 CHI vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 4 1 0 1 1 -4
+p6
+aVDwyane Wade CHI 01/21/2017 CHI vs. SAC W 35 30 9 20 45.0 0 2 0.0 12 15 80.0 3 3 6 4 3 4 2 0 -11
+p7
+aVMichael Carter-Williams CHI 01/21/2017 CHI vs. SAC W 20 2 1 6 16.7 0 1 0.0 0 0 - 1 6 7 2 0 0 1 3 1
+p8
+aVDoug McDermott CHI 01/21/2017 CHI vs. SAC W 21 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 1 0
+p9
+aVTaj Gibson CHI 01/21/2017 CHI vs. SAC W 29 7 3 9 33.3 0 0 - 1 2 50.0 0 3 3 0 2 2 1 2 6
+p10
+aVPaul Zipser CHI 01/21/2017 CHI vs. SAC W 23 13 4 8 50.0 3 6 50.0 2 2 100.0 2 2 4 0 0 0 2 2 11
+p11
+aVCristiano Felicio CHI 01/20/2017 CHI @ ATL L 11 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 0 -19
+p12
+aVMichael Carter-Williams CHI 01/20/2017 CHI @ ATL L 19 3 1 6 16.7 1 2 50.0 0 0 - 1 2 3 2 2 0 2 2 -10
+p13
+aVDoug McDermott CHI 01/20/2017 CHI @ ATL L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 5 5 1 0 0 3 0 -14
+p14
+aVDenzel Valentine CHI 01/20/2017 CHI @ ATL L 24 8 3 10 30.0 2 8 25.0 0 0 - 1 5 6 1 3 2 2 2 15
+p15
+aVJerian Grant CHI 01/20/2017 CHI @ ATL L 11 12 3 5 60.0 1 2 50.0 5 5 100.0 0 0 0 1 1 0 4 0 18
+p16
+aVDwyane Wade CHI 01/20/2017 CHI @ ATL L 20 4 2 10 20.0 0 2 0.0 0 0 - 1 2 3 3 1 0 2 1 -18
+p17
+aVRobin Lopez CHI 01/20/2017 CHI @ ATL L 25 10 5 7 71.4 0 0 - 0 0 - 1 3 4 1 1 3 0 2 -11
+p18
+aVBobby Portis CHI 01/20/2017 CHI @ ATL L 17 10 5 8 62.5 0 1 0.0 0 0 - 1 6 7 1 0 0 0 1 20
+p19
+aVNikola Mirotic CHI 01/20/2017 CHI @ ATL L 17 5 1 6 16.7 0 5 0.0 3 4 75.0 1 3 4 2 0 0 1 5 9
+p20
+aVRajon Rondo CHI 01/20/2017 CHI @ ATL L 18 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 3 3 0 3 1 -17
+p21
+aVJimmy Butler CHI 01/20/2017 CHI @ ATL L 29 19 6 8 75.0 2 2 100.0 5 5 100.0 0 0 0 3 1 0 4 0 -22
+p22
+aVTaj Gibson CHI 01/20/2017 CHI @ ATL L 18 6 3 5 60.0 0 1 0.0 0 0 - 3 0 3 0 0 0 1 1 -13
+p23
+aVPaul Zipser CHI 01/20/2017 CHI @ ATL L 15 10 3 7 42.9 1 3 33.3 3 3 100.0 0 1 1 0 0 0 0 2 17
+p24
+aVJimmy Butler CHI 01/17/2017 CHI vs. DAL L 40 24 5 12 41.7 0 1 0.0 14 16 87.5 2 7 9 12 1 0 3 1 10
+p25
+aVMichael Carter-Williams CHI 01/17/2017 CHI vs. DAL L 21 10 4 6 66.7 2 2 100.0 0 0 - 0 5 5 1 2 1 2 2 -6
+p26
+aVJerian Grant CHI 01/17/2017 CHI vs. DAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p27
+aVNikola Mirotic CHI 01/17/2017 CHI vs. DAL L 22 6 2 4 50.0 2 3 66.7 0 0 - 2 3 5 0 1 1 0 4 3
+p28
+aVRajon Rondo CHI 01/17/2017 CHI vs. DAL L 23 0 0 4 0.0 0 0 - 0 0 - 0 3 3 5 1 0 1 0 3
+p29
+aVDoug McDermott CHI 01/17/2017 CHI vs. DAL L 22 7 3 10 30.0 1 4 25.0 0 0 - 0 6 6 2 0 0 0 4 6
+p30
+aVRobin Lopez CHI 01/17/2017 CHI vs. DAL L 36 21 10 15 66.7 0 0 - 1 1 100.0 5 0 5 0 0 1 3 2 7
+p31
+aVPaul Zipser CHI 01/17/2017 CHI vs. DAL L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 0 6
+p32
+aVCristiano Felicio CHI 01/17/2017 CHI vs. DAL L 12 8 3 3 100.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 4 -8
+p33
+aVDwyane Wade CHI 01/17/2017 CHI vs. DAL L 35 17 8 21 38.1 0 1 0.0 1 3 33.3 1 4 5 2 0 1 4 3 -19
+p34
+aVBobby Portis CHI 01/17/2017 CHI vs. DAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -10
+p35
+aVCristiano Felicio CHI 01/15/2017 CHI @ MEM W 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 1 1 10
+p36
+aVPaul Zipser CHI 01/15/2017 CHI @ MEM W 15 5 2 3 66.7 0 1 0.0 1 2 50.0 0 2 2 0 0 0 3 1 -5
+p37
+aVJimmy Butler CHI 01/15/2017 CHI @ MEM W 38 16 6 14 42.9 1 5 20.0 3 7 42.9 0 8 8 6 3 0 2 2 -6
+p38
+aVDenzel Valentine CHI 01/15/2017 CHI @ MEM W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 10
+p39
+aVDoug McDermott CHI 01/15/2017 CHI @ MEM W 33 31 9 16 56.3 3 6 50.0 10 11 90.9 0 6 6 0 1 1 1 0 9
+p40
+aVTaj Gibson CHI 01/15/2017 CHI @ MEM W 32 18 7 14 50.0 0 1 0.0 4 5 80.0 0 8 8 1 1 0 1 1 -5
+p41
+aVRobin Lopez CHI 01/15/2017 CHI @ MEM W 37 12 5 11 45.5 0 0 - 2 5 40.0 3 4 7 2 0 3 1 1 -6
+p42
+aVRajon Rondo CHI 01/15/2017 CHI @ MEM W 21 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 5 0 0 0 1 1
+p43
+aVMichael Carter-Williams CHI 01/15/2017 CHI @ MEM W 27 14 5 8 62.5 0 1 0.0 4 5 80.0 1 6 7 3 1 1 2 3 3
+p44
+aVBobby Portis CHI 01/15/2017 CHI @ MEM W 16 4 2 3 66.7 0 1 0.0 0 0 - 1 4 5 0 0 0 0 3 9
+p45
+aVDwyane Wade CHI 01/14/2017 CHI vs. NOP W 32 22 9 24 37.5 1 4 25.0 3 5 60.0 1 4 5 5 2 0 1 5 18
+p46
+aVJimmy Butler CHI 01/14/2017 CHI vs. NOP W 39 28 9 16 56.3 3 4 75.0 7 10 70.0 1 7 8 6 4 2 3 1 1
+p47
+aVDenzel Valentine CHI 01/14/2017 CHI vs. NOP W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p48
+aVRobin Lopez CHI 01/14/2017 CHI vs. NOP W 27 6 3 12 25.0 0 0 - 0 0 - 9 1 10 3 0 2 0 1 -5
+p49
+aVMichael Carter-Williams CHI 01/14/2017 CHI vs. NOP W 29 11 5 12 41.7 0 1 0.0 1 2 50.0 0 3 3 2 1 0 0 5 12
+p50
+aVCristiano Felicio CHI 01/14/2017 CHI vs. NOP W 21 9 4 4 100.0 0 0 - 1 2 50.0 3 4 7 0 0 0 0 3 13
+p51
+aVBobby Portis CHI 01/14/2017 CHI vs. NOP W 15 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 1 0 1 2 -1
+p52
+aVDoug McDermott CHI 01/14/2017 CHI vs. NOP W 20 8 3 9 33.3 2 6 33.3 0 0 - 2 5 7 0 1 0 0 0 -4
+p53
+aVTaj Gibson CHI 01/14/2017 CHI vs. NOP W 32 15 7 14 50.0 0 2 0.0 1 4 25.0 4 12 16 1 0 2 3 2 9
+p54
+aVRajon Rondo CHI 01/14/2017 CHI vs. NOP W 19 6 2 7 28.6 2 3 66.7 0 0 - 0 2 2 5 1 0 2 1 -4
+p55
+aVRobin Lopez CHI 01/12/2017 CHI @ NYK L 24 10 5 10 50.0 0 0 - 0 0 - 2 5 7 0 0 2 1 1 -11
+p56
+aVTaj Gibson CHI 01/12/2017 CHI @ NYK L 25 12 4 8 50.0 0 0 - 4 5 80.0 5 4 9 0 0 0 3 2 -20
+p57
+aVBobby Portis CHI 01/12/2017 CHI @ NYK L 19 2 1 4 25.0 0 3 0.0 0 0 - 2 1 3 0 1 0 0 1 5
+p58
+aVJerian Grant CHI 01/12/2017 CHI @ NYK L 25 14 5 10 50.0 2 4 50.0 2 3 66.7 0 3 3 4 1 0 0 1 8
+p59
+aVPaul Zipser CHI 01/12/2017 CHI @ NYK L 34 7 2 6 33.3 1 3 33.3 2 2 100.0 0 5 5 2 0 0 0 1 -16
+p60
+aVDwyane Wade CHI 01/12/2017 CHI @ NYK L 33 22 9 20 45.0 0 2 0.0 4 6 66.7 0 3 3 3 2 0 4 0 -12
+p61
+aVDoug McDermott CHI 01/12/2017 CHI @ NYK L 17 2 0 5 0.0 0 2 0.0 2 2 100.0 0 2 2 1 0 1 1 1 -12
+p62
+aVCristiano Felicio CHI 01/12/2017 CHI @ NYK L 24 13 6 9 66.7 0 0 - 1 2 50.0 4 1 5 0 0 1 0 0 -4
+p63
+aVRajon Rondo CHI 01/12/2017 CHI @ NYK L 23 4 2 9 22.2 0 2 0.0 0 0 - 0 2 2 8 0 0 1 2 -6
+p64
+aVMichael Carter-Williams CHI 01/12/2017 CHI @ NYK L 16 3 1 8 12.5 0 2 0.0 1 1 100.0 1 3 4 2 1 0 2 3 -7
+p65
+aVCristiano Felicio CHI 01/10/2017 CHI @ WAS L 14 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 5
+p66
+aVTaj Gibson CHI 01/10/2017 CHI @ WAS L 29 10 3 11 27.3 1 1 100.0 3 3 100.0 4 8 12 1 0 1 0 1 -6
+p67
+aVRajon Rondo CHI 01/10/2017 CHI @ WAS L 27 12 6 13 46.2 0 3 0.0 0 0 - 0 4 4 6 3 0 2 4 4
+p68
+aVBobby Portis CHI 01/10/2017 CHI @ WAS L 18 13 5 8 62.5 3 4 75.0 0 0 - 2 5 7 0 1 0 1 2 6
+p69
+aVRobin Lopez CHI 01/10/2017 CHI @ WAS L 34 14 5 10 50.0 0 0 - 4 5 80.0 5 1 6 1 1 1 2 2 -7
+p70
+aVJerian Grant CHI 01/10/2017 CHI @ WAS L 25 9 2 5 40.0 1 1 100.0 4 4 100.0 0 2 2 6 1 0 5 1 -3
+p71
+aVDoug McDermott CHI 01/10/2017 CHI @ WAS L 24 4 2 11 18.2 0 5 0.0 0 0 - 0 1 1 1 0 0 1 3 -12
+p72
+aVDenzel Valentine CHI 01/10/2017 CHI @ WAS L 30 19 7 15 46.7 5 11 45.5 0 0 - 0 2 2 2 2 0 1 1 16
+p73
+aVMichael Carter-Williams CHI 01/10/2017 CHI @ WAS L 29 14 4 12 33.3 0 2 0.0 6 7 85.7 0 7 7 2 2 0 3 1 -4
+p74
+aVIsaiah Canaan CHI 01/10/2017 CHI @ WAS L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p75
+aVCristiano Felicio CHI 01/09/2017 CHI vs. OKC L 24 11 5 6 83.3 0 0 - 1 1 100.0 4 7 11 1 3 0 1 2 -2
+p76
+aVBobby Portis CHI 01/09/2017 CHI vs. OKC L 10 7 3 7 42.9 1 3 33.3 0 0 - 2 0 2 0 1 0 1 0 5
+p77
+aVNikola Mirotic CHI 01/09/2017 CHI vs. OKC L 16 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 1 0 4 3 -13
+p78
+aVPaul Zipser CHI 01/09/2017 CHI vs. OKC L 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p79
+aVDoug McDermott CHI 01/09/2017 CHI vs. OKC L 25 7 2 6 33.3 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 0 -16
+p80
+aVDwyane Wade CHI 01/09/2017 CHI vs. OKC L 28 22 7 15 46.7 2 3 66.7 6 8 75.0 0 4 4 6 0 1 1 1 -1
+p81
+aVJimmy Butler CHI 01/09/2017 CHI vs. OKC L 29 1 0 6 0.0 0 2 0.0 1 2 50.0 0 2 2 7 0 0 1 0 -15
+p82
+aVJerian Grant CHI 01/09/2017 CHI vs. OKC L 21 11 4 7 57.1 1 3 33.3 2 2 100.0 0 2 2 0 0 0 1 0 0
+p83
+aVMichael Carter-Williams CHI 01/09/2017 CHI vs. OKC L 24 15 6 11 54.5 0 1 0.0 3 3 100.0 0 1 1 2 0 0 1 2 -23
+p84
+aVIsaiah Canaan CHI 01/09/2017 CHI vs. OKC L 8 5 1 3 33.3 1 1 100.0 2 2 100.0 1 0 1 2 0 0 1 0 5
+p85
+aVRobin Lopez CHI 01/09/2017 CHI vs. OKC L 26 3 1 7 14.3 0 0 - 1 1 100.0 1 3 4 0 0 1 0 2 -18
+p86
+aVTaj Gibson CHI 01/09/2017 CHI vs. OKC L 20 9 4 8 50.0 0 0 - 1 1 100.0 1 6 7 0 2 0 0 3 -2
+p87
+aVCristiano Felicio CHI 01/07/2017 CHI vs. TOR W 26 5 2 5 40.0 0 0 - 1 1 100.0 5 3 8 2 0 0 1 6 12
+p88
+aVNikola Mirotic CHI 01/07/2017 CHI vs. TOR W 33 12 4 10 40.0 3 8 37.5 1 2 50.0 0 9 9 2 1 1 1 4 18
+p89
+aVRobin Lopez CHI 01/07/2017 CHI vs. TOR W 27 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -9
+p90
+aVDoug McDermott CHI 01/07/2017 CHI vs. TOR W 38 17 6 17 35.3 2 7 28.6 3 3 100.0 2 8 10 1 1 0 2 1 15
+p91
+aVJerian Grant CHI 01/07/2017 CHI vs. TOR W 22 8 2 3 66.7 0 1 0.0 4 4 100.0 1 2 3 3 0 0 0 4 1
+p92
+aVJimmy Butler CHI 01/07/2017 CHI vs. TOR W 44 42 10 25 40.0 4 8 50.0 18 20 90.0 4 6 10 5 2 0 4 1 8
+p93
+aVDwyane Wade CHI 01/07/2017 CHI vs. TOR W 39 20 6 19 31.6 1 2 50.0 7 7 100.0 1 3 4 7 1 1 2 2 6
+p94
+aVTaj Gibson CHI 01/07/2017 CHI vs. TOR W 20 8 3 7 42.9 0 0 - 2 2 100.0 2 4 6 1 0 0 1 4 -13
+p95
+aVMichael Carter-Williams CHI 01/07/2017 CHI vs. TOR W 16 5 2 4 50.0 1 2 50.0 0 0 - 1 4 5 4 0 0 3 3 -13
+p96
+aVNikola Mirotic CHI 01/04/2017 CHI @ CLE W 26 16 6 12 50.0 3 7 42.9 1 1 100.0 0 4 4 1 1 1 0 2 7
+p97
+aVJimmy Butler CHI 01/04/2017 CHI @ CLE W 38 20 7 20 35.0 3 8 37.5 3 4 75.0 3 3 6 8 1 0 0 2 15
+p98
+aVCristiano Felicio CHI 01/04/2017 CHI @ CLE W 11 1 0 2 0.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 2 0
+p99
+aVMichael Carter-Williams CHI 01/04/2017 CHI @ CLE W 28 13 6 13 46.2 0 3 0.0 1 2 50.0 0 3 3 3 1 1 2 3 2
+p100
+aVTaj Gibson CHI 01/04/2017 CHI @ CLE W 34 18 9 10 90.0 0 0 - 0 0 - 2 5 7 2 1 0 3 1 11
+p101
+aVDwyane Wade CHI 01/04/2017 CHI @ CLE W 27 10 3 9 33.3 3 4 75.0 1 2 50.0 1 3 4 4 2 0 4 1 -7
+p102
+aVJerian Grant CHI 01/04/2017 CHI @ CLE W 20 5 1 5 20.0 1 4 25.0 2 2 100.0 0 2 2 3 1 0 1 3 10
+p103
+aVDoug McDermott CHI 01/04/2017 CHI @ CLE W 32 17 6 9 66.7 3 4 75.0 2 2 100.0 1 5 6 1 1 0 0 1 16
+p104
+aVRobin Lopez CHI 01/04/2017 CHI @ CLE W 23 6 3 5 60.0 0 0 - 0 0 - 3 2 5 1 0 1 2 3 6
+p105
+aVJimmy Butler CHI 01/02/2017 CHI vs. CHA W 38 52 15 24 62.5 1 4 25.0 21 22 95.5 3 9 12 6 3 1 2 0 15
+p106
+aVRobin Lopez CHI 01/02/2017 CHI vs. CHA W 23 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 0 0 3 0 1 -9
+p107
+aVJerian Grant CHI 01/02/2017 CHI vs. CHA W 27 9 4 10 40.0 1 2 50.0 0 0 - 1 2 3 6 4 0 1 3 2
+p108
+aVNikola Mirotic CHI 01/02/2017 CHI vs. CHA W 28 12 4 10 40.0 2 7 28.6 2 2 100.0 1 1 2 0 2 2 1 1 4
+p109
+aVTaj Gibson CHI 01/02/2017 CHI vs. CHA W 27 6 3 8 37.5 0 0 - 0 0 - 5 3 8 0 0 2 2 3 11
+p110
+aVCristiano Felicio CHI 01/02/2017 CHI vs. CHA W 19 4 2 2 100.0 0 0 - 0 0 - 3 2 5 4 0 0 0 0 6
+p111
+aVDoug McDermott CHI 01/02/2017 CHI vs. CHA W 30 11 5 12 41.7 0 3 0.0 1 1 100.0 0 1 1 1 0 0 1 2 13
+p112
+aVDenzel Valentine CHI 01/02/2017 CHI vs. CHA W 18 9 3 6 50.0 3 5 60.0 0 0 - 0 0 0 3 1 0 2 2 -6
+p113
+aVMichael Carter-Williams CHI 01/02/2017 CHI vs. CHA W 31 10 4 12 33.3 0 2 0.0 2 2 100.0 1 8 9 3 0 1 1 5 -1
+p114
+aVDwyane Wade CHI 12/31/2016 CHI vs. MIL L 25 8 3 13 23.1 1 4 25.0 1 2 50.0 1 4 5 5 1 1 3 2 -14
+p115
+aVJimmy Butler CHI 12/31/2016 CHI vs. MIL L 38 26 7 16 43.8 2 6 33.3 10 15 66.7 3 4 7 8 2 0 3 1 -4
+p116
+aVBobby Portis CHI 12/31/2016 CHI vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p117
+aVMichael Carter-Williams CHI 12/31/2016 CHI vs. MIL L 25 4 1 6 16.7 1 4 25.0 1 2 50.0 0 1 1 4 3 1 2 4 -12
+p118
+aVDoug McDermott CHI 12/31/2016 CHI vs. MIL L 29 13 5 10 50.0 3 6 50.0 0 0 - 1 0 1 3 1 0 0 2 -7
+p119
+aVRobin Lopez CHI 12/31/2016 CHI vs. MIL L 31 12 6 11 54.5 0 0 - 0 0 - 3 7 10 1 0 1 1 2 -5
+p120
+aVNikola Mirotic CHI 12/31/2016 CHI vs. MIL L 22 10 4 5 80.0 2 2 100.0 0 0 - 1 3 4 0 0 0 0 2 -9
+p121
+aVJerian Grant CHI 12/31/2016 CHI vs. MIL L 18 5 1 5 20.0 1 4 25.0 2 2 100.0 0 0 0 1 0 0 0 3 -9
+p122
+aVCristiano Felicio CHI 12/31/2016 CHI vs. MIL L 17 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 1 1 1 3 -15
+p123
+aVIsaiah Canaan CHI 12/31/2016 CHI vs. MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p124
+aVDenzel Valentine CHI 12/31/2016 CHI vs. MIL L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -5
+p125
+aVTaj Gibson CHI 12/31/2016 CHI vs. MIL L 28 11 3 12 25.0 0 0 - 5 5 100.0 4 1 5 1 0 1 0 1 -10
+p126
+aVJerian Grant CHI 12/30/2016 CHI @ IND L 8 2 0 1 0.0 0 1 0.0 2 2 100.0 1 0 1 1 1 0 0 3 6
+p127
+aVRajon Rondo CHI 12/30/2016 CHI @ IND L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 -20
+p128
+aVCristiano Felicio CHI 12/30/2016 CHI @ IND L 22 12 4 5 80.0 0 0 - 4 5 80.0 6 6 12 2 1 0 0 3 6
+p129
+aVDwyane Wade CHI 12/30/2016 CHI @ IND L 30 20 8 18 44.4 1 2 50.0 3 4 75.0 0 2 2 5 2 0 3 2 -13
+p130
+aVDoug McDermott CHI 12/30/2016 CHI @ IND L 29 10 4 5 80.0 2 2 100.0 0 2 0.0 0 4 4 2 1 0 0 1 8
+p131
+aVNikola Mirotic CHI 12/30/2016 CHI @ IND L 27 8 3 14 21.4 2 11 18.2 0 0 - 0 6 6 0 0 3 1 0 1
+p132
+aVTaj Gibson CHI 12/30/2016 CHI @ IND L 28 10 4 12 33.3 0 0 - 2 2 100.0 3 2 5 1 1 0 0 1 -14
+p133
+aVRobin Lopez CHI 12/30/2016 CHI @ IND L 19 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 0 1 2 2 -13
+p134
+aVJimmy Butler CHI 12/30/2016 CHI @ IND L 38 25 8 17 47.1 0 3 0.0 9 11 81.8 0 6 6 3 2 0 4 5 -15
+p135
+aVMichael Carter-Williams CHI 12/30/2016 CHI @ IND L 27 12 4 10 40.0 1 3 33.3 3 3 100.0 4 4 8 1 0 1 2 3 4
+p136
+aVRobin Lopez CHI 12/28/2016 CHI vs. BKN W 31 12 5 8 62.5 0 0 - 2 2 100.0 1 4 5 1 0 2 1 1 5
+p137
+aVJerian Grant CHI 12/28/2016 CHI vs. BKN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p138
+aVMichael Carter-Williams CHI 12/28/2016 CHI vs. BKN W 15 4 1 6 16.7 0 2 0.0 2 2 100.0 1 5 6 2 0 0 3 1 0
+p139
+aVDoug McDermott CHI 12/28/2016 CHI vs. BKN W 30 7 2 6 33.3 0 2 0.0 3 3 100.0 1 3 4 0 0 0 1 1 9
+p140
+aVDwyane Wade CHI 12/28/2016 CHI vs. BKN W 22 16 5 13 38.5 0 1 0.0 6 7 85.7 2 2 4 1 0 1 3 1 -12
+p141
+aVRajon Rondo CHI 12/28/2016 CHI vs. BKN W 35 5 2 8 25.0 1 1 100.0 0 0 - 2 7 9 12 2 0 2 1 5
+p142
+aVTaj Gibson CHI 12/28/2016 CHI vs. BKN W 29 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 2 1 1 3 -6
+p143
+aVNikola Mirotic CHI 12/28/2016 CHI vs. BKN W 25 7 1 7 14.3 1 4 25.0 4 4 100.0 1 3 4 0 0 3 3 4 13
+p144
+aVJimmy Butler CHI 12/28/2016 CHI vs. BKN W 38 40 14 29 48.3 1 2 50.0 11 11 100.0 6 4 10 4 4 0 3 2 4
+p145
+aVCristiano Felicio CHI 12/28/2016 CHI vs. BKN W 11 2 1 3 33.3 0 0 - 0 0 - 2 7 9 0 0 1 1 2 -8
+p146
+aVNikola Mirotic CHI 12/26/2016 CHI vs. IND W 30 20 7 13 53.8 3 9 33.3 3 4 75.0 4 3 7 0 0 0 0 1 -3
+p147
+aVTaj Gibson CHI 12/26/2016 CHI vs. IND W 22 10 5 12 41.7 0 0 - 0 0 - 0 2 2 0 1 0 2 1 7
+p148
+aVRajon Rondo CHI 12/26/2016 CHI vs. IND W 24 2 1 6 16.7 0 3 0.0 0 0 - 4 5 9 5 0 0 2 3 8
+p149
+aVDwyane Wade CHI 12/26/2016 CHI vs. IND W 33 21 8 19 42.1 0 4 0.0 5 5 100.0 1 2 3 5 2 2 2 1 11
+p150
+aVCristiano Felicio CHI 12/26/2016 CHI vs. IND W 12 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 1 2
+p151
+aVRobin Lopez CHI 12/26/2016 CHI vs. IND W 32 8 4 8 50.0 0 0 - 0 1 0.0 5 7 12 0 2 1 3 3 4
+p152
+aVJerian Grant CHI 12/26/2016 CHI vs. IND W 29 10 4 7 57.1 2 4 50.0 0 0 - 1 2 3 0 2 0 1 3 -9
+p153
+aVMichael Carter-Williams CHI 12/26/2016 CHI vs. IND W 19 1 0 5 0.0 0 2 0.0 1 2 50.0 0 5 5 2 1 0 1 1 2
+p154
+aVJimmy Butler CHI 12/26/2016 CHI vs. IND W 40 16 3 12 25.0 1 3 33.3 9 12 75.0 0 5 5 5 2 0 2 1 3
+p155
+aVJimmy Butler CHI 12/25/2016 CHI @ SAS L 36 19 8 19 42.1 1 3 33.3 2 2 100.0 1 4 5 3 1 0 0 3 -19
+p156
+aVPaul Zipser CHI 12/25/2016 CHI @ SAS L 2 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 1 0 -3
+p157
+aVCristiano Felicio CHI 12/25/2016 CHI @ SAS L 18 8 2 4 50.0 0 0 - 4 5 80.0 2 1 3 2 0 0 2 2 3
+p158
+aVDenzel Valentine CHI 12/25/2016 CHI @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p159
+aVRajon Rondo CHI 12/25/2016 CHI @ SAS L 30 6 3 7 42.9 0 1 0.0 0 0 - 2 4 6 2 2 0 2 1 -9
+p160
+aVNikola Mirotic CHI 12/25/2016 CHI @ SAS L 32 11 4 10 40.0 3 6 50.0 0 0 - 0 5 5 2 3 1 1 2 -3
+p161
+aVRobin Lopez CHI 12/25/2016 CHI @ SAS L 19 10 4 6 66.7 0 0 - 2 4 50.0 3 1 4 1 0 0 4 2 -26
+p162
+aVTaj Gibson CHI 12/25/2016 CHI @ SAS L 25 12 5 13 38.5 0 0 - 2 2 100.0 4 3 7 2 0 0 1 4 -9
+p163
+aVBobby Portis CHI 12/25/2016 CHI @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p164
+aVJerian Grant CHI 12/25/2016 CHI @ SAS L 18 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 2 0 1 1 -10
+p165
+aVDoug McDermott CHI 12/25/2016 CHI @ SAS L 27 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 3
+p166
+aVDwyane Wade CHI 12/25/2016 CHI @ SAS L 28 24 9 16 56.3 1 3 33.3 5 5 100.0 2 1 3 6 1 0 0 2 -16
+p167
+aVCristiano Felicio CHI 12/23/2016 CHI @ CHA L 14 0 0 2 0.0 0 0 - 0 2 0.0 4 2 6 0 0 0 0 4 -6
+p168
+aVDoug McDermott CHI 12/23/2016 CHI @ CHA L 33 15 5 12 41.7 3 7 42.9 2 2 100.0 0 4 4 1 0 0 1 3 -11
+p169
+aVRajon Rondo CHI 12/23/2016 CHI @ CHA L 33 7 3 10 30.0 1 3 33.3 0 0 - 2 7 9 10 2 0 5 1 -6
+p170
+aVDwyane Wade CHI 12/23/2016 CHI @ CHA L 26 12 5 16 31.3 0 1 0.0 2 2 100.0 1 6 7 2 2 0 1 2 -10
+p171
+aVRobin Lopez CHI 12/23/2016 CHI @ CHA L 33 6 3 8 37.5 0 0 - 0 0 - 4 5 9 1 0 2 0 4 -4
+p172
+aVTaj Gibson CHI 12/23/2016 CHI @ CHA L 30 10 4 10 40.0 0 0 - 2 2 100.0 1 2 3 0 0 2 0 1 -5
+p173
+aVJimmy Butler CHI 12/23/2016 CHI @ CHA L 39 26 11 19 57.9 2 4 50.0 2 2 100.0 0 4 4 4 0 1 2 2 -7
+p174
+aVNikola Mirotic CHI 12/23/2016 CHI @ CHA L 19 11 5 16 31.3 1 7 14.3 0 0 - 5 5 10 0 1 1 0 2 -9
+p175
+aVJerian Grant CHI 12/23/2016 CHI @ CHA L 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -2
+p176
+aVJimmy Butler CHI 12/21/2016 CHI vs. WAS L 39 20 6 20 30.0 0 4 0.0 8 9 88.9 5 6 11 5 0 0 4 4 -6
+p177
+aVDwyane Wade CHI 12/21/2016 CHI vs. WAS L 32 19 7 20 35.0 0 1 0.0 5 6 83.3 0 3 3 3 1 1 1 3 -11
+p178
+aVNikola Mirotic CHI 12/21/2016 CHI vs. WAS L 22 11 4 10 40.0 3 6 50.0 0 0 - 2 4 6 0 0 1 0 2 5
+p179
+aVDoug McDermott CHI 12/21/2016 CHI vs. WAS L 26 10 4 11 36.4 2 6 33.3 0 0 - 1 2 3 2 0 0 0 0 -1
+p180
+aVRobin Lopez CHI 12/21/2016 CHI vs. WAS L 33 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 1 1 2 1 -2
+p181
+aVRajon Rondo CHI 12/21/2016 CHI vs. WAS L 34 3 1 10 10.0 1 2 50.0 0 0 - 1 5 6 10 0 0 4 2 -5
+p182
+aVTaj Gibson CHI 12/21/2016 CHI vs. WAS L 33 17 8 12 66.7 0 0 - 1 3 33.3 4 7 11 2 0 2 2 3 -20
+p183
+aVJerian Grant CHI 12/21/2016 CHI vs. WAS L 14 5 2 4 50.0 0 2 0.0 1 1 100.0 2 0 2 2 1 0 1 3 -10
+p184
+aVCristiano Felicio CHI 12/21/2016 CHI vs. WAS L 7 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 0
+p185
+aVRajon Rondo CHI 12/19/2016 CHI vs. DET W 28 10 4 7 57.1 2 3 66.7 0 0 - 0 8 8 14 3 0 4 2 23
+p186
+aVDoug McDermott CHI 12/19/2016 CHI vs. DET W 25 13 6 12 50.0 1 3 33.3 0 0 - 0 3 3 2 0 0 0 1 17
+p187
+aVTaj Gibson CHI 12/19/2016 CHI vs. DET W 19 16 8 8 100.0 0 0 - 0 0 - 0 4 4 0 1 1 1 0 19
+p188
+aVDwyane Wade CHI 12/19/2016 CHI vs. DET W 22 13 6 10 60.0 0 0 - 1 1 100.0 1 3 4 4 1 0 1 0 26
+p189
+aVJerian Grant CHI 12/19/2016 CHI vs. DET W 15 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 1 2 2 10
+p190
+aVBobby Portis CHI 12/19/2016 CHI vs. DET W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p191
+aVCristiano Felicio CHI 12/19/2016 CHI vs. DET W 22 6 3 5 60.0 0 0 - 0 0 - 3 4 7 2 1 1 0 2 8
+p192
+aVDenzel Valentine CHI 12/19/2016 CHI vs. DET W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 0 0 0 1 0 -3
+p193
+aVIsaiah Canaan CHI 12/19/2016 CHI vs. DET W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -2
+p194
+aVRobin Lopez CHI 12/19/2016 CHI vs. DET W 26 14 7 10 70.0 0 0 - 0 0 - 3 3 6 0 0 0 1 3 23
+p195
+aVNikola Mirotic CHI 12/19/2016 CHI vs. DET W 21 13 5 10 50.0 3 6 50.0 0 0 - 0 4 4 2 0 2 2 3 15
+p196
+aVPaul Zipser CHI 12/19/2016 CHI vs. DET W 7 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p197
+aVJimmy Butler CHI 12/19/2016 CHI vs. DET W 30 19 6 7 85.7 1 1 100.0 6 6 100.0 1 2 3 6 2 0 0 0 25
+p198
+aVDoug McDermott CHI 12/16/2016 CHI vs. MIL L 24 5 2 8 25.0 0 3 0.0 1 1 100.0 1 2 3 0 0 0 0 0 -7
+p199
+aVTaj Gibson CHI 12/16/2016 CHI vs. MIL L 20 8 4 10 40.0 0 0 - 0 0 - 3 1 4 0 0 1 1 3 -9
+p200
+aVBobby Portis CHI 12/16/2016 CHI vs. MIL L 19 10 4 8 50.0 2 2 100.0 0 2 0.0 2 6 8 0 0 0 1 0 -14
+p201
+aVJimmy Butler CHI 12/16/2016 CHI vs. MIL L 30 7 3 14 21.4 1 5 20.0 0 0 - 2 5 7 6 1 0 1 3 -12
+p202
+aVIsaiah Canaan CHI 12/16/2016 CHI vs. MIL L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p203
+aVDwyane Wade CHI 12/16/2016 CHI vs. MIL L 24 12 5 14 35.7 1 2 50.0 1 2 50.0 0 5 5 1 1 0 0 0 -22
+p204
+aVDenzel Valentine CHI 12/16/2016 CHI vs. MIL L 22 6 2 7 28.6 0 2 0.0 2 2 100.0 0 4 4 2 1 0 0 1 -18
+p205
+aVRobin Lopez CHI 12/16/2016 CHI vs. MIL L 28 8 3 10 30.0 0 0 - 2 2 100.0 6 1 7 1 0 1 3 0 -15
+p206
+aVPaul Zipser CHI 12/16/2016 CHI vs. MIL L 9 3 1 4 25.0 0 2 0.0 1 2 50.0 0 2 2 0 1 0 2 1 -3
+p207
+aVCristiano Felicio CHI 12/16/2016 CHI vs. MIL L 20 1 0 2 0.0 0 0 - 1 2 50.0 4 1 5 1 0 0 1 2 -11
+p208
+aVRajon Rondo CHI 12/16/2016 CHI vs. MIL L 26 7 3 9 33.3 1 3 33.3 0 2 0.0 1 3 4 4 1 0 3 2 -14
+p209
+aVJerian Grant CHI 12/16/2016 CHI vs. MIL L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 0 0 1 -1
+p210
+aVRajon Rondo CHI 12/15/2016 CHI @ MIL L 29 5 2 6 33.3 1 4 25.0 0 0 - 0 6 6 8 1 0 3 4 -3
+p211
+aVCristiano Felicio CHI 12/15/2016 CHI @ MIL L 21 7 3 4 75.0 0 0 - 1 2 50.0 2 4 6 0 1 0 0 0 -3
+p212
+aVDwyane Wade CHI 12/15/2016 CHI @ MIL L 33 20 8 13 61.5 0 3 0.0 4 6 66.7 0 3 3 6 1 1 4 2 -28
+p213
+aVDenzel Valentine CHI 12/15/2016 CHI @ MIL L 19 5 1 6 16.7 1 4 25.0 2 2 100.0 0 3 3 2 0 0 2 1 0
+p214
+aVBobby Portis CHI 12/15/2016 CHI @ MIL L 23 6 2 6 33.3 0 3 0.0 2 3 66.7 0 6 6 0 0 0 3 1 2
+p215
+aVJimmy Butler CHI 12/15/2016 CHI @ MIL L 38 21 6 16 37.5 1 3 33.3 8 10 80.0 0 3 3 3 2 0 2 1 -8
+p216
+aVRobin Lopez CHI 12/15/2016 CHI @ MIL L 25 6 3 6 50.0 0 0 - 0 0 - 1 4 5 2 0 1 0 2 -8
+p217
+aVTaj Gibson CHI 12/15/2016 CHI @ MIL L 24 19 7 11 63.6 0 0 - 5 6 83.3 2 2 4 1 0 1 0 3 -8
+p218
+aVDoug McDermott CHI 12/15/2016 CHI @ MIL L 28 8 3 6 50.0 2 3 66.7 0 0 - 1 4 5 1 0 0 2 2 1
+p219
+aVIsaiah Canaan CHI 12/13/2016 CHI vs. MIN L 27 6 3 9 33.3 0 3 0.0 0 0 - 0 3 3 3 1 0 1 1 -8
+p220
+aVTaj Gibson CHI 12/13/2016 CHI vs. MIN L 28 10 5 11 45.5 0 0 - 0 0 - 2 2 4 1 0 0 2 4 -5
+p221
+aVJerian Grant CHI 12/13/2016 CHI vs. MIN L 19 8 3 6 50.0 2 2 100.0 0 0 - 0 3 3 1 1 0 0 1 -3
+p222
+aVDoug McDermott CHI 12/13/2016 CHI vs. MIN L 27 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 3 -2
+p223
+aVCristiano Felicio CHI 12/13/2016 CHI vs. MIN L 15 4 2 4 50.0 0 0 - 0 0 - 3 2 5 1 0 0 0 2 11
+p224
+aVNikola Mirotic CHI 12/13/2016 CHI vs. MIN L 20 5 1 5 20.0 0 4 0.0 3 4 75.0 1 4 5 0 0 0 0 0 0
+p225
+aVRobin Lopez CHI 12/13/2016 CHI vs. MIN L 33 14 7 9 77.8 0 0 - 0 0 - 4 1 5 0 0 4 2 1 -16
+p226
+aVJimmy Butler CHI 12/13/2016 CHI vs. MIN L 39 27 9 22 40.9 1 2 50.0 8 9 88.9 1 8 9 6 3 1 2 2 -15
+p227
+aVDwyane Wade CHI 12/13/2016 CHI vs. MIN L 32 12 4 13 30.8 1 3 33.3 3 6 50.0 1 4 5 8 2 1 2 2 13
+p228
+aVCristiano Felicio CHI 12/10/2016 CHI vs. MIA W 17 6 2 3 66.7 0 0 - 2 2 100.0 4 3 7 0 1 0 0 3 -1
+p229
+aVRajon Rondo CHI 12/10/2016 CHI vs. MIA W 33 4 2 6 33.3 0 1 0.0 0 0 - 1 4 5 7 2 0 3 2 8
+p230
+aVNikola Mirotic CHI 12/10/2016 CHI vs. MIA W 22 9 4 6 66.7 1 3 33.3 0 0 - 0 5 5 1 0 1 1 2 2
+p231
+aVJimmy Butler CHI 12/10/2016 CHI vs. MIA W 38 31 8 15 53.3 0 0 - 15 16 93.8 1 6 7 4 3 0 2 2 3
+p232
+aVRobin Lopez CHI 12/10/2016 CHI vs. MIA W 31 4 2 7 28.6 0 0 - 0 0 - 4 6 10 1 0 3 0 1 6
+p233
+aVDenzel Valentine CHI 12/10/2016 CHI vs. MIA W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p234
+aVJerian Grant CHI 12/10/2016 CHI vs. MIA W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p235
+aVTaj Gibson CHI 12/10/2016 CHI vs. MIA W 26 13 6 11 54.5 0 0 - 1 2 50.0 2 5 7 1 0 0 1 2 3
+p236
+aVDoug McDermott CHI 12/10/2016 CHI vs. MIA W 26 8 3 9 33.3 0 2 0.0 2 2 100.0 0 1 1 0 1 0 1 1 -3
+p237
+aVDwyane Wade CHI 12/10/2016 CHI vs. MIA W 35 28 11 24 45.8 0 2 0.0 6 7 85.7 0 3 3 3 1 2 3 2 6
+p238
+aVRobin Lopez CHI 12/08/2016 CHI vs. SAS W 28 12 6 9 66.7 0 0 - 0 0 - 1 3 4 0 0 1 0 0 8
+p239
+aVNikola Mirotic CHI 12/08/2016 CHI vs. SAS W 22 9 4 8 50.0 1 5 20.0 0 0 - 0 6 6 2 2 0 3 3 -4
+p240
+aVTaj Gibson CHI 12/08/2016 CHI vs. SAS W 28 12 5 11 45.5 0 0 - 2 2 100.0 0 5 5 1 0 2 1 1 5
+p241
+aVDwyane Wade CHI 12/08/2016 CHI vs. SAS W 34 20 5 13 38.5 1 3 33.3 9 13 69.2 1 4 5 5 1 1 3 1 -4
+p242
+aVJimmy Butler CHI 12/08/2016 CHI vs. SAS W 38 13 4 14 28.6 1 3 33.3 4 5 80.0 2 7 9 4 2 1 3 2 6
+p243
+aVIsaiah Canaan CHI 12/08/2016 CHI vs. SAS W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p244
+aVRajon Rondo CHI 12/08/2016 CHI vs. SAS W 36 12 6 12 50.0 0 1 0.0 0 0 - 1 9 10 9 2 0 4 3 8
+p245
+aVDoug McDermott CHI 12/08/2016 CHI vs. SAS W 26 8 2 6 33.3 1 4 25.0 3 3 100.0 1 3 4 3 0 0 3 1 5
+p246
+aVCristiano Felicio CHI 12/08/2016 CHI vs. SAS W 18 9 3 5 60.0 0 0 - 3 4 75.0 4 3 7 0 0 0 1 1 -1
+p247
+aVTaj Gibson CHI 12/06/2016 CHI @ DET L 29 11 5 10 50.0 0 1 0.0 1 2 50.0 1 9 10 0 2 0 2 4 -7
+p248
+aVRajon Rondo CHI 12/06/2016 CHI @ DET L 37 10 4 10 40.0 1 2 50.0 1 3 33.3 1 2 3 1 0 1 3 4 -10
+p249
+aVRobin Lopez CHI 12/06/2016 CHI @ DET L 33 8 3 5 60.0 0 0 - 2 6 33.3 3 5 8 1 0 3 3 1 8
+p250
+aVJimmy Butler CHI 12/06/2016 CHI @ DET L 43 32 11 21 52.4 0 4 0.0 10 10 100.0 0 6 6 4 0 1 3 1 -3
+p251
+aVNikola Mirotic CHI 12/06/2016 CHI @ DET L 23 5 2 7 28.6 1 4 25.0 0 0 - 0 6 6 0 2 1 0 2 -8
+p252
+aVIsaiah Canaan CHI 12/06/2016 CHI @ DET L 23 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 1 1 0 0 3 -12
+p253
+aVJerian Grant CHI 12/06/2016 CHI @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p254
+aVDwyane Wade CHI 12/06/2016 CHI @ DET L 34 19 5 13 38.5 0 2 0.0 9 10 90.0 0 3 3 8 1 0 2 3 -2
+p255
+aVCristiano Felicio CHI 12/06/2016 CHI @ DET L 15 4 2 4 50.0 0 0 - 0 1 0.0 4 2 6 0 0 1 1 1 -17
+p256
+aVJimmy Butler CHI 12/05/2016 CHI vs. POR L 37 26 8 16 50.0 2 4 50.0 8 8 100.0 2 5 7 5 1 2 2 1 2
+p257
+aVNikola Mirotic CHI 12/05/2016 CHI vs. POR L 27 18 4 8 50.0 3 4 75.0 7 8 87.5 0 7 7 0 2 2 2 3 -3
+p258
+aVBobby Portis CHI 12/05/2016 CHI vs. POR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 1 0 0 -5
+p259
+aVIsaiah Canaan CHI 12/05/2016 CHI vs. POR L 29 10 4 11 36.4 0 3 0.0 2 2 100.0 3 1 4 2 2 0 2 3 -9
+p260
+aVDwyane Wade CHI 12/05/2016 CHI vs. POR L 36 34 11 23 47.8 1 3 33.3 11 13 84.6 2 2 4 3 1 2 4 3 9
+p261
+aVDenzel Valentine CHI 12/05/2016 CHI vs. POR L 22 2 1 6 16.7 0 5 0.0 0 0 - 0 4 4 0 0 0 1 2 -10
+p262
+aVJerian Grant CHI 12/05/2016 CHI vs. POR L 23 5 1 7 14.3 1 4 25.0 2 2 100.0 0 3 3 1 1 0 1 3 5
+p263
+aVRobin Lopez CHI 12/05/2016 CHI vs. POR L 33 7 2 6 33.3 0 0 - 3 4 75.0 7 7 14 2 0 2 1 0 6
+p264
+aVTaj Gibson CHI 12/05/2016 CHI vs. POR L 27 8 4 6 66.7 0 0 - 0 1 0.0 1 5 6 1 0 2 2 2 -5
+p265
+aVRobin Lopez CHI 12/03/2016 CHI @ DAL L 26 15 7 12 58.3 0 0 - 1 2 50.0 5 2 7 0 0 1 2 4 -11
+p266
+aVTaj Gibson CHI 12/03/2016 CHI @ DAL L 27 11 5 8 62.5 0 0 - 1 2 50.0 1 3 4 1 0 1 2 3 -23
+p267
+aVRJ Hunter CHI 12/03/2016 CHI @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p268
+aVCristiano Felicio CHI 12/03/2016 CHI @ DAL L 15 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 0 0 1 0 0 -3
+p269
+aVNikola Mirotic CHI 12/03/2016 CHI @ DAL L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 5 5 0 0 0 1 1 -24
+p270
+aVJimmy Butler CHI 12/03/2016 CHI @ DAL L 36 26 8 18 44.4 0 3 0.0 10 12 83.3 1 8 9 4 2 0 3 3 -10
+p271
+aVRajon Rondo CHI 12/03/2016 CHI @ DAL L 24 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 1 0 5 2 -21
+p272
+aVIsaiah Canaan CHI 12/03/2016 CHI @ DAL L 29 10 4 6 66.7 1 2 50.0 1 1 100.0 0 3 3 1 1 0 2 1 -5
+p273
+aVDenzel Valentine CHI 12/03/2016 CHI @ DAL L 20 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 0 -8
+p274
+aVPaul Zipser CHI 12/03/2016 CHI @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p275
+aVBobby Portis CHI 12/03/2016 CHI @ DAL L 20 4 1 4 25.0 1 2 50.0 1 2 50.0 1 4 5 0 0 1 3 4 -2
+p276
+aVJerian Grant CHI 12/03/2016 CHI @ DAL L 25 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 1 2 3 -6
+p277
+aVJimmy Butler CHI 12/02/2016 CHI vs. CLE W 42 26 8 20 40.0 0 3 0.0 10 12 83.3 3 5 8 6 3 2 1 1 9
+p278
+aVIsaiah Canaan CHI 12/02/2016 CHI vs. CLE W 28 9 4 8 50.0 1 5 20.0 0 0 - 0 0 0 0 0 0 0 2 -1
+p279
+aVDwyane Wade CHI 12/02/2016 CHI vs. CLE W 37 24 11 23 47.8 1 4 25.0 1 2 50.0 3 2 5 4 2 0 4 2 0
+p280
+aVJerian Grant CHI 12/02/2016 CHI vs. CLE W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -2
+p281
+aVNikola Mirotic CHI 12/02/2016 CHI vs. CLE W 22 2 1 9 11.1 0 5 0.0 0 0 - 2 7 9 2 2 1 2 1 -2
+p282
+aVDenzel Valentine CHI 12/02/2016 CHI vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p283
+aVRajon Rondo CHI 12/02/2016 CHI vs. CLE W 36 15 7 12 58.3 1 1 100.0 0 0 - 2 8 10 12 3 1 3 4 8
+p284
+aVRobin Lopez CHI 12/02/2016 CHI vs. CLE W 26 10 5 10 50.0 0 0 - 0 0 - 4 1 5 0 0 0 1 2 9
+p285
+aVTaj Gibson CHI 12/02/2016 CHI vs. CLE W 40 23 10 13 76.9 0 0 - 3 3 100.0 2 9 11 5 1 0 1 3 6
+p286
+aVTaj Gibson CHI 11/30/2016 CHI vs. LAL L 31 11 4 9 44.4 0 0 - 3 6 50.0 1 9 10 4 2 2 1 6 5
+p287
+aVNikola Mirotic CHI 11/30/2016 CHI vs. LAL L 22 6 3 9 33.3 0 4 0.0 0 0 - 1 5 6 1 2 1 0 1 -9
+p288
+aVRobin Lopez CHI 11/30/2016 CHI vs. LAL L 32 10 4 12 33.3 0 0 - 2 2 100.0 4 5 9 1 1 8 2 3 9
+p289
+aVDwyane Wade CHI 11/30/2016 CHI vs. LAL L 30 17 7 15 46.7 0 1 0.0 3 4 75.0 1 3 4 6 2 0 5 3 -2
+p290
+aVBobby Portis CHI 11/30/2016 CHI vs. LAL L 11 3 1 2 50.0 0 0 - 1 2 50.0 4 0 4 0 0 0 0 2 -15
+p291
+aVDenzel Valentine CHI 11/30/2016 CHI vs. LAL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 2 0 0 2 -5
+p292
+aVIsaiah Canaan CHI 11/30/2016 CHI vs. LAL L 26 5 2 9 22.2 1 5 20.0 0 0 - 1 0 1 1 1 0 1 0 -19
+p293
+aVRajon Rondo CHI 11/30/2016 CHI vs. LAL L 36 14 6 12 50.0 2 3 66.7 0 0 - 1 7 8 6 2 0 1 4 6
+p294
+aVJerian Grant CHI 11/30/2016 CHI vs. LAL L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -8
+p295
+aVJimmy Butler CHI 11/30/2016 CHI vs. LAL L 40 22 4 18 22.2 1 6 16.7 13 15 86.7 1 3 4 2 3 0 4 3 8
+p296
+aVRJ Hunter CHI 11/25/2016 CHI @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p297
+aVRajon Rondo CHI 11/25/2016 CHI @ PHI W 26 6 2 5 40.0 0 0 - 2 3 66.7 0 8 8 10 2 0 1 2 26
+p298
+aVDenzel Valentine CHI 11/25/2016 CHI @ PHI W 22 5 2 9 22.2 1 5 20.0 0 0 - 0 3 3 0 1 0 0 2 -10
+p299
+aVJerian Grant CHI 11/25/2016 CHI @ PHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -12
+p300
+aVCristiano Felicio CHI 11/25/2016 CHI @ PHI W 7 0 0 5 0.0 0 0 - 0 0 - 3 2 5 1 0 1 0 1 -12
+p301
+aVBobby Portis CHI 11/25/2016 CHI @ PHI W 19 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 3 0 0 0 3 5
+p302
+aVDwyane Wade CHI 11/25/2016 CHI @ PHI W 29 26 11 18 61.1 1 3 33.3 3 5 60.0 1 4 5 2 3 1 1 2 19
+p303
+aVNikola Mirotic CHI 11/25/2016 CHI @ PHI W 25 6 2 5 40.0 1 3 33.3 1 3 33.3 1 2 3 2 2 0 2 0 1
+p304
+aVIsaiah Canaan CHI 11/25/2016 CHI @ PHI W 26 8 2 9 22.2 2 7 28.6 2 2 100.0 0 5 5 1 1 0 2 1 12
+p305
+aVRobin Lopez CHI 11/25/2016 CHI @ PHI W 23 10 4 11 36.4 0 0 - 2 2 100.0 3 2 5 1 0 1 2 1 27
+p306
+aVJimmy Butler CHI 11/25/2016 CHI @ PHI W 31 26 10 15 66.7 1 2 50.0 5 6 83.3 1 3 4 3 1 0 0 1 20
+p307
+aVTaj Gibson CHI 11/25/2016 CHI @ PHI W 22 12 4 5 80.0 0 0 - 4 5 80.0 0 6 6 1 0 2 3 2 11
+p308
+aVTaj Gibson CHI 11/22/2016 CHI @ DEN L 35 12 6 11 54.5 0 0 - 0 0 - 5 6 11 4 0 0 0 3 12
+p309
+aVNikola Mirotic CHI 11/22/2016 CHI @ DEN L 22 11 4 10 40.0 1 2 50.0 2 4 50.0 0 3 3 1 1 1 2 2 -9
+p310
+aVDenzel Valentine CHI 11/22/2016 CHI @ DEN L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -9
+p311
+aVRobin Lopez CHI 11/22/2016 CHI @ DEN L 35 12 6 12 50.0 0 0 - 0 0 - 4 4 8 1 1 6 0 2 1
+p312
+aVIsaiah Canaan CHI 11/22/2016 CHI @ DEN L 18 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 0 2 0 0 1 -22
+p313
+aVDwyane Wade CHI 11/22/2016 CHI @ DEN L 35 22 9 21 42.9 2 4 50.0 2 2 100.0 1 2 3 2 1 1 0 3 0
+p314
+aVJimmy Butler CHI 11/22/2016 CHI @ DEN L 39 35 11 20 55.0 2 4 50.0 11 12 91.7 0 7 7 5 0 2 1 3 18
+p315
+aVRajon Rondo CHI 11/22/2016 CHI @ DEN L 33 13 6 11 54.5 1 2 50.0 0 0 - 0 11 11 8 1 1 3 3 3
+p316
+aVBobby Portis CHI 11/22/2016 CHI @ DEN L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -9
+p317
+aVNikola Mirotic CHI 11/20/2016 CHI @ LAL W 37 15 4 9 44.4 3 8 37.5 4 8 50.0 2 13 15 2 0 0 1 2 15
+p318
+aVCristiano Felicio CHI 11/20/2016 CHI @ LAL W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -8
+p319
+aVIsaiah Canaan CHI 11/20/2016 CHI @ LAL W 31 17 6 10 60.0 3 6 50.0 2 2 100.0 0 2 2 0 2 0 3 0 10
+p320
+aVBobby Portis CHI 11/20/2016 CHI @ LAL W 11 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -13
+p321
+aVJimmy Butler CHI 11/20/2016 CHI @ LAL W 40 40 14 23 60.9 0 1 0.0 12 14 85.7 4 3 7 6 1 0 1 1 14
+p322
+aVTaj Gibson CHI 11/20/2016 CHI @ LAL W 32 15 7 12 58.3 0 0 - 1 3 33.3 3 4 7 3 1 1 6 5 10
+p323
+aVRajon Rondo CHI 11/20/2016 CHI @ LAL W 36 4 2 9 22.2 0 1 0.0 0 0 - 1 8 9 12 1 0 3 2 15
+p324
+aVDenzel Valentine CHI 11/20/2016 CHI @ LAL W 18 8 3 7 42.9 2 5 40.0 0 0 - 0 2 2 0 1 0 1 3 1
+p325
+aVJerian Grant CHI 11/20/2016 CHI @ LAL W 5 1 0 0 - 0 0 - 1 1 100.0 0 0 0 2 0 0 0 0 -16
+p326
+aVRobin Lopez CHI 11/20/2016 CHI @ LAL W 28 12 6 11 54.5 0 0 - 0 0 - 4 7 11 2 0 2 0 0 12
+p327
+aVRajon Rondo CHI 11/19/2016 CHI @ LAC L 35 9 4 7 57.1 1 3 33.3 0 0 - 4 6 10 8 2 0 3 3 -16
+p328
+aVDenzel Valentine CHI 11/19/2016 CHI @ LAC L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p329
+aVBobby Portis CHI 11/19/2016 CHI @ LAC L 20 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -3
+p330
+aVNikola Mirotic CHI 11/19/2016 CHI @ LAC L 16 2 1 7 14.3 0 5 0.0 0 0 - 0 1 1 0 1 1 0 0 7
+p331
+aVIsaiah Canaan CHI 11/19/2016 CHI @ LAC L 17 8 2 5 40.0 1 4 25.0 3 4 75.0 0 0 0 2 0 0 0 4 0
+p332
+aVJimmy Butler CHI 11/19/2016 CHI @ LAC L 38 22 5 18 27.8 1 5 20.0 11 12 91.7 3 3 6 1 1 0 2 1 -8
+p333
+aVDwyane Wade CHI 11/19/2016 CHI @ LAC L 36 28 9 20 45.0 5 9 55.6 5 6 83.3 3 5 8 3 1 2 3 2 -2
+p334
+aVTaj Gibson CHI 11/19/2016 CHI @ LAC L 32 11 5 8 62.5 0 0 - 1 2 50.0 0 4 4 2 0 1 2 2 -14
+p335
+aVJerian Grant CHI 11/19/2016 CHI @ LAC L 15 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 1 2 0 0 1 9
+p336
+aVRobin Lopez CHI 11/19/2016 CHI @ LAC L 26 10 5 6 83.3 0 0 - 0 0 - 3 3 6 0 1 0 0 3 2
+p337
+aVCristiano Felicio CHI 11/19/2016 CHI @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p338
+aVTaj Gibson CHI 11/17/2016 CHI @ UTA W 27 8 3 7 42.9 0 0 - 2 2 100.0 4 5 9 0 0 1 2 2 4
+p339
+aVDenzel Valentine CHI 11/17/2016 CHI @ UTA W 15 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 3 6
+p340
+aVIsaiah Canaan CHI 11/17/2016 CHI @ UTA W 26 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 0 1 0 2 2 7
+p341
+aVNikola Mirotic CHI 11/17/2016 CHI @ UTA W 21 7 3 6 50.0 1 3 33.3 0 0 - 0 3 3 1 2 1 1 1 4
+p342
+aVDwyane Wade CHI 11/17/2016 CHI @ UTA W 33 18 7 17 41.2 0 2 0.0 4 4 100.0 1 1 2 1 0 1 1 2 14
+p343
+aVBobby Portis CHI 11/17/2016 CHI @ UTA W 10 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 1 0 1 0 1 9
+p344
+aVJerian Grant CHI 11/17/2016 CHI @ UTA W 29 6 2 10 20.0 0 2 0.0 2 2 100.0 0 5 5 1 2 0 1 3 -1
+p345
+aVJimmy Butler CHI 11/17/2016 CHI @ UTA W 41 20 7 19 36.8 2 4 50.0 4 6 66.7 2 10 12 3 2 0 1 0 -2
+p346
+aVRobin Lopez CHI 11/17/2016 CHI @ UTA W 38 10 5 16 31.3 0 0 - 0 0 - 7 5 12 0 0 2 0 2 -1
+p347
+aVNikola Mirotic CHI 11/15/2016 CHI @ POR W 19 8 3 6 50.0 2 5 40.0 0 0 - 0 8 8 0 0 0 1 0 2
+p348
+aVJerian Grant CHI 11/15/2016 CHI @ POR W 30 18 6 13 46.2 2 5 40.0 4 4 100.0 0 3 3 2 5 0 0 2 22
+p349
+aVDwyane Wade CHI 11/15/2016 CHI @ POR W 31 19 8 18 44.4 0 0 - 3 5 60.0 2 3 5 5 2 0 1 2 19
+p350
+aVIsaiah Canaan CHI 11/15/2016 CHI @ POR W 24 8 2 6 33.3 1 4 25.0 3 3 100.0 0 1 1 0 0 0 0 3 8
+p351
+aVCristiano Felicio CHI 11/15/2016 CHI @ POR W 4 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 -1
+p352
+aVRJ Hunter CHI 11/15/2016 CHI @ POR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p353
+aVBobby Portis CHI 11/15/2016 CHI @ POR W 14 6 2 5 40.0 1 1 100.0 1 2 50.0 3 3 6 1 0 0 2 2 -1
+p354
+aVTaj Gibson CHI 11/15/2016 CHI @ POR W 30 12 4 9 44.4 0 0 - 4 5 80.0 5 6 11 0 0 3 2 1 23
+p355
+aVJimmy Butler CHI 11/15/2016 CHI @ POR W 34 27 9 16 56.3 1 1 100.0 8 8 100.0 3 9 12 5 0 0 4 2 25
+p356
+aVPaul Zipser CHI 11/15/2016 CHI @ POR W 4 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p357
+aVDenzel Valentine CHI 11/15/2016 CHI @ POR W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 3 0
+p358
+aVRobin Lopez CHI 11/15/2016 CHI @ POR W 29 13 6 15 40.0 0 1 0.0 1 1 100.0 3 8 11 1 0 1 0 2 27
+p359
+aVJerian Grant CHI 11/12/2016 CHI vs. WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p360
+aVJimmy Butler CHI 11/12/2016 CHI vs. WAS W 38 37 11 23 47.8 1 3 33.3 14 14 100.0 2 6 8 9 3 0 2 2 16
+p361
+aVDwyane Wade CHI 11/12/2016 CHI vs. WAS W 30 14 5 17 29.4 0 2 0.0 4 4 100.0 2 0 2 2 1 1 2 2 1
+p362
+aVIsaiah Canaan CHI 11/12/2016 CHI vs. WAS W 27 8 3 7 42.9 1 5 20.0 1 1 100.0 0 2 2 0 0 0 0 2 6
+p363
+aVTaj Gibson CHI 11/12/2016 CHI vs. WAS W 29 13 6 10 60.0 0 0 - 1 3 33.3 2 3 5 1 1 1 1 2 6
+p364
+aVDoug McDermott CHI 11/12/2016 CHI vs. WAS W 18 5 2 6 33.3 0 1 0.0 1 1 100.0 0 1 1 2 0 0 1 0 11
+p365
+aVRajon Rondo CHI 11/12/2016 CHI vs. WAS W 25 0 0 6 0.0 0 0 - 0 0 - 1 6 7 5 0 0 2 5 -1
+p366
+aVBobby Portis CHI 11/12/2016 CHI vs. WAS W 6 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -4
+p367
+aVRobin Lopez CHI 11/12/2016 CHI vs. WAS W 38 10 5 16 31.3 0 0 - 0 0 - 6 7 13 1 0 2 2 3 4
+p368
+aVNikola Mirotic CHI 11/12/2016 CHI vs. WAS W 23 17 6 7 85.7 3 4 75.0 2 2 100.0 1 10 11 1 2 2 0 3 16
+p369
+aVIsaiah Canaan CHI 11/10/2016 CHI @ MIA W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p370
+aVDwyane Wade CHI 11/10/2016 CHI @ MIA W 32 13 5 17 29.4 0 4 0.0 3 3 100.0 1 6 7 4 1 0 3 1 7
+p371
+aVRobin Lopez CHI 11/10/2016 CHI @ MIA W 38 16 8 20 40.0 0 0 - 0 0 - 7 2 9 0 0 1 1 3 -3
+p372
+aVJimmy Butler CHI 11/10/2016 CHI @ MIA W 38 20 5 11 45.5 1 2 50.0 9 10 90.0 1 3 4 5 3 0 2 1 -1
+p373
+aVTaj Gibson CHI 11/10/2016 CHI @ MIA W 23 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 0 1 2 1 -8
+p374
+aVDoug McDermott CHI 11/10/2016 CHI @ MIA W 32 13 5 11 45.5 2 5 40.0 1 1 100.0 0 4 4 1 1 0 1 2 5
+p375
+aVBobby Portis CHI 11/10/2016 CHI @ MIA W 10 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 7
+p376
+aVRajon Rondo CHI 11/10/2016 CHI @ MIA W 37 16 6 14 42.9 1 1 100.0 3 4 75.0 1 11 12 6 2 0 1 0 6
+p377
+aVNikola Mirotic CHI 11/10/2016 CHI @ MIA W 22 10 3 7 42.9 2 3 66.7 2 2 100.0 1 4 5 1 0 0 0 3 10
+p378
+aVJimmy Butler CHI 11/09/2016 CHI @ ATL L 39 39 13 24 54.2 4 9 44.4 9 12 75.0 1 3 4 7 6 0 4 1 8
+p379
+aVDoug McDermott CHI 11/09/2016 CHI @ ATL L 19 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -15
+p380
+aVBobby Portis CHI 11/09/2016 CHI @ ATL L 14 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 1 0 1 4 -9
+p381
+aVNikola Mirotic CHI 11/09/2016 CHI @ ATL L 11 2 0 3 0.0 0 3 0.0 2 2 100.0 0 1 1 1 0 0 2 1 -14
+p382
+aVRobin Lopez CHI 11/09/2016 CHI @ ATL L 30 6 3 4 75.0 0 0 - 0 0 - 1 4 5 1 0 0 0 3 4
+p383
+aVTaj Gibson CHI 11/09/2016 CHI @ ATL L 37 13 6 15 40.0 0 0 - 1 1 100.0 3 4 7 1 1 2 0 2 1
+p384
+aVDwyane Wade CHI 11/09/2016 CHI @ ATL L 34 25 10 17 58.8 2 5 40.0 3 4 75.0 2 1 3 3 5 0 3 1 -6
+p385
+aVIsaiah Canaan CHI 11/09/2016 CHI @ ATL L 22 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 2 0 1 1 2 -15
+p386
+aVRajon Rondo CHI 11/09/2016 CHI @ ATL L 34 6 2 10 20.0 1 4 25.0 1 2 50.0 1 4 5 7 1 0 2 4 6
+p387
+aVIsaiah Canaan CHI 11/07/2016 CHI vs. ORL W 21 10 3 6 50.0 1 3 33.3 3 4 75.0 0 4 4 0 0 0 0 1 17
+p388
+aVJimmy Butler CHI 11/07/2016 CHI vs. ORL W 31 20 5 13 38.5 0 2 0.0 10 10 100.0 2 3 5 7 4 0 3 0 24
+p389
+aVPaul Zipser CHI 11/07/2016 CHI vs. ORL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 3
+p390
+aVJerian Grant CHI 11/07/2016 CHI vs. ORL W 8 2 1 6 16.7 0 2 0.0 0 0 - 1 2 3 2 0 0 0 1 4
+p391
+aVRobin Lopez CHI 11/07/2016 CHI vs. ORL W 24 8 4 7 57.1 0 0 - 0 0 - 3 4 7 0 0 1 0 2 6
+p392
+aVBobby Portis CHI 11/07/2016 CHI vs. ORL W 17 9 3 4 75.0 0 0 - 3 4 75.0 3 3 6 2 0 0 1 0 15
+p393
+aVTaj Gibson CHI 11/07/2016 CHI vs. ORL W 28 16 7 13 53.8 0 0 - 2 2 100.0 2 9 11 3 0 0 0 2 25
+p394
+aVDoug McDermott CHI 11/07/2016 CHI vs. ORL W 25 11 5 8 62.5 0 2 0.0 1 1 100.0 0 4 4 1 0 0 0 0 22
+p395
+aVRajon Rondo CHI 11/07/2016 CHI vs. ORL W 22 9 3 7 42.9 0 0 - 3 6 50.0 1 2 3 6 1 1 1 1 2
+p396
+aVCristiano Felicio CHI 11/07/2016 CHI vs. ORL W 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 3
+p397
+aVDenzel Valentine CHI 11/07/2016 CHI vs. ORL W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p398
+aVNikola Mirotic CHI 11/07/2016 CHI vs. ORL W 21 6 2 9 22.2 1 6 16.7 1 2 50.0 1 3 4 0 0 0 1 0 15
+p399
+aVDwyane Wade CHI 11/07/2016 CHI vs. ORL W 25 16 7 12 58.3 0 2 0.0 2 2 100.0 1 2 3 4 2 2 1 3 21
+p400
+aVDenzel Valentine CHI 11/05/2016 CHI @ IND L 8 4 1 3 33.3 1 2 50.0 1 2 50.0 1 1 2 1 0 0 0 2 9
+p401
+aVRajon Rondo CHI 11/05/2016 CHI @ IND L 29 9 4 11 36.4 1 2 50.0 0 0 - 0 1 1 5 1 0 4 1 -8
+p402
+aVNikola Mirotic CHI 11/05/2016 CHI @ IND L 13 0 0 6 0.0 0 4 0.0 0 0 - 0 0 0 1 0 0 0 1 -15
+p403
+aVBobby Portis CHI 11/05/2016 CHI @ IND L 18 16 7 9 77.8 1 1 100.0 1 3 33.3 2 3 5 1 0 0 0 1 3
+p404
+aVJimmy Butler CHI 11/05/2016 CHI @ IND L 32 16 5 7 71.4 1 1 100.0 5 6 83.3 0 4 4 2 0 0 6 3 -18
+p405
+aVIsaiah Canaan CHI 11/05/2016 CHI @ IND L 14 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 2 0 1 0 -20
+p406
+aVRobin Lopez CHI 11/05/2016 CHI @ IND L 27 12 6 8 75.0 0 0 - 0 0 - 3 4 7 0 0 2 1 1 -9
+p407
+aVTaj Gibson CHI 11/05/2016 CHI @ IND L 25 9 4 8 50.0 0 0 - 1 1 100.0 5 5 10 1 1 2 2 1 -12
+p408
+aVCristiano Felicio CHI 11/05/2016 CHI @ IND L 13 2 1 3 33.3 0 0 - 0 0 - 2 1 3 2 1 0 0 0 -1
+p409
+aVPaul Zipser CHI 11/05/2016 CHI @ IND L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 9
+p410
+aVDoug McDermott CHI 11/05/2016 CHI @ IND L 21 12 3 7 42.9 1 2 50.0 5 6 83.3 0 4 4 0 0 0 0 1 -17
+p411
+aVJerian Grant CHI 11/05/2016 CHI @ IND L 12 8 2 7 28.6 1 3 33.3 3 3 100.0 0 2 2 2 2 1 0 0 7
+p412
+aVDwyane Wade CHI 11/05/2016 CHI @ IND L 22 4 1 9 11.1 0 2 0.0 2 2 100.0 0 1 1 0 1 0 2 2 -13
+p413
+aVTaj Gibson CHI 11/04/2016 CHI vs. NYK L 31 8 4 7 57.1 0 0 - 0 2 0.0 4 2 6 1 1 1 1 3 -11
+p414
+aVIsaiah Canaan CHI 11/04/2016 CHI vs. NYK L 14 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p415
+aVRajon Rondo CHI 11/04/2016 CHI vs. NYK L 30 4 2 10 20.0 0 2 0.0 0 0 - 1 4 5 5 1 0 2 2 -16
+p416
+aVCristiano Felicio CHI 11/04/2016 CHI vs. NYK L 9 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 10
+p417
+aVNikola Mirotic CHI 11/04/2016 CHI vs. NYK L 21 14 4 10 40.0 2 6 33.3 4 4 100.0 0 6 6 0 0 1 2 2 -4
+p418
+aVJimmy Butler CHI 11/04/2016 CHI vs. NYK L 37 26 7 15 46.7 1 4 25.0 11 11 100.0 2 3 5 2 1 0 2 0 -8
+p419
+aVDwyane Wade CHI 11/04/2016 CHI vs. NYK L 33 35 12 20 60.0 5 7 71.4 6 8 75.0 2 8 10 1 0 0 3 3 -23
+p420
+aVDoug McDermott CHI 11/04/2016 CHI vs. NYK L 26 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 1 1 0 1 0 -2
+p421
+aVDenzel Valentine CHI 11/04/2016 CHI vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p422
+aVJerian Grant CHI 11/04/2016 CHI vs. NYK L 6 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p423
+aVBobby Portis CHI 11/04/2016 CHI vs. NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p424
+aVRobin Lopez CHI 11/04/2016 CHI vs. NYK L 29 5 2 6 33.3 0 0 - 1 2 50.0 4 2 6 1 0 2 1 2 -7
+p425
+aVTaj Gibson CHI 11/02/2016 CHI @ BOS L 26 8 3 12 25.0 0 0 - 2 3 66.7 5 4 9 3 2 2 4 2 -8
+p426
+aVDenzel Valentine CHI 11/02/2016 CHI @ BOS L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p427
+aVJimmy Butler CHI 11/02/2016 CHI @ BOS L 36 23 8 21 38.1 2 5 40.0 5 5 100.0 2 7 9 2 0 0 2 5 -6
+p428
+aVNikola Mirotic CHI 11/02/2016 CHI @ BOS L 35 17 3 6 50.0 3 6 50.0 8 11 72.7 0 6 6 1 0 1 2 1 6
+p429
+aVCristiano Felicio CHI 11/02/2016 CHI @ BOS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -5
+p430
+aVJerian Grant CHI 11/02/2016 CHI @ BOS L 13 6 3 3 100.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 10
+p431
+aVRobin Lopez CHI 11/02/2016 CHI @ BOS L 14 8 3 6 50.0 0 0 - 2 4 50.0 3 2 5 0 0 2 2 1 -14
+p432
+aVDwyane Wade CHI 11/02/2016 CHI @ BOS L 35 15 5 13 38.5 0 3 0.0 5 6 83.3 0 1 1 4 2 0 0 0 -10
+p433
+aVRajon Rondo CHI 11/02/2016 CHI @ BOS L 34 12 6 11 54.5 0 2 0.0 0 0 - 2 7 9 5 1 1 4 3 -11
+p434
+aVBobby Portis CHI 11/02/2016 CHI @ BOS L 11 4 2 2 100.0 0 0 - 0 0 - 3 4 7 0 0 1 1 2 7
+p435
+aVIsaiah Canaan CHI 11/02/2016 CHI @ BOS L 19 4 1 4 25.0 1 3 33.3 1 2 50.0 0 0 0 3 1 0 1 2 -1
+p436
+aVDoug McDermott CHI 10/31/2016 CHI @ BKN W 24 12 4 10 40.0 0 3 0.0 4 4 100.0 0 3 3 3 0 0 1 2 21
+p437
+aVIsaiah Canaan CHI 10/31/2016 CHI @ BKN W 22 15 5 7 71.4 3 4 75.0 2 2 100.0 1 2 3 6 1 0 0 2 8
+p438
+aVNikola Mirotic CHI 10/31/2016 CHI @ BKN W 25 16 6 14 42.9 4 10 40.0 0 0 - 1 9 10 3 0 3 3 1 19
+p439
+aVCristiano Felicio CHI 10/31/2016 CHI @ BKN W 23 4 2 4 50.0 0 0 - 0 0 - 2 5 7 1 0 0 1 3 8
+p440
+aVJimmy Butler CHI 10/31/2016 CHI @ BKN W 27 22 6 10 60.0 2 3 66.7 8 9 88.9 1 5 6 2 0 0 1 3 24
+p441
+aVBobby Portis CHI 10/31/2016 CHI @ BKN W 4 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -3
+p442
+aVRobin Lopez CHI 10/31/2016 CHI @ BKN W 19 4 1 5 20.0 0 0 - 2 2 100.0 2 3 5 2 0 2 0 1 12
+p443
+aVMichael Carter-Williams CHI 10/31/2016 CHI @ BKN W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 2 1 2
+p444
+aVRajon Rondo CHI 10/31/2016 CHI @ BKN W 25 10 5 8 62.5 0 1 0.0 0 0 - 1 3 4 4 2 1 3 2 22
+p445
+aVTaj Gibson CHI 10/31/2016 CHI @ BKN W 25 14 7 9 77.8 0 0 - 0 0 - 2 9 11 0 1 1 2 3 24
+p446
+aVDenzel Valentine CHI 10/31/2016 CHI @ BKN W 7 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 1 0 1 5
+p447
+aVPaul Zipser CHI 10/31/2016 CHI @ BKN W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 -3
+p448
+aVDwyane Wade CHI 10/31/2016 CHI @ BKN W 29 12 5 13 38.5 1 3 33.3 1 1 100.0 0 3 3 4 3 1 5 3 11
+p449
+aVDwyane Wade CHI 10/29/2016 CHI vs. IND W 21 14 4 7 57.1 0 0 - 6 6 100.0 2 3 5 2 2 0 0 1 16
+p450
+aVPaul Zipser CHI 10/29/2016 CHI vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p451
+aVDoug McDermott CHI 10/29/2016 CHI vs. IND W 27 23 9 14 64.3 5 6 83.3 0 0 - 0 4 4 3 1 1 1 2 8
+p452
+aVBobby Portis CHI 10/29/2016 CHI vs. IND W 7 2 1 4 25.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -7
+p453
+aVIsaiah Canaan CHI 10/29/2016 CHI vs. IND W 14 11 4 6 66.7 3 5 60.0 0 0 - 0 0 0 2 1 0 0 1 3
+p454
+aVMichael Carter-Williams CHI 10/29/2016 CHI vs. IND W 23 7 2 8 25.0 0 1 0.0 3 4 75.0 0 1 1 5 1 2 4 2 5
+p455
+aVRajon Rondo CHI 10/29/2016 CHI vs. IND W 25 6 2 5 40.0 0 2 0.0 2 2 100.0 1 2 3 13 1 0 4 0 12
+p456
+aVTaj Gibson CHI 10/29/2016 CHI vs. IND W 25 12 6 11 54.5 0 0 - 0 0 - 0 8 8 1 1 0 0 1 12
+p457
+aVRobin Lopez CHI 10/29/2016 CHI vs. IND W 19 12 5 7 71.4 0 0 - 2 2 100.0 2 4 6 2 0 2 0 3 6
+p458
+aVNikola Mirotic CHI 10/29/2016 CHI vs. IND W 26 8 3 9 33.3 1 4 25.0 1 1 100.0 1 2 3 2 0 1 0 0 18
+p459
+aVDenzel Valentine CHI 10/29/2016 CHI vs. IND W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -4
+p460
+aVJimmy Butler CHI 10/29/2016 CHI vs. IND W 26 16 6 9 66.7 0 2 0.0 4 4 100.0 2 3 5 3 1 0 0 2 11
+p461
+aVCristiano Felicio CHI 10/29/2016 CHI vs. IND W 20 7 3 5 60.0 0 0 - 1 2 50.0 3 5 8 0 0 0 1 2 5
+p462
+aVNikola Mirotic CHI 10/27/2016 CHI vs. BOS W 29 15 6 11 54.5 1 6 16.7 2 2 100.0 2 7 9 1 0 0 3 3 -1
+p463
+aVIsaiah Canaan CHI 10/27/2016 CHI vs. BOS W 7 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 1 1 0 0 0 -2
+p464
+aVCristiano Felicio CHI 10/27/2016 CHI vs. BOS W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -7
+p465
+aVMichael Carter-Williams CHI 10/27/2016 CHI vs. BOS W 17 5 2 6 33.3 1 1 100.0 0 0 - 3 3 6 3 0 0 0 3 3
+p466
+aVJimmy Butler CHI 10/27/2016 CHI vs. BOS W 37 24 6 17 35.3 4 6 66.7 8 12 66.7 3 4 7 3 2 0 0 2 8
+p467
+aVDoug McDermott CHI 10/27/2016 CHI vs. BOS W 22 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 1 2 -5
+p468
+aVTaj Gibson CHI 10/27/2016 CHI vs. BOS W 28 18 8 13 61.5 0 0 - 2 2 100.0 2 8 10 1 0 0 2 2 11
+p469
+aVRajon Rondo CHI 10/27/2016 CHI vs. BOS W 33 4 1 9 11.1 1 2 50.0 1 2 50.0 0 6 6 9 2 0 2 1 3
+p470
+aVRobin Lopez CHI 10/27/2016 CHI vs. BOS W 27 8 3 8 37.5 0 0 - 2 4 50.0 6 2 8 1 0 0 1 2 5
+p471
+aVDwyane Wade CHI 10/27/2016 CHI vs. BOS W 32 22 7 18 38.9 4 6 66.7 4 4 100.0 2 4 6 5 0 1 3 4 15
+p472
+a.

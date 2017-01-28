@@ -1,0 +1,1584 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKendall Gill SEA 04/23/1995 SEA @ PHX L 27 14 4 10 40.0 0 1 0.0 6 6 100.0 1 2 3 3 2 1 3 1 -
+p2
+aVSarunas Marciulionis SEA 04/23/1995 SEA @ PHX L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -
+p3
+aVDetlef Schrempf SEA 04/23/1995 SEA @ PHX L 37 18 6 17 35.3 1 6 16.7 5 5 100.0 2 4 6 2 0 0 0 2 -
+p4
+aVNate McMillan SEA 04/23/1995 SEA @ PHX L 26 3 1 5 20.0 1 3 33.3 0 2 0.0 1 5 6 4 0 1 2 6 -
+p5
+aVSam Perkins SEA 04/23/1995 SEA @ PHX L 28 16 6 9 66.7 3 5 60.0 1 2 50.0 1 3 4 1 1 3 1 2 -
+p6
+aVErvin Johnson SEA 04/23/1995 SEA @ PHX L 16 1 0 3 0.0 0 0 - 1 2 50.0 2 8 10 0 0 1 1 1 -
+p7
+aVVincent Askew SEA 04/23/1995 SEA @ PHX L 22 9 3 8 37.5 0 0 - 3 4 75.0 2 4 6 4 0 0 0 2 -
+p8
+aVSteve Scheffler SEA 04/23/1995 SEA @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p9
+aVGary Payton SEA 04/23/1995 SEA @ PHX L 35 17 8 16 50.0 0 3 0.0 1 2 50.0 1 1 2 5 2 0 3 3 -
+p10
+aVByron Houston SEA 04/23/1995 SEA @ PHX L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p11
+aVShawn Kemp SEA 04/23/1995 SEA @ PHX L 37 14 4 12 33.3 0 0 - 6 10 60.0 6 7 13 5 1 0 2 2 -
+p12
+aVNate McMillan SEA 04/21/1995 SEA @ SAC L 23 2 1 3 33.3 0 2 0.0 0 1 0.0 2 1 3 2 3 0 3 5 -
+p13
+aVShawn Kemp SEA 04/21/1995 SEA @ SAC L 37 24 11 18 61.1 0 0 - 2 2 100.0 4 3 7 3 1 3 1 5 -
+p14
+aVSarunas Marciulionis SEA 04/21/1995 SEA @ SAC L 7 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 1 0 0 1 -
+p15
+aVVincent Askew SEA 04/21/1995 SEA @ SAC L 21 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 1 1 0 3 4 -
+p16
+aVGary Payton SEA 04/21/1995 SEA @ SAC L 41 17 7 11 63.6 1 2 50.0 2 5 40.0 0 1 1 5 1 0 1 5 -
+p17
+aVErvin Johnson SEA 04/21/1995 SEA @ SAC L 11 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 3 3 -
+p18
+aVDetlef Schrempf SEA 04/21/1995 SEA @ SAC L 42 26 8 18 44.4 3 4 75.0 7 8 87.5 2 4 6 10 2 0 1 4 -
+p19
+aVKendall Gill SEA 04/21/1995 SEA @ SAC L 27 5 2 8 25.0 0 0 - 1 2 50.0 0 5 5 4 1 0 0 4 -
+p20
+aVSam Perkins SEA 04/21/1995 SEA @ SAC L 31 12 4 8 50.0 2 5 40.0 2 2 100.0 2 4 6 0 1 2 3 2 -
+p21
+aVSteve Scheffler SEA 04/20/1995 SEA vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p22
+aVShawn Kemp SEA 04/20/1995 SEA vs. HOU W 29 8 2 9 22.2 0 0 - 4 6 66.7 5 8 13 2 1 1 0 3 -
+p23
+aVErvin Johnson SEA 04/20/1995 SEA vs. HOU W 21 5 1 3 33.3 0 0 - 3 4 75.0 3 5 8 0 1 4 2 4 -
+p24
+aVGary Payton SEA 04/20/1995 SEA vs. HOU W 38 25 9 19 47.4 1 4 25.0 6 6 100.0 1 4 5 7 2 0 2 3 -
+p25
+aVByron Houston SEA 04/20/1995 SEA vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p26
+aVNate McMillan SEA 04/20/1995 SEA vs. HOU W 23 4 1 5 20.0 0 0 - 2 4 50.0 1 3 4 5 3 1 1 1 -
+p27
+aVVincent Askew SEA 04/20/1995 SEA vs. HOU W 28 14 4 9 44.4 0 2 0.0 6 6 100.0 1 1 2 3 1 0 2 3 -
+p28
+aVKendall Gill SEA 04/20/1995 SEA vs. HOU W 29 9 3 12 25.0 0 4 0.0 3 6 50.0 2 3 5 3 3 0 3 3 -
+p29
+aVSam Perkins SEA 04/20/1995 SEA vs. HOU W 31 18 7 13 53.8 2 5 40.0 2 2 100.0 3 5 8 1 0 1 1 2 -
+p30
+aVSarunas Marciulionis SEA 04/20/1995 SEA vs. HOU W 10 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -
+p31
+aVDetlef Schrempf SEA 04/20/1995 SEA vs. HOU W 29 21 7 12 58.3 1 3 33.3 6 7 85.7 2 7 9 0 1 0 3 2 -
+p32
+aVGary Payton SEA 04/18/1995 SEA @ LAL W 33 28 12 17 70.6 2 6 33.3 2 5 40.0 1 3 4 7 2 0 1 1 -
+p33
+aVNate McMillan SEA 04/18/1995 SEA @ LAL W 36 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 13 1 0 2 2 -
+p34
+aVShawn Kemp SEA 04/18/1995 SEA @ LAL W 28 18 6 8 75.0 0 0 - 6 8 75.0 2 12 14 2 3 3 3 4 -
+p35
+aVKendall Gill SEA 04/18/1995 SEA @ LAL W 27 10 5 13 38.5 0 1 0.0 0 0 - 0 5 5 3 0 1 3 1 -
+p36
+aVErvin Johnson SEA 04/18/1995 SEA @ LAL W 27 8 4 7 57.1 0 0 - 0 0 - 5 9 14 2 0 3 0 3 -
+p37
+aVByron Houston SEA 04/18/1995 SEA @ LAL W 8 7 3 5 60.0 0 1 0.0 1 2 50.0 1 1 2 0 1 0 0 3 -
+p38
+aVBill Cartwright SEA 04/18/1995 SEA @ LAL W 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p39
+aVSam Perkins SEA 04/18/1995 SEA @ LAL W 20 10 4 5 80.0 2 2 100.0 0 0 - 0 0 0 2 2 3 0 0 -
+p40
+aVSteve Scheffler SEA 04/18/1995 SEA @ LAL W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p41
+aVDetlef Schrempf SEA 04/18/1995 SEA @ LAL W 21 14 5 10 50.0 0 2 0.0 4 4 100.0 0 3 3 3 0 0 1 1 -
+p42
+aVVincent Askew SEA 04/18/1995 SEA @ LAL W 25 7 2 5 40.0 0 2 0.0 3 6 50.0 1 1 2 3 0 0 4 2 -
+p43
+aVGary Payton SEA 04/17/1995 SEA vs. POR L 39 12 6 18 33.3 0 1 0.0 0 0 - 1 2 3 6 3 0 2 4 -
+p44
+aVNate McMillan SEA 04/17/1995 SEA vs. POR L 29 7 2 5 40.0 1 2 50.0 2 2 100.0 1 3 4 5 1 1 5 4 -
+p45
+aVKendall Gill SEA 04/17/1995 SEA vs. POR L 21 10 4 10 40.0 1 2 50.0 1 2 50.0 0 5 5 3 1 0 1 0 -
+p46
+aVShawn Kemp SEA 04/17/1995 SEA vs. POR L 33 18 6 11 54.5 0 0 - 6 10 60.0 1 6 7 0 0 1 4 6 -
+p47
+aVVincent Askew SEA 04/17/1995 SEA vs. POR L 19 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 2 0 0 5 -
+p48
+aVDetlef Schrempf SEA 04/17/1995 SEA vs. POR L 41 25 8 16 50.0 1 4 25.0 8 9 88.9 1 4 5 5 1 0 2 3 -
+p49
+aVErvin Johnson SEA 04/17/1995 SEA vs. POR L 27 3 1 5 20.0 0 0 - 1 2 50.0 4 3 7 1 0 1 0 5 -
+p50
+aVSam Perkins SEA 04/17/1995 SEA vs. POR L 31 16 6 9 66.7 4 5 80.0 0 0 - 1 3 4 2 1 0 3 3 -
+p51
+aVVincent Askew SEA 04/15/1995 SEA @ GOS W 32 12 5 7 71.4 0 1 0.0 2 5 40.0 1 1 2 2 0 0 1 2 -
+p52
+aVGary Payton SEA 04/15/1995 SEA @ GOS W 34 24 11 20 55.0 0 0 - 2 3 66.7 3 1 4 10 2 0 1 3 -
+p53
+aVErvin Johnson SEA 04/15/1995 SEA @ GOS W 19 6 3 8 37.5 0 0 - 0 0 - 4 6 10 1 0 3 2 2 -
+p54
+aVByron Houston SEA 04/15/1995 SEA @ GOS W 2 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p55
+aVDetlef Schrempf SEA 04/15/1995 SEA @ GOS W 40 23 9 14 64.3 1 3 33.3 4 4 100.0 3 8 11 2 2 0 0 3 -
+p56
+aVShawn Kemp SEA 04/15/1995 SEA @ GOS W 24 14 6 15 40.0 0 0 - 2 3 66.7 9 4 13 2 3 1 4 5 -
+p57
+aVSam Perkins SEA 04/15/1995 SEA @ GOS W 31 16 5 11 45.5 1 5 20.0 5 6 83.3 2 4 6 1 2 0 1 2 -
+p58
+aVSteve Scheffler SEA 04/15/1995 SEA @ GOS W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p59
+aVKendall Gill SEA 04/15/1995 SEA @ GOS W 23 10 4 10 40.0 0 1 0.0 2 2 100.0 1 2 3 3 1 1 2 3 -
+p60
+aVNate McMillan SEA 04/15/1995 SEA @ GOS W 34 8 4 13 30.8 0 2 0.0 0 2 0.0 1 3 4 7 6 1 2 4 -
+p61
+aVGary Payton SEA 04/13/1995 SEA vs. DAL W 24 24 11 18 61.1 1 2 50.0 1 2 50.0 0 5 5 4 7 0 1 1 -
+p62
+aVDontonio Wingfield SEA 04/13/1995 SEA vs. DAL W 6 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 0 0 1 1 1 -
+p63
+aVShawn Kemp SEA 04/13/1995 SEA vs. DAL W 34 18 6 14 42.9 0 0 - 6 9 66.7 6 13 19 3 1 1 4 5 -
+p64
+aVByron Houston SEA 04/13/1995 SEA vs. DAL W 14 10 4 4 100.0 0 0 - 2 2 100.0 0 2 2 0 0 1 2 3 -
+p65
+aVVincent Askew SEA 04/13/1995 SEA vs. DAL W 27 14 6 11 54.5 0 0 - 2 4 50.0 2 3 5 3 1 0 1 1 -
+p66
+aVSteve Scheffler SEA 04/13/1995 SEA vs. DAL W 13 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -
+p67
+aVNate McMillan SEA 04/13/1995 SEA vs. DAL W 32 10 4 6 66.7 0 1 0.0 2 2 100.0 1 3 4 15 1 2 2 2 -
+p68
+aVSam Perkins SEA 04/13/1995 SEA vs. DAL W 31 13 5 12 41.7 1 4 25.0 2 2 100.0 1 3 4 2 2 1 1 0 -
+p69
+aVErvin Johnson SEA 04/13/1995 SEA vs. DAL W 31 10 4 7 57.1 0 0 - 2 3 66.7 1 4 5 0 0 4 2 5 -
+p70
+aVDetlef Schrempf SEA 04/13/1995 SEA vs. DAL W 28 22 8 13 61.5 1 2 50.0 5 6 83.3 1 4 5 1 2 0 1 3 -
+p71
+aVSarunas Marciulionis SEA 04/11/1995 SEA vs. PHX L 17 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -
+p72
+aVNate McMillan SEA 04/11/1995 SEA vs. PHX L 34 0 0 5 0.0 0 3 0.0 0 0 - 1 3 4 4 3 1 0 4 -
+p73
+aVVincent Askew SEA 04/11/1995 SEA vs. PHX L 23 4 1 7 14.3 0 2 0.0 2 2 100.0 0 2 2 4 1 0 1 1 -
+p74
+aVShawn Kemp SEA 04/11/1995 SEA vs. PHX L 41 27 8 18 44.4 0 0 - 11 14 78.6 8 7 15 1 2 3 4 3 -
+p75
+aVDetlef Schrempf SEA 04/11/1995 SEA vs. PHX L 31 5 2 9 22.2 0 2 0.0 1 2 50.0 0 3 3 2 0 0 2 5 -
+p76
+aVSam Perkins SEA 04/11/1995 SEA vs. PHX L 36 24 8 16 50.0 2 6 33.3 6 6 100.0 4 4 8 0 1 0 0 0 -
+p77
+aVErvin Johnson SEA 04/11/1995 SEA vs. PHX L 15 4 2 5 40.0 0 0 - 0 2 0.0 4 4 8 1 0 1 0 2 -
+p78
+aVGary Payton SEA 04/11/1995 SEA vs. PHX L 43 20 9 25 36.0 1 2 50.0 1 3 33.3 4 5 9 6 3 0 4 3 -
+p79
+aVNate McMillan SEA 04/08/1995 SEA @ DAL W 31 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 7 5 0 4 4 -
+p80
+aVVincent Askew SEA 04/08/1995 SEA @ DAL W 23 7 3 6 50.0 0 1 0.0 1 1 100.0 0 3 3 4 1 1 2 2 -
+p81
+aVErvin Johnson SEA 04/08/1995 SEA @ DAL W 31 15 5 6 83.3 0 0 - 5 6 83.3 1 11 12 0 1 2 1 5 -
+p82
+aVSteve Scheffler SEA 04/08/1995 SEA @ DAL W 6 3 0 0 - 0 0 - 3 4 75.0 1 0 1 0 0 0 0 1 -
+p83
+aVDontonio Wingfield SEA 04/08/1995 SEA @ DAL W 7 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 1 0 -
+p84
+aVByron Houston SEA 04/08/1995 SEA @ DAL W 11 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -
+p85
+aVGary Payton SEA 04/08/1995 SEA @ DAL W 34 21 10 19 52.6 1 2 50.0 0 0 - 2 1 3 8 4 0 3 3 -
+p86
+aVShawn Kemp SEA 04/08/1995 SEA @ DAL W 30 21 10 13 76.9 0 1 0.0 1 4 25.0 3 9 12 2 1 1 2 2 -
+p87
+aVSam Perkins SEA 04/08/1995 SEA @ DAL W 35 20 7 12 58.3 3 5 60.0 3 5 60.0 2 4 6 3 1 0 1 3 -
+p88
+aVDetlef Schrempf SEA 04/08/1995 SEA @ DAL W 32 22 8 13 61.5 2 3 66.7 4 4 100.0 2 2 4 6 0 0 2 2 -
+p89
+aVShawn Kemp SEA 04/06/1995 SEA @ DEN W 36 21 9 18 50.0 0 0 - 3 5 60.0 8 10 18 3 1 1 3 5 -
+p90
+aVSteve Scheffler SEA 04/06/1995 SEA @ DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p91
+aVGary Payton SEA 04/06/1995 SEA @ DEN W 44 20 6 19 31.6 0 4 0.0 8 12 66.7 0 2 2 4 3 0 4 3 -
+p92
+aVNate McMillan SEA 04/06/1995 SEA @ DEN W 20 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 6 -
+p93
+aVSarunas Marciulionis SEA 04/06/1995 SEA @ DEN W 32 17 6 9 66.7 3 3 100.0 2 4 50.0 0 1 1 2 0 0 2 2 -
+p94
+aVByron Houston SEA 04/06/1995 SEA @ DEN W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p95
+aVSam Perkins SEA 04/06/1995 SEA @ DEN W 32 16 3 8 37.5 1 3 33.3 9 10 90.0 0 8 8 2 0 0 0 1 -
+p96
+aVErvin Johnson SEA 04/06/1995 SEA @ DEN W 25 5 1 6 16.7 0 0 - 3 3 100.0 4 7 11 0 0 5 1 4 -
+p97
+aVDetlef Schrempf SEA 04/06/1995 SEA @ DEN W 42 27 7 13 53.8 3 6 50.0 10 13 76.9 1 7 8 4 3 2 2 2 -
+p98
+aVDontonio Wingfield SEA 04/04/1995 SEA @ UTH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p99
+aVNate McMillan SEA 04/04/1995 SEA @ UTH L 33 5 2 6 33.3 1 3 33.3 0 2 0.0 2 2 4 3 4 0 2 2 -
+p100
+aVSteve Scheffler SEA 04/04/1995 SEA @ UTH L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -
+p101
+aVDetlef Schrempf SEA 04/04/1995 SEA @ UTH L 39 11 2 12 16.7 1 5 20.0 6 7 85.7 4 1 5 4 0 1 2 2 -
+p102
+aVShawn Kemp SEA 04/04/1995 SEA @ UTH L 30 15 6 15 40.0 0 0 - 3 5 60.0 4 5 9 0 1 1 0 4 -
+p103
+aVSam Perkins SEA 04/04/1995 SEA @ UTH L 31 11 3 10 30.0 2 3 66.7 3 4 75.0 2 0 2 2 1 1 1 4 -
+p104
+aVErvin Johnson SEA 04/04/1995 SEA @ UTH L 19 6 3 5 60.0 0 0 - 0 0 - 2 4 6 1 2 3 1 5 -
+p105
+aVGary Payton SEA 04/04/1995 SEA @ UTH L 37 26 12 22 54.5 1 4 25.0 1 2 50.0 1 0 1 6 2 0 1 3 -
+p106
+aVByron Houston SEA 04/04/1995 SEA @ UTH L 16 6 3 7 42.9 0 2 0.0 0 0 - 1 5 6 1 0 0 1 3 -
+p107
+aVSarunas Marciulionis SEA 04/04/1995 SEA @ UTH L 29 12 4 10 40.0 3 8 37.5 1 2 50.0 0 0 0 4 1 0 1 1 -
+p108
+aVByron Houston SEA 04/02/1995 SEA vs. ATL W 3 5 1 3 33.3 1 3 33.3 2 4 50.0 0 0 0 0 0 0 1 1 -
+p109
+aVKendall Gill SEA 04/02/1995 SEA vs. ATL W 29 9 4 14 28.6 1 2 50.0 0 0 - 5 1 6 0 2 1 2 2 -
+p110
+aVDetlef Schrempf SEA 04/02/1995 SEA vs. ATL W 34 16 6 9 66.7 2 3 66.7 2 2 100.0 0 3 3 5 0 0 3 4 -
+p111
+aVNate McMillan SEA 04/02/1995 SEA vs. ATL W 27 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 6 3 1 2 5 -
+p112
+aVErvin Johnson SEA 04/02/1995 SEA vs. ATL W 19 0 0 3 0.0 0 0 - 0 0 - 1 6 7 0 0 0 2 3 -
+p113
+aVGary Payton SEA 04/02/1995 SEA vs. ATL W 39 21 10 21 47.6 0 2 0.0 1 2 50.0 1 2 3 6 4 0 4 2 -
+p114
+aVSteve Scheffler SEA 04/02/1995 SEA vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -
+p115
+aVShawn Kemp SEA 04/02/1995 SEA vs. ATL W 32 21 9 15 60.0 0 0 - 3 4 75.0 4 14 18 4 1 2 3 4 -
+p116
+aVSarunas Marciulionis SEA 04/02/1995 SEA vs. ATL W 31 11 4 7 57.1 2 2 100.0 1 2 50.0 0 1 1 2 2 0 2 4 -
+p117
+aVSam Perkins SEA 04/02/1995 SEA vs. ATL W 24 14 5 7 71.4 3 5 60.0 1 1 100.0 0 6 6 1 1 0 3 1 -
+p118
+aVErvin Johnson SEA 03/31/1995 SEA vs. SAC W 26 4 2 3 66.7 0 0 - 0 0 - 1 7 8 1 0 1 2 4 -
+p119
+aVKendall Gill SEA 03/31/1995 SEA vs. SAC W 30 11 4 9 44.4 1 1 100.0 2 2 100.0 0 4 4 3 1 0 2 2 -
+p120
+aVSarunas Marciulionis SEA 03/31/1995 SEA vs. SAC W 22 15 4 7 57.1 0 1 0.0 7 8 87.5 0 1 1 6 1 1 1 2 -
+p121
+aVShawn Kemp SEA 03/31/1995 SEA vs. SAC W 27 15 6 11 54.5 0 0 - 3 4 75.0 5 7 12 1 3 0 2 5 -
+p122
+aVDetlef Schrempf SEA 03/31/1995 SEA vs. SAC W 35 26 10 16 62.5 0 1 0.0 6 10 60.0 1 2 3 2 1 1 1 2 -
+p123
+aVSteve Scheffler SEA 03/31/1995 SEA vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p124
+aVNate McMillan SEA 03/31/1995 SEA vs. SAC W 29 5 2 7 28.6 1 2 50.0 0 0 - 2 1 3 5 5 3 3 4 -
+p125
+aVDontonio Wingfield SEA 03/31/1995 SEA vs. SAC W 4 4 0 0 - 0 0 - 4 4 100.0 1 1 2 0 1 0 0 3 -
+p126
+aVRich King SEA 03/31/1995 SEA vs. SAC W 4 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -
+p127
+aVGary Payton SEA 03/31/1995 SEA vs. SAC W 33 27 11 17 64.7 2 4 50.0 3 5 60.0 2 3 5 5 1 0 0 3 -
+p128
+aVSam Perkins SEA 03/31/1995 SEA vs. SAC W 25 13 2 5 40.0 1 2 50.0 8 8 100.0 1 5 6 2 1 1 1 1 -
+p129
+aVErvin Johnson SEA 03/29/1995 SEA vs. MIN W 26 6 3 7 42.9 0 0 - 0 0 - 3 4 7 0 0 1 3 4 -
+p130
+aVShawn Kemp SEA 03/29/1995 SEA vs. MIN W 36 20 5 10 50.0 0 0 - 10 11 90.9 3 8 11 2 3 2 6 4 -
+p131
+aVKendall Gill SEA 03/29/1995 SEA vs. MIN W 17 0 0 5 0.0 0 2 0.0 0 0 - 2 1 3 2 0 1 1 3 -
+p132
+aVSteve Scheffler SEA 03/29/1995 SEA vs. MIN W 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p133
+aVSarunas Marciulionis SEA 03/29/1995 SEA vs. MIN W 21 9 3 7 42.9 1 1 100.0 2 4 50.0 0 1 1 6 1 0 2 1 -
+p134
+aVNate McMillan SEA 03/29/1995 SEA vs. MIN W 30 3 1 5 20.0 1 4 25.0 0 0 - 1 4 5 4 3 0 2 2 -
+p135
+aVGary Payton SEA 03/29/1995 SEA vs. MIN W 34 33 14 21 66.7 2 4 50.0 3 3 100.0 1 1 2 6 4 0 1 3 -
+p136
+aVSam Perkins SEA 03/29/1995 SEA vs. MIN W 27 12 5 9 55.6 1 4 25.0 1 1 100.0 0 8 8 2 2 0 1 4 -
+p137
+aVDetlef Schrempf SEA 03/29/1995 SEA vs. MIN W 40 22 10 15 66.7 1 2 50.0 1 2 50.0 1 7 8 5 1 0 2 4 -
+p138
+aVByron Houston SEA 03/29/1995 SEA vs. MIN W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p139
+aVKendall Gill SEA 03/26/1995 SEA vs. NYK W 35 15 6 9 66.7 2 3 66.7 1 2 50.0 1 2 3 1 2 0 4 3 -
+p140
+aVErvin Johnson SEA 03/26/1995 SEA vs. NYK W 21 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 2 0 5 -
+p141
+aVGary Payton SEA 03/26/1995 SEA vs. NYK W 41 26 8 15 53.3 5 9 55.6 5 6 83.3 1 7 8 4 2 1 2 2 -
+p142
+aVDetlef Schrempf SEA 03/26/1995 SEA vs. NYK W 38 16 2 13 15.4 0 2 0.0 12 15 80.0 1 4 5 3 1 0 2 5 -
+p143
+aVByron Houston SEA 03/26/1995 SEA vs. NYK W 1 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p144
+aVShawn Kemp SEA 03/26/1995 SEA vs. NYK W 35 14 5 11 45.5 0 0 - 4 6 66.7 3 6 9 1 1 0 4 4 -
+p145
+aVNate McMillan SEA 03/26/1995 SEA vs. NYK W 20 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 1 3 1 3 -
+p146
+aVSam Perkins SEA 03/26/1995 SEA vs. NYK W 28 16 7 13 53.8 2 6 33.3 0 1 0.0 1 4 5 4 0 0 0 2 -
+p147
+aVSteve Scheffler SEA 03/26/1995 SEA vs. NYK W 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p148
+aVRich King SEA 03/26/1995 SEA vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p149
+aVSarunas Marciulionis SEA 03/26/1995 SEA vs. NYK W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p150
+aVShawn Kemp SEA 03/24/1995 SEA @ POR W 38 19 7 8 87.5 0 0 - 5 12 41.7 7 6 13 3 2 0 4 4 -
+p151
+aVGary Payton SEA 03/24/1995 SEA @ POR W 43 32 15 17 88.2 0 1 0.0 2 2 100.0 0 2 2 7 0 1 3 1 -
+p152
+aVSam Perkins SEA 03/24/1995 SEA @ POR W 29 20 6 11 54.5 4 6 66.7 4 6 66.7 2 4 6 1 1 1 0 2 -
+p153
+aVKendall Gill SEA 03/24/1995 SEA @ POR W 24 10 4 12 33.3 0 1 0.0 2 2 100.0 0 2 2 2 1 0 0 1 -
+p154
+aVDetlef Schrempf SEA 03/24/1995 SEA @ POR W 38 15 5 14 35.7 0 3 0.0 5 5 100.0 0 2 2 7 1 0 3 2 -
+p155
+aVSarunas Marciulionis SEA 03/24/1995 SEA @ POR W 20 13 3 7 42.9 2 3 66.7 5 5 100.0 0 2 2 2 0 0 1 3 -
+p156
+aVNate McMillan SEA 03/24/1995 SEA @ POR W 21 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 2 0 2 5 -
+p157
+aVErvin Johnson SEA 03/24/1995 SEA @ POR W 27 9 4 6 66.7 0 0 - 1 2 50.0 1 5 6 1 0 2 1 5 -
+p158
+aVKendall Gill SEA 03/23/1995 SEA vs. WAS W 25 13 6 17 35.3 0 2 0.0 1 2 50.0 4 2 6 1 4 0 0 1 -
+p159
+aVGary Payton SEA 03/23/1995 SEA vs. WAS W 42 24 11 17 64.7 0 0 - 2 5 40.0 1 1 2 9 3 0 1 4 -
+p160
+aVSarunas Marciulionis SEA 03/23/1995 SEA vs. WAS W 17 8 4 9 44.4 0 3 0.0 0 0 - 0 0 0 1 1 0 1 3 -
+p161
+aVDetlef Schrempf SEA 03/23/1995 SEA vs. WAS W 42 24 8 13 61.5 3 6 50.0 5 6 83.3 1 5 6 7 1 0 3 3 -
+p162
+aVShawn Kemp SEA 03/23/1995 SEA vs. WAS W 40 19 7 12 58.3 0 0 - 5 9 55.6 7 6 13 2 0 1 6 4 -
+p163
+aVSam Perkins SEA 03/23/1995 SEA vs. WAS W 26 9 3 9 33.3 1 5 20.0 2 2 100.0 0 1 1 1 0 2 0 1 -
+p164
+aVErvin Johnson SEA 03/23/1995 SEA vs. WAS W 17 4 2 2 100.0 0 0 - 0 0 - 2 5 7 1 0 2 2 1 -
+p165
+aVNate McMillan SEA 03/23/1995 SEA vs. WAS W 31 7 2 7 28.6 1 4 25.0 2 2 100.0 1 7 8 7 2 1 0 4 -
+p166
+aVNate McMillan SEA 03/21/1995 SEA @ HOU W 35 7 3 5 60.0 0 1 0.0 1 2 50.0 1 6 7 6 6 2 2 2 -
+p167
+aVKendall Gill SEA 03/21/1995 SEA @ HOU W 24 12 5 9 55.6 2 2 100.0 0 0 - 0 2 2 1 0 0 0 2 -
+p168
+aVBill Cartwright SEA 03/21/1995 SEA @ HOU W 21 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 0 0 3 -
+p169
+aVSarunas Marciulionis SEA 03/21/1995 SEA @ HOU W 24 20 7 11 63.6 2 2 100.0 4 5 80.0 1 2 3 2 0 0 2 2 -
+p170
+aVSam Perkins SEA 03/21/1995 SEA @ HOU W 26 11 3 7 42.9 1 3 33.3 4 6 66.7 0 4 4 2 0 0 2 2 -
+p171
+aVDetlef Schrempf SEA 03/21/1995 SEA @ HOU W 38 18 5 6 83.3 1 1 100.0 7 10 70.0 0 9 9 3 0 0 2 5 -
+p172
+aVGary Payton SEA 03/21/1995 SEA @ HOU W 37 19 7 16 43.8 1 3 33.3 4 4 100.0 0 0 0 6 2 1 3 2 -
+p173
+aVShawn Kemp SEA 03/21/1995 SEA @ HOU W 35 15 2 6 33.3 0 0 - 11 12 91.7 3 9 12 2 2 0 4 3 -
+p174
+aVDetlef Schrempf SEA 03/20/1995 SEA @ SAN L 42 10 4 15 26.7 0 4 0.0 2 2 100.0 3 5 8 5 0 0 5 4 -
+p175
+aVErvin Johnson SEA 03/20/1995 SEA @ SAN L 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 4 -
+p176
+aVVincent Askew SEA 03/20/1995 SEA @ SAN L 22 10 4 7 57.1 0 1 0.0 2 6 33.3 1 0 1 1 0 0 0 2 -
+p177
+aVGary Payton SEA 03/20/1995 SEA @ SAN L 39 8 4 14 28.6 0 2 0.0 0 0 - 3 4 7 6 0 0 2 1 -
+p178
+aVNate McMillan SEA 03/20/1995 SEA @ SAN L 31 10 5 7 71.4 0 1 0.0 0 0 - 0 2 2 4 3 1 0 4 -
+p179
+aVShawn Kemp SEA 03/20/1995 SEA @ SAN L 31 23 9 16 56.3 1 1 100.0 4 6 66.7 6 6 12 0 1 3 2 6 -
+p180
+aVKendall Gill SEA 03/20/1995 SEA @ SAN L 29 12 4 12 33.3 0 0 - 4 5 80.0 1 6 7 4 2 0 1 2 -
+p181
+aVSam Perkins SEA 03/20/1995 SEA @ SAN L 31 21 8 16 50.0 2 5 40.0 3 4 75.0 1 5 6 1 1 0 0 2 -
+p182
+aVSarunas Marciulionis SEA 03/18/1995 SEA vs. DET W 17 3 0 3 0.0 0 1 0.0 3 4 75.0 0 0 0 1 0 0 3 3 -
+p183
+aVDetlef Schrempf SEA 03/18/1995 SEA vs. DET W 34 25 9 10 90.0 4 4 100.0 3 3 100.0 3 3 6 8 1 0 4 2 -
+p184
+aVShawn Kemp SEA 03/18/1995 SEA vs. DET W 29 20 8 16 50.0 0 0 - 4 4 100.0 5 6 11 4 2 0 2 5 -
+p185
+aVKendall Gill SEA 03/18/1995 SEA vs. DET W 16 10 4 6 66.7 2 3 66.7 0 0 - 1 0 1 0 1 0 3 4 -
+p186
+aVSteve Scheffler SEA 03/18/1995 SEA vs. DET W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p187
+aVErvin Johnson SEA 03/18/1995 SEA vs. DET W 22 4 2 2 100.0 0 0 - 0 0 - 1 8 9 0 0 2 1 1 -
+p188
+aVSam Perkins SEA 03/18/1995 SEA vs. DET W 26 17 6 9 66.7 3 5 60.0 2 3 66.7 0 1 1 3 1 0 1 4 -
+p189
+aVByron Houston SEA 03/18/1995 SEA vs. DET W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p190
+aVVincent Askew SEA 03/18/1995 SEA vs. DET W 30 12 4 7 57.1 0 2 0.0 4 4 100.0 1 1 2 4 2 0 2 4 -
+p191
+aVGary Payton SEA 03/18/1995 SEA vs. DET W 36 25 11 22 50.0 1 5 20.0 2 2 100.0 1 4 5 7 2 0 1 4 -
+p192
+aVNate McMillan SEA 03/18/1995 SEA vs. DET W 27 12 4 7 57.1 3 5 60.0 1 2 50.0 0 1 1 9 1 0 2 5 -
+p193
+aVByron Houston SEA 03/16/1995 SEA vs. MIA W 5 1 0 3 0.0 0 2 0.0 1 2 50.0 0 2 2 0 0 0 0 0 -
+p194
+aVSarunas Marciulionis SEA 03/16/1995 SEA vs. MIA W 25 14 5 11 45.5 2 3 66.7 2 2 100.0 0 1 1 1 1 0 2 1 -
+p195
+aVErvin Johnson SEA 03/16/1995 SEA vs. MIA W 27 15 6 10 60.0 0 1 0.0 3 4 75.0 2 5 7 0 1 3 2 5 -
+p196
+aVVincent Askew SEA 03/16/1995 SEA vs. MIA W 28 14 6 6 100.0 0 0 - 2 5 40.0 0 1 1 0 0 0 0 4 -
+p197
+aVShawn Kemp SEA 03/16/1995 SEA vs. MIA W 28 12 3 6 50.0 0 0 - 6 10 60.0 2 14 16 2 1 1 3 4 -
+p198
+aVNate McMillan SEA 03/16/1995 SEA vs. MIA W 34 3 1 5 20.0 1 3 33.3 0 0 - 1 3 4 4 2 0 5 5 -
+p199
+aVGary Payton SEA 03/16/1995 SEA vs. MIA W 32 16 5 13 38.5 0 1 0.0 6 6 100.0 1 3 4 7 3 0 1 3 -
+p200
+aVSteve Scheffler SEA 03/16/1995 SEA vs. MIA W 5 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -
+p201
+aVDetlef Schrempf SEA 03/16/1995 SEA vs. MIA W 32 20 4 11 36.4 2 4 50.0 10 10 100.0 2 2 4 4 1 0 4 3 -
+p202
+aVSam Perkins SEA 03/16/1995 SEA vs. MIA W 24 4 0 4 0.0 0 2 0.0 4 4 100.0 1 5 6 2 2 0 1 1 -
+p203
+aVGary Payton SEA 03/14/1995 SEA vs. BOS W 20 17 8 14 57.1 1 3 33.3 0 0 - 3 1 4 8 3 0 3 1 -
+p204
+aVSam Perkins SEA 03/14/1995 SEA vs. BOS W 29 19 6 9 66.7 2 4 50.0 5 6 83.3 1 4 5 1 0 1 2 4 -
+p205
+aVErvin Johnson SEA 03/14/1995 SEA vs. BOS W 15 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 3 1 2 -
+p206
+aVByron Houston SEA 03/14/1995 SEA vs. BOS W 14 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 0 0 0 1 1 -
+p207
+aVBill Cartwright SEA 03/14/1995 SEA vs. BOS W 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -
+p208
+aVNate McMillan SEA 03/14/1995 SEA vs. BOS W 33 8 3 8 37.5 2 4 50.0 0 0 - 1 4 5 9 0 1 3 4 -
+p209
+aVVincent Askew SEA 03/14/1995 SEA vs. BOS W 27 5 1 7 14.3 0 1 0.0 3 6 50.0 1 1 2 3 0 1 2 0 -
+p210
+aVSteve Scheffler SEA 03/14/1995 SEA vs. BOS W 10 4 2 2 100.0 0 0 - 0 0 - 0 5 5 0 0 0 0 1 -
+p211
+aVDetlef Schrempf SEA 03/14/1995 SEA vs. BOS W 24 23 8 12 66.7 4 6 66.7 3 4 75.0 2 2 4 5 0 1 2 2 -
+p212
+aVShawn Kemp SEA 03/14/1995 SEA vs. BOS W 26 21 8 11 72.7 0 0 - 5 9 55.6 2 9 11 3 3 6 3 4 -
+p213
+aVSarunas Marciulionis SEA 03/14/1995 SEA vs. BOS W 30 12 4 9 44.4 0 0 - 4 4 100.0 0 1 1 0 4 0 5 3 -
+p214
+aVNate McMillan SEA 03/12/1995 SEA @ DET W 33 5 2 5 40.0 0 1 0.0 1 1 100.0 0 4 4 8 2 0 4 3 -
+p215
+aVSam Perkins SEA 03/12/1995 SEA @ DET W 18 7 3 8 37.5 1 4 25.0 0 1 0.0 3 0 3 0 2 1 0 0 -
+p216
+aVGary Payton SEA 03/12/1995 SEA @ DET W 32 21 9 15 60.0 0 0 - 3 7 42.9 2 2 4 4 3 0 2 4 -
+p217
+aVSteve Scheffler SEA 03/12/1995 SEA @ DET W 11 8 2 3 66.7 0 0 - 4 4 100.0 1 4 5 1 0 0 1 0 -
+p218
+aVByron Houston SEA 03/12/1995 SEA @ DET W 12 14 6 7 85.7 1 2 50.0 1 2 50.0 0 0 0 0 0 0 1 0 -
+p219
+aVVincent Askew SEA 03/12/1995 SEA @ DET W 24 13 3 8 37.5 1 3 33.3 6 8 75.0 2 3 5 1 2 1 1 2 -
+p220
+aVDetlef Schrempf SEA 03/12/1995 SEA @ DET W 27 14 3 7 42.9 1 1 100.0 7 8 87.5 3 3 6 5 0 0 2 2 -
+p221
+aVErvin Johnson SEA 03/12/1995 SEA @ DET W 25 10 5 8 62.5 0 0 - 0 0 - 4 3 7 1 0 1 0 4 -
+p222
+aVSarunas Marciulionis SEA 03/12/1995 SEA @ DET W 28 17 6 10 60.0 0 1 0.0 5 7 71.4 0 2 2 7 5 0 3 1 -
+p223
+aVShawn Kemp SEA 03/12/1995 SEA @ DET W 30 25 10 14 71.4 0 0 - 5 8 62.5 5 11 16 2 1 1 1 3 -
+p224
+aVShawn Kemp SEA 03/11/1995 SEA @ NYK W 39 22 6 13 46.2 0 0 - 10 12 83.3 9 10 19 1 0 2 6 4 -
+p225
+aVDetlef Schrempf SEA 03/11/1995 SEA @ NYK W 39 22 9 19 47.4 0 3 0.0 4 4 100.0 1 8 9 2 3 0 8 3 -
+p226
+aVKendall Gill SEA 03/11/1995 SEA @ NYK W 27 13 5 10 50.0 0 0 - 3 4 75.0 1 2 3 1 4 0 1 2 -
+p227
+aVSam Perkins SEA 03/11/1995 SEA @ NYK W 29 9 2 6 33.3 1 3 33.3 4 4 100.0 0 5 5 1 0 0 0 4 -
+p228
+aVGary Payton SEA 03/11/1995 SEA @ NYK W 41 19 7 14 50.0 0 3 0.0 5 8 62.5 0 4 4 8 2 0 3 0 -
+p229
+aVVincent Askew SEA 03/11/1995 SEA @ NYK W 21 7 2 5 40.0 0 1 0.0 3 4 75.0 2 2 4 0 0 0 0 2 -
+p230
+aVBill Cartwright SEA 03/11/1995 SEA @ NYK W 20 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 5 -
+p231
+aVErvin Johnson SEA 03/11/1995 SEA @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p232
+aVNate McMillan SEA 03/11/1995 SEA @ NYK W 23 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 3 0 0 0 1 -
+p233
+aVGary Payton SEA 03/09/1995 SEA @ CHH L 44 20 9 18 50.0 0 2 0.0 2 3 66.7 3 1 4 5 0 0 3 3 -
+p234
+aVBill Cartwright SEA 03/09/1995 SEA @ CHH L 22 6 3 3 100.0 0 0 - 0 0 - 2 2 4 1 0 0 1 5 -
+p235
+aVSam Perkins SEA 03/09/1995 SEA @ CHH L 27 4 2 9 22.2 0 5 0.0 0 0 - 1 3 4 3 1 0 0 2 -
+p236
+aVErvin Johnson SEA 03/09/1995 SEA @ CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p237
+aVNate McMillan SEA 03/09/1995 SEA @ CHH L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 2 2 -
+p238
+aVDetlef Schrempf SEA 03/09/1995 SEA @ CHH L 41 20 6 9 66.7 3 5 60.0 5 5 100.0 0 2 2 1 0 0 0 5 -
+p239
+aVSarunas Marciulionis SEA 03/09/1995 SEA @ CHH L 11 7 2 5 40.0 1 4 25.0 2 2 100.0 0 1 1 0 1 0 2 2 -
+p240
+aVKendall Gill SEA 03/09/1995 SEA @ CHH L 35 23 10 18 55.6 1 4 25.0 2 3 66.7 6 5 11 5 2 0 2 2 -
+p241
+aVShawn Kemp SEA 03/09/1995 SEA @ CHH L 28 15 5 13 38.5 0 0 - 5 5 100.0 2 6 8 4 2 4 2 4 -
+p242
+aVVincent Askew SEA 03/09/1995 SEA @ CHH L 17 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 1 1 3 -
+p243
+aVShawn Kemp SEA 03/08/1995 SEA @ MIN W 26 18 8 13 61.5 0 0 - 2 4 50.0 2 7 9 6 0 0 2 5 -
+p244
+aVKendall Gill SEA 03/08/1995 SEA @ MIN W 31 14 6 12 50.0 0 0 - 2 3 66.7 1 6 7 5 2 1 0 4 -
+p245
+aVGary Payton SEA 03/08/1995 SEA @ MIN W 32 14 6 13 46.2 0 2 0.0 2 2 100.0 0 3 3 8 0 0 3 1 -
+p246
+aVDetlef Schrempf SEA 03/08/1995 SEA @ MIN W 31 27 9 12 75.0 5 6 83.3 4 4 100.0 2 3 5 2 0 1 0 2 -
+p247
+aVSarunas Marciulionis SEA 03/08/1995 SEA @ MIN W 21 10 1 4 25.0 0 0 - 8 12 66.7 1 1 2 2 0 0 1 2 -
+p248
+aVNate McMillan SEA 03/08/1995 SEA @ MIN W 29 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 7 3 0 3 5 -
+p249
+aVVincent Askew SEA 03/08/1995 SEA @ MIN W 30 10 5 8 62.5 0 0 - 0 2 0.0 1 1 2 3 0 0 3 4 -
+p250
+aVSam Perkins SEA 03/08/1995 SEA @ MIN W 26 15 5 12 41.7 2 6 33.3 3 4 75.0 0 3 3 2 2 0 1 3 -
+p251
+aVErvin Johnson SEA 03/08/1995 SEA @ MIN W 10 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 0 1 4 -
+p252
+aVSteve Scheffler SEA 03/08/1995 SEA @ MIN W 4 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 -
+p253
+aVSarunas Marciulionis SEA 03/06/1995 SEA vs. GOS L 19 14 5 11 45.5 1 1 100.0 3 3 100.0 0 0 0 2 1 0 0 2 -
+p254
+aVSam Perkins SEA 03/06/1995 SEA vs. GOS L 29 10 4 9 44.4 0 2 0.0 2 2 100.0 2 4 6 3 0 0 5 3 -
+p255
+aVGary Payton SEA 03/06/1995 SEA vs. GOS L 42 19 9 23 39.1 0 6 0.0 1 2 50.0 3 3 6 6 3 2 2 5 -
+p256
+aVKendall Gill SEA 03/06/1995 SEA vs. GOS L 22 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 1 1 4 5 -
+p257
+aVVincent Askew SEA 03/06/1995 SEA vs. GOS L 21 10 5 6 83.3 0 0 - 0 0 - 1 1 2 4 0 0 0 3 -
+p258
+aVShawn Kemp SEA 03/06/1995 SEA vs. GOS L 40 18 7 12 58.3 0 0 - 4 5 80.0 5 11 16 2 0 3 3 3 -
+p259
+aVDetlef Schrempf SEA 03/06/1995 SEA vs. GOS L 37 23 8 11 72.7 2 3 66.7 5 6 83.3 2 6 8 4 2 0 3 3 -
+p260
+aVNate McMillan SEA 03/06/1995 SEA vs. GOS L 30 5 2 7 28.6 1 5 20.0 0 4 0.0 1 2 3 8 1 0 1 4 -
+p261
+aVShawn Kemp SEA 03/03/1995 SEA @ PHX L 40 19 9 12 75.0 0 0 - 1 1 100.0 2 11 13 1 1 0 2 5 -
+p262
+aVNate McMillan SEA 03/03/1995 SEA @ PHX L 30 4 2 4 50.0 0 1 0.0 0 0 - 2 5 7 8 2 1 0 2 -
+p263
+aVSam Perkins SEA 03/03/1995 SEA @ PHX L 41 11 1 10 10.0 0 3 0.0 9 10 90.0 1 1 2 3 1 2 2 5 -
+p264
+aVByron Houston SEA 03/03/1995 SEA @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -
+p265
+aVGary Payton SEA 03/03/1995 SEA @ PHX L 44 30 14 25 56.0 0 3 0.0 2 2 100.0 0 3 3 8 3 0 1 3 -
+p266
+aVKendall Gill SEA 03/03/1995 SEA @ PHX L 24 12 5 11 45.5 1 4 25.0 1 1 100.0 1 1 2 3 0 0 0 0 -
+p267
+aVSarunas Marciulionis SEA 03/03/1995 SEA @ PHX L 13 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -
+p268
+aVVincent Askew SEA 03/03/1995 SEA @ PHX L 21 5 1 6 16.7 0 3 0.0 3 4 75.0 0 3 3 1 1 0 0 1 -
+p269
+aVDetlef Schrempf SEA 03/03/1995 SEA @ PHX L 46 31 11 19 57.9 3 4 75.0 6 6 100.0 2 5 7 8 1 0 2 4 -
+p270
+aVSteve Scheffler SEA 03/02/1995 SEA @ LAC W 10 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 -
+p271
+aVByron Houston SEA 03/02/1995 SEA @ LAC W 10 7 3 3 100.0 1 1 100.0 0 0 - 1 2 3 2 1 0 2 0 -
+p272
+aVSarunas Marciulionis SEA 03/02/1995 SEA @ LAC W 21 21 6 11 54.5 0 1 0.0 9 10 90.0 1 2 3 1 2 0 1 1 -
+p273
+aVDetlef Schrempf SEA 03/02/1995 SEA @ LAC W 26 17 7 11 63.6 0 0 - 3 3 100.0 0 2 2 3 1 1 3 3 -
+p274
+aVShawn Kemp SEA 03/02/1995 SEA @ LAC W 31 21 7 8 87.5 0 0 - 7 9 77.8 2 5 7 0 1 2 2 1 -
+p275
+aVKendall Gill SEA 03/02/1995 SEA @ LAC W 35 18 6 13 46.2 2 4 50.0 4 4 100.0 2 5 7 4 1 0 1 3 -
+p276
+aVVincent Askew SEA 03/02/1995 SEA @ LAC W 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 0 3 -
+p277
+aVSam Perkins SEA 03/02/1995 SEA @ LAC W 27 10 3 4 75.0 1 2 50.0 3 4 75.0 0 2 2 2 1 1 0 4 -
+p278
+aVGary Payton SEA 03/02/1995 SEA @ LAC W 33 18 6 11 54.5 2 4 50.0 4 4 100.0 1 4 5 7 1 0 6 3 -
+p279
+aVErvin Johnson SEA 03/02/1995 SEA @ LAC W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 -
+p280
+aVNate McMillan SEA 03/02/1995 SEA @ LAC W 24 0 0 3 0.0 0 0 - 0 0 - 0 4 4 5 2 1 1 3 -
+p281
+aVGary Payton SEA 02/27/1995 SEA vs. CHH L 39 32 11 14 78.6 3 4 75.0 7 10 70.0 1 1 2 8 0 1 0 3 -
+p282
+aVVincent Askew SEA 02/27/1995 SEA vs. CHH L 27 15 5 10 50.0 1 2 50.0 4 5 80.0 4 1 5 2 0 0 2 4 -
+p283
+aVNate McMillan SEA 02/27/1995 SEA vs. CHH L 20 6 2 3 66.7 2 2 100.0 0 0 - 0 5 5 1 1 0 1 3 -
+p284
+aVSarunas Marciulionis SEA 02/27/1995 SEA vs. CHH L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -
+p285
+aVBill Cartwright SEA 02/27/1995 SEA vs. CHH L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p286
+aVKendall Gill SEA 02/27/1995 SEA vs. CHH L 27 13 5 14 35.7 3 7 42.9 0 0 - 2 4 6 2 0 0 1 1 -
+p287
+aVDetlef Schrempf SEA 02/27/1995 SEA vs. CHH L 41 18 5 10 50.0 3 3 100.0 5 6 83.3 0 4 4 9 2 0 4 4 -
+p288
+aVShawn Kemp SEA 02/27/1995 SEA vs. CHH L 35 23 9 13 69.2 0 0 - 5 6 83.3 4 4 8 4 2 0 1 5 -
+p289
+aVSam Perkins SEA 02/27/1995 SEA vs. CHH L 39 6 2 7 28.6 0 4 0.0 2 2 100.0 0 7 7 1 2 2 1 2 -
+p290
+aVBill Cartwright SEA 02/24/1995 SEA vs. DEN W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -
+p291
+aVDetlef Schrempf SEA 02/24/1995 SEA vs. DEN W 39 22 6 8 75.0 3 3 100.0 7 8 87.5 1 8 9 8 4 1 2 4 -
+p292
+aVSarunas Marciulionis SEA 02/24/1995 SEA vs. DEN W 18 8 3 4 75.0 1 1 100.0 1 2 50.0 0 1 1 1 1 0 2 3 -
+p293
+aVVincent Askew SEA 02/24/1995 SEA vs. DEN W 15 4 0 3 0.0 0 0 - 4 4 100.0 0 1 1 1 0 0 0 1 -
+p294
+aVKendall Gill SEA 02/24/1995 SEA vs. DEN W 32 11 4 10 40.0 1 2 50.0 2 4 50.0 0 4 4 1 0 1 4 1 -
+p295
+aVSam Perkins SEA 02/24/1995 SEA vs. DEN W 34 17 6 9 66.7 3 3 100.0 2 2 100.0 2 3 5 3 1 0 2 1 -
+p296
+aVShawn Kemp SEA 02/24/1995 SEA vs. DEN W 27 13 5 8 62.5 0 1 0.0 3 6 50.0 1 5 6 0 1 0 1 5 -
+p297
+aVGary Payton SEA 02/24/1995 SEA vs. DEN W 38 13 3 14 21.4 0 3 0.0 7 10 70.0 2 1 3 8 7 0 4 1 -
+p298
+aVNate McMillan SEA 02/24/1995 SEA vs. DEN W 23 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 3 0 0 4 -
+p299
+aVDetlef Schrempf SEA 02/22/1995 SEA vs. MIN W 27 17 5 8 62.5 2 4 50.0 5 7 71.4 0 0 0 3 4 1 0 3 -
+p300
+aVErvin Johnson SEA 02/22/1995 SEA vs. MIN W 12 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 3 -
+p301
+aVByron Houston SEA 02/22/1995 SEA vs. MIN W 20 8 2 7 28.6 1 2 50.0 3 4 75.0 0 2 2 0 0 1 0 3 -
+p302
+aVSarunas Marciulionis SEA 02/22/1995 SEA vs. MIN W 5 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 1 0 1 3 -
+p303
+aVKendall Gill SEA 02/22/1995 SEA vs. MIN W 31 34 15 19 78.9 3 4 75.0 1 1 100.0 0 2 2 2 2 0 3 5 -
+p304
+aVGary Payton SEA 02/22/1995 SEA vs. MIN W 35 12 4 10 40.0 1 1 100.0 3 4 75.0 2 2 4 13 2 0 3 1 -
+p305
+aVDontonio Wingfield SEA 02/22/1995 SEA vs. MIN W 4 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p306
+aVShawn Kemp SEA 02/22/1995 SEA vs. MIN W 31 20 6 11 54.5 1 1 100.0 7 8 87.5 4 9 13 2 0 0 3 5 -
+p307
+aVNate McMillan SEA 02/22/1995 SEA vs. MIN W 27 4 2 2 100.0 0 0 - 0 0 - 0 1 1 3 3 3 2 2 -
+p308
+aVVincent Askew SEA 02/22/1995 SEA vs. MIN W 21 8 3 5 60.0 0 1 0.0 2 3 66.7 0 0 0 6 0 0 3 5 -
+p309
+aVSam Perkins SEA 02/22/1995 SEA vs. MIN W 27 14 5 9 55.6 3 6 50.0 1 2 50.0 0 5 5 0 0 0 0 1 -
+p310
+aVDetlef Schrempf SEA 02/20/1995 SEA vs. LAL L 38 26 9 18 50.0 3 4 75.0 5 7 71.4 3 2 5 5 1 1 1 4 -
+p311
+aVKendall Gill SEA 02/20/1995 SEA vs. LAL L 27 10 4 11 36.4 1 3 33.3 1 2 50.0 1 2 3 1 1 0 1 0 -
+p312
+aVVincent Askew SEA 02/20/1995 SEA vs. LAL L 21 14 5 8 62.5 3 4 75.0 1 1 100.0 1 3 4 4 0 0 1 4 -
+p313
+aVSam Perkins SEA 02/20/1995 SEA vs. LAL L 31 10 3 11 27.3 1 4 25.0 3 4 75.0 1 2 3 5 3 0 0 4 -
+p314
+aVGary Payton SEA 02/20/1995 SEA vs. LAL L 38 18 7 16 43.8 1 2 50.0 3 3 100.0 1 0 1 9 3 0 3 3 -
+p315
+aVByron Houston SEA 02/20/1995 SEA vs. LAL L 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -
+p316
+aVShawn Kemp SEA 02/20/1995 SEA vs. LAL L 38 25 6 10 60.0 0 0 - 13 16 81.3 7 7 14 2 1 1 1 3 -
+p317
+aVSarunas Marciulionis SEA 02/20/1995 SEA vs. LAL L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p318
+aVNate McMillan SEA 02/20/1995 SEA vs. LAL L 28 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 2 1 1 1 3 -
+p319
+aVShawn Kemp SEA 02/18/1995 SEA @ GOS W 10 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 0 1 1 2 -
+p320
+aVErvin Johnson SEA 02/18/1995 SEA @ GOS W 11 0 0 4 0.0 0 0 - 0 0 - 4 1 5 0 0 0 1 3 -
+p321
+aVDetlef Schrempf SEA 02/18/1995 SEA @ GOS W 41 31 9 16 56.3 1 2 50.0 12 15 80.0 4 5 9 5 0 0 2 4 -
+p322
+aVByron Houston SEA 02/18/1995 SEA @ GOS W 14 12 1 4 25.0 0 1 0.0 10 10 100.0 3 1 4 1 1 0 0 2 -
+p323
+aVVincent Askew SEA 02/18/1995 SEA @ GOS W 24 8 3 7 42.9 0 2 0.0 2 2 100.0 0 2 2 0 0 0 1 4 -
+p324
+aVNate McMillan SEA 02/18/1995 SEA @ GOS W 26 8 2 5 40.0 0 1 0.0 4 4 100.0 2 2 4 5 2 0 2 4 -
+p325
+aVGary Payton SEA 02/18/1995 SEA @ GOS W 42 29 13 23 56.5 0 1 0.0 3 6 50.0 2 2 4 7 4 0 2 4 -
+p326
+aVSam Perkins SEA 02/18/1995 SEA @ GOS W 30 14 4 9 44.4 2 4 50.0 4 5 80.0 3 6 9 2 2 0 1 1 -
+p327
+aVKendall Gill SEA 02/18/1995 SEA @ GOS W 42 22 9 15 60.0 2 4 50.0 2 2 100.0 0 2 2 4 5 0 1 3 -
+p328
+aVShawn Kemp SEA 02/17/1995 SEA @ POR L 38 30 12 19 63.2 0 0 - 6 8 75.0 3 4 7 0 1 0 5 5 -
+p329
+aVErvin Johnson SEA 02/17/1995 SEA @ POR L 14 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 1 0 0 2 -
+p330
+aVVincent Askew SEA 02/17/1995 SEA @ POR L 25 14 3 11 27.3 0 0 - 8 9 88.9 2 0 2 1 0 0 2 2 -
+p331
+aVNate McMillan SEA 02/17/1995 SEA @ POR L 25 2 1 1 100.0 0 0 - 0 0 - 1 3 4 4 1 0 2 4 -
+p332
+aVKendall Gill SEA 02/17/1995 SEA @ POR L 21 6 3 8 37.5 0 0 - 0 0 - 0 1 1 2 3 0 4 1 -
+p333
+aVGary Payton SEA 02/17/1995 SEA @ POR L 45 18 9 16 56.3 0 0 - 0 2 0.0 2 1 3 10 1 0 0 2 -
+p334
+aVSam Perkins SEA 02/17/1995 SEA @ POR L 35 15 7 12 58.3 1 5 20.0 0 0 - 0 3 3 1 1 1 0 3 -
+p335
+aVDetlef Schrempf SEA 02/17/1995 SEA @ POR L 37 18 6 13 46.2 2 3 66.7 4 8 50.0 1 3 4 4 0 0 2 3 -
+p336
+aVShawn Kemp SEA 02/15/1995 SEA @ LAL L 30 20 6 10 60.0 0 0 - 8 10 80.0 4 8 12 1 2 1 2 6 -
+p337
+aVVincent Askew SEA 02/15/1995 SEA @ LAL L 30 13 5 11 45.5 1 2 50.0 2 3 66.7 2 1 3 2 0 1 1 1 -
+p338
+aVKendall Gill SEA 02/15/1995 SEA @ LAL L 32 6 3 11 27.3 0 3 0.0 0 1 0.0 1 5 6 7 1 0 0 5 -
+p339
+aVNate McMillan SEA 02/15/1995 SEA @ LAL L 28 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 5 5 0 2 6 -
+p340
+aVGary Payton SEA 02/15/1995 SEA @ LAL L 38 24 9 22 40.9 1 5 20.0 5 6 83.3 1 1 2 6 3 0 2 3 -
+p341
+aVBill Cartwright SEA 02/15/1995 SEA @ LAL L 6 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -
+p342
+aVDetlef Schrempf SEA 02/15/1995 SEA @ LAL L 33 17 6 12 50.0 1 2 50.0 4 7 57.1 2 4 6 2 1 1 5 3 -
+p343
+aVErvin Johnson SEA 02/15/1995 SEA @ LAL L 15 0 0 2 0.0 0 0 - 0 0 - 4 4 8 0 0 1 1 2 -
+p344
+aVSam Perkins SEA 02/15/1995 SEA @ LAL L 28 12 5 15 33.3 1 6 16.7 1 4 25.0 6 2 8 1 0 1 2 3 -
+p345
+aVShawn Kemp SEA 02/14/1995 SEA vs. GOS W 30 21 7 12 58.3 0 0 - 7 10 70.0 6 4 10 2 1 0 5 5 -
+p346
+aVDetlef Schrempf SEA 02/14/1995 SEA vs. GOS W 37 21 8 15 53.3 1 3 33.3 4 5 80.0 1 5 6 6 1 0 2 3 -
+p347
+aVSam Perkins SEA 02/14/1995 SEA vs. GOS W 31 9 2 6 33.3 0 1 0.0 5 8 62.5 5 7 12 1 0 0 0 2 -
+p348
+aVVincent Askew SEA 02/14/1995 SEA vs. GOS W 26 14 4 4 100.0 2 2 100.0 4 7 57.1 0 1 1 5 1 1 0 2 -
+p349
+aVKendall Gill SEA 02/14/1995 SEA vs. GOS W 39 21 8 18 44.4 0 2 0.0 5 7 71.4 1 6 7 1 1 0 2 3 -
+p350
+aVNate McMillan SEA 02/14/1995 SEA vs. GOS W 31 6 3 8 37.5 0 2 0.0 0 0 - 0 6 6 10 2 0 0 3 -
+p351
+aVBill Cartwright SEA 02/14/1995 SEA vs. GOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p352
+aVGary Payton SEA 02/14/1995 SEA vs. GOS W 41 26 9 19 47.4 2 4 50.0 6 8 75.0 3 1 4 7 4 0 3 2 -
+p353
+aVSam Perkins SEA 02/09/1995 SEA vs. CHI W 38 21 7 14 50.0 5 9 55.6 2 2 100.0 4 6 10 2 0 1 4 4 -
+p354
+aVKendall Gill SEA 02/09/1995 SEA vs. CHI W 36 18 7 13 53.8 0 3 0.0 4 4 100.0 0 2 2 3 1 0 4 2 -
+p355
+aVDetlef Schrempf SEA 02/09/1995 SEA vs. CHI W 46 24 6 15 40.0 0 0 - 12 14 85.7 1 4 5 8 2 0 4 5 -
+p356
+aVShawn Kemp SEA 02/09/1995 SEA vs. CHI W 36 30 10 12 83.3 0 0 - 10 11 90.9 2 6 8 1 5 2 1 6 -
+p357
+aVVincent Askew SEA 02/09/1995 SEA vs. CHI W 21 3 0 3 0.0 0 1 0.0 3 3 100.0 0 0 0 1 1 0 2 4 -
+p358
+aVNate McMillan SEA 02/09/1995 SEA vs. CHI W 30 10 4 8 50.0 1 4 25.0 1 2 50.0 0 6 6 6 5 1 2 2 -
+p359
+aVBill Cartwright SEA 02/09/1995 SEA vs. CHI W 18 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 1 0 2 0 -
+p360
+aVGary Payton SEA 02/09/1995 SEA vs. CHI W 40 16 6 12 50.0 2 5 40.0 2 4 50.0 1 1 2 8 2 1 5 3 -
+p361
+aVGary Payton SEA 02/07/1995 SEA vs. SAN L 36 14 6 15 40.0 0 3 0.0 2 2 100.0 0 0 0 10 2 0 2 5 -
+p362
+aVNate McMillan SEA 02/07/1995 SEA vs. SAN L 30 13 6 7 85.7 1 1 100.0 0 0 - 1 3 4 2 1 0 2 2 -
+p363
+aVDetlef Schrempf SEA 02/07/1995 SEA vs. SAN L 40 21 8 16 50.0 1 3 33.3 4 6 66.7 2 12 14 6 2 1 1 4 -
+p364
+aVKendall Gill SEA 02/07/1995 SEA vs. SAN L 37 24 10 17 58.8 2 2 100.0 2 3 66.7 0 5 5 3 4 0 1 3 -
+p365
+aVSam Perkins SEA 02/07/1995 SEA vs. SAN L 32 10 3 7 42.9 0 2 0.0 4 4 100.0 0 5 5 1 0 1 3 2 -
+p366
+aVShawn Kemp SEA 02/07/1995 SEA vs. SAN L 39 13 5 15 33.3 0 0 - 3 4 75.0 2 7 9 2 1 3 4 4 -
+p367
+aVVincent Askew SEA 02/07/1995 SEA vs. SAN L 23 8 4 4 100.0 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -
+p368
+aVErvin Johnson SEA 02/07/1995 SEA vs. SAN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p369
+aVShawn Kemp SEA 02/05/1995 SEA @ MIA W 30 26 9 14 64.3 0 1 0.0 8 10 80.0 5 6 11 2 2 0 5 2 -
+p370
+aVSam Perkins SEA 02/05/1995 SEA @ MIA W 29 14 5 10 50.0 2 3 66.7 2 4 50.0 1 4 5 2 2 0 1 3 -
+p371
+aVByron Houston SEA 02/05/1995 SEA @ MIA W 7 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p372
+aVDontonio Wingfield SEA 02/05/1995 SEA @ MIA W 5 6 3 6 50.0 0 1 0.0 0 0 - 2 1 3 1 1 0 1 0 -
+p373
+aVNate McMillan SEA 02/05/1995 SEA @ MIA W 31 10 4 4 100.0 2 2 100.0 0 0 - 0 6 6 12 4 0 1 4 -
+p374
+aVDetlef Schrempf SEA 02/05/1995 SEA @ MIA W 29 18 4 7 57.1 1 2 50.0 9 10 90.0 0 3 3 4 1 0 0 2 -
+p375
+aVKendall Gill SEA 02/05/1995 SEA @ MIA W 38 21 9 17 52.9 2 5 40.0 1 1 100.0 0 2 2 3 1 0 3 4 -
+p376
+aVGary Payton SEA 02/05/1995 SEA @ MIA W 30 18 6 9 66.7 1 2 50.0 5 8 62.5 1 0 1 5 0 0 1 2 -
+p377
+aVErvin Johnson SEA 02/05/1995 SEA @ MIA W 17 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 1 4 -
+p378
+aVVincent Askew SEA 02/05/1995 SEA @ MIA W 24 19 6 8 75.0 3 4 75.0 4 4 100.0 0 0 0 2 0 0 0 6 -
+p379
+aVGary Payton SEA 02/03/1995 SEA @ ATL W 37 22 9 12 75.0 3 5 60.0 1 2 50.0 1 2 3 9 2 0 0 2 -
+p380
+aVDontonio Wingfield SEA 02/03/1995 SEA @ ATL W 4 3 1 4 25.0 1 2 50.0 0 0 - 2 1 3 0 0 0 0 1 -
+p381
+aVShawn Kemp SEA 02/03/1995 SEA @ ATL W 28 18 4 8 50.0 0 0 - 10 11 90.9 2 3 5 1 0 1 4 5 -
+p382
+aVSam Perkins SEA 02/03/1995 SEA @ ATL W 32 16 5 10 50.0 2 5 40.0 4 5 80.0 0 4 4 4 3 0 1 1 -
+p383
+aVByron Houston SEA 02/03/1995 SEA @ ATL W 4 2 1 3 33.3 0 1 0.0 0 0 - 2 2 4 1 0 0 0 0 -
+p384
+aVSarunas Marciulionis SEA 02/03/1995 SEA @ ATL W 25 15 5 10 50.0 1 3 33.3 4 7 57.1 1 1 2 3 2 0 2 1 -
+p385
+aVKendall Gill SEA 02/03/1995 SEA @ ATL W 30 18 6 12 50.0 4 4 100.0 2 2 100.0 1 7 8 4 4 0 2 1 -
+p386
+aVErvin Johnson SEA 02/03/1995 SEA @ ATL W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p387
+aVDetlef Schrempf SEA 02/03/1995 SEA @ ATL W 30 7 3 10 30.0 0 1 0.0 1 2 50.0 1 4 5 2 0 0 0 2 -
+p388
+aVVincent Askew SEA 02/03/1995 SEA @ ATL W 24 13 6 12 50.0 1 2 50.0 0 0 - 1 4 5 3 0 0 0 4 -
+p389
+aVNate McMillan SEA 02/03/1995 SEA @ ATL W 20 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 3 1 1 1 3 -
+p390
+aVErvin Johnson SEA 02/02/1995 SEA @ ORL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -
+p391
+aVVincent Askew SEA 02/02/1995 SEA @ ORL W 19 9 3 6 50.0 0 0 - 3 3 100.0 1 0 1 2 0 0 3 4 -
+p392
+aVSarunas Marciulionis SEA 02/02/1995 SEA @ ORL W 12 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 2 0 -
+p393
+aVShawn Kemp SEA 02/02/1995 SEA @ ORL W 38 17 7 15 46.7 0 0 - 3 4 75.0 5 7 12 1 2 3 2 3 -
+p394
+aVNate McMillan SEA 02/02/1995 SEA @ ORL W 26 3 1 6 16.7 0 1 0.0 1 2 50.0 1 5 6 8 0 3 1 3 -
+p395
+aVKendall Gill SEA 02/02/1995 SEA @ ORL W 25 12 4 12 33.3 2 4 50.0 2 2 100.0 0 2 2 1 1 0 2 1 -
+p396
+aVGary Payton SEA 02/02/1995 SEA @ ORL W 37 26 11 18 61.1 3 5 60.0 1 2 50.0 2 1 3 7 4 0 2 2 -
+p397
+aVDetlef Schrempf SEA 02/02/1995 SEA @ ORL W 30 22 9 13 69.2 3 3 100.0 1 1 100.0 2 3 5 4 1 0 2 4 -
+p398
+aVBill Cartwright SEA 02/02/1995 SEA @ ORL W 16 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 4 -
+p399
+aVSam Perkins SEA 02/02/1995 SEA @ ORL W 32 14 4 11 36.4 1 3 33.3 5 6 83.3 0 8 8 1 1 0 0 3 -
+p400
+aVSam Perkins SEA 01/30/1995 SEA @ PHL W 35 31 11 15 73.3 3 4 75.0 6 7 85.7 1 3 4 1 0 0 0 1 -
+p401
+aVErvin Johnson SEA 01/30/1995 SEA @ PHL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p402
+aVDetlef Schrempf SEA 01/30/1995 SEA @ PHL W 41 23 7 16 43.8 2 2 100.0 7 8 87.5 1 4 5 3 1 2 0 3 -
+p403
+aVVincent Askew SEA 01/30/1995 SEA @ PHL W 21 14 3 8 37.5 1 4 25.0 7 9 77.8 0 1 1 2 2 0 1 3 -
+p404
+aVKendall Gill SEA 01/30/1995 SEA @ PHL W 28 6 3 8 37.5 0 1 0.0 0 0 - 1 0 1 3 0 0 1 3 -
+p405
+aVShawn Kemp SEA 01/30/1995 SEA @ PHL W 29 11 4 8 50.0 0 0 - 3 4 75.0 2 6 8 5 1 0 3 4 -
+p406
+aVNate McMillan SEA 01/30/1995 SEA @ PHL W 25 6 2 4 50.0 1 2 50.0 1 2 50.0 2 1 3 9 0 0 3 6 -
+p407
+aVSarunas Marciulionis SEA 01/30/1995 SEA @ PHL W 19 11 5 9 55.6 1 2 50.0 0 0 - 2 2 4 2 1 0 2 1 -
+p408
+aVGary Payton SEA 01/30/1995 SEA @ PHL W 39 7 3 6 50.0 0 2 0.0 1 2 50.0 1 1 2 9 4 0 2 2 -
+p409
+aVSarunas Marciulionis SEA 01/28/1995 SEA vs. LAL L 11 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -
+p410
+aVKendall Gill SEA 01/28/1995 SEA vs. LAL L 42 25 11 20 55.0 1 4 25.0 2 3 66.7 2 2 4 3 2 1 1 2 -
+p411
+aVVincent Askew SEA 01/28/1995 SEA vs. LAL L 23 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 2 0 0 2 2 -
+p412
+aVShawn Kemp SEA 01/28/1995 SEA vs. LAL L 36 21 8 14 57.1 0 0 - 5 8 62.5 2 2 4 1 2 3 7 4 -
+p413
+aVBill Cartwright SEA 01/28/1995 SEA vs. LAL L 18 3 1 3 33.3 0 0 - 1 4 25.0 2 7 9 1 0 0 0 3 -
+p414
+aVNate McMillan SEA 01/28/1995 SEA vs. LAL L 26 4 1 5 20.0 1 1 100.0 1 2 50.0 2 2 4 3 0 0 2 2 -
+p415
+aVSam Perkins SEA 01/28/1995 SEA vs. LAL L 25 11 2 5 40.0 0 3 0.0 7 7 100.0 1 2 3 6 4 1 0 2 -
+p416
+aVDetlef Schrempf SEA 01/28/1995 SEA vs. LAL L 42 26 10 16 62.5 0 0 - 6 9 66.7 2 8 10 3 1 0 5 4 -
+p417
+aVGary Payton SEA 01/28/1995 SEA vs. LAL L 42 22 10 16 62.5 2 3 66.7 0 0 - 1 2 3 13 4 0 3 2 -
+p418
+aVDetlef Schrempf SEA 01/26/1995 SEA vs. UTH L 40 12 2 9 22.2 0 2 0.0 8 10 80.0 1 3 4 3 3 0 1 5 -
+p419
+aVGary Payton SEA 01/26/1995 SEA vs. UTH L 37 16 6 14 42.9 0 2 0.0 4 6 66.7 1 1 2 5 2 0 3 4 -
+p420
+aVShawn Kemp SEA 01/26/1995 SEA vs. UTH L 36 19 9 14 64.3 0 0 - 1 2 50.0 5 7 12 5 2 2 1 3 -
+p421
+aVVincent Askew SEA 01/26/1995 SEA vs. UTH L 25 12 4 10 40.0 1 5 20.0 3 4 75.0 0 0 0 2 1 0 0 1 -
+p422
+aVNate McMillan SEA 01/26/1995 SEA vs. UTH L 29 9 4 6 66.7 1 1 100.0 0 0 - 1 5 6 5 2 2 1 4 -
+p423
+aVKendall Gill SEA 01/26/1995 SEA vs. UTH L 31 18 7 9 77.8 0 1 0.0 4 4 100.0 0 0 0 2 0 0 2 3 -
+p424
+aVSarunas Marciulionis SEA 01/26/1995 SEA vs. UTH L 13 9 3 6 50.0 1 2 50.0 2 3 66.7 0 1 1 0 0 0 0 6 -
+p425
+aVSam Perkins SEA 01/26/1995 SEA vs. UTH L 29 13 3 10 30.0 2 7 28.6 5 6 83.3 0 1 1 1 1 0 0 4 -
+p426
+aVGary Payton SEA 01/24/1995 SEA vs. DEN W 38 16 6 15 40.0 1 3 33.3 3 5 60.0 1 2 3 8 1 0 1 1 -
+p427
+aVBill Cartwright SEA 01/24/1995 SEA vs. DEN W 9 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -
+p428
+aVDetlef Schrempf SEA 01/24/1995 SEA vs. DEN W 33 16 5 11 45.5 1 3 33.3 5 6 83.3 2 7 9 5 1 1 2 2 -
+p429
+aVKendall Gill SEA 01/24/1995 SEA vs. DEN W 26 14 6 12 50.0 0 1 0.0 2 2 100.0 1 3 4 2 1 0 1 4 -
+p430
+aVShawn Kemp SEA 01/24/1995 SEA vs. DEN W 32 19 8 13 61.5 0 0 - 3 4 75.0 1 5 6 3 2 2 1 4 -
+p431
+aVVincent Askew SEA 01/24/1995 SEA vs. DEN W 24 10 3 3 100.0 0 0 - 4 4 100.0 1 2 3 2 0 0 0 1 -
+p432
+aVSam Perkins SEA 01/24/1995 SEA vs. DEN W 28 9 4 11 36.4 1 4 25.0 0 0 - 1 4 5 1 2 0 1 2 -
+p433
+aVErvin Johnson SEA 01/24/1995 SEA vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p434
+aVNate McMillan SEA 01/24/1995 SEA vs. DEN W 26 11 4 6 66.7 3 4 75.0 0 0 - 1 6 7 5 1 1 0 2 -
+p435
+aVSarunas Marciulionis SEA 01/24/1995 SEA vs. DEN W 22 10 4 8 50.0 2 4 50.0 0 0 - 0 0 0 1 0 0 2 2 -
+p436
+aVNate McMillan SEA 01/21/1995 SEA @ DAL W 21 9 3 6 50.0 0 0 - 3 3 100.0 2 2 4 4 3 2 1 1 -
+p437
+aVDontonio Wingfield SEA 01/21/1995 SEA @ DAL W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p438
+aVVincent Askew SEA 01/21/1995 SEA @ DAL W 29 7 2 5 40.0 1 3 33.3 2 4 50.0 0 4 4 5 0 0 0 2 -
+p439
+aVByron Houston SEA 01/21/1995 SEA @ DAL W 9 12 5 5 100.0 0 0 - 2 2 100.0 1 0 1 0 2 0 1 2 -
+p440
+aVGary Payton SEA 01/21/1995 SEA @ DAL W 34 22 10 18 55.6 0 3 0.0 2 4 50.0 3 3 6 8 7 0 1 2 -
+p441
+aVShawn Kemp SEA 01/21/1995 SEA @ DAL W 19 16 5 9 55.6 0 0 - 6 7 85.7 1 7 8 0 0 2 3 6 -
+p442
+aVErvin Johnson SEA 01/21/1995 SEA @ DAL W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p443
+aVDetlef Schrempf SEA 01/21/1995 SEA @ DAL W 32 13 3 9 33.3 0 1 0.0 7 8 87.5 2 7 9 2 1 1 2 2 -
+p444
+aVSarunas Marciulionis SEA 01/21/1995 SEA @ DAL W 22 4 2 10 20.0 0 0 - 0 0 - 2 0 2 0 2 1 4 1 -
+p445
+aVKendall Gill SEA 01/21/1995 SEA @ DAL W 31 19 8 12 66.7 0 1 0.0 3 4 75.0 1 2 3 4 2 1 3 3 -
+p446
+aVSam Perkins SEA 01/21/1995 SEA @ DAL W 29 13 5 9 55.6 1 4 25.0 2 2 100.0 1 2 3 3 0 0 1 3 -
+p447
+aVNate McMillan SEA 01/19/1995 SEA @ MIN W 28 8 4 5 80.0 0 0 - 0 1 0.0 1 5 6 5 2 2 0 3 -
+p448
+aVSam Perkins SEA 01/19/1995 SEA @ MIN W 20 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 1 0 0 2 3 -
+p449
+aVGary Payton SEA 01/19/1995 SEA @ MIN W 35 16 7 19 36.8 0 3 0.0 2 3 66.7 2 0 2 8 1 0 3 3 -
+p450
+aVKendall Gill SEA 01/19/1995 SEA @ MIN W 26 9 4 10 40.0 0 1 0.0 1 2 50.0 2 2 4 3 2 0 2 3 -
+p451
+aVShawn Kemp SEA 01/19/1995 SEA @ MIN W 38 20 5 11 45.5 0 0 - 10 14 71.4 4 9 13 2 2 4 5 4 -
+p452
+aVBill Cartwright SEA 01/19/1995 SEA @ MIN W 15 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -
+p453
+aVVincent Askew SEA 01/19/1995 SEA @ MIN W 20 11 3 5 60.0 0 0 - 5 6 83.3 1 3 4 2 1 1 1 3 -
+p454
+aVSarunas Marciulionis SEA 01/19/1995 SEA @ MIN W 21 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 2 3 0 1 3 -
+p455
+aVDetlef Schrempf SEA 01/19/1995 SEA @ MIN W 37 22 9 20 45.0 0 1 0.0 4 5 80.0 6 4 10 3 1 1 2 1 -
+p456
+aVDontonio Wingfield SEA 01/17/1995 SEA vs. CLE W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p457
+aVShawn Kemp SEA 01/17/1995 SEA vs. CLE W 31 15 6 11 54.5 0 0 - 3 4 75.0 2 9 11 2 3 3 2 5 -
+p458
+aVErvin Johnson SEA 01/17/1995 SEA vs. CLE W 20 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 1 1 3 -
+p459
+aVSam Perkins SEA 01/17/1995 SEA vs. CLE W 22 11 4 5 80.0 3 3 100.0 0 0 - 0 4 4 0 1 0 0 0 -
+p460
+aVSarunas Marciulionis SEA 01/17/1995 SEA vs. CLE W 25 15 5 8 62.5 0 3 0.0 5 5 100.0 0 1 1 2 1 0 0 5 -
+p461
+aVDetlef Schrempf SEA 01/17/1995 SEA vs. CLE W 29 21 7 10 70.0 1 1 100.0 6 7 85.7 0 3 3 1 0 0 1 2 -
+p462
+aVVincent Askew SEA 01/17/1995 SEA vs. CLE W 21 13 5 10 50.0 0 2 0.0 3 3 100.0 1 0 1 5 0 1 2 2 -
+p463
+aVNate McMillan SEA 01/17/1995 SEA vs. CLE W 26 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 7 1 1 2 2 -
+p464
+aVByron Houston SEA 01/17/1995 SEA vs. CLE W 10 4 1 5 20.0 0 2 0.0 2 2 100.0 1 1 2 1 1 0 0 5 -
+p465
+aVKendall Gill SEA 01/17/1995 SEA vs. CLE W 21 8 4 5 80.0 0 0 - 0 2 0.0 2 2 4 3 1 1 2 0 -
+p466
+aVGary Payton SEA 01/17/1995 SEA vs. CLE W 29 20 7 12 58.3 1 3 33.3 5 6 83.3 0 1 1 5 2 0 2 2 -
+p467
+aVNate McMillan SEA 01/15/1995 SEA vs. POR W 25 8 3 5 60.0 2 4 50.0 0 0 - 2 1 3 7 3 0 3 5 -
+p468
+aVShawn Kemp SEA 01/15/1995 SEA vs. POR W 37 24 7 12 58.3 0 0 - 10 13 76.9 1 6 7 1 0 4 5 4 -
+p469
+aVSarunas Marciulionis SEA 01/15/1995 SEA vs. POR W 16 13 5 10 50.0 0 0 - 3 3 100.0 0 2 2 3 2 0 1 2 -
+p470
+aVVincent Askew SEA 01/15/1995 SEA vs. POR W 25 9 3 5 60.0 2 3 66.7 1 1 100.0 1 1 2 2 1 0 1 4 -
+p471
+aVSam Perkins SEA 01/15/1995 SEA vs. POR W 36 12 4 6 66.7 2 3 66.7 2 2 100.0 4 6 10 0 2 1 1 1 -
+p472
+aVDetlef Schrempf SEA 01/15/1995 SEA vs. POR W 32 21 6 10 60.0 2 3 66.7 7 7 100.0 1 1 2 4 4 1 5 5 -
+p473
+aVKendall Gill SEA 01/15/1995 SEA vs. POR W 29 15 6 14 42.9 0 3 0.0 3 4 75.0 2 5 7 3 1 2 3 4 -
+p474
+aVGary Payton SEA 01/15/1995 SEA vs. POR W 40 29 11 19 57.9 4 4 100.0 3 4 75.0 0 2 2 9 2 0 4 5 -
+p475
+aVShawn Kemp SEA 01/13/1995 SEA vs. LAC W 37 19 6 15 40.0 0 0 - 7 8 87.5 6 8 14 0 1 3 3 4 -
+p476
+aVErvin Johnson SEA 01/13/1995 SEA vs. LAC W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -
+p477
+aVSam Perkins SEA 01/13/1995 SEA vs. LAC W 25 8 3 7 42.9 0 2 0.0 2 2 100.0 1 1 2 2 1 1 0 0 -
+p478
+aVKendall Gill SEA 01/13/1995 SEA vs. LAC W 39 20 6 16 37.5 1 3 33.3 7 8 87.5 4 3 7 5 2 0 1 3 -
+p479
+aVByron Houston SEA 01/13/1995 SEA vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p480
+aVVincent Askew SEA 01/13/1995 SEA vs. LAC W 26 10 4 7 57.1 1 2 50.0 1 1 100.0 1 2 3 3 1 0 3 1 -
+p481
+aVDetlef Schrempf SEA 01/13/1995 SEA vs. LAC W 37 23 8 13 61.5 1 1 100.0 6 7 85.7 3 8 11 1 1 0 4 3 -
+p482
+aVGary Payton SEA 01/13/1995 SEA vs. LAC W 38 18 6 18 33.3 0 0 - 6 6 100.0 3 1 4 11 3 1 1 2 -
+p483
+aVSarunas Marciulionis SEA 01/13/1995 SEA vs. LAC W 24 8 3 9 33.3 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 4 -
+p484
+aVDetlef Schrempf SEA 01/10/1995 SEA @ GOS W 42 33 13 21 61.9 1 1 100.0 6 6 100.0 9 7 16 1 1 0 1 5 -
+p485
+aVNate McMillan SEA 01/10/1995 SEA @ GOS W 30 4 2 8 25.0 0 6 0.0 0 0 - 2 6 8 13 0 1 1 5 -
+p486
+aVShawn Kemp SEA 01/10/1995 SEA @ GOS W 42 27 11 18 61.1 0 0 - 5 8 62.5 3 10 13 1 4 0 5 3 -
+p487
+aVSam Perkins SEA 01/10/1995 SEA @ GOS W 39 21 6 16 37.5 5 13 38.5 4 6 66.7 2 4 6 2 2 1 0 2 -
+p488
+aVKendall Gill SEA 01/10/1995 SEA @ GOS W 14 6 3 6 50.0 0 2 0.0 0 2 0.0 0 0 0 2 0 0 0 2 -
+p489
+aVDontonio Wingfield SEA 01/10/1995 SEA @ GOS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p490
+aVVincent Askew SEA 01/10/1995 SEA @ GOS W 20 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 1 0 0 0 3 -
+p491
+aVErvin Johnson SEA 01/10/1995 SEA @ GOS W 9 2 0 0 - 0 0 - 2 2 100.0 2 0 2 1 1 0 0 1 -
+p492
+aVGary Payton SEA 01/10/1995 SEA @ GOS W 45 16 6 20 30.0 0 4 0.0 4 7 57.1 2 4 6 13 7 0 3 4 -
+p493
+aVSarunas Marciulionis SEA 01/10/1995 SEA @ GOS W 23 9 3 8 37.5 1 3 33.3 2 4 50.0 0 0 0 5 0 1 2 4 -
+p494
+aVSam Perkins SEA 01/06/1995 SEA @ CHI W 24 11 5 9 55.6 1 5 20.0 0 2 0.0 3 4 7 2 0 0 1 0 -
+p495
+aVGary Payton SEA 01/06/1995 SEA @ CHI W 40 14 3 7 42.9 0 0 - 8 10 80.0 1 5 6 13 2 0 4 3 -
+p496
+aVNate McMillan SEA 01/06/1995 SEA @ CHI W 24 5 1 5 20.0 1 4 25.0 2 2 100.0 0 2 2 1 2 0 2 5 -
+p497
+aVBill Cartwright SEA 01/06/1995 SEA @ CHI W 17 5 2 5 40.0 0 0 - 1 1 100.0 2 7 9 1 0 0 1 2 -
+p498
+aVShawn Kemp SEA 01/06/1995 SEA @ CHI W 36 23 10 12 83.3 0 0 - 3 4 75.0 5 4 9 2 3 0 5 3 -
+p499
+aVKendall Gill SEA 01/06/1995 SEA @ CHI W 27 15 7 12 58.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 2 -
+p500
+aVDetlef Schrempf SEA 01/06/1995 SEA @ CHI W 38 23 9 18 50.0 4 4 100.0 1 1 100.0 1 2 3 3 2 1 0 2 -
+p501
+aVSarunas Marciulionis SEA 01/06/1995 SEA @ CHI W 14 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 0 1 0 1 2 -
+p502
+aVVincent Askew SEA 01/06/1995 SEA @ CHI W 20 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 0 3 3 -
+p503
+aVSarunas Marciulionis SEA 01/04/1995 SEA @ CLE W 19 11 3 6 50.0 2 2 100.0 3 4 75.0 0 0 0 4 1 0 1 4 -
+p504
+aVErvin Johnson SEA 01/04/1995 SEA @ CLE W 16 4 2 4 50.0 0 0 - 0 0 - 1 5 6 0 0 1 0 3 -
+p505
+aVShawn Kemp SEA 01/04/1995 SEA @ CLE W 28 6 3 5 60.0 0 0 - 0 0 - 1 5 6 2 1 2 4 5 -
+p506
+aVGary Payton SEA 01/04/1995 SEA @ CLE W 33 32 14 14 100.0 1 1 100.0 3 3 100.0 1 4 5 6 2 0 3 2 -
+p507
+aVNate McMillan SEA 01/04/1995 SEA @ CLE W 23 9 3 4 75.0 2 3 66.7 1 2 50.0 0 5 5 2 0 0 2 2 -
+p508
+aVVincent Askew SEA 01/04/1995 SEA @ CLE W 22 10 4 4 100.0 1 1 100.0 1 2 50.0 2 1 3 3 0 0 2 3 -
+p509
+aVSam Perkins SEA 01/04/1995 SEA @ CLE W 25 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 2 0 0 0 3 -
+p510
+aVDetlef Schrempf SEA 01/04/1995 SEA @ CLE W 32 20 8 15 53.3 1 2 50.0 3 4 75.0 1 5 6 6 2 1 1 2 -
+p511
+aVKendall Gill SEA 01/04/1995 SEA @ CLE W 29 13 6 11 54.5 1 2 50.0 0 0 - 1 4 5 3 1 0 1 3 -
+p512
+aVByron Houston SEA 01/04/1995 SEA @ CLE W 7 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 2 -
+p513
+aVDontonio Wingfield SEA 01/04/1995 SEA @ CLE W 6 3 1 5 20.0 1 2 50.0 0 0 - 1 1 2 1 0 0 0 1 -
+p514
+aVSam Perkins SEA 01/03/1995 SEA @ WAS W 34 17 6 9 66.7 3 5 60.0 2 2 100.0 3 4 7 2 0 1 1 4 -
+p515
+aVNate McMillan SEA 01/03/1995 SEA @ WAS W 29 11 4 9 44.4 1 3 33.3 2 2 100.0 1 4 5 9 6 1 2 2 -
+p516
+aVDetlef Schrempf SEA 01/03/1995 SEA @ WAS W 28 18 7 11 63.6 2 2 100.0 2 2 100.0 0 5 5 3 0 0 2 3 -
+p517
+aVKendall Gill SEA 01/03/1995 SEA @ WAS W 21 12 4 11 36.4 2 4 50.0 2 2 100.0 2 0 2 2 1 0 3 2 -
+p518
+aVSarunas Marciulionis SEA 01/03/1995 SEA @ WAS W 20 18 7 10 70.0 1 2 50.0 3 3 100.0 0 0 0 3 4 0 1 2 -
+p519
+aVShawn Kemp SEA 01/03/1995 SEA @ WAS W 30 10 4 7 57.1 0 0 - 2 2 100.0 3 5 8 1 1 0 5 3 -
+p520
+aVGary Payton SEA 01/03/1995 SEA @ WAS W 37 24 11 22 50.0 0 3 0.0 2 3 66.7 0 1 1 7 3 0 1 2 -
+p521
+aVVincent Askew SEA 01/03/1995 SEA @ WAS W 23 6 2 5 40.0 1 1 100.0 1 1 100.0 1 2 3 3 0 0 1 2 -
+p522
+aVDontonio Wingfield SEA 01/03/1995 SEA @ WAS W 3 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 0 -
+p523
+aVBill Cartwright SEA 01/03/1995 SEA @ WAS W 9 2 1 1 100.0 0 0 - 0 3 0.0 0 0 0 0 1 0 1 1 -
+p524
+aVErvin Johnson SEA 01/03/1995 SEA @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p525
+aVByron Houston SEA 01/03/1995 SEA @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p526
+aVErvin Johnson SEA 12/29/1994 SEA @ LAL L 7 2 1 2 50.0 0 0 - 0 0 - 4 2 6 0 0 0 0 1 -
+p527
+aVNate McMillan SEA 12/29/1994 SEA @ LAL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 1 0 1 -
+p528
+aVDetlef Schrempf SEA 12/29/1994 SEA @ LAL L 40 26 7 11 63.6 2 2 100.0 10 11 90.9 3 6 9 5 2 1 6 3 -
+p529
+aVGary Payton SEA 12/29/1994 SEA @ LAL L 43 8 4 12 33.3 0 1 0.0 0 2 0.0 0 3 3 11 1 1 3 0 -
+p530
+aVKendall Gill SEA 12/29/1994 SEA @ LAL L 38 10 5 15 33.3 0 4 0.0 0 3 0.0 2 6 8 2 1 0 2 2 -
+p531
+aVSam Perkins SEA 12/29/1994 SEA @ LAL L 29 17 5 12 41.7 3 7 42.9 4 4 100.0 1 4 5 2 0 0 0 4 -
+p532
+aVShawn Kemp SEA 12/29/1994 SEA @ LAL L 37 22 8 21 38.1 0 0 - 6 9 66.7 7 6 13 3 2 4 3 4 -
+p533
+aVBill Cartwright SEA 12/29/1994 SEA @ LAL L 20 5 2 6 33.3 0 0 - 1 1 100.0 1 7 8 0 1 0 3 2 -
+p534
+aVSarunas Marciulionis SEA 12/29/1994 SEA @ LAL L 19 5 2 8 25.0 0 2 0.0 1 2 50.0 1 0 1 0 1 0 2 0 -
+p535
+aVShawn Kemp SEA 12/28/1994 SEA vs. PHL W 24 14 5 5 100.0 0 0 - 4 6 66.7 3 6 9 2 2 0 6 5 -
+p536
+aVSam Perkins SEA 12/28/1994 SEA vs. PHL W 27 8 3 8 37.5 2 5 40.0 0 0 - 0 3 3 5 1 1 1 2 -
+p537
+aVDetlef Schrempf SEA 12/28/1994 SEA vs. PHL W 39 23 6 9 66.7 2 3 66.7 9 9 100.0 0 8 8 3 1 1 3 2 -
+p538
+aVVincent Askew SEA 12/28/1994 SEA vs. PHL W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -
+p539
+aVKendall Gill SEA 12/28/1994 SEA vs. PHL W 35 25 9 15 60.0 0 0 - 7 9 77.8 4 2 6 2 2 2 2 4 -
+p540
+aVSarunas Marciulionis SEA 12/28/1994 SEA vs. PHL W 19 20 9 12 75.0 1 1 100.0 1 2 50.0 0 2 2 1 0 0 0 3 -
+p541
+aVNate McMillan SEA 12/28/1994 SEA vs. PHL W 27 6 3 7 42.9 0 1 0.0 0 0 - 2 3 5 10 5 1 2 3 -
+p542
+aVErvin Johnson SEA 12/28/1994 SEA vs. PHL W 20 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -
+p543
+aVGary Payton SEA 12/28/1994 SEA vs. PHL W 41 23 10 21 47.6 1 3 33.3 2 3 66.7 2 2 4 7 1 0 5 4 -
+p544
+aVNate McMillan SEA 12/26/1994 SEA vs. SAC W 23 5 2 4 50.0 0 1 0.0 1 2 50.0 2 4 6 5 3 1 1 4 -
+p545
+aVVincent Askew SEA 12/26/1994 SEA vs. SAC W 24 8 4 10 40.0 0 1 0.0 0 1 0.0 1 1 2 1 0 0 2 0 -
+p546
+aVDetlef Schrempf SEA 12/26/1994 SEA vs. SAC W 25 21 9 11 81.8 1 1 100.0 2 3 66.7 2 4 6 8 1 1 2 2 -
+p547
+aVGary Payton SEA 12/26/1994 SEA vs. SAC W 28 16 6 13 46.2 1 2 50.0 3 4 75.0 2 3 5 4 0 0 0 2 -
+p548
+aVErvin Johnson SEA 12/26/1994 SEA vs. SAC W 30 8 4 8 50.0 0 0 - 0 2 0.0 2 3 5 0 0 3 3 5 -
+p549
+aVDontonio Wingfield SEA 12/26/1994 SEA vs. SAC W 4 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p550
+aVKendall Gill SEA 12/26/1994 SEA vs. SAC W 24 10 5 11 45.5 0 3 0.0 0 1 0.0 2 1 3 1 1 0 1 0 -
+p551
+aVShawn Kemp SEA 12/26/1994 SEA vs. SAC W 30 15 5 10 50.0 0 0 - 5 6 83.3 3 6 9 3 2 1 1 5 -
+p552
+aVByron Houston SEA 12/26/1994 SEA vs. SAC W 4 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 3 2 -
+p553
+aVSarunas Marciulionis SEA 12/26/1994 SEA vs. SAC W 24 9 4 11 36.4 0 1 0.0 1 4 25.0 1 0 1 2 2 0 2 2 -
+p554
+aVSam Perkins SEA 12/26/1994 SEA vs. SAC W 24 26 7 9 77.8 3 5 60.0 9 11 81.8 2 3 5 4 1 0 1 4 -
+p555
+aVDetlef Schrempf SEA 12/25/1994 SEA @ DEN L 36 21 8 12 66.7 1 1 100.0 4 5 80.0 1 5 6 1 0 1 3 1 -
+p556
+aVKendall Gill SEA 12/25/1994 SEA @ DEN L 34 21 8 16 50.0 2 3 66.7 3 4 75.0 1 4 5 3 1 2 3 0 -
+p557
+aVSam Perkins SEA 12/25/1994 SEA @ DEN L 22 6 2 5 40.0 1 2 50.0 1 2 50.0 0 3 3 0 0 2 0 0 -
+p558
+aVBill Cartwright SEA 12/25/1994 SEA @ DEN L 18 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 2 1 -
+p559
+aVSarunas Marciulionis SEA 12/25/1994 SEA @ DEN L 18 6 2 5 40.0 1 2 50.0 1 4 25.0 0 1 1 2 2 0 1 3 -
+p560
+aVNate McMillan SEA 12/25/1994 SEA @ DEN L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 1 0 6 -
+p561
+aVGary Payton SEA 12/25/1994 SEA @ DEN L 35 16 8 13 61.5 0 1 0.0 0 2 0.0 1 2 3 4 3 0 1 4 -
+p562
+aVVincent Askew SEA 12/25/1994 SEA @ DEN L 32 11 4 7 57.1 0 1 0.0 3 4 75.0 0 0 0 2 1 0 2 2 -
+p563
+aVErvin Johnson SEA 12/25/1994 SEA @ DEN L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p564
+aVByron Houston SEA 12/25/1994 SEA @ DEN L 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p565
+aVShawn Kemp SEA 12/25/1994 SEA @ DEN L 20 10 4 10 40.0 0 0 - 2 2 100.0 1 3 4 1 0 2 1 6 -
+p566
+aVSam Perkins SEA 12/22/1994 SEA vs. DAL W 37 8 3 9 33.3 1 5 20.0 1 1 100.0 1 4 5 1 0 0 0 2 -
+p567
+aVGary Payton SEA 12/22/1994 SEA vs. DAL W 41 28 12 19 63.2 1 3 33.3 3 3 100.0 1 2 3 8 2 0 7 4 -
+p568
+aVDetlef Schrempf SEA 12/22/1994 SEA vs. DAL W 42 24 8 12 66.7 0 1 0.0 8 10 80.0 1 3 4 6 3 0 2 3 -
+p569
+aVVincent Askew SEA 12/22/1994 SEA vs. DAL W 20 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 1 1 0 2 3 -
+p570
+aVShawn Kemp SEA 12/22/1994 SEA vs. DAL W 40 17 7 10 70.0 0 0 - 3 5 60.0 4 6 10 2 0 2 2 4 -
+p571
+aVKendall Gill SEA 12/22/1994 SEA vs. DAL W 37 12 3 12 25.0 1 2 50.0 5 7 71.4 2 2 4 3 3 1 3 4 -
+p572
+aVNate McMillan SEA 12/22/1994 SEA vs. DAL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p573
+aVSarunas Marciulionis SEA 12/22/1994 SEA vs. DAL W 15 7 2 6 33.3 0 0 - 3 4 75.0 2 0 2 0 0 0 0 3 -
+p574
+aVErvin Johnson SEA 12/22/1994 SEA vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p575
+aVSam Perkins SEA 12/20/1994 SEA vs. LAC W 27 8 4 7 57.1 0 2 0.0 0 0 - 0 2 2 1 2 1 1 2 -
+p576
+aVSarunas Marciulionis SEA 12/20/1994 SEA vs. LAC W 29 12 2 6 33.3 0 0 - 8 8 100.0 0 1 1 5 6 0 5 3 -
+p577
+aVDetlef Schrempf SEA 12/20/1994 SEA vs. LAC W 35 13 6 10 60.0 0 0 - 1 1 100.0 3 6 9 8 0 0 1 4 -
+p578
+aVDontonio Wingfield SEA 12/20/1994 SEA vs. LAC W 6 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 2 -
+p579
+aVKendall Gill SEA 12/20/1994 SEA vs. LAC W 38 21 5 9 55.6 1 2 50.0 10 11 90.9 1 3 4 4 2 0 4 4 -
+p580
+aVGary Payton SEA 12/20/1994 SEA vs. LAC W 38 22 8 17 47.1 2 3 66.7 4 5 80.0 1 1 2 9 4 0 3 1 -
+p581
+aVByron Houston SEA 12/20/1994 SEA vs. LAC W 14 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 2 -
+p582
+aVShawn Kemp SEA 12/20/1994 SEA vs. LAC W 33 23 9 16 56.3 0 0 - 5 7 71.4 4 9 13 1 0 1 1 1 -
+p583
+aVErvin Johnson SEA 12/20/1994 SEA vs. LAC W 20 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 1 2 6 -
+p584
+aVDetlef Schrempf SEA 12/17/1994 SEA vs. ORL W 24 11 4 7 57.1 0 0 - 3 3 100.0 1 4 5 2 0 2 2 0 -
+p585
+aVBill Cartwright SEA 12/17/1994 SEA vs. ORL W 21 2 1 2 50.0 0 0 - 0 0 - 0 6 6 0 0 1 2 4 -
+p586
+aVNate McMillan SEA 12/17/1994 SEA vs. ORL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 -
+p587
+aVVincent Askew SEA 12/17/1994 SEA vs. ORL W 27 14 6 11 54.5 2 2 100.0 0 0 - 3 5 8 5 2 2 3 1 -
+p588
+aVErvin Johnson SEA 12/17/1994 SEA vs. ORL W 12 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 0 0 1 0 5 -
+p589
+aVSarunas Marciulionis SEA 12/17/1994 SEA vs. ORL W 23 12 4 7 57.1 0 0 - 4 4 100.0 0 1 1 5 0 0 0 4 -
+p590
+aVByron Houston SEA 12/17/1994 SEA vs. ORL W 6 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 0 1 -
+p591
+aVKendall Gill SEA 12/17/1994 SEA vs. ORL W 30 25 8 14 57.1 2 2 100.0 7 8 87.5 1 2 3 2 1 0 2 3 -
+p592
+aVDontonio Wingfield SEA 12/17/1994 SEA vs. ORL W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -
+p593
+aVGary Payton SEA 12/17/1994 SEA vs. ORL W 31 31 11 15 73.3 2 3 66.7 7 8 87.5 3 1 4 7 7 0 2 1 -
+p594
+aVShawn Kemp SEA 12/17/1994 SEA vs. ORL W 36 16 7 15 46.7 0 0 - 2 5 40.0 3 11 14 0 1 0 3 2 -
+p595
+aVSam Perkins SEA 12/17/1994 SEA vs. ORL W 21 5 2 6 33.3 1 3 33.3 0 0 - 2 1 3 1 1 0 0 1 -
+p596
+aVDontonio Wingfield SEA 12/15/1994 SEA vs. POR W 1 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -
+p597
+aVKendall Gill SEA 12/15/1994 SEA vs. POR W 27 16 5 13 38.5 1 2 50.0 5 5 100.0 0 0 0 3 1 0 1 2 -
+p598
+aVGary Payton SEA 12/15/1994 SEA vs. POR W 44 23 9 18 50.0 1 3 33.3 4 4 100.0 0 3 3 9 2 0 3 3 -
+p599
+aVDetlef Schrempf SEA 12/15/1994 SEA vs. POR W 33 18 4 11 36.4 0 1 0.0 10 10 100.0 3 2 5 2 0 1 0 4 -
+p600
+aVShawn Kemp SEA 12/15/1994 SEA vs. POR W 35 26 9 15 60.0 0 0 - 8 10 80.0 2 6 8 3 2 1 2 6 -
+p601
+aVNate McMillan SEA 12/15/1994 SEA vs. POR W 20 9 4 7 57.1 1 1 100.0 0 0 - 3 0 3 5 2 0 1 3 -
+p602
+aVSam Perkins SEA 12/15/1994 SEA vs. POR W 31 11 4 9 44.4 1 5 20.0 2 2 100.0 0 7 7 1 1 1 2 3 -
+p603
+aVErvin Johnson SEA 12/15/1994 SEA vs. POR W 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 2 -
+p604
+aVVincent Askew SEA 12/15/1994 SEA vs. POR W 29 8 4 6 66.7 0 0 - 0 0 - 0 2 2 2 2 0 0 2 -
+p605
+aVSarunas Marciulionis SEA 12/15/1994 SEA vs. POR W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p606
+aVGary Payton SEA 12/14/1994 SEA @ PHX L 35 16 8 17 47.1 0 1 0.0 0 0 - 4 2 6 6 4 0 6 1 -
+p607
+aVVincent Askew SEA 12/14/1994 SEA @ PHX L 27 9 3 6 50.0 0 0 - 3 4 75.0 0 1 1 2 0 0 2 5 -
+p608
+aVByron Houston SEA 12/14/1994 SEA @ PHX L 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p609
+aVKendall Gill SEA 12/14/1994 SEA @ PHX L 31 13 6 13 46.2 0 3 0.0 1 3 33.3 0 2 2 5 5 1 1 1 -
+p610
+aVDetlef Schrempf SEA 12/14/1994 SEA @ PHX L 33 9 3 10 30.0 0 1 0.0 3 3 100.0 1 5 6 2 0 0 2 4 -
+p611
+aVErvin Johnson SEA 12/14/1994 SEA @ PHX L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p612
+aVNate McMillan SEA 12/14/1994 SEA @ PHX L 28 10 4 9 44.4 2 4 50.0 0 0 - 2 6 8 4 2 1 2 5 -
+p613
+aVSarunas Marciulionis SEA 12/14/1994 SEA @ PHX L 22 12 4 9 44.4 0 0 - 4 4 100.0 0 0 0 3 2 0 3 0 -
+p614
+aVSam Perkins SEA 12/14/1994 SEA @ PHX L 20 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 2 0 1 1 2 -
+p615
+aVShawn Kemp SEA 12/14/1994 SEA @ PHX L 40 15 5 12 41.7 0 0 - 5 6 83.3 3 11 14 5 1 1 6 4 -
+p616
+aVBill Cartwright SEA 12/10/1994 SEA @ LAC W 15 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -
+p617
+aVSarunas Marciulionis SEA 12/10/1994 SEA @ LAC W 19 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 1 0 2 1 -
+p618
+aVDetlef Schrempf SEA 12/10/1994 SEA @ LAC W 31 15 7 11 63.6 0 0 - 1 2 50.0 1 4 5 4 3 0 0 3 -
+p619
+aVSam Perkins SEA 12/10/1994 SEA @ LAC W 38 9 4 7 57.1 1 2 50.0 0 3 0.0 0 9 9 1 0 1 1 4 -
+p620
+aVGary Payton SEA 12/10/1994 SEA @ LAC W 53 33 11 28 39.3 0 3 0.0 11 13 84.6 1 6 7 14 1 0 4 3 -
+p621
+aVVincent Askew SEA 12/10/1994 SEA @ LAC W 45 14 4 9 44.4 0 1 0.0 6 6 100.0 0 0 0 4 2 0 1 5 -
+p622
+aVShawn Kemp SEA 12/10/1994 SEA @ LAC W 46 42 11 16 68.8 0 0 - 20 22 90.9 9 5 14 1 0 1 5 5 -
+p623
+aVNate McMillan SEA 12/10/1994 SEA @ LAC W 43 15 6 10 60.0 3 3 100.0 0 0 - 2 7 9 5 1 0 4 5 -
+p624
+aVByron Houston SEA 12/08/1994 SEA @ SAC L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p625
+aVKendall Gill SEA 12/08/1994 SEA @ SAC L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 2 4 -
+p626
+aVDetlef Schrempf SEA 12/08/1994 SEA @ SAC L 40 16 5 13 38.5 0 1 0.0 6 7 85.7 4 1 5 8 1 0 5 3 -
+p627
+aVShawn Kemp SEA 12/08/1994 SEA @ SAC L 34 16 8 18 44.4 0 0 - 0 0 - 7 12 19 1 1 3 3 3 -
+p628
+aVVincent Askew SEA 12/08/1994 SEA @ SAC L 30 17 6 12 50.0 1 3 33.3 4 4 100.0 0 1 1 3 3 0 1 5 -
+p629
+aVSarunas Marciulionis SEA 12/08/1994 SEA @ SAC L 16 7 2 8 25.0 0 3 0.0 3 5 60.0 0 1 1 2 2 0 2 2 -
+p630
+aVSam Perkins SEA 12/08/1994 SEA @ SAC L 23 9 3 8 37.5 2 5 40.0 1 2 50.0 0 3 3 0 1 0 2 2 -
+p631
+aVGary Payton SEA 12/08/1994 SEA @ SAC L 39 15 5 11 45.5 1 2 50.0 4 6 66.7 1 3 4 3 0 0 4 0 -
+p632
+aVNate McMillan SEA 12/08/1994 SEA @ SAC L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 6 0 0 1 6 -
+p633
+aVErvin Johnson SEA 12/08/1994 SEA @ SAC L 23 7 3 5 60.0 0 0 - 1 4 25.0 5 4 9 0 1 2 1 5 -
+p634
+aVKendall Gill SEA 12/06/1994 SEA vs. HOU W 25 6 3 13 23.1 0 2 0.0 0 0 - 6 2 8 3 1 0 2 3 -
+p635
+aVVincent Askew SEA 12/06/1994 SEA vs. HOU W 32 19 7 8 87.5 0 0 - 5 5 100.0 0 3 3 1 2 1 3 3 -
+p636
+aVBill Cartwright SEA 12/06/1994 SEA vs. HOU W 15 3 1 3 33.3 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 -
+p637
+aVDetlef Schrempf SEA 12/06/1994 SEA vs. HOU W 36 15 4 14 28.6 1 2 50.0 6 6 100.0 1 6 7 3 1 0 1 2 -
+p638
+aVSarunas Marciulionis SEA 12/06/1994 SEA vs. HOU W 19 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 1 2 -
+p639
+aVSam Perkins SEA 12/06/1994 SEA vs. HOU W 24 9 3 10 30.0 2 5 40.0 1 2 50.0 1 4 5 2 0 0 0 3 -
+p640
+aVErvin Johnson SEA 12/06/1994 SEA vs. HOU W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -
+p641
+aVShawn Kemp SEA 12/06/1994 SEA vs. HOU W 25 8 4 8 50.0 0 0 - 0 0 - 3 6 9 1 1 3 1 4 -
+p642
+aVNate McMillan SEA 12/06/1994 SEA vs. HOU W 22 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 7 0 1 0 3 -
+p643
+aVDontonio Wingfield SEA 12/06/1994 SEA vs. HOU W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p644
+aVByron Houston SEA 12/06/1994 SEA vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p645
+aVGary Payton SEA 12/06/1994 SEA vs. HOU W 36 30 14 21 66.7 2 6 33.3 0 0 - 1 2 3 8 1 1 5 1 -
+p646
+aVShawn Kemp SEA 12/03/1994 SEA vs. MIL W 38 26 10 14 71.4 0 0 - 6 8 75.0 8 7 15 3 0 1 3 1 -
+p647
+aVDetlef Schrempf SEA 12/03/1994 SEA vs. MIL W 25 15 4 9 44.4 1 2 50.0 6 7 85.7 2 1 3 1 0 1 3 5 -
+p648
+aVKendall Gill SEA 12/03/1994 SEA vs. MIL W 36 24 9 12 75.0 1 2 50.0 5 8 62.5 1 4 5 2 1 2 2 2 -
+p649
+aVVincent Askew SEA 12/03/1994 SEA vs. MIL W 24 10 5 6 83.3 0 1 0.0 0 0 - 1 1 2 1 1 1 1 3 -
+p650
+aVErvin Johnson SEA 12/03/1994 SEA vs. MIL W 12 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 1 0 3 -
+p651
+aVSam Perkins SEA 12/03/1994 SEA vs. MIL W 31 9 3 6 50.0 0 3 0.0 3 4 75.0 0 3 3 0 1 0 0 2 -
+p652
+aVNate McMillan SEA 12/03/1994 SEA vs. MIL W 27 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 9 1 1 2 4 -
+p653
+aVSarunas Marciulionis SEA 12/03/1994 SEA vs. MIL W 11 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p654
+aVGary Payton SEA 12/03/1994 SEA vs. MIL W 36 19 7 22 31.8 1 4 25.0 4 6 66.7 0 3 3 9 6 0 8 4 -
+p655
+aVShawn Kemp SEA 11/30/1994 SEA vs. SAN W 24 14 5 15 33.3 0 0 - 4 4 100.0 3 2 5 2 0 0 2 5 -
+p656
+aVGary Payton SEA 11/30/1994 SEA vs. SAN W 37 21 9 17 52.9 0 2 0.0 3 3 100.0 1 1 2 6 0 0 2 3 -
+p657
+aVErvin Johnson SEA 11/30/1994 SEA vs. SAN W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 1 4 -
+p658
+aVNate McMillan SEA 11/30/1994 SEA vs. SAN W 27 8 3 7 42.9 0 2 0.0 2 2 100.0 1 2 3 4 3 0 2 3 -
+p659
+aVDetlef Schrempf SEA 11/30/1994 SEA vs. SAN W 37 17 5 9 55.6 0 1 0.0 7 8 87.5 0 7 7 1 1 0 0 4 -
+p660
+aVVincent Askew SEA 11/30/1994 SEA vs. SAN W 24 9 3 8 37.5 0 1 0.0 3 3 100.0 2 3 5 5 0 0 2 2 -
+p661
+aVSam Perkins SEA 11/30/1994 SEA vs. SAN W 32 18 6 11 54.5 4 8 50.0 2 2 100.0 0 4 4 1 1 1 0 3 -
+p662
+aVKendall Gill SEA 11/30/1994 SEA vs. SAN W 28 12 5 13 38.5 1 1 100.0 1 2 50.0 3 2 5 3 3 0 1 5 -
+p663
+aVSarunas Marciulionis SEA 11/30/1994 SEA vs. SAN W 18 8 4 5 80.0 0 0 - 0 1 0.0 0 1 1 1 1 0 2 2 -
+p664
+aVKendall Gill SEA 11/28/1994 SEA vs. IND W 39 16 5 13 38.5 1 4 25.0 5 6 83.3 3 1 4 6 1 1 5 2 -
+p665
+aVDontonio Wingfield SEA 11/28/1994 SEA vs. IND W 6 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 1 -
+p666
+aVVincent Askew SEA 11/28/1994 SEA vs. IND W 24 11 5 8 62.5 0 1 0.0 1 2 50.0 0 2 2 2 1 0 1 5 -
+p667
+aVShawn Kemp SEA 11/28/1994 SEA vs. IND W 31 16 6 12 50.0 0 0 - 4 5 80.0 3 10 13 1 1 2 5 5 -
+p668
+aVGary Payton SEA 11/28/1994 SEA vs. IND W 29 28 10 15 66.7 2 4 50.0 6 6 100.0 0 0 0 7 4 0 3 2 -
+p669
+aVSam Perkins SEA 11/28/1994 SEA vs. IND W 26 20 6 11 54.5 4 7 57.1 4 6 66.7 0 2 2 0 2 3 0 1 -
+p670
+aVNate McMillan SEA 11/28/1994 SEA vs. IND W 26 5 2 5 40.0 1 4 25.0 0 0 - 1 2 3 6 4 0 1 5 -
+p671
+aVErvin Johnson SEA 11/28/1994 SEA vs. IND W 26 2 1 4 25.0 0 0 - 0 0 - 5 9 14 0 0 2 0 3 -
+p672
+aVDetlef Schrempf SEA 11/28/1994 SEA vs. IND W 33 18 6 7 85.7 0 0 - 6 7 85.7 0 8 8 4 0 0 0 2 -
+p673
+aVVincent Askew SEA 11/26/1994 SEA @ HOU W 26 10 3 6 50.0 0 0 - 4 8 50.0 2 4 6 2 3 0 1 1 -
+p674
+aVShawn Kemp SEA 11/26/1994 SEA @ HOU W 33 22 9 17 52.9 0 0 - 4 5 80.0 5 7 12 1 3 1 7 6 -
+p675
+aVSam Perkins SEA 11/26/1994 SEA @ HOU W 30 22 7 14 50.0 4 7 57.1 4 4 100.0 1 7 8 1 0 1 1 2 -
+p676
+aVDetlef Schrempf SEA 11/26/1994 SEA @ HOU W 35 15 4 9 44.4 0 2 0.0 7 7 100.0 1 2 3 2 2 0 2 3 -
+p677
+aVNate McMillan SEA 11/26/1994 SEA @ HOU W 29 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 2 3 -
+p678
+aVKendall Gill SEA 11/26/1994 SEA @ HOU W 32 10 4 15 26.7 1 5 20.0 1 1 100.0 2 7 9 1 1 0 2 1 -
+p679
+aVBill Cartwright SEA 11/26/1994 SEA @ HOU W 18 2 1 4 25.0 0 0 - 0 0 - 4 0 4 1 0 0 1 4 -
+p680
+aVGary Payton SEA 11/26/1994 SEA @ HOU W 37 17 7 17 41.2 1 4 25.0 2 2 100.0 1 4 5 5 2 0 0 2 -
+p681
+aVSarunas Marciulionis SEA 11/25/1994 SEA @ SAN W 12 8 4 6 66.7 0 0 - 0 0 - 1 0 1 3 1 0 2 0 -
+p682
+aVBill Cartwright SEA 11/25/1994 SEA @ SAN W 20 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 3 -
+p683
+aVKendall Gill SEA 11/25/1994 SEA @ SAN W 26 17 7 8 87.5 2 2 100.0 1 2 50.0 2 2 4 2 3 1 3 4 -
+p684
+aVByron Houston SEA 11/25/1994 SEA @ SAN W 3 0 0 1 0.0 0 0 - 0 2 0.0 1 0 1 0 1 0 0 1 -
+p685
+aVShawn Kemp SEA 11/25/1994 SEA @ SAN W 30 18 6 9 66.7 0 0 - 6 8 75.0 0 10 10 2 0 0 3 4 -
+p686
+aVVincent Askew SEA 11/25/1994 SEA @ SAN W 27 12 5 6 83.3 1 1 100.0 1 3 33.3 1 4 5 4 0 0 1 2 -
+p687
+aVErvin Johnson SEA 11/25/1994 SEA @ SAN W 4 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -
+p688
+aVDetlef Schrempf SEA 11/25/1994 SEA @ SAN W 31 20 7 12 58.3 0 1 0.0 6 9 66.7 1 5 6 3 1 2 2 4 -
+p689
+aVNate McMillan SEA 11/25/1994 SEA @ SAN W 19 0 0 5 0.0 0 2 0.0 0 0 - 0 4 4 3 0 0 0 3 -
+p690
+aVSam Perkins SEA 11/25/1994 SEA @ SAN W 26 11 4 6 66.7 3 4 75.0 0 0 - 0 4 4 1 0 0 2 4 -
+p691
+aVGary Payton SEA 11/25/1994 SEA @ SAN W 39 21 8 17 47.1 0 3 0.0 5 8 62.5 2 3 5 7 1 0 4 4 -
+p692
+aVDontonio Wingfield SEA 11/25/1994 SEA @ SAN W 3 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p693
+aVErvin Johnson SEA 11/23/1994 SEA @ UTH L 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 2 0 0 -
+p694
+aVSam Perkins SEA 11/23/1994 SEA @ UTH L 18 7 2 8 25.0 0 3 0.0 3 3 100.0 0 3 3 0 0 0 1 3 -
+p695
+aVGary Payton SEA 11/23/1994 SEA @ UTH L 33 13 3 8 37.5 1 4 25.0 6 6 100.0 0 3 3 8 3 0 1 0 -
+p696
+aVDetlef Schrempf SEA 11/23/1994 SEA @ UTH L 34 10 3 8 37.5 0 0 - 4 5 80.0 0 5 5 1 4 0 1 3 -
+p697
+aVSarunas Marciulionis SEA 11/23/1994 SEA @ UTH L 24 21 7 11 63.6 1 2 50.0 6 7 85.7 0 1 1 2 1 0 2 0 -
+p698
+aVBill Cartwright SEA 11/23/1994 SEA @ UTH L 17 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 1 1 0 1 4 -
+p699
+aVVincent Askew SEA 11/23/1994 SEA @ UTH L 31 17 7 11 63.6 0 1 0.0 3 4 75.0 1 5 6 4 2 0 2 2 -
+p700
+aVShawn Kemp SEA 11/23/1994 SEA @ UTH L 30 13 4 8 50.0 0 0 - 5 6 83.3 1 4 5 0 0 1 5 5 -
+p701
+aVKendall Gill SEA 11/23/1994 SEA @ UTH L 17 11 5 8 62.5 1 2 50.0 0 0 - 0 0 0 2 1 1 2 1 -
+p702
+aVByron Houston SEA 11/23/1994 SEA @ UTH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -
+p703
+aVNate McMillan SEA 11/23/1994 SEA @ UTH L 29 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 6 3 2 1 1 -
+p704
+aVKendall Gill SEA 11/22/1994 SEA vs. NJN W 31 13 5 13 38.5 1 2 50.0 2 2 100.0 0 3 3 3 2 1 1 3 -
+p705
+aVBill Cartwright SEA 11/22/1994 SEA vs. NJN W 17 8 3 7 42.9 0 0 - 2 2 100.0 5 0 5 0 0 0 0 5 -
+p706
+aVVincent Askew SEA 11/22/1994 SEA vs. NJN W 21 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 6 1 0 0 2 -
+p707
+aVGary Payton SEA 11/22/1994 SEA vs. NJN W 38 26 9 17 52.9 2 4 50.0 6 9 66.7 1 3 4 9 1 0 2 1 -
+p708
+aVNate McMillan SEA 11/22/1994 SEA vs. NJN W 22 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 3 4 0 1 5 -
+p709
+aVSam Perkins SEA 11/22/1994 SEA vs. NJN W 28 4 0 7 0.0 0 3 0.0 4 6 66.7 0 5 5 1 0 0 0 2 -
+p710
+aVDetlef Schrempf SEA 11/22/1994 SEA vs. NJN W 31 14 5 10 50.0 1 1 100.0 3 3 100.0 4 6 10 1 1 1 3 2 -
+p711
+aVShawn Kemp SEA 11/22/1994 SEA vs. NJN W 38 22 6 7 85.7 0 0 - 10 11 90.9 6 11 17 0 1 4 4 4 -
+p712
+aVSarunas Marciulionis SEA 11/22/1994 SEA vs. NJN W 14 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 1 1 0 4 1 -
+p713
+aVDetlef Schrempf SEA 11/19/1994 SEA @ MIL W 35 10 4 10 40.0 1 2 50.0 1 2 50.0 2 2 4 3 3 0 2 3 -
+p714
+aVErvin Johnson SEA 11/19/1994 SEA @ MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p715
+aVSarunas Marciulionis SEA 11/19/1994 SEA @ MIL W 11 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 0 -
+p716
+aVVincent Askew SEA 11/19/1994 SEA @ MIL W 27 15 6 11 54.5 1 1 100.0 2 2 100.0 1 2 3 6 1 0 0 4 -
+p717
+aVByron Houston SEA 11/19/1994 SEA @ MIL W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p718
+aVBill Cartwright SEA 11/19/1994 SEA @ MIL W 16 3 1 3 33.3 0 0 - 1 1 100.0 1 0 1 1 0 0 0 2 -
+p719
+aVSam Perkins SEA 11/19/1994 SEA @ MIL W 23 18 7 10 70.0 0 2 0.0 4 5 80.0 2 2 4 2 1 1 1 3 -
+p720
+aVGary Payton SEA 11/19/1994 SEA @ MIL W 34 25 8 15 53.3 0 1 0.0 9 11 81.8 2 4 6 7 6 0 1 4 -
+p721
+aVKendall Gill SEA 11/19/1994 SEA @ MIL W 33 16 7 12 58.3 1 1 100.0 1 2 50.0 4 1 5 4 3 1 2 2 -
+p722
+aVNate McMillan SEA 11/19/1994 SEA @ MIL W 26 8 4 5 80.0 0 0 - 0 0 - 1 4 5 6 3 0 4 4 -
+p723
+aVShawn Kemp SEA 11/19/1994 SEA @ MIL W 31 17 6 11 54.5 0 0 - 5 10 50.0 4 7 11 3 1 1 2 4 -
+p724
+aVBill Cartwright SEA 11/18/1994 SEA @ IND L 19 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -
+p725
+aVShawn Kemp SEA 11/18/1994 SEA @ IND L 29 11 2 8 25.0 0 0 - 7 10 70.0 6 3 9 2 0 3 3 5 -
+p726
+aVVincent Askew SEA 11/18/1994 SEA @ IND L 23 8 2 8 25.0 1 2 50.0 3 6 50.0 3 0 3 1 2 0 1 4 -
+p727
+aVSarunas Marciulionis SEA 11/18/1994 SEA @ IND L 14 6 1 6 16.7 0 0 - 4 4 100.0 0 0 0 1 3 0 1 1 -
+p728
+aVGary Payton SEA 11/18/1994 SEA @ IND L 36 21 10 18 55.6 0 2 0.0 1 1 100.0 1 1 2 4 1 0 5 2 -
+p729
+aVNate McMillan SEA 11/18/1994 SEA @ IND L 25 4 2 6 33.3 0 3 0.0 0 0 - 0 3 3 2 0 1 0 2 -
+p730
+aVDetlef Schrempf SEA 11/18/1994 SEA @ IND L 40 18 6 12 50.0 1 1 100.0 5 7 71.4 4 7 11 2 1 2 5 5 -
+p731
+aVSam Perkins SEA 11/18/1994 SEA @ IND L 22 7 2 6 33.3 1 2 50.0 2 2 100.0 3 0 3 3 1 1 2 0 -
+p732
+aVKendall Gill SEA 11/18/1994 SEA @ IND L 32 10 3 12 25.0 2 6 33.3 2 2 100.0 0 4 4 2 0 0 2 4 -
+p733
+aVErvin Johnson SEA 11/16/1994 SEA @ BOS L 7 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 0 1 0 1 -
+p734
+aVNate McMillan SEA 11/16/1994 SEA @ BOS L 32 10 4 6 66.7 2 4 50.0 0 0 - 1 5 6 7 3 0 3 3 -
+p735
+aVShawn Kemp SEA 11/16/1994 SEA @ BOS L 26 12 5 17 29.4 0 0 - 2 2 100.0 5 5 10 0 0 2 2 3 -
+p736
+aVSam Perkins SEA 11/16/1994 SEA @ BOS L 28 9 3 7 42.9 0 1 0.0 3 5 60.0 0 4 4 0 0 0 1 3 -
+p737
+aVDetlef Schrempf SEA 11/16/1994 SEA @ BOS L 32 19 9 15 60.0 0 0 - 1 1 100.0 2 3 5 5 0 0 0 3 -
+p738
+aVBill Cartwright SEA 11/16/1994 SEA @ BOS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p739
+aVSarunas Marciulionis SEA 11/16/1994 SEA @ BOS L 15 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 0 0 0 2 3 -
+p740
+aVGary Payton SEA 11/16/1994 SEA @ BOS L 25 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 3 0 0 1 1 -
+p741
+aVVincent Askew SEA 11/16/1994 SEA @ BOS L 27 15 4 12 33.3 0 0 - 7 12 58.3 2 0 2 3 3 0 1 5 -
+p742
+aVKendall Gill SEA 11/16/1994 SEA @ BOS L 33 13 5 13 38.5 2 3 66.7 1 2 50.0 1 2 3 1 1 0 2 5 -
+p743
+aVByron Houston SEA 11/16/1994 SEA @ BOS L 7 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -
+p744
+aVVincent Askew SEA 11/15/1994 SEA @ NJN L 25 7 2 10 20.0 1 4 25.0 2 2 100.0 0 1 1 3 0 1 1 3 -
+p745
+aVBill Cartwright SEA 11/15/1994 SEA @ NJN L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p746
+aVSam Perkins SEA 11/15/1994 SEA @ NJN L 30 8 2 10 20.0 0 4 0.0 4 4 100.0 4 4 8 2 0 0 1 2 -
+p747
+aVKendall Gill SEA 11/15/1994 SEA @ NJN L 37 23 8 16 50.0 3 5 60.0 4 5 80.0 3 3 6 3 7 0 1 5 -
+p748
+aVSarunas Marciulionis SEA 11/15/1994 SEA @ NJN L 14 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 2 0 0 4 1 -
+p749
+aVDetlef Schrempf SEA 11/15/1994 SEA @ NJN L 35 13 6 16 37.5 0 0 - 1 2 50.0 2 10 12 0 0 0 3 5 -
+p750
+aVShawn Kemp SEA 11/15/1994 SEA @ NJN L 38 26 9 15 60.0 0 1 0.0 8 12 66.7 7 6 13 1 3 3 2 4 -
+p751
+aVGary Payton SEA 11/15/1994 SEA @ NJN L 37 22 9 17 52.9 0 2 0.0 4 4 100.0 3 1 4 6 3 1 4 6 -
+p752
+aVNate McMillan SEA 11/15/1994 SEA @ NJN L 16 1 0 4 0.0 0 2 0.0 1 2 50.0 0 3 3 1 1 0 1 6 -
+p753
+aVSam Perkins SEA 11/13/1994 SEA vs. LAC W 25 7 3 6 50.0 1 3 33.3 0 0 - 1 7 8 1 1 0 1 3 -
+p754
+aVDontonio Wingfield SEA 11/13/1994 SEA vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p755
+aVNate McMillan SEA 11/13/1994 SEA vs. LAC W 22 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 6 3 2 1 2 -
+p756
+aVSarunas Marciulionis SEA 11/13/1994 SEA vs. LAC W 24 15 5 10 50.0 1 2 50.0 4 8 50.0 1 1 2 2 2 0 2 4 -
+p757
+aVShawn Kemp SEA 11/13/1994 SEA vs. LAC W 29 17 6 12 50.0 0 0 - 5 7 71.4 3 8 11 2 0 0 3 5 -
+p758
+aVKendall Gill SEA 11/13/1994 SEA vs. LAC W 28 14 6 13 46.2 0 1 0.0 2 2 100.0 3 2 5 3 4 0 2 3 -
+p759
+aVDetlef Schrempf SEA 11/13/1994 SEA vs. LAC W 32 18 5 8 62.5 0 1 0.0 8 10 80.0 0 3 3 1 2 1 3 1 -
+p760
+aVGary Payton SEA 11/13/1994 SEA vs. LAC W 28 14 5 10 50.0 1 2 50.0 3 4 75.0 1 0 1 4 0 0 2 2 -
+p761
+aVByron Houston SEA 11/13/1994 SEA vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -
+p762
+aVVincent Askew SEA 11/13/1994 SEA vs. LAC W 28 20 7 13 53.8 1 1 100.0 5 6 83.3 3 1 4 3 0 0 0 2 -
+p763
+aVErvin Johnson SEA 11/13/1994 SEA vs. LAC W 18 8 3 5 60.0 0 0 - 2 2 100.0 4 4 8 0 0 0 0 4 -
+p764
+aVSam Perkins SEA 11/11/1994 SEA vs. PHX W 33 22 6 8 75.0 3 4 75.0 7 8 87.5 2 5 7 5 1 0 1 4 -
+p765
+aVShawn Kemp SEA 11/11/1994 SEA vs. PHX W 38 26 7 13 53.8 0 1 0.0 12 12 100.0 1 5 6 1 1 2 3 4 -
+p766
+aVNate McMillan SEA 11/11/1994 SEA vs. PHX W 26 6 2 4 50.0 2 3 66.7 0 0 - 2 3 5 6 6 1 3 3 -
+p767
+aVDetlef Schrempf SEA 11/11/1994 SEA vs. PHX W 39 22 6 15 40.0 1 2 50.0 9 10 90.0 2 6 8 3 1 0 5 4 -
+p768
+aVVincent Askew SEA 11/11/1994 SEA vs. PHX W 13 10 4 7 57.1 1 1 100.0 1 1 100.0 2 1 3 1 0 0 0 1 -
+p769
+aVKendall Gill SEA 11/11/1994 SEA vs. PHX W 21 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 5 1 0 0 4 -
+p770
+aVSarunas Marciulionis SEA 11/11/1994 SEA vs. PHX W 17 12 5 7 71.4 0 1 0.0 2 4 50.0 0 1 1 2 1 0 1 1 -
+p771
+aVGary Payton SEA 11/11/1994 SEA vs. PHX W 37 20 9 22 40.9 2 6 33.3 0 4 0.0 4 2 6 6 2 1 1 1 -
+p772
+aVErvin Johnson SEA 11/11/1994 SEA vs. PHX W 16 4 2 4 50.0 0 0 - 0 0 - 4 5 9 0 0 1 1 1 -
+p773
+aVVincent Askew SEA 11/09/1994 SEA vs. SAC L 21 6 2 5 40.0 0 1 0.0 2 2 100.0 2 1 3 2 0 0 2 4 -
+p774
+aVShawn Kemp SEA 11/09/1994 SEA vs. SAC L 36 21 9 16 56.3 0 0 - 3 6 50.0 4 5 9 1 0 1 6 3 -
+p775
+aVSam Perkins SEA 11/09/1994 SEA vs. SAC L 27 12 4 12 33.3 1 4 25.0 3 3 100.0 3 2 5 1 1 0 2 3 -
+p776
+aVErvin Johnson SEA 11/09/1994 SEA vs. SAC L 6 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 0 2 1 2 1 -
+p777
+aVDetlef Schrempf SEA 11/09/1994 SEA vs. SAC L 39 9 4 11 36.4 0 0 - 1 3 33.3 2 4 6 5 1 1 2 2 -
+p778
+aVGary Payton SEA 11/09/1994 SEA vs. SAC L 26 10 5 10 50.0 0 1 0.0 0 0 - 1 2 3 4 4 0 1 2 -
+p779
+aVNate McMillan SEA 11/09/1994 SEA vs. SAC L 31 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 5 4 0 2 6 -
+p780
+aVKendall Gill SEA 11/09/1994 SEA vs. SAC L 31 12 4 9 44.4 1 3 33.3 3 4 75.0 4 2 6 2 1 1 4 3 -
+p781
+aVSarunas Marciulionis SEA 11/09/1994 SEA vs. SAC L 23 20 7 14 50.0 0 1 0.0 6 7 85.7 0 1 1 2 1 0 1 5 -
+p782
+aVDetlef Schrempf SEA 11/05/1994 SEA vs. UTH W 37 26 4 6 66.7 0 1 0.0 18 20 90.0 3 9 12 4 2 0 2 4 -
+p783
+aVGary Payton SEA 11/05/1994 SEA vs. UTH W 30 24 10 16 62.5 1 4 25.0 3 5 60.0 2 1 3 1 4 1 1 4 -
+p784
+aVVincent Askew SEA 11/05/1994 SEA vs. UTH W 28 11 1 8 12.5 1 3 33.3 8 11 72.7 0 5 5 1 2 0 1 0 -
+p785
+aVSarunas Marciulionis SEA 11/05/1994 SEA vs. UTH W 14 3 0 4 0.0 0 0 - 3 8 37.5 0 0 0 0 0 0 1 1 -
+p786
+aVSam Perkins SEA 11/05/1994 SEA vs. UTH W 36 11 4 12 33.3 3 6 50.0 0 0 - 1 3 4 0 0 0 2 3 -
+p787
+aVNate McMillan SEA 11/05/1994 SEA vs. UTH W 21 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 4 3 0 0 4 -
+p788
+aVShawn Kemp SEA 11/05/1994 SEA vs. UTH W 37 19 4 9 44.4 0 0 - 11 11 100.0 1 8 9 1 1 2 7 6 -
+p789
+aVErvin Johnson SEA 11/05/1994 SEA vs. UTH W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 2 3 -
+p790
+aVKendall Gill SEA 11/05/1994 SEA vs. UTH W 32 13 3 11 27.3 0 2 0.0 7 10 70.0 1 0 1 2 1 1 4 3 -
+p791
+a.

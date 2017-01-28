@@ -1,0 +1,1698 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShawn Marion PHX 04/18/2001 PHX vs. UTA W 23 8 3 5 60.0 0 0 - 2 2 100.0 0 4 4 0 1 0 0 1 -3
+p2
+aVJason Kidd PHX 04/18/2001 PHX vs. UTA W 18 10 5 10 50.0 0 1 0.0 0 0 - 0 1 1 3 2 0 1 1 -7
+p3
+aVChris Dudley PHX 04/18/2001 PHX vs. UTA W 11 0 0 0 - 0 0 - 0 0 - 3 2 5 1 0 0 3 2 -6
+p4
+aVClifford Robinson PHX 04/18/2001 PHX vs. UTA W 20 11 3 7 42.9 0 1 0.0 5 6 83.3 0 2 2 2 1 1 1 2 -3
+p5
+aVMario Elie PHX 04/18/2001 PHX vs. UTA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p6
+aVTom Gugliotta PHX 04/18/2001 PHX vs. UTA W 31 12 5 8 62.5 0 0 - 2 4 50.0 2 5 7 3 0 0 2 4 14
+p7
+aVElliot Perry PHX 04/18/2001 PHX vs. UTA W 18 10 4 5 80.0 0 0 - 2 3 66.7 0 2 2 3 0 0 2 0 2
+p8
+aVDaniel Santiago PHX 04/18/2001 PHX vs. UTA W 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 0
+p9
+aVVinny Del Negro PHX 04/18/2001 PHX vs. UTA W 29 13 5 8 62.5 0 0 - 3 4 75.0 0 0 0 5 1 0 1 2 21
+p10
+aVRodney Rogers PHX 04/18/2001 PHX vs. UTA W 25 14 3 8 37.5 1 1 100.0 7 8 87.5 1 1 2 1 2 0 3 3 8
+p11
+aVJake Tsakalidis PHX 04/18/2001 PHX vs. UTA W 28 6 1 4 25.0 0 0 - 4 8 50.0 1 6 7 0 0 2 3 6 2
+p12
+aVTony Delk PHX 04/18/2001 PHX vs. UTA W 27 14 6 11 54.5 0 2 0.0 2 2 100.0 0 2 2 3 1 0 1 1 5
+p13
+aVJason Kidd PHX 04/16/2001 PHX @ LAC L 38 12 6 14 42.9 0 4 0.0 0 0 - 1 3 4 7 1 0 7 0 -29
+p14
+aVClifford Robinson PHX 04/16/2001 PHX @ LAC L 31 10 3 9 33.3 1 2 50.0 3 4 75.0 3 1 4 3 0 1 1 2 -24
+p15
+aVShawn Marion PHX 04/16/2001 PHX @ LAC L 32 18 7 19 36.8 0 0 - 4 4 100.0 3 9 12 2 1 0 1 3 -12
+p16
+aVTom Gugliotta PHX 04/16/2001 PHX @ LAC L 14 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -3
+p17
+aVTony Delk PHX 04/16/2001 PHX @ LAC L 29 13 6 15 40.0 1 3 33.3 0 0 - 2 2 4 0 1 0 0 1 -26
+p18
+aVChris Dudley PHX 04/16/2001 PHX @ LAC L 11 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -2
+p19
+aVElliot Perry PHX 04/16/2001 PHX @ LAC L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 0 7
+p20
+aVVinny Del Negro PHX 04/16/2001 PHX @ LAC L 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 2
+p21
+aVDaniel Santiago PHX 04/16/2001 PHX @ LAC L 16 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 1 1 1 2
+p22
+aVRodney Rogers PHX 04/16/2001 PHX @ LAC L 32 15 6 16 37.5 0 4 0.0 3 6 50.0 1 6 7 2 3 2 1 5 -16
+p23
+aVMario Elie PHX 04/16/2001 PHX @ LAC L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 2 0 0 0 1
+p24
+aVTom Gugliotta PHX 04/15/2001 PHX vs. SAC W 18 2 0 2 0.0 0 0 - 2 2 100.0 1 6 7 1 1 2 0 2 -7
+p25
+aVTony Delk PHX 04/15/2001 PHX vs. SAC W 31 10 5 17 29.4 0 2 0.0 0 0 - 4 6 10 4 1 1 3 1 7
+p26
+aVShawn Marion PHX 04/15/2001 PHX vs. SAC W 39 16 8 21 38.1 0 0 - 0 0 - 7 12 19 1 4 2 0 1 9
+p27
+aVRodney Rogers PHX 04/15/2001 PHX vs. SAC W 38 20 10 17 58.8 0 2 0.0 0 0 - 1 3 4 3 1 0 5 4 10
+p28
+aVJason Kidd PHX 04/15/2001 PHX vs. SAC W 44 20 8 22 36.4 2 7 28.6 2 2 100.0 1 2 3 14 4 0 3 2 2
+p29
+aVVinny Del Negro PHX 04/15/2001 PHX vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p30
+aVMario Elie PHX 04/15/2001 PHX vs. SAC W 17 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 2 1 0 0 1 -5
+p31
+aVClifford Robinson PHX 04/15/2001 PHX vs. SAC W 36 17 7 13 53.8 2 4 50.0 1 2 50.0 4 3 7 2 1 3 4 2 -4
+p32
+aVChris Dudley PHX 04/15/2001 PHX vs. SAC W 13 0 0 1 0.0 0 0 - 0 0 - 2 5 7 0 0 1 0 2 -2
+p33
+aVTom Gugliotta PHX 04/13/2001 PHX vs. SEA W 20 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 3 1 1 1 2 -1
+p34
+aVDaniel Santiago PHX 04/13/2001 PHX vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p35
+aVMario Elie PHX 04/13/2001 PHX vs. SEA W 21 3 1 3 33.3 1 2 50.0 0 0 - 3 1 4 4 1 0 0 3 3
+p36
+aVChris Dudley PHX 04/13/2001 PHX vs. SEA W 16 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -7
+p37
+aVShawn Marion PHX 04/13/2001 PHX vs. SEA W 39 20 10 18 55.6 0 0 - 0 0 - 7 6 13 2 1 0 0 2 14
+p38
+aVClifford Robinson PHX 04/13/2001 PHX vs. SEA W 29 20 7 12 58.3 3 4 75.0 3 4 75.0 1 6 7 1 0 2 2 5 7
+p39
+aVRodney Rogers PHX 04/13/2001 PHX vs. SEA W 34 12 5 14 35.7 0 2 0.0 2 3 66.7 2 2 4 3 2 3 2 3 20
+p40
+aVTony Delk PHX 04/13/2001 PHX vs. SEA W 32 16 5 11 45.5 1 4 25.0 5 5 100.0 0 0 0 2 1 0 2 2 1
+p41
+aVJason Kidd PHX 04/13/2001 PHX vs. SEA W 47 30 10 22 45.5 4 8 50.0 6 8 75.0 3 6 9 17 4 0 4 1 10
+p42
+aVMario Elie PHX 04/11/2001 PHX vs. DAL W 22 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 -2
+p43
+aVChris Dudley PHX 04/11/2001 PHX vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p44
+aVShawn Marion PHX 04/11/2001 PHX vs. DAL W 46 38 16 23 69.6 0 0 - 6 7 85.7 5 6 11 2 3 1 1 6 0
+p45
+aVRodney Rogers PHX 04/11/2001 PHX vs. DAL W 32 16 5 19 26.3 1 5 20.0 5 6 83.3 3 7 10 0 0 0 1 5 11
+p46
+aVJake Tsakalidis PHX 04/11/2001 PHX vs. DAL W 19 8 2 5 40.0 0 0 - 4 4 100.0 2 2 4 0 0 0 3 2 0
+p47
+aVTony Delk PHX 04/11/2001 PHX vs. DAL W 35 23 8 13 61.5 3 4 75.0 4 4 100.0 2 1 3 4 0 0 1 1 10
+p48
+aVClifford Robinson PHX 04/11/2001 PHX vs. DAL W 36 15 5 15 33.3 2 5 40.0 3 5 60.0 0 5 5 4 2 0 2 3 1
+p49
+aVJason Kidd PHX 04/11/2001 PHX vs. DAL W 48 9 2 9 22.2 1 5 20.0 4 5 80.0 4 8 12 13 2 0 6 4 5
+p50
+aVChris Dudley PHX 04/10/2001 PHX @ LAL L 18 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 2 1 0 4 0
+p51
+aVTom Gugliotta PHX 04/10/2001 PHX @ LAL L 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -15
+p52
+aVClifford Robinson PHX 04/10/2001 PHX @ LAL L 23 5 1 10 10.0 0 2 0.0 3 4 75.0 1 0 1 0 0 1 4 1 -21
+p53
+aVMario Elie PHX 04/10/2001 PHX @ LAL L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 -6
+p54
+aVJason Kidd PHX 04/10/2001 PHX @ LAL L 18 9 3 10 30.0 1 2 50.0 2 2 100.0 0 2 2 2 0 0 2 4 -15
+p55
+aVElliot Perry PHX 04/10/2001 PHX @ LAL L 20 4 2 6 33.3 0 1 0.0 0 0 - 1 3 4 3 1 0 2 1 -1
+p56
+aVShawn Marion PHX 04/10/2001 PHX @ LAL L 33 17 6 12 50.0 0 0 - 5 6 83.3 3 6 9 0 0 1 1 0 -19
+p57
+aVRodney Rogers PHX 04/10/2001 PHX @ LAL L 27 19 6 9 66.7 3 3 100.0 4 4 100.0 1 5 6 2 2 0 0 2 -16
+p58
+aVTony Delk PHX 04/10/2001 PHX @ LAL L 31 7 3 15 20.0 0 2 0.0 1 2 50.0 2 0 2 5 0 0 3 1 -17
+p59
+aVDaniel Santiago PHX 04/10/2001 PHX @ LAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -3
+p60
+aVVinny Del Negro PHX 04/10/2001 PHX @ LAL L 26 13 6 9 66.7 0 0 - 1 1 100.0 1 3 4 2 1 1 1 0 -4
+p61
+aVJake Tsakalidis PHX 04/10/2001 PHX @ LAL L 19 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 1 0 2 -13
+p62
+aVClifford Robinson PHX 04/07/2001 PHX @ CLE W 34 19 7 13 53.8 2 3 66.7 3 4 75.0 2 2 4 1 0 2 1 4 -2
+p63
+aVChris Dudley PHX 04/07/2001 PHX @ CLE W 14 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 2 7
+p64
+aVTom Gugliotta PHX 04/07/2001 PHX @ CLE W 17 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 1 2 1 0 4 -1
+p65
+aVMario Elie PHX 04/07/2001 PHX @ CLE W 28 2 0 6 0.0 0 2 0.0 2 2 100.0 2 2 4 2 1 0 1 1 -5
+p66
+aVDaniel Santiago PHX 04/07/2001 PHX @ CLE W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 9
+p67
+aVJason Kidd PHX 04/07/2001 PHX @ CLE W 43 17 6 22 27.3 1 3 33.3 4 6 66.7 0 6 6 9 3 1 4 2 5
+p68
+aVShawn Marion PHX 04/07/2001 PHX @ CLE W 38 25 10 22 45.5 0 0 - 5 6 83.3 6 4 10 4 1 3 1 4 4
+p69
+aVVinny Del Negro PHX 04/07/2001 PHX @ CLE W 5 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p70
+aVJake Tsakalidis PHX 04/07/2001 PHX @ CLE W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -12
+p71
+aVRodney Rogers PHX 04/07/2001 PHX @ CLE W 21 17 6 8 75.0 3 4 75.0 2 3 66.7 2 2 4 0 0 0 2 2 8
+p72
+aVTony Delk PHX 04/07/2001 PHX @ CLE W 28 10 4 8 50.0 0 0 - 2 3 66.7 1 3 4 2 2 1 1 2 8
+p73
+aVClifford Robinson PHX 04/06/2001 PHX @ MIN L 34 8 2 9 22.2 1 3 33.3 3 6 50.0 2 3 5 5 1 0 1 5 -8
+p74
+aVTony Delk PHX 04/06/2001 PHX @ MIN L 18 9 3 9 33.3 1 5 20.0 2 2 100.0 0 4 4 1 1 0 0 2 -4
+p75
+aVShawn Marion PHX 04/06/2001 PHX @ MIN L 43 15 5 15 33.3 0 1 0.0 5 7 71.4 5 9 14 2 1 1 3 2 -17
+p76
+aVMario Elie PHX 04/06/2001 PHX @ MIN L 34 17 6 11 54.5 3 5 60.0 2 2 100.0 3 2 5 1 0 0 1 3 -10
+p77
+aVVinny Del Negro PHX 04/06/2001 PHX @ MIN L 6 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 1 -4
+p78
+aVRodney Rogers PHX 04/06/2001 PHX @ MIN L 25 15 6 11 54.5 1 2 50.0 2 2 100.0 1 2 3 1 0 0 3 2 -6
+p79
+aVJason Kidd PHX 04/06/2001 PHX @ MIN L 43 12 6 19 31.6 0 4 0.0 0 0 - 0 4 4 8 1 0 4 2 -11
+p80
+aVChris Dudley PHX 04/06/2001 PHX @ MIN L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p81
+aVTom Gugliotta PHX 04/06/2001 PHX @ MIN L 19 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 1 1 0 2 -3
+p82
+aVElliot Perry PHX 04/06/2001 PHX @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -2
+p83
+aVJake Tsakalidis PHX 04/06/2001 PHX @ MIN L 13 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 1 0 1 0
+p84
+aVTony Delk PHX 04/04/2001 PHX @ CHH W 20 15 5 13 38.5 2 3 66.7 3 5 60.0 3 2 5 0 0 0 0 2 12
+p85
+aVChris Dudley PHX 04/04/2001 PHX @ CHH W 19 8 4 4 100.0 0 0 - 0 2 0.0 3 2 5 0 1 0 0 1 10
+p86
+aVShawn Marion PHX 04/04/2001 PHX @ CHH W 38 25 10 20 50.0 1 2 50.0 4 5 80.0 1 4 5 4 3 0 0 1 11
+p87
+aVRodney Rogers PHX 04/04/2001 PHX @ CHH W 11 2 1 6 16.7 0 2 0.0 0 0 - 1 3 4 1 1 0 0 1 -5
+p88
+aVMario Elie PHX 04/04/2001 PHX @ CHH W 26 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 2 0 0 1 4
+p89
+aVClifford Robinson PHX 04/04/2001 PHX @ CHH W 24 6 2 6 33.3 0 2 0.0 2 4 50.0 0 4 4 3 0 1 2 5 10
+p90
+aVTom Gugliotta PHX 04/04/2001 PHX @ CHH W 27 10 5 14 35.7 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -5
+p91
+aVJason Kidd PHX 04/04/2001 PHX @ CHH W 41 29 11 22 50.0 1 4 25.0 6 8 75.0 2 5 7 10 4 0 6 2 6
+p92
+aVVinny Del Negro PHX 04/04/2001 PHX @ CHH W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -5
+p93
+aVJake Tsakalidis PHX 04/04/2001 PHX @ CHH W 21 4 1 2 50.0 0 0 - 2 4 50.0 5 7 12 0 0 0 1 4 7
+p94
+aVTom Gugliotta PHX 04/03/2001 PHX @ IND L 31 0 0 4 0.0 0 1 0.0 0 0 - 2 10 12 1 3 0 1 4 6
+p95
+aVClifford Robinson PHX 04/03/2001 PHX @ IND L 20 2 1 5 20.0 0 1 0.0 0 2 0.0 0 2 2 0 0 0 2 2 -16
+p96
+aVRodney Rogers PHX 04/03/2001 PHX @ IND L 36 18 4 18 22.2 0 3 0.0 10 12 83.3 2 3 5 2 1 0 1 1 6
+p97
+aVJason Kidd PHX 04/03/2001 PHX @ IND L 41 17 7 20 35.0 0 5 0.0 3 4 75.0 2 4 6 9 2 0 4 0 -5
+p98
+aVTony Delk PHX 04/03/2001 PHX @ IND L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 -2
+p99
+aVElliot Perry PHX 04/03/2001 PHX @ IND L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 1 0 0 0 12
+p100
+aVVinny Del Negro PHX 04/03/2001 PHX @ IND L 9 12 6 6 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p101
+aVShawn Marion PHX 04/03/2001 PHX @ IND L 45 20 8 17 47.1 0 0 - 4 5 80.0 3 8 11 3 1 3 1 1 -1
+p102
+aVMario Elie PHX 04/03/2001 PHX @ IND L 26 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 0 4 -10
+p103
+aVJake Tsakalidis PHX 04/03/2001 PHX @ IND L 12 3 1 2 50.0 0 0 - 1 2 50.0 4 3 7 0 0 0 1 4 -7
+p104
+aVRodney Rogers PHX 04/01/2001 PHX vs. MIL W 38 16 8 20 40.0 0 2 0.0 0 0 - 3 5 8 6 1 1 2 2 8
+p105
+aVJake Tsakalidis PHX 04/01/2001 PHX vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -2
+p106
+aVClifford Robinson PHX 04/01/2001 PHX vs. MIL W 39 19 9 13 69.2 1 3 33.3 0 1 0.0 1 1 2 3 2 1 1 3 6
+p107
+aVTony Delk PHX 04/01/2001 PHX vs. MIL W 15 10 3 6 50.0 1 2 50.0 3 3 100.0 1 1 2 2 0 0 1 3 -7
+p108
+aVShawn Marion PHX 04/01/2001 PHX vs. MIL W 28 17 7 11 63.6 1 1 100.0 2 2 100.0 1 8 9 1 1 0 4 3 7
+p109
+aVTom Gugliotta PHX 04/01/2001 PHX vs. MIL W 20 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 2 1 1 0 4
+p110
+aVVinny Del Negro PHX 04/01/2001 PHX vs. MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 4
+p111
+aVElliot Perry PHX 04/01/2001 PHX vs. MIL W 0 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p112
+aVMario Elie PHX 04/01/2001 PHX vs. MIL W 34 6 2 3 66.7 1 2 50.0 1 2 50.0 0 2 2 1 0 1 1 1 13
+p113
+aVJason Kidd PHX 04/01/2001 PHX vs. MIL W 43 30 11 18 61.1 0 2 0.0 8 9 88.9 1 1 2 12 6 0 3 2 4
+p114
+aVChris Dudley PHX 04/01/2001 PHX vs. MIL W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 1 0 0 -1
+p115
+aVJake Tsakalidis PHX 03/29/2001 PHX @ HOU W 29 2 1 4 25.0 0 0 - 0 0 - 3 9 12 0 0 3 2 4 -2
+p116
+aVShawn Marion PHX 03/29/2001 PHX @ HOU W 24 9 4 10 40.0 0 0 - 1 2 50.0 0 5 5 2 0 0 3 2 -1
+p117
+aVTom Gugliotta PHX 03/29/2001 PHX @ HOU W 29 11 5 7 71.4 1 1 100.0 0 0 - 3 2 5 2 2 1 0 1 9
+p118
+aVClifford Robinson PHX 03/29/2001 PHX @ HOU W 25 2 1 8 12.5 0 1 0.0 0 0 - 0 3 3 2 1 0 1 1 -7
+p119
+aVRodney Rogers PHX 03/29/2001 PHX @ HOU W 25 11 5 13 38.5 0 2 0.0 1 1 100.0 1 1 2 2 0 0 1 3 4
+p120
+aVTony Delk PHX 03/29/2001 PHX @ HOU W 17 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 4
+p121
+aVJason Kidd PHX 03/29/2001 PHX @ HOU W 46 43 16 34 47.1 5 11 45.5 6 8 75.0 1 8 9 4 4 2 4 1 8
+p122
+aVMario Elie PHX 03/29/2001 PHX @ HOU W 39 6 2 4 50.0 1 2 50.0 1 2 50.0 0 3 3 4 1 0 0 2 3
+p123
+aVVinny Del Negro PHX 03/29/2001 PHX @ HOU W 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 7
+p124
+aVChris Dudley PHX 03/28/2001 PHX vs. CLE W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -3
+p125
+aVShawn Marion PHX 03/28/2001 PHX vs. CLE W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p126
+aVElliot Perry PHX 03/28/2001 PHX vs. CLE W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 1 -7
+p127
+aVTom Gugliotta PHX 03/28/2001 PHX vs. CLE W 32 14 6 10 60.0 0 1 0.0 2 2 100.0 2 8 10 1 0 0 0 5 6
+p128
+aVTony Delk PHX 03/28/2001 PHX vs. CLE W 36 22 8 19 42.1 2 3 66.7 4 4 100.0 3 5 8 1 1 1 1 3 6
+p129
+aVRodney Rogers PHX 03/28/2001 PHX vs. CLE W 37 16 5 12 41.7 0 2 0.0 6 7 85.7 1 5 6 3 1 1 1 4 9
+p130
+aVMario Elie PHX 03/28/2001 PHX vs. CLE W 21 5 1 4 25.0 1 2 50.0 2 2 100.0 1 2 3 4 1 0 0 1 8
+p131
+aVJason Kidd PHX 03/28/2001 PHX vs. CLE W 41 29 13 26 50.0 1 2 50.0 2 2 100.0 2 4 6 10 4 0 3 0 15
+p132
+aVClifford Robinson PHX 03/28/2001 PHX vs. CLE W 36 11 3 12 25.0 2 3 66.7 3 4 75.0 0 2 2 5 0 0 2 4 13
+p133
+aVVinny Del Negro PHX 03/28/2001 PHX vs. CLE W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -10
+p134
+aVJake Tsakalidis PHX 03/28/2001 PHX vs. CLE W 6 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 5
+p135
+aVJason Kidd PHX 03/26/2001 PHX vs. LAL W 35 22 8 15 53.3 0 1 0.0 6 8 75.0 3 8 11 9 3 0 1 4 12
+p136
+aVVinny Del Negro PHX 03/26/2001 PHX vs. LAL W 13 5 2 3 66.7 0 0 - 1 1 100.0 0 2 2 1 0 0 0 2 9
+p137
+aVChris Dudley PHX 03/26/2001 PHX vs. LAL W 8 1 0 0 - 0 0 - 1 2 50.0 1 3 4 1 0 0 0 2 7
+p138
+aVTom Gugliotta PHX 03/26/2001 PHX vs. LAL W 27 14 5 13 38.5 0 0 - 4 4 100.0 1 6 7 1 2 0 1 4 16
+p139
+aVClifford Robinson PHX 03/26/2001 PHX vs. LAL W 38 13 5 13 38.5 1 3 33.3 2 4 50.0 1 1 2 8 0 0 1 4 12
+p140
+aVRodney Rogers PHX 03/26/2001 PHX vs. LAL W 16 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 0
+p141
+aVElliot Perry PHX 03/26/2001 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p142
+aVTony Delk PHX 03/26/2001 PHX vs. LAL W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 12
+p143
+aVDaniel Santiago PHX 03/26/2001 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 4
+p144
+aVShawn Marion PHX 03/26/2001 PHX vs. LAL W 36 27 12 18 66.7 0 1 0.0 3 3 100.0 3 2 5 2 2 3 4 1 19
+p145
+aVJake Tsakalidis PHX 03/26/2001 PHX vs. LAL W 17 8 4 5 80.0 0 0 - 0 1 0.0 2 0 2 0 0 0 2 5 1
+p146
+aVMario Elie PHX 03/26/2001 PHX vs. LAL W 39 9 3 8 37.5 1 4 25.0 2 2 100.0 1 5 6 5 2 0 1 1 9
+p147
+aVVinny Del Negro PHX 03/23/2001 PHX vs. PHI W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 5
+p148
+aVShawn Marion PHX 03/23/2001 PHX vs. PHI W 31 12 6 14 42.9 0 0 - 0 1 0.0 0 7 7 0 0 2 0 2 2
+p149
+aVMario Elie PHX 03/23/2001 PHX vs. PHI W 19 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 4
+p150
+aVJake Tsakalidis PHX 03/23/2001 PHX vs. PHI W 31 12 6 10 60.0 0 0 - 0 0 - 1 7 8 0 0 0 0 3 14
+p151
+aVDaniel Santiago PHX 03/23/2001 PHX vs. PHI W 2 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 0 -5
+p152
+aVTony Delk PHX 03/23/2001 PHX vs. PHI W 30 11 5 9 55.6 0 0 - 1 2 50.0 0 1 1 1 2 0 1 1 9
+p153
+aVClifford Robinson PHX 03/23/2001 PHX vs. PHI W 37 22 9 18 50.0 4 7 57.1 0 0 - 0 1 1 4 1 1 1 2 19
+p154
+aVTom Gugliotta PHX 03/23/2001 PHX vs. PHI W 25 2 1 6 16.7 0 0 - 0 0 - 0 3 3 2 0 0 1 1 10
+p155
+aVChris Dudley PHX 03/23/2001 PHX vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -6
+p156
+aVElliot Perry PHX 03/23/2001 PHX vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p157
+aVRodney Rogers PHX 03/23/2001 PHX vs. PHI W 15 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 0 1 0 2 3 5
+p158
+aVJason Kidd PHX 03/23/2001 PHX vs. PHI W 36 12 5 13 38.5 0 1 0.0 2 2 100.0 2 8 10 14 4 0 3 2 13
+p159
+aVTom Gugliotta PHX 03/22/2001 PHX @ SEA W 24 0 0 5 0.0 0 0 - 0 0 - 3 3 6 1 0 0 1 1 10
+p160
+aVShawn Marion PHX 03/22/2001 PHX @ SEA W 36 20 6 10 60.0 0 0 - 8 8 100.0 4 9 13 0 2 1 2 2 11
+p161
+aVJason Kidd PHX 03/22/2001 PHX @ SEA W 48 20 6 18 33.3 3 5 60.0 5 6 83.3 1 8 9 7 1 1 5 2 3
+p162
+aVJake Tsakalidis PHX 03/22/2001 PHX @ SEA W 15 9 4 10 40.0 0 0 - 1 2 50.0 4 2 6 0 0 1 0 2 -16
+p163
+aVChris Dudley PHX 03/22/2001 PHX @ SEA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -4
+p164
+aVTony Delk PHX 03/22/2001 PHX @ SEA W 28 15 4 14 28.6 0 1 0.0 7 8 87.5 2 1 3 2 0 0 1 3 -1
+p165
+aVRodney Rogers PHX 03/22/2001 PHX @ SEA W 28 11 5 10 50.0 1 2 50.0 0 0 - 2 2 4 0 1 1 0 5 -6
+p166
+aVMario Elie PHX 03/22/2001 PHX @ SEA W 20 6 3 5 60.0 0 1 0.0 0 0 - 2 1 3 2 1 0 1 1 4
+p167
+aVClifford Robinson PHX 03/22/2001 PHX @ SEA W 38 10 3 10 30.0 0 3 0.0 4 6 66.7 1 4 5 3 3 0 1 2 14
+p168
+aVJason Kidd PHX 03/20/2001 PHX vs. WAS W 40 36 11 24 45.8 2 4 50.0 12 12 100.0 0 2 2 9 3 0 1 3 18
+p169
+aVRodney Rogers PHX 03/20/2001 PHX vs. WAS W 31 8 2 6 33.3 0 0 - 4 4 100.0 2 4 6 3 1 0 5 1 8
+p170
+aVMario Elie PHX 03/20/2001 PHX vs. WAS W 16 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 2 0 0 2 1 1
+p171
+aVTony Delk PHX 03/20/2001 PHX vs. WAS W 11 0 0 6 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 9
+p172
+aVClifford Robinson PHX 03/20/2001 PHX vs. WAS W 28 18 7 11 63.6 2 3 66.7 2 4 50.0 3 0 3 2 1 1 1 4 6
+p173
+aVChris Dudley PHX 03/20/2001 PHX vs. WAS W 17 0 0 0 - 0 0 - 0 2 0.0 3 1 4 1 1 1 1 5 13
+p174
+aVTom Gugliotta PHX 03/20/2001 PHX vs. WAS W 11 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -6
+p175
+aVJake Tsakalidis PHX 03/20/2001 PHX vs. WAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 3
+p176
+aVElliot Perry PHX 03/20/2001 PHX vs. WAS W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p177
+aVShawn Marion PHX 03/20/2001 PHX vs. WAS W 37 24 10 19 52.6 1 1 100.0 3 4 75.0 5 6 11 3 6 0 3 2 13
+p178
+aVDaniel Santiago PHX 03/20/2001 PHX vs. WAS W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 1 0 2 -2
+p179
+aVVinny Del Negro PHX 03/20/2001 PHX vs. WAS W 28 10 5 10 50.0 0 1 0.0 0 0 - 0 3 3 4 0 1 0 3 11
+p180
+aVMario Elie PHX 03/17/2001 PHX @ DAL L 40 10 3 5 60.0 2 4 50.0 2 2 100.0 1 5 6 2 2 2 0 2 -9
+p181
+aVVinny Del Negro PHX 03/17/2001 PHX @ DAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 2 0 0 2 4
+p182
+aVElliot Perry PHX 03/17/2001 PHX @ DAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p183
+aVTom Gugliotta PHX 03/17/2001 PHX @ DAL L 20 6 3 7 42.9 0 1 0.0 0 0 - 2 4 6 0 1 0 1 3 -16
+p184
+aVTony Delk PHX 03/17/2001 PHX @ DAL L 27 8 3 9 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 1 -3
+p185
+aVJake Tsakalidis PHX 03/17/2001 PHX @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -4
+p186
+aVShawn Marion PHX 03/17/2001 PHX @ DAL L 41 13 4 13 30.8 0 0 - 5 7 71.4 4 11 15 1 1 1 4 5 -1
+p187
+aVRodney Rogers PHX 03/17/2001 PHX @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p188
+aVClifford Robinson PHX 03/17/2001 PHX @ DAL L 40 26 9 21 42.9 2 4 50.0 6 7 85.7 5 4 9 3 0 4 2 3 -7
+p189
+aVJason Kidd PHX 03/17/2001 PHX @ DAL L 44 32 12 23 52.2 1 3 33.3 7 7 100.0 2 7 9 9 0 1 4 5 -11
+p190
+aVShawn Marion PHX 03/15/2001 PHX vs. BOS L 34 18 8 19 42.1 1 1 100.0 1 1 100.0 5 5 10 1 1 3 4 5 -10
+p191
+aVJake Tsakalidis PHX 03/15/2001 PHX vs. BOS L 13 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 0 1 3 1 1
+p192
+aVJason Kidd PHX 03/15/2001 PHX vs. BOS L 44 31 11 18 61.1 2 2 100.0 7 7 100.0 1 6 7 9 1 0 5 2 2
+p193
+aVDaniel Santiago PHX 03/15/2001 PHX vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p194
+aVMario Elie PHX 03/15/2001 PHX vs. BOS L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -8
+p195
+aVTom Gugliotta PHX 03/15/2001 PHX vs. BOS L 33 11 4 10 40.0 1 1 100.0 2 2 100.0 1 3 4 2 1 1 1 4 16
+p196
+aVRodney Rogers PHX 03/15/2001 PHX vs. BOS L 25 11 4 7 57.1 1 1 100.0 2 4 50.0 3 1 4 3 1 0 2 3 -3
+p197
+aVChris Dudley PHX 03/15/2001 PHX vs. BOS L 8 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -1
+p198
+aVVinny Del Negro PHX 03/15/2001 PHX vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p199
+aVClifford Robinson PHX 03/15/2001 PHX vs. BOS L 24 8 3 11 27.3 0 1 0.0 2 2 100.0 2 3 5 3 0 1 3 1 -13
+p200
+aVTony Delk PHX 03/15/2001 PHX vs. BOS L 38 15 6 15 40.0 1 4 25.0 2 2 100.0 3 4 7 2 2 0 5 5 4
+p201
+aVVinny Del Negro PHX 03/14/2001 PHX @ POR W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p202
+aVClifford Robinson PHX 03/14/2001 PHX @ POR W 22 0 0 9 0.0 0 3 0.0 0 0 - 0 2 2 4 1 0 0 3 -1
+p203
+aVShawn Marion PHX 03/14/2001 PHX @ POR W 39 26 10 18 55.6 0 0 - 6 8 75.0 2 11 13 0 3 0 2 2 9
+p204
+aVJake Tsakalidis PHX 03/14/2001 PHX @ POR W 29 9 4 9 44.4 0 0 - 1 2 50.0 3 4 7 1 0 0 2 3 -5
+p205
+aVRodney Rogers PHX 03/14/2001 PHX @ POR W 21 4 2 5 40.0 0 1 0.0 0 0 - 2 2 4 1 0 0 2 1 1
+p206
+aVMario Elie PHX 03/14/2001 PHX @ POR W 36 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 5 1 0 1 3 6
+p207
+aVJason Kidd PHX 03/14/2001 PHX @ POR W 43 21 7 13 53.8 1 4 25.0 6 6 100.0 1 7 8 3 2 0 4 2 2
+p208
+aVTony Delk PHX 03/14/2001 PHX @ POR W 16 14 5 7 71.4 0 0 - 4 6 66.7 0 1 1 1 0 0 1 4 8
+p209
+aVTom Gugliotta PHX 03/14/2001 PHX @ POR W 30 8 4 13 30.8 0 0 - 0 0 - 5 2 7 3 1 0 1 3 2
+p210
+aVTony Delk PHX 03/11/2001 PHX vs. HOU W 28 13 5 10 50.0 1 1 100.0 2 2 100.0 3 0 3 1 2 0 1 1 15
+p211
+aVMario Elie PHX 03/11/2001 PHX vs. HOU W 25 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 1 1 0 0 1 -19
+p212
+aVJake Tsakalidis PHX 03/11/2001 PHX vs. HOU W 13 2 1 2 50.0 0 0 - 0 0 - 3 2 5 1 0 0 3 2 -6
+p213
+aVVinny Del Negro PHX 03/11/2001 PHX vs. HOU W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p214
+aVShawn Marion PHX 03/11/2001 PHX vs. HOU W 31 17 7 17 41.2 0 0 - 3 4 75.0 0 4 4 0 2 1 1 2 -7
+p215
+aVRodney Rogers PHX 03/11/2001 PHX vs. HOU W 23 2 1 8 12.5 0 1 0.0 0 0 - 1 4 5 3 0 1 1 3 11
+p216
+aVElliot Perry PHX 03/11/2001 PHX vs. HOU W 5 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 0 1 0 1 1 2
+p217
+aVJason Kidd PHX 03/11/2001 PHX vs. HOU W 43 19 8 16 50.0 1 1 100.0 2 3 66.7 2 6 8 16 2 0 3 3 0
+p218
+aVTom Gugliotta PHX 03/11/2001 PHX vs. HOU W 26 12 5 11 45.5 0 0 - 2 4 50.0 3 6 9 0 0 0 2 4 15
+p219
+aVClifford Robinson PHX 03/11/2001 PHX vs. HOU W 39 17 7 14 50.0 0 1 0.0 3 4 75.0 1 3 4 2 1 2 1 3 -4
+p220
+aVDaniel Santiago PHX 03/09/2001 PHX @ UTA L 16 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 1 6 6
+p221
+aVShawn Marion PHX 03/09/2001 PHX @ UTA L 36 24 9 20 45.0 1 2 50.0 5 6 83.3 2 3 5 1 5 1 2 2 -15
+p222
+aVMario Elie PHX 03/09/2001 PHX @ UTA L 20 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 2 0 2 2 -10
+p223
+aVVinny Del Negro PHX 03/09/2001 PHX @ UTA L 9 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p224
+aVJason Kidd PHX 03/09/2001 PHX @ UTA L 31 9 3 10 30.0 0 1 0.0 3 3 100.0 1 5 6 13 1 0 2 2 -16
+p225
+aVClifford Robinson PHX 03/09/2001 PHX @ UTA L 30 12 4 12 33.3 1 4 25.0 3 4 75.0 0 2 2 2 0 0 1 6 1
+p226
+aVTom Gugliotta PHX 03/09/2001 PHX @ UTA L 30 12 5 8 62.5 0 0 - 2 2 100.0 2 5 7 2 2 0 2 4 -17
+p227
+aVTony Delk PHX 03/09/2001 PHX @ UTA L 33 21 5 12 41.7 0 1 0.0 11 12 91.7 2 1 3 4 4 1 0 3 -4
+p228
+aVElliot Perry PHX 03/09/2001 PHX @ UTA L 12 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 0 4 10
+p229
+aVRodney Rogers PHX 03/09/2001 PHX @ UTA L 20 3 1 6 16.7 0 0 - 1 2 50.0 0 1 1 0 2 0 3 3 -19
+p230
+aVChris Dudley PHX 03/09/2001 PHX @ UTA L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 3
+p231
+aVMario Elie PHX 03/07/2001 PHX vs. SAC L 20 10 4 4 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 2 12
+p232
+aVJake Tsakalidis PHX 03/07/2001 PHX vs. SAC L 14 1 0 3 0.0 0 0 - 1 2 50.0 3 4 7 1 1 0 1 4 7
+p233
+aVJason Kidd PHX 03/07/2001 PHX vs. SAC L 41 6 2 6 33.3 0 1 0.0 2 4 50.0 2 3 5 13 2 0 4 1 -19
+p234
+aVDaniel Santiago PHX 03/07/2001 PHX vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p235
+aVShawn Marion PHX 03/07/2001 PHX vs. SAC L 43 23 10 17 58.8 0 0 - 3 3 100.0 1 7 8 2 3 2 1 0 -13
+p236
+aVClifford Robinson PHX 03/07/2001 PHX vs. SAC L 26 14 6 15 40.0 0 2 0.0 2 2 100.0 1 3 4 0 0 1 1 4 1
+p237
+aVRodney Rogers PHX 03/07/2001 PHX vs. SAC L 33 19 9 22 40.9 0 1 0.0 1 2 50.0 2 2 4 1 1 1 0 4 -20
+p238
+aVVinny Del Negro PHX 03/07/2001 PHX vs. SAC L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 6 1 0 0 0 -2
+p239
+aVElliot Perry PHX 03/07/2001 PHX vs. SAC L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p240
+aVTony Delk PHX 03/07/2001 PHX vs. SAC L 27 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 2 0 3 2 -15
+p241
+aVTom Gugliotta PHX 03/07/2001 PHX vs. SAC L 20 6 2 10 20.0 0 1 0.0 2 2 100.0 0 1 1 1 2 1 2 3 -14
+p242
+aVRodney Rogers PHX 03/06/2001 PHX @ DEN W 28 7 2 6 33.3 0 2 0.0 3 8 37.5 0 2 2 1 1 0 1 5 -5
+p243
+aVDaniel Santiago PHX 03/06/2001 PHX @ DEN W 9 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 3 3 -7
+p244
+aVClifford Robinson PHX 03/06/2001 PHX @ DEN W 23 9 3 8 37.5 1 2 50.0 2 2 100.0 0 3 3 3 0 0 1 1 20
+p245
+aVTom Gugliotta PHX 03/06/2001 PHX @ DEN W 35 25 9 17 52.9 0 1 0.0 7 7 100.0 1 5 6 2 2 0 1 3 12
+p246
+aVTony Delk PHX 03/06/2001 PHX @ DEN W 27 10 2 7 28.6 0 2 0.0 6 6 100.0 0 4 4 6 0 1 1 1 5
+p247
+aVChris Dudley PHX 03/06/2001 PHX @ DEN W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 2 -4
+p248
+aVJason Kidd PHX 03/06/2001 PHX @ DEN W 28 8 3 8 37.5 1 1 100.0 1 1 100.0 1 7 8 10 1 0 4 0 13
+p249
+aVShawn Marion PHX 03/06/2001 PHX @ DEN W 24 22 10 12 83.3 0 0 - 2 2 100.0 2 7 9 3 0 1 2 0 16
+p250
+aVVinny Del Negro PHX 03/06/2001 PHX @ DEN W 20 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 2 0 1 4 -2
+p251
+aVMario Elie PHX 03/06/2001 PHX @ DEN W 21 3 1 5 20.0 0 1 0.0 1 2 50.0 1 3 4 2 1 0 2 0 6
+p252
+aVJake Tsakalidis PHX 03/06/2001 PHX @ DEN W 13 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 4 2 4 4
+p253
+aVElliot Perry PHX 03/06/2001 PHX @ DEN W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -3
+p254
+aVVinny Del Negro PHX 03/03/2001 PHX vs. DEN W 19 12 5 7 71.4 0 0 - 2 2 100.0 0 3 3 1 2 0 0 1 -4
+p255
+aVRodney Rogers PHX 03/03/2001 PHX vs. DEN W 34 18 8 15 53.3 1 2 50.0 1 2 50.0 1 4 5 3 2 2 2 2 10
+p256
+aVElliot Perry PHX 03/03/2001 PHX vs. DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p257
+aVTom Gugliotta PHX 03/03/2001 PHX vs. DEN W 30 19 6 11 54.5 0 0 - 7 8 87.5 4 9 13 1 0 1 0 3 21
+p258
+aVJason Kidd PHX 03/03/2001 PHX vs. DEN W 40 7 1 6 16.7 0 1 0.0 5 5 100.0 2 7 9 19 1 1 3 1 18
+p259
+aVMario Elie PHX 03/03/2001 PHX vs. DEN W 25 2 1 3 33.3 0 1 0.0 0 0 - 0 6 6 2 1 1 2 0 12
+p260
+aVClifford Robinson PHX 03/03/2001 PHX vs. DEN W 35 20 8 20 40.0 2 5 40.0 2 2 100.0 1 5 6 0 3 2 3 1 17
+p261
+aVJake Tsakalidis PHX 03/03/2001 PHX vs. DEN W 21 6 3 7 42.9 0 0 - 0 1 0.0 1 2 3 0 0 1 0 4 1
+p262
+aVDaniel Santiago PHX 03/03/2001 PHX vs. DEN W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p263
+aVTony Delk PHX 03/03/2001 PHX vs. DEN W 28 11 4 13 30.8 0 2 0.0 3 4 75.0 0 4 4 4 0 2 0 0 5
+p264
+aVJason Kidd PHX 03/01/2001 PHX @ SAS L 37 7 3 17 17.6 0 2 0.0 1 2 50.0 3 4 7 7 1 0 3 3 -28
+p265
+aVMario Elie PHX 03/01/2001 PHX @ SAS L 15 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 0
+p266
+aVRodney Rogers PHX 03/01/2001 PHX @ SAS L 26 1 0 6 0.0 0 0 - 1 2 50.0 2 5 7 1 1 2 3 3 -11
+p267
+aVElliot Perry PHX 03/01/2001 PHX @ SAS L 3 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p268
+aVTony Delk PHX 03/01/2001 PHX @ SAS L 37 18 6 21 28.6 0 2 0.0 6 6 100.0 3 4 7 2 1 1 1 2 -23
+p269
+aVTom Gugliotta PHX 03/01/2001 PHX @ SAS L 25 8 3 9 33.3 0 0 - 2 2 100.0 1 5 6 1 1 0 3 3 -1
+p270
+aVClifford Robinson PHX 03/01/2001 PHX @ SAS L 27 12 4 11 36.4 3 5 60.0 1 2 50.0 0 3 3 0 0 0 2 4 -14
+p271
+aVJake Tsakalidis PHX 03/01/2001 PHX @ SAS L 24 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 0 3 1 3 -13
+p272
+aVChris Dudley PHX 03/01/2001 PHX @ SAS L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 0
+p273
+aVDaniel Santiago PHX 03/01/2001 PHX @ SAS L 17 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 -2
+p274
+aVVinny Del Negro PHX 03/01/2001 PHX @ SAS L 25 14 6 7 85.7 0 0 - 2 2 100.0 0 1 1 0 1 0 1 1 -8
+p275
+aVJason Kidd PHX 02/28/2001 PHX vs. ORL L 43 16 3 11 27.3 1 6 16.7 9 11 81.8 1 15 16 5 1 1 4 3 -10
+p276
+aVClifford Robinson PHX 02/28/2001 PHX vs. ORL L 39 16 4 11 36.4 2 3 66.7 6 10 60.0 1 3 4 5 2 2 0 2 -8
+p277
+aVTony Delk PHX 02/28/2001 PHX vs. ORL L 32 12 4 11 36.4 0 1 0.0 4 7 57.1 0 1 1 1 0 0 2 2 -4
+p278
+aVMario Elie PHX 02/28/2001 PHX vs. ORL L 32 6 2 4 50.0 1 2 50.0 1 2 50.0 0 1 1 3 1 0 2 4 -6
+p279
+aVRodney Rogers PHX 02/28/2001 PHX vs. ORL L 28 6 2 14 14.3 1 2 50.0 1 2 50.0 2 5 7 3 0 0 2 4 4
+p280
+aVJake Tsakalidis PHX 02/28/2001 PHX vs. ORL L 31 17 6 10 60.0 0 0 - 5 6 83.3 2 6 8 1 0 2 1 3 -5
+p281
+aVChris Dudley PHX 02/28/2001 PHX vs. ORL L 6 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 1 0 0 0 -1
+p282
+aVVinny Del Negro PHX 02/28/2001 PHX vs. ORL L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 1 3 3 6
+p283
+aVTom Gugliotta PHX 02/28/2001 PHX vs. ORL L 17 14 5 10 50.0 0 0 - 4 4 100.0 2 2 4 1 1 0 0 1 -6
+p284
+aVVinny Del Negro PHX 02/25/2001 PHX vs. UTA W 16 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 1 7
+p285
+aVRodney Rogers PHX 02/25/2001 PHX vs. UTA W 22 7 3 12 25.0 0 1 0.0 1 1 100.0 2 2 4 2 3 1 1 4 15
+p286
+aVChris Dudley PHX 02/25/2001 PHX vs. UTA W 0 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p287
+aVJake Tsakalidis PHX 02/25/2001 PHX vs. UTA W 32 9 4 7 57.1 0 0 - 1 4 25.0 5 5 10 0 1 2 2 3 -6
+p288
+aVTony Delk PHX 02/25/2001 PHX vs. UTA W 28 16 6 10 60.0 1 1 100.0 3 4 75.0 1 2 3 1 0 0 0 2 11
+p289
+aVTom Gugliotta PHX 02/25/2001 PHX vs. UTA W 15 3 1 7 14.3 0 0 - 1 2 50.0 1 1 2 0 0 0 2 2 4
+p290
+aVClifford Robinson PHX 02/25/2001 PHX vs. UTA W 29 14 3 9 33.3 1 3 33.3 7 9 77.8 0 1 1 1 3 0 4 5 4
+p291
+aVJason Kidd PHX 02/25/2001 PHX vs. UTA W 43 9 2 8 25.0 0 1 0.0 5 6 83.3 2 6 8 12 3 1 6 3 5
+p292
+aVShawn Marion PHX 02/25/2001 PHX vs. UTA W 43 24 10 21 47.6 0 0 - 4 5 80.0 4 10 14 3 3 2 2 3 7
+p293
+aVMario Elie PHX 02/25/2001 PHX vs. UTA W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 1
+p294
+aVTony Delk PHX 02/23/2001 PHX @ NYK W 14 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 0 4 -4
+p295
+aVShawn Marion PHX 02/23/2001 PHX @ NYK W 42 19 9 12 75.0 0 0 - 1 3 33.3 3 8 11 0 1 1 2 3 2
+p296
+aVJason Kidd PHX 02/23/2001 PHX @ NYK W 49 16 7 16 43.8 0 2 0.0 2 6 33.3 1 8 9 7 2 0 5 3 1
+p297
+aVVinny Del Negro PHX 02/23/2001 PHX @ NYK W 21 4 2 5 40.0 0 1 0.0 0 1 0.0 1 1 2 2 0 0 1 2 10
+p298
+aVClifford Robinson PHX 02/23/2001 PHX @ NYK W 39 13 5 17 29.4 1 2 50.0 2 2 100.0 0 2 2 7 3 1 2 3 8
+p299
+aVRodney Rogers PHX 02/23/2001 PHX @ NYK W 19 10 5 9 55.6 0 0 - 0 0 - 0 2 2 3 0 0 2 1 1
+p300
+aVJake Tsakalidis PHX 02/23/2001 PHX @ NYK W 27 14 6 8 75.0 0 0 - 2 2 100.0 1 6 7 0 0 0 0 3 9
+p301
+aVTom Gugliotta PHX 02/23/2001 PHX @ NYK W 32 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 1 1 2 1 -8
+p302
+aVMario Elie PHX 02/23/2001 PHX @ NYK W 23 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 2 1 0 0 3 1
+p303
+aVMario Elie PHX 02/21/2001 PHX @ MIA W 19 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 2 0 0 1 0 20
+p304
+aVVinny Del Negro PHX 02/21/2001 PHX @ MIA W 19 10 5 6 83.3 0 0 - 0 0 - 1 1 2 5 1 0 2 0 -14
+p305
+aVDaniel Santiago PHX 02/21/2001 PHX @ MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p306
+aVJason Kidd PHX 02/21/2001 PHX @ MIA W 37 5 1 5 20.0 1 2 50.0 2 3 66.7 0 2 2 9 1 1 3 0 30
+p307
+aVClifford Robinson PHX 02/21/2001 PHX @ MIA W 37 25 9 18 50.0 0 2 0.0 7 9 77.8 2 3 5 3 2 2 2 4 26
+p308
+aVTony Delk PHX 02/21/2001 PHX @ MIA W 32 9 4 10 40.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 3 5
+p309
+aVJake Tsakalidis PHX 02/21/2001 PHX @ MIA W 19 5 2 5 40.0 0 0 - 1 2 50.0 3 5 8 0 0 1 0 3 -3
+p310
+aVElliot Perry PHX 02/21/2001 PHX @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p311
+aVRodney Rogers PHX 02/21/2001 PHX @ MIA W 29 22 11 18 61.1 0 0 - 0 0 - 3 5 8 1 1 0 3 5 -8
+p312
+aVShawn Marion PHX 02/21/2001 PHX @ MIA W 41 16 7 14 50.0 0 0 - 2 2 100.0 4 14 18 3 2 1 2 2 23
+p313
+aVVinny Del Negro PHX 02/20/2001 PHX @ ORL W 19 1 0 3 0.0 0 0 - 1 1 100.0 0 2 2 3 0 0 2 0 2
+p314
+aVTony Delk PHX 02/20/2001 PHX @ ORL W 35 22 8 17 47.1 0 1 0.0 6 8 75.0 1 4 5 1 3 0 0 3 5
+p315
+aVDaniel Santiago PHX 02/20/2001 PHX @ ORL W 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -2
+p316
+aVJake Tsakalidis PHX 02/20/2001 PHX @ ORL W 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 2 3 -1
+p317
+aVMario Elie PHX 02/20/2001 PHX @ ORL W 13 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 0 0 1
+p318
+aVRodney Rogers PHX 02/20/2001 PHX @ ORL W 36 20 8 12 66.7 0 2 0.0 4 7 57.1 1 4 5 1 2 0 3 5 5
+p319
+aVClifford Robinson PHX 02/20/2001 PHX @ ORL W 28 18 4 11 36.4 1 1 100.0 9 12 75.0 0 6 6 2 0 1 3 4 2
+p320
+aVShawn Marion PHX 02/20/2001 PHX @ ORL W 44 28 8 12 66.7 1 1 100.0 11 13 84.6 5 6 11 0 0 0 2 4 9
+p321
+aVJason Kidd PHX 02/20/2001 PHX @ ORL W 42 15 3 6 50.0 0 1 0.0 9 10 90.0 1 5 6 15 2 1 4 4 9
+p322
+aVMario Elie PHX 02/18/2001 PHX @ PHI L 15 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 2 3 0 3 2 1
+p323
+aVJake Tsakalidis PHX 02/18/2001 PHX @ PHI L 21 6 3 5 60.0 0 0 - 0 0 - 4 2 6 0 0 0 1 2 -8
+p324
+aVVinny Del Negro PHX 02/18/2001 PHX @ PHI L 11 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 -6
+p325
+aVRodney Rogers PHX 02/18/2001 PHX @ PHI L 34 15 6 17 35.3 1 4 25.0 2 3 66.7 4 6 10 3 1 0 1 3 -3
+p326
+aVJason Kidd PHX 02/18/2001 PHX @ PHI L 46 22 9 17 52.9 0 2 0.0 4 6 66.7 2 3 5 10 2 1 5 3 -6
+p327
+aVClifford Robinson PHX 02/18/2001 PHX @ PHI L 36 14 6 18 33.3 0 2 0.0 2 3 66.7 1 0 1 6 0 1 2 2 -2
+p328
+aVShawn Marion PHX 02/18/2001 PHX @ PHI L 42 17 8 12 66.7 0 1 0.0 1 1 100.0 2 11 13 0 3 1 1 4 4
+p329
+aVTony Delk PHX 02/18/2001 PHX @ PHI L 35 17 8 15 53.3 0 3 0.0 1 2 50.0 1 4 5 2 2 0 4 5 -10
+p330
+aVElliot Perry PHX 02/14/2001 PHX vs. MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p331
+aVShawn Marion PHX 02/14/2001 PHX vs. MIN W 40 38 15 22 68.2 0 0 - 8 8 100.0 1 11 12 0 3 2 4 4 12
+p332
+aVJake Tsakalidis PHX 02/14/2001 PHX vs. MIN W 20 5 1 2 50.0 0 0 - 3 4 75.0 0 3 3 2 0 1 1 4 13
+p333
+aVClifford Robinson PHX 02/14/2001 PHX vs. MIN W 44 19 6 12 50.0 2 2 100.0 5 6 83.3 3 3 6 3 2 2 4 3 1
+p334
+aVMario Elie PHX 02/14/2001 PHX vs. MIN W 8 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 2 1 0
+p335
+aVJason Kidd PHX 02/14/2001 PHX vs. MIN W 43 19 7 16 43.8 0 1 0.0 5 6 83.3 0 10 10 12 1 0 3 0 4
+p336
+aVVinny Del Negro PHX 02/14/2001 PHX vs. MIN W 25 6 3 6 50.0 0 0 - 0 0 - 0 1 1 5 1 0 0 1 -5
+p337
+aVTony Delk PHX 02/14/2001 PHX vs. MIN W 26 7 3 8 37.5 0 1 0.0 1 2 50.0 1 5 6 4 0 0 2 3 10
+p338
+aVRodney Rogers PHX 02/14/2001 PHX vs. MIN W 34 7 3 7 42.9 0 1 0.0 1 2 50.0 1 4 5 2 2 1 2 5 5
+p339
+aVRodney Rogers PHX 02/13/2001 PHX @ GSW W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p340
+aVShawn Marion PHX 02/13/2001 PHX @ GSW W 38 28 11 21 52.4 0 1 0.0 6 8 75.0 4 9 13 2 2 4 1 3 19
+p341
+aVDaniel Santiago PHX 02/13/2001 PHX @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -10
+p342
+aVElliot Perry PHX 02/13/2001 PHX @ GSW W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p343
+aVTom Gugliotta PHX 02/13/2001 PHX @ GSW W 32 10 5 7 71.4 0 0 - 0 0 - 0 5 5 2 2 1 2 0 1
+p344
+aVClifford Robinson PHX 02/13/2001 PHX @ GSW W 35 13 5 15 33.3 1 4 25.0 2 2 100.0 2 4 6 2 1 5 3 3 20
+p345
+aVVinny Del Negro PHX 02/13/2001 PHX @ GSW W 18 8 1 2 50.0 0 0 - 6 6 100.0 0 3 3 2 2 0 0 0 5
+p346
+aVTony Delk PHX 02/13/2001 PHX @ GSW W 25 12 6 11 54.5 0 1 0.0 0 0 - 1 3 4 3 5 1 1 1 -8
+p347
+aVJason Kidd PHX 02/13/2001 PHX @ GSW W 39 14 6 15 40.0 1 2 50.0 1 2 50.0 0 4 4 10 1 0 3 0 16
+p348
+aVJake Tsakalidis PHX 02/13/2001 PHX @ GSW W 27 4 2 9 22.2 0 0 - 0 2 0.0 3 8 11 2 0 3 0 2 15
+p349
+aVMario Elie PHX 02/13/2001 PHX @ GSW W 14 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 3 0 0 0 0 7
+p350
+aVMario Elie PHX 02/07/2001 PHX @ LAL L 19 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 1 -6
+p351
+aVVinny Del Negro PHX 02/07/2001 PHX @ LAL L 31 11 5 7 71.4 0 0 - 1 1 100.0 1 6 7 3 2 0 0 1 10
+p352
+aVJake Tsakalidis PHX 02/07/2001 PHX @ LAL L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 4 3 -6
+p353
+aVJason Kidd PHX 02/07/2001 PHX @ LAL L 36 14 5 12 41.7 0 2 0.0 4 7 57.1 2 4 6 9 0 0 2 4 3
+p354
+aVClifford Robinson PHX 02/07/2001 PHX @ LAL L 44 22 7 19 36.8 2 5 40.0 6 7 85.7 1 3 4 0 0 1 3 2 -4
+p355
+aVRodney Rogers PHX 02/07/2001 PHX @ LAL L 15 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 1 3 1 1 2 -7
+p356
+aVTony Delk PHX 02/07/2001 PHX @ LAL L 16 1 0 4 0.0 0 1 0.0 1 2 50.0 1 1 2 2 2 0 1 2 -6
+p357
+aVElliot Perry PHX 02/07/2001 PHX @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p358
+aVTom Gugliotta PHX 02/07/2001 PHX @ LAL L 24 3 1 8 12.5 1 1 100.0 0 0 - 3 4 7 0 0 1 1 3 6
+p359
+aVShawn Marion PHX 02/07/2001 PHX @ LAL L 39 18 6 12 50.0 0 0 - 6 7 85.7 2 14 16 1 1 3 6 1 -3
+p360
+aVClifford Robinson PHX 02/06/2001 PHX vs. CHI W 23 18 7 11 63.6 0 1 0.0 4 5 80.0 0 1 1 0 1 1 2 2 15
+p361
+aVMario Elie PHX 02/06/2001 PHX vs. CHI W 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 10
+p362
+aVDaniel Santiago PHX 02/06/2001 PHX vs. CHI W 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -4
+p363
+aVShawn Marion PHX 02/06/2001 PHX vs. CHI W 30 17 7 13 53.8 0 0 - 3 4 75.0 4 9 13 3 1 2 1 1 27
+p364
+aVRodney Rogers PHX 02/06/2001 PHX vs. CHI W 27 15 6 12 50.0 0 3 0.0 3 4 75.0 0 3 3 1 1 1 1 1 1
+p365
+aVElliot Perry PHX 02/06/2001 PHX vs. CHI W 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 0 0 1 0 -2
+p366
+aVVinny Del Negro PHX 02/06/2001 PHX vs. CHI W 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 2
+p367
+aVTom Gugliotta PHX 02/06/2001 PHX vs. CHI W 32 11 5 14 35.7 0 0 - 1 1 100.0 6 4 10 5 3 1 4 2 11
+p368
+aVJake Tsakalidis PHX 02/06/2001 PHX vs. CHI W 29 7 3 6 50.0 0 0 - 1 1 100.0 1 5 6 2 2 4 2 2 1
+p369
+aVJason Kidd PHX 02/06/2001 PHX vs. CHI W 21 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 11 2 0 3 0 16
+p370
+aVTony Delk PHX 02/06/2001 PHX vs. CHI W 26 11 4 15 26.7 0 1 0.0 3 3 100.0 0 3 3 1 1 0 0 1 8
+p371
+aVTom Gugliotta PHX 02/04/2001 PHX vs. CHH W 32 10 5 13 38.5 0 0 - 0 0 - 6 5 11 3 4 0 1 3 7
+p372
+aVRodney Rogers PHX 02/04/2001 PHX vs. CHH W 30 16 5 7 71.4 1 2 50.0 5 6 83.3 1 3 4 3 0 1 2 3 12
+p373
+aVShawn Marion PHX 02/04/2001 PHX vs. CHH W 39 14 5 15 33.3 0 0 - 4 6 66.7 3 10 13 2 0 0 1 4 -2
+p374
+aVTony Delk PHX 02/04/2001 PHX vs. CHH W 32 16 6 13 46.2 0 1 0.0 4 4 100.0 3 4 7 1 0 0 2 2 11
+p375
+aVMario Elie PHX 02/04/2001 PHX vs. CHH W 8 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -7
+p376
+aVJason Kidd PHX 02/04/2001 PHX vs. CHH W 45 11 4 12 33.3 0 1 0.0 3 5 60.0 1 5 6 9 3 0 5 3 5
+p377
+aVClifford Robinson PHX 02/04/2001 PHX vs. CHH W 28 15 5 18 27.8 0 1 0.0 5 7 71.4 4 4 8 3 2 1 1 3 -9
+p378
+aVJake Tsakalidis PHX 02/04/2001 PHX vs. CHH W 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -3
+p379
+aVVinny Del Negro PHX 02/04/2001 PHX vs. CHH W 17 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 1
+p380
+aVShawn Marion PHX 02/01/2001 PHX @ POR L 41 7 3 9 33.3 0 0 - 1 2 50.0 6 9 15 3 2 1 3 2 7
+p381
+aVJason Kidd PHX 02/01/2001 PHX @ POR L 41 10 4 16 25.0 0 4 0.0 2 2 100.0 0 6 6 8 4 0 1 6 -14
+p382
+aVMario Elie PHX 02/01/2001 PHX @ POR L 16 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -2
+p383
+aVTony Delk PHX 02/01/2001 PHX @ POR L 23 10 5 7 71.4 0 1 0.0 0 0 - 2 2 4 0 0 0 2 0 -5
+p384
+aVTom Gugliotta PHX 02/01/2001 PHX @ POR L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 5
+p385
+aVClifford Robinson PHX 02/01/2001 PHX @ POR L 39 42 14 24 58.3 1 4 25.0 13 14 92.9 4 4 8 2 1 1 3 5 -14
+p386
+aVVinny Del Negro PHX 02/01/2001 PHX @ POR L 16 10 5 7 71.4 0 0 - 0 0 - 1 0 1 4 2 0 1 1 6
+p387
+aVDaniel Santiago PHX 02/01/2001 PHX @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p388
+aVJake Tsakalidis PHX 02/01/2001 PHX @ POR L 23 2 1 5 20.0 0 0 - 0 2 0.0 0 0 0 0 1 2 1 4 -14
+p389
+aVRodney Rogers PHX 02/01/2001 PHX @ POR L 30 11 3 10 30.0 1 1 100.0 4 4 100.0 0 1 1 3 1 0 0 5 -6
+p390
+aVMario Elie PHX 01/31/2001 PHX vs. VAN W 17 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 3 0 1 -7
+p391
+aVVinny Del Negro PHX 01/31/2001 PHX vs. VAN W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 1 0 0 0 0
+p392
+aVJason Kidd PHX 01/31/2001 PHX vs. VAN W 39 17 8 12 66.7 0 1 0.0 1 1 100.0 0 7 7 10 3 0 4 3 8
+p393
+aVRodney Rogers PHX 01/31/2001 PHX vs. VAN W 15 10 3 9 33.3 0 1 0.0 4 4 100.0 0 1 1 1 1 1 2 3 7
+p394
+aVDaniel Santiago PHX 01/31/2001 PHX vs. VAN W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 3 -2
+p395
+aVJake Tsakalidis PHX 01/31/2001 PHX vs. VAN W 33 13 4 6 66.7 0 0 - 5 6 83.3 5 3 8 2 2 2 3 4 2
+p396
+aVClifford Robinson PHX 01/31/2001 PHX vs. VAN W 47 25 11 23 47.8 1 4 25.0 2 2 100.0 1 2 3 5 1 3 2 2 5
+p397
+aVElliot Perry PHX 01/31/2001 PHX vs. VAN W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 4 0 1 0 0 1
+p398
+aVTony Delk PHX 01/31/2001 PHX vs. VAN W 31 18 7 14 50.0 0 1 0.0 4 5 80.0 1 7 8 2 0 0 1 1 16
+p399
+aVShawn Marion PHX 01/31/2001 PHX vs. VAN W 31 14 7 14 50.0 0 0 - 0 0 - 3 8 11 2 2 0 0 3 15
+p400
+aVElliot Perry PHX 01/29/2001 PHX @ ATL W 9 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p401
+aVClifford Robinson PHX 01/29/2001 PHX @ ATL W 42 18 7 17 41.2 2 4 50.0 2 4 50.0 3 4 7 4 2 2 3 4 7
+p402
+aVMario Elie PHX 01/29/2001 PHX @ ATL W 33 5 2 6 33.3 1 4 25.0 0 0 - 0 5 5 1 1 0 2 4 10
+p403
+aVJason Kidd PHX 01/29/2001 PHX @ ATL W 39 14 5 13 38.5 1 3 33.3 3 7 42.9 1 3 4 7 5 0 3 1 8
+p404
+aVShawn Marion PHX 01/29/2001 PHX @ ATL W 36 25 9 16 56.3 1 2 50.0 6 8 75.0 2 10 12 5 0 2 2 3 20
+p405
+aVRodney Rogers PHX 01/29/2001 PHX @ ATL W 29 15 6 7 85.7 1 1 100.0 2 3 66.7 0 2 2 5 1 0 3 4 11
+p406
+aVDaniel Santiago PHX 01/29/2001 PHX @ ATL W 9 6 3 6 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p407
+aVJake Tsakalidis PHX 01/29/2001 PHX @ ATL W 27 4 2 5 40.0 0 0 - 0 2 0.0 2 6 8 1 1 1 3 2 6
+p408
+aVTony Delk PHX 01/29/2001 PHX @ ATL W 15 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 0 1 1 0 3
+p409
+aVClifford Robinson PHX 01/27/2001 PHX @ WAS L 40 22 9 16 56.3 1 2 50.0 3 4 75.0 0 4 4 1 1 0 3 2 -14
+p410
+aVElliot Perry PHX 01/27/2001 PHX @ WAS L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 1
+p411
+aVMario Elie PHX 01/27/2001 PHX @ WAS L 35 5 1 3 33.3 1 3 33.3 2 2 100.0 0 3 3 2 1 0 1 2 -7
+p412
+aVDaniel Santiago PHX 01/27/2001 PHX @ WAS L 20 2 1 4 25.0 0 0 - 0 0 - 3 0 3 0 0 1 3 2 -3
+p413
+aVShawn Marion PHX 01/27/2001 PHX @ WAS L 28 12 4 7 57.1 0 0 - 4 4 100.0 0 4 4 1 1 3 1 2 9
+p414
+aVRodney Rogers PHX 01/27/2001 PHX @ WAS L 38 19 8 18 44.4 0 4 0.0 3 4 75.0 2 4 6 1 1 0 1 4 -8
+p415
+aVTony Delk PHX 01/27/2001 PHX @ WAS L 14 0 0 5 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 6 -4
+p416
+aVChris Dudley PHX 01/27/2001 PHX @ WAS L 18 1 0 2 0.0 0 0 - 1 3 33.3 0 4 4 0 0 1 1 2 -1
+p417
+aVJason Kidd PHX 01/27/2001 PHX @ WAS L 40 18 6 15 40.0 1 4 25.0 5 5 100.0 1 6 7 12 2 0 4 4 -8
+p418
+aVDaniel Santiago PHX 01/26/2001 PHX @ BOS L 18 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 0 -12
+p419
+aVClifford Robinson PHX 01/26/2001 PHX @ BOS L 46 22 8 18 44.4 3 6 50.0 3 3 100.0 2 2 4 5 2 0 2 5 -14
+p420
+aVShawn Marion PHX 01/26/2001 PHX @ BOS L 36 14 6 16 37.5 0 5 0.0 2 2 100.0 2 8 10 2 1 2 2 3 -13
+p421
+aVTony Delk PHX 01/26/2001 PHX @ BOS L 29 13 4 14 28.6 1 5 20.0 4 6 66.7 1 3 4 2 2 0 0 2 -17
+p422
+aVJake Tsakalidis PHX 01/26/2001 PHX @ BOS L 19 3 1 2 50.0 0 0 - 1 2 50.0 0 4 4 1 0 2 2 4 -5
+p423
+aVRodney Rogers PHX 01/26/2001 PHX @ BOS L 16 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 3 0 0 2 6 -4
+p424
+aVJason Kidd PHX 01/26/2001 PHX @ BOS L 30 12 4 9 44.4 1 2 50.0 3 6 50.0 1 7 8 5 3 0 5 2 -12
+p425
+aVMario Elie PHX 01/26/2001 PHX @ BOS L 27 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 2 3 1
+p426
+aVElliot Perry PHX 01/26/2001 PHX @ BOS L 18 4 2 4 50.0 0 0 - 0 0 - 0 3 3 3 0 0 2 1 -4
+p427
+aVCorie Blount PHX 01/24/2001 PHX @ DET W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 4
+p428
+aVDaniel Santiago PHX 01/24/2001 PHX @ DET W 18 5 2 6 33.3 0 0 - 1 4 25.0 2 4 6 2 0 1 1 3 15
+p429
+aVClifford Robinson PHX 01/24/2001 PHX @ DET W 28 27 12 17 70.6 0 1 0.0 3 6 50.0 0 4 4 1 0 2 1 4 24
+p430
+aVRodney Rogers PHX 01/24/2001 PHX @ DET W 25 14 5 12 41.7 3 6 50.0 1 2 50.0 1 0 1 1 1 0 4 5 13
+p431
+aVChris Dudley PHX 01/24/2001 PHX @ DET W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p432
+aVMario Elie PHX 01/24/2001 PHX @ DET W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 5 1 0 1 3 17
+p433
+aVElliot Perry PHX 01/24/2001 PHX @ DET W 36 6 3 4 75.0 0 0 - 0 0 - 0 5 5 5 1 0 4 2 29
+p434
+aVPaul McPherson PHX 01/24/2001 PHX @ DET W 14 10 2 3 66.7 0 0 - 6 6 100.0 2 4 6 3 0 0 2 1 1
+p435
+aVJake Tsakalidis PHX 01/24/2001 PHX @ DET W 22 9 3 4 75.0 0 0 - 3 4 75.0 2 9 11 0 0 5 0 3 27
+p436
+aVTony Delk PHX 01/24/2001 PHX @ DET W 37 15 5 8 62.5 4 4 100.0 1 2 50.0 1 7 8 5 0 0 2 1 21
+p437
+aVShawn Marion PHX 01/24/2001 PHX @ DET W 33 18 8 18 44.4 0 0 - 2 2 100.0 3 13 16 5 0 1 0 0 20
+p438
+aVMario Elie PHX 01/23/2001 PHX @ MIN L 30 9 2 3 66.7 0 1 0.0 5 6 83.3 1 3 4 3 1 0 3 1 1
+p439
+aVCorie Blount PHX 01/23/2001 PHX @ MIN L 13 0 0 0 - 0 0 - 0 1 0.0 1 0 1 0 1 0 1 2 -1
+p440
+aVRodney Rogers PHX 01/23/2001 PHX @ MIN L 35 18 8 18 44.4 1 4 25.0 1 1 100.0 1 5 6 6 6 1 3 2 -12
+p441
+aVJake Tsakalidis PHX 01/23/2001 PHX @ MIN L 21 4 2 6 33.3 0 0 - 0 2 0.0 0 1 1 0 0 1 2 2 -14
+p442
+aVShawn Marion PHX 01/23/2001 PHX @ MIN L 42 14 5 16 31.3 0 0 - 4 5 80.0 3 9 12 4 1 3 2 2 -1
+p443
+aVElliot Perry PHX 01/23/2001 PHX @ MIN L 29 10 5 10 50.0 0 0 - 0 0 - 2 0 2 5 1 0 1 2 -10
+p444
+aVChris Dudley PHX 01/23/2001 PHX @ MIN L 8 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 0 13
+p445
+aVTony Delk PHX 01/23/2001 PHX @ MIN L 27 8 4 11 36.4 0 2 0.0 0 0 - 1 6 7 3 1 0 1 2 -9
+p446
+aVClifford Robinson PHX 01/23/2001 PHX @ MIN L 36 6 3 14 21.4 0 1 0.0 0 2 0.0 1 4 5 2 2 0 5 1 -12
+p447
+aVTony Delk PHX 01/21/2001 PHX @ UTA L 32 17 5 13 38.5 0 3 0.0 7 9 77.8 1 1 2 4 2 0 5 4 -9
+p448
+aVClifford Robinson PHX 01/21/2001 PHX @ UTA L 31 20 8 16 50.0 1 5 20.0 3 5 60.0 3 4 7 1 1 0 3 5 -7
+p449
+aVRodney Rogers PHX 01/21/2001 PHX @ UTA L 38 27 7 18 38.9 2 5 40.0 11 11 100.0 3 4 7 2 1 0 5 6 -5
+p450
+aVMario Elie PHX 01/21/2001 PHX @ UTA L 33 5 2 6 33.3 0 1 0.0 1 2 50.0 2 3 5 4 0 0 3 3 -10
+p451
+aVCorie Blount PHX 01/21/2001 PHX @ UTA L 17 5 2 2 100.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 1 1
+p452
+aVShawn Marion PHX 01/21/2001 PHX @ UTA L 31 13 6 11 54.5 1 3 33.3 0 1 0.0 1 8 9 1 1 3 4 5 -5
+p453
+aVJake Tsakalidis PHX 01/21/2001 PHX @ UTA L 30 6 2 5 40.0 0 0 - 2 4 50.0 1 3 4 0 0 0 1 2 -17
+p454
+aVElliot Perry PHX 01/21/2001 PHX @ UTA L 27 5 2 5 40.0 0 1 0.0 1 2 50.0 0 3 3 3 2 0 2 5 -3
+p455
+aVRodney Rogers PHX 01/19/2001 PHX vs. GSW L 34 23 10 14 71.4 1 3 33.3 2 3 66.7 0 4 4 3 5 0 4 5 -5
+p456
+aVElliot Perry PHX 01/19/2001 PHX vs. GSW L 18 0 0 4 0.0 0 0 - 0 0 - 1 2 3 4 2 0 1 1 -2
+p457
+aVPaul McPherson PHX 01/19/2001 PHX vs. GSW L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 4 1 -13
+p458
+aVJake Tsakalidis PHX 01/19/2001 PHX vs. GSW L 19 6 3 8 37.5 0 0 - 0 0 - 1 3 4 2 1 0 3 3 -8
+p459
+aVTony Delk PHX 01/19/2001 PHX vs. GSW L 36 9 3 9 33.3 2 4 50.0 1 4 25.0 2 1 3 6 1 0 5 2 -3
+p460
+aVShawn Marion PHX 01/19/2001 PHX vs. GSW L 41 18 7 15 46.7 0 2 0.0 4 6 66.7 2 8 10 1 1 1 2 2 -10
+p461
+aVMario Elie PHX 01/19/2001 PHX vs. GSW L 34 7 1 3 33.3 0 0 - 5 6 83.3 0 5 5 5 1 0 4 3 -2
+p462
+aVChris Dudley PHX 01/19/2001 PHX vs. GSW L 7 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 1 0 1 2 2
+p463
+aVClifford Robinson PHX 01/19/2001 PHX vs. GSW L 43 30 12 19 63.2 3 4 75.0 3 4 75.0 1 2 3 6 0 1 0 5 1
+p464
+aVTony Delk PHX 01/17/2001 PHX @ SEA W 24 16 6 13 46.2 4 6 66.7 0 0 - 0 2 2 0 0 0 2 3 4
+p465
+aVCorie Blount PHX 01/17/2001 PHX @ SEA W 3 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 2
+p466
+aVShawn Marion PHX 01/17/2001 PHX @ SEA W 36 7 3 12 25.0 0 1 0.0 1 4 25.0 4 12 16 6 4 2 1 4 5
+p467
+aVClifford Robinson PHX 01/17/2001 PHX @ SEA W 34 13 5 14 35.7 1 2 50.0 2 4 50.0 0 3 3 4 1 2 4 4 1
+p468
+aVJason Kidd PHX 01/17/2001 PHX @ SEA W 37 15 5 10 50.0 2 4 50.0 3 3 100.0 0 4 4 7 1 0 6 5 2
+p469
+aVTom Gugliotta PHX 01/17/2001 PHX @ SEA W 6 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 4
+p470
+aVJake Tsakalidis PHX 01/17/2001 PHX @ SEA W 21 12 6 7 85.7 0 0 - 0 0 - 0 3 3 0 1 1 3 2 8
+p471
+aVRodney Rogers PHX 01/17/2001 PHX @ SEA W 31 17 7 12 58.3 0 1 0.0 3 3 100.0 1 5 6 4 0 0 2 3 -6
+p472
+aVMario Elie PHX 01/17/2001 PHX @ SEA W 36 7 2 6 33.3 0 3 0.0 3 4 75.0 1 2 3 6 3 0 2 1 15
+p473
+aVChris Dudley PHX 01/17/2001 PHX @ SEA W 11 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 0 0 0 1 10
+p474
+aVRodney Rogers PHX 01/14/2001 PHX vs. SEA L 11 5 2 4 50.0 0 2 0.0 1 2 50.0 0 2 2 0 0 0 2 3 -19
+p475
+aVJason Kidd PHX 01/14/2001 PHX vs. SEA L 40 3 1 7 14.3 1 3 33.3 0 0 - 1 4 5 9 0 0 3 2 -22
+p476
+aVPaul McPherson PHX 01/14/2001 PHX vs. SEA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p477
+aVTony Delk PHX 01/14/2001 PHX vs. SEA L 24 11 5 14 35.7 1 4 25.0 0 0 - 0 0 0 1 2 1 2 1 -9
+p478
+aVJake Tsakalidis PHX 01/14/2001 PHX vs. SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p479
+aVShawn Marion PHX 01/14/2001 PHX vs. SEA L 37 16 5 14 35.7 0 2 0.0 6 6 100.0 2 5 7 5 3 1 1 5 -1
+p480
+aVChris Dudley PHX 01/14/2001 PHX vs. SEA L 16 2 1 4 25.0 0 0 - 0 2 0.0 1 2 3 0 0 1 1 2 -7
+p481
+aVClifford Robinson PHX 01/14/2001 PHX vs. SEA L 40 33 12 20 60.0 2 6 33.3 7 9 77.8 2 3 5 2 2 0 2 4 -19
+p482
+aVMario Elie PHX 01/14/2001 PHX vs. SEA L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -3
+p483
+aVAnfernee Hardaway PHX 01/14/2001 PHX vs. SEA L 27 6 2 6 33.3 1 4 25.0 1 4 25.0 1 2 3 5 1 0 2 2 -6
+p484
+aVCorie Blount PHX 01/14/2001 PHX vs. SEA L 19 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 0 2 3 -6
+p485
+aVTom Gugliotta PHX 01/14/2001 PHX vs. SEA L 12 5 2 7 28.6 0 0 - 1 1 100.0 4 2 6 0 0 0 0 1 1
+p486
+aVClifford Robinson PHX 01/13/2001 PHX @ DAL W 41 21 8 19 42.1 0 3 0.0 5 5 100.0 0 3 3 4 2 1 3 4 9
+p487
+aVRodney Rogers PHX 01/13/2001 PHX @ DAL W 37 14 6 17 35.3 0 3 0.0 2 2 100.0 2 6 8 6 5 0 2 5 6
+p488
+aVJason Kidd PHX 01/13/2001 PHX @ DAL W 35 15 4 14 28.6 2 6 33.3 5 5 100.0 1 4 5 11 2 2 3 2 6
+p489
+aVTom Gugliotta PHX 01/13/2001 PHX @ DAL W 15 10 3 5 60.0 0 0 - 4 4 100.0 0 2 2 2 0 0 0 3 16
+p490
+aVPaul McPherson PHX 01/13/2001 PHX @ DAL W 0 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p491
+aVChris Dudley PHX 01/13/2001 PHX @ DAL W 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 7
+p492
+aVAnfernee Hardaway PHX 01/13/2001 PHX @ DAL W 41 8 3 9 33.3 0 2 0.0 2 2 100.0 2 6 8 5 3 1 0 3 8
+p493
+aVTony Delk PHX 01/13/2001 PHX @ DAL W 21 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 22
+p494
+aVShawn Marion PHX 01/13/2001 PHX @ DAL W 39 23 10 19 52.6 0 1 0.0 3 4 75.0 3 8 11 1 6 2 1 3 9
+p495
+aVRodney Rogers PHX 01/11/2001 PHX vs. IND W 19 6 2 6 33.3 0 1 0.0 2 2 100.0 0 4 4 0 0 0 1 5 -4
+p496
+aVPaul McPherson PHX 01/11/2001 PHX vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p497
+aVJason Kidd PHX 01/11/2001 PHX vs. IND W 45 12 2 14 14.3 0 3 0.0 8 8 100.0 2 7 9 13 2 1 2 3 19
+p498
+aVTom Gugliotta PHX 01/11/2001 PHX vs. IND W 27 4 2 6 33.3 0 0 - 0 0 - 2 5 7 1 0 2 0 1 14
+p499
+aVShawn Marion PHX 01/11/2001 PHX vs. IND W 42 27 12 23 52.2 0 2 0.0 3 4 75.0 5 12 17 1 0 1 2 3 20
+p500
+aVChris Dudley PHX 01/11/2001 PHX vs. IND W 13 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 1 0 1 3 0
+p501
+aVJake Tsakalidis PHX 01/11/2001 PHX vs. IND W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 0
+p502
+aVAnfernee Hardaway PHX 01/11/2001 PHX vs. IND W 19 16 6 11 54.5 0 1 0.0 4 5 80.0 2 2 4 2 1 0 0 0 4
+p503
+aVClifford Robinson PHX 01/11/2001 PHX vs. IND W 27 8 3 12 25.0 1 5 20.0 1 2 50.0 3 2 5 2 3 0 2 2 0
+p504
+aVTony Delk PHX 01/11/2001 PHX vs. IND W 30 16 6 15 40.0 0 1 0.0 4 5 80.0 1 1 2 3 1 0 2 4 -3
+p505
+aVCorie Blount PHX 01/11/2001 PHX vs. IND W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p506
+aVTom Gugliotta PHX 01/07/2001 PHX vs. MIN L 26 10 5 8 62.5 0 0 - 0 0 - 1 1 2 0 1 0 3 1 -13
+p507
+aVPaul McPherson PHX 01/07/2001 PHX vs. MIN L 15 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 2 0 1 0 1 -13
+p508
+aVAnfernee Hardaway PHX 01/07/2001 PHX vs. MIN L 24 9 4 10 40.0 1 1 100.0 0 0 - 0 3 3 3 1 0 1 1 -12
+p509
+aVTony Delk PHX 01/07/2001 PHX vs. MIN L 31 17 5 12 41.7 2 3 66.7 5 5 100.0 1 3 4 5 2 0 0 3 -6
+p510
+aVChris Dudley PHX 01/07/2001 PHX vs. MIN L 10 3 1 2 50.0 0 0 - 1 4 25.0 1 2 3 0 0 0 0 0 0
+p511
+aVJake Tsakalidis PHX 01/07/2001 PHX vs. MIN L 26 10 4 7 57.1 0 0 - 2 4 50.0 3 5 8 1 0 2 1 2 -14
+p512
+aVShawn Marion PHX 01/07/2001 PHX vs. MIN L 33 7 3 8 37.5 0 1 0.0 1 2 50.0 3 4 7 3 2 0 1 2 -12
+p513
+aVClifford Robinson PHX 01/07/2001 PHX vs. MIN L 24 4 1 7 14.3 1 3 33.3 1 2 50.0 0 2 2 0 2 0 1 4 -9
+p514
+aVJason Kidd PHX 01/07/2001 PHX vs. MIN L 35 20 6 14 42.9 3 5 60.0 5 5 100.0 0 1 1 4 4 1 10 2 -22
+p515
+aVRodney Rogers PHX 01/07/2001 PHX vs. MIN L 17 7 3 6 50.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 2 2 1
+p516
+aVTom Gugliotta PHX 01/05/2001 PHX vs. VAN W 19 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 0 0 2 1 0
+p517
+aVJake Tsakalidis PHX 01/05/2001 PHX vs. VAN W 16 10 2 5 40.0 0 0 - 6 8 75.0 2 1 3 0 0 3 2 5 9
+p518
+aVTony Delk PHX 01/05/2001 PHX vs. VAN W 44 23 10 18 55.6 0 2 0.0 3 4 75.0 0 3 3 2 3 0 1 1 30
+p519
+aVShawn Marion PHX 01/05/2001 PHX vs. VAN W 30 23 10 13 76.9 0 2 0.0 3 3 100.0 0 10 10 3 2 1 1 2 32
+p520
+aVChris Dudley PHX 01/05/2001 PHX vs. VAN W 13 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 0 1 0 2 18
+p521
+aVClifford Robinson PHX 01/05/2001 PHX vs. VAN W 34 13 5 13 38.5 1 3 33.3 2 2 100.0 2 3 5 4 1 1 2 2 27
+p522
+aVDaniel Santiago PHX 01/05/2001 PHX vs. VAN W 14 7 3 3 100.0 0 0 - 1 1 100.0 0 3 3 0 0 1 2 4 3
+p523
+aVRodney Rogers PHX 01/05/2001 PHX vs. VAN W 20 8 3 9 33.3 1 4 25.0 1 2 50.0 0 2 2 2 0 0 2 3 5
+p524
+aVPaul McPherson PHX 01/05/2001 PHX vs. VAN W 22 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 1 2 0 2 5 11
+p525
+aVJason Kidd PHX 01/05/2001 PHX vs. VAN W 29 11 5 11 45.5 0 2 0.0 1 1 100.0 3 7 10 14 1 1 2 1 25
+p526
+aVChris Dudley PHX 01/03/2001 PHX vs. LAC W 11 1 0 0 - 0 0 - 1 2 50.0 1 3 4 1 0 0 0 4 4
+p527
+aVElliot Perry PHX 01/03/2001 PHX vs. LAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 3
+p528
+aVTony Delk PHX 01/03/2001 PHX vs. LAC W 33 10 4 10 40.0 0 3 0.0 2 2 100.0 1 2 3 2 0 0 0 3 2
+p529
+aVDaniel Santiago PHX 01/03/2001 PHX vs. LAC W 7 5 1 1 100.0 0 0 - 3 3 100.0 0 1 1 0 1 0 0 2 3
+p530
+aVJake Tsakalidis PHX 01/03/2001 PHX vs. LAC W 16 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 1 0 0 2 1 -3
+p531
+aVTom Gugliotta PHX 01/03/2001 PHX vs. LAC W 25 10 4 8 50.0 0 0 - 2 2 100.0 3 6 9 1 1 0 2 3 0
+p532
+aVRodney Rogers PHX 01/03/2001 PHX vs. LAC W 28 10 3 7 42.9 1 2 50.0 3 4 75.0 1 2 3 2 0 1 1 2 -5
+p533
+aVJason Kidd PHX 01/03/2001 PHX vs. LAC W 41 12 4 9 44.4 0 1 0.0 4 4 100.0 0 2 2 11 2 0 3 2 4
+p534
+aVClifford Robinson PHX 01/03/2001 PHX vs. LAC W 35 21 8 17 47.1 1 4 25.0 4 6 66.7 2 2 4 4 0 1 4 3 10
+p535
+aVPaul McPherson PHX 01/03/2001 PHX vs. LAC W 16 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 0 2 1
+p536
+aVShawn Marion PHX 01/03/2001 PHX vs. LAC W 23 11 5 11 45.5 1 1 100.0 0 0 - 1 8 9 3 0 1 0 1 6
+p537
+aVRodney Rogers PHX 01/02/2001 PHX @ SAC L 40 16 7 17 41.2 1 5 20.0 1 2 50.0 1 9 10 2 3 2 1 4 4
+p538
+aVElliot Perry PHX 01/02/2001 PHX @ SAC L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p539
+aVPaul McPherson PHX 01/02/2001 PHX @ SAC L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -15
+p540
+aVDaniel Santiago PHX 01/02/2001 PHX @ SAC L 6 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -9
+p541
+aVChris Dudley PHX 01/02/2001 PHX @ SAC L 25 7 2 2 100.0 0 0 - 3 7 42.9 1 6 7 0 0 1 0 5 5
+p542
+aVTony Delk PHX 01/02/2001 PHX @ SAC L 50 53 20 27 74.1 0 1 0.0 13 15 86.7 3 3 6 0 1 0 2 1 7
+p543
+aVCorie Blount PHX 01/02/2001 PHX @ SAC L 16 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 2 6 4
+p544
+aVShawn Marion PHX 01/02/2001 PHX @ SAC L 36 16 8 19 42.1 0 1 0.0 0 0 - 6 6 12 2 3 2 0 5 -1
+p545
+aVClifford Robinson PHX 01/02/2001 PHX @ SAC L 26 4 2 10 20.0 0 0 - 0 0 - 2 1 3 5 0 1 4 3 -5
+p546
+aVJason Kidd PHX 01/02/2001 PHX @ SAC L 51 12 5 18 27.8 0 2 0.0 2 2 100.0 0 2 2 17 1 0 3 1 5
+p547
+aVJake Tsakalidis PHX 01/02/2001 PHX @ SAC L 4 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -6
+p548
+aVJake Tsakalidis PHX 12/30/2000 PHX vs. TOR W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -6
+p549
+aVCorie Blount PHX 12/30/2000 PHX vs. TOR W 27 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 1 2 0 0 4 12
+p550
+aVJason Kidd PHX 12/30/2000 PHX vs. TOR W 41 27 7 15 46.7 0 2 0.0 13 15 86.7 1 5 6 9 0 0 2 5 -8
+p551
+aVElliot Perry PHX 12/30/2000 PHX vs. TOR W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 4 0 0 0 0 15
+p552
+aVRodney Rogers PHX 12/30/2000 PHX vs. TOR W 8 1 0 2 0.0 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 1 -7
+p553
+aVTom Gugliotta PHX 12/30/2000 PHX vs. TOR W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p554
+aVClifford Robinson PHX 12/30/2000 PHX vs. TOR W 26 18 7 14 50.0 0 1 0.0 4 4 100.0 1 2 3 3 1 0 1 6 8
+p555
+aVTony Delk PHX 12/30/2000 PHX vs. TOR W 39 15 4 8 50.0 3 4 75.0 4 4 100.0 0 2 2 2 0 0 0 0 5
+p556
+aVChris Dudley PHX 12/30/2000 PHX vs. TOR W 14 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 4 0
+p557
+aVDaniel Santiago PHX 12/30/2000 PHX vs. TOR W 9 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 5
+p558
+aVPaul McPherson PHX 12/30/2000 PHX vs. TOR W 17 20 9 10 90.0 0 0 - 2 3 66.7 0 1 1 1 0 0 1 5 8
+p559
+aVShawn Marion PHX 12/30/2000 PHX vs. TOR W 33 20 7 16 43.8 0 2 0.0 6 6 100.0 2 6 8 2 2 2 2 5 5
+p560
+aVChris Dudley PHX 12/28/2000 PHX vs. LAL L 15 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 1 1 2 -12
+p561
+aVShawn Marion PHX 12/28/2000 PHX vs. LAL L 33 10 5 14 35.7 0 2 0.0 0 0 - 2 11 13 1 0 1 2 2 -25
+p562
+aVRodney Rogers PHX 12/28/2000 PHX vs. LAL L 20 12 4 9 44.4 1 5 20.0 3 3 100.0 2 4 6 3 1 1 2 5 -11
+p563
+aVTom Gugliotta PHX 12/28/2000 PHX vs. LAL L 21 3 1 5 20.0 0 0 - 1 2 50.0 0 6 6 1 3 2 0 4 -13
+p564
+aVElliot Perry PHX 12/28/2000 PHX vs. LAL L 21 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 0 -18
+p565
+aVJason Kidd PHX 12/28/2000 PHX vs. LAL L 29 15 4 10 40.0 1 4 25.0 6 6 100.0 4 4 8 3 2 0 4 1 -23
+p566
+aVPaul McPherson PHX 12/28/2000 PHX vs. LAL L 19 6 3 13 23.1 0 3 0.0 0 0 - 0 2 2 2 0 0 1 1 -18
+p567
+aVTony Delk PHX 12/28/2000 PHX vs. LAL L 28 12 4 12 33.3 1 2 50.0 3 6 50.0 1 2 3 0 1 0 1 1 -27
+p568
+aVDaniel Santiago PHX 12/28/2000 PHX vs. LAL L 21 8 4 13 30.8 0 0 - 0 2 0.0 3 2 5 0 0 0 0 3 -15
+p569
+aVRuben Garces PHX 12/28/2000 PHX vs. LAL L 12 4 2 8 25.0 0 0 - 0 1 0.0 6 5 11 0 1 0 1 0 -11
+p570
+aVClifford Robinson PHX 12/28/2000 PHX vs. LAL L 20 7 2 7 28.6 1 3 33.3 2 3 66.7 0 1 1 3 1 0 2 2 -12
+p571
+aVDaniel Santiago PHX 12/26/2000 PHX @ VAN W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -2
+p572
+aVShawn Marion PHX 12/26/2000 PHX @ VAN W 43 12 5 13 38.5 0 0 - 2 2 100.0 0 7 7 4 4 1 0 3 2
+p573
+aVClifford Robinson PHX 12/26/2000 PHX @ VAN W 40 11 4 13 30.8 0 4 0.0 3 4 75.0 1 0 1 7 1 0 3 5 6
+p574
+aVCorie Blount PHX 12/26/2000 PHX @ VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p575
+aVChris Dudley PHX 12/26/2000 PHX @ VAN W 12 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 0 1 4 -2
+p576
+aVPaul McPherson PHX 12/26/2000 PHX @ VAN W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 2 0
+p577
+aVTom Gugliotta PHX 12/26/2000 PHX @ VAN W 18 8 4 8 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 5
+p578
+aVRodney Rogers PHX 12/26/2000 PHX @ VAN W 32 17 6 10 60.0 0 4 0.0 5 6 83.3 0 6 6 2 1 2 4 0 6
+p579
+aVTony Delk PHX 12/26/2000 PHX @ VAN W 30 12 5 11 45.5 1 2 50.0 1 4 25.0 1 0 1 0 2 0 2 4 -1
+p580
+aVJason Kidd PHX 12/26/2000 PHX @ VAN W 42 28 10 14 71.4 2 2 100.0 6 6 100.0 2 4 6 10 2 0 3 3 -2
+p581
+aVElliot Perry PHX 12/26/2000 PHX @ VAN W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p582
+aVTom Gugliotta PHX 12/23/2000 PHX vs. DEN W 20 4 2 4 50.0 0 0 - 0 0 - 0 4 4 2 0 0 2 3 -16
+p583
+aVRodney Rogers PHX 12/23/2000 PHX vs. DEN W 32 22 9 16 56.3 4 7 57.1 0 0 - 3 2 5 5 1 2 2 4 -4
+p584
+aVClifford Robinson PHX 12/23/2000 PHX vs. DEN W 21 10 4 11 36.4 0 3 0.0 2 3 66.7 0 2 2 5 1 2 1 2 13
+p585
+aVTony Delk PHX 12/23/2000 PHX vs. DEN W 38 26 11 18 61.1 1 1 100.0 3 4 75.0 0 2 2 1 0 0 0 2 31
+p586
+aVPaul McPherson PHX 12/23/2000 PHX vs. DEN W 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -11
+p587
+aVShawn Marion PHX 12/23/2000 PHX vs. DEN W 34 13 5 12 41.7 0 0 - 3 4 75.0 1 10 11 6 1 3 1 4 16
+p588
+aVElliot Perry PHX 12/23/2000 PHX vs. DEN W 15 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 0 0 2 1 -6
+p589
+aVJason Kidd PHX 12/23/2000 PHX vs. DEN W 33 14 6 11 54.5 0 2 0.0 2 2 100.0 1 9 10 13 1 1 3 2 15
+p590
+aVDaniel Santiago PHX 12/23/2000 PHX vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 -10
+p591
+aVCorie Blount PHX 12/23/2000 PHX vs. DEN W 22 8 3 3 100.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 2 10
+p592
+aVChris Dudley PHX 12/23/2000 PHX vs. DEN W 12 1 0 0 - 0 0 - 1 2 50.0 0 5 5 0 0 2 0 2 7
+p593
+aVRodney Rogers PHX 12/19/2000 PHX vs. DET L 38 19 6 16 37.5 1 3 33.3 6 7 85.7 0 5 5 7 1 2 4 2 2
+p594
+aVChris Dudley PHX 12/19/2000 PHX vs. DET L 18 0 0 0 - 0 0 - 0 0 - 1 5 6 1 0 0 2 3 -10
+p595
+aVElliot Perry PHX 12/19/2000 PHX vs. DET L 42 18 8 15 53.3 0 0 - 2 4 50.0 1 3 4 5 2 0 3 2 -6
+p596
+aVTony Delk PHX 12/19/2000 PHX vs. DET L 24 9 4 13 30.8 0 1 0.0 1 3 33.3 0 0 0 2 3 0 1 3 -1
+p597
+aVRuben Garces PHX 12/19/2000 PHX vs. DET L 11 1 0 0 - 0 0 - 1 1 100.0 0 2 2 0 1 0 1 3 6
+p598
+aVCorie Blount PHX 12/19/2000 PHX vs. DET L 15 2 1 4 25.0 0 0 - 0 0 - 4 3 7 0 1 0 0 1 10
+p599
+aVTom Gugliotta PHX 12/19/2000 PHX vs. DET L 15 5 2 7 28.6 0 0 - 1 2 50.0 0 2 2 1 0 1 0 2 6
+p600
+aVShawn Marion PHX 12/19/2000 PHX vs. DET L 26 5 1 10 10.0 1 1 100.0 2 2 100.0 2 6 8 1 0 0 1 3 -14
+p601
+aVPaul McPherson PHX 12/19/2000 PHX vs. DET L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 4 -5
+p602
+aVClifford Robinson PHX 12/19/2000 PHX vs. DET L 33 21 9 15 60.0 2 3 66.7 1 2 50.0 2 3 5 2 0 0 2 4 -11
+p603
+aVDaniel Santiago PHX 12/19/2000 PHX vs. DET L 6 4 0 2 0.0 0 0 - 4 4 100.0 1 1 2 0 0 1 1 1 -2
+p604
+aVRodney Rogers PHX 12/16/2000 PHX @ SAS L 37 16 5 20 25.0 1 6 16.7 5 5 100.0 0 3 3 3 1 0 2 5 4
+p605
+aVChris Dudley PHX 12/16/2000 PHX @ SAS L 18 2 1 2 50.0 0 0 - 0 0 - 3 5 8 0 1 1 0 4 9
+p606
+aVTom Gugliotta PHX 12/16/2000 PHX @ SAS L 6 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 0 0 1 0 0 -5
+p607
+aVJason Kidd PHX 12/16/2000 PHX @ SAS L 39 12 4 20 20.0 0 4 0.0 4 4 100.0 1 5 6 4 1 1 4 3 -18
+p608
+aVCorie Blount PHX 12/16/2000 PHX @ SAS L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -13
+p609
+aVTony Delk PHX 12/16/2000 PHX @ SAS L 33 6 1 7 14.3 0 2 0.0 4 4 100.0 0 2 2 1 0 1 1 2 -14
+p610
+aVElliot Perry PHX 12/16/2000 PHX @ SAS L 13 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 8
+p611
+aVShawn Marion PHX 12/16/2000 PHX @ SAS L 28 8 3 9 33.3 0 1 0.0 2 2 100.0 3 8 11 1 1 1 1 3 -23
+p612
+aVDaniel Santiago PHX 12/16/2000 PHX @ SAS L 10 5 1 2 50.0 0 0 - 3 4 75.0 3 0 3 0 1 0 1 1 -4
+p613
+aVPaul McPherson PHX 12/16/2000 PHX @ SAS L 22 7 3 5 60.0 0 0 - 1 1 100.0 1 3 4 0 0 0 1 4 11
+p614
+aVClifford Robinson PHX 12/16/2000 PHX @ SAS L 22 12 4 15 26.7 2 2 100.0 2 4 50.0 1 3 4 4 0 0 2 6 5
+p615
+aVJason Kidd PHX 12/15/2000 PHX vs. LAC L 38 13 5 16 31.3 0 5 0.0 3 4 75.0 6 3 9 8 1 0 3 1 -9
+p616
+aVCorie Blount PHX 12/15/2000 PHX vs. LAC L 13 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 4 -2
+p617
+aVTony Delk PHX 12/15/2000 PHX vs. LAC L 32 20 7 17 41.2 2 4 50.0 4 4 100.0 0 2 2 1 2 1 0 2 -14
+p618
+aVElliot Perry PHX 12/15/2000 PHX vs. LAC L 24 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 3 3 0 2 2 0
+p619
+aVDaniel Santiago PHX 12/15/2000 PHX vs. LAC L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 3 1 3 6
+p620
+aVShawn Marion PHX 12/15/2000 PHX vs. LAC L 21 0 0 7 0.0 0 1 0.0 0 0 - 3 1 4 1 2 2 1 4 -12
+p621
+aVRodney Rogers PHX 12/15/2000 PHX vs. LAC L 29 25 9 19 47.4 2 4 50.0 5 8 62.5 4 1 5 1 3 0 2 3 7
+p622
+aVChris Dudley PHX 12/15/2000 PHX vs. LAC L 20 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 1 1 2 -19
+p623
+aVPaul McPherson PHX 12/15/2000 PHX vs. LAC L 20 8 3 8 37.5 0 1 0.0 2 2 100.0 6 0 6 0 0 0 3 4 -1
+p624
+aVClifford Robinson PHX 12/15/2000 PHX vs. LAC L 27 12 5 14 35.7 0 4 0.0 2 3 66.7 1 6 7 2 1 0 2 1 -6
+p625
+aVElliot Perry PHX 12/13/2000 PHX vs. SAS W 12 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 2 0 1 0 3
+p626
+aVTom Gugliotta PHX 12/13/2000 PHX vs. SAS W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 2
+p627
+aVJason Kidd PHX 12/13/2000 PHX vs. SAS W 38 17 7 18 38.9 0 3 0.0 3 3 100.0 1 5 6 9 4 0 2 3 9
+p628
+aVChris Dudley PHX 12/13/2000 PHX vs. SAS W 21 8 4 4 100.0 0 0 - 0 0 - 3 3 6 1 0 3 0 3 13
+p629
+aVShawn Marion PHX 12/13/2000 PHX vs. SAS W 41 17 6 16 37.5 0 2 0.0 5 6 83.3 1 15 16 2 3 0 2 4 7
+p630
+aVCorie Blount PHX 12/13/2000 PHX vs. SAS W 12 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 2 4 -1
+p631
+aVTony Delk PHX 12/13/2000 PHX vs. SAS W 27 7 3 10 30.0 0 1 0.0 1 2 50.0 2 0 2 2 0 0 1 3 -2
+p632
+aVRodney Rogers PHX 12/13/2000 PHX vs. SAS W 27 14 6 13 46.2 1 4 25.0 1 2 50.0 1 3 4 4 0 0 1 6 7
+p633
+aVMario Elie PHX 12/13/2000 PHX vs. SAS W 16 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 0 12
+p634
+aVDaniel Santiago PHX 12/13/2000 PHX vs. SAS W 7 7 2 2 100.0 0 0 - 3 3 100.0 0 0 0 0 0 0 1 4 -1
+p635
+aVClifford Robinson PHX 12/13/2000 PHX vs. SAS W 32 15 6 13 46.2 1 2 50.0 2 2 100.0 0 2 2 3 0 0 1 4 1
+p636
+aVShawn Marion PHX 12/11/2000 PHX @ CHI W 32 4 2 7 28.6 0 1 0.0 0 0 - 1 9 10 1 0 0 1 0 -8
+p637
+aVElliot Perry PHX 12/11/2000 PHX @ CHI W 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p638
+aVTom Gugliotta PHX 12/11/2000 PHX @ CHI W 24 8 4 8 50.0 0 0 - 0 2 0.0 3 5 8 0 2 0 1 2 13
+p639
+aVCorie Blount PHX 12/11/2000 PHX @ CHI W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 0
+p640
+aVRodney Rogers PHX 12/11/2000 PHX @ CHI W 40 17 6 18 33.3 2 5 40.0 3 3 100.0 0 7 7 9 0 1 1 3 13
+p641
+aVMario Elie PHX 12/11/2000 PHX @ CHI W 22 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 -2
+p642
+aVChris Dudley PHX 12/11/2000 PHX @ CHI W 9 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 0 0 2 2 -7
+p643
+aVJason Kidd PHX 12/11/2000 PHX @ CHI W 40 12 4 6 66.7 0 0 - 4 6 66.7 1 5 6 13 0 0 2 1 9
+p644
+aVPaul McPherson PHX 12/11/2000 PHX @ CHI W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 1 0 0 0 -4
+p645
+aVTony Delk PHX 12/11/2000 PHX @ CHI W 26 12 3 7 42.9 1 2 50.0 5 6 83.3 0 1 1 1 0 0 3 1 8
+p646
+aVClifford Robinson PHX 12/11/2000 PHX @ CHI W 34 24 9 12 75.0 4 5 80.0 2 3 66.7 1 3 4 2 2 1 4 6 7
+p647
+aVRodney Rogers PHX 12/10/2000 PHX @ TOR W 30 19 8 14 57.1 3 4 75.0 0 0 - 3 6 9 2 0 0 1 3 12
+p648
+aVShawn Marion PHX 12/10/2000 PHX @ TOR W 22 11 5 9 55.6 0 0 - 1 2 50.0 2 2 4 1 1 0 0 4 6
+p649
+aVJason Kidd PHX 12/10/2000 PHX @ TOR W 42 24 6 17 35.3 4 8 50.0 8 10 80.0 0 9 9 6 3 1 3 1 3
+p650
+aVClifford Robinson PHX 12/10/2000 PHX @ TOR W 39 22 8 18 44.4 3 6 50.0 3 3 100.0 2 3 5 3 0 1 2 4 5
+p651
+aVChris Dudley PHX 12/10/2000 PHX @ TOR W 21 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 0 2 1 0 4 14
+p652
+aVMario Elie PHX 12/10/2000 PHX @ TOR W 32 4 1 3 33.3 0 1 0.0 2 2 100.0 0 2 2 4 0 1 1 5 4
+p653
+aVTony Delk PHX 12/10/2000 PHX @ TOR W 26 12 5 12 41.7 0 2 0.0 2 4 50.0 2 3 5 1 1 0 2 3 3
+p654
+aVPaul McPherson PHX 12/10/2000 PHX @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p655
+aVElliot Perry PHX 12/10/2000 PHX @ TOR W 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 0 5
+p656
+aVCorie Blount PHX 12/10/2000 PHX @ TOR W 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -16
+p657
+aVDaniel Santiago PHX 12/10/2000 PHX @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p658
+aVMario Elie PHX 12/08/2000 PHX @ NJN L 13 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 0 1 -2
+p659
+aVDaniel Santiago PHX 12/08/2000 PHX @ NJN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 0
+p660
+aVChris Dudley PHX 12/08/2000 PHX @ NJN L 14 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 2 1 3 1
+p661
+aVJason Kidd PHX 12/08/2000 PHX @ NJN L 37 17 5 16 31.3 1 5 20.0 6 6 100.0 1 4 5 7 2 0 3 3 2
+p662
+aVRodney Rogers PHX 12/08/2000 PHX @ NJN L 31 9 3 8 37.5 0 2 0.0 3 4 75.0 1 5 6 3 2 0 1 0 -3
+p663
+aVCorie Blount PHX 12/08/2000 PHX @ NJN L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -7
+p664
+aVTony Delk PHX 12/08/2000 PHX @ NJN L 18 4 2 7 28.6 0 0 - 0 0 - 0 1 1 2 0 0 1 3 -11
+p665
+aVTom Gugliotta PHX 12/08/2000 PHX @ NJN L 18 1 0 2 0.0 0 1 0.0 1 2 50.0 0 4 4 0 0 0 2 2 4
+p666
+aVElliot Perry PHX 12/08/2000 PHX @ NJN L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 0 0 0 1 3
+p667
+aVClifford Robinson PHX 12/08/2000 PHX @ NJN L 44 25 8 16 50.0 3 6 50.0 6 7 85.7 0 3 3 1 3 1 2 3 3
+p668
+aVShawn Marion PHX 12/08/2000 PHX @ NJN L 45 19 7 13 53.8 0 0 - 5 6 83.3 3 3 6 1 1 0 1 1 0
+p669
+aVClifford Robinson PHX 12/07/2000 PHX @ MIL W 38 35 13 22 59.1 5 6 83.3 4 7 57.1 3 4 7 5 0 1 2 1 15
+p670
+aVTom Gugliotta PHX 12/07/2000 PHX @ MIL W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -10
+p671
+aVTony Delk PHX 12/07/2000 PHX @ MIL W 20 3 1 9 11.1 0 1 0.0 1 2 50.0 0 2 2 1 2 1 1 3 -9
+p672
+aVDaniel Santiago PHX 12/07/2000 PHX @ MIL W 12 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 0 0 1 0 1 2
+p673
+aVPaul McPherson PHX 12/07/2000 PHX @ MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p674
+aVChris Dudley PHX 12/07/2000 PHX @ MIL W 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -4
+p675
+aVRodney Rogers PHX 12/07/2000 PHX @ MIL W 32 25 8 15 53.3 2 5 40.0 7 8 87.5 4 5 9 4 2 2 2 4 17
+p676
+aVCorie Blount PHX 12/07/2000 PHX @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p677
+aVShawn Marion PHX 12/07/2000 PHX @ MIL W 35 10 4 9 44.4 0 0 - 2 3 66.7 1 7 8 1 2 1 1 4 10
+p678
+aVJason Kidd PHX 12/07/2000 PHX @ MIL W 36 16 6 12 50.0 3 5 60.0 1 1 100.0 0 5 5 9 0 0 2 1 14
+p679
+aVMario Elie PHX 12/07/2000 PHX @ MIL W 36 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 5 1 1 2 3 20
+p680
+aVCorie Blount PHX 12/03/2000 PHX vs. POR W 21 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 12
+p681
+aVTom Gugliotta PHX 12/03/2000 PHX vs. POR W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p682
+aVTony Delk PHX 12/03/2000 PHX vs. POR W 28 9 4 12 33.3 1 2 50.0 0 1 0.0 1 4 5 1 1 0 1 0 -3
+p683
+aVDaniel Santiago PHX 12/03/2000 PHX vs. POR W 22 2 1 6 16.7 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -2
+p684
+aVPaul McPherson PHX 12/03/2000 PHX vs. POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p685
+aVRodney Rogers PHX 12/03/2000 PHX vs. POR W 6 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -5
+p686
+aVJason Kidd PHX 12/03/2000 PHX vs. POR W 42 29 10 17 58.8 4 5 80.0 5 6 83.3 1 5 6 7 6 0 3 5 5
+p687
+aVShawn Marion PHX 12/03/2000 PHX vs. POR W 46 17 7 15 46.7 0 1 0.0 3 3 100.0 2 11 13 3 2 1 1 3 8
+p688
+aVMario Elie PHX 12/03/2000 PHX vs. POR W 20 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 3 2 0 1 3 8
+p689
+aVClifford Robinson PHX 12/03/2000 PHX vs. POR W 44 20 8 21 38.1 2 2 100.0 2 2 100.0 3 4 7 9 1 0 5 2 7
+p690
+aVCorie Blount PHX 12/01/2000 PHX @ SAC L 14 2 1 3 33.3 0 0 - 0 0 - 4 1 5 1 0 0 0 4 -5
+p691
+aVDaniel Santiago PHX 12/01/2000 PHX @ SAC L 20 6 2 5 40.0 0 0 - 2 2 100.0 3 5 8 0 0 2 1 3 -14
+p692
+aVJake Tsakalidis PHX 12/01/2000 PHX @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p693
+aVMario Elie PHX 12/01/2000 PHX @ SAC L 14 7 3 7 42.9 1 2 50.0 0 0 - 0 0 0 0 1 0 3 0 -5
+p694
+aVRodney Rogers PHX 12/01/2000 PHX @ SAC L 22 3 1 7 14.3 0 2 0.0 1 2 50.0 1 4 5 2 2 0 1 3 9
+p695
+aVClifford Robinson PHX 12/01/2000 PHX @ SAC L 29 17 7 14 50.0 1 2 50.0 2 5 40.0 2 1 3 2 1 1 6 2 -18
+p696
+aVPaul McPherson PHX 12/01/2000 PHX @ SAC L 12 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 1 0 1 0 3 13
+p697
+aVShawn Marion PHX 12/01/2000 PHX @ SAC L 38 17 6 14 42.9 1 3 33.3 4 5 80.0 2 8 10 2 1 1 1 2 -3
+p698
+aVTom Gugliotta PHX 12/01/2000 PHX @ SAC L 8 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p699
+aVTony Delk PHX 12/01/2000 PHX @ SAC L 34 21 8 17 47.1 3 5 60.0 2 2 100.0 4 2 6 1 1 0 3 1 -2
+p700
+aVJason Kidd PHX 12/01/2000 PHX @ SAC L 46 16 6 17 35.3 0 2 0.0 4 7 57.1 0 5 5 10 2 0 2 0 -12
+p701
+aVTony Delk PHX 11/29/2000 PHX @ VAN L 40 17 7 14 50.0 1 2 50.0 2 2 100.0 0 4 4 0 2 0 1 4 -17
+p702
+aVTom Gugliotta PHX 11/29/2000 PHX @ VAN L 20 6 2 9 22.2 0 0 - 2 4 50.0 3 0 3 0 0 0 0 1 14
+p703
+aVPaul McPherson PHX 11/29/2000 PHX @ VAN L 19 10 5 7 71.4 0 0 - 0 0 - 1 2 3 0 4 0 0 2 8
+p704
+aVShawn Marion PHX 11/29/2000 PHX @ VAN L 53 14 6 17 35.3 1 2 50.0 1 2 50.0 3 16 19 8 1 3 1 5 -1
+p705
+aVClifford Robinson PHX 11/29/2000 PHX @ VAN L 35 18 5 14 35.7 2 4 50.0 6 10 60.0 2 2 4 1 0 3 6 6 -8
+p706
+aVRodney Rogers PHX 11/29/2000 PHX @ VAN L 39 7 2 8 25.0 1 3 33.3 2 2 100.0 2 5 7 3 1 3 3 6 4
+p707
+aVJason Kidd PHX 11/29/2000 PHX @ VAN L 51 34 13 20 65.0 2 3 66.7 6 9 66.7 0 5 5 8 2 0 5 2 -12
+p708
+aVCorie Blount PHX 11/29/2000 PHX @ VAN L 21 0 0 5 0.0 0 0 - 0 0 - 1 3 4 0 1 0 1 4 -13
+p709
+aVDaniel Santiago PHX 11/29/2000 PHX @ VAN L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 6
+p710
+aVJake Tsakalidis PHX 11/29/2000 PHX @ VAN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p711
+aVCorie Blount PHX 11/25/2000 PHX @ LAC W 24 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 2 3 1 6 13
+p712
+aVJason Kidd PHX 11/25/2000 PHX @ LAC W 41 10 3 13 23.1 0 2 0.0 4 6 66.7 0 4 4 9 4 0 1 3 15
+p713
+aVRodney Rogers PHX 11/25/2000 PHX @ LAC W 32 10 3 9 33.3 1 1 100.0 3 3 100.0 1 1 2 1 2 1 1 3 -17
+p714
+aVTony Delk PHX 11/25/2000 PHX @ LAC W 25 6 3 8 37.5 0 1 0.0 0 0 - 0 4 4 4 2 0 3 4 -12
+p715
+aVClifford Robinson PHX 11/25/2000 PHX @ LAC W 44 25 11 21 52.4 0 1 0.0 3 3 100.0 0 7 7 6 3 0 3 1 9
+p716
+aVMario Elie PHX 11/25/2000 PHX @ LAC W 40 15 3 5 60.0 3 3 100.0 6 6 100.0 1 0 1 1 2 1 1 5 9
+p717
+aVShawn Marion PHX 11/25/2000 PHX @ LAC W 37 26 11 23 47.8 1 4 25.0 3 4 75.0 3 7 10 2 1 0 2 5 11
+p718
+aVTom Gugliotta PHX 11/25/2000 PHX @ LAC W 9 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 0 -3
+p719
+aVDaniel Santiago PHX 11/25/2000 PHX @ LAC W 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 0 0 0 5
+p720
+aVClifford Robinson PHX 11/24/2000 PHX vs. GSW W 34 13 6 16 37.5 0 1 0.0 1 1 100.0 1 3 4 2 1 2 2 5 5
+p721
+aVTony Delk PHX 11/24/2000 PHX vs. GSW W 18 3 1 7 14.3 0 1 0.0 1 2 50.0 1 1 2 1 0 0 1 0 3
+p722
+aVJake Tsakalidis PHX 11/24/2000 PHX vs. GSW W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -1
+p723
+aVRodney Rogers PHX 11/24/2000 PHX vs. GSW W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p724
+aVCorie Blount PHX 11/24/2000 PHX vs. GSW W 18 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 1 0 0 2 2
+p725
+aVPaul McPherson PHX 11/24/2000 PHX vs. GSW W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p726
+aVShawn Marion PHX 11/24/2000 PHX vs. GSW W 47 19 9 23 39.1 0 2 0.0 1 2 50.0 5 11 16 3 0 2 1 2 4
+p727
+aVDaniel Santiago PHX 11/24/2000 PHX vs. GSW W 23 8 3 12 25.0 0 0 - 2 2 100.0 1 4 5 0 1 1 1 3 8
+p728
+aVJason Kidd PHX 11/24/2000 PHX vs. GSW W 42 18 4 14 28.6 1 4 25.0 9 10 90.0 0 7 7 13 1 0 4 0 5
+p729
+aVTom Gugliotta PHX 11/24/2000 PHX vs. GSW W 19 8 3 9 33.3 0 1 0.0 2 2 100.0 3 2 5 0 1 1 0 0 0
+p730
+aVMario Elie PHX 11/24/2000 PHX vs. GSW W 22 4 2 4 50.0 0 1 0.0 0 3 0.0 2 1 3 0 2 0 1 0 4
+p731
+aVRodney Rogers PHX 11/22/2000 PHX vs. NJN W 29 12 5 8 62.5 1 2 50.0 1 4 25.0 1 4 5 1 1 2 2 4 7
+p732
+aVPaul McPherson PHX 11/22/2000 PHX vs. NJN W 11 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 2 0 1 1 14
+p733
+aVJason Kidd PHX 11/22/2000 PHX vs. NJN W 41 8 3 10 30.0 1 3 33.3 1 2 50.0 2 4 6 16 2 0 2 3 4
+p734
+aVShawn Marion PHX 11/22/2000 PHX vs. NJN W 41 15 6 15 40.0 0 0 - 3 4 75.0 4 8 12 7 3 1 0 3 8
+p735
+aVCorie Blount PHX 11/22/2000 PHX vs. NJN W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -8
+p736
+aVTony Delk PHX 11/22/2000 PHX vs. NJN W 33 15 7 17 41.2 1 2 50.0 0 0 - 0 0 0 4 0 0 0 1 -7
+p737
+aVDaniel Santiago PHX 11/22/2000 PHX vs. NJN W 16 15 7 8 87.5 0 0 - 1 3 33.3 1 2 3 0 0 0 1 2 13
+p738
+aVTom Gugliotta PHX 11/22/2000 PHX vs. NJN W 20 6 3 5 60.0 0 0 - 0 1 0.0 1 3 4 1 0 0 3 0 3
+p739
+aVClifford Robinson PHX 11/22/2000 PHX vs. NJN W 36 17 8 17 47.1 0 1 0.0 1 3 33.3 0 7 7 0 0 1 4 3 13
+p740
+aVMario Elie PHX 11/22/2000 PHX vs. NJN W 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 2 0 0 0 13
+p741
+aVClifford Robinson PHX 11/18/2000 PHX @ HOU L 37 23 8 19 42.1 1 3 33.3 6 6 100.0 1 4 5 3 1 2 2 6 -7
+p742
+aVTony Delk PHX 11/18/2000 PHX @ HOU L 28 6 3 8 37.5 0 0 - 0 0 - 1 2 3 2 0 0 1 2 -7
+p743
+aVDaniel Santiago PHX 11/18/2000 PHX @ HOU L 16 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 0 1 1 1 3
+p744
+aVJason Kidd PHX 11/18/2000 PHX @ HOU L 45 15 5 15 33.3 0 3 0.0 5 8 62.5 0 3 3 9 2 0 4 2 -1
+p745
+aVShawn Marion PHX 11/18/2000 PHX @ HOU L 43 20 7 15 46.7 0 0 - 6 6 100.0 5 12 17 0 1 0 3 3 -3
+p746
+aVJake Tsakalidis PHX 11/18/2000 PHX @ HOU L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -4
+p747
+aVCorie Blount PHX 11/18/2000 PHX @ HOU L 15 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 1 1 2 5 -2
+p748
+aVPaul McPherson PHX 11/18/2000 PHX @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p749
+aVRodney Rogers PHX 11/18/2000 PHX @ HOU L 21 13 3 8 37.5 1 1 100.0 6 6 100.0 1 2 3 2 1 1 4 3 -6
+p750
+aVMario Elie PHX 11/18/2000 PHX @ HOU L 25 2 0 2 0.0 0 1 0.0 2 2 100.0 1 3 4 3 1 0 0 1 1
+p751
+aVRodney Rogers PHX 11/17/2000 PHX vs. NYK L 28 14 4 8 50.0 0 3 0.0 6 6 100.0 1 6 7 0 1 0 3 6 -8
+p752
+aVMario Elie PHX 11/17/2000 PHX vs. NYK L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 2 2 -1
+p753
+aVPaul McPherson PHX 11/17/2000 PHX vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p754
+aVClifford Robinson PHX 11/17/2000 PHX vs. NYK L 42 23 8 15 53.3 1 3 33.3 6 12 50.0 2 3 5 3 0 2 4 5 10
+p755
+aVDaniel Santiago PHX 11/17/2000 PHX vs. NYK L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p756
+aVJason Kidd PHX 11/17/2000 PHX vs. NYK L 45 18 6 12 50.0 1 3 33.3 5 7 71.4 5 7 12 10 0 0 14 4 -3
+p757
+aVCorie Blount PHX 11/17/2000 PHX vs. NYK L 13 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 0 1 4 -5
+p758
+aVShawn Marion PHX 11/17/2000 PHX vs. NYK L 44 20 7 16 43.8 4 8 50.0 2 3 66.7 2 13 15 3 3 1 2 6 6
+p759
+aVTony Delk PHX 11/17/2000 PHX vs. NYK L 37 7 3 11 27.3 0 4 0.0 1 2 50.0 0 3 3 3 0 1 2 2 3
+p760
+aVTom Gugliotta PHX 11/17/2000 PHX vs. NYK L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p761
+aVPaul McPherson PHX 11/15/2000 PHX vs. DAL W 15 6 3 5 60.0 0 0 - 0 1 0.0 1 3 4 2 0 0 0 1 12
+p762
+aVRuben Garces PHX 11/15/2000 PHX vs. DAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p763
+aVDaniel Santiago PHX 11/15/2000 PHX vs. DAL W 23 9 3 3 100.0 0 0 - 3 4 75.0 1 4 5 0 2 0 3 2 8
+p764
+aVClifford Robinson PHX 11/15/2000 PHX vs. DAL W 29 10 4 10 40.0 0 1 0.0 2 4 50.0 0 2 2 1 2 0 6 2 8
+p765
+aVMario Elie PHX 11/15/2000 PHX vs. DAL W 31 4 2 5 40.0 0 3 0.0 0 0 - 1 2 3 3 2 1 2 3 15
+p766
+aVChris Dudley PHX 11/15/2000 PHX vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 2 0 0 0 0
+p767
+aVShawn Marion PHX 11/15/2000 PHX vs. DAL W 42 19 9 18 50.0 0 0 - 1 1 100.0 6 13 19 0 4 5 3 4 26
+p768
+aVJason Kidd PHX 11/15/2000 PHX vs. DAL W 37 15 5 10 50.0 0 1 0.0 5 6 83.3 0 3 3 9 1 1 4 4 5
+p769
+aVRodney Rogers PHX 11/15/2000 PHX vs. DAL W 30 19 9 17 52.9 1 3 33.3 0 1 0.0 3 2 5 5 0 0 3 5 11
+p770
+aVTony Delk PHX 11/15/2000 PHX vs. DAL W 28 17 8 14 57.1 1 3 33.3 0 1 0.0 0 4 4 5 1 0 1 4 13
+p771
+aVDaniel Santiago PHX 11/11/2000 PHX vs. MIA W 23 2 1 2 50.0 0 0 - 0 2 0.0 0 4 4 1 0 0 3 4 9
+p772
+aVMario Elie PHX 11/11/2000 PHX vs. MIA W 23 4 2 5 40.0 0 1 0.0 0 0 - 2 1 3 1 0 0 1 1 -2
+p773
+aVChris Dudley PHX 11/11/2000 PHX vs. MIA W 8 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 2 0 3 -7
+p774
+aVJake Tsakalidis PHX 11/11/2000 PHX vs. MIA W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 0
+p775
+aVRodney Rogers PHX 11/11/2000 PHX vs. MIA W 24 12 4 11 36.4 1 5 20.0 3 6 50.0 0 4 4 2 3 2 3 4 -2
+p776
+aVTony Delk PHX 11/11/2000 PHX vs. MIA W 33 14 5 13 38.5 2 4 50.0 2 2 100.0 2 2 4 2 1 0 1 4 -2
+p777
+aVJason Kidd PHX 11/11/2000 PHX vs. MIA W 40 15 5 13 38.5 0 3 0.0 5 5 100.0 1 3 4 13 3 1 3 0 8
+p778
+aVRuben Garces PHX 11/11/2000 PHX vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -7
+p779
+aVClifford Robinson PHX 11/11/2000 PHX vs. MIA W 37 15 6 20 30.0 0 2 0.0 3 5 60.0 2 5 7 1 1 1 2 1 6
+p780
+aVShawn Marion PHX 11/11/2000 PHX vs. MIA W 39 18 8 12 66.7 0 2 0.0 2 2 100.0 1 12 13 3 2 2 5 3 1
+p781
+aVCorie Blount PHX 11/11/2000 PHX vs. MIA W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p782
+aVClifford Robinson PHX 11/09/2000 PHX vs. ATL W 28 15 7 16 43.8 0 3 0.0 1 4 25.0 1 2 3 1 3 0 2 2 13
+p783
+aVDaniel Santiago PHX 11/09/2000 PHX vs. ATL W 15 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 0 2 4 -9
+p784
+aVMario Elie PHX 11/09/2000 PHX vs. ATL W 30 5 2 6 33.3 1 2 50.0 0 0 - 1 4 5 3 1 1 1 3 3
+p785
+aVJason Kidd PHX 11/09/2000 PHX vs. ATL W 43 19 6 16 37.5 0 1 0.0 7 10 70.0 2 11 13 12 4 1 4 0 19
+p786
+aVChris Dudley PHX 11/09/2000 PHX vs. ATL W 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 1 1 2 6
+p787
+aVRodney Rogers PHX 11/09/2000 PHX vs. ATL W 35 14 6 12 50.0 2 4 50.0 0 0 - 0 5 5 2 2 2 3 3 6
+p788
+aVShawn Marion PHX 11/09/2000 PHX vs. ATL W 41 24 10 22 45.5 0 1 0.0 4 6 66.7 8 5 13 1 2 5 3 0 17
+p789
+aVCorie Blount PHX 11/09/2000 PHX vs. ATL W 5 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 0 1 0 0 0 3
+p790
+aVRuben Garces PHX 11/09/2000 PHX vs. ATL W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -9
+p791
+aVPaul McPherson PHX 11/09/2000 PHX vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p792
+aVTony Delk PHX 11/09/2000 PHX vs. ATL W 22 5 2 10 20.0 1 4 25.0 0 0 - 0 2 2 0 0 0 0 2 -1
+p793
+aVJake Tsakalidis PHX 11/07/2000 PHX vs. SAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p794
+aVRodney Rogers PHX 11/07/2000 PHX vs. SAS W 22 12 5 11 45.5 0 1 0.0 2 2 100.0 1 3 4 4 3 0 2 4 14
+p795
+aVTony Delk PHX 11/07/2000 PHX vs. SAS W 31 20 10 18 55.6 0 3 0.0 0 0 - 3 3 6 5 2 0 1 1 26
+p796
+aVDaniel Santiago PHX 11/07/2000 PHX vs. SAS W 17 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 2 14
+p797
+aVJason Kidd PHX 11/07/2000 PHX vs. SAS W 40 10 4 9 44.4 0 2 0.0 2 2 100.0 1 8 9 11 2 1 6 3 16
+p798
+aVClifford Robinson PHX 11/07/2000 PHX vs. SAS W 34 15 6 17 35.3 1 4 25.0 2 6 33.3 1 2 3 5 3 3 0 3 5
+p799
+aVRuben Garces PHX 11/07/2000 PHX vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p800
+aVShawn Marion PHX 11/07/2000 PHX vs. SAS W 41 23 10 12 83.3 0 0 - 3 3 100.0 1 7 8 2 3 1 0 2 18
+p801
+aVChris Dudley PHX 11/07/2000 PHX vs. SAS W 13 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -6
+p802
+aVPaul McPherson PHX 11/07/2000 PHX vs. SAS W 8 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 3
+p803
+aVMario Elie PHX 11/07/2000 PHX vs. SAS W 17 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 0 1 0 1 2 -7
+p804
+aVCorie Blount PHX 11/07/2000 PHX vs. SAS W 11 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 4 10
+p805
+aVRuben Garces PHX 11/05/2000 PHX vs. HOU W 11 6 3 3 100.0 0 0 - 0 4 0.0 2 2 4 0 0 0 1 3 -5
+p806
+aVChris Dudley PHX 11/05/2000 PHX vs. HOU W 16 2 1 2 50.0 0 0 - 0 0 - 1 5 6 1 0 1 0 6 4
+p807
+aVShawn Marion PHX 11/05/2000 PHX vs. HOU W 33 10 5 10 50.0 0 1 0.0 0 0 - 4 4 8 2 1 1 3 4 1
+p808
+aVTony Delk PHX 11/05/2000 PHX vs. HOU W 29 7 1 6 16.7 0 3 0.0 5 5 100.0 0 1 1 4 0 0 0 1 8
+p809
+aVDaniel Santiago PHX 11/05/2000 PHX vs. HOU W 11 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 1 5 -1
+p810
+aVMario Elie PHX 11/05/2000 PHX vs. HOU W 19 7 2 4 50.0 1 3 33.3 2 2 100.0 0 1 1 2 1 0 0 0 -3
+p811
+aVClifford Robinson PHX 11/05/2000 PHX vs. HOU W 41 30 9 20 45.0 0 2 0.0 12 12 100.0 2 2 4 2 1 3 1 3 9
+p812
+aVJason Kidd PHX 11/05/2000 PHX vs. HOU W 44 18 5 15 33.3 3 5 60.0 5 5 100.0 1 3 4 9 3 0 3 4 1
+p813
+aVRodney Rogers PHX 11/05/2000 PHX vs. HOU W 32 18 8 12 66.7 2 3 66.7 0 0 - 1 3 4 2 1 0 2 3 7
+p814
+aVPaul McPherson PHX 11/05/2000 PHX vs. HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p815
+aVRodney Rogers PHX 11/04/2000 PHX @ DEN W 24 7 2 6 33.3 0 1 0.0 3 4 75.0 0 3 3 2 1 1 5 4 -15
+p816
+aVChris Dudley PHX 11/04/2000 PHX @ DEN W 15 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 1 0 0 2 1 4
+p817
+aVMario Elie PHX 11/04/2000 PHX @ DEN W 22 5 2 6 33.3 0 1 0.0 1 1 100.0 3 2 5 2 1 0 1 3 -2
+p818
+aVClifford Robinson PHX 11/04/2000 PHX @ DEN W 32 12 5 17 29.4 0 6 0.0 2 2 100.0 3 1 4 2 0 1 3 1 -19
+p819
+aVJason Kidd PHX 11/04/2000 PHX @ DEN W 41 22 7 13 53.8 2 3 66.7 6 7 85.7 0 7 7 10 4 0 8 4 1
+p820
+aVRuben Garces PHX 11/04/2000 PHX @ DEN W 7 5 2 2 100.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 2 18
+p821
+aVTony Delk PHX 11/04/2000 PHX @ DEN W 26 17 7 12 58.3 0 1 0.0 3 3 100.0 0 2 2 1 0 0 1 5 13
+p822
+aVDaniel Santiago PHX 11/04/2000 PHX @ DEN W 15 8 2 3 66.7 0 0 - 4 4 100.0 1 0 1 0 0 1 4 5 -5
+p823
+aVShawn Marion PHX 11/04/2000 PHX @ DEN W 44 21 8 12 66.7 1 4 25.0 4 6 66.7 1 7 8 2 1 3 1 2 3
+p824
+aVPaul McPherson PHX 11/04/2000 PHX @ DEN W 10 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 1 0 0 1 17
+p825
+aVJake Tsakalidis PHX 11/04/2000 PHX @ DEN W 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 0 0
+p826
+aVClifford Robinson PHX 11/02/2000 PHX vs. POR W 42 12 6 14 42.9 0 3 0.0 0 0 - 3 1 4 7 3 0 3 1 16
+p827
+aVRodney Rogers PHX 11/02/2000 PHX vs. POR W 28 16 7 12 58.3 0 2 0.0 2 3 66.7 1 3 4 4 3 1 2 2 23
+p828
+aVJason Kidd PHX 11/02/2000 PHX vs. POR W 40 16 4 10 40.0 2 2 100.0 6 9 66.7 1 6 7 12 2 0 2 1 27
+p829
+aVPaul McPherson PHX 11/02/2000 PHX vs. POR W 8 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p830
+aVJake Tsakalidis PHX 11/02/2000 PHX vs. POR W 7 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 3 6
+p831
+aVChris Dudley PHX 11/02/2000 PHX vs. POR W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -6
+p832
+aVRuben Garces PHX 11/02/2000 PHX vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p833
+aVMario Elie PHX 11/02/2000 PHX vs. POR W 22 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 2 0 0 4 7
+p834
+aVTony Delk PHX 11/02/2000 PHX vs. POR W 26 22 8 14 57.1 5 6 83.3 1 1 100.0 0 3 3 3 2 1 0 2 19
+p835
+aVShawn Marion PHX 11/02/2000 PHX vs. POR W 36 21 8 19 42.1 1 4 25.0 4 4 100.0 2 8 10 1 2 2 2 2 11
+p836
+aVDaniel Santiago PHX 11/02/2000 PHX vs. POR W 20 11 3 5 60.0 0 0 - 5 6 83.3 2 2 4 0 0 0 2 4 26
+p837
+aVPaul McPherson PHX 10/31/2000 PHX @ GSW L 9 2 1 4 25.0 0 0 - 0 0 - 3 0 3 1 1 0 0 0 10
+p838
+aVClifford Robinson PHX 10/31/2000 PHX @ GSW L 42 26 10 25 40.0 2 6 33.3 4 6 66.7 1 4 5 3 2 1 1 2 -3
+p839
+aVRodney Rogers PHX 10/31/2000 PHX @ GSW L 22 7 3 8 37.5 0 0 - 1 2 50.0 0 5 5 2 0 0 0 5 -1
+p840
+aVShawn Marion PHX 10/31/2000 PHX @ GSW L 28 16 6 16 37.5 2 5 40.0 2 2 100.0 2 4 6 1 1 1 3 3 -12
+p841
+aVMario Elie PHX 10/31/2000 PHX @ GSW L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -13
+p842
+aVDaniel Santiago PHX 10/31/2000 PHX @ GSW L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -2
+p843
+aVJason Kidd PHX 10/31/2000 PHX @ GSW L 45 24 8 17 47.1 1 5 20.0 7 8 87.5 1 9 10 11 5 0 5 4 1
+p844
+aVTony Delk PHX 10/31/2000 PHX @ GSW L 38 13 5 14 35.7 1 4 25.0 2 2 100.0 0 3 3 3 2 0 2 2 11
+p845
+aVCorie Blount PHX 10/31/2000 PHX @ GSW L 24 2 1 1 100.0 0 0 - 0 0 - 3 5 8 2 0 0 1 3 0
+p846
+aVChris Dudley PHX 10/31/2000 PHX @ GSW L 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 3 3
+p847
+aVRuben Garces PHX 10/31/2000 PHX @ GSW L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -4
+p848
+a.

@@ -1,0 +1,1720 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSasha Pavlovic CLE 04/15/2009 CLE vs. PHI L 41 20 9 18 50.0 2 5 40.0 0 2 0.0 1 2 3 2 1 0 5 6 -7
+p2
+aVWally Szczerbiak CLE 04/15/2009 CLE vs. PHI L 43 21 8 11 72.7 2 3 66.7 3 4 75.0 1 7 8 8 0 0 1 2 0
+p3
+aVTarence Kinsey CLE 04/15/2009 CLE vs. PHI L 25 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 1 6 6
+p4
+aVLorenzen Wright CLE 04/15/2009 CLE vs. PHI L 35 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 1 4 3 4 -13
+p5
+aVDaniel Gibson CLE 04/15/2009 CLE vs. PHI L 38 28 12 24 50.0 4 10 40.0 0 0 - 1 2 3 7 2 1 3 5 -8
+p6
+aVAnderson Varejao CLE 04/15/2009 CLE vs. PHI L 11 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 1 0 0 0 1 4
+p7
+aVJawad Williams CLE 04/15/2009 CLE vs. PHI L 10 8 3 6 50.0 2 5 40.0 0 0 - 1 1 2 0 0 0 1 1 7
+p8
+aVDelonte West CLE 04/15/2009 CLE vs. PHI L 20 7 3 7 42.9 0 0 - 1 1 100.0 0 0 0 4 0 0 2 1 11
+p9
+aVDarnell Jackson CLE 04/15/2009 CLE vs. PHI L 42 15 6 10 60.0 0 1 0.0 3 3 100.0 6 2 8 2 2 0 0 5 -5
+p10
+aVDelonte West CLE 04/13/2009 CLE @ IND W 42 20 6 13 46.2 1 3 33.3 7 8 87.5 0 6 6 4 3 1 0 2 13
+p11
+aVAnderson Varejao CLE 04/13/2009 CLE @ IND W 35 7 2 4 50.0 0 0 - 3 3 100.0 7 4 11 2 4 2 1 3 11
+p12
+aVJoe Smith CLE 04/13/2009 CLE @ IND W 20 7 2 6 33.3 0 0 - 3 4 75.0 3 2 5 0 0 2 2 2 -1
+p13
+aVDarnell Jackson CLE 04/13/2009 CLE @ IND W 13 6 3 6 50.0 0 0 - 0 0 - 3 0 3 0 0 0 0 2 -3
+p14
+aVMo Williams CLE 04/13/2009 CLE @ IND W 36 18 6 13 46.2 3 5 60.0 3 3 100.0 0 6 6 8 0 0 3 1 5
+p15
+aVDaniel Gibson CLE 04/13/2009 CLE @ IND W 13 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 0 1 0 0 3 -5
+p16
+aVLeBron James CLE 04/13/2009 CLE @ IND W 39 37 12 23 52.2 2 7 28.6 11 14 78.6 0 5 5 5 1 0 5 1 8
+p17
+aVZydrunas Ilgauskas CLE 04/13/2009 CLE @ IND W 27 16 7 14 50.0 0 1 0.0 2 2 100.0 3 7 10 0 1 2 1 4 9
+p18
+aVTarence Kinsey CLE 04/13/2009 CLE @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p19
+aVWally Szczerbiak CLE 04/13/2009 CLE @ IND W 16 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 5
+p20
+aVDelonte West CLE 04/12/2009 CLE vs. BOS W 37 13 4 9 44.4 1 1 100.0 4 4 100.0 0 3 3 4 0 0 1 3 36
+p21
+aVJoe Smith CLE 04/12/2009 CLE vs. BOS W 18 7 3 6 50.0 0 0 - 1 2 50.0 5 3 8 2 0 1 0 4 25
+p22
+aVDarnell Jackson CLE 04/12/2009 CLE vs. BOS W 13 7 2 3 66.7 0 0 - 3 4 75.0 0 0 0 0 1 0 1 2 10
+p23
+aVWally Szczerbiak CLE 04/12/2009 CLE vs. BOS W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 1 1 0 -1
+p24
+aVZydrunas Ilgauskas CLE 04/12/2009 CLE vs. BOS W 25 11 5 11 45.5 0 0 - 1 1 100.0 1 9 10 0 0 2 0 2 5
+p25
+aVAnderson Varejao CLE 04/12/2009 CLE vs. BOS W 27 6 3 6 50.0 0 0 - 0 2 0.0 1 7 8 3 1 0 1 4 12
+p26
+aVTarence Kinsey CLE 04/12/2009 CLE vs. BOS W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -3
+p27
+aVMo Williams CLE 04/12/2009 CLE vs. BOS W 32 13 6 10 60.0 1 2 50.0 0 0 - 0 4 4 6 0 0 4 2 21
+p28
+aVSasha Pavlovic CLE 04/12/2009 CLE vs. BOS W 7 2 0 1 0.0 0 1 0.0 2 4 50.0 0 1 1 0 0 0 0 1 -3
+p29
+aVBen Wallace CLE 04/12/2009 CLE vs. BOS W 6 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 1 1 13
+p30
+aVDaniel Gibson CLE 04/12/2009 CLE vs. BOS W 29 15 5 6 83.3 3 4 75.0 2 2 100.0 0 4 4 0 0 0 1 2 19
+p31
+aVLeBron James CLE 04/12/2009 CLE vs. BOS W 30 29 9 14 64.3 5 8 62.5 6 6 100.0 0 4 4 7 1 1 5 1 21
+p32
+aVAnderson Varejao CLE 04/10/2009 CLE @ PHI W 31 8 4 12 33.3 0 0 - 0 0 - 3 4 7 0 1 2 0 2 0
+p33
+aVLeBron James CLE 04/10/2009 CLE @ PHI W 37 27 8 17 47.1 1 4 25.0 10 12 83.3 0 2 2 10 0 1 1 4 8
+p34
+aVDaniel Gibson CLE 04/10/2009 CLE @ PHI W 9 4 2 5 40.0 0 2 0.0 0 0 - 3 0 3 2 0 0 0 4 2
+p35
+aVBen Wallace CLE 04/10/2009 CLE @ PHI W 17 1 0 0 - 0 0 - 1 2 50.0 2 3 5 2 0 0 1 1 10
+p36
+aVMo Williams CLE 04/10/2009 CLE @ PHI W 34 18 7 15 46.7 3 8 37.5 1 1 100.0 0 1 1 4 1 0 0 3 0
+p37
+aVDelonte West CLE 04/10/2009 CLE @ PHI W 40 11 3 7 42.9 3 4 75.0 2 2 100.0 1 6 7 0 3 0 2 2 8
+p38
+aVZydrunas Ilgauskas CLE 04/10/2009 CLE @ PHI W 25 7 3 10 30.0 1 1 100.0 0 2 0.0 3 6 9 1 0 1 1 3 7
+p39
+aVWally Szczerbiak CLE 04/10/2009 CLE @ PHI W 25 18 6 7 85.7 4 4 100.0 2 2 100.0 2 1 3 2 0 0 3 3 12
+p40
+aVJoe Smith CLE 04/10/2009 CLE @ PHI W 22 8 4 6 66.7 0 0 - 0 0 - 0 1 1 3 0 1 1 0 3
+p41
+aVZydrunas Ilgauskas CLE 04/08/2009 CLE vs. WAS W 21 7 2 6 33.3 0 0 - 3 4 75.0 6 7 13 2 0 1 2 1 23
+p42
+aVTarence Kinsey CLE 04/08/2009 CLE vs. WAS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -4
+p43
+aVLeBron James CLE 04/08/2009 CLE vs. WAS W 31 21 7 15 46.7 0 2 0.0 7 8 87.5 0 6 6 7 3 0 2 1 25
+p44
+aVDaniel Gibson CLE 04/08/2009 CLE vs. WAS W 27 10 4 8 50.0 2 4 50.0 0 0 - 1 0 1 3 0 1 0 0 -1
+p45
+aVDarnell Jackson CLE 04/08/2009 CLE vs. WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p46
+aVWally Szczerbiak CLE 04/08/2009 CLE vs. WAS W 16 4 1 6 16.7 0 0 - 2 2 100.0 2 4 6 0 0 0 0 4 -9
+p47
+aVMo Williams CLE 04/08/2009 CLE vs. WAS W 30 14 6 12 50.0 2 4 50.0 0 0 - 0 3 3 3 1 0 1 3 13
+p48
+aVAnderson Varejao CLE 04/08/2009 CLE vs. WAS W 25 10 5 7 71.4 0 0 - 0 0 - 4 3 7 0 2 0 0 2 21
+p49
+aVBen Wallace CLE 04/08/2009 CLE vs. WAS W 18 7 3 4 75.0 0 0 - 1 2 50.0 3 3 6 2 0 0 0 3 -1
+p50
+aVSasha Pavlovic CLE 04/08/2009 CLE vs. WAS W 5 5 2 5 40.0 1 2 50.0 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p51
+aVDelonte West CLE 04/08/2009 CLE vs. WAS W 35 13 5 14 35.7 0 2 0.0 3 3 100.0 0 2 2 4 0 0 2 1 14
+p52
+aVJoe Smith CLE 04/08/2009 CLE vs. WAS W 25 7 3 7 42.9 0 1 0.0 1 2 50.0 3 2 5 0 0 3 1 4 -7
+p53
+aVSasha Pavlovic CLE 04/05/2009 CLE vs. SAS W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -1
+p54
+aVZydrunas Ilgauskas CLE 04/05/2009 CLE vs. SAS W 36 8 3 6 50.0 0 0 - 2 2 100.0 1 9 10 2 0 1 2 2 19
+p55
+aVLeBron James CLE 04/05/2009 CLE vs. SAS W 37 38 14 21 66.7 2 5 40.0 8 8 100.0 0 7 7 6 1 0 2 1 7
+p56
+aVDaniel Gibson CLE 04/05/2009 CLE vs. SAS W 26 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 4 15
+p57
+aVDarnell Jackson CLE 04/05/2009 CLE vs. SAS W 24 4 0 2 0.0 0 0 - 4 6 66.7 3 2 5 0 0 1 1 2 5
+p58
+aVJJ Hickson CLE 04/05/2009 CLE vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p59
+aVJoe Smith CLE 04/05/2009 CLE vs. SAS W 22 7 3 5 60.0 0 0 - 1 2 50.0 2 3 5 1 2 1 0 5 20
+p60
+aVMo Williams CLE 04/05/2009 CLE vs. SAS W 35 22 9 15 60.0 4 6 66.7 0 0 - 0 5 5 4 2 0 0 2 20
+p61
+aVTarence Kinsey CLE 04/05/2009 CLE vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p62
+aVWally Szczerbiak CLE 04/05/2009 CLE vs. SAS W 13 0 0 2 0.0 0 1 0.0 0 1 0.0 1 2 3 2 0 0 1 1 1
+p63
+aVDelonte West CLE 04/05/2009 CLE vs. SAS W 37 22 10 15 66.7 2 2 100.0 0 0 - 0 6 6 1 1 0 3 0 16
+p64
+aVJJ Hickson CLE 04/03/2009 CLE @ ORL L 12 5 2 6 33.3 0 0 - 1 1 100.0 3 3 6 0 0 0 0 0 3
+p65
+aVDarnell Jackson CLE 04/03/2009 CLE @ ORL L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 1 3
+p66
+aVJoe Smith CLE 04/03/2009 CLE @ ORL L 11 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -10
+p67
+aVWally Szczerbiak CLE 04/03/2009 CLE @ ORL L 18 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 1 0 0 0 0 -11
+p68
+aVZydrunas Ilgauskas CLE 04/03/2009 CLE @ ORL L 32 10 5 12 41.7 0 0 - 0 0 - 2 5 7 1 1 0 0 4 -32
+p69
+aVSasha Pavlovic CLE 04/03/2009 CLE @ ORL L 18 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -3
+p70
+aVTarence Kinsey CLE 04/03/2009 CLE @ ORL L 7 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 0 0 0 0 0 2
+p71
+aVAnderson Varejao CLE 04/03/2009 CLE @ ORL L 27 7 3 8 37.5 0 0 - 1 3 33.3 1 3 4 1 1 0 1 3 -22
+p72
+aVDaniel Gibson CLE 04/03/2009 CLE @ ORL L 12 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 3 0 0 2 1 3
+p73
+aVMo Williams CLE 04/03/2009 CLE @ ORL L 30 10 3 7 42.9 2 4 50.0 2 2 100.0 0 1 1 2 0 0 3 5 -30
+p74
+aVDelonte West CLE 04/03/2009 CLE @ ORL L 29 5 2 5 40.0 1 1 100.0 0 0 - 0 4 4 0 0 0 2 0 -22
+p75
+aVLeBron James CLE 04/03/2009 CLE @ ORL L 32 26 7 20 35.0 2 5 40.0 10 10 100.0 1 8 9 5 1 0 2 1 -26
+p76
+aVSasha Pavlovic CLE 04/02/2009 CLE @ WAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p77
+aVMo Williams CLE 04/02/2009 CLE @ WAS L 40 19 7 15 46.7 3 9 33.3 2 4 50.0 2 4 6 5 0 0 0 3 4
+p78
+aVDarnell Jackson CLE 04/02/2009 CLE @ WAS L 19 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 4 12
+p79
+aVWally Szczerbiak CLE 04/02/2009 CLE @ WAS L 16 8 3 7 42.9 2 4 50.0 0 0 - 1 1 2 1 0 1 1 2 -5
+p80
+aVZydrunas Ilgauskas CLE 04/02/2009 CLE @ WAS L 32 9 3 9 33.3 0 0 - 3 4 75.0 2 4 6 0 0 4 1 5 -9
+p81
+aVLeBron James CLE 04/02/2009 CLE @ WAS L 38 31 11 18 61.1 4 8 50.0 5 7 71.4 1 8 9 6 0 0 6 1 -13
+p82
+aVDelonte West CLE 04/02/2009 CLE @ WAS L 35 14 7 14 50.0 0 3 0.0 0 0 - 0 1 1 7 0 0 0 1 -15
+p83
+aVDaniel Gibson CLE 04/02/2009 CLE @ WAS L 17 6 2 7 28.6 2 6 33.3 0 0 - 0 1 1 1 0 0 1 1 -5
+p84
+aVAnderson Varejao CLE 04/02/2009 CLE @ WAS L 31 10 5 7 71.4 0 0 - 0 0 - 1 6 7 1 0 2 0 5 -1
+p85
+aVJoe Smith CLE 04/02/2009 CLE @ WAS L 8 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -8
+p86
+aVDelonte West CLE 03/31/2009 CLE vs. DET W 36 12 6 11 54.5 0 2 0.0 0 1 0.0 0 3 3 6 1 0 3 4 7
+p87
+aVJoe Smith CLE 03/31/2009 CLE vs. DET W 26 4 2 9 22.2 0 1 0.0 0 0 - 2 5 7 0 0 1 0 1 -5
+p88
+aVWally Szczerbiak CLE 03/31/2009 CLE vs. DET W 11 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -3
+p89
+aVDarnell Jackson CLE 03/31/2009 CLE vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p90
+aVLeBron James CLE 03/31/2009 CLE vs. DET W 41 25 9 24 37.5 0 2 0.0 7 8 87.5 1 11 12 3 3 1 1 0 10
+p91
+aVMo Williams CLE 03/31/2009 CLE vs. DET W 40 11 4 14 28.6 1 5 20.0 2 3 66.7 1 2 3 5 0 2 0 2 -2
+p92
+aVZydrunas Ilgauskas CLE 03/31/2009 CLE vs. DET W 26 4 2 11 18.2 0 1 0.0 0 0 - 2 4 6 1 0 1 0 5 8
+p93
+aVDaniel Gibson CLE 03/31/2009 CLE vs. DET W 21 8 3 5 60.0 2 3 66.7 0 0 - 1 1 2 3 0 0 0 1 5
+p94
+aVAnderson Varejao CLE 03/31/2009 CLE vs. DET W 37 11 4 5 80.0 0 0 - 3 4 75.0 1 6 7 1 2 1 1 1 9
+p95
+aVDelonte West CLE 03/29/2009 CLE vs. DAL W 29 3 1 6 16.7 1 3 33.3 0 0 - 1 0 1 5 2 0 0 1 11
+p96
+aVZydrunas Ilgauskas CLE 03/29/2009 CLE vs. DAL W 28 14 7 15 46.7 0 1 0.0 0 0 - 2 7 9 0 0 0 0 4 14
+p97
+aVAnderson Varejao CLE 03/29/2009 CLE vs. DAL W 29 10 5 6 83.3 0 0 - 0 0 - 0 5 5 0 1 2 0 3 14
+p98
+aVTarence Kinsey CLE 03/29/2009 CLE vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 2
+p99
+aVJoe Smith CLE 03/29/2009 CLE vs. DAL W 27 12 4 8 50.0 1 1 100.0 3 3 100.0 4 9 13 3 0 1 0 0 22
+p100
+aVWally Szczerbiak CLE 03/29/2009 CLE vs. DAL W 16 4 1 5 20.0 0 1 0.0 2 2 100.0 1 4 5 0 2 0 1 2 11
+p101
+aVDaniel Gibson CLE 03/29/2009 CLE vs. DAL W 26 5 2 7 28.6 1 3 33.3 0 0 - 0 5 5 2 0 0 1 1 20
+p102
+aVMo Williams CLE 03/29/2009 CLE vs. DAL W 36 22 7 16 43.8 2 7 28.6 6 7 85.7 0 3 3 5 2 0 2 0 21
+p103
+aVDarnell Jackson CLE 03/29/2009 CLE vs. DAL W 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p104
+aVLeBron James CLE 03/29/2009 CLE vs. DAL W 31 24 9 22 40.9 2 4 50.0 4 5 80.0 1 5 6 12 1 2 0 0 15
+p105
+aVSasha Pavlovic CLE 03/29/2009 CLE vs. DAL W 6 0 0 2 0.0 0 1 0.0 0 2 0.0 0 2 2 0 0 0 0 0 4
+p106
+aVJJ Hickson CLE 03/29/2009 CLE vs. DAL W 5 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 2
+p107
+aVDaniel Gibson CLE 03/27/2009 CLE vs. MIN W 22 12 4 7 57.1 4 5 80.0 0 0 - 1 0 1 2 0 1 1 2 7
+p108
+aVDelonte West CLE 03/27/2009 CLE vs. MIN W 36 13 5 8 62.5 0 1 0.0 3 3 100.0 1 4 5 6 1 0 1 2 26
+p109
+aVSasha Pavlovic CLE 03/27/2009 CLE vs. MIN W 25 4 2 4 50.0 0 2 0.0 0 0 - 1 4 5 2 0 0 1 3 3
+p110
+aVTarence Kinsey CLE 03/27/2009 CLE vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p111
+aVMo Williams CLE 03/27/2009 CLE vs. MIN W 31 22 8 14 57.1 4 8 50.0 2 2 100.0 0 0 0 1 2 0 3 2 9
+p112
+aVZydrunas Ilgauskas CLE 03/27/2009 CLE vs. MIN W 24 11 3 8 37.5 1 1 100.0 4 4 100.0 1 4 5 2 0 2 0 3 27
+p113
+aVLeBron James CLE 03/27/2009 CLE vs. MIN W 34 25 8 14 57.1 2 3 66.7 7 10 70.0 2 10 12 7 0 0 5 0 25
+p114
+aVJoe Smith CLE 03/27/2009 CLE vs. MIN W 19 4 2 4 50.0 0 0 - 0 0 - 0 4 4 2 1 0 1 4 -5
+p115
+aVJJ Hickson CLE 03/27/2009 CLE vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p116
+aVDarnell Jackson CLE 03/27/2009 CLE vs. MIN W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 5 5 1 2 0 0 2 -3
+p117
+aVAnderson Varejao CLE 03/27/2009 CLE vs. MIN W 30 10 5 10 50.0 0 0 - 0 0 - 3 6 9 2 1 1 1 3 25
+p118
+aVJoe Smith CLE 03/25/2009 CLE vs. NJN W 17 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 1 -7
+p119
+aVDarnell Jackson CLE 03/25/2009 CLE vs. NJN W 11 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -9
+p120
+aVLeBron James CLE 03/25/2009 CLE vs. NJN W 39 22 7 14 50.0 1 1 100.0 7 7 100.0 1 7 8 11 1 0 1 0 19
+p121
+aVAnderson Varejao CLE 03/25/2009 CLE vs. NJN W 36 16 6 8 75.0 0 0 - 4 4 100.0 3 8 11 1 0 1 1 3 20
+p122
+aVMo Williams CLE 03/25/2009 CLE vs. NJN W 37 16 5 12 41.7 4 9 44.4 2 3 66.7 1 5 6 6 0 0 4 4 14
+p123
+aVDelonte West CLE 03/25/2009 CLE vs. NJN W 35 13 5 11 45.5 3 4 75.0 0 0 - 1 8 9 3 1 0 4 1 18
+p124
+aVZydrunas Ilgauskas CLE 03/25/2009 CLE vs. NJN W 28 16 5 13 38.5 0 1 0.0 6 8 75.0 3 3 6 1 2 3 1 1 17
+p125
+aVDaniel Gibson CLE 03/25/2009 CLE vs. NJN W 22 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 1 1 3 -8
+p126
+aVSasha Pavlovic CLE 03/25/2009 CLE vs. NJN W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 0 2 0 1 -7
+p127
+aVTarence Kinsey CLE 03/25/2009 CLE vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p128
+aVSasha Pavlovic CLE 03/22/2009 CLE @ NJN W 19 6 2 6 33.3 1 1 100.0 1 2 50.0 1 2 3 2 0 0 1 4 -14
+p129
+aVDarnell Jackson CLE 03/22/2009 CLE @ NJN W 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p130
+aVDaniel Gibson CLE 03/22/2009 CLE @ NJN W 22 3 0 4 0.0 0 2 0.0 3 4 75.0 1 1 2 6 0 0 1 3 -8
+p131
+aVZydrunas Ilgauskas CLE 03/22/2009 CLE @ NJN W 26 18 9 14 64.3 0 0 - 0 0 - 1 5 6 0 0 4 0 4 18
+p132
+aVAnderson Varejao CLE 03/22/2009 CLE @ NJN W 33 16 6 10 60.0 0 0 - 4 9 44.4 2 9 11 1 0 1 1 4 17
+p133
+aVLeBron James CLE 03/22/2009 CLE @ NJN W 39 30 9 17 52.9 1 4 25.0 11 15 73.3 2 9 11 8 1 0 1 0 14
+p134
+aVDelonte West CLE 03/22/2009 CLE @ NJN W 34 3 1 5 20.0 1 2 50.0 0 0 - 0 3 3 5 0 0 0 2 16
+p135
+aVMo Williams CLE 03/22/2009 CLE @ NJN W 38 7 3 10 30.0 1 3 33.3 0 0 - 2 5 7 2 0 0 0 2 10
+p136
+aVJoe Smith CLE 03/22/2009 CLE @ NJN W 19 9 4 8 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 0 5 -7
+p137
+aVDarnell Jackson CLE 03/21/2009 CLE vs. ATL W 17 4 2 3 66.7 0 0 - 0 1 0.0 3 5 8 1 0 0 2 3 -9
+p138
+aVAnderson Varejao CLE 03/21/2009 CLE vs. ATL W 24 6 1 3 33.3 0 0 - 4 6 66.7 0 8 8 1 1 0 3 4 17
+p139
+aVDelonte West CLE 03/21/2009 CLE vs. ATL W 35 7 3 9 33.3 1 2 50.0 0 0 - 2 2 4 3 3 0 0 2 12
+p140
+aVDaniel Gibson CLE 03/21/2009 CLE vs. ATL W 23 8 3 6 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 1 2 -5
+p141
+aVSasha Pavlovic CLE 03/21/2009 CLE vs. ATL W 16 5 1 5 20.0 1 3 33.3 2 2 100.0 1 2 3 2 0 0 2 4 -4
+p142
+aVTarence Kinsey CLE 03/21/2009 CLE vs. ATL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p143
+aVZydrunas Ilgauskas CLE 03/21/2009 CLE vs. ATL W 26 16 6 11 54.5 0 1 0.0 4 4 100.0 0 4 4 1 0 0 0 2 11
+p144
+aVMo Williams CLE 03/21/2009 CLE vs. ATL W 33 24 8 14 57.1 3 4 75.0 5 5 100.0 0 2 2 7 0 0 1 2 12
+p145
+aVJoe Smith CLE 03/21/2009 CLE vs. ATL W 22 8 4 5 80.0 0 0 - 0 0 - 0 5 5 0 0 1 1 2 -1
+p146
+aVLeBron James CLE 03/21/2009 CLE vs. ATL W 40 22 9 21 42.9 1 4 25.0 3 5 60.0 1 6 7 5 3 1 2 2 10
+p147
+aVJJ Hickson CLE 03/21/2009 CLE vs. ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -7
+p148
+aVDaniel Gibson CLE 03/19/2009 CLE vs. POR W 24 8 3 6 50.0 2 4 50.0 0 0 - 1 1 2 1 0 0 0 3 2
+p149
+aVJoe Smith CLE 03/19/2009 CLE vs. POR W 19 12 5 5 100.0 0 0 - 2 2 100.0 2 1 3 0 0 2 0 3 -1
+p150
+aVZydrunas Ilgauskas CLE 03/19/2009 CLE vs. POR W 29 21 8 13 61.5 0 0 - 5 6 83.3 1 4 5 0 1 0 0 2 7
+p151
+aVLeBron James CLE 03/19/2009 CLE vs. POR W 47 26 10 22 45.5 0 3 0.0 6 11 54.5 0 11 11 10 1 2 0 4 -1
+p152
+aVAnderson Varejao CLE 03/19/2009 CLE vs. POR W 32 8 3 8 37.5 0 0 - 2 2 100.0 3 5 8 0 0 0 0 4 -7
+p153
+aVSasha Pavlovic CLE 03/19/2009 CLE vs. POR W 24 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 2 0 0 0 6 10
+p154
+aVDelonte West CLE 03/19/2009 CLE vs. POR W 41 9 4 14 28.6 0 3 0.0 1 2 50.0 0 3 3 2 1 0 0 3 1
+p155
+aVMo Williams CLE 03/19/2009 CLE vs. POR W 43 12 4 15 26.7 2 9 22.2 2 2 100.0 1 5 6 3 0 0 2 2 8
+p156
+aVDarnell Jackson CLE 03/19/2009 CLE vs. POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 6
+p157
+aVDelonte West CLE 03/17/2009 CLE vs. ORL W 36 8 4 10 40.0 0 4 0.0 0 0 - 1 0 1 1 2 0 0 1 3
+p158
+aVZydrunas Ilgauskas CLE 03/17/2009 CLE vs. ORL W 31 8 3 10 30.0 0 0 - 2 2 100.0 2 9 11 0 0 1 1 1 6
+p159
+aVAnderson Varejao CLE 03/17/2009 CLE vs. ORL W 32 12 6 10 60.0 0 0 - 0 0 - 4 3 7 2 1 1 2 3 -3
+p160
+aVDarnell Jackson CLE 03/17/2009 CLE vs. ORL W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -2
+p161
+aVLeBron James CLE 03/17/2009 CLE vs. ORL W 43 43 15 27 55.6 4 7 57.1 9 10 90.0 2 10 12 8 4 1 6 1 5
+p162
+aVJoe Smith CLE 03/17/2009 CLE vs. ORL W 19 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 1 0 1 0 3
+p163
+aVWally Szczerbiak CLE 03/17/2009 CLE vs. ORL W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 5 0 0 0 1 -2
+p164
+aVTarence Kinsey CLE 03/17/2009 CLE vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p165
+aVMo Williams CLE 03/17/2009 CLE vs. ORL W 40 21 9 20 45.0 3 8 37.5 0 2 0.0 1 3 4 3 1 0 2 2 5
+p166
+aVSasha Pavlovic CLE 03/17/2009 CLE vs. ORL W 17 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 5
+p167
+aVMo Williams CLE 03/15/2009 CLE vs. NYK W 40 23 8 13 61.5 5 5 100.0 2 3 66.7 0 7 7 5 1 0 3 1 11
+p168
+aVSasha Pavlovic CLE 03/15/2009 CLE vs. NYK W 26 7 2 9 22.2 1 5 20.0 2 2 100.0 1 1 2 2 1 3 1 5 1
+p169
+aVWally Szczerbiak CLE 03/15/2009 CLE vs. NYK W 16 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 2 -3
+p170
+aVDelonte West CLE 03/15/2009 CLE vs. NYK W 36 13 6 14 42.9 0 5 0.0 1 2 50.0 0 0 0 2 1 1 1 0 1
+p171
+aVLeBron James CLE 03/15/2009 CLE vs. NYK W 40 19 9 17 52.9 0 3 0.0 1 3 33.3 1 7 8 10 4 3 3 1 -1
+p172
+aVDarnell Jackson CLE 03/15/2009 CLE vs. NYK W 7 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 3
+p173
+aVAnderson Varejao CLE 03/15/2009 CLE vs. NYK W 31 8 3 6 50.0 0 0 - 2 4 50.0 0 9 9 0 2 0 2 2 6
+p174
+aVJoe Smith CLE 03/15/2009 CLE vs. NYK W 18 10 4 7 57.1 0 0 - 2 2 100.0 5 2 7 1 1 0 1 3 1
+p175
+aVZydrunas Ilgauskas CLE 03/15/2009 CLE vs. NYK W 27 12 5 12 41.7 0 0 - 2 2 100.0 5 3 8 0 0 2 1 2 6
+p176
+aVMo Williams CLE 03/13/2009 CLE @ SAC W 38 10 3 14 21.4 0 4 0.0 4 4 100.0 0 3 3 4 0 0 1 5 -16
+p177
+aVSasha Pavlovic CLE 03/13/2009 CLE @ SAC W 31 8 3 10 30.0 2 6 33.3 0 2 0.0 1 2 3 1 2 0 1 6 12
+p178
+aVZydrunas Ilgauskas CLE 03/13/2009 CLE @ SAC W 20 9 4 9 44.4 0 0 - 1 3 33.3 4 3 7 0 0 2 2 3 -25
+p179
+aVLeBron James CLE 03/13/2009 CLE @ SAC W 47 51 16 30 53.3 4 11 36.4 15 17 88.2 0 4 4 9 2 3 3 2 6
+p180
+aVJoe Smith CLE 03/13/2009 CLE @ SAC W 22 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 2 2 0 2 3 5
+p181
+aVAnderson Varejao CLE 03/13/2009 CLE @ SAC W 40 18 8 8 100.0 0 0 - 2 5 40.0 5 7 12 0 1 0 2 1 -1
+p182
+aVDaniel Gibson CLE 03/13/2009 CLE @ SAC W 31 9 2 4 50.0 2 4 50.0 3 4 75.0 0 1 1 1 1 0 0 2 24
+p183
+aVWally Szczerbiak CLE 03/13/2009 CLE @ SAC W 27 12 4 6 66.7 1 2 50.0 3 4 75.0 1 5 6 1 1 0 0 0 14
+p184
+aVTarence Kinsey CLE 03/13/2009 CLE @ SAC W 8 7 3 3 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 1 -4
+p185
+aVDelonte West CLE 03/12/2009 CLE @ PHX W 22 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 2 0 0 7 2 -6
+p186
+aVLeBron James CLE 03/12/2009 CLE @ PHX W 43 34 10 24 41.7 3 8 37.5 11 13 84.6 6 4 10 13 3 3 3 0 7
+p187
+aVJJ Hickson CLE 03/12/2009 CLE @ PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p188
+aVZydrunas Ilgauskas CLE 03/12/2009 CLE @ PHX W 25 15 6 9 66.7 1 1 100.0 2 2 100.0 0 4 4 0 1 0 1 5 0
+p189
+aVSasha Pavlovic CLE 03/12/2009 CLE @ PHX W 28 16 6 9 66.7 3 5 60.0 1 3 33.3 1 1 2 2 0 0 0 4 16
+p190
+aVMo Williams CLE 03/12/2009 CLE @ PHX W 41 30 10 23 43.5 6 10 60.0 4 4 100.0 3 2 5 3 2 0 1 1 11
+p191
+aVJoe Smith CLE 03/12/2009 CLE @ PHX W 16 5 2 4 50.0 0 0 - 1 2 50.0 1 5 6 0 0 0 0 4 0
+p192
+aVWally Szczerbiak CLE 03/12/2009 CLE @ PHX W 19 7 2 3 66.7 2 3 66.7 1 1 100.0 0 1 1 1 0 0 0 1 14
+p193
+aVDaniel Gibson CLE 03/12/2009 CLE @ PHX W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 0 -5
+p194
+aVAnderson Varejao CLE 03/12/2009 CLE @ PHX W 33 6 2 6 33.3 0 0 - 2 2 100.0 3 6 9 0 0 2 0 2 3
+p195
+aVAnderson Varejao CLE 03/10/2009 CLE @ LAC W 36 8 4 7 57.1 0 0 - 0 0 - 3 7 10 0 1 1 1 3 5
+p196
+aVDelonte West CLE 03/10/2009 CLE @ LAC W 27 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 2 1 0 0 0 -11
+p197
+aVJJ Hickson CLE 03/10/2009 CLE @ LAC W 5 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -3
+p198
+aVJoe Smith CLE 03/10/2009 CLE @ LAC W 17 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 4
+p199
+aVWally Szczerbiak CLE 03/10/2009 CLE @ LAC W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -3
+p200
+aVZydrunas Ilgauskas CLE 03/10/2009 CLE @ LAC W 30 16 6 15 40.0 0 1 0.0 4 4 100.0 3 5 8 0 1 1 2 1 4
+p201
+aVMo Williams CLE 03/10/2009 CLE @ LAC W 40 14 4 17 23.5 2 8 25.0 4 5 80.0 1 3 4 1 1 0 4 3 10
+p202
+aVLeBron James CLE 03/10/2009 CLE @ LAC W 44 32 10 23 43.5 0 6 0.0 12 16 75.0 4 9 13 11 2 2 4 2 7
+p203
+aVSasha Pavlovic CLE 03/10/2009 CLE @ LAC W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -7
+p204
+aVDaniel Gibson CLE 03/10/2009 CLE @ LAC W 24 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 2 1 0 0 2 14
+p205
+aVDaniel Gibson CLE 03/07/2009 CLE vs. MIA W 14 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 0 0 0 1 1 6
+p206
+aVZydrunas Ilgauskas CLE 03/07/2009 CLE vs. MIA W 23 4 2 8 25.0 0 1 0.0 0 0 - 1 3 4 0 1 0 2 4 0
+p207
+aVWally Szczerbiak CLE 03/07/2009 CLE vs. MIA W 14 6 2 5 40.0 0 1 0.0 2 2 100.0 0 4 4 1 0 1 0 0 7
+p208
+aVAnderson Varejao CLE 03/07/2009 CLE vs. MIA W 37 12 4 6 66.7 0 0 - 4 6 66.7 1 6 7 1 1 0 1 5 12
+p209
+aVMo Williams CLE 03/07/2009 CLE vs. MIA W 39 29 10 15 66.7 6 7 85.7 3 3 100.0 0 5 5 3 0 0 3 3 10
+p210
+aVJJ Hickson CLE 03/07/2009 CLE vs. MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 0
+p211
+aVJoe Smith CLE 03/07/2009 CLE vs. MIA W 22 9 4 7 57.1 0 0 - 1 2 50.0 1 4 5 1 0 0 0 1 1
+p212
+aVDelonte West CLE 03/07/2009 CLE vs. MIA W 43 19 6 11 54.5 2 3 66.7 5 5 100.0 1 2 3 6 0 0 4 2 4
+p213
+aVLeBron James CLE 03/07/2009 CLE vs. MIA W 43 14 5 15 33.3 0 3 0.0 4 7 57.1 2 8 10 12 1 1 2 0 10
+p214
+aVAnderson Varejao CLE 03/06/2009 CLE @ BOS L 31 15 5 8 62.5 0 0 - 5 9 55.6 2 3 5 1 1 0 2 3 -6
+p215
+aVTarence Kinsey CLE 03/06/2009 CLE @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 0
+p216
+aVMo Williams CLE 03/06/2009 CLE @ BOS L 39 26 8 15 53.3 4 5 80.0 6 6 100.0 2 2 4 2 0 0 0 1 -14
+p217
+aVSasha Pavlovic CLE 03/06/2009 CLE @ BOS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p218
+aVDaniel Gibson CLE 03/06/2009 CLE @ BOS L 17 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 0
+p219
+aVDelonte West CLE 03/06/2009 CLE @ BOS L 35 5 2 5 40.0 0 1 0.0 1 1 100.0 1 5 6 8 0 0 1 3 -6
+p220
+aVLeBron James CLE 03/06/2009 CLE @ BOS L 38 21 5 15 33.3 2 5 40.0 9 12 75.0 0 6 6 5 1 0 4 1 -1
+p221
+aVJJ Hickson CLE 03/06/2009 CLE @ BOS L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 0 -6
+p222
+aVZydrunas Ilgauskas CLE 03/06/2009 CLE @ BOS L 28 12 4 8 50.0 0 0 - 4 6 66.7 0 4 4 0 0 2 1 3 -8
+p223
+aVWally Szczerbiak CLE 03/06/2009 CLE @ BOS L 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 0 0 0 -8
+p224
+aVDarnell Jackson CLE 03/06/2009 CLE @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p225
+aVJoe Smith CLE 03/06/2009 CLE @ BOS L 22 7 3 8 37.5 0 0 - 1 2 50.0 3 2 5 0 0 0 0 2 -4
+p226
+aVAnderson Varejao CLE 03/04/2009 CLE vs. MIL W 29 6 1 4 25.0 0 0 - 4 8 50.0 2 7 9 2 2 1 0 3 21
+p227
+aVLeBron James CLE 03/04/2009 CLE vs. MIL W 33 23 7 11 63.6 4 5 80.0 5 7 71.4 1 7 8 4 1 0 3 2 24
+p228
+aVJJ Hickson CLE 03/04/2009 CLE vs. MIL W 19 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 2 0 2 3 -3
+p229
+aVDelonte West CLE 03/04/2009 CLE vs. MIL W 33 13 5 11 45.5 1 2 50.0 2 4 50.0 0 3 3 4 8 0 0 3 24
+p230
+aVTarence Kinsey CLE 03/04/2009 CLE vs. MIL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p231
+aVSasha Pavlovic CLE 03/04/2009 CLE vs. MIL W 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 2 1 9
+p232
+aVWally Szczerbiak CLE 03/04/2009 CLE vs. MIL W 25 11 5 9 55.6 1 4 25.0 0 0 - 0 3 3 2 1 0 0 1 15
+p233
+aVZydrunas Ilgauskas CLE 03/04/2009 CLE vs. MIL W 25 14 5 17 29.4 0 0 - 4 4 100.0 4 1 5 2 0 1 1 2 2
+p234
+aVMo Williams CLE 03/04/2009 CLE vs. MIL W 34 15 5 9 55.6 3 4 75.0 2 2 100.0 0 1 1 3 0 0 2 1 7
+p235
+aVDarnell Jackson CLE 03/04/2009 CLE vs. MIL W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 -3
+p236
+aVDaniel Gibson CLE 03/04/2009 CLE vs. MIL W 19 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -3
+p237
+aVZydrunas Ilgauskas CLE 03/02/2009 CLE @ MIA W 33 12 5 13 38.5 0 0 - 2 4 50.0 6 9 15 2 2 0 1 3 14
+p238
+aVDaniel Gibson CLE 03/02/2009 CLE @ MIA W 9 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -12
+p239
+aVMo Williams CLE 03/02/2009 CLE @ MIA W 40 30 10 19 52.6 2 5 40.0 8 9 88.9 1 6 7 7 2 0 4 3 23
+p240
+aVAnderson Varejao CLE 03/02/2009 CLE @ MIA W 37 6 3 5 60.0 0 0 - 0 0 - 1 3 4 4 3 2 0 5 20
+p241
+aVLeBron James CLE 03/02/2009 CLE @ MIA W 44 42 13 21 61.9 6 7 85.7 10 10 100.0 1 7 8 4 1 1 6 4 8
+p242
+aVWally Szczerbiak CLE 03/02/2009 CLE @ MIA W 13 1 0 1 0.0 0 0 - 1 1 100.0 0 2 2 0 0 0 3 2 -6
+p243
+aVSasha Pavlovic CLE 03/02/2009 CLE @ MIA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 3
+p244
+aVDarnell Jackson CLE 03/02/2009 CLE @ MIA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p245
+aVDelonte West CLE 03/02/2009 CLE @ MIA W 38 8 3 6 50.0 2 3 66.7 0 0 - 1 1 2 6 5 1 3 2 6
+p246
+aVJJ Hickson CLE 03/02/2009 CLE @ MIA W 17 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 1 0 1 2 3 -17
+p247
+aVAnderson Varejao CLE 03/01/2009 CLE @ ATL W 35 7 3 6 50.0 0 0 - 1 3 33.3 2 5 7 1 1 0 1 3 1
+p248
+aVDelonte West CLE 03/01/2009 CLE @ ATL W 41 12 5 16 31.3 0 4 0.0 2 2 100.0 1 1 2 2 3 0 5 4 11
+p249
+aVMo Williams CLE 03/01/2009 CLE @ ATL W 36 20 8 15 53.3 4 5 80.0 0 0 - 1 2 3 1 1 0 3 4 -1
+p250
+aVDaniel Gibson CLE 03/01/2009 CLE @ ATL W 17 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 2 0 0 0 2 -2
+p251
+aVLeBron James CLE 03/01/2009 CLE @ ATL W 44 26 8 20 40.0 2 7 28.6 8 14 57.1 1 5 6 11 1 2 0 3 4
+p252
+aVZydrunas Ilgauskas CLE 03/01/2009 CLE @ ATL W 36 17 7 9 77.8 0 0 - 3 3 100.0 3 8 11 0 2 1 1 3 2
+p253
+aVWally Szczerbiak CLE 03/01/2009 CLE @ ATL W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 1 0 1 2 -5
+p254
+aVJJ Hickson CLE 03/01/2009 CLE @ ATL W 19 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 0 0 0 2 2 -5
+p255
+aVTrey Johnson CLE 02/27/2009 CLE @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p256
+aVLeBron James CLE 02/27/2009 CLE @ SAS W 32 30 12 23 52.2 3 6 50.0 3 3 100.0 4 10 14 4 2 0 1 2 29
+p257
+aVWally Szczerbiak CLE 02/27/2009 CLE @ SAS W 25 6 2 9 22.2 2 3 66.7 0 0 - 2 0 2 0 0 0 1 4 -3
+p258
+aVAnderson Varejao CLE 02/27/2009 CLE @ SAS W 29 6 2 5 40.0 0 0 - 2 2 100.0 0 5 5 0 1 1 0 2 30
+p259
+aVDarnell Jackson CLE 02/27/2009 CLE @ SAS W 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 2 0 0 1 -10
+p260
+aVDaniel Gibson CLE 02/27/2009 CLE @ SAS W 32 10 4 13 30.8 2 7 28.6 0 0 - 0 2 2 3 1 0 1 1 -10
+p261
+aVJJ Hickson CLE 02/27/2009 CLE @ SAS W 14 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 0 0 1 1 2 -21
+p262
+aVZydrunas Ilgauskas CLE 02/27/2009 CLE @ SAS W 28 10 4 10 40.0 0 0 - 2 2 100.0 4 6 10 1 1 1 2 2 17
+p263
+aVMo Williams CLE 02/27/2009 CLE @ SAS W 33 9 4 9 44.4 0 3 0.0 1 1 100.0 0 2 2 1 0 0 0 3 22
+p264
+aVTarence Kinsey CLE 02/27/2009 CLE @ SAS W 4 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 1 0 -10
+p265
+aVDelonte West CLE 02/27/2009 CLE @ SAS W 27 17 6 9 66.7 0 2 0.0 5 7 71.4 3 4 7 5 2 1 5 6 20
+p266
+aVDelonte West CLE 02/26/2009 CLE @ HOU L 29 4 2 8 25.0 0 1 0.0 0 0 - 0 3 3 1 0 1 3 0 -17
+p267
+aVJJ Hickson CLE 02/26/2009 CLE @ HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p268
+aVDarnell Jackson CLE 02/26/2009 CLE @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p269
+aVWally Szczerbiak CLE 02/26/2009 CLE @ HOU L 27 11 3 8 37.5 1 2 50.0 4 4 100.0 1 3 4 0 1 0 0 2 -14
+p270
+aVMo Williams CLE 02/26/2009 CLE @ HOU L 33 21 8 18 44.4 3 7 42.9 2 2 100.0 0 4 4 4 2 0 1 2 -14
+p271
+aVTarence Kinsey CLE 02/26/2009 CLE @ HOU L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p272
+aVAnderson Varejao CLE 02/26/2009 CLE @ HOU L 29 0 0 4 0.0 0 0 - 0 0 - 3 2 5 2 2 2 1 1 -5
+p273
+aVDaniel Gibson CLE 02/26/2009 CLE @ HOU L 31 4 1 5 20.0 0 2 0.0 2 2 100.0 1 5 6 2 0 1 0 0 -6
+p274
+aVLeBron James CLE 02/26/2009 CLE @ HOU L 34 21 7 21 33.3 2 5 40.0 5 6 83.3 0 1 1 0 1 2 3 4 -14
+p275
+aVBen Wallace CLE 02/26/2009 CLE @ HOU L 17 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 1 0 1 2 -7
+p276
+aVZydrunas Ilgauskas CLE 02/26/2009 CLE @ HOU L 29 11 5 12 41.7 0 0 - 1 2 50.0 6 7 13 0 0 2 1 4 -9
+p277
+aVZydrunas Ilgauskas CLE 02/24/2009 CLE vs. MEM W 19 9 2 8 25.0 0 1 0.0 5 6 83.3 4 4 8 1 0 3 1 2 11
+p278
+aVMo Williams CLE 02/24/2009 CLE vs. MEM W 34 18 6 12 50.0 3 5 60.0 3 3 100.0 1 2 3 6 2 0 4 2 16
+p279
+aVAnderson Varejao CLE 02/24/2009 CLE vs. MEM W 23 6 2 5 40.0 0 0 - 2 4 50.0 1 3 4 0 0 1 1 5 7
+p280
+aVTrey Johnson CLE 02/24/2009 CLE vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p281
+aVWally Szczerbiak CLE 02/24/2009 CLE vs. MEM W 28 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 6 0 1 0 2 2
+p282
+aVJJ Hickson CLE 02/24/2009 CLE vs. MEM W 28 10 3 7 42.9 0 0 - 4 4 100.0 3 6 9 1 0 1 1 0 10
+p283
+aVTarence Kinsey CLE 02/24/2009 CLE vs. MEM W 27 11 3 6 50.0 1 2 50.0 4 4 100.0 1 2 3 1 1 0 2 2 1
+p284
+aVBen Wallace CLE 02/24/2009 CLE vs. MEM W 19 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 2 2 2 0 13
+p285
+aVDaniel Gibson CLE 02/24/2009 CLE vs. MEM W 27 19 8 14 57.1 3 7 42.9 0 0 - 1 2 3 1 1 0 1 2 10
+p286
+aVLeBron James CLE 02/24/2009 CLE vs. MEM W 30 15 4 10 40.0 1 2 50.0 6 8 75.0 0 5 5 8 0 1 2 1 13
+p287
+aVDarnell Jackson CLE 02/24/2009 CLE vs. MEM W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p288
+aVAnderson Varejao CLE 02/22/2009 CLE vs. DET W 20 3 1 3 33.3 0 0 - 1 1 100.0 3 1 4 2 0 0 0 0 20
+p289
+aVDarnell Jackson CLE 02/22/2009 CLE vs. DET W 10 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 0 0 1 0 1 -8
+p290
+aVTarence Kinsey CLE 02/22/2009 CLE vs. DET W 8 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 0 -8
+p291
+aVDaniel Gibson CLE 02/22/2009 CLE vs. DET W 28 3 1 6 16.7 1 3 33.3 0 0 - 0 4 4 2 2 2 1 0 13
+p292
+aVMo Williams CLE 02/22/2009 CLE vs. DET W 25 11 4 9 44.4 2 3 66.7 1 1 100.0 0 3 3 4 2 0 0 2 15
+p293
+aVJJ Hickson CLE 02/22/2009 CLE vs. DET W 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -9
+p294
+aVWally Szczerbiak CLE 02/22/2009 CLE vs. DET W 24 15 6 8 75.0 2 2 100.0 1 2 50.0 0 4 4 1 1 0 1 4 2
+p295
+aVBen Wallace CLE 02/22/2009 CLE vs. DET W 23 4 2 7 28.6 0 0 - 0 0 - 3 4 7 1 0 0 0 1 20
+p296
+aVLeBron James CLE 02/22/2009 CLE vs. DET W 31 20 6 13 46.2 0 3 0.0 8 10 80.0 0 5 5 9 2 1 0 0 22
+p297
+aVDelonte West CLE 02/22/2009 CLE vs. DET W 33 25 8 11 72.7 5 5 100.0 4 4 100.0 1 4 5 4 1 0 1 3 21
+p298
+aVLorenzen Wright CLE 02/22/2009 CLE vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p299
+aVZydrunas Ilgauskas CLE 02/22/2009 CLE vs. DET W 23 16 7 14 50.0 0 1 0.0 2 2 100.0 2 6 8 1 0 2 1 2 17
+p300
+aVAnderson Varejao CLE 02/20/2009 CLE @ MIL W 21 5 2 4 50.0 0 0 - 1 2 50.0 4 3 7 0 0 0 1 5 -3
+p301
+aVDaniel Gibson CLE 02/20/2009 CLE @ MIL W 30 0 0 3 0.0 0 2 0.0 0 0 - 2 1 3 2 0 0 1 4 -3
+p302
+aVBen Wallace CLE 02/20/2009 CLE @ MIL W 24 0 0 0 - 0 0 - 0 0 - 1 5 6 0 0 1 2 0 9
+p303
+aVLeBron James CLE 02/20/2009 CLE @ MIL W 40 55 16 29 55.2 8 11 72.7 15 22 68.2 1 4 5 9 0 0 6 3 13
+p304
+aVDarnell Jackson CLE 02/20/2009 CLE @ MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p305
+aVTarence Kinsey CLE 02/20/2009 CLE @ MIL W 27 7 2 5 40.0 1 3 33.3 2 2 100.0 1 1 2 0 0 0 1 3 8
+p306
+aVWally Szczerbiak CLE 02/20/2009 CLE @ MIL W 20 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 0 0 0 0 5 -12
+p307
+aVMo Williams CLE 02/20/2009 CLE @ MIL W 37 23 8 17 47.1 3 6 50.0 4 4 100.0 0 0 0 6 4 0 4 3 14
+p308
+aVJJ Hickson CLE 02/20/2009 CLE @ MIL W 11 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -1
+p309
+aVZydrunas Ilgauskas CLE 02/20/2009 CLE @ MIL W 27 11 5 8 62.5 1 3 33.3 0 0 - 1 5 6 0 1 0 2 4 19
+p310
+aVAnderson Varejao CLE 02/18/2009 CLE @ TOR W 32 5 2 3 66.7 0 0 - 1 2 50.0 2 12 14 0 1 3 1 2 19
+p311
+aVMo Williams CLE 02/18/2009 CLE @ TOR W 37 17 7 11 63.6 1 2 50.0 2 2 100.0 0 2 2 4 1 0 3 0 14
+p312
+aVZydrunas Ilgauskas CLE 02/18/2009 CLE @ TOR W 29 22 11 17 64.7 0 0 - 0 2 0.0 1 5 6 3 0 2 4 1 2
+p313
+aVDaniel Gibson CLE 02/18/2009 CLE @ TOR W 27 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 2 1 0 2 2 11
+p314
+aVJJ Hickson CLE 02/18/2009 CLE @ TOR W 23 8 4 5 80.0 0 0 - 0 0 - 0 8 8 0 1 0 2 2 3
+p315
+aVLeBron James CLE 02/18/2009 CLE @ TOR W 33 20 9 17 52.9 0 3 0.0 2 2 100.0 1 8 9 9 1 1 5 1 20
+p316
+aVDarnell Jackson CLE 02/18/2009 CLE @ TOR W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 2
+p317
+aVTarence Kinsey CLE 02/18/2009 CLE @ TOR W 23 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 1 2 0 2 0 -5
+p318
+aVLorenzen Wright CLE 02/18/2009 CLE @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p319
+aVWally Szczerbiak CLE 02/18/2009 CLE @ TOR W 28 11 4 4 100.0 0 0 - 3 4 75.0 0 4 4 1 0 1 1 3 19
+p320
+aVBen Wallace CLE 02/11/2009 CLE vs. PHX W 24 2 1 4 25.0 0 0 - 0 0 - 5 6 11 1 2 1 0 3 11
+p321
+aVAnderson Varejao CLE 02/11/2009 CLE vs. PHX W 21 13 6 8 75.0 0 0 - 1 2 50.0 1 4 5 1 1 1 1 4 16
+p322
+aVLeBron James CLE 02/11/2009 CLE vs. PHX W 33 26 9 18 50.0 1 5 20.0 7 8 87.5 2 4 6 6 2 1 3 1 22
+p323
+aVTrey Johnson CLE 02/11/2009 CLE vs. PHX W 9 4 0 4 0.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 1 -2
+p324
+aVJJ Hickson CLE 02/11/2009 CLE vs. PHX W 14 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 1 2 1 9
+p325
+aVDarnell Jackson CLE 02/11/2009 CLE vs. PHX W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 1 1 1 9
+p326
+aVZydrunas Ilgauskas CLE 02/11/2009 CLE vs. PHX W 26 0 0 5 0.0 0 0 - 0 0 - 1 2 3 0 2 1 2 4 -6
+p327
+aVDaniel Gibson CLE 02/11/2009 CLE vs. PHX W 32 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 1 4 2 0 2 25
+p328
+aVMo Williams CLE 02/11/2009 CLE vs. PHX W 40 44 18 26 69.2 7 9 77.8 1 3 33.3 2 0 2 7 3 1 4 1 15
+p329
+aVWally Szczerbiak CLE 02/11/2009 CLE vs. PHX W 29 11 4 13 30.8 2 8 25.0 1 1 100.0 2 2 4 1 1 0 1 2 -14
+p330
+aVJJ Hickson CLE 02/10/2009 CLE @ IND L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p331
+aVZydrunas Ilgauskas CLE 02/10/2009 CLE @ IND L 35 10 5 17 29.4 0 2 0.0 0 0 - 4 7 11 0 1 3 2 5 -4
+p332
+aVBen Wallace CLE 02/10/2009 CLE @ IND L 25 1 0 2 0.0 0 0 - 1 2 50.0 2 5 7 2 1 0 0 0 -2
+p333
+aVAnderson Varejao CLE 02/10/2009 CLE @ IND L 23 8 2 3 66.7 0 0 - 4 10 40.0 7 1 8 2 0 1 1 0 -4
+p334
+aVDaniel Gibson CLE 02/10/2009 CLE @ IND L 26 6 2 7 28.6 2 4 50.0 0 0 - 0 1 1 1 1 0 2 5 0
+p335
+aVDarnell Jackson CLE 02/10/2009 CLE @ IND L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p336
+aVLeBron James CLE 02/10/2009 CLE @ IND L 41 47 15 21 71.4 4 7 57.1 13 14 92.9 0 7 7 4 1 1 7 1 7
+p337
+aVWally Szczerbiak CLE 02/10/2009 CLE @ IND L 41 6 2 8 25.0 0 3 0.0 2 2 100.0 1 6 7 2 0 0 0 3 -4
+p338
+aVMo Williams CLE 02/10/2009 CLE @ IND L 42 15 7 18 38.9 0 5 0.0 1 1 100.0 0 6 6 0 0 0 3 3 -3
+p339
+aVJJ Hickson CLE 02/08/2009 CLE vs. LAL L 11 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 1 -2
+p340
+aVDaniel Gibson CLE 02/08/2009 CLE vs. LAL L 24 5 2 6 33.3 1 5 20.0 0 1 0.0 0 1 1 1 1 1 1 2 0
+p341
+aVMo Williams CLE 02/08/2009 CLE vs. LAL L 42 19 7 19 36.8 3 4 75.0 2 2 100.0 1 3 4 2 1 0 2 4 -11
+p342
+aVBen Wallace CLE 02/08/2009 CLE vs. LAL L 17 2 1 4 25.0 0 0 - 0 0 - 2 2 4 2 2 1 0 2 -5
+p343
+aVSasha Pavlovic CLE 02/08/2009 CLE vs. LAL L 12 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 1 2
+p344
+aVLeBron James CLE 02/08/2009 CLE vs. LAL L 40 16 5 20 25.0 2 8 25.0 4 8 50.0 3 5 8 12 0 0 1 1 -12
+p345
+aVZydrunas Ilgauskas CLE 02/08/2009 CLE vs. LAL L 34 22 9 16 56.3 0 0 - 4 6 66.7 5 4 9 2 0 2 2 3 -7
+p346
+aVWally Szczerbiak CLE 02/08/2009 CLE vs. LAL L 34 16 6 11 54.5 4 5 80.0 0 0 - 1 3 4 1 0 0 0 3 -7
+p347
+aVAnderson Varejao CLE 02/08/2009 CLE vs. LAL L 26 6 2 6 33.3 0 0 - 2 2 100.0 1 8 9 1 0 0 1 4 -8
+p348
+aVJJ Hickson CLE 02/04/2009 CLE @ NYK W 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 0
+p349
+aVLeBron James CLE 02/04/2009 CLE @ NYK W 44 52 17 33 51.5 2 7 28.6 16 19 84.2 0 9 9 11 0 2 3 1 7
+p350
+aVZydrunas Ilgauskas CLE 02/04/2009 CLE @ NYK W 29 15 5 13 38.5 1 1 100.0 4 6 66.7 3 5 8 0 0 0 1 5 5
+p351
+aVWally Szczerbiak CLE 02/04/2009 CLE @ NYK W 40 12 5 9 55.6 2 5 40.0 0 0 - 2 11 13 2 1 0 0 3 18
+p352
+aVDaniel Gibson CLE 02/04/2009 CLE @ NYK W 31 11 4 8 50.0 3 6 50.0 0 0 - 0 1 1 1 0 1 1 0 -4
+p353
+aVAnderson Varejao CLE 02/04/2009 CLE @ NYK W 26 1 0 0 - 0 0 - 1 2 50.0 1 3 4 1 1 0 1 1 -10
+p354
+aVBen Wallace CLE 02/04/2009 CLE @ NYK W 24 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 3 1 1 0 1 7
+p355
+aVMo Williams CLE 02/04/2009 CLE @ NYK W 37 9 3 12 25.0 2 5 40.0 1 1 100.0 2 2 4 2 0 0 1 4 2
+p356
+aVJJ Hickson CLE 02/03/2009 CLE vs. TOR W 18 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -7
+p357
+aVTrey Johnson CLE 02/03/2009 CLE vs. TOR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p358
+aVAnderson Varejao CLE 02/03/2009 CLE vs. TOR W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 5 -4
+p359
+aVDaniel Gibson CLE 02/03/2009 CLE vs. TOR W 32 18 6 11 54.5 4 5 80.0 2 3 66.7 0 3 3 2 1 0 1 2 2
+p360
+aVLeBron James CLE 02/03/2009 CLE vs. TOR W 38 33 9 20 45.0 2 5 40.0 13 13 100.0 1 6 7 4 1 2 3 3 23
+p361
+aVMo Williams CLE 02/03/2009 CLE vs. TOR W 38 16 7 16 43.8 2 6 33.3 0 0 - 0 1 1 9 1 0 2 0 21
+p362
+aVZydrunas Ilgauskas CLE 02/03/2009 CLE vs. TOR W 23 6 3 8 37.5 0 1 0.0 0 0 - 2 6 8 0 0 2 0 5 15
+p363
+aVWally Szczerbiak CLE 02/03/2009 CLE vs. TOR W 44 15 4 10 40.0 3 7 42.9 4 4 100.0 1 3 4 3 0 0 0 2 18
+p364
+aVDarnell Jackson CLE 02/03/2009 CLE vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p365
+aVBen Wallace CLE 02/03/2009 CLE vs. TOR W 27 3 1 2 50.0 0 0 - 1 2 50.0 2 5 7 0 1 0 2 3 19
+p366
+aVAnderson Varejao CLE 02/01/2009 CLE @ DET W 23 2 1 1 100.0 0 0 - 0 0 - 3 3 6 0 0 0 0 0 8
+p367
+aVJJ Hickson CLE 02/01/2009 CLE @ DET W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p368
+aVZydrunas Ilgauskas CLE 02/01/2009 CLE @ DET W 34 13 5 16 31.3 2 3 66.7 1 2 50.0 2 6 8 0 0 0 0 5 17
+p369
+aVMo Williams CLE 02/01/2009 CLE @ DET W 42 22 9 18 50.0 0 1 0.0 4 4 100.0 0 7 7 4 2 0 2 1 20
+p370
+aVLeBron James CLE 02/01/2009 CLE @ DET W 39 33 12 25 48.0 3 8 37.5 6 11 54.5 4 0 4 8 1 1 5 3 -8
+p371
+aVWally Szczerbiak CLE 02/01/2009 CLE @ DET W 20 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 5
+p372
+aVSasha Pavlovic CLE 02/01/2009 CLE @ DET W 30 9 3 7 42.9 1 1 100.0 2 2 100.0 0 4 4 2 0 2 3 3 -2
+p373
+aVBen Wallace CLE 02/01/2009 CLE @ DET W 25 0 0 0 - 0 0 - 0 2 0.0 2 5 7 0 1 1 1 1 2
+p374
+aVDaniel Gibson CLE 02/01/2009 CLE @ DET W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 3 8
+p375
+aVMo Williams CLE 01/30/2009 CLE vs. LAC W 39 23 8 16 50.0 5 6 83.3 2 2 100.0 0 1 1 6 1 0 1 2 24
+p376
+aVLeBron James CLE 01/30/2009 CLE vs. LAC W 37 25 9 17 52.9 2 4 50.0 5 6 83.3 0 7 7 6 3 1 3 2 32
+p377
+aVJawad Williams CLE 01/30/2009 CLE vs. LAC W 2 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p378
+aVBen Wallace CLE 01/30/2009 CLE vs. LAC W 24 0 0 2 0.0 0 0 - 0 0 - 3 8 11 3 1 2 0 0 27
+p379
+aVWally Szczerbiak CLE 01/30/2009 CLE vs. LAC W 26 15 6 10 60.0 2 5 40.0 1 1 100.0 0 1 1 2 0 0 3 1 -5
+p380
+aVDaniel Gibson CLE 01/30/2009 CLE vs. LAC W 26 8 2 7 28.6 2 5 40.0 2 2 100.0 0 2 2 2 1 0 0 2 -10
+p381
+aVDarnell Jackson CLE 01/30/2009 CLE vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p382
+aVJJ Hickson CLE 01/30/2009 CLE vs. LAC W 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -13
+p383
+aVAnderson Varejao CLE 01/30/2009 CLE vs. LAC W 25 4 0 5 0.0 0 0 - 4 4 100.0 3 4 7 2 0 0 2 1 -14
+p384
+aVZydrunas Ilgauskas CLE 01/30/2009 CLE vs. LAC W 29 20 10 16 62.5 0 1 0.0 0 0 - 4 7 11 0 0 0 2 1 24
+p385
+aVSasha Pavlovic CLE 01/30/2009 CLE vs. LAC W 23 15 6 8 75.0 3 5 60.0 0 0 - 0 2 2 1 0 0 0 5 22
+p386
+aVWally Szczerbiak CLE 01/29/2009 CLE @ ORL L 22 14 5 6 83.3 3 3 100.0 1 2 50.0 0 1 1 0 0 1 0 0 -9
+p387
+aVJJ Hickson CLE 01/29/2009 CLE @ ORL L 24 13 6 9 66.7 0 0 - 1 2 50.0 1 6 7 1 1 1 0 3 6
+p388
+aVJawad Williams CLE 01/29/2009 CLE @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p389
+aVLeBron James CLE 01/29/2009 CLE @ ORL L 38 23 10 27 37.0 0 2 0.0 3 6 50.0 1 7 8 8 1 1 2 1 -9
+p390
+aVSasha Pavlovic CLE 01/29/2009 CLE @ ORL L 31 8 3 8 37.5 2 3 66.7 0 0 - 0 4 4 2 2 0 2 1 -5
+p391
+aVTarence Kinsey CLE 01/29/2009 CLE @ ORL L 8 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 8
+p392
+aVMo Williams CLE 01/29/2009 CLE @ ORL L 34 12 4 15 26.7 1 4 25.0 3 3 100.0 0 2 2 3 0 0 2 3 -20
+p393
+aVDarnell Jackson CLE 01/29/2009 CLE @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 10
+p394
+aVBen Wallace CLE 01/29/2009 CLE @ ORL L 21 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -10
+p395
+aVDaniel Gibson CLE 01/29/2009 CLE @ ORL L 25 5 1 6 16.7 1 2 50.0 2 2 100.0 0 2 2 1 1 0 0 2 -4
+p396
+aVAnderson Varejao CLE 01/29/2009 CLE @ ORL L 32 9 3 6 50.0 0 0 - 3 5 60.0 3 5 8 0 0 1 0 2 -25
+p397
+aVTarence Kinsey CLE 01/27/2009 CLE vs. SAC W 18 9 4 6 66.7 1 2 50.0 0 0 - 1 0 1 0 1 0 0 3 13
+p398
+aVLeBron James CLE 01/27/2009 CLE vs. SAC W 38 23 5 10 50.0 0 2 0.0 13 15 86.7 5 10 15 11 0 3 2 1 6
+p399
+aVMo Williams CLE 01/27/2009 CLE vs. SAC W 42 43 15 24 62.5 7 12 58.3 6 6 100.0 1 7 8 11 1 0 5 2 5
+p400
+aVAnderson Varejao CLE 01/27/2009 CLE vs. SAC W 35 7 2 7 28.6 0 0 - 3 4 75.0 2 4 6 1 1 0 1 3 7
+p401
+aVJJ Hickson CLE 01/27/2009 CLE vs. SAC W 24 11 4 8 50.0 0 0 - 3 4 75.0 3 5 8 0 1 1 2 2 -5
+p402
+aVWally Szczerbiak CLE 01/27/2009 CLE vs. SAC W 7 1 0 3 0.0 0 2 0.0 1 1 100.0 0 1 1 0 0 0 1 0 -1
+p403
+aVBen Wallace CLE 01/27/2009 CLE vs. SAC W 22 1 0 1 0.0 0 0 - 1 4 25.0 2 3 5 0 1 1 0 1 16
+p404
+aVDaniel Gibson CLE 01/27/2009 CLE vs. SAC W 27 10 2 10 20.0 1 4 25.0 5 6 83.3 2 2 4 0 1 0 2 4 -2
+p405
+aVSasha Pavlovic CLE 01/27/2009 CLE vs. SAC W 23 12 5 8 62.5 2 4 50.0 0 0 - 1 0 1 3 0 0 1 3 4
+p406
+aVDarnell Jackson CLE 01/27/2009 CLE vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p407
+aVSasha Pavlovic CLE 01/24/2009 CLE @ UTA W 35 13 4 7 57.1 3 6 50.0 2 4 50.0 0 3 3 4 0 1 2 2 22
+p408
+aVJJ Hickson CLE 01/24/2009 CLE @ UTA W 22 8 4 5 80.0 0 0 - 0 3 0.0 2 2 4 0 0 0 0 2 -4
+p409
+aVBen Wallace CLE 01/24/2009 CLE @ UTA W 26 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 2 11
+p410
+aVAnderson Varejao CLE 01/24/2009 CLE @ UTA W 40 14 7 8 87.5 0 0 - 0 0 - 2 5 7 2 1 2 2 5 0
+p411
+aVTarence Kinsey CLE 01/24/2009 CLE @ UTA W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -1
+p412
+aVDaniel Gibson CLE 01/24/2009 CLE @ UTA W 20 1 0 5 0.0 0 2 0.0 1 2 50.0 1 4 5 3 0 0 1 3 -11
+p413
+aVWally Szczerbiak CLE 01/24/2009 CLE @ UTA W 15 4 1 2 50.0 1 1 100.0 1 1 100.0 0 1 1 0 1 0 1 4 -8
+p414
+aVLeBron James CLE 01/24/2009 CLE @ UTA W 41 33 14 27 51.9 1 6 16.7 4 6 66.7 4 10 14 9 1 0 2 1 16
+p415
+aVMo Williams CLE 01/24/2009 CLE @ UTA W 37 25 8 20 40.0 5 11 45.5 4 4 100.0 0 4 4 4 1 1 2 3 0
+p416
+aVDaniel Gibson CLE 01/23/2009 CLE @ GSW W 30 9 3 6 50.0 3 4 75.0 0 0 - 1 1 2 4 1 0 1 2 4
+p417
+aVSasha Pavlovic CLE 01/23/2009 CLE @ GSW W 27 8 3 7 42.9 2 4 50.0 0 0 - 1 8 9 1 1 1 0 4 3
+p418
+aVLeBron James CLE 01/23/2009 CLE @ GSW W 41 32 10 24 41.7 2 5 40.0 10 16 62.5 2 7 9 8 3 2 2 2 12
+p419
+aVAnderson Varejao CLE 01/23/2009 CLE @ GSW W 34 8 3 10 30.0 0 0 - 2 2 100.0 3 6 9 4 2 2 2 2 4
+p420
+aVJawad Williams CLE 01/23/2009 CLE @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p421
+aVBen Wallace CLE 01/23/2009 CLE @ GSW W 27 4 2 4 50.0 0 0 - 0 0 - 1 7 8 0 1 0 1 2 12
+p422
+aVJJ Hickson CLE 01/23/2009 CLE @ GSW W 14 10 3 6 50.0 0 0 - 4 5 80.0 1 4 5 0 0 1 2 2 -4
+p423
+aVMo Williams CLE 01/23/2009 CLE @ GSW W 36 14 6 17 35.3 1 5 20.0 1 2 50.0 0 1 1 6 0 0 2 5 -13
+p424
+aVDarnell Jackson CLE 01/23/2009 CLE @ GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p425
+aVTarence Kinsey CLE 01/23/2009 CLE @ GSW W 15 11 3 5 60.0 0 0 - 5 7 71.4 2 1 3 0 0 0 0 2 6
+p426
+aVWally Szczerbiak CLE 01/23/2009 CLE @ GSW W 14 10 3 5 60.0 2 2 100.0 2 2 100.0 1 0 1 0 0 0 0 3 -11
+p427
+aVJJ Hickson CLE 01/21/2009 CLE @ POR W 13 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 0 0 0 2 4 -14
+p428
+aVDaniel Gibson CLE 01/21/2009 CLE @ POR W 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -9
+p429
+aVAnderson Varejao CLE 01/21/2009 CLE @ POR W 39 12 5 8 62.5 0 0 - 2 4 50.0 1 7 8 1 0 1 2 3 13
+p430
+aVTarence Kinsey CLE 01/21/2009 CLE @ POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p431
+aVWally Szczerbiak CLE 01/21/2009 CLE @ POR W 23 8 2 6 33.3 2 3 66.7 2 2 100.0 4 6 10 2 0 0 1 2 4
+p432
+aVSasha Pavlovic CLE 01/21/2009 CLE @ POR W 31 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 4 1 0 2 5 1
+p433
+aVMo Williams CLE 01/21/2009 CLE @ POR W 41 33 12 19 63.2 6 9 66.7 3 3 100.0 0 3 3 3 1 0 4 5 7
+p434
+aVLeBron James CLE 01/21/2009 CLE @ POR W 42 34 14 30 46.7 3 6 50.0 3 4 75.0 0 7 7 14 1 0 2 1 14
+p435
+aVBen Wallace CLE 01/21/2009 CLE @ POR W 28 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 2 0 2 20
+p436
+aVDarnell Jackson CLE 01/21/2009 CLE @ POR W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p437
+aVSasha Pavlovic CLE 01/19/2009 CLE @ LAL L 34 12 5 12 41.7 2 6 33.3 0 0 - 0 0 0 3 1 1 0 4 -9
+p438
+aVBen Wallace CLE 01/19/2009 CLE @ LAL L 19 3 1 1 100.0 0 0 - 1 2 50.0 5 1 6 1 1 1 0 1 0
+p439
+aVAnderson Varejao CLE 01/19/2009 CLE @ LAL L 34 10 5 10 50.0 0 0 - 0 2 0.0 3 9 12 2 1 3 1 3 -4
+p440
+aVTarence Kinsey CLE 01/19/2009 CLE @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p441
+aVDaniel Gibson CLE 01/19/2009 CLE @ LAL L 23 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 1 1 0 1 1 -10
+p442
+aVDarnell Jackson CLE 01/19/2009 CLE @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p443
+aVMo Williams CLE 01/19/2009 CLE @ LAL L 34 16 6 16 37.5 2 5 40.0 2 2 100.0 2 4 6 5 0 0 5 2 -9
+p444
+aVJawad Williams CLE 01/19/2009 CLE @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p445
+aVLorenzen Wright CLE 01/19/2009 CLE @ LAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p446
+aVJJ Hickson CLE 01/19/2009 CLE @ LAL L 19 11 3 4 75.0 0 0 - 5 5 100.0 3 1 4 0 1 2 0 0 -18
+p447
+aVLeBron James CLE 01/19/2009 CLE @ LAL L 42 23 9 25 36.0 1 5 20.0 4 8 50.0 2 7 9 4 4 1 6 1 -11
+p448
+aVWally Szczerbiak CLE 01/19/2009 CLE @ LAL L 23 7 3 5 60.0 1 3 33.3 0 0 - 0 4 4 2 0 0 0 1 -10
+p449
+aVSasha Pavlovic CLE 01/16/2009 CLE vs. NOH W 43 19 7 10 70.0 4 4 100.0 1 1 100.0 1 5 6 1 2 0 0 1 15
+p450
+aVDaniel Gibson CLE 01/16/2009 CLE vs. NOH W 33 6 2 10 20.0 2 5 40.0 0 0 - 0 3 3 0 0 0 1 3 4
+p451
+aVLeBron James CLE 01/16/2009 CLE vs. NOH W 43 29 12 24 50.0 0 2 0.0 5 6 83.3 3 11 14 7 3 1 4 3 19
+p452
+aVDarnell Jackson CLE 01/16/2009 CLE vs. NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p453
+aVJawad Williams CLE 01/16/2009 CLE vs. NOH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p454
+aVJJ Hickson CLE 01/16/2009 CLE vs. NOH W 10 1 0 4 0.0 0 0 - 1 2 50.0 0 3 3 0 0 1 0 3 2
+p455
+aVMo Williams CLE 01/16/2009 CLE vs. NOH W 36 17 4 13 30.8 0 6 0.0 9 11 81.8 1 2 3 4 0 1 0 4 8
+p456
+aVWally Szczerbiak CLE 01/16/2009 CLE vs. NOH W 29 14 4 6 66.7 4 5 80.0 2 2 100.0 0 4 4 2 0 0 0 3 11
+p457
+aVLorenzen Wright CLE 01/16/2009 CLE vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p458
+aVAnderson Varejao CLE 01/16/2009 CLE vs. NOH W 23 4 2 7 28.6 0 0 - 0 0 - 0 1 1 1 0 2 2 6 0
+p459
+aVTarence Kinsey CLE 01/16/2009 CLE vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p460
+aVBen Wallace CLE 01/16/2009 CLE vs. NOH W 16 2 1 1 100.0 0 0 - 0 0 - 3 5 8 0 1 0 1 0 5
+p461
+aVDelonte West CLE 01/15/2009 CLE @ CHI L 11 11 5 7 71.4 1 1 100.0 0 0 - 0 3 3 2 0 0 0 0 10
+p462
+aVLorenzen Wright CLE 01/15/2009 CLE @ CHI L 22 7 2 3 66.7 0 0 - 3 6 50.0 2 4 6 1 0 0 1 3 14
+p463
+aVDarnell Jackson CLE 01/15/2009 CLE @ CHI L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p464
+aVLeBron James CLE 01/15/2009 CLE @ CHI L 44 28 8 28 28.6 1 6 16.7 11 16 68.8 3 11 14 7 1 1 8 4 2
+p465
+aVDaniel Gibson CLE 01/15/2009 CLE @ CHI L 39 9 4 11 36.4 1 6 16.7 0 0 - 0 3 3 0 1 0 2 2 -16
+p466
+aVJJ Hickson CLE 01/15/2009 CLE @ CHI L 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 3 -16
+p467
+aVMo Williams CLE 01/15/2009 CLE @ CHI L 40 26 9 16 56.3 5 10 50.0 3 3 100.0 1 2 3 3 2 0 3 3 -18
+p468
+aVAnderson Varejao CLE 01/15/2009 CLE @ CHI L 39 4 2 7 28.6 0 0 - 0 0 - 0 5 5 0 1 2 0 2 -15
+p469
+aVSasha Pavlovic CLE 01/15/2009 CLE @ CHI L 18 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 6 3
+p470
+aVWally Szczerbiak CLE 01/15/2009 CLE @ CHI L 30 3 1 3 33.3 1 1 100.0 0 0 - 1 4 5 1 0 0 0 0 -7
+p471
+aVTarence Kinsey CLE 01/15/2009 CLE @ CHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p472
+aVMo Williams CLE 01/13/2009 CLE @ MEM W 36 16 6 11 54.5 3 5 60.0 1 2 50.0 0 1 1 3 0 0 2 4 17
+p473
+aVLorenzen Wright CLE 01/13/2009 CLE @ MEM W 15 2 1 5 20.0 0 0 - 0 2 0.0 1 2 3 0 2 0 2 3 3
+p474
+aVLeBron James CLE 01/13/2009 CLE @ MEM W 40 30 9 15 60.0 1 5 20.0 11 14 78.6 0 11 11 10 3 1 2 2 21
+p475
+aVJawad Williams CLE 01/13/2009 CLE @ MEM W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p476
+aVTarence Kinsey CLE 01/13/2009 CLE @ MEM W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p477
+aVDarnell Jackson CLE 01/13/2009 CLE @ MEM W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -8
+p478
+aVJJ Hickson CLE 01/13/2009 CLE @ MEM W 28 9 4 7 57.1 0 0 - 1 2 50.0 2 5 7 0 1 1 2 4 15
+p479
+aVWally Szczerbiak CLE 01/13/2009 CLE @ MEM W 21 5 2 7 28.6 1 2 50.0 0 0 - 1 4 5 0 0 0 1 3 12
+p480
+aVDaniel Gibson CLE 01/13/2009 CLE @ MEM W 26 11 3 4 75.0 3 4 75.0 2 2 100.0 0 0 0 2 0 0 0 0 11
+p481
+aVSasha Pavlovic CLE 01/13/2009 CLE @ MEM W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p482
+aVAnderson Varejao CLE 01/13/2009 CLE @ MEM W 30 7 3 7 42.9 0 0 - 1 4 25.0 0 4 4 0 1 0 2 4 7
+p483
+aVDelonte West CLE 01/13/2009 CLE @ MEM W 32 19 7 9 77.8 3 3 100.0 2 2 100.0 0 6 6 4 1 0 2 2 11
+p484
+aVJJ Hickson CLE 01/09/2009 CLE vs. BOS W 20 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 1 0 0 3 -4
+p485
+aVAnderson Varejao CLE 01/09/2009 CLE vs. BOS W 35 14 5 10 50.0 0 0 - 4 7 57.1 2 7 9 0 0 0 1 2 9
+p486
+aVBen Wallace CLE 01/09/2009 CLE vs. BOS W 30 9 2 2 100.0 0 0 - 5 10 50.0 1 2 3 1 3 2 0 3 14
+p487
+aVDaniel Gibson CLE 01/09/2009 CLE vs. BOS W 26 10 3 4 75.0 2 3 66.7 2 2 100.0 0 2 2 3 1 1 2 2 5
+p488
+aVMo Williams CLE 01/09/2009 CLE vs. BOS W 32 13 5 9 55.6 0 2 0.0 3 3 100.0 0 2 2 1 2 1 4 1 13
+p489
+aVWally Szczerbiak CLE 01/09/2009 CLE vs. BOS W 15 3 1 4 25.0 1 2 50.0 0 0 - 0 3 3 1 1 0 0 2 -3
+p490
+aVLeBron James CLE 01/09/2009 CLE vs. BOS W 36 38 13 25 52.0 3 7 42.9 9 9 100.0 1 6 7 6 4 3 3 2 20
+p491
+aVTarence Kinsey CLE 01/09/2009 CLE vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p492
+aVDelonte West CLE 01/09/2009 CLE vs. BOS W 42 8 3 8 37.5 2 2 100.0 0 0 - 0 1 1 2 2 0 1 1 22
+p493
+aVSasha Pavlovic CLE 01/09/2009 CLE vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p494
+aVDarnell Jackson CLE 01/07/2009 CLE vs. CHA W 6 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 3 3
+p495
+aVLeBron James CLE 01/07/2009 CLE vs. CHA W 31 21 9 16 56.3 0 1 0.0 3 3 100.0 0 4 4 4 2 2 4 1 23
+p496
+aVMo Williams CLE 01/07/2009 CLE vs. CHA W 27 15 5 11 45.5 1 4 25.0 4 4 100.0 0 2 2 6 1 0 3 2 10
+p497
+aVLorenzen Wright CLE 01/07/2009 CLE vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p498
+aVTarence Kinsey CLE 01/07/2009 CLE vs. CHA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p499
+aVAnderson Varejao CLE 01/07/2009 CLE vs. CHA W 33 14 6 9 66.7 0 0 - 2 3 66.7 3 3 6 1 2 1 2 3 16
+p500
+aVSasha Pavlovic CLE 01/07/2009 CLE vs. CHA W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p501
+aVDelonte West CLE 01/07/2009 CLE vs. CHA W 34 7 3 5 60.0 0 1 0.0 1 1 100.0 1 4 5 7 3 1 1 1 30
+p502
+aVJJ Hickson CLE 01/07/2009 CLE vs. CHA W 23 13 6 9 66.7 0 0 - 1 3 33.3 2 4 6 0 0 1 2 2 17
+p503
+aVBen Wallace CLE 01/07/2009 CLE vs. CHA W 21 4 2 3 66.7 0 0 - 0 0 - 2 7 9 1 0 1 1 1 10
+p504
+aVWally Szczerbiak CLE 01/07/2009 CLE vs. CHA W 29 15 5 9 55.6 3 3 100.0 2 4 50.0 0 5 5 2 0 0 2 2 18
+p505
+aVDaniel Gibson CLE 01/07/2009 CLE vs. CHA W 24 15 6 8 75.0 3 4 75.0 0 0 - 1 1 2 3 2 0 1 2 14
+p506
+aVAnderson Varejao CLE 01/04/2009 CLE @ WAS L 40 10 4 9 44.4 0 0 - 2 2 100.0 2 8 10 0 1 1 3 4 4
+p507
+aVDelonte West CLE 01/04/2009 CLE @ WAS L 36 6 2 8 25.0 1 5 20.0 1 2 50.0 0 2 2 0 0 0 0 1 -5
+p508
+aVWally Szczerbiak CLE 01/04/2009 CLE @ WAS L 12 4 2 6 33.3 0 3 0.0 0 0 - 2 0 2 0 0 0 0 2 -5
+p509
+aVJJ Hickson CLE 01/04/2009 CLE @ WAS L 18 4 2 6 33.3 0 0 - 0 0 - 1 3 4 0 0 1 1 1 -3
+p510
+aVMo Williams CLE 01/04/2009 CLE @ WAS L 36 13 4 13 30.8 2 6 33.3 3 4 75.0 1 3 4 1 1 0 3 2 8
+p511
+aVSasha Pavlovic CLE 01/04/2009 CLE @ WAS L 7 0 0 1 0.0 0 1 0.0 0 2 0.0 1 0 1 1 0 0 0 1 -3
+p512
+aVLeBron James CLE 01/04/2009 CLE @ WAS L 41 30 11 22 50.0 3 9 33.3 5 8 62.5 0 6 6 10 1 2 7 4 0
+p513
+aVBen Wallace CLE 01/04/2009 CLE @ WAS L 25 2 1 1 100.0 0 0 - 0 2 0.0 2 3 5 0 1 3 0 2 -11
+p514
+aVDaniel Gibson CLE 01/04/2009 CLE @ WAS L 26 8 2 5 40.0 1 2 50.0 3 3 100.0 0 1 1 1 2 0 2 2 0
+p515
+aVTarence Kinsey CLE 01/02/2009 CLE vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 3
+p516
+aVAnderson Varejao CLE 01/02/2009 CLE vs. CHI W 31 26 9 14 64.3 0 0 - 8 13 61.5 4 4 8 0 3 0 3 4 20
+p517
+aVJJ Hickson CLE 01/02/2009 CLE vs. CHI W 18 13 5 8 62.5 0 0 - 3 5 60.0 1 5 6 0 0 2 2 5 5
+p518
+aVLeBron James CLE 01/02/2009 CLE vs. CHI W 37 16 3 8 37.5 2 3 66.7 8 8 100.0 1 9 10 11 2 3 5 1 27
+p519
+aVSasha Pavlovic CLE 01/02/2009 CLE vs. CHI W 22 13 5 8 62.5 2 3 66.7 1 2 50.0 1 4 5 1 0 0 2 3 4
+p520
+aVMo Williams CLE 01/02/2009 CLE vs. CHI W 34 11 2 9 22.2 0 3 0.0 7 7 100.0 0 3 3 2 1 0 0 0 18
+p521
+aVWally Szczerbiak CLE 01/02/2009 CLE vs. CHI W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 1
+p522
+aVBen Wallace CLE 01/02/2009 CLE vs. CHI W 28 13 6 11 54.5 0 0 - 1 2 50.0 5 4 9 1 3 2 0 2 23
+p523
+aVDarnell Jackson CLE 01/02/2009 CLE vs. CHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p524
+aVLorenzen Wright CLE 01/02/2009 CLE vs. CHI W 6 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 1
+p525
+aVDelonte West CLE 01/02/2009 CLE vs. CHI W 31 14 6 11 54.5 2 4 50.0 0 0 - 0 3 3 3 2 0 0 3 20
+p526
+aVDaniel Gibson CLE 01/02/2009 CLE vs. CHI W 20 5 1 3 33.3 1 1 100.0 2 3 66.7 0 3 3 5 0 1 1 5 3
+p527
+aVAnderson Varejao CLE 12/30/2008 CLE @ MIA L 24 2 1 1 100.0 0 0 - 0 2 0.0 3 7 10 0 1 0 1 5 -1
+p528
+aVDaniel Gibson CLE 12/30/2008 CLE @ MIA L 25 9 3 9 33.3 2 6 33.3 1 2 50.0 1 0 1 1 2 0 0 1 1
+p529
+aVBen Wallace CLE 12/30/2008 CLE @ MIA L 34 4 1 4 25.0 0 0 - 2 2 100.0 1 7 8 0 1 2 2 1 -19
+p530
+aVSasha Pavlovic CLE 12/30/2008 CLE @ MIA L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p531
+aVJJ Hickson CLE 12/30/2008 CLE @ MIA L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 8
+p532
+aVMo Williams CLE 12/30/2008 CLE @ MIA L 33 10 2 8 25.0 2 6 33.3 4 4 100.0 1 1 2 5 0 0 2 2 -6
+p533
+aVZydrunas Ilgauskas CLE 12/30/2008 CLE @ MIA L 25 8 4 6 66.7 0 1 0.0 0 0 - 1 4 5 0 0 3 0 3 -8
+p534
+aVTarence Kinsey CLE 12/30/2008 CLE @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p535
+aVLeBron James CLE 12/30/2008 CLE @ MIA L 43 38 12 24 50.0 3 8 37.5 11 14 78.6 0 2 2 7 0 2 5 2 -6
+p536
+aVDelonte West CLE 12/30/2008 CLE @ MIA L 40 20 8 16 50.0 4 9 44.4 0 1 0.0 1 2 3 3 2 0 2 3 -12
+p537
+aVDaniel Gibson CLE 12/28/2008 CLE vs. MIA W 24 5 2 10 20.0 1 5 20.0 0 0 - 0 1 1 1 1 0 2 3 -2
+p538
+aVSasha Pavlovic CLE 12/28/2008 CLE vs. MIA W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -12
+p539
+aVAnderson Varejao CLE 12/28/2008 CLE vs. MIA W 32 12 4 8 50.0 0 0 - 4 8 50.0 3 7 10 0 0 2 2 3 5
+p540
+aVLeBron James CLE 12/28/2008 CLE vs. MIA W 43 33 12 19 63.2 2 4 50.0 7 12 58.3 0 6 6 9 0 1 2 1 8
+p541
+aVZydrunas Ilgauskas CLE 12/28/2008 CLE vs. MIA W 27 10 3 9 33.3 1 1 100.0 3 4 75.0 2 4 6 0 0 1 3 5 2
+p542
+aVMo Williams CLE 12/28/2008 CLE vs. MIA W 34 20 7 14 50.0 2 5 40.0 4 4 100.0 0 4 4 2 1 0 4 6 13
+p543
+aVDelonte West CLE 12/28/2008 CLE vs. MIA W 37 11 2 9 22.2 1 4 25.0 6 7 85.7 1 3 4 4 4 1 1 3 5
+p544
+aVBen Wallace CLE 12/28/2008 CLE vs. MIA W 28 2 1 5 20.0 0 0 - 0 0 - 6 8 14 1 0 3 1 1 16
+p545
+aVWally Szczerbiak CLE 12/25/2008 CLE vs. WAS W 16 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 1 1 4 1 -5
+p546
+aVLeBron James CLE 12/25/2008 CLE vs. WAS W 38 18 6 13 46.2 0 2 0.0 6 10 60.0 0 5 5 6 3 1 3 1 -4
+p547
+aVZydrunas Ilgauskas CLE 12/25/2008 CLE vs. WAS W 30 5 1 5 20.0 0 0 - 3 4 75.0 2 7 9 1 1 2 3 2 16
+p548
+aVBen Wallace CLE 12/25/2008 CLE vs. WAS W 27 6 3 5 60.0 0 0 - 0 0 - 5 2 7 0 1 0 2 2 -6
+p549
+aVAnderson Varejao CLE 12/25/2008 CLE vs. WAS W 31 13 5 7 71.4 0 0 - 3 4 75.0 3 10 13 1 0 0 0 1 0
+p550
+aVMo Williams CLE 12/25/2008 CLE vs. WAS W 36 24 7 14 50.0 4 7 57.1 6 6 100.0 0 3 3 6 0 0 2 5 12
+p551
+aVDelonte West CLE 12/25/2008 CLE vs. WAS W 40 18 6 18 33.3 5 11 45.5 1 2 50.0 0 1 1 7 3 1 0 0 -2
+p552
+aVDaniel Gibson CLE 12/25/2008 CLE vs. WAS W 21 6 2 6 33.3 2 6 33.3 0 0 - 0 1 1 1 0 0 2 0 3
+p553
+aVSasha Pavlovic CLE 12/25/2008 CLE vs. WAS W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p554
+aVLeBron James CLE 12/23/2008 CLE vs. HOU W 38 27 11 23 47.8 0 3 0.0 5 7 71.4 1 8 9 5 3 1 7 2 14
+p555
+aVMo Williams CLE 12/23/2008 CLE vs. HOU W 38 23 8 13 61.5 2 5 40.0 5 5 100.0 0 4 4 4 1 0 2 2 2
+p556
+aVDelonte West CLE 12/23/2008 CLE vs. HOU W 21 10 3 8 37.5 1 3 33.3 3 3 100.0 0 2 2 4 0 0 2 1 -3
+p557
+aVZydrunas Ilgauskas CLE 12/23/2008 CLE vs. HOU W 27 11 5 9 55.6 1 1 100.0 0 0 - 0 3 3 1 0 2 0 6 11
+p558
+aVAnderson Varejao CLE 12/23/2008 CLE vs. HOU W 26 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 1 1 0 4 -2
+p559
+aVWally Szczerbiak CLE 12/23/2008 CLE vs. HOU W 16 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 0
+p560
+aVBen Wallace CLE 12/23/2008 CLE vs. HOU W 29 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 2 0 1 1 13
+p561
+aVDaniel Gibson CLE 12/23/2008 CLE vs. HOU W 28 11 3 7 42.9 3 6 50.0 2 2 100.0 1 5 6 1 1 0 0 1 5
+p562
+aVSasha Pavlovic CLE 12/23/2008 CLE vs. HOU W 13 3 1 3 33.3 1 3 33.3 0 0 - 3 0 3 1 0 1 2 0 10
+p563
+aVLorenzen Wright CLE 12/23/2008 CLE vs. HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p564
+aVDarnell Jackson CLE 12/21/2008 CLE @ OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p565
+aVWally Szczerbiak CLE 12/21/2008 CLE @ OKC W 22 7 2 4 50.0 1 3 33.3 2 2 100.0 0 4 4 1 0 0 1 0 5
+p566
+aVDelonte West CLE 12/21/2008 CLE @ OKC W 34 18 8 12 66.7 2 3 66.7 0 0 - 1 1 2 4 2 1 0 3 7
+p567
+aVLeBron James CLE 12/21/2008 CLE @ OKC W 43 31 14 24 58.3 2 4 50.0 1 2 50.0 2 2 4 7 3 1 3 1 16
+p568
+aVZydrunas Ilgauskas CLE 12/21/2008 CLE @ OKC W 28 4 2 6 33.3 0 0 - 0 0 - 0 2 2 3 0 0 2 1 9
+p569
+aVAnderson Varejao CLE 12/21/2008 CLE @ OKC W 19 3 0 3 0.0 0 0 - 3 4 75.0 1 5 6 0 1 1 1 4 8
+p570
+aVBen Wallace CLE 12/21/2008 CLE @ OKC W 29 6 3 5 60.0 0 0 - 0 2 0.0 1 5 6 0 1 0 1 1 0
+p571
+aVTarence Kinsey CLE 12/21/2008 CLE @ OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p572
+aVMo Williams CLE 12/21/2008 CLE @ OKC W 33 20 8 14 57.1 2 3 66.7 2 2 100.0 1 4 5 4 3 0 2 4 10
+p573
+aVSasha Pavlovic CLE 12/21/2008 CLE @ OKC W 14 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 2 1 0 1 1 5
+p574
+aVDaniel Gibson CLE 12/21/2008 CLE @ OKC W 16 6 2 4 50.0 1 3 33.3 1 3 33.3 0 1 1 0 0 0 0 0 4
+p575
+aVJJ Hickson CLE 12/21/2008 CLE @ OKC W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p576
+aVJJ Hickson CLE 12/19/2008 CLE @ DEN W 3 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -1
+p577
+aVBen Wallace CLE 12/19/2008 CLE @ DEN W 23 2 1 2 50.0 0 0 - 0 2 0.0 1 4 5 3 0 2 0 1 6
+p578
+aVAnderson Varejao CLE 12/19/2008 CLE @ DEN W 27 2 1 4 25.0 0 0 - 0 0 - 2 2 4 1 2 2 0 4 6
+p579
+aVDelonte West CLE 12/19/2008 CLE @ DEN W 34 22 8 13 61.5 2 5 40.0 4 4 100.0 1 2 3 4 2 0 1 4 26
+p580
+aVSasha Pavlovic CLE 12/19/2008 CLE @ DEN W 26 7 3 11 27.3 1 5 20.0 0 0 - 1 2 3 1 2 0 0 1 0
+p581
+aVTarence Kinsey CLE 12/19/2008 CLE @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p582
+aVDarnell Jackson CLE 12/19/2008 CLE @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p583
+aVLeBron James CLE 12/19/2008 CLE @ DEN W 39 33 13 20 65.0 0 2 0.0 7 8 87.5 3 7 10 8 0 0 6 3 14
+p584
+aVWally Szczerbiak CLE 12/19/2008 CLE @ DEN W 20 7 2 6 33.3 0 1 0.0 3 3 100.0 1 1 2 1 0 0 1 3 -5
+p585
+aVJawad Williams CLE 12/19/2008 CLE @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p586
+aVMo Williams CLE 12/19/2008 CLE @ DEN W 35 8 3 9 33.3 1 4 25.0 1 1 100.0 1 6 7 3 0 0 3 3 18
+p587
+aVZydrunas Ilgauskas CLE 12/19/2008 CLE @ DEN W 28 23 9 14 64.3 2 3 66.7 3 4 75.0 0 6 6 2 1 0 2 4 21
+p588
+aVJJ Hickson CLE 12/17/2008 CLE @ MIN W 12 7 3 3 100.0 0 0 - 1 2 50.0 1 4 5 0 0 1 0 1 16
+p589
+aVAnderson Varejao CLE 12/17/2008 CLE @ MIN W 34 13 5 10 50.0 0 0 - 3 5 60.0 2 9 11 1 2 0 2 2 10
+p590
+aVMo Williams CLE 12/17/2008 CLE @ MIN W 22 6 3 8 37.5 0 2 0.0 0 0 - 1 4 5 3 1 0 2 5 3
+p591
+aVTarence Kinsey CLE 12/17/2008 CLE @ MIN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p592
+aVWally Szczerbiak CLE 12/17/2008 CLE @ MIN W 21 10 4 8 50.0 2 3 66.7 0 0 - 0 5 5 1 0 1 3 1 6
+p593
+aVSasha Pavlovic CLE 12/17/2008 CLE @ MIN W 31 4 2 6 33.3 0 3 0.0 0 0 - 1 3 4 2 0 0 1 2 17
+p594
+aVDarnell Jackson CLE 12/17/2008 CLE @ MIN W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -3
+p595
+aVLeBron James CLE 12/17/2008 CLE @ MIN W 40 32 14 20 70.0 2 6 33.3 2 4 50.0 0 6 6 3 2 2 0 1 22
+p596
+aVJawad Williams CLE 12/17/2008 CLE @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p597
+aVDelonte West CLE 12/17/2008 CLE @ MIN W 41 21 9 16 56.3 0 2 0.0 3 3 100.0 0 2 2 5 2 0 1 1 21
+p598
+aVLorenzen Wright CLE 12/17/2008 CLE @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p599
+aVBen Wallace CLE 12/17/2008 CLE @ MIN W 27 0 0 1 0.0 0 0 - 0 0 - 2 3 5 1 0 2 0 3 9
+p600
+aVAnderson Varejao CLE 12/13/2008 CLE @ ATL L 37 11 5 10 50.0 0 0 - 1 4 25.0 4 4 8 0 0 0 1 6 -7
+p601
+aVDelonte West CLE 12/13/2008 CLE @ ATL L 40 11 5 19 26.3 1 4 25.0 0 0 - 0 2 2 5 3 0 2 1 -19
+p602
+aVBen Wallace CLE 12/13/2008 CLE @ ATL L 25 0 0 2 0.0 0 0 - 0 0 - 4 2 6 2 0 1 0 3 -14
+p603
+aVSasha Pavlovic CLE 12/13/2008 CLE @ ATL L 24 7 3 5 60.0 1 1 100.0 0 0 - 2 3 5 1 0 1 0 4 2
+p604
+aVJJ Hickson CLE 12/13/2008 CLE @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p605
+aVMo Williams CLE 12/13/2008 CLE @ ATL L 40 26 11 21 52.4 1 7 14.3 3 3 100.0 0 4 4 3 0 0 1 3 -3
+p606
+aVDarnell Jackson CLE 12/13/2008 CLE @ ATL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p607
+aVWally Szczerbiak CLE 12/13/2008 CLE @ ATL L 20 4 0 5 0.0 0 3 0.0 4 4 100.0 1 2 3 1 0 0 0 2 11
+p608
+aVLeBron James CLE 12/13/2008 CLE @ ATL L 46 33 10 19 52.6 2 7 28.6 11 12 91.7 2 4 6 9 4 1 1 2 1
+p609
+aVDarnell Jackson CLE 12/12/2008 CLE vs. PHI W 24 1 0 2 0.0 0 0 - 1 2 50.0 5 3 8 0 1 0 3 5 7
+p610
+aVMo Williams CLE 12/12/2008 CLE vs. PHI W 31 14 5 10 50.0 1 1 100.0 3 4 75.0 0 5 5 2 0 0 4 2 6
+p611
+aVJawad Williams CLE 12/12/2008 CLE vs. PHI W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p612
+aVTarence Kinsey CLE 12/12/2008 CLE vs. PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 7
+p613
+aVWally Szczerbiak CLE 12/12/2008 CLE vs. PHI W 20 4 2 10 20.0 0 3 0.0 0 1 0.0 0 0 0 2 0 0 0 1 6
+p614
+aVDelonte West CLE 12/12/2008 CLE vs. PHI W 37 16 6 16 37.5 2 7 28.6 2 2 100.0 0 3 3 2 2 0 3 1 15
+p615
+aVLeBron James CLE 12/12/2008 CLE vs. PHI W 37 28 9 21 42.9 1 4 25.0 9 12 75.0 3 4 7 7 1 3 0 2 13
+p616
+aVAnderson Varejao CLE 12/12/2008 CLE vs. PHI W 35 17 7 10 70.0 0 0 - 3 3 100.0 4 3 7 1 2 2 0 1 8
+p617
+aVSasha Pavlovic CLE 12/12/2008 CLE vs. PHI W 25 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 2 1 0 0 1 5
+p618
+aVJJ Hickson CLE 12/12/2008 CLE vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p619
+aVBen Wallace CLE 12/12/2008 CLE vs. PHI W 26 0 0 3 0.0 0 0 - 0 0 - 2 3 5 2 1 0 0 2 13
+p620
+aVDelonte West CLE 12/10/2008 CLE @ PHI W 37 9 4 9 44.4 1 5 20.0 0 0 - 0 2 2 3 1 0 0 0 -1
+p621
+aVBen Wallace CLE 12/10/2008 CLE @ PHI W 26 6 3 6 50.0 0 0 - 0 0 - 3 7 10 0 1 2 1 3 6
+p622
+aVAnderson Varejao CLE 12/10/2008 CLE @ PHI W 34 15 6 12 50.0 0 1 0.0 3 4 75.0 2 6 8 3 1 1 0 4 -6
+p623
+aVLeBron James CLE 12/10/2008 CLE @ PHI W 39 29 10 22 45.5 2 6 33.3 7 8 87.5 2 2 4 5 0 2 1 4 -1
+p624
+aVWally Szczerbiak CLE 12/10/2008 CLE @ PHI W 24 2 0 3 0.0 0 1 0.0 2 2 100.0 1 6 7 0 0 0 1 1 -2
+p625
+aVSasha Pavlovic CLE 12/10/2008 CLE @ PHI W 20 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 2 0 0 1 3 9
+p626
+aVMo Williams CLE 12/10/2008 CLE @ PHI W 37 27 11 16 68.8 2 3 66.7 3 3 100.0 2 4 6 4 0 0 3 5 12
+p627
+aVZydrunas Ilgauskas CLE 12/10/2008 CLE @ PHI W 23 9 4 12 33.3 0 0 - 1 1 100.0 4 2 6 3 1 0 5 2 23
+p628
+aVDelonte West CLE 12/09/2008 CLE vs. TOR W 33 6 2 9 22.2 0 5 0.0 2 2 100.0 1 1 2 8 4 0 0 2 27
+p629
+aVDaniel Gibson CLE 12/09/2008 CLE vs. TOR W 6 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 1 10
+p630
+aVLeBron James CLE 12/09/2008 CLE vs. TOR W 30 31 11 18 61.1 2 5 40.0 7 8 87.5 0 5 5 4 3 0 2 1 19
+p631
+aVJJ Hickson CLE 12/09/2008 CLE vs. TOR W 4 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 2
+p632
+aVDarnell Jackson CLE 12/09/2008 CLE vs. TOR W 17 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 1 3 -4
+p633
+aVZydrunas Ilgauskas CLE 12/09/2008 CLE vs. TOR W 23 13 5 9 55.6 0 0 - 3 3 100.0 1 5 6 1 0 1 1 3 18
+p634
+aVMo Williams CLE 12/09/2008 CLE vs. TOR W 30 13 6 10 60.0 1 3 33.3 0 0 - 1 3 4 9 1 0 1 1 20
+p635
+aVSasha Pavlovic CLE 12/09/2008 CLE vs. TOR W 22 9 4 9 44.4 1 2 50.0 0 0 - 1 4 5 2 0 0 1 3 -9
+p636
+aVWally Szczerbiak CLE 12/09/2008 CLE vs. TOR W 26 16 5 10 50.0 2 5 40.0 4 4 100.0 1 4 5 1 1 0 2 3 1
+p637
+aVBen Wallace CLE 12/09/2008 CLE vs. TOR W 22 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 2 1 1 19
+p638
+aVAnderson Varejao CLE 12/09/2008 CLE vs. TOR W 23 9 4 9 44.4 0 0 - 1 2 50.0 3 2 5 2 2 0 1 5 -1
+p639
+aVTarence Kinsey CLE 12/09/2008 CLE vs. TOR W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -2
+p640
+aVBen Wallace CLE 12/06/2008 CLE @ CHA W 20 2 1 4 25.0 0 0 - 0 0 - 3 5 8 0 1 4 2 1 21
+p641
+aVDarnell Jackson CLE 12/06/2008 CLE @ CHA W 12 6 3 3 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 4 -6
+p642
+aVLeBron James CLE 12/06/2008 CLE @ CHA W 28 25 8 17 47.1 2 4 50.0 7 8 87.5 2 3 5 4 2 2 3 3 27
+p643
+aVJJ Hickson CLE 12/06/2008 CLE @ CHA W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 0 1 0 -6
+p644
+aVWally Szczerbiak CLE 12/06/2008 CLE @ CHA W 18 4 1 1 100.0 1 1 100.0 1 2 50.0 0 1 1 1 1 0 2 4 0
+p645
+aVAnderson Varejao CLE 12/06/2008 CLE @ CHA W 23 8 2 7 28.6 0 0 - 4 4 100.0 1 4 5 1 0 0 0 3 8
+p646
+aVDaniel Gibson CLE 12/06/2008 CLE @ CHA W 31 22 6 9 66.7 3 4 75.0 7 8 87.5 1 1 2 5 1 0 2 4 14
+p647
+aVTarence Kinsey CLE 12/06/2008 CLE @ CHA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 1 -8
+p648
+aVDelonte West CLE 12/06/2008 CLE @ CHA W 29 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 1 1 0 2 2 31
+p649
+aVZydrunas Ilgauskas CLE 12/06/2008 CLE @ CHA W 21 7 3 7 42.9 0 0 - 1 2 50.0 3 8 11 0 0 4 0 3 17
+p650
+aVSasha Pavlovic CLE 12/06/2008 CLE @ CHA W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 2 0 0 1 0 -6
+p651
+aVMo Williams CLE 12/06/2008 CLE @ CHA W 26 5 2 5 40.0 0 0 - 1 1 100.0 0 3 3 1 1 0 1 0 8
+p652
+aVDelonte West CLE 12/05/2008 CLE vs. IND W 32 14 4 12 33.3 4 6 66.7 2 2 100.0 1 1 2 7 3 0 1 2 31
+p653
+aVMo Williams CLE 12/05/2008 CLE vs. IND W 27 17 7 9 77.8 0 1 0.0 3 3 100.0 0 0 0 4 0 0 3 4 13
+p654
+aVSasha Pavlovic CLE 12/05/2008 CLE vs. IND W 12 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 1 1 1 1 0 -9
+p655
+aVDarnell Jackson CLE 12/05/2008 CLE vs. IND W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p656
+aVBen Wallace CLE 12/05/2008 CLE vs. IND W 27 3 1 1 100.0 0 0 - 1 2 50.0 2 5 7 0 1 2 1 0 27
+p657
+aVWally Szczerbiak CLE 12/05/2008 CLE vs. IND W 14 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 -1
+p658
+aVLeBron James CLE 12/05/2008 CLE vs. IND W 38 11 4 12 33.3 0 4 0.0 3 4 75.0 2 6 8 11 1 3 2 2 32
+p659
+aVAnderson Varejao CLE 12/05/2008 CLE vs. IND W 23 17 7 9 77.8 0 0 - 3 4 75.0 1 6 7 2 1 1 1 2 11
+p660
+aVJJ Hickson CLE 12/05/2008 CLE vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -1
+p661
+aVDaniel Gibson CLE 12/05/2008 CLE vs. IND W 28 14 5 9 55.6 2 5 40.0 2 4 50.0 0 2 2 1 0 0 0 5 8
+p662
+aVZydrunas Ilgauskas CLE 12/05/2008 CLE vs. IND W 28 17 8 15 53.3 1 2 50.0 0 0 - 1 7 8 1 0 2 1 2 13
+p663
+aVTarence Kinsey CLE 12/05/2008 CLE vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p664
+aVMo Williams CLE 12/03/2008 CLE vs. NYK W 26 16 6 10 60.0 2 4 50.0 2 2 100.0 0 4 4 1 0 0 4 3 11
+p665
+aVSasha Pavlovic CLE 12/03/2008 CLE vs. NYK W 12 8 3 5 60.0 1 2 50.0 1 1 100.0 0 0 0 3 1 0 0 2 10
+p666
+aVAnderson Varejao CLE 12/03/2008 CLE vs. NYK W 20 9 4 5 80.0 0 0 - 1 4 25.0 2 8 10 2 0 1 0 0 24
+p667
+aVDarnell Jackson CLE 12/03/2008 CLE vs. NYK W 10 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 3
+p668
+aVWally Szczerbiak CLE 12/03/2008 CLE vs. NYK W 18 6 2 7 28.6 1 4 25.0 1 1 100.0 0 2 2 2 3 0 2 1 27
+p669
+aVBen Wallace CLE 12/03/2008 CLE vs. NYK W 23 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 4 0 2 22
+p670
+aVDelonte West CLE 12/03/2008 CLE vs. NYK W 28 12 4 11 36.4 0 4 0.0 4 4 100.0 0 3 3 1 3 0 3 2 11
+p671
+aVTarence Kinsey CLE 12/03/2008 CLE vs. NYK W 8 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 1 0 0 1 0
+p672
+aVDaniel Gibson CLE 12/03/2008 CLE vs. NYK W 27 13 4 6 66.7 1 3 33.3 4 5 80.0 0 1 1 5 3 1 1 2 26
+p673
+aVZydrunas Ilgauskas CLE 12/03/2008 CLE vs. NYK W 23 14 7 15 46.7 0 0 - 0 0 - 6 4 10 1 0 0 3 0 10
+p674
+aVJJ Hickson CLE 12/03/2008 CLE vs. NYK W 17 9 4 6 66.7 0 0 - 1 1 100.0 1 4 5 0 1 0 2 1 6
+p675
+aVLeBron James CLE 12/03/2008 CLE vs. NYK W 28 21 5 10 50.0 1 4 25.0 10 10 100.0 0 5 5 6 5 1 0 0 30
+p676
+aVZydrunas Ilgauskas CLE 11/29/2008 CLE @ MIL W 32 23 11 17 64.7 0 0 - 1 2 50.0 7 10 17 2 1 2 3 1 13
+p677
+aVLeBron James CLE 11/29/2008 CLE @ MIL W 41 32 12 27 44.4 1 5 20.0 7 10 70.0 1 6 7 5 2 1 3 3 7
+p678
+aVDelonte West CLE 11/29/2008 CLE @ MIL W 29 8 3 6 50.0 2 4 50.0 0 0 - 1 4 5 5 1 0 2 2 -2
+p679
+aVAnderson Varejao CLE 11/29/2008 CLE @ MIL W 23 9 3 4 75.0 0 0 - 3 3 100.0 2 6 8 0 1 0 0 3 4
+p680
+aVMo Williams CLE 11/29/2008 CLE @ MIL W 35 13 6 20 30.0 0 5 0.0 1 2 50.0 2 1 3 3 0 0 1 3 15
+p681
+aVSasha Pavlovic CLE 11/29/2008 CLE @ MIL W 13 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 1 2 9
+p682
+aVBen Wallace CLE 11/29/2008 CLE @ MIL W 23 0 0 2 0.0 0 0 - 0 0 - 5 5 10 3 0 0 0 2 1
+p683
+aVDaniel Gibson CLE 11/29/2008 CLE @ MIL W 26 2 1 9 11.1 0 4 0.0 0 0 - 0 1 1 1 2 0 0 4 11
+p684
+aVWally Szczerbiak CLE 11/29/2008 CLE @ MIL W 19 4 1 7 14.3 0 2 0.0 2 2 100.0 1 1 2 3 1 0 0 1 2
+p685
+aVZydrunas Ilgauskas CLE 11/28/2008 CLE vs. GSW W 19 21 9 13 69.2 0 0 - 3 3 100.0 1 2 3 0 1 0 2 1 12
+p686
+aVLeBron James CLE 11/28/2008 CLE vs. GSW W 31 23 9 13 69.2 3 4 75.0 2 4 50.0 1 6 7 8 3 1 2 2 24
+p687
+aVJJ Hickson CLE 11/28/2008 CLE vs. GSW W 11 2 1 6 16.7 0 0 - 0 0 - 3 2 5 0 0 1 1 0 -16
+p688
+aVAnderson Varejao CLE 11/28/2008 CLE vs. GSW W 18 2 1 3 33.3 0 0 - 0 1 0.0 0 5 5 1 1 0 3 3 16
+p689
+aVWally Szczerbiak CLE 11/28/2008 CLE vs. GSW W 23 9 4 7 57.1 1 2 50.0 0 0 - 2 7 9 2 0 0 1 1 13
+p690
+aVBen Wallace CLE 11/28/2008 CLE vs. GSW W 21 2 1 3 33.3 0 0 - 0 2 0.0 5 4 9 0 1 1 1 2 11
+p691
+aVMo Williams CLE 11/28/2008 CLE vs. GSW W 27 16 6 14 42.9 1 4 25.0 3 3 100.0 0 2 2 4 1 1 0 3 17
+p692
+aVDarnell Jackson CLE 11/28/2008 CLE vs. GSW W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -11
+p693
+aVDelonte West CLE 11/28/2008 CLE vs. GSW W 30 13 4 12 33.3 1 4 25.0 4 4 100.0 2 3 5 3 2 1 0 2 22
+p694
+aVTarence Kinsey CLE 11/28/2008 CLE vs. GSW W 6 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -9
+p695
+aVSasha Pavlovic CLE 11/28/2008 CLE vs. GSW W 17 6 2 5 40.0 1 2 50.0 1 2 50.0 2 0 2 1 0 0 1 3 -7
+p696
+aVDaniel Gibson CLE 11/28/2008 CLE vs. GSW W 29 16 6 14 42.9 2 8 25.0 2 2 100.0 0 2 2 2 0 0 1 3 3
+p697
+aVDelonte West CLE 11/26/2008 CLE vs. OKC W 27 8 4 6 66.7 0 1 0.0 0 2 0.0 0 5 5 10 0 0 0 2 29
+p698
+aVZydrunas Ilgauskas CLE 11/26/2008 CLE vs. OKC W 13 17 7 9 77.8 1 1 100.0 2 2 100.0 3 4 7 2 0 0 0 1 16
+p699
+aVJJ Hickson CLE 11/26/2008 CLE vs. OKC W 31 14 6 12 50.0 0 0 - 2 2 100.0 3 3 6 1 0 4 2 4 13
+p700
+aVDaniel Gibson CLE 11/26/2008 CLE vs. OKC W 28 15 6 13 46.2 1 6 16.7 2 2 100.0 0 4 4 2 2 0 4 3 13
+p701
+aVAnderson Varejao CLE 11/26/2008 CLE vs. OKC W 20 7 2 2 100.0 0 0 - 3 4 75.0 0 7 7 0 0 1 2 1 19
+p702
+aVLeBron James CLE 11/26/2008 CLE vs. OKC W 17 14 7 12 58.3 0 1 0.0 0 0 - 0 3 3 3 1 3 0 0 24
+p703
+aVTarence Kinsey CLE 11/26/2008 CLE vs. OKC W 9 11 3 3 100.0 0 0 - 5 5 100.0 0 1 1 2 0 0 2 2 2
+p704
+aVBen Wallace CLE 11/26/2008 CLE vs. OKC W 14 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 0 0 2 0 0 18
+p705
+aVDarnell Jackson CLE 11/26/2008 CLE vs. OKC W 14 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 0 0 1 3 -2
+p706
+aVSasha Pavlovic CLE 11/26/2008 CLE vs. OKC W 18 4 1 3 33.3 0 0 - 2 7 28.6 0 0 0 1 0 0 2 1 0
+p707
+aVWally Szczerbiak CLE 11/26/2008 CLE vs. OKC W 25 13 4 6 66.7 2 3 66.7 3 4 75.0 0 3 3 1 0 0 1 2 15
+p708
+aVMo Williams CLE 11/26/2008 CLE vs. OKC W 23 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 5 0 0 0 0 28
+p709
+aVZydrunas Ilgauskas CLE 11/25/2008 CLE @ NYK W 21 11 5 11 45.5 0 0 - 1 1 100.0 2 8 10 3 0 0 2 2 13
+p710
+aVDarnell Jackson CLE 11/25/2008 CLE @ NYK W 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -10
+p711
+aVJJ Hickson CLE 11/25/2008 CLE @ NYK W 18 10 5 6 83.3 0 0 - 0 0 - 1 1 2 0 1 1 0 2 1
+p712
+aVDelonte West CLE 11/25/2008 CLE @ NYK W 33 16 7 14 50.0 1 7 14.3 1 2 50.0 1 2 3 1 3 0 0 1 19
+p713
+aVAnderson Varejao CLE 11/25/2008 CLE @ NYK W 21 11 5 7 71.4 0 0 - 1 4 25.0 1 5 6 2 0 1 0 1 15
+p714
+aVSasha Pavlovic CLE 11/25/2008 CLE @ NYK W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 0 -10
+p715
+aVWally Szczerbiak CLE 11/25/2008 CLE @ NYK W 19 15 6 9 66.7 3 6 50.0 0 0 - 1 3 4 0 1 0 0 2 18
+p716
+aVDaniel Gibson CLE 11/25/2008 CLE @ NYK W 28 10 4 11 36.4 2 8 25.0 0 0 - 1 3 4 7 0 0 1 1 3
+p717
+aVLeBron James CLE 11/25/2008 CLE @ NYK W 30 26 7 14 50.0 3 7 42.9 9 11 81.8 0 4 4 1 1 1 1 0 17
+p718
+aVTarence Kinsey CLE 11/25/2008 CLE @ NYK W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -10
+p719
+aVBen Wallace CLE 11/25/2008 CLE @ NYK W 22 4 2 3 66.7 0 0 - 0 0 - 3 2 5 0 0 5 1 0 10
+p720
+aVMo Williams CLE 11/25/2008 CLE @ NYK W 28 8 4 11 36.4 0 4 0.0 0 0 - 1 5 6 6 3 0 1 3 24
+p721
+aVDaniel Gibson CLE 11/22/2008 CLE vs. ATL W 19 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 1 0 1 0 3 0
+p722
+aVTarence Kinsey CLE 11/22/2008 CLE vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p723
+aVDelonte West CLE 11/22/2008 CLE vs. ATL W 35 19 7 12 58.3 2 6 33.3 3 3 100.0 0 2 2 5 0 0 1 2 16
+p724
+aVZydrunas Ilgauskas CLE 11/22/2008 CLE vs. ATL W 32 17 7 12 58.3 0 1 0.0 3 4 75.0 4 3 7 0 0 1 1 3 11
+p725
+aVSasha Pavlovic CLE 11/22/2008 CLE vs. ATL W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p726
+aVJJ Hickson CLE 11/22/2008 CLE vs. ATL W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 1
+p727
+aVLeBron James CLE 11/22/2008 CLE vs. ATL W 37 24 8 19 42.1 1 4 25.0 7 7 100.0 1 6 7 8 2 0 2 3 16
+p728
+aVWally Szczerbiak CLE 11/22/2008 CLE vs. ATL W 19 8 3 3 100.0 1 1 100.0 1 1 100.0 0 6 6 0 0 0 0 1 -3
+p729
+aVBen Wallace CLE 11/22/2008 CLE vs. ATL W 28 5 2 3 66.7 0 0 - 1 2 50.0 3 5 8 0 1 2 0 1 21
+p730
+aVMo Williams CLE 11/22/2008 CLE vs. ATL W 38 23 9 17 52.9 3 6 50.0 2 2 100.0 1 4 5 4 0 0 0 1 15
+p731
+aVLorenzen Wright CLE 11/22/2008 CLE vs. ATL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p732
+aVAnderson Varejao CLE 11/22/2008 CLE vs. ATL W 19 8 2 6 33.3 0 0 - 4 4 100.0 2 4 6 2 0 0 1 1 -7
+p733
+aVSasha Pavlovic CLE 11/19/2008 CLE @ DET L 12 5 2 4 50.0 1 2 50.0 0 2 0.0 1 0 1 0 0 0 0 1 -6
+p734
+aVAnderson Varejao CLE 11/19/2008 CLE @ DET L 34 5 1 3 33.3 0 0 - 3 4 75.0 1 10 11 2 2 1 2 3 0
+p735
+aVDelonte West CLE 11/19/2008 CLE @ DET L 34 11 4 9 44.4 1 2 50.0 2 2 100.0 0 2 2 1 0 1 2 5 -3
+p736
+aVMo Williams CLE 11/19/2008 CLE @ DET L 31 25 9 16 56.3 5 8 62.5 2 2 100.0 1 1 2 1 1 0 4 4 -9
+p737
+aVJJ Hickson CLE 11/19/2008 CLE @ DET L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 4
+p738
+aVLeBron James CLE 11/19/2008 CLE @ DET L 39 25 8 21 38.1 0 4 0.0 9 10 90.0 1 5 6 6 4 0 3 1 -5
+p739
+aVBen Wallace CLE 11/19/2008 CLE @ DET L 24 3 1 2 50.0 0 0 - 1 3 33.3 2 3 5 0 1 2 0 2 -4
+p740
+aVDaniel Gibson CLE 11/19/2008 CLE @ DET L 32 2 1 7 14.3 0 4 0.0 0 0 - 1 2 3 2 0 0 2 2 4
+p741
+aVZydrunas Ilgauskas CLE 11/19/2008 CLE @ DET L 28 13 5 11 45.5 1 2 50.0 2 2 100.0 1 5 6 1 0 2 0 1 -16
+p742
+aVJJ Hickson CLE 11/18/2008 CLE @ NJN W 3 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 5
+p743
+aVLorenzen Wright CLE 11/18/2008 CLE @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p744
+aVMo Williams CLE 11/18/2008 CLE @ NJN W 34 16 6 11 54.5 3 4 75.0 1 1 100.0 2 4 6 6 1 0 2 3 23
+p745
+aVLeBron James CLE 11/18/2008 CLE @ NJN W 36 31 9 20 45.0 1 4 25.0 12 17 70.6 0 8 8 4 0 1 3 3 17
+p746
+aVBen Wallace CLE 11/18/2008 CLE @ NJN W 26 3 0 1 0.0 0 0 - 3 4 75.0 4 4 8 0 1 4 1 1 19
+p747
+aVSasha Pavlovic CLE 11/18/2008 CLE @ NJN W 14 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 1 8
+p748
+aVZydrunas Ilgauskas CLE 11/18/2008 CLE @ NJN W 33 13 4 14 28.6 0 1 0.0 5 6 83.3 3 6 9 4 0 1 3 4 21
+p749
+aVWally Szczerbiak CLE 11/18/2008 CLE @ NJN W 14 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 0 2 -7
+p750
+aVAnderson Varejao CLE 11/18/2008 CLE @ NJN W 26 8 2 6 33.3 0 0 - 4 7 57.1 2 3 5 2 0 1 1 2 3
+p751
+aVTarence Kinsey CLE 11/18/2008 CLE @ NJN W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 8
+p752
+aVDaniel Gibson CLE 11/18/2008 CLE @ NJN W 18 7 2 5 40.0 2 3 66.7 1 1 100.0 1 0 1 1 1 0 0 3 6
+p753
+aVDelonte West CLE 11/18/2008 CLE @ NJN W 31 16 6 9 66.7 4 4 100.0 0 0 - 0 5 5 1 2 0 1 3 13
+p754
+aVAnderson Varejao CLE 11/15/2008 CLE vs. UTA W 26 5 1 3 33.3 0 0 - 3 3 100.0 1 4 5 0 1 1 0 4 3
+p755
+aVJJ Hickson CLE 11/15/2008 CLE vs. UTA W 4 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -18
+p756
+aVMo Williams CLE 11/15/2008 CLE vs. UTA W 39 20 8 18 44.4 3 8 37.5 1 1 100.0 1 2 3 4 0 1 1 3 2
+p757
+aVBen Wallace CLE 11/15/2008 CLE vs. UTA W 35 1 0 1 0.0 0 0 - 1 2 50.0 3 7 10 2 4 2 1 3 20
+p758
+aVDaniel Gibson CLE 11/15/2008 CLE vs. UTA W 15 8 2 6 33.3 1 3 33.3 3 3 100.0 1 1 2 1 0 0 0 2 -6
+p759
+aVLeBron James CLE 11/15/2008 CLE vs. UTA W 42 38 13 21 61.9 3 7 42.9 9 11 81.8 3 2 5 7 2 2 2 2 33
+p760
+aVSasha Pavlovic CLE 11/15/2008 CLE vs. UTA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -13
+p761
+aVDelonte West CLE 11/15/2008 CLE vs. UTA W 41 12 4 11 36.4 3 8 37.5 1 2 50.0 1 4 5 4 0 0 2 2 30
+p762
+aVZydrunas Ilgauskas CLE 11/15/2008 CLE vs. UTA W 27 16 6 11 54.5 0 1 0.0 4 4 100.0 3 4 7 3 1 0 4 4 18
+p763
+aVWally Szczerbiak CLE 11/15/2008 CLE vs. UTA W 6 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 1 -9
+p764
+aVTarence Kinsey CLE 11/13/2008 CLE vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p765
+aVLeBron James CLE 11/13/2008 CLE vs. DEN W 38 22 10 20 50.0 0 0 - 2 4 50.0 1 7 8 11 3 0 5 4 14
+p766
+aVBen Wallace CLE 11/13/2008 CLE vs. DEN W 25 11 4 4 100.0 0 0 - 3 3 100.0 3 3 6 3 1 0 0 2 9
+p767
+aVMo Williams CLE 11/13/2008 CLE vs. DEN W 35 24 10 21 47.6 3 9 33.3 1 1 100.0 0 0 0 6 1 1 2 1 0
+p768
+aVZydrunas Ilgauskas CLE 11/13/2008 CLE vs. DEN W 24 10 5 8 62.5 0 0 - 0 0 - 2 1 3 1 2 1 0 2 6
+p769
+aVSasha Pavlovic CLE 11/13/2008 CLE vs. DEN W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 4
+p770
+aVAnderson Varejao CLE 11/13/2008 CLE vs. DEN W 24 6 2 2 100.0 0 0 - 2 2 100.0 0 8 8 1 0 0 0 2 2
+p771
+aVDaniel Gibson CLE 11/13/2008 CLE vs. DEN W 19 15 7 11 63.6 1 2 50.0 0 0 - 1 3 4 1 0 0 0 3 7
+p772
+aVDelonte West CLE 11/13/2008 CLE vs. DEN W 34 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 4 0 0 2 4 15
+p773
+aVWally Szczerbiak CLE 11/13/2008 CLE vs. DEN W 23 10 4 6 66.7 0 1 0.0 2 2 100.0 1 2 3 2 0 0 0 0 5
+p774
+aVJJ Hickson CLE 11/13/2008 CLE vs. DEN W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p775
+aVJJ Hickson CLE 11/11/2008 CLE vs. MIL W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p776
+aVZydrunas Ilgauskas CLE 11/11/2008 CLE vs. MIL W 24 15 6 10 60.0 0 0 - 3 3 100.0 2 8 10 3 0 1 1 3 -2
+p777
+aVAnderson Varejao CLE 11/11/2008 CLE vs. MIL W 23 13 5 5 100.0 0 0 - 3 3 100.0 3 7 10 0 0 2 1 5 6
+p778
+aVLeBron James CLE 11/11/2008 CLE vs. MIL W 43 41 16 24 66.7 1 4 25.0 8 10 80.0 0 5 5 6 3 0 2 2 11
+p779
+aVWally Szczerbiak CLE 11/11/2008 CLE vs. MIL W 24 0 0 3 0.0 0 2 0.0 0 2 0.0 0 1 1 0 2 1 0 4 -4
+p780
+aVDelonte West CLE 11/11/2008 CLE vs. MIL W 38 11 5 7 71.4 1 3 33.3 0 0 - 2 1 3 5 0 1 2 2 16
+p781
+aVSasha Pavlovic CLE 11/11/2008 CLE vs. MIL W 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p782
+aVDaniel Gibson CLE 11/11/2008 CLE vs. MIL W 23 0 0 8 0.0 0 6 0.0 0 0 - 0 2 2 0 0 0 0 2 -6
+p783
+aVBen Wallace CLE 11/11/2008 CLE vs. MIL W 21 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 1 1 0 1 9
+p784
+aVMo Williams CLE 11/11/2008 CLE vs. MIL W 34 16 3 11 27.3 1 5 20.0 9 10 90.0 0 1 1 5 1 0 3 3 0
+p785
+aVWally Szczerbiak CLE 11/08/2008 CLE @ CHI W 23 6 2 4 50.0 0 2 0.0 2 2 100.0 1 0 1 1 0 0 1 3 13
+p786
+aVMo Williams CLE 11/08/2008 CLE @ CHI W 37 11 4 11 36.4 0 2 0.0 3 3 100.0 0 2 2 7 4 0 3 4 12
+p787
+aVDelonte West CLE 11/08/2008 CLE @ CHI W 34 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 1 0 0 3 3 11
+p788
+aVLeBron James CLE 11/08/2008 CLE @ CHI W 39 41 13 29 44.8 4 7 57.1 11 13 84.6 4 9 13 4 0 0 2 1 12
+p789
+aVAnderson Varejao CLE 11/08/2008 CLE @ CHI W 29 13 5 8 62.5 0 0 - 3 4 75.0 1 3 4 1 1 3 1 5 10
+p790
+aVJJ Hickson CLE 11/08/2008 CLE @ CHI W 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -9
+p791
+aVZydrunas Ilgauskas CLE 11/08/2008 CLE @ CHI W 22 16 6 13 46.2 0 0 - 4 4 100.0 3 3 6 2 0 1 1 2 3
+p792
+aVBen Wallace CLE 11/08/2008 CLE @ CHI W 25 7 3 4 75.0 0 0 - 1 2 50.0 1 3 4 1 0 1 0 0 -2
+p793
+aVDaniel Gibson CLE 11/08/2008 CLE @ CHI W 26 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 1 1 0 0 2 -5
+p794
+aVMo Williams CLE 11/07/2008 CLE vs. IND W 37 21 6 14 42.9 2 5 40.0 7 7 100.0 1 2 3 4 1 0 5 4 4
+p795
+aVDaniel Gibson CLE 11/07/2008 CLE vs. IND W 19 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 4 1 0 2 3 1
+p796
+aVZydrunas Ilgauskas CLE 11/07/2008 CLE vs. IND W 29 17 5 9 55.6 0 0 - 7 8 87.5 0 4 4 1 0 3 1 3 5
+p797
+aVLeBron James CLE 11/07/2008 CLE vs. IND W 39 27 11 24 45.8 1 6 16.7 4 7 57.1 2 7 9 8 1 4 4 2 -3
+p798
+aVBen Wallace CLE 11/07/2008 CLE vs. IND W 19 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 1 0 1 -17
+p799
+aVSasha Pavlovic CLE 11/07/2008 CLE vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 2 0 0 3
+p800
+aVWally Szczerbiak CLE 11/07/2008 CLE vs. IND W 26 11 3 4 75.0 1 1 100.0 4 4 100.0 0 1 1 1 1 0 1 0 9
+p801
+aVDelonte West CLE 11/07/2008 CLE vs. IND W 35 12 5 8 62.5 2 4 50.0 0 0 - 1 3 4 1 1 0 0 2 0
+p802
+aVAnderson Varejao CLE 11/07/2008 CLE vs. IND W 30 18 8 12 66.7 0 0 - 2 2 100.0 3 5 8 1 3 0 2 4 18
+p803
+aVSasha Pavlovic CLE 11/05/2008 CLE vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p804
+aVDelonte West CLE 11/05/2008 CLE vs. CHI W 37 16 6 12 50.0 3 6 50.0 1 1 100.0 0 3 3 3 1 0 0 3 20
+p805
+aVAnderson Varejao CLE 11/05/2008 CLE vs. CHI W 28 9 3 3 100.0 0 0 - 3 4 75.0 0 2 2 2 0 1 1 4 11
+p806
+aVLeBron James CLE 11/05/2008 CLE vs. CHI W 36 41 13 23 56.5 0 2 0.0 15 16 93.8 2 7 9 6 4 0 5 1 22
+p807
+aVBen Wallace CLE 11/05/2008 CLE vs. CHI W 29 0 0 2 0.0 0 0 - 0 0 - 6 8 14 0 2 1 0 2 10
+p808
+aVTarence Kinsey CLE 11/05/2008 CLE vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p809
+aVJJ Hickson CLE 11/05/2008 CLE vs. CHI W 2 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 -2
+p810
+aVLorenzen Wright CLE 11/05/2008 CLE vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p811
+aVDaniel Gibson CLE 11/05/2008 CLE vs. CHI W 24 1 0 6 0.0 0 2 0.0 1 2 50.0 0 4 4 0 0 1 0 4 -2
+p812
+aVZydrunas Ilgauskas CLE 11/05/2008 CLE vs. CHI W 24 15 6 16 37.5 1 1 100.0 2 2 100.0 3 7 10 0 0 2 2 3 -7
+p813
+aVWally Szczerbiak CLE 11/05/2008 CLE vs. CHI W 22 8 2 6 33.3 0 2 0.0 4 5 80.0 0 2 2 2 1 0 0 0 11
+p814
+aVMo Williams CLE 11/05/2008 CLE vs. CHI W 33 13 5 11 45.5 1 2 50.0 2 2 100.0 0 0 0 4 1 0 4 2 11
+p815
+aVLorenzen Wright CLE 11/03/2008 CLE @ DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p816
+aVBen Wallace CLE 11/03/2008 CLE @ DAL W 22 0 0 4 0.0 0 0 - 0 0 - 8 5 13 0 1 1 3 3 -3
+p817
+aVSasha Pavlovic CLE 11/03/2008 CLE @ DAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p818
+aVJJ Hickson CLE 11/03/2008 CLE @ DAL W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -3
+p819
+aVDaniel Gibson CLE 11/03/2008 CLE @ DAL W 25 7 3 10 30.0 1 4 25.0 0 0 - 1 1 2 2 1 0 0 0 18
+p820
+aVMo Williams CLE 11/03/2008 CLE @ DAL W 34 14 6 12 50.0 1 2 50.0 1 1 100.0 1 3 4 6 0 0 2 3 15
+p821
+aVWally Szczerbiak CLE 11/03/2008 CLE @ DAL W 20 10 4 6 66.7 0 1 0.0 2 2 100.0 1 2 3 0 0 1 0 5 20
+p822
+aVDelonte West CLE 11/03/2008 CLE @ DAL W 34 14 4 5 80.0 3 4 75.0 3 4 75.0 0 4 4 5 3 0 1 2 8
+p823
+aVLeBron James CLE 11/03/2008 CLE @ DAL W 34 29 8 20 40.0 0 2 0.0 13 15 86.7 2 6 8 3 2 1 1 1 13
+p824
+aVZydrunas Ilgauskas CLE 11/03/2008 CLE @ DAL W 32 17 8 15 53.3 0 0 - 1 2 50.0 3 8 11 2 0 2 1 2 17
+p825
+aVAnderson Varejao CLE 11/03/2008 CLE @ DAL W 25 2 1 3 33.3 0 0 - 0 2 0.0 2 4 6 1 4 1 1 4 21
+p826
+aVTarence Kinsey CLE 11/03/2008 CLE @ DAL W 3 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 0 0 0 1 -3
+p827
+aVBen Wallace CLE 11/01/2008 CLE @ NOH L 21 4 2 2 100.0 0 0 - 0 2 0.0 2 6 8 1 0 1 0 1 1
+p828
+aVDelonte West CLE 11/01/2008 CLE @ NOH L 27 12 4 6 66.7 4 5 80.0 0 0 - 0 4 4 0 0 0 2 4 -2
+p829
+aVAnderson Varejao CLE 11/01/2008 CLE @ NOH L 25 4 2 4 50.0 0 1 0.0 0 1 0.0 1 5 6 0 0 0 1 4 -16
+p830
+aVSasha Pavlovic CLE 11/01/2008 CLE @ NOH L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p831
+aVJJ Hickson CLE 11/01/2008 CLE @ NOH L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p832
+aVDaniel Gibson CLE 11/01/2008 CLE @ NOH L 33 14 5 12 41.7 2 5 40.0 2 2 100.0 0 2 2 0 0 0 1 4 -7
+p833
+aVLeBron James CLE 11/01/2008 CLE @ NOH L 38 15 6 15 40.0 0 3 0.0 3 4 75.0 2 5 7 13 3 0 5 3 -8
+p834
+aVZydrunas Ilgauskas CLE 11/01/2008 CLE @ NOH L 31 18 8 11 72.7 0 0 - 2 4 50.0 2 3 5 3 1 2 3 3 1
+p835
+aVWally Szczerbiak CLE 11/01/2008 CLE @ NOH L 22 12 3 7 42.9 2 3 66.7 4 6 66.7 0 1 1 0 1 0 1 0 -2
+p836
+aVMo Williams CLE 11/01/2008 CLE @ NOH L 36 11 5 15 33.3 1 5 20.0 0 0 - 0 2 2 4 0 0 4 4 -19
+p837
+aVJJ Hickson CLE 10/30/2008 CLE vs. CHA W 10 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 2 -2
+p838
+aVDaniel Gibson CLE 10/30/2008 CLE vs. CHA W 31 25 10 14 71.4 4 6 66.7 1 5 20.0 3 1 4 2 0 0 2 2 32
+p839
+aVAnderson Varejao CLE 10/30/2008 CLE vs. CHA W 21 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 0 2 12
+p840
+aVTarence Kinsey CLE 10/30/2008 CLE vs. CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p841
+aVDelonte West CLE 10/30/2008 CLE vs. CHA W 30 9 3 8 37.5 2 6 33.3 1 2 50.0 1 5 6 2 2 1 1 2 0
+p842
+aVLeBron James CLE 10/30/2008 CLE vs. CHA W 30 22 7 15 46.7 0 2 0.0 8 12 66.7 2 7 9 9 0 1 5 3 10
+p843
+aVSasha Pavlovic CLE 10/30/2008 CLE vs. CHA W 18 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 2 7
+p844
+aVZydrunas Ilgauskas CLE 10/30/2008 CLE vs. CHA W 30 11 4 9 44.4 0 1 0.0 3 4 75.0 0 3 3 0 2 2 1 2 13
+p845
+aVLorenzen Wright CLE 10/30/2008 CLE vs. CHA W 3 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -4
+p846
+aVWally Szczerbiak CLE 10/30/2008 CLE vs. CHA W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 3 1
+p847
+aVMo Williams CLE 10/30/2008 CLE vs. CHA W 33 17 7 14 50.0 1 6 16.7 2 2 100.0 2 2 4 7 1 0 1 4 11
+p848
+aVBen Wallace CLE 10/30/2008 CLE vs. CHA W 24 2 1 2 50.0 0 0 - 0 0 - 2 8 10 0 1 5 0 1 11
+p849
+aVSasha Pavlovic CLE 10/28/2008 CLE @ BOS L 13 7 3 6 50.0 0 2 0.0 1 2 50.0 0 3 3 0 0 0 3 1 -3
+p850
+aVMo Williams CLE 10/28/2008 CLE @ BOS L 31 12 4 10 40.0 3 5 60.0 1 1 100.0 0 3 3 2 1 0 4 5 3
+p851
+aVLeBron James CLE 10/28/2008 CLE @ BOS L 36 22 9 21 42.9 0 4 0.0 4 8 50.0 1 6 7 6 2 1 3 4 -3
+p852
+aVWally Szczerbiak CLE 10/28/2008 CLE @ BOS L 16 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 2 4 -3
+p853
+aVAnderson Varejao CLE 10/28/2008 CLE @ BOS L 26 9 3 6 50.0 0 0 - 3 5 60.0 4 5 9 1 3 0 2 2 -7
+p854
+aVLorenzen Wright CLE 10/28/2008 CLE @ BOS L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 1 4 0
+p855
+aVBen Wallace CLE 10/28/2008 CLE @ BOS L 19 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 1 1 2 -1
+p856
+aVDaniel Gibson CLE 10/28/2008 CLE @ BOS L 23 6 2 8 25.0 0 2 0.0 2 3 66.7 0 3 3 3 0 0 0 1 -8
+p857
+aVDelonte West CLE 10/28/2008 CLE @ BOS L 35 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 0 -10
+p858
+aVZydrunas Ilgauskas CLE 10/28/2008 CLE @ BOS L 30 15 3 5 60.0 0 0 - 9 10 90.0 3 5 8 1 0 0 4 3 7
+p859
+a.

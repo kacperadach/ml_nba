@@ -1,0 +1,1776 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGordan Giricek UTA 04/20/2005 UTA @ GSW L 24 9 4 13 30.8 1 4 25.0 0 0 - 3 5 8 2 2 0 0 1 -6
+p2
+aVMatt Harpring UTA 04/20/2005 UTA @ GSW L 35 22 10 17 58.8 0 1 0.0 2 5 40.0 6 4 10 3 1 0 2 3 -3
+p3
+aVKris Humphries UTA 04/20/2005 UTA @ GSW L 29 12 5 12 41.7 0 0 - 2 4 50.0 4 8 12 0 0 0 2 2 -18
+p4
+aVHoward Eisley UTA 04/20/2005 UTA @ GSW L 25 6 1 9 11.1 0 2 0.0 4 4 100.0 0 0 0 6 0 1 5 5 -12
+p5
+aVBen Handlogten UTA 04/20/2005 UTA @ GSW L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 1 2 -7
+p6
+aVMehmet Okur UTA 04/20/2005 UTA @ GSW L 30 16 6 12 50.0 0 1 0.0 4 5 80.0 4 2 6 1 1 1 4 0 -12
+p7
+aVKirk Snyder UTA 04/20/2005 UTA @ GSW L 30 7 2 10 20.0 1 3 33.3 2 4 50.0 5 1 6 0 0 0 1 3 -18
+p8
+aVKeith McLeod UTA 04/20/2005 UTA @ GSW L 23 4 1 5 20.0 0 1 0.0 2 3 66.7 0 2 2 5 3 0 0 3 -5
+p9
+aVRandy Livingston UTA 04/20/2005 UTA @ GSW L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 0 1 -7
+p10
+aVJarron Collins UTA 04/20/2005 UTA @ GSW L 31 11 2 4 50.0 0 0 - 7 14 50.0 2 6 8 2 0 0 1 4 3
+p11
+aVBen Handlogten UTA 04/18/2005 UTA vs. SAC W 4 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p12
+aVKirk Snyder UTA 04/18/2005 UTA vs. SAC W 22 7 2 8 25.0 0 2 0.0 3 5 60.0 1 3 4 1 1 3 0 3 -1
+p13
+aVKris Humphries UTA 04/18/2005 UTA vs. SAC W 26 8 4 12 33.3 0 0 - 0 4 0.0 2 5 7 0 1 0 1 1 -1
+p14
+aVGordan Giricek UTA 04/18/2005 UTA vs. SAC W 40 12 5 7 71.4 1 2 50.0 1 1 100.0 0 5 5 5 1 1 5 1 4
+p15
+aVRandy Livingston UTA 04/18/2005 UTA vs. SAC W 18 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 4 0 0 1 3 -5
+p16
+aVKeith McLeod UTA 04/18/2005 UTA vs. SAC W 23 9 2 5 40.0 0 0 - 5 7 71.4 0 1 1 3 0 0 5 4 9
+p17
+aVMehmet Okur UTA 04/18/2005 UTA vs. SAC W 37 21 7 14 50.0 1 2 50.0 6 8 75.0 5 7 12 4 2 1 2 3 17
+p18
+aVHoward Eisley UTA 04/18/2005 UTA vs. SAC W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 4 6
+p19
+aVJarron Collins UTA 04/18/2005 UTA vs. SAC W 30 3 1 3 33.3 0 0 - 1 1 100.0 0 2 2 0 0 1 0 3 8
+p20
+aVMatt Harpring UTA 04/18/2005 UTA vs. SAC W 34 24 10 15 66.7 0 0 - 4 6 66.7 4 9 13 1 0 1 1 2 17
+p21
+aVKeith McLeod UTA 04/17/2005 UTA @ POR L 23 8 3 6 50.0 0 1 0.0 2 2 100.0 0 0 0 2 3 0 1 2 -12
+p22
+aVRandy Livingston UTA 04/17/2005 UTA @ POR L 16 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 4 1 0 0 1 -4
+p23
+aVHoward Eisley UTA 04/17/2005 UTA @ POR L 25 5 2 8 25.0 0 3 0.0 1 1 100.0 1 0 1 5 0 0 3 1 -6
+p24
+aVKirk Snyder UTA 04/17/2005 UTA @ POR L 28 15 5 14 35.7 0 2 0.0 5 5 100.0 3 3 6 1 1 0 2 1 -7
+p25
+aVJarron Collins UTA 04/17/2005 UTA @ POR L 23 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 2 3 -1
+p26
+aVMatt Harpring UTA 04/17/2005 UTA @ POR L 27 11 2 11 18.2 0 0 - 7 8 87.5 8 2 10 1 2 0 3 3 -16
+p27
+aVMehmet Okur UTA 04/17/2005 UTA @ POR L 29 15 7 12 58.3 0 1 0.0 1 1 100.0 2 8 10 2 0 2 1 0 -13
+p28
+aVKris Humphries UTA 04/17/2005 UTA @ POR L 29 7 3 8 37.5 0 0 - 1 1 100.0 1 3 4 1 1 0 1 2 -10
+p29
+aVBen Handlogten UTA 04/17/2005 UTA @ POR L 20 6 3 9 33.3 0 0 - 0 1 0.0 4 2 6 2 0 0 1 6 -10
+p30
+aVGordan Giricek UTA 04/17/2005 UTA @ POR L 20 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 2 2 -11
+p31
+aVMehmet Okur UTA 04/15/2005 UTA vs. MIN L 36 10 3 11 27.3 0 0 - 4 5 80.0 3 5 8 4 0 2 2 4 -12
+p32
+aVJarron Collins UTA 04/15/2005 UTA vs. MIN L 31 4 2 6 33.3 0 0 - 0 0 - 3 3 6 1 0 0 2 2 -8
+p33
+aVGordan Giricek UTA 04/15/2005 UTA vs. MIN L 26 7 2 9 22.2 0 1 0.0 3 4 75.0 0 7 7 3 0 0 1 1 -13
+p34
+aVHoward Eisley UTA 04/15/2005 UTA vs. MIN L 17 10 5 10 50.0 0 3 0.0 0 0 - 1 0 1 1 0 0 0 3 -11
+p35
+aVKeith McLeod UTA 04/15/2005 UTA vs. MIN L 34 20 9 14 64.3 1 1 100.0 1 1 100.0 1 1 2 5 2 0 0 4 -8
+p36
+aVMatt Harpring UTA 04/15/2005 UTA vs. MIN L 39 12 6 12 50.0 0 0 - 0 0 - 1 7 8 1 0 0 1 4 -10
+p37
+aVRandy Livingston UTA 04/15/2005 UTA vs. MIN L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p38
+aVKris Humphries UTA 04/15/2005 UTA vs. MIN L 15 6 3 7 42.9 0 0 - 0 0 - 0 0 0 1 0 0 1 4 -9
+p39
+aVKirk Snyder UTA 04/15/2005 UTA vs. MIN L 27 9 3 14 21.4 1 2 50.0 2 2 100.0 2 2 4 3 1 0 1 2 -9
+p40
+aVBen Handlogten UTA 04/15/2005 UTA vs. MIN L 13 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 0 -1
+p41
+aVMatt Harpring UTA 04/13/2005 UTA vs. SAS W 32 17 6 9 66.7 0 0 - 5 6 83.3 3 2 5 5 2 0 3 5 6
+p42
+aVMehmet Okur UTA 04/13/2005 UTA vs. SAS W 42 25 10 20 50.0 0 1 0.0 5 5 100.0 5 11 16 4 0 0 1 5 -1
+p43
+aVHoward Eisley UTA 04/13/2005 UTA vs. SAS W 26 15 6 10 60.0 1 2 50.0 2 2 100.0 0 1 1 4 1 0 1 3 9
+p44
+aVKeith McLeod UTA 04/13/2005 UTA vs. SAS W 23 0 0 3 0.0 0 0 - 0 0 - 2 0 2 3 1 0 0 4 -8
+p45
+aVGordan Giricek UTA 04/13/2005 UTA vs. SAS W 38 15 6 13 46.2 0 1 0.0 3 3 100.0 0 2 2 0 1 1 2 3 9
+p46
+aVJarron Collins UTA 04/13/2005 UTA vs. SAS W 27 5 0 6 0.0 0 0 - 5 8 62.5 4 5 9 3 0 1 2 5 7
+p47
+aVBen Handlogten UTA 04/13/2005 UTA vs. SAS W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p48
+aVKris Humphries UTA 04/13/2005 UTA vs. SAS W 17 6 3 7 42.9 0 0 - 0 0 - 2 3 5 0 0 0 2 2 0
+p49
+aVKirk Snyder UTA 04/13/2005 UTA vs. SAS W 20 8 3 9 33.3 2 3 66.7 0 2 0.0 1 1 2 1 2 0 2 2 -3
+p50
+aVRandy Livingston UTA 04/13/2005 UTA vs. SAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -8
+p51
+aVMatt Harpring UTA 04/12/2005 UTA @ LAC L 29 18 8 12 66.7 0 0 - 2 4 50.0 2 3 5 1 0 0 2 2 -23
+p52
+aVGordan Giricek UTA 04/12/2005 UTA @ LAC L 34 10 5 10 50.0 0 0 - 0 0 - 0 9 9 2 1 0 3 4 0
+p53
+aVJarron Collins UTA 04/12/2005 UTA @ LAC L 21 7 2 6 33.3 0 1 0.0 3 4 75.0 5 2 7 1 0 0 1 5 11
+p54
+aVMehmet Okur UTA 04/12/2005 UTA @ LAC L 36 16 6 17 35.3 0 0 - 4 5 80.0 5 9 14 3 2 1 3 3 -9
+p55
+aVKeith McLeod UTA 04/12/2005 UTA @ LAC L 26 3 1 7 14.3 1 2 50.0 0 0 - 0 0 0 3 1 1 1 4 -14
+p56
+aVRandy Livingston UTA 04/12/2005 UTA @ LAC L 22 13 3 5 60.0 2 2 100.0 5 5 100.0 1 2 3 0 2 0 1 1 -2
+p57
+aVHoward Eisley UTA 04/12/2005 UTA @ LAC L 28 8 4 11 36.4 0 3 0.0 0 0 - 0 3 3 7 0 0 1 1 10
+p58
+aVBen Handlogten UTA 04/12/2005 UTA @ LAC L 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 1 1 2 -10
+p59
+aVCurtis Borchardt UTA 04/12/2005 UTA @ LAC L 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 2
+p60
+aVKris Humphries UTA 04/12/2005 UTA @ LAC L 21 6 2 7 28.6 0 0 - 2 2 100.0 1 2 3 3 2 0 0 1 -10
+p61
+aVHoward Eisley UTA 04/09/2005 UTA @ DAL L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 3 4 -4
+p62
+aVKirk Snyder UTA 04/09/2005 UTA @ DAL L 24 12 3 7 42.9 2 3 66.7 4 4 100.0 1 1 2 1 0 0 2 3 4
+p63
+aVBen Handlogten UTA 04/09/2005 UTA @ DAL L 15 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 3
+p64
+aVGordan Giricek UTA 04/09/2005 UTA @ DAL L 32 12 5 13 38.5 0 1 0.0 2 2 100.0 0 2 2 1 3 0 2 3 -10
+p65
+aVKris Humphries UTA 04/09/2005 UTA @ DAL L 29 15 5 10 50.0 0 0 - 5 8 62.5 4 5 9 1 1 1 1 5 3
+p66
+aVJarron Collins UTA 04/09/2005 UTA @ DAL L 18 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 2 0 0 0 3 -11
+p67
+aVMatt Harpring UTA 04/09/2005 UTA @ DAL L 36 10 2 7 28.6 0 1 0.0 6 6 100.0 2 7 9 1 0 1 1 5 -3
+p68
+aVRandy Livingston UTA 04/09/2005 UTA @ DAL L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 1 3 -7
+p69
+aVKeith McLeod UTA 04/09/2005 UTA @ DAL L 31 8 2 9 22.2 0 1 0.0 4 4 100.0 0 4 4 4 2 1 6 2 -4
+p70
+aVMehmet Okur UTA 04/09/2005 UTA @ DAL L 33 14 5 10 50.0 0 0 - 4 5 80.0 4 3 7 4 0 0 3 3 -6
+p71
+aVMehmet Okur UTA 04/08/2005 UTA @ NOH W 36 12 3 6 50.0 0 0 - 6 8 75.0 2 7 9 4 2 0 4 3 9
+p72
+aVMatt Harpring UTA 04/08/2005 UTA @ NOH W 35 28 10 16 62.5 0 0 - 8 9 88.9 0 5 5 0 3 0 3 4 15
+p73
+aVRandy Livingston UTA 04/08/2005 UTA @ NOH W 20 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 7 0 0 1 2 2
+p74
+aVJarron Collins UTA 04/08/2005 UTA @ NOH W 26 6 1 3 33.3 0 0 - 4 4 100.0 2 3 5 0 0 0 1 2 11
+p75
+aVBen Handlogten UTA 04/08/2005 UTA @ NOH W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p76
+aVGordan Giricek UTA 04/08/2005 UTA @ NOH W 18 6 2 8 25.0 1 3 33.3 1 2 50.0 0 1 1 1 1 0 1 2 3
+p77
+aVKeith McLeod UTA 04/08/2005 UTA @ NOH W 28 12 3 6 50.0 0 1 0.0 6 6 100.0 0 3 3 6 4 0 3 1 9
+p78
+aVKris Humphries UTA 04/08/2005 UTA @ NOH W 17 2 1 2 50.0 0 0 - 0 2 0.0 0 3 3 2 1 0 1 3 2
+p79
+aVCurtis Borchardt UTA 04/08/2005 UTA @ NOH W 15 8 4 4 100.0 0 0 - 0 1 0.0 1 2 3 1 0 0 2 5 -2
+p80
+aVKirk Snyder UTA 04/08/2005 UTA @ NOH W 21 11 4 6 66.7 1 2 50.0 2 3 66.7 2 0 2 0 1 0 2 3 6
+p81
+aVHoward Eisley UTA 04/08/2005 UTA @ NOH W 18 8 4 6 66.7 0 0 - 0 0 - 0 0 0 2 0 2 0 1 2
+p82
+aVKris Humphries UTA 04/06/2005 UTA @ MIN L 22 8 4 9 44.4 0 0 - 0 1 0.0 2 3 5 1 2 0 0 0 -2
+p83
+aVMatt Harpring UTA 04/06/2005 UTA @ MIN L 36 14 7 12 58.3 0 0 - 0 0 - 3 2 5 1 2 0 1 2 -37
+p84
+aVHoward Eisley UTA 04/06/2005 UTA @ MIN L 26 9 4 9 44.4 0 0 - 1 2 50.0 0 0 0 4 1 0 2 2 -19
+p85
+aVRandy Livingston UTA 04/06/2005 UTA @ MIN L 22 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 7 0 0 3 2 -6
+p86
+aVCurtis Borchardt UTA 04/06/2005 UTA @ MIN L 18 4 0 4 0.0 0 0 - 4 6 66.7 1 5 6 0 0 0 0 2 18
+p87
+aVKirk Snyder UTA 04/06/2005 UTA @ MIN L 23 12 5 9 55.6 1 1 100.0 1 1 100.0 0 0 0 1 1 0 1 2 5
+p88
+aVBen Handlogten UTA 04/06/2005 UTA @ MIN L 19 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 1 1 4 2 -9
+p89
+aVMehmet Okur UTA 04/06/2005 UTA @ MIN L 18 11 3 8 37.5 0 0 - 5 6 83.3 1 1 2 3 0 2 1 5 -21
+p90
+aVJarron Collins UTA 04/06/2005 UTA @ MIN L 22 4 2 5 40.0 0 0 - 0 0 - 0 2 2 4 0 0 1 3 -27
+p91
+aVGordan Giricek UTA 04/06/2005 UTA @ MIN L 34 14 6 14 42.9 0 2 0.0 2 3 66.7 1 5 6 4 2 0 0 1 -27
+p92
+aVMehmet Okur UTA 04/05/2005 UTA vs. POR W 29 11 5 10 50.0 0 0 - 1 2 50.0 0 6 6 3 0 0 1 3 0
+p93
+aVBen Handlogten UTA 04/05/2005 UTA vs. POR W 20 11 5 10 50.0 0 0 - 1 3 33.3 3 2 5 1 0 0 0 1 6
+p94
+aVMatt Harpring UTA 04/05/2005 UTA vs. POR W 33 17 7 17 41.2 0 0 - 3 4 75.0 3 4 7 4 1 0 2 2 7
+p95
+aVJarron Collins UTA 04/05/2005 UTA vs. POR W 32 2 1 6 16.7 0 0 - 0 0 - 4 2 6 2 0 0 3 3 13
+p96
+aVRandy Livingston UTA 04/05/2005 UTA vs. POR W 14 8 4 5 80.0 0 0 - 0 1 0.0 0 2 2 3 0 0 0 1 6
+p97
+aVCurtis Borchardt UTA 04/05/2005 UTA vs. POR W 9 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 4 1
+p98
+aVKris Humphries UTA 04/05/2005 UTA vs. POR W 21 11 4 7 57.1 0 0 - 3 3 100.0 2 1 3 3 1 1 0 1 6
+p99
+aVHoward Eisley UTA 04/05/2005 UTA vs. POR W 13 6 3 5 60.0 0 0 - 0 1 0.0 0 1 1 1 0 0 0 2 2
+p100
+aVGordan Giricek UTA 04/05/2005 UTA vs. POR W 26 9 4 11 36.4 0 1 0.0 1 2 50.0 1 2 3 2 1 1 3 0 2
+p101
+aVKirk Snyder UTA 04/05/2005 UTA vs. POR W 19 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 2 0 0 1 1 6
+p102
+aVKeith McLeod UTA 04/05/2005 UTA vs. POR W 24 2 1 5 20.0 0 0 - 0 1 0.0 0 1 1 1 1 0 0 0 6
+p103
+aVBen Handlogten UTA 04/01/2005 UTA vs. GSW L 20 12 5 8 62.5 0 0 - 2 3 66.7 2 9 11 0 2 1 3 3 -4
+p104
+aVJarron Collins UTA 04/01/2005 UTA vs. GSW L 12 1 0 3 0.0 0 0 - 1 4 25.0 1 1 2 2 0 0 0 4 4
+p105
+aVMatt Harpring UTA 04/01/2005 UTA vs. GSW L 27 13 3 11 27.3 0 0 - 7 12 58.3 7 4 11 1 2 0 2 3 -15
+p106
+aVHoward Eisley UTA 04/01/2005 UTA vs. GSW L 14 6 1 5 20.0 1 1 100.0 3 3 100.0 0 0 0 0 0 0 0 2 -14
+p107
+aVCurtis Borchardt UTA 04/01/2005 UTA vs. GSW L 19 4 0 9 0.0 0 0 - 4 4 100.0 9 2 11 0 0 2 0 1 -10
+p108
+aVKirk Snyder UTA 04/01/2005 UTA vs. GSW L 20 10 4 10 40.0 0 1 0.0 2 6 33.3 1 1 2 1 1 0 2 3 -11
+p109
+aVRandy Livingston UTA 04/01/2005 UTA vs. GSW L 18 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 0 0 2 0 -7
+p110
+aVMehmet Okur UTA 04/01/2005 UTA vs. GSW L 28 14 5 12 41.7 0 0 - 4 4 100.0 0 8 8 2 0 1 1 4 -10
+p111
+aVGordan Giricek UTA 04/01/2005 UTA vs. GSW L 35 17 5 14 35.7 1 3 33.3 6 6 100.0 1 3 4 7 0 1 1 5 -8
+p112
+aVKeith McLeod UTA 04/01/2005 UTA vs. GSW L 29 6 2 6 33.3 0 0 - 2 4 50.0 0 0 0 1 4 0 0 2 -5
+p113
+aVKris Humphries UTA 04/01/2005 UTA vs. GSW L 18 8 4 5 80.0 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -5
+p114
+aVMehmet Okur UTA 03/30/2005 UTA vs. DEN L 39 23 10 15 66.7 0 2 0.0 3 5 60.0 7 10 17 3 0 1 4 5 -13
+p115
+aVRandy Livingston UTA 03/30/2005 UTA vs. DEN L 29 10 3 5 60.0 2 2 100.0 2 2 100.0 0 0 0 3 2 0 2 3 -5
+p116
+aVKeith McLeod UTA 03/30/2005 UTA vs. DEN L 26 3 1 11 9.1 0 3 0.0 1 2 50.0 0 1 1 1 2 0 3 4 -10
+p117
+aVCurtis Borchardt UTA 03/30/2005 UTA vs. DEN L 23 12 6 9 66.7 0 0 - 0 2 0.0 2 2 4 2 0 0 2 2 -6
+p118
+aVBen Handlogten UTA 03/30/2005 UTA vs. DEN L 10 11 4 4 100.0 0 0 - 3 4 75.0 0 2 2 0 0 0 0 3 3
+p119
+aVMatt Harpring UTA 03/30/2005 UTA vs. DEN L 34 16 8 17 47.1 0 0 - 0 0 - 1 4 5 3 2 0 0 3 -17
+p120
+aVGordan Giricek UTA 03/30/2005 UTA vs. DEN L 22 11 5 10 50.0 0 1 0.0 1 3 33.3 0 0 0 6 1 0 1 1 -8
+p121
+aVHoward Eisley UTA 03/30/2005 UTA vs. DEN L 19 1 0 3 0.0 0 2 0.0 1 1 100.0 0 0 0 0 0 0 1 4 1
+p122
+aVJarron Collins UTA 03/30/2005 UTA vs. DEN L 25 6 1 3 33.3 0 0 - 4 4 100.0 1 1 2 3 0 1 1 4 -5
+p123
+aVKris Humphries UTA 03/30/2005 UTA vs. DEN L 13 5 2 4 50.0 0 1 0.0 1 2 50.0 1 4 5 1 0 0 1 2 5
+p124
+aVKeith McLeod UTA 03/28/2005 UTA vs. HOU L 32 4 0 5 0.0 0 1 0.0 4 4 100.0 0 0 0 9 2 0 3 3 5
+p125
+aVHoward Eisley UTA 03/28/2005 UTA vs. HOU L 16 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 4 0 0 1 2 -19
+p126
+aVMatt Harpring UTA 03/28/2005 UTA vs. HOU L 37 18 8 12 66.7 0 0 - 2 2 100.0 1 8 9 1 0 0 1 4 -8
+p127
+aVRaja Bell UTA 03/28/2005 UTA vs. HOU L 26 7 3 10 30.0 0 3 0.0 1 1 100.0 1 2 3 1 0 1 2 3 -23
+p128
+aVKris Humphries UTA 03/28/2005 UTA vs. HOU L 18 6 3 6 50.0 0 0 - 0 2 0.0 1 3 4 1 1 0 3 1 1
+p129
+aVJarron Collins UTA 03/28/2005 UTA vs. HOU L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -3
+p130
+aVGordan Giricek UTA 03/28/2005 UTA vs. HOU L 20 4 2 7 28.6 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -14
+p131
+aVBen Handlogten UTA 03/28/2005 UTA vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 2 0
+p132
+aVMehmet Okur UTA 03/28/2005 UTA vs. HOU L 37 25 8 12 66.7 0 1 0.0 9 10 90.0 3 3 6 0 2 0 3 2 1
+p133
+aVCurtis Borchardt UTA 03/28/2005 UTA vs. HOU L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p134
+aVKirk Snyder UTA 03/28/2005 UTA vs. HOU L 30 12 5 11 45.5 0 2 0.0 2 3 66.7 1 3 4 2 0 2 3 5 0
+p135
+aVJarron Collins UTA 03/26/2005 UTA vs. MIL W 17 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 2 9
+p136
+aVHoward Eisley UTA 03/26/2005 UTA vs. MIL W 16 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 4 1 -1
+p137
+aVKris Humphries UTA 03/26/2005 UTA vs. MIL W 28 17 7 9 77.8 0 0 - 3 7 42.9 2 2 4 1 1 0 2 3 0
+p138
+aVMatt Harpring UTA 03/26/2005 UTA vs. MIL W 30 12 5 8 62.5 0 0 - 2 3 66.7 1 5 6 1 1 0 0 3 1
+p139
+aVKeith McLeod UTA 03/26/2005 UTA vs. MIL W 31 6 1 10 10.0 0 3 0.0 4 6 66.7 2 1 3 5 2 0 2 2 6
+p140
+aVCurtis Borchardt UTA 03/26/2005 UTA vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p141
+aVGordan Giricek UTA 03/26/2005 UTA vs. MIL W 22 13 4 7 57.1 2 3 66.7 3 3 100.0 0 2 2 4 1 0 2 3 2
+p142
+aVMehmet Okur UTA 03/26/2005 UTA vs. MIL W 28 9 3 8 37.5 0 0 - 3 4 75.0 1 7 8 0 1 1 2 3 -4
+p143
+aVRaja Bell UTA 03/26/2005 UTA vs. MIL W 33 23 8 17 47.1 2 3 66.7 5 6 83.3 1 2 3 5 0 0 1 3 -1
+p144
+aVBen Handlogten UTA 03/26/2005 UTA vs. MIL W 20 7 3 4 75.0 0 0 - 1 1 100.0 0 3 3 1 0 0 1 3 4
+p145
+aVKirk Snyder UTA 03/26/2005 UTA vs. MIL W 12 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 1 2 1 2 9
+p146
+aVGordan Giricek UTA 03/24/2005 UTA vs. WAS L 31 11 4 12 33.3 1 2 50.0 2 2 100.0 1 4 5 4 1 1 3 2 2
+p147
+aVBen Handlogten UTA 03/24/2005 UTA vs. WAS L 20 2 1 7 14.3 0 0 - 0 0 - 2 3 5 0 0 1 2 3 -3
+p148
+aVKirk Snyder UTA 03/24/2005 UTA vs. WAS L 15 9 4 7 57.1 1 2 50.0 0 0 - 2 0 2 2 0 1 0 1 0
+p149
+aVMatt Harpring UTA 03/24/2005 UTA vs. WAS L 43 18 8 15 53.3 0 0 - 2 2 100.0 0 4 4 6 1 0 0 5 -1
+p150
+aVMehmet Okur UTA 03/24/2005 UTA vs. WAS L 26 5 2 8 25.0 0 1 0.0 1 1 100.0 5 3 8 1 0 3 2 4 4
+p151
+aVKeith McLeod UTA 03/24/2005 UTA vs. WAS L 32 13 5 10 50.0 1 2 50.0 2 2 100.0 0 2 2 4 3 1 3 2 -5
+p152
+aVCurtis Borchardt UTA 03/24/2005 UTA vs. WAS L 11 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 0 3 5 0
+p153
+aVHoward Eisley UTA 03/24/2005 UTA vs. WAS L 16 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 4 0 0 1 2 4
+p154
+aVRaja Bell UTA 03/24/2005 UTA vs. WAS L 35 10 5 9 55.6 0 0 - 0 0 - 1 9 10 3 1 0 1 2 0
+p155
+aVAndrei Kirilenko UTA 03/24/2005 UTA vs. WAS L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 1
+p156
+aVKris Humphries UTA 03/24/2005 UTA vs. WAS L 8 4 1 4 25.0 0 0 - 2 4 50.0 0 0 0 0 0 1 1 2 -7
+p157
+aVMatt Harpring UTA 03/22/2005 UTA vs. LAL W 37 23 10 12 83.3 0 0 - 3 3 100.0 3 5 8 5 0 0 5 4 17
+p158
+aVCurtis Borchardt UTA 03/22/2005 UTA vs. LAL W 12 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 1 1 -10
+p159
+aVAndrei Kirilenko UTA 03/22/2005 UTA vs. LAL W 41 18 6 8 75.0 1 1 100.0 5 6 83.3 1 0 1 5 4 5 2 3 5
+p160
+aVMehmet Okur UTA 03/22/2005 UTA vs. LAL W 39 27 7 8 87.5 2 2 100.0 11 12 91.7 2 14 16 5 0 0 3 1 10
+p161
+aVGordan Giricek UTA 03/22/2005 UTA vs. LAL W 35 22 9 21 42.9 2 6 33.3 2 2 100.0 0 2 2 2 2 0 1 5 20
+p162
+aVKris Humphries UTA 03/22/2005 UTA vs. LAL W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p163
+aVHoward Eisley UTA 03/22/2005 UTA vs. LAL W 19 8 3 4 75.0 2 2 100.0 0 0 - 1 2 3 1 0 0 2 0 1
+p164
+aVBen Handlogten UTA 03/22/2005 UTA vs. LAL W 12 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 6 4
+p165
+aVKeith McLeod UTA 03/22/2005 UTA vs. LAL W 29 9 3 7 42.9 0 2 0.0 3 4 75.0 2 0 2 6 1 0 0 1 7
+p166
+aVKirk Snyder UTA 03/22/2005 UTA vs. LAL W 13 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 2 -12
+p167
+aVMehmet Okur UTA 03/19/2005 UTA @ WAS L 29 5 1 4 25.0 0 0 - 3 4 75.0 0 7 7 7 0 1 4 3 5
+p168
+aVKeith McLeod UTA 03/19/2005 UTA @ WAS L 20 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 0 0 0 1 0 -12
+p169
+aVRaja Bell UTA 03/19/2005 UTA @ WAS L 33 16 7 10 70.0 0 0 - 2 2 100.0 0 4 4 4 1 0 0 6 -10
+p170
+aVBen Handlogten UTA 03/19/2005 UTA @ WAS L 19 5 2 4 50.0 0 0 - 1 1 100.0 1 4 5 1 0 0 1 4 -6
+p171
+aVMatt Harpring UTA 03/19/2005 UTA @ WAS L 37 15 6 14 42.9 0 2 0.0 3 4 75.0 2 3 5 1 1 1 2 4 9
+p172
+aVHoward Eisley UTA 03/19/2005 UTA @ WAS L 28 7 2 4 50.0 0 1 0.0 3 4 75.0 0 0 0 6 3 0 1 2 11
+p173
+aVKris Humphries UTA 03/19/2005 UTA @ WAS L 11 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 2 0 1 0 -9
+p174
+aVAndrei Kirilenko UTA 03/19/2005 UTA @ WAS L 43 28 7 12 58.3 1 3 33.3 13 17 76.5 1 6 7 6 3 5 3 2 1
+p175
+aVGordan Giricek UTA 03/19/2005 UTA @ WAS L 20 12 5 6 83.3 0 1 0.0 2 4 50.0 0 0 0 2 1 0 2 3 6
+p176
+aVAndrei Kirilenko UTA 03/18/2005 UTA @ NJN L 35 15 5 9 55.6 0 2 0.0 5 8 62.5 0 1 1 3 1 4 1 1 -9
+p177
+aVRandy Livingston UTA 03/18/2005 UTA @ NJN L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 1 2 1 4
+p178
+aVKris Humphries UTA 03/18/2005 UTA @ NJN L 17 4 2 4 50.0 0 0 - 0 0 - 3 2 5 2 0 0 2 2 -7
+p179
+aVMehmet Okur UTA 03/18/2005 UTA @ NJN L 17 12 5 7 71.4 1 1 100.0 1 1 100.0 3 1 4 1 0 0 4 2 -5
+p180
+aVCurtis Borchardt UTA 03/18/2005 UTA @ NJN L 21 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 0 1 0 1 5 -9
+p181
+aVHoward Eisley UTA 03/18/2005 UTA @ NJN L 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 5 0 0 0 2 6
+p182
+aVBen Handlogten UTA 03/18/2005 UTA @ NJN L 21 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 -9
+p183
+aVKirk Snyder UTA 03/18/2005 UTA @ NJN L 23 12 4 8 50.0 0 1 0.0 4 5 80.0 0 1 1 1 1 0 1 3 3
+p184
+aVRaja Bell UTA 03/18/2005 UTA @ NJN L 14 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -10
+p185
+aVGordan Giricek UTA 03/18/2005 UTA @ NJN L 15 0 0 5 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -2
+p186
+aVMatt Harpring UTA 03/18/2005 UTA @ NJN L 29 14 5 8 62.5 0 1 0.0 4 4 100.0 0 4 4 2 1 0 4 3 -8
+p187
+aVKeith McLeod UTA 03/18/2005 UTA @ NJN L 19 7 3 6 50.0 1 1 100.0 0 0 - 2 0 2 4 2 0 2 2 -24
+p188
+aVMehmet Okur UTA 03/16/2005 UTA @ IND L 29 16 6 9 66.7 0 0 - 4 6 66.7 0 1 1 2 1 0 3 3 -11
+p189
+aVCurtis Borchardt UTA 03/16/2005 UTA @ IND L 13 1 0 1 0.0 0 0 - 1 4 25.0 0 1 1 1 1 0 1 3 -14
+p190
+aVRandy Livingston UTA 03/16/2005 UTA @ IND L 15 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 4 1 0 0 4 1
+p191
+aVBen Handlogten UTA 03/16/2005 UTA @ IND L 12 4 2 2 100.0 0 0 - 0 2 0.0 1 2 3 1 1 0 1 3 9
+p192
+aVAndrei Kirilenko UTA 03/16/2005 UTA @ IND L 35 15 6 10 60.0 1 2 50.0 2 3 66.7 2 5 7 2 2 2 2 1 -18
+p193
+aVRaja Bell UTA 03/16/2005 UTA @ IND L 23 8 3 7 42.9 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 3 -19
+p194
+aVMatt Harpring UTA 03/16/2005 UTA @ IND L 30 8 3 8 37.5 0 1 0.0 2 2 100.0 0 3 3 0 0 0 2 3 -19
+p195
+aVKirk Snyder UTA 03/16/2005 UTA @ IND L 8 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 0 0 0 1 3
+p196
+aVKris Humphries UTA 03/16/2005 UTA @ IND L 17 3 1 5 20.0 0 0 - 1 2 50.0 1 4 5 1 0 0 0 2 -7
+p197
+aVGordan Giricek UTA 03/16/2005 UTA @ IND L 25 12 4 7 57.1 0 1 0.0 4 5 80.0 0 1 1 1 0 0 0 1 0
+p198
+aVKeith McLeod UTA 03/16/2005 UTA @ IND L 20 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 4 0 1 1 1 -19
+p199
+aVHoward Eisley UTA 03/16/2005 UTA @ IND L 13 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 2 0 0 1 2 -1
+p200
+aVMehmet Okur UTA 03/15/2005 UTA @ CLE L 27 7 3 9 33.3 0 0 - 1 2 50.0 2 5 7 1 1 2 1 1 -29
+p201
+aVMatt Harpring UTA 03/15/2005 UTA @ CLE L 25 6 2 11 18.2 0 0 - 2 4 50.0 1 1 2 0 0 0 1 3 -10
+p202
+aVCurtis Borchardt UTA 03/15/2005 UTA @ CLE L 12 4 2 4 50.0 0 0 - 0 0 - 2 2 4 2 0 0 0 5 5
+p203
+aVKeith McLeod UTA 03/15/2005 UTA @ CLE L 29 9 2 8 25.0 1 3 33.3 4 4 100.0 0 2 2 2 2 0 1 2 -10
+p204
+aVRaja Bell UTA 03/15/2005 UTA @ CLE L 30 6 2 7 28.6 0 0 - 2 4 50.0 1 2 3 0 0 0 0 3 -13
+p205
+aVHoward Eisley UTA 03/15/2005 UTA @ CLE L 12 7 2 6 33.3 1 2 50.0 2 2 100.0 0 0 0 1 1 0 3 1 -10
+p206
+aVKris Humphries UTA 03/15/2005 UTA @ CLE L 22 10 3 7 42.9 0 0 - 4 8 50.0 2 4 6 0 1 1 0 1 -8
+p207
+aVGordan Giricek UTA 03/15/2005 UTA @ CLE L 18 6 3 5 60.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 -6
+p208
+aVRandy Livingston UTA 03/15/2005 UTA @ CLE L 7 0 0 2 0.0 0 0 - 0 0 - 2 0 2 2 0 0 1 1 1
+p209
+aVKirk Snyder UTA 03/15/2005 UTA @ CLE L 13 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 4
+p210
+aVAndrei Kirilenko UTA 03/15/2005 UTA @ CLE L 29 14 6 13 46.2 0 1 0.0 2 2 100.0 5 4 9 3 1 4 1 3 -14
+p211
+aVBen Handlogten UTA 03/15/2005 UTA @ CLE L 16 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 0 1 2 5 -5
+p212
+aVMehmet Okur UTA 03/13/2005 UTA @ DET L 36 7 2 9 22.2 0 0 - 3 4 75.0 3 8 11 3 1 2 1 3 4
+p213
+aVMatt Harpring UTA 03/13/2005 UTA @ DET L 39 10 5 14 35.7 0 0 - 0 0 - 1 6 7 2 0 0 0 3 -2
+p214
+aVKeith McLeod UTA 03/13/2005 UTA @ DET L 29 4 0 6 0.0 0 2 0.0 4 5 80.0 0 0 0 4 0 0 1 2 -10
+p215
+aVHoward Eisley UTA 03/13/2005 UTA @ DET L 19 4 1 6 16.7 0 0 - 2 2 100.0 0 2 2 3 1 0 3 2 8
+p216
+aVRaja Bell UTA 03/13/2005 UTA @ DET L 37 6 3 9 33.3 0 1 0.0 0 0 - 0 6 6 2 1 0 2 5 -2
+p217
+aVCurtis Borchardt UTA 03/13/2005 UTA @ DET L 12 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -6
+p218
+aVGordan Giricek UTA 03/13/2005 UTA @ DET L 11 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 0
+p219
+aVKris Humphries UTA 03/13/2005 UTA @ DET L 12 4 2 4 50.0 0 0 - 0 2 0.0 1 3 4 1 0 0 1 1 -1
+p220
+aVAndrei Kirilenko UTA 03/13/2005 UTA @ DET L 45 27 11 19 57.9 1 2 50.0 4 4 100.0 6 8 14 3 3 5 7 1 -1
+p221
+aVCurtis Borchardt UTA 03/11/2005 UTA vs. MEM L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 2 1 0 -2
+p222
+aVRaja Bell UTA 03/11/2005 UTA vs. MEM L 36 13 4 14 28.6 2 5 40.0 3 3 100.0 2 1 3 2 0 0 3 1 -5
+p223
+aVKeith McLeod UTA 03/11/2005 UTA vs. MEM L 34 8 4 10 40.0 0 1 0.0 0 0 - 1 1 2 4 1 0 1 2 -9
+p224
+aVAndrei Kirilenko UTA 03/11/2005 UTA vs. MEM L 40 25 7 15 46.7 1 5 20.0 10 11 90.9 5 8 13 5 4 3 4 2 -10
+p225
+aVBen Handlogten UTA 03/11/2005 UTA vs. MEM L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 2 0 0 2 -1
+p226
+aVMatt Harpring UTA 03/11/2005 UTA vs. MEM L 35 13 4 7 57.1 0 0 - 5 5 100.0 1 2 3 1 1 0 1 4 -13
+p227
+aVMehmet Okur UTA 03/11/2005 UTA vs. MEM L 33 14 5 14 35.7 0 1 0.0 4 6 66.7 2 3 5 2 1 1 2 5 -12
+p228
+aVRandy Livingston UTA 03/11/2005 UTA vs. MEM L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -8
+p229
+aVKirk Snyder UTA 03/11/2005 UTA vs. MEM L 9 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 1 2 -3
+p230
+aVKris Humphries UTA 03/11/2005 UTA vs. MEM L 13 0 0 4 0.0 0 0 - 0 0 - 1 2 3 2 2 0 2 1 6
+p231
+aVHoward Eisley UTA 03/11/2005 UTA vs. MEM L 14 6 2 4 50.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 1 2 -3
+p232
+aVCurtis Borchardt UTA 03/08/2005 UTA vs. IND L 15 0 0 1 0.0 0 0 - 0 0 - 2 3 5 1 0 1 1 3 -12
+p233
+aVMehmet Okur UTA 03/08/2005 UTA vs. IND L 34 18 5 11 45.5 0 0 - 8 10 80.0 6 6 12 3 1 1 0 4 7
+p234
+aVKris Humphries UTA 03/08/2005 UTA vs. IND L 11 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 1 0 1 -2
+p235
+aVKirk Snyder UTA 03/08/2005 UTA vs. IND L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 3
+p236
+aVMatt Harpring UTA 03/08/2005 UTA vs. IND L 33 18 5 11 45.5 1 1 100.0 7 8 87.5 4 3 7 2 0 1 1 3 -4
+p237
+aVHoward Eisley UTA 03/08/2005 UTA vs. IND L 12 2 0 0 - 0 0 - 2 2 100.0 0 0 0 3 2 0 1 1 4
+p238
+aVKeith McLeod UTA 03/08/2005 UTA vs. IND L 36 11 3 16 18.8 2 6 33.3 3 5 60.0 1 3 4 6 1 0 2 3 -10
+p239
+aVGordan Giricek UTA 03/08/2005 UTA vs. IND L 22 8 4 9 44.4 0 0 - 0 0 - 0 0 0 1 0 0 0 0 15
+p240
+aVAndrei Kirilenko UTA 03/08/2005 UTA vs. IND L 37 16 7 14 50.0 2 5 40.0 0 0 - 1 5 6 1 3 1 2 3 -15
+p241
+aVRaja Bell UTA 03/08/2005 UTA vs. IND L 31 7 2 9 22.2 0 1 0.0 3 5 60.0 1 1 2 0 0 0 2 3 -16
+p242
+aVMatt Harpring UTA 03/06/2005 UTA @ SAS L 36 12 5 11 45.5 0 0 - 2 3 66.7 4 2 6 2 1 0 0 4 1
+p243
+aVMehmet Okur UTA 03/06/2005 UTA @ SAS L 30 14 6 11 54.5 0 1 0.0 2 2 100.0 1 6 7 2 0 1 1 2 -6
+p244
+aVKirk Snyder UTA 03/06/2005 UTA @ SAS L 15 5 1 5 20.0 0 1 0.0 3 3 100.0 1 1 2 0 1 0 2 2 -2
+p245
+aVRaja Bell UTA 03/06/2005 UTA @ SAS L 34 17 6 9 66.7 2 2 100.0 3 4 75.0 1 7 8 1 1 0 0 6 -5
+p246
+aVKeith McLeod UTA 03/06/2005 UTA @ SAS L 37 18 7 15 46.7 1 4 25.0 3 4 75.0 1 3 4 8 2 0 3 3 9
+p247
+aVGordan Giricek UTA 03/06/2005 UTA @ SAS L 9 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -14
+p248
+aVCurtis Borchardt UTA 03/06/2005 UTA @ SAS L 18 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 2 1 6 -1
+p249
+aVHoward Eisley UTA 03/06/2005 UTA @ SAS L 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -16
+p250
+aVAndrei Kirilenko UTA 03/06/2005 UTA @ SAS L 37 16 6 14 42.9 3 5 60.0 1 4 25.0 3 3 6 3 1 3 5 3 0
+p251
+aVKris Humphries UTA 03/06/2005 UTA @ SAS L 14 4 2 5 40.0 0 0 - 0 2 0.0 0 4 4 0 0 2 0 0 -1
+p252
+aVKirk Snyder UTA 03/04/2005 UTA @ NOH L 12 3 1 6 16.7 0 1 0.0 1 2 50.0 2 2 4 1 1 0 0 2 3
+p253
+aVMehmet Okur UTA 03/04/2005 UTA @ NOH L 18 4 2 8 25.0 0 1 0.0 0 0 - 1 6 7 0 0 0 5 4 -8
+p254
+aVRandy Livingston UTA 03/04/2005 UTA @ NOH L 6 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 6
+p255
+aVRaja Bell UTA 03/04/2005 UTA @ NOH L 30 19 8 15 53.3 1 2 50.0 2 2 100.0 1 3 4 0 2 0 1 2 -3
+p256
+aVGordan Giricek UTA 03/04/2005 UTA @ NOH L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p257
+aVJarron Collins UTA 03/04/2005 UTA @ NOH L 11 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 1 4
+p258
+aVKris Humphries UTA 03/04/2005 UTA @ NOH L 14 2 1 6 16.7 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -9
+p259
+aVMatt Harpring UTA 03/04/2005 UTA @ NOH L 38 18 5 14 35.7 0 2 0.0 8 9 88.9 2 3 5 1 3 0 1 1 4
+p260
+aVHoward Eisley UTA 03/04/2005 UTA @ NOH L 17 5 1 5 20.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 1 0 -8
+p261
+aVKeith McLeod UTA 03/04/2005 UTA @ NOH L 25 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 3 2 0 2 4 -5
+p262
+aVCurtis Borchardt UTA 03/04/2005 UTA @ NOH L 26 7 3 4 75.0 0 0 - 1 2 50.0 6 5 11 0 0 0 2 4 -4
+p263
+aVAndrei Kirilenko UTA 03/04/2005 UTA @ NOH L 37 21 5 15 33.3 0 3 0.0 11 15 73.3 3 5 8 2 0 5 1 5 -8
+p264
+aVKeith McLeod UTA 03/02/2005 UTA vs. ATL W 26 10 3 5 60.0 1 1 100.0 3 4 75.0 0 4 4 6 1 0 1 3 22
+p265
+aVHoward Eisley UTA 03/02/2005 UTA vs. ATL W 22 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 3 1 0 0 1 0
+p266
+aVAndrei Kirilenko UTA 03/02/2005 UTA vs. ATL W 39 14 5 10 50.0 0 1 0.0 4 4 100.0 3 4 7 6 0 2 1 2 20
+p267
+aVGordan Giricek UTA 03/02/2005 UTA vs. ATL W 13 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 2 1 -2
+p268
+aVMehmet Okur UTA 03/02/2005 UTA vs. ATL W 33 19 6 10 60.0 0 0 - 7 7 100.0 1 4 5 5 0 3 2 1 18
+p269
+aVKris Humphries UTA 03/02/2005 UTA vs. ATL W 21 5 1 3 33.3 0 0 - 3 8 37.5 1 2 3 1 1 2 1 2 9
+p270
+aVRaja Bell UTA 03/02/2005 UTA vs. ATL W 24 17 7 11 63.6 3 4 75.0 0 0 - 0 1 1 1 0 0 1 4 20
+p271
+aVJarron Collins UTA 03/02/2005 UTA vs. ATL W 18 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 3 9
+p272
+aVCurtis Borchardt UTA 03/02/2005 UTA vs. ATL W 8 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 0 0 3 2 4
+p273
+aVKirk Snyder UTA 03/02/2005 UTA vs. ATL W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 2 8
+p274
+aVMatt Harpring UTA 03/02/2005 UTA vs. ATL W 23 11 5 11 45.5 0 1 0.0 1 2 50.0 3 3 6 2 1 1 3 5 2
+p275
+aVAndrei Kirilenko UTA 02/28/2005 UTA vs. LAC W 36 11 3 9 33.3 1 3 33.3 4 4 100.0 1 2 3 6 4 2 1 2 10
+p276
+aVKris Humphries UTA 02/28/2005 UTA vs. LAC W 22 8 4 11 36.4 0 0 - 0 0 - 5 7 12 1 0 1 1 4 -12
+p277
+aVCurtis Borchardt UTA 02/28/2005 UTA vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 2
+p278
+aVMehmet Okur UTA 02/28/2005 UTA vs. LAC W 30 11 3 11 27.3 0 1 0.0 5 5 100.0 1 0 1 1 0 0 3 4 -8
+p279
+aVKeith McLeod UTA 02/28/2005 UTA vs. LAC W 35 18 3 11 27.3 0 1 0.0 12 14 85.7 0 4 4 8 1 1 2 2 0
+p280
+aVGordan Giricek UTA 02/28/2005 UTA vs. LAC W 12 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 0 1 0 1 1 0
+p281
+aVHoward Eisley UTA 02/28/2005 UTA vs. LAC W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p282
+aVRaja Bell UTA 02/28/2005 UTA vs. LAC W 29 14 6 8 75.0 0 0 - 2 2 100.0 1 4 5 1 1 0 3 3 2
+p283
+aVMatt Harpring UTA 02/28/2005 UTA vs. LAC W 29 10 5 9 55.6 0 0 - 0 0 - 1 6 7 1 0 0 2 1 0
+p284
+aVKirk Snyder UTA 02/28/2005 UTA vs. LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p285
+aVJarron Collins UTA 02/28/2005 UTA vs. LAC W 24 8 4 5 80.0 0 0 - 0 0 - 2 3 5 0 0 1 0 4 11
+p286
+aVCurtis Borchardt UTA 02/27/2005 UTA @ HOU W 8 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 1 5
+p287
+aVKirk Snyder UTA 02/27/2005 UTA @ HOU W 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 2 0 0 1 -1
+p288
+aVMehmet Okur UTA 02/27/2005 UTA @ HOU W 30 14 5 12 41.7 0 1 0.0 4 4 100.0 3 6 9 2 0 0 1 2 15
+p289
+aVJarron Collins UTA 02/27/2005 UTA @ HOU W 11 2 1 4 25.0 0 0 - 0 0 - 2 0 2 5 0 0 0 3 -9
+p290
+aVHoward Eisley UTA 02/27/2005 UTA @ HOU W 29 5 2 8 25.0 1 4 25.0 0 0 - 1 5 6 8 2 0 2 2 15
+p291
+aVMatt Harpring UTA 02/27/2005 UTA @ HOU W 38 28 12 17 70.6 0 0 - 4 4 100.0 1 1 2 2 1 0 1 2 2
+p292
+aVKris Humphries UTA 02/27/2005 UTA @ HOU W 19 4 2 8 25.0 0 0 - 0 2 0.0 6 0 6 3 0 0 2 4 7
+p293
+aVKeith McLeod UTA 02/27/2005 UTA @ HOU W 19 5 1 1 100.0 0 0 - 3 3 100.0 0 3 3 4 1 0 2 5 -8
+p294
+aVAndrei Kirilenko UTA 02/27/2005 UTA @ HOU W 38 13 5 12 41.7 0 1 0.0 3 3 100.0 1 3 4 5 0 2 2 2 1
+p295
+aVRaja Bell UTA 02/27/2005 UTA @ HOU W 35 21 9 15 60.0 3 3 100.0 0 0 - 2 1 3 2 1 0 1 2 3
+p296
+aVGordan Giricek UTA 02/27/2005 UTA @ HOU W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 5
+p297
+aVKeith McLeod UTA 02/25/2005 UTA vs. BOS L 31 14 4 9 44.4 3 5 60.0 3 7 42.9 0 5 5 3 0 1 4 4 3
+p298
+aVMatt Harpring UTA 02/25/2005 UTA vs. BOS L 31 18 6 8 75.0 0 0 - 6 6 100.0 1 7 8 2 1 1 4 3 4
+p299
+aVAndrei Kirilenko UTA 02/25/2005 UTA vs. BOS L 34 29 7 13 53.8 1 2 50.0 14 15 93.3 3 2 5 1 2 2 0 3 -2
+p300
+aVGordan Giricek UTA 02/25/2005 UTA vs. BOS L 13 5 2 6 33.3 0 0 - 1 1 100.0 0 0 0 1 0 0 0 3 -6
+p301
+aVKirk Snyder UTA 02/25/2005 UTA vs. BOS L 13 1 0 6 0.0 0 2 0.0 1 2 50.0 1 1 2 1 1 0 1 2 -7
+p302
+aVJarron Collins UTA 02/25/2005 UTA vs. BOS L 22 8 4 7 57.1 0 0 - 0 0 - 0 2 2 3 0 0 0 3 0
+p303
+aVRaja Bell UTA 02/25/2005 UTA vs. BOS L 28 8 2 7 28.6 1 2 50.0 3 5 60.0 0 0 0 2 1 0 2 4 -1
+p304
+aVHoward Eisley UTA 02/25/2005 UTA vs. BOS L 17 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 5 0 0 2 4 -10
+p305
+aVCurtis Borchardt UTA 02/25/2005 UTA vs. BOS L 17 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 1 4 3 -8
+p306
+aVKris Humphries UTA 02/25/2005 UTA vs. BOS L 16 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 1 1 0 2 -7
+p307
+aVMehmet Okur UTA 02/25/2005 UTA vs. BOS L 18 10 2 3 66.7 1 1 100.0 5 6 83.3 1 3 4 2 2 0 0 2 -1
+p308
+aVKris Humphries UTA 02/23/2005 UTA vs. DAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p309
+aVKirk Snyder UTA 02/23/2005 UTA vs. DAL L 15 5 2 4 50.0 0 2 0.0 1 1 100.0 1 2 3 0 0 1 1 0 0
+p310
+aVHoward Eisley UTA 02/23/2005 UTA vs. DAL L 30 12 2 10 20.0 0 4 0.0 8 8 100.0 0 2 2 3 1 0 2 2 -9
+p311
+aVGordan Giricek UTA 02/23/2005 UTA vs. DAL L 14 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 0 0 1 1 2 -4
+p312
+aVMatt Harpring UTA 02/23/2005 UTA vs. DAL L 35 9 1 6 16.7 0 0 - 7 8 87.5 1 4 5 2 2 1 2 2 -19
+p313
+aVRaja Bell UTA 02/23/2005 UTA vs. DAL L 34 16 5 15 33.3 0 1 0.0 6 8 75.0 2 6 8 1 1 0 2 2 -14
+p314
+aVJarron Collins UTA 02/23/2005 UTA vs. DAL L 15 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -22
+p315
+aVMehmet Okur UTA 02/23/2005 UTA vs. DAL L 16 6 0 5 0.0 0 0 - 6 6 100.0 0 2 2 2 0 1 3 5 9
+p316
+aVAndrei Kirilenko UTA 02/23/2005 UTA vs. DAL L 36 12 3 12 25.0 0 3 0.0 6 6 100.0 4 2 6 2 2 1 2 3 -16
+p317
+aVCurtis Borchardt UTA 02/23/2005 UTA vs. DAL L 21 9 4 6 66.7 0 0 - 1 1 100.0 4 4 8 2 0 1 4 3 2
+p318
+aVKeith McLeod UTA 02/23/2005 UTA vs. DAL L 23 5 2 9 22.2 0 2 0.0 1 1 100.0 1 3 4 2 1 1 3 2 -16
+p319
+aVRaja Bell UTA 02/15/2005 UTA @ LAL L 27 16 5 12 41.7 0 1 0.0 6 7 85.7 2 4 6 2 1 0 3 5 -8
+p320
+aVRaul Lopez UTA 02/15/2005 UTA @ LAL L 12 7 1 1 100.0 1 1 100.0 4 4 100.0 0 1 1 1 0 0 1 1 2
+p321
+aVCurtis Borchardt UTA 02/15/2005 UTA @ LAL L 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 0 3 13
+p322
+aVMatt Harpring UTA 02/15/2005 UTA @ LAL L 38 18 7 16 43.8 0 0 - 4 4 100.0 1 5 6 2 0 0 1 2 -15
+p323
+aVHoward Eisley UTA 02/15/2005 UTA @ LAL L 33 14 5 11 45.5 1 2 50.0 3 3 100.0 1 1 2 9 2 0 3 5 -11
+p324
+aVKris Humphries UTA 02/15/2005 UTA @ LAL L 14 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p325
+aVJarron Collins UTA 02/15/2005 UTA @ LAL L 31 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 2 0 0 1 5 -20
+p326
+aVGordan Giricek UTA 02/15/2005 UTA @ LAL L 21 9 4 9 44.4 0 0 - 1 2 50.0 0 5 5 1 0 0 1 5 10
+p327
+aVMehmet Okur UTA 02/15/2005 UTA @ LAL L 34 20 9 15 60.0 0 1 0.0 2 2 100.0 3 5 8 2 1 2 1 1 -4
+p328
+aVKirk Snyder UTA 02/15/2005 UTA @ LAL L 12 5 1 5 20.0 1 1 100.0 2 2 100.0 1 2 3 1 0 0 0 1 1
+p329
+aVMatt Harpring UTA 02/14/2005 UTA @ PHX L 24 16 7 11 63.6 0 1 0.0 2 3 66.7 6 4 10 0 0 0 1 6 0
+p330
+aVKirk Snyder UTA 02/14/2005 UTA @ PHX L 14 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 0 1 1 1 2 -19
+p331
+aVKris Humphries UTA 02/14/2005 UTA @ PHX L 12 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 3 -17
+p332
+aVAndrei Kirilenko UTA 02/14/2005 UTA @ PHX L 16 11 4 5 80.0 2 2 100.0 1 2 50.0 0 2 2 4 1 1 1 0 10
+p333
+aVCarlos Boozer UTA 02/14/2005 UTA @ PHX L 21 14 6 11 54.5 0 0 - 2 6 33.3 2 7 9 2 0 0 3 1 4
+p334
+aVRaja Bell UTA 02/14/2005 UTA @ PHX L 39 22 7 12 58.3 0 2 0.0 8 10 80.0 2 3 5 2 0 0 1 3 -11
+p335
+aVCurtis Borchardt UTA 02/14/2005 UTA @ PHX L 7 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -17
+p336
+aVHoward Eisley UTA 02/14/2005 UTA @ PHX L 37 20 9 15 60.0 0 2 0.0 2 4 50.0 2 2 4 11 1 0 4 6 -8
+p337
+aVJarron Collins UTA 02/14/2005 UTA @ PHX L 17 7 1 1 100.0 0 0 - 5 8 62.5 1 2 3 1 0 0 0 2 6
+p338
+aVRaul Lopez UTA 02/14/2005 UTA @ PHX L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 0 0 4 0
+p339
+aVGordan Giricek UTA 02/14/2005 UTA @ PHX L 24 9 4 8 50.0 0 1 0.0 1 4 25.0 1 4 5 2 1 0 0 2 7
+p340
+aVMehmet Okur UTA 02/14/2005 UTA @ PHX L 18 6 1 6 16.7 0 0 - 4 4 100.0 0 0 0 1 0 0 0 6 5
+p341
+aVGordan Giricek UTA 02/11/2005 UTA vs. MIN W 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -6
+p342
+aVRaul Lopez UTA 02/11/2005 UTA vs. MIN W 32 14 5 8 62.5 2 2 100.0 2 2 100.0 1 5 6 9 4 0 2 3 32
+p343
+aVRaja Bell UTA 02/11/2005 UTA vs. MIN W 36 18 6 16 37.5 2 4 50.0 4 4 100.0 1 1 2 3 0 0 0 4 24
+p344
+aVCarlos Boozer UTA 02/11/2005 UTA vs. MIN W 36 21 9 16 56.3 0 0 - 3 6 50.0 5 6 11 4 1 0 3 4 28
+p345
+aVHoward Eisley UTA 02/11/2005 UTA vs. MIN W 18 1 0 7 0.0 0 1 0.0 1 2 50.0 0 1 1 5 0 0 1 2 -14
+p346
+aVMatt Harpring UTA 02/11/2005 UTA vs. MIN W 22 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 0 0 2 0 -4
+p347
+aVJarron Collins UTA 02/11/2005 UTA vs. MIN W 11 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -5
+p348
+aVKirk Snyder UTA 02/11/2005 UTA vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p349
+aVMehmet Okur UTA 02/11/2005 UTA vs. MIN W 35 14 6 14 42.9 0 0 - 2 4 50.0 4 8 12 1 1 0 2 0 17
+p350
+aVCurtis Borchardt UTA 02/11/2005 UTA vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p351
+aVAndrei Kirilenko UTA 02/11/2005 UTA vs. MIN W 35 20 9 16 56.3 1 1 100.0 1 1 100.0 4 6 10 4 3 3 1 4 24
+p352
+aVMehmet Okur UTA 02/08/2005 UTA @ DEN L 38 21 6 13 46.2 0 0 - 9 10 90.0 3 7 10 2 0 2 3 2 1
+p353
+aVAndrei Kirilenko UTA 02/08/2005 UTA @ DEN L 23 8 1 7 14.3 0 2 0.0 6 6 100.0 0 4 4 4 1 3 2 3 -9
+p354
+aVRaja Bell UTA 02/08/2005 UTA @ DEN L 29 16 7 15 46.7 1 3 33.3 1 2 50.0 0 1 1 0 1 0 1 3 -8
+p355
+aVRaul Lopez UTA 02/08/2005 UTA @ DEN L 16 0 0 6 0.0 0 1 0.0 0 0 - 1 1 2 0 0 2 2 4 -11
+p356
+aVMatt Harpring UTA 02/08/2005 UTA @ DEN L 32 15 5 9 55.6 0 1 0.0 5 11 45.5 3 4 7 1 0 0 0 5 -11
+p357
+aVGordan Giricek UTA 02/08/2005 UTA @ DEN L 11 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 6
+p358
+aVJarron Collins UTA 02/08/2005 UTA @ DEN L 12 1 0 0 - 0 0 - 1 2 50.0 3 1 4 0 0 0 0 1 -9
+p359
+aVCarlos Boozer UTA 02/08/2005 UTA @ DEN L 19 4 2 8 25.0 0 0 - 0 0 - 1 5 6 1 1 1 2 4 -4
+p360
+aVKirk Snyder UTA 02/08/2005 UTA @ DEN L 8 6 2 6 33.3 2 3 66.7 0 0 - 1 1 2 0 0 0 0 1 -8
+p361
+aVKris Humphries UTA 02/08/2005 UTA @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p362
+aVCurtis Borchardt UTA 02/08/2005 UTA @ DEN L 19 2 1 5 20.0 0 0 - 0 0 - 3 4 7 3 0 2 0 2 1
+p363
+aVHoward Eisley UTA 02/08/2005 UTA @ DEN L 32 6 2 7 28.6 0 2 0.0 2 3 66.7 0 2 2 8 1 1 2 2 1
+p364
+aVCurtis Borchardt UTA 02/07/2005 UTA vs. NYK L 11 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 2 -3
+p365
+aVRaja Bell UTA 02/07/2005 UTA vs. NYK L 26 16 7 10 70.0 0 2 0.0 2 4 50.0 0 1 1 3 0 0 0 2 -4
+p366
+aVHoward Eisley UTA 02/07/2005 UTA vs. NYK L 17 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 1 1 1 1 -8
+p367
+aVGordan Giricek UTA 02/07/2005 UTA vs. NYK L 8 7 2 2 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 0 10
+p368
+aVCarlos Boozer UTA 02/07/2005 UTA vs. NYK L 21 5 1 6 16.7 0 0 - 3 4 75.0 1 2 3 1 0 1 3 6 2
+p369
+aVMehmet Okur UTA 02/07/2005 UTA vs. NYK L 25 7 2 4 50.0 0 1 0.0 3 6 50.0 0 1 1 3 1 1 4 2 -12
+p370
+aVKirk Snyder UTA 02/07/2005 UTA vs. NYK L 19 13 4 9 44.4 1 2 50.0 4 4 100.0 2 2 4 0 0 1 2 3 -9
+p371
+aVRaul Lopez UTA 02/07/2005 UTA vs. NYK L 36 4 2 5 40.0 0 2 0.0 0 1 0.0 0 6 6 7 1 0 4 3 5
+p372
+aVKris Humphries UTA 02/07/2005 UTA vs. NYK L 4 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 0 2
+p373
+aVJarron Collins UTA 02/07/2005 UTA vs. NYK L 24 4 1 2 50.0 0 0 - 2 4 50.0 0 1 1 0 2 0 1 3 -9
+p374
+aVAndrei Kirilenko UTA 02/07/2005 UTA vs. NYK L 39 25 8 16 50.0 1 5 20.0 8 12 66.7 0 9 9 5 2 2 3 5 7
+p375
+aVMatt Harpring UTA 02/07/2005 UTA vs. NYK L 35 12 4 8 50.0 0 0 - 4 4 100.0 1 6 7 2 2 0 1 4 4
+p376
+aVCarlos Boozer UTA 02/05/2005 UTA vs. NOH W 30 18 8 10 80.0 0 0 - 2 2 100.0 0 5 5 3 2 1 1 1 18
+p377
+aVHoward Eisley UTA 02/05/2005 UTA vs. NOH W 21 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 1 0 0 0 4 4
+p378
+aVKris Humphries UTA 02/05/2005 UTA vs. NOH W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p379
+aVRaul Lopez UTA 02/05/2005 UTA vs. NOH W 27 10 3 8 37.5 2 5 40.0 2 2 100.0 0 4 4 7 1 0 2 3 12
+p380
+aVGordan Giricek UTA 02/05/2005 UTA vs. NOH W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p381
+aVJarron Collins UTA 02/05/2005 UTA vs. NOH W 19 1 0 0 - 0 0 - 1 2 50.0 0 5 5 3 1 0 1 2 0
+p382
+aVAndrei Kirilenko UTA 02/05/2005 UTA vs. NOH W 36 17 5 6 83.3 0 1 0.0 7 9 77.8 3 4 7 5 1 3 3 2 15
+p383
+aVKirk Snyder UTA 02/05/2005 UTA vs. NOH W 19 11 4 7 57.1 2 3 66.7 1 2 50.0 0 0 0 0 0 1 1 1 -1
+p384
+aVCurtis Borchardt UTA 02/05/2005 UTA vs. NOH W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -8
+p385
+aVRaja Bell UTA 02/05/2005 UTA vs. NOH W 21 16 5 10 50.0 1 3 33.3 5 6 83.3 0 0 0 2 2 1 0 3 28
+p386
+aVMehmet Okur UTA 02/05/2005 UTA vs. NOH W 20 10 4 10 40.0 0 0 - 2 4 50.0 3 2 5 1 0 1 0 2 6
+p387
+aVMatt Harpring UTA 02/05/2005 UTA vs. NOH W 28 17 3 6 50.0 0 0 - 11 12 91.7 2 5 7 2 2 0 3 3 21
+p388
+aVKirk Snyder UTA 02/01/2005 UTA vs. CHA L 14 13 3 6 50.0 1 2 50.0 6 6 100.0 0 1 1 0 1 0 1 2 0
+p389
+aVRaul Lopez UTA 02/01/2005 UTA vs. CHA L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 4 0 0 2 4 7
+p390
+aVCurtis Borchardt UTA 02/01/2005 UTA vs. CHA L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 8
+p391
+aVCarlos Boozer UTA 02/01/2005 UTA vs. CHA L 32 9 3 11 27.3 0 0 - 3 4 75.0 0 4 4 3 2 0 2 5 -15
+p392
+aVRaja Bell UTA 02/01/2005 UTA vs. CHA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -4
+p393
+aVGordan Giricek UTA 02/01/2005 UTA vs. CHA L 21 21 8 11 72.7 1 3 33.3 4 5 80.0 0 0 0 1 1 0 1 5 -6
+p394
+aVKris Humphries UTA 02/01/2005 UTA vs. CHA L 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p395
+aVJarron Collins UTA 02/01/2005 UTA vs. CHA L 20 7 3 4 75.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 4 5
+p396
+aVMatt Harpring UTA 02/01/2005 UTA vs. CHA L 18 3 0 6 0.0 0 0 - 3 6 50.0 3 1 4 1 2 1 2 3 -4
+p397
+aVHoward Eisley UTA 02/01/2005 UTA vs. CHA L 36 12 4 6 66.7 0 2 0.0 4 6 66.7 0 8 8 3 0 0 4 3 -11
+p398
+aVMehmet Okur UTA 02/01/2005 UTA vs. CHA L 29 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 3 0 0 2 2 -4
+p399
+aVAndrei Kirilenko UTA 02/01/2005 UTA vs. CHA L 39 27 6 16 37.5 1 3 33.3 14 16 87.5 2 4 6 10 1 3 2 2 5
+p400
+aVRaja Bell UTA 01/29/2005 UTA vs. NJN L 28 20 7 14 50.0 4 6 66.7 2 2 100.0 0 1 1 3 0 0 4 2 2
+p401
+aVHoward Eisley UTA 01/29/2005 UTA vs. NJN L 31 8 4 11 36.4 0 2 0.0 0 0 - 0 3 3 5 1 0 2 3 -6
+p402
+aVMehmet Okur UTA 01/29/2005 UTA vs. NJN L 17 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 1 0 0 0 2 -4
+p403
+aVMatt Harpring UTA 01/29/2005 UTA vs. NJN L 19 8 3 6 50.0 1 2 50.0 1 2 50.0 4 1 5 3 0 0 0 1 -5
+p404
+aVKris Humphries UTA 01/29/2005 UTA vs. NJN L 13 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 1 0 1 0 7
+p405
+aVJarron Collins UTA 01/29/2005 UTA vs. NJN L 15 6 3 7 42.9 0 0 - 0 0 - 1 2 3 2 0 0 0 1 -6
+p406
+aVAndrei Kirilenko UTA 01/29/2005 UTA vs. NJN L 33 7 2 7 28.6 0 1 0.0 3 4 75.0 2 1 3 1 1 1 2 3 -25
+p407
+aVGordan Giricek UTA 01/29/2005 UTA vs. NJN L 20 6 2 8 25.0 1 1 100.0 1 2 50.0 0 1 1 0 1 0 0 0 -19
+p408
+aVRaul Lopez UTA 01/29/2005 UTA vs. NJN L 17 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 2 0 0 1 4 -11
+p409
+aVCarlos Boozer UTA 01/29/2005 UTA vs. NJN L 33 8 4 12 33.3 0 0 - 0 0 - 3 5 8 1 0 0 5 4 -17
+p410
+aVCurtis Borchardt UTA 01/29/2005 UTA vs. NJN L 14 7 2 2 100.0 0 0 - 3 3 100.0 0 4 4 0 1 2 0 2 -1
+p411
+aVRaja Bell UTA 01/28/2005 UTA @ MIN L 28 7 3 10 30.0 1 1 100.0 0 0 - 0 2 2 2 2 1 0 2 -5
+p412
+aVGordan Giricek UTA 01/28/2005 UTA @ MIN L 15 9 4 7 57.1 0 2 0.0 1 1 100.0 0 3 3 1 0 0 2 2 1
+p413
+aVCurtis Borchardt UTA 01/28/2005 UTA @ MIN L 14 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 0 0 0 1 4 -3
+p414
+aVCarlos Boozer UTA 01/28/2005 UTA @ MIN L 21 10 5 9 55.6 0 0 - 0 0 - 1 5 6 2 1 0 4 5 6
+p415
+aVMatt Harpring UTA 01/28/2005 UTA @ MIN L 31 11 5 12 41.7 0 0 - 1 1 100.0 2 7 9 0 0 2 1 2 -10
+p416
+aVHoward Eisley UTA 01/28/2005 UTA @ MIN L 16 6 2 6 33.3 0 2 0.0 2 2 100.0 0 0 0 3 0 0 1 2 -6
+p417
+aVKris Humphries UTA 01/28/2005 UTA @ MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p418
+aVMehmet Okur UTA 01/28/2005 UTA @ MIN L 34 11 4 8 50.0 0 1 0.0 3 3 100.0 3 7 10 5 0 2 3 2 -2
+p419
+aVRaul Lopez UTA 01/28/2005 UTA @ MIN L 32 14 5 11 45.5 1 3 33.3 3 4 75.0 0 1 1 9 2 0 3 2 4
+p420
+aVAndrei Kirilenko UTA 01/28/2005 UTA @ MIN L 35 14 5 9 55.6 0 1 0.0 4 4 100.0 3 6 9 3 1 3 1 4 8
+p421
+aVJarron Collins UTA 01/28/2005 UTA @ MIN L 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 1 1 0
+p422
+aVCarlos Boozer UTA 01/26/2005 UTA vs. SEA W 30 14 7 9 77.8 0 0 - 0 0 - 3 4 7 0 0 0 0 4 2
+p423
+aVAndrei Kirilenko UTA 01/26/2005 UTA vs. SEA W 20 12 4 9 44.4 0 1 0.0 4 6 66.7 2 0 2 3 2 5 2 3 -7
+p424
+aVRaul Lopez UTA 01/26/2005 UTA vs. SEA W 38 20 6 10 60.0 2 4 50.0 6 6 100.0 2 3 5 11 3 0 2 4 8
+p425
+aVHoward Eisley UTA 01/26/2005 UTA vs. SEA W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 1
+p426
+aVCurtis Borchardt UTA 01/26/2005 UTA vs. SEA W 15 0 0 1 0.0 0 0 - 0 0 - 1 5 6 3 1 1 2 2 -1
+p427
+aVMatt Harpring UTA 01/26/2005 UTA vs. SEA W 41 17 6 12 50.0 0 0 - 5 6 83.3 2 3 5 3 1 1 3 3 18
+p428
+aVJarron Collins UTA 01/26/2005 UTA vs. SEA W 12 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 13
+p429
+aVRaja Bell UTA 01/26/2005 UTA vs. SEA W 33 18 6 16 37.5 2 5 40.0 4 4 100.0 0 2 2 1 1 0 1 2 9
+p430
+aVMehmet Okur UTA 01/26/2005 UTA vs. SEA W 25 17 6 9 66.7 0 1 0.0 5 5 100.0 3 4 7 2 0 0 1 2 2
+p431
+aVGordan Giricek UTA 01/26/2005 UTA vs. SEA W 16 10 3 8 37.5 2 2 100.0 2 2 100.0 0 0 0 3 0 0 1 3 0
+p432
+aVAndrei Kirilenko UTA 01/23/2005 UTA @ SEA L 14 14 4 6 66.7 0 0 - 6 7 85.7 2 1 3 2 3 2 4 1 1
+p433
+aVRaul Lopez UTA 01/23/2005 UTA @ SEA L 17 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 3 -16
+p434
+aVCurtis Borchardt UTA 01/23/2005 UTA @ SEA L 12 9 3 5 60.0 0 0 - 3 3 100.0 2 1 3 0 0 0 0 4 -8
+p435
+aVGordan Giricek UTA 01/23/2005 UTA @ SEA L 22 10 5 11 45.5 0 0 - 0 1 0.0 0 0 0 3 0 0 1 4 -5
+p436
+aVRaja Bell UTA 01/23/2005 UTA @ SEA L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 5 -17
+p437
+aVHoward Eisley UTA 01/23/2005 UTA @ SEA L 22 6 2 11 18.2 0 2 0.0 2 2 100.0 1 2 3 3 1 0 2 3 -10
+p438
+aVMatt Harpring UTA 01/23/2005 UTA @ SEA L 34 16 5 11 45.5 0 0 - 6 6 100.0 4 2 6 1 0 0 1 4 -18
+p439
+aVMehmet Okur UTA 01/23/2005 UTA @ SEA L 32 19 7 8 87.5 0 0 - 5 6 83.3 2 4 6 3 0 0 1 4 -10
+p440
+aVCarlos Boozer UTA 01/23/2005 UTA @ SEA L 39 20 8 15 53.3 0 0 - 4 7 57.1 5 7 12 4 1 0 3 5 0
+p441
+aVKeith McLeod UTA 01/23/2005 UTA @ SEA L 31 7 2 7 28.6 1 2 50.0 2 4 50.0 0 1 1 6 1 0 4 4 -1
+p442
+aVKris Humphries UTA 01/23/2005 UTA @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p443
+aVAndrei Kirilenko UTA 01/22/2005 UTA vs. MEM L 12 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 1 0 2 0 0 -9
+p444
+aVKris Humphries UTA 01/22/2005 UTA vs. MEM L 5 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 1
+p445
+aVRaja Bell UTA 01/22/2005 UTA vs. MEM L 26 10 3 8 37.5 1 2 50.0 3 6 50.0 0 4 4 1 2 0 1 5 -5
+p446
+aVKeith McLeod UTA 01/22/2005 UTA vs. MEM L 34 15 7 11 63.6 1 3 33.3 0 2 0.0 0 1 1 7 1 0 2 5 -3
+p447
+aVMehmet Okur UTA 01/22/2005 UTA vs. MEM L 25 22 6 10 60.0 1 1 100.0 9 10 90.0 3 2 5 0 0 0 1 3 -7
+p448
+aVMatt Harpring UTA 01/22/2005 UTA vs. MEM L 30 4 1 8 12.5 0 0 - 2 4 50.0 4 4 8 2 2 0 2 3 -4
+p449
+aVGordan Giricek UTA 01/22/2005 UTA vs. MEM L 32 15 7 17 41.2 1 4 25.0 0 3 0.0 2 2 4 3 2 0 1 0 -5
+p450
+aVCurtis Borchardt UTA 01/22/2005 UTA vs. MEM L 16 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 3 0 0 1 3 -6
+p451
+aVRaul Lopez UTA 01/22/2005 UTA vs. MEM L 13 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -12
+p452
+aVCarlos Boozer UTA 01/22/2005 UTA vs. MEM L 35 17 4 9 44.4 0 0 - 9 11 81.8 5 5 10 2 0 0 5 5 -16
+p453
+aVHoward Eisley UTA 01/22/2005 UTA vs. MEM L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 2 -14
+p454
+aVMehmet Okur UTA 01/17/2005 UTA @ LAL W 30 11 3 8 37.5 0 0 - 5 5 100.0 1 11 12 0 0 1 1 5 0
+p455
+aVCarlos Boozer UTA 01/17/2005 UTA @ LAL W 37 18 8 14 57.1 0 0 - 2 2 100.0 1 4 5 5 1 2 4 3 11
+p456
+aVCurtis Borchardt UTA 01/17/2005 UTA @ LAL W 21 5 2 3 66.7 0 0 - 1 1 100.0 1 4 5 2 0 1 2 4 11
+p457
+aVHoward Eisley UTA 01/17/2005 UTA @ LAL W 16 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -2
+p458
+aVKirk Snyder UTA 01/17/2005 UTA @ LAL W 6 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 3 -8
+p459
+aVRaul Lopez UTA 01/17/2005 UTA @ LAL W 25 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 9 1 1 1 1 16
+p460
+aVGordan Giricek UTA 01/17/2005 UTA @ LAL W 25 15 6 13 46.2 3 4 75.0 0 0 - 1 2 3 0 1 0 2 1 13
+p461
+aVRaja Bell UTA 01/17/2005 UTA @ LAL W 20 16 7 11 63.6 1 1 100.0 1 1 100.0 1 1 2 2 0 0 1 3 -1
+p462
+aVMatt Harpring UTA 01/17/2005 UTA @ LAL W 40 19 7 17 41.2 1 3 33.3 4 6 66.7 5 2 7 6 2 0 1 4 5
+p463
+aVKeith McLeod UTA 01/17/2005 UTA @ LAL W 21 0 0 6 0.0 0 3 0.0 0 0 - 0 3 3 4 1 0 0 2 -5
+p464
+aVRaul Lopez UTA 01/15/2005 UTA vs. CLE L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 5 0 0 1 2 -3
+p465
+aVCurtis Borchardt UTA 01/15/2005 UTA vs. CLE L 19 7 3 3 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 5 17
+p466
+aVMatt Harpring UTA 01/15/2005 UTA vs. CLE L 34 9 3 9 33.3 0 0 - 3 6 50.0 4 6 10 0 1 0 3 3 -17
+p467
+aVCarlos Boozer UTA 01/15/2005 UTA vs. CLE L 38 12 4 14 28.6 0 0 - 4 7 57.1 4 12 16 1 0 1 2 4 -15
+p468
+aVKris Humphries UTA 01/15/2005 UTA vs. CLE L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p469
+aVKeith McLeod UTA 01/15/2005 UTA vs. CLE L 24 7 3 6 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 4 3
+p470
+aVKirk Snyder UTA 01/15/2005 UTA vs. CLE L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -4
+p471
+aVMehmet Okur UTA 01/15/2005 UTA vs. CLE L 35 12 4 8 50.0 0 1 0.0 4 4 100.0 2 5 7 1 0 0 2 6 -21
+p472
+aVHoward Eisley UTA 01/15/2005 UTA vs. CLE L 20 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 4 0 0 3 1 -5
+p473
+aVGordan Giricek UTA 01/15/2005 UTA vs. CLE L 27 12 4 10 40.0 1 3 33.3 3 3 100.0 0 2 2 3 0 0 2 3 -8
+p474
+aVRaja Bell UTA 01/15/2005 UTA vs. CLE L 24 10 4 13 30.8 0 5 0.0 2 5 40.0 1 4 5 1 1 0 1 3 -8
+p475
+aVRaja Bell UTA 01/13/2005 UTA @ SAC L 21 11 5 11 45.5 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 -21
+p476
+aVKeith McLeod UTA 01/13/2005 UTA @ SAC L 29 7 3 10 30.0 0 1 0.0 1 2 50.0 1 0 1 4 2 0 4 0 -8
+p477
+aVKirk Snyder UTA 01/13/2005 UTA @ SAC L 14 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 3 -3
+p478
+aVRaul Lopez UTA 01/13/2005 UTA @ SAC L 18 10 3 5 60.0 2 3 66.7 2 3 66.7 0 0 0 2 0 0 1 2 -2
+p479
+aVCarlos Boozer UTA 01/13/2005 UTA @ SAC L 40 15 6 13 46.2 0 0 - 3 6 50.0 3 6 9 7 1 0 2 4 -7
+p480
+aVMatt Harpring UTA 01/13/2005 UTA @ SAC L 36 16 7 12 58.3 0 1 0.0 2 2 100.0 3 5 8 1 0 0 3 4 -1
+p481
+aVCurtis Borchardt UTA 01/13/2005 UTA @ SAC L 26 5 2 3 66.7 0 0 - 1 2 50.0 1 4 5 2 0 2 1 2 -10
+p482
+aVKris Humphries UTA 01/13/2005 UTA @ SAC L 4 2 1 2 50.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 2 -7
+p483
+aVGordan Giricek UTA 01/13/2005 UTA @ SAC L 18 9 3 7 42.9 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 1 3
+p484
+aVHoward Eisley UTA 01/13/2005 UTA @ SAC L 18 7 3 5 60.0 1 1 100.0 0 0 - 0 2 2 3 0 0 1 1 -5
+p485
+aVMehmet Okur UTA 01/13/2005 UTA @ SAC L 16 8 4 6 66.7 0 0 - 0 0 - 1 3 4 2 0 1 2 4 -9
+p486
+aVKeith McLeod UTA 01/12/2005 UTA vs. PHX W 29 10 4 13 30.8 0 2 0.0 2 3 66.7 0 5 5 11 0 1 3 3 -2
+p487
+aVCarlos Boozer UTA 01/12/2005 UTA vs. PHX W 26 8 4 8 50.0 0 0 - 0 1 0.0 1 5 6 1 2 0 2 4 4
+p488
+aVRaul Lopez UTA 01/12/2005 UTA vs. PHX W 19 14 5 9 55.6 2 3 66.7 2 2 100.0 0 1 1 4 4 0 3 3 9
+p489
+aVKris Humphries UTA 01/12/2005 UTA vs. PHX W 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 0
+p490
+aVMatt Harpring UTA 01/12/2005 UTA vs. PHX W 34 16 7 12 58.3 0 1 0.0 2 2 100.0 4 4 8 3 2 2 3 4 -5
+p491
+aVGordan Giricek UTA 01/12/2005 UTA vs. PHX W 25 10 4 12 33.3 0 1 0.0 2 2 100.0 1 5 6 2 0 0 0 2 1
+p492
+aVMehmet Okur UTA 01/12/2005 UTA vs. PHX W 26 21 8 16 50.0 1 2 50.0 4 4 100.0 10 7 17 0 0 0 1 5 6
+p493
+aVCurtis Borchardt UTA 01/12/2005 UTA vs. PHX W 11 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -4
+p494
+aVHoward Eisley UTA 01/12/2005 UTA vs. PHX W 17 7 3 6 50.0 1 3 33.3 0 0 - 0 0 0 1 1 1 1 0 6
+p495
+aVKirk Snyder UTA 01/12/2005 UTA vs. PHX W 11 4 2 4 50.0 0 0 - 0 0 - 2 1 3 2 1 0 0 1 9
+p496
+aVRaja Bell UTA 01/12/2005 UTA vs. PHX W 35 19 9 11 81.8 1 2 50.0 0 0 - 3 3 6 0 0 0 2 3 11
+p497
+aVKris Humphries UTA 01/10/2005 UTA vs. SAS W 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 0 4
+p498
+aVGordan Giricek UTA 01/10/2005 UTA vs. SAS W 24 13 6 10 60.0 0 0 - 1 1 100.0 0 2 2 0 0 1 2 6 4
+p499
+aVKirk Snyder UTA 01/10/2005 UTA vs. SAS W 29 7 3 7 42.9 1 1 100.0 0 0 - 0 1 1 1 2 0 1 4 -8
+p500
+aVCarlos Boozer UTA 01/10/2005 UTA vs. SAS W 24 13 5 10 50.0 0 0 - 3 4 75.0 1 3 4 2 0 2 1 4 1
+p501
+aVCurtis Borchardt UTA 01/10/2005 UTA vs. SAS W 29 2 1 5 20.0 0 0 - 0 0 - 2 6 8 1 0 1 0 2 6
+p502
+aVCarlos Arroyo UTA 01/10/2005 UTA vs. SAS W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p503
+aVHoward Eisley UTA 01/10/2005 UTA vs. SAS W 33 10 4 8 50.0 2 3 66.7 0 0 - 0 0 0 3 1 0 1 4 -2
+p504
+aVRaul Lopez UTA 01/10/2005 UTA vs. SAS W 21 9 4 8 50.0 0 2 0.0 1 3 33.3 0 2 2 3 2 0 0 3 -5
+p505
+aVKeith McLeod UTA 01/10/2005 UTA vs. SAS W 29 18 5 10 50.0 1 1 100.0 7 8 87.5 0 3 3 4 1 0 1 3 4
+p506
+aVMehmet Okur UTA 01/10/2005 UTA vs. SAS W 37 23 7 11 63.6 0 1 0.0 9 10 90.0 7 4 11 2 0 1 1 2 1
+p507
+aVCurtis Borchardt UTA 01/08/2005 UTA @ MIL L 14 2 0 3 0.0 0 0 - 2 2 100.0 2 4 6 1 0 1 2 3 -2
+p508
+aVKirk Snyder UTA 01/08/2005 UTA @ MIL L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 3 9
+p509
+aVKris Humphries UTA 01/08/2005 UTA @ MIL L 9 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -4
+p510
+aVHoward Eisley UTA 01/08/2005 UTA @ MIL L 27 15 6 8 75.0 2 2 100.0 1 1 100.0 0 3 3 0 0 0 1 2 -4
+p511
+aVGordan Giricek UTA 01/08/2005 UTA @ MIL L 21 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 4 1
+p512
+aVMatt Harpring UTA 01/08/2005 UTA @ MIL L 34 8 4 17 23.5 0 2 0.0 0 0 - 2 3 5 1 1 0 0 3 -12
+p513
+aVKeith McLeod UTA 01/08/2005 UTA @ MIL L 36 15 5 13 38.5 1 3 33.3 4 4 100.0 1 2 3 5 3 0 2 2 5
+p514
+aVCarlos Boozer UTA 01/08/2005 UTA @ MIL L 40 28 12 17 70.6 0 0 - 4 4 100.0 0 8 8 4 2 1 2 6 1
+p515
+aVMehmet Okur UTA 01/08/2005 UTA @ MIL L 34 10 3 10 30.0 0 2 0.0 4 4 100.0 5 8 13 3 2 1 2 3 -1
+p516
+aVCarlos Arroyo UTA 01/08/2005 UTA @ MIL L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 0 0 2 2 -8
+p517
+aVHoward Eisley UTA 01/07/2005 UTA @ CHI L 22 9 3 5 60.0 1 2 50.0 2 4 50.0 0 1 1 2 0 0 3 2 -10
+p518
+aVCarlos Arroyo UTA 01/07/2005 UTA @ CHI L 21 11 4 10 40.0 0 0 - 3 4 75.0 1 2 3 4 2 0 2 1 -5
+p519
+aVKirk Snyder UTA 01/07/2005 UTA @ CHI L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p520
+aVMatt Harpring UTA 01/07/2005 UTA @ CHI L 36 13 4 6 66.7 0 0 - 5 6 83.3 3 2 5 1 2 0 4 3 -8
+p521
+aVKeith McLeod UTA 01/07/2005 UTA @ CHI L 27 3 0 5 0.0 0 0 - 3 6 50.0 0 5 5 8 0 2 1 1 -1
+p522
+aVCarlos Boozer UTA 01/07/2005 UTA @ CHI L 38 11 5 12 41.7 0 0 - 1 2 50.0 3 5 8 3 1 2 6 4 -8
+p523
+aVMehmet Okur UTA 01/07/2005 UTA @ CHI L 29 12 3 10 30.0 1 2 50.0 5 5 100.0 4 7 11 1 1 2 3 4 -10
+p524
+aVGordan Giricek UTA 01/07/2005 UTA @ CHI L 34 13 5 13 38.5 2 3 66.7 1 2 50.0 0 6 6 0 1 0 4 3 14
+p525
+aVKris Humphries UTA 01/07/2005 UTA @ CHI L 10 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 0 1 1 0 3 2
+p526
+aVCurtis Borchardt UTA 01/07/2005 UTA @ CHI L 18 4 1 4 25.0 0 0 - 2 2 100.0 2 4 6 2 2 4 1 4 4
+p527
+aVKris Humphries UTA 01/05/2005 UTA vs. PHI L 23 8 3 7 42.9 0 0 - 2 6 33.3 1 4 5 3 0 0 0 4 8
+p528
+aVCarlos Arroyo UTA 01/05/2005 UTA vs. PHI L 28 10 5 7 71.4 0 0 - 0 0 - 1 2 3 4 0 0 1 3 -9
+p529
+aVRaul Lopez UTA 01/05/2005 UTA vs. PHI L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 4
+p530
+aVHoward Eisley UTA 01/05/2005 UTA vs. PHI L 21 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 0
+p531
+aVCarlos Boozer UTA 01/05/2005 UTA vs. PHI L 40 24 8 15 53.3 0 1 0.0 8 8 100.0 3 7 10 6 1 1 4 2 -8
+p532
+aVKeith McLeod UTA 01/05/2005 UTA vs. PHI L 13 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 3 0
+p533
+aVMatt Harpring UTA 01/05/2005 UTA vs. PHI L 36 23 9 15 60.0 0 0 - 5 7 71.4 3 3 6 1 1 0 3 4 -10
+p534
+aVKirk Snyder UTA 01/05/2005 UTA vs. PHI L 22 7 2 6 33.3 0 2 0.0 3 4 75.0 0 3 3 1 0 0 2 2 3
+p535
+aVMehmet Okur UTA 01/05/2005 UTA vs. PHI L 11 2 1 3 33.3 0 0 - 0 0 - 0 5 5 1 0 1 1 1 -2
+p536
+aVGordan Giricek UTA 01/05/2005 UTA vs. PHI L 31 18 7 12 58.3 1 4 25.0 3 3 100.0 1 5 6 4 1 1 2 5 -10
+p537
+aVCurtis Borchardt UTA 01/05/2005 UTA vs. PHI L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -11
+p538
+aVCurtis Borchardt UTA 01/03/2005 UTA @ MEM L 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -8
+p539
+aVKirk Snyder UTA 01/03/2005 UTA @ MEM L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 -1
+p540
+aVMatt Harpring UTA 01/03/2005 UTA @ MEM L 43 17 8 17 47.1 0 0 - 1 2 50.0 1 4 5 1 1 0 1 3 -8
+p541
+aVCarlos Boozer UTA 01/03/2005 UTA @ MEM L 42 20 8 14 57.1 0 0 - 4 8 50.0 6 9 15 2 2 2 3 5 -9
+p542
+aVMehmet Okur UTA 01/03/2005 UTA @ MEM L 32 11 2 5 40.0 2 4 50.0 5 5 100.0 2 8 10 2 0 1 4 4 -4
+p543
+aVCarlos Arroyo UTA 01/03/2005 UTA @ MEM L 22 15 6 13 46.2 3 3 100.0 0 0 - 0 0 0 3 1 0 2 1 -2
+p544
+aVKris Humphries UTA 01/03/2005 UTA @ MEM L 12 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 2 2 3 -1
+p545
+aVKeith McLeod UTA 01/03/2005 UTA @ MEM L 26 0 0 5 0.0 0 0 - 0 0 - 0 2 2 6 2 0 4 0 -8
+p546
+aVGordan Giricek UTA 01/03/2005 UTA @ MEM L 38 11 5 13 38.5 0 0 - 1 2 50.0 1 2 3 7 1 0 3 3 -9
+p547
+aVGordan Giricek UTA 01/02/2005 UTA @ HOU L 32 15 5 11 45.5 1 3 33.3 4 4 100.0 0 4 4 2 2 0 0 2 -4
+p548
+aVCarlos Boozer UTA 01/02/2005 UTA @ HOU L 35 14 6 9 66.7 0 0 - 2 4 50.0 3 2 5 4 2 1 1 5 -19
+p549
+aVCarlos Arroyo UTA 01/02/2005 UTA @ HOU L 12 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 2 1 0 0 0 -3
+p550
+aVAleksandar Radojevic UTA 01/02/2005 UTA @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p551
+aVRaja Bell UTA 01/02/2005 UTA @ HOU L 18 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 1 1 0 2 4 -12
+p552
+aVKris Humphries UTA 01/02/2005 UTA @ HOU L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -1
+p553
+aVKirk Snyder UTA 01/02/2005 UTA @ HOU L 18 9 4 9 44.4 1 3 33.3 0 0 - 1 3 4 0 1 0 1 2 1
+p554
+aVCurtis Borchardt UTA 01/02/2005 UTA @ HOU L 20 0 0 3 0.0 0 0 - 0 2 0.0 2 1 3 1 0 1 1 4 -14
+p555
+aVMatt Harpring UTA 01/02/2005 UTA @ HOU L 29 12 4 11 36.4 0 1 0.0 4 6 66.7 0 3 3 1 1 1 3 4 -26
+p556
+aVKeith McLeod UTA 01/02/2005 UTA @ HOU L 29 12 5 11 45.5 0 2 0.0 2 2 100.0 1 1 2 6 0 0 3 2 -23
+p557
+aVRaul Lopez UTA 01/02/2005 UTA @ HOU L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p558
+aVMehmet Okur UTA 01/02/2005 UTA @ HOU L 29 12 5 13 38.5 1 3 33.3 1 1 100.0 1 7 8 1 0 1 2 4 -3
+p559
+aVMehmet Okur UTA 12/31/2004 UTA vs. SAC L 33 15 6 12 50.0 0 2 0.0 3 4 75.0 3 6 9 0 1 0 0 2 6
+p560
+aVMatt Harpring UTA 12/31/2004 UTA vs. SAC L 37 13 5 12 41.7 0 0 - 3 4 75.0 4 6 10 1 2 0 2 4 -4
+p561
+aVCarlos Arroyo UTA 12/31/2004 UTA vs. SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p562
+aVRaul Lopez UTA 12/31/2004 UTA vs. SAC L 10 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 3 0 0 0 4 0
+p563
+aVCarlos Boozer UTA 12/31/2004 UTA vs. SAC L 42 25 10 18 55.6 0 0 - 5 8 62.5 5 5 10 6 1 0 3 2 -7
+p564
+aVKirk Snyder UTA 12/31/2004 UTA vs. SAC L 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p565
+aVCurtis Borchardt UTA 12/31/2004 UTA vs. SAC L 13 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 1 3 -4
+p566
+aVKris Humphries UTA 12/31/2004 UTA vs. SAC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p567
+aVRaja Bell UTA 12/31/2004 UTA vs. SAC L 31 14 6 10 60.0 2 4 50.0 0 0 - 0 1 1 2 0 0 2 4 -9
+p568
+aVAleksandar Radojevic UTA 12/31/2004 UTA vs. SAC L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 3 3 -6
+p569
+aVGordan Giricek UTA 12/31/2004 UTA vs. SAC L 19 10 4 7 57.1 1 1 100.0 1 2 50.0 0 2 2 2 0 0 0 2 1
+p570
+aVKeith McLeod UTA 12/31/2004 UTA vs. SAC L 36 14 5 12 41.7 1 2 50.0 3 3 100.0 0 5 5 11 0 0 3 4 -5
+p571
+aVKris Humphries UTA 12/29/2004 UTA @ LAC L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -9
+p572
+aVKirk Snyder UTA 12/29/2004 UTA @ LAC L 30 11 4 11 36.4 1 2 50.0 2 4 50.0 2 1 3 2 0 1 0 4 -11
+p573
+aVRaul Lopez UTA 12/29/2004 UTA @ LAC L 19 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 3 0 0 5 1 0
+p574
+aVMehmet Okur UTA 12/29/2004 UTA @ LAC L 18 6 2 8 25.0 0 0 - 2 2 100.0 2 0 2 3 0 2 1 4 7
+p575
+aVAleksandar Radojevic UTA 12/29/2004 UTA @ LAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -10
+p576
+aVGordan Giricek UTA 12/29/2004 UTA @ LAC L 18 12 5 10 50.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 1 0
+p577
+aVKeith McLeod UTA 12/29/2004 UTA @ LAC L 7 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -8
+p578
+aVCarlos Arroyo UTA 12/29/2004 UTA @ LAC L 23 8 2 8 25.0 0 1 0.0 4 5 80.0 0 1 1 7 0 0 2 1 -3
+p579
+aVCurtis Borchardt UTA 12/29/2004 UTA @ LAC L 25 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 0 0 2 0 5 -4
+p580
+aVMatt Harpring UTA 12/29/2004 UTA @ LAC L 40 10 4 12 33.3 0 0 - 2 2 100.0 5 3 8 0 0 0 2 2 -9
+p581
+aVCarlos Boozer UTA 12/29/2004 UTA @ LAC L 39 23 9 15 60.0 0 0 - 5 7 71.4 3 5 8 5 0 0 3 2 -8
+p582
+aVAleksandar Radojevic UTA 12/27/2004 UTA vs. SEA L 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 3 0 1 0 3 0
+p583
+aVRaul Lopez UTA 12/27/2004 UTA vs. SEA L 10 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 6 1 0 2 4 4
+p584
+aVCarlos Boozer UTA 12/27/2004 UTA vs. SEA L 40 16 5 12 41.7 0 0 - 6 6 100.0 4 10 14 3 0 0 8 3 -6
+p585
+aVMehmet Okur UTA 12/27/2004 UTA vs. SEA L 34 5 1 6 16.7 0 4 0.0 3 3 100.0 1 5 6 2 1 1 4 3 -10
+p586
+aVCarlos Arroyo UTA 12/27/2004 UTA vs. SEA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p587
+aVCurtis Borchardt UTA 12/27/2004 UTA vs. SEA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p588
+aVKeith McLeod UTA 12/27/2004 UTA vs. SEA L 32 11 4 11 36.4 0 1 0.0 3 3 100.0 0 4 4 6 0 1 2 4 -11
+p589
+aVKirk Snyder UTA 12/27/2004 UTA vs. SEA L 16 7 3 5 60.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 5 3 7
+p590
+aVMatt Harpring UTA 12/27/2004 UTA vs. SEA L 39 22 10 16 62.5 2 2 100.0 0 0 - 5 2 7 2 2 0 1 4 -17
+p591
+aVKris Humphries UTA 12/27/2004 UTA vs. SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p592
+aVRaja Bell UTA 12/27/2004 UTA vs. SEA L 37 16 7 14 50.0 2 4 50.0 0 0 - 1 4 5 0 0 0 2 4 -9
+p593
+aVGordan Giricek UTA 12/27/2004 UTA vs. SEA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p594
+aVCarlos Boozer UTA 12/22/2004 UTA @ TOR L 41 29 11 20 55.0 0 0 - 7 11 63.6 4 6 10 5 2 0 1 4 -1
+p595
+aVAleksandar Radojevic UTA 12/22/2004 UTA @ TOR L 16 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 4 2 -12
+p596
+aVCarlos Arroyo UTA 12/22/2004 UTA @ TOR L 26 10 5 8 62.5 0 0 - 0 0 - 1 0 1 3 0 0 2 3 -22
+p597
+aVMatt Harpring UTA 12/22/2004 UTA @ TOR L 39 14 6 12 50.0 0 2 0.0 2 3 66.7 1 3 4 3 1 0 2 2 -12
+p598
+aVRaja Bell UTA 12/22/2004 UTA @ TOR L 41 9 4 12 33.3 1 2 50.0 0 1 0.0 0 2 2 1 0 0 0 1 -4
+p599
+aVMehmet Okur UTA 12/22/2004 UTA @ TOR L 29 11 5 10 50.0 0 0 - 1 2 50.0 5 10 15 3 0 0 3 2 -23
+p600
+aVCurtis Borchardt UTA 12/22/2004 UTA @ TOR L 10 2 0 3 0.0 0 0 - 2 2 100.0 0 5 5 0 0 0 0 2 12
+p601
+aVGordan Giricek UTA 12/22/2004 UTA @ TOR L 16 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 -8
+p602
+aVRaul Lopez UTA 12/22/2004 UTA @ TOR L 22 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 5 1 0 2 1 10
+p603
+aVGordan Giricek UTA 12/20/2004 UTA @ PHI W 13 9 3 7 42.9 0 2 0.0 3 3 100.0 1 1 2 1 0 0 2 3 -14
+p604
+aVAleksandar Radojevic UTA 12/20/2004 UTA @ PHI W 13 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 4 -1
+p605
+aVMehmet Okur UTA 12/20/2004 UTA @ PHI W 31 20 5 12 41.7 0 1 0.0 10 11 90.9 3 7 10 4 0 0 2 3 7
+p606
+aVCurtis Borchardt UTA 12/20/2004 UTA @ PHI W 13 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 4 -10
+p607
+aVCarlos Arroyo UTA 12/20/2004 UTA @ PHI W 33 9 4 9 44.4 1 1 100.0 0 0 - 1 3 4 11 1 0 2 3 4
+p608
+aVMatt Harpring UTA 12/20/2004 UTA @ PHI W 40 17 7 12 58.3 0 0 - 3 4 75.0 1 2 3 4 1 0 2 5 5
+p609
+aVHoward Eisley UTA 12/20/2004 UTA @ PHI W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 4 1 0 3 1 -2
+p610
+aVCarlos Boozer UTA 12/20/2004 UTA @ PHI W 39 28 11 15 73.3 0 0 - 6 9 66.7 1 9 10 1 0 1 5 3 8
+p611
+aVRaja Bell UTA 12/20/2004 UTA @ PHI W 39 15 6 13 46.2 1 3 33.3 2 2 100.0 2 7 9 0 3 1 4 4 5
+p612
+aVRaul Lopez UTA 12/20/2004 UTA @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 0
+p613
+aVKirk Snyder UTA 12/20/2004 UTA @ PHI W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 8
+p614
+aVGordan Giricek UTA 12/19/2004 UTA @ NYK L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p615
+aVKris Humphries UTA 12/19/2004 UTA @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p616
+aVMehmet Okur UTA 12/19/2004 UTA @ NYK L 33 13 5 7 71.4 1 1 100.0 2 2 100.0 5 9 14 2 1 1 0 3 -9
+p617
+aVRaja Bell UTA 12/19/2004 UTA @ NYK L 41 20 9 15 60.0 2 3 66.7 0 0 - 1 3 4 2 2 0 3 4 5
+p618
+aVRaul Lopez UTA 12/19/2004 UTA @ NYK L 19 3 1 6 16.7 0 0 - 1 2 50.0 1 0 1 4 0 0 3 3 7
+p619
+aVAleksandar Radojevic UTA 12/19/2004 UTA @ NYK L 25 5 0 1 0.0 0 0 - 5 6 83.3 2 2 4 0 0 0 3 4 8
+p620
+aVCurtis Borchardt UTA 12/19/2004 UTA @ NYK L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 3
+p621
+aVCarlos Arroyo UTA 12/19/2004 UTA @ NYK L 29 9 3 10 30.0 0 0 - 3 3 100.0 0 2 2 3 0 0 3 1 -8
+p622
+aVMatt Harpring UTA 12/19/2004 UTA @ NYK L 39 21 8 16 50.0 0 1 0.0 5 7 71.4 3 5 8 2 3 0 1 1 10
+p623
+aVKirk Snyder UTA 12/19/2004 UTA @ NYK L 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p624
+aVCarlos Boozer UTA 12/19/2004 UTA @ NYK L 32 19 6 14 42.9 0 0 - 7 14 50.0 3 6 9 3 1 1 2 4 -4
+p625
+aVAleksandar Radojevic UTA 12/17/2004 UTA @ BOS L 17 4 2 4 50.0 0 0 - 0 0 - 3 3 6 1 0 0 0 4 12
+p626
+aVRaja Bell UTA 12/17/2004 UTA @ BOS L 29 17 7 12 58.3 1 1 100.0 2 2 100.0 1 1 2 3 2 0 2 4 -8
+p627
+aVHoward Eisley UTA 12/17/2004 UTA @ BOS L 21 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 10 3 0 1 1 0
+p628
+aVCarlos Arroyo UTA 12/17/2004 UTA @ BOS L 27 20 6 12 50.0 0 1 0.0 8 9 88.9 1 0 1 5 1 0 1 5 2
+p629
+aVMehmet Okur UTA 12/17/2004 UTA @ BOS L 30 21 6 12 50.0 1 1 100.0 8 8 100.0 3 5 8 1 0 0 1 3 -6
+p630
+aVCarlos Boozer UTA 12/17/2004 UTA @ BOS L 38 25 10 21 47.6 0 0 - 5 9 55.6 3 9 12 2 0 0 5 4 -14
+p631
+aVGordan Giricek UTA 12/17/2004 UTA @ BOS L 20 2 0 4 0.0 0 2 0.0 2 2 100.0 0 3 3 3 2 0 1 4 9
+p632
+aVRaul Lopez UTA 12/17/2004 UTA @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p633
+aVKirk Snyder UTA 12/17/2004 UTA @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p634
+aVMatt Harpring UTA 12/17/2004 UTA @ BOS L 40 10 3 10 30.0 0 0 - 4 8 50.0 6 1 7 2 1 0 3 6 -15
+p635
+aVKris Humphries UTA 12/17/2004 UTA @ BOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p636
+aVCurtis Borchardt UTA 12/17/2004 UTA @ BOS L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p637
+aVMatt Harpring UTA 12/15/2004 UTA @ PHX L 31 15 7 14 50.0 0 1 0.0 1 2 50.0 0 2 2 2 1 0 1 3 -10
+p638
+aVCarlos Boozer UTA 12/15/2004 UTA @ PHX L 29 19 7 11 63.6 0 0 - 5 9 55.6 5 6 11 2 0 0 4 1 -9
+p639
+aVHoward Eisley UTA 12/15/2004 UTA @ PHX L 19 6 3 10 30.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 3 -20
+p640
+aVAleksandar Radojevic UTA 12/15/2004 UTA @ PHX L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 1 3 -1
+p641
+aVCurtis Borchardt UTA 12/15/2004 UTA @ PHX L 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -11
+p642
+aVGordan Giricek UTA 12/15/2004 UTA @ PHX L 20 4 2 5 40.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -20
+p643
+aVKirk Snyder UTA 12/15/2004 UTA @ PHX L 16 0 0 7 0.0 0 3 0.0 0 0 - 2 3 5 0 1 0 0 1 -13
+p644
+aVMehmet Okur UTA 12/15/2004 UTA @ PHX L 30 11 4 9 44.4 0 0 - 3 4 75.0 3 8 11 3 1 1 0 2 -10
+p645
+aVRaul Lopez UTA 12/15/2004 UTA @ PHX L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 8 0 0 1 3 4
+p646
+aVCarlos Arroyo UTA 12/15/2004 UTA @ PHX L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 2 -6
+p647
+aVRaja Bell UTA 12/15/2004 UTA @ PHX L 32 16 7 13 53.8 0 1 0.0 2 2 100.0 3 3 6 1 1 0 0 2 -4
+p648
+aVKris Humphries UTA 12/15/2004 UTA @ PHX L 16 6 3 7 42.9 0 1 0.0 0 2 0.0 4 4 8 0 0 1 0 3 -10
+p649
+aVMatt Harpring UTA 12/14/2004 UTA vs. LAC W 35 16 5 8 62.5 0 0 - 6 7 85.7 4 1 5 2 0 0 0 3 -2
+p650
+aVCarlos Boozer UTA 12/14/2004 UTA vs. LAC W 36 13 5 15 33.3 0 0 - 3 5 60.0 2 1 3 3 1 1 3 3 0
+p651
+aVCurtis Borchardt UTA 12/14/2004 UTA vs. LAC W 18 3 1 4 25.0 0 0 - 1 2 50.0 4 2 6 0 1 0 0 0 5
+p652
+aVKris Humphries UTA 12/14/2004 UTA vs. LAC W 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 7
+p653
+aVRaja Bell UTA 12/14/2004 UTA vs. LAC W 28 12 4 13 30.8 1 1 100.0 3 4 75.0 2 1 3 2 1 0 0 5 -3
+p654
+aVHoward Eisley UTA 12/14/2004 UTA vs. LAC W 16 5 1 4 25.0 0 0 - 3 4 75.0 0 0 0 1 1 0 2 5 5
+p655
+aVRaul Lopez UTA 12/14/2004 UTA vs. LAC W 10 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 2 4 -6
+p656
+aVMehmet Okur UTA 12/14/2004 UTA vs. LAC W 35 19 6 10 60.0 0 0 - 7 8 87.5 7 6 13 2 0 1 2 3 -6
+p657
+aVKirk Snyder UTA 12/14/2004 UTA vs. LAC W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 2 2
+p658
+aVCarlos Arroyo UTA 12/14/2004 UTA vs. LAC W 21 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 5 1 0 0 0 3
+p659
+aVGordan Giricek UTA 12/14/2004 UTA vs. LAC W 20 12 4 7 57.1 2 2 100.0 2 2 100.0 1 1 2 1 1 1 1 0 5
+p660
+aVCurtis Borchardt UTA 12/12/2004 UTA @ POR L 14 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -9
+p661
+aVCarlos Arroyo UTA 12/12/2004 UTA @ POR L 35 12 6 17 35.3 0 1 0.0 0 0 - 1 2 3 12 4 0 2 3 7
+p662
+aVGordan Giricek UTA 12/12/2004 UTA @ POR L 7 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -8
+p663
+aVHoward Eisley UTA 12/12/2004 UTA @ POR L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 1 2 -8
+p664
+aVCarlos Boozer UTA 12/12/2004 UTA @ POR L 37 12 5 9 55.6 0 0 - 2 2 100.0 2 5 7 2 2 0 1 4 -3
+p665
+aVRaul Lopez UTA 12/12/2004 UTA @ POR L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 2 -12
+p666
+aVRaja Bell UTA 12/12/2004 UTA @ POR L 36 21 10 16 62.5 1 2 50.0 0 0 - 1 4 5 5 1 0 2 5 7
+p667
+aVKirk Snyder UTA 12/12/2004 UTA @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -6
+p668
+aVMatt Harpring UTA 12/12/2004 UTA @ POR L 42 19 7 13 53.8 0 2 0.0 5 6 83.3 2 5 7 2 1 0 4 2 -11
+p669
+aVMehmet Okur UTA 12/12/2004 UTA @ POR L 40 15 4 12 33.3 0 1 0.0 7 10 70.0 6 6 12 2 0 1 1 3 0
+p670
+aVKris Humphries UTA 12/12/2004 UTA @ POR L 11 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 2 1 -7
+p671
+aVJarron Collins UTA 12/10/2004 UTA vs. POR W 18 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 3 1 0 0 1 7
+p672
+aVCarlos Arroyo UTA 12/10/2004 UTA vs. POR W 33 12 4 7 57.1 0 0 - 4 5 80.0 0 1 1 5 1 1 4 2 -3
+p673
+aVGordan Giricek UTA 12/10/2004 UTA vs. POR W 11 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p674
+aVMatt Harpring UTA 12/10/2004 UTA vs. POR W 47 17 6 12 50.0 0 0 - 5 5 100.0 2 4 6 3 1 0 1 5 7
+p675
+aVRaul Lopez UTA 12/10/2004 UTA vs. POR W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 6 2 0 0 1 11
+p676
+aVCarlos Boozer UTA 12/10/2004 UTA vs. POR W 42 17 7 14 50.0 0 0 - 3 6 50.0 3 10 13 2 1 0 2 4 -3
+p677
+aVKris Humphries UTA 12/10/2004 UTA vs. POR W 23 9 4 8 50.0 1 1 100.0 0 0 - 0 4 4 1 0 1 3 2 1
+p678
+aVRaja Bell UTA 12/10/2004 UTA vs. POR W 16 0 0 5 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 1
+p679
+aVHoward Eisley UTA 12/10/2004 UTA vs. POR W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 2 -3
+p680
+aVKirk Snyder UTA 12/10/2004 UTA vs. POR W 26 13 6 11 54.5 1 3 33.3 0 2 0.0 1 2 3 2 1 2 3 2 -1
+p681
+aVMehmet Okur UTA 12/10/2004 UTA vs. POR W 29 14 3 8 37.5 0 1 0.0 8 10 80.0 2 6 8 0 1 3 3 2 3
+p682
+aVKris Humphries UTA 12/08/2004 UTA vs. ORL L 18 7 2 5 40.0 0 0 - 3 4 75.0 3 1 4 1 1 0 2 1 3
+p683
+aVMehmet Okur UTA 12/08/2004 UTA vs. ORL L 38 15 4 10 40.0 1 2 50.0 6 8 75.0 2 5 7 3 0 2 1 2 -4
+p684
+aVMatt Harpring UTA 12/08/2004 UTA vs. ORL L 39 16 6 13 46.2 0 0 - 4 4 100.0 3 3 6 2 1 1 0 5 -8
+p685
+aVJarron Collins UTA 12/08/2004 UTA vs. ORL L 12 3 0 1 0.0 0 0 - 3 4 75.0 1 5 6 0 0 0 0 4 1
+p686
+aVRaul Lopez UTA 12/08/2004 UTA vs. ORL L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 2 4 -2
+p687
+aVCarlos Arroyo UTA 12/08/2004 UTA vs. ORL L 40 14 7 16 43.8 0 1 0.0 0 1 0.0 0 1 1 9 3 0 3 4 -4
+p688
+aVCarlos Boozer UTA 12/08/2004 UTA vs. ORL L 36 29 14 26 53.8 0 0 - 1 2 50.0 4 8 12 3 1 0 5 4 -9
+p689
+aVGordan Giricek UTA 12/08/2004 UTA vs. ORL L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -4
+p690
+aVRaja Bell UTA 12/08/2004 UTA vs. ORL L 28 10 5 12 41.7 0 1 0.0 0 0 - 1 2 3 1 2 0 0 3 0
+p691
+aVKirk Snyder UTA 12/08/2004 UTA vs. ORL L 14 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p692
+aVMatt Harpring UTA 12/06/2004 UTA vs. MIA L 33 12 4 9 44.4 0 0 - 4 4 100.0 2 2 4 1 1 0 0 4 -14
+p693
+aVRaja Bell UTA 12/06/2004 UTA vs. MIA L 25 6 3 11 27.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 3 -21
+p694
+aVJarron Collins UTA 12/06/2004 UTA vs. MIA L 17 6 0 2 0.0 0 0 - 6 6 100.0 0 1 1 1 1 0 1 2 -4
+p695
+aVKris Humphries UTA 12/06/2004 UTA vs. MIA L 25 8 3 7 42.9 1 1 100.0 1 2 50.0 3 5 8 2 1 0 2 2 -8
+p696
+aVMehmet Okur UTA 12/06/2004 UTA vs. MIA L 16 11 4 7 57.1 0 0 - 3 3 100.0 1 2 3 2 0 0 2 2 -17
+p697
+aVGordan Giricek UTA 12/06/2004 UTA vs. MIA L 16 8 4 9 44.4 0 3 0.0 0 0 - 0 2 2 1 1 0 2 0 -3
+p698
+aVKirk Snyder UTA 12/06/2004 UTA vs. MIA L 20 12 4 9 44.4 0 2 0.0 4 6 66.7 3 1 4 0 0 0 2 4 -2
+p699
+aVAleksandar Radojevic UTA 12/06/2004 UTA vs. MIA L 7 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 2 6 -3
+p700
+aVHoward Eisley UTA 12/06/2004 UTA vs. MIA L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 3 0 0 0 1 8
+p701
+aVCarlos Arroyo UTA 12/06/2004 UTA vs. MIA L 36 4 1 7 14.3 0 0 - 2 2 100.0 0 2 2 11 0 0 0 2 -28
+p702
+aVCarlos Boozer UTA 12/06/2004 UTA vs. MIA L 33 11 4 7 57.1 0 0 - 3 6 50.0 0 10 10 1 2 1 3 5 -8
+p703
+aVRaja Bell UTA 12/04/2004 UTA @ DAL L 27 6 2 9 22.2 0 3 0.0 2 2 100.0 0 2 2 2 2 1 3 3 -12
+p704
+aVMehmet Okur UTA 12/04/2004 UTA @ DAL L 28 8 4 8 50.0 0 0 - 0 0 - 0 5 5 2 1 0 1 1 -14
+p705
+aVMatt Harpring UTA 12/04/2004 UTA @ DAL L 37 22 10 15 66.7 1 1 100.0 1 2 50.0 3 2 5 2 0 0 1 3 -6
+p706
+aVKirk Snyder UTA 12/04/2004 UTA @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p707
+aVCarlos Arroyo UTA 12/04/2004 UTA @ DAL L 34 16 8 12 66.7 0 0 - 0 0 - 0 4 4 6 0 0 3 3 -19
+p708
+aVCarlos Boozer UTA 12/04/2004 UTA @ DAL L 35 8 3 9 33.3 0 0 - 2 2 100.0 0 2 2 6 2 2 3 4 -18
+p709
+aVGordan Giricek UTA 12/04/2004 UTA @ DAL L 23 10 5 8 62.5 0 2 0.0 0 1 0.0 0 2 2 2 0 0 2 3 -18
+p710
+aVJarron Collins UTA 12/04/2004 UTA @ DAL L 16 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 1 0 2 0 -5
+p711
+aVAleksandar Radojevic UTA 12/04/2004 UTA @ DAL L 4 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 1 0 -4
+p712
+aVKris Humphries UTA 12/04/2004 UTA @ DAL L 18 5 2 6 33.3 0 1 0.0 1 2 50.0 1 3 4 0 1 0 2 3 -11
+p713
+aVHoward Eisley UTA 12/04/2004 UTA @ DAL L 14 5 2 5 40.0 1 1 100.0 0 0 - 0 4 4 2 0 0 2 1 -4
+p714
+aVKris Humphries UTA 12/01/2004 UTA @ SEA L 18 6 3 5 60.0 0 0 - 0 0 - 2 3 5 3 0 1 0 3 6
+p715
+aVCarlos Arroyo UTA 12/01/2004 UTA @ SEA L 28 3 1 6 16.7 0 0 - 1 2 50.0 1 1 2 7 0 0 2 3 -9
+p716
+aVGordan Giricek UTA 12/01/2004 UTA @ SEA L 15 8 3 5 60.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 3 -4
+p717
+aVRaja Bell UTA 12/01/2004 UTA @ SEA L 37 10 4 14 28.6 0 3 0.0 2 2 100.0 1 4 5 1 1 1 4 6 -8
+p718
+aVHoward Eisley UTA 12/01/2004 UTA @ SEA L 25 8 3 11 27.3 1 4 25.0 1 2 50.0 1 1 2 4 0 0 2 4 -1
+p719
+aVKirk Snyder UTA 12/01/2004 UTA @ SEA L 7 1 0 4 0.0 0 1 0.0 1 2 50.0 3 0 3 1 0 0 0 2 -8
+p720
+aVMehmet Okur UTA 12/01/2004 UTA @ SEA L 33 25 9 12 75.0 1 1 100.0 6 6 100.0 1 4 5 2 0 0 0 5 -2
+p721
+aVCarlos Boozer UTA 12/01/2004 UTA @ SEA L 47 36 15 21 71.4 0 0 - 6 6 100.0 3 3 6 3 1 0 0 1 -16
+p722
+aVJarron Collins UTA 12/01/2004 UTA @ SEA L 18 7 1 2 50.0 0 0 - 5 5 100.0 0 3 3 0 0 0 0 3 -2
+p723
+aVMatt Harpring UTA 12/01/2004 UTA @ SEA L 37 15 5 10 50.0 0 1 0.0 5 6 83.3 4 5 9 4 0 1 2 4 -6
+p724
+aVHoward Eisley UTA 11/30/2004 UTA vs. PHX L 21 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 7 1 0 2 1 5
+p725
+aVCarlos Arroyo UTA 11/30/2004 UTA vs. PHX L 27 10 4 11 36.4 0 0 - 2 3 66.7 0 0 0 5 1 0 2 4 -18
+p726
+aVCarlos Boozer UTA 11/30/2004 UTA vs. PHX L 38 27 11 19 57.9 0 0 - 5 5 100.0 4 14 18 2 1 0 3 5 -13
+p727
+aVMatt Harpring UTA 11/30/2004 UTA vs. PHX L 41 19 9 15 60.0 0 1 0.0 1 2 50.0 5 2 7 2 0 0 0 1 -21
+p728
+aVRaja Bell UTA 11/30/2004 UTA vs. PHX L 25 12 5 11 45.5 2 4 50.0 0 0 - 1 1 2 3 0 0 2 2 -8
+p729
+aVKirk Snyder UTA 11/30/2004 UTA vs. PHX L 2 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 1 0 1
+p730
+aVGordan Giricek UTA 11/30/2004 UTA vs. PHX L 22 5 2 8 25.0 0 0 - 1 1 100.0 0 0 0 3 1 0 1 1 -5
+p731
+aVKris Humphries UTA 11/30/2004 UTA vs. PHX L 26 13 6 10 60.0 0 0 - 1 3 33.3 2 2 4 1 1 1 3 2 -8
+p732
+aVJarron Collins UTA 11/30/2004 UTA vs. PHX L 16 0 0 2 0.0 0 0 - 0 0 - 3 4 7 1 0 0 1 4 -3
+p733
+aVMehmet Okur UTA 11/30/2004 UTA vs. PHX L 20 6 1 5 20.0 0 1 0.0 4 7 57.1 0 6 6 3 0 0 3 1 4
+p734
+aVAleksandar Radojevic UTA 11/30/2004 UTA vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p735
+aVHoward Eisley UTA 11/27/2004 UTA @ SAS L 22 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 2 0 4 3 -21
+p736
+aVKirk Snyder UTA 11/27/2004 UTA @ SAS L 24 6 2 3 66.7 0 1 0.0 2 4 50.0 1 3 4 0 0 0 2 2 -8
+p737
+aVMehmet Okur UTA 11/27/2004 UTA @ SAS L 20 10 5 9 55.6 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -10
+p738
+aVKeith McLeod UTA 11/27/2004 UTA @ SAS L 8 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 2 0 1 2 -4
+p739
+aVJarron Collins UTA 11/27/2004 UTA @ SAS L 33 6 2 6 33.3 0 0 - 2 2 100.0 2 4 6 2 2 0 0 6 -29
+p740
+aVGordan Giricek UTA 11/27/2004 UTA @ SAS L 30 14 5 9 55.6 0 0 - 4 5 80.0 0 1 1 2 1 0 1 2 -14
+p741
+aVMatt Harpring UTA 11/27/2004 UTA @ SAS L 30 15 6 11 54.5 0 0 - 3 5 60.0 2 2 4 0 1 0 5 2 -6
+p742
+aVRaja Bell UTA 11/27/2004 UTA @ SAS L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 5 -20
+p743
+aVCarlos Boozer UTA 11/27/2004 UTA @ SAS L 29 6 3 10 30.0 0 0 - 0 0 - 2 1 3 4 0 0 1 6 -29
+p744
+aVAndrei Kirilenko UTA 11/27/2004 UTA @ SAS L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -16
+p745
+aVCarlos Arroyo UTA 11/27/2004 UTA @ SAS L 18 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 2 -8
+p746
+aVCarlos Arroyo UTA 11/26/2004 UTA vs. HOU W 29 8 4 10 40.0 0 0 - 0 0 - 2 3 5 5 0 1 3 2 0
+p747
+aVCurtis Borchardt UTA 11/26/2004 UTA vs. HOU W 9 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 2 3 -4
+p748
+aVKirk Snyder UTA 11/26/2004 UTA vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p749
+aVRaja Bell UTA 11/26/2004 UTA vs. HOU W 23 6 2 6 33.3 0 0 - 2 3 66.7 1 2 3 2 1 0 0 2 9
+p750
+aVMatt Harpring UTA 11/26/2004 UTA vs. HOU W 27 8 4 7 57.1 0 1 0.0 0 0 - 0 7 7 2 0 0 0 1 3
+p751
+aVMehmet Okur UTA 11/26/2004 UTA vs. HOU W 25 20 8 8 100.0 0 0 - 4 4 100.0 0 3 3 1 0 1 1 0 13
+p752
+aVCarlos Boozer UTA 11/26/2004 UTA vs. HOU W 28 15 6 13 46.2 0 0 - 3 6 50.0 2 4 6 3 1 0 3 1 0
+p753
+aVGordan Giricek UTA 11/26/2004 UTA vs. HOU W 24 10 4 7 57.1 2 2 100.0 0 0 - 1 1 2 3 1 0 1 3 1
+p754
+aVAndrei Kirilenko UTA 11/26/2004 UTA vs. HOU W 40 21 7 14 50.0 2 2 100.0 5 6 83.3 4 8 12 4 3 4 2 3 17
+p755
+aVHoward Eisley UTA 11/26/2004 UTA vs. HOU W 19 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 5 0 0 0 1 10
+p756
+aVJarron Collins UTA 11/26/2004 UTA vs. HOU W 15 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 0 0 0 4 1
+p757
+aVRaja Bell UTA 11/24/2004 UTA vs. CHI L 30 12 4 10 40.0 1 2 50.0 3 4 75.0 1 2 3 2 0 0 1 6 -7
+p758
+aVMehmet Okur UTA 11/24/2004 UTA vs. CHI L 23 15 4 8 50.0 0 2 0.0 7 7 100.0 0 8 8 1 2 1 1 3 -8
+p759
+aVCarlos Boozer UTA 11/24/2004 UTA vs. CHI L 38 18 7 17 41.2 0 0 - 4 6 66.7 5 8 13 5 0 0 6 4 4
+p760
+aVAndrei Kirilenko UTA 11/24/2004 UTA vs. CHI L 30 20 8 12 66.7 0 1 0.0 4 5 80.0 1 2 3 2 0 2 3 6 -3
+p761
+aVCurtis Borchardt UTA 11/24/2004 UTA vs. CHI L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 2
+p762
+aVHoward Eisley UTA 11/24/2004 UTA vs. CHI L 21 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 0 0 3 2 -6
+p763
+aVMatt Harpring UTA 11/24/2004 UTA vs. CHI L 26 9 3 8 37.5 0 0 - 3 3 100.0 7 2 9 1 0 0 3 5 -4
+p764
+aVJarron Collins UTA 11/24/2004 UTA vs. CHI L 20 2 1 3 33.3 0 0 - 0 4 0.0 2 5 7 0 0 0 0 4 3
+p765
+aVCarlos Arroyo UTA 11/24/2004 UTA vs. CHI L 28 8 3 7 42.9 1 2 50.0 1 2 50.0 0 0 0 8 1 0 1 3 4
+p766
+aVGordan Giricek UTA 11/24/2004 UTA vs. CHI L 17 9 3 7 42.9 0 2 0.0 3 3 100.0 0 0 0 2 0 0 1 2 5
+p767
+aVAndrei Kirilenko UTA 11/22/2004 UTA vs. NOH L 41 18 6 14 42.9 0 2 0.0 6 9 66.7 5 4 9 1 2 7 2 1 4
+p768
+aVRaja Bell UTA 11/22/2004 UTA vs. NOH L 20 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 1 0 1 1 4 -9
+p769
+aVHoward Eisley UTA 11/22/2004 UTA vs. NOH L 16 8 3 4 75.0 1 1 100.0 1 2 50.0 2 0 2 2 0 0 1 2 1
+p770
+aVMehmet Okur UTA 11/22/2004 UTA vs. NOH L 30 10 4 12 33.3 0 1 0.0 2 4 50.0 1 2 3 0 0 1 0 1 9
+p771
+aVCarlos Boozer UTA 11/22/2004 UTA vs. NOH L 42 8 2 10 20.0 0 0 - 4 4 100.0 1 9 10 2 2 0 1 3 -2
+p772
+aVCurtis Borchardt UTA 11/22/2004 UTA vs. NOH L 9 2 0 0 - 0 0 - 2 2 100.0 1 3 4 1 0 0 1 4 0
+p773
+aVJarron Collins UTA 11/22/2004 UTA vs. NOH L 14 4 1 1 100.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 3 -10
+p774
+aVKirk Snyder UTA 11/22/2004 UTA vs. NOH L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -3
+p775
+aVCarlos Arroyo UTA 11/22/2004 UTA vs. NOH L 33 10 4 8 50.0 0 0 - 2 3 66.7 0 2 2 7 0 1 6 5 -2
+p776
+aVGordan Giricek UTA 11/22/2004 UTA vs. NOH L 31 9 4 10 40.0 1 1 100.0 0 0 - 0 4 4 2 4 0 2 1 7
+p777
+aVGordan Giricek UTA 11/20/2004 UTA @ ATL W 22 11 5 10 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 3 0 14
+p778
+aVCarlos Arroyo UTA 11/20/2004 UTA @ ATL W 36 9 2 10 20.0 1 3 33.3 4 4 100.0 0 1 1 8 0 0 2 3 18
+p779
+aVJarron Collins UTA 11/20/2004 UTA @ ATL W 27 5 2 3 66.7 0 0 - 1 4 25.0 1 1 2 1 1 0 2 2 8
+p780
+aVCurtis Borchardt UTA 11/20/2004 UTA @ ATL W 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 2 0 -8
+p781
+aVKirk Snyder UTA 11/20/2004 UTA @ ATL W 7 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -13
+p782
+aVCarlos Boozer UTA 11/20/2004 UTA @ ATL W 33 20 9 16 56.3 0 0 - 2 2 100.0 3 8 11 1 0 1 0 4 17
+p783
+aVMehmet Okur UTA 11/20/2004 UTA @ ATL W 28 18 5 8 62.5 1 2 50.0 7 7 100.0 3 5 8 4 0 2 1 2 6
+p784
+aVAndrei Kirilenko UTA 11/20/2004 UTA @ ATL W 41 11 4 8 50.0 0 1 0.0 3 4 75.0 3 11 14 7 1 7 5 2 26
+p785
+aVHoward Eisley UTA 11/20/2004 UTA @ ATL W 12 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 0 -5
+p786
+aVRaja Bell UTA 11/20/2004 UTA @ ATL W 29 8 4 9 44.4 0 1 0.0 0 0 - 1 3 4 1 0 0 0 2 2
+p787
+aVCarlos Boozer UTA 11/19/2004 UTA @ MIA L 45 25 8 16 50.0 0 0 - 9 10 90.0 0 9 9 3 1 0 1 3 -1
+p788
+aVHoward Eisley UTA 11/19/2004 UTA @ MIA L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 1 1 4 2
+p789
+aVMehmet Okur UTA 11/19/2004 UTA @ MIA L 26 4 1 8 12.5 0 1 0.0 2 3 66.7 0 7 7 1 0 0 2 3 -6
+p790
+aVRaja Bell UTA 11/19/2004 UTA @ MIA L 33 17 6 12 50.0 2 2 100.0 3 6 50.0 0 4 4 1 1 0 1 5 -8
+p791
+aVGordan Giricek UTA 11/19/2004 UTA @ MIA L 24 12 4 6 66.7 0 0 - 4 4 100.0 1 3 4 1 0 0 1 1 2
+p792
+aVJarron Collins UTA 11/19/2004 UTA @ MIA L 21 5 0 4 0.0 0 0 - 5 6 83.3 1 3 4 1 0 1 2 4 3
+p793
+aVKirk Snyder UTA 11/19/2004 UTA @ MIA L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 2
+p794
+aVCarlos Arroyo UTA 11/19/2004 UTA @ MIA L 40 18 3 9 33.3 0 1 0.0 12 12 100.0 1 4 5 5 0 0 6 2 -4
+p795
+aVAndrei Kirilenko UTA 11/19/2004 UTA @ MIA L 41 16 5 9 55.6 1 2 50.0 5 7 71.4 3 9 12 4 1 3 2 5 0
+p796
+aVCurtis Borchardt UTA 11/19/2004 UTA @ MIA L 14 4 1 7 14.3 0 0 - 2 2 100.0 5 1 6 2 0 0 0 5 0
+p797
+aVMatt Harpring UTA 11/17/2004 UTA @ ORL L 23 4 0 3 0.0 0 1 0.0 4 4 100.0 0 2 2 1 1 0 3 4 -23
+p798
+aVHoward Eisley UTA 11/17/2004 UTA @ ORL L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -4
+p799
+aVCarlos Boozer UTA 11/17/2004 UTA @ ORL L 38 27 12 22 54.5 0 0 - 3 4 75.0 4 4 8 2 0 1 3 3 -13
+p800
+aVAndrei Kirilenko UTA 11/17/2004 UTA @ ORL L 38 12 3 8 37.5 0 3 0.0 6 6 100.0 1 7 8 3 0 4 3 3 -7
+p801
+aVMehmet Okur UTA 11/17/2004 UTA @ ORL L 21 13 5 10 50.0 0 0 - 3 3 100.0 2 5 7 0 0 1 1 1 -9
+p802
+aVRaja Bell UTA 11/17/2004 UTA @ ORL L 25 10 4 10 40.0 0 1 0.0 2 2 100.0 2 6 8 0 2 1 3 1 -27
+p803
+aVJarron Collins UTA 11/17/2004 UTA @ ORL L 15 8 3 8 37.5 0 0 - 2 2 100.0 2 1 3 2 1 0 1 4 7
+p804
+aVGordan Giricek UTA 11/17/2004 UTA @ ORL L 23 6 2 7 28.6 0 0 - 2 3 66.7 0 1 1 5 0 0 0 1 12
+p805
+aVCarlos Arroyo UTA 11/17/2004 UTA @ ORL L 31 10 3 7 42.9 0 1 0.0 4 4 100.0 0 3 3 6 1 0 1 4 -4
+p806
+aVKeith McLeod UTA 11/17/2004 UTA @ ORL L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 1 1 1 2 -7
+p807
+aVCurtis Borchardt UTA 11/17/2004 UTA @ ORL L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 0
+p808
+aVRaja Bell UTA 11/16/2004 UTA @ CHA W 29 21 7 10 70.0 2 3 66.7 5 8 62.5 0 0 0 1 0 0 3 5 0
+p809
+aVKeith McLeod UTA 11/16/2004 UTA @ CHA W 14 6 3 7 42.9 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -10
+p810
+aVAndrei Kirilenko UTA 11/16/2004 UTA @ CHA W 29 13 4 7 57.1 0 0 - 5 6 83.3 1 6 7 1 2 4 0 5 5
+p811
+aVMehmet Okur UTA 11/16/2004 UTA @ CHA W 15 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -7
+p812
+aVHoward Eisley UTA 11/16/2004 UTA @ CHA W 16 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 8 2 1 1 3 16
+p813
+aVKirk Snyder UTA 11/16/2004 UTA @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p814
+aVMatt Harpring UTA 11/16/2004 UTA @ CHA W 20 2 0 4 0.0 0 0 - 2 2 100.0 0 3 3 2 1 0 1 2 -7
+p815
+aVJarron Collins UTA 11/16/2004 UTA @ CHA W 27 11 2 3 66.7 0 0 - 7 8 87.5 1 3 4 0 0 0 1 2 3
+p816
+aVGordan Giricek UTA 11/16/2004 UTA @ CHA W 19 11 3 8 37.5 0 1 0.0 5 5 100.0 0 1 1 2 0 0 0 3 1
+p817
+aVCarlos Boozer UTA 11/16/2004 UTA @ CHA W 38 34 14 19 73.7 0 0 - 6 7 85.7 5 8 13 3 1 0 4 5 14
+p818
+aVCurtis Borchardt UTA 11/16/2004 UTA @ CHA W 15 4 2 4 50.0 0 0 - 0 0 - 3 2 5 1 0 1 0 4 -2
+p819
+aVCarlos Arroyo UTA 11/16/2004 UTA @ CHA W 19 2 1 4 25.0 0 0 - 0 0 - 0 0 0 4 1 0 2 2 -4
+p820
+aVKeith McLeod UTA 11/13/2004 UTA vs. DET W 24 8 4 5 80.0 0 0 - 0 0 - 1 2 3 5 0 0 5 2 6
+p821
+aVGordan Giricek UTA 11/13/2004 UTA vs. DET W 21 15 6 8 75.0 1 1 100.0 2 2 100.0 0 3 3 5 0 0 1 3 3
+p822
+aVHoward Eisley UTA 11/13/2004 UTA vs. DET W 24 11 5 9 55.6 1 2 50.0 0 0 - 0 1 1 5 1 0 1 0 9
+p823
+aVMatt Harpring UTA 11/13/2004 UTA vs. DET W 23 4 1 5 20.0 0 0 - 2 2 100.0 2 2 4 3 2 0 1 1 12
+p824
+aVAndrei Kirilenko UTA 11/13/2004 UTA vs. DET W 31 17 7 8 87.5 1 2 50.0 2 4 50.0 2 0 2 3 1 2 3 3 13
+p825
+aVCarlos Boozer UTA 11/13/2004 UTA vs. DET W 37 20 8 14 57.1 0 0 - 4 6 66.7 5 8 13 1 0 0 3 1 6
+p826
+aVRaja Bell UTA 11/13/2004 UTA vs. DET W 27 11 4 10 40.0 0 3 0.0 3 4 75.0 1 0 1 2 2 0 0 2 12
+p827
+aVMehmet Okur UTA 11/13/2004 UTA vs. DET W 30 19 5 10 50.0 1 1 100.0 8 8 100.0 1 6 7 3 0 1 0 3 13
+p828
+aVJarron Collins UTA 11/13/2004 UTA vs. DET W 12 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -8
+p829
+aVCurtis Borchardt UTA 11/13/2004 UTA vs. DET W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 9
+p830
+aVMatt Harpring UTA 11/10/2004 UTA vs. TOR L 25 2 1 7 14.3 0 1 0.0 0 0 - 3 6 9 1 0 0 1 3 -3
+p831
+aVRaja Bell UTA 11/10/2004 UTA vs. TOR L 26 20 8 12 66.7 2 4 50.0 2 4 50.0 0 1 1 1 0 0 2 3 -17
+p832
+aVMehmet Okur UTA 11/10/2004 UTA vs. TOR L 21 7 2 7 28.6 0 2 0.0 3 3 100.0 4 6 10 1 0 1 1 3 -5
+p833
+aVGordan Giricek UTA 11/10/2004 UTA vs. TOR L 25 14 6 8 75.0 0 1 0.0 2 2 100.0 0 5 5 1 1 0 1 0 6
+p834
+aVCarlos Boozer UTA 11/10/2004 UTA vs. TOR L 36 19 5 15 33.3 0 0 - 9 11 81.8 3 2 5 3 1 0 0 1 -1
+p835
+aVKeith McLeod UTA 11/10/2004 UTA vs. TOR L 27 16 5 11 45.5 0 0 - 6 7 85.7 1 1 2 1 1 0 1 1 3
+p836
+aVKirk Snyder UTA 11/10/2004 UTA vs. TOR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p837
+aVHoward Eisley UTA 11/10/2004 UTA vs. TOR L 21 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 5 0 0 1 1 -12
+p838
+aVAndrei Kirilenko UTA 11/10/2004 UTA vs. TOR L 36 9 3 11 27.3 0 2 0.0 3 4 75.0 4 6 10 2 1 3 3 4 -15
+p839
+aVCurtis Borchardt UTA 11/10/2004 UTA vs. TOR L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 1 0 1 -3
+p840
+aVJarron Collins UTA 11/10/2004 UTA vs. TOR L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -3
+p841
+aVKris Humphries UTA 11/10/2004 UTA vs. TOR L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p842
+aVKeith McLeod UTA 11/08/2004 UTA vs. DEN W 18 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 4 0 0 2 5 6
+p843
+aVHoward Eisley UTA 11/08/2004 UTA vs. DEN W 30 9 3 8 37.5 0 1 0.0 3 4 75.0 0 3 3 6 1 1 5 2 5
+p844
+aVGordan Giricek UTA 11/08/2004 UTA vs. DEN W 18 14 5 8 62.5 2 2 100.0 2 2 100.0 1 2 3 1 1 1 1 3 -1
+p845
+aVJarron Collins UTA 11/08/2004 UTA vs. DEN W 18 12 5 7 71.4 0 0 - 2 2 100.0 0 2 2 0 0 0 0 4 2
+p846
+aVRaja Bell UTA 11/08/2004 UTA vs. DEN W 31 17 6 14 42.9 3 5 60.0 2 2 100.0 3 2 5 2 1 0 0 3 12
+p847
+aVMatt Harpring UTA 11/08/2004 UTA vs. DEN W 34 7 3 7 42.9 0 2 0.0 1 2 50.0 1 5 6 3 0 0 0 5 10
+p848
+aVMehmet Okur UTA 11/08/2004 UTA vs. DEN W 20 12 4 6 66.7 0 0 - 4 4 100.0 3 6 9 2 0 2 0 0 11
+p849
+aVAndrei Kirilenko UTA 11/08/2004 UTA vs. DEN W 40 24 8 12 66.7 1 3 33.3 7 12 58.3 1 5 6 4 4 5 3 0 18
+p850
+aVCarlos Boozer UTA 11/08/2004 UTA vs. DEN W 32 4 1 5 20.0 0 0 - 2 2 100.0 1 6 7 0 0 0 3 4 -8
+p851
+aVKris Humphries UTA 11/06/2004 UTA @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p852
+aVCarlos Boozer UTA 11/06/2004 UTA @ DEN W 34 30 13 19 68.4 0 0 - 4 4 100.0 5 12 17 3 0 0 1 3 23
+p853
+aVKirk Snyder UTA 11/06/2004 UTA @ DEN W 4 3 1 2 50.0 1 1 100.0 0 2 0.0 0 0 0 1 0 0 0 2 -10
+p854
+aVCurtis Borchardt UTA 11/06/2004 UTA @ DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p855
+aVMatt Harpring UTA 11/06/2004 UTA @ DEN W 28 8 3 5 60.0 1 2 50.0 1 2 50.0 2 1 3 2 0 0 2 4 22
+p856
+aVHoward Eisley UTA 11/06/2004 UTA @ DEN W 26 10 5 8 62.5 0 0 - 0 0 - 0 0 0 8 3 0 1 1 18
+p857
+aVRaja Bell UTA 11/06/2004 UTA @ DEN W 30 10 4 8 50.0 0 1 0.0 2 3 66.7 0 3 3 5 0 0 1 1 33
+p858
+aVGordan Giricek UTA 11/06/2004 UTA @ DEN W 14 7 2 4 50.0 1 1 100.0 2 3 66.7 0 0 0 1 0 0 2 2 1
+p859
+aVJarron Collins UTA 11/06/2004 UTA @ DEN W 17 4 2 3 66.7 0 0 - 0 0 - 1 5 6 2 0 0 0 4 17
+p860
+aVAndrei Kirilenko UTA 11/06/2004 UTA @ DEN W 37 16 3 13 23.1 1 2 50.0 9 14 64.3 5 2 7 3 3 8 1 0 29
+p861
+aVMehmet Okur UTA 11/06/2004 UTA @ DEN W 20 12 4 6 66.7 0 0 - 4 6 66.7 2 3 5 1 0 0 1 5 -4
+p862
+aVKeith McLeod UTA 11/06/2004 UTA @ DEN W 22 6 2 8 25.0 0 1 0.0 2 2 100.0 0 3 3 6 0 0 2 3 6
+p863
+aVHoward Eisley UTA 11/05/2004 UTA @ GSW W 21 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 5 1 0 3 3 -9
+p864
+aVKris Humphries UTA 11/05/2004 UTA @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p865
+aVJarron Collins UTA 11/05/2004 UTA @ GSW W 22 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 28
+p866
+aVMatt Harpring UTA 11/05/2004 UTA @ GSW W 29 11 5 8 62.5 0 1 0.0 1 1 100.0 2 3 5 1 0 0 4 2 8
+p867
+aVCurtis Borchardt UTA 11/05/2004 UTA @ GSW W 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 -10
+p868
+aVGordan Giricek UTA 11/05/2004 UTA @ GSW W 21 9 4 6 66.7 1 1 100.0 0 0 - 0 6 6 3 0 0 1 0 29
+p869
+aVRaja Bell UTA 11/05/2004 UTA @ GSW W 27 11 5 8 62.5 1 3 33.3 0 0 - 0 4 4 1 0 0 1 2 -7
+p870
+aVMehmet Okur UTA 11/05/2004 UTA @ GSW W 15 6 2 5 40.0 0 0 - 2 3 66.7 1 1 2 0 0 0 3 4 4
+p871
+aVCarlos Boozer UTA 11/05/2004 UTA @ GSW W 29 16 7 16 43.8 0 0 - 2 3 66.7 3 6 9 4 0 1 2 2 16
+p872
+aVAndrei Kirilenko UTA 11/05/2004 UTA @ GSW W 31 14 5 10 50.0 0 1 0.0 4 5 80.0 0 5 5 2 1 5 1 2 24
+p873
+aVKirk Snyder UTA 11/05/2004 UTA @ GSW W 4 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p874
+aVKeith McLeod UTA 11/05/2004 UTA @ GSW W 28 15 7 8 87.5 0 0 - 1 2 50.0 0 4 4 10 1 0 1 3 31
+p875
+aVMatt Harpring UTA 11/03/2004 UTA vs. LAL W 28 23 9 11 81.8 2 2 100.0 3 3 100.0 2 5 7 4 1 0 2 4 10
+p876
+aVRaja Bell UTA 11/03/2004 UTA vs. LAL W 25 10 4 8 50.0 0 3 0.0 2 2 100.0 0 3 3 0 0 0 1 5 15
+p877
+aVAndrei Kirilenko UTA 11/03/2004 UTA vs. LAL W 38 16 5 6 83.3 0 0 - 6 7 85.7 2 4 6 1 1 8 5 2 29
+p878
+aVKris Humphries UTA 11/03/2004 UTA vs. LAL W 2 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p879
+aVCurtis Borchardt UTA 11/03/2004 UTA vs. LAL W 14 5 2 3 66.7 0 0 - 1 2 50.0 1 5 6 1 0 3 1 2 4
+p880
+aVGordan Giricek UTA 11/03/2004 UTA vs. LAL W 12 11 4 9 44.4 0 0 - 3 3 100.0 0 1 1 0 0 0 2 4 8
+p881
+aVMehmet Okur UTA 11/03/2004 UTA vs. LAL W 20 2 0 4 0.0 0 0 - 2 2 100.0 1 4 5 4 1 2 0 1 2
+p882
+aVKirk Snyder UTA 11/03/2004 UTA vs. LAL W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 0 2 2
+p883
+aVHoward Eisley UTA 11/03/2004 UTA vs. LAL W 19 4 2 7 28.6 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -3
+p884
+aVCarlos Boozer UTA 11/03/2004 UTA vs. LAL W 34 27 10 13 76.9 0 0 - 7 10 70.0 5 6 11 3 0 0 0 1 25
+p885
+aVKeith McLeod UTA 11/03/2004 UTA vs. LAL W 29 6 2 7 28.6 0 1 0.0 2 2 100.0 0 0 0 8 1 0 1 5 29
+p886
+aVJarron Collins UTA 11/03/2004 UTA vs. LAL W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 7
+p887
+a.

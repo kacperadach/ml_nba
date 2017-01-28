@@ -1,0 +1,1024 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMichael Finley DAL 05/04/1999 DAL @ SEA L 44 34 12 22 54.5 2 3 66.7 8 11 72.7 3 7 10 6 2 0 1 4 -13
+p2
+aVErick Strickland DAL 05/04/1999 DAL @ SEA L 22 11 4 7 57.1 1 1 100.0 2 3 66.7 0 2 2 3 1 0 0 3 -1
+p3
+aVHubert Davis DAL 05/04/1999 DAL @ SEA L 42 21 7 19 36.8 5 9 55.6 2 2 100.0 0 2 2 4 0 0 0 4 -3
+p4
+aVShawn Bradley DAL 05/04/1999 DAL @ SEA L 40 17 8 14 57.1 0 0 - 1 1 100.0 3 12 15 2 2 4 4 4 -3
+p5
+aVSamaki Walker DAL 05/04/1999 DAL @ SEA L 18 2 0 2 0.0 0 0 - 2 4 50.0 0 0 0 2 1 0 1 5 -5
+p6
+aVChris Anstey DAL 05/04/1999 DAL @ SEA L 18 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 3 1 0 1 2 -6
+p7
+aVA.C. Green DAL 05/04/1999 DAL @ SEA L 24 4 2 5 40.0 0 1 0.0 0 2 0.0 1 1 2 0 1 0 0 4 -5
+p8
+aVDirk Nowitzki DAL 05/04/1999 DAL @ SEA L 33 9 2 13 15.4 0 3 0.0 5 6 83.3 2 3 5 1 2 0 3 6 -14
+p9
+aVShawn Bradley DAL 05/03/1999 DAL @ LAL L 16 13 5 6 83.3 0 0 - 3 4 75.0 0 2 2 0 2 2 1 3 8
+p10
+aVHot Rod Williams DAL 05/03/1999 DAL @ LAL L 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -15
+p11
+aVA.C. Green DAL 05/03/1999 DAL @ LAL L 20 2 1 3 33.3 0 2 0.0 0 2 0.0 2 3 5 1 0 0 2 1 2
+p12
+aVSamaki Walker DAL 05/03/1999 DAL @ LAL L 20 15 5 7 71.4 0 0 - 5 7 71.4 2 1 3 1 1 0 2 5 -5
+p13
+aVChris Anstey DAL 05/03/1999 DAL @ LAL L 25 10 3 8 37.5 0 0 - 4 6 66.7 2 5 7 1 1 0 2 5 3
+p14
+aVHubert Davis DAL 05/03/1999 DAL @ LAL L 43 13 5 11 45.5 1 4 25.0 2 2 100.0 1 2 3 1 0 0 5 2 -19
+p15
+aVBruno Sundov DAL 05/03/1999 DAL @ LAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p16
+aVErick Strickland DAL 05/03/1999 DAL @ LAL L 46 17 5 13 38.5 0 1 0.0 7 9 77.8 0 4 4 6 3 1 2 3 -13
+p17
+aVDirk Nowitzki DAL 05/03/1999 DAL @ LAL L 15 8 3 6 50.0 0 0 - 2 4 50.0 0 1 1 0 0 0 1 6 -12
+p18
+aVMichael Finley DAL 05/03/1999 DAL @ LAL L 42 24 8 16 50.0 3 6 50.0 5 6 83.3 1 4 5 3 0 0 1 0 -16
+p19
+aVErick Strickland DAL 05/01/1999 DAL vs. GSW W 29 9 4 8 50.0 0 0 - 1 2 50.0 0 6 6 6 1 0 2 2 11
+p20
+aVMichael Finley DAL 05/01/1999 DAL vs. GSW W 48 31 11 17 64.7 0 0 - 9 9 100.0 0 5 5 5 0 0 3 2 11
+p21
+aVGary Trent DAL 05/01/1999 DAL vs. GSW W 21 17 7 10 70.0 0 0 - 3 6 50.0 2 2 4 1 2 0 1 0 2
+p22
+aVA.C. Green DAL 05/01/1999 DAL vs. GSW W 9 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -5
+p23
+aVHubert Davis DAL 05/01/1999 DAL vs. GSW W 44 21 6 12 50.0 5 8 62.5 4 4 100.0 0 2 2 6 2 0 2 1 15
+p24
+aVShawn Bradley DAL 05/01/1999 DAL vs. GSW W 32 6 3 12 25.0 0 0 - 0 0 - 10 5 15 2 2 6 2 3 16
+p25
+aVDirk Nowitzki DAL 05/01/1999 DAL vs. GSW W 31 15 6 13 46.2 0 0 - 3 4 75.0 0 3 3 2 0 0 3 3 7
+p26
+aVChris Anstey DAL 05/01/1999 DAL vs. GSW W 14 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -3
+p27
+aVHot Rod Williams DAL 05/01/1999 DAL vs. GSW W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 0 1
+p28
+aVHot Rod Williams DAL 04/29/1999 DAL @ HOU W 16 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 2 0 0 2 -1
+p29
+aVDirk Nowitzki DAL 04/29/1999 DAL @ HOU W 34 22 8 15 53.3 0 2 0.0 6 6 100.0 2 5 7 1 0 0 0 2 4
+p30
+aVErick Strickland DAL 04/29/1999 DAL @ HOU W 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 1 0 1 3 9
+p31
+aVHubert Davis DAL 04/29/1999 DAL @ HOU W 45 19 7 14 50.0 2 4 50.0 3 3 100.0 0 4 4 6 3 0 2 2 5
+p32
+aVGary Trent DAL 04/29/1999 DAL @ HOU W 44 20 8 20 40.0 0 1 0.0 4 7 57.1 2 5 7 2 3 0 1 2 5
+p33
+aVMichael Finley DAL 04/29/1999 DAL @ HOU W 45 22 8 21 38.1 2 7 28.6 4 4 100.0 1 4 5 4 2 0 2 2 11
+p34
+aVShawn Bradley DAL 04/29/1999 DAL @ HOU W 31 3 1 5 20.0 0 0 - 1 2 50.0 2 9 11 0 0 5 0 3 11
+p35
+aVA.C. Green DAL 04/29/1999 DAL @ HOU W 7 5 2 4 50.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 0 1
+p36
+aVChris Anstey DAL 04/29/1999 DAL @ HOU W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 1 0 0 5
+p37
+aVGary Trent DAL 04/27/1999 DAL vs. VAN W 38 20 7 14 50.0 0 0 - 6 9 66.7 2 6 8 2 1 1 0 4 7
+p38
+aVDirk Nowitzki DAL 04/27/1999 DAL vs. VAN W 35 11 4 10 40.0 0 0 - 3 5 60.0 2 3 5 2 1 1 1 4 9
+p39
+aVChris Anstey DAL 04/27/1999 DAL vs. VAN W 18 8 2 5 40.0 0 0 - 4 5 80.0 0 2 2 0 0 1 2 4 11
+p40
+aVHubert Davis DAL 04/27/1999 DAL vs. VAN W 42 12 5 14 35.7 1 4 25.0 1 1 100.0 0 3 3 5 0 1 0 2 14
+p41
+aVErick Strickland DAL 04/27/1999 DAL vs. VAN W 22 8 3 8 37.5 0 1 0.0 2 2 100.0 1 2 3 2 3 0 0 3 0
+p42
+aVShawn Bradley DAL 04/27/1999 DAL vs. VAN W 25 10 5 9 55.6 0 0 - 0 0 - 5 7 12 0 2 2 3 5 5
+p43
+aVMichael Finley DAL 04/27/1999 DAL vs. VAN W 44 15 6 13 46.2 0 2 0.0 3 8 37.5 1 3 4 5 6 2 4 0 2
+p44
+aVA.C. Green DAL 04/27/1999 DAL vs. VAN W 15 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 0 2 2 -3
+p45
+aVMichael Finley DAL 04/26/1999 DAL vs. CHI W 48 28 11 18 61.1 2 4 50.0 4 5 80.0 3 8 11 2 0 0 1 2 8
+p46
+aVA.C. Green DAL 04/26/1999 DAL vs. CHI W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -13
+p47
+aVShawn Bradley DAL 04/26/1999 DAL vs. CHI W 30 14 6 10 60.0 0 0 - 2 2 100.0 7 10 17 0 0 6 2 6 22
+p48
+aVErick Strickland DAL 04/26/1999 DAL vs. CHI W 20 20 7 12 58.3 1 5 20.0 5 5 100.0 2 2 4 3 1 0 2 0 -9
+p49
+aVHubert Davis DAL 04/26/1999 DAL vs. CHI W 43 9 4 9 44.4 0 2 0.0 1 1 100.0 0 0 0 5 0 0 2 2 7
+p50
+aVChris Anstey DAL 04/26/1999 DAL vs. CHI W 14 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 4 -7
+p51
+aVDirk Nowitzki DAL 04/26/1999 DAL vs. CHI W 30 8 3 11 27.3 0 0 - 2 2 100.0 0 3 3 2 1 1 2 0 18
+p52
+aVGary Trent DAL 04/26/1999 DAL vs. CHI W 42 16 8 18 44.4 0 0 - 0 0 - 2 5 7 5 1 1 1 5 14
+p53
+aVA.C. Green DAL 04/24/1999 DAL @ SAC L 24 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 1 0 1 2 15
+p54
+aVGary Trent DAL 04/24/1999 DAL @ SAC L 45 32 13 23 56.5 0 0 - 6 14 42.9 6 8 14 3 1 1 3 3 -6
+p55
+aVErick Strickland DAL 04/24/1999 DAL @ SAC L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 1 0 6
+p56
+aVChris Anstey DAL 04/24/1999 DAL @ SAC L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -5
+p57
+aVShawn Bradley DAL 04/24/1999 DAL @ SAC L 30 6 2 9 22.2 0 0 - 2 2 100.0 4 8 12 2 1 4 0 4 -2
+p58
+aVHot Rod Williams DAL 04/24/1999 DAL @ SAC L 12 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -2
+p59
+aVHubert Davis DAL 04/24/1999 DAL @ SAC L 38 18 7 15 46.7 3 8 37.5 1 2 50.0 0 2 2 4 0 0 4 4 -6
+p60
+aVDirk Nowitzki DAL 04/24/1999 DAL @ SAC L 27 12 5 7 71.4 0 1 0.0 2 3 66.7 0 5 5 1 2 0 1 6 -8
+p61
+aVMichael Finley DAL 04/24/1999 DAL @ SAC L 47 26 12 27 44.4 1 5 20.0 1 1 100.0 2 4 6 8 3 0 2 2 -7
+p62
+aVChris Anstey DAL 04/22/1999 DAL @ SAS L 28 5 2 5 40.0 0 0 - 1 2 50.0 4 6 10 1 3 1 1 4 -14
+p63
+aVDirk Nowitzki DAL 04/22/1999 DAL @ SAS L 40 8 3 8 37.5 0 0 - 2 3 66.7 0 5 5 0 2 0 2 5 -23
+p64
+aVHubert Davis DAL 04/22/1999 DAL @ SAS L 37 11 4 7 57.1 3 3 100.0 0 0 - 1 1 2 2 0 0 2 1 -17
+p65
+aVErick Strickland DAL 04/22/1999 DAL @ SAS L 29 9 3 10 30.0 0 2 0.0 3 4 75.0 1 3 4 2 0 0 3 2 -14
+p66
+aVGary Trent DAL 04/22/1999 DAL @ SAS L 33 7 3 16 18.8 0 1 0.0 1 2 50.0 2 5 7 2 0 0 4 3 -21
+p67
+aVShawn Bradley DAL 04/22/1999 DAL @ SAS L 12 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p68
+aVA.C. Green DAL 04/22/1999 DAL @ SAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 4 0 0 0 -1
+p69
+aVSamaki Walker DAL 04/22/1999 DAL @ SAS L 14 6 3 5 60.0 0 0 - 0 2 0.0 0 2 2 0 1 0 2 6 -10
+p70
+aVMichael Finley DAL 04/22/1999 DAL @ SAS L 35 20 7 16 43.8 1 2 50.0 5 5 100.0 1 4 5 2 1 0 5 2 -22
+p71
+aVBruno Sundov DAL 04/22/1999 DAL @ SAS L 6 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -5
+p72
+aVChris Anstey DAL 04/21/1999 DAL @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p73
+aVBruno Sundov DAL 04/21/1999 DAL @ HOU W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -10
+p74
+aVMichael Finley DAL 04/21/1999 DAL @ HOU W 43 27 11 20 55.0 1 5 20.0 4 4 100.0 1 5 6 11 2 0 2 1 24
+p75
+aVShawn Bradley DAL 04/21/1999 DAL @ HOU W 31 6 3 5 60.0 0 0 - 0 0 - 2 8 10 1 1 4 0 5 31
+p76
+aVDirk Nowitzki DAL 04/21/1999 DAL @ HOU W 41 22 10 13 76.9 2 2 100.0 0 0 - 0 3 3 3 1 3 1 3 13
+p77
+aVHubert Davis DAL 04/21/1999 DAL @ HOU W 40 14 5 13 38.5 2 4 50.0 2 2 100.0 0 3 3 4 2 0 2 1 22
+p78
+aVHot Rod Williams DAL 04/21/1999 DAL @ HOU W 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -17
+p79
+aVGary Trent DAL 04/21/1999 DAL @ HOU W 36 24 11 20 55.0 0 0 - 2 3 66.7 2 8 10 3 1 0 0 3 20
+p80
+aVErick Strickland DAL 04/21/1999 DAL @ HOU W 18 6 2 7 28.6 0 1 0.0 2 2 100.0 1 4 5 2 2 0 2 0 -7
+p81
+aVA.C. Green DAL 04/21/1999 DAL @ HOU W 10 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 4
+p82
+aVSamaki Walker DAL 04/20/1999 DAL vs. PHX W 23 9 3 5 60.0 0 0 - 3 4 75.0 1 2 3 0 0 1 2 2 -22
+p83
+aVErick Strickland DAL 04/20/1999 DAL vs. PHX W 25 11 5 10 50.0 1 1 100.0 0 0 - 0 0 0 3 3 1 2 0 9
+p84
+aVDirk Nowitzki DAL 04/20/1999 DAL vs. PHX W 40 13 3 11 27.3 0 2 0.0 7 10 70.0 1 8 9 4 1 1 4 6 8
+p85
+aVShawn Bradley DAL 04/20/1999 DAL vs. PHX W 29 10 4 7 57.1 0 0 - 2 2 100.0 3 7 10 2 1 2 2 4 16
+p86
+aVA.C. Green DAL 04/20/1999 DAL vs. PHX W 14 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 1 -2
+p87
+aVMichael Finley DAL 04/20/1999 DAL vs. PHX W 48 36 14 25 56.0 2 3 66.7 6 6 100.0 1 9 10 4 3 1 2 1 4
+p88
+aVChris Anstey DAL 04/20/1999 DAL vs. PHX W 17 4 2 3 66.7 0 0 - 0 0 - 1 3 4 3 0 0 1 5 -1
+p89
+aVHubert Davis DAL 04/20/1999 DAL vs. PHX W 45 18 8 15 53.3 2 5 40.0 0 0 - 0 3 3 4 1 0 2 2 8
+p90
+aVA.C. Green DAL 04/17/1999 DAL vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p91
+aVSamaki Walker DAL 04/17/1999 DAL vs. POR L 10 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 2 1 1 3
+p92
+aVSteve Nash DAL 04/17/1999 DAL vs. POR L 33 9 4 5 80.0 1 1 100.0 0 0 - 0 2 2 4 2 0 3 2 -18
+p93
+aVGary Trent DAL 04/17/1999 DAL vs. POR L 45 24 9 22 40.9 0 0 - 6 9 66.7 4 6 10 3 1 0 2 5 -1
+p94
+aVMichael Finley DAL 04/17/1999 DAL vs. POR L 48 24 8 16 50.0 1 4 25.0 7 8 87.5 1 6 7 5 0 0 3 1 -8
+p95
+aVDirk Nowitzki DAL 04/17/1999 DAL vs. POR L 40 17 6 11 54.5 2 5 40.0 3 5 60.0 1 2 3 2 2 1 5 4 -5
+p96
+aVShawn Bradley DAL 04/17/1999 DAL vs. POR L 24 2 1 7 14.3 0 1 0.0 0 0 - 3 3 6 0 0 0 0 0 -5
+p97
+aVChris Anstey DAL 04/17/1999 DAL vs. POR L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -7
+p98
+aVHubert Davis DAL 04/17/1999 DAL vs. POR L 29 13 4 8 50.0 4 6 66.7 1 1 100.0 0 1 1 0 0 1 1 4 3
+p99
+aVMichael Finley DAL 04/16/1999 DAL @ PHX L 27 6 3 11 27.3 0 1 0.0 0 0 - 1 3 4 1 2 0 3 0 -4
+p100
+aVSamaki Walker DAL 04/16/1999 DAL @ PHX L 18 3 1 2 50.0 0 0 - 1 2 50.0 1 6 7 1 0 0 1 4 1
+p101
+aVA.C. Green DAL 04/16/1999 DAL @ PHX L 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -2
+p102
+aVDirk Nowitzki DAL 04/16/1999 DAL @ PHX L 44 29 10 16 62.5 2 5 40.0 7 8 87.5 3 5 8 1 3 2 5 5 -5
+p103
+aVRobert Pack DAL 04/16/1999 DAL @ PHX L 32 17 7 13 53.8 0 0 - 3 5 60.0 2 2 4 7 0 0 1 1 -7
+p104
+aVHubert Davis DAL 04/16/1999 DAL @ PHX L 27 10 4 8 50.0 0 1 0.0 2 2 100.0 0 2 2 2 1 0 1 0 -3
+p105
+aVChris Anstey DAL 04/16/1999 DAL @ PHX L 12 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 1 0 2 3 6
+p106
+aVGary Trent DAL 04/16/1999 DAL @ PHX L 31 15 6 13 46.2 0 0 - 3 6 50.0 2 5 7 0 0 0 2 1 -11
+p107
+aVSteve Nash DAL 04/16/1999 DAL @ PHX L 32 0 0 2 0.0 0 1 0.0 0 0 - 1 3 4 6 1 0 2 3 -10
+p108
+aVHubert Davis DAL 04/15/1999 DAL vs. MIN W 30 13 3 7 42.9 2 3 66.7 5 5 100.0 0 2 2 1 0 0 2 1 3
+p109
+aVSteve Nash DAL 04/15/1999 DAL vs. MIN W 38 11 5 13 38.5 1 3 33.3 0 0 - 1 3 4 6 1 0 1 1 7
+p110
+aVMichael Finley DAL 04/15/1999 DAL vs. MIN W 47 34 11 16 68.8 3 3 100.0 9 9 100.0 2 3 5 2 2 0 3 2 7
+p111
+aVSamaki Walker DAL 04/15/1999 DAL vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p112
+aVA.C. Green DAL 04/15/1999 DAL vs. MIN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p113
+aVRobert Pack DAL 04/15/1999 DAL vs. MIN W 6 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 1 0 -7
+p114
+aVShawn Bradley DAL 04/15/1999 DAL vs. MIN W 31 10 4 9 44.4 0 0 - 2 4 50.0 3 6 9 2 2 4 2 4 14
+p115
+aVChris Anstey DAL 04/15/1999 DAL vs. MIN W 17 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 3 -10
+p116
+aVDirk Nowitzki DAL 04/15/1999 DAL vs. MIN W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 1 1 0 2 1 8
+p117
+aVGary Trent DAL 04/15/1999 DAL vs. MIN W 44 22 6 13 46.2 0 0 - 10 15 66.7 2 7 9 4 1 1 2 3 7
+p118
+aVSamaki Walker DAL 04/13/1999 DAL vs. SAS W 16 6 3 6 50.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 1 -3
+p119
+aVGary Trent DAL 04/13/1999 DAL vs. SAS W 34 18 7 11 63.6 0 0 - 4 10 40.0 1 5 6 1 0 3 1 3 12
+p120
+aVMichael Finley DAL 04/13/1999 DAL vs. SAS W 41 25 9 16 56.3 1 1 100.0 6 6 100.0 2 1 3 1 3 0 3 2 2
+p121
+aVShawn Bradley DAL 04/13/1999 DAL vs. SAS W 30 10 5 11 45.5 0 0 - 0 0 - 2 10 12 1 1 2 2 6 3
+p122
+aVChris Anstey DAL 04/13/1999 DAL vs. SAS W 21 8 4 10 40.0 0 1 0.0 0 0 - 3 3 6 1 0 3 1 4 0
+p123
+aVHubert Davis DAL 04/13/1999 DAL vs. SAS W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p124
+aVA.C. Green DAL 04/13/1999 DAL vs. SAS W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 3 -11
+p125
+aVRobert Pack DAL 04/13/1999 DAL vs. SAS W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -12
+p126
+aVDirk Nowitzki DAL 04/13/1999 DAL vs. SAS W 32 12 4 14 28.6 0 4 0.0 4 6 66.7 4 9 13 4 1 0 2 1 17
+p127
+aVSteve Nash DAL 04/13/1999 DAL vs. SAS W 42 8 3 10 30.0 1 3 33.3 1 2 50.0 1 4 5 12 2 0 5 1 18
+p128
+aVRobert Pack DAL 04/10/1999 DAL vs. GSW L 12 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 3 1 0 3 1 -11
+p129
+aVSteve Nash DAL 04/10/1999 DAL vs. GSW L 41 11 4 11 36.4 3 6 50.0 0 0 - 0 7 7 3 0 0 1 2 6
+p130
+aVDirk Nowitzki DAL 04/10/1999 DAL vs. GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p131
+aVA.C. Green DAL 04/10/1999 DAL vs. GSW L 9 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -3
+p132
+aVMichael Finley DAL 04/10/1999 DAL vs. GSW L 44 17 6 18 33.3 0 0 - 5 6 83.3 1 3 4 6 2 1 2 0 -5
+p133
+aVGary Trent DAL 04/10/1999 DAL vs. GSW L 42 33 10 16 62.5 0 0 - 13 20 65.0 7 4 11 2 1 0 5 3 1
+p134
+aVChris Anstey DAL 04/10/1999 DAL vs. GSW L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p135
+aVHubert Davis DAL 04/10/1999 DAL vs. GSW L 39 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 1 0 0 1 3 2
+p136
+aVShawn Bradley DAL 04/10/1999 DAL vs. GSW L 33 12 6 19 31.6 0 0 - 0 0 - 6 7 13 0 2 4 1 4 0
+p137
+aVSamaki Walker DAL 04/10/1999 DAL vs. GSW L 13 4 2 3 66.7 0 0 - 0 1 0.0 3 2 5 0 0 2 1 2 3
+p138
+aVErick Strickland DAL 04/07/1999 DAL @ MIA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p139
+aVChris Anstey DAL 04/07/1999 DAL @ MIA L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 0
+p140
+aVSteve Nash DAL 04/07/1999 DAL @ MIA L 43 9 2 5 40.0 1 2 50.0 4 4 100.0 0 1 1 5 0 0 1 4 1
+p141
+aVMichael Finley DAL 04/07/1999 DAL @ MIA L 47 26 12 23 52.2 0 1 0.0 2 2 100.0 3 4 7 4 1 0 3 5 -1
+p142
+aVGary Trent DAL 04/07/1999 DAL @ MIA L 39 27 9 19 47.4 0 0 - 9 13 69.2 5 8 13 3 2 2 1 6 0
+p143
+aVDirk Nowitzki DAL 04/07/1999 DAL @ MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p144
+aVSamaki Walker DAL 04/07/1999 DAL @ MIA L 8 1 0 3 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 0 -8
+p145
+aVA.C. Green DAL 04/07/1999 DAL @ MIA L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -7
+p146
+aVHubert Davis DAL 04/07/1999 DAL @ MIA L 46 6 3 8 37.5 0 2 0.0 0 0 - 0 6 6 3 0 0 1 4 -6
+p147
+aVShawn Bradley DAL 04/07/1999 DAL @ MIA L 32 16 7 10 70.0 0 0 - 2 2 100.0 1 3 4 2 0 1 0 1 -3
+p148
+aVSteve Nash DAL 04/05/1999 DAL @ MIN L 38 12 5 10 50.0 2 4 50.0 0 0 - 1 1 2 7 1 0 5 6 -7
+p149
+aVHubert Davis DAL 04/05/1999 DAL @ MIN L 21 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 1 4 -1
+p150
+aVDirk Nowitzki DAL 04/05/1999 DAL @ MIN L 25 12 4 6 66.7 0 1 0.0 4 4 100.0 2 4 6 1 0 1 0 6 -8
+p151
+aVErick Strickland DAL 04/05/1999 DAL @ MIN L 16 5 1 7 14.3 0 3 0.0 3 6 50.0 1 3 4 1 3 0 1 1 1
+p152
+aVMichael Finley DAL 04/05/1999 DAL @ MIN L 36 7 2 13 15.4 1 2 50.0 2 2 100.0 0 5 5 5 0 0 3 2 -6
+p153
+aVA.C. Green DAL 04/05/1999 DAL @ MIN L 16 8 4 4 100.0 0 0 - 0 0 - 0 1 1 0 0 1 3 2 -4
+p154
+aVGary Trent DAL 04/05/1999 DAL @ MIN L 36 26 9 17 52.9 0 0 - 8 8 100.0 4 4 8 2 2 0 4 2 -8
+p155
+aVShawn Bradley DAL 04/05/1999 DAL @ MIN L 29 14 5 8 62.5 0 0 - 4 4 100.0 1 4 5 0 0 2 2 0 -9
+p156
+aVSamaki Walker DAL 04/05/1999 DAL @ MIN L 22 7 3 4 75.0 0 0 - 1 1 100.0 1 5 6 0 0 1 0 2 7
+p157
+aVGary Trent DAL 04/01/1999 DAL vs. LAC W 37 23 9 15 60.0 0 0 - 5 6 83.3 6 5 11 6 0 0 3 0 15
+p158
+aVSamaki Walker DAL 04/01/1999 DAL vs. LAC W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 3
+p159
+aVChris Anstey DAL 04/01/1999 DAL vs. LAC W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 1 1 2 -11
+p160
+aVSteve Nash DAL 04/01/1999 DAL vs. LAC W 37 12 5 6 83.3 2 3 66.7 0 0 - 2 5 7 9 3 0 3 3 16
+p161
+aVHubert Davis DAL 04/01/1999 DAL vs. LAC W 23 6 2 4 50.0 2 3 66.7 0 0 - 0 3 3 1 0 0 1 0 -11
+p162
+aVErick Strickland DAL 04/01/1999 DAL vs. LAC W 7 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -9
+p163
+aVShawn Bradley DAL 04/01/1999 DAL vs. LAC W 42 16 6 12 50.0 0 0 - 4 4 100.0 2 11 13 1 1 5 0 3 15
+p164
+aVA.C. Green DAL 04/01/1999 DAL vs. LAC W 34 13 6 11 54.5 0 0 - 1 2 50.0 1 1 2 2 0 0 0 3 18
+p165
+aVMichael Finley DAL 04/01/1999 DAL vs. LAC W 43 22 9 19 47.4 0 1 0.0 4 4 100.0 1 4 5 1 0 1 3 2 9
+p166
+aVGary Trent DAL 03/30/1999 DAL @ MIN L 31 16 5 12 41.7 0 0 - 6 13 46.2 2 9 11 1 0 1 1 0 -12
+p167
+aVShawn Bradley DAL 03/30/1999 DAL @ MIN L 27 13 5 8 62.5 0 0 - 3 4 75.0 3 3 6 0 0 2 2 3 -11
+p168
+aVSamaki Walker DAL 03/30/1999 DAL @ MIN L 17 9 3 5 60.0 0 0 - 3 5 60.0 1 1 2 0 0 1 1 1 -8
+p169
+aVChris Anstey DAL 03/30/1999 DAL @ MIN L 24 12 6 7 85.7 0 0 - 0 0 - 1 0 1 0 1 2 1 2 -17
+p170
+aVSteve Nash DAL 03/30/1999 DAL @ MIN L 31 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 10 0 0 2 5 1
+p171
+aVHubert Davis DAL 03/30/1999 DAL @ MIN L 44 6 2 9 22.2 0 1 0.0 2 2 100.0 0 2 2 4 0 0 1 1 -23
+p172
+aVMichael Finley DAL 03/30/1999 DAL @ MIN L 43 10 5 15 33.3 0 1 0.0 0 0 - 1 2 3 5 0 0 6 3 -20
+p173
+aVErick Strickland DAL 03/30/1999 DAL @ MIN L 8 3 1 4 25.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -11
+p174
+aVA.C. Green DAL 03/30/1999 DAL @ MIN L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p175
+aVDirk Nowitzki DAL 03/30/1999 DAL @ MIN L 10 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 0 1 0 1 1 3
+p176
+aVChris Anstey DAL 03/29/1999 DAL vs. SEA L 9 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 8
+p177
+aVErick Strickland DAL 03/29/1999 DAL vs. SEA L 38 17 7 17 41.2 3 7 42.9 0 0 - 0 3 3 7 4 0 2 5 3
+p178
+aVSteve Nash DAL 03/29/1999 DAL vs. SEA L 22 5 2 7 28.6 1 6 16.7 0 0 - 0 0 0 4 1 0 1 6 -10
+p179
+aVA.C. Green DAL 03/29/1999 DAL vs. SEA L 11 0 0 2 0.0 0 0 - 0 0 - 3 1 4 1 0 0 0 0 -14
+p180
+aVHubert Davis DAL 03/29/1999 DAL vs. SEA L 24 10 4 8 50.0 2 3 66.7 0 1 0.0 0 2 2 2 0 0 0 2 1
+p181
+aVMichael Finley DAL 03/29/1999 DAL vs. SEA L 39 13 5 14 35.7 0 1 0.0 3 3 100.0 1 4 5 2 0 0 1 2 -16
+p182
+aVSamaki Walker DAL 03/29/1999 DAL vs. SEA L 27 10 4 9 44.4 0 0 - 2 5 40.0 5 8 13 0 1 3 2 1 7
+p183
+aVGary Trent DAL 03/29/1999 DAL vs. SEA L 28 20 9 13 69.2 0 0 - 2 3 66.7 4 5 9 1 0 0 1 3 -4
+p184
+aVShawn Bradley DAL 03/29/1999 DAL vs. SEA L 24 12 4 13 30.8 0 0 - 4 5 80.0 3 1 4 1 0 2 1 1 -20
+p185
+aVDirk Nowitzki DAL 03/29/1999 DAL vs. SEA L 17 11 3 7 42.9 0 3 0.0 5 5 100.0 3 1 4 3 0 0 0 2 5
+p186
+aVA.C. Green DAL 03/27/1999 DAL @ SAS L 16 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 -11
+p187
+aVErick Strickland DAL 03/27/1999 DAL @ SAS L 25 11 4 10 40.0 1 3 33.3 2 2 100.0 0 4 4 1 0 0 2 1 -21
+p188
+aVHubert Davis DAL 03/27/1999 DAL @ SAS L 36 11 5 12 41.7 1 4 25.0 0 0 - 0 1 1 0 0 0 2 1 -13
+p189
+aVShawn Bradley DAL 03/27/1999 DAL @ SAS L 32 15 7 15 46.7 0 0 - 1 3 33.3 4 8 12 1 2 3 1 2 -16
+p190
+aVSteve Nash DAL 03/27/1999 DAL @ SAS L 35 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 5 1 0 1 5 -11
+p191
+aVDirk Nowitzki DAL 03/27/1999 DAL @ SAS L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 1 2 0 -15
+p192
+aVChris Anstey DAL 03/27/1999 DAL @ SAS L 14 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 2 -4
+p193
+aVSamaki Walker DAL 03/27/1999 DAL @ SAS L 18 16 6 9 66.7 0 0 - 4 6 66.7 1 5 6 0 0 0 1 6 -6
+p194
+aVMichael Finley DAL 03/27/1999 DAL @ SAS L 37 17 8 19 42.1 0 0 - 1 1 100.0 1 3 4 3 0 1 0 1 -12
+p195
+aVHot Rod Williams DAL 03/27/1999 DAL @ SAS L 14 2 0 2 0.0 0 0 - 2 2 100.0 3 1 4 2 0 1 0 2 -1
+p196
+aVShawn Bradley DAL 03/26/1999 DAL vs. DEN W 25 10 4 8 50.0 0 0 - 2 2 100.0 2 6 8 3 0 4 2 2 12
+p197
+aVGary Trent DAL 03/26/1999 DAL vs. DEN W 22 12 5 11 45.5 0 0 - 2 2 100.0 1 4 5 0 2 1 0 1 19
+p198
+aVMichael Finley DAL 03/26/1999 DAL vs. DEN W 40 27 12 22 54.5 0 3 0.0 3 3 100.0 0 5 5 3 0 0 0 1 27
+p199
+aVHubert Davis DAL 03/26/1999 DAL vs. DEN W 38 12 5 9 55.6 2 4 50.0 0 0 - 0 4 4 1 2 0 3 4 6
+p200
+aVSamaki Walker DAL 03/26/1999 DAL vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -3
+p201
+aVDirk Nowitzki DAL 03/26/1999 DAL vs. DEN W 16 8 3 4 75.0 1 1 100.0 1 1 100.0 0 2 2 0 1 0 2 3 3
+p202
+aVErick Strickland DAL 03/26/1999 DAL vs. DEN W 26 17 6 9 66.7 0 1 0.0 5 5 100.0 0 1 1 4 3 0 0 0 14
+p203
+aVChris Anstey DAL 03/26/1999 DAL vs. DEN W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -3
+p204
+aVA.C. Green DAL 03/26/1999 DAL vs. DEN W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -5
+p205
+aVHot Rod Williams DAL 03/26/1999 DAL vs. DEN W 17 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 12
+p206
+aVSteve Nash DAL 03/26/1999 DAL vs. DEN W 35 6 2 7 28.6 2 3 66.7 0 0 - 0 1 1 3 1 0 2 1 13
+p207
+aVMichael Finley DAL 03/24/1999 DAL vs. HOU L 43 16 6 20 30.0 0 2 0.0 4 4 100.0 4 5 9 8 2 1 2 3 -9
+p208
+aVGary Trent DAL 03/24/1999 DAL vs. HOU L 33 10 5 14 35.7 0 0 - 0 1 0.0 2 6 8 1 1 0 0 2 -2
+p209
+aVA.C. Green DAL 03/24/1999 DAL vs. HOU L 19 2 1 1 100.0 0 0 - 0 0 - 2 4 6 0 1 0 0 2 -7
+p210
+aVHubert Davis DAL 03/24/1999 DAL vs. HOU L 40 18 7 17 41.2 2 4 50.0 2 2 100.0 0 1 1 0 1 0 3 0 -17
+p211
+aVShawn Bradley DAL 03/24/1999 DAL vs. HOU L 36 20 8 14 57.1 0 0 - 4 7 57.1 7 6 13 0 2 8 3 4 -1
+p212
+aVErick Strickland DAL 03/24/1999 DAL vs. HOU L 24 9 3 10 30.0 1 2 50.0 2 4 50.0 0 2 2 1 1 0 0 2 -1
+p213
+aVDirk Nowitzki DAL 03/24/1999 DAL vs. HOU L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 2 -1
+p214
+aVSteve Nash DAL 03/24/1999 DAL vs. HOU L 29 3 1 10 10.0 1 4 25.0 0 0 - 1 0 1 5 0 0 0 2 -3
+p215
+aVHot Rod Williams DAL 03/24/1999 DAL vs. HOU L 12 0 0 0 - 0 0 - 0 0 - 2 1 3 1 1 0 0 1 -9
+p216
+aVChris Anstey DAL 03/22/1999 DAL vs. LAL L 10 4 1 2 50.0 0 1 0.0 2 2 100.0 0 4 4 1 1 0 0 4 1
+p217
+aVGary Trent DAL 03/22/1999 DAL vs. LAL L 29 11 4 11 36.4 0 0 - 3 6 50.0 1 5 6 3 0 0 1 3 -10
+p218
+aVSamaki Walker DAL 03/22/1999 DAL vs. LAL L 4 3 1 2 50.0 0 0 - 1 1 100.0 1 1 2 0 0 1 1 3 0
+p219
+aVMichael Finley DAL 03/22/1999 DAL vs. LAL L 42 23 11 24 45.8 0 2 0.0 1 2 50.0 0 4 4 5 1 0 1 4 0
+p220
+aVErick Strickland DAL 03/22/1999 DAL vs. LAL L 14 12 5 10 50.0 1 3 33.3 1 1 100.0 0 4 4 1 3 0 1 2 -5
+p221
+aVSteve Nash DAL 03/22/1999 DAL vs. LAL L 42 3 1 4 25.0 0 1 0.0 1 1 100.0 3 1 4 8 2 1 4 3 5
+p222
+aVShawn Bradley DAL 03/22/1999 DAL vs. LAL L 19 8 3 5 60.0 0 0 - 2 2 100.0 1 4 5 0 0 1 1 4 -10
+p223
+aVHubert Davis DAL 03/22/1999 DAL vs. LAL L 40 16 7 15 46.7 1 4 25.0 1 1 100.0 0 1 1 1 0 0 3 1 -3
+p224
+aVHot Rod Williams DAL 03/22/1999 DAL vs. LAL L 15 0 0 0 - 0 0 - 0 0 - 1 2 3 1 1 0 0 4 6
+p225
+aVA.C. Green DAL 03/22/1999 DAL vs. LAL L 25 13 4 11 36.4 0 1 0.0 5 6 83.3 3 7 10 0 0 0 1 0 1
+p226
+aVSteve Nash DAL 03/20/1999 DAL vs. SAC W 42 22 7 16 43.8 5 10 50.0 3 3 100.0 1 1 2 4 1 0 1 2 16
+p227
+aVShawn Bradley DAL 03/20/1999 DAL vs. SAC W 20 8 3 7 42.9 0 1 0.0 2 2 100.0 1 8 9 0 1 2 0 3 10
+p228
+aVGary Trent DAL 03/20/1999 DAL vs. SAC W 33 22 10 14 71.4 0 0 - 2 2 100.0 4 7 11 4 0 0 3 2 10
+p229
+aVHot Rod Williams DAL 03/20/1999 DAL vs. SAC W 23 0 0 2 0.0 0 0 - 0 0 - 2 3 5 2 1 1 2 4 4
+p230
+aVErick Strickland DAL 03/20/1999 DAL vs. SAC W 16 4 0 4 0.0 0 1 0.0 4 4 100.0 0 3 3 1 0 0 4 1 5
+p231
+aVHubert Davis DAL 03/20/1999 DAL vs. SAC W 40 17 6 9 66.7 4 6 66.7 1 2 50.0 0 3 3 0 0 0 2 1 8
+p232
+aVMichael Finley DAL 03/20/1999 DAL vs. SAC W 41 22 9 22 40.9 0 1 0.0 4 4 100.0 2 5 7 9 1 0 1 0 17
+p233
+aVDirk Nowitzki DAL 03/20/1999 DAL vs. SAC W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -3
+p234
+aVA.C. Green DAL 03/20/1999 DAL vs. SAC W 18 8 3 7 42.9 0 1 0.0 2 2 100.0 3 7 10 2 0 1 0 2 3
+p235
+aVA.C. Green DAL 03/19/1999 DAL @ DET L 33 11 4 6 66.7 0 0 - 3 4 75.0 1 4 5 2 1 0 1 3 -12
+p236
+aVMichael Finley DAL 03/19/1999 DAL @ DET L 46 18 8 17 47.1 0 4 0.0 2 2 100.0 0 6 6 8 0 2 4 3 -2
+p237
+aVGary Trent DAL 03/19/1999 DAL @ DET L 23 3 1 7 14.3 0 0 - 1 2 50.0 0 3 3 0 0 0 1 3 -2
+p238
+aVHot Rod Williams DAL 03/19/1999 DAL @ DET L 16 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 2 1 2 4
+p239
+aVDirk Nowitzki DAL 03/19/1999 DAL @ DET L 8 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 2 0 2 -10
+p240
+aVShawn Bradley DAL 03/19/1999 DAL @ DET L 22 14 6 8 75.0 0 0 - 2 3 66.7 1 5 6 0 0 1 1 2 -8
+p241
+aVErick Strickland DAL 03/19/1999 DAL @ DET L 28 13 5 7 71.4 1 1 100.0 2 2 100.0 1 5 6 5 0 0 0 4 -1
+p242
+aVHubert Davis DAL 03/19/1999 DAL @ DET L 40 13 5 12 41.7 1 5 20.0 2 2 100.0 0 1 1 5 3 0 1 0 -2
+p243
+aVSteve Nash DAL 03/19/1999 DAL @ DET L 25 8 2 8 25.0 2 4 50.0 2 2 100.0 0 3 3 4 2 0 3 2 -2
+p244
+aVSamaki Walker DAL 03/17/1999 DAL @ NJN L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p245
+aVChris Anstey DAL 03/17/1999 DAL @ NJN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p246
+aVGary Trent DAL 03/17/1999 DAL @ NJN L 37 21 8 23 34.8 0 0 - 5 8 62.5 7 9 16 0 0 0 3 4 -19
+p247
+aVShawn Bradley DAL 03/17/1999 DAL @ NJN L 25 3 1 6 16.7 0 0 - 1 6 16.7 6 3 9 0 0 1 1 4 -11
+p248
+aVHubert Davis DAL 03/17/1999 DAL @ NJN L 22 12 4 7 57.1 4 4 100.0 0 0 - 0 1 1 2 0 1 0 2 3
+p249
+aVSteve Nash DAL 03/17/1999 DAL @ NJN L 37 4 2 4 50.0 0 0 - 0 0 - 1 3 4 4 0 0 1 5 -6
+p250
+aVDirk Nowitzki DAL 03/17/1999 DAL @ NJN L 18 11 5 9 55.6 1 2 50.0 0 0 - 1 1 2 1 1 1 0 3 14
+p251
+aVErick Strickland DAL 03/17/1999 DAL @ NJN L 12 6 1 2 50.0 1 1 100.0 3 3 100.0 0 1 1 3 2 0 1 1 3
+p252
+aVA.C. Green DAL 03/17/1999 DAL @ NJN L 38 8 3 11 27.3 0 0 - 2 2 100.0 2 8 10 0 3 0 0 3 14
+p253
+aVMichael Finley DAL 03/17/1999 DAL @ NJN L 44 21 9 27 33.3 0 6 0.0 3 4 75.0 2 2 4 4 2 0 1 2 2
+p254
+aVChris Anstey DAL 03/15/1999 DAL vs. POR L 8 3 1 3 33.3 0 1 0.0 1 2 50.0 0 3 3 3 1 0 0 1 7
+p255
+aVGary Trent DAL 03/15/1999 DAL vs. POR L 29 12 6 13 46.2 0 0 - 0 2 0.0 2 5 7 0 0 1 2 3 -5
+p256
+aVHubert Davis DAL 03/15/1999 DAL vs. POR L 23 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 -8
+p257
+aVA.C. Green DAL 03/15/1999 DAL vs. POR L 26 10 4 9 44.4 0 1 0.0 2 2 100.0 3 5 8 0 0 1 0 1 -13
+p258
+aVErick Strickland DAL 03/15/1999 DAL vs. POR L 11 13 5 8 62.5 0 1 0.0 3 4 75.0 1 1 2 2 0 0 0 1 0
+p259
+aVHot Rod Williams DAL 03/15/1999 DAL vs. POR L 19 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 2 1 1 -5
+p260
+aVDirk Nowitzki DAL 03/15/1999 DAL vs. POR L 14 8 3 6 50.0 1 3 33.3 1 2 50.0 0 1 1 1 1 1 2 3 1
+p261
+aVSamaki Walker DAL 03/15/1999 DAL vs. POR L 13 7 2 6 33.3 0 0 - 3 4 75.0 2 1 3 0 0 0 2 1 -5
+p262
+aVShawn Bradley DAL 03/15/1999 DAL vs. POR L 25 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 1 2 1 2 -10
+p263
+aVSteve Nash DAL 03/15/1999 DAL vs. POR L 32 9 4 10 40.0 0 3 0.0 1 1 100.0 1 5 6 4 1 0 5 2 -21
+p264
+aVMichael Finley DAL 03/15/1999 DAL vs. POR L 40 21 8 17 47.1 0 1 0.0 5 6 83.3 2 3 5 6 1 0 3 0 -16
+p265
+aVShawn Bradley DAL 03/13/1999 DAL vs. VAN W 33 6 2 8 25.0 0 0 - 2 4 50.0 4 6 10 2 1 5 0 5 14
+p266
+aVGary Trent DAL 03/13/1999 DAL vs. VAN W 33 16 7 15 46.7 0 0 - 2 5 40.0 2 4 6 1 0 0 2 3 17
+p267
+aVRobert Pack DAL 03/13/1999 DAL vs. VAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 2
+p268
+aVMichael Finley DAL 03/13/1999 DAL vs. VAN W 41 21 9 20 45.0 1 2 50.0 2 2 100.0 3 3 6 2 3 0 1 2 12
+p269
+aVSteve Nash DAL 03/13/1999 DAL vs. VAN W 36 8 1 4 25.0 0 0 - 6 7 85.7 2 0 2 10 2 0 5 5 20
+p270
+aVChris Anstey DAL 03/13/1999 DAL vs. VAN W 9 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 1 0 0 4 -5
+p271
+aVDirk Nowitzki DAL 03/13/1999 DAL vs. VAN W 12 4 1 4 25.0 0 3 0.0 2 2 100.0 0 2 2 0 0 0 3 0 4
+p272
+aVA.C. Green DAL 03/13/1999 DAL vs. VAN W 38 11 5 9 55.6 0 0 - 1 2 50.0 1 5 6 1 3 0 0 2 7
+p273
+aVSamaki Walker DAL 03/13/1999 DAL vs. VAN W 13 7 3 6 50.0 0 0 - 1 3 33.3 2 4 6 0 0 0 4 2 1
+p274
+aVHubert Davis DAL 03/13/1999 DAL vs. VAN W 21 14 5 8 62.5 4 6 66.7 0 1 0.0 0 3 3 2 0 0 2 2 13
+p275
+aVHubert Davis DAL 03/11/1999 DAL vs. ORL W 14 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 8
+p276
+aVChris Anstey DAL 03/11/1999 DAL vs. ORL W 21 2 1 2 50.0 0 0 - 0 2 0.0 3 5 8 2 0 3 1 4 -2
+p277
+aVGary Trent DAL 03/11/1999 DAL vs. ORL W 39 21 8 17 47.1 0 0 - 5 6 83.3 1 9 10 1 0 0 1 3 17
+p278
+aVDirk Nowitzki DAL 03/11/1999 DAL vs. ORL W 9 7 2 4 50.0 0 0 - 3 5 60.0 1 1 2 0 1 0 1 2 0
+p279
+aVRobert Pack DAL 03/11/1999 DAL vs. ORL W 16 6 2 6 33.3 0 2 0.0 2 4 50.0 0 0 0 5 2 0 1 1 1
+p280
+aVSteve Nash DAL 03/11/1999 DAL vs. ORL W 32 9 3 7 42.9 0 2 0.0 3 3 100.0 1 1 2 11 1 0 3 0 16
+p281
+aVSamaki Walker DAL 03/11/1999 DAL vs. ORL W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p282
+aVMichael Finley DAL 03/11/1999 DAL vs. ORL W 43 18 8 19 42.1 2 5 40.0 0 0 - 1 2 3 4 2 2 2 0 20
+p283
+aVShawn Bradley DAL 03/11/1999 DAL vs. ORL W 29 10 4 5 80.0 0 0 - 2 2 100.0 2 8 10 1 1 3 2 3 19
+p284
+aVA.C. Green DAL 03/11/1999 DAL vs. ORL W 33 13 6 13 46.2 0 1 0.0 1 2 50.0 3 8 11 0 1 1 1 2 11
+p285
+aVChris Anstey DAL 03/09/1999 DAL vs. PHX L 5 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 0
+p286
+aVSteve Nash DAL 03/09/1999 DAL vs. PHX L 39 15 6 15 40.0 2 8 25.0 1 3 33.3 1 3 4 6 0 0 2 2 2
+p287
+aVSamaki Walker DAL 03/09/1999 DAL vs. PHX L 23 15 7 9 77.8 0 0 - 1 3 33.3 0 3 3 1 0 1 1 1 -20
+p288
+aVDirk Nowitzki DAL 03/09/1999 DAL vs. PHX L 10 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 1 -9
+p289
+aVA.C. Green DAL 03/09/1999 DAL vs. PHX L 31 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 1 -10
+p290
+aVShawn Bradley DAL 03/09/1999 DAL vs. PHX L 31 12 4 6 66.7 0 0 - 4 4 100.0 3 11 14 2 0 3 2 4 8
+p291
+aVMichael Finley DAL 03/09/1999 DAL vs. PHX L 44 22 10 17 58.8 1 4 25.0 1 4 25.0 0 4 4 12 1 0 5 4 -11
+p292
+aVHubert Davis DAL 03/09/1999 DAL vs. PHX L 24 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 2 0 1 0 -12
+p293
+aVGary Trent DAL 03/09/1999 DAL vs. PHX L 33 13 5 14 35.7 0 0 - 3 5 60.0 2 3 5 3 1 0 0 4 -8
+p294
+aVSamaki Walker DAL 03/07/1999 DAL @ SAC L 21 8 3 8 37.5 0 0 - 2 4 50.0 1 2 3 0 0 0 1 3 -12
+p295
+aVRobert Pack DAL 03/07/1999 DAL @ SAC L 8 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -10
+p296
+aVHubert Davis DAL 03/07/1999 DAL @ SAC L 26 17 8 11 72.7 1 1 100.0 0 0 - 0 1 1 0 0 0 2 1 -10
+p297
+aVShawn Bradley DAL 03/07/1999 DAL @ SAC L 21 4 2 6 33.3 0 0 - 0 0 - 5 2 7 0 0 4 1 5 3
+p298
+aVHot Rod Williams DAL 03/07/1999 DAL @ SAC L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p299
+aVMichael Finley DAL 03/07/1999 DAL @ SAC L 43 18 7 19 36.8 1 4 25.0 3 6 50.0 0 8 8 6 1 0 5 6 2
+p300
+aVGary Trent DAL 03/07/1999 DAL @ SAC L 45 18 8 19 42.1 0 1 0.0 2 2 100.0 7 7 14 3 2 0 1 1 1
+p301
+aVSteve Nash DAL 03/07/1999 DAL @ SAC L 25 8 2 9 22.2 1 3 33.3 3 3 100.0 1 1 2 7 1 0 2 2 1
+p302
+aVDirk Nowitzki DAL 03/07/1999 DAL @ SAC L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 -3
+p303
+aVA.C. Green DAL 03/07/1999 DAL @ SAC L 31 12 6 16 37.5 0 1 0.0 0 1 0.0 6 5 11 1 1 0 1 3 6
+p304
+aVHubert Davis DAL 03/05/1999 DAL @ UTA L 16 9 3 7 42.9 1 2 50.0 2 2 100.0 0 1 1 2 1 0 1 2 8
+p305
+aVMichael Finley DAL 03/05/1999 DAL @ UTA L 37 29 11 19 57.9 2 4 50.0 5 6 83.3 3 5 8 3 3 0 2 2 -12
+p306
+aVSteve Nash DAL 03/05/1999 DAL @ UTA L 16 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 0 0 2 1 -5
+p307
+aVErick Strickland DAL 03/05/1999 DAL @ UTA L 9 7 2 6 33.3 1 4 25.0 2 2 100.0 0 4 4 1 1 0 0 0 2
+p308
+aVDirk Nowitzki DAL 03/05/1999 DAL @ UTA L 24 10 4 9 44.4 0 2 0.0 2 3 66.7 3 1 4 1 2 0 1 4 9
+p309
+aVShawn Bradley DAL 03/05/1999 DAL @ UTA L 34 10 3 6 50.0 0 1 0.0 4 6 66.7 2 3 5 1 0 2 3 5 -12
+p310
+aVSamaki Walker DAL 03/05/1999 DAL @ UTA L 19 8 3 5 60.0 0 0 - 2 4 50.0 4 2 6 0 0 1 2 6 -2
+p311
+aVChris Anstey DAL 03/05/1999 DAL @ UTA L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 8
+p312
+aVGary Trent DAL 03/05/1999 DAL @ UTA L 33 7 2 9 22.2 0 0 - 3 6 50.0 2 6 8 5 0 1 1 4 -19
+p313
+aVRobert Pack DAL 03/05/1999 DAL @ UTA L 18 7 1 7 14.3 0 1 0.0 5 6 83.3 0 1 1 4 0 0 2 4 -15
+p314
+aVA.C. Green DAL 03/05/1999 DAL @ UTA L 26 4 2 7 28.6 0 0 - 0 0 - 2 4 6 1 1 0 0 0 -17
+p315
+aVRobert Pack DAL 03/04/1999 DAL vs. SAS L 24 9 4 9 44.4 0 0 - 1 2 50.0 0 1 1 5 0 0 6 3 -1
+p316
+aVHubert Davis DAL 03/04/1999 DAL vs. SAS L 25 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 2 -12
+p317
+aVMichael Finley DAL 03/04/1999 DAL vs. SAS L 40 11 4 11 36.4 0 3 0.0 3 4 75.0 1 2 3 6 0 0 4 0 -19
+p318
+aVHot Rod Williams DAL 03/04/1999 DAL vs. SAS L 13 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 1 1 0 1 2
+p319
+aVSamaki Walker DAL 03/04/1999 DAL vs. SAS L 20 10 3 4 75.0 0 0 - 4 4 100.0 1 0 1 0 1 0 1 2 -12
+p320
+aVSteve Nash DAL 03/04/1999 DAL vs. SAS L 23 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 0 0 2 1 -20
+p321
+aVA.C. Green DAL 03/04/1999 DAL vs. SAS L 17 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 1 1 0 2 -11
+p322
+aVChris Anstey DAL 03/04/1999 DAL vs. SAS L 4 5 1 1 100.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 2 5
+p323
+aVErick Strickland DAL 03/04/1999 DAL vs. SAS L 5 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 1 0 0 0 5
+p324
+aVGary Trent DAL 03/04/1999 DAL vs. SAS L 28 14 7 14 50.0 0 1 0.0 0 0 - 4 1 5 0 0 1 1 1 -9
+p325
+aVShawn Bradley DAL 03/04/1999 DAL vs. SAS L 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -10
+p326
+aVDirk Nowitzki DAL 03/04/1999 DAL vs. SAS L 26 11 4 11 36.4 1 3 33.3 2 3 66.7 1 5 6 1 1 2 3 4 2
+p327
+aVRobert Pack DAL 03/02/1999 DAL vs. LAC W 31 7 2 9 22.2 0 0 - 3 3 100.0 0 2 2 5 2 0 2 3 -11
+p328
+aVA.C. Green DAL 03/02/1999 DAL vs. LAC W 27 19 8 10 80.0 0 0 - 3 6 50.0 7 5 12 1 0 1 2 2 23
+p329
+aVDirk Nowitzki DAL 03/02/1999 DAL vs. LAC W 5 6 2 3 66.7 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 3 3
+p330
+aVGary Trent DAL 03/02/1999 DAL vs. LAC W 29 16 7 12 58.3 0 0 - 2 4 50.0 2 2 4 2 1 1 0 3 -12
+p331
+aVHubert Davis DAL 03/02/1999 DAL vs. LAC W 38 18 6 14 42.9 2 6 33.3 4 4 100.0 1 5 6 3 0 0 0 1 9
+p332
+aVSamaki Walker DAL 03/02/1999 DAL vs. LAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -12
+p333
+aVShawn Bradley DAL 03/02/1999 DAL vs. LAC W 28 10 4 6 66.7 0 0 - 2 2 100.0 1 6 7 1 1 9 0 4 24
+p334
+aVMichael Finley DAL 03/02/1999 DAL vs. LAC W 45 20 5 14 35.7 1 3 33.3 9 11 81.8 1 4 5 9 1 0 0 2 16
+p335
+aVSteve Nash DAL 03/02/1999 DAL vs. LAC W 30 16 6 10 60.0 4 6 66.7 0 0 - 2 1 3 4 0 0 3 1 25
+p336
+aVHot Rod Williams DAL 02/27/1999 DAL vs. SAC W 21 2 1 2 50.0 0 0 - 0 0 - 6 1 7 1 0 1 2 2 13
+p337
+aVSteve Nash DAL 02/27/1999 DAL vs. SAC W 29 4 2 9 22.2 0 1 0.0 0 0 - 1 1 2 4 1 0 1 2 -13
+p338
+aVMichael Finley DAL 02/27/1999 DAL vs. SAC W 43 16 7 21 33.3 2 3 66.7 0 0 - 3 1 4 2 1 0 0 2 8
+p339
+aVHubert Davis DAL 02/27/1999 DAL vs. SAC W 10 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 1 -8
+p340
+aVErick Strickland DAL 02/27/1999 DAL vs. SAC W 13 9 4 7 57.1 1 1 100.0 0 0 - 2 2 4 0 2 0 2 2 2
+p341
+aVGary Trent DAL 02/27/1999 DAL vs. SAC W 39 29 14 25 56.0 0 0 - 1 3 33.3 7 9 16 1 1 2 1 5 13
+p342
+aVA.C. Green DAL 02/27/1999 DAL vs. SAC W 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -14
+p343
+aVShawn Bradley DAL 02/27/1999 DAL vs. SAC W 24 3 1 4 25.0 0 0 - 1 4 25.0 4 1 5 0 0 5 0 4 -6
+p344
+aVSamaki Walker DAL 02/27/1999 DAL vs. SAC W 15 6 3 11 27.3 0 0 - 0 1 0.0 2 7 9 0 0 0 1 0 19
+p345
+aVRobert Pack DAL 02/27/1999 DAL vs. SAC W 35 21 7 17 41.2 0 0 - 7 9 77.8 2 5 7 6 4 0 3 2 21
+p346
+aVGary Trent DAL 02/26/1999 DAL @ UTA L 14 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 0 0 0 2 2 -19
+p347
+aVHot Rod Williams DAL 02/26/1999 DAL @ UTA L 23 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 2 1 0 2 -14
+p348
+aVMichael Finley DAL 02/26/1999 DAL @ UTA L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 2 1 -6
+p349
+aVChris Anstey DAL 02/26/1999 DAL @ UTA L 25 7 1 12 8.3 0 1 0.0 5 6 83.3 2 2 4 2 3 0 0 1 3
+p350
+aVA.C. Green DAL 02/26/1999 DAL @ UTA L 7 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -3
+p351
+aVShawn Bradley DAL 02/26/1999 DAL @ UTA L 11 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 0 3 -7
+p352
+aVSamaki Walker DAL 02/26/1999 DAL @ UTA L 28 11 3 7 42.9 0 0 - 5 10 50.0 2 6 8 0 0 0 2 5 -1
+p353
+aVRobert Pack DAL 02/26/1999 DAL @ UTA L 24 18 4 7 57.1 0 0 - 10 10 100.0 0 1 1 2 0 0 3 4 -8
+p354
+aVErick Strickland DAL 02/26/1999 DAL @ UTA L 19 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 1 0
+p355
+aVDirk Nowitzki DAL 02/26/1999 DAL @ UTA L 36 5 1 7 14.3 0 2 0.0 3 4 75.0 1 6 7 0 1 2 3 5 -4
+p356
+aVHubert Davis DAL 02/26/1999 DAL @ UTA L 32 4 2 11 18.2 0 3 0.0 0 0 - 0 4 4 2 0 0 1 4 -15
+p357
+aVSteve Nash DAL 02/26/1999 DAL @ UTA L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p358
+aVGary Trent DAL 02/25/1999 DAL vs. DEN W 27 18 7 17 41.2 0 1 0.0 4 5 80.0 3 2 5 0 1 2 0 3 10
+p359
+aVHubert Davis DAL 02/25/1999 DAL vs. DEN W 16 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p360
+aVShawn Bradley DAL 02/25/1999 DAL vs. DEN W 35 8 1 7 14.3 0 0 - 6 6 100.0 2 9 11 0 1 5 3 4 15
+p361
+aVCedric Ceballos DAL 02/25/1999 DAL vs. DEN W 34 20 6 14 42.9 0 1 0.0 8 12 66.7 5 8 13 1 0 0 2 1 10
+p362
+aVDirk Nowitzki DAL 02/25/1999 DAL vs. DEN W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p363
+aVSamaki Walker DAL 02/25/1999 DAL vs. DEN W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 2 1 0 1 -6
+p364
+aVMichael Finley DAL 02/25/1999 DAL vs. DEN W 44 20 8 16 50.0 2 3 66.7 2 2 100.0 0 4 4 3 1 0 3 3 14
+p365
+aVRobert Pack DAL 02/25/1999 DAL vs. DEN W 19 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 3 1 1 2 2 -2
+p366
+aVSteve Nash DAL 02/25/1999 DAL vs. DEN W 31 7 2 6 33.3 0 3 0.0 3 3 100.0 0 4 4 5 2 0 1 0 5
+p367
+aVA.C. Green DAL 02/25/1999 DAL vs. DEN W 20 5 2 6 33.3 0 0 - 1 2 50.0 2 5 7 1 0 0 0 2 0
+p368
+aVSteve Nash DAL 02/23/1999 DAL vs. ATL W 22 4 1 5 20.0 1 3 33.3 1 1 100.0 0 5 5 4 0 0 0 0 1
+p369
+aVGary Trent DAL 02/23/1999 DAL vs. ATL W 33 12 4 13 30.8 0 0 - 4 4 100.0 3 7 10 3 0 0 2 5 0
+p370
+aVShawn Bradley DAL 02/23/1999 DAL vs. ATL W 36 9 3 10 30.0 0 0 - 3 3 100.0 2 2 4 1 1 4 1 4 0
+p371
+aVHubert Davis DAL 02/23/1999 DAL vs. ATL W 15 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 3 8
+p372
+aVRobert Pack DAL 02/23/1999 DAL vs. ATL W 26 15 6 13 46.2 0 1 0.0 3 4 75.0 0 0 0 8 2 0 2 1 3
+p373
+aVChris Anstey DAL 02/23/1999 DAL vs. ATL W 12 5 2 4 50.0 0 1 0.0 1 1 100.0 1 4 5 0 0 0 1 4 6
+p374
+aVCedric Ceballos DAL 02/23/1999 DAL vs. ATL W 30 7 3 11 27.3 1 3 33.3 0 0 - 0 3 3 0 0 0 1 1 -4
+p375
+aVA.C. Green DAL 02/23/1999 DAL vs. ATL W 22 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 3 -2
+p376
+aVDirk Nowitzki DAL 02/23/1999 DAL vs. ATL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p377
+aVMichael Finley DAL 02/23/1999 DAL vs. ATL W 40 22 7 11 63.6 2 2 100.0 6 6 100.0 2 7 9 6 0 0 3 4 4
+p378
+aVHot Rod Williams DAL 02/22/1999 DAL @ PHX L 10 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 0 0 -7
+p379
+aVChris Anstey DAL 02/22/1999 DAL @ PHX L 8 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -4
+p380
+aVHubert Davis DAL 02/22/1999 DAL @ PHX L 24 6 3 8 37.5 0 1 0.0 0 0 - 0 0 0 2 0 0 1 0 -7
+p381
+aVMichael Finley DAL 02/22/1999 DAL @ PHX L 38 17 6 16 37.5 3 4 75.0 2 2 100.0 1 2 3 3 2 0 1 2 -15
+p382
+aVGary Trent DAL 02/22/1999 DAL @ PHX L 28 4 2 7 28.6 0 0 - 0 0 - 3 3 6 2 2 0 1 2 -5
+p383
+aVDirk Nowitzki DAL 02/22/1999 DAL @ PHX L 19 11 4 9 44.4 0 3 0.0 3 3 100.0 0 1 1 1 0 1 0 0 -3
+p384
+aVRobert Pack DAL 02/22/1999 DAL @ PHX L 21 11 3 9 33.3 0 0 - 5 6 83.3 0 1 1 5 1 0 4 2 -10
+p385
+aVShawn Bradley DAL 02/22/1999 DAL @ PHX L 23 6 3 5 60.0 0 1 0.0 0 0 - 2 5 7 1 0 2 0 3 -11
+p386
+aVSteve Nash DAL 02/22/1999 DAL @ PHX L 23 1 0 3 0.0 0 1 0.0 1 1 100.0 0 3 3 4 0 0 2 1 -2
+p387
+aVA.C. Green DAL 02/22/1999 DAL @ PHX L 12 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p388
+aVSamaki Walker DAL 02/22/1999 DAL @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -1
+p389
+aVCedric Ceballos DAL 02/22/1999 DAL @ PHX L 29 21 9 16 56.3 3 5 60.0 0 0 - 3 3 6 2 1 0 2 2 -17
+p390
+aVChris Anstey DAL 02/20/1999 DAL @ LAC W 16 2 1 7 14.3 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -10
+p391
+aVShawn Bradley DAL 02/20/1999 DAL @ LAC W 33 8 4 6 66.7 0 0 - 0 2 0.0 3 3 6 1 1 4 0 4 22
+p392
+aVA.C. Green DAL 02/20/1999 DAL @ LAC W 15 2 1 5 20.0 0 0 - 0 0 - 2 3 5 2 0 0 0 2 3
+p393
+aVRobert Pack DAL 02/20/1999 DAL @ LAC W 13 8 4 6 66.7 0 0 - 0 1 0.0 0 0 0 2 0 0 1 1 -10
+p394
+aVGary Trent DAL 02/20/1999 DAL @ LAC W 32 27 10 16 62.5 0 0 - 7 10 70.0 4 12 16 3 1 2 3 5 15
+p395
+aVDirk Nowitzki DAL 02/20/1999 DAL @ LAC W 9 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 -3
+p396
+aVCedric Ceballos DAL 02/20/1999 DAL @ LAC W 29 14 5 13 38.5 1 1 100.0 3 4 75.0 1 10 11 2 3 0 2 0 9
+p397
+aVSteve Nash DAL 02/20/1999 DAL @ LAC W 35 11 4 9 44.4 2 6 33.3 1 1 100.0 1 1 2 6 1 0 0 2 25
+p398
+aVHubert Davis DAL 02/20/1999 DAL @ LAC W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 6
+p399
+aVMichael Finley DAL 02/20/1999 DAL @ LAC W 43 31 11 21 52.4 2 4 50.0 7 8 87.5 5 5 10 3 1 1 2 2 18
+p400
+aVRobert Pack DAL 02/19/1999 DAL @ GSW L 11 10 3 5 60.0 0 0 - 4 4 100.0 1 1 2 1 0 0 0 1 -3
+p401
+aVChris Anstey DAL 02/19/1999 DAL @ GSW L 7 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p402
+aVA.C. Green DAL 02/19/1999 DAL @ GSW L 20 2 1 5 20.0 0 0 - 0 0 - 0 7 7 1 0 0 1 0 0
+p403
+aVShawn Bradley DAL 02/19/1999 DAL @ GSW L 37 8 3 4 75.0 0 0 - 2 2 100.0 3 8 11 2 0 5 0 2 9
+p404
+aVCedric Ceballos DAL 02/19/1999 DAL @ GSW L 15 0 0 7 0.0 0 0 - 0 2 0.0 0 5 5 0 0 1 2 2 -7
+p405
+aVDirk Nowitzki DAL 02/19/1999 DAL @ GSW L 13 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 1 0 1 1 0 1
+p406
+aVSamaki Walker DAL 02/19/1999 DAL @ GSW L 15 4 1 5 20.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 3 -1
+p407
+aVMichael Finley DAL 02/19/1999 DAL @ GSW L 40 19 4 19 21.1 0 2 0.0 11 16 68.8 3 5 8 4 1 1 1 1 0
+p408
+aVGary Trent DAL 02/19/1999 DAL @ GSW L 30 18 7 13 53.8 0 0 - 4 4 100.0 3 6 9 1 0 1 2 5 -9
+p409
+aVHubert Davis DAL 02/19/1999 DAL @ GSW L 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -3
+p410
+aVSteve Nash DAL 02/19/1999 DAL @ GSW L 37 14 6 10 60.0 2 3 66.7 0 0 - 0 3 3 4 3 0 3 3 -2
+p411
+aVHubert Davis DAL 02/17/1999 DAL @ LAL L 16 9 4 6 66.7 1 2 50.0 0 0 - 0 0 0 0 1 0 2 1 12
+p412
+aVDirk Nowitzki DAL 02/17/1999 DAL @ LAL L 24 7 2 10 20.0 0 0 - 3 4 75.0 2 2 4 3 0 1 1 2 -5
+p413
+aVGary Trent DAL 02/17/1999 DAL @ LAL L 23 15 7 14 50.0 0 0 - 1 2 50.0 2 5 7 1 0 0 1 3 -12
+p414
+aVMichael Finley DAL 02/17/1999 DAL @ LAL L 28 12 6 13 46.2 0 0 - 0 0 - 0 0 0 2 2 0 2 1 -21
+p415
+aVA.C. Green DAL 02/17/1999 DAL @ LAL L 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 0 4 -10
+p416
+aVChris Anstey DAL 02/17/1999 DAL @ LAL L 12 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 1 0 0 1 4 8
+p417
+aVSteve Nash DAL 02/17/1999 DAL @ LAL L 27 4 2 8 25.0 0 0 - 0 0 - 2 3 5 5 1 0 4 3 -16
+p418
+aVCedric Ceballos DAL 02/17/1999 DAL @ LAL L 28 11 5 9 55.6 0 0 - 1 4 25.0 3 5 8 1 1 1 0 0 -14
+p419
+aVErick Strickland DAL 02/17/1999 DAL @ LAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -4
+p420
+aVSamaki Walker DAL 02/17/1999 DAL @ LAL L 19 9 4 6 66.7 0 0 - 1 4 25.0 0 3 3 0 0 0 2 3 -5
+p421
+aVHot Rod Williams DAL 02/17/1999 DAL @ LAL L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -10
+p422
+aVRobert Pack DAL 02/17/1999 DAL @ LAL L 21 10 4 6 66.7 0 0 - 2 2 100.0 0 2 2 7 2 0 1 1 3
+p423
+aVShawn Bradley DAL 02/17/1999 DAL @ LAL L 15 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 2 1 5 0 1 9
+p424
+aVHubert Davis DAL 02/15/1999 DAL @ POR L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 3 -8
+p425
+aVDirk Nowitzki DAL 02/15/1999 DAL @ POR L 18 8 3 6 50.0 0 1 0.0 2 3 66.7 1 1 2 0 0 1 4 0 0
+p426
+aVErick Strickland DAL 02/15/1999 DAL @ POR L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -4
+p427
+aVHot Rod Williams DAL 02/15/1999 DAL @ POR L 25 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 2 0 2 -5
+p428
+aVRobert Pack DAL 02/15/1999 DAL @ POR L 14 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 1 1 0 2 1 -12
+p429
+aVSamaki Walker DAL 02/15/1999 DAL @ POR L 24 5 2 12 16.7 0 0 - 1 3 33.3 3 3 6 0 0 1 1 5 -11
+p430
+aVMichael Finley DAL 02/15/1999 DAL @ POR L 40 21 6 14 42.9 1 2 50.0 8 8 100.0 1 4 5 2 0 0 0 2 -15
+p431
+aVCedric Ceballos DAL 02/15/1999 DAL @ POR L 10 4 2 6 33.3 0 0 - 0 0 - 0 4 4 0 0 0 1 0 -7
+p432
+aVA.C. Green DAL 02/15/1999 DAL @ POR L 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 2 0 0 0 0 5
+p433
+aVGary Trent DAL 02/15/1999 DAL @ POR L 22 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 1 0 1 2 2 -10
+p434
+aVShawn Bradley DAL 02/15/1999 DAL @ POR L 11 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 0 3 3 0 -10
+p435
+aVChris Anstey DAL 02/15/1999 DAL @ POR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 5
+p436
+aVSteve Nash DAL 02/15/1999 DAL @ POR L 34 19 7 10 70.0 4 5 80.0 1 1 100.0 0 1 1 4 2 0 3 3 -3
+p437
+aVGary Trent DAL 02/14/1999 DAL @ VAN L 14 9 4 8 50.0 0 0 - 1 2 50.0 3 3 6 1 0 0 2 1 -3
+p438
+aVA.C. Green DAL 02/14/1999 DAL @ VAN L 34 9 4 9 44.4 0 0 - 1 3 33.3 5 2 7 0 1 0 0 3 -3
+p439
+aVMichael Finley DAL 02/14/1999 DAL @ VAN L 33 9 4 13 30.8 0 3 0.0 1 2 50.0 0 3 3 3 0 1 2 1 -5
+p440
+aVErick Strickland DAL 02/14/1999 DAL @ VAN L 7 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -3
+p441
+aVHubert Davis DAL 02/14/1999 DAL @ VAN L 8 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p442
+aVShawn Bradley DAL 02/14/1999 DAL @ VAN L 27 10 2 5 40.0 0 0 - 6 8 75.0 3 7 10 0 2 4 4 3 0
+p443
+aVCedric Ceballos DAL 02/14/1999 DAL @ VAN L 23 7 3 6 50.0 1 1 100.0 0 0 - 1 3 4 1 0 0 2 2 6
+p444
+aVSamaki Walker DAL 02/14/1999 DAL @ VAN L 19 14 7 9 77.8 0 0 - 0 0 - 4 3 7 1 0 1 2 2 -5
+p445
+aVHot Rod Williams DAL 02/14/1999 DAL @ VAN L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -2
+p446
+aVDirk Nowitzki DAL 02/14/1999 DAL @ VAN L 12 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 0 1 0 1 0 -6
+p447
+aVSteve Nash DAL 02/14/1999 DAL @ VAN L 32 18 7 11 63.6 4 5 80.0 0 1 0.0 1 0 1 9 0 0 2 4 -6
+p448
+aVRobert Pack DAL 02/14/1999 DAL @ VAN L 20 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 3
+p449
+aVCedric Ceballos DAL 02/12/1999 DAL @ DEN L 25 8 3 9 33.3 0 4 0.0 2 3 66.7 2 4 6 1 1 0 1 1 -10
+p450
+aVChris Anstey DAL 02/12/1999 DAL @ DEN L 15 4 1 6 16.7 0 0 - 2 2 100.0 1 2 3 0 0 0 0 3 -5
+p451
+aVShawn Bradley DAL 02/12/1999 DAL @ DEN L 16 6 2 5 40.0 0 0 - 2 2 100.0 3 2 5 1 1 2 1 5 4
+p452
+aVSamaki Walker DAL 02/12/1999 DAL @ DEN L 6 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 1
+p453
+aVDirk Nowitzki DAL 02/12/1999 DAL @ DEN L 19 8 4 8 50.0 0 1 0.0 0 0 - 1 4 5 0 1 1 2 1 -8
+p454
+aVHubert Davis DAL 02/12/1999 DAL @ DEN L 21 5 2 8 25.0 1 5 20.0 0 0 - 0 0 0 2 1 0 0 0 0
+p455
+aVRobert Pack DAL 02/12/1999 DAL @ DEN L 17 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 3 2 -6
+p456
+aVGary Trent DAL 02/12/1999 DAL @ DEN L 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -3
+p457
+aVErick Strickland DAL 02/12/1999 DAL @ DEN L 17 11 4 10 40.0 2 5 40.0 1 1 100.0 1 5 6 1 1 0 2 2 14
+p458
+aVMichael Finley DAL 02/12/1999 DAL @ DEN L 41 28 13 24 54.2 1 3 33.3 1 4 25.0 1 4 5 6 3 0 3 4 -2
+p459
+aVSteve Nash DAL 02/12/1999 DAL @ DEN L 33 10 4 16 25.0 2 9 22.2 0 0 - 2 0 2 9 1 0 4 2 -2
+p460
+aVHot Rod Williams DAL 02/12/1999 DAL @ DEN L 7 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 1 0 0 -9
+p461
+aVA.C. Green DAL 02/12/1999 DAL @ DEN L 16 3 1 2 50.0 0 0 - 1 2 50.0 3 5 8 2 1 0 0 3 -4
+p462
+aVCedric Ceballos DAL 02/11/1999 DAL vs. HOU L 24 10 3 7 42.9 1 2 50.0 3 4 75.0 1 1 2 0 0 0 1 3 -6
+p463
+aVGary Trent DAL 02/11/1999 DAL vs. HOU L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p464
+aVRobert Pack DAL 02/11/1999 DAL vs. HOU L 37 31 11 20 55.0 0 0 - 9 11 81.8 0 0 0 3 2 0 4 5 4
+p465
+aVSamaki Walker DAL 02/11/1999 DAL vs. HOU L 19 6 2 8 25.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 2 -10
+p466
+aVA.C. Green DAL 02/11/1999 DAL vs. HOU L 17 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 0 0 1 -4
+p467
+aVSteve Nash DAL 02/11/1999 DAL vs. HOU L 11 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 1 1 0 0 0 -14
+p468
+aVDirk Nowitzki DAL 02/11/1999 DAL vs. HOU L 24 8 3 9 33.3 1 1 100.0 1 1 100.0 1 4 5 0 0 2 3 0 -3
+p469
+aVShawn Bradley DAL 02/11/1999 DAL vs. HOU L 29 10 4 4 100.0 0 0 - 2 2 100.0 1 7 8 1 2 3 0 2 10
+p470
+aVHot Rod Williams DAL 02/11/1999 DAL vs. HOU L 19 0 0 2 0.0 0 0 - 0 0 - 3 4 7 1 2 0 1 3 -4
+p471
+aVChris Anstey DAL 02/11/1999 DAL vs. HOU L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p472
+aVHubert Davis DAL 02/11/1999 DAL vs. HOU L 14 5 1 3 33.3 1 1 100.0 2 2 100.0 0 3 3 0 0 0 0 0 -10
+p473
+aVMichael Finley DAL 02/11/1999 DAL vs. HOU L 39 15 4 14 28.6 0 4 0.0 7 8 87.5 2 2 4 4 2 0 1 3 -6
+p474
+aVSteve Nash DAL 02/09/1999 DAL vs. UTA L 29 4 1 9 11.1 0 3 0.0 2 2 100.0 2 1 3 4 0 1 1 2 -16
+p475
+aVChris Anstey DAL 02/09/1999 DAL vs. UTA L 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 2 0
+p476
+aVSamaki Walker DAL 02/09/1999 DAL vs. UTA L 12 7 3 8 37.5 0 1 0.0 1 2 50.0 0 2 2 0 2 0 0 0 0
+p477
+aVHubert Davis DAL 02/09/1999 DAL vs. UTA L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 1
+p478
+aVErick Strickland DAL 02/09/1999 DAL vs. UTA L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 1 3
+p479
+aVShawn Bradley DAL 02/09/1999 DAL vs. UTA L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 4 1 0 2
+p480
+aVRobert Pack DAL 02/09/1999 DAL vs. UTA L 20 11 3 5 60.0 0 0 - 5 6 83.3 1 0 1 3 1 0 3 0 2
+p481
+aVMichael Finley DAL 02/09/1999 DAL vs. UTA L 39 15 6 15 40.0 0 2 0.0 3 4 75.0 1 3 4 1 3 1 2 1 -14
+p482
+aVA.C. Green DAL 02/09/1999 DAL vs. UTA L 19 4 2 3 66.7 0 0 - 0 2 0.0 2 4 6 1 0 0 0 0 -4
+p483
+aVHot Rod Williams DAL 02/09/1999 DAL vs. UTA L 23 0 0 0 - 0 0 - 0 0 - 2 5 7 0 0 0 1 3 -9
+p484
+aVDirk Nowitzki DAL 02/09/1999 DAL vs. UTA L 32 15 4 14 28.6 1 2 50.0 6 8 75.0 3 6 9 0 0 1 3 3 -10
+p485
+aVCedric Ceballos DAL 02/09/1999 DAL vs. UTA L 31 19 5 13 38.5 2 5 40.0 7 8 87.5 3 4 7 1 0 3 5 6 -10
+p486
+aVDirk Nowitzki DAL 02/07/1999 DAL @ GSW W 33 16 6 10 60.0 2 4 50.0 2 4 50.0 3 9 12 3 1 0 4 0 9
+p487
+aVCedric Ceballos DAL 02/07/1999 DAL @ GSW W 37 26 9 19 47.4 2 4 50.0 6 6 100.0 2 6 8 1 1 0 6 2 -4
+p488
+aVMichael Finley DAL 02/07/1999 DAL @ GSW W 49 22 7 16 43.8 3 6 50.0 5 8 62.5 0 3 3 1 2 0 1 1 7
+p489
+aVHubert Davis DAL 02/07/1999 DAL @ GSW W 9 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p490
+aVGary Trent DAL 02/07/1999 DAL @ GSW W 6 1 0 1 0.0 0 0 - 1 4 25.0 2 1 3 0 0 0 1 1 -9
+p491
+aVSteve Nash DAL 02/07/1999 DAL @ GSW W 42 6 1 6 16.7 0 3 0.0 4 6 66.7 0 1 1 12 1 0 1 5 6
+p492
+aVSamaki Walker DAL 02/07/1999 DAL @ GSW W 12 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -1
+p493
+aVRobert Pack DAL 02/07/1999 DAL @ GSW W 19 5 1 5 20.0 0 0 - 3 4 75.0 0 1 1 3 0 0 1 3 -1
+p494
+aVChris Anstey DAL 02/07/1999 DAL @ GSW W 14 6 2 2 100.0 0 0 - 2 4 50.0 1 2 3 0 1 0 0 6 10
+p495
+aVHot Rod Williams DAL 02/07/1999 DAL @ GSW W 23 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 3 1 5 -13
+p496
+aVShawn Bradley DAL 02/07/1999 DAL @ GSW W 16 2 0 0 - 0 0 - 2 2 100.0 2 3 5 1 0 4 1 5 3
+p497
+aVA.C. Green DAL 02/07/1999 DAL @ GSW W 29 6 2 8 25.0 0 0 - 2 3 66.7 1 3 4 0 1 0 4 2 9
+p498
+aVHubert Davis DAL 02/05/1999 DAL @ SEA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p499
+aVCedric Ceballos DAL 02/05/1999 DAL @ SEA L 37 16 6 10 60.0 0 2 0.0 4 6 66.7 2 6 8 2 0 0 3 3 -2
+p500
+aVErick Strickland DAL 02/05/1999 DAL @ SEA L 14 10 4 6 66.7 2 4 50.0 0 0 - 0 1 1 0 0 0 2 1 0
+p501
+aVGary Trent DAL 02/05/1999 DAL @ SEA L 9 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -7
+p502
+aVSamaki Walker DAL 02/05/1999 DAL @ SEA L 18 6 3 8 37.5 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -5
+p503
+aVA.C. Green DAL 02/05/1999 DAL @ SEA L 25 8 4 7 57.1 0 0 - 0 0 - 1 10 11 0 0 0 0 0 6
+p504
+aVDirk Nowitzki DAL 02/05/1999 DAL @ SEA L 16 2 0 5 0.0 0 1 0.0 2 2 100.0 0 0 0 4 0 0 0 1 -4
+p505
+aVMichael Finley DAL 02/05/1999 DAL @ SEA L 37 9 4 17 23.5 1 2 50.0 0 0 - 3 1 4 5 1 0 0 3 -4
+p506
+aVHot Rod Williams DAL 02/05/1999 DAL @ SEA L 24 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 1 0 2 0 2 -5
+p507
+aVChris Anstey DAL 02/05/1999 DAL @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p508
+aVRobert Pack DAL 02/05/1999 DAL @ SEA L 13 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 4 0 0 0 1 0
+p509
+aVShawn Bradley DAL 02/05/1999 DAL @ SEA L 26 11 4 4 100.0 0 0 - 3 3 100.0 1 6 7 0 0 2 0 0 2
+p510
+aVSteve Nash DAL 02/05/1999 DAL @ SEA L 40 9 3 13 23.1 3 9 33.3 0 1 0.0 2 0 2 5 1 0 1 3 -6
+p511
+a.

@@ -1,0 +1,380 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEnes Kanter OKC 05/30/2016 OKC @ GSW L 9 8 4 7 57.1 0 0 - 0 0 - 2 2 4 0 0 1 0 0 -1
+p2
+aVAndre Roberson OKC 05/30/2016 OKC @ GSW L 39 4 2 11 18.2 0 4 0.0 0 0 - 6 6 12 0 0 1 0 1 -19
+p3
+aVRandy Foye OKC 05/30/2016 OKC @ GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p4
+aVSteven Adams OKC 05/30/2016 OKC @ GSW L 26 9 4 11 36.4 0 0 - 1 2 50.0 5 4 9 1 0 0 1 2 0
+p5
+aVKevin Durant OKC 05/30/2016 OKC @ GSW L 46 27 10 19 52.6 3 7 42.9 4 4 100.0 0 7 7 3 1 1 2 1 -4
+p6
+aVDion Waiters OKC 05/30/2016 OKC @ GSW L 32 5 2 9 22.2 0 5 0.0 1 2 50.0 0 4 4 2 0 1 1 2 7
+p7
+aVSerge Ibaka OKC 05/30/2016 OKC @ GSW L 43 16 5 11 45.5 2 5 40.0 4 5 80.0 1 3 4 1 0 1 0 2 -7
+p8
+aVRussell Westbrook OKC 05/30/2016 OKC @ GSW L 45 19 7 21 33.3 2 6 33.3 3 4 75.0 0 7 7 13 2 0 3 3 -14
+p9
+aVAnthony Morrow OKC 05/28/2016 OKC vs. GSW L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p10
+aVRandy Foye OKC 05/28/2016 OKC vs. GSW L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p11
+aVSteven Adams OKC 05/28/2016 OKC vs. GSW L 28 9 3 6 50.0 0 0 - 3 5 60.0 6 3 9 1 1 0 2 4 -12
+p12
+aVSerge Ibaka OKC 05/28/2016 OKC vs. GSW L 36 13 5 10 50.0 1 6 16.7 2 5 40.0 1 8 9 0 0 3 0 4 -6
+p13
+aVRussell Westbrook OKC 05/28/2016 OKC vs. GSW L 44 28 10 27 37.0 0 5 0.0 8 10 80.0 3 6 9 11 4 0 5 2 -11
+p14
+aVKevin Durant OKC 05/28/2016 OKC vs. GSW L 45 29 10 31 32.3 1 8 12.5 8 10 80.0 2 5 7 3 2 3 3 4 -6
+p15
+aVDion Waiters OKC 05/28/2016 OKC vs. GSW L 36 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 1 1 0 0 0 -5
+p16
+aVAndre Roberson OKC 05/28/2016 OKC vs. GSW L 29 11 5 5 100.0 0 0 - 1 2 50.0 3 5 8 0 1 3 3 5 -6
+p17
+aVEnes Kanter OKC 05/28/2016 OKC vs. GSW L 11 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 0 1 1 3 15
+p18
+aVDion Waiters OKC 05/26/2016 OKC @ GSW L 27 0 0 4 0.0 0 1 0.0 0 0 - 2 2 4 4 0 0 1 3 -17
+p19
+aVEnes Kanter OKC 05/26/2016 OKC @ GSW L 6 1 0 1 0.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 2 0
+p20
+aVAndre Roberson OKC 05/26/2016 OKC @ GSW L 34 6 2 5 40.0 2 3 66.7 0 0 - 4 2 6 3 2 0 1 6 -4
+p21
+aVRussell Westbrook OKC 05/26/2016 OKC @ GSW L 41 31 11 28 39.3 3 8 37.5 6 9 66.7 2 5 7 8 5 0 7 5 -9
+p22
+aVKevin Durant OKC 05/26/2016 OKC @ GSW L 45 40 12 31 38.7 3 11 27.3 13 13 100.0 0 7 7 4 1 1 3 3 -4
+p23
+aVNazr Mohammed OKC 05/26/2016 OKC @ GSW L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p24
+aVAnthony Morrow OKC 05/26/2016 OKC @ GSW L 7 10 4 4 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p25
+aVSerge Ibaka OKC 05/26/2016 OKC @ GSW L 40 13 5 10 50.0 3 5 60.0 0 0 - 1 7 8 3 0 0 0 2 -3
+p26
+aVSteven Adams OKC 05/26/2016 OKC @ GSW L 31 8 4 6 66.7 0 0 - 0 1 0.0 3 7 10 1 0 1 1 3 -7
+p27
+aVRandy Foye OKC 05/26/2016 OKC @ GSW L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 2
+p28
+aVNazr Mohammed OKC 05/24/2016 OKC vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p29
+aVAndre Roberson OKC 05/24/2016 OKC vs. GSW W 40 17 7 12 58.3 1 3 33.3 2 8 25.0 2 10 12 3 5 2 0 5 25
+p30
+aVKyle Singler OKC 05/24/2016 OKC vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p31
+aVEnes Kanter OKC 05/24/2016 OKC vs. GSW W 9 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 1 1 6
+p32
+aVCameron Payne OKC 05/24/2016 OKC vs. GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 1
+p33
+aVSerge Ibaka OKC 05/24/2016 OKC vs. GSW W 33 17 7 11 63.6 1 4 25.0 2 2 100.0 3 4 7 0 0 2 3 4 24
+p34
+aVRandy Foye OKC 05/24/2016 OKC vs. GSW W 14 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 3 -2
+p35
+aVDion Waiters OKC 05/24/2016 OKC vs. GSW W 32 10 3 7 42.9 2 4 50.0 2 2 100.0 0 3 3 3 0 0 2 3 24
+p36
+aVRussell Westbrook OKC 05/24/2016 OKC vs. GSW W 41 36 12 27 44.4 4 8 50.0 8 8 100.0 5 6 11 11 4 0 6 1 26
+p37
+aVKevin Durant OKC 05/24/2016 OKC vs. GSW W 41 26 8 24 33.3 1 5 20.0 9 10 90.0 1 10 11 4 4 3 3 1 22
+p38
+aVSteven Adams OKC 05/24/2016 OKC vs. GSW W 25 11 2 4 50.0 0 0 - 7 8 87.5 4 3 7 2 2 1 1 4 -7
+p39
+aVAnthony Morrow OKC 05/24/2016 OKC vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p40
+aVDion Waiters OKC 05/22/2016 OKC vs. GSW W 34 13 6 11 54.5 1 3 33.3 0 0 - 0 3 3 3 0 0 1 2 32
+p41
+aVSerge Ibaka OKC 05/22/2016 OKC vs. GSW W 32 14 6 13 46.2 2 5 40.0 0 0 - 2 6 8 0 2 2 1 4 42
+p42
+aVRandy Foye OKC 05/22/2016 OKC vs. GSW W 24 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 1 0 1 3 -11
+p43
+aVAndre Roberson OKC 05/22/2016 OKC vs. GSW W 30 13 5 9 55.6 3 5 60.0 0 0 - 0 6 6 1 1 0 1 2 33
+p44
+aVKevin Durant OKC 05/22/2016 OKC vs. GSW W 32 33 10 15 66.7 1 3 33.3 12 12 100.0 1 7 8 2 0 3 1 3 36
+p45
+aVCameron Payne OKC 05/22/2016 OKC vs. GSW W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 2 0 0 -6
+p46
+aVSteven Adams OKC 05/22/2016 OKC vs. GSW W 18 8 2 4 50.0 0 0 - 4 6 66.7 0 5 5 1 0 1 1 4 0
+p47
+aVAnthony Morrow OKC 05/22/2016 OKC vs. GSW W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p48
+aVKyle Singler OKC 05/22/2016 OKC vs. GSW W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p49
+aVRussell Westbrook OKC 05/22/2016 OKC vs. GSW W 32 30 10 19 52.6 1 5 20.0 9 11 81.8 2 6 8 12 2 0 4 3 41
+p50
+aVEnes Kanter OKC 05/22/2016 OKC vs. GSW W 18 10 3 9 33.3 0 1 0.0 4 4 100.0 6 6 12 1 0 0 1 2 -17
+p51
+aVRussell Westbrook OKC 05/18/2016 OKC @ GSW L 31 16 5 14 35.7 1 5 20.0 5 5 100.0 1 0 1 12 2 0 3 1 -27
+p52
+aVSerge Ibaka OKC 05/18/2016 OKC @ GSW L 30 3 1 6 16.7 1 4 25.0 0 0 - 3 5 8 0 3 0 0 4 -12
+p53
+aVDion Waiters OKC 05/18/2016 OKC @ GSW L 29 7 3 11 27.3 1 4 25.0 0 2 0.0 0 1 1 3 1 1 1 1 -22
+p54
+aVCameron Payne OKC 05/18/2016 OKC @ GSW L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 0
+p55
+aVNick Collison OKC 05/18/2016 OKC @ GSW L 6 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 2
+p56
+aVSteven Adams OKC 05/18/2016 OKC @ GSW L 36 9 4 6 66.7 0 0 - 1 2 50.0 2 8 10 0 0 0 0 2 -25
+p57
+aVAndre Roberson OKC 05/18/2016 OKC @ GSW L 15 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 0 0 1 1 1 -19
+p58
+aVRandy Foye OKC 05/18/2016 OKC @ GSW L 18 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 1 1 1 0 1 -2
+p59
+aVKevin Durant OKC 05/18/2016 OKC @ GSW L 35 29 11 18 61.1 2 4 50.0 5 5 100.0 1 5 6 1 1 0 8 4 -17
+p60
+aVKyle Singler OKC 05/18/2016 OKC @ GSW L 8 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 1 0 0 1 -2
+p61
+aVEnes Kanter OKC 05/18/2016 OKC @ GSW L 15 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 1 2 4 -11
+p62
+aVAnthony Morrow OKC 05/18/2016 OKC @ GSW L 9 5 1 3 33.3 0 1 0.0 3 3 100.0 0 0 0 1 0 0 0 1 0
+p63
+aVDion Waiters OKC 05/16/2016 OKC @ GSW W 30 10 4 6 66.7 2 2 100.0 0 2 0.0 0 1 1 4 0 0 0 3 2
+p64
+aVKevin Durant OKC 05/16/2016 OKC @ GSW W 46 26 10 30 33.3 1 4 25.0 5 7 71.4 1 9 10 3 3 1 5 1 8
+p65
+aVRussell Westbrook OKC 05/16/2016 OKC @ GSW W 40 27 7 21 33.3 2 4 50.0 11 14 78.6 1 5 6 12 7 0 3 2 8
+p66
+aVAndre Roberson OKC 05/16/2016 OKC @ GSW W 21 7 3 3 100.0 1 1 100.0 0 0 - 0 5 5 1 1 1 0 2 -8
+p67
+aVRandy Foye OKC 05/16/2016 OKC @ GSW W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 3 -1
+p68
+aVEnes Kanter OKC 05/16/2016 OKC @ GSW W 18 8 4 8 50.0 0 1 0.0 0 0 - 2 4 6 0 1 1 1 2 2
+p69
+aVSteven Adams OKC 05/16/2016 OKC @ GSW W 37 16 5 8 62.5 0 0 - 6 9 66.7 2 10 12 0 0 2 1 2 19
+p70
+aVSerge Ibaka OKC 05/16/2016 OKC @ GSW W 36 11 5 11 45.5 1 3 33.3 0 0 - 4 7 11 1 0 1 1 0 0
+p71
+aVCameron Payne OKC 05/12/2016 OKC vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p72
+aVAndre Roberson OKC 05/12/2016 OKC vs. SAS W 33 14 5 8 62.5 3 5 60.0 1 2 50.0 3 4 7 1 1 2 0 5 13
+p73
+aVEnes Kanter OKC 05/12/2016 OKC vs. SAS W 21 7 2 7 28.6 0 1 0.0 3 4 75.0 3 4 7 0 1 0 0 1 8
+p74
+aVKevin Durant OKC 05/12/2016 OKC vs. SAS W 43 37 12 24 50.0 1 4 25.0 12 12 100.0 0 9 9 2 0 0 2 0 9
+p75
+aVNazr Mohammed OKC 05/12/2016 OKC vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p76
+aVRussell Westbrook OKC 05/12/2016 OKC vs. SAS W 38 28 10 21 47.6 2 6 33.3 6 6 100.0 1 2 3 12 2 0 6 3 14
+p77
+aVDion Waiters OKC 05/12/2016 OKC vs. SAS W 18 2 1 5 20.0 0 0 - 0 0 - 1 1 2 4 1 0 1 2 12
+p78
+aVRandy Foye OKC 05/12/2016 OKC vs. SAS W 11 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 1 0 1 1 1 -4
+p79
+aVSteven Adams OKC 05/12/2016 OKC vs. SAS W 40 15 6 7 85.7 0 0 - 3 4 75.0 5 6 11 0 2 1 0 5 6
+p80
+aVSerge Ibaka OKC 05/12/2016 OKC vs. SAS W 34 8 3 9 33.3 0 3 0.0 2 3 66.7 1 9 10 1 0 3 0 1 14
+p81
+aVNick Collison OKC 05/10/2016 OKC @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p82
+aVKevin Durant OKC 05/10/2016 OKC @ SAS W 43 23 8 21 38.1 2 5 40.0 5 6 83.3 1 5 6 5 2 1 5 1 7
+p83
+aVSteven Adams OKC 05/10/2016 OKC @ SAS W 35 12 5 8 62.5 0 0 - 2 6 33.3 4 7 11 1 1 0 1 4 11
+p84
+aVRussell Westbrook OKC 05/10/2016 OKC @ SAS W 39 35 12 27 44.4 3 7 42.9 8 8 100.0 4 7 11 9 2 0 8 4 -4
+p85
+aVEnes Kanter OKC 05/10/2016 OKC @ SAS W 30 8 3 7 42.9 0 2 0.0 2 2 100.0 5 8 13 0 0 3 2 4 8
+p86
+aVRandy Foye OKC 05/10/2016 OKC @ SAS W 13 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 2
+p87
+aVAnthony Morrow OKC 05/10/2016 OKC @ SAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p88
+aVAndre Roberson OKC 05/10/2016 OKC @ SAS W 22 0 0 2 0.0 0 2 0.0 0 0 - 0 6 6 0 1 1 0 1 -12
+p89
+aVSerge Ibaka OKC 05/10/2016 OKC @ SAS W 29 5 2 4 50.0 1 1 100.0 0 0 - 1 3 4 1 0 1 3 4 -3
+p90
+aVDion Waiters OKC 05/10/2016 OKC @ SAS W 26 9 3 5 60.0 0 0 - 3 4 75.0 0 3 3 2 0 0 1 3 18
+p91
+aVKevin Durant OKC 05/08/2016 OKC vs. SAS W 43 41 14 25 56.0 3 9 33.3 10 13 76.9 1 4 5 4 1 0 5 1 17
+p92
+aVRussell Westbrook OKC 05/08/2016 OKC vs. SAS W 38 14 5 18 27.8 1 3 33.3 3 4 75.0 3 4 7 15 3 0 3 2 18
+p93
+aVEnes Kanter OKC 05/08/2016 OKC vs. SAS W 28 11 3 6 50.0 1 2 50.0 4 4 100.0 3 5 8 0 0 0 0 3 9
+p94
+aVAndre Roberson OKC 05/08/2016 OKC vs. SAS W 20 0 0 2 0.0 0 1 0.0 0 0 - 1 3 4 1 1 0 1 1 -4
+p95
+aVSteven Adams OKC 05/08/2016 OKC vs. SAS W 36 16 6 8 75.0 0 1 0.0 4 6 66.7 2 9 11 0 0 2 1 5 21
+p96
+aVDion Waiters OKC 05/08/2016 OKC vs. SAS W 29 17 7 11 63.6 2 2 100.0 1 2 50.0 0 3 3 3 1 0 0 3 6
+p97
+aVCameron Payne OKC 05/08/2016 OKC vs. SAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -1
+p98
+aVRandy Foye OKC 05/08/2016 OKC vs. SAS W 9 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 6
+p99
+aVNick Collison OKC 05/08/2016 OKC vs. SAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p100
+aVSerge Ibaka OKC 05/08/2016 OKC vs. SAS W 28 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 0 0 1 0 1 4
+p101
+aVDion Waiters OKC 05/06/2016 OKC vs. SAS L 25 6 2 6 33.3 1 3 33.3 1 2 50.0 0 1 1 1 1 0 1 4 -2
+p102
+aVRussell Westbrook OKC 05/06/2016 OKC vs. SAS L 39 31 10 31 32.3 3 10 30.0 8 8 100.0 4 5 9 8 1 0 5 3 -5
+p103
+aVAnthony Morrow OKC 05/06/2016 OKC vs. SAS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p104
+aVCameron Payne OKC 05/06/2016 OKC vs. SAS L 9 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 0 0 0 2 0 1
+p105
+aVAndre Roberson OKC 05/06/2016 OKC vs. SAS L 27 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 1 1 2 0 4 -9
+p106
+aVKevin Durant OKC 05/06/2016 OKC vs. SAS L 42 26 10 18 55.6 1 5 20.0 5 6 83.3 0 5 5 3 1 1 5 3 -1
+p107
+aVSerge Ibaka OKC 05/06/2016 OKC vs. SAS L 36 15 5 8 62.5 5 6 83.3 0 0 - 0 5 5 0 0 1 0 4 0
+p108
+aVEnes Kanter OKC 05/06/2016 OKC vs. SAS L 19 8 3 6 50.0 0 0 - 2 2 100.0 3 2 5 0 1 0 0 2 -7
+p109
+aVSteven Adams OKC 05/06/2016 OKC vs. SAS L 41 2 0 1 0.0 0 0 - 2 2 100.0 3 8 11 1 0 1 1 3 -1
+p110
+aVSerge Ibaka OKC 05/02/2016 OKC @ SAS W 33 12 5 10 50.0 2 5 40.0 0 0 - 1 4 5 1 1 2 1 4 18
+p111
+aVCameron Payne OKC 05/02/2016 OKC @ SAS W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 -17
+p112
+aVEnes Kanter OKC 05/02/2016 OKC @ SAS W 19 12 4 7 57.1 0 1 0.0 4 4 100.0 4 4 8 0 0 3 3 1 -11
+p113
+aVAnthony Morrow OKC 05/02/2016 OKC @ SAS W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p114
+aVSteven Adams OKC 05/02/2016 OKC @ SAS W 37 12 5 6 83.3 0 0 - 2 2 100.0 3 14 17 0 1 1 2 1 12
+p115
+aVKevin Durant OKC 05/02/2016 OKC @ SAS W 42 28 11 19 57.9 1 2 50.0 5 5 100.0 0 7 7 4 0 1 5 1 3
+p116
+aVAndre Roberson OKC 05/02/2016 OKC @ SAS W 24 0 0 1 0.0 0 1 0.0 0 2 0.0 0 3 3 1 3 0 1 3 17
+p117
+aVRussell Westbrook OKC 05/02/2016 OKC @ SAS W 37 29 11 25 44.0 1 6 16.7 6 8 75.0 1 6 7 10 2 1 3 3 10
+p118
+aVDion Waiters OKC 05/02/2016 OKC @ SAS W 25 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 0 0 2 4 -15
+p119
+aVKevin Durant OKC 04/30/2016 OKC @ SAS L 33 16 6 15 40.0 0 2 0.0 4 4 100.0 1 7 8 6 0 0 1 3 -31
+p120
+aVNazr Mohammed OKC 04/30/2016 OKC @ SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p121
+aVAnthony Morrow OKC 04/30/2016 OKC @ SAS L 5 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 0 0 5
+p122
+aVDion Waiters OKC 04/30/2016 OKC @ SAS L 16 11 3 6 50.0 0 2 0.0 5 7 71.4 1 1 2 1 2 0 2 2 -21
+p123
+aVSerge Ibaka OKC 04/30/2016 OKC @ SAS L 29 19 8 15 53.3 3 6 50.0 0 0 - 1 1 2 0 1 0 0 1 -27
+p124
+aVCameron Payne OKC 04/30/2016 OKC @ SAS L 18 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 5 0 0 2 1 -3
+p125
+aVEnes Kanter OKC 04/30/2016 OKC @ SAS L 19 6 3 7 42.9 0 1 0.0 0 2 0.0 2 2 4 0 0 0 1 0 -8
+p126
+aVRussell Westbrook OKC 04/30/2016 OKC @ SAS L 30 14 5 19 26.3 0 3 0.0 4 4 100.0 1 1 2 9 2 0 2 1 -29
+p127
+aVAndre Roberson OKC 04/30/2016 OKC @ SAS L 20 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -22
+p128
+aVSteven Adams OKC 04/30/2016 OKC @ SAS L 25 9 4 7 57.1 0 0 - 1 2 50.0 4 6 10 0 0 1 1 2 -27
+p129
+aVNick Collison OKC 04/30/2016 OKC @ SAS L 19 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 2 -5
+p130
+aVRandy Foye OKC 04/30/2016 OKC @ SAS L 10 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 0 0 6
+p131
+aVKyle Singler OKC 04/30/2016 OKC @ SAS L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p132
+aVAnthony Morrow OKC 04/25/2016 OKC vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p133
+aVNick Collison OKC 04/25/2016 OKC vs. DAL W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 5 -3
+p134
+aVDion Waiters OKC 04/25/2016 OKC vs. DAL W 22 11 4 8 50.0 3 6 50.0 0 0 - 1 1 2 1 0 0 2 2 -6
+p135
+aVKevin Durant OKC 04/25/2016 OKC vs. DAL W 41 33 11 24 45.8 3 11 27.3 8 8 100.0 2 5 7 2 0 1 2 1 13
+p136
+aVSerge Ibaka OKC 04/25/2016 OKC vs. DAL W 30 2 0 4 0.0 0 1 0.0 2 2 100.0 0 3 3 0 2 1 0 4 14
+p137
+aVRussell Westbrook OKC 04/25/2016 OKC vs. DAL W 38 36 13 23 56.5 3 8 37.5 7 8 87.5 3 9 12 9 1 0 3 1 24
+p138
+aVSteven Adams OKC 04/25/2016 OKC vs. DAL W 38 15 5 8 62.5 0 0 - 5 9 55.6 5 5 10 1 0 1 1 4 15
+p139
+aVCameron Payne OKC 04/25/2016 OKC vs. DAL W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p140
+aVEnes Kanter OKC 04/25/2016 OKC vs. DAL W 12 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 2 0
+p141
+aVAndre Roberson OKC 04/25/2016 OKC vs. DAL W 31 6 3 6 50.0 0 2 0.0 0 0 - 3 0 3 0 2 2 0 2 26
+p142
+aVRandy Foye OKC 04/25/2016 OKC vs. DAL W 10 2 0 1 0.0 0 0 - 2 2 100.0 0 4 4 4 0 0 0 0 -7
+p143
+aVNick Collison OKC 04/23/2016 OKC @ DAL W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 2 14
+p144
+aVRussell Westbrook OKC 04/23/2016 OKC @ DAL W 39 25 7 19 36.8 3 5 60.0 8 12 66.7 3 2 5 15 2 0 2 0 4
+p145
+aVAndre Roberson OKC 04/23/2016 OKC @ DAL W 26 2 1 3 33.3 0 0 - 0 0 - 2 6 8 1 0 1 1 1 -1
+p146
+aVDion Waiters OKC 04/23/2016 OKC @ DAL W 27 12 4 5 80.0 1 1 100.0 3 3 100.0 0 4 4 4 0 1 2 4 14
+p147
+aVSteven Adams OKC 04/23/2016 OKC @ DAL W 25 14 5 7 71.4 0 0 - 4 6 66.7 3 5 8 2 0 0 1 2 4
+p148
+aVEnes Kanter OKC 04/23/2016 OKC @ DAL W 26 28 12 13 92.3 0 0 - 4 4 100.0 2 4 6 0 0 0 1 4 6
+p149
+aVRandy Foye OKC 04/23/2016 OKC @ DAL W 9 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 0 7
+p150
+aVSerge Ibaka OKC 04/23/2016 OKC @ DAL W 34 16 7 11 63.6 1 3 33.3 1 1 100.0 2 3 5 0 1 0 0 4 -2
+p151
+aVAnthony Morrow OKC 04/23/2016 OKC @ DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p152
+aVKevin Durant OKC 04/23/2016 OKC @ DAL W 43 19 7 20 35.0 1 4 25.0 4 8 50.0 0 4 4 4 1 1 1 2 7
+p153
+aVRandy Foye OKC 04/21/2016 OKC @ DAL W 14 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 1 0 0 2 1 0
+p154
+aVDion Waiters OKC 04/21/2016 OKC @ DAL W 28 19 7 11 63.6 4 8 50.0 1 1 100.0 1 3 4 3 1 0 2 2 27
+p155
+aVSteven Adams OKC 04/21/2016 OKC @ DAL W 23 4 2 4 50.0 0 0 - 0 0 - 4 2 6 1 1 0 0 2 11
+p156
+aVRussell Westbrook OKC 04/21/2016 OKC @ DAL W 34 26 9 16 56.3 2 3 66.7 6 9 66.7 0 0 0 15 2 1 6 4 29
+p157
+aVNick Collison OKC 04/21/2016 OKC @ DAL W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 2 0
+p158
+aVEnes Kanter OKC 04/21/2016 OKC @ DAL W 22 21 6 7 85.7 1 1 100.0 8 10 80.0 4 4 8 1 1 1 0 4 17
+p159
+aVAndre Roberson OKC 04/21/2016 OKC @ DAL W 24 5 1 1 100.0 1 1 100.0 2 2 100.0 0 5 5 0 2 1 0 3 10
+p160
+aVSerge Ibaka OKC 04/21/2016 OKC @ DAL W 37 16 7 9 77.8 2 2 100.0 0 0 - 0 6 6 2 1 2 0 3 27
+p161
+aVCameron Payne OKC 04/21/2016 OKC @ DAL W 4 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 1 0 0 0 2 1
+p162
+aVJosh Huestis OKC 04/21/2016 OKC @ DAL W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 1
+p163
+aVKevin Durant OKC 04/21/2016 OKC @ DAL W 37 34 11 25 44.0 3 9 33.3 9 11 81.8 0 7 7 3 1 0 4 3 13
+p164
+aVAnthony Morrow OKC 04/21/2016 OKC @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 9
+p165
+aVRussell Westbrook OKC 04/18/2016 OKC vs. DAL L 38 19 8 22 36.4 1 6 16.7 2 4 50.0 6 8 14 6 2 0 4 4 5
+p166
+aVAndre Roberson OKC 04/18/2016 OKC vs. DAL L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 2 1 0 1 1
+p167
+aVKevin Durant OKC 04/18/2016 OKC vs. DAL L 44 21 7 33 21.2 2 11 18.2 5 5 100.0 1 8 9 2 0 1 7 2 -1
+p168
+aVEnes Kanter OKC 04/18/2016 OKC vs. DAL L 19 6 2 7 28.6 0 1 0.0 2 2 100.0 5 3 8 0 1 0 1 2 -4
+p169
+aVAnthony Morrow OKC 04/18/2016 OKC vs. DAL L 11 7 2 4 50.0 1 3 33.3 2 2 100.0 0 0 0 0 1 0 2 1 1
+p170
+aVNick Collison OKC 04/18/2016 OKC vs. DAL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -2
+p171
+aVKyle Singler OKC 04/18/2016 OKC vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p172
+aVRandy Foye OKC 04/18/2016 OKC vs. DAL L 10 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 0
+p173
+aVSerge Ibaka OKC 04/18/2016 OKC vs. DAL L 33 12 4 7 57.1 2 4 50.0 2 2 100.0 1 7 8 0 2 1 0 4 5
+p174
+aVSteven Adams OKC 04/18/2016 OKC vs. DAL L 30 9 4 6 66.7 0 0 - 1 2 50.0 5 2 7 1 0 1 0 2 0
+p175
+aVDion Waiters OKC 04/18/2016 OKC vs. DAL L 26 8 3 8 37.5 1 5 20.0 1 1 100.0 0 3 3 0 0 0 1 1 -6
+p176
+aVDion Waiters OKC 04/16/2016 OKC vs. DAL W 28 5 1 9 11.1 1 5 20.0 2 2 100.0 0 2 2 3 2 0 0 1 17
+p177
+aVEnes Kanter OKC 04/16/2016 OKC vs. DAL W 24 16 7 10 70.0 0 1 0.0 2 3 66.7 4 9 13 1 0 0 2 3 15
+p178
+aVRussell Westbrook OKC 04/16/2016 OKC vs. DAL W 30 24 7 15 46.7 2 7 28.6 8 8 100.0 1 4 5 11 1 0 5 1 39
+p179
+aVNazr Mohammed OKC 04/16/2016 OKC vs. DAL W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 0
+p180
+aVNick Collison OKC 04/16/2016 OKC vs. DAL W 8 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 2 0 1 2 7
+p181
+aVSteven Adams OKC 04/16/2016 OKC vs. DAL W 23 4 2 4 50.0 0 0 - 0 1 0.0 2 5 7 0 1 1 2 4 24
+p182
+aVAndre Roberson OKC 04/16/2016 OKC vs. DAL W 20 4 1 4 25.0 0 3 0.0 2 4 50.0 0 5 5 1 0 1 1 2 21
+p183
+aVRandy Foye OKC 04/16/2016 OKC vs. DAL W 18 3 1 6 16.7 1 4 25.0 0 0 - 0 2 2 1 0 1 3 3 -1
+p184
+aVKevin Durant OKC 04/16/2016 OKC vs. DAL W 27 23 7 15 46.7 2 6 33.3 7 7 100.0 1 4 5 5 0 0 3 3 28
+p185
+aVJosh Huestis OKC 04/16/2016 OKC vs. DAL W 8 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 1
+p186
+aVAnthony Morrow OKC 04/16/2016 OKC vs. DAL W 11 6 1 3 33.3 1 3 33.3 3 3 100.0 0 1 1 0 0 0 0 1 2
+p187
+aVSerge Ibaka OKC 04/16/2016 OKC vs. DAL W 28 17 7 8 87.5 3 3 100.0 0 0 - 1 8 9 0 1 3 0 1 36
+p188
+aVKyle Singler OKC 04/16/2016 OKC vs. DAL W 14 6 2 3 66.7 2 2 100.0 0 0 - 1 2 3 0 0 0 0 2 1
+p189
+a.

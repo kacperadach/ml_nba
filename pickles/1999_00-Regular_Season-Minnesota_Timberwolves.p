@@ -1,0 +1,1732 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAndrae Patterson MIN 04/19/2000 MIN vs. DAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p2
+aVJoe Smith MIN 04/19/2000 MIN vs. DAL L 27 10 5 9 55.6 0 0 - 0 0 - 3 5 8 1 0 1 0 4 -1
+p3
+aVMalik Sealy MIN 04/19/2000 MIN vs. DAL L 29 13 6 13 46.2 0 1 0.0 1 2 50.0 2 1 3 4 0 0 0 4 -7
+p4
+aVRasho Nesterovic MIN 04/19/2000 MIN vs. DAL L 23 6 3 8 37.5 0 0 - 0 0 - 1 5 6 4 1 0 0 3 1
+p5
+aVDean Garrett MIN 04/19/2000 MIN vs. DAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p6
+aVBobby Jackson MIN 04/19/2000 MIN vs. DAL L 33 21 8 18 44.4 1 5 20.0 4 4 100.0 5 3 8 9 4 0 4 1 10
+p7
+aVSam Mitchell MIN 04/19/2000 MIN vs. DAL L 30 7 3 11 27.3 0 1 0.0 1 1 100.0 2 0 2 4 2 0 1 4 -12
+p8
+aVWally Szczerbiak MIN 04/19/2000 MIN vs. DAL L 29 19 8 14 57.1 1 1 100.0 2 2 100.0 2 4 6 6 1 0 1 1 1
+p9
+aVWilliam Avery MIN 04/19/2000 MIN vs. DAL L 15 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 0 -19
+p10
+aVTom Hammonds MIN 04/19/2000 MIN vs. DAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -1
+p11
+aVAnthony Peeler MIN 04/19/2000 MIN vs. DAL L 33 22 9 13 69.2 3 6 50.0 1 2 50.0 1 2 3 0 1 0 2 0 -3
+p12
+aVRasho Nesterovic MIN 04/17/2000 MIN @ GSW W 24 4 1 3 33.3 0 0 - 2 2 100.0 3 8 11 1 0 1 1 3 10
+p13
+aVTerrell Brandon MIN 04/17/2000 MIN @ GSW W 30 21 8 14 57.1 3 3 100.0 2 2 100.0 0 0 0 8 2 0 2 1 8
+p14
+aVWally Szczerbiak MIN 04/17/2000 MIN @ GSW W 30 12 5 7 71.4 0 0 - 2 2 100.0 3 0 3 1 0 0 1 5 1
+p15
+aVWilliam Avery MIN 04/17/2000 MIN @ GSW W 7 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 2 0 0 1 1 6
+p16
+aVBobby Jackson MIN 04/17/2000 MIN @ GSW W 14 6 2 4 50.0 1 1 100.0 1 1 100.0 2 2 4 2 0 0 1 0 -13
+p17
+aVAnthony Peeler MIN 04/17/2000 MIN @ GSW W 18 7 1 9 11.1 0 6 0.0 5 5 100.0 3 4 7 1 3 0 2 1 3
+p18
+aVSam Mitchell MIN 04/17/2000 MIN @ GSW W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 1 0 0 3 -5
+p19
+aVMalik Sealy MIN 04/17/2000 MIN @ GSW W 35 13 6 11 54.5 0 1 0.0 1 2 50.0 1 3 4 0 1 1 3 4 9
+p20
+aVKevin Garnett MIN 04/17/2000 MIN @ GSW W 36 13 4 16 25.0 0 0 - 5 6 83.3 1 9 10 7 2 1 4 2 5
+p21
+aVTom Hammonds MIN 04/17/2000 MIN @ GSW W 6 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 0
+p22
+aVJoe Smith MIN 04/17/2000 MIN @ GSW W 27 14 6 10 60.0 0 0 - 2 3 66.7 6 5 11 1 0 0 2 5 1
+p23
+aVAnthony Peeler MIN 04/16/2000 MIN @ LAL L 25 9 3 7 42.9 1 4 25.0 2 2 100.0 1 4 5 2 2 0 0 1 -7
+p24
+aVMalik Sealy MIN 04/16/2000 MIN @ LAL L 23 6 3 7 42.9 0 0 - 0 0 - 2 1 3 0 0 0 1 3 1
+p25
+aVSam Mitchell MIN 04/16/2000 MIN @ LAL L 12 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 1 0 0 0 3 -1
+p26
+aVBobby Jackson MIN 04/16/2000 MIN @ LAL L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 0 0 1 1 4
+p27
+aVKevin Garnett MIN 04/16/2000 MIN @ LAL L 41 15 6 19 31.6 0 0 - 3 4 75.0 4 11 15 4 1 1 2 0 -7
+p28
+aVJoe Smith MIN 04/16/2000 MIN @ LAL L 24 10 3 7 42.9 0 0 - 4 6 66.7 4 1 5 2 2 1 1 6 -9
+p29
+aVWally Szczerbiak MIN 04/16/2000 MIN @ LAL L 34 16 6 10 60.0 0 1 0.0 4 6 66.7 5 2 7 2 4 0 1 2 -1
+p30
+aVRasho Nesterovic MIN 04/16/2000 MIN @ LAL L 20 8 4 7 57.1 0 0 - 0 0 - 2 3 5 2 0 0 2 5 0
+p31
+aVTerrell Brandon MIN 04/16/2000 MIN @ LAL L 37 18 9 20 45.0 0 1 0.0 0 0 - 0 0 0 9 1 0 3 1 -10
+p32
+aVDean Garrett MIN 04/16/2000 MIN @ LAL L 13 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 0
+p33
+aVTerrell Brandon MIN 04/14/2000 MIN @ VAN W 45 20 9 22 40.9 2 3 66.7 0 0 - 0 5 5 10 2 1 2 1 4
+p34
+aVSam Mitchell MIN 04/14/2000 MIN @ VAN W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -1
+p35
+aVWally Szczerbiak MIN 04/14/2000 MIN @ VAN W 54 20 9 13 69.2 1 2 50.0 1 2 50.0 1 3 4 4 3 0 3 2 8
+p36
+aVAnthony Peeler MIN 04/14/2000 MIN @ VAN W 43 13 4 12 33.3 3 8 37.5 2 2 100.0 1 1 2 6 0 0 5 5 7
+p37
+aVKevin Garnett MIN 04/14/2000 MIN @ VAN W 52 20 8 17 47.1 0 1 0.0 4 4 100.0 2 10 12 9 1 3 3 0 10
+p38
+aVMalik Sealy MIN 04/14/2000 MIN @ VAN W 12 8 4 5 80.0 0 0 - 0 0 - 1 3 4 2 0 0 0 0 6
+p39
+aVRasho Nesterovic MIN 04/14/2000 MIN @ VAN W 14 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 1 2 1 1 8
+p40
+aVBobby Jackson MIN 04/14/2000 MIN @ VAN W 13 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 2 0 0 0 1 6
+p41
+aVJoe Smith MIN 04/14/2000 MIN @ VAN W 44 19 9 16 56.3 0 0 - 1 3 33.3 6 6 12 1 0 3 1 5 2
+p42
+aVRasho Nesterovic MIN 04/12/2000 MIN @ SEA L 23 7 3 6 50.0 0 0 - 1 1 100.0 1 4 5 1 0 3 3 3 1
+p43
+aVTerrell Brandon MIN 04/12/2000 MIN @ SEA L 30 8 4 13 30.8 0 0 - 0 0 - 1 3 4 5 1 0 0 4 -17
+p44
+aVBobby Jackson MIN 04/12/2000 MIN @ SEA L 15 5 1 6 16.7 0 3 0.0 3 4 75.0 0 2 2 2 0 0 0 1 -5
+p45
+aVTom Hammonds MIN 04/12/2000 MIN @ SEA L 7 1 0 2 0.0 0 0 - 1 3 33.3 1 0 1 0 0 0 0 0 -9
+p46
+aVDean Garrett MIN 04/12/2000 MIN @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p47
+aVAnthony Peeler MIN 04/12/2000 MIN @ SEA L 24 8 3 10 30.0 1 6 16.7 1 2 50.0 1 2 3 1 0 0 1 3 -11
+p48
+aVWally Szczerbiak MIN 04/12/2000 MIN @ SEA L 23 14 6 12 50.0 0 0 - 2 3 66.7 0 1 1 3 0 0 0 1 -24
+p49
+aVJoe Smith MIN 04/12/2000 MIN @ SEA L 28 7 1 5 20.0 0 0 - 5 6 83.3 7 3 10 0 1 0 2 5 -15
+p50
+aVWilliam Avery MIN 04/12/2000 MIN @ SEA L 10 6 2 6 33.3 1 4 25.0 1 2 50.0 0 1 1 1 0 0 1 0 -5
+p51
+aVKevin Garnett MIN 04/12/2000 MIN @ SEA L 34 18 7 14 50.0 0 2 0.0 4 6 66.7 2 7 9 5 1 1 4 3 -26
+p52
+aVSam Mitchell MIN 04/12/2000 MIN @ SEA L 25 5 1 2 50.0 1 1 100.0 2 3 66.7 1 5 6 2 0 0 5 3 -3
+p53
+aVMalik Sealy MIN 04/12/2000 MIN @ SEA L 18 4 1 8 12.5 0 0 - 2 3 66.7 2 3 5 0 1 0 1 1 -16
+p54
+aVTom Hammonds MIN 04/10/2000 MIN vs. DET W 7 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -1
+p55
+aVTerrell Brandon MIN 04/10/2000 MIN vs. DET W 38 16 7 15 46.7 1 3 33.3 1 1 100.0 2 4 6 9 0 0 0 2 11
+p56
+aVAnthony Peeler MIN 04/10/2000 MIN vs. DET W 25 11 4 11 36.4 1 4 25.0 2 3 66.7 1 3 4 5 1 0 1 2 -2
+p57
+aVKevin Garnett MIN 04/10/2000 MIN vs. DET W 39 25 6 14 42.9 0 0 - 13 15 86.7 2 7 9 4 1 1 1 2 4
+p58
+aVSam Mitchell MIN 04/10/2000 MIN vs. DET W 20 9 3 8 37.5 1 1 100.0 2 2 100.0 0 3 3 3 0 0 1 2 -16
+p59
+aVRasho Nesterovic MIN 04/10/2000 MIN vs. DET W 32 2 1 4 25.0 0 0 - 0 0 - 2 3 5 1 1 3 0 6 0
+p60
+aVBobby Jackson MIN 04/10/2000 MIN vs. DET W 10 3 1 3 33.3 1 2 50.0 0 0 - 2 0 2 1 0 0 0 2 -9
+p61
+aVWally Szczerbiak MIN 04/10/2000 MIN vs. DET W 20 10 4 9 44.4 0 1 0.0 2 3 66.7 1 0 1 3 0 0 0 4 7
+p62
+aVJoe Smith MIN 04/10/2000 MIN vs. DET W 17 10 4 5 80.0 0 0 - 2 5 40.0 1 3 4 1 1 1 2 6 1
+p63
+aVWilliam Avery MIN 04/10/2000 MIN vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p64
+aVMalik Sealy MIN 04/10/2000 MIN vs. DET W 32 11 3 10 30.0 0 0 - 5 6 83.3 4 3 7 2 0 1 2 4 15
+p65
+aVJoe Smith MIN 04/07/2000 MIN @ SAC W 19 2 0 2 0.0 0 0 - 2 2 100.0 0 6 6 1 1 2 2 5 -7
+p66
+aVWilliam Avery MIN 04/07/2000 MIN @ SAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p67
+aVRasho Nesterovic MIN 04/07/2000 MIN @ SAC W 23 6 3 5 60.0 0 0 - 0 0 - 2 6 8 0 0 1 0 5 7
+p68
+aVBobby Jackson MIN 04/07/2000 MIN @ SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p69
+aVAnthony Peeler MIN 04/07/2000 MIN @ SAC W 18 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -16
+p70
+aVKevin Garnett MIN 04/07/2000 MIN @ SAC W 41 21 10 21 47.6 0 0 - 1 2 50.0 4 10 14 5 2 1 3 3 11
+p71
+aVWally Szczerbiak MIN 04/07/2000 MIN @ SAC W 35 17 5 10 50.0 1 3 33.3 6 6 100.0 1 5 6 6 0 2 2 3 11
+p72
+aVTerrell Brandon MIN 04/07/2000 MIN @ SAC W 40 30 11 19 57.9 2 4 50.0 6 7 85.7 0 3 3 9 2 1 5 2 15
+p73
+aVMalik Sealy MIN 04/07/2000 MIN @ SAC W 35 11 4 9 44.4 0 0 - 3 4 75.0 0 1 1 1 1 0 0 3 20
+p74
+aVSam Mitchell MIN 04/07/2000 MIN @ SAC W 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 2 1 -9
+p75
+aVDean Garrett MIN 04/07/2000 MIN @ SAC W 9 2 1 3 33.3 0 0 - 0 1 0.0 1 2 3 1 0 0 0 3 5
+p76
+aVTom Hammonds MIN 04/07/2000 MIN @ SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p77
+aVWally Szczerbiak MIN 04/06/2000 MIN @ LAC W 33 23 11 16 68.8 1 2 50.0 0 0 - 1 2 3 2 1 0 0 2 29
+p78
+aVDean Garrett MIN 04/06/2000 MIN @ LAC W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p79
+aVWilliam Avery MIN 04/06/2000 MIN @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p80
+aVMalik Sealy MIN 04/06/2000 MIN @ LAC W 26 8 4 8 50.0 0 0 - 0 0 - 3 2 5 4 0 0 1 2 23
+p81
+aVRasho Nesterovic MIN 04/06/2000 MIN @ LAC W 38 7 3 9 33.3 0 0 - 1 2 50.0 6 7 13 1 0 2 0 4 24
+p82
+aVSam Mitchell MIN 04/06/2000 MIN @ LAC W 15 9 3 4 75.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 0 3 -7
+p83
+aVAnthony Peeler MIN 04/06/2000 MIN @ LAC W 19 10 4 8 50.0 2 5 40.0 0 0 - 2 1 3 2 1 0 0 3 0
+p84
+aVTom Hammonds MIN 04/06/2000 MIN @ LAC W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -2
+p85
+aVJoe Smith MIN 04/06/2000 MIN @ LAC W 17 9 2 8 25.0 0 0 - 5 6 83.3 4 1 5 0 0 2 2 3 -8
+p86
+aVTerrell Brandon MIN 04/06/2000 MIN @ LAC W 34 11 4 13 30.8 1 3 33.3 2 2 100.0 0 2 2 13 3 0 4 1 34
+p87
+aVKevin Garnett MIN 04/06/2000 MIN @ LAC W 36 28 12 17 70.6 1 2 50.0 3 3 100.0 2 4 6 7 3 0 2 3 28
+p88
+aVBobby Jackson MIN 04/06/2000 MIN @ LAC W 14 5 2 5 40.0 1 1 100.0 0 1 0.0 1 2 3 0 0 0 0 1 -12
+p89
+aVRasho Nesterovic MIN 04/04/2000 MIN vs. ATL W 26 6 3 9 33.3 0 0 - 0 0 - 3 4 7 2 0 2 0 3 -5
+p90
+aVSam Mitchell MIN 04/04/2000 MIN vs. ATL W 21 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 0 2 0 0 1 8
+p91
+aVJoe Smith MIN 04/04/2000 MIN vs. ATL W 32 18 8 11 72.7 0 0 - 2 2 100.0 3 6 9 0 0 1 2 2 18
+p92
+aVWilliam Avery MIN 04/04/2000 MIN vs. ATL W 32 13 5 10 50.0 2 3 66.7 1 1 100.0 1 2 3 7 0 0 1 2 23
+p93
+aVDean Garrett MIN 04/04/2000 MIN vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p94
+aVMalik Sealy MIN 04/04/2000 MIN vs. ATL W 28 4 1 7 14.3 0 0 - 2 4 50.0 3 5 8 2 1 0 1 1 15
+p95
+aVAnthony Peeler MIN 04/04/2000 MIN vs. ATL W 24 8 3 6 50.0 2 3 66.7 0 0 - 1 2 3 4 1 0 1 2 -3
+p96
+aVBobby Jackson MIN 04/04/2000 MIN vs. ATL W 22 4 0 7 0.0 0 1 0.0 4 4 100.0 1 1 2 1 1 0 2 0 -15
+p97
+aVWally Szczerbiak MIN 04/04/2000 MIN vs. ATL W 33 8 4 13 30.8 0 2 0.0 0 0 - 2 2 4 2 0 0 0 0 2
+p98
+aVKevin Garnett MIN 04/04/2000 MIN vs. ATL W 44 18 9 26 34.6 0 0 - 0 1 0.0 5 9 14 5 3 1 2 2 4
+p99
+aVSam Mitchell MIN 04/02/2000 MIN vs. PHX L 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p100
+aVKevin Garnett MIN 04/02/2000 MIN vs. PHX L 42 14 6 17 35.3 0 0 - 2 3 66.7 5 8 13 4 0 0 3 2 1
+p101
+aVMalik Sealy MIN 04/02/2000 MIN vs. PHX L 34 19 7 12 58.3 0 0 - 5 5 100.0 1 6 7 2 3 0 2 1 7
+p102
+aVRasho Nesterovic MIN 04/02/2000 MIN vs. PHX L 15 0 0 2 0.0 0 0 - 0 0 - 0 5 5 2 0 0 1 3 4
+p103
+aVDean Garrett MIN 04/02/2000 MIN vs. PHX L 13 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 1 1 0 0 -2
+p104
+aVWally Szczerbiak MIN 04/02/2000 MIN vs. PHX L 35 18 8 13 61.5 2 4 50.0 0 0 - 1 1 2 1 1 1 5 3 7
+p105
+aVAnthony Peeler MIN 04/02/2000 MIN vs. PHX L 14 5 1 6 16.7 1 1 100.0 2 2 100.0 1 3 4 0 0 0 0 2 -8
+p106
+aVJoe Smith MIN 04/02/2000 MIN vs. PHX L 27 12 4 11 36.4 0 0 - 4 4 100.0 3 4 7 0 1 1 4 3 -5
+p107
+aVTerrell Brandon MIN 04/02/2000 MIN vs. PHX L 35 8 3 14 21.4 1 3 33.3 1 1 100.0 1 0 1 11 3 0 3 0 -4
+p108
+aVBobby Jackson MIN 04/02/2000 MIN vs. PHX L 13 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 3 3 0 0 1 3
+p109
+aVJoe Smith MIN 03/31/2000 MIN @ IND L 23 8 2 9 22.2 0 0 - 4 4 100.0 3 6 9 0 0 0 1 2 -8
+p110
+aVDean Garrett MIN 03/31/2000 MIN @ IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p111
+aVTom Hammonds MIN 03/31/2000 MIN @ IND L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -1
+p112
+aVBobby Jackson MIN 03/31/2000 MIN @ IND L 20 1 0 9 0.0 0 1 0.0 1 2 50.0 1 1 2 3 0 0 0 2 -11
+p113
+aVSam Mitchell MIN 03/31/2000 MIN @ IND L 20 7 3 7 42.9 0 2 0.0 1 1 100.0 0 1 1 0 2 0 0 2 -13
+p114
+aVAnthony Peeler MIN 03/31/2000 MIN @ IND L 26 11 5 8 62.5 0 0 - 1 2 50.0 2 3 5 2 0 0 2 2 -23
+p115
+aVWilliam Avery MIN 03/31/2000 MIN @ IND L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p116
+aVTerrell Brandon MIN 03/31/2000 MIN @ IND L 32 24 10 17 58.8 3 5 60.0 1 1 100.0 0 4 4 5 4 0 1 1 -19
+p117
+aVWally Szczerbiak MIN 03/31/2000 MIN @ IND L 33 12 5 9 55.6 0 0 - 2 3 66.7 3 3 6 2 0 0 2 0 -18
+p118
+aVMalik Sealy MIN 03/31/2000 MIN @ IND L 20 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 2 -5
+p119
+aVRasho Nesterovic MIN 03/31/2000 MIN @ IND L 13 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 1 1 1 1 2 -7
+p120
+aVKevin Garnett MIN 03/31/2000 MIN @ IND L 34 14 7 21 33.3 0 0 - 0 0 - 5 7 12 3 1 0 5 2 -13
+p121
+aVJoe Smith MIN 03/30/2000 MIN vs. HOU W 25 8 4 7 57.1 0 0 - 0 2 0.0 1 9 10 1 1 1 0 4 18
+p122
+aVKevin Garnett MIN 03/30/2000 MIN vs. HOU W 36 25 10 20 50.0 0 0 - 5 6 83.3 1 8 9 4 2 0 1 1 31
+p123
+aVDean Garrett MIN 03/30/2000 MIN vs. HOU W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 4 2
+p124
+aVAnthony Peeler MIN 03/30/2000 MIN vs. HOU W 26 15 6 8 75.0 2 3 66.7 1 2 50.0 0 1 1 6 1 0 1 3 13
+p125
+aVWilliam Avery MIN 03/30/2000 MIN vs. HOU W 6 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 5
+p126
+aVTerrell Brandon MIN 03/30/2000 MIN vs. HOU W 31 21 9 14 64.3 1 2 50.0 2 2 100.0 1 2 3 13 2 0 3 1 16
+p127
+aVSam Mitchell MIN 03/30/2000 MIN vs. HOU W 18 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 0 0 0 0 2 8
+p128
+aVMalik Sealy MIN 03/30/2000 MIN vs. HOU W 23 14 6 8 75.0 0 1 0.0 2 2 100.0 0 4 4 5 4 0 2 4 19
+p129
+aVWally Szczerbiak MIN 03/30/2000 MIN vs. HOU W 32 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 4 0 0 2 2 15
+p130
+aVRasho Nesterovic MIN 03/30/2000 MIN vs. HOU W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 8
+p131
+aVTom Hammonds MIN 03/30/2000 MIN vs. HOU W 8 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 2 9
+p132
+aVBobby Jackson MIN 03/30/2000 MIN vs. HOU W 17 14 5 8 62.5 2 3 66.7 2 2 100.0 0 2 2 2 1 0 0 5 16
+p133
+aVWally Szczerbiak MIN 03/28/2000 MIN vs. PHI L 36 12 5 9 55.6 0 0 - 2 2 100.0 2 2 4 4 2 1 0 2 -10
+p134
+aVBobby Jackson MIN 03/28/2000 MIN vs. PHI L 19 12 5 8 62.5 2 2 100.0 0 0 - 0 1 1 1 2 1 0 1 4
+p135
+aVKevin Garnett MIN 03/28/2000 MIN vs. PHI L 43 31 11 23 47.8 0 1 0.0 9 12 75.0 1 8 9 3 2 1 2 4 8
+p136
+aVDean Garrett MIN 03/28/2000 MIN vs. PHI L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 2 1 0 -2
+p137
+aVRasho Nesterovic MIN 03/28/2000 MIN vs. PHI L 3 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 -6
+p138
+aVTom Hammonds MIN 03/28/2000 MIN vs. PHI L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -3
+p139
+aVMalik Sealy MIN 03/28/2000 MIN vs. PHI L 26 6 2 9 22.2 0 0 - 2 2 100.0 1 1 2 1 1 0 1 4 -1
+p140
+aVSam Mitchell MIN 03/28/2000 MIN vs. PHI L 6 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 5
+p141
+aVJoe Smith MIN 03/28/2000 MIN vs. PHI L 29 9 4 9 44.4 0 0 - 1 1 100.0 6 6 12 2 0 1 0 4 -1
+p142
+aVAnthony Peeler MIN 03/28/2000 MIN vs. PHI L 22 10 4 7 57.1 2 3 66.7 0 0 - 1 2 3 3 0 0 4 4 3
+p143
+aVTerrell Brandon MIN 03/28/2000 MIN vs. PHI L 35 14 6 16 37.5 1 2 50.0 1 2 50.0 1 2 3 12 3 0 3 0 -7
+p144
+aVJoe Smith MIN 03/26/2000 MIN vs. TOR W 35 12 3 10 30.0 0 0 - 6 8 75.0 3 5 8 2 2 2 3 4 5
+p145
+aVRasho Nesterovic MIN 03/26/2000 MIN vs. TOR W 8 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 1 0 1 -3
+p146
+aVMalik Sealy MIN 03/26/2000 MIN vs. TOR W 34 7 2 11 18.2 0 1 0.0 3 4 75.0 2 3 5 7 2 0 3 4 14
+p147
+aVSam Mitchell MIN 03/26/2000 MIN vs. TOR W 10 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p148
+aVBobby Jackson MIN 03/26/2000 MIN vs. TOR W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -7
+p149
+aVWally Szczerbiak MIN 03/26/2000 MIN vs. TOR W 30 4 2 6 33.3 0 2 0.0 0 0 - 0 5 5 2 0 0 1 6 -11
+p150
+aVTerrell Brandon MIN 03/26/2000 MIN vs. TOR W 45 23 8 16 50.0 0 0 - 7 8 87.5 1 5 6 11 4 1 5 3 12
+p151
+aVAnthony Peeler MIN 03/26/2000 MIN vs. TOR W 35 15 6 11 54.5 1 5 20.0 2 2 100.0 1 5 6 1 0 0 1 2 2
+p152
+aVDean Garrett MIN 03/26/2000 MIN vs. TOR W 14 4 2 3 66.7 0 0 - 0 0 - 4 2 6 1 0 1 1 3 2
+p153
+aVKevin Garnett MIN 03/26/2000 MIN vs. TOR W 46 34 14 21 66.7 0 0 - 6 8 75.0 0 10 10 2 1 1 4 3 11
+p154
+aVDean Garrett MIN 03/24/2000 MIN @ NJN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 5
+p155
+aVRasho Nesterovic MIN 03/24/2000 MIN @ NJN W 14 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 1 2 0 2 8
+p156
+aVTerrell Brandon MIN 03/24/2000 MIN @ NJN W 45 14 6 17 35.3 0 1 0.0 2 2 100.0 1 5 6 9 8 0 5 3 1
+p157
+aVBobby Jackson MIN 03/24/2000 MIN @ NJN W 8 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 5 0
+p158
+aVSam Mitchell MIN 03/24/2000 MIN @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p159
+aVAnthony Peeler MIN 03/24/2000 MIN @ NJN W 29 12 5 12 41.7 1 4 25.0 1 2 50.0 1 2 3 4 1 0 1 3 -6
+p160
+aVKevin Garnett MIN 03/24/2000 MIN @ NJN W 45 38 15 24 62.5 0 0 - 8 9 88.9 1 7 8 4 2 6 3 5 -1
+p161
+aVJoe Smith MIN 03/24/2000 MIN @ NJN W 30 17 6 8 75.0 0 0 - 5 7 71.4 2 1 3 0 0 2 4 2 -8
+p162
+aVMalik Sealy MIN 03/24/2000 MIN @ NJN W 39 17 5 11 45.5 0 1 0.0 7 8 87.5 5 3 8 4 3 0 2 4 2
+p163
+aVWally Szczerbiak MIN 03/24/2000 MIN @ NJN W 47 12 5 10 50.0 0 1 0.0 2 2 100.0 3 5 8 8 2 1 2 2 6
+p164
+aVAnthony Peeler MIN 03/22/2000 MIN @ BOS W 28 16 7 13 53.8 1 3 33.3 1 2 50.0 2 4 6 1 2 0 0 0 3
+p165
+aVDean Garrett MIN 03/22/2000 MIN @ BOS W 14 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 4
+p166
+aVKevin Garnett MIN 03/22/2000 MIN @ BOS W 43 40 16 23 69.6 0 1 0.0 8 10 80.0 2 6 8 3 0 1 6 4 12
+p167
+aVBobby Jackson MIN 03/22/2000 MIN @ BOS W 15 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -2
+p168
+aVSam Mitchell MIN 03/22/2000 MIN @ BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p169
+aVTom Hammonds MIN 03/22/2000 MIN @ BOS W 7 4 1 2 50.0 0 0 - 2 2 100.0 3 0 3 0 0 0 0 3 -3
+p170
+aVTerrell Brandon MIN 03/22/2000 MIN @ BOS W 33 9 4 13 30.8 1 1 100.0 0 0 - 0 2 2 9 3 0 7 4 5
+p171
+aVJoe Smith MIN 03/22/2000 MIN @ BOS W 26 6 1 7 14.3 0 0 - 4 4 100.0 1 6 7 1 1 1 0 4 0
+p172
+aVMalik Sealy MIN 03/22/2000 MIN @ BOS W 39 24 5 10 50.0 1 1 100.0 13 13 100.0 3 5 8 4 3 0 2 1 1
+p173
+aVWally Szczerbiak MIN 03/22/2000 MIN @ BOS W 25 2 1 5 20.0 0 0 - 0 0 - 1 3 4 4 2 0 2 3 5
+p174
+aVRasho Nesterovic MIN 03/22/2000 MIN @ BOS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p175
+aVRasho Nesterovic MIN 03/21/2000 MIN vs. CLE W 9 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 3
+p176
+aVKevin Garnett MIN 03/21/2000 MIN vs. CLE W 46 29 12 16 75.0 0 0 - 5 5 100.0 6 8 14 3 2 0 4 3 2
+p177
+aVTom Hammonds MIN 03/21/2000 MIN vs. CLE W 4 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -3
+p178
+aVWally Szczerbiak MIN 03/21/2000 MIN vs. CLE W 48 16 4 9 44.4 0 2 0.0 8 9 88.9 1 6 7 2 1 0 2 1 8
+p179
+aVTerrell Brandon MIN 03/21/2000 MIN vs. CLE W 45 24 9 20 45.0 1 3 33.3 5 5 100.0 1 2 3 16 2 0 2 1 6
+p180
+aVJoe Smith MIN 03/21/2000 MIN vs. CLE W 32 12 5 9 55.6 0 0 - 2 2 100.0 3 5 8 0 0 2 2 3 7
+p181
+aVMalik Sealy MIN 03/21/2000 MIN vs. CLE W 36 12 5 13 38.5 0 1 0.0 2 2 100.0 2 0 2 1 2 0 2 3 5
+p182
+aVBobby Jackson MIN 03/21/2000 MIN vs. CLE W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -6
+p183
+aVAnthony Peeler MIN 03/21/2000 MIN vs. CLE W 23 8 3 8 37.5 0 3 0.0 2 3 66.7 1 3 4 2 1 0 1 1 -5
+p184
+aVSam Mitchell MIN 03/21/2000 MIN vs. CLE W 9 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 3
+p185
+aVDean Garrett MIN 03/21/2000 MIN vs. CLE W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -2
+p186
+aVWilliam Avery MIN 03/21/2000 MIN vs. CLE W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 2
+p187
+aVBobby Jackson MIN 03/19/2000 MIN vs. MIL W 12 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -9
+p188
+aVSam Mitchell MIN 03/19/2000 MIN vs. MIL W 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p189
+aVWilliam Avery MIN 03/19/2000 MIN vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p190
+aVTom Hammonds MIN 03/19/2000 MIN vs. MIL W 12 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 0 2 0 -8
+p191
+aVMalik Sealy MIN 03/19/2000 MIN vs. MIL W 30 10 5 9 55.6 0 0 - 0 0 - 2 3 5 4 2 0 1 0 33
+p192
+aVTerrell Brandon MIN 03/19/2000 MIN vs. MIL W 36 28 11 13 84.6 2 2 100.0 4 4 100.0 1 2 3 13 4 0 1 2 40
+p193
+aVWally Szczerbiak MIN 03/19/2000 MIN vs. MIL W 39 27 11 15 73.3 5 6 83.3 0 0 - 1 5 6 7 2 0 2 3 31
+p194
+aVKevin Garnett MIN 03/19/2000 MIN vs. MIL W 32 17 7 12 58.3 0 1 0.0 3 4 75.0 0 8 8 5 1 1 2 1 37
+p195
+aVJoe Smith MIN 03/19/2000 MIN vs. MIL W 27 6 3 10 30.0 0 0 - 0 2 0.0 2 5 7 4 0 1 1 5 1
+p196
+aVRasho Nesterovic MIN 03/19/2000 MIN vs. MIL W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 1 2 5 14
+p197
+aVDean Garrett MIN 03/19/2000 MIN vs. MIL W 7 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 6
+p198
+aVAnthony Peeler MIN 03/19/2000 MIN vs. MIL W 20 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 1 1 0 0 2 -6
+p199
+aVAnthony Peeler MIN 03/16/2000 MIN @ POR W 22 10 5 11 45.5 0 1 0.0 0 0 - 0 1 1 1 1 1 0 0 -1
+p200
+aVJoe Smith MIN 03/16/2000 MIN @ POR W 29 16 5 9 55.6 0 0 - 6 6 100.0 0 1 1 3 0 0 0 4 -3
+p201
+aVMalik Sealy MIN 03/16/2000 MIN @ POR W 30 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 1 0 1 1 3
+p202
+aVKevin Garnett MIN 03/16/2000 MIN @ POR W 44 17 8 17 47.1 0 0 - 1 4 25.0 2 10 12 8 2 0 4 1 6
+p203
+aVBobby Jackson MIN 03/16/2000 MIN @ POR W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -6
+p204
+aVWally Szczerbiak MIN 03/16/2000 MIN @ POR W 36 16 6 9 66.7 2 4 50.0 2 4 50.0 1 5 6 3 2 0 0 6 8
+p205
+aVDean Garrett MIN 03/16/2000 MIN @ POR W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -4
+p206
+aVRasho Nesterovic MIN 03/16/2000 MIN @ POR W 24 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 2 0 1 1 2 7
+p207
+aVTerrell Brandon MIN 03/16/2000 MIN @ POR W 40 25 11 20 55.0 0 2 0.0 3 3 100.0 0 2 2 6 3 0 1 2 10
+p208
+aVJoe Smith MIN 03/14/2000 MIN @ PHX L 28 12 6 10 60.0 0 0 - 0 2 0.0 1 1 2 1 0 2 4 6 -13
+p209
+aVMalik Sealy MIN 03/14/2000 MIN @ PHX L 34 13 5 9 55.6 0 1 0.0 3 3 100.0 1 4 5 3 0 0 2 5 -8
+p210
+aVAnthony Peeler MIN 03/14/2000 MIN @ PHX L 25 11 4 7 57.1 0 0 - 3 3 100.0 0 3 3 1 0 0 2 6 -2
+p211
+aVDean Garrett MIN 03/14/2000 MIN @ PHX L 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 2
+p212
+aVKevin Garnett MIN 03/14/2000 MIN @ PHX L 41 17 6 16 37.5 1 1 100.0 4 5 80.0 1 10 11 5 2 0 3 3 -9
+p213
+aVWally Szczerbiak MIN 03/14/2000 MIN @ PHX L 37 13 6 13 46.2 1 2 50.0 0 0 - 1 3 4 4 0 0 4 6 -7
+p214
+aVBobby Jackson MIN 03/14/2000 MIN @ PHX L 11 5 1 3 33.3 0 0 - 3 4 75.0 0 2 2 0 3 0 1 0 6
+p215
+aVTom Hammonds MIN 03/14/2000 MIN @ PHX L 2 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p216
+aVTerrell Brandon MIN 03/14/2000 MIN @ PHX L 38 18 8 15 53.3 1 2 50.0 1 2 50.0 2 1 3 9 3 0 4 3 -15
+p217
+aVWilliam Avery MIN 03/14/2000 MIN @ PHX L 0 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 1
+p218
+aVRasho Nesterovic MIN 03/14/2000 MIN @ PHX L 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 2 0 2 0 2 7
+p219
+aVRasho Nesterovic MIN 03/11/2000 MIN @ HOU W 21 7 3 9 33.3 0 0 - 1 2 50.0 4 1 5 2 0 3 0 3 5
+p220
+aVMalik Sealy MIN 03/11/2000 MIN @ HOU W 29 10 4 6 66.7 0 0 - 2 2 100.0 1 4 5 2 0 0 0 2 6
+p221
+aVWally Szczerbiak MIN 03/11/2000 MIN @ HOU W 37 19 7 13 53.8 0 0 - 5 5 100.0 2 2 4 2 0 0 2 4 14
+p222
+aVTom Hammonds MIN 03/11/2000 MIN @ HOU W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 2 2
+p223
+aVAnthony Peeler MIN 03/11/2000 MIN @ HOU W 28 11 5 9 55.6 1 4 25.0 0 0 - 0 1 1 4 0 0 1 3 12
+p224
+aVDean Garrett MIN 03/11/2000 MIN @ HOU W 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 8
+p225
+aVTerrell Brandon MIN 03/11/2000 MIN @ HOU W 39 24 10 19 52.6 2 2 100.0 2 2 100.0 0 3 3 9 2 0 1 2 1
+p226
+aVBobby Jackson MIN 03/11/2000 MIN @ HOU W 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 1 0 0 0 9
+p227
+aVJoe Smith MIN 03/11/2000 MIN @ HOU W 21 4 2 7 28.6 0 0 - 0 0 - 2 2 4 2 1 2 0 5 12
+p228
+aVKevin Garnett MIN 03/11/2000 MIN @ HOU W 35 17 7 16 43.8 0 0 - 3 3 100.0 2 13 15 7 0 0 1 1 1
+p229
+aVWilliam Avery MIN 03/09/2000 MIN @ DAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p230
+aVMalik Sealy MIN 03/09/2000 MIN @ DAL W 29 6 3 10 30.0 0 1 0.0 0 1 0.0 0 4 4 0 2 2 3 2 8
+p231
+aVWally Szczerbiak MIN 03/09/2000 MIN @ DAL W 44 16 6 11 54.5 1 2 50.0 3 3 100.0 3 5 8 6 0 0 3 4 18
+p232
+aVTom Hammonds MIN 03/09/2000 MIN @ DAL W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p233
+aVBobby Jackson MIN 03/09/2000 MIN @ DAL W 15 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 3 0 1 2 0 7
+p234
+aVRasho Nesterovic MIN 03/09/2000 MIN @ DAL W 24 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 1 0 4 10
+p235
+aVTerrell Brandon MIN 03/09/2000 MIN @ DAL W 33 17 7 15 46.7 1 3 33.3 2 2 100.0 1 1 2 6 1 1 1 1 14
+p236
+aVJoe Smith MIN 03/09/2000 MIN @ DAL W 25 14 6 10 60.0 0 0 - 2 2 100.0 2 3 5 0 2 2 1 5 5
+p237
+aVAnthony Peeler MIN 03/09/2000 MIN @ DAL W 28 13 5 12 41.7 3 6 50.0 0 0 - 1 5 6 4 2 0 1 2 15
+p238
+aVKevin Garnett MIN 03/09/2000 MIN @ DAL W 42 22 11 18 61.1 0 0 - 0 0 - 4 9 13 4 2 2 2 3 26
+p239
+aVAnthony Peeler MIN 03/07/2000 MIN vs. WAS L 23 10 4 11 36.4 2 5 40.0 0 0 - 1 5 6 2 1 1 1 3 -5
+p240
+aVWally Szczerbiak MIN 03/07/2000 MIN vs. WAS L 40 26 10 14 71.4 1 2 50.0 5 5 100.0 0 4 4 1 3 1 2 3 -3
+p241
+aVTom Hammonds MIN 03/07/2000 MIN vs. WAS L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p242
+aVKevin Garnett MIN 03/07/2000 MIN vs. WAS L 41 26 9 19 47.4 0 0 - 8 12 66.7 4 9 13 6 1 1 1 3 1
+p243
+aVRasho Nesterovic MIN 03/07/2000 MIN vs. WAS L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -3
+p244
+aVJoe Smith MIN 03/07/2000 MIN vs. WAS L 24 8 3 8 37.5 0 0 - 2 2 100.0 1 3 4 2 0 1 3 6 6
+p245
+aVWilliam Avery MIN 03/07/2000 MIN vs. WAS L 9 0 0 6 0.0 0 2 0.0 0 0 - 1 0 1 1 0 1 0 1 -6
+p246
+aVDean Garrett MIN 03/07/2000 MIN vs. WAS L 24 2 1 6 16.7 0 0 - 0 0 - 2 1 3 0 0 3 1 0 -4
+p247
+aVTerrell Brandon MIN 03/07/2000 MIN vs. WAS L 39 6 3 9 33.3 0 1 0.0 0 0 - 1 2 3 11 0 0 4 2 2
+p248
+aVMalik Sealy MIN 03/07/2000 MIN vs. WAS L 33 8 4 10 40.0 0 0 - 0 0 - 3 3 6 3 1 0 2 3 -1
+p249
+aVDean Garrett MIN 03/05/2000 MIN vs. SEA W 26 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 1 5 2 3 8
+p250
+aVRasho Nesterovic MIN 03/05/2000 MIN vs. SEA W 8 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -4
+p251
+aVWally Szczerbiak MIN 03/05/2000 MIN vs. SEA W 39 11 3 8 37.5 0 1 0.0 5 6 83.3 0 1 1 3 1 1 0 4 9
+p252
+aVBobby Jackson MIN 03/05/2000 MIN vs. SEA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p253
+aVKevin Garnett MIN 03/05/2000 MIN vs. SEA W 41 21 10 21 47.6 0 2 0.0 1 2 50.0 2 11 13 7 0 1 2 2 11
+p254
+aVWilliam Avery MIN 03/05/2000 MIN vs. SEA W 12 9 4 6 66.7 1 1 100.0 0 1 0.0 0 0 0 1 0 0 2 1 -2
+p255
+aVJoe Smith MIN 03/05/2000 MIN vs. SEA W 31 14 4 6 66.7 0 0 - 6 6 100.0 2 5 7 1 1 0 3 3 -1
+p256
+aVTerrell Brandon MIN 03/05/2000 MIN vs. SEA W 41 20 9 14 64.3 2 3 66.7 0 0 - 0 4 4 11 1 1 1 5 7
+p257
+aVAnthony Peeler MIN 03/05/2000 MIN vs. SEA W 20 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 -14
+p258
+aVMalik Sealy MIN 03/05/2000 MIN vs. SEA W 46 18 7 11 63.6 0 0 - 4 4 100.0 0 7 7 5 0 0 5 4 15
+p259
+aVJoe Smith MIN 03/04/2000 MIN @ MIL W 34 7 2 9 22.2 0 0 - 3 3 100.0 5 8 13 2 2 0 4 2 5
+p260
+aVWally Szczerbiak MIN 03/04/2000 MIN @ MIL W 41 19 7 10 70.0 1 2 50.0 4 4 100.0 2 2 4 5 0 1 4 5 11
+p261
+aVWilliam Avery MIN 03/04/2000 MIN @ MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -3
+p262
+aVBobby Jackson MIN 03/04/2000 MIN @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p263
+aVDean Garrett MIN 03/04/2000 MIN @ MIL W 22 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 3 13
+p264
+aVRasho Nesterovic MIN 03/04/2000 MIN @ MIL W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 2 0 0 -2
+p265
+aVTerrell Brandon MIN 03/04/2000 MIN @ MIL W 39 22 8 16 50.0 1 5 20.0 5 5 100.0 4 3 7 5 3 0 5 3 9
+p266
+aVKevin Garnett MIN 03/04/2000 MIN @ MIL W 36 21 8 18 44.4 1 1 100.0 4 4 100.0 2 8 10 2 2 0 0 1 -3
+p267
+aVAnthony Peeler MIN 03/04/2000 MIN @ MIL W 18 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -6
+p268
+aVMalik Sealy MIN 03/04/2000 MIN @ MIL W 35 8 3 8 37.5 0 0 - 2 2 100.0 0 5 5 7 1 0 1 2 10
+p269
+aVRasho Nesterovic MIN 03/02/2000 MIN @ SAS W 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 4 0
+p270
+aVTerrell Brandon MIN 03/02/2000 MIN @ SAS W 38 15 5 12 41.7 0 1 0.0 5 6 83.3 2 6 8 6 2 0 2 2 10
+p271
+aVTom Hammonds MIN 03/02/2000 MIN @ SAS W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p272
+aVMalik Sealy MIN 03/02/2000 MIN @ SAS W 38 20 9 13 69.2 0 1 0.0 2 2 100.0 2 2 4 8 0 0 0 3 11
+p273
+aVDean Garrett MIN 03/02/2000 MIN @ SAS W 17 6 3 7 42.9 0 0 - 0 0 - 0 3 3 0 0 2 0 6 -3
+p274
+aVWilliam Avery MIN 03/02/2000 MIN @ SAS W 10 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 3 -4
+p275
+aVAnthony Peeler MIN 03/02/2000 MIN @ SAS W 23 15 6 9 66.7 3 4 75.0 0 0 - 0 3 3 1 0 0 0 2 -8
+p276
+aVWally Szczerbiak MIN 03/02/2000 MIN @ SAS W 36 8 4 9 44.4 0 0 - 0 1 0.0 0 3 3 7 2 1 0 2 9
+p277
+aVJoe Smith MIN 03/02/2000 MIN @ SAS W 20 12 4 9 44.4 0 0 - 4 4 100.0 4 1 5 1 1 0 1 5 7
+p278
+aVKevin Garnett MIN 03/02/2000 MIN @ SAS W 41 23 10 18 55.6 1 1 100.0 2 4 50.0 5 8 13 6 1 3 3 2 13
+p279
+aVWally Szczerbiak MIN 02/29/2000 MIN vs. CHH L 36 17 7 10 70.0 0 0 - 3 3 100.0 2 3 5 1 1 0 1 1 1
+p280
+aVJoe Smith MIN 02/29/2000 MIN vs. CHH L 23 4 1 6 16.7 0 0 - 2 4 50.0 0 6 6 0 0 0 1 4 -10
+p281
+aVMalik Sealy MIN 02/29/2000 MIN vs. CHH L 32 10 5 10 50.0 0 0 - 0 0 - 4 0 4 4 1 0 4 4 -6
+p282
+aVKevin Garnett MIN 02/29/2000 MIN vs. CHH L 45 21 10 22 45.5 0 2 0.0 1 2 50.0 1 8 9 6 0 4 2 3 0
+p283
+aVWilliam Avery MIN 02/29/2000 MIN vs. CHH L 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 5 0 0 1 1 0
+p284
+aVDean Garrett MIN 02/29/2000 MIN vs. CHH L 14 0 0 3 0.0 0 0 - 0 0 - 2 5 7 2 0 2 0 0 2
+p285
+aVRasho Nesterovic MIN 02/29/2000 MIN vs. CHH L 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 1 1 4 -1
+p286
+aVBobby Jackson MIN 02/29/2000 MIN vs. CHH L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p287
+aVAnthony Peeler MIN 02/29/2000 MIN vs. CHH L 25 15 6 10 60.0 1 4 25.0 2 4 50.0 2 2 4 1 1 0 2 3 -6
+p288
+aVTerrell Brandon MIN 02/29/2000 MIN vs. CHH L 36 12 6 12 50.0 0 1 0.0 0 1 0.0 0 3 3 8 1 1 2 5 -5
+p289
+aVBobby Jackson MIN 02/27/2000 MIN vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p290
+aVRasho Nesterovic MIN 02/27/2000 MIN vs. SAS W 22 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 6 1
+p291
+aVTom Hammonds MIN 02/27/2000 MIN vs. SAS W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p292
+aVWilliam Avery MIN 02/27/2000 MIN vs. SAS W 14 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 3 0 0 0 0 -6
+p293
+aVDean Garrett MIN 02/27/2000 MIN vs. SAS W 16 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 1 1 0 2 7
+p294
+aVKevin Garnett MIN 02/27/2000 MIN vs. SAS W 42 29 13 23 56.5 0 0 - 3 4 75.0 8 8 16 6 1 1 6 3 3
+p295
+aVMalik Sealy MIN 02/27/2000 MIN vs. SAS W 37 13 4 12 33.3 0 0 - 5 6 83.3 1 3 4 1 2 0 3 2 7
+p296
+aVJoe Smith MIN 02/27/2000 MIN vs. SAS W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 1 1 5 -7
+p297
+aVWally Szczerbiak MIN 02/27/2000 MIN vs. SAS W 35 14 6 10 60.0 0 0 - 2 2 100.0 0 1 1 4 0 0 1 3 4
+p298
+aVAnthony Peeler MIN 02/27/2000 MIN vs. SAS W 24 8 3 8 37.5 2 4 50.0 0 0 - 0 3 3 1 1 1 2 0 -1
+p299
+aVTerrell Brandon MIN 02/27/2000 MIN vs. SAS W 34 20 9 11 81.8 0 0 - 2 2 100.0 1 3 4 7 2 1 4 5 10
+p300
+aVKevin Garnett MIN 02/25/2000 MIN @ TOR W 38 28 11 17 64.7 0 2 0.0 6 6 100.0 1 11 12 8 0 1 2 1 25
+p301
+aVJoe Smith MIN 02/25/2000 MIN @ TOR W 33 16 6 11 54.5 0 0 - 4 4 100.0 1 2 3 1 0 2 3 6 15
+p302
+aVDean Garrett MIN 02/25/2000 MIN @ TOR W 7 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 0
+p303
+aVAnthony Peeler MIN 02/25/2000 MIN @ TOR W 25 11 3 10 30.0 3 7 42.9 2 2 100.0 3 1 4 2 1 0 1 3 5
+p304
+aVRasho Nesterovic MIN 02/25/2000 MIN @ TOR W 13 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 1 1 0 0 3 8
+p305
+aVTerrell Brandon MIN 02/25/2000 MIN @ TOR W 36 18 7 12 58.3 2 4 50.0 2 2 100.0 0 4 4 8 2 1 4 1 21
+p306
+aVTom Hammonds MIN 02/25/2000 MIN @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p307
+aVMalik Sealy MIN 02/25/2000 MIN @ TOR W 43 18 9 14 64.3 0 0 - 0 0 - 0 4 4 3 1 1 0 2 21
+p308
+aVWally Szczerbiak MIN 02/25/2000 MIN @ TOR W 30 7 3 9 33.3 0 2 0.0 1 2 50.0 2 5 7 3 0 0 3 4 14
+p309
+aVWilliam Avery MIN 02/25/2000 MIN @ TOR W 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 1
+p310
+aVBobby Jackson MIN 02/25/2000 MIN @ TOR W 1 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p311
+aVWilliam Avery MIN 02/24/2000 MIN vs. LAC W 19 8 3 8 37.5 0 1 0.0 2 2 100.0 0 1 1 5 2 0 0 3 9
+p312
+aVWally Szczerbiak MIN 02/24/2000 MIN vs. LAC W 38 16 8 15 53.3 0 0 - 0 0 - 3 5 8 5 0 0 2 2 19
+p313
+aVAnthony Peeler MIN 02/24/2000 MIN vs. LAC W 22 12 5 9 55.6 2 4 50.0 0 0 - 0 3 3 3 0 1 3 0 16
+p314
+aVDean Garrett MIN 02/24/2000 MIN vs. LAC W 25 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 0 0 0 3 4
+p315
+aVTom Hammonds MIN 02/24/2000 MIN vs. LAC W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p316
+aVTerrell Brandon MIN 02/24/2000 MIN vs. LAC W 29 15 7 13 53.8 1 3 33.3 0 1 0.0 3 1 4 8 1 1 2 1 13
+p317
+aVJoe Smith MIN 02/24/2000 MIN vs. LAC W 22 18 7 13 53.8 1 1 100.0 3 3 100.0 5 3 8 5 1 2 1 2 18
+p318
+aVMalik Sealy MIN 02/24/2000 MIN vs. LAC W 29 7 3 9 33.3 0 0 - 1 2 50.0 0 5 5 5 0 0 1 1 17
+p319
+aVRasho Nesterovic MIN 02/24/2000 MIN vs. LAC W 18 10 4 4 100.0 0 0 - 2 3 66.7 0 4 4 0 0 1 0 1 15
+p320
+aVBobby Jackson MIN 02/24/2000 MIN vs. LAC W 7 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 1
+p321
+aVKevin Garnett MIN 02/24/2000 MIN vs. LAC W 24 16 7 8 87.5 0 0 - 2 2 100.0 3 5 8 7 1 0 0 3 15
+p322
+aVWilliam Avery MIN 02/22/2000 MIN vs. GSW W 16 3 0 2 0.0 0 1 0.0 3 4 75.0 0 0 0 8 0 0 1 1 -1
+p323
+aVRasho Nesterovic MIN 02/22/2000 MIN vs. GSW W 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 2 3 3 -2
+p324
+aVKevin Garnett MIN 02/22/2000 MIN vs. GSW W 40 18 6 9 66.7 0 1 0.0 6 8 75.0 2 12 14 6 1 1 4 2 9
+p325
+aVMalik Sealy MIN 02/22/2000 MIN vs. GSW W 31 8 3 10 30.0 0 0 - 2 2 100.0 0 3 3 2 1 0 0 2 14
+p326
+aVAnthony Peeler MIN 02/22/2000 MIN vs. GSW W 23 11 3 10 30.0 1 3 33.3 4 5 80.0 2 1 3 1 1 0 1 4 7
+p327
+aVJoe Smith MIN 02/22/2000 MIN vs. GSW W 18 16 7 11 63.6 0 0 - 2 3 66.7 3 4 7 2 0 2 0 5 13
+p328
+aVTom Hammonds MIN 02/22/2000 MIN vs. GSW W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p329
+aVBobby Jackson MIN 02/22/2000 MIN vs. GSW W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p330
+aVDean Garrett MIN 02/22/2000 MIN vs. GSW W 23 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 0 2 1 1 2 16
+p331
+aVTerrell Brandon MIN 02/22/2000 MIN vs. GSW W 29 21 8 10 80.0 1 2 50.0 4 6 66.7 0 5 5 4 1 0 5 2 17
+p332
+aVWally Szczerbiak MIN 02/22/2000 MIN vs. GSW W 40 21 9 14 64.3 1 1 100.0 2 4 50.0 3 6 9 10 1 1 1 5 28
+p333
+aVJoe Smith MIN 02/20/2000 MIN vs. NJN L 26 12 4 10 40.0 0 0 - 4 4 100.0 6 2 8 0 0 0 2 4 2
+p334
+aVMalik Sealy MIN 02/20/2000 MIN vs. NJN L 36 16 7 11 63.6 0 1 0.0 2 3 66.7 4 1 5 3 2 0 1 1 3
+p335
+aVTerrell Brandon MIN 02/20/2000 MIN vs. NJN L 24 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 5 0 0 2 6 -9
+p336
+aVWally Szczerbiak MIN 02/20/2000 MIN vs. NJN L 40 14 6 9 66.7 2 3 66.7 0 0 - 2 5 7 2 1 1 0 2 -9
+p337
+aVAnthony Peeler MIN 02/20/2000 MIN vs. NJN L 28 6 2 9 22.2 2 8 25.0 0 0 - 3 2 5 1 0 0 1 2 5
+p338
+aVTom Hammonds MIN 02/20/2000 MIN vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p339
+aVBobby Jackson MIN 02/20/2000 MIN vs. NJN L 22 2 1 6 16.7 0 0 - 0 0 - 0 3 3 7 0 0 3 5 9
+p340
+aVKevin Garnett MIN 02/20/2000 MIN vs. NJN L 46 27 9 33 27.3 1 2 50.0 8 12 66.7 4 14 18 6 1 3 3 1 1
+p341
+aVRasho Nesterovic MIN 02/20/2000 MIN vs. NJN L 15 6 3 7 42.9 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -9
+p342
+aVDean Garrett MIN 02/18/2000 MIN vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p343
+aVKevin Garnett MIN 02/18/2000 MIN vs. VAN W 41 17 7 18 38.9 0 0 - 3 5 60.0 2 8 10 9 1 0 3 1 8
+p344
+aVRasho Nesterovic MIN 02/18/2000 MIN vs. VAN W 20 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 1 1 4 -2
+p345
+aVTom Hammonds MIN 02/18/2000 MIN vs. VAN W 13 4 2 2 100.0 0 0 - 0 0 - 0 6 6 1 0 0 1 2 -4
+p346
+aVWilliam Avery MIN 02/18/2000 MIN vs. VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p347
+aVSam Mitchell MIN 02/18/2000 MIN vs. VAN W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p348
+aVMalik Sealy MIN 02/18/2000 MIN vs. VAN W 37 18 7 11 63.6 1 1 100.0 3 3 100.0 3 0 3 6 3 1 2 1 20
+p349
+aVJoe Smith MIN 02/18/2000 MIN vs. VAN W 22 12 5 9 55.6 0 0 - 2 2 100.0 0 3 3 1 2 1 3 5 22
+p350
+aVBobby Jackson MIN 02/18/2000 MIN vs. VAN W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -3
+p351
+aVWally Szczerbiak MIN 02/18/2000 MIN vs. VAN W 26 14 4 9 44.4 0 3 0.0 6 6 100.0 0 1 1 1 1 1 1 4 -6
+p352
+aVAnthony Peeler MIN 02/18/2000 MIN vs. VAN W 27 11 5 8 62.5 1 2 50.0 0 0 - 0 3 3 4 1 0 0 2 20
+p353
+aVTerrell Brandon MIN 02/18/2000 MIN vs. VAN W 42 21 7 12 58.3 2 3 66.7 5 5 100.0 0 2 2 9 3 2 2 1 15
+p354
+aVWally Szczerbiak MIN 02/16/2000 MIN @ NYK L 12 6 3 5 60.0 0 0 - 0 0 - 2 1 3 1 0 0 3 2 -11
+p355
+aVMalik Sealy MIN 02/16/2000 MIN @ NYK L 27 12 6 13 46.2 0 1 0.0 0 0 - 3 3 6 0 0 0 0 1 -2
+p356
+aVKevin Garnett MIN 02/16/2000 MIN @ NYK L 40 23 5 17 29.4 0 3 0.0 13 16 81.3 4 9 13 3 1 1 7 4 3
+p357
+aVDean Garrett MIN 02/16/2000 MIN @ NYK L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 2 -17
+p358
+aVJoe Smith MIN 02/16/2000 MIN @ NYK L 27 5 2 5 40.0 0 0 - 1 4 25.0 4 0 4 1 2 1 2 4 6
+p359
+aVBobby Jackson MIN 02/16/2000 MIN @ NYK L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 -10
+p360
+aVSam Mitchell MIN 02/16/2000 MIN @ NYK L 33 13 5 9 55.6 0 0 - 3 3 100.0 0 2 2 1 0 1 2 5 -3
+p361
+aVAnthony Peeler MIN 02/16/2000 MIN @ NYK L 25 9 4 9 44.4 1 2 50.0 0 0 - 0 1 1 3 0 0 1 3 6
+p362
+aVTerrell Brandon MIN 02/16/2000 MIN @ NYK L 38 11 5 9 55.6 0 2 0.0 1 1 100.0 0 4 4 10 1 0 3 2 6
+p363
+aVTom Hammonds MIN 02/16/2000 MIN @ NYK L 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -6
+p364
+aVRasho Nesterovic MIN 02/16/2000 MIN @ NYK L 13 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 8
+p365
+aVKevin Garnett MIN 02/15/2000 MIN vs. DEN L 45 24 8 16 50.0 0 1 0.0 8 8 100.0 2 9 11 6 3 0 6 1 3
+p366
+aVWally Szczerbiak MIN 02/15/2000 MIN vs. DEN L 17 10 3 5 60.0 2 2 100.0 2 2 100.0 0 2 2 0 0 0 0 0 9
+p367
+aVTerrell Brandon MIN 02/15/2000 MIN vs. DEN L 42 12 6 15 40.0 0 2 0.0 0 0 - 1 4 5 12 1 1 3 2 -2
+p368
+aVAnthony Peeler MIN 02/15/2000 MIN vs. DEN L 28 8 3 9 33.3 2 4 50.0 0 0 - 0 1 1 2 2 0 1 0 -3
+p369
+aVSam Mitchell MIN 02/15/2000 MIN vs. DEN L 40 16 7 12 58.3 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 3 -6
+p370
+aVMalik Sealy MIN 02/15/2000 MIN vs. DEN L 25 12 4 5 80.0 0 0 - 4 4 100.0 2 3 5 2 1 0 2 1 -2
+p371
+aVJoe Smith MIN 02/15/2000 MIN vs. DEN L 26 12 4 10 40.0 0 0 - 4 4 100.0 0 2 2 0 0 2 1 5 -4
+p372
+aVTom Hammonds MIN 02/15/2000 MIN vs. DEN L 19 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 0 0 3 -6
+p373
+aVRasho Nesterovic MIN 02/15/2000 MIN vs. DEN L 10 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 0 1 1 2 -11
+p374
+aVBobby Jackson MIN 02/15/2000 MIN vs. DEN L 11 4 1 6 16.7 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 3 -3
+p375
+aVAnthony Peeler MIN 02/10/2000 MIN @ PHX L 23 6 3 8 37.5 0 0 - 0 0 - 1 2 3 3 0 0 1 1 1
+p376
+aVSam Mitchell MIN 02/10/2000 MIN @ PHX L 29 16 6 11 54.5 0 1 0.0 4 4 100.0 1 0 1 2 2 0 1 3 -18
+p377
+aVWally Szczerbiak MIN 02/10/2000 MIN @ PHX L 19 8 3 7 42.9 1 1 100.0 1 1 100.0 1 3 4 2 2 0 0 3 2
+p378
+aVMalik Sealy MIN 02/10/2000 MIN @ PHX L 25 11 4 7 57.1 0 0 - 3 3 100.0 2 1 3 5 1 0 1 1 -17
+p379
+aVTom Hammonds MIN 02/10/2000 MIN @ PHX L 14 6 2 5 40.0 0 0 - 2 3 66.7 3 2 5 1 3 0 1 1 10
+p380
+aVKevin Garnett MIN 02/10/2000 MIN @ PHX L 35 10 5 21 23.8 0 1 0.0 0 0 - 2 11 13 5 0 0 4 3 -17
+p381
+aVDean Garrett MIN 02/10/2000 MIN @ PHX L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p382
+aVBobby Jackson MIN 02/10/2000 MIN @ PHX L 26 0 0 6 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 3 -23
+p383
+aVWilliam Avery MIN 02/10/2000 MIN @ PHX L 22 9 3 11 27.3 2 6 33.3 1 2 50.0 0 3 3 2 2 0 3 2 7
+p384
+aVJoe Smith MIN 02/10/2000 MIN @ PHX L 19 6 3 5 60.0 0 0 - 0 0 - 4 4 8 0 0 0 0 3 -4
+p385
+aVRasho Nesterovic MIN 02/10/2000 MIN @ PHX L 24 9 4 6 66.7 0 0 - 1 2 50.0 2 2 4 1 1 1 0 3 -21
+p386
+aVBobby Jackson MIN 02/09/2000 MIN @ LAL L 27 5 2 8 25.0 0 1 0.0 1 2 50.0 0 1 1 6 3 0 0 1 -13
+p387
+aVSam Mitchell MIN 02/09/2000 MIN @ LAL L 21 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 1 2 1 1 2 -14
+p388
+aVDean Garrett MIN 02/09/2000 MIN @ LAL L 16 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 4 1 4 -19
+p389
+aVJoe Smith MIN 02/09/2000 MIN @ LAL L 12 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 1 0 1 2 -10
+p390
+aVWilliam Avery MIN 02/09/2000 MIN @ LAL L 16 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 2 0 0 3 4 -22
+p391
+aVTom Hammonds MIN 02/09/2000 MIN @ LAL L 20 12 4 9 44.4 0 0 - 4 8 50.0 2 0 2 1 1 0 1 1 -9
+p392
+aVMalik Sealy MIN 02/09/2000 MIN @ LAL L 36 8 3 11 27.3 1 3 33.3 1 1 100.0 1 3 4 1 1 0 1 4 -17
+p393
+aVKevin Garnett MIN 02/09/2000 MIN @ LAL L 35 29 10 20 50.0 1 2 50.0 8 10 80.0 2 4 6 3 1 2 1 4 -10
+p394
+aVAnthony Peeler MIN 02/09/2000 MIN @ LAL L 23 6 3 12 25.0 0 3 0.0 0 0 - 1 4 5 1 0 0 1 2 -16
+p395
+aVWally Szczerbiak MIN 02/09/2000 MIN @ LAL L 22 8 2 8 25.0 0 0 - 4 4 100.0 0 3 3 1 0 0 0 4 -21
+p396
+aVRasho Nesterovic MIN 02/09/2000 MIN @ LAL L 13 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 4 -14
+p397
+aVKevin Garnett MIN 02/05/2000 MIN @ DEN W 43 30 10 22 45.5 0 1 0.0 10 15 66.7 0 14 14 3 2 3 2 4 2
+p398
+aVTom Hammonds MIN 02/05/2000 MIN @ DEN W 6 0 0 1 0.0 0 0 - 0 0 - 2 4 6 0 0 0 1 1 4
+p399
+aVWally Szczerbiak MIN 02/05/2000 MIN @ DEN W 30 12 4 7 57.1 1 1 100.0 3 4 75.0 1 1 2 3 0 0 1 5 28
+p400
+aVWilliam Avery MIN 02/05/2000 MIN @ DEN W 16 10 2 6 33.3 1 3 33.3 5 5 100.0 0 1 1 1 0 1 1 3 4
+p401
+aVRasho Nesterovic MIN 02/05/2000 MIN @ DEN W 21 0 0 8 0.0 0 0 - 0 0 - 2 0 2 1 0 1 0 2 0
+p402
+aVAnthony Peeler MIN 02/05/2000 MIN @ DEN W 33 17 5 10 50.0 2 3 66.7 5 6 83.3 1 1 2 2 3 1 2 5 13
+p403
+aVMalik Sealy MIN 02/05/2000 MIN @ DEN W 22 8 1 6 16.7 0 0 - 6 8 75.0 1 4 5 1 1 1 1 2 -7
+p404
+aVSam Mitchell MIN 02/05/2000 MIN @ DEN W 25 6 3 7 42.9 0 0 - 0 0 - 1 4 5 2 0 0 0 1 -20
+p405
+aVBobby Jackson MIN 02/05/2000 MIN @ DEN W 37 20 7 14 50.0 0 2 0.0 6 7 85.7 1 1 2 5 3 0 0 3 4
+p406
+aVJoe Smith MIN 02/05/2000 MIN @ DEN W 31 2 0 7 0.0 0 0 - 2 4 50.0 4 5 9 2 1 4 0 4 12
+p407
+aVDean Garrett MIN 02/04/2000 MIN vs. HOU W 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 2 1 3 16
+p408
+aVBobby Jackson MIN 02/04/2000 MIN vs. HOU W 30 10 4 9 44.4 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 2 9
+p409
+aVTom Hammonds MIN 02/04/2000 MIN vs. HOU W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p410
+aVAnthony Peeler MIN 02/04/2000 MIN vs. HOU W 26 13 6 12 50.0 1 2 50.0 0 0 - 1 1 2 4 1 0 1 1 11
+p411
+aVMalik Sealy MIN 02/04/2000 MIN vs. HOU W 23 2 1 6 16.7 0 0 - 0 0 - 0 5 5 6 0 0 1 1 8
+p412
+aVKevin Garnett MIN 02/04/2000 MIN vs. HOU W 34 23 10 19 52.6 1 1 100.0 2 4 50.0 1 17 18 9 3 1 4 1 2
+p413
+aVJoe Smith MIN 02/04/2000 MIN vs. HOU W 19 10 3 4 75.0 0 0 - 4 4 100.0 1 3 4 1 0 2 2 3 6
+p414
+aVWally Szczerbiak MIN 02/04/2000 MIN vs. HOU W 16 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 -1
+p415
+aVWilliam Avery MIN 02/04/2000 MIN vs. HOU W 18 9 4 7 57.1 1 1 100.0 0 0 - 0 3 3 3 2 0 3 1 8
+p416
+aVSam Mitchell MIN 02/04/2000 MIN vs. HOU W 31 17 8 11 72.7 1 1 100.0 0 0 - 0 5 5 7 0 1 1 2 16
+p417
+aVRasho Nesterovic MIN 02/04/2000 MIN vs. HOU W 30 10 5 7 71.4 0 0 - 0 0 - 2 4 6 0 0 1 1 3 10
+p418
+aVJoe Smith MIN 02/02/2000 MIN @ WAS L 23 4 2 5 40.0 0 0 - 0 0 - 0 5 5 1 1 0 0 1 -7
+p419
+aVBobby Jackson MIN 02/02/2000 MIN @ WAS L 38 21 7 12 58.3 1 3 33.3 6 6 100.0 0 4 4 2 0 0 2 3 -20
+p420
+aVWilliam Avery MIN 02/02/2000 MIN @ WAS L 10 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 2 1 0 1 3 10
+p421
+aVAnthony Peeler MIN 02/02/2000 MIN @ WAS L 27 12 4 9 44.4 1 2 50.0 3 4 75.0 0 2 2 1 0 0 0 2 -11
+p422
+aVKevin Garnett MIN 02/02/2000 MIN @ WAS L 41 22 11 17 64.7 0 0 - 0 0 - 1 10 11 3 2 1 5 4 0
+p423
+aVSam Mitchell MIN 02/02/2000 MIN @ WAS L 23 4 2 6 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 2 -4
+p424
+aVMalik Sealy MIN 02/02/2000 MIN @ WAS L 25 4 2 6 33.3 0 0 - 0 0 - 1 0 1 2 0 0 4 4 -6
+p425
+aVWally Szczerbiak MIN 02/02/2000 MIN @ WAS L 23 12 6 9 66.7 0 0 - 0 0 - 1 1 2 2 0 1 0 2 -2
+p426
+aVDean Garrett MIN 02/02/2000 MIN @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p427
+aVRasho Nesterovic MIN 02/02/2000 MIN @ WAS L 28 9 4 8 50.0 0 0 - 1 2 50.0 3 2 5 2 0 3 0 1 -6
+p428
+aVSam Mitchell MIN 01/31/2000 MIN vs. SAC W 27 4 1 4 25.0 0 0 - 2 2 100.0 1 5 6 5 1 0 3 3 17
+p429
+aVKevin Garnett MIN 01/31/2000 MIN vs. SAC W 39 31 14 21 66.7 1 1 100.0 2 2 100.0 0 12 12 7 0 0 6 0 21
+p430
+aVAnthony Peeler MIN 01/31/2000 MIN vs. SAC W 35 18 7 12 58.3 1 4 25.0 3 4 75.0 1 3 4 2 1 1 1 1 -3
+p431
+aVWilliam Avery MIN 01/31/2000 MIN vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -9
+p432
+aVMalik Sealy MIN 01/31/2000 MIN vs. SAC W 24 11 5 7 71.4 0 0 - 1 2 50.0 1 2 3 5 0 0 2 4 30
+p433
+aVJoe Smith MIN 01/31/2000 MIN vs. SAC W 15 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 3 0 1 4 -1
+p434
+aVTom Hammonds MIN 01/31/2000 MIN vs. SAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p435
+aVWally Szczerbiak MIN 01/31/2000 MIN vs. SAC W 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -15
+p436
+aVBobby Jackson MIN 01/31/2000 MIN vs. SAC W 43 17 7 11 63.6 0 0 - 3 4 75.0 2 9 11 12 2 1 3 2 24
+p437
+aVDean Garrett MIN 01/31/2000 MIN vs. SAC W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -6
+p438
+aVRasho Nesterovic MIN 01/31/2000 MIN vs. SAC W 27 14 7 10 70.0 0 1 0.0 0 0 - 1 6 7 1 1 2 3 6 20
+p439
+aVMalik Sealy MIN 01/29/2000 MIN vs. UTA W 34 12 5 15 33.3 1 2 50.0 1 2 50.0 0 6 6 7 2 0 0 3 -1
+p440
+aVTerrell Brandon MIN 01/29/2000 MIN vs. UTA W 29 15 5 8 62.5 1 1 100.0 4 4 100.0 0 4 4 7 2 0 3 3 6
+p441
+aVKevin Garnett MIN 01/29/2000 MIN vs. UTA W 42 29 12 23 52.2 0 0 - 5 6 83.3 5 8 13 2 1 2 3 4 1
+p442
+aVRasho Nesterovic MIN 01/29/2000 MIN vs. UTA W 29 5 2 8 25.0 0 0 - 1 2 50.0 5 4 9 0 0 2 3 5 -1
+p443
+aVWally Szczerbiak MIN 01/29/2000 MIN vs. UTA W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 6
+p444
+aVDean Garrett MIN 01/29/2000 MIN vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p445
+aVJoe Smith MIN 01/29/2000 MIN vs. UTA W 22 6 3 8 37.5 0 0 - 0 0 - 0 0 0 1 1 2 0 5 6
+p446
+aVSam Mitchell MIN 01/29/2000 MIN vs. UTA W 27 13 5 7 71.4 0 0 - 3 4 75.0 2 3 5 3 1 0 0 1 0
+p447
+aVAnthony Peeler MIN 01/29/2000 MIN vs. UTA W 28 15 6 10 60.0 2 2 100.0 1 2 50.0 2 1 3 3 0 0 1 2 -3
+p448
+aVBobby Jackson MIN 01/29/2000 MIN vs. UTA W 19 1 0 5 0.0 0 0 - 1 2 50.0 1 2 3 4 1 0 0 3 -4
+p449
+aVJoe Smith MIN 01/27/2000 MIN @ SAS L 24 10 4 12 33.3 0 0 - 2 2 100.0 1 3 4 1 0 0 4 3 -1
+p450
+aVMalik Sealy MIN 01/27/2000 MIN @ SAS L 26 6 2 6 33.3 0 1 0.0 2 2 100.0 2 2 4 2 1 0 1 1 -18
+p451
+aVSam Mitchell MIN 01/27/2000 MIN @ SAS L 20 8 4 9 44.4 0 1 0.0 0 0 - 1 0 1 1 1 0 1 2 -17
+p452
+aVKevin Garnett MIN 01/27/2000 MIN @ SAS L 40 26 12 25 48.0 0 0 - 2 2 100.0 2 6 8 3 0 4 2 2 -11
+p453
+aVDean Garrett MIN 01/27/2000 MIN @ SAS L 8 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -5
+p454
+aVBobby Jackson MIN 01/27/2000 MIN @ SAS L 17 12 5 5 100.0 0 0 - 2 2 100.0 1 1 2 4 2 0 1 2 -5
+p455
+aVRasho Nesterovic MIN 01/27/2000 MIN @ SAS L 23 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 4 -10
+p456
+aVTom Hammonds MIN 01/27/2000 MIN @ SAS L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 3
+p457
+aVWilliam Avery MIN 01/27/2000 MIN @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p458
+aVAnthony Peeler MIN 01/27/2000 MIN @ SAS L 29 10 3 9 33.3 1 2 50.0 3 4 75.0 0 5 5 1 1 0 1 3 2
+p459
+aVTerrell Brandon MIN 01/27/2000 MIN @ SAS L 31 6 3 10 30.0 0 0 - 0 0 - 1 2 3 4 1 0 4 2 -7
+p460
+aVWally Szczerbiak MIN 01/27/2000 MIN @ SAS L 20 0 0 4 0.0 0 0 - 0 0 - 0 6 6 0 1 1 0 0 8
+p461
+aVMalik Sealy MIN 01/25/2000 MIN @ HOU W 27 9 4 7 57.1 1 1 100.0 0 0 - 1 1 2 2 0 0 1 3 10
+p462
+aVTerrell Brandon MIN 01/25/2000 MIN @ HOU W 36 26 11 19 57.9 0 1 0.0 4 4 100.0 0 2 2 8 1 0 1 3 10
+p463
+aVSam Mitchell MIN 01/25/2000 MIN @ HOU W 24 4 2 7 28.6 0 0 - 0 0 - 0 1 1 4 0 0 0 2 2
+p464
+aVAnthony Peeler MIN 01/25/2000 MIN @ HOU W 32 6 3 8 37.5 0 4 0.0 0 0 - 1 5 6 3 1 0 0 2 -2
+p465
+aVBobby Jackson MIN 01/25/2000 MIN @ HOU W 13 2 1 5 20.0 0 0 - 0 0 - 2 6 8 3 0 0 2 2 -2
+p466
+aVKevin Garnett MIN 01/25/2000 MIN @ HOU W 38 27 13 22 59.1 1 1 100.0 0 0 - 2 10 12 6 5 1 4 4 11
+p467
+aVJoe Smith MIN 01/25/2000 MIN @ HOU W 17 3 1 4 25.0 0 0 - 1 3 33.3 0 2 2 1 0 1 1 2 -6
+p468
+aVWally Szczerbiak MIN 01/25/2000 MIN @ HOU W 15 7 3 6 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 5
+p469
+aVRasho Nesterovic MIN 01/25/2000 MIN @ HOU W 39 8 4 7 57.1 0 0 - 0 0 - 3 6 9 2 0 1 3 5 12
+p470
+aVKevin Garnett MIN 01/23/2000 MIN @ GSW W 37 22 8 17 47.1 0 0 - 6 8 75.0 1 14 15 2 3 1 5 1 19
+p471
+aVJoe Smith MIN 01/23/2000 MIN @ GSW W 20 10 3 6 50.0 0 0 - 4 4 100.0 0 3 3 1 1 1 1 5 6
+p472
+aVWilliam Avery MIN 01/23/2000 MIN @ GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p473
+aVTerrell Brandon MIN 01/23/2000 MIN @ GSW W 34 15 6 11 54.5 1 2 50.0 2 2 100.0 0 4 4 9 2 0 3 1 29
+p474
+aVSam Mitchell MIN 01/23/2000 MIN @ GSW W 30 15 6 12 50.0 0 0 - 3 3 100.0 2 4 6 5 1 1 1 2 24
+p475
+aVRasho Nesterovic MIN 01/23/2000 MIN @ GSW W 24 14 5 8 62.5 0 0 - 4 5 80.0 5 4 9 0 0 1 1 2 15
+p476
+aVWally Szczerbiak MIN 01/23/2000 MIN @ GSW W 8 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p477
+aVAnthony Peeler MIN 01/23/2000 MIN @ GSW W 24 7 3 7 42.9 1 2 50.0 0 2 0.0 1 4 5 4 1 0 0 1 -1
+p478
+aVBobby Jackson MIN 01/23/2000 MIN @ GSW W 14 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 3 5 -11
+p479
+aVDean Garrett MIN 01/23/2000 MIN @ GSW W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -3
+p480
+aVTom Hammonds MIN 01/23/2000 MIN @ GSW W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -7
+p481
+aVMalik Sealy MIN 01/23/2000 MIN @ GSW W 37 8 4 9 44.4 0 0 - 0 0 - 1 4 5 2 1 0 0 2 28
+p482
+aVWally Szczerbiak MIN 01/21/2000 MIN @ LAC W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -13
+p483
+aVWilliam Avery MIN 01/21/2000 MIN @ LAC W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -14
+p484
+aVJoe Smith MIN 01/21/2000 MIN @ LAC W 27 7 1 6 16.7 0 0 - 5 6 83.3 0 3 3 0 1 1 2 3 7
+p485
+aVKevin Garnett MIN 01/21/2000 MIN @ LAC W 41 18 7 16 43.8 0 0 - 4 4 100.0 1 5 6 4 0 0 0 3 8
+p486
+aVRasho Nesterovic MIN 01/21/2000 MIN @ LAC W 24 5 2 5 40.0 0 0 - 1 2 50.0 3 4 7 3 1 0 0 2 -2
+p487
+aVSam Mitchell MIN 01/21/2000 MIN @ LAC W 33 20 8 14 57.1 1 1 100.0 3 3 100.0 0 6 6 4 0 0 0 2 14
+p488
+aVMalik Sealy MIN 01/21/2000 MIN @ LAC W 34 16 7 15 46.7 0 0 - 2 3 66.7 3 5 8 2 4 0 3 2 7
+p489
+aVAnthony Peeler MIN 01/21/2000 MIN @ LAC W 24 12 4 10 40.0 1 3 33.3 3 3 100.0 0 1 1 1 0 0 0 0 3
+p490
+aVBobby Jackson MIN 01/21/2000 MIN @ LAC W 41 17 8 17 47.1 0 0 - 1 1 100.0 3 4 7 7 2 0 5 2 20
+p491
+aVKevin Garnett MIN 01/19/2000 MIN @ UTA W 40 31 15 24 62.5 1 2 50.0 0 0 - 2 8 10 6 2 0 3 3 9
+p492
+aVTom Hammonds MIN 01/19/2000 MIN @ UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p493
+aVSam Mitchell MIN 01/19/2000 MIN @ UTA W 28 10 4 8 50.0 0 2 0.0 2 2 100.0 0 1 1 3 2 0 0 1 0
+p494
+aVWilliam Avery MIN 01/19/2000 MIN @ UTA W 10 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 1 1 -10
+p495
+aVAnthony Peeler MIN 01/19/2000 MIN @ UTA W 20 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -9
+p496
+aVWally Szczerbiak MIN 01/19/2000 MIN @ UTA W 11 0 0 5 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 1
+p497
+aVJoe Smith MIN 01/19/2000 MIN @ UTA W 19 6 2 4 50.0 0 0 - 2 4 50.0 2 4 6 1 0 2 0 3 -4
+p498
+aVBobby Jackson MIN 01/19/2000 MIN @ UTA W 38 18 8 12 66.7 0 1 0.0 2 4 50.0 3 0 3 8 1 0 3 4 13
+p499
+aVRasho Nesterovic MIN 01/19/2000 MIN @ UTA W 28 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 0 0 0 4 12
+p500
+aVMalik Sealy MIN 01/19/2000 MIN @ UTA W 37 19 5 13 38.5 0 1 0.0 9 10 90.0 1 4 5 1 1 0 0 2 14
+p501
+aVDean Garrett MIN 01/19/2000 MIN @ UTA W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -11
+p502
+aVSam Mitchell MIN 01/17/2000 MIN vs. IND W 22 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 1 0 0 3 1
+p503
+aVMalik Sealy MIN 01/17/2000 MIN vs. IND W 41 16 7 16 43.8 1 1 100.0 1 1 100.0 2 5 7 4 0 1 0 3 8
+p504
+aVKevin Garnett MIN 01/17/2000 MIN vs. IND W 43 37 16 26 61.5 0 1 0.0 5 6 83.3 5 8 13 7 0 2 2 2 6
+p505
+aVJoe Smith MIN 01/17/2000 MIN vs. IND W 25 16 6 9 66.7 0 0 - 4 6 66.7 6 2 8 2 2 2 1 4 2
+p506
+aVRasho Nesterovic MIN 01/17/2000 MIN vs. IND W 18 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 3 -1
+p507
+aVWally Szczerbiak MIN 01/17/2000 MIN vs. IND W 14 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 1 1 -17
+p508
+aVAnthony Peeler MIN 01/17/2000 MIN vs. IND W 28 8 4 9 44.4 0 1 0.0 0 0 - 2 1 3 5 1 0 0 4 5
+p509
+aVBobby Jackson MIN 01/17/2000 MIN vs. IND W 32 10 4 12 33.3 0 1 0.0 2 2 100.0 0 5 5 6 1 0 1 3 6
+p510
+aVWilliam Avery MIN 01/17/2000 MIN vs. IND W 16 4 2 12 16.7 0 2 0.0 0 0 - 0 5 5 3 0 0 2 1 -5
+p511
+aVBobby Jackson MIN 01/15/2000 MIN vs. LAL L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 2 0 1 0 -3
+p512
+aVJoe Smith MIN 01/15/2000 MIN vs. LAL L 28 12 5 10 50.0 0 0 - 2 6 33.3 3 6 9 3 0 1 1 6 -2
+p513
+aVWilliam Avery MIN 01/15/2000 MIN vs. LAL L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p514
+aVMalik Sealy MIN 01/15/2000 MIN vs. LAL L 35 13 6 11 54.5 1 1 100.0 0 0 - 1 1 2 3 1 0 0 2 -1
+p515
+aVRasho Nesterovic MIN 01/15/2000 MIN vs. LAL L 21 2 1 8 12.5 0 0 - 0 0 - 2 7 9 0 0 0 0 4 -16
+p516
+aVAnthony Peeler MIN 01/15/2000 MIN vs. LAL L 30 17 6 11 54.5 3 5 60.0 2 2 100.0 0 4 4 3 2 1 1 1 -1
+p517
+aVSam Mitchell MIN 01/15/2000 MIN vs. LAL L 17 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 1 0 0 -5
+p518
+aVKevin Garnett MIN 01/15/2000 MIN vs. LAL L 44 22 7 19 36.8 1 2 50.0 7 8 87.5 2 8 10 5 1 3 3 2 -10
+p519
+aVDean Garrett MIN 01/15/2000 MIN vs. LAL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p520
+aVTerrell Brandon MIN 01/15/2000 MIN vs. LAL L 39 21 6 17 35.3 1 2 50.0 8 8 100.0 0 0 0 8 0 1 0 2 -9
+p521
+aVWally Szczerbiak MIN 01/15/2000 MIN vs. LAL L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 -18
+p522
+aVBobby Jackson MIN 01/13/2000 MIN vs. BOS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p523
+aVWally Szczerbiak MIN 01/13/2000 MIN vs. BOS W 25 14 6 10 60.0 1 2 50.0 1 1 100.0 0 2 2 1 1 0 1 2 -3
+p524
+aVAnthony Peeler MIN 01/13/2000 MIN vs. BOS W 23 11 5 10 50.0 1 3 33.3 0 0 - 0 1 1 5 1 0 0 1 -7
+p525
+aVRasho Nesterovic MIN 01/13/2000 MIN vs. BOS W 17 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 4 8
+p526
+aVTerrell Brandon MIN 01/13/2000 MIN vs. BOS W 41 20 8 15 53.3 0 2 0.0 4 4 100.0 3 4 7 11 1 1 3 0 21
+p527
+aVMalik Sealy MIN 01/13/2000 MIN vs. BOS W 27 12 5 10 50.0 0 0 - 2 4 50.0 1 7 8 3 2 1 1 1 23
+p528
+aVTom Hammonds MIN 01/13/2000 MIN vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p529
+aVSam Mitchell MIN 01/13/2000 MIN vs. BOS W 32 15 4 10 40.0 1 1 100.0 6 7 85.7 0 5 5 3 0 0 1 2 17
+p530
+aVKevin Garnett MIN 01/13/2000 MIN vs. BOS W 37 19 9 15 60.0 1 1 100.0 0 1 0.0 1 9 10 6 1 4 5 4 25
+p531
+aVJoe Smith MIN 01/13/2000 MIN vs. BOS W 13 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 5 -1
+p532
+aVDean Garrett MIN 01/13/2000 MIN vs. BOS W 17 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 2 0 2 1 5 10
+p533
+aVWilliam Avery MIN 01/13/2000 MIN vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p534
+aVTerrell Brandon MIN 01/11/2000 MIN vs. MIA L 42 15 5 14 35.7 1 2 50.0 4 4 100.0 0 3 3 11 1 0 4 1 -1
+p535
+aVWally Szczerbiak MIN 01/11/2000 MIN vs. MIA L 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 0 1 0 5
+p536
+aVRasho Nesterovic MIN 01/11/2000 MIN vs. MIA L 20 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 2 0 0 1 2 -2
+p537
+aVWilliam Avery MIN 01/11/2000 MIN vs. MIA L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p538
+aVDean Garrett MIN 01/11/2000 MIN vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p539
+aVBobby Jackson MIN 01/11/2000 MIN vs. MIA L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p540
+aVKevin Garnett MIN 01/11/2000 MIN vs. MIA L 45 35 14 22 63.6 2 3 66.7 5 6 83.3 4 5 9 4 0 3 3 2 -10
+p541
+aVMalik Sealy MIN 01/11/2000 MIN vs. MIA L 32 8 4 9 44.4 0 0 - 0 0 - 1 3 4 0 2 0 0 2 -10
+p542
+aVAnthony Peeler MIN 01/11/2000 MIN vs. MIA L 26 16 7 10 70.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 3 -3
+p543
+aVSam Mitchell MIN 01/11/2000 MIN vs. MIA L 28 9 3 7 42.9 0 0 - 3 4 75.0 0 4 4 5 0 2 0 1 -7
+p544
+aVJoe Smith MIN 01/11/2000 MIN vs. MIA L 30 10 5 8 62.5 0 0 - 0 0 - 0 3 3 3 1 1 0 4 -7
+p545
+aVAnthony Peeler MIN 01/09/2000 MIN @ PHI W 22 13 6 6 100.0 1 1 100.0 0 0 - 0 1 1 4 2 1 0 5 10
+p546
+aVMalik Sealy MIN 01/09/2000 MIN @ PHI W 38 23 8 12 66.7 0 0 - 7 7 100.0 1 3 4 2 1 1 1 3 -1
+p547
+aVRasho Nesterovic MIN 01/09/2000 MIN @ PHI W 18 10 5 5 100.0 0 0 - 0 0 - 1 0 1 1 0 2 2 4 5
+p548
+aVTerrell Brandon MIN 01/09/2000 MIN @ PHI W 44 27 10 19 52.6 3 4 75.0 4 5 80.0 1 9 10 14 0 0 4 2 15
+p549
+aVWilliam Avery MIN 01/09/2000 MIN @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p550
+aVSam Mitchell MIN 01/09/2000 MIN @ PHI W 31 14 6 11 54.5 0 0 - 2 2 100.0 1 1 2 6 0 0 2 4 16
+p551
+aVDean Garrett MIN 01/09/2000 MIN @ PHI W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 2
+p552
+aVKevin Garnett MIN 01/09/2000 MIN @ PHI W 44 20 9 15 60.0 0 1 0.0 2 2 100.0 4 4 8 8 0 1 1 1 1
+p553
+aVJoe Smith MIN 01/09/2000 MIN @ PHI W 28 16 8 13 61.5 0 0 - 0 0 - 3 5 8 1 0 1 1 5 13
+p554
+aVBobby Jackson MIN 01/09/2000 MIN @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p555
+aVJoe Smith MIN 01/08/2000 MIN @ DET W 24 7 3 8 37.5 0 0 - 1 2 50.0 3 5 8 0 1 2 3 6 -2
+p556
+aVAnthony Peeler MIN 01/08/2000 MIN @ DET W 21 11 3 7 42.9 1 3 33.3 4 4 100.0 1 3 4 0 0 0 1 2 -16
+p557
+aVRasho Nesterovic MIN 01/08/2000 MIN @ DET W 19 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 3 0 0 0 6 14
+p558
+aVSam Mitchell MIN 01/08/2000 MIN @ DET W 39 20 7 13 53.8 1 1 100.0 5 6 83.3 0 5 5 5 0 0 2 3 12
+p559
+aVKevin Garnett MIN 01/08/2000 MIN @ DET W 42 22 10 15 66.7 0 0 - 2 4 50.0 5 9 14 8 3 0 9 6 12
+p560
+aVWilliam Avery MIN 01/08/2000 MIN @ DET W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p561
+aVTom Hammonds MIN 01/08/2000 MIN @ DET W 12 2 1 2 50.0 0 0 - 0 4 0.0 1 2 3 0 0 0 1 0 -12
+p562
+aVMalik Sealy MIN 01/08/2000 MIN @ DET W 36 10 5 13 38.5 0 1 0.0 0 0 - 0 4 4 1 3 0 0 6 11
+p563
+aVBobby Jackson MIN 01/08/2000 MIN @ DET W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 -5
+p564
+aVTerrell Brandon MIN 01/08/2000 MIN @ DET W 42 28 7 15 46.7 0 0 - 14 15 93.3 0 2 2 8 1 0 2 4 13
+p565
+aVMalik Sealy MIN 01/06/2000 MIN vs. POR W 40 27 11 16 68.8 1 3 33.3 4 5 80.0 4 1 5 3 0 1 2 4 1
+p566
+aVTerrell Brandon MIN 01/06/2000 MIN vs. POR W 43 17 5 11 45.5 1 3 33.3 6 6 100.0 1 7 8 14 2 0 4 1 -3
+p567
+aVWilliam Avery MIN 01/06/2000 MIN vs. POR W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 5
+p568
+aVDean Garrett MIN 01/06/2000 MIN vs. POR W 8 4 1 1 100.0 0 0 - 2 4 50.0 2 1 3 0 0 0 0 3 -2
+p569
+aVAnthony Peeler MIN 01/06/2000 MIN vs. POR W 27 9 4 10 40.0 0 4 0.0 1 1 100.0 2 1 3 0 1 0 2 3 7
+p570
+aVRasho Nesterovic MIN 01/06/2000 MIN vs. POR W 21 4 2 6 33.3 0 0 - 0 0 - 1 3 4 2 1 1 1 5 -4
+p571
+aVSam Mitchell MIN 01/06/2000 MIN vs. POR W 30 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 2 1 1 1 3 -1
+p572
+aVJoe Smith MIN 01/06/2000 MIN vs. POR W 25 4 1 6 16.7 0 0 - 2 2 100.0 1 4 5 2 0 1 3 5 9
+p573
+aVKevin Garnett MIN 01/06/2000 MIN vs. POR W 41 27 11 18 61.1 0 0 - 5 9 55.6 2 5 7 1 3 3 3 3 -2
+p574
+aVAnthony Peeler MIN 01/04/2000 MIN vs. SAS W 23 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 1 0 0 0 2 2
+p575
+aVTerrell Brandon MIN 01/04/2000 MIN vs. SAS W 45 18 7 19 36.8 1 2 50.0 3 5 60.0 1 3 4 13 3 4 4 2 3
+p576
+aVSam Mitchell MIN 01/04/2000 MIN vs. SAS W 34 8 2 12 16.7 0 0 - 4 4 100.0 1 2 3 3 2 0 0 1 -4
+p577
+aVKevin Garnett MIN 01/04/2000 MIN vs. SAS W 39 21 10 21 47.6 1 1 100.0 0 0 - 3 8 11 5 1 2 6 4 3
+p578
+aVTom Hammonds MIN 01/04/2000 MIN vs. SAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p579
+aVRasho Nesterovic MIN 01/04/2000 MIN vs. SAS W 25 14 6 8 75.0 0 0 - 2 2 100.0 4 4 8 2 0 1 0 6 22
+p580
+aVAndrae Patterson MIN 01/04/2000 MIN vs. SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p581
+aVMalik Sealy MIN 01/04/2000 MIN vs. SAS W 43 22 9 11 81.8 1 1 100.0 3 5 60.0 3 4 7 5 0 2 3 2 3
+p582
+aVJoe Smith MIN 01/04/2000 MIN vs. SAS W 25 6 3 7 42.9 0 0 - 0 2 0.0 4 6 10 0 0 2 0 2 -15
+p583
+aVMalik Sealy MIN 12/30/1999 MIN vs. CHI W 36 12 4 10 40.0 0 0 - 4 4 100.0 0 5 5 2 2 0 2 2 17
+p584
+aVTerrell Brandon MIN 12/30/1999 MIN vs. CHI W 35 12 5 12 41.7 0 0 - 2 2 100.0 1 0 1 7 0 0 2 2 23
+p585
+aVSam Mitchell MIN 12/30/1999 MIN vs. CHI W 29 12 5 9 55.6 0 0 - 2 2 100.0 0 4 4 3 1 0 2 1 17
+p586
+aVAndrae Patterson MIN 12/30/1999 MIN vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p587
+aVWilliam Avery MIN 12/30/1999 MIN vs. CHI W 13 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 1 0 1 1 -4
+p588
+aVRasho Nesterovic MIN 12/30/1999 MIN vs. CHI W 25 12 4 8 50.0 0 0 - 4 5 80.0 2 5 7 4 0 1 0 5 19
+p589
+aVTom Hammonds MIN 12/30/1999 MIN vs. CHI W 10 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 0 1 0 1 0 -7
+p590
+aVAnthony Peeler MIN 12/30/1999 MIN vs. CHI W 29 11 5 12 41.7 1 3 33.3 0 0 - 1 2 3 2 0 0 2 4 0
+p591
+aVKevin Garnett MIN 12/30/1999 MIN vs. CHI W 36 22 9 11 81.8 1 1 100.0 3 4 75.0 0 11 11 3 3 1 2 3 23
+p592
+aVJoe Smith MIN 12/30/1999 MIN vs. CHI W 24 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 2 2 1 3 5 4
+p593
+aVJoe Smith MIN 12/28/1999 MIN @ MIA L 27 5 1 6 16.7 0 0 - 3 4 75.0 2 6 8 1 0 1 1 3 -14
+p594
+aVAnthony Peeler MIN 12/28/1999 MIN @ MIA L 12 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 1 1 -9
+p595
+aVTom Hammonds MIN 12/28/1999 MIN @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p596
+aVKevin Garnett MIN 12/28/1999 MIN @ MIA L 42 16 7 23 30.4 0 1 0.0 2 3 66.7 1 8 9 4 2 4 3 2 -6
+p597
+aVTerrell Brandon MIN 12/28/1999 MIN @ MIA L 39 14 5 15 33.3 1 1 100.0 3 3 100.0 0 4 4 6 4 0 0 1 0
+p598
+aVMalik Sealy MIN 12/28/1999 MIN @ MIA L 34 14 6 13 46.2 1 2 50.0 1 1 100.0 1 5 6 3 2 0 2 3 -4
+p599
+aVSam Mitchell MIN 12/28/1999 MIN @ MIA L 15 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -7
+p600
+aVRasho Nesterovic MIN 12/28/1999 MIN @ MIA L 26 4 2 7 28.6 0 0 - 0 0 - 4 2 6 0 0 0 0 4 -2
+p601
+aVWilliam Avery MIN 12/28/1999 MIN @ MIA L 15 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 1 0 0 1 2 -10
+p602
+aVWally Szczerbiak MIN 12/28/1999 MIN @ MIA L 29 12 6 9 66.7 0 0 - 0 0 - 1 4 5 2 1 0 0 0 -3
+p603
+aVTerrell Brandon MIN 12/27/1999 MIN @ ORL W 39 18 8 16 50.0 0 0 - 2 2 100.0 0 2 2 15 1 1 2 0 3
+p604
+aVRasho Nesterovic MIN 12/27/1999 MIN @ ORL W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 0 1 1 2 9
+p605
+aVWilliam Avery MIN 12/27/1999 MIN @ ORL W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 1 0 1 2 -6
+p606
+aVMalik Sealy MIN 12/27/1999 MIN @ ORL W 27 11 5 9 55.6 0 0 - 1 2 50.0 3 2 5 1 1 0 2 3 4
+p607
+aVAnthony Peeler MIN 12/27/1999 MIN @ ORL W 21 7 3 7 42.9 0 3 0.0 1 2 50.0 1 1 2 3 0 0 0 0 -2
+p608
+aVKevin Garnett MIN 12/27/1999 MIN @ ORL W 45 26 10 21 47.6 1 1 100.0 5 8 62.5 9 14 23 7 0 4 2 2 12
+p609
+aVSam Mitchell MIN 12/27/1999 MIN @ ORL W 23 14 6 8 75.0 1 1 100.0 1 2 50.0 1 1 2 1 1 0 1 2 -8
+p610
+aVWally Szczerbiak MIN 12/27/1999 MIN @ ORL W 30 9 4 9 44.4 1 2 50.0 0 0 - 0 1 1 0 0 0 1 4 1
+p611
+aVJoe Smith MIN 12/27/1999 MIN @ ORL W 34 18 7 12 58.3 0 0 - 4 4 100.0 3 3 6 2 0 1 3 5 -3
+p612
+aVTerrell Brandon MIN 12/23/1999 MIN vs. SEA W 48 30 13 21 61.9 2 3 66.7 2 3 66.7 0 7 7 9 1 2 2 4 7
+p613
+aVMalik Sealy MIN 12/23/1999 MIN vs. SEA W 32 17 8 15 53.3 0 0 - 1 2 50.0 2 1 3 1 0 1 0 1 2
+p614
+aVRasho Nesterovic MIN 12/23/1999 MIN vs. SEA W 20 2 1 3 33.3 0 0 - 0 0 - 1 5 6 3 0 0 0 2 3
+p615
+aVSam Mitchell MIN 12/23/1999 MIN vs. SEA W 21 6 2 9 22.2 0 0 - 2 2 100.0 0 5 5 1 0 0 0 2 5
+p616
+aVAnthony Peeler MIN 12/23/1999 MIN vs. SEA W 21 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 3 0 0 1 2 1
+p617
+aVTom Hammonds MIN 12/23/1999 MIN vs. SEA W 3 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -1
+p618
+aVWally Szczerbiak MIN 12/23/1999 MIN vs. SEA W 22 6 3 8 37.5 0 1 0.0 0 0 - 5 3 8 2 0 0 0 3 6
+p619
+aVJoe Smith MIN 12/23/1999 MIN vs. SEA W 30 18 6 12 50.0 0 0 - 6 8 75.0 3 3 6 2 0 3 0 1 2
+p620
+aVKevin Garnett MIN 12/23/1999 MIN vs. SEA W 43 23 8 19 42.1 0 1 0.0 7 8 87.5 5 9 14 6 1 4 3 3 10
+p621
+aVJoe Smith MIN 12/22/1999 MIN @ CHI W 27 18 4 5 80.0 0 0 - 10 10 100.0 2 5 7 0 0 1 2 4 14
+p622
+aVWilliam Avery MIN 12/22/1999 MIN @ CHI W 19 2 1 7 14.3 0 1 0.0 0 0 - 0 3 3 3 0 0 1 3 -2
+p623
+aVMalik Sealy MIN 12/22/1999 MIN @ CHI W 29 19 8 10 80.0 0 0 - 3 3 100.0 1 1 2 3 2 0 3 3 28
+p624
+aVTom Hammonds MIN 12/22/1999 MIN @ CHI W 6 4 1 1 100.0 0 0 - 2 4 50.0 0 1 1 0 1 0 2 1 -9
+p625
+aVTerrell Brandon MIN 12/22/1999 MIN @ CHI W 29 16 8 14 57.1 0 0 - 0 1 0.0 0 3 3 11 1 0 0 1 22
+p626
+aVWally Szczerbiak MIN 12/22/1999 MIN @ CHI W 32 11 5 10 50.0 0 0 - 1 2 50.0 1 1 2 6 1 0 0 2 30
+p627
+aVSam Mitchell MIN 12/22/1999 MIN @ CHI W 16 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 2 0 0 1 2 -10
+p628
+aVAnthony Peeler MIN 12/22/1999 MIN @ CHI W 19 2 1 7 14.3 0 3 0.0 0 0 - 0 3 3 1 1 0 3 1 -8
+p629
+aVRasho Nesterovic MIN 12/22/1999 MIN @ CHI W 27 4 2 4 50.0 0 0 - 0 2 0.0 2 5 7 3 0 3 2 4 12
+p630
+aVKevin Garnett MIN 12/22/1999 MIN @ CHI W 33 22 9 14 64.3 1 1 100.0 3 4 75.0 4 9 13 4 2 1 2 2 30
+p631
+aVAndrae Patterson MIN 12/22/1999 MIN @ CHI W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -7
+p632
+aVWilliam Avery MIN 12/20/1999 MIN @ CLE W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p633
+aVRasho Nesterovic MIN 12/20/1999 MIN @ CLE W 17 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 1 0 0 0 2 -18
+p634
+aVWally Szczerbiak MIN 12/20/1999 MIN @ CLE W 27 7 1 6 16.7 0 0 - 5 8 62.5 0 3 3 1 2 0 1 1 -6
+p635
+aVKevin Garnett MIN 12/20/1999 MIN @ CLE W 47 24 10 21 47.6 0 1 0.0 4 6 66.7 6 12 18 4 2 3 7 4 10
+p636
+aVTerrell Brandon MIN 12/20/1999 MIN @ CLE W 42 17 5 16 31.3 0 1 0.0 7 7 100.0 1 4 5 11 4 1 6 2 14
+p637
+aVMalik Sealy MIN 12/20/1999 MIN @ CLE W 22 10 3 8 37.5 0 0 - 4 4 100.0 3 2 5 0 0 0 1 3 3
+p638
+aVTom Hammonds MIN 12/20/1999 MIN @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p639
+aVAnthony Peeler MIN 12/20/1999 MIN @ CLE W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 1 1 -7
+p640
+aVSam Mitchell MIN 12/20/1999 MIN @ CLE W 17 7 1 3 33.3 0 0 - 5 6 83.3 0 1 1 1 0 0 0 2 11
+p641
+aVJoe Smith MIN 12/20/1999 MIN @ CLE W 30 11 3 6 50.0 0 0 - 5 6 83.3 1 4 5 4 0 0 1 5 20
+p642
+aVBobby Jackson MIN 12/20/1999 MIN @ CLE W 23 12 4 9 44.4 0 0 - 4 5 80.0 2 1 3 3 2 0 1 2 5
+p643
+aVWally Szczerbiak MIN 12/18/1999 MIN @ DAL W 42 18 6 11 54.5 0 0 - 6 6 100.0 3 7 10 3 0 1 0 4 1
+p644
+aVKevin Garnett MIN 12/18/1999 MIN @ DAL W 40 27 11 18 61.1 1 2 50.0 4 6 66.7 2 12 14 5 2 2 7 4 -1
+p645
+aVTerrell Brandon MIN 12/18/1999 MIN @ DAL W 36 20 6 13 46.2 1 1 100.0 7 7 100.0 0 4 4 6 0 0 0 2 9
+p646
+aVAndrae Patterson MIN 12/18/1999 MIN @ DAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 4
+p647
+aVRasho Nesterovic MIN 12/18/1999 MIN @ DAL W 15 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 1 0 1 5 2
+p648
+aVWilliam Avery MIN 12/18/1999 MIN @ DAL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -3
+p649
+aVAnthony Peeler MIN 12/18/1999 MIN @ DAL W 18 8 4 7 57.1 0 0 - 0 0 - 0 0 0 2 1 1 1 1 2
+p650
+aVSam Mitchell MIN 12/18/1999 MIN @ DAL W 27 13 6 10 60.0 0 0 - 1 2 50.0 0 1 1 1 0 1 1 3 3
+p651
+aVTom Hammonds MIN 12/18/1999 MIN @ DAL W 12 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 9
+p652
+aVBobby Jackson MIN 12/18/1999 MIN @ DAL W 12 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 0 1 -8
+p653
+aVMalik Sealy MIN 12/18/1999 MIN @ DAL W 30 12 5 7 71.4 0 0 - 2 4 50.0 1 3 4 2 0 1 0 5 2
+p654
+aVTom Hammonds MIN 12/17/1999 MIN vs. LAL L 11 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 5 -14
+p655
+aVAnthony Peeler MIN 12/17/1999 MIN vs. LAL L 25 8 2 8 25.0 0 2 0.0 4 4 100.0 0 2 2 6 3 0 1 1 -3
+p656
+aVWilliam Avery MIN 12/17/1999 MIN vs. LAL L 4 2 1 4 25.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -4
+p657
+aVMalik Sealy MIN 12/17/1999 MIN vs. LAL L 23 8 3 7 42.9 0 0 - 2 2 100.0 0 4 4 1 0 0 1 4 -7
+p658
+aVSam Mitchell MIN 12/17/1999 MIN vs. LAL L 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -6
+p659
+aVBobby Jackson MIN 12/17/1999 MIN vs. LAL L 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p660
+aVKevin Garnett MIN 12/17/1999 MIN vs. LAL L 47 28 13 22 59.1 0 1 0.0 2 3 66.7 7 14 21 5 1 2 3 2 -8
+p661
+aVRasho Nesterovic MIN 12/17/1999 MIN vs. LAL L 36 12 6 9 66.7 0 0 - 0 2 0.0 2 3 5 4 1 0 1 5 6
+p662
+aVTerrell Brandon MIN 12/17/1999 MIN vs. LAL L 44 22 10 23 43.5 0 3 0.0 2 2 100.0 0 2 2 9 1 2 5 2 -5
+p663
+aVWally Szczerbiak MIN 12/17/1999 MIN vs. LAL L 36 4 2 6 33.3 0 0 - 0 0 - 0 2 2 3 1 1 1 3 -3
+p664
+aVWally Szczerbiak MIN 12/15/1999 MIN @ CHH L 34 10 5 15 33.3 0 1 0.0 0 0 - 5 2 7 2 0 0 5 3 -5
+p665
+aVBobby Jackson MIN 12/15/1999 MIN @ CHH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p666
+aVDean Garrett MIN 12/15/1999 MIN @ CHH L 7 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 1 2 3 -2
+p667
+aVSam Mitchell MIN 12/15/1999 MIN @ CHH L 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 0 2 2 8
+p668
+aVMalik Sealy MIN 12/15/1999 MIN @ CHH L 31 27 13 16 81.3 0 0 - 1 2 50.0 0 4 4 1 2 0 3 2 -5
+p669
+aVAnthony Peeler MIN 12/15/1999 MIN @ CHH L 21 10 4 8 50.0 1 1 100.0 1 2 50.0 0 0 0 4 1 0 1 3 -8
+p670
+aVKevin Garnett MIN 12/15/1999 MIN @ CHH L 46 17 6 13 46.2 1 1 100.0 4 4 100.0 6 14 20 6 1 1 2 1 -7
+p671
+aVWilliam Avery MIN 12/15/1999 MIN @ CHH L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 8
+p672
+aVTerrell Brandon MIN 12/15/1999 MIN @ CHH L 36 16 4 14 28.6 0 0 - 8 8 100.0 0 0 0 7 3 0 2 4 -11
+p673
+aVRasho Nesterovic MIN 12/15/1999 MIN @ CHH L 35 13 5 9 55.6 0 0 - 3 3 100.0 5 3 8 1 1 2 1 6 -4
+p674
+aVTom Hammonds MIN 12/15/1999 MIN @ CHH L 8 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 3
+p675
+aVBobby Jackson MIN 12/14/1999 MIN @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p676
+aVAnthony Peeler MIN 12/14/1999 MIN @ ATL L 26 15 6 11 54.5 1 3 33.3 2 2 100.0 1 0 1 0 1 0 3 3 -8
+p677
+aVTerrell Brandon MIN 12/14/1999 MIN @ ATL L 40 16 6 20 30.0 1 2 50.0 3 3 100.0 2 1 3 7 2 1 1 1 -2
+p678
+aVWally Szczerbiak MIN 12/14/1999 MIN @ ATL L 21 6 3 10 30.0 0 0 - 0 1 0.0 0 0 0 0 0 1 0 1 -8
+p679
+aVSam Mitchell MIN 12/14/1999 MIN @ ATL L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -4
+p680
+aVTom Hammonds MIN 12/14/1999 MIN @ ATL L 16 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 2 -3
+p681
+aVRasho Nesterovic MIN 12/14/1999 MIN @ ATL L 37 12 5 10 50.0 0 0 - 2 4 50.0 1 4 5 3 0 0 1 4 -5
+p682
+aVMalik Sealy MIN 12/14/1999 MIN @ ATL L 29 11 4 11 36.4 0 0 - 3 3 100.0 4 1 5 2 0 0 1 2 -6
+p683
+aVKevin Garnett MIN 12/14/1999 MIN @ ATL L 44 22 11 19 57.9 0 0 - 0 0 - 1 14 15 10 7 1 2 3 -14
+p684
+aVWilliam Avery MIN 12/14/1999 MIN @ ATL L 17 7 3 10 30.0 1 3 33.3 0 0 - 2 3 5 3 1 0 1 2 6
+p685
+aVBobby Jackson MIN 12/11/1999 MIN vs. GSW L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 2 -5
+p686
+aVTom Hammonds MIN 12/11/1999 MIN vs. GSW L 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -7
+p687
+aVRasho Nesterovic MIN 12/11/1999 MIN vs. GSW L 38 23 11 16 68.8 0 0 - 1 1 100.0 6 7 13 1 0 1 2 4 -14
+p688
+aVSam Mitchell MIN 12/11/1999 MIN vs. GSW L 22 8 4 6 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -22
+p689
+aVTerrell Brandon MIN 12/11/1999 MIN vs. GSW L 30 4 2 3 66.7 0 0 - 0 1 0.0 0 3 3 6 1 0 3 2 -9
+p690
+aVAnthony Peeler MIN 12/11/1999 MIN vs. GSW L 18 6 3 11 27.3 0 4 0.0 0 0 - 0 0 0 4 1 0 1 4 0
+p691
+aVKevin Garnett MIN 12/11/1999 MIN vs. GSW L 38 12 5 20 25.0 0 1 0.0 2 2 100.0 1 6 7 6 0 1 8 3 -25
+p692
+aVWilliam Avery MIN 12/11/1999 MIN vs. GSW L 14 2 0 1 0.0 0 1 0.0 2 4 50.0 0 1 1 3 0 0 0 0 -22
+p693
+aVJoe Smith MIN 12/11/1999 MIN vs. GSW L 32 11 5 11 45.5 0 0 - 1 2 50.0 2 8 10 0 0 0 1 3 -8
+p694
+aVMalik Sealy MIN 12/11/1999 MIN vs. GSW L 32 8 3 11 27.3 0 1 0.0 2 2 100.0 1 3 4 2 1 0 4 1 -28
+p695
+aVAnthony Peeler MIN 12/09/1999 MIN @ POR L 36 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 4 0 0 1 3 -12
+p696
+aVTerrell Brandon MIN 12/09/1999 MIN @ POR L 40 20 7 13 53.8 1 2 50.0 5 8 62.5 1 0 1 11 1 0 1 4 -5
+p697
+aVBobby Jackson MIN 12/09/1999 MIN @ POR L 8 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 1 0 1 1 1
+p698
+aVRasho Nesterovic MIN 12/09/1999 MIN @ POR L 32 9 4 10 40.0 0 0 - 1 2 50.0 1 5 6 2 2 0 1 6 4
+p699
+aVJoe Smith MIN 12/09/1999 MIN @ POR L 42 12 3 7 42.9 0 0 - 6 8 75.0 1 4 5 1 1 1 3 3 -3
+p700
+aVKevin Garnett MIN 12/09/1999 MIN @ POR L 44 26 12 20 60.0 0 1 0.0 2 4 50.0 1 6 7 5 4 1 3 4 5
+p701
+aVTom Hammonds MIN 12/09/1999 MIN @ POR L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 -9
+p702
+aVSam Mitchell MIN 12/09/1999 MIN @ POR L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p703
+aVMalik Sealy MIN 12/09/1999 MIN @ POR L 26 10 4 10 40.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 2 4
+p704
+aVWilliam Avery MIN 12/09/1999 MIN @ POR L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p705
+aVMalik Sealy MIN 12/08/1999 MIN @ SEA L 21 9 3 7 42.9 0 0 - 3 4 75.0 0 2 2 2 0 1 1 3 -2
+p706
+aVBobby Jackson MIN 12/08/1999 MIN @ SEA L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -2
+p707
+aVRasho Nesterovic MIN 12/08/1999 MIN @ SEA L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -2
+p708
+aVTom Hammonds MIN 12/08/1999 MIN @ SEA L 13 7 1 4 25.0 0 0 - 5 6 83.3 1 1 2 0 0 0 0 1 2
+p709
+aVWally Szczerbiak MIN 12/08/1999 MIN @ SEA L 36 16 7 13 53.8 0 0 - 2 4 50.0 1 5 6 4 2 0 2 0 -21
+p710
+aVAnthony Peeler MIN 12/08/1999 MIN @ SEA L 27 11 5 9 55.6 1 2 50.0 0 0 - 1 0 1 5 1 0 0 0 -14
+p711
+aVWilliam Avery MIN 12/08/1999 MIN @ SEA L 14 5 1 4 25.0 1 4 25.0 2 4 50.0 0 0 0 2 1 0 0 3 -2
+p712
+aVJoe Smith MIN 12/08/1999 MIN @ SEA L 24 4 2 5 40.0 0 0 - 0 0 - 1 4 5 2 0 0 1 6 -13
+p713
+aVTerrell Brandon MIN 12/08/1999 MIN @ SEA L 35 11 5 13 38.5 1 2 50.0 0 0 - 0 2 2 10 2 0 3 2 -16
+p714
+aVSam Mitchell MIN 12/08/1999 MIN @ SEA L 10 7 3 4 75.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 1 2
+p715
+aVKevin Garnett MIN 12/08/1999 MIN @ SEA L 42 22 10 17 58.8 0 1 0.0 2 2 100.0 2 10 12 2 0 2 6 2 -12
+p716
+aVKevin Garnett MIN 12/04/1999 MIN vs. DAL L 38 20 8 19 42.1 1 3 33.3 3 3 100.0 4 2 6 5 1 1 4 4 -24
+p717
+aVTerrell Brandon MIN 12/04/1999 MIN vs. DAL L 29 9 3 15 20.0 0 7 0.0 3 3 100.0 2 1 3 4 2 0 0 2 -15
+p718
+aVMalik Sealy MIN 12/04/1999 MIN vs. DAL L 23 10 5 13 38.5 0 2 0.0 0 0 - 2 5 7 3 1 1 1 5 4
+p719
+aVJoe Smith MIN 12/04/1999 MIN vs. DAL L 36 10 4 15 26.7 0 0 - 2 2 100.0 9 8 17 0 0 2 5 4 -11
+p720
+aVSam Mitchell MIN 12/04/1999 MIN vs. DAL L 25 5 0 6 0.0 0 0 - 5 7 71.4 1 2 3 1 0 0 0 1 -2
+p721
+aVWilliam Avery MIN 12/04/1999 MIN vs. DAL L 6 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 0 -6
+p722
+aVRasho Nesterovic MIN 12/04/1999 MIN vs. DAL L 22 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 0 0 4 0 1 -6
+p723
+aVAnthony Peeler MIN 12/04/1999 MIN vs. DAL L 35 14 5 10 50.0 0 2 0.0 4 4 100.0 0 3 3 2 1 0 2 3 -19
+p724
+aVBobby Jackson MIN 12/04/1999 MIN vs. DAL L 19 13 5 9 55.6 0 1 0.0 3 3 100.0 2 1 3 3 0 0 0 3 -4
+p725
+aVDean Garrett MIN 12/04/1999 MIN vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p726
+aVTom Hammonds MIN 12/04/1999 MIN vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p727
+aVTom Hammonds MIN 12/02/1999 MIN vs. ORL L 11 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -7
+p728
+aVBobby Jackson MIN 12/02/1999 MIN vs. ORL L 18 12 5 9 55.6 0 2 0.0 2 2 100.0 0 1 1 1 1 0 3 3 2
+p729
+aVAnthony Peeler MIN 12/02/1999 MIN vs. ORL L 24 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 1 0 0 4 1 -10
+p730
+aVJoe Smith MIN 12/02/1999 MIN vs. ORL L 41 18 6 14 42.9 0 0 - 6 9 66.7 6 7 13 2 0 0 4 3 -4
+p731
+aVWilliam Avery MIN 12/02/1999 MIN vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 1
+p732
+aVDean Garrett MIN 12/02/1999 MIN vs. ORL L 12 5 2 2 100.0 0 0 - 1 2 50.0 0 5 5 1 0 2 2 1 -12
+p733
+aVMalik Sealy MIN 12/02/1999 MIN vs. ORL L 23 11 3 10 30.0 0 0 - 5 5 100.0 0 3 3 2 0 0 0 3 -1
+p734
+aVRasho Nesterovic MIN 12/02/1999 MIN vs. ORL L 19 1 0 4 0.0 0 0 - 1 2 50.0 0 7 7 0 0 0 2 1 10
+p735
+aVSam Mitchell MIN 12/02/1999 MIN vs. ORL L 22 8 4 9 44.4 0 1 0.0 0 0 - 2 3 5 3 1 0 1 2 -3
+p736
+aVKevin Garnett MIN 12/02/1999 MIN vs. ORL L 38 17 5 19 26.3 2 3 66.7 5 7 71.4 4 8 12 3 2 4 3 2 -14
+p737
+aVTerrell Brandon MIN 12/02/1999 MIN vs. ORL L 30 16 7 16 43.8 0 4 0.0 2 2 100.0 2 1 3 8 1 0 3 0 -12
+p738
+aVSam Mitchell MIN 11/30/1999 MIN vs. DEN W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -10
+p739
+aVWilliam Avery MIN 11/30/1999 MIN vs. DEN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -3
+p740
+aVWally Szczerbiak MIN 11/30/1999 MIN vs. DEN W 34 12 3 10 30.0 0 1 0.0 6 6 100.0 3 2 5 6 2 0 1 4 25
+p741
+aVTom Hammonds MIN 11/30/1999 MIN vs. DEN W 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -8
+p742
+aVMalik Sealy MIN 11/30/1999 MIN vs. DEN W 30 18 7 11 63.6 0 0 - 4 6 66.7 2 2 4 4 0 0 1 1 8
+p743
+aVKevin Garnett MIN 11/30/1999 MIN vs. DEN W 36 16 7 16 43.8 0 0 - 2 2 100.0 1 5 6 5 0 3 1 4 15
+p744
+aVAnthony Peeler MIN 11/30/1999 MIN vs. DEN W 18 7 2 4 50.0 1 3 33.3 2 2 100.0 0 2 2 2 0 0 1 1 9
+p745
+aVRasho Nesterovic MIN 11/30/1999 MIN vs. DEN W 18 6 3 6 50.0 0 1 0.0 0 1 0.0 1 2 3 0 0 2 0 3 9
+p746
+aVBobby Jackson MIN 11/30/1999 MIN vs. DEN W 17 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 3 0 1 1 4 -5
+p747
+aVJoe Smith MIN 11/30/1999 MIN vs. DEN W 35 26 12 16 75.0 0 0 - 2 7 28.6 1 8 9 1 1 3 0 5 23
+p748
+aVTerrell Brandon MIN 11/30/1999 MIN vs. DEN W 31 18 8 15 53.3 1 1 100.0 1 1 100.0 0 4 4 6 3 0 1 2 22
+p749
+aVSam Mitchell MIN 11/27/1999 MIN vs. VAN W 13 6 1 4 25.0 0 1 0.0 4 4 100.0 2 2 4 2 0 0 1 1 8
+p750
+aVTerrell Brandon MIN 11/27/1999 MIN vs. VAN W 23 12 5 8 62.5 1 2 50.0 1 1 100.0 1 0 1 6 2 0 1 3 23
+p751
+aVMalik Sealy MIN 11/27/1999 MIN vs. VAN W 14 10 5 8 62.5 0 0 - 0 0 - 3 0 3 1 0 0 0 1 17
+p752
+aVTom Hammonds MIN 11/27/1999 MIN vs. VAN W 12 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 2 3 0
+p753
+aVWally Szczerbiak MIN 11/27/1999 MIN vs. VAN W 33 14 6 10 60.0 0 1 0.0 2 2 100.0 0 2 2 5 1 0 0 2 25
+p754
+aVAnthony Peeler MIN 11/27/1999 MIN vs. VAN W 28 17 5 6 83.3 4 5 80.0 3 4 75.0 0 4 4 3 0 0 0 0 23
+p755
+aVJoe Smith MIN 11/27/1999 MIN vs. VAN W 23 16 5 9 55.6 0 0 - 6 6 100.0 1 4 5 4 1 1 0 2 27
+p756
+aVDean Garrett MIN 11/27/1999 MIN vs. VAN W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 1 1 0 6
+p757
+aVRasho Nesterovic MIN 11/27/1999 MIN vs. VAN W 19 2 1 6 16.7 0 0 - 0 0 - 2 3 5 0 0 4 3 6 3
+p758
+aVKevin Garnett MIN 11/27/1999 MIN vs. VAN W 29 20 10 16 62.5 0 0 - 0 2 0.0 0 5 5 3 3 0 2 0 21
+p759
+aVBobby Jackson MIN 11/27/1999 MIN vs. VAN W 25 8 3 7 42.9 0 0 - 2 4 50.0 3 4 7 4 1 1 3 2 8
+p760
+aVWilliam Avery MIN 11/27/1999 MIN vs. VAN W 6 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 1 -6
+p761
+aVDean Garrett MIN 11/26/1999 MIN @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p762
+aVTerrell Brandon MIN 11/26/1999 MIN @ DEN L 35 17 6 20 30.0 1 4 25.0 4 4 100.0 0 3 3 7 4 0 3 3 -8
+p763
+aVJoe Smith MIN 11/26/1999 MIN @ DEN L 35 18 7 11 63.6 0 0 - 4 6 66.7 1 8 9 1 0 1 3 5 -2
+p764
+aVWilliam Avery MIN 11/26/1999 MIN @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p765
+aVWally Szczerbiak MIN 11/26/1999 MIN @ DEN L 40 13 5 12 41.7 0 0 - 3 4 75.0 2 6 8 4 2 0 2 2 -8
+p766
+aVBobby Jackson MIN 11/26/1999 MIN @ DEN L 14 5 2 5 40.0 0 1 0.0 1 2 50.0 2 1 3 2 0 0 0 3 -3
+p767
+aVKevin Garnett MIN 11/26/1999 MIN @ DEN L 23 15 7 10 70.0 0 0 - 1 2 50.0 3 3 6 3 0 1 4 1 -7
+p768
+aVTom Hammonds MIN 11/26/1999 MIN @ DEN L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 0
+p769
+aVAnthony Peeler MIN 11/26/1999 MIN @ DEN L 25 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 1 1 0 2 4 -3
+p770
+aVMalik Sealy MIN 11/26/1999 MIN @ DEN L 23 13 5 10 50.0 0 0 - 3 5 60.0 1 1 2 1 1 0 0 2 -5
+p771
+aVSam Mitchell MIN 11/26/1999 MIN @ DEN L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p772
+aVRasho Nesterovic MIN 11/26/1999 MIN @ DEN L 26 9 2 5 40.0 0 0 - 5 8 62.5 3 6 9 0 2 1 1 5 -2
+p773
+aVDean Garrett MIN 11/24/1999 MIN vs. POR L 13 0 0 3 0.0 0 0 - 0 0 - 3 5 8 0 0 0 1 3 -3
+p774
+aVAnthony Peeler MIN 11/24/1999 MIN vs. POR L 23 4 2 9 22.2 0 3 0.0 0 0 - 0 2 2 1 1 0 1 2 -6
+p775
+aVBobby Jackson MIN 11/24/1999 MIN vs. POR L 12 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 0 0 3 -9
+p776
+aVRasho Nesterovic MIN 11/24/1999 MIN vs. POR L 18 1 0 6 0.0 0 0 - 1 2 50.0 1 0 1 0 1 1 0 2 -8
+p777
+aVTerrell Brandon MIN 11/24/1999 MIN vs. POR L 36 22 10 20 50.0 1 2 50.0 1 1 100.0 0 3 3 3 0 0 3 4 2
+p778
+aVKevin Garnett MIN 11/24/1999 MIN vs. POR L 43 11 4 24 16.7 0 1 0.0 3 6 50.0 6 13 19 7 1 4 1 3 -10
+p779
+aVWally Szczerbiak MIN 11/24/1999 MIN vs. POR L 40 26 9 13 69.2 1 2 50.0 7 7 100.0 2 4 6 4 1 1 0 4 2
+p780
+aVJoe Smith MIN 11/24/1999 MIN vs. POR L 22 4 2 4 50.0 0 0 - 0 0 - 5 2 7 0 0 0 0 3 7
+p781
+aVMalik Sealy MIN 11/24/1999 MIN vs. POR L 25 9 4 10 40.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -1
+p782
+aVSam Mitchell MIN 11/24/1999 MIN vs. POR L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -9
+p783
+aVJoe Smith MIN 11/22/1999 MIN @ UTA L 19 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 1 0 2 0 3 -9
+p784
+aVTerrell Brandon MIN 11/22/1999 MIN @ UTA L 42 21 8 14 57.1 1 1 100.0 4 4 100.0 1 1 2 7 1 0 5 1 -7
+p785
+aVDean Garrett MIN 11/22/1999 MIN @ UTA L 12 0 0 0 - 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -1
+p786
+aVKevin Garnett MIN 11/22/1999 MIN @ UTA L 31 20 6 12 50.0 0 1 0.0 8 9 88.9 0 7 7 2 0 2 4 5 -8
+p787
+aVBobby Jackson MIN 11/22/1999 MIN @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p788
+aVAnthony Peeler MIN 11/22/1999 MIN @ UTA L 20 6 1 9 11.1 0 3 0.0 4 4 100.0 0 1 1 1 1 0 1 4 -13
+p789
+aVWally Szczerbiak MIN 11/22/1999 MIN @ UTA L 28 6 3 10 30.0 0 2 0.0 0 0 - 2 1 3 2 1 0 1 1 -8
+p790
+aVSam Mitchell MIN 11/22/1999 MIN @ UTA L 18 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 1 0 2 -5
+p791
+aVRasho Nesterovic MIN 11/22/1999 MIN @ UTA L 36 11 4 7 57.1 0 0 - 3 6 50.0 3 2 5 2 0 2 3 3 -14
+p792
+aVMalik Sealy MIN 11/22/1999 MIN @ UTA L 28 15 7 11 63.6 0 1 0.0 1 2 50.0 1 3 4 3 1 0 3 4 -2
+p793
+aVDean Garrett MIN 11/21/1999 MIN @ VAN W 15 2 1 3 33.3 0 0 - 0 1 0.0 0 4 4 0 0 2 0 2 11
+p794
+aVJoe Smith MIN 11/21/1999 MIN @ VAN W 13 7 3 7 42.9 0 0 - 1 2 50.0 2 1 3 0 0 2 1 3 4
+p795
+aVAnthony Peeler MIN 11/21/1999 MIN @ VAN W 31 13 6 10 60.0 1 4 25.0 0 0 - 1 5 6 3 1 0 1 3 18
+p796
+aVRasho Nesterovic MIN 11/21/1999 MIN @ VAN W 33 12 5 7 71.4 0 0 - 2 3 66.7 3 5 8 2 1 3 1 3 13
+p797
+aVTerrell Brandon MIN 11/21/1999 MIN @ VAN W 35 18 7 13 53.8 0 0 - 4 4 100.0 0 1 1 8 2 0 2 4 26
+p798
+aVMalik Sealy MIN 11/21/1999 MIN @ VAN W 17 6 1 4 25.0 0 0 - 4 6 66.7 2 4 6 1 1 1 2 1 6
+p799
+aVWally Szczerbiak MIN 11/21/1999 MIN @ VAN W 37 19 8 11 72.7 0 0 - 3 4 75.0 1 1 2 3 1 1 2 1 31
+p800
+aVWilliam Avery MIN 11/21/1999 MIN @ VAN W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 6
+p801
+aVBobby Jackson MIN 11/21/1999 MIN @ VAN W 13 9 4 7 57.1 1 1 100.0 0 1 0.0 1 1 2 2 0 0 1 1 -2
+p802
+aVKevin Garnett MIN 11/21/1999 MIN @ VAN W 38 15 7 14 50.0 0 1 0.0 1 2 50.0 3 11 14 6 3 3 6 3 14
+p803
+aVSam Mitchell MIN 11/21/1999 MIN @ VAN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -13
+p804
+aVTom Hammonds MIN 11/21/1999 MIN @ VAN W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p805
+aVRasho Nesterovic MIN 11/19/1999 MIN vs. UTA W 30 8 3 10 30.0 0 0 - 2 4 50.0 5 5 10 1 0 2 5 1 -3
+p806
+aVAnthony Peeler MIN 11/19/1999 MIN vs. UTA W 30 13 4 11 36.4 1 4 25.0 4 4 100.0 2 2 4 4 1 0 0 1 6
+p807
+aVDean Garrett MIN 11/19/1999 MIN vs. UTA W 18 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 1 1 1 2 8
+p808
+aVJoe Smith MIN 11/19/1999 MIN vs. UTA W 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 3 3 -7
+p809
+aVWally Szczerbiak MIN 11/19/1999 MIN vs. UTA W 30 4 2 9 22.2 0 1 0.0 0 1 0.0 0 0 0 2 1 1 1 4 3
+p810
+aVTerrell Brandon MIN 11/19/1999 MIN vs. UTA W 30 10 5 12 41.7 0 1 0.0 0 0 - 0 3 3 6 1 2 3 5 16
+p811
+aVSam Mitchell MIN 11/19/1999 MIN vs. UTA W 18 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 1 1 1 0 1 2
+p812
+aVMalik Sealy MIN 11/19/1999 MIN vs. UTA W 18 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 0 0 0 2 -1
+p813
+aVBobby Jackson MIN 11/19/1999 MIN vs. UTA W 18 11 5 5 100.0 0 0 - 1 1 100.0 2 1 3 3 0 0 0 2 -11
+p814
+aVKevin Garnett MIN 11/19/1999 MIN vs. UTA W 40 29 10 18 55.6 0 0 - 9 12 75.0 1 10 11 3 3 0 4 4 12
+p815
+aVAnthony Peeler MIN 11/17/1999 MIN vs. LAC L 30 10 4 10 40.0 2 6 33.3 0 0 - 0 2 2 3 0 0 1 3 -1
+p816
+aVWally Szczerbiak MIN 11/17/1999 MIN vs. LAC L 35 11 4 11 36.4 0 2 0.0 3 4 75.0 3 2 5 2 0 0 2 3 -2
+p817
+aVSam Mitchell MIN 11/17/1999 MIN vs. LAC L 5 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p818
+aVMalik Sealy MIN 11/17/1999 MIN vs. LAC L 18 17 7 13 53.8 0 0 - 3 4 75.0 1 0 1 0 0 0 2 3 -3
+p819
+aVRasho Nesterovic MIN 11/17/1999 MIN vs. LAC L 19 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 1 1 6 -2
+p820
+aVKevin Garnett MIN 11/17/1999 MIN vs. LAC L 44 23 10 23 43.5 0 1 0.0 3 4 75.0 9 11 20 3 1 4 3 2 -3
+p821
+aVDean Garrett MIN 11/17/1999 MIN vs. LAC L 20 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 2 0 1 0 4 6
+p822
+aVBobby Jackson MIN 11/17/1999 MIN vs. LAC L 14 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 3 2 1 1 2 -2
+p823
+aVJoe Smith MIN 11/17/1999 MIN vs. LAC L 21 4 2 8 25.0 0 0 - 0 2 0.0 3 4 7 1 1 2 1 1 -13
+p824
+aVTerrell Brandon MIN 11/17/1999 MIN vs. LAC L 34 10 4 13 30.8 0 1 0.0 2 2 100.0 1 3 4 12 1 1 2 3 -2
+p825
+aVWilliam Avery MIN 11/13/1999 MIN vs. PHX W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -3
+p826
+aVAnthony Peeler MIN 11/13/1999 MIN vs. PHX W 28 7 3 7 42.9 1 2 50.0 0 0 - 0 4 4 6 0 0 1 4 -1
+p827
+aVRasho Nesterovic MIN 11/13/1999 MIN vs. PHX W 35 23 11 12 91.7 0 0 - 1 2 50.0 3 5 8 4 0 0 1 3 7
+p828
+aVTom Hammonds MIN 11/13/1999 MIN vs. PHX W 1 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p829
+aVSam Mitchell MIN 11/13/1999 MIN vs. PHX W 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p830
+aVKevin Garnett MIN 11/13/1999 MIN vs. PHX W 38 16 8 21 38.1 0 3 0.0 0 1 0.0 3 9 12 6 2 4 4 1 3
+p831
+aVMalik Sealy MIN 11/13/1999 MIN vs. PHX W 22 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 2 1 0 2 0 9
+p832
+aVBobby Jackson MIN 11/13/1999 MIN vs. PHX W 12 4 2 4 50.0 0 0 - 0 0 - 1 3 4 5 1 0 0 2 3
+p833
+aVJoe Smith MIN 11/13/1999 MIN vs. PHX W 18 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 1 0 1 2 16
+p834
+aVDean Garrett MIN 11/13/1999 MIN vs. PHX W 7 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 9
+p835
+aVWally Szczerbiak MIN 11/13/1999 MIN vs. PHX W 32 18 7 13 53.8 1 2 50.0 3 4 75.0 1 4 5 1 2 1 2 3 3
+p836
+aVTerrell Brandon MIN 11/13/1999 MIN vs. PHX W 36 21 10 17 58.8 0 0 - 1 1 100.0 0 5 5 9 4 0 3 0 6
+p837
+aVSam Mitchell MIN 11/11/1999 MIN vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p838
+aVJoe Smith MIN 11/11/1999 MIN vs. NYK W 30 10 3 6 50.0 0 0 - 4 5 80.0 2 4 6 1 0 1 0 2 9
+p839
+aVTerrell Brandon MIN 11/11/1999 MIN vs. NYK W 35 9 4 14 28.6 0 1 0.0 1 2 50.0 0 2 2 10 2 2 2 2 -4
+p840
+aVWally Szczerbiak MIN 11/11/1999 MIN vs. NYK W 35 23 8 13 61.5 0 1 0.0 7 7 100.0 0 2 2 2 0 1 1 2 -4
+p841
+aVAnthony Peeler MIN 11/11/1999 MIN vs. NYK W 35 2 1 7 14.3 0 3 0.0 0 0 - 0 4 4 4 0 0 1 3 -3
+p842
+aVMalik Sealy MIN 11/11/1999 MIN vs. NYK W 20 8 2 5 40.0 0 1 0.0 4 4 100.0 1 2 3 0 0 0 1 2 15
+p843
+aVKevin Garnett MIN 11/11/1999 MIN vs. NYK W 46 35 13 26 50.0 2 4 50.0 7 7 100.0 3 11 14 4 2 2 3 0 7
+p844
+aVBobby Jackson MIN 11/11/1999 MIN vs. NYK W 13 4 1 2 50.0 0 0 - 2 4 50.0 0 4 4 5 2 0 0 0 7
+p845
+aVRasho Nesterovic MIN 11/11/1999 MIN vs. NYK W 20 2 1 4 25.0 0 0 - 0 2 0.0 2 2 4 2 0 0 1 2 -10
+p846
+aVWally Szczerbiak MIN 11/06/1999 MIN vs. SAC W 33 14 7 12 58.3 0 1 0.0 0 0 - 4 2 6 4 2 0 1 1 4
+p847
+aVDean Garrett MIN 11/06/1999 MIN vs. SAC W 16 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 0 1 0 4 7
+p848
+aVKevin Garnett MIN 11/06/1999 MIN vs. SAC W 40 31 13 22 59.1 2 4 50.0 3 3 100.0 1 11 12 4 2 0 3 5 3
+p849
+aVRasho Nesterovic MIN 11/06/1999 MIN vs. SAC W 32 8 3 6 50.0 0 0 - 2 4 50.0 2 2 4 1 0 0 2 1 5
+p850
+aVTerrell Brandon MIN 11/06/1999 MIN vs. SAC W 28 15 7 15 46.7 0 1 0.0 1 1 100.0 0 3 3 13 2 0 2 4 6
+p851
+aVAnthony Peeler MIN 11/06/1999 MIN vs. SAC W 38 19 8 17 47.1 2 4 50.0 1 2 50.0 1 3 4 5 3 0 1 1 19
+p852
+aVBobby Jackson MIN 11/06/1999 MIN vs. SAC W 20 8 2 5 40.0 0 0 - 4 4 100.0 1 3 4 8 1 1 1 4 6
+p853
+aVMalik Sealy MIN 11/06/1999 MIN vs. SAC W 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -7
+p854
+aVJoe Smith MIN 11/06/1999 MIN vs. SAC W 23 17 6 9 66.7 0 0 - 5 5 100.0 2 6 8 1 0 0 3 5 17
+p855
+aVKevin Garnett MIN 11/05/1999 MIN @ SAC L 43 34 12 23 52.2 3 5 60.0 7 8 87.5 3 14 17 4 3 1 5 4 3
+p856
+aVDean Garrett MIN 11/05/1999 MIN @ SAC L 16 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -3
+p857
+aVJoe Smith MIN 11/05/1999 MIN @ SAC L 23 7 3 10 30.0 0 0 - 1 1 100.0 3 2 5 0 3 0 3 3 -9
+p858
+aVRasho Nesterovic MIN 11/05/1999 MIN @ SAC L 24 6 3 9 33.3 0 0 - 0 0 - 3 4 7 0 0 2 0 4 7
+p859
+aVTom Hammonds MIN 11/05/1999 MIN @ SAC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p860
+aVAnthony Peeler MIN 11/05/1999 MIN @ SAC L 34 17 7 17 41.2 3 6 50.0 0 0 - 2 3 5 5 1 0 1 1 6
+p861
+aVTerrell Brandon MIN 11/05/1999 MIN @ SAC L 37 18 8 20 40.0 0 0 - 2 3 66.7 0 2 2 12 3 0 3 5 -1
+p862
+aVWally Szczerbiak MIN 11/05/1999 MIN @ SAC L 33 7 3 8 37.5 0 2 0.0 1 2 50.0 1 4 5 1 2 0 1 4 -9
+p863
+aVMalik Sealy MIN 11/05/1999 MIN @ SAC L 14 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 0 1 2 3 -11
+p864
+aVBobby Jackson MIN 11/05/1999 MIN @ SAC L 11 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 4 0 0 2 1 -4
+p865
+a.

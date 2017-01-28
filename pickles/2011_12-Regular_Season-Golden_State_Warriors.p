@@ -1,0 +1,1396 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJeremy Tyler GSW 04/26/2012 GSW vs. SAS L 44 16 7 19 36.8 0 1 0.0 2 3 66.7 5 4 9 0 1 1 5 1 -11
+p2
+aVMikki Moore GSW 04/26/2012 GSW vs. SAS L 29 2 1 4 25.0 0 0 - 0 0 - 0 5 5 2 1 1 0 3 -3
+p3
+aVMickell Gladness GSW 04/26/2012 GSW vs. SAS L 39 14 7 10 70.0 0 0 - 0 0 - 2 7 9 2 0 1 0 1 -8
+p4
+aVDominic McGuire GSW 04/26/2012 GSW vs. SAS L 27 11 5 11 45.5 0 0 - 1 1 100.0 0 3 3 8 2 0 6 1 -4
+p5
+aVCharles Jenkins GSW 04/26/2012 GSW vs. SAS L 26 16 8 13 61.5 0 0 - 0 0 - 0 3 3 7 3 0 0 4 1
+p6
+aVChris Wright GSW 04/26/2012 GSW vs. SAS L 46 25 11 14 78.6 0 0 - 3 4 75.0 1 7 8 0 1 2 1 1 -2
+p7
+aVKlay Thompson GSW 04/26/2012 GSW vs. SAS L 29 17 6 16 37.5 2 7 28.6 3 4 75.0 0 5 5 6 0 0 3 3 -3
+p8
+aVJeremy Tyler GSW 04/24/2012 GSW vs. NOH L 40 13 5 17 29.4 0 0 - 3 5 60.0 2 6 8 2 1 0 1 6 6
+p9
+aVBrandon Rush GSW 04/24/2012 GSW vs. NOH L 17 15 6 9 66.7 3 4 75.0 0 0 - 1 3 4 1 1 0 1 0 2
+p10
+aVRichard Jefferson GSW 04/24/2012 GSW vs. NOH L 21 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 1 1 0 0 0 -1
+p11
+aVCharles Jenkins GSW 04/24/2012 GSW vs. NOH L 42 10 4 16 25.0 0 2 0.0 2 2 100.0 0 5 5 10 0 0 4 3 -12
+p12
+aVChris Wright GSW 04/24/2012 GSW vs. NOH L 27 5 2 4 50.0 0 0 - 1 2 50.0 5 2 7 1 0 1 1 2 -1
+p13
+aVKlay Thompson GSW 04/24/2012 GSW vs. NOH L 28 16 7 12 58.3 1 3 33.3 1 1 100.0 0 3 3 0 1 0 2 4 7
+p14
+aVMikki Moore GSW 04/24/2012 GSW vs. NOH L 20 5 2 5 40.0 0 0 - 1 1 100.0 0 2 2 1 0 1 2 3 -3
+p15
+aVDominic McGuire GSW 04/24/2012 GSW vs. NOH L 17 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 2 2 0 2 0 1
+p16
+aVMickell Gladness GSW 04/24/2012 GSW vs. NOH L 30 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 0 0 4 0 1 -9
+p17
+aVMickell Gladness GSW 04/22/2012 GSW @ MIN W 12 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 5 -13
+p18
+aVDominic McGuire GSW 04/22/2012 GSW @ MIN W 32 12 4 5 80.0 0 0 - 4 6 66.7 3 4 7 4 1 1 1 1 22
+p19
+aVMikki Moore GSW 04/22/2012 GSW @ MIN W 24 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 2 1 1 5 19
+p20
+aVCharles Jenkins GSW 04/22/2012 GSW @ MIN W 48 24 12 22 54.5 0 0 - 0 0 - 0 6 6 9 0 0 3 3 5
+p21
+aVRichard Jefferson GSW 04/22/2012 GSW @ MIN W 25 10 4 8 50.0 2 3 66.7 0 0 - 1 5 6 0 1 1 0 0 -14
+p22
+aVBrandon Rush GSW 04/22/2012 GSW @ MIN W 34 19 8 17 47.1 3 7 42.9 0 0 - 0 9 9 2 0 1 0 1 16
+p23
+aVKlay Thompson GSW 04/22/2012 GSW @ MIN W 43 17 8 21 38.1 0 6 0.0 1 1 100.0 1 3 4 3 1 2 3 1 8
+p24
+aVJeremy Tyler GSW 04/22/2012 GSW @ MIN W 22 8 4 12 33.3 0 0 - 0 1 0.0 3 3 6 0 1 1 0 1 -18
+p25
+aVJeremy Tyler GSW 04/21/2012 GSW @ HOU L 27 8 4 7 57.1 0 0 - 0 0 - 1 5 6 0 0 1 2 2 6
+p26
+aVMickell Gladness GSW 04/21/2012 GSW @ HOU L 12 4 1 2 50.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 0 -1
+p27
+aVDominic McGuire GSW 04/21/2012 GSW @ HOU L 29 8 3 7 42.9 0 0 - 2 2 100.0 3 1 4 2 2 1 0 2 -2
+p28
+aVCharles Jenkins GSW 04/21/2012 GSW @ HOU L 40 16 5 13 38.5 0 1 0.0 6 6 100.0 0 5 5 8 1 0 5 0 4
+p29
+aVMikki Moore GSW 04/21/2012 GSW @ HOU L 18 8 2 2 100.0 0 0 - 4 4 100.0 2 1 3 1 0 0 2 4 -15
+p30
+aVRichard Jefferson GSW 04/21/2012 GSW @ HOU L 37 9 4 12 33.3 0 6 0.0 1 1 100.0 1 5 6 2 1 2 2 3 -6
+p31
+aVKlay Thompson GSW 04/21/2012 GSW @ HOU L 43 24 9 19 47.4 2 5 40.0 4 4 100.0 0 4 4 3 1 0 3 3 -4
+p32
+aVBrandon Rush GSW 04/21/2012 GSW @ HOU L 34 19 8 11 72.7 3 4 75.0 0 1 0.0 0 7 7 1 1 1 3 2 3
+p33
+aVChris Wright GSW 04/20/2012 GSW @ DAL L 1 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 4
+p34
+aVBrandon Rush GSW 04/20/2012 GSW @ DAL L 32 20 9 12 75.0 2 5 40.0 0 0 - 1 7 8 2 1 2 0 2 -9
+p35
+aVJeremy Tyler GSW 04/20/2012 GSW @ DAL L 35 15 6 12 50.0 0 0 - 3 7 42.9 2 6 8 0 3 2 1 4 -6
+p36
+aVDominic McGuire GSW 04/20/2012 GSW @ DAL L 22 1 0 3 0.0 0 0 - 1 2 50.0 2 6 8 4 0 0 2 2 -10
+p37
+aVDorell Wright GSW 04/20/2012 GSW @ DAL L 31 19 5 14 35.7 4 9 44.4 5 6 83.3 2 2 4 0 2 0 2 2 -7
+p38
+aVMickell Gladness GSW 04/20/2012 GSW @ DAL L 12 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 2 -8
+p39
+aVCharles Jenkins GSW 04/20/2012 GSW @ DAL L 37 10 5 15 33.3 0 0 - 0 0 - 0 1 1 10 3 0 4 3 -4
+p40
+aVMikki Moore GSW 04/20/2012 GSW @ DAL L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p41
+aVKlay Thompson GSW 04/20/2012 GSW @ DAL L 40 26 11 22 50.0 3 4 75.0 1 2 50.0 0 3 3 4 1 0 1 3 -3
+p42
+aVRichard Jefferson GSW 04/20/2012 GSW @ DAL L 21 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 2 -6
+p43
+aVMickell Gladness GSW 04/18/2012 GSW vs. LAL L 23 8 4 8 50.0 0 0 - 0 0 - 1 4 5 0 1 1 0 2 8
+p44
+aVKlay Thompson GSW 04/18/2012 GSW vs. LAL L 43 17 7 22 31.8 1 8 12.5 2 2 100.0 0 4 4 5 1 0 3 3 -11
+p45
+aVDominic McGuire GSW 04/18/2012 GSW vs. LAL L 27 8 4 9 44.4 0 0 - 0 0 - 0 4 4 1 1 0 1 2 -18
+p46
+aVMikki Moore GSW 04/18/2012 GSW vs. LAL L 11 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -8
+p47
+aVBrandon Rush GSW 04/18/2012 GSW vs. LAL L 30 10 4 8 50.0 1 3 33.3 1 1 100.0 0 5 5 2 0 1 1 0 -11
+p48
+aVCharles Jenkins GSW 04/18/2012 GSW vs. LAL L 32 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 11 1 0 1 3 -3
+p49
+aVRichard Jefferson GSW 04/18/2012 GSW vs. LAL L 20 7 3 8 37.5 1 4 25.0 0 1 0.0 0 2 2 1 0 0 1 4 -14
+p50
+aVDorell Wright GSW 04/18/2012 GSW vs. LAL L 29 12 5 11 45.5 1 3 33.3 1 2 50.0 2 5 7 3 3 0 1 0 -8
+p51
+aVChris Wright GSW 04/18/2012 GSW vs. LAL L 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 9
+p52
+aVJeremy Tyler GSW 04/18/2012 GSW vs. LAL L 21 15 6 13 46.2 0 0 - 3 4 75.0 2 4 6 0 1 1 2 5 -4
+p53
+aVDorell Wright GSW 04/16/2012 GSW vs. SAS L 33 17 5 12 41.7 3 6 50.0 4 4 100.0 1 5 6 1 1 1 0 4 -15
+p54
+aVCharles Jenkins GSW 04/16/2012 GSW vs. SAS L 23 2 0 8 0.0 0 0 - 2 2 100.0 0 2 2 4 1 0 2 5 -5
+p55
+aVNate Robinson GSW 04/16/2012 GSW vs. SAS L 31 30 11 20 55.0 3 7 42.9 5 5 100.0 0 2 2 7 1 0 2 4 -4
+p56
+aVBrandon Rush GSW 04/16/2012 GSW vs. SAS L 23 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 -23
+p57
+aVJeremy Tyler GSW 04/16/2012 GSW vs. SAS L 33 11 5 13 38.5 0 0 - 1 2 50.0 5 5 10 2 1 0 3 4 -14
+p58
+aVMikki Moore GSW 04/16/2012 GSW vs. SAS L 9 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 0 1 5 -5
+p59
+aVKlay Thompson GSW 04/16/2012 GSW vs. SAS L 43 29 12 22 54.5 2 5 40.0 3 4 75.0 0 8 8 5 2 0 3 4 -24
+p60
+aVMickell Gladness GSW 04/16/2012 GSW vs. SAS L 14 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -17
+p61
+aVDominic McGuire GSW 04/16/2012 GSW vs. SAS L 15 2 1 4 25.0 0 0 - 0 0 - 1 3 4 3 1 0 2 1 -6
+p62
+aVChris Wright GSW 04/16/2012 GSW vs. SAS L 16 0 0 4 0.0 0 0 - 0 0 - 5 2 7 0 1 3 1 2 8
+p63
+aVBrandon Rush GSW 04/14/2012 GSW @ LAC L 36 22 8 13 61.5 3 7 42.9 3 5 60.0 1 4 5 4 0 3 3 0 7
+p64
+aVDorell Wright GSW 04/14/2012 GSW @ LAC L 41 23 7 15 46.7 4 9 44.4 5 6 83.3 2 5 7 1 1 0 2 2 -3
+p65
+aVAndris Biedrins GSW 04/14/2012 GSW @ LAC L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -22
+p66
+aVJeremy Tyler GSW 04/14/2012 GSW @ LAC L 24 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 0 0 2 5 -20
+p67
+aVNate Robinson GSW 04/14/2012 GSW @ LAC L 36 28 10 18 55.6 4 8 50.0 4 6 66.7 3 2 5 8 0 0 2 4 12
+p68
+aVDominic McGuire GSW 04/14/2012 GSW @ LAC L 27 0 0 4 0.0 0 0 - 0 0 - 1 10 11 5 1 0 0 5 8
+p69
+aVMickell Gladness GSW 04/14/2012 GSW @ LAC L 10 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 2 0 2 7
+p70
+aVCharles Jenkins GSW 04/14/2012 GSW @ LAC L 12 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 1 1 1 3 2 -20
+p71
+aVKlay Thompson GSW 04/14/2012 GSW @ LAC L 42 24 9 17 52.9 4 7 57.1 2 2 100.0 3 1 4 2 4 0 3 3 -9
+p72
+aVDorell Wright GSW 04/12/2012 GSW vs. DAL L 18 6 3 8 37.5 0 3 0.0 0 0 - 2 4 6 2 0 0 0 1 4
+p73
+aVMickell Gladness GSW 04/12/2012 GSW vs. DAL L 9 3 1 4 25.0 0 0 - 1 1 100.0 2 2 4 1 0 1 0 0 -3
+p74
+aVKlay Thompson GSW 04/12/2012 GSW vs. DAL L 40 24 8 17 47.1 3 6 50.0 5 5 100.0 0 7 7 8 2 1 2 1 1
+p75
+aVDavid Lee GSW 04/12/2012 GSW vs. DAL L 40 30 11 20 55.0 0 0 - 8 9 88.9 6 2 8 1 1 0 5 3 -3
+p76
+aVCharles Jenkins GSW 04/12/2012 GSW vs. DAL L 24 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 4 1 0 3 1 -6
+p77
+aVAndris Biedrins GSW 04/12/2012 GSW vs. DAL L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p78
+aVRichard Jefferson GSW 04/12/2012 GSW vs. DAL L 24 7 1 4 25.0 1 3 33.3 4 6 66.7 0 6 6 3 0 0 0 3 -16
+p79
+aVNate Robinson GSW 04/12/2012 GSW vs. DAL L 24 10 4 8 50.0 2 3 66.7 0 0 - 0 1 1 6 1 0 3 1 -3
+p80
+aVDominic McGuire GSW 04/12/2012 GSW vs. DAL L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p81
+aVJeremy Tyler GSW 04/12/2012 GSW vs. DAL L 12 2 1 4 25.0 0 0 - 0 0 - 3 2 5 1 2 0 1 2 1
+p82
+aVBrandon Rush GSW 04/12/2012 GSW vs. DAL L 30 9 4 7 57.1 1 3 33.3 0 0 - 0 3 3 1 0 0 0 1 -6
+p83
+aVDavid Lee GSW 04/11/2012 GSW @ POR L 39 21 8 19 42.1 0 0 - 5 6 83.3 1 13 14 6 1 0 4 5 -9
+p84
+aVBrandon Rush GSW 04/11/2012 GSW @ POR L 25 13 5 7 71.4 2 3 66.7 1 1 100.0 2 3 5 1 1 1 1 2 4
+p85
+aVRichard Jefferson GSW 04/11/2012 GSW @ POR L 22 15 6 10 60.0 3 4 75.0 0 0 - 0 0 0 2 0 0 1 1 9
+p86
+aVNate Robinson GSW 04/11/2012 GSW @ POR L 29 19 9 15 60.0 0 3 0.0 1 2 50.0 0 1 1 8 1 0 3 4 4
+p87
+aVAndris Biedrins GSW 04/11/2012 GSW @ POR L 16 0 0 0 - 0 0 - 0 0 - 1 1 2 2 1 2 0 1 -4
+p88
+aVJeremy Tyler GSW 04/11/2012 GSW @ POR L 13 6 3 7 42.9 0 0 - 0 1 0.0 2 1 3 0 0 0 1 3 -10
+p89
+aVDominic McGuire GSW 04/11/2012 GSW @ POR L 21 8 4 8 50.0 0 0 - 0 0 - 3 1 4 2 0 0 0 1 8
+p90
+aVKlay Thompson GSW 04/11/2012 GSW @ POR L 30 12 5 9 55.6 2 3 66.7 0 0 - 0 4 4 2 0 1 1 1 -18
+p91
+aVCharles Jenkins GSW 04/11/2012 GSW @ POR L 19 5 2 6 33.3 0 0 - 1 1 100.0 0 0 0 2 0 0 1 1 -12
+p92
+aVDorell Wright GSW 04/11/2012 GSW @ POR L 25 11 5 9 55.6 1 3 33.3 0 0 - 1 4 5 2 2 0 2 3 -12
+p93
+aVMickell Gladness GSW 04/09/2012 GSW @ DEN L 13 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 0 1 3 1 0 -7
+p94
+aVCharles Jenkins GSW 04/09/2012 GSW @ DEN L 29 6 3 7 42.9 0 0 - 0 1 0.0 1 0 1 5 2 1 0 3 -37
+p95
+aVJeremy Tyler GSW 04/09/2012 GSW @ DEN L 21 3 1 5 20.0 0 0 - 1 2 50.0 0 4 4 1 0 3 1 5 -26
+p96
+aVDorell Wright GSW 04/09/2012 GSW @ DEN L 20 8 3 8 37.5 2 6 33.3 0 0 - 0 0 0 0 1 0 1 3 -25
+p97
+aVChris Wright GSW 04/09/2012 GSW @ DEN L 8 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 1 0 1 2 -6
+p98
+aVKlay Thompson GSW 04/09/2012 GSW @ DEN L 29 17 5 13 38.5 4 7 57.1 3 3 100.0 0 1 1 1 0 0 2 2 -33
+p99
+aVBrandon Rush GSW 04/09/2012 GSW @ DEN L 24 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 1 0 2 1 0 -14
+p100
+aVNate Robinson GSW 04/09/2012 GSW @ DEN L 19 16 6 11 54.5 4 6 66.7 0 0 - 0 2 2 5 0 0 2 1 -2
+p101
+aVDavid Lee GSW 04/09/2012 GSW @ DEN L 24 10 4 15 26.7 0 0 - 2 4 50.0 2 1 3 3 2 0 3 4 -36
+p102
+aVDominic McGuire GSW 04/09/2012 GSW @ DEN L 18 6 3 4 75.0 0 0 - 0 0 - 1 2 3 4 0 0 1 1 4
+p103
+aVRichard Jefferson GSW 04/09/2012 GSW @ DEN L 20 7 3 9 33.3 1 4 25.0 0 0 - 0 2 2 0 2 0 1 2 -8
+p104
+aVAndris Biedrins GSW 04/09/2012 GSW @ DEN L 17 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 3 0 3 -5
+p105
+aVKlay Thompson GSW 04/07/2012 GSW vs. DEN W 22 15 6 11 54.5 2 5 40.0 1 2 50.0 0 2 2 0 0 2 1 2 13
+p106
+aVRichard Jefferson GSW 04/07/2012 GSW vs. DEN W 26 10 3 5 60.0 1 2 50.0 3 4 75.0 0 4 4 3 0 0 0 2 17
+p107
+aVJeremy Tyler GSW 04/07/2012 GSW vs. DEN W 17 10 4 9 44.4 0 0 - 2 2 100.0 5 3 8 0 0 2 4 4 1
+p108
+aVBrandon Rush GSW 04/07/2012 GSW vs. DEN W 30 20 8 17 47.1 4 6 66.7 0 0 - 1 4 5 2 0 0 1 0 11
+p109
+aVDominic McGuire GSW 04/07/2012 GSW vs. DEN W 17 9 4 7 57.1 0 0 - 1 1 100.0 1 0 1 2 3 1 1 2 5
+p110
+aVMickell Gladness GSW 04/07/2012 GSW vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p111
+aVNate Robinson GSW 04/07/2012 GSW vs. DEN W 25 14 5 10 50.0 1 4 25.0 3 3 100.0 0 1 1 7 1 0 0 3 17
+p112
+aVAndris Biedrins GSW 04/07/2012 GSW vs. DEN W 18 4 2 2 100.0 0 0 - 0 0 - 3 3 6 0 1 2 1 1 -1
+p113
+aVDorell Wright GSW 04/07/2012 GSW vs. DEN W 20 11 5 8 62.5 0 2 0.0 1 2 50.0 1 2 3 2 2 1 0 0 -1
+p114
+aVCharles Jenkins GSW 04/07/2012 GSW vs. DEN W 23 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 8 1 0 2 2 -2
+p115
+aVChris Wright GSW 04/07/2012 GSW vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p116
+aVDavid Lee GSW 04/07/2012 GSW vs. DEN W 38 17 8 15 53.3 0 1 0.0 1 2 50.0 3 6 9 1 1 0 3 2 17
+p117
+aVKlay Thompson GSW 04/06/2012 GSW @ UTA L 32 23 9 16 56.3 4 5 80.0 1 1 100.0 1 4 5 1 3 0 4 2 -9
+p118
+aVJeremy Tyler GSW 04/06/2012 GSW @ UTA L 20 14 6 9 66.7 0 0 - 2 2 100.0 2 3 5 0 0 0 1 2 -12
+p119
+aVAndris Biedrins GSW 04/06/2012 GSW @ UTA L 27 0 0 2 0.0 0 0 - 0 0 - 2 5 7 1 0 1 2 4 4
+p120
+aVDominic McGuire GSW 04/06/2012 GSW @ UTA L 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 0 0
+p121
+aVDavid Lee GSW 04/06/2012 GSW @ UTA L 38 26 10 16 62.5 0 0 - 6 7 85.7 6 6 12 4 0 0 3 1 -6
+p122
+aVDorell Wright GSW 04/06/2012 GSW @ UTA L 32 6 3 12 25.0 0 4 0.0 0 0 - 1 1 2 3 2 1 1 3 -6
+p123
+aVBrandon Rush GSW 04/06/2012 GSW @ UTA L 18 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 0 2 0 2 1 3
+p124
+aVCharles Jenkins GSW 04/06/2012 GSW @ UTA L 25 8 4 9 44.4 0 0 - 0 0 - 1 0 1 7 1 0 1 4 -2
+p125
+aVRichard Jefferson GSW 04/06/2012 GSW @ UTA L 15 5 1 4 25.0 1 2 50.0 2 2 100.0 0 4 4 0 0 0 0 1 2
+p126
+aVNate Robinson GSW 04/06/2012 GSW @ UTA L 23 6 2 10 20.0 2 6 33.3 0 0 - 0 0 0 4 1 0 3 3 -4
+p127
+aVBrandon Rush GSW 04/04/2012 GSW @ MIN W 22 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 3 1 2 1 0 -10
+p128
+aVNate Robinson GSW 04/04/2012 GSW @ MIN W 15 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 4 1 0 3 0 -3
+p129
+aVDorell Wright GSW 04/04/2012 GSW @ MIN W 26 11 4 8 50.0 0 4 0.0 3 3 100.0 1 5 6 2 3 1 0 0 21
+p130
+aVJeremy Tyler GSW 04/04/2012 GSW @ MIN W 25 6 3 6 50.0 0 0 - 0 0 - 1 3 4 2 2 3 0 2 13
+p131
+aVDavid Lee GSW 04/04/2012 GSW @ MIN W 42 31 13 25 52.0 0 0 - 5 7 71.4 1 7 8 3 0 2 2 3 14
+p132
+aVAndris Biedrins GSW 04/04/2012 GSW @ MIN W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -8
+p133
+aVKlay Thompson GSW 04/04/2012 GSW @ MIN W 25 13 6 16 37.5 1 5 20.0 0 0 - 0 4 4 0 1 0 2 1 7
+p134
+aVRichard Jefferson GSW 04/04/2012 GSW @ MIN W 27 13 5 7 71.4 3 3 100.0 0 0 - 1 1 2 3 2 0 1 1 -14
+p135
+aVMickell Gladness GSW 04/04/2012 GSW @ MIN W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p136
+aVDominic McGuire GSW 04/04/2012 GSW @ MIN W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -16
+p137
+aVCharles Jenkins GSW 04/04/2012 GSW @ MIN W 33 19 8 13 61.5 0 1 0.0 3 6 50.0 2 2 4 7 0 0 2 4 7
+p138
+aVCharles Jenkins GSW 04/03/2012 GSW @ MEM L 23 7 3 7 42.9 0 0 - 1 1 100.0 0 3 3 2 1 1 1 0 -2
+p139
+aVBrandon Rush GSW 04/03/2012 GSW @ MEM L 26 13 4 7 57.1 2 3 66.7 3 5 60.0 0 2 2 2 1 0 0 1 -8
+p140
+aVDorell Wright GSW 04/03/2012 GSW @ MEM L 17 8 3 7 42.9 2 5 40.0 0 0 - 1 0 1 0 0 0 0 1 1
+p141
+aVJeremy Tyler GSW 04/03/2012 GSW @ MEM L 30 9 4 8 50.0 0 0 - 1 2 50.0 3 8 11 1 2 1 3 2 -2
+p142
+aVNate Robinson GSW 04/03/2012 GSW @ MEM L 25 18 8 17 47.1 2 6 33.3 0 0 - 0 2 2 5 1 0 0 3 -2
+p143
+aVDominic McGuire GSW 04/03/2012 GSW @ MEM L 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -5
+p144
+aVKlay Thompson GSW 04/03/2012 GSW @ MEM L 23 6 2 8 25.0 0 2 0.0 2 2 100.0 0 1 1 2 1 1 3 2 6
+p145
+aVRichard Jefferson GSW 04/03/2012 GSW @ MEM L 31 7 2 3 66.7 1 2 50.0 2 2 100.0 2 1 3 0 1 0 2 2 -5
+p146
+aVDavid Lee GSW 04/03/2012 GSW @ MEM L 38 22 10 22 45.5 0 0 - 2 4 50.0 2 11 13 4 1 0 3 1 1
+p147
+aVAndris Biedrins GSW 04/03/2012 GSW @ MEM L 18 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 0 1 4 -4
+p148
+aVAndris Biedrins GSW 04/01/2012 GSW @ LAL L 18 0 0 0 - 0 0 - 0 0 - 2 3 5 1 1 0 0 3 1
+p149
+aVDominic McGuire GSW 04/01/2012 GSW @ LAL L 28 4 2 4 50.0 0 0 - 0 0 - 2 2 4 4 2 0 0 1 -8
+p150
+aVBrandon Rush GSW 04/01/2012 GSW @ LAL L 20 4 1 6 16.7 0 1 0.0 2 2 100.0 1 0 1 1 0 1 1 1 -15
+p151
+aVRichard Jefferson GSW 04/01/2012 GSW @ LAL L 25 16 6 8 75.0 4 4 100.0 0 0 - 0 3 3 0 0 1 0 1 -3
+p152
+aVCharles Jenkins GSW 04/01/2012 GSW @ LAL L 22 10 4 6 66.7 0 0 - 2 2 100.0 0 1 1 6 2 0 0 1 -7
+p153
+aVJeremy Tyler GSW 04/01/2012 GSW @ LAL L 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 1
+p154
+aVKlay Thompson GSW 04/01/2012 GSW @ LAL L 28 18 8 16 50.0 2 8 25.0 0 1 0.0 0 2 2 3 1 0 0 5 4
+p155
+aVDavid Lee GSW 04/01/2012 GSW @ LAL L 41 27 10 25 40.0 0 0 - 7 8 87.5 2 4 6 7 1 1 3 2 -7
+p156
+aVNate Robinson GSW 04/01/2012 GSW @ LAL L 26 17 6 13 46.2 5 6 83.3 0 0 - 0 2 2 7 2 0 1 5 -1
+p157
+aVDorell Wright GSW 04/01/2012 GSW @ LAL L 20 14 6 8 75.0 0 2 0.0 2 2 100.0 1 3 4 1 0 2 0 1 -5
+p158
+aVMickell Gladness GSW 03/30/2012 GSW vs. NJN L 12 6 3 4 75.0 0 0 - 0 1 0.0 0 3 3 0 0 0 0 0 0
+p159
+aVDorell Wright GSW 03/30/2012 GSW vs. NJN L 16 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 2 0 0 0 3 13
+p160
+aVRichard Jefferson GSW 03/30/2012 GSW vs. NJN L 20 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 1 1 0 1 1 -7
+p161
+aVDavid Lee GSW 03/30/2012 GSW vs. NJN L 40 27 12 16 75.0 0 0 - 3 4 75.0 1 5 6 3 4 0 7 3 -3
+p162
+aVDominic McGuire GSW 03/30/2012 GSW vs. NJN L 28 7 2 3 66.7 0 0 - 3 4 75.0 2 7 9 2 1 1 1 2 -14
+p163
+aVBrandon Rush GSW 03/30/2012 GSW vs. NJN L 33 11 5 8 62.5 1 2 50.0 0 0 - 0 2 2 1 0 2 2 2 -10
+p164
+aVCharles Jenkins GSW 03/30/2012 GSW vs. NJN L 37 18 6 12 50.0 1 2 50.0 5 5 100.0 0 2 2 12 2 0 3 1 -7
+p165
+aVKlay Thompson GSW 03/30/2012 GSW vs. NJN L 27 14 5 13 38.5 4 6 66.7 0 0 - 1 1 2 1 0 0 0 4 0
+p166
+aVNate Robinson GSW 03/30/2012 GSW vs. NJN L 11 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 4 2 0 2 4 5
+p167
+aVJeremy Tyler GSW 03/30/2012 GSW vs. NJN L 16 10 5 10 50.0 0 0 - 0 0 - 1 3 4 0 1 0 1 1 13
+p168
+aVKlay Thompson GSW 03/28/2012 GSW vs. NOH L 28 13 5 10 50.0 2 5 40.0 1 2 50.0 0 3 3 3 1 1 5 2 -3
+p169
+aVDorell Wright GSW 03/28/2012 GSW vs. NOH L 30 12 4 10 40.0 4 8 50.0 0 0 - 0 2 2 0 1 0 2 1 -6
+p170
+aVDavid Lee GSW 03/28/2012 GSW vs. NOH L 41 28 12 21 57.1 0 1 0.0 4 5 80.0 2 5 7 5 1 2 3 3 -5
+p171
+aVCharles Jenkins GSW 03/28/2012 GSW vs. NOH L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 4 -1
+p172
+aVMickell Gladness GSW 03/28/2012 GSW vs. NOH L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p173
+aVRichard Jefferson GSW 03/28/2012 GSW vs. NOH L 24 8 2 6 33.3 2 4 50.0 2 4 50.0 0 4 4 2 0 0 1 2 -15
+p174
+aVDominic McGuire GSW 03/28/2012 GSW vs. NOH L 28 4 2 6 33.3 0 1 0.0 0 0 - 3 2 5 1 0 0 1 1 -18
+p175
+aVJeremy Tyler GSW 03/28/2012 GSW vs. NOH L 13 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 1 1 0 7
+p176
+aVNate Robinson GSW 03/28/2012 GSW vs. NOH L 23 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 6 0 0 0 3 -13
+p177
+aVBrandon Rush GSW 03/28/2012 GSW vs. NOH L 33 12 3 8 37.5 2 6 33.3 4 4 100.0 1 2 3 1 1 1 3 0 -17
+p178
+aVKeith Benson GSW 03/28/2012 GSW vs. NOH L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p179
+aVJeremy Tyler GSW 03/27/2012 GSW vs. LAL L 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -1
+p180
+aVBrandon Rush GSW 03/27/2012 GSW vs. LAL L 33 23 9 15 60.0 2 3 66.7 3 3 100.0 0 3 3 1 0 2 0 1 -4
+p181
+aVRichard Jefferson GSW 03/27/2012 GSW vs. LAL L 34 6 2 7 28.6 2 5 40.0 0 0 - 0 4 4 1 0 0 0 0 6
+p182
+aVDavid Lee GSW 03/27/2012 GSW vs. LAL L 41 23 8 21 38.1 0 0 - 7 8 87.5 4 5 9 4 0 1 1 6 -9
+p183
+aVCharles Jenkins GSW 03/27/2012 GSW vs. LAL L 25 12 4 9 44.4 0 0 - 4 4 100.0 0 1 1 3 1 0 1 1 -8
+p184
+aVDominic McGuire GSW 03/27/2012 GSW vs. LAL L 29 4 1 3 33.3 0 1 0.0 2 2 100.0 0 7 7 5 0 3 1 5 11
+p185
+aVKlay Thompson GSW 03/27/2012 GSW vs. LAL L 38 20 10 25 40.0 0 5 0.0 0 0 - 3 2 5 7 2 0 1 4 -5
+p186
+aVDorell Wright GSW 03/27/2012 GSW vs. LAL L 24 13 5 8 62.5 2 5 40.0 1 1 100.0 0 3 3 1 1 1 0 4 -7
+p187
+aVMickell Gladness GSW 03/27/2012 GSW vs. LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 2
+p188
+aVRichard Jefferson GSW 03/25/2012 GSW @ POR L 35 14 6 12 50.0 2 4 50.0 0 0 - 0 2 2 1 0 1 1 1 8
+p189
+aVDavid Lee GSW 03/25/2012 GSW @ POR L 41 16 4 12 33.3 0 0 - 8 9 88.9 3 13 16 4 1 0 1 6 -11
+p190
+aVBrandon Rush GSW 03/25/2012 GSW @ POR L 41 10 3 8 37.5 2 6 33.3 2 2 100.0 0 11 11 3 1 4 3 1 1
+p191
+aVDorell Wright GSW 03/25/2012 GSW @ POR L 13 0 0 4 0.0 0 2 0.0 0 0 - 2 2 4 0 0 0 1 0 -11
+p192
+aVKlay Thompson GSW 03/25/2012 GSW @ POR L 33 16 5 11 45.5 2 6 33.3 4 4 100.0 0 2 2 2 0 0 4 4 -2
+p193
+aVMickell Gladness GSW 03/25/2012 GSW @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -3
+p194
+aVKeith Benson GSW 03/25/2012 GSW @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p195
+aVDominic McGuire GSW 03/25/2012 GSW @ POR L 20 4 1 3 33.3 0 0 - 2 2 100.0 1 4 5 2 0 0 0 0 -3
+p196
+aVJeremy Tyler GSW 03/25/2012 GSW @ POR L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -5
+p197
+aVCharles Jenkins GSW 03/25/2012 GSW @ POR L 40 27 13 22 59.1 1 4 25.0 0 0 - 0 2 2 6 0 0 4 2 3
+p198
+aVKeith Benson GSW 03/24/2012 GSW vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p199
+aVBrandon Rush GSW 03/24/2012 GSW vs. SAC W 27 11 4 6 66.7 1 2 50.0 2 2 100.0 0 4 4 1 0 0 1 0 2
+p200
+aVNate Robinson GSW 03/24/2012 GSW vs. SAC W 18 10 5 8 62.5 0 1 0.0 0 0 - 0 4 4 8 2 0 0 1 10
+p201
+aVCharles Jenkins GSW 03/24/2012 GSW vs. SAC W 24 8 3 7 42.9 0 1 0.0 2 2 100.0 0 0 0 3 0 0 3 2 -4
+p202
+aVDorell Wright GSW 03/24/2012 GSW vs. SAC W 22 6 2 4 50.0 2 4 50.0 0 0 - 0 4 4 2 0 0 0 1 0
+p203
+aVMickell Gladness GSW 03/24/2012 GSW vs. SAC W 10 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 1 2 0 4 0
+p204
+aVDominic McGuire GSW 03/24/2012 GSW vs. SAC W 16 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 1 0 1 2 5 -5
+p205
+aVDavid Lee GSW 03/24/2012 GSW vs. SAC W 41 22 9 20 45.0 0 0 - 4 6 66.7 2 12 14 9 0 0 3 3 8
+p206
+aVJeremy Tyler GSW 03/24/2012 GSW vs. SAC W 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 1 4 -3
+p207
+aVRichard Jefferson GSW 03/24/2012 GSW vs. SAC W 26 7 3 10 30.0 0 4 0.0 1 2 50.0 0 3 3 3 0 0 0 1 3
+p208
+aVKlay Thompson GSW 03/24/2012 GSW vs. SAC W 42 31 10 20 50.0 4 9 44.4 7 7 100.0 0 1 1 2 2 2 2 4 6
+p209
+aVBrandon Rush GSW 03/22/2012 GSW @ HOU L 25 9 4 10 40.0 1 6 16.7 0 0 - 0 4 4 2 0 3 0 1 -3
+p210
+aVDavid Lee GSW 03/22/2012 GSW @ HOU L 33 12 6 14 42.9 0 0 - 0 0 - 2 3 5 1 0 0 3 3 -20
+p211
+aVDominic McGuire GSW 03/22/2012 GSW @ HOU L 24 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 4 2 0 4 3 -18
+p212
+aVJeremy Tyler GSW 03/22/2012 GSW @ HOU L 12 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -14
+p213
+aVMickell Gladness GSW 03/22/2012 GSW @ HOU L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 1 0 -4
+p214
+aVCharles Jenkins GSW 03/22/2012 GSW @ HOU L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 6 1 0 1 2 -6
+p215
+aVRichard Jefferson GSW 03/22/2012 GSW @ HOU L 30 14 6 10 60.0 2 2 100.0 0 0 - 1 2 3 0 0 0 1 3 -6
+p216
+aVDorell Wright GSW 03/22/2012 GSW @ HOU L 19 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 2 0 0 2 0 -17
+p217
+aVNate Robinson GSW 03/22/2012 GSW @ HOU L 28 11 3 10 30.0 1 2 50.0 4 4 100.0 1 1 2 2 1 0 1 3 -20
+p218
+aVKlay Thompson GSW 03/22/2012 GSW @ HOU L 28 10 4 11 36.4 0 2 0.0 2 2 100.0 0 1 1 3 1 0 2 2 -19
+p219
+aVChris Wright GSW 03/22/2012 GSW @ HOU L 11 8 3 6 50.0 0 0 - 2 2 100.0 1 0 1 1 0 1 0 3 -3
+p220
+aVBrandon Rush GSW 03/21/2012 GSW @ NOH W 30 16 6 10 60.0 4 7 57.1 0 0 - 0 2 2 0 1 2 0 1 11
+p221
+aVDominic McGuire GSW 03/21/2012 GSW @ NOH W 19 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 4 1 1 1
+p222
+aVJeremy Tyler GSW 03/21/2012 GSW @ NOH W 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 2 0 2 6
+p223
+aVCharles Jenkins GSW 03/21/2012 GSW @ NOH W 19 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 2 1 0 0 -1
+p224
+aVNate Robinson GSW 03/21/2012 GSW @ NOH W 29 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 10 2 0 2 4 8
+p225
+aVRichard Jefferson GSW 03/21/2012 GSW @ NOH W 29 8 3 9 33.3 2 5 40.0 0 0 - 0 5 5 2 1 1 2 3 10
+p226
+aVDavid Lee GSW 03/21/2012 GSW @ NOH W 40 25 9 19 47.4 0 0 - 7 8 87.5 4 7 11 3 1 0 1 1 6
+p227
+aVDorell Wright GSW 03/21/2012 GSW @ NOH W 17 8 3 8 37.5 2 5 40.0 0 0 - 1 3 4 2 0 0 0 1 -5
+p228
+aVKlay Thompson GSW 03/21/2012 GSW @ NOH W 41 27 11 24 45.8 4 8 50.0 1 1 100.0 2 3 5 5 1 0 3 3 9
+p229
+aVCharles Jenkins GSW 03/19/2012 GSW vs. MIN L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 2
+p230
+aVDavid Lee GSW 03/19/2012 GSW vs. MIN L 39 25 9 18 50.0 0 1 0.0 7 10 70.0 4 5 9 3 1 0 1 2 5
+p231
+aVDominic McGuire GSW 03/19/2012 GSW vs. MIN L 34 2 1 5 20.0 0 0 - 0 0 - 2 7 9 4 1 1 0 4 7
+p232
+aVRichard Jefferson GSW 03/19/2012 GSW vs. MIN L 29 19 6 10 60.0 2 4 50.0 5 6 83.3 0 4 4 2 2 0 2 4 -10
+p233
+aVDorell Wright GSW 03/19/2012 GSW vs. MIN L 35 8 3 7 42.9 2 6 33.3 0 0 - 0 4 4 0 2 2 1 1 -9
+p234
+aVNate Robinson GSW 03/19/2012 GSW vs. MIN L 33 13 4 12 33.3 2 5 40.0 3 4 75.0 0 2 2 7 1 0 1 4 1
+p235
+aVBrandon Rush GSW 03/19/2012 GSW vs. MIN L 31 9 4 9 44.4 1 4 25.0 0 0 - 0 3 3 3 0 1 1 0 -11
+p236
+aVKlay Thompson GSW 03/19/2012 GSW vs. MIN L 23 17 7 18 38.9 3 6 50.0 0 0 - 0 1 1 1 1 1 1 3 1
+p237
+aVAndris Biedrins GSW 03/19/2012 GSW vs. MIN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -6
+p238
+aVBrandon Rush GSW 03/17/2012 GSW @ UTA L 22 4 0 0 - 0 0 - 4 4 100.0 0 3 3 1 1 1 1 2 -7
+p239
+aVDominic McGuire GSW 03/17/2012 GSW @ UTA L 11 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 1 1 1 0 -8
+p240
+aVNate Robinson GSW 03/17/2012 GSW @ UTA L 35 19 6 15 40.0 2 6 33.3 5 6 83.3 0 3 3 4 2 0 1 5 0
+p241
+aVDavid Lee GSW 03/17/2012 GSW @ UTA L 39 18 8 15 53.3 0 0 - 2 3 66.7 0 7 7 2 0 1 3 4 -8
+p242
+aVAndris Biedrins GSW 03/17/2012 GSW @ UTA L 24 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 1 0 3 0
+p243
+aVDorell Wright GSW 03/17/2012 GSW @ UTA L 44 13 5 10 50.0 1 4 25.0 2 2 100.0 1 9 10 0 2 1 0 3 3
+p244
+aVCharles Jenkins GSW 03/17/2012 GSW @ UTA L 14 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -1
+p245
+aVKlay Thompson GSW 03/17/2012 GSW @ UTA L 39 17 6 16 37.5 2 8 25.0 3 3 100.0 0 2 2 2 3 1 3 2 -4
+p246
+aVRichard Jefferson GSW 03/17/2012 GSW @ UTA L 38 9 2 14 14.3 1 7 14.3 4 7 57.1 2 5 7 3 0 1 2 1 -10
+p247
+aVAndris Biedrins GSW 03/16/2012 GSW vs. MIL L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -8
+p248
+aVDominic McGuire GSW 03/16/2012 GSW vs. MIL L 28 11 5 7 71.4 0 0 - 1 2 50.0 0 2 2 2 0 1 1 4 2
+p249
+aVKlay Thompson GSW 03/16/2012 GSW vs. MIL L 36 19 6 17 35.3 3 5 60.0 4 4 100.0 1 2 3 4 1 0 0 2 -20
+p250
+aVJeremy Tyler GSW 03/16/2012 GSW vs. MIL L 5 3 1 5 20.0 0 0 - 1 1 100.0 1 1 2 1 0 0 0 2 -4
+p251
+aVDorell Wright GSW 03/16/2012 GSW vs. MIL L 34 17 5 12 41.7 4 9 44.4 3 3 100.0 0 7 7 1 1 2 1 3 -24
+p252
+aVBrandon Rush GSW 03/16/2012 GSW vs. MIL L 35 10 3 10 30.0 2 5 40.0 2 2 100.0 3 4 7 4 0 0 2 0 -11
+p253
+aVNate Robinson GSW 03/16/2012 GSW vs. MIL L 39 13 5 12 41.7 1 3 33.3 2 2 100.0 1 2 3 6 3 0 1 2 -6
+p254
+aVCharles Jenkins GSW 03/16/2012 GSW vs. MIL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -13
+p255
+aVChris Wright GSW 03/16/2012 GSW vs. MIL L 9 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 2 -7
+p256
+aVDavid Lee GSW 03/16/2012 GSW vs. MIL L 36 22 9 14 64.3 0 0 - 4 4 100.0 1 8 9 2 0 0 6 1 -19
+p257
+aVDorell Wright GSW 03/14/2012 GSW vs. BOS L 33 16 5 9 55.6 2 5 40.0 4 4 100.0 2 5 7 1 1 0 3 2 6
+p258
+aVDavid Lee GSW 03/14/2012 GSW vs. BOS L 41 22 8 17 47.1 0 0 - 6 6 100.0 2 6 8 3 2 0 1 3 -3
+p259
+aVBrandon Rush GSW 03/14/2012 GSW vs. BOS L 30 7 3 6 50.0 0 2 0.0 1 2 50.0 1 4 5 3 1 1 3 0 -5
+p260
+aVJeremy Tyler GSW 03/14/2012 GSW vs. BOS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p261
+aVCharles Jenkins GSW 03/14/2012 GSW vs. BOS L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 3 1 -23
+p262
+aVNate Robinson GSW 03/14/2012 GSW vs. BOS L 37 20 10 19 52.6 0 5 0.0 0 0 - 0 5 5 11 4 0 2 2 23
+p263
+aVKlay Thompson GSW 03/14/2012 GSW vs. BOS L 40 26 9 16 56.3 3 7 42.9 5 5 100.0 1 0 1 4 0 0 4 5 4
+p264
+aVAndris Biedrins GSW 03/14/2012 GSW vs. BOS L 18 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 2 0 2 -4
+p265
+aVDominic McGuire GSW 03/14/2012 GSW vs. BOS L 28 10 5 5 100.0 0 0 - 0 0 - 1 3 4 1 3 0 1 3 -4
+p266
+aVBrandon Rush GSW 03/13/2012 GSW @ SAC W 24 17 6 10 60.0 5 9 55.6 0 0 - 1 7 8 0 0 1 1 0 20
+p267
+aVChris Wright GSW 03/13/2012 GSW @ SAC W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 1 0 1 0
+p268
+aVDorell Wright GSW 03/13/2012 GSW @ SAC W 33 14 4 11 36.4 4 6 66.7 2 4 50.0 0 10 10 2 1 1 2 2 15
+p269
+aVKlay Thompson GSW 03/13/2012 GSW @ SAC W 43 14 6 19 31.6 0 5 0.0 2 2 100.0 0 4 4 5 0 1 0 3 24
+p270
+aVJeremy Tyler GSW 03/13/2012 GSW @ SAC W 4 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 2
+p271
+aVNate Robinson GSW 03/13/2012 GSW @ SAC W 29 17 7 11 63.6 2 3 66.7 1 1 100.0 0 2 2 3 2 0 0 2 9
+p272
+aVDominic McGuire GSW 03/13/2012 GSW @ SAC W 24 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 4 2 0 1 2 15
+p273
+aVDavid Lee GSW 03/13/2012 GSW @ SAC W 32 17 8 17 47.1 0 0 - 1 2 50.0 4 4 8 4 0 0 1 1 10
+p274
+aVAndris Biedrins GSW 03/13/2012 GSW @ SAC W 30 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 3 2 0 4 18
+p275
+aVCharles Jenkins GSW 03/13/2012 GSW @ SAC W 19 15 7 10 70.0 1 1 100.0 0 0 - 0 0 0 2 1 0 2 5 17
+p276
+aVDorell Wright GSW 03/11/2012 GSW @ LAC W 31 20 7 10 70.0 4 7 57.1 2 3 66.7 0 5 5 1 2 1 1 3 17
+p277
+aVDominic McGuire GSW 03/11/2012 GSW @ LAC W 26 2 1 1 100.0 0 0 - 0 0 - 0 2 2 3 0 2 1 2 -1
+p278
+aVDavid Lee GSW 03/11/2012 GSW @ LAC W 31 18 7 12 58.3 0 0 - 4 4 100.0 3 7 10 1 1 0 3 5 8
+p279
+aVMonta Ellis GSW 03/11/2012 GSW @ LAC W 43 21 7 16 43.8 0 0 - 7 8 87.5 1 5 6 11 3 1 6 4 16
+p280
+aVNate Robinson GSW 03/11/2012 GSW @ LAC W 19 6 2 6 33.3 1 3 33.3 1 2 50.0 0 1 1 1 0 0 0 1 -12
+p281
+aVAndris Biedrins GSW 03/11/2012 GSW @ LAC W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 2
+p282
+aVKlay Thompson GSW 03/11/2012 GSW @ LAC W 19 11 3 9 33.3 2 3 66.7 3 4 75.0 0 0 0 2 0 0 0 3 -9
+p283
+aVCharles Jenkins GSW 03/11/2012 GSW @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p284
+aVBrandon Rush GSW 03/11/2012 GSW @ LAC W 22 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 0 0 0 1 0 -13
+p285
+aVEkpe Udoh GSW 03/11/2012 GSW @ LAC W 33 14 7 10 70.0 0 0 - 0 0 - 1 5 6 2 0 2 3 4 11
+p286
+aVStephen Curry GSW 03/11/2012 GSW @ LAC W 9 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 6
+p287
+aVCharles Jenkins GSW 03/10/2012 GSW vs. DAL W 5 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p288
+aVDorell Wright GSW 03/10/2012 GSW vs. DAL W 25 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 4 1 0 0 1 13
+p289
+aVMonta Ellis GSW 03/10/2012 GSW vs. DAL W 31 20 7 11 63.6 4 5 80.0 2 3 66.7 0 2 2 8 3 0 4 2 15
+p290
+aVStephen Curry GSW 03/10/2012 GSW vs. DAL W 16 10 4 7 57.1 2 4 50.0 0 0 - 0 2 2 2 1 0 3 0 10
+p291
+aVDavid Lee GSW 03/10/2012 GSW vs. DAL W 33 25 10 16 62.5 0 0 - 5 5 100.0 1 8 9 1 2 0 1 3 12
+p292
+aVKlay Thompson GSW 03/10/2012 GSW vs. DAL W 21 13 3 9 33.3 1 4 25.0 6 8 75.0 1 2 3 3 2 0 0 1 14
+p293
+aVDominic McGuire GSW 03/10/2012 GSW vs. DAL W 17 2 1 2 50.0 0 0 - 0 0 - 0 6 6 1 2 0 0 4 5
+p294
+aVJeremy Tyler GSW 03/10/2012 GSW vs. DAL W 5 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 5
+p295
+aVEkpe Udoh GSW 03/10/2012 GSW vs. DAL W 32 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 1 2 3 3 17
+p296
+aVNate Robinson GSW 03/10/2012 GSW vs. DAL W 25 21 6 10 60.0 3 6 50.0 6 6 100.0 0 5 5 1 3 0 3 2 8
+p297
+aVBrandon Rush GSW 03/10/2012 GSW vs. DAL W 25 2 1 5 20.0 0 4 0.0 0 0 - 0 5 5 2 1 0 1 2 13
+p298
+aVChris Wright GSW 03/10/2012 GSW vs. DAL W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 3
+p299
+aVCharles Jenkins GSW 03/07/2012 GSW vs. MEM L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 3
+p300
+aVDorell Wright GSW 03/07/2012 GSW vs. MEM L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -23
+p301
+aVJeremy Tyler GSW 03/07/2012 GSW vs. MEM L 6 4 1 2 50.0 0 0 - 2 6 33.3 2 1 3 0 0 0 0 0 3
+p302
+aVDavid Lee GSW 03/07/2012 GSW vs. MEM L 25 11 3 9 33.3 0 0 - 5 6 83.3 3 1 4 2 2 0 3 4 -29
+p303
+aVEkpe Udoh GSW 03/07/2012 GSW vs. MEM L 34 9 2 7 28.6 0 0 - 5 6 83.3 3 3 6 4 0 4 1 3 -12
+p304
+aVAndris Biedrins GSW 03/07/2012 GSW vs. MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p305
+aVDominic McGuire GSW 03/07/2012 GSW vs. MEM L 14 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -19
+p306
+aVStephen Curry GSW 03/07/2012 GSW vs. MEM L 24 15 7 11 63.6 1 2 50.0 0 0 - 0 4 4 3 0 0 2 3 4
+p307
+aVMonta Ellis GSW 03/07/2012 GSW vs. MEM L 33 16 7 19 36.8 2 3 66.7 0 2 0.0 0 1 1 3 0 0 3 2 -21
+p308
+aVKlay Thompson GSW 03/07/2012 GSW vs. MEM L 27 16 6 11 54.5 3 5 60.0 1 1 100.0 0 6 6 1 0 0 1 1 -2
+p309
+aVChris Wright GSW 03/07/2012 GSW vs. MEM L 6 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 0 1
+p310
+aVNate Robinson GSW 03/07/2012 GSW vs. MEM L 21 6 2 6 33.3 1 3 33.3 1 2 50.0 0 2 2 4 0 0 2 4 2
+p311
+aVBrandon Rush GSW 03/07/2012 GSW vs. MEM L 32 11 5 10 50.0 1 4 25.0 0 0 - 1 5 6 2 0 0 2 0 2
+p312
+aVDominic McGuire GSW 03/05/2012 GSW @ WAS W 34 4 2 4 50.0 0 0 - 0 0 - 3 4 7 4 1 2 1 2 4
+p313
+aVNate Robinson GSW 03/05/2012 GSW @ WAS W 21 8 3 8 37.5 2 4 50.0 0 0 - 1 3 4 5 1 0 1 1 10
+p314
+aVDorell Wright GSW 03/05/2012 GSW @ WAS W 23 9 3 8 37.5 3 5 60.0 0 0 - 0 4 4 1 2 0 3 1 14
+p315
+aVDavid Lee GSW 03/05/2012 GSW @ WAS W 36 13 5 10 50.0 0 0 - 3 4 75.0 2 8 10 3 0 1 2 3 33
+p316
+aVAndris Biedrins GSW 03/05/2012 GSW @ WAS W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -14
+p317
+aVBrandon Rush GSW 03/05/2012 GSW @ WAS W 27 10 4 5 80.0 2 2 100.0 0 0 - 0 3 3 2 0 0 1 1 2
+p318
+aVStephen Curry GSW 03/05/2012 GSW @ WAS W 9 12 5 7 71.4 2 3 66.7 0 0 - 0 1 1 1 1 0 0 1 10
+p319
+aVEkpe Udoh GSW 03/05/2012 GSW @ WAS W 27 17 5 10 50.0 0 0 - 7 7 100.0 2 4 6 1 0 1 0 5 21
+p320
+aVMonta Ellis GSW 03/05/2012 GSW @ WAS W 29 25 10 16 62.5 2 4 50.0 3 3 100.0 1 4 5 8 2 0 3 3 16
+p321
+aVCharles Jenkins GSW 03/05/2012 GSW @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p322
+aVChris Wright GSW 03/05/2012 GSW @ WAS W 2 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 1
+p323
+aVKlay Thompson GSW 03/05/2012 GSW @ WAS W 20 18 7 14 50.0 4 5 80.0 0 0 - 1 1 2 2 0 0 2 4 2
+p324
+aVAndris Biedrins GSW 03/04/2012 GSW @ TOR L 7 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 1
+p325
+aVDavid Lee GSW 03/04/2012 GSW @ TOR L 39 22 9 13 69.2 0 0 - 4 5 80.0 3 9 12 2 1 0 2 5 -8
+p326
+aVEkpe Udoh GSW 03/04/2012 GSW @ TOR L 32 7 2 7 28.6 0 0 - 3 4 75.0 2 1 3 0 1 1 0 4 -4
+p327
+aVMonta Ellis GSW 03/04/2012 GSW @ TOR L 39 20 8 22 36.4 2 6 33.3 2 2 100.0 1 3 4 7 1 1 2 1 -5
+p328
+aVDominic McGuire GSW 03/04/2012 GSW @ TOR L 37 4 2 5 40.0 0 0 - 0 0 - 1 4 5 3 0 0 2 3 -3
+p329
+aVKlay Thompson GSW 03/04/2012 GSW @ TOR L 12 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 3 0 -3
+p330
+aVBrandon Rush GSW 03/04/2012 GSW @ TOR L 31 7 3 7 42.9 0 3 0.0 1 2 50.0 0 9 9 2 0 1 1 0 -5
+p331
+aVDorell Wright GSW 03/04/2012 GSW @ TOR L 17 3 1 9 11.1 1 5 20.0 0 0 - 3 3 6 2 1 0 1 1 -3
+p332
+aVNate Robinson GSW 03/04/2012 GSW @ TOR L 27 7 2 12 16.7 0 3 0.0 3 4 75.0 0 0 0 1 2 0 1 3 -9
+p333
+aVChris Wright GSW 03/04/2012 GSW @ TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p334
+aVEkpe Udoh GSW 03/02/2012 GSW @ PHI L 19 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 1 1 0 2 0
+p335
+aVMonta Ellis GSW 03/02/2012 GSW @ PHI L 38 20 10 22 45.5 0 3 0.0 0 0 - 0 3 3 7 3 0 2 2 -14
+p336
+aVDominic McGuire GSW 03/02/2012 GSW @ PHI L 29 0 0 0 - 0 0 - 0 2 0.0 1 5 6 1 0 2 1 3 -16
+p337
+aVBrandon Rush GSW 03/02/2012 GSW @ PHI L 33 7 2 9 22.2 1 6 16.7 2 2 100.0 1 3 4 1 0 1 1 0 -13
+p338
+aVCharles Jenkins GSW 03/02/2012 GSW @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p339
+aVChris Wright GSW 03/02/2012 GSW @ PHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p340
+aVDavid Lee GSW 03/02/2012 GSW @ PHI L 41 24 8 19 42.1 0 0 - 8 8 100.0 4 11 15 3 2 0 0 1 -12
+p341
+aVAndris Biedrins GSW 03/02/2012 GSW @ PHI L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -13
+p342
+aVNate Robinson GSW 03/02/2012 GSW @ PHI L 19 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 2 2 -14
+p343
+aVKlay Thompson GSW 03/02/2012 GSW @ PHI L 21 9 4 11 36.4 1 3 33.3 0 0 - 0 4 4 2 0 0 1 1 -14
+p344
+aVDorell Wright GSW 03/02/2012 GSW @ PHI L 24 10 3 7 42.9 2 5 40.0 2 2 100.0 0 3 3 1 0 0 2 0 -4
+p345
+aVStephen Curry GSW 02/29/2012 GSW @ ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p346
+aVDavid Lee GSW 02/29/2012 GSW @ ATL W 40 22 9 21 42.9 0 0 - 4 4 100.0 1 11 12 1 1 2 3 3 0
+p347
+aVBrandon Rush GSW 02/29/2012 GSW @ ATL W 29 2 1 4 25.0 0 2 0.0 0 0 - 1 5 6 2 0 1 0 1 7
+p348
+aVKlay Thompson GSW 02/29/2012 GSW @ ATL W 15 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 12
+p349
+aVEkpe Udoh GSW 02/29/2012 GSW @ ATL W 31 12 6 10 60.0 0 0 - 0 0 - 5 3 8 1 3 3 1 5 5
+p350
+aVAndris Biedrins GSW 02/29/2012 GSW @ ATL W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 2 0 0 -12
+p351
+aVMonta Ellis GSW 02/29/2012 GSW @ ATL W 35 24 10 27 37.0 0 3 0.0 4 5 80.0 0 1 1 8 1 0 4 3 -7
+p352
+aVDominic McGuire GSW 02/29/2012 GSW @ ATL W 36 0 0 1 0.0 0 0 - 0 0 - 1 14 15 1 1 0 2 2 0
+p353
+aVDorell Wright GSW 02/29/2012 GSW @ ATL W 28 7 2 7 28.6 1 5 20.0 2 2 100.0 1 4 5 1 0 1 0 2 -6
+p354
+aVNate Robinson GSW 02/29/2012 GSW @ ATL W 16 10 3 7 42.9 0 2 0.0 4 4 100.0 0 2 2 5 1 0 1 1 14
+p355
+aVDorell Wright GSW 02/28/2012 GSW @ IND L 18 2 1 8 12.5 0 5 0.0 0 0 - 3 2 5 1 1 1 0 1 -23
+p356
+aVKlay Thompson GSW 02/28/2012 GSW @ IND L 21 9 3 9 33.3 1 4 25.0 2 4 50.0 1 3 4 1 2 0 2 0 -4
+p357
+aVNate Robinson GSW 02/28/2012 GSW @ IND L 26 4 2 8 25.0 0 3 0.0 0 0 - 0 0 0 4 0 0 1 3 -8
+p358
+aVChris Wright GSW 02/28/2012 GSW @ IND L 13 9 2 5 40.0 0 0 - 5 7 71.4 3 3 6 0 1 4 0 1 5
+p359
+aVDavid Lee GSW 02/28/2012 GSW @ IND L 30 12 5 11 45.5 0 0 - 2 2 100.0 4 2 6 4 1 0 5 2 -24
+p360
+aVCharles Jenkins GSW 02/28/2012 GSW @ IND L 18 2 0 5 0.0 0 2 0.0 2 2 100.0 1 1 2 2 1 1 1 2 -9
+p361
+aVMonta Ellis GSW 02/28/2012 GSW @ IND L 28 14 7 19 36.8 0 4 0.0 0 0 - 1 4 5 2 0 0 5 3 -23
+p362
+aVBrandon Rush GSW 02/28/2012 GSW @ IND L 35 14 6 11 54.5 2 4 50.0 0 0 - 1 6 7 0 1 0 0 1 -8
+p363
+aVEkpe Udoh GSW 02/28/2012 GSW @ IND L 17 8 3 5 60.0 0 0 - 2 3 66.7 1 1 2 0 0 1 0 4 -5
+p364
+aVDominic McGuire GSW 02/28/2012 GSW @ IND L 20 4 0 2 0.0 0 0 - 4 6 66.7 1 3 4 1 0 2 1 6 -2
+p365
+aVAndris Biedrins GSW 02/28/2012 GSW @ IND L 13 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 1 0 0 2 -19
+p366
+aVDorell Wright GSW 02/22/2012 GSW @ PHX W 36 23 7 11 63.6 3 5 60.0 6 7 85.7 1 6 7 2 0 1 1 0 8
+p367
+aVAndris Biedrins GSW 02/22/2012 GSW @ PHX W 18 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 4 6
+p368
+aVBrandon Rush GSW 02/22/2012 GSW @ PHX W 15 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 -6
+p369
+aVDominic McGuire GSW 02/22/2012 GSW @ PHX W 17 4 2 3 66.7 0 0 - 0 0 - 6 3 9 2 0 1 0 4 3
+p370
+aVStephen Curry GSW 02/22/2012 GSW @ PHX W 10 9 3 7 42.9 1 3 33.3 2 2 100.0 0 0 0 2 2 0 1 1 13
+p371
+aVEkpe Udoh GSW 02/22/2012 GSW @ PHX W 22 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -7
+p372
+aVNate Robinson GSW 02/22/2012 GSW @ PHX W 32 14 4 13 30.8 3 6 50.0 3 4 75.0 0 2 2 5 3 0 2 1 -3
+p373
+aVKlay Thompson GSW 02/22/2012 GSW @ PHX W 11 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -11
+p374
+aVMonta Ellis GSW 02/22/2012 GSW @ PHX W 43 26 10 23 43.5 2 5 40.0 4 4 100.0 0 3 3 6 1 0 2 2 8
+p375
+aVDavid Lee GSW 02/22/2012 GSW @ PHX W 37 22 9 18 50.0 0 0 - 4 5 80.0 3 1 4 2 0 0 0 2 -1
+p376
+aVEkpe Udoh GSW 02/20/2012 GSW vs. LAC W 38 19 9 14 64.3 0 0 - 1 2 50.0 6 2 8 1 1 2 0 3 13
+p377
+aVDorell Wright GSW 02/20/2012 GSW vs. LAC W 26 0 0 6 0.0 0 5 0.0 0 0 - 1 4 5 3 0 1 0 2 10
+p378
+aVKlay Thompson GSW 02/20/2012 GSW vs. LAC W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 1 -8
+p379
+aVStephen Curry GSW 02/20/2012 GSW vs. LAC W 33 11 3 6 50.0 3 5 60.0 2 2 100.0 0 3 3 6 0 1 3 3 16
+p380
+aVBrandon Rush GSW 02/20/2012 GSW vs. LAC W 20 7 2 5 40.0 1 3 33.3 2 3 66.7 0 0 0 0 0 1 0 0 -5
+p381
+aVDominic McGuire GSW 02/20/2012 GSW vs. LAC W 13 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -17
+p382
+aVMonta Ellis GSW 02/20/2012 GSW vs. LAC W 38 32 11 20 55.0 4 4 100.0 6 6 100.0 0 5 5 4 1 0 3 4 17
+p383
+aVDavid Lee GSW 02/20/2012 GSW vs. LAC W 45 24 9 18 50.0 0 0 - 6 9 66.7 4 9 13 2 3 0 0 3 16
+p384
+aVNate Robinson GSW 02/20/2012 GSW vs. LAC W 15 9 3 8 37.5 1 5 20.0 2 2 100.0 1 2 3 3 1 0 1 1 -7
+p385
+aVMonta Ellis GSW 02/18/2012 GSW @ MEM L 42 33 10 22 45.5 4 8 50.0 9 12 75.0 0 4 4 6 1 0 1 2 -10
+p386
+aVEkpe Udoh GSW 02/18/2012 GSW @ MEM L 22 5 1 2 50.0 0 0 - 3 4 75.0 1 3 4 2 1 1 2 4 17
+p387
+aVBrandon Rush GSW 02/18/2012 GSW @ MEM L 27 8 3 7 42.9 2 2 100.0 0 0 - 0 4 4 1 1 2 0 2 11
+p388
+aVStephen Curry GSW 02/18/2012 GSW @ MEM L 40 36 13 21 61.9 6 9 66.7 4 4 100.0 1 1 2 6 2 0 2 5 9
+p389
+aVAndris Biedrins GSW 02/18/2012 GSW @ MEM L 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 6 -14
+p390
+aVDavid Lee GSW 02/18/2012 GSW @ MEM L 34 14 5 13 38.5 0 0 - 4 6 66.7 7 2 9 2 1 0 3 3 -14
+p391
+aVDominic McGuire GSW 02/18/2012 GSW @ MEM L 12 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 1 1 0 1 1 9
+p392
+aVKlay Thompson GSW 02/18/2012 GSW @ MEM L 10 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 9
+p393
+aVDorell Wright GSW 02/18/2012 GSW @ MEM L 26 0 0 7 0.0 0 4 0.0 0 0 - 0 3 3 0 1 0 1 4 -16
+p394
+aVNate Robinson GSW 02/18/2012 GSW @ MEM L 7 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 1 -6
+p395
+aVDominic McGuire GSW 02/17/2012 GSW @ OKC L 12 0 0 4 0.0 0 0 - 0 0 - 5 3 8 3 0 1 2 2 -4
+p396
+aVAndris Biedrins GSW 02/17/2012 GSW @ OKC L 14 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 3 -5
+p397
+aVStephen Curry GSW 02/17/2012 GSW @ OKC L 28 11 4 13 30.8 3 5 60.0 0 0 - 1 1 2 4 0 0 4 2 -12
+p398
+aVBrandon Rush GSW 02/17/2012 GSW @ OKC L 19 5 1 6 16.7 1 4 25.0 2 2 100.0 1 1 2 1 1 1 0 0 -18
+p399
+aVEkpe Udoh GSW 02/17/2012 GSW @ OKC L 21 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 1 4 0 3 -11
+p400
+aVCharles Jenkins GSW 02/17/2012 GSW @ OKC L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 1 3
+p401
+aVJeremy Tyler GSW 02/17/2012 GSW @ OKC L 9 8 2 3 66.7 0 0 - 4 5 80.0 2 1 3 0 1 0 0 3 0
+p402
+aVChris Wright GSW 02/17/2012 GSW @ OKC L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 3
+p403
+aVDavid Lee GSW 02/17/2012 GSW @ OKC L 30 23 8 17 47.1 0 0 - 7 7 100.0 5 1 6 1 0 0 3 2 -13
+p404
+aVKlay Thompson GSW 02/17/2012 GSW @ OKC L 23 11 5 11 45.5 0 2 0.0 1 2 50.0 0 1 1 1 1 0 3 3 -14
+p405
+aVDorell Wright GSW 02/17/2012 GSW @ OKC L 27 11 4 11 36.4 3 7 42.9 0 0 - 5 6 11 2 1 1 0 0 -14
+p406
+aVNate Robinson GSW 02/17/2012 GSW @ OKC L 12 3 1 6 16.7 0 1 0.0 1 2 50.0 0 0 0 0 1 0 1 1 -14
+p407
+aVMonta Ellis GSW 02/17/2012 GSW @ OKC L 30 11 4 13 30.8 0 4 0.0 3 3 100.0 0 2 2 4 1 0 2 2 -16
+p408
+aVAndris Biedrins GSW 02/15/2012 GSW vs. POR L 17 2 1 1 100.0 0 0 - 0 0 - 3 6 9 0 0 2 0 2 5
+p409
+aVKlay Thompson GSW 02/15/2012 GSW vs. POR L 21 7 2 8 25.0 1 5 20.0 2 2 100.0 0 1 1 1 1 0 1 2 -7
+p410
+aVDominic McGuire GSW 02/15/2012 GSW vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -4
+p411
+aVNate Robinson GSW 02/15/2012 GSW vs. POR L 21 21 8 15 53.3 3 5 60.0 2 4 50.0 0 2 2 0 1 0 4 2 -3
+p412
+aVDavid Lee GSW 02/15/2012 GSW vs. POR L 41 29 13 20 65.0 0 0 - 3 4 75.0 4 7 11 3 0 0 1 3 -2
+p413
+aVBrandon Rush GSW 02/15/2012 GSW vs. POR L 24 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 2 1 0 1 -7
+p414
+aVMonta Ellis GSW 02/15/2012 GSW vs. POR L 27 10 3 9 33.3 1 3 33.3 3 4 75.0 0 3 3 5 0 0 2 0 5
+p415
+aVDorell Wright GSW 02/15/2012 GSW vs. POR L 27 12 5 9 55.6 2 3 66.7 0 0 - 1 4 5 3 1 0 1 1 3
+p416
+aVEkpe Udoh GSW 02/15/2012 GSW vs. POR L 21 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 2 2 2 -7
+p417
+aVStephen Curry GSW 02/15/2012 GSW vs. POR L 38 8 3 10 30.0 0 2 0.0 2 2 100.0 1 2 3 8 2 2 2 2 7
+p418
+aVNate Robinson GSW 02/13/2012 GSW vs. PHX W 18 11 3 7 42.9 2 3 66.7 3 4 75.0 0 1 1 1 1 0 1 0 2
+p419
+aVBrandon Rush GSW 02/13/2012 GSW vs. PHX W 29 8 4 7 57.1 0 2 0.0 0 0 - 0 2 2 1 1 0 2 2 12
+p420
+aVAndris Biedrins GSW 02/13/2012 GSW vs. PHX W 16 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -10
+p421
+aVMonta Ellis GSW 02/13/2012 GSW vs. PHX W 38 18 5 20 25.0 2 4 50.0 6 6 100.0 0 7 7 3 0 0 1 2 1
+p422
+aVDominic McGuire GSW 02/13/2012 GSW vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p423
+aVKlay Thompson GSW 02/13/2012 GSW vs. PHX W 20 10 4 6 66.7 2 3 66.7 0 0 - 1 4 5 1 1 0 1 1 4
+p424
+aVStephen Curry GSW 02/13/2012 GSW vs. PHX W 32 9 3 10 30.0 1 4 25.0 2 2 100.0 2 5 7 5 1 0 2 2 2
+p425
+aVDorell Wright GSW 02/13/2012 GSW vs. PHX W 23 5 2 6 33.3 0 2 0.0 1 1 100.0 2 1 3 1 1 0 1 1 -4
+p426
+aVEkpe Udoh GSW 02/13/2012 GSW vs. PHX W 22 9 3 6 50.0 0 0 - 3 4 75.0 3 1 4 1 1 3 0 2 14
+p427
+aVDavid Lee GSW 02/13/2012 GSW vs. PHX W 42 28 13 22 59.1 0 0 - 2 4 50.0 5 7 12 3 1 1 2 2 9
+p428
+aVChris Wright GSW 02/12/2012 GSW vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p429
+aVMonta Ellis GSW 02/12/2012 GSW vs. HOU W 41 33 13 23 56.5 1 3 33.3 6 9 66.7 1 4 5 7 2 1 2 2 10
+p430
+aVDavid Lee GSW 02/12/2012 GSW vs. HOU W 43 15 7 12 58.3 0 0 - 1 1 100.0 3 10 13 6 0 1 6 1 14
+p431
+aVJeremy Tyler GSW 02/12/2012 GSW vs. HOU W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -1
+p432
+aVKlay Thompson GSW 02/12/2012 GSW vs. HOU W 22 14 5 10 50.0 4 6 66.7 0 0 - 0 4 4 3 0 1 0 2 6
+p433
+aVStephen Curry GSW 02/12/2012 GSW vs. HOU W 34 14 5 14 35.7 3 6 50.0 1 1 100.0 0 0 0 5 2 0 2 4 4
+p434
+aVAndris Biedrins GSW 02/12/2012 GSW vs. HOU W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 4 -10
+p435
+aVDorell Wright GSW 02/12/2012 GSW vs. HOU W 18 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p436
+aVEkpe Udoh GSW 02/12/2012 GSW vs. HOU W 32 7 2 5 40.0 0 0 - 3 5 60.0 0 6 6 0 1 1 2 3 17
+p437
+aVNate Robinson GSW 02/12/2012 GSW vs. HOU W 14 3 1 5 20.0 1 4 25.0 0 0 - 0 0 0 3 2 0 1 2 3
+p438
+aVBrandon Rush GSW 02/12/2012 GSW vs. HOU W 22 10 3 5 60.0 2 3 66.7 2 2 100.0 1 1 2 0 0 0 1 0 9
+p439
+aVNate Robinson GSW 02/09/2012 GSW @ DEN W 11 5 1 1 100.0 0 0 - 3 4 75.0 0 4 4 3 0 0 2 2 1
+p440
+aVKlay Thompson GSW 02/09/2012 GSW @ DEN W 18 19 8 11 72.7 3 4 75.0 0 0 - 0 1 1 1 1 0 1 4 2
+p441
+aVBrandon Rush GSW 02/09/2012 GSW @ DEN W 22 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 1 1 0 0 0 7
+p442
+aVAndris Biedrins GSW 02/09/2012 GSW @ DEN W 22 2 1 1 100.0 0 0 - 0 0 - 4 4 8 0 1 2 1 2 7
+p443
+aVJeremy Tyler GSW 02/09/2012 GSW @ DEN W 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -12
+p444
+aVDavid Lee GSW 02/09/2012 GSW @ DEN W 35 12 5 9 55.6 0 0 - 2 3 66.7 0 8 8 2 2 1 4 2 20
+p445
+aVDominic McGuire GSW 02/09/2012 GSW @ DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 2 1 -8
+p446
+aVDorell Wright GSW 02/09/2012 GSW @ DEN W 29 15 5 15 33.3 3 8 37.5 2 4 50.0 1 2 3 4 0 1 1 0 13
+p447
+aVMonta Ellis GSW 02/09/2012 GSW @ DEN W 34 14 6 14 42.9 0 1 0.0 2 2 100.0 0 3 3 2 0 2 4 3 3
+p448
+aVEkpe Udoh GSW 02/09/2012 GSW @ DEN W 21 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 2 5 1 5 16
+p449
+aVStephen Curry GSW 02/09/2012 GSW @ DEN W 36 36 13 17 76.5 6 9 66.7 4 7 57.1 0 7 7 7 0 2 1 3 15
+p450
+aVCharles Jenkins GSW 02/09/2012 GSW @ DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p451
+aVChris Wright GSW 02/09/2012 GSW @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -12
+p452
+aVEkpe Udoh GSW 02/07/2012 GSW vs. OKC L 16 6 3 8 37.5 0 0 - 0 0 - 1 0 1 0 0 0 0 0 8
+p453
+aVBrandon Rush GSW 02/07/2012 GSW vs. OKC L 27 9 3 5 60.0 3 5 60.0 0 0 - 0 2 2 1 1 2 0 2 -24
+p454
+aVDominic McGuire GSW 02/07/2012 GSW vs. OKC L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -13
+p455
+aVDavid Lee GSW 02/07/2012 GSW vs. OKC L 44 25 9 19 47.4 0 1 0.0 7 7 100.0 3 8 11 10 0 1 4 5 12
+p456
+aVDorell Wright GSW 02/07/2012 GSW vs. OKC L 39 9 3 8 37.5 1 6 16.7 2 4 50.0 0 6 6 4 2 0 1 2 9
+p457
+aVCharles Jenkins GSW 02/07/2012 GSW vs. OKC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -13
+p458
+aVAndris Biedrins GSW 02/07/2012 GSW vs. OKC L 14 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 5 -2
+p459
+aVStephen Curry GSW 02/07/2012 GSW vs. OKC L 43 16 7 9 77.8 1 2 50.0 1 2 50.0 1 6 7 10 2 0 3 3 13
+p460
+aVMonta Ellis GSW 02/07/2012 GSW vs. OKC L 42 48 18 29 62.1 3 6 50.0 9 10 90.0 1 6 7 2 2 1 3 2 5
+p461
+aVKlay Thompson GSW 02/07/2012 GSW vs. OKC L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 3 2 -10
+p462
+aVEkpe Udoh GSW 02/04/2012 GSW @ SAC L 31 2 0 3 0.0 0 0 - 2 2 100.0 1 2 3 3 0 2 0 2 -1
+p463
+aVDorell Wright GSW 02/04/2012 GSW @ SAC L 29 24 8 13 61.5 4 6 66.7 4 4 100.0 2 2 4 1 1 0 0 0 -11
+p464
+aVKlay Thompson GSW 02/04/2012 GSW @ SAC L 22 16 5 8 62.5 4 5 80.0 2 2 100.0 0 3 3 0 1 1 0 3 1
+p465
+aVDavid Lee GSW 02/04/2012 GSW @ SAC L 33 10 5 13 38.5 0 0 - 0 0 - 0 5 5 1 0 0 3 3 -10
+p466
+aVMonta Ellis GSW 02/04/2012 GSW @ SAC L 36 18 7 17 41.2 2 5 40.0 2 2 100.0 0 4 4 3 1 0 5 2 -17
+p467
+aVStephen Curry GSW 02/04/2012 GSW @ SAC L 29 11 4 14 28.6 3 8 37.5 0 0 - 2 0 2 9 4 0 5 1 -11
+p468
+aVDominic McGuire GSW 02/04/2012 GSW @ SAC L 15 0 0 3 0.0 0 0 - 0 0 - 3 2 5 1 1 1 0 1 0
+p469
+aVAndris Biedrins GSW 02/04/2012 GSW @ SAC L 22 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 0 3 1 3 -6
+p470
+aVBrandon Rush GSW 02/04/2012 GSW @ SAC L 19 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 1 1 1 1 11
+p471
+aVJeremy Tyler GSW 02/04/2012 GSW @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 1
+p472
+aVNate Robinson GSW 02/04/2012 GSW @ SAC L 24 20 8 14 57.1 2 3 66.7 2 3 66.7 2 2 4 4 1 0 0 3 1
+p473
+aVCharles Jenkins GSW 02/04/2012 GSW @ SAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p474
+aVCharles Jenkins GSW 02/02/2012 GSW vs. UTA W 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p475
+aVEarl Barron GSW 02/02/2012 GSW vs. UTA W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p476
+aVAndris Biedrins GSW 02/02/2012 GSW vs. UTA W 28 0 0 3 0.0 0 0 - 0 0 - 4 5 9 1 1 1 0 2 5
+p477
+aVKlay Thompson GSW 02/02/2012 GSW vs. UTA W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p478
+aVMonta Ellis GSW 02/02/2012 GSW vs. UTA W 40 33 13 21 61.9 3 7 42.9 4 5 80.0 1 3 4 2 3 0 3 2 19
+p479
+aVDavid Lee GSW 02/02/2012 GSW vs. UTA W 39 23 9 23 39.1 0 0 - 5 5 100.0 8 6 14 2 0 0 1 3 15
+p480
+aVBrandon Rush GSW 02/02/2012 GSW vs. UTA W 17 5 1 4 25.0 1 4 25.0 2 2 100.0 2 1 3 0 1 0 0 0 14
+p481
+aVNate Robinson GSW 02/02/2012 GSW vs. UTA W 10 0 0 5 0.0 0 0 - 0 0 - 0 3 3 3 1 1 0 1 0
+p482
+aVEkpe Udoh GSW 02/02/2012 GSW vs. UTA W 18 7 3 5 60.0 0 0 - 1 2 50.0 3 1 4 1 1 3 0 3 15
+p483
+aVDorell Wright GSW 02/02/2012 GSW vs. UTA W 28 13 5 12 41.7 2 8 25.0 1 1 100.0 2 0 2 2 0 0 1 0 4
+p484
+aVJeremy Tyler GSW 02/02/2012 GSW vs. UTA W 8 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 0 0 1 0 3 1
+p485
+aVStephen Curry GSW 02/02/2012 GSW vs. UTA W 38 29 10 14 71.4 2 5 40.0 7 8 87.5 0 5 5 12 3 0 3 4 18
+p486
+aVJeremy Tyler GSW 01/31/2012 GSW vs. SAC W 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p487
+aVBrandon Rush GSW 01/31/2012 GSW vs. SAC W 25 20 6 10 60.0 4 5 80.0 4 4 100.0 1 5 6 2 0 0 2 2 8
+p488
+aVKlay Thompson GSW 01/31/2012 GSW vs. SAC W 20 4 2 10 20.0 0 3 0.0 0 0 - 0 1 1 2 1 0 0 0 -1
+p489
+aVMonta Ellis GSW 01/31/2012 GSW vs. SAC W 28 12 5 17 29.4 0 3 0.0 2 2 100.0 0 4 4 4 1 0 1 0 4
+p490
+aVDorell Wright GSW 01/31/2012 GSW vs. SAC W 23 15 6 11 54.5 3 7 42.9 0 0 - 1 1 2 1 2 0 2 0 -5
+p491
+aVStephen Curry GSW 01/31/2012 GSW vs. SAC W 26 3 1 7 14.3 0 3 0.0 1 2 50.0 0 3 3 8 1 1 0 1 3
+p492
+aVAndris Biedrins GSW 01/31/2012 GSW vs. SAC W 25 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 0 0 3 0 5 0
+p493
+aVDominic McGuire GSW 01/31/2012 GSW vs. SAC W 13 2 1 2 50.0 0 0 - 0 0 - 2 3 5 2 1 0 1 1 1
+p494
+aVNate Robinson GSW 01/31/2012 GSW vs. SAC W 22 11 4 10 40.0 1 3 33.3 2 2 100.0 0 3 3 5 0 0 1 3 3
+p495
+aVEkpe Udoh GSW 01/31/2012 GSW vs. SAC W 22 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 4 0 6 5
+p496
+aVDavid Lee GSW 01/31/2012 GSW vs. SAC W 30 15 7 11 63.6 0 0 - 1 2 50.0 1 4 5 1 2 0 1 2 3
+p497
+aVKlay Thompson GSW 01/27/2012 GSW vs. OKC L 19 14 6 8 75.0 2 3 66.7 0 0 - 0 2 2 2 1 3 1 3 2
+p498
+aVAndris Biedrins GSW 01/27/2012 GSW vs. OKC L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -4
+p499
+aVMonta Ellis GSW 01/27/2012 GSW vs. OKC L 36 13 5 17 29.4 0 4 0.0 3 4 75.0 0 3 3 6 1 0 3 2 -18
+p500
+aVDorell Wright GSW 01/27/2012 GSW vs. OKC L 31 23 8 14 57.1 6 9 66.7 1 2 50.0 3 6 9 5 2 1 0 2 -7
+p501
+aVNate Robinson GSW 01/27/2012 GSW vs. OKC L 14 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 4 1 0 3 3 -2
+p502
+aVJeremy Tyler GSW 01/27/2012 GSW vs. OKC L 15 6 3 5 60.0 0 0 - 0 0 - 2 1 3 2 0 0 2 4 -4
+p503
+aVDominic McGuire GSW 01/27/2012 GSW vs. OKC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 2
+p504
+aVEkpe Udoh GSW 01/27/2012 GSW vs. OKC L 20 3 0 3 0.0 0 0 - 3 4 75.0 2 1 3 1 0 0 0 2 -3
+p505
+aVStephen Curry GSW 01/27/2012 GSW vs. OKC L 27 15 6 16 37.5 2 7 28.6 1 1 100.0 0 2 2 6 2 0 4 4 -9
+p506
+aVBrandon Rush GSW 01/27/2012 GSW vs. OKC L 27 7 2 5 40.0 1 2 50.0 2 2 100.0 1 2 3 2 0 1 2 2 2
+p507
+aVDavid Lee GSW 01/27/2012 GSW vs. OKC L 36 19 7 10 70.0 0 0 - 5 6 83.3 2 5 7 2 3 2 4 6 -14
+p508
+aVJeremy Tyler GSW 01/25/2012 GSW vs. POR W 7 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 2
+p509
+aVDavid Lee GSW 01/25/2012 GSW vs. POR W 38 26 12 21 57.1 0 0 - 2 5 40.0 3 2 5 3 1 0 3 3 -2
+p510
+aVMonta Ellis GSW 01/25/2012 GSW vs. POR W 41 4 2 9 22.2 0 2 0.0 0 0 - 0 2 2 12 3 1 2 2 6
+p511
+aVBrandon Rush GSW 01/25/2012 GSW vs. POR W 28 14 5 8 62.5 3 3 100.0 1 2 50.0 0 6 6 1 0 0 2 3 7
+p512
+aVDorell Wright GSW 01/25/2012 GSW vs. POR W 20 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 0 0 0 1 2 1
+p513
+aVAndris Biedrins GSW 01/25/2012 GSW vs. POR W 15 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -7
+p514
+aVEkpe Udoh GSW 01/25/2012 GSW vs. POR W 27 4 2 3 66.7 0 0 - 0 0 - 2 5 7 2 2 2 1 2 18
+p515
+aVKlay Thompson GSW 01/25/2012 GSW vs. POR W 8 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p516
+aVDominic McGuire GSW 01/25/2012 GSW vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 2 8
+p517
+aVNate Robinson GSW 01/25/2012 GSW vs. POR W 15 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 4 0 0 0 0 -2
+p518
+aVStephen Curry GSW 01/25/2012 GSW vs. POR W 38 32 12 19 63.2 6 8 75.0 2 3 66.7 0 6 6 7 4 0 1 0 7
+p519
+aVMonta Ellis GSW 01/23/2012 GSW vs. MEM L 37 20 8 12 66.7 3 7 42.9 1 2 50.0 0 4 4 5 2 1 7 2 -7
+p520
+aVNate Robinson GSW 01/23/2012 GSW vs. MEM L 12 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 6 0 0 2 1 6
+p521
+aVDorell Wright GSW 01/23/2012 GSW vs. MEM L 34 8 4 10 40.0 0 3 0.0 0 0 - 0 3 3 2 2 0 4 4 -9
+p522
+aVDominic McGuire GSW 01/23/2012 GSW vs. MEM L 12 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 2 1 0 0 -3
+p523
+aVBrandon Rush GSW 01/23/2012 GSW vs. MEM L 25 10 4 6 66.7 2 3 66.7 0 0 - 1 3 4 1 0 0 3 0 0
+p524
+aVAndris Biedrins GSW 01/23/2012 GSW vs. MEM L 16 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 3 12
+p525
+aVDavid Lee GSW 01/23/2012 GSW vs. MEM L 36 13 5 11 45.5 0 0 - 3 4 75.0 3 9 12 5 1 1 2 5 -5
+p526
+aVEkpe Udoh GSW 01/23/2012 GSW vs. MEM L 18 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 1 2 0 1 3
+p527
+aVStephen Curry GSW 01/23/2012 GSW vs. MEM L 36 18 8 18 44.4 2 7 28.6 0 0 - 3 3 6 5 3 0 5 3 -7
+p528
+aVKlay Thompson GSW 01/23/2012 GSW vs. MEM L 13 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 0 0 1 3 5
+p529
+aVDavid Lee GSW 01/20/2012 GSW vs. IND L 38 10 4 15 26.7 0 0 - 2 2 100.0 3 11 14 2 2 0 2 4 -14
+p530
+aVStephen Curry GSW 01/20/2012 GSW vs. IND L 29 12 5 15 33.3 2 6 33.3 0 0 - 1 1 2 3 0 0 3 2 -4
+p531
+aVNate Robinson GSW 01/20/2012 GSW vs. IND L 19 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 5 0 0 3 1 1
+p532
+aVEkpe Udoh GSW 01/20/2012 GSW vs. IND L 18 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 3 3 4 7
+p533
+aVBrandon Rush GSW 01/20/2012 GSW vs. IND L 20 6 2 2 100.0 2 2 100.0 0 0 - 0 6 6 1 0 1 1 1 1
+p534
+aVDorell Wright GSW 01/20/2012 GSW vs. IND L 31 18 6 10 60.0 4 7 57.1 2 2 100.0 0 5 5 0 0 0 0 1 -2
+p535
+aVMonta Ellis GSW 01/20/2012 GSW vs. IND L 35 25 11 20 55.0 0 1 0.0 3 4 75.0 1 2 3 6 0 0 2 3 -9
+p536
+aVDominic McGuire GSW 01/20/2012 GSW vs. IND L 13 4 2 4 50.0 0 0 - 0 0 - 2 6 8 0 0 0 2 0 4
+p537
+aVKlay Thompson GSW 01/20/2012 GSW vs. IND L 13 8 3 6 50.0 2 5 40.0 0 0 - 0 0 0 1 1 0 1 1 6
+p538
+aVAndris Biedrins GSW 01/20/2012 GSW vs. IND L 24 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 1 4 -5
+p539
+aVKlay Thompson GSW 01/18/2012 GSW @ NJN L 23 12 5 9 55.6 2 3 66.7 0 0 - 0 0 0 3 0 1 0 3 -11
+p540
+aVCharles Jenkins GSW 01/18/2012 GSW @ NJN L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 1 0 1 3 -8
+p541
+aVAndris Biedrins GSW 01/18/2012 GSW @ NJN L 21 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -7
+p542
+aVBrandon Rush GSW 01/18/2012 GSW @ NJN L 20 7 3 4 75.0 1 1 100.0 0 0 - 1 1 2 0 1 2 1 2 0
+p543
+aVNate Robinson GSW 01/18/2012 GSW @ NJN L 26 9 3 7 42.9 0 3 0.0 3 4 75.0 0 2 2 7 1 1 1 0 11
+p544
+aVDorell Wright GSW 01/18/2012 GSW @ NJN L 36 17 5 7 71.4 3 5 60.0 4 6 66.7 0 3 3 1 1 1 1 1 -6
+p545
+aVMonta Ellis GSW 01/18/2012 GSW @ NJN L 37 30 11 20 55.0 2 4 50.0 6 7 85.7 0 1 1 5 6 1 3 3 -10
+p546
+aVDominic McGuire GSW 01/18/2012 GSW @ NJN L 13 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 1 0 0 2
+p547
+aVEkpe Udoh GSW 01/18/2012 GSW @ NJN L 20 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 4 -4
+p548
+aVDavid Lee GSW 01/18/2012 GSW @ NJN L 33 12 4 11 36.4 0 0 - 4 8 50.0 3 8 11 4 1 0 2 5 -2
+p549
+aVCharles Jenkins GSW 01/17/2012 GSW @ CLE W 12 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 1 0 3 -7
+p550
+aVBrandon Rush GSW 01/17/2012 GSW @ CLE W 25 14 6 11 54.5 2 3 66.7 0 0 - 0 5 5 2 0 0 0 2 12
+p551
+aVMonta Ellis GSW 01/17/2012 GSW @ CLE W 32 10 2 12 16.7 0 2 0.0 6 8 75.0 0 4 4 3 3 0 4 1 3
+p552
+aVDominic McGuire GSW 01/17/2012 GSW @ CLE W 19 3 1 7 14.3 0 0 - 1 2 50.0 2 2 4 3 0 2 0 3 4
+p553
+aVDavid Lee GSW 01/17/2012 GSW @ CLE W 35 29 13 20 65.0 0 1 0.0 3 4 75.0 4 5 9 3 0 0 2 2 -3
+p554
+aVNate Robinson GSW 01/17/2012 GSW @ CLE W 35 17 6 15 40.0 3 5 60.0 2 3 66.7 1 1 2 10 2 0 3 2 21
+p555
+aVEkpe Udoh GSW 01/17/2012 GSW @ CLE W 18 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 2 1 3 -1
+p556
+aVDorell Wright GSW 01/17/2012 GSW @ CLE W 23 10 4 11 36.4 0 3 0.0 2 2 100.0 2 0 2 3 1 0 0 3 0
+p557
+aVAndris Biedrins GSW 01/17/2012 GSW @ CLE W 23 2 1 1 100.0 0 0 - 0 0 - 2 9 11 0 2 1 0 3 18
+p558
+aVKlay Thompson GSW 01/17/2012 GSW @ CLE W 17 14 5 9 55.6 4 4 100.0 0 0 - 0 1 1 2 1 0 2 2 3
+p559
+aVJeremy Tyler GSW 01/15/2012 GSW @ DET W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p560
+aVKlay Thompson GSW 01/15/2012 GSW @ DET W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -1
+p561
+aVDominic McGuire GSW 01/15/2012 GSW @ DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p562
+aVCharles Jenkins GSW 01/15/2012 GSW @ DET W 29 6 3 6 50.0 0 0 - 0 0 - 1 3 4 5 0 0 0 3 6
+p563
+aVAndris Biedrins GSW 01/15/2012 GSW @ DET W 21 4 2 3 66.7 0 0 - 0 2 0.0 0 7 7 0 1 1 2 4 -2
+p564
+aVEkpe Udoh GSW 01/15/2012 GSW @ DET W 27 10 4 7 57.1 0 0 - 2 3 66.7 3 3 6 0 3 4 3 2 13
+p565
+aVDorell Wright GSW 01/15/2012 GSW @ DET W 36 11 3 13 23.1 1 6 16.7 4 4 100.0 3 8 11 2 3 0 2 1 5
+p566
+aVDavid Lee GSW 01/15/2012 GSW @ DET W 34 24 10 12 83.3 0 0 - 4 5 80.0 1 5 6 3 0 2 2 6 10
+p567
+aVChris Wright GSW 01/15/2012 GSW @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p568
+aVBrandon Rush GSW 01/15/2012 GSW @ DET W 21 12 5 8 62.5 2 4 50.0 0 0 - 1 2 3 1 0 0 0 1 7
+p569
+aVNate Robinson GSW 01/15/2012 GSW @ DET W 20 10 4 7 57.1 0 3 0.0 2 2 100.0 0 2 2 3 1 0 1 0 -1
+p570
+aVMonta Ellis GSW 01/15/2012 GSW @ DET W 36 22 7 14 50.0 0 2 0.0 8 11 72.7 1 1 2 7 0 0 5 4 12
+p571
+aVNate Robinson GSW 01/14/2012 GSW @ CHA L 29 12 4 10 40.0 2 5 40.0 2 2 100.0 0 1 1 3 2 0 2 5 -8
+p572
+aVBrandon Rush GSW 01/14/2012 GSW @ CHA L 26 7 1 4 25.0 1 2 50.0 4 6 66.7 0 4 4 0 1 1 0 0 -5
+p573
+aVKlay Thompson GSW 01/14/2012 GSW @ CHA L 16 4 2 8 25.0 0 5 0.0 0 0 - 0 1 1 1 1 0 4 4 0
+p574
+aVDominic McGuire GSW 01/14/2012 GSW @ CHA L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 2 1 1 1 2 3
+p575
+aVDorell Wright GSW 01/14/2012 GSW @ CHA L 26 12 3 6 50.0 1 4 25.0 5 6 83.3 0 3 3 0 0 0 0 1 -10
+p576
+aVEarl Barron GSW 01/14/2012 GSW @ CHA L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -2
+p577
+aVDavid Lee GSW 01/14/2012 GSW @ CHA L 33 24 11 18 61.1 0 0 - 2 3 66.7 8 8 16 3 0 1 2 4 -13
+p578
+aVMonta Ellis GSW 01/14/2012 GSW @ CHA L 33 18 6 26 23.1 1 4 25.0 5 6 83.3 1 4 5 6 1 0 2 2 -11
+p579
+aVChris Wright GSW 01/14/2012 GSW @ CHA L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -8
+p580
+aVCharles Jenkins GSW 01/14/2012 GSW @ CHA L 22 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 3 1 0 0 3 -3
+p581
+aVEkpe Udoh GSW 01/14/2012 GSW @ CHA L 11 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 0 0 2 1 2 -4
+p582
+aVAndris Biedrins GSW 01/14/2012 GSW @ CHA L 14 8 4 4 100.0 0 0 - 0 0 - 2 3 5 0 1 0 0 4 1
+p583
+aVKlay Thompson GSW 01/12/2012 GSW vs. ORL L 23 14 5 8 62.5 4 5 80.0 0 0 - 0 3 3 1 1 0 2 5 -16
+p584
+aVDavid Lee GSW 01/12/2012 GSW vs. ORL L 42 26 11 17 64.7 0 0 - 4 6 66.7 2 10 12 4 2 0 5 6 -8
+p585
+aVAndris Biedrins GSW 01/12/2012 GSW vs. ORL L 21 2 1 1 100.0 0 0 - 0 0 - 1 7 8 0 1 2 0 6 4
+p586
+aVDominic McGuire GSW 01/12/2012 GSW vs. ORL L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -13
+p587
+aVCharles Jenkins GSW 01/12/2012 GSW vs. ORL L 13 8 4 7 57.1 0 0 - 0 0 - 0 1 1 3 1 0 0 2 0
+p588
+aVJeremy Tyler GSW 01/12/2012 GSW vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p589
+aVNate Robinson GSW 01/12/2012 GSW vs. ORL L 35 14 5 13 38.5 0 4 0.0 4 5 80.0 1 4 5 3 1 0 0 3 -8
+p590
+aVEkpe Udoh GSW 01/12/2012 GSW vs. ORL L 15 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 5 4
+p591
+aVMonta Ellis GSW 01/12/2012 GSW vs. ORL L 43 30 12 23 52.2 3 8 37.5 3 4 75.0 1 1 2 11 1 0 4 3 -2
+p592
+aVBrandon Rush GSW 01/12/2012 GSW vs. ORL L 40 12 4 8 50.0 3 6 50.0 1 2 50.0 0 4 4 3 0 0 2 3 4
+p593
+aVDavid Lee GSW 01/10/2012 GSW vs. MIA W 48 20 9 17 52.9 0 0 - 2 2 100.0 8 6 14 3 4 0 0 3 4
+p594
+aVNate Robinson GSW 01/10/2012 GSW vs. MIA W 36 24 4 12 33.3 2 5 40.0 14 14 100.0 1 3 4 5 4 0 2 5 12
+p595
+aVChris Wright GSW 01/10/2012 GSW vs. MIA W 0 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p596
+aVBrandon Rush GSW 01/10/2012 GSW vs. MIA W 27 8 2 7 28.6 0 2 0.0 4 5 80.0 2 2 4 3 1 3 3 0 5
+p597
+aVKwame Brown GSW 01/10/2012 GSW vs. MIA W 21 8 3 5 60.0 0 0 - 2 3 66.7 2 4 6 0 0 0 1 4 -13
+p598
+aVMonta Ellis GSW 01/10/2012 GSW vs. MIA W 44 22 9 25 36.0 1 7 14.3 3 4 75.0 0 3 3 3 3 1 9 4 4
+p599
+aVDorell Wright GSW 01/10/2012 GSW vs. MIA W 38 20 7 15 46.7 6 11 54.5 0 0 - 1 9 10 0 1 1 3 3 8
+p600
+aVDominic McGuire GSW 01/10/2012 GSW vs. MIA W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -1
+p601
+aVCharles Jenkins GSW 01/10/2012 GSW vs. MIA W 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 4 1 0 2 1 -4
+p602
+aVEkpe Udoh GSW 01/10/2012 GSW vs. MIA W 21 0 0 3 0.0 0 0 - 0 0 - 3 4 7 3 0 3 0 3 7
+p603
+aVKlay Thompson GSW 01/10/2012 GSW vs. MIA W 13 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 2 0 1 0 3 3
+p604
+aVDavid Lee GSW 01/07/2012 GSW vs. UTA L 42 13 6 12 50.0 0 0 - 1 1 100.0 1 14 15 1 1 1 2 3 -3
+p605
+aVKwame Brown GSW 01/07/2012 GSW vs. UTA L 31 8 3 4 75.0 0 0 - 2 2 100.0 3 4 7 0 0 0 3 1 -15
+p606
+aVDorell Wright GSW 01/07/2012 GSW vs. UTA L 20 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 3 -11
+p607
+aVCharles Jenkins GSW 01/07/2012 GSW vs. UTA L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -17
+p608
+aVEkpe Udoh GSW 01/07/2012 GSW vs. UTA L 15 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 2 0 2 1 4 11
+p609
+aVDominic McGuire GSW 01/07/2012 GSW vs. UTA L 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 2
+p610
+aVJeremy Tyler GSW 01/07/2012 GSW vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p611
+aVMonta Ellis GSW 01/07/2012 GSW vs. UTA L 36 32 8 22 36.4 0 5 0.0 16 17 94.1 0 3 3 6 0 0 6 2 -3
+p612
+aVBrandon Rush GSW 01/07/2012 GSW vs. UTA L 28 14 5 7 71.4 4 6 66.7 0 0 - 1 3 4 1 1 0 1 3 10
+p613
+aVKlay Thompson GSW 01/07/2012 GSW vs. UTA L 23 2 1 6 16.7 0 1 0.0 0 0 - 0 0 0 3 1 0 2 2 11
+p614
+aVNate Robinson GSW 01/07/2012 GSW vs. UTA L 27 11 4 9 44.4 3 6 50.0 0 0 - 2 0 2 5 0 0 1 3 7
+p615
+aVDominic McGuire GSW 01/06/2012 GSW @ LAL L 17 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -6
+p616
+aVKlay Thompson GSW 01/06/2012 GSW @ LAL L 22 14 6 8 75.0 2 3 66.7 0 0 - 1 0 1 1 0 0 1 2 6
+p617
+aVNate Robinson GSW 01/06/2012 GSW @ LAL L 31 9 4 10 40.0 0 4 0.0 1 2 50.0 0 1 1 4 1 0 2 3 -1
+p618
+aVCharles Jenkins GSW 01/06/2012 GSW @ LAL L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p619
+aVMonta Ellis GSW 01/06/2012 GSW @ LAL L 39 18 8 20 40.0 0 2 0.0 2 5 40.0 2 1 3 10 5 0 2 1 -7
+p620
+aVBrandon Rush GSW 01/06/2012 GSW @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p621
+aVDorell Wright GSW 01/06/2012 GSW @ LAL L 24 10 4 8 50.0 2 5 40.0 0 0 - 0 3 3 1 1 1 1 5 -2
+p622
+aVDavid Lee GSW 01/06/2012 GSW @ LAL L 37 15 6 11 54.5 0 0 - 3 4 75.0 4 7 11 0 1 0 7 5 -3
+p623
+aVKwame Brown GSW 01/06/2012 GSW @ LAL L 34 13 6 13 46.2 0 0 - 1 4 25.0 1 5 6 2 1 0 2 3 -11
+p624
+aVEkpe Udoh GSW 01/06/2012 GSW @ LAL L 15 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 3 3 -4
+p625
+aVChris Wright GSW 01/06/2012 GSW @ LAL L 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 2 -2
+p626
+aVDominic McGuire GSW 01/04/2012 GSW @ SAS L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 2 0 1 -3
+p627
+aVBrandon Rush GSW 01/04/2012 GSW @ SAS L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -6
+p628
+aVKlay Thompson GSW 01/04/2012 GSW @ SAS L 25 10 4 10 40.0 2 6 33.3 0 0 - 0 3 3 0 0 0 0 4 -11
+p629
+aVIsh Smith GSW 01/04/2012 GSW @ SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p630
+aVAndris Biedrins GSW 01/04/2012 GSW @ SAS L 14 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 3 0 0 0
+p631
+aVStephen Curry GSW 01/04/2012 GSW @ SAS L 30 20 7 11 63.6 3 4 75.0 3 3 100.0 0 3 3 8 0 0 2 2 2
+p632
+aVDavid Lee GSW 01/04/2012 GSW @ SAS L 38 13 5 13 38.5 0 0 - 3 4 75.0 1 9 10 0 0 0 2 3 -13
+p633
+aVCharles Jenkins GSW 01/04/2012 GSW @ SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 2
+p634
+aVMonta Ellis GSW 01/04/2012 GSW @ SAS L 44 38 15 30 50.0 4 8 50.0 4 4 100.0 0 2 2 7 2 0 3 1 0
+p635
+aVKwame Brown GSW 01/04/2012 GSW @ SAS L 20 8 3 6 50.0 0 0 - 2 8 25.0 1 6 7 0 1 0 1 2 4
+p636
+aVDorell Wright GSW 01/04/2012 GSW @ SAS L 27 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 2 0 0 1 -7
+p637
+aVEkpe Udoh GSW 01/04/2012 GSW @ SAS L 12 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 1 1 3 2
+p638
+aVAndris Biedrins GSW 01/02/2012 GSW @ PHX L 12 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 2 0 1 2 4 8
+p639
+aVEkpe Udoh GSW 01/02/2012 GSW @ PHX L 25 11 5 8 62.5 0 0 - 1 2 50.0 1 2 3 1 1 0 3 3 -3
+p640
+aVKwame Brown GSW 01/02/2012 GSW @ PHX L 24 9 3 4 75.0 0 0 - 3 7 42.9 2 5 7 1 1 0 3 2 -19
+p641
+aVCharles Jenkins GSW 01/02/2012 GSW @ PHX L 14 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -16
+p642
+aVDominic McGuire GSW 01/02/2012 GSW @ PHX L 26 14 6 9 66.7 0 0 - 2 2 100.0 1 8 9 2 1 0 0 2 -7
+p643
+aVBrandon Rush GSW 01/02/2012 GSW @ PHX L 32 13 5 11 45.5 2 4 50.0 1 2 50.0 1 1 2 3 0 0 1 0 -9
+p644
+aVIsh Smith GSW 01/02/2012 GSW @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p645
+aVKlay Thompson GSW 01/02/2012 GSW @ PHX L 14 6 2 5 40.0 2 3 66.7 0 0 - 1 1 2 0 0 0 2 2 -7
+p646
+aVDorell Wright GSW 01/02/2012 GSW @ PHX L 26 0 0 4 0.0 0 3 0.0 0 0 - 0 4 4 4 1 1 1 1 0
+p647
+aVMonta Ellis GSW 01/02/2012 GSW @ PHX L 42 18 6 16 37.5 1 4 25.0 5 5 100.0 1 4 5 11 1 1 3 3 -1
+p648
+aVStephen Curry GSW 01/02/2012 GSW @ PHX L 23 10 4 8 50.0 2 3 66.7 0 0 - 0 2 2 2 1 0 2 5 -3
+p649
+aVIsh Smith GSW 12/31/2011 GSW vs. PHI L 24 9 4 11 36.4 0 2 0.0 1 2 50.0 1 2 3 5 2 0 0 1 0
+p650
+aVStephen Curry GSW 12/31/2011 GSW vs. PHI L 30 21 9 15 60.0 3 8 37.5 0 0 - 0 4 4 4 0 0 5 3 -22
+p651
+aVJeremy Tyler GSW 12/31/2011 GSW vs. PHI L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p652
+aVKwame Brown GSW 12/31/2011 GSW vs. PHI L 15 2 1 1 100.0 0 0 - 0 0 - 0 7 7 0 1 0 1 2 3
+p653
+aVKlay Thompson GSW 12/31/2011 GSW vs. PHI L 26 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 3 1 0 3 4 -13
+p654
+aVChris Wright GSW 12/31/2011 GSW vs. PHI L 6 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 1 0 -3
+p655
+aVDominic McGuire GSW 12/31/2011 GSW vs. PHI L 15 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 -20
+p656
+aVDorell Wright GSW 12/31/2011 GSW vs. PHI L 29 4 2 10 20.0 0 3 0.0 0 0 - 1 4 5 4 0 0 0 2 -16
+p657
+aVDavid Lee GSW 12/31/2011 GSW vs. PHI L 31 19 8 24 33.3 0 0 - 3 4 75.0 6 2 8 1 0 0 1 1 -16
+p658
+aVEkpe Udoh GSW 12/31/2011 GSW vs. PHI L 19 7 3 10 30.0 0 0 - 1 2 50.0 4 5 9 0 0 0 1 4 -16
+p659
+aVAndris Biedrins GSW 12/31/2011 GSW vs. PHI L 9 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 1 0 0 1 -5
+p660
+aVBrandon Rush GSW 12/31/2011 GSW vs. PHI L 32 4 1 6 16.7 0 2 0.0 2 4 50.0 0 2 2 2 1 1 1 1 -30
+p661
+aVDorell Wright GSW 12/28/2011 GSW vs. NYK W 42 8 3 9 33.3 1 4 25.0 1 2 50.0 1 7 8 2 1 1 0 2 15
+p662
+aVMonta Ellis GSW 12/28/2011 GSW vs. NYK W 34 22 8 22 36.4 2 6 33.3 4 5 80.0 0 1 1 8 1 0 3 1 4
+p663
+aVJeremy Tyler GSW 12/28/2011 GSW vs. NYK W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p664
+aVKwame Brown GSW 12/28/2011 GSW vs. NYK W 12 3 1 3 33.3 0 0 - 1 2 50.0 5 5 10 1 0 0 3 3 9
+p665
+aVCharles Jenkins GSW 12/28/2011 GSW vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -2
+p666
+aVAndris Biedrins GSW 12/28/2011 GSW vs. NYK W 14 2 1 1 100.0 0 0 - 0 0 - 1 6 7 0 0 1 0 2 -6
+p667
+aVDominic McGuire GSW 12/28/2011 GSW vs. NYK W 18 8 3 3 100.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 1 18
+p668
+aVDavid Lee GSW 12/28/2011 GSW vs. NYK W 39 13 4 8 50.0 0 0 - 5 9 55.6 1 4 5 1 1 0 4 1 12
+p669
+aVBrandon Rush GSW 12/28/2011 GSW vs. NYK W 26 19 7 13 53.8 2 3 66.7 3 4 75.0 1 5 6 2 2 2 1 4 21
+p670
+aVIsh Smith GSW 12/28/2011 GSW vs. NYK W 29 11 5 13 38.5 1 2 50.0 0 0 - 1 5 6 4 2 0 1 0 2
+p671
+aVEkpe Udoh GSW 12/28/2011 GSW vs. NYK W 13 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 3 0 0 2 -2
+p672
+aVKlay Thompson GSW 12/28/2011 GSW vs. NYK W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p673
+aVKwame Brown GSW 12/26/2011 GSW vs. CHI W 23 5 1 3 33.3 0 0 - 3 6 50.0 1 5 6 0 4 0 0 1 21
+p674
+aVKlay Thompson GSW 12/26/2011 GSW vs. CHI W 11 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 1 8
+p675
+aVDominic McGuire GSW 12/26/2011 GSW vs. CHI W 6 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 -6
+p676
+aVEkpe Udoh GSW 12/26/2011 GSW vs. CHI W 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 12
+p677
+aVDavid Lee GSW 12/26/2011 GSW vs. CHI W 34 22 8 16 50.0 0 0 - 6 8 75.0 1 6 7 1 1 0 1 2 -4
+p678
+aVAndris Biedrins GSW 12/26/2011 GSW vs. CHI W 14 0 0 4 0.0 0 0 - 0 0 - 3 1 4 0 3 1 0 2 -1
+p679
+aVStephen Curry GSW 12/26/2011 GSW vs. CHI W 37 21 7 12 58.3 1 3 33.3 6 7 85.7 1 6 7 10 6 0 4 4 11
+p680
+aVIsh Smith GSW 12/26/2011 GSW vs. CHI W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p681
+aVMonta Ellis GSW 12/26/2011 GSW vs. CHI W 37 26 10 17 58.8 1 4 25.0 5 6 83.3 0 2 2 7 0 1 3 3 0
+p682
+aVDorell Wright GSW 12/26/2011 GSW vs. CHI W 34 13 6 10 60.0 1 4 25.0 0 0 - 0 3 3 1 1 0 0 3 -12
+p683
+aVBrandon Rush GSW 12/26/2011 GSW vs. CHI W 27 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 1 1 2 2 1 11
+p684
+aVBrandon Rush GSW 12/25/2011 GSW vs. LAC L 28 12 3 6 50.0 2 2 100.0 4 4 100.0 0 3 3 0 1 2 1 4 -21
+p685
+aVJeremy Tyler GSW 12/25/2011 GSW vs. LAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p686
+aVStephen Curry GSW 12/25/2011 GSW vs. LAC L 33 4 2 12 16.7 0 4 0.0 0 1 0.0 2 3 5 4 2 2 5 4 -5
+p687
+aVKwame Brown GSW 12/25/2011 GSW vs. LAC L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 -7
+p688
+aVDominic McGuire GSW 12/25/2011 GSW vs. LAC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p689
+aVIsh Smith GSW 12/25/2011 GSW vs. LAC L 5 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 0
+p690
+aVKlay Thompson GSW 12/25/2011 GSW vs. LAC L 19 7 2 8 25.0 1 3 33.3 2 2 100.0 1 2 3 1 0 0 2 3 -10
+p691
+aVCharles Jenkins GSW 12/25/2011 GSW vs. LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p692
+aVEkpe Udoh GSW 12/25/2011 GSW vs. LAC L 13 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -2
+p693
+aVMonta Ellis GSW 12/25/2011 GSW vs. LAC L 43 15 6 19 31.6 0 5 0.0 3 6 50.0 2 2 4 8 1 0 4 4 -22
+p694
+aVDavid Lee GSW 12/25/2011 GSW vs. LAC L 35 21 10 19 52.6 0 0 - 1 2 50.0 4 8 12 2 0 1 4 6 -18
+p695
+aVDorell Wright GSW 12/25/2011 GSW vs. LAC L 31 8 1 6 16.7 1 6 16.7 5 5 100.0 4 5 9 1 0 0 0 1 -2
+p696
+aVAndris Biedrins GSW 12/25/2011 GSW vs. LAC L 20 10 5 5 100.0 0 0 - 0 0 - 2 6 8 0 0 3 0 4 -1
+p697
+a.

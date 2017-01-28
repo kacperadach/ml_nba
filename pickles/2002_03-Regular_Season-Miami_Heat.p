@@ -1,0 +1,1646 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMalik Allen MIA 04/15/2003 MIA @ TOR W 24 11 5 9 55.6 0 0 - 1 1 100.0 1 3 4 2 0 0 0 3 -10
+p2
+aVMike James MIA 04/15/2003 MIA @ TOR W 25 15 5 8 62.5 3 5 60.0 2 2 100.0 3 3 6 7 0 0 1 1 16
+p3
+aVRasual Butler MIA 04/15/2003 MIA @ TOR W 42 19 7 15 46.7 1 2 50.0 4 4 100.0 0 4 4 2 0 0 1 3 6
+p4
+aVEddie House MIA 04/15/2003 MIA @ TOR W 9 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 1 8
+p5
+aVSean Lampley MIA 04/15/2003 MIA @ TOR W 27 7 1 5 20.0 0 0 - 5 8 62.5 1 0 1 4 0 0 0 2 8
+p6
+aVLaPhonso Ellis MIA 04/15/2003 MIA @ TOR W 26 13 5 13 38.5 1 4 25.0 2 2 100.0 3 4 7 1 0 0 1 3 17
+p7
+aVTravis Best MIA 04/15/2003 MIA @ TOR W 12 7 3 3 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 1 0 -5
+p8
+aVAnthony Carter MIA 04/15/2003 MIA @ TOR W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p9
+aVBrian Grant MIA 04/15/2003 MIA @ TOR W 6 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 0 0
+p10
+aVKen Johnson MIA 04/15/2003 MIA @ TOR W 33 8 4 9 44.4 0 0 - 0 0 - 1 9 10 0 1 1 1 5 -4
+p11
+aVCaron Butler MIA 04/15/2003 MIA @ TOR W 22 7 3 9 33.3 0 2 0.0 1 1 100.0 0 3 3 4 0 1 2 1 -19
+p12
+aVVladimir Stepania MIA 04/15/2003 MIA @ TOR W 6 8 3 5 60.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 5
+p13
+aVKen Johnson MIA 04/13/2003 MIA vs. BOS L 28 8 4 7 57.1 0 0 - 0 0 - 1 6 7 0 0 2 2 5 -6
+p14
+aVAnthony Carter MIA 04/13/2003 MIA vs. BOS L 17 2 1 4 25.0 0 0 - 0 2 0.0 1 3 4 5 0 0 1 0 -6
+p15
+aVRasual Butler MIA 04/13/2003 MIA vs. BOS L 24 10 4 13 30.8 0 4 0.0 2 3 66.7 0 1 1 2 0 1 0 4 -2
+p16
+aVTravis Best MIA 04/13/2003 MIA vs. BOS L 18 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 1 1 0 1 1 -6
+p17
+aVEddie House MIA 04/13/2003 MIA vs. BOS L 20 9 3 8 37.5 0 1 0.0 3 4 75.0 0 1 1 1 0 0 2 2 2
+p18
+aVCaron Butler MIA 04/13/2003 MIA vs. BOS L 32 20 5 11 45.5 1 5 20.0 9 9 100.0 0 4 4 4 3 0 4 0 -7
+p19
+aVSean Lampley MIA 04/13/2003 MIA vs. BOS L 25 7 2 4 50.0 0 0 - 3 6 50.0 2 4 6 2 0 1 0 3 -2
+p20
+aVMalik Allen MIA 04/13/2003 MIA vs. BOS L 20 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -9
+p21
+aVMike James MIA 04/13/2003 MIA vs. BOS L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 0 3 -3
+p22
+aVBrian Grant MIA 04/13/2003 MIA vs. BOS L 20 7 3 4 75.0 0 0 - 1 1 100.0 2 4 6 0 0 0 1 1 -2
+p23
+aVLaPhonso Ellis MIA 04/13/2003 MIA vs. BOS L 28 10 5 10 50.0 0 3 0.0 0 0 - 1 8 9 0 1 0 1 4 1
+p24
+aVKen Johnson MIA 04/11/2003 MIA vs. WAS L 17 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 0 1 2 4 2
+p25
+aVVladimir Stepania MIA 04/11/2003 MIA vs. WAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p26
+aVEddie House MIA 04/11/2003 MIA vs. WAS L 15 10 5 7 71.4 0 1 0.0 0 0 - 0 1 1 0 1 0 2 3 8
+p27
+aVMike James MIA 04/11/2003 MIA vs. WAS L 7 8 3 4 75.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 1
+p28
+aVSean Lampley MIA 04/11/2003 MIA vs. WAS L 26 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 4 1 0 2 4 -5
+p29
+aVCaron Butler MIA 04/11/2003 MIA vs. WAS L 43 19 6 13 46.2 1 2 50.0 6 6 100.0 1 4 5 8 1 2 2 1 -2
+p30
+aVRasual Butler MIA 04/11/2003 MIA vs. WAS L 20 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 1 1 1 2 2 -2
+p31
+aVMalik Allen MIA 04/11/2003 MIA vs. WAS L 28 6 3 9 33.3 0 0 - 0 0 - 4 4 8 0 0 1 0 1 -3
+p32
+aVAnthony Carter MIA 04/11/2003 MIA vs. WAS L 24 8 4 7 57.1 0 0 - 0 1 0.0 0 2 2 2 0 0 3 1 -10
+p33
+aVBrian Grant MIA 04/11/2003 MIA vs. WAS L 24 3 1 2 50.0 0 0 - 1 2 50.0 0 5 5 0 0 1 3 1 2
+p34
+aVTravis Best MIA 04/11/2003 MIA vs. WAS L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p35
+aVLaPhonso Ellis MIA 04/11/2003 MIA vs. WAS L 20 8 2 6 33.3 1 3 33.3 3 6 50.0 2 3 5 1 1 0 0 2 1
+p36
+aVKen Johnson MIA 04/08/2003 MIA vs. TOR W 5 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -4
+p37
+aVAnthony Carter MIA 04/08/2003 MIA vs. TOR W 29 7 2 4 50.0 0 0 - 3 4 75.0 0 3 3 10 2 0 4 2 11
+p38
+aVBrian Grant MIA 04/08/2003 MIA vs. TOR W 31 16 7 11 63.6 0 0 - 2 2 100.0 1 9 10 0 1 0 0 1 -2
+p39
+aVRasual Butler MIA 04/08/2003 MIA vs. TOR W 31 11 4 12 33.3 2 2 100.0 1 2 50.0 0 1 1 2 1 2 1 1 12
+p40
+aVSean Lampley MIA 04/08/2003 MIA vs. TOR W 17 9 4 10 40.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 0 5
+p41
+aVCaron Butler MIA 04/08/2003 MIA vs. TOR W 32 12 4 14 28.6 0 1 0.0 4 4 100.0 1 4 5 3 2 1 3 1 2
+p42
+aVLaPhonso Ellis MIA 04/08/2003 MIA vs. TOR W 24 10 3 5 60.0 0 1 0.0 4 4 100.0 0 6 6 0 0 2 1 3 15
+p43
+aVVladimir Stepania MIA 04/08/2003 MIA vs. TOR W 15 6 2 6 33.3 0 0 - 2 2 100.0 6 6 12 1 1 1 1 2 3
+p44
+aVMike James MIA 04/08/2003 MIA vs. TOR W 17 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 2 -6
+p45
+aVTravis Best MIA 04/08/2003 MIA vs. TOR W 19 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 2 -5
+p46
+aVMalik Allen MIA 04/08/2003 MIA vs. TOR W 19 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -1
+p47
+aVMike James MIA 04/06/2003 MIA @ IND L 22 19 7 11 63.6 2 3 66.7 3 3 100.0 0 0 0 3 0 0 1 0 4
+p48
+aVVladimir Stepania MIA 04/06/2003 MIA @ IND L 22 6 3 7 42.9 0 0 - 0 0 - 3 4 7 1 1 1 3 3 -23
+p49
+aVEddie House MIA 04/06/2003 MIA @ IND L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 3 0 -21
+p50
+aVCaron Butler MIA 04/06/2003 MIA @ IND L 33 5 2 13 15.4 1 4 25.0 0 1 0.0 0 6 6 3 3 0 2 4 -28
+p51
+aVSean Lampley MIA 04/06/2003 MIA @ IND L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p52
+aVBrian Grant MIA 04/06/2003 MIA @ IND L 28 15 5 8 62.5 0 0 - 5 5 100.0 1 9 10 0 0 0 3 5 -21
+p53
+aVTravis Best MIA 04/06/2003 MIA @ IND L 26 2 1 9 11.1 0 1 0.0 0 0 - 0 5 5 2 0 0 0 0 -10
+p54
+aVMalik Allen MIA 04/06/2003 MIA @ IND L 15 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 2 1 3 -4
+p55
+aVKen Johnson MIA 04/06/2003 MIA @ IND L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 5
+p56
+aVRasual Butler MIA 04/06/2003 MIA @ IND L 23 6 2 12 16.7 1 5 20.0 1 2 50.0 1 4 5 3 0 0 1 3 -4
+p57
+aVLaPhonso Ellis MIA 04/06/2003 MIA @ IND L 19 4 2 5 40.0 0 3 0.0 0 0 - 1 4 5 0 0 0 1 1 2
+p58
+aVAnthony Carter MIA 04/06/2003 MIA @ IND L 22 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 4 1 0 1 0 -11
+p59
+aVAnthony Carter MIA 04/04/2003 MIA @ NJN L 28 4 2 6 33.3 0 0 - 0 0 - 1 2 3 7 1 1 1 1 5
+p60
+aVBrian Grant MIA 04/04/2003 MIA @ NJN L 35 23 9 12 75.0 0 0 - 5 7 71.4 3 5 8 2 2 1 1 3 -6
+p61
+aVVladimir Stepania MIA 04/04/2003 MIA @ NJN L 15 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 0 2 0 1 4 -16
+p62
+aVEddie House MIA 04/04/2003 MIA @ NJN L 23 10 3 9 33.3 2 5 40.0 2 2 100.0 0 1 1 1 0 0 2 2 -2
+p63
+aVCaron Butler MIA 04/04/2003 MIA @ NJN L 35 15 5 13 38.5 0 2 0.0 5 5 100.0 1 3 4 4 2 1 2 2 -14
+p64
+aVMalik Allen MIA 04/04/2003 MIA @ NJN L 15 3 0 3 0.0 0 0 - 3 4 75.0 2 1 3 0 0 1 1 4 -3
+p65
+aVTravis Best MIA 04/04/2003 MIA @ NJN L 19 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 3 3 -14
+p66
+aVRasual Butler MIA 04/04/2003 MIA @ NJN L 27 7 2 5 40.0 0 1 0.0 3 5 60.0 1 6 7 2 2 1 3 2 -1
+p67
+aVMike James MIA 04/04/2003 MIA @ NJN L 14 7 2 5 40.0 0 1 0.0 3 6 50.0 0 0 0 2 0 0 0 0 -12
+p68
+aVSean Lampley MIA 04/04/2003 MIA @ NJN L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -4
+p69
+aVLaPhonso Ellis MIA 04/04/2003 MIA @ NJN L 20 9 3 8 37.5 1 3 33.3 2 4 50.0 3 2 5 1 1 0 2 3 -13
+p70
+aVSean Lampley MIA 04/02/2003 MIA @ BOS L 18 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 2 -5
+p71
+aVVladimir Stepania MIA 04/02/2003 MIA @ BOS L 31 10 5 11 45.5 0 0 - 0 0 - 6 5 11 0 0 0 1 1 -27
+p72
+aVTravis Best MIA 04/02/2003 MIA @ BOS L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p73
+aVRasual Butler MIA 04/02/2003 MIA @ BOS L 21 3 1 10 10.0 1 4 25.0 0 0 - 1 1 2 1 0 1 4 2 -24
+p74
+aVBrian Grant MIA 04/02/2003 MIA @ BOS L 29 6 3 8 37.5 0 0 - 0 0 - 1 11 12 2 1 0 2 1 -19
+p75
+aVLaPhonso Ellis MIA 04/02/2003 MIA @ BOS L 16 8 3 8 37.5 1 5 20.0 1 1 100.0 0 7 7 0 0 0 3 1 -8
+p76
+aVMike James MIA 04/02/2003 MIA @ BOS L 17 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 2 0 0 3 2 -10
+p77
+aVAnthony Carter MIA 04/02/2003 MIA @ BOS L 23 2 1 3 33.3 0 0 - 0 0 - 0 2 2 8 1 0 3 3 -17
+p78
+aVCaron Butler MIA 04/02/2003 MIA @ BOS L 36 18 8 16 50.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 3 2 -31
+p79
+aVEddie House MIA 04/02/2003 MIA @ BOS L 24 7 3 11 27.3 1 5 20.0 0 0 - 0 2 2 4 1 0 1 2 0
+p80
+aVKen Johnson MIA 04/02/2003 MIA @ BOS L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p81
+aVMalik Allen MIA 04/02/2003 MIA @ BOS L 9 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 1 1 0 0
+p82
+aVMike James MIA 03/31/2003 MIA vs. MIL L 23 2 1 7 14.3 0 4 0.0 0 0 - 1 0 1 3 0 0 3 1 -11
+p83
+aVMalik Allen MIA 03/31/2003 MIA vs. MIL L 23 8 2 9 22.2 0 0 - 4 4 100.0 1 4 5 0 0 1 0 1 -9
+p84
+aVRasual Butler MIA 03/31/2003 MIA vs. MIL L 41 15 5 15 33.3 3 8 37.5 2 2 100.0 1 5 6 3 1 1 1 1 -3
+p85
+aVEddie House MIA 03/31/2003 MIA vs. MIL L 29 21 8 15 53.3 3 5 60.0 2 2 100.0 0 2 2 5 2 0 1 3 0
+p86
+aVSean Lampley MIA 03/31/2003 MIA vs. MIL L 7 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 1 -2
+p87
+aVAnthony Carter MIA 03/31/2003 MIA vs. MIL L 27 5 2 8 25.0 0 0 - 1 2 50.0 0 0 0 2 0 0 2 4 -5
+p88
+aVTravis Best MIA 03/31/2003 MIA vs. MIL L 18 7 3 7 42.9 1 5 20.0 0 0 - 2 1 3 7 1 0 2 3 4
+p89
+aVBrian Grant MIA 03/31/2003 MIA vs. MIL L 41 15 7 12 58.3 0 0 - 1 2 50.0 4 13 17 4 1 0 3 4 -2
+p90
+aVVladimir Stepania MIA 03/31/2003 MIA vs. MIL L 32 11 5 9 55.6 0 0 - 1 3 33.3 3 10 13 1 0 0 1 2 3
+p91
+aVTravis Best MIA 03/30/2003 MIA @ MIL L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -3
+p92
+aVVladimir Stepania MIA 03/30/2003 MIA @ MIL L 22 4 2 9 22.2 0 0 - 0 0 - 5 5 10 1 2 0 1 1 -24
+p93
+aVSean Lampley MIA 03/30/2003 MIA @ MIL L 12 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 1 0 0 1 0 9
+p94
+aVBrian Grant MIA 03/30/2003 MIA @ MIL L 27 6 1 8 12.5 0 0 - 4 4 100.0 1 1 2 0 0 0 1 4 -22
+p95
+aVMalik Allen MIA 03/30/2003 MIA @ MIL L 29 11 4 9 44.4 0 0 - 3 4 75.0 1 4 5 2 0 0 0 3 -10
+p96
+aVKen Johnson MIA 03/30/2003 MIA @ MIL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p97
+aVEddie House MIA 03/30/2003 MIA @ MIL L 27 12 5 15 33.3 1 5 20.0 1 1 100.0 1 2 3 2 1 0 1 0 -14
+p98
+aVAnthony Carter MIA 03/30/2003 MIA @ MIL L 25 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 4 2 0 2 3 -17
+p99
+aVCaron Butler MIA 03/30/2003 MIA @ MIL L 36 24 8 10 80.0 2 2 100.0 6 8 75.0 2 2 4 1 3 1 1 2 -18
+p100
+aVRasual Butler MIA 03/30/2003 MIA @ MIL L 21 3 1 5 20.0 0 1 0.0 1 2 50.0 0 1 1 1 0 1 1 0 -9
+p101
+aVMike James MIA 03/30/2003 MIA @ MIL L 35 15 6 10 60.0 3 5 60.0 0 0 - 0 1 1 7 0 0 1 5 -5
+p102
+aVTravis Best MIA 03/28/2003 MIA vs. MIN W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -4
+p103
+aVBrian Grant MIA 03/28/2003 MIA vs. MIN W 30 11 5 7 71.4 0 0 - 1 1 100.0 2 6 8 3 0 0 2 4 29
+p104
+aVRasual Butler MIA 03/28/2003 MIA vs. MIN W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 0 -6
+p105
+aVCaron Butler MIA 03/28/2003 MIA vs. MIN W 39 35 15 22 68.2 1 2 50.0 4 7 57.1 1 2 3 7 4 2 4 5 23
+p106
+aVVladimir Stepania MIA 03/28/2003 MIA vs. MIN W 32 12 5 6 83.3 0 0 - 2 2 100.0 1 4 5 1 1 1 2 1 0
+p107
+aVAnthony Carter MIA 03/28/2003 MIA vs. MIN W 35 10 5 7 71.4 0 0 - 0 0 - 0 6 6 11 2 0 1 1 32
+p108
+aVLaPhonso Ellis MIA 03/28/2003 MIA vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 5
+p109
+aVEddie House MIA 03/28/2003 MIA vs. MIN W 19 18 6 10 60.0 4 5 80.0 2 2 100.0 0 2 2 3 1 0 0 2 10
+p110
+aVKen Johnson MIA 03/28/2003 MIA vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 1 1 -1
+p111
+aVMike James MIA 03/28/2003 MIA vs. MIN W 30 15 6 9 66.7 0 2 0.0 3 6 50.0 0 5 5 2 2 0 3 4 26
+p112
+aVMalik Allen MIA 03/28/2003 MIA vs. MIN W 28 10 4 9 44.4 0 0 - 2 2 100.0 3 5 8 1 1 3 1 3 21
+p113
+aVTravis Best MIA 03/26/2003 MIA @ CHI L 19 3 1 8 12.5 1 2 50.0 0 0 - 0 2 2 2 1 0 0 1 -10
+p114
+aVLaPhonso Ellis MIA 03/26/2003 MIA @ CHI L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 1 -1
+p115
+aVSean Lampley MIA 03/26/2003 MIA @ CHI L 23 10 3 4 75.0 0 0 - 4 4 100.0 1 5 6 1 1 0 3 1 -2
+p116
+aVEddie House MIA 03/26/2003 MIA @ CHI L 25 15 5 15 33.3 1 3 33.3 4 4 100.0 0 4 4 0 1 0 1 1 2
+p117
+aVBrian Grant MIA 03/26/2003 MIA @ CHI L 33 6 1 8 12.5 0 0 - 4 4 100.0 1 8 9 2 2 0 0 5 2
+p118
+aVRasual Butler MIA 03/26/2003 MIA @ CHI L 17 7 2 5 40.0 1 2 50.0 2 2 100.0 1 2 3 1 0 0 0 0 -5
+p119
+aVAnthony Carter MIA 03/26/2003 MIA @ CHI L 29 8 2 6 33.3 0 0 - 4 4 100.0 1 0 1 6 1 0 4 4 2
+p120
+aVMalik Allen MIA 03/26/2003 MIA @ CHI L 25 6 2 12 16.7 0 0 - 2 2 100.0 1 6 7 1 0 1 1 4 -9
+p121
+aVCaron Butler MIA 03/26/2003 MIA @ CHI L 38 16 6 11 54.5 0 1 0.0 4 5 80.0 2 2 4 3 3 0 3 4 -8
+p122
+aVVladimir Stepania MIA 03/26/2003 MIA @ CHI L 18 3 1 7 14.3 0 0 - 1 4 25.0 2 3 5 0 1 0 1 2 -11
+p123
+aVTravis Best MIA 03/25/2003 MIA @ MIN L 18 6 3 6 50.0 0 3 0.0 0 0 - 0 0 0 1 0 0 2 1 -13
+p124
+aVMike James MIA 03/25/2003 MIA @ MIN L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -5
+p125
+aVBrian Grant MIA 03/25/2003 MIA @ MIN L 27 10 5 9 55.6 0 0 - 0 0 - 3 3 6 0 1 1 0 3 -14
+p126
+aVAnthony Carter MIA 03/25/2003 MIA @ MIN L 27 6 3 6 50.0 0 0 - 0 0 - 0 1 1 15 2 0 1 3 -6
+p127
+aVMalik Allen MIA 03/25/2003 MIA @ MIN L 27 11 4 14 28.6 0 0 - 3 3 100.0 0 5 5 1 1 1 0 0 -7
+p128
+aVSean Lampley MIA 03/25/2003 MIA @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p129
+aVVladimir Stepania MIA 03/25/2003 MIA @ MIN L 18 7 2 7 28.6 0 0 - 3 5 60.0 1 1 2 0 0 2 0 2 -16
+p130
+aVKen Johnson MIA 03/25/2003 MIA @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p131
+aVCaron Butler MIA 03/25/2003 MIA @ MIN L 34 21 7 14 50.0 2 4 50.0 5 5 100.0 0 5 5 6 4 0 5 2 -15
+p132
+aVEddie House MIA 03/25/2003 MIA @ MIN L 17 11 5 7 71.4 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 0
+p133
+aVLaPhonso Ellis MIA 03/25/2003 MIA @ MIN L 20 13 5 11 45.5 2 4 50.0 1 1 100.0 2 2 4 0 1 0 1 5 -4
+p134
+aVRasual Butler MIA 03/25/2003 MIA @ MIN L 32 6 2 7 28.6 0 2 0.0 2 2 100.0 0 5 5 2 0 0 0 0 -14
+p135
+aVVladimir Stepania MIA 03/23/2003 MIA vs. ORL L 17 4 1 5 20.0 0 0 - 2 2 100.0 4 4 8 0 0 0 0 1 -4
+p136
+aVAnthony Carter MIA 03/23/2003 MIA vs. ORL L 30 8 3 7 42.9 0 1 0.0 2 2 100.0 0 7 7 2 4 0 5 0 -15
+p137
+aVBrian Grant MIA 03/23/2003 MIA vs. ORL L 27 7 2 6 33.3 0 0 - 3 4 75.0 2 5 7 3 1 0 2 3 -13
+p138
+aVKen Johnson MIA 03/23/2003 MIA vs. ORL L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 3 0 1 -3
+p139
+aVLaPhonso Ellis MIA 03/23/2003 MIA vs. ORL L 16 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 0 0 -4
+p140
+aVRasual Butler MIA 03/23/2003 MIA vs. ORL L 21 6 1 6 16.7 0 2 0.0 4 4 100.0 0 4 4 5 0 0 1 1 -14
+p141
+aVMalik Allen MIA 03/23/2003 MIA vs. ORL L 27 2 1 8 12.5 0 1 0.0 0 0 - 2 7 9 0 1 0 2 2 -18
+p142
+aVSean Lampley MIA 03/23/2003 MIA vs. ORL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p143
+aVEddie House MIA 03/23/2003 MIA vs. ORL L 29 13 6 16 37.5 0 5 0.0 1 1 100.0 0 0 0 1 0 0 2 1 -13
+p144
+aVTravis Best MIA 03/23/2003 MIA vs. ORL L 26 10 3 10 30.0 1 3 33.3 3 3 100.0 0 6 6 3 2 0 3 4 1
+p145
+aVCaron Butler MIA 03/23/2003 MIA vs. ORL L 33 19 8 16 50.0 0 3 0.0 3 4 75.0 1 2 3 0 2 0 3 2 -29
+p146
+aVTravis Best MIA 03/21/2003 MIA vs. TOR W 22 9 3 6 50.0 0 1 0.0 3 3 100.0 0 2 2 8 2 0 2 1 11
+p147
+aVRasual Butler MIA 03/21/2003 MIA vs. TOR W 31 18 7 13 53.8 4 8 50.0 0 0 - 0 2 2 2 2 1 2 1 9
+p148
+aVSean Lampley MIA 03/21/2003 MIA vs. TOR W 20 11 4 7 57.1 0 1 0.0 3 4 75.0 0 2 2 2 0 0 1 3 7
+p149
+aVCaron Butler MIA 03/21/2003 MIA vs. TOR W 34 22 8 15 53.3 1 2 50.0 5 6 83.3 0 3 3 3 2 0 2 5 -5
+p150
+aVAnthony Carter MIA 03/21/2003 MIA vs. TOR W 26 0 0 3 0.0 0 0 - 0 0 - 0 3 3 6 0 0 3 3 -1
+p151
+aVMalik Allen MIA 03/21/2003 MIA vs. TOR W 26 18 9 15 60.0 0 0 - 0 0 - 1 1 2 0 1 1 0 0 4
+p152
+aVMike James MIA 03/21/2003 MIA vs. TOR W 11 6 2 2 100.0 1 1 100.0 1 2 50.0 0 1 1 2 1 0 1 0 7
+p153
+aVLaPhonso Ellis MIA 03/21/2003 MIA vs. TOR W 7 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 5
+p154
+aVKen Johnson MIA 03/21/2003 MIA vs. TOR W 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -6
+p155
+aVVladimir Stepania MIA 03/21/2003 MIA vs. TOR W 24 2 1 4 25.0 0 0 - 0 2 0.0 2 7 9 1 0 0 1 4 8
+p156
+aVBrian Grant MIA 03/21/2003 MIA vs. TOR W 24 12 5 8 62.5 0 0 - 2 2 100.0 2 8 10 2 0 0 1 4 6
+p157
+aVTravis Best MIA 03/19/2003 MIA @ ORL L 14 3 0 5 0.0 0 1 0.0 3 4 75.0 1 2 3 3 0 0 2 1 -5
+p158
+aVMalik Allen MIA 03/19/2003 MIA @ ORL L 26 12 4 9 44.4 0 0 - 4 4 100.0 2 4 6 1 0 1 1 3 -5
+p159
+aVEddie House MIA 03/19/2003 MIA @ ORL L 14 2 1 6 16.7 0 0 - 0 0 - 1 2 3 0 1 1 0 0 -8
+p160
+aVKen Johnson MIA 03/19/2003 MIA @ ORL L 6 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 1
+p161
+aVVladimir Stepania MIA 03/19/2003 MIA @ ORL L 24 12 6 9 66.7 0 0 - 0 0 - 3 4 7 0 1 0 3 2 -12
+p162
+aVMike James MIA 03/19/2003 MIA @ ORL L 12 3 1 5 20.0 0 2 0.0 1 2 50.0 1 1 2 2 2 0 1 1 10
+p163
+aVSean Lampley MIA 03/19/2003 MIA @ ORL L 8 6 2 3 66.7 0 1 0.0 2 4 50.0 2 3 5 0 0 0 0 1 2
+p164
+aVAnthony Carter MIA 03/19/2003 MIA @ ORL L 34 10 4 11 36.4 0 1 0.0 2 3 66.7 3 2 5 8 2 1 4 4 -11
+p165
+aVRasual Butler MIA 03/19/2003 MIA @ ORL L 33 8 4 11 36.4 0 1 0.0 0 0 - 0 5 5 2 0 3 2 2 -21
+p166
+aVCaron Butler MIA 03/19/2003 MIA @ ORL L 37 20 6 12 50.0 3 3 100.0 5 5 100.0 2 2 4 1 2 1 1 3 -16
+p167
+aVBrian Grant MIA 03/19/2003 MIA @ ORL L 31 17 6 11 54.5 0 0 - 5 6 83.3 3 1 4 0 1 0 1 3 -15
+p168
+aVVladimir Stepania MIA 03/18/2003 MIA vs. PHI L 27 14 7 8 87.5 0 0 - 0 0 - 2 6 8 0 0 0 1 1 -6
+p169
+aVKen Johnson MIA 03/18/2003 MIA vs. PHI L 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -6
+p170
+aVAnthony Carter MIA 03/18/2003 MIA vs. PHI L 28 4 1 8 12.5 0 1 0.0 2 2 100.0 1 0 1 4 1 0 2 2 -1
+p171
+aVCaron Butler MIA 03/18/2003 MIA vs. PHI L 34 26 10 18 55.6 1 3 33.3 5 5 100.0 0 6 6 1 1 0 2 4 -9
+p172
+aVSean Lampley MIA 03/18/2003 MIA vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p173
+aVMike James MIA 03/18/2003 MIA vs. PHI L 22 9 3 8 37.5 0 3 0.0 3 3 100.0 1 1 2 3 1 0 3 1 -6
+p174
+aVRasual Butler MIA 03/18/2003 MIA vs. PHI L 11 6 2 5 40.0 1 3 33.3 1 3 33.3 0 1 1 0 0 0 0 0 -11
+p175
+aVMalik Allen MIA 03/18/2003 MIA vs. PHI L 28 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 0 1 0 4 3 -12
+p176
+aVEddie House MIA 03/18/2003 MIA vs. PHI L 32 6 3 13 23.1 0 2 0.0 0 1 0.0 1 2 3 3 1 0 0 1 -14
+p177
+aVBrian Grant MIA 03/18/2003 MIA vs. PHI L 31 8 3 7 42.9 0 0 - 2 2 100.0 0 11 11 0 1 1 2 3 -14
+p178
+aVTravis Best MIA 03/18/2003 MIA vs. PHI L 20 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 1 0 -19
+p179
+aVBrian Grant MIA 03/15/2003 MIA @ WAS L 39 16 7 10 70.0 0 0 - 2 2 100.0 6 5 11 1 0 1 4 3 -2
+p180
+aVAnthony Carter MIA 03/15/2003 MIA @ WAS L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 2 0 0 0 -3
+p181
+aVVladimir Stepania MIA 03/15/2003 MIA @ WAS L 22 0 0 5 0.0 0 0 - 0 0 - 5 5 10 0 0 1 1 3 -10
+p182
+aVCaron Butler MIA 03/15/2003 MIA @ WAS L 41 14 4 15 26.7 1 5 20.0 5 8 62.5 1 3 4 5 3 1 3 4 -5
+p183
+aVRasual Butler MIA 03/15/2003 MIA @ WAS L 28 10 5 12 41.7 0 2 0.0 0 0 - 0 6 6 3 0 0 1 3 -4
+p184
+aVTravis Best MIA 03/15/2003 MIA @ WAS L 32 16 6 12 50.0 2 3 66.7 2 2 100.0 0 5 5 4 0 0 0 2 -2
+p185
+aVMike James MIA 03/15/2003 MIA @ WAS L 30 8 3 10 30.0 1 4 25.0 1 1 100.0 0 4 4 7 0 0 0 3 0
+p186
+aVSean Lampley MIA 03/15/2003 MIA @ WAS L 12 2 1 4 25.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 2 -6
+p187
+aVMalik Allen MIA 03/15/2003 MIA @ WAS L 30 14 6 9 66.7 0 0 - 2 2 100.0 1 2 3 1 1 1 4 5 -3
+p188
+aVBrian Grant MIA 03/14/2003 MIA vs. NOH L 30 9 4 9 44.4 0 0 - 1 2 50.0 1 3 4 1 2 0 1 3 -6
+p189
+aVMalik Allen MIA 03/14/2003 MIA vs. NOH L 33 6 3 9 33.3 0 0 - 0 0 - 2 6 8 2 0 1 0 1 -6
+p190
+aVVladimir Stepania MIA 03/14/2003 MIA vs. NOH L 28 17 8 10 80.0 0 0 - 1 3 33.3 0 3 3 0 1 0 0 2 2
+p191
+aVAnthony Carter MIA 03/14/2003 MIA vs. NOH L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p192
+aVCaron Butler MIA 03/14/2003 MIA vs. NOH L 45 25 11 25 44.0 1 3 33.3 2 2 100.0 4 2 6 3 2 0 3 5 -4
+p193
+aVSean Lampley MIA 03/14/2003 MIA vs. NOH L 19 6 1 2 50.0 0 0 - 4 4 100.0 2 3 5 2 0 0 0 1 4
+p194
+aVMike James MIA 03/14/2003 MIA vs. NOH L 22 4 2 9 22.2 0 2 0.0 0 0 - 1 1 2 3 0 0 1 1 -4
+p195
+aVTravis Best MIA 03/14/2003 MIA vs. NOH L 30 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 5 1 1 2 0 -4
+p196
+aVLaPhonso Ellis MIA 03/14/2003 MIA vs. NOH L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 2
+p197
+aVRasual Butler MIA 03/14/2003 MIA vs. NOH L 23 8 3 8 37.5 0 1 0.0 2 2 100.0 0 3 3 0 0 0 3 2 0
+p198
+aVTravis Best MIA 03/11/2003 MIA @ CLE W 39 16 5 11 45.5 1 4 25.0 5 6 83.3 1 3 4 5 1 1 2 2 -1
+p199
+aVMalik Allen MIA 03/11/2003 MIA @ CLE W 28 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 0 0 2 2 -4
+p200
+aVRasual Butler MIA 03/11/2003 MIA @ CLE W 25 10 4 12 33.3 1 3 33.3 1 2 50.0 0 4 4 0 0 0 3 2 -11
+p201
+aVVladimir Stepania MIA 03/11/2003 MIA @ CLE W 36 13 4 9 44.4 0 0 - 5 8 62.5 1 10 11 0 1 0 0 3 11
+p202
+aVBrian Grant MIA 03/11/2003 MIA @ CLE W 32 7 1 6 16.7 0 0 - 5 6 83.3 0 8 8 1 1 1 0 3 -2
+p203
+aVCaron Butler MIA 03/11/2003 MIA @ CLE W 40 13 5 11 45.5 1 1 100.0 2 4 50.0 1 4 5 3 0 1 5 4 -2
+p204
+aVMike James MIA 03/11/2003 MIA @ CLE W 28 10 3 8 37.5 0 2 0.0 4 7 57.1 0 4 4 1 1 1 1 3 10
+p205
+aVSean Lampley MIA 03/11/2003 MIA @ CLE W 14 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 9
+p206
+aVTravis Best MIA 03/10/2003 MIA vs. UTA L 30 8 3 13 23.1 1 5 20.0 1 2 50.0 2 2 4 5 1 0 0 6 0
+p207
+aVRasual Butler MIA 03/10/2003 MIA vs. UTA L 35 7 2 15 13.3 0 8 0.0 3 4 75.0 2 5 7 1 0 1 1 2 -13
+p208
+aVMalik Allen MIA 03/10/2003 MIA vs. UTA L 22 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 0 0 1 3 5 -8
+p209
+aVAnthony Carter MIA 03/10/2003 MIA vs. UTA L 10 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 -9
+p210
+aVLaPhonso Ellis MIA 03/10/2003 MIA vs. UTA L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 0 0 0 1 3 -4
+p211
+aVCaron Butler MIA 03/10/2003 MIA vs. UTA L 37 24 8 14 57.1 2 4 50.0 6 8 75.0 2 2 4 3 3 0 5 2 -3
+p212
+aVBrian Grant MIA 03/10/2003 MIA vs. UTA L 31 9 4 7 57.1 0 0 - 1 3 33.3 4 8 12 1 1 0 3 5 -5
+p213
+aVVladimir Stepania MIA 03/10/2003 MIA vs. UTA L 28 7 3 9 33.3 0 0 - 1 2 50.0 6 2 8 0 0 0 2 3 -3
+p214
+aVMike James MIA 03/10/2003 MIA vs. UTA L 32 6 3 12 25.0 0 4 0.0 0 0 - 2 1 3 3 0 0 3 2 -5
+p215
+aVEddie House MIA 03/08/2003 MIA vs. DEN L 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 4 2 0 2 0 0
+p216
+aVVladimir Stepania MIA 03/08/2003 MIA vs. DEN L 17 4 0 2 0.0 0 0 - 4 8 50.0 3 3 6 0 1 0 1 1 8
+p217
+aVMike James MIA 03/08/2003 MIA vs. DEN L 27 14 6 14 42.9 2 7 28.6 0 2 0.0 0 1 1 6 0 0 2 3 1
+p218
+aVSean Lampley MIA 03/08/2003 MIA vs. DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p219
+aVMalik Allen MIA 03/08/2003 MIA vs. DEN L 38 11 4 9 44.4 0 0 - 3 3 100.0 0 5 5 0 1 0 1 4 -14
+p220
+aVCaron Butler MIA 03/08/2003 MIA vs. DEN L 32 11 5 11 45.5 0 3 0.0 1 1 100.0 1 4 5 2 0 0 4 2 -4
+p221
+aVBrian Grant MIA 03/08/2003 MIA vs. DEN L 34 16 6 10 60.0 0 0 - 4 4 100.0 6 10 16 0 1 2 1 5 -10
+p222
+aVSean Marks MIA 03/08/2003 MIA vs. DEN L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 4
+p223
+aVAnthony Carter MIA 03/08/2003 MIA vs. DEN L 17 8 3 4 75.0 0 1 0.0 2 2 100.0 0 0 0 3 1 0 1 1 -10
+p224
+aVTravis Best MIA 03/08/2003 MIA vs. DEN L 14 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 0 0 4 2 -4
+p225
+aVRasual Butler MIA 03/08/2003 MIA vs. DEN L 39 22 8 18 44.4 3 8 37.5 3 3 100.0 1 4 5 3 2 1 4 3 -4
+p226
+aVCaron Butler MIA 03/07/2003 MIA vs. DAL L 39 16 7 14 50.0 0 1 0.0 2 3 66.7 1 4 5 1 1 0 5 6 -9
+p227
+aVSean Marks MIA 03/07/2003 MIA vs. DAL L 12 5 2 3 66.7 0 0 - 1 1 100.0 0 3 3 0 0 0 1 0 0
+p228
+aVTravis Best MIA 03/07/2003 MIA vs. DAL L 23 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 1 1 4 -7
+p229
+aVVladimir Stepania MIA 03/07/2003 MIA vs. DAL L 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 2 2 -1
+p230
+aVMike James MIA 03/07/2003 MIA vs. DAL L 34 20 5 11 45.5 2 3 66.7 8 10 80.0 0 0 0 3 3 0 1 2 3
+p231
+aVMalik Allen MIA 03/07/2003 MIA vs. DAL L 35 11 4 11 36.4 0 0 - 3 4 75.0 4 6 10 0 0 2 2 4 -1
+p232
+aVAnthony Carter MIA 03/07/2003 MIA vs. DAL L 10 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 4 0 0 0 0 1
+p233
+aVBrian Grant MIA 03/07/2003 MIA vs. DAL L 32 10 4 11 36.4 0 0 - 2 2 100.0 2 8 10 1 1 1 1 5 -2
+p234
+aVRasual Butler MIA 03/07/2003 MIA vs. DAL L 39 20 9 17 52.9 1 3 33.3 1 1 100.0 1 4 5 2 1 3 1 0 6
+p235
+aVMalik Allen MIA 03/04/2003 MIA vs. MIL L 35 14 5 9 55.6 0 0 - 4 5 80.0 2 10 12 0 0 1 1 4 -4
+p236
+aVVladimir Stepania MIA 03/04/2003 MIA vs. MIL L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -7
+p237
+aVCaron Butler MIA 03/04/2003 MIA vs. MIL L 40 15 5 20 25.0 0 1 0.0 5 6 83.3 1 2 3 2 0 2 2 4 -10
+p238
+aVRasual Butler MIA 03/04/2003 MIA vs. MIL L 18 4 1 8 12.5 0 2 0.0 2 2 100.0 0 1 1 1 0 1 0 0 -8
+p239
+aVBrian Grant MIA 03/04/2003 MIA vs. MIL L 43 20 8 14 57.1 0 0 - 4 4 100.0 5 7 12 2 0 1 0 5 -5
+p240
+aVEddie House MIA 03/04/2003 MIA vs. MIL L 26 14 6 15 40.0 0 3 0.0 2 2 100.0 1 5 6 4 3 0 0 3 4
+p241
+aVMike James MIA 03/04/2003 MIA vs. MIL L 21 10 4 9 44.4 0 1 0.0 2 2 100.0 0 4 4 3 2 0 2 5 -3
+p242
+aVTravis Best MIA 03/04/2003 MIA vs. MIL L 26 6 3 11 27.3 0 0 - 0 0 - 2 3 5 0 0 0 1 4 -9
+p243
+aVAnthony Carter MIA 03/04/2003 MIA vs. MIL L 20 6 3 4 75.0 0 0 - 0 0 - 0 1 1 7 2 0 2 1 1
+p244
+aVLaPhonso Ellis MIA 03/04/2003 MIA vs. MIL L 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -4
+p245
+aVTravis Best MIA 03/02/2003 MIA vs. WAS W 36 13 5 8 62.5 1 2 50.0 2 2 100.0 0 0 0 5 1 0 3 3 2
+p246
+aVVladimir Stepania MIA 03/02/2003 MIA vs. WAS W 13 8 3 4 75.0 0 0 - 2 2 100.0 4 2 6 0 1 1 0 0 12
+p247
+aVBrian Grant MIA 03/02/2003 MIA vs. WAS W 42 13 5 8 62.5 0 0 - 3 4 75.0 3 11 14 3 0 2 1 3 7
+p248
+aVSean Marks MIA 03/02/2003 MIA vs. WAS W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p249
+aVCaron Butler MIA 03/02/2003 MIA vs. WAS W 43 20 6 20 30.0 1 2 50.0 7 8 87.5 3 6 9 5 0 0 3 4 8
+p250
+aVMike James MIA 03/02/2003 MIA vs. WAS W 21 10 3 9 33.3 0 3 0.0 4 4 100.0 0 2 2 5 2 1 0 1 14
+p251
+aVMalik Allen MIA 03/02/2003 MIA vs. WAS W 27 2 1 7 14.3 0 0 - 0 0 - 3 7 10 0 2 1 1 3 -5
+p252
+aVEddie Jones MIA 03/02/2003 MIA vs. WAS W 21 16 5 10 50.0 2 4 50.0 4 6 66.7 0 2 2 2 1 0 0 6 7
+p253
+aVRasual Butler MIA 03/02/2003 MIA vs. WAS W 32 11 5 12 41.7 1 4 25.0 0 0 - 0 0 0 1 0 1 1 2 3
+p254
+aVEddie House MIA 02/28/2003 MIA @ MEM L 24 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 2 1 0 0 3 1
+p255
+aVCaron Butler MIA 02/28/2003 MIA @ MEM L 35 24 10 18 55.6 1 2 50.0 3 4 75.0 0 7 7 4 2 0 4 5 -3
+p256
+aVEddie Jones MIA 02/28/2003 MIA @ MEM L 48 24 8 15 53.3 5 7 71.4 3 3 100.0 0 6 6 7 3 4 1 3 -3
+p257
+aVLaPhonso Ellis MIA 02/28/2003 MIA @ MEM L 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -5
+p258
+aVBrian Grant MIA 02/28/2003 MIA @ MEM L 37 19 7 15 46.7 0 0 - 5 5 100.0 8 5 13 4 0 0 1 6 0
+p259
+aVMalik Allen MIA 02/28/2003 MIA @ MEM L 26 11 5 12 41.7 0 0 - 1 1 100.0 2 3 5 2 0 2 2 6 -13
+p260
+aVTravis Best MIA 02/28/2003 MIA @ MEM L 42 18 7 14 50.0 1 3 33.3 3 4 75.0 0 1 1 6 2 0 3 0 -1
+p261
+aVRasual Butler MIA 02/28/2003 MIA @ MEM L 11 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 -8
+p262
+aVMike James MIA 02/28/2003 MIA @ MEM L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 -9
+p263
+aVVladimir Stepania MIA 02/28/2003 MIA @ MEM L 10 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 1 1 2 -10
+p264
+aVSean Marks MIA 02/28/2003 MIA @ MEM L 14 4 2 3 66.7 0 0 - 0 2 0.0 1 1 2 0 2 0 1 1 1
+p265
+aVEddie House MIA 02/26/2003 MIA @ NOH L 20 4 2 5 40.0 0 0 - 0 0 - 0 3 3 3 1 0 1 1 3
+p266
+aVTravis Best MIA 02/26/2003 MIA @ NOH L 41 17 5 14 35.7 0 1 0.0 7 8 87.5 0 4 4 6 0 0 3 1 -4
+p267
+aVRasual Butler MIA 02/26/2003 MIA @ NOH L 27 2 1 10 10.0 0 4 0.0 0 0 - 1 4 5 0 2 1 3 3 -8
+p268
+aVEddie Jones MIA 02/26/2003 MIA @ NOH L 39 14 4 17 23.5 2 7 28.6 4 6 66.7 0 3 3 5 0 2 0 4 -13
+p269
+aVSean Lampley MIA 02/26/2003 MIA @ NOH L 18 5 2 6 33.3 0 1 0.0 1 2 50.0 1 0 1 0 1 0 1 3 -5
+p270
+aVVladimir Stepania MIA 02/26/2003 MIA @ NOH L 27 12 6 9 66.7 0 0 - 0 0 - 4 4 8 0 1 1 0 2 -1
+p271
+aVBrian Grant MIA 02/26/2003 MIA @ NOH L 40 24 10 13 76.9 0 0 - 4 4 100.0 6 9 15 2 0 0 1 4 -9
+p272
+aVMalik Allen MIA 02/26/2003 MIA @ NOH L 27 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 0 0 2 1 1 -8
+p273
+aVRasual Butler MIA 02/25/2003 MIA @ SAS L 37 7 3 9 33.3 0 1 0.0 1 2 50.0 0 6 6 3 0 1 1 1 -12
+p274
+aVMalik Allen MIA 02/25/2003 MIA @ SAS L 22 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 2 4 5 -9
+p275
+aVBrian Grant MIA 02/25/2003 MIA @ SAS L 24 2 1 5 20.0 0 0 - 0 0 - 3 5 8 1 1 2 1 1 -12
+p276
+aVMike James MIA 02/25/2003 MIA @ SAS L 24 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 4 0 0 1 4 -17
+p277
+aVSean Marks MIA 02/25/2003 MIA @ SAS L 23 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 1 1 2 3 -4
+p278
+aVTravis Best MIA 02/25/2003 MIA @ SAS L 18 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 4 1 0 2 3 -7
+p279
+aVEddie Jones MIA 02/25/2003 MIA @ SAS L 26 13 5 14 35.7 1 6 16.7 2 2 100.0 1 2 3 0 0 0 4 1 -12
+p280
+aVEddie House MIA 02/25/2003 MIA @ SAS L 15 4 1 3 33.3 1 3 33.3 1 1 100.0 1 0 1 1 1 0 3 1 2
+p281
+aVVladimir Stepania MIA 02/25/2003 MIA @ SAS L 16 6 3 6 50.0 0 0 - 0 0 - 4 3 7 0 2 0 3 0 -13
+p282
+aVLaPhonso Ellis MIA 02/25/2003 MIA @ SAS L 12 8 3 4 75.0 1 2 50.0 1 2 50.0 0 4 4 0 1 1 1 0 8
+p283
+aVSean Lampley MIA 02/25/2003 MIA @ SAS L 24 11 5 10 50.0 0 1 0.0 1 2 50.0 1 1 2 3 0 0 2 2 1
+p284
+aVMalik Allen MIA 02/22/2003 MIA vs. CHI W 35 22 10 21 47.6 0 0 - 2 2 100.0 3 6 9 0 0 3 3 3 14
+p285
+aVTravis Best MIA 02/22/2003 MIA vs. CHI W 36 21 6 18 33.3 1 4 25.0 8 10 80.0 0 7 7 5 2 0 0 4 8
+p286
+aVSean Marks MIA 02/22/2003 MIA vs. CHI W 14 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 4 -10
+p287
+aVMike James MIA 02/22/2003 MIA vs. CHI W 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 5 0 0 0 1 -2
+p288
+aVRasual Butler MIA 02/22/2003 MIA vs. CHI W 31 8 2 7 28.6 1 3 33.3 3 3 100.0 0 2 2 1 0 1 1 3 6
+p289
+aVBrian Grant MIA 02/22/2003 MIA vs. CHI W 34 12 6 10 60.0 0 0 - 0 0 - 5 7 12 1 2 1 1 5 10
+p290
+aVEddie Jones MIA 02/22/2003 MIA vs. CHI W 39 23 6 14 42.9 3 7 42.9 8 9 88.9 1 5 6 3 1 0 0 2 22
+p291
+aVEddie House MIA 02/22/2003 MIA vs. CHI W 23 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 2 2 0 1 2 -4
+p292
+aVVladimir Stepania MIA 02/22/2003 MIA vs. CHI W 13 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 6
+p293
+aVAnthony Carter MIA 02/18/2003 MIA @ NJN L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -2
+p294
+aVSean Marks MIA 02/18/2003 MIA @ NJN L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 2 3 10
+p295
+aVMike James MIA 02/18/2003 MIA @ NJN L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 -4
+p296
+aVLaPhonso Ellis MIA 02/18/2003 MIA @ NJN L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p297
+aVTravis Best MIA 02/18/2003 MIA @ NJN L 29 9 4 9 44.4 0 1 0.0 1 1 100.0 0 6 6 2 0 0 2 2 -4
+p298
+aVBrian Grant MIA 02/18/2003 MIA @ NJN L 32 13 6 9 66.7 0 0 - 1 2 50.0 1 7 8 1 2 2 4 5 -11
+p299
+aVRasual Butler MIA 02/18/2003 MIA @ NJN L 19 15 5 12 41.7 5 7 71.4 0 0 - 0 2 2 1 0 2 0 4 -3
+p300
+aVCaron Butler MIA 02/18/2003 MIA @ NJN L 41 17 5 16 31.3 1 2 50.0 6 9 66.7 1 5 6 2 2 1 5 4 -9
+p301
+aVVladimir Stepania MIA 02/18/2003 MIA @ NJN L 20 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 1 1 2 1 3
+p302
+aVEddie House MIA 02/18/2003 MIA @ NJN L 36 11 4 13 30.8 3 6 50.0 0 0 - 0 3 3 6 4 0 0 2 4
+p303
+aVMalik Allen MIA 02/18/2003 MIA @ NJN L 23 8 3 5 60.0 0 0 - 2 4 50.0 2 5 7 0 1 2 2 4 0
+p304
+aVAnthony Carter MIA 02/17/2003 MIA @ DET L 12 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p305
+aVSean Marks MIA 02/17/2003 MIA @ DET L 16 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 0 0 1 6 -15
+p306
+aVEddie House MIA 02/17/2003 MIA @ DET L 26 6 2 7 28.6 0 0 - 2 2 100.0 0 3 3 3 1 0 0 4 -7
+p307
+aVMike James MIA 02/17/2003 MIA @ DET L 27 2 1 6 16.7 0 3 0.0 0 0 - 0 4 4 2 3 0 3 2 -15
+p308
+aVLaPhonso Ellis MIA 02/17/2003 MIA @ DET L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -3
+p309
+aVCaron Butler MIA 02/17/2003 MIA @ DET L 28 13 5 10 50.0 0 0 - 3 3 100.0 2 2 4 1 2 0 1 2 -20
+p310
+aVMalik Allen MIA 02/17/2003 MIA @ DET L 28 6 3 10 30.0 0 0 - 0 0 - 1 7 8 0 1 1 1 4 -21
+p311
+aVVladimir Stepania MIA 02/17/2003 MIA @ DET L 25 7 3 8 37.5 0 0 - 1 2 50.0 3 6 9 0 0 0 1 1 -5
+p312
+aVTravis Best MIA 02/17/2003 MIA @ DET L 16 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -17
+p313
+aVRasual Butler MIA 02/17/2003 MIA @ DET L 31 10 4 11 36.4 0 2 0.0 2 4 50.0 0 3 3 4 0 2 2 3 -21
+p314
+aVBrian Grant MIA 02/17/2003 MIA @ DET L 22 6 3 7 42.9 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -18
+p315
+aVRasual Butler MIA 02/15/2003 MIA @ DAL L 10 10 3 4 75.0 2 2 100.0 2 2 100.0 1 1 2 1 0 2 0 1 9
+p316
+aVTravis Best MIA 02/15/2003 MIA @ DAL L 36 21 7 13 53.8 4 6 66.7 3 3 100.0 1 2 3 8 0 0 3 3 -1
+p317
+aVMike James MIA 02/15/2003 MIA @ DAL L 29 6 3 9 33.3 0 3 0.0 0 0 - 1 2 3 7 0 0 2 3 -2
+p318
+aVEddie House MIA 02/15/2003 MIA @ DAL L 30 13 6 15 40.0 1 1 100.0 0 0 - 1 2 3 2 0 0 3 4 -13
+p319
+aVCaron Butler MIA 02/15/2003 MIA @ DAL L 39 14 4 15 26.7 1 1 100.0 5 5 100.0 3 6 9 1 1 0 3 5 -12
+p320
+aVVladimir Stepania MIA 02/15/2003 MIA @ DAL L 21 8 4 6 66.7 0 0 - 0 2 0.0 5 9 14 0 0 0 0 4 -5
+p321
+aVBrian Grant MIA 02/15/2003 MIA @ DAL L 25 4 2 7 28.6 0 0 - 0 0 - 3 8 11 2 1 0 3 6 1
+p322
+aVMalik Allen MIA 02/15/2003 MIA @ DAL L 28 6 3 9 33.3 0 0 - 0 1 0.0 2 4 6 1 0 0 1 3 -8
+p323
+aVLaPhonso Ellis MIA 02/15/2003 MIA @ DAL L 21 10 4 12 33.3 2 7 28.6 0 0 - 2 2 4 0 0 0 0 4 1
+p324
+aVVladimir Stepania MIA 02/14/2003 MIA @ HOU W 20 5 2 3 66.7 0 0 - 1 1 100.0 0 8 8 0 0 1 0 3 6
+p325
+aVBrian Grant MIA 02/14/2003 MIA @ HOU W 39 4 2 7 28.6 0 0 - 0 0 - 1 8 9 2 1 2 2 4 6
+p326
+aVEddie House MIA 02/14/2003 MIA @ HOU W 24 12 5 8 62.5 1 1 100.0 1 2 50.0 0 2 2 1 1 0 1 5 8
+p327
+aVRasual Butler MIA 02/14/2003 MIA @ HOU W 26 5 2 6 33.3 0 1 0.0 1 4 25.0 0 6 6 1 0 0 1 3 7
+p328
+aVMike James MIA 02/14/2003 MIA @ HOU W 21 15 5 8 62.5 2 3 66.7 3 4 75.0 1 1 2 3 0 0 0 4 6
+p329
+aVLaPhonso Ellis MIA 02/14/2003 MIA @ HOU W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p330
+aVMalik Allen MIA 02/14/2003 MIA @ HOU W 33 14 7 11 63.6 0 0 - 0 0 - 2 2 4 1 0 0 0 1 7
+p331
+aVCaron Butler MIA 02/14/2003 MIA @ HOU W 39 24 8 15 53.3 0 0 - 8 9 88.9 1 2 3 0 2 0 3 4 9
+p332
+aVTravis Best MIA 02/14/2003 MIA @ HOU W 27 15 3 8 37.5 0 0 - 9 10 90.0 0 3 3 6 1 0 2 6 6
+p333
+aVEddie House MIA 02/11/2003 MIA vs. NOH L 12 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 3
+p334
+aVBrian Grant MIA 02/11/2003 MIA vs. NOH L 31 6 3 7 42.9 0 0 - 0 0 - 0 8 8 0 1 1 1 2 -13
+p335
+aVVladimir Stepania MIA 02/11/2003 MIA vs. NOH L 16 0 0 3 0.0 0 0 - 0 0 - 3 5 8 0 0 0 1 2 -5
+p336
+aVMalik Allen MIA 02/11/2003 MIA vs. NOH L 39 14 6 17 35.3 0 1 0.0 2 2 100.0 2 1 3 1 1 1 2 2 2
+p337
+aVLaPhonso Ellis MIA 02/11/2003 MIA vs. NOH L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -7
+p338
+aVMike James MIA 02/11/2003 MIA vs. NOH L 22 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 3 2 0 1 4 -8
+p339
+aVEddie Jones MIA 02/11/2003 MIA vs. NOH L 42 26 8 15 53.3 4 7 57.1 6 6 100.0 1 6 7 1 2 2 0 3 -1
+p340
+aVCaron Butler MIA 02/11/2003 MIA vs. NOH L 35 11 4 13 30.8 0 0 - 3 4 75.0 0 1 1 2 0 0 0 1 -16
+p341
+aVTravis Best MIA 02/11/2003 MIA vs. NOH L 26 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 2 0 4 3 -1
+p342
+aVSean Marks MIA 02/11/2003 MIA vs. NOH L 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p343
+aVRasual Butler MIA 02/11/2003 MIA vs. NOH L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -4
+p344
+aVMalik Allen MIA 02/05/2003 MIA vs. POR L 29 10 5 13 38.5 0 0 - 0 0 - 0 2 2 1 0 2 3 3 -13
+p345
+aVLaPhonso Ellis MIA 02/05/2003 MIA vs. POR L 21 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 0 0 1 1 2 -1
+p346
+aVEddie House MIA 02/05/2003 MIA vs. POR L 26 18 8 11 72.7 2 3 66.7 0 0 - 0 1 1 2 1 0 2 1 -7
+p347
+aVMike James MIA 02/05/2003 MIA vs. POR L 21 4 2 8 25.0 0 2 0.0 0 0 - 0 0 0 3 1 0 1 3 -11
+p348
+aVRasual Butler MIA 02/05/2003 MIA vs. POR L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 1 4
+p349
+aVTravis Best MIA 02/05/2003 MIA vs. POR L 27 11 5 12 41.7 1 2 50.0 0 0 - 0 1 1 6 0 0 1 2 -3
+p350
+aVVladimir Stepania MIA 02/05/2003 MIA vs. POR L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p351
+aVBrian Grant MIA 02/05/2003 MIA vs. POR L 38 8 4 7 57.1 0 0 - 0 0 - 4 10 14 0 1 0 1 4 -13
+p352
+aVCaron Butler MIA 02/05/2003 MIA vs. POR L 26 10 3 9 33.3 0 1 0.0 4 4 100.0 2 1 3 1 0 0 0 5 -4
+p353
+aVEddie Jones MIA 02/05/2003 MIA vs. POR L 39 20 7 12 58.3 3 8 37.5 3 3 100.0 0 7 7 3 2 4 2 4 -21
+p354
+aVMike James MIA 02/03/2003 MIA vs. ATL W 26 13 4 6 66.7 0 2 0.0 5 8 62.5 0 2 2 7 1 1 1 1 22
+p355
+aVLaPhonso Ellis MIA 02/03/2003 MIA vs. ATL W 18 15 3 8 37.5 3 7 42.9 6 6 100.0 0 2 2 0 2 0 1 2 19
+p356
+aVMalik Allen MIA 02/03/2003 MIA vs. ATL W 28 8 4 11 36.4 0 0 - 0 0 - 3 3 6 0 1 0 0 4 1
+p357
+aVVladimir Stepania MIA 02/03/2003 MIA vs. ATL W 20 2 1 4 25.0 0 0 - 0 0 - 4 4 8 0 0 0 0 0 17
+p358
+aVRasual Butler MIA 02/03/2003 MIA vs. ATL W 18 9 4 8 50.0 1 4 25.0 0 0 - 0 0 0 1 0 0 1 1 13
+p359
+aVCaron Butler MIA 02/03/2003 MIA vs. ATL W 37 9 4 12 33.3 0 0 - 1 3 33.3 1 3 4 5 0 0 2 3 8
+p360
+aVBrian Grant MIA 02/03/2003 MIA vs. ATL W 30 11 5 11 45.5 0 0 - 1 2 50.0 2 12 14 1 2 1 2 2 3
+p361
+aVTravis Best MIA 02/03/2003 MIA vs. ATL W 22 6 2 8 25.0 0 0 - 2 2 100.0 0 0 0 3 0 1 1 0 -2
+p362
+aVEddie Jones MIA 02/03/2003 MIA vs. ATL W 41 26 7 11 63.6 5 8 62.5 7 7 100.0 0 5 5 4 2 0 1 0 19
+p363
+aVBrian Grant MIA 02/01/2003 MIA vs. SAS L 34 10 5 11 45.5 0 0 - 0 2 0.0 4 7 11 1 3 0 0 4 -1
+p364
+aVCaron Butler MIA 02/01/2003 MIA vs. SAS L 44 12 4 16 25.0 0 0 - 4 4 100.0 5 1 6 3 5 1 2 2 -6
+p365
+aVTravis Best MIA 02/01/2003 MIA vs. SAS L 33 6 3 12 25.0 0 2 0.0 0 0 - 0 2 2 3 0 0 2 4 -8
+p366
+aVSean Marks MIA 02/01/2003 MIA vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p367
+aVEddie Jones MIA 02/01/2003 MIA vs. SAS L 44 17 5 17 29.4 3 6 50.0 4 4 100.0 1 6 7 5 2 2 8 4 -4
+p368
+aVRasual Butler MIA 02/01/2003 MIA vs. SAS L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 0 4
+p369
+aVMalik Allen MIA 02/01/2003 MIA vs. SAS L 19 6 3 8 37.5 0 0 - 0 0 - 1 0 1 1 0 0 0 5 0
+p370
+aVVladimir Stepania MIA 02/01/2003 MIA vs. SAS L 28 2 1 12 8.3 0 0 - 0 0 - 7 7 14 0 2 0 0 0 -6
+p371
+aVMike James MIA 02/01/2003 MIA vs. SAS L 15 6 2 8 25.0 2 5 40.0 0 0 - 0 1 1 0 1 0 0 1 6
+p372
+aVLaPhonso Ellis MIA 02/01/2003 MIA vs. SAS L 13 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 1 -3
+p373
+aVEddie House MIA 02/01/2003 MIA vs. SAS L 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p374
+aVEddie Jones MIA 01/31/2003 MIA @ PHI L 41 22 6 18 33.3 3 9 33.3 7 10 70.0 0 7 7 3 1 1 2 4 -2
+p375
+aVTravis Best MIA 01/31/2003 MIA @ PHI L 14 11 5 8 62.5 1 1 100.0 0 0 - 0 0 0 3 0 0 2 6 -13
+p376
+aVVladimir Stepania MIA 01/31/2003 MIA @ PHI L 13 2 1 6 16.7 0 0 - 0 0 - 3 1 4 0 0 0 0 0 0
+p377
+aVRasual Butler MIA 01/31/2003 MIA @ PHI L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p378
+aVLaPhonso Ellis MIA 01/31/2003 MIA @ PHI L 22 7 1 7 14.3 1 4 25.0 4 4 100.0 2 5 7 0 0 1 0 4 9
+p379
+aVBrian Grant MIA 01/31/2003 MIA @ PHI L 28 12 4 5 80.0 0 0 - 4 5 80.0 3 6 9 2 0 3 2 3 -14
+p380
+aVAnthony Carter MIA 01/31/2003 MIA @ PHI L 19 6 1 2 50.0 0 0 - 4 6 66.7 0 1 1 3 0 1 0 1 13
+p381
+aVCaron Butler MIA 01/31/2003 MIA @ PHI L 40 18 5 12 41.7 0 1 0.0 8 8 100.0 4 3 7 5 3 1 3 5 -3
+p382
+aVMike James MIA 01/31/2003 MIA @ PHI L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 1 2 -5
+p383
+aVEddie House MIA 01/31/2003 MIA @ PHI L 12 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 0 1 0 2 2 -1
+p384
+aVMalik Allen MIA 01/31/2003 MIA @ PHI L 32 14 7 11 63.6 0 0 - 0 0 - 1 6 7 2 0 0 1 3 -7
+p385
+aVMalik Allen MIA 01/29/2003 MIA vs. NYK W 32 10 5 6 83.3 0 0 - 0 0 - 0 2 2 0 2 2 4 3 -6
+p386
+aVBrian Grant MIA 01/29/2003 MIA vs. NYK W 30 10 4 11 36.4 0 0 - 2 4 50.0 4 3 7 1 0 0 2 4 5
+p387
+aVRasual Butler MIA 01/29/2003 MIA vs. NYK W 11 7 2 4 50.0 1 1 100.0 2 2 100.0 0 3 3 0 0 0 3 1 -2
+p388
+aVTravis Best MIA 01/29/2003 MIA vs. NYK W 36 9 4 13 30.8 1 1 100.0 0 0 - 0 2 2 10 2 0 1 2 6
+p389
+aVLaPhonso Ellis MIA 01/29/2003 MIA vs. NYK W 16 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 1 2 1 0 1 16
+p390
+aVMike James MIA 01/29/2003 MIA vs. NYK W 11 5 2 5 40.0 0 1 0.0 1 3 33.3 1 0 1 2 0 0 1 1 -3
+p391
+aVVladimir Stepania MIA 01/29/2003 MIA vs. NYK W 18 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -13
+p392
+aVEddie Jones MIA 01/29/2003 MIA vs. NYK W 41 22 7 11 63.6 2 5 40.0 6 7 85.7 0 8 8 1 2 0 0 3 6
+p393
+aVAnthony Carter MIA 01/29/2003 MIA vs. NYK W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p394
+aVCaron Butler MIA 01/29/2003 MIA vs. NYK W 41 12 4 11 36.4 0 0 - 4 5 80.0 2 6 8 5 1 1 5 5 5
+p395
+aVEddie House MIA 01/27/2003 MIA vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p396
+aVTravis Best MIA 01/27/2003 MIA vs. IND L 37 20 7 10 70.0 1 3 33.3 5 5 100.0 0 1 1 3 2 0 0 1 2
+p397
+aVVladimir Stepania MIA 01/27/2003 MIA vs. IND L 16 9 4 10 40.0 0 0 - 1 1 100.0 0 2 2 0 0 1 2 5 -10
+p398
+aVEddie Jones MIA 01/27/2003 MIA vs. IND L 40 9 3 11 27.3 1 3 33.3 2 3 66.7 0 4 4 7 2 1 2 2 -7
+p399
+aVCaron Butler MIA 01/27/2003 MIA vs. IND L 41 22 7 17 41.2 0 3 0.0 8 12 66.7 0 2 2 6 2 0 0 5 -2
+p400
+aVRasual Butler MIA 01/27/2003 MIA vs. IND L 16 6 3 8 37.5 0 1 0.0 0 0 - 1 3 4 1 1 0 0 5 -5
+p401
+aVBrian Grant MIA 01/27/2003 MIA vs. IND L 34 12 5 9 55.6 0 0 - 2 2 100.0 4 12 16 1 1 1 0 6 8
+p402
+aVMalik Allen MIA 01/27/2003 MIA vs. IND L 37 14 7 15 46.7 0 0 - 0 0 - 2 4 6 0 1 3 2 4 -2
+p403
+aVLaPhonso Ellis MIA 01/27/2003 MIA vs. IND L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -8
+p404
+aVMike James MIA 01/27/2003 MIA vs. IND L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 -9
+p405
+aVEddie Jones MIA 01/25/2003 MIA vs. PHI L 43 26 9 20 45.0 5 9 55.6 3 3 100.0 0 3 3 6 1 1 3 3 -4
+p406
+aVEddie House MIA 01/25/2003 MIA vs. PHI L 13 4 2 6 33.3 0 4 0.0 0 0 - 0 1 1 0 2 0 1 1 -4
+p407
+aVMike James MIA 01/25/2003 MIA vs. PHI L 30 6 1 8 12.5 1 3 33.3 3 4 75.0 0 1 1 6 1 0 1 3 -4
+p408
+aVBrian Grant MIA 01/25/2003 MIA vs. PHI L 35 8 4 7 57.1 0 0 - 0 0 - 3 0 3 1 0 2 0 4 4
+p409
+aVVladimir Stepania MIA 01/25/2003 MIA vs. PHI L 17 3 1 5 20.0 0 0 - 1 2 50.0 5 2 7 0 1 1 1 2 -7
+p410
+aVMalik Allen MIA 01/25/2003 MIA vs. PHI L 25 10 5 6 83.3 0 0 - 0 0 - 2 3 5 2 0 1 0 3 -5
+p411
+aVCaron Butler MIA 01/25/2003 MIA vs. PHI L 40 22 9 18 50.0 0 4 0.0 4 6 66.7 1 5 6 3 5 1 2 0 -5
+p412
+aVLaPhonso Ellis MIA 01/25/2003 MIA vs. PHI L 20 10 4 8 50.0 0 2 0.0 2 2 100.0 2 6 8 0 1 0 0 1 -3
+p413
+aVTravis Best MIA 01/25/2003 MIA vs. PHI L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 5 0 0 2 3 -2
+p414
+aVCaron Butler MIA 01/22/2003 MIA vs. PHX W 46 13 3 12 25.0 0 1 0.0 7 8 87.5 3 5 8 3 3 0 1 2 11
+p415
+aVMike James MIA 01/22/2003 MIA vs. PHX W 25 15 5 10 50.0 3 4 75.0 2 2 100.0 0 3 3 5 1 0 3 3 5
+p416
+aVBrian Grant MIA 01/22/2003 MIA vs. PHX W 32 16 7 9 77.8 0 0 - 2 2 100.0 2 8 10 1 1 3 2 5 8
+p417
+aVTravis Best MIA 01/22/2003 MIA vs. PHX W 23 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 2
+p418
+aVRasual Butler MIA 01/22/2003 MIA vs. PHX W 30 6 3 11 27.3 0 2 0.0 0 0 - 0 1 1 4 0 0 2 2 -1
+p419
+aVLaPhonso Ellis MIA 01/22/2003 MIA vs. PHX W 22 10 4 6 66.7 0 1 0.0 2 2 100.0 1 3 4 1 0 1 1 2 -1
+p420
+aVMalik Allen MIA 01/22/2003 MIA vs. PHX W 34 12 5 9 55.6 0 0 - 2 2 100.0 0 2 2 1 2 0 2 1 16
+p421
+aVEddie House MIA 01/22/2003 MIA vs. PHX W 21 9 3 9 33.3 1 3 33.3 2 2 100.0 0 4 4 2 1 0 1 1 4
+p422
+aVVladimir Stepania MIA 01/22/2003 MIA vs. PHX W 8 3 1 4 25.0 0 0 - 1 1 100.0 4 1 5 0 0 0 0 2 -9
+p423
+aVEddie Jones MIA 01/20/2003 MIA @ NYK L 45 19 5 13 38.5 3 7 42.9 6 6 100.0 1 5 6 7 1 0 4 3 -2
+p424
+aVMalik Allen MIA 01/20/2003 MIA @ NYK L 39 13 6 12 50.0 0 0 - 1 2 50.0 4 9 13 1 2 0 4 4 -5
+p425
+aVBrian Grant MIA 01/20/2003 MIA @ NYK L 33 8 3 11 27.3 0 0 - 2 5 40.0 4 9 13 2 1 0 1 6 -4
+p426
+aVRasual Butler MIA 01/20/2003 MIA @ NYK L 15 0 0 5 0.0 0 1 0.0 0 2 0.0 0 1 1 0 0 0 1 0 -5
+p427
+aVVladimir Stepania MIA 01/20/2003 MIA @ NYK L 24 8 4 8 50.0 0 0 - 0 0 - 5 7 12 0 1 0 0 2 -5
+p428
+aVCaron Butler MIA 01/20/2003 MIA @ NYK L 36 6 3 11 27.3 0 0 - 0 2 0.0 1 0 1 0 0 0 1 5 -7
+p429
+aVTravis Best MIA 01/20/2003 MIA @ NYK L 26 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 6 0 0 3 1 -4
+p430
+aVMike James MIA 01/20/2003 MIA @ NYK L 22 7 3 9 33.3 1 5 20.0 0 0 - 1 1 2 2 0 0 2 3 -3
+p431
+aVBrian Grant MIA 01/18/2003 MIA vs. CHI W 49 14 7 12 58.3 0 0 - 0 3 0.0 6 14 20 1 0 2 1 5 5
+p432
+aVMike James MIA 01/18/2003 MIA vs. CHI W 41 14 5 10 50.0 3 5 60.0 1 2 50.0 1 2 3 5 4 0 4 1 5
+p433
+aVVladimir Stepania MIA 01/18/2003 MIA vs. CHI W 20 6 3 4 75.0 0 0 - 0 2 0.0 1 6 7 0 1 1 0 3 -7
+p434
+aVEddie Jones MIA 01/18/2003 MIA vs. CHI W 49 15 4 15 26.7 0 6 0.0 7 9 77.8 0 3 3 5 1 1 5 2 3
+p435
+aVMalik Allen MIA 01/18/2003 MIA vs. CHI W 47 23 9 19 47.4 0 0 - 5 7 71.4 2 3 5 0 1 1 1 1 4
+p436
+aVRasual Butler MIA 01/18/2003 MIA vs. CHI W 17 8 3 8 37.5 0 1 0.0 2 2 100.0 1 2 3 3 0 0 0 0 -2
+p437
+aVTravis Best MIA 01/18/2003 MIA vs. CHI W 18 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 2 2 0 1 2 -4
+p438
+aVCaron Butler MIA 01/18/2003 MIA vs. CHI W 50 18 6 16 37.5 1 4 25.0 5 10 50.0 2 5 7 2 2 1 4 4 1
+p439
+aVLaPhonso Ellis MIA 01/15/2003 MIA @ IND L 24 7 2 10 20.0 2 5 40.0 1 2 50.0 2 1 3 1 0 0 1 2 -2
+p440
+aVMalik Allen MIA 01/15/2003 MIA @ IND L 13 10 5 7 71.4 0 0 - 0 0 - 0 1 1 0 0 0 4 4 -6
+p441
+aVBrian Grant MIA 01/15/2003 MIA @ IND L 26 4 2 6 33.3 0 0 - 0 0 - 4 3 7 0 0 0 1 3 -20
+p442
+aVVladimir Stepania MIA 01/15/2003 MIA @ IND L 21 8 3 4 75.0 0 0 - 2 2 100.0 3 2 5 2 0 0 0 4 -16
+p443
+aVAnthony Carter MIA 01/15/2003 MIA @ IND L 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 3 0 0 1 0 -14
+p444
+aVCaron Butler MIA 01/15/2003 MIA @ IND L 31 2 0 7 0.0 0 0 - 2 2 100.0 0 2 2 4 0 1 2 1 -17
+p445
+aVMike James MIA 01/15/2003 MIA @ IND L 28 9 3 10 30.0 0 3 0.0 3 4 75.0 0 3 3 3 2 0 2 1 -5
+p446
+aVSean Marks MIA 01/15/2003 MIA @ IND L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 1 1 0 -2
+p447
+aVRasual Butler MIA 01/15/2003 MIA @ IND L 38 21 8 13 61.5 3 4 75.0 2 3 66.7 0 2 2 1 0 1 2 2 -30
+p448
+aVEddie House MIA 01/15/2003 MIA @ IND L 10 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p449
+aVSean Lampley MIA 01/15/2003 MIA @ IND L 23 13 3 6 50.0 0 0 - 7 8 87.5 1 4 5 1 0 0 3 2 -3
+p450
+aVEddie House MIA 01/14/2003 MIA vs. DET W 8 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 6
+p451
+aVLaPhonso Ellis MIA 01/14/2003 MIA vs. DET W 16 12 5 6 83.3 2 2 100.0 0 0 - 0 2 2 0 0 0 1 1 1
+p452
+aVRasual Butler MIA 01/14/2003 MIA vs. DET W 37 16 5 13 38.5 1 3 33.3 5 8 62.5 0 5 5 1 2 1 3 2 8
+p453
+aVMalik Allen MIA 01/14/2003 MIA vs. DET W 18 6 3 7 42.9 0 0 - 0 0 - 2 5 7 1 0 1 1 4 -2
+p454
+aVVladimir Stepania MIA 01/14/2003 MIA vs. DET W 29 10 4 6 66.7 0 0 - 2 6 33.3 3 4 7 1 1 1 0 2 3
+p455
+aVSean Lampley MIA 01/14/2003 MIA vs. DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p456
+aVAnthony Carter MIA 01/14/2003 MIA vs. DET W 22 6 3 9 33.3 0 2 0.0 0 2 0.0 0 2 2 2 1 0 2 2 -6
+p457
+aVCaron Butler MIA 01/14/2003 MIA vs. DET W 44 22 8 14 57.1 0 0 - 6 6 100.0 2 6 8 4 4 1 0 2 10
+p458
+aVMike James MIA 01/14/2003 MIA vs. DET W 29 9 3 7 42.9 1 3 33.3 2 2 100.0 0 0 0 4 0 0 0 6 -2
+p459
+aVBrian Grant MIA 01/14/2003 MIA vs. DET W 33 6 3 6 50.0 0 0 - 0 0 - 1 6 7 2 1 1 3 4 4
+p460
+aVSean Marks MIA 01/12/2003 MIA @ LAL L 5 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 1 -1
+p461
+aVCaron Butler MIA 01/12/2003 MIA @ LAL L 40 23 8 14 57.1 0 0 - 7 8 87.5 3 4 7 2 4 0 4 1 -20
+p462
+aVBrian Grant MIA 01/12/2003 MIA @ LAL L 23 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 3 1 0 4 6 -23
+p463
+aVSean Lampley MIA 01/12/2003 MIA @ LAL L 19 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 0 0 0 2 1 -8
+p464
+aVMalik Allen MIA 01/12/2003 MIA @ LAL L 30 4 2 10 20.0 0 0 - 0 0 - 2 4 6 3 1 0 0 2 -21
+p465
+aVVladimir Stepania MIA 01/12/2003 MIA @ LAL L 28 10 4 9 44.4 0 0 - 2 2 100.0 3 9 12 1 0 0 1 5 -4
+p466
+aVAnthony Carter MIA 01/12/2003 MIA @ LAL L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 2 2 -16
+p467
+aVRasual Butler MIA 01/12/2003 MIA @ LAL L 33 16 7 10 70.0 2 3 66.7 0 0 - 0 1 1 3 0 0 1 4 -17
+p468
+aVMike James MIA 01/12/2003 MIA @ LAL L 35 14 6 13 46.2 1 3 33.3 1 1 100.0 0 3 3 4 1 0 6 2 -9
+p469
+aVEddie House MIA 01/12/2003 MIA @ LAL L 14 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 1 2 0 1 1 -6
+p470
+aVVladimir Stepania MIA 01/10/2003 MIA @ UTA L 20 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 2 1 0 3 -8
+p471
+aVMalik Allen MIA 01/10/2003 MIA @ UTA L 30 4 2 6 33.3 0 0 - 0 0 - 4 4 8 0 0 1 3 5 -10
+p472
+aVMike James MIA 01/10/2003 MIA @ UTA L 21 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 2 2 -10
+p473
+aVCaron Butler MIA 01/10/2003 MIA @ UTA L 41 19 5 15 33.3 0 0 - 9 11 81.8 8 3 11 3 3 0 3 3 -18
+p474
+aVAnthony Carter MIA 01/10/2003 MIA @ UTA L 27 6 3 10 30.0 0 0 - 0 0 - 0 0 0 7 3 0 4 3 -6
+p475
+aVBrian Grant MIA 01/10/2003 MIA @ UTA L 35 16 6 12 50.0 0 0 - 4 4 100.0 3 4 7 0 0 0 3 4 -10
+p476
+aVRasual Butler MIA 01/10/2003 MIA @ UTA L 38 18 8 16 50.0 0 2 0.0 2 2 100.0 3 3 6 0 0 0 0 2 -6
+p477
+aVSean Lampley MIA 01/10/2003 MIA @ UTA L 29 13 5 10 50.0 0 0 - 3 5 60.0 1 1 2 1 2 1 2 3 -12
+p478
+aVBrian Grant MIA 01/08/2003 MIA @ DEN L 38 8 3 9 33.3 0 0 - 2 2 100.0 4 7 11 1 0 1 2 5 -17
+p479
+aVEddie House MIA 01/08/2003 MIA @ DEN L 18 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -1
+p480
+aVLaPhonso Ellis MIA 01/08/2003 MIA @ DEN L 9 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 0 0 1 1 3 3
+p481
+aVAnthony Carter MIA 01/08/2003 MIA @ DEN L 36 12 5 12 41.7 0 0 - 2 4 50.0 0 3 3 11 2 0 2 1 -2
+p482
+aVMike James MIA 01/08/2003 MIA @ DEN L 25 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 3 0 0 4 3 -20
+p483
+aVCaron Butler MIA 01/08/2003 MIA @ DEN L 44 20 7 16 43.8 0 1 0.0 6 6 100.0 1 0 1 3 7 0 2 2 -10
+p484
+aVSean Lampley MIA 01/08/2003 MIA @ DEN L 21 8 2 6 33.3 0 0 - 4 4 100.0 0 3 3 3 0 0 2 2 3
+p485
+aVSean Marks MIA 01/08/2003 MIA @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p486
+aVMalik Allen MIA 01/08/2003 MIA @ DEN L 29 15 7 11 63.6 0 0 - 1 1 100.0 0 1 1 0 0 1 1 5 -3
+p487
+aVVladimir Stepania MIA 01/08/2003 MIA @ DEN L 19 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 1 1 0 4 -3
+p488
+aVAnthony Carter MIA 01/06/2003 MIA @ GSW L 28 4 2 6 33.3 0 0 - 0 0 - 0 2 2 10 2 1 1 2 -4
+p489
+aVMike James MIA 01/06/2003 MIA @ GSW L 20 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 3 1 0 1 4 -10
+p490
+aVEddie House MIA 01/06/2003 MIA @ GSW L 26 9 4 10 40.0 1 4 25.0 0 0 - 0 3 3 1 1 0 0 0 -9
+p491
+aVSean Lampley MIA 01/06/2003 MIA @ GSW L 31 18 8 12 66.7 0 0 - 2 3 66.7 2 7 9 0 0 1 2 1 -10
+p492
+aVCaron Butler MIA 01/06/2003 MIA @ GSW L 22 13 5 11 45.5 0 2 0.0 3 4 75.0 2 1 3 2 0 0 1 6 -8
+p493
+aVSean Marks MIA 01/06/2003 MIA @ GSW L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p494
+aVMalik Allen MIA 01/06/2003 MIA @ GSW L 32 12 5 11 45.5 0 0 - 2 2 100.0 1 4 5 0 1 0 1 4 -12
+p495
+aVVladimir Stepania MIA 01/06/2003 MIA @ GSW L 9 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p496
+aVRasual Butler MIA 01/06/2003 MIA @ GSW L 25 10 3 9 33.3 0 4 0.0 4 5 80.0 1 1 2 2 2 2 1 1 -4
+p497
+aVBrian Grant MIA 01/06/2003 MIA @ GSW L 41 15 7 13 53.8 0 0 - 1 2 50.0 4 9 13 1 1 0 4 4 -14
+p498
+aVAnthony Carter MIA 01/05/2003 MIA @ SAC L 19 2 1 6 16.7 0 0 - 0 2 0.0 0 3 3 2 0 0 3 3 -16
+p499
+aVVladimir Stepania MIA 01/05/2003 MIA @ SAC L 21 8 3 8 37.5 0 0 - 2 4 50.0 5 3 8 0 0 2 0 1 -18
+p500
+aVMalik Allen MIA 01/05/2003 MIA @ SAC L 25 8 2 5 40.0 0 0 - 4 4 100.0 4 3 7 0 0 1 0 4 -11
+p501
+aVSean Marks MIA 01/05/2003 MIA @ SAC L 13 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -5
+p502
+aVBrian Grant MIA 01/05/2003 MIA @ SAC L 32 8 4 11 36.4 0 0 - 0 0 - 4 8 12 0 1 0 2 2 -17
+p503
+aVMike James MIA 01/05/2003 MIA @ SAC L 32 4 1 12 8.3 0 2 0.0 2 3 66.7 1 4 5 6 2 0 3 1 -15
+p504
+aVSean Lampley MIA 01/05/2003 MIA @ SAC L 7 2 1 3 33.3 0 0 - 0 1 0.0 3 0 3 0 0 0 1 1 -1
+p505
+aVEddie House MIA 01/05/2003 MIA @ SAC L 31 15 6 17 35.3 1 4 25.0 2 2 100.0 1 5 6 1 1 0 1 3 -21
+p506
+aVRasual Butler MIA 01/05/2003 MIA @ SAC L 23 7 3 10 30.0 1 2 50.0 0 0 - 3 2 5 0 0 1 2 1 -8
+p507
+aVCaron Butler MIA 01/05/2003 MIA @ SAC L 37 16 7 18 38.9 0 1 0.0 2 4 50.0 1 4 5 2 1 1 1 2 -18
+p508
+aVAnthony Carter MIA 01/03/2003 MIA vs. NJN L 20 6 3 8 37.5 0 0 - 0 0 - 0 0 0 3 2 0 3 1 -13
+p509
+aVBrian Grant MIA 01/03/2003 MIA vs. NJN L 20 2 1 5 20.0 0 0 - 0 0 - 2 1 3 1 3 0 2 2 -20
+p510
+aVSean Marks MIA 01/03/2003 MIA vs. NJN L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 0 0 0 1 1 3
+p511
+aVSean Lampley MIA 01/03/2003 MIA vs. NJN L 5 5 1 2 50.0 0 0 - 3 3 100.0 0 0 0 0 0 0 0 1 5
+p512
+aVMike James MIA 01/03/2003 MIA vs. NJN L 30 9 3 8 37.5 1 2 50.0 2 2 100.0 0 1 1 4 4 0 4 4 -18
+p513
+aVEddie House MIA 01/03/2003 MIA vs. NJN L 26 7 3 11 27.3 0 1 0.0 1 2 50.0 2 2 4 3 2 0 1 0 10
+p514
+aVRasual Butler MIA 01/03/2003 MIA vs. NJN L 18 12 5 5 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 1 0 0
+p515
+aVMalik Allen MIA 01/03/2003 MIA vs. NJN L 23 9 4 4 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 2 3 -23
+p516
+aVCaron Butler MIA 01/03/2003 MIA vs. NJN L 30 11 3 13 23.1 0 0 - 5 6 83.3 1 1 2 2 1 0 1 2 -20
+p517
+aVEddie Jones MIA 01/03/2003 MIA vs. NJN L 15 7 3 6 50.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 2 5 -24
+p518
+aVLaPhonso Ellis MIA 01/03/2003 MIA vs. NJN L 18 4 1 6 16.7 0 2 0.0 2 2 100.0 3 3 6 0 1 0 1 3 1
+p519
+aVVladimir Stepania MIA 01/03/2003 MIA vs. NJN L 26 7 2 7 28.6 0 0 - 3 4 75.0 5 5 10 0 1 0 0 1 -1
+p520
+aVAnthony Carter MIA 01/01/2003 MIA @ ATL W 23 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 8 3 0 5 1 24
+p521
+aVMike James MIA 01/01/2003 MIA @ ATL W 35 10 4 12 33.3 0 2 0.0 2 2 100.0 0 3 3 3 3 0 1 1 20
+p522
+aVMalik Allen MIA 01/01/2003 MIA @ ATL W 30 8 3 9 33.3 0 0 - 2 2 100.0 2 4 6 1 0 1 2 3 22
+p523
+aVSean Lampley MIA 01/01/2003 MIA @ ATL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p524
+aVSean Marks MIA 01/01/2003 MIA @ ATL W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 0
+p525
+aVBrian Grant MIA 01/01/2003 MIA @ ATL W 29 7 3 4 75.0 0 0 - 1 2 50.0 2 4 6 0 2 0 0 3 18
+p526
+aVRasual Butler MIA 01/01/2003 MIA @ ATL W 13 11 1 4 25.0 1 1 100.0 8 10 80.0 0 0 0 0 0 1 0 1 11
+p527
+aVVladimir Stepania MIA 01/01/2003 MIA @ ATL W 27 16 6 7 85.7 0 0 - 4 6 66.7 3 10 13 2 4 1 2 1 27
+p528
+aVTravis Best MIA 01/01/2003 MIA @ ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p529
+aVEddie Jones MIA 01/01/2003 MIA @ ATL W 37 20 5 14 35.7 3 4 75.0 7 8 87.5 0 3 3 2 2 0 1 2 29
+p530
+aVCaron Butler MIA 01/01/2003 MIA @ ATL W 32 25 10 15 66.7 2 2 100.0 3 4 75.0 1 1 2 3 4 0 0 3 21
+p531
+aVRasual Butler MIA 12/30/2002 MIA vs. ATL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p532
+aVCaron Butler MIA 12/30/2002 MIA vs. ATL W 39 21 7 11 63.6 1 2 50.0 6 6 100.0 2 3 5 2 1 1 0 2 7
+p533
+aVEddie Jones MIA 12/30/2002 MIA vs. ATL W 44 23 5 17 29.4 1 4 25.0 12 13 92.3 1 4 5 7 3 1 0 3 16
+p534
+aVMike James MIA 12/30/2002 MIA vs. ATL W 20 4 2 8 25.0 0 3 0.0 0 0 - 0 2 2 1 0 0 1 2 1
+p535
+aVVladimir Stepania MIA 12/30/2002 MIA vs. ATL W 18 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 0 1 2 3 -1
+p536
+aVAnthony Carter MIA 12/30/2002 MIA vs. ATL W 6 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 4
+p537
+aVTravis Best MIA 12/30/2002 MIA vs. ATL W 33 20 7 14 50.0 4 5 80.0 2 2 100.0 0 1 1 5 0 0 1 5 10
+p538
+aVBrian Grant MIA 12/30/2002 MIA vs. ATL W 39 8 4 7 57.1 0 0 - 0 0 - 2 11 13 0 0 0 2 4 11
+p539
+aVMalik Allen MIA 12/30/2002 MIA vs. ATL W 37 11 4 7 57.1 0 0 - 3 4 75.0 2 7 9 0 1 0 1 4 8
+p540
+aVCaron Butler MIA 12/27/2002 MIA vs. BOS W 35 10 4 10 40.0 0 0 - 2 2 100.0 2 1 3 1 1 1 0 3 11
+p541
+aVVladimir Stepania MIA 12/27/2002 MIA vs. BOS W 29 14 7 11 63.6 0 0 - 0 0 - 1 13 14 0 2 0 2 2 28
+p542
+aVTravis Best MIA 12/27/2002 MIA vs. BOS W 37 13 5 13 38.5 2 3 66.7 1 2 50.0 2 2 4 7 0 0 5 2 9
+p543
+aVMike James MIA 12/27/2002 MIA vs. BOS W 26 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 6 1 0 3 3 26
+p544
+aVRasual Butler MIA 12/27/2002 MIA vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 0 0 1 0
+p545
+aVEddie Jones MIA 12/27/2002 MIA vs. BOS W 41 28 11 21 52.4 3 4 75.0 3 3 100.0 2 6 8 2 2 1 2 3 14
+p546
+aVLaPhonso Ellis MIA 12/27/2002 MIA vs. BOS W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 5
+p547
+aVSean Marks MIA 12/27/2002 MIA vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p548
+aVMalik Allen MIA 12/27/2002 MIA vs. BOS W 29 10 4 10 40.0 0 0 - 2 3 66.7 3 6 9 1 1 1 4 3 -3
+p549
+aVSean Lampley MIA 12/27/2002 MIA vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p550
+aVBrian Grant MIA 12/27/2002 MIA vs. BOS W 31 6 3 6 50.0 0 0 - 0 0 - 3 9 12 2 0 0 2 5 10
+p551
+aVRasual Butler MIA 12/23/2002 MIA @ CLE L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 2 1 1 5
+p552
+aVAnthony Carter MIA 12/23/2002 MIA @ CLE L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 0 0 1 3
+p553
+aVBrian Grant MIA 12/23/2002 MIA @ CLE L 38 19 6 8 75.0 0 0 - 7 7 100.0 1 16 17 1 0 0 2 3 -8
+p554
+aVVladimir Stepania MIA 12/23/2002 MIA @ CLE L 25 0 0 4 0.0 0 0 - 0 0 - 1 7 8 1 1 2 3 2 4
+p555
+aVMike James MIA 12/23/2002 MIA @ CLE L 21 7 3 9 33.3 1 3 33.3 0 0 - 1 3 4 0 0 1 1 5 2
+p556
+aVMalik Allen MIA 12/23/2002 MIA @ CLE L 28 4 2 11 18.2 0 0 - 0 0 - 1 3 4 0 1 1 2 3 -2
+p557
+aVTravis Best MIA 12/23/2002 MIA @ CLE L 32 8 3 10 30.0 0 1 0.0 2 3 66.7 2 2 4 4 0 1 2 2 -10
+p558
+aVCaron Butler MIA 12/23/2002 MIA @ CLE L 42 14 2 8 25.0 1 1 100.0 9 10 90.0 2 3 5 1 0 0 2 2 -5
+p559
+aVEddie Jones MIA 12/23/2002 MIA @ CLE L 32 18 6 15 40.0 3 5 60.0 3 6 50.0 0 2 2 2 1 3 3 4 2
+p560
+aVSean Marks MIA 12/23/2002 MIA @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p561
+aVVladimir Stepania MIA 12/22/2002 MIA @ NYK W 23 1 0 2 0.0 0 0 - 1 2 50.0 2 8 10 0 0 0 2 2 6
+p562
+aVEddie Jones MIA 12/22/2002 MIA @ NYK W 42 22 9 20 45.0 0 5 0.0 4 6 66.7 1 4 5 2 0 1 1 2 -3
+p563
+aVTravis Best MIA 12/22/2002 MIA @ NYK W 28 13 5 7 71.4 0 0 - 3 4 75.0 0 4 4 5 0 0 3 4 2
+p564
+aVCaron Butler MIA 12/22/2002 MIA @ NYK W 40 11 3 7 42.9 0 0 - 5 6 83.3 0 4 4 2 1 0 1 3 10
+p565
+aVBrian Grant MIA 12/22/2002 MIA @ NYK W 35 11 4 8 50.0 0 0 - 3 4 75.0 4 6 10 7 2 0 0 1 -4
+p566
+aVAnthony Carter MIA 12/22/2002 MIA @ NYK W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 5
+p567
+aVMike James MIA 12/22/2002 MIA @ NYK W 24 17 7 10 70.0 0 1 0.0 3 4 75.0 0 3 3 1 1 0 0 5 10
+p568
+aVMalik Allen MIA 12/22/2002 MIA @ NYK W 39 17 8 17 47.1 0 0 - 1 1 100.0 2 2 4 0 0 0 2 2 14
+p569
+aVBrian Grant MIA 12/20/2002 MIA @ TOR W 30 11 5 6 83.3 0 0 - 1 2 50.0 3 6 9 1 0 0 3 3 22
+p570
+aVTravis Best MIA 12/20/2002 MIA @ TOR W 27 12 5 6 83.3 0 0 - 2 2 100.0 0 2 2 5 2 0 0 2 17
+p571
+aVKen Johnson MIA 12/20/2002 MIA @ TOR W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p572
+aVVladimir Stepania MIA 12/20/2002 MIA @ TOR W 24 6 3 6 50.0 0 0 - 0 0 - 1 6 7 1 1 1 0 1 21
+p573
+aVCaron Butler MIA 12/20/2002 MIA @ TOR W 40 25 8 16 50.0 0 0 - 9 10 90.0 2 4 6 3 3 0 1 4 25
+p574
+aVLaPhonso Ellis MIA 12/20/2002 MIA @ TOR W 17 6 2 6 33.3 0 2 0.0 2 3 66.7 1 7 8 0 0 1 1 4 0
+p575
+aVRasual Butler MIA 12/20/2002 MIA @ TOR W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p576
+aVMalik Allen MIA 12/20/2002 MIA @ TOR W 20 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 0 1 4 3 4
+p577
+aVMike James MIA 12/20/2002 MIA @ TOR W 18 11 3 6 50.0 1 2 50.0 4 4 100.0 0 1 1 0 0 0 0 1 10
+p578
+aVSean Lampley MIA 12/20/2002 MIA @ TOR W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -7
+p579
+aVEddie Jones MIA 12/20/2002 MIA @ TOR W 29 17 6 7 85.7 2 2 100.0 3 4 75.0 0 5 5 2 1 0 2 1 16
+p580
+aVAnthony Carter MIA 12/20/2002 MIA @ TOR W 18 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 1 0 3 3 4
+p581
+aVAnthony Carter MIA 12/18/2002 MIA @ BOS W 15 0 0 3 0.0 0 0 - 0 0 - 0 3 3 4 1 1 1 0 3
+p582
+aVMike James MIA 12/18/2002 MIA @ BOS W 26 13 5 10 50.0 3 4 75.0 0 0 - 0 0 0 3 1 0 1 3 3
+p583
+aVCaron Butler MIA 12/18/2002 MIA @ BOS W 40 14 6 13 46.2 1 1 100.0 1 2 50.0 4 6 10 3 3 0 5 3 12
+p584
+aVVladimir Stepania MIA 12/18/2002 MIA @ BOS W 22 6 2 6 33.3 0 0 - 2 2 100.0 3 7 10 0 0 1 1 3 9
+p585
+aVTravis Best MIA 12/18/2002 MIA @ BOS W 31 8 3 7 42.9 1 1 100.0 1 2 50.0 0 1 1 6 2 0 0 6 0
+p586
+aVLaPhonso Ellis MIA 12/18/2002 MIA @ BOS W 33 12 3 13 23.1 1 7 14.3 5 6 83.3 1 7 8 2 0 0 1 3 10
+p587
+aVBrian Grant MIA 12/18/2002 MIA @ BOS W 35 17 5 8 62.5 0 0 - 7 8 87.5 2 8 10 1 3 0 1 4 5
+p588
+aVEddie Jones MIA 12/18/2002 MIA @ BOS W 38 21 5 17 29.4 4 10 40.0 7 9 77.8 0 1 1 2 1 0 1 3 8
+p589
+aVCaron Butler MIA 12/16/2002 MIA vs. HOU L 46 18 6 14 42.9 0 0 - 6 8 75.0 4 4 8 4 1 1 3 3 2
+p590
+aVMike James MIA 12/16/2002 MIA vs. HOU L 19 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 1 0 1 0 -5
+p591
+aVLaPhonso Ellis MIA 12/16/2002 MIA vs. HOU L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p592
+aVMalik Allen MIA 12/16/2002 MIA vs. HOU L 44 10 5 13 38.5 0 0 - 0 0 - 3 2 5 1 1 1 1 2 7
+p593
+aVVladimir Stepania MIA 12/16/2002 MIA vs. HOU L 17 6 3 8 37.5 0 0 - 0 0 - 2 2 4 0 0 0 0 3 -6
+p594
+aVRasual Butler MIA 12/16/2002 MIA vs. HOU L 7 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 1 -7
+p595
+aVBrian Grant MIA 12/16/2002 MIA vs. HOU L 37 16 7 11 63.6 0 0 - 2 2 100.0 4 4 8 1 1 2 1 6 4
+p596
+aVEddie Jones MIA 12/16/2002 MIA vs. HOU L 51 32 11 27 40.7 3 8 37.5 7 8 87.5 1 9 10 7 6 0 2 1 -8
+p597
+aVTravis Best MIA 12/16/2002 MIA vs. HOU L 38 13 5 7 71.4 1 2 50.0 2 4 50.0 0 1 1 6 0 0 1 3 -6
+p598
+aVBrian Grant MIA 12/14/2002 MIA vs. GSW W 28 14 7 10 70.0 0 0 - 0 0 - 3 11 14 2 0 1 3 4 18
+p599
+aVMike James MIA 12/14/2002 MIA vs. GSW W 27 16 6 12 50.0 1 3 33.3 3 5 60.0 1 1 2 2 2 0 2 4 12
+p600
+aVMalik Allen MIA 12/14/2002 MIA vs. GSW W 37 11 5 14 35.7 0 0 - 1 2 50.0 3 3 6 1 0 0 1 1 1
+p601
+aVVladimir Stepania MIA 12/14/2002 MIA vs. GSW W 31 8 2 7 28.6 0 0 - 4 6 66.7 8 2 10 0 1 3 4 5 -1
+p602
+aVCaron Butler MIA 12/14/2002 MIA vs. GSW W 28 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 1 1 0 1 3 -10
+p603
+aVRasual Butler MIA 12/14/2002 MIA vs. GSW W 11 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 16
+p604
+aVTravis Best MIA 12/14/2002 MIA vs. GSW W 37 4 2 10 20.0 0 2 0.0 0 0 - 0 2 2 6 0 1 1 3 11
+p605
+aVEddie Jones MIA 12/14/2002 MIA vs. GSW W 41 38 11 16 68.8 4 6 66.7 12 13 92.3 1 5 6 4 5 0 0 1 -2
+p606
+aVTravis Best MIA 12/13/2002 MIA vs. NYK L 37 14 4 7 57.1 1 2 50.0 5 6 83.3 1 0 1 5 2 0 0 3 0
+p607
+aVBrian Grant MIA 12/13/2002 MIA vs. NYK L 38 12 6 7 85.7 0 0 - 0 0 - 0 5 5 1 0 0 1 5 -6
+p608
+aVMike James MIA 12/13/2002 MIA vs. NYK L 24 9 3 12 25.0 1 5 20.0 2 3 66.7 1 3 4 5 1 0 2 4 0
+p609
+aVRasual Butler MIA 12/13/2002 MIA vs. NYK L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p610
+aVMalik Allen MIA 12/13/2002 MIA vs. NYK L 40 17 7 15 46.7 0 0 - 3 3 100.0 3 3 6 0 0 1 1 2 6
+p611
+aVEddie Jones MIA 12/13/2002 MIA vs. NYK L 38 24 9 17 52.9 3 5 60.0 3 4 75.0 1 6 7 5 2 0 2 5 -8
+p612
+aVCaron Butler MIA 12/13/2002 MIA vs. NYK L 41 12 6 18 33.3 0 1 0.0 0 0 - 4 1 5 1 1 0 3 4 -2
+p613
+aVVladimir Stepania MIA 12/13/2002 MIA vs. NYK L 17 4 2 3 66.7 0 0 - 0 0 - 3 5 8 0 0 0 1 3 -9
+p614
+aVMalik Allen MIA 12/10/2002 MIA vs. MEM L 27 8 4 7 57.1 0 0 - 0 0 - 0 3 3 2 2 0 0 4 -11
+p615
+aVVladimir Stepania MIA 12/10/2002 MIA vs. MEM L 11 5 2 2 100.0 0 0 - 1 4 25.0 3 0 3 0 0 0 0 3 -17
+p616
+aVEddie Jones MIA 12/10/2002 MIA vs. MEM L 41 33 13 21 61.9 4 6 66.7 3 4 75.0 3 3 6 3 0 0 1 3 -1
+p617
+aVCaron Butler MIA 12/10/2002 MIA vs. MEM L 41 8 4 12 33.3 0 0 - 0 0 - 2 4 6 5 1 0 4 2 -8
+p618
+aVMike James MIA 12/10/2002 MIA vs. MEM L 18 9 4 8 50.0 1 4 25.0 0 1 0.0 0 0 0 2 1 0 1 2 -10
+p619
+aVEddie House MIA 12/10/2002 MIA vs. MEM L 24 15 7 15 46.7 1 6 16.7 0 0 - 0 0 0 1 0 0 0 1 -5
+p620
+aVAnthony Carter MIA 12/10/2002 MIA vs. MEM L 18 9 4 7 57.1 0 0 - 1 2 50.0 1 1 2 3 1 0 2 0 -2
+p621
+aVLaPhonso Ellis MIA 12/10/2002 MIA vs. MEM L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p622
+aVTravis Best MIA 12/10/2002 MIA vs. MEM L 11 2 0 5 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 3 4
+p623
+aVBrian Grant MIA 12/10/2002 MIA vs. MEM L 42 7 3 8 37.5 0 0 - 1 1 100.0 3 12 15 5 0 0 1 3 -4
+p624
+aVLaPhonso Ellis MIA 12/07/2002 MIA @ SEA L 11 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 1 0 2 -2
+p625
+aVBrian Grant MIA 12/07/2002 MIA @ SEA L 25 2 1 3 33.3 0 0 - 0 0 - 3 3 6 1 0 1 2 1 -30
+p626
+aVCaron Butler MIA 12/07/2002 MIA @ SEA L 27 12 5 17 29.4 0 0 - 2 2 100.0 5 4 9 3 2 2 1 2 -3
+p627
+aVRasual Butler MIA 12/07/2002 MIA @ SEA L 29 19 8 16 50.0 3 5 60.0 0 0 - 0 2 2 1 1 0 2 0 -16
+p628
+aVEddie House MIA 12/07/2002 MIA @ SEA L 20 14 5 13 38.5 2 6 33.3 2 2 100.0 0 3 3 0 0 0 1 0 -14
+p629
+aVMike James MIA 12/07/2002 MIA @ SEA L 27 12 4 15 26.7 1 5 20.0 3 4 75.0 3 6 9 0 0 0 0 2 1
+p630
+aVAnthony Carter MIA 12/07/2002 MIA @ SEA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p631
+aVMalik Allen MIA 12/07/2002 MIA @ SEA L 25 2 1 3 33.3 0 0 - 0 2 0.0 2 0 2 2 0 1 2 1 -32
+p632
+aVTravis Best MIA 12/07/2002 MIA @ SEA L 17 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 0 0 1 6 -27
+p633
+aVVladimir Stepania MIA 12/07/2002 MIA @ SEA L 14 1 0 2 0.0 0 0 - 1 4 25.0 6 2 8 0 1 1 2 1 2
+p634
+aVEddie Jones MIA 12/07/2002 MIA @ SEA L 31 5 1 8 12.5 1 4 25.0 2 2 100.0 3 2 5 3 1 1 2 3 -24
+p635
+aVSean Lampley MIA 12/07/2002 MIA @ SEA L 10 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 3
+p636
+aVVladimir Stepania MIA 12/06/2002 MIA @ POR L 24 10 4 9 44.4 0 0 - 2 3 66.7 1 7 8 0 0 0 1 3 2
+p637
+aVCaron Butler MIA 12/06/2002 MIA @ POR L 23 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 1 1 3 3 -28
+p638
+aVTravis Best MIA 12/06/2002 MIA @ POR L 21 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 2 -23
+p639
+aVLaPhonso Ellis MIA 12/06/2002 MIA @ POR L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p640
+aVSean Lampley MIA 12/06/2002 MIA @ POR L 11 8 2 4 50.0 0 0 - 4 5 80.0 1 1 2 0 0 0 0 1 6
+p641
+aVEddie Jones MIA 12/06/2002 MIA @ POR L 26 1 0 5 0.0 0 3 0.0 1 2 50.0 0 3 3 3 2 0 2 2 -19
+p642
+aVMalik Allen MIA 12/06/2002 MIA @ POR L 22 14 7 12 58.3 0 0 - 0 0 - 1 2 3 1 0 2 2 3 -18
+p643
+aVBrian Grant MIA 12/06/2002 MIA @ POR L 30 4 2 6 33.3 0 0 - 0 0 - 3 8 11 0 1 0 4 5 -25
+p644
+aVRasual Butler MIA 12/06/2002 MIA @ POR L 22 4 2 8 25.0 0 3 0.0 0 1 0.0 1 0 1 1 0 2 1 2 9
+p645
+aVMike James MIA 12/06/2002 MIA @ POR L 27 5 2 7 28.6 1 3 33.3 0 0 - 0 3 3 9 0 0 5 3 4
+p646
+aVEddie House MIA 12/06/2002 MIA @ POR L 24 15 5 10 50.0 3 4 75.0 2 2 100.0 0 3 3 3 1 0 2 0 0
+p647
+aVRasual Butler MIA 12/04/2002 MIA @ LAC L 14 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 5
+p648
+aVSean Lampley MIA 12/04/2002 MIA @ LAC L 7 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 7
+p649
+aVCaron Butler MIA 12/04/2002 MIA @ LAC L 27 8 1 11 9.1 0 0 - 6 8 75.0 2 5 7 2 2 0 1 2 -14
+p650
+aVMalik Allen MIA 12/04/2002 MIA @ LAC L 33 12 6 13 46.2 0 0 - 0 0 - 1 5 6 0 1 2 0 3 -18
+p651
+aVBrian Grant MIA 12/04/2002 MIA @ LAC L 34 11 5 6 83.3 0 0 - 1 5 20.0 5 5 10 0 1 1 3 5 -4
+p652
+aVAnthony Carter MIA 12/04/2002 MIA @ LAC L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 0
+p653
+aVMike James MIA 12/04/2002 MIA @ LAC L 26 10 4 11 36.4 2 4 50.0 0 0 - 0 4 4 8 2 0 1 4 2
+p654
+aVVladimir Stepania MIA 12/04/2002 MIA @ LAC L 24 4 1 5 20.0 0 0 - 2 8 25.0 5 6 11 1 0 0 0 2 5
+p655
+aVEddie Jones MIA 12/04/2002 MIA @ LAC L 24 6 2 6 33.3 2 2 100.0 0 0 - 0 2 2 4 0 0 3 3 -6
+p656
+aVTravis Best MIA 12/04/2002 MIA @ LAC L 22 10 5 11 45.5 0 1 0.0 0 0 - 1 1 2 3 0 0 0 3 -11
+p657
+aVLaPhonso Ellis MIA 12/04/2002 MIA @ LAC L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p658
+aVEddie House MIA 12/04/2002 MIA @ LAC L 17 12 6 11 54.5 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -10
+p659
+aVEddie House MIA 12/02/2002 MIA @ PHX W 15 7 3 7 42.9 1 2 50.0 0 0 - 1 3 4 3 0 0 1 0 1
+p660
+aVMalik Allen MIA 12/02/2002 MIA @ PHX W 25 0 0 6 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -8
+p661
+aVMike James MIA 12/02/2002 MIA @ PHX W 22 12 4 9 44.4 2 4 50.0 2 2 100.0 2 0 2 1 2 0 2 3 -10
+p662
+aVCaron Butler MIA 12/02/2002 MIA @ PHX W 44 20 6 13 46.2 0 1 0.0 8 10 80.0 3 3 6 3 1 0 3 3 4
+p663
+aVTravis Best MIA 12/02/2002 MIA @ PHX W 31 16 5 14 35.7 2 5 40.0 4 4 100.0 0 3 3 3 1 0 1 2 20
+p664
+aVEddie Jones MIA 12/02/2002 MIA @ PHX W 47 21 6 13 46.2 3 5 60.0 6 6 100.0 0 2 2 7 1 0 1 1 15
+p665
+aVVladimir Stepania MIA 12/02/2002 MIA @ PHX W 20 2 1 1 100.0 0 0 - 0 1 0.0 1 6 7 1 0 3 1 2 18
+p666
+aVBrian Grant MIA 12/02/2002 MIA @ PHX W 42 17 5 9 55.6 0 0 - 7 8 87.5 4 13 17 1 0 1 3 4 16
+p667
+aVLaPhonso Ellis MIA 12/02/2002 MIA @ PHX W 19 5 2 7 28.6 1 4 25.0 0 0 - 3 1 4 0 0 0 0 1 -6
+p668
+aVLaPhonso Ellis MIA 11/30/2002 MIA vs. CLE W 28 13 6 10 60.0 1 4 25.0 0 0 - 2 5 7 2 0 2 1 4 -2
+p669
+aVTravis Best MIA 11/30/2002 MIA vs. CLE W 28 13 6 10 60.0 1 1 100.0 0 0 - 0 3 3 5 0 0 3 5 -6
+p670
+aVMalik Allen MIA 11/30/2002 MIA vs. CLE W 31 10 4 14 28.6 0 0 - 2 2 100.0 0 5 5 0 3 1 3 3 8
+p671
+aVEddie Jones MIA 11/30/2002 MIA vs. CLE W 37 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 5 3 1 2 4 -1
+p672
+aVCaron Butler MIA 11/30/2002 MIA vs. CLE W 38 16 7 15 46.7 0 0 - 2 2 100.0 3 7 10 3 3 0 5 3 14
+p673
+aVBrian Grant MIA 11/30/2002 MIA vs. CLE W 36 14 6 10 60.0 0 0 - 2 2 100.0 1 9 10 1 4 2 0 4 6
+p674
+aVMike James MIA 11/30/2002 MIA vs. CLE W 20 4 1 3 33.3 0 1 0.0 2 4 50.0 0 1 1 5 1 0 2 5 12
+p675
+aVEddie House MIA 11/30/2002 MIA vs. CLE W 21 7 3 7 42.9 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 -1
+p676
+aVVladimir Stepania MIA 11/29/2002 MIA @ ATL L 22 2 1 5 20.0 0 0 - 0 0 - 2 2 4 1 1 0 1 3 -7
+p677
+aVBrian Grant MIA 11/29/2002 MIA @ ATL L 39 10 3 11 27.3 0 0 - 4 5 80.0 6 10 16 1 2 0 2 6 -3
+p678
+aVRasual Butler MIA 11/29/2002 MIA @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p679
+aVCaron Butler MIA 11/29/2002 MIA @ ATL L 36 14 4 11 36.4 0 0 - 6 8 75.0 3 4 7 2 1 1 3 6 -1
+p680
+aVMalik Allen MIA 11/29/2002 MIA @ ATL L 41 21 9 24 37.5 0 2 0.0 3 4 75.0 5 3 8 0 0 1 1 5 -6
+p681
+aVTravis Best MIA 11/29/2002 MIA @ ATL L 27 4 2 8 25.0 0 0 - 0 0 - 0 3 3 5 1 0 0 6 -7
+p682
+aVAnthony Carter MIA 11/29/2002 MIA @ ATL L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p683
+aVEddie Jones MIA 11/29/2002 MIA @ ATL L 47 20 8 20 40.0 1 3 33.3 3 5 60.0 6 5 11 3 2 0 1 0 -5
+p684
+aVMike James MIA 11/29/2002 MIA @ ATL L 22 15 5 13 38.5 3 9 33.3 2 2 100.0 0 2 2 5 1 0 0 1 5
+p685
+aVEddie House MIA 11/29/2002 MIA @ ATL L 26 8 4 9 44.4 0 3 0.0 0 0 - 0 0 0 2 1 0 2 2 -2
+p686
+aVMike James MIA 11/27/2002 MIA @ PHI L 14 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 3 -9
+p687
+aVVladimir Stepania MIA 11/27/2002 MIA @ PHI L 16 8 3 6 50.0 0 0 - 2 4 50.0 3 3 6 1 0 2 0 0 1
+p688
+aVLaPhonso Ellis MIA 11/27/2002 MIA @ PHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p689
+aVBrian Grant MIA 11/27/2002 MIA @ PHI L 41 17 6 10 60.0 0 0 - 5 6 83.3 3 15 18 1 1 1 0 5 4
+p690
+aVAnthony Carter MIA 11/27/2002 MIA @ PHI L 17 5 2 4 50.0 0 0 - 1 1 100.0 0 0 0 5 1 0 2 1 12
+p691
+aVEddie Jones MIA 11/27/2002 MIA @ PHI L 39 16 7 15 46.7 0 2 0.0 2 2 100.0 0 3 3 4 0 0 2 2 -12
+p692
+aVEddie House MIA 11/27/2002 MIA @ PHI L 26 11 5 9 55.6 1 4 25.0 0 0 - 0 3 3 2 1 0 2 1 -3
+p693
+aVTravis Best MIA 11/27/2002 MIA @ PHI L 24 5 2 7 28.6 1 4 25.0 0 0 - 1 2 3 4 1 0 3 4 -11
+p694
+aVMalik Allen MIA 11/27/2002 MIA @ PHI L 32 8 4 16 25.0 0 0 - 0 0 - 4 8 12 1 2 3 3 2 -16
+p695
+aVCaron Butler MIA 11/27/2002 MIA @ PHI L 27 4 1 8 12.5 0 2 0.0 2 2 100.0 0 2 2 1 2 0 5 1 -6
+p696
+aVMalik Allen MIA 11/26/2002 MIA vs. LAL W 24 4 2 9 22.2 0 0 - 0 0 - 3 4 7 1 0 1 3 1 -3
+p697
+aVTravis Best MIA 11/26/2002 MIA vs. LAL W 24 16 8 12 66.7 0 1 0.0 0 0 - 2 3 5 0 1 0 0 3 -6
+p698
+aVEddie Jones MIA 11/26/2002 MIA vs. LAL W 45 18 7 18 38.9 1 6 16.7 3 4 75.0 0 2 2 4 1 1 4 3 11
+p699
+aVMike James MIA 11/26/2002 MIA vs. LAL W 24 14 5 11 45.5 4 9 44.4 0 0 - 0 1 1 5 1 0 1 3 18
+p700
+aVCaron Butler MIA 11/26/2002 MIA vs. LAL W 45 13 5 11 45.5 0 0 - 3 3 100.0 2 4 6 6 1 1 0 1 10
+p701
+aVVladimir Stepania MIA 11/26/2002 MIA vs. LAL W 20 7 2 4 50.0 0 0 - 3 6 50.0 1 1 2 0 2 0 1 4 13
+p702
+aVEddie House MIA 11/26/2002 MIA vs. LAL W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p703
+aVLaPhonso Ellis MIA 11/26/2002 MIA vs. LAL W 24 13 5 8 62.5 3 6 50.0 0 0 - 0 2 2 0 2 0 0 4 12
+p704
+aVBrian Grant MIA 11/26/2002 MIA vs. LAL W 28 10 3 7 42.9 0 0 - 4 4 100.0 3 5 8 1 1 0 2 5 2
+p705
+aVMike James MIA 11/24/2002 MIA @ ORL L 24 9 4 10 40.0 1 5 20.0 0 1 0.0 0 2 2 2 0 0 4 3 3
+p706
+aVEddie Jones MIA 11/24/2002 MIA @ ORL L 39 16 7 22 31.8 0 6 0.0 2 2 100.0 2 3 5 5 1 0 2 5 -11
+p707
+aVLaPhonso Ellis MIA 11/24/2002 MIA @ ORL L 25 11 4 9 44.4 1 2 50.0 2 5 40.0 1 3 4 0 0 0 0 1 10
+p708
+aVRasual Butler MIA 11/24/2002 MIA @ ORL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p709
+aVVladimir Stepania MIA 11/24/2002 MIA @ ORL L 31 0 0 2 0.0 0 0 - 0 0 - 3 4 7 0 0 2 1 1 1
+p710
+aVCaron Butler MIA 11/24/2002 MIA @ ORL L 42 18 5 15 33.3 0 0 - 8 8 100.0 2 7 9 2 4 0 2 2 -3
+p711
+aVEddie House MIA 11/24/2002 MIA @ ORL L 18 8 4 9 44.4 0 1 0.0 0 0 - 3 0 3 1 2 0 0 2 1
+p712
+aVBrian Grant MIA 11/24/2002 MIA @ ORL L 27 9 3 8 37.5 0 0 - 3 3 100.0 3 6 9 0 0 0 2 5 -4
+p713
+aVTravis Best MIA 11/24/2002 MIA @ ORL L 29 4 2 9 22.2 0 1 0.0 0 0 - 0 0 0 4 0 0 3 1 -9
+p714
+aVRasual Butler MIA 11/22/2002 MIA vs. DET L 12 3 0 4 0.0 0 1 0.0 3 4 75.0 0 1 1 0 0 1 1 1 3
+p715
+aVLaPhonso Ellis MIA 11/22/2002 MIA vs. DET L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p716
+aVEddie Jones MIA 11/22/2002 MIA vs. DET L 43 17 4 13 30.8 0 3 0.0 9 10 90.0 0 3 3 4 1 0 1 4 -5
+p717
+aVVladimir Stepania MIA 11/22/2002 MIA vs. DET L 29 6 3 9 33.3 0 0 - 0 0 - 3 7 10 1 0 2 0 5 -18
+p718
+aVBrian Grant MIA 11/22/2002 MIA vs. DET L 38 16 5 13 38.5 0 0 - 6 7 85.7 6 8 14 1 2 1 3 5 3
+p719
+aVTravis Best MIA 11/22/2002 MIA vs. DET L 36 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 2 0 0 2 3 -1
+p720
+aVMike James MIA 11/22/2002 MIA vs. DET L 20 5 2 6 33.3 1 4 25.0 0 0 - 0 3 3 2 2 0 0 1 -10
+p721
+aVMalik Allen MIA 11/22/2002 MIA vs. DET L 25 5 1 7 14.3 0 0 - 3 4 75.0 0 0 0 1 0 1 2 3 4
+p722
+aVEddie House MIA 11/22/2002 MIA vs. DET L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p723
+aVCaron Butler MIA 11/22/2002 MIA vs. DET L 33 14 6 12 50.0 1 1 100.0 1 1 100.0 2 6 8 2 1 0 1 3 4
+p724
+aVKen Johnson MIA 11/20/2002 MIA @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p725
+aVCaron Butler MIA 11/20/2002 MIA @ DET L 33 6 2 5 40.0 0 1 0.0 2 2 100.0 2 2 4 1 3 0 3 3 -15
+p726
+aVRasual Butler MIA 11/20/2002 MIA @ DET L 14 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 1
+p727
+aVTravis Best MIA 11/20/2002 MIA @ DET L 32 8 2 12 16.7 0 3 0.0 4 4 100.0 0 5 5 4 2 0 0 2 -15
+p728
+aVEddie House MIA 11/20/2002 MIA @ DET L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 5
+p729
+aVBrian Grant MIA 11/20/2002 MIA @ DET L 33 8 4 8 50.0 0 0 - 0 0 - 2 7 9 2 0 0 3 2 -13
+p730
+aVMike James MIA 11/20/2002 MIA @ DET L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 5 0 0 1 1 4
+p731
+aVLaPhonso Ellis MIA 11/20/2002 MIA @ DET L 9 4 1 2 50.0 1 1 100.0 1 2 50.0 0 2 2 0 0 0 0 0 -2
+p732
+aVMalik Allen MIA 11/20/2002 MIA @ DET L 33 4 2 11 18.2 0 0 - 0 0 - 1 3 4 1 0 1 2 3 -15
+p733
+aVEddie Jones MIA 11/20/2002 MIA @ DET L 34 15 7 11 63.6 1 1 100.0 0 0 - 0 1 1 2 0 0 2 3 -16
+p734
+aVVladimir Stepania MIA 11/20/2002 MIA @ DET L 24 12 5 9 55.6 0 0 - 2 3 66.7 2 11 13 1 0 0 4 2 4
+p735
+aVVladimir Stepania MIA 11/19/2002 MIA @ MIL W 28 9 4 9 44.4 0 0 - 1 2 50.0 5 10 15 1 1 1 3 4 5
+p736
+aVEddie House MIA 11/19/2002 MIA @ MIL W 14 0 0 6 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -7
+p737
+aVTravis Best MIA 11/19/2002 MIA @ MIL W 40 19 8 16 50.0 1 2 50.0 2 2 100.0 0 2 2 4 1 0 1 2 12
+p738
+aVBrian Grant MIA 11/19/2002 MIA @ MIL W 23 9 3 4 75.0 0 0 - 3 4 75.0 0 6 6 3 0 0 0 5 -3
+p739
+aVEddie Jones MIA 11/19/2002 MIA @ MIL W 42 22 9 16 56.3 3 3 100.0 1 3 33.3 1 5 6 4 1 0 3 3 6
+p740
+aVLaPhonso Ellis MIA 11/19/2002 MIA @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p741
+aVCaron Butler MIA 11/19/2002 MIA @ MIL W 40 20 8 15 53.3 1 3 33.3 3 4 75.0 3 4 7 5 1 0 3 5 9
+p742
+aVMalik Allen MIA 11/19/2002 MIA @ MIL W 43 16 8 15 53.3 0 0 - 0 2 0.0 3 10 13 4 0 1 1 1 9
+p743
+aVMike James MIA 11/19/2002 MIA @ MIL W 8 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 1 -8
+p744
+aVKen Johnson MIA 11/16/2002 MIA @ WAS L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -4
+p745
+aVRasual Butler MIA 11/16/2002 MIA @ WAS L 35 10 5 16 31.3 0 4 0.0 0 0 - 3 4 7 1 0 0 2 4 -18
+p746
+aVVladimir Stepania MIA 11/16/2002 MIA @ WAS L 17 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -19
+p747
+aVEddie House MIA 11/16/2002 MIA @ WAS L 21 4 2 11 18.2 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -20
+p748
+aVTravis Best MIA 11/16/2002 MIA @ WAS L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 1 -9
+p749
+aVAnthony Carter MIA 11/16/2002 MIA @ WAS L 14 0 0 3 0.0 0 0 - 0 0 - 0 3 3 2 0 0 2 1 -3
+p750
+aVEddie Jones MIA 11/16/2002 MIA @ WAS L 19 5 1 7 14.3 1 5 20.0 2 2 100.0 0 2 2 3 1 0 1 3 -6
+p751
+aVLaPhonso Ellis MIA 11/16/2002 MIA @ WAS L 21 6 3 9 33.3 0 2 0.0 0 0 - 2 2 4 0 0 0 1 2 -17
+p752
+aVBrian Grant MIA 11/16/2002 MIA @ WAS L 24 6 2 5 40.0 0 0 - 2 3 66.7 2 6 8 0 0 0 0 3 -7
+p753
+aVMike James MIA 11/16/2002 MIA @ WAS L 24 13 3 7 42.9 0 1 0.0 7 8 87.5 0 2 2 2 1 0 2 3 -18
+p754
+aVCaron Butler MIA 11/16/2002 MIA @ WAS L 21 5 2 5 40.0 1 2 50.0 0 0 - 1 0 1 1 1 0 3 2 -16
+p755
+aVMalik Allen MIA 11/16/2002 MIA @ WAS L 26 14 6 11 54.5 0 0 - 2 2 100.0 3 3 6 1 0 1 4 3 -13
+p756
+aVRasual Butler MIA 11/15/2002 MIA vs. NJN L 16 7 3 10 30.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 1 -1
+p757
+aVEddie House MIA 11/15/2002 MIA vs. NJN L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 3 1
+p758
+aVLaPhonso Ellis MIA 11/15/2002 MIA vs. NJN L 15 6 2 6 33.3 0 1 0.0 2 2 100.0 2 1 3 0 1 0 2 2 -5
+p759
+aVTravis Best MIA 11/15/2002 MIA vs. NJN L 26 16 6 10 60.0 2 3 66.7 2 3 66.7 1 1 2 3 0 0 3 2 0
+p760
+aVBrian Grant MIA 11/15/2002 MIA vs. NJN L 38 6 3 8 37.5 0 0 - 0 0 - 3 12 15 2 0 0 1 5 -2
+p761
+aVCaron Butler MIA 11/15/2002 MIA vs. NJN L 38 18 7 12 58.3 1 2 50.0 3 4 75.0 3 6 9 3 1 0 3 2 -7
+p762
+aVAnthony Carter MIA 11/15/2002 MIA vs. NJN L 22 4 2 6 33.3 0 0 - 0 0 - 1 2 3 3 0 0 2 2 -9
+p763
+aVMalik Allen MIA 11/15/2002 MIA vs. NJN L 32 6 3 7 42.9 0 0 - 0 2 0.0 1 2 3 0 0 0 2 5 -6
+p764
+aVVladimir Stepania MIA 11/15/2002 MIA vs. NJN L 9 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 0 0 2 -4
+p765
+aVEddie Jones MIA 11/15/2002 MIA vs. NJN L 36 18 7 19 36.8 1 6 16.7 3 5 60.0 2 7 9 5 2 0 0 4 -12
+p766
+aVMalik Allen MIA 11/12/2002 MIA vs. LAC L 33 11 5 9 55.6 0 0 - 1 2 50.0 1 3 4 0 0 0 2 4 -4
+p767
+aVLaPhonso Ellis MIA 11/12/2002 MIA vs. LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p768
+aVCaron Butler MIA 11/12/2002 MIA vs. LAC L 33 14 3 14 21.4 0 1 0.0 8 9 88.9 1 2 3 1 1 1 1 1 -21
+p769
+aVVladimir Stepania MIA 11/12/2002 MIA vs. LAC L 16 2 1 3 33.3 0 0 - 0 0 - 4 5 9 0 1 0 2 3 -4
+p770
+aVEddie Jones MIA 11/12/2002 MIA vs. LAC L 43 14 5 14 35.7 1 5 20.0 3 4 75.0 0 6 6 7 1 0 1 5 -13
+p771
+aVMike James MIA 11/12/2002 MIA vs. LAC L 32 13 5 13 38.5 3 8 37.5 0 0 - 1 0 1 3 1 1 1 1 -8
+p772
+aVAnthony Carter MIA 11/12/2002 MIA vs. LAC L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 0 0 0 4 -11
+p773
+aVRasual Butler MIA 11/12/2002 MIA vs. LAC L 24 15 5 14 35.7 2 6 33.3 3 3 100.0 0 3 3 3 0 1 1 4 -9
+p774
+aVBrian Grant MIA 11/12/2002 MIA vs. LAC L 39 9 3 8 37.5 0 0 - 3 4 75.0 4 6 10 1 0 0 1 6 -13
+p775
+aVMike James MIA 11/09/2002 MIA vs. SEA L 24 15 5 9 55.6 4 6 66.7 1 1 100.0 0 0 0 5 1 0 1 2 -1
+p776
+aVRasual Butler MIA 11/09/2002 MIA vs. SEA L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 2 -2
+p777
+aVVladimir Stepania MIA 11/09/2002 MIA vs. SEA L 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -4
+p778
+aVEddie Jones MIA 11/09/2002 MIA vs. SEA L 42 23 9 22 40.9 4 11 36.4 1 2 50.0 1 6 7 4 1 0 2 4 1
+p779
+aVMalik Allen MIA 11/09/2002 MIA vs. SEA L 42 14 7 14 50.0 0 0 - 0 0 - 3 8 11 1 0 4 4 2 4
+p780
+aVCaron Butler MIA 11/09/2002 MIA vs. SEA L 42 6 3 9 33.3 0 0 - 0 0 - 0 7 7 2 0 0 3 2 -5
+p781
+aVAnthony Carter MIA 11/09/2002 MIA vs. SEA L 24 8 4 7 57.1 0 0 - 0 0 - 0 3 3 8 2 0 2 2 -2
+p782
+aVSean Marks MIA 11/09/2002 MIA vs. SEA L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p783
+aVBrian Grant MIA 11/09/2002 MIA vs. SEA L 33 12 6 8 75.0 0 0 - 0 1 0.0 3 9 12 1 0 2 4 0 -8
+p784
+aVCaron Butler MIA 11/05/2002 MIA vs. IND L 38 14 6 14 42.9 1 2 50.0 1 2 50.0 2 2 4 2 0 0 4 5 -8
+p785
+aVMalik Allen MIA 11/05/2002 MIA vs. IND L 19 0 0 5 0.0 0 0 - 0 0 - 1 1 2 0 1 2 0 4 -12
+p786
+aVEddie Jones MIA 11/05/2002 MIA vs. IND L 36 17 7 16 43.8 3 6 50.0 0 0 - 2 1 3 1 1 1 2 2 -6
+p787
+aVTravis Best MIA 11/05/2002 MIA vs. IND L 32 16 6 12 50.0 1 1 100.0 3 4 75.0 0 1 1 2 1 0 3 0 2
+p788
+aVVladimir Stepania MIA 11/05/2002 MIA vs. IND L 20 11 5 9 55.6 0 0 - 1 1 100.0 3 4 7 0 1 0 1 3 -4
+p789
+aVBrian Grant MIA 11/05/2002 MIA vs. IND L 37 5 1 9 11.1 0 0 - 3 6 50.0 5 13 18 2 0 1 1 2 6
+p790
+aVMike James MIA 11/05/2002 MIA vs. IND L 16 4 0 5 0.0 0 2 0.0 4 4 100.0 0 1 1 0 0 0 0 1 -6
+p791
+aVSean Marks MIA 11/05/2002 MIA vs. IND L 20 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 5 2
+p792
+aVRasual Butler MIA 11/05/2002 MIA vs. IND L 22 8 4 12 33.3 0 3 0.0 0 0 - 1 4 5 2 0 0 0 1 6
+p793
+aVVladimir Stepania MIA 11/03/2002 MIA vs. SAC W 20 8 3 4 75.0 0 0 - 2 2 100.0 4 6 10 1 1 1 0 5 9
+p794
+aVRasual Butler MIA 11/03/2002 MIA vs. SAC W 20 6 3 8 37.5 0 2 0.0 0 0 - 1 4 5 3 0 1 0 1 11
+p795
+aVMike James MIA 11/03/2002 MIA vs. SAC W 20 8 3 10 30.0 2 6 33.3 0 0 - 0 0 0 1 0 0 0 2 7
+p796
+aVBrian Grant MIA 11/03/2002 MIA vs. SAC W 28 10 5 8 62.5 0 0 - 0 0 - 5 9 14 2 0 0 0 2 1
+p797
+aVCaron Butler MIA 11/03/2002 MIA vs. SAC W 36 13 6 15 40.0 1 2 50.0 0 0 - 1 5 6 2 2 0 5 1 3
+p798
+aVEddie Jones MIA 11/03/2002 MIA vs. SAC W 40 16 5 16 31.3 2 3 66.7 4 5 80.0 1 5 6 4 0 0 2 4 6
+p799
+aVTravis Best MIA 11/03/2002 MIA vs. SAC W 28 10 5 14 35.7 0 3 0.0 0 0 - 1 2 3 4 1 0 0 4 3
+p800
+aVLaPhonso Ellis MIA 11/03/2002 MIA vs. SAC W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 5
+p801
+aVMalik Allen MIA 11/03/2002 MIA vs. SAC W 34 15 4 11 36.4 0 0 - 7 8 87.5 1 5 6 3 1 2 2 2 5
+p802
+aVVladimir Stepania MIA 11/02/2002 MIA @ NOH L 14 8 4 6 66.7 0 0 - 0 2 0.0 3 2 5 0 0 0 0 1 3
+p803
+aVSean Marks MIA 11/02/2002 MIA @ NOH L 14 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 3 3 2
+p804
+aVTravis Best MIA 11/02/2002 MIA @ NOH L 23 2 1 7 14.3 0 1 0.0 0 0 - 1 0 1 4 0 0 2 5 -8
+p805
+aVMalik Allen MIA 11/02/2002 MIA @ NOH L 36 12 6 12 50.0 0 0 - 0 0 - 2 4 6 0 0 1 2 3 -5
+p806
+aVEddie House MIA 11/02/2002 MIA @ NOH L 7 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 4 1 0 0 0 2
+p807
+aVMike James MIA 11/02/2002 MIA @ NOH L 18 7 2 4 50.0 0 0 - 3 4 75.0 0 4 4 2 1 0 1 4 0
+p808
+aVBrian Grant MIA 11/02/2002 MIA @ NOH L 31 11 4 8 50.0 0 0 - 3 4 75.0 6 10 16 1 0 0 2 3 -9
+p809
+aVEddie Jones MIA 11/02/2002 MIA @ NOH L 40 30 10 19 52.6 2 6 33.3 8 10 80.0 2 6 8 2 1 1 0 3 -9
+p810
+aVRasual Butler MIA 11/02/2002 MIA @ NOH L 19 3 1 6 16.7 1 2 50.0 0 0 - 1 1 2 3 0 0 2 4 -1
+p811
+aVCaron Butler MIA 11/02/2002 MIA @ NOH L 38 12 3 11 27.3 0 1 0.0 6 6 100.0 2 2 4 4 1 0 1 5 0
+p812
+aVEddie Jones MIA 10/30/2002 MIA vs. ORL L 32 6 2 9 22.2 0 1 0.0 2 2 100.0 0 4 4 1 0 2 3 2 -23
+p813
+aVLaPhonso Ellis MIA 10/30/2002 MIA vs. ORL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p814
+aVMike James MIA 10/30/2002 MIA vs. ORL L 14 4 1 5 20.0 1 1 100.0 1 2 50.0 0 2 2 4 0 0 0 0 1
+p815
+aVRasual Butler MIA 10/30/2002 MIA vs. ORL L 31 4 2 6 33.3 0 0 - 0 0 - 1 3 4 3 1 1 1 3 -11
+p816
+aVCaron Butler MIA 10/30/2002 MIA vs. ORL L 34 16 8 14 57.1 0 0 - 0 0 - 2 5 7 3 0 0 3 1 -5
+p817
+aVSean Marks MIA 10/30/2002 MIA vs. ORL L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 2 0 1 -10
+p818
+aVBrian Grant MIA 10/30/2002 MIA vs. ORL L 32 6 3 6 50.0 0 0 - 0 2 0.0 4 5 9 1 2 0 0 1 -11
+p819
+aVMalik Allen MIA 10/30/2002 MIA vs. ORL L 34 22 9 13 69.2 0 0 - 4 5 80.0 1 6 7 1 0 1 1 5 2
+p820
+aVEddie House MIA 10/30/2002 MIA vs. ORL L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -2
+p821
+aVTravis Best MIA 10/30/2002 MIA vs. ORL L 27 22 8 13 61.5 0 0 - 6 6 100.0 0 0 0 4 1 0 1 2 -7
+p822
+a.

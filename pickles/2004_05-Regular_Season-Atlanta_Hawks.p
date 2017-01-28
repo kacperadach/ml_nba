@@ -1,0 +1,1732 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJosh Smith ATL 04/20/2005 ATL @ PHI L 42 18 8 18 44.4 0 3 0.0 2 2 100.0 2 11 13 3 0 3 5 4 -29
+p2
+aVBoris Diaw ATL 04/20/2005 ATL @ PHI L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -4
+p3
+aVDonta Smith ATL 04/20/2005 ATL @ PHI L 25 6 1 9 11.1 1 4 25.0 3 6 50.0 0 3 3 2 3 0 0 2 -8
+p4
+aVRoyal Ivey ATL 04/20/2005 ATL @ PHI L 14 0 0 1 0.0 0 0 - 0 0 - 1 0 1 3 1 0 1 3 -16
+p5
+aVJosh Childress ATL 04/20/2005 ATL @ PHI L 40 15 5 13 38.5 0 0 - 5 5 100.0 3 3 6 5 2 0 3 2 -16
+p6
+aVJason Collier ATL 04/20/2005 ATL @ PHI L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -20
+p7
+aVTom Gugliotta ATL 04/20/2005 ATL @ PHI L 27 12 5 10 50.0 1 2 50.0 1 1 100.0 0 4 4 1 1 0 4 3 -20
+p8
+aVPredrag Drobnjak ATL 04/20/2005 ATL @ PHI L 10 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p9
+aVMichael Stewart ATL 04/20/2005 ATL @ PHI L 32 5 2 3 66.7 0 0 - 1 2 50.0 4 6 10 0 3 0 1 3 9
+p10
+aVTyronn Lue ATL 04/20/2005 ATL @ PHI L 29 20 6 10 60.0 1 1 100.0 7 7 100.0 0 3 3 4 0 0 5 2 -11
+p11
+aVTyronn Lue ATL 04/19/2005 ATL vs. DET L 24 7 3 8 37.5 1 4 25.0 0 0 - 0 0 0 3 1 0 1 2 -24
+p12
+aVJason Collier ATL 04/19/2005 ATL vs. DET L 30 9 4 12 33.3 0 0 - 1 1 100.0 4 6 10 0 0 0 0 2 -14
+p13
+aVJosh Smith ATL 04/19/2005 ATL vs. DET L 43 18 6 16 37.5 0 0 - 6 7 85.7 2 6 8 5 0 1 3 6 -27
+p14
+aVBoris Diaw ATL 04/19/2005 ATL vs. DET L 28 6 3 9 33.3 0 2 0.0 0 0 - 2 1 3 3 1 0 2 1 0
+p15
+aVMichael Stewart ATL 04/19/2005 ATL vs. DET L 9 2 1 3 33.3 0 0 - 0 0 - 4 1 5 0 0 0 0 3 -16
+p16
+aVPredrag Drobnjak ATL 04/19/2005 ATL vs. DET L 15 0 0 6 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -12
+p17
+aVTom Gugliotta ATL 04/19/2005 ATL vs. DET L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 3 2 -13
+p18
+aVDonta Smith ATL 04/19/2005 ATL vs. DET L 26 12 5 9 55.6 1 3 33.3 1 4 25.0 0 0 0 1 1 0 0 3 -5
+p19
+aVJosh Childress ATL 04/19/2005 ATL vs. DET L 39 12 5 16 31.3 0 0 - 2 4 50.0 9 3 12 1 2 0 2 1 -27
+p20
+aVRoyal Ivey ATL 04/19/2005 ATL vs. DET L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 1 1 2 3 3
+p21
+aVJason Collier ATL 04/17/2005 ATL @ NYK W 18 12 5 6 83.3 0 0 - 2 3 66.7 2 0 2 1 0 0 0 2 7
+p22
+aVJosh Childress ATL 04/17/2005 ATL @ NYK W 47 22 7 10 70.0 1 1 100.0 7 9 77.8 4 7 11 4 2 0 4 1 0
+p23
+aVTom Gugliotta ATL 04/17/2005 ATL @ NYK W 37 14 6 13 46.2 2 7 28.6 0 0 - 2 3 5 4 0 0 0 4 17
+p24
+aVTyronn Lue ATL 04/17/2005 ATL @ NYK W 37 32 10 14 71.4 2 2 100.0 10 10 100.0 0 1 1 6 1 0 2 3 3
+p25
+aVRoyal Ivey ATL 04/17/2005 ATL @ NYK W 16 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 1 0 1 0 2 1
+p26
+aVBoris Diaw ATL 04/17/2005 ATL @ NYK W 40 20 5 14 35.7 1 3 33.3 9 10 90.0 1 4 5 9 0 2 5 4 0
+p27
+aVMichael Stewart ATL 04/17/2005 ATL @ NYK W 12 6 2 2 100.0 0 0 - 2 2 100.0 3 0 3 1 1 0 0 4 -5
+p28
+aVJosh Smith ATL 04/17/2005 ATL @ NYK W 31 21 8 11 72.7 0 0 - 5 8 62.5 3 7 10 2 0 3 0 4 13
+p29
+aVPredrag Drobnjak ATL 04/17/2005 ATL @ NYK W 18 6 1 5 20.0 0 0 - 4 4 100.0 0 2 2 1 1 0 2 1 -14
+p30
+aVDonta Smith ATL 04/17/2005 ATL @ NYK W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 -2
+p31
+aVJason Collier ATL 04/16/2005 ATL vs. CHI L 11 10 4 6 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 1 4 -11
+p32
+aVRoyal Ivey ATL 04/16/2005 ATL vs. CHI L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p33
+aVTony Delk ATL 04/16/2005 ATL vs. CHI L 27 18 5 13 38.5 4 7 57.1 4 4 100.0 0 1 1 3 1 0 0 3 5
+p34
+aVMichael Stewart ATL 04/16/2005 ATL vs. CHI L 14 2 1 1 100.0 0 0 - 0 3 0.0 2 1 3 1 1 0 1 3 -6
+p35
+aVBoris Diaw ATL 04/16/2005 ATL vs. CHI L 14 13 5 5 100.0 0 0 - 3 4 75.0 1 3 4 2 0 0 0 1 6
+p36
+aVTom Gugliotta ATL 04/16/2005 ATL vs. CHI L 27 14 6 9 66.7 2 2 100.0 0 0 - 1 3 4 3 2 0 1 5 -19
+p37
+aVKevin Willis ATL 04/16/2005 ATL vs. CHI L 27 8 4 9 44.4 0 0 - 0 0 - 1 3 4 1 1 0 0 5 -8
+p38
+aVJosh Childress ATL 04/16/2005 ATL vs. CHI L 41 17 7 15 46.7 0 0 - 3 4 75.0 5 5 10 3 0 1 2 2 -1
+p39
+aVJosh Smith ATL 04/16/2005 ATL vs. CHI L 39 7 2 12 16.7 0 1 0.0 3 6 50.0 2 7 9 3 1 3 5 3 1
+p40
+aVTyronn Lue ATL 04/16/2005 ATL vs. CHI L 34 16 5 12 41.7 1 2 50.0 5 5 100.0 1 4 5 6 0 0 1 0 -13
+p41
+aVTyronn Lue ATL 04/13/2005 ATL @ CHA L 24 11 4 7 57.1 1 1 100.0 2 2 100.0 0 0 0 4 0 0 4 2 -20
+p42
+aVTony Delk ATL 04/13/2005 ATL @ CHA L 23 16 6 12 50.0 2 3 66.7 2 5 40.0 0 0 0 1 0 0 1 2 -10
+p43
+aVJosh Childress ATL 04/13/2005 ATL @ CHA L 44 12 5 13 38.5 0 1 0.0 2 4 50.0 1 2 3 3 1 0 1 2 -18
+p44
+aVPredrag Drobnjak ATL 04/13/2005 ATL @ CHA L 22 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 2 0 1 3 -22
+p45
+aVJosh Smith ATL 04/13/2005 ATL @ CHA L 36 20 5 15 33.3 0 2 0.0 10 10 100.0 6 8 14 1 1 2 4 1 -20
+p46
+aVMichael Stewart ATL 04/13/2005 ATL @ CHA L 22 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 1 2 1 3 -7
+p47
+aVTom Gugliotta ATL 04/13/2005 ATL @ CHA L 20 8 3 5 60.0 0 1 0.0 2 2 100.0 2 1 3 1 1 0 3 4 -5
+p48
+aVBoris Diaw ATL 04/13/2005 ATL @ CHA L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p49
+aVJames Thomas ATL 04/13/2005 ATL @ CHA L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p50
+aVRoyal Ivey ATL 04/13/2005 ATL @ CHA L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -2
+p51
+aVDonta Smith ATL 04/13/2005 ATL @ CHA L 11 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 2 8
+p52
+aVJason Collier ATL 04/13/2005 ATL @ CHA L 12 4 1 5 20.0 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 3 -3
+p53
+aVJosh Childress ATL 04/11/2005 ATL vs. CHA L 40 20 8 15 53.3 0 2 0.0 4 4 100.0 5 9 14 4 1 1 2 3 7
+p54
+aVBoris Diaw ATL 04/11/2005 ATL vs. CHA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p55
+aVJames Thomas ATL 04/11/2005 ATL vs. CHA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p56
+aVDonta Smith ATL 04/11/2005 ATL vs. CHA L 8 3 1 3 33.3 0 0 - 1 2 50.0 2 0 2 2 0 0 0 0 -9
+p57
+aVJason Collier ATL 04/11/2005 ATL vs. CHA L 20 10 4 9 44.4 1 2 50.0 1 1 100.0 3 2 5 1 0 1 2 2 14
+p58
+aVJosh Smith ATL 04/11/2005 ATL vs. CHA L 40 17 7 10 70.0 1 1 100.0 2 3 66.7 0 9 9 3 1 0 3 2 4
+p59
+aVRoyal Ivey ATL 04/11/2005 ATL vs. CHA L 12 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 3 -10
+p60
+aVTony Delk ATL 04/11/2005 ATL vs. CHA L 14 5 2 6 33.3 1 3 33.3 0 1 0.0 0 0 0 3 1 0 1 1 -8
+p61
+aVMichael Stewart ATL 04/11/2005 ATL vs. CHA L 11 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 4 -5
+p62
+aVTom Gugliotta ATL 04/11/2005 ATL vs. CHA L 40 12 6 16 37.5 0 1 0.0 0 0 - 1 7 8 2 1 0 1 0 3
+p63
+aVPredrag Drobnjak ATL 04/11/2005 ATL vs. CHA L 31 16 5 12 41.7 0 2 0.0 6 7 85.7 1 3 4 0 1 0 1 5 -20
+p64
+aVTyronn Lue ATL 04/11/2005 ATL vs. CHA L 42 18 8 14 57.1 0 2 0.0 2 4 50.0 0 6 6 14 2 0 5 3 5
+p65
+aVRoyal Ivey ATL 04/09/2005 ATL vs. MIN W 19 10 3 4 75.0 0 0 - 4 4 100.0 1 2 3 5 1 0 0 1 19
+p66
+aVPredrag Drobnjak ATL 04/09/2005 ATL vs. MIN W 32 8 4 13 30.8 0 2 0.0 0 0 - 1 4 5 2 1 0 1 3 20
+p67
+aVDonta Smith ATL 04/09/2005 ATL vs. MIN W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p68
+aVMichael Stewart ATL 04/09/2005 ATL vs. MIN W 18 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 2 1 6 9
+p69
+aVTom Gugliotta ATL 04/09/2005 ATL vs. MIN W 18 2 1 7 14.3 0 1 0.0 0 0 - 1 5 6 3 1 0 1 3 -11
+p70
+aVBoris Diaw ATL 04/09/2005 ATL vs. MIN W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 12
+p71
+aVJosh Smith ATL 04/09/2005 ATL vs. MIN W 37 14 5 13 38.5 0 1 0.0 4 4 100.0 0 5 5 2 1 3 1 3 3
+p72
+aVJason Collier ATL 04/09/2005 ATL vs. MIN W 12 12 5 9 55.6 2 3 66.7 0 0 - 1 0 1 0 0 0 2 1 -14
+p73
+aVJosh Childress ATL 04/09/2005 ATL vs. MIN W 31 14 7 12 58.3 0 0 - 0 0 - 2 2 4 3 1 0 1 2 -11
+p74
+aVTony Delk ATL 04/09/2005 ATL vs. MIN W 30 18 6 10 60.0 4 6 66.7 2 2 100.0 0 7 7 3 4 0 2 2 16
+p75
+aVTyronn Lue ATL 04/09/2005 ATL vs. MIN W 29 23 9 12 75.0 1 1 100.0 4 4 100.0 1 2 3 3 0 0 0 0 -12
+p76
+aVRoyal Ivey ATL 04/08/2005 ATL @ TOR L 19 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 0 4 0
+p77
+aVTyronn Lue ATL 04/08/2005 ATL @ TOR L 30 12 3 12 25.0 1 1 100.0 5 6 83.3 0 5 5 8 1 0 0 4 -11
+p78
+aVDonta Smith ATL 04/08/2005 ATL @ TOR L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 6
+p79
+aVBoris Diaw ATL 04/08/2005 ATL @ TOR L 15 0 0 5 0.0 0 0 - 0 0 - 1 1 2 3 0 0 2 2 -3
+p80
+aVPredrag Drobnjak ATL 04/08/2005 ATL @ TOR L 35 21 9 17 52.9 1 3 33.3 2 3 66.7 0 4 4 2 1 1 1 3 5
+p81
+aVJosh Smith ATL 04/08/2005 ATL @ TOR L 40 19 6 13 46.2 2 3 66.7 5 9 55.6 2 10 12 2 0 4 1 4 -5
+p82
+aVJason Collier ATL 04/08/2005 ATL @ TOR L 20 14 5 7 71.4 0 1 0.0 4 4 100.0 1 2 3 0 0 1 1 1 -1
+p83
+aVTony Delk ATL 04/08/2005 ATL @ TOR L 39 20 8 17 47.1 2 5 40.0 2 2 100.0 0 6 6 1 0 0 1 4 -8
+p84
+aVJosh Childress ATL 04/08/2005 ATL @ TOR L 47 7 2 7 28.6 0 0 - 3 4 75.0 3 6 9 3 1 0 5 3 -12
+p85
+aVMichael Stewart ATL 04/08/2005 ATL @ TOR L 11 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 1 1 4 -11
+p86
+aVJosh Smith ATL 04/05/2005 ATL vs. NOH L 42 17 7 14 50.0 0 2 0.0 3 4 75.0 1 9 10 1 2 2 4 3 7
+p87
+aVTyronn Lue ATL 04/05/2005 ATL vs. NOH L 40 15 6 12 50.0 1 1 100.0 2 2 100.0 1 2 3 11 1 0 4 1 1
+p88
+aVPredrag Drobnjak ATL 04/05/2005 ATL vs. NOH L 19 6 3 9 33.3 0 1 0.0 0 0 - 1 1 2 1 1 0 0 3 -18
+p89
+aVDonta Smith ATL 04/05/2005 ATL vs. NOH L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -12
+p90
+aVObinna Ekezie ATL 04/05/2005 ATL vs. NOH L 14 4 2 2 100.0 0 0 - 0 0 - 3 0 3 0 0 0 1 5 9
+p91
+aVRoyal Ivey ATL 04/05/2005 ATL vs. NOH L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 1 4 -11
+p92
+aVJason Collier ATL 04/05/2005 ATL vs. NOH L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 1 2 -9
+p93
+aVTony Delk ATL 04/05/2005 ATL vs. NOH L 23 18 6 14 42.9 3 5 60.0 3 4 75.0 1 1 2 0 2 0 0 2 -19
+p94
+aVTom Gugliotta ATL 04/05/2005 ATL vs. NOH L 39 18 8 14 57.1 0 2 0.0 2 2 100.0 3 9 12 2 2 0 5 3 -3
+p95
+aVJosh Childress ATL 04/05/2005 ATL vs. NOH L 41 8 3 9 33.3 0 0 - 2 2 100.0 3 2 5 3 0 0 1 1 5
+p96
+aVObinna Ekezie ATL 04/03/2005 ATL vs. LAC L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -9
+p97
+aVTom Gugliotta ATL 04/03/2005 ATL vs. LAC L 16 8 2 3 66.7 0 0 - 4 4 100.0 0 1 1 1 1 0 1 1 -11
+p98
+aVPredrag Drobnjak ATL 04/03/2005 ATL vs. LAC L 18 13 5 7 71.4 1 2 50.0 2 2 100.0 1 2 3 4 0 3 1 3 -3
+p99
+aVAl Harrington ATL 04/03/2005 ATL vs. LAC L 26 3 1 8 12.5 0 0 - 1 2 50.0 1 1 2 0 0 0 2 3 -13
+p100
+aVJosh Smith ATL 04/03/2005 ATL vs. LAC L 29 7 3 9 33.3 0 0 - 1 2 50.0 0 3 3 1 3 2 2 4 -10
+p101
+aVTyronn Lue ATL 04/03/2005 ATL vs. LAC L 23 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 4 0 0 2 2 -21
+p102
+aVTony Delk ATL 04/03/2005 ATL vs. LAC L 20 6 3 8 37.5 0 1 0.0 0 0 - 0 4 4 4 2 0 0 0 2
+p103
+aVDonta Smith ATL 04/03/2005 ATL vs. LAC L 28 10 3 9 33.3 0 1 0.0 4 5 80.0 1 0 1 3 0 1 1 3 -4
+p104
+aVJason Collier ATL 04/03/2005 ATL vs. LAC L 15 5 2 4 50.0 0 0 - 1 2 50.0 3 4 7 0 0 0 1 0 -5
+p105
+aVJosh Childress ATL 04/03/2005 ATL vs. LAC L 32 23 8 12 66.7 0 2 0.0 7 7 100.0 3 1 4 2 1 0 0 1 -27
+p106
+aVRoyal Ivey ATL 04/03/2005 ATL vs. LAC L 25 9 4 8 50.0 1 1 100.0 0 2 0.0 1 2 3 2 1 0 1 3 1
+p107
+aVJosh Childress ATL 04/01/2005 ATL vs. BOS L 40 26 7 13 53.8 1 4 25.0 11 14 78.6 4 1 5 3 2 0 2 3 -3
+p108
+aVJason Collier ATL 04/01/2005 ATL vs. BOS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p109
+aVBoris Diaw ATL 04/01/2005 ATL vs. BOS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -8
+p110
+aVObinna Ekezie ATL 04/01/2005 ATL vs. BOS L 28 9 4 8 50.0 0 0 - 1 2 50.0 3 4 7 0 1 0 0 4 -10
+p111
+aVAl Harrington ATL 04/01/2005 ATL vs. BOS L 33 15 4 15 26.7 0 0 - 7 9 77.8 3 4 7 3 0 0 3 4 -13
+p112
+aVRoyal Ivey ATL 04/01/2005 ATL vs. BOS L 24 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 2 3 0 1 5 -5
+p113
+aVTom Gugliotta ATL 04/01/2005 ATL vs. BOS L 24 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 4 1 0 0 3 -4
+p114
+aVTony Delk ATL 04/01/2005 ATL vs. BOS L 30 18 7 17 41.2 1 5 20.0 3 4 75.0 2 3 5 7 1 0 3 2 -17
+p115
+aVPredrag Drobnjak ATL 04/01/2005 ATL vs. BOS L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p116
+aVJosh Smith ATL 04/01/2005 ATL vs. BOS L 38 16 7 17 41.2 0 1 0.0 2 2 100.0 4 7 11 2 1 1 1 1 -10
+p117
+aVDonta Smith ATL 04/01/2005 ATL vs. BOS L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 1
+p118
+aVJosh Smith ATL 03/30/2005 ATL @ WAS L 34 17 7 13 53.8 0 0 - 3 3 100.0 1 4 5 3 0 3 1 4 -5
+p119
+aVTyronn Lue ATL 03/30/2005 ATL @ WAS L 24 15 6 12 50.0 1 3 33.3 2 2 100.0 0 4 4 1 1 0 2 4 -1
+p120
+aVJason Collier ATL 03/30/2005 ATL @ WAS L 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 9
+p121
+aVJosh Childress ATL 03/30/2005 ATL @ WAS L 29 9 3 6 50.0 0 1 0.0 3 3 100.0 3 4 7 3 2 0 5 6 -3
+p122
+aVAl Harrington ATL 03/30/2005 ATL @ WAS L 29 20 8 13 61.5 0 1 0.0 4 5 80.0 2 2 4 3 2 1 4 4 4
+p123
+aVPredrag Drobnjak ATL 03/30/2005 ATL @ WAS L 7 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -9
+p124
+aVRoyal Ivey ATL 03/30/2005 ATL @ WAS L 21 6 3 5 60.0 0 0 - 0 0 - 0 2 2 5 0 0 2 4 -1
+p125
+aVObinna Ekezie ATL 03/30/2005 ATL @ WAS L 15 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -7
+p126
+aVBoris Diaw ATL 03/30/2005 ATL @ WAS L 12 5 1 1 100.0 0 0 - 3 3 100.0 0 1 1 6 0 1 1 2 6
+p127
+aVTom Gugliotta ATL 03/30/2005 ATL @ WAS L 36 6 3 11 27.3 0 1 0.0 0 0 - 1 6 7 2 0 0 1 1 -4
+p128
+aVTony Delk ATL 03/30/2005 ATL @ WAS L 21 11 4 9 44.4 2 6 33.3 1 2 50.0 0 1 1 0 0 0 2 4 -4
+p129
+aVTyronn Lue ATL 03/28/2005 ATL @ ORL L 30 13 5 14 35.7 1 6 16.7 2 3 66.7 0 1 1 4 1 0 0 1 -19
+p130
+aVTom Gugliotta ATL 03/28/2005 ATL @ ORL L 31 13 5 10 50.0 1 1 100.0 2 2 100.0 1 6 7 6 3 1 3 5 -12
+p131
+aVTony Delk ATL 03/28/2005 ATL @ ORL L 28 13 4 14 28.6 1 5 20.0 4 4 100.0 2 1 3 1 1 0 2 3 -9
+p132
+aVBoris Diaw ATL 03/28/2005 ATL @ ORL L 8 2 0 3 0.0 0 2 0.0 2 2 100.0 1 1 2 2 1 1 2 2 9
+p133
+aVRoyal Ivey ATL 03/28/2005 ATL @ ORL L 12 9 2 3 66.7 0 1 0.0 5 6 83.3 0 0 0 4 1 0 0 4 14
+p134
+aVJosh Smith ATL 03/28/2005 ATL @ ORL L 31 14 5 10 50.0 0 0 - 4 5 80.0 1 4 5 1 1 1 2 1 -12
+p135
+aVDonta Smith ATL 03/28/2005 ATL @ ORL L 14 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 1 1 0 0 1 16
+p136
+aVPredrag Drobnjak ATL 03/28/2005 ATL @ ORL L 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 2 1 -5
+p137
+aVJason Collier ATL 03/28/2005 ATL @ ORL L 17 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 1 0 1 2 -10
+p138
+aVJosh Childress ATL 03/28/2005 ATL @ ORL L 40 14 4 9 44.4 0 0 - 6 6 100.0 4 3 7 0 1 1 2 2 -6
+p139
+aVObinna Ekezie ATL 03/28/2005 ATL @ ORL L 22 10 5 9 55.6 0 0 - 0 2 0.0 2 5 7 0 0 0 1 5 -1
+p140
+aVTony Delk ATL 03/26/2005 ATL vs. TOR L 30 21 8 13 61.5 3 5 60.0 2 2 100.0 1 4 5 1 1 0 2 2 -1
+p141
+aVDonta Smith ATL 03/26/2005 ATL vs. TOR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p142
+aVRoyal Ivey ATL 03/26/2005 ATL vs. TOR L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -1
+p143
+aVJosh Childress ATL 03/26/2005 ATL vs. TOR L 36 19 9 14 64.3 0 1 0.0 1 1 100.0 4 6 10 3 2 1 0 3 -6
+p144
+aVBoris Diaw ATL 03/26/2005 ATL vs. TOR L 20 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 8 0 0 0 4 6
+p145
+aVAl Harrington ATL 03/26/2005 ATL vs. TOR L 41 15 5 13 38.5 1 1 100.0 4 6 66.7 0 5 5 3 1 0 2 5 -1
+p146
+aVJosh Smith ATL 03/26/2005 ATL vs. TOR L 34 19 6 8 75.0 1 1 100.0 6 6 100.0 1 5 6 1 0 3 2 2 -7
+p147
+aVTyronn Lue ATL 03/26/2005 ATL vs. TOR L 24 7 3 7 42.9 0 0 - 1 1 100.0 0 2 2 5 0 0 1 3 -9
+p148
+aVTom Gugliotta ATL 03/26/2005 ATL vs. TOR L 18 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 2 2 3 -1
+p149
+aVObinna Ekezie ATL 03/26/2005 ATL vs. TOR L 12 5 1 3 33.3 0 0 - 3 3 100.0 0 3 3 1 0 0 0 4 -6
+p150
+aVPredrag Drobnjak ATL 03/26/2005 ATL vs. TOR L 19 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 2 1 2
+p151
+aVAl Harrington ATL 03/25/2005 ATL @ SAS L 33 20 7 14 50.0 0 1 0.0 6 8 75.0 0 5 5 3 0 0 2 5 -7
+p152
+aVTony Delk ATL 03/25/2005 ATL @ SAS L 26 24 9 20 45.0 3 6 50.0 3 4 75.0 0 3 3 0 2 0 1 3 -7
+p153
+aVDonta Smith ATL 03/25/2005 ATL @ SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p154
+aVJosh Childress ATL 03/25/2005 ATL @ SAS L 39 14 7 12 58.3 0 0 - 0 1 0.0 2 6 8 2 0 0 0 3 -12
+p155
+aVRoyal Ivey ATL 03/25/2005 ATL @ SAS L 9 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 1 1 0 1 3 10
+p156
+aVObinna Ekezie ATL 03/25/2005 ATL @ SAS L 22 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 1 1 2 2 -5
+p157
+aVTom Gugliotta ATL 03/25/2005 ATL @ SAS L 29 0 0 3 0.0 0 1 0.0 0 0 - 1 4 5 2 1 3 1 4 -13
+p158
+aVPredrag Drobnjak ATL 03/25/2005 ATL @ SAS L 9 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -13
+p159
+aVJosh Smith ATL 03/25/2005 ATL @ SAS L 26 7 3 7 42.9 0 0 - 1 3 33.3 0 3 3 1 1 0 0 1 -14
+p160
+aVBoris Diaw ATL 03/25/2005 ATL @ SAS L 13 9 3 5 60.0 0 0 - 3 4 75.0 1 2 3 3 0 0 0 2 0
+p161
+aVTyronn Lue ATL 03/25/2005 ATL @ SAS L 31 11 4 9 44.4 1 2 50.0 2 3 66.7 1 3 4 3 1 0 2 1 -16
+p162
+aVTony Delk ATL 03/22/2005 ATL vs. PHX L 17 13 4 10 40.0 2 6 33.3 3 3 100.0 0 2 2 0 0 0 1 2 4
+p163
+aVTom Gugliotta ATL 03/22/2005 ATL vs. PHX L 26 4 1 4 25.0 0 0 - 2 4 50.0 3 3 6 1 0 1 2 3 -3
+p164
+aVPredrag Drobnjak ATL 03/22/2005 ATL vs. PHX L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p165
+aVJosh Smith ATL 03/22/2005 ATL vs. PHX L 37 14 7 14 50.0 0 0 - 0 3 0.0 5 7 12 1 0 1 2 2 -10
+p166
+aVJason Collier ATL 03/22/2005 ATL vs. PHX L 6 8 4 5 80.0 0 0 - 0 1 0.0 1 1 2 0 0 0 1 1 -5
+p167
+aVBoris Diaw ATL 03/22/2005 ATL vs. PHX L 23 8 3 5 60.0 0 1 0.0 2 2 100.0 0 3 3 4 2 1 3 1 0
+p168
+aVTyronn Lue ATL 03/22/2005 ATL vs. PHX L 27 13 6 12 50.0 1 3 33.3 0 0 - 0 2 2 9 1 0 2 0 -10
+p169
+aVAl Harrington ATL 03/22/2005 ATL vs. PHX L 42 16 8 14 57.1 0 0 - 0 1 0.0 2 6 8 3 1 0 3 5 -10
+p170
+aVJosh Childress ATL 03/22/2005 ATL vs. PHX L 38 10 3 8 37.5 0 0 - 4 4 100.0 2 6 8 1 1 0 2 0 -17
+p171
+aVDonta Smith ATL 03/22/2005 ATL vs. PHX L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p172
+aVObinna Ekezie ATL 03/22/2005 ATL vs. PHX L 13 6 2 7 28.6 0 0 - 2 2 100.0 1 3 4 0 0 0 2 4 -1
+p173
+aVDonta Smith ATL 03/21/2005 ATL @ CHI L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p174
+aVPredrag Drobnjak ATL 03/21/2005 ATL @ CHI L 15 8 2 6 33.3 1 1 100.0 3 4 75.0 1 2 3 1 0 0 1 2 -13
+p175
+aVTony Delk ATL 03/21/2005 ATL @ CHI L 10 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 -1
+p176
+aVTom Gugliotta ATL 03/21/2005 ATL @ CHI L 29 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 1 3 3 -16
+p177
+aVTyronn Lue ATL 03/21/2005 ATL @ CHI L 33 14 5 12 41.7 0 1 0.0 4 4 100.0 0 2 2 8 0 0 3 3 -18
+p178
+aVRoyal Ivey ATL 03/21/2005 ATL @ CHI L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 6
+p179
+aVObinna Ekezie ATL 03/21/2005 ATL @ CHI L 24 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 1 1 1 2 5 6
+p180
+aVJason Collier ATL 03/21/2005 ATL @ CHI L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p181
+aVJosh Smith ATL 03/21/2005 ATL @ CHI L 32 16 7 12 58.3 0 1 0.0 2 6 33.3 2 2 4 1 1 4 0 3 -3
+p182
+aVBoris Diaw ATL 03/21/2005 ATL @ CHI L 17 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 1 -5
+p183
+aVAl Harrington ATL 03/21/2005 ATL @ CHI L 32 15 6 19 31.6 0 0 - 3 3 100.0 1 6 7 3 2 0 2 4 -10
+p184
+aVJosh Childress ATL 03/21/2005 ATL @ CHI L 30 17 6 10 60.0 0 1 0.0 5 6 83.3 3 4 7 3 0 0 0 0 -8
+p185
+aVTom Gugliotta ATL 03/18/2005 ATL vs. NYK L 31 8 3 7 42.9 0 0 - 2 2 100.0 3 5 8 4 4 0 4 3 -19
+p186
+aVJason Collier ATL 03/18/2005 ATL vs. NYK L 15 9 4 10 40.0 1 1 100.0 0 0 - 3 4 7 1 0 0 1 2 1
+p187
+aVBoris Diaw ATL 03/18/2005 ATL vs. NYK L 31 17 7 11 63.6 0 1 0.0 3 3 100.0 3 5 8 1 0 0 0 2 -8
+p188
+aVDonta Smith ATL 03/18/2005 ATL vs. NYK L 14 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 4 -4
+p189
+aVRoyal Ivey ATL 03/18/2005 ATL vs. NYK L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p190
+aVJosh Smith ATL 03/18/2005 ATL vs. NYK L 36 16 5 11 45.5 0 0 - 6 7 85.7 3 5 8 3 0 3 2 3 -6
+p191
+aVObinna Ekezie ATL 03/18/2005 ATL vs. NYK L 27 11 3 9 33.3 0 0 - 5 6 83.3 4 5 9 0 0 2 2 4 -7
+p192
+aVTony Delk ATL 03/18/2005 ATL vs. NYK L 33 14 4 16 25.0 1 2 50.0 5 6 83.3 2 2 4 3 1 0 1 1 -6
+p193
+aVTyronn Lue ATL 03/18/2005 ATL vs. NYK L 32 10 4 13 30.8 0 1 0.0 2 2 100.0 0 0 0 5 0 0 0 0 -11
+p194
+aVPredrag Drobnjak ATL 03/18/2005 ATL vs. NYK L 7 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p195
+aVDonta Smith ATL 03/16/2005 ATL vs. WAS L 20 11 4 10 40.0 2 4 50.0 1 2 50.0 3 3 6 4 2 0 2 1 3
+p196
+aVTom Gugliotta ATL 03/16/2005 ATL vs. WAS L 23 2 1 4 25.0 0 0 - 0 0 - 2 5 7 3 3 0 1 4 -3
+p197
+aVJosh Smith ATL 03/16/2005 ATL vs. WAS L 22 8 4 9 44.4 0 0 - 0 0 - 1 2 3 2 1 1 2 2 -30
+p198
+aVJason Collier ATL 03/16/2005 ATL vs. WAS L 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -4
+p199
+aVTony Delk ATL 03/16/2005 ATL vs. WAS L 18 16 6 11 54.5 2 5 40.0 2 2 100.0 0 0 0 2 1 0 0 2 7
+p200
+aVPredrag Drobnjak ATL 03/16/2005 ATL vs. WAS L 16 10 4 6 66.7 1 1 100.0 1 2 50.0 0 1 1 0 0 0 0 2 1
+p201
+aVRoyal Ivey ATL 03/16/2005 ATL vs. WAS L 20 11 4 8 50.0 1 1 100.0 2 2 100.0 0 0 0 5 1 0 2 2 -9
+p202
+aVTyronn Lue ATL 03/16/2005 ATL vs. WAS L 28 4 2 9 22.2 0 1 0.0 0 0 - 2 2 4 6 0 0 4 2 -20
+p203
+aVBoris Diaw ATL 03/16/2005 ATL vs. WAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p204
+aVJosh Childress ATL 03/16/2005 ATL vs. WAS L 36 15 6 9 66.7 2 2 100.0 1 1 100.0 3 2 5 4 0 0 2 4 -46
+p205
+aVAl Harrington ATL 03/16/2005 ATL vs. WAS L 25 8 3 10 30.0 0 0 - 2 4 50.0 2 5 7 0 0 0 2 5 -32
+p206
+aVObinna Ekezie ATL 03/16/2005 ATL vs. WAS L 19 4 0 2 0.0 0 0 - 4 4 100.0 2 4 6 0 1 0 1 3 -11
+p207
+aVTom Gugliotta ATL 03/14/2005 ATL vs. DET L 34 14 6 11 54.5 2 3 66.7 0 0 - 0 5 5 3 0 1 1 0 -10
+p208
+aVTyronn Lue ATL 03/14/2005 ATL vs. DET L 40 27 10 18 55.6 0 1 0.0 7 7 100.0 0 2 2 10 1 0 0 5 1
+p209
+aVJason Collier ATL 03/14/2005 ATL vs. DET L 13 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 1 0 0 1 -1
+p210
+aVAl Harrington ATL 03/14/2005 ATL vs. DET L 43 37 17 28 60.7 0 1 0.0 3 3 100.0 2 1 3 3 1 0 3 6 -2
+p211
+aVObinna Ekezie ATL 03/14/2005 ATL vs. DET L 24 8 4 5 80.0 0 0 - 0 0 - 1 4 5 0 1 0 4 5 -7
+p212
+aVRoyal Ivey ATL 03/14/2005 ATL vs. DET L 12 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 1 0 1 2 1 -7
+p213
+aVJosh Smith ATL 03/14/2005 ATL vs. DET L 36 5 1 5 20.0 0 0 - 3 3 100.0 5 2 7 0 0 0 0 2 2
+p214
+aVTony Delk ATL 03/14/2005 ATL vs. DET L 6 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 2
+p215
+aVJosh Childress ATL 03/14/2005 ATL vs. DET L 44 8 4 14 28.6 0 1 0.0 0 0 - 2 8 10 3 2 0 1 3 -1
+p216
+aVDonta Smith ATL 03/14/2005 ATL vs. DET L 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 1 -7
+p217
+aVRoyal Ivey ATL 03/12/2005 ATL vs. GSW L 15 4 2 5 40.0 0 0 - 0 0 - 0 3 3 5 1 0 0 1 -9
+p218
+aVJosh Childress ATL 03/12/2005 ATL vs. GSW L 37 18 7 15 46.7 0 1 0.0 4 4 100.0 2 9 11 3 0 0 0 3 -17
+p219
+aVMichael Stewart ATL 03/12/2005 ATL vs. GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p220
+aVDonta Smith ATL 03/12/2005 ATL vs. GSW L 17 7 1 3 33.3 1 2 50.0 4 6 66.7 0 3 3 2 0 0 1 0 -9
+p221
+aVBoris Diaw ATL 03/12/2005 ATL vs. GSW L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 2 0 2 0 12
+p222
+aVTyronn Lue ATL 03/12/2005 ATL vs. GSW L 27 8 4 11 36.4 0 3 0.0 0 0 - 0 1 1 4 2 0 1 0 -9
+p223
+aVObinna Ekezie ATL 03/12/2005 ATL vs. GSW L 17 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 3 0 2 -5
+p224
+aVJosh Smith ATL 03/12/2005 ATL vs. GSW L 26 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 3 2 6 5 1 -2
+p225
+aVTom Gugliotta ATL 03/12/2005 ATL vs. GSW L 25 12 5 8 62.5 0 0 - 2 2 100.0 1 1 2 1 0 1 1 2 -15
+p226
+aVJason Collier ATL 03/12/2005 ATL vs. GSW L 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p227
+aVAl Harrington ATL 03/12/2005 ATL vs. GSW L 35 17 8 17 47.1 0 0 - 1 2 50.0 2 5 7 3 3 2 1 3 -1
+p228
+aVPredrag Drobnjak ATL 03/12/2005 ATL vs. GSW L 18 8 4 11 36.4 0 1 0.0 0 0 - 3 5 8 1 0 0 2 1 -20
+p229
+aVBoris Diaw ATL 03/11/2005 ATL @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p230
+aVDonta Smith ATL 03/11/2005 ATL @ TOR W 18 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 0 3 0 2 2 2
+p231
+aVTom Gugliotta ATL 03/11/2005 ATL @ TOR W 38 9 4 12 33.3 0 0 - 1 2 50.0 2 5 7 3 3 0 0 4 3
+p232
+aVJosh Childress ATL 03/11/2005 ATL @ TOR W 49 19 6 14 42.9 0 1 0.0 7 7 100.0 2 6 8 1 3 2 1 2 10
+p233
+aVAl Harrington ATL 03/11/2005 ATL @ TOR W 38 28 13 25 52.0 0 1 0.0 2 5 40.0 3 5 8 2 0 0 4 5 -11
+p234
+aVTyronn Lue ATL 03/11/2005 ATL @ TOR W 40 29 11 15 73.3 1 2 50.0 6 7 85.7 0 4 4 6 0 0 3 4 -8
+p235
+aVObinna Ekezie ATL 03/11/2005 ATL @ TOR W 18 6 2 7 28.6 0 0 - 2 2 100.0 1 0 1 1 0 0 0 4 2
+p236
+aVRoyal Ivey ATL 03/11/2005 ATL @ TOR W 13 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 2 1 0 1 4 12
+p237
+aVJosh Smith ATL 03/11/2005 ATL @ TOR W 42 9 3 8 37.5 0 0 - 3 8 37.5 2 13 15 1 0 2 0 5 -4
+p238
+aVPredrag Drobnjak ATL 03/11/2005 ATL @ TOR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 13
+p239
+aVDonta Smith ATL 03/09/2005 ATL @ BOS L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 1 3 0
+p240
+aVTom Gugliotta ATL 03/09/2005 ATL @ BOS L 29 7 2 8 25.0 0 3 0.0 3 8 37.5 2 7 9 2 1 1 1 3 -9
+p241
+aVJosh Childress ATL 03/09/2005 ATL @ BOS L 42 14 4 7 57.1 0 0 - 6 6 100.0 1 6 7 3 2 1 1 1 3
+p242
+aVPredrag Drobnjak ATL 03/09/2005 ATL @ BOS L 20 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 0
+p243
+aVJosh Smith ATL 03/09/2005 ATL @ BOS L 22 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 2 3 1 1
+p244
+aVAl Harrington ATL 03/09/2005 ATL @ BOS L 38 21 9 21 42.9 0 1 0.0 3 4 75.0 6 7 13 1 3 1 7 5 -2
+p245
+aVJason Collier ATL 03/09/2005 ATL @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p246
+aVObinna Ekezie ATL 03/09/2005 ATL @ BOS L 27 10 1 9 11.1 0 0 - 8 8 100.0 3 7 10 0 1 0 4 3 -4
+p247
+aVBoris Diaw ATL 03/09/2005 ATL @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p248
+aVRoyal Ivey ATL 03/09/2005 ATL @ BOS L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -4
+p249
+aVTyronn Lue ATL 03/09/2005 ATL @ BOS L 39 25 8 14 57.1 2 3 66.7 7 7 100.0 0 1 1 5 1 0 2 3 0
+p250
+aVMichael Stewart ATL 03/08/2005 ATL @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p251
+aVJosh Childress ATL 03/08/2005 ATL @ MIL L 33 13 6 10 60.0 0 1 0.0 1 3 33.3 2 4 6 2 0 1 0 4 -6
+p252
+aVJosh Smith ATL 03/08/2005 ATL @ MIL L 24 6 3 6 50.0 0 0 - 0 0 - 0 8 8 1 1 1 1 2 9
+p253
+aVTom Gugliotta ATL 03/08/2005 ATL @ MIL L 29 6 3 8 37.5 0 1 0.0 0 0 - 1 6 7 1 1 0 1 2 2
+p254
+aVPredrag Drobnjak ATL 03/08/2005 ATL @ MIL L 21 10 4 10 40.0 0 2 0.0 2 3 66.7 1 3 4 1 0 0 0 4 -6
+p255
+aVRoyal Ivey ATL 03/08/2005 ATL @ MIL L 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 7
+p256
+aVTyronn Lue ATL 03/08/2005 ATL @ MIL L 33 27 11 19 57.9 3 4 75.0 2 2 100.0 1 2 3 6 1 0 2 2 -12
+p257
+aVAl Harrington ATL 03/08/2005 ATL @ MIL L 42 19 9 17 52.9 0 1 0.0 1 2 50.0 0 4 4 9 3 0 4 3 -1
+p258
+aVObinna Ekezie ATL 03/08/2005 ATL @ MIL L 27 14 6 8 75.0 0 0 - 2 3 66.7 2 2 4 0 1 0 1 4 2
+p259
+aVDonta Smith ATL 03/08/2005 ATL @ MIL L 10 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 2 3 -6
+p260
+aVBoris Diaw ATL 03/08/2005 ATL @ MIL L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 2 2 4 -8
+p261
+aVJosh Smith ATL 03/05/2005 ATL vs. PHI L 28 4 2 8 25.0 0 0 - 0 1 0.0 3 7 10 2 1 2 1 1 -2
+p262
+aVJosh Childress ATL 03/05/2005 ATL vs. PHI L 33 16 6 12 50.0 0 1 0.0 4 5 80.0 2 6 8 2 1 0 1 1 -5
+p263
+aVTom Gugliotta ATL 03/05/2005 ATL vs. PHI L 28 12 4 8 50.0 0 0 - 4 4 100.0 3 5 8 2 0 0 1 5 7
+p264
+aVRoyal Ivey ATL 03/05/2005 ATL vs. PHI L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 6
+p265
+aVObinna Ekezie ATL 03/05/2005 ATL vs. PHI L 34 10 4 9 44.4 0 1 0.0 2 4 50.0 3 6 9 1 0 0 3 4 -2
+p266
+aVBoris Diaw ATL 03/05/2005 ATL vs. PHI L 27 9 4 8 50.0 0 1 0.0 1 2 50.0 3 4 7 2 1 0 3 1 0
+p267
+aVTyronn Lue ATL 03/05/2005 ATL vs. PHI L 28 13 4 9 44.4 3 3 100.0 2 2 100.0 0 0 0 3 0 0 3 6 -6
+p268
+aVAl Harrington ATL 03/05/2005 ATL vs. PHI L 41 19 7 14 50.0 0 1 0.0 5 6 83.3 0 4 4 9 1 0 5 5 -4
+p269
+aVPredrag Drobnjak ATL 03/05/2005 ATL vs. PHI L 14 12 4 10 40.0 0 2 0.0 4 4 100.0 2 2 4 0 1 0 2 2 1
+p270
+aVJosh Smith ATL 03/02/2005 ATL @ UTA L 36 10 4 15 26.7 0 1 0.0 2 2 100.0 1 6 7 1 2 1 3 3 -21
+p271
+aVAl Harrington ATL 03/02/2005 ATL @ UTA L 41 12 4 19 21.1 0 2 0.0 4 4 100.0 2 4 6 7 2 0 4 2 -20
+p272
+aVMichael Stewart ATL 03/02/2005 ATL @ UTA L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -5
+p273
+aVBoris Diaw ATL 03/02/2005 ATL @ UTA L 32 6 3 8 37.5 0 0 - 0 0 - 0 2 2 3 0 0 1 5 -6
+p274
+aVTom Gugliotta ATL 03/02/2005 ATL @ UTA L 32 10 5 9 55.6 0 0 - 0 0 - 2 3 5 0 3 0 2 4 -19
+p275
+aVPredrag Drobnjak ATL 03/02/2005 ATL @ UTA L 26 6 2 8 25.0 0 1 0.0 2 4 50.0 2 3 5 0 1 0 0 1 -4
+p276
+aVObinna Ekezie ATL 03/02/2005 ATL @ UTA L 15 9 3 5 60.0 0 0 - 3 4 75.0 2 2 4 0 1 0 2 5 -3
+p277
+aVJason Collier ATL 03/02/2005 ATL @ UTA L 10 0 0 2 0.0 0 0 - 0 4 0.0 0 0 0 0 0 0 1 1 -8
+p278
+aVJosh Childress ATL 03/02/2005 ATL @ UTA L 41 21 5 7 71.4 1 1 100.0 10 12 83.3 0 5 5 1 1 1 1 4 -24
+p279
+aVBoris Diaw ATL 03/01/2005 ATL @ DEN L 24 6 2 8 25.0 0 2 0.0 2 2 100.0 1 1 2 1 4 0 2 2 -18
+p280
+aVAl Harrington ATL 03/01/2005 ATL @ DEN L 36 18 5 12 41.7 0 1 0.0 8 12 66.7 1 5 6 2 0 0 4 2 -21
+p281
+aVPredrag Drobnjak ATL 03/01/2005 ATL @ DEN L 12 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 -6
+p282
+aVObinna Ekezie ATL 03/01/2005 ATL @ DEN L 21 12 4 7 57.1 0 0 - 4 4 100.0 2 2 4 0 0 1 1 4 -17
+p283
+aVJosh Childress ATL 03/01/2005 ATL @ DEN L 42 8 2 8 25.0 0 0 - 4 4 100.0 1 5 6 0 2 3 2 1 -20
+p284
+aVTom Gugliotta ATL 03/01/2005 ATL @ DEN L 30 4 2 7 28.6 0 0 - 0 0 - 4 3 7 2 0 1 4 2 -10
+p285
+aVRoyal Ivey ATL 03/01/2005 ATL @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 1
+p286
+aVJason Collier ATL 03/01/2005 ATL @ DEN L 6 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 0 0 0 0
+p287
+aVJosh Smith ATL 03/01/2005 ATL @ DEN L 33 9 4 7 57.1 0 0 - 1 2 50.0 1 3 4 1 2 1 5 3 -14
+p288
+aVTyronn Lue ATL 03/01/2005 ATL @ DEN L 31 9 2 7 28.6 1 3 33.3 4 5 80.0 0 1 1 6 0 0 4 3 -10
+p289
+aVTyronn Lue ATL 02/27/2005 ATL @ LAC L 41 24 11 16 68.8 0 1 0.0 2 2 100.0 0 0 0 7 1 0 0 3 -9
+p290
+aVJosh Childress ATL 02/27/2005 ATL @ LAC L 37 11 3 5 60.0 1 1 100.0 4 4 100.0 0 6 6 1 1 0 1 4 -6
+p291
+aVBoris Diaw ATL 02/27/2005 ATL @ LAC L 25 14 5 9 55.6 0 0 - 4 4 100.0 1 3 4 5 2 0 1 5 -4
+p292
+aVTom Gugliotta ATL 02/27/2005 ATL @ LAC L 22 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 1 2 1 1 5 0
+p293
+aVJason Collier ATL 02/27/2005 ATL @ LAC L 9 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -3
+p294
+aVPredrag Drobnjak ATL 02/27/2005 ATL @ LAC L 29 15 7 13 53.8 1 2 50.0 0 0 - 0 4 4 0 0 0 1 3 -3
+p295
+aVAl Harrington ATL 02/27/2005 ATL @ LAC L 33 23 9 16 56.3 1 2 50.0 4 8 50.0 2 3 5 3 1 0 4 3 -5
+p296
+aVJosh Smith ATL 02/27/2005 ATL @ LAC L 27 5 2 6 33.3 0 0 - 1 6 16.7 2 3 5 1 0 2 3 2 -4
+p297
+aVRoyal Ivey ATL 02/27/2005 ATL @ LAC L 5 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p298
+aVObinna Ekezie ATL 02/27/2005 ATL @ LAC L 12 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 3 -2
+p299
+aVJason Collier ATL 02/25/2005 ATL @ POR L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 5
+p300
+aVAl Harrington ATL 02/25/2005 ATL @ POR L 35 25 10 21 47.6 1 2 50.0 4 5 80.0 1 4 5 4 1 1 3 4 -4
+p301
+aVJosh Childress ATL 02/25/2005 ATL @ POR L 35 11 5 12 41.7 0 1 0.0 1 1 100.0 4 6 10 3 1 1 2 0 1
+p302
+aVTyronn Lue ATL 02/25/2005 ATL @ POR L 34 12 5 11 45.5 0 2 0.0 2 2 100.0 2 3 5 8 0 0 2 1 -5
+p303
+aVBoris Diaw ATL 02/25/2005 ATL @ POR L 33 17 7 12 58.3 1 1 100.0 2 2 100.0 1 3 4 4 0 0 1 3 1
+p304
+aVPredrag Drobnjak ATL 02/25/2005 ATL @ POR L 31 19 9 16 56.3 1 1 100.0 0 0 - 3 1 4 2 2 1 1 2 10
+p305
+aVMichael Stewart ATL 02/25/2005 ATL @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p306
+aVJosh Smith ATL 02/25/2005 ATL @ POR L 29 7 3 9 33.3 0 2 0.0 1 2 50.0 0 2 2 2 1 4 2 3 -2
+p307
+aVObinna Ekezie ATL 02/25/2005 ATL @ POR L 19 4 2 5 40.0 0 0 - 0 0 - 4 1 5 0 1 0 2 3 -9
+p308
+aVRoyal Ivey ATL 02/25/2005 ATL @ POR L 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 4
+p309
+aVTyronn Lue ATL 02/23/2005 ATL @ GSW L 36 12 5 9 55.6 1 2 50.0 1 1 100.0 0 3 3 8 0 0 1 2 -2
+p310
+aVBoris Diaw ATL 02/23/2005 ATL @ GSW L 13 6 3 8 37.5 0 1 0.0 0 0 - 2 0 2 2 0 0 0 0 8
+p311
+aVJosh Smith ATL 02/23/2005 ATL @ GSW L 27 5 2 8 25.0 0 0 - 1 2 50.0 1 7 8 1 1 2 3 3 -15
+p312
+aVRoyal Ivey ATL 02/23/2005 ATL @ GSW L 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -3
+p313
+aVJosh Childress ATL 02/23/2005 ATL @ GSW L 41 17 8 17 47.1 0 1 0.0 1 2 50.0 7 8 15 4 2 0 4 2 3
+p314
+aVObinna Ekezie ATL 02/23/2005 ATL @ GSW L 16 2 0 2 0.0 0 0 - 2 2 100.0 2 5 7 0 0 0 2 4 4
+p315
+aVTony Delk ATL 02/23/2005 ATL @ GSW L 8 6 2 4 50.0 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 0 -6
+p316
+aVAntoine Walker ATL 02/23/2005 ATL @ GSW L 37 27 11 25 44.0 5 7 71.4 0 2 0.0 2 4 6 4 1 0 2 2 -14
+p317
+aVAl Harrington ATL 02/23/2005 ATL @ GSW L 38 14 7 16 43.8 0 0 - 0 0 - 6 8 14 1 0 0 4 4 -1
+p318
+aVPredrag Drobnjak ATL 02/23/2005 ATL @ GSW L 13 5 2 6 33.3 0 3 0.0 1 2 50.0 0 2 2 1 1 1 0 1 1
+p319
+aVAntoine Walker ATL 02/22/2005 ATL @ SAC L 40 23 9 20 45.0 3 7 42.9 2 4 50.0 0 9 9 6 2 1 7 4 -6
+p320
+aVDonta Smith ATL 02/22/2005 ATL @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p321
+aVJosh Smith ATL 02/22/2005 ATL @ SAC L 35 19 7 15 46.7 0 0 - 5 5 100.0 3 7 10 4 1 4 0 1 5
+p322
+aVTyronn Lue ATL 02/22/2005 ATL @ SAC L 33 13 5 11 45.5 3 5 60.0 0 0 - 1 2 3 5 1 0 2 3 -5
+p323
+aVAl Harrington ATL 02/22/2005 ATL @ SAC L 43 25 11 20 55.0 2 3 66.7 1 2 50.0 5 3 8 3 2 0 3 4 -1
+p324
+aVObinna Ekezie ATL 02/22/2005 ATL @ SAC L 11 6 3 3 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 1
+p325
+aVBoris Diaw ATL 02/22/2005 ATL @ SAC L 17 1 0 4 0.0 0 2 0.0 1 2 50.0 1 2 3 1 0 0 2 0 -13
+p326
+aVJosh Childress ATL 02/22/2005 ATL @ SAC L 28 6 3 7 42.9 0 1 0.0 0 0 - 3 2 5 0 1 0 1 4 0
+p327
+aVTony Delk ATL 02/22/2005 ATL @ SAC L 20 5 2 5 40.0 0 1 0.0 1 2 50.0 0 2 2 1 1 0 1 1 -10
+p328
+aVPredrag Drobnjak ATL 02/22/2005 ATL @ SAC L 11 6 1 4 25.0 0 1 0.0 4 4 100.0 0 1 1 0 2 0 0 4 -16
+p329
+aVObinna Ekezie ATL 02/16/2005 ATL @ CLE L 32 10 3 9 33.3 0 0 - 4 4 100.0 3 5 8 0 0 1 2 3 0
+p330
+aVJosh Childress ATL 02/16/2005 ATL @ CLE L 44 14 7 14 50.0 0 1 0.0 0 1 0.0 4 6 10 4 1 0 0 2 -9
+p331
+aVJosh Smith ATL 02/16/2005 ATL @ CLE L 33 11 5 11 45.5 0 0 - 1 1 100.0 0 2 2 4 1 3 3 2 -11
+p332
+aVDonta Smith ATL 02/16/2005 ATL @ CLE L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -12
+p333
+aVRoyal Ivey ATL 02/16/2005 ATL @ CLE L 12 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 1 0 1 1 -6
+p334
+aVJason Collier ATL 02/16/2005 ATL @ CLE L 16 10 5 9 55.6 0 0 - 0 0 - 2 1 3 0 1 0 0 3 -22
+p335
+aVBoris Diaw ATL 02/16/2005 ATL @ CLE L 33 13 5 10 50.0 0 1 0.0 3 4 75.0 5 1 6 6 1 1 2 1 -12
+p336
+aVTony Delk ATL 02/16/2005 ATL @ CLE L 19 6 2 10 20.0 0 0 - 2 2 100.0 1 0 1 4 0 0 1 0 -17
+p337
+aVAntoine Walker ATL 02/16/2005 ATL @ CLE L 39 21 10 24 41.7 1 4 25.0 0 3 0.0 2 8 10 1 0 2 4 1 -21
+p338
+aVAntoine Walker ATL 02/15/2005 ATL vs. DEN L 45 22 10 24 41.7 0 5 0.0 2 4 50.0 4 8 12 4 0 1 2 3 -7
+p339
+aVJosh Smith ATL 02/15/2005 ATL vs. DEN L 29 15 4 12 33.3 0 0 - 7 8 87.5 3 2 5 3 1 5 2 1 -7
+p340
+aVTony Delk ATL 02/15/2005 ATL vs. DEN L 32 19 7 10 70.0 1 3 33.3 4 6 66.7 0 1 1 2 0 0 0 1 1
+p341
+aVRoyal Ivey ATL 02/15/2005 ATL vs. DEN L 14 6 3 6 50.0 0 0 - 0 0 - 0 1 1 2 1 1 1 3 -3
+p342
+aVJason Collier ATL 02/15/2005 ATL vs. DEN L 11 4 1 3 33.3 1 1 100.0 1 2 50.0 0 1 1 0 0 0 2 2 -2
+p343
+aVDonta Smith ATL 02/15/2005 ATL vs. DEN L 26 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 4 0 0 2 3 -2
+p344
+aVBoris Diaw ATL 02/15/2005 ATL vs. DEN L 19 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 3 0 0 2 3 -3
+p345
+aVObinna Ekezie ATL 02/15/2005 ATL vs. DEN L 30 13 4 6 66.7 0 0 - 5 6 83.3 3 5 8 1 2 0 0 4 5
+p346
+aVJosh Childress ATL 02/15/2005 ATL vs. DEN L 34 12 4 10 40.0 0 0 - 4 4 100.0 2 2 4 2 2 0 3 4 -2
+p347
+aVDonta Smith ATL 02/12/2005 ATL @ MIL L 22 12 2 4 50.0 0 0 - 8 9 88.9 0 4 4 4 0 0 0 1 -8
+p348
+aVRoyal Ivey ATL 02/12/2005 ATL @ MIL L 16 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 1 0 1 3 -9
+p349
+aVObinna Ekezie ATL 02/12/2005 ATL @ MIL L 22 10 3 4 75.0 0 0 - 4 6 66.7 0 0 0 0 1 0 0 3 7
+p350
+aVJosh Childress ATL 02/12/2005 ATL @ MIL L 43 20 8 12 66.7 1 1 100.0 3 3 100.0 5 5 10 4 1 0 4 5 -18
+p351
+aVTony Delk ATL 02/12/2005 ATL @ MIL L 21 2 1 10 10.0 0 3 0.0 0 0 - 0 2 2 3 0 0 1 3 -23
+p352
+aVJason Collier ATL 02/12/2005 ATL @ MIL L 21 6 3 4 75.0 0 0 - 0 0 - 3 4 7 2 0 1 3 2 -30
+p353
+aVJosh Smith ATL 02/12/2005 ATL @ MIL L 24 2 0 6 0.0 0 0 - 2 2 100.0 2 4 6 2 0 1 5 5 -20
+p354
+aVBoris Diaw ATL 02/12/2005 ATL @ MIL L 29 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 2 2 2 2 2 -19
+p355
+aVKevin Willis ATL 02/12/2005 ATL @ MIL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p356
+aVAntoine Walker ATL 02/12/2005 ATL @ MIL L 39 21 8 22 36.4 0 3 0.0 5 8 62.5 2 8 10 3 1 0 4 3 -24
+p357
+aVKevin Willis ATL 02/10/2005 ATL @ ORL L 19 5 2 5 40.0 0 0 - 1 2 50.0 2 4 6 1 0 0 1 4 -6
+p358
+aVBoris Diaw ATL 02/10/2005 ATL @ ORL L 32 8 4 9 44.4 0 0 - 0 1 0.0 1 4 5 4 0 0 0 2 -7
+p359
+aVJason Collier ATL 02/10/2005 ATL @ ORL L 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p360
+aVTony Delk ATL 02/10/2005 ATL @ ORL L 38 25 9 20 45.0 2 2 100.0 5 6 83.3 1 3 4 4 2 0 0 4 8
+p361
+aVObinna Ekezie ATL 02/10/2005 ATL @ ORL L 28 4 1 5 20.0 0 0 - 2 2 100.0 3 2 5 1 1 1 2 6 5
+p362
+aVRoyal Ivey ATL 02/10/2005 ATL @ ORL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p363
+aVJosh Childress ATL 02/10/2005 ATL @ ORL L 39 19 6 7 85.7 1 2 50.0 6 7 85.7 3 7 10 0 1 0 2 5 -11
+p364
+aVKenny Anderson ATL 02/10/2005 ATL @ ORL L 12 6 3 7 42.9 0 0 - 0 0 - 0 2 2 1 1 0 2 0 -8
+p365
+aVAntoine Walker ATL 02/10/2005 ATL @ ORL L 44 25 10 26 38.5 1 5 20.0 4 8 50.0 2 6 8 1 3 1 4 2 -8
+p366
+aVDonta Smith ATL 02/10/2005 ATL @ ORL L 19 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 3 1 2 0 4
+p367
+aVTony Delk ATL 02/07/2005 ATL vs. LAL W 33 25 7 20 35.0 3 8 37.5 8 9 88.9 2 2 4 8 2 0 0 3 -7
+p368
+aVAntoine Walker ATL 02/07/2005 ATL vs. LAL W 33 26 10 15 66.7 0 0 - 6 10 60.0 5 4 9 2 0 1 2 4 -2
+p369
+aVPredrag Drobnjak ATL 02/07/2005 ATL vs. LAL W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p370
+aVBoris Diaw ATL 02/07/2005 ATL vs. LAL W 29 8 4 9 44.4 0 0 - 0 0 - 1 3 4 3 1 1 2 4 9
+p371
+aVDonta Smith ATL 02/07/2005 ATL vs. LAL W 32 11 4 6 66.7 0 0 - 3 4 75.0 2 3 5 4 1 1 0 5 -2
+p372
+aVRoyal Ivey ATL 02/07/2005 ATL vs. LAL W 16 6 3 7 42.9 0 0 - 0 1 0.0 1 3 4 1 0 0 1 4 8
+p373
+aVObinna Ekezie ATL 02/07/2005 ATL vs. LAL W 21 5 2 5 40.0 0 0 - 1 1 100.0 1 5 6 1 2 0 2 2 -3
+p374
+aVKenny Anderson ATL 02/07/2005 ATL vs. LAL W 19 5 2 7 28.6 0 0 - 1 2 50.0 0 1 1 2 0 0 0 3 -1
+p375
+aVJosh Childress ATL 02/07/2005 ATL vs. LAL W 41 19 8 10 80.0 0 0 - 3 3 100.0 3 8 11 2 0 0 4 5 15
+p376
+aVJason Collier ATL 02/07/2005 ATL vs. LAL W 10 7 3 7 42.9 0 0 - 1 1 100.0 0 2 2 0 0 0 1 2 11
+p377
+aVJosh Childress ATL 02/05/2005 ATL vs. IND L 30 2 1 4 25.0 0 0 - 0 0 - 1 3 4 3 1 0 0 3 -11
+p378
+aVAl Harrington ATL 02/05/2005 ATL vs. IND L 38 26 11 22 50.0 1 1 100.0 3 7 42.9 4 4 8 1 2 0 1 0 10
+p379
+aVDonta Smith ATL 02/05/2005 ATL vs. IND L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p380
+aVPredrag Drobnjak ATL 02/05/2005 ATL vs. IND L 13 9 4 8 50.0 0 1 0.0 1 1 100.0 1 1 2 0 0 0 0 3 -10
+p381
+aVObinna Ekezie ATL 02/05/2005 ATL vs. IND L 22 5 1 4 25.0 0 0 - 3 4 75.0 3 1 4 0 1 0 0 6 4
+p382
+aVTony Delk ATL 02/05/2005 ATL vs. IND L 30 4 2 10 20.0 0 4 0.0 0 0 - 0 3 3 1 0 0 0 1 -9
+p383
+aVJason Collier ATL 02/05/2005 ATL vs. IND L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 3
+p384
+aVAntoine Walker ATL 02/05/2005 ATL vs. IND L 40 26 11 23 47.8 3 4 75.0 1 2 50.0 1 8 9 8 0 1 3 3 9
+p385
+aVBoris Diaw ATL 02/05/2005 ATL vs. IND L 36 4 2 7 28.6 0 1 0.0 0 0 - 1 3 4 5 1 0 1 2 -1
+p386
+aVRoyal Ivey ATL 02/05/2005 ATL vs. IND L 8 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 1 0 1 0 -2
+p387
+aVKevin Willis ATL 02/05/2005 ATL vs. IND L 7 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 0 0 4 -14
+p388
+aVAl Harrington ATL 02/04/2005 ATL @ PHI L 35 7 2 12 16.7 0 0 - 3 3 100.0 1 2 3 2 1 0 3 4 -11
+p389
+aVTyronn Lue ATL 02/04/2005 ATL @ PHI L 19 8 2 4 50.0 0 0 - 4 5 80.0 0 2 2 5 0 0 3 2 -12
+p390
+aVDonta Smith ATL 02/04/2005 ATL @ PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 2 0 0 0 3
+p391
+aVRoyal Ivey ATL 02/04/2005 ATL @ PHI L 23 10 4 7 57.1 0 0 - 2 3 66.7 2 3 5 4 0 0 2 2 -9
+p392
+aVObinna Ekezie ATL 02/04/2005 ATL @ PHI L 21 5 1 2 50.0 0 0 - 3 4 75.0 2 4 6 1 0 1 2 3 -5
+p393
+aVJosh Childress ATL 02/04/2005 ATL @ PHI L 25 11 5 11 45.5 1 1 100.0 0 0 - 1 4 5 2 1 0 1 4 -2
+p394
+aVAntoine Walker ATL 02/04/2005 ATL @ PHI L 35 14 5 14 35.7 1 3 33.3 3 4 75.0 2 7 9 2 1 0 3 3 -25
+p395
+aVTony Delk ATL 02/04/2005 ATL @ PHI L 28 11 5 14 35.7 1 4 25.0 0 0 - 0 2 2 1 1 0 0 2 -12
+p396
+aVBoris Diaw ATL 02/04/2005 ATL @ PHI L 14 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 1 0 0 3 -6
+p397
+aVKevin Willis ATL 02/04/2005 ATL @ PHI L 9 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 2 2
+p398
+aVPredrag Drobnjak ATL 02/04/2005 ATL @ PHI L 27 13 6 10 60.0 1 3 33.3 0 0 - 0 4 4 1 1 0 1 1 -13
+p399
+aVRoyal Ivey ATL 02/02/2005 ATL @ DET L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p400
+aVPredrag Drobnjak ATL 02/02/2005 ATL @ DET L 22 11 4 7 57.1 0 1 0.0 3 4 75.0 1 3 4 2 0 0 0 2 7
+p401
+aVAntoine Walker ATL 02/02/2005 ATL @ DET L 40 13 6 19 31.6 0 5 0.0 1 1 100.0 3 7 10 3 0 1 2 3 -22
+p402
+aVDonta Smith ATL 02/02/2005 ATL @ DET L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 9
+p403
+aVTyronn Lue ATL 02/02/2005 ATL @ DET L 32 10 4 12 33.3 1 4 25.0 1 1 100.0 1 0 1 4 0 0 1 1 -25
+p404
+aVJosh Childress ATL 02/02/2005 ATL @ DET L 36 8 4 10 40.0 0 0 - 0 0 - 4 3 7 3 2 0 0 1 -15
+p405
+aVObinna Ekezie ATL 02/02/2005 ATL @ DET L 15 2 1 4 25.0 0 0 - 0 0 - 3 3 6 0 0 0 1 2 0
+p406
+aVTony Delk ATL 02/02/2005 ATL @ DET L 23 20 9 13 69.2 2 4 50.0 0 0 - 0 1 1 1 0 0 2 4 -7
+p407
+aVAl Harrington ATL 02/02/2005 ATL @ DET L 37 13 3 8 37.5 0 1 0.0 7 10 70.0 3 2 5 4 2 0 4 1 -23
+p408
+aVJason Collier ATL 02/02/2005 ATL @ DET L 7 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -7
+p409
+aVBoris Diaw ATL 02/02/2005 ATL @ DET L 16 5 2 2 100.0 0 0 - 1 4 25.0 1 2 3 0 2 1 2 2 4
+p410
+aVObinna Ekezie ATL 01/31/2005 ATL vs. ORL W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 0 2 -5
+p411
+aVTony Delk ATL 01/31/2005 ATL vs. ORL W 34 17 7 11 63.6 1 3 33.3 2 2 100.0 0 2 2 2 0 0 1 6 2
+p412
+aVAl Harrington ATL 01/31/2005 ATL vs. ORL W 43 16 8 14 57.1 0 0 - 0 0 - 0 6 6 9 4 1 2 1 -1
+p413
+aVBoris Diaw ATL 01/31/2005 ATL vs. ORL W 23 10 5 9 55.6 0 2 0.0 0 0 - 2 4 6 3 0 0 4 3 14
+p414
+aVJosh Childress ATL 01/31/2005 ATL vs. ORL W 24 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 1 1 0 2 7
+p415
+aVTyronn Lue ATL 01/31/2005 ATL vs. ORL W 26 7 2 11 18.2 1 5 20.0 2 2 100.0 0 0 0 4 0 0 1 4 -15
+p416
+aVJosh Smith ATL 01/31/2005 ATL vs. ORL W 12 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 1 2 0 0 3
+p417
+aVPredrag Drobnjak ATL 01/31/2005 ATL vs. ORL W 31 11 5 11 45.5 1 3 33.3 0 0 - 1 5 6 2 0 1 4 0 7
+p418
+aVAntoine Walker ATL 01/31/2005 ATL vs. ORL W 37 12 4 13 30.8 1 2 50.0 3 6 50.0 1 11 12 1 0 0 4 2 -7
+p419
+aVAl Harrington ATL 01/29/2005 ATL @ MEM L 44 18 5 11 45.5 1 3 33.3 7 8 87.5 2 6 8 4 1 0 3 4 -1
+p420
+aVTyronn Lue ATL 01/29/2005 ATL @ MEM L 29 17 7 11 63.6 1 1 100.0 2 2 100.0 1 5 6 1 1 0 1 2 -4
+p421
+aVRoyal Ivey ATL 01/29/2005 ATL @ MEM L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p422
+aVAntoine Walker ATL 01/29/2005 ATL @ MEM L 44 17 7 19 36.8 2 6 33.3 1 4 25.0 4 4 8 3 1 1 2 4 -3
+p423
+aVJosh Smith ATL 01/29/2005 ATL @ MEM L 20 10 5 7 71.4 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p424
+aVKevin Willis ATL 01/29/2005 ATL @ MEM L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p425
+aVBoris Diaw ATL 01/29/2005 ATL @ MEM L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 8
+p426
+aVTony Delk ATL 01/29/2005 ATL @ MEM L 34 15 5 8 62.5 3 3 100.0 2 3 66.7 0 2 2 4 1 0 5 1 15
+p427
+aVJosh Childress ATL 01/29/2005 ATL @ MEM L 26 4 1 8 12.5 0 1 0.0 2 2 100.0 3 2 5 2 0 2 0 3 -2
+p428
+aVObinna Ekezie ATL 01/29/2005 ATL @ MEM L 16 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 -3
+p429
+aVTyronn Lue ATL 01/28/2005 ATL vs. MIA L 40 17 7 12 58.3 3 3 100.0 0 0 - 1 2 3 7 2 0 1 6 -7
+p430
+aVJosh Childress ATL 01/28/2005 ATL vs. MIA L 17 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 0 2 2 2 -15
+p431
+aVKenny Anderson ATL 01/28/2005 ATL vs. MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -5
+p432
+aVAntoine Walker ATL 01/28/2005 ATL vs. MIA L 46 36 12 18 66.7 6 8 75.0 6 10 60.0 1 9 10 8 0 1 8 4 -9
+p433
+aVPredrag Drobnjak ATL 01/28/2005 ATL vs. MIA L 26 9 3 9 33.3 1 3 33.3 2 2 100.0 1 3 4 1 1 1 1 4 0
+p434
+aVJason Collier ATL 01/28/2005 ATL vs. MIA L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -15
+p435
+aVJosh Smith ATL 01/28/2005 ATL vs. MIA L 19 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 0 2 2 4 -9
+p436
+aVObinna Ekezie ATL 01/28/2005 ATL vs. MIA L 16 2 0 0 - 0 0 - 2 4 50.0 0 3 3 0 3 0 0 2 3
+p437
+aVAl Harrington ATL 01/28/2005 ATL vs. MIA L 45 15 6 10 60.0 0 0 - 3 4 75.0 0 3 3 2 1 0 2 3 -4
+p438
+aVTony Delk ATL 01/28/2005 ATL vs. MIA L 19 7 3 9 33.3 1 5 20.0 0 0 - 0 1 1 0 4 0 1 1 11
+p439
+aVJosh Childress ATL 01/26/2005 ATL @ MIN L 19 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 1 0 2 1 -17
+p440
+aVTyronn Lue ATL 01/26/2005 ATL @ MIN L 31 13 5 12 41.7 0 1 0.0 3 3 100.0 0 2 2 5 1 0 0 1 -13
+p441
+aVJason Collier ATL 01/26/2005 ATL @ MIN L 11 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 0 0 1 1 -2
+p442
+aVTony Delk ATL 01/26/2005 ATL @ MIN L 20 12 4 8 50.0 3 6 50.0 1 2 50.0 0 1 1 1 0 1 0 1 -5
+p443
+aVJosh Smith ATL 01/26/2005 ATL @ MIN L 37 8 2 6 33.3 0 0 - 4 5 80.0 1 6 7 3 0 1 1 1 -4
+p444
+aVAntoine Walker ATL 01/26/2005 ATL @ MIN L 43 15 7 18 38.9 0 3 0.0 1 3 33.3 3 2 5 5 2 0 4 2 -19
+p445
+aVPredrag Drobnjak ATL 01/26/2005 ATL @ MIN L 12 7 3 7 42.9 1 1 100.0 0 0 - 2 3 5 0 0 0 1 0 -8
+p446
+aVObinna Ekezie ATL 01/26/2005 ATL @ MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p447
+aVAl Harrington ATL 01/26/2005 ATL @ MIN L 46 17 7 17 41.2 0 2 0.0 3 4 75.0 6 6 12 0 0 0 3 3 -16
+p448
+aVKenny Anderson ATL 01/26/2005 ATL @ MIN L 18 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 5 0 0 1 2 -4
+p449
+aVJosh Smith ATL 01/24/2005 ATL vs. CHI L 31 11 3 6 50.0 0 0 - 5 6 83.3 2 5 7 3 0 1 3 0 -2
+p450
+aVBoris Diaw ATL 01/24/2005 ATL vs. CHI L 5 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 9
+p451
+aVAntoine Walker ATL 01/24/2005 ATL vs. CHI L 31 11 3 12 25.0 1 3 33.3 4 4 100.0 0 5 5 4 0 0 2 5 -44
+p452
+aVKevin Willis ATL 01/24/2005 ATL vs. CHI L 7 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 0 0 0 1 1 -7
+p453
+aVPredrag Drobnjak ATL 01/24/2005 ATL vs. CHI L 17 2 1 7 14.3 0 0 - 0 0 - 0 1 1 0 1 1 1 1 -8
+p454
+aVJason Collier ATL 01/24/2005 ATL vs. CHI L 14 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 0 0 0 1 4 2
+p455
+aVJosh Childress ATL 01/24/2005 ATL vs. CHI L 31 8 2 8 25.0 0 0 - 4 4 100.0 2 6 8 3 0 0 2 3 -8
+p456
+aVAl Harrington ATL 01/24/2005 ATL vs. CHI L 38 18 5 13 38.5 0 2 0.0 8 9 88.9 3 9 12 2 1 1 4 3 -27
+p457
+aVKenny Anderson ATL 01/24/2005 ATL vs. CHI L 20 10 4 9 44.4 0 0 - 2 2 100.0 1 1 2 2 2 0 0 3 -9
+p458
+aVTony Delk ATL 01/24/2005 ATL vs. CHI L 8 1 0 3 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 2 -3
+p459
+aVTyronn Lue ATL 01/24/2005 ATL vs. CHI L 28 8 3 9 33.3 1 3 33.3 1 1 100.0 0 1 1 1 0 0 0 2 -16
+p460
+aVObinna Ekezie ATL 01/24/2005 ATL vs. CHI L 10 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 -12
+p461
+aVJason Collier ATL 01/22/2005 ATL vs. BOS W 13 2 1 7 14.3 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -21
+p462
+aVKenny Anderson ATL 01/22/2005 ATL vs. BOS W 24 11 5 6 83.3 0 0 - 1 1 100.0 0 2 2 1 2 0 3 0 5
+p463
+aVJosh Childress ATL 01/22/2005 ATL vs. BOS W 40 19 8 12 66.7 1 1 100.0 2 5 40.0 4 5 9 1 4 1 2 4 15
+p464
+aVJosh Smith ATL 01/22/2005 ATL vs. BOS W 33 7 3 7 42.9 0 0 - 1 2 50.0 4 5 9 2 1 1 3 1 5
+p465
+aVTyronn Lue ATL 01/22/2005 ATL vs. BOS W 24 4 0 6 0.0 0 2 0.0 4 5 80.0 0 2 2 2 1 0 0 5 -1
+p466
+aVAl Harrington ATL 01/22/2005 ATL vs. BOS W 40 21 6 18 33.3 0 1 0.0 9 11 81.8 9 8 17 3 1 1 5 5 -3
+p467
+aVAntoine Walker ATL 01/22/2005 ATL vs. BOS W 41 29 13 26 50.0 2 5 40.0 1 4 25.0 3 3 6 6 1 0 2 3 12
+p468
+aVPredrag Drobnjak ATL 01/22/2005 ATL vs. BOS W 25 7 3 10 30.0 1 1 100.0 0 0 - 0 3 3 0 2 1 0 0 8
+p469
+aVKenny Anderson ATL 01/21/2005 ATL @ CHI L 17 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 0 2 0 2 2 5
+p470
+aVJason Collier ATL 01/21/2005 ATL @ CHI L 9 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 4 -3
+p471
+aVJosh Childress ATL 01/21/2005 ATL @ CHI L 23 0 0 0 - 0 0 - 0 0 - 2 4 6 2 0 0 1 2 9
+p472
+aVTony Delk ATL 01/21/2005 ATL @ CHI L 15 5 2 5 40.0 0 0 - 1 4 25.0 1 1 2 1 1 0 1 0 -4
+p473
+aVAl Harrington ATL 01/21/2005 ATL @ CHI L 45 21 7 20 35.0 0 2 0.0 7 9 77.8 4 4 8 2 2 1 4 5 -9
+p474
+aVObinna Ekezie ATL 01/21/2005 ATL @ CHI L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 4
+p475
+aVPredrag Drobnjak ATL 01/21/2005 ATL @ CHI L 26 8 3 11 27.3 2 4 50.0 0 0 - 1 6 7 0 1 1 0 3 -7
+p476
+aVAntoine Walker ATL 01/21/2005 ATL @ CHI L 40 25 7 24 29.2 1 4 25.0 10 14 71.4 6 1 7 4 1 0 4 3 -19
+p477
+aVJosh Smith ATL 01/21/2005 ATL @ CHI L 34 7 2 6 33.3 0 0 - 3 4 75.0 6 6 12 1 1 1 2 1 -15
+p478
+aVTyronn Lue ATL 01/21/2005 ATL @ CHI L 28 9 3 5 60.0 0 0 - 3 4 75.0 0 1 1 0 0 0 3 3 -11
+p479
+aVAl Harrington ATL 01/19/2005 ATL @ MIA L 40 13 6 13 46.2 0 2 0.0 1 2 50.0 3 2 5 3 3 0 0 3 -16
+p480
+aVPredrag Drobnjak ATL 01/19/2005 ATL @ MIA L 20 11 5 13 38.5 1 1 100.0 0 0 - 2 4 6 0 0 0 0 2 -15
+p481
+aVTyronn Lue ATL 01/19/2005 ATL @ MIA L 39 7 1 12 8.3 0 4 0.0 5 6 83.3 1 2 3 10 0 0 1 4 -10
+p482
+aVAntoine Walker ATL 01/19/2005 ATL @ MIA L 43 18 6 17 35.3 0 6 0.0 6 11 54.5 7 9 16 5 3 1 2 4 -4
+p483
+aVJosh Childress ATL 01/19/2005 ATL @ MIA L 20 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -9
+p484
+aVJason Collier ATL 01/19/2005 ATL @ MIA L 20 17 8 11 72.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 4 1
+p485
+aVDonta Smith ATL 01/19/2005 ATL @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p486
+aVKenny Anderson ATL 01/19/2005 ATL @ MIA L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 5 -9
+p487
+aVJosh Smith ATL 01/19/2005 ATL @ MIA L 37 13 5 9 55.6 0 0 - 3 4 75.0 2 7 9 1 2 3 2 3 -11
+p488
+aVObinna Ekezie ATL 01/19/2005 ATL @ MIA L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p489
+aVTony Delk ATL 01/19/2005 ATL @ MIA L 9 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 1 0 2 2 -19
+p490
+aVTyronn Lue ATL 01/17/2005 ATL vs. NJN L 38 17 7 11 63.6 1 1 100.0 2 2 100.0 0 4 4 10 1 0 2 2 3
+p491
+aVJason Collier ATL 01/17/2005 ATL vs. NJN L 17 9 4 7 57.1 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -1
+p492
+aVAl Harrington ATL 01/17/2005 ATL vs. NJN L 36 22 9 16 56.3 1 4 25.0 3 4 75.0 1 5 6 0 1 0 5 5 6
+p493
+aVObinna Ekezie ATL 01/17/2005 ATL vs. NJN L 12 5 1 1 100.0 0 0 - 3 4 75.0 1 3 4 0 0 0 0 1 9
+p494
+aVDonta Smith ATL 01/17/2005 ATL vs. NJN L 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -1
+p495
+aVJosh Childress ATL 01/17/2005 ATL vs. NJN L 23 5 1 4 25.0 0 0 - 3 4 75.0 2 8 10 0 0 1 1 3 -12
+p496
+aVRoyal Ivey ATL 01/17/2005 ATL vs. NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -2
+p497
+aVAntoine Walker ATL 01/17/2005 ATL vs. NJN L 46 14 3 18 16.7 0 6 0.0 8 12 66.7 2 9 11 4 0 0 0 3 0
+p498
+aVJosh Smith ATL 01/17/2005 ATL vs. NJN L 34 5 2 7 28.6 0 0 - 1 2 50.0 5 5 10 5 2 3 3 2 4
+p499
+aVKenny Anderson ATL 01/17/2005 ATL vs. NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p500
+aVPredrag Drobnjak ATL 01/17/2005 ATL vs. NJN L 19 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 0 1 0 2 3 -9
+p501
+aVRoyal Ivey ATL 01/15/2005 ATL vs. CHA W 9 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 1 0 3 2 -8
+p502
+aVJason Collier ATL 01/15/2005 ATL vs. CHA W 13 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 4
+p503
+aVObinna Ekezie ATL 01/15/2005 ATL vs. CHA W 13 6 2 6 33.3 0 0 - 2 4 50.0 2 1 3 1 0 0 1 1 -4
+p504
+aVPredrag Drobnjak ATL 01/15/2005 ATL vs. CHA W 22 16 6 9 66.7 1 1 100.0 3 3 100.0 0 2 2 2 0 0 2 2 8
+p505
+aVAl Harrington ATL 01/15/2005 ATL vs. CHA W 36 22 10 16 62.5 0 1 0.0 2 3 66.7 1 7 8 5 0 0 3 3 6
+p506
+aVAntoine Walker ATL 01/15/2005 ATL vs. CHA W 36 21 8 14 57.1 2 4 50.0 3 4 75.0 1 10 11 5 0 1 2 1 18
+p507
+aVJosh Smith ATL 01/15/2005 ATL vs. CHA W 31 8 4 11 36.4 0 0 - 0 2 0.0 5 5 10 1 1 3 2 3 2
+p508
+aVKenny Anderson ATL 01/15/2005 ATL vs. CHA W 11 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 0 0 1 1 15
+p509
+aVJosh Childress ATL 01/15/2005 ATL vs. CHA W 32 8 3 5 60.0 0 0 - 2 3 66.7 3 4 7 2 1 2 1 0 -5
+p510
+aVDonta Smith ATL 01/15/2005 ATL vs. CHA W 9 5 2 5 40.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 3 5
+p511
+aVTyronn Lue ATL 01/15/2005 ATL vs. CHA W 25 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 2 1 0 0 1 7
+p512
+aVBoris Diaw ATL 01/15/2005 ATL vs. CHA W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -8
+p513
+aVAl Harrington ATL 01/14/2005 ATL @ BOS L 37 14 6 13 46.2 0 1 0.0 2 7 28.6 1 10 11 0 0 0 3 3 -9
+p514
+aVJosh Childress ATL 01/14/2005 ATL @ BOS L 28 7 3 5 60.0 0 0 - 1 2 50.0 3 3 6 3 0 0 1 2 -5
+p515
+aVTyronn Lue ATL 01/14/2005 ATL @ BOS L 29 6 2 12 16.7 1 4 25.0 1 4 25.0 0 1 1 4 0 0 0 2 -11
+p516
+aVObinna Ekezie ATL 01/14/2005 ATL @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p517
+aVKenny Anderson ATL 01/14/2005 ATL @ BOS L 14 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 5 1 0 1 2 7
+p518
+aVRoyal Ivey ATL 01/14/2005 ATL @ BOS L 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -8
+p519
+aVPredrag Drobnjak ATL 01/14/2005 ATL @ BOS L 28 20 8 12 66.7 2 2 100.0 2 4 50.0 2 4 6 1 3 0 2 4 0
+p520
+aVAntoine Walker ATL 01/14/2005 ATL @ BOS L 43 21 10 30 33.3 0 5 0.0 1 3 33.3 7 10 17 8 2 1 1 4 -7
+p521
+aVBoris Diaw ATL 01/14/2005 ATL @ BOS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 2 0 0 0 4
+p522
+aVDonta Smith ATL 01/14/2005 ATL @ BOS L 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -7
+p523
+aVJason Collier ATL 01/14/2005 ATL @ BOS L 16 10 5 9 55.6 0 0 - 0 0 - 0 2 2 1 1 0 2 1 -14
+p524
+aVJosh Smith ATL 01/14/2005 ATL @ BOS L 28 11 3 7 42.9 0 0 - 5 6 83.3 5 1 6 3 2 4 0 4 -10
+p525
+aVObinna Ekezie ATL 01/11/2005 ATL vs. MIL W 10 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 1 0 1 3 8
+p526
+aVAntoine Walker ATL 01/11/2005 ATL vs. MIL W 36 10 4 13 30.8 1 3 33.3 1 2 50.0 1 10 11 4 0 3 6 2 19
+p527
+aVTyronn Lue ATL 01/11/2005 ATL vs. MIL W 33 18 8 14 57.1 1 3 33.3 1 2 50.0 0 4 4 9 0 0 2 1 14
+p528
+aVDonta Smith ATL 01/11/2005 ATL vs. MIL W 10 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 1 1 3 1 -3
+p529
+aVJosh Smith ATL 01/11/2005 ATL vs. MIL W 33 11 5 5 100.0 0 0 - 1 2 50.0 2 5 7 2 4 4 2 2 19
+p530
+aVRoyal Ivey ATL 01/11/2005 ATL vs. MIL W 15 9 3 3 100.0 0 0 - 3 3 100.0 0 2 2 2 1 1 0 3 9
+p531
+aVPredrag Drobnjak ATL 01/11/2005 ATL vs. MIL W 24 13 6 11 54.5 1 1 100.0 0 0 - 2 1 3 0 0 0 3 5 4
+p532
+aVJosh Childress ATL 01/11/2005 ATL vs. MIL W 31 12 4 7 57.1 0 0 - 4 4 100.0 0 2 2 3 0 1 1 2 10
+p533
+aVJason Collier ATL 01/11/2005 ATL vs. MIL W 14 12 5 9 55.6 0 0 - 2 2 100.0 3 3 6 1 0 0 0 0 11
+p534
+aVAl Harrington ATL 01/11/2005 ATL vs. MIL W 34 14 7 12 58.3 0 1 0.0 0 2 0.0 1 5 6 2 2 0 3 4 24
+p535
+aVJason Collier ATL 01/07/2005 ATL vs. SAC L 17 6 3 9 33.3 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -4
+p536
+aVAl Harrington ATL 01/07/2005 ATL vs. SAC L 42 22 6 11 54.5 0 0 - 10 12 83.3 0 5 5 4 2 0 2 2 5
+p537
+aVRoyal Ivey ATL 01/07/2005 ATL vs. SAC L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -5
+p538
+aVBoris Diaw ATL 01/07/2005 ATL vs. SAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 1 -12
+p539
+aVJosh Childress ATL 01/07/2005 ATL vs. SAC L 21 2 1 5 20.0 0 0 - 0 0 - 2 7 9 3 0 0 0 1 -6
+p540
+aVJosh Smith ATL 01/07/2005 ATL vs. SAC L 34 16 8 11 72.7 0 0 - 0 0 - 4 4 8 1 3 1 1 4 1
+p541
+aVTyronn Lue ATL 01/07/2005 ATL vs. SAC L 38 14 7 12 58.3 0 3 0.0 0 0 - 0 2 2 6 1 0 4 2 2
+p542
+aVPredrag Drobnjak ATL 01/07/2005 ATL vs. SAC L 30 16 6 14 42.9 0 0 - 4 5 80.0 4 3 7 0 1 0 2 3 6
+p543
+aVAntoine Walker ATL 01/07/2005 ATL vs. SAC L 40 21 10 20 50.0 1 5 20.0 0 5 0.0 3 8 11 2 0 0 2 0 -2
+p544
+aVKevin Willis ATL 01/05/2005 ATL @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p545
+aVJosh Childress ATL 01/05/2005 ATL @ CLE L 25 4 2 11 18.2 0 3 0.0 0 2 0.0 5 1 6 2 0 0 1 3 -16
+p546
+aVAntoine Walker ATL 01/05/2005 ATL @ CLE L 42 26 9 20 45.0 4 9 44.4 4 8 50.0 3 7 10 5 2 0 3 3 -8
+p547
+aVBoris Diaw ATL 01/05/2005 ATL @ CLE L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 0 1
+p548
+aVAl Harrington ATL 01/05/2005 ATL @ CLE L 40 16 5 12 41.7 0 0 - 6 8 75.0 4 5 9 1 0 1 4 4 -9
+p549
+aVJosh Smith ATL 01/05/2005 ATL @ CLE L 32 11 5 7 71.4 0 0 - 1 1 100.0 1 3 4 3 0 0 0 1 -11
+p550
+aVTony Delk ATL 01/05/2005 ATL @ CLE L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p551
+aVJason Collier ATL 01/05/2005 ATL @ CLE L 17 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 0 0 1 4 0
+p552
+aVTyronn Lue ATL 01/05/2005 ATL @ CLE L 37 10 5 12 41.7 0 3 0.0 0 0 - 0 0 0 3 0 0 1 1 -3
+p553
+aVRoyal Ivey ATL 01/05/2005 ATL @ CLE L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 -13
+p554
+aVPredrag Drobnjak ATL 01/05/2005 ATL @ CLE L 24 10 3 8 37.5 0 1 0.0 4 4 100.0 0 1 1 1 0 0 2 2 -7
+p555
+aVTyronn Lue ATL 01/02/2005 ATL @ WAS L 31 16 5 11 45.5 0 1 0.0 6 7 85.7 0 2 2 6 0 0 0 3 -3
+p556
+aVTony Delk ATL 01/02/2005 ATL @ WAS L 27 19 6 16 37.5 1 6 16.7 6 7 85.7 0 3 3 1 2 0 1 6 18
+p557
+aVJosh Childress ATL 01/02/2005 ATL @ WAS L 22 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 0 2 0 4 1 2
+p558
+aVAntoine Walker ATL 01/02/2005 ATL @ WAS L 36 18 7 14 50.0 3 5 60.0 1 2 50.0 3 10 13 3 2 1 4 2 -2
+p559
+aVKenny Anderson ATL 01/02/2005 ATL @ WAS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 1 0 0 1 0
+p560
+aVRoyal Ivey ATL 01/02/2005 ATL @ WAS L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 0
+p561
+aVJason Collier ATL 01/02/2005 ATL @ WAS L 11 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -16
+p562
+aVAl Harrington ATL 01/02/2005 ATL @ WAS L 37 14 6 14 42.9 0 1 0.0 2 2 100.0 4 7 11 1 0 0 3 3 -7
+p563
+aVJosh Smith ATL 01/02/2005 ATL @ WAS L 25 4 2 6 33.3 0 0 - 0 0 - 2 4 6 2 1 4 4 1 -18
+p564
+aVKevin Willis ATL 01/02/2005 ATL @ WAS L 11 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 2 1 1 0 1 11
+p565
+aVPredrag Drobnjak ATL 01/02/2005 ATL @ WAS L 23 15 6 9 66.7 0 0 - 3 3 100.0 0 2 2 0 0 0 2 0 0
+p566
+aVKevin Willis ATL 12/30/2004 ATL vs. SEA L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p567
+aVAntoine Walker ATL 12/30/2004 ATL vs. SEA L 39 19 7 17 41.2 3 6 50.0 2 4 50.0 1 10 11 5 1 2 4 2 -17
+p568
+aVJosh Childress ATL 12/30/2004 ATL vs. SEA L 18 6 3 4 75.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 2 -24
+p569
+aVRoyal Ivey ATL 12/30/2004 ATL vs. SEA L 18 2 1 2 50.0 0 0 - 0 0 - 2 0 2 4 1 0 1 2 -1
+p570
+aVPredrag Drobnjak ATL 12/30/2004 ATL vs. SEA L 11 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 1 1 -5
+p571
+aVJosh Smith ATL 12/30/2004 ATL vs. SEA L 32 10 5 11 45.5 0 0 - 0 0 - 3 4 7 0 0 1 2 2 0
+p572
+aVBoris Diaw ATL 12/30/2004 ATL vs. SEA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p573
+aVTyronn Lue ATL 12/30/2004 ATL vs. SEA L 28 6 2 10 20.0 1 4 25.0 1 1 100.0 0 0 0 3 0 0 0 5 -12
+p574
+aVAl Harrington ATL 12/30/2004 ATL vs. SEA L 43 15 5 15 33.3 1 2 50.0 4 5 80.0 3 6 9 4 1 0 2 4 -8
+p575
+aVJason Collier ATL 12/30/2004 ATL vs. SEA L 23 10 5 11 45.5 0 0 - 0 0 - 5 1 6 0 0 1 1 3 6
+p576
+aVTony Delk ATL 12/30/2004 ATL vs. SEA L 16 9 2 7 28.6 1 5 20.0 4 7 57.1 1 1 2 0 0 0 2 2 -15
+p577
+aVPredrag Drobnjak ATL 12/28/2004 ATL vs. CLE L 19 8 4 9 44.4 0 0 - 0 0 - 1 2 3 0 1 2 0 1 11
+p578
+aVAntoine Walker ATL 12/28/2004 ATL vs. CLE L 42 17 8 16 50.0 1 4 25.0 0 2 0.0 1 8 9 5 3 2 7 4 -15
+p579
+aVKevin Willis ATL 12/28/2004 ATL vs. CLE L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 4
+p580
+aVJason Collier ATL 12/28/2004 ATL vs. CLE L 14 9 4 5 80.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 3 -19
+p581
+aVTyronn Lue ATL 12/28/2004 ATL vs. CLE L 30 8 2 5 40.0 0 1 0.0 4 6 66.7 0 2 2 6 0 0 3 4 -6
+p582
+aVTony Delk ATL 12/28/2004 ATL vs. CLE L 19 13 5 9 55.6 3 6 50.0 0 0 - 0 3 3 0 1 0 0 1 -7
+p583
+aVKenny Anderson ATL 12/28/2004 ATL vs. CLE L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -3
+p584
+aVRoyal Ivey ATL 12/28/2004 ATL vs. CLE L 11 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 2 1 1 4 -2
+p585
+aVJosh Smith ATL 12/28/2004 ATL vs. CLE L 20 4 2 5 40.0 0 0 - 0 0 - 2 0 2 2 0 2 0 0 -4
+p586
+aVAl Harrington ATL 12/28/2004 ATL vs. CLE L 42 31 11 16 68.8 0 1 0.0 9 11 81.8 1 5 6 4 2 0 5 4 -8
+p587
+aVJosh Childress ATL 12/28/2004 ATL vs. CLE L 29 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 0 0 0 1 2 4
+p588
+aVTony Delk ATL 12/27/2004 ATL @ MIA L 20 16 8 12 66.7 0 1 0.0 0 0 - 1 1 2 0 0 0 1 3 -13
+p589
+aVKenny Anderson ATL 12/27/2004 ATL @ MIA L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 1 0 1 3 -10
+p590
+aVTyronn Lue ATL 12/27/2004 ATL @ MIA L 19 13 4 5 80.0 0 0 - 5 6 83.3 0 1 1 4 0 0 0 4 -1
+p591
+aVKevin Willis ATL 12/27/2004 ATL @ MIA L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p592
+aVJosh Smith ATL 12/27/2004 ATL @ MIA L 25 8 3 6 50.0 0 0 - 2 2 100.0 4 4 8 2 1 3 1 3 -1
+p593
+aVRoyal Ivey ATL 12/27/2004 ATL @ MIA L 17 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 4 0 0 0 2 -3
+p594
+aVAl Harrington ATL 12/27/2004 ATL @ MIA L 42 9 4 9 44.4 0 0 - 1 1 100.0 0 2 2 3 1 0 3 4 -5
+p595
+aVPredrag Drobnjak ATL 12/27/2004 ATL @ MIA L 25 16 8 12 66.7 0 1 0.0 0 0 - 1 7 8 2 1 1 3 1 4
+p596
+aVAntoine Walker ATL 12/27/2004 ATL @ MIA L 39 16 5 18 27.8 2 6 33.3 4 6 66.7 1 5 6 2 2 0 1 4 -12
+p597
+aVJason Collier ATL 12/27/2004 ATL @ MIA L 18 15 6 9 66.7 0 0 - 3 4 75.0 1 1 2 0 1 0 0 6 -20
+p598
+aVJosh Childress ATL 12/27/2004 ATL @ MIA L 18 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 0 1 1 2 -11
+p599
+aVPredrag Drobnjak ATL 12/22/2004 ATL vs. DAL W 11 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 3 1 0 1 3 2
+p600
+aVKenny Anderson ATL 12/22/2004 ATL vs. DAL W 17 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 3 0 0 3 18
+p601
+aVJason Collier ATL 12/22/2004 ATL vs. DAL W 11 3 1 2 50.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 1 0
+p602
+aVJosh Smith ATL 12/22/2004 ATL vs. DAL W 33 14 5 9 55.6 0 0 - 4 8 50.0 4 5 9 3 1 1 1 4 0
+p603
+aVAntoine Walker ATL 12/22/2004 ATL vs. DAL W 38 25 10 17 58.8 1 4 25.0 4 9 44.4 4 6 10 3 1 1 7 1 7
+p604
+aVKevin Willis ATL 12/22/2004 ATL vs. DAL W 22 12 6 10 60.0 0 1 0.0 0 0 - 1 2 3 0 1 0 1 2 10
+p605
+aVAl Harrington ATL 12/22/2004 ATL vs. DAL W 34 17 8 13 61.5 0 0 - 1 3 33.3 0 10 10 7 1 0 2 3 8
+p606
+aVJosh Childress ATL 12/22/2004 ATL vs. DAL W 31 16 6 9 66.7 0 2 0.0 4 4 100.0 4 1 5 4 3 0 0 3 8
+p607
+aVRoyal Ivey ATL 12/22/2004 ATL vs. DAL W 16 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 2 0 2 4 2
+p608
+aVTony Delk ATL 12/22/2004 ATL vs. DAL W 27 14 6 16 37.5 1 6 16.7 1 2 50.0 2 3 5 5 1 0 0 1 10
+p609
+aVAntoine Walker ATL 12/18/2004 ATL @ DAL L 34 13 6 15 40.0 0 5 0.0 1 4 25.0 0 11 11 3 0 0 2 4 -6
+p610
+aVJosh Childress ATL 12/18/2004 ATL @ DAL L 26 9 3 9 33.3 0 0 - 3 4 75.0 5 4 9 0 0 0 0 2 -9
+p611
+aVJason Collier ATL 12/18/2004 ATL @ DAL L 21 9 4 7 57.1 0 0 - 1 2 50.0 0 2 2 0 0 1 0 4 -5
+p612
+aVRoyal Ivey ATL 12/18/2004 ATL @ DAL L 18 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 3 2 0 1 4 1
+p613
+aVKenny Anderson ATL 12/18/2004 ATL @ DAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 3 -5
+p614
+aVJosh Smith ATL 12/18/2004 ATL @ DAL L 34 9 4 11 36.4 0 0 - 1 2 50.0 2 5 7 4 0 10 3 0 -9
+p615
+aVAl Harrington ATL 12/18/2004 ATL @ DAL L 37 6 3 8 37.5 0 0 - 0 2 0.0 2 4 6 1 3 2 6 3 -29
+p616
+aVTony Delk ATL 12/18/2004 ATL @ DAL L 21 8 4 13 30.8 0 2 0.0 0 0 - 1 3 4 2 3 0 3 0 -20
+p617
+aVBoris Diaw ATL 12/18/2004 ATL @ DAL L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -11
+p618
+aVPredrag Drobnjak ATL 12/18/2004 ATL @ DAL L 27 11 5 10 50.0 0 0 - 1 2 50.0 3 1 4 1 1 0 2 1 -17
+p619
+aVKevin Willis ATL 12/17/2004 ATL vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p620
+aVTony Delk ATL 12/17/2004 ATL vs. POR L 25 13 6 13 46.2 1 3 33.3 0 0 - 0 0 0 2 1 0 0 2 10
+p621
+aVJason Collier ATL 12/17/2004 ATL vs. POR L 8 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -8
+p622
+aVJosh Smith ATL 12/17/2004 ATL vs. POR L 34 14 6 11 54.5 0 1 0.0 2 5 40.0 2 3 5 5 3 1 2 1 -28
+p623
+aVKenny Anderson ATL 12/17/2004 ATL vs. POR L 27 13 5 9 55.6 2 3 66.7 1 1 100.0 2 0 2 2 1 0 1 1 7
+p624
+aVRoyal Ivey ATL 12/17/2004 ATL vs. POR L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 1 0 4 2 -21
+p625
+aVAntoine Walker ATL 12/17/2004 ATL vs. POR L 36 13 4 16 25.0 1 5 20.0 4 6 66.7 3 4 7 1 3 0 4 3 -31
+p626
+aVAl Harrington ATL 12/17/2004 ATL vs. POR L 39 10 4 11 36.4 0 2 0.0 2 5 40.0 2 5 7 3 3 0 2 3 -9
+p627
+aVPredrag Drobnjak ATL 12/17/2004 ATL vs. POR L 23 7 1 7 14.3 0 0 - 5 6 83.3 3 2 5 1 0 0 2 3 4
+p628
+aVBoris Diaw ATL 12/17/2004 ATL vs. POR L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p629
+aVJosh Childress ATL 12/17/2004 ATL vs. POR L 27 5 2 13 15.4 0 3 0.0 1 2 50.0 6 4 10 2 1 1 1 1 -2
+p630
+aVTony Delk ATL 12/15/2004 ATL @ HOU L 10 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 4
+p631
+aVPredrag Drobnjak ATL 12/15/2004 ATL @ HOU L 26 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 1 0 2 2 -1
+p632
+aVJosh Smith ATL 12/15/2004 ATL @ HOU L 35 14 3 5 60.0 0 0 - 8 12 66.7 1 9 10 3 3 2 6 4 -22
+p633
+aVKenny Anderson ATL 12/15/2004 ATL @ HOU L 14 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 2 1 0 0 0 1
+p634
+aVBoris Diaw ATL 12/15/2004 ATL @ HOU L 20 5 2 5 40.0 0 1 0.0 1 2 50.0 2 1 3 3 2 0 1 2 -15
+p635
+aVKevin Willis ATL 12/15/2004 ATL @ HOU L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -11
+p636
+aVAntoine Walker ATL 12/15/2004 ATL @ HOU L 28 8 3 18 16.7 0 6 0.0 2 3 66.7 3 5 8 1 2 0 3 0 -15
+p637
+aVRoyal Ivey ATL 12/15/2004 ATL @ HOU L 15 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 1 0 2 2 -9
+p638
+aVJason Collier ATL 12/15/2004 ATL @ HOU L 16 2 1 9 11.1 0 0 - 0 0 - 3 0 3 0 0 0 0 2 -20
+p639
+aVAl Harrington ATL 12/15/2004 ATL @ HOU L 39 21 9 18 50.0 1 3 33.3 2 4 50.0 2 6 8 1 0 0 6 4 -8
+p640
+aVJosh Childress ATL 12/15/2004 ATL @ HOU L 29 8 4 8 50.0 0 1 0.0 0 0 - 2 2 4 1 0 0 3 5 -19
+p641
+aVKevin Willis ATL 12/14/2004 ATL vs. IND L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 8
+p642
+aVTony Delk ATL 12/14/2004 ATL vs. IND L 40 22 10 17 58.8 1 6 16.7 1 2 50.0 1 3 4 4 1 2 1 4 -4
+p643
+aVJosh Childress ATL 12/14/2004 ATL vs. IND L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 4
+p644
+aVAl Harrington ATL 12/14/2004 ATL vs. IND L 47 21 8 18 44.4 1 2 50.0 4 7 57.1 6 4 10 4 0 0 5 5 -14
+p645
+aVBoris Diaw ATL 12/14/2004 ATL vs. IND L 26 6 3 10 30.0 0 2 0.0 0 0 - 3 2 5 2 0 2 1 4 -16
+p646
+aVRoyal Ivey ATL 12/14/2004 ATL vs. IND L 27 11 5 8 62.5 0 0 - 1 1 100.0 0 2 2 0 1 0 1 6 0
+p647
+aVJosh Smith ATL 12/14/2004 ATL vs. IND L 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -8
+p648
+aVJason Collier ATL 12/14/2004 ATL vs. IND L 14 4 1 3 33.3 0 0 - 2 2 100.0 3 0 3 0 0 0 1 1 -8
+p649
+aVKenny Anderson ATL 12/14/2004 ATL vs. IND L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 5
+p650
+aVPredrag Drobnjak ATL 12/14/2004 ATL vs. IND L 32 10 4 11 36.4 0 2 0.0 2 3 66.7 3 4 7 0 1 0 3 3 -11
+p651
+aVAntoine Walker ATL 12/14/2004 ATL vs. IND L 49 17 6 11 54.5 1 2 50.0 4 8 50.0 0 9 9 4 4 0 5 5 -11
+p652
+aVJason Collier ATL 12/11/2004 ATL vs. NJN L 12 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -8
+p653
+aVAl Harrington ATL 12/11/2004 ATL vs. NJN L 36 21 9 13 69.2 1 2 50.0 2 3 66.7 1 5 6 4 2 0 4 6 2
+p654
+aVPredrag Drobnjak ATL 12/11/2004 ATL vs. NJN L 23 6 1 2 50.0 0 0 - 4 6 66.7 1 3 4 0 0 1 2 1 -1
+p655
+aVBoris Diaw ATL 12/11/2004 ATL vs. NJN L 32 3 1 5 20.0 1 2 50.0 0 0 - 3 5 8 3 0 1 2 5 -5
+p656
+aVJosh Childress ATL 12/11/2004 ATL vs. NJN L 12 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 1 1
+p657
+aVJosh Smith ATL 12/11/2004 ATL vs. NJN L 29 11 5 11 45.5 0 0 - 1 2 50.0 6 1 7 0 2 1 1 2 -7
+p658
+aVAntoine Walker ATL 12/11/2004 ATL vs. NJN L 42 25 11 21 52.4 1 2 50.0 2 4 50.0 4 9 13 3 1 1 4 3 -8
+p659
+aVKenny Anderson ATL 12/11/2004 ATL vs. NJN L 19 9 4 8 50.0 0 1 0.0 1 2 50.0 0 2 2 2 1 0 2 3 -5
+p660
+aVTony Delk ATL 12/11/2004 ATL vs. NJN L 35 9 4 13 30.8 1 4 25.0 0 2 0.0 0 1 1 4 1 0 1 2 6
+p661
+aVTony Delk ATL 12/10/2004 ATL @ DET W 21 16 6 10 60.0 4 7 57.1 0 0 - 0 0 0 2 1 0 1 4 10
+p662
+aVAl Harrington ATL 12/10/2004 ATL @ DET W 31 15 7 12 58.3 0 1 0.0 1 2 50.0 0 2 2 4 2 1 4 4 2
+p663
+aVJason Collier ATL 12/10/2004 ATL @ DET W 13 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 1 0 2 4 5 4
+p664
+aVKenny Anderson ATL 12/10/2004 ATL @ DET W 21 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 8 1 0 0 5 10
+p665
+aVJosh Childress ATL 12/10/2004 ATL @ DET W 20 4 2 4 50.0 0 0 - 0 2 0.0 0 4 4 0 0 0 0 4 8
+p666
+aVBoris Diaw ATL 12/10/2004 ATL @ DET W 26 2 1 5 20.0 0 2 0.0 0 1 0.0 1 5 6 3 0 0 3 1 9
+p667
+aVKevin Willis ATL 12/10/2004 ATL @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p668
+aVAntoine Walker ATL 12/10/2004 ATL @ DET W 42 13 5 13 38.5 2 5 40.0 1 2 50.0 0 9 9 3 3 0 5 5 12
+p669
+aVJosh Smith ATL 12/10/2004 ATL @ DET W 27 12 5 7 71.4 0 0 - 2 3 66.7 2 3 5 2 0 4 1 0 11
+p670
+aVPredrag Drobnjak ATL 12/10/2004 ATL @ DET W 38 16 8 12 66.7 0 1 0.0 0 0 - 1 5 6 2 0 2 2 2 13
+p671
+aVKevin Willis ATL 12/08/2004 ATL vs. MEM L 11 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 3 -1
+p672
+aVJason Collier ATL 12/08/2004 ATL vs. MEM L 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p673
+aVKenny Anderson ATL 12/08/2004 ATL vs. MEM L 15 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 2 0 0 3 1 -10
+p674
+aVPredrag Drobnjak ATL 12/08/2004 ATL vs. MEM L 27 6 0 7 0.0 0 1 0.0 6 6 100.0 3 2 5 2 1 3 0 2 2
+p675
+aVJosh Smith ATL 12/08/2004 ATL vs. MEM L 22 8 2 5 40.0 0 0 - 4 5 80.0 2 3 5 1 0 1 0 3 -8
+p676
+aVAl Harrington ATL 12/08/2004 ATL vs. MEM L 43 26 10 18 55.6 0 0 - 6 8 75.0 3 3 6 6 3 0 5 4 -5
+p677
+aVAntoine Walker ATL 12/08/2004 ATL vs. MEM L 46 31 9 20 45.0 3 6 50.0 10 12 83.3 2 7 9 0 1 0 4 2 -8
+p678
+aVBoris Diaw ATL 12/08/2004 ATL vs. MEM L 15 0 0 0 - 0 0 - 0 0 - 0 2 2 1 2 0 0 4 -5
+p679
+aVJosh Childress ATL 12/08/2004 ATL vs. MEM L 12 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 1 0 3 6
+p680
+aVJelani McCoy ATL 12/08/2004 ATL vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -2
+p681
+aVTony Delk ATL 12/08/2004 ATL vs. MEM L 39 10 5 13 38.5 0 2 0.0 0 0 - 1 4 5 3 1 0 1 5 -2
+p682
+aVJosh Smith ATL 12/06/2004 ATL vs. PHI W 19 11 4 6 66.7 0 1 0.0 3 3 100.0 5 5 10 1 0 2 1 2 5
+p683
+aVJon Barry ATL 12/06/2004 ATL vs. PHI W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -4
+p684
+aVJosh Childress ATL 12/06/2004 ATL vs. PHI W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 0 1
+p685
+aVPredrag Drobnjak ATL 12/06/2004 ATL vs. PHI W 33 20 6 16 37.5 1 4 25.0 7 9 77.8 3 6 9 0 0 1 1 3 7
+p686
+aVBoris Diaw ATL 12/06/2004 ATL vs. PHI W 28 6 3 6 50.0 0 2 0.0 0 0 - 1 5 6 4 1 1 4 1 2
+p687
+aVJason Collier ATL 12/06/2004 ATL vs. PHI W 15 4 1 8 12.5 0 1 0.0 2 2 100.0 1 1 2 0 1 0 3 3 -5
+p688
+aVAntoine Walker ATL 12/06/2004 ATL vs. PHI W 44 22 7 20 35.0 3 9 33.3 5 10 50.0 3 9 12 1 1 1 1 2 5
+p689
+aVAl Harrington ATL 12/06/2004 ATL vs. PHI W 42 21 7 16 43.8 0 1 0.0 7 9 77.8 5 2 7 5 1 0 1 4 2
+p690
+aVTony Delk ATL 12/06/2004 ATL vs. PHI W 31 10 2 7 28.6 0 1 0.0 6 6 100.0 1 1 2 2 0 0 1 3 13
+p691
+aVKenny Anderson ATL 12/06/2004 ATL vs. PHI W 10 0 0 1 0.0 0 0 - 0 1 0.0 0 0 0 1 0 0 1 3 -6
+p692
+aVJason Collier ATL 12/04/2004 ATL @ NJN L 17 4 1 3 33.3 0 1 0.0 2 2 100.0 1 2 3 0 0 1 2 2 -1
+p693
+aVBoris Diaw ATL 12/04/2004 ATL @ NJN L 25 13 5 10 50.0 0 1 0.0 3 4 75.0 2 2 4 3 1 0 1 4 -12
+p694
+aVAntoine Walker ATL 12/04/2004 ATL @ NJN L 36 15 6 15 40.0 2 6 33.3 1 4 25.0 2 5 7 4 0 0 5 5 -19
+p695
+aVKenny Anderson ATL 12/04/2004 ATL @ NJN L 20 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 2 0 0 1 3 -7
+p696
+aVTony Delk ATL 12/04/2004 ATL @ NJN L 30 13 3 8 37.5 1 3 33.3 6 7 85.7 0 0 0 0 0 0 0 1 -18
+p697
+aVJosh Childress ATL 12/04/2004 ATL @ NJN L 15 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 2 1 1 0 1 2
+p698
+aVKevin Willis ATL 12/04/2004 ATL @ NJN L 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 4 -19
+p699
+aVJosh Smith ATL 12/04/2004 ATL @ NJN L 22 9 3 7 42.9 0 0 - 3 3 100.0 2 3 5 1 0 1 2 3 0
+p700
+aVAl Harrington ATL 12/04/2004 ATL @ NJN L 44 17 6 13 46.2 0 2 0.0 5 7 71.4 1 7 8 2 2 0 4 4 -19
+p701
+aVPredrag Drobnjak ATL 12/04/2004 ATL @ NJN L 14 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -12
+p702
+aVJosh Smith ATL 12/03/2004 ATL vs. WAS L 10 11 5 6 83.3 0 0 - 1 2 50.0 2 3 5 1 0 0 4 1 6
+p703
+aVAl Harrington ATL 12/03/2004 ATL vs. WAS L 43 16 5 13 38.5 0 1 0.0 6 10 60.0 2 5 7 4 3 0 0 4 -26
+p704
+aVJason Collier ATL 12/03/2004 ATL vs. WAS L 11 4 2 2 100.0 0 0 - 0 0 - 4 1 5 0 0 0 2 1 -13
+p705
+aVJon Barry ATL 12/03/2004 ATL vs. WAS L 14 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 1 -15
+p706
+aVKenny Anderson ATL 12/03/2004 ATL vs. WAS L 22 9 4 6 66.7 0 0 - 1 1 100.0 1 2 3 3 0 0 3 2 -17
+p707
+aVTony Delk ATL 12/03/2004 ATL vs. WAS L 25 8 3 10 30.0 1 7 14.3 1 3 33.3 0 2 2 0 0 0 3 0 -22
+p708
+aVJosh Childress ATL 12/03/2004 ATL vs. WAS L 16 0 0 4 0.0 0 0 - 0 0 - 2 1 3 0 0 0 2 1 2
+p709
+aVAntoine Walker ATL 12/03/2004 ATL vs. WAS L 34 26 8 23 34.8 1 5 20.0 9 11 81.8 6 5 11 0 1 1 0 1 -27
+p710
+aVPredrag Drobnjak ATL 12/03/2004 ATL vs. WAS L 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p711
+aVBoris Diaw ATL 12/03/2004 ATL vs. WAS L 28 4 2 5 40.0 0 1 0.0 0 0 - 2 7 9 5 1 1 8 4 0
+p712
+aVJelani McCoy ATL 12/03/2004 ATL vs. WAS L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -2
+p713
+aVKevin Willis ATL 12/03/2004 ATL vs. WAS L 18 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 1 1 1 0 3 -10
+p714
+aVKevin Willis ATL 11/30/2004 ATL vs. NYK L 29 8 3 6 50.0 0 0 - 2 2 100.0 2 8 10 1 0 1 0 1 11
+p715
+aVJon Barry ATL 11/30/2004 ATL vs. NYK L 9 1 0 4 0.0 0 3 0.0 1 2 50.0 0 0 0 1 0 0 0 2 -4
+p716
+aVTony Delk ATL 11/30/2004 ATL vs. NYK L 36 21 8 12 66.7 3 3 100.0 2 2 100.0 2 4 6 3 2 0 2 6 15
+p717
+aVJason Collier ATL 11/30/2004 ATL vs. NYK L 19 11 4 8 50.0 0 0 - 3 4 75.0 0 5 5 1 0 1 2 3 -16
+p718
+aVJosh Childress ATL 11/30/2004 ATL vs. NYK L 23 1 0 4 0.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 1 -15
+p719
+aVBoris Diaw ATL 11/30/2004 ATL vs. NYK L 31 10 4 6 66.7 2 4 50.0 0 0 - 2 5 7 4 0 0 3 5 14
+p720
+aVJelani McCoy ATL 11/30/2004 ATL vs. NYK L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 3
+p721
+aVJosh Smith ATL 11/30/2004 ATL vs. NYK L 13 8 3 4 75.0 0 0 - 2 3 66.7 0 1 1 2 0 1 0 1 5
+p722
+aVKenny Anderson ATL 11/30/2004 ATL vs. NYK L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -11
+p723
+aVAntoine Walker ATL 11/30/2004 ATL vs. NYK L 49 36 13 23 56.5 5 6 83.3 5 8 62.5 2 11 13 4 2 2 9 1 -2
+p724
+aVAl Harrington ATL 11/30/2004 ATL vs. NYK L 43 13 3 10 30.0 0 0 - 7 11 63.6 1 2 3 4 2 0 2 4 -5
+p725
+aVJason Collier ATL 11/27/2004 ATL @ CHA L 26 8 4 7 57.1 0 0 - 0 0 - 2 5 7 1 1 0 3 4 -4
+p726
+aVAntoine Walker ATL 11/27/2004 ATL @ CHA L 40 24 10 19 52.6 1 5 20.0 3 5 60.0 0 8 8 2 0 0 2 3 -25
+p727
+aVKenny Anderson ATL 11/27/2004 ATL @ CHA L 34 6 3 6 50.0 0 0 - 0 0 - 1 3 4 6 1 0 6 3 -6
+p728
+aVJelani McCoy ATL 11/27/2004 ATL @ CHA L 12 2 1 1 100.0 0 0 - 0 1 0.0 3 1 4 0 0 3 1 5 -1
+p729
+aVAl Harrington ATL 11/27/2004 ATL @ CHA L 40 27 11 19 57.9 1 2 50.0 4 6 66.7 2 4 6 3 1 0 5 4 -18
+p730
+aVDonta Smith ATL 11/27/2004 ATL @ CHA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p731
+aVJosh Childress ATL 11/27/2004 ATL @ CHA L 25 8 4 6 66.7 0 0 - 0 0 - 2 3 5 1 1 0 3 1 -3
+p732
+aVTony Delk ATL 11/27/2004 ATL @ CHA L 33 7 3 11 27.3 1 4 25.0 0 0 - 0 1 1 2 0 0 0 3 -16
+p733
+aVJon Barry ATL 11/27/2004 ATL @ CHA L 21 10 4 8 50.0 0 2 0.0 2 2 100.0 0 3 3 3 3 0 1 1 -12
+p734
+aVJosh Smith ATL 11/27/2004 ATL @ CHA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 8
+p735
+aVKenny Anderson ATL 11/26/2004 ATL vs. ORL L 20 9 4 5 80.0 0 0 - 1 1 100.0 1 2 3 4 1 0 0 6 -2
+p736
+aVDonta Smith ATL 11/26/2004 ATL vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p737
+aVJelani McCoy ATL 11/26/2004 ATL vs. ORL L 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 5 2
+p738
+aVAntoine Walker ATL 11/26/2004 ATL vs. ORL L 43 20 8 18 44.4 2 7 28.6 2 5 40.0 1 6 7 9 1 0 7 4 -19
+p739
+aVJosh Smith ATL 11/26/2004 ATL vs. ORL L 17 8 3 3 100.0 0 0 - 2 4 50.0 1 2 3 0 2 1 2 1 -7
+p740
+aVJosh Childress ATL 11/26/2004 ATL vs. ORL L 22 5 0 5 0.0 0 1 0.0 5 6 83.3 0 2 2 2 0 0 1 2 -4
+p741
+aVJon Barry ATL 11/26/2004 ATL vs. ORL L 18 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -11
+p742
+aVJason Collier ATL 11/26/2004 ATL vs. ORL L 33 13 6 12 50.0 0 0 - 1 2 50.0 4 3 7 1 3 0 2 3 -18
+p743
+aVAl Harrington ATL 11/26/2004 ATL vs. ORL L 42 15 7 14 50.0 0 1 0.0 1 5 20.0 2 3 5 4 1 0 3 3 -11
+p744
+aVTony Delk ATL 11/26/2004 ATL vs. ORL L 26 20 7 15 46.7 3 7 42.9 3 3 100.0 0 2 2 1 1 0 1 3 -13
+p745
+aVBoris Diaw ATL 11/26/2004 ATL vs. ORL L 4 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 -4
+p746
+aVAntoine Walker ATL 11/24/2004 ATL vs. MIA L 40 22 9 21 42.9 4 7 57.1 0 0 - 1 6 7 2 1 0 1 2 -3
+p747
+aVJason Collier ATL 11/24/2004 ATL vs. MIA L 33 20 8 14 57.1 0 1 0.0 4 5 80.0 3 3 6 0 0 0 0 5 -1
+p748
+aVJosh Childress ATL 11/24/2004 ATL vs. MIA L 22 6 1 7 14.3 0 1 0.0 4 4 100.0 3 1 4 2 0 0 1 2 8
+p749
+aVTony Delk ATL 11/24/2004 ATL vs. MIA L 28 13 3 12 25.0 1 2 50.0 6 6 100.0 3 4 7 3 1 0 1 3 -8
+p750
+aVJosh Smith ATL 11/24/2004 ATL vs. MIA L 17 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 1 1 3 0 1 1
+p751
+aVJon Barry ATL 11/24/2004 ATL vs. MIA L 17 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 2 2 -7
+p752
+aVKenny Anderson ATL 11/24/2004 ATL vs. MIA L 29 10 3 8 37.5 1 1 100.0 3 4 75.0 0 4 4 6 0 0 1 2 -5
+p753
+aVJelani McCoy ATL 11/24/2004 ATL vs. MIA L 15 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 1 1 2 2 -5
+p754
+aVAl Harrington ATL 11/24/2004 ATL vs. MIA L 39 8 3 11 27.3 0 1 0.0 2 5 40.0 2 7 9 6 1 0 4 4 -10
+p755
+aVTony Delk ATL 11/23/2004 ATL @ NYK L 25 7 3 9 33.3 1 5 20.0 0 0 - 1 3 4 2 0 0 1 3 -3
+p756
+aVAntoine Walker ATL 11/23/2004 ATL @ NYK L 42 20 9 23 39.1 0 3 0.0 2 4 50.0 0 8 8 4 0 1 4 2 -13
+p757
+aVJosh Childress ATL 11/23/2004 ATL @ NYK L 32 13 6 10 60.0 0 1 0.0 1 1 100.0 2 3 5 5 5 2 1 3 -7
+p758
+aVJon Barry ATL 11/23/2004 ATL @ NYK L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 3 -4
+p759
+aVRoyal Ivey ATL 11/23/2004 ATL @ NYK L 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 1
+p760
+aVJason Collier ATL 11/23/2004 ATL @ NYK L 18 7 3 7 42.9 0 0 - 1 2 50.0 2 1 3 0 0 0 1 1 -12
+p761
+aVJelani McCoy ATL 11/23/2004 ATL @ NYK L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 2 0 0 -1
+p762
+aVAl Harrington ATL 11/23/2004 ATL @ NYK L 39 19 8 16 50.0 0 2 0.0 3 6 50.0 1 7 8 3 2 0 0 3 -19
+p763
+aVBoris Diaw ATL 11/23/2004 ATL @ NYK L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p764
+aVKenny Anderson ATL 11/23/2004 ATL @ NYK L 22 4 2 5 40.0 0 0 - 0 0 - 0 4 4 3 2 0 3 1 -16
+p765
+aVJosh Smith ATL 11/23/2004 ATL @ NYK L 11 6 2 3 66.7 0 0 - 2 3 66.7 0 0 0 0 0 0 2 3 4
+p766
+aVPredrag Drobnjak ATL 11/23/2004 ATL @ NYK L 18 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 0 0 3 -7
+p767
+aVBoris Diaw ATL 11/20/2004 ATL vs. UTA L 15 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -11
+p768
+aVAl Harrington ATL 11/20/2004 ATL vs. UTA L 37 17 8 21 38.1 0 1 0.0 1 2 50.0 5 7 12 2 1 1 3 5 -20
+p769
+aVJon Barry ATL 11/20/2004 ATL vs. UTA L 21 7 3 4 75.0 1 2 50.0 0 0 - 1 2 3 2 1 0 1 3 7
+p770
+aVKenny Anderson ATL 11/20/2004 ATL vs. UTA L 18 8 3 6 50.0 0 0 - 2 3 66.7 1 0 1 1 0 0 1 0 -20
+p771
+aVJosh Childress ATL 11/20/2004 ATL vs. UTA L 27 16 6 13 46.2 2 4 50.0 2 2 100.0 4 1 5 1 4 1 1 5 4
+p772
+aVRoyal Ivey ATL 11/20/2004 ATL vs. UTA L 19 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 2 0 1 0 3 11
+p773
+aVPredrag Drobnjak ATL 11/20/2004 ATL vs. UTA L 20 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 1 2 2 6
+p774
+aVJason Collier ATL 11/20/2004 ATL vs. UTA L 18 7 3 7 42.9 0 0 - 1 4 25.0 2 1 3 0 0 0 1 2 -11
+p775
+aVTony Delk ATL 11/20/2004 ATL vs. UTA L 15 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 0 0 0 2 -12
+p776
+aVJelani McCoy ATL 11/20/2004 ATL vs. UTA L 8 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 2 4
+p777
+aVAntoine Walker ATL 11/20/2004 ATL vs. UTA L 42 15 5 16 31.3 1 5 20.0 4 9 44.4 0 8 8 4 1 1 1 2 -23
+p778
+aVKevin Willis ATL 11/17/2004 ATL @ IND L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 3 2 -12
+p779
+aVJason Collier ATL 11/17/2004 ATL @ IND L 15 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 1 1 1 2 -4
+p780
+aVPredrag Drobnjak ATL 11/17/2004 ATL @ IND L 25 2 1 6 16.7 0 0 - 0 0 - 1 1 2 2 2 1 1 5 8
+p781
+aVBoris Diaw ATL 11/17/2004 ATL @ IND L 16 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 1 -4
+p782
+aVJon Barry ATL 11/17/2004 ATL @ IND L 20 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 2 1 1 0 1 10
+p783
+aVKenny Anderson ATL 11/17/2004 ATL @ IND L 24 4 2 8 25.0 0 0 - 0 0 - 2 5 7 4 0 0 1 2 -8
+p784
+aVRoyal Ivey ATL 11/17/2004 ATL @ IND L 24 8 3 5 60.0 1 1 100.0 1 1 100.0 0 3 3 1 2 0 2 3 1
+p785
+aVAl Harrington ATL 11/17/2004 ATL @ IND L 41 30 12 19 63.2 0 1 0.0 6 10 60.0 2 4 6 2 3 0 1 5 -5
+p786
+aVJosh Childress ATL 11/17/2004 ATL @ IND L 26 10 2 4 50.0 1 2 50.0 5 6 83.3 1 2 3 2 2 0 1 3 -15
+p787
+aVAntoine Walker ATL 11/17/2004 ATL @ IND L 40 16 7 21 33.3 2 9 22.2 0 4 0.0 3 4 7 5 1 1 1 4 -6
+p788
+aVJelani McCoy ATL 11/16/2004 ATL vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p789
+aVJason Collier ATL 11/16/2004 ATL vs. HOU W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p790
+aVAl Harrington ATL 11/16/2004 ATL vs. HOU W 42 14 5 13 38.5 0 1 0.0 4 6 66.7 3 2 5 8 0 1 4 3 4
+p791
+aVAntoine Walker ATL 11/16/2004 ATL vs. HOU W 42 20 9 19 47.4 1 6 16.7 1 2 50.0 2 8 10 5 2 0 4 0 -2
+p792
+aVBoris Diaw ATL 11/16/2004 ATL vs. HOU W 13 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 2 1 0 0 1 -8
+p793
+aVRoyal Ivey ATL 11/16/2004 ATL vs. HOU W 26 10 3 7 42.9 0 1 0.0 4 6 66.7 0 4 4 2 1 0 0 2 16
+p794
+aVJosh Childress ATL 11/16/2004 ATL vs. HOU W 32 12 6 6 100.0 0 0 - 0 2 0.0 2 6 8 3 0 1 2 1 11
+p795
+aVPredrag Drobnjak ATL 11/16/2004 ATL vs. HOU W 31 15 6 14 42.9 1 2 50.0 2 2 100.0 0 5 5 0 2 0 2 3 21
+p796
+aVKevin Willis ATL 11/16/2004 ATL vs. HOU W 10 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 -6
+p797
+aVJon Barry ATL 11/16/2004 ATL vs. HOU W 11 4 1 3 33.3 0 0 - 2 4 50.0 0 1 1 1 2 0 0 0 1
+p798
+aVKenny Anderson ATL 11/16/2004 ATL vs. HOU W 22 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 1 0 1 2 -12
+p799
+aVRoyal Ivey ATL 11/13/2004 ATL vs. SAS L 22 9 4 7 57.1 0 0 - 1 1 100.0 0 1 1 3 2 0 0 2 1
+p800
+aVBoris Diaw ATL 11/13/2004 ATL vs. SAS L 21 3 0 2 0.0 0 0 - 3 4 75.0 0 2 2 1 0 0 2 1 -15
+p801
+aVAl Harrington ATL 11/13/2004 ATL vs. SAS L 32 10 3 8 37.5 0 0 - 4 6 66.7 1 11 12 2 1 0 1 4 -22
+p802
+aVKevin Willis ATL 11/13/2004 ATL vs. SAS L 16 7 2 4 50.0 0 0 - 3 3 100.0 1 2 3 0 0 0 0 1 -4
+p803
+aVJosh Smith ATL 11/13/2004 ATL vs. SAS L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p804
+aVJason Collier ATL 11/13/2004 ATL vs. SAS L 12 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 0 2 3 5
+p805
+aVJon Barry ATL 11/13/2004 ATL vs. SAS L 26 9 3 7 42.9 1 5 20.0 2 2 100.0 0 2 2 3 1 0 2 3 1
+p806
+aVJelani McCoy ATL 11/13/2004 ATL vs. SAS L 13 2 1 6 16.7 0 0 - 0 0 - 3 3 6 0 1 0 2 5 -2
+p807
+aVAntoine Walker ATL 11/13/2004 ATL vs. SAS L 34 23 9 21 42.9 4 5 80.0 1 4 25.0 3 7 10 1 2 0 2 2 -24
+p808
+aVKenny Anderson ATL 11/13/2004 ATL vs. SAS L 21 6 3 9 33.3 0 0 - 0 0 - 1 1 2 2 2 0 0 2 -19
+p809
+aVPredrag Drobnjak ATL 11/13/2004 ATL vs. SAS L 21 9 3 8 37.5 0 0 - 3 4 75.0 2 2 4 0 0 0 0 3 -5
+p810
+aVJosh Childress ATL 11/13/2004 ATL vs. SAS L 18 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 1 0 1 2 10
+p811
+aVJosh Smith ATL 11/12/2004 ATL @ NOH W 4 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -4
+p812
+aVBoris Diaw ATL 11/12/2004 ATL @ NOH W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -5
+p813
+aVKevin Willis ATL 11/12/2004 ATL @ NOH W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 1
+p814
+aVRoyal Ivey ATL 11/12/2004 ATL @ NOH W 8 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 1 0 0 1 1 -4
+p815
+aVJon Barry ATL 11/12/2004 ATL @ NOH W 36 12 4 7 57.1 3 4 75.0 1 1 100.0 0 1 1 3 1 0 1 3 6
+p816
+aVPredrag Drobnjak ATL 11/12/2004 ATL @ NOH W 23 11 5 6 83.3 1 1 100.0 0 1 0.0 1 1 2 1 0 0 1 4 -1
+p817
+aVKenny Anderson ATL 11/12/2004 ATL @ NOH W 40 17 7 12 58.3 1 3 33.3 2 2 100.0 2 4 6 5 5 0 3 2 5
+p818
+aVJason Collier ATL 11/12/2004 ATL @ NOH W 22 6 3 7 42.9 0 0 - 0 2 0.0 0 1 1 1 0 1 1 3 2
+p819
+aVAl Harrington ATL 11/12/2004 ATL @ NOH W 41 17 6 17 35.3 0 0 - 5 6 83.3 4 6 10 7 1 0 3 4 4
+p820
+aVAntoine Walker ATL 11/12/2004 ATL @ NOH W 46 27 12 21 57.1 1 4 25.0 2 4 50.0 0 8 8 7 3 0 2 3 1
+p821
+aVAl Harrington ATL 11/09/2004 ATL vs. CLE L 37 14 6 11 54.5 0 1 0.0 2 5 40.0 1 5 6 1 0 0 2 3 -10
+p822
+aVJon Barry ATL 11/09/2004 ATL vs. CLE L 24 4 2 5 40.0 0 0 - 0 0 - 2 2 4 3 2 0 1 3 -9
+p823
+aVJosh Smith ATL 11/09/2004 ATL vs. CLE L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 0 0
+p824
+aVJosh Childress ATL 11/09/2004 ATL vs. CLE L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 1 0 1 -5
+p825
+aVKevin Willis ATL 11/09/2004 ATL vs. CLE L 19 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 1 0 2 2 -7
+p826
+aVAntoine Walker ATL 11/09/2004 ATL vs. CLE L 42 22 8 20 40.0 1 7 14.3 5 9 55.6 3 6 9 6 0 0 6 3 -14
+p827
+aVRoyal Ivey ATL 11/09/2004 ATL vs. CLE L 16 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 4 -5
+p828
+aVKenny Anderson ATL 11/09/2004 ATL vs. CLE L 28 2 1 9 11.1 0 1 0.0 0 0 - 0 2 2 4 0 0 0 3 -1
+p829
+aVJason Collier ATL 11/09/2004 ATL vs. CLE L 12 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 1 0 0 0 2
+p830
+aVPredrag Drobnjak ATL 11/09/2004 ATL vs. CLE L 24 19 7 9 77.8 0 1 0.0 5 6 83.3 1 0 1 0 1 0 1 4 -9
+p831
+aVBoris Diaw ATL 11/09/2004 ATL vs. CLE L 26 3 1 2 50.0 0 1 0.0 1 1 100.0 0 4 4 2 2 0 3 4 -12
+p832
+aVJosh Childress ATL 11/07/2004 ATL @ LAL L 22 7 2 8 25.0 0 3 0.0 3 4 75.0 3 2 5 2 1 1 0 5 -12
+p833
+aVPredrag Drobnjak ATL 11/07/2004 ATL @ LAL L 24 13 6 8 75.0 1 1 100.0 0 0 - 1 1 2 0 1 0 0 1 -14
+p834
+aVBoris Diaw ATL 11/07/2004 ATL @ LAL L 34 7 3 6 50.0 1 3 33.3 0 0 - 1 1 2 6 0 0 2 3 -3
+p835
+aVAl Harrington ATL 11/07/2004 ATL @ LAL L 40 22 9 14 64.3 2 4 50.0 2 2 100.0 0 4 4 0 1 1 2 5 -4
+p836
+aVKenny Anderson ATL 11/07/2004 ATL @ LAL L 21 0 0 6 0.0 0 1 0.0 0 0 - 0 4 4 5 0 0 1 1 -6
+p837
+aVJon Barry ATL 11/07/2004 ATL @ LAL L 8 0 0 4 0.0 0 0 - 0 0 - 0 0 0 5 2 0 0 0 -9
+p838
+aVRoyal Ivey ATL 11/07/2004 ATL @ LAL L 19 10 5 6 83.3 0 0 - 0 2 0.0 0 1 1 4 1 0 1 2 -1
+p839
+aVKevin Willis ATL 11/07/2004 ATL @ LAL L 13 4 1 5 20.0 0 0 - 2 2 100.0 3 0 3 0 2 0 0 2 -5
+p840
+aVAntoine Walker ATL 11/07/2004 ATL @ LAL L 42 20 8 20 40.0 0 5 0.0 4 5 80.0 2 2 4 2 4 1 4 4 -17
+p841
+aVJosh Smith ATL 11/07/2004 ATL @ LAL L 17 7 3 9 33.3 0 1 0.0 1 2 50.0 2 4 6 0 0 1 1 1 -9
+p842
+aVAntoine Walker ATL 11/05/2004 ATL @ SEA L 43 24 9 21 42.9 2 5 40.0 4 6 66.7 3 5 8 4 2 1 6 4 -25
+p843
+aVAl Harrington ATL 11/05/2004 ATL @ SEA L 38 14 6 20 30.0 0 0 - 2 4 50.0 2 2 4 2 0 0 2 5 -18
+p844
+aVRoyal Ivey ATL 11/05/2004 ATL @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p845
+aVJosh Childress ATL 11/05/2004 ATL @ SEA L 8 3 0 0 - 0 0 - 3 4 75.0 0 1 1 1 0 0 1 2 -7
+p846
+aVJon Barry ATL 11/05/2004 ATL @ SEA L 17 9 3 6 50.0 1 3 33.3 2 2 100.0 1 1 2 2 0 0 0 2 -7
+p847
+aVKevin Willis ATL 11/05/2004 ATL @ SEA L 28 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 3 -5
+p848
+aVBoris Diaw ATL 11/05/2004 ATL @ SEA L 34 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 2 1 0 3 2 -17
+p849
+aVKenny Anderson ATL 11/05/2004 ATL @ SEA L 34 10 4 8 50.0 0 0 - 2 2 100.0 1 2 3 1 1 0 1 3 -13
+p850
+aVPredrag Drobnjak ATL 11/05/2004 ATL @ SEA L 20 11 4 7 57.1 1 1 100.0 2 2 100.0 2 2 4 1 1 0 3 0 -16
+p851
+aVAnthony Miller ATL 11/05/2004 ATL @ SEA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p852
+aVJosh Smith ATL 11/05/2004 ATL @ SEA L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 1 0 1 3 -2
+p853
+aVKevin Willis ATL 11/03/2004 ATL @ PHX L 12 8 4 7 57.1 0 0 - 0 0 - 5 2 7 0 0 0 2 3 -19
+p854
+aVJosh Smith ATL 11/03/2004 ATL @ PHX L 24 7 3 10 30.0 0 0 - 1 2 50.0 4 3 7 3 0 1 3 2 -9
+p855
+aVAl Harrington ATL 11/03/2004 ATL @ PHX L 39 13 4 16 25.0 1 3 33.3 4 4 100.0 3 3 6 2 1 0 3 4 -23
+p856
+aVJon Barry ATL 11/03/2004 ATL @ PHX L 14 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 0 0 1 3 1 -19
+p857
+aVJason Collier ATL 11/03/2004 ATL @ PHX L 5 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -2
+p858
+aVAntoine Walker ATL 11/03/2004 ATL @ PHX L 39 21 9 22 40.9 2 6 33.3 1 6 16.7 8 5 13 3 0 0 3 2 -25
+p859
+aVPredrag Drobnjak ATL 11/03/2004 ATL @ PHX L 20 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 2 1 2 1 -13
+p860
+aVAnthony Miller ATL 11/03/2004 ATL @ PHX L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -1
+p861
+aVRoyal Ivey ATL 11/03/2004 ATL @ PHX L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 2 3 4
+p862
+aVJosh Childress ATL 11/03/2004 ATL @ PHX L 18 10 3 6 50.0 0 0 - 4 5 80.0 2 2 4 0 1 1 1 1 -7
+p863
+aVKenny Anderson ATL 11/03/2004 ATL @ PHX L 30 7 3 10 30.0 1 1 100.0 0 0 - 1 4 5 2 2 0 4 3 -24
+p864
+aVBoris Diaw ATL 11/03/2004 ATL @ PHX L 24 3 1 5 20.0 0 1 0.0 1 4 25.0 1 1 2 2 0 0 0 3 -12
+p865
+a.

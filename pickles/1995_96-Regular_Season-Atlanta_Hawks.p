@@ -1,0 +1,1552 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVCraig Ehlo ATL 04/21/1996 ATL @ MIA W 22 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 2 2 1 1 1 -
+p2
+aVSean Rooks ATL 04/21/1996 ATL @ MIA W 18 8 4 6 66.7 0 0 - 0 0 - 1 4 5 2 2 3 3 3 -
+p3
+aVStacey Augmon ATL 04/21/1996 ATL @ MIA W 38 23 7 11 63.6 0 0 - 9 13 69.2 1 2 3 3 5 0 0 1 -
+p4
+aVMookie Blaylock ATL 04/21/1996 ATL @ MIA W 38 7 2 11 18.2 1 5 20.0 2 4 50.0 0 5 5 5 3 1 2 1 -
+p5
+aVAlan Henderson ATL 04/21/1996 ATL @ MIA W 16 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 1 2 2 2 -
+p6
+aVReggie Jordan ATL 04/21/1996 ATL @ MIA W 10 6 3 4 75.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -
+p7
+aVSteven Smith ATL 04/21/1996 ATL @ MIA W 37 22 5 12 41.7 2 3 66.7 10 11 90.9 2 1 3 4 1 0 6 3 -
+p8
+aVGrant Long ATL 04/21/1996 ATL @ MIA W 32 13 3 9 33.3 0 0 - 7 9 77.8 1 6 7 2 2 0 6 1 -
+p9
+aVChristian Laettner ATL 04/21/1996 ATL @ MIA W 29 10 4 13 30.8 0 0 - 2 2 100.0 6 8 14 4 3 4 1 3 -
+p10
+aVSean Rooks ATL 04/20/1996 ATL vs. NJN W 15 10 5 6 83.3 0 1 0.0 0 0 - 3 2 5 1 1 1 4 3 -
+p11
+aVChristian Laettner ATL 04/20/1996 ATL vs. NJN W 33 20 9 11 81.8 0 0 - 2 2 100.0 4 5 9 3 1 0 1 5 -
+p12
+aVAlan Henderson ATL 04/20/1996 ATL vs. NJN W 15 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -
+p13
+aVSteven Smith ATL 04/20/1996 ATL vs. NJN W 27 19 4 9 44.4 0 1 0.0 11 11 100.0 0 3 3 3 2 0 2 4 -
+p14
+aVMatt Bullard ATL 04/20/1996 ATL vs. NJN W 11 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 1 1 0 1 1 -
+p15
+aVReggie Jordan ATL 04/20/1996 ATL vs. NJN W 16 11 5 7 71.4 0 0 - 1 1 100.0 0 1 1 3 3 1 2 0 -
+p16
+aVDonnie Boyce ATL 04/20/1996 ATL vs. NJN W 7 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -
+p17
+aVKen Norman ATL 04/20/1996 ATL vs. NJN W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p18
+aVStacey Augmon ATL 04/20/1996 ATL vs. NJN W 34 10 5 9 55.6 0 0 - 0 0 - 1 2 3 2 2 3 2 1 -
+p19
+aVMookie Blaylock ATL 04/20/1996 ATL vs. NJN W 28 20 7 13 53.8 4 10 40.0 2 2 100.0 0 5 5 5 6 0 3 0 -
+p20
+aVGrant Long ATL 04/20/1996 ATL vs. NJN W 28 11 4 10 40.0 1 3 33.3 2 2 100.0 1 3 4 2 1 0 1 1 -
+p21
+aVCraig Ehlo ATL 04/20/1996 ATL vs. NJN W 21 3 1 6 16.7 0 3 0.0 1 2 50.0 1 3 4 2 1 0 1 2 -
+p22
+aVSteven Smith ATL 04/18/1996 ATL @ ORL L 42 18 8 14 57.1 0 3 0.0 2 4 50.0 3 1 4 3 2 2 2 2 -
+p23
+aVStacey Augmon ATL 04/18/1996 ATL @ ORL L 26 4 2 5 40.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -
+p24
+aVMookie Blaylock ATL 04/18/1996 ATL @ ORL L 34 7 3 13 23.1 1 5 20.0 0 0 - 0 2 2 4 0 0 4 4 -
+p25
+aVDonnie Boyce ATL 04/18/1996 ATL @ ORL L 4 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 0 0 0 0 0 -
+p26
+aVGrant Long ATL 04/18/1996 ATL @ ORL L 31 12 4 13 30.8 0 2 0.0 4 4 100.0 7 9 16 2 2 0 0 0 -
+p27
+aVAlan Henderson ATL 04/18/1996 ATL @ ORL L 20 16 6 10 60.0 0 0 - 4 8 50.0 1 4 5 2 0 0 1 2 -
+p28
+aVReggie Jordan ATL 04/18/1996 ATL @ ORL L 6 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 2 0 0 2 1 -
+p29
+aVSean Rooks ATL 04/18/1996 ATL @ ORL L 21 9 2 5 40.0 0 0 - 5 5 100.0 1 4 5 2 0 2 1 2 -
+p30
+aVCraig Ehlo ATL 04/18/1996 ATL @ ORL L 25 20 7 10 70.0 3 5 60.0 3 3 100.0 0 4 4 5 4 0 4 1 -
+p31
+aVMatt Bullard ATL 04/18/1996 ATL @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p32
+aVChristian Laettner ATL 04/18/1996 ATL @ ORL L 27 7 3 7 42.9 0 0 - 1 1 100.0 2 4 6 1 1 1 3 4 -
+p33
+aVGrant Long ATL 04/16/1996 ATL vs. CLE L 44 9 3 8 37.5 1 2 50.0 2 4 50.0 3 3 6 3 0 1 1 1 -
+p34
+aVCraig Ehlo ATL 04/16/1996 ATL vs. CLE L 26 8 2 6 33.3 2 4 50.0 2 2 100.0 1 3 4 1 0 0 2 3 -
+p35
+aVChristian Laettner ATL 04/16/1996 ATL vs. CLE L 29 19 8 14 57.1 0 0 - 3 3 100.0 3 3 6 0 0 3 2 3 -
+p36
+aVReggie Jordan ATL 04/16/1996 ATL vs. CLE L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p37
+aVAlan Henderson ATL 04/16/1996 ATL vs. CLE L 23 11 3 6 50.0 0 0 - 5 7 71.4 3 1 4 0 0 0 1 3 -
+p38
+aVSteven Smith ATL 04/16/1996 ATL vs. CLE L 44 22 9 20 45.0 4 9 44.4 0 0 - 1 4 5 1 2 1 2 4 -
+p39
+aVMookie Blaylock ATL 04/16/1996 ATL vs. CLE L 42 4 1 7 14.3 1 4 25.0 1 2 50.0 2 3 5 7 4 0 2 3 -
+p40
+aVStacey Augmon ATL 04/16/1996 ATL vs. CLE L 26 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 0 1 1 0 -
+p41
+aVAlan Henderson ATL 04/14/1996 ATL @ NJN W 17 2 1 5 20.0 0 0 - 0 2 0.0 1 0 1 0 0 1 0 6 -
+p42
+aVReggie Jordan ATL 04/14/1996 ATL @ NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p43
+aVChristian Laettner ATL 04/14/1996 ATL @ NJN W 33 16 5 10 50.0 0 0 - 6 9 66.7 2 9 11 4 2 1 5 6 -
+p44
+aVSteven Smith ATL 04/14/1996 ATL @ NJN W 38 11 2 9 22.2 2 7 28.6 5 5 100.0 2 2 4 2 0 0 2 3 -
+p45
+aVStacey Augmon ATL 04/14/1996 ATL @ NJN W 38 21 8 10 80.0 0 0 - 5 5 100.0 1 2 3 4 1 0 1 3 -
+p46
+aVMookie Blaylock ATL 04/14/1996 ATL @ NJN W 43 21 6 13 46.2 3 9 33.3 6 6 100.0 3 4 7 3 2 2 2 1 -
+p47
+aVGrant Long ATL 04/14/1996 ATL @ NJN W 43 23 7 14 50.0 3 5 60.0 6 7 85.7 1 13 14 1 1 1 1 3 -
+p48
+aVCraig Ehlo ATL 04/14/1996 ATL @ NJN W 23 5 1 2 50.0 0 1 0.0 3 5 60.0 0 3 3 3 1 0 3 3 -
+p49
+aVStacey Augmon ATL 04/12/1996 ATL vs. MIL W 44 17 6 13 46.2 0 0 - 5 5 100.0 2 4 6 4 4 1 2 4 -
+p50
+aVCraig Ehlo ATL 04/12/1996 ATL vs. MIL W 25 9 2 8 25.0 1 4 25.0 4 4 100.0 0 3 3 1 1 0 1 0 -
+p51
+aVGrant Long ATL 04/12/1996 ATL vs. MIL W 44 18 7 15 46.7 1 2 50.0 3 4 75.0 2 10 12 3 1 0 2 3 -
+p52
+aVChristian Laettner ATL 04/12/1996 ATL vs. MIL W 29 16 3 6 50.0 0 0 - 10 10 100.0 5 7 12 2 0 2 2 4 -
+p53
+aVMookie Blaylock ATL 04/12/1996 ATL vs. MIL W 42 25 9 16 56.3 2 5 40.0 5 7 71.4 3 4 7 6 1 1 1 1 -
+p54
+aVSteven Smith ATL 04/12/1996 ATL vs. MIL W 27 4 1 10 10.0 0 4 0.0 2 2 100.0 1 1 2 2 0 0 3 2 -
+p55
+aVReggie Jordan ATL 04/12/1996 ATL vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p56
+aVAlan Henderson ATL 04/12/1996 ATL vs. MIL W 23 15 7 8 87.5 0 0 - 1 2 50.0 2 1 3 1 1 0 2 1 -
+p57
+aVSteven Smith ATL 04/08/1996 ATL @ IND L 43 22 8 17 47.1 4 9 44.4 2 3 66.7 0 2 2 8 1 0 1 3 -
+p58
+aVChristian Laettner ATL 04/08/1996 ATL @ IND L 24 9 3 4 75.0 0 0 - 3 4 75.0 1 2 3 1 0 1 3 6 -
+p59
+aVStacey Augmon ATL 04/08/1996 ATL @ IND L 33 8 4 11 36.4 0 0 - 0 0 - 0 0 0 2 2 0 2 1 -
+p60
+aVAlan Henderson ATL 04/08/1996 ATL @ IND L 22 12 5 11 45.5 0 0 - 2 4 50.0 7 3 10 1 1 0 0 4 -
+p61
+aVGrant Long ATL 04/08/1996 ATL @ IND L 38 12 5 11 45.5 0 0 - 2 2 100.0 1 11 12 0 1 1 1 4 -
+p62
+aVMookie Blaylock ATL 04/08/1996 ATL @ IND L 44 27 9 16 56.3 5 12 41.7 4 4 100.0 0 2 2 6 1 0 2 1 -
+p63
+aVSean Rooks ATL 04/08/1996 ATL @ IND L 13 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 1 0 2 1 1 -
+p64
+aVCraig Ehlo ATL 04/08/1996 ATL @ IND L 19 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 2 3 -
+p65
+aVReggie Jordan ATL 04/08/1996 ATL @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 1 0 0 -
+p66
+aVCraig Ehlo ATL 04/06/1996 ATL vs. PHL L 42 15 5 11 45.5 1 4 25.0 4 4 100.0 1 3 4 4 1 1 1 0 -
+p67
+aVMookie Blaylock ATL 04/06/1996 ATL vs. PHL L 42 19 6 15 40.0 4 8 50.0 3 4 75.0 2 4 6 10 2 0 1 3 -
+p68
+aVAlan Henderson ATL 04/06/1996 ATL vs. PHL L 15 9 4 4 100.0 0 0 - 1 2 50.0 1 3 4 1 0 1 2 6 -
+p69
+aVGrant Long ATL 04/06/1996 ATL vs. PHL L 31 15 7 11 63.6 0 1 0.0 1 2 50.0 2 3 5 0 2 0 1 5 -
+p70
+aVReggie Jordan ATL 04/06/1996 ATL vs. PHL L 6 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 3 0 0 0 2 -
+p71
+aVMatt Bullard ATL 04/06/1996 ATL vs. PHL L 21 5 2 10 20.0 1 6 16.7 0 0 - 1 1 2 1 1 1 0 1 -
+p72
+aVChristian Laettner ATL 04/06/1996 ATL vs. PHL L 42 13 5 8 62.5 0 0 - 3 3 100.0 3 8 11 2 3 0 6 5 -
+p73
+aVStacey Augmon ATL 04/06/1996 ATL vs. PHL L 41 21 5 10 50.0 0 0 - 11 12 91.7 1 1 2 2 1 1 4 2 -
+p74
+aVSean Rooks ATL 04/05/1996 ATL @ NJN W 8 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -
+p75
+aVSteven Smith ATL 04/05/1996 ATL @ NJN W 32 23 6 12 50.0 3 6 50.0 8 10 80.0 2 2 4 1 1 0 0 2 -
+p76
+aVAlan Henderson ATL 04/05/1996 ATL @ NJN W 15 7 3 7 42.9 0 0 - 1 4 25.0 2 1 3 1 0 2 2 0 -
+p77
+aVMookie Blaylock ATL 04/05/1996 ATL @ NJN W 34 13 4 10 40.0 3 8 37.5 2 2 100.0 4 6 10 4 3 0 1 3 -
+p78
+aVGrant Long ATL 04/05/1996 ATL @ NJN W 33 10 4 11 36.4 0 2 0.0 2 2 100.0 3 11 14 3 0 0 2 3 -
+p79
+aVMatt Bullard ATL 04/05/1996 ATL @ NJN W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 -
+p80
+aVCraig Ehlo ATL 04/05/1996 ATL @ NJN W 19 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 1 -
+p81
+aVKen Norman ATL 04/05/1996 ATL @ NJN W 7 0 0 2 0.0 0 1 0.0 0 2 0.0 0 2 2 0 0 0 1 0 -
+p82
+aVReggie Jordan ATL 04/05/1996 ATL @ NJN W 17 0 0 5 0.0 0 0 - 0 0 - 3 4 7 0 0 1 2 2 -
+p83
+aVStacey Augmon ATL 04/05/1996 ATL @ NJN W 31 13 2 8 25.0 0 0 - 9 10 90.0 1 1 2 1 1 0 2 0 -
+p84
+aVDonnie Boyce ATL 04/05/1996 ATL @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p85
+aVChristian Laettner ATL 04/05/1996 ATL @ NJN W 39 10 3 13 23.1 0 0 - 4 4 100.0 1 4 5 5 1 4 4 3 -
+p86
+aVChristian Laettner ATL 04/04/1996 ATL vs. WAS L 45 28 10 16 62.5 0 0 - 8 10 80.0 4 3 7 1 1 0 1 4 -
+p87
+aVStacey Augmon ATL 04/04/1996 ATL vs. WAS L 28 8 3 12 25.0 0 1 0.0 2 2 100.0 3 2 5 3 1 0 2 1 -
+p88
+aVReggie Jordan ATL 04/04/1996 ATL vs. WAS L 6 6 2 3 66.7 0 0 - 2 5 40.0 1 1 2 0 1 0 2 2 -
+p89
+aVCraig Ehlo ATL 04/04/1996 ATL vs. WAS L 25 14 5 13 38.5 1 8 12.5 3 4 75.0 0 4 4 1 0 0 0 3 -
+p90
+aVGrant Long ATL 04/04/1996 ATL vs. WAS L 36 18 8 17 47.1 2 3 66.7 0 0 - 1 8 9 4 2 0 2 0 -
+p91
+aVSteven Smith ATL 04/04/1996 ATL vs. WAS L 43 12 4 9 44.4 1 3 33.3 3 3 100.0 1 4 5 8 2 0 2 5 -
+p92
+aVAlan Henderson ATL 04/04/1996 ATL vs. WAS L 15 9 1 3 33.3 0 0 - 7 8 87.5 0 1 1 3 1 2 1 1 -
+p93
+aVMookie Blaylock ATL 04/04/1996 ATL vs. WAS L 42 15 6 10 60.0 3 4 75.0 0 0 - 4 1 5 7 5 0 4 1 -
+p94
+aVChristian Laettner ATL 04/02/1996 ATL vs. BOS W 35 19 9 12 75.0 0 0 - 1 1 100.0 3 9 12 1 3 0 2 3 -
+p95
+aVGrant Long ATL 04/02/1996 ATL vs. BOS W 25 14 4 5 80.0 0 0 - 6 6 100.0 2 6 8 1 2 0 1 1 -
+p96
+aVKen Norman ATL 04/02/1996 ATL vs. BOS W 7 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 1 0 1 1 1 -
+p97
+aVCraig Ehlo ATL 04/02/1996 ATL vs. BOS W 16 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 0 1 1 1 2 -
+p98
+aVAlan Henderson ATL 04/02/1996 ATL vs. BOS W 15 11 5 9 55.6 0 0 - 1 2 50.0 2 0 2 0 0 1 1 2 -
+p99
+aVReggie Jordan ATL 04/02/1996 ATL vs. BOS W 14 4 0 1 0.0 0 0 - 4 4 100.0 0 6 6 1 0 1 2 1 -
+p100
+aVMatt Bullard ATL 04/02/1996 ATL vs. BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p101
+aVMookie Blaylock ATL 04/02/1996 ATL vs. BOS W 39 17 6 14 42.9 5 12 41.7 0 0 - 0 2 2 6 2 0 3 1 -
+p102
+aVSteven Smith ATL 04/02/1996 ATL vs. BOS W 40 22 8 16 50.0 0 2 0.0 6 7 85.7 1 3 4 2 0 0 4 1 -
+p103
+aVDonnie Boyce ATL 04/02/1996 ATL vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p104
+aVStacey Augmon ATL 04/02/1996 ATL vs. BOS W 38 10 4 11 36.4 0 0 - 2 2 100.0 2 2 4 3 2 2 0 1 -
+p105
+aVSean Rooks ATL 04/02/1996 ATL vs. BOS W 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p106
+aVStacey Augmon ATL 03/31/1996 ATL @ BOS W 38 8 3 8 37.5 0 0 - 2 4 50.0 1 4 5 2 2 2 3 2 -
+p107
+aVReggie Jordan ATL 03/31/1996 ATL @ BOS W 5 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -
+p108
+aVGrant Long ATL 03/31/1996 ATL @ BOS W 38 10 5 10 50.0 0 0 - 0 1 0.0 2 7 9 1 0 1 3 2 -
+p109
+aVSteven Smith ATL 03/31/1996 ATL @ BOS W 38 17 7 18 38.9 1 3 33.3 2 2 100.0 1 2 3 1 1 0 1 1 -
+p110
+aVChristian Laettner ATL 03/31/1996 ATL @ BOS W 30 10 5 11 45.5 0 0 - 0 0 - 3 8 11 3 2 0 2 4 -
+p111
+aVCraig Ehlo ATL 03/31/1996 ATL @ BOS W 25 15 6 10 60.0 2 3 66.7 1 2 50.0 1 3 4 4 0 0 1 3 -
+p112
+aVMookie Blaylock ATL 03/31/1996 ATL @ BOS W 43 16 6 17 35.3 2 8 25.0 2 2 100.0 1 2 3 10 3 0 2 0 -
+p113
+aVAlan Henderson ATL 03/31/1996 ATL @ BOS W 23 13 4 6 66.7 0 0 - 5 9 55.6 5 2 7 0 0 1 1 5 -
+p114
+aVSteven Smith ATL 03/29/1996 ATL vs. LAL L 41 20 8 17 47.1 2 8 25.0 2 3 66.7 1 1 2 4 0 0 1 1 -
+p115
+aVMookie Blaylock ATL 03/29/1996 ATL vs. LAL L 43 19 7 17 41.2 5 11 45.5 0 0 - 2 1 3 3 2 0 2 2 -
+p116
+aVChristian Laettner ATL 03/29/1996 ATL vs. LAL L 38 22 9 19 47.4 0 0 - 4 4 100.0 3 7 10 2 1 3 0 4 -
+p117
+aVAlan Henderson ATL 03/29/1996 ATL vs. LAL L 16 8 4 9 44.4 0 0 - 0 0 - 3 1 4 1 0 0 0 1 -
+p118
+aVStacey Augmon ATL 03/29/1996 ATL vs. LAL L 35 4 2 7 28.6 0 0 - 0 1 0.0 2 1 3 1 0 1 2 2 -
+p119
+aVReggie Jordan ATL 03/29/1996 ATL vs. LAL L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p120
+aVGrant Long ATL 03/29/1996 ATL vs. LAL L 41 12 5 14 35.7 0 0 - 2 2 100.0 3 9 12 3 0 0 0 4 -
+p121
+aVCraig Ehlo ATL 03/29/1996 ATL vs. LAL L 21 2 1 8 12.5 0 3 0.0 0 0 - 1 4 5 0 1 1 3 2 -
+p122
+aVStacey Augmon ATL 03/28/1996 ATL @ CHI L 31 12 5 10 50.0 0 0 - 2 2 100.0 1 4 5 1 0 0 1 4 -
+p123
+aVGrant Long ATL 03/28/1996 ATL @ CHI L 32 9 3 6 50.0 0 1 0.0 3 6 50.0 3 7 10 1 1 1 3 1 -
+p124
+aVDonnie Boyce ATL 03/28/1996 ATL @ CHI L 9 8 3 5 60.0 1 2 50.0 1 2 50.0 1 1 2 1 1 1 1 0 -
+p125
+aVCraig Ehlo ATL 03/28/1996 ATL @ CHI L 24 8 3 9 33.3 0 3 0.0 2 2 100.0 1 1 2 1 1 0 3 0 -
+p126
+aVChristian Laettner ATL 03/28/1996 ATL @ CHI L 32 10 2 12 16.7 0 1 0.0 6 6 100.0 2 2 4 1 0 0 1 2 -
+p127
+aVSteven Smith ATL 03/28/1996 ATL @ CHI L 34 18 5 14 35.7 0 4 0.0 8 8 100.0 2 3 5 2 1 1 1 1 -
+p128
+aVReggie Jordan ATL 03/28/1996 ATL @ CHI L 27 1 0 5 0.0 0 0 - 1 4 25.0 2 1 3 2 0 0 3 1 -
+p129
+aVMatt Bullard ATL 03/28/1996 ATL @ CHI L 14 5 1 4 25.0 1 3 33.3 2 2 100.0 1 0 1 0 0 0 1 2 -
+p130
+aVSean Rooks ATL 03/28/1996 ATL @ CHI L 13 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 0 0 0 4 3 -
+p131
+aVAlan Henderson ATL 03/28/1996 ATL @ CHI L 24 6 1 7 14.3 0 0 - 4 5 80.0 2 4 6 0 2 0 2 4 -
+p132
+aVGrant Long ATL 03/26/1996 ATL @ TOR W 40 8 1 7 14.3 0 0 - 6 6 100.0 2 3 5 3 2 1 3 2 -
+p133
+aVCraig Ehlo ATL 03/26/1996 ATL @ TOR W 16 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 0 -
+p134
+aVReggie Jordan ATL 03/26/1996 ATL @ TOR W 11 6 2 2 100.0 0 0 - 2 4 50.0 1 1 2 2 0 0 1 1 -
+p135
+aVMookie Blaylock ATL 03/26/1996 ATL @ TOR W 36 26 10 20 50.0 4 7 57.1 2 2 100.0 2 3 5 6 2 0 3 1 -
+p136
+aVAlan Henderson ATL 03/26/1996 ATL @ TOR W 21 9 4 6 66.7 0 0 - 1 1 100.0 2 1 3 0 0 4 0 0 -
+p137
+aVSteven Smith ATL 03/26/1996 ATL @ TOR W 39 23 8 18 44.4 4 10 40.0 3 4 75.0 2 2 4 4 2 0 0 2 -
+p138
+aVStacey Augmon ATL 03/26/1996 ATL @ TOR W 42 17 7 14 50.0 0 0 - 3 4 75.0 4 2 6 1 2 0 2 3 -
+p139
+aVChristian Laettner ATL 03/26/1996 ATL @ TOR W 35 22 8 9 88.9 0 0 - 6 9 66.7 5 7 12 3 1 0 4 5 -
+p140
+aVGrant Long ATL 03/23/1996 ATL vs. DET W 38 17 8 20 40.0 0 0 - 1 2 50.0 4 5 9 3 0 0 0 3 -
+p141
+aVReggie Jordan ATL 03/23/1996 ATL vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p142
+aVMookie Blaylock ATL 03/23/1996 ATL vs. DET W 45 10 4 10 40.0 0 4 0.0 2 2 100.0 0 4 4 7 3 0 2 3 -
+p143
+aVChristian Laettner ATL 03/23/1996 ATL vs. DET W 35 13 4 7 57.1 0 0 - 5 7 71.4 1 4 5 1 1 0 3 6 -
+p144
+aVAlan Henderson ATL 03/23/1996 ATL vs. DET W 22 4 1 3 33.3 0 0 - 2 4 50.0 2 4 6 1 0 3 2 6 -
+p145
+aVCraig Ehlo ATL 03/23/1996 ATL vs. DET W 22 6 3 9 33.3 0 3 0.0 0 0 - 0 3 3 1 0 1 3 4 -
+p146
+aVStacey Augmon ATL 03/23/1996 ATL vs. DET W 38 15 6 11 54.5 0 0 - 3 3 100.0 2 5 7 2 1 0 0 4 -
+p147
+aVSteven Smith ATL 03/23/1996 ATL vs. DET W 36 27 8 13 61.5 5 8 62.5 6 7 85.7 1 2 3 0 1 0 2 4 -
+p148
+aVReggie Jordan ATL 03/22/1996 ATL @ CHH W 14 10 3 5 60.0 0 0 - 4 5 80.0 1 1 2 1 1 1 2 1 -
+p149
+aVAlan Henderson ATL 03/22/1996 ATL @ CHH W 13 2 1 6 16.7 0 1 0.0 0 0 - 3 4 7 4 1 0 0 0 -
+p150
+aVMatt Bullard ATL 03/22/1996 ATL @ CHH W 4 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p151
+aVCraig Ehlo ATL 03/22/1996 ATL @ CHH W 21 10 4 6 66.7 2 3 66.7 0 0 - 1 2 3 2 1 0 1 2 -
+p152
+aVStacey Augmon ATL 03/22/1996 ATL @ CHH W 38 15 6 11 54.5 0 0 - 3 4 75.0 1 3 4 4 0 1 1 2 -
+p153
+aVGrant Long ATL 03/22/1996 ATL @ CHH W 35 16 6 10 60.0 0 1 0.0 4 4 100.0 0 7 7 2 1 1 1 2 -
+p154
+aVSteven Smith ATL 03/22/1996 ATL @ CHH W 35 27 9 17 52.9 5 8 62.5 4 5 80.0 2 2 4 0 2 0 0 2 -
+p155
+aVChristian Laettner ATL 03/22/1996 ATL @ CHH W 35 14 6 15 40.0 0 1 0.0 2 4 50.0 5 6 11 4 1 1 0 2 -
+p156
+aVDonnie Boyce ATL 03/22/1996 ATL @ CHH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -
+p157
+aVSean Rooks ATL 03/22/1996 ATL @ CHH W 8 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 3 3 -
+p158
+aVMookie Blaylock ATL 03/22/1996 ATL @ CHH W 34 16 4 9 44.4 2 4 50.0 6 6 100.0 3 2 5 11 2 0 1 0 -
+p159
+aVReggie Jordan ATL 03/20/1996 ATL vs. VAN W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 -
+p160
+aVMatt Bullard ATL 03/20/1996 ATL vs. VAN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -
+p161
+aVStacey Augmon ATL 03/20/1996 ATL vs. VAN W 33 9 4 8 50.0 0 0 - 1 2 50.0 3 3 6 3 3 1 3 0 -
+p162
+aVAlan Henderson ATL 03/20/1996 ATL vs. VAN W 22 16 5 10 50.0 0 0 - 6 7 85.7 4 4 8 1 0 1 2 3 -
+p163
+aVSean Rooks ATL 03/20/1996 ATL vs. VAN W 12 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 1 0 1 3 1 -
+p164
+aVGrant Long ATL 03/20/1996 ATL vs. VAN W 39 12 6 13 46.2 0 0 - 0 0 - 5 10 15 1 0 0 4 0 -
+p165
+aVMookie Blaylock ATL 03/20/1996 ATL vs. VAN W 42 12 5 14 35.7 1 10 10.0 1 2 50.0 0 3 3 8 2 0 5 1 -
+p166
+aVCraig Ehlo ATL 03/20/1996 ATL vs. VAN W 23 6 2 2 100.0 1 1 100.0 1 1 100.0 1 2 3 1 1 0 1 2 -
+p167
+aVSteven Smith ATL 03/20/1996 ATL vs. VAN W 38 26 8 16 50.0 6 9 66.7 4 4 100.0 2 2 4 2 0 0 2 2 -
+p168
+aVChristian Laettner ATL 03/20/1996 ATL vs. VAN W 22 11 5 9 55.6 0 0 - 1 2 50.0 2 4 6 2 0 0 3 4 -
+p169
+aVStacey Augmon ATL 03/16/1996 ATL @ SAN L 30 14 6 14 42.9 0 0 - 2 2 100.0 0 1 1 1 3 1 1 4 -
+p170
+aVSean Rooks ATL 03/16/1996 ATL @ SAN L 23 12 3 4 75.0 0 0 - 6 11 54.5 2 7 9 0 0 1 6 1 -
+p171
+aVSteven Smith ATL 03/16/1996 ATL @ SAN L 32 9 3 11 27.3 1 4 25.0 2 3 66.7 1 2 3 4 0 0 1 4 -
+p172
+aVGrant Long ATL 03/16/1996 ATL @ SAN L 28 14 7 12 58.3 0 0 - 0 1 0.0 1 3 4 1 1 0 1 2 -
+p173
+aVAlan Henderson ATL 03/16/1996 ATL @ SAN L 20 1 0 7 0.0 0 0 - 1 2 50.0 1 1 2 1 1 1 1 1 -
+p174
+aVChristian Laettner ATL 03/16/1996 ATL @ SAN L 25 12 6 12 50.0 0 1 0.0 0 0 - 2 4 6 0 0 0 3 5 -
+p175
+aVCraig Ehlo ATL 03/16/1996 ATL @ SAN L 16 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 0 1 0 0 2 -
+p176
+aVMatt Bullard ATL 03/16/1996 ATL @ SAN L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p177
+aVMookie Blaylock ATL 03/16/1996 ATL @ SAN L 27 8 4 11 36.4 0 3 0.0 0 0 - 2 1 3 7 1 0 1 1 -
+p178
+aVDonnie Boyce ATL 03/16/1996 ATL @ SAN L 7 6 2 2 100.0 1 1 100.0 1 2 50.0 1 1 2 0 0 0 2 2 -
+p179
+aVReggie Jordan ATL 03/16/1996 ATL @ SAN L 21 11 4 8 50.0 0 0 - 3 5 60.0 2 3 5 2 4 1 0 3 -
+p180
+aVCraig Ehlo ATL 03/14/1996 ATL @ HOU L 19 11 3 5 60.0 1 2 50.0 4 4 100.0 1 2 3 3 1 0 1 1 -
+p181
+aVMookie Blaylock ATL 03/14/1996 ATL @ HOU L 38 17 7 14 50.0 3 5 60.0 0 0 - 0 4 4 6 1 0 1 0 -
+p182
+aVAlan Henderson ATL 03/14/1996 ATL @ HOU L 18 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 1 1 0 2 1 -
+p183
+aVStacey Augmon ATL 03/14/1996 ATL @ HOU L 34 15 7 13 53.8 0 0 - 1 1 100.0 1 1 2 3 1 0 2 1 -
+p184
+aVMatt Bullard ATL 03/14/1996 ATL @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p185
+aVGrant Long ATL 03/14/1996 ATL @ HOU L 30 7 3 6 50.0 0 2 0.0 1 2 50.0 5 5 10 2 1 1 2 3 -
+p186
+aVReggie Jordan ATL 03/14/1996 ATL @ HOU L 10 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -
+p187
+aVChristian Laettner ATL 03/14/1996 ATL @ HOU L 36 16 6 12 50.0 0 0 - 4 6 66.7 1 6 7 4 3 1 1 4 -
+p188
+aVSean Rooks ATL 03/14/1996 ATL @ HOU L 12 7 2 5 40.0 0 0 - 3 4 75.0 3 0 3 0 0 0 0 1 -
+p189
+aVSteven Smith ATL 03/14/1996 ATL @ HOU L 40 29 11 19 57.9 4 7 57.1 3 3 100.0 0 2 2 4 0 0 3 1 -
+p190
+aVMookie Blaylock ATL 03/12/1996 ATL vs. UTH W 26 23 8 12 66.7 5 9 55.6 2 2 100.0 1 5 6 5 1 2 2 1 -
+p191
+aVSean Rooks ATL 03/12/1996 ATL vs. UTH W 14 4 0 0 - 0 0 - 4 6 66.7 1 1 2 0 0 1 0 4 -
+p192
+aVMatt Bullard ATL 03/12/1996 ATL vs. UTH W 25 17 7 12 58.3 2 4 50.0 1 1 100.0 0 3 3 1 2 1 1 2 -
+p193
+aVDonnie Boyce ATL 03/12/1996 ATL vs. UTH W 5 2 1 6 16.7 0 3 0.0 0 0 - 1 0 1 1 1 0 1 0 -
+p194
+aVAlan Henderson ATL 03/12/1996 ATL vs. UTH W 29 13 6 11 54.5 0 1 0.0 1 3 33.3 2 7 9 2 1 1 2 3 -
+p195
+aVGrant Long ATL 03/12/1996 ATL vs. UTH W 18 0 0 4 0.0 0 2 0.0 0 0 - 2 3 5 2 0 0 0 4 -
+p196
+aVReggie Jordan ATL 03/12/1996 ATL vs. UTH W 22 14 7 10 70.0 0 0 - 0 0 - 3 2 5 2 3 1 1 4 -
+p197
+aVChristian Laettner ATL 03/12/1996 ATL vs. UTH W 35 8 3 8 37.5 0 1 0.0 2 2 100.0 2 5 7 4 2 2 6 4 -
+p198
+aVStacey Augmon ATL 03/12/1996 ATL vs. UTH W 30 14 6 10 60.0 0 0 - 2 3 66.7 1 4 5 2 2 0 3 1 -
+p199
+aVSteven Smith ATL 03/12/1996 ATL vs. UTH W 36 20 6 11 54.5 3 4 75.0 5 5 100.0 1 1 2 4 0 0 1 1 -
+p200
+aVAlan Henderson ATL 03/10/1996 ATL @ WAS L 13 6 2 6 33.3 0 0 - 2 4 50.0 1 5 6 0 0 0 1 2 -
+p201
+aVSteven Smith ATL 03/10/1996 ATL @ WAS L 40 19 5 11 45.5 1 7 14.3 8 9 88.9 2 2 4 4 0 0 3 4 -
+p202
+aVGrant Long ATL 03/10/1996 ATL @ WAS L 35 6 3 11 27.3 0 1 0.0 0 0 - 2 7 9 2 1 0 2 1 -
+p203
+aVCraig Ehlo ATL 03/10/1996 ATL @ WAS L 32 11 4 10 40.0 2 5 40.0 1 2 50.0 3 3 6 3 3 0 2 0 -
+p204
+aVReggie Jordan ATL 03/10/1996 ATL @ WAS L 16 6 3 5 60.0 0 0 - 0 0 - 3 3 6 1 0 0 0 3 -
+p205
+aVMookie Blaylock ATL 03/10/1996 ATL @ WAS L 32 14 5 16 31.3 2 11 18.2 2 4 50.0 3 0 3 2 2 0 1 4 -
+p206
+aVChristian Laettner ATL 03/10/1996 ATL @ WAS L 30 13 5 12 41.7 0 1 0.0 3 4 75.0 0 3 3 2 1 1 2 5 -
+p207
+aVMatt Bullard ATL 03/10/1996 ATL @ WAS L 24 9 4 9 44.4 1 4 25.0 0 0 - 1 0 1 0 0 1 2 2 -
+p208
+aVSean Rooks ATL 03/10/1996 ATL @ WAS L 18 7 2 3 66.7 0 0 - 3 3 100.0 2 2 4 1 0 0 3 3 -
+p209
+aVMatt Bullard ATL 03/08/1996 ATL vs. MIL W 27 14 5 12 41.7 2 5 40.0 2 2 100.0 1 1 2 0 2 0 0 1 -
+p210
+aVAlan Henderson ATL 03/08/1996 ATL vs. MIL W 15 6 3 6 50.0 0 0 - 0 0 - 4 3 7 2 2 0 1 5 -
+p211
+aVSean Rooks ATL 03/08/1996 ATL vs. MIL W 13 5 1 2 50.0 0 0 - 3 6 50.0 3 1 4 0 1 0 1 1 -
+p212
+aVChristian Laettner ATL 03/08/1996 ATL vs. MIL W 35 17 7 15 46.7 0 1 0.0 3 3 100.0 7 6 13 4 2 0 1 3 -
+p213
+aVGrant Long ATL 03/08/1996 ATL vs. MIL W 33 12 6 14 42.9 0 0 - 0 2 0.0 7 6 13 0 0 0 0 2 -
+p214
+aVReggie Jordan ATL 03/08/1996 ATL vs. MIL W 5 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -
+p215
+aVSteven Smith ATL 03/08/1996 ATL vs. MIL W 34 4 2 12 16.7 0 3 0.0 0 0 - 1 1 2 4 1 1 2 1 -
+p216
+aVCraig Ehlo ATL 03/08/1996 ATL vs. MIL W 35 19 8 16 50.0 2 6 33.3 1 2 50.0 0 1 1 0 2 0 1 1 -
+p217
+aVMookie Blaylock ATL 03/08/1996 ATL vs. MIL W 43 14 5 15 33.3 3 10 30.0 1 2 50.0 3 2 5 7 4 0 2 0 -
+p218
+aVChristian Laettner ATL 03/07/1996 ATL @ CLE W 43 22 8 15 53.3 0 1 0.0 6 6 100.0 2 4 6 2 0 3 3 4 -
+p219
+aVReggie Jordan ATL 03/07/1996 ATL @ CLE W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p220
+aVMatt Bullard ATL 03/07/1996 ATL @ CLE W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 1 -
+p221
+aVCraig Ehlo ATL 03/07/1996 ATL @ CLE W 42 9 4 8 50.0 1 5 20.0 0 0 - 0 4 4 3 0 0 3 2 -
+p222
+aVGrant Long ATL 03/07/1996 ATL @ CLE W 45 20 8 12 66.7 0 1 0.0 4 4 100.0 7 5 12 5 2 0 0 2 -
+p223
+aVMookie Blaylock ATL 03/07/1996 ATL @ CLE W 43 12 5 12 41.7 2 6 33.3 0 0 - 2 2 4 5 5 0 2 4 -
+p224
+aVAlan Henderson ATL 03/07/1996 ATL @ CLE W 8 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 1 -
+p225
+aVSteven Smith ATL 03/07/1996 ATL @ CLE W 41 16 7 18 38.9 2 6 33.3 0 0 - 0 3 3 1 3 0 4 3 -
+p226
+aVChristian Laettner ATL 03/04/1996 ATL @ DET L 27 4 2 10 20.0 0 1 0.0 0 2 0.0 3 3 6 3 1 0 1 2 -
+p227
+aVSean Rooks ATL 03/04/1996 ATL @ DET L 20 8 4 7 57.1 0 0 - 0 1 0.0 0 2 2 1 0 2 1 4 -
+p228
+aVGrant Long ATL 03/04/1996 ATL @ DET L 31 16 6 10 60.0 0 1 0.0 4 4 100.0 1 2 3 1 0 0 1 1 -
+p229
+aVSteven Smith ATL 03/04/1996 ATL @ DET L 46 25 10 22 45.5 2 6 33.3 3 4 75.0 2 2 4 3 0 0 1 3 -
+p230
+aVMookie Blaylock ATL 03/04/1996 ATL @ DET L 45 14 6 17 35.3 2 11 18.2 0 0 - 1 4 5 7 6 0 2 5 -
+p231
+aVAlan Henderson ATL 03/04/1996 ATL @ DET L 18 6 2 5 40.0 0 0 - 2 2 100.0 2 6 8 0 1 1 0 2 -
+p232
+aVMatt Bullard ATL 03/04/1996 ATL @ DET L 24 12 4 6 66.7 2 2 100.0 2 2 100.0 3 4 7 3 0 0 0 2 -
+p233
+aVCraig Ehlo ATL 03/04/1996 ATL @ DET L 29 8 3 8 37.5 0 2 0.0 2 2 100.0 1 2 3 3 0 0 2 3 -
+p234
+aVMookie Blaylock ATL 03/02/1996 ATL @ MIL L 46 20 8 13 61.5 4 7 57.1 0 0 - 1 3 4 7 3 0 3 1 -
+p235
+aVCraig Ehlo ATL 03/02/1996 ATL @ MIL L 41 20 7 14 50.0 5 8 62.5 1 2 50.0 0 4 4 2 0 1 3 2 -
+p236
+aVGrant Long ATL 03/02/1996 ATL @ MIL L 45 23 8 13 61.5 2 3 66.7 5 6 83.3 5 5 10 5 1 0 3 3 -
+p237
+aVChristian Laettner ATL 03/02/1996 ATL @ MIL L 36 21 6 12 50.0 0 0 - 9 10 90.0 2 3 5 4 1 0 3 5 -
+p238
+aVAlan Henderson ATL 03/02/1996 ATL @ MIL L 15 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -
+p239
+aVSteven Smith ATL 03/02/1996 ATL @ MIL L 44 15 7 16 43.8 1 6 16.7 0 2 0.0 0 2 2 5 1 0 1 3 -
+p240
+aVMatt Bullard ATL 03/02/1996 ATL @ MIL L 13 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 1 1 0 0 0 -
+p241
+aVChristian Laettner ATL 03/01/1996 ATL vs. CLE W 43 9 4 8 50.0 0 0 - 1 2 50.0 3 5 8 1 0 1 2 3 -
+p242
+aVMookie Blaylock ATL 03/01/1996 ATL vs. CLE W 45 18 6 20 30.0 5 16 31.3 1 2 50.0 1 2 3 4 3 1 1 1 -
+p243
+aVMatt Bullard ATL 03/01/1996 ATL vs. CLE W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p244
+aVGrant Long ATL 03/01/1996 ATL vs. CLE W 46 11 5 9 55.6 0 1 0.0 1 2 50.0 2 13 15 2 2 0 2 4 -
+p245
+aVAlan Henderson ATL 03/01/1996 ATL vs. CLE W 7 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p246
+aVCraig Ehlo ATL 03/01/1996 ATL vs. CLE W 26 6 2 10 20.0 1 6 16.7 1 2 50.0 1 3 4 4 0 0 1 1 -
+p247
+aVSteven Smith ATL 03/01/1996 ATL vs. CLE W 45 15 5 16 31.3 1 7 14.3 4 6 66.7 3 5 8 3 2 0 1 0 -
+p248
+aVStacey Augmon ATL 03/01/1996 ATL vs. CLE W 25 12 3 6 50.0 0 0 - 6 6 100.0 2 2 4 2 0 0 2 3 -
+p249
+aVStacey Augmon ATL 02/28/1996 ATL vs. POR W 37 14 5 9 55.6 0 0 - 4 5 80.0 1 3 4 2 2 1 3 3 -
+p250
+aVSteven Smith ATL 02/28/1996 ATL vs. POR W 42 17 7 16 43.8 3 8 37.5 0 0 - 1 0 1 2 1 0 3 2 -
+p251
+aVAlan Henderson ATL 02/28/1996 ATL vs. POR W 20 8 3 6 50.0 0 0 - 2 4 50.0 2 2 4 2 1 1 1 2 -
+p252
+aVCraig Ehlo ATL 02/28/1996 ATL vs. POR W 21 11 4 12 33.3 3 6 50.0 0 0 - 1 1 2 3 1 0 1 2 -
+p253
+aVChristian Laettner ATL 02/28/1996 ATL vs. POR W 34 15 5 10 50.0 0 0 - 5 5 100.0 5 1 6 3 0 0 3 5 -
+p254
+aVMookie Blaylock ATL 02/28/1996 ATL vs. POR W 41 23 9 18 50.0 5 12 41.7 0 2 0.0 3 1 4 8 5 0 3 3 -
+p255
+aVMatt Bullard ATL 02/28/1996 ATL vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p256
+aVGrant Long ATL 02/28/1996 ATL vs. POR W 41 2 1 9 11.1 0 3 0.0 0 0 - 4 11 15 3 2 0 2 1 -
+p257
+aVHoward Nathan ATL 02/28/1996 ATL vs. POR W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p258
+aVSteven Smith ATL 02/25/1996 ATL @ MIN W 39 21 6 10 60.0 3 5 60.0 6 8 75.0 2 5 7 6 0 0 2 3 -
+p259
+aVMookie Blaylock ATL 02/25/1996 ATL @ MIN W 41 9 2 13 15.4 1 6 16.7 4 4 100.0 2 3 5 10 1 0 5 3 -
+p260
+aVGrant Long ATL 02/25/1996 ATL @ MIN W 47 24 8 15 53.3 1 1 100.0 7 8 87.5 6 7 13 0 1 0 4 3 -
+p261
+aVStacey Augmon ATL 02/25/1996 ATL @ MIN W 28 8 3 7 42.9 0 0 - 2 2 100.0 2 4 6 0 1 1 1 1 -
+p262
+aVCraig Ehlo ATL 02/25/1996 ATL @ MIN W 18 10 4 7 57.1 2 3 66.7 0 0 - 0 4 4 1 1 0 0 0 -
+p263
+aVChristian Laettner ATL 02/25/1996 ATL @ MIN W 18 7 2 5 40.0 0 0 - 3 4 75.0 1 6 7 0 0 0 3 5 -
+p264
+aVMatt Bullard ATL 02/25/1996 ATL @ MIN W 18 7 2 6 33.3 1 5 20.0 2 2 100.0 0 2 2 0 0 1 1 1 -
+p265
+aVAlan Henderson ATL 02/25/1996 ATL @ MIN W 28 6 3 9 33.3 0 0 - 0 0 - 3 4 7 0 0 0 1 4 -
+p266
+aVSean Rooks ATL 02/25/1996 ATL @ MIN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -
+p267
+aVMookie Blaylock ATL 02/23/1996 ATL @ NYK W 46 22 9 16 56.3 4 7 57.1 0 0 - 2 3 5 9 5 0 4 1 -
+p268
+aVHoward Nathan ATL 02/23/1996 ATL @ NYK W 2 2 0 0 - 0 0 - 2 3 66.7 0 0 0 0 0 0 2 0 -
+p269
+aVAlan Henderson ATL 02/23/1996 ATL @ NYK W 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 5 -
+p270
+aVStacey Augmon ATL 02/23/1996 ATL @ NYK W 43 24 10 19 52.6 0 0 - 4 4 100.0 4 7 11 2 1 0 1 3 -
+p271
+aVCraig Ehlo ATL 02/23/1996 ATL @ NYK W 45 18 7 17 41.2 2 8 25.0 2 3 66.7 3 3 6 1 4 0 3 2 -
+p272
+aVMatt Bullard ATL 02/23/1996 ATL @ NYK W 14 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 1 1 1 1 2 -
+p273
+aVKen Norman ATL 02/23/1996 ATL @ NYK W 7 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 -
+p274
+aVGrant Long ATL 02/23/1996 ATL @ NYK W 42 17 6 11 54.5 0 1 0.0 5 5 100.0 5 10 15 2 3 0 3 3 -
+p275
+aVChristian Laettner ATL 02/23/1996 ATL @ NYK W 23 12 4 10 40.0 0 0 - 4 5 80.0 3 4 7 1 0 0 4 1 -
+p276
+aVStacey Augmon ATL 02/22/1996 ATL vs. CHI L 40 17 7 15 46.7 0 0 - 3 4 75.0 1 1 2 1 2 0 4 2 -
+p277
+aVAlan Henderson ATL 02/22/1996 ATL vs. CHI L 32 10 4 7 57.1 0 0 - 2 2 100.0 6 4 10 2 0 0 0 2 -
+p278
+aVKen Norman ATL 02/22/1996 ATL vs. CHI L 23 6 3 8 37.5 0 1 0.0 0 0 - 2 3 5 0 0 1 1 3 -
+p279
+aVSteven Smith ATL 02/22/1996 ATL vs. CHI L 38 16 8 18 44.4 0 4 0.0 0 0 - 1 4 5 2 2 0 2 5 -
+p280
+aVGrant Long ATL 02/22/1996 ATL vs. CHI L 41 8 3 7 42.9 0 1 0.0 2 6 33.3 3 7 10 7 2 0 2 5 -
+p281
+aVMookie Blaylock ATL 02/22/1996 ATL vs. CHI L 42 26 10 25 40.0 6 15 40.0 0 0 - 3 3 6 2 2 0 2 0 -
+p282
+aVCraig Ehlo ATL 02/22/1996 ATL vs. CHI L 24 8 4 10 40.0 0 2 0.0 0 0 - 1 2 3 4 1 0 0 3 -
+p283
+aVMookie Blaylock ATL 02/19/1996 ATL @ SEA L 33 7 3 10 30.0 1 5 20.0 0 0 - 0 2 2 6 4 0 5 3 -
+p284
+aVStacey Augmon ATL 02/19/1996 ATL @ SEA L 39 24 9 15 60.0 1 1 100.0 5 8 62.5 2 0 2 2 4 0 4 2 -
+p285
+aVSteven Smith ATL 02/19/1996 ATL @ SEA L 37 18 6 12 50.0 0 5 0.0 6 9 66.7 2 1 3 1 0 0 0 3 -
+p286
+aVSpud Webb ATL 02/19/1996 ATL @ SEA L 16 1 0 2 0.0 0 0 - 1 1 100.0 0 1 1 3 0 0 1 1 -
+p287
+aVMatt Bullard ATL 02/19/1996 ATL @ SEA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 -
+p288
+aVCraig Ehlo ATL 02/19/1996 ATL @ SEA L 22 9 3 10 30.0 3 6 50.0 0 0 - 1 2 3 1 1 0 4 1 -
+p289
+aVAlan Henderson ATL 02/19/1996 ATL @ SEA L 13 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -
+p290
+aVGrant Long ATL 02/19/1996 ATL @ SEA L 42 21 6 9 66.7 4 4 100.0 5 6 83.3 1 4 5 1 2 1 2 3 -
+p291
+aVAndrew Lang ATL 02/19/1996 ATL @ SEA L 33 12 6 12 50.0 0 0 - 0 0 - 5 6 11 0 1 2 0 1 -
+p292
+aVSteven Smith ATL 02/18/1996 ATL @ POR W 41 18 7 16 43.8 3 6 50.0 1 1 100.0 1 2 3 1 1 0 5 2 -
+p293
+aVStacey Augmon ATL 02/18/1996 ATL @ POR W 31 14 5 12 41.7 0 0 - 4 4 100.0 1 2 3 2 1 1 0 5 -
+p294
+aVAlan Henderson ATL 02/18/1996 ATL @ POR W 17 8 3 8 37.5 0 0 - 2 4 50.0 2 4 6 1 0 0 0 3 -
+p295
+aVAndrew Lang ATL 02/18/1996 ATL @ POR W 39 12 4 8 50.0 0 0 - 4 6 66.7 3 10 13 0 0 1 1 4 -
+p296
+aVGrant Long ATL 02/18/1996 ATL @ POR W 39 18 6 12 50.0 0 2 0.0 6 7 85.7 2 10 12 1 0 1 2 3 -
+p297
+aVCraig Ehlo ATL 02/18/1996 ATL @ POR W 25 7 2 6 33.3 1 1 100.0 2 2 100.0 1 4 5 1 2 0 1 1 -
+p298
+aVMookie Blaylock ATL 02/18/1996 ATL @ POR W 42 16 5 13 38.5 4 8 50.0 2 2 100.0 2 3 5 6 1 0 2 2 -
+p299
+aVSpud Webb ATL 02/18/1996 ATL @ POR W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p300
+aVStacey Augmon ATL 02/16/1996 ATL @ VAN W 21 13 6 9 66.7 0 1 0.0 1 1 100.0 0 1 1 3 2 0 2 2 -
+p301
+aVSpud Webb ATL 02/16/1996 ATL @ VAN W 14 12 3 6 50.0 0 0 - 6 6 100.0 0 0 0 2 0 0 1 0 -
+p302
+aVAndrew Lang ATL 02/16/1996 ATL @ VAN W 44 10 4 9 44.4 0 0 - 2 2 100.0 4 8 12 2 2 2 4 3 -
+p303
+aVGrant Long ATL 02/16/1996 ATL @ VAN W 35 15 4 5 80.0 2 2 100.0 5 6 83.3 1 8 9 3 2 0 3 4 -
+p304
+aVCraig Ehlo ATL 02/16/1996 ATL @ VAN W 29 11 5 11 45.5 1 6 16.7 0 0 - 1 3 4 4 2 0 0 2 -
+p305
+aVKen Norman ATL 02/16/1996 ATL @ VAN W 9 3 1 5 20.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 2 -
+p306
+aVAlan Henderson ATL 02/16/1996 ATL @ VAN W 17 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 2 1 0 1 3 -
+p307
+aVMatt Bullard ATL 02/16/1996 ATL @ VAN W 3 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p308
+aVSteven Smith ATL 02/16/1996 ATL @ VAN W 34 16 6 12 50.0 1 4 25.0 3 3 100.0 0 2 2 7 2 0 2 2 -
+p309
+aVMookie Blaylock ATL 02/16/1996 ATL @ VAN W 34 21 8 15 53.3 5 8 62.5 0 0 - 1 0 1 6 3 0 1 1 -
+p310
+aVCraig Ehlo ATL 02/14/1996 ATL @ LAL L 19 6 2 11 18.2 1 6 16.7 1 2 50.0 1 2 3 0 0 0 0 1 -
+p311
+aVAndrew Lang ATL 02/14/1996 ATL @ LAL L 35 14 7 16 43.8 0 0 - 0 0 - 5 2 7 3 0 5 3 4 -
+p312
+aVSteven Smith ATL 02/14/1996 ATL @ LAL L 42 20 7 13 53.8 0 2 0.0 6 10 60.0 4 2 6 3 1 1 2 2 -
+p313
+aVSpud Webb ATL 02/14/1996 ATL @ LAL L 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -
+p314
+aVMookie Blaylock ATL 02/14/1996 ATL @ LAL L 39 15 6 16 37.5 1 4 25.0 2 2 100.0 1 5 6 7 2 0 5 1 -
+p315
+aVStacey Augmon ATL 02/14/1996 ATL @ LAL L 31 7 2 10 20.0 0 0 - 3 4 75.0 3 3 6 2 2 1 2 1 -
+p316
+aVGrant Long ATL 02/14/1996 ATL @ LAL L 44 16 6 16 37.5 2 4 50.0 2 3 66.7 7 14 21 5 1 0 1 6 -
+p317
+aVAlan Henderson ATL 02/14/1996 ATL @ LAL L 16 4 2 7 28.6 0 0 - 0 2 0.0 4 1 5 0 1 0 2 2 -
+p318
+aVMookie Blaylock ATL 02/08/1996 ATL vs. WAS W 33 18 7 16 43.8 1 8 12.5 3 4 75.0 1 2 3 0 0 0 1 1 -
+p319
+aVStacey Augmon ATL 02/08/1996 ATL vs. WAS W 35 20 7 12 58.3 0 0 - 6 6 100.0 3 2 5 2 2 0 0 2 -
+p320
+aVAndrew Lang ATL 02/08/1996 ATL vs. WAS W 44 18 9 18 50.0 0 0 - 0 0 - 1 3 4 2 1 3 2 3 -
+p321
+aVAlan Henderson ATL 02/08/1996 ATL vs. WAS W 19 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 4 -
+p322
+aVSpud Webb ATL 02/08/1996 ATL vs. WAS W 15 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 2 1 0 1 1 -
+p323
+aVSteven Smith ATL 02/08/1996 ATL vs. WAS W 36 11 1 8 12.5 0 3 0.0 9 10 90.0 3 7 10 6 1 0 2 4 -
+p324
+aVGrant Long ATL 02/08/1996 ATL vs. WAS W 33 17 5 9 55.6 1 3 33.3 6 7 85.7 4 7 11 2 3 0 1 4 -
+p325
+aVCraig Ehlo ATL 02/08/1996 ATL vs. WAS W 25 6 3 9 33.3 0 3 0.0 0 0 - 1 4 5 0 0 0 2 2 -
+p326
+aVSteven Smith ATL 02/07/1996 ATL @ MIA L 40 27 8 20 40.0 2 8 25.0 9 9 100.0 5 4 9 3 0 0 1 3 -
+p327
+aVAlan Henderson ATL 02/07/1996 ATL @ MIA L 16 9 2 5 40.0 0 0 - 5 6 83.3 4 2 6 0 0 1 2 3 -
+p328
+aVMookie Blaylock ATL 02/07/1996 ATL @ MIA L 35 5 2 17 11.8 1 6 16.7 0 2 0.0 3 2 5 3 2 0 3 3 -
+p329
+aVGrant Long ATL 02/07/1996 ATL @ MIA L 42 16 4 8 50.0 1 2 50.0 7 8 87.5 2 6 8 2 1 0 2 5 -
+p330
+aVStacey Augmon ATL 02/07/1996 ATL @ MIA L 37 16 7 9 77.8 0 0 - 2 5 40.0 3 3 6 1 0 0 3 3 -
+p331
+aVCraig Ehlo ATL 02/07/1996 ATL @ MIA L 19 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 -
+p332
+aVSpud Webb ATL 02/07/1996 ATL @ MIA L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 1 -
+p333
+aVAndrew Lang ATL 02/07/1996 ATL @ MIA L 38 11 5 13 38.5 0 0 - 1 2 50.0 2 9 11 0 2 0 3 6 -
+p334
+aVAlan Henderson ATL 02/04/1996 ATL vs. CHH W 25 7 3 4 75.0 0 0 - 1 1 100.0 1 7 8 0 0 3 2 3 -
+p335
+aVStacey Augmon ATL 02/04/1996 ATL vs. CHH W 28 13 5 9 55.6 0 0 - 3 4 75.0 3 3 6 2 2 1 2 1 -
+p336
+aVMookie Blaylock ATL 02/04/1996 ATL vs. CHH W 44 18 6 17 35.3 5 11 45.5 1 2 50.0 2 2 4 13 3 0 3 0 -
+p337
+aVAndrew Lang ATL 02/04/1996 ATL vs. CHH W 30 4 2 6 33.3 0 0 - 0 0 - 2 3 5 2 0 2 1 4 -
+p338
+aVSteven Smith ATL 02/04/1996 ATL vs. CHH W 44 30 12 24 50.0 2 6 33.3 4 6 66.7 2 7 9 4 1 0 1 4 -
+p339
+aVCraig Ehlo ATL 02/04/1996 ATL vs. CHH W 25 13 5 11 45.5 3 6 50.0 0 0 - 1 3 4 1 1 0 2 1 -
+p340
+aVGrant Long ATL 02/04/1996 ATL vs. CHH W 40 21 9 12 75.0 2 2 100.0 1 1 100.0 4 4 8 3 1 0 6 4 -
+p341
+aVSpud Webb ATL 02/04/1996 ATL vs. CHH W 4 0 0 0 - 0 0 - 0 1 0.0 0 0 0 0 0 0 1 1 -
+p342
+aVTodd Mundt ATL 02/02/1996 ATL @ ORL L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p343
+aVGrant Long ATL 02/02/1996 ATL @ ORL L 32 17 8 12 66.7 0 0 - 1 2 50.0 2 8 10 2 0 0 5 2 -
+p344
+aVSpud Webb ATL 02/02/1996 ATL @ ORL L 17 12 4 7 57.1 2 3 66.7 2 2 100.0 1 1 2 1 1 0 1 2 -
+p345
+aVAndrew Lang ATL 02/02/1996 ATL @ ORL L 35 6 3 9 33.3 0 0 - 0 0 - 1 6 7 1 0 0 0 4 -
+p346
+aVSteven Smith ATL 02/02/1996 ATL @ ORL L 38 15 6 15 40.0 1 4 25.0 2 4 50.0 5 3 8 3 0 0 2 1 -
+p347
+aVCraig Ehlo ATL 02/02/1996 ATL @ ORL L 22 10 4 8 50.0 1 3 33.3 1 1 100.0 1 3 4 2 3 0 0 3 -
+p348
+aVAlan Henderson ATL 02/02/1996 ATL @ ORL L 16 8 4 10 40.0 0 0 - 0 2 0.0 4 0 4 1 0 0 1 2 -
+p349
+aVRonnie Grandison ATL 02/02/1996 ATL @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p350
+aVStacey Augmon ATL 02/02/1996 ATL @ ORL L 41 21 7 12 58.3 0 0 - 7 9 77.8 1 3 4 3 1 0 1 3 -
+p351
+aVMookie Blaylock ATL 02/02/1996 ATL @ ORL L 33 4 2 14 14.3 0 6 0.0 0 0 - 1 4 5 8 1 1 2 1 -
+p352
+aVSteven Smith ATL 01/31/1996 ATL vs. PHX L 34 11 4 9 44.4 1 5 20.0 2 2 100.0 3 1 4 2 0 0 3 2 -
+p353
+aVAndrew Lang ATL 01/31/1996 ATL vs. PHX L 34 21 10 14 71.4 0 0 - 1 2 50.0 1 2 3 1 0 2 0 3 -
+p354
+aVCraig Ehlo ATL 01/31/1996 ATL vs. PHX L 16 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 2 1 0 1 1 -
+p355
+aVSpud Webb ATL 01/31/1996 ATL vs. PHX L 20 8 2 7 28.6 0 1 0.0 4 5 80.0 0 1 1 3 1 0 1 1 -
+p356
+aVGrant Long ATL 01/31/1996 ATL vs. PHX L 34 13 6 14 42.9 0 1 0.0 1 1 100.0 2 5 7 0 0 0 2 4 -
+p357
+aVMookie Blaylock ATL 01/31/1996 ATL vs. PHX L 24 2 1 11 9.1 0 7 0.0 0 0 - 1 3 4 3 2 0 1 2 -
+p358
+aVTodd Mundt ATL 01/31/1996 ATL vs. PHX L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p359
+aVAlan Henderson ATL 01/31/1996 ATL vs. PHX L 25 4 1 11 9.1 0 0 - 2 2 100.0 3 4 7 1 3 0 2 3 -
+p360
+aVRonnie Grandison ATL 01/31/1996 ATL vs. PHX L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p361
+aVMatt Bullard ATL 01/31/1996 ATL vs. PHX L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p362
+aVStacey Augmon ATL 01/31/1996 ATL vs. PHX L 33 17 7 11 63.6 0 0 - 3 3 100.0 1 2 3 2 3 1 2 3 -
+p363
+aVSpud Webb ATL 01/30/1996 ATL @ IND L 19 16 5 6 83.3 1 1 100.0 5 6 83.3 1 0 1 4 1 0 1 1 -
+p364
+aVTodd Mundt ATL 01/30/1996 ATL @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p365
+aVCraig Ehlo ATL 01/30/1996 ATL @ IND L 25 28 8 14 57.1 5 5 100.0 7 7 100.0 0 5 5 4 2 0 1 2 -
+p366
+aVAndrew Lang ATL 01/30/1996 ATL @ IND L 26 8 4 9 44.4 0 0 - 0 0 - 3 1 4 0 0 2 2 5 -
+p367
+aVAlan Henderson ATL 01/30/1996 ATL @ IND L 19 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 2 1 2 6 -
+p368
+aVRonnie Grandison ATL 01/30/1996 ATL @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p369
+aVMatt Bullard ATL 01/30/1996 ATL @ IND L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p370
+aVSteven Smith ATL 01/30/1996 ATL @ IND L 33 3 1 12 8.3 0 4 0.0 1 2 50.0 4 2 6 1 1 0 3 2 -
+p371
+aVStacey Augmon ATL 01/30/1996 ATL @ IND L 33 17 5 9 55.6 0 0 - 7 11 63.6 3 3 6 2 1 2 3 4 -
+p372
+aVMookie Blaylock ATL 01/30/1996 ATL @ IND L 29 8 3 12 25.0 2 9 22.2 0 0 - 1 1 2 5 1 0 2 2 -
+p373
+aVGrant Long ATL 01/30/1996 ATL @ IND L 43 8 4 13 30.8 0 2 0.0 0 0 - 3 7 10 4 1 0 5 0 -
+p374
+aVAlan Henderson ATL 01/26/1996 ATL vs. ORL W 15 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -
+p375
+aVGrant Long ATL 01/26/1996 ATL vs. ORL W 41 11 5 9 55.6 0 1 0.0 1 2 50.0 5 6 11 4 2 1 3 3 -
+p376
+aVSteven Smith ATL 01/26/1996 ATL vs. ORL W 39 22 8 17 47.1 3 7 42.9 3 4 75.0 1 6 7 4 1 1 3 1 -
+p377
+aVCraig Ehlo ATL 01/26/1996 ATL vs. ORL W 31 15 6 8 75.0 3 5 60.0 0 0 - 1 4 5 3 2 0 0 1 -
+p378
+aVMookie Blaylock ATL 01/26/1996 ATL vs. ORL W 39 21 7 16 43.8 4 11 36.4 3 4 75.0 3 1 4 11 2 0 3 0 -
+p379
+aVAndrew Lang ATL 01/26/1996 ATL vs. ORL W 40 8 4 14 28.6 0 0 - 0 0 - 1 7 8 2 0 2 2 4 -
+p380
+aVSpud Webb ATL 01/26/1996 ATL vs. ORL W 13 7 2 6 33.3 1 1 100.0 2 3 66.7 0 0 0 1 0 0 1 3 -
+p381
+aVStacey Augmon ATL 01/26/1996 ATL vs. ORL W 22 6 2 8 25.0 0 0 - 2 3 66.7 2 2 4 0 4 0 0 4 -
+p382
+aVGrant Long ATL 01/23/1996 ATL @ CLE W 37 10 3 6 50.0 0 1 0.0 4 5 80.0 0 10 10 3 1 2 0 0 -
+p383
+aVSteven Smith ATL 01/23/1996 ATL @ CLE W 39 20 9 16 56.3 1 4 25.0 1 1 100.0 1 5 6 3 1 0 3 1 -
+p384
+aVSpud Webb ATL 01/23/1996 ATL @ CLE W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p385
+aVMookie Blaylock ATL 01/23/1996 ATL @ CLE W 39 23 7 13 53.8 4 9 44.4 5 5 100.0 0 5 5 10 0 1 4 3 -
+p386
+aVMatt Bullard ATL 01/23/1996 ATL @ CLE W 11 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 3 4 -
+p387
+aVCraig Ehlo ATL 01/23/1996 ATL @ CLE W 27 11 5 7 71.4 1 3 33.3 0 0 - 0 9 9 3 0 0 1 3 -
+p388
+aVAndrew Lang ATL 01/23/1996 ATL @ CLE W 29 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 2 1 1 -
+p389
+aVAlan Henderson ATL 01/23/1996 ATL @ CLE W 7 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -
+p390
+aVStacey Augmon ATL 01/23/1996 ATL @ CLE W 42 13 4 10 40.0 0 0 - 5 5 100.0 1 5 6 1 1 0 1 3 -
+p391
+aVStacey Augmon ATL 01/22/1996 ATL vs. HOU W 25 10 5 11 45.5 0 0 - 0 0 - 1 0 1 1 0 0 3 0 -
+p392
+aVMatt Bullard ATL 01/22/1996 ATL vs. HOU W 4 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 0 -
+p393
+aVCraig Ehlo ATL 01/22/1996 ATL vs. HOU W 23 25 9 13 69.2 4 6 66.7 3 5 60.0 1 1 2 2 3 0 0 3 -
+p394
+aVAndrew Lang ATL 01/22/1996 ATL vs. HOU W 45 7 3 11 27.3 0 0 - 1 2 50.0 0 5 5 1 2 2 3 3 -
+p395
+aVSteven Smith ATL 01/22/1996 ATL vs. HOU W 44 26 9 18 50.0 1 3 33.3 7 10 70.0 3 2 5 6 3 1 3 1 -
+p396
+aVSpud Webb ATL 01/22/1996 ATL vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p397
+aVAlan Henderson ATL 01/22/1996 ATL vs. HOU W 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -
+p398
+aVMookie Blaylock ATL 01/22/1996 ATL vs. HOU W 43 20 7 22 31.8 3 11 27.3 3 3 100.0 4 6 10 9 6 0 2 3 -
+p399
+aVGrant Long ATL 01/22/1996 ATL vs. HOU W 42 14 4 10 40.0 1 1 100.0 5 8 62.5 4 3 7 1 0 0 0 3 -
+p400
+aVSteven Smith ATL 01/20/1996 ATL vs. MIA W 31 10 3 11 27.3 0 2 0.0 4 4 100.0 2 1 3 1 0 1 1 3 -
+p401
+aVRonnie Grandison ATL 01/20/1996 ATL vs. MIA W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -
+p402
+aVGrant Long ATL 01/20/1996 ATL vs. MIA W 34 20 7 12 58.3 0 0 - 6 6 100.0 4 2 6 2 1 0 4 1 -
+p403
+aVSpud Webb ATL 01/20/1996 ATL vs. MIA W 19 4 2 2 100.0 0 0 - 0 0 - 0 2 2 3 2 0 1 0 -
+p404
+aVAndrew Lang ATL 01/20/1996 ATL vs. MIA W 35 13 6 12 50.0 0 0 - 1 1 100.0 3 8 11 1 2 2 0 2 -
+p405
+aVMookie Blaylock ATL 01/20/1996 ATL vs. MIA W 30 16 6 9 66.7 4 6 66.7 0 0 - 0 2 2 4 3 0 2 2 -
+p406
+aVStacey Augmon ATL 01/20/1996 ATL vs. MIA W 27 12 4 9 44.4 0 0 - 4 4 100.0 1 8 9 1 3 0 1 0 -
+p407
+aVTodd Mundt ATL 01/20/1996 ATL vs. MIA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p408
+aVCraig Ehlo ATL 01/20/1996 ATL vs. MIA W 22 12 4 8 50.0 0 2 0.0 4 4 100.0 0 2 2 1 0 0 2 2 -
+p409
+aVAlan Henderson ATL 01/20/1996 ATL vs. MIA W 19 1 0 5 0.0 0 0 - 1 2 50.0 2 3 5 1 1 0 2 5 -
+p410
+aVMatt Bullard ATL 01/20/1996 ATL vs. MIA W 14 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 1 0 0 1 0 -
+p411
+aVStacey Augmon ATL 01/19/1996 ATL @ PHL W 22 3 1 4 25.0 0 0 - 1 2 50.0 2 0 2 1 0 0 3 4 -
+p412
+aVGrant Long ATL 01/19/1996 ATL @ PHL W 37 7 3 8 37.5 0 1 0.0 1 2 50.0 4 8 12 7 3 1 3 2 -
+p413
+aVSpud Webb ATL 01/19/1996 ATL @ PHL W 19 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 3 0 0 1 0 -
+p414
+aVAndrew Lang ATL 01/19/1996 ATL @ PHL W 42 12 6 9 66.7 0 0 - 0 0 - 1 4 5 3 2 6 3 2 -
+p415
+aVAlan Henderson ATL 01/19/1996 ATL @ PHL W 16 5 1 2 50.0 0 0 - 3 4 75.0 1 0 1 0 0 1 0 2 -
+p416
+aVSteven Smith ATL 01/19/1996 ATL @ PHL W 40 17 7 17 41.2 0 3 0.0 3 4 75.0 2 3 5 1 1 1 3 3 -
+p417
+aVMookie Blaylock ATL 01/19/1996 ATL @ PHL W 34 23 8 20 40.0 5 14 35.7 2 2 100.0 1 3 4 6 2 0 1 1 -
+p418
+aVCraig Ehlo ATL 01/19/1996 ATL @ PHL W 30 11 5 12 41.7 1 3 33.3 0 0 - 2 8 10 1 4 0 1 1 -
+p419
+aVGrant Long ATL 01/17/1996 ATL vs. IND W 32 5 1 5 20.0 0 1 0.0 3 4 75.0 1 4 5 5 1 0 2 4 -
+p420
+aVSteven Smith ATL 01/17/1996 ATL vs. IND W 41 19 6 15 40.0 1 5 20.0 6 6 100.0 1 6 7 1 1 0 2 1 -
+p421
+aVMookie Blaylock ATL 01/17/1996 ATL vs. IND W 38 16 6 14 42.9 2 5 40.0 2 2 100.0 1 3 4 5 2 0 1 1 -
+p422
+aVCraig Ehlo ATL 01/17/1996 ATL vs. IND W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p423
+aVAndrew Lang ATL 01/17/1996 ATL vs. IND W 36 17 7 11 63.6 0 0 - 3 4 75.0 5 3 8 0 0 3 4 2 -
+p424
+aVSpud Webb ATL 01/17/1996 ATL vs. IND W 19 9 3 7 42.9 1 1 100.0 2 2 100.0 0 2 2 3 0 0 1 1 -
+p425
+aVAlan Henderson ATL 01/17/1996 ATL vs. IND W 28 12 5 8 62.5 0 0 - 2 2 100.0 3 4 7 0 1 2 0 3 -
+p426
+aVStacey Augmon ATL 01/17/1996 ATL vs. IND W 41 24 7 10 70.0 0 0 - 10 10 100.0 2 2 4 4 2 0 3 4 -
+p427
+aVStacey Augmon ATL 01/15/1996 ATL vs. DET W 33 11 5 10 50.0 0 0 - 1 2 50.0 4 5 9 4 2 0 0 4 -
+p428
+aVMatt Bullard ATL 01/15/1996 ATL vs. DET W 7 0 0 0 - 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 -
+p429
+aVAndrew Lang ATL 01/15/1996 ATL vs. DET W 30 4 1 10 10.0 0 0 - 2 2 100.0 2 2 4 1 0 2 6 5 -
+p430
+aVMookie Blaylock ATL 01/15/1996 ATL vs. DET W 41 21 7 13 53.8 4 8 50.0 3 4 75.0 0 4 4 3 2 0 4 1 -
+p431
+aVGrant Long ATL 01/15/1996 ATL vs. DET W 37 12 4 10 40.0 1 3 33.3 3 5 60.0 3 6 9 4 1 0 1 1 -
+p432
+aVSteven Smith ATL 01/15/1996 ATL vs. DET W 41 31 13 20 65.0 2 6 33.3 3 3 100.0 1 5 6 3 0 0 7 2 -
+p433
+aVSpud Webb ATL 01/15/1996 ATL vs. DET W 21 11 5 7 71.4 1 2 50.0 0 0 - 1 0 1 1 1 0 1 0 -
+p434
+aVAlan Henderson ATL 01/15/1996 ATL vs. DET W 30 6 2 5 40.0 0 0 - 2 4 50.0 3 6 9 0 2 2 2 2 -
+p435
+aVSpud Webb ATL 01/13/1996 ATL vs. BOS W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p436
+aVAndrew Lang ATL 01/13/1996 ATL vs. BOS W 42 12 6 14 42.9 0 0 - 0 0 - 0 3 3 0 1 2 3 4 -
+p437
+aVAlan Henderson ATL 01/13/1996 ATL vs. BOS W 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 2 3 -
+p438
+aVGrant Long ATL 01/13/1996 ATL vs. BOS W 44 19 8 16 50.0 0 2 0.0 3 5 60.0 3 5 8 3 2 1 0 3 -
+p439
+aVMookie Blaylock ATL 01/13/1996 ATL vs. BOS W 40 20 8 15 53.3 4 5 80.0 0 0 - 2 4 6 9 5 1 2 5 -
+p440
+aVStacey Augmon ATL 01/13/1996 ATL vs. BOS W 35 21 9 13 69.2 0 0 - 3 3 100.0 2 1 3 3 2 0 3 3 -
+p441
+aVCraig Ehlo ATL 01/13/1996 ATL vs. BOS W 19 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 1 0 0 1 2 -
+p442
+aVSteven Smith ATL 01/13/1996 ATL vs. BOS W 42 27 10 17 58.8 2 5 40.0 5 6 83.3 0 1 1 1 1 0 1 4 -
+p443
+aVAlan Henderson ATL 01/11/1996 ATL @ TOR W 17 4 2 4 50.0 0 0 - 0 0 - 3 1 4 1 2 0 0 1 -
+p444
+aVMookie Blaylock ATL 01/11/1996 ATL @ TOR W 35 24 8 15 53.3 7 9 77.8 1 2 50.0 0 3 3 7 2 1 2 2 -
+p445
+aVAndrew Lang ATL 01/11/1996 ATL @ TOR W 35 11 4 7 57.1 0 0 - 3 4 75.0 2 7 9 2 1 0 4 3 -
+p446
+aVStacey Augmon ATL 01/11/1996 ATL @ TOR W 33 15 6 11 54.5 0 0 - 3 4 75.0 1 1 2 1 2 0 4 3 -
+p447
+aVSteven Smith ATL 01/11/1996 ATL @ TOR W 33 11 4 16 25.0 0 5 0.0 3 3 100.0 2 0 2 4 0 0 3 2 -
+p448
+aVGrant Long ATL 01/11/1996 ATL @ TOR W 45 11 3 5 60.0 1 1 100.0 4 4 100.0 2 9 11 1 3 2 1 4 -
+p449
+aVSpud Webb ATL 01/11/1996 ATL @ TOR W 13 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 3 1 0 2 1 -
+p450
+aVMatt Bullard ATL 01/11/1996 ATL @ TOR W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p451
+aVCraig Ehlo ATL 01/11/1996 ATL @ TOR W 24 7 3 8 37.5 1 1 100.0 0 0 - 0 0 0 2 1 1 2 3 -
+p452
+aVSteven Smith ATL 01/09/1996 ATL vs. SAC W 35 16 4 10 40.0 0 1 0.0 8 10 80.0 0 4 4 3 1 1 2 1 -
+p453
+aVSpud Webb ATL 01/09/1996 ATL vs. SAC W 16 6 3 5 60.0 0 0 - 0 0 - 0 3 3 3 0 0 1 1 -
+p454
+aVMookie Blaylock ATL 01/09/1996 ATL vs. SAC W 32 12 4 11 36.4 4 5 80.0 0 0 - 0 2 2 6 2 0 1 2 -
+p455
+aVTodd Mundt ATL 01/09/1996 ATL vs. SAC W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p456
+aVAndrew Lang ATL 01/09/1996 ATL vs. SAC W 30 14 5 13 38.5 0 0 - 4 4 100.0 0 6 6 1 1 1 0 1 -
+p457
+aVAlan Henderson ATL 01/09/1996 ATL vs. SAC W 24 7 2 6 33.3 0 0 - 3 4 75.0 3 3 6 1 1 0 1 4 -
+p458
+aVStacey Augmon ATL 01/09/1996 ATL vs. SAC W 30 12 5 12 41.7 0 0 - 2 2 100.0 1 6 7 0 0 1 4 3 -
+p459
+aVCraig Ehlo ATL 01/09/1996 ATL vs. SAC W 29 12 5 9 55.6 1 2 50.0 1 1 100.0 2 2 4 3 2 0 3 3 -
+p460
+aVMatt Bullard ATL 01/09/1996 ATL vs. SAC W 7 5 2 4 50.0 1 1 100.0 0 0 - 1 0 1 1 0 0 0 1 -
+p461
+aVGrant Long ATL 01/09/1996 ATL vs. SAC W 34 20 6 11 54.5 1 2 50.0 7 11 63.6 1 4 5 1 0 0 2 3 -
+p462
+aVMookie Blaylock ATL 01/06/1996 ATL @ CHH L 32 22 7 14 50.0 3 6 50.0 5 8 62.5 1 2 3 2 2 0 2 5 -
+p463
+aVCraig Ehlo ATL 01/06/1996 ATL @ CHH L 20 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 2 1 0 1 2 -
+p464
+aVTodd Mundt ATL 01/06/1996 ATL @ CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p465
+aVAlan Henderson ATL 01/06/1996 ATL @ CHH L 17 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 0 0 2 2 -
+p466
+aVStacey Augmon ATL 01/06/1996 ATL @ CHH L 33 8 3 8 37.5 0 0 - 2 2 100.0 0 2 2 3 1 1 1 4 -
+p467
+aVGrant Long ATL 01/06/1996 ATL @ CHH L 44 16 8 14 57.1 0 2 0.0 0 0 - 0 5 5 3 0 0 2 4 -
+p468
+aVSteven Smith ATL 01/06/1996 ATL @ CHH L 40 14 3 10 30.0 1 7 14.3 7 8 87.5 0 2 2 2 0 0 4 3 -
+p469
+aVAndrew Lang ATL 01/06/1996 ATL @ CHH L 33 16 8 15 53.3 0 0 - 0 0 - 4 1 5 1 0 3 1 3 -
+p470
+aVSpud Webb ATL 01/06/1996 ATL @ CHH L 20 4 0 0 - 0 0 - 4 4 100.0 0 1 1 1 1 0 0 0 -
+p471
+aVCraig Ehlo ATL 01/04/1996 ATL vs. TOR W 23 11 5 9 55.6 0 1 0.0 1 2 50.0 1 2 3 1 1 0 2 1 -
+p472
+aVStacey Augmon ATL 01/04/1996 ATL vs. TOR W 40 14 6 14 42.9 0 0 - 2 2 100.0 0 4 4 5 4 1 3 6 -
+p473
+aVMookie Blaylock ATL 01/04/1996 ATL vs. TOR W 42 26 9 18 50.0 3 6 50.0 5 6 83.3 1 2 3 5 5 0 3 1 -
+p474
+aVSteven Smith ATL 01/04/1996 ATL vs. TOR W 43 27 9 19 47.4 1 4 25.0 8 11 72.7 5 4 9 2 1 0 2 4 -
+p475
+aVAndrew Lang ATL 01/04/1996 ATL vs. TOR W 43 10 4 14 28.6 0 0 - 2 3 66.7 5 4 9 2 1 1 6 5 -
+p476
+aVAlan Henderson ATL 01/04/1996 ATL vs. TOR W 18 6 2 4 50.0 0 0 - 2 3 66.7 2 1 3 0 2 0 1 1 -
+p477
+aVSpud Webb ATL 01/04/1996 ATL vs. TOR W 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 0 0 0 3 -
+p478
+aVGrant Long ATL 01/04/1996 ATL vs. TOR W 45 10 3 10 30.0 1 2 50.0 3 4 75.0 6 12 18 3 1 2 3 3 -
+p479
+aVMatt Bullard ATL 01/02/1996 ATL vs. SEA L 9 1 0 3 0.0 0 1 0.0 1 2 50.0 1 0 1 1 1 0 0 1 -
+p480
+aVAlan Henderson ATL 01/02/1996 ATL vs. SEA L 18 2 1 5 20.0 0 0 - 0 2 0.0 4 0 4 0 0 0 1 2 -
+p481
+aVSpud Webb ATL 01/02/1996 ATL vs. SEA L 21 6 1 5 20.0 0 2 0.0 4 5 80.0 0 3 3 3 1 0 4 1 -
+p482
+aVTodd Mundt ATL 01/02/1996 ATL vs. SEA L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p483
+aVAndrew Lang ATL 01/02/1996 ATL vs. SEA L 36 29 14 19 73.7 0 0 - 1 2 50.0 2 5 7 2 0 1 3 3 -
+p484
+aVCraig Ehlo ATL 01/02/1996 ATL vs. SEA L 20 5 2 10 20.0 1 2 50.0 0 0 - 1 1 2 3 1 0 3 2 -
+p485
+aVStacey Augmon ATL 01/02/1996 ATL vs. SEA L 34 6 2 6 33.3 0 0 - 2 2 100.0 1 5 6 2 2 0 3 4 -
+p486
+aVGrant Long ATL 01/02/1996 ATL vs. SEA L 38 15 6 8 75.0 0 0 - 3 3 100.0 0 11 11 0 1 0 3 2 -
+p487
+aVSteven Smith ATL 01/02/1996 ATL vs. SEA L 31 8 4 13 30.8 0 7 0.0 0 3 0.0 5 2 7 5 1 0 3 2 -
+p488
+aVMookie Blaylock ATL 01/02/1996 ATL vs. SEA L 29 16 6 11 54.5 4 7 57.1 0 0 - 0 3 3 4 3 1 1 1 -
+p489
+aVAndrew Lang ATL 12/30/1995 ATL @ CHI L 24 10 5 14 35.7 0 0 - 0 0 - 2 4 6 0 0 1 1 6 -
+p490
+aVAlan Henderson ATL 12/30/1995 ATL @ CHI L 31 8 4 10 40.0 0 0 - 0 0 - 3 6 9 2 1 0 5 4 -
+p491
+aVCraig Ehlo ATL 12/30/1995 ATL @ CHI L 11 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 0 1 0 0 -
+p492
+aVSpud Webb ATL 12/30/1995 ATL @ CHI L 19 6 3 4 75.0 0 0 - 0 0 - 0 2 2 3 1 0 1 1 -
+p493
+aVGrant Long ATL 12/30/1995 ATL @ CHI L 40 10 4 10 40.0 0 0 - 2 3 66.7 3 6 9 1 2 0 1 3 -
+p494
+aVTodd Mundt ATL 12/30/1995 ATL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p495
+aVMookie Blaylock ATL 12/30/1995 ATL @ CHI L 28 19 8 15 53.3 3 6 50.0 0 0 - 0 0 0 3 4 0 2 1 -
+p496
+aVSteven Smith ATL 12/30/1995 ATL @ CHI L 38 20 8 22 36.4 1 8 12.5 3 4 75.0 6 2 8 2 2 0 1 0 -
+p497
+aVStacey Augmon ATL 12/30/1995 ATL @ CHI L 32 14 4 12 33.3 0 0 - 6 8 75.0 7 2 9 1 1 0 4 2 -
+p498
+aVKen Norman ATL 12/30/1995 ATL @ CHI L 16 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -
+p499
+aVKen Norman ATL 12/29/1995 ATL vs. GOS L 16 7 3 7 42.9 1 5 20.0 0 0 - 1 0 1 1 0 0 0 2 -
+p500
+aVMatt Bullard ATL 12/29/1995 ATL vs. GOS L 8 4 1 3 33.3 0 1 0.0 2 4 50.0 1 0 1 0 0 0 1 1 -
+p501
+aVStacey Augmon ATL 12/29/1995 ATL vs. GOS L 31 15 4 9 44.4 0 1 0.0 7 9 77.8 4 1 5 2 3 0 2 4 -
+p502
+aVSteven Smith ATL 12/29/1995 ATL vs. GOS L 22 8 2 8 25.0 0 4 0.0 4 5 80.0 1 0 1 1 1 0 0 2 -
+p503
+aVAndrew Lang ATL 12/29/1995 ATL vs. GOS L 30 10 4 12 33.3 0 0 - 2 2 100.0 1 2 3 0 0 1 1 3 -
+p504
+aVCraig Ehlo ATL 12/29/1995 ATL vs. GOS L 28 11 5 14 35.7 0 5 0.0 1 3 33.3 3 2 5 4 1 0 0 2 -
+p505
+aVMookie Blaylock ATL 12/29/1995 ATL vs. GOS L 25 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 3 2 0 3 2 -
+p506
+aVTodd Mundt ATL 12/29/1995 ATL vs. GOS L 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -
+p507
+aVGrant Long ATL 12/29/1995 ATL vs. GOS L 32 15 6 11 54.5 0 0 - 3 5 60.0 3 7 10 1 0 0 0 3 -
+p508
+aVSpud Webb ATL 12/29/1995 ATL vs. GOS L 23 8 3 7 42.9 0 2 0.0 2 2 100.0 1 2 3 5 3 1 3 3 -
+p509
+aVAlan Henderson ATL 12/29/1995 ATL vs. GOS L 20 11 5 8 62.5 0 0 - 1 4 25.0 0 4 4 1 2 0 1 2 -
+p510
+aVTim Kempton ATL 12/26/1995 ATL vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p511
+aVGrant Long ATL 12/26/1995 ATL vs. LAC W 44 12 6 16 37.5 0 0 - 0 4 0.0 9 10 19 4 1 1 1 2 -
+p512
+aVAlan Henderson ATL 12/26/1995 ATL vs. LAC W 12 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 1 0 1 2 -
+p513
+aVAndrew Lang ATL 12/26/1995 ATL vs. LAC W 37 10 3 11 27.3 0 0 - 4 4 100.0 2 3 5 2 0 2 0 4 -
+p514
+aVSteven Smith ATL 12/26/1995 ATL vs. LAC W 31 22 7 10 70.0 2 3 66.7 6 7 85.7 1 6 7 3 0 1 1 4 -
+p515
+aVMatt Bullard ATL 12/26/1995 ATL vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p516
+aVCraig Ehlo ATL 12/26/1995 ATL vs. LAC W 12 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 2 -
+p517
+aVStacey Augmon ATL 12/26/1995 ATL vs. LAC W 23 11 4 10 40.0 0 0 - 3 4 75.0 1 1 2 1 2 0 0 1 -
+p518
+aVSpud Webb ATL 12/26/1995 ATL vs. LAC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p519
+aVMookie Blaylock ATL 12/26/1995 ATL vs. LAC W 41 13 6 19 31.6 1 8 12.5 0 2 0.0 2 4 6 6 4 1 4 1 -
+p520
+aVKen Norman ATL 12/26/1995 ATL vs. LAC W 30 20 9 15 60.0 2 6 33.3 0 2 0.0 0 0 0 2 2 1 2 2 -
+p521
+aVCraig Ehlo ATL 12/23/1995 ATL @ MIL L 12 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 3 3 0 0 3 -
+p522
+aVStacey Augmon ATL 12/23/1995 ATL @ MIL L 16 5 1 4 25.0 0 0 - 3 4 75.0 1 3 4 0 1 0 1 3 -
+p523
+aVSpud Webb ATL 12/23/1995 ATL @ MIL L 20 2 1 3 33.3 0 0 - 0 1 0.0 1 0 1 3 0 0 1 3 -
+p524
+aVAndrew Lang ATL 12/23/1995 ATL @ MIL L 42 15 6 11 54.5 0 0 - 3 3 100.0 2 4 6 1 0 1 0 1 -
+p525
+aVGrant Long ATL 12/23/1995 ATL @ MIL L 31 13 4 11 36.4 0 1 0.0 5 5 100.0 1 2 3 3 1 0 2 3 -
+p526
+aVSteven Smith ATL 12/23/1995 ATL @ MIL L 35 22 8 18 44.4 3 6 50.0 3 3 100.0 0 1 1 7 1 0 2 4 -
+p527
+aVKen Norman ATL 12/23/1995 ATL @ MIL L 33 23 10 19 52.6 3 8 37.5 0 0 - 0 4 4 5 1 1 1 3 -
+p528
+aVAlan Henderson ATL 12/23/1995 ATL @ MIL L 22 11 4 5 80.0 0 0 - 3 7 42.9 3 6 9 1 0 0 2 3 -
+p529
+aVMookie Blaylock ATL 12/23/1995 ATL @ MIL L 29 12 4 9 44.4 2 4 50.0 2 2 100.0 0 2 2 7 2 0 2 3 -
+p530
+aVTim Kempton ATL 12/22/1995 ATL vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p531
+aVMookie Blaylock ATL 12/22/1995 ATL vs. NJN W 35 19 6 15 40.0 2 7 28.6 5 6 83.3 0 4 4 3 3 1 1 3 -
+p532
+aVCraig Ehlo ATL 12/22/1995 ATL vs. NJN W 21 2 1 6 16.7 0 0 - 0 0 - 1 3 4 4 5 0 2 3 -
+p533
+aVGrant Long ATL 12/22/1995 ATL vs. NJN W 41 23 8 15 53.3 0 0 - 7 8 87.5 2 8 10 1 1 1 1 3 -
+p534
+aVAndrew Lang ATL 12/22/1995 ATL vs. NJN W 27 14 6 10 60.0 0 0 - 2 3 66.7 5 3 8 1 1 0 4 5 -
+p535
+aVTodd Mundt ATL 12/22/1995 ATL vs. NJN W 4 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 0 0 3 -
+p536
+aVSpud Webb ATL 12/22/1995 ATL vs. NJN W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 -
+p537
+aVKen Norman ATL 12/22/1995 ATL vs. NJN W 29 8 3 10 30.0 1 3 33.3 1 2 50.0 2 2 4 2 0 0 2 1 -
+p538
+aVAlan Henderson ATL 12/22/1995 ATL vs. NJN W 17 9 4 9 44.4 0 0 - 1 2 50.0 3 2 5 0 0 0 0 3 -
+p539
+aVSteven Smith ATL 12/22/1995 ATL vs. NJN W 17 2 1 8 12.5 0 4 0.0 0 1 0.0 1 1 2 1 1 0 3 3 -
+p540
+aVStacey Augmon ATL 12/22/1995 ATL vs. NJN W 31 15 6 14 42.9 0 0 - 3 6 50.0 5 3 8 2 1 0 2 5 -
+p541
+aVSpud Webb ATL 12/16/1995 ATL vs. DEN W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 0 -
+p542
+aVMookie Blaylock ATL 12/16/1995 ATL vs. DEN W 43 28 10 22 45.5 5 10 50.0 3 4 75.0 2 3 5 5 4 0 3 4 -
+p543
+aVAndrew Lang ATL 12/16/1995 ATL vs. DEN W 42 18 8 18 44.4 0 0 - 2 2 100.0 3 2 5 2 1 2 1 2 -
+p544
+aVCraig Ehlo ATL 12/16/1995 ATL vs. DEN W 23 12 5 6 83.3 2 3 66.7 0 0 - 0 2 2 3 1 0 0 1 -
+p545
+aVTim Kempton ATL 12/16/1995 ATL vs. DEN W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -
+p546
+aVGrant Long ATL 12/16/1995 ATL vs. DEN W 39 5 2 11 18.2 0 0 - 1 2 50.0 6 10 16 1 3 0 1 6 -
+p547
+aVAlan Henderson ATL 12/16/1995 ATL vs. DEN W 7 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -
+p548
+aVKen Norman ATL 12/16/1995 ATL vs. DEN W 23 0 0 6 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -
+p549
+aVSteven Smith ATL 12/16/1995 ATL vs. DEN W 27 14 3 13 23.1 2 5 40.0 6 7 85.7 2 6 8 2 0 0 2 4 -
+p550
+aVStacey Augmon ATL 12/16/1995 ATL vs. DEN W 23 12 4 7 57.1 0 0 - 4 6 66.7 1 0 1 3 0 0 1 2 -
+p551
+aVCraig Ehlo ATL 12/14/1995 ATL vs. CHI L 21 10 4 7 57.1 2 3 66.7 0 0 - 2 3 5 1 1 0 2 1 -
+p552
+aVAlan Henderson ATL 12/14/1995 ATL vs. CHI L 18 8 4 8 50.0 0 0 - 0 0 - 1 2 3 0 1 0 2 4 -
+p553
+aVStacey Augmon ATL 12/14/1995 ATL vs. CHI L 24 17 6 12 50.0 0 0 - 5 7 71.4 1 1 2 0 1 0 0 3 -
+p554
+aVAndrew Lang ATL 12/14/1995 ATL vs. CHI L 31 7 3 8 37.5 0 0 - 1 2 50.0 1 3 4 1 1 0 1 2 -
+p555
+aVSpud Webb ATL 12/14/1995 ATL vs. CHI L 19 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 10 0 0 1 0 -
+p556
+aVGrant Long ATL 12/14/1995 ATL vs. CHI L 33 14 6 14 42.9 0 0 - 2 3 66.7 5 5 10 2 0 1 2 4 -
+p557
+aVSteven Smith ATL 12/14/1995 ATL vs. CHI L 26 17 6 10 60.0 2 4 50.0 3 4 75.0 0 3 3 1 1 2 3 3 -
+p558
+aVKen Norman ATL 12/14/1995 ATL vs. CHI L 22 13 6 10 60.0 1 4 25.0 0 0 - 1 0 1 3 0 0 0 3 -
+p559
+aVTodd Mundt ATL 12/14/1995 ATL vs. CHI L 11 8 3 3 100.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 2 -
+p560
+aVMatt Bullard ATL 12/14/1995 ATL vs. CHI L 6 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 1 0 2 1 -
+p561
+aVMookie Blaylock ATL 12/14/1995 ATL vs. CHI L 29 10 4 12 33.3 2 8 25.0 0 0 - 3 1 4 4 4 1 2 1 -
+p562
+aVMookie Blaylock ATL 12/12/1995 ATL vs. MIN L 36 23 7 13 53.8 5 8 62.5 4 5 80.0 1 1 2 2 4 0 2 2 -
+p563
+aVCraig Ehlo ATL 12/12/1995 ATL vs. MIN L 25 9 3 7 42.9 1 3 33.3 2 4 50.0 0 1 1 1 1 0 3 2 -
+p564
+aVGrant Long ATL 12/12/1995 ATL vs. MIN L 33 9 3 8 37.5 0 0 - 3 6 50.0 4 3 7 4 1 0 3 3 -
+p565
+aVSteven Smith ATL 12/12/1995 ATL vs. MIN L 27 18 5 9 55.6 4 6 66.7 4 4 100.0 0 2 2 2 1 0 1 6 -
+p566
+aVSpud Webb ATL 12/12/1995 ATL vs. MIN L 12 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p567
+aVAndrew Lang ATL 12/12/1995 ATL vs. MIN L 44 11 3 9 33.3 0 0 - 5 6 83.3 1 9 10 1 0 4 3 4 -
+p568
+aVAlan Henderson ATL 12/12/1995 ATL vs. MIN L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -
+p569
+aVStacey Augmon ATL 12/12/1995 ATL vs. MIN L 21 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 0 1 2 -
+p570
+aVKen Norman ATL 12/12/1995 ATL vs. MIN L 23 4 1 7 14.3 1 4 25.0 1 2 50.0 1 3 4 5 0 0 3 2 -
+p571
+aVMatt Bullard ATL 12/12/1995 ATL vs. MIN L 10 2 1 5 20.0 0 4 0.0 0 0 - 0 2 2 0 0 1 0 2 -
+p572
+aVSpud Webb ATL 12/10/1995 ATL @ BOS W 29 15 5 9 55.6 2 4 50.0 3 4 75.0 0 1 1 6 0 0 1 1 -
+p573
+aVKen Norman ATL 12/10/1995 ATL @ BOS W 39 26 12 20 60.0 2 5 40.0 0 0 - 3 6 9 3 0 2 3 3 -
+p574
+aVGrant Long ATL 12/10/1995 ATL @ BOS W 40 15 4 7 57.1 1 1 100.0 6 6 100.0 3 13 16 2 3 1 3 4 -
+p575
+aVSteven Smith ATL 12/10/1995 ATL @ BOS W 27 11 3 7 42.9 2 3 66.7 3 3 100.0 1 1 2 1 1 0 3 2 -
+p576
+aVAlan Henderson ATL 12/10/1995 ATL @ BOS W 20 9 3 7 42.9 0 0 - 3 5 60.0 3 3 6 1 1 3 0 4 -
+p577
+aVCraig Ehlo ATL 12/10/1995 ATL @ BOS W 21 12 5 9 55.6 2 4 50.0 0 0 - 0 2 2 1 0 0 1 2 -
+p578
+aVMatt Bullard ATL 12/10/1995 ATL @ BOS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p579
+aVAndrew Lang ATL 12/10/1995 ATL @ BOS W 29 12 4 13 30.8 0 0 - 4 4 100.0 2 5 7 1 0 1 1 2 -
+p580
+aVMookie Blaylock ATL 12/10/1995 ATL @ BOS W 19 6 1 7 14.3 0 3 0.0 4 4 100.0 1 2 3 4 2 0 3 4 -
+p581
+aVStacey Augmon ATL 12/10/1995 ATL @ BOS W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -
+p582
+aVSpud Webb ATL 12/09/1995 ATL vs. NYK L 15 8 2 6 33.3 2 2 100.0 2 3 66.7 1 1 2 2 2 0 1 3 -
+p583
+aVMatt Bullard ATL 12/09/1995 ATL vs. NYK L 7 7 3 3 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 3 -
+p584
+aVKen Norman ATL 12/09/1995 ATL vs. NYK L 30 6 3 10 30.0 0 1 0.0 0 0 - 1 5 6 0 0 0 1 2 -
+p585
+aVAndrew Lang ATL 12/09/1995 ATL vs. NYK L 35 12 5 7 71.4 0 0 - 2 3 66.7 2 4 6 3 1 0 3 5 -
+p586
+aVMookie Blaylock ATL 12/09/1995 ATL vs. NYK L 35 9 3 11 27.3 2 8 25.0 1 2 50.0 2 3 5 4 2 0 2 3 -
+p587
+aVSteven Smith ATL 12/09/1995 ATL vs. NYK L 41 29 11 22 50.0 2 8 25.0 5 5 100.0 2 1 3 3 0 0 1 4 -
+p588
+aVStacey Augmon ATL 12/09/1995 ATL vs. NYK L 16 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 3 0 0 1 2 -
+p589
+aVGrant Long ATL 12/09/1995 ATL vs. NYK L 37 12 4 10 40.0 0 1 0.0 4 4 100.0 2 5 7 3 1 0 0 1 -
+p590
+aVAlan Henderson ATL 12/09/1995 ATL vs. NYK L 13 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 1 0 0 3 -
+p591
+aVCraig Ehlo ATL 12/09/1995 ATL vs. NYK L 11 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -
+p592
+aVMookie Blaylock ATL 12/07/1995 ATL vs. SAN L 25 11 5 18 27.8 1 9 11.1 0 0 - 3 6 9 3 2 0 2 1 -
+p593
+aVStacey Augmon ATL 12/07/1995 ATL vs. SAN L 26 13 6 16 37.5 0 0 - 1 1 100.0 6 2 8 0 1 0 2 5 -
+p594
+aVSpud Webb ATL 12/07/1995 ATL vs. SAN L 23 6 3 6 50.0 0 2 0.0 0 0 - 2 1 3 6 0 0 1 1 -
+p595
+aVTodd Mundt ATL 12/07/1995 ATL vs. SAN L 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 4 -
+p596
+aVMatt Bullard ATL 12/07/1995 ATL vs. SAN L 31 28 10 15 66.7 7 9 77.8 1 1 100.0 1 5 6 0 2 0 1 2 -
+p597
+aVSteven Smith ATL 12/07/1995 ATL vs. SAN L 22 3 1 8 12.5 0 2 0.0 1 1 100.0 1 1 2 6 0 1 0 2 -
+p598
+aVKen Norman ATL 12/07/1995 ATL vs. SAN L 26 8 3 7 42.9 2 3 66.7 0 2 0.0 1 2 3 5 1 1 0 2 -
+p599
+aVCraig Ehlo ATL 12/07/1995 ATL vs. SAN L 22 2 1 6 16.7 0 2 0.0 0 0 - 2 5 7 2 1 0 0 3 -
+p600
+aVAndrew Lang ATL 12/07/1995 ATL vs. SAN L 35 19 8 19 42.1 0 0 - 3 3 100.0 2 8 10 0 2 1 1 4 -
+p601
+aVGrant Long ATL 12/07/1995 ATL vs. SAN L 25 11 5 11 45.5 0 0 - 1 2 50.0 3 3 6 1 2 2 0 2 -
+p602
+aVSpud Webb ATL 12/06/1995 ATL @ WAS L 18 4 2 8 25.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 2 -
+p603
+aVTodd Mundt ATL 12/06/1995 ATL @ WAS L 15 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 0 2 2 -
+p604
+aVStacey Augmon ATL 12/06/1995 ATL @ WAS L 26 12 4 9 44.4 0 0 - 4 4 100.0 2 1 3 2 0 0 4 3 -
+p605
+aVAndrew Lang ATL 12/06/1995 ATL @ WAS L 33 10 3 10 30.0 0 0 - 4 4 100.0 1 0 1 1 1 2 3 6 -
+p606
+aVMookie Blaylock ATL 12/06/1995 ATL @ WAS L 30 8 3 9 33.3 1 6 16.7 1 1 100.0 1 2 3 5 3 1 3 3 -
+p607
+aVMatt Bullard ATL 12/06/1995 ATL @ WAS L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p608
+aVKen Norman ATL 12/06/1995 ATL @ WAS L 29 12 4 8 50.0 1 1 100.0 3 4 75.0 2 5 7 0 0 0 3 3 -
+p609
+aVGrant Long ATL 12/06/1995 ATL @ WAS L 28 8 2 5 40.0 0 0 - 4 8 50.0 5 5 10 0 2 0 5 4 -
+p610
+aVCraig Ehlo ATL 12/06/1995 ATL @ WAS L 19 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 1 1 0 0 3 -
+p611
+aVSteven Smith ATL 12/06/1995 ATL @ WAS L 31 14 4 15 26.7 2 8 25.0 4 4 100.0 1 5 6 4 1 0 3 0 -
+p612
+aVCraig Ehlo ATL 12/02/1995 ATL @ DET L 25 17 5 9 55.6 1 1 100.0 6 6 100.0 1 0 1 3 0 0 1 4 -
+p613
+aVAndrew Lang ATL 12/02/1995 ATL @ DET L 35 9 4 13 30.8 0 0 - 1 2 50.0 1 8 9 1 0 2 2 3 -
+p614
+aVTodd Mundt ATL 12/02/1995 ATL @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -
+p615
+aVSteven Smith ATL 12/02/1995 ATL @ DET L 27 13 3 9 33.3 1 5 20.0 6 7 85.7 0 2 2 1 1 0 0 3 -
+p616
+aVSpud Webb ATL 12/02/1995 ATL @ DET L 24 14 6 10 60.0 1 3 33.3 1 1 100.0 3 1 4 7 0 1 0 4 -
+p617
+aVStacey Augmon ATL 12/02/1995 ATL @ DET L 22 6 2 4 50.0 0 0 - 2 4 50.0 2 0 2 0 0 2 5 1 -
+p618
+aVMatt Bullard ATL 12/02/1995 ATL @ DET L 24 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 0 0 2 0 3 -
+p619
+aVMookie Blaylock ATL 12/02/1995 ATL @ DET L 31 14 5 13 38.5 3 10 30.0 1 3 33.3 0 2 2 6 0 0 1 1 -
+p620
+aVGrant Long ATL 12/02/1995 ATL @ DET L 28 13 5 10 50.0 0 0 - 3 4 75.0 3 10 13 0 0 0 2 5 -
+p621
+aVKen Norman ATL 12/02/1995 ATL @ DET L 21 7 3 7 42.9 1 1 100.0 0 0 - 2 1 3 3 0 1 2 3 -
+p622
+aVAndrew Lang ATL 12/01/1995 ATL vs. DAL L 36 6 3 12 25.0 0 0 - 0 0 - 3 4 7 1 0 0 1 6 -
+p623
+aVKen Norman ATL 12/01/1995 ATL vs. DAL L 25 12 5 10 50.0 0 0 - 2 2 100.0 3 3 6 0 2 1 2 3 -
+p624
+aVGrant Long ATL 12/01/1995 ATL vs. DAL L 29 13 4 7 57.1 1 2 50.0 4 4 100.0 0 6 6 0 0 0 0 1 -
+p625
+aVMookie Blaylock ATL 12/01/1995 ATL vs. DAL L 26 5 2 13 15.4 1 6 16.7 0 0 - 3 2 5 4 0 0 3 1 -
+p626
+aVSpud Webb ATL 12/01/1995 ATL vs. DAL L 22 9 2 5 40.0 1 3 33.3 4 4 100.0 0 0 0 5 1 0 2 2 -
+p627
+aVCraig Ehlo ATL 12/01/1995 ATL vs. DAL L 27 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 2 1 0 1 4 -
+p628
+aVAlan Henderson ATL 12/01/1995 ATL vs. DAL L 10 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 1 1 -
+p629
+aVSteven Smith ATL 12/01/1995 ATL vs. DAL L 34 26 9 16 56.3 3 7 42.9 5 6 83.3 1 2 3 1 1 0 2 5 -
+p630
+aVStacey Augmon ATL 12/01/1995 ATL vs. DAL L 31 16 7 15 46.7 0 0 - 2 4 50.0 5 2 7 2 0 2 1 3 -
+p631
+aVHoward Nathan ATL 11/29/1995 ATL vs. PHL W 5 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 0 3 0 3 2 -
+p632
+aVAndrew Lang ATL 11/29/1995 ATL vs. PHL W 34 13 6 9 66.7 0 0 - 1 2 50.0 1 2 3 4 0 2 1 4 -
+p633
+aVCraig Ehlo ATL 11/29/1995 ATL vs. PHL W 20 4 2 4 50.0 0 0 - 0 0 - 1 3 4 3 2 0 4 1 -
+p634
+aVMatt Bullard ATL 11/29/1995 ATL vs. PHL W 9 6 3 4 75.0 0 1 0.0 0 0 - 1 1 2 1 0 1 1 1 -
+p635
+aVTodd Mundt ATL 11/29/1995 ATL vs. PHL W 8 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -
+p636
+aVSpud Webb ATL 11/29/1995 ATL vs. PHL W 18 11 4 6 66.7 0 0 - 3 3 100.0 0 1 1 4 3 0 0 0 -
+p637
+aVStacey Augmon ATL 11/29/1995 ATL vs. PHL W 15 12 4 8 50.0 0 0 - 4 5 80.0 2 4 6 1 0 0 2 3 -
+p638
+aVMookie Blaylock ATL 11/29/1995 ATL vs. PHL W 25 14 6 9 66.7 2 4 50.0 0 0 - 0 4 4 3 4 0 4 1 -
+p639
+aVSteven Smith ATL 11/29/1995 ATL vs. PHL W 25 7 2 6 33.3 2 4 50.0 1 3 33.3 0 1 1 1 0 0 2 3 -
+p640
+aVGrant Long ATL 11/29/1995 ATL vs. PHL W 27 6 2 5 40.0 0 0 - 2 2 100.0 3 8 11 1 2 0 4 3 -
+p641
+aVKen Norman ATL 11/29/1995 ATL vs. PHL W 29 15 5 6 83.3 3 3 100.0 2 2 100.0 1 4 5 1 1 0 2 1 -
+p642
+aVAlan Henderson ATL 11/29/1995 ATL vs. PHL W 25 12 5 9 55.6 0 0 - 2 2 100.0 4 2 6 1 0 1 1 3 -
+p643
+aVKen Norman ATL 11/28/1995 ATL @ NYK W 25 5 2 6 33.3 1 4 25.0 0 1 0.0 0 4 4 1 1 0 1 3 -
+p644
+aVSteven Smith ATL 11/28/1995 ATL @ NYK W 43 25 9 19 47.4 4 8 50.0 3 4 75.0 1 4 5 3 0 0 3 3 -
+p645
+aVAndrew Lang ATL 11/28/1995 ATL @ NYK W 44 12 5 16 31.3 0 0 - 2 2 100.0 2 6 8 1 0 1 0 4 -
+p646
+aVMookie Blaylock ATL 11/28/1995 ATL @ NYK W 39 15 6 16 37.5 3 8 37.5 0 2 0.0 3 1 4 9 1 0 2 1 -
+p647
+aVCraig Ehlo ATL 11/28/1995 ATL @ NYK W 22 12 4 9 44.4 1 2 50.0 3 4 75.0 2 4 6 2 3 0 2 4 -
+p648
+aVAlan Henderson ATL 11/28/1995 ATL @ NYK W 23 6 2 5 40.0 0 0 - 2 4 50.0 3 5 8 1 1 0 1 3 -
+p649
+aVGrant Long ATL 11/28/1995 ATL @ NYK W 38 11 4 11 36.4 0 0 - 3 4 75.0 2 7 9 3 5 1 2 2 -
+p650
+aVSpud Webb ATL 11/28/1995 ATL @ NYK W 20 13 4 5 80.0 2 3 66.7 3 3 100.0 0 0 0 1 1 0 1 1 -
+p651
+aVStacey Augmon ATL 11/28/1995 ATL @ NYK W 11 3 1 4 25.0 0 0 - 1 2 50.0 3 0 3 0 1 0 2 2 -
+p652
+aVAndrew Lang ATL 11/25/1995 ATL vs. TOR W 30 4 1 8 12.5 0 0 - 2 2 100.0 0 4 4 1 1 1 1 4 -
+p653
+aVMookie Blaylock ATL 11/25/1995 ATL vs. TOR W 28 14 4 13 30.8 4 9 44.4 2 2 100.0 1 3 4 6 1 0 0 2 -
+p654
+aVAlan Henderson ATL 11/25/1995 ATL vs. TOR W 24 11 3 11 27.3 0 1 0.0 5 6 83.3 6 4 10 2 2 0 0 2 -
+p655
+aVCraig Ehlo ATL 11/25/1995 ATL vs. TOR W 16 8 4 8 50.0 0 2 0.0 0 0 - 1 1 2 1 1 0 2 3 -
+p656
+aVSpud Webb ATL 11/25/1995 ATL vs. TOR W 20 6 2 6 33.3 0 2 0.0 2 2 100.0 0 1 1 3 1 0 3 1 -
+p657
+aVStacey Augmon ATL 11/25/1995 ATL vs. TOR W 26 18 6 9 66.7 0 0 - 6 7 85.7 2 1 3 1 0 1 2 4 -
+p658
+aVKen Norman ATL 11/25/1995 ATL vs. TOR W 28 21 8 12 66.7 4 5 80.0 1 4 25.0 2 3 5 1 0 0 1 3 -
+p659
+aVSteven Smith ATL 11/25/1995 ATL vs. TOR W 26 15 6 11 54.5 2 5 40.0 1 1 100.0 1 0 1 1 1 0 2 2 -
+p660
+aVTodd Mundt ATL 11/25/1995 ATL vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p661
+aVGrant Long ATL 11/25/1995 ATL vs. TOR W 38 17 5 8 62.5 0 0 - 7 8 87.5 7 6 13 6 7 0 2 2 -
+p662
+aVAndrew Lang ATL 11/22/1995 ATL @ PHX L 42 22 9 16 56.3 0 0 - 4 6 66.7 4 5 9 3 2 0 3 3 -
+p663
+aVKen Norman ATL 11/22/1995 ATL @ PHX L 37 14 7 13 53.8 0 2 0.0 0 2 0.0 3 4 7 9 1 1 1 0 -
+p664
+aVSteven Smith ATL 11/22/1995 ATL @ PHX L 41 25 9 25 36.0 5 11 45.5 2 2 100.0 2 0 2 1 1 0 3 5 -
+p665
+aVStacey Augmon ATL 11/22/1995 ATL @ PHX L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -
+p666
+aVAlan Henderson ATL 11/22/1995 ATL @ PHX L 20 10 5 7 71.4 0 0 - 0 0 - 2 3 5 1 0 0 3 4 -
+p667
+aVGrant Long ATL 11/22/1995 ATL @ PHX L 34 7 3 5 60.0 0 0 - 1 1 100.0 2 6 8 2 1 0 1 3 -
+p668
+aVSpud Webb ATL 11/22/1995 ATL @ PHX L 22 7 3 5 60.0 1 2 50.0 0 0 - 4 0 4 7 0 0 1 3 -
+p669
+aVMookie Blaylock ATL 11/22/1995 ATL @ PHX L 31 23 8 19 42.1 6 14 42.9 1 2 50.0 1 3 4 5 1 1 2 6 -
+p670
+aVTodd Mundt ATL 11/21/1995 ATL @ DEN L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p671
+aVMookie Blaylock ATL 11/21/1995 ATL @ DEN L 33 15 5 13 38.5 4 11 36.4 1 1 100.0 1 2 3 5 1 0 2 3 -
+p672
+aVAlan Henderson ATL 11/21/1995 ATL @ DEN L 13 2 1 4 25.0 0 0 - 0 2 0.0 0 3 3 0 0 0 0 5 -
+p673
+aVSpud Webb ATL 11/21/1995 ATL @ DEN L 18 9 3 4 75.0 0 1 0.0 3 3 100.0 1 2 3 2 0 0 2 2 -
+p674
+aVKen Norman ATL 11/21/1995 ATL @ DEN L 20 6 3 7 42.9 0 3 0.0 0 2 0.0 0 1 1 1 1 0 1 3 -
+p675
+aVGrant Long ATL 11/21/1995 ATL @ DEN L 32 17 6 8 75.0 1 1 100.0 4 6 66.7 4 7 11 3 3 1 4 6 -
+p676
+aVAndrew Lang ATL 11/21/1995 ATL @ DEN L 35 22 10 17 58.8 0 0 - 2 2 100.0 2 4 6 0 0 1 3 5 -
+p677
+aVStacey Augmon ATL 11/21/1995 ATL @ DEN L 25 12 4 8 50.0 0 0 - 4 5 80.0 2 2 4 2 2 0 3 1 -
+p678
+aVMatt Bullard ATL 11/21/1995 ATL @ DEN L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 5 -
+p679
+aVSteven Smith ATL 11/21/1995 ATL @ DEN L 34 14 5 14 35.7 1 5 20.0 3 4 75.0 2 1 3 3 1 0 3 5 -
+p680
+aVCraig Ehlo ATL 11/21/1995 ATL @ DEN L 13 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -
+p681
+aVMookie Blaylock ATL 11/19/1995 ATL @ SAC W 36 20 8 18 44.4 3 9 33.3 1 2 50.0 1 6 7 7 5 0 3 1 -
+p682
+aVSteven Smith ATL 11/19/1995 ATL @ SAC W 40 32 9 19 47.4 2 6 33.3 12 13 92.3 1 5 6 3 2 0 0 1 -
+p683
+aVAlan Henderson ATL 11/19/1995 ATL @ SAC W 18 7 2 5 40.0 0 0 - 3 4 75.0 3 3 6 0 1 1 1 3 -
+p684
+aVKen Norman ATL 11/19/1995 ATL @ SAC W 22 4 2 6 33.3 0 0 - 0 0 - 2 5 7 1 1 1 1 4 -
+p685
+aVCraig Ehlo ATL 11/19/1995 ATL @ SAC W 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -
+p686
+aVTodd Mundt ATL 11/19/1995 ATL @ SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p687
+aVAndrew Lang ATL 11/19/1995 ATL @ SAC W 40 18 9 17 52.9 0 1 0.0 0 0 - 7 4 11 0 1 3 3 4 -
+p688
+aVGrant Long ATL 11/19/1995 ATL @ SAC W 34 9 2 6 33.3 0 0 - 5 6 83.3 1 4 5 1 1 1 2 4 -
+p689
+aVSpud Webb ATL 11/19/1995 ATL @ SAC W 12 5 1 1 100.0 0 0 - 3 4 75.0 0 0 0 1 1 0 2 3 -
+p690
+aVStacey Augmon ATL 11/19/1995 ATL @ SAC W 25 9 2 9 22.2 0 0 - 5 7 71.4 2 0 2 1 1 0 3 2 -
+p691
+aVSpud Webb ATL 11/17/1995 ATL vs. MIA L 16 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 3 1 0 1 2 -
+p692
+aVGrant Long ATL 11/17/1995 ATL vs. MIA L 44 14 3 8 37.5 0 1 0.0 8 10 80.0 4 5 9 0 3 0 2 4 -
+p693
+aVMookie Blaylock ATL 11/17/1995 ATL vs. MIA L 32 13 5 10 50.0 2 4 50.0 1 2 50.0 0 4 4 6 4 0 1 2 -
+p694
+aVSteven Smith ATL 11/17/1995 ATL vs. MIA L 40 18 8 21 38.1 2 6 33.3 0 2 0.0 2 3 5 3 0 0 1 0 -
+p695
+aVAndrew Lang ATL 11/17/1995 ATL vs. MIA L 42 20 10 17 58.8 0 1 0.0 0 0 - 2 3 5 0 0 1 1 4 -
+p696
+aVMatt Bullard ATL 11/17/1995 ATL vs. MIA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p697
+aVAlan Henderson ATL 11/17/1995 ATL vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p698
+aVStacey Augmon ATL 11/17/1995 ATL vs. MIA L 26 18 8 14 57.1 0 0 - 2 3 66.7 2 5 7 1 2 0 1 5 -
+p699
+aVCraig Ehlo ATL 11/17/1995 ATL vs. MIA L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -
+p700
+aVTodd Mundt ATL 11/17/1995 ATL vs. MIA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p701
+aVKen Norman ATL 11/17/1995 ATL vs. MIA L 18 1 0 4 0.0 0 2 0.0 1 2 50.0 0 1 1 1 0 2 3 2 -
+p702
+aVSpud Webb ATL 11/14/1995 ATL vs. CHH W 20 9 2 3 66.7 1 1 100.0 4 4 100.0 1 0 1 0 0 0 1 1 -
+p703
+aVMookie Blaylock ATL 11/14/1995 ATL vs. CHH W 28 19 7 12 58.3 4 8 50.0 1 2 50.0 1 1 2 2 3 0 3 1 -
+p704
+aVKen Norman ATL 11/14/1995 ATL vs. CHH W 17 4 2 5 40.0 0 1 0.0 0 0 - 1 3 4 3 0 0 1 2 -
+p705
+aVSteven Smith ATL 11/14/1995 ATL vs. CHH W 24 11 3 9 33.3 1 3 33.3 4 6 66.7 1 1 2 3 0 0 1 2 -
+p706
+aVAlan Henderson ATL 11/14/1995 ATL vs. CHH W 20 7 2 5 40.0 0 0 - 3 4 75.0 3 1 4 1 0 1 0 3 -
+p707
+aVAndrew Lang ATL 11/14/1995 ATL vs. CHH W 28 13 6 12 50.0 0 0 - 1 2 50.0 2 4 6 1 2 0 2 2 -
+p708
+aVGrant Long ATL 11/14/1995 ATL vs. CHH W 43 16 7 16 43.8 0 0 - 2 2 100.0 3 7 10 3 1 2 2 2 -
+p709
+aVTodd Mundt ATL 11/14/1995 ATL vs. CHH W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p710
+aVCraig Ehlo ATL 11/14/1995 ATL vs. CHH W 24 10 4 8 50.0 0 2 0.0 2 2 100.0 3 2 5 1 2 0 1 1 -
+p711
+aVStacey Augmon ATL 11/14/1995 ATL vs. CHH W 31 20 7 11 63.6 0 0 - 6 6 100.0 2 2 4 3 4 0 1 2 -
+p712
+aVGrant Long ATL 11/11/1995 ATL @ DAL W 29 10 1 5 20.0 0 0 - 8 10 80.0 2 1 3 0 2 1 1 3 -
+p713
+aVSpud Webb ATL 11/11/1995 ATL @ DAL W 3 4 2 3 66.7 0 1 0.0 0 1 0.0 0 0 0 0 0 0 0 3 -
+p714
+aVKen Norman ATL 11/11/1995 ATL @ DAL W 31 21 9 17 52.9 2 4 50.0 1 4 25.0 3 7 10 3 1 0 3 3 -
+p715
+aVSteven Smith ATL 11/11/1995 ATL @ DAL W 31 13 5 13 38.5 1 5 20.0 2 2 100.0 1 1 2 1 0 1 0 3 -
+p716
+aVHoward Nathan ATL 11/11/1995 ATL @ DAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p717
+aVCraig Ehlo ATL 11/11/1995 ATL @ DAL W 20 3 1 6 16.7 1 2 50.0 0 0 - 4 6 10 2 2 0 1 2 -
+p718
+aVAndrew Lang ATL 11/11/1995 ATL @ DAL W 34 21 10 20 50.0 0 0 - 1 1 100.0 2 6 8 3 2 0 1 3 -
+p719
+aVMookie Blaylock ATL 11/11/1995 ATL @ DAL W 45 20 9 13 69.2 1 3 33.3 1 2 50.0 2 4 6 7 1 0 3 0 -
+p720
+aVStacey Augmon ATL 11/11/1995 ATL @ DAL W 22 12 5 11 45.5 0 0 - 2 4 50.0 5 0 5 3 1 0 0 2 -
+p721
+aVAlan Henderson ATL 11/11/1995 ATL @ DAL W 24 7 2 5 40.0 0 0 - 3 4 75.0 4 9 13 0 1 1 1 4 -
+p722
+aVSteven Smith ATL 11/09/1995 ATL @ GOS W 35 28 11 23 47.8 3 10 30.0 3 3 100.0 2 5 7 4 3 0 1 5 -
+p723
+aVMookie Blaylock ATL 11/09/1995 ATL @ GOS W 36 20 5 13 38.5 5 13 38.5 5 6 83.3 0 3 3 16 1 0 2 2 -
+p724
+aVKen Norman ATL 11/09/1995 ATL @ GOS W 21 4 2 5 40.0 0 2 0.0 0 0 - 3 1 4 4 0 0 0 1 -
+p725
+aVTodd Mundt ATL 11/09/1995 ATL @ GOS W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p726
+aVSpud Webb ATL 11/09/1995 ATL @ GOS W 12 3 0 3 0.0 0 1 0.0 3 3 100.0 0 0 0 7 0 0 1 1 -
+p727
+aVCraig Ehlo ATL 11/09/1995 ATL @ GOS W 13 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 2 1 0 2 0 -
+p728
+aVAlan Henderson ATL 11/09/1995 ATL @ GOS W 8 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -
+p729
+aVGrant Long ATL 11/09/1995 ATL @ GOS W 41 17 6 8 75.0 0 0 - 5 6 83.3 3 7 10 2 0 1 3 5 -
+p730
+aVAndrew Lang ATL 11/09/1995 ATL @ GOS W 40 20 8 12 66.7 0 0 - 4 6 66.7 0 8 8 2 3 1 0 4 -
+p731
+aVStacey Augmon ATL 11/09/1995 ATL @ GOS W 29 18 8 8 100.0 0 0 - 2 4 50.0 1 1 2 2 1 0 3 3 -
+p732
+aVSteven Smith ATL 11/08/1995 ATL @ LAC W 33 18 5 9 55.6 2 3 66.7 6 7 85.7 0 4 4 3 0 0 0 2 -
+p733
+aVSpud Webb ATL 11/08/1995 ATL @ LAC W 16 9 3 5 60.0 1 2 50.0 2 4 50.0 0 0 0 3 0 0 2 2 -
+p734
+aVMookie Blaylock ATL 11/08/1995 ATL @ LAC W 32 13 5 15 33.3 2 10 20.0 1 2 50.0 3 1 4 5 7 0 4 3 -
+p735
+aVAndrew Lang ATL 11/08/1995 ATL @ LAC W 34 16 4 11 36.4 0 0 - 8 8 100.0 1 6 7 0 0 7 0 5 -
+p736
+aVKen Norman ATL 11/08/1995 ATL @ LAC W 19 2 1 6 16.7 0 2 0.0 0 2 0.0 2 3 5 2 1 0 1 1 -
+p737
+aVMatt Bullard ATL 11/08/1995 ATL @ LAC W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -
+p738
+aVGrant Long ATL 11/08/1995 ATL @ LAC W 40 18 7 12 58.3 0 0 - 4 5 80.0 2 5 7 1 1 0 2 5 -
+p739
+aVTodd Mundt ATL 11/08/1995 ATL @ LAC W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p740
+aVStacey Augmon ATL 11/08/1995 ATL @ LAC W 30 15 2 7 28.6 0 0 - 11 13 84.6 1 3 4 1 1 0 1 2 -
+p741
+aVCraig Ehlo ATL 11/08/1995 ATL @ LAC W 9 0 0 3 0.0 0 0 - 0 0 - 2 3 5 2 0 0 0 0 -
+p742
+aVAlan Henderson ATL 11/08/1995 ATL @ LAC W 18 9 4 4 100.0 0 0 - 1 2 50.0 3 5 8 0 0 0 3 0 -
+p743
+aVCraig Ehlo ATL 11/06/1995 ATL @ UTH L 15 6 2 5 40.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 0 0 -
+p744
+aVAlan Henderson ATL 11/06/1995 ATL @ UTH L 16 1 0 4 0.0 0 0 - 1 2 50.0 4 3 7 0 1 1 2 6 -
+p745
+aVTodd Mundt ATL 11/06/1995 ATL @ UTH L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p746
+aVStacey Augmon ATL 11/06/1995 ATL @ UTH L 19 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 3 0 0 0 2 -
+p747
+aVKen Norman ATL 11/06/1995 ATL @ UTH L 26 14 5 9 55.6 4 5 80.0 0 0 - 2 2 4 0 0 0 2 3 -
+p748
+aVSpud Webb ATL 11/06/1995 ATL @ UTH L 21 12 5 6 83.3 0 1 0.0 2 3 66.7 0 1 1 2 1 0 1 1 -
+p749
+aVGrant Long ATL 11/06/1995 ATL @ UTH L 38 8 4 11 36.4 0 1 0.0 0 2 0.0 3 6 9 2 3 0 2 4 -
+p750
+aVSteven Smith ATL 11/06/1995 ATL @ UTH L 35 18 6 16 37.5 2 5 40.0 4 4 100.0 2 2 4 2 0 0 0 1 -
+p751
+aVAndrew Lang ATL 11/06/1995 ATL @ UTH L 35 23 7 12 58.3 0 0 - 9 9 100.0 3 2 5 2 0 1 2 4 -
+p752
+aVMatt Bullard ATL 11/06/1995 ATL @ UTH L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p753
+aVMookie Blaylock ATL 11/06/1995 ATL @ UTH L 27 7 2 10 20.0 1 4 25.0 2 2 100.0 2 1 3 7 1 0 4 0 -
+p754
+aVGrant Long ATL 11/04/1995 ATL vs. ORL W 28 14 5 9 55.6 0 0 - 4 4 100.0 4 2 6 2 0 0 0 3 -
+p755
+aVHoward Nathan ATL 11/04/1995 ATL vs. ORL W 4 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 1 0 -
+p756
+aVMookie Blaylock ATL 11/04/1995 ATL vs. ORL W 26 15 4 8 50.0 4 6 66.7 3 4 75.0 0 6 6 9 3 0 1 1 -
+p757
+aVAndrew Lang ATL 11/04/1995 ATL vs. ORL W 24 2 1 6 16.7 0 1 0.0 0 0 - 1 2 3 2 1 2 2 1 -
+p758
+aVCraig Ehlo ATL 11/04/1995 ATL vs. ORL W 18 7 2 6 33.3 1 4 25.0 2 2 100.0 1 1 2 2 0 0 1 3 -
+p759
+aVMatt Bullard ATL 11/04/1995 ATL vs. ORL W 8 9 4 7 57.1 1 3 33.3 0 0 - 1 2 3 0 1 0 1 2 -
+p760
+aVKen Norman ATL 11/04/1995 ATL vs. ORL W 32 14 6 10 60.0 1 3 33.3 1 5 20.0 2 7 9 3 2 2 1 2 -
+p761
+aVStacey Augmon ATL 11/04/1995 ATL vs. ORL W 28 19 9 13 69.2 0 0 - 1 2 50.0 1 0 1 0 0 0 2 1 -
+p762
+aVAlan Henderson ATL 11/04/1995 ATL vs. ORL W 20 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 2 1 0 1 1 -
+p763
+aVSpud Webb ATL 11/04/1995 ATL vs. ORL W 22 11 4 8 50.0 0 2 0.0 3 3 100.0 0 2 2 8 0 0 1 2 -
+p764
+aVSteven Smith ATL 11/04/1995 ATL vs. ORL W 26 27 10 15 66.7 7 8 87.5 0 0 - 0 3 3 3 1 1 0 4 -
+p765
+aVTodd Mundt ATL 11/04/1995 ATL vs. ORL W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -
+p766
+aVAndrew Lang ATL 11/03/1995 ATL vs. IND L 39 15 6 12 50.0 0 0 - 3 6 50.0 4 2 6 1 0 2 1 3 -
+p767
+aVSpud Webb ATL 11/03/1995 ATL vs. IND L 12 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 -
+p768
+aVCraig Ehlo ATL 11/03/1995 ATL vs. IND L 26 14 6 9 66.7 1 3 33.3 1 2 50.0 1 2 3 1 2 0 4 4 -
+p769
+aVStacey Augmon ATL 11/03/1995 ATL vs. IND L 17 13 5 8 62.5 0 0 - 3 5 60.0 0 0 0 1 1 0 0 5 -
+p770
+aVSteven Smith ATL 11/03/1995 ATL vs. IND L 29 20 3 7 42.9 0 1 0.0 14 15 93.3 2 1 3 2 2 0 0 4 -
+p771
+aVKen Norman ATL 11/03/1995 ATL vs. IND L 25 14 5 9 55.6 2 3 66.7 2 4 50.0 0 3 3 1 0 0 2 2 -
+p772
+aVGrant Long ATL 11/03/1995 ATL vs. IND L 38 10 4 9 44.4 0 0 - 2 4 50.0 5 3 8 7 1 2 2 5 -
+p773
+aVAlan Henderson ATL 11/03/1995 ATL vs. IND L 17 5 1 3 33.3 0 0 - 3 8 37.5 1 1 2 0 0 0 1 3 -
+p774
+aVMookie Blaylock ATL 11/03/1995 ATL vs. IND L 37 10 3 13 23.1 2 5 40.0 2 3 66.7 1 1 2 7 6 0 2 5 -
+p775
+a.

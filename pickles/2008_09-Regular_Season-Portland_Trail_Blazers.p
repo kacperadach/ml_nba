@@ -1,0 +1,1696 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTravis Outlaw POR 04/15/2009 POR vs. DEN W 25 21 7 9 77.8 3 3 100.0 4 6 66.7 0 3 3 0 0 1 3 3 25
+p2
+aVGreg Oden POR 04/15/2009 POR vs. DEN W 20 10 3 6 50.0 0 0 - 4 6 66.7 0 4 4 0 0 1 1 2 24
+p3
+aVRudy Fernandez POR 04/15/2009 POR vs. DEN W 26 18 6 9 66.7 6 9 66.7 0 0 - 0 3 3 2 3 0 1 4 24
+p4
+aVJerryd Bayless POR 04/15/2009 POR vs. DEN W 6 4 2 4 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -2
+p5
+aVMichael Ruffin POR 04/15/2009 POR vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p6
+aVLaMarcus Aldridge POR 04/15/2009 POR vs. DEN W 31 8 4 10 40.0 0 1 0.0 0 0 - 0 5 5 4 2 0 3 0 11
+p7
+aVBrandon Roy POR 04/15/2009 POR vs. DEN W 23 6 2 7 28.6 0 2 0.0 2 2 100.0 1 4 5 3 1 0 1 1 3
+p8
+aVSergio Rodriguez POR 04/15/2009 POR vs. DEN W 18 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 12 1 0 4 2 27
+p9
+aVSteve Blake POR 04/15/2009 POR vs. DEN W 30 9 3 7 42.9 1 3 33.3 2 2 100.0 1 3 4 4 1 0 3 1 1
+p10
+aVJoel Przybilla POR 04/15/2009 POR vs. DEN W 22 6 3 4 75.0 0 0 - 0 0 - 2 6 8 0 0 3 0 2 5
+p11
+aVNicolas Batum POR 04/15/2009 POR vs. DEN W 15 3 1 4 25.0 1 2 50.0 0 0 - 1 4 5 0 0 0 0 2 6
+p12
+aVChanning Frye POR 04/15/2009 POR vs. DEN W 17 12 5 7 71.4 1 1 100.0 1 2 50.0 1 3 4 3 0 0 0 2 17
+p13
+aVLaMarcus Aldridge POR 04/13/2009 POR vs. OKC W 27 5 2 8 25.0 0 0 - 1 2 50.0 2 6 8 2 1 1 3 1 24
+p14
+aVJerryd Bayless POR 04/13/2009 POR vs. OKC W 11 2 1 5 20.0 0 0 - 0 2 0.0 0 0 0 2 0 0 0 0 -1
+p15
+aVTravis Outlaw POR 04/13/2009 POR vs. OKC W 32 21 9 14 64.3 0 2 0.0 3 4 75.0 3 2 5 0 0 0 1 3 25
+p16
+aVSergio Rodriguez POR 04/13/2009 POR vs. OKC W 23 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 8 2 1 2 2 11
+p17
+aVBrandon Roy POR 04/13/2009 POR vs. OKC W 22 20 7 10 70.0 1 2 50.0 5 5 100.0 0 2 2 1 0 0 0 1 20
+p18
+aVMichael Ruffin POR 04/13/2009 POR vs. OKC W 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -5
+p19
+aVChanning Frye POR 04/13/2009 POR vs. OKC W 21 11 5 9 55.6 1 2 50.0 0 0 - 1 5 6 0 0 0 0 0 6
+p20
+aVSteve Blake POR 04/13/2009 POR vs. OKC W 25 7 3 9 33.3 1 3 33.3 0 0 - 1 4 5 6 1 0 1 2 19
+p21
+aVGreg Oden POR 04/13/2009 POR vs. OKC W 20 16 7 11 63.6 0 0 - 2 2 100.0 1 8 9 0 0 1 0 2 19
+p22
+aVRudy Fernandez POR 04/13/2009 POR vs. OKC W 30 14 4 7 57.1 3 6 50.0 3 3 100.0 0 3 3 2 1 0 2 0 16
+p23
+aVJoel Przybilla POR 04/13/2009 POR vs. OKC W 21 5 2 8 25.0 0 0 - 1 1 100.0 3 9 12 0 0 1 2 3 16
+p24
+aVRudy Fernandez POR 04/11/2009 POR @ LAC W 28 13 4 8 50.0 2 4 50.0 3 3 100.0 0 4 4 2 2 0 0 2 22
+p25
+aVJoel Przybilla POR 04/11/2009 POR @ LAC W 31 10 4 6 66.7 0 0 - 2 2 100.0 4 10 14 1 1 1 1 3 22
+p26
+aVTravis Outlaw POR 04/11/2009 POR @ LAC W 21 6 3 14 21.4 0 3 0.0 0 0 - 1 1 2 0 0 1 1 2 -8
+p27
+aVNicolas Batum POR 04/11/2009 POR @ LAC W 13 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -7
+p28
+aVBrandon Roy POR 04/11/2009 POR @ LAC W 40 15 5 8 62.5 0 1 0.0 5 10 50.0 0 3 3 4 2 0 3 3 19
+p29
+aVLaMarcus Aldridge POR 04/11/2009 POR @ LAC W 42 21 8 17 47.1 0 1 0.0 5 6 83.3 2 7 9 2 2 1 3 2 19
+p30
+aVSteve Blake POR 04/11/2009 POR @ LAC W 36 10 3 10 30.0 2 6 33.3 2 2 100.0 0 4 4 5 2 0 2 2 25
+p31
+aVGreg Oden POR 04/11/2009 POR @ LAC W 17 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 0 0 1 0 1 -7
+p32
+aVSergio Rodriguez POR 04/11/2009 POR @ LAC W 12 4 2 3 66.7 0 0 - 0 2 0.0 0 0 0 0 0 0 2 1 -10
+p33
+aVRudy Fernandez POR 04/10/2009 POR vs. LAL W 25 15 5 8 62.5 2 4 50.0 3 4 75.0 2 3 5 0 0 0 0 2 18
+p34
+aVJoel Przybilla POR 04/10/2009 POR vs. LAL W 24 8 3 4 75.0 0 0 - 2 2 100.0 4 9 13 0 1 2 0 2 6
+p35
+aVSteve Blake POR 04/10/2009 POR vs. LAL W 37 16 6 13 46.2 3 7 42.9 1 3 33.3 0 2 2 6 0 0 0 2 12
+p36
+aVLaMarcus Aldridge POR 04/10/2009 POR vs. LAL W 40 16 6 18 33.3 0 2 0.0 4 4 100.0 2 6 8 1 2 1 1 1 7
+p37
+aVSergio Rodriguez POR 04/10/2009 POR vs. LAL W 11 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 4 0 0 0 1 -4
+p38
+aVNicolas Batum POR 04/10/2009 POR vs. LAL W 20 5 1 5 20.0 1 2 50.0 2 2 100.0 2 0 2 0 0 1 0 2 -10
+p39
+aVBrandon Roy POR 04/10/2009 POR vs. LAL W 37 24 8 18 44.4 2 5 40.0 6 6 100.0 2 2 4 8 1 1 2 1 2
+p40
+aVTravis Outlaw POR 04/10/2009 POR vs. LAL W 22 10 2 8 25.0 1 3 33.3 5 8 62.5 0 3 3 0 0 1 2 3 8
+p41
+aVGreg Oden POR 04/10/2009 POR vs. LAL W 23 10 3 5 60.0 0 0 - 4 8 50.0 1 5 6 0 0 0 1 5 1
+p42
+aVLaMarcus Aldridge POR 04/08/2009 POR @ SAS W 39 20 10 13 76.9 0 0 - 0 0 - 2 4 6 2 2 0 3 2 2
+p43
+aVJoel Przybilla POR 04/08/2009 POR @ SAS W 26 3 1 3 33.3 0 0 - 1 2 50.0 5 12 17 0 0 0 1 1 0
+p44
+aVTravis Outlaw POR 04/08/2009 POR @ SAS W 26 12 5 10 50.0 0 1 0.0 2 2 100.0 0 2 2 0 0 1 0 2 17
+p45
+aVGreg Oden POR 04/08/2009 POR @ SAS W 22 8 4 5 80.0 0 0 - 0 1 0.0 2 6 8 0 0 2 0 5 8
+p46
+aVSteve Blake POR 04/08/2009 POR @ SAS W 36 11 4 12 33.3 3 6 50.0 0 0 - 2 3 5 7 1 0 1 1 10
+p47
+aVRudy Fernandez POR 04/08/2009 POR @ SAS W 26 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 3 3 0 0 0 21
+p48
+aVNicolas Batum POR 04/08/2009 POR @ SAS W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -10
+p49
+aVBrandon Roy POR 04/08/2009 POR @ SAS W 38 26 9 19 47.4 0 3 0.0 8 8 100.0 0 3 3 6 0 1 6 2 17
+p50
+aVSergio Rodriguez POR 04/08/2009 POR @ SAS W 9 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -5
+p51
+aVLaMarcus Aldridge POR 04/07/2009 POR @ MEM W 40 15 7 16 43.8 0 0 - 1 1 100.0 2 6 8 3 0 1 3 4 3
+p52
+aVBrandon Roy POR 04/07/2009 POR @ MEM W 38 24 7 16 43.8 2 4 50.0 8 11 72.7 2 1 3 4 3 0 3 0 -4
+p53
+aVJoel Przybilla POR 04/07/2009 POR @ MEM W 19 9 2 4 50.0 0 0 - 5 5 100.0 2 2 4 0 0 1 1 2 -1
+p54
+aVGreg Oden POR 04/07/2009 POR @ MEM W 23 10 5 8 62.5 0 0 - 0 0 - 2 3 5 0 0 1 3 5 13
+p55
+aVNicolas Batum POR 04/07/2009 POR @ MEM W 19 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 0 2 -1
+p56
+aVRudy Fernandez POR 04/07/2009 POR @ MEM W 18 15 5 10 50.0 3 6 50.0 2 2 100.0 0 2 2 2 2 0 1 2 4
+p57
+aVChanning Frye POR 04/07/2009 POR @ MEM W 6 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -9
+p58
+aVSergio Rodriguez POR 04/07/2009 POR @ MEM W 13 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 3 0 0 0 0 -1
+p59
+aVTravis Outlaw POR 04/07/2009 POR @ MEM W 28 11 5 8 62.5 0 2 0.0 1 5 20.0 1 2 3 0 1 1 2 1 9
+p60
+aVSteve Blake POR 04/07/2009 POR @ MEM W 35 2 1 1 100.0 0 0 - 0 0 - 0 7 7 1 2 0 2 1 2
+p61
+aVTravis Outlaw POR 04/05/2009 POR @ HOU L 28 15 7 13 53.8 1 3 33.3 0 0 - 3 2 5 3 0 0 0 1 -6
+p62
+aVGreg Oden POR 04/05/2009 POR @ HOU L 11 4 1 2 50.0 0 0 - 2 4 50.0 0 0 0 0 1 1 0 4 -9
+p63
+aVLaMarcus Aldridge POR 04/05/2009 POR @ HOU L 43 22 7 15 46.7 0 0 - 8 11 72.7 2 7 9 2 0 3 2 3 -14
+p64
+aVBrandon Roy POR 04/05/2009 POR @ HOU L 34 22 8 20 40.0 2 5 40.0 4 4 100.0 2 1 3 6 0 0 2 1 -5
+p65
+aVRudy Fernandez POR 04/05/2009 POR @ HOU L 25 6 2 5 40.0 1 2 50.0 1 4 25.0 0 0 0 2 1 0 1 3 -13
+p66
+aVNicolas Batum POR 04/05/2009 POR @ HOU L 24 6 2 3 66.7 1 1 100.0 1 1 100.0 2 2 4 1 1 1 0 2 -3
+p67
+aVChanning Frye POR 04/05/2009 POR @ HOU L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p68
+aVJoel Przybilla POR 04/05/2009 POR @ HOU L 20 0 0 0 - 0 0 - 0 0 - 4 4 8 1 0 1 2 4 1
+p69
+aVSteve Blake POR 04/05/2009 POR @ HOU L 38 7 3 10 30.0 1 4 25.0 0 0 - 1 3 4 3 0 1 2 3 -11
+p70
+aVSergio Rodriguez POR 04/05/2009 POR @ HOU L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -3
+p71
+aVMichael Ruffin POR 04/03/2009 POR @ OKC W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 0 0 6
+p72
+aVSteve Blake POR 04/03/2009 POR @ OKC W 29 14 6 13 46.2 2 6 33.3 0 0 - 0 2 2 10 1 0 1 2 28
+p73
+aVBrandon Roy POR 04/03/2009 POR @ OKC W 27 15 5 12 41.7 1 1 100.0 4 6 66.7 0 6 6 2 0 0 0 1 30
+p74
+aVGreg Oden POR 04/03/2009 POR @ OKC W 16 8 3 8 37.5 0 0 - 2 4 50.0 7 1 8 1 0 0 2 5 1
+p75
+aVJoel Przybilla POR 04/03/2009 POR @ OKC W 29 2 1 3 33.3 0 0 - 0 0 - 1 10 11 0 0 3 1 1 28
+p76
+aVTravis Outlaw POR 04/03/2009 POR @ OKC W 18 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 1 2 0 1 1 -5
+p77
+aVNicolas Batum POR 04/03/2009 POR @ OKC W 30 8 3 5 60.0 2 2 100.0 0 0 - 3 2 5 1 1 0 0 1 40
+p78
+aVSergio Rodriguez POR 04/03/2009 POR @ OKC W 18 8 3 5 60.0 1 1 100.0 1 1 100.0 1 1 2 3 1 0 2 1 7
+p79
+aVRudy Fernandez POR 04/03/2009 POR @ OKC W 15 0 0 3 0.0 0 3 0.0 0 2 0.0 0 2 2 1 1 0 0 5 -3
+p80
+aVChanning Frye POR 04/03/2009 POR @ OKC W 10 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 5
+p81
+aVLaMarcus Aldridge POR 04/03/2009 POR @ OKC W 39 35 14 24 58.3 0 0 - 7 8 87.5 7 11 18 2 1 1 3 1 30
+p82
+aVJerryd Bayless POR 04/03/2009 POR @ OKC W 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 8
+p83
+aVSergio Rodriguez POR 03/31/2009 POR vs. UTA W 19 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 4 2 0 2 2 -14
+p84
+aVBrandon Roy POR 03/31/2009 POR vs. UTA W 38 25 10 14 71.4 2 3 66.7 3 5 60.0 1 5 6 11 2 1 2 3 27
+p85
+aVLaMarcus Aldridge POR 03/31/2009 POR vs. UTA W 35 26 10 16 62.5 0 0 - 6 6 100.0 1 4 5 2 0 1 1 2 27
+p86
+aVNicolas Batum POR 03/31/2009 POR vs. UTA W 35 17 7 10 70.0 3 5 60.0 0 0 - 3 2 5 2 1 1 1 2 24
+p87
+aVGreg Oden POR 03/31/2009 POR vs. UTA W 11 12 4 6 66.7 0 0 - 4 5 80.0 4 4 8 0 0 2 1 4 5
+p88
+aVShavlik Randolph POR 03/31/2009 POR vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p89
+aVChanning Frye POR 03/31/2009 POR vs. UTA W 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 -5
+p90
+aVJoel Przybilla POR 03/31/2009 POR vs. UTA W 25 1 0 1 0.0 0 0 - 1 2 50.0 1 8 9 1 2 1 1 2 23
+p91
+aVSteve Blake POR 03/31/2009 POR vs. UTA W 29 10 3 4 75.0 2 2 100.0 2 2 100.0 0 0 0 9 2 0 3 4 35
+p92
+aVJerryd Bayless POR 03/31/2009 POR vs. UTA W 3 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 0 -2
+p93
+aVMichael Ruffin POR 03/31/2009 POR vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p94
+aVTravis Outlaw POR 03/31/2009 POR vs. UTA W 26 17 6 13 46.2 1 2 50.0 4 4 100.0 0 0 0 2 0 0 0 0 -7
+p95
+aVMichael Ruffin POR 03/28/2009 POR vs. MEM W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 0
+p96
+aVNicolas Batum POR 03/28/2009 POR vs. MEM W 16 4 2 6 33.3 0 2 0.0 0 0 - 2 1 3 0 0 1 0 1 10
+p97
+aVGreg Oden POR 03/28/2009 POR vs. MEM W 22 12 3 9 33.3 0 0 - 6 8 75.0 5 4 9 0 0 1 0 4 8
+p98
+aVJoel Przybilla POR 03/28/2009 POR vs. MEM W 23 7 3 4 75.0 0 0 - 1 1 100.0 2 8 10 0 0 1 1 2 12
+p99
+aVLaMarcus Aldridge POR 03/28/2009 POR vs. MEM W 39 18 8 16 50.0 0 0 - 2 2 100.0 3 4 7 2 2 2 0 0 23
+p100
+aVJerryd Bayless POR 03/28/2009 POR vs. MEM W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p101
+aVSteve Blake POR 03/28/2009 POR vs. MEM W 29 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 4 0 0 3 3 19
+p102
+aVSergio Rodriguez POR 03/28/2009 POR vs. MEM W 17 4 1 3 33.3 1 2 50.0 1 2 50.0 3 0 3 4 2 0 5 2 3
+p103
+aVRudy Fernandez POR 03/28/2009 POR vs. MEM W 26 7 3 9 33.3 1 4 25.0 0 0 - 0 1 1 1 2 0 0 0 3
+p104
+aVChanning Frye POR 03/28/2009 POR vs. MEM W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p105
+aVTravis Outlaw POR 03/28/2009 POR vs. MEM W 24 6 2 9 22.2 0 2 0.0 2 2 100.0 2 4 6 1 1 0 0 2 6
+p106
+aVBrandon Roy POR 03/28/2009 POR vs. MEM W 32 21 7 13 53.8 1 4 25.0 6 8 75.0 4 4 8 4 2 0 3 1 22
+p107
+aVGreg Oden POR 03/26/2009 POR vs. PHX W 17 8 2 2 100.0 0 0 - 4 8 50.0 0 1 1 0 0 3 1 4 7
+p108
+aVRudy Fernandez POR 03/26/2009 POR vs. PHX W 21 23 8 10 80.0 5 6 83.3 2 3 66.7 0 1 1 2 2 0 2 1 12
+p109
+aVChanning Frye POR 03/26/2009 POR vs. PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 0 -5
+p110
+aVBrandon Roy POR 03/26/2009 POR vs. PHX W 34 26 11 19 57.9 2 4 50.0 2 2 100.0 0 9 9 6 3 1 2 2 24
+p111
+aVJerryd Bayless POR 03/26/2009 POR vs. PHX W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p112
+aVJoel Przybilla POR 03/26/2009 POR vs. PHX W 28 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 1 3 15
+p113
+aVNicolas Batum POR 03/26/2009 POR vs. PHX W 17 10 4 7 57.1 0 0 - 2 2 100.0 4 1 5 3 1 0 0 0 4
+p114
+aVSteve Blake POR 03/26/2009 POR vs. PHX W 34 14 6 10 60.0 2 5 40.0 0 0 - 0 3 3 3 1 0 1 1 22
+p115
+aVLaMarcus Aldridge POR 03/26/2009 POR vs. PHX W 36 29 11 16 68.8 0 0 - 7 8 87.5 3 9 12 2 1 3 2 2 22
+p116
+aVTravis Outlaw POR 03/26/2009 POR vs. PHX W 28 11 4 10 40.0 0 3 0.0 3 4 75.0 1 2 3 5 0 0 2 2 12
+p117
+aVSergio Rodriguez POR 03/26/2009 POR vs. PHX W 14 2 1 5 20.0 0 0 - 0 0 - 2 1 3 8 0 0 1 3 -2
+p118
+aVMichael Ruffin POR 03/26/2009 POR vs. PHX W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -4
+p119
+aVLaMarcus Aldridge POR 03/23/2009 POR vs. PHI L 45 24 9 25 36.0 0 1 0.0 6 6 100.0 10 2 12 5 0 2 1 5 -10
+p120
+aVTravis Outlaw POR 03/23/2009 POR vs. PHI L 26 4 1 6 16.7 0 2 0.0 2 2 100.0 0 2 2 1 1 2 3 2 0
+p121
+aVSergio Rodriguez POR 03/23/2009 POR vs. PHI L 10 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 3 2 0 1 3 0
+p122
+aVRudy Fernandez POR 03/23/2009 POR vs. PHI L 29 19 6 12 50.0 4 9 44.4 3 3 100.0 0 2 2 0 1 0 1 4 -16
+p123
+aVBrandon Roy POR 03/23/2009 POR vs. PHI L 46 12 5 18 27.8 1 6 16.7 1 1 100.0 1 5 6 3 2 0 3 0 3
+p124
+aVGreg Oden POR 03/23/2009 POR vs. PHI L 25 13 5 7 71.4 0 0 - 3 3 100.0 4 4 8 0 0 2 0 5 8
+p125
+aVNicolas Batum POR 03/23/2009 POR vs. PHI L 16 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 1 1 0 0 1 1
+p126
+aVJoel Przybilla POR 03/23/2009 POR vs. PHI L 20 4 2 3 66.7 0 0 - 0 0 - 3 3 6 0 0 1 2 4 -2
+p127
+aVChanning Frye POR 03/23/2009 POR vs. PHI L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -8
+p128
+aVSteve Blake POR 03/23/2009 POR vs. PHI L 43 22 9 20 45.0 3 12 25.0 1 2 50.0 0 1 1 5 0 0 2 2 -6
+p129
+aVRudy Fernandez POR 03/21/2009 POR @ MIL W 29 12 4 12 33.3 3 7 42.9 1 1 100.0 0 0 0 2 0 1 1 0 2
+p130
+aVLaMarcus Aldridge POR 03/21/2009 POR @ MIL W 42 8 4 16 25.0 0 0 - 0 0 - 2 5 7 1 0 0 0 2 8
+p131
+aVJoel Przybilla POR 03/21/2009 POR @ MIL W 37 4 1 1 100.0 0 0 - 2 2 100.0 4 10 14 0 0 2 1 4 10
+p132
+aVSergio Rodriguez POR 03/21/2009 POR @ MIL W 12 2 1 1 100.0 0 0 - 0 1 0.0 0 3 3 3 1 0 3 0 -3
+p133
+aVTravis Outlaw POR 03/21/2009 POR @ MIL W 33 17 5 12 41.7 1 4 25.0 6 6 100.0 1 5 6 4 0 1 1 4 15
+p134
+aVSteve Blake POR 03/21/2009 POR @ MIL W 36 21 7 16 43.8 6 10 60.0 1 1 100.0 1 1 2 6 2 0 4 3 15
+p135
+aVBrandon Roy POR 03/21/2009 POR @ MIL W 41 30 11 19 57.9 1 3 33.3 7 9 77.8 2 6 8 7 2 1 1 2 17
+p136
+aVGreg Oden POR 03/21/2009 POR @ MIL W 9 2 1 2 50.0 0 0 - 0 1 0.0 1 2 3 0 1 0 4 5 -4
+p137
+aVSteve Blake POR 03/19/2009 POR @ CLE L 44 12 5 10 50.0 2 4 50.0 0 0 - 1 4 5 7 0 0 1 4 -4
+p138
+aVBrandon Roy POR 03/19/2009 POR @ CLE L 47 24 6 16 37.5 1 4 25.0 11 11 100.0 0 7 7 7 0 0 2 2 1
+p139
+aVJerryd Bayless POR 03/19/2009 POR @ CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p140
+aVTravis Outlaw POR 03/19/2009 POR @ CLE L 47 17 7 18 38.9 1 4 25.0 2 2 100.0 2 5 7 0 0 1 3 1 -4
+p141
+aVGreg Oden POR 03/19/2009 POR @ CLE L 12 7 1 4 25.0 0 0 - 5 8 62.5 4 5 9 0 0 0 0 5 5
+p142
+aVJoel Przybilla POR 03/19/2009 POR @ CLE L 35 13 4 4 100.0 0 0 - 5 8 62.5 1 10 11 0 0 2 2 4 -10
+p143
+aVChanning Frye POR 03/19/2009 POR @ CLE L 34 14 7 15 46.7 0 1 0.0 0 0 - 2 2 4 0 0 0 0 4 -11
+p144
+aVRudy Fernandez POR 03/19/2009 POR @ CLE L 37 3 1 6 16.7 1 4 25.0 0 0 - 1 3 4 3 0 0 0 1 -1
+p145
+aVSergio Rodriguez POR 03/19/2009 POR @ CLE L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 0
+p146
+aVTravis Outlaw POR 03/18/2009 POR @ IND W 31 15 6 16 37.5 0 4 0.0 3 3 100.0 3 1 4 0 1 0 2 1 6
+p147
+aVGreg Oden POR 03/18/2009 POR @ IND W 12 4 1 3 33.3 0 0 - 2 2 100.0 2 5 7 0 0 1 2 2 21
+p148
+aVJerryd Bayless POR 03/18/2009 POR @ IND W 17 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -3
+p149
+aVJoel Przybilla POR 03/18/2009 POR @ IND W 33 10 3 5 60.0 0 0 - 4 4 100.0 4 7 11 0 1 2 1 4 -3
+p150
+aVBrandon Roy POR 03/18/2009 POR @ IND W 34 20 8 20 40.0 2 4 50.0 2 3 66.7 1 5 6 6 2 1 1 2 25
+p151
+aVNicolas Batum POR 03/18/2009 POR @ IND W 18 5 2 3 66.7 1 1 100.0 0 0 - 1 3 4 0 0 0 1 2 2
+p152
+aVRudy Fernandez POR 03/18/2009 POR @ IND W 27 13 5 13 38.5 2 8 25.0 1 2 50.0 0 3 3 1 0 0 0 0 -10
+p153
+aVLaMarcus Aldridge POR 03/18/2009 POR @ IND W 32 12 5 14 35.7 1 1 100.0 1 4 25.0 0 7 7 2 0 1 2 1 11
+p154
+aVChanning Frye POR 03/18/2009 POR @ IND W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p155
+aVSteve Blake POR 03/18/2009 POR @ IND W 34 14 6 10 60.0 2 4 50.0 0 0 - 0 3 3 8 2 1 2 2 7
+p156
+aVSteve Blake POR 03/16/2009 POR @ MEM W 38 13 5 9 55.6 3 6 50.0 0 0 - 0 1 1 6 1 0 2 1 18
+p157
+aVJoel Przybilla POR 03/16/2009 POR @ MEM W 33 13 5 7 71.4 0 0 - 3 3 100.0 5 8 13 0 1 4 2 4 18
+p158
+aVChanning Frye POR 03/16/2009 POR @ MEM W 17 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 1 0 2 0 2 -8
+p159
+aVNicolas Batum POR 03/16/2009 POR @ MEM W 19 5 2 2 100.0 1 1 100.0 0 0 - 1 0 1 1 0 0 1 4 17
+p160
+aVJerryd Bayless POR 03/16/2009 POR @ MEM W 11 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 3 1 -11
+p161
+aVTravis Outlaw POR 03/16/2009 POR @ MEM W 24 18 6 11 54.5 2 4 50.0 4 4 100.0 1 4 5 1 0 0 1 3 -5
+p162
+aVBrandon Roy POR 03/16/2009 POR @ MEM W 39 20 8 19 42.1 2 4 50.0 2 3 66.7 3 3 6 9 0 0 3 3 8
+p163
+aVRudy Fernandez POR 03/16/2009 POR @ MEM W 24 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 2 1 0 0 2 -1
+p164
+aVLaMarcus Aldridge POR 03/16/2009 POR @ MEM W 34 22 8 15 53.3 1 1 100.0 5 6 83.3 1 7 8 4 2 1 1 5 19
+p165
+aVJerryd Bayless POR 03/15/2009 POR @ ATL L 10 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -7
+p166
+aVNicolas Batum POR 03/15/2009 POR @ ATL L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 4 -8
+p167
+aVMichael Ruffin POR 03/15/2009 POR @ ATL L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p168
+aVSteve Blake POR 03/15/2009 POR @ ATL L 38 9 4 14 28.6 1 6 16.7 0 0 - 1 2 3 3 1 0 1 0 -8
+p169
+aVLaMarcus Aldridge POR 03/15/2009 POR @ ATL L 38 19 9 15 60.0 0 0 - 1 2 50.0 3 3 6 0 0 1 3 3 -17
+p170
+aVRudy Fernandez POR 03/15/2009 POR @ ATL L 17 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 0 0 1 0 0 -9
+p171
+aVTravis Outlaw POR 03/15/2009 POR @ ATL L 32 10 4 9 44.4 0 0 - 2 2 100.0 0 6 6 1 1 0 2 1 -15
+p172
+aVSergio Rodriguez POR 03/15/2009 POR @ ATL L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 -3
+p173
+aVChanning Frye POR 03/15/2009 POR @ ATL L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -10
+p174
+aVJoel Przybilla POR 03/15/2009 POR @ ATL L 28 8 3 4 75.0 0 0 - 2 4 50.0 3 11 14 1 1 1 5 3 0
+p175
+aVShavlik Randolph POR 03/15/2009 POR @ ATL L 3 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 0
+p176
+aVBrandon Roy POR 03/15/2009 POR @ ATL L 39 29 11 19 57.9 1 2 50.0 6 6 100.0 1 3 4 5 0 0 1 0 -13
+p177
+aVBrandon Roy POR 03/13/2009 POR vs. NJN W 45 31 8 21 38.1 0 2 0.0 15 17 88.2 1 1 2 3 2 0 0 1 13
+p178
+aVSteve Blake POR 03/13/2009 POR vs. NJN W 40 15 5 8 62.5 3 5 60.0 2 2 100.0 0 3 3 5 0 0 4 3 12
+p179
+aVJerryd Bayless POR 03/13/2009 POR vs. NJN W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 -5
+p180
+aVSergio Rodriguez POR 03/13/2009 POR vs. NJN W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -6
+p181
+aVJoel Przybilla POR 03/13/2009 POR vs. NJN W 28 3 0 1 0.0 0 0 - 3 4 75.0 1 2 3 0 0 5 1 4 0
+p182
+aVChanning Frye POR 03/13/2009 POR vs. NJN W 8 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 0 0 1 0 1 -9
+p183
+aVNicolas Batum POR 03/13/2009 POR vs. NJN W 32 20 7 8 87.5 2 2 100.0 4 4 100.0 0 4 4 2 1 2 1 5 21
+p184
+aVTravis Outlaw POR 03/13/2009 POR vs. NJN W 30 13 4 10 40.0 1 2 50.0 4 6 66.7 2 8 10 1 1 2 0 2 12
+p185
+aVLaMarcus Aldridge POR 03/13/2009 POR vs. NJN W 41 19 4 12 33.3 0 0 - 11 12 91.7 7 3 10 3 1 0 1 2 7
+p186
+aVBrandon Roy POR 03/11/2009 POR vs. DAL L 43 22 7 20 35.0 1 4 25.0 7 8 87.5 1 2 3 6 1 0 4 2 -2
+p187
+aVJoel Przybilla POR 03/11/2009 POR vs. DAL L 34 9 3 6 50.0 0 0 - 3 5 60.0 6 9 15 2 0 4 0 1 -3
+p188
+aVSergio Rodriguez POR 03/11/2009 POR vs. DAL L 12 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 4 1 0 0 2 -1
+p189
+aVNicolas Batum POR 03/11/2009 POR vs. DAL L 15 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 1 2 2 3
+p190
+aVJerryd Bayless POR 03/11/2009 POR vs. DAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p191
+aVLaMarcus Aldridge POR 03/11/2009 POR vs. DAL L 44 23 9 16 56.3 0 0 - 5 5 100.0 1 10 11 2 1 1 1 3 3
+p192
+aVSteve Blake POR 03/11/2009 POR vs. DAL L 35 13 5 12 41.7 3 6 50.0 0 0 - 1 1 2 5 2 1 1 3 3
+p193
+aVTravis Outlaw POR 03/11/2009 POR vs. DAL L 33 20 7 13 53.8 4 5 80.0 2 2 100.0 0 2 2 0 1 0 1 2 -8
+p194
+aVChanning Frye POR 03/11/2009 POR vs. DAL L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 -8
+p195
+aVTravis Outlaw POR 03/09/2009 POR vs. LAL W 25 22 6 11 54.5 3 5 60.0 7 10 70.0 0 0 0 2 0 0 0 4 16
+p196
+aVJoel Przybilla POR 03/09/2009 POR vs. LAL W 35 12 6 10 60.0 0 0 - 0 3 0.0 7 11 18 0 1 1 0 2 26
+p197
+aVJerryd Bayless POR 03/09/2009 POR vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p198
+aVSteve Blake POR 03/09/2009 POR vs. LAL W 34 8 2 8 25.0 2 5 40.0 2 2 100.0 0 2 2 6 2 0 0 1 16
+p199
+aVLaMarcus Aldridge POR 03/09/2009 POR vs. LAL W 40 16 7 15 46.7 2 4 50.0 0 0 - 3 10 13 4 0 2 4 1 23
+p200
+aVNicolas Batum POR 03/09/2009 POR vs. LAL W 22 8 4 9 44.4 0 2 0.0 0 1 0.0 4 1 5 1 1 0 0 2 -3
+p201
+aVBrandon Roy POR 03/09/2009 POR vs. LAL W 38 27 8 18 44.4 1 4 25.0 10 11 90.9 0 6 6 5 1 0 1 1 30
+p202
+aVShavlik Randolph POR 03/09/2009 POR vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -10
+p203
+aVSergio Rodriguez POR 03/09/2009 POR vs. LAL W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 6 0 0 3 1 -12
+p204
+aVRudy Fernandez POR 03/09/2009 POR vs. LAL W 13 11 4 4 100.0 2 2 100.0 1 1 100.0 0 1 1 0 0 0 0 2 16
+p205
+aVChanning Frye POR 03/09/2009 POR vs. LAL W 15 7 3 4 75.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 2 -7
+p206
+aVSergio Rodriguez POR 03/07/2009 POR vs. MIN W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p207
+aVLaMarcus Aldridge POR 03/07/2009 POR vs. MIN W 40 15 2 14 14.3 0 0 - 11 12 91.7 7 4 11 0 1 0 1 1 3
+p208
+aVRudy Fernandez POR 03/07/2009 POR vs. MIN W 24 5 2 5 40.0 1 4 25.0 0 0 - 0 0 0 1 1 0 1 1 -1
+p209
+aVJerryd Bayless POR 03/07/2009 POR vs. MIN W 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -3
+p210
+aVNicolas Batum POR 03/07/2009 POR vs. MIN W 23 12 4 7 57.1 0 3 0.0 4 4 100.0 3 3 6 3 0 1 0 2 -1
+p211
+aVChanning Frye POR 03/07/2009 POR vs. MIN W 15 6 2 4 50.0 0 1 0.0 2 2 100.0 0 5 5 0 0 2 0 0 4
+p212
+aVBrandon Roy POR 03/07/2009 POR vs. MIN W 38 31 13 19 68.4 2 2 100.0 3 4 75.0 2 2 4 6 1 0 2 1 4
+p213
+aVJoel Przybilla POR 03/07/2009 POR vs. MIN W 21 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 2 2 -8
+p214
+aVSteve Blake POR 03/07/2009 POR vs. MIN W 35 8 3 8 37.5 2 5 40.0 0 0 - 0 3 3 2 0 0 0 2 7
+p215
+aVTravis Outlaw POR 03/07/2009 POR vs. MIN W 31 14 7 15 46.7 0 2 0.0 0 0 - 3 6 9 0 2 3 1 2 7
+p216
+aVBrandon Roy POR 03/05/2009 POR @ DEN L 40 22 9 16 56.3 0 2 0.0 4 9 44.4 0 1 1 4 1 0 1 1 -7
+p217
+aVSteve Blake POR 03/05/2009 POR @ DEN L 34 8 3 7 42.9 2 4 50.0 0 0 - 1 1 2 5 1 0 2 1 -8
+p218
+aVChanning Frye POR 03/05/2009 POR @ DEN L 13 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 2 4 -12
+p219
+aVLaMarcus Aldridge POR 03/05/2009 POR @ DEN L 40 19 8 15 53.3 0 0 - 3 3 100.0 1 3 4 1 1 0 3 4 -18
+p220
+aVJerryd Bayless POR 03/05/2009 POR @ DEN L 13 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 1 0 0 2 3 -1
+p221
+aVSergio Rodriguez POR 03/05/2009 POR @ DEN L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -6
+p222
+aVTravis Outlaw POR 03/05/2009 POR @ DEN L 27 15 7 10 70.0 1 3 33.3 0 0 - 0 6 6 0 0 0 1 2 -17
+p223
+aVMichael Ruffin POR 03/05/2009 POR @ DEN L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p224
+aVRudy Fernandez POR 03/05/2009 POR @ DEN L 21 11 3 7 42.9 3 5 60.0 2 3 66.7 0 2 2 1 0 0 1 1 -7
+p225
+aVJoel Przybilla POR 03/05/2009 POR @ DEN L 27 5 1 2 50.0 0 0 - 3 4 75.0 3 9 12 1 1 0 0 2 -1
+p226
+aVNicolas Batum POR 03/05/2009 POR @ DEN L 15 7 3 6 50.0 0 2 0.0 1 2 50.0 0 1 1 2 1 0 1 1 -2
+p227
+aVJerryd Bayless POR 03/04/2009 POR vs. IND W 13 5 2 5 40.0 0 1 0.0 1 1 100.0 0 1 1 1 0 1 2 3 10
+p228
+aVBrandon Roy POR 03/04/2009 POR vs. IND W 42 28 10 19 52.6 0 2 0.0 8 8 100.0 1 5 6 3 2 0 4 1 7
+p229
+aVSergio Rodriguez POR 03/04/2009 POR vs. IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p230
+aVNicolas Batum POR 03/04/2009 POR vs. IND W 20 5 2 4 50.0 1 1 100.0 0 0 - 2 1 3 0 1 1 0 2 -10
+p231
+aVChanning Frye POR 03/04/2009 POR vs. IND W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p232
+aVLaMarcus Aldridge POR 03/04/2009 POR vs. IND W 39 21 8 17 47.1 0 0 - 5 7 71.4 4 3 7 1 1 0 0 2 -6
+p233
+aVSteve Blake POR 03/04/2009 POR vs. IND W 29 9 2 9 22.2 2 6 33.3 3 3 100.0 1 1 2 2 0 0 1 2 -3
+p234
+aVRudy Fernandez POR 03/04/2009 POR vs. IND W 27 8 2 6 33.3 1 1 100.0 3 3 100.0 0 3 3 4 1 0 0 0 8
+p235
+aVJoel Przybilla POR 03/04/2009 POR vs. IND W 25 10 3 7 42.9 0 0 - 4 7 57.1 8 4 12 0 0 1 2 3 -1
+p236
+aVTravis Outlaw POR 03/04/2009 POR vs. IND W 34 21 9 15 60.0 0 1 0.0 3 3 100.0 1 5 6 1 1 1 2 2 15
+p237
+aVSteve Blake POR 03/01/2009 POR vs. SAS W 30 15 5 8 62.5 3 3 100.0 2 2 100.0 1 1 2 6 0 0 3 1 11
+p238
+aVBrandon Roy POR 03/01/2009 POR vs. SAS W 27 26 11 17 64.7 2 4 50.0 2 2 100.0 0 1 1 2 1 0 0 1 17
+p239
+aVSergio Rodriguez POR 03/01/2009 POR vs. SAS W 11 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 3 0 0 1 3 10
+p240
+aVTravis Outlaw POR 03/01/2009 POR vs. SAS W 27 5 1 6 16.7 0 1 0.0 3 4 75.0 0 6 6 1 1 2 1 2 13
+p241
+aVRudy Fernandez POR 03/01/2009 POR vs. SAS W 30 6 2 10 20.0 2 7 28.6 0 1 0.0 1 1 2 3 2 0 1 1 8
+p242
+aVShavlik Randolph POR 03/01/2009 POR vs. SAS W 3 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -4
+p243
+aVJoel Przybilla POR 03/01/2009 POR vs. SAS W 28 3 1 3 33.3 0 0 - 1 2 50.0 2 8 10 1 0 1 2 3 11
+p244
+aVNicolas Batum POR 03/01/2009 POR vs. SAS W 22 4 1 6 16.7 0 2 0.0 2 2 100.0 3 3 6 1 3 0 1 1 -1
+p245
+aVChanning Frye POR 03/01/2009 POR vs. SAS W 20 12 5 6 83.3 0 1 0.0 2 2 100.0 1 3 4 0 0 0 2 4 7
+p246
+aVLaMarcus Aldridge POR 03/01/2009 POR vs. SAS W 35 26 10 14 71.4 0 0 - 6 8 75.0 1 6 7 4 3 0 0 1 21
+p247
+aVJerryd Bayless POR 03/01/2009 POR vs. SAS W 7 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 1 0 0 0 1 -3
+p248
+aVChanning Frye POR 02/27/2009 POR @ MIN W 12 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 0 2 0 0 3 -10
+p249
+aVJoel Przybilla POR 02/27/2009 POR @ MIN W 33 4 2 4 50.0 0 0 - 0 0 - 0 8 8 0 1 3 1 2 30
+p250
+aVBrandon Roy POR 02/27/2009 POR @ MIN W 31 19 7 12 58.3 1 1 100.0 4 5 80.0 0 2 2 5 1 0 2 1 22
+p251
+aVShavlik Randolph POR 02/27/2009 POR @ MIN W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -2
+p252
+aVSteve Blake POR 02/27/2009 POR @ MIN W 20 9 4 7 57.1 1 1 100.0 0 0 - 2 0 2 6 2 0 0 3 27
+p253
+aVJerryd Bayless POR 02/27/2009 POR @ MIN W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 4 0 0 0 2 0
+p254
+aVRudy Fernandez POR 02/27/2009 POR @ MIN W 28 18 6 9 66.7 3 6 50.0 3 3 100.0 0 4 4 3 0 0 1 1 10
+p255
+aVMichael Ruffin POR 02/27/2009 POR @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p256
+aVNicolas Batum POR 02/27/2009 POR @ MIN W 17 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 1 0 0 1 1 15
+p257
+aVLaMarcus Aldridge POR 02/27/2009 POR @ MIN W 33 15 6 15 40.0 0 0 - 3 5 60.0 4 6 10 2 1 0 0 1 12
+p258
+aVTravis Outlaw POR 02/27/2009 POR @ MIN W 30 15 6 10 60.0 1 4 25.0 2 7 28.6 0 2 2 1 0 1 0 3 4
+p259
+aVSergio Rodriguez POR 02/27/2009 POR @ MIN W 15 12 3 5 60.0 2 3 66.7 4 4 100.0 1 0 1 3 1 0 2 2 -7
+p260
+aVSergio Rodriguez POR 02/25/2009 POR @ SAS L 20 8 2 5 40.0 0 1 0.0 4 4 100.0 3 1 4 7 1 0 1 3 1
+p261
+aVNicolas Batum POR 02/25/2009 POR @ SAS L 16 8 3 7 42.9 2 3 66.7 0 0 - 0 1 1 0 1 0 1 3 -5
+p262
+aVJoel Przybilla POR 02/25/2009 POR @ SAS L 22 8 3 5 60.0 0 0 - 2 4 50.0 4 6 10 0 1 1 1 3 -6
+p263
+aVBrandon Roy POR 02/25/2009 POR @ SAS L 39 14 5 18 27.8 0 2 0.0 4 4 100.0 2 3 5 3 1 0 1 0 -18
+p264
+aVLaMarcus Aldridge POR 02/25/2009 POR @ SAS L 40 13 4 9 44.4 0 0 - 5 5 100.0 2 5 7 1 0 0 0 0 -22
+p265
+aVSteve Blake POR 02/25/2009 POR @ SAS L 24 0 0 9 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 0 -11
+p266
+aVTravis Outlaw POR 02/25/2009 POR @ SAS L 31 13 6 9 66.7 1 1 100.0 0 0 - 0 5 5 0 1 1 0 2 -8
+p267
+aVRudy Fernandez POR 02/25/2009 POR @ SAS L 24 5 2 8 25.0 1 6 16.7 0 0 - 0 3 3 0 0 0 0 0 -2
+p268
+aVChanning Frye POR 02/25/2009 POR @ SAS L 25 15 7 15 46.7 1 2 50.0 0 0 - 1 6 7 0 0 0 1 2 -4
+p269
+aVNicolas Batum POR 02/24/2009 POR @ HOU L 27 14 5 6 83.3 3 3 100.0 1 1 100.0 0 1 1 0 1 1 0 4 22
+p270
+aVBrandon Roy POR 02/24/2009 POR @ HOU L 41 24 10 23 43.5 0 4 0.0 4 4 100.0 2 3 5 5 0 0 3 3 7
+p271
+aVSteve Blake POR 02/24/2009 POR @ HOU L 40 9 3 7 42.9 1 2 50.0 2 2 100.0 0 7 7 5 1 0 1 2 4
+p272
+aVJerryd Bayless POR 02/24/2009 POR @ HOU L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 1
+p273
+aVTravis Outlaw POR 02/24/2009 POR @ HOU L 27 15 7 14 50.0 1 1 100.0 0 0 - 0 3 3 0 1 1 0 1 -17
+p274
+aVChanning Frye POR 02/24/2009 POR @ HOU L 9 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 3 -6
+p275
+aVLaMarcus Aldridge POR 02/24/2009 POR @ HOU L 35 21 7 19 36.8 0 0 - 7 10 70.0 2 6 8 2 1 2 3 5 16
+p276
+aVRudy Fernandez POR 02/24/2009 POR @ HOU L 16 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 -19
+p277
+aVShavlik Randolph POR 02/24/2009 POR @ HOU L 4 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 1 1 1 -6
+p278
+aVSergio Rodriguez POR 02/24/2009 POR @ HOU L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p279
+aVJoel Przybilla POR 02/24/2009 POR @ HOU L 30 4 2 4 50.0 0 0 - 0 0 - 2 6 8 0 1 1 2 3 -15
+p280
+aVMichael Ruffin POR 02/22/2009 POR vs. LAC W 3 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 2
+p281
+aVBrandon Roy POR 02/22/2009 POR vs. LAC W 33 20 7 11 63.6 1 2 50.0 5 6 83.3 2 6 8 9 0 0 1 2 15
+p282
+aVSergio Rodriguez POR 02/22/2009 POR vs. LAC W 17 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 6 0 0 2 1 9
+p283
+aVRudy Fernandez POR 02/22/2009 POR vs. LAC W 16 11 4 6 66.7 2 4 50.0 1 2 50.0 0 3 3 1 0 0 2 1 25
+p284
+aVJoel Przybilla POR 02/22/2009 POR vs. LAC W 20 6 3 4 75.0 0 0 - 0 2 0.0 1 8 9 0 0 0 1 4 24
+p285
+aVChanning Frye POR 02/22/2009 POR vs. LAC W 24 4 2 5 40.0 0 1 0.0 0 0 - 0 7 7 1 2 0 1 3 14
+p286
+aVJerryd Bayless POR 02/22/2009 POR vs. LAC W 12 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 3 -9
+p287
+aVLaMarcus Aldridge POR 02/22/2009 POR vs. LAC W 32 28 13 20 65.0 0 0 - 2 2 100.0 4 6 10 1 1 0 0 2 27
+p288
+aVSteve Blake POR 02/22/2009 POR vs. LAC W 26 6 2 7 28.6 2 3 66.7 0 0 - 0 1 1 17 1 0 2 2 21
+p289
+aVShavlik Randolph POR 02/22/2009 POR vs. LAC W 8 9 4 8 50.0 1 1 100.0 0 2 0.0 5 2 7 0 0 0 1 0 -1
+p290
+aVNicolas Batum POR 02/22/2009 POR vs. LAC W 25 10 4 9 44.4 2 6 33.3 0 0 - 0 3 3 1 2 0 2 4 4
+p291
+aVTravis Outlaw POR 02/22/2009 POR vs. LAC W 24 15 6 13 46.2 1 7 14.3 2 2 100.0 0 3 3 0 0 0 1 0 14
+p292
+aVChanning Frye POR 02/20/2009 POR vs. ATL W 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 2 0 0 2 5
+p293
+aVSergio Rodriguez POR 02/20/2009 POR vs. ATL W 11 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 2 0 4
+p294
+aVJoel Przybilla POR 02/20/2009 POR vs. ATL W 20 6 3 6 50.0 0 0 - 0 0 - 4 6 10 0 2 0 0 4 -2
+p295
+aVNicolas Batum POR 02/20/2009 POR vs. ATL W 16 2 1 6 16.7 0 3 0.0 0 0 - 2 0 2 2 1 2 0 2 -2
+p296
+aVMichael Ruffin POR 02/20/2009 POR vs. ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p297
+aVBrandon Roy POR 02/20/2009 POR vs. ATL W 40 27 12 22 54.5 2 3 66.7 1 2 50.0 2 5 7 5 2 0 0 1 8
+p298
+aVTravis Outlaw POR 02/20/2009 POR vs. ATL W 32 12 3 5 60.0 2 3 66.7 4 4 100.0 1 5 6 0 0 1 0 2 10
+p299
+aVSteve Blake POR 02/20/2009 POR vs. ATL W 34 14 6 14 42.9 1 7 14.3 1 3 33.3 0 1 1 5 0 0 1 2 0
+p300
+aVLaMarcus Aldridge POR 02/20/2009 POR vs. ATL W 43 24 11 20 55.0 0 0 - 2 2 100.0 7 4 11 2 0 1 3 2 13
+p301
+aVRudy Fernandez POR 02/20/2009 POR vs. ATL W 28 19 6 11 54.5 3 7 42.9 4 5 80.0 1 1 2 4 0 0 2 1 12
+p302
+aVJerryd Bayless POR 02/20/2009 POR vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 4
+p303
+aVLaMarcus Aldridge POR 02/18/2009 POR vs. MEM W 40 15 6 17 35.3 0 0 - 3 4 75.0 2 4 6 2 1 1 1 3 -9
+p304
+aVSergio Rodriguez POR 02/18/2009 POR vs. MEM W 17 9 3 6 50.0 1 4 25.0 2 4 50.0 0 2 2 3 0 0 1 2 1
+p305
+aVRudy Fernandez POR 02/18/2009 POR vs. MEM W 24 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 3 1 0 2 1 -3
+p306
+aVJoel Przybilla POR 02/18/2009 POR vs. MEM W 32 6 3 8 37.5 0 0 - 0 0 - 3 12 15 0 2 3 1 4 19
+p307
+aVTravis Outlaw POR 02/18/2009 POR vs. MEM W 23 9 3 9 33.3 1 3 33.3 2 2 100.0 1 2 3 1 0 1 1 3 11
+p308
+aVBrandon Roy POR 02/18/2009 POR vs. MEM W 37 24 9 15 60.0 1 1 100.0 5 5 100.0 2 3 5 9 1 0 4 2 0
+p309
+aVSteve Blake POR 02/18/2009 POR vs. MEM W 31 7 3 6 50.0 1 4 25.0 0 0 - 0 1 1 8 0 0 1 1 3
+p310
+aVChanning Frye POR 02/18/2009 POR vs. MEM W 19 5 2 6 33.3 0 0 - 1 1 100.0 2 4 6 0 0 0 2 2 -10
+p311
+aVNicolas Batum POR 02/18/2009 POR vs. MEM W 17 11 4 5 80.0 1 2 50.0 2 2 100.0 0 0 0 1 0 1 0 0 8
+p312
+aVGreg Oden POR 02/12/2009 POR @ GSW L 18 8 4 5 80.0 0 0 - 0 0 - 2 9 11 0 0 0 3 5 8
+p313
+aVRudy Fernandez POR 02/12/2009 POR @ GSW L 25 9 3 7 42.9 2 5 40.0 1 1 100.0 0 1 1 5 2 0 1 4 8
+p314
+aVSergio Rodriguez POR 02/12/2009 POR @ GSW L 31 10 5 11 45.5 0 1 0.0 0 0 - 0 4 4 7 3 0 4 4 5
+p315
+aVChanning Frye POR 02/12/2009 POR @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -1
+p316
+aVJoel Przybilla POR 02/12/2009 POR @ GSW L 19 2 1 4 25.0 0 0 - 0 0 - 4 2 6 0 0 1 1 4 -13
+p317
+aVJerryd Bayless POR 02/12/2009 POR @ GSW L 16 4 1 5 20.0 1 1 100.0 1 2 50.0 1 1 2 0 0 0 2 2 -10
+p318
+aVNicolas Batum POR 02/12/2009 POR @ GSW L 14 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 0 0 1 1 0 -14
+p319
+aVLaMarcus Aldridge POR 02/12/2009 POR @ GSW L 36 20 8 13 61.5 0 0 - 4 4 100.0 3 0 3 1 0 2 5 6 -3
+p320
+aVTravis Outlaw POR 02/12/2009 POR @ GSW L 35 8 3 14 21.4 0 1 0.0 2 2 100.0 1 11 12 1 0 1 3 3 -8
+p321
+aVBrandon Roy POR 02/12/2009 POR @ GSW L 42 37 14 21 66.7 3 5 60.0 6 8 75.0 2 0 2 2 2 0 3 4 -7
+p322
+aVJerryd Bayless POR 02/11/2009 POR vs. OKC W 28 12 5 11 45.5 0 0 - 2 2 100.0 1 0 1 8 1 0 1 1 11
+p323
+aVRudy Fernandez POR 02/11/2009 POR vs. OKC W 24 13 4 12 33.3 3 8 37.5 2 2 100.0 0 3 3 4 1 0 1 4 11
+p324
+aVSergio Rodriguez POR 02/11/2009 POR vs. OKC W 20 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 4 0 0 4 3 3
+p325
+aVJoel Przybilla POR 02/11/2009 POR vs. OKC W 23 6 2 2 100.0 0 0 - 2 2 100.0 4 10 14 1 1 1 0 2 13
+p326
+aVLaMarcus Aldridge POR 02/11/2009 POR vs. OKC W 35 11 5 13 38.5 0 0 - 1 2 50.0 6 4 10 2 0 1 1 4 12
+p327
+aVNicolas Batum POR 02/11/2009 POR vs. OKC W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 2 0 2 0 2
+p328
+aVBrandon Roy POR 02/11/2009 POR vs. OKC W 38 22 8 18 44.4 1 3 33.3 5 6 83.3 0 6 6 5 0 0 1 2 6
+p329
+aVGreg Oden POR 02/11/2009 POR vs. OKC W 25 16 8 10 80.0 0 0 - 0 2 0.0 4 6 10 0 1 3 3 5 1
+p330
+aVTravis Outlaw POR 02/11/2009 POR vs. OKC W 36 21 8 15 53.3 3 6 50.0 2 4 50.0 0 2 2 4 2 0 2 1 11
+p331
+aVLaMarcus Aldridge POR 02/08/2009 POR vs. NYK W 36 16 8 15 53.3 0 0 - 0 2 0.0 5 2 7 1 0 1 1 2 -9
+p332
+aVRudy Fernandez POR 02/08/2009 POR vs. NYK W 23 6 2 5 40.0 1 4 25.0 1 2 50.0 1 3 4 2 2 0 1 1 -3
+p333
+aVSergio Rodriguez POR 02/08/2009 POR vs. NYK W 37 16 5 11 45.5 4 5 80.0 2 2 100.0 0 3 3 6 2 0 2 3 -2
+p334
+aVNicolas Batum POR 02/08/2009 POR vs. NYK W 16 4 2 3 66.7 0 1 0.0 0 0 - 0 5 5 3 1 0 2 0 2
+p335
+aVGreg Oden POR 02/08/2009 POR vs. NYK W 28 17 7 11 63.6 0 0 - 3 5 60.0 6 6 12 1 0 6 2 5 9
+p336
+aVBrandon Roy POR 02/08/2009 POR vs. NYK W 40 19 9 16 56.3 1 4 25.0 0 0 - 0 4 4 8 1 0 1 1 14
+p337
+aVTravis Outlaw POR 02/08/2009 POR vs. NYK W 31 23 8 16 50.0 2 4 50.0 5 6 83.3 1 1 2 2 1 0 2 2 2
+p338
+aVJoel Przybilla POR 02/08/2009 POR vs. NYK W 18 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 1 -7
+p339
+aVJerryd Bayless POR 02/08/2009 POR vs. NYK W 10 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 3 2 -1
+p340
+aVTravis Outlaw POR 02/06/2009 POR @ OKC L 34 20 8 13 61.5 0 3 0.0 4 7 57.1 0 6 6 1 0 1 4 2 -3
+p341
+aVBrandon Roy POR 02/06/2009 POR @ OKC L 45 32 12 27 44.4 3 4 75.0 5 6 83.3 5 4 9 6 0 0 3 1 -5
+p342
+aVGreg Oden POR 02/06/2009 POR @ OKC L 16 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 2 0 0 2 4 -8
+p343
+aVJerryd Bayless POR 02/06/2009 POR @ OKC L 26 3 0 3 0.0 0 1 0.0 3 4 75.0 1 0 1 2 0 0 2 3 -5
+p344
+aVSergio Rodriguez POR 02/06/2009 POR @ OKC L 22 8 3 6 50.0 1 2 50.0 1 2 50.0 0 6 6 1 0 0 2 3 -4
+p345
+aVRudy Fernandez POR 02/06/2009 POR @ OKC L 24 3 1 6 16.7 1 5 20.0 0 0 - 0 2 2 3 2 0 0 2 -3
+p346
+aVLaMarcus Aldridge POR 02/06/2009 POR @ OKC L 43 18 9 13 69.2 0 0 - 0 0 - 1 5 6 3 2 2 0 5 -7
+p347
+aVNicolas Batum POR 02/06/2009 POR @ OKC L 17 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 0 0 2 0 2 -5
+p348
+aVJoel Przybilla POR 02/06/2009 POR @ OKC L 14 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 -5
+p349
+aVJoel Przybilla POR 02/04/2009 POR @ DAL L 22 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 1 3 2 3 2
+p350
+aVNicolas Batum POR 02/04/2009 POR @ DAL L 13 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 1 -8
+p351
+aVLaMarcus Aldridge POR 02/04/2009 POR @ DAL L 39 21 8 16 50.0 0 0 - 5 5 100.0 1 4 5 1 3 1 0 2 -3
+p352
+aVGreg Oden POR 02/04/2009 POR @ DAL L 21 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -14
+p353
+aVSergio Rodriguez POR 02/04/2009 POR @ DAL L 14 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 1 0 1 2 -5
+p354
+aVTravis Outlaw POR 02/04/2009 POR @ DAL L 33 13 5 10 50.0 1 2 50.0 2 3 66.7 0 4 4 4 1 0 0 3 4
+p355
+aVJerryd Bayless POR 02/04/2009 POR @ DAL L 34 14 6 9 66.7 0 0 - 2 2 100.0 1 3 4 4 0 0 4 5 0
+p356
+aVBrandon Roy POR 02/04/2009 POR @ DAL L 40 26 10 20 50.0 4 5 80.0 2 2 100.0 0 7 7 2 0 0 5 1 -5
+p357
+aVRudy Fernandez POR 02/04/2009 POR @ DAL L 25 12 3 8 37.5 2 3 66.7 4 5 80.0 2 1 3 1 0 0 1 2 4
+p358
+aVBrandon Roy POR 02/02/2009 POR @ NOH W 39 6 2 10 20.0 0 1 0.0 2 2 100.0 2 2 4 5 1 0 3 2 6
+p359
+aVJerryd Bayless POR 02/02/2009 POR @ NOH W 24 19 7 9 77.8 0 1 0.0 5 7 71.4 0 2 2 6 2 0 1 4 16
+p360
+aVSergio Rodriguez POR 02/02/2009 POR @ NOH W 19 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 2 -5
+p361
+aVTravis Outlaw POR 02/02/2009 POR @ NOH W 23 16 7 11 63.6 0 0 - 2 2 100.0 0 6 6 0 0 0 4 4 13
+p362
+aVRudy Fernandez POR 02/02/2009 POR @ NOH W 31 15 4 8 50.0 3 6 50.0 4 4 100.0 1 7 8 2 1 0 3 3 11
+p363
+aVLaMarcus Aldridge POR 02/02/2009 POR @ NOH W 42 22 9 21 42.9 0 1 0.0 4 4 100.0 5 6 11 2 0 0 1 1 1
+p364
+aVGreg Oden POR 02/02/2009 POR @ NOH W 18 6 3 6 50.0 0 0 - 0 0 - 3 3 6 0 0 0 0 4 -6
+p365
+aVJoel Przybilla POR 02/02/2009 POR @ NOH W 29 2 1 3 33.3 0 0 - 0 0 - 2 8 10 0 0 1 0 2 15
+p366
+aVNicolas Batum POR 02/02/2009 POR @ NOH W 15 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 0 0 0 1 0 -11
+p367
+aVTravis Outlaw POR 01/31/2009 POR vs. UTA W 24 11 4 8 50.0 0 2 0.0 3 4 75.0 1 2 3 2 0 0 2 4 5
+p368
+aVSergio Rodriguez POR 01/31/2009 POR vs. UTA W 19 9 4 6 66.7 1 1 100.0 0 0 - 0 2 2 7 2 0 1 5 15
+p369
+aVNicolas Batum POR 01/31/2009 POR vs. UTA W 26 16 5 8 62.5 4 5 80.0 2 4 50.0 0 2 2 2 1 0 0 1 17
+p370
+aVIke Diogu POR 01/31/2009 POR vs. UTA W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -8
+p371
+aVBrandon Roy POR 01/31/2009 POR vs. UTA W 35 30 11 19 57.9 2 4 50.0 6 8 75.0 2 1 3 5 0 0 1 1 15
+p372
+aVRudy Fernandez POR 01/31/2009 POR vs. UTA W 25 13 5 7 71.4 3 4 75.0 0 0 - 0 0 0 4 0 0 2 1 1
+p373
+aVJerryd Bayless POR 01/31/2009 POR vs. UTA W 24 4 1 4 25.0 0 3 0.0 2 2 100.0 0 1 1 4 1 0 0 3 -5
+p374
+aVGreg Oden POR 01/31/2009 POR vs. UTA W 11 5 2 2 100.0 0 0 - 1 2 50.0 1 0 1 0 2 1 1 5 6
+p375
+aVShavlik Randolph POR 01/31/2009 POR vs. UTA W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p376
+aVChanning Frye POR 01/31/2009 POR vs. UTA W 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p377
+aVJoel Przybilla POR 01/31/2009 POR vs. UTA W 33 14 4 5 80.0 0 0 - 6 9 66.7 6 11 17 0 0 0 2 4 16
+p378
+aVLaMarcus Aldridge POR 01/31/2009 POR vs. UTA W 33 14 5 15 33.3 0 0 - 4 5 80.0 3 3 6 4 0 0 1 0 22
+p379
+aVTravis Outlaw POR 01/28/2009 POR vs. CHA W 25 9 3 9 33.3 0 3 0.0 3 3 100.0 2 3 5 0 0 0 0 1 5
+p380
+aVChanning Frye POR 01/28/2009 POR vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p381
+aVJerryd Bayless POR 01/28/2009 POR vs. CHA W 24 11 3 8 37.5 1 1 100.0 4 4 100.0 0 3 3 2 0 1 1 2 24
+p382
+aVGreg Oden POR 01/28/2009 POR vs. CHA W 30 14 4 9 44.4 0 0 - 6 10 60.0 8 6 14 1 2 3 3 5 8
+p383
+aVShavlik Randolph POR 01/28/2009 POR vs. CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p384
+aVRudy Fernandez POR 01/28/2009 POR vs. CHA W 29 5 2 7 28.6 1 6 16.7 0 0 - 1 0 1 3 2 1 3 1 5
+p385
+aVLaMarcus Aldridge POR 01/28/2009 POR vs. CHA W 37 25 11 15 73.3 0 0 - 3 5 60.0 3 6 9 1 2 1 3 2 26
+p386
+aVSergio Rodriguez POR 01/28/2009 POR vs. CHA W 24 0 0 5 0.0 0 2 0.0 0 0 - 1 2 3 7 1 0 5 3 -10
+p387
+aVJoel Przybilla POR 01/28/2009 POR vs. CHA W 17 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 8
+p388
+aVBrandon Roy POR 01/28/2009 POR vs. CHA W 35 17 8 15 53.3 0 1 0.0 1 1 100.0 0 2 2 3 0 0 1 1 2
+p389
+aVNicolas Batum POR 01/28/2009 POR vs. CHA W 16 5 1 4 25.0 0 2 0.0 3 4 75.0 2 4 6 1 1 1 0 3 6
+p390
+aVSergio Rodriguez POR 01/26/2009 POR @ LAC W 17 7 1 3 33.3 0 2 0.0 5 5 100.0 1 0 1 5 1 0 1 1 7
+p391
+aVLaMarcus Aldridge POR 01/26/2009 POR @ LAC W 34 10 4 7 57.1 0 0 - 2 6 33.3 1 2 3 0 2 0 2 2 19
+p392
+aVJoel Przybilla POR 01/26/2009 POR @ LAC W 20 7 2 3 66.7 0 0 - 3 6 50.0 1 7 8 0 0 0 1 1 22
+p393
+aVNicolas Batum POR 01/26/2009 POR @ LAC W 20 4 2 8 25.0 0 3 0.0 0 0 - 4 3 7 0 1 1 1 1 -5
+p394
+aVChanning Frye POR 01/26/2009 POR @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p395
+aVBrandon Roy POR 01/26/2009 POR @ LAC W 34 33 11 15 73.3 2 2 100.0 9 10 90.0 2 2 4 2 1 0 1 0 7
+p396
+aVIke Diogu POR 01/26/2009 POR @ LAC W 1 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p397
+aVSteve Blake POR 01/26/2009 POR @ LAC W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -2
+p398
+aVRudy Fernandez POR 01/26/2009 POR @ LAC W 27 11 3 7 42.9 3 6 50.0 2 3 66.7 0 4 4 4 1 0 0 3 25
+p399
+aVTravis Outlaw POR 01/26/2009 POR @ LAC W 25 20 8 9 88.9 2 2 100.0 2 3 66.7 0 2 2 0 0 0 2 4 24
+p400
+aVJerryd Bayless POR 01/26/2009 POR @ LAC W 22 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 6 1 0 1 4 25
+p401
+aVGreg Oden POR 01/26/2009 POR @ LAC W 26 16 7 7 100.0 0 0 - 2 4 50.0 2 4 6 0 2 1 1 4 -2
+p402
+aVNicolas Batum POR 01/24/2009 POR vs. WAS W 19 9 4 7 57.1 1 1 100.0 0 0 - 1 2 3 0 0 2 0 3 17
+p403
+aVGreg Oden POR 01/24/2009 POR vs. WAS W 39 18 6 10 60.0 0 0 - 6 8 75.0 9 5 14 1 2 0 2 4 19
+p404
+aVLaMarcus Aldridge POR 01/24/2009 POR vs. WAS W 37 18 6 12 50.0 0 2 0.0 6 7 85.7 1 7 8 1 1 0 0 1 4
+p405
+aVBrandon Roy POR 01/24/2009 POR vs. WAS W 39 22 7 18 38.9 2 3 66.7 6 8 75.0 2 3 5 7 10 2 1 5 23
+p406
+aVTravis Outlaw POR 01/24/2009 POR vs. WAS W 27 11 5 10 50.0 1 2 50.0 0 0 - 2 3 5 1 3 2 1 2 -3
+p407
+aVJerryd Bayless POR 01/24/2009 POR vs. WAS W 15 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 1 1 0 2 0 -7
+p408
+aVSergio Rodriguez POR 01/24/2009 POR vs. WAS W 33 12 5 9 55.6 2 3 66.7 0 2 0.0 0 2 2 8 1 0 3 2 20
+p409
+aVJoel Przybilla POR 01/24/2009 POR vs. WAS W 9 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 -7
+p410
+aVRudy Fernandez POR 01/24/2009 POR vs. WAS W 22 5 2 11 18.2 1 6 16.7 0 0 - 0 1 1 1 3 0 0 2 -1
+p411
+aVLaMarcus Aldridge POR 01/21/2009 POR vs. CLE L 41 21 8 20 40.0 0 0 - 5 7 71.4 1 2 3 2 1 1 0 0 -9
+p412
+aVGreg Oden POR 01/21/2009 POR vs. CLE L 25 10 3 4 75.0 0 0 - 4 4 100.0 4 4 8 1 0 1 3 6 -5
+p413
+aVJoel Przybilla POR 01/21/2009 POR vs. CLE L 21 6 1 4 25.0 0 0 - 4 6 66.7 5 10 15 0 0 0 0 1 0
+p414
+aVRudy Fernandez POR 01/21/2009 POR vs. CLE L 24 9 3 9 33.3 3 8 37.5 0 0 - 0 1 1 1 0 0 2 0 5
+p415
+aVTravis Outlaw POR 01/21/2009 POR vs. CLE L 26 5 2 8 25.0 1 4 25.0 0 3 0.0 1 2 3 1 1 2 0 0 8
+p416
+aVJerryd Bayless POR 01/21/2009 POR vs. CLE L 18 10 2 3 66.7 0 1 0.0 6 6 100.0 0 1 1 1 0 0 1 6 -2
+p417
+aVBrandon Roy POR 01/21/2009 POR vs. CLE L 38 23 8 23 34.8 1 4 25.0 6 7 85.7 1 1 2 3 0 1 1 2 -14
+p418
+aVNicolas Batum POR 01/21/2009 POR vs. CLE L 20 7 3 5 60.0 1 3 33.3 0 0 - 1 0 1 1 0 0 0 3 -12
+p419
+aVSergio Rodriguez POR 01/21/2009 POR vs. CLE L 27 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 5 0 0 0 2 -1
+p420
+aVLaMarcus Aldridge POR 01/19/2009 POR vs. MIL W 35 22 8 13 61.5 0 1 0.0 6 6 100.0 3 6 9 5 0 0 2 2 7
+p421
+aVRudy Fernandez POR 01/19/2009 POR vs. MIL W 25 13 6 9 66.7 1 4 25.0 0 0 - 0 1 1 1 0 0 2 2 -3
+p422
+aVJerryd Bayless POR 01/19/2009 POR vs. MIL W 14 7 1 4 25.0 1 1 100.0 4 6 66.7 0 2 2 1 0 0 1 4 -1
+p423
+aVSergio Rodriguez POR 01/19/2009 POR vs. MIL W 34 5 2 9 22.2 1 3 33.3 0 0 - 3 4 7 7 0 0 2 4 18
+p424
+aVNicolas Batum POR 01/19/2009 POR vs. MIL W 22 4 2 7 28.6 0 3 0.0 0 0 - 3 5 8 1 2 0 1 2 18
+p425
+aVGreg Oden POR 01/19/2009 POR vs. MIL W 35 24 9 14 64.3 0 0 - 6 11 54.5 6 9 15 0 2 2 1 2 27
+p426
+aVBrandon Roy POR 01/19/2009 POR vs. MIL W 36 9 4 13 30.8 0 2 0.0 1 2 50.0 2 4 6 7 0 0 2 1 30
+p427
+aVTravis Outlaw POR 01/19/2009 POR vs. MIL W 27 18 5 10 50.0 1 2 50.0 7 9 77.8 2 6 8 1 2 0 2 3 -1
+p428
+aVJoel Przybilla POR 01/19/2009 POR vs. MIL W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -10
+p429
+aVRudy Fernandez POR 01/17/2009 POR @ CHA L 34 15 4 11 36.4 4 8 50.0 3 3 100.0 1 3 4 2 0 0 1 1 -9
+p430
+aVLaMarcus Aldridge POR 01/17/2009 POR @ CHA L 42 21 9 15 60.0 0 0 - 3 5 60.0 2 4 6 0 2 0 4 6 1
+p431
+aVJoel Przybilla POR 01/17/2009 POR @ CHA L 28 2 1 1 100.0 0 0 - 0 0 - 2 8 10 1 0 1 1 2 -3
+p432
+aVNicolas Batum POR 01/17/2009 POR @ CHA L 17 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 7
+p433
+aVTravis Outlaw POR 01/17/2009 POR @ CHA L 27 10 4 15 26.7 1 5 20.0 1 2 50.0 2 2 4 0 0 2 0 2 -13
+p434
+aVGreg Oden POR 01/17/2009 POR @ CHA L 18 8 3 7 42.9 0 0 - 2 5 40.0 2 1 3 0 0 0 1 6 -2
+p435
+aVSergio Rodriguez POR 01/17/2009 POR @ CHA L 21 10 4 7 57.1 0 1 0.0 2 3 66.7 0 2 2 5 0 1 0 1 -4
+p436
+aVJerryd Bayless POR 01/17/2009 POR @ CHA L 32 14 6 9 66.7 0 0 - 2 3 66.7 0 4 4 0 0 0 1 2 -3
+p437
+aVBrandon Roy POR 01/17/2009 POR @ CHA L 45 17 7 18 38.9 0 2 0.0 3 10 30.0 1 5 6 6 2 1 1 6 1
+p438
+aVGreg Oden POR 01/15/2009 POR @ NJN W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -9
+p439
+aVRudy Fernandez POR 01/15/2009 POR @ NJN W 23 6 2 5 40.0 2 3 66.7 0 0 - 0 3 3 3 0 0 0 1 15
+p440
+aVLaMarcus Aldridge POR 01/15/2009 POR @ NJN W 36 20 10 19 52.6 0 0 - 0 0 - 1 5 6 2 0 1 3 2 -8
+p441
+aVJerryd Bayless POR 01/15/2009 POR @ NJN W 25 23 6 9 66.7 0 0 - 11 11 100.0 0 3 3 3 0 0 1 2 5
+p442
+aVChanning Frye POR 01/15/2009 POR @ NJN W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 1 4
+p443
+aVSergio Rodriguez POR 01/15/2009 POR @ NJN W 23 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 4 1 0 2 2 1
+p444
+aVBrandon Roy POR 01/15/2009 POR @ NJN W 40 29 8 16 50.0 0 2 0.0 13 16 81.3 2 6 8 5 2 0 0 1 -1
+p445
+aVJoel Przybilla POR 01/15/2009 POR @ NJN W 22 4 2 4 50.0 0 0 - 0 2 0.0 6 5 11 1 0 0 0 2 11
+p446
+aVTravis Outlaw POR 01/15/2009 POR @ NJN W 29 13 4 9 44.4 3 4 75.0 2 4 50.0 0 7 7 0 1 1 2 1 14
+p447
+aVNicolas Batum POR 01/15/2009 POR @ NJN W 24 2 1 4 25.0 0 3 0.0 0 0 - 1 2 3 0 1 0 0 3 -2
+p448
+aVNicolas Batum POR 01/14/2009 POR @ PHI L 24 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 2 0 2 0 1 -4
+p449
+aVSergio Rodriguez POR 01/14/2009 POR @ PHI L 15 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 2 0 0 3 4 -7
+p450
+aVShavlik Randolph POR 01/14/2009 POR @ PHI L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p451
+aVTravis Outlaw POR 01/14/2009 POR @ PHI L 30 8 3 10 30.0 1 3 33.3 1 4 25.0 1 4 5 0 0 1 0 3 -23
+p452
+aVIke Diogu POR 01/14/2009 POR @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p453
+aVGreg Oden POR 01/14/2009 POR @ PHI L 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 3 5
+p454
+aVChanning Frye POR 01/14/2009 POR @ PHI L 17 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 -11
+p455
+aVSteve Blake POR 01/14/2009 POR @ PHI L 17 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 1 0 2 1 -14
+p456
+aVBrandon Roy POR 01/14/2009 POR @ PHI L 36 27 10 17 58.8 0 1 0.0 7 8 87.5 2 3 5 6 1 0 4 1 -7
+p457
+aVJerryd Bayless POR 01/14/2009 POR @ PHI L 25 5 1 11 9.1 0 2 0.0 3 4 75.0 1 1 2 0 0 0 2 3 -9
+p458
+aVLaMarcus Aldridge POR 01/14/2009 POR @ PHI L 38 15 6 12 50.0 0 0 - 3 4 75.0 4 5 9 1 0 0 2 1 -17
+p459
+aVJoel Przybilla POR 01/14/2009 POR @ PHI L 14 4 1 2 50.0 0 0 - 2 2 100.0 3 6 9 0 0 0 1 0 -13
+p460
+aVRudy Fernandez POR 01/12/2009 POR @ CHI W 26 8 3 7 42.9 1 5 20.0 1 1 100.0 0 3 3 3 1 0 1 1 13
+p461
+aVTravis Outlaw POR 01/12/2009 POR @ CHI W 36 33 9 14 64.3 4 5 80.0 11 13 84.6 2 5 7 0 0 3 1 3 18
+p462
+aVLaMarcus Aldridge POR 01/12/2009 POR @ CHI W 41 8 3 8 37.5 0 0 - 2 2 100.0 0 6 6 4 0 1 2 5 10
+p463
+aVGreg Oden POR 01/12/2009 POR @ CHI W 26 17 5 7 71.4 0 0 - 7 9 77.8 6 7 13 1 0 1 4 4 6
+p464
+aVSteve Blake POR 01/12/2009 POR @ CHI W 39 16 6 14 42.9 4 9 44.4 0 0 - 0 3 3 10 3 0 1 1 16
+p465
+aVNicolas Batum POR 01/12/2009 POR @ CHI W 14 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 1 0 0 1 4 5
+p466
+aVJerryd Bayless POR 01/12/2009 POR @ CHI W 9 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 -3
+p467
+aVJoel Przybilla POR 01/12/2009 POR @ CHI W 9 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 5 -3
+p468
+aVSergio Rodriguez POR 01/12/2009 POR @ CHI W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p469
+aVBrandon Roy POR 01/12/2009 POR @ CHI W 35 11 3 13 23.1 1 1 100.0 4 4 100.0 2 6 8 3 0 0 3 2 12
+p470
+aVTravis Outlaw POR 01/10/2009 POR vs. GSW W 28 19 6 14 42.9 2 5 40.0 5 5 100.0 1 1 2 0 1 2 0 1 13
+p471
+aVGreg Oden POR 01/10/2009 POR vs. GSW W 26 10 4 8 50.0 0 0 - 2 3 66.7 4 4 8 2 1 0 2 3 14
+p472
+aVNicolas Batum POR 01/10/2009 POR vs. GSW W 19 5 2 5 40.0 0 2 0.0 1 2 50.0 2 2 4 1 0 1 1 0 10
+p473
+aVBrandon Roy POR 01/10/2009 POR vs. GSW W 31 19 8 15 53.3 0 1 0.0 3 5 60.0 1 5 6 5 2 0 1 1 20
+p474
+aVRudy Fernandez POR 01/10/2009 POR vs. GSW W 26 12 4 7 57.1 1 3 33.3 3 3 100.0 1 0 1 6 0 0 3 3 -11
+p475
+aVLaMarcus Aldridge POR 01/10/2009 POR vs. GSW W 38 26 11 18 61.1 0 0 - 4 4 100.0 6 1 7 5 1 2 0 3 22
+p476
+aVJerryd Bayless POR 01/10/2009 POR vs. GSW W 5 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -8
+p477
+aVJoel Przybilla POR 01/10/2009 POR vs. GSW W 19 1 0 0 - 0 0 - 1 2 50.0 2 5 7 0 0 1 1 2 -8
+p478
+aVSergio Rodriguez POR 01/10/2009 POR vs. GSW W 10 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 1 3 0 1 1 -7
+p479
+aVSteve Blake POR 01/10/2009 POR vs. GSW W 38 15 5 13 38.5 2 4 50.0 3 3 100.0 0 4 4 4 3 0 2 0 20
+p480
+aVJoel Przybilla POR 01/07/2009 POR vs. DET W 30 2 0 1 0.0 0 0 - 2 6 33.3 1 6 7 1 2 0 0 2 10
+p481
+aVNicolas Batum POR 01/07/2009 POR vs. DET W 20 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 2 -1
+p482
+aVGreg Oden POR 01/07/2009 POR vs. DET W 13 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 1 0 0 1 4 -14
+p483
+aVLaMarcus Aldridge POR 01/07/2009 POR vs. DET W 44 26 11 21 52.4 0 0 - 4 7 57.1 2 4 6 2 0 0 2 1 5
+p484
+aVChanning Frye POR 01/07/2009 POR vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p485
+aVSteve Blake POR 01/07/2009 POR vs. DET W 34 10 4 9 44.4 2 2 100.0 0 0 - 0 3 3 10 1 0 3 3 0
+p486
+aVJerryd Bayless POR 01/07/2009 POR vs. DET W 17 8 2 6 33.3 0 1 0.0 4 4 100.0 0 0 0 2 2 0 0 1 10
+p487
+aVRudy Fernandez POR 01/07/2009 POR vs. DET W 31 13 5 10 50.0 3 3 100.0 0 0 - 0 2 2 2 1 2 0 2 -9
+p488
+aVTravis Outlaw POR 01/07/2009 POR vs. DET W 34 14 6 10 60.0 0 0 - 2 2 100.0 0 3 3 1 0 1 1 1 7
+p489
+aVSergio Rodriguez POR 01/07/2009 POR vs. DET W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 1 0 0 2 1 1
+p490
+aVLaMarcus Aldridge POR 01/04/2009 POR @ LAL L 39 22 11 19 57.9 0 0 - 0 1 0.0 6 5 11 4 2 1 2 3 -10
+p491
+aVJerryd Bayless POR 01/04/2009 POR @ LAL L 12 2 0 4 0.0 0 2 0.0 2 4 50.0 1 3 4 4 1 0 1 3 0
+p492
+aVIke Diogu POR 01/04/2009 POR @ LAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p493
+aVChanning Frye POR 01/04/2009 POR @ LAL L 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -3
+p494
+aVNicolas Batum POR 01/04/2009 POR @ LAL L 34 17 6 6 100.0 3 3 100.0 2 2 100.0 0 5 5 4 1 0 0 1 -6
+p495
+aVTravis Outlaw POR 01/04/2009 POR @ LAL L 15 3 1 8 12.5 1 5 20.0 0 0 - 0 2 2 1 0 0 0 4 -10
+p496
+aVJoel Przybilla POR 01/04/2009 POR @ LAL L 9 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 3 -12
+p497
+aVSergio Rodriguez POR 01/04/2009 POR @ LAL L 18 3 1 5 20.0 0 2 0.0 1 3 33.3 1 2 3 4 1 0 2 0 -2
+p498
+aVGreg Oden POR 01/04/2009 POR @ LAL L 35 10 3 7 42.9 0 0 - 4 7 57.1 2 2 4 1 0 0 0 4 -2
+p499
+aVRudy Fernandez POR 01/04/2009 POR @ LAL L 36 14 5 15 33.3 2 9 22.2 2 3 66.7 3 2 5 3 3 0 2 2 -14
+p500
+aVSteve Blake POR 01/04/2009 POR @ LAL L 30 13 5 14 35.7 3 7 42.9 0 0 - 1 0 1 3 1 0 2 2 -12
+p501
+aVSteve Blake POR 01/02/2009 POR vs. NOH L 37 7 2 8 25.0 1 4 25.0 2 2 100.0 0 2 2 6 1 1 1 0 -7
+p502
+aVJerryd Bayless POR 01/02/2009 POR vs. NOH L 15 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 2 1 0 0 1 -11
+p503
+aVNicolas Batum POR 01/02/2009 POR vs. NOH L 18 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 0 7
+p504
+aVSergio Rodriguez POR 01/02/2009 POR vs. NOH L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -8
+p505
+aVGreg Oden POR 01/02/2009 POR vs. NOH L 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 4 -9
+p506
+aVIke Diogu POR 01/02/2009 POR vs. NOH L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 2 0 -6
+p507
+aVRudy Fernandez POR 01/02/2009 POR vs. NOH L 36 19 6 11 54.5 3 8 37.5 4 4 100.0 0 4 4 2 0 0 2 1 -7
+p508
+aVTravis Outlaw POR 01/02/2009 POR vs. NOH L 30 16 7 13 53.8 0 1 0.0 2 4 50.0 0 0 0 0 1 0 4 1 -22
+p509
+aVLaMarcus Aldridge POR 01/02/2009 POR vs. NOH L 38 13 5 18 27.8 0 0 - 3 4 75.0 5 5 10 5 1 0 3 3 -7
+p510
+aVJoel Przybilla POR 01/02/2009 POR vs. NOH L 33 10 4 6 66.7 0 0 - 2 2 100.0 3 4 7 0 1 0 0 4 -5
+p511
+aVJerryd Bayless POR 12/30/2008 POR vs. BOS W 16 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 2 1 0 4 2 1
+p512
+aVRudy Fernandez POR 12/30/2008 POR vs. BOS W 32 8 2 7 28.6 1 5 20.0 3 5 60.0 1 3 4 2 1 0 2 3 4
+p513
+aVLaMarcus Aldridge POR 12/30/2008 POR vs. BOS W 39 20 9 22 40.9 0 0 - 2 2 100.0 4 3 7 2 2 2 1 2 0
+p514
+aVIke Diogu POR 12/30/2008 POR vs. BOS W 6 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -2
+p515
+aVSteve Blake POR 12/30/2008 POR vs. BOS W 39 21 8 12 66.7 5 7 71.4 0 0 - 0 3 3 3 0 0 2 3 7
+p516
+aVNicolas Batum POR 12/30/2008 POR vs. BOS W 17 0 0 2 0.0 0 2 0.0 0 0 - 0 7 7 0 1 2 1 2 -8
+p517
+aVTravis Outlaw POR 12/30/2008 POR vs. BOS W 31 17 7 14 50.0 0 1 0.0 3 4 75.0 3 1 4 1 0 0 1 4 13
+p518
+aVGreg Oden POR 12/30/2008 POR vs. BOS W 36 13 5 9 55.6 0 0 - 3 5 60.0 4 7 11 3 3 0 3 5 12
+p519
+aVJoel Przybilla POR 12/30/2008 POR vs. BOS W 15 4 1 1 100.0 0 0 - 2 3 66.7 0 6 6 0 0 0 0 3 -2
+p520
+aVSergio Rodriguez POR 12/30/2008 POR vs. BOS W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 2 0
+p521
+aVBrandon Roy POR 12/27/2008 POR vs. TOR W 38 32 14 19 73.7 2 4 50.0 2 2 100.0 0 1 1 9 0 1 2 1 18
+p522
+aVSergio Rodriguez POR 12/27/2008 POR vs. TOR W 14 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 1 2 0 1 1 -8
+p523
+aVChanning Frye POR 12/27/2008 POR vs. TOR W 6 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p524
+aVSteve Blake POR 12/27/2008 POR vs. TOR W 34 5 2 7 28.6 1 4 25.0 0 1 0.0 0 4 4 7 2 0 2 1 21
+p525
+aVNicolas Batum POR 12/27/2008 POR vs. TOR W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 1 0 1 0 8
+p526
+aVTravis Outlaw POR 12/27/2008 POR vs. TOR W 27 12 5 13 38.5 2 6 33.3 0 2 0.0 1 3 4 0 1 1 0 1 -3
+p527
+aVLaMarcus Aldridge POR 12/27/2008 POR vs. TOR W 38 21 7 13 53.8 0 0 - 7 8 87.5 1 8 9 2 2 0 1 4 21
+p528
+aVGreg Oden POR 12/27/2008 POR vs. TOR W 28 16 5 7 71.4 0 0 - 6 6 100.0 7 3 10 0 0 1 1 3 15
+p529
+aVJoel Przybilla POR 12/27/2008 POR vs. TOR W 19 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 0 0 0 3 -2
+p530
+aVRudy Fernandez POR 12/27/2008 POR vs. TOR W 19 3 1 5 20.0 1 5 20.0 0 0 - 1 1 2 1 0 0 0 0 0
+p531
+aVGreg Oden POR 12/25/2008 POR vs. DAL L 25 4 2 6 33.3 0 0 - 0 3 0.0 2 3 5 1 1 0 3 4 -3
+p532
+aVTravis Outlaw POR 12/25/2008 POR vs. DAL L 34 13 5 13 38.5 0 2 0.0 3 4 75.0 2 2 4 0 4 0 1 0 -7
+p533
+aVSergio Rodriguez POR 12/25/2008 POR vs. DAL L 10 9 4 4 100.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 2 -8
+p534
+aVNicolas Batum POR 12/25/2008 POR vs. DAL L 13 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 1 0 1 2 -2
+p535
+aVRudy Fernandez POR 12/25/2008 POR vs. DAL L 28 13 5 8 62.5 2 3 66.7 1 1 100.0 1 1 2 1 0 1 0 3 -8
+p536
+aVSteve Blake POR 12/25/2008 POR vs. DAL L 38 14 5 11 45.5 1 4 25.0 3 3 100.0 0 3 3 7 2 0 4 0 0
+p537
+aVJoel Przybilla POR 12/25/2008 POR vs. DAL L 19 4 1 1 100.0 0 0 - 2 4 50.0 1 4 5 0 0 0 1 3 -2
+p538
+aVChanning Frye POR 12/25/2008 POR vs. DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p539
+aVBrandon Roy POR 12/25/2008 POR vs. DAL L 42 22 8 20 40.0 0 1 0.0 6 9 66.7 2 3 5 3 1 0 1 1 -3
+p540
+aVLaMarcus Aldridge POR 12/25/2008 POR vs. DAL L 25 12 3 3 100.0 0 0 - 6 8 75.0 0 3 3 1 0 1 2 5 -2
+p541
+aVNicolas Batum POR 12/23/2008 POR vs. DEN W 14 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 2 1 -8
+p542
+aVSteve Blake POR 12/23/2008 POR vs. DEN W 31 17 6 14 42.9 5 12 41.7 0 0 - 0 2 2 2 1 0 5 3 5
+p543
+aVRudy Fernandez POR 12/23/2008 POR vs. DEN W 22 12 4 9 44.4 2 6 33.3 2 2 100.0 1 1 2 3 1 0 1 0 19
+p544
+aVLaMarcus Aldridge POR 12/23/2008 POR vs. DEN W 38 22 7 12 58.3 0 0 - 8 9 88.9 5 3 8 2 1 1 1 2 14
+p545
+aVTravis Outlaw POR 12/23/2008 POR vs. DEN W 24 5 2 8 25.0 0 3 0.0 1 2 50.0 0 2 2 0 0 2 1 2 3
+p546
+aVGreg Oden POR 12/23/2008 POR vs. DEN W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 5 2
+p547
+aVJoel Przybilla POR 12/23/2008 POR vs. DEN W 40 10 3 6 50.0 0 0 - 4 4 100.0 5 14 19 0 1 0 1 5 7
+p548
+aVChanning Frye POR 12/23/2008 POR vs. DEN W 10 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 0 1 0 1 1 -5
+p549
+aVBrandon Roy POR 12/23/2008 POR vs. DEN W 37 19 6 13 46.2 1 2 50.0 6 7 85.7 1 2 3 6 1 1 2 1 3
+p550
+aVSergio Rodriguez POR 12/23/2008 POR vs. DEN W 16 9 3 5 60.0 0 2 0.0 3 3 100.0 0 0 0 4 3 0 1 1 5
+p551
+aVNicolas Batum POR 12/22/2008 POR @ DEN L 13 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 6
+p552
+aVJoel Przybilla POR 12/22/2008 POR @ DEN L 22 7 2 3 66.7 0 0 - 3 3 100.0 2 6 8 0 0 1 1 3 -6
+p553
+aVSergio Rodriguez POR 12/22/2008 POR @ DEN L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 2 1 -4
+p554
+aVTravis Outlaw POR 12/22/2008 POR @ DEN L 32 15 6 13 46.2 2 5 40.0 1 2 50.0 1 2 3 2 0 2 1 0 -17
+p555
+aVJerryd Bayless POR 12/22/2008 POR @ DEN L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p556
+aVChanning Frye POR 12/22/2008 POR @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p557
+aVGreg Oden POR 12/22/2008 POR @ DEN L 22 10 4 5 80.0 0 0 - 2 2 100.0 2 1 3 2 0 2 0 6 7
+p558
+aVBrandon Roy POR 12/22/2008 POR @ DEN L 32 8 3 11 27.3 0 1 0.0 2 2 100.0 1 5 6 5 3 0 3 5 -2
+p559
+aVSteve Blake POR 12/22/2008 POR @ DEN L 40 14 5 11 45.5 4 6 66.7 0 0 - 0 3 3 4 1 0 1 2 -1
+p560
+aVLaMarcus Aldridge POR 12/22/2008 POR @ DEN L 39 20 8 18 44.4 0 1 0.0 4 4 100.0 0 4 4 2 1 2 0 2 -11
+p561
+aVIke Diogu POR 12/22/2008 POR @ DEN L 9 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 0 1 2 2 -5
+p562
+aVRudy Fernandez POR 12/22/2008 POR @ DEN L 18 9 3 8 37.5 2 5 40.0 1 2 50.0 1 0 1 4 0 0 2 2 -3
+p563
+aVSergio Rodriguez POR 12/18/2008 POR vs. PHX W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p564
+aVSteve Blake POR 12/18/2008 POR vs. PHX W 38 22 8 15 53.3 4 7 57.1 2 2 100.0 1 3 4 10 4 0 0 2 11
+p565
+aVJoel Przybilla POR 12/18/2008 POR vs. PHX W 30 5 2 3 66.7 0 0 - 1 4 25.0 1 5 6 2 0 1 1 4 0
+p566
+aVLaMarcus Aldridge POR 12/18/2008 POR vs. PHX W 38 16 8 12 66.7 0 0 - 0 0 - 3 2 5 2 3 0 1 5 16
+p567
+aVGreg Oden POR 12/18/2008 POR vs. PHX W 17 8 4 5 80.0 0 0 - 0 0 - 2 0 2 0 1 2 0 5 3
+p568
+aVIke Diogu POR 12/18/2008 POR vs. PHX W 6 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 1 -13
+p569
+aVTravis Outlaw POR 12/18/2008 POR vs. PHX W 24 14 7 14 50.0 0 3 0.0 0 1 0.0 3 3 6 1 0 0 1 1 3
+p570
+aVRudy Fernandez POR 12/18/2008 POR vs. PHX W 17 6 2 5 40.0 2 4 50.0 0 0 - 1 1 2 1 1 0 3 1 -2
+p571
+aVBrandon Roy POR 12/18/2008 POR vs. PHX W 44 52 14 27 51.9 5 7 71.4 19 21 90.5 1 4 5 6 0 1 0 1 12
+p572
+aVNicolas Batum POR 12/18/2008 POR vs. PHX W 17 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -1
+p573
+aVTravis Outlaw POR 12/16/2008 POR vs. SAC W 20 5 2 6 33.3 1 2 50.0 0 0 - 1 3 4 1 0 0 1 4 11
+p574
+aVSteve Blake POR 12/16/2008 POR vs. SAC W 27 8 4 7 57.1 0 2 0.0 0 0 - 0 3 3 4 4 0 2 3 21
+p575
+aVGreg Oden POR 12/16/2008 POR vs. SAC W 21 8 3 6 50.0 0 0 - 2 2 100.0 3 7 10 0 0 0 0 4 20
+p576
+aVRudy Fernandez POR 12/16/2008 POR vs. SAC W 18 12 5 9 55.6 1 3 33.3 1 1 100.0 1 0 1 2 1 0 0 3 13
+p577
+aVBrandon Roy POR 12/16/2008 POR vs. SAC W 31 29 7 12 58.3 0 0 - 15 15 100.0 0 2 2 5 4 1 2 2 26
+p578
+aVNicolas Batum POR 12/16/2008 POR vs. SAC W 24 12 4 9 44.4 2 5 40.0 2 2 100.0 3 3 6 0 1 1 2 2 16
+p579
+aVJerryd Bayless POR 12/16/2008 POR vs. SAC W 8 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 2 1 0 0 0 1
+p580
+aVLaMarcus Aldridge POR 12/16/2008 POR vs. SAC W 39 15 6 20 30.0 0 1 0.0 3 4 75.0 4 6 10 2 1 2 3 3 35
+p581
+aVSergio Rodriguez POR 12/16/2008 POR vs. SAC W 16 2 0 3 0.0 0 2 0.0 2 2 100.0 1 2 3 5 0 0 2 1 8
+p582
+aVIke Diogu POR 12/16/2008 POR vs. SAC W 6 4 0 1 0.0 0 0 - 4 6 66.7 2 1 3 0 0 0 0 1 -1
+p583
+aVJoel Przybilla POR 12/16/2008 POR vs. SAC W 22 7 3 6 50.0 0 0 - 1 2 50.0 3 11 14 1 0 3 0 0 16
+p584
+aVChanning Frye POR 12/16/2008 POR vs. SAC W 8 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 -6
+p585
+aVJerryd Bayless POR 12/12/2008 POR vs. LAC L 6 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 -1
+p586
+aVBrandon Roy POR 12/12/2008 POR vs. LAC L 53 38 15 30 50.0 1 3 33.3 7 7 100.0 2 2 4 9 0 2 1 1 1
+p587
+aVSteve Blake POR 12/12/2008 POR vs. LAC L 39 11 4 9 44.4 2 5 40.0 1 5 20.0 2 1 3 8 2 0 2 4 2
+p588
+aVRudy Fernandez POR 12/12/2008 POR vs. LAC L 38 5 2 11 18.2 1 6 16.7 0 1 0.0 2 8 10 4 0 0 0 1 -9
+p589
+aVJoel Przybilla POR 12/12/2008 POR vs. LAC L 16 9 3 4 75.0 0 0 - 3 3 100.0 1 4 5 0 0 1 1 2 -2
+p590
+aVChanning Frye POR 12/12/2008 POR vs. LAC L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p591
+aVLaMarcus Aldridge POR 12/12/2008 POR vs. LAC L 54 22 9 23 39.1 0 0 - 4 4 100.0 5 2 7 2 0 3 2 4 -6
+p592
+aVGreg Oden POR 12/12/2008 POR vs. LAC L 42 15 6 10 60.0 0 0 - 3 4 75.0 6 9 15 0 0 1 2 2 -3
+p593
+aVSergio Rodriguez POR 12/12/2008 POR vs. LAC L 15 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 3 1 0 1 0 -13
+p594
+aVNicolas Batum POR 12/12/2008 POR vs. LAC L 23 5 2 6 33.3 1 4 25.0 0 0 - 0 5 5 1 1 1 1 1 -7
+p595
+aVGreg Oden POR 12/11/2008 POR @ UTA L 32 8 4 6 66.7 0 0 - 0 3 0.0 4 5 9 0 0 1 3 3 -8
+p596
+aVBrandon Roy POR 12/11/2008 POR @ UTA L 43 33 12 22 54.5 2 6 33.3 7 8 87.5 2 6 8 0 0 1 2 3 -4
+p597
+aVSergio Rodriguez POR 12/11/2008 POR @ UTA L 18 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 0 0 4 3 -6
+p598
+aVRudy Fernandez POR 12/11/2008 POR @ UTA L 29 10 2 7 28.6 1 6 16.7 5 6 83.3 2 3 5 1 1 0 2 3 -4
+p599
+aVTravis Outlaw POR 12/11/2008 POR @ UTA L 14 0 0 4 0.0 0 3 0.0 0 0 - 1 4 5 1 0 0 1 3 -12
+p600
+aVJoel Przybilla POR 12/11/2008 POR @ UTA L 16 0 0 0 - 0 0 - 0 0 - 2 4 6 1 0 1 0 2 -1
+p601
+aVNicolas Batum POR 12/11/2008 POR @ UTA L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 2
+p602
+aVLaMarcus Aldridge POR 12/11/2008 POR @ UTA L 42 22 10 18 55.6 0 0 - 2 2 100.0 2 4 6 4 2 0 1 4 -6
+p603
+aVSteve Blake POR 12/11/2008 POR @ UTA L 30 6 2 8 25.0 2 7 28.6 0 0 - 0 1 1 5 1 0 0 1 -3
+p604
+aVChanning Frye POR 12/11/2008 POR @ UTA L 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -3
+p605
+aVNicolas Batum POR 12/09/2008 POR vs. ORL L 16 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 3 1 0 3 1 -8
+p606
+aVLaMarcus Aldridge POR 12/09/2008 POR vs. ORL L 41 25 12 17 70.6 0 0 - 1 1 100.0 5 8 13 1 2 2 2 1 3
+p607
+aVSteve Blake POR 12/09/2008 POR vs. ORL L 23 6 3 8 37.5 0 2 0.0 0 0 - 0 2 2 2 0 0 1 5 -12
+p608
+aVGreg Oden POR 12/09/2008 POR vs. ORL L 11 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -10
+p609
+aVRudy Fernandez POR 12/09/2008 POR vs. ORL L 30 10 3 9 33.3 1 5 20.0 3 3 100.0 0 4 4 4 0 0 0 1 7
+p610
+aVJoel Przybilla POR 12/09/2008 POR vs. ORL L 25 11 5 6 83.3 0 0 - 1 1 100.0 2 9 11 1 0 2 0 1 15
+p611
+aVSergio Rodriguez POR 12/09/2008 POR vs. ORL L 25 14 3 9 33.3 2 4 50.0 6 6 100.0 1 0 1 7 0 0 0 2 11
+p612
+aVTravis Outlaw POR 12/09/2008 POR vs. ORL L 26 10 3 6 50.0 1 3 33.3 3 3 100.0 0 1 1 1 0 1 0 3 0
+p613
+aVBrandon Roy POR 12/09/2008 POR vs. ORL L 38 30 10 20 50.0 1 4 25.0 9 14 64.3 1 8 9 5 0 2 1 0 -9
+p614
+aVChanning Frye POR 12/09/2008 POR vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p615
+aVTravis Outlaw POR 12/07/2008 POR @ TOR W 22 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 2 0 0 1 2 -11
+p616
+aVLaMarcus Aldridge POR 12/07/2008 POR @ TOR W 38 20 9 18 50.0 1 2 50.0 1 2 50.0 6 2 8 0 0 2 2 4 18
+p617
+aVGreg Oden POR 12/07/2008 POR @ TOR W 28 10 3 10 30.0 0 0 - 4 6 66.7 5 5 10 0 0 2 2 4 5
+p618
+aVBrandon Roy POR 12/07/2008 POR @ TOR W 41 15 6 16 37.5 0 3 0.0 3 3 100.0 0 5 5 7 0 0 2 1 0
+p619
+aVJoel Przybilla POR 12/07/2008 POR @ TOR W 18 5 2 3 66.7 0 0 - 1 1 100.0 1 4 5 0 0 0 1 3 -4
+p620
+aVNicolas Batum POR 12/07/2008 POR @ TOR W 14 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 0 -4
+p621
+aVSteve Blake POR 12/07/2008 POR @ TOR W 33 19 7 14 50.0 5 8 62.5 0 0 - 2 5 7 4 1 0 1 2 4
+p622
+aVRudy Fernandez POR 12/07/2008 POR @ TOR W 26 16 5 8 62.5 3 4 75.0 3 3 100.0 3 5 8 0 0 1 2 0 6
+p623
+aVMartell Webster POR 12/07/2008 POR @ TOR W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p624
+aVSergio Rodriguez POR 12/07/2008 POR @ TOR W 15 5 1 3 33.3 1 1 100.0 2 2 100.0 0 0 0 4 2 0 2 0 -3
+p625
+aVSteve Blake POR 12/05/2008 POR @ BOS L 18 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 4 0 0 3 2 -9
+p626
+aVLaMarcus Aldridge POR 12/05/2008 POR @ BOS L 34 13 6 13 46.2 0 1 0.0 1 2 50.0 0 3 3 0 1 0 2 1 -17
+p627
+aVBrandon Roy POR 12/05/2008 POR @ BOS L 28 12 3 11 27.3 0 1 0.0 6 8 75.0 1 1 2 3 2 0 0 3 -18
+p628
+aVRudy Fernandez POR 12/05/2008 POR @ BOS L 28 4 2 7 28.6 0 4 0.0 0 0 - 2 2 4 0 0 0 3 1 -6
+p629
+aVIke Diogu POR 12/05/2008 POR @ BOS L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 1 0 1 -4
+p630
+aVSergio Rodriguez POR 12/05/2008 POR @ BOS L 20 7 3 6 50.0 0 1 0.0 1 1 100.0 0 2 2 2 1 0 0 0 2
+p631
+aVJerryd Bayless POR 12/05/2008 POR @ BOS L 8 7 2 2 100.0 0 0 - 3 4 75.0 0 0 0 1 0 0 2 2 0
+p632
+aVJoel Przybilla POR 12/05/2008 POR @ BOS L 26 7 3 4 75.0 0 0 - 1 2 50.0 3 5 8 0 0 3 1 2 -8
+p633
+aVChanning Frye POR 12/05/2008 POR @ BOS L 14 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 2 2
+p634
+aVGreg Oden POR 12/05/2008 POR @ BOS L 18 5 2 5 40.0 0 0 - 1 2 50.0 1 5 6 0 1 1 1 6 -3
+p635
+aVTravis Outlaw POR 12/05/2008 POR @ BOS L 26 13 5 10 50.0 0 0 - 3 3 100.0 1 2 3 1 0 1 0 4 -2
+p636
+aVNicolas Batum POR 12/05/2008 POR @ BOS L 16 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 1 -12
+p637
+aVNicolas Batum POR 12/03/2008 POR @ WAS W 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p638
+aVSergio Rodriguez POR 12/03/2008 POR @ WAS W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 7 0 0 2 1 7
+p639
+aVSteve Blake POR 12/03/2008 POR @ WAS W 34 15 4 12 33.3 2 7 28.6 5 6 83.3 0 5 5 5 2 0 1 1 -1
+p640
+aVBrandon Roy POR 12/03/2008 POR @ WAS W 34 22 9 19 47.4 0 1 0.0 4 6 66.7 4 4 8 4 0 0 4 3 12
+p641
+aVGreg Oden POR 12/03/2008 POR @ WAS W 31 13 4 6 66.7 0 0 - 5 6 83.3 3 7 10 0 0 1 3 2 2
+p642
+aVJoel Przybilla POR 12/03/2008 POR @ WAS W 15 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -3
+p643
+aVRudy Fernandez POR 12/03/2008 POR @ WAS W 26 13 5 6 83.3 2 3 66.7 1 1 100.0 2 2 4 2 3 1 0 1 10
+p644
+aVTravis Outlaw POR 12/03/2008 POR @ WAS W 22 9 3 7 42.9 2 2 100.0 1 2 50.0 0 2 2 0 0 0 1 2 -3
+p645
+aVLaMarcus Aldridge POR 12/03/2008 POR @ WAS W 38 16 7 16 43.8 0 0 - 2 2 100.0 1 3 4 2 0 0 0 4 6
+p646
+aVChanning Frye POR 12/03/2008 POR @ WAS W 11 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 3
+p647
+aVSergio Rodriguez POR 12/02/2008 POR @ NYK W 19 5 2 7 28.6 1 2 50.0 0 0 - 3 2 5 4 1 0 0 3 14
+p648
+aVJoel Przybilla POR 12/02/2008 POR @ NYK W 26 8 4 6 66.7 0 0 - 0 0 - 4 10 14 0 0 2 1 2 7
+p649
+aVLaMarcus Aldridge POR 12/02/2008 POR @ NYK W 28 17 7 12 58.3 0 0 - 3 4 75.0 3 3 6 0 0 1 1 4 -2
+p650
+aVTravis Outlaw POR 12/02/2008 POR @ NYK W 33 16 7 15 46.7 2 6 33.3 0 0 - 0 6 6 1 1 1 1 1 9
+p651
+aVGreg Oden POR 12/02/2008 POR @ NYK W 19 2 1 5 20.0 0 0 - 0 0 - 3 4 7 0 0 2 0 2 0
+p652
+aVBrandon Roy POR 12/02/2008 POR @ NYK W 38 23 9 19 47.4 0 2 0.0 5 6 83.3 1 5 6 5 3 0 6 3 -7
+p653
+aVNicolas Batum POR 12/02/2008 POR @ NYK W 20 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 2 0 1 1 2 8
+p654
+aVSteve Blake POR 12/02/2008 POR @ NYK W 29 15 5 9 55.6 4 6 66.7 1 1 100.0 0 4 4 6 1 0 1 2 -7
+p655
+aVChanning Frye POR 12/02/2008 POR @ NYK W 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -1
+p656
+aVRudy Fernandez POR 12/02/2008 POR @ NYK W 22 18 5 11 45.5 4 8 50.0 4 4 100.0 0 2 2 2 0 0 1 2 14
+p657
+aVBrandon Roy POR 11/30/2008 POR @ DET W 33 19 7 13 53.8 1 2 50.0 4 5 80.0 2 2 4 5 0 0 0 3 19
+p658
+aVJoel Przybilla POR 11/30/2008 POR @ DET W 17 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 2 1 3 -15
+p659
+aVNicolas Batum POR 11/30/2008 POR @ DET W 31 7 3 8 37.5 1 3 33.3 0 0 - 2 5 7 4 0 1 1 0 28
+p660
+aVSergio Rodriguez POR 11/30/2008 POR @ DET W 12 8 3 3 100.0 1 1 100.0 1 4 25.0 0 0 0 2 0 0 3 3 -10
+p661
+aVGreg Oden POR 11/30/2008 POR @ DET W 31 11 3 4 75.0 0 0 - 5 6 83.3 2 11 13 1 1 3 2 5 26
+p662
+aVRudy Fernandez POR 11/30/2008 POR @ DET W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 2 0 -14
+p663
+aVSteve Blake POR 11/30/2008 POR @ DET W 36 10 4 10 40.0 1 4 25.0 1 1 100.0 1 1 2 7 0 0 1 2 21
+p664
+aVChanning Frye POR 11/30/2008 POR @ DET W 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -6
+p665
+aVLaMarcus Aldridge POR 11/30/2008 POR @ DET W 40 27 11 19 57.9 0 1 0.0 5 5 100.0 3 1 4 2 2 1 0 2 23
+p666
+aVTravis Outlaw POR 11/30/2008 POR @ DET W 17 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 0 0 1 2 2 -17
+p667
+aVJerryd Bayless POR 11/28/2008 POR vs. NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p668
+aVIke Diogu POR 11/28/2008 POR vs. NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p669
+aVChanning Frye POR 11/28/2008 POR vs. NOH W 11 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 1 -8
+p670
+aVRudy Fernandez POR 11/28/2008 POR vs. NOH W 25 10 3 9 33.3 2 6 33.3 2 2 100.0 0 2 2 2 0 0 2 0 9
+p671
+aVSteve Blake POR 11/28/2008 POR vs. NOH W 29 14 5 9 55.6 2 4 50.0 2 2 100.0 0 0 0 3 2 0 1 1 16
+p672
+aVJoel Przybilla POR 11/28/2008 POR vs. NOH W 23 7 1 1 100.0 0 0 - 5 5 100.0 1 5 6 1 0 1 2 3 9
+p673
+aVTravis Outlaw POR 11/28/2008 POR vs. NOH W 21 5 1 5 20.0 0 2 0.0 3 4 75.0 0 3 3 1 0 1 2 2 6
+p674
+aVSergio Rodriguez POR 11/28/2008 POR vs. NOH W 18 5 1 2 50.0 1 1 100.0 2 2 100.0 0 2 2 2 2 0 0 3 0
+p675
+aVNicolas Batum POR 11/28/2008 POR vs. NOH W 20 12 5 8 62.5 2 5 40.0 0 0 - 1 2 3 2 1 2 0 2 3
+p676
+aVGreg Oden POR 11/28/2008 POR vs. NOH W 24 1 0 2 0.0 0 0 - 1 4 25.0 3 5 8 3 0 1 1 2 6
+p677
+aVLaMarcus Aldridge POR 11/28/2008 POR vs. NOH W 29 17 8 13 61.5 0 1 0.0 1 2 50.0 3 4 7 1 0 1 1 3 23
+p678
+aVBrandon Roy POR 11/28/2008 POR vs. NOH W 38 25 11 16 68.8 1 3 33.3 2 2 100.0 1 5 6 10 0 1 2 1 11
+p679
+aVSergio Rodriguez POR 11/26/2008 POR vs. MIA W 20 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 11 0 0 1 3 21
+p680
+aVNicolas Batum POR 11/26/2008 POR vs. MIA W 22 15 6 9 66.7 3 4 75.0 0 0 - 3 3 6 2 2 0 1 3 22
+p681
+aVChanning Frye POR 11/26/2008 POR vs. MIA W 23 17 7 11 63.6 2 3 66.7 1 1 100.0 1 2 3 1 0 0 0 1 21
+p682
+aVRudy Fernandez POR 11/26/2008 POR vs. MIA W 19 13 5 10 50.0 3 4 75.0 0 0 - 2 1 3 3 1 0 2 0 11
+p683
+aVIke Diogu POR 11/26/2008 POR vs. MIA W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p684
+aVBrandon Roy POR 11/26/2008 POR vs. MIA W 30 8 2 11 18.2 0 4 0.0 4 6 66.7 4 3 7 6 0 0 1 0 14
+p685
+aVJerryd Bayless POR 11/26/2008 POR vs. MIA W 6 0 0 0 - 0 0 - 0 0 - 1 3 4 1 0 0 1 0 5
+p686
+aVGreg Oden POR 11/26/2008 POR vs. MIA W 26 10 4 6 66.7 0 0 - 2 2 100.0 4 6 10 0 0 1 1 4 15
+p687
+aVSteve Blake POR 11/26/2008 POR vs. MIA W 26 8 2 8 25.0 2 6 33.3 2 2 100.0 0 1 1 3 1 0 4 2 19
+p688
+aVTravis Outlaw POR 11/26/2008 POR vs. MIA W 22 15 5 8 62.5 1 3 33.3 4 4 100.0 0 2 2 3 0 1 2 1 22
+p689
+aVLaMarcus Aldridge POR 11/26/2008 POR vs. MIA W 25 16 7 10 70.0 0 0 - 2 3 66.7 2 5 7 1 0 3 1 1 17
+p690
+aVJoel Przybilla POR 11/26/2008 POR vs. MIA W 20 4 1 1 100.0 0 0 - 2 2 100.0 1 8 9 0 1 4 2 1 23
+p691
+aVChanning Frye POR 11/24/2008 POR vs. SAC W 17 9 3 9 33.3 1 2 50.0 2 2 100.0 1 1 2 2 0 0 3 4 2
+p692
+aVJoel Przybilla POR 11/24/2008 POR vs. SAC W 28 10 5 6 83.3 0 1 0.0 0 0 - 4 8 12 1 2 2 2 4 23
+p693
+aVTravis Outlaw POR 11/24/2008 POR vs. SAC W 29 11 4 12 33.3 1 1 100.0 2 6 33.3 3 3 6 2 2 0 2 4 17
+p694
+aVSergio Rodriguez POR 11/24/2008 POR vs. SAC W 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 4 3 0 1 0 -3
+p695
+aVGreg Oden POR 11/24/2008 POR vs. SAC W 19 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 2 0 0 4 3 -22
+p696
+aVBrandon Roy POR 11/24/2008 POR vs. SAC W 36 28 10 19 52.6 3 3 100.0 5 5 100.0 2 2 4 3 0 0 3 0 -3
+p697
+aVLaMarcus Aldridge POR 11/24/2008 POR vs. SAC W 31 10 3 14 21.4 0 0 - 4 5 80.0 4 6 10 1 1 1 1 0 -3
+p698
+aVNicolas Batum POR 11/24/2008 POR vs. SAC W 12 3 1 3 33.3 0 1 0.0 1 2 50.0 2 1 3 0 0 1 0 2 -11
+p699
+aVRudy Fernandez POR 11/24/2008 POR vs. SAC W 20 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 1 0 2 1 1
+p700
+aVSteve Blake POR 11/24/2008 POR vs. SAC W 34 12 5 11 45.5 0 4 0.0 2 2 100.0 0 3 3 5 4 0 2 1 4
+p701
+aVChanning Frye POR 11/22/2008 POR @ PHX L 17 9 3 6 50.0 1 2 50.0 2 4 50.0 5 3 8 1 0 0 0 1 -6
+p702
+aVRudy Fernandez POR 11/22/2008 POR @ PHX L 27 3 1 9 11.1 1 8 12.5 0 0 - 1 2 3 1 1 0 1 1 -11
+p703
+aVSergio Rodriguez POR 11/22/2008 POR @ PHX L 7 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 2 0 0 1 0 -4
+p704
+aVTravis Outlaw POR 11/22/2008 POR @ PHX L 21 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -14
+p705
+aVLaMarcus Aldridge POR 11/22/2008 POR @ PHX L 32 14 6 14 42.9 0 0 - 2 4 50.0 3 4 7 0 2 0 0 3 -3
+p706
+aVNicolas Batum POR 11/22/2008 POR @ PHX L 14 6 2 7 28.6 2 5 40.0 0 0 - 0 0 0 2 2 0 0 0 5
+p707
+aVBrandon Roy POR 11/22/2008 POR @ PHX L 42 26 10 23 43.5 2 7 28.6 4 4 100.0 0 4 4 4 1 0 1 2 -5
+p708
+aVGreg Oden POR 11/22/2008 POR @ PHX L 14 5 2 3 66.7 0 0 - 1 4 25.0 0 1 1 0 0 0 2 5 -18
+p709
+aVSteve Blake POR 11/22/2008 POR @ PHX L 38 22 8 16 50.0 4 8 50.0 2 2 100.0 0 3 3 5 0 0 1 2 -2
+p710
+aVJoel Przybilla POR 11/22/2008 POR @ PHX L 29 0 0 0 - 0 0 - 0 0 - 6 2 8 1 3 5 2 3 8
+p711
+aVLaMarcus Aldridge POR 11/21/2008 POR @ SAC W 31 19 8 17 47.1 0 1 0.0 3 4 75.0 2 4 6 3 1 0 0 1 21
+p712
+aVTravis Outlaw POR 11/21/2008 POR @ SAC W 28 15 6 9 66.7 3 4 75.0 0 0 - 1 0 1 1 0 0 1 3 9
+p713
+aVChanning Frye POR 11/21/2008 POR @ SAC W 17 6 3 5 60.0 0 0 - 0 0 - 2 1 3 2 0 0 2 3 0
+p714
+aVGreg Oden POR 11/21/2008 POR @ SAC W 19 7 3 6 50.0 0 0 - 1 2 50.0 2 6 8 3 1 0 0 4 3
+p715
+aVJoel Przybilla POR 11/21/2008 POR @ SAC W 25 10 4 4 100.0 0 0 - 2 2 100.0 3 7 10 0 1 2 2 1 18
+p716
+aVIke Diogu POR 11/21/2008 POR @ SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p717
+aVNicolas Batum POR 11/21/2008 POR @ SAC W 16 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 0 0 1 1 1 7
+p718
+aVSergio Rodriguez POR 11/21/2008 POR @ SAC W 17 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 4 3 0 2 0 -4
+p719
+aVBrandon Roy POR 11/21/2008 POR @ SAC W 27 16 6 8 75.0 0 1 0.0 4 4 100.0 1 2 3 3 1 0 3 1 20
+p720
+aVJerryd Bayless POR 11/21/2008 POR @ SAC W 5 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 1 0 0 1 0 -1
+p721
+aVSteve Blake POR 11/21/2008 POR @ SAC W 27 20 7 14 50.0 6 10 60.0 0 0 - 1 1 2 5 0 0 1 2 19
+p722
+aVRudy Fernandez POR 11/21/2008 POR @ SAC W 24 14 5 9 55.6 4 6 66.7 0 0 - 0 2 2 4 2 0 1 0 14
+p723
+aVLaMarcus Aldridge POR 11/19/2008 POR vs. CHI W 26 11 4 13 30.8 0 0 - 3 4 75.0 2 3 5 1 1 2 1 3 38
+p724
+aVJerryd Bayless POR 11/19/2008 POR vs. CHI W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 2 0 -1
+p725
+aVChanning Frye POR 11/19/2008 POR vs. CHI W 22 12 4 8 50.0 1 1 100.0 3 4 75.0 2 3 5 1 0 1 1 4 4
+p726
+aVBrandon Roy POR 11/19/2008 POR vs. CHI W 28 20 7 13 53.8 0 1 0.0 6 6 100.0 2 3 5 2 2 0 1 0 26
+p727
+aVIke Diogu POR 11/19/2008 POR vs. CHI W 7 7 3 3 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -1
+p728
+aVGreg Oden POR 11/19/2008 POR vs. CHI W 17 11 3 7 42.9 0 0 - 5 6 83.3 5 5 10 0 0 3 0 3 9
+p729
+aVRudy Fernandez POR 11/19/2008 POR vs. CHI W 18 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 0 1 0 1 25
+p730
+aVNicolas Batum POR 11/19/2008 POR vs. CHI W 18 9 3 6 50.0 2 2 100.0 1 2 50.0 2 4 6 1 2 0 1 2 9
+p731
+aVJoel Przybilla POR 11/19/2008 POR vs. CHI W 23 14 6 6 100.0 0 0 - 2 2 100.0 2 7 9 1 1 3 0 2 34
+p732
+aVSteve Blake POR 11/19/2008 POR vs. CHI W 24 10 4 9 44.4 1 4 25.0 1 1 100.0 0 1 1 5 0 0 3 0 25
+p733
+aVTravis Outlaw POR 11/19/2008 POR vs. CHI W 25 9 3 7 42.9 1 3 33.3 2 2 100.0 0 4 4 1 3 0 1 4 25
+p734
+aVSergio Rodriguez POR 11/19/2008 POR vs. CHI W 24 7 3 5 60.0 1 2 50.0 0 0 - 1 1 2 9 1 0 6 2 17
+p735
+aVJerryd Bayless POR 11/18/2008 POR @ GSW L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -2
+p736
+aVLaMarcus Aldridge POR 11/18/2008 POR @ GSW L 20 4 2 7 28.6 0 0 - 0 0 - 2 2 4 1 1 0 3 6 1
+p737
+aVTravis Outlaw POR 11/18/2008 POR @ GSW L 33 13 5 11 45.5 1 4 25.0 2 5 40.0 1 6 7 4 0 2 2 2 -9
+p738
+aVSteve Blake POR 11/18/2008 POR @ GSW L 20 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 2 0 0 1 2 -8
+p739
+aVChanning Frye POR 11/18/2008 POR @ GSW L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -7
+p740
+aVNicolas Batum POR 11/18/2008 POR @ GSW L 12 5 2 5 40.0 1 3 33.3 0 0 - 2 2 4 2 0 1 0 3 2
+p741
+aVJoel Przybilla POR 11/18/2008 POR @ GSW L 17 9 4 5 80.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 2 10
+p742
+aVBrandon Roy POR 11/18/2008 POR @ GSW L 40 22 7 14 50.0 3 3 100.0 5 8 62.5 1 3 4 9 4 0 3 3 7
+p743
+aVRudy Fernandez POR 11/18/2008 POR @ GSW L 36 13 4 11 36.4 3 7 42.9 2 2 100.0 3 4 7 3 2 1 2 5 -5
+p744
+aVSergio Rodriguez POR 11/18/2008 POR @ GSW L 23 12 3 8 37.5 2 3 66.7 4 4 100.0 1 1 2 2 2 0 3 2 -3
+p745
+aVGreg Oden POR 11/18/2008 POR @ GSW L 30 22 8 12 66.7 0 0 - 6 8 75.0 4 6 10 2 1 2 5 5 -11
+p746
+aVGreg Oden POR 11/15/2008 POR @ MIN W 24 13 4 8 50.0 0 0 - 5 8 62.5 2 6 8 1 2 3 2 5 13
+p747
+aVIke Diogu POR 11/15/2008 POR @ MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p748
+aVTravis Outlaw POR 11/15/2008 POR @ MIN W 31 8 3 10 30.0 2 5 40.0 0 0 - 0 4 4 1 1 1 0 1 10
+p749
+aVNicolas Batum POR 11/15/2008 POR @ MIN W 10 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 0 0 0 1 0 0
+p750
+aVLaMarcus Aldridge POR 11/15/2008 POR @ MIN W 30 6 3 7 42.9 0 0 - 0 0 - 1 5 6 3 0 1 2 4 0
+p751
+aVRudy Fernandez POR 11/15/2008 POR @ MIN W 25 3 1 5 20.0 1 4 25.0 0 0 - 2 4 6 2 0 0 2 0 -3
+p752
+aVChanning Frye POR 11/15/2008 POR @ MIN W 11 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -5
+p753
+aVSergio Rodriguez POR 11/15/2008 POR @ MIN W 16 6 2 5 40.0 2 4 50.0 0 0 - 1 2 3 1 0 0 2 2 -2
+p754
+aVSteve Blake POR 11/15/2008 POR @ MIN W 32 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 4 0 0 1 1 9
+p755
+aVBrandon Roy POR 11/15/2008 POR @ MIN W 40 24 9 18 50.0 0 0 - 6 7 85.7 2 1 3 6 0 0 0 2 11
+p756
+aVJoel Przybilla POR 11/15/2008 POR @ MIN W 21 10 4 5 80.0 0 0 - 2 3 66.7 2 6 8 1 1 1 1 3 -6
+p757
+aVLaMarcus Aldridge POR 11/14/2008 POR @ NOH L 39 15 7 16 43.8 0 0 - 1 2 50.0 2 6 8 1 1 1 0 2 -4
+p758
+aVBrandon Roy POR 11/14/2008 POR @ NOH L 42 21 7 17 41.2 2 5 40.0 5 6 83.3 1 2 3 6 2 0 1 1 5
+p759
+aVJoel Przybilla POR 11/14/2008 POR @ NOH L 22 8 4 5 80.0 0 0 - 0 0 - 0 7 7 0 0 0 2 1 -3
+p760
+aVSergio Rodriguez POR 11/14/2008 POR @ NOH L 24 2 1 4 25.0 0 3 0.0 0 0 - 1 2 3 7 1 0 0 1 -7
+p761
+aVNicolas Batum POR 11/14/2008 POR @ NOH L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 2 -10
+p762
+aVTravis Outlaw POR 11/14/2008 POR @ NOH L 14 3 1 4 25.0 1 2 50.0 0 0 - 2 0 2 1 0 0 2 2 -1
+p763
+aVChanning Frye POR 11/14/2008 POR @ NOH L 10 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -1
+p764
+aVSteve Blake POR 11/14/2008 POR @ NOH L 23 3 1 6 16.7 1 4 25.0 0 0 - 0 0 0 4 0 0 1 6 2
+p765
+aVGreg Oden POR 11/14/2008 POR @ NOH L 24 11 3 3 100.0 0 0 - 5 6 83.3 1 10 11 0 0 4 0 4 -2
+p766
+aVRudy Fernandez POR 11/14/2008 POR @ NOH L 29 10 2 6 33.3 2 4 50.0 4 4 100.0 0 0 0 2 0 0 1 0 -4
+p767
+aVLaMarcus Aldridge POR 11/12/2008 POR @ MIA W 38 14 6 17 35.3 0 0 - 2 5 40.0 5 2 7 2 4 0 2 4 5
+p768
+aVJoel Przybilla POR 11/12/2008 POR @ MIA W 22 7 3 4 75.0 0 0 - 1 1 100.0 3 7 10 1 0 1 0 0 4
+p769
+aVNicolas Batum POR 11/12/2008 POR @ MIA W 15 6 3 7 42.9 0 3 0.0 0 0 - 0 1 1 0 1 1 0 1 9
+p770
+aVSteve Blake POR 11/12/2008 POR @ MIA W 24 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 4 1 0 1 1 4
+p771
+aVGreg Oden POR 11/12/2008 POR @ MIA W 16 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 2 2 2 -6
+p772
+aVSergio Rodriguez POR 11/12/2008 POR @ MIA W 19 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 5 0 0 1 2 8
+p773
+aVTravis Outlaw POR 11/12/2008 POR @ MIA W 29 10 4 13 30.8 1 4 25.0 1 2 50.0 1 7 8 2 0 1 1 2 1
+p774
+aVRudy Fernandez POR 11/12/2008 POR @ MIA W 29 25 7 11 63.6 3 7 42.9 8 8 100.0 0 3 3 2 2 1 2 2 4
+p775
+aVBrandon Roy POR 11/12/2008 POR @ MIA W 36 22 6 13 46.2 0 0 - 10 13 76.9 2 3 5 2 0 0 3 0 7
+p776
+aVChanning Frye POR 11/12/2008 POR @ MIA W 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p777
+aVJoel Przybilla POR 11/10/2008 POR @ ORL W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -2
+p778
+aVSteve Blake POR 11/10/2008 POR @ ORL W 32 20 4 8 50.0 2 3 66.7 10 11 90.9 1 4 5 4 2 0 0 2 -4
+p779
+aVBrandon Roy POR 11/10/2008 POR @ ORL W 39 27 10 22 45.5 0 1 0.0 7 8 87.5 1 2 3 4 0 0 1 0 5
+p780
+aVChanning Frye POR 11/10/2008 POR @ ORL W 16 0 0 4 0.0 0 0 - 0 0 - 0 4 4 1 1 0 0 5 5
+p781
+aVRudy Fernandez POR 11/10/2008 POR @ ORL W 32 16 4 10 40.0 4 6 66.7 4 5 80.0 0 1 1 3 3 1 2 2 12
+p782
+aVLaMarcus Aldridge POR 11/10/2008 POR @ ORL W 36 16 8 17 47.1 0 0 - 0 0 - 3 8 11 1 1 0 0 3 17
+p783
+aVSergio Rodriguez POR 11/10/2008 POR @ ORL W 16 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 4 0 0 2 1 9
+p784
+aVTravis Outlaw POR 11/10/2008 POR @ ORL W 41 20 6 12 50.0 3 5 60.0 5 6 83.3 0 5 5 0 1 0 0 5 3
+p785
+aVNicolas Batum POR 11/10/2008 POR @ ORL W 19 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 1 1 0 0 5 -10
+p786
+aVSteve Blake POR 11/08/2008 POR vs. MIN W 32 6 3 10 30.0 0 4 0.0 0 0 - 2 0 2 2 0 0 0 1 6
+p787
+aVJoel Przybilla POR 11/08/2008 POR vs. MIN W 21 4 2 2 100.0 0 0 - 0 0 - 2 7 9 0 1 0 0 4 -3
+p788
+aVIke Diogu POR 11/08/2008 POR vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 0
+p789
+aVTravis Outlaw POR 11/08/2008 POR vs. MIN W 20 11 3 5 60.0 1 1 100.0 4 6 66.7 2 2 4 1 1 0 0 0 -2
+p790
+aVSergio Rodriguez POR 11/08/2008 POR vs. MIN W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 5 1 0 2 1 1
+p791
+aVNicolas Batum POR 11/08/2008 POR vs. MIN W 18 8 3 7 42.9 2 4 50.0 0 0 - 1 0 1 1 0 2 0 3 -5
+p792
+aVLaMarcus Aldridge POR 11/08/2008 POR vs. MIN W 41 24 8 15 53.3 0 0 - 8 10 80.0 7 6 13 1 0 3 3 3 8
+p793
+aVBrandon Roy POR 11/08/2008 POR vs. MIN W 35 24 7 15 46.7 1 2 50.0 9 12 75.0 1 4 5 9 0 0 3 2 3
+p794
+aVRudy Fernandez POR 11/08/2008 POR vs. MIN W 30 11 4 10 40.0 3 8 37.5 0 0 - 0 4 4 2 1 0 2 0 9
+p795
+aVChanning Frye POR 11/08/2008 POR vs. MIN W 26 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 0 1 2 0 4 3
+p796
+aVSergio Rodriguez POR 11/06/2008 POR vs. HOU W 11 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 6 0 0 0 2 -5
+p797
+aVChanning Frye POR 11/06/2008 POR vs. HOU W 19 8 4 8 50.0 0 0 - 0 0 - 2 3 5 0 0 0 2 4 9
+p798
+aVTravis Outlaw POR 11/06/2008 POR vs. HOU W 34 14 5 12 41.7 2 2 100.0 2 2 100.0 3 10 13 1 1 2 0 1 2
+p799
+aVLaMarcus Aldridge POR 11/06/2008 POR vs. HOU W 45 27 12 20 60.0 0 0 - 3 7 42.9 2 7 9 2 0 2 0 1 7
+p800
+aVSteve Blake POR 11/06/2008 POR vs. HOU W 28 8 3 8 37.5 0 4 0.0 2 2 100.0 0 0 0 8 0 0 1 0 11
+p801
+aVNicolas Batum POR 11/06/2008 POR vs. HOU W 19 6 3 7 42.9 0 2 0.0 0 0 - 1 2 3 1 0 0 1 5 -6
+p802
+aVJoel Przybilla POR 11/06/2008 POR vs. HOU W 37 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 0 2 1 5 -13
+p803
+aVRudy Fernandez POR 11/06/2008 POR vs. HOU W 29 15 5 9 55.6 3 5 60.0 2 2 100.0 0 1 1 2 0 0 2 4 5
+p804
+aVIke Diogu POR 11/06/2008 POR vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p805
+aVBrandon Roy POR 11/06/2008 POR vs. HOU W 40 17 6 18 33.3 1 3 33.3 4 4 100.0 3 4 7 5 1 0 5 4 2
+p806
+aVJoel Przybilla POR 11/05/2008 POR @ UTA L 37 7 3 3 100.0 0 0 - 1 4 25.0 6 10 16 0 0 2 2 4 -8
+p807
+aVTravis Outlaw POR 11/05/2008 POR @ UTA L 23 10 3 7 42.9 3 4 75.0 1 2 50.0 0 3 3 1 1 1 1 3 -17
+p808
+aVNicolas Batum POR 11/05/2008 POR @ UTA L 18 5 2 4 50.0 1 1 100.0 0 0 - 4 2 6 1 2 0 2 3 12
+p809
+aVChanning Frye POR 11/05/2008 POR @ UTA L 20 8 3 8 37.5 0 0 - 2 2 100.0 0 0 0 0 1 2 0 3 -8
+p810
+aVBrandon Roy POR 11/05/2008 POR @ UTA L 36 18 6 16 37.5 0 2 0.0 6 6 100.0 2 1 3 6 1 0 3 3 -4
+p811
+aVRudy Fernandez POR 11/05/2008 POR @ UTA L 28 14 3 8 37.5 2 5 40.0 6 6 100.0 1 2 3 3 1 0 1 0 -18
+p812
+aVSergio Rodriguez POR 11/05/2008 POR @ UTA L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 3 0 0 0 1 0
+p813
+aVSteve Blake POR 11/05/2008 POR @ UTA L 36 16 5 10 50.0 3 5 60.0 3 3 100.0 0 1 1 3 0 0 3 1 4
+p814
+aVLaMarcus Aldridge POR 11/05/2008 POR @ UTA L 36 18 7 15 46.7 1 1 100.0 3 4 75.0 1 1 2 2 2 1 4 6 4
+p815
+aVBrandon Roy POR 11/01/2008 POR @ PHX L 37 20 7 18 38.9 2 6 33.3 4 4 100.0 0 1 1 4 0 2 3 4 -23
+p816
+aVJoel Przybilla POR 11/01/2008 POR @ PHX L 28 3 1 1 100.0 0 0 - 1 2 50.0 3 6 9 0 0 0 0 3 -20
+p817
+aVRudy Fernandez POR 11/01/2008 POR @ PHX L 23 20 8 13 61.5 2 5 40.0 2 2 100.0 1 0 1 0 1 0 1 2 8
+p818
+aVLaMarcus Aldridge POR 11/01/2008 POR @ PHX L 31 16 7 18 38.9 0 1 0.0 2 2 100.0 3 3 6 2 0 1 0 4 -22
+p819
+aVSergio Rodriguez POR 11/01/2008 POR @ PHX L 14 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 4 0 0 0 1 6
+p820
+aVTravis Outlaw POR 11/01/2008 POR @ PHX L 37 11 5 12 41.7 1 3 33.3 0 0 - 0 4 4 4 0 0 3 2 -5
+p821
+aVChanning Frye POR 11/01/2008 POR @ PHX L 16 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 1 0 0 3 10
+p822
+aVSteve Blake POR 11/01/2008 POR @ PHX L 30 11 4 9 44.4 3 5 60.0 0 0 - 0 1 1 3 2 0 2 4 -21
+p823
+aVIke Diogu POR 11/01/2008 POR @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p824
+aVJerryd Bayless POR 11/01/2008 POR @ PHX L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p825
+aVNicolas Batum POR 11/01/2008 POR @ PHX L 18 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 0 3 0 1 2 10
+p826
+aVJoel Przybilla POR 10/31/2008 POR vs. SAS W 24 3 1 1 100.0 0 0 - 1 2 50.0 4 3 7 1 1 0 1 5 1
+p827
+aVChanning Frye POR 10/31/2008 POR vs. SAS W 14 10 5 9 55.6 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -2
+p828
+aVBrandon Roy POR 10/31/2008 POR vs. SAS W 35 26 10 18 55.6 1 3 33.3 5 7 71.4 1 4 5 7 3 0 1 2 2
+p829
+aVRudy Fernandez POR 10/31/2008 POR vs. SAS W 30 6 1 6 16.7 1 5 20.0 3 4 75.0 4 4 8 0 0 0 1 1 4
+p830
+aVSergio Rodriguez POR 10/31/2008 POR vs. SAS W 9 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 1 0 1 2 -2
+p831
+aVSteve Blake POR 10/31/2008 POR vs. SAS W 33 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -3
+p832
+aVTravis Outlaw POR 10/31/2008 POR vs. SAS W 31 11 2 9 22.2 1 1 100.0 6 6 100.0 0 4 4 1 3 1 0 2 -2
+p833
+aVLaMarcus Aldridge POR 10/31/2008 POR vs. SAS W 42 23 10 22 45.5 1 2 50.0 2 4 50.0 2 3 5 3 1 2 1 2 6
+p834
+aVNicolas Batum POR 10/31/2008 POR vs. SAS W 22 12 5 9 55.6 1 3 33.3 1 1 100.0 1 0 1 1 1 2 1 2 1
+p835
+aVLaMarcus Aldridge POR 10/28/2008 POR @ LAL L 32 8 4 12 33.3 0 1 0.0 0 0 - 2 2 4 1 1 2 1 2 -14
+p836
+aVChanning Frye POR 10/28/2008 POR @ LAL L 17 0 0 7 0.0 0 3 0.0 0 0 - 1 2 3 1 0 0 0 4 -9
+p837
+aVSergio Rodriguez POR 10/28/2008 POR @ LAL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -6
+p838
+aVSteve Blake POR 10/28/2008 POR @ LAL L 24 9 3 8 37.5 3 6 50.0 0 0 - 1 3 4 4 0 0 1 1 -15
+p839
+aVTravis Outlaw POR 10/28/2008 POR @ LAL L 35 18 8 15 53.3 2 4 50.0 0 0 - 2 2 4 2 0 0 2 0 -18
+p840
+aVNicolas Batum POR 10/28/2008 POR @ LAL L 4 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 1 1 -3
+p841
+aVRudy Fernandez POR 10/28/2008 POR @ LAL L 29 16 5 10 50.0 3 5 60.0 3 3 100.0 0 2 2 4 2 0 0 0 -6
+p842
+aVBrandon Roy POR 10/28/2008 POR @ LAL L 38 14 5 15 33.3 2 4 50.0 2 2 100.0 1 2 3 5 3 0 2 0 -10
+p843
+aVJerryd Bayless POR 10/28/2008 POR @ LAL L 15 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 0 0 0 2 2 1
+p844
+aVJoel Przybilla POR 10/28/2008 POR @ LAL L 25 4 2 4 50.0 0 0 - 0 3 0.0 1 10 11 2 1 0 0 4 -4
+p845
+aVIke Diogu POR 10/28/2008 POR @ LAL L 4 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -3
+p846
+aVGreg Oden POR 10/28/2008 POR @ LAL L 13 0 0 4 0.0 0 0 - 0 2 0.0 3 2 5 0 0 1 2 2 -13
+p847
+a.

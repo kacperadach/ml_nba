@@ -1,0 +1,1658 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTyrone Corbin PHX 04/22/1989 PHX @ SAN W 35 25 11 15 73.3 0 0 - 3 3 100.0 4 4 8 3 3 1 3 3 -
+p2
+aVMark West PHX 04/22/1989 PHX @ SAN W 22 9 2 5 40.0 0 0 - 5 6 83.3 2 3 5 0 0 2 2 2 -
+p3
+aVT.R. Dunn PHX 04/22/1989 PHX @ SAN W 17 0 0 4 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p4
+aVEddie Johnson PHX 04/22/1989 PHX @ SAN W 5 5 2 5 40.0 0 1 0.0 1 2 50.0 2 0 2 0 0 0 1 0 -
+p5
+aVAndrew Lang PHX 04/22/1989 PHX @ SAN W 26 21 8 13 61.5 0 0 - 5 7 71.4 3 6 9 0 2 2 0 5 -
+p6
+aVTim Perry PHX 04/22/1989 PHX @ SAN W 33 13 6 13 46.2 0 1 0.0 1 1 100.0 3 4 7 1 0 0 1 2 -
+p7
+aVEd Nealy PHX 04/22/1989 PHX @ SAN W 23 0 0 3 0.0 0 0 - 0 0 - 1 8 9 2 0 0 0 0 -
+p8
+aVKevin Johnson PHX 04/22/1989 PHX @ SAN W 33 26 11 19 57.9 0 1 0.0 4 4 100.0 0 2 2 9 2 0 2 1 -
+p9
+aVDan Majerle PHX 04/22/1989 PHX @ SAN W 32 12 5 13 38.5 0 2 0.0 2 4 50.0 0 2 2 2 1 1 2 1 -
+p10
+aVJeff Hornacek PHX 04/22/1989 PHX @ SAN W 14 10 4 11 36.4 0 0 - 2 2 100.0 1 0 1 2 0 0 1 0 -
+p11
+aVTim Perry PHX 04/21/1989 PHX vs. HOU L 10 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -
+p12
+aVAndrew Lang PHX 04/21/1989 PHX vs. HOU L 21 7 3 3 100.0 0 0 - 1 3 33.3 0 3 3 0 1 0 1 3 -
+p13
+aVEddie Johnson PHX 04/21/1989 PHX vs. HOU L 39 18 7 23 30.4 1 7 14.3 3 4 75.0 4 7 11 2 2 0 3 5 -
+p14
+aVTom Chambers PHX 04/21/1989 PHX vs. HOU L 36 24 7 18 38.9 0 0 - 10 12 83.3 4 5 9 2 0 0 4 0 -
+p15
+aVMark West PHX 04/21/1989 PHX vs. HOU L 16 2 1 4 25.0 0 0 - 0 6 0.0 4 2 6 0 1 1 0 3 -
+p16
+aVJeff Hornacek PHX 04/21/1989 PHX vs. HOU L 32 17 5 12 41.7 1 3 33.3 6 6 100.0 2 4 6 6 3 0 3 4 -
+p17
+aVKevin Johnson PHX 04/21/1989 PHX vs. HOU L 40 12 5 15 33.3 0 0 - 2 3 66.7 0 3 3 13 0 0 4 2 -
+p18
+aVDan Majerle PHX 04/21/1989 PHX vs. HOU L 25 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 3 3 1 1 2 -
+p19
+aVTyrone Corbin PHX 04/21/1989 PHX vs. HOU L 21 10 3 8 37.5 0 0 - 4 4 100.0 5 5 10 1 1 0 0 3 -
+p20
+aVTom Chambers PHX 04/19/1989 PHX @ MIA W 33 23 8 20 40.0 0 1 0.0 7 8 87.5 1 7 8 3 0 0 2 4 -
+p21
+aVArmen Gilliam PHX 04/19/1989 PHX @ MIA W 21 8 3 7 42.9 0 0 - 2 4 50.0 1 8 9 0 1 0 0 2 -
+p22
+aVJeff Hornacek PHX 04/19/1989 PHX @ MIA W 36 11 5 12 41.7 0 0 - 1 2 50.0 1 3 4 2 2 0 1 1 -
+p23
+aVKevin Johnson PHX 04/19/1989 PHX @ MIA W 42 21 10 17 58.8 0 1 0.0 1 1 100.0 2 5 7 9 0 0 4 1 -
+p24
+aVMark West PHX 04/19/1989 PHX @ MIA W 37 15 6 8 75.0 0 0 - 3 8 37.5 4 9 13 0 1 2 1 4 -
+p25
+aVDan Majerle PHX 04/19/1989 PHX @ MIA W 24 5 2 6 33.3 0 1 0.0 1 2 50.0 1 3 4 4 1 1 0 3 -
+p26
+aVAndrew Lang PHX 04/19/1989 PHX @ MIA W 5 1 0 0 - 0 0 - 1 2 50.0 1 2 3 1 0 1 1 2 -
+p27
+aVEddie Johnson PHX 04/19/1989 PHX @ MIA W 25 29 11 17 64.7 3 4 75.0 4 4 100.0 1 0 1 2 0 0 3 5 -
+p28
+aVT.R. Dunn PHX 04/19/1989 PHX @ MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p29
+aVEd Nealy PHX 04/19/1989 PHX @ MIA W 10 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -
+p30
+aVTim Perry PHX 04/19/1989 PHX @ MIA W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -
+p31
+aVKevin Johnson PHX 04/17/1989 PHX vs. SAC W 33 17 5 7 71.4 0 0 - 7 8 87.5 0 5 5 15 3 0 1 3 -
+p32
+aVEd Nealy PHX 04/17/1989 PHX vs. SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p33
+aVArmen Gilliam PHX 04/17/1989 PHX vs. SAC W 25 19 8 12 66.7 0 0 - 3 6 50.0 3 6 9 0 2 1 2 3 -
+p34
+aVT.R. Dunn PHX 04/17/1989 PHX vs. SAC W 7 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 1 1 0 1 0 -
+p35
+aVTom Chambers PHX 04/17/1989 PHX vs. SAC W 21 20 7 12 58.3 0 0 - 6 7 85.7 1 7 8 1 0 0 1 2 -
+p36
+aVTim Perry PHX 04/17/1989 PHX vs. SAC W 12 4 2 5 40.0 0 0 - 0 0 - 2 1 3 2 0 0 1 1 -
+p37
+aVTyrone Corbin PHX 04/17/1989 PHX vs. SAC W 25 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 3 0 0 1 -
+p38
+aVMark West PHX 04/17/1989 PHX vs. SAC W 22 8 4 6 66.7 0 0 - 0 1 0.0 2 1 3 0 0 2 2 3 -
+p39
+aVJeff Hornacek PHX 04/17/1989 PHX vs. SAC W 28 15 5 10 50.0 2 2 100.0 3 4 75.0 1 1 2 4 2 0 1 2 -
+p40
+aVAndrew Lang PHX 04/17/1989 PHX vs. SAC W 13 8 3 5 60.0 0 0 - 2 3 66.7 2 1 3 1 0 0 0 0 -
+p41
+aVEddie Johnson PHX 04/17/1989 PHX vs. SAC W 21 24 8 16 50.0 3 5 60.0 5 5 100.0 2 3 5 2 2 0 1 2 -
+p42
+aVDan Majerle PHX 04/17/1989 PHX vs. SAC W 28 16 5 9 55.6 1 2 50.0 5 5 100.0 0 4 4 6 3 1 2 0 -
+p43
+aVJeff Hornacek PHX 04/15/1989 PHX vs. SAN W 22 8 4 6 66.7 0 0 - 0 0 - 2 1 3 2 0 0 2 5 -
+p44
+aVMark West PHX 04/15/1989 PHX vs. SAN W 25 10 4 5 80.0 0 0 - 2 4 50.0 1 7 8 0 2 1 0 4 -
+p45
+aVEd Nealy PHX 04/15/1989 PHX vs. SAN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p46
+aVTom Chambers PHX 04/15/1989 PHX vs. SAN W 28 38 12 20 60.0 0 1 0.0 14 15 93.3 0 8 8 1 1 0 3 2 -
+p47
+aVTim Perry PHX 04/15/1989 PHX vs. SAN W 9 10 5 8 62.5 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -
+p48
+aVArmen Gilliam PHX 04/15/1989 PHX vs. SAN W 17 6 2 6 33.3 0 0 - 2 2 100.0 0 4 4 1 2 0 2 1 -
+p49
+aVTyrone Corbin PHX 04/15/1989 PHX vs. SAN W 24 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 4 2 0 2 3 -
+p50
+aVDan Majerle PHX 04/15/1989 PHX vs. SAN W 31 15 6 9 66.7 1 2 50.0 2 5 40.0 1 3 4 4 4 2 2 4 -
+p51
+aVKevin Johnson PHX 04/15/1989 PHX vs. SAN W 38 21 9 17 52.9 0 0 - 3 3 100.0 0 4 4 20 4 1 3 4 -
+p52
+aVAndrew Lang PHX 04/15/1989 PHX vs. SAN W 14 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 1 0 0 -
+p53
+aVT.R. Dunn PHX 04/15/1989 PHX vs. SAN W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -
+p54
+aVEddie Johnson PHX 04/15/1989 PHX vs. SAN W 22 18 8 15 53.3 2 3 66.7 0 0 - 0 0 0 3 0 0 3 1 -
+p55
+aVEddie Johnson PHX 04/13/1989 PHX @ HOU W 27 24 9 20 45.0 3 5 60.0 3 5 60.0 2 2 4 2 1 0 1 1 -
+p56
+aVTom Chambers PHX 04/13/1989 PHX @ HOU W 39 27 9 22 40.9 0 0 - 9 10 90.0 3 10 13 1 1 0 1 3 -
+p57
+aVJeff Hornacek PHX 04/13/1989 PHX @ HOU W 38 18 8 17 47.1 0 0 - 2 2 100.0 4 5 9 3 3 0 2 4 -
+p58
+aVArmen Gilliam PHX 04/13/1989 PHX @ HOU W 24 16 7 10 70.0 0 0 - 2 2 100.0 4 4 8 0 1 1 2 3 -
+p59
+aVAndrew Lang PHX 04/13/1989 PHX @ HOU W 10 3 0 0 - 0 0 - 3 4 75.0 2 0 2 1 0 0 0 2 -
+p60
+aVMark West PHX 04/13/1989 PHX @ HOU W 22 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 1 2 5 -
+p61
+aVTyrone Corbin PHX 04/13/1989 PHX @ HOU W 22 6 3 4 75.0 0 0 - 0 0 - 1 4 5 2 0 0 0 3 -
+p62
+aVKevin Johnson PHX 04/13/1989 PHX @ HOU W 40 17 7 14 50.0 0 0 - 3 4 75.0 0 2 2 15 0 0 3 2 -
+p63
+aVDan Majerle PHX 04/13/1989 PHX @ HOU W 18 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -
+p64
+aVTim Perry PHX 04/12/1989 PHX @ DAL W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p65
+aVT.R. Dunn PHX 04/12/1989 PHX @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p66
+aVKevin Johnson PHX 04/12/1989 PHX @ DAL W 37 15 7 14 50.0 0 0 - 1 1 100.0 1 2 3 9 2 0 5 1 -
+p67
+aVDan Majerle PHX 04/12/1989 PHX @ DAL W 23 14 5 11 45.5 1 3 33.3 3 4 75.0 0 5 5 1 0 0 0 1 -
+p68
+aVAndrew Lang PHX 04/12/1989 PHX @ DAL W 7 0 0 0 - 0 0 - 0 0 - 2 2 4 1 0 2 0 1 -
+p69
+aVJeff Hornacek PHX 04/12/1989 PHX @ DAL W 35 21 8 15 53.3 0 2 0.0 5 6 83.3 2 2 4 10 1 0 2 0 -
+p70
+aVTyrone Corbin PHX 04/12/1989 PHX @ DAL W 21 10 4 7 57.1 0 0 - 2 2 100.0 3 7 10 1 1 0 1 3 -
+p71
+aVEd Nealy PHX 04/12/1989 PHX @ DAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p72
+aVTom Chambers PHX 04/12/1989 PHX @ DAL W 27 15 6 15 40.0 0 1 0.0 3 6 50.0 2 4 6 3 1 0 1 4 -
+p73
+aVEddie Johnson PHX 04/12/1989 PHX @ DAL W 32 17 7 17 41.2 0 3 0.0 3 3 100.0 0 5 5 5 1 0 5 4 -
+p74
+aVMark West PHX 04/12/1989 PHX @ DAL W 32 7 3 5 60.0 0 0 - 1 5 20.0 3 12 15 0 0 0 2 4 -
+p75
+aVArmen Gilliam PHX 04/12/1989 PHX @ DAL W 23 8 4 6 66.7 0 0 - 0 0 - 0 4 4 0 1 0 1 1 -
+p76
+aVT.R. Dunn PHX 04/08/1989 PHX @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p77
+aVTim Perry PHX 04/08/1989 PHX @ LAC W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p78
+aVEddie Johnson PHX 04/08/1989 PHX @ LAC W 37 29 11 20 55.0 1 2 50.0 6 6 100.0 3 0 3 3 3 1 3 3 -
+p79
+aVJeff Hornacek PHX 04/08/1989 PHX @ LAC W 37 18 7 13 53.8 0 0 - 4 6 66.7 1 3 4 3 3 0 1 1 -
+p80
+aVDan Majerle PHX 04/08/1989 PHX @ LAC W 26 1 0 3 0.0 0 3 0.0 1 2 50.0 1 1 2 5 1 0 1 3 -
+p81
+aVAndrew Lang PHX 04/08/1989 PHX @ LAC W 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -
+p82
+aVTom Chambers PHX 04/08/1989 PHX @ LAC W 35 18 8 16 50.0 0 0 - 2 2 100.0 0 8 8 4 1 0 2 4 -
+p83
+aVMark West PHX 04/08/1989 PHX @ LAC W 37 6 3 6 50.0 0 0 - 0 0 - 4 13 17 2 0 3 2 4 -
+p84
+aVTyrone Corbin PHX 04/08/1989 PHX @ LAC W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -
+p85
+aVEd Nealy PHX 04/08/1989 PHX @ LAC W 2 2 1 2 50.0 0 1 0.0 0 2 0.0 0 1 1 0 0 0 0 0 -
+p86
+aVArmen Gilliam PHX 04/08/1989 PHX @ LAC W 18 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -
+p87
+aVKevin Johnson PHX 04/08/1989 PHX @ LAC W 32 29 8 17 47.1 0 1 0.0 13 13 100.0 0 1 1 12 3 1 1 1 -
+p88
+aVKevin Johnson PHX 04/06/1989 PHX @ SEA W 42 19 6 15 40.0 0 0 - 7 9 77.8 0 2 2 9 1 0 1 2 -
+p89
+aVDan Majerle PHX 04/06/1989 PHX @ SEA W 21 4 1 4 25.0 0 2 0.0 2 2 100.0 1 2 3 2 2 0 2 2 -
+p90
+aVMark West PHX 04/06/1989 PHX @ SEA W 21 8 3 4 75.0 0 0 - 2 4 50.0 2 1 3 0 0 2 1 5 -
+p91
+aVAndrew Lang PHX 04/06/1989 PHX @ SEA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -
+p92
+aVEddie Johnson PHX 04/06/1989 PHX @ SEA W 32 30 11 13 84.6 3 4 75.0 5 6 83.3 0 5 5 3 0 0 3 1 -
+p93
+aVTom Chambers PHX 04/06/1989 PHX @ SEA W 42 32 11 18 61.1 0 1 0.0 10 11 90.9 2 10 12 4 1 2 6 4 -
+p94
+aVTyrone Corbin PHX 04/06/1989 PHX @ SEA W 19 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 1 1 0 0 2 -
+p95
+aVArmen Gilliam PHX 04/06/1989 PHX @ SEA W 19 14 5 9 55.6 0 0 - 4 5 80.0 2 4 6 0 0 0 1 1 -
+p96
+aVJeff Hornacek PHX 04/06/1989 PHX @ SEA W 35 12 5 11 45.5 0 0 - 2 2 100.0 0 4 4 9 2 0 0 1 -
+p97
+aVT.R. Dunn PHX 04/06/1989 PHX @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p98
+aVKevin Johnson PHX 04/05/1989 PHX vs. UTH W 37 32 8 12 66.7 0 0 - 16 18 88.9 0 2 2 7 2 0 4 4 -
+p99
+aVDan Majerle PHX 04/05/1989 PHX vs. UTH W 25 4 1 8 12.5 0 3 0.0 2 2 100.0 4 2 6 1 2 0 0 2 -
+p100
+aVArmen Gilliam PHX 04/05/1989 PHX vs. UTH W 32 10 4 8 50.0 0 0 - 2 5 40.0 5 10 15 1 1 2 2 5 -
+p101
+aVTyrone Corbin PHX 04/05/1989 PHX vs. UTH W 14 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 3 1 -
+p102
+aVEddie Johnson PHX 04/05/1989 PHX vs. UTH W 28 21 9 15 60.0 0 2 0.0 3 4 75.0 1 2 3 0 0 0 3 3 -
+p103
+aVJeff Hornacek PHX 04/05/1989 PHX vs. UTH W 35 13 6 12 50.0 1 3 33.3 0 0 - 2 5 7 6 2 0 3 3 -
+p104
+aVTom Chambers PHX 04/05/1989 PHX vs. UTH W 38 30 10 20 50.0 0 1 0.0 10 13 76.9 0 8 8 1 1 1 3 2 -
+p105
+aVMark West PHX 04/05/1989 PHX vs. UTH W 31 0 0 1 0.0 0 0 - 0 2 0.0 1 4 5 0 2 6 3 5 -
+p106
+aVT.R. Dunn PHX 03/31/1989 PHX vs. MIL W 14 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 1 0 0 5 -
+p107
+aVDan Majerle PHX 03/31/1989 PHX vs. MIL W 38 21 6 10 60.0 3 4 75.0 6 6 100.0 0 3 3 5 1 0 1 4 -
+p108
+aVAndrew Lang PHX 03/31/1989 PHX vs. MIL W 14 4 2 2 100.0 0 0 - 0 0 - 2 4 6 1 0 0 0 3 -
+p109
+aVMark West PHX 03/31/1989 PHX vs. MIL W 31 11 5 8 62.5 0 0 - 1 4 25.0 1 6 7 0 1 3 1 4 -
+p110
+aVTom Chambers PHX 03/31/1989 PHX vs. MIL W 42 34 16 27 59.3 0 2 0.0 2 2 100.0 1 13 14 3 1 1 3 3 -
+p111
+aVEddie Johnson PHX 03/31/1989 PHX vs. MIL W 34 28 10 19 52.6 6 10 60.0 2 3 66.7 0 3 3 3 0 0 0 3 -
+p112
+aVKevin Johnson PHX 03/31/1989 PHX vs. MIL W 47 17 2 10 20.0 0 0 - 13 14 92.9 0 3 3 18 1 0 7 0 -
+p113
+aVTyrone Corbin PHX 03/31/1989 PHX vs. MIL W 20 7 3 6 50.0 0 0 - 1 2 50.0 3 7 10 2 0 1 0 3 -
+p114
+aVDan Majerle PHX 03/30/1989 PHX @ SAC L 20 12 4 6 66.7 3 4 75.0 1 1 100.0 0 1 1 2 1 0 3 6 -
+p115
+aVArmen Gilliam PHX 03/30/1989 PHX @ SAC L 5 3 0 0 - 0 0 - 3 4 75.0 0 0 0 0 0 0 1 1 -
+p116
+aVEddie Johnson PHX 03/30/1989 PHX @ SAC L 28 10 4 14 28.6 2 4 50.0 0 0 - 0 3 3 2 0 0 5 5 -
+p117
+aVKevin Johnson PHX 03/30/1989 PHX @ SAC L 39 22 9 18 50.0 0 0 - 4 4 100.0 1 1 2 9 2 1 2 3 -
+p118
+aVTom Chambers PHX 03/30/1989 PHX @ SAC L 40 35 11 26 42.3 0 1 0.0 13 14 92.9 1 8 9 4 3 0 4 2 -
+p119
+aVTyrone Corbin PHX 03/30/1989 PHX @ SAC L 30 13 4 7 57.1 0 0 - 5 6 83.3 4 6 10 4 1 0 3 4 -
+p120
+aVEd Nealy PHX 03/30/1989 PHX @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p121
+aVTim Perry PHX 03/30/1989 PHX @ SAC L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p122
+aVAndrew Lang PHX 03/30/1989 PHX @ SAC L 7 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 2 0 1 -
+p123
+aVJeff Hornacek PHX 03/30/1989 PHX @ SAC L 33 18 9 16 56.3 0 0 - 0 0 - 4 1 5 2 1 0 1 3 -
+p124
+aVMark West PHX 03/30/1989 PHX @ SAC L 34 6 3 4 75.0 0 0 - 0 0 - 1 4 5 1 0 0 2 5 -
+p125
+aVEddie Johnson PHX 03/28/1989 PHX vs. LAL W 31 21 8 15 53.3 3 4 75.0 2 2 100.0 2 3 5 1 0 0 1 2 -
+p126
+aVMark West PHX 03/28/1989 PHX vs. LAL W 33 7 3 4 75.0 0 0 - 1 2 50.0 1 8 9 0 1 8 1 1 -
+p127
+aVJeff Hornacek PHX 03/28/1989 PHX vs. LAL W 25 14 6 8 75.0 0 1 0.0 2 3 66.7 1 3 4 10 1 0 1 3 -
+p128
+aVTyrone Corbin PHX 03/28/1989 PHX vs. LAL W 26 9 4 6 66.7 0 0 - 1 2 50.0 0 4 4 1 0 1 0 4 -
+p129
+aVEd Nealy PHX 03/28/1989 PHX vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p130
+aVAndrew Lang PHX 03/28/1989 PHX vs. LAL W 4 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p131
+aVT.R. Dunn PHX 03/28/1989 PHX vs. LAL W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p132
+aVDan Majerle PHX 03/28/1989 PHX vs. LAL W 29 10 3 6 50.0 0 2 0.0 4 4 100.0 2 7 9 2 0 0 2 3 -
+p133
+aVKevin Johnson PHX 03/28/1989 PHX vs. LAL W 35 24 9 15 60.0 0 0 - 6 8 75.0 1 3 4 17 1 0 4 3 -
+p134
+aVTim Perry PHX 03/28/1989 PHX vs. LAL W 2 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p135
+aVTom Chambers PHX 03/28/1989 PHX vs. LAL W 36 28 12 22 54.5 0 2 0.0 4 5 80.0 1 6 7 1 1 2 3 5 -
+p136
+aVArmen Gilliam PHX 03/28/1989 PHX vs. LAL W 8 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 -
+p137
+aVTyrone Corbin PHX 03/26/1989 PHX @ LAL L 27 12 4 4 100.0 0 0 - 4 4 100.0 1 1 2 1 2 0 0 5 -
+p138
+aVMark West PHX 03/26/1989 PHX @ LAL L 28 16 8 9 88.9 0 0 - 0 0 - 3 3 6 0 0 1 1 4 -
+p139
+aVKevin Johnson PHX 03/26/1989 PHX @ LAL L 43 26 8 18 44.4 0 0 - 10 10 100.0 1 3 4 16 1 0 1 2 -
+p140
+aVTom Chambers PHX 03/26/1989 PHX @ LAL L 36 11 5 21 23.8 0 0 - 1 1 100.0 1 6 7 4 1 1 2 3 -
+p141
+aVEddie Johnson PHX 03/26/1989 PHX @ LAL L 35 29 12 18 66.7 1 2 50.0 4 9 44.4 3 5 8 1 2 0 4 4 -
+p142
+aVDan Majerle PHX 03/26/1989 PHX @ LAL L 31 14 6 13 46.2 1 3 33.3 1 2 50.0 2 5 7 1 2 0 1 2 -
+p143
+aVT.R. Dunn PHX 03/26/1989 PHX @ LAL L 16 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 0 -
+p144
+aVJeff Hornacek PHX 03/26/1989 PHX @ LAL L 24 8 4 8 50.0 0 0 - 0 0 - 0 1 1 5 0 0 1 3 -
+p145
+aVDan Majerle PHX 03/25/1989 PHX @ LAC W 28 8 3 10 30.0 0 1 0.0 2 2 100.0 4 4 8 3 1 0 0 3 -
+p146
+aVEddie Johnson PHX 03/25/1989 PHX @ LAC W 34 22 11 19 57.9 0 2 0.0 0 0 - 1 3 4 5 0 1 3 4 -
+p147
+aVKevin Johnson PHX 03/25/1989 PHX @ LAC W 41 29 13 20 65.0 0 1 0.0 3 3 100.0 0 4 4 16 3 1 7 1 -
+p148
+aVArmen Gilliam PHX 03/25/1989 PHX @ LAC W 12 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 1 0 0 1 -
+p149
+aVTim Perry PHX 03/25/1989 PHX @ LAC W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -
+p150
+aVAndrew Lang PHX 03/25/1989 PHX @ LAC W 6 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p151
+aVTyrone Corbin PHX 03/25/1989 PHX @ LAC W 29 11 5 8 62.5 0 0 - 1 2 50.0 3 7 10 2 2 0 0 5 -
+p152
+aVMark West PHX 03/25/1989 PHX @ LAC W 24 7 2 4 50.0 0 0 - 3 3 100.0 2 7 9 1 1 2 1 5 -
+p153
+aVTom Chambers PHX 03/25/1989 PHX @ LAC W 37 25 11 21 52.4 0 2 0.0 3 4 75.0 1 4 5 2 3 1 0 4 -
+p154
+aVJeff Hornacek PHX 03/25/1989 PHX @ LAC W 28 15 6 12 50.0 1 2 50.0 2 2 100.0 0 3 3 6 1 0 1 1 -
+p155
+aVTyrone Corbin PHX 03/23/1989 PHX @ GOS W 32 19 7 10 70.0 0 0 - 5 6 83.3 3 5 8 5 1 1 3 2 -
+p156
+aVEddie Johnson PHX 03/23/1989 PHX @ GOS W 29 13 4 11 36.4 1 1 100.0 4 4 100.0 2 3 5 1 0 0 1 4 -
+p157
+aVTim Perry PHX 03/23/1989 PHX @ GOS W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 0 -
+p158
+aVT.R. Dunn PHX 03/23/1989 PHX @ GOS W 11 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 1 0 0 0 1 -
+p159
+aVMark West PHX 03/23/1989 PHX @ GOS W 21 8 4 8 50.0 0 0 - 0 0 - 3 7 10 1 1 0 1 5 -
+p160
+aVDan Majerle PHX 03/23/1989 PHX @ GOS W 40 25 10 17 58.8 3 5 60.0 2 2 100.0 0 8 8 5 1 0 0 5 -
+p161
+aVEd Nealy PHX 03/23/1989 PHX @ GOS W 4 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -
+p162
+aVJeff Hornacek PHX 03/23/1989 PHX @ GOS W 26 20 8 13 61.5 2 2 100.0 2 3 66.7 0 3 3 9 5 0 1 1 -
+p163
+aVAndrew Lang PHX 03/23/1989 PHX @ GOS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p164
+aVTom Chambers PHX 03/23/1989 PHX @ GOS W 36 33 15 28 53.6 2 3 66.7 1 1 100.0 1 2 3 2 0 0 3 2 -
+p165
+aVKevin Johnson PHX 03/23/1989 PHX @ GOS W 36 26 9 13 69.2 0 0 - 8 9 88.9 0 3 3 11 3 1 3 4 -
+p166
+aVAndrew Lang PHX 03/22/1989 PHX vs. CHI L 3 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -
+p167
+aVTom Chambers PHX 03/22/1989 PHX vs. CHI L 41 31 11 25 44.0 1 3 33.3 8 8 100.0 2 9 11 2 0 0 4 3 -
+p168
+aVMark West PHX 03/22/1989 PHX vs. CHI L 25 6 3 5 60.0 0 0 - 0 0 - 1 7 8 0 0 3 1 3 -
+p169
+aVTyrone Corbin PHX 03/22/1989 PHX vs. CHI L 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 0 -
+p170
+aVDan Majerle PHX 03/22/1989 PHX vs. CHI L 17 4 2 3 66.7 0 1 0.0 0 0 - 1 5 6 1 0 0 0 3 -
+p171
+aVEddie Johnson PHX 03/22/1989 PHX vs. CHI L 40 29 13 26 50.0 2 4 50.0 1 2 50.0 0 4 4 4 0 0 1 4 -
+p172
+aVT.R. Dunn PHX 03/22/1989 PHX vs. CHI L 22 0 0 0 - 0 0 - 0 0 - 3 4 7 0 0 0 0 2 -
+p173
+aVJeff Hornacek PHX 03/22/1989 PHX vs. CHI L 30 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 4 0 0 0 2 -
+p174
+aVKevin Johnson PHX 03/22/1989 PHX vs. CHI L 42 30 9 17 52.9 0 1 0.0 12 13 92.3 1 1 2 14 2 0 4 3 -
+p175
+aVArmen Gilliam PHX 03/22/1989 PHX vs. CHI L 7 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 0 -
+p176
+aVMark West PHX 03/20/1989 PHX vs. MIA W 30 11 5 6 83.3 0 0 - 1 3 33.3 3 6 9 0 1 4 1 3 -
+p177
+aVEddie Johnson PHX 03/20/1989 PHX vs. MIA W 31 20 9 17 52.9 0 1 0.0 2 2 100.0 0 4 4 5 1 0 1 3 -
+p178
+aVTom Chambers PHX 03/20/1989 PHX vs. MIA W 37 26 6 14 42.9 0 0 - 14 16 87.5 0 8 8 4 1 1 1 3 -
+p179
+aVDan Majerle PHX 03/20/1989 PHX vs. MIA W 16 2 1 8 12.5 0 1 0.0 0 0 - 1 2 3 0 4 0 3 3 -
+p180
+aVTim Perry PHX 03/20/1989 PHX vs. MIA W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p181
+aVKevin Johnson PHX 03/20/1989 PHX vs. MIA W 43 21 8 10 80.0 0 0 - 5 5 100.0 1 4 5 16 0 0 5 2 -
+p182
+aVAndrew Lang PHX 03/20/1989 PHX vs. MIA W 18 7 3 6 50.0 0 0 - 1 5 20.0 3 3 6 0 1 3 2 2 -
+p183
+aVArmen Gilliam PHX 03/20/1989 PHX vs. MIA W 11 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 0 0 0 1 1 -
+p184
+aVJeff Hornacek PHX 03/20/1989 PHX vs. MIA W 37 20 10 14 71.4 0 0 - 0 0 - 2 6 8 4 3 0 4 1 -
+p185
+aVTyrone Corbin PHX 03/20/1989 PHX vs. MIA W 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -
+p186
+aVMark West PHX 03/18/1989 PHX vs. SEA W 32 11 5 10 50.0 0 0 - 1 2 50.0 3 6 9 1 1 5 1 1 -
+p187
+aVTyrone Corbin PHX 03/18/1989 PHX vs. SEA W 30 22 10 13 76.9 0 0 - 2 3 66.7 1 4 5 1 2 0 1 3 -
+p188
+aVEddie Johnson PHX 03/18/1989 PHX vs. SEA W 34 29 14 20 70.0 0 1 0.0 1 2 50.0 0 2 2 3 1 0 3 2 -
+p189
+aVEd Nealy PHX 03/18/1989 PHX vs. SEA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p190
+aVTim Perry PHX 03/18/1989 PHX vs. SEA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p191
+aVDan Majerle PHX 03/18/1989 PHX vs. SEA W 14 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p192
+aVAndrew Lang PHX 03/18/1989 PHX vs. SEA W 13 6 2 2 100.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 2 -
+p193
+aVTom Chambers PHX 03/18/1989 PHX vs. SEA W 28 16 8 19 42.1 0 1 0.0 0 0 - 0 3 3 2 0 0 4 2 -
+p194
+aVJeff Hornacek PHX 03/18/1989 PHX vs. SEA W 31 10 3 7 42.9 0 0 - 4 4 100.0 0 2 2 11 3 0 2 1 -
+p195
+aVKevin Johnson PHX 03/18/1989 PHX vs. SEA W 37 16 3 6 50.0 0 0 - 10 10 100.0 1 2 3 16 4 0 0 2 -
+p196
+aVT.R. Dunn PHX 03/18/1989 PHX vs. SEA W 17 4 0 3 0.0 0 0 - 4 4 100.0 1 2 3 2 2 0 0 3 -
+p197
+aVEddie Johnson PHX 03/17/1989 PHX vs. POR W 34 30 12 23 52.2 2 7 28.6 4 4 100.0 1 4 5 2 3 0 4 4 -
+p198
+aVDan Majerle PHX 03/17/1989 PHX vs. POR W 9 4 1 6 16.7 0 2 0.0 2 2 100.0 1 0 1 2 2 0 0 1 -
+p199
+aVT.R. Dunn PHX 03/17/1989 PHX vs. POR W 22 1 0 1 0.0 0 0 - 1 2 50.0 7 3 10 3 0 0 1 3 -
+p200
+aVAndrew Lang PHX 03/17/1989 PHX vs. POR W 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 4 -
+p201
+aVTom Chambers PHX 03/17/1989 PHX vs. POR W 40 34 11 26 42.3 2 3 66.7 10 10 100.0 3 6 9 5 0 0 1 3 -
+p202
+aVKevin Johnson PHX 03/17/1989 PHX vs. POR W 41 39 12 23 52.2 0 1 0.0 15 18 83.3 1 5 6 12 1 0 3 2 -
+p203
+aVMark West PHX 03/17/1989 PHX vs. POR W 24 6 1 2 50.0 0 0 - 4 6 66.7 1 6 7 0 1 2 3 5 -
+p204
+aVTyrone Corbin PHX 03/17/1989 PHX vs. POR W 33 9 4 6 66.7 0 0 - 1 2 50.0 2 7 9 1 1 0 3 3 -
+p205
+aVJeff Hornacek PHX 03/17/1989 PHX vs. POR W 24 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 5 0 0 2 2 -
+p206
+aVTim Perry PHX 03/14/1989 PHX @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p207
+aVAndrew Lang PHX 03/14/1989 PHX @ ATL W 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 5 -
+p208
+aVJeff Hornacek PHX 03/14/1989 PHX @ ATL W 35 11 5 12 41.7 0 0 - 1 1 100.0 1 2 3 5 2 0 2 2 -
+p209
+aVTyrone Corbin PHX 03/14/1989 PHX @ ATL W 30 14 6 13 46.2 0 0 - 2 2 100.0 8 4 12 3 5 1 2 3 -
+p210
+aVEddie Johnson PHX 03/14/1989 PHX @ ATL W 30 23 10 15 66.7 1 2 50.0 2 2 100.0 0 4 4 3 1 0 3 4 -
+p211
+aVKevin Johnson PHX 03/14/1989 PHX @ ATL W 39 17 5 13 38.5 0 0 - 7 11 63.6 1 8 9 14 1 0 4 4 -
+p212
+aVDan Majerle PHX 03/14/1989 PHX @ ATL W 24 7 3 7 42.9 1 2 50.0 0 0 - 1 4 5 2 1 0 1 2 -
+p213
+aVTom Chambers PHX 03/14/1989 PHX @ ATL W 45 38 12 28 42.9 3 3 100.0 11 12 91.7 0 10 10 2 0 1 5 3 -
+p214
+aVMark West PHX 03/14/1989 PHX @ ATL W 17 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 1 0 6 -
+p215
+aVTyrone Corbin PHX 03/13/1989 PHX @ MIA W 27 12 5 8 62.5 0 0 - 2 2 100.0 3 3 6 0 2 0 3 2 -
+p216
+aVTom Chambers PHX 03/13/1989 PHX @ MIA W 39 20 7 16 43.8 0 0 - 6 6 100.0 2 4 6 3 2 0 5 4 -
+p217
+aVJeff Hornacek PHX 03/13/1989 PHX @ MIA W 41 19 8 15 53.3 0 1 0.0 3 3 100.0 0 5 5 6 3 0 1 3 -
+p218
+aVArmen Gilliam PHX 03/13/1989 PHX @ MIA W 19 9 3 7 42.9 0 0 - 3 4 75.0 2 0 2 1 0 0 1 0 -
+p219
+aVKevin Johnson PHX 03/13/1989 PHX @ MIA W 38 20 5 13 38.5 0 0 - 10 13 76.9 1 3 4 8 3 1 5 1 -
+p220
+aVMark West PHX 03/13/1989 PHX @ MIA W 31 12 4 6 66.7 0 0 - 4 4 100.0 3 3 6 0 0 4 1 3 -
+p221
+aVEddie Johnson PHX 03/13/1989 PHX @ MIA W 24 18 6 12 50.0 2 4 50.0 4 4 100.0 0 3 3 4 0 0 2 4 -
+p222
+aVDan Majerle PHX 03/13/1989 PHX @ MIA W 17 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 0 0 3 -
+p223
+aVTim Perry PHX 03/13/1989 PHX @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -
+p224
+aVT.R. Dunn PHX 03/11/1989 PHX @ MIL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p225
+aVTom Chambers PHX 03/11/1989 PHX @ MIL L 41 21 7 28 25.0 1 2 50.0 6 8 75.0 1 7 8 3 1 2 2 2 -
+p226
+aVKevin Johnson PHX 03/11/1989 PHX @ MIL L 47 28 10 15 66.7 0 1 0.0 8 8 100.0 1 7 8 6 2 1 6 3 -
+p227
+aVSteve Kerr PHX 03/11/1989 PHX @ MIL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p228
+aVMark West PHX 03/11/1989 PHX @ MIL L 29 9 4 5 80.0 0 0 - 1 2 50.0 3 7 10 0 0 2 1 1 -
+p229
+aVTyrone Corbin PHX 03/11/1989 PHX @ MIL L 36 13 6 12 50.0 0 0 - 1 1 100.0 3 9 12 3 2 1 3 6 -
+p230
+aVJeff Hornacek PHX 03/11/1989 PHX @ MIL L 36 10 4 12 33.3 0 2 0.0 2 2 100.0 0 1 1 3 3 0 3 3 -
+p231
+aVTim Perry PHX 03/11/1989 PHX @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p232
+aVDan Majerle PHX 03/11/1989 PHX @ MIL L 23 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 2 -
+p233
+aVArmen Gilliam PHX 03/11/1989 PHX @ MIL L 22 10 5 8 62.5 0 0 - 0 0 - 0 7 7 0 0 0 2 0 -
+p234
+aVKevin Johnson PHX 03/10/1989 PHX @ IND L 41 21 9 13 69.2 0 0 - 3 4 75.0 1 2 3 9 0 1 4 5 -
+p235
+aVSteve Kerr PHX 03/10/1989 PHX @ IND L 11 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 1 1 0 0 2 -
+p236
+aVDan Majerle PHX 03/10/1989 PHX @ IND L 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 4 -
+p237
+aVTyrone Corbin PHX 03/10/1989 PHX @ IND L 36 30 12 18 66.7 0 0 - 6 8 75.0 7 0 7 3 2 0 1 4 -
+p238
+aVJeff Hornacek PHX 03/10/1989 PHX @ IND L 42 24 10 17 58.8 3 5 60.0 1 2 50.0 0 2 2 5 1 0 2 4 -
+p239
+aVMark West PHX 03/10/1989 PHX @ IND L 27 7 2 3 66.7 0 0 - 3 4 75.0 2 1 3 0 1 2 0 4 -
+p240
+aVTom Chambers PHX 03/10/1989 PHX @ IND L 43 20 7 22 31.8 0 1 0.0 6 6 100.0 3 5 8 6 0 0 6 5 -
+p241
+aVArmen Gilliam PHX 03/10/1989 PHX @ IND L 22 5 2 9 22.2 0 0 - 1 2 50.0 4 3 7 0 0 0 2 2 -
+p242
+aVKevin Johnson PHX 03/07/1989 PHX @ NYK L 39 31 6 14 42.9 0 0 - 19 20 95.0 0 2 2 11 0 0 8 5 -
+p243
+aVJeff Hornacek PHX 03/07/1989 PHX @ NYK L 40 13 6 11 54.5 0 2 0.0 1 2 50.0 0 3 3 5 3 0 0 3 -
+p244
+aVArmen Gilliam PHX 03/07/1989 PHX @ NYK L 27 16 8 14 57.1 0 0 - 0 0 - 4 4 8 1 0 0 0 1 -
+p245
+aVMark West PHX 03/07/1989 PHX @ NYK L 21 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 2 2 5 -
+p246
+aVTyrone Corbin PHX 03/07/1989 PHX @ NYK L 25 9 2 5 40.0 0 0 - 5 6 83.3 1 3 4 0 4 0 0 4 -
+p247
+aVDan Majerle PHX 03/07/1989 PHX @ NYK L 25 15 6 13 46.2 1 1 100.0 2 3 66.7 0 4 4 2 1 0 1 3 -
+p248
+aVSteve Kerr PHX 03/07/1989 PHX @ NYK L 15 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 -
+p249
+aVTom Chambers PHX 03/07/1989 PHX @ NYK L 40 31 12 19 63.2 1 3 33.3 6 8 75.0 3 4 7 5 2 0 9 4 -
+p250
+aVTim Perry PHX 03/07/1989 PHX @ NYK L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p251
+aVTim Perry PHX 03/06/1989 PHX @ PHL W 22 10 4 6 66.7 0 0 - 2 4 50.0 1 4 5 0 0 4 1 2 -
+p252
+aVMark West PHX 03/06/1989 PHX @ PHL W 19 5 1 2 50.0 0 0 - 3 4 75.0 3 4 7 0 0 2 3 4 -
+p253
+aVEd Nealy PHX 03/06/1989 PHX @ PHL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p254
+aVSteve Kerr PHX 03/06/1989 PHX @ PHL W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p255
+aVTom Chambers PHX 03/06/1989 PHX @ PHL W 38 20 8 18 44.4 0 1 0.0 4 6 66.7 1 6 7 3 1 0 5 4 -
+p256
+aVKevin Johnson PHX 03/06/1989 PHX @ PHL W 45 19 7 17 41.2 0 0 - 5 6 83.3 0 4 4 14 0 0 4 2 -
+p257
+aVDan Majerle PHX 03/06/1989 PHX @ PHL W 23 7 3 3 100.0 0 0 - 1 2 50.0 3 0 3 0 0 1 1 3 -
+p258
+aVJeff Hornacek PHX 03/06/1989 PHX @ PHL W 42 21 10 19 52.6 0 2 0.0 1 1 100.0 2 9 11 4 3 0 0 4 -
+p259
+aVTyrone Corbin PHX 03/06/1989 PHX @ PHL W 20 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 0 0 2 2 -
+p260
+aVArmen Gilliam PHX 03/06/1989 PHX @ PHL W 28 20 8 13 61.5 0 0 - 4 4 100.0 1 3 4 3 2 0 1 4 -
+p261
+aVT.R. Dunn PHX 03/04/1989 PHX vs. LAC W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 1 0 0 0 -
+p262
+aVMark West PHX 03/04/1989 PHX vs. LAC W 27 14 5 6 83.3 0 0 - 4 7 57.1 5 7 12 0 0 2 1 0 -
+p263
+aVDan Majerle PHX 03/04/1989 PHX vs. LAC W 35 17 7 17 41.2 0 1 0.0 3 5 60.0 0 6 6 3 1 0 4 5 -
+p264
+aVTim Perry PHX 03/04/1989 PHX vs. LAC W 26 12 6 6 100.0 0 0 - 0 0 - 4 1 5 0 1 0 1 0 -
+p265
+aVArmen Gilliam PHX 03/04/1989 PHX vs. LAC W 35 25 11 22 50.0 0 0 - 3 5 60.0 5 9 14 1 0 0 0 3 -
+p266
+aVTyrone Corbin PHX 03/04/1989 PHX vs. LAC W 24 10 4 8 50.0 0 0 - 2 2 100.0 5 2 7 1 1 0 0 4 -
+p267
+aVEd Nealy PHX 03/04/1989 PHX vs. LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p268
+aVAndrew Lang PHX 03/04/1989 PHX vs. LAC W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -
+p269
+aVKevin Johnson PHX 03/04/1989 PHX vs. LAC W 39 21 7 11 63.6 0 0 - 7 7 100.0 0 6 6 14 0 1 3 2 -
+p270
+aVTom Chambers PHX 03/04/1989 PHX vs. LAC W 36 23 10 23 43.5 0 2 0.0 3 5 60.0 4 6 10 2 1 0 6 2 -
+p271
+aVSteve Kerr PHX 03/04/1989 PHX vs. LAC W 9 7 3 4 75.0 1 1 100.0 0 1 0.0 0 1 1 2 1 0 0 0 -
+p272
+aVTom Chambers PHX 03/02/1989 PHX vs. SAC W 41 32 12 28 42.9 2 3 66.7 6 7 85.7 2 16 18 3 0 1 5 4 -
+p273
+aVAndrew Lang PHX 03/02/1989 PHX vs. SAC W 4 0 0 0 - 0 0 - 0 1 0.0 0 1 1 0 0 0 1 0 -
+p274
+aVTim Perry PHX 03/02/1989 PHX vs. SAC W 34 16 8 14 57.1 0 0 - 0 0 - 4 3 7 2 2 3 0 0 -
+p275
+aVT.R. Dunn PHX 03/02/1989 PHX vs. SAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p276
+aVArmen Gilliam PHX 03/02/1989 PHX vs. SAC W 33 18 6 11 54.5 0 0 - 6 7 85.7 0 3 3 1 0 0 1 3 -
+p277
+aVTyrone Corbin PHX 03/02/1989 PHX vs. SAC W 34 14 5 10 50.0 0 0 - 4 4 100.0 4 2 6 3 3 0 1 5 -
+p278
+aVDan Majerle PHX 03/02/1989 PHX vs. SAC W 28 17 6 14 42.9 0 3 0.0 5 6 83.3 3 4 7 1 0 1 2 3 -
+p279
+aVMark West PHX 03/02/1989 PHX vs. SAC W 20 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 4 1 3 -
+p280
+aVJeff Hornacek PHX 03/02/1989 PHX vs. SAC W 41 11 4 14 28.6 1 1 100.0 2 2 100.0 0 7 7 18 0 0 0 2 -
+p281
+aVKevin Johnson PHX 02/28/1989 PHX @ POR L 44 32 12 24 50.0 0 0 - 8 12 66.7 0 8 8 13 1 0 7 2 -
+p282
+aVJeff Hornacek PHX 02/28/1989 PHX @ POR L 38 18 8 11 72.7 0 0 - 2 4 50.0 0 3 3 6 0 0 4 4 -
+p283
+aVTom Chambers PHX 02/28/1989 PHX @ POR L 44 42 17 27 63.0 0 1 0.0 8 9 88.9 2 8 10 0 0 1 2 1 -
+p284
+aVEd Nealy PHX 02/28/1989 PHX @ POR L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 -
+p285
+aVArmen Gilliam PHX 02/28/1989 PHX @ POR L 29 16 5 12 41.7 0 0 - 6 6 100.0 3 2 5 1 1 0 2 3 -
+p286
+aVMark West PHX 02/28/1989 PHX @ POR L 25 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 0 0 4 -
+p287
+aVDan Majerle PHX 02/28/1989 PHX @ POR L 16 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 2 0 0 1 3 -
+p288
+aVTyrone Corbin PHX 02/28/1989 PHX @ POR L 32 18 8 12 66.7 0 0 - 2 2 100.0 4 5 9 1 2 0 2 6 -
+p289
+aVTom Chambers PHX 02/26/1989 PHX @ LAL L 38 18 7 19 36.8 0 1 0.0 4 4 100.0 0 4 4 4 1 1 4 2 -
+p290
+aVAndrew Lang PHX 02/26/1989 PHX @ LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -
+p291
+aVArmen Gilliam PHX 02/26/1989 PHX @ LAL L 30 18 9 13 69.2 0 0 - 0 1 0.0 1 7 8 0 1 0 2 4 -
+p292
+aVEd Nealy PHX 02/26/1989 PHX @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p293
+aVT.R. Dunn PHX 02/26/1989 PHX @ LAL L 18 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 2 0 1 2 -
+p294
+aVTyrone Corbin PHX 02/26/1989 PHX @ LAL L 23 13 6 7 85.7 0 0 - 1 1 100.0 0 3 3 0 2 1 3 2 -
+p295
+aVJeff Hornacek PHX 02/26/1989 PHX @ LAL L 31 25 12 19 63.2 0 1 0.0 1 3 33.3 0 2 2 7 2 0 1 4 -
+p296
+aVKevin Johnson PHX 02/26/1989 PHX @ LAL L 45 30 11 16 68.8 0 0 - 8 11 72.7 0 2 2 21 4 1 4 3 -
+p297
+aVTim Perry PHX 02/26/1989 PHX @ LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -
+p298
+aVMark West PHX 02/26/1989 PHX @ LAL L 27 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 0 0 4 3 2 -
+p299
+aVDan Majerle PHX 02/26/1989 PHX @ LAL L 18 2 1 6 16.7 0 0 - 0 0 - 1 0 1 1 0 0 1 3 -
+p300
+aVArmen Gilliam PHX 02/24/1989 PHX vs. PHL W 30 15 6 14 42.9 0 0 - 3 3 100.0 4 5 9 0 0 0 1 1 -
+p301
+aVJeff Hornacek PHX 02/24/1989 PHX vs. PHL W 44 23 11 17 64.7 0 1 0.0 1 3 33.3 0 4 4 5 1 1 1 1 -
+p302
+aVTim Perry PHX 02/24/1989 PHX vs. PHL W 3 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 -
+p303
+aVTyrone Corbin PHX 02/24/1989 PHX vs. PHL W 25 8 3 6 50.0 0 0 - 2 3 66.7 2 3 5 2 0 0 1 3 -
+p304
+aVEd Nealy PHX 02/24/1989 PHX vs. PHL W 3 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p305
+aVKevin Johnson PHX 02/24/1989 PHX vs. PHL W 38 32 12 21 57.1 0 0 - 8 8 100.0 0 4 4 14 4 1 2 3 -
+p306
+aVDan Majerle PHX 02/24/1989 PHX vs. PHL W 28 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 3 3 0 1 2 -
+p307
+aVMark West PHX 02/24/1989 PHX vs. PHL W 20 8 3 4 75.0 0 0 - 2 4 50.0 4 5 9 0 0 0 1 4 -
+p308
+aVTom Chambers PHX 02/24/1989 PHX vs. PHL W 40 22 9 21 42.9 0 0 - 4 6 66.7 0 9 9 3 4 0 0 5 -
+p309
+aVAndrew Lang PHX 02/24/1989 PHX vs. PHL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p310
+aVT.R. Dunn PHX 02/24/1989 PHX vs. PHL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p311
+aVTom Chambers PHX 02/21/1989 PHX vs. GOS W 34 37 14 27 51.9 0 1 0.0 9 10 90.0 5 5 10 2 1 0 4 3 -
+p312
+aVDan Majerle PHX 02/21/1989 PHX vs. GOS W 31 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 2 2 0 0 3 -
+p313
+aVJeff Hornacek PHX 02/21/1989 PHX vs. GOS W 44 32 12 25 48.0 3 4 75.0 5 5 100.0 1 5 6 10 4 0 0 4 -
+p314
+aVMark West PHX 02/21/1989 PHX vs. GOS W 20 10 3 3 100.0 0 0 - 4 4 100.0 4 3 7 0 0 0 1 3 -
+p315
+aVTyrone Corbin PHX 02/21/1989 PHX vs. GOS W 34 21 9 11 81.8 0 0 - 3 4 75.0 6 4 10 2 0 0 3 3 -
+p316
+aVT.R. Dunn PHX 02/21/1989 PHX vs. GOS W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p317
+aVAndrew Lang PHX 02/21/1989 PHX vs. GOS W 2 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 0 1 0 0 -
+p318
+aVTim Perry PHX 02/21/1989 PHX vs. GOS W 7 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 -
+p319
+aVArmen Gilliam PHX 02/21/1989 PHX vs. GOS W 15 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 3 -
+p320
+aVKevin Johnson PHX 02/21/1989 PHX vs. GOS W 43 22 7 18 38.9 0 0 - 8 9 88.9 1 4 5 16 1 1 5 3 -
+p321
+aVDan Majerle PHX 02/20/1989 PHX @ UTH L 21 2 1 9 11.1 0 2 0.0 0 0 - 5 2 7 0 0 0 1 4 -
+p322
+aVEd Nealy PHX 02/20/1989 PHX @ UTH L 8 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 0 1 3 -
+p323
+aVTim Perry PHX 02/20/1989 PHX @ UTH L 10 6 3 7 42.9 0 0 - 0 0 - 1 0 1 0 0 1 2 3 -
+p324
+aVMark West PHX 02/20/1989 PHX @ UTH L 22 6 3 4 75.0 0 0 - 0 4 0.0 2 1 3 0 0 4 0 0 -
+p325
+aVKevin Johnson PHX 02/20/1989 PHX @ UTH L 30 12 5 12 41.7 0 0 - 2 2 100.0 0 1 1 6 0 1 3 3 -
+p326
+aVT.R. Dunn PHX 02/20/1989 PHX @ UTH L 8 0 0 2 0.0 0 0 - 0 0 - 2 0 2 4 1 1 0 1 -
+p327
+aVEddie Johnson PHX 02/20/1989 PHX @ UTH L 24 23 8 16 50.0 3 5 60.0 4 4 100.0 1 4 5 2 0 0 3 3 -
+p328
+aVArmen Gilliam PHX 02/20/1989 PHX @ UTH L 19 13 5 11 45.5 0 0 - 3 4 75.0 1 1 2 0 2 1 1 3 -
+p329
+aVTyrone Corbin PHX 02/20/1989 PHX @ UTH L 19 4 1 4 25.0 0 0 - 2 4 50.0 1 5 6 1 2 0 2 2 -
+p330
+aVJeff Hornacek PHX 02/20/1989 PHX @ UTH L 30 5 2 9 22.2 0 1 0.0 1 2 50.0 1 3 4 3 1 0 2 2 -
+p331
+aVTom Chambers PHX 02/20/1989 PHX @ UTH L 30 12 2 11 18.2 0 1 0.0 8 10 80.0 2 5 7 3 0 3 1 1 -
+p332
+aVAndrew Lang PHX 02/20/1989 PHX @ UTH L 19 7 2 4 50.0 0 0 - 3 4 75.0 3 2 5 0 0 1 1 2 -
+p333
+aVJeff Hornacek PHX 02/18/1989 PHX @ SAC W 39 20 8 17 47.1 0 0 - 4 4 100.0 1 2 3 8 2 0 2 3 -
+p334
+aVAndrew Lang PHX 02/18/1989 PHX @ SAC W 3 6 3 4 75.0 0 0 - 0 1 0.0 1 0 1 0 0 0 1 0 -
+p335
+aVKevin Johnson PHX 02/18/1989 PHX @ SAC W 45 24 8 17 47.1 0 2 0.0 8 9 88.9 3 7 10 12 1 0 4 4 -
+p336
+aVEd Nealy PHX 02/18/1989 PHX @ SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p337
+aVMark West PHX 02/18/1989 PHX @ SAC W 18 4 2 2 100.0 0 0 - 0 0 - 1 6 7 0 0 3 0 2 -
+p338
+aVArmen Gilliam PHX 02/18/1989 PHX @ SAC W 36 15 5 10 50.0 0 0 - 5 6 83.3 2 6 8 0 0 1 0 1 -
+p339
+aVTom Chambers PHX 02/18/1989 PHX @ SAC W 36 28 10 18 55.6 0 1 0.0 8 10 80.0 2 8 10 3 0 1 5 2 -
+p340
+aVTim Perry PHX 02/18/1989 PHX @ SAC W 14 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 4 -
+p341
+aVTyrone Corbin PHX 02/18/1989 PHX @ SAC W 9 3 1 2 50.0 0 0 - 1 2 50.0 1 4 5 0 0 0 1 2 -
+p342
+aVSteve Kerr PHX 02/18/1989 PHX @ SAC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -
+p343
+aVEddie Johnson PHX 02/18/1989 PHX @ SAC W 34 19 7 14 50.0 4 7 57.1 1 2 50.0 2 3 5 1 0 1 2 2 -
+p344
+aVTim Perry PHX 02/17/1989 PHX vs. BOS W 8 0 0 3 0.0 0 0 - 0 0 - 4 1 5 1 0 0 0 1 -
+p345
+aVTyrone Corbin PHX 02/17/1989 PHX vs. BOS W 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 3 0 1 2 -
+p346
+aVTom Chambers PHX 02/17/1989 PHX vs. BOS W 43 40 14 27 51.9 0 0 - 12 13 92.3 3 9 12 4 1 3 1 4 -
+p347
+aVMark West PHX 02/17/1989 PHX vs. BOS W 22 12 6 8 75.0 0 0 - 0 0 - 3 4 7 0 0 3 1 5 -
+p348
+aVArmen Gilliam PHX 02/17/1989 PHX vs. BOS W 29 25 8 10 80.0 0 0 - 9 11 81.8 4 5 9 1 0 0 0 5 -
+p349
+aVT.R. Dunn PHX 02/17/1989 PHX vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p350
+aVJeff Hornacek PHX 02/17/1989 PHX vs. BOS W 42 14 7 10 70.0 0 0 - 0 0 - 1 0 1 8 3 0 2 5 -
+p351
+aVKevin Johnson PHX 02/17/1989 PHX vs. BOS W 36 5 1 8 12.5 0 1 0.0 3 4 75.0 0 3 3 15 3 0 4 4 -
+p352
+aVEddie Johnson PHX 02/17/1989 PHX vs. BOS W 40 37 14 31 45.2 1 3 33.3 8 8 100.0 4 2 6 3 0 1 0 3 -
+p353
+aVEd Nealy PHX 02/15/1989 PHX vs. SEA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p354
+aVMark West PHX 02/15/1989 PHX vs. SEA W 28 8 4 6 66.7 0 0 - 0 3 0.0 4 5 9 0 0 6 1 4 -
+p355
+aVKevin Johnson PHX 02/15/1989 PHX vs. SEA W 38 25 7 13 53.8 0 0 - 11 12 91.7 0 4 4 10 0 1 4 3 -
+p356
+aVTim Perry PHX 02/15/1989 PHX vs. SEA W 13 4 2 2 100.0 0 0 - 0 0 - 0 5 5 1 0 2 1 1 -
+p357
+aVTom Chambers PHX 02/15/1989 PHX vs. SEA W 38 35 12 16 75.0 2 2 100.0 9 10 90.0 1 7 8 4 2 2 2 3 -
+p358
+aVEddie Johnson PHX 02/15/1989 PHX vs. SEA W 28 25 12 18 66.7 1 4 25.0 0 0 - 1 3 4 3 2 0 4 2 -
+p359
+aVAndrew Lang PHX 02/15/1989 PHX vs. SEA W 4 6 3 3 100.0 0 0 - 0 0 - 2 0 2 0 0 1 1 1 -
+p360
+aVJeff Hornacek PHX 02/15/1989 PHX vs. SEA W 26 17 6 11 54.5 0 1 0.0 5 5 100.0 0 0 0 7 2 0 1 2 -
+p361
+aVSteve Kerr PHX 02/15/1989 PHX vs. SEA W 6 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -
+p362
+aVArmen Gilliam PHX 02/15/1989 PHX vs. SEA W 25 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 2 2 0 2 0 -
+p363
+aVT.R. Dunn PHX 02/15/1989 PHX vs. SEA W 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p364
+aVTyrone Corbin PHX 02/15/1989 PHX vs. SEA W 15 5 2 6 33.3 0 0 - 1 2 50.0 1 5 6 4 2 0 0 3 -
+p365
+aVKevin Johnson PHX 02/09/1989 PHX vs. LAC W 44 34 9 14 64.3 0 0 - 16 18 88.9 0 3 3 18 3 1 5 2 -
+p366
+aVTim Perry PHX 02/09/1989 PHX vs. LAC W 14 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 2 0 1 1 -
+p367
+aVTyrone Corbin PHX 02/09/1989 PHX vs. LAC W 23 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 3 0 0 1 3 -
+p368
+aVMark West PHX 02/09/1989 PHX vs. LAC W 28 7 3 6 50.0 0 0 - 1 2 50.0 4 5 9 1 0 3 2 5 -
+p369
+aVJeff Hornacek PHX 02/09/1989 PHX vs. LAC W 29 6 3 9 33.3 0 0 - 0 0 - 1 2 3 5 3 0 1 1 -
+p370
+aVTom Chambers PHX 02/09/1989 PHX vs. LAC W 43 24 9 26 34.6 0 1 0.0 6 7 85.7 1 11 12 1 3 0 3 4 -
+p371
+aVArmen Gilliam PHX 02/09/1989 PHX vs. LAC W 28 12 5 15 33.3 0 0 - 2 2 100.0 6 5 11 0 2 0 1 0 -
+p372
+aVEddie Johnson PHX 02/09/1989 PHX vs. LAC W 31 23 10 21 47.6 0 2 0.0 3 3 100.0 0 1 1 1 1 0 0 1 -
+p373
+aVKevin Johnson PHX 02/06/1989 PHX vs. UTH W 34 19 4 11 36.4 0 1 0.0 11 11 100.0 2 1 3 12 2 0 5 2 -
+p374
+aVTom Chambers PHX 02/06/1989 PHX vs. UTH W 35 24 9 24 37.5 0 3 0.0 6 7 85.7 2 5 7 4 2 0 3 3 -
+p375
+aVEd Nealy PHX 02/06/1989 PHX vs. UTH W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p376
+aVT.R. Dunn PHX 02/06/1989 PHX vs. UTH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p377
+aVSteve Kerr PHX 02/06/1989 PHX vs. UTH W 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -
+p378
+aVTyrone Corbin PHX 02/06/1989 PHX vs. UTH W 30 9 3 5 60.0 0 0 - 3 6 50.0 1 5 6 2 1 0 2 2 -
+p379
+aVEddie Johnson PHX 02/06/1989 PHX vs. UTH W 25 10 5 15 33.3 0 2 0.0 0 0 - 1 2 3 1 0 0 0 3 -
+p380
+aVJeff Hornacek PHX 02/06/1989 PHX vs. UTH W 29 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 6 0 0 1 1 -
+p381
+aVArmen Gilliam PHX 02/06/1989 PHX vs. UTH W 39 22 9 12 75.0 0 0 - 4 6 66.7 4 7 11 1 1 0 3 4 -
+p382
+aVAndrew Lang PHX 02/06/1989 PHX vs. UTH W 4 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p383
+aVTim Perry PHX 02/06/1989 PHX vs. UTH W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -
+p384
+aVMark West PHX 02/06/1989 PHX vs. UTH W 31 8 4 5 80.0 0 0 - 0 0 - 4 8 12 1 0 5 0 4 -
+p385
+aVJeff Hornacek PHX 02/04/1989 PHX vs. ATL L 41 13 6 13 46.2 0 1 0.0 1 1 100.0 2 3 5 5 3 1 1 3 -
+p386
+aVT.R. Dunn PHX 02/04/1989 PHX vs. ATL L 16 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 2 0 1 3 -
+p387
+aVTom Chambers PHX 02/04/1989 PHX vs. ATL L 45 23 7 20 35.0 0 0 - 9 10 90.0 5 10 15 1 1 0 3 5 -
+p388
+aVAndrew Lang PHX 02/04/1989 PHX vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -
+p389
+aVEddie Johnson PHX 02/04/1989 PHX vs. ATL L 39 19 8 22 36.4 0 1 0.0 3 4 75.0 1 3 4 1 1 0 0 0 -
+p390
+aVSteve Kerr PHX 02/04/1989 PHX vs. ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p391
+aVKevin Johnson PHX 02/04/1989 PHX vs. ATL L 47 35 10 22 45.5 1 3 33.3 14 14 100.0 2 2 4 13 2 1 1 2 -
+p392
+aVArmen Gilliam PHX 02/04/1989 PHX vs. ATL L 30 6 2 10 20.0 0 0 - 2 2 100.0 4 7 11 1 1 0 5 3 -
+p393
+aVMark West PHX 02/04/1989 PHX vs. ATL L 28 8 3 4 75.0 0 0 - 2 2 100.0 3 2 5 0 0 1 0 4 -
+p394
+aVTim Perry PHX 02/04/1989 PHX vs. ATL L 8 4 2 5 40.0 0 0 - 0 0 - 4 0 4 0 1 1 0 0 -
+p395
+aVTyrone Corbin PHX 02/04/1989 PHX vs. ATL L 8 4 0 1 0.0 0 0 - 4 4 100.0 2 0 2 0 0 0 0 1 -
+p396
+aVEddie Johnson PHX 02/03/1989 PHX @ DAL L 30 16 7 20 35.0 1 4 25.0 1 1 100.0 1 2 3 2 2 1 1 4 -
+p397
+aVTyrone Corbin PHX 02/03/1989 PHX @ DAL L 27 8 4 7 57.1 0 1 0.0 0 1 0.0 2 2 4 0 1 0 0 5 -
+p398
+aVArmen Gilliam PHX 02/03/1989 PHX @ DAL L 25 14 7 15 46.7 0 0 - 0 0 - 2 2 4 0 1 0 2 2 -
+p399
+aVJeff Hornacek PHX 02/03/1989 PHX @ DAL L 33 15 5 13 38.5 0 0 - 5 6 83.3 3 3 6 8 1 1 1 5 -
+p400
+aVTom Chambers PHX 02/03/1989 PHX @ DAL L 41 27 9 22 40.9 1 2 50.0 8 10 80.0 5 7 12 4 0 0 3 4 -
+p401
+aVMark West PHX 02/03/1989 PHX @ DAL L 8 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 1 -
+p402
+aVKevin Johnson PHX 02/03/1989 PHX @ DAL L 43 25 9 18 50.0 0 0 - 7 7 100.0 0 4 4 7 5 0 4 2 -
+p403
+aVTim Perry PHX 02/03/1989 PHX @ DAL L 21 5 2 3 66.7 0 0 - 1 2 50.0 2 5 7 1 2 2 0 2 -
+p404
+aVT.R. Dunn PHX 02/03/1989 PHX @ DAL L 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p405
+aVTim Perry PHX 02/01/1989 PHX vs. LAL W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 2 0 -
+p406
+aVArmen Gilliam PHX 02/01/1989 PHX vs. LAL W 41 24 8 16 50.0 0 0 - 8 13 61.5 2 12 14 0 2 0 0 2 -
+p407
+aVT.R. Dunn PHX 02/01/1989 PHX vs. LAL W 23 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 0 0 4 -
+p408
+aVEddie Johnson PHX 02/01/1989 PHX vs. LAL W 33 32 12 23 52.2 3 5 60.0 5 5 100.0 3 3 6 2 0 0 0 4 -
+p409
+aVEd Nealy PHX 02/01/1989 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p410
+aVKevin Johnson PHX 02/01/1989 PHX vs. LAL W 36 23 7 12 58.3 0 0 - 9 9 100.0 1 3 4 12 0 0 4 5 -
+p411
+aVTom Chambers PHX 02/01/1989 PHX vs. LAL W 40 18 8 17 47.1 0 0 - 2 2 100.0 1 7 8 3 2 1 2 3 -
+p412
+aVJeff Hornacek PHX 02/01/1989 PHX vs. LAL W 31 9 3 11 27.3 0 1 0.0 3 4 75.0 2 2 4 11 3 0 2 1 -
+p413
+aVMark West PHX 02/01/1989 PHX vs. LAL W 16 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 1 0 2 0 2 -
+p414
+aVTyrone Corbin PHX 02/01/1989 PHX vs. LAL W 5 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -
+p415
+aVSteve Kerr PHX 02/01/1989 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p416
+aVTim Perry PHX 01/30/1989 PHX vs. DEN W 36 19 8 10 80.0 0 0 - 3 6 50.0 1 3 4 0 1 1 2 2 -
+p417
+aVEddie Johnson PHX 01/30/1989 PHX vs. DEN W 25 26 11 17 64.7 2 3 66.7 2 2 100.0 1 4 5 4 0 0 1 2 -
+p418
+aVMark West PHX 01/30/1989 PHX vs. DEN W 12 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 0 2 1 1 3 -
+p419
+aVAndrew Lang PHX 01/30/1989 PHX vs. DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p420
+aVT.R. Dunn PHX 01/30/1989 PHX vs. DEN W 9 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 1 -
+p421
+aVTom Chambers PHX 01/30/1989 PHX vs. DEN W 29 20 7 13 53.8 0 0 - 6 7 85.7 0 7 7 3 1 0 2 2 -
+p422
+aVJeff Hornacek PHX 01/30/1989 PHX vs. DEN W 29 14 6 10 60.0 0 0 - 2 4 50.0 0 2 2 10 1 0 2 3 -
+p423
+aVArmen Gilliam PHX 01/30/1989 PHX vs. DEN W 32 20 7 12 58.3 0 0 - 6 6 100.0 0 10 10 1 3 0 4 1 -
+p424
+aVEd Nealy PHX 01/30/1989 PHX vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p425
+aVKevin Johnson PHX 01/30/1989 PHX vs. DEN W 36 16 6 11 54.5 0 0 - 4 4 100.0 0 3 3 14 3 0 6 2 -
+p426
+aVSteve Kerr PHX 01/30/1989 PHX vs. DEN W 6 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 1 0 0 1 0 -
+p427
+aVTyrone Corbin PHX 01/30/1989 PHX vs. DEN W 18 2 1 2 50.0 0 0 - 0 0 - 3 3 6 4 1 0 2 4 -
+p428
+aVTom Chambers PHX 01/28/1989 PHX @ DEN L 40 39 17 29 58.6 0 1 0.0 5 5 100.0 1 3 4 5 0 0 5 2 -
+p429
+aVTim Perry PHX 01/28/1989 PHX @ DEN L 11 8 4 5 80.0 0 0 - 0 0 - 2 1 3 1 1 0 1 2 -
+p430
+aVSteve Kerr PHX 01/28/1989 PHX @ DEN L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 3 -
+p431
+aVMark West PHX 01/28/1989 PHX @ DEN L 16 7 1 1 100.0 0 0 - 5 8 62.5 3 2 5 1 0 1 0 1 -
+p432
+aVJeff Hornacek PHX 01/28/1989 PHX @ DEN L 28 12 5 8 62.5 1 2 50.0 1 2 50.0 0 1 1 4 0 1 2 4 -
+p433
+aVKevin Johnson PHX 01/28/1989 PHX @ DEN L 35 20 7 14 50.0 0 1 0.0 6 6 100.0 1 2 3 9 1 0 5 2 -
+p434
+aVArmen Gilliam PHX 01/28/1989 PHX @ DEN L 37 21 9 16 56.3 0 0 - 3 5 60.0 6 5 11 1 1 1 1 4 -
+p435
+aVT.R. Dunn PHX 01/28/1989 PHX @ DEN L 16 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -
+p436
+aVEddie Johnson PHX 01/28/1989 PHX @ DEN L 34 21 9 19 47.4 1 2 50.0 2 2 100.0 3 6 9 0 0 0 1 3 -
+p437
+aVTyrone Corbin PHX 01/28/1989 PHX @ DEN L 15 8 2 4 50.0 0 0 - 4 4 100.0 2 1 3 1 0 1 2 4 -
+p438
+aVTyrone Corbin PHX 01/27/1989 PHX vs. NYK W 17 9 2 3 66.7 0 0 - 5 6 83.3 3 4 7 1 0 0 2 5 -
+p439
+aVArmen Gilliam PHX 01/27/1989 PHX vs. NYK W 24 15 7 10 70.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 5 -
+p440
+aVMark West PHX 01/27/1989 PHX vs. NYK W 28 8 4 6 66.7 0 0 - 0 2 0.0 0 4 4 0 1 2 2 2 -
+p441
+aVTom Chambers PHX 01/27/1989 PHX vs. NYK W 39 36 14 22 63.6 0 1 0.0 8 8 100.0 2 7 9 4 2 0 6 4 -
+p442
+aVT.R. Dunn PHX 01/27/1989 PHX vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p443
+aVTim Perry PHX 01/27/1989 PHX vs. NYK W 23 16 5 7 71.4 0 0 - 6 7 85.7 1 1 2 1 1 2 1 1 -
+p444
+aVKevin Johnson PHX 01/27/1989 PHX vs. NYK W 40 18 6 9 66.7 0 0 - 6 7 85.7 1 4 5 15 3 0 6 3 -
+p445
+aVSteve Kerr PHX 01/27/1989 PHX vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p446
+aVEddie Johnson PHX 01/27/1989 PHX vs. NYK W 27 24 9 21 42.9 0 2 0.0 6 6 100.0 3 3 6 3 0 0 1 2 -
+p447
+aVJeff Hornacek PHX 01/27/1989 PHX vs. NYK W 38 6 3 9 33.3 0 1 0.0 0 0 - 0 2 2 7 0 0 2 1 -
+p448
+aVEd Nealy PHX 01/27/1989 PHX vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p449
+aVTyrone Corbin PHX 01/24/1989 PHX vs. CHH W 17 8 4 8 50.0 0 0 - 0 0 - 4 2 6 0 0 1 1 4 -
+p450
+aVTom Chambers PHX 01/24/1989 PHX vs. CHH W 44 25 8 20 40.0 0 1 0.0 9 10 90.0 2 6 8 7 0 2 1 2 -
+p451
+aVJeff Hornacek PHX 01/24/1989 PHX vs. CHH W 38 14 6 8 75.0 0 0 - 2 4 50.0 1 1 2 3 4 1 3 1 -
+p452
+aVEddie Johnson PHX 01/24/1989 PHX vs. CHH W 37 31 10 18 55.6 2 2 100.0 9 10 90.0 1 9 10 3 2 0 0 3 -
+p453
+aVT.R. Dunn PHX 01/24/1989 PHX vs. CHH W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p454
+aVTim Perry PHX 01/24/1989 PHX vs. CHH W 9 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 0 -
+p455
+aVMark West PHX 01/24/1989 PHX vs. CHH W 17 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 2 1 5 -
+p456
+aVArmen Gilliam PHX 01/24/1989 PHX vs. CHH W 29 8 4 11 36.4 0 0 - 0 0 - 1 4 5 2 0 2 2 1 -
+p457
+aVKevin Johnson PHX 01/24/1989 PHX vs. CHH W 44 11 5 9 55.6 0 0 - 1 2 50.0 0 4 4 10 2 1 5 3 -
+p458
+aVArmen Gilliam PHX 01/21/1989 PHX @ CHI W 23 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 0 1 3 -
+p459
+aVTyrone Corbin PHX 01/21/1989 PHX @ CHI W 18 11 5 5 100.0 0 0 - 1 4 25.0 2 3 5 1 1 0 1 5 -
+p460
+aVEddie Johnson PHX 01/21/1989 PHX @ CHI W 42 27 13 24 54.2 0 0 - 1 2 50.0 1 3 4 4 1 0 2 2 -
+p461
+aVTim Perry PHX 01/21/1989 PHX @ CHI W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p462
+aVT.R. Dunn PHX 01/21/1989 PHX @ CHI W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p463
+aVTom Chambers PHX 01/21/1989 PHX @ CHI W 42 29 9 22 40.9 1 2 50.0 10 12 83.3 4 4 8 5 2 1 3 4 -
+p464
+aVSteve Kerr PHX 01/21/1989 PHX @ CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p465
+aVMark West PHX 01/21/1989 PHX @ CHI W 25 9 3 5 60.0 0 0 - 3 4 75.0 1 2 3 2 0 1 1 4 -
+p466
+aVKevin Johnson PHX 01/21/1989 PHX @ CHI W 40 18 4 13 30.8 0 0 - 10 10 100.0 1 9 10 15 4 0 3 2 -
+p467
+aVJeff Hornacek PHX 01/21/1989 PHX @ CHI W 30 16 6 10 60.0 2 2 100.0 2 3 66.7 1 1 2 4 1 0 1 4 -
+p468
+aVArmen Gilliam PHX 01/19/1989 PHX @ CHH W 23 4 2 7 28.6 0 0 - 0 0 - 2 1 3 0 0 0 3 1 -
+p469
+aVJeff Hornacek PHX 01/19/1989 PHX @ CHH W 42 28 11 15 73.3 0 0 - 6 6 100.0 0 5 5 6 0 0 2 2 -
+p470
+aVT.R. Dunn PHX 01/19/1989 PHX @ CHH W 6 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 2 -
+p471
+aVTyrone Corbin PHX 01/19/1989 PHX @ CHH W 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p472
+aVTom Chambers PHX 01/19/1989 PHX @ CHH W 36 31 10 22 45.5 0 0 - 11 12 91.7 1 12 13 3 1 0 2 2 -
+p473
+aVEddie Johnson PHX 01/19/1989 PHX @ CHH W 31 24 10 22 45.5 0 1 0.0 4 5 80.0 2 2 4 3 0 0 2 4 -
+p474
+aVTim Perry PHX 01/19/1989 PHX @ CHH W 24 11 5 9 55.6 0 0 - 1 2 50.0 5 3 8 0 0 1 1 2 -
+p475
+aVKevin Johnson PHX 01/19/1989 PHX @ CHH W 40 10 4 10 40.0 0 0 - 2 2 100.0 0 8 8 12 1 0 2 2 -
+p476
+aVEd Nealy PHX 01/19/1989 PHX @ CHH W 7 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -
+p477
+aVMark West PHX 01/19/1989 PHX @ CHH W 19 13 5 6 83.3 0 0 - 3 4 75.0 3 4 7 0 0 5 0 5 -
+p478
+aVJeff Hornacek PHX 01/16/1989 PHX @ CLE L 29 8 3 8 37.5 0 2 0.0 2 2 100.0 1 1 2 3 2 0 2 2 -
+p479
+aVArmen Gilliam PHX 01/16/1989 PHX @ CLE L 31 16 5 16 31.3 0 0 - 6 6 100.0 4 4 8 1 0 0 3 3 -
+p480
+aVKevin Johnson PHX 01/16/1989 PHX @ CLE L 43 16 7 13 53.8 0 1 0.0 2 2 100.0 1 0 1 11 1 0 6 3 -
+p481
+aVT.R. Dunn PHX 01/16/1989 PHX @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p482
+aVSteve Kerr PHX 01/16/1989 PHX @ CLE L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p483
+aVTyrone Corbin PHX 01/16/1989 PHX @ CLE L 22 12 5 7 71.4 0 0 - 2 2 100.0 4 2 6 4 2 0 2 2 -
+p484
+aVTim Perry PHX 01/16/1989 PHX @ CLE L 15 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 1 3 3 -
+p485
+aVTom Chambers PHX 01/16/1989 PHX @ CLE L 43 28 13 22 59.1 0 0 - 2 2 100.0 2 10 12 4 5 0 2 3 -
+p486
+aVMark West PHX 01/16/1989 PHX @ CLE L 22 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 2 4 -
+p487
+aVAndrew Lang PHX 01/16/1989 PHX @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p488
+aVEd Nealy PHX 01/16/1989 PHX @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p489
+aVEddie Johnson PHX 01/16/1989 PHX @ CLE L 29 23 9 18 50.0 2 3 66.7 3 3 100.0 1 5 6 0 0 0 1 3 -
+p490
+aVEddie Johnson PHX 01/13/1989 PHX vs. SAC W 34 32 15 23 65.2 0 3 0.0 2 2 100.0 1 5 6 4 1 0 0 1 -
+p491
+aVMark Davis PHX 01/13/1989 PHX vs. SAC W 3 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -
+p492
+aVTom Chambers PHX 01/13/1989 PHX vs. SAC W 32 21 8 14 57.1 0 1 0.0 5 6 83.3 0 5 5 4 1 0 3 2 -
+p493
+aVTim Perry PHX 01/13/1989 PHX vs. SAC W 18 7 3 7 42.9 0 0 - 1 2 50.0 1 3 4 1 0 2 2 1 -
+p494
+aVJeff Hornacek PHX 01/13/1989 PHX vs. SAC W 27 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 3 0 0 1 1 -
+p495
+aVSteve Kerr PHX 01/13/1989 PHX vs. SAC W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 0 -
+p496
+aVAndrew Lang PHX 01/13/1989 PHX vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 4 -
+p497
+aVKevin Johnson PHX 01/13/1989 PHX vs. SAC W 37 14 5 12 41.7 0 0 - 4 4 100.0 0 4 4 15 0 0 6 2 -
+p498
+aVEd Nealy PHX 01/13/1989 PHX vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p499
+aVArmen Gilliam PHX 01/13/1989 PHX vs. SAC W 36 14 7 21 33.3 0 0 - 0 0 - 5 16 21 0 2 1 0 2 -
+p500
+aVTyrone Corbin PHX 01/13/1989 PHX vs. SAC W 25 7 3 4 75.0 0 0 - 1 2 50.0 2 3 5 1 4 0 1 4 -
+p501
+aVMark West PHX 01/13/1989 PHX vs. SAC W 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 2 3 -
+p502
+aVTyrone Corbin PHX 01/11/1989 PHX vs. CLE L 18 12 6 6 100.0 0 0 - 0 1 0.0 0 1 1 2 2 0 0 1 -
+p503
+aVEddie Johnson PHX 01/11/1989 PHX vs. CLE L 21 18 8 15 53.3 1 2 50.0 1 1 100.0 1 2 3 2 1 0 4 1 -
+p504
+aVMark West PHX 01/11/1989 PHX vs. CLE L 38 9 3 4 75.0 0 0 - 3 4 75.0 0 12 12 2 0 5 1 4 -
+p505
+aVAndrew Lang PHX 01/11/1989 PHX vs. CLE L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p506
+aVArmen Gilliam PHX 01/11/1989 PHX vs. CLE L 40 23 11 21 52.4 0 0 - 1 3 33.3 8 7 15 3 1 0 3 2 -
+p507
+aVTom Chambers PHX 01/11/1989 PHX vs. CLE L 37 28 11 20 55.0 1 2 50.0 5 5 100.0 0 3 3 1 1 1 1 5 -
+p508
+aVSteve Kerr PHX 01/11/1989 PHX vs. CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p509
+aVKevin Johnson PHX 01/11/1989 PHX vs. CLE L 40 16 4 11 36.4 0 0 - 8 8 100.0 0 3 3 15 2 0 2 2 -
+p510
+aVJeff Hornacek PHX 01/11/1989 PHX vs. CLE L 37 15 6 11 54.5 1 1 100.0 2 2 100.0 2 1 3 8 1 0 5 4 -
+p511
+aVTyrone Corbin PHX 01/09/1989 PHX @ GOS L 19 9 3 10 30.0 0 0 - 3 4 75.0 5 4 9 3 0 0 0 4 -
+p512
+aVKevin Johnson PHX 01/09/1989 PHX @ GOS L 44 27 10 17 58.8 0 0 - 7 11 63.6 1 6 7 11 0 0 4 3 -
+p513
+aVArmen Gilliam PHX 01/09/1989 PHX @ GOS L 27 16 6 11 54.5 0 0 - 4 5 80.0 0 5 5 0 2 0 4 4 -
+p514
+aVAndrew Lang PHX 01/09/1989 PHX @ GOS L 8 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 2 1 3 -
+p515
+aVJeff Hornacek PHX 01/09/1989 PHX @ GOS L 37 12 5 12 41.7 0 1 0.0 2 2 100.0 0 3 3 9 2 0 1 5 -
+p516
+aVEddie Johnson PHX 01/09/1989 PHX @ GOS L 33 27 9 20 45.0 3 3 100.0 6 6 100.0 0 3 3 1 2 0 3 4 -
+p517
+aVSteve Kerr PHX 01/09/1989 PHX @ GOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p518
+aVTom Chambers PHX 01/09/1989 PHX @ GOS L 40 25 9 22 40.9 0 1 0.0 7 7 100.0 4 6 10 0 1 0 4 4 -
+p519
+aVMark West PHX 01/09/1989 PHX @ GOS L 31 8 4 5 80.0 0 0 - 0 0 - 3 2 5 1 0 2 3 4 -
+p520
+aVKevin Johnson PHX 01/07/1989 PHX vs. MIA W 41 18 6 9 66.7 0 0 - 6 6 100.0 0 3 3 14 6 0 5 2 -
+p521
+aVMark West PHX 01/07/1989 PHX vs. MIA W 25 4 2 5 40.0 0 0 - 0 0 - 1 7 8 1 2 5 2 1 -
+p522
+aVEddie Johnson PHX 01/07/1989 PHX vs. MIA W 29 20 9 17 52.9 1 2 50.0 1 2 50.0 2 3 5 3 2 0 4 3 -
+p523
+aVSteve Kerr PHX 01/07/1989 PHX vs. MIA W 14 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 0 -
+p524
+aVAndrew Lang PHX 01/07/1989 PHX vs. MIA W 14 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 0 0 2 3 1 -
+p525
+aVEd Nealy PHX 01/07/1989 PHX vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p526
+aVMark Davis PHX 01/07/1989 PHX vs. MIA W 4 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p527
+aVJeff Hornacek PHX 01/07/1989 PHX vs. MIA W 25 8 3 6 50.0 0 1 0.0 2 2 100.0 1 1 2 2 2 0 0 0 -
+p528
+aVTim Perry PHX 01/07/1989 PHX vs. MIA W 9 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 1 0 0 0 0 -
+p529
+aVTom Chambers PHX 01/07/1989 PHX vs. MIA W 36 23 10 22 45.5 1 2 50.0 2 2 100.0 3 3 6 5 2 1 2 4 -
+p530
+aVArmen Gilliam PHX 01/07/1989 PHX vs. MIA W 28 19 7 15 46.7 0 0 - 5 10 50.0 2 5 7 2 0 1 2 2 -
+p531
+aVTyrone Corbin PHX 01/07/1989 PHX vs. MIA W 12 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 2 2 1 4 1 -
+p532
+aVAndrew Lang PHX 01/06/1989 PHX vs. DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p533
+aVEddie Johnson PHX 01/06/1989 PHX vs. DAL W 23 11 5 13 38.5 1 1 100.0 0 0 - 2 2 4 2 0 0 1 1 -
+p534
+aVTom Chambers PHX 01/06/1989 PHX vs. DAL W 42 31 15 21 71.4 1 1 100.0 0 2 0.0 2 5 7 8 0 0 1 4 -
+p535
+aVKevin Johnson PHX 01/06/1989 PHX vs. DAL W 42 16 7 13 53.8 0 0 - 2 3 66.7 2 5 7 18 0 0 3 4 -
+p536
+aVMark West PHX 01/06/1989 PHX vs. DAL W 41 24 11 13 84.6 0 0 - 2 3 66.7 6 9 15 1 1 4 1 1 -
+p537
+aVTyrone Corbin PHX 01/06/1989 PHX vs. DAL W 18 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 0 0 3 -
+p538
+aVArmen Gilliam PHX 01/06/1989 PHX vs. DAL W 33 26 12 22 54.5 0 0 - 2 4 50.0 2 4 6 1 2 0 1 2 -
+p539
+aVJeff Hornacek PHX 01/06/1989 PHX vs. DAL W 36 10 4 9 44.4 0 0 - 2 2 100.0 0 6 6 12 0 0 0 2 -
+p540
+aVKevin Johnson PHX 01/04/1989 PHX @ BOS W 40 14 7 12 58.3 0 0 - 0 0 - 0 3 3 7 1 0 4 0 -
+p541
+aVJeff Hornacek PHX 01/04/1989 PHX @ BOS W 30 10 3 8 37.5 0 0 - 4 4 100.0 1 1 2 5 3 0 2 3 -
+p542
+aVTyrone Corbin PHX 01/04/1989 PHX @ BOS W 23 6 0 3 0.0 0 0 - 6 6 100.0 3 5 8 0 0 1 0 3 -
+p543
+aVMark West PHX 01/04/1989 PHX @ BOS W 24 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 0 0 1 2 5 -
+p544
+aVTom Chambers PHX 01/04/1989 PHX @ BOS W 39 33 10 19 52.6 1 1 100.0 12 12 100.0 4 7 11 5 3 0 2 2 -
+p545
+aVArmen Gilliam PHX 01/04/1989 PHX @ BOS W 39 16 8 21 38.1 0 0 - 0 0 - 2 7 9 1 1 0 3 2 -
+p546
+aVAndrew Lang PHX 01/04/1989 PHX @ BOS W 20 4 2 4 50.0 0 0 - 0 0 - 1 5 6 1 2 0 0 2 -
+p547
+aVEddie Johnson PHX 01/04/1989 PHX @ BOS W 25 18 7 16 43.8 0 1 0.0 4 4 100.0 1 1 2 0 1 0 3 3 -
+p548
+aVEddie Johnson PHX 01/02/1989 PHX @ WAS W 26 23 10 18 55.6 0 0 - 3 4 75.0 3 1 4 3 0 0 5 4 -
+p549
+aVTyrone Corbin PHX 01/02/1989 PHX @ WAS W 25 10 4 8 50.0 0 1 0.0 2 4 50.0 0 0 0 3 1 0 0 4 -
+p550
+aVTom Chambers PHX 01/02/1989 PHX @ WAS W 41 29 9 19 47.4 0 1 0.0 11 11 100.0 0 6 6 4 0 4 1 2 -
+p551
+aVMark West PHX 01/02/1989 PHX @ WAS W 27 12 6 8 75.0 0 0 - 0 0 - 2 5 7 0 1 4 2 4 -
+p552
+aVTim Perry PHX 01/02/1989 PHX @ WAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p553
+aVKevin Johnson PHX 01/02/1989 PHX @ WAS W 46 14 6 16 37.5 0 0 - 2 4 50.0 2 7 9 13 2 0 6 2 -
+p554
+aVJeff Hornacek PHX 01/02/1989 PHX @ WAS W 25 4 1 5 20.0 0 1 0.0 2 2 100.0 1 2 3 6 1 0 1 4 -
+p555
+aVAndrew Lang PHX 01/02/1989 PHX @ WAS W 8 5 2 2 100.0 0 0 - 1 1 100.0 2 0 2 0 1 1 0 5 -
+p556
+aVArmen Gilliam PHX 01/02/1989 PHX @ WAS W 41 28 9 15 60.0 0 0 - 10 13 76.9 7 11 18 0 0 0 4 2 -
+p557
+aVSteve Kerr PHX 12/30/1988 PHX @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p558
+aVArmen Gilliam PHX 12/30/1988 PHX @ NJN W 40 23 11 20 55.0 0 0 - 1 1 100.0 2 7 9 0 0 1 2 5 -
+p559
+aVTyrone Corbin PHX 12/30/1988 PHX @ NJN W 23 5 0 0 - 0 0 - 5 6 83.3 1 2 3 2 0 0 3 1 -
+p560
+aVEddie Johnson PHX 12/30/1988 PHX @ NJN W 25 17 7 16 43.8 0 1 0.0 3 5 60.0 0 1 1 2 0 0 2 4 -
+p561
+aVTim Perry PHX 12/30/1988 PHX @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p562
+aVJeff Hornacek PHX 12/30/1988 PHX @ NJN W 22 8 4 7 57.1 0 1 0.0 0 0 - 2 2 4 6 1 0 2 1 -
+p563
+aVMark West PHX 12/30/1988 PHX @ NJN W 42 13 6 8 75.0 0 0 - 1 4 25.0 0 7 7 0 0 5 2 1 -
+p564
+aVAndrew Lang PHX 12/30/1988 PHX @ NJN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -
+p565
+aVTom Chambers PHX 12/30/1988 PHX @ NJN W 33 33 14 24 58.3 0 0 - 5 5 100.0 1 7 8 1 0 0 2 5 -
+p566
+aVKevin Johnson PHX 12/30/1988 PHX @ NJN W 46 17 7 16 43.8 0 0 - 3 3 100.0 0 5 5 15 3 0 3 4 -
+p567
+aVSteve Kerr PHX 12/28/1988 PHX @ DET L 12 3 1 7 14.3 1 5 20.0 0 0 - 0 1 1 2 1 0 0 0 -
+p568
+aVEd Nealy PHX 12/28/1988 PHX @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 4 0 4 1 0 0 0 1 -
+p569
+aVArmen Gilliam PHX 12/28/1988 PHX @ DET L 32 11 5 12 41.7 0 0 - 1 1 100.0 2 4 6 0 0 0 2 2 -
+p570
+aVTim Perry PHX 12/28/1988 PHX @ DET L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -
+p571
+aVTom Chambers PHX 12/28/1988 PHX @ DET L 35 18 8 26 30.8 0 0 - 2 3 66.7 3 10 13 2 0 0 3 5 -
+p572
+aVAndrew Lang PHX 12/28/1988 PHX @ DET L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p573
+aVKevin Johnson PHX 12/28/1988 PHX @ DET L 42 20 9 18 50.0 0 1 0.0 2 3 66.7 1 5 6 13 0 1 4 5 -
+p574
+aVMark West PHX 12/28/1988 PHX @ DET L 26 17 7 7 100.0 0 0 - 3 5 60.0 1 6 7 0 0 3 1 5 -
+p575
+aVEddie Johnson PHX 12/28/1988 PHX @ DET L 41 20 8 20 40.0 0 4 0.0 4 4 100.0 1 4 5 7 1 0 1 3 -
+p576
+aVTyrone Corbin PHX 12/28/1988 PHX @ DET L 35 9 3 9 33.3 0 0 - 3 3 100.0 5 1 6 1 0 0 1 5 -
+p577
+aVSteve Kerr PHX 12/26/1988 PHX vs. LAL W 10 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 -
+p578
+aVEddie Johnson PHX 12/26/1988 PHX vs. LAL W 29 21 6 17 35.3 0 1 0.0 9 9 100.0 1 5 6 3 1 0 0 2 -
+p579
+aVTim Perry PHX 12/26/1988 PHX vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p580
+aVMark West PHX 12/26/1988 PHX vs. LAL W 29 9 4 4 100.0 0 0 - 1 2 50.0 3 7 10 2 1 1 1 4 -
+p581
+aVArmen Gilliam PHX 12/26/1988 PHX vs. LAL W 32 14 6 16 37.5 0 0 - 2 3 66.7 1 5 6 1 1 1 5 3 -
+p582
+aVTom Chambers PHX 12/26/1988 PHX vs. LAL W 43 23 8 20 40.0 0 1 0.0 7 8 87.5 3 5 8 3 1 2 4 4 -
+p583
+aVEd Nealy PHX 12/26/1988 PHX vs. LAL W 16 2 1 1 100.0 0 0 - 0 1 0.0 2 2 4 2 0 0 0 2 -
+p584
+aVAndrew Lang PHX 12/26/1988 PHX vs. LAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p585
+aVTyrone Corbin PHX 12/26/1988 PHX vs. LAL W 30 21 9 11 81.8 0 0 - 3 3 100.0 4 6 10 4 0 0 4 5 -
+p586
+aVKevin Johnson PHX 12/26/1988 PHX vs. LAL W 44 18 8 15 53.3 0 0 - 2 2 100.0 1 5 6 13 2 0 4 3 -
+p587
+aVSteve Kerr PHX 12/23/1988 PHX vs. DEN W 18 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 0 0 1 3 -
+p588
+aVTom Chambers PHX 12/23/1988 PHX vs. DEN W 35 17 5 13 38.5 0 0 - 7 10 70.0 0 3 3 1 0 0 2 4 -
+p589
+aVJeff Hornacek PHX 12/23/1988 PHX vs. DEN W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p590
+aVAndrew Lang PHX 12/23/1988 PHX vs. DEN W 12 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 1 1 1 1 -
+p591
+aVArmen Gilliam PHX 12/23/1988 PHX vs. DEN W 36 27 11 21 52.4 0 0 - 5 7 71.4 4 7 11 2 0 0 3 3 -
+p592
+aVEddie Johnson PHX 12/23/1988 PHX vs. DEN W 31 21 9 16 56.3 1 1 100.0 2 2 100.0 2 6 8 4 0 0 2 2 -
+p593
+aVMark West PHX 12/23/1988 PHX vs. DEN W 29 14 5 6 83.3 0 0 - 4 6 66.7 5 9 14 2 0 2 1 4 -
+p594
+aVKevin Johnson PHX 12/23/1988 PHX vs. DEN W 39 18 4 10 40.0 0 0 - 10 12 83.3 0 6 6 11 0 0 6 5 -
+p595
+aVTyrone Corbin PHX 12/23/1988 PHX vs. DEN W 33 11 4 8 50.0 0 0 - 3 4 75.0 4 1 5 3 1 0 0 4 -
+p596
+aVTim Perry PHX 12/22/1988 PHX @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p597
+aVTyrone Corbin PHX 12/22/1988 PHX @ DEN W 33 8 3 8 37.5 0 0 - 2 2 100.0 4 7 11 6 1 0 2 3 -
+p598
+aVKevin Johnson PHX 12/22/1988 PHX @ DEN W 26 23 10 15 66.7 0 0 - 3 5 60.0 0 4 4 4 2 0 3 4 -
+p599
+aVTom Chambers PHX 12/22/1988 PHX @ DEN W 38 22 10 25 40.0 0 1 0.0 2 4 50.0 4 7 11 5 0 1 1 3 -
+p600
+aVJeff Hornacek PHX 12/22/1988 PHX @ DEN W 39 24 10 17 58.8 1 1 100.0 3 4 75.0 2 7 9 5 0 0 0 5 -
+p601
+aVEddie Johnson PHX 12/22/1988 PHX @ DEN W 32 23 10 24 41.7 0 1 0.0 3 4 75.0 4 5 9 3 0 0 5 3 -
+p602
+aVAndrew Lang PHX 12/22/1988 PHX @ DEN W 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 1 3 -
+p603
+aVSteve Kerr PHX 12/22/1988 PHX @ DEN W 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p604
+aVArmen Gilliam PHX 12/22/1988 PHX @ DEN W 36 22 8 15 53.3 0 0 - 6 7 85.7 5 10 15 1 0 2 4 3 -
+p605
+aVMark West PHX 12/22/1988 PHX @ DEN W 24 0 0 3 0.0 0 0 - 0 0 - 0 7 7 1 1 3 0 0 -
+p606
+aVKevin Johnson PHX 12/20/1988 PHX vs. SAN W 36 13 6 9 66.7 0 0 - 1 1 100.0 1 4 5 11 4 0 3 4 -
+p607
+aVTom Chambers PHX 12/20/1988 PHX vs. SAN W 30 22 9 19 47.4 0 1 0.0 4 5 80.0 3 5 8 7 2 1 3 6 -
+p608
+aVEd Nealy PHX 12/20/1988 PHX vs. SAN W 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 3 -
+p609
+aVEddie Johnson PHX 12/20/1988 PHX vs. SAN W 34 27 12 28 42.9 1 1 100.0 2 2 100.0 3 3 6 3 1 0 1 2 -
+p610
+aVJeff Hornacek PHX 12/20/1988 PHX vs. SAN W 36 19 9 14 64.3 0 0 - 1 1 100.0 4 2 6 12 2 0 3 5 -
+p611
+aVArmen Gilliam PHX 12/20/1988 PHX vs. SAN W 36 23 8 18 44.4 0 0 - 7 10 70.0 3 3 6 3 1 0 2 2 -
+p612
+aVSteve Kerr PHX 12/20/1988 PHX vs. SAN W 9 5 2 3 66.7 0 1 0.0 1 2 50.0 0 0 0 2 1 0 0 0 -
+p613
+aVMark West PHX 12/20/1988 PHX vs. SAN W 21 5 2 4 50.0 0 0 - 1 2 50.0 3 7 10 1 0 3 0 6 -
+p614
+aVTyrone Corbin PHX 12/20/1988 PHX vs. SAN W 17 8 2 4 50.0 0 0 - 4 4 100.0 2 1 3 1 0 0 2 3 -
+p615
+aVAndrew Lang PHX 12/20/1988 PHX vs. SAN W 10 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 1 2 2 -
+p616
+aVKevin Johnson PHX 12/17/1988 PHX @ POR L 32 15 3 10 30.0 0 0 - 9 13 69.2 0 1 1 3 1 0 4 1 -
+p617
+aVEd Nealy PHX 12/17/1988 PHX @ POR L 13 2 1 3 33.3 0 0 - 0 0 - 5 6 11 0 2 0 1 1 -
+p618
+aVArmen Gilliam PHX 12/17/1988 PHX @ POR L 26 15 5 12 41.7 0 0 - 5 5 100.0 1 4 5 0 0 1 1 2 -
+p619
+aVMark West PHX 12/17/1988 PHX @ POR L 31 3 1 4 25.0 0 0 - 1 2 50.0 2 8 10 1 1 4 3 4 -
+p620
+aVDan Majerle PHX 12/17/1988 PHX @ POR L 22 4 2 8 25.0 0 3 0.0 0 0 - 1 1 2 6 1 0 1 1 -
+p621
+aVEddie Johnson PHX 12/17/1988 PHX @ POR L 22 18 9 15 60.0 0 0 - 0 0 - 2 0 2 2 2 0 3 5 -
+p622
+aVTyrone Corbin PHX 12/17/1988 PHX @ POR L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -
+p623
+aVJeff Hornacek PHX 12/17/1988 PHX @ POR L 35 17 8 11 72.7 1 1 100.0 0 0 - 0 2 2 6 0 1 1 1 -
+p624
+aVTim Perry PHX 12/17/1988 PHX @ POR L 7 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p625
+aVAndrew Lang PHX 12/17/1988 PHX @ POR L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 3 1 0 4 -
+p626
+aVTom Chambers PHX 12/17/1988 PHX @ POR L 22 8 4 11 36.4 0 1 0.0 0 0 - 2 5 7 1 1 0 5 3 -
+p627
+aVSteve Kerr PHX 12/17/1988 PHX @ POR L 8 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -
+p628
+aVJeff Hornacek PHX 12/16/1988 PHX vs. POR W 24 7 3 10 30.0 0 0 - 1 2 50.0 2 1 3 8 1 0 0 2 -
+p629
+aVAndrew Lang PHX 12/16/1988 PHX vs. POR W 14 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 0 1 1 3 -
+p630
+aVEddie Johnson PHX 12/16/1988 PHX vs. POR W 19 19 8 14 57.1 0 0 - 3 3 100.0 2 1 3 1 2 0 1 4 -
+p631
+aVDan Majerle PHX 12/16/1988 PHX vs. POR W 32 9 4 9 44.4 1 1 100.0 0 0 - 0 3 3 4 2 0 0 1 -
+p632
+aVTom Chambers PHX 12/16/1988 PHX vs. POR W 38 16 6 16 37.5 0 0 - 4 4 100.0 0 6 6 4 0 0 1 4 -
+p633
+aVMark West PHX 12/16/1988 PHX vs. POR W 34 14 5 8 62.5 0 0 - 4 9 44.4 2 6 8 0 1 3 2 5 -
+p634
+aVArmen Gilliam PHX 12/16/1988 PHX vs. POR W 39 41 18 26 69.2 0 0 - 5 7 71.4 4 8 12 0 0 0 2 3 -
+p635
+aVKevin Johnson PHX 12/16/1988 PHX vs. POR W 40 22 7 16 43.8 0 0 - 8 9 88.9 1 6 7 16 2 0 3 2 -
+p636
+aVJeff Hornacek PHX 12/13/1988 PHX @ SEA L 23 9 3 9 33.3 1 2 50.0 2 2 100.0 1 2 3 7 3 0 0 0 -
+p637
+aVAndrew Lang PHX 12/13/1988 PHX @ SEA L 8 4 1 1 100.0 0 0 - 2 2 100.0 2 3 5 0 1 0 1 2 -
+p638
+aVTom Chambers PHX 12/13/1988 PHX @ SEA L 43 27 10 17 58.8 0 1 0.0 7 12 58.3 2 3 5 1 2 1 3 4 -
+p639
+aVKevin Johnson PHX 12/13/1988 PHX @ SEA L 36 7 2 11 18.2 0 0 - 3 4 75.0 0 10 10 10 1 0 5 5 -
+p640
+aVMark West PHX 12/13/1988 PHX @ SEA L 19 8 3 4 75.0 0 0 - 2 3 66.7 1 2 3 1 0 1 1 4 -
+p641
+aVTim Perry PHX 12/13/1988 PHX @ SEA L 13 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 -
+p642
+aVEddie Johnson PHX 12/13/1988 PHX @ SEA L 32 27 9 22 40.9 0 2 0.0 9 9 100.0 2 0 2 1 0 0 4 3 -
+p643
+aVArmen Gilliam PHX 12/13/1988 PHX @ SEA L 29 15 5 10 50.0 0 0 - 5 6 83.3 1 5 6 1 0 0 2 1 -
+p644
+aVDan Majerle PHX 12/13/1988 PHX @ SEA L 37 14 6 7 85.7 1 1 100.0 1 2 50.0 1 4 5 2 0 1 0 5 -
+p645
+aVEddie Johnson PHX 12/09/1988 PHX vs. GOS W 23 16 7 15 46.7 0 0 - 2 2 100.0 1 6 7 1 1 0 0 1 -
+p646
+aVKevin Johnson PHX 12/09/1988 PHX vs. GOS W 37 13 5 14 35.7 0 0 - 3 5 60.0 1 3 4 2 2 0 3 3 -
+p647
+aVMark West PHX 12/09/1988 PHX vs. GOS W 17 6 3 3 100.0 0 0 - 0 0 - 1 5 6 0 1 0 0 2 -
+p648
+aVArmen Gilliam PHX 12/09/1988 PHX vs. GOS W 39 13 5 14 35.7 0 0 - 3 4 75.0 1 3 4 1 0 0 0 3 -
+p649
+aVAndrew Lang PHX 12/09/1988 PHX vs. GOS W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p650
+aVJeff Hornacek PHX 12/09/1988 PHX vs. GOS W 30 18 8 15 53.3 0 1 0.0 2 2 100.0 0 4 4 4 1 0 1 3 -
+p651
+aVDan Majerle PHX 12/09/1988 PHX vs. GOS W 40 19 8 14 57.1 2 3 66.7 1 2 50.0 6 4 10 4 2 1 2 2 -
+p652
+aVTom Chambers PHX 12/09/1988 PHX vs. GOS W 39 25 7 19 36.8 0 0 - 11 11 100.0 0 4 4 3 0 0 3 4 -
+p653
+aVTyrone Corbin PHX 12/09/1988 PHX vs. GOS W 8 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p654
+aVMark West PHX 12/07/1988 PHX @ LAL L 23 5 2 3 66.7 0 0 - 1 2 50.0 3 2 5 0 0 3 1 4 -
+p655
+aVKevin Johnson PHX 12/07/1988 PHX @ LAL L 43 14 6 18 33.3 0 0 - 2 2 100.0 0 2 2 17 4 0 3 1 -
+p656
+aVTyrone Corbin PHX 12/07/1988 PHX @ LAL L 11 2 1 4 25.0 0 0 - 0 0 - 4 3 7 2 1 0 0 2 -
+p657
+aVArmen Gilliam PHX 12/07/1988 PHX @ LAL L 24 9 3 9 33.3 0 0 - 3 4 75.0 1 4 5 0 2 0 1 2 -
+p658
+aVDan Majerle PHX 12/07/1988 PHX @ LAL L 32 18 8 13 61.5 1 1 100.0 1 4 25.0 0 8 8 2 1 0 0 1 -
+p659
+aVTom Chambers PHX 12/07/1988 PHX @ LAL L 30 25 12 25 48.0 0 0 - 1 1 100.0 3 0 3 1 1 0 1 4 -
+p660
+aVAndrew Lang PHX 12/07/1988 PHX @ LAL L 19 10 4 6 66.7 0 0 - 2 3 66.7 3 4 7 0 1 3 0 2 -
+p661
+aVTim Perry PHX 12/07/1988 PHX @ LAL L 14 7 3 8 37.5 0 0 - 1 2 50.0 1 1 2 0 2 1 1 0 -
+p662
+aVEddie Johnson PHX 12/07/1988 PHX @ LAL L 19 9 4 15 26.7 0 0 - 1 2 50.0 3 3 6 0 0 0 0 2 -
+p663
+aVJeff Hornacek PHX 12/07/1988 PHX @ LAL L 25 12 4 13 30.8 0 1 0.0 4 4 100.0 2 0 2 5 3 0 2 1 -
+p664
+aVArmen Gilliam PHX 12/06/1988 PHX vs. WAS W 30 25 9 14 64.3 0 0 - 7 13 53.8 3 3 6 0 0 0 3 1 -
+p665
+aVTyrone Corbin PHX 12/06/1988 PHX vs. WAS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p666
+aVDan Majerle PHX 12/06/1988 PHX vs. WAS W 32 12 6 8 75.0 0 1 0.0 0 3 0.0 2 9 11 6 0 0 4 4 -
+p667
+aVEddie Johnson PHX 12/06/1988 PHX vs. WAS W 23 17 6 14 42.9 0 2 0.0 5 6 83.3 0 4 4 2 0 0 1 1 -
+p668
+aVMark West PHX 12/06/1988 PHX vs. WAS W 35 10 4 6 66.7 0 0 - 2 4 50.0 2 11 13 1 1 3 0 4 -
+p669
+aVTim Perry PHX 12/06/1988 PHX vs. WAS W 18 8 3 12 25.0 0 0 - 2 2 100.0 2 3 5 1 1 2 0 3 -
+p670
+aVTom Chambers PHX 12/06/1988 PHX vs. WAS W 20 23 7 14 50.0 1 2 50.0 8 8 100.0 1 3 4 1 0 0 0 2 -
+p671
+aVWinston Crite PHX 12/06/1988 PHX vs. WAS W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p672
+aVKevin Johnson PHX 12/06/1988 PHX vs. WAS W 27 18 5 7 71.4 0 1 0.0 8 9 88.9 1 3 4 10 3 1 1 3 -
+p673
+aVAndrew Lang PHX 12/06/1988 PHX vs. WAS W 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 2 2 6 -
+p674
+aVJeff Hornacek PHX 12/06/1988 PHX vs. WAS W 31 15 5 12 41.7 0 1 0.0 5 5 100.0 3 2 5 10 2 0 3 2 -
+p675
+aVAndrew Lang PHX 12/03/1988 PHX vs. LAC W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 5 -
+p676
+aVTyrone Corbin PHX 12/03/1988 PHX vs. LAC W 31 5 2 6 33.3 0 0 - 1 2 50.0 5 0 5 0 0 0 0 2 -
+p677
+aVCraig Hodges PHX 12/03/1988 PHX vs. LAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p678
+aVArmen Gilliam PHX 12/03/1988 PHX vs. LAC W 43 23 6 11 54.5 0 0 - 11 12 91.7 2 11 13 3 0 1 3 6 -
+p679
+aVTom Chambers PHX 12/03/1988 PHX vs. LAC W 43 15 5 15 33.3 0 0 - 5 10 50.0 3 9 12 5 3 0 5 2 -
+p680
+aVDan Majerle PHX 12/03/1988 PHX vs. LAC W 21 12 4 11 36.4 1 2 50.0 3 5 60.0 2 1 3 2 1 1 0 1 -
+p681
+aVKevin Johnson PHX 12/03/1988 PHX vs. LAC W 44 41 16 28 57.1 0 0 - 9 11 81.8 0 2 2 11 1 0 8 2 -
+p682
+aVMark West PHX 12/03/1988 PHX vs. LAC W 40 7 3 4 75.0 0 0 - 1 2 50.0 2 12 14 0 1 5 1 1 -
+p683
+aVJeff Hornacek PHX 12/03/1988 PHX vs. LAC W 26 11 4 13 30.8 0 1 0.0 3 3 100.0 0 2 2 5 2 0 2 2 -
+p684
+aVTom Chambers PHX 12/02/1988 PHX vs. HOU W 37 36 13 26 50.0 0 0 - 10 13 76.9 3 4 7 2 3 0 1 4 -
+p685
+aVJeff Hornacek PHX 12/02/1988 PHX vs. HOU W 30 10 4 8 50.0 1 2 50.0 1 2 50.0 0 2 2 2 0 0 2 1 -
+p686
+aVAndrew Lang PHX 12/02/1988 PHX vs. HOU W 12 2 1 6 16.7 0 0 - 0 0 - 4 3 7 0 0 2 0 2 -
+p687
+aVKevin Johnson PHX 12/02/1988 PHX vs. HOU W 42 18 6 13 46.2 0 0 - 6 6 100.0 1 3 4 17 3 0 6 5 -
+p688
+aVMark West PHX 12/02/1988 PHX vs. HOU W 32 5 2 3 66.7 0 0 - 1 2 50.0 4 4 8 1 0 6 2 3 -
+p689
+aVTyrone Corbin PHX 12/02/1988 PHX vs. HOU W 26 15 7 10 70.0 0 0 - 1 1 100.0 7 5 12 2 3 0 2 4 -
+p690
+aVTim Perry PHX 12/02/1988 PHX vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p691
+aVDan Majerle PHX 12/02/1988 PHX vs. HOU W 27 8 3 10 30.0 2 3 66.7 0 2 0.0 3 2 5 2 0 2 0 4 -
+p692
+aVArmen Gilliam PHX 12/02/1988 PHX vs. HOU W 32 16 8 18 44.4 0 0 - 0 0 - 1 9 10 1 0 0 4 4 -
+p693
+aVTyrone Corbin PHX 11/29/1988 PHX @ HOU W 16 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 1 0 1 3 -
+p694
+aVEddie Johnson PHX 11/29/1988 PHX @ HOU W 12 8 3 8 37.5 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -
+p695
+aVKevin Johnson PHX 11/29/1988 PHX @ HOU W 38 18 6 12 50.0 1 1 100.0 5 5 100.0 0 3 3 13 3 0 6 3 -
+p696
+aVTom Chambers PHX 11/29/1988 PHX @ HOU W 37 26 10 19 52.6 1 2 50.0 5 8 62.5 1 7 8 3 1 0 3 3 -
+p697
+aVArmen Gilliam PHX 11/29/1988 PHX @ HOU W 39 35 14 20 70.0 0 0 - 7 8 87.5 1 6 7 0 2 0 0 1 -
+p698
+aVMark West PHX 11/29/1988 PHX @ HOU W 32 12 3 6 50.0 0 0 - 6 8 75.0 4 9 13 0 2 0 3 5 -
+p699
+aVTim Perry PHX 11/29/1988 PHX @ HOU W 2 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -
+p700
+aVDan Majerle PHX 11/29/1988 PHX @ HOU W 25 9 4 9 44.4 1 1 100.0 0 1 0.0 0 3 3 2 1 0 0 2 -
+p701
+aVWinston Crite PHX 11/29/1988 PHX @ HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p702
+aVJeff Hornacek PHX 11/29/1988 PHX @ HOU W 33 14 7 14 50.0 0 0 - 0 0 - 0 3 3 8 5 0 1 1 -
+p703
+aVAndrew Lang PHX 11/29/1988 PHX @ HOU W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p704
+aVCraig Hodges PHX 11/26/1988 PHX @ SAN L 22 8 3 8 37.5 2 5 40.0 0 0 - 1 0 1 2 0 0 0 0 -
+p705
+aVAndrew Lang PHX 11/26/1988 PHX @ SAN L 12 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 1 1 4 -
+p706
+aVDan Majerle PHX 11/26/1988 PHX @ SAN L 16 4 1 4 25.0 1 1 100.0 1 2 50.0 0 2 2 0 3 0 0 3 -
+p707
+aVEddie Johnson PHX 11/26/1988 PHX @ SAN L 23 7 3 13 23.1 0 1 0.0 1 3 33.3 0 1 1 3 0 0 0 3 -
+p708
+aVTom Chambers PHX 11/26/1988 PHX @ SAN L 33 35 13 16 81.3 2 2 100.0 7 7 100.0 2 7 9 0 3 1 4 5 -
+p709
+aVJeff Hornacek PHX 11/26/1988 PHX @ SAN L 31 8 3 13 23.1 0 4 0.0 2 2 100.0 0 3 3 1 2 0 0 5 -
+p710
+aVTim Perry PHX 11/26/1988 PHX @ SAN L 6 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p711
+aVArmen Gilliam PHX 11/26/1988 PHX @ SAN L 36 17 6 14 42.9 0 0 - 5 6 83.3 2 4 6 1 1 0 6 3 -
+p712
+aVKevin Johnson PHX 11/26/1988 PHX @ SAN L 41 20 6 14 42.9 0 1 0.0 8 9 88.9 1 3 4 12 2 1 5 5 -
+p713
+aVTyrone Corbin PHX 11/26/1988 PHX @ SAN L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p714
+aVMark West PHX 11/26/1988 PHX @ SAN L 9 2 0 2 0.0 0 0 - 2 6 33.3 1 1 2 0 0 1 1 0 -
+p715
+aVMark West PHX 11/25/1988 PHX vs. SEA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p716
+aVKevin Johnson PHX 11/25/1988 PHX vs. SEA W 35 16 4 10 40.0 0 0 - 8 8 100.0 0 4 4 4 1 0 5 4 -
+p717
+aVEddie Johnson PHX 11/25/1988 PHX vs. SEA W 21 16 7 10 70.0 1 2 50.0 1 1 100.0 0 2 2 1 0 0 1 3 -
+p718
+aVTim Perry PHX 11/25/1988 PHX vs. SEA W 16 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 1 -
+p719
+aVJeff Hornacek PHX 11/25/1988 PHX vs. SEA W 35 12 4 10 40.0 0 0 - 4 4 100.0 0 4 4 5 1 1 2 2 -
+p720
+aVCraig Hodges PHX 11/25/1988 PHX vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p721
+aVArmen Gilliam PHX 11/25/1988 PHX vs. SEA W 41 29 11 16 68.8 0 0 - 7 8 87.5 6 8 14 2 0 0 3 4 -
+p722
+aVTom Chambers PHX 11/25/1988 PHX vs. SEA W 38 28 7 22 31.8 1 1 100.0 13 15 86.7 4 7 11 2 1 1 4 5 -
+p723
+aVAndrew Lang PHX 11/25/1988 PHX vs. SEA W 22 2 0 2 0.0 0 0 - 2 4 50.0 1 4 5 1 0 3 0 4 -
+p724
+aVDan Majerle PHX 11/25/1988 PHX vs. SEA W 26 4 2 7 28.6 0 0 - 0 2 0.0 0 1 1 2 0 0 0 2 -
+p725
+aVArmen Gilliam PHX 11/23/1988 PHX vs. NJN L 31 30 12 13 92.3 0 0 - 6 10 60.0 1 2 3 1 0 1 2 4 -
+p726
+aVKevin Johnson PHX 11/23/1988 PHX vs. NJN L 41 22 9 17 52.9 0 0 - 4 4 100.0 0 3 3 12 1 0 2 3 -
+p727
+aVTyrone Corbin PHX 11/23/1988 PHX vs. NJN L 17 0 0 4 0.0 0 0 - 0 2 0.0 5 3 8 2 0 0 1 2 -
+p728
+aVCraig Hodges PHX 11/23/1988 PHX vs. NJN L 9 8 3 5 60.0 1 1 100.0 1 2 50.0 0 0 0 1 2 0 0 2 -
+p729
+aVTom Chambers PHX 11/23/1988 PHX vs. NJN L 41 30 9 18 50.0 1 1 100.0 11 12 91.7 0 9 9 1 0 2 6 4 -
+p730
+aVEddie Johnson PHX 11/23/1988 PHX vs. NJN L 38 19 6 10 60.0 0 0 - 7 7 100.0 1 7 8 5 1 0 1 3 -
+p731
+aVMark West PHX 11/23/1988 PHX vs. NJN L 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -
+p732
+aVDan Majerle PHX 11/23/1988 PHX vs. NJN L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 5 -
+p733
+aVJeff Hornacek PHX 11/23/1988 PHX vs. NJN L 37 16 6 14 42.9 1 3 33.3 3 4 75.0 1 4 5 9 0 0 4 4 -
+p734
+aVAndrew Lang PHX 11/19/1988 PHX @ UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p735
+aVJeff Hornacek PHX 11/19/1988 PHX @ UTH L 33 14 7 12 58.3 0 0 - 0 0 - 1 2 3 9 2 0 1 3 -
+p736
+aVDan Majerle PHX 11/19/1988 PHX @ UTH L 27 6 3 5 60.0 0 0 - 0 2 0.0 1 3 4 3 1 1 1 2 -
+p737
+aVTyrone Corbin PHX 11/19/1988 PHX @ UTH L 26 11 5 8 62.5 0 0 - 1 2 50.0 1 3 4 4 2 1 1 5 -
+p738
+aVArmen Gilliam PHX 11/19/1988 PHX @ UTH L 27 14 6 17 35.3 0 0 - 2 2 100.0 1 3 4 0 0 0 0 3 -
+p739
+aVMark West PHX 11/19/1988 PHX @ UTH L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -
+p740
+aVTom Chambers PHX 11/19/1988 PHX @ UTH L 44 32 12 27 44.4 1 2 50.0 7 8 87.5 2 10 12 1 1 3 3 3 -
+p741
+aVTim Perry PHX 11/19/1988 PHX @ UTH L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p742
+aVEddie Johnson PHX 11/19/1988 PHX @ UTH L 34 24 9 20 45.0 1 3 33.3 5 5 100.0 2 3 5 3 1 0 0 5 -
+p743
+aVKevin Johnson PHX 11/19/1988 PHX @ UTH L 36 18 7 12 58.3 0 0 - 4 4 100.0 1 3 4 10 1 0 3 4 -
+p744
+aVTyrone Corbin PHX 11/18/1988 PHX vs. DET L 7 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 1 0 1 2 -
+p745
+aVArmen Gilliam PHX 11/18/1988 PHX vs. DET L 32 21 7 13 53.8 0 0 - 7 9 77.8 1 7 8 0 0 1 4 1 -
+p746
+aVDan Majerle PHX 11/18/1988 PHX vs. DET L 19 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 2 1 0 1 3 -
+p747
+aVJeff Hornacek PHX 11/18/1988 PHX vs. DET L 35 22 10 15 66.7 2 5 40.0 0 0 - 1 2 3 2 0 0 2 5 -
+p748
+aVTim Perry PHX 11/18/1988 PHX vs. DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p749
+aVTom Chambers PHX 11/18/1988 PHX vs. DET L 38 26 8 14 57.1 0 1 0.0 10 12 83.3 3 8 11 3 1 1 5 5 -
+p750
+aVEddie Johnson PHX 11/18/1988 PHX vs. DET L 34 8 4 14 28.6 0 3 0.0 0 0 - 1 3 4 1 0 0 1 3 -
+p751
+aVCraig Hodges PHX 11/18/1988 PHX vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p752
+aVKevin Johnson PHX 11/18/1988 PHX vs. DET L 41 16 8 14 57.1 0 0 - 0 0 - 1 2 3 10 1 1 7 3 -
+p753
+aVMark West PHX 11/18/1988 PHX vs. DET L 25 8 3 5 60.0 0 0 - 2 3 66.7 2 1 3 1 0 1 1 4 -
+p754
+aVJeff Hornacek PHX 11/16/1988 PHX vs. IND W 38 16 7 12 58.3 0 0 - 2 2 100.0 2 1 3 11 6 0 0 2 -
+p755
+aVEddie Johnson PHX 11/16/1988 PHX vs. IND W 26 22 9 19 47.4 1 1 100.0 3 3 100.0 0 3 3 2 0 1 0 3 -
+p756
+aVArmen Gilliam PHX 11/16/1988 PHX vs. IND W 34 28 12 22 54.5 0 0 - 4 5 80.0 4 4 8 1 0 0 0 1 -
+p757
+aVTim Perry PHX 11/16/1988 PHX vs. IND W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p758
+aVDan Majerle PHX 11/16/1988 PHX vs. IND W 31 11 5 10 50.0 0 0 - 1 1 100.0 2 1 3 3 2 0 0 3 -
+p759
+aVKevin Johnson PHX 11/16/1988 PHX vs. IND W 42 18 5 10 50.0 0 1 0.0 8 10 80.0 0 1 1 11 0 0 7 2 -
+p760
+aVAndrew Lang PHX 11/16/1988 PHX vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p761
+aVMark West PHX 11/16/1988 PHX vs. IND W 21 6 3 6 50.0 0 0 - 0 2 0.0 2 4 6 1 0 4 2 2 -
+p762
+aVTom Chambers PHX 11/16/1988 PHX vs. IND W 39 20 7 16 43.8 0 1 0.0 6 10 60.0 1 10 11 4 2 1 1 2 -
+p763
+aVJeff Hornacek PHX 11/15/1988 PHX @ SAC W 28 8 4 8 50.0 0 0 - 0 0 - 2 2 4 6 1 1 1 0 -
+p764
+aVAndrew Lang PHX 11/15/1988 PHX @ SAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 0 2 -
+p765
+aVArmen Gilliam PHX 11/15/1988 PHX @ SAC W 24 18 6 11 54.5 0 0 - 6 7 85.7 1 7 8 0 0 0 3 3 -
+p766
+aVTim Perry PHX 11/15/1988 PHX @ SAC W 18 10 3 4 75.0 0 0 - 4 4 100.0 0 4 4 0 0 1 1 2 -
+p767
+aVEddie Johnson PHX 11/15/1988 PHX @ SAC W 36 27 12 16 75.0 0 1 0.0 3 4 75.0 0 10 10 2 1 0 1 5 -
+p768
+aVTyrone Corbin PHX 11/15/1988 PHX @ SAC W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -
+p769
+aVDan Majerle PHX 11/15/1988 PHX @ SAC W 29 10 5 10 50.0 0 0 - 0 5 0.0 1 3 4 5 2 0 1 1 -
+p770
+aVCraig Hodges PHX 11/15/1988 PHX @ SAC W 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p771
+aVKevin Johnson PHX 11/15/1988 PHX @ SAC W 37 25 11 16 68.8 0 0 - 3 4 75.0 0 4 4 10 0 3 5 3 -
+p772
+aVKenny Gattison PHX 11/15/1988 PHX @ SAC W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p773
+aVMark West PHX 11/15/1988 PHX @ SAC W 23 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 1 2 2 2 -
+p774
+aVTom Chambers PHX 11/15/1988 PHX @ SAC W 21 10 5 11 45.5 0 0 - 0 0 - 2 5 7 0 1 0 0 4 -
+p775
+aVCraig Hodges PHX 11/12/1988 PHX @ LAC L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -
+p776
+aVTim Perry PHX 11/12/1988 PHX @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p777
+aVTom Chambers PHX 11/12/1988 PHX @ LAC L 39 28 12 23 52.2 0 1 0.0 4 5 80.0 1 11 12 2 0 1 3 6 -
+p778
+aVJeff Hornacek PHX 11/12/1988 PHX @ LAC L 33 7 3 10 30.0 1 3 33.3 0 0 - 2 0 2 6 3 0 2 3 -
+p779
+aVTyrone Corbin PHX 11/12/1988 PHX @ LAC L 23 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 2 0 3 5 -
+p780
+aVMark West PHX 11/12/1988 PHX @ LAC L 16 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 1 2 6 -
+p781
+aVKevin Johnson PHX 11/12/1988 PHX @ LAC L 39 22 7 9 77.8 0 1 0.0 8 8 100.0 1 8 9 17 2 0 4 2 -
+p782
+aVAndrew Lang PHX 11/12/1988 PHX @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p783
+aVEddie Johnson PHX 11/12/1988 PHX @ LAC L 47 45 18 32 56.3 1 7 14.3 8 10 80.0 1 3 4 2 1 0 1 5 -
+p784
+aVDan Majerle PHX 11/12/1988 PHX @ LAC L 21 7 3 8 37.5 0 1 0.0 1 2 50.0 1 0 1 4 0 0 1 1 -
+p785
+aVArmen Gilliam PHX 11/12/1988 PHX @ LAC L 32 14 5 15 33.3 0 0 - 4 6 66.7 2 2 4 2 2 1 2 6 -
+p786
+aVEddie Johnson PHX 11/11/1988 PHX vs. GOS W 22 20 7 10 70.0 1 1 100.0 5 5 100.0 0 2 2 4 1 0 2 4 -
+p787
+aVKenny Gattison PHX 11/11/1988 PHX vs. GOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p788
+aVArmen Gilliam PHX 11/11/1988 PHX vs. GOS W 29 19 6 11 54.5 0 0 - 7 7 100.0 1 7 8 1 5 3 2 2 -
+p789
+aVJeff Hornacek PHX 11/11/1988 PHX vs. GOS W 26 8 4 7 57.1 0 0 - 0 0 - 1 0 1 5 0 0 0 2 -
+p790
+aVMark West PHX 11/11/1988 PHX vs. GOS W 16 10 5 7 71.4 0 0 - 0 0 - 6 3 9 1 1 0 1 2 -
+p791
+aVTom Chambers PHX 11/11/1988 PHX vs. GOS W 25 22 9 16 56.3 0 1 0.0 4 5 80.0 2 6 8 3 2 1 0 4 -
+p792
+aVAndrew Lang PHX 11/11/1988 PHX vs. GOS W 7 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 3 -
+p793
+aVKevin Johnson PHX 11/11/1988 PHX vs. GOS W 29 16 6 8 75.0 0 0 - 4 4 100.0 0 0 0 13 0 0 1 2 -
+p794
+aVTyrone Corbin PHX 11/11/1988 PHX vs. GOS W 26 16 5 11 45.5 0 0 - 6 6 100.0 1 4 5 2 2 1 1 3 -
+p795
+aVDan Majerle PHX 11/11/1988 PHX vs. GOS W 27 10 4 11 36.4 0 2 0.0 2 5 40.0 2 1 3 4 3 0 0 3 -
+p796
+aVCraig Hodges PHX 11/11/1988 PHX vs. GOS W 15 9 4 8 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 3 1 -
+p797
+aVTim Perry PHX 11/11/1988 PHX vs. GOS W 13 7 2 4 50.0 0 1 0.0 3 4 75.0 2 3 5 0 1 0 2 1 -
+p798
+aVKevin Johnson PHX 11/09/1988 PHX vs. DAL W 35 11 4 12 33.3 0 0 - 3 4 75.0 2 3 5 16 0 0 3 4 -
+p799
+aVMark West PHX 11/09/1988 PHX vs. DAL W 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -
+p800
+aVEddie Johnson PHX 11/09/1988 PHX vs. DAL W 29 37 15 19 78.9 2 2 100.0 5 7 71.4 1 2 3 3 0 1 0 3 -
+p801
+aVTyrone Corbin PHX 11/09/1988 PHX vs. DAL W 19 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -
+p802
+aVArmen Gilliam PHX 11/09/1988 PHX vs. DAL W 41 19 9 17 52.9 0 0 - 1 3 33.3 3 6 9 0 3 3 3 1 -
+p803
+aVDan Majerle PHX 11/09/1988 PHX vs. DAL W 22 10 3 8 37.5 0 1 0.0 4 8 50.0 2 6 8 3 2 0 1 3 -
+p804
+aVJeff Hornacek PHX 11/09/1988 PHX vs. DAL W 39 15 6 16 37.5 0 0 - 3 4 75.0 1 3 4 9 3 0 2 4 -
+p805
+aVTom Chambers PHX 11/09/1988 PHX vs. DAL W 40 17 8 15 53.3 1 2 50.0 0 1 0.0 1 5 6 1 1 1 4 3 -
+p806
+aVJeff Hornacek PHX 11/05/1988 PHX @ GOS L 19 11 5 10 50.0 0 1 0.0 1 2 50.0 0 1 1 1 2 0 0 3 -
+p807
+aVTom Chambers PHX 11/05/1988 PHX @ GOS L 40 23 9 20 45.0 0 1 0.0 5 6 83.3 1 9 10 3 2 2 1 5 -
+p808
+aVDan Majerle PHX 11/05/1988 PHX @ GOS L 30 7 2 11 18.2 1 3 33.3 2 4 50.0 1 2 3 2 0 0 0 2 -
+p809
+aVCraig Hodges PHX 11/05/1988 PHX @ GOS L 4 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -
+p810
+aVTim Perry PHX 11/05/1988 PHX @ GOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p811
+aVMark West PHX 11/05/1988 PHX @ GOS L 37 8 2 3 66.7 0 0 - 4 5 80.0 1 9 10 3 1 2 2 4 -
+p812
+aVArmen Gilliam PHX 11/05/1988 PHX @ GOS L 24 11 5 14 35.7 0 0 - 1 2 50.0 0 5 5 1 1 1 4 4 -
+p813
+aVEddie Johnson PHX 11/05/1988 PHX @ GOS L 18 10 5 15 33.3 0 1 0.0 0 0 - 3 0 3 1 0 0 1 3 -
+p814
+aVTyrone Corbin PHX 11/05/1988 PHX @ GOS L 21 8 3 8 37.5 0 0 - 2 2 100.0 3 3 6 0 0 0 2 2 -
+p815
+aVKevin Johnson PHX 11/05/1988 PHX @ GOS L 40 20 6 13 46.2 0 0 - 8 8 100.0 1 2 3 10 3 0 2 6 -
+p816
+aVAndrew Lang PHX 11/05/1988 PHX @ GOS L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p817
+aVEddie Johnson PHX 11/04/1988 PHX @ POR L 21 10 2 11 18.2 0 1 0.0 6 6 100.0 0 3 3 1 1 0 2 1 -
+p818
+aVTim Perry PHX 11/04/1988 PHX @ POR L 13 10 4 5 80.0 0 0 - 2 6 33.3 4 0 4 0 1 0 3 1 -
+p819
+aVTyrone Corbin PHX 11/04/1988 PHX @ POR L 18 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 0 1 4 -
+p820
+aVMark West PHX 11/04/1988 PHX @ POR L 27 7 3 5 60.0 0 0 - 1 2 50.0 5 3 8 0 2 0 3 6 -
+p821
+aVDan Majerle PHX 11/04/1988 PHX @ POR L 23 12 2 9 22.2 0 0 - 8 10 80.0 3 1 4 1 1 0 0 1 -
+p822
+aVAndrew Lang PHX 11/04/1988 PHX @ POR L 8 4 1 2 50.0 0 0 - 2 4 50.0 3 1 4 0 0 0 0 3 -
+p823
+aVTom Chambers PHX 11/04/1988 PHX @ POR L 39 25 11 22 50.0 0 0 - 3 3 100.0 1 7 8 1 0 2 4 3 -
+p824
+aVKevin Johnson PHX 11/04/1988 PHX @ POR L 34 9 4 13 30.8 0 0 - 1 1 100.0 0 3 3 13 0 0 3 3 -
+p825
+aVCraig Hodges PHX 11/04/1988 PHX @ POR L 11 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 2 -
+p826
+aVJeff Hornacek PHX 11/04/1988 PHX @ POR L 17 7 2 6 33.3 0 2 0.0 3 4 75.0 0 2 2 2 0 0 0 0 -
+p827
+aVArmen Gilliam PHX 11/04/1988 PHX @ POR L 29 13 6 14 42.9 0 0 - 1 3 33.3 1 7 8 0 0 0 2 4 -
+p828
+a.

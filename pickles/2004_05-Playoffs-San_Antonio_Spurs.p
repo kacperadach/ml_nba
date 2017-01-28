@@ -1,0 +1,466 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRobert Horry SAS 06/23/2005 SAS vs. DET W 32 15 4 7 57.1 2 4 50.0 5 6 83.3 2 3 5 1 1 1 1 1 17
+p2
+aVTim Duncan SAS 06/23/2005 SAS vs. DET W 42 25 10 27 37.0 0 0 - 5 6 83.3 5 6 11 3 0 2 5 2 1
+p3
+aVBrent Barry SAS 06/23/2005 SAS vs. DET W 29 5 2 3 66.7 1 1 100.0 0 0 - 0 4 4 2 2 1 2 2 14
+p4
+aVNazr Mohammed SAS 06/23/2005 SAS vs. DET W 22 0 0 3 0.0 0 0 - 0 0 - 1 6 7 0 0 2 0 3 -4
+p5
+aVTony Parker SAS 06/23/2005 SAS vs. DET W 38 8 3 11 27.3 1 3 33.3 1 2 50.0 0 2 2 3 0 0 1 4 -1
+p6
+aVBruce Bowen SAS 06/23/2005 SAS vs. DET W 41 5 2 4 50.0 1 1 100.0 0 0 - 0 4 4 1 0 1 1 5 3
+p7
+aVManu Ginobili SAS 06/23/2005 SAS vs. DET W 35 23 8 13 61.5 2 2 100.0 5 5 100.0 0 5 5 4 1 0 3 3 5
+p8
+aVDevin Brown SAS 06/23/2005 SAS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p9
+aVTony Parker SAS 06/21/2005 SAS vs. DET L 38 15 7 15 46.7 1 3 33.3 0 1 0.0 0 2 2 5 0 0 4 4 -1
+p10
+aVManu Ginobili SAS 06/21/2005 SAS vs. DET L 41 21 7 17 41.2 2 8 25.0 5 8 62.5 1 9 10 3 2 0 3 3 -13
+p11
+aVBruce Bowen SAS 06/21/2005 SAS vs. DET L 41 6 2 8 25.0 2 6 33.3 0 0 - 0 2 2 1 0 0 1 2 -7
+p12
+aVBeno Udrih SAS 06/21/2005 SAS vs. DET L 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p13
+aVBrent Barry SAS 06/21/2005 SAS vs. DET L 25 11 3 10 30.0 1 5 20.0 4 5 80.0 1 1 2 3 0 0 1 2 -7
+p14
+aVRobert Horry SAS 06/21/2005 SAS vs. DET L 30 8 3 6 50.0 2 5 40.0 0 0 - 1 3 4 2 1 1 1 4 -12
+p15
+aVNazr Mohammed SAS 06/21/2005 SAS vs. DET L 24 4 1 3 33.3 0 0 - 2 2 100.0 5 3 8 0 0 0 1 1 -5
+p16
+aVTim Duncan SAS 06/21/2005 SAS vs. DET L 40 21 8 14 57.1 0 0 - 5 10 50.0 5 10 15 1 0 1 0 2 -1
+p17
+aVBruce Bowen SAS 06/19/2005 SAS @ DET W 44 10 4 8 50.0 2 5 40.0 0 0 - 0 5 5 3 1 0 3 4 1
+p18
+aVTony Parker SAS 06/19/2005 SAS @ DET W 45 14 7 15 46.7 0 3 0.0 0 0 - 1 1 2 3 0 0 6 4 -13
+p19
+aVManu Ginobili SAS 06/19/2005 SAS @ DET W 44 15 5 16 31.3 0 4 0.0 5 5 100.0 3 3 6 9 1 0 2 4 14
+p20
+aVNazr Mohammed SAS 06/19/2005 SAS @ DET W 26 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 1
+p21
+aVDevin Brown SAS 06/19/2005 SAS @ DET W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 3
+p22
+aVBrent Barry SAS 06/19/2005 SAS @ DET W 22 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 0 0 1 0 3 -2
+p23
+aVRobert Horry SAS 06/19/2005 SAS @ DET W 32 21 7 12 58.3 5 6 83.3 2 3 66.7 5 2 7 2 0 0 3 5 -4
+p24
+aVTim Duncan SAS 06/19/2005 SAS @ DET W 48 26 11 24 45.8 0 0 - 4 11 36.4 8 11 19 2 0 2 2 3 5
+p25
+aVBruce Bowen SAS 06/16/2005 SAS @ DET L 33 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 4 0 2 3 4 -27
+p26
+aVTony Massenburg SAS 06/16/2005 SAS @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -8
+p27
+aVRasho Nesterovic SAS 06/16/2005 SAS @ DET L 14 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 1 1 1 -13
+p28
+aVBeno Udrih SAS 06/16/2005 SAS @ DET L 11 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 2 2 -20
+p29
+aVDevin Brown SAS 06/16/2005 SAS @ DET L 20 8 2 8 25.0 1 2 50.0 3 5 60.0 1 2 3 2 0 0 0 1 -12
+p30
+aVTony Parker SAS 06/16/2005 SAS @ DET L 37 12 6 13 46.2 0 1 0.0 0 2 0.0 0 4 4 4 0 1 3 2 -11
+p31
+aVBrent Barry SAS 06/16/2005 SAS @ DET L 11 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 1 2 -11
+p32
+aVTim Duncan SAS 06/16/2005 SAS @ DET L 39 16 5 17 29.4 0 0 - 6 9 66.7 3 13 16 2 0 3 3 2 -20
+p33
+aVNazr Mohammed SAS 06/16/2005 SAS @ DET L 17 4 2 6 33.3 0 0 - 0 0 - 3 2 5 0 0 0 1 2 -4
+p34
+aVManu Ginobili SAS 06/16/2005 SAS @ DET L 32 12 4 9 44.4 1 5 20.0 3 4 75.0 0 4 4 3 1 1 2 3 -12
+p35
+aVRobert Horry SAS 06/16/2005 SAS @ DET L 20 5 2 6 33.3 1 3 33.3 0 0 - 3 1 4 0 0 1 1 1 -17
+p36
+aVBeno Udrih SAS 06/14/2005 SAS @ DET L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 3 1 -10
+p37
+aVManu Ginobili SAS 06/14/2005 SAS @ DET L 29 7 2 6 33.3 1 3 33.3 2 2 100.0 0 4 4 0 0 0 6 4 -4
+p38
+aVBruce Bowen SAS 06/14/2005 SAS @ DET L 42 13 4 8 50.0 4 6 66.7 1 2 50.0 0 0 0 2 2 1 1 4 -9
+p39
+aVTony Parker SAS 06/14/2005 SAS @ DET L 40 21 8 16 50.0 0 2 0.0 5 8 62.5 0 2 2 4 2 0 4 4 -4
+p40
+aVTim Duncan SAS 06/14/2005 SAS @ DET L 38 14 5 15 33.3 0 0 - 4 4 100.0 3 7 10 4 3 1 2 3 -23
+p41
+aVBrent Barry SAS 06/14/2005 SAS @ DET L 21 10 4 5 80.0 2 2 100.0 0 0 - 0 4 4 1 0 0 1 1 -17
+p42
+aVNazr Mohammed SAS 06/14/2005 SAS @ DET L 18 4 2 4 50.0 0 0 - 0 2 0.0 3 4 7 0 0 0 1 3 -13
+p43
+aVGlenn Robinson SAS 06/14/2005 SAS @ DET L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p44
+aVDevin Brown SAS 06/14/2005 SAS @ DET L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p45
+aVTony Massenburg SAS 06/14/2005 SAS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p46
+aVRobert Horry SAS 06/14/2005 SAS @ DET L 30 6 2 7 28.6 1 3 33.3 1 2 50.0 1 4 5 2 0 1 0 0 1
+p47
+aVRasho Nesterovic SAS 06/14/2005 SAS @ DET L 8 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 3
+p48
+aVBrent Barry SAS 06/12/2005 SAS vs. DET W 26 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 5 2 0 2 1 -1
+p49
+aVRasho Nesterovic SAS 06/12/2005 SAS vs. DET W 3 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 0 0
+p50
+aVTony Parker SAS 06/12/2005 SAS vs. DET W 28 12 6 9 66.7 0 1 0.0 0 1 0.0 0 1 1 2 0 0 0 5 10
+p51
+aVGlenn Robinson SAS 06/12/2005 SAS vs. DET W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p52
+aVManu Ginobili SAS 06/12/2005 SAS vs. DET W 32 27 6 8 75.0 4 5 80.0 11 13 84.6 1 2 3 7 3 0 3 3 25
+p53
+aVTim Duncan SAS 06/12/2005 SAS vs. DET W 37 18 5 10 50.0 0 0 - 8 9 88.9 3 8 11 1 0 4 2 2 20
+p54
+aVRobert Horry SAS 06/12/2005 SAS vs. DET W 28 12 4 10 40.0 2 6 33.3 2 2 100.0 1 5 6 5 4 1 2 2 16
+p55
+aVTony Massenburg SAS 06/12/2005 SAS vs. DET W 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p56
+aVDevin Brown SAS 06/12/2005 SAS vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p57
+aVBeno Udrih SAS 06/12/2005 SAS vs. DET W 18 7 2 4 50.0 1 1 100.0 2 2 100.0 0 2 2 2 1 0 2 0 11
+p58
+aVNazr Mohammed SAS 06/12/2005 SAS vs. DET W 25 6 1 2 50.0 0 0 - 4 5 80.0 3 2 5 0 0 2 2 2 7
+p59
+aVBruce Bowen SAS 06/12/2005 SAS vs. DET W 36 15 5 13 38.5 4 8 50.0 1 2 50.0 0 3 3 1 1 0 1 3 19
+p60
+aVManu Ginobili SAS 06/09/2005 SAS vs. DET W 39 26 10 16 62.5 2 4 50.0 4 4 100.0 3 6 9 2 1 0 4 3 16
+p61
+aVGlenn Robinson SAS 06/09/2005 SAS vs. DET W 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 3 0 0 11
+p62
+aVNazr Mohammed SAS 06/09/2005 SAS vs. DET W 26 10 4 8 50.0 0 0 - 2 2 100.0 4 3 7 0 1 2 0 1 4
+p63
+aVBrent Barry SAS 06/09/2005 SAS vs. DET W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 4 -1
+p64
+aVDevin Brown SAS 06/09/2005 SAS vs. DET W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -2
+p65
+aVRobert Horry SAS 06/09/2005 SAS vs. DET W 28 7 2 6 33.3 2 4 50.0 1 2 50.0 0 3 3 3 1 0 0 2 13
+p66
+aVTim Duncan SAS 06/09/2005 SAS vs. DET W 41 24 10 22 45.5 0 0 - 4 5 80.0 6 11 17 2 0 2 3 2 10
+p67
+aVRasho Nesterovic SAS 06/09/2005 SAS vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p68
+aVBeno Udrih SAS 06/09/2005 SAS vs. DET W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p69
+aVBruce Bowen SAS 06/09/2005 SAS vs. DET W 35 0 0 6 0.0 0 3 0.0 0 0 - 0 2 2 2 0 1 1 4 6
+p70
+aVTony Parker SAS 06/09/2005 SAS vs. DET W 41 15 7 17 41.2 0 1 0.0 1 2 50.0 1 3 4 3 0 0 4 1 14
+p71
+aVBruce Bowen SAS 06/01/2005 SAS @ PHX W 36 9 3 6 50.0 2 3 66.7 1 2 50.0 1 2 3 3 0 1 1 2 -5
+p72
+aVTony Parker SAS 06/01/2005 SAS @ PHX W 38 18 8 21 38.1 2 5 40.0 0 0 - 1 0 1 2 0 0 2 3 2
+p73
+aVBrent Barry SAS 06/01/2005 SAS @ PHX W 25 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 0 0 0 2 0 2
+p74
+aVNazr Mohammed SAS 06/01/2005 SAS @ PHX W 17 4 1 3 33.3 0 0 - 2 3 66.7 1 1 2 0 1 1 1 5 -7
+p75
+aVTony Massenburg SAS 06/01/2005 SAS @ PHX W 2 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -3
+p76
+aVRobert Horry SAS 06/01/2005 SAS @ PHX W 36 7 3 11 27.3 0 2 0.0 1 1 100.0 3 8 11 5 3 1 0 2 16
+p77
+aVBeno Udrih SAS 06/01/2005 SAS @ PHX W 10 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 1 0 0 0 2 4
+p78
+aVManu Ginobili SAS 06/01/2005 SAS @ PHX W 35 19 6 15 40.0 2 6 33.3 5 6 83.3 0 8 8 6 3 0 4 1 15
+p79
+aVTim Duncan SAS 06/01/2005 SAS @ PHX W 41 31 14 24 58.3 0 1 0.0 3 4 75.0 6 9 15 4 0 3 4 4 6
+p80
+aVBruce Bowen SAS 05/30/2005 SAS vs. PHX L 44 15 6 11 54.5 3 6 50.0 0 0 - 0 5 5 1 1 0 0 4 -6
+p81
+aVBrent Barry SAS 05/30/2005 SAS vs. PHX L 15 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 1 1 1 4 -7
+p82
+aVTony Parker SAS 05/30/2005 SAS vs. PHX L 35 13 5 17 29.4 0 2 0.0 3 4 75.0 1 2 3 5 2 0 6 1 -11
+p83
+aVNazr Mohammed SAS 05/30/2005 SAS vs. PHX L 24 8 4 8 50.0 0 0 - 0 0 - 6 2 8 0 1 1 0 3 -2
+p84
+aVBeno Udrih SAS 05/30/2005 SAS vs. PHX L 13 9 4 9 44.4 1 4 25.0 0 0 - 0 1 1 2 1 1 1 1 6
+p85
+aVTim Duncan SAS 05/30/2005 SAS vs. PHX L 39 15 6 12 50.0 0 0 - 3 12 25.0 7 9 16 3 0 2 3 2 -11
+p86
+aVManu Ginobili SAS 05/30/2005 SAS vs. PHX L 37 28 11 22 50.0 3 6 50.0 3 4 75.0 0 4 4 7 1 0 0 2 3
+p87
+aVRobert Horry SAS 05/30/2005 SAS vs. PHX L 33 15 5 13 38.5 3 4 75.0 2 3 66.7 6 1 7 4 2 0 0 1 3
+p88
+aVBrent Barry SAS 05/28/2005 SAS vs. PHX W 31 11 4 7 57.1 3 5 60.0 0 0 - 2 2 4 2 1 0 0 0 12
+p89
+aVTony Parker SAS 05/28/2005 SAS vs. PHX W 41 18 7 18 38.9 0 1 0.0 4 6 66.7 1 0 1 7 1 0 4 3 17
+p90
+aVManu Ginobili SAS 05/28/2005 SAS vs. PHX W 35 18 6 12 50.0 0 2 0.0 6 7 85.7 2 7 9 2 4 1 3 3 8
+p91
+aVRobert Horry SAS 05/28/2005 SAS vs. PHX W 31 7 3 9 33.3 1 5 20.0 0 0 - 3 8 11 3 1 0 1 2 8
+p92
+aVRasho Nesterovic SAS 05/28/2005 SAS vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p93
+aVBeno Udrih SAS 05/28/2005 SAS vs. PHX W 8 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -7
+p94
+aVNazr Mohammed SAS 05/28/2005 SAS vs. PHX W 19 9 4 6 66.7 0 0 - 1 2 50.0 2 2 4 1 1 0 0 4 1
+p95
+aVTim Duncan SAS 05/28/2005 SAS vs. PHX W 42 33 9 17 52.9 0 1 0.0 15 15 100.0 5 10 15 3 1 3 4 1 7
+p96
+aVBruce Bowen SAS 05/28/2005 SAS vs. PHX W 31 6 2 4 50.0 2 4 50.0 0 0 - 0 3 3 1 0 0 0 2 2
+p97
+aVNazr Mohammed SAS 05/24/2005 SAS @ PHX W 28 11 5 10 50.0 0 0 - 1 2 50.0 5 3 8 0 3 2 1 1 -3
+p98
+aVRasho Nesterovic SAS 05/24/2005 SAS @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p99
+aVBruce Bowen SAS 05/24/2005 SAS @ PHX W 33 3 1 5 20.0 1 3 33.3 0 0 - 1 3 4 2 0 0 0 3 2
+p100
+aVTim Duncan SAS 05/24/2005 SAS @ PHX W 36 30 10 19 52.6 0 0 - 10 11 90.9 2 6 8 2 2 0 1 5 7
+p101
+aVBeno Udrih SAS 05/24/2005 SAS @ PHX W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 1 0
+p102
+aVTony Parker SAS 05/24/2005 SAS @ PHX W 40 24 12 20 60.0 0 1 0.0 0 0 - 0 3 3 5 1 1 4 2 3
+p103
+aVManu Ginobili SAS 05/24/2005 SAS @ PHX W 38 26 10 18 55.6 3 7 42.9 3 5 60.0 0 4 4 4 1 0 2 2 4
+p104
+aVRobert Horry SAS 05/24/2005 SAS @ PHX W 28 10 3 6 50.0 3 4 75.0 1 2 50.0 2 1 3 2 0 1 3 2 3
+p105
+aVBrent Barry SAS 05/24/2005 SAS @ PHX W 25 5 2 5 40.0 1 2 50.0 0 1 0.0 2 1 3 4 1 0 0 0 -2
+p106
+aVBruce Bowen SAS 05/22/2005 SAS @ PHX W 27 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 1 0 0 1 2 -15
+p107
+aVRasho Nesterovic SAS 05/22/2005 SAS @ PHX W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p108
+aVTony Parker SAS 05/22/2005 SAS @ PHX W 36 29 13 22 59.1 2 5 40.0 1 4 25.0 2 5 7 2 2 0 4 4 -10
+p109
+aVNazr Mohammed SAS 05/22/2005 SAS @ PHX W 23 9 4 7 57.1 0 0 - 1 2 50.0 4 3 7 1 0 2 1 5 3
+p110
+aVBeno Udrih SAS 05/22/2005 SAS @ PHX W 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 17
+p111
+aVBrent Barry SAS 05/22/2005 SAS @ PHX W 34 21 8 12 66.7 5 8 62.5 0 0 - 1 1 2 1 3 0 0 2 17
+p112
+aVRobert Horry SAS 05/22/2005 SAS @ PHX W 27 12 4 7 57.1 2 4 50.0 2 2 100.0 3 4 7 3 2 1 0 2 16
+p113
+aVTim Duncan SAS 05/22/2005 SAS @ PHX W 40 28 10 21 47.6 0 1 0.0 8 10 80.0 3 12 15 4 0 1 3 3 4
+p114
+aVManu Ginobili SAS 05/22/2005 SAS @ PHX W 37 20 5 10 50.0 1 2 50.0 9 13 69.2 0 6 6 5 1 0 2 3 8
+p115
+aVTony Parker SAS 05/19/2005 SAS @ SEA W 38 14 6 13 46.2 0 3 0.0 2 3 66.7 1 1 2 3 0 0 4 3 -2
+p116
+aVRobert Horry SAS 05/19/2005 SAS @ SEA W 26 14 5 8 62.5 2 5 40.0 2 2 100.0 2 3 5 2 1 2 1 3 -3
+p117
+aVBeno Udrih SAS 05/19/2005 SAS @ SEA W 13 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 4
+p118
+aVDevin Brown SAS 05/19/2005 SAS @ SEA W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p119
+aVGlenn Robinson SAS 05/19/2005 SAS @ SEA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p120
+aVNazr Mohammed SAS 05/19/2005 SAS @ SEA W 27 12 6 9 66.7 0 0 - 0 0 - 5 3 8 1 0 1 1 3 5
+p121
+aVManu Ginobili SAS 05/19/2005 SAS @ SEA W 36 13 3 6 50.0 1 3 33.3 6 10 60.0 0 6 6 7 2 0 5 3 4
+p122
+aVBrent Barry SAS 05/19/2005 SAS @ SEA W 14 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 3 0 0 1 6 0
+p123
+aVBruce Bowen SAS 05/19/2005 SAS @ SEA W 43 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 0 0 3 0 2 5
+p124
+aVTim Duncan SAS 05/19/2005 SAS @ SEA W 41 26 6 21 28.6 0 0 - 14 17 82.4 3 6 9 5 1 2 2 2 0
+p125
+aVTim Duncan SAS 05/17/2005 SAS vs. SEA W 40 20 9 21 42.9 0 0 - 2 6 33.3 3 11 14 3 0 0 4 4 15
+p126
+aVDevin Brown SAS 05/17/2005 SAS vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p127
+aVTony Massenburg SAS 05/17/2005 SAS vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p128
+aVRobert Horry SAS 05/17/2005 SAS vs. SEA W 24 4 1 2 50.0 0 0 - 2 2 100.0 5 3 8 1 0 2 2 5 -1
+p129
+aVBrent Barry SAS 05/17/2005 SAS vs. SEA W 22 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -14
+p130
+aVBruce Bowen SAS 05/17/2005 SAS vs. SEA W 41 8 3 8 37.5 2 5 40.0 0 0 - 0 2 2 1 0 0 0 4 14
+p131
+aVManu Ginobili SAS 05/17/2005 SAS vs. SEA W 36 39 10 15 66.7 4 6 66.7 15 17 88.2 2 2 4 6 2 0 1 5 17
+p132
+aVTony Parker SAS 05/17/2005 SAS vs. SEA W 37 11 4 13 30.8 0 1 0.0 3 4 75.0 1 4 5 2 0 0 0 4 15
+p133
+aVNazr Mohammed SAS 05/17/2005 SAS vs. SEA W 20 19 8 10 80.0 0 0 - 3 5 60.0 3 4 7 1 0 0 1 3 19
+p134
+aVBeno Udrih SAS 05/17/2005 SAS vs. SEA W 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 1 2 -2
+p135
+aVGlenn Robinson SAS 05/17/2005 SAS vs. SEA W 5 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 0 0
+p136
+aVDevin Brown SAS 05/15/2005 SAS @ SEA L 13 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -5
+p137
+aVTim Duncan SAS 05/15/2005 SAS @ SEA L 32 35 10 19 52.6 1 1 100.0 14 17 82.4 4 6 10 1 1 2 5 2 -6
+p138
+aVBeno Udrih SAS 05/15/2005 SAS @ SEA L 15 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 2 2 0 3 2 6
+p139
+aVBruce Bowen SAS 05/15/2005 SAS @ SEA L 31 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 3 1 0 0 4 -6
+p140
+aVNazr Mohammed SAS 05/15/2005 SAS @ SEA L 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 1 2 3 -9
+p141
+aVRobert Horry SAS 05/15/2005 SAS @ SEA L 23 2 1 3 33.3 0 2 0.0 0 0 - 3 3 6 2 0 0 0 1 -19
+p142
+aVManu Ginobili SAS 05/15/2005 SAS @ SEA L 25 15 4 10 40.0 1 2 50.0 6 8 75.0 3 4 7 2 1 0 3 4 2
+p143
+aVTony Parker SAS 05/15/2005 SAS @ SEA L 35 12 5 13 38.5 0 2 0.0 2 2 100.0 2 3 5 3 0 0 4 0 -20
+p144
+aVGlenn Robinson SAS 05/15/2005 SAS @ SEA L 12 7 3 6 50.0 0 1 0.0 1 1 100.0 1 2 3 1 0 0 1 1 0
+p145
+aVRasho Nesterovic SAS 05/15/2005 SAS @ SEA L 18 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 2 0 3 8
+p146
+aVBrent Barry SAS 05/15/2005 SAS @ SEA L 22 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 1 0 2 4 -11
+p147
+aVBruce Bowen SAS 05/12/2005 SAS @ SEA L 39 3 1 6 16.7 1 1 100.0 0 0 - 0 2 2 2 1 0 1 3 -14
+p148
+aVTony Parker SAS 05/12/2005 SAS @ SEA L 39 18 8 18 44.4 0 1 0.0 2 6 33.3 0 4 4 8 1 0 2 3 -1
+p149
+aVGlenn Robinson SAS 05/12/2005 SAS @ SEA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -2
+p150
+aVRobert Horry SAS 05/12/2005 SAS @ SEA L 26 11 4 8 50.0 3 6 50.0 0 0 - 2 3 5 1 1 1 1 2 6
+p151
+aVRasho Nesterovic SAS 05/12/2005 SAS @ SEA L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p152
+aVNazr Mohammed SAS 05/12/2005 SAS @ SEA L 16 7 3 3 100.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 -12
+p153
+aVTim Duncan SAS 05/12/2005 SAS @ SEA L 39 23 7 16 43.8 0 0 - 9 15 60.0 3 8 11 1 0 4 1 4 1
+p154
+aVBeno Udrih SAS 05/12/2005 SAS @ SEA L 11 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 1 0 0 3 4
+p155
+aVBrent Barry SAS 05/12/2005 SAS @ SEA L 31 7 2 5 40.0 2 5 40.0 1 1 100.0 0 5 5 4 0 0 2 2 -3
+p156
+aVManu Ginobili SAS 05/12/2005 SAS @ SEA L 30 18 5 11 45.5 2 3 66.7 6 10 60.0 2 4 6 2 1 0 3 4 9
+p157
+aVGlenn Robinson SAS 05/10/2005 SAS vs. SEA W 20 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 0 2 1 0 6 10
+p158
+aVBrent Barry SAS 05/10/2005 SAS vs. SEA W 33 9 3 6 50.0 1 3 33.3 2 2 100.0 2 5 7 4 1 0 1 2 7
+p159
+aVBruce Bowen SAS 05/10/2005 SAS vs. SEA W 17 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -1
+p160
+aVRobert Horry SAS 05/10/2005 SAS vs. SEA W 25 6 2 6 33.3 1 3 33.3 1 4 25.0 0 1 1 2 0 1 0 4 8
+p161
+aVRasho Nesterovic SAS 05/10/2005 SAS vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p162
+aVBeno Udrih SAS 05/10/2005 SAS vs. SEA W 13 4 0 1 0.0 0 1 0.0 4 4 100.0 1 2 3 3 0 0 0 1 8
+p163
+aVDevin Brown SAS 05/10/2005 SAS vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p164
+aVTony Parker SAS 05/10/2005 SAS vs. SEA W 37 22 7 15 46.7 0 0 - 8 8 100.0 0 3 3 7 3 0 2 1 11
+p165
+aVTim Duncan SAS 05/10/2005 SAS vs. SEA W 37 25 12 20 60.0 0 1 0.0 1 3 33.3 4 5 9 0 0 3 3 1 5
+p166
+aVManu Ginobili SAS 05/10/2005 SAS vs. SEA W 31 28 9 11 81.8 2 4 50.0 8 10 80.0 0 2 2 4 1 1 5 4 10
+p167
+aVTony Massenburg SAS 05/10/2005 SAS vs. SEA W 1 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 4
+p168
+aVNazr Mohammed SAS 05/10/2005 SAS vs. SEA W 24 7 3 7 42.9 1 1 100.0 0 0 - 4 6 10 0 0 1 0 2 19
+p169
+aVTony Massenburg SAS 05/08/2005 SAS vs. SEA W 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 0
+p170
+aVRobert Horry SAS 05/08/2005 SAS vs. SEA W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 2 0 0 1 1 7
+p171
+aVTim Duncan SAS 05/08/2005 SAS vs. SEA W 30 22 6 12 50.0 0 0 - 10 11 90.9 3 6 9 5 0 4 3 3 26
+p172
+aVDevin Brown SAS 05/08/2005 SAS vs. SEA W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p173
+aVBrent Barry SAS 05/08/2005 SAS vs. SEA W 32 11 4 6 66.7 2 4 50.0 1 2 50.0 0 3 3 1 0 0 1 2 16
+p174
+aVTony Parker SAS 05/08/2005 SAS vs. SEA W 36 29 11 18 61.1 0 2 0.0 7 8 87.5 0 1 1 3 1 0 2 0 23
+p175
+aVBeno Udrih SAS 05/08/2005 SAS vs. SEA W 12 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 1 1 0 2 0 -1
+p176
+aVBruce Bowen SAS 05/08/2005 SAS vs. SEA W 33 2 1 5 20.0 0 2 0.0 0 0 - 2 3 5 1 0 0 1 5 12
+p177
+aVGlenn Robinson SAS 05/08/2005 SAS vs. SEA W 14 16 5 8 62.5 1 2 50.0 5 6 83.3 0 5 5 0 0 1 2 2 18
+p178
+aVManu Ginobili SAS 05/08/2005 SAS vs. SEA W 29 10 3 6 50.0 1 2 50.0 3 4 75.0 1 5 6 4 0 0 3 0 10
+p179
+aVRasho Nesterovic SAS 05/08/2005 SAS vs. SEA W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 2 3 -2
+p180
+aVNazr Mohammed SAS 05/08/2005 SAS vs. SEA W 23 3 1 4 25.0 0 0 - 1 2 50.0 3 4 7 0 2 1 1 3 -1
+p181
+aVTim Duncan SAS 05/04/2005 SAS vs. DEN W 37 18 8 15 53.3 0 0 - 2 3 66.7 5 6 11 5 0 5 0 3 9
+p182
+aVBruce Bowen SAS 05/04/2005 SAS vs. DEN W 35 5 1 5 20.0 1 3 33.3 2 2 100.0 1 1 2 2 2 1 0 3 1
+p183
+aVManu Ginobili SAS 05/04/2005 SAS vs. DEN W 29 18 4 9 44.4 3 7 42.9 7 7 100.0 0 9 9 4 0 0 5 2 12
+p184
+aVTony Parker SAS 05/04/2005 SAS vs. DEN W 35 21 9 17 52.9 1 2 50.0 2 7 28.6 0 3 3 7 2 0 3 3 7
+p185
+aVNazr Mohammed SAS 05/04/2005 SAS vs. DEN W 32 10 3 7 42.9 0 0 - 4 6 66.7 4 9 13 1 1 2 4 3 4
+p186
+aVGlenn Robinson SAS 05/04/2005 SAS vs. DEN W 13 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 0 0 0 0 3 11
+p187
+aVRobert Horry SAS 05/04/2005 SAS vs. DEN W 24 17 5 7 71.4 3 4 75.0 4 4 100.0 2 3 5 2 0 0 2 3 6
+p188
+aVBeno Udrih SAS 05/04/2005 SAS vs. DEN W 14 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 0 3
+p189
+aVRasho Nesterovic SAS 05/04/2005 SAS vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p190
+aVBrent Barry SAS 05/04/2005 SAS vs. DEN W 20 3 1 4 25.0 0 3 0.0 1 2 50.0 0 1 1 1 0 1 2 2 -2
+p191
+aVGlenn Robinson SAS 05/02/2005 SAS @ DEN W 11 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 1 3 -5
+p192
+aVBrent Barry SAS 05/02/2005 SAS @ DEN W 29 9 3 5 60.0 0 2 0.0 3 3 100.0 0 1 1 4 1 0 1 2 8
+p193
+aVBeno Udrih SAS 05/02/2005 SAS @ DEN W 10 6 2 6 33.3 2 5 40.0 0 0 - 0 0 0 0 0 0 1 1 -6
+p194
+aVTim Duncan SAS 05/02/2005 SAS @ DEN W 40 39 13 23 56.5 0 0 - 13 14 92.9 1 13 14 1 0 1 5 6 0
+p195
+aVRasho Nesterovic SAS 05/02/2005 SAS @ DEN W 11 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 1 0 4 3
+p196
+aVRobert Horry SAS 05/02/2005 SAS @ DEN W 25 7 3 5 60.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 4 9
+p197
+aVBruce Bowen SAS 05/02/2005 SAS @ DEN W 34 1 0 4 0.0 0 2 0.0 1 1 100.0 0 3 3 1 1 0 0 4 7
+p198
+aVManu Ginobili SAS 05/02/2005 SAS @ DEN W 37 24 5 13 38.5 2 4 50.0 12 16 75.0 0 4 4 6 0 2 1 4 18
+p199
+aVNazr Mohammed SAS 05/02/2005 SAS @ DEN W 26 6 2 6 33.3 0 0 - 2 2 100.0 5 2 7 0 0 1 0 3 4
+p200
+aVTony Parker SAS 05/02/2005 SAS @ DEN W 42 29 11 19 57.9 1 2 50.0 6 7 85.7 1 3 4 7 0 0 2 5 17
+p201
+aVBruce Bowen SAS 04/30/2005 SAS @ DEN W 36 5 2 3 66.7 1 1 100.0 0 0 - 1 5 6 2 0 2 0 2 3
+p202
+aVBrent Barry SAS 04/30/2005 SAS @ DEN W 26 4 1 3 33.3 1 3 33.3 1 1 100.0 1 2 3 4 1 0 2 1 3
+p203
+aVManu Ginobili SAS 04/30/2005 SAS @ DEN W 31 32 10 21 47.6 2 4 50.0 10 13 76.9 1 8 9 3 0 1 1 4 7
+p204
+aVBeno Udrih SAS 04/30/2005 SAS @ DEN W 18 6 3 7 42.9 0 3 0.0 0 0 - 0 1 1 2 0 0 1 1 11
+p205
+aVTim Duncan SAS 04/30/2005 SAS @ DEN W 27 11 5 19 26.3 0 0 - 1 2 50.0 3 8 11 2 0 2 3 4 2
+p206
+aVNazr Mohammed SAS 04/30/2005 SAS @ DEN W 20 3 1 2 50.0 0 0 - 1 4 25.0 3 0 3 0 0 0 4 3 0
+p207
+aVRasho Nesterovic SAS 04/30/2005 SAS @ DEN W 17 2 1 3 33.3 0 0 - 0 0 - 5 2 7 0 0 0 0 1 4
+p208
+aVRobert Horry SAS 04/30/2005 SAS @ DEN W 32 13 5 11 45.5 2 5 40.0 1 2 50.0 0 4 4 3 2 2 0 2 10
+p209
+aVTony Parker SAS 04/30/2005 SAS @ DEN W 33 10 3 12 25.0 0 2 0.0 4 6 66.7 1 2 3 3 1 0 4 4 0
+p210
+aVRobert Horry SAS 04/27/2005 SAS vs. DEN W 21 1 0 2 0.0 0 2 0.0 1 2 50.0 1 8 9 0 1 2 0 0 30
+p211
+aVManu Ginobili SAS 04/27/2005 SAS vs. DEN W 19 17 5 7 71.4 2 3 66.7 5 5 100.0 0 4 4 2 1 0 2 2 13
+p212
+aVDevin Brown SAS 04/27/2005 SAS vs. DEN W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 0 1
+p213
+aVBruce Bowen SAS 04/27/2005 SAS vs. DEN W 30 3 1 3 33.3 1 1 100.0 0 2 0.0 1 2 3 1 1 1 0 3 19
+p214
+aVRasho Nesterovic SAS 04/27/2005 SAS vs. DEN W 14 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 4
+p215
+aVNazr Mohammed SAS 04/27/2005 SAS vs. DEN W 23 4 0 2 0.0 0 0 - 4 4 100.0 0 7 7 1 1 0 0 3 6
+p216
+aVBrent Barry SAS 04/27/2005 SAS vs. DEN W 31 16 4 7 57.1 4 4 100.0 4 4 100.0 1 3 4 1 1 0 2 1 19
+p217
+aVTony Massenburg SAS 04/27/2005 SAS vs. DEN W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p218
+aVBeno Udrih SAS 04/27/2005 SAS vs. DEN W 19 10 3 8 37.5 1 2 50.0 3 4 75.0 0 2 2 0 0 0 0 0 9
+p219
+aVTony Parker SAS 04/27/2005 SAS vs. DEN W 29 19 7 17 41.2 1 4 25.0 4 6 66.7 0 1 1 6 0 0 1 4 19
+p220
+aVTim Duncan SAS 04/27/2005 SAS vs. DEN W 28 24 11 15 73.3 0 0 - 2 7 28.6 2 7 9 5 0 3 3 4 19
+p221
+aVGlenn Robinson SAS 04/27/2005 SAS vs. DEN W 13 7 2 5 40.0 0 1 0.0 3 4 75.0 0 4 4 0 0 0 0 2 1
+p222
+aVManu Ginobili SAS 04/24/2005 SAS vs. DEN L 37 23 7 15 46.7 1 4 25.0 8 9 88.9 0 4 4 5 1 0 3 3 -2
+p223
+aVNazr Mohammed SAS 04/24/2005 SAS vs. DEN L 35 15 7 9 77.8 0 0 - 1 2 50.0 9 6 15 1 2 4 3 4 -11
+p224
+aVGlenn Robinson SAS 04/24/2005 SAS vs. DEN L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 0
+p225
+aVBruce Bowen SAS 04/24/2005 SAS vs. DEN L 34 1 0 1 0.0 0 0 - 1 2 50.0 1 6 7 1 0 0 0 3 -7
+p226
+aVTony Massenburg SAS 04/24/2005 SAS vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p227
+aVRobert Horry SAS 04/24/2005 SAS vs. DEN L 23 12 4 8 50.0 2 4 50.0 2 2 100.0 1 1 2 0 1 2 1 4 1
+p228
+aVTim Duncan SAS 04/24/2005 SAS vs. DEN L 34 18 7 22 31.8 0 0 - 4 4 100.0 0 11 11 4 0 2 1 2 -3
+p229
+aVBrent Barry SAS 04/24/2005 SAS vs. DEN L 19 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 2 0 -3
+p230
+aVTony Parker SAS 04/24/2005 SAS vs. DEN L 39 12 6 17 35.3 0 1 0.0 0 0 - 0 3 3 6 1 0 5 5 -2
+p231
+aVBeno Udrih SAS 04/24/2005 SAS vs. DEN L 9 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 -4
+p232
+a.

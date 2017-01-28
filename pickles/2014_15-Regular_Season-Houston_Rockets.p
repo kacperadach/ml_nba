@@ -1,0 +1,1660 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKJ McDaniels HOU 04/15/2015 HOU vs. UTA W 9 5 2 4 50.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 1 -4
+p2
+aVKostas Papanikolaou HOU 04/15/2015 HOU vs. UTA W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 2 -7
+p3
+aVJason Terry HOU 04/15/2015 HOU vs. UTA W 22 9 3 6 50.0 3 4 75.0 0 0 - 0 2 2 2 2 1 0 2 23
+p4
+aVJames Harden HOU 04/15/2015 HOU vs. UTA W 27 16 3 8 37.5 2 5 40.0 8 8 100.0 0 11 11 10 1 1 6 2 28
+p5
+aVClint Capela HOU 04/15/2015 HOU vs. UTA W 17 8 3 4 75.0 0 0 - 2 4 50.0 0 6 6 1 0 2 0 5 4
+p6
+aVCorey Brewer HOU 04/15/2015 HOU vs. UTA W 23 14 6 15 40.0 0 3 0.0 2 2 100.0 0 3 3 3 3 1 1 0 18
+p7
+aVNick Johnson HOU 04/15/2015 HOU vs. UTA W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 3 2 -10
+p8
+aVJoey Dorsey HOU 04/15/2015 HOU vs. UTA W 14 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 1 0 0 1 0 -10
+p9
+aVDwight Howard HOU 04/15/2015 HOU vs. UTA W 21 14 6 7 85.7 0 0 - 2 4 50.0 2 6 8 0 0 2 2 0 21
+p10
+aVJosh Smith HOU 04/15/2015 HOU vs. UTA W 18 13 4 9 44.4 3 5 60.0 2 4 50.0 0 2 2 2 1 3 1 1 19
+p11
+aVTerrence Jones HOU 04/15/2015 HOU vs. UTA W 20 15 6 6 100.0 1 1 100.0 2 4 50.0 0 2 2 3 0 3 1 2 20
+p12
+aVPablo Prigioni HOU 04/15/2015 HOU vs. UTA W 20 8 3 3 100.0 2 2 100.0 0 0 - 1 4 5 2 1 0 1 2 8
+p13
+aVTrevor Ariza HOU 04/15/2015 HOU vs. UTA W 23 6 2 8 25.0 1 5 20.0 1 2 50.0 1 2 3 3 1 0 0 0 20
+p14
+aVPablo Prigioni HOU 04/13/2015 HOU @ CHA W 20 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 6 1 0 0 3 18
+p15
+aVCorey Brewer HOU 04/13/2015 HOU @ CHA W 24 11 5 9 55.6 1 1 100.0 0 0 - 0 3 3 1 0 0 2 3 2
+p16
+aVTerrence Jones HOU 04/13/2015 HOU @ CHA W 31 10 5 11 45.5 0 2 0.0 0 0 - 3 8 11 2 0 4 1 3 -7
+p17
+aVJames Harden HOU 04/13/2015 HOU @ CHA W 37 29 7 20 35.0 1 8 12.5 14 16 87.5 2 4 6 6 1 2 2 1 0
+p18
+aVClint Capela HOU 04/13/2015 HOU @ CHA W 17 10 4 4 100.0 0 0 - 2 4 50.0 0 5 5 0 0 1 0 1 17
+p19
+aVJosh Smith HOU 04/13/2015 HOU @ CHA W 31 16 5 13 38.5 1 6 16.7 5 6 83.3 4 7 11 2 1 2 1 3 19
+p20
+aVJason Terry HOU 04/13/2015 HOU @ CHA W 28 13 5 11 45.5 3 8 37.5 0 0 - 0 1 1 2 0 0 0 1 -8
+p21
+aVJoey Dorsey HOU 04/13/2015 HOU @ CHA W 17 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 3 0 0 2 -9
+p22
+aVTrevor Ariza HOU 04/13/2015 HOU @ CHA W 36 11 4 12 33.3 3 8 37.5 0 0 - 0 5 5 0 3 1 4 1 18
+p23
+aVTrevor Ariza HOU 04/12/2015 HOU vs. NOP W 38 5 2 6 33.3 1 4 25.0 0 0 - 1 4 5 2 1 2 0 2 4
+p24
+aVCorey Brewer HOU 04/12/2015 HOU vs. NOP W 29 20 6 11 54.5 0 2 0.0 8 11 72.7 1 4 5 1 1 0 0 1 13
+p25
+aVDwight Howard HOU 04/12/2015 HOU vs. NOP W 28 19 7 10 70.0 0 0 - 5 11 45.5 3 8 11 0 0 3 2 3 4
+p26
+aVJoey Dorsey HOU 04/12/2015 HOU vs. NOP W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -10
+p27
+aVPablo Prigioni HOU 04/12/2015 HOU vs. NOP W 24 12 2 5 40.0 2 3 66.7 6 6 100.0 0 4 4 1 1 0 0 3 11
+p28
+aVJason Terry HOU 04/12/2015 HOU vs. NOP W 25 12 4 7 57.1 4 6 66.7 0 0 - 0 2 2 2 1 0 2 2 -3
+p29
+aVTerrence Jones HOU 04/12/2015 HOU vs. NOP W 25 6 3 5 60.0 0 0 - 0 0 - 3 1 4 2 1 0 0 3 -1
+p30
+aVJosh Smith HOU 04/12/2015 HOU vs. NOP W 27 15 5 11 45.5 1 3 33.3 4 9 44.4 1 6 7 1 0 0 2 1 16
+p31
+aVJames Harden HOU 04/12/2015 HOU vs. NOP W 38 30 10 18 55.6 1 6 16.7 9 9 100.0 0 1 1 7 1 1 4 2 1
+p32
+aVNick Johnson HOU 04/10/2015 HOU vs. SAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -8
+p33
+aVJosh Smith HOU 04/10/2015 HOU vs. SAS L 22 20 4 9 44.4 0 3 0.0 12 26 46.2 0 6 6 3 1 1 3 4 -2
+p34
+aVJason Terry HOU 04/10/2015 HOU vs. SAS L 31 9 3 8 37.5 2 5 40.0 1 1 100.0 0 0 0 1 0 1 0 3 12
+p35
+aVTrevor Ariza HOU 04/10/2015 HOU vs. SAS L 43 19 7 8 87.5 4 5 80.0 1 1 100.0 1 3 4 0 1 0 2 3 7
+p36
+aVCorey Brewer HOU 04/10/2015 HOU vs. SAS L 23 11 3 6 50.0 0 1 0.0 5 6 83.3 2 2 4 1 0 0 2 1 -3
+p37
+aVPablo Prigioni HOU 04/10/2015 HOU vs. SAS L 17 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 2 0 1 2 -13
+p38
+aVTerrence Jones HOU 04/10/2015 HOU vs. SAS L 30 14 5 9 55.6 1 1 100.0 3 4 75.0 3 3 6 1 0 1 3 4 1
+p39
+aVJames Harden HOU 04/10/2015 HOU vs. SAS L 38 16 5 19 26.3 2 5 40.0 4 6 66.7 0 2 2 10 3 0 4 2 -2
+p40
+aVDwight Howard HOU 04/10/2015 HOU vs. SAS L 27 12 3 5 60.0 0 0 - 6 9 66.7 2 12 14 2 2 2 4 5 8
+p41
+aVJoey Dorsey HOU 04/10/2015 HOU vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -5
+p42
+aVJosh Smith HOU 04/08/2015 HOU @ SAS L 27 13 5 13 38.5 3 8 37.5 0 0 - 0 3 3 5 1 0 4 3 -10
+p43
+aVJason Terry HOU 04/08/2015 HOU @ SAS L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -15
+p44
+aVNick Johnson HOU 04/08/2015 HOU @ SAS L 6 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 7
+p45
+aVKJ McDaniels HOU 04/08/2015 HOU @ SAS L 6 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 2 0 0 7
+p46
+aVJoey Dorsey HOU 04/08/2015 HOU @ SAS L 15 2 1 1 100.0 0 0 - 0 4 0.0 0 6 6 1 0 0 0 0 -3
+p47
+aVPablo Prigioni HOU 04/08/2015 HOU @ SAS L 26 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 5 1 0 1 2 -4
+p48
+aVTrevor Ariza HOU 04/08/2015 HOU @ SAS L 34 19 7 12 58.3 5 6 83.3 0 0 - 0 2 2 2 2 0 0 0 1
+p49
+aVCorey Brewer HOU 04/08/2015 HOU @ SAS L 23 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 2 1 1 2 1 -22
+p50
+aVKostas Papanikolaou HOU 04/08/2015 HOU @ SAS L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 3
+p51
+aVTerrence Jones HOU 04/08/2015 HOU @ SAS L 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p52
+aVClint Capela HOU 04/08/2015 HOU @ SAS L 6 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 0 7
+p53
+aVDwight Howard HOU 04/08/2015 HOU @ SAS L 22 16 7 10 70.0 0 0 - 2 4 50.0 4 7 11 1 1 0 3 2 4
+p54
+aVJames Harden HOU 04/08/2015 HOU @ SAS L 35 22 6 15 40.0 2 6 33.3 8 8 100.0 2 2 4 4 1 0 1 1 -26
+p55
+aVTerrence Jones HOU 04/05/2015 HOU @ OKC W 24 6 2 5 40.0 0 2 0.0 2 4 50.0 1 2 3 2 0 3 0 2 -9
+p56
+aVCorey Brewer HOU 04/05/2015 HOU @ OKC W 30 5 2 6 33.3 0 1 0.0 1 2 50.0 0 0 0 3 0 0 1 3 -1
+p57
+aVJames Harden HOU 04/05/2015 HOU @ OKC W 38 41 12 22 54.5 6 9 66.7 11 13 84.6 2 4 6 6 3 0 3 6 -3
+p58
+aVDwight Howard HOU 04/05/2015 HOU @ OKC W 23 22 10 15 66.7 0 0 - 2 7 28.6 3 5 8 0 2 0 2 3 8
+p59
+aVPablo Prigioni HOU 04/05/2015 HOU @ OKC W 24 1 0 3 0.0 0 3 0.0 1 2 50.0 1 1 2 0 5 0 0 1 -1
+p60
+aVJason Terry HOU 04/05/2015 HOU @ OKC W 24 9 2 5 40.0 1 4 25.0 4 4 100.0 0 3 3 2 1 1 0 0 4
+p61
+aVJosh Smith HOU 04/05/2015 HOU @ OKC W 27 14 7 17 41.2 0 3 0.0 0 0 - 1 3 4 4 2 0 2 4 16
+p62
+aVJoey Dorsey HOU 04/05/2015 HOU @ OKC W 18 5 1 1 100.0 0 0 - 3 8 37.5 4 3 7 0 0 0 1 4 -7
+p63
+aVTrevor Ariza HOU 04/05/2015 HOU @ OKC W 31 12 2 7 28.6 1 6 16.7 7 10 70.0 0 9 9 1 1 0 1 2 8
+p64
+aVClint Capela HOU 04/02/2015 HOU @ DAL W 0 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 1 -2
+p65
+aVJason Terry HOU 04/02/2015 HOU @ DAL W 29 10 4 9 44.4 2 7 28.6 0 0 - 0 4 4 2 1 0 1 3 5
+p66
+aVCorey Brewer HOU 04/02/2015 HOU @ DAL W 24 14 4 8 50.0 0 1 0.0 6 7 85.7 1 2 3 1 0 0 2 2 13
+p67
+aVJoey Dorsey HOU 04/02/2015 HOU @ DAL W 11 5 2 4 50.0 0 0 - 1 6 16.7 2 5 7 0 1 0 1 2 13
+p68
+aVJosh Smith HOU 04/02/2015 HOU @ DAL W 32 15 4 11 36.4 2 5 40.0 5 5 100.0 5 7 12 3 2 2 2 3 20
+p69
+aVDwight Howard HOU 04/02/2015 HOU @ DAL W 18 8 3 7 42.9 0 0 - 2 2 100.0 2 5 7 0 0 0 1 2 -12
+p70
+aVJames Harden HOU 04/02/2015 HOU @ DAL W 39 24 6 15 40.0 2 8 25.0 10 12 83.3 0 4 4 6 1 0 5 2 12
+p71
+aVTerrence Jones HOU 04/02/2015 HOU @ DAL W 22 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 2 1 0 3 4 -5
+p72
+aVPablo Prigioni HOU 04/02/2015 HOU @ DAL W 19 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 2 1 0 2 3 2
+p73
+aVNick Johnson HOU 04/02/2015 HOU @ DAL W 8 0 0 2 0.0 0 0 - 0 0 - 3 2 5 2 0 0 1 0 -8
+p74
+aVTrevor Ariza HOU 04/02/2015 HOU @ DAL W 38 19 6 12 50.0 3 7 42.9 4 4 100.0 2 4 6 6 2 0 0 2 -3
+p75
+aVPablo Prigioni HOU 04/01/2015 HOU vs. SAC W 27 4 1 4 25.0 1 3 33.3 1 2 50.0 0 2 2 7 4 0 0 2 4
+p76
+aVJoey Dorsey HOU 04/01/2015 HOU vs. SAC W 32 7 3 8 37.5 0 1 0.0 1 2 50.0 7 4 11 2 1 0 1 4 6
+p77
+aVJames Harden HOU 04/01/2015 HOU vs. SAC W 38 51 16 25 64.0 8 9 88.9 11 13 84.6 2 6 8 6 3 0 7 1 10
+p78
+aVTrevor Ariza HOU 04/01/2015 HOU vs. SAC W 38 22 8 16 50.0 6 14 42.9 0 0 - 0 3 3 2 3 0 3 2 2
+p79
+aVJosh Smith HOU 04/01/2015 HOU vs. SAC W 21 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 1 0 3 1 2 8
+p80
+aVCorey Brewer HOU 04/01/2015 HOU vs. SAC W 21 2 1 10 10.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 1 -8
+p81
+aVTerrence Jones HOU 04/01/2015 HOU vs. SAC W 32 16 6 10 60.0 2 3 66.7 2 6 33.3 3 4 7 3 1 7 2 2 -15
+p82
+aVJason Terry HOU 04/01/2015 HOU vs. SAC W 21 7 3 10 30.0 1 7 14.3 0 0 - 0 2 2 2 1 0 2 1 4
+p83
+aVClint Capela HOU 04/01/2015 HOU vs. SAC W 10 4 2 3 66.7 0 0 - 0 2 0.0 2 1 3 0 0 3 0 2 9
+p84
+aVNick Johnson HOU 03/30/2015 HOU @ TOR L 16 3 1 3 33.3 0 1 0.0 1 1 100.0 2 2 4 0 0 0 0 5 5
+p85
+aVJosh Smith HOU 03/30/2015 HOU @ TOR L 28 8 3 14 21.4 0 4 0.0 2 4 50.0 1 3 4 2 1 0 2 3 6
+p86
+aVCorey Brewer HOU 03/30/2015 HOU @ TOR L 32 13 6 16 37.5 0 3 0.0 1 4 25.0 1 4 5 1 1 0 1 2 1
+p87
+aVJason Terry HOU 03/30/2015 HOU @ TOR L 25 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 0 0 0 1 1 -7
+p88
+aVClint Capela HOU 03/30/2015 HOU @ TOR L 19 8 4 5 80.0 0 0 - 0 3 0.0 3 6 9 0 0 2 2 2 -4
+p89
+aVJoey Dorsey HOU 03/30/2015 HOU @ TOR L 20 7 3 3 100.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 4 5
+p90
+aVTrevor Ariza HOU 03/30/2015 HOU @ TOR L 39 15 5 15 33.3 3 8 37.5 2 4 50.0 0 8 8 5 2 1 2 2 -12
+p91
+aVPablo Prigioni HOU 03/30/2015 HOU @ TOR L 23 3 1 1 100.0 0 0 - 1 1 100.0 1 1 2 7 2 0 1 0 4
+p92
+aVJames Harden HOU 03/30/2015 HOU @ TOR L 38 31 9 22 40.9 3 8 37.5 10 12 83.3 2 3 5 5 1 0 3 3 -13
+p93
+aVJason Terry HOU 03/29/2015 HOU @ WAS W 19 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 2 3
+p94
+aVCorey Brewer HOU 03/29/2015 HOU @ WAS W 22 15 7 14 50.0 1 2 50.0 0 0 - 4 1 5 2 1 2 3 3 14
+p95
+aVJosh Smith HOU 03/29/2015 HOU @ WAS W 36 14 6 13 46.2 2 4 50.0 0 0 - 4 6 10 3 1 2 4 2 4
+p96
+aVPablo Prigioni HOU 03/29/2015 HOU @ WAS W 29 10 3 7 42.9 2 5 40.0 2 2 100.0 2 4 6 3 3 0 1 4 9
+p97
+aVJames Harden HOU 03/29/2015 HOU @ WAS W 38 24 7 20 35.0 1 6 16.7 9 10 90.0 0 3 3 6 2 1 3 3 1
+p98
+aVDwight Howard HOU 03/29/2015 HOU @ WAS W 19 11 3 6 50.0 0 0 - 5 8 62.5 3 7 10 0 0 0 2 4 -3
+p99
+aVJoey Dorsey HOU 03/29/2015 HOU @ WAS W 24 7 3 4 75.0 0 0 - 1 4 25.0 1 7 8 0 3 0 0 4 9
+p100
+aVTrevor Ariza HOU 03/29/2015 HOU @ WAS W 38 13 3 9 33.3 2 8 25.0 5 5 100.0 1 7 8 2 2 0 4 1 -2
+p101
+aVNick Johnson HOU 03/29/2015 HOU @ WAS W 16 0 0 3 0.0 0 1 0.0 0 4 0.0 1 1 2 0 0 1 2 2 5
+p102
+aVDwight Howard HOU 03/27/2015 HOU vs. MIN W 20 18 8 9 88.9 0 0 - 2 4 50.0 1 3 4 0 2 1 0 2 20
+p103
+aVCorey Brewer HOU 03/27/2015 HOU vs. MIN W 29 11 5 13 38.5 1 5 20.0 0 1 0.0 3 7 10 2 1 0 2 3 8
+p104
+aVJoey Dorsey HOU 03/27/2015 HOU vs. MIN W 17 6 3 6 50.0 0 0 - 0 0 - 2 2 4 1 0 1 1 3 -6
+p105
+aVTrevor Ariza HOU 03/27/2015 HOU vs. MIN W 43 14 5 12 41.7 4 10 40.0 0 0 - 1 4 5 5 1 0 4 4 12
+p106
+aVKJ McDaniels HOU 03/27/2015 HOU vs. MIN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p107
+aVNick Johnson HOU 03/27/2015 HOU vs. MIN W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p108
+aVJason Terry HOU 03/27/2015 HOU vs. MIN W 28 17 6 7 85.7 5 6 83.3 0 0 - 0 3 3 4 0 1 0 2 6
+p109
+aVJames Harden HOU 03/27/2015 HOU vs. MIN W 37 33 9 19 47.4 6 12 50.0 9 10 90.0 1 3 4 8 5 0 3 4 10
+p110
+aVJosh Smith HOU 03/27/2015 HOU vs. MIN W 40 16 6 8 75.0 3 5 60.0 1 2 50.0 4 5 9 11 0 3 6 5 7
+p111
+aVPablo Prigioni HOU 03/27/2015 HOU vs. MIN W 20 3 1 6 16.7 1 6 16.7 0 0 - 1 1 2 3 1 0 1 1 6
+p112
+aVCorey Brewer HOU 03/25/2015 HOU @ NOP W 27 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 2 1 0 2 2 6
+p113
+aVTrevor Ariza HOU 03/25/2015 HOU @ NOP W 40 22 9 13 69.2 3 4 75.0 1 1 100.0 3 6 9 5 3 0 2 3 8
+p114
+aVJoey Dorsey HOU 03/25/2015 HOU @ NOP W 11 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -8
+p115
+aVPablo Prigioni HOU 03/25/2015 HOU @ NOP W 20 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 4 0 0 1 1 -7
+p116
+aVJosh Smith HOU 03/25/2015 HOU @ NOP W 24 9 4 10 40.0 1 4 25.0 0 0 - 3 1 4 1 0 1 2 3 -4
+p117
+aVJason Terry HOU 03/25/2015 HOU @ NOP W 27 2 0 3 0.0 0 2 0.0 2 2 100.0 1 1 2 3 0 0 4 1 11
+p118
+aVDonatas Motiejunas HOU 03/25/2015 HOU @ NOP W 37 21 10 16 62.5 1 3 33.3 0 0 - 3 5 8 1 2 1 3 2 4
+p119
+aVJames Harden HOU 03/25/2015 HOU @ NOP W 37 25 9 20 45.0 1 4 25.0 6 9 66.7 0 6 6 10 1 1 2 3 -2
+p120
+aVDwight Howard HOU 03/25/2015 HOU @ NOP W 16 4 2 3 66.7 0 0 - 0 0 - 0 7 7 2 0 1 1 4 2
+p121
+aVJoey Dorsey HOU 03/23/2015 HOU @ IND W 25 0 0 2 0.0 0 0 - 0 0 - 0 8 8 0 0 1 1 6 12
+p122
+aVTrevor Ariza HOU 03/23/2015 HOU @ IND W 32 4 1 2 50.0 0 0 - 2 2 100.0 0 11 11 1 2 0 4 3 10
+p123
+aVDonatas Motiejunas HOU 03/23/2015 HOU @ IND W 38 17 6 9 66.7 1 2 50.0 4 4 100.0 0 2 2 3 3 0 2 4 3
+p124
+aVCorey Brewer HOU 03/23/2015 HOU @ IND W 25 11 2 6 33.3 1 2 50.0 6 6 100.0 0 2 2 1 0 0 1 0 6
+p125
+aVPatrick Beverley HOU 03/23/2015 HOU @ IND W 20 8 3 6 50.0 2 3 66.7 0 0 - 1 0 1 0 1 2 3 1 7
+p126
+aVJason Terry HOU 03/23/2015 HOU @ IND W 18 6 2 5 40.0 2 3 66.7 0 1 0.0 0 2 2 1 1 0 2 3 1
+p127
+aVJames Harden HOU 03/23/2015 HOU @ IND W 43 44 10 21 47.6 3 8 37.5 21 22 95.5 1 3 4 7 2 2 4 4 5
+p128
+aVPablo Prigioni HOU 03/23/2015 HOU @ IND W 10 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 2
+p129
+aVJosh Smith HOU 03/23/2015 HOU @ IND W 29 18 7 14 50.0 4 6 66.7 0 0 - 2 3 5 3 1 0 2 2 4
+p130
+aVCorey Brewer HOU 03/21/2015 HOU vs. PHX L 30 14 5 11 45.5 0 1 0.0 4 4 100.0 1 6 7 1 2 0 1 0 -13
+p131
+aVJoey Dorsey HOU 03/21/2015 HOU vs. PHX L 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 1 0 2 -4
+p132
+aVJason Terry HOU 03/21/2015 HOU vs. PHX L 21 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 2 0 1 1 2 1
+p133
+aVJosh Smith HOU 03/21/2015 HOU vs. PHX L 24 17 8 13 61.5 1 3 33.3 0 2 0.0 0 5 5 2 1 0 3 3 -1
+p134
+aVKJ McDaniels HOU 03/21/2015 HOU vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p135
+aVTrevor Ariza HOU 03/21/2015 HOU vs. PHX L 37 15 6 13 46.2 3 8 37.5 0 0 - 1 11 12 5 2 0 1 1 -8
+p136
+aVPatrick Beverley HOU 03/21/2015 HOU vs. PHX L 29 10 4 8 50.0 2 4 50.0 0 0 - 0 3 3 4 2 0 2 6 0
+p137
+aVNick Johnson HOU 03/21/2015 HOU vs. PHX L 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p138
+aVDonatas Motiejunas HOU 03/21/2015 HOU vs. PHX L 38 18 8 13 61.5 1 3 33.3 1 1 100.0 0 3 3 6 0 1 3 3 -14
+p139
+aVPablo Prigioni HOU 03/21/2015 HOU vs. PHX L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 1 -9
+p140
+aVJames Harden HOU 03/21/2015 HOU vs. PHX L 33 16 5 19 26.3 1 8 12.5 5 5 100.0 1 1 2 5 0 2 5 3 -27
+p141
+aVPatrick Beverley HOU 03/19/2015 HOU vs. DEN W 37 10 3 7 42.9 2 5 40.0 2 2 100.0 1 1 2 7 1 0 2 1 14
+p142
+aVJosh Smith HOU 03/19/2015 HOU vs. DEN W 22 12 4 7 57.1 2 3 66.7 2 2 100.0 1 1 2 1 0 3 2 2 1
+p143
+aVJames Harden HOU 03/19/2015 HOU vs. DEN W 40 50 12 27 44.4 4 12 33.3 22 25 88.0 1 9 10 4 1 0 4 2 22
+p144
+aVDonatas Motiejunas HOU 03/19/2015 HOU vs. DEN W 37 7 3 10 30.0 0 1 0.0 1 2 50.0 4 5 9 4 3 0 3 3 -11
+p145
+aVTrevor Ariza HOU 03/19/2015 HOU vs. DEN W 36 17 6 13 46.2 3 6 50.0 2 2 100.0 0 6 6 4 1 0 2 2 -4
+p146
+aVPablo Prigioni HOU 03/19/2015 HOU vs. DEN W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 0 -4
+p147
+aVJoey Dorsey HOU 03/19/2015 HOU vs. DEN W 20 3 1 3 33.3 0 0 - 1 5 20.0 1 7 8 1 1 0 1 5 18
+p148
+aVTerrence Jones HOU 03/19/2015 HOU vs. DEN W 9 10 4 5 80.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 8
+p149
+aVCorey Brewer HOU 03/19/2015 HOU vs. DEN W 28 6 3 9 33.3 0 1 0.0 0 0 - 1 9 10 4 1 1 1 3 6
+p150
+aVDonatas Motiejunas HOU 03/17/2015 HOU vs. ORL W 32 23 8 12 66.7 2 2 100.0 5 8 62.5 1 6 7 4 0 0 0 2 10
+p151
+aVTerrence Jones HOU 03/17/2015 HOU vs. ORL W 30 6 3 6 50.0 0 1 0.0 0 2 0.0 0 3 3 1 1 1 2 3 5
+p152
+aVTrevor Ariza HOU 03/17/2015 HOU vs. ORL W 32 17 7 11 63.6 3 7 42.9 0 0 - 1 4 5 5 1 1 2 2 3
+p153
+aVJames Harden HOU 03/17/2015 HOU vs. ORL W 35 17 4 14 28.6 1 4 25.0 8 11 72.7 1 7 8 4 3 0 4 1 14
+p154
+aVPablo Prigioni HOU 03/17/2015 HOU vs. ORL W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -8
+p155
+aVKJ McDaniels HOU 03/17/2015 HOU vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p156
+aVCorey Brewer HOU 03/17/2015 HOU vs. ORL W 28 13 5 10 50.0 1 2 50.0 2 2 100.0 4 8 12 3 1 0 2 2 11
+p157
+aVPatrick Beverley HOU 03/17/2015 HOU vs. ORL W 35 12 5 12 41.7 2 7 28.6 0 0 - 0 2 2 7 0 1 0 1 23
+p158
+aVJoey Dorsey HOU 03/17/2015 HOU vs. ORL W 7 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 2
+p159
+aVJosh Smith HOU 03/17/2015 HOU vs. ORL W 27 17 6 9 66.7 2 2 100.0 3 4 75.0 2 3 5 1 1 2 4 2 9
+p160
+aVNick Johnson HOU 03/17/2015 HOU vs. ORL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p161
+aVJames Harden HOU 03/15/2015 HOU @ LAC W 41 34 7 16 43.8 3 5 60.0 17 18 94.4 0 7 7 7 0 0 3 3 7
+p162
+aVJoey Dorsey HOU 03/15/2015 HOU @ LAC W 2 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 3
+p163
+aVPatrick Beverley HOU 03/15/2015 HOU @ LAC W 32 11 3 7 42.9 1 5 20.0 4 4 100.0 0 2 2 3 1 0 2 4 14
+p164
+aVCorey Brewer HOU 03/15/2015 HOU @ LAC W 17 7 3 10 30.0 0 4 0.0 1 2 50.0 0 3 3 0 1 2 1 2 -3
+p165
+aVDonatas Motiejunas HOU 03/15/2015 HOU @ LAC W 43 9 3 15 20.0 0 2 0.0 3 5 60.0 3 3 6 3 1 1 0 2 5
+p166
+aVTerrence Jones HOU 03/15/2015 HOU @ LAC W 33 16 7 14 50.0 1 2 50.0 1 2 50.0 5 7 12 0 0 0 0 4 -2
+p167
+aVJason Terry HOU 03/15/2015 HOU @ LAC W 16 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 2 -11
+p168
+aVTrevor Ariza HOU 03/15/2015 HOU @ LAC W 39 19 7 15 46.7 2 7 28.6 3 3 100.0 2 7 9 3 1 0 4 2 1
+p169
+aVJosh Smith HOU 03/15/2015 HOU @ LAC W 17 4 2 7 28.6 0 3 0.0 0 0 - 1 1 2 0 2 0 2 3 -4
+p170
+aVPatrick Beverley HOU 03/12/2015 HOU @ UTA L 23 9 4 8 50.0 1 4 25.0 0 0 - 1 0 1 1 0 0 0 4 -19
+p171
+aVTerrence Jones HOU 03/12/2015 HOU @ UTA L 23 11 4 9 44.4 1 1 100.0 2 2 100.0 2 8 10 0 2 0 1 1 -19
+p172
+aVKJ McDaniels HOU 03/12/2015 HOU @ UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p173
+aVTrevor Ariza HOU 03/12/2015 HOU @ UTA L 31 4 1 4 25.0 1 3 33.3 1 2 50.0 1 2 3 1 1 0 2 4 -23
+p174
+aVNick Johnson HOU 03/12/2015 HOU @ UTA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 1
+p175
+aVPablo Prigioni HOU 03/12/2015 HOU @ UTA L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 1 -1
+p176
+aVCorey Brewer HOU 03/12/2015 HOU @ UTA L 32 25 10 15 66.7 1 4 25.0 4 5 80.0 0 5 5 0 1 0 3 2 -3
+p177
+aVJoey Dorsey HOU 03/12/2015 HOU @ UTA L 16 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 1 0 4 1
+p178
+aVJosh Smith HOU 03/12/2015 HOU @ UTA L 15 7 3 8 37.5 1 5 20.0 0 0 - 0 2 2 1 0 1 0 1 3
+p179
+aVDonatas Motiejunas HOU 03/12/2015 HOU @ UTA L 24 13 6 12 50.0 1 4 25.0 0 2 0.0 2 1 3 1 0 0 0 2 -15
+p180
+aVJames Harden HOU 03/12/2015 HOU @ UTA L 34 15 3 13 23.1 0 5 0.0 9 13 69.2 2 2 4 7 3 0 3 1 -16
+p181
+aVJason Terry HOU 03/12/2015 HOU @ UTA L 19 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 3 0 0 0 2 0
+p182
+aVDonatas Motiejunas HOU 03/11/2015 HOU @ POR L 29 10 4 10 40.0 2 4 50.0 0 4 0.0 0 4 4 0 0 2 1 3 -1
+p183
+aVTerrence Jones HOU 03/11/2015 HOU @ POR L 36 17 6 13 46.2 0 2 0.0 5 7 71.4 5 7 12 0 1 1 1 2 2
+p184
+aVJames Harden HOU 03/11/2015 HOU @ POR L 38 18 7 19 36.8 0 3 0.0 4 5 80.0 1 1 2 6 3 0 4 3 2
+p185
+aVJason Terry HOU 03/11/2015 HOU @ POR L 13 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 3 0 1 1 -7
+p186
+aVJoey Dorsey HOU 03/11/2015 HOU @ POR L 8 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -3
+p187
+aVJosh Smith HOU 03/11/2015 HOU @ POR L 18 9 4 10 40.0 1 2 50.0 0 0 - 2 2 4 2 1 0 2 1 -14
+p188
+aVTrevor Ariza HOU 03/11/2015 HOU @ POR L 38 11 3 7 42.9 3 6 50.0 2 2 100.0 1 5 6 6 2 1 0 1 -5
+p189
+aVCorey Brewer HOU 03/11/2015 HOU @ POR L 25 23 9 16 56.3 3 5 60.0 2 5 40.0 0 2 2 2 2 0 2 3 -1
+p190
+aVPatrick Beverley HOU 03/11/2015 HOU @ POR L 35 5 2 12 16.7 1 8 12.5 0 0 - 1 7 8 4 0 1 0 2 2
+p191
+aVTerrence Jones HOU 03/07/2015 HOU @ DEN W 27 7 3 12 25.0 0 1 0.0 1 2 50.0 4 7 11 0 1 1 1 2 14
+p192
+aVJason Terry HOU 03/07/2015 HOU @ DEN W 18 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 0 22
+p193
+aVDonatas Motiejunas HOU 03/07/2015 HOU @ DEN W 30 18 6 9 66.7 2 3 66.7 4 4 100.0 0 6 6 5 0 1 4 2 1
+p194
+aVPatrick Beverley HOU 03/07/2015 HOU @ DEN W 30 8 3 4 75.0 2 3 66.7 0 0 - 0 5 5 3 1 0 4 1 -8
+p195
+aVJoey Dorsey HOU 03/07/2015 HOU @ DEN W 8 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 3 3
+p196
+aVJosh Smith HOU 03/07/2015 HOU @ DEN W 30 10 4 9 44.4 0 3 0.0 2 4 50.0 2 8 10 4 2 0 6 4 6
+p197
+aVKJ McDaniels HOU 03/07/2015 HOU @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p198
+aVTrevor Ariza HOU 03/07/2015 HOU @ DEN W 29 19 7 13 53.8 3 6 50.0 2 3 66.7 1 3 4 3 2 0 2 2 10
+p199
+aVCorey Brewer HOU 03/07/2015 HOU @ DEN W 31 24 9 16 56.3 1 6 16.7 5 6 83.3 2 4 6 1 2 0 1 1 18
+p200
+aVJames Harden HOU 03/07/2015 HOU @ DEN W 36 28 8 19 42.1 2 4 50.0 10 11 90.9 1 3 4 7 2 0 4 5 5
+p201
+aVPatrick Beverley HOU 03/06/2015 HOU vs. DET W 31 7 3 12 25.0 1 6 16.7 0 0 - 3 0 3 2 0 0 2 2 0
+p202
+aVKJ McDaniels HOU 03/06/2015 HOU vs. DET W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p203
+aVJoey Dorsey HOU 03/06/2015 HOU vs. DET W 17 6 3 3 100.0 0 0 - 0 0 - 6 4 10 1 1 1 2 3 16
+p204
+aVCorey Brewer HOU 03/06/2015 HOU vs. DET W 26 15 7 12 58.3 1 2 50.0 0 0 - 0 3 3 1 0 0 1 0 19
+p205
+aVJames Harden HOU 03/06/2015 HOU vs. DET W 38 38 10 21 47.6 2 6 33.3 16 18 88.9 1 11 12 12 1 0 7 1 28
+p206
+aVDonatas Motiejunas HOU 03/06/2015 HOU vs. DET W 19 4 2 8 25.0 0 1 0.0 0 2 0.0 0 5 5 0 1 0 1 3 -16
+p207
+aVJason Terry HOU 03/06/2015 HOU vs. DET W 17 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 1 0 1 2 10
+p208
+aVJosh Smith HOU 03/06/2015 HOU vs. DET W 24 8 2 9 22.2 0 3 0.0 4 4 100.0 2 5 7 2 0 2 0 1 15
+p209
+aVPablo Prigioni HOU 03/06/2015 HOU vs. DET W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -12
+p210
+aVTrevor Ariza HOU 03/06/2015 HOU vs. DET W 28 4 2 7 28.6 0 3 0.0 0 0 - 1 4 5 4 0 0 1 2 1
+p211
+aVTerrence Jones HOU 03/06/2015 HOU vs. DET W 32 17 7 14 50.0 2 4 50.0 1 1 100.0 0 8 8 0 2 3 3 1 1
+p212
+aVTrevor Ariza HOU 03/04/2015 HOU vs. MEM L 37 8 4 9 44.4 0 4 0.0 0 0 - 0 5 5 2 2 0 2 0 -1
+p213
+aVJason Terry HOU 03/04/2015 HOU vs. MEM L 17 8 3 6 50.0 2 4 50.0 0 0 - 0 0 0 0 1 0 1 0 -6
+p214
+aVCorey Brewer HOU 03/04/2015 HOU vs. MEM L 26 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 2 -5
+p215
+aVPatrick Beverley HOU 03/04/2015 HOU vs. MEM L 31 12 5 9 55.6 2 3 66.7 0 0 - 0 5 5 3 0 0 0 2 4
+p216
+aVJames Harden HOU 03/04/2015 HOU vs. MEM L 41 18 7 16 43.8 2 7 28.6 2 2 100.0 1 3 4 13 1 2 3 1 10
+p217
+aVJosh Smith HOU 03/04/2015 HOU vs. MEM L 21 16 6 14 42.9 2 5 40.0 2 2 100.0 3 5 8 2 1 1 0 1 2
+p218
+aVTerrence Jones HOU 03/04/2015 HOU vs. MEM L 36 21 10 14 71.4 0 0 - 1 1 100.0 4 5 9 2 1 2 1 1 -4
+p219
+aVDonatas Motiejunas HOU 03/04/2015 HOU vs. MEM L 21 10 4 12 33.3 2 3 66.7 0 0 - 2 2 4 1 1 0 2 3 -7
+p220
+aVJoey Dorsey HOU 03/04/2015 HOU vs. MEM L 8 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 2 2 -3
+p221
+aVDonatas Motiejunas HOU 03/03/2015 HOU @ ATL L 35 14 5 14 35.7 3 6 50.0 1 2 50.0 2 6 8 7 3 0 0 2 -6
+p222
+aVJason Terry HOU 03/03/2015 HOU @ ATL L 28 21 8 13 61.5 4 8 50.0 1 1 100.0 0 4 4 2 0 0 1 2 -10
+p223
+aVTrevor Ariza HOU 03/03/2015 HOU @ ATL L 38 9 4 12 33.3 1 7 14.3 0 0 - 0 5 5 2 1 0 2 1 4
+p224
+aVJosh Smith HOU 03/03/2015 HOU @ ATL L 24 14 6 14 42.9 2 6 33.3 0 0 - 2 5 7 3 0 2 3 3 5
+p225
+aVTerrence Jones HOU 03/03/2015 HOU @ ATL L 37 18 8 11 72.7 0 0 - 2 6 33.3 3 5 8 2 0 3 1 3 -15
+p226
+aVPatrick Beverley HOU 03/03/2015 HOU @ ATL L 34 9 3 9 33.3 3 8 37.5 0 0 - 0 5 5 7 1 1 2 6 -3
+p227
+aVPablo Prigioni HOU 03/03/2015 HOU @ ATL L 13 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 5 0 0 1 1 -1
+p228
+aVCorey Brewer HOU 03/03/2015 HOU @ ATL L 31 8 4 14 28.6 0 3 0.0 0 0 - 1 2 3 2 1 0 2 3 -14
+p229
+aVJosh Smith HOU 03/01/2015 HOU vs. CLE W 31 10 4 12 33.3 0 4 0.0 2 2 100.0 2 1 3 4 2 0 3 4 -6
+p230
+aVTrevor Ariza HOU 03/01/2015 HOU vs. CLE W 42 4 1 4 25.0 0 3 0.0 2 2 100.0 0 7 7 3 4 2 3 5 6
+p231
+aVTerrence Jones HOU 03/01/2015 HOU vs. CLE W 44 19 6 10 60.0 1 2 50.0 6 9 66.7 3 4 7 0 0 0 0 1 15
+p232
+aVDonatas Motiejunas HOU 03/01/2015 HOU vs. CLE W 31 16 7 14 50.0 2 4 50.0 0 0 - 0 2 2 1 1 1 1 2 -6
+p233
+aVCorey Brewer HOU 03/01/2015 HOU vs. CLE W 19 8 3 5 60.0 2 2 100.0 0 0 - 1 1 2 1 1 0 3 2 -13
+p234
+aVPablo Prigioni HOU 03/01/2015 HOU vs. CLE W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -1
+p235
+aVJason Terry HOU 03/01/2015 HOU vs. CLE W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 -5
+p236
+aVJames Harden HOU 03/01/2015 HOU vs. CLE W 42 33 8 18 44.4 2 6 33.3 15 18 83.3 2 6 8 5 3 2 5 3 14
+p237
+aVPatrick Beverley HOU 03/01/2015 HOU vs. CLE W 35 12 4 7 57.1 3 5 60.0 1 2 50.0 0 5 5 5 0 0 3 2 6
+p238
+aVJames Harden HOU 02/27/2015 HOU vs. BKN W 38 15 4 15 26.7 0 4 0.0 7 7 100.0 0 5 5 12 1 0 4 3 3
+p239
+aVJoey Dorsey HOU 02/27/2015 HOU vs. BKN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 0
+p240
+aVJosh Smith HOU 02/27/2015 HOU vs. BKN W 29 10 5 10 50.0 0 5 0.0 0 2 0.0 1 8 9 2 0 4 2 5 2
+p241
+aVPatrick Beverley HOU 02/27/2015 HOU vs. BKN W 34 9 3 9 33.3 2 7 28.6 1 1 100.0 1 3 4 3 3 0 1 4 4
+p242
+aVTerrence Jones HOU 02/27/2015 HOU vs. BKN W 36 26 11 16 68.8 0 1 0.0 4 4 100.0 3 9 12 0 0 1 2 2 8
+p243
+aVPablo Prigioni HOU 02/27/2015 HOU vs. BKN W 12 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 5 2 0 0 1 5
+p244
+aVJason Terry HOU 02/27/2015 HOU vs. BKN W 11 5 1 1 100.0 1 1 100.0 2 2 100.0 0 2 2 1 0 0 1 2 -2
+p245
+aVCorey Brewer HOU 02/27/2015 HOU vs. BKN W 17 6 3 9 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p246
+aVDonatas Motiejunas HOU 02/27/2015 HOU vs. BKN W 24 11 5 11 45.5 1 2 50.0 0 0 - 2 1 3 1 0 0 1 4 1
+p247
+aVTrevor Ariza HOU 02/27/2015 HOU vs. BKN W 37 20 7 11 63.6 5 9 55.6 1 1 100.0 0 5 5 2 2 0 2 2 -3
+p248
+aVPablo Prigioni HOU 02/25/2015 HOU vs. LAC W 16 3 1 4 25.0 1 4 25.0 0 0 - 2 0 2 3 2 0 1 2 12
+p249
+aVCorey Brewer HOU 02/25/2015 HOU vs. LAC W 27 20 7 17 41.2 2 6 33.3 4 5 80.0 0 6 6 2 1 1 0 1 5
+p250
+aVTerrence Jones HOU 02/25/2015 HOU vs. LAC W 32 14 6 13 46.2 0 1 0.0 2 3 66.7 4 4 8 1 0 5 1 3 0
+p251
+aVTrevor Ariza HOU 02/25/2015 HOU vs. LAC W 35 17 6 11 54.5 5 9 55.6 0 0 - 0 4 4 4 0 0 1 3 10
+p252
+aVDonatas Motiejunas HOU 02/25/2015 HOU vs. LAC W 34 18 7 11 63.6 3 4 75.0 1 2 50.0 3 6 9 1 0 1 2 3 1
+p253
+aVJosh Smith HOU 02/25/2015 HOU vs. LAC W 28 9 2 9 22.2 1 4 25.0 4 8 50.0 2 7 9 4 0 2 1 5 10
+p254
+aVJason Terry HOU 02/25/2015 HOU vs. LAC W 32 8 3 10 30.0 2 7 28.6 0 0 - 1 3 4 2 4 0 0 2 -7
+p255
+aVJames Harden HOU 02/25/2015 HOU vs. LAC W 36 21 4 13 30.8 3 9 33.3 10 12 83.3 0 4 4 10 0 0 3 1 -6
+p256
+aVTrevor Ariza HOU 02/23/2015 HOU vs. MIN W 36 10 4 11 36.4 2 8 25.0 0 0 - 1 7 8 3 4 0 2 3 -1
+p257
+aVDonatas Motiejunas HOU 02/23/2015 HOU vs. MIN W 30 12 5 10 50.0 0 1 0.0 2 5 40.0 0 3 3 2 1 1 2 4 10
+p258
+aVJason Terry HOU 02/23/2015 HOU vs. MIN W 28 9 3 8 37.5 3 8 37.5 0 0 - 0 3 3 2 1 0 2 4 3
+p259
+aVJoey Dorsey HOU 02/23/2015 HOU vs. MIN W 6 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 3
+p260
+aVKJ McDaniels HOU 02/23/2015 HOU vs. MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p261
+aVJames Harden HOU 02/23/2015 HOU vs. MIN W 39 31 7 20 35.0 5 11 45.5 12 15 80.0 1 10 11 10 1 4 3 3 13
+p262
+aVPablo Prigioni HOU 02/23/2015 HOU vs. MIN W 19 2 1 4 25.0 0 3 0.0 0 0 - 2 0 2 1 0 0 0 2 8
+p263
+aVCorey Brewer HOU 02/23/2015 HOU vs. MIN W 22 11 3 12 25.0 0 1 0.0 5 8 62.5 4 2 6 2 0 0 5 3 12
+p264
+aVJosh Smith HOU 02/23/2015 HOU vs. MIN W 27 17 7 15 46.7 2 6 33.3 1 1 100.0 3 1 4 3 3 1 1 6 5
+p265
+aVTerrence Jones HOU 02/23/2015 HOU vs. MIN W 32 15 6 9 66.7 0 0 - 3 5 60.0 9 6 15 0 1 2 1 2 2
+p266
+aVKJ McDaniels HOU 02/21/2015 HOU vs. TOR W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p267
+aVJoey Dorsey HOU 02/21/2015 HOU vs. TOR W 16 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 2 0 0 3 -1
+p268
+aVTerrence Jones HOU 02/21/2015 HOU vs. TOR W 24 11 3 9 33.3 0 1 0.0 5 8 62.5 4 5 9 1 0 3 1 3 28
+p269
+aVPablo Prigioni HOU 02/21/2015 HOU vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p270
+aVJason Terry HOU 02/21/2015 HOU vs. TOR W 19 3 0 1 0.0 0 1 0.0 3 4 75.0 0 2 2 2 0 1 0 3 18
+p271
+aVPatrick Beverley HOU 02/21/2015 HOU vs. TOR W 25 3 1 8 12.5 1 6 16.7 0 0 - 1 3 4 2 4 0 3 4 5
+p272
+aVJosh Smith HOU 02/21/2015 HOU vs. TOR W 21 8 3 7 42.9 2 5 40.0 0 2 0.0 0 5 5 3 0 3 5 1 13
+p273
+aVTrevor Ariza HOU 02/21/2015 HOU vs. TOR W 28 9 3 9 33.3 1 4 25.0 2 2 100.0 1 3 4 1 1 0 2 1 9
+p274
+aVJames Harden HOU 02/21/2015 HOU vs. TOR W 29 20 5 12 41.7 2 6 33.3 8 10 80.0 0 5 5 7 2 0 5 2 9
+p275
+aVKostas Papanikolaou HOU 02/21/2015 HOU vs. TOR W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 0
+p276
+aVDonatas Motiejunas HOU 02/21/2015 HOU vs. TOR W 31 12 5 12 41.7 0 2 0.0 2 2 100.0 3 8 11 2 3 2 3 3 4
+p277
+aVCorey Brewer HOU 02/21/2015 HOU vs. TOR W 35 26 12 19 63.2 0 2 0.0 2 3 66.7 2 8 10 2 5 0 3 3 27
+p278
+aVPatrick Beverley HOU 02/20/2015 HOU @ DAL L 28 3 1 7 14.3 1 5 20.0 0 0 - 0 3 3 4 0 1 1 1 -8
+p279
+aVTerrence Jones HOU 02/20/2015 HOU @ DAL L 30 9 3 7 42.9 0 0 - 3 4 75.0 3 6 9 2 1 4 1 1 -4
+p280
+aVJason Terry HOU 02/20/2015 HOU @ DAL L 23 8 3 8 37.5 2 7 28.6 0 0 - 1 2 3 2 4 1 1 2 -3
+p281
+aVKostas Papanikolaou HOU 02/20/2015 HOU @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p282
+aVCorey Brewer HOU 02/20/2015 HOU @ DAL L 26 10 4 11 36.4 0 5 0.0 2 5 40.0 0 4 4 1 0 1 1 1 -7
+p283
+aVJames Harden HOU 02/20/2015 HOU @ DAL L 37 26 6 14 42.9 3 5 60.0 11 13 84.6 1 6 7 5 2 0 6 5 -12
+p284
+aVTrevor Ariza HOU 02/20/2015 HOU @ DAL L 37 16 6 17 35.3 4 11 36.4 0 0 - 1 4 5 3 0 0 4 5 -2
+p285
+aVJosh Smith HOU 02/20/2015 HOU @ DAL L 26 15 7 12 58.3 1 3 33.3 0 4 0.0 2 2 4 1 0 1 5 3 -13
+p286
+aVJoey Dorsey HOU 02/20/2015 HOU @ DAL L 11 6 3 3 100.0 0 0 - 0 0 - 2 2 4 1 1 1 0 1 1
+p287
+aVDonatas Motiejunas HOU 02/20/2015 HOU @ DAL L 21 7 3 8 37.5 1 1 100.0 0 0 - 4 4 8 1 0 0 2 3 -7
+p288
+aVNick Johnson HOU 02/11/2015 HOU @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p289
+aVDonatas Motiejunas HOU 02/11/2015 HOU @ LAC L 27 12 5 11 45.5 0 3 0.0 2 2 100.0 1 3 4 0 0 1 2 3 -13
+p290
+aVIsaiah Canaan HOU 02/11/2015 HOU @ LAC L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p291
+aVClint Capela HOU 02/11/2015 HOU @ LAC L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p292
+aVJosh Smith HOU 02/11/2015 HOU @ LAC L 31 21 8 17 47.1 2 7 28.6 3 5 60.0 7 6 13 4 1 2 3 5 -6
+p293
+aVJames Harden HOU 02/11/2015 HOU @ LAC L 36 9 3 12 25.0 0 7 0.0 3 5 60.0 0 5 5 6 3 0 5 4 -8
+p294
+aVJoey Dorsey HOU 02/11/2015 HOU @ LAC L 13 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 4 -13
+p295
+aVKostas Papanikolaou HOU 02/11/2015 HOU @ LAC L 20 4 1 5 20.0 0 3 0.0 2 2 100.0 1 1 2 4 1 1 1 1 11
+p296
+aVCorey Brewer HOU 02/11/2015 HOU @ LAC L 23 22 8 15 53.3 2 5 40.0 4 4 100.0 0 1 1 1 0 0 2 4 -9
+p297
+aVJason Terry HOU 02/11/2015 HOU @ LAC L 14 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 1 0 2 -12
+p298
+aVPatrick Beverley HOU 02/11/2015 HOU @ LAC L 32 9 3 11 27.3 3 9 33.3 0 0 - 3 3 6 6 0 0 2 5 -4
+p299
+aVTrevor Ariza HOU 02/11/2015 HOU @ LAC L 37 13 4 13 30.8 1 9 11.1 4 4 100.0 1 6 7 3 1 1 2 5 -15
+p300
+aVJoey Dorsey HOU 02/10/2015 HOU @ PHX W 17 2 1 4 25.0 0 0 - 0 2 0.0 3 3 6 0 0 0 1 3 -5
+p301
+aVJason Terry HOU 02/10/2015 HOU @ PHX W 19 6 2 4 50.0 2 4 50.0 0 0 - 1 1 2 1 1 0 0 1 8
+p302
+aVCorey Brewer HOU 02/10/2015 HOU @ PHX W 27 14 6 12 50.0 1 3 33.3 1 2 50.0 3 4 7 1 0 0 0 3 12
+p303
+aVDonatas Motiejunas HOU 02/10/2015 HOU @ PHX W 17 12 5 9 55.6 0 1 0.0 2 2 100.0 1 1 2 2 2 0 1 5 0
+p304
+aVJosh Smith HOU 02/10/2015 HOU @ PHX W 32 20 8 15 53.3 2 4 50.0 2 3 66.7 2 4 6 3 1 1 1 5 13
+p305
+aVPatrick Beverley HOU 02/10/2015 HOU @ PHX W 30 15 6 15 40.0 3 10 30.0 0 0 - 2 4 6 6 0 0 3 4 -1
+p306
+aVTrevor Ariza HOU 02/10/2015 HOU @ PHX W 35 10 4 9 44.4 2 5 40.0 0 0 - 0 5 5 5 1 0 2 1 -7
+p307
+aVKostas Papanikolaou HOU 02/10/2015 HOU @ PHX W 21 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 1 1 1 0 1 9
+p308
+aVJames Harden HOU 02/10/2015 HOU @ PHX W 43 40 13 23 56.5 3 7 42.9 11 14 78.6 3 9 12 9 3 1 5 1 16
+p309
+aVJason Terry HOU 02/08/2015 HOU vs. POR L 20 6 2 6 33.3 2 5 40.0 0 0 - 0 3 3 2 1 1 0 2 2
+p310
+aVTerrence Jones HOU 02/08/2015 HOU vs. POR L 14 3 1 5 20.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 2 -11
+p311
+aVJames Harden HOU 02/08/2015 HOU vs. POR L 40 45 11 25 44.0 4 10 40.0 19 23 82.6 4 5 9 8 2 0 4 2 -5
+p312
+aVCorey Brewer HOU 02/08/2015 HOU vs. POR L 21 5 2 9 22.2 1 3 33.3 0 0 - 0 2 2 1 0 0 1 3 -14
+p313
+aVTrevor Ariza HOU 02/08/2015 HOU vs. POR L 41 9 3 9 33.3 1 5 20.0 2 2 100.0 2 5 7 6 4 0 1 2 -7
+p314
+aVPatrick Beverley HOU 02/08/2015 HOU vs. POR L 25 2 1 4 25.0 0 2 0.0 0 0 - 2 1 3 1 0 0 2 5 -12
+p315
+aVDonatas Motiejunas HOU 02/08/2015 HOU vs. POR L 36 10 4 8 50.0 1 2 50.0 1 7 14.3 3 3 6 2 0 0 1 3 -2
+p316
+aVJoey Dorsey HOU 02/08/2015 HOU vs. POR L 13 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -4
+p317
+aVJosh Smith HOU 02/08/2015 HOU vs. POR L 29 16 6 12 50.0 4 7 57.1 0 0 - 3 2 5 4 0 0 2 3 -2
+p318
+aVJames Harden HOU 02/06/2015 HOU vs. MIL W 40 33 9 14 64.3 3 6 50.0 12 17 70.6 0 3 3 5 1 0 3 1 9
+p319
+aVCorey Brewer HOU 02/06/2015 HOU vs. MIL W 25 11 3 8 37.5 1 3 33.3 4 4 100.0 2 6 8 4 3 0 2 6 2
+p320
+aVJoey Dorsey HOU 02/06/2015 HOU vs. MIL W 9 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 1 0 0 0 5
+p321
+aVTrevor Ariza HOU 02/06/2015 HOU vs. MIL W 39 24 9 21 42.9 6 10 60.0 0 0 - 2 4 6 3 3 0 1 4 -5
+p322
+aVPatrick Beverley HOU 02/06/2015 HOU vs. MIL W 36 6 2 9 22.2 1 5 20.0 1 2 50.0 1 0 1 6 1 2 1 2 3
+p323
+aVJason Terry HOU 02/06/2015 HOU vs. MIL W 12 1 0 4 0.0 0 3 0.0 1 1 100.0 0 3 3 1 0 0 1 0 3
+p324
+aVDonatas Motiejunas HOU 02/06/2015 HOU vs. MIL W 26 14 6 8 75.0 0 0 - 2 4 50.0 2 1 3 1 1 1 4 1 -2
+p325
+aVJosh Smith HOU 02/06/2015 HOU vs. MIL W 33 14 5 8 62.5 4 5 80.0 0 1 0.0 2 8 10 8 1 1 4 1 6
+p326
+aVTerrence Jones HOU 02/06/2015 HOU vs. MIL W 20 10 5 6 83.3 0 0 - 0 0 - 0 3 3 3 0 1 1 2 9
+p327
+aVTerrence Jones HOU 02/04/2015 HOU vs. CHI W 14 4 2 5 40.0 0 0 - 0 2 0.0 0 0 0 1 1 2 0 0 17
+p328
+aVJosh Smith HOU 02/04/2015 HOU vs. CHI W 30 9 3 11 27.3 1 4 25.0 2 5 40.0 2 11 13 4 2 2 0 4 8
+p329
+aVCorey Brewer HOU 02/04/2015 HOU vs. CHI W 27 9 2 11 18.2 0 5 0.0 5 5 100.0 1 0 1 2 0 0 1 3 8
+p330
+aVJason Terry HOU 02/04/2015 HOU vs. CHI W 19 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 0 21
+p331
+aVDonatas Motiejunas HOU 02/04/2015 HOU vs. CHI W 31 15 7 15 46.7 0 3 0.0 1 2 50.0 3 7 10 1 0 0 1 2 -8
+p332
+aVPatrick Beverley HOU 02/04/2015 HOU vs. CHI W 29 8 4 10 40.0 0 2 0.0 0 0 - 1 4 5 3 0 1 1 1 -10
+p333
+aVJoey Dorsey HOU 02/04/2015 HOU vs. CHI W 20 4 2 6 33.3 0 0 - 0 0 - 3 6 9 0 0 1 0 3 5
+p334
+aVJames Harden HOU 02/04/2015 HOU vs. CHI W 36 27 9 20 45.0 3 5 60.0 6 6 100.0 1 2 3 4 1 2 2 2 1
+p335
+aVTrevor Ariza HOU 02/04/2015 HOU vs. CHI W 34 20 7 10 70.0 3 5 60.0 3 3 100.0 0 5 5 1 2 0 1 4 13
+p336
+aVKostas Papanikolaou HOU 01/31/2015 HOU @ DET L 12 8 3 5 60.0 2 4 50.0 0 0 - 1 1 2 1 2 0 0 1 4
+p337
+aVDonatas Motiejunas HOU 01/31/2015 HOU @ DET L 29 21 10 13 76.9 1 2 50.0 0 0 - 3 1 4 3 0 0 1 5 -3
+p338
+aVJason Terry HOU 01/31/2015 HOU @ DET L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p339
+aVIsaiah Canaan HOU 01/31/2015 HOU @ DET L 8 0 0 6 0.0 0 5 0.0 0 0 - 0 0 0 0 0 0 0 2 7
+p340
+aVJosh Smith HOU 01/31/2015 HOU @ DET L 23 7 3 11 27.3 0 1 0.0 1 2 50.0 3 4 7 3 1 2 1 3 -5
+p341
+aVJoey Dorsey HOU 01/31/2015 HOU @ DET L 13 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 2 -11
+p342
+aVCorey Brewer HOU 01/31/2015 HOU @ DET L 28 10 3 5 60.0 1 2 50.0 3 6 50.0 2 1 3 3 0 0 3 4 -10
+p343
+aVPatrick Beverley HOU 01/31/2015 HOU @ DET L 27 10 3 8 37.5 2 6 33.3 2 2 100.0 0 3 3 0 2 0 1 3 -8
+p344
+aVJames Harden HOU 01/31/2015 HOU @ DET L 36 26 10 17 58.8 2 4 50.0 4 5 80.0 0 7 7 9 2 1 4 1 -2
+p345
+aVTrevor Ariza HOU 01/31/2015 HOU @ DET L 39 15 6 15 40.0 3 7 42.9 0 0 - 1 5 6 3 2 0 2 5 -18
+p346
+aVTerrence Jones HOU 01/31/2015 HOU @ DET L 19 3 1 5 20.0 0 0 - 1 2 50.0 0 5 5 1 0 0 1 3 -11
+p347
+aVCorey Brewer HOU 01/30/2015 HOU @ BOS W 23 10 4 7 57.1 0 1 0.0 2 2 100.0 1 3 4 1 0 0 2 2 5
+p348
+aVJason Terry HOU 01/30/2015 HOU @ BOS W 15 0 0 2 0.0 0 2 0.0 0 0 - 2 0 2 4 0 0 0 1 7
+p349
+aVDonatas Motiejunas HOU 01/30/2015 HOU @ BOS W 31 26 11 16 68.8 3 5 60.0 1 3 33.3 4 8 12 1 0 0 4 1 7
+p350
+aVJoey Dorsey HOU 01/30/2015 HOU @ BOS W 13 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 1
+p351
+aVJames Harden HOU 01/30/2015 HOU @ BOS W 39 14 4 21 19.0 2 7 28.6 4 5 80.0 0 6 6 7 2 0 5 2 3
+p352
+aVTrevor Ariza HOU 01/30/2015 HOU @ BOS W 35 7 3 10 30.0 1 7 14.3 0 0 - 1 7 8 2 1 0 2 1 3
+p353
+aVTerrence Jones HOU 01/30/2015 HOU @ BOS W 20 7 2 5 40.0 0 2 0.0 3 4 75.0 1 1 2 0 0 3 0 3 2
+p354
+aVPatrick Beverley HOU 01/30/2015 HOU @ BOS W 33 8 2 7 28.6 1 3 33.3 3 4 75.0 0 4 4 4 1 0 1 2 1
+p355
+aVJosh Smith HOU 01/30/2015 HOU @ BOS W 31 15 6 13 46.2 1 3 33.3 2 2 100.0 2 8 10 3 2 1 1 4 1
+p356
+aVDonatas Motiejunas HOU 01/28/2015 HOU vs. DAL W 34 16 6 16 37.5 2 4 50.0 2 2 100.0 3 2 5 1 1 0 1 3 -1
+p357
+aVJason Terry HOU 01/28/2015 HOU vs. DAL W 17 5 1 3 33.3 1 1 100.0 2 2 100.0 2 2 4 3 2 2 2 2 11
+p358
+aVPatrick Beverley HOU 01/28/2015 HOU vs. DAL W 31 6 2 9 22.2 0 6 0.0 2 2 100.0 0 4 4 4 0 0 1 2 -4
+p359
+aVCorey Brewer HOU 01/28/2015 HOU vs. DAL W 24 14 4 13 30.8 2 8 25.0 4 4 100.0 1 3 4 0 4 0 2 1 9
+p360
+aVJosh Smith HOU 01/28/2015 HOU vs. DAL W 28 18 7 13 53.8 4 5 80.0 0 0 - 1 5 6 2 1 3 2 2 4
+p361
+aVTerrence Jones HOU 01/28/2015 HOU vs. DAL W 21 10 4 8 50.0 1 2 50.0 1 2 50.0 0 5 5 1 0 2 0 2 3
+p362
+aVJames Harden HOU 01/28/2015 HOU vs. DAL W 38 17 7 14 50.0 1 3 33.3 2 3 66.7 1 4 5 8 4 0 4 5 -2
+p363
+aVTrevor Ariza HOU 01/28/2015 HOU vs. DAL W 35 13 5 10 50.0 3 6 50.0 0 0 - 0 2 2 1 1 0 3 0 5
+p364
+aVJoey Dorsey HOU 01/28/2015 HOU vs. DAL W 13 0 0 2 0.0 0 0 - 0 0 - 3 1 4 1 1 0 1 2 0
+p365
+aVDonatas Motiejunas HOU 01/25/2015 HOU @ LAL W 32 8 3 8 37.5 0 0 - 2 2 100.0 2 7 9 2 1 0 0 3 13
+p366
+aVJoey Dorsey HOU 01/25/2015 HOU @ LAL W 25 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 0 1 1 1 5 12
+p367
+aVClint Capela HOU 01/25/2015 HOU @ LAL W 6 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -5
+p368
+aVPatrick Beverley HOU 01/25/2015 HOU @ LAL W 26 9 3 10 30.0 3 10 30.0 0 0 - 2 5 7 2 2 1 1 4 10
+p369
+aVJosh Smith HOU 01/25/2015 HOU @ LAL W 25 11 5 10 50.0 1 2 50.0 0 0 - 1 4 5 1 2 2 1 1 10
+p370
+aVJames Harden HOU 01/25/2015 HOU @ LAL W 35 37 12 20 60.0 4 11 36.4 9 10 90.0 1 7 8 5 2 0 6 0 16
+p371
+aVCorey Brewer HOU 01/25/2015 HOU @ LAL W 27 10 4 9 44.4 2 5 40.0 0 1 0.0 0 1 1 3 1 0 1 4 -4
+p372
+aVTrevor Ariza HOU 01/25/2015 HOU @ LAL W 32 9 3 14 21.4 1 8 12.5 2 2 100.0 2 5 7 5 3 0 1 3 17
+p373
+aVKostas Papanikolaou HOU 01/25/2015 HOU @ LAL W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p374
+aVAlexey Shved HOU 01/25/2015 HOU @ LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -3
+p375
+aVJason Terry HOU 01/25/2015 HOU @ LAL W 21 11 4 9 44.4 2 7 28.6 1 2 50.0 0 1 1 4 1 0 1 1 5
+p376
+aVCorey Brewer HOU 01/23/2015 HOU @ PHX W 21 14 7 12 58.3 0 2 0.0 0 0 - 1 2 3 0 1 0 0 2 2
+p377
+aVJames Harden HOU 01/23/2015 HOU @ PHX W 40 33 8 18 44.4 3 6 50.0 14 17 82.4 0 6 6 10 3 1 3 4 1
+p378
+aVJason Terry HOU 01/23/2015 HOU @ PHX W 15 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 9
+p379
+aVKostas Papanikolaou HOU 01/23/2015 HOU @ PHX W 17 0 0 4 0.0 0 4 0.0 0 0 - 0 4 4 2 0 1 0 3 -7
+p380
+aVPatrick Beverley HOU 01/23/2015 HOU @ PHX W 34 14 5 13 38.5 4 7 57.1 0 0 - 1 3 4 4 0 1 0 2 -3
+p381
+aVJoey Dorsey HOU 01/23/2015 HOU @ PHX W 20 4 2 2 100.0 0 0 - 0 0 - 0 6 6 0 2 1 1 5 -14
+p382
+aVDwight Howard HOU 01/23/2015 HOU @ PHX W 8 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 0 3
+p383
+aVTrevor Ariza HOU 01/23/2015 HOU @ PHX W 36 11 5 10 50.0 1 4 25.0 0 0 - 2 4 6 4 0 0 2 0 -5
+p384
+aVDonatas Motiejunas HOU 01/23/2015 HOU @ PHX W 23 15 7 11 63.6 0 0 - 1 2 50.0 2 4 6 0 1 0 1 4 15
+p385
+aVJosh Smith HOU 01/23/2015 HOU @ PHX W 26 14 7 11 63.6 0 2 0.0 0 1 0.0 0 3 3 3 0 2 6 1 9
+p386
+aVJoey Dorsey HOU 01/21/2015 HOU @ GSW L 17 7 3 5 60.0 0 0 - 1 2 50.0 4 8 12 2 1 0 1 4 13
+p387
+aVAlexey Shved HOU 01/21/2015 HOU @ GSW L 14 9 3 6 50.0 1 3 33.3 2 2 100.0 0 0 0 1 0 0 1 0 14
+p388
+aVJames Harden HOU 01/21/2015 HOU @ GSW L 32 33 8 18 44.4 3 6 50.0 14 16 87.5 2 2 4 6 2 1 2 2 -22
+p389
+aVDonatas Motiejunas HOU 01/21/2015 HOU @ GSW L 25 4 2 8 25.0 0 0 - 0 0 - 3 0 3 2 0 0 0 2 -15
+p390
+aVKostas Papanikolaou HOU 01/21/2015 HOU @ GSW L 15 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 0 0 2 1 13
+p391
+aVTrevor Ariza HOU 01/21/2015 HOU @ GSW L 27 6 2 9 22.2 2 6 33.3 0 0 - 2 1 3 0 2 0 1 2 -34
+p392
+aVDwight Howard HOU 01/21/2015 HOU @ GSW L 24 7 3 8 37.5 0 0 - 1 2 50.0 4 7 11 0 1 0 5 5 -28
+p393
+aVJason Terry HOU 01/21/2015 HOU @ GSW L 20 14 4 8 50.0 4 6 66.7 2 2 100.0 0 0 0 1 1 1 2 3 12
+p394
+aVPatrick Beverley HOU 01/21/2015 HOU @ GSW L 26 6 3 6 50.0 0 3 0.0 0 0 - 1 2 3 3 1 0 2 3 -28
+p395
+aVJosh Smith HOU 01/21/2015 HOU @ GSW L 14 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 0 1 2 0 -3
+p396
+aVCorey Brewer HOU 01/21/2015 HOU @ GSW L 27 20 6 13 46.2 2 5 40.0 6 7 85.7 1 5 6 3 1 0 1 0 13
+p397
+aVCorey Brewer HOU 01/19/2015 HOU vs. IND W 17 13 6 10 60.0 1 4 25.0 0 0 - 0 1 1 0 0 0 1 1 3
+p398
+aVDwight Howard HOU 01/19/2015 HOU vs. IND W 35 14 4 6 66.7 0 0 - 6 12 50.0 1 16 17 2 0 1 3 5 15
+p399
+aVDonatas Motiejunas HOU 01/19/2015 HOU vs. IND W 34 10 4 8 50.0 0 1 0.0 2 2 100.0 1 8 9 4 0 0 1 5 11
+p400
+aVTrevor Ariza HOU 01/19/2015 HOU vs. IND W 28 9 3 7 42.9 1 5 20.0 2 2 100.0 1 0 1 3 3 0 0 2 9
+p401
+aVJason Terry HOU 01/19/2015 HOU vs. IND W 19 7 3 5 60.0 1 3 33.3 0 1 0.0 0 0 0 3 1 0 2 2 4
+p402
+aVJosh Smith HOU 01/19/2015 HOU vs. IND W 27 6 3 11 27.3 0 2 0.0 0 1 0.0 2 5 7 3 1 0 2 1 -2
+p403
+aVPatrick Beverley HOU 01/19/2015 HOU vs. IND W 29 6 2 6 33.3 2 4 50.0 0 0 - 1 1 2 4 3 0 2 3 8
+p404
+aVKostas Papanikolaou HOU 01/19/2015 HOU vs. IND W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 3 0 -5
+p405
+aVJames Harden HOU 01/19/2015 HOU vs. IND W 40 45 12 18 66.7 7 12 58.3 14 15 93.3 1 0 1 7 4 1 5 0 17
+p406
+aVJason Terry HOU 01/17/2015 HOU vs. GSW L 13 2 0 3 0.0 0 3 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -7
+p407
+aVJosh Smith HOU 01/17/2015 HOU vs. GSW L 17 14 5 10 50.0 1 1 100.0 3 4 75.0 2 1 3 1 0 0 2 1 -16
+p408
+aVKostas Papanikolaou HOU 01/17/2015 HOU vs. GSW L 13 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 2 1 0 0 0 -5
+p409
+aVCorey Brewer HOU 01/17/2015 HOU vs. GSW L 33 9 3 9 33.3 1 3 33.3 2 2 100.0 1 3 4 2 3 1 2 2 -20
+p410
+aVAlexey Shved HOU 01/17/2015 HOU vs. GSW L 5 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 1 0 1 0 -2
+p411
+aVDonatas Motiejunas HOU 01/17/2015 HOU vs. GSW L 22 14 4 8 50.0 1 1 100.0 5 5 100.0 3 4 7 2 1 1 1 4 -3
+p412
+aVDwight Howard HOU 01/17/2015 HOU vs. GSW L 35 23 9 15 60.0 0 0 - 5 7 71.4 1 9 10 3 0 0 4 4 -16
+p413
+aVJames Harden HOU 01/17/2015 HOU vs. GSW L 30 12 4 15 26.7 0 4 0.0 4 7 57.1 1 3 4 4 1 0 3 5 -16
+p414
+aVJoey Dorsey HOU 01/17/2015 HOU vs. GSW L 6 4 2 2 100.0 0 0 - 0 3 0.0 2 0 2 0 0 0 2 1 -4
+p415
+aVTrevor Ariza HOU 01/17/2015 HOU vs. GSW L 30 7 2 5 40.0 1 3 33.3 2 2 100.0 0 3 3 4 0 0 0 2 -18
+p416
+aVPatrick Beverley HOU 01/17/2015 HOU vs. GSW L 35 11 4 13 30.8 2 5 40.0 1 1 100.0 0 2 2 4 3 0 2 3 -18
+p417
+aVCorey Brewer HOU 01/15/2015 HOU vs. OKC W 27 5 2 7 28.6 1 4 25.0 0 0 - 1 1 2 2 0 1 1 2 -9
+p418
+aVDwight Howard HOU 01/15/2015 HOU vs. OKC W 34 13 5 11 45.5 0 0 - 3 4 75.0 2 6 8 1 3 1 1 3 9
+p419
+aVDonatas Motiejunas HOU 01/15/2015 HOU vs. OKC W 29 14 6 12 50.0 2 3 66.7 0 0 - 1 3 4 3 1 0 1 3 19
+p420
+aVPatrick Beverley HOU 01/15/2015 HOU vs. OKC W 32 13 5 11 45.5 3 7 42.9 0 0 - 0 5 5 1 1 1 2 3 5
+p421
+aVJosh Smith HOU 01/15/2015 HOU vs. OKC W 19 13 6 10 60.0 0 1 0.0 1 2 50.0 4 3 7 2 1 0 3 0 5
+p422
+aVAlexey Shved HOU 01/15/2015 HOU vs. OKC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p423
+aVJason Terry HOU 01/15/2015 HOU vs. OKC W 14 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 1 0 1 0 4
+p424
+aVTrevor Ariza HOU 01/15/2015 HOU vs. OKC W 38 17 6 15 40.0 3 9 33.3 2 2 100.0 0 2 2 4 4 0 1 2 5
+p425
+aVJoey Dorsey HOU 01/15/2015 HOU vs. OKC W 2 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 0 0 -1
+p426
+aVKostas Papanikolaou HOU 01/15/2015 HOU vs. OKC W 7 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -4
+p427
+aVJames Harden HOU 01/15/2015 HOU vs. OKC W 37 31 9 15 60.0 6 8 75.0 7 9 77.8 1 8 9 10 1 0 2 3 23
+p428
+aVAlexey Shved HOU 01/14/2015 HOU @ ORL L 14 6 1 5 20.0 1 2 50.0 3 4 75.0 0 1 1 1 0 0 0 1 3
+p429
+aVJames Harden HOU 01/14/2015 HOU @ ORL L 38 26 10 16 62.5 1 5 20.0 5 6 83.3 2 2 4 10 5 1 7 4 -11
+p430
+aVTrevor Ariza HOU 01/14/2015 HOU @ ORL L 34 15 6 7 85.7 3 4 75.0 0 0 - 0 5 5 1 1 1 0 1 -13
+p431
+aVDwight Howard HOU 01/14/2015 HOU @ ORL L 36 23 8 15 53.3 0 0 - 7 7 100.0 2 6 8 3 0 1 2 2 -11
+p432
+aVCorey Brewer HOU 01/14/2015 HOU @ ORL L 25 9 3 9 33.3 1 5 20.0 2 2 100.0 1 2 3 2 3 0 0 3 10
+p433
+aVJosh Smith HOU 01/14/2015 HOU @ ORL L 24 5 2 11 18.2 0 4 0.0 1 2 50.0 4 6 10 5 0 1 4 2 10
+p434
+aVDonatas Motiejunas HOU 01/14/2015 HOU @ ORL L 35 12 5 9 55.6 0 1 0.0 2 2 100.0 1 4 5 4 1 0 3 2 -13
+p435
+aVPatrick Beverley HOU 01/14/2015 HOU @ ORL L 34 17 7 11 63.6 3 5 60.0 0 0 - 0 2 2 0 1 2 4 4 -10
+p436
+aVJoey Dorsey HOU 01/12/2015 HOU @ BKN W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p437
+aVTrevor Ariza HOU 01/12/2015 HOU @ BKN W 28 12 4 6 66.7 3 5 60.0 1 1 100.0 0 4 4 1 1 0 0 0 7
+p438
+aVDwight Howard HOU 01/12/2015 HOU @ BKN W 28 8 3 9 33.3 0 0 - 2 3 66.7 1 4 5 0 1 0 2 3 12
+p439
+aVJames Harden HOU 01/12/2015 HOU @ BKN W 30 30 9 13 69.2 4 7 57.1 8 8 100.0 0 3 3 6 2 0 2 1 19
+p440
+aVJason Terry HOU 01/12/2015 HOU @ BKN W 20 9 3 7 42.9 3 7 42.9 0 0 - 0 1 1 2 0 0 2 2 9
+p441
+aVPatrick Beverley HOU 01/12/2015 HOU @ BKN W 25 11 4 10 40.0 2 8 25.0 1 2 50.0 3 4 7 5 0 0 2 3 7
+p442
+aVKostas Papanikolaou HOU 01/12/2015 HOU @ BKN W 12 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 2 -2
+p443
+aVDonatas Motiejunas HOU 01/12/2015 HOU @ BKN W 37 18 8 11 72.7 1 1 100.0 1 2 50.0 4 7 11 1 0 0 3 2 14
+p444
+aVAlexey Shved HOU 01/12/2015 HOU @ BKN W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p445
+aVCorey Brewer HOU 01/12/2015 HOU @ BKN W 27 7 3 9 33.3 0 5 0.0 1 2 50.0 1 1 2 4 3 0 1 2 4
+p446
+aVJosh Smith HOU 01/12/2015 HOU @ BKN W 27 13 5 15 33.3 2 4 50.0 1 2 50.0 3 3 6 3 1 2 2 3 4
+p447
+aVKostas Papanikolaou HOU 01/10/2015 HOU vs. UTA W 14 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 1 0 3 0 -10
+p448
+aVAlexey Shved HOU 01/10/2015 HOU vs. UTA W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p449
+aVJoey Dorsey HOU 01/10/2015 HOU vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p450
+aVJosh Smith HOU 01/10/2015 HOU vs. UTA W 21 10 4 10 40.0 0 1 0.0 2 2 100.0 0 3 3 2 0 1 0 1 6
+p451
+aVJames Harden HOU 01/10/2015 HOU vs. UTA W 34 30 8 14 57.1 4 8 50.0 10 11 90.9 1 2 3 5 1 1 6 3 25
+p452
+aVTrevor Ariza HOU 01/10/2015 HOU vs. UTA W 28 10 3 9 33.3 2 5 40.0 2 2 100.0 1 2 3 3 5 0 2 2 11
+p453
+aVPatrick Beverley HOU 01/10/2015 HOU vs. UTA W 29 10 3 13 23.1 2 7 28.6 2 2 100.0 2 2 4 7 2 0 1 3 9
+p454
+aVDonatas Motiejunas HOU 01/10/2015 HOU vs. UTA W 36 14 6 8 75.0 1 2 50.0 1 2 50.0 2 8 10 1 3 0 4 2 29
+p455
+aVJason Terry HOU 01/10/2015 HOU vs. UTA W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 4 1 0 0 3 6
+p456
+aVCorey Brewer HOU 01/10/2015 HOU vs. UTA W 19 9 3 9 33.3 2 6 33.3 1 2 50.0 0 1 1 1 2 0 1 2 6
+p457
+aVIsaiah Canaan HOU 01/10/2015 HOU vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p458
+aVDwight Howard HOU 01/10/2015 HOU vs. UTA W 37 8 4 9 44.4 0 0 - 0 0 - 2 6 8 1 1 1 3 4 -1
+p459
+aVJoey Dorsey HOU 01/08/2015 HOU @ NYK W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 0 1 0 3 5
+p460
+aVJames Harden HOU 01/08/2015 HOU @ NYK W 31 25 8 17 47.1 3 7 42.9 6 6 100.0 0 4 4 9 3 0 3 2 32
+p461
+aVKostas Papanikolaou HOU 01/08/2015 HOU @ NYK W 17 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 1 1 0 2 0 -8
+p462
+aVDwight Howard HOU 01/08/2015 HOU @ NYK W 24 13 4 6 66.7 0 0 - 5 8 62.5 4 6 10 1 2 1 3 3 19
+p463
+aVDonatas Motiejunas HOU 01/08/2015 HOU @ NYK W 36 17 7 10 70.0 0 1 0.0 3 7 42.9 2 5 7 3 4 0 3 3 31
+p464
+aVJason Terry HOU 01/08/2015 HOU @ NYK W 22 14 5 7 71.4 3 5 60.0 1 1 100.0 0 2 2 2 1 0 0 0 -3
+p465
+aVCorey Brewer HOU 01/08/2015 HOU @ NYK W 22 11 3 10 30.0 1 6 16.7 4 4 100.0 0 2 2 3 0 1 2 1 -3
+p466
+aVPatrick Beverley HOU 01/08/2015 HOU @ NYK W 26 14 5 9 55.6 4 6 66.7 0 0 - 0 2 2 3 1 0 0 4 27
+p467
+aVIsaiah Canaan HOU 01/08/2015 HOU @ NYK W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 1
+p468
+aVTrevor Ariza HOU 01/08/2015 HOU @ NYK W 26 18 6 10 60.0 4 6 66.7 2 2 100.0 0 1 1 1 1 0 2 1 27
+p469
+aVJosh Smith HOU 01/08/2015 HOU @ NYK W 20 2 1 3 33.3 0 1 0.0 0 2 0.0 0 1 1 1 1 2 3 5 -8
+p470
+aVCorey Brewer HOU 01/07/2015 HOU @ CLE W 21 12 4 8 50.0 2 3 66.7 2 2 100.0 1 0 1 3 2 0 0 2 16
+p471
+aVDwight Howard HOU 01/07/2015 HOU @ CLE W 37 17 6 13 46.2 0 0 - 5 11 45.5 10 9 19 2 0 1 4 5 2
+p472
+aVJosh Smith HOU 01/07/2015 HOU @ CLE W 26 16 7 10 70.0 1 2 50.0 1 4 25.0 0 5 5 2 0 2 2 2 21
+p473
+aVTrevor Ariza HOU 01/07/2015 HOU @ CLE W 36 13 5 13 38.5 3 10 30.0 0 0 - 2 4 6 3 5 0 0 2 -3
+p474
+aVDonatas Motiejunas HOU 01/07/2015 HOU @ CLE W 27 10 5 10 50.0 0 1 0.0 0 0 - 2 0 2 1 0 0 1 3 4
+p475
+aVJames Harden HOU 01/07/2015 HOU @ CLE W 33 21 6 18 33.3 2 7 28.6 7 7 100.0 2 5 7 9 1 0 7 0 7
+p476
+aVJason Terry HOU 01/07/2015 HOU @ CLE W 24 6 2 3 66.7 2 3 66.7 0 0 - 0 4 4 4 1 0 2 3 7
+p477
+aVPatrick Beverley HOU 01/07/2015 HOU @ CLE W 30 7 3 10 30.0 1 7 14.3 0 0 - 2 4 6 2 0 0 1 5 8
+p478
+aVIsaiah Canaan HOU 01/07/2015 HOU @ CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p479
+aVKostas Papanikolaou HOU 01/07/2015 HOU @ CLE W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p480
+aVJosh Smith HOU 01/05/2015 HOU @ CHI L 26 21 10 20 50.0 1 5 20.0 0 0 - 4 2 6 2 3 0 4 3 -19
+p481
+aVDwight Howard HOU 01/05/2015 HOU @ CHI L 41 12 6 13 46.2 0 0 - 0 1 0.0 4 10 14 1 0 1 4 3 0
+p482
+aVPatrick Beverley HOU 01/05/2015 HOU @ CHI L 31 14 7 12 58.3 0 1 0.0 0 0 - 5 1 6 6 1 2 0 5 -8
+p483
+aVKostas Papanikolaou HOU 01/05/2015 HOU @ CHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p484
+aVJason Terry HOU 01/05/2015 HOU @ CHI L 17 8 3 3 100.0 2 2 100.0 0 1 0.0 0 0 0 3 0 0 2 2 -1
+p485
+aVJames Harden HOU 01/05/2015 HOU @ CHI L 38 20 7 22 31.8 3 8 37.5 3 3 100.0 0 2 2 4 1 2 2 4 -10
+p486
+aVTrevor Ariza HOU 01/05/2015 HOU @ CHI L 34 7 3 11 27.3 1 4 25.0 0 0 - 1 5 6 5 3 2 2 4 -2
+p487
+aVDonatas Motiejunas HOU 01/05/2015 HOU @ CHI L 27 16 8 14 57.1 0 2 0.0 0 0 - 2 4 6 3 1 1 1 4 5
+p488
+aVCorey Brewer HOU 01/05/2015 HOU @ CHI L 19 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 1 -5
+p489
+aVPatrick Beverley HOU 01/03/2015 HOU vs. MIA W 24 11 3 5 60.0 3 4 75.0 2 2 100.0 1 1 2 2 0 0 1 3 16
+p490
+aVTrevor Ariza HOU 01/03/2015 HOU vs. MIA W 23 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 4 6 0 3 2 16
+p491
+aVDonatas Motiejunas HOU 01/03/2015 HOU vs. MIA W 27 12 5 11 45.5 0 2 0.0 2 3 66.7 2 0 2 3 2 0 2 4 8
+p492
+aVDwight Howard HOU 01/03/2015 HOU vs. MIA W 26 23 9 13 69.2 0 0 - 5 9 55.6 4 9 13 0 0 0 2 2 35
+p493
+aVKostas Papanikolaou HOU 01/03/2015 HOU vs. MIA W 23 2 1 6 16.7 0 1 0.0 0 0 - 5 2 7 1 2 0 2 1 22
+p494
+aVJames Harden HOU 01/03/2015 HOU vs. MIA W 28 28 9 17 52.9 3 6 50.0 7 7 100.0 1 4 5 2 1 0 3 1 15
+p495
+aVJosh Smith HOU 01/03/2015 HOU vs. MIA W 28 12 6 9 66.7 0 1 0.0 0 2 0.0 2 5 7 2 0 1 3 3 26
+p496
+aVCorey Brewer HOU 01/03/2015 HOU vs. MIA W 25 11 3 7 42.9 3 7 42.9 2 2 100.0 0 4 4 3 2 0 0 2 20
+p497
+aVIsaiah Canaan HOU 01/03/2015 HOU vs. MIA W 7 8 2 4 50.0 2 3 66.7 2 3 66.7 1 2 3 1 0 0 0 0 4
+p498
+aVJason Terry HOU 01/03/2015 HOU vs. MIA W 20 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 3 0 0 0 0 14
+p499
+aVJoey Dorsey HOU 01/03/2015 HOU vs. MIA W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 4
+p500
+aVKostas Papanikolaou HOU 01/02/2015 HOU @ NOP L 22 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 4 1 0 0 3 -5
+p501
+aVJames Harden HOU 01/02/2015 HOU @ NOP L 25 11 5 13 38.5 1 6 16.7 0 0 - 1 1 2 3 2 0 5 3 -20
+p502
+aVIsaiah Canaan HOU 01/02/2015 HOU @ NOP L 12 5 1 3 33.3 1 3 33.3 2 2 100.0 0 1 1 2 0 0 1 0 1
+p503
+aVTrevor Ariza HOU 01/02/2015 HOU @ NOP L 22 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 0 1 0 1 0 -21
+p504
+aVPatrick Beverley HOU 01/02/2015 HOU @ NOP L 18 3 1 7 14.3 1 3 33.3 0 0 - 1 2 3 3 2 0 0 1 -17
+p505
+aVDonatas Motiejunas HOU 01/02/2015 HOU @ NOP L 22 10 4 6 66.7 1 1 100.0 1 2 50.0 2 4 6 2 0 1 0 2 -15
+p506
+aVJoey Dorsey HOU 01/02/2015 HOU @ NOP L 23 4 2 6 33.3 0 0 - 0 0 - 6 4 10 1 3 0 1 4 -6
+p507
+aVCorey Brewer HOU 01/02/2015 HOU @ NOP L 27 12 4 12 33.3 0 5 0.0 4 4 100.0 0 2 2 1 0 0 2 2 -16
+p508
+aVNick Johnson HOU 01/02/2015 HOU @ NOP L 14 6 3 5 60.0 0 0 - 0 2 0.0 0 0 0 1 1 1 0 1 -2
+p509
+aVDwight Howard HOU 01/02/2015 HOU @ NOP L 22 12 6 8 75.0 0 0 - 0 1 0.0 2 3 5 0 0 1 3 0 -20
+p510
+aVJosh Smith HOU 01/02/2015 HOU @ NOP L 17 8 4 11 36.4 0 2 0.0 0 0 - 0 2 2 2 1 0 4 4 -10
+p511
+aVJason Terry HOU 01/02/2015 HOU @ NOP L 16 7 3 7 42.9 1 5 20.0 0 0 - 0 2 2 3 2 0 2 2 -9
+p512
+aVIsaiah Canaan HOU 12/31/2014 HOU vs. CHA W 2 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 -1
+p513
+aVDonatas Motiejunas HOU 12/31/2014 HOU vs. CHA W 24 12 5 13 38.5 0 1 0.0 2 2 100.0 1 3 4 1 0 0 3 2 6
+p514
+aVDwight Howard HOU 12/31/2014 HOU vs. CHA W 29 11 5 5 100.0 0 0 - 1 3 33.3 1 7 8 1 0 1 6 4 16
+p515
+aVKostas Papanikolaou HOU 12/31/2014 HOU vs. CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p516
+aVTrevor Ariza HOU 12/31/2014 HOU vs. CHA W 36 10 4 12 33.3 1 9 11.1 1 1 100.0 1 2 3 4 3 0 0 4 20
+p517
+aVCorey Brewer HOU 12/31/2014 HOU vs. CHA W 22 5 2 8 25.0 1 4 25.0 0 0 - 1 2 3 2 0 0 1 1 4
+p518
+aVJoey Dorsey HOU 12/31/2014 HOU vs. CHA W 15 1 0 0 - 0 0 - 1 2 50.0 2 3 5 0 1 0 1 5 1
+p519
+aVJason Terry HOU 12/31/2014 HOU vs. CHA W 19 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 2 1 1 0 3 11
+p520
+aVPatrick Beverley HOU 12/31/2014 HOU vs. CHA W 27 14 5 16 31.3 4 12 33.3 0 0 - 3 1 4 3 0 1 1 2 9
+p521
+aVJosh Smith HOU 12/31/2014 HOU vs. CHA W 28 5 2 7 28.6 1 2 50.0 0 2 0.0 0 4 4 3 3 3 1 3 15
+p522
+aVJames Harden HOU 12/31/2014 HOU vs. CHA W 33 36 12 19 63.2 8 11 72.7 4 4 100.0 0 7 7 6 2 1 1 1 16
+p523
+aVNick Johnson HOU 12/31/2014 HOU vs. CHA W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p524
+aVJames Harden HOU 12/29/2014 HOU vs. WAS L 36 33 12 23 52.2 3 8 37.5 6 7 85.7 1 5 6 4 1 0 2 3 -13
+p525
+aVJason Terry HOU 12/29/2014 HOU vs. WAS L 19 6 3 5 60.0 0 0 - 0 0 - 0 2 2 4 1 0 0 0 20
+p526
+aVTrevor Ariza HOU 12/29/2014 HOU vs. WAS L 38 15 6 15 40.0 2 8 25.0 1 1 100.0 2 3 5 1 1 0 4 3 -9
+p527
+aVDwight Howard HOU 12/29/2014 HOU vs. WAS L 29 13 6 11 54.5 0 0 - 1 3 33.3 1 4 5 0 0 0 1 2 -26
+p528
+aVJosh Smith HOU 12/29/2014 HOU vs. WAS L 23 3 1 6 16.7 0 1 0.0 1 4 25.0 1 3 4 0 1 0 4 0 1
+p529
+aVJoey Dorsey HOU 12/29/2014 HOU vs. WAS L 19 5 2 2 100.0 0 0 - 1 2 50.0 3 3 6 0 3 0 3 3 23
+p530
+aVDonatas Motiejunas HOU 12/29/2014 HOU vs. WAS L 20 3 1 3 33.3 0 1 0.0 1 2 50.0 2 4 6 3 2 0 1 3 -1
+p531
+aVCorey Brewer HOU 12/29/2014 HOU vs. WAS L 28 15 5 13 38.5 2 5 40.0 3 4 75.0 0 0 0 3 2 1 1 1 21
+p532
+aVPatrick Beverley HOU 12/29/2014 HOU vs. WAS L 29 10 4 8 50.0 2 6 33.3 0 0 - 2 2 4 4 0 0 2 5 -21
+p533
+aVDwight Howard HOU 12/28/2014 HOU @ SAS L 38 24 11 13 84.6 0 0 - 2 7 28.6 5 12 17 1 1 1 4 3 1
+p534
+aVPatrick Beverley HOU 12/28/2014 HOU @ SAS L 32 5 2 10 20.0 1 7 14.3 0 0 - 1 2 3 4 2 0 2 2 -7
+p535
+aVJosh Smith HOU 12/28/2014 HOU @ SAS L 26 5 2 7 28.6 0 1 0.0 1 2 50.0 1 7 8 1 3 0 4 5 -11
+p536
+aVJames Harden HOU 12/28/2014 HOU @ SAS L 36 28 10 18 55.6 3 6 50.0 5 6 83.3 1 1 2 5 2 0 9 5 -14
+p537
+aVJoey Dorsey HOU 12/28/2014 HOU @ SAS L 7 1 0 0 - 0 0 - 1 4 25.0 1 0 1 1 1 0 0 1 4
+p538
+aVCorey Brewer HOU 12/28/2014 HOU @ SAS L 24 25 8 11 72.7 6 8 75.0 3 4 75.0 1 1 2 1 0 0 3 1 -6
+p539
+aVTrevor Ariza HOU 12/28/2014 HOU @ SAS L 37 7 2 9 22.2 1 6 16.7 2 2 100.0 1 2 3 2 3 0 1 4 13
+p540
+aVDonatas Motiejunas HOU 12/28/2014 HOU @ SAS L 25 11 3 5 60.0 1 1 100.0 4 6 66.7 1 4 5 2 1 0 1 3 -6
+p541
+aVJason Terry HOU 12/28/2014 HOU @ SAS L 17 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 3 2 0 0 0 6
+p542
+aVJason Terry HOU 12/26/2014 HOU @ MEM W 19 9 3 6 50.0 3 6 50.0 0 0 - 0 4 4 3 0 0 1 1 -2
+p543
+aVTrevor Ariza HOU 12/26/2014 HOU @ MEM W 40 15 5 13 38.5 4 10 40.0 1 2 50.0 1 9 10 1 2 1 2 4 16
+p544
+aVJosh Smith HOU 12/26/2014 HOU @ MEM W 32 21 9 21 42.9 0 2 0.0 3 3 100.0 4 4 8 3 0 0 2 3 15
+p545
+aVPatrick Beverley HOU 12/26/2014 HOU @ MEM W 35 12 5 12 41.7 2 5 40.0 0 0 - 2 2 4 5 0 0 1 3 6
+p546
+aVDwight Howard HOU 12/26/2014 HOU @ MEM W 29 6 1 4 25.0 0 0 - 4 8 50.0 2 9 11 1 0 0 3 5 -2
+p547
+aVAlexey Shved HOU 12/26/2014 HOU @ MEM W 7 3 0 2 0.0 0 2 0.0 3 4 75.0 1 0 1 0 0 0 0 1 -6
+p548
+aVCorey Brewer HOU 12/26/2014 HOU @ MEM W 23 13 5 10 50.0 3 5 60.0 0 0 - 1 1 2 0 0 1 1 3 -4
+p549
+aVJames Harden HOU 12/26/2014 HOU @ MEM W 41 32 10 17 58.8 2 4 50.0 10 11 90.9 1 7 8 10 0 3 2 1 9
+p550
+aVDonatas Motiejunas HOU 12/26/2014 HOU @ MEM W 31 4 2 4 50.0 0 0 - 0 0 - 1 5 6 2 0 2 2 1 -2
+p551
+aVJoey Dorsey HOU 12/26/2014 HOU @ MEM W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p552
+aVDwight Howard HOU 12/22/2014 HOU vs. POR W 33 16 7 11 63.6 0 0 - 2 2 100.0 1 12 13 4 1 0 2 2 8
+p553
+aVDonatas Motiejunas HOU 12/22/2014 HOU vs. POR W 27 10 4 9 44.4 1 3 33.3 1 2 50.0 2 6 8 1 0 1 3 3 13
+p554
+aVCorey Brewer HOU 12/22/2014 HOU vs. POR W 23 12 5 10 50.0 2 4 50.0 0 1 0.0 0 4 4 4 5 1 2 2 23
+p555
+aVJason Terry HOU 12/22/2014 HOU vs. POR W 14 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 0 0 2 2 -5
+p556
+aVJames Harden HOU 12/22/2014 HOU vs. POR W 32 44 14 26 53.8 4 9 44.4 12 13 92.3 0 3 3 7 5 0 1 2 19
+p557
+aVTrevor Ariza HOU 12/22/2014 HOU vs. POR W 32 7 3 9 33.3 1 6 16.7 0 0 - 2 4 6 1 0 0 1 1 13
+p558
+aVKostas Papanikolaou HOU 12/22/2014 HOU vs. POR W 17 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 3 4 0
+p559
+aVJoey Dorsey HOU 12/22/2014 HOU vs. POR W 9 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 1 1 0 0 2 2
+p560
+aVTarik Black HOU 12/22/2014 HOU vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p561
+aVAlexey Shved HOU 12/22/2014 HOU vs. POR W 11 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 -2
+p562
+aVPatrick Beverley HOU 12/22/2014 HOU vs. POR W 30 11 4 9 44.4 3 6 50.0 0 0 - 2 3 5 1 2 1 1 4 22
+p563
+aVIsaiah Canaan HOU 12/22/2014 HOU vs. POR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p564
+aVNick Johnson HOU 12/22/2014 HOU vs. POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p565
+aVJames Harden HOU 12/20/2014 HOU vs. ATL L 39 18 5 16 31.3 2 7 28.6 6 6 100.0 1 5 6 14 1 1 3 5 2
+p566
+aVPatrick Beverley HOU 12/20/2014 HOU vs. ATL L 41 14 5 14 35.7 4 9 44.4 0 0 - 3 4 7 3 1 0 3 6 -12
+p567
+aVKostas Papanikolaou HOU 12/20/2014 HOU vs. ATL L 17 4 1 5 20.0 1 3 33.3 1 2 50.0 1 1 2 3 0 0 0 0 1
+p568
+aVJason Terry HOU 12/20/2014 HOU vs. ATL L 22 14 5 13 38.5 4 10 40.0 0 0 - 0 3 3 0 1 0 3 0 -8
+p569
+aVNick Johnson HOU 12/20/2014 HOU vs. ATL L 9 7 2 3 66.7 1 2 50.0 2 2 100.0 2 1 3 0 0 0 2 2 5
+p570
+aVTarik Black HOU 12/20/2014 HOU vs. ATL L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -12
+p571
+aVTrevor Ariza HOU 12/20/2014 HOU vs. ATL L 41 13 5 14 35.7 3 9 33.3 0 0 - 1 2 3 1 2 1 1 4 -7
+p572
+aVDonatas Motiejunas HOU 12/20/2014 HOU vs. ATL L 25 8 4 11 36.4 0 3 0.0 0 2 0.0 3 4 7 1 1 1 0 1 -6
+p573
+aVDwight Howard HOU 12/20/2014 HOU vs. ATL L 42 19 7 10 70.0 0 0 - 5 6 83.3 4 7 11 5 2 1 4 5 2
+p574
+aVTarik Black HOU 12/18/2014 HOU vs. NOP L 9 5 1 1 100.0 0 0 - 3 4 75.0 1 1 2 0 1 0 0 1 -3
+p575
+aVTroy Daniels HOU 12/18/2014 HOU vs. NOP L 16 9 3 4 75.0 3 4 75.0 0 0 - 0 3 3 0 0 0 0 0 -3
+p576
+aVDwight Howard HOU 12/18/2014 HOU vs. NOP L 35 17 7 15 46.7 0 0 - 3 5 60.0 2 11 13 2 0 3 3 4 -2
+p577
+aVIsaiah Canaan HOU 12/18/2014 HOU vs. NOP L 11 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -9
+p578
+aVDonatas Motiejunas HOU 12/18/2014 HOU vs. NOP L 23 9 4 13 30.8 0 2 0.0 1 1 100.0 3 1 4 2 0 0 1 2 -13
+p579
+aVJames Harden HOU 12/18/2014 HOU vs. NOP L 34 21 8 23 34.8 2 7 28.6 3 5 60.0 2 5 7 5 0 0 4 4 -10
+p580
+aVPatrick Beverley HOU 12/18/2014 HOU vs. NOP L 37 9 2 8 25.0 1 7 14.3 4 4 100.0 1 2 3 4 3 1 2 4 0
+p581
+aVKostas Papanikolaou HOU 12/18/2014 HOU vs. NOP L 23 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 4 0 0 0 0 4
+p582
+aVJoey Dorsey HOU 12/18/2014 HOU vs. NOP L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p583
+aVTrevor Ariza HOU 12/18/2014 HOU vs. NOP L 40 10 4 12 33.3 0 4 0.0 2 2 100.0 2 6 8 1 4 0 0 2 -3
+p584
+aVJames Harden HOU 12/17/2014 HOU @ DEN W 45 41 11 21 52.4 1 7 14.3 18 21 85.7 1 3 4 10 2 0 4 2 11
+p585
+aVDonatas Motiejunas HOU 12/17/2014 HOU @ DEN W 42 18 7 13 53.8 3 5 60.0 1 3 33.3 1 5 6 0 1 1 2 2 5
+p586
+aVPatrick Beverley HOU 12/17/2014 HOU @ DEN W 46 12 3 9 33.3 0 2 0.0 6 6 100.0 1 11 12 5 3 0 0 5 9
+p587
+aVIsaiah Canaan HOU 12/17/2014 HOU @ DEN W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p588
+aVTarik Black HOU 12/17/2014 HOU @ DEN W 19 2 1 3 33.3 0 0 - 0 0 - 2 5 7 0 1 0 1 2 -18
+p589
+aVNick Johnson HOU 12/17/2014 HOU @ DEN W 17 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 3 5 -12
+p590
+aVTrevor Ariza HOU 12/17/2014 HOU @ DEN W 46 13 4 15 26.7 3 11 27.3 2 3 66.7 1 7 8 1 0 0 2 2 14
+p591
+aVDwight Howard HOU 12/17/2014 HOU @ DEN W 43 24 7 16 43.8 0 0 - 10 15 66.7 4 12 16 1 0 4 4 4 17
+p592
+aVJoey Dorsey HOU 12/17/2014 HOU @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p593
+aVTrevor Ariza HOU 12/13/2014 HOU vs. DEN W 42 13 4 14 28.6 3 11 27.3 2 4 50.0 3 5 8 2 2 0 0 3 24
+p594
+aVJason Terry HOU 12/13/2014 HOU vs. DEN W 25 8 3 9 33.3 2 8 25.0 0 0 - 0 1 1 0 1 0 3 1 -10
+p595
+aVDonatas Motiejunas HOU 12/13/2014 HOU vs. DEN W 32 25 11 19 57.9 2 4 50.0 1 2 50.0 2 3 5 1 1 0 1 3 8
+p596
+aVJoey Dorsey HOU 12/13/2014 HOU vs. DEN W 15 0 0 0 - 0 0 - 0 0 - 3 5 8 0 0 1 1 2 -20
+p597
+aVPatrick Beverley HOU 12/13/2014 HOU vs. DEN W 35 9 4 9 44.4 1 4 25.0 0 0 - 0 2 2 3 2 1 3 5 22
+p598
+aVDwight Howard HOU 12/13/2014 HOU vs. DEN W 30 26 9 11 81.8 0 0 - 8 17 47.1 3 10 13 2 1 3 2 3 35
+p599
+aVJames Harden HOU 12/13/2014 HOU vs. DEN W 38 24 7 20 35.0 2 5 40.0 8 9 88.9 0 10 10 10 1 2 3 3 8
+p600
+aVTarik Black HOU 12/13/2014 HOU vs. DEN W 7 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 0 -6
+p601
+aVTroy Daniels HOU 12/13/2014 HOU vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p602
+aVNick Johnson HOU 12/13/2014 HOU vs. DEN W 14 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 2
+p603
+aVJames Harden HOU 12/11/2014 HOU @ SAC W 48 44 14 32 43.8 3 10 30.0 13 15 86.7 0 4 4 8 3 1 2 2 12
+p604
+aVDonatas Motiejunas HOU 12/11/2014 HOU @ SAC W 30 14 6 11 54.5 0 1 0.0 2 2 100.0 2 1 3 1 1 1 1 6 -14
+p605
+aVPatrick Beverley HOU 12/11/2014 HOU @ SAC W 40 15 5 12 41.7 4 8 50.0 1 4 25.0 4 6 10 5 1 0 2 3 -7
+p606
+aVTrevor Ariza HOU 12/11/2014 HOU @ SAC W 43 15 4 13 30.8 3 10 30.0 4 4 100.0 2 5 7 0 3 0 2 4 -4
+p607
+aVNick Johnson HOU 12/11/2014 HOU @ SAC W 8 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 0 1 1 1
+p608
+aVJason Terry HOU 12/11/2014 HOU @ SAC W 35 13 4 12 33.3 3 10 30.0 2 2 100.0 0 0 0 0 0 0 1 2 7
+p609
+aVTarik Black HOU 12/11/2014 HOU @ SAC W 16 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 0 0 1 4 1
+p610
+aVJoey Dorsey HOU 12/11/2014 HOU @ SAC W 33 0 0 2 0.0 0 0 - 0 4 0.0 2 7 9 2 5 1 3 5 12
+p611
+aVTroy Daniels HOU 12/11/2014 HOU @ SAC W 12 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 1 0 0 1 0 12
+p612
+aVTarik Black HOU 12/10/2014 HOU @ GSW L 20 6 3 3 100.0 0 0 - 0 0 - 2 4 6 1 0 0 0 1 -2
+p613
+aVNick Johnson HOU 12/10/2014 HOU @ GSW L 19 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 0 0 1 1 1 -6
+p614
+aVTroy Daniels HOU 12/10/2014 HOU @ GSW L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p615
+aVTrevor Ariza HOU 12/10/2014 HOU @ GSW L 43 18 5 15 33.3 4 12 33.3 4 6 66.7 0 6 6 1 1 0 1 2 -11
+p616
+aVJames Harden HOU 12/10/2014 HOU @ GSW L 40 34 14 27 51.9 3 8 37.5 3 4 75.0 1 6 7 4 4 0 5 3 -5
+p617
+aVDonatas Motiejunas HOU 12/10/2014 HOU @ GSW L 35 18 8 17 47.1 0 1 0.0 2 4 50.0 4 3 7 2 0 1 3 2 -9
+p618
+aVPatrick Beverley HOU 12/10/2014 HOU @ GSW L 40 12 5 15 33.3 2 7 28.6 0 0 - 1 6 7 6 2 0 2 4 -11
+p619
+aVJason Terry HOU 12/10/2014 HOU @ GSW L 28 2 1 7 14.3 0 5 0.0 0 0 - 0 3 3 1 1 0 2 1 -20
+p620
+aVClint Capela HOU 12/10/2014 HOU @ GSW L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p621
+aVJoey Dorsey HOU 12/10/2014 HOU @ GSW L 12 3 1 2 50.0 0 0 - 1 1 100.0 2 3 5 0 1 0 1 3 10
+p622
+aVFrancisco Garcia HOU 12/06/2014 HOU vs. PHX W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 1 1 7
+p623
+aVDonatas Motiejunas HOU 12/06/2014 HOU vs. PHX W 35 16 7 12 58.3 0 0 - 2 4 50.0 3 8 11 1 0 3 4 3 1
+p624
+aVJoey Dorsey HOU 12/06/2014 HOU vs. PHX W 10 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 6
+p625
+aVJames Harden HOU 12/06/2014 HOU vs. PHX W 39 15 5 21 23.8 1 9 11.1 4 5 80.0 1 11 12 7 2 3 6 1 3
+p626
+aVTrevor Ariza HOU 12/06/2014 HOU vs. PHX W 43 19 5 15 33.3 2 6 33.3 7 8 87.5 3 4 7 1 0 0 6 2 1
+p627
+aVJason Terry HOU 12/06/2014 HOU vs. PHX W 39 13 5 9 55.6 3 3 100.0 0 0 - 0 2 2 2 2 0 2 3 -4
+p628
+aVNick Johnson HOU 12/06/2014 HOU vs. PHX W 22 8 1 4 25.0 0 0 - 6 8 75.0 0 3 3 1 1 0 0 2 -3
+p629
+aVTarik Black HOU 12/06/2014 HOU vs. PHX W 17 6 3 5 60.0 0 0 - 0 0 - 8 2 10 1 0 0 1 5 6
+p630
+aVPatrick Beverley HOU 12/06/2014 HOU vs. PHX W 27 19 5 12 41.7 5 8 62.5 4 6 66.7 3 3 6 3 1 1 2 4 8
+p631
+aVClint Capela HOU 12/05/2014 HOU @ MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p632
+aVJames Harden HOU 12/05/2014 HOU @ MIN W 37 38 11 17 64.7 3 5 60.0 13 14 92.9 0 4 4 6 0 0 8 6 7
+p633
+aVTarik Black HOU 12/05/2014 HOU @ MIN W 17 6 2 3 66.7 0 0 - 2 4 50.0 0 4 4 1 0 0 3 3 8
+p634
+aVFrancisco Garcia HOU 12/05/2014 HOU @ MIN W 22 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 3 0 0 3 3 -6
+p635
+aVJoey Dorsey HOU 12/05/2014 HOU @ MIN W 14 0 0 2 0.0 0 0 - 0 0 - 3 4 7 1 0 2 1 4 1
+p636
+aVTrevor Ariza HOU 12/05/2014 HOU @ MIN W 44 17 6 15 40.0 5 12 41.7 0 0 - 1 8 9 1 1 0 3 3 1
+p637
+aVJason Terry HOU 12/05/2014 HOU @ MIN W 43 19 7 16 43.8 3 8 37.5 2 3 66.7 0 4 4 6 1 0 0 2 -4
+p638
+aVKostas Papanikolaou HOU 12/05/2014 HOU @ MIN W 26 10 5 6 83.3 0 1 0.0 0 0 - 3 1 4 1 0 1 0 4 -13
+p639
+aVNick Johnson HOU 12/05/2014 HOU @ MIN W 22 6 1 5 20.0 0 2 0.0 4 4 100.0 0 2 2 0 1 0 0 2 10
+p640
+aVDonatas Motiejunas HOU 12/05/2014 HOU @ MIN W 40 13 4 8 50.0 0 0 - 5 6 83.3 0 8 8 0 0 0 4 1 6
+p641
+aVJason Terry HOU 12/03/2014 HOU vs. MEM W 31 16 5 10 50.0 3 7 42.9 3 5 60.0 0 3 3 5 4 0 2 2 9
+p642
+aVKostas Papanikolaou HOU 12/03/2014 HOU vs. MEM W 25 12 6 14 42.9 0 2 0.0 0 0 - 2 2 4 3 1 0 0 2 -9
+p643
+aVJames Harden HOU 12/03/2014 HOU vs. MEM W 28 21 6 11 54.5 2 5 40.0 7 8 87.5 1 3 4 4 3 1 3 3 21
+p644
+aVFrancisco Garcia HOU 12/03/2014 HOU vs. MEM W 21 6 2 4 50.0 2 2 100.0 0 0 - 1 0 1 4 0 1 0 2 5
+p645
+aVTarik Black HOU 12/03/2014 HOU vs. MEM W 23 10 5 9 55.6 0 0 - 0 0 - 9 2 11 0 0 0 0 3 17
+p646
+aVNick Johnson HOU 12/03/2014 HOU vs. MEM W 19 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 2 1 0 3 5 3
+p647
+aVClint Capela HOU 12/03/2014 HOU vs. MEM W 4 0 0 6 0.0 0 0 - 0 2 0.0 3 0 3 0 1 1 2 1 -11
+p648
+aVJoey Dorsey HOU 12/03/2014 HOU vs. MEM W 22 7 3 3 100.0 0 0 - 1 2 50.0 2 6 8 1 1 3 1 3 -11
+p649
+aVDonatas Motiejunas HOU 12/03/2014 HOU vs. MEM W 25 15 7 10 70.0 1 1 100.0 0 1 0.0 3 4 7 2 0 1 4 3 21
+p650
+aVTroy Daniels HOU 12/03/2014 HOU vs. MEM W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 2 -14
+p651
+aVTrevor Ariza HOU 12/03/2014 HOU vs. MEM W 34 16 6 18 33.3 2 8 25.0 2 2 100.0 2 5 7 1 3 1 3 0 14
+p652
+aVTrevor Ariza HOU 11/29/2014 HOU @ MIL W 41 14 5 18 27.8 4 12 33.3 0 0 - 1 9 10 3 2 0 3 4 18
+p653
+aVKostas Papanikolaou HOU 11/29/2014 HOU @ MIL W 29 12 5 6 83.3 2 2 100.0 0 0 - 1 2 3 4 1 0 1 4 5
+p654
+aVJason Terry HOU 11/29/2014 HOU @ MIL W 35 18 7 15 46.7 4 8 50.0 0 0 - 2 4 6 5 0 0 0 2 21
+p655
+aVJames Harden HOU 11/29/2014 HOU @ MIL W 38 34 9 14 64.3 4 5 80.0 12 13 92.3 2 4 6 7 4 1 5 4 14
+p656
+aVFrancisco Garcia HOU 11/29/2014 HOU @ MIL W 18 2 1 7 14.3 0 6 0.0 0 0 - 0 2 2 1 0 1 1 0 -4
+p657
+aVJoey Dorsey HOU 11/29/2014 HOU @ MIL W 13 4 2 2 100.0 0 0 - 0 0 - 2 3 5 0 0 3 1 3 1
+p658
+aVTroy Daniels HOU 11/29/2014 HOU @ MIL W 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p659
+aVDonatas Motiejunas HOU 11/29/2014 HOU @ MIL W 31 20 9 13 69.2 0 1 0.0 2 3 66.7 2 4 6 5 0 0 0 3 16
+p660
+aVTarik Black HOU 11/29/2014 HOU @ MIL W 21 8 4 6 66.7 0 0 - 0 0 - 3 2 5 1 0 0 0 3 8
+p661
+aVNick Johnson HOU 11/29/2014 HOU @ MIL W 13 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 0 0 2 1 -7
+p662
+aVIsaiah Canaan HOU 11/28/2014 HOU vs. LAC L 15 13 4 8 50.0 3 6 50.0 2 3 66.7 0 2 2 0 0 0 0 1 3
+p663
+aVJames Harden HOU 11/28/2014 HOU vs. LAC L 38 16 5 12 41.7 0 4 0.0 6 6 100.0 0 4 4 6 2 2 5 3 -7
+p664
+aVKostas Papanikolaou HOU 11/28/2014 HOU vs. LAC L 23 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 4 0 0 3 3 -11
+p665
+aVNick Johnson HOU 11/28/2014 HOU vs. LAC L 6 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 0 2 0 0 1 2
+p666
+aVTroy Daniels HOU 11/28/2014 HOU vs. LAC L 10 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 0 0 0 0 1 5
+p667
+aVFrancisco Garcia HOU 11/28/2014 HOU vs. LAC L 20 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 0 0 0 0 5 -24
+p668
+aVJason Terry HOU 11/28/2014 HOU vs. LAC L 22 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 2 2 1 0 3 -23
+p669
+aVJoey Dorsey HOU 11/28/2014 HOU vs. LAC L 16 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 0 1 2 3 3
+p670
+aVDonatas Motiejunas HOU 11/28/2014 HOU vs. LAC L 26 6 3 9 33.3 0 2 0.0 0 2 0.0 3 4 7 2 0 0 2 3 -9
+p671
+aVTrevor Ariza HOU 11/28/2014 HOU vs. LAC L 38 13 5 13 38.5 3 7 42.9 0 0 - 0 6 6 3 0 1 1 2 -13
+p672
+aVTarik Black HOU 11/28/2014 HOU vs. LAC L 27 11 4 7 57.1 0 1 0.0 3 4 75.0 2 7 9 0 1 1 1 2 -11
+p673
+aVFrancisco Garcia HOU 11/26/2014 HOU vs. SAC W 16 4 2 7 28.6 0 1 0.0 0 1 0.0 1 2 3 2 1 0 0 1 5
+p674
+aVTroy Daniels HOU 11/26/2014 HOU vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p675
+aVKostas Papanikolaou HOU 11/26/2014 HOU vs. SAC W 29 5 2 5 40.0 0 2 0.0 1 2 50.0 1 3 4 5 0 0 0 4 10
+p676
+aVJason Terry HOU 11/26/2014 HOU vs. SAC W 16 5 2 5 40.0 1 4 25.0 0 0 - 0 1 1 1 1 0 1 2 0
+p677
+aVTarik Black HOU 11/26/2014 HOU vs. SAC W 15 2 1 1 100.0 0 0 - 0 0 - 3 3 6 1 0 0 0 3 3
+p678
+aVDonatas Motiejunas HOU 11/26/2014 HOU vs. SAC W 37 21 10 15 66.7 1 2 50.0 0 0 - 1 5 6 3 3 0 1 4 13
+p679
+aVNick Johnson HOU 11/26/2014 HOU vs. SAC W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p680
+aVTrevor Ariza HOU 11/26/2014 HOU vs. SAC W 41 13 5 12 41.7 2 7 28.6 1 2 50.0 1 4 5 2 1 1 0 3 12
+p681
+aVJoey Dorsey HOU 11/26/2014 HOU vs. SAC W 15 0 0 1 0.0 0 0 - 0 4 0.0 0 3 3 0 1 1 0 4 0
+p682
+aVJames Harden HOU 11/26/2014 HOU vs. SAC W 37 26 10 31 32.3 2 9 22.2 4 6 66.7 3 4 7 8 2 3 1 3 5
+p683
+aVIsaiah Canaan HOU 11/26/2014 HOU vs. SAC W 32 24 9 16 56.3 6 10 60.0 0 0 - 3 3 6 4 4 0 1 1 13
+p684
+aVDonatas Motiejunas HOU 11/24/2014 HOU vs. NYK W 32 13 6 12 50.0 1 2 50.0 0 0 - 1 7 8 0 1 1 1 3 11
+p685
+aVTrevor Ariza HOU 11/24/2014 HOU vs. NYK W 42 10 3 10 30.0 2 6 33.3 2 2 100.0 1 4 5 3 3 0 2 3 5
+p686
+aVTarik Black HOU 11/24/2014 HOU vs. NYK W 17 7 3 5 60.0 0 0 - 1 2 50.0 2 3 5 0 1 0 1 1 -1
+p687
+aVJames Harden HOU 11/24/2014 HOU vs. NYK W 40 36 11 22 50.0 7 12 58.3 7 7 100.0 1 5 6 6 3 1 5 2 7
+p688
+aVIsaiah Canaan HOU 11/24/2014 HOU vs. NYK W 26 7 2 8 25.0 1 5 20.0 2 2 100.0 0 0 0 3 1 0 1 4 11
+p689
+aVKostas Papanikolaou HOU 11/24/2014 HOU vs. NYK W 25 4 2 6 33.3 0 3 0.0 0 2 0.0 2 3 5 3 1 2 5 1 -6
+p690
+aVJoey Dorsey HOU 11/24/2014 HOU vs. NYK W 13 1 0 2 0.0 0 0 - 1 4 25.0 2 1 3 0 1 0 0 3 -5
+p691
+aVFrancisco Garcia HOU 11/24/2014 HOU vs. NYK W 23 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 3 1 0 0 2 9
+p692
+aVJason Terry HOU 11/24/2014 HOU vs. NYK W 22 8 3 7 42.9 2 5 40.0 0 0 - 0 3 3 1 1 0 1 0 -6
+p693
+aVFrancisco Garcia HOU 11/22/2014 HOU vs. DAL W 15 2 1 6 16.7 0 4 0.0 0 0 - 0 1 1 1 0 0 0 1 8
+p694
+aVJoey Dorsey HOU 11/22/2014 HOU vs. DAL W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p695
+aVKostas Papanikolaou HOU 11/22/2014 HOU vs. DAL W 38 8 2 11 18.2 2 6 33.3 2 2 100.0 2 5 7 2 2 0 0 4 -4
+p696
+aVTarik Black HOU 11/22/2014 HOU vs. DAL W 14 3 1 3 33.3 0 0 - 1 2 50.0 2 5 7 0 0 0 2 3 2
+p697
+aVPatrick Beverley HOU 11/22/2014 HOU vs. DAL W 31 20 7 16 43.8 6 11 54.5 0 0 - 1 4 5 1 2 0 1 4 5
+p698
+aVIsaiah Canaan HOU 11/22/2014 HOU vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -3
+p699
+aVTrevor Ariza HOU 11/22/2014 HOU vs. DAL W 35 7 2 10 20.0 1 8 12.5 2 2 100.0 1 3 4 2 1 0 1 3 0
+p700
+aVJason Terry HOU 11/22/2014 HOU vs. DAL W 25 7 3 10 30.0 1 6 16.7 0 0 - 2 0 2 5 0 0 2 0 5
+p701
+aVDonatas Motiejunas HOU 11/22/2014 HOU vs. DAL W 38 14 5 7 71.4 1 2 50.0 3 4 75.0 2 10 12 2 0 0 5 4 4
+p702
+aVJames Harden HOU 11/22/2014 HOU vs. DAL W 37 32 8 18 44.4 4 9 44.4 12 13 92.3 3 5 8 4 2 0 4 3 -3
+p703
+aVTarik Black HOU 11/19/2014 HOU vs. LAL L 35 5 2 6 33.3 0 0 - 1 2 50.0 3 6 9 1 1 0 1 2 11
+p704
+aVKostas Papanikolaou HOU 11/19/2014 HOU vs. LAL L 34 19 6 10 60.0 4 7 57.1 3 3 100.0 0 6 6 2 1 0 2 3 -4
+p705
+aVJason Terry HOU 11/19/2014 HOU vs. LAL L 20 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 2 0 1 2 1 7
+p706
+aVJoey Dorsey HOU 11/19/2014 HOU vs. LAL L 9 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 1 0 1 0 3 -2
+p707
+aVPatrick Beverley HOU 11/19/2014 HOU vs. LAL L 35 15 5 13 38.5 3 8 37.5 2 4 50.0 1 3 4 2 1 2 1 4 -15
+p708
+aVFrancisco Garcia HOU 11/19/2014 HOU vs. LAL L 11 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 1 1 1 2 1 -3
+p709
+aVJames Harden HOU 11/19/2014 HOU vs. LAL L 38 24 7 11 63.6 2 3 66.7 8 10 80.0 0 4 4 7 1 1 6 4 -7
+p710
+aVTrevor Ariza HOU 11/19/2014 HOU vs. LAL L 41 13 4 13 30.8 3 9 33.3 2 2 100.0 0 7 7 3 2 0 1 3 0
+p711
+aVDonatas Motiejunas HOU 11/19/2014 HOU vs. LAL L 18 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 1 1 0 2 4 -17
+p712
+aVTroy Daniels HOU 11/17/2014 HOU @ MEM L 12 6 2 6 33.3 2 6 33.3 0 0 - 0 0 0 0 0 0 0 2 5
+p713
+aVJoey Dorsey HOU 11/17/2014 HOU @ MEM L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 6
+p714
+aVIsaiah Canaan HOU 11/17/2014 HOU @ MEM L 21 8 3 9 33.3 1 5 20.0 1 1 100.0 0 0 0 3 1 0 1 2 1
+p715
+aVDonatas Motiejunas HOU 11/17/2014 HOU @ MEM L 18 6 3 8 37.5 0 2 0.0 0 0 - 1 1 2 0 0 1 2 3 -2
+p716
+aVFrancisco Garcia HOU 11/17/2014 HOU @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p717
+aVJames Harden HOU 11/17/2014 HOU @ MEM L 34 6 1 8 12.5 0 4 0.0 4 5 80.0 1 4 5 4 2 1 3 4 -29
+p718
+aVTrevor Ariza HOU 11/17/2014 HOU @ MEM L 32 16 4 13 30.8 1 7 14.3 7 7 100.0 1 2 3 4 1 0 2 2 -19
+p719
+aVPatrick Beverley HOU 11/17/2014 HOU @ MEM L 22 10 4 5 80.0 2 3 66.7 0 0 - 0 2 2 3 1 0 0 3 -9
+p720
+aVJason Terry HOU 11/17/2014 HOU @ MEM L 18 8 2 5 40.0 2 5 40.0 2 3 66.7 0 0 0 2 1 0 3 0 -25
+p721
+aVKostas Papanikolaou HOU 11/17/2014 HOU @ MEM L 24 8 4 7 57.1 0 2 0.0 0 0 - 1 3 4 5 0 2 4 0 -18
+p722
+aVDwight Howard HOU 11/17/2014 HOU @ MEM L 28 15 6 11 54.5 0 0 - 3 4 75.0 1 8 9 2 0 0 4 1 -27
+p723
+aVTarik Black HOU 11/17/2014 HOU @ MEM L 20 8 4 5 80.0 0 0 - 0 1 0.0 4 3 7 0 0 0 1 1 -14
+p724
+aVJason Terry HOU 11/16/2014 HOU @ OKC W 19 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 3 -8
+p725
+aVJames Harden HOU 11/16/2014 HOU @ OKC W 37 19 5 17 29.4 2 9 22.2 7 8 87.5 1 8 9 5 1 1 4 3 -2
+p726
+aVTarik Black HOU 11/16/2014 HOU @ OKC W 13 2 1 3 33.3 0 0 - 0 0 - 4 4 8 0 0 0 2 2 0
+p727
+aVPatrick Beverley HOU 11/16/2014 HOU @ OKC W 29 12 4 10 40.0 2 8 25.0 2 2 100.0 3 5 8 1 2 0 0 3 13
+p728
+aVDonatas Motiejunas HOU 11/16/2014 HOU @ OKC W 32 7 3 9 33.3 0 2 0.0 1 2 50.0 7 2 9 1 0 1 3 3 4
+p729
+aVFrancisco Garcia HOU 11/16/2014 HOU @ OKC W 13 6 2 7 28.6 2 6 33.3 0 1 0.0 0 1 1 0 1 1 0 1 4
+p730
+aVDwight Howard HOU 11/16/2014 HOU @ OKC W 40 12 4 14 28.6 0 0 - 4 13 30.8 4 5 9 1 0 1 4 5 7
+p731
+aVTrevor Ariza HOU 11/16/2014 HOU @ OKC W 37 11 4 11 36.4 1 4 25.0 2 4 50.0 0 4 4 1 1 0 0 2 2
+p732
+aVKostas Papanikolaou HOU 11/16/2014 HOU @ OKC W 15 0 0 6 0.0 0 3 0.0 0 0 - 2 2 4 0 0 2 1 0 -1
+p733
+aVTroy Daniels HOU 11/16/2014 HOU @ OKC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 1
+p734
+aVKostas Papanikolaou HOU 11/14/2014 HOU vs. PHI W 17 0 0 4 0.0 0 4 0.0 0 0 - 2 2 4 2 2 0 2 2 -10
+p735
+aVTarik Black HOU 11/14/2014 HOU vs. PHI W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 4 -5
+p736
+aVJames Harden HOU 11/14/2014 HOU vs. PHI W 41 35 10 24 41.7 1 5 20.0 14 16 87.5 0 6 6 7 3 1 5 5 4
+p737
+aVTrevor Ariza HOU 11/14/2014 HOU vs. PHI W 42 13 4 11 36.4 1 7 14.3 4 5 80.0 2 7 9 2 3 0 3 3 3
+p738
+aVFrancisco Garcia HOU 11/14/2014 HOU vs. PHI W 13 0 0 5 0.0 0 5 0.0 0 0 - 0 0 0 0 2 0 2 1 -5
+p739
+aVJason Terry HOU 11/14/2014 HOU vs. PHI W 22 6 2 7 28.6 2 6 33.3 0 0 - 0 1 1 0 3 1 1 1 -13
+p740
+aVIsaiah Canaan HOU 11/14/2014 HOU vs. PHI W 26 9 3 8 37.5 3 6 50.0 0 0 - 1 1 2 3 0 0 1 2 16
+p741
+aVDwight Howard HOU 11/14/2014 HOU vs. PHI W 41 21 9 14 64.3 0 0 - 3 12 25.0 5 11 16 0 2 7 6 4 6
+p742
+aVDonatas Motiejunas HOU 11/14/2014 HOU vs. PHI W 31 3 1 4 25.0 0 1 0.0 1 2 50.0 2 5 7 1 2 2 1 3 9
+p743
+aVNick Johnson HOU 11/12/2014 HOU @ MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p744
+aVJoey Dorsey HOU 11/12/2014 HOU @ MIN W 3 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 1 -4
+p745
+aVJason Terry HOU 11/12/2014 HOU @ MIN W 23 9 3 3 100.0 3 3 100.0 0 0 - 0 3 3 3 1 1 1 4 14
+p746
+aVIsaiah Canaan HOU 11/12/2014 HOU @ MIN W 26 5 2 7 28.6 0 3 0.0 1 2 50.0 0 2 2 1 0 0 3 2 -7
+p747
+aVDwight Howard HOU 11/12/2014 HOU @ MIN W 33 22 9 16 56.3 0 0 - 4 5 80.0 2 8 10 2 0 4 0 3 8
+p748
+aVTrevor Ariza HOU 11/12/2014 HOU @ MIN W 34 19 7 12 58.3 3 6 50.0 2 2 100.0 1 4 5 1 2 0 2 2 13
+p749
+aVTroy Daniels HOU 11/12/2014 HOU @ MIN W 5 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 -5
+p750
+aVTarik Black HOU 11/12/2014 HOU @ MIN W 17 10 5 6 83.3 0 0 - 0 0 - 4 2 6 0 0 0 1 3 4
+p751
+aVJames Harden HOU 11/12/2014 HOU @ MIN W 40 23 8 23 34.8 2 8 25.0 5 5 100.0 1 3 4 10 3 0 1 3 13
+p752
+aVDonatas Motiejunas HOU 11/12/2014 HOU @ MIN W 31 8 4 9 44.4 0 1 0.0 0 0 - 4 3 7 4 1 2 3 4 19
+p753
+aVKostas Papanikolaou HOU 11/12/2014 HOU @ MIN W 24 14 4 8 50.0 4 4 100.0 2 3 66.7 0 0 0 4 0 0 1 5 9
+p754
+aVJason Terry HOU 11/08/2014 HOU vs. GSW L 29 11 3 8 37.5 2 6 33.3 3 3 100.0 0 1 1 1 2 0 3 2 1
+p755
+aVTrevor Ariza HOU 11/08/2014 HOU vs. GSW L 39 7 3 16 18.8 0 6 0.0 1 2 50.0 2 9 11 1 2 0 2 2 -10
+p756
+aVDonatas Motiejunas HOU 11/08/2014 HOU vs. GSW L 30 16 5 10 50.0 2 3 66.7 4 4 100.0 4 4 8 1 2 0 1 3 -2
+p757
+aVFrancisco Garcia HOU 11/08/2014 HOU vs. GSW L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 2 0 1 1 1
+p758
+aVTroy Daniels HOU 11/08/2014 HOU vs. GSW L 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 -3
+p759
+aVIsaiah Canaan HOU 11/08/2014 HOU vs. GSW L 39 21 7 12 58.3 3 7 42.9 4 4 100.0 0 4 4 1 1 0 5 2 -16
+p760
+aVKostas Papanikolaou HOU 11/08/2014 HOU vs. GSW L 29 2 1 9 11.1 0 5 0.0 0 0 - 7 3 10 1 3 0 5 4 -12
+p761
+aVTarik Black HOU 11/08/2014 HOU vs. GSW L 15 2 1 3 33.3 0 0 - 0 2 0.0 3 2 5 0 0 0 0 1 -3
+p762
+aVJames Harden HOU 11/08/2014 HOU vs. GSW L 43 22 8 24 33.3 1 11 9.1 5 6 83.3 0 7 7 7 2 0 5 0 -11
+p763
+aVJoey Dorsey HOU 11/06/2014 HOU vs. SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -1
+p764
+aVTarik Black HOU 11/06/2014 HOU vs. SAS W 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -14
+p765
+aVKostas Papanikolaou HOU 11/06/2014 HOU vs. SAS W 26 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 3 0 0 2 2 0
+p766
+aVNick Johnson HOU 11/06/2014 HOU vs. SAS W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p767
+aVJason Terry HOU 11/06/2014 HOU vs. SAS W 21 16 4 5 80.0 4 5 80.0 4 4 100.0 0 0 0 2 2 0 1 0 3
+p768
+aVTrevor Ariza HOU 11/06/2014 HOU vs. SAS W 32 7 2 10 20.0 1 5 20.0 2 2 100.0 0 3 3 3 2 0 1 1 16
+p769
+aVFrancisco Garcia HOU 11/06/2014 HOU vs. SAS W 9 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 1 0 1 -8
+p770
+aVJames Harden HOU 11/06/2014 HOU vs. SAS W 33 20 8 15 53.3 1 4 25.0 3 6 50.0 2 4 6 6 1 3 8 1 25
+p771
+aVTroy Daniels HOU 11/06/2014 HOU vs. SAS W 13 8 3 7 42.9 2 6 33.3 0 0 - 0 1 1 1 0 0 1 1 -7
+p772
+aVDwight Howard HOU 11/06/2014 HOU vs. SAS W 33 32 12 18 66.7 0 1 0.0 8 13 61.5 2 14 16 0 1 2 2 3 33
+p773
+aVClint Capela HOU 11/06/2014 HOU vs. SAS W 6 0 0 0 - 0 0 - 0 4 0.0 0 3 3 1 0 0 1 1 -2
+p774
+aVIsaiah Canaan HOU 11/06/2014 HOU vs. SAS W 26 12 5 10 50.0 2 4 50.0 0 0 - 1 1 2 1 1 0 0 3 16
+p775
+aVDonatas Motiejunas HOU 11/06/2014 HOU vs. SAS W 25 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 2 2 25
+p776
+aVJames Harden HOU 11/04/2014 HOU @ MIA W 40 25 6 13 46.2 3 7 42.9 10 10 100.0 2 7 9 10 1 2 5 2 15
+p777
+aVKostas Papanikolaou HOU 11/04/2014 HOU @ MIA W 37 8 3 10 30.0 2 8 25.0 0 0 - 1 6 7 5 0 2 0 2 15
+p778
+aVTroy Daniels HOU 11/04/2014 HOU @ MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p779
+aVPatrick Beverley HOU 11/04/2014 HOU @ MIA W 30 15 5 8 62.5 4 7 57.1 1 2 50.0 1 3 4 1 0 0 1 4 11
+p780
+aVDwight Howard HOU 11/04/2014 HOU @ MIA W 38 26 10 16 62.5 0 0 - 6 11 54.5 3 7 10 0 1 0 5 4 27
+p781
+aVDonatas Motiejunas HOU 11/04/2014 HOU @ MIA W 13 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 5 -4
+p782
+aVJoey Dorsey HOU 11/04/2014 HOU @ MIA W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 1 3 -4
+p783
+aVJason Terry HOU 11/04/2014 HOU @ MIA W 19 3 1 4 25.0 1 3 33.3 0 0 - 1 0 1 1 1 0 0 2 4
+p784
+aVTrevor Ariza HOU 11/04/2014 HOU @ MIA W 40 19 5 8 62.5 5 8 62.5 4 4 100.0 1 4 5 5 3 0 4 3 27
+p785
+aVIsaiah Canaan HOU 11/04/2014 HOU @ MIA W 14 8 3 3 100.0 2 2 100.0 0 0 - 0 0 0 0 1 0 0 1 -6
+p786
+aVTrevor Ariza HOU 11/03/2014 HOU @ PHI W 36 24 8 13 61.5 6 9 66.7 2 2 100.0 1 5 6 7 2 0 2 1 14
+p787
+aVDwight Howard HOU 11/03/2014 HOU @ PHI W 36 11 5 8 62.5 0 0 - 1 4 25.0 7 7 14 3 3 4 5 5 2
+p788
+aVKostas Papanikolaou HOU 11/03/2014 HOU @ PHI W 20 3 1 4 25.0 1 4 25.0 0 0 - 1 2 3 1 1 0 1 1 -9
+p789
+aVTroy Daniels HOU 11/03/2014 HOU @ PHI W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -6
+p790
+aVJason Terry HOU 11/03/2014 HOU @ PHI W 23 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 0 1 0 0 1 2
+p791
+aVJoey Dorsey HOU 11/03/2014 HOU @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p792
+aVDonatas Motiejunas HOU 11/03/2014 HOU @ PHI W 22 3 0 1 0.0 0 0 - 3 4 75.0 0 8 8 3 0 0 2 1 2
+p793
+aVTerrence Jones HOU 11/03/2014 HOU @ PHI W 30 6 3 11 27.3 0 1 0.0 0 0 - 2 2 4 2 2 1 3 3 19
+p794
+aVJames Harden HOU 11/03/2014 HOU @ PHI W 38 35 7 18 38.9 4 8 50.0 17 18 94.4 1 8 9 5 1 1 4 2 18
+p795
+aVIsaiah Canaan HOU 11/03/2014 HOU @ PHI W 30 13 5 11 45.5 3 6 50.0 0 0 - 1 1 2 6 2 0 3 5 14
+p796
+aVIsaiah Canaan HOU 11/01/2014 HOU vs. BOS W 35 9 3 11 27.3 3 9 33.3 0 2 0.0 2 2 4 2 2 0 2 1 4
+p797
+aVJames Harden HOU 11/01/2014 HOU vs. BOS W 31 26 5 14 35.7 2 6 33.3 14 14 100.0 0 8 8 6 4 1 3 1 18
+p798
+aVJason Terry HOU 11/01/2014 HOU vs. BOS W 23 7 2 5 40.0 2 5 40.0 1 1 100.0 0 1 1 1 1 2 1 1 10
+p799
+aVTroy Daniels HOU 11/01/2014 HOU vs. BOS W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p800
+aVDonatas Motiejunas HOU 11/01/2014 HOU vs. BOS W 20 6 1 4 25.0 0 2 0.0 4 6 66.7 1 4 5 2 0 0 0 3 -3
+p801
+aVKostas Papanikolaou HOU 11/01/2014 HOU vs. BOS W 23 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 4 2 0 6 1 10
+p802
+aVNick Johnson HOU 11/01/2014 HOU vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p803
+aVJoey Dorsey HOU 11/01/2014 HOU vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p804
+aVTrevor Ariza HOU 11/01/2014 HOU vs. BOS W 30 9 4 9 44.4 1 3 33.3 0 0 - 1 7 8 1 0 0 1 4 26
+p805
+aVDwight Howard HOU 11/01/2014 HOU vs. BOS W 33 14 5 9 55.6 0 0 - 4 10 40.0 0 8 8 4 0 2 0 5 13
+p806
+aVTerrence Jones HOU 11/01/2014 HOU vs. BOS W 30 25 10 16 62.5 2 4 50.0 3 3 100.0 4 6 10 0 0 2 2 4 17
+p807
+aVTarik Black HOU 11/01/2014 HOU vs. BOS W 4 2 0 0 - 0 0 - 2 4 50.0 1 1 2 0 0 1 1 2 2
+p808
+aVJames Harden HOU 10/29/2014 HOU @ UTA W 38 18 6 18 33.3 1 5 20.0 5 6 83.3 1 6 7 10 0 1 6 5 21
+p809
+aVTrevor Ariza HOU 10/29/2014 HOU @ UTA W 37 20 7 10 70.0 4 7 57.1 2 3 66.7 1 4 5 1 2 0 1 1 8
+p810
+aVDonatas Motiejunas HOU 10/29/2014 HOU @ UTA W 9 3 1 2 50.0 0 1 0.0 1 2 50.0 1 2 3 0 1 0 0 1 -1
+p811
+aVKostas Papanikolaou HOU 10/29/2014 HOU @ UTA W 22 12 4 7 57.1 4 6 66.7 0 0 - 0 2 2 4 1 1 0 0 4
+p812
+aVTarik Black HOU 10/29/2014 HOU @ UTA W 16 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 4
+p813
+aVJason Terry HOU 10/29/2014 HOU @ UTA W 21 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 0 0 0 2 1 -1
+p814
+aVDwight Howard HOU 10/29/2014 HOU @ UTA W 32 22 10 16 62.5 0 0 - 2 3 66.7 3 7 10 0 1 2 6 6 7
+p815
+aVIsaiah Canaan HOU 10/29/2014 HOU @ UTA W 8 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 -12
+p816
+aVPatrick Beverley HOU 10/29/2014 HOU @ UTA W 31 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 2 1 0 2 3 19
+p817
+aVTerrence Jones HOU 10/29/2014 HOU @ UTA W 26 9 4 5 80.0 1 1 100.0 0 0 - 1 2 3 1 0 2 1 5 6
+p818
+aVDwight Howard HOU 10/28/2014 HOU @ LAL W 21 13 3 5 60.0 0 0 - 7 16 43.8 3 8 11 1 0 1 1 5 20
+p819
+aVPatrick Beverley HOU 10/28/2014 HOU @ LAL W 31 9 2 6 33.3 2 3 66.7 3 6 50.0 1 4 5 5 0 0 2 3 17
+p820
+aVKostas Papanikolaou HOU 10/28/2014 HOU @ LAL W 20 4 2 6 33.3 0 2 0.0 0 0 - 1 5 6 4 2 0 2 5 11
+p821
+aVTarik Black HOU 10/28/2014 HOU @ LAL W 24 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 4
+p822
+aVTrevor Ariza HOU 10/28/2014 HOU @ LAL W 30 16 5 10 50.0 5 8 62.5 1 1 100.0 1 2 3 2 2 0 2 3 10
+p823
+aVDonatas Motiejunas HOU 10/28/2014 HOU @ LAL W 16 4 0 0 - 0 0 - 4 6 66.7 2 3 5 0 0 0 2 3 -10
+p824
+aVJason Terry HOU 10/28/2014 HOU @ LAL W 21 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 0 27
+p825
+aVJames Harden HOU 10/28/2014 HOU @ LAL W 31 32 7 17 41.2 3 6 50.0 15 16 93.8 0 1 1 6 1 0 0 1 12
+p826
+aVTerrence Jones HOU 10/28/2014 HOU @ LAL W 31 16 8 16 50.0 0 1 0.0 0 1 0.0 6 7 13 3 2 2 2 4 14
+p827
+aVTroy Daniels HOU 10/28/2014 HOU @ LAL W 9 2 0 5 0.0 0 5 0.0 2 2 100.0 0 0 0 0 0 0 0 2 -7
+p828
+aVIsaiah Canaan HOU 10/28/2014 HOU @ LAL W 7 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 0 -8
+p829
+a.

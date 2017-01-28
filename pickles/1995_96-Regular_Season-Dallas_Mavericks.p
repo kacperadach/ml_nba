@@ -1,0 +1,1618 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLorenzo Williams DAL 04/21/1996 DAL @ SAN W 23 2 1 1 100.0 0 0 - 0 0 - 3 3 6 0 0 2 0 6 -
+p2
+aVJason Kidd DAL 04/21/1996 DAL @ SAN W 43 21 6 21 28.6 3 7 42.9 6 8 75.0 2 8 10 15 3 0 2 1 -
+p3
+aVLoren Meyer DAL 04/21/1996 DAL @ SAN W 16 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 0 0 2 -
+p4
+aVJim Jackson DAL 04/21/1996 DAL @ SAN W 48 35 11 26 42.3 1 11 9.1 12 12 100.0 3 8 11 3 0 2 4 4 -
+p5
+aVLucious Harris DAL 04/21/1996 DAL @ SAN W 26 15 6 14 42.9 3 6 50.0 0 0 - 1 2 3 4 2 0 2 1 -
+p6
+aVTony Dumas DAL 04/21/1996 DAL @ SAN W 27 7 3 13 23.1 0 2 0.0 1 6 16.7 2 1 3 1 0 1 1 1 -
+p7
+aVDavid Wood DAL 04/21/1996 DAL @ SAN W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -
+p8
+aVCherokee Parks DAL 04/21/1996 DAL @ SAN W 19 11 5 6 83.3 1 1 100.0 0 0 - 0 4 4 0 0 0 1 5 -
+p9
+aVPopeye Jones DAL 04/21/1996 DAL @ SAN W 32 8 4 9 44.4 0 1 0.0 0 0 - 0 12 12 0 1 1 0 3 -
+p10
+aVJason Kidd DAL 04/19/1996 DAL @ PHX L 40 37 14 23 60.9 4 5 80.0 5 6 83.3 2 6 8 10 2 0 9 1 -
+p11
+aVDavid Wood DAL 04/19/1996 DAL @ PHX L 14 0 0 3 0.0 0 3 0.0 0 0 - 1 2 3 1 0 0 0 3 -
+p12
+aVJim Jackson DAL 04/19/1996 DAL @ PHX L 34 21 8 16 50.0 2 7 28.6 3 4 75.0 1 2 3 2 0 0 0 0 -
+p13
+aVPopeye Jones DAL 04/19/1996 DAL @ PHX L 33 8 2 11 18.2 0 1 0.0 4 6 66.7 5 6 11 2 1 0 1 3 -
+p14
+aVGeorge McCloud DAL 04/19/1996 DAL @ PHX L 36 10 3 14 21.4 0 6 0.0 4 4 100.0 3 4 7 3 2 0 4 1 -
+p15
+aVScott Brooks DAL 04/19/1996 DAL @ PHX L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p16
+aVLucious Harris DAL 04/19/1996 DAL @ PHX L 21 10 4 11 36.4 2 4 50.0 0 0 - 1 2 3 2 1 0 2 0 -
+p17
+aVLorenzo Williams DAL 04/19/1996 DAL @ PHX L 28 2 1 2 50.0 0 0 - 0 2 0.0 3 2 5 1 1 1 1 4 -
+p18
+aVCherokee Parks DAL 04/19/1996 DAL @ PHX L 12 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -
+p19
+aVLoren Meyer DAL 04/19/1996 DAL @ PHX L 12 7 3 7 42.9 1 1 100.0 0 0 - 2 4 6 0 0 0 2 4 -
+p20
+aVTony Dumas DAL 04/19/1996 DAL @ PHX L 8 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 1 -
+p21
+aVLorenzo Williams DAL 04/18/1996 DAL vs. DEN W 27 5 2 3 66.7 0 0 - 1 3 33.3 3 7 10 3 0 3 1 2 -
+p22
+aVPopeye Jones DAL 04/18/1996 DAL vs. DEN W 12 0 0 3 0.0 0 0 - 0 0 - 0 7 7 0 0 0 1 4 -
+p23
+aVTony Dumas DAL 04/18/1996 DAL vs. DEN W 23 18 7 12 58.3 0 1 0.0 4 4 100.0 0 0 0 3 1 0 1 3 -
+p24
+aVLucious Harris DAL 04/18/1996 DAL vs. DEN W 15 9 3 4 75.0 0 1 0.0 3 4 75.0 0 2 2 1 1 0 1 0 -
+p25
+aVScott Brooks DAL 04/18/1996 DAL vs. DEN W 12 10 3 4 75.0 0 0 - 4 4 100.0 0 1 1 2 0 0 1 0 -
+p26
+aVJim Jackson DAL 04/18/1996 DAL vs. DEN W 34 25 9 18 50.0 4 7 57.1 3 4 75.0 0 3 3 3 1 1 4 1 -
+p27
+aVDavid Wood DAL 04/18/1996 DAL vs. DEN W 36 15 6 10 60.0 1 3 33.3 2 4 50.0 2 8 10 1 0 1 1 5 -
+p28
+aVLoren Meyer DAL 04/18/1996 DAL vs. DEN W 20 8 4 9 44.4 0 0 - 0 0 - 2 4 6 1 2 1 2 6 -
+p29
+aVGeorge McCloud DAL 04/18/1996 DAL vs. DEN W 30 23 8 15 53.3 5 8 62.5 2 2 100.0 0 3 3 6 4 1 3 3 -
+p30
+aVJason Kidd DAL 04/18/1996 DAL vs. DEN W 31 19 9 12 75.0 1 1 100.0 0 0 - 2 5 7 10 2 0 4 3 -
+p31
+aVScott Brooks DAL 04/16/1996 DAL vs. LAL L 3 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 1 0 -
+p32
+aVLorenzo Williams DAL 04/16/1996 DAL vs. LAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p33
+aVGeorge McCloud DAL 04/16/1996 DAL vs. LAL L 42 16 5 20 25.0 0 8 0.0 6 6 100.0 3 1 4 2 3 1 1 4 -
+p34
+aVLoren Meyer DAL 04/16/1996 DAL vs. LAL L 24 9 3 7 42.9 0 0 - 3 3 100.0 3 4 7 0 1 1 3 1 -
+p35
+aVTony Dumas DAL 04/16/1996 DAL vs. LAL L 22 12 4 12 33.3 0 1 0.0 4 6 66.7 1 0 1 0 0 1 1 3 -
+p36
+aVDavid Wood DAL 04/16/1996 DAL vs. LAL L 8 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -
+p37
+aVJim Jackson DAL 04/16/1996 DAL vs. LAL L 29 15 6 15 40.0 0 5 0.0 3 3 100.0 6 0 6 1 2 0 3 2 -
+p38
+aVCherokee Parks DAL 04/16/1996 DAL vs. LAL L 23 4 2 7 28.6 0 2 0.0 0 1 0.0 1 8 9 2 0 1 1 2 -
+p39
+aVLucious Harris DAL 04/16/1996 DAL vs. LAL L 9 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p40
+aVJason Kidd DAL 04/16/1996 DAL vs. LAL L 39 7 3 7 42.9 1 4 25.0 0 0 - 0 6 6 10 3 0 4 2 -
+p41
+aVPopeye Jones DAL 04/16/1996 DAL vs. LAL L 33 19 9 18 50.0 1 4 25.0 0 0 - 8 3 11 1 1 0 4 4 -
+p42
+aVCherokee Parks DAL 04/13/1996 DAL @ HOU L 15 4 2 3 66.7 0 1 0.0 0 1 0.0 2 1 3 1 0 0 2 2 -
+p43
+aVPopeye Jones DAL 04/13/1996 DAL @ HOU L 38 8 3 10 30.0 0 2 0.0 2 6 33.3 3 12 15 1 2 0 1 4 -
+p44
+aVGeorge McCloud DAL 04/13/1996 DAL @ HOU L 48 29 11 22 50.0 4 9 44.4 3 4 75.0 4 3 7 6 4 0 2 3 -
+p45
+aVLucious Harris DAL 04/13/1996 DAL @ HOU L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 2 0 1 1 -
+p46
+aVLorenzo Williams DAL 04/13/1996 DAL @ HOU L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 1 1 2 -
+p47
+aVJason Kidd DAL 04/13/1996 DAL @ HOU L 44 18 7 21 33.3 1 5 20.0 3 4 75.0 4 5 9 15 3 1 4 3 -
+p48
+aVDavid Wood DAL 04/13/1996 DAL @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p49
+aVLoren Meyer DAL 04/13/1996 DAL @ HOU L 28 13 5 8 62.5 0 0 - 3 4 75.0 6 4 10 1 2 0 1 6 -
+p50
+aVTony Dumas DAL 04/13/1996 DAL @ HOU L 9 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -
+p51
+aVJim Jackson DAL 04/13/1996 DAL @ HOU L 36 33 10 18 55.6 2 4 50.0 11 11 100.0 0 2 2 1 1 0 2 1 -
+p52
+aVGeorge McCloud DAL 04/11/1996 DAL @ POR L 39 17 6 23 26.1 3 12 25.0 2 4 50.0 3 3 6 2 1 0 2 2 -
+p53
+aVLorenzo Williams DAL 04/11/1996 DAL @ POR L 27 2 1 2 50.0 0 0 - 0 0 - 4 3 7 1 1 1 1 2 -
+p54
+aVJim Jackson DAL 04/11/1996 DAL @ POR L 32 23 9 22 40.9 1 7 14.3 4 4 100.0 1 4 5 6 0 0 0 4 -
+p55
+aVDavid Wood DAL 04/11/1996 DAL @ POR L 14 11 3 4 75.0 1 2 50.0 4 4 100.0 0 1 1 0 0 0 0 2 -
+p56
+aVLoren Meyer DAL 04/11/1996 DAL @ POR L 21 7 2 8 25.0 0 0 - 3 5 60.0 4 1 5 1 0 1 0 4 -
+p57
+aVTony Dumas DAL 04/11/1996 DAL @ POR L 16 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 2 2 0 1 0 -
+p58
+aVCherokee Parks DAL 04/11/1996 DAL @ POR L 8 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p59
+aVJason Kidd DAL 04/11/1996 DAL @ POR L 39 19 7 16 43.8 4 9 44.4 1 2 50.0 3 7 10 10 2 0 4 3 -
+p60
+aVLucious Harris DAL 04/11/1996 DAL @ POR L 9 3 1 6 16.7 1 4 25.0 0 0 - 0 0 0 1 2 0 0 0 -
+p61
+aVPopeye Jones DAL 04/11/1996 DAL @ POR L 35 11 5 9 55.6 0 2 0.0 1 2 50.0 1 8 9 3 0 2 1 3 -
+p62
+aVScott Brooks DAL 04/09/1996 DAL @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p63
+aVJim Jackson DAL 04/09/1996 DAL @ SAC L 30 8 3 13 23.1 0 2 0.0 2 3 66.7 1 1 2 2 0 0 2 3 -
+p64
+aVDavid Wood DAL 04/09/1996 DAL @ SAC L 13 5 2 4 50.0 1 1 100.0 0 0 - 1 3 4 1 1 0 1 1 -
+p65
+aVLucious Harris DAL 04/09/1996 DAL @ SAC L 17 15 6 10 60.0 1 2 50.0 2 4 50.0 0 1 1 1 0 0 1 0 -
+p66
+aVTony Dumas DAL 04/09/1996 DAL @ SAC L 8 2 1 3 33.3 0 1 0.0 0 2 0.0 0 0 0 1 0 0 1 1 -
+p67
+aVLorenzo Williams DAL 04/09/1996 DAL @ SAC L 36 0 0 2 0.0 0 0 - 0 4 0.0 7 2 9 4 1 3 3 2 -
+p68
+aVLoren Meyer DAL 04/09/1996 DAL @ SAC L 7 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -
+p69
+aVPopeye Jones DAL 04/09/1996 DAL @ SAC L 39 9 3 5 60.0 2 2 100.0 1 2 50.0 2 9 11 0 3 1 2 5 -
+p70
+aVJason Kidd DAL 04/09/1996 DAL @ SAC L 39 6 3 14 21.4 0 4 0.0 0 0 - 2 5 7 11 2 1 5 1 -
+p71
+aVGeorge McCloud DAL 04/09/1996 DAL @ SAC L 41 37 14 24 58.3 8 14 57.1 1 1 100.0 0 2 2 1 1 0 2 3 -
+p72
+aVCherokee Parks DAL 04/09/1996 DAL @ SAC L 8 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -
+p73
+aVJim Jackson DAL 04/08/1996 DAL @ GOS W 38 24 9 19 47.4 0 5 0.0 6 7 85.7 1 1 2 0 3 1 2 2 -
+p74
+aVPopeye Jones DAL 04/08/1996 DAL @ GOS W 40 14 6 14 42.9 2 3 66.7 0 0 - 2 11 13 1 1 0 1 4 -
+p75
+aVGeorge McCloud DAL 04/08/1996 DAL @ GOS W 43 22 9 20 45.0 3 12 25.0 1 2 50.0 2 2 4 9 2 0 5 4 -
+p76
+aVLucious Harris DAL 04/08/1996 DAL @ GOS W 14 3 1 3 33.3 1 1 100.0 0 0 - 1 2 3 3 0 0 0 0 -
+p77
+aVJason Kidd DAL 04/08/1996 DAL @ GOS W 37 21 7 16 43.8 3 3 100.0 4 7 57.1 6 3 9 12 3 0 6 2 -
+p78
+aVLorenzo Williams DAL 04/08/1996 DAL @ GOS W 29 6 3 7 42.9 0 0 - 0 0 - 5 4 9 1 0 1 2 2 -
+p79
+aVLoren Meyer DAL 04/08/1996 DAL @ GOS W 19 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -
+p80
+aVCherokee Parks DAL 04/08/1996 DAL @ GOS W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -
+p81
+aVTony Dumas DAL 04/08/1996 DAL @ GOS W 12 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 1 1 0 0 2 -
+p82
+aVJason Kidd DAL 04/06/1996 DAL vs. LAC W 39 24 10 18 55.6 4 5 80.0 0 1 0.0 2 4 6 5 2 0 5 1 -
+p83
+aVGeorge McCloud DAL 04/06/1996 DAL vs. LAC W 44 19 8 21 38.1 1 6 16.7 2 2 100.0 1 1 2 5 1 1 0 3 -
+p84
+aVPopeye Jones DAL 04/06/1996 DAL vs. LAC W 43 12 5 12 41.7 0 0 - 2 2 100.0 7 20 27 4 0 1 2 1 -
+p85
+aVJim Jackson DAL 04/06/1996 DAL vs. LAC W 35 25 10 21 47.6 1 6 16.7 4 4 100.0 2 0 2 1 0 0 2 2 -
+p86
+aVLucious Harris DAL 04/06/1996 DAL vs. LAC W 12 11 5 6 83.3 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 -
+p87
+aVLoren Meyer DAL 04/06/1996 DAL vs. LAC W 17 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 1 5 -
+p88
+aVCherokee Parks DAL 04/06/1996 DAL vs. LAC W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 0 1 0 -
+p89
+aVLorenzo Williams DAL 04/06/1996 DAL vs. LAC W 24 2 1 4 25.0 0 0 - 0 0 - 4 3 7 1 1 2 2 4 -
+p90
+aVTony Dumas DAL 04/06/1996 DAL vs. LAC W 15 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 2 -
+p91
+aVDavid Wood DAL 04/02/1996 DAL vs. SAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p92
+aVScott Brooks DAL 04/02/1996 DAL vs. SAC L 4 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 0 -
+p93
+aVCherokee Parks DAL 04/02/1996 DAL vs. SAC L 14 2 0 3 0.0 0 2 0.0 2 2 100.0 1 3 4 0 0 0 0 2 -
+p94
+aVJason Kidd DAL 04/02/1996 DAL vs. SAC L 41 15 5 15 33.3 1 2 50.0 4 4 100.0 3 2 5 12 2 0 4 3 -
+p95
+aVPopeye Jones DAL 04/02/1996 DAL vs. SAC L 32 6 3 11 27.3 0 1 0.0 0 1 0.0 4 6 10 5 2 0 3 6 -
+p96
+aVLucious Harris DAL 04/02/1996 DAL vs. SAC L 14 9 4 7 57.1 1 1 100.0 0 0 - 1 0 1 0 0 0 1 1 -
+p97
+aVTony Dumas DAL 04/02/1996 DAL vs. SAC L 8 5 2 8 25.0 0 3 0.0 1 2 50.0 0 0 0 0 2 0 1 1 -
+p98
+aVLorenzo Williams DAL 04/02/1996 DAL vs. SAC L 41 5 2 6 33.3 0 0 - 1 2 50.0 8 4 12 0 4 4 2 3 -
+p99
+aVGeorge McCloud DAL 04/02/1996 DAL vs. SAC L 44 26 9 21 42.9 5 12 41.7 3 6 50.0 2 5 7 2 2 1 2 5 -
+p100
+aVJim Jackson DAL 04/02/1996 DAL vs. SAC L 36 25 8 18 44.4 4 8 50.0 5 7 71.4 2 3 5 3 0 0 2 3 -
+p101
+aVLoren Meyer DAL 04/02/1996 DAL vs. SAC L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -
+p102
+aVDavid Wood DAL 03/31/1996 DAL vs. POR L 7 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -
+p103
+aVScott Brooks DAL 03/31/1996 DAL vs. POR L 4 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 2 2 0 1 0 -
+p104
+aVJim Jackson DAL 03/31/1996 DAL vs. POR L 24 12 5 10 50.0 2 2 100.0 0 0 - 0 2 2 3 1 0 1 2 -
+p105
+aVJason Kidd DAL 03/31/1996 DAL vs. POR L 25 4 2 9 22.2 0 1 0.0 0 0 - 0 2 2 10 2 2 3 0 -
+p106
+aVTony Dumas DAL 03/31/1996 DAL vs. POR L 24 15 6 14 42.9 0 3 0.0 3 4 75.0 1 0 1 3 0 0 0 5 -
+p107
+aVLoren Meyer DAL 03/31/1996 DAL vs. POR L 41 14 6 11 54.5 0 1 0.0 2 2 100.0 0 8 8 1 0 2 1 5 -
+p108
+aVCherokee Parks DAL 03/31/1996 DAL vs. POR L 21 7 3 5 60.0 1 1 100.0 0 0 - 2 2 4 1 0 0 0 2 -
+p109
+aVGeorge McCloud DAL 03/31/1996 DAL vs. POR L 38 13 4 16 25.0 2 8 25.0 3 4 75.0 2 2 4 5 1 1 3 5 -
+p110
+aVLorenzo Williams DAL 03/31/1996 DAL vs. POR L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p111
+aVLucious Harris DAL 03/31/1996 DAL vs. POR L 20 13 5 9 55.6 1 2 50.0 2 4 50.0 1 2 3 3 0 0 1 1 -
+p112
+aVPopeye Jones DAL 03/31/1996 DAL vs. POR L 29 10 5 9 55.6 0 1 0.0 0 0 - 5 6 11 0 1 0 2 3 -
+p113
+aVPopeye Jones DAL 03/29/1996 DAL vs. SAN L 29 17 7 12 58.3 1 3 33.3 2 2 100.0 1 2 3 2 0 1 3 2 -
+p114
+aVCherokee Parks DAL 03/29/1996 DAL vs. SAN L 16 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 1 0 1 3 -
+p115
+aVJason Kidd DAL 03/29/1996 DAL vs. SAN L 42 9 4 16 25.0 0 2 0.0 1 2 50.0 3 7 10 9 0 0 3 0 -
+p116
+aVDavid Wood DAL 03/29/1996 DAL vs. SAN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p117
+aVLorenzo Williams DAL 03/29/1996 DAL vs. SAN L 28 2 1 2 50.0 0 0 - 0 0 - 2 6 8 2 1 4 1 1 -
+p118
+aVGeorge McCloud DAL 03/29/1996 DAL vs. SAN L 40 30 11 22 50.0 7 17 41.2 1 1 100.0 1 4 5 3 0 0 2 5 -
+p119
+aVScott Brooks DAL 03/29/1996 DAL vs. SAN L 6 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 3 1 0 0 0 -
+p120
+aVLoren Meyer DAL 03/29/1996 DAL vs. SAN L 20 13 6 9 66.7 1 2 50.0 0 0 - 0 3 3 0 0 0 2 2 -
+p121
+aVLucious Harris DAL 03/29/1996 DAL vs. SAN L 24 8 3 9 33.3 1 3 33.3 1 1 100.0 1 2 3 3 0 1 0 2 -
+p122
+aVJim Jackson DAL 03/29/1996 DAL vs. SAN L 32 13 6 15 40.0 1 3 33.3 0 0 - 2 3 5 6 0 1 3 2 -
+p123
+aVPopeye Jones DAL 03/27/1996 DAL vs. HOU W 36 14 5 10 50.0 0 1 0.0 4 5 80.0 3 9 12 1 0 1 1 4 -
+p124
+aVScott Brooks DAL 03/27/1996 DAL vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -
+p125
+aVLoren Meyer DAL 03/27/1996 DAL vs. HOU W 10 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p126
+aVDavid Wood DAL 03/27/1996 DAL vs. HOU W 8 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 0 2 1 -
+p127
+aVLucious Harris DAL 03/27/1996 DAL vs. HOU W 29 18 6 11 54.5 3 5 60.0 3 4 75.0 1 2 3 3 3 0 0 4 -
+p128
+aVLorenzo Williams DAL 03/27/1996 DAL vs. HOU W 14 4 2 3 66.7 0 0 - 0 0 - 4 2 6 1 0 1 0 4 -
+p129
+aVGeorge McCloud DAL 03/27/1996 DAL vs. HOU W 25 5 2 9 22.2 1 5 20.0 0 0 - 1 1 2 3 0 1 0 3 -
+p130
+aVJim Jackson DAL 03/27/1996 DAL vs. HOU W 28 21 9 15 60.0 2 3 66.7 1 1 100.0 0 0 0 5 0 0 2 2 -
+p131
+aVCherokee Parks DAL 03/27/1996 DAL vs. HOU W 28 10 4 10 40.0 0 2 0.0 2 2 100.0 3 4 7 2 0 1 0 3 -
+p132
+aVTony Dumas DAL 03/27/1996 DAL vs. HOU W 14 15 6 9 66.7 0 2 0.0 3 4 75.0 4 1 5 1 1 1 0 1 -
+p133
+aVJason Kidd DAL 03/27/1996 DAL vs. HOU W 43 22 8 25 32.0 2 5 40.0 4 5 80.0 3 2 5 11 1 0 1 3 -
+p134
+aVJason Kidd DAL 03/25/1996 DAL @ UTH L 25 13 6 18 33.3 0 5 0.0 1 2 50.0 1 1 2 2 0 1 3 0 -
+p135
+aVLucious Harris DAL 03/25/1996 DAL @ UTH L 21 7 3 8 37.5 1 4 25.0 0 0 - 1 2 3 3 0 0 0 0 -
+p136
+aVLoren Meyer DAL 03/25/1996 DAL @ UTH L 25 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 4 0 2 3 3 -
+p137
+aVGeorge McCloud DAL 03/25/1996 DAL @ UTH L 23 7 1 9 11.1 1 5 20.0 4 4 100.0 1 1 2 2 0 0 1 2 -
+p138
+aVPopeye Jones DAL 03/25/1996 DAL @ UTH L 25 11 4 11 36.4 0 0 - 3 5 60.0 8 4 12 1 2 0 1 2 -
+p139
+aVScott Brooks DAL 03/25/1996 DAL @ UTH L 23 16 6 10 60.0 2 2 100.0 2 2 100.0 0 1 1 4 3 0 0 4 -
+p140
+aVTony Dumas DAL 03/25/1996 DAL @ UTH L 12 2 0 4 0.0 0 1 0.0 2 6 33.3 2 0 2 4 1 0 2 3 -
+p141
+aVJim Jackson DAL 03/25/1996 DAL @ UTH L 15 4 1 9 11.1 0 4 0.0 2 3 66.7 2 1 3 1 1 0 1 1 -
+p142
+aVDavid Wood DAL 03/25/1996 DAL @ UTH L 25 6 2 3 66.7 0 0 - 2 4 50.0 1 3 4 1 2 0 1 3 -
+p143
+aVLorenzo Williams DAL 03/25/1996 DAL @ UTH L 17 2 0 2 0.0 0 0 - 2 2 100.0 3 3 6 0 2 0 0 3 -
+p144
+aVCherokee Parks DAL 03/25/1996 DAL @ UTH L 29 10 5 10 50.0 0 2 0.0 0 1 0.0 2 4 6 0 1 1 1 2 -
+p145
+aVLoren Meyer DAL 03/24/1996 DAL vs. NYK L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -
+p146
+aVCherokee Parks DAL 03/24/1996 DAL vs. NYK L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -
+p147
+aVJason Kidd DAL 03/24/1996 DAL vs. NYK L 39 16 6 23 26.1 2 7 28.6 2 2 100.0 7 2 9 10 1 2 8 0 -
+p148
+aVJim Jackson DAL 03/24/1996 DAL vs. NYK L 32 13 5 14 35.7 1 5 20.0 2 2 100.0 2 4 6 2 2 0 2 0 -
+p149
+aVDavid Wood DAL 03/24/1996 DAL vs. NYK L 21 0 0 4 0.0 0 3 0.0 0 0 - 2 2 4 0 2 0 0 3 -
+p150
+aVLucious Harris DAL 03/24/1996 DAL vs. NYK L 20 15 6 7 85.7 3 4 75.0 0 0 - 1 2 3 0 0 0 5 0 -
+p151
+aVGeorge McCloud DAL 03/24/1996 DAL vs. NYK L 37 9 4 18 22.2 1 10 10.0 0 0 - 1 1 2 1 0 0 1 3 -
+p152
+aVPopeye Jones DAL 03/24/1996 DAL vs. NYK L 36 17 7 18 38.9 2 5 40.0 1 1 100.0 4 13 17 1 0 0 1 3 -
+p153
+aVScott Brooks DAL 03/24/1996 DAL vs. NYK L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p154
+aVLorenzo Williams DAL 03/24/1996 DAL vs. NYK L 29 4 2 6 33.3 0 0 - 0 0 - 6 5 11 1 1 2 2 4 -
+p155
+aVGeorge McCloud DAL 03/22/1996 DAL vs. MIN L 39 22 8 23 34.8 3 15 20.0 3 4 75.0 2 3 5 3 3 1 1 2 -
+p156
+aVCherokee Parks DAL 03/22/1996 DAL vs. MIN L 15 0 0 4 0.0 0 0 - 0 0 - 1 6 7 1 1 2 2 2 -
+p157
+aVDavid Wood DAL 03/22/1996 DAL vs. MIN L 15 6 2 6 33.3 1 1 100.0 1 1 100.0 1 3 4 0 0 1 0 4 -
+p158
+aVJim Jackson DAL 03/22/1996 DAL vs. MIN L 19 5 2 12 16.7 1 4 25.0 0 0 - 2 0 2 1 1 0 1 2 -
+p159
+aVLucious Harris DAL 03/22/1996 DAL vs. MIN L 17 9 4 10 40.0 1 3 33.3 0 0 - 2 4 6 1 0 0 0 0 -
+p160
+aVPopeye Jones DAL 03/22/1996 DAL vs. MIN L 36 15 4 10 40.0 1 1 100.0 6 8 75.0 6 4 10 1 1 1 5 3 -
+p161
+aVScott Brooks DAL 03/22/1996 DAL vs. MIN L 15 10 5 9 55.6 0 1 0.0 0 0 - 0 2 2 4 3 0 2 3 -
+p162
+aVTony Dumas DAL 03/22/1996 DAL vs. MIN L 12 4 1 6 16.7 0 1 0.0 2 2 100.0 2 1 3 0 0 1 2 1 -
+p163
+aVLorenzo Williams DAL 03/22/1996 DAL vs. MIN L 25 1 0 4 0.0 0 0 - 1 4 25.0 6 2 8 0 1 1 1 2 -
+p164
+aVLoren Meyer DAL 03/22/1996 DAL vs. MIN L 14 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 0 0 0 5 0 -
+p165
+aVJason Kidd DAL 03/22/1996 DAL vs. MIN L 33 10 4 15 26.7 1 3 33.3 1 2 50.0 6 3 9 7 1 0 4 0 -
+p166
+aVJim Jackson DAL 03/19/1996 DAL vs. CLE L 34 12 3 15 20.0 0 3 0.0 6 6 100.0 2 7 9 4 0 0 2 3 -
+p167
+aVDavid Wood DAL 03/19/1996 DAL vs. CLE L 32 6 2 8 25.0 1 3 33.3 1 2 50.0 2 3 5 2 3 1 2 4 -
+p168
+aVLorenzo Williams DAL 03/19/1996 DAL vs. CLE L 42 2 1 5 20.0 0 0 - 0 0 - 4 6 10 1 2 3 3 3 -
+p169
+aVScott Brooks DAL 03/19/1996 DAL vs. CLE L 6 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 0 -
+p170
+aVLucious Harris DAL 03/19/1996 DAL vs. CLE L 23 14 5 10 50.0 2 4 50.0 2 2 100.0 2 2 4 2 0 0 1 0 -
+p171
+aVLoren Meyer DAL 03/19/1996 DAL vs. CLE L 9 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p172
+aVCherokee Parks DAL 03/19/1996 DAL vs. CLE L 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -
+p173
+aVGeorge McCloud DAL 03/19/1996 DAL vs. CLE L 40 18 6 19 31.6 4 12 33.3 2 2 100.0 3 3 6 3 1 0 1 3 -
+p174
+aVJason Kidd DAL 03/19/1996 DAL vs. CLE L 44 14 4 17 23.5 2 7 28.6 4 4 100.0 1 5 6 3 0 0 4 2 -
+p175
+aVJason Kidd DAL 03/17/1996 DAL @ POR L 15 3 1 10 10.0 1 5 20.0 0 0 - 1 1 2 2 1 0 2 0 -
+p176
+aVLorenzo Williams DAL 03/17/1996 DAL @ POR L 18 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 1 1 0 0 1 -
+p177
+aVJim Jackson DAL 03/17/1996 DAL @ POR L 32 9 3 10 30.0 1 4 25.0 2 2 100.0 0 2 2 4 1 0 3 1 -
+p178
+aVDavid Wood DAL 03/17/1996 DAL @ POR L 38 7 2 5 40.0 0 2 0.0 3 4 75.0 3 5 8 1 2 0 1 5 -
+p179
+aVCherokee Parks DAL 03/17/1996 DAL @ POR L 36 25 9 17 52.9 4 10 40.0 3 4 75.0 3 4 7 0 1 0 0 5 -
+p180
+aVLoren Meyer DAL 03/17/1996 DAL @ POR L 14 6 2 5 40.0 1 3 33.3 1 2 50.0 0 5 5 1 0 0 1 2 -
+p181
+aVLucious Harris DAL 03/17/1996 DAL @ POR L 24 16 5 10 50.0 0 0 - 6 6 100.0 1 0 1 3 2 0 2 1 -
+p182
+aVScott Brooks DAL 03/17/1996 DAL @ POR L 9 2 0 5 0.0 0 2 0.0 2 2 100.0 0 0 0 0 1 0 1 0 -
+p183
+aVGeorge McCloud DAL 03/17/1996 DAL @ POR L 18 6 3 14 21.4 0 5 0.0 0 0 - 3 1 4 0 0 0 2 2 -
+p184
+aVTony Dumas DAL 03/17/1996 DAL @ POR L 36 9 3 13 23.1 1 3 33.3 2 3 66.7 0 2 2 1 1 0 1 3 -
+p185
+aVScott Brooks DAL 03/15/1996 DAL @ SEA L 20 2 1 8 12.5 0 1 0.0 0 0 - 1 1 2 3 1 0 0 0 -
+p186
+aVGeorge McCloud DAL 03/15/1996 DAL @ SEA L 42 30 11 22 50.0 6 11 54.5 2 2 100.0 0 3 3 0 2 0 4 2 -
+p187
+aVJim Jackson DAL 03/15/1996 DAL @ SEA L 30 14 5 16 31.3 2 6 33.3 2 4 50.0 2 5 7 2 0 0 1 2 -
+p188
+aVDavid Wood DAL 03/15/1996 DAL @ SEA L 29 4 1 5 20.0 1 2 50.0 1 1 100.0 1 3 4 1 1 0 1 4 -
+p189
+aVLucious Harris DAL 03/15/1996 DAL @ SEA L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 -
+p190
+aVLorenzo Williams DAL 03/15/1996 DAL @ SEA L 24 9 4 6 66.7 0 0 - 1 2 50.0 5 5 10 1 1 1 0 4 -
+p191
+aVCherokee Parks DAL 03/15/1996 DAL @ SEA L 20 8 3 5 60.0 1 1 100.0 1 2 50.0 3 0 3 1 3 1 1 2 -
+p192
+aVTony Dumas DAL 03/15/1996 DAL @ SEA L 21 10 3 10 30.0 0 4 0.0 4 7 57.1 1 1 2 1 3 0 2 1 -
+p193
+aVLoren Meyer DAL 03/15/1996 DAL @ SEA L 13 4 1 6 16.7 0 1 0.0 2 2 100.0 4 3 7 0 1 0 2 6 -
+p194
+aVJason Kidd DAL 03/15/1996 DAL @ SEA L 29 14 5 16 31.3 1 6 16.7 3 6 50.0 5 2 7 8 2 0 4 3 -
+p195
+aVLucious Harris DAL 03/14/1996 DAL @ LAC L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p196
+aVLorenzo Williams DAL 03/14/1996 DAL @ LAC L 31 1 0 1 0.0 0 0 - 1 2 50.0 1 5 6 1 2 1 0 5 -
+p197
+aVTony Dumas DAL 03/14/1996 DAL @ LAC L 25 10 4 11 36.4 2 5 40.0 0 2 0.0 0 0 0 0 1 0 1 2 -
+p198
+aVScott Brooks DAL 03/14/1996 DAL @ LAC L 8 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -
+p199
+aVLoren Meyer DAL 03/14/1996 DAL @ LAC L 17 3 1 1 100.0 0 0 - 1 2 50.0 2 5 7 0 0 0 0 4 -
+p200
+aVJason Kidd DAL 03/14/1996 DAL @ LAC L 41 31 13 29 44.8 2 10 20.0 3 4 75.0 5 8 13 6 4 0 6 3 -
+p201
+aVGeorge McCloud DAL 03/14/1996 DAL @ LAC L 45 34 11 26 42.3 5 15 33.3 7 9 77.8 4 6 10 3 3 0 7 3 -
+p202
+aVJim Jackson DAL 03/14/1996 DAL @ LAC L 33 18 6 9 66.7 4 5 80.0 2 4 50.0 0 2 2 4 1 0 2 2 -
+p203
+aVDavid Wood DAL 03/14/1996 DAL @ LAC L 33 4 1 3 33.3 0 2 0.0 2 4 50.0 2 8 10 0 0 1 1 6 -
+p204
+aVJim Jackson DAL 03/12/1996 DAL vs. MIA L 43 28 10 23 43.5 0 5 0.0 8 12 66.7 1 5 6 4 0 0 3 3 -
+p205
+aVTony Dumas DAL 03/12/1996 DAL vs. MIA L 31 8 3 12 25.0 2 5 40.0 0 2 0.0 1 4 5 2 3 0 0 1 -
+p206
+aVLoren Meyer DAL 03/12/1996 DAL vs. MIA L 6 3 0 1 0.0 0 0 - 3 4 75.0 1 0 1 0 0 1 1 6 -
+p207
+aVLucious Harris DAL 03/12/1996 DAL vs. MIA L 17 6 2 7 28.6 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 0 -
+p208
+aVLorenzo Williams DAL 03/12/1996 DAL vs. MIA L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 1 6 -
+p209
+aVScott Brooks DAL 03/12/1996 DAL vs. MIA L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -
+p210
+aVCherokee Parks DAL 03/12/1996 DAL vs. MIA L 23 10 3 5 60.0 0 1 0.0 4 4 100.0 1 2 3 0 2 1 0 5 -
+p211
+aVDavid Wood DAL 03/12/1996 DAL vs. MIA L 19 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 2 0 0 0 4 -
+p212
+aVGeorge McCloud DAL 03/12/1996 DAL vs. MIA L 41 28 9 14 64.3 7 12 58.3 3 4 75.0 2 2 4 3 2 0 5 3 -
+p213
+aVJason Kidd DAL 03/12/1996 DAL vs. MIA L 37 24 7 15 46.7 4 7 57.1 6 6 100.0 0 4 4 11 3 0 3 2 -
+p214
+aVDavid Wood DAL 03/10/1996 DAL @ TOR L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 0 2 -
+p215
+aVJim Jackson DAL 03/10/1996 DAL @ TOR L 39 36 14 23 60.9 3 5 60.0 5 5 100.0 5 3 8 3 0 0 1 2 -
+p216
+aVGeorge McCloud DAL 03/10/1996 DAL @ TOR L 32 10 3 17 17.6 0 10 0.0 4 4 100.0 1 2 3 1 0 0 3 3 -
+p217
+aVLucious Harris DAL 03/10/1996 DAL @ TOR L 23 9 4 10 40.0 1 4 25.0 0 0 - 0 1 1 2 1 0 3 2 -
+p218
+aVTony Dumas DAL 03/10/1996 DAL @ TOR L 27 23 8 17 47.1 5 9 55.6 2 5 40.0 2 1 3 1 2 0 0 2 -
+p219
+aVCherokee Parks DAL 03/10/1996 DAL @ TOR L 15 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 2 1 0 2 -
+p220
+aVLoren Meyer DAL 03/10/1996 DAL @ TOR L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -
+p221
+aVLorenzo Williams DAL 03/10/1996 DAL @ TOR L 26 0 0 2 0.0 0 0 - 0 2 0.0 4 3 7 2 1 2 0 5 -
+p222
+aVJason Kidd DAL 03/10/1996 DAL @ TOR L 33 15 7 15 46.7 1 6 16.7 0 2 0.0 5 5 10 6 4 0 4 3 -
+p223
+aVScott Brooks DAL 03/10/1996 DAL @ TOR L 23 16 6 13 46.2 2 4 50.0 2 2 100.0 0 1 1 3 1 0 0 1 -
+p224
+aVGeorge McCloud DAL 03/09/1996 DAL @ DET L 35 13 5 14 35.7 2 6 33.3 1 2 50.0 1 6 7 2 1 0 3 2 -
+p225
+aVJim Jackson DAL 03/09/1996 DAL @ DET L 43 28 10 18 55.6 6 8 75.0 2 3 66.7 0 1 1 2 0 0 5 2 -
+p226
+aVJason Kidd DAL 03/09/1996 DAL @ DET L 43 15 6 23 26.1 2 7 28.6 1 2 50.0 6 4 10 8 0 0 0 1 -
+p227
+aVLorenzo Williams DAL 03/09/1996 DAL @ DET L 45 4 2 5 40.0 0 0 - 0 0 - 4 10 14 1 3 3 0 4 -
+p228
+aVTony Dumas DAL 03/09/1996 DAL @ DET L 28 12 4 16 25.0 0 5 0.0 4 4 100.0 0 6 6 4 0 0 0 4 -
+p229
+aVScott Brooks DAL 03/09/1996 DAL @ DET L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 -
+p230
+aVDavid Wood DAL 03/09/1996 DAL @ DET L 16 0 0 2 0.0 0 1 0.0 0 0 - 0 6 6 0 1 0 0 6 -
+p231
+aVLucious Harris DAL 03/09/1996 DAL @ DET L 24 19 7 10 70.0 3 4 75.0 2 2 100.0 0 1 1 3 2 0 0 3 -
+p232
+aVCherokee Parks DAL 03/07/1996 DAL @ CHH L 12 6 3 5 60.0 0 0 - 0 0 - 1 1 2 3 0 0 0 1 -
+p233
+aVLucious Harris DAL 03/07/1996 DAL @ CHH L 26 8 4 8 50.0 0 2 0.0 0 0 - 0 1 1 6 1 0 1 0 -
+p234
+aVGeorge McCloud DAL 03/07/1996 DAL @ CHH L 33 14 6 17 35.3 2 10 20.0 0 0 - 0 4 4 1 1 1 1 3 -
+p235
+aVJim Jackson DAL 03/07/1996 DAL @ CHH L 29 12 4 16 25.0 1 5 20.0 3 3 100.0 0 4 4 3 0 0 1 2 -
+p236
+aVLoren Meyer DAL 03/07/1996 DAL @ CHH L 7 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -
+p237
+aVScott Brooks DAL 03/07/1996 DAL @ CHH L 24 15 7 10 70.0 1 1 100.0 0 0 - 0 1 1 4 1 0 2 1 -
+p238
+aVJason Kidd DAL 03/07/1996 DAL @ CHH L 30 16 6 14 42.9 2 6 33.3 2 2 100.0 3 3 6 6 2 0 3 0 -
+p239
+aVLorenzo Williams DAL 03/07/1996 DAL @ CHH L 27 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 2 0 1 -
+p240
+aVTony Dumas DAL 03/07/1996 DAL @ CHH L 33 28 10 18 55.6 4 10 40.0 4 6 66.7 2 2 4 3 0 0 1 3 -
+p241
+aVDavid Wood DAL 03/07/1996 DAL @ CHH L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 1 0 0 1 3 -
+p242
+aVLoren Meyer DAL 03/05/1996 DAL vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -
+p243
+aVJim Jackson DAL 03/05/1996 DAL vs. NJN W 36 28 8 16 50.0 5 9 55.6 7 10 70.0 0 5 5 3 0 0 2 2 -
+p244
+aVGeorge McCloud DAL 03/05/1996 DAL vs. NJN W 45 30 11 28 39.3 7 20 35.0 1 2 50.0 4 8 12 1 1 2 4 2 -
+p245
+aVLorenzo Williams DAL 03/05/1996 DAL vs. NJN W 26 4 2 2 100.0 0 0 - 0 0 - 3 7 10 1 0 0 1 6 -
+p246
+aVTony Dumas DAL 03/05/1996 DAL vs. NJN W 29 13 5 12 41.7 1 5 20.0 2 2 100.0 2 1 3 4 1 0 1 4 -
+p247
+aVScott Brooks DAL 03/05/1996 DAL vs. NJN W 17 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 0 1 0 1 2 -
+p248
+aVDavid Wood DAL 03/05/1996 DAL vs. NJN W 20 0 0 6 0.0 0 4 0.0 0 0 - 3 2 5 2 0 0 0 6 -
+p249
+aVLucious Harris DAL 03/05/1996 DAL vs. NJN W 23 12 4 8 50.0 0 0 - 4 4 100.0 2 4 6 4 1 1 1 0 -
+p250
+aVJason Kidd DAL 03/05/1996 DAL vs. NJN W 35 26 11 21 52.4 4 8 50.0 0 0 - 2 4 6 9 5 0 2 0 -
+p251
+aVCherokee Parks DAL 03/05/1996 DAL vs. NJN W 4 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 -
+p252
+aVLorenzo Williams DAL 03/03/1996 DAL vs. PHX L 19 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 3 0 4 -
+p253
+aVJason Kidd DAL 03/03/1996 DAL vs. PHX L 40 11 4 14 28.6 1 9 11.1 2 4 50.0 0 5 5 9 2 1 3 4 -
+p254
+aVTony Dumas DAL 03/03/1996 DAL vs. PHX L 30 20 9 16 56.3 1 4 25.0 1 3 33.3 2 1 3 1 0 1 5 3 -
+p255
+aVJim Jackson DAL 03/03/1996 DAL vs. PHX L 38 14 3 14 21.4 0 4 0.0 8 8 100.0 4 9 13 3 1 0 3 2 -
+p256
+aVDavid Wood DAL 03/03/1996 DAL vs. PHX L 27 12 5 10 50.0 2 5 40.0 0 0 - 4 4 8 1 0 2 0 5 -
+p257
+aVLucious Harris DAL 03/03/1996 DAL vs. PHX L 26 14 6 13 46.2 0 2 0.0 2 2 100.0 1 2 3 0 0 0 0 0 -
+p258
+aVGeorge McCloud DAL 03/03/1996 DAL vs. PHX L 44 23 8 22 36.4 5 16 31.3 2 2 100.0 1 6 7 4 3 1 1 3 -
+p259
+aVScott Brooks DAL 03/03/1996 DAL vs. PHX L 16 18 6 8 75.0 1 2 50.0 5 5 100.0 0 0 0 2 0 0 0 1 -
+p260
+aVJason Kidd DAL 03/01/1996 DAL @ VAN W 40 19 7 20 35.0 0 4 0.0 5 8 62.5 5 2 7 16 1 0 4 1 -
+p261
+aVDavid Wood DAL 03/01/1996 DAL @ VAN W 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -
+p262
+aVLorenzo Williams DAL 03/01/1996 DAL @ VAN W 39 4 2 4 50.0 0 0 - 0 0 - 7 9 16 3 2 1 1 3 -
+p263
+aVGeorge McCloud DAL 03/01/1996 DAL @ VAN W 46 32 9 19 47.4 7 14 50.0 7 8 87.5 1 5 6 5 7 0 5 3 -
+p264
+aVTony Dumas DAL 03/01/1996 DAL @ VAN W 26 16 6 14 42.9 3 7 42.9 1 2 50.0 0 1 1 2 0 0 0 1 -
+p265
+aVLucious Harris DAL 03/01/1996 DAL @ VAN W 28 15 6 11 54.5 2 7 28.6 1 1 100.0 1 5 6 1 1 0 1 2 -
+p266
+aVJim Jackson DAL 03/01/1996 DAL @ VAN W 39 22 8 19 42.1 4 10 40.0 2 2 100.0 3 2 5 0 0 0 3 2 -
+p267
+aVScott Brooks DAL 03/01/1996 DAL @ VAN W 13 9 3 7 42.9 0 1 0.0 3 3 100.0 0 1 1 3 1 0 0 1 -
+p268
+aVJason Kidd DAL 02/29/1996 DAL @ DEN W 35 26 10 17 58.8 2 4 50.0 4 5 80.0 3 9 12 12 0 0 3 1 -
+p269
+aVLorenzo Williams DAL 02/29/1996 DAL @ DEN W 19 2 1 3 33.3 0 1 0.0 0 2 0.0 0 4 4 0 0 3 0 3 -
+p270
+aVLucious Harris DAL 02/29/1996 DAL @ DEN W 28 8 3 8 37.5 1 3 33.3 1 2 50.0 1 8 9 2 0 0 3 0 -
+p271
+aVLoren Meyer DAL 02/29/1996 DAL @ DEN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -
+p272
+aVScott Brooks DAL 02/29/1996 DAL @ DEN W 13 9 2 5 40.0 1 1 100.0 4 4 100.0 1 0 1 4 1 0 1 0 -
+p273
+aVGeorge McCloud DAL 02/29/1996 DAL @ DEN W 39 24 8 17 47.1 8 14 57.1 0 0 - 0 1 1 2 2 2 3 5 -
+p274
+aVJim Jackson DAL 02/29/1996 DAL @ DEN W 40 30 10 15 66.7 2 3 66.7 8 8 100.0 0 2 2 4 1 1 0 3 -
+p275
+aVDavid Wood DAL 02/29/1996 DAL @ DEN W 28 19 7 10 70.0 3 5 60.0 2 4 50.0 2 3 5 1 1 0 0 6 -
+p276
+aVTony Dumas DAL 02/29/1996 DAL @ DEN W 35 19 6 14 42.9 1 5 20.0 6 8 75.0 4 0 4 6 0 1 1 4 -
+p277
+aVTerry Davis DAL 02/27/1996 DAL vs. PHL L 15 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 2 0 1 2 -
+p278
+aVJason Kidd DAL 02/27/1996 DAL vs. PHL L 39 18 6 23 26.1 3 11 27.3 3 4 75.0 1 5 6 6 1 1 3 1 -
+p279
+aVGeorge McCloud DAL 02/27/1996 DAL vs. PHL L 48 30 10 22 45.5 8 16 50.0 2 4 50.0 1 11 12 2 2 0 3 2 -
+p280
+aVScott Brooks DAL 02/27/1996 DAL vs. PHL L 16 13 4 7 57.1 1 2 50.0 4 4 100.0 0 0 0 1 2 0 0 2 -
+p281
+aVDavid Wood DAL 02/27/1996 DAL vs. PHL L 21 7 3 5 60.0 1 2 50.0 0 0 - 2 3 5 1 0 1 1 4 -
+p282
+aVJim Jackson DAL 02/27/1996 DAL vs. PHL L 34 19 6 16 37.5 1 4 25.0 6 6 100.0 2 2 4 3 0 0 0 1 -
+p283
+aVLorenzo Williams DAL 02/27/1996 DAL vs. PHL L 29 0 0 2 0.0 0 0 - 0 0 - 4 5 9 3 0 2 3 6 -
+p284
+aVTony Dumas DAL 02/27/1996 DAL vs. PHL L 19 18 5 13 38.5 1 5 20.0 7 8 87.5 0 2 2 1 1 0 0 1 -
+p285
+aVLoren Meyer DAL 02/27/1996 DAL vs. PHL L 19 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 3 -
+p286
+aVTony Dumas DAL 02/25/1996 DAL vs. TOR W 19 15 3 6 50.0 1 2 50.0 8 14 57.1 1 1 2 2 2 0 0 1 -
+p287
+aVGeorge McCloud DAL 02/25/1996 DAL vs. TOR W 48 22 7 19 36.8 5 12 41.7 3 4 75.0 1 4 5 7 3 1 2 3 -
+p288
+aVLorenzo Williams DAL 02/25/1996 DAL vs. TOR W 47 4 1 5 20.0 0 0 - 2 6 33.3 5 13 18 1 2 2 3 4 -
+p289
+aVJim Jackson DAL 02/25/1996 DAL vs. TOR W 30 24 8 17 47.1 2 5 40.0 6 6 100.0 2 2 4 1 0 1 2 0 -
+p290
+aVJason Kidd DAL 02/25/1996 DAL vs. TOR W 37 20 7 17 41.2 1 5 20.0 5 8 62.5 3 4 7 6 2 0 5 0 -
+p291
+aVLoren Meyer DAL 02/25/1996 DAL vs. TOR W 23 8 3 7 42.9 0 0 - 2 2 100.0 5 2 7 0 2 0 4 1 -
+p292
+aVScott Brooks DAL 02/25/1996 DAL vs. TOR W 11 6 3 6 50.0 0 1 0.0 0 0 - 1 0 1 2 1 1 1 1 -
+p293
+aVCherokee Parks DAL 02/25/1996 DAL vs. TOR W 25 6 2 6 33.3 0 0 - 2 4 50.0 2 5 7 1 0 1 1 5 -
+p294
+aVLoren Meyer DAL 02/23/1996 DAL vs. LAL L 19 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 1 0 2 2 4 -
+p295
+aVDavid Wood DAL 02/23/1996 DAL vs. LAL L 13 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 0 0 0 0 4 -
+p296
+aVJim Jackson DAL 02/23/1996 DAL vs. LAL L 27 9 2 11 18.2 0 3 0.0 5 6 83.3 1 1 2 3 0 0 3 2 -
+p297
+aVGeorge McCloud DAL 02/23/1996 DAL vs. LAL L 31 15 6 14 42.9 1 5 20.0 2 2 100.0 1 2 3 2 0 0 1 3 -
+p298
+aVScott Brooks DAL 02/23/1996 DAL vs. LAL L 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 -
+p299
+aVLorenzo Williams DAL 02/23/1996 DAL vs. LAL L 29 4 2 3 66.7 0 0 - 0 0 - 4 4 8 0 1 4 1 1 -
+p300
+aVPopeye Jones DAL 02/23/1996 DAL vs. LAL L 17 0 0 5 0.0 0 0 - 0 0 - 3 6 9 0 0 0 0 3 -
+p301
+aVCherokee Parks DAL 02/23/1996 DAL vs. LAL L 31 16 8 17 47.1 0 1 0.0 0 3 0.0 5 5 10 0 0 0 1 1 -
+p302
+aVLucious Harris DAL 02/23/1996 DAL vs. LAL L 6 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 1 0 0 0 0 -
+p303
+aVJason Kidd DAL 02/23/1996 DAL vs. LAL L 37 17 8 26 30.8 1 3 33.3 0 0 - 5 5 10 12 3 1 2 3 -
+p304
+aVTerry Davis DAL 02/23/1996 DAL vs. LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p305
+aVTony Dumas DAL 02/23/1996 DAL vs. LAL L 21 10 5 13 38.5 0 0 - 0 2 0.0 2 0 2 0 4 0 4 0 -
+p306
+aVPopeye Jones DAL 02/21/1996 DAL vs. SAC W 36 13 5 17 29.4 2 3 66.7 1 2 50.0 5 8 13 1 1 1 2 3 -
+p307
+aVJason Kidd DAL 02/21/1996 DAL vs. SAC W 42 20 7 19 36.8 2 7 28.6 4 4 100.0 2 4 6 9 3 1 4 1 -
+p308
+aVLorenzo Williams DAL 02/21/1996 DAL vs. SAC W 29 5 1 9 11.1 0 0 - 3 6 50.0 10 10 20 0 0 4 1 5 -
+p309
+aVScott Brooks DAL 02/21/1996 DAL vs. SAC W 7 2 0 0 - 0 0 - 2 2 100.0 0 1 1 3 0 0 0 0 -
+p310
+aVGeorge McCloud DAL 02/21/1996 DAL vs. SAC W 38 5 1 9 11.1 1 4 25.0 2 2 100.0 1 2 3 1 2 0 1 1 -
+p311
+aVCherokee Parks DAL 02/21/1996 DAL vs. SAC W 14 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 0 -
+p312
+aVLoren Meyer DAL 02/21/1996 DAL vs. SAC W 15 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 3 0 1 1 2 -
+p313
+aVTony Dumas DAL 02/21/1996 DAL vs. SAC W 19 17 7 11 63.6 1 3 33.3 2 2 100.0 0 2 2 1 1 0 0 2 -
+p314
+aVJim Jackson DAL 02/21/1996 DAL vs. SAC W 40 21 9 20 45.0 2 5 40.0 1 1 100.0 2 6 8 3 0 1 5 4 -
+p315
+aVLucious Harris DAL 02/19/1996 DAL vs. GOS L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p316
+aVDavid Wood DAL 02/19/1996 DAL vs. GOS L 19 4 2 6 33.3 0 1 0.0 0 0 - 3 1 4 1 1 0 0 3 -
+p317
+aVCherokee Parks DAL 02/19/1996 DAL vs. GOS L 21 10 5 6 83.3 0 0 - 0 0 - 1 4 5 1 1 0 2 3 -
+p318
+aVTony Dumas DAL 02/19/1996 DAL vs. GOS L 14 18 8 12 66.7 1 1 100.0 1 3 33.3 2 2 4 0 0 0 0 1 -
+p319
+aVScott Brooks DAL 02/19/1996 DAL vs. GOS L 17 6 3 6 50.0 0 0 - 0 0 - 1 2 3 3 0 0 1 2 -
+p320
+aVJim Jackson DAL 02/19/1996 DAL vs. GOS L 28 12 4 13 30.8 1 3 33.3 3 3 100.0 3 2 5 2 1 0 4 2 -
+p321
+aVJason Kidd DAL 02/19/1996 DAL vs. GOS L 31 12 4 13 30.8 1 4 25.0 3 5 60.0 1 3 4 15 4 0 4 0 -
+p322
+aVLorenzo Williams DAL 02/19/1996 DAL vs. GOS L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 2 1 -
+p323
+aVLoren Meyer DAL 02/19/1996 DAL vs. GOS L 26 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 1 1 2 2 -
+p324
+aVPopeye Jones DAL 02/19/1996 DAL vs. GOS L 25 11 5 9 55.6 1 1 100.0 0 0 - 2 3 5 0 0 0 1 3 -
+p325
+aVGeorge McCloud DAL 02/19/1996 DAL vs. GOS L 40 27 9 20 45.0 5 9 55.6 4 6 66.7 1 1 2 3 3 0 1 1 -
+p326
+aVCherokee Parks DAL 02/16/1996 DAL @ LAL L 18 2 1 4 25.0 0 0 - 0 0 - 1 4 5 3 0 0 0 3 -
+p327
+aVDavid Wood DAL 02/16/1996 DAL @ LAL L 23 4 1 6 16.7 0 2 0.0 2 2 100.0 2 3 5 4 1 0 0 4 -
+p328
+aVGeorge McCloud DAL 02/16/1996 DAL @ LAL L 39 29 10 20 50.0 3 9 33.3 6 7 85.7 2 3 5 1 2 1 2 4 -
+p329
+aVScott Brooks DAL 02/16/1996 DAL @ LAL L 13 13 5 5 100.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 1 0 -
+p330
+aVPopeye Jones DAL 02/16/1996 DAL @ LAL L 34 11 5 8 62.5 0 0 - 1 1 100.0 1 6 7 3 1 1 3 3 -
+p331
+aVLucious Harris DAL 02/16/1996 DAL @ LAL L 4 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 2 0 1 0 -
+p332
+aVJason Kidd DAL 02/16/1996 DAL @ LAL L 35 6 2 12 16.7 2 7 28.6 0 0 - 5 2 7 12 1 1 7 1 -
+p333
+aVJim Jackson DAL 02/16/1996 DAL @ LAL L 36 31 12 22 54.5 4 7 57.1 3 5 60.0 2 2 4 4 0 0 1 0 -
+p334
+aVLoren Meyer DAL 02/16/1996 DAL @ LAL L 30 13 6 12 50.0 0 0 - 1 1 100.0 2 3 5 1 0 1 0 4 -
+p335
+aVTony Dumas DAL 02/16/1996 DAL @ LAL L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p336
+aVJim Jackson DAL 02/15/1996 DAL @ UTH L 34 20 8 16 50.0 3 5 60.0 1 2 50.0 3 5 8 2 1 0 3 2 -
+p337
+aVPopeye Jones DAL 02/15/1996 DAL @ UTH L 41 6 3 7 42.9 0 0 - 0 0 - 2 6 8 4 0 0 3 3 -
+p338
+aVGeorge McCloud DAL 02/15/1996 DAL @ UTH L 44 20 7 19 36.8 4 9 44.4 2 2 100.0 2 4 6 4 0 1 3 4 -
+p339
+aVCherokee Parks DAL 02/15/1996 DAL @ UTH L 17 2 1 4 25.0 0 0 - 0 2 0.0 0 6 6 0 0 1 0 4 -
+p340
+aVScott Brooks DAL 02/15/1996 DAL @ UTH L 11 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 2 0 0 1 0 -
+p341
+aVLoren Meyer DAL 02/15/1996 DAL @ UTH L 26 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 0 1 0 2 -
+p342
+aVJason Kidd DAL 02/15/1996 DAL @ UTH L 37 34 10 21 47.6 5 12 41.7 9 9 100.0 1 4 5 8 3 1 5 2 -
+p343
+aVLucious Harris DAL 02/15/1996 DAL @ UTH L 15 6 1 4 25.0 0 2 0.0 4 5 80.0 1 0 1 1 1 0 1 2 -
+p344
+aVDavid Wood DAL 02/15/1996 DAL @ UTH L 15 6 2 3 66.7 1 2 50.0 1 2 50.0 0 1 1 0 0 0 0 2 -
+p345
+aVLucious Harris DAL 02/13/1996 DAL @ HOU L 12 4 1 5 20.0 0 0 - 2 3 66.7 1 1 2 2 1 0 0 4 -
+p346
+aVTony Dumas DAL 02/13/1996 DAL @ HOU L 15 8 3 10 30.0 0 1 0.0 2 2 100.0 2 0 2 1 0 0 0 0 -
+p347
+aVJason Kidd DAL 02/13/1996 DAL @ HOU L 35 15 6 14 42.9 1 5 20.0 2 2 100.0 2 4 6 11 3 0 7 1 -
+p348
+aVJim Jackson DAL 02/13/1996 DAL @ HOU L 32 16 6 14 42.9 2 4 50.0 2 4 50.0 2 1 3 4 0 0 2 3 -
+p349
+aVDonald Hodge DAL 02/13/1996 DAL @ HOU L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -
+p350
+aVCherokee Parks DAL 02/13/1996 DAL @ HOU L 13 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -
+p351
+aVScott Brooks DAL 02/13/1996 DAL @ HOU L 9 6 2 7 28.6 1 1 100.0 1 2 50.0 1 0 1 2 0 0 0 0 -
+p352
+aVGeorge McCloud DAL 02/13/1996 DAL @ HOU L 35 23 10 19 52.6 3 9 33.3 0 0 - 1 2 3 4 4 0 1 3 -
+p353
+aVLoren Meyer DAL 02/13/1996 DAL @ HOU L 31 11 3 9 33.3 0 0 - 5 8 62.5 8 3 11 2 0 1 2 5 -
+p354
+aVDavid Wood DAL 02/13/1996 DAL @ HOU L 13 11 4 5 80.0 2 2 100.0 1 1 100.0 4 1 5 1 0 0 0 1 -
+p355
+aVPopeye Jones DAL 02/13/1996 DAL @ HOU L 36 8 3 9 33.3 0 0 - 2 4 50.0 1 11 12 0 1 0 4 1 -
+p356
+aVPopeye Jones DAL 02/08/1996 DAL vs. UTH W 36 9 4 4 100.0 0 0 - 1 2 50.0 0 9 9 0 1 0 1 5 -
+p357
+aVTony Dumas DAL 02/08/1996 DAL vs. UTH W 8 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p358
+aVJim Jackson DAL 02/08/1996 DAL vs. UTH W 50 38 10 18 55.6 3 5 60.0 15 18 83.3 0 3 3 1 0 1 3 2 -
+p359
+aVDonald Hodge DAL 02/08/1996 DAL vs. UTH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p360
+aVDavid Wood DAL 02/08/1996 DAL vs. UTH W 23 8 3 4 75.0 2 3 66.7 0 0 - 1 2 3 0 1 0 0 6 -
+p361
+aVLoren Meyer DAL 02/08/1996 DAL vs. UTH W 31 12 5 6 83.3 0 0 - 2 2 100.0 1 4 5 0 0 0 1 6 -
+p362
+aVCherokee Parks DAL 02/08/1996 DAL vs. UTH W 28 9 2 4 50.0 0 0 - 5 6 83.3 0 5 5 0 1 0 1 2 -
+p363
+aVJason Kidd DAL 02/08/1996 DAL vs. UTH W 49 20 6 17 35.3 3 10 30.0 5 9 55.6 0 4 4 25 4 0 5 4 -
+p364
+aVScott Brooks DAL 02/08/1996 DAL vs. UTH W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p365
+aVGeorge McCloud DAL 02/08/1996 DAL vs. UTH W 52 32 11 19 57.9 6 12 50.0 4 4 100.0 1 7 8 3 1 0 1 3 -
+p366
+aVLucious Harris DAL 02/08/1996 DAL vs. UTH W 5 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p367
+aVCherokee Parks DAL 02/06/1996 DAL @ MIL L 8 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p368
+aVJason Kidd DAL 02/06/1996 DAL @ MIL L 34 11 5 13 38.5 1 3 33.3 0 0 - 1 1 2 9 1 0 5 1 -
+p369
+aVJim Jackson DAL 02/06/1996 DAL @ MIL L 33 15 5 14 35.7 0 3 0.0 5 5 100.0 1 1 2 1 1 0 1 1 -
+p370
+aVLoren Meyer DAL 02/06/1996 DAL @ MIL L 36 6 2 7 28.6 0 0 - 2 4 50.0 4 5 9 3 1 0 1 5 -
+p371
+aVScott Brooks DAL 02/06/1996 DAL @ MIL L 14 12 6 8 75.0 0 1 0.0 0 0 - 0 1 1 2 0 1 2 2 -
+p372
+aVLucious Harris DAL 02/06/1996 DAL @ MIL L 19 13 5 7 71.4 1 3 33.3 2 2 100.0 1 1 2 1 1 0 0 1 -
+p373
+aVDavid Wood DAL 02/06/1996 DAL @ MIL L 19 8 2 4 50.0 0 0 - 4 4 100.0 1 0 1 0 0 0 2 3 -
+p374
+aVPopeye Jones DAL 02/06/1996 DAL @ MIL L 32 10 4 7 57.1 0 0 - 2 2 100.0 1 5 6 4 1 0 2 5 -
+p375
+aVGeorge McCloud DAL 02/06/1996 DAL @ MIL L 45 36 13 21 61.9 8 12 66.7 2 4 50.0 3 2 5 3 4 0 1 3 -
+p376
+aVPopeye Jones DAL 02/05/1996 DAL @ MIN L 34 8 4 15 26.7 0 1 0.0 0 0 - 5 8 13 1 1 1 1 3 -
+p377
+aVDonald Hodge DAL 02/05/1996 DAL @ MIN L 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 -
+p378
+aVLoren Meyer DAL 02/05/1996 DAL @ MIN L 26 8 2 6 33.3 0 0 - 4 4 100.0 2 3 5 0 0 1 0 3 -
+p379
+aVGeorge McCloud DAL 02/05/1996 DAL @ MIN L 45 17 7 22 31.8 3 11 27.3 0 0 - 2 5 7 6 2 2 4 1 -
+p380
+aVCherokee Parks DAL 02/05/1996 DAL @ MIN L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 0 1 1 0 -
+p381
+aVJason Kidd DAL 02/05/1996 DAL @ MIN L 44 22 10 16 62.5 2 3 66.7 0 0 - 1 1 2 9 0 0 4 3 -
+p382
+aVTony Dumas DAL 02/05/1996 DAL @ MIN L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p383
+aVDavid Wood DAL 02/05/1996 DAL @ MIN L 22 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 1 5 -
+p384
+aVLucious Harris DAL 02/05/1996 DAL @ MIN L 7 9 4 5 80.0 1 2 50.0 0 0 - 1 0 1 0 0 0 1 0 -
+p385
+aVJim Jackson DAL 02/05/1996 DAL @ MIN L 38 21 8 21 38.1 2 7 28.6 3 4 75.0 2 5 7 2 1 2 3 0 -
+p386
+aVJim Jackson DAL 02/03/1996 DAL vs. MIN L 33 15 5 11 45.5 1 4 25.0 4 5 80.0 1 1 2 2 0 0 4 3 -
+p387
+aVJason Kidd DAL 02/03/1996 DAL vs. MIN L 44 26 8 17 47.1 6 10 60.0 4 6 66.7 4 3 7 8 4 1 5 2 -
+p388
+aVDonald Hodge DAL 02/03/1996 DAL vs. MIN L 6 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 -
+p389
+aVDavid Wood DAL 02/03/1996 DAL vs. MIN L 15 1 0 1 0.0 0 0 - 1 1 100.0 1 3 4 1 0 0 1 2 -
+p390
+aVPopeye Jones DAL 02/03/1996 DAL vs. MIN L 45 21 7 17 41.2 1 1 100.0 6 6 100.0 9 4 13 3 0 1 4 6 -
+p391
+aVLoren Meyer DAL 02/03/1996 DAL vs. MIN L 34 8 4 7 57.1 0 0 - 0 0 - 2 5 7 2 0 1 1 4 -
+p392
+aVCherokee Parks DAL 02/03/1996 DAL vs. MIN L 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 2 0 0 -
+p393
+aVGeorge McCloud DAL 02/03/1996 DAL vs. MIN L 34 12 4 16 25.0 3 9 33.3 1 2 50.0 0 6 6 2 0 1 2 2 -
+p394
+aVTony Dumas DAL 02/03/1996 DAL vs. MIN L 23 13 5 15 33.3 1 5 20.0 2 8 25.0 1 0 1 1 1 0 1 2 -
+p395
+aVScott Brooks DAL 02/03/1996 DAL vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p396
+aVDavid Wood DAL 02/01/1996 DAL vs. SEA W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p397
+aVJim Jackson DAL 02/01/1996 DAL vs. SEA W 35 15 4 12 33.3 3 7 42.9 4 6 66.7 1 3 4 0 0 1 4 2 -
+p398
+aVScott Brooks DAL 02/01/1996 DAL vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p399
+aVLoren Meyer DAL 02/01/1996 DAL vs. SEA W 28 5 2 5 40.0 0 0 - 1 2 50.0 0 6 6 4 0 0 2 5 -
+p400
+aVJason Kidd DAL 02/01/1996 DAL vs. SEA W 47 36 14 22 63.6 5 8 62.5 3 6 50.0 2 7 9 8 4 1 5 1 -
+p401
+aVPopeye Jones DAL 02/01/1996 DAL vs. SEA W 33 14 5 12 41.7 0 0 - 4 5 80.0 6 8 14 4 1 0 2 5 -
+p402
+aVTony Dumas DAL 02/01/1996 DAL vs. SEA W 20 8 3 6 50.0 2 5 40.0 0 4 0.0 0 0 0 3 0 0 4 1 -
+p403
+aVDonald Hodge DAL 02/01/1996 DAL vs. SEA W 14 0 0 0 - 0 0 - 0 0 - 2 3 5 0 0 1 1 4 -
+p404
+aVCherokee Parks DAL 02/01/1996 DAL vs. SEA W 14 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 1 3 1 2 -
+p405
+aVGeorge McCloud DAL 02/01/1996 DAL vs. SEA W 45 23 7 18 38.9 4 10 40.0 5 5 100.0 0 5 5 3 2 1 3 0 -
+p406
+aVCherokee Parks DAL 01/30/1996 DAL vs. LAC W 10 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 -
+p407
+aVGeorge McCloud DAL 01/30/1996 DAL vs. LAC W 40 17 6 15 40.0 4 11 36.4 1 2 50.0 1 8 9 3 2 2 3 5 -
+p408
+aVJason Kidd DAL 01/30/1996 DAL vs. LAC W 48 21 8 19 42.1 3 6 50.0 2 4 50.0 6 10 16 16 2 0 8 2 -
+p409
+aVTerry Davis DAL 01/30/1996 DAL vs. LAC W 14 3 1 9 11.1 0 0 - 1 2 50.0 6 0 6 0 0 0 1 0 -
+p410
+aVJim Jackson DAL 01/30/1996 DAL vs. LAC W 33 27 7 14 50.0 3 4 75.0 10 13 76.9 2 5 7 2 1 1 2 2 -
+p411
+aVTony Dumas DAL 01/30/1996 DAL vs. LAC W 21 16 5 11 45.5 1 3 33.3 5 6 83.3 1 1 2 1 0 0 0 3 -
+p412
+aVPopeye Jones DAL 01/30/1996 DAL vs. LAC W 46 10 5 14 35.7 0 0 - 0 2 0.0 5 7 12 2 3 0 1 3 -
+p413
+aVLoren Meyer DAL 01/30/1996 DAL vs. LAC W 23 10 4 8 50.0 0 0 - 2 2 100.0 2 6 8 0 0 1 1 5 -
+p414
+aVDonald Hodge DAL 01/30/1996 DAL vs. LAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p415
+aVJason Kidd DAL 01/27/1996 DAL vs. POR L 41 7 2 11 18.2 1 5 20.0 2 2 100.0 2 7 9 13 1 0 3 4 -
+p416
+aVCherokee Parks DAL 01/27/1996 DAL vs. POR L 21 2 1 7 14.3 0 0 - 0 0 - 3 3 6 0 0 0 0 2 -
+p417
+aVScott Brooks DAL 01/27/1996 DAL vs. POR L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -
+p418
+aVTony Dumas DAL 01/27/1996 DAL vs. POR L 20 22 8 15 53.3 3 6 50.0 3 4 75.0 0 1 1 1 2 1 2 1 -
+p419
+aVDonald Hodge DAL 01/27/1996 DAL vs. POR L 26 8 4 7 57.1 0 0 - 0 0 - 1 3 4 1 1 0 0 5 -
+p420
+aVLoren Meyer DAL 01/27/1996 DAL vs. POR L 14 6 3 6 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 4 -
+p421
+aVJim Jackson DAL 01/27/1996 DAL vs. POR L 38 23 7 20 35.0 2 5 40.0 7 13 53.8 2 3 5 5 4 0 1 2 -
+p422
+aVPopeye Jones DAL 01/27/1996 DAL vs. POR L 34 14 7 11 63.6 0 1 0.0 0 0 - 4 7 11 3 0 0 0 4 -
+p423
+aVGeorge McCloud DAL 01/27/1996 DAL vs. POR L 39 19 6 14 42.9 4 10 40.0 3 3 100.0 0 1 1 2 0 1 2 2 -
+p424
+aVPopeye Jones DAL 01/25/1996 DAL vs. DET L 32 12 3 6 50.0 0 0 - 6 6 100.0 2 4 6 3 0 0 0 4 -
+p425
+aVLoren Meyer DAL 01/25/1996 DAL vs. DET L 31 13 5 5 100.0 0 0 - 3 6 50.0 3 5 8 2 0 1 2 4 -
+p426
+aVCherokee Parks DAL 01/25/1996 DAL vs. DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -
+p427
+aVTerry Davis DAL 01/25/1996 DAL vs. DET L 26 8 3 5 60.0 0 0 - 2 3 66.7 0 3 3 1 0 0 0 2 -
+p428
+aVScott Brooks DAL 01/25/1996 DAL vs. DET L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p429
+aVJason Kidd DAL 01/25/1996 DAL vs. DET L 44 11 4 19 21.1 2 7 28.6 1 2 50.0 2 6 8 12 1 0 0 0 -
+p430
+aVGeorge McCloud DAL 01/25/1996 DAL vs. DET L 44 23 9 18 50.0 4 10 40.0 1 2 50.0 1 5 6 5 2 2 1 4 -
+p431
+aVTony Dumas DAL 01/25/1996 DAL vs. DET L 16 7 2 7 28.6 1 5 20.0 2 2 100.0 0 1 1 1 0 0 2 0 -
+p432
+aVJim Jackson DAL 01/25/1996 DAL vs. DET L 37 18 7 14 50.0 1 4 25.0 3 3 100.0 1 2 3 2 1 0 3 2 -
+p433
+aVJim Jackson DAL 01/23/1996 DAL @ SAC W 36 30 12 20 60.0 3 6 50.0 3 5 60.0 4 0 4 3 2 0 1 5 -
+p434
+aVJason Kidd DAL 01/23/1996 DAL @ SAC W 43 29 8 19 42.1 1 4 25.0 12 16 75.0 2 8 10 10 3 0 8 3 -
+p435
+aVGeorge McCloud DAL 01/23/1996 DAL @ SAC W 42 10 3 10 30.0 2 7 28.6 2 2 100.0 1 4 5 5 4 0 2 2 -
+p436
+aVTerry Davis DAL 01/23/1996 DAL @ SAC W 29 11 5 10 50.0 0 0 - 1 4 25.0 0 3 3 0 0 1 3 4 -
+p437
+aVTony Dumas DAL 01/23/1996 DAL @ SAC W 19 13 4 5 80.0 1 2 50.0 4 4 100.0 0 0 0 2 0 0 1 3 -
+p438
+aVPopeye Jones DAL 01/23/1996 DAL @ SAC W 35 12 5 10 50.0 0 0 - 2 2 100.0 3 6 9 1 2 1 0 6 -
+p439
+aVScott Brooks DAL 01/23/1996 DAL @ SAC W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p440
+aVLoren Meyer DAL 01/23/1996 DAL @ SAC W 31 6 2 5 40.0 0 0 - 2 4 50.0 4 6 10 1 1 1 0 3 -
+p441
+aVTerry Davis DAL 01/21/1996 DAL @ SEA L 34 8 4 9 44.4 0 0 - 0 0 - 3 5 8 0 0 0 3 6 -
+p442
+aVTony Dumas DAL 01/21/1996 DAL @ SEA L 22 8 4 12 33.3 0 5 0.0 0 2 0.0 1 0 1 4 1 0 0 2 -
+p443
+aVJason Kidd DAL 01/21/1996 DAL @ SEA L 41 22 9 24 37.5 1 7 14.3 3 6 50.0 5 3 8 8 2 0 3 2 -
+p444
+aVPopeye Jones DAL 01/21/1996 DAL @ SEA L 42 18 7 14 50.0 0 0 - 4 4 100.0 11 9 20 4 1 0 1 5 -
+p445
+aVCherokee Parks DAL 01/21/1996 DAL @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p446
+aVGeorge McCloud DAL 01/21/1996 DAL @ SEA L 42 29 9 24 37.5 6 14 42.9 5 5 100.0 3 3 6 2 5 0 2 3 -
+p447
+aVScott Brooks DAL 01/21/1996 DAL @ SEA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p448
+aVJim Jackson DAL 01/21/1996 DAL @ SEA L 34 16 6 16 37.5 1 4 25.0 3 3 100.0 2 1 3 4 0 0 3 2 -
+p449
+aVLoren Meyer DAL 01/21/1996 DAL @ SEA L 14 0 0 4 0.0 0 0 - 0 0 - 1 4 5 0 0 0 2 5 -
+p450
+aVDonald Hodge DAL 01/21/1996 DAL @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p451
+aVReggie Slater DAL 01/19/1996 DAL vs. BOS W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p452
+aVPopeye Jones DAL 01/19/1996 DAL vs. BOS W 36 8 3 11 27.3 0 0 - 2 2 100.0 2 7 9 2 0 0 1 4 -
+p453
+aVGeorge McCloud DAL 01/19/1996 DAL vs. BOS W 40 18 5 13 38.5 2 6 33.3 6 7 85.7 3 6 9 2 3 0 2 4 -
+p454
+aVLoren Meyer DAL 01/19/1996 DAL vs. BOS W 23 6 3 5 60.0 0 0 - 0 0 - 3 4 7 2 0 1 1 4 -
+p455
+aVTerry Davis DAL 01/19/1996 DAL vs. BOS W 23 9 4 5 80.0 0 0 - 1 2 50.0 0 4 4 1 3 1 2 2 -
+p456
+aVTony Dumas DAL 01/19/1996 DAL vs. BOS W 18 19 4 9 44.4 2 3 66.7 9 11 81.8 2 1 3 1 0 0 1 2 -
+p457
+aVJim Jackson DAL 01/19/1996 DAL vs. BOS W 39 31 11 19 57.9 2 3 66.7 7 8 87.5 1 0 1 3 1 0 1 2 -
+p458
+aVJason Kidd DAL 01/19/1996 DAL vs. BOS W 34 23 9 14 64.3 0 0 - 5 9 55.6 1 5 6 12 4 0 4 1 -
+p459
+aVScott Brooks DAL 01/19/1996 DAL vs. BOS W 20 15 5 9 55.6 0 1 0.0 5 7 71.4 0 1 1 1 0 0 1 3 -
+p460
+aVTerry Davis DAL 01/15/1996 DAL vs. ORL W 37 15 6 12 50.0 0 0 - 3 4 75.0 3 5 8 2 0 0 0 5 -
+p461
+aVJason Kidd DAL 01/15/1996 DAL vs. ORL W 41 20 4 13 30.8 1 6 16.7 11 12 91.7 2 5 7 14 3 0 3 2 -
+p462
+aVGeorge McCloud DAL 01/15/1996 DAL vs. ORL W 44 27 11 24 45.8 3 7 42.9 2 3 66.7 4 6 10 4 2 2 2 3 -
+p463
+aVCherokee Parks DAL 01/15/1996 DAL vs. ORL W 15 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -
+p464
+aVLoren Meyer DAL 01/15/1996 DAL vs. ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p465
+aVJim Jackson DAL 01/15/1996 DAL vs. ORL W 42 29 9 16 56.3 0 1 0.0 11 14 78.6 1 2 3 3 1 1 2 3 -
+p466
+aVPopeye Jones DAL 01/15/1996 DAL vs. ORL W 38 22 9 14 64.3 0 0 - 4 4 100.0 8 8 16 4 1 0 0 4 -
+p467
+aVTony Dumas DAL 01/15/1996 DAL vs. ORL W 16 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 2 0 0 1 3 -
+p468
+aVScott Brooks DAL 01/15/1996 DAL vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p469
+aVGeorge McCloud DAL 01/13/1996 DAL vs. CHH L 40 18 6 16 37.5 3 7 42.9 3 4 75.0 0 6 6 3 0 1 1 2 -
+p470
+aVTony Dumas DAL 01/13/1996 DAL vs. CHH L 19 3 1 6 16.7 0 1 0.0 1 2 50.0 0 0 0 3 0 0 1 0 -
+p471
+aVScott Brooks DAL 01/13/1996 DAL vs. CHH L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -
+p472
+aVReggie Slater DAL 01/13/1996 DAL vs. CHH L 16 11 5 7 71.4 0 0 - 1 2 50.0 1 2 3 0 0 0 1 2 -
+p473
+aVCherokee Parks DAL 01/13/1996 DAL vs. CHH L 19 8 4 7 57.1 0 0 - 0 2 0.0 3 4 7 0 0 0 0 2 -
+p474
+aVJason Kidd DAL 01/13/1996 DAL vs. CHH L 36 13 5 12 41.7 2 4 50.0 1 2 50.0 5 5 10 11 1 0 7 4 -
+p475
+aVTerry Davis DAL 01/13/1996 DAL vs. CHH L 5 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 1 1 -
+p476
+aVJim Jackson DAL 01/13/1996 DAL vs. CHH L 36 13 6 13 46.2 0 1 0.0 1 4 25.0 0 3 3 2 0 0 0 0 -
+p477
+aVPopeye Jones DAL 01/13/1996 DAL vs. CHH L 24 4 2 7 28.6 0 0 - 0 0 - 1 7 8 2 0 0 2 6 -
+p478
+aVLoren Meyer DAL 01/13/1996 DAL vs. CHH L 30 8 4 8 50.0 0 0 - 0 0 - 3 8 11 0 0 0 1 4 -
+p479
+aVReggie Slater DAL 01/12/1996 DAL @ PHX W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p480
+aVPopeye Jones DAL 01/12/1996 DAL @ PHX W 48 22 10 14 71.4 0 0 - 2 2 100.0 4 9 13 5 1 0 3 4 -
+p481
+aVJim Jackson DAL 01/12/1996 DAL @ PHX W 39 21 8 16 50.0 1 5 20.0 4 5 80.0 0 6 6 7 2 1 1 2 -
+p482
+aVGeorge McCloud DAL 01/12/1996 DAL @ PHX W 36 10 3 9 33.3 0 3 0.0 4 4 100.0 0 1 1 3 0 0 1 2 -
+p483
+aVJason Kidd DAL 01/12/1996 DAL @ PHX W 50 33 9 14 64.3 1 3 33.3 14 14 100.0 3 9 12 16 1 1 6 4 -
+p484
+aVCherokee Parks DAL 01/12/1996 DAL @ PHX W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p485
+aVScott Brooks DAL 01/12/1996 DAL @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p486
+aVTerry Davis DAL 01/12/1996 DAL @ PHX W 14 6 2 3 66.7 0 0 - 2 3 66.7 0 1 1 0 1 0 0 3 -
+p487
+aVLoren Meyer DAL 01/12/1996 DAL @ PHX W 29 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 3 0 0 1 5 -
+p488
+aVDonald Hodge DAL 01/12/1996 DAL @ PHX W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p489
+aVTony Dumas DAL 01/12/1996 DAL @ PHX W 33 39 15 19 78.9 6 9 66.7 3 4 75.0 1 1 2 2 1 0 3 2 -
+p490
+aVLorenzo Williams DAL 01/09/1996 DAL vs. IND L 7 0 0 2 0.0 0 0 - 0 0 - 2 0 2 2 0 1 1 0 -
+p491
+aVLoren Meyer DAL 01/09/1996 DAL vs. IND L 24 0 0 6 0.0 0 0 - 0 2 0.0 2 3 5 1 0 1 0 4 -
+p492
+aVScott Brooks DAL 01/09/1996 DAL vs. IND L 13 6 3 8 37.5 0 3 0.0 0 0 - 0 1 1 0 1 0 0 0 -
+p493
+aVJim Jackson DAL 01/09/1996 DAL vs. IND L 38 19 6 16 37.5 2 3 66.7 5 5 100.0 7 5 12 1 0 0 5 0 -
+p494
+aVDonald Hodge DAL 01/09/1996 DAL vs. IND L 16 2 1 4 25.0 0 0 - 0 0 - 3 1 4 1 0 0 0 2 -
+p495
+aVTony Dumas DAL 01/09/1996 DAL vs. IND L 11 3 1 6 16.7 1 2 50.0 0 0 - 1 0 1 1 0 0 1 4 -
+p496
+aVCherokee Parks DAL 01/09/1996 DAL vs. IND L 7 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 2 -
+p497
+aVJason Kidd DAL 01/09/1996 DAL vs. IND L 36 16 6 18 33.3 1 4 25.0 3 4 75.0 4 5 9 7 0 0 1 4 -
+p498
+aVPopeye Jones DAL 01/09/1996 DAL vs. IND L 47 11 5 16 31.3 0 0 - 1 2 50.0 11 17 28 5 0 2 3 5 -
+p499
+aVGeorge McCloud DAL 01/09/1996 DAL vs. IND L 41 25 10 19 52.6 5 10 50.0 0 0 - 2 1 3 1 0 2 4 4 -
+p500
+aVJason Kidd DAL 01/07/1996 DAL @ BOS W 41 29 9 20 45.0 2 3 66.7 9 12 75.0 3 2 5 10 2 0 7 2 -
+p501
+aVPopeye Jones DAL 01/07/1996 DAL @ BOS W 34 10 4 5 80.0 0 0 - 2 2 100.0 7 7 14 1 2 1 4 5 -
+p502
+aVGeorge McCloud DAL 01/07/1996 DAL @ BOS W 44 28 9 20 45.0 4 11 36.4 6 7 85.7 1 6 7 3 1 1 3 1 -
+p503
+aVJim Jackson DAL 01/07/1996 DAL @ BOS W 36 30 11 20 55.0 4 7 57.1 4 4 100.0 1 5 6 7 1 0 4 3 -
+p504
+aVDonald Hodge DAL 01/07/1996 DAL @ BOS W 7 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 0 4 -
+p505
+aVLorenzo Williams DAL 01/07/1996 DAL @ BOS W 39 1 0 2 0.0 0 0 - 1 2 50.0 4 12 16 2 1 2 1 6 -
+p506
+aVTony Dumas DAL 01/07/1996 DAL @ BOS W 18 7 1 5 20.0 1 2 50.0 4 4 100.0 0 1 1 1 0 0 1 1 -
+p507
+aVScott Brooks DAL 01/07/1996 DAL @ BOS W 13 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 2 0 0 2 -
+p508
+aVCherokee Parks DAL 01/07/1996 DAL @ BOS W 8 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p509
+aVDonald Hodge DAL 01/05/1996 DAL @ NJN L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p510
+aVScott Brooks DAL 01/05/1996 DAL @ NJN L 13 8 3 6 50.0 2 2 100.0 0 0 - 0 1 1 3 1 1 1 1 -
+p511
+aVGeorge McCloud DAL 01/05/1996 DAL @ NJN L 39 21 8 21 38.1 3 11 27.3 2 2 100.0 1 3 4 3 0 0 2 3 -
+p512
+aVPopeye Jones DAL 01/05/1996 DAL @ NJN L 32 16 7 11 63.6 0 0 - 2 2 100.0 2 4 6 4 2 2 2 1 -
+p513
+aVTony Dumas DAL 01/05/1996 DAL @ NJN L 16 8 2 6 33.3 0 1 0.0 4 6 66.7 0 0 0 0 0 0 0 2 -
+p514
+aVJason Kidd DAL 01/05/1996 DAL @ NJN L 35 10 3 14 21.4 2 6 33.3 2 2 100.0 1 4 5 12 4 0 4 4 -
+p515
+aVLorenzo Williams DAL 01/05/1996 DAL @ NJN L 43 2 1 1 100.0 0 0 - 0 0 - 3 5 8 3 2 5 1 5 -
+p516
+aVCherokee Parks DAL 01/05/1996 DAL @ NJN L 16 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 1 1 1 -
+p517
+aVJim Jackson DAL 01/05/1996 DAL @ NJN L 41 32 13 27 48.1 2 4 50.0 4 6 66.7 5 2 7 4 0 1 0 1 -
+p518
+aVTerry Davis DAL 01/04/1996 DAL @ WAS L 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p519
+aVCherokee Parks DAL 01/04/1996 DAL @ WAS L 12 2 1 1 100.0 0 0 - 0 0 - 0 5 5 0 0 0 0 3 -
+p520
+aVJim Jackson DAL 01/04/1996 DAL @ WAS L 40 33 13 24 54.2 1 4 25.0 6 6 100.0 2 3 5 6 3 0 5 1 -
+p521
+aVScott Brooks DAL 01/04/1996 DAL @ WAS L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 0 -
+p522
+aVTony Dumas DAL 01/04/1996 DAL @ WAS L 15 7 3 9 33.3 0 2 0.0 1 4 25.0 2 0 2 1 0 1 2 3 -
+p523
+aVJason Kidd DAL 01/04/1996 DAL @ WAS L 37 13 5 18 27.8 1 4 25.0 2 2 100.0 1 2 3 7 0 0 5 2 -
+p524
+aVPopeye Jones DAL 01/04/1996 DAL @ WAS L 37 10 5 8 62.5 0 0 - 0 0 - 4 5 9 2 1 1 0 4 -
+p525
+aVGeorge McCloud DAL 01/04/1996 DAL @ WAS L 40 21 9 15 60.0 3 7 42.9 0 0 - 1 3 4 8 2 0 3 3 -
+p526
+aVDonald Hodge DAL 01/04/1996 DAL @ WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 0 -
+p527
+aVLorenzo Williams DAL 01/04/1996 DAL @ WAS L 39 10 4 6 66.7 0 0 - 2 2 100.0 5 5 10 3 1 1 1 4 -
+p528
+aVTony Dumas DAL 01/02/1996 DAL vs. UTH L 20 11 3 9 33.3 3 4 75.0 2 4 50.0 0 0 0 0 1 0 2 2 -
+p529
+aVScott Brooks DAL 01/02/1996 DAL vs. UTH L 11 10 3 6 50.0 2 3 66.7 2 2 100.0 0 0 0 0 0 0 1 0 -
+p530
+aVTerry Davis DAL 01/02/1996 DAL vs. UTH L 15 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 -
+p531
+aVCherokee Parks DAL 01/02/1996 DAL vs. UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p532
+aVPopeye Jones DAL 01/02/1996 DAL vs. UTH L 43 2 1 9 11.1 0 1 0.0 0 0 - 0 9 9 3 1 0 1 5 -
+p533
+aVJim Jackson DAL 01/02/1996 DAL vs. UTH L 37 23 10 18 55.6 0 4 0.0 3 3 100.0 0 1 1 4 1 0 2 3 -
+p534
+aVLoren Meyer DAL 01/02/1996 DAL vs. UTH L 9 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 1 0 2 -
+p535
+aVGeorge McCloud DAL 01/02/1996 DAL vs. UTH L 40 17 7 16 43.8 3 8 37.5 0 0 - 1 5 6 1 0 0 4 1 -
+p536
+aVLorenzo Williams DAL 01/02/1996 DAL vs. UTH L 27 2 1 3 33.3 0 0 - 0 0 - 5 3 8 2 2 1 1 6 -
+p537
+aVJason Kidd DAL 01/02/1996 DAL vs. UTH L 37 23 6 13 46.2 4 5 80.0 7 10 70.0 3 2 5 9 3 0 5 2 -
+p538
+aVLorenzo Williams DAL 12/30/1995 DAL vs. HOU L 30 2 1 2 50.0 0 0 - 0 0 - 2 3 5 2 1 4 0 6 -
+p539
+aVLoren Meyer DAL 12/30/1995 DAL vs. HOU L 18 3 1 3 33.3 0 0 - 1 1 100.0 0 5 5 0 0 1 1 6 -
+p540
+aVGeorge McCloud DAL 12/30/1995 DAL vs. HOU L 39 22 8 18 44.4 3 8 37.5 3 4 75.0 2 3 5 4 1 2 5 3 -
+p541
+aVTony Dumas DAL 12/30/1995 DAL vs. HOU L 24 27 10 17 58.8 4 7 57.1 3 10 30.0 0 2 2 2 0 0 0 2 -
+p542
+aVJim Jackson DAL 12/30/1995 DAL vs. HOU L 34 13 5 13 38.5 1 3 33.3 2 3 66.7 1 2 3 4 0 0 3 1 -
+p543
+aVScott Brooks DAL 12/30/1995 DAL vs. HOU L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -
+p544
+aVPopeye Jones DAL 12/30/1995 DAL vs. HOU L 42 19 7 11 63.6 1 1 100.0 4 6 66.7 3 8 11 1 0 1 1 4 -
+p545
+aVJason Kidd DAL 12/30/1995 DAL vs. HOU L 42 16 7 16 43.8 0 3 0.0 2 2 100.0 1 3 4 15 1 1 2 3 -
+p546
+aVTerry Davis DAL 12/30/1995 DAL vs. HOU L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p547
+aVLorenzo Williams DAL 12/28/1995 DAL vs. VAN W 34 7 3 5 60.0 0 0 - 1 2 50.0 8 7 15 2 0 4 1 6 -
+p548
+aVScott Brooks DAL 12/28/1995 DAL vs. VAN W 22 6 3 9 33.3 0 1 0.0 0 0 - 0 0 0 6 3 0 1 1 -
+p549
+aVCherokee Parks DAL 12/28/1995 DAL vs. VAN W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p550
+aVPopeye Jones DAL 12/28/1995 DAL vs. VAN W 46 10 5 13 38.5 0 0 - 0 0 - 6 7 13 0 1 1 1 4 -
+p551
+aVJason Kidd DAL 12/28/1995 DAL vs. VAN W 40 21 6 20 30.0 3 6 50.0 6 8 75.0 3 7 10 6 4 1 7 4 -
+p552
+aVJim Jackson DAL 12/28/1995 DAL vs. VAN W 46 22 7 23 30.4 1 1 100.0 7 8 87.5 12 2 14 3 0 0 6 5 -
+p553
+aVLoren Meyer DAL 12/28/1995 DAL vs. VAN W 26 7 1 4 25.0 0 0 - 5 6 83.3 4 9 13 1 0 1 1 4 -
+p554
+aVTony Dumas DAL 12/28/1995 DAL vs. VAN W 36 18 3 16 18.8 1 7 14.3 11 16 68.8 2 3 5 0 1 0 2 3 -
+p555
+aVGeorge McCloud DAL 12/28/1995 DAL vs. VAN W 33 12 4 15 26.7 1 7 14.3 3 4 75.0 1 4 5 2 2 1 2 0 -
+p556
+aVLucious Harris DAL 12/26/1995 DAL @ DEN L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -
+p557
+aVLoren Meyer DAL 12/26/1995 DAL @ DEN L 26 10 4 7 57.1 0 1 0.0 2 4 50.0 1 5 6 5 2 1 0 1 -
+p558
+aVCherokee Parks DAL 12/26/1995 DAL @ DEN L 9 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 2 0 -
+p559
+aVPopeye Jones DAL 12/26/1995 DAL @ DEN L 32 10 4 10 40.0 0 0 - 2 2 100.0 5 7 12 1 2 0 2 4 -
+p560
+aVLorenzo Williams DAL 12/26/1995 DAL @ DEN L 22 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 3 0 2 -
+p561
+aVTony Dumas DAL 12/26/1995 DAL @ DEN L 24 22 7 16 43.8 4 8 50.0 4 6 66.7 0 1 1 3 0 0 1 4 -
+p562
+aVGeorge McCloud DAL 12/26/1995 DAL @ DEN L 39 16 8 14 57.1 0 2 0.0 0 0 - 1 6 7 4 0 0 1 3 -
+p563
+aVJim Jackson DAL 12/26/1995 DAL @ DEN L 38 31 12 25 48.0 2 4 50.0 5 6 83.3 3 3 6 3 2 0 4 1 -
+p564
+aVJason Kidd DAL 12/26/1995 DAL @ DEN L 33 9 4 11 36.4 0 1 0.0 1 1 100.0 3 0 3 8 4 0 3 4 -
+p565
+aVLucious Harris DAL 12/23/1995 DAL @ MIN L 12 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -
+p566
+aVJason Kidd DAL 12/23/1995 DAL @ MIN L 36 9 4 16 25.0 0 5 0.0 1 3 33.3 1 3 4 14 1 0 7 2 -
+p567
+aVCherokee Parks DAL 12/23/1995 DAL @ MIN L 26 15 7 12 58.3 0 0 - 1 1 100.0 2 6 8 1 0 5 0 4 -
+p568
+aVLoren Meyer DAL 12/23/1995 DAL @ MIN L 18 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 1 2 1 1 5 -
+p569
+aVPopeye Jones DAL 12/23/1995 DAL @ MIN L 30 8 4 10 40.0 0 0 - 0 0 - 2 1 3 4 2 0 1 3 -
+p570
+aVTony Dumas DAL 12/23/1995 DAL @ MIN L 19 11 4 10 40.0 1 4 25.0 2 2 100.0 0 2 2 2 0 1 0 1 -
+p571
+aVJim Jackson DAL 12/23/1995 DAL @ MIN L 34 22 9 19 47.4 0 1 0.0 4 5 80.0 6 3 9 1 0 0 1 2 -
+p572
+aVGeorge McCloud DAL 12/23/1995 DAL @ MIN L 38 22 9 19 47.4 4 10 40.0 0 0 - 2 3 5 3 3 1 3 3 -
+p573
+aVLorenzo Williams DAL 12/23/1995 DAL @ MIN L 27 2 1 1 100.0 0 0 - 0 0 - 4 1 5 1 0 1 4 3 -
+p574
+aVScott Brooks DAL 12/22/1995 DAL @ IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p575
+aVJim Jackson DAL 12/22/1995 DAL @ IND L 26 8 3 11 27.3 0 4 0.0 2 2 100.0 2 3 5 2 0 0 1 2 -
+p576
+aVPopeye Jones DAL 12/22/1995 DAL @ IND L 36 17 8 14 57.1 0 0 - 1 1 100.0 4 5 9 1 1 0 2 3 -
+p577
+aVLucious Harris DAL 12/22/1995 DAL @ IND L 14 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 -
+p578
+aVTony Dumas DAL 12/22/1995 DAL @ IND L 24 17 6 10 60.0 2 2 100.0 3 4 75.0 1 1 2 1 0 0 4 3 -
+p579
+aVLoren Meyer DAL 12/22/1995 DAL @ IND L 27 7 3 7 42.9 0 0 - 1 2 50.0 5 1 6 0 0 0 2 4 -
+p580
+aVCherokee Parks DAL 12/22/1995 DAL @ IND L 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 0 -
+p581
+aVJason Kidd DAL 12/22/1995 DAL @ IND L 37 9 3 15 20.0 1 4 25.0 2 6 33.3 1 3 4 10 5 1 3 3 -
+p582
+aVGeorge McCloud DAL 12/22/1995 DAL @ IND L 33 19 7 16 43.8 3 7 42.9 2 2 100.0 1 4 5 2 0 0 2 2 -
+p583
+aVLorenzo Williams DAL 12/22/1995 DAL @ IND L 24 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 5 -
+p584
+aVTerry Davis DAL 12/19/1995 DAL @ CHI L 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 3 1 -
+p585
+aVLorenzo Williams DAL 12/19/1995 DAL @ CHI L 24 2 1 4 25.0 0 0 - 0 0 - 3 2 5 4 0 1 2 3 -
+p586
+aVTony Dumas DAL 12/19/1995 DAL @ CHI L 24 24 10 17 58.8 2 3 66.7 2 2 100.0 1 1 2 1 1 0 2 5 -
+p587
+aVCherokee Parks DAL 12/19/1995 DAL @ CHI L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 1 1 -
+p588
+aVLucious Harris DAL 12/19/1995 DAL @ CHI L 37 17 7 13 53.8 3 6 50.0 0 0 - 1 1 2 2 1 0 1 2 -
+p589
+aVLoren Meyer DAL 12/19/1995 DAL @ CHI L 23 10 5 11 45.5 0 0 - 0 0 - 2 6 8 1 0 0 2 3 -
+p590
+aVJim Jackson DAL 12/19/1995 DAL @ CHI L 32 19 6 14 42.9 0 0 - 7 7 100.0 5 3 8 3 0 0 1 1 -
+p591
+aVScott Brooks DAL 12/19/1995 DAL @ CHI L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 1 0 1 0 -
+p592
+aVGeorge McCloud DAL 12/19/1995 DAL @ CHI L 40 18 7 15 46.7 4 6 66.7 0 0 - 3 3 6 4 2 0 1 3 -
+p593
+aVPopeye Jones DAL 12/19/1995 DAL @ CHI L 24 6 3 6 50.0 0 0 - 0 0 - 0 4 4 2 1 0 2 6 -
+p594
+aVGeorge McCloud DAL 12/16/1995 DAL vs. PHX L 49 36 12 22 54.5 10 12 83.3 2 2 100.0 1 5 6 2 3 0 1 3 -
+p595
+aVScott Brooks DAL 12/16/1995 DAL vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p596
+aVLucious Harris DAL 12/16/1995 DAL vs. PHX L 11 3 1 2 50.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 1 1 -
+p597
+aVJason Kidd DAL 12/16/1995 DAL vs. PHX L 42 15 6 17 35.3 2 4 50.0 1 4 25.0 0 2 2 8 3 0 7 4 -
+p598
+aVJim Jackson DAL 12/16/1995 DAL vs. PHX L 36 21 6 15 40.0 1 2 50.0 8 9 88.9 6 4 10 3 0 0 3 3 -
+p599
+aVTerry Davis DAL 12/16/1995 DAL vs. PHX L 32 7 3 3 100.0 0 0 - 1 4 25.0 2 3 5 1 0 1 3 2 -
+p600
+aVLorenzo Williams DAL 12/16/1995 DAL vs. PHX L 30 4 2 6 33.3 0 0 - 0 0 - 11 4 15 2 0 2 1 4 -
+p601
+aVLoren Meyer DAL 12/16/1995 DAL vs. PHX L 5 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p602
+aVPopeye Jones DAL 12/16/1995 DAL vs. PHX L 41 11 5 16 31.3 0 0 - 1 2 50.0 5 6 11 6 0 0 2 6 -
+p603
+aVTony Dumas DAL 12/16/1995 DAL vs. PHX L 18 9 3 10 30.0 1 3 33.3 2 2 100.0 2 0 2 1 0 0 1 3 -
+p604
+aVJason Kidd DAL 12/14/1995 DAL vs. SAN L 35 17 7 15 46.7 2 4 50.0 1 1 100.0 3 3 6 11 2 0 1 1 -
+p605
+aVLoren Meyer DAL 12/14/1995 DAL vs. SAN L 10 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -
+p606
+aVTerry Davis DAL 12/14/1995 DAL vs. SAN L 35 13 6 8 75.0 0 0 - 1 1 100.0 3 7 10 4 1 0 1 3 -
+p607
+aVLorenzo Williams DAL 12/14/1995 DAL vs. SAN L 16 5 2 3 66.7 0 0 - 1 2 50.0 1 1 2 3 0 1 1 4 -
+p608
+aVGeorge McCloud DAL 12/14/1995 DAL vs. SAN L 35 20 7 14 50.0 4 8 50.0 2 2 100.0 0 1 1 2 1 0 1 5 -
+p609
+aVTony Dumas DAL 12/14/1995 DAL vs. SAN L 16 2 0 6 0.0 0 1 0.0 2 4 50.0 0 0 0 6 0 0 1 2 -
+p610
+aVJim Jackson DAL 12/14/1995 DAL vs. SAN L 37 17 6 21 28.6 0 2 0.0 5 7 71.4 5 2 7 2 1 0 1 3 -
+p611
+aVPopeye Jones DAL 12/14/1995 DAL vs. SAN L 35 12 6 16 37.5 0 0 - 0 0 - 3 5 8 2 1 0 1 3 -
+p612
+aVLucious Harris DAL 12/14/1995 DAL vs. SAN L 21 19 7 9 77.8 5 5 100.0 0 0 - 0 3 3 3 0 0 2 2 -
+p613
+aVLucious Harris DAL 12/12/1995 DAL vs. SEA W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -
+p614
+aVLorenzo Williams DAL 12/12/1995 DAL vs. SEA W 31 8 4 8 50.0 0 0 - 0 1 0.0 6 5 11 1 2 2 1 3 -
+p615
+aVPopeye Jones DAL 12/12/1995 DAL vs. SEA W 35 16 7 17 41.2 0 0 - 2 2 100.0 2 10 12 4 1 0 3 6 -
+p616
+aVJason Kidd DAL 12/12/1995 DAL vs. SEA W 43 7 2 14 14.3 1 5 20.0 2 4 50.0 3 8 11 18 2 2 1 3 -
+p617
+aVTerry Davis DAL 12/12/1995 DAL vs. SEA W 25 6 2 4 50.0 0 0 - 2 4 50.0 2 4 6 0 1 0 0 6 -
+p618
+aVLoren Meyer DAL 12/12/1995 DAL vs. SEA W 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 2 0 0 1 1 -
+p619
+aVScott Brooks DAL 12/12/1995 DAL vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p620
+aVJim Jackson DAL 12/12/1995 DAL vs. SEA W 25 4 2 8 25.0 0 1 0.0 0 0 - 1 2 3 3 1 0 2 1 -
+p621
+aVGeorge McCloud DAL 12/12/1995 DAL vs. SEA W 44 30 10 19 52.6 8 12 66.7 2 3 66.7 1 5 6 2 1 0 1 3 -
+p622
+aVTony Dumas DAL 12/12/1995 DAL vs. SEA W 37 35 13 23 56.5 4 7 57.1 5 13 38.5 1 2 3 0 0 2 5 3 -
+p623
+aVJamal Mashburn DAL 12/09/1995 DAL vs. WAS L 30 11 4 17 23.5 1 6 16.7 2 4 50.0 3 1 4 1 1 0 4 4 -
+p624
+aVScott Brooks DAL 12/09/1995 DAL vs. WAS L 21 6 2 9 22.2 0 1 0.0 2 2 100.0 0 1 1 5 1 0 2 5 -
+p625
+aVTerry Davis DAL 12/09/1995 DAL vs. WAS L 25 12 4 5 80.0 0 0 - 4 4 100.0 4 3 7 1 0 0 0 3 -
+p626
+aVJason Kidd DAL 12/09/1995 DAL vs. WAS L 28 9 4 10 40.0 1 2 50.0 0 0 - 1 0 1 3 1 0 3 2 -
+p627
+aVLorenzo Williams DAL 12/09/1995 DAL vs. WAS L 22 6 3 5 60.0 0 0 - 0 0 - 9 5 14 1 0 0 1 1 -
+p628
+aVLucious Harris DAL 12/09/1995 DAL vs. WAS L 24 7 3 7 42.9 0 1 0.0 1 2 50.0 3 2 5 1 0 0 1 0 -
+p629
+aVPopeye Jones DAL 12/09/1995 DAL vs. WAS L 34 13 5 13 38.5 0 0 - 3 4 75.0 4 10 14 2 0 2 2 6 -
+p630
+aVJim Jackson DAL 12/09/1995 DAL vs. WAS L 24 11 4 12 33.3 1 2 50.0 2 3 66.7 0 1 1 1 0 0 1 1 -
+p631
+aVGeorge McCloud DAL 12/09/1995 DAL vs. WAS L 32 19 8 17 47.1 3 10 30.0 0 2 0.0 2 6 8 3 0 1 3 3 -
+p632
+aVLoren Meyer DAL 12/06/1995 DAL @ PHL L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 1 2 5 -
+p633
+aVJamal Mashburn DAL 12/06/1995 DAL @ PHL L 40 22 9 22 40.9 1 5 20.0 3 6 50.0 3 6 9 6 1 0 4 1 -
+p634
+aVLorenzo Williams DAL 12/06/1995 DAL @ PHL L 35 4 2 3 66.7 0 0 - 0 3 0.0 4 7 11 1 3 1 2 5 -
+p635
+aVCherokee Parks DAL 12/06/1995 DAL @ PHL L 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -
+p636
+aVJim Jackson DAL 12/06/1995 DAL @ PHL L 35 10 2 12 16.7 1 6 16.7 5 6 83.3 2 2 4 4 0 1 5 2 -
+p637
+aVScott Brooks DAL 12/06/1995 DAL @ PHL L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p638
+aVJason Kidd DAL 12/06/1995 DAL @ PHL L 31 9 3 12 25.0 1 3 33.3 2 2 100.0 3 6 9 5 3 0 5 2 -
+p639
+aVPopeye Jones DAL 12/06/1995 DAL @ PHL L 29 15 6 12 50.0 0 0 - 3 4 75.0 5 10 15 0 1 1 0 4 -
+p640
+aVGeorge McCloud DAL 12/06/1995 DAL @ PHL L 22 10 3 10 30.0 0 2 0.0 4 4 100.0 3 2 5 2 0 0 2 1 -
+p641
+aVLucious Harris DAL 12/06/1995 DAL @ PHL L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p642
+aVTony Dumas DAL 12/06/1995 DAL @ PHL L 13 9 2 5 40.0 2 2 100.0 3 4 75.0 2 2 4 0 1 0 1 1 -
+p643
+aVLucious Harris DAL 12/05/1995 DAL @ NYK L 14 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -
+p644
+aVJason Kidd DAL 12/05/1995 DAL @ NYK L 34 13 6 16 37.5 1 4 25.0 0 0 - 4 2 6 6 1 0 7 2 -
+p645
+aVPopeye Jones DAL 12/05/1995 DAL @ NYK L 32 6 3 6 50.0 0 1 0.0 0 0 - 2 8 10 1 0 0 1 4 -
+p646
+aVLoren Meyer DAL 12/05/1995 DAL @ NYK L 13 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 0 1 0 0 3 -
+p647
+aVGeorge McCloud DAL 12/05/1995 DAL @ NYK L 26 9 3 10 30.0 3 6 50.0 0 0 - 0 0 0 2 2 0 2 5 -
+p648
+aVTony Dumas DAL 12/05/1995 DAL @ NYK L 21 16 5 12 41.7 2 3 66.7 4 6 66.7 0 1 1 1 2 0 1 2 -
+p649
+aVLorenzo Williams DAL 12/05/1995 DAL @ NYK L 35 3 1 3 33.3 0 0 - 1 2 50.0 4 6 10 3 2 0 1 5 -
+p650
+aVJim Jackson DAL 12/05/1995 DAL @ NYK L 27 13 6 11 54.5 1 1 100.0 0 0 - 1 3 4 1 0 0 1 1 -
+p651
+aVJamal Mashburn DAL 12/05/1995 DAL @ NYK L 38 21 8 23 34.8 0 5 0.0 5 8 62.5 4 9 13 6 2 0 5 1 -
+p652
+aVJim Jackson DAL 12/03/1995 DAL @ CLE L 37 23 7 14 50.0 3 4 75.0 6 8 75.0 1 4 5 6 0 1 3 4 -
+p653
+aVTerry Davis DAL 12/03/1995 DAL @ CLE L 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -
+p654
+aVPopeye Jones DAL 12/03/1995 DAL @ CLE L 32 6 3 6 50.0 0 0 - 0 0 - 4 4 8 4 0 0 1 5 -
+p655
+aVLucious Harris DAL 12/03/1995 DAL @ CLE L 16 12 4 5 80.0 1 1 100.0 3 5 60.0 0 1 1 1 0 0 0 0 -
+p656
+aVJason Kidd DAL 12/03/1995 DAL @ CLE L 44 9 4 9 44.4 0 1 0.0 1 2 50.0 1 2 3 11 2 0 4 2 -
+p657
+aVScott Brooks DAL 12/03/1995 DAL @ CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -
+p658
+aVLorenzo Williams DAL 12/03/1995 DAL @ CLE L 27 3 0 0 - 0 0 - 3 4 75.0 0 6 6 2 0 2 0 4 -
+p659
+aVGeorge McCloud DAL 12/03/1995 DAL @ CLE L 44 14 5 14 35.7 2 7 28.6 2 4 50.0 2 6 8 4 2 0 3 6 -
+p660
+aVTony Dumas DAL 12/03/1995 DAL @ CLE L 7 8 3 5 60.0 1 3 33.3 1 4 25.0 1 0 1 0 1 0 1 2 -
+p661
+aVJamal Mashburn DAL 12/03/1995 DAL @ CLE L 44 28 10 25 40.0 4 6 66.7 4 5 80.0 1 4 5 2 2 0 2 3 -
+p662
+aVLoren Meyer DAL 12/01/1995 DAL @ ATL W 16 6 2 10 20.0 0 0 - 2 2 100.0 3 3 6 0 0 0 1 3 -
+p663
+aVJamal Mashburn DAL 12/01/1995 DAL @ ATL W 39 33 10 21 47.6 3 3 100.0 10 14 71.4 1 1 2 2 1 0 0 3 -
+p664
+aVCherokee Parks DAL 12/01/1995 DAL @ ATL W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -
+p665
+aVLorenzo Williams DAL 12/01/1995 DAL @ ATL W 14 2 1 3 33.3 0 0 - 0 1 0.0 3 2 5 1 1 0 0 1 -
+p666
+aVPopeye Jones DAL 12/01/1995 DAL @ ATL W 32 9 4 12 33.3 0 0 - 1 2 50.0 2 7 9 1 0 0 1 4 -
+p667
+aVLucious Harris DAL 12/01/1995 DAL @ ATL W 19 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 2 0 2 0 -
+p668
+aVTerry Davis DAL 12/01/1995 DAL @ ATL W 28 3 1 3 33.3 0 0 - 1 2 50.0 4 5 9 2 0 0 2 4 -
+p669
+aVJason Kidd DAL 12/01/1995 DAL @ ATL W 36 8 4 9 44.4 0 1 0.0 0 2 0.0 1 7 8 8 2 0 3 1 -
+p670
+aVTony Dumas DAL 12/01/1995 DAL @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p671
+aVJim Jackson DAL 12/01/1995 DAL @ ATL W 38 28 10 17 58.8 2 3 66.7 6 6 100.0 5 3 8 5 0 1 5 5 -
+p672
+aVScott Brooks DAL 12/01/1995 DAL @ ATL W 12 11 5 9 55.6 0 1 0.0 1 1 100.0 0 0 0 1 1 0 0 3 -
+p673
+aVJason Kidd DAL 11/30/1995 DAL @ ORL L 24 5 2 10 20.0 0 4 0.0 1 2 50.0 2 5 7 5 6 0 0 1 -
+p674
+aVJamal Mashburn DAL 11/30/1995 DAL @ ORL L 33 18 5 17 29.4 1 6 16.7 7 10 70.0 2 2 4 2 0 0 4 1 -
+p675
+aVTerry Davis DAL 11/30/1995 DAL @ ORL L 24 6 2 9 22.2 0 0 - 2 4 50.0 5 5 10 1 1 0 0 1 -
+p676
+aVScott Brooks DAL 11/30/1995 DAL @ ORL L 8 10 4 5 80.0 1 1 100.0 1 2 50.0 0 0 0 1 1 0 1 1 -
+p677
+aVLoren Meyer DAL 11/30/1995 DAL @ ORL L 15 8 2 2 100.0 0 0 - 4 7 57.1 0 3 3 0 0 1 0 2 -
+p678
+aVPopeye Jones DAL 11/30/1995 DAL @ ORL L 26 8 4 10 40.0 0 0 - 0 0 - 3 3 6 0 0 0 2 4 -
+p679
+aVLucious Harris DAL 11/30/1995 DAL @ ORL L 26 7 3 8 37.5 1 5 20.0 0 0 - 1 1 2 2 0 0 1 3 -
+p680
+aVJim Jackson DAL 11/30/1995 DAL @ ORL L 23 6 3 11 27.3 0 1 0.0 0 0 - 3 2 5 3 0 0 1 0 -
+p681
+aVTony Dumas DAL 11/30/1995 DAL @ ORL L 27 22 9 15 60.0 3 5 60.0 1 2 50.0 2 2 4 7 1 0 2 3 -
+p682
+aVCherokee Parks DAL 11/30/1995 DAL @ ORL L 17 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 2 1 2 1 0 -
+p683
+aVLorenzo Williams DAL 11/30/1995 DAL @ ORL L 17 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 2 2 0 -
+p684
+aVLucious Harris DAL 11/28/1995 DAL @ MIA L 20 11 3 5 60.0 1 1 100.0 4 4 100.0 0 2 2 0 0 0 1 2 -
+p685
+aVTony Dumas DAL 11/28/1995 DAL @ MIA L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 1 1 1 -
+p686
+aVJamal Mashburn DAL 11/28/1995 DAL @ MIA L 39 24 7 16 43.8 0 1 0.0 10 10 100.0 0 2 2 1 0 0 3 2 -
+p687
+aVLoren Meyer DAL 11/28/1995 DAL @ MIA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -
+p688
+aVLorenzo Williams DAL 11/28/1995 DAL @ MIA L 22 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 5 0 1 0 3 -
+p689
+aVJim Jackson DAL 11/28/1995 DAL @ MIA L 33 17 8 15 53.3 1 3 33.3 0 0 - 0 2 2 4 0 0 4 1 -
+p690
+aVPopeye Jones DAL 11/28/1995 DAL @ MIA L 33 8 4 8 50.0 0 0 - 0 0 - 1 9 10 4 1 0 2 4 -
+p691
+aVTerry Davis DAL 11/28/1995 DAL @ MIA L 21 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 0 0 0 2 2 -
+p692
+aVCherokee Parks DAL 11/28/1995 DAL @ MIA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p693
+aVGeorge McCloud DAL 11/28/1995 DAL @ MIA L 18 7 2 5 40.0 0 2 0.0 3 3 100.0 0 0 0 2 0 0 2 1 -
+p694
+aVJason Kidd DAL 11/28/1995 DAL @ MIA L 35 11 4 8 50.0 2 3 66.7 1 2 50.0 2 7 9 3 1 2 7 1 -
+p695
+aVLorenzo Williams DAL 11/24/1995 DAL vs. DEN L 47 9 4 8 50.0 0 0 - 1 2 50.0 5 8 13 2 1 4 2 3 -
+p696
+aVPopeye Jones DAL 11/24/1995 DAL vs. DEN L 36 19 9 12 75.0 0 0 - 1 2 50.0 4 6 10 3 0 0 0 4 -
+p697
+aVJamal Mashburn DAL 11/24/1995 DAL vs. DEN L 49 37 13 34 38.2 2 8 25.0 9 12 75.0 4 2 6 9 0 0 2 1 -
+p698
+aVScott Brooks DAL 11/24/1995 DAL vs. DEN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p699
+aVJason Kidd DAL 11/24/1995 DAL vs. DEN L 44 11 4 12 33.3 0 3 0.0 3 6 50.0 2 6 8 11 4 0 1 4 -
+p700
+aVJim Jackson DAL 11/24/1995 DAL vs. DEN L 24 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 1 0 0 2 1 -
+p701
+aVGeorge McCloud DAL 11/24/1995 DAL vs. DEN L 27 20 5 12 41.7 4 7 57.1 6 7 85.7 3 3 6 0 1 0 1 3 -
+p702
+aVTerry Davis DAL 11/24/1995 DAL vs. DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p703
+aVLucious Harris DAL 11/24/1995 DAL vs. DEN L 29 11 3 11 27.3 2 4 50.0 3 3 100.0 2 3 5 1 2 0 0 2 -
+p704
+aVLucious Harris DAL 11/21/1995 DAL vs. CHI L 16 11 4 10 40.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 0 1 -
+p705
+aVJim Jackson DAL 11/21/1995 DAL vs. CHI L 42 18 6 19 31.6 0 3 0.0 6 6 100.0 3 8 11 2 0 0 4 5 -
+p706
+aVJason Kidd DAL 11/21/1995 DAL vs. CHI L 47 25 9 22 40.9 2 6 33.3 5 9 55.6 8 7 15 11 6 0 3 3 -
+p707
+aVLorenzo Williams DAL 11/21/1995 DAL vs. CHI L 49 8 4 9 44.4 0 0 - 0 0 - 8 5 13 2 1 3 1 5 -
+p708
+aVCherokee Parks DAL 11/21/1995 DAL vs. CHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p709
+aVPopeye Jones DAL 11/21/1995 DAL vs. CHI L 37 11 4 15 26.7 0 1 0.0 3 4 75.0 9 5 14 0 1 0 1 3 -
+p710
+aVJamal Mashburn DAL 11/21/1995 DAL vs. CHI L 44 21 7 23 30.4 1 3 33.3 6 9 66.7 3 2 5 4 0 1 4 3 -
+p711
+aVGeorge McCloud DAL 11/21/1995 DAL vs. CHI L 25 8 3 10 30.0 2 5 40.0 0 1 0.0 1 5 6 2 0 0 2 5 -
+p712
+aVLoren Meyer DAL 11/18/1995 DAL @ GOS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p713
+aVCherokee Parks DAL 11/18/1995 DAL @ GOS L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 -
+p714
+aVGeorge McCloud DAL 11/18/1995 DAL @ GOS L 19 7 2 6 33.3 0 3 0.0 3 4 75.0 3 1 4 0 0 1 2 1 -
+p715
+aVPopeye Jones DAL 11/18/1995 DAL @ GOS L 34 10 5 8 62.5 0 0 - 0 0 - 3 5 8 2 1 1 0 5 -
+p716
+aVLorenzo Williams DAL 11/18/1995 DAL @ GOS L 27 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 1 1 3 6 -
+p717
+aVScott Brooks DAL 11/18/1995 DAL @ GOS L 6 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -
+p718
+aVLucious Harris DAL 11/18/1995 DAL @ GOS L 16 11 3 6 50.0 1 2 50.0 4 6 66.7 1 0 1 1 0 0 0 1 -
+p719
+aVJim Jackson DAL 11/18/1995 DAL @ GOS L 38 20 7 16 43.8 0 3 0.0 6 7 85.7 4 1 5 3 5 1 1 1 -
+p720
+aVJamal Mashburn DAL 11/18/1995 DAL @ GOS L 38 32 7 22 31.8 5 11 45.5 13 16 81.3 2 1 3 4 1 0 6 4 -
+p721
+aVJason Kidd DAL 11/18/1995 DAL @ GOS L 37 17 7 15 46.7 1 1 100.0 2 2 100.0 2 4 6 10 0 0 4 2 -
+p722
+aVTerry Davis DAL 11/18/1995 DAL @ GOS L 15 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 5 -
+p723
+aVCherokee Parks DAL 11/17/1995 DAL @ LAC L 6 1 0 2 0.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 0 -
+p724
+aVScott Brooks DAL 11/17/1995 DAL @ LAC L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 0 -
+p725
+aVJim Jackson DAL 11/17/1995 DAL @ LAC L 35 14 5 13 38.5 1 3 33.3 3 5 60.0 2 5 7 2 0 1 4 3 -
+p726
+aVLucious Harris DAL 11/17/1995 DAL @ LAC L 13 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -
+p727
+aVJamal Mashburn DAL 11/17/1995 DAL @ LAC L 41 26 11 23 47.8 1 4 25.0 3 4 75.0 0 3 3 0 0 1 5 3 -
+p728
+aVJason Kidd DAL 11/17/1995 DAL @ LAC L 41 12 4 16 25.0 1 6 16.7 3 6 50.0 2 6 8 10 1 0 1 1 -
+p729
+aVLoren Meyer DAL 11/17/1995 DAL @ LAC L 23 7 3 5 60.0 0 0 - 1 2 50.0 1 7 8 0 0 0 0 4 -
+p730
+aVGeorge McCloud DAL 11/17/1995 DAL @ LAC L 15 12 3 7 42.9 0 3 0.0 6 6 100.0 2 0 2 1 0 0 1 1 -
+p731
+aVPopeye Jones DAL 11/17/1995 DAL @ LAC L 36 8 4 6 66.7 0 0 - 0 0 - 4 4 8 1 0 0 2 4 -
+p732
+aVLorenzo Williams DAL 11/17/1995 DAL @ LAC L 22 0 0 1 0.0 0 0 - 0 2 0.0 1 4 5 0 0 2 2 5 -
+p733
+aVPopeye Jones DAL 11/15/1995 DAL @ LAL L 23 8 3 11 27.3 0 0 - 2 2 100.0 5 2 7 2 0 0 1 3 -
+p734
+aVGeorge McCloud DAL 11/15/1995 DAL @ LAL L 23 13 5 11 45.5 3 5 60.0 0 0 - 1 3 4 1 0 0 1 3 -
+p735
+aVJim Jackson DAL 11/15/1995 DAL @ LAL L 35 19 6 13 46.2 2 4 50.0 5 8 62.5 2 0 2 2 0 0 1 1 -
+p736
+aVScott Brooks DAL 11/15/1995 DAL @ LAL L 15 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 0 -
+p737
+aVLorenzo Williams DAL 11/15/1995 DAL @ LAL L 32 0 0 2 0.0 0 0 - 0 2 0.0 2 7 9 1 0 2 2 5 -
+p738
+aVJamal Mashburn DAL 11/15/1995 DAL @ LAL L 32 32 12 25 48.0 4 9 44.4 4 6 66.7 1 5 6 3 0 0 1 2 -
+p739
+aVJason Kidd DAL 11/15/1995 DAL @ LAL L 33 7 3 10 30.0 1 4 25.0 0 4 0.0 0 7 7 10 1 0 5 0 -
+p740
+aVLucious Harris DAL 11/15/1995 DAL @ LAL L 11 3 1 5 20.0 0 2 0.0 1 1 100.0 1 0 1 2 1 0 1 1 -
+p741
+aVCherokee Parks DAL 11/15/1995 DAL @ LAL L 20 4 1 6 16.7 0 0 - 2 2 100.0 3 4 7 1 0 1 0 0 -
+p742
+aVTerry Davis DAL 11/15/1995 DAL @ LAL L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p743
+aVLoren Meyer DAL 11/15/1995 DAL @ LAL L 10 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 5 -
+p744
+aVPopeye Jones DAL 11/13/1995 DAL @ VAN W 35 14 5 17 29.4 0 0 - 4 4 100.0 7 7 14 2 1 0 2 4 -
+p745
+aVScott Brooks DAL 11/13/1995 DAL @ VAN W 13 7 1 5 20.0 1 1 100.0 4 4 100.0 0 0 0 0 0 0 1 1 -
+p746
+aVLorenzo Williams DAL 11/13/1995 DAL @ VAN W 38 4 2 7 28.6 0 0 - 0 0 - 8 5 13 2 0 1 2 5 -
+p747
+aVLoren Meyer DAL 11/13/1995 DAL @ VAN W 10 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 3 -
+p748
+aVJason Kidd DAL 11/13/1995 DAL @ VAN W 37 25 7 15 46.7 3 7 42.9 8 10 80.0 4 7 11 7 1 1 2 2 -
+p749
+aVCherokee Parks DAL 11/13/1995 DAL @ VAN W 13 2 0 3 0.0 0 0 - 2 2 100.0 2 4 6 0 1 1 0 0 -
+p750
+aVJim Jackson DAL 11/13/1995 DAL @ VAN W 40 23 7 21 33.3 3 4 75.0 6 6 100.0 3 3 6 0 0 1 1 0 -
+p751
+aVLucious Harris DAL 11/13/1995 DAL @ VAN W 6 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 -
+p752
+aVGeorge McCloud DAL 11/13/1995 DAL @ VAN W 13 9 2 6 33.3 1 2 50.0 4 6 66.7 2 0 2 1 0 0 1 1 -
+p753
+aVJamal Mashburn DAL 11/13/1995 DAL @ VAN W 35 8 2 17 11.8 1 5 20.0 3 4 75.0 2 5 7 2 2 0 2 3 -
+p754
+aVJason Kidd DAL 11/11/1995 DAL vs. ATL L 32 13 4 16 25.0 2 7 28.6 3 3 100.0 1 1 2 12 2 0 6 4 -
+p755
+aVScott Brooks DAL 11/11/1995 DAL vs. ATL L 16 5 2 4 50.0 1 2 50.0 0 1 0.0 0 0 0 2 1 0 0 1 -
+p756
+aVJim Jackson DAL 11/11/1995 DAL vs. ATL L 42 30 11 17 64.7 3 4 75.0 5 6 83.3 3 5 8 4 0 0 4 3 -
+p757
+aVLucious Harris DAL 11/11/1995 DAL vs. ATL L 11 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -
+p758
+aVJamal Mashburn DAL 11/11/1995 DAL vs. ATL L 38 27 10 21 47.6 4 10 40.0 3 6 50.0 1 7 8 3 1 0 2 2 -
+p759
+aVLoren Meyer DAL 11/11/1995 DAL vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p760
+aVTerry Davis DAL 11/11/1995 DAL vs. ATL L 10 0 0 0 - 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 -
+p761
+aVLorenzo Williams DAL 11/11/1995 DAL vs. ATL L 38 4 2 5 40.0 0 0 - 0 1 0.0 5 10 15 1 0 2 4 4 -
+p762
+aVGeorge McCloud DAL 11/11/1995 DAL vs. ATL L 15 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 0 0 0 2 3 -
+p763
+aVPopeye Jones DAL 11/11/1995 DAL vs. ATL L 36 11 5 11 45.5 0 1 0.0 1 2 50.0 3 4 7 1 1 0 0 5 -
+p764
+aVCherokee Parks DAL 11/09/1995 DAL vs. MIL W 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p765
+aVLucious Harris DAL 11/09/1995 DAL vs. MIL W 18 8 4 8 50.0 0 1 0.0 0 0 - 2 0 2 1 2 0 2 1 -
+p766
+aVJamal Mashburn DAL 11/09/1995 DAL vs. MIL W 37 27 11 23 47.8 3 7 42.9 2 2 100.0 1 0 1 3 0 0 4 1 -
+p767
+aVLoren Meyer DAL 11/09/1995 DAL vs. MIL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p768
+aVGeorge McCloud DAL 11/09/1995 DAL vs. MIL W 19 14 6 8 75.0 2 3 66.7 0 0 - 0 1 1 2 0 0 0 1 -
+p769
+aVJim Jackson DAL 11/09/1995 DAL vs. MIL W 30 15 6 10 60.0 2 3 66.7 1 1 100.0 0 4 4 5 1 0 4 2 -
+p770
+aVPopeye Jones DAL 11/09/1995 DAL vs. MIL W 28 6 3 5 60.0 0 0 - 0 0 - 4 11 15 1 0 0 1 2 -
+p771
+aVJason Kidd DAL 11/09/1995 DAL vs. MIL W 33 22 8 15 53.3 4 8 50.0 2 2 100.0 0 2 2 7 1 2 3 0 -
+p772
+aVLorenzo Williams DAL 11/09/1995 DAL vs. MIL W 45 6 3 7 42.9 0 0 - 0 0 - 3 9 12 0 0 4 3 3 -
+p773
+aVScott Brooks DAL 11/09/1995 DAL vs. MIL W 15 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 4 0 0 1 2 -
+p774
+aVLorenzo Williams DAL 11/07/1995 DAL vs. VAN W 28 2 1 2 50.0 0 0 - 0 0 - 3 2 5 1 0 0 0 4 -
+p775
+aVTony Dumas DAL 11/07/1995 DAL vs. VAN W 12 6 3 6 50.0 0 0 - 0 0 - 2 1 3 1 0 1 4 0 -
+p776
+aVLoren Meyer DAL 11/07/1995 DAL vs. VAN W 20 8 4 9 44.4 0 0 - 0 0 - 3 5 8 1 0 0 0 4 -
+p777
+aVPopeye Jones DAL 11/07/1995 DAL vs. VAN W 22 12 6 8 75.0 0 0 - 0 0 - 3 6 9 2 0 0 1 2 -
+p778
+aVJason Kidd DAL 11/07/1995 DAL vs. VAN W 26 15 6 14 42.9 1 2 50.0 2 2 100.0 0 4 4 5 3 0 3 2 -
+p779
+aVScott Brooks DAL 11/07/1995 DAL vs. VAN W 22 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 6 2 0 3 2 -
+p780
+aVCherokee Parks DAL 11/07/1995 DAL vs. VAN W 26 4 2 6 33.3 0 0 - 0 0 - 4 6 10 1 1 1 3 2 -
+p781
+aVGeorge McCloud DAL 11/07/1995 DAL vs. VAN W 21 10 4 11 36.4 0 1 0.0 2 2 100.0 1 2 3 2 2 1 1 0 -
+p782
+aVJim Jackson DAL 11/07/1995 DAL vs. VAN W 27 12 3 11 27.3 0 0 - 6 6 100.0 3 6 9 3 0 0 0 1 -
+p783
+aVJamal Mashburn DAL 11/07/1995 DAL vs. VAN W 27 16 6 14 42.9 0 3 0.0 4 4 100.0 2 1 3 1 2 0 2 1 -
+p784
+aVLucious Harris DAL 11/07/1995 DAL vs. VAN W 9 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 2 -
+p785
+aVLorenzo Williams DAL 11/04/1995 DAL vs. GOS W 40 10 5 6 83.3 0 0 - 0 1 0.0 1 14 15 1 0 3 1 1 -
+p786
+aVTony Dumas DAL 11/04/1995 DAL vs. GOS W 3 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -
+p787
+aVLoren Meyer DAL 11/04/1995 DAL vs. GOS W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -
+p788
+aVCherokee Parks DAL 11/04/1995 DAL vs. GOS W 5 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p789
+aVScott Brooks DAL 11/04/1995 DAL vs. GOS W 21 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 2 0 0 1 2 -
+p790
+aVGeorge McCloud DAL 11/04/1995 DAL vs. GOS W 22 16 7 13 53.8 2 6 33.3 0 0 - 1 2 3 1 0 0 0 1 -
+p791
+aVPopeye Jones DAL 11/04/1995 DAL vs. GOS W 36 24 9 17 52.9 0 0 - 6 6 100.0 8 5 13 1 2 1 5 3 -
+p792
+aVTerry Davis DAL 11/04/1995 DAL vs. GOS W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -
+p793
+aVJamal Mashburn DAL 11/04/1995 DAL vs. GOS W 26 12 3 18 16.7 0 4 0.0 6 9 66.7 5 3 8 1 0 1 3 1 -
+p794
+aVJim Jackson DAL 11/04/1995 DAL vs. GOS W 32 15 7 13 53.8 0 2 0.0 1 3 33.3 1 5 6 5 0 0 1 3 -
+p795
+aVLucious Harris DAL 11/04/1995 DAL vs. GOS W 8 0 0 5 0.0 0 3 0.0 0 0 - 1 2 3 1 0 0 1 0 -
+p796
+aVJason Kidd DAL 11/04/1995 DAL vs. GOS W 33 5 2 5 40.0 0 2 0.0 1 2 50.0 3 1 4 11 2 0 4 3 -
+p797
+aVJamal Mashburn DAL 11/03/1995 DAL @ SAN W 39 27 10 22 45.5 4 6 66.7 3 4 75.0 2 6 8 0 1 0 2 3 -
+p798
+aVTerry Davis DAL 11/03/1995 DAL @ SAN W 17 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 1 0 0 5 -
+p799
+aVLorenzo Williams DAL 11/03/1995 DAL @ SAN W 27 2 1 2 50.0 0 0 - 0 2 0.0 3 5 8 0 0 5 2 4 -
+p800
+aVCherokee Parks DAL 11/03/1995 DAL @ SAN W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p801
+aVLoren Meyer DAL 11/03/1995 DAL @ SAN W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 -
+p802
+aVScott Brooks DAL 11/03/1995 DAL @ SAN W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 1 -
+p803
+aVLucious Harris DAL 11/03/1995 DAL @ SAN W 19 8 4 8 50.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 2 -
+p804
+aVJason Kidd DAL 11/03/1995 DAL @ SAN W 35 27 11 17 64.7 0 1 0.0 5 8 62.5 2 7 9 8 3 0 4 0 -
+p805
+aVGeorge McCloud DAL 11/03/1995 DAL @ SAN W 11 6 2 6 33.3 0 1 0.0 2 4 50.0 2 2 4 0 0 0 1 1 -
+p806
+aVJim Jackson DAL 11/03/1995 DAL @ SAN W 36 17 6 15 40.0 0 1 0.0 5 5 100.0 5 4 9 3 0 0 5 5 -
+p807
+aVPopeye Jones DAL 11/03/1995 DAL @ SAN W 35 12 6 11 54.5 0 0 - 0 0 - 1 6 7 0 1 1 2 3 -
+p808
+a.

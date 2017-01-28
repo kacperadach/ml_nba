@@ -1,0 +1,106 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVAndrea Bargnani TOR 04/28/2008 TOR @ ORL L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 3 -5
+p2
+aVRasho Nesterovic TOR 04/28/2008 TOR @ ORL L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 4
+p3
+aVJose Calderon TOR 04/28/2008 TOR @ ORL L 24 12 5 10 50.0 2 4 50.0 0 0 - 0 3 3 4 0 0 1 5 -3
+p4
+aVJamario Moon TOR 04/28/2008 TOR @ ORL L 24 8 3 6 50.0 2 2 100.0 0 0 - 2 2 4 0 2 1 0 1 0
+p5
+aVT.J. Ford TOR 04/28/2008 TOR @ ORL L 24 14 6 14 42.9 0 2 0.0 2 2 100.0 1 4 5 5 2 0 4 2 -7
+p6
+aVAnthony Parker TOR 04/28/2008 TOR @ ORL L 44 11 3 8 37.5 1 3 33.3 4 4 100.0 0 4 4 2 1 0 0 2 -15
+p7
+aVJason Kapono TOR 04/28/2008 TOR @ ORL L 30 13 6 13 46.2 1 4 25.0 0 1 0.0 0 2 2 2 0 0 0 2 -6
+p8
+aVChris Bosh TOR 04/28/2008 TOR @ ORL L 39 16 7 19 36.8 0 0 - 2 4 50.0 4 5 9 3 1 0 0 3 -14
+p9
+aVCarlos Delfino TOR 04/28/2008 TOR @ ORL L 29 14 3 11 27.3 2 5 40.0 6 6 100.0 2 5 7 2 2 0 0 3 -4
+p10
+aVAndrea Bargnani TOR 04/26/2008 TOR vs. ORL L 19 5 1 7 14.3 1 3 33.3 2 2 100.0 1 1 2 0 1 2 1 1 -8
+p11
+aVCarlos Delfino TOR 04/26/2008 TOR vs. ORL L 20 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 6 1
+p12
+aVJose Calderon TOR 04/26/2008 TOR vs. ORL L 21 2 1 7 14.3 0 1 0.0 0 0 - 0 2 2 5 1 0 1 0 -4
+p13
+aVJoey Graham TOR 04/26/2008 TOR vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p14
+aVKris Humphries TOR 04/26/2008 TOR vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p15
+aVMaceo Baston TOR 04/26/2008 TOR vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p16
+aVJamario Moon TOR 04/26/2008 TOR vs. ORL L 19 5 2 6 33.3 0 2 0.0 1 1 100.0 0 4 4 0 1 1 1 2 -1
+p17
+aVT.J. Ford TOR 04/26/2008 TOR vs. ORL L 30 12 6 16 37.5 0 3 0.0 0 1 0.0 0 5 5 13 1 0 1 3 -15
+p18
+aVChris Bosh TOR 04/26/2008 TOR vs. ORL L 40 39 16 26 61.5 0 1 0.0 7 10 70.0 9 6 15 2 1 0 2 5 -13
+p19
+aVAnthony Parker TOR 04/26/2008 TOR vs. ORL L 37 12 6 13 46.2 0 2 0.0 0 0 - 1 6 7 1 0 0 1 3 -16
+p20
+aVJason Kapono TOR 04/26/2008 TOR vs. ORL L 34 12 5 9 55.6 1 2 50.0 1 1 100.0 0 2 2 1 1 0 0 2 -7
+p21
+aVRasho Nesterovic TOR 04/26/2008 TOR vs. ORL L 17 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 1 1 1 1 3 5
+p22
+aVAnthony Parker TOR 04/24/2008 TOR vs. ORL W 37 10 4 10 40.0 1 4 25.0 1 2 50.0 1 5 6 3 1 2 0 2 12
+p23
+aVRasho Nesterovic TOR 04/24/2008 TOR vs. ORL W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 4 7
+p24
+aVCarlos Delfino TOR 04/24/2008 TOR vs. ORL W 27 7 3 6 50.0 1 4 25.0 0 0 - 0 6 6 3 1 0 1 3 15
+p25
+aVJamario Moon TOR 04/24/2008 TOR vs. ORL W 33 11 5 9 55.6 1 3 33.3 0 0 - 4 6 10 4 1 1 1 2 -2
+p26
+aVChris Bosh TOR 04/24/2008 TOR vs. ORL W 37 15 6 14 42.9 0 3 0.0 3 4 75.0 3 2 5 5 1 1 4 4 9
+p27
+aVJose Calderon TOR 04/24/2008 TOR vs. ORL W 25 18 6 11 54.5 4 8 50.0 2 2 100.0 3 4 7 13 0 0 3 4 6
+p28
+aVJason Kapono TOR 04/24/2008 TOR vs. ORL W 24 15 6 10 60.0 3 6 50.0 0 0 - 2 1 3 0 0 0 0 0 7
+p29
+aVT.J. Ford TOR 04/24/2008 TOR vs. ORL W 23 21 7 11 63.6 1 1 100.0 6 6 100.0 0 5 5 3 2 0 1 1 8
+p30
+aVAndrea Bargnani TOR 04/24/2008 TOR vs. ORL W 23 9 4 11 36.4 1 5 20.0 0 0 - 0 0 0 0 1 1 1 4 8
+p31
+aVAndrea Bargnani TOR 04/22/2008 TOR @ ORL L 18 9 4 9 44.4 1 5 20.0 0 0 - 0 1 1 0 0 0 0 4 -19
+p32
+aVAnthony Parker TOR 04/22/2008 TOR @ ORL L 38 0 0 4 0.0 0 2 0.0 0 0 - 0 6 6 0 0 0 2 3 -3
+p33
+aVKris Humphries TOR 04/22/2008 TOR @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p34
+aVJamario Moon TOR 04/22/2008 TOR @ ORL L 22 3 1 7 14.3 1 4 25.0 0 0 - 1 4 5 0 2 0 0 1 -6
+p35
+aVCarlos Delfino TOR 04/22/2008 TOR @ ORL L 30 16 6 10 60.0 1 4 25.0 3 4 75.0 2 4 6 3 0 0 1 2 23
+p36
+aVJason Kapono TOR 04/22/2008 TOR @ ORL L 33 20 8 12 66.7 4 6 66.7 0 0 - 0 5 5 1 0 0 1 3 15
+p37
+aVRasho Nesterovic TOR 04/22/2008 TOR @ ORL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p38
+aVChris Bosh TOR 04/22/2008 TOR @ ORL L 45 29 9 19 47.4 1 2 50.0 10 11 90.9 3 7 10 6 2 1 4 3 -6
+p39
+aVT.J. Ford TOR 04/22/2008 TOR @ ORL L 24 6 1 8 12.5 0 1 0.0 4 4 100.0 1 4 5 6 0 0 4 3 -9
+p40
+aVJose Calderon TOR 04/22/2008 TOR @ ORL L 24 18 7 11 63.6 3 5 60.0 1 1 100.0 0 2 2 5 0 0 1 3 8
+p41
+aVAndrea Bargnani TOR 04/20/2008 TOR @ ORL L 28 5 2 8 25.0 1 1 100.0 0 0 - 0 3 3 0 1 0 0 3 -15
+p42
+aVJason Kapono TOR 04/20/2008 TOR @ ORL L 31 18 6 9 66.7 4 6 66.7 2 2 100.0 0 1 1 0 1 0 1 2 3
+p43
+aVJoey Graham TOR 04/20/2008 TOR @ ORL L 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p44
+aVChris Bosh TOR 04/20/2008 TOR @ ORL L 38 21 4 11 36.4 0 1 0.0 13 13 100.0 1 5 6 2 3 0 3 4 -15
+p45
+aVCarlos Delfino TOR 04/20/2008 TOR @ ORL L 15 2 1 5 20.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 0 1
+p46
+aVKris Humphries TOR 04/20/2008 TOR @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p47
+aVT.J. Ford TOR 04/20/2008 TOR @ ORL L 22 5 1 9 11.1 0 1 0.0 3 3 100.0 1 1 2 6 0 0 0 1 -5
+p48
+aVAnthony Parker TOR 04/20/2008 TOR @ ORL L 39 24 7 14 50.0 3 6 50.0 7 8 87.5 2 5 7 4 2 0 1 2 -13
+p49
+aVJose Calderon TOR 04/20/2008 TOR @ ORL L 26 9 3 11 27.3 1 3 33.3 2 2 100.0 1 3 4 8 0 0 0 3 -9
+p50
+aVRasho Nesterovic TOR 04/20/2008 TOR @ ORL L 36 16 8 15 53.3 0 0 - 0 0 - 2 6 8 2 0 1 2 3 -6
+p51
+aVJamario Moon TOR 04/20/2008 TOR @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p52
+a.

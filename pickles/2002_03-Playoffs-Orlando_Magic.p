@@ -1,0 +1,168 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPat Garrity ORL 05/04/2003 ORL @ DET L 34 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 0 0 1 0 4 -16
+p2
+aVJacque Vaughn ORL 05/04/2003 ORL @ DET L 12 9 3 4 75.0 0 0 - 3 4 75.0 1 0 1 5 0 0 0 0 15
+p3
+aVShawn Kemp ORL 05/04/2003 ORL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p4
+aVDarrell Armstrong ORL 05/04/2003 ORL @ DET L 36 8 3 6 50.0 1 3 33.3 1 1 100.0 2 1 3 1 1 0 4 5 -30
+p5
+aVChris Whitney ORL 05/04/2003 ORL @ DET L 19 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 0 1 1 1 4 0
+p6
+aVTracy McGrady ORL 05/04/2003 ORL @ DET L 45 21 7 24 29.2 2 6 33.3 5 5 100.0 3 2 5 6 0 1 4 1 -18
+p7
+aVGordan Giricek ORL 05/04/2003 ORL @ DET L 39 16 6 12 50.0 1 3 33.3 3 3 100.0 2 1 3 5 0 0 2 5 -7
+p8
+aVDrew Gooden ORL 05/04/2003 ORL @ DET L 34 20 6 16 37.5 0 1 0.0 8 9 88.9 5 12 17 1 0 1 0 1 -15
+p9
+aVPat Burke ORL 05/04/2003 ORL @ DET L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -8
+p10
+aVAndrew DeClercq ORL 05/04/2003 ORL @ DET L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p11
+aVJeryl Sasser ORL 05/04/2003 ORL @ DET L 4 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 3
+p12
+aVSteven Hunter ORL 05/04/2003 ORL @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p13
+aVAndrew DeClercq ORL 05/02/2003 ORL vs. DET L 11 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 4
+p14
+aVDarrell Armstrong ORL 05/02/2003 ORL vs. DET L 33 7 2 5 40.0 0 2 0.0 3 3 100.0 1 1 2 2 2 0 3 3 -10
+p15
+aVJeryl Sasser ORL 05/02/2003 ORL vs. DET L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p16
+aVGordan Giricek ORL 05/02/2003 ORL vs. DET L 41 12 6 10 60.0 0 1 0.0 0 0 - 1 7 8 0 1 0 2 5 -5
+p17
+aVChris Whitney ORL 05/02/2003 ORL vs. DET L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 6 -7
+p18
+aVSteven Hunter ORL 05/02/2003 ORL vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p19
+aVPat Burke ORL 05/02/2003 ORL vs. DET L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p20
+aVJacque Vaughn ORL 05/02/2003 ORL vs. DET L 15 5 2 7 28.6 0 0 - 1 2 50.0 0 2 2 4 0 1 2 2 -2
+p21
+aVPat Garrity ORL 05/02/2003 ORL vs. DET L 30 6 2 9 22.2 1 6 16.7 1 1 100.0 1 3 4 2 0 0 2 5 -20
+p22
+aVShawn Kemp ORL 05/02/2003 ORL vs. DET L 11 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 3 1
+p23
+aVDrew Gooden ORL 05/02/2003 ORL vs. DET L 32 11 5 12 41.7 0 1 0.0 1 3 33.3 3 9 12 0 0 1 1 4 -10
+p24
+aVTracy McGrady ORL 05/02/2003 ORL vs. DET L 47 37 11 28 39.3 1 6 16.7 14 17 82.4 2 9 11 5 2 0 4 3 -13
+p25
+aVDarrell Armstrong ORL 04/30/2003 ORL @ DET L 30 3 1 7 14.3 1 4 25.0 0 0 - 1 3 4 3 0 0 3 2 -15
+p26
+aVAndrew DeClercq ORL 04/30/2003 ORL @ DET L 14 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 1 1 4 -13
+p27
+aVSteven Hunter ORL 04/30/2003 ORL @ DET L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -19
+p28
+aVPat Garrity ORL 04/30/2003 ORL @ DET L 22 5 2 6 33.3 0 1 0.0 1 1 100.0 1 1 2 0 1 0 0 3 -14
+p29
+aVJacque Vaughn ORL 04/30/2003 ORL @ DET L 20 4 1 8 12.5 0 0 - 2 2 100.0 0 0 0 2 1 0 2 2 -19
+p30
+aVJeryl Sasser ORL 04/30/2003 ORL @ DET L 9 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 0 0 -6
+p31
+aVPat Burke ORL 04/30/2003 ORL @ DET L 11 4 0 1 0.0 0 0 - 4 4 100.0 1 2 3 0 0 0 2 1 -15
+p32
+aVChris Whitney ORL 04/30/2003 ORL @ DET L 19 8 2 3 66.7 2 3 66.7 2 2 100.0 0 1 1 0 0 1 1 2 -6
+p33
+aVTracy McGrady ORL 04/30/2003 ORL @ DET L 39 19 8 20 40.0 1 5 20.0 2 3 66.7 4 4 8 4 3 0 3 4 -25
+p34
+aVDrew Gooden ORL 04/30/2003 ORL @ DET L 23 10 4 11 36.4 0 0 - 2 3 66.7 8 7 15 0 0 0 2 5 -2
+p35
+aVGordan Giricek ORL 04/30/2003 ORL @ DET L 33 12 5 9 55.6 1 4 25.0 1 2 50.0 0 1 1 0 0 0 3 4 -10
+p36
+aVShawn Kemp ORL 04/30/2003 ORL @ DET L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -11
+p37
+aVSteven Hunter ORL 04/27/2003 ORL vs. DET W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -19
+p38
+aVShawn Kemp ORL 04/27/2003 ORL vs. DET W 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 11
+p39
+aVPat Garrity ORL 04/27/2003 ORL vs. DET W 23 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 1 2 0 1 24
+p40
+aVChris Whitney ORL 04/27/2003 ORL vs. DET W 19 5 2 6 33.3 1 1 100.0 0 0 - 0 3 3 6 0 0 0 1 7
+p41
+aVAndrew DeClercq ORL 04/27/2003 ORL vs. DET W 23 9 4 6 66.7 0 0 - 1 2 50.0 2 7 9 0 0 0 4 4 3
+p42
+aVJeryl Sasser ORL 04/27/2003 ORL vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p43
+aVTracy McGrady ORL 04/27/2003 ORL vs. DET W 46 27 7 19 36.8 2 9 22.2 11 17 64.7 0 4 4 9 5 1 3 2 7
+p44
+aVGordan Giricek ORL 04/27/2003 ORL vs. DET W 28 10 3 5 60.0 1 1 100.0 3 4 75.0 0 3 3 0 0 0 0 4 -4
+p45
+aVJacque Vaughn ORL 04/27/2003 ORL vs. DET W 14 2 0 0 - 0 0 - 2 3 66.7 0 0 0 1 0 0 2 2 -8
+p46
+aVDrew Gooden ORL 04/27/2003 ORL vs. DET W 37 20 6 13 46.2 0 1 0.0 8 11 72.7 4 9 13 0 1 1 4 2 -2
+p47
+aVDarrell Armstrong ORL 04/27/2003 ORL vs. DET W 34 18 6 6 100.0 2 2 100.0 4 5 80.0 0 1 1 4 0 0 2 3 16
+p48
+aVShawn Kemp ORL 04/25/2003 ORL vs. DET W 6 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p49
+aVAndrew DeClercq ORL 04/25/2003 ORL vs. DET W 21 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 2 4 6 3
+p50
+aVChris Whitney ORL 04/25/2003 ORL vs. DET W 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 2
+p51
+aVGordan Giricek ORL 04/25/2003 ORL vs. DET W 37 10 4 7 57.1 2 2 100.0 0 0 - 0 4 4 1 1 0 3 3 8
+p52
+aVPat Garrity ORL 04/25/2003 ORL vs. DET W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 4 1
+p53
+aVJacque Vaughn ORL 04/25/2003 ORL vs. DET W 16 6 3 7 42.9 0 0 - 0 0 - 0 1 1 1 1 0 1 4 -2
+p54
+aVSteven Hunter ORL 04/25/2003 ORL vs. DET W 9 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 0 1 0 0 -4
+p55
+aVDrew Gooden ORL 04/25/2003 ORL vs. DET W 35 15 7 13 53.8 0 0 - 1 4 25.0 3 4 7 1 1 1 2 6 6
+p56
+aVTracy McGrady ORL 04/25/2003 ORL vs. DET W 47 29 10 20 50.0 3 6 50.0 6 10 60.0 0 7 7 5 2 3 1 1 9
+p57
+aVJeryl Sasser ORL 04/25/2003 ORL vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p58
+aVPat Burke ORL 04/25/2003 ORL vs. DET W 14 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 1 0 0 2 10
+p59
+aVDarrell Armstrong ORL 04/25/2003 ORL vs. DET W 33 20 5 9 55.6 1 3 33.3 9 10 90.0 3 3 6 8 2 0 3 3 13
+p60
+aVPat Garrity ORL 04/23/2003 ORL @ DET L 23 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 4 -19
+p61
+aVSteven Hunter ORL 04/23/2003 ORL @ DET L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p62
+aVJeryl Sasser ORL 04/23/2003 ORL @ DET L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -2
+p63
+aVDrew Gooden ORL 04/23/2003 ORL @ DET L 37 4 2 9 22.2 0 0 - 0 0 - 1 10 11 1 1 0 1 2 -6
+p64
+aVJacque Vaughn ORL 04/23/2003 ORL @ DET L 29 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 6 1 0 1 4 -3
+p65
+aVPat Burke ORL 04/23/2003 ORL @ DET L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -2
+p66
+aVGordan Giricek ORL 04/23/2003 ORL @ DET L 24 2 1 11 9.1 0 4 0.0 0 0 - 1 0 1 0 0 0 3 2 -16
+p67
+aVShawn Kemp ORL 04/23/2003 ORL @ DET L 15 5 1 5 20.0 0 0 - 3 4 75.0 0 4 4 0 0 0 2 2 -2
+p68
+aVTracy McGrady ORL 04/23/2003 ORL @ DET L 45 46 16 26 61.5 4 9 44.4 10 11 90.9 0 5 5 1 1 0 7 3 -13
+p69
+aVDarrell Armstrong ORL 04/23/2003 ORL @ DET L 30 1 0 2 0.0 0 1 0.0 1 1 100.0 0 0 0 3 1 0 1 3 8
+p70
+aVChris Whitney ORL 04/23/2003 ORL @ DET L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -11
+p71
+aVAndrew DeClercq ORL 04/23/2003 ORL @ DET L 15 9 3 4 75.0 0 0 - 3 3 100.0 1 1 2 0 2 1 0 3 6
+p72
+aVDarrell Armstrong ORL 04/20/2003 ORL @ DET W 30 9 3 9 33.3 1 3 33.3 2 2 100.0 0 1 1 5 0 0 1 3 3
+p73
+aVGordan Giricek ORL 04/20/2003 ORL @ DET W 21 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 0 1 0 4 -1
+p74
+aVChris Whitney ORL 04/20/2003 ORL @ DET W 19 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 4 7
+p75
+aVPat Burke ORL 04/20/2003 ORL @ DET W 9 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -2
+p76
+aVDrew Gooden ORL 04/20/2003 ORL @ DET W 36 18 6 16 37.5 0 0 - 6 6 100.0 4 10 14 1 0 2 2 3 -9
+p77
+aVJacque Vaughn ORL 04/20/2003 ORL @ DET W 25 4 2 3 66.7 0 0 - 0 0 - 0 1 1 6 1 0 1 4 1
+p78
+aVTracy McGrady ORL 04/20/2003 ORL @ DET W 39 43 15 28 53.6 3 6 50.0 10 12 83.3 1 6 7 3 1 1 4 2 4
+p79
+aVShawn Kemp ORL 04/20/2003 ORL @ DET W 19 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 4 9
+p80
+aVPat Garrity ORL 04/20/2003 ORL @ DET W 20 2 0 1 0.0 0 1 0.0 2 2 100.0 2 6 8 0 0 0 2 3 2
+p81
+aVAndrew DeClercq ORL 04/20/2003 ORL @ DET W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 1 0 5 -2
+p82
+aVSteven Hunter ORL 04/20/2003 ORL @ DET W 10 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 1 0 1 0 2 13
+p83
+a.

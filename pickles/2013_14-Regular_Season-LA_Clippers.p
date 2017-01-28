@@ -1,0 +1,1702 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGlen Davis LAC 04/16/2014 LAC @ POR L 33 7 3 7 42.9 0 0 - 1 2 50.0 4 3 7 0 1 0 1 1 3
+p2
+aVDeAndre Jordan LAC 04/16/2014 LAC @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p3
+aVRyan Hollins LAC 04/16/2014 LAC @ POR L 14 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 4 1 3 -9
+p4
+aVDarren Collison LAC 04/16/2014 LAC @ POR L 37 19 6 12 50.0 0 4 0.0 7 8 87.5 0 4 4 7 0 0 2 1 6
+p5
+aVJared Dudley LAC 04/16/2014 LAC @ POR L 26 7 3 11 27.3 0 5 0.0 1 2 50.0 1 4 5 0 0 0 0 2 1
+p6
+aVMatt Barnes LAC 04/16/2014 LAC @ POR L 33 19 6 11 54.5 2 6 33.3 5 6 83.3 0 8 8 1 0 0 1 5 9
+p7
+aVHedo Turkoglu LAC 04/16/2014 LAC @ POR L 15 8 3 7 42.9 2 5 40.0 0 0 - 0 5 5 1 1 0 0 2 0
+p8
+aVWillie Green LAC 04/16/2014 LAC @ POR L 23 8 3 8 37.5 1 2 50.0 1 2 50.0 1 3 4 0 0 0 0 4 -15
+p9
+aVReggie Bullock LAC 04/16/2014 LAC @ POR L 16 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 -15
+p10
+aVJamal Crawford LAC 04/16/2014 LAC @ POR L 42 34 10 25 40.0 3 10 30.0 11 11 100.0 1 4 5 8 2 0 2 2 -8
+p11
+aVDeAndre Jordan LAC 04/15/2014 LAC vs. DEN W 36 13 6 8 75.0 0 0 - 1 8 12.5 6 10 16 3 2 2 3 2 3
+p12
+aVHedo Turkoglu LAC 04/15/2014 LAC vs. DEN W 18 6 2 5 40.0 1 3 33.3 1 2 50.0 0 4 4 1 0 0 0 3 6
+p13
+aVBlake Griffin LAC 04/15/2014 LAC vs. DEN W 30 24 9 17 52.9 0 1 0.0 6 6 100.0 0 5 5 4 2 1 3 1 6
+p14
+aVJamal Crawford LAC 04/15/2014 LAC vs. DEN W 31 9 3 9 33.3 0 3 0.0 3 3 100.0 0 0 0 2 1 0 4 1 -7
+p15
+aVChris Paul LAC 04/15/2014 LAC vs. DEN W 28 21 8 10 80.0 3 5 60.0 2 4 50.0 0 1 1 10 2 0 1 3 9
+p16
+aVGlen Davis LAC 04/15/2014 LAC vs. DEN W 12 9 3 8 37.5 0 0 - 3 3 100.0 0 6 6 0 1 0 1 1 9
+p17
+aVMatt Barnes LAC 04/15/2014 LAC vs. DEN W 30 5 2 5 40.0 1 3 33.3 0 0 - 1 4 5 4 0 1 2 2 17
+p18
+aVJared Dudley LAC 04/15/2014 LAC vs. DEN W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 4
+p19
+aVDarren Collison LAC 04/15/2014 LAC vs. DEN W 24 10 5 10 50.0 0 3 0.0 0 0 - 0 2 2 3 1 0 1 3 -4
+p20
+aVJJ Redick LAC 04/15/2014 LAC vs. DEN W 17 18 5 10 50.0 4 6 66.7 4 4 100.0 0 1 1 1 2 0 0 3 17
+p21
+aVBlake Griffin LAC 04/12/2014 LAC vs. SAC W 36 27 9 15 60.0 1 2 50.0 8 9 88.9 0 4 4 9 2 1 2 4 19
+p22
+aVJJ Redick LAC 04/12/2014 LAC vs. SAC W 32 13 4 9 44.4 2 4 50.0 3 4 75.0 0 2 2 1 0 0 0 2 5
+p23
+aVDarren Collison LAC 04/12/2014 LAC vs. SAC W 23 2 1 5 20.0 0 0 - 0 0 - 5 3 8 5 0 0 2 2 3
+p24
+aVHedo Turkoglu LAC 04/12/2014 LAC vs. SAC W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -1
+p25
+aVReggie Bullock LAC 04/12/2014 LAC vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p26
+aVRyan Hollins LAC 04/12/2014 LAC vs. SAC W 1 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 2
+p27
+aVMatt Barnes LAC 04/12/2014 LAC vs. SAC W 30 12 4 6 66.7 2 3 66.7 2 2 100.0 0 5 5 3 1 0 1 1 18
+p28
+aVGlen Davis LAC 04/12/2014 LAC vs. SAC W 17 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 0 1 0 1 6 -6
+p29
+aVChris Paul LAC 04/12/2014 LAC vs. SAC W 36 17 6 14 42.9 1 4 25.0 4 4 100.0 2 5 7 10 0 0 2 3 21
+p30
+aVDeAndre Jordan LAC 04/12/2014 LAC vs. SAC W 34 21 9 13 69.2 0 0 - 3 11 27.3 3 6 9 1 1 7 2 5 14
+p31
+aVJamal Crawford LAC 04/12/2014 LAC vs. SAC W 19 10 3 8 37.5 2 4 50.0 2 2 100.0 0 2 2 2 0 0 0 1 0
+p32
+aVJared Dudley LAC 04/12/2014 LAC vs. SAC W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 3
+p33
+aVBlake Griffin LAC 04/09/2014 LAC vs. OKC L 39 30 11 23 47.8 0 1 0.0 8 11 72.7 5 7 12 1 0 0 3 4 -6
+p34
+aVDarren Collison LAC 04/09/2014 LAC vs. OKC L 29 12 4 11 36.4 1 3 33.3 3 3 100.0 0 3 3 3 0 0 2 1 3
+p35
+aVJJ Redick LAC 04/09/2014 LAC vs. OKC L 27 4 1 7 14.3 1 7 14.3 1 1 100.0 0 3 3 8 1 0 3 1 -9
+p36
+aVDeAndre Jordan LAC 04/09/2014 LAC vs. OKC L 33 10 4 6 66.7 0 0 - 2 8 25.0 5 7 12 0 1 3 1 2 -10
+p37
+aVReggie Bullock LAC 04/09/2014 LAC vs. OKC L 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p38
+aVGlen Davis LAC 04/09/2014 LAC vs. OKC L 12 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 1 0 1 2 0
+p39
+aVMatt Barnes LAC 04/09/2014 LAC vs. OKC L 29 7 3 9 33.3 1 4 25.0 0 0 - 2 5 7 3 0 2 2 3 -5
+p40
+aVHedo Turkoglu LAC 04/09/2014 LAC vs. OKC L 12 9 3 7 42.9 2 4 50.0 1 2 50.0 0 3 3 0 1 0 0 3 5
+p41
+aVJared Dudley LAC 04/09/2014 LAC vs. OKC L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p42
+aVChris Paul LAC 04/09/2014 LAC vs. OKC L 40 25 8 17 47.1 3 7 42.9 6 9 66.7 1 4 5 8 2 0 4 4 -7
+p43
+aVBlake Griffin LAC 04/06/2014 LAC vs. LAL W 31 23 7 14 50.0 0 0 - 9 13 69.2 0 7 7 6 3 0 3 3 24
+p44
+aVGlen Davis LAC 04/06/2014 LAC vs. LAL W 18 7 3 5 60.0 0 0 - 1 2 50.0 2 6 8 1 1 0 0 3 0
+p45
+aVHedo Turkoglu LAC 04/06/2014 LAC vs. LAL W 10 10 4 8 50.0 2 4 50.0 0 0 - 1 1 2 0 1 1 0 1 2
+p46
+aVJJ Redick LAC 04/06/2014 LAC vs. LAL W 23 15 7 11 63.6 1 3 33.3 0 0 - 0 3 3 1 0 0 3 2 19
+p47
+aVChris Paul LAC 04/06/2014 LAC vs. LAL W 28 23 8 10 80.0 4 4 100.0 3 4 75.0 0 4 4 6 3 0 3 0 19
+p48
+aVDarren Collison LAC 04/06/2014 LAC vs. LAL W 34 14 7 17 41.2 0 1 0.0 0 0 - 0 2 2 6 2 0 3 3 7
+p49
+aVWillie Green LAC 04/06/2014 LAC vs. LAL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -1
+p50
+aVJared Dudley LAC 04/06/2014 LAC vs. LAL W 21 5 1 2 50.0 1 1 100.0 2 2 100.0 0 4 4 2 0 0 1 2 4
+p51
+aVMatt Barnes LAC 04/06/2014 LAC vs. LAL W 27 9 4 6 66.7 1 3 33.3 0 0 - 2 6 8 3 2 0 0 2 17
+p52
+aVReggie Bullock LAC 04/06/2014 LAC vs. LAL W 10 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 0 1
+p53
+aVDeAndre Jordan LAC 04/06/2014 LAC vs. LAL W 31 11 5 6 83.3 0 0 - 1 5 20.0 3 9 12 0 0 4 2 0 23
+p54
+aVDeAndre Jordan LAC 04/03/2014 LAC vs. DAL L 39 21 9 12 75.0 0 0 - 3 8 37.5 5 10 15 0 2 2 0 3 1
+p55
+aVBlake Griffin LAC 04/03/2014 LAC vs. DAL L 40 25 9 23 39.1 0 0 - 7 7 100.0 4 6 10 11 1 1 1 5 -5
+p56
+aVJJ Redick LAC 04/03/2014 LAC vs. DAL L 24 12 3 10 30.0 2 6 33.3 4 4 100.0 0 2 2 1 0 0 0 0 -15
+p57
+aVChris Paul LAC 04/03/2014 LAC vs. DAL L 40 17 7 14 50.0 1 7 14.3 2 2 100.0 2 3 5 9 1 0 1 3 -1
+p58
+aVJared Dudley LAC 04/03/2014 LAC vs. DAL L 11 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 1
+p59
+aVDarren Collison LAC 04/03/2014 LAC vs. DAL L 38 22 7 14 50.0 2 6 33.3 6 6 100.0 0 2 2 1 3 0 1 3 5
+p60
+aVMatt Barnes LAC 04/03/2014 LAC vs. DAL L 38 6 2 9 22.2 1 6 16.7 1 2 50.0 1 5 6 2 0 1 2 2 -5
+p61
+aVGlen Davis LAC 04/03/2014 LAC vs. DAL L 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -10
+p62
+aVReggie Bullock LAC 04/03/2014 LAC vs. DAL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p63
+aVChris Paul LAC 04/02/2014 LAC @ PHX W 35 20 6 17 35.3 4 7 57.1 4 5 80.0 0 2 2 9 3 0 2 3 5
+p64
+aVBlake Griffin LAC 04/02/2014 LAC @ PHX W 34 23 7 15 46.7 0 0 - 9 10 90.0 4 2 6 3 1 0 3 3 -6
+p65
+aVGlen Davis LAC 04/02/2014 LAC @ PHX W 10 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 2 10
+p66
+aVJared Dudley LAC 04/02/2014 LAC @ PHX W 24 12 2 5 40.0 2 3 66.7 6 6 100.0 0 3 3 0 1 1 2 3 19
+p67
+aVHedo Turkoglu LAC 04/02/2014 LAC @ PHX W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 8
+p68
+aVWillie Green LAC 04/02/2014 LAC @ PHX W 17 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 5
+p69
+aVReggie Bullock LAC 04/02/2014 LAC @ PHX W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p70
+aVDeAndre Jordan LAC 04/02/2014 LAC @ PHX W 29 4 2 2 100.0 0 0 - 0 0 - 1 10 11 0 0 1 0 4 -20
+p71
+aVDarren Collison LAC 04/02/2014 LAC @ PHX W 42 23 9 16 56.3 2 5 40.0 3 3 100.0 0 3 3 5 3 1 2 3 3
+p72
+aVMatt Barnes LAC 04/02/2014 LAC @ PHX W 37 19 7 16 43.8 2 8 25.0 3 4 75.0 3 3 6 1 1 1 3 2 0
+p73
+aVMatt Barnes LAC 03/31/2014 LAC @ MIN W 34 19 7 14 50.0 3 9 33.3 2 2 100.0 1 5 6 3 2 0 1 3 16
+p74
+aVJared Dudley LAC 03/31/2014 LAC @ MIN W 35 16 6 10 60.0 2 3 66.7 2 2 100.0 0 4 4 3 0 0 1 4 17
+p75
+aVGlen Davis LAC 03/31/2014 LAC @ MIN W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -5
+p76
+aVWillie Green LAC 03/31/2014 LAC @ MIN W 15 6 3 9 33.3 0 4 0.0 0 0 - 0 0 0 1 0 0 1 3 -11
+p77
+aVHedo Turkoglu LAC 03/31/2014 LAC @ MIN W 12 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 0 -4
+p78
+aVRyan Hollins LAC 03/31/2014 LAC @ MIN W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 -2
+p79
+aVDeAndre Jordan LAC 03/31/2014 LAC @ MIN W 40 11 4 6 66.7 0 0 - 3 8 37.5 10 14 24 0 0 4 5 2 14
+p80
+aVReggie Bullock LAC 03/31/2014 LAC @ MIN W 14 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 0 1 0 1 1 -6
+p81
+aVDarren Collison LAC 03/31/2014 LAC @ MIN W 43 28 9 17 52.9 2 3 66.7 8 8 100.0 1 2 3 7 1 0 6 1 15
+p82
+aVChris Paul LAC 03/31/2014 LAC @ MIN W 38 22 6 16 37.5 2 5 40.0 8 8 100.0 1 6 7 9 3 0 3 4 16
+p83
+aVJared Dudley LAC 03/29/2014 LAC @ HOU W 14 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 1 0 1 1 1 -12
+p84
+aVDarren Collison LAC 03/29/2014 LAC @ HOU W 41 11 4 14 28.6 1 7 14.3 2 4 50.0 2 3 5 5 4 1 0 4 11
+p85
+aVWillie Green LAC 03/29/2014 LAC @ HOU W 16 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 1 1 0 2 1 10
+p86
+aVChris Paul LAC 03/29/2014 LAC @ HOU W 39 30 10 16 62.5 5 9 55.6 5 6 83.3 1 4 5 12 3 0 1 4 13
+p87
+aVJamal Crawford LAC 03/29/2014 LAC @ HOU W 26 22 7 15 46.7 3 9 33.3 5 8 62.5 1 2 3 3 0 0 1 3 12
+p88
+aVGlen Davis LAC 03/29/2014 LAC @ HOU W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -5
+p89
+aVMatt Barnes LAC 03/29/2014 LAC @ HOU W 38 15 6 15 40.0 3 10 30.0 0 0 - 0 10 10 2 1 1 0 4 18
+p90
+aVRyan Hollins LAC 03/29/2014 LAC @ HOU W 8 4 2 2 100.0 0 0 - 0 0 - 2 1 3 1 0 0 0 4 8
+p91
+aVHedo Turkoglu LAC 03/29/2014 LAC @ HOU W 5 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -3
+p92
+aVReggie Bullock LAC 03/29/2014 LAC @ HOU W 7 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 1 1
+p93
+aVBlake Griffin LAC 03/29/2014 LAC @ HOU W 6 7 2 3 66.7 0 0 - 3 3 100.0 0 1 1 1 0 1 0 1 -6
+p94
+aVDeAndre Jordan LAC 03/29/2014 LAC @ HOU W 37 20 7 10 70.0 0 0 - 6 14 42.9 3 9 12 0 0 6 3 5 8
+p95
+aVDanny Granger LAC 03/27/2014 LAC @ DAL W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -16
+p96
+aVMatt Barnes LAC 03/27/2014 LAC @ DAL W 38 12 4 12 33.3 1 5 20.0 3 4 75.0 1 2 3 4 3 1 2 3 22
+p97
+aVJamal Crawford LAC 03/27/2014 LAC @ DAL W 28 14 3 12 25.0 2 7 28.6 6 6 100.0 0 2 2 2 2 0 3 3 5
+p98
+aVWillie Green LAC 03/27/2014 LAC @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p99
+aVBlake Griffin LAC 03/27/2014 LAC @ DAL W 40 18 8 14 57.1 0 0 - 2 3 66.7 4 9 13 4 0 2 4 5 15
+p100
+aVDeAndre Jordan LAC 03/27/2014 LAC @ DAL W 38 16 7 9 77.8 0 0 - 2 2 100.0 7 8 15 0 1 0 3 3 17
+p101
+aVDarren Collison LAC 03/27/2014 LAC @ DAL W 25 11 4 9 44.4 3 4 75.0 0 0 - 0 1 1 2 0 0 2 3 -9
+p102
+aVChris Paul LAC 03/27/2014 LAC @ DAL W 40 31 9 18 50.0 4 8 50.0 9 10 90.0 0 4 4 9 3 0 2 3 18
+p103
+aVJared Dudley LAC 03/27/2014 LAC @ DAL W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 1 0 2 2 -11
+p104
+aVGlen Davis LAC 03/27/2014 LAC @ DAL W 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -9
+p105
+aVJamal Crawford LAC 03/26/2014 LAC @ NOP L 35 31 10 23 43.5 7 15 46.7 4 5 80.0 0 1 1 2 1 0 1 2 -12
+p106
+aVBlake Griffin LAC 03/26/2014 LAC @ NOP L 39 21 6 13 46.2 0 0 - 9 15 60.0 2 6 8 3 2 2 3 3 0
+p107
+aVGlen Davis LAC 03/26/2014 LAC @ NOP L 14 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p108
+aVMatt Barnes LAC 03/26/2014 LAC @ NOP L 31 14 5 7 71.4 4 5 80.0 0 0 - 1 4 5 0 1 1 1 5 6
+p109
+aVDanny Granger LAC 03/26/2014 LAC @ NOP L 16 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 1 -7
+p110
+aVDarren Collison LAC 03/26/2014 LAC @ NOP L 27 11 4 9 44.4 1 2 50.0 2 2 100.0 1 1 2 7 0 0 1 3 6
+p111
+aVDeAndre Jordan LAC 03/26/2014 LAC @ NOP L 36 8 4 6 66.7 0 0 - 0 4 0.0 7 9 16 1 0 4 4 3 4
+p112
+aVHedo Turkoglu LAC 03/26/2014 LAC @ NOP L 7 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 1 0 0 -5
+p113
+aVChris Paul LAC 03/26/2014 LAC @ NOP L 35 2 0 12 0.0 0 3 0.0 2 2 100.0 1 3 4 12 3 0 2 3 1
+p114
+aVBlake Griffin LAC 03/24/2014 LAC vs. MIL W 38 27 10 19 52.6 0 0 - 7 9 77.8 2 12 14 6 1 3 5 0 14
+p115
+aVDarren Collison LAC 03/24/2014 LAC vs. MIL W 34 15 5 9 55.6 3 4 75.0 2 4 50.0 1 1 2 6 0 1 0 3 -10
+p116
+aVChris Paul LAC 03/24/2014 LAC vs. MIL W 37 14 5 13 38.5 0 1 0.0 4 4 100.0 0 0 0 7 3 0 0 1 15
+p117
+aVJamal Crawford LAC 03/24/2014 LAC vs. MIL W 27 13 4 11 36.4 1 6 16.7 4 4 100.0 1 2 3 5 0 0 2 1 10
+p118
+aVMatt Barnes LAC 03/24/2014 LAC vs. MIL W 28 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 1 1 0 3 3 2
+p119
+aVDanny Granger LAC 03/24/2014 LAC vs. MIL W 13 9 2 3 66.7 1 1 100.0 4 4 100.0 0 2 2 0 0 1 0 4 10
+p120
+aVGlen Davis LAC 03/24/2014 LAC vs. MIL W 14 9 4 6 66.7 0 0 - 1 2 50.0 1 3 4 0 2 0 0 0 4
+p121
+aVJared Dudley LAC 03/24/2014 LAC vs. MIL W 5 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -3
+p122
+aVHedo Turkoglu LAC 03/24/2014 LAC vs. MIL W 10 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -6
+p123
+aVDeAndre Jordan LAC 03/24/2014 LAC vs. MIL W 34 6 3 4 75.0 0 0 - 0 0 - 1 9 10 3 0 1 2 3 4
+p124
+aVMatt Barnes LAC 03/22/2014 LAC vs. DET W 33 14 5 16 31.3 2 10 20.0 2 3 66.7 0 7 7 1 1 2 2 1 21
+p125
+aVDarren Collison LAC 03/22/2014 LAC vs. DET W 26 11 4 6 66.7 2 2 100.0 1 2 50.0 0 0 0 3 3 0 1 0 -3
+p126
+aVDeAndre Jordan LAC 03/22/2014 LAC vs. DET W 33 9 4 5 80.0 0 0 - 1 4 25.0 3 9 12 0 1 5 2 4 23
+p127
+aVHedo Turkoglu LAC 03/22/2014 LAC vs. DET W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 2 -14
+p128
+aVJamal Crawford LAC 03/22/2014 LAC vs. DET W 33 9 4 13 30.8 1 6 16.7 0 0 - 0 4 4 4 1 0 1 2 -2
+p129
+aVDanny Granger LAC 03/22/2014 LAC vs. DET W 15 14 5 9 55.6 3 3 100.0 1 1 100.0 2 2 4 1 0 0 0 0 -12
+p130
+aVGlen Davis LAC 03/22/2014 LAC vs. DET W 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -14
+p131
+aVChris Paul LAC 03/22/2014 LAC vs. DET W 37 28 10 15 66.7 3 6 50.0 5 5 100.0 1 3 4 15 6 0 2 2 23
+p132
+aVBlake Griffin LAC 03/22/2014 LAC vs. DET W 37 25 12 17 70.6 0 1 0.0 1 2 50.0 1 6 7 7 1 1 3 2 23
+p133
+aVRyan Hollins LAC 03/17/2014 LAC @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p134
+aVChris Paul LAC 03/17/2014 LAC @ DEN L 39 29 10 19 52.6 0 2 0.0 9 11 81.8 0 2 2 7 3 0 6 4 -6
+p135
+aVReggie Bullock LAC 03/17/2014 LAC @ DEN L 26 4 2 10 20.0 0 5 0.0 0 0 - 2 3 5 1 2 0 1 3 -14
+p136
+aVBlake Griffin LAC 03/17/2014 LAC @ DEN L 42 26 7 25 28.0 0 0 - 12 12 100.0 8 4 12 4 2 2 2 3 0
+p137
+aVGlen Davis LAC 03/17/2014 LAC @ DEN L 17 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 1 2 0 4 -16
+p138
+aVDeAndre Jordan LAC 03/17/2014 LAC @ DEN L 28 8 3 7 42.9 0 0 - 2 2 100.0 4 7 11 3 2 0 3 4 -5
+p139
+aVHedo Turkoglu LAC 03/17/2014 LAC @ DEN L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p140
+aVMatt Barnes LAC 03/17/2014 LAC @ DEN L 27 9 4 7 57.1 1 3 33.3 0 0 - 1 4 5 2 1 0 2 4 -1
+p141
+aVDanny Granger LAC 03/17/2014 LAC @ DEN L 23 11 5 11 45.5 1 4 25.0 0 0 - 1 1 2 0 1 0 1 3 -9
+p142
+aVWillie Green LAC 03/17/2014 LAC @ DEN L 30 8 3 7 42.9 2 5 40.0 0 0 - 0 3 3 3 1 1 0 3 2
+p143
+aVWillie Green LAC 03/16/2014 LAC vs. CLE W 36 10 4 13 30.8 2 8 25.0 0 0 - 2 2 4 2 0 0 1 3 21
+p144
+aVRyan Hollins LAC 03/16/2014 LAC vs. CLE W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p145
+aVHedo Turkoglu LAC 03/16/2014 LAC vs. CLE W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -2
+p146
+aVDeAndre Jordan LAC 03/16/2014 LAC vs. CLE W 32 15 7 8 87.5 0 0 - 1 4 25.0 3 8 11 1 2 1 0 4 23
+p147
+aVReggie Bullock LAC 03/16/2014 LAC vs. CLE W 26 14 5 9 55.6 2 3 66.7 2 2 100.0 0 3 3 0 1 0 0 0 -4
+p148
+aVGlen Davis LAC 03/16/2014 LAC vs. CLE W 15 2 1 5 20.0 0 0 - 0 0 - 4 3 7 0 1 0 1 3 -3
+p149
+aVChris Paul LAC 03/16/2014 LAC vs. CLE W 36 16 7 15 46.7 1 3 33.3 1 1 100.0 0 0 0 15 2 0 0 2 29
+p150
+aVBlake Griffin LAC 03/16/2014 LAC vs. CLE W 38 21 9 18 50.0 0 0 - 3 4 75.0 0 11 11 8 0 1 1 4 24
+p151
+aVMatt Barnes LAC 03/16/2014 LAC vs. CLE W 30 11 5 11 45.5 1 6 16.7 0 0 - 0 2 2 3 2 1 0 3 28
+p152
+aVDanny Granger LAC 03/16/2014 LAC vs. CLE W 15 11 4 12 33.3 2 7 28.6 1 2 50.0 1 0 1 1 0 0 2 0 -8
+p153
+aVChris Paul LAC 03/14/2014 LAC @ UTA W 36 18 8 12 66.7 0 1 0.0 2 3 66.7 0 6 6 7 3 0 2 2 9
+p154
+aVBlake Griffin LAC 03/14/2014 LAC @ UTA W 36 20 7 17 41.2 0 1 0.0 6 6 100.0 1 4 5 5 2 0 2 2 -2
+p155
+aVGlen Davis LAC 03/14/2014 LAC @ UTA W 16 5 2 2 100.0 0 0 - 1 2 50.0 2 0 2 0 0 1 0 1 13
+p156
+aVDanny Granger LAC 03/14/2014 LAC @ UTA W 17 0 0 4 0.0 0 0 - 0 0 - 1 4 5 0 0 0 1 0 8
+p157
+aVHedo Turkoglu LAC 03/14/2014 LAC @ UTA W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p158
+aVWillie Green LAC 03/14/2014 LAC @ UTA W 19 12 4 9 44.4 3 6 50.0 1 2 50.0 0 1 1 1 1 0 1 4 13
+p159
+aVDarren Collison LAC 03/14/2014 LAC @ UTA W 41 14 5 15 33.3 2 7 28.6 2 4 50.0 1 0 1 4 2 0 1 1 -4
+p160
+aVDeAndre Jordan LAC 03/14/2014 LAC @ UTA W 36 9 4 6 66.7 0 0 - 1 3 33.3 1 9 10 0 2 1 0 3 9
+p161
+aVMatt Barnes LAC 03/14/2014 LAC @ UTA W 31 15 6 9 66.7 3 6 50.0 0 0 - 0 2 2 3 1 1 4 3 1
+p162
+aVMatt Barnes LAC 03/12/2014 LAC vs. GSW W 28 11 4 8 50.0 2 5 40.0 1 2 50.0 1 2 3 4 0 0 1 2 -2
+p163
+aVHedo Turkoglu LAC 03/12/2014 LAC vs. GSW W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 3
+p164
+aVChris Paul LAC 03/12/2014 LAC vs. GSW W 38 16 5 15 33.3 1 3 33.3 5 6 83.3 1 7 8 12 3 0 2 3 13
+p165
+aVDarren Collison LAC 03/12/2014 LAC vs. GSW W 31 11 4 11 36.4 0 2 0.0 3 3 100.0 0 2 2 1 1 0 1 4 5
+p166
+aVJared Dudley LAC 03/12/2014 LAC vs. GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p167
+aVDanny Granger LAC 03/12/2014 LAC vs. GSW W 24 18 7 11 63.6 2 4 50.0 2 2 100.0 1 5 6 1 0 1 1 3 11
+p168
+aVDeAndre Jordan LAC 03/12/2014 LAC vs. GSW W 33 10 4 6 66.7 0 0 - 2 3 66.7 3 8 11 0 0 6 0 3 2
+p169
+aVBlake Griffin LAC 03/12/2014 LAC vs. GSW W 42 30 13 28 46.4 0 0 - 4 8 50.0 5 10 15 3 3 0 3 2 10
+p170
+aVWillie Green LAC 03/12/2014 LAC vs. GSW W 22 13 5 6 83.3 3 4 75.0 0 0 - 0 1 1 1 0 2 1 2 12
+p171
+aVGlen Davis LAC 03/12/2014 LAC vs. GSW W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 2 11
+p172
+aVDeAndre Jordan LAC 03/10/2014 LAC vs. PHX W 33 8 4 6 66.7 0 0 - 0 1 0.0 5 12 17 1 0 3 1 5 12
+p173
+aVDanny Granger LAC 03/10/2014 LAC vs. PHX W 23 14 5 11 45.5 2 6 33.3 2 3 66.7 0 2 2 2 2 1 2 3 5
+p174
+aVHedo Turkoglu LAC 03/10/2014 LAC vs. PHX W 10 1 0 0 - 0 0 - 1 2 50.0 0 2 2 2 2 0 1 2 0
+p175
+aVGlen Davis LAC 03/10/2014 LAC vs. PHX W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -5
+p176
+aVMatt Barnes LAC 03/10/2014 LAC vs. PHX W 38 13 4 11 36.4 1 6 16.7 4 6 66.7 1 5 6 2 1 0 3 3 0
+p177
+aVDarren Collison LAC 03/10/2014 LAC vs. PHX W 40 20 8 12 66.7 1 1 100.0 3 4 75.0 0 1 1 4 2 0 3 2 4
+p178
+aVBlake Griffin LAC 03/10/2014 LAC vs. PHX W 32 37 14 16 87.5 0 0 - 9 10 90.0 2 4 6 3 1 0 6 6 9
+p179
+aVChris Paul LAC 03/10/2014 LAC vs. PHX W 35 17 7 16 43.8 0 1 0.0 3 5 60.0 1 4 5 11 2 0 3 3 16
+p180
+aVWillie Green LAC 03/10/2014 LAC vs. PHX W 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -6
+p181
+aVGlen Davis LAC 03/08/2014 LAC vs. ATL W 14 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 0 4 -1
+p182
+aVDanny Granger LAC 03/08/2014 LAC vs. ATL W 15 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 2 0 0 0 1 -1
+p183
+aVMatt Barnes LAC 03/08/2014 LAC vs. ATL W 33 17 6 12 50.0 3 9 33.3 2 2 100.0 1 3 4 2 1 1 4 2 2
+p184
+aVWillie Green LAC 03/08/2014 LAC vs. ATL W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 5
+p185
+aVHedo Turkoglu LAC 03/08/2014 LAC vs. ATL W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p186
+aVBlake Griffin LAC 03/08/2014 LAC vs. ATL W 38 27 11 19 57.9 0 0 - 5 9 55.6 3 5 8 5 1 0 7 5 -1
+p187
+aVRyan Hollins LAC 03/08/2014 LAC vs. ATL W 2 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -2
+p188
+aVDarren Collison LAC 03/08/2014 LAC vs. ATL W 41 12 4 9 44.4 1 5 20.0 3 4 75.0 2 2 4 4 1 1 4 0 0
+p189
+aVChris Paul LAC 03/08/2014 LAC vs. ATL W 36 19 7 14 50.0 1 2 50.0 4 4 100.0 1 0 1 10 2 0 2 4 -1
+p190
+aVJamal Crawford LAC 03/08/2014 LAC vs. ATL W 10 3 0 2 0.0 0 1 0.0 3 3 100.0 0 0 0 1 0 1 0 1 -2
+p191
+aVDeAndre Jordan LAC 03/08/2014 LAC vs. ATL W 32 13 6 8 75.0 0 0 - 1 2 50.0 5 7 12 0 2 1 0 3 4
+p192
+aVBlake Griffin LAC 03/06/2014 LAC @ LAL W 26 20 8 12 66.7 0 0 - 4 6 66.7 2 9 11 7 2 0 5 3 34
+p193
+aVReggie Bullock LAC 03/06/2014 LAC @ LAL W 13 11 4 7 57.1 3 3 100.0 0 0 - 1 1 2 0 2 0 0 2 2
+p194
+aVChris Paul LAC 03/06/2014 LAC @ LAL W 26 13 6 12 50.0 1 3 33.3 0 1 0.0 1 3 4 11 4 1 3 1 36
+p195
+aVMatt Barnes LAC 03/06/2014 LAC @ LAL W 30 17 7 13 53.8 3 7 42.9 0 0 - 2 10 12 5 3 0 1 2 43
+p196
+aVDanny Granger LAC 03/06/2014 LAC @ LAL W 18 10 4 8 50.0 0 2 0.0 2 2 100.0 1 1 2 1 0 0 2 4 5
+p197
+aVDeAndre Jordan LAC 03/06/2014 LAC @ LAL W 22 14 6 9 66.7 0 0 - 2 4 50.0 4 8 12 3 0 0 2 2 42
+p198
+aVWillie Green LAC 03/06/2014 LAC @ LAL W 28 9 3 9 33.3 1 3 33.3 2 2 100.0 1 5 6 2 0 0 2 1 28
+p199
+aVGlen Davis LAC 03/06/2014 LAC @ LAL W 19 10 5 7 71.4 0 0 - 0 0 - 1 1 2 1 1 1 1 1 5
+p200
+aVRyan Hollins LAC 03/06/2014 LAC @ LAL W 7 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 1 1
+p201
+aVHedo Turkoglu LAC 03/06/2014 LAC @ LAL W 22 9 3 6 50.0 3 5 60.0 0 0 - 0 8 8 1 2 2 0 2 14
+p202
+aVDarren Collison LAC 03/06/2014 LAC @ LAL W 30 24 9 16 56.3 1 3 33.3 5 5 100.0 2 2 4 3 2 0 1 2 30
+p203
+aVHedo Turkoglu LAC 03/04/2014 LAC @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p204
+aVReggie Bullock LAC 03/04/2014 LAC @ PHX W 7 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 0 -8
+p205
+aVGlen Davis LAC 03/04/2014 LAC @ PHX W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -13
+p206
+aVChris Paul LAC 03/04/2014 LAC @ PHX W 37 14 4 14 28.6 0 2 0.0 6 8 75.0 0 3 3 9 1 0 5 3 9
+p207
+aVDeAndre Jordan LAC 03/04/2014 LAC @ PHX W 39 10 4 8 50.0 0 0 - 2 2 100.0 6 11 17 1 1 2 1 3 21
+p208
+aVBlake Griffin LAC 03/04/2014 LAC @ PHX W 37 22 9 18 50.0 0 0 - 4 8 50.0 2 3 5 6 1 1 3 3 15
+p209
+aVWillie Green LAC 03/04/2014 LAC @ PHX W 13 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 3 -5
+p210
+aVMatt Barnes LAC 03/04/2014 LAC @ PHX W 40 28 12 17 70.6 4 7 57.1 0 0 - 1 5 6 2 1 1 1 3 15
+p211
+aVDarren Collison LAC 03/04/2014 LAC @ PHX W 40 18 6 10 60.0 2 4 50.0 4 4 100.0 0 3 3 5 3 0 2 1 14
+p212
+aVDanny Granger LAC 03/04/2014 LAC @ PHX W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -7
+p213
+aVJared Dudley LAC 03/04/2014 LAC @ PHX W 11 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -2
+p214
+aVReggie Bullock LAC 03/01/2014 LAC vs. NOP W 10 11 4 8 50.0 2 4 50.0 1 2 50.0 1 2 3 0 0 0 0 1 9
+p215
+aVHedo Turkoglu LAC 03/01/2014 LAC vs. NOP W 15 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 2 0 2 1 3 7
+p216
+aVRyan Hollins LAC 03/01/2014 LAC vs. NOP W 9 6 3 3 100.0 0 0 - 0 0 - 2 0 2 0 0 1 0 2 11
+p217
+aVMatt Barnes LAC 03/01/2014 LAC vs. NOP W 24 14 5 9 55.6 4 8 50.0 0 0 - 0 6 6 4 2 1 2 3 27
+p218
+aVGlen Davis LAC 03/01/2014 LAC vs. NOP W 14 5 1 4 25.0 0 1 0.0 3 4 75.0 1 2 3 1 1 0 2 4 -10
+p219
+aVJared Dudley LAC 03/01/2014 LAC vs. NOP W 24 2 1 5 20.0 0 3 0.0 0 2 0.0 1 3 4 3 1 0 0 0 5
+p220
+aVBlake Griffin LAC 03/01/2014 LAC vs. NOP W 32 20 8 17 47.1 0 0 - 4 6 66.7 0 5 5 1 0 1 3 1 29
+p221
+aVChris Paul LAC 03/01/2014 LAC vs. NOP W 30 21 7 11 63.6 0 2 0.0 7 7 100.0 1 2 3 8 2 0 2 0 30
+p222
+aVWillie Green LAC 03/01/2014 LAC vs. NOP W 29 5 2 6 33.3 1 3 33.3 0 0 - 0 3 3 1 2 0 0 2 5
+p223
+aVDeAndre Jordan LAC 03/01/2014 LAC vs. NOP W 28 7 1 4 25.0 0 0 - 5 8 62.5 2 10 12 2 0 4 1 3 27
+p224
+aVDarren Collison LAC 03/01/2014 LAC vs. NOP W 27 15 5 10 50.0 2 3 66.7 3 3 100.0 0 1 1 3 1 0 0 3 20
+p225
+aVJared Dudley LAC 02/26/2014 LAC vs. HOU W 18 9 3 6 50.0 3 5 60.0 0 0 - 1 3 4 2 1 0 1 0 -1
+p226
+aVDarren Collison LAC 02/26/2014 LAC vs. HOU W 30 19 8 14 57.1 3 5 60.0 0 0 - 0 1 1 5 2 0 1 2 -3
+p227
+aVRyan Hollins LAC 02/26/2014 LAC vs. HOU W 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p228
+aVBlake Griffin LAC 02/26/2014 LAC vs. HOU W 40 23 11 25 44.0 0 2 0.0 1 1 100.0 6 10 16 3 2 1 2 2 20
+p229
+aVWillie Green LAC 02/26/2014 LAC vs. HOU W 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 6
+p230
+aVDeAndre Jordan LAC 02/26/2014 LAC vs. HOU W 39 13 6 7 85.7 0 0 - 1 2 50.0 1 9 10 2 3 4 1 3 5
+p231
+aVGlen Davis LAC 02/26/2014 LAC vs. HOU W 5 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 2 1 3 3
+p232
+aVHedo Turkoglu LAC 02/26/2014 LAC vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -6
+p233
+aVReggie Bullock LAC 02/26/2014 LAC vs. HOU W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p234
+aVJamal Crawford LAC 02/26/2014 LAC vs. HOU W 16 8 2 10 20.0 1 6 16.7 3 3 100.0 1 0 1 1 0 0 2 1 6
+p235
+aVChris Paul LAC 02/26/2014 LAC vs. HOU W 39 14 5 13 38.5 0 1 0.0 4 5 80.0 0 3 3 9 2 0 1 4 12
+p236
+aVMatt Barnes LAC 02/26/2014 LAC vs. HOU W 33 11 5 9 55.6 1 4 25.0 0 0 - 2 0 2 2 1 1 1 4 13
+p237
+aVJamal Crawford LAC 02/24/2014 LAC @ NOP W 34 24 8 17 47.1 7 12 58.3 1 1 100.0 0 0 0 5 0 0 2 3 12
+p238
+aVMatt Barnes LAC 02/24/2014 LAC @ NOP W 34 12 4 6 66.7 2 3 66.7 2 2 100.0 0 3 3 3 0 1 0 2 12
+p239
+aVHedo Turkoglu LAC 02/24/2014 LAC @ NOP W 15 12 4 10 40.0 4 7 57.1 0 0 - 1 3 4 1 0 0 0 4 -4
+p240
+aVDeAndre Jordan LAC 02/24/2014 LAC @ NOP W 37 14 7 10 70.0 0 0 - 0 1 0.0 7 9 16 2 1 4 1 3 14
+p241
+aVChris Paul LAC 02/24/2014 LAC @ NOP W 30 19 6 10 60.0 0 0 - 7 7 100.0 0 4 4 13 2 0 0 4 18
+p242
+aVBlake Griffin LAC 02/24/2014 LAC @ NOP W 33 22 6 12 50.0 0 2 0.0 10 14 71.4 0 4 4 3 1 0 4 5 17
+p243
+aVDarren Collison LAC 02/24/2014 LAC @ NOP W 22 12 5 10 50.0 1 1 100.0 1 1 100.0 1 1 2 3 0 0 2 1 -3
+p244
+aVRyan Hollins LAC 02/24/2014 LAC @ NOP W 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 5 -1
+p245
+aVReggie Bullock LAC 02/24/2014 LAC @ NOP W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 0 0 0 0 0 1
+p246
+aVJared Dudley LAC 02/24/2014 LAC @ NOP W 17 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 4 0 0 0 1 -1
+p247
+aVReggie Bullock LAC 02/23/2014 LAC @ OKC W 12 0 0 4 0.0 0 4 0.0 0 0 - 0 0 0 1 1 0 1 2 -5
+p248
+aVJamal Crawford LAC 02/23/2014 LAC @ OKC W 39 36 13 20 65.0 5 8 62.5 5 5 100.0 0 2 2 4 1 0 5 2 9
+p249
+aVChris Paul LAC 02/23/2014 LAC @ OKC W 39 18 5 12 41.7 1 4 25.0 7 7 100.0 1 7 8 12 0 0 1 2 11
+p250
+aVMatt Barnes LAC 02/23/2014 LAC @ OKC W 33 24 8 14 57.1 6 10 60.0 2 2 100.0 3 4 7 1 2 0 0 5 21
+p251
+aVRyan Hollins LAC 02/23/2014 LAC @ OKC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -10
+p252
+aVDeAndre Jordan LAC 02/23/2014 LAC @ OKC W 41 18 6 6 100.0 0 0 - 6 11 54.5 1 11 12 0 2 1 3 4 13
+p253
+aVDarren Collison LAC 02/23/2014 LAC @ OKC W 22 7 3 8 37.5 0 3 0.0 1 2 50.0 2 2 4 2 2 0 2 1 -3
+p254
+aVJared Dudley LAC 02/23/2014 LAC @ OKC W 12 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 1 -11
+p255
+aVBlake Griffin LAC 02/23/2014 LAC @ OKC W 37 20 6 15 40.0 1 1 100.0 7 10 70.0 2 5 7 6 0 1 4 5 15
+p256
+aVWillie Green LAC 02/21/2014 LAC @ MEM L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -5
+p257
+aVBlake Griffin LAC 02/21/2014 LAC @ MEM L 40 28 10 21 47.6 0 0 - 8 14 57.1 5 8 13 2 0 1 2 4 -2
+p258
+aVRyan Hollins LAC 02/21/2014 LAC @ MEM L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p259
+aVDeAndre Jordan LAC 02/21/2014 LAC @ MEM L 37 5 2 3 66.7 0 0 - 1 5 20.0 1 11 12 0 0 2 0 2 -5
+p260
+aVChris Paul LAC 02/21/2014 LAC @ MEM L 39 18 4 13 30.8 1 3 33.3 9 11 81.8 2 4 6 14 2 0 1 2 6
+p261
+aVHedo Turkoglu LAC 02/21/2014 LAC @ MEM L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 2 0 -14
+p262
+aVJamal Crawford LAC 02/21/2014 LAC @ MEM L 39 23 8 20 40.0 3 9 33.3 4 6 66.7 3 3 6 3 0 1 3 3 4
+p263
+aVMatt Barnes LAC 02/21/2014 LAC @ MEM L 35 15 6 13 46.2 3 7 42.9 0 0 - 1 6 7 2 0 0 2 2 3
+p264
+aVJared Dudley LAC 02/21/2014 LAC @ MEM L 17 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 1 0 1 0 -6
+p265
+aVReggie Bullock LAC 02/21/2014 LAC @ MEM L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p266
+aVDarren Collison LAC 02/21/2014 LAC @ MEM L 14 4 0 3 0.0 0 2 0.0 4 5 80.0 0 0 0 1 0 0 1 2 -5
+p267
+aVJamal Crawford LAC 02/18/2014 LAC vs. SAS L 38 25 8 15 53.3 3 9 33.3 6 8 75.0 0 0 0 2 2 0 4 2 -3
+p268
+aVReggie Bullock LAC 02/18/2014 LAC vs. SAS L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p269
+aVDeAndre Jordan LAC 02/18/2014 LAC vs. SAS L 39 7 2 3 66.7 0 0 - 3 5 60.0 4 14 18 0 1 6 1 3 -4
+p270
+aVChris Paul LAC 02/18/2014 LAC vs. SAS L 38 11 1 10 10.0 0 1 0.0 9 10 90.0 0 3 3 9 4 0 2 4 -3
+p271
+aVJared Dudley LAC 02/18/2014 LAC vs. SAS L 18 5 2 7 28.6 1 5 20.0 0 0 - 0 1 1 0 0 0 0 1 -10
+p272
+aVDarren Collison LAC 02/18/2014 LAC vs. SAS L 21 10 4 9 44.4 0 1 0.0 2 3 66.7 0 1 1 3 0 0 1 4 -14
+p273
+aVHedo Turkoglu LAC 02/18/2014 LAC vs. SAS L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -12
+p274
+aVMatt Barnes LAC 02/18/2014 LAC vs. SAS L 25 5 2 7 28.6 0 3 0.0 1 2 50.0 1 0 1 1 1 0 1 2 4
+p275
+aVBlake Griffin LAC 02/18/2014 LAC vs. SAS L 38 35 14 24 58.3 1 1 100.0 6 10 60.0 3 9 12 4 2 0 3 1 -4
+p276
+aVWillie Green LAC 02/18/2014 LAC vs. SAS L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p277
+aVRyan Hollins LAC 02/18/2014 LAC vs. SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p278
+aVJamal Crawford LAC 02/12/2014 LAC vs. POR W 37 25 7 16 43.8 1 4 25.0 10 11 90.9 0 3 3 1 3 0 0 1 -2
+p279
+aVMatt Barnes LAC 02/12/2014 LAC vs. POR W 29 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 3 1 0 1 3 0
+p280
+aVDeAndre Jordan LAC 02/12/2014 LAC vs. POR W 37 14 5 6 83.3 0 0 - 4 4 100.0 2 4 6 0 2 1 0 4 -1
+p281
+aVJared Dudley LAC 02/12/2014 LAC vs. POR W 15 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 1 2 0 1 1 7
+p282
+aVDarren Collison LAC 02/12/2014 LAC vs. POR W 19 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 5 0 0 1 2 7
+p283
+aVReggie Bullock LAC 02/12/2014 LAC vs. POR W 11 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 1 0 0 0 0
+p284
+aVBlake Griffin LAC 02/12/2014 LAC vs. POR W 39 36 13 21 61.9 0 0 - 10 12 83.3 2 8 10 1 0 0 1 3 0
+p285
+aVChris Paul LAC 02/12/2014 LAC vs. POR W 39 20 10 15 66.7 0 0 - 0 2 0.0 0 4 4 12 3 0 3 3 6
+p286
+aVRyan Hollins LAC 02/12/2014 LAC vs. POR W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 1 1 2 1
+p287
+aVHedo Turkoglu LAC 02/12/2014 LAC vs. POR W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p288
+aVDeAndre Jordan LAC 02/09/2014 LAC vs. PHI W 30 10 4 5 80.0 0 0 - 2 4 50.0 4 16 20 1 1 4 0 2 42
+p289
+aVAntawn Jamison LAC 02/09/2014 LAC vs. PHI W 10 8 4 5 80.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 1 -1
+p290
+aVJared Dudley LAC 02/09/2014 LAC vs. PHI W 15 8 3 7 42.9 2 5 40.0 0 0 - 0 0 0 1 1 0 0 2 14
+p291
+aVBlake Griffin LAC 02/09/2014 LAC vs. PHI W 25 26 11 14 78.6 0 0 - 4 4 100.0 0 11 11 6 1 0 2 3 32
+p292
+aVHedo Turkoglu LAC 02/09/2014 LAC vs. PHI W 12 0 0 0 - 0 0 - 0 0 - 1 6 7 3 0 1 3 2 16
+p293
+aVRyan Hollins LAC 02/09/2014 LAC vs. PHI W 18 10 5 5 100.0 0 0 - 0 0 - 3 1 4 2 0 2 2 2 3
+p294
+aVDarren Collison LAC 02/09/2014 LAC vs. PHI W 25 12 5 11 45.5 1 2 50.0 1 1 100.0 0 2 2 5 0 1 5 3 3
+p295
+aVMatt Barnes LAC 02/09/2014 LAC vs. PHI W 26 9 4 6 66.7 1 2 50.0 0 0 - 1 3 4 0 2 1 2 3 34
+p296
+aVJamal Crawford LAC 02/09/2014 LAC vs. PHI W 26 21 7 15 46.7 3 9 33.3 4 4 100.0 0 0 0 3 2 0 1 1 30
+p297
+aVChris Paul LAC 02/09/2014 LAC vs. PHI W 23 7 3 6 50.0 0 0 - 1 2 50.0 1 1 2 8 4 0 4 1 42
+p298
+aVWillie Green LAC 02/09/2014 LAC vs. PHI W 13 5 1 7 14.3 1 5 20.0 2 2 100.0 0 1 1 2 0 0 0 0 16
+p299
+aVSasha Vujacic LAC 02/09/2014 LAC vs. PHI W 9 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 0 1 0 3 0 -1
+p300
+aVReggie Bullock LAC 02/09/2014 LAC vs. PHI W 7 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 1 0 0 0 0 -5
+p301
+aVDarren Collison LAC 02/07/2014 LAC vs. TOR W 38 11 4 15 26.7 2 8 25.0 1 1 100.0 0 3 3 7 0 0 2 4 7
+p302
+aVDeAndre Jordan LAC 02/07/2014 LAC vs. TOR W 41 18 4 6 66.7 0 0 - 10 22 45.5 3 10 13 4 2 2 0 4 22
+p303
+aVReggie Bullock LAC 02/07/2014 LAC vs. TOR W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 1
+p304
+aVBlake Griffin LAC 02/07/2014 LAC vs. TOR W 28 36 13 18 72.2 0 1 0.0 10 13 76.9 1 7 8 2 2 1 2 5 14
+p305
+aVJamal Crawford LAC 02/07/2014 LAC vs. TOR W 45 21 4 13 30.8 1 5 20.0 12 12 100.0 3 3 6 6 1 0 3 2 9
+p306
+aVMatt Barnes LAC 02/07/2014 LAC vs. TOR W 36 11 4 6 66.7 3 5 60.0 0 0 - 1 4 5 4 1 0 3 4 19
+p307
+aVWillie Green LAC 02/07/2014 LAC vs. TOR W 19 12 4 7 57.1 2 3 66.7 2 2 100.0 0 3 3 0 0 0 0 2 3
+p308
+aVJared Dudley LAC 02/07/2014 LAC vs. TOR W 21 5 2 5 40.0 0 1 0.0 1 2 50.0 2 3 5 1 0 0 1 3 -1
+p309
+aVRyan Hollins LAC 02/07/2014 LAC vs. TOR W 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 1 0 3 -9
+p310
+aVWillie Green LAC 02/05/2014 LAC vs. MIA L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 2 3 -1
+p311
+aVSasha Vujacic LAC 02/05/2014 LAC vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p312
+aVBlake Griffin LAC 02/05/2014 LAC vs. MIA L 42 43 16 34 47.1 1 3 33.3 10 17 58.8 9 6 15 6 0 0 4 5 5
+p313
+aVJamal Crawford LAC 02/05/2014 LAC vs. MIA L 47 31 9 21 42.9 5 11 45.5 8 8 100.0 0 3 3 6 3 0 5 4 5
+p314
+aVDarren Collison LAC 02/05/2014 LAC vs. MIA L 38 5 1 6 16.7 0 3 0.0 3 4 75.0 1 4 5 9 1 1 3 1 -3
+p315
+aVDeAndre Jordan LAC 02/05/2014 LAC vs. MIA L 41 16 6 8 75.0 0 0 - 4 5 80.0 5 11 16 0 1 1 3 3 -20
+p316
+aVMatt Barnes LAC 02/05/2014 LAC vs. MIA L 40 12 4 11 36.4 1 5 20.0 3 4 75.0 5 2 7 4 2 0 2 4 12
+p317
+aVHedo Turkoglu LAC 02/05/2014 LAC vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p318
+aVJared Dudley LAC 02/05/2014 LAC vs. MIA L 18 3 1 5 20.0 0 3 0.0 1 2 50.0 1 4 5 1 0 0 0 3 -1
+p319
+aVJamal Crawford LAC 02/03/2014 LAC @ DEN L 29 19 5 8 62.5 1 2 50.0 8 9 88.9 0 1 1 5 1 0 3 3 6
+p320
+aVHedo Turkoglu LAC 02/03/2014 LAC @ DEN L 12 4 1 3 33.3 0 1 0.0 2 3 66.7 0 3 3 1 2 0 1 1 1
+p321
+aVJared Dudley LAC 02/03/2014 LAC @ DEN L 16 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 3 1 0 1 1 12
+p322
+aVRyan Hollins LAC 02/03/2014 LAC @ DEN L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 2
+p323
+aVDeAndre Jordan LAC 02/03/2014 LAC @ DEN L 41 19 7 10 70.0 0 0 - 5 6 83.3 2 10 12 1 1 3 3 4 -8
+p324
+aVDarren Collison LAC 02/03/2014 LAC @ DEN L 26 9 4 12 33.3 1 2 50.0 0 0 - 0 1 1 6 4 0 1 3 -7
+p325
+aVBlake Griffin LAC 02/03/2014 LAC @ DEN L 38 36 13 21 61.9 0 0 - 10 16 62.5 6 5 11 5 1 0 0 4 0
+p326
+aVMatt Barnes LAC 02/03/2014 LAC @ DEN L 32 10 4 10 40.0 2 6 33.3 0 0 - 0 4 4 5 0 0 2 4 -13
+p327
+aVWillie Green LAC 02/03/2014 LAC @ DEN L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 1 0 3 12
+p328
+aVJJ Redick LAC 02/03/2014 LAC @ DEN L 30 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 4 1 0 0 2 -10
+p329
+aVMatt Barnes LAC 02/01/2014 LAC vs. UTA W 28 9 3 7 42.9 0 2 0.0 3 6 50.0 2 2 4 2 0 1 2 5 1
+p330
+aVHedo Turkoglu LAC 02/01/2014 LAC vs. UTA W 13 6 3 4 75.0 0 0 - 0 2 0.0 0 4 4 5 2 0 0 2 3
+p331
+aVRyan Hollins LAC 02/01/2014 LAC vs. UTA W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 1
+p332
+aVJJ Redick LAC 02/01/2014 LAC vs. UTA W 18 4 1 6 16.7 0 1 0.0 2 2 100.0 1 2 3 0 1 0 1 3 -3
+p333
+aVJamal Crawford LAC 02/01/2014 LAC vs. UTA W 31 27 9 15 60.0 1 4 25.0 8 9 88.9 1 2 3 5 1 0 2 2 24
+p334
+aVReggie Bullock LAC 02/01/2014 LAC vs. UTA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p335
+aVByron Mullens LAC 02/01/2014 LAC vs. UTA W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p336
+aVBlake Griffin LAC 02/01/2014 LAC vs. UTA W 35 25 9 19 47.4 0 0 - 7 12 58.3 4 7 11 4 0 0 1 2 17
+p337
+aVWillie Green LAC 02/01/2014 LAC vs. UTA W 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 1 0 1 1
+p338
+aVDarren Collison LAC 02/01/2014 LAC vs. UTA W 32 11 4 8 50.0 1 1 100.0 2 2 100.0 0 3 3 6 2 0 2 0 13
+p339
+aVJared Dudley LAC 02/01/2014 LAC vs. UTA W 19 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 0 0 0 2 1 12
+p340
+aVDeAndre Jordan LAC 02/01/2014 LAC vs. UTA W 35 10 4 6 66.7 0 0 - 2 4 50.0 6 8 14 1 1 3 0 5 12
+p341
+aVMatt Barnes LAC 01/30/2014 LAC @ GSW L 27 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 3 -14
+p342
+aVReggie Bullock LAC 01/30/2014 LAC @ GSW L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p343
+aVRyan Hollins LAC 01/30/2014 LAC @ GSW L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p344
+aVByron Mullens LAC 01/30/2014 LAC @ GSW L 4 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 0 0 -2
+p345
+aVDeAndre Jordan LAC 01/30/2014 LAC @ GSW L 40 9 3 4 75.0 0 0 - 3 9 33.3 5 15 20 0 0 1 2 2 -16
+p346
+aVJared Dudley LAC 01/30/2014 LAC @ GSW L 19 4 2 5 40.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 -6
+p347
+aVDarren Collison LAC 01/30/2014 LAC @ GSW L 30 22 6 11 54.5 3 5 60.0 7 7 100.0 0 0 0 5 0 0 1 2 -8
+p348
+aVWillie Green LAC 01/30/2014 LAC @ GSW L 15 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 3 4 -6
+p349
+aVHedo Turkoglu LAC 01/30/2014 LAC @ GSW L 9 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 0 0 2 -10
+p350
+aVJamal Crawford LAC 01/30/2014 LAC @ GSW L 19 9 1 9 11.1 0 4 0.0 7 8 87.5 0 2 2 4 1 0 1 1 -11
+p351
+aVBlake Griffin LAC 01/30/2014 LAC @ GSW L 40 27 11 21 52.4 0 0 - 5 10 50.0 1 2 3 2 3 0 2 1 -8
+p352
+aVJJ Redick LAC 01/30/2014 LAC @ GSW L 31 12 4 11 36.4 4 6 66.7 0 0 - 0 1 1 1 1 0 3 0 -10
+p353
+aVJamal Crawford LAC 01/29/2014 LAC vs. WAS W 29 21 4 12 33.3 2 7 28.6 11 12 91.7 0 5 5 3 0 0 2 1 7
+p354
+aVRyan Hollins LAC 01/29/2014 LAC vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p355
+aVWillie Green LAC 01/29/2014 LAC vs. WAS W 11 0 0 6 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 3
+p356
+aVHedo Turkoglu LAC 01/29/2014 LAC vs. WAS W 10 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 1 0 0 1 1
+p357
+aVMatt Barnes LAC 01/29/2014 LAC vs. WAS W 27 4 2 7 28.6 0 1 0.0 0 0 - 0 4 4 1 1 0 1 2 0
+p358
+aVJJ Redick LAC 01/29/2014 LAC vs. WAS W 36 20 7 11 63.6 3 5 60.0 3 4 75.0 0 2 2 1 1 0 4 2 6
+p359
+aVDarren Collison LAC 01/29/2014 LAC vs. WAS W 28 16 5 9 55.6 0 0 - 6 6 100.0 0 1 1 9 0 0 4 2 6
+p360
+aVDeAndre Jordan LAC 01/29/2014 LAC vs. WAS W 42 14 4 5 80.0 0 0 - 6 10 60.0 5 12 17 0 1 2 2 2 4
+p361
+aVBlake Griffin LAC 01/29/2014 LAC vs. WAS W 37 29 12 20 60.0 0 0 - 5 8 62.5 1 8 9 4 1 1 6 4 4
+p362
+aVJared Dudley LAC 01/29/2014 LAC vs. WAS W 16 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 1
+p363
+aVJJ Redick LAC 01/27/2014 LAC @ MIL W 24 14 4 8 50.0 3 4 75.0 3 3 100.0 0 2 2 2 0 0 1 0 28
+p364
+aVWillie Green LAC 01/27/2014 LAC @ MIL W 19 13 5 6 83.3 1 1 100.0 2 2 100.0 1 1 2 5 2 0 0 5 0
+p365
+aVReggie Bullock LAC 01/27/2014 LAC @ MIL W 8 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p366
+aVHedo Turkoglu LAC 01/27/2014 LAC @ MIL W 19 6 2 4 50.0 2 2 100.0 0 2 0.0 2 5 7 3 1 0 2 2 7
+p367
+aVBlake Griffin LAC 01/27/2014 LAC @ MIL W 28 20 8 13 61.5 0 1 0.0 4 5 80.0 2 3 5 2 2 1 3 3 19
+p368
+aVJared Dudley LAC 01/27/2014 LAC @ MIL W 14 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 16
+p369
+aVJamal Crawford LAC 01/27/2014 LAC @ MIL W 24 25 9 16 56.3 5 9 55.6 2 2 100.0 0 0 0 3 1 0 1 3 13
+p370
+aVDeAndre Jordan LAC 01/27/2014 LAC @ MIL W 33 8 4 5 80.0 0 0 - 0 1 0.0 4 14 18 2 1 1 3 2 25
+p371
+aVByron Mullens LAC 01/27/2014 LAC @ MIL W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -4
+p372
+aVRyan Hollins LAC 01/27/2014 LAC @ MIL W 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 1
+p373
+aVDarren Collison LAC 01/27/2014 LAC @ MIL W 25 15 5 6 83.3 2 3 66.7 3 4 75.0 1 2 3 7 1 0 4 2 21
+p374
+aVMatt Barnes LAC 01/27/2014 LAC @ MIL W 27 3 1 9 11.1 1 6 16.7 0 0 - 0 4 4 2 1 1 0 3 18
+p375
+aVHedo Turkoglu LAC 01/25/2014 LAC @ TOR W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p376
+aVWillie Green LAC 01/25/2014 LAC @ TOR W 12 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 4 3
+p377
+aVDeAndre Jordan LAC 01/25/2014 LAC @ TOR W 33 6 2 4 50.0 0 0 - 2 2 100.0 4 7 11 0 1 0 1 5 -10
+p378
+aVBlake Griffin LAC 01/25/2014 LAC @ TOR W 39 30 10 18 55.6 0 0 - 10 13 76.9 2 3 5 2 1 0 0 5 5
+p379
+aVJJ Redick LAC 01/25/2014 LAC @ TOR W 23 18 7 13 53.8 2 3 66.7 2 2 100.0 0 2 2 0 0 0 0 1 1
+p380
+aVRyan Hollins LAC 01/25/2014 LAC @ TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 0 4
+p381
+aVDarius Morris LAC 01/25/2014 LAC @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p382
+aVJared Dudley LAC 01/25/2014 LAC @ TOR W 18 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 18
+p383
+aVDarren Collison LAC 01/25/2014 LAC @ TOR W 38 12 5 11 45.5 2 3 66.7 0 0 - 0 1 1 6 4 0 2 2 2
+p384
+aVMatt Barnes LAC 01/25/2014 LAC @ TOR W 32 11 4 7 57.1 3 3 100.0 0 0 - 1 3 4 1 1 0 2 2 4
+p385
+aVJamal Crawford LAC 01/25/2014 LAC @ TOR W 32 37 12 23 52.2 5 11 45.5 8 8 100.0 1 2 3 11 2 0 1 1 10
+p386
+aVJamal Crawford LAC 01/24/2014 LAC @ CHI W 26 19 6 14 42.9 3 5 60.0 4 5 80.0 1 3 4 3 0 0 3 1 8
+p387
+aVBlake Griffin LAC 01/24/2014 LAC @ CHI W 37 26 11 18 61.1 0 0 - 4 7 57.1 4 9 13 7 0 0 0 2 15
+p388
+aVWillie Green LAC 01/24/2014 LAC @ CHI W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p389
+aVDeAndre Jordan LAC 01/24/2014 LAC @ CHI W 43 10 4 5 80.0 0 0 - 2 6 33.3 5 7 12 2 1 1 1 3 19
+p390
+aVJared Dudley LAC 01/24/2014 LAC @ CHI W 19 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 6
+p391
+aVRyan Hollins LAC 01/24/2014 LAC @ CHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p392
+aVHedo Turkoglu LAC 01/24/2014 LAC @ CHI W 11 5 2 5 40.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 2 2
+p393
+aVDarius Morris LAC 01/24/2014 LAC @ CHI W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p394
+aVReggie Bullock LAC 01/24/2014 LAC @ CHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p395
+aVJJ Redick LAC 01/24/2014 LAC @ CHI W 34 18 5 11 45.5 4 7 57.1 4 4 100.0 0 1 1 5 1 0 1 2 19
+p396
+aVDarren Collison LAC 01/24/2014 LAC @ CHI W 29 17 6 11 54.5 2 3 66.7 3 4 75.0 0 2 2 4 1 0 1 0 15
+p397
+aVMatt Barnes LAC 01/24/2014 LAC @ CHI W 24 13 5 6 83.3 3 4 75.0 0 0 - 0 2 2 3 1 0 1 2 8
+p398
+aVJamal Crawford LAC 01/22/2014 LAC @ CHA L 28 20 8 21 38.1 2 8 25.0 2 3 66.7 0 1 1 4 0 1 1 1 -8
+p399
+aVJJ Redick LAC 01/22/2014 LAC @ CHA L 36 15 7 14 50.0 1 6 16.7 0 0 - 0 2 2 1 1 0 4 2 -4
+p400
+aVDarius Morris LAC 01/22/2014 LAC @ CHA L 5 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p401
+aVRyan Hollins LAC 01/22/2014 LAC @ CHA L 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -6
+p402
+aVJared Dudley LAC 01/22/2014 LAC @ CHA L 30 5 2 8 25.0 1 5 20.0 0 0 - 1 5 6 2 0 1 0 2 -2
+p403
+aVBlake Griffin LAC 01/22/2014 LAC @ CHA L 37 27 11 20 55.0 0 0 - 5 6 83.3 1 6 7 6 1 0 3 3 7
+p404
+aVHedo Turkoglu LAC 01/22/2014 LAC @ CHA L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -5
+p405
+aVDeAndre Jordan LAC 01/22/2014 LAC @ CHA L 32 4 2 2 100.0 0 0 - 0 0 - 5 15 20 3 2 2 3 4 1
+p406
+aVByron Mullens LAC 01/22/2014 LAC @ CHA L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p407
+aVMatt Barnes LAC 01/22/2014 LAC @ CHA L 17 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 0 0 0 0 3 0
+p408
+aVDarren Collison LAC 01/22/2014 LAC @ CHA L 30 12 5 11 45.5 2 3 66.7 0 0 - 1 1 2 5 1 0 2 1 2
+p409
+aVJamal Crawford LAC 01/20/2014 LAC @ DET W 27 26 9 13 69.2 3 5 60.0 5 6 83.3 1 2 3 4 0 0 3 0 4
+p410
+aVHedo Turkoglu LAC 01/20/2014 LAC @ DET W 15 0 0 4 0.0 0 2 0.0 0 0 - 0 6 6 1 0 1 1 1 10
+p411
+aVMatt Barnes LAC 01/20/2014 LAC @ DET W 27 10 4 8 50.0 2 4 50.0 0 0 - 1 4 5 2 2 0 2 3 -6
+p412
+aVJJ Redick LAC 01/20/2014 LAC @ DET W 36 20 5 9 55.6 3 5 60.0 7 9 77.8 0 0 0 6 0 0 2 2 11
+p413
+aVBlake Griffin LAC 01/20/2014 LAC @ DET W 33 25 9 16 56.3 0 2 0.0 7 12 58.3 3 2 5 5 1 0 4 3 1
+p414
+aVDeAndre Jordan LAC 01/20/2014 LAC @ DET W 40 16 8 11 72.7 0 0 - 0 6 0.0 9 12 21 1 0 4 0 3 8
+p415
+aVRyan Hollins LAC 01/20/2014 LAC @ DET W 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 1
+p416
+aVJared Dudley LAC 01/20/2014 LAC @ DET W 18 7 3 3 100.0 1 1 100.0 0 0 - 1 0 1 2 1 0 1 1 12
+p417
+aVDarren Collison LAC 01/20/2014 LAC @ DET W 31 4 0 6 0.0 0 2 0.0 4 4 100.0 0 1 1 6 3 1 4 1 4
+p418
+aVDarius Morris LAC 01/20/2014 LAC @ DET W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p419
+aVMatt Barnes LAC 01/18/2014 LAC @ IND L 28 4 2 5 40.0 0 2 0.0 0 0 - 0 6 6 0 0 0 0 2 -4
+p420
+aVJJ Redick LAC 01/18/2014 LAC @ IND L 28 8 4 17 23.5 0 7 0.0 0 0 - 0 1 1 4 0 0 2 1 -5
+p421
+aVJared Dudley LAC 01/18/2014 LAC @ IND L 23 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 1 0 0 0 2 -20
+p422
+aVDeAndre Jordan LAC 01/18/2014 LAC @ IND L 39 12 5 9 55.6 0 0 - 2 4 50.0 6 11 17 1 1 2 1 3 -12
+p423
+aVRyan Hollins LAC 01/18/2014 LAC @ IND L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 1 1 0 0
+p424
+aVBlake Griffin LAC 01/18/2014 LAC @ IND L 35 19 6 18 33.3 0 1 0.0 7 8 87.5 3 5 8 4 1 1 1 4 -17
+p425
+aVHedo Turkoglu LAC 01/18/2014 LAC @ IND L 13 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 0 -1
+p426
+aVDarren Collison LAC 01/18/2014 LAC @ IND L 30 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 4 0 0 4 2 -19
+p427
+aVJamal Crawford LAC 01/18/2014 LAC @ IND L 28 22 7 18 38.9 2 7 28.6 6 6 100.0 0 1 1 1 1 0 2 3 -19
+p428
+aVDarius Morris LAC 01/18/2014 LAC @ IND L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p429
+aVByron Mullens LAC 01/18/2014 LAC @ IND L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 4
+p430
+aVDeAndre Jordan LAC 01/17/2014 LAC @ NYK W 43 11 4 8 50.0 0 0 - 3 4 75.0 4 12 16 2 3 3 3 4 15
+p431
+aVDarren Collison LAC 01/17/2014 LAC @ NYK W 36 12 2 9 22.2 0 4 0.0 8 9 88.9 1 4 5 7 0 0 0 0 10
+p432
+aVReggie Bullock LAC 01/17/2014 LAC @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p433
+aVJamal Crawford LAC 01/17/2014 LAC @ NYK W 29 29 7 14 50.0 5 9 55.6 10 11 90.9 1 2 3 4 0 0 1 2 21
+p434
+aVJJ Redick LAC 01/17/2014 LAC @ NYK W 33 12 3 11 27.3 1 6 16.7 5 5 100.0 0 3 3 1 2 0 0 2 3
+p435
+aVMatt Barnes LAC 01/17/2014 LAC @ NYK W 22 5 2 9 22.2 0 4 0.0 1 2 50.0 1 3 4 1 1 0 0 5 9
+p436
+aVRyan Hollins LAC 01/17/2014 LAC @ NYK W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -3
+p437
+aVBlake Griffin LAC 01/17/2014 LAC @ NYK W 40 32 12 20 60.0 1 3 33.3 7 9 77.8 0 7 7 2 3 1 4 5 9
+p438
+aVHedo Turkoglu LAC 01/17/2014 LAC @ NYK W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p439
+aVJared Dudley LAC 01/17/2014 LAC @ NYK W 19 3 1 4 25.0 1 3 33.3 0 0 - 1 1 2 0 0 0 3 5 -1
+p440
+aVDarius Morris LAC 01/17/2014 LAC @ NYK W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -2
+p441
+aVJamal Crawford LAC 01/15/2014 LAC vs. DAL W 27 16 4 13 30.8 2 5 40.0 6 7 85.7 0 0 0 7 0 1 2 4 -7
+p442
+aVJJ Redick LAC 01/15/2014 LAC vs. DAL W 31 33 10 14 71.4 7 9 77.8 6 7 85.7 1 2 3 5 2 0 1 3 19
+p443
+aVBlake Griffin LAC 01/15/2014 LAC vs. DAL W 40 23 5 11 45.5 0 1 0.0 13 16 81.3 1 6 7 8 1 0 5 3 -2
+p444
+aVMatt Barnes LAC 01/15/2014 LAC vs. DAL W 30 25 10 18 55.6 5 10 50.0 0 2 0.0 2 5 7 0 0 0 1 3 3
+p445
+aVJared Dudley LAC 01/15/2014 LAC vs. DAL W 30 10 4 9 44.4 2 5 40.0 0 0 - 2 2 4 0 1 1 0 2 -3
+p446
+aVDarius Morris LAC 01/15/2014 LAC vs. DAL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 1 0 1
+p447
+aVDarren Collison LAC 01/15/2014 LAC vs. DAL W 36 13 5 11 45.5 1 4 25.0 2 3 66.7 1 3 4 10 1 0 2 1 3
+p448
+aVDeAndre Jordan LAC 01/15/2014 LAC vs. DAL W 39 7 3 6 50.0 0 0 - 1 2 50.0 4 9 13 1 1 2 0 1 -4
+p449
+aVMaalik Wayns LAC 01/10/2014 LAC vs. LAL W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 2 0 0 3 -6
+p450
+aVByron Mullens LAC 01/10/2014 LAC vs. LAL W 6 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 1 1 -6
+p451
+aVAntawn Jamison LAC 01/10/2014 LAC vs. LAL W 7 2 0 5 0.0 0 3 0.0 2 2 100.0 0 1 1 0 1 1 1 1 2
+p452
+aVJamal Crawford LAC 01/10/2014 LAC vs. LAL W 25 11 3 13 23.1 2 4 50.0 3 4 75.0 4 2 6 3 1 0 0 3 17
+p453
+aVMatt Barnes LAC 01/10/2014 LAC vs. LAL W 20 7 2 8 25.0 0 3 0.0 3 4 75.0 2 4 6 1 1 0 0 2 18
+p454
+aVDarius Morris LAC 01/10/2014 LAC vs. LAL W 12 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 -13
+p455
+aVRyan Hollins LAC 01/10/2014 LAC vs. LAL W 17 5 1 1 100.0 0 0 - 3 6 50.0 2 3 5 0 1 2 0 5 -5
+p456
+aVDarren Collison LAC 01/10/2014 LAC vs. LAL W 31 20 9 12 75.0 2 3 66.7 0 0 - 1 4 5 7 1 1 1 0 42
+p457
+aVDeAndre Jordan LAC 01/10/2014 LAC vs. LAL W 31 13 5 9 55.6 0 0 - 3 4 75.0 2 8 10 1 2 7 0 2 41
+p458
+aVJJ Redick LAC 01/10/2014 LAC vs. LAL W 23 19 8 15 53.3 1 4 25.0 2 2 100.0 0 3 3 2 0 0 0 0 24
+p459
+aVJared Dudley LAC 01/10/2014 LAC vs. LAL W 24 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 2 0 1 3 19
+p460
+aVBlake Griffin LAC 01/10/2014 LAC vs. LAL W 30 33 12 15 80.0 0 0 - 9 11 81.8 2 10 12 4 4 2 4 2 45
+p461
+aVWillie Green LAC 01/10/2014 LAC vs. LAL W 9 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 3 0 0 0 0 2
+p462
+aVBlake Griffin LAC 01/08/2014 LAC vs. BOS W 41 29 9 14 64.3 0 0 - 11 17 64.7 1 5 6 8 2 0 2 4 9
+p463
+aVMaalik Wayns LAC 01/08/2014 LAC vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p464
+aVRyan Hollins LAC 01/08/2014 LAC vs. BOS W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -11
+p465
+aVJared Dudley LAC 01/08/2014 LAC vs. BOS W 32 18 7 11 63.6 4 6 66.7 0 2 0.0 0 2 2 3 4 2 1 1 8
+p466
+aVDarren Collison LAC 01/08/2014 LAC vs. BOS W 32 15 4 9 44.4 2 3 66.7 5 5 100.0 1 4 5 6 1 0 1 6 5
+p467
+aVAntawn Jamison LAC 01/08/2014 LAC vs. BOS W 12 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 0 1 3
+p468
+aVMatt Barnes LAC 01/08/2014 LAC vs. BOS W 22 5 1 3 33.3 1 2 50.0 2 2 100.0 1 7 8 1 0 0 2 1 -7
+p469
+aVJamal Crawford LAC 01/08/2014 LAC vs. BOS W 45 26 8 26 30.8 3 12 25.0 7 7 100.0 0 2 2 6 2 0 3 2 10
+p470
+aVDeAndre Jordan LAC 01/08/2014 LAC vs. BOS W 27 11 5 6 83.3 0 0 - 1 4 25.0 4 9 13 0 0 1 2 4 16
+p471
+aVDarius Morris LAC 01/08/2014 LAC vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p472
+aVWillie Green LAC 01/08/2014 LAC vs. BOS W 15 7 2 5 40.0 1 4 25.0 2 2 100.0 0 1 1 1 1 0 2 2 1
+p473
+aVDarren Collison LAC 01/06/2014 LAC vs. ORL W 36 21 8 11 72.7 1 2 50.0 4 4 100.0 1 2 3 7 4 0 4 0 27
+p474
+aVAntawn Jamison LAC 01/06/2014 LAC vs. ORL W 20 10 3 6 50.0 1 4 25.0 3 3 100.0 1 4 5 2 1 0 0 1 5
+p475
+aVByron Mullens LAC 01/06/2014 LAC vs. ORL W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p476
+aVBlake Griffin LAC 01/06/2014 LAC vs. ORL W 24 16 5 12 41.7 0 1 0.0 6 8 75.0 2 6 8 6 3 0 2 4 15
+p477
+aVDeAndre Jordan LAC 01/06/2014 LAC vs. ORL W 33 14 6 10 60.0 0 0 - 2 3 66.7 5 12 17 0 0 8 1 4 26
+p478
+aVRyan Hollins LAC 01/06/2014 LAC vs. ORL W 13 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 -8
+p479
+aVJamal Crawford LAC 01/06/2014 LAC vs. ORL W 34 13 5 14 35.7 3 7 42.9 0 0 - 1 4 5 8 0 0 2 2 39
+p480
+aVJared Dudley LAC 01/06/2014 LAC vs. ORL W 26 8 3 9 33.3 2 6 33.3 0 0 - 1 2 3 2 0 0 2 1 24
+p481
+aVDarius Morris LAC 01/06/2014 LAC vs. ORL W 8 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 1 1 0 0 0 -13
+p482
+aVWillie Green LAC 01/06/2014 LAC vs. ORL W 18 11 4 7 57.1 3 4 75.0 0 0 - 0 1 1 0 0 1 0 2 -13
+p483
+aVMatt Barnes LAC 01/06/2014 LAC vs. ORL W 25 5 1 10 10.0 1 5 20.0 2 2 100.0 1 3 4 4 0 1 2 1 -2
+p484
+aVBlake Griffin LAC 01/04/2014 LAC @ SAS L 35 19 7 15 46.7 0 0 - 5 7 71.4 2 5 7 2 0 0 1 2 -19
+p485
+aVStephen Jackson LAC 01/04/2014 LAC @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -15
+p486
+aVByron Mullens LAC 01/04/2014 LAC @ SAS L 5 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -3
+p487
+aVDeAndre Jordan LAC 01/04/2014 LAC @ SAS L 33 4 2 5 40.0 0 0 - 0 0 - 1 9 10 1 1 2 2 6 -20
+p488
+aVWillie Green LAC 01/04/2014 LAC @ SAS L 22 8 4 8 50.0 0 2 0.0 0 0 - 1 1 2 2 1 0 4 2 -15
+p489
+aVRyan Hollins LAC 01/04/2014 LAC @ SAS L 5 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 1 0 0 9
+p490
+aVDarren Collison LAC 01/04/2014 LAC @ SAS L 36 14 6 9 66.7 1 2 50.0 1 2 50.0 0 2 2 6 3 0 2 5 -23
+p491
+aVJamal Crawford LAC 01/04/2014 LAC @ SAS L 39 24 10 22 45.5 1 2 50.0 3 5 60.0 0 1 1 7 1 0 1 2 -10
+p492
+aVAntawn Jamison LAC 01/04/2014 LAC @ SAS L 10 2 0 2 0.0 0 1 0.0 2 2 100.0 1 1 2 1 0 0 0 1 -3
+p493
+aVMatt Barnes LAC 01/04/2014 LAC @ SAS L 28 7 2 9 22.2 0 5 0.0 3 4 75.0 2 3 5 1 0 0 3 5 -12
+p494
+aVJared Dudley LAC 01/04/2014 LAC @ SAS L 23 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -9
+p495
+aVJared Dudley LAC 01/03/2014 LAC @ DAL W 36 7 3 9 33.3 1 3 33.3 0 2 0.0 1 3 4 3 0 0 0 1 -11
+p496
+aVDarren Collison LAC 01/03/2014 LAC @ DAL W 35 20 6 10 60.0 0 3 0.0 8 8 100.0 1 2 3 4 1 0 4 4 14
+p497
+aVBlake Griffin LAC 01/03/2014 LAC @ DAL W 41 25 7 18 38.9 0 1 0.0 11 13 84.6 5 10 15 5 0 1 0 3 17
+p498
+aVWillie Green LAC 01/03/2014 LAC @ DAL W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -12
+p499
+aVJamal Crawford LAC 01/03/2014 LAC @ DAL W 35 17 6 17 35.3 1 6 16.7 4 4 100.0 0 1 1 2 1 0 3 2 13
+p500
+aVChris Paul LAC 01/03/2014 LAC @ DAL W 22 19 5 8 62.5 5 6 83.3 4 4 100.0 0 3 3 6 1 0 1 1 7
+p501
+aVDeAndre Jordan LAC 01/03/2014 LAC @ DAL W 41 25 11 14 78.6 0 0 - 3 7 42.9 6 12 18 1 1 3 2 2 7
+p502
+aVMatt Barnes LAC 01/03/2014 LAC @ DAL W 20 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 0 1 0 0 2 0
+p503
+aVWillie Green LAC 01/01/2014 LAC vs. CHA W 13 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 2 0 0 1 1 5
+p504
+aVChris Paul LAC 01/01/2014 LAC vs. CHA W 32 17 7 14 50.0 1 4 25.0 2 2 100.0 0 4 4 14 1 0 3 1 17
+p505
+aVJamal Crawford LAC 01/01/2014 LAC vs. CHA W 35 11 5 14 35.7 1 8 12.5 0 0 - 0 2 2 4 2 2 0 2 22
+p506
+aVMatt Barnes LAC 01/01/2014 LAC vs. CHA W 20 4 2 10 20.0 0 6 0.0 0 0 - 1 4 5 2 0 0 0 2 -3
+p507
+aVByron Mullens LAC 01/01/2014 LAC vs. CHA W 1 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 6
+p508
+aVAntawn Jamison LAC 01/01/2014 LAC vs. CHA W 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p509
+aVDeAndre Jordan LAC 01/01/2014 LAC vs. CHA W 37 6 3 4 75.0 0 0 - 0 0 - 3 9 12 2 1 1 3 3 26
+p510
+aVJared Dudley LAC 01/01/2014 LAC vs. CHA W 33 20 7 10 70.0 6 9 66.7 0 0 - 0 1 1 5 0 0 1 2 29
+p511
+aVBlake Griffin LAC 01/01/2014 LAC vs. CHA W 38 31 14 20 70.0 1 2 50.0 2 4 50.0 2 10 12 2 0 0 4 4 22
+p512
+aVRyan Hollins LAC 01/01/2014 LAC vs. CHA W 11 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 1
+p513
+aVDarren Collison LAC 01/01/2014 LAC vs. CHA W 16 8 3 3 100.0 0 0 - 2 2 100.0 1 2 3 5 5 0 0 2 10
+p514
+aVChris Paul LAC 12/30/2013 LAC vs. PHX L 30 11 5 14 35.7 0 0 - 1 2 50.0 0 4 4 7 2 0 4 2 -28
+p515
+aVStephen Jackson LAC 12/30/2013 LAC vs. PHX L 14 5 2 8 25.0 1 4 25.0 0 0 - 0 2 2 1 1 0 1 2 9
+p516
+aVDeAndre Jordan LAC 12/30/2013 LAC vs. PHX L 33 2 1 2 50.0 0 0 - 0 2 0.0 6 13 19 0 0 2 1 3 -24
+p517
+aVJamal Crawford LAC 12/30/2013 LAC vs. PHX L 31 15 4 13 30.8 2 5 40.0 5 7 71.4 1 0 1 0 1 1 1 2 -25
+p518
+aVDarren Collison LAC 12/30/2013 LAC vs. PHX L 30 11 3 10 30.0 0 1 0.0 5 5 100.0 2 0 2 6 0 0 2 2 -5
+p519
+aVJared Dudley LAC 12/30/2013 LAC vs. PHX L 23 9 3 5 60.0 0 0 - 3 3 100.0 2 2 4 2 0 0 2 3 -6
+p520
+aVMatt Barnes LAC 12/30/2013 LAC vs. PHX L 26 13 5 10 50.0 3 7 42.9 0 0 - 0 4 4 0 0 1 2 3 -2
+p521
+aVByron Mullens LAC 12/30/2013 LAC vs. PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 6
+p522
+aVWillie Green LAC 12/30/2013 LAC vs. PHX L 19 7 3 7 42.9 1 3 33.3 0 0 - 1 5 6 0 2 0 3 2 6
+p523
+aVBlake Griffin LAC 12/30/2013 LAC vs. PHX L 28 15 5 15 33.3 0 0 - 5 7 71.4 2 3 5 1 1 0 4 4 -26
+p524
+aVByron Mullens LAC 12/28/2013 LAC vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -9
+p525
+aVBlake Griffin LAC 12/28/2013 LAC vs. UTA W 38 40 13 20 65.0 0 0 - 14 17 82.4 1 9 10 3 1 1 8 2 10
+p526
+aVChris Paul LAC 12/28/2013 LAC vs. UTA W 37 21 8 16 50.0 0 0 - 5 6 83.3 2 8 10 9 5 0 2 3 5
+p527
+aVJamal Crawford LAC 12/28/2013 LAC vs. UTA W 33 13 4 16 25.0 2 7 28.6 3 4 75.0 0 0 0 1 2 0 0 0 12
+p528
+aVDarren Collison LAC 12/28/2013 LAC vs. UTA W 15 7 3 7 42.9 0 1 0.0 1 1 100.0 0 1 1 2 2 0 0 1 -4
+p529
+aVWillie Green LAC 12/28/2013 LAC vs. UTA W 11 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 3
+p530
+aVJared Dudley LAC 12/28/2013 LAC vs. UTA W 27 4 1 4 25.0 0 2 0.0 2 2 100.0 1 2 3 1 0 0 0 1 14
+p531
+aVStephen Jackson LAC 12/28/2013 LAC vs. UTA W 14 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 5
+p532
+aVMatt Barnes LAC 12/28/2013 LAC vs. UTA W 21 7 3 4 75.0 1 2 50.0 0 1 0.0 0 1 1 1 1 1 2 3 -6
+p533
+aVDeAndre Jordan LAC 12/28/2013 LAC vs. UTA W 37 4 2 3 66.7 0 0 - 0 1 0.0 2 10 12 2 2 2 1 2 10
+p534
+aVBlake Griffin LAC 12/26/2013 LAC @ POR L 41 35 15 27 55.6 1 1 100.0 4 5 80.0 3 8 11 1 1 2 2 2 6
+p535
+aVRyan Hollins LAC 12/26/2013 LAC @ POR L 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -12
+p536
+aVDarren Collison LAC 12/26/2013 LAC @ POR L 24 6 3 8 37.5 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -2
+p537
+aVWillie Green LAC 12/26/2013 LAC @ POR L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p538
+aVAntawn Jamison LAC 12/26/2013 LAC @ POR L 10 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 -10
+p539
+aVJared Dudley LAC 12/26/2013 LAC @ POR L 20 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 1 0 1 1 -3
+p540
+aVDeAndre Jordan LAC 12/26/2013 LAC @ POR L 42 2 1 6 16.7 0 0 - 0 2 0.0 5 14 19 1 1 2 0 6 9
+p541
+aVChris Paul LAC 12/26/2013 LAC @ POR L 45 34 16 29 55.2 2 3 66.7 0 1 0.0 0 3 3 16 6 0 1 1 10
+p542
+aVJamal Crawford LAC 12/26/2013 LAC @ POR L 43 21 8 21 38.1 4 8 50.0 1 2 50.0 0 2 2 2 1 0 0 4 2
+p543
+aVMatt Barnes LAC 12/26/2013 LAC @ POR L 23 12 5 10 50.0 1 3 33.3 1 2 50.0 2 3 5 0 0 0 1 6 -11
+p544
+aVBlake Griffin LAC 12/25/2013 LAC @ GSW L 33 20 8 16 50.0 0 1 0.0 4 6 66.7 3 11 14 5 0 0 4 3 2
+p545
+aVDeAndre Jordan LAC 12/25/2013 LAC @ GSW L 39 13 6 6 100.0 0 0 - 1 2 50.0 2 11 13 1 1 6 3 4 -11
+p546
+aVAntawn Jamison LAC 12/25/2013 LAC @ GSW L 5 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 0 1
+p547
+aVJared Dudley LAC 12/25/2013 LAC @ GSW L 29 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 0 1 1 0 3 0
+p548
+aVRyan Hollins LAC 12/25/2013 LAC @ GSW L 8 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 7
+p549
+aVChris Paul LAC 12/25/2013 LAC @ GSW L 40 26 9 20 45.0 1 3 33.3 7 7 100.0 0 2 2 11 2 0 3 3 -1
+p550
+aVMatt Barnes LAC 12/25/2013 LAC @ GSW L 21 0 0 3 0.0 0 2 0.0 0 0 - 0 4 4 4 1 1 1 4 0
+p551
+aVJamal Crawford LAC 12/25/2013 LAC @ GSW L 36 19 9 21 42.9 1 5 20.0 0 0 - 0 0 0 0 0 1 2 2 -11
+p552
+aVDarren Collison LAC 12/25/2013 LAC @ GSW L 18 11 4 6 66.7 1 3 33.3 2 2 100.0 1 0 1 1 1 0 0 1 -6
+p553
+aVWillie Green LAC 12/25/2013 LAC @ GSW L 12 5 1 2 50.0 1 2 50.0 2 2 100.0 0 2 2 0 0 0 0 3 9
+p554
+aVDarren Collison LAC 12/22/2013 LAC vs. MIN W 27 18 8 12 66.7 1 3 33.3 1 2 50.0 0 0 0 2 2 0 2 2 0
+p555
+aVJamal Crawford LAC 12/22/2013 LAC vs. MIN W 42 22 9 19 47.4 4 10 40.0 0 1 0.0 1 3 4 5 0 0 4 4 5
+p556
+aVAntawn Jamison LAC 12/22/2013 LAC vs. MIN W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p557
+aVMatt Barnes LAC 12/22/2013 LAC vs. MIN W 11 3 1 2 50.0 0 1 0.0 1 2 50.0 1 1 2 1 0 0 0 2 0
+p558
+aVBlake Griffin LAC 12/22/2013 LAC vs. MIN W 41 32 11 20 55.0 0 0 - 10 11 90.9 3 7 10 2 4 0 2 6 0
+p559
+aVRyan Hollins LAC 12/22/2013 LAC vs. MIN W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -8
+p560
+aVWillie Green LAC 12/22/2013 LAC vs. MIN W 11 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 2 5
+p561
+aVChris Paul LAC 12/22/2013 LAC vs. MIN W 43 19 6 19 31.6 0 5 0.0 7 8 87.5 2 4 6 13 2 0 3 0 6
+p562
+aVDeAndre Jordan LAC 12/22/2013 LAC vs. MIN W 37 4 2 4 50.0 0 0 - 0 0 - 9 8 17 1 0 1 1 3 5
+p563
+aVJared Dudley LAC 12/22/2013 LAC vs. MIN W 38 15 6 14 42.9 1 7 14.3 2 3 66.7 0 4 4 0 4 0 0 2 12
+p564
+aVWillie Green LAC 12/21/2013 LAC vs. DEN W 15 3 1 6 16.7 0 3 0.0 1 2 50.0 0 2 2 3 0 0 0 1 2
+p565
+aVChris Paul LAC 12/21/2013 LAC vs. DEN W 30 10 3 8 37.5 0 1 0.0 4 5 80.0 0 3 3 11 3 0 3 2 18
+p566
+aVRyan Hollins LAC 12/21/2013 LAC vs. DEN W 10 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 1 0 0 -4
+p567
+aVDarren Collison LAC 12/21/2013 LAC vs. DEN W 23 13 5 7 71.4 1 2 50.0 2 4 50.0 1 0 1 1 0 0 2 1 7
+p568
+aVMatt Barnes LAC 12/21/2013 LAC vs. DEN W 22 13 5 12 41.7 3 7 42.9 0 0 - 1 2 3 3 2 3 1 4 7
+p569
+aVJamal Crawford LAC 12/21/2013 LAC vs. DEN W 31 27 10 20 50.0 6 12 50.0 1 1 100.0 1 2 3 1 1 0 3 2 22
+p570
+aVDeAndre Jordan LAC 12/21/2013 LAC vs. DEN W 32 7 2 3 66.7 0 0 - 3 6 50.0 2 10 12 1 0 3 2 2 19
+p571
+aVBlake Griffin LAC 12/21/2013 LAC vs. DEN W 36 24 8 17 47.1 0 1 0.0 8 10 80.0 5 11 16 4 1 1 3 2 19
+p572
+aVAntawn Jamison LAC 12/21/2013 LAC vs. DEN W 10 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 1 0 0 2 0
+p573
+aVStephen Jackson LAC 12/21/2013 LAC vs. DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 0
+p574
+aVJared Dudley LAC 12/21/2013 LAC vs. DEN W 28 9 3 8 37.5 3 7 42.9 0 0 - 0 2 2 1 0 0 2 3 15
+p575
+aVBlake Griffin LAC 12/18/2013 LAC vs. NOP W 32 21 8 16 50.0 2 3 66.7 3 4 75.0 3 7 10 5 0 1 3 6 10
+p576
+aVDeAndre Jordan LAC 12/18/2013 LAC vs. NOP W 43 14 6 6 100.0 0 0 - 2 4 50.0 5 15 20 0 0 5 0 2 12
+p577
+aVChris Paul LAC 12/18/2013 LAC vs. NOP W 34 12 4 13 30.8 1 4 25.0 3 4 75.0 1 4 5 11 2 0 1 2 7
+p578
+aVStephen Jackson LAC 12/18/2013 LAC vs. NOP W 10 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 1 1 0 1 6
+p579
+aVWillie Green LAC 12/18/2013 LAC vs. NOP W 23 10 3 7 42.9 2 4 50.0 2 2 100.0 0 1 1 1 0 1 0 0 2
+p580
+aVJared Dudley LAC 12/18/2013 LAC vs. NOP W 39 20 7 11 63.6 4 6 66.7 2 2 100.0 1 4 5 3 0 0 2 4 12
+p581
+aVJamal Crawford LAC 12/18/2013 LAC vs. NOP W 33 17 3 13 23.1 1 7 14.3 10 11 90.9 0 2 2 4 1 0 3 1 11
+p582
+aVRyan Hollins LAC 12/18/2013 LAC vs. NOP W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p583
+aVDarren Collison LAC 12/18/2013 LAC vs. NOP W 23 14 2 7 28.6 1 3 33.3 9 9 100.0 1 4 5 1 0 0 0 0 6
+p584
+aVWillie Green LAC 12/16/2013 LAC vs. SAS W 26 11 4 5 80.0 3 4 75.0 0 0 - 0 3 3 2 1 0 2 2 22
+p585
+aVRyan Hollins LAC 12/16/2013 LAC vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 0
+p586
+aVAntawn Jamison LAC 12/16/2013 LAC vs. SAS W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p587
+aVDeAndre Jordan LAC 12/16/2013 LAC vs. SAS W 31 7 2 3 66.7 0 0 - 3 6 50.0 3 8 11 1 1 3 5 4 11
+p588
+aVChris Paul LAC 12/16/2013 LAC vs. SAS W 36 23 8 13 61.5 1 3 33.3 6 7 85.7 1 7 8 7 4 0 2 1 14
+p589
+aVJamal Crawford LAC 12/16/2013 LAC vs. SAS W 39 17 5 16 31.3 3 8 37.5 4 4 100.0 1 3 4 3 2 0 3 2 8
+p590
+aVDarren Collison LAC 12/16/2013 LAC vs. SAS W 14 10 4 9 44.4 0 1 0.0 2 3 66.7 0 0 0 2 2 1 0 0 9
+p591
+aVBlake Griffin LAC 12/16/2013 LAC vs. SAS W 34 27 8 14 57.1 0 0 - 11 15 73.3 2 7 9 2 0 0 3 3 9
+p592
+aVStephen Jackson LAC 12/16/2013 LAC vs. SAS W 17 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 21
+p593
+aVJared Dudley LAC 12/16/2013 LAC vs. SAS W 35 14 5 10 50.0 4 6 66.7 0 0 - 2 5 7 2 2 0 1 2 24
+p594
+aVChris Paul LAC 12/14/2013 LAC @ WAS W 33 38 11 14 78.6 5 7 71.4 11 11 100.0 1 2 3 12 3 0 2 2 24
+p595
+aVByron Mullens LAC 12/14/2013 LAC @ WAS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -7
+p596
+aVRyan Hollins LAC 12/14/2013 LAC @ WAS W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p597
+aVJared Dudley LAC 12/14/2013 LAC @ WAS W 30 16 7 10 70.0 2 4 50.0 0 0 - 0 1 1 3 0 0 0 3 30
+p598
+aVAntawn Jamison LAC 12/14/2013 LAC @ WAS W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 1 -2
+p599
+aVWillie Green LAC 12/14/2013 LAC @ WAS W 21 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -17
+p600
+aVStephen Jackson LAC 12/14/2013 LAC @ WAS W 8 1 0 0 - 0 0 - 1 2 50.0 0 3 3 1 1 0 2 1 1
+p601
+aVJamal Crawford LAC 12/14/2013 LAC @ WAS W 39 17 6 14 42.9 1 4 25.0 4 4 100.0 0 1 1 3 1 0 1 2 22
+p602
+aVDeAndre Jordan LAC 12/14/2013 LAC @ WAS W 31 15 6 6 100.0 0 0 - 3 6 50.0 2 8 10 1 0 2 1 4 15
+p603
+aVBlake Griffin LAC 12/14/2013 LAC @ WAS W 39 16 6 13 46.2 0 1 0.0 4 4 100.0 1 8 9 5 2 1 3 2 22
+p604
+aVDarren Collison LAC 12/14/2013 LAC @ WAS W 18 5 1 3 33.3 0 1 0.0 3 4 75.0 1 2 3 0 2 0 0 2 -1
+p605
+aVChris Paul LAC 12/12/2013 LAC @ BKN L 28 20 6 13 46.2 2 3 66.7 6 7 85.7 0 2 2 2 0 0 0 3 -5
+p606
+aVJamal Crawford LAC 12/12/2013 LAC @ BKN L 29 19 5 11 45.5 2 6 33.3 7 12 58.3 0 2 2 3 2 0 3 1 -13
+p607
+aVDarren Collison LAC 12/12/2013 LAC @ BKN L 21 8 2 7 28.6 0 1 0.0 4 4 100.0 0 3 3 2 0 0 2 4 -4
+p608
+aVWillie Green LAC 12/12/2013 LAC @ BKN L 23 8 2 6 33.3 1 4 25.0 3 4 75.0 0 1 1 2 0 0 2 1 -5
+p609
+aVByron Mullens LAC 12/12/2013 LAC @ BKN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 10
+p610
+aVBlake Griffin LAC 12/12/2013 LAC @ BKN L 30 12 2 8 25.0 0 0 - 8 13 61.5 3 8 11 3 1 0 3 2 -11
+p611
+aVAntawn Jamison LAC 12/12/2013 LAC @ BKN L 12 6 3 7 42.9 0 3 0.0 0 1 0.0 0 2 2 0 0 0 0 1 -8
+p612
+aVRyan Hollins LAC 12/12/2013 LAC @ BKN L 11 7 2 3 66.7 0 0 - 3 3 100.0 2 2 4 0 0 0 0 1 9
+p613
+aVStephen Jackson LAC 12/12/2013 LAC @ BKN L 23 3 1 5 20.0 0 3 0.0 1 2 50.0 1 2 3 1 2 0 0 2 -3
+p614
+aVDeAndre Jordan LAC 12/12/2013 LAC @ BKN L 31 6 2 3 66.7 0 0 - 2 4 50.0 3 9 12 0 1 1 2 2 -14
+p615
+aVJared Dudley LAC 12/12/2013 LAC @ BKN L 26 4 1 7 14.3 1 4 25.0 1 2 50.0 0 3 3 2 0 0 2 3 -1
+p616
+aVStephen Jackson LAC 12/11/2013 LAC @ BOS W 12 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p617
+aVJared Dudley LAC 12/11/2013 LAC @ BOS W 37 9 3 9 33.3 1 3 33.3 2 2 100.0 2 4 6 2 1 1 0 1 4
+p618
+aVJamal Crawford LAC 12/11/2013 LAC @ BOS W 27 21 7 14 50.0 2 2 100.0 5 6 83.3 0 3 3 3 1 2 2 1 11
+p619
+aVRyan Hollins LAC 12/11/2013 LAC @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 1 0
+p620
+aVAntawn Jamison LAC 12/11/2013 LAC @ BOS W 9 3 1 2 50.0 1 2 50.0 0 2 0.0 1 0 1 0 0 1 2 0 2
+p621
+aVWillie Green LAC 12/11/2013 LAC @ BOS W 19 8 3 6 50.0 2 3 66.7 0 0 - 0 1 1 0 0 1 0 2 -5
+p622
+aVChris Paul LAC 12/11/2013 LAC @ BOS W 36 22 8 16 50.0 0 2 0.0 6 8 75.0 1 6 7 9 2 0 3 0 7
+p623
+aVBlake Griffin LAC 12/11/2013 LAC @ BOS W 42 18 7 16 43.8 0 1 0.0 4 4 100.0 1 6 7 4 1 0 4 3 9
+p624
+aVDeAndre Jordan LAC 12/11/2013 LAC @ BOS W 32 5 2 3 66.7 0 0 - 1 6 16.7 1 5 6 0 1 1 0 4 -3
+p625
+aVDarren Collison LAC 12/11/2013 LAC @ BOS W 23 10 3 7 42.9 0 1 0.0 4 6 66.7 2 3 5 2 2 0 2 5 14
+p626
+aVDarren Collison LAC 12/09/2013 LAC @ PHI W 14 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 2 1 0 2 1 -6
+p627
+aVWillie Green LAC 12/09/2013 LAC @ PHI W 35 9 3 11 27.3 1 6 16.7 2 2 100.0 0 5 5 2 1 1 1 3 18
+p628
+aVChris Paul LAC 12/09/2013 LAC @ PHI W 34 25 10 18 55.6 2 3 66.7 3 5 60.0 0 1 1 13 3 0 4 3 18
+p629
+aVAntawn Jamison LAC 12/09/2013 LAC @ PHI W 10 2 1 4 25.0 0 2 0.0 0 0 - 1 5 6 0 1 0 0 2 0
+p630
+aVRyan Hollins LAC 12/09/2013 LAC @ PHI W 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 0
+p631
+aVJamal Crawford LAC 12/09/2013 LAC @ PHI W 23 8 3 12 25.0 1 6 16.7 1 1 100.0 0 2 2 1 0 0 1 0 -3
+p632
+aVJared Dudley LAC 12/09/2013 LAC @ PHI W 39 10 4 15 26.7 1 8 12.5 1 1 100.0 2 1 3 2 2 0 0 4 6
+p633
+aVBlake Griffin LAC 12/09/2013 LAC @ PHI W 40 26 9 14 64.3 0 2 0.0 8 14 57.1 0 8 8 0 1 3 1 5 11
+p634
+aVDeAndre Jordan LAC 12/09/2013 LAC @ PHI W 39 11 5 7 71.4 0 0 - 1 2 50.0 6 15 21 0 1 0 2 3 11
+p635
+aVWillie Green LAC 12/07/2013 LAC @ CLE L 26 11 4 13 30.8 2 8 25.0 1 2 50.0 1 3 4 1 0 1 2 2 6
+p636
+aVReggie Bullock LAC 12/07/2013 LAC @ CLE L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -9
+p637
+aVBlake Griffin LAC 12/07/2013 LAC @ CLE L 37 10 3 12 25.0 0 0 - 4 6 66.7 3 7 10 4 1 0 2 4 -7
+p638
+aVChris Paul LAC 12/07/2013 LAC @ CLE L 39 13 4 16 25.0 1 6 16.7 4 6 66.7 1 6 7 15 3 0 3 5 7
+p639
+aVJamal Crawford LAC 12/07/2013 LAC @ CLE L 29 19 5 18 27.8 2 9 22.2 7 7 100.0 0 1 1 0 2 0 1 0 -4
+p640
+aVJared Dudley LAC 12/07/2013 LAC @ CLE L 30 8 4 8 50.0 0 3 0.0 0 0 - 0 1 1 2 1 0 1 1 -7
+p641
+aVDarren Collison LAC 12/07/2013 LAC @ CLE L 15 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 0 0 0 2 3 -13
+p642
+aVAntawn Jamison LAC 12/07/2013 LAC @ CLE L 16 1 0 6 0.0 0 5 0.0 1 2 50.0 2 4 6 1 1 1 0 3 3
+p643
+aVRyan Hollins LAC 12/07/2013 LAC @ CLE L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -4
+p644
+aVDeAndre Jordan LAC 12/07/2013 LAC @ CLE L 33 12 5 7 71.4 0 0 - 2 3 66.7 2 11 13 0 1 4 1 1 -2
+p645
+aVReggie Bullock LAC 12/05/2013 LAC @ MEM W 21 9 3 5 60.0 3 3 100.0 0 0 - 0 2 2 0 0 0 1 1 5
+p646
+aVDeAndre Jordan LAC 12/05/2013 LAC @ MEM W 37 10 4 6 66.7 0 0 - 2 4 50.0 4 10 14 2 2 3 2 2 32
+p647
+aVBlake Griffin LAC 12/05/2013 LAC @ MEM W 30 14 5 15 33.3 0 0 - 4 4 100.0 5 4 9 5 1 0 2 3 13
+p648
+aVJamal Crawford LAC 12/05/2013 LAC @ MEM W 31 15 6 14 42.9 1 3 33.3 2 2 100.0 0 3 3 3 0 0 2 2 16
+p649
+aVJared Dudley LAC 12/05/2013 LAC @ MEM W 26 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 0 0 1 1 17
+p650
+aVDarren Collison LAC 12/05/2013 LAC @ MEM W 21 15 6 9 66.7 1 1 100.0 2 2 100.0 0 1 1 3 0 0 4 1 4
+p651
+aVWillie Green LAC 12/05/2013 LAC @ MEM W 21 5 2 8 25.0 0 1 0.0 1 2 50.0 0 1 1 0 0 1 0 3 5
+p652
+aVAntawn Jamison LAC 12/05/2013 LAC @ MEM W 17 11 3 5 60.0 3 5 60.0 2 2 100.0 0 4 4 1 1 0 0 4 4
+p653
+aVChris Paul LAC 12/05/2013 LAC @ MEM W 27 15 6 11 54.5 2 4 50.0 1 2 50.0 0 4 4 8 2 1 2 3 16
+p654
+aVRyan Hollins LAC 12/05/2013 LAC @ MEM W 11 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -12
+p655
+aVDarren Collison LAC 12/04/2013 LAC @ ATL L 23 13 5 10 50.0 2 3 66.7 1 1 100.0 2 1 3 3 0 1 2 2 -1
+p656
+aVReggie Bullock LAC 12/04/2013 LAC @ ATL L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p657
+aVDeAndre Jordan LAC 12/04/2013 LAC @ ATL L 30 6 3 3 100.0 0 0 - 0 4 0.0 4 9 13 0 0 0 3 3 -10
+p658
+aVChris Paul LAC 12/04/2013 LAC @ ATL L 37 19 7 17 41.2 0 3 0.0 5 6 83.3 0 3 3 11 3 0 1 1 -9
+p659
+aVByron Mullens LAC 12/04/2013 LAC @ ATL L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p660
+aVJared Dudley LAC 12/04/2013 LAC @ ATL L 29 9 4 10 40.0 1 5 20.0 0 0 - 0 0 0 2 0 0 0 1 -14
+p661
+aVRyan Hollins LAC 12/04/2013 LAC @ ATL L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 3
+p662
+aVWillie Green LAC 12/04/2013 LAC @ ATL L 18 9 3 9 33.3 1 2 50.0 2 2 100.0 0 0 0 0 1 0 0 1 -3
+p663
+aVJamal Crawford LAC 12/04/2013 LAC @ ATL L 30 13 5 12 41.7 0 4 0.0 3 3 100.0 0 5 5 1 0 0 5 3 -9
+p664
+aVAntawn Jamison LAC 12/04/2013 LAC @ ATL L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 4
+p665
+aVBlake Griffin LAC 12/04/2013 LAC @ ATL L 37 24 10 17 58.8 0 0 - 4 4 100.0 1 6 7 4 0 1 0 2 -13
+p666
+aVChris Paul LAC 12/01/2013 LAC vs. IND L 34 17 6 15 40.0 0 1 0.0 5 5 100.0 0 3 3 10 1 0 1 4 -19
+p667
+aVJamal Crawford LAC 12/01/2013 LAC vs. IND L 33 20 6 19 31.6 1 6 16.7 7 7 100.0 0 1 1 2 1 0 1 1 8
+p668
+aVReggie Bullock LAC 12/01/2013 LAC vs. IND L 19 10 4 4 100.0 1 1 100.0 1 1 100.0 0 1 1 0 1 0 0 0 11
+p669
+aVRyan Hollins LAC 12/01/2013 LAC vs. IND L 9 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 0 1 1 2 10
+p670
+aVAntawn Jamison LAC 12/01/2013 LAC vs. IND L 16 3 1 4 25.0 1 2 50.0 0 2 0.0 1 3 4 0 0 0 0 3 16
+p671
+aVJared Dudley LAC 12/01/2013 LAC vs. IND L 19 10 3 7 42.9 1 1 100.0 3 3 100.0 0 0 0 0 1 0 2 3 -18
+p672
+aVDeAndre Jordan LAC 12/01/2013 LAC vs. IND L 35 11 5 8 62.5 0 0 - 1 2 50.0 6 6 12 2 3 1 0 3 -15
+p673
+aVWillie Green LAC 12/01/2013 LAC vs. IND L 15 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p674
+aVDarren Collison LAC 12/01/2013 LAC vs. IND L 24 8 3 6 50.0 0 1 0.0 2 4 50.0 0 5 5 3 0 0 1 4 14
+p675
+aVBlake Griffin LAC 12/01/2013 LAC vs. IND L 37 16 6 13 46.2 0 0 - 4 5 80.0 3 9 12 2 1 0 5 3 -21
+p676
+aVDarren Collison LAC 11/29/2013 LAC @ SAC W 40 15 5 12 41.7 1 2 50.0 4 4 100.0 0 1 1 2 1 0 1 1 1
+p677
+aVJJ Redick LAC 11/29/2013 LAC @ SAC W 17 13 4 9 44.4 1 4 25.0 4 4 100.0 0 1 1 2 1 0 1 2 0
+p678
+aVJamal Crawford LAC 11/29/2013 LAC @ SAC W 37 31 12 22 54.5 3 7 42.9 4 4 100.0 2 5 7 11 0 0 2 1 11
+p679
+aVRyan Hollins LAC 11/29/2013 LAC @ SAC W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 10
+p680
+aVBlake Griffin LAC 11/29/2013 LAC @ SAC W 39 21 7 15 46.7 0 0 - 7 10 70.0 2 10 12 1 0 0 4 4 -1
+p681
+aVAntawn Jamison LAC 11/29/2013 LAC @ SAC W 17 5 1 5 20.0 0 0 - 3 4 75.0 1 4 5 1 1 0 2 1 7
+p682
+aVJared Dudley LAC 11/29/2013 LAC @ SAC W 37 5 2 5 40.0 1 3 33.3 0 2 0.0 1 2 3 1 1 0 1 4 -2
+p683
+aVReggie Bullock LAC 11/29/2013 LAC @ SAC W 12 1 0 4 0.0 0 3 0.0 1 2 50.0 1 0 1 0 0 0 0 0 10
+p684
+aVDeAndre Jordan LAC 11/29/2013 LAC @ SAC W 40 10 5 9 55.6 0 0 - 0 5 0.0 6 9 15 2 0 9 1 1 -6
+p685
+aVWillie Green LAC 11/29/2013 LAC @ SAC W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p686
+aVRyan Hollins LAC 11/27/2013 LAC vs. NYK W 8 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 0 10
+p687
+aVDarren Collison LAC 11/27/2013 LAC vs. NYK W 22 9 4 7 57.1 0 1 0.0 1 2 50.0 0 3 3 2 2 0 2 2 13
+p688
+aVReggie Bullock LAC 11/27/2013 LAC vs. NYK W 13 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 13
+p689
+aVJJ Redick LAC 11/27/2013 LAC vs. NYK W 24 15 5 10 50.0 3 7 42.9 2 2 100.0 0 2 2 0 0 0 1 1 1
+p690
+aVBlake Griffin LAC 11/27/2013 LAC vs. NYK W 36 15 6 13 46.2 0 0 - 3 6 50.0 3 10 13 2 0 1 3 3 -5
+p691
+aVJared Dudley LAC 11/27/2013 LAC vs. NYK W 35 5 2 8 25.0 1 6 16.7 0 0 - 1 1 2 3 1 0 0 3 0
+p692
+aVDeAndre Jordan LAC 11/27/2013 LAC vs. NYK W 35 9 3 6 50.0 0 0 - 3 6 50.0 2 11 13 1 1 1 1 3 -2
+p693
+aVChris Paul LAC 11/27/2013 LAC vs. NYK W 26 15 4 9 44.4 1 5 20.0 6 7 85.7 1 4 5 7 2 0 2 0 0
+p694
+aVAntawn Jamison LAC 11/27/2013 LAC vs. NYK W 16 6 3 8 37.5 0 0 - 0 0 - 0 1 1 0 0 0 1 3 25
+p695
+aVJamal Crawford LAC 11/27/2013 LAC vs. NYK W 25 13 3 10 30.0 1 5 20.0 6 6 100.0 0 0 0 2 2 0 1 1 10
+p696
+aVReggie Bullock LAC 11/24/2013 LAC vs. CHI W 26 6 3 6 50.0 0 2 0.0 0 0 - 1 3 4 1 0 0 0 2 22
+p697
+aVByron Mullens LAC 11/24/2013 LAC vs. CHI W 6 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 0 5
+p698
+aVBlake Griffin LAC 11/24/2013 LAC vs. CHI W 27 15 6 10 60.0 0 0 - 3 4 75.0 2 10 12 2 1 3 2 4 19
+p699
+aVDeAndre Jordan LAC 11/24/2013 LAC vs. CHI W 26 2 1 1 100.0 0 0 - 0 0 - 1 6 7 2 0 1 2 4 19
+p700
+aVJared Dudley LAC 11/24/2013 LAC vs. CHI W 22 21 8 10 80.0 4 5 80.0 1 1 100.0 0 1 1 1 0 0 0 4 18
+p701
+aVAntawn Jamison LAC 11/24/2013 LAC vs. CHI W 15 11 4 8 50.0 1 1 100.0 2 2 100.0 0 3 3 0 1 0 1 1 15
+p702
+aVRyan Hollins LAC 11/24/2013 LAC vs. CHI W 21 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 3 18
+p703
+aVDarren Collison LAC 11/24/2013 LAC vs. CHI W 21 14 4 6 66.7 0 1 0.0 6 6 100.0 0 3 3 5 1 0 2 3 17
+p704
+aVChris Paul LAC 11/24/2013 LAC vs. CHI W 27 16 6 10 60.0 1 4 25.0 3 4 75.0 0 1 1 17 2 1 1 1 22
+p705
+aVJJ Redick LAC 11/24/2013 LAC vs. CHI W 25 19 8 11 72.7 1 3 33.3 2 2 100.0 0 1 1 2 2 0 0 0 24
+p706
+aVJamal Crawford LAC 11/24/2013 LAC vs. CHI W 18 8 4 11 36.4 0 2 0.0 0 0 - 0 3 3 2 1 0 1 1 9
+p707
+aVWillie Green LAC 11/24/2013 LAC vs. CHI W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p708
+aVJJ Redick LAC 11/23/2013 LAC vs. SAC W 31 15 5 11 45.5 1 3 33.3 4 5 80.0 0 0 0 1 0 1 3 1 1
+p709
+aVBlake Griffin LAC 11/23/2013 LAC vs. SAC W 40 16 3 10 30.0 1 2 50.0 9 13 69.2 3 7 10 4 1 0 6 5 4
+p710
+aVJared Dudley LAC 11/23/2013 LAC vs. SAC W 28 11 4 7 57.1 3 5 60.0 0 2 0.0 0 2 2 2 0 1 0 2 -1
+p711
+aVByron Mullens LAC 11/23/2013 LAC vs. SAC W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -3
+p712
+aVReggie Bullock LAC 11/23/2013 LAC vs. SAC W 14 3 1 4 25.0 1 4 25.0 0 0 - 0 2 2 0 0 0 1 1 12
+p713
+aVDarren Collison LAC 11/23/2013 LAC vs. SAC W 10 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 1 -2
+p714
+aVJamal Crawford LAC 11/23/2013 LAC vs. SAC W 26 8 2 9 22.2 1 6 16.7 3 3 100.0 1 2 3 2 1 0 1 3 0
+p715
+aVChris Paul LAC 11/23/2013 LAC vs. SAC W 38 22 7 13 53.8 3 4 75.0 5 8 62.5 0 6 6 9 1 0 2 5 3
+p716
+aVRyan Hollins LAC 11/23/2013 LAC vs. SAC W 9 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 1 2 1 3
+p717
+aVDeAndre Jordan LAC 11/23/2013 LAC vs. SAC W 38 17 6 6 100.0 0 0 - 5 14 35.7 1 11 12 0 2 2 2 4 -12
+p718
+aVDarren Collison LAC 11/21/2013 LAC @ OKC L 14 0 0 5 0.0 0 1 0.0 0 0 - 1 1 2 2 3 0 0 1 -7
+p719
+aVReggie Bullock LAC 11/21/2013 LAC @ OKC L 17 5 2 6 33.3 1 5 20.0 0 0 - 1 1 2 0 0 0 0 2 -3
+p720
+aVJJ Redick LAC 11/21/2013 LAC @ OKC L 27 8 3 11 27.3 1 6 16.7 1 1 100.0 0 3 3 0 2 0 0 1 -7
+p721
+aVChris Paul LAC 11/21/2013 LAC @ OKC L 35 17 7 11 63.6 3 4 75.0 0 0 - 0 5 5 12 0 0 3 2 -10
+p722
+aVByron Mullens LAC 11/21/2013 LAC @ OKC L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p723
+aVBlake Griffin LAC 11/21/2013 LAC @ OKC L 37 27 12 23 52.2 0 0 - 3 4 75.0 2 8 10 5 2 0 3 1 -2
+p724
+aVDeAndre Jordan LAC 11/21/2013 LAC @ OKC L 32 4 2 8 25.0 0 0 - 0 4 0.0 4 8 12 1 0 1 1 3 -8
+p725
+aVJamal Crawford LAC 11/21/2013 LAC @ OKC L 29 18 7 16 43.8 2 7 28.6 2 4 50.0 0 2 2 4 0 0 0 0 -12
+p726
+aVJared Dudley LAC 11/21/2013 LAC @ OKC L 34 7 3 9 33.3 1 4 25.0 0 0 - 1 0 1 2 2 0 2 4 -19
+p727
+aVRyan Hollins LAC 11/21/2013 LAC @ OKC L 10 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 6 -4
+p728
+aVDeAndre Jordan LAC 11/20/2013 LAC @ MIN W 27 4 2 3 66.7 0 0 - 0 0 - 4 8 12 0 1 0 4 5 -5
+p729
+aVJamal Crawford LAC 11/20/2013 LAC @ MIN W 31 16 5 9 55.6 4 7 57.1 2 4 50.0 0 3 3 1 0 0 3 1 6
+p730
+aVReggie Bullock LAC 11/20/2013 LAC @ MIN W 12 6 2 4 50.0 2 2 100.0 0 0 - 0 1 1 0 0 0 1 0 2
+p731
+aVRyan Hollins LAC 11/20/2013 LAC @ MIN W 21 5 2 4 50.0 0 0 - 1 3 33.3 0 3 3 0 0 2 2 4 8
+p732
+aVJJ Redick LAC 11/20/2013 LAC @ MIN W 32 15 5 14 35.7 2 5 40.0 3 4 75.0 0 4 4 5 1 0 1 3 2
+p733
+aVBlake Griffin LAC 11/20/2013 LAC @ MIN W 38 20 10 19 52.6 0 0 - 0 0 - 1 9 10 2 2 2 2 4 0
+p734
+aVDarren Collison LAC 11/20/2013 LAC @ MIN W 13 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 2 2 4
+p735
+aVJared Dudley LAC 11/20/2013 LAC @ MIN W 29 11 4 8 50.0 1 4 25.0 2 2 100.0 0 2 2 4 0 1 1 5 2
+p736
+aVChris Paul LAC 11/20/2013 LAC @ MIN W 35 20 8 16 50.0 2 5 40.0 2 3 66.7 1 5 6 11 4 0 3 1 1
+p737
+aVJamal Crawford LAC 11/18/2013 LAC vs. MEM L 23 8 3 11 27.3 2 6 33.3 0 0 - 1 1 2 1 2 0 2 3 6
+p738
+aVChris Paul LAC 11/18/2013 LAC vs. MEM L 35 18 5 14 35.7 0 2 0.0 8 9 88.9 1 8 9 11 0 0 2 3 -3
+p739
+aVDarren Collison LAC 11/18/2013 LAC vs. MEM L 13 8 2 4 50.0 1 1 100.0 3 4 75.0 1 0 1 2 1 0 1 0 -5
+p740
+aVJJ Redick LAC 11/18/2013 LAC vs. MEM L 27 12 3 13 23.1 1 7 14.3 5 5 100.0 0 2 2 2 0 0 1 2 -4
+p741
+aVMatt Barnes LAC 11/18/2013 LAC vs. MEM L 23 12 2 6 33.3 1 2 50.0 7 7 100.0 0 2 2 1 1 0 1 2 -2
+p742
+aVDeAndre Jordan LAC 11/18/2013 LAC vs. MEM L 42 8 3 8 37.5 0 0 - 2 2 100.0 8 8 16 1 0 3 1 4 -6
+p743
+aVJared Dudley LAC 11/18/2013 LAC vs. MEM L 23 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 1 -8
+p744
+aVRyan Hollins LAC 11/18/2013 LAC vs. MEM L 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 2
+p745
+aVBlake Griffin LAC 11/18/2013 LAC vs. MEM L 33 23 11 21 52.4 0 0 - 1 3 33.3 5 6 11 1 2 1 1 4 8
+p746
+aVByron Mullens LAC 11/18/2013 LAC vs. MEM L 14 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 0 1 0 0 4 -8
+p747
+aVJared Dudley LAC 11/16/2013 LAC vs. BKN W 25 0 0 6 0.0 0 4 0.0 0 0 - 1 0 1 1 0 0 1 2 -5
+p748
+aVDeAndre Jordan LAC 11/16/2013 LAC vs. BKN W 35 9 2 3 66.7 0 0 - 5 8 62.5 6 10 16 0 0 5 2 3 5
+p749
+aVRyan Hollins LAC 11/16/2013 LAC vs. BKN W 5 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p750
+aVJJ Redick LAC 11/16/2013 LAC vs. BKN W 30 26 9 14 64.3 5 7 71.4 3 4 75.0 0 1 1 1 1 0 1 1 14
+p751
+aVByron Mullens LAC 11/16/2013 LAC vs. BKN W 10 10 4 4 100.0 2 2 100.0 0 0 - 1 1 2 1 0 0 3 2 3
+p752
+aVJamal Crawford LAC 11/16/2013 LAC vs. BKN W 21 13 5 8 62.5 1 3 33.3 2 3 66.7 0 2 2 4 1 0 4 1 -7
+p753
+aVBlake Griffin LAC 11/16/2013 LAC vs. BKN W 40 30 12 19 63.2 0 0 - 6 11 54.5 3 9 12 2 0 1 3 5 7
+p754
+aVMatt Barnes LAC 11/16/2013 LAC vs. BKN W 24 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 0 0 4 13
+p755
+aVReggie Bullock LAC 11/16/2013 LAC vs. BKN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 0
+p756
+aVChris Paul LAC 11/16/2013 LAC vs. BKN W 34 12 3 12 25.0 2 4 50.0 4 4 100.0 0 7 7 13 3 0 1 2 7
+p757
+aVDarren Collison LAC 11/16/2013 LAC vs. BKN W 14 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 1 3
+p758
+aVChris Paul LAC 11/13/2013 LAC vs. OKC W 41 14 5 15 33.3 0 6 0.0 4 4 100.0 0 7 7 16 3 1 2 1 10
+p759
+aVRyan Hollins LAC 11/13/2013 LAC vs. OKC W 11 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 8
+p760
+aVDarren Collison LAC 11/13/2013 LAC vs. OKC W 17 8 3 6 50.0 0 1 0.0 2 2 100.0 2 0 2 1 4 0 1 1 -2
+p761
+aVJamal Crawford LAC 11/13/2013 LAC vs. OKC W 27 20 7 13 53.8 3 7 42.9 3 4 75.0 1 2 3 2 2 1 5 2 -1
+p762
+aVDeAndre Jordan LAC 11/13/2013 LAC vs. OKC W 32 15 6 8 75.0 0 0 - 3 4 75.0 3 6 9 0 2 2 3 3 2
+p763
+aVJared Dudley LAC 11/13/2013 LAC vs. OKC W 31 10 3 8 37.5 1 5 20.0 3 4 75.0 2 1 3 1 0 0 3 4 7
+p764
+aVMatt Barnes LAC 11/13/2013 LAC vs. OKC W 8 0 0 5 0.0 0 2 0.0 0 0 - 3 1 4 0 0 0 1 1 -6
+p765
+aVByron Mullens LAC 11/13/2013 LAC vs. OKC W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 4 4 1 0 0 0 1 -8
+p766
+aVBlake Griffin LAC 11/13/2013 LAC vs. OKC W 38 22 8 14 57.1 0 0 - 6 9 66.7 6 6 12 7 3 0 5 5 8
+p767
+aVJJ Redick LAC 11/13/2013 LAC vs. OKC W 26 15 5 13 38.5 2 5 40.0 3 3 100.0 0 2 2 2 1 0 1 4 10
+p768
+aVReggie Bullock LAC 11/13/2013 LAC vs. OKC W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 1 0 12
+p769
+aVJJ Redick LAC 11/11/2013 LAC vs. MIN W 24 7 3 7 42.9 1 4 25.0 0 0 - 0 1 1 3 0 0 1 3 -8
+p770
+aVChris Paul LAC 11/11/2013 LAC vs. MIN W 35 21 7 14 50.0 0 2 0.0 7 8 87.5 1 3 4 11 4 0 6 0 -6
+p771
+aVJared Dudley LAC 11/11/2013 LAC vs. MIN W 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -10
+p772
+aVJamal Crawford LAC 11/11/2013 LAC vs. MIN W 31 18 7 11 63.6 3 6 50.0 1 1 100.0 0 2 2 6 0 0 3 1 13
+p773
+aVDeAndre Jordan LAC 11/11/2013 LAC vs. MIN W 36 14 7 8 87.5 0 0 - 0 6 0.0 3 8 11 0 1 0 0 4 0
+p774
+aVBlake Griffin LAC 11/11/2013 LAC vs. MIN W 39 25 11 22 50.0 0 0 - 3 4 75.0 1 9 10 5 0 0 0 3 0
+p775
+aVDarren Collison LAC 11/11/2013 LAC vs. MIN W 14 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 6
+p776
+aVMatt Barnes LAC 11/11/2013 LAC vs. MIN W 22 9 3 5 60.0 0 2 0.0 3 4 75.0 0 8 8 2 3 1 2 4 11
+p777
+aVByron Mullens LAC 11/11/2013 LAC vs. MIN W 9 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 1 0 0 2
+p778
+aVRyan Hollins LAC 11/11/2013 LAC vs. MIN W 12 7 2 4 50.0 0 0 - 3 5 60.0 0 2 2 1 0 0 1 0 2
+p779
+aVBlake Griffin LAC 11/09/2013 LAC @ HOU W 34 22 9 16 56.3 1 1 100.0 3 6 50.0 1 6 7 2 1 0 3 5 10
+p780
+aVChris Paul LAC 11/09/2013 LAC @ HOU W 37 14 5 13 38.5 1 3 33.3 3 3 100.0 2 3 5 13 2 0 3 5 14
+p781
+aVDarren Collison LAC 11/09/2013 LAC @ HOU W 24 10 3 10 30.0 1 5 20.0 3 4 75.0 1 1 2 3 1 2 0 2 2
+p782
+aVDeAndre Jordan LAC 11/09/2013 LAC @ HOU W 36 12 6 8 75.0 0 0 - 0 3 0.0 7 11 18 4 2 3 2 4 16
+p783
+aVJamal Crawford LAC 11/09/2013 LAC @ HOU W 31 16 6 15 40.0 2 4 50.0 2 3 66.7 2 0 2 1 0 1 1 4 12
+p784
+aVReggie Bullock LAC 11/09/2013 LAC @ HOU W 9 0 0 3 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 0 1 -18
+p785
+aVByron Mullens LAC 11/09/2013 LAC @ HOU W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p786
+aVJJ Redick LAC 11/09/2013 LAC @ HOU W 36 22 8 15 53.3 3 7 42.9 3 3 100.0 0 5 5 2 4 1 3 3 22
+p787
+aVWillie Green LAC 11/09/2013 LAC @ HOU W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p788
+aVJared Dudley LAC 11/09/2013 LAC @ HOU W 28 9 4 6 66.7 1 1 100.0 0 1 0.0 0 2 2 1 0 0 1 2 15
+p789
+aVChris Paul LAC 11/07/2013 LAC @ MIA L 37 11 3 11 27.3 0 3 0.0 5 5 100.0 0 5 5 12 2 0 5 5 3
+p790
+aVJamal Crawford LAC 11/07/2013 LAC @ MIA L 29 14 6 11 54.5 2 5 40.0 0 0 - 0 1 1 1 1 0 1 1 -14
+p791
+aVWillie Green LAC 11/07/2013 LAC @ MIA L 14 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 2 3 -5
+p792
+aVDeAndre Jordan LAC 11/07/2013 LAC @ MIA L 42 11 4 8 50.0 0 0 - 3 5 60.0 4 10 14 1 2 1 2 5 -3
+p793
+aVBlake Griffin LAC 11/07/2013 LAC @ MIA L 38 27 11 15 73.3 1 1 100.0 4 5 80.0 2 12 14 2 1 0 3 3 3
+p794
+aVReggie Bullock LAC 11/07/2013 LAC @ MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p795
+aVJared Dudley LAC 11/07/2013 LAC @ MIA L 28 2 1 5 20.0 0 4 0.0 0 0 - 1 0 1 2 2 0 3 4 0
+p796
+aVJJ Redick LAC 11/07/2013 LAC @ MIA L 31 15 4 11 36.4 2 6 33.3 5 6 83.3 1 1 2 1 0 0 1 5 6
+p797
+aVDarren Collison LAC 11/07/2013 LAC @ MIA L 11 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 0 0 0 0 2 -12
+p798
+aVByron Mullens LAC 11/07/2013 LAC @ MIA L 8 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 2 -3
+p799
+aVWillie Green LAC 11/06/2013 LAC @ ORL L 13 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 2 -5
+p800
+aVChris Paul LAC 11/06/2013 LAC @ ORL L 35 18 8 19 42.1 0 2 0.0 2 2 100.0 2 3 5 10 2 0 4 6 -4
+p801
+aVBlake Griffin LAC 11/06/2013 LAC @ ORL L 40 23 10 20 50.0 0 0 - 3 6 50.0 0 13 13 2 2 1 1 2 2
+p802
+aVDeAndre Jordan LAC 11/06/2013 LAC @ ORL L 44 9 3 10 30.0 0 0 - 3 6 50.0 7 12 19 0 1 4 1 3 -3
+p803
+aVJared Dudley LAC 11/06/2013 LAC @ ORL L 30 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 2 1 0 0 1 -1
+p804
+aVJamal Crawford LAC 11/06/2013 LAC @ ORL L 21 14 5 13 38.5 0 3 0.0 4 4 100.0 1 1 2 1 0 0 1 1 -18
+p805
+aVDarren Collison LAC 11/06/2013 LAC @ ORL L 14 2 0 3 0.0 0 2 0.0 2 2 100.0 2 1 3 1 1 0 3 1 -9
+p806
+aVByron Mullens LAC 11/06/2013 LAC @ ORL L 11 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 0 1 0 2 3 -9
+p807
+aVJJ Redick LAC 11/06/2013 LAC @ ORL L 32 17 7 15 46.7 2 5 40.0 1 1 100.0 1 3 4 4 0 0 1 0 7
+p808
+aVReggie Bullock LAC 11/04/2013 LAC vs. HOU W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p809
+aVChris Paul LAC 11/04/2013 LAC vs. HOU W 33 23 7 13 53.8 1 3 33.3 8 8 100.0 0 3 3 17 2 0 2 2 27
+p810
+aVJared Dudley LAC 11/04/2013 LAC vs. HOU W 34 15 6 11 54.5 3 6 50.0 0 0 - 0 3 3 0 0 0 1 2 7
+p811
+aVDarren Collison LAC 11/04/2013 LAC vs. HOU W 15 7 2 10 20.0 1 5 20.0 2 2 100.0 1 2 3 4 0 3 2 1 -8
+p812
+aVMatt Barnes LAC 11/04/2013 LAC vs. HOU W 15 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 2 0 0 2 2 -11
+p813
+aVRyan Hollins LAC 11/04/2013 LAC vs. HOU W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p814
+aVJamal Crawford LAC 11/04/2013 LAC vs. HOU W 30 21 7 15 46.7 6 11 54.5 1 1 100.0 1 2 3 4 0 0 0 2 6
+p815
+aVBlake Griffin LAC 11/04/2013 LAC vs. HOU W 32 18 8 13 61.5 0 0 - 2 4 50.0 2 5 7 2 1 1 2 5 30
+p816
+aVByron Mullens LAC 11/04/2013 LAC vs. HOU W 15 12 5 6 83.3 2 3 66.7 0 0 - 0 4 4 0 2 1 1 5 -3
+p817
+aVJJ Redick LAC 11/04/2013 LAC vs. HOU W 28 26 8 15 53.3 2 7 28.6 8 8 100.0 3 0 3 3 2 1 0 5 25
+p818
+aVDeAndre Jordan LAC 11/04/2013 LAC vs. HOU W 30 11 4 5 80.0 0 0 - 3 5 60.0 1 8 9 0 0 1 0 5 24
+p819
+aVChris Paul LAC 11/01/2013 LAC @ SAC W 36 26 7 14 50.0 3 5 60.0 9 9 100.0 2 2 4 10 0 0 3 4 9
+p820
+aVJamal Crawford LAC 11/01/2013 LAC @ SAC W 22 18 7 10 70.0 3 5 60.0 1 3 33.3 0 1 1 1 0 0 1 0 -6
+p821
+aVJJ Redick LAC 11/01/2013 LAC @ SAC W 28 13 5 8 62.5 1 4 25.0 2 2 100.0 0 0 0 1 1 0 1 2 23
+p822
+aVDeAndre Jordan LAC 11/01/2013 LAC @ SAC W 31 8 2 3 66.7 0 0 - 4 6 66.7 3 5 8 1 1 2 3 5 15
+p823
+aVRyan Hollins LAC 11/01/2013 LAC @ SAC W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 3 5 0
+p824
+aVMatt Barnes LAC 11/01/2013 LAC @ SAC W 22 10 3 6 50.0 2 4 50.0 2 4 50.0 0 3 3 3 2 0 0 3 0
+p825
+aVJared Dudley LAC 11/01/2013 LAC @ SAC W 24 10 3 7 42.9 2 2 100.0 2 2 100.0 0 0 0 0 0 0 1 2 2
+p826
+aVDarren Collison LAC 11/01/2013 LAC @ SAC W 13 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 1
+p827
+aVByron Mullens LAC 11/01/2013 LAC @ SAC W 15 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 0 0 0 1 4 -7
+p828
+aVBlake Griffin LAC 11/01/2013 LAC @ SAC W 41 20 6 13 46.2 0 1 0.0 8 8 100.0 3 14 17 7 0 2 2 2 8
+p829
+aVBlake Griffin LAC 10/31/2013 LAC vs. GSW W 34 23 9 12 75.0 0 1 0.0 5 8 62.5 0 10 10 2 2 1 3 6 18
+p830
+aVDarren Collison LAC 10/31/2013 LAC vs. GSW W 11 0 0 3 0.0 0 0 - 0 1 0.0 1 1 2 1 0 0 1 1 -8
+p831
+aVJared Dudley LAC 10/31/2013 LAC vs. GSW W 33 10 4 6 66.7 2 4 50.0 0 0 - 1 0 1 2 2 0 2 5 3
+p832
+aVDeAndre Jordan LAC 10/31/2013 LAC vs. GSW W 41 9 3 9 33.3 0 0 - 3 12 25.0 10 7 17 1 2 1 0 2 11
+p833
+aVMatt Barnes LAC 10/31/2013 LAC vs. GSW W 18 4 0 4 0.0 0 1 0.0 4 4 100.0 1 2 3 2 0 0 1 3 8
+p834
+aVRyan Hollins LAC 10/31/2013 LAC vs. GSW W 4 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 2
+p835
+aVJamal Crawford LAC 10/31/2013 LAC vs. GSW W 23 17 7 14 50.0 2 5 40.0 1 2 50.0 0 1 1 1 1 0 4 1 -1
+p836
+aVJJ Redick LAC 10/31/2013 LAC vs. GSW W 28 17 5 11 45.5 3 7 42.9 4 4 100.0 1 4 5 2 0 0 0 4 15
+p837
+aVChris Paul LAC 10/31/2013 LAC vs. GSW W 37 42 12 20 60.0 2 6 33.3 16 17 94.1 1 1 2 15 6 0 6 4 17
+p838
+aVReggie Bullock LAC 10/31/2013 LAC vs. GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p839
+aVByron Mullens LAC 10/31/2013 LAC vs. GSW W 9 0 0 4 0.0 0 4 0.0 0 2 0.0 1 1 2 1 1 1 1 3 -10
+p840
+aVJamal Crawford LAC 10/29/2013 LAC @ LAL L 26 15 5 13 38.5 3 6 50.0 2 2 100.0 1 2 3 3 0 0 3 0 -1
+p841
+aVReggie Bullock LAC 10/29/2013 LAC @ LAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p842
+aVMatt Barnes LAC 10/29/2013 LAC @ LAL L 28 8 3 6 50.0 1 3 33.3 1 1 100.0 2 4 6 3 2 0 3 4 -15
+p843
+aVJared Dudley LAC 10/29/2013 LAC @ LAL L 23 5 2 6 33.3 1 4 25.0 0 0 - 0 3 3 2 0 0 1 4 0
+p844
+aVBlake Griffin LAC 10/29/2013 LAC @ LAL L 40 19 8 15 53.3 0 0 - 3 10 30.0 2 5 7 3 1 0 4 1 -6
+p845
+aVDarren Collison LAC 10/29/2013 LAC @ LAL L 12 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 2 2
+p846
+aVDeAndre Jordan LAC 10/29/2013 LAC @ LAL L 35 17 8 10 80.0 0 0 - 1 2 50.0 4 7 11 1 3 3 1 5 -13
+p847
+aVJJ Redick LAC 10/29/2013 LAC @ LAL L 34 13 5 12 41.7 2 5 40.0 1 1 100.0 1 1 2 3 0 0 1 0 -19
+p848
+aVChris Paul LAC 10/29/2013 LAC @ LAL L 36 15 5 13 38.5 0 2 0.0 5 5 100.0 0 6 6 11 5 0 1 4 -13
+p849
+aVRyan Hollins LAC 10/29/2013 LAC @ LAL L 4 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 1 -2
+p850
+a.

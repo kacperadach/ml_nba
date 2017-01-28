@@ -1,0 +1,88 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSam Mack HOU 05/15/1999 HOU vs. LAL L 19 11 3 10 30.0 2 7 28.6 3 4 75.0 1 1 2 3 0 0 0 2 -4
+p2
+aVBrent Price HOU 05/15/1999 HOU vs. LAL L 28 5 2 6 33.3 1 4 25.0 0 0 - 1 3 4 2 1 0 5 2 -17
+p3
+aVHakeem Olajuwon HOU 05/15/1999 HOU vs. LAL L 39 18 8 19 42.1 0 0 - 2 2 100.0 1 9 10 1 1 1 0 4 -4
+p4
+aVMichael Dickerson HOU 05/15/1999 HOU vs. LAL L 35 6 2 5 40.0 1 4 25.0 1 2 50.0 0 2 2 2 0 1 0 2 -4
+p5
+aVOthella Harrington HOU 05/15/1999 HOU vs. LAL L 8 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 -12
+p6
+aVCuttino Mobley HOU 05/15/1999 HOU vs. LAL L 19 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 4 0 0 0 2 7
+p7
+aVCharles Barkley HOU 05/15/1999 HOU vs. LAL L 42 20 7 13 53.8 0 2 0.0 6 9 66.7 0 9 9 6 3 0 2 2 -5
+p8
+aVScottie Pippen HOU 05/15/1999 HOU vs. LAL L 41 19 6 23 26.1 3 11 27.3 4 6 66.7 9 8 17 5 2 0 5 4 -12
+p9
+aVAntoine Carr HOU 05/15/1999 HOU vs. LAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 4 1
+p10
+aVCuttino Mobley HOU 05/13/1999 HOU vs. LAL W 16 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 0 3 -1
+p11
+aVMichael Dickerson HOU 05/13/1999 HOU vs. LAL W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -5
+p12
+aVBrent Price HOU 05/13/1999 HOU vs. LAL W 32 10 3 6 50.0 2 4 50.0 2 2 100.0 2 2 4 7 2 1 0 2 20
+p13
+aVStanley Roberts HOU 05/13/1999 HOU vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p14
+aVCharles Barkley HOU 05/13/1999 HOU vs. LAL W 43 30 12 23 52.2 0 1 0.0 6 8 75.0 8 15 23 5 2 0 3 5 12
+p15
+aVAntoine Carr HOU 05/13/1999 HOU vs. LAL W 10 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 0 0 0 5 3
+p16
+aVScottie Pippen HOU 05/13/1999 HOU vs. LAL W 48 37 12 27 44.4 3 5 60.0 10 12 83.3 5 8 13 4 1 1 2 4 14
+p17
+aVSam Mack HOU 05/13/1999 HOU vs. LAL W 38 6 1 7 14.3 1 4 25.0 3 5 60.0 0 3 3 1 1 0 2 3 19
+p18
+aVOthella Harrington HOU 05/13/1999 HOU vs. LAL W 12 7 3 4 75.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 13
+p19
+aVHakeem Olajuwon HOU 05/13/1999 HOU vs. LAL W 27 5 2 12 16.7 0 0 - 1 1 100.0 2 4 6 0 1 1 2 5 -4
+p20
+aVAntoine Carr HOU 05/11/1999 HOU @ LAL L 11 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 2 6 7
+p21
+aVOthella Harrington HOU 05/11/1999 HOU @ LAL L 18 12 5 6 83.3 0 0 - 2 2 100.0 3 6 9 0 0 0 3 1 11
+p22
+aVMatt Bullard HOU 05/11/1999 HOU @ LAL L 4 5 1 1 100.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 0 0 5
+p23
+aVCuttino Mobley HOU 05/11/1999 HOU @ LAL L 16 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 3 2 -25
+p24
+aVScottie Pippen HOU 05/11/1999 HOU @ LAL L 37 3 0 7 0.0 0 3 0.0 3 4 75.0 3 4 7 5 4 1 1 2 -19
+p25
+aVCharles Barkley HOU 05/11/1999 HOU @ LAL L 29 19 6 13 46.2 2 3 66.7 5 8 62.5 3 10 13 1 0 1 0 2 -23
+p26
+aVSam Mack HOU 05/11/1999 HOU @ LAL L 33 20 5 13 38.5 4 10 40.0 6 6 100.0 0 2 2 2 2 0 1 3 7
+p27
+aVStanley Roberts HOU 05/11/1999 HOU @ LAL L 11 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 0 2 0 2 -2
+p28
+aVMichael Dickerson HOU 05/11/1999 HOU @ LAL L 21 0 0 8 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 2 1 -17
+p29
+aVBrent Price HOU 05/11/1999 HOU @ LAL L 27 18 6 9 66.7 2 4 50.0 4 4 100.0 0 0 0 4 1 0 0 1 10
+p30
+aVBryce Drew HOU 05/11/1999 HOU @ LAL L 4 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 2 0 0 0 1 3
+p31
+aVHakeem Olajuwon HOU 05/11/1999 HOU @ LAL L 25 8 3 10 30.0 0 0 - 2 2 100.0 1 4 5 1 1 0 2 4 -17
+p32
+aVCuttino Mobley HOU 05/09/1999 HOU @ LAL L 41 13 3 5 60.0 1 1 100.0 6 7 85.7 0 2 2 6 1 0 2 4 -4
+p33
+aVSam Mack HOU 05/09/1999 HOU @ LAL L 32 13 4 8 50.0 3 5 60.0 2 2 100.0 0 2 2 1 1 0 2 3 -12
+p34
+aVScottie Pippen HOU 05/09/1999 HOU @ LAL L 44 14 5 13 38.5 0 3 0.0 4 4 100.0 3 7 10 8 0 1 5 2 8
+p35
+aVAntoine Carr HOU 05/09/1999 HOU @ LAL L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 4 -2
+p36
+aVStanley Roberts HOU 05/09/1999 HOU @ LAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 2 -3
+p37
+aVMichael Dickerson HOU 05/09/1999 HOU @ LAL L 15 11 4 9 44.4 2 2 100.0 1 2 50.0 2 0 2 0 0 1 0 4 11
+p38
+aVOthella Harrington HOU 05/09/1999 HOU @ LAL L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p39
+aVCharles Barkley HOU 05/09/1999 HOU @ LAL L 41 25 11 19 57.9 0 1 0.0 3 5 60.0 2 8 10 3 1 1 3 3 -3
+p40
+aVHakeem Olajuwon HOU 05/09/1999 HOU @ LAL L 31 22 10 13 76.9 0 0 - 2 3 66.7 1 7 8 0 2 1 1 5 4
+p41
+aVBrent Price HOU 05/09/1999 HOU @ LAL L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p42
+aVMatt Bullard HOU 05/09/1999 HOU @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p43
+a.

@@ -1,0 +1,1608 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVinny Del Negro MIL 04/19/2000 MIL vs. WAS W 33 16 7 9 77.8 0 0 - 2 2 100.0 0 4 4 4 1 0 0 3 0
+p2
+aVTim Thomas MIL 04/19/2000 MIL vs. WAS W 23 15 5 10 50.0 1 2 50.0 4 4 100.0 0 2 2 3 2 2 1 3 -7
+p3
+aVScott Williams MIL 04/19/2000 MIL vs. WAS W 23 19 8 11 72.7 0 0 - 3 3 100.0 3 2 5 0 0 2 0 2 -3
+p4
+aVRay Allen MIL 04/19/2000 MIL vs. WAS W 6 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 7
+p5
+aVRobert Traylor MIL 04/19/2000 MIL vs. WAS W 16 8 2 4 50.0 0 0 - 4 7 57.1 0 4 4 0 0 0 0 4 1
+p6
+aVSam Cassell MIL 04/19/2000 MIL vs. WAS W 27 13 3 10 30.0 0 1 0.0 7 8 87.5 0 4 4 7 2 0 0 1 12
+p7
+aVDanny Manning MIL 04/19/2000 MIL vs. WAS W 23 2 1 2 50.0 0 0 - 0 0 - 1 6 7 1 0 0 2 1 -4
+p8
+aVRafer Alston MIL 04/19/2000 MIL vs. WAS W 21 10 5 10 50.0 0 0 - 0 0 - 1 0 1 4 0 0 0 0 -7
+p9
+aVDarvin Ham MIL 04/19/2000 MIL vs. WAS W 29 4 1 2 50.0 0 0 - 2 6 33.3 2 4 6 2 1 2 2 3 13
+p10
+aVGlenn Robinson MIL 04/19/2000 MIL vs. WAS W 29 14 6 17 35.3 0 1 0.0 2 2 100.0 0 4 4 2 2 0 0 2 6
+p11
+aVErvin Johnson MIL 04/19/2000 MIL vs. WAS W 8 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 7
+p12
+aVRafer Alston MIL 04/17/2000 MIL @ ORL W 11 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 3 0 -9
+p13
+aVRay Allen MIL 04/17/2000 MIL @ ORL W 32 12 5 9 55.6 1 3 33.3 1 2 50.0 0 3 3 1 3 0 3 3 3
+p14
+aVErvin Johnson MIL 04/17/2000 MIL @ ORL W 32 8 3 6 50.0 0 0 - 2 2 100.0 4 9 13 0 3 3 2 5 13
+p15
+aVDarvin Ham MIL 04/17/2000 MIL @ ORL W 38 10 2 4 50.0 0 0 - 6 9 66.7 5 6 11 2 2 3 2 3 18
+p16
+aVTim Thomas MIL 04/17/2000 MIL @ ORL W 32 21 7 17 41.2 0 4 0.0 7 9 77.8 1 4 5 1 0 0 2 2 -11
+p17
+aVSam Cassell MIL 04/17/2000 MIL @ ORL W 44 19 7 20 35.0 0 0 - 5 6 83.3 2 4 6 10 3 0 6 3 4
+p18
+aVGlenn Robinson MIL 04/17/2000 MIL @ ORL W 42 11 5 16 31.3 0 0 - 1 3 33.3 3 8 11 3 0 0 4 5 2
+p19
+aVScott Williams MIL 04/17/2000 MIL @ ORL W 8 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 1 1 0 3 -10
+p20
+aVRay Allen MIL 04/15/2000 MIL @ WAS W 48 29 9 22 40.9 5 7 71.4 6 6 100.0 3 1 4 7 2 0 3 3 6
+p21
+aVDanny Manning MIL 04/15/2000 MIL @ WAS W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 2
+p22
+aVSam Cassell MIL 04/15/2000 MIL @ WAS W 45 34 10 14 71.4 0 1 0.0 14 18 77.8 0 5 5 6 1 0 7 4 1
+p23
+aVTim Thomas MIL 04/15/2000 MIL @ WAS W 35 10 4 7 57.1 0 0 - 2 4 50.0 2 1 3 2 0 0 2 3 10
+p24
+aVGlenn Robinson MIL 04/15/2000 MIL @ WAS W 46 31 12 24 50.0 4 6 66.7 3 4 75.0 1 10 11 2 1 0 4 2 4
+p25
+aVDarvin Ham MIL 04/15/2000 MIL @ WAS W 27 3 1 3 33.3 0 0 - 1 4 25.0 3 5 8 3 0 2 1 4 -12
+p26
+aVScott Williams MIL 04/15/2000 MIL @ WAS W 17 11 4 6 66.7 0 0 - 3 6 50.0 2 6 8 0 0 1 0 5 -2
+p27
+aVErvin Johnson MIL 04/15/2000 MIL @ WAS W 36 0 0 2 0.0 0 0 - 0 0 - 1 14 15 1 2 4 2 3 11
+p28
+aVGlenn Robinson MIL 04/14/2000 MIL vs. CHH L 46 38 15 30 50.0 2 5 40.0 6 7 85.7 1 2 3 0 0 1 4 5 -1
+p29
+aVErvin Johnson MIL 04/14/2000 MIL vs. CHH L 33 7 3 6 50.0 0 0 - 1 1 100.0 0 11 11 2 0 0 0 2 -17
+p30
+aVSam Cassell MIL 04/14/2000 MIL vs. CHH L 45 16 6 13 46.2 0 0 - 4 4 100.0 1 2 3 11 1 0 3 3 9
+p31
+aVRay Allen MIL 04/14/2000 MIL vs. CHH L 48 26 7 19 36.8 3 9 33.3 9 10 90.0 0 5 5 6 2 1 5 1 -6
+p32
+aVRafer Alston MIL 04/14/2000 MIL vs. CHH L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 -11
+p33
+aVTim Thomas MIL 04/14/2000 MIL vs. CHH L 31 14 4 10 40.0 3 5 60.0 3 4 75.0 3 6 9 0 1 0 1 3 3
+p34
+aVDarvin Ham MIL 04/14/2000 MIL vs. CHH L 23 0 0 1 0.0 0 0 - 0 0 - 2 2 4 2 1 0 0 2 -3
+p35
+aVVinny Del Negro MIL 04/14/2000 MIL vs. CHH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p36
+aVScott Williams MIL 04/14/2000 MIL vs. CHH L 24 1 0 4 0.0 0 0 - 1 2 50.0 4 5 9 1 1 1 0 3 10
+p37
+aVTim Thomas MIL 04/12/2000 MIL @ CLE W 28 11 4 10 40.0 1 3 33.3 2 2 100.0 3 5 8 1 1 1 3 4 1
+p38
+aVScott Williams MIL 04/12/2000 MIL @ CLE W 5 1 0 0 - 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -7
+p39
+aVSam Cassell MIL 04/12/2000 MIL @ CLE W 39 29 9 22 40.9 1 3 33.3 10 12 83.3 3 3 6 6 1 0 2 3 9
+p40
+aVDarvin Ham MIL 04/12/2000 MIL @ CLE W 27 4 1 2 50.0 0 0 - 2 3 66.7 2 4 6 4 0 2 0 6 10
+p41
+aVDanny Manning MIL 04/12/2000 MIL @ CLE W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -8
+p42
+aVErvin Johnson MIL 04/12/2000 MIL @ CLE W 31 7 3 3 100.0 0 0 - 1 2 50.0 1 8 9 0 0 5 0 6 3
+p43
+aVRafer Alston MIL 04/12/2000 MIL @ CLE W 16 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 3 3 0 1 1 -10
+p44
+aVRay Allen MIL 04/12/2000 MIL @ CLE W 45 27 11 20 55.0 1 6 16.7 4 6 66.7 1 3 4 5 1 0 3 4 1
+p45
+aVGlenn Robinson MIL 04/12/2000 MIL @ CLE W 42 20 8 18 44.4 0 2 0.0 4 4 100.0 2 7 9 3 0 0 5 5 6
+p46
+aVTim Thomas MIL 04/10/2000 MIL vs. ORL W 26 11 4 8 50.0 1 3 33.3 2 2 100.0 2 3 5 1 2 0 5 5 6
+p47
+aVRay Allen MIL 04/10/2000 MIL vs. ORL W 40 33 11 20 55.0 4 4 100.0 7 7 100.0 0 3 3 6 2 1 2 1 14
+p48
+aVErvin Johnson MIL 04/10/2000 MIL vs. ORL W 21 7 3 6 50.0 0 0 - 1 3 33.3 2 4 6 0 2 2 1 4 19
+p49
+aVMirsad Turkcan MIL 04/10/2000 MIL vs. ORL W 5 2 1 4 25.0 0 1 0.0 0 0 - 2 0 2 0 0 0 2 3 -4
+p50
+aVSam Cassell MIL 04/10/2000 MIL vs. ORL W 34 18 6 14 42.9 0 2 0.0 6 6 100.0 0 4 4 8 0 0 4 5 13
+p51
+aVDarvin Ham MIL 04/10/2000 MIL vs. ORL W 37 7 3 6 50.0 0 0 - 1 4 25.0 7 1 8 5 4 1 1 3 7
+p52
+aVGlenn Robinson MIL 04/10/2000 MIL vs. ORL W 34 15 6 14 42.9 2 4 50.0 1 2 50.0 0 4 4 2 0 1 1 4 20
+p53
+aVRafer Alston MIL 04/10/2000 MIL vs. ORL W 28 3 1 5 20.0 1 2 50.0 0 0 - 0 3 3 5 0 0 2 2 5
+p54
+aVScott Williams MIL 04/10/2000 MIL vs. ORL W 16 8 4 6 66.7 0 0 - 0 0 - 0 7 7 1 2 1 2 3 5
+p55
+aVRay Allen MIL 04/08/2000 MIL vs. NJN W 34 21 9 17 52.9 1 4 25.0 2 3 66.7 0 5 5 4 0 1 1 3 15
+p56
+aVGlenn Robinson MIL 04/08/2000 MIL vs. NJN W 31 20 9 19 47.4 2 5 40.0 0 0 - 2 4 6 1 2 1 1 0 24
+p57
+aVErvin Johnson MIL 04/08/2000 MIL vs. NJN W 26 8 3 6 50.0 0 0 - 2 2 100.0 3 4 7 0 0 3 2 3 12
+p58
+aVSam Cassell MIL 04/08/2000 MIL vs. NJN W 34 20 8 15 53.3 0 0 - 4 5 80.0 1 4 5 11 3 0 0 0 13
+p59
+aVRobert Traylor MIL 04/08/2000 MIL vs. NJN W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -11
+p60
+aVDanny Manning MIL 04/08/2000 MIL vs. NJN W 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 1 0 1 0 7
+p61
+aVScott Williams MIL 04/08/2000 MIL vs. NJN W 20 6 3 9 33.3 0 0 - 0 0 - 3 3 6 0 0 2 0 5 0
+p62
+aVMirsad Turkcan MIL 04/08/2000 MIL vs. NJN W 7 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 -11
+p63
+aVDarvin Ham MIL 04/08/2000 MIL vs. NJN W 21 4 2 2 100.0 0 0 - 0 2 0.0 4 2 6 2 0 1 1 3 0
+p64
+aVTim Thomas MIL 04/08/2000 MIL vs. NJN W 20 20 8 12 66.7 2 3 66.7 2 3 66.7 2 2 4 1 1 0 2 1 5
+p65
+aVRafer Alston MIL 04/08/2000 MIL vs. NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -11
+p66
+aVVinny Del Negro MIL 04/08/2000 MIL vs. NJN W 22 2 1 4 25.0 0 0 - 0 0 - 0 1 1 3 0 0 1 2 -3
+p67
+aVSam Cassell MIL 04/06/2000 MIL @ CHI L 41 18 8 19 42.1 0 0 - 2 3 66.7 0 1 1 9 1 1 3 0 -6
+p68
+aVDarvin Ham MIL 04/06/2000 MIL @ CHI L 25 3 1 4 25.0 0 0 - 1 1 100.0 3 2 5 1 1 2 0 5 -1
+p69
+aVGlenn Robinson MIL 04/06/2000 MIL @ CHI L 39 24 12 23 52.2 0 4 0.0 0 1 0.0 1 4 5 1 2 0 0 6 -7
+p70
+aVRay Allen MIL 04/06/2000 MIL @ CHI L 40 19 6 19 31.6 1 4 25.0 6 7 85.7 2 3 5 0 1 0 3 1 -4
+p71
+aVTim Thomas MIL 04/06/2000 MIL @ CHI L 28 7 2 8 25.0 0 0 - 3 3 100.0 5 7 12 3 1 0 0 5 4
+p72
+aVErvin Johnson MIL 04/06/2000 MIL @ CHI L 29 8 3 5 60.0 0 0 - 2 4 50.0 3 9 12 0 2 2 1 4 -7
+p73
+aVDanny Manning MIL 04/06/2000 MIL @ CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p74
+aVVinny Del Negro MIL 04/06/2000 MIL @ CHI L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 3 1 0 1 2 8
+p75
+aVScott Williams MIL 04/06/2000 MIL @ CHI L 18 5 2 7 28.6 0 0 - 1 2 50.0 5 2 7 0 1 0 1 2 3
+p76
+aVGlenn Robinson MIL 04/04/2000 MIL vs. CHI W 32 14 7 16 43.8 0 0 - 0 0 - 2 4 6 1 1 0 3 3 23
+p77
+aVDarvin Ham MIL 04/04/2000 MIL vs. CHI W 25 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 0 2 0 3 18
+p78
+aVVinny Del Negro MIL 04/04/2000 MIL vs. CHI W 26 6 2 5 40.0 1 1 100.0 1 2 50.0 0 3 3 2 1 0 1 1 -1
+p79
+aVSam Cassell MIL 04/04/2000 MIL vs. CHI W 29 19 7 13 53.8 0 0 - 5 5 100.0 1 5 6 12 1 0 1 0 20
+p80
+aVRay Allen MIL 04/04/2000 MIL vs. CHI W 31 18 6 13 46.2 2 4 50.0 4 5 80.0 0 1 1 1 3 0 1 2 29
+p81
+aVRafer Alston MIL 04/04/2000 MIL vs. CHI W 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -10
+p82
+aVTim Thomas MIL 04/04/2000 MIL vs. CHI W 25 13 6 13 46.2 0 2 0.0 1 1 100.0 1 4 5 1 1 0 1 5 6
+p83
+aVErvin Johnson MIL 04/04/2000 MIL vs. CHI W 26 6 2 3 66.7 0 0 - 2 3 66.7 0 6 6 0 4 1 2 3 20
+p84
+aVScott Williams MIL 04/04/2000 MIL vs. CHI W 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 2 1 0 2 8
+p85
+aVMirsad Turkcan MIL 04/04/2000 MIL vs. CHI W 10 3 1 4 25.0 0 0 - 1 2 50.0 3 0 3 0 0 0 1 2 -8
+p86
+aVRobert Traylor MIL 04/04/2000 MIL vs. CHI W 15 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -10
+p87
+aVRafer Alston MIL 04/02/2000 MIL @ GSW W 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 2 -11
+p88
+aVTim Thomas MIL 04/02/2000 MIL @ GSW W 35 16 7 11 63.6 2 3 66.7 0 0 - 0 1 1 4 1 0 3 5 1
+p89
+aVSam Cassell MIL 04/02/2000 MIL @ GSW W 42 31 8 17 47.1 0 0 - 15 16 93.8 1 6 7 6 5 0 4 1 10
+p90
+aVErvin Johnson MIL 04/02/2000 MIL @ GSW W 35 6 0 3 0.0 0 0 - 6 10 60.0 3 11 14 0 0 2 2 3 15
+p91
+aVGlenn Robinson MIL 04/02/2000 MIL @ GSW W 32 16 6 15 40.0 0 3 0.0 4 6 66.7 2 6 8 7 1 1 4 5 -4
+p92
+aVDanny Manning MIL 04/02/2000 MIL @ GSW W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p93
+aVScott Williams MIL 04/02/2000 MIL @ GSW W 13 8 4 4 100.0 0 0 - 0 0 - 4 2 6 1 0 1 1 5 -9
+p94
+aVDarvin Ham MIL 04/02/2000 MIL @ GSW W 25 13 6 7 85.7 0 0 - 1 2 50.0 2 2 4 0 3 0 2 5 11
+p95
+aVRay Allen MIL 04/02/2000 MIL @ GSW W 43 27 10 19 52.6 3 4 75.0 4 5 80.0 1 1 2 3 1 0 2 2 10
+p96
+aVMirsad Turkcan MIL 04/01/2000 MIL @ POR L 8 4 2 3 66.7 0 1 0.0 0 2 0.0 1 0 1 1 0 0 0 1 -4
+p97
+aVDarvin Ham MIL 04/01/2000 MIL @ POR L 25 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 5 -13
+p98
+aVErvin Johnson MIL 04/01/2000 MIL @ POR L 20 2 1 1 100.0 0 0 - 0 0 - 1 5 6 1 1 1 2 2 -19
+p99
+aVDanny Manning MIL 04/01/2000 MIL @ POR L 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -3
+p100
+aVRobert Traylor MIL 04/01/2000 MIL @ POR L 16 6 2 4 50.0 0 1 0.0 2 7 28.6 1 3 4 0 1 1 0 1 -4
+p101
+aVGlenn Robinson MIL 04/01/2000 MIL @ POR L 32 9 4 12 33.3 0 0 - 1 2 50.0 0 4 4 3 1 0 5 3 -32
+p102
+aVRay Allen MIL 04/01/2000 MIL @ POR L 36 13 4 13 30.8 1 3 33.3 4 5 80.0 1 4 5 2 1 1 2 1 -29
+p103
+aVSam Cassell MIL 04/01/2000 MIL @ POR L 32 22 8 10 80.0 0 0 - 6 6 100.0 0 1 1 6 0 0 4 4 -26
+p104
+aVScott Williams MIL 04/01/2000 MIL @ POR L 17 6 3 7 42.9 0 0 - 0 0 - 2 3 5 1 2 1 0 1 -11
+p105
+aVRafer Alston MIL 04/01/2000 MIL @ POR L 19 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 4 0 0 1 0 -10
+p106
+aVTim Thomas MIL 04/01/2000 MIL @ POR L 30 8 3 14 21.4 0 2 0.0 2 3 66.7 3 1 4 1 0 0 3 3 -19
+p107
+aVTim Thomas MIL 03/30/2000 MIL @ LAC W 23 9 3 11 27.3 0 2 0.0 3 4 75.0 0 6 6 0 2 0 1 4 6
+p108
+aVRafer Alston MIL 03/30/2000 MIL @ LAC W 21 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 2 0 2 2 -1
+p109
+aVScott Williams MIL 03/30/2000 MIL @ LAC W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 3
+p110
+aVGlenn Robinson MIL 03/30/2000 MIL @ LAC W 29 17 7 15 46.7 0 0 - 3 3 100.0 1 6 7 3 0 0 1 0 17
+p111
+aVErvin Johnson MIL 03/30/2000 MIL @ LAC W 29 8 3 6 50.0 0 0 - 2 4 50.0 2 7 9 0 1 7 1 3 16
+p112
+aVRay Allen MIL 03/30/2000 MIL @ LAC W 38 35 14 19 73.7 4 6 66.7 3 3 100.0 0 4 4 3 2 0 3 0 18
+p113
+aVMirsad Turkcan MIL 03/30/2000 MIL @ LAC W 2 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p114
+aVSam Cassell MIL 03/30/2000 MIL @ LAC W 36 15 6 17 35.3 0 0 - 3 4 75.0 1 3 4 16 0 0 1 2 21
+p115
+aVDarvin Ham MIL 03/30/2000 MIL @ LAC W 30 10 5 5 100.0 0 0 - 0 1 0.0 3 2 5 2 1 0 1 4 21
+p116
+aVRobert Traylor MIL 03/30/2000 MIL @ LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -1
+p117
+aVDanny Manning MIL 03/30/2000 MIL @ LAC W 20 4 2 5 40.0 0 0 - 0 0 - 1 8 9 1 0 0 2 2 -5
+p118
+aVDanny Manning MIL 03/26/2000 MIL vs. BOS W 21 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 11
+p119
+aVSam Cassell MIL 03/26/2000 MIL vs. BOS W 37 22 8 16 50.0 0 0 - 6 7 85.7 1 2 3 11 2 0 2 3 24
+p120
+aVDarvin Ham MIL 03/26/2000 MIL vs. BOS W 20 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 1 1 3 0 3 15
+p121
+aVRafer Alston MIL 03/26/2000 MIL vs. BOS W 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 1 0 1 3 -8
+p122
+aVRay Allen MIL 03/26/2000 MIL vs. BOS W 43 27 12 20 60.0 3 7 42.9 0 0 - 1 4 5 2 3 0 1 4 12
+p123
+aVScott Williams MIL 03/26/2000 MIL vs. BOS W 14 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 1 2 5 -7
+p124
+aVGlenn Robinson MIL 03/26/2000 MIL vs. BOS W 31 17 8 16 50.0 0 2 0.0 1 2 50.0 1 2 3 2 0 0 4 2 10
+p125
+aVErvin Johnson MIL 03/26/2000 MIL vs. BOS W 33 6 2 3 66.7 0 1 0.0 2 4 50.0 3 8 11 1 0 3 3 3 20
+p126
+aVTim Thomas MIL 03/26/2000 MIL vs. BOS W 26 11 4 12 33.3 0 1 0.0 3 4 75.0 1 2 3 1 0 0 0 1 -2
+p127
+aVSam Cassell MIL 03/24/2000 MIL vs. MIA L 40 13 4 11 36.4 0 1 0.0 5 6 83.3 1 0 1 10 0 0 3 4 -12
+p128
+aVGlenn Robinson MIL 03/24/2000 MIL vs. MIA L 38 19 9 18 50.0 1 2 50.0 0 0 - 2 3 5 3 3 0 3 2 -6
+p129
+aVRafer Alston MIL 03/24/2000 MIL vs. MIA L 14 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 2 0 -6
+p130
+aVScott Williams MIL 03/24/2000 MIL vs. MIA L 16 8 3 4 75.0 0 0 - 2 2 100.0 1 5 6 0 0 0 0 4 2
+p131
+aVErvin Johnson MIL 03/24/2000 MIL vs. MIA L 28 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 0 1 2 0 3 -9
+p132
+aVDanny Manning MIL 03/24/2000 MIL vs. MIA L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p133
+aVRay Allen MIL 03/24/2000 MIL vs. MIA L 43 36 15 20 75.0 6 9 66.7 0 0 - 2 2 4 2 0 0 4 1 -6
+p134
+aVDarvin Ham MIL 03/24/2000 MIL vs. MIA L 31 6 3 4 75.0 0 0 - 0 0 - 3 2 5 3 3 0 1 2 -13
+p135
+aVTim Thomas MIL 03/24/2000 MIL vs. MIA L 25 4 2 12 16.7 0 2 0.0 0 0 - 1 2 3 1 0 1 4 3 -7
+p136
+aVMirsad Turkcan MIL 03/23/2000 MIL @ IND W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p137
+aVRafer Alston MIL 03/23/2000 MIL @ IND W 15 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 7 1 0 1 2 7
+p138
+aVRay Allen MIL 03/23/2000 MIL @ IND W 40 26 11 20 55.0 1 3 33.3 3 3 100.0 1 6 7 2 5 0 1 3 18
+p139
+aVErvin Johnson MIL 03/23/2000 MIL @ IND W 20 2 1 3 33.3 0 0 - 0 0 - 1 6 7 1 1 0 2 2 15
+p140
+aVRobert Traylor MIL 03/23/2000 MIL @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p141
+aVDarvin Ham MIL 03/23/2000 MIL @ IND W 26 5 2 5 40.0 0 0 - 1 2 50.0 4 6 10 2 2 2 1 4 20
+p142
+aVTim Thomas MIL 03/23/2000 MIL @ IND W 26 21 8 12 66.7 1 3 33.3 4 4 100.0 0 4 4 0 2 0 4 4 -3
+p143
+aVSam Cassell MIL 03/23/2000 MIL @ IND W 38 30 11 16 68.8 0 0 - 8 8 100.0 3 2 5 9 1 0 2 2 19
+p144
+aVGlenn Robinson MIL 03/23/2000 MIL @ IND W 32 14 7 20 35.0 0 1 0.0 0 0 - 2 1 3 2 2 0 3 4 20
+p145
+aVDanny Manning MIL 03/23/2000 MIL @ IND W 19 4 2 5 40.0 0 0 - 0 0 - 0 6 6 1 0 1 2 3 8
+p146
+aVScott Williams MIL 03/23/2000 MIL @ IND W 22 0 0 1 0.0 0 0 - 0 0 - 2 3 5 2 1 1 0 4 1
+p147
+aVTim Thomas MIL 03/19/2000 MIL @ MIN L 32 12 3 6 50.0 2 2 100.0 4 6 66.7 3 4 7 2 2 0 2 0 -11
+p148
+aVErvin Johnson MIL 03/19/2000 MIL @ MIN L 21 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 2 2 2 -22
+p149
+aVSam Cassell MIL 03/19/2000 MIL @ MIN L 26 17 8 16 50.0 0 0 - 1 1 100.0 2 1 3 6 2 0 5 3 -26
+p150
+aVRay Allen MIL 03/19/2000 MIL @ MIN L 36 10 2 16 12.5 2 3 66.7 4 4 100.0 0 3 3 0 0 0 1 0 -36
+p151
+aVDanny Manning MIL 03/19/2000 MIL @ MIN L 21 8 4 8 50.0 0 2 0.0 0 0 - 0 3 3 0 1 0 1 0 13
+p152
+aVRafer Alston MIL 03/19/2000 MIL @ MIN L 27 0 0 4 0.0 0 0 - 0 0 - 0 2 2 3 1 0 1 2 4
+p153
+aVRobert Traylor MIL 03/19/2000 MIL @ MIN L 10 3 0 2 0.0 0 0 - 3 4 75.0 1 1 2 1 0 0 0 0 6
+p154
+aVGlenn Robinson MIL 03/19/2000 MIL @ MIN L 30 20 7 16 43.8 0 2 0.0 6 7 85.7 3 3 6 2 1 0 3 1 -36
+p155
+aVScott Williams MIL 03/19/2000 MIL @ MIN L 15 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -18
+p156
+aVDarvin Ham MIL 03/19/2000 MIL @ MIN L 22 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 1 0 1 0 3 -9
+p157
+aVRay Allen MIL 03/18/2000 MIL @ NJN L 45 10 5 20 25.0 0 7 0.0 0 0 - 2 4 6 4 2 0 4 4 -6
+p158
+aVDanny Manning MIL 03/18/2000 MIL @ NJN L 20 8 4 7 57.1 0 0 - 0 0 - 1 4 5 1 2 0 0 4 1
+p159
+aVErvin Johnson MIL 03/18/2000 MIL @ NJN L 25 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 1 0 1 4 6 -2
+p160
+aVRafer Alston MIL 03/18/2000 MIL @ NJN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -2
+p161
+aVSam Cassell MIL 03/18/2000 MIL @ NJN L 47 20 9 15 60.0 0 3 0.0 2 3 66.7 0 4 4 7 1 0 4 5 0
+p162
+aVScott Williams MIL 03/18/2000 MIL @ NJN L 20 8 3 7 42.9 0 0 - 2 2 100.0 5 3 8 0 0 1 1 1 -4
+p163
+aVTim Thomas MIL 03/18/2000 MIL @ NJN L 31 23 7 12 58.3 3 4 75.0 6 8 75.0 0 5 5 2 0 0 2 2 7
+p164
+aVDarvin Ham MIL 03/18/2000 MIL @ NJN L 25 2 1 3 33.3 0 0 - 0 2 0.0 5 2 7 1 1 2 2 2 -2
+p165
+aVGlenn Robinson MIL 03/18/2000 MIL @ NJN L 47 16 7 19 36.8 0 3 0.0 2 2 100.0 1 6 7 4 1 0 4 2 -2
+p166
+aVRafer Alston MIL 03/16/2000 MIL vs. HOU W 15 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 0 0 0 1 3 -8
+p167
+aVScott Williams MIL 03/16/2000 MIL vs. HOU W 23 12 5 7 71.4 0 0 - 2 2 100.0 1 3 4 1 1 1 1 5 9
+p168
+aVDarvin Ham MIL 03/16/2000 MIL vs. HOU W 21 5 2 4 50.0 0 0 - 1 4 25.0 2 3 5 3 1 1 0 0 4
+p169
+aVRay Allen MIL 03/16/2000 MIL vs. HOU W 42 28 10 18 55.6 3 6 50.0 5 8 62.5 1 5 6 7 3 1 1 0 18
+p170
+aVErvin Johnson MIL 03/16/2000 MIL vs. HOU W 33 6 3 3 100.0 0 0 - 0 0 - 2 11 13 0 1 1 1 5 8
+p171
+aVGlenn Robinson MIL 03/16/2000 MIL vs. HOU W 39 19 9 15 60.0 0 2 0.0 1 2 50.0 1 2 3 2 1 1 4 2 19
+p172
+aVDanny Manning MIL 03/16/2000 MIL vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -9
+p173
+aVSam Cassell MIL 03/16/2000 MIL vs. HOU W 39 22 7 14 50.0 0 1 0.0 8 9 88.9 0 2 2 7 1 0 5 4 5
+p174
+aVTim Thomas MIL 03/16/2000 MIL vs. HOU W 23 10 4 6 66.7 0 0 - 2 3 66.7 3 1 4 1 1 0 1 6 4
+p175
+aVSam Cassell MIL 03/14/2000 MIL @ MIA L 36 22 10 20 50.0 0 3 0.0 2 3 66.7 1 2 3 7 0 0 4 5 1
+p176
+aVScott Williams MIL 03/14/2000 MIL @ MIA L 14 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 1 1 0 3 -1
+p177
+aVErvin Johnson MIL 03/14/2000 MIL @ MIA L 27 0 0 3 0.0 0 0 - 0 0 - 1 6 7 0 1 2 1 5 -3
+p178
+aVDanny Manning MIL 03/14/2000 MIL @ MIA L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 3 1
+p179
+aVRafer Alston MIL 03/14/2000 MIL @ MIA L 12 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 1 -5
+p180
+aVRay Allen MIL 03/14/2000 MIL @ MIA L 43 26 7 13 53.8 3 3 100.0 9 11 81.8 3 2 5 3 1 1 2 2 -10
+p181
+aVDarvin Ham MIL 03/14/2000 MIL @ MIA L 26 10 4 5 80.0 0 0 - 2 3 66.7 3 3 6 0 1 0 0 5 -5
+p182
+aVGlenn Robinson MIL 03/14/2000 MIL @ MIA L 40 20 8 18 44.4 1 2 50.0 3 4 75.0 4 4 8 3 2 0 2 3 1
+p183
+aVTim Thomas MIL 03/14/2000 MIL @ MIA L 29 18 6 13 46.2 1 4 25.0 5 6 83.3 2 2 4 2 0 1 1 2 1
+p184
+aVDanny Manning MIL 03/12/2000 MIL vs. CLE W 21 6 3 9 33.3 0 0 - 0 0 - 4 2 6 0 0 0 2 4 25
+p185
+aVSam Cassell MIL 03/12/2000 MIL vs. CLE W 36 18 8 15 53.3 0 0 - 2 2 100.0 1 4 5 8 4 0 2 3 11
+p186
+aVRafer Alston MIL 03/12/2000 MIL vs. CLE W 6 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 6
+p187
+aVRay Allen MIL 03/12/2000 MIL vs. CLE W 33 18 7 17 41.2 1 6 16.7 3 3 100.0 0 6 6 6 0 0 1 1 11
+p188
+aVErvin Johnson MIL 03/12/2000 MIL vs. CLE W 16 2 1 1 100.0 0 0 - 0 0 - 1 5 6 0 1 0 1 4 8
+p189
+aVRobert Traylor MIL 03/12/2000 MIL vs. CLE W 6 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 1 0 0 0 1 6
+p190
+aVDarvin Ham MIL 03/12/2000 MIL vs. CLE W 33 11 4 6 66.7 0 1 0.0 3 4 75.0 5 6 11 1 0 1 0 3 30
+p191
+aVScott Williams MIL 03/12/2000 MIL vs. CLE W 17 5 1 6 16.7 0 0 - 3 4 75.0 1 1 2 2 0 1 0 4 4
+p192
+aVGlenn Robinson MIL 03/12/2000 MIL vs. CLE W 30 8 3 10 30.0 0 3 0.0 2 2 100.0 0 4 4 4 1 0 3 3 9
+p193
+aVVinny Del Negro MIL 03/12/2000 MIL vs. CLE W 18 2 1 6 16.7 0 0 - 0 0 - 0 3 3 1 1 0 0 2 27
+p194
+aVTim Thomas MIL 03/12/2000 MIL vs. CLE W 25 22 7 10 70.0 3 4 75.0 5 5 100.0 1 4 5 2 1 1 2 3 18
+p195
+aVTim Thomas MIL 03/10/2000 MIL vs. NJN L 35 19 8 21 38.1 3 7 42.9 0 0 - 3 4 7 1 1 1 2 1 -11
+p196
+aVRafer Alston MIL 03/10/2000 MIL vs. NJN L 22 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 7 2 0 3 0 -14
+p197
+aVSam Cassell MIL 03/10/2000 MIL vs. NJN L 33 8 4 13 30.8 0 0 - 0 0 - 2 3 5 5 1 0 4 1 -16
+p198
+aVErvin Johnson MIL 03/10/2000 MIL vs. NJN L 18 1 0 2 0.0 0 0 - 1 2 50.0 3 5 8 0 1 0 2 1 -15
+p199
+aVRay Allen MIL 03/10/2000 MIL vs. NJN L 35 16 5 11 45.5 2 5 40.0 4 4 100.0 0 9 9 7 0 0 2 3 -17
+p200
+aVDarvin Ham MIL 03/10/2000 MIL vs. NJN L 29 8 4 5 80.0 0 0 - 0 2 0.0 2 1 3 0 1 1 4 2 -16
+p201
+aVScott Williams MIL 03/10/2000 MIL vs. NJN L 17 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 1 2 3 -12
+p202
+aVRobert Traylor MIL 03/10/2000 MIL vs. NJN L 8 4 2 4 50.0 0 0 - 0 1 0.0 2 1 3 0 1 0 0 2 -3
+p203
+aVVinny Del Negro MIL 03/10/2000 MIL vs. NJN L 12 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 0 0 0 1 -8
+p204
+aVGlenn Robinson MIL 03/10/2000 MIL vs. NJN L 30 12 6 15 40.0 0 5 0.0 0 0 - 1 1 2 2 0 0 3 4 -28
+p205
+aVVinny Del Negro MIL 03/08/2000 MIL @ BOS L 19 8 3 5 60.0 2 2 100.0 0 0 - 0 1 1 7 2 0 0 2 13
+p206
+aVRobert Traylor MIL 03/08/2000 MIL @ BOS L 18 7 3 5 60.0 0 0 - 1 4 25.0 1 3 4 0 0 4 3 3 -10
+p207
+aVGlenn Robinson MIL 03/08/2000 MIL @ BOS L 39 10 4 16 25.0 0 3 0.0 2 2 100.0 1 9 10 5 1 1 3 3 -4
+p208
+aVRay Allen MIL 03/08/2000 MIL @ BOS L 40 28 11 20 55.0 4 7 57.1 2 3 66.7 0 4 4 1 5 0 3 1 -6
+p209
+aVScott Williams MIL 03/08/2000 MIL @ BOS L 22 14 5 9 55.6 0 0 - 4 6 66.7 3 5 8 0 2 1 0 5 -1
+p210
+aVTim Thomas MIL 03/08/2000 MIL @ BOS L 26 13 4 7 57.1 2 2 100.0 3 4 75.0 0 3 3 1 0 1 1 5 -10
+p211
+aVDarvin Ham MIL 03/08/2000 MIL @ BOS L 39 7 3 5 60.0 0 0 - 1 2 50.0 2 5 7 2 1 1 1 5 -8
+p212
+aVSam Cassell MIL 03/08/2000 MIL @ BOS L 36 14 6 16 37.5 0 0 - 2 4 50.0 1 0 1 7 1 0 5 2 -30
+p213
+aVRafer Alston MIL 03/08/2000 MIL @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p214
+aVRobert Traylor MIL 03/06/2000 MIL vs. ATL W 10 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -1
+p215
+aVVinny Del Negro MIL 03/06/2000 MIL vs. ATL W 18 8 4 6 66.7 0 0 - 0 0 - 0 2 2 7 0 0 2 0 4
+p216
+aVDarvin Ham MIL 03/06/2000 MIL vs. ATL W 27 11 5 8 62.5 0 0 - 1 3 33.3 6 7 13 0 0 0 4 5 23
+p217
+aVRay Allen MIL 03/06/2000 MIL vs. ATL W 30 13 5 13 38.5 3 5 60.0 0 0 - 0 3 3 2 2 0 2 2 28
+p218
+aVTim Thomas MIL 03/06/2000 MIL vs. ATL W 26 16 5 7 71.4 3 5 60.0 3 4 75.0 1 2 3 1 0 0 0 0 4
+p219
+aVScott Williams MIL 03/06/2000 MIL vs. ATL W 17 10 5 8 62.5 0 0 - 0 0 - 1 6 7 1 0 1 1 2 11
+p220
+aVSam Cassell MIL 03/06/2000 MIL vs. ATL W 33 21 10 15 66.7 1 1 100.0 0 0 - 2 2 4 12 1 0 1 3 32
+p221
+aVMirsad Turkcan MIL 03/06/2000 MIL vs. ATL W 10 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 0 0 0 2 1 1
+p222
+aVGlenn Robinson MIL 03/06/2000 MIL vs. ATL W 25 17 8 14 57.1 1 1 100.0 0 0 - 2 2 4 2 1 0 1 1 30
+p223
+aVErvin Johnson MIL 03/06/2000 MIL vs. ATL W 31 5 1 6 16.7 0 0 - 3 4 75.0 6 5 11 1 2 1 0 1 34
+p224
+aVRafer Alston MIL 03/06/2000 MIL vs. ATL W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 6 0 0 1 1 -1
+p225
+aVScott Williams MIL 03/04/2000 MIL vs. MIN L 17 4 2 7 28.6 0 0 - 0 0 - 1 3 4 0 0 0 1 2 3
+p226
+aVRay Allen MIL 03/04/2000 MIL vs. MIN L 41 28 11 22 50.0 1 6 16.7 5 5 100.0 2 1 3 5 1 0 2 1 -5
+p227
+aVGlenn Robinson MIL 03/04/2000 MIL vs. MIN L 43 21 9 22 40.9 1 2 50.0 2 2 100.0 5 5 10 4 1 0 1 1 -2
+p228
+aVErvin Johnson MIL 03/04/2000 MIL vs. MIN L 25 0 0 1 0.0 0 0 - 0 0 - 0 6 6 0 1 1 0 2 -8
+p229
+aVVinny Del Negro MIL 03/04/2000 MIL vs. MIN L 19 1 0 4 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 1 -2
+p230
+aVDarvin Ham MIL 03/04/2000 MIL vs. MIN L 25 3 1 2 50.0 0 0 - 1 2 50.0 4 1 5 1 2 0 0 2 -10
+p231
+aVRobert Traylor MIL 03/04/2000 MIL vs. MIN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p232
+aVTim Thomas MIL 03/04/2000 MIL vs. MIN L 28 13 6 13 46.2 0 4 0.0 1 2 50.0 0 4 4 2 0 0 1 3 -2
+p233
+aVSam Cassell MIL 03/04/2000 MIL vs. MIN L 38 14 5 11 45.5 0 0 - 4 4 100.0 0 3 3 9 0 0 5 5 -6
+p234
+aVDanny Manning MIL 03/02/2000 MIL @ NYK L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p235
+aVMirsad Turkcan MIL 03/02/2000 MIL @ NYK L 5 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 0 1 0 0 0 7
+p236
+aVDarvin Ham MIL 03/02/2000 MIL @ NYK L 22 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 4 -7
+p237
+aVRay Allen MIL 03/02/2000 MIL @ NYK L 38 25 9 15 60.0 3 5 60.0 4 5 80.0 0 2 2 4 1 0 2 1 -25
+p238
+aVScott Williams MIL 03/02/2000 MIL @ NYK L 21 8 2 5 40.0 0 0 - 4 8 50.0 3 3 6 0 1 0 0 3 -1
+p239
+aVRobert Traylor MIL 03/02/2000 MIL @ NYK L 9 3 0 3 0.0 0 0 - 3 6 50.0 1 1 2 0 0 0 1 3 3
+p240
+aVGlenn Robinson MIL 03/02/2000 MIL @ NYK L 37 8 3 12 25.0 0 4 0.0 2 2 100.0 0 4 4 6 0 1 5 1 -21
+p241
+aVTim Thomas MIL 03/02/2000 MIL @ NYK L 30 26 7 10 70.0 2 5 40.0 10 11 90.9 1 4 5 1 1 1 0 2 -7
+p242
+aVRafer Alston MIL 03/02/2000 MIL @ NYK L 16 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 1 1 0 0 1 -2
+p243
+aVSam Cassell MIL 03/02/2000 MIL @ NYK L 35 8 2 10 20.0 0 0 - 4 4 100.0 1 0 1 8 0 0 2 2 -17
+p244
+aVErvin Johnson MIL 03/02/2000 MIL @ NYK L 24 5 2 3 66.7 0 0 - 1 2 50.0 3 2 5 0 1 0 3 3 -9
+p245
+aVErvin Johnson MIL 02/27/2000 MIL vs. ORL W 29 1 0 2 0.0 0 0 - 1 2 50.0 4 8 12 3 0 0 0 3 8
+p246
+aVDarvin Ham MIL 02/27/2000 MIL vs. ORL W 30 5 2 3 66.7 0 0 - 1 2 50.0 5 2 7 2 1 0 2 3 1
+p247
+aVVinny Del Negro MIL 02/27/2000 MIL vs. ORL W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -6
+p248
+aVGlenn Robinson MIL 02/27/2000 MIL vs. ORL W 39 14 6 14 42.9 0 3 0.0 2 2 100.0 0 9 9 2 0 1 5 1 15
+p249
+aVTim Thomas MIL 02/27/2000 MIL vs. ORL W 27 17 4 10 40.0 1 3 33.3 8 10 80.0 1 3 4 1 0 0 2 3 -1
+p250
+aVRafer Alston MIL 02/27/2000 MIL vs. ORL W 15 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 2 -8
+p251
+aVSam Cassell MIL 02/27/2000 MIL vs. ORL W 37 22 9 16 56.3 0 0 - 4 5 80.0 2 1 3 3 1 0 3 4 18
+p252
+aVRay Allen MIL 02/27/2000 MIL vs. ORL W 38 26 8 20 40.0 2 5 40.0 8 8 100.0 2 7 9 4 0 2 2 4 10
+p253
+aVScott Williams MIL 02/27/2000 MIL vs. ORL W 19 12 5 10 50.0 0 0 - 2 2 100.0 3 3 6 0 0 2 1 1 -2
+p254
+aVSam Cassell MIL 02/25/2000 MIL vs. PHI L 37 6 3 10 30.0 0 0 - 0 0 - 0 2 2 11 1 0 7 5 -16
+p255
+aVRay Allen MIL 02/25/2000 MIL vs. PHI L 24 15 7 18 38.9 1 3 33.3 0 0 - 2 1 3 1 0 0 2 5 -7
+p256
+aVMirsad Turkcan MIL 02/25/2000 MIL vs. PHI L 6 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 1 1 2 1
+p257
+aVDanny Manning MIL 02/25/2000 MIL vs. PHI L 18 6 3 6 50.0 0 0 - 0 1 0.0 0 3 3 0 1 0 1 3 -15
+p258
+aVGlenn Robinson MIL 02/25/2000 MIL vs. PHI L 39 24 10 18 55.6 0 0 - 4 4 100.0 3 4 7 2 1 0 3 4 -10
+p259
+aVErvin Johnson MIL 02/25/2000 MIL vs. PHI L 33 6 3 6 50.0 0 0 - 0 0 - 4 5 9 0 2 2 3 2 -11
+p260
+aVRafer Alston MIL 02/25/2000 MIL vs. PHI L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p261
+aVVinny Del Negro MIL 02/25/2000 MIL vs. PHI L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -7
+p262
+aVScott Williams MIL 02/25/2000 MIL vs. PHI L 22 6 3 7 42.9 0 0 - 0 0 - 2 3 5 2 0 1 0 3 -8
+p263
+aVTim Thomas MIL 02/25/2000 MIL vs. PHI L 34 11 4 11 36.4 1 2 50.0 2 2 100.0 2 1 3 4 2 1 3 1 -4
+p264
+aVRobert Traylor MIL 02/25/2000 MIL vs. PHI L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p265
+aVRay Allen MIL 02/23/2000 MIL vs. GSW L 42 24 9 19 47.4 2 3 66.7 4 4 100.0 0 5 5 3 0 0 2 2 -8
+p266
+aVGlenn Robinson MIL 02/23/2000 MIL vs. GSW L 38 24 10 23 43.5 2 2 100.0 2 2 100.0 2 7 9 2 2 0 3 1 4
+p267
+aVScott Williams MIL 02/23/2000 MIL vs. GSW L 26 5 1 3 33.3 0 0 - 3 4 75.0 1 2 3 0 1 1 1 2 -10
+p268
+aVDanny Manning MIL 02/23/2000 MIL vs. GSW L 20 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 0 0 1 4 -2
+p269
+aVSam Cassell MIL 02/23/2000 MIL vs. GSW L 37 15 5 13 38.5 0 0 - 5 5 100.0 1 3 4 6 2 0 2 3 -1
+p270
+aVVinny Del Negro MIL 02/23/2000 MIL vs. GSW L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 2 -3
+p271
+aVErvin Johnson MIL 02/23/2000 MIL vs. GSW L 37 4 2 5 40.0 0 0 - 0 2 0.0 2 9 11 0 1 5 1 4 3
+p272
+aVTim Thomas MIL 02/23/2000 MIL vs. GSW L 22 8 3 10 30.0 0 3 0.0 2 3 66.7 0 2 2 1 1 0 1 3 -8
+p273
+aVVinny Del Negro MIL 02/22/2000 MIL @ WAS L 19 10 4 7 57.1 1 1 100.0 1 1 100.0 0 1 1 1 0 0 0 1 -13
+p274
+aVRay Allen MIL 02/22/2000 MIL @ WAS L 33 17 7 10 70.0 2 4 50.0 1 1 100.0 3 0 3 4 0 0 1 2 -21
+p275
+aVDanny Manning MIL 02/22/2000 MIL @ WAS L 7 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -7
+p276
+aVScott Williams MIL 02/22/2000 MIL @ WAS L 25 7 2 8 25.0 0 0 - 3 3 100.0 0 2 2 0 0 2 3 1 -13
+p277
+aVTim Thomas MIL 02/22/2000 MIL @ WAS L 26 7 2 11 18.2 0 3 0.0 3 3 100.0 0 5 5 2 1 0 2 1 -9
+p278
+aVRobert Traylor MIL 02/22/2000 MIL @ WAS L 12 8 3 5 60.0 0 0 - 2 2 100.0 3 1 4 0 1 1 0 2 4
+p279
+aVMirsad Turkcan MIL 02/22/2000 MIL @ WAS L 12 2 1 3 33.3 0 0 - 0 0 - 1 5 6 2 0 0 0 0 2
+p280
+aVSam Cassell MIL 02/22/2000 MIL @ WAS L 25 13 5 11 45.5 0 1 0.0 3 3 100.0 1 3 4 6 0 1 3 2 -21
+p281
+aVRafer Alston MIL 02/22/2000 MIL @ WAS L 15 2 1 6 16.7 0 0 - 0 0 - 0 0 0 4 0 0 3 2 2
+p282
+aVGlenn Robinson MIL 02/22/2000 MIL @ WAS L 31 15 7 19 36.8 1 2 50.0 0 2 0.0 0 2 2 4 0 0 2 4 -25
+p283
+aVErvin Johnson MIL 02/22/2000 MIL @ WAS L 27 11 5 10 50.0 0 0 - 1 1 100.0 8 4 12 0 1 0 0 4 -23
+p284
+aVJ.R. Reid MIL 02/22/2000 MIL @ WAS L 7 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p285
+aVRafer Alston MIL 02/19/2000 MIL vs. VAN L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p286
+aVTim Thomas MIL 02/19/2000 MIL vs. VAN L 25 11 5 9 55.6 0 3 0.0 1 2 50.0 3 0 3 0 0 0 1 6 -9
+p287
+aVScott Williams MIL 02/19/2000 MIL vs. VAN L 27 7 2 7 28.6 0 0 - 3 4 75.0 1 7 8 0 0 0 2 5 -14
+p288
+aVVinny Del Negro MIL 02/19/2000 MIL vs. VAN L 23 2 1 4 25.0 0 0 - 0 0 - 1 1 2 3 1 0 2 0 -14
+p289
+aVGlenn Robinson MIL 02/19/2000 MIL vs. VAN L 32 21 10 19 52.6 0 3 0.0 1 1 100.0 1 8 9 1 2 0 1 4 2
+p290
+aVDanny Manning MIL 02/19/2000 MIL vs. VAN L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 4 -10
+p291
+aVSam Cassell MIL 02/19/2000 MIL vs. VAN L 37 16 8 13 61.5 0 1 0.0 0 0 - 0 3 3 10 1 0 2 3 0
+p292
+aVRay Allen MIL 02/19/2000 MIL vs. VAN L 46 32 10 21 47.6 1 4 25.0 11 13 84.6 2 4 6 4 1 0 5 1 -8
+p293
+aVRobert Traylor MIL 02/19/2000 MIL vs. VAN L 12 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 1 1 0 0 3 8
+p294
+aVErvin Johnson MIL 02/19/2000 MIL vs. VAN L 24 4 0 0 - 0 0 - 4 4 100.0 1 4 5 0 1 0 0 5 -7
+p295
+aVRay Allen MIL 02/17/2000 MIL vs. IND L 32 18 6 13 46.2 0 1 0.0 6 6 100.0 0 2 2 2 1 0 0 4 -6
+p296
+aVRafer Alston MIL 02/17/2000 MIL vs. IND L 5 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p297
+aVDanny Manning MIL 02/17/2000 MIL vs. IND L 28 4 2 7 28.6 0 0 - 0 0 - 2 4 6 0 1 0 0 4 6
+p298
+aVErvin Johnson MIL 02/17/2000 MIL vs. IND L 21 4 2 5 40.0 0 0 - 0 0 - 4 6 10 1 0 0 1 4 -9
+p299
+aVSam Cassell MIL 02/17/2000 MIL vs. IND L 39 23 7 15 46.7 2 3 66.7 7 8 87.5 2 1 3 9 3 0 3 4 -2
+p300
+aVVinny Del Negro MIL 02/17/2000 MIL vs. IND L 20 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 6
+p301
+aVTim Thomas MIL 02/17/2000 MIL vs. IND L 20 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 4 6
+p302
+aVScott Williams MIL 02/17/2000 MIL vs. IND L 36 8 4 8 50.0 0 0 - 0 0 - 5 6 11 1 0 1 1 3 -5
+p303
+aVGlenn Robinson MIL 02/17/2000 MIL vs. IND L 39 22 9 24 37.5 0 3 0.0 4 4 100.0 2 2 4 4 2 0 4 3 -5
+p304
+aVSam Cassell MIL 02/15/2000 MIL @ DAL W 37 28 10 18 55.6 2 3 66.7 6 6 100.0 1 3 4 13 0 0 2 3 15
+p305
+aVTim Thomas MIL 02/15/2000 MIL @ DAL W 24 4 2 7 28.6 0 2 0.0 0 0 - 1 1 2 1 0 0 1 1 -2
+p306
+aVErvin Johnson MIL 02/15/2000 MIL @ DAL W 29 5 2 6 33.3 0 0 - 1 2 50.0 7 5 12 2 0 1 1 6 8
+p307
+aVDanny Manning MIL 02/15/2000 MIL @ DAL W 22 5 2 7 28.6 1 1 100.0 0 0 - 0 0 0 0 1 1 0 3 9
+p308
+aVScott Williams MIL 02/15/2000 MIL @ DAL W 24 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 0 1 1 2 3 -5
+p309
+aVGlenn Robinson MIL 02/15/2000 MIL @ DAL W 38 29 11 22 50.0 6 10 60.0 1 2 50.0 2 9 11 2 0 1 2 1 21
+p310
+aVDarvin Ham MIL 02/15/2000 MIL @ DAL W 7 4 2 2 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 1 8
+p311
+aVVinny Del Negro MIL 02/15/2000 MIL @ DAL W 19 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -3
+p312
+aVRay Allen MIL 02/15/2000 MIL @ DAL W 39 27 9 20 45.0 3 8 37.5 6 6 100.0 5 4 9 5 1 0 1 1 14
+p313
+aVVinny Del Negro MIL 02/09/2000 MIL vs. NYK L 21 2 1 6 16.7 0 0 - 0 0 - 0 0 0 3 0 0 0 0 0
+p314
+aVSam Cassell MIL 02/09/2000 MIL vs. NYK L 38 16 7 12 58.3 0 1 0.0 2 4 50.0 0 1 1 7 2 1 2 2 -15
+p315
+aVScott Williams MIL 02/09/2000 MIL vs. NYK L 30 14 7 9 77.8 0 0 - 0 0 - 5 8 13 4 0 0 0 1 -3
+p316
+aVRay Allen MIL 02/09/2000 MIL vs. NYK L 37 24 7 18 38.9 3 8 37.5 7 7 100.0 0 4 4 7 4 1 4 3 3
+p317
+aVDanny Manning MIL 02/09/2000 MIL vs. NYK L 22 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 1 4 0 2 3 7
+p318
+aVDarvin Ham MIL 02/09/2000 MIL vs. NYK L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p319
+aVGlenn Robinson MIL 02/09/2000 MIL vs. NYK L 35 19 7 14 50.0 2 4 50.0 3 4 75.0 0 3 3 2 0 0 4 4 -5
+p320
+aVTim Thomas MIL 02/09/2000 MIL vs. NYK L 28 16 6 11 54.5 2 3 66.7 2 2 100.0 0 4 4 2 0 0 1 1 -9
+p321
+aVErvin Johnson MIL 02/09/2000 MIL vs. NYK L 22 5 2 3 66.7 0 0 - 1 1 100.0 1 3 4 1 1 0 0 5 -8
+p322
+aVSam Cassell MIL 02/07/2000 MIL vs. POR L 39 18 8 17 47.1 0 2 0.0 2 3 66.7 2 0 2 13 0 0 3 2 1
+p323
+aVErvin Johnson MIL 02/07/2000 MIL vs. POR L 37 8 4 6 66.7 0 0 - 0 0 - 5 2 7 2 0 3 1 3 -4
+p324
+aVVinny Del Negro MIL 02/07/2000 MIL vs. POR L 21 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 4 0 0 1 2 0
+p325
+aVScott Williams MIL 02/07/2000 MIL vs. POR L 27 8 3 7 42.9 0 0 - 2 2 100.0 1 6 7 0 1 0 0 4 -1
+p326
+aVGlenn Robinson MIL 02/07/2000 MIL vs. POR L 36 27 12 16 75.0 1 2 50.0 2 2 100.0 0 2 2 2 1 0 2 3 4
+p327
+aVRay Allen MIL 02/07/2000 MIL vs. POR L 37 26 9 19 47.4 4 9 44.4 4 5 80.0 0 6 6 4 2 0 1 4 -2
+p328
+aVDanny Manning MIL 02/07/2000 MIL vs. POR L 23 14 7 11 63.6 0 0 - 0 1 0.0 1 3 4 0 1 0 2 5 -14
+p329
+aVTim Thomas MIL 02/07/2000 MIL vs. POR L 19 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -4
+p330
+aVSam Cassell MIL 02/05/2000 MIL vs. TOR L 41 25 9 15 60.0 0 1 0.0 7 7 100.0 3 2 5 5 3 0 5 4 1
+p331
+aVTim Thomas MIL 02/05/2000 MIL vs. TOR L 31 16 4 13 30.8 0 2 0.0 8 11 72.7 1 7 8 3 1 1 4 3 5
+p332
+aVErvin Johnson MIL 02/05/2000 MIL vs. TOR L 36 4 2 4 50.0 0 0 - 0 0 - 4 9 13 3 1 0 1 4 -1
+p333
+aVGlenn Robinson MIL 02/05/2000 MIL vs. TOR L 39 29 11 19 57.9 1 5 20.0 6 6 100.0 2 6 8 1 1 0 1 2 4
+p334
+aVRay Allen MIL 02/05/2000 MIL vs. TOR L 41 12 5 19 26.3 0 6 0.0 2 4 50.0 2 8 10 1 2 0 3 1 -1
+p335
+aVDanny Manning MIL 02/05/2000 MIL vs. TOR L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 3 -5
+p336
+aVScott Williams MIL 02/05/2000 MIL vs. TOR L 24 3 1 11 9.1 0 0 - 1 1 100.0 4 4 8 0 0 2 1 2 -11
+p337
+aVVinny Del Negro MIL 02/05/2000 MIL vs. TOR L 18 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p338
+aVSam Cassell MIL 02/03/2000 MIL @ UTA W 35 9 3 13 23.1 0 1 0.0 3 4 75.0 0 3 3 10 3 0 5 4 9
+p339
+aVScott Williams MIL 02/03/2000 MIL @ UTA W 30 10 5 6 83.3 0 0 - 0 0 - 2 6 8 0 3 0 1 4 4
+p340
+aVDanny Manning MIL 02/03/2000 MIL @ UTA W 19 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 2 0 1 -8
+p341
+aVTim Thomas MIL 02/03/2000 MIL @ UTA W 21 8 3 10 30.0 0 2 0.0 2 2 100.0 1 1 2 2 0 4 1 2 -3
+p342
+aVVinny Del Negro MIL 02/03/2000 MIL @ UTA W 21 6 2 7 28.6 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 0 -11
+p343
+aVRay Allen MIL 02/03/2000 MIL @ UTA W 40 36 12 18 66.7 5 7 71.4 7 8 87.5 2 6 8 2 2 2 3 3 11
+p344
+aVErvin Johnson MIL 02/03/2000 MIL @ UTA W 35 3 1 2 50.0 0 0 - 1 2 50.0 4 7 11 0 2 3 1 4 2
+p345
+aVGlenn Robinson MIL 02/03/2000 MIL @ UTA W 38 30 11 21 52.4 4 4 100.0 4 4 100.0 0 3 3 2 0 0 1 3 11
+p346
+aVTim Thomas MIL 02/02/2000 MIL @ DEN L 25 9 3 12 25.0 0 6 0.0 3 4 75.0 0 4 4 3 0 1 1 4 -19
+p347
+aVHaywoode Workman MIL 02/02/2000 MIL @ DEN L 5 2 1 2 50.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 0 0 -7
+p348
+aVDarvin Ham MIL 02/02/2000 MIL @ DEN L 17 7 3 7 42.9 0 0 - 1 2 50.0 4 0 4 2 2 1 0 2 -1
+p349
+aVErvin Johnson MIL 02/02/2000 MIL @ DEN L 27 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 1 1 2 2 -18
+p350
+aVGlenn Robinson MIL 02/02/2000 MIL @ DEN L 31 19 8 16 50.0 1 5 20.0 2 5 40.0 2 2 4 2 0 0 3 2 -14
+p351
+aVDanny Manning MIL 02/02/2000 MIL @ DEN L 22 12 6 9 66.7 0 0 - 0 1 0.0 3 1 4 0 1 0 0 2 -1
+p352
+aVVinny Del Negro MIL 02/02/2000 MIL @ DEN L 25 16 7 10 70.0 0 0 - 2 2 100.0 0 2 2 3 1 0 0 2 -8
+p353
+aVScott Williams MIL 02/02/2000 MIL @ DEN L 19 2 1 5 20.0 0 0 - 0 0 - 5 3 8 1 0 1 1 3 -12
+p354
+aVSam Cassell MIL 02/02/2000 MIL @ DEN L 34 21 8 16 50.0 0 0 - 5 5 100.0 4 1 5 8 1 0 3 2 -20
+p355
+aVRay Allen MIL 02/02/2000 MIL @ DEN L 36 22 6 16 37.5 2 6 33.3 8 8 100.0 1 4 5 3 1 0 1 1 -15
+p356
+aVScott Williams MIL 01/31/2000 MIL @ VAN W 32 12 5 12 41.7 0 0 - 2 2 100.0 3 5 8 0 0 4 0 4 2
+p357
+aVSam Cassell MIL 01/31/2000 MIL @ VAN W 39 21 7 18 38.9 1 3 33.3 6 6 100.0 1 3 4 7 1 0 4 4 12
+p358
+aVRay Allen MIL 01/31/2000 MIL @ VAN W 38 15 6 13 46.2 1 3 33.3 2 2 100.0 0 3 3 5 3 1 3 0 -4
+p359
+aVGlenn Robinson MIL 01/31/2000 MIL @ VAN W 37 25 10 19 52.6 0 2 0.0 5 5 100.0 1 5 6 3 2 2 3 1 -8
+p360
+aVErvin Johnson MIL 01/31/2000 MIL @ VAN W 30 5 1 1 100.0 0 0 - 3 4 75.0 3 7 10 1 1 1 1 4 0
+p361
+aVDanny Manning MIL 01/31/2000 MIL @ VAN W 20 2 0 4 0.0 0 0 - 2 2 100.0 1 1 2 3 3 1 0 3 13
+p362
+aVVinny Del Negro MIL 01/31/2000 MIL @ VAN W 19 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 1 0 1 0 2
+p363
+aVDarvin Ham MIL 01/31/2000 MIL @ VAN W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p364
+aVTim Thomas MIL 01/31/2000 MIL @ VAN W 22 6 3 7 42.9 0 1 0.0 0 0 - 1 2 3 3 1 0 2 2 10
+p365
+aVSam Cassell MIL 01/29/2000 MIL @ SEA W 37 18 6 12 50.0 1 3 33.3 5 7 71.4 1 7 8 9 0 1 4 4 5
+p366
+aVTim Thomas MIL 01/29/2000 MIL @ SEA W 32 16 6 14 42.9 1 3 33.3 3 3 100.0 2 1 3 1 0 0 0 4 -5
+p367
+aVVinny Del Negro MIL 01/29/2000 MIL @ SEA W 18 0 0 2 0.0 0 0 - 0 0 - 1 3 4 3 0 0 1 1 -8
+p368
+aVGlenn Robinson MIL 01/29/2000 MIL @ SEA W 38 24 8 16 50.0 0 3 0.0 8 10 80.0 2 7 9 2 1 0 5 3 7
+p369
+aVDanny Manning MIL 01/29/2000 MIL @ SEA W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -4
+p370
+aVRay Allen MIL 01/29/2000 MIL @ SEA W 41 18 8 25 32.0 2 10 20.0 0 0 - 0 5 5 4 1 0 2 2 7
+p371
+aVScott Williams MIL 01/29/2000 MIL @ SEA W 21 11 5 8 62.5 0 0 - 1 1 100.0 4 6 10 2 0 1 1 3 8
+p372
+aVDarvin Ham MIL 01/29/2000 MIL @ SEA W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 1
+p373
+aVJ.R. Reid MIL 01/29/2000 MIL @ SEA W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 0 3 -3
+p374
+aVErvin Johnson MIL 01/29/2000 MIL @ SEA W 31 10 3 4 75.0 0 0 - 4 4 100.0 3 3 6 2 2 2 0 4 2
+p375
+aVErvin Johnson MIL 01/28/2000 MIL @ LAL L 22 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 2 0 0 4 -4
+p376
+aVTim Thomas MIL 01/28/2000 MIL @ LAL L 31 5 2 7 28.6 1 2 50.0 0 0 - 0 3 3 1 2 0 3 3 -23
+p377
+aVVinny Del Negro MIL 01/28/2000 MIL @ LAL L 24 15 7 10 70.0 0 0 - 1 1 100.0 0 3 3 2 1 0 1 1 -19
+p378
+aVSam Cassell MIL 01/28/2000 MIL @ LAL L 33 18 6 14 42.9 0 1 0.0 6 6 100.0 1 4 5 4 0 0 5 2 -21
+p379
+aVRobert Traylor MIL 01/28/2000 MIL @ LAL L 6 3 1 2 50.0 0 0 - 1 2 50.0 2 0 2 1 0 0 0 2 1
+p380
+aVDarvin Ham MIL 01/28/2000 MIL @ LAL L 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -2
+p381
+aVHaywoode Workman MIL 01/28/2000 MIL @ LAL L 6 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 1 0 0 0 1 1
+p382
+aVGlenn Robinson MIL 01/28/2000 MIL @ LAL L 33 12 5 19 26.3 2 4 50.0 0 0 - 0 7 7 2 1 1 3 2 -28
+p383
+aVScott Williams MIL 01/28/2000 MIL @ LAL L 23 10 5 7 71.4 0 0 - 0 2 0.0 6 3 9 0 0 2 1 5 -13
+p384
+aVDanny Manning MIL 01/28/2000 MIL @ LAL L 17 3 1 6 16.7 0 0 - 1 2 50.0 0 2 2 1 0 0 2 2 -15
+p385
+aVRay Allen MIL 01/28/2000 MIL @ LAL L 33 14 4 14 28.6 0 4 0.0 6 6 100.0 1 1 2 4 1 0 1 1 -17
+p386
+aVVinny Del Negro MIL 01/26/2000 MIL vs. SAC W 27 6 3 6 50.0 0 1 0.0 0 1 0.0 0 2 2 1 1 0 1 2 -2
+p387
+aVErvin Johnson MIL 01/26/2000 MIL vs. SAC W 35 12 4 9 44.4 0 0 - 4 7 57.1 6 9 15 0 1 3 1 5 4
+p388
+aVRobert Traylor MIL 01/26/2000 MIL vs. SAC W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -7
+p389
+aVSam Cassell MIL 01/26/2000 MIL vs. SAC W 35 20 6 18 33.3 0 0 - 8 10 80.0 0 1 1 13 1 0 3 0 15
+p390
+aVGlenn Robinson MIL 01/26/2000 MIL vs. SAC W 36 21 9 18 50.0 3 5 60.0 0 0 - 1 1 2 1 5 0 2 5 4
+p391
+aVTim Thomas MIL 01/26/2000 MIL vs. SAC W 28 7 3 7 42.9 0 1 0.0 1 2 50.0 1 6 7 2 1 0 2 3 5
+p392
+aVRay Allen MIL 01/26/2000 MIL vs. SAC W 34 22 7 18 38.9 2 7 28.6 6 6 100.0 1 8 9 5 3 0 4 4 3
+p393
+aVScott Williams MIL 01/26/2000 MIL vs. SAC W 29 17 7 12 58.3 0 0 - 3 4 75.0 5 9 14 0 0 1 1 2 9
+p394
+aVDarvin Ham MIL 01/26/2000 MIL vs. SAC W 13 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 0 0 1 2 9
+p395
+aVSam Cassell MIL 01/20/2000 MIL vs. SEA L 42 19 6 13 46.2 0 4 0.0 7 7 100.0 1 5 6 8 1 0 2 5 -8
+p396
+aVVinny Del Negro MIL 01/20/2000 MIL vs. SEA L 16 10 5 9 55.6 0 0 - 0 0 - 0 0 0 0 0 0 2 1 4
+p397
+aVDanny Manning MIL 01/20/2000 MIL vs. SEA L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 2 0 0 3 2
+p398
+aVTim Thomas MIL 01/20/2000 MIL vs. SEA L 25 14 6 9 66.7 0 0 - 2 3 66.7 1 1 2 0 0 0 1 3 -3
+p399
+aVGlenn Robinson MIL 01/20/2000 MIL vs. SEA L 37 21 9 22 40.9 2 5 40.0 1 2 50.0 4 4 8 1 2 2 3 0 -8
+p400
+aVDarvin Ham MIL 01/20/2000 MIL vs. SEA L 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 4
+p401
+aVErvin Johnson MIL 01/20/2000 MIL vs. SEA L 27 6 3 5 60.0 0 0 - 0 2 0.0 3 7 10 0 1 0 0 4 -8
+p402
+aVScott Williams MIL 01/20/2000 MIL vs. SEA L 23 13 6 8 75.0 0 0 - 1 1 100.0 4 7 11 0 0 3 1 4 -10
+p403
+aVRay Allen MIL 01/20/2000 MIL vs. SEA L 38 11 4 15 26.7 1 5 20.0 2 3 66.7 0 5 5 13 0 0 2 4 -13
+p404
+aVHaywoode Workman MIL 01/19/2000 MIL @ IND L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -13
+p405
+aVSam Cassell MIL 01/19/2000 MIL @ IND L 36 11 4 19 21.1 2 5 40.0 1 1 100.0 0 3 3 9 1 0 1 3 -2
+p406
+aVJ.R. Reid MIL 01/19/2000 MIL @ IND L 7 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -10
+p407
+aVDarvin Ham MIL 01/19/2000 MIL @ IND L 4 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -6
+p408
+aVTim Thomas MIL 01/19/2000 MIL @ IND L 31 11 4 10 40.0 0 2 0.0 3 3 100.0 1 4 5 0 1 1 4 3 -27
+p409
+aVDanny Manning MIL 01/19/2000 MIL @ IND L 9 2 1 3 33.3 0 0 - 0 1 0.0 0 1 1 1 1 0 1 1 -11
+p410
+aVRay Allen MIL 01/19/2000 MIL @ IND L 29 16 7 13 53.8 2 4 50.0 0 0 - 0 0 0 2 0 0 1 5 -3
+p411
+aVErvin Johnson MIL 01/19/2000 MIL @ IND L 35 5 2 4 50.0 0 0 - 1 1 100.0 3 6 9 0 1 0 2 2 -8
+p412
+aVScott Williams MIL 01/19/2000 MIL @ IND L 32 8 4 8 50.0 0 0 - 0 0 - 7 6 13 0 1 0 2 4 -3
+p413
+aVGlenn Robinson MIL 01/19/2000 MIL @ IND L 37 25 10 23 43.5 1 4 25.0 4 4 100.0 0 8 8 3 1 1 5 3 -6
+p414
+aVRobert Traylor MIL 01/19/2000 MIL @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -5
+p415
+aVVinny Del Negro MIL 01/19/2000 MIL @ IND L 11 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -16
+p416
+aVScott Williams MIL 01/17/2000 MIL @ ATL W 34 12 3 11 27.3 0 0 - 6 7 85.7 6 8 14 0 1 1 0 6 3
+p417
+aVRobert Traylor MIL 01/17/2000 MIL @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p418
+aVTim Thomas MIL 01/17/2000 MIL @ ATL W 23 11 4 9 44.4 1 1 100.0 2 2 100.0 3 4 7 1 1 0 1 2 -2
+p419
+aVSam Cassell MIL 01/17/2000 MIL @ ATL W 40 31 11 19 57.9 3 4 75.0 6 6 100.0 0 1 1 11 1 1 2 2 12
+p420
+aVVinny Del Negro MIL 01/17/2000 MIL @ ATL W 19 5 2 6 33.3 1 1 100.0 0 0 - 0 0 0 3 0 0 0 3 -13
+p421
+aVDanny Manning MIL 01/17/2000 MIL @ ATL W 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -13
+p422
+aVGlenn Robinson MIL 01/17/2000 MIL @ ATL W 37 15 5 16 31.3 3 5 60.0 2 2 100.0 1 0 1 0 1 1 6 1 12
+p423
+aVRay Allen MIL 01/17/2000 MIL @ ATL W 37 23 10 19 52.6 2 3 66.7 1 1 100.0 1 3 4 1 1 0 3 2 13
+p424
+aVErvin Johnson MIL 01/17/2000 MIL @ ATL W 32 6 3 4 75.0 0 0 - 0 2 0.0 4 6 10 2 1 2 0 3 18
+p425
+aVRay Allen MIL 01/15/2000 MIL vs. TOR W 36 33 11 15 73.3 3 3 100.0 8 10 80.0 0 2 2 3 0 0 2 3 23
+p426
+aVSam Cassell MIL 01/15/2000 MIL vs. TOR W 35 24 6 8 75.0 1 1 100.0 11 12 91.7 0 5 5 9 0 0 6 3 23
+p427
+aVHaywoode Workman MIL 01/15/2000 MIL vs. TOR W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 1 1 -2
+p428
+aVErvin Johnson MIL 01/15/2000 MIL vs. TOR W 32 3 1 1 100.0 0 0 - 1 2 50.0 1 6 7 0 2 3 0 3 32
+p429
+aVScott Williams MIL 01/15/2000 MIL vs. TOR W 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 3 5 1
+p430
+aVDanny Manning MIL 01/15/2000 MIL vs. TOR W 23 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 0 0 1 3 -3
+p431
+aVJ.R. Reid MIL 01/15/2000 MIL vs. TOR W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 1 -1
+p432
+aVRobert Traylor MIL 01/15/2000 MIL vs. TOR W 6 2 0 1 0.0 0 0 - 2 2 100.0 2 2 4 1 1 2 2 2 -4
+p433
+aVVinny Del Negro MIL 01/15/2000 MIL vs. TOR W 23 10 4 7 57.1 0 0 - 2 2 100.0 0 2 2 3 0 0 1 3 1
+p434
+aVTim Thomas MIL 01/15/2000 MIL vs. TOR W 28 20 7 14 50.0 3 7 42.9 3 4 75.0 2 5 7 2 1 1 1 5 15
+p435
+aVGlenn Robinson MIL 01/15/2000 MIL vs. TOR W 30 17 4 11 36.4 1 2 50.0 8 10 80.0 0 5 5 2 1 0 2 4 20
+p436
+aVVinny Del Negro MIL 01/14/2000 MIL @ TOR L 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -8
+p437
+aVJ.R. Reid MIL 01/14/2000 MIL @ TOR L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 7
+p438
+aVGlenn Robinson MIL 01/14/2000 MIL @ TOR L 41 37 16 25 64.0 0 1 0.0 5 7 71.4 1 6 7 2 0 2 3 2 9
+p439
+aVSam Cassell MIL 01/14/2000 MIL @ TOR L 38 24 9 16 56.3 1 4 25.0 5 6 83.3 0 2 2 10 1 0 2 4 9
+p440
+aVRay Allen MIL 01/14/2000 MIL @ TOR L 37 25 8 16 50.0 3 5 60.0 6 7 85.7 2 4 6 2 1 0 2 2 5
+p441
+aVTim Thomas MIL 01/14/2000 MIL @ TOR L 18 9 4 6 66.7 1 1 100.0 0 0 - 1 1 2 1 0 2 3 2 -25
+p442
+aVScott Williams MIL 01/14/2000 MIL @ TOR L 23 7 3 7 42.9 0 0 - 1 1 100.0 2 6 8 0 2 1 2 3 -12
+p443
+aVHaywoode Workman MIL 01/14/2000 MIL @ TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p444
+aVDanny Manning MIL 01/14/2000 MIL @ TOR L 19 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 1 1 0 3 -2
+p445
+aVErvin Johnson MIL 01/14/2000 MIL @ TOR L 32 0 0 2 0.0 0 0 - 0 0 - 4 3 7 2 0 3 1 5 0
+p446
+aVTim Thomas MIL 01/12/2000 MIL vs. LAL L 34 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 0 2 0 6 3 -11
+p447
+aVErvin Johnson MIL 01/12/2000 MIL vs. LAL L 24 0 0 1 0.0 0 0 - 0 0 - 1 7 8 0 3 0 1 4 -6
+p448
+aVScott Williams MIL 01/12/2000 MIL vs. LAL L 16 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 0 0 1 4 7
+p449
+aVRay Allen MIL 01/12/2000 MIL vs. LAL L 38 25 7 15 46.7 1 3 33.3 10 10 100.0 1 3 4 2 1 0 3 0 -2
+p450
+aVGlenn Robinson MIL 01/12/2000 MIL vs. LAL L 41 22 9 20 45.0 0 2 0.0 4 4 100.0 2 5 7 3 1 1 3 1 4
+p451
+aVJ.R. Reid MIL 01/12/2000 MIL vs. LAL L 13 2 1 7 14.3 0 3 0.0 0 0 - 1 3 4 0 1 0 0 2 -17
+p452
+aVVinny Del Negro MIL 01/12/2000 MIL vs. LAL L 18 4 1 6 16.7 0 1 0.0 2 2 100.0 0 0 0 3 0 0 0 0 -18
+p453
+aVSam Cassell MIL 01/12/2000 MIL vs. LAL L 37 24 7 16 43.8 2 5 40.0 8 8 100.0 0 5 5 13 0 0 3 4 4
+p454
+aVDanny Manning MIL 01/12/2000 MIL vs. LAL L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 1 2 0 0 6 -6
+p455
+aVVinny Del Negro MIL 01/10/2000 MIL vs. CHH W 24 10 5 7 71.4 0 0 - 0 0 - 0 2 2 5 2 0 2 2 26
+p456
+aVRay Allen MIL 01/10/2000 MIL vs. CHH W 30 26 10 16 62.5 3 8 37.5 3 3 100.0 3 1 4 8 1 0 2 1 31
+p457
+aVGlenn Robinson MIL 01/10/2000 MIL vs. CHH W 30 13 5 16 31.3 1 4 25.0 2 2 100.0 0 3 3 3 1 0 2 1 29
+p458
+aVDanny Manning MIL 01/10/2000 MIL vs. CHH W 17 10 5 5 100.0 0 0 - 0 0 - 0 0 0 4 0 0 0 3 19
+p459
+aVSam Cassell MIL 01/10/2000 MIL vs. CHH W 27 18 5 10 50.0 2 3 66.7 6 6 100.0 2 4 6 12 1 0 2 2 27
+p460
+aVTim Thomas MIL 01/10/2000 MIL vs. CHH W 28 21 7 8 87.5 6 7 85.7 1 2 50.0 0 6 6 5 0 0 2 1 30
+p461
+aVErvin Johnson MIL 01/10/2000 MIL vs. CHH W 29 8 4 5 80.0 0 0 - 0 0 - 5 8 13 1 2 3 0 2 34
+p462
+aVRobert Traylor MIL 01/10/2000 MIL vs. CHH W 12 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 1 0 0 2 16
+p463
+aVScott Williams MIL 01/10/2000 MIL vs. CHH W 27 14 6 7 85.7 0 0 - 2 2 100.0 2 5 7 1 0 4 1 3 24
+p464
+aVHaywoode Workman MIL 01/10/2000 MIL vs. CHH W 16 9 4 5 80.0 1 1 100.0 0 0 - 0 0 0 6 1 0 0 1 14
+p465
+aVSam Cassell MIL 01/08/2000 MIL vs. WAS W 31 16 5 9 55.6 0 0 - 6 8 75.0 1 3 4 10 2 0 2 6 8
+p466
+aVRobert Traylor MIL 01/08/2000 MIL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p467
+aVRay Allen MIL 01/08/2000 MIL vs. WAS W 42 28 8 17 47.1 1 3 33.3 11 13 84.6 0 3 3 3 0 0 4 6 7
+p468
+aVTim Thomas MIL 01/08/2000 MIL vs. WAS W 35 15 7 16 43.8 1 3 33.3 0 2 0.0 1 3 4 3 2 2 0 2 6
+p469
+aVDanny Manning MIL 01/08/2000 MIL vs. WAS W 13 10 5 9 55.6 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -4
+p470
+aVDale Ellis MIL 01/08/2000 MIL vs. WAS W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p471
+aVHaywoode Workman MIL 01/08/2000 MIL vs. WAS W 16 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 3 2 0 1 2 -9
+p472
+aVGlenn Robinson MIL 01/08/2000 MIL vs. WAS W 50 34 15 30 50.0 2 5 40.0 2 2 100.0 1 6 7 2 2 2 5 6 7
+p473
+aVVinny Del Negro MIL 01/08/2000 MIL vs. WAS W 25 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 6 2 0 0 4 -2
+p474
+aVErvin Johnson MIL 01/08/2000 MIL vs. WAS W 37 7 3 4 75.0 0 0 - 1 1 100.0 7 11 18 1 2 3 3 5 -9
+p475
+aVScott Williams MIL 01/08/2000 MIL vs. WAS W 32 11 2 4 50.0 0 0 - 7 10 70.0 3 3 6 0 0 0 2 5 6
+p476
+aVHaywoode Workman MIL 01/06/2000 MIL @ DET L 36 14 4 14 28.6 2 4 50.0 4 4 100.0 0 1 1 5 1 0 0 2 2
+p477
+aVVinny Del Negro MIL 01/06/2000 MIL @ DET L 18 4 2 6 33.3 0 0 - 0 0 - 0 3 3 4 0 0 0 2 5
+p478
+aVDanny Manning MIL 01/06/2000 MIL @ DET L 18 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 1 0 2 1
+p479
+aVScott Williams MIL 01/06/2000 MIL @ DET L 15 7 3 5 60.0 0 0 - 1 1 100.0 3 7 10 1 1 1 2 4 4
+p480
+aVRay Allen MIL 01/06/2000 MIL @ DET L 42 15 6 17 35.3 1 3 33.3 2 3 66.7 3 2 5 4 4 0 7 3 -17
+p481
+aVGlenn Robinson MIL 01/06/2000 MIL @ DET L 38 31 11 20 55.0 4 7 57.1 5 6 83.3 0 5 5 3 0 0 0 5 -5
+p482
+aVTim Thomas MIL 01/06/2000 MIL @ DET L 27 16 4 10 40.0 1 2 50.0 7 8 87.5 1 2 3 1 4 0 2 5 -4
+p483
+aVDale Ellis MIL 01/06/2000 MIL @ DET L 17 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 0 0 0 0 2 -7
+p484
+aVErvin Johnson MIL 01/06/2000 MIL @ DET L 30 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 0 2 5 -9
+p485
+aVGlenn Robinson MIL 01/04/2000 MIL vs. ATL W 39 36 17 23 73.9 0 2 0.0 2 4 50.0 1 5 6 3 0 0 3 2 -9
+p486
+aVTim Thomas MIL 01/04/2000 MIL vs. ATL W 29 13 5 8 62.5 0 0 - 3 3 100.0 3 1 4 3 0 0 2 2 17
+p487
+aVDanny Manning MIL 01/04/2000 MIL vs. ATL W 9 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 2 4
+p488
+aVSam Cassell MIL 01/04/2000 MIL vs. ATL W 38 10 3 14 21.4 0 2 0.0 4 4 100.0 0 1 1 18 2 0 0 3 6
+p489
+aVErvin Johnson MIL 01/04/2000 MIL vs. ATL W 26 4 2 4 50.0 0 0 - 0 0 - 3 5 8 0 2 0 1 6 -5
+p490
+aVDale Ellis MIL 01/04/2000 MIL vs. ATL W 20 11 4 7 57.1 3 6 50.0 0 0 - 0 1 1 1 1 0 0 0 10
+p491
+aVVinny Del Negro MIL 01/04/2000 MIL vs. ATL W 17 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 3 0 0 1 0 2
+p492
+aVScott Williams MIL 01/04/2000 MIL vs. ATL W 22 4 1 5 20.0 0 0 - 2 2 100.0 3 3 6 0 1 1 1 5 -5
+p493
+aVRay Allen MIL 01/04/2000 MIL vs. ATL W 39 25 11 19 57.9 2 4 50.0 1 1 100.0 1 4 5 5 2 0 0 0 -5
+p494
+aVTim Thomas MIL 01/03/2000 MIL @ PHI L 31 18 7 12 58.3 3 5 60.0 1 2 50.0 1 1 2 0 2 0 4 4 -15
+p495
+aVScott Williams MIL 01/03/2000 MIL @ PHI L 29 8 2 9 22.2 0 0 - 4 4 100.0 8 4 12 0 0 0 0 4 7
+p496
+aVRay Allen MIL 01/03/2000 MIL @ PHI L 46 25 10 27 37.0 3 10 30.0 2 2 100.0 1 3 4 4 1 0 2 2 -1
+p497
+aVGlenn Robinson MIL 01/03/2000 MIL @ PHI L 42 25 8 19 42.1 2 4 50.0 7 8 87.5 1 6 7 2 0 0 3 5 2
+p498
+aVSam Cassell MIL 01/03/2000 MIL @ PHI L 43 23 7 17 41.2 0 1 0.0 9 9 100.0 1 2 3 11 0 0 2 6 3
+p499
+aVErvin Johnson MIL 01/03/2000 MIL @ PHI L 41 13 5 5 100.0 0 0 - 3 6 50.0 7 8 15 1 0 5 3 6 -5
+p500
+aVVinny Del Negro MIL 01/03/2000 MIL @ PHI L 17 8 4 5 80.0 0 0 - 0 0 - 0 2 2 3 0 0 4 4 -5
+p501
+aVDanny Manning MIL 01/03/2000 MIL @ PHI L 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 2 2 -6
+p502
+aVJ.R. Reid MIL 12/30/1999 MIL vs. CLE W 9 2 0 2 0.0 0 1 0.0 2 4 50.0 0 4 4 0 0 0 0 1 0
+p503
+aVErvin Johnson MIL 12/30/1999 MIL vs. CLE W 27 4 1 3 33.3 0 0 - 2 2 100.0 3 6 9 1 0 2 1 5 13
+p504
+aVTim Thomas MIL 12/30/1999 MIL vs. CLE W 32 13 4 6 66.7 0 1 0.0 5 8 62.5 2 1 3 1 0 1 1 2 1
+p505
+aVGlenn Robinson MIL 12/30/1999 MIL vs. CLE W 37 17 7 17 41.2 1 3 33.3 2 3 66.7 0 7 7 0 1 0 1 3 0
+p506
+aVSam Cassell MIL 12/30/1999 MIL vs. CLE W 33 20 5 15 33.3 0 0 - 10 10 100.0 0 1 1 5 2 0 2 4 6
+p507
+aVScott Williams MIL 12/30/1999 MIL vs. CLE W 22 6 3 5 60.0 0 0 - 0 0 - 3 2 5 1 0 1 0 0 -8
+p508
+aVRay Allen MIL 12/30/1999 MIL vs. CLE W 37 15 4 14 28.6 0 4 0.0 7 10 70.0 0 3 3 7 2 0 3 3 10
+p509
+aVDanny Manning MIL 12/30/1999 MIL vs. CLE W 17 2 1 2 50.0 0 0 - 0 0 - 3 4 7 1 0 0 2 2 -3
+p510
+aVHaywoode Workman MIL 12/30/1999 MIL vs. CLE W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 2 0 2 1 -4
+p511
+aVVinny Del Negro MIL 12/30/1999 MIL vs. CLE W 19 12 6 8 75.0 0 0 - 0 0 - 0 2 2 2 1 0 2 1 -10
+p512
+aVVinny Del Negro MIL 12/29/1999 MIL @ CHH L 19 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -15
+p513
+aVErvin Johnson MIL 12/29/1999 MIL @ CHH L 32 5 2 3 66.7 0 0 - 1 1 100.0 3 6 9 2 1 2 0 4 8
+p514
+aVGlenn Robinson MIL 12/29/1999 MIL @ CHH L 42 36 15 26 57.7 4 6 66.7 2 2 100.0 3 4 7 2 3 1 1 4 2
+p515
+aVDanny Manning MIL 12/29/1999 MIL @ CHH L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -6
+p516
+aVRay Allen MIL 12/29/1999 MIL @ CHH L 40 28 11 24 45.8 4 8 50.0 2 2 100.0 2 0 2 5 2 0 2 1 7
+p517
+aVRobert Traylor MIL 12/29/1999 MIL @ CHH L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -6
+p518
+aVTim Thomas MIL 12/29/1999 MIL @ CHH L 19 19 7 12 58.3 0 2 0.0 5 6 83.3 1 1 2 0 0 0 2 5 0
+p519
+aVJ.R. Reid MIL 12/29/1999 MIL @ CHH L 18 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 0 0 1 2 -18
+p520
+aVSam Cassell MIL 12/29/1999 MIL @ CHH L 37 7 3 7 42.9 0 1 0.0 1 2 50.0 0 1 1 19 2 0 8 6 0
+p521
+aVScott Williams MIL 12/29/1999 MIL @ CHH L 24 4 2 4 50.0 0 0 - 0 0 - 4 1 5 0 0 0 0 5 8
+p522
+aVDanny Manning MIL 12/26/1999 MIL vs. MIA W 17 2 1 5 20.0 0 0 - 0 0 - 1 0 1 1 1 1 1 3 -2
+p523
+aVVinny Del Negro MIL 12/26/1999 MIL vs. MIA W 20 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 3 1 0 0 0 4
+p524
+aVGlenn Robinson MIL 12/26/1999 MIL vs. MIA W 35 30 11 19 57.9 1 1 100.0 7 8 87.5 1 5 6 2 2 0 3 4 5
+p525
+aVTim Thomas MIL 12/26/1999 MIL vs. MIA W 19 9 4 8 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 1 1 2
+p526
+aVSam Cassell MIL 12/26/1999 MIL vs. MIA W 36 4 2 12 16.7 0 0 - 0 0 - 2 1 3 11 0 0 1 5 4
+p527
+aVScott Williams MIL 12/26/1999 MIL vs. MIA W 25 7 3 9 33.3 0 0 - 1 2 50.0 6 5 11 0 0 1 0 3 5
+p528
+aVJ.R. Reid MIL 12/26/1999 MIL vs. MIA W 23 10 4 9 44.4 0 1 0.0 2 2 100.0 0 5 5 2 3 0 0 2 12
+p529
+aVErvin Johnson MIL 12/26/1999 MIL vs. MIA W 25 3 1 4 25.0 0 0 - 1 1 100.0 5 2 7 1 1 2 2 5 2
+p530
+aVRay Allen MIL 12/26/1999 MIL vs. MIA W 39 22 8 18 44.4 2 5 40.0 4 4 100.0 1 6 7 5 1 0 6 2 8
+p531
+aVGlenn Robinson MIL 12/23/1999 MIL @ SAS W 37 25 10 16 62.5 0 1 0.0 5 6 83.3 0 7 7 3 0 2 4 1 4
+p532
+aVSam Cassell MIL 12/23/1999 MIL @ SAS W 37 27 8 16 50.0 1 1 100.0 10 13 76.9 1 1 2 8 0 0 1 4 2
+p533
+aVJ.R. Reid MIL 12/23/1999 MIL @ SAS W 13 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 2 0
+p534
+aVErvin Johnson MIL 12/23/1999 MIL @ SAS W 29 9 3 8 37.5 0 0 - 3 4 75.0 7 7 14 0 3 0 1 4 2
+p535
+aVDanny Manning MIL 12/23/1999 MIL @ SAS W 7 0 0 2 0.0 0 0 - 0 0 - 3 0 3 2 0 0 1 2 -3
+p536
+aVVinny Del Negro MIL 12/23/1999 MIL @ SAS W 20 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 1 0 0 1 1
+p537
+aVRay Allen MIL 12/23/1999 MIL @ SAS W 39 14 5 14 35.7 2 3 66.7 2 2 100.0 0 2 2 1 2 0 2 2 5
+p538
+aVScott Williams MIL 12/23/1999 MIL @ SAS W 36 8 3 13 23.1 0 0 - 2 2 100.0 2 5 7 0 1 4 1 5 7
+p539
+aVTim Thomas MIL 12/23/1999 MIL @ SAS W 22 6 3 6 50.0 0 1 0.0 0 0 - 3 1 4 2 0 0 1 4 2
+p540
+aVRobert Traylor MIL 12/21/1999 MIL @ SAC L 10 7 2 3 66.7 0 0 - 3 4 75.0 0 1 1 0 1 1 1 2 3
+p541
+aVRay Allen MIL 12/21/1999 MIL @ SAC L 32 12 4 16 25.0 3 9 33.3 1 1 100.0 1 2 3 2 3 0 4 3 -9
+p542
+aVScott Williams MIL 12/21/1999 MIL @ SAC L 22 7 2 5 40.0 0 0 - 3 6 50.0 5 1 6 0 1 0 1 3 -5
+p543
+aVSam Cassell MIL 12/21/1999 MIL @ SAC L 28 20 9 15 60.0 0 1 0.0 2 6 33.3 1 2 3 6 1 0 2 2 -3
+p544
+aVDanny Manning MIL 12/21/1999 MIL @ SAC L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 1
+p545
+aVGlenn Robinson MIL 12/21/1999 MIL @ SAC L 33 19 8 16 50.0 1 3 33.3 2 2 100.0 0 6 6 3 0 0 2 5 -12
+p546
+aVErvin Johnson MIL 12/21/1999 MIL @ SAC L 18 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 1 0 5 -1
+p547
+aVTim Thomas MIL 12/21/1999 MIL @ SAC L 30 9 4 13 30.8 1 4 25.0 0 0 - 1 3 4 4 0 0 1 2 -9
+p548
+aVHaywoode Workman MIL 12/21/1999 MIL @ SAC L 20 7 2 2 100.0 1 1 100.0 2 4 50.0 0 2 2 2 1 0 1 0 -8
+p549
+aVVinny Del Negro MIL 12/21/1999 MIL @ SAC L 20 4 2 5 40.0 0 0 - 0 0 - 0 3 3 4 1 0 1 0 -6
+p550
+aVJ.R. Reid MIL 12/21/1999 MIL @ SAC L 16 10 5 7 71.4 0 0 - 0 0 - 0 4 4 0 0 1 2 6 -16
+p551
+aVDanny Manning MIL 12/20/1999 MIL @ PHX L 21 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 1 1 2 2 -8
+p552
+aVRobert Traylor MIL 12/20/1999 MIL @ PHX L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 5
+p553
+aVRay Allen MIL 12/20/1999 MIL @ PHX L 41 31 11 23 47.8 5 7 71.4 4 4 100.0 1 6 7 3 1 2 1 2 6
+p554
+aVVinny Del Negro MIL 12/20/1999 MIL @ PHX L 19 4 2 6 33.3 0 0 - 0 0 - 1 2 3 2 1 0 1 0 -3
+p555
+aVScott Williams MIL 12/20/1999 MIL @ PHX L 22 4 2 3 66.7 0 0 - 0 0 - 0 6 6 0 3 2 4 6 -2
+p556
+aVErvin Johnson MIL 12/20/1999 MIL @ PHX L 32 4 1 2 50.0 0 0 - 2 4 50.0 3 2 5 1 1 4 1 4 -3
+p557
+aVJ.R. Reid MIL 12/20/1999 MIL @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p558
+aVSam Cassell MIL 12/20/1999 MIL @ PHX L 36 19 9 18 50.0 0 2 0.0 1 2 50.0 1 2 3 10 0 0 3 6 -17
+p559
+aVGlenn Robinson MIL 12/20/1999 MIL @ PHX L 31 19 7 15 46.7 0 3 0.0 5 6 83.3 0 3 3 1 0 0 2 2 -6
+p560
+aVTim Thomas MIL 12/20/1999 MIL @ PHX L 30 16 7 9 77.8 1 3 33.3 1 1 100.0 1 4 5 1 2 0 3 3 -6
+p561
+aVDanny Manning MIL 12/18/1999 MIL vs. IND W 29 19 8 10 80.0 0 0 - 3 4 75.0 0 3 3 3 2 0 0 1 18
+p562
+aVTim Thomas MIL 12/18/1999 MIL vs. IND W 26 9 3 5 60.0 0 1 0.0 3 3 100.0 1 4 5 2 1 1 2 3 12
+p563
+aVGlenn Robinson MIL 12/18/1999 MIL vs. IND W 36 24 9 21 42.9 3 4 75.0 3 4 75.0 5 5 10 1 0 1 3 0 10
+p564
+aVRobert Traylor MIL 12/18/1999 MIL vs. IND W 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 2 2 0 1 3 -2
+p565
+aVSam Cassell MIL 12/18/1999 MIL vs. IND W 29 15 6 15 40.0 2 3 66.7 1 1 100.0 1 5 6 6 2 0 3 1 -4
+p566
+aVScott Williams MIL 12/18/1999 MIL vs. IND W 38 15 7 11 63.6 0 0 - 1 3 33.3 2 6 8 1 1 1 2 4 19
+p567
+aVRay Allen MIL 12/18/1999 MIL vs. IND W 36 16 5 17 29.4 2 5 40.0 4 5 80.0 1 3 4 4 0 0 0 1 8
+p568
+aVErvin Johnson MIL 12/18/1999 MIL vs. IND W 17 1 0 1 0.0 0 0 - 1 4 25.0 1 1 2 0 1 1 0 4 -9
+p569
+aVVinny Del Negro MIL 12/18/1999 MIL vs. IND W 19 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 5 0 0 0 2 18
+p570
+aVVinny Del Negro MIL 12/16/1999 MIL @ MIA W 21 15 7 11 63.6 0 0 - 1 1 100.0 0 1 1 1 0 0 1 0 8
+p571
+aVErvin Johnson MIL 12/16/1999 MIL @ MIA W 35 8 3 6 50.0 0 0 - 2 2 100.0 3 7 10 0 1 3 0 3 -10
+p572
+aVHaywoode Workman MIL 12/16/1999 MIL @ MIA W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p573
+aVScott Williams MIL 12/16/1999 MIL @ MIA W 21 2 1 2 50.0 0 0 - 0 0 - 3 4 7 0 0 1 0 4 9
+p574
+aVGlenn Robinson MIL 12/16/1999 MIL @ MIA W 36 12 4 11 36.4 0 4 0.0 4 4 100.0 1 5 6 0 1 2 4 0 -11
+p575
+aVTim Thomas MIL 12/16/1999 MIL @ MIA W 23 7 3 8 37.5 0 1 0.0 1 2 50.0 0 5 5 2 0 0 0 2 4
+p576
+aVRay Allen MIL 12/16/1999 MIL @ MIA W 41 28 11 24 45.8 3 7 42.9 3 3 100.0 2 5 7 5 2 0 1 1 -4
+p577
+aVSam Cassell MIL 12/16/1999 MIL @ MIA W 34 20 6 14 42.9 0 1 0.0 8 8 100.0 0 4 4 7 2 0 6 3 5
+p578
+aVDanny Manning MIL 12/16/1999 MIL @ MIA W 16 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 0 0 1 4 6
+p579
+aVJ.R. Reid MIL 12/16/1999 MIL @ MIA W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -3
+p580
+aVRay Allen MIL 12/15/1999 MIL @ ORL W 36 29 8 15 53.3 3 5 60.0 10 10 100.0 0 1 1 7 1 1 3 2 17
+p581
+aVVinny Del Negro MIL 12/15/1999 MIL @ ORL W 27 7 3 8 37.5 0 1 0.0 1 1 100.0 0 1 1 5 0 0 1 3 5
+p582
+aVHaywoode Workman MIL 12/15/1999 MIL @ ORL W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 4 0 0 0 3 -6
+p583
+aVScott Williams MIL 12/15/1999 MIL @ ORL W 37 17 8 14 57.1 0 0 - 1 2 50.0 4 11 15 1 1 1 5 3 9
+p584
+aVRobert Traylor MIL 12/15/1999 MIL @ ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p585
+aVErvin Johnson MIL 12/15/1999 MIL @ ORL W 25 8 3 3 100.0 0 0 - 2 2 100.0 7 5 12 1 0 2 0 4 19
+p586
+aVTim Thomas MIL 12/15/1999 MIL @ ORL W 22 12 6 14 42.9 0 1 0.0 0 0 - 3 0 3 0 2 0 0 2 5
+p587
+aVSam Cassell MIL 12/15/1999 MIL @ ORL W 26 10 5 11 45.5 0 0 - 0 0 - 1 5 6 5 1 0 2 5 13
+p588
+aVGlenn Robinson MIL 12/15/1999 MIL @ ORL W 30 25 10 17 58.8 1 2 50.0 4 4 100.0 1 4 5 2 3 1 4 5 15
+p589
+aVDanny Manning MIL 12/15/1999 MIL @ ORL W 23 6 3 8 37.5 0 0 - 0 0 - 2 4 6 3 1 3 1 4 10
+p590
+aVVinny Del Negro MIL 12/11/1999 MIL vs. DEN L 21 2 1 5 20.0 0 0 - 0 0 - 0 3 3 2 0 0 3 1 -2
+p591
+aVDanny Manning MIL 12/11/1999 MIL vs. DEN L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 2 0 0 1 -3
+p592
+aVGlenn Robinson MIL 12/11/1999 MIL vs. DEN L 35 24 11 22 50.0 2 5 40.0 0 2 0.0 1 5 6 2 0 0 2 4 1
+p593
+aVScott Williams MIL 12/11/1999 MIL vs. DEN L 18 11 4 9 44.4 0 0 - 3 4 75.0 3 7 10 0 0 0 0 4 4
+p594
+aVRay Allen MIL 12/11/1999 MIL vs. DEN L 40 25 9 23 39.1 3 8 37.5 4 4 100.0 0 2 2 4 0 0 0 1 5
+p595
+aVSam Cassell MIL 12/11/1999 MIL vs. DEN L 36 16 6 11 54.5 0 0 - 4 6 66.7 0 6 6 12 2 0 5 4 -6
+p596
+aVErvin Johnson MIL 12/11/1999 MIL vs. DEN L 34 1 0 3 0.0 0 0 - 1 2 50.0 5 8 13 2 0 3 1 5 1
+p597
+aVTim Thomas MIL 12/11/1999 MIL vs. DEN L 30 14 6 9 66.7 0 1 0.0 2 4 50.0 2 6 8 1 0 1 1 2 -6
+p598
+aVJ.R. Reid MIL 12/11/1999 MIL vs. DEN L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p599
+aVDanny Manning MIL 12/10/1999 MIL @ TOR W 20 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 2 0 2 0 3 4
+p600
+aVVinny Del Negro MIL 12/10/1999 MIL @ TOR W 22 8 3 5 60.0 2 2 100.0 0 0 - 1 2 3 1 2 0 3 2 2
+p601
+aVSam Cassell MIL 12/10/1999 MIL @ TOR W 34 22 9 15 60.0 0 0 - 4 6 66.7 2 3 5 10 1 1 3 3 18
+p602
+aVRay Allen MIL 12/10/1999 MIL @ TOR W 38 14 6 14 42.9 0 1 0.0 2 2 100.0 0 5 5 3 0 0 1 4 21
+p603
+aVGlenn Robinson MIL 12/10/1999 MIL @ TOR W 38 22 9 21 42.9 3 6 50.0 1 2 50.0 3 3 6 5 2 1 2 2 19
+p604
+aVJ.R. Reid MIL 12/10/1999 MIL @ TOR W 18 12 3 3 100.0 0 0 - 6 6 100.0 1 2 3 0 0 0 0 2 -5
+p605
+aVHaywoode Workman MIL 12/10/1999 MIL @ TOR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -6
+p606
+aVScott Williams MIL 12/10/1999 MIL @ TOR W 20 10 5 6 83.3 0 0 - 0 0 - 2 1 3 0 0 1 1 5 16
+p607
+aVErvin Johnson MIL 12/10/1999 MIL @ TOR W 18 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 2 2 0 1 3 18
+p608
+aVTim Thomas MIL 12/10/1999 MIL @ TOR W 27 12 6 11 54.5 0 2 0.0 0 0 - 1 2 3 3 0 1 2 1 -7
+p609
+aVTim Thomas MIL 12/08/1999 MIL @ NJN L 23 8 3 8 37.5 0 2 0.0 2 6 33.3 0 6 6 0 0 0 1 6 -10
+p610
+aVDanny Manning MIL 12/08/1999 MIL @ NJN L 17 4 2 8 25.0 0 0 - 0 0 - 4 2 6 1 0 0 1 3 -11
+p611
+aVHaywoode Workman MIL 12/08/1999 MIL @ NJN L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p612
+aVJ.R. Reid MIL 12/08/1999 MIL @ NJN L 17 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -3
+p613
+aVScott Williams MIL 12/08/1999 MIL @ NJN L 22 12 4 4 100.0 0 0 - 4 8 50.0 4 6 10 0 0 2 2 4 -1
+p614
+aVGlenn Robinson MIL 12/08/1999 MIL @ NJN L 39 25 10 21 47.6 1 3 33.3 4 6 66.7 1 5 6 4 0 1 1 1 -14
+p615
+aVRay Allen MIL 12/08/1999 MIL @ NJN L 40 14 4 13 30.8 2 4 50.0 4 4 100.0 0 3 3 3 2 0 5 4 -11
+p616
+aVErvin Johnson MIL 12/08/1999 MIL @ NJN L 24 3 1 2 50.0 0 0 - 1 2 50.0 3 2 5 1 3 1 0 3 -15
+p617
+aVSam Cassell MIL 12/08/1999 MIL @ NJN L 37 10 5 12 41.7 0 2 0.0 0 0 - 0 7 7 5 0 0 6 4 -17
+p618
+aVVinny Del Negro MIL 12/08/1999 MIL @ NJN L 20 11 5 5 100.0 1 1 100.0 0 0 - 0 2 2 2 0 0 0 1 -5
+p619
+aVDanny Manning MIL 12/07/1999 MIL vs. DET L 19 5 2 9 22.2 0 0 - 1 2 50.0 2 2 4 3 1 0 2 3 -20
+p620
+aVTim Thomas MIL 12/07/1999 MIL vs. DET L 24 9 4 8 50.0 0 2 0.0 1 1 100.0 2 3 5 2 0 0 0 3 -5
+p621
+aVSam Cassell MIL 12/07/1999 MIL vs. DET L 37 17 6 14 42.9 1 1 100.0 4 4 100.0 2 3 5 12 2 0 3 3 -2
+p622
+aVScott Williams MIL 12/07/1999 MIL vs. DET L 30 17 8 12 66.7 0 0 - 1 1 100.0 3 6 9 1 1 1 3 6 12
+p623
+aVJ.R. Reid MIL 12/07/1999 MIL vs. DET L 14 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 0 0 0 3 -12
+p624
+aVVinny Del Negro MIL 12/07/1999 MIL vs. DET L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 4 0 0 0 2 -14
+p625
+aVGlenn Robinson MIL 12/07/1999 MIL vs. DET L 35 30 14 24 58.3 2 4 50.0 0 0 - 1 2 3 2 0 0 0 3 14
+p626
+aVRay Allen MIL 12/07/1999 MIL vs. DET L 42 21 9 19 47.4 0 0 - 3 3 100.0 4 3 7 5 1 0 3 3 8
+p627
+aVErvin Johnson MIL 12/07/1999 MIL vs. DET L 23 6 3 4 75.0 0 0 - 0 2 0.0 3 7 10 0 0 0 2 3 -1
+p628
+aVJ.R. Reid MIL 12/05/1999 MIL vs. DAL W 21 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 6
+p629
+aVDanny Manning MIL 12/05/1999 MIL vs. DAL W 10 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 1 0 2 2 10
+p630
+aVScott Williams MIL 12/05/1999 MIL vs. DAL W 22 6 3 4 75.0 0 0 - 0 0 - 0 5 5 1 3 0 2 5 10
+p631
+aVHaywoode Workman MIL 12/05/1999 MIL vs. DAL W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p632
+aVTim Thomas MIL 12/05/1999 MIL vs. DAL W 28 13 5 11 45.5 0 0 - 3 3 100.0 1 3 4 1 0 0 1 1 -2
+p633
+aVErvin Johnson MIL 12/05/1999 MIL vs. DAL W 30 15 6 8 75.0 0 0 - 3 4 75.0 4 2 6 1 1 0 0 5 4
+p634
+aVGlenn Robinson MIL 12/05/1999 MIL vs. DAL W 30 17 8 17 47.1 0 3 0.0 1 2 50.0 2 4 6 3 1 1 5 3 -1
+p635
+aVRay Allen MIL 12/05/1999 MIL vs. DAL W 31 20 6 15 40.0 2 5 40.0 6 6 100.0 1 3 4 2 0 0 3 1 3
+p636
+aVVinny Del Negro MIL 12/05/1999 MIL vs. DAL W 21 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 3 2 0 1 0 10
+p637
+aVSam Cassell MIL 12/05/1999 MIL vs. DAL W 40 16 6 12 50.0 0 0 - 4 4 100.0 1 5 6 18 6 0 7 3 8
+p638
+aVRobert Traylor MIL 12/05/1999 MIL vs. DAL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -9
+p639
+aVScott Williams MIL 12/04/1999 MIL @ CHI W 21 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 0 2 1 0 2 10
+p640
+aVDale Ellis MIL 12/04/1999 MIL @ CHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 6
+p641
+aVJ.R. Reid MIL 12/04/1999 MIL @ CHI W 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 2 0 0 4 3
+p642
+aVGlenn Robinson MIL 12/04/1999 MIL @ CHI W 35 19 9 12 75.0 0 0 - 1 2 50.0 0 3 3 2 2 0 4 1 3
+p643
+aVErvin Johnson MIL 12/04/1999 MIL @ CHI W 23 4 2 3 66.7 0 0 - 0 0 - 0 6 6 0 3 1 1 6 -2
+p644
+aVVinny Del Negro MIL 12/04/1999 MIL @ CHI W 16 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 2 3 -1
+p645
+aVTim Thomas MIL 12/04/1999 MIL @ CHI W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 5 -4
+p646
+aVDanny Manning MIL 12/04/1999 MIL @ CHI W 36 15 7 11 63.6 0 0 - 1 2 50.0 2 4 6 3 1 3 1 4 -9
+p647
+aVSam Cassell MIL 12/04/1999 MIL @ CHI W 36 23 8 15 53.3 0 0 - 7 8 87.5 1 5 6 15 2 0 4 2 -3
+p648
+aVRay Allen MIL 12/04/1999 MIL @ CHI W 40 19 7 16 43.8 0 2 0.0 5 6 83.3 0 3 3 4 1 0 6 2 2
+p649
+aVSam Cassell MIL 12/02/1999 MIL vs. NYK L 37 16 3 9 33.3 0 0 - 10 11 90.9 0 4 4 4 0 1 4 3 -5
+p650
+aVRay Allen MIL 12/02/1999 MIL vs. NYK L 40 25 8 18 44.4 3 4 75.0 6 7 85.7 0 3 3 2 0 0 1 1 -9
+p651
+aVVinny Del Negro MIL 12/02/1999 MIL vs. NYK L 18 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 3 2 0 1 0 8
+p652
+aVDale Ellis MIL 12/02/1999 MIL vs. NYK L 23 2 1 7 14.3 0 6 0.0 0 0 - 0 0 0 2 0 0 0 1 3
+p653
+aVTim Thomas MIL 12/02/1999 MIL vs. NYK L 35 15 4 14 28.6 2 5 40.0 5 6 83.3 2 5 7 0 1 1 2 2 -1
+p654
+aVErvin Johnson MIL 12/02/1999 MIL vs. NYK L 31 7 2 4 50.0 0 0 - 3 4 75.0 4 5 9 0 1 1 2 3 -17
+p655
+aVJ.R. Reid MIL 12/02/1999 MIL vs. NYK L 16 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 1 0 2 2 13
+p656
+aVDanny Manning MIL 12/02/1999 MIL vs. NYK L 24 2 0 5 0.0 0 0 - 2 4 50.0 4 2 6 0 1 1 0 3 3
+p657
+aVRobert Traylor MIL 12/02/1999 MIL vs. NYK L 16 1 0 2 0.0 0 0 - 1 2 50.0 5 2 7 1 0 0 2 3 -15
+p658
+aVJ.R. Reid MIL 11/27/1999 MIL vs. PHI L 30 11 4 6 66.7 0 0 - 3 4 75.0 2 7 9 0 0 1 3 2 -12
+p659
+aVErvin Johnson MIL 11/27/1999 MIL vs. PHI L 21 2 0 0 - 0 0 - 2 2 100.0 3 3 6 0 1 5 3 4 0
+p660
+aVVinny Del Negro MIL 11/27/1999 MIL vs. PHI L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p661
+aVRay Allen MIL 11/27/1999 MIL vs. PHI L 41 23 9 25 36.0 2 9 22.2 3 3 100.0 2 5 7 5 0 1 1 2 -3
+p662
+aVDale Ellis MIL 11/27/1999 MIL vs. PHI L 18 5 2 5 40.0 1 4 25.0 0 0 - 0 2 2 0 0 0 1 2 5
+p663
+aVSam Cassell MIL 11/27/1999 MIL vs. PHI L 36 16 8 17 47.1 0 1 0.0 0 0 - 2 3 5 7 2 0 4 0 -3
+p664
+aVRobert Traylor MIL 11/27/1999 MIL vs. PHI L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 3 0 0 1 4
+p665
+aVDanny Manning MIL 11/27/1999 MIL vs. PHI L 11 5 1 3 33.3 0 0 - 3 4 75.0 0 0 0 1 0 1 1 0 3
+p666
+aVTim Thomas MIL 11/27/1999 MIL vs. PHI L 27 6 3 10 30.0 0 1 0.0 0 0 - 5 3 8 0 1 1 1 4 -7
+p667
+aVGlenn Robinson MIL 11/27/1999 MIL vs. PHI L 33 11 4 16 25.0 0 2 0.0 3 4 75.0 3 3 6 1 2 0 4 6 -3
+p668
+aVTim Thomas MIL 11/26/1999 MIL @ BOS W 28 17 6 6 100.0 1 1 100.0 4 4 100.0 0 4 4 0 0 0 1 4 3
+p669
+aVErvin Johnson MIL 11/26/1999 MIL @ BOS W 19 4 1 2 50.0 0 0 - 2 4 50.0 3 3 6 0 0 1 0 2 -14
+p670
+aVDale Ellis MIL 11/26/1999 MIL @ BOS W 20 2 1 2 50.0 0 1 0.0 0 0 - 1 5 6 0 1 0 1 2 11
+p671
+aVSam Cassell MIL 11/26/1999 MIL @ BOS W 37 28 9 21 42.9 0 1 0.0 10 10 100.0 1 4 5 12 1 0 3 3 0
+p672
+aVVinny Del Negro MIL 11/26/1999 MIL @ BOS W 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 3 0 1 0 4
+p673
+aVRobert Traylor MIL 11/26/1999 MIL @ BOS W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -10
+p674
+aVRay Allen MIL 11/26/1999 MIL @ BOS W 38 18 7 13 53.8 2 3 66.7 2 4 50.0 2 1 3 1 1 1 3 3 -5
+p675
+aVDanny Manning MIL 11/26/1999 MIL @ BOS W 23 15 6 7 85.7 0 0 - 3 3 100.0 0 3 3 0 3 0 0 5 14
+p676
+aVGlenn Robinson MIL 11/26/1999 MIL @ BOS W 32 21 10 18 55.6 1 2 50.0 0 2 0.0 2 2 4 1 1 0 2 0 3
+p677
+aVJ.R. Reid MIL 11/26/1999 MIL @ BOS W 23 7 2 8 25.0 0 0 - 3 4 75.0 3 3 6 3 0 0 0 1 4
+p678
+aVRay Allen MIL 11/24/1999 MIL vs. CHI W 39 18 6 13 46.2 0 3 0.0 6 8 75.0 1 4 5 3 2 0 1 5 2
+p679
+aVJ.R. Reid MIL 11/24/1999 MIL vs. CHI W 19 4 1 3 33.3 0 0 - 2 2 100.0 2 0 2 0 1 0 0 2 10
+p680
+aVGlenn Robinson MIL 11/24/1999 MIL vs. CHI W 32 22 9 17 52.9 0 0 - 4 4 100.0 1 2 3 0 1 1 2 3 -4
+p681
+aVDale Ellis MIL 11/24/1999 MIL vs. CHI W 24 17 7 12 58.3 3 6 50.0 0 0 - 1 0 1 0 0 0 1 1 13
+p682
+aVDanny Manning MIL 11/24/1999 MIL vs. CHI W 25 8 3 8 37.5 0 0 - 2 2 100.0 3 2 5 2 3 0 1 2 -2
+p683
+aVVinny Del Negro MIL 11/24/1999 MIL vs. CHI W 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 1 0 0 0 1
+p684
+aVSam Cassell MIL 11/24/1999 MIL vs. CHI W 32 10 2 12 16.7 0 0 - 6 6 100.0 0 3 3 6 2 0 3 2 0
+p685
+aVTim Thomas MIL 11/24/1999 MIL vs. CHI W 23 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 5 0 0 1 1 6
+p686
+aVRobert Traylor MIL 11/24/1999 MIL vs. CHI W 19 7 1 2 50.0 0 0 - 5 6 83.3 3 6 9 0 2 3 1 1 -1
+p687
+aVErvin Johnson MIL 11/24/1999 MIL vs. CHI W 20 4 0 1 0.0 0 0 - 4 4 100.0 2 2 4 0 0 1 0 4 10
+p688
+aVDanny Manning MIL 11/21/1999 MIL @ DET L 19 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -22
+p689
+aVErvin Johnson MIL 11/21/1999 MIL @ DET L 19 4 2 4 50.0 0 0 - 0 0 - 3 0 3 1 0 1 0 2 -2
+p690
+aVHaywoode Workman MIL 11/21/1999 MIL @ DET L 17 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 3 1 0 1 0 5
+p691
+aVJ.R. Reid MIL 11/21/1999 MIL @ DET L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -16
+p692
+aVSam Cassell MIL 11/21/1999 MIL @ DET L 25 8 4 12 33.3 0 0 - 0 0 - 1 0 1 4 1 0 4 4 -20
+p693
+aVDale Ellis MIL 11/21/1999 MIL @ DET L 15 5 2 4 50.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 3 -16
+p694
+aVScott Williams MIL 11/21/1999 MIL @ DET L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 7
+p695
+aVRobert Traylor MIL 11/21/1999 MIL @ DET L 22 6 3 7 42.9 0 1 0.0 0 2 0.0 3 5 8 0 2 0 2 4 2
+p696
+aVGlenn Robinson MIL 11/21/1999 MIL @ DET L 29 20 8 14 57.1 0 2 0.0 4 6 66.7 0 3 3 0 0 0 4 3 -13
+p697
+aVRay Allen MIL 11/21/1999 MIL @ DET L 37 33 13 15 86.7 4 5 80.0 3 3 100.0 0 4 4 10 4 1 2 3 -6
+p698
+aVTim Thomas MIL 11/21/1999 MIL @ DET L 28 3 1 5 20.0 0 3 0.0 1 4 25.0 0 2 2 2 1 0 1 3 -6
+p699
+aVVinny Del Negro MIL 11/21/1999 MIL @ DET L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -8
+p700
+aVSam Cassell MIL 11/20/1999 MIL vs. UTA L 35 8 4 13 30.8 0 0 - 0 0 - 0 4 4 9 1 0 3 0 -8
+p701
+aVErvin Johnson MIL 11/20/1999 MIL vs. UTA L 19 7 3 6 50.0 0 0 - 1 3 33.3 4 3 7 0 1 1 1 3 -6
+p702
+aVVinny Del Negro MIL 11/20/1999 MIL vs. UTA L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -13
+p703
+aVHaywoode Workman MIL 11/20/1999 MIL vs. UTA L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 2
+p704
+aVDanny Manning MIL 11/20/1999 MIL vs. UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -4
+p705
+aVRay Allen MIL 11/20/1999 MIL vs. UTA L 42 23 6 17 35.3 1 3 33.3 10 10 100.0 1 3 4 7 3 0 3 3 -3
+p706
+aVTim Thomas MIL 11/20/1999 MIL vs. UTA L 26 17 6 9 66.7 1 1 100.0 4 6 66.7 1 1 2 0 0 0 0 3 1
+p707
+aVGlenn Robinson MIL 11/20/1999 MIL vs. UTA L 36 18 7 13 53.8 1 3 33.3 3 4 75.0 0 8 8 3 0 1 3 2 -10
+p708
+aVRobert Traylor MIL 11/20/1999 MIL vs. UTA L 12 4 2 3 66.7 0 0 - 0 0 - 3 0 3 0 1 0 1 1 0
+p709
+aVDale Ellis MIL 11/20/1999 MIL vs. UTA L 20 8 4 7 57.1 0 2 0.0 0 1 0.0 0 1 1 0 0 0 0 3 -9
+p710
+aVJ.R. Reid MIL 11/20/1999 MIL vs. UTA L 27 15 6 8 75.0 0 0 - 3 4 75.0 1 1 2 2 2 0 2 5 -5
+p711
+aVRay Allen MIL 11/18/1999 MIL vs. SAS W 40 26 9 19 47.4 3 5 60.0 5 8 62.5 4 4 8 3 1 0 3 3 10
+p712
+aVDale Ellis MIL 11/18/1999 MIL vs. SAS W 20 13 5 8 62.5 3 6 50.0 0 0 - 1 1 2 0 0 0 1 1 14
+p713
+aVJ.R. Reid MIL 11/18/1999 MIL vs. SAS W 12 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 2 0 0 6 -1
+p714
+aVRobert Traylor MIL 11/18/1999 MIL vs. SAS W 16 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 3 3
+p715
+aVVinny Del Negro MIL 11/18/1999 MIL vs. SAS W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 1 0 0 1 1
+p716
+aVGlenn Robinson MIL 11/18/1999 MIL vs. SAS W 35 22 8 16 50.0 1 2 50.0 5 5 100.0 0 5 5 4 0 0 2 2 14
+p717
+aVErvin Johnson MIL 11/18/1999 MIL vs. SAS W 26 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 0 2 0 4 2
+p718
+aVSam Cassell MIL 11/18/1999 MIL vs. SAS W 31 19 7 18 38.9 1 1 100.0 4 4 100.0 2 3 5 3 0 0 5 2 6
+p719
+aVDanny Manning MIL 11/18/1999 MIL vs. SAS W 24 4 2 6 33.3 0 0 - 0 0 - 1 3 4 3 1 1 0 5 7
+p720
+aVTim Thomas MIL 11/18/1999 MIL vs. SAS W 21 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 2 1 0 2 1 -1
+p721
+aVDanny Manning MIL 11/16/1999 MIL vs. LAC W 21 4 2 4 50.0 0 0 - 0 0 - 0 3 3 3 0 1 1 4 9
+p722
+aVErvin Johnson MIL 11/16/1999 MIL vs. LAC W 24 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 0 1 2 0 4 0
+p723
+aVHaywoode Workman MIL 11/16/1999 MIL vs. LAC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 3
+p724
+aVRobert Traylor MIL 11/16/1999 MIL vs. LAC W 16 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -3
+p725
+aVTim Thomas MIL 11/16/1999 MIL vs. LAC W 22 4 1 4 25.0 0 1 0.0 2 2 100.0 1 4 5 2 1 0 1 2 9
+p726
+aVGlenn Robinson MIL 11/16/1999 MIL vs. LAC W 35 24 8 19 42.1 2 3 66.7 6 7 85.7 2 8 10 2 1 2 3 3 -1
+p727
+aVJ.R. Reid MIL 11/16/1999 MIL vs. LAC W 25 11 4 5 80.0 0 0 - 3 4 75.0 1 7 8 0 0 0 0 3 10
+p728
+aVVinny Del Negro MIL 11/16/1999 MIL vs. LAC W 17 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 2 1 0 1 0 6
+p729
+aVRay Allen MIL 11/16/1999 MIL vs. LAC W 35 19 7 16 43.8 1 4 25.0 4 5 80.0 1 2 3 6 0 0 2 3 0
+p730
+aVSam Cassell MIL 11/16/1999 MIL vs. LAC W 37 20 8 12 66.7 0 0 - 4 4 100.0 0 4 4 9 1 0 5 4 7
+p731
+aVRobert Traylor MIL 11/13/1999 MIL @ CLE L 21 5 2 3 66.7 0 0 - 1 2 50.0 5 5 10 1 2 4 1 5 -9
+p732
+aVRay Allen MIL 11/13/1999 MIL @ CLE L 25 22 7 14 50.0 1 4 25.0 7 7 100.0 1 1 2 5 2 0 4 5 -3
+p733
+aVSam Cassell MIL 11/13/1999 MIL @ CLE L 36 22 7 19 36.8 1 1 100.0 7 8 87.5 0 5 5 7 1 1 3 5 -1
+p734
+aVHaywoode Workman MIL 11/13/1999 MIL @ CLE L 19 5 2 7 28.6 1 2 50.0 0 0 - 0 2 2 2 1 0 0 3 7
+p735
+aVJ.R. Reid MIL 11/13/1999 MIL @ CLE L 29 6 3 4 75.0 0 0 - 0 0 - 2 2 4 2 0 1 1 3 6
+p736
+aVTim Thomas MIL 11/13/1999 MIL @ CLE L 16 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 0 1 2 2 5 -7
+p737
+aVDale Ellis MIL 11/13/1999 MIL @ CLE L 15 5 2 9 22.2 1 6 16.7 0 1 0.0 1 1 2 1 0 0 0 1 -5
+p738
+aVGlenn Robinson MIL 11/13/1999 MIL @ CLE L 38 32 9 17 52.9 1 1 100.0 13 17 76.5 1 8 9 6 0 0 8 1 2
+p739
+aVErvin Johnson MIL 11/13/1999 MIL @ CLE L 19 7 3 4 75.0 0 0 - 1 1 100.0 3 2 5 0 0 2 1 5 1
+p740
+aVDanny Manning MIL 11/13/1999 MIL @ CLE L 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -12
+p741
+aVVinny Del Negro MIL 11/13/1999 MIL @ CLE L 14 2 0 4 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 1 -4
+p742
+aVRay Allen MIL 11/12/1999 MIL vs. PHX W 32 20 6 15 40.0 2 3 66.7 6 6 100.0 0 1 1 5 1 0 1 3 9
+p743
+aVRobert Traylor MIL 11/12/1999 MIL vs. PHX W 11 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 0 0 4 -5
+p744
+aVGlenn Robinson MIL 11/12/1999 MIL vs. PHX W 38 27 11 18 61.1 2 4 50.0 3 4 75.0 1 11 12 5 0 1 0 3 11
+p745
+aVVinny Del Negro MIL 11/12/1999 MIL vs. PHX W 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -3
+p746
+aVErvin Johnson MIL 11/12/1999 MIL vs. PHX W 24 7 3 3 100.0 0 0 - 1 2 50.0 3 5 8 0 1 1 0 5 22
+p747
+aVDale Ellis MIL 11/12/1999 MIL vs. PHX W 18 5 2 5 40.0 1 4 25.0 0 0 - 1 2 3 0 0 0 0 1 5
+p748
+aVTim Thomas MIL 11/12/1999 MIL vs. PHX W 25 9 3 7 42.9 0 1 0.0 3 3 100.0 0 1 1 2 2 0 1 3 10
+p749
+aVSam Cassell MIL 11/12/1999 MIL vs. PHX W 34 19 7 13 53.8 0 2 0.0 5 7 71.4 0 2 2 14 2 0 3 1 18
+p750
+aVDanny Manning MIL 11/12/1999 MIL vs. PHX W 20 6 2 5 40.0 0 0 - 2 3 66.7 0 3 3 0 0 0 3 4 3
+p751
+aVJ.R. Reid MIL 11/12/1999 MIL vs. PHX W 26 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 1 0 2 2 5
+p752
+aVErvin Johnson MIL 11/10/1999 MIL @ CHH L 23 6 2 3 66.7 0 0 - 2 2 100.0 4 2 6 1 2 2 1 4 -15
+p753
+aVDale Ellis MIL 11/10/1999 MIL @ CHH L 17 9 3 4 75.0 3 4 75.0 0 0 - 1 1 2 0 0 0 0 1 1
+p754
+aVRay Allen MIL 11/10/1999 MIL @ CHH L 37 24 8 18 44.4 3 6 50.0 5 5 100.0 1 3 4 2 1 0 1 2 -4
+p755
+aVGlenn Robinson MIL 11/10/1999 MIL @ CHH L 36 24 8 16 50.0 3 5 60.0 5 6 83.3 3 6 9 0 0 0 2 1 0
+p756
+aVSam Cassell MIL 11/10/1999 MIL @ CHH L 33 21 6 13 46.2 0 0 - 9 10 90.0 0 1 1 9 0 0 3 3 0
+p757
+aVDanny Manning MIL 11/10/1999 MIL @ CHH L 20 3 1 5 20.0 0 0 - 1 2 50.0 0 1 1 2 2 0 1 6 -20
+p758
+aVVinny Del Negro MIL 11/10/1999 MIL @ CHH L 13 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -7
+p759
+aVRobert Traylor MIL 11/10/1999 MIL @ CHH L 16 6 3 3 100.0 0 0 - 0 0 - 2 1 3 3 0 1 0 3 14
+p760
+aVJ.R. Reid MIL 11/10/1999 MIL @ CHH L 31 7 2 5 40.0 0 0 - 3 4 75.0 2 6 8 1 1 0 1 5 5
+p761
+aVHaywoode Workman MIL 11/10/1999 MIL @ CHH L 14 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 2 0 0 4 3 -4
+p762
+aVDanny Manning MIL 11/08/1999 MIL @ NYK L 33 15 6 9 66.7 0 0 - 3 5 60.0 1 6 7 1 1 1 1 4 -3
+p763
+aVErvin Johnson MIL 11/08/1999 MIL @ NYK L 21 3 1 2 50.0 0 0 - 1 5 20.0 2 2 4 0 0 3 1 4 -3
+p764
+aVVinny Del Negro MIL 11/08/1999 MIL @ NYK L 16 6 2 4 50.0 0 1 0.0 2 2 100.0 0 4 4 3 0 0 0 2 4
+p765
+aVSam Cassell MIL 11/08/1999 MIL @ NYK L 40 14 5 16 31.3 0 4 0.0 4 4 100.0 0 5 5 10 4 0 4 6 -7
+p766
+aVJ.R. Reid MIL 11/08/1999 MIL @ NYK L 34 4 1 4 25.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 2 -5
+p767
+aVRay Allen MIL 11/08/1999 MIL @ NYK L 43 18 6 19 31.6 2 5 40.0 4 5 80.0 1 3 4 1 1 0 2 2 -20
+p768
+aVGlenn Robinson MIL 11/08/1999 MIL @ NYK L 41 23 10 25 40.0 1 2 50.0 2 2 100.0 4 5 9 0 0 0 2 3 -13
+p769
+aVDale Ellis MIL 11/08/1999 MIL @ NYK L 21 12 3 6 50.0 2 4 50.0 4 4 100.0 0 3 3 0 1 0 1 2 3
+p770
+aVRobert Traylor MIL 11/08/1999 MIL @ NYK L 16 6 2 6 33.3 0 0 - 2 2 100.0 5 2 7 1 0 2 2 3 -6
+p771
+aVVinny Del Negro MIL 11/06/1999 MIL vs. DET W 15 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 4
+p772
+aVSam Cassell MIL 11/06/1999 MIL vs. DET W 32 28 10 16 62.5 1 1 100.0 7 8 87.5 0 3 3 8 0 0 2 5 9
+p773
+aVHaywoode Workman MIL 11/06/1999 MIL vs. DET W 16 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 4 1 0 1 2 1
+p774
+aVDanny Manning MIL 11/06/1999 MIL vs. DET W 27 13 5 9 55.6 0 0 - 3 4 75.0 1 4 5 3 4 1 1 4 9
+p775
+aVJ.R. Reid MIL 11/06/1999 MIL vs. DET W 26 4 2 6 33.3 0 0 - 0 0 - 3 5 8 0 1 0 1 2 -4
+p776
+aVRay Allen MIL 11/06/1999 MIL vs. DET W 32 26 8 19 42.1 3 6 50.0 7 7 100.0 1 6 7 5 0 1 1 5 12
+p777
+aVTim Thomas MIL 11/06/1999 MIL vs. DET W 14 5 2 7 28.6 1 3 33.3 0 0 - 1 1 2 1 2 1 0 2 -11
+p778
+aVRobert Traylor MIL 11/06/1999 MIL vs. DET W 16 7 3 4 75.0 0 0 - 1 1 100.0 0 3 3 1 0 1 1 2 -6
+p779
+aVDale Ellis MIL 11/06/1999 MIL vs. DET W 29 13 5 8 62.5 2 4 50.0 1 2 50.0 0 5 5 0 3 0 1 1 19
+p780
+aVGlenn Robinson MIL 11/06/1999 MIL vs. DET W 32 15 7 13 53.8 1 2 50.0 0 0 - 1 2 3 7 1 1 1 3 17
+p781
+aVErvin Johnson MIL 11/04/1999 MIL @ ATL W 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 1
+p782
+aVDale Ellis MIL 11/04/1999 MIL @ ATL W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 2 10
+p783
+aVHaywoode Workman MIL 11/04/1999 MIL @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p784
+aVTim Thomas MIL 11/04/1999 MIL @ ATL W 25 17 6 13 46.2 0 1 0.0 5 6 83.3 4 4 8 2 2 0 2 2 8
+p785
+aVSam Cassell MIL 11/04/1999 MIL @ ATL W 32 24 9 13 69.2 0 1 0.0 6 6 100.0 0 2 2 8 3 0 4 3 2
+p786
+aVJ.R. Reid MIL 11/04/1999 MIL @ ATL W 23 3 0 2 0.0 0 0 - 3 4 75.0 1 2 3 2 2 0 1 3 7
+p787
+aVRay Allen MIL 11/04/1999 MIL @ ATL W 35 31 10 23 43.5 3 7 42.9 8 8 100.0 2 3 5 2 1 0 0 1 9
+p788
+aVRobert Traylor MIL 11/04/1999 MIL @ ATL W 17 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 0 1 2 1 3 5
+p789
+aVVinny Del Negro MIL 11/04/1999 MIL @ ATL W 15 4 0 2 0.0 0 0 - 4 4 100.0 0 2 2 4 0 0 0 0 4
+p790
+aVGlenn Robinson MIL 11/04/1999 MIL @ ATL W 35 16 6 17 35.3 0 0 - 4 4 100.0 2 4 6 5 3 4 1 2 2
+p791
+aVDanny Manning MIL 11/04/1999 MIL @ ATL W 26 12 5 10 50.0 0 0 - 2 2 100.0 1 6 7 1 3 0 0 4 4
+p792
+aVTim Thomas MIL 11/02/1999 MIL @ HOU W 18 11 4 8 50.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 1 2 -9
+p793
+aVDale Ellis MIL 11/02/1999 MIL @ HOU W 17 5 2 6 33.3 1 3 33.3 0 0 - 1 2 3 1 0 0 0 0 -2
+p794
+aVRobert Traylor MIL 11/02/1999 MIL @ HOU W 15 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 1 0 2 6
+p795
+aVVinny Del Negro MIL 11/02/1999 MIL @ HOU W 21 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 1 0 0 2 -7
+p796
+aVSam Cassell MIL 11/02/1999 MIL @ HOU W 38 35 15 20 75.0 0 1 0.0 5 7 71.4 1 2 3 11 1 0 4 5 8
+p797
+aVHaywoode Workman MIL 11/02/1999 MIL @ HOU W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 0 -8
+p798
+aVJ.R. Reid MIL 11/02/1999 MIL @ HOU W 25 5 0 3 0.0 0 0 - 5 6 83.3 0 4 4 1 0 0 0 5 4
+p799
+aVErvin Johnson MIL 11/02/1999 MIL @ HOU W 14 1 0 1 0.0 0 0 - 1 4 25.0 4 3 7 0 1 0 0 2 1
+p800
+aVRay Allen MIL 11/02/1999 MIL @ HOU W 30 19 8 14 57.1 0 1 0.0 3 4 75.0 0 4 4 2 1 0 1 3 20
+p801
+aVGlenn Robinson MIL 11/02/1999 MIL @ HOU W 34 13 5 15 33.3 1 1 100.0 2 2 100.0 1 4 5 0 3 0 1 0 12
+p802
+aVDanny Manning MIL 11/02/1999 MIL @ HOU W 23 8 4 7 57.1 0 0 - 0 1 0.0 1 3 4 1 2 1 0 4 0
+p803
+a.

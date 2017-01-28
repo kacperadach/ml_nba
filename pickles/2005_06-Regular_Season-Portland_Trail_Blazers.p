@@ -1,0 +1,1748 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBrian Skinner POR 04/19/2006 POR vs. PHX L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p2
+aVSebastian Telfair POR 04/19/2006 POR vs. PHX L 30 13 5 11 45.5 1 3 33.3 2 2 100.0 1 2 3 5 4 0 1 2 -10
+p3
+aVHa Seung-Jin POR 04/19/2006 POR vs. PHX L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 2 0 1 0 5
+p4
+aVMartell Webster POR 04/19/2006 POR vs. PHX L 29 17 4 12 33.3 0 6 0.0 9 10 90.0 1 3 4 1 1 0 2 4 -4
+p5
+aVTravis Outlaw POR 04/19/2006 POR vs. PHX L 31 14 6 11 54.5 0 0 - 2 2 100.0 3 7 10 2 0 1 2 4 -6
+p6
+aVSteve Blake POR 04/19/2006 POR vs. PHX L 19 0 0 4 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -10
+p7
+aVTheo Ratliff POR 04/19/2006 POR vs. PHX L 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 4 2 -8
+p8
+aVJarrett Jack POR 04/19/2006 POR vs. PHX L 29 18 7 12 58.3 1 2 50.0 3 3 100.0 1 3 4 4 0 0 2 1 -2
+p9
+aVVoshon Lenard POR 04/19/2006 POR vs. PHX L 19 14 5 8 62.5 1 3 33.3 3 5 60.0 0 0 0 1 0 0 0 2 3
+p10
+aVViktor Khryapa POR 04/19/2006 POR vs. PHX L 33 11 3 7 42.9 0 1 0.0 5 9 55.6 2 10 12 2 3 1 2 2 -11
+p11
+aVJuan Dixon POR 04/19/2006 POR vs. PHX L 18 9 3 10 30.0 1 3 33.3 2 2 100.0 0 2 2 1 1 0 1 0 -6
+p12
+aVJuan Dixon POR 04/17/2006 POR @ GSW L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -12
+p13
+aVHa Seung-Jin POR 04/17/2006 POR @ GSW L 18 6 3 3 100.0 0 0 - 0 1 0.0 0 1 1 0 0 1 0 3 -1
+p14
+aVBrian Skinner POR 04/17/2006 POR @ GSW L 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 -16
+p15
+aVTheo Ratliff POR 04/17/2006 POR @ GSW L 26 0 0 4 0.0 0 0 - 0 2 0.0 0 0 0 0 3 1 1 2 -6
+p16
+aVVoshon Lenard POR 04/17/2006 POR @ GSW L 22 10 4 11 36.4 2 7 28.6 0 0 - 0 3 3 4 0 0 2 3 -14
+p17
+aVTravis Outlaw POR 04/17/2006 POR @ GSW L 36 19 8 12 66.7 2 3 66.7 1 2 50.0 1 2 3 1 1 2 3 3 -5
+p18
+aVSebastian Telfair POR 04/17/2006 POR @ GSW L 25 9 4 11 36.4 0 2 0.0 1 1 100.0 0 4 4 4 1 0 2 2 4
+p19
+aVJarrett Jack POR 04/17/2006 POR @ GSW L 28 11 4 9 44.4 0 3 0.0 3 3 100.0 2 3 5 5 0 0 2 1 -9
+p20
+aVMartell Webster POR 04/17/2006 POR @ GSW L 31 11 4 9 44.4 1 5 20.0 2 2 100.0 1 3 4 3 4 1 2 2 -3
+p21
+aVViktor Khryapa POR 04/17/2006 POR @ GSW L 30 9 4 8 50.0 1 2 50.0 0 0 - 4 2 6 1 0 0 2 3 -8
+p22
+aVDarius Miles POR 04/15/2006 POR vs. GSW L 25 8 4 5 80.0 0 0 - 0 1 0.0 0 5 5 0 1 1 3 3 6
+p23
+aVTheo Ratliff POR 04/15/2006 POR vs. GSW L 29 6 3 6 50.0 0 0 - 0 0 - 1 7 8 2 0 4 1 5 -1
+p24
+aVHa Seung-Jin POR 04/15/2006 POR vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p25
+aVViktor Khryapa POR 04/15/2006 POR vs. GSW L 26 2 1 6 16.7 0 0 - 0 0 - 0 4 4 0 0 1 1 2 -15
+p26
+aVBrian Skinner POR 04/15/2006 POR vs. GSW L 14 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 4 -3
+p27
+aVTravis Outlaw POR 04/15/2006 POR vs. GSW L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 0 1 0 2 2 -6
+p28
+aVMartell Webster POR 04/15/2006 POR vs. GSW L 40 17 7 13 53.8 3 4 75.0 0 0 - 1 5 6 2 2 1 0 1 1
+p29
+aVSteve Blake POR 04/15/2006 POR vs. GSW L 14 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 2 0 0 0 2 3
+p30
+aVJuan Dixon POR 04/15/2006 POR vs. GSW L 32 17 6 11 54.5 1 2 50.0 4 5 80.0 0 0 0 0 0 0 1 3 0
+p31
+aVSebastian Telfair POR 04/15/2006 POR vs. GSW L 26 12 5 11 45.5 1 5 20.0 1 2 50.0 0 2 2 3 2 0 5 1 -7
+p32
+aVJarrett Jack POR 04/15/2006 POR vs. GSW L 19 15 6 10 60.0 0 1 0.0 3 6 50.0 1 1 2 3 0 0 1 4 -5
+p33
+aVTravis Outlaw POR 04/14/2006 POR @ LAL L 35 15 5 9 55.6 2 3 66.7 3 4 75.0 1 4 5 1 2 0 0 2 -3
+p34
+aVMartell Webster POR 04/14/2006 POR @ LAL L 31 18 7 10 70.0 2 3 66.7 2 3 66.7 1 4 5 0 0 0 0 3 -4
+p35
+aVTheo Ratliff POR 04/14/2006 POR @ LAL L 22 10 4 7 57.1 0 0 - 2 2 100.0 0 3 3 0 0 4 3 5 0
+p36
+aVSebastian Telfair POR 04/14/2006 POR @ LAL L 27 15 6 11 54.5 0 1 0.0 3 4 75.0 0 0 0 7 0 0 3 3 -12
+p37
+aVJarrett Jack POR 04/14/2006 POR @ LAL L 25 8 2 4 50.0 0 0 - 4 5 80.0 0 2 2 11 0 0 4 3 -5
+p38
+aVSteve Blake POR 04/14/2006 POR @ LAL L 23 9 3 8 37.5 3 5 60.0 0 0 - 1 1 2 3 1 0 1 1 -6
+p39
+aVBrian Skinner POR 04/14/2006 POR @ LAL L 26 2 1 4 25.0 0 0 - 0 2 0.0 2 5 7 0 0 2 1 3 -11
+p40
+aVViktor Khryapa POR 04/14/2006 POR @ LAL L 30 10 5 9 55.6 0 0 - 0 1 0.0 1 7 8 1 0 0 1 3 -15
+p41
+aVJuan Dixon POR 04/14/2006 POR @ LAL L 21 12 5 12 41.7 0 1 0.0 2 3 66.7 1 1 2 1 0 0 1 3 1
+p42
+aVBrian Skinner POR 04/12/2006 POR @ LAC L 20 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 1 2 1 1 1 -3
+p43
+aVMartell Webster POR 04/12/2006 POR @ LAC L 26 11 5 11 45.5 1 4 25.0 0 0 - 2 0 2 0 0 0 2 3 -8
+p44
+aVJarrett Jack POR 04/12/2006 POR @ LAC L 33 20 8 12 66.7 0 1 0.0 4 5 80.0 0 3 3 7 1 0 0 5 -6
+p45
+aVTravis Outlaw POR 04/12/2006 POR @ LAC L 26 8 3 8 37.5 0 1 0.0 2 4 50.0 3 6 9 0 1 0 2 3 0
+p46
+aVSebastian Telfair POR 04/12/2006 POR @ LAC L 18 7 3 10 30.0 0 1 0.0 1 2 50.0 0 0 0 3 2 0 3 2 2
+p47
+aVTheo Ratliff POR 04/12/2006 POR @ LAC L 28 11 4 5 80.0 0 0 - 3 4 75.0 0 6 6 1 0 1 0 1 -1
+p48
+aVVoshon Lenard POR 04/12/2006 POR @ LAC L 24 5 2 10 20.0 1 5 20.0 0 0 - 0 4 4 2 2 0 2 3 -1
+p49
+aVSteve Blake POR 04/12/2006 POR @ LAC L 29 9 3 8 37.5 3 5 60.0 0 0 - 0 1 1 2 1 0 1 2 3
+p50
+aVViktor Khryapa POR 04/12/2006 POR @ LAC L 36 14 5 9 55.6 0 0 - 4 7 57.1 3 3 6 4 1 0 1 2 -6
+p51
+aVTravis Outlaw POR 04/10/2006 POR vs. DEN L 27 14 4 10 40.0 1 1 100.0 5 6 83.3 5 2 7 1 2 1 0 1 -15
+p52
+aVBrian Skinner POR 04/10/2006 POR vs. DEN L 11 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -19
+p53
+aVTheo Ratliff POR 04/10/2006 POR vs. DEN L 24 8 4 7 57.1 0 0 - 0 0 - 3 4 7 1 1 0 1 3 4
+p54
+aVJuan Dixon POR 04/10/2006 POR vs. DEN L 14 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 2 1 0 2 0 -17
+p55
+aVZach Randolph POR 04/10/2006 POR vs. DEN L 25 11 5 15 33.3 1 2 50.0 0 0 - 1 3 4 2 2 0 3 2 -21
+p56
+aVSebastian Telfair POR 04/10/2006 POR vs. DEN L 26 21 7 12 58.3 1 3 33.3 6 7 85.7 0 0 0 4 2 0 5 5 2
+p57
+aVViktor Khryapa POR 04/10/2006 POR vs. DEN L 26 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 0 1 3 3 14
+p58
+aVSteve Blake POR 04/10/2006 POR vs. DEN L 22 6 2 6 33.3 2 3 66.7 0 0 - 1 1 2 8 1 0 2 0 -14
+p59
+aVVoshon Lenard POR 04/10/2006 POR vs. DEN L 32 21 6 12 50.0 4 7 57.1 5 5 100.0 1 3 4 3 2 0 6 0 2
+p60
+aVMartell Webster POR 04/10/2006 POR vs. DEN L 33 12 4 11 36.4 4 8 50.0 0 0 - 1 4 5 2 0 1 0 2 4
+p61
+aVTheo Ratliff POR 04/08/2006 POR @ UTA L 28 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 1 0 0 4 -13
+p62
+aVMartell Webster POR 04/08/2006 POR @ UTA L 16 6 2 6 33.3 2 5 40.0 0 0 - 0 1 1 0 1 0 0 4 -4
+p63
+aVJarrett Jack POR 04/08/2006 POR @ UTA L 17 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 4 -5
+p64
+aVZach Randolph POR 04/08/2006 POR @ UTA L 43 28 9 19 47.4 0 2 0.0 10 19 52.6 5 4 9 3 3 0 6 4 -16
+p65
+aVVoshon Lenard POR 04/08/2006 POR @ UTA L 16 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 0 4 -9
+p66
+aVBrian Skinner POR 04/08/2006 POR @ UTA L 19 4 2 2 100.0 0 0 - 0 2 0.0 3 6 9 0 0 4 1 3 2
+p67
+aVSteve Blake POR 04/08/2006 POR @ UTA L 27 12 4 7 57.1 2 4 50.0 2 2 100.0 0 0 0 3 1 0 2 2 -23
+p68
+aVViktor Khryapa POR 04/08/2006 POR @ UTA L 4 3 0 1 0.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 0 -2
+p69
+aVDarius Miles POR 04/08/2006 POR @ UTA L 32 13 5 8 62.5 0 0 - 3 5 60.0 0 4 4 0 0 0 1 1 -7
+p70
+aVTravis Outlaw POR 04/08/2006 POR @ UTA L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 3
+p71
+aVSebastian Telfair POR 04/08/2006 POR @ UTA L 22 10 3 9 33.3 0 0 - 4 6 66.7 0 0 0 6 0 0 1 2 0
+p72
+aVJuan Dixon POR 04/08/2006 POR @ UTA L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -11
+p73
+aVBrian Skinner POR 04/07/2006 POR vs. SEA L 17 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -5
+p74
+aVTheo Ratliff POR 04/07/2006 POR vs. SEA L 31 14 5 8 62.5 0 0 - 4 4 100.0 5 4 9 1 0 2 0 3 -7
+p75
+aVVoshon Lenard POR 04/07/2006 POR vs. SEA L 21 5 2 6 33.3 1 4 25.0 0 2 0.0 0 1 1 3 1 0 3 1 -11
+p76
+aVViktor Khryapa POR 04/07/2006 POR vs. SEA L 13 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -12
+p77
+aVDarius Miles POR 04/07/2006 POR vs. SEA L 29 10 5 13 38.5 0 0 - 0 0 - 1 4 5 3 1 0 2 0 -4
+p78
+aVJuan Dixon POR 04/07/2006 POR vs. SEA L 32 28 11 17 64.7 1 4 25.0 5 7 71.4 2 2 4 2 1 0 4 3 0
+p79
+aVZach Randolph POR 04/07/2006 POR vs. SEA L 27 13 4 7 57.1 0 0 - 5 5 100.0 0 3 3 2 1 0 1 0 0
+p80
+aVSebastian Telfair POR 04/07/2006 POR vs. SEA L 24 15 5 9 55.6 1 2 50.0 4 6 66.7 0 0 0 6 3 0 0 3 -11
+p81
+aVSteve Blake POR 04/07/2006 POR vs. SEA L 24 5 1 4 25.0 1 1 100.0 2 3 66.7 1 1 2 7 1 0 1 1 -1
+p82
+aVMartell Webster POR 04/07/2006 POR vs. SEA L 21 8 4 10 40.0 0 5 0.0 0 0 - 1 2 3 1 1 1 2 4 -9
+p83
+aVSebastian Telfair POR 04/05/2006 POR vs. HOU W 28 13 6 9 66.7 0 1 0.0 1 1 100.0 2 3 5 5 0 0 2 3 3
+p84
+aVVoshon Lenard POR 04/05/2006 POR vs. HOU W 24 14 5 10 50.0 3 6 50.0 1 2 50.0 0 2 2 2 3 0 2 0 2
+p85
+aVJoel Przybilla POR 04/05/2006 POR vs. HOU W 24 3 0 1 0.0 0 0 - 3 4 75.0 2 8 10 1 0 1 1 2 5
+p86
+aVJuan Dixon POR 04/05/2006 POR vs. HOU W 36 13 5 10 50.0 2 3 66.7 1 2 50.0 0 0 0 1 0 0 2 1 2
+p87
+aVTheo Ratliff POR 04/05/2006 POR vs. HOU W 24 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 1 4 1 4 -4
+p88
+aVTravis Outlaw POR 04/05/2006 POR vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p89
+aVSteve Blake POR 04/05/2006 POR vs. HOU W 25 4 2 6 33.3 0 4 0.0 0 0 - 0 2 2 1 0 0 2 0 -3
+p90
+aVZach Randolph POR 04/05/2006 POR vs. HOU W 44 17 6 19 31.6 0 2 0.0 5 6 83.3 1 7 8 2 2 0 5 1 6
+p91
+aVViktor Khryapa POR 04/05/2006 POR vs. HOU W 10 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 2 1
+p92
+aVDarius Miles POR 04/05/2006 POR vs. HOU W 24 5 1 7 14.3 0 0 - 3 4 75.0 0 3 3 1 3 0 1 0 -7
+p93
+aVTravis Outlaw POR 04/02/2006 POR @ SEA L 14 3 0 1 0.0 0 0 - 3 4 75.0 0 2 2 0 0 1 1 1 -10
+p94
+aVViktor Khryapa POR 04/02/2006 POR @ SEA L 17 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -23
+p95
+aVMartell Webster POR 04/02/2006 POR @ SEA L 29 14 3 10 30.0 0 4 0.0 8 8 100.0 3 3 6 1 1 1 1 2 -25
+p96
+aVJoel Przybilla POR 04/02/2006 POR @ SEA L 33 6 2 5 40.0 0 0 - 2 4 50.0 1 4 5 1 0 9 1 3 -29
+p97
+aVZach Randolph POR 04/02/2006 POR @ SEA L 14 5 2 10 20.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 2 -10
+p98
+aVJuan Dixon POR 04/02/2006 POR @ SEA L 18 8 1 6 16.7 1 3 33.3 5 5 100.0 0 1 1 1 1 0 1 4 -23
+p99
+aVSteve Blake POR 04/02/2006 POR @ SEA L 28 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 4 3 0 1 1 -11
+p100
+aVSebastian Telfair POR 04/02/2006 POR @ SEA L 22 14 7 13 53.8 0 1 0.0 0 0 - 0 1 1 2 2 0 1 2 -20
+p101
+aVDarius Miles POR 04/02/2006 POR @ SEA L 28 11 5 11 45.5 0 0 - 1 3 33.3 1 5 6 2 0 0 1 2 -13
+p102
+aVJarrett Jack POR 04/02/2006 POR @ SEA L 25 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 2 -19
+p103
+aVBrian Skinner POR 04/02/2006 POR @ SEA L 12 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -12
+p104
+aVZach Randolph POR 04/01/2006 POR vs. UTA L 41 24 7 16 43.8 0 2 0.0 10 13 76.9 2 6 8 2 0 0 2 5 -10
+p105
+aVMartell Webster POR 04/01/2006 POR vs. UTA L 33 23 10 17 58.8 3 6 50.0 0 0 - 1 3 4 1 1 0 0 2 -8
+p106
+aVJarrett Jack POR 04/01/2006 POR vs. UTA L 32 12 3 8 37.5 1 2 50.0 5 6 83.3 0 2 2 8 2 0 1 5 -1
+p107
+aVSebastian Telfair POR 04/01/2006 POR vs. UTA L 16 6 2 4 50.0 0 0 - 2 4 50.0 1 2 3 1 0 0 0 3 -12
+p108
+aVTravis Outlaw POR 04/01/2006 POR vs. UTA L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 2 1 1 1 0 -6
+p109
+aVViktor Khryapa POR 04/01/2006 POR vs. UTA L 20 6 3 3 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 5 -4
+p110
+aVDarius Miles POR 04/01/2006 POR vs. UTA L 17 2 1 5 20.0 0 0 - 0 2 0.0 0 1 1 0 1 0 1 1 -6
+p111
+aVJoel Przybilla POR 04/01/2006 POR vs. UTA L 29 6 3 4 75.0 0 0 - 0 0 - 2 6 8 1 0 2 2 2 5
+p112
+aVJuan Dixon POR 04/01/2006 POR vs. UTA L 16 6 2 12 16.7 1 4 25.0 1 2 50.0 0 0 0 0 0 0 0 0 -6
+p113
+aVBrian Skinner POR 04/01/2006 POR vs. UTA L 20 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 1 2 -17
+p114
+aVJuan Dixon POR 03/29/2006 POR vs. SAC L 12 6 2 5 40.0 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 0 -16
+p115
+aVSebastian Telfair POR 03/29/2006 POR vs. SAC L 19 6 1 5 20.0 1 2 50.0 3 4 75.0 0 0 0 2 0 0 0 0 -13
+p116
+aVViktor Khryapa POR 03/29/2006 POR vs. SAC L 34 18 8 16 50.0 1 3 33.3 1 1 100.0 1 4 5 3 0 1 1 5 1
+p117
+aVJoel Przybilla POR 03/29/2006 POR vs. SAC L 39 5 2 6 33.3 0 0 - 1 4 25.0 5 7 12 2 2 2 0 3 1
+p118
+aVDarius Miles POR 03/29/2006 POR vs. SAC L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -8
+p119
+aVMartell Webster POR 03/29/2006 POR vs. SAC L 15 6 1 2 50.0 0 0 - 4 4 100.0 0 3 3 0 0 0 0 3 -5
+p120
+aVSteve Blake POR 03/29/2006 POR vs. SAC L 33 17 7 11 63.6 2 2 100.0 1 1 100.0 0 4 4 5 1 0 1 3 -6
+p121
+aVBrian Skinner POR 03/29/2006 POR vs. SAC L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -11
+p122
+aVTravis Outlaw POR 03/29/2006 POR vs. SAC L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 1 1 0 -15
+p123
+aVJarrett Jack POR 03/29/2006 POR vs. SAC L 32 12 4 8 50.0 2 2 100.0 2 2 100.0 1 0 1 5 2 0 1 0 3
+p124
+aVZach Randolph POR 03/29/2006 POR vs. SAC L 35 14 7 16 43.8 0 2 0.0 0 0 - 2 5 7 2 0 1 2 3 -11
+p125
+aVZach Randolph POR 03/26/2006 POR vs. LAC L 22 4 1 7 14.3 0 1 0.0 2 2 100.0 0 2 2 1 1 0 1 4 -17
+p126
+aVViktor Khryapa POR 03/26/2006 POR vs. LAC L 26 2 1 8 12.5 0 0 - 0 0 - 3 3 6 0 1 0 6 5 -3
+p127
+aVJarrett Jack POR 03/26/2006 POR vs. LAC L 32 16 2 8 25.0 1 1 100.0 11 12 91.7 0 1 1 4 0 0 3 3 -1
+p128
+aVSteve Blake POR 03/26/2006 POR vs. LAC L 17 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 2 0 0 2 0 -13
+p129
+aVBrian Skinner POR 03/26/2006 POR vs. LAC L 24 2 1 3 33.3 0 0 - 0 0 - 3 7 10 1 0 1 1 2 5
+p130
+aVJoel Przybilla POR 03/26/2006 POR vs. LAC L 21 3 1 2 50.0 0 0 - 1 4 25.0 1 5 6 0 0 2 0 3 -22
+p131
+aVMartell Webster POR 03/26/2006 POR vs. LAC L 32 13 4 9 44.4 3 5 60.0 2 2 100.0 1 4 5 0 2 0 0 1 -9
+p132
+aVSebastian Telfair POR 03/26/2006 POR vs. LAC L 24 5 2 7 28.6 0 2 0.0 1 4 25.0 2 0 2 3 3 0 0 2 5
+p133
+aVHa Seung-Jin POR 03/26/2006 POR vs. LAC L 3 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 2
+p134
+aVJuan Dixon POR 03/26/2006 POR vs. LAC L 23 15 5 13 38.5 1 5 20.0 4 4 100.0 2 3 5 0 0 0 1 0 -16
+p135
+aVTravis Outlaw POR 03/26/2006 POR vs. LAC L 16 19 5 8 62.5 1 1 100.0 8 9 88.9 0 1 1 0 2 1 2 4 -1
+p136
+aVZach Randolph POR 03/24/2006 POR vs. SAS L 31 11 4 15 26.7 0 1 0.0 3 4 75.0 3 4 7 1 1 0 1 2 -8
+p137
+aVJarrett Jack POR 03/24/2006 POR vs. SAS L 17 8 3 6 50.0 0 0 - 2 2 100.0 0 0 0 3 0 0 2 1 -14
+p138
+aVJuan Dixon POR 03/24/2006 POR vs. SAS L 29 24 9 17 52.9 1 2 50.0 5 5 100.0 1 4 5 0 1 0 4 1 -2
+p139
+aVViktor Khryapa POR 03/24/2006 POR vs. SAS L 22 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -18
+p140
+aVHa Seung-Jin POR 03/24/2006 POR vs. SAS L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p141
+aVSebastian Telfair POR 03/24/2006 POR vs. SAS L 21 3 1 6 16.7 0 1 0.0 1 2 50.0 0 0 0 3 2 0 0 1 -13
+p142
+aVMartell Webster POR 03/24/2006 POR vs. SAS L 26 8 3 7 42.9 1 3 33.3 1 2 50.0 1 2 3 2 0 0 0 0 -1
+p143
+aVJoel Przybilla POR 03/24/2006 POR vs. SAS L 30 2 1 3 33.3 0 0 - 0 2 0.0 0 10 10 1 1 3 0 3 -8
+p144
+aVTravis Outlaw POR 03/24/2006 POR vs. SAS L 16 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -13
+p145
+aVSteve Blake POR 03/24/2006 POR vs. SAS L 32 11 4 8 50.0 1 3 33.3 2 2 100.0 0 3 3 6 1 0 2 1 -5
+p146
+aVBrian Skinner POR 03/24/2006 POR vs. SAS L 13 6 3 3 100.0 0 0 - 0 0 - 2 3 5 0 0 0 2 2 -15
+p147
+aVZach Randolph POR 03/23/2006 POR @ PHX L 21 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 2 0 0 2 5 -14
+p148
+aVSteve Blake POR 03/23/2006 POR @ PHX L 29 6 3 11 27.3 0 1 0.0 0 0 - 0 2 2 4 1 0 3 0 -4
+p149
+aVJoel Przybilla POR 03/23/2006 POR @ PHX L 20 8 3 8 37.5 0 0 - 2 2 100.0 4 4 8 0 2 2 3 2 -13
+p150
+aVBrian Skinner POR 03/23/2006 POR @ PHX L 20 5 2 2 100.0 0 0 - 1 1 100.0 2 1 3 0 0 1 2 6 -5
+p151
+aVJuan Dixon POR 03/23/2006 POR @ PHX L 21 12 4 11 36.4 1 2 50.0 3 3 100.0 0 4 4 1 1 0 2 1 -9
+p152
+aVTravis Outlaw POR 03/23/2006 POR @ PHX L 29 14 6 12 50.0 2 3 66.7 0 0 - 2 5 7 1 0 2 2 4 -6
+p153
+aVSebastian Telfair POR 03/23/2006 POR @ PHX L 26 12 4 13 30.8 2 3 66.7 2 4 50.0 0 1 1 2 1 0 4 2 -8
+p154
+aVJarrett Jack POR 03/23/2006 POR @ PHX L 22 20 8 11 72.7 0 1 0.0 4 5 80.0 2 2 4 4 0 0 2 4 -11
+p155
+aVViktor Khryapa POR 03/23/2006 POR @ PHX L 35 22 8 10 80.0 0 0 - 6 7 85.7 7 5 12 3 0 0 0 4 -18
+p156
+aVMartell Webster POR 03/23/2006 POR @ PHX L 17 5 2 4 50.0 1 2 50.0 0 1 0.0 1 4 5 0 0 0 0 2 3
+p157
+aVJarrett Jack POR 03/20/2006 POR vs. MIL L 16 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 0 0 2 1 5
+p158
+aVJoel Przybilla POR 03/20/2006 POR vs. MIL L 35 13 6 8 75.0 0 0 - 1 2 50.0 4 8 12 1 1 1 1 4 -7
+p159
+aVBrian Skinner POR 03/20/2006 POR vs. MIL L 12 0 0 0 - 0 0 - 0 0 - 3 2 5 0 0 0 0 3 0
+p160
+aVViktor Khryapa POR 03/20/2006 POR vs. MIL L 17 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 0 -14
+p161
+aVJuan Dixon POR 03/20/2006 POR vs. MIL L 25 10 2 11 18.2 1 5 20.0 5 5 100.0 0 1 1 2 2 0 0 1 3
+p162
+aVSteve Blake POR 03/20/2006 POR vs. MIL L 32 7 2 5 40.0 2 4 50.0 1 1 100.0 2 2 4 9 0 0 0 3 -12
+p163
+aVZach Randolph POR 03/20/2006 POR vs. MIL L 36 23 8 19 42.1 3 8 37.5 4 6 66.7 4 6 10 5 1 0 2 2 2
+p164
+aVSebastian Telfair POR 03/20/2006 POR vs. MIL L 23 10 4 12 33.3 1 5 20.0 1 3 33.3 0 0 0 3 1 1 0 3 -10
+p165
+aVTravis Outlaw POR 03/20/2006 POR vs. MIL L 9 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -3
+p166
+aVMartell Webster POR 03/20/2006 POR vs. MIL L 19 11 4 11 36.4 2 4 50.0 1 1 100.0 1 0 1 0 0 0 0 2 6
+p167
+aVDarius Miles POR 03/20/2006 POR vs. MIL L 16 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -5
+p168
+aVJarrett Jack POR 03/18/2006 POR @ MIL L 17 6 2 5 40.0 0 2 0.0 2 2 100.0 0 0 0 2 2 0 3 1 -11
+p169
+aVSteve Blake POR 03/18/2006 POR @ MIL L 32 0 0 7 0.0 0 4 0.0 0 0 - 1 3 4 5 1 0 3 3 4
+p170
+aVJoel Przybilla POR 03/18/2006 POR @ MIL L 34 14 5 7 71.4 0 0 - 4 9 44.4 7 4 11 1 0 1 3 3 1
+p171
+aVViktor Khryapa POR 03/18/2006 POR @ MIL L 29 6 2 5 40.0 0 1 0.0 2 2 100.0 0 4 4 0 0 1 0 6 -9
+p172
+aVDarius Miles POR 03/18/2006 POR @ MIL L 43 26 11 18 61.1 1 1 100.0 3 6 50.0 1 5 6 4 1 2 3 4 -4
+p173
+aVJuan Dixon POR 03/18/2006 POR @ MIL L 21 16 7 13 53.8 2 3 66.7 0 0 - 0 4 4 0 0 0 1 4 5
+p174
+aVMartell Webster POR 03/18/2006 POR @ MIL L 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 0
+p175
+aVBrian Skinner POR 03/18/2006 POR @ MIL L 19 2 1 3 33.3 0 0 - 0 0 - 3 3 6 0 1 1 1 5 -5
+p176
+aVSebastian Telfair POR 03/18/2006 POR @ MIL L 33 21 7 11 63.6 1 2 50.0 6 6 100.0 0 6 6 5 3 0 7 2 -1
+p177
+aVMartell Webster POR 03/17/2006 POR @ CLE L 22 2 1 7 14.3 0 3 0.0 0 0 - 0 3 3 3 0 0 0 0 -6
+p178
+aVBrian Skinner POR 03/17/2006 POR @ CLE L 29 4 1 3 33.3 0 0 - 2 2 100.0 0 5 5 2 1 0 1 5 -2
+p179
+aVViktor Khryapa POR 03/17/2006 POR @ CLE L 15 0 0 4 0.0 0 0 - 0 0 - 3 2 5 2 1 0 1 1 -6
+p180
+aVZach Randolph POR 03/17/2006 POR @ CLE L 32 17 8 20 40.0 0 0 - 1 2 50.0 1 5 6 1 1 1 4 2 -17
+p181
+aVJarrett Jack POR 03/17/2006 POR @ CLE L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 1 0 0 -9
+p182
+aVSebastian Telfair POR 03/17/2006 POR @ CLE L 26 24 9 15 60.0 3 5 60.0 3 3 100.0 0 3 3 4 0 0 0 2 -5
+p183
+aVTravis Outlaw POR 03/17/2006 POR @ CLE L 16 6 2 4 50.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 1 3 2
+p184
+aVDarius Miles POR 03/17/2006 POR @ CLE L 36 12 4 8 50.0 0 0 - 4 6 66.7 0 3 3 4 1 0 2 3 -9
+p185
+aVJoel Przybilla POR 03/17/2006 POR @ CLE L 15 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 0 2 4 -13
+p186
+aVSteve Blake POR 03/17/2006 POR @ CLE L 33 17 7 13 53.8 3 5 60.0 0 0 - 0 2 2 2 1 0 1 0 -10
+p187
+aVDarius Miles POR 03/15/2006 POR @ NJN L 33 14 5 12 41.7 0 0 - 4 4 100.0 0 6 6 0 1 1 4 1 -5
+p188
+aVSebastian Telfair POR 03/15/2006 POR @ NJN L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -5
+p189
+aVZach Randolph POR 03/15/2006 POR @ NJN L 34 24 9 21 42.9 0 3 0.0 6 8 75.0 1 6 7 4 2 0 3 3 -1
+p190
+aVSteve Blake POR 03/15/2006 POR @ NJN L 34 12 5 6 83.3 2 2 100.0 0 0 - 1 3 4 10 1 0 2 0 -8
+p191
+aVVoshon Lenard POR 03/15/2006 POR @ NJN L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p192
+aVBrian Skinner POR 03/15/2006 POR @ NJN L 12 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 2 1 0 2 -3
+p193
+aVTravis Outlaw POR 03/15/2006 POR @ NJN L 13 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p194
+aVViktor Khryapa POR 03/15/2006 POR @ NJN L 19 0 0 1 0.0 0 0 - 0 0 - 0 4 4 2 2 0 3 3 -10
+p195
+aVJoel Przybilla POR 03/15/2006 POR @ NJN L 16 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 3
+p196
+aVMartell Webster POR 03/15/2006 POR @ NJN L 22 11 5 9 55.6 1 2 50.0 0 0 - 1 3 4 1 1 0 5 3 -16
+p197
+aVJarrett Jack POR 03/15/2006 POR @ NJN L 20 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 6
+p198
+aVTheo Ratliff POR 03/15/2006 POR @ NJN L 19 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -10
+p199
+aVMartell Webster POR 03/14/2006 POR @ CHI L 19 5 1 2 50.0 0 1 0.0 3 4 75.0 1 3 4 0 0 1 0 2 -8
+p200
+aVSebastian Telfair POR 03/14/2006 POR @ CHI L 26 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 4 1 0 5 2 -18
+p201
+aVZach Randolph POR 03/14/2006 POR @ CHI L 33 25 11 21 52.4 1 2 50.0 2 3 66.7 4 4 8 0 1 0 1 3 -24
+p202
+aVJarrett Jack POR 03/14/2006 POR @ CHI L 20 4 1 4 25.0 1 2 50.0 1 2 50.0 0 2 2 1 0 0 1 0 -9
+p203
+aVDarius Miles POR 03/14/2006 POR @ CHI L 26 8 4 14 28.6 0 1 0.0 0 0 - 0 2 2 1 1 1 2 4 -22
+p204
+aVViktor Khryapa POR 03/14/2006 POR @ CHI L 23 0 0 4 0.0 0 0 - 0 0 - 1 4 5 1 0 1 0 3 -20
+p205
+aVTravis Outlaw POR 03/14/2006 POR @ CHI L 19 6 2 6 33.3 0 1 0.0 2 4 50.0 0 2 2 1 0 3 1 1 -9
+p206
+aVBrian Skinner POR 03/14/2006 POR @ CHI L 20 8 4 8 50.0 0 0 - 0 0 - 3 3 6 3 1 1 4 0 -8
+p207
+aVJoel Przybilla POR 03/14/2006 POR @ CHI L 16 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 1 0 0 -7
+p208
+aVSteve Blake POR 03/14/2006 POR @ CHI L 26 1 0 4 0.0 0 2 0.0 1 2 50.0 0 1 1 2 0 0 2 1 -18
+p209
+aVVoshon Lenard POR 03/14/2006 POR @ CHI L 11 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 2 0 0 0 -2
+p210
+aVJarrett Jack POR 03/12/2006 POR vs. PHX W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -7
+p211
+aVTravis Outlaw POR 03/12/2006 POR vs. PHX W 15 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 3
+p212
+aVDarius Miles POR 03/12/2006 POR vs. PHX W 33 20 10 15 66.7 0 0 - 0 0 - 1 6 7 4 0 1 2 2 15
+p213
+aVTheo Ratliff POR 03/12/2006 POR vs. PHX W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p214
+aVViktor Khryapa POR 03/12/2006 POR vs. PHX W 26 11 4 7 57.1 2 2 100.0 1 2 50.0 2 4 6 2 0 2 1 2 4
+p215
+aVBrian Skinner POR 03/12/2006 POR vs. PHX W 20 6 3 6 50.0 0 0 - 0 0 - 3 5 8 1 2 0 3 2 -1
+p216
+aVSebastian Telfair POR 03/12/2006 POR vs. PHX W 27 11 5 9 55.6 1 2 50.0 0 0 - 1 1 2 2 2 0 0 2 19
+p217
+aVSteve Blake POR 03/12/2006 POR vs. PHX W 36 18 7 10 70.0 3 3 100.0 1 1 100.0 0 0 0 13 1 0 0 0 11
+p218
+aVZach Randolph POR 03/12/2006 POR vs. PHX W 43 32 11 24 45.8 2 3 66.7 8 10 80.0 6 8 14 2 2 1 3 2 17
+p219
+aVMartell Webster POR 03/12/2006 POR vs. PHX W 18 5 2 6 33.3 1 5 20.0 0 0 - 1 4 5 3 0 0 2 2 -3
+p220
+aVZach Randolph POR 03/09/2006 POR vs. DAL L 42 29 11 20 55.0 3 3 100.0 4 4 100.0 4 1 5 1 0 0 1 3 -18
+p221
+aVJuan Dixon POR 03/09/2006 POR vs. DAL L 16 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 0 2 -12
+p222
+aVTravis Outlaw POR 03/09/2006 POR vs. DAL L 19 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 1 0 1 0 2 -3
+p223
+aVTheo Ratliff POR 03/09/2006 POR vs. DAL L 24 5 1 3 33.3 0 0 - 3 4 75.0 0 3 3 0 0 1 1 2 -8
+p224
+aVMartell Webster POR 03/09/2006 POR vs. DAL L 17 10 2 5 40.0 1 2 50.0 5 5 100.0 0 3 3 0 0 0 0 1 7
+p225
+aVJarrett Jack POR 03/09/2006 POR vs. DAL L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -8
+p226
+aVSteve Blake POR 03/09/2006 POR vs. DAL L 30 2 1 3 33.3 0 0 - 0 0 - 1 2 3 5 0 0 3 1 -18
+p227
+aVSebastian Telfair POR 03/09/2006 POR vs. DAL L 18 12 4 5 80.0 0 0 - 4 6 66.7 0 0 0 8 1 0 1 3 1
+p228
+aVViktor Khryapa POR 03/09/2006 POR vs. DAL L 28 10 4 8 50.0 0 0 - 2 4 50.0 3 3 6 2 1 0 1 5 -9
+p229
+aVVoshon Lenard POR 03/09/2006 POR vs. DAL L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p230
+aVDarius Miles POR 03/09/2006 POR vs. DAL L 17 9 4 8 50.0 0 0 - 1 1 100.0 0 2 2 0 0 1 0 5 -7
+p231
+aVBrian Skinner POR 03/09/2006 POR vs. DAL L 12 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 2 1 0 2 -8
+p232
+aVViktor Khryapa POR 03/07/2006 POR @ DAL L 17 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 2 3 1 10
+p233
+aVJarrett Jack POR 03/07/2006 POR @ DAL L 16 2 0 1 0.0 0 0 - 2 3 66.7 0 2 2 0 0 0 1 3 -9
+p234
+aVSebastian Telfair POR 03/07/2006 POR @ DAL L 11 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 1 3 -6
+p235
+aVMartell Webster POR 03/07/2006 POR @ DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -8
+p236
+aVTheo Ratliff POR 03/07/2006 POR @ DAL L 35 6 2 2 100.0 0 0 - 2 6 33.3 0 6 6 1 0 3 2 2 5
+p237
+aVJuan Dixon POR 03/07/2006 POR @ DAL L 32 17 6 9 66.7 2 2 100.0 3 4 75.0 0 5 5 4 0 0 4 3 3
+p238
+aVZach Randolph POR 03/07/2006 POR @ DAL L 42 33 14 25 56.0 0 0 - 5 7 71.4 1 7 8 2 0 0 2 3 1
+p239
+aVBrian Skinner POR 03/07/2006 POR @ DAL L 13 0 0 0 - 0 0 - 0 0 - 1 2 3 2 0 1 1 1 -11
+p240
+aVSteve Blake POR 03/07/2006 POR @ DAL L 36 12 5 12 41.7 0 3 0.0 2 5 40.0 1 3 4 5 0 0 3 3 0
+p241
+aVDarius Miles POR 03/07/2006 POR @ DAL L 31 11 5 15 33.3 1 1 100.0 0 0 - 2 1 3 0 2 2 0 4 -15
+p242
+aVVoshon Lenard POR 03/07/2006 POR @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p243
+aVZach Randolph POR 03/05/2006 POR @ HOU L 30 15 6 12 50.0 0 0 - 3 4 75.0 0 8 8 0 0 0 3 3 -17
+p244
+aVTravis Outlaw POR 03/05/2006 POR @ HOU L 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -15
+p245
+aVVoshon Lenard POR 03/05/2006 POR @ HOU L 22 8 3 9 33.3 1 2 50.0 1 2 50.0 1 1 2 4 3 2 4 2 2
+p246
+aVHa Seung-Jin POR 03/05/2006 POR @ HOU L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -7
+p247
+aVViktor Khryapa POR 03/05/2006 POR @ HOU L 27 8 3 5 60.0 1 2 50.0 1 3 33.3 6 4 10 4 1 1 1 6 13
+p248
+aVBrian Skinner POR 03/05/2006 POR @ HOU L 32 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 2 0 4 -18
+p249
+aVJuan Dixon POR 03/05/2006 POR @ HOU L 18 8 3 5 60.0 1 1 100.0 1 3 33.3 0 3 3 1 0 0 2 0 -17
+p250
+aVSebastian Telfair POR 03/05/2006 POR @ HOU L 26 9 3 11 27.3 2 6 33.3 1 1 100.0 1 1 2 2 1 0 0 2 -9
+p251
+aVJarrett Jack POR 03/05/2006 POR @ HOU L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 5
+p252
+aVSteve Blake POR 03/05/2006 POR @ HOU L 31 23 7 12 58.3 4 6 66.7 5 5 100.0 1 3 4 3 0 0 1 3 -17
+p253
+aVDarius Miles POR 03/05/2006 POR @ HOU L 28 9 4 13 30.8 0 0 - 1 2 50.0 0 1 1 0 3 0 3 2 -10
+p254
+aVMartell Webster POR 03/05/2006 POR @ HOU L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p255
+aVMartell Webster POR 03/04/2006 POR @ SAS L 13 0 0 5 0.0 0 2 0.0 0 0 - 1 3 4 0 1 0 1 0 -19
+p256
+aVDarius Miles POR 03/04/2006 POR @ SAS L 30 16 7 17 41.2 0 1 0.0 2 4 50.0 1 3 4 2 1 2 3 2 -18
+p257
+aVZach Randolph POR 03/04/2006 POR @ SAS L 37 24 11 21 52.4 1 1 100.0 1 1 100.0 3 6 9 0 2 0 2 5 -11
+p258
+aVBrian Skinner POR 03/04/2006 POR @ SAS L 31 8 3 8 37.5 0 0 - 2 2 100.0 5 3 8 0 0 1 0 1 -8
+p259
+aVJarrett Jack POR 03/04/2006 POR @ SAS L 17 1 0 3 0.0 0 2 0.0 1 1 100.0 0 2 2 2 0 0 1 2 -10
+p260
+aVSteve Blake POR 03/04/2006 POR @ SAS L 30 14 6 13 46.2 2 5 40.0 0 0 - 1 0 1 2 1 0 2 2 -10
+p261
+aVJuan Dixon POR 03/04/2006 POR @ SAS L 34 7 3 10 30.0 0 0 - 1 2 50.0 0 2 2 1 1 1 0 2 -10
+p262
+aVViktor Khryapa POR 03/04/2006 POR @ SAS L 13 3 1 5 20.0 0 0 - 1 2 50.0 3 3 6 1 1 1 0 1 2
+p263
+aVTravis Outlaw POR 03/04/2006 POR @ SAS L 21 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 1 0 0 1 -6
+p264
+aVSebastian Telfair POR 03/04/2006 POR @ SAS L 14 4 2 4 50.0 0 0 - 0 0 - 1 0 1 3 1 1 0 4 -10
+p265
+aVMartell Webster POR 03/01/2006 POR vs. LAL W 16 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 0 1 1 1 2 2
+p266
+aVSebastian Telfair POR 03/01/2006 POR vs. LAL W 13 8 4 6 66.7 0 0 - 0 0 - 0 1 1 1 0 0 2 1 1
+p267
+aVSteve Blake POR 03/01/2006 POR vs. LAL W 31 19 7 13 53.8 2 5 40.0 3 4 75.0 0 3 3 5 1 0 1 2 5
+p268
+aVJarrett Jack POR 03/01/2006 POR vs. LAL W 17 4 2 5 40.0 0 0 - 0 0 - 1 1 2 2 0 0 1 2 -1
+p269
+aVBrian Skinner POR 03/01/2006 POR vs. LAL W 37 9 4 11 36.4 0 0 - 1 2 50.0 5 5 10 2 0 0 1 1 4
+p270
+aVJuan Dixon POR 03/01/2006 POR vs. LAL W 32 12 5 13 38.5 0 1 0.0 2 3 66.7 1 4 5 1 2 1 2 3 9
+p271
+aVViktor Khryapa POR 03/01/2006 POR vs. LAL W 15 2 0 0 - 0 0 - 2 2 100.0 2 2 4 1 2 1 1 1 5
+p272
+aVZach Randolph POR 03/01/2006 POR vs. LAL W 30 20 7 17 41.2 2 3 66.7 4 6 66.7 1 7 8 1 0 0 3 5 4
+p273
+aVDarius Miles POR 03/01/2006 POR vs. LAL W 28 11 5 9 55.6 0 0 - 1 1 100.0 0 6 6 3 2 0 2 3 4
+p274
+aVTravis Outlaw POR 03/01/2006 POR vs. LAL W 21 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 1 1 2 2 -3
+p275
+aVJuan Dixon POR 02/27/2006 POR @ SAC L 18 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 2 0 1 2 2 -10
+p276
+aVSebastian Telfair POR 02/27/2006 POR @ SAC L 23 16 4 9 44.4 2 5 40.0 6 6 100.0 0 0 0 3 3 1 1 2 -8
+p277
+aVTravis Outlaw POR 02/27/2006 POR @ SAC L 16 8 3 6 50.0 0 0 - 2 2 100.0 0 4 4 1 0 0 0 2 1
+p278
+aVHa Seung-Jin POR 02/27/2006 POR @ SAC L 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -2
+p279
+aVVoshon Lenard POR 02/27/2006 POR @ SAC L 12 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 -1
+p280
+aVMartell Webster POR 02/27/2006 POR @ SAC L 20 6 1 3 33.3 1 3 33.3 3 3 100.0 0 2 2 3 0 0 0 2 -10
+p281
+aVZach Randolph POR 02/27/2006 POR @ SAC L 20 2 1 6 16.7 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -20
+p282
+aVSteve Blake POR 02/27/2006 POR @ SAC L 23 14 6 8 75.0 2 3 66.7 0 0 - 0 4 4 3 1 0 1 2 -11
+p283
+aVJarrett Jack POR 02/27/2006 POR @ SAC L 20 7 2 3 66.7 1 1 100.0 2 2 100.0 0 3 3 2 0 0 2 3 -14
+p284
+aVViktor Khryapa POR 02/27/2006 POR @ SAC L 23 6 3 7 42.9 0 0 - 0 0 - 2 5 7 1 0 1 2 0 -19
+p285
+aVBrian Skinner POR 02/27/2006 POR @ SAC L 32 17 7 11 63.6 0 0 - 3 6 50.0 1 6 7 0 0 1 0 4 -13
+p286
+aVDarius Miles POR 02/27/2006 POR @ SAC L 25 6 3 9 33.3 0 0 - 0 0 - 0 0 0 0 0 0 4 2 -13
+p287
+aVViktor Khryapa POR 02/26/2006 POR vs. NOK L 9 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 1 0 4 -1
+p288
+aVSteve Blake POR 02/26/2006 POR vs. NOK L 31 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 6 0 0 0 5 -1
+p289
+aVTravis Outlaw POR 02/26/2006 POR vs. NOK L 24 3 1 3 33.3 0 0 - 1 2 50.0 0 5 5 0 0 1 1 3 -5
+p290
+aVZach Randolph POR 02/26/2006 POR vs. NOK L 40 23 10 15 66.7 0 0 - 3 8 37.5 3 5 8 2 2 0 3 3 -10
+p291
+aVBrian Skinner POR 02/26/2006 POR vs. NOK L 26 9 3 5 60.0 0 0 - 3 6 50.0 3 5 8 0 2 2 2 2 -2
+p292
+aVJarrett Jack POR 02/26/2006 POR vs. NOK L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 0 -12
+p293
+aVDarius Miles POR 02/26/2006 POR vs. NOK L 39 22 10 16 62.5 0 0 - 2 6 33.3 1 0 1 2 0 1 0 3 -17
+p294
+aVJuan Dixon POR 02/26/2006 POR vs. NOK L 26 6 3 12 25.0 0 3 0.0 0 0 - 1 2 3 1 1 0 1 3 -5
+p295
+aVVoshon Lenard POR 02/26/2006 POR vs. NOK L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p296
+aVMartell Webster POR 02/26/2006 POR vs. NOK L 24 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 1 0 0 0 1 -9
+p297
+aVViktor Khryapa POR 02/24/2006 POR vs. BOS L 18 2 1 2 50.0 0 0 - 0 0 - 3 1 4 1 1 1 0 3 -15
+p298
+aVJuan Dixon POR 02/24/2006 POR vs. BOS L 27 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 4 1 0 2 2 2
+p299
+aVZach Randolph POR 02/24/2006 POR vs. BOS L 41 19 7 17 41.2 0 0 - 5 6 83.3 2 6 8 7 0 1 2 2 0
+p300
+aVHa Seung-Jin POR 02/24/2006 POR vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -3
+p301
+aVSteve Blake POR 02/24/2006 POR vs. BOS L 29 13 6 10 60.0 1 3 33.3 0 2 0.0 1 0 1 8 1 0 1 3 -2
+p302
+aVTravis Outlaw POR 02/24/2006 POR vs. BOS L 28 11 4 9 44.4 0 0 - 3 5 60.0 1 4 5 3 1 2 0 5 -2
+p303
+aVDarius Miles POR 02/24/2006 POR vs. BOS L 34 16 7 14 50.0 0 0 - 2 4 50.0 1 5 6 1 1 2 0 2 5
+p304
+aVMartell Webster POR 02/24/2006 POR vs. BOS L 41 24 9 17 52.9 4 8 50.0 2 2 100.0 2 6 8 0 1 0 4 2 -11
+p305
+aVJarrett Jack POR 02/24/2006 POR vs. BOS L 19 4 2 2 100.0 0 0 - 0 0 - 0 1 1 4 0 0 0 1 -4
+p306
+aVHa Seung-Jin POR 02/22/2006 POR vs. CHA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p307
+aVJuan Dixon POR 02/22/2006 POR vs. CHA L 31 17 7 14 50.0 3 6 50.0 0 0 - 0 4 4 6 0 0 1 2 5
+p308
+aVSebastian Telfair POR 02/22/2006 POR vs. CHA L 17 3 1 7 14.3 1 3 33.3 0 0 - 1 0 1 3 0 1 0 0 -9
+p309
+aVDarius Miles POR 02/22/2006 POR vs. CHA L 40 20 10 20 50.0 0 1 0.0 0 2 0.0 0 8 8 1 1 1 2 4 4
+p310
+aVSteve Blake POR 02/22/2006 POR vs. CHA L 28 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 9 1 0 1 3 2
+p311
+aVViktor Khryapa POR 02/22/2006 POR vs. CHA L 25 13 5 7 71.4 0 0 - 3 3 100.0 1 4 5 1 0 1 1 1 0
+p312
+aVRuben Patterson POR 02/22/2006 POR vs. CHA L 31 25 9 14 64.3 0 0 - 7 10 70.0 3 2 5 2 0 0 1 2 2
+p313
+aVTravis Outlaw POR 02/22/2006 POR vs. CHA L 28 10 5 6 83.3 0 1 0.0 0 0 - 0 1 1 0 0 4 0 1 -5
+p314
+aVJarrett Jack POR 02/22/2006 POR vs. CHA L 20 6 3 4 75.0 0 1 0.0 0 0 - 1 2 3 5 1 0 2 3 -6
+p315
+aVMartell Webster POR 02/22/2006 POR vs. CHA L 16 7 2 4 50.0 2 3 66.7 1 2 50.0 0 2 2 0 0 0 1 2 -6
+p316
+aVSteve Blake POR 02/21/2006 POR @ LAL L 25 5 2 9 22.2 1 3 33.3 0 0 - 1 0 1 6 1 0 3 1 -10
+p317
+aVHa Seung-Jin POR 02/21/2006 POR @ LAL L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -1
+p318
+aVRuben Patterson POR 02/21/2006 POR @ LAL L 25 7 3 10 30.0 0 0 - 1 5 20.0 2 3 5 1 1 0 2 4 -12
+p319
+aVSebastian Telfair POR 02/21/2006 POR @ LAL L 22 7 2 10 20.0 0 1 0.0 3 5 60.0 1 2 3 4 0 0 0 2 -5
+p320
+aVTravis Outlaw POR 02/21/2006 POR @ LAL L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -6
+p321
+aVDarius Miles POR 02/21/2006 POR @ LAL L 42 13 6 14 42.9 0 0 - 1 6 16.7 0 5 5 1 1 1 0 1 -16
+p322
+aVJuan Dixon POR 02/21/2006 POR @ LAL L 30 16 7 11 63.6 0 2 0.0 2 3 66.7 3 1 4 4 1 0 1 1 -13
+p323
+aVZach Randolph POR 02/21/2006 POR @ LAL L 28 7 3 12 25.0 0 0 - 1 4 25.0 2 8 10 1 3 1 2 3 -7
+p324
+aVJarrett Jack POR 02/21/2006 POR @ LAL L 20 9 2 5 40.0 2 3 66.7 3 3 100.0 0 2 2 1 0 0 1 0 -4
+p325
+aVMartell Webster POR 02/21/2006 POR @ LAL L 9 9 3 3 100.0 3 3 100.0 0 0 - 0 0 0 0 0 0 1 0 0
+p326
+aVViktor Khryapa POR 02/21/2006 POR @ LAL L 18 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 0 2 2 -6
+p327
+aVSebastian Telfair POR 02/15/2006 POR @ NOK L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 2 1 -12
+p328
+aVSteve Blake POR 02/15/2006 POR @ NOK L 21 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 5 0 0 1 1 -9
+p329
+aVJarrett Jack POR 02/15/2006 POR @ NOK L 27 5 1 5 20.0 0 1 0.0 3 4 75.0 0 3 3 3 0 0 1 0 -3
+p330
+aVJuan Dixon POR 02/15/2006 POR @ NOK L 24 12 5 10 50.0 2 4 50.0 0 0 - 0 3 3 1 1 0 0 2 -14
+p331
+aVDarius Miles POR 02/15/2006 POR @ NOK L 23 10 4 14 28.6 0 1 0.0 2 3 66.7 1 4 5 0 0 0 5 5 -8
+p332
+aVViktor Khryapa POR 02/15/2006 POR @ NOK L 20 6 1 3 33.3 0 0 - 4 4 100.0 1 4 5 2 1 0 1 6 -5
+p333
+aVTravis Outlaw POR 02/15/2006 POR @ NOK L 14 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 0 0 2 0 1 3
+p334
+aVMartell Webster POR 02/15/2006 POR @ NOK L 8 12 5 5 100.0 2 2 100.0 0 0 - 0 0 0 0 0 1 0 0 9
+p335
+aVCharles Smith POR 02/15/2006 POR @ NOK L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 1 -9
+p336
+aVZach Randolph POR 02/15/2006 POR @ NOK L 27 12 4 11 36.4 0 0 - 4 4 100.0 1 6 7 0 0 0 2 3 -18
+p337
+aVRuben Patterson POR 02/15/2006 POR @ NOK L 24 11 4 11 36.4 0 1 0.0 3 5 60.0 4 2 6 0 1 1 2 3 -15
+p338
+aVHa Seung-Jin POR 02/15/2006 POR @ NOK L 20 6 3 3 100.0 0 0 - 0 2 0.0 2 3 5 0 0 2 0 3 1
+p339
+aVRuben Patterson POR 02/13/2006 POR @ CHA W 27 11 5 9 55.6 0 0 - 1 3 33.3 3 1 4 2 3 0 2 2 12
+p340
+aVTravis Outlaw POR 02/13/2006 POR @ CHA W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -1
+p341
+aVJarrett Jack POR 02/13/2006 POR @ CHA W 26 10 3 6 50.0 2 2 100.0 2 2 100.0 0 2 2 5 2 0 3 3 14
+p342
+aVCharles Smith POR 02/13/2006 POR @ CHA W 17 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 0 1 2 0 0 -5
+p343
+aVHa Seung-Jin POR 02/13/2006 POR @ CHA W 11 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 3 2 -2
+p344
+aVZach Randolph POR 02/13/2006 POR @ CHA W 32 21 8 18 44.4 0 0 - 5 9 55.6 3 6 9 4 0 0 2 2 -1
+p345
+aVDarius Miles POR 02/13/2006 POR @ CHA W 24 14 7 13 53.8 0 0 - 0 0 - 0 9 9 3 1 0 5 3 11
+p346
+aVViktor Khryapa POR 02/13/2006 POR @ CHA W 27 11 5 7 71.4 0 0 - 1 2 50.0 1 0 1 0 0 1 0 3 12
+p347
+aVJuan Dixon POR 02/13/2006 POR @ CHA W 26 12 4 10 40.0 1 2 50.0 3 3 100.0 0 4 4 1 0 0 0 0 -4
+p348
+aVSteve Blake POR 02/13/2006 POR @ CHA W 24 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 5 1 0 0 0 -8
+p349
+aVSebastian Telfair POR 02/13/2006 POR @ CHA W 22 4 2 5 40.0 0 0 - 0 0 - 0 1 1 5 1 0 1 4 12
+p350
+aVHa Seung-Jin POR 02/12/2006 POR @ TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p351
+aVCharles Smith POR 02/12/2006 POR @ TOR L 17 11 4 7 57.1 3 4 75.0 0 0 - 0 1 1 0 0 0 0 2 -12
+p352
+aVTravis Outlaw POR 02/12/2006 POR @ TOR L 22 10 5 12 41.7 0 0 - 0 1 0.0 4 4 8 1 0 0 2 2 -15
+p353
+aVJuan Dixon POR 02/12/2006 POR @ TOR L 22 10 5 11 45.5 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -17
+p354
+aVRuben Patterson POR 02/12/2006 POR @ TOR L 22 3 0 3 0.0 0 0 - 3 6 50.0 2 1 3 3 1 0 1 1 -7
+p355
+aVTheo Ratliff POR 02/12/2006 POR @ TOR L 20 8 4 6 66.7 0 0 - 0 0 - 2 3 5 0 0 5 0 2 -24
+p356
+aVSteve Blake POR 02/12/2006 POR @ TOR L 25 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 7 0 0 0 2 -16
+p357
+aVZach Randolph POR 02/12/2006 POR @ TOR L 28 10 4 10 40.0 0 0 - 2 4 50.0 0 6 6 2 1 0 2 2 -24
+p358
+aVSebastian Telfair POR 02/12/2006 POR @ TOR L 21 9 2 8 25.0 1 3 33.3 4 4 100.0 1 2 3 4 0 0 2 1 -13
+p359
+aVViktor Khryapa POR 02/12/2006 POR @ TOR L 23 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 -12
+p360
+aVJarrett Jack POR 02/12/2006 POR @ TOR L 26 6 2 8 25.0 0 2 0.0 2 2 100.0 0 3 3 3 3 0 1 0 -19
+p361
+aVMartell Webster POR 02/12/2006 POR @ TOR L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p362
+aVViktor Khryapa POR 02/10/2006 POR @ BOS L 17 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 0 0 1 4 -14
+p363
+aVJarrett Jack POR 02/10/2006 POR @ BOS L 29 12 3 6 50.0 0 0 - 6 7 85.7 0 4 4 3 1 0 2 5 -19
+p364
+aVSteve Blake POR 02/10/2006 POR @ BOS L 20 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 0 0 2 2 -15
+p365
+aVJuan Dixon POR 02/10/2006 POR @ BOS L 20 8 4 10 40.0 0 2 0.0 0 0 - 0 1 1 0 0 1 2 2 -15
+p366
+aVZach Randolph POR 02/10/2006 POR @ BOS L 27 14 6 12 50.0 0 0 - 2 2 100.0 1 5 6 2 2 0 3 1 -24
+p367
+aVMartell Webster POR 02/10/2006 POR @ BOS L 10 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 0 0 0 1 2 1
+p368
+aVHa Seung-Jin POR 02/10/2006 POR @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -3
+p369
+aVSebastian Telfair POR 02/10/2006 POR @ BOS L 27 6 1 5 20.0 0 0 - 4 4 100.0 0 0 0 7 3 0 3 3 -15
+p370
+aVTravis Outlaw POR 02/10/2006 POR @ BOS L 20 10 5 10 50.0 0 1 0.0 0 0 - 2 0 2 0 0 1 1 2 -14
+p371
+aVTheo Ratliff POR 02/10/2006 POR @ BOS L 33 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 1 0 1 1 4 -23
+p372
+aVRuben Patterson POR 02/10/2006 POR @ BOS L 20 7 3 5 60.0 0 0 - 1 3 33.3 2 0 2 2 0 0 4 3 -17
+p373
+aVCharles Smith POR 02/10/2006 POR @ BOS L 12 2 1 5 20.0 0 3 0.0 0 0 - 1 0 1 0 0 0 0 1 -2
+p374
+aVHa Seung-Jin POR 02/08/2006 POR @ IND L 8 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 1 0 1 1 1 -9
+p375
+aVZach Randolph POR 02/08/2006 POR @ IND L 30 25 6 19 31.6 0 0 - 13 16 81.3 9 0 9 1 2 0 3 2 -23
+p376
+aVSebastian Telfair POR 02/08/2006 POR @ IND L 24 11 3 8 37.5 1 2 50.0 4 6 66.7 0 4 4 1 1 0 1 1 -17
+p377
+aVTravis Outlaw POR 02/08/2006 POR @ IND L 23 10 4 7 57.1 1 1 100.0 1 2 50.0 0 4 4 0 1 2 0 3 -10
+p378
+aVJuan Dixon POR 02/08/2006 POR @ IND L 21 6 2 9 22.2 0 2 0.0 2 3 66.7 0 2 2 1 2 0 0 1 -16
+p379
+aVSteve Blake POR 02/08/2006 POR @ IND L 22 2 0 4 0.0 0 2 0.0 2 3 66.7 0 1 1 2 1 0 0 2 -15
+p380
+aVCharles Smith POR 02/08/2006 POR @ IND L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p381
+aVTheo Ratliff POR 02/08/2006 POR @ IND L 28 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 1 2 0 1 -4
+p382
+aVJarrett Jack POR 02/08/2006 POR @ IND L 29 2 1 7 14.3 0 0 - 0 0 - 0 4 4 2 1 0 3 2 -16
+p383
+aVJoel Przybilla POR 02/08/2006 POR @ IND L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -14
+p384
+aVViktor Khryapa POR 02/08/2006 POR @ IND L 19 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 2 0 3 4 -28
+p385
+aVRuben Patterson POR 02/08/2006 POR @ IND L 17 2 0 5 0.0 0 0 - 2 4 50.0 1 0 1 0 0 1 1 0 -5
+p386
+aVJoel Przybilla POR 02/04/2006 POR @ DEN L 23 9 4 5 80.0 0 0 - 1 2 50.0 2 3 5 4 2 2 1 2 8
+p387
+aVZach Randolph POR 02/04/2006 POR @ DEN L 42 28 11 20 55.0 0 1 0.0 6 6 100.0 3 9 12 3 0 0 4 6 5
+p388
+aVSebastian Telfair POR 02/04/2006 POR @ DEN L 22 14 5 8 62.5 4 7 57.1 0 0 - 0 1 1 5 1 0 3 3 8
+p389
+aVRuben Patterson POR 02/04/2006 POR @ DEN L 20 14 6 14 42.9 0 0 - 2 4 50.0 2 1 3 5 1 1 3 3 8
+p390
+aVSteve Blake POR 02/04/2006 POR @ DEN L 28 10 4 7 57.1 1 2 50.0 1 1 100.0 1 3 4 5 0 0 3 1 -10
+p391
+aVViktor Khryapa POR 02/04/2006 POR @ DEN L 13 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 4 -8
+p392
+aVJuan Dixon POR 02/04/2006 POR @ DEN L 22 13 5 11 45.5 3 5 60.0 0 0 - 0 1 1 1 0 0 1 5 0
+p393
+aVTravis Outlaw POR 02/04/2006 POR @ DEN L 16 5 2 4 50.0 0 0 - 1 3 33.3 2 1 3 0 0 0 1 1 0
+p394
+aVTheo Ratliff POR 02/04/2006 POR @ DEN L 25 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 1 1 0 4 -9
+p395
+aVJarrett Jack POR 02/04/2006 POR @ DEN L 29 7 3 6 50.0 0 0 - 1 1 100.0 0 4 4 3 1 0 3 4 -7
+p396
+aVJarrett Jack POR 02/03/2006 POR vs. MIN W 30 19 8 10 80.0 1 1 100.0 2 3 66.7 0 6 6 2 0 0 2 2 5
+p397
+aVTravis Outlaw POR 02/03/2006 POR vs. MIN W 19 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 3 2
+p398
+aVSteve Blake POR 02/03/2006 POR vs. MIN W 22 8 3 6 50.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 2 2 4
+p399
+aVViktor Khryapa POR 02/03/2006 POR vs. MIN W 19 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 0 0 0 1 -2
+p400
+aVJoel Przybilla POR 02/03/2006 POR vs. MIN W 23 3 1 4 25.0 0 0 - 1 2 50.0 5 2 7 2 0 3 0 4 -2
+p401
+aVZach Randolph POR 02/03/2006 POR vs. MIN W 34 19 9 24 37.5 0 1 0.0 1 1 100.0 5 8 13 1 1 0 2 1 -4
+p402
+aVJuan Dixon POR 02/03/2006 POR vs. MIN W 29 14 5 12 41.7 0 1 0.0 4 4 100.0 3 3 6 0 1 0 1 3 1
+p403
+aVSebastian Telfair POR 02/03/2006 POR vs. MIN W 20 5 1 5 20.0 0 1 0.0 3 4 75.0 0 1 1 2 0 0 0 1 5
+p404
+aVRuben Patterson POR 02/03/2006 POR vs. MIN W 21 12 4 10 40.0 0 0 - 4 6 66.7 1 2 3 2 0 0 1 0 4
+p405
+aVTheo Ratliff POR 02/03/2006 POR vs. MIN W 23 2 1 2 50.0 0 0 - 0 2 0.0 2 1 3 0 0 5 0 2 7
+p406
+aVTravis Outlaw POR 02/01/2006 POR vs. SAS L 12 5 1 3 33.3 1 1 100.0 2 2 100.0 0 1 1 1 0 2 0 1 0
+p407
+aVJoel Przybilla POR 02/01/2006 POR vs. SAS L 23 2 0 3 0.0 0 0 - 2 4 50.0 3 6 9 1 0 5 1 2 -8
+p408
+aVSteve Blake POR 02/01/2006 POR vs. SAS L 28 8 3 7 42.9 1 1 100.0 1 2 50.0 0 1 1 3 0 1 0 3 -2
+p409
+aVViktor Khryapa POR 02/01/2006 POR vs. SAS L 19 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 1 0 0 4 -10
+p410
+aVJuan Dixon POR 02/01/2006 POR vs. SAS L 28 10 3 15 20.0 0 2 0.0 4 5 80.0 1 1 2 0 1 0 1 2 -9
+p411
+aVZach Randolph POR 02/01/2006 POR vs. SAS L 38 25 9 26 34.6 1 1 100.0 6 6 100.0 4 5 9 2 0 0 1 5 -3
+p412
+aVRuben Patterson POR 02/01/2006 POR vs. SAS L 27 14 6 8 75.0 0 0 - 2 3 66.7 1 2 3 1 0 0 2 2 4
+p413
+aVJarrett Jack POR 02/01/2006 POR vs. SAS L 22 5 2 4 50.0 0 0 - 1 2 50.0 0 8 8 2 0 0 3 2 3
+p414
+aVTheo Ratliff POR 02/01/2006 POR vs. SAS L 25 6 3 5 60.0 0 0 - 0 0 - 1 6 7 2 0 2 0 3 4
+p415
+aVSebastian Telfair POR 02/01/2006 POR vs. SAS L 18 5 2 8 25.0 1 4 25.0 0 0 - 0 1 1 3 1 0 1 2 1
+p416
+aVSteve Blake POR 01/30/2006 POR @ SEA W 24 9 2 6 33.3 1 2 50.0 4 4 100.0 0 1 1 7 0 1 1 0 1
+p417
+aVJoel Przybilla POR 01/30/2006 POR @ SEA W 24 13 5 6 83.3 0 0 - 3 4 75.0 5 3 8 4 0 2 4 3 0
+p418
+aVJuan Dixon POR 01/30/2006 POR @ SEA W 27 15 4 8 50.0 2 2 100.0 5 6 83.3 1 1 2 4 2 0 0 2 3
+p419
+aVZach Randolph POR 01/30/2006 POR @ SEA W 36 32 14 24 58.3 0 0 - 4 7 57.1 4 5 9 0 1 1 5 3 8
+p420
+aVSebastian Telfair POR 01/30/2006 POR @ SEA W 20 5 1 7 14.3 1 2 50.0 2 2 100.0 1 4 5 2 0 0 0 4 -2
+p421
+aVJarrett Jack POR 01/30/2006 POR @ SEA W 27 6 2 8 25.0 0 2 0.0 2 4 50.0 1 4 5 3 0 0 1 2 3
+p422
+aVTravis Outlaw POR 01/30/2006 POR @ SEA W 9 7 3 6 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 2 -3
+p423
+aVTheo Ratliff POR 01/30/2006 POR @ SEA W 23 9 4 5 80.0 0 0 - 1 2 50.0 3 2 5 0 0 2 0 1 8
+p424
+aVRuben Patterson POR 01/30/2006 POR @ SEA W 24 14 6 10 60.0 0 0 - 2 3 66.7 3 3 6 3 0 0 1 3 -1
+p425
+aVViktor Khryapa POR 01/30/2006 POR @ SEA W 26 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 1 0 1 4 8
+p426
+aVJoel Przybilla POR 01/28/2006 POR @ GSW L 28 7 1 1 100.0 0 0 - 5 8 62.5 2 2 4 0 2 2 1 3 -5
+p427
+aVZach Randolph POR 01/28/2006 POR @ GSW L 21 7 3 12 25.0 0 0 - 1 1 100.0 1 3 4 0 0 1 3 5 -5
+p428
+aVJarrett Jack POR 01/28/2006 POR @ GSW L 26 10 4 8 50.0 1 3 33.3 1 4 25.0 0 1 1 5 0 0 1 4 -14
+p429
+aVHa Seung-Jin POR 01/28/2006 POR @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p430
+aVTravis Outlaw POR 01/28/2006 POR @ GSW L 20 10 4 8 50.0 0 1 0.0 2 2 100.0 1 2 3 0 1 1 0 2 -2
+p431
+aVCharles Smith POR 01/28/2006 POR @ GSW L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p432
+aVViktor Khryapa POR 01/28/2006 POR @ GSW L 19 2 1 2 50.0 0 0 - 0 0 - 3 4 7 1 0 1 1 5 -10
+p433
+aVJuan Dixon POR 01/28/2006 POR @ GSW L 31 21 8 21 38.1 2 6 33.3 3 4 75.0 0 3 3 2 2 0 1 4 -8
+p434
+aVSteve Blake POR 01/28/2006 POR @ GSW L 23 5 2 6 33.3 0 3 0.0 1 1 100.0 0 3 3 1 0 0 0 2 -1
+p435
+aVRuben Patterson POR 01/28/2006 POR @ GSW L 26 6 2 7 28.6 0 0 - 2 4 50.0 2 1 3 3 2 0 2 0 -9
+p436
+aVSebastian Telfair POR 01/28/2006 POR @ GSW L 29 12 5 10 50.0 0 0 - 2 3 66.7 0 4 4 6 3 0 2 2 -8
+p437
+aVTheo Ratliff POR 01/28/2006 POR @ GSW L 13 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 2 3 -11
+p438
+aVZach Randolph POR 01/27/2006 POR vs. NJN W 37 9 4 9 44.4 0 0 - 1 2 50.0 1 1 2 1 3 0 4 4 2
+p439
+aVJoel Przybilla POR 01/27/2006 POR vs. NJN W 26 4 1 1 100.0 0 0 - 2 4 50.0 2 6 8 2 0 2 0 1 7
+p440
+aVJarrett Jack POR 01/27/2006 POR vs. NJN W 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -6
+p441
+aVTravis Outlaw POR 01/27/2006 POR vs. NJN W 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 1 0 1 1
+p442
+aVJuan Dixon POR 01/27/2006 POR vs. NJN W 29 26 12 16 75.0 2 4 50.0 0 0 - 0 1 1 2 4 0 5 1 14
+p443
+aVViktor Khryapa POR 01/27/2006 POR vs. NJN W 28 7 2 6 33.3 0 0 - 3 6 50.0 1 5 6 4 2 0 1 4 5
+p444
+aVTheo Ratliff POR 01/27/2006 POR vs. NJN W 22 0 0 0 - 0 0 - 0 0 - 0 5 5 1 0 0 1 3 -2
+p445
+aVSteve Blake POR 01/27/2006 POR vs. NJN W 24 11 4 6 66.7 1 2 50.0 2 2 100.0 0 3 3 4 0 0 3 2 1
+p446
+aVSebastian Telfair POR 01/27/2006 POR vs. NJN W 26 11 2 8 25.0 1 2 50.0 6 9 66.7 0 5 5 2 3 0 1 1 0
+p447
+aVRuben Patterson POR 01/27/2006 POR vs. NJN W 20 14 4 9 44.4 0 0 - 6 6 100.0 1 3 4 1 0 0 4 3 3
+p448
+aVTravis Outlaw POR 01/25/2006 POR vs. DEN L 14 6 3 6 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 4 -5
+p449
+aVTheo Ratliff POR 01/25/2006 POR vs. DEN L 29 11 4 5 80.0 0 0 - 3 4 75.0 4 8 12 0 0 2 0 0 -4
+p450
+aVViktor Khryapa POR 01/25/2006 POR vs. DEN L 13 4 2 3 66.7 0 0 - 0 0 - 1 0 1 2 0 0 2 4 8
+p451
+aVJoel Przybilla POR 01/25/2006 POR vs. DEN L 19 4 2 4 50.0 0 0 - 0 0 - 2 6 8 1 0 2 0 1 1
+p452
+aVSteve Blake POR 01/25/2006 POR vs. DEN L 31 7 3 8 37.5 1 4 25.0 0 0 - 1 1 2 3 1 0 3 3 1
+p453
+aVJarrett Jack POR 01/25/2006 POR vs. DEN L 16 6 3 5 60.0 0 0 - 0 1 0.0 0 1 1 2 0 0 2 2 -10
+p454
+aVJuan Dixon POR 01/25/2006 POR vs. DEN L 30 17 8 17 47.1 1 2 50.0 0 0 - 0 0 0 7 3 0 3 2 7
+p455
+aVZach Randolph POR 01/25/2006 POR vs. DEN L 38 18 9 21 42.9 0 2 0.0 0 0 - 3 6 9 4 0 0 1 0 0
+p456
+aVSebastian Telfair POR 01/25/2006 POR vs. DEN L 17 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 2 1 0 2 2 -4
+p457
+aVCharles Smith POR 01/25/2006 POR vs. DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p458
+aVRuben Patterson POR 01/25/2006 POR vs. DEN L 31 15 6 9 66.7 0 0 - 3 6 50.0 2 0 2 2 0 0 1 1 -9
+p459
+aVViktor Khryapa POR 01/22/2006 POR vs. DAL L 29 4 0 2 0.0 0 0 - 4 4 100.0 5 5 10 0 0 2 0 6 8
+p460
+aVTravis Outlaw POR 01/22/2006 POR vs. DAL L 13 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -5
+p461
+aVTheo Ratliff POR 01/22/2006 POR vs. DAL L 28 4 2 4 50.0 0 0 - 0 0 - 2 5 7 1 0 1 2 2 -9
+p462
+aVJuan Dixon POR 01/22/2006 POR vs. DAL L 37 20 8 19 42.1 2 3 66.7 2 2 100.0 1 3 4 2 0 0 3 3 4
+p463
+aVCharles Smith POR 01/22/2006 POR vs. DAL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 2
+p464
+aVSteve Blake POR 01/22/2006 POR vs. DAL L 39 20 8 16 50.0 4 7 57.1 0 0 - 0 2 2 3 0 0 1 3 -4
+p465
+aVSebastian Telfair POR 01/22/2006 POR vs. DAL L 19 2 1 4 25.0 0 2 0.0 0 1 0.0 0 1 1 4 0 0 1 3 -10
+p466
+aVJarrett Jack POR 01/22/2006 POR vs. DAL L 8 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p467
+aVRuben Patterson POR 01/22/2006 POR vs. DAL L 23 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 0 0 0 3 1 -12
+p468
+aVJoel Przybilla POR 01/22/2006 POR vs. DAL L 24 4 1 4 25.0 0 0 - 2 2 100.0 2 5 7 1 0 3 1 2 -1
+p469
+aVZach Randolph POR 01/22/2006 POR vs. DAL L 42 23 10 21 47.6 0 0 - 3 5 60.0 4 7 11 5 1 0 3 3 1
+p470
+aVZach Randolph POR 01/18/2006 POR vs. TOR W 41 22 9 16 56.3 0 1 0.0 4 4 100.0 3 5 8 7 2 0 4 2 4
+p471
+aVSebastian Telfair POR 01/18/2006 POR vs. TOR W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 2 5 -4
+p472
+aVTheo Ratliff POR 01/18/2006 POR vs. TOR W 24 3 1 1 100.0 0 0 - 1 2 50.0 0 4 4 1 0 0 1 4 -16
+p473
+aVJarrett Jack POR 01/18/2006 POR vs. TOR W 17 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 1 0 2 1 -7
+p474
+aVJoel Przybilla POR 01/18/2006 POR vs. TOR W 21 9 4 6 66.7 0 0 - 1 1 100.0 1 2 3 0 1 2 1 2 13
+p475
+aVViktor Khryapa POR 01/18/2006 POR vs. TOR W 36 18 6 10 60.0 0 1 0.0 6 8 75.0 5 7 12 3 2 0 2 4 6
+p476
+aVSteve Blake POR 01/18/2006 POR vs. TOR W 35 7 3 8 37.5 1 5 20.0 0 0 - 1 1 2 8 1 0 1 4 4
+p477
+aVTravis Outlaw POR 01/18/2006 POR vs. TOR W 21 13 6 11 54.5 0 1 0.0 1 2 50.0 1 1 2 1 0 0 0 4 -7
+p478
+aVCharles Smith POR 01/18/2006 POR vs. TOR W 1 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 0 3
+p479
+aVJuan Dixon POR 01/18/2006 POR vs. TOR W 33 15 5 12 41.7 1 2 50.0 4 5 80.0 0 1 1 6 3 0 1 2 14
+p480
+aVZach Randolph POR 01/15/2006 POR vs. CLE W 37 16 6 16 37.5 0 0 - 4 4 100.0 1 6 7 0 0 0 1 2 -7
+p481
+aVJoel Przybilla POR 01/15/2006 POR vs. CLE W 19 8 3 3 100.0 0 0 - 2 2 100.0 2 3 5 1 0 1 0 1 -6
+p482
+aVRuben Patterson POR 01/15/2006 POR vs. CLE W 29 16 6 9 66.7 0 0 - 4 11 36.4 4 3 7 1 1 1 3 3 6
+p483
+aVViktor Khryapa POR 01/15/2006 POR vs. CLE W 17 6 3 6 50.0 0 0 - 0 0 - 4 1 5 1 0 0 1 3 -13
+p484
+aVSteve Blake POR 01/15/2006 POR vs. CLE W 28 9 4 9 44.4 1 3 33.3 0 0 - 1 4 5 4 0 0 0 2 -7
+p485
+aVSebastian Telfair POR 01/15/2006 POR vs. CLE W 20 5 1 7 14.3 1 3 33.3 2 2 100.0 0 2 2 1 0 0 2 1 9
+p486
+aVJuan Dixon POR 01/15/2006 POR vs. CLE W 26 10 4 13 30.8 1 2 50.0 1 1 100.0 0 1 1 3 1 0 2 1 -6
+p487
+aVTravis Outlaw POR 01/15/2006 POR vs. CLE W 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 16
+p488
+aVJarrett Jack POR 01/15/2006 POR vs. CLE W 22 11 4 7 57.1 0 1 0.0 3 3 100.0 0 3 3 4 1 0 0 3 8
+p489
+aVTheo Ratliff POR 01/15/2006 POR vs. CLE W 29 8 3 6 50.0 0 0 - 2 3 66.7 1 4 5 1 0 2 0 2 10
+p490
+aVRuben Patterson POR 01/13/2006 POR vs. ORL W 30 9 3 6 50.0 0 0 - 3 4 75.0 0 2 2 2 4 0 1 1 6
+p491
+aVTheo Ratliff POR 01/13/2006 POR vs. ORL W 31 4 1 4 25.0 0 0 - 2 2 100.0 3 4 7 2 1 4 0 2 7
+p492
+aVZach Randolph POR 01/13/2006 POR vs. ORL W 32 19 8 18 44.4 0 1 0.0 3 4 75.0 2 4 6 4 0 0 0 3 6
+p493
+aVSteve Blake POR 01/13/2006 POR vs. ORL W 24 17 5 7 71.4 4 5 80.0 3 4 75.0 0 0 0 6 0 0 1 1 -2
+p494
+aVJarrett Jack POR 01/13/2006 POR vs. ORL W 20 6 2 7 28.6 0 1 0.0 2 2 100.0 0 2 2 3 0 0 0 1 6
+p495
+aVJoel Przybilla POR 01/13/2006 POR vs. ORL W 20 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 2 1 3 -1
+p496
+aVTravis Outlaw POR 01/13/2006 POR vs. ORL W 12 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 1
+p497
+aVViktor Khryapa POR 01/13/2006 POR vs. ORL W 18 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 2 -1
+p498
+aVSebastian Telfair POR 01/13/2006 POR vs. ORL W 24 21 8 12 66.7 5 6 83.3 0 0 - 0 4 4 4 0 0 3 1 7
+p499
+aVJuan Dixon POR 01/13/2006 POR vs. ORL W 29 25 10 13 76.9 1 2 50.0 4 4 100.0 0 1 1 2 0 0 1 2 -4
+p500
+aVRuben Patterson POR 01/11/2006 POR vs. LAL W 29 21 8 13 61.5 0 0 - 5 6 83.3 2 1 3 0 0 0 0 5 2
+p501
+aVJoel Przybilla POR 01/11/2006 POR vs. LAL W 20 6 1 3 33.3 0 0 - 4 6 66.7 2 1 3 0 0 0 1 5 -10
+p502
+aVTheo Ratliff POR 01/11/2006 POR vs. LAL W 23 10 3 3 100.0 0 0 - 4 5 80.0 1 6 7 0 1 2 1 4 9
+p503
+aVSteve Blake POR 01/11/2006 POR vs. LAL W 31 19 7 10 70.0 3 5 60.0 2 2 100.0 1 1 2 9 1 0 0 0 12
+p504
+aVViktor Khryapa POR 01/11/2006 POR vs. LAL W 19 4 2 4 50.0 0 0 - 0 2 0.0 2 5 7 0 1 0 2 5 -2
+p505
+aVJarrett Jack POR 01/11/2006 POR vs. LAL W 21 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 1 0 2 1 7
+p506
+aVTravis Outlaw POR 01/11/2006 POR vs. LAL W 7 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 7
+p507
+aVSebastian Telfair POR 01/11/2006 POR vs. LAL W 12 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 1 2 -2
+p508
+aVJuan Dixon POR 01/11/2006 POR vs. LAL W 33 27 10 16 62.5 1 2 50.0 6 6 100.0 0 1 1 6 0 0 2 2 8
+p509
+aVZach Randolph POR 01/11/2006 POR vs. LAL W 44 17 8 22 36.4 0 0 - 1 2 50.0 3 11 14 5 0 0 1 1 17
+p510
+aVSergei Monia POR 01/11/2006 POR vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p511
+aVJuan Dixon POR 01/08/2006 POR vs. MIA L 22 10 3 10 30.0 0 1 0.0 4 5 80.0 0 1 1 1 1 0 3 1 -10
+p512
+aVJarrett Jack POR 01/08/2006 POR vs. MIA L 24 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 2 1 0 1 1 -18
+p513
+aVHa Seung-Jin POR 01/08/2006 POR vs. MIA L 9 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 0
+p514
+aVZach Randolph POR 01/08/2006 POR vs. MIA L 25 14 6 9 66.7 0 0 - 2 4 50.0 2 2 4 2 0 0 1 1 -13
+p515
+aVSteve Blake POR 01/08/2006 POR vs. MIA L 25 8 2 6 33.3 0 0 - 4 5 80.0 0 2 2 3 0 0 1 2 -15
+p516
+aVRuben Patterson POR 01/08/2006 POR vs. MIA L 19 16 6 10 60.0 0 1 0.0 4 6 66.7 0 2 2 1 3 0 0 2 -18
+p517
+aVViktor Khryapa POR 01/08/2006 POR vs. MIA L 13 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 2 0 0 1 2 -12
+p518
+aVSebastian Telfair POR 01/08/2006 POR vs. MIA L 23 3 1 7 14.3 0 0 - 1 2 50.0 0 0 0 3 0 0 2 2 -14
+p519
+aVTravis Outlaw POR 01/08/2006 POR vs. MIA L 30 12 4 9 44.4 0 2 0.0 4 4 100.0 1 6 7 2 1 0 1 0 -14
+p520
+aVJoel Przybilla POR 01/08/2006 POR vs. MIA L 17 7 2 2 100.0 0 0 - 3 5 60.0 1 6 7 0 0 2 0 4 -7
+p521
+aVTheo Ratliff POR 01/08/2006 POR vs. MIA L 22 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 1 1 0 1 5 -22
+p522
+aVMartell Webster POR 01/08/2006 POR vs. MIA L 11 2 0 3 0.0 0 3 0.0 2 2 100.0 0 2 2 0 0 0 1 0 -2
+p523
+aVViktor Khryapa POR 01/06/2006 POR @ NOK L 24 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 1 1 1 1 3 -13
+p524
+aVSteve Blake POR 01/06/2006 POR @ NOK L 30 7 3 7 42.9 1 3 33.3 0 0 - 2 1 3 3 1 0 1 2 -10
+p525
+aVMartell Webster POR 01/06/2006 POR @ NOK L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -14
+p526
+aVTheo Ratliff POR 01/06/2006 POR @ NOK L 28 4 2 7 28.6 0 0 - 0 0 - 3 6 9 0 0 2 1 3 -17
+p527
+aVJuan Dixon POR 01/06/2006 POR @ NOK L 40 27 11 21 52.4 4 7 57.1 1 1 100.0 1 4 5 4 1 1 5 3 1
+p528
+aVJoel Przybilla POR 01/06/2006 POR @ NOK L 24 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 0 1 3 2 5
+p529
+aVJarrett Jack POR 01/06/2006 POR @ NOK L 26 12 5 8 62.5 2 3 66.7 0 0 - 0 2 2 5 1 0 1 4 -8
+p530
+aVTravis Outlaw POR 01/06/2006 POR @ NOK L 26 7 3 8 37.5 0 3 0.0 1 2 50.0 1 4 5 1 3 1 1 1 -5
+p531
+aVRuben Patterson POR 01/06/2006 POR @ NOK L 35 12 5 13 38.5 0 0 - 2 2 100.0 0 3 3 1 1 0 3 1 11
+p532
+aVCharles Smith POR 01/04/2006 POR @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p533
+aVSteve Blake POR 01/04/2006 POR @ SAS L 22 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 1 1 -8
+p534
+aVTravis Outlaw POR 01/04/2006 POR @ SAS L 39 10 5 10 50.0 0 0 - 0 0 - 1 4 5 3 0 1 3 1 -31
+p535
+aVTheo Ratliff POR 01/04/2006 POR @ SAS L 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -12
+p536
+aVZach Randolph POR 01/04/2006 POR @ SAS L 28 5 1 14 7.1 0 0 - 3 4 75.0 2 2 4 1 1 0 0 1 -12
+p537
+aVMartell Webster POR 01/04/2006 POR @ SAS L 28 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 0 0 0 1 5 -25
+p538
+aVJarrett Jack POR 01/04/2006 POR @ SAS L 26 15 4 9 44.4 0 0 - 7 7 100.0 0 4 4 2 1 0 1 1 -23
+p539
+aVSergei Monia POR 01/04/2006 POR @ SAS L 10 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -14
+p540
+aVJoel Przybilla POR 01/04/2006 POR @ SAS L 25 8 2 3 66.7 0 0 - 4 6 66.7 4 3 7 0 0 3 0 0 -6
+p541
+aVJuan Dixon POR 01/04/2006 POR @ SAS L 20 12 6 11 54.5 0 1 0.0 0 0 - 0 3 3 2 2 0 2 4 -1
+p542
+aVRuben Patterson POR 01/04/2006 POR @ SAS L 23 11 4 8 50.0 0 0 - 3 4 75.0 1 3 4 1 1 0 4 1 -12
+p543
+aVCharles Smith POR 01/03/2006 POR @ DAL L 6 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 0 0 -5
+p544
+aVTheo Ratliff POR 01/03/2006 POR @ DAL L 28 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 -2
+p545
+aVMartell Webster POR 01/03/2006 POR @ DAL L 11 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 0 -3
+p546
+aVTravis Outlaw POR 01/03/2006 POR @ DAL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p547
+aVSteve Blake POR 01/03/2006 POR @ DAL L 38 9 4 11 36.4 0 2 0.0 1 2 50.0 0 3 3 1 2 0 2 2 -15
+p548
+aVRuben Patterson POR 01/03/2006 POR @ DAL L 24 19 6 13 46.2 0 0 - 7 11 63.6 1 2 3 2 1 0 1 1 1
+p549
+aVZach Randolph POR 01/03/2006 POR @ DAL L 40 19 9 22 40.9 0 0 - 1 2 50.0 7 4 11 1 1 0 0 2 -16
+p550
+aVJuan Dixon POR 01/03/2006 POR @ DAL L 37 13 5 14 35.7 0 2 0.0 3 5 60.0 2 7 9 4 1 0 1 4 -11
+p551
+aVJarrett Jack POR 01/03/2006 POR @ DAL L 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -2
+p552
+aVJoel Przybilla POR 01/03/2006 POR @ DAL L 20 10 3 6 50.0 0 0 - 4 5 80.0 2 1 3 0 0 4 0 3 -12
+p553
+aVViktor Khryapa POR 01/03/2006 POR @ DAL L 18 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 0 1 0 2 -5
+p554
+aVJarrett Jack POR 01/01/2006 POR vs. LAC L 16 6 3 8 37.5 0 0 - 0 0 - 2 1 3 5 1 0 0 2 2
+p555
+aVViktor Khryapa POR 01/01/2006 POR vs. LAC L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 2 -3
+p556
+aVSteve Blake POR 01/01/2006 POR vs. LAC L 32 5 2 9 22.2 1 5 20.0 0 0 - 0 3 3 11 2 0 1 2 -8
+p557
+aVTheo Ratliff POR 01/01/2006 POR vs. LAC L 31 7 3 4 75.0 0 0 - 1 2 50.0 3 4 7 3 0 0 1 4 -4
+p558
+aVMartell Webster POR 01/01/2006 POR vs. LAC L 15 9 3 10 30.0 3 4 75.0 0 0 - 2 2 4 1 0 0 0 4 -1
+p559
+aVZach Randolph POR 01/01/2006 POR vs. LAC L 34 18 9 21 42.9 0 1 0.0 0 2 0.0 4 7 11 1 0 0 0 0 -4
+p560
+aVRuben Patterson POR 01/01/2006 POR vs. LAC L 23 9 4 7 57.1 0 0 - 1 4 25.0 1 1 2 3 0 0 3 4 -8
+p561
+aVTravis Outlaw POR 01/01/2006 POR vs. LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p562
+aVJoel Przybilla POR 01/01/2006 POR vs. LAC L 17 4 2 4 50.0 0 0 - 0 0 - 4 1 5 0 0 3 2 1 -8
+p563
+aVCharles Smith POR 01/01/2006 POR vs. LAC L 13 8 3 3 100.0 2 2 100.0 0 0 - 0 4 4 0 0 0 0 4 11
+p564
+aVJuan Dixon POR 01/01/2006 POR vs. LAC L 38 24 11 18 61.1 1 3 33.3 1 2 50.0 0 2 2 4 1 0 5 2 -7
+p565
+aVTravis Outlaw POR 12/30/2005 POR vs. MEM L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p566
+aVCharles Smith POR 12/30/2005 POR vs. MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p567
+aVHa Seung-Jin POR 12/30/2005 POR vs. MEM L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -4
+p568
+aVJarrett Jack POR 12/30/2005 POR vs. MEM L 16 10 4 6 66.7 0 0 - 2 2 100.0 1 0 1 1 0 0 1 1 -7
+p569
+aVRuben Patterson POR 12/30/2005 POR vs. MEM L 29 22 8 13 61.5 0 0 - 6 8 75.0 3 1 4 1 3 0 3 2 -11
+p570
+aVJuan Dixon POR 12/30/2005 POR vs. MEM L 41 11 5 13 38.5 1 4 25.0 0 0 - 1 3 4 6 1 0 3 5 7
+p571
+aVMartell Webster POR 12/30/2005 POR vs. MEM L 18 8 2 3 66.7 2 3 66.7 2 2 100.0 1 2 3 1 0 0 0 1 -1
+p572
+aVZach Randolph POR 12/30/2005 POR vs. MEM L 37 18 8 16 50.0 0 1 0.0 2 4 50.0 3 6 9 3 1 0 2 2 5
+p573
+aVViktor Khryapa POR 12/30/2005 POR vs. MEM L 25 4 2 7 28.6 0 2 0.0 0 0 - 0 7 7 2 1 1 1 4 3
+p574
+aVSteve Blake POR 12/30/2005 POR vs. MEM L 34 10 3 7 42.9 2 4 50.0 2 2 100.0 0 2 2 6 1 0 0 1 2
+p575
+aVTheo Ratliff POR 12/30/2005 POR vs. MEM L 27 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 5 -2
+p576
+aVRuben Patterson POR 12/28/2005 POR vs. PHI W 25 17 6 12 50.0 0 0 - 5 10 50.0 2 3 5 1 1 0 1 4 -10
+p577
+aVTravis Outlaw POR 12/28/2005 POR vs. PHI W 16 4 2 9 22.2 0 0 - 0 0 - 1 2 3 0 0 1 2 3 7
+p578
+aVViktor Khryapa POR 12/28/2005 POR vs. PHI W 21 2 1 4 25.0 0 0 - 0 0 - 2 4 6 3 1 0 1 0 0
+p579
+aVMartell Webster POR 12/28/2005 POR vs. PHI W 13 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 0 0 3
+p580
+aVJarrett Jack POR 12/28/2005 POR vs. PHI W 23 4 1 4 25.0 0 1 0.0 2 3 66.7 0 2 2 3 1 0 1 3 7
+p581
+aVZach Randolph POR 12/28/2005 POR vs. PHI W 38 28 13 28 46.4 0 0 - 2 3 66.7 8 6 14 3 2 1 3 2 10
+p582
+aVJuan Dixon POR 12/28/2005 POR vs. PHI W 35 18 7 19 36.8 1 2 50.0 3 3 100.0 2 4 6 3 0 0 0 2 2
+p583
+aVTheo Ratliff POR 12/28/2005 POR vs. PHI W 36 9 2 7 28.6 0 0 - 5 7 71.4 3 5 8 0 2 1 2 1 3
+p584
+aVHa Seung-Jin POR 12/28/2005 POR vs. PHI W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 2 0
+p585
+aVSteve Blake POR 12/28/2005 POR vs. PHI W 26 11 3 9 33.3 1 3 33.3 4 4 100.0 0 1 1 6 1 0 1 3 -2
+p586
+aVSteve Blake POR 12/26/2005 POR @ SAC W 31 12 4 6 66.7 1 2 50.0 3 4 75.0 0 2 2 6 1 0 1 2 -9
+p587
+aVTheo Ratliff POR 12/26/2005 POR @ SAC W 27 9 4 5 80.0 0 0 - 1 2 50.0 1 5 6 0 0 0 0 2 22
+p588
+aVRuben Patterson POR 12/26/2005 POR @ SAC W 20 12 4 10 40.0 0 0 - 4 4 100.0 1 6 7 0 1 1 2 1 5
+p589
+aVJarrett Jack POR 12/26/2005 POR @ SAC W 20 4 2 7 28.6 0 0 - 0 3 0.0 0 4 4 4 0 0 1 0 19
+p590
+aVMartell Webster POR 12/26/2005 POR @ SAC W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p591
+aVJuan Dixon POR 12/26/2005 POR @ SAC W 34 21 9 16 56.3 2 6 33.3 1 2 50.0 0 0 0 6 4 0 1 4 16
+p592
+aVViktor Khryapa POR 12/26/2005 POR @ SAC W 22 6 3 4 75.0 0 1 0.0 0 0 - 1 5 6 2 1 0 2 2 -4
+p593
+aVZach Randolph POR 12/26/2005 POR @ SAC W 34 22 9 17 52.9 0 2 0.0 4 4 100.0 2 7 9 1 2 0 2 2 9
+p594
+aVJoel Przybilla POR 12/26/2005 POR @ SAC W 21 8 3 7 42.9 0 0 - 2 2 100.0 2 0 2 0 0 0 1 3 -9
+p595
+aVTravis Outlaw POR 12/26/2005 POR @ SAC W 19 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 1 1 0 1 17
+p596
+aVJoel Przybilla POR 12/23/2005 POR @ MIN W 27 3 1 2 50.0 0 0 - 1 4 25.0 1 3 4 0 0 3 3 5 1
+p597
+aVTheo Ratliff POR 12/23/2005 POR @ MIN W 21 8 2 2 100.0 0 0 - 4 4 100.0 1 1 2 1 0 2 1 4 7
+p598
+aVRuben Patterson POR 12/23/2005 POR @ MIN W 26 23 9 13 69.2 0 1 0.0 5 7 71.4 0 6 6 1 2 1 0 0 29
+p599
+aVJarrett Jack POR 12/23/2005 POR @ MIN W 22 4 2 6 33.3 0 1 0.0 0 1 0.0 1 1 2 4 1 0 1 0 14
+p600
+aVTravis Outlaw POR 12/23/2005 POR @ MIN W 19 8 3 6 50.0 1 2 50.0 1 2 50.0 0 4 4 1 1 0 0 2 16
+p601
+aVJuan Dixon POR 12/23/2005 POR @ MIN W 30 12 3 9 33.3 1 1 100.0 5 7 71.4 0 3 3 4 1 0 3 0 -14
+p602
+aVViktor Khryapa POR 12/23/2005 POR @ MIN W 29 6 3 5 60.0 0 0 - 0 0 - 3 6 9 2 1 0 3 3 -5
+p603
+aVMartell Webster POR 12/23/2005 POR @ MIN W 10 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 3
+p604
+aVSteve Blake POR 12/23/2005 POR @ MIN W 26 6 1 6 16.7 0 2 0.0 4 5 80.0 1 5 6 5 0 0 0 1 -6
+p605
+aVZach Randolph POR 12/23/2005 POR @ MIN W 30 21 7 17 41.2 0 0 - 7 10 70.0 4 6 10 1 0 0 1 3 -5
+p606
+aVRuben Patterson POR 12/21/2005 POR @ MEM L 21 15 5 10 50.0 0 1 0.0 5 8 62.5 5 1 6 0 0 0 1 0 -8
+p607
+aVMartell Webster POR 12/21/2005 POR @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p608
+aVJuan Dixon POR 12/21/2005 POR @ MEM L 43 17 5 13 38.5 0 2 0.0 7 9 77.8 1 3 4 7 4 0 2 5 0
+p609
+aVCharles Smith POR 12/21/2005 POR @ MEM L 15 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 1 4 3
+p610
+aVJarrett Jack POR 12/21/2005 POR @ MEM L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 1 -7
+p611
+aVSergei Monia POR 12/21/2005 POR @ MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p612
+aVViktor Khryapa POR 12/21/2005 POR @ MEM L 24 4 0 3 0.0 0 1 0.0 4 6 66.7 3 3 6 3 0 1 2 6 3
+p613
+aVTheo Ratliff POR 12/21/2005 POR @ MEM L 18 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 1 2 3 4 -12
+p614
+aVZach Randolph POR 12/21/2005 POR @ MEM L 35 15 7 17 41.2 0 2 0.0 1 2 50.0 3 5 8 0 0 1 4 4 -16
+p615
+aVJoel Przybilla POR 12/21/2005 POR @ MEM L 29 10 4 6 66.7 0 0 - 2 2 100.0 6 3 9 0 1 6 0 3 2
+p616
+aVTravis Outlaw POR 12/21/2005 POR @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p617
+aVSteve Blake POR 12/21/2005 POR @ MEM L 39 11 4 9 44.4 1 4 25.0 2 3 66.7 0 3 3 1 1 0 0 0 -5
+p618
+aVJoel Przybilla POR 12/20/2005 POR @ DET L 20 10 4 7 57.1 0 0 - 2 3 66.7 4 3 7 1 0 3 1 1 0
+p619
+aVJarrett Jack POR 12/20/2005 POR @ DET L 20 6 3 6 50.0 0 0 - 0 0 - 1 1 2 3 0 0 0 5 0
+p620
+aVSteve Blake POR 12/20/2005 POR @ DET L 28 2 0 2 0.0 0 2 0.0 2 2 100.0 0 4 4 5 1 0 3 1 -4
+p621
+aVJuan Dixon POR 12/20/2005 POR @ DET L 37 14 5 11 45.5 0 3 0.0 4 6 66.7 1 2 3 4 2 0 4 4 -4
+p622
+aVCharles Smith POR 12/20/2005 POR @ DET L 11 2 1 2 50.0 0 1 0.0 0 2 0.0 0 2 2 0 0 0 0 3 0
+p623
+aVTheo Ratliff POR 12/20/2005 POR @ DET L 28 4 2 3 66.7 0 0 - 0 0 - 1 6 7 0 0 0 1 1 -4
+p624
+aVViktor Khryapa POR 12/20/2005 POR @ DET L 18 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 3 3 -3
+p625
+aVMartell Webster POR 12/20/2005 POR @ DET L 12 0 0 3 0.0 0 3 0.0 0 0 - 1 1 2 1 0 1 0 2 4
+p626
+aVRuben Patterson POR 12/20/2005 POR @ DET L 28 14 6 10 60.0 0 0 - 2 5 40.0 1 1 2 1 2 0 2 2 -1
+p627
+aVZach Randolph POR 12/20/2005 POR @ DET L 38 37 14 26 53.8 1 2 50.0 8 8 100.0 3 8 11 0 0 0 2 4 -8
+p628
+aVRuben Patterson POR 12/18/2005 POR vs. WAS W 20 10 3 7 42.9 0 0 - 4 6 66.7 2 3 5 3 0 1 0 3 1
+p629
+aVZach Randolph POR 12/18/2005 POR vs. WAS W 28 9 3 13 23.1 0 0 - 3 4 75.0 1 4 5 2 0 0 2 1 4
+p630
+aVHa Seung-Jin POR 12/18/2005 POR vs. WAS W 11 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 2 2 2
+p631
+aVSteve Blake POR 12/18/2005 POR vs. WAS W 25 14 5 9 55.6 1 3 33.3 3 4 75.0 1 4 5 4 0 0 2 4 -3
+p632
+aVTheo Ratliff POR 12/18/2005 POR vs. WAS W 36 7 3 6 50.0 0 0 - 1 4 25.0 4 5 9 2 0 3 2 4 3
+p633
+aVJuan Dixon POR 12/18/2005 POR vs. WAS W 38 20 8 13 61.5 1 3 33.3 3 5 60.0 1 1 2 3 0 0 0 2 -1
+p634
+aVCharles Smith POR 12/18/2005 POR vs. WAS W 11 9 4 10 40.0 1 4 25.0 0 0 - 2 1 3 0 0 0 1 2 7
+p635
+aVViktor Khryapa POR 12/18/2005 POR vs. WAS W 35 12 5 8 62.5 1 1 100.0 1 1 100.0 4 4 8 2 3 0 2 3 4
+p636
+aVMartell Webster POR 12/18/2005 POR vs. WAS W 9 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 1 0 3
+p637
+aVJarrett Jack POR 12/18/2005 POR vs. WAS W 27 11 2 6 33.3 1 1 100.0 6 6 100.0 0 6 6 8 1 0 1 2 5
+p638
+aVJoel Przybilla POR 12/16/2005 POR vs. SEA L 25 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 2 4 4 -9
+p639
+aVTheo Ratliff POR 12/16/2005 POR vs. SEA L 21 4 2 2 100.0 0 0 - 0 0 - 1 2 3 1 2 2 1 6 -8
+p640
+aVHa Seung-Jin POR 12/16/2005 POR vs. SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p641
+aVJarrett Jack POR 12/16/2005 POR vs. SEA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -14
+p642
+aVRuben Patterson POR 12/16/2005 POR vs. SEA L 18 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 2 0 2 1 -28
+p643
+aVSergei Monia POR 12/16/2005 POR vs. SEA L 15 6 2 3 66.7 1 2 50.0 1 2 50.0 1 1 2 1 0 0 1 1 -17
+p644
+aVSteve Blake POR 12/16/2005 POR vs. SEA L 41 19 7 14 50.0 2 4 50.0 3 4 75.0 0 4 4 13 2 1 3 3 2
+p645
+aVViktor Khryapa POR 12/16/2005 POR vs. SEA L 27 19 8 12 66.7 1 3 33.3 2 4 50.0 2 1 3 1 4 0 1 6 22
+p646
+aVMartell Webster POR 12/16/2005 POR vs. SEA L 15 3 1 5 20.0 0 2 0.0 1 1 100.0 0 2 2 0 0 0 1 1 -4
+p647
+aVZach Randolph POR 12/16/2005 POR vs. SEA L 38 23 9 12 75.0 1 1 100.0 4 8 50.0 1 7 8 8 0 1 4 3 3
+p648
+aVCharles Smith POR 12/16/2005 POR vs. SEA L 19 15 6 8 75.0 3 5 60.0 0 0 - 0 0 0 1 0 0 1 4 19
+p649
+aVJuan Dixon POR 12/16/2005 POR vs. SEA L 13 2 1 6 16.7 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -30
+p650
+aVJarrett Jack POR 12/14/2005 POR @ UTA L 29 9 3 10 30.0 0 2 0.0 3 4 75.0 0 4 4 1 4 0 2 4 8
+p651
+aVJuan Dixon POR 12/14/2005 POR @ UTA L 16 6 1 4 25.0 0 1 0.0 4 4 100.0 0 3 3 0 1 0 1 0 9
+p652
+aVZach Randolph POR 12/14/2005 POR @ UTA L 33 18 6 13 46.2 0 0 - 6 8 75.0 2 7 9 2 0 0 3 5 -4
+p653
+aVSergei Monia POR 12/14/2005 POR @ UTA L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p654
+aVTravis Outlaw POR 12/14/2005 POR @ UTA L 17 8 1 5 20.0 0 0 - 6 6 100.0 1 0 1 0 0 0 0 3 3
+p655
+aVHa Seung-Jin POR 12/14/2005 POR @ UTA L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 4 -9
+p656
+aVJoel Przybilla POR 12/14/2005 POR @ UTA L 34 9 4 7 57.1 0 0 - 1 4 25.0 3 5 8 1 0 6 1 4 10
+p657
+aVMartell Webster POR 12/14/2005 POR @ UTA L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -10
+p658
+aVRuben Patterson POR 12/14/2005 POR @ UTA L 20 6 1 4 25.0 0 0 - 4 4 100.0 2 2 4 3 0 1 0 2 -3
+p659
+aVSteve Blake POR 12/14/2005 POR @ UTA L 21 12 5 7 71.4 2 3 66.7 0 0 - 0 1 1 1 0 0 0 3 -6
+p660
+aVViktor Khryapa POR 12/14/2005 POR @ UTA L 17 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 3 0 2 -11
+p661
+aVSebastian Telfair POR 12/14/2005 POR @ UTA L 19 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 1 1 0 2 2 -13
+p662
+aVSebastian Telfair POR 12/11/2005 POR vs. HOU L 26 17 5 11 45.5 3 7 42.9 4 6 66.7 0 0 0 3 1 0 1 5 -5
+p663
+aVJarrett Jack POR 12/11/2005 POR vs. HOU L 10 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -2
+p664
+aVJoel Przybilla POR 12/11/2005 POR vs. HOU L 39 8 3 7 42.9 0 0 - 2 6 33.3 7 8 15 0 0 2 2 3 1
+p665
+aVSteve Blake POR 12/11/2005 POR vs. HOU L 24 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 4 1 0 2 2 -8
+p666
+aVRuben Patterson POR 12/11/2005 POR vs. HOU L 20 12 4 6 66.7 0 0 - 4 5 80.0 2 0 2 1 0 0 3 1 -14
+p667
+aVMartell Webster POR 12/11/2005 POR vs. HOU L 21 8 3 8 37.5 2 6 33.3 0 2 0.0 0 1 1 0 0 0 0 1 -3
+p668
+aVJuan Dixon POR 12/11/2005 POR vs. HOU L 22 6 2 8 25.0 1 2 50.0 1 1 100.0 0 2 2 4 0 0 0 4 -18
+p669
+aVSergei Monia POR 12/11/2005 POR vs. HOU L 6 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -2
+p670
+aVZach Randolph POR 12/11/2005 POR vs. HOU L 33 15 6 22 27.3 0 0 - 3 5 60.0 3 10 13 2 1 0 3 2 1
+p671
+aVHa Seung-Jin POR 12/11/2005 POR vs. HOU L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 4 -15
+p672
+aVViktor Khryapa POR 12/11/2005 POR vs. HOU L 30 6 2 6 33.3 0 0 - 2 2 100.0 4 3 7 2 1 0 1 5 -5
+p673
+aVRuben Patterson POR 12/09/2005 POR vs. NOK W 35 12 6 12 50.0 0 1 0.0 0 2 0.0 1 3 4 2 2 1 3 5 2
+p674
+aVJuan Dixon POR 12/09/2005 POR vs. NOK W 34 28 13 22 59.1 2 2 100.0 0 0 - 1 1 2 1 0 0 2 4 11
+p675
+aVJoel Przybilla POR 12/09/2005 POR vs. NOK W 44 11 4 6 66.7 0 0 - 3 7 42.9 5 14 19 0 0 2 3 4 6
+p676
+aVSteve Blake POR 12/09/2005 POR vs. NOK W 22 7 2 4 50.0 1 1 100.0 2 2 100.0 0 3 3 3 0 0 1 1 1
+p677
+aVTravis Outlaw POR 12/09/2005 POR vs. NOK W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -2
+p678
+aVJarrett Jack POR 12/09/2005 POR vs. NOK W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p679
+aVHa Seung-Jin POR 12/09/2005 POR vs. NOK W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p680
+aVMartell Webster POR 12/09/2005 POR vs. NOK W 16 4 1 4 25.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 0 1 3
+p681
+aVViktor Khryapa POR 12/09/2005 POR vs. NOK W 35 16 6 10 60.0 1 2 50.0 3 4 75.0 5 1 6 3 1 0 3 6 8
+p682
+aVZach Randolph POR 12/09/2005 POR vs. NOK W 29 9 4 11 36.4 0 0 - 1 2 50.0 1 1 2 0 0 1 1 3 -4
+p683
+aVSebastian Telfair POR 12/09/2005 POR vs. NOK W 31 11 4 10 40.0 1 2 50.0 2 4 50.0 0 1 1 8 0 0 1 2 -2
+p684
+aVSergei Monia POR 12/09/2005 POR vs. NOK W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p685
+aVJoel Przybilla POR 12/07/2005 POR vs. MIN L 28 10 4 5 80.0 0 0 - 2 3 66.7 3 9 12 0 0 3 1 6 6
+p686
+aVRuben Patterson POR 12/07/2005 POR vs. MIN L 29 7 2 4 50.0 0 0 - 3 6 50.0 0 3 3 1 1 1 1 0 -12
+p687
+aVJuan Dixon POR 12/07/2005 POR vs. MIN L 20 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 2 0 0 1 2 1
+p688
+aVJarrett Jack POR 12/07/2005 POR vs. MIN L 26 9 2 7 28.6 0 1 0.0 5 5 100.0 0 3 3 2 2 0 2 0 -16
+p689
+aVSergei Monia POR 12/07/2005 POR vs. MIN L 7 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p690
+aVViktor Khryapa POR 12/07/2005 POR vs. MIN L 17 6 2 6 33.3 0 0 - 2 2 100.0 1 0 1 1 1 0 1 4 4
+p691
+aVZach Randolph POR 12/07/2005 POR vs. MIN L 39 15 6 15 40.0 0 0 - 3 5 60.0 4 6 10 0 0 0 3 1 -17
+p692
+aVSebastian Telfair POR 12/07/2005 POR vs. MIN L 26 4 2 10 20.0 0 1 0.0 0 0 - 0 1 1 6 1 1 2 4 -8
+p693
+aVMartell Webster POR 12/07/2005 POR vs. MIN L 29 13 5 11 45.5 1 5 20.0 2 2 100.0 0 2 2 1 0 1 1 1 4
+p694
+aVTheo Ratliff POR 12/07/2005 POR vs. MIN L 19 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 5 -4
+p695
+aVTheo Ratliff POR 12/06/2005 POR @ PHX L 10 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -4
+p696
+aVMartell Webster POR 12/06/2005 POR @ PHX L 26 6 2 6 33.3 1 4 25.0 1 2 50.0 0 1 1 0 0 2 0 3 -25
+p697
+aVJarrett Jack POR 12/06/2005 POR @ PHX L 17 14 6 11 54.5 0 3 0.0 2 2 100.0 0 0 0 0 0 0 2 2 -13
+p698
+aVViktor Khryapa POR 12/06/2005 POR @ PHX L 30 2 1 7 14.3 0 1 0.0 0 1 0.0 1 3 4 2 3 0 3 3 -25
+p699
+aVSergei Monia POR 12/06/2005 POR @ PHX L 25 4 2 8 25.0 0 1 0.0 0 0 - 2 6 8 1 1 2 0 1 -24
+p700
+aVSebastian Telfair POR 12/06/2005 POR @ PHX L 25 12 5 11 45.5 0 0 - 2 2 100.0 0 1 1 0 0 0 1 2 -30
+p701
+aVJuan Dixon POR 12/06/2005 POR @ PHX L 21 10 5 12 41.7 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -12
+p702
+aVSteve Blake POR 12/06/2005 POR @ PHX L 16 5 2 5 40.0 1 2 50.0 0 0 - 2 0 2 4 1 0 1 1 -10
+p703
+aVTravis Outlaw POR 12/06/2005 POR @ PHX L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -8
+p704
+aVRuben Patterson POR 12/06/2005 POR @ PHX L 15 9 4 9 44.4 0 0 - 1 2 50.0 3 1 4 2 1 1 0 0 -13
+p705
+aVJoel Przybilla POR 12/06/2005 POR @ PHX L 22 6 3 8 37.5 0 0 - 0 0 - 3 3 6 1 0 1 1 0 -31
+p706
+aVZach Randolph POR 12/06/2005 POR @ PHX L 25 15 6 16 37.5 0 0 - 3 4 75.0 2 2 4 1 0 0 2 1 -30
+p707
+aVTravis Outlaw POR 12/04/2005 POR vs. UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -3
+p708
+aVHa Seung-Jin POR 12/04/2005 POR vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p709
+aVJuan Dixon POR 12/04/2005 POR vs. UTA L 20 8 2 8 25.0 1 2 50.0 3 4 75.0 0 2 2 0 0 0 1 5 -15
+p710
+aVViktor Khryapa POR 12/04/2005 POR vs. UTA L 17 9 4 4 100.0 1 1 100.0 0 0 - 0 3 3 2 1 0 1 4 -4
+p711
+aVZach Randolph POR 12/04/2005 POR vs. UTA L 39 18 8 17 47.1 0 0 - 2 3 66.7 5 3 8 2 0 0 1 3 0
+p712
+aVMartell Webster POR 12/04/2005 POR vs. UTA L 31 10 2 11 18.2 1 6 16.7 5 5 100.0 2 0 2 0 1 0 1 1 4
+p713
+aVRuben Patterson POR 12/04/2005 POR vs. UTA L 28 19 8 10 80.0 0 0 - 3 6 50.0 1 1 2 2 0 0 5 0 4
+p714
+aVJoel Przybilla POR 12/04/2005 POR vs. UTA L 36 9 4 7 57.1 0 0 - 1 5 20.0 10 7 17 1 0 2 1 5 3
+p715
+aVSergei Monia POR 12/04/2005 POR vs. UTA L 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 3 1 0 0 2 -6
+p716
+aVJarrett Jack POR 12/04/2005 POR vs. UTA L 17 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 2 0 1 2 -14
+p717
+aVSebastian Telfair POR 12/04/2005 POR vs. UTA L 32 19 4 14 28.6 3 7 42.9 8 8 100.0 0 0 0 5 2 0 2 4 9
+p718
+aVZach Randolph POR 12/02/2005 POR vs. IND L 31 12 6 16 37.5 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -21
+p719
+aVHa Seung-Jin POR 12/02/2005 POR vs. IND L 26 8 3 6 50.0 0 0 - 2 4 50.0 3 3 6 0 0 2 1 4 3
+p720
+aVJarrett Jack POR 12/02/2005 POR vs. IND L 25 15 6 7 85.7 0 1 0.0 3 3 100.0 1 0 1 3 1 0 2 1 -1
+p721
+aVSergei Monia POR 12/02/2005 POR vs. IND L 23 4 2 3 66.7 0 1 0.0 0 0 - 1 3 4 0 0 0 0 3 -21
+p722
+aVJuan Dixon POR 12/02/2005 POR vs. IND L 15 3 1 5 20.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -12
+p723
+aVViktor Khryapa POR 12/02/2005 POR vs. IND L 12 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 0 3 0 1 1 5
+p724
+aVSteve Blake POR 12/02/2005 POR vs. IND L 9 1 0 1 0.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 3
+p725
+aVJoel Przybilla POR 12/02/2005 POR vs. IND L 20 10 4 7 57.1 0 0 - 2 2 100.0 4 3 7 0 0 1 3 3 -20
+p726
+aVTravis Outlaw POR 12/02/2005 POR vs. IND L 17 5 2 9 22.2 0 1 0.0 1 2 50.0 2 2 4 0 0 1 0 2 -6
+p727
+aVSebastian Telfair POR 12/02/2005 POR vs. IND L 26 7 3 10 30.0 1 4 25.0 0 0 - 0 1 1 5 1 0 1 0 -16
+p728
+aVDarius Miles POR 12/02/2005 POR vs. IND L 36 10 3 12 25.0 0 0 - 4 10 40.0 1 3 4 3 0 0 0 1 -14
+p729
+aVJuan Dixon POR 11/30/2005 POR @ WAS L 29 10 4 8 50.0 1 2 50.0 1 1 100.0 0 3 3 2 1 0 3 4 -1
+p730
+aVDarius Miles POR 11/30/2005 POR @ WAS L 40 21 9 14 64.3 0 0 - 3 5 60.0 0 5 5 2 1 2 4 6 2
+p731
+aVJarrett Jack POR 11/30/2005 POR @ WAS L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p732
+aVSteve Blake POR 11/30/2005 POR @ WAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p733
+aVSebastian Telfair POR 11/30/2005 POR @ WAS L 37 14 5 15 33.3 1 5 20.0 3 5 60.0 0 6 6 7 1 0 2 2 8
+p734
+aVHa Seung-Jin POR 11/30/2005 POR @ WAS L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -11
+p735
+aVJoel Przybilla POR 11/30/2005 POR @ WAS L 42 17 8 12 66.7 0 0 - 1 4 25.0 5 10 15 0 2 6 2 3 3
+p736
+aVTravis Outlaw POR 11/30/2005 POR @ WAS L 18 4 2 5 40.0 0 0 - 0 0 - 0 6 6 0 0 3 1 3 -21
+p737
+aVSergei Monia POR 11/30/2005 POR @ WAS L 17 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 0 0 0 2 2 -1
+p738
+aVZach Randolph POR 11/30/2005 POR @ WAS L 43 16 7 18 38.9 0 1 0.0 2 2 100.0 3 6 9 5 0 1 4 0 1
+p739
+aVZach Randolph POR 11/29/2005 POR @ PHI L 39 24 10 18 55.6 0 0 - 4 6 66.7 1 8 9 1 2 0 2 2 -24
+p740
+aVMartell Webster POR 11/29/2005 POR @ PHI L 14 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 3 2 -11
+p741
+aVJoel Przybilla POR 11/29/2005 POR @ PHI L 33 3 0 3 0.0 0 0 - 3 6 50.0 1 6 7 0 1 5 3 3 -6
+p742
+aVJuan Dixon POR 11/29/2005 POR @ PHI L 14 5 1 5 20.0 0 0 - 3 4 75.0 1 0 1 2 0 0 1 3 -10
+p743
+aVTheo Ratliff POR 11/29/2005 POR @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p744
+aVSteve Blake POR 11/29/2005 POR @ PHI L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 0
+p745
+aVTravis Outlaw POR 11/29/2005 POR @ PHI L 20 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 2 -28
+p746
+aVSergei Monia POR 11/29/2005 POR @ PHI L 26 4 2 6 33.3 0 3 0.0 0 0 - 0 4 4 2 0 0 1 2 -5
+p747
+aVViktor Khryapa POR 11/29/2005 POR @ PHI L 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -2
+p748
+aVSebastian Telfair POR 11/29/2005 POR @ PHI L 26 12 5 9 55.6 2 2 100.0 0 0 - 0 0 0 3 1 0 1 3 -9
+p749
+aVDarius Miles POR 11/29/2005 POR @ PHI L 36 13 4 9 44.4 0 0 - 5 8 62.5 0 4 4 4 1 4 1 2 -10
+p750
+aVJarrett Jack POR 11/29/2005 POR @ PHI L 16 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 1 0 -15
+p751
+aVMartell Webster POR 11/27/2005 POR @ ATL W 18 10 4 8 50.0 2 4 50.0 0 0 - 1 1 2 1 0 0 2 0 15
+p752
+aVCharles Smith POR 11/27/2005 POR @ ATL W 7 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 10
+p753
+aVJoel Przybilla POR 11/27/2005 POR @ ATL W 23 5 2 3 66.7 0 0 - 1 3 33.3 1 4 5 0 0 1 3 2 -21
+p754
+aVTravis Outlaw POR 11/27/2005 POR @ ATL W 19 4 2 7 28.6 0 2 0.0 0 0 - 2 2 4 2 2 0 0 2 7
+p755
+aVJarrett Jack POR 11/27/2005 POR @ ATL W 29 8 2 9 22.2 0 2 0.0 4 4 100.0 0 1 1 4 1 0 0 0 18
+p756
+aVSergei Monia POR 11/27/2005 POR @ ATL W 25 4 1 4 25.0 1 3 33.3 1 2 50.0 0 0 0 0 1 0 0 4 -12
+p757
+aVZach Randolph POR 11/27/2005 POR @ ATL W 45 24 12 15 80.0 0 0 - 0 2 0.0 2 13 15 1 0 1 3 3 6
+p758
+aVSebastian Telfair POR 11/27/2005 POR @ ATL W 26 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 3 1 0 2 2 -19
+p759
+aVTheo Ratliff POR 11/27/2005 POR @ ATL W 16 8 4 4 100.0 0 0 - 0 0 - 3 2 5 0 0 5 0 2 9
+p760
+aVDarius Miles POR 11/27/2005 POR @ ATL W 32 12 4 11 36.4 0 0 - 4 6 66.7 1 3 4 2 1 0 3 3 -3
+p761
+aVSebastian Telfair POR 11/25/2005 POR @ ORL L 36 20 6 15 40.0 1 5 20.0 7 9 77.8 0 3 3 8 1 0 0 5 -6
+p762
+aVDarius Miles POR 11/25/2005 POR @ ORL L 43 23 11 20 55.0 0 0 - 1 4 25.0 1 2 3 1 1 2 3 2 -12
+p763
+aVMartell Webster POR 11/25/2005 POR @ ORL L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 2 -7
+p764
+aVJoel Przybilla POR 11/25/2005 POR @ ORL L 42 15 6 8 75.0 0 0 - 3 4 75.0 6 6 12 2 0 4 0 3 -9
+p765
+aVSergei Monia POR 11/25/2005 POR @ ORL L 27 4 1 9 11.1 0 3 0.0 2 2 100.0 1 2 3 3 0 0 0 1 -5
+p766
+aVJuan Dixon POR 11/25/2005 POR @ ORL L 17 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 1 1 0 2 1 -11
+p767
+aVJarrett Jack POR 11/25/2005 POR @ ORL L 12 7 2 2 100.0 0 0 - 3 3 100.0 0 0 0 3 0 0 1 2 -9
+p768
+aVZach Randolph POR 11/25/2005 POR @ ORL L 35 8 4 14 28.6 0 0 - 0 0 - 0 2 2 2 1 0 5 2 -20
+p769
+aVTravis Outlaw POR 11/25/2005 POR @ ORL L 21 5 2 3 66.7 0 0 - 1 1 100.0 1 4 5 0 0 1 0 0 4
+p770
+aVTheo Ratliff POR 11/23/2005 POR @ MIA L 24 4 2 2 100.0 0 0 - 0 2 0.0 0 2 2 0 0 1 0 2 -2
+p771
+aVTravis Outlaw POR 11/23/2005 POR @ MIA L 23 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 2 2 0 1 1 -5
+p772
+aVViktor Khryapa POR 11/23/2005 POR @ MIA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 1
+p773
+aVJarrett Jack POR 11/23/2005 POR @ MIA L 25 6 3 7 42.9 0 2 0.0 0 0 - 0 5 5 4 0 0 2 1 -4
+p774
+aVJoel Przybilla POR 11/23/2005 POR @ MIA L 18 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 3 3 4 -20
+p775
+aVJuan Dixon POR 11/23/2005 POR @ MIA L 21 5 2 7 28.6 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p776
+aVSteve Blake POR 11/23/2005 POR @ MIA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 3 1 0 0 1 1
+p777
+aVSergei Monia POR 11/23/2005 POR @ MIA L 22 9 4 6 66.7 1 2 50.0 0 0 - 1 5 6 0 0 0 1 4 -13
+p778
+aVDarius Miles POR 11/23/2005 POR @ MIA L 35 19 7 15 46.7 0 1 0.0 5 7 71.4 2 3 5 2 0 2 3 1 -19
+p779
+aVSebastian Telfair POR 11/23/2005 POR @ MIA L 20 3 1 5 20.0 0 1 0.0 1 1 100.0 0 1 1 3 0 0 2 2 -20
+p780
+aVZach Randolph POR 11/23/2005 POR @ MIA L 33 16 6 14 42.9 0 0 - 4 5 80.0 2 6 8 1 0 0 1 2 -17
+p781
+aVMartell Webster POR 11/23/2005 POR @ MIA L 7 13 5 7 71.4 3 4 75.0 0 0 - 0 1 1 0 1 0 1 1 -2
+p782
+aVTravis Outlaw POR 11/22/2005 POR @ MEM W 20 10 4 6 66.7 0 2 0.0 2 2 100.0 1 3 4 0 2 0 0 0 11
+p783
+aVSebastian Telfair POR 11/22/2005 POR @ MEM W 29 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 6 0 0 2 1 -3
+p784
+aVSergei Monia POR 11/22/2005 POR @ MEM W 19 8 3 3 100.0 1 1 100.0 1 2 50.0 1 2 3 0 1 2 1 4 -5
+p785
+aVJoel Przybilla POR 11/22/2005 POR @ MEM W 21 6 3 5 60.0 0 0 - 0 0 - 1 4 5 1 0 0 1 3 -5
+p786
+aVTheo Ratliff POR 11/22/2005 POR @ MEM W 24 4 1 2 50.0 0 0 - 2 2 100.0 5 4 9 0 0 4 0 2 5
+p787
+aVDarius Miles POR 11/22/2005 POR @ MEM W 42 22 9 18 50.0 0 0 - 4 8 50.0 0 5 5 2 3 2 3 2 8
+p788
+aVZach Randolph POR 11/22/2005 POR @ MEM W 37 20 7 17 41.2 0 0 - 6 7 85.7 4 9 13 3 0 0 2 1 2
+p789
+aVJarrett Jack POR 11/22/2005 POR @ MEM W 20 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 5 0 0 1 2 11
+p790
+aVJuan Dixon POR 11/22/2005 POR @ MEM W 28 20 5 12 41.7 0 1 0.0 10 11 90.9 0 3 3 1 1 0 2 1 16
+p791
+aVRuben Patterson POR 11/20/2005 POR @ NYK L 12 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 2 3 -5
+p792
+aVSergei Monia POR 11/20/2005 POR @ NYK L 22 8 3 4 75.0 2 2 100.0 0 0 - 0 4 4 1 0 0 2 3 5
+p793
+aVTheo Ratliff POR 11/20/2005 POR @ NYK L 24 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 2 3 -13
+p794
+aVZach Randolph POR 11/20/2005 POR @ NYK L 40 17 8 13 61.5 0 1 0.0 1 3 33.3 0 2 2 3 0 0 2 3 -2
+p795
+aVJoel Przybilla POR 11/20/2005 POR @ NYK L 19 5 2 2 100.0 0 0 - 1 3 33.3 1 1 2 1 0 3 2 3 -2
+p796
+aVSebastian Telfair POR 11/20/2005 POR @ NYK L 40 27 8 12 66.7 3 5 60.0 8 11 72.7 1 5 6 7 3 0 3 5 -1
+p797
+aVTravis Outlaw POR 11/20/2005 POR @ NYK L 11 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 1 0 0 1 -17
+p798
+aVJuan Dixon POR 11/20/2005 POR @ NYK L 26 13 5 7 71.4 3 3 100.0 0 0 - 0 1 1 1 0 0 3 2 -16
+p799
+aVDarius Miles POR 11/20/2005 POR @ NYK L 38 16 5 13 38.5 0 0 - 6 8 75.0 2 5 7 5 0 0 7 5 6
+p800
+aVJarrett Jack POR 11/20/2005 POR @ NYK L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -10
+p801
+aVTravis Outlaw POR 11/18/2005 POR vs. GSW L 11 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 1 0 0 0 1 -3
+p802
+aVJuan Dixon POR 11/18/2005 POR vs. GSW L 28 9 4 9 44.4 0 2 0.0 1 1 100.0 0 4 4 3 0 0 1 3 -1
+p803
+aVJarrett Jack POR 11/18/2005 POR vs. GSW L 10 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 1 0 0 1 0 -9
+p804
+aVSergei Monia POR 11/18/2005 POR vs. GSW L 12 8 3 6 50.0 2 2 100.0 0 0 - 0 0 0 1 0 0 3 2 -16
+p805
+aVRuben Patterson POR 11/18/2005 POR vs. GSW L 23 6 0 4 0.0 0 0 - 6 6 100.0 0 3 3 0 0 0 3 2 0
+p806
+aVDarius Miles POR 11/18/2005 POR vs. GSW L 42 15 6 11 54.5 0 2 0.0 3 4 75.0 0 8 8 3 1 2 5 4 -4
+p807
+aVSebastian Telfair POR 11/18/2005 POR vs. GSW L 40 20 7 16 43.8 3 8 37.5 3 4 75.0 0 1 1 3 1 0 3 2 -2
+p808
+aVTheo Ratliff POR 11/18/2005 POR vs. GSW L 29 2 1 2 50.0 0 0 - 0 0 - 4 5 9 0 0 3 4 2 -2
+p809
+aVZach Randolph POR 11/18/2005 POR vs. GSW L 31 13 5 14 35.7 0 0 - 3 3 100.0 6 7 13 3 2 0 2 4 -5
+p810
+aVJoel Przybilla POR 11/18/2005 POR vs. GSW L 14 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 2 4 -13
+p811
+aVJuan Dixon POR 11/16/2005 POR vs. CHI W 31 16 5 10 50.0 1 2 50.0 5 5 100.0 0 2 2 1 1 0 2 2 9
+p812
+aVSebastian Telfair POR 11/16/2005 POR vs. CHI W 28 8 4 10 40.0 0 1 0.0 0 0 - 0 0 0 5 0 1 2 3 14
+p813
+aVSergei Monia POR 11/16/2005 POR vs. CHI W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p814
+aVDarius Miles POR 11/16/2005 POR vs. CHI W 43 14 6 12 50.0 0 0 - 2 4 50.0 0 5 5 1 4 3 3 2 5
+p815
+aVJarrett Jack POR 11/16/2005 POR vs. CHI W 31 11 3 5 60.0 1 2 50.0 4 4 100.0 0 1 1 5 0 0 4 3 -11
+p816
+aVRuben Patterson POR 11/16/2005 POR vs. CHI W 15 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 -6
+p817
+aVMartell Webster POR 11/16/2005 POR vs. CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p818
+aVTheo Ratliff POR 11/16/2005 POR vs. CHI W 16 11 3 4 75.0 0 0 - 5 7 71.4 3 3 6 0 0 3 0 3 -6
+p819
+aVZach Randolph POR 11/16/2005 POR vs. CHI W 41 22 8 15 53.3 0 0 - 6 9 66.7 1 9 10 1 2 0 1 1 2
+p820
+aVJoel Przybilla POR 11/16/2005 POR vs. CHI W 26 9 3 4 75.0 0 0 - 3 6 50.0 2 5 7 1 1 2 1 1 10
+p821
+aVZach Randolph POR 11/11/2005 POR vs. DET L 43 21 9 21 42.9 0 1 0.0 3 3 100.0 2 8 10 1 0 0 3 1 5
+p822
+aVSebastian Telfair POR 11/11/2005 POR vs. DET L 30 8 3 6 50.0 0 1 0.0 2 2 100.0 1 1 2 6 0 0 3 5 2
+p823
+aVJuan Dixon POR 11/11/2005 POR vs. DET L 18 19 6 6 100.0 1 1 100.0 6 7 85.7 0 1 1 0 0 0 1 2 -2
+p824
+aVJarrett Jack POR 11/11/2005 POR vs. DET L 18 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 7 0 1 0 3 -5
+p825
+aVMartell Webster POR 11/11/2005 POR vs. DET L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p826
+aVRuben Patterson POR 11/11/2005 POR vs. DET L 27 6 3 7 42.9 0 0 - 0 2 0.0 2 2 4 1 0 0 3 2 -4
+p827
+aVDarius Miles POR 11/11/2005 POR vs. DET L 42 23 10 19 52.6 0 0 - 3 5 60.0 0 2 2 1 0 2 4 4 -2
+p828
+aVJoel Przybilla POR 11/11/2005 POR vs. DET L 22 2 1 2 50.0 0 0 - 0 0 - 4 4 8 1 0 3 1 0 2
+p829
+aVSergei Monia POR 11/11/2005 POR vs. DET L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -1
+p830
+aVTheo Ratliff POR 11/11/2005 POR vs. DET L 26 1 0 1 0.0 0 0 - 1 2 50.0 4 10 14 1 0 0 0 1 -5
+p831
+aVRuben Patterson POR 11/09/2005 POR vs. NYK W 23 17 6 12 50.0 0 1 0.0 5 7 71.4 4 1 5 0 1 1 0 0 10
+p832
+aVSergei Monia POR 11/09/2005 POR vs. NYK W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 1 1 0 3 9
+p833
+aVZach Randolph POR 11/09/2005 POR vs. NYK W 40 29 11 19 57.9 0 0 - 7 8 87.5 3 9 12 3 3 1 1 4 16
+p834
+aVJarrett Jack POR 11/09/2005 POR vs. NYK W 33 2 1 8 12.5 0 5 0.0 0 0 - 0 0 0 3 2 0 1 2 -2
+p835
+aVCharles Smith POR 11/09/2005 POR vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -1
+p836
+aVMartell Webster POR 11/09/2005 POR vs. NYK W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p837
+aVJoel Przybilla POR 11/09/2005 POR vs. NYK W 14 2 1 2 50.0 0 0 - 0 2 0.0 4 3 7 2 0 1 1 4 0
+p838
+aVDarius Miles POR 11/09/2005 POR vs. NYK W 38 26 10 20 50.0 0 0 - 6 12 50.0 2 6 8 1 3 0 4 0 9
+p839
+aVTheo Ratliff POR 11/09/2005 POR vs. NYK W 34 6 3 5 60.0 0 0 - 0 0 - 4 3 7 1 0 2 1 4 12
+p840
+aVJuan Dixon POR 11/09/2005 POR vs. NYK W 8 0 0 6 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -7
+p841
+aVSebastian Telfair POR 11/09/2005 POR vs. NYK W 21 10 4 5 80.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 2 6 18
+p842
+aVJoel Przybilla POR 11/05/2005 POR vs. ATL W 27 8 2 4 50.0 0 0 - 4 6 66.7 2 2 4 0 0 2 3 3 0
+p843
+aVDarius Miles POR 11/05/2005 POR vs. ATL W 37 14 5 15 33.3 0 0 - 4 7 57.1 1 4 5 2 0 0 4 4 -4
+p844
+aVSebastian Telfair POR 11/05/2005 POR vs. ATL W 35 18 7 15 46.7 2 5 40.0 2 2 100.0 0 5 5 3 1 0 2 4 8
+p845
+aVJarrett Jack POR 11/05/2005 POR vs. ATL W 18 10 4 6 66.7 1 1 100.0 1 2 50.0 1 2 3 4 1 0 0 2 0
+p846
+aVRuben Patterson POR 11/05/2005 POR vs. ATL W 22 8 3 7 42.9 0 0 - 2 5 40.0 0 1 1 0 0 0 1 1 -3
+p847
+aVJuan Dixon POR 11/05/2005 POR vs. ATL W 11 4 1 7 14.3 1 2 50.0 1 2 50.0 0 0 0 2 0 0 0 1 -6
+p848
+aVSergei Monia POR 11/05/2005 POR vs. ATL W 30 8 3 6 50.0 0 2 0.0 2 2 100.0 2 4 6 5 1 0 0 3 2
+p849
+aVMartell Webster POR 11/05/2005 POR vs. ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p850
+aVZach Randolph POR 11/05/2005 POR vs. ATL W 36 21 7 16 43.8 0 0 - 7 9 77.8 7 6 13 1 0 0 5 5 7
+p851
+aVTheo Ratliff POR 11/05/2005 POR vs. ATL W 21 3 1 1 100.0 0 0 - 1 1 100.0 1 4 5 1 0 1 0 0 2
+p852
+aVSebastian Telfair POR 11/04/2005 POR @ DEN L 22 5 2 11 18.2 1 2 50.0 0 0 - 4 1 5 3 1 0 3 4 -39
+p853
+aVDarius Miles POR 11/04/2005 POR @ DEN L 31 13 6 13 46.2 0 0 - 1 7 14.3 1 7 8 5 0 1 5 2 -14
+p854
+aVCharles Smith POR 11/04/2005 POR @ DEN L 25 11 4 9 44.4 1 2 50.0 2 3 66.7 0 1 1 3 1 1 0 1 -7
+p855
+aVRuben Patterson POR 11/04/2005 POR @ DEN L 20 10 4 11 36.4 0 1 0.0 2 5 40.0 2 1 3 2 4 0 3 0 -10
+p856
+aVMartell Webster POR 11/04/2005 POR @ DEN L 10 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -16
+p857
+aVTravis Outlaw POR 11/04/2005 POR @ DEN L 9 0 0 3 0.0 0 1 0.0 0 2 0.0 2 0 2 0 0 1 0 0 -26
+p858
+aVSteve Blake POR 11/04/2005 POR @ DEN L 15 2 1 3 33.3 0 2 0.0 0 0 - 1 3 4 0 0 2 2 0 -14
+p859
+aVTheo Ratliff POR 11/04/2005 POR @ DEN L 18 0 0 2 0.0 0 0 - 0 0 - 3 2 5 1 0 1 1 1 -8
+p860
+aVJarrett Jack POR 11/04/2005 POR @ DEN L 17 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 2 0 0 1 2 -16
+p861
+aVJoel Przybilla POR 11/04/2005 POR @ DEN L 24 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 1 5 1 1 -8
+p862
+aVZach Randolph POR 11/04/2005 POR @ DEN L 30 12 5 13 38.5 0 0 - 2 3 66.7 3 5 8 1 0 0 1 1 -24
+p863
+aVJuan Dixon POR 11/04/2005 POR @ DEN L 19 9 4 8 50.0 1 1 100.0 0 0 - 0 0 0 2 0 1 0 5 -13
+p864
+aVZach Randolph POR 11/02/2005 POR @ MIN L 41 18 8 21 38.1 0 0 - 2 4 50.0 6 7 13 1 2 0 2 1 1
+p865
+aVCharles Smith POR 11/02/2005 POR @ MIN L 22 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 0 1 1 0 0 -2
+p866
+aVTheo Ratliff POR 11/02/2005 POR @ MIN L 18 0 0 2 0.0 0 0 - 0 0 - 2 4 6 1 0 1 1 1 -6
+p867
+aVRuben Patterson POR 11/02/2005 POR @ MIN L 14 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 2 3 -6
+p868
+aVSebastian Telfair POR 11/02/2005 POR @ MIN L 33 5 2 6 33.3 1 2 50.0 0 0 - 0 2 2 3 0 0 3 3 2
+p869
+aVJarrett Jack POR 11/02/2005 POR @ MIN L 15 7 3 7 42.9 0 1 0.0 1 2 50.0 0 1 1 3 0 0 0 1 -6
+p870
+aVDarius Miles POR 11/02/2005 POR @ MIN L 41 32 13 24 54.2 0 1 0.0 6 8 75.0 3 8 11 5 5 3 3 2 -3
+p871
+aVJuan Dixon POR 11/02/2005 POR @ MIN L 26 11 5 14 35.7 1 5 20.0 0 0 - 1 5 6 1 0 0 1 3 -2
+p872
+aVJoel Przybilla POR 11/02/2005 POR @ MIN L 30 6 3 3 100.0 0 0 - 0 0 - 1 5 6 4 3 0 3 4 2
+p873
+a.

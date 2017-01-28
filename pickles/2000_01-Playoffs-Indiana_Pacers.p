@@ -1,0 +1,82 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTravis Best IND 05/02/2001 IND vs. PHI L 45 7 3 10 30.0 1 2 50.0 0 0 - 2 1 3 12 0 0 2 4 -4
+p2
+aVJermaine O'Neal IND 05/02/2001 IND vs. PHI L 46 16 8 16 50.0 0 1 0.0 0 0 - 2 12 14 3 0 1 2 3 -2
+p3
+aVSam Perkins IND 05/02/2001 IND vs. PHI L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p4
+aVJeff Foster IND 05/02/2001 IND vs. PHI L 23 4 2 4 50.0 0 0 - 0 0 - 0 4 4 2 0 2 1 5 10
+p5
+aVDerrick McKey IND 05/02/2001 IND vs. PHI L 14 0 0 1 0.0 0 0 - 0 0 - 3 3 6 1 0 0 1 4 -4
+p6
+aVReggie Miller IND 05/02/2001 IND vs. PHI L 43 32 11 22 50.0 4 9 44.4 6 6 100.0 0 4 4 3 0 1 2 0 5
+p7
+aVAustin Croshere IND 05/02/2001 IND vs. PHI L 27 8 3 7 42.9 1 3 33.3 1 2 50.0 1 3 4 1 0 0 2 2 -7
+p8
+aVJalen Rose IND 05/02/2001 IND vs. PHI L 37 18 7 19 36.8 2 4 50.0 2 2 100.0 1 2 3 1 0 1 2 5 -11
+p9
+aVJermaine O'Neal IND 04/28/2001 IND vs. PHI L 24 0 0 4 0.0 0 0 - 0 0 - 1 4 5 1 0 0 0 3 -13
+p10
+aVAl Harrington IND 04/28/2001 IND vs. PHI L 11 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -17
+p11
+aVJeff Foster IND 04/28/2001 IND vs. PHI L 23 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 1 1 2 4
+p12
+aVDerrick McKey IND 04/28/2001 IND vs. PHI L 16 6 2 3 66.7 1 1 100.0 1 2 50.0 1 1 2 3 1 0 0 3 6
+p13
+aVTyus Edney IND 04/28/2001 IND vs. PHI L 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -1
+p14
+aVJalen Rose IND 04/28/2001 IND vs. PHI L 45 19 8 21 38.1 0 4 0.0 3 3 100.0 1 3 4 2 3 0 1 4 0
+p15
+aVAustin Croshere IND 04/28/2001 IND vs. PHI L 32 13 4 11 36.4 0 3 0.0 5 6 83.3 3 7 10 1 1 1 3 4 -4
+p16
+aVReggie Miller IND 04/28/2001 IND vs. PHI L 46 35 11 25 44.0 5 14 35.7 8 8 100.0 2 3 5 2 1 0 2 1 -2
+p17
+aVTravis Best IND 04/28/2001 IND vs. PHI L 40 6 3 9 33.3 0 0 - 0 0 - 3 8 11 9 1 0 3 6 2
+p18
+aVAl Harrington IND 04/24/2001 IND @ PHI L 20 3 1 5 20.0 0 1 0.0 1 2 50.0 2 0 2 2 0 0 1 3 -5
+p19
+aVJermaine O'Neal IND 04/24/2001 IND @ PHI L 41 11 4 8 50.0 0 0 - 3 6 50.0 5 6 11 2 0 6 4 2 -12
+p20
+aVSam Perkins IND 04/24/2001 IND @ PHI L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p21
+aVDerrick McKey IND 04/24/2001 IND @ PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p22
+aVZan Tabak IND 04/24/2001 IND @ PHI L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -1
+p23
+aVAustin Croshere IND 04/24/2001 IND @ PHI L 33 10 3 9 33.3 1 3 33.3 3 3 100.0 0 3 3 3 3 0 2 6 -3
+p24
+aVReggie Miller IND 04/24/2001 IND @ PHI L 44 41 14 22 63.6 3 5 60.0 10 12 83.3 3 2 5 1 1 0 5 0 -15
+p25
+aVTyus Edney IND 04/24/2001 IND @ PHI L 7 2 1 4 25.0 0 1 0.0 0 1 0.0 0 0 0 1 1 0 0 0 -2
+p26
+aVJonathan Bender IND 04/24/2001 IND @ PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p27
+aVJalen Rose IND 04/24/2001 IND @ PHI L 39 18 7 17 41.2 2 6 33.3 2 2 100.0 1 4 5 5 2 0 5 5 -20
+p28
+aVTravis Best IND 04/24/2001 IND @ PHI L 34 10 4 8 50.0 0 0 - 2 2 100.0 1 3 4 6 1 0 0 5 -13
+p29
+aVJeff Foster IND 04/24/2001 IND @ PHI L 5 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 2 1 -6
+p30
+aVDerrick McKey IND 04/21/2001 IND @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p31
+aVJeff Foster IND 04/21/2001 IND @ PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p32
+aVReggie Miller IND 04/21/2001 IND @ PHI W 44 17 5 21 23.8 3 7 42.9 4 4 100.0 2 4 6 4 1 1 2 2 3
+p33
+aVJalen Rose IND 04/21/2001 IND @ PHI W 43 17 8 22 36.4 1 2 50.0 0 0 - 0 6 6 3 1 0 1 4 2
+p34
+aVZan Tabak IND 04/21/2001 IND @ PHI W 3 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -4
+p35
+aVAl Harrington IND 04/21/2001 IND @ PHI W 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -5
+p36
+aVJermaine O'Neal IND 04/21/2001 IND @ PHI W 46 12 5 11 45.5 0 0 - 2 4 50.0 4 16 20 1 0 3 1 5 7
+p37
+aVAustin Croshere IND 04/21/2001 IND @ PHI W 37 12 4 8 50.0 0 1 0.0 4 4 100.0 1 2 3 1 0 1 2 3 2
+p38
+aVSam Perkins IND 04/21/2001 IND @ PHI W 12 5 2 7 28.6 1 3 33.3 0 0 - 1 2 3 0 0 0 0 1 -5
+p39
+aVTravis Best IND 04/21/2001 IND @ PHI W 44 16 7 12 58.3 0 1 0.0 2 2 100.0 0 1 1 10 2 0 1 0 5
+p40
+a.

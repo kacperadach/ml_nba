@@ -1,0 +1,560 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarco Belinelli SAS 06/15/2014 SAS vs. MIA W 9 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 1 2
+p2
+aVTiago Splitter SAS 06/15/2014 SAS vs. MIA W 11 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 2 1 1 0 2 16
+p3
+aVTim Duncan SAS 06/15/2014 SAS vs. MIA W 33 14 5 10 50.0 0 0 - 4 6 66.7 2 6 8 2 0 2 0 3 5
+p4
+aVTony Parker SAS 06/15/2014 SAS vs. MIA W 36 16 7 18 38.9 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 2 1
+p5
+aVKawhi Leonard SAS 06/15/2014 SAS vs. MIA W 34 22 7 10 70.0 3 4 75.0 5 6 83.3 2 8 10 2 1 1 3 6 15
+p6
+aVManu Ginobili SAS 06/15/2014 SAS vs. MIA W 28 19 6 11 54.5 3 6 50.0 4 5 80.0 0 4 4 4 0 0 2 3 21
+p7
+aVMatt Bonner SAS 06/15/2014 SAS vs. MIA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 3
+p8
+aVPatty Mills SAS 06/15/2014 SAS vs. MIA W 18 17 6 10 60.0 5 8 62.5 0 0 - 0 1 1 2 0 0 0 2 15
+p9
+aVCory Joseph SAS 06/15/2014 SAS vs. MIA W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p10
+aVDanny Green SAS 06/15/2014 SAS vs. MIA W 19 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 2 2 0 1 0 -4
+p11
+aVBoris Diaw SAS 06/15/2014 SAS vs. MIA W 38 5 2 7 28.6 1 3 33.3 0 0 - 1 8 9 6 1 0 2 1 14
+p12
+aVJeff Ayres SAS 06/15/2014 SAS vs. MIA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p13
+aVAron Baynes SAS 06/15/2014 SAS vs. MIA W 2 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -1
+p14
+aVTim Duncan SAS 06/12/2014 SAS @ MIA W 31 10 4 10 40.0 0 1 0.0 2 2 100.0 1 10 11 2 2 1 0 3 21
+p15
+aVTiago Splitter SAS 06/12/2014 SAS @ MIA W 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 1
+p16
+aVCory Joseph SAS 06/12/2014 SAS @ MIA W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p17
+aVJeff Ayres SAS 06/12/2014 SAS @ MIA W 3 3 0 0 - 0 0 - 3 4 75.0 1 0 1 1 0 0 0 0 -1
+p18
+aVPatty Mills SAS 06/12/2014 SAS @ MIA W 16 14 5 8 62.5 4 6 66.7 0 0 - 0 1 1 2 0 0 1 2 7
+p19
+aVBoris Diaw SAS 06/12/2014 SAS @ MIA W 36 8 3 6 50.0 0 1 0.0 2 4 50.0 3 6 9 9 1 0 2 0 15
+p20
+aVKawhi Leonard SAS 06/12/2014 SAS @ MIA W 39 20 7 12 58.3 1 3 33.3 5 6 83.3 5 9 14 3 3 3 1 3 23
+p21
+aVManu Ginobili SAS 06/12/2014 SAS @ MIA W 28 7 2 4 50.0 1 2 50.0 2 3 66.7 0 1 1 2 0 0 4 3 27
+p22
+aVTony Parker SAS 06/12/2014 SAS @ MIA W 35 19 8 15 53.3 0 2 0.0 3 4 75.0 0 0 0 2 0 0 4 1 16
+p23
+aVMatt Bonner SAS 06/12/2014 SAS @ MIA W 9 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 2 1 0 0 1 6
+p24
+aVDanny Green SAS 06/12/2014 SAS @ MIA W 19 9 3 5 60.0 3 5 60.0 0 0 - 1 2 3 0 0 0 2 5 -7
+p25
+aVMarco Belinelli SAS 06/12/2014 SAS @ MIA W 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p26
+aVAron Baynes SAS 06/12/2014 SAS @ MIA W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p27
+aVMatt Bonner SAS 06/10/2014 SAS @ MIA W 10 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -5
+p28
+aVMarco Belinelli SAS 06/10/2014 SAS @ MIA W 6 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p29
+aVKawhi Leonard SAS 06/10/2014 SAS @ MIA W 39 29 10 13 76.9 3 6 50.0 6 7 85.7 1 3 4 2 2 2 1 4 19
+p30
+aVPatty Mills SAS 06/10/2014 SAS @ MIA W 15 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 4 1 0 0 0 10
+p31
+aVAron Baynes SAS 06/10/2014 SAS @ MIA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p32
+aVTim Duncan SAS 06/10/2014 SAS @ MIA W 30 14 4 7 57.1 0 0 - 6 8 75.0 2 4 6 2 0 0 4 2 8
+p33
+aVTiago Splitter SAS 06/10/2014 SAS @ MIA W 16 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 1 0 0 1 3 11
+p34
+aVBoris Diaw SAS 06/10/2014 SAS @ MIA W 37 9 3 6 50.0 1 2 50.0 2 4 50.0 0 5 5 3 1 1 2 3 20
+p35
+aVManu Ginobili SAS 06/10/2014 SAS @ MIA W 27 11 4 8 50.0 1 3 33.3 2 2 100.0 0 3 3 1 1 0 1 4 9
+p36
+aVTony Parker SAS 06/10/2014 SAS @ MIA W 33 15 4 10 40.0 1 3 33.3 6 6 100.0 0 1 1 4 2 0 1 4 12
+p37
+aVJeff Ayres SAS 06/10/2014 SAS @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p38
+aVDanny Green SAS 06/10/2014 SAS @ MIA W 21 15 7 8 87.5 1 2 50.0 0 1 0.0 0 1 1 3 5 1 2 4 14
+p39
+aVCory Joseph SAS 06/10/2014 SAS @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p40
+aVMatt Bonner SAS 06/08/2014 SAS vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p41
+aVKawhi Leonard SAS 06/08/2014 SAS vs. MIA L 32 9 3 9 33.3 2 3 66.7 1 2 50.0 0 2 2 3 1 0 0 6 -6
+p42
+aVPatty Mills SAS 06/08/2014 SAS vs. MIA L 15 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 -1
+p43
+aVTiago Splitter SAS 06/08/2014 SAS vs. MIA L 19 2 1 3 33.3 0 0 - 0 0 - 1 5 6 5 1 0 1 3 1
+p44
+aVTony Parker SAS 06/08/2014 SAS vs. MIA L 35 21 8 15 53.3 2 4 50.0 3 6 50.0 0 0 0 7 1 0 1 1 -1
+p45
+aVDanny Green SAS 06/08/2014 SAS vs. MIA L 18 9 3 5 60.0 2 3 66.7 1 1 100.0 0 1 1 0 1 0 0 3 0
+p46
+aVManu Ginobili SAS 06/08/2014 SAS vs. MIA L 28 19 7 15 46.7 2 7 28.6 3 3 100.0 0 2 2 4 1 0 3 3 4
+p47
+aVTim Duncan SAS 06/08/2014 SAS vs. MIA L 38 18 7 14 50.0 0 0 - 4 8 50.0 7 8 15 1 0 1 3 2 2
+p48
+aVBoris Diaw SAS 06/08/2014 SAS vs. MIA L 32 7 3 9 33.3 1 2 50.0 0 0 - 3 7 10 5 1 0 1 0 -5
+p49
+aVMarco Belinelli SAS 06/08/2014 SAS vs. MIA L 22 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 1 0 2 0 -7
+p50
+aVDanny Green SAS 06/05/2014 SAS vs. MIA W 28 13 4 9 44.4 3 7 42.9 2 2 100.0 1 2 3 1 2 1 1 2 2
+p51
+aVTony Parker SAS 06/05/2014 SAS vs. MIA W 37 19 8 15 53.3 2 2 100.0 1 2 50.0 0 0 0 8 1 0 4 1 13
+p52
+aVKawhi Leonard SAS 06/05/2014 SAS vs. MIA W 24 9 3 5 60.0 2 3 66.7 1 2 50.0 0 2 2 0 1 0 4 3 11
+p53
+aVPatty Mills SAS 06/05/2014 SAS vs. MIA W 12 7 3 5 60.0 1 3 33.3 0 0 - 1 2 3 0 1 0 0 0 -3
+p54
+aVMarco Belinelli SAS 06/05/2014 SAS vs. MIA W 18 9 2 3 66.7 2 3 66.7 3 4 75.0 0 2 2 1 0 0 1 1 -11
+p55
+aVTim Duncan SAS 06/05/2014 SAS vs. MIA W 33 21 9 10 90.0 0 0 - 3 4 75.0 1 9 10 3 0 0 5 2 10
+p56
+aVTiago Splitter SAS 06/05/2014 SAS vs. MIA W 23 14 5 6 83.3 0 0 - 4 5 80.0 0 4 4 0 0 2 4 1 1
+p57
+aVBoris Diaw SAS 06/05/2014 SAS vs. MIA W 33 2 1 5 20.0 0 1 0.0 0 0 - 2 8 10 6 0 0 1 1 30
+p58
+aVManu Ginobili SAS 06/05/2014 SAS vs. MIA W 32 16 5 10 50.0 3 6 50.0 3 3 100.0 0 5 5 11 3 1 2 3 22
+p59
+aVTiago Splitter SAS 05/31/2014 SAS @ OKC W 10 5 1 1 100.0 0 0 - 3 6 50.0 1 1 2 0 0 1 0 1 2
+p60
+aVKawhi Leonard SAS 05/31/2014 SAS @ OKC W 44 17 8 21 38.1 1 5 20.0 0 0 - 5 6 11 4 1 1 2 4 -6
+p61
+aVTony Parker SAS 05/31/2014 SAS @ OKC W 19 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 0 0 0 2 0 -11
+p62
+aVDanny Green SAS 05/31/2014 SAS @ OKC W 38 11 4 12 33.3 2 6 33.3 1 1 100.0 1 3 4 3 4 2 2 3 15
+p63
+aVPatty Mills SAS 05/31/2014 SAS @ OKC W 18 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 3 0 1 2 5
+p64
+aVTim Duncan SAS 05/31/2014 SAS @ OKC W 39 19 6 14 42.9 0 0 - 7 8 87.5 5 11 16 3 2 1 0 2 10
+p65
+aVBoris Diaw SAS 05/31/2014 SAS @ OKC W 36 26 8 14 57.1 3 6 50.0 7 10 70.0 1 2 3 2 1 0 3 5 10
+p66
+aVMatt Bonner SAS 05/31/2014 SAS @ OKC W 14 6 2 6 33.3 2 5 40.0 0 0 - 0 3 3 0 0 0 1 3 -3
+p67
+aVCory Joseph SAS 05/31/2014 SAS @ OKC W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 7
+p68
+aVMarco Belinelli SAS 05/31/2014 SAS @ OKC W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p69
+aVManu Ginobili SAS 05/31/2014 SAS @ OKC W 33 15 4 14 28.6 1 7 14.3 6 7 85.7 3 3 6 5 4 0 3 4 4
+p70
+aVAron Baynes SAS 05/29/2014 SAS vs. OKC W 4 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 2 1 1
+p71
+aVKawhi Leonard SAS 05/29/2014 SAS vs. OKC W 33 14 4 7 57.1 1 2 50.0 5 5 100.0 1 6 7 2 2 0 1 3 22
+p72
+aVPatty Mills SAS 05/29/2014 SAS vs. OKC W 16 9 3 5 60.0 3 5 60.0 0 0 - 1 1 2 0 0 0 0 2 14
+p73
+aVCory Joseph SAS 05/29/2014 SAS vs. OKC W 7 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 3 1 0 1 0 -5
+p74
+aVMatt Bonner SAS 05/29/2014 SAS vs. OKC W 17 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 6
+p75
+aVTim Duncan SAS 05/29/2014 SAS vs. OKC W 30 22 8 13 61.5 0 0 - 6 7 85.7 2 10 12 2 0 1 2 2 18
+p76
+aVBoris Diaw SAS 05/29/2014 SAS vs. OKC W 28 13 4 7 57.1 2 2 100.0 3 4 75.0 3 3 6 3 1 1 2 0 19
+p77
+aVJeff Ayres SAS 05/29/2014 SAS vs. OKC W 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p78
+aVTiago Splitter SAS 05/29/2014 SAS vs. OKC W 12 6 0 0 - 0 0 - 6 8 75.0 0 2 2 1 0 0 0 3 16
+p79
+aVMarco Belinelli SAS 05/29/2014 SAS vs. OKC W 14 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 8
+p80
+aVDanny Green SAS 05/29/2014 SAS vs. OKC W 22 14 4 9 44.4 4 8 50.0 2 2 100.0 1 3 4 1 1 1 1 2 14
+p81
+aVTony Parker SAS 05/29/2014 SAS vs. OKC W 30 12 6 13 46.2 0 1 0.0 0 0 - 1 3 4 4 1 0 2 1 15
+p82
+aVManu Ginobili SAS 05/29/2014 SAS vs. OKC W 21 19 7 9 77.8 3 4 75.0 2 2 100.0 0 4 4 6 0 0 0 2 15
+p83
+aVMatt Bonner SAS 05/27/2014 SAS @ OKC L 16 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 2 0 0 0 1 12
+p84
+aVPatty Mills SAS 05/27/2014 SAS @ OKC L 10 4 2 9 22.2 0 5 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p85
+aVTiago Splitter SAS 05/27/2014 SAS @ OKC L 19 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 1 1 0 -13
+p86
+aVCory Joseph SAS 05/27/2014 SAS @ OKC L 17 11 4 7 57.1 0 0 - 3 4 75.0 1 2 3 1 1 0 1 5 11
+p87
+aVBoris Diaw SAS 05/27/2014 SAS @ OKC L 30 14 5 11 45.5 2 6 33.3 2 2 100.0 1 9 10 3 0 0 2 2 -11
+p88
+aVTim Duncan SAS 05/27/2014 SAS @ OKC L 25 9 3 8 37.5 0 0 - 3 4 75.0 3 3 6 4 0 0 0 1 -14
+p89
+aVTony Parker SAS 05/27/2014 SAS @ OKC L 26 14 7 12 58.3 0 1 0.0 0 0 - 0 1 1 4 0 0 3 1 -18
+p90
+aVAron Baynes SAS 05/27/2014 SAS @ OKC L 12 2 0 3 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 3 9
+p91
+aVManu Ginobili SAS 05/27/2014 SAS @ OKC L 11 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 0 1 0 0 3 -10
+p92
+aVJeff Ayres SAS 05/27/2014 SAS @ OKC L 10 2 0 1 0.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 2 3
+p93
+aVMarco Belinelli SAS 05/27/2014 SAS @ OKC L 25 7 2 4 50.0 1 1 100.0 2 2 100.0 1 4 5 2 0 0 1 1 -7
+p94
+aVKawhi Leonard SAS 05/27/2014 SAS @ OKC L 25 10 3 9 33.3 2 5 40.0 2 2 100.0 1 4 5 1 0 0 1 1 -20
+p95
+aVDanny Green SAS 05/27/2014 SAS @ OKC L 15 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 2 1 3 2 -8
+p96
+aVTim Duncan SAS 05/25/2014 SAS @ OKC L 30 16 7 17 41.2 0 0 - 2 2 100.0 3 5 8 0 0 1 2 2 -7
+p97
+aVMarco Belinelli SAS 05/25/2014 SAS @ OKC L 17 6 1 2 50.0 0 0 - 4 4 100.0 0 2 2 0 0 0 1 2 1
+p98
+aVCory Joseph SAS 05/25/2014 SAS @ OKC L 6 5 1 2 50.0 0 0 - 3 3 100.0 0 0 0 1 0 0 1 0 8
+p99
+aVMatt Bonner SAS 05/25/2014 SAS @ OKC L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 8
+p100
+aVTiago Splitter SAS 05/25/2014 SAS @ OKC L 18 4 2 3 66.7 0 0 - 0 0 - 6 2 8 2 0 0 1 1 -14
+p101
+aVAron Baynes SAS 05/25/2014 SAS @ OKC L 12 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 0 0 0 1 0 7
+p102
+aVKawhi Leonard SAS 05/25/2014 SAS @ OKC L 31 10 4 11 36.4 0 3 0.0 2 2 100.0 1 2 3 2 2 0 1 2 -13
+p103
+aVDanny Green SAS 05/25/2014 SAS @ OKC L 26 8 3 12 25.0 2 6 33.3 0 0 - 0 2 2 0 0 0 0 3 -19
+p104
+aVTony Parker SAS 05/25/2014 SAS @ OKC L 28 9 4 13 30.8 1 1 100.0 0 0 - 0 1 1 4 0 1 4 2 -12
+p105
+aVPatty Mills SAS 05/25/2014 SAS @ OKC L 14 3 1 3 33.3 1 3 33.3 0 0 - 1 0 1 2 1 0 1 2 -5
+p106
+aVJeff Ayres SAS 05/25/2014 SAS @ OKC L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 7
+p107
+aVBoris Diaw SAS 05/25/2014 SAS @ OKC L 21 6 3 10 30.0 0 3 0.0 0 0 - 0 6 6 6 1 0 2 0 0
+p108
+aVManu Ginobili SAS 05/25/2014 SAS @ OKC L 24 23 8 13 61.5 6 9 66.7 1 1 100.0 0 1 1 4 2 0 2 4 -6
+p109
+aVJeff Ayres SAS 05/21/2014 SAS vs. OKC W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 5
+p110
+aVDanny Green SAS 05/21/2014 SAS vs. OKC W 28 21 7 11 63.6 7 10 70.0 0 0 - 1 2 3 1 3 0 0 1 24
+p111
+aVAron Baynes SAS 05/21/2014 SAS vs. OKC W 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 6
+p112
+aVCory Joseph SAS 05/21/2014 SAS vs. OKC W 9 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 7
+p113
+aVTiago Splitter SAS 05/21/2014 SAS vs. OKC W 24 9 2 4 50.0 0 0 - 5 5 100.0 1 9 10 4 0 3 1 0 17
+p114
+aVManu Ginobili SAS 05/21/2014 SAS vs. OKC W 21 11 2 4 50.0 1 2 50.0 6 6 100.0 1 2 3 4 1 0 0 4 14
+p115
+aVKawhi Leonard SAS 05/21/2014 SAS vs. OKC W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 1 1 1 3 23
+p116
+aVMatt Bonner SAS 05/21/2014 SAS vs. OKC W 7 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 2 0 1 0 0 5
+p117
+aVMarco Belinelli SAS 05/21/2014 SAS vs. OKC W 19 8 3 9 33.3 0 2 0.0 2 2 100.0 1 6 7 2 0 0 4 2 -2
+p118
+aVTony Parker SAS 05/21/2014 SAS vs. OKC W 28 22 10 17 58.8 0 1 0.0 2 2 100.0 0 2 2 5 2 0 4 1 32
+p119
+aVTim Duncan SAS 05/21/2014 SAS vs. OKC W 29 14 5 12 41.7 0 1 0.0 4 4 100.0 4 8 12 1 0 2 2 2 32
+p120
+aVPatty Mills SAS 05/21/2014 SAS vs. OKC W 16 0 0 5 0.0 0 3 0.0 0 0 - 0 5 5 3 0 0 0 0 2
+p121
+aVBoris Diaw SAS 05/21/2014 SAS vs. OKC W 24 11 4 6 66.7 1 2 50.0 2 4 50.0 1 2 3 1 0 0 0 1 10
+p122
+aVPatty Mills SAS 05/19/2014 SAS vs. OKC W 14 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 0 4 10
+p123
+aVBoris Diaw SAS 05/19/2014 SAS vs. OKC W 20 9 3 7 42.9 0 0 - 3 4 75.0 2 1 3 3 1 0 2 1 -2
+p124
+aVTony Parker SAS 05/19/2014 SAS vs. OKC W 36 14 6 12 50.0 0 1 0.0 2 3 66.7 0 3 3 12 1 0 1 1 12
+p125
+aVManu Ginobili SAS 05/19/2014 SAS vs. OKC W 27 18 7 12 58.3 3 4 75.0 1 1 100.0 1 1 2 3 1 0 1 2 12
+p126
+aVCory Joseph SAS 05/19/2014 SAS vs. OKC W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p127
+aVJeff Ayres SAS 05/19/2014 SAS vs. OKC W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p128
+aVDanny Green SAS 05/19/2014 SAS vs. OKC W 27 16 6 7 85.7 4 5 80.0 0 0 - 1 3 4 1 2 0 0 3 30
+p129
+aVAron Baynes SAS 05/19/2014 SAS vs. OKC W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 5
+p130
+aVTiago Splitter SAS 05/19/2014 SAS vs. OKC W 19 6 3 4 75.0 0 0 - 0 0 - 1 7 8 0 0 1 1 2 8
+p131
+aVTim Duncan SAS 05/19/2014 SAS vs. OKC W 29 27 11 19 57.9 0 0 - 5 6 83.3 2 5 7 3 0 0 1 3 8
+p132
+aVMatt Bonner SAS 05/19/2014 SAS vs. OKC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p133
+aVKawhi Leonard SAS 05/19/2014 SAS vs. OKC W 39 16 7 16 43.8 1 4 25.0 1 2 50.0 1 5 6 2 3 1 1 2 12
+p134
+aVMarco Belinelli SAS 05/19/2014 SAS vs. OKC W 16 5 2 3 66.7 0 1 0.0 1 1 100.0 0 3 3 2 0 0 0 0 2
+p135
+aVManu Ginobili SAS 05/14/2014 SAS vs. POR W 19 9 4 11 36.4 0 2 0.0 1 2 50.0 0 4 4 3 1 0 2 1 -2
+p136
+aVTiago Splitter SAS 05/14/2014 SAS vs. POR W 28 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 7 1 0 1 4 8
+p137
+aVCory Joseph SAS 05/14/2014 SAS vs. POR W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p138
+aVBoris Diaw SAS 05/14/2014 SAS vs. POR W 20 5 2 8 25.0 0 2 0.0 1 2 50.0 1 1 2 4 0 1 1 4 5
+p139
+aVMatt Bonner SAS 05/14/2014 SAS vs. POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p140
+aVTony Parker SAS 05/14/2014 SAS vs. POR W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 1 0
+p141
+aVKawhi Leonard SAS 05/14/2014 SAS vs. POR W 35 22 9 15 60.0 3 4 75.0 1 2 50.0 1 6 7 2 5 0 0 2 23
+p142
+aVDanny Green SAS 05/14/2014 SAS vs. POR W 35 22 9 13 69.2 4 6 66.7 0 0 - 0 9 9 1 1 1 0 2 23
+p143
+aVJeff Ayres SAS 05/14/2014 SAS vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p144
+aVAron Baynes SAS 05/14/2014 SAS vs. POR W 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 9
+p145
+aVPatty Mills SAS 05/14/2014 SAS vs. POR W 26 18 8 17 47.1 2 5 40.0 0 0 - 0 3 3 2 3 1 0 1 17
+p146
+aVMarco Belinelli SAS 05/14/2014 SAS vs. POR W 15 4 1 5 20.0 0 1 0.0 2 2 100.0 1 4 5 2 0 0 0 1 3
+p147
+aVTim Duncan SAS 05/14/2014 SAS vs. POR W 36 16 6 13 46.2 0 0 - 4 6 66.7 4 4 8 3 1 1 1 2 17
+p148
+aVPatty Mills SAS 05/12/2014 SAS @ POR L 14 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 1 0 0 1 2 -2
+p149
+aVMarco Belinelli SAS 05/12/2014 SAS @ POR L 25 8 3 9 33.3 0 2 0.0 2 2 100.0 0 7 7 2 0 0 0 2 -6
+p150
+aVAron Baynes SAS 05/12/2014 SAS @ POR L 14 3 1 3 33.3 0 0 - 1 2 50.0 4 3 7 0 2 0 0 4 6
+p151
+aVTony Parker SAS 05/12/2014 SAS @ POR L 27 14 6 12 50.0 0 0 - 2 4 50.0 0 0 0 1 1 0 3 1 -17
+p152
+aVDanny Green SAS 05/12/2014 SAS @ POR L 22 9 4 11 36.4 1 7 14.3 0 0 - 1 2 3 0 1 0 3 2 2
+p153
+aVCory Joseph SAS 05/12/2014 SAS @ POR L 7 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 8
+p154
+aVJeff Ayres SAS 05/12/2014 SAS @ POR L 7 0 0 2 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 0 8
+p155
+aVMatt Bonner SAS 05/12/2014 SAS @ POR L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p156
+aVManu Ginobili SAS 05/12/2014 SAS @ POR L 20 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 2 0 0 1 2 -11
+p157
+aVKawhi Leonard SAS 05/12/2014 SAS @ POR L 27 11 5 10 50.0 0 2 0.0 1 2 50.0 1 6 7 3 2 2 0 1 -15
+p158
+aVTiago Splitter SAS 05/12/2014 SAS @ POR L 22 6 2 5 40.0 0 0 - 2 3 66.7 0 3 3 1 1 0 0 1 -13
+p159
+aVTim Duncan SAS 05/12/2014 SAS @ POR L 27 12 6 13 46.2 0 0 - 0 0 - 0 9 9 2 0 1 0 2 -14
+p160
+aVBoris Diaw SAS 05/12/2014 SAS @ POR L 21 12 6 8 75.0 0 1 0.0 0 2 0.0 0 3 3 0 1 0 2 1 -9
+p161
+aVTony Parker SAS 05/10/2014 SAS @ POR W 35 29 12 20 60.0 2 3 66.7 3 3 100.0 1 1 2 6 1 0 3 4 2
+p162
+aVJeff Ayres SAS 05/10/2014 SAS @ POR W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p163
+aVDanny Green SAS 05/10/2014 SAS @ POR W 20 5 2 7 28.6 1 5 20.0 0 0 - 0 3 3 0 2 0 0 2 -2
+p164
+aVMarco Belinelli SAS 05/10/2014 SAS @ POR W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 1 0 0 2 5
+p165
+aVTiago Splitter SAS 05/10/2014 SAS @ POR W 26 9 4 4 100.0 0 0 - 1 1 100.0 1 6 7 3 0 0 0 2 -5
+p166
+aVTim Duncan SAS 05/10/2014 SAS @ POR W 40 19 8 18 44.4 0 0 - 3 3 100.0 2 5 7 4 1 0 1 3 8
+p167
+aVManu Ginobili SAS 05/10/2014 SAS @ POR W 29 14 2 8 25.0 0 3 0.0 10 10 100.0 0 4 4 5 2 0 2 1 24
+p168
+aVAron Baynes SAS 05/10/2014 SAS @ POR W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 7
+p169
+aVPatty Mills SAS 05/10/2014 SAS @ POR W 12 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 1 1 0 0 2 15
+p170
+aVMatt Bonner SAS 05/10/2014 SAS @ POR W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p171
+aVKawhi Leonard SAS 05/10/2014 SAS @ POR W 29 16 4 10 40.0 1 3 33.3 7 7 100.0 0 10 10 0 1 0 0 4 3
+p172
+aVBoris Diaw SAS 05/10/2014 SAS @ POR W 23 9 4 6 66.7 0 0 - 1 1 100.0 2 3 5 2 1 0 1 4 22
+p173
+aVCory Joseph SAS 05/10/2014 SAS @ POR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p174
+aVManu Ginobili SAS 05/08/2014 SAS vs. POR W 27 16 7 18 38.9 2 4 50.0 0 0 - 0 5 5 4 3 0 4 4 11
+p175
+aVBoris Diaw SAS 05/08/2014 SAS vs. POR W 21 12 5 6 83.3 1 1 100.0 1 1 100.0 1 3 4 2 0 0 0 3 1
+p176
+aVTim Duncan SAS 05/08/2014 SAS vs. POR W 35 10 4 10 40.0 0 0 - 2 4 50.0 3 3 6 3 0 3 0 0 9
+p177
+aVTiago Splitter SAS 05/08/2014 SAS vs. POR W 31 10 5 10 50.0 0 0 - 0 4 0.0 4 6 10 2 1 1 1 3 14
+p178
+aVCory Joseph SAS 05/08/2014 SAS vs. POR W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p179
+aVPatty Mills SAS 05/08/2014 SAS vs. POR W 10 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 0 5
+p180
+aVMatt Bonner SAS 05/08/2014 SAS vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p181
+aVDanny Green SAS 05/08/2014 SAS vs. POR W 23 8 3 7 42.9 2 5 40.0 0 0 - 0 3 3 3 0 2 0 1 11
+p182
+aVKawhi Leonard SAS 05/08/2014 SAS vs. POR W 28 20 8 9 88.9 4 4 100.0 0 0 - 0 5 5 0 2 2 0 3 13
+p183
+aVMarco Belinelli SAS 05/08/2014 SAS vs. POR W 22 13 4 5 80.0 2 3 66.7 3 3 100.0 1 0 1 1 0 0 0 0 9
+p184
+aVJeff Ayres SAS 05/08/2014 SAS vs. POR W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p185
+aVTony Parker SAS 05/08/2014 SAS vs. POR W 38 16 8 19 42.1 0 2 0.0 0 2 0.0 1 4 5 10 1 0 2 2 12
+p186
+aVAron Baynes SAS 05/08/2014 SAS vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p187
+aVDanny Green SAS 05/06/2014 SAS vs. POR W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 4 7
+p188
+aVBoris Diaw SAS 05/06/2014 SAS vs. POR W 20 6 2 3 66.7 1 1 100.0 1 2 50.0 1 2 3 3 0 0 1 3 7
+p189
+aVAron Baynes SAS 05/06/2014 SAS vs. POR W 15 10 5 7 71.4 0 1 0.0 0 0 - 3 4 7 0 0 0 1 2 2
+p190
+aVTim Duncan SAS 05/06/2014 SAS vs. POR W 24 12 5 9 55.6 0 0 - 2 2 100.0 4 7 11 1 0 2 0 3 15
+p191
+aVMatt Bonner SAS 05/06/2014 SAS vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p192
+aVManu Ginobili SAS 05/06/2014 SAS vs. POR W 18 2 0 6 0.0 0 2 0.0 2 2 100.0 0 3 3 5 0 0 3 0 8
+p193
+aVJeff Ayres SAS 05/06/2014 SAS vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p194
+aVPatty Mills SAS 05/06/2014 SAS vs. POR W 12 10 3 5 60.0 1 1 100.0 3 3 100.0 0 0 0 0 1 0 1 1 2
+p195
+aVTiago Splitter SAS 05/06/2014 SAS vs. POR W 29 5 2 6 33.3 0 0 - 1 1 100.0 3 2 5 0 3 0 0 4 24
+p196
+aVMarco Belinelli SAS 05/06/2014 SAS vs. POR W 28 19 7 9 77.8 3 5 60.0 2 2 100.0 0 3 3 1 1 0 0 1 13
+p197
+aVCory Joseph SAS 05/06/2014 SAS vs. POR W 3 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 0 1 0 0 0 -1
+p198
+aVTony Parker SAS 05/06/2014 SAS vs. POR W 36 33 13 24 54.2 1 1 100.0 6 7 85.7 1 2 3 9 1 0 6 2 27
+p199
+aVKawhi Leonard SAS 05/06/2014 SAS vs. POR W 33 16 6 13 46.2 1 4 25.0 3 5 60.0 1 8 9 1 4 0 0 1 18
+p200
+aVCory Joseph SAS 05/04/2014 SAS vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -6
+p201
+aVMarco Belinelli SAS 05/04/2014 SAS vs. DAL W 10 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -11
+p202
+aVTim Duncan SAS 05/04/2014 SAS vs. DAL W 31 15 7 8 87.5 0 0 - 1 2 50.0 3 5 8 1 0 2 2 2 23
+p203
+aVKawhi Leonard SAS 05/04/2014 SAS vs. DAL W 29 15 7 14 50.0 1 5 20.0 0 1 0.0 1 5 6 1 0 0 0 2 15
+p204
+aVMatt Bonner SAS 05/04/2014 SAS vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -8
+p205
+aVPatty Mills SAS 05/04/2014 SAS vs. DAL W 17 7 2 8 25.0 2 6 33.3 1 2 50.0 0 3 3 2 1 0 0 3 17
+p206
+aVBoris Diaw SAS 05/04/2014 SAS vs. DAL W 27 8 3 5 60.0 0 1 0.0 2 2 100.0 1 6 7 5 1 0 1 3 16
+p207
+aVJeff Ayres SAS 05/04/2014 SAS vs. DAL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p208
+aVTiago Splitter SAS 05/04/2014 SAS vs. DAL W 15 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 1 1 0 4 15
+p209
+aVManu Ginobili SAS 05/04/2014 SAS vs. DAL W 24 20 5 7 71.4 2 3 66.7 8 9 88.9 0 3 3 5 6 0 3 2 32
+p210
+aVTony Parker SAS 05/04/2014 SAS vs. DAL W 34 32 11 19 57.9 0 1 0.0 10 13 76.9 0 4 4 4 0 0 3 1 13
+p211
+aVAron Baynes SAS 05/04/2014 SAS vs. DAL W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p212
+aVDanny Green SAS 05/04/2014 SAS vs. DAL W 32 16 5 7 71.4 4 6 66.7 2 2 100.0 0 3 3 1 1 1 0 4 21
+p213
+aVMatt Bonner SAS 05/02/2014 SAS @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p214
+aVJeff Ayres SAS 05/02/2014 SAS @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p215
+aVTim Duncan SAS 05/02/2014 SAS @ DAL L 34 16 7 9 77.8 0 0 - 2 2 100.0 3 6 9 4 0 2 1 5 0
+p216
+aVDanny Green SAS 05/02/2014 SAS @ DAL L 29 17 7 7 100.0 2 2 100.0 1 2 50.0 0 5 5 0 0 2 2 1 -1
+p217
+aVKawhi Leonard SAS 05/02/2014 SAS @ DAL L 35 12 4 9 44.4 1 2 50.0 3 4 75.0 0 6 6 1 3 0 1 4 7
+p218
+aVManu Ginobili SAS 05/02/2014 SAS @ DAL L 23 6 1 8 12.5 0 5 0.0 4 4 100.0 1 2 3 5 1 0 3 3 -9
+p219
+aVTony Parker SAS 05/02/2014 SAS @ DAL L 36 22 10 23 43.5 1 2 50.0 1 2 50.0 0 3 3 6 0 0 5 3 -1
+p220
+aVPatty Mills SAS 05/02/2014 SAS @ DAL L 16 10 4 6 66.7 2 2 100.0 0 0 - 0 2 2 2 1 0 2 2 1
+p221
+aVMarco Belinelli SAS 05/02/2014 SAS @ DAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p222
+aVTiago Splitter SAS 05/02/2014 SAS @ DAL L 33 19 4 7 57.1 0 1 0.0 11 12 91.7 2 6 8 2 2 0 0 2 -10
+p223
+aVBoris Diaw SAS 05/02/2014 SAS @ DAL L 23 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 0 2 0 0 2 0
+p224
+aVManu Ginobili SAS 04/30/2014 SAS vs. DAL W 30 19 6 14 42.9 3 7 42.9 4 6 66.7 0 4 4 5 3 0 1 3 -1
+p225
+aVMatt Bonner SAS 04/30/2014 SAS vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p226
+aVBoris Diaw SAS 04/30/2014 SAS vs. DAL W 22 8 2 4 50.0 0 0 - 4 4 100.0 1 2 3 6 0 0 0 1 -15
+p227
+aVDanny Green SAS 04/30/2014 SAS vs. DAL W 16 6 2 2 100.0 2 2 100.0 0 0 - 0 3 3 0 2 2 1 2 12
+p228
+aVTony Parker SAS 04/30/2014 SAS vs. DAL W 38 23 9 23 39.1 1 1 100.0 4 4 100.0 0 2 2 5 0 0 1 0 3
+p229
+aVPatty Mills SAS 04/30/2014 SAS vs. DAL W 16 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 1
+p230
+aVMarco Belinelli SAS 04/30/2014 SAS vs. DAL W 11 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -11
+p231
+aVTiago Splitter SAS 04/30/2014 SAS vs. DAL W 32 17 7 10 70.0 0 0 - 3 6 50.0 6 6 12 5 0 0 1 5 9
+p232
+aVTim Duncan SAS 04/30/2014 SAS vs. DAL W 38 16 7 16 43.8 0 0 - 2 4 50.0 4 8 12 1 1 3 0 2 14
+p233
+aVKawhi Leonard SAS 04/30/2014 SAS vs. DAL W 35 15 6 10 60.0 1 2 50.0 2 3 66.7 1 7 8 1 0 0 1 1 13
+p234
+aVTony Parker SAS 04/28/2014 SAS @ DAL W 30 10 5 14 35.7 0 0 - 0 0 - 0 1 1 3 0 0 4 0 3
+p235
+aVTim Duncan SAS 04/28/2014 SAS @ DAL W 38 14 6 16 37.5 0 0 - 2 3 66.7 4 7 11 0 0 1 0 5 -6
+p236
+aVMarco Belinelli SAS 04/28/2014 SAS @ DAL W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p237
+aVPatty Mills SAS 04/28/2014 SAS @ DAL W 20 10 3 5 60.0 1 2 50.0 3 4 75.0 0 3 3 2 2 0 2 0 8
+p238
+aVDanny Green SAS 04/28/2014 SAS @ DAL W 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p239
+aVKawhi Leonard SAS 04/28/2014 SAS @ DAL W 38 7 3 8 37.5 0 3 0.0 1 2 50.0 3 9 12 1 0 1 3 2 6
+p240
+aVManu Ginobili SAS 04/28/2014 SAS @ DAL W 28 23 7 15 46.7 1 6 16.7 8 11 72.7 0 3 3 5 1 0 3 3 11
+p241
+aVTiago Splitter SAS 04/28/2014 SAS @ DAL W 25 10 4 6 66.7 0 0 - 2 2 100.0 4 8 12 1 1 0 1 6 5
+p242
+aVBoris Diaw SAS 04/28/2014 SAS @ DAL W 28 17 7 12 58.3 3 6 50.0 0 0 - 0 4 4 4 0 0 1 3 0
+p243
+aVMatt Bonner SAS 04/28/2014 SAS @ DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p244
+aVCory Joseph SAS 04/26/2014 SAS @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p245
+aVDanny Green SAS 04/26/2014 SAS @ DAL L 13 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 1 0 0 0 2 -3
+p246
+aVTim Duncan SAS 04/26/2014 SAS @ DAL L 36 22 8 14 57.1 0 0 - 6 6 100.0 3 2 5 2 0 3 0 2 -16
+p247
+aVTony Parker SAS 04/26/2014 SAS @ DAL L 33 19 9 18 50.0 1 2 50.0 0 0 - 1 1 2 6 2 0 4 2 -5
+p248
+aVManu Ginobili SAS 04/26/2014 SAS @ DAL L 33 12 4 14 28.6 0 4 0.0 4 4 100.0 0 5 5 5 4 1 2 1 10
+p249
+aVBoris Diaw SAS 04/26/2014 SAS @ DAL L 23 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 3 1 0 1 4 1
+p250
+aVKawhi Leonard SAS 04/26/2014 SAS @ DAL L 38 17 7 8 87.5 2 2 100.0 1 3 33.3 1 4 5 3 5 0 5 4 -7
+p251
+aVMatt Bonner SAS 04/26/2014 SAS @ DAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p252
+aVTiago Splitter SAS 04/26/2014 SAS @ DAL L 29 14 6 8 75.0 0 0 - 2 2 100.0 5 8 13 3 1 0 0 2 1
+p253
+aVMarco Belinelli SAS 04/26/2014 SAS @ DAL L 15 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 6
+p254
+aVPatty Mills SAS 04/26/2014 SAS @ DAL L 15 5 2 5 40.0 0 3 0.0 1 2 50.0 0 1 1 3 1 0 2 0 7
+p255
+aVDanny Green SAS 04/23/2014 SAS vs. DAL L 22 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 2 0 1 2 1 -8
+p256
+aVKawhi Leonard SAS 04/23/2014 SAS vs. DAL L 22 6 1 5 20.0 1 2 50.0 3 5 60.0 4 1 5 0 0 0 2 3 -6
+p257
+aVAustin Daye SAS 04/23/2014 SAS vs. DAL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p258
+aVTony Parker SAS 04/23/2014 SAS vs. DAL L 26 12 5 10 50.0 0 2 0.0 2 5 40.0 0 2 2 3 0 0 3 3 -10
+p259
+aVTim Duncan SAS 04/23/2014 SAS vs. DAL L 30 11 4 5 80.0 0 0 - 3 4 75.0 1 6 7 1 0 2 1 1 -15
+p260
+aVCory Joseph SAS 04/23/2014 SAS vs. DAL L 9 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 1 0 0 0 0 8
+p261
+aVMarco Belinelli SAS 04/23/2014 SAS vs. DAL L 29 7 3 7 42.9 1 1 100.0 0 0 - 0 5 5 1 0 0 2 3 -31
+p262
+aVJeff Ayres SAS 04/23/2014 SAS vs. DAL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -3
+p263
+aVBoris Diaw SAS 04/23/2014 SAS vs. DAL L 17 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -21
+p264
+aVPatty Mills SAS 04/23/2014 SAS vs. DAL L 16 5 1 7 14.3 1 4 25.0 2 2 100.0 0 1 1 0 1 0 1 3 -10
+p265
+aVManu Ginobili SAS 04/23/2014 SAS vs. DAL L 23 27 9 12 75.0 5 6 83.3 4 7 57.1 2 0 2 4 0 0 6 2 -5
+p266
+aVMatt Bonner SAS 04/23/2014 SAS vs. DAL L 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p267
+aVTiago Splitter SAS 04/23/2014 SAS vs. DAL L 28 6 2 5 40.0 0 0 - 2 2 100.0 2 3 5 3 0 0 2 1 -2
+p268
+aVManu Ginobili SAS 04/20/2014 SAS vs. DAL W 31 17 4 10 40.0 3 6 50.0 6 6 100.0 0 6 6 3 1 0 4 3 1
+p269
+aVTiago Splitter SAS 04/20/2014 SAS vs. DAL W 31 8 3 6 50.0 0 0 - 2 4 50.0 3 8 11 2 2 0 2 3 8
+p270
+aVJeff Ayres SAS 04/20/2014 SAS vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p271
+aVPatty Mills SAS 04/20/2014 SAS vs. DAL W 14 2 1 4 25.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 2 -15
+p272
+aVTim Duncan SAS 04/20/2014 SAS vs. DAL W 38 27 12 20 60.0 0 0 - 3 5 60.0 2 5 7 0 0 0 1 1 24
+p273
+aVTony Parker SAS 04/20/2014 SAS vs. DAL W 34 21 9 16 56.3 0 1 0.0 3 3 100.0 0 4 4 6 1 1 1 3 20
+p274
+aVMatt Bonner SAS 04/20/2014 SAS vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p275
+aVKawhi Leonard SAS 04/20/2014 SAS vs. DAL W 31 11 4 11 36.4 0 3 0.0 3 4 75.0 1 9 10 0 0 0 1 2 23
+p276
+aVMarco Belinelli SAS 04/20/2014 SAS vs. DAL W 12 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p277
+aVDanny Green SAS 04/20/2014 SAS vs. DAL W 24 0 0 2 0.0 0 1 0.0 0 0 - 1 4 5 1 2 2 0 1 -6
+p278
+aVBoris Diaw SAS 04/20/2014 SAS vs. DAL W 23 4 2 8 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 1 -22
+p279
+a.

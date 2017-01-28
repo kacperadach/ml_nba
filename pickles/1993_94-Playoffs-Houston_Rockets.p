@@ -1,0 +1,428 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSam Cassell HOU 06/22/1994 HOU vs. NYK W 18 13 4 6 66.7 1 2 50.0 4 4 100.0 0 1 1 2 2 0 2 1 -
+p2
+aVCarl Herrera HOU 06/22/1994 HOU vs. NYK W 25 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 0 0 2 3 -
+p3
+aVOtis Thorpe HOU 06/22/1994 HOU vs. NYK W 35 6 3 7 42.9 0 0 - 0 2 0.0 2 7 9 3 1 0 2 3 -
+p4
+aVVernon Maxwell HOU 06/22/1994 HOU vs. NYK W 40 21 6 11 54.5 2 6 33.3 7 8 87.5 0 1 1 4 0 0 0 2 -
+p5
+aVMario Elie HOU 06/22/1994 HOU vs. NYK W 8 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -
+p6
+aVKenny Smith HOU 06/22/1994 HOU vs. NYK W 30 11 4 7 57.1 1 2 50.0 2 2 100.0 0 1 1 2 1 0 1 3 -
+p7
+aVChris Jent HOU 06/22/1994 HOU vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p8
+aVHakeem Olajuwon HOU 06/22/1994 HOU vs. NYK W 46 25 10 25 40.0 0 0 - 5 7 71.4 0 10 10 7 1 3 2 5 -
+p9
+aVEarl Cureton HOU 06/22/1994 HOU vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p10
+aVRobert Horry HOU 06/22/1994 HOU vs. NYK W 35 8 4 8 50.0 0 1 0.0 0 0 - 0 5 5 3 3 1 0 5 -
+p11
+aVHakeem Olajuwon HOU 06/19/1994 HOU vs. NYK W 43 30 11 21 52.4 0 0 - 8 8 100.0 3 7 10 2 1 4 2 5 -
+p12
+aVMario Elie HOU 06/19/1994 HOU vs. NYK W 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 3 0 -
+p13
+aVRobert Horry HOU 06/19/1994 HOU vs. NYK W 42 11 3 10 30.0 2 6 33.3 3 4 75.0 0 9 9 4 1 1 1 3 -
+p14
+aVVernon Maxwell HOU 06/19/1994 HOU vs. NYK W 36 10 4 13 30.8 1 6 16.7 1 2 50.0 0 1 1 5 0 0 2 2 -
+p15
+aVKenny Smith HOU 06/19/1994 HOU vs. NYK W 27 7 3 6 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 2 2 -
+p16
+aVSam Cassell HOU 06/19/1994 HOU vs. NYK W 21 9 2 5 40.0 1 3 33.3 4 5 80.0 0 2 2 1 2 1 2 3 -
+p17
+aVOtis Thorpe HOU 06/19/1994 HOU vs. NYK W 39 3 1 3 33.3 0 0 - 1 4 25.0 0 10 10 6 0 0 1 1 -
+p18
+aVCarl Herrera HOU 06/19/1994 HOU vs. NYK W 20 12 6 6 100.0 0 0 - 0 0 - 1 4 5 1 0 0 1 5 -
+p19
+aVVernon Maxwell HOU 06/17/1994 HOU @ NYK L 39 8 3 11 27.3 1 4 25.0 1 2 50.0 0 5 5 3 0 0 2 1 -
+p20
+aVKenny Smith HOU 06/17/1994 HOU @ NYK L 27 6 2 4 50.0 1 2 50.0 1 1 100.0 0 0 0 5 0 0 3 1 -
+p21
+aVRobert Horry HOU 06/17/1994 HOU @ NYK L 38 7 2 14 14.3 2 6 33.3 1 2 50.0 4 5 9 6 0 1 2 4 -
+p22
+aVOtis Thorpe HOU 06/17/1994 HOU @ NYK L 46 14 6 14 42.9 0 0 - 2 4 50.0 3 10 13 2 0 0 2 1 -
+p23
+aVMario Elie HOU 06/17/1994 HOU @ NYK L 9 5 1 3 33.3 1 2 50.0 2 2 100.0 3 1 4 1 0 0 0 1 -
+p24
+aVHakeem Olajuwon HOU 06/17/1994 HOU @ NYK L 40 27 12 21 57.1 1 1 100.0 2 2 100.0 4 4 8 1 3 2 8 3 -
+p25
+aVChris Jent HOU 06/17/1994 HOU @ NYK L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p26
+aVSam Cassell HOU 06/17/1994 HOU @ NYK L 21 6 2 5 40.0 0 2 0.0 2 2 100.0 0 0 0 5 1 0 1 6 -
+p27
+aVCarl Herrera HOU 06/17/1994 HOU @ NYK L 18 11 5 8 62.5 0 0 - 1 1 100.0 1 2 3 1 3 1 0 3 -
+p28
+aVCarl Herrera HOU 06/15/1994 HOU @ NYK L 15 5 1 3 33.3 0 0 - 3 3 100.0 1 3 4 0 0 0 2 4 -
+p29
+aVOtis Thorpe HOU 06/15/1994 HOU @ NYK L 40 9 4 7 57.1 0 0 - 1 3 33.3 3 7 10 4 0 0 1 5 -
+p30
+aVMario Elie HOU 06/15/1994 HOU @ NYK L 13 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p31
+aVHakeem Olajuwon HOU 06/15/1994 HOU @ NYK L 43 32 14 20 70.0 0 0 - 4 4 100.0 0 8 8 3 0 5 2 4 -
+p32
+aVVernon Maxwell HOU 06/15/1994 HOU @ NYK L 35 12 5 13 38.5 2 6 33.3 0 0 - 1 3 4 0 2 0 4 1 -
+p33
+aVSam Cassell HOU 06/15/1994 HOU @ NYK L 30 10 3 11 27.3 1 4 25.0 3 3 100.0 1 3 4 5 2 0 5 4 -
+p34
+aVMatt Bullard HOU 06/15/1994 HOU @ NYK L 13 4 1 3 33.3 1 3 33.3 1 2 50.0 0 1 1 0 0 0 0 3 -
+p35
+aVRobert Horry HOU 06/15/1994 HOU @ NYK L 32 10 3 9 33.3 2 5 40.0 2 3 66.7 1 0 1 3 1 0 2 4 -
+p36
+aVKenny Smith HOU 06/15/1994 HOU @ NYK L 19 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 2 -
+p37
+aVOtis Thorpe HOU 06/12/1994 HOU @ NYK W 40 9 3 5 60.0 0 0 - 3 3 100.0 3 6 9 2 0 0 0 4 -
+p38
+aVMario Elie HOU 06/12/1994 HOU @ NYK W 15 6 1 3 33.3 1 1 100.0 3 4 75.0 0 0 0 1 1 0 1 2 -
+p39
+aVCarl Herrera HOU 06/12/1994 HOU @ NYK W 16 4 1 8 12.5 0 0 - 2 2 100.0 2 2 4 0 0 0 1 1 -
+p40
+aVSam Cassell HOU 06/12/1994 HOU @ NYK W 22 15 4 6 66.7 3 3 100.0 4 5 80.0 1 4 5 1 0 0 1 4 -
+p41
+aVRobert Horry HOU 06/12/1994 HOU @ NYK W 43 16 5 11 45.5 1 5 20.0 5 6 83.3 2 6 8 4 1 0 4 3 -
+p42
+aVHakeem Olajuwon HOU 06/12/1994 HOU @ NYK W 44 21 8 20 40.0 0 0 - 5 6 83.3 5 6 11 7 1 7 4 3 -
+p43
+aVKenny Smith HOU 06/12/1994 HOU @ NYK W 25 10 3 7 42.9 1 2 50.0 3 3 100.0 1 3 4 0 1 0 3 0 -
+p44
+aVVernon Maxwell HOU 06/12/1994 HOU @ NYK W 35 12 5 15 33.3 0 6 0.0 2 2 100.0 0 6 6 4 0 0 3 1 -
+p45
+aVCarl Herrera HOU 06/10/1994 HOU vs. NYK L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p46
+aVVernon Maxwell HOU 06/10/1994 HOU vs. NYK L 41 20 8 17 47.1 2 6 33.3 2 3 66.7 1 2 3 1 0 0 7 4 -
+p47
+aVOtis Thorpe HOU 06/10/1994 HOU vs. NYK L 42 10 5 8 62.5 0 0 - 0 0 - 6 6 12 3 3 0 1 5 -
+p48
+aVSam Cassell HOU 06/10/1994 HOU vs. NYK L 23 9 2 8 25.0 1 2 50.0 4 4 100.0 3 1 4 3 2 0 3 3 -
+p49
+aVRobert Horry HOU 06/10/1994 HOU vs. NYK L 35 11 4 12 33.3 2 7 28.6 1 2 50.0 3 1 4 2 1 0 0 4 -
+p50
+aVMatt Bullard HOU 06/10/1994 HOU vs. NYK L 14 4 1 7 14.3 1 4 25.0 1 2 50.0 2 3 5 0 1 1 0 0 -
+p51
+aVKenny Smith HOU 06/10/1994 HOU vs. NYK L 25 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 6 2 0 2 0 -
+p52
+aVHakeem Olajuwon HOU 06/10/1994 HOU vs. NYK L 46 25 10 21 47.6 0 0 - 5 7 71.4 1 6 7 4 2 4 3 1 -
+p53
+aVMario Elie HOU 06/10/1994 HOU vs. NYK L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p54
+aVKenny Smith HOU 06/08/1994 HOU vs. NYK W 25 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 5 1 0 2 0 -
+p55
+aVCarl Herrera HOU 06/08/1994 HOU vs. NYK W 20 10 5 6 83.3 0 0 - 0 2 0.0 1 2 3 0 0 0 0 4 -
+p56
+aVOtis Thorpe HOU 06/08/1994 HOU vs. NYK W 35 14 5 8 62.5 0 0 - 4 6 66.7 6 10 16 3 2 0 1 4 -
+p57
+aVChris Jent HOU 06/08/1994 HOU vs. NYK W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -
+p58
+aVHakeem Olajuwon HOU 06/08/1994 HOU vs. NYK W 40 28 10 22 45.5 0 0 - 8 9 88.9 0 10 10 1 3 2 4 5 -
+p59
+aVSam Cassell HOU 06/08/1994 HOU vs. NYK W 23 8 2 4 50.0 0 0 - 4 4 100.0 1 5 6 3 0 1 4 1 -
+p60
+aVMario Elie HOU 06/08/1994 HOU vs. NYK W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 3 -
+p61
+aVRobert Horry HOU 06/08/1994 HOU vs. NYK W 40 9 3 10 30.0 2 6 33.3 1 4 25.0 3 4 7 4 2 1 1 1 -
+p62
+aVVernon Maxwell HOU 06/08/1994 HOU vs. NYK W 38 11 4 16 25.0 1 6 16.7 2 5 40.0 1 2 3 3 2 0 3 1 -
+p63
+aVKenny Smith HOU 05/31/1994 HOU vs. UTH W 35 8 2 6 33.3 0 2 0.0 4 6 66.7 0 0 0 4 1 0 1 2 -
+p64
+aVHakeem Olajuwon HOU 05/31/1994 HOU vs. UTH W 42 22 9 19 47.4 0 0 - 4 5 80.0 1 9 10 6 4 7 6 3 -
+p65
+aVMario Elie HOU 05/31/1994 HOU vs. UTH W 13 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -
+p66
+aVEarl Cureton HOU 05/31/1994 HOU vs. UTH W 9 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -
+p67
+aVOtis Thorpe HOU 05/31/1994 HOU vs. UTH W 45 11 4 6 66.7 0 0 - 3 3 100.0 4 12 16 4 1 1 1 4 -
+p68
+aVSam Cassell HOU 05/31/1994 HOU vs. UTH W 18 5 1 6 16.7 0 1 0.0 3 4 75.0 1 1 2 7 2 1 1 2 -
+p69
+aVRobert Horry HOU 05/31/1994 HOU vs. UTH W 34 22 8 13 61.5 3 5 60.0 3 3 100.0 3 6 9 3 1 1 1 2 -
+p70
+aVVernon Maxwell HOU 05/31/1994 HOU vs. UTH W 44 19 7 17 41.2 5 12 41.7 0 0 - 0 2 2 4 1 0 1 1 -
+p71
+aVMario Elie HOU 05/29/1994 HOU @ UTH W 15 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 0 1 0 0 1 -
+p72
+aVChris Jent HOU 05/29/1994 HOU @ UTH W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p73
+aVVernon Maxwell HOU 05/29/1994 HOU @ UTH W 36 6 2 10 20.0 2 4 50.0 0 0 - 1 3 4 2 2 1 1 1 -
+p74
+aVEarl Cureton HOU 05/29/1994 HOU @ UTH W 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -
+p75
+aVSam Cassell HOU 05/29/1994 HOU @ UTH W 17 10 3 6 50.0 0 0 - 4 4 100.0 1 3 4 1 0 0 3 5 -
+p76
+aVHakeem Olajuwon HOU 05/29/1994 HOU @ UTH W 46 16 6 18 33.3 0 0 - 4 4 100.0 3 6 9 3 0 5 3 4 -
+p77
+aVOtis Thorpe HOU 05/29/1994 HOU @ UTH W 34 5 2 4 50.0 0 0 - 1 4 25.0 2 6 8 0 1 0 4 6 -
+p78
+aVKenny Smith HOU 05/29/1994 HOU @ UTH W 37 25 8 15 53.3 2 5 40.0 7 7 100.0 0 4 4 4 0 0 2 4 -
+p79
+aVRobert Horry HOU 05/29/1994 HOU @ UTH W 33 11 5 12 41.7 0 2 0.0 1 2 50.0 2 8 10 5 3 2 0 2 -
+p80
+aVHakeem Olajuwon HOU 05/27/1994 HOU @ UTH L 46 29 10 23 43.5 0 0 - 9 15 60.0 4 9 13 5 4 4 4 2 -
+p81
+aVEarl Cureton HOU 05/27/1994 HOU @ UTH L 8 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 2 3 -
+p82
+aVSam Cassell HOU 05/27/1994 HOU @ UTH L 28 14 2 9 22.2 1 3 33.3 9 10 90.0 1 1 2 4 0 1 0 4 -
+p83
+aVMario Elie HOU 05/27/1994 HOU @ UTH L 21 0 0 7 0.0 0 4 0.0 0 0 - 0 2 2 0 0 0 0 1 -
+p84
+aVVernon Maxwell HOU 05/27/1994 HOU @ UTH L 32 17 7 17 41.2 3 9 33.3 0 0 - 0 0 0 2 0 0 2 4 -
+p85
+aVOtis Thorpe HOU 05/27/1994 HOU @ UTH L 41 9 3 5 60.0 0 0 - 3 4 75.0 4 6 10 3 0 0 1 5 -
+p86
+aVRobert Horry HOU 05/27/1994 HOU @ UTH L 35 9 4 11 36.4 1 4 25.0 0 0 - 0 5 5 2 2 0 1 1 -
+p87
+aVKenny Smith HOU 05/27/1994 HOU @ UTH L 23 4 1 5 20.0 1 1 100.0 1 2 50.0 0 2 2 3 1 0 0 3 -
+p88
+aVScott Brooks HOU 05/27/1994 HOU @ UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p89
+aVMatt Bullard HOU 05/27/1994 HOU @ UTH L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p90
+aVChris Jent HOU 05/27/1994 HOU @ UTH L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p91
+aVEarl Cureton HOU 05/25/1994 HOU vs. UTH W 15 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 1 0 0 5 -
+p92
+aVHakeem Olajuwon HOU 05/25/1994 HOU vs. UTH W 46 41 14 22 63.6 0 0 - 13 13 100.0 1 12 13 6 1 3 3 3 -
+p93
+aVVernon Maxwell HOU 05/25/1994 HOU vs. UTH W 35 14 3 8 37.5 3 5 60.0 5 6 83.3 0 2 2 4 0 0 0 3 -
+p94
+aVChris Jent HOU 05/25/1994 HOU vs. UTH W 9 6 2 6 33.3 2 6 33.3 0 0 - 0 1 1 1 0 0 1 0 -
+p95
+aVMario Elie HOU 05/25/1994 HOU vs. UTH W 25 17 3 9 33.3 1 3 33.3 10 10 100.0 0 1 1 1 1 0 0 1 -
+p96
+aVSam Cassell HOU 05/25/1994 HOU vs. UTH W 18 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 4 -
+p97
+aVKenny Smith HOU 05/25/1994 HOU vs. UTH W 33 10 3 5 60.0 1 2 50.0 3 3 100.0 0 1 1 7 1 0 3 2 -
+p98
+aVMatt Bullard HOU 05/25/1994 HOU vs. UTH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p99
+aVRobert Horry HOU 05/25/1994 HOU vs. UTH W 28 6 2 9 22.2 1 2 50.0 1 2 50.0 6 3 9 1 1 0 1 3 -
+p100
+aVOtis Thorpe HOU 05/25/1994 HOU vs. UTH W 30 8 4 5 80.0 0 0 - 0 0 - 4 5 9 0 1 0 3 5 -
+p101
+aVHakeem Olajuwon HOU 05/23/1994 HOU vs. UTH W 44 31 12 20 60.0 0 0 - 7 9 77.8 1 5 6 2 4 4 4 3 -
+p102
+aVOtis Thorpe HOU 05/23/1994 HOU vs. UTH W 37 6 3 7 42.9 0 0 - 0 2 0.0 3 5 8 0 1 0 1 4 -
+p103
+aVSam Cassell HOU 05/23/1994 HOU vs. UTH W 18 9 4 6 66.7 0 1 0.0 1 1 100.0 0 1 1 7 1 0 4 0 -
+p104
+aVEarl Cureton HOU 05/23/1994 HOU vs. UTH W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p105
+aVRobert Horry HOU 05/23/1994 HOU vs. UTH W 28 6 3 9 33.3 0 2 0.0 0 0 - 5 6 11 2 1 0 0 1 -
+p106
+aVKenny Smith HOU 05/23/1994 HOU vs. UTH W 41 27 9 14 64.3 6 9 66.7 3 5 60.0 1 1 2 5 3 0 0 0 -
+p107
+aVVernon Maxwell HOU 05/23/1994 HOU vs. UTH W 37 11 4 15 26.7 3 9 33.3 0 0 - 0 1 1 5 1 0 1 2 -
+p108
+aVMario Elie HOU 05/23/1994 HOU vs. UTH W 23 10 4 9 44.4 1 3 33.3 1 1 100.0 1 3 4 0 0 1 3 2 -
+p109
+aVKenny Smith HOU 05/21/1994 HOU vs. PHX W 25 4 2 8 25.0 0 4 0.0 0 0 - 0 3 3 3 2 2 1 0 -
+p110
+aVMario Elie HOU 05/21/1994 HOU vs. PHX W 32 5 2 5 40.0 0 1 0.0 1 1 100.0 1 2 3 6 0 0 2 1 -
+p111
+aVOtis Thorpe HOU 05/21/1994 HOU vs. PHX W 21 6 3 5 60.0 0 0 - 0 2 0.0 0 3 3 2 0 1 2 4 -
+p112
+aVRobert Horry HOU 05/21/1994 HOU vs. PHX W 38 15 5 7 71.4 3 4 75.0 2 2 100.0 0 6 6 3 3 0 1 5 -
+p113
+aVEarl Cureton HOU 05/21/1994 HOU vs. PHX W 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -
+p114
+aVHakeem Olajuwon HOU 05/21/1994 HOU vs. PHX W 44 37 18 33 54.5 0 0 - 1 1 100.0 1 16 17 5 0 3 3 4 -
+p115
+aVSam Cassell HOU 05/21/1994 HOU vs. PHX W 29 22 8 12 66.7 2 3 66.7 4 4 100.0 3 1 4 7 2 0 2 4 -
+p116
+aVVernon Maxwell HOU 05/21/1994 HOU vs. PHX W 42 13 5 14 35.7 1 2 50.0 2 2 100.0 1 3 4 5 2 0 2 4 -
+p117
+aVRobert Horry HOU 05/19/1994 HOU @ PHX L 34 13 5 11 45.5 1 3 33.3 2 2 100.0 1 5 6 3 1 0 1 4 -
+p118
+aVVernon Maxwell HOU 05/19/1994 HOU @ PHX L 30 6 2 10 20.0 0 3 0.0 2 4 50.0 1 2 3 2 1 0 2 2 -
+p119
+aVMatt Bullard HOU 05/19/1994 HOU @ PHX L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p120
+aVHakeem Olajuwon HOU 05/19/1994 HOU @ PHX L 39 23 9 21 42.9 0 0 - 5 6 83.3 4 8 12 5 1 2 3 4 -
+p121
+aVScott Brooks HOU 05/19/1994 HOU @ PHX L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p122
+aVEarl Cureton HOU 05/19/1994 HOU @ PHX L 15 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -
+p123
+aVMario Elie HOU 05/19/1994 HOU @ PHX L 19 15 6 9 66.7 1 2 50.0 2 3 66.7 2 1 3 3 1 0 1 3 -
+p124
+aVKenny Smith HOU 05/19/1994 HOU @ PHX L 26 8 3 11 27.3 2 6 33.3 0 0 - 0 3 3 2 0 0 1 1 -
+p125
+aVSam Cassell HOU 05/19/1994 HOU @ PHX L 25 9 3 10 30.0 1 2 50.0 2 2 100.0 2 4 6 4 0 0 3 1 -
+p126
+aVChris Jent HOU 05/19/1994 HOU @ PHX L 13 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 3 0 0 0 1 -
+p127
+aVOtis Thorpe HOU 05/19/1994 HOU @ PHX L 31 8 4 8 50.0 0 0 - 0 0 - 1 2 3 3 0 0 2 3 -
+p128
+aVOtis Thorpe HOU 05/17/1994 HOU vs. PHX W 37 20 8 12 66.7 0 0 - 4 5 80.0 3 10 13 2 1 0 2 2 -
+p129
+aVHakeem Olajuwon HOU 05/17/1994 HOU vs. PHX W 31 20 8 14 57.1 0 0 - 4 4 100.0 1 5 6 0 2 5 3 1 -
+p130
+aVScott Brooks HOU 05/17/1994 HOU vs. PHX W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -
+p131
+aVCarl Herrera HOU 05/17/1994 HOU vs. PHX W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p132
+aVMario Elie HOU 05/17/1994 HOU vs. PHX W 23 10 3 5 60.0 0 1 0.0 4 4 100.0 0 3 3 0 1 0 0 2 -
+p133
+aVChris Jent HOU 05/17/1994 HOU vs. PHX W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p134
+aVRobert Horry HOU 05/17/1994 HOU vs. PHX W 24 7 3 4 75.0 0 1 0.0 1 2 50.0 1 1 2 2 0 1 2 2 -
+p135
+aVMatt Bullard HOU 05/17/1994 HOU vs. PHX W 8 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -
+p136
+aVKenny Smith HOU 05/17/1994 HOU vs. PHX W 32 16 5 8 62.5 2 3 66.7 4 4 100.0 1 6 7 8 0 0 3 1 -
+p137
+aVEarl Cureton HOU 05/17/1994 HOU vs. PHX W 14 8 3 4 75.0 0 0 - 2 2 100.0 0 7 7 0 0 2 1 3 -
+p138
+aVSam Cassell HOU 05/17/1994 HOU vs. PHX W 22 8 2 5 40.0 0 0 - 4 4 100.0 1 0 1 7 0 0 4 0 -
+p139
+aVVernon Maxwell HOU 05/17/1994 HOU vs. PHX W 32 12 5 10 50.0 1 4 25.0 1 1 100.0 1 4 5 5 0 0 2 1 -
+p140
+aVMario Elie HOU 05/15/1994 HOU @ PHX W 24 14 3 5 60.0 1 1 100.0 7 7 100.0 0 2 2 4 1 0 0 0 -
+p141
+aVOtis Thorpe HOU 05/15/1994 HOU @ PHX W 31 12 5 8 62.5 0 0 - 2 4 50.0 2 11 13 3 1 2 1 5 -
+p142
+aVCarl Herrera HOU 05/15/1994 HOU @ PHX W 23 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 1 1 2 -
+p143
+aVRobert Horry HOU 05/15/1994 HOU @ PHX W 22 12 4 6 66.7 2 3 66.7 2 2 100.0 0 6 6 3 3 1 2 4 -
+p144
+aVHakeem Olajuwon HOU 05/15/1994 HOU @ PHX W 42 28 14 23 60.9 0 0 - 0 1 0.0 4 8 12 8 1 5 2 5 -
+p145
+aVChris Jent HOU 05/15/1994 HOU @ PHX W 9 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 0 0 -
+p146
+aVKenny Smith HOU 05/15/1994 HOU @ PHX W 28 21 8 10 80.0 3 4 75.0 2 4 50.0 0 3 3 4 1 0 2 4 -
+p147
+aVVernon Maxwell HOU 05/15/1994 HOU @ PHX W 36 7 3 13 23.1 1 5 20.0 0 1 0.0 0 2 2 6 1 0 1 0 -
+p148
+aVSam Cassell HOU 05/15/1994 HOU @ PHX W 25 11 5 11 45.5 1 2 50.0 0 0 - 0 0 0 6 0 0 2 3 -
+p149
+aVHakeem Olajuwon HOU 05/13/1994 HOU @ PHX W 41 26 11 17 64.7 0 1 0.0 4 6 66.7 2 13 15 6 2 6 5 5 -
+p150
+aVChris Jent HOU 05/13/1994 HOU @ PHX W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -
+p151
+aVKenny Smith HOU 05/13/1994 HOU @ PHX W 21 7 3 7 42.9 1 1 100.0 0 0 - 0 3 3 5 0 0 0 2 -
+p152
+aVCarl Herrera HOU 05/13/1994 HOU @ PHX W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p153
+aVOtis Thorpe HOU 05/13/1994 HOU @ PHX W 44 16 6 12 50.0 0 0 - 4 4 100.0 2 6 8 1 0 1 0 1 -
+p154
+aVVernon Maxwell HOU 05/13/1994 HOU @ PHX W 38 34 14 24 58.3 4 7 57.1 2 4 50.0 0 2 2 4 0 0 1 4 -
+p155
+aVSam Cassell HOU 05/13/1994 HOU @ PHX W 27 12 5 11 45.5 1 3 33.3 1 3 33.3 0 1 1 10 1 1 0 2 -
+p156
+aVRobert Horry HOU 05/13/1994 HOU @ PHX W 32 13 3 6 50.0 0 1 0.0 7 8 87.5 2 3 5 4 3 0 1 3 -
+p157
+aVMario Elie HOU 05/13/1994 HOU @ PHX W 21 8 3 5 60.0 0 1 0.0 2 3 66.7 0 3 3 8 0 0 0 3 -
+p158
+aVRobert Horry HOU 05/11/1994 HOU vs. PHX L 32 11 4 12 33.3 3 8 37.5 0 0 - 3 3 6 2 2 3 1 3 -
+p159
+aVMario Elie HOU 05/11/1994 HOU vs. PHX L 11 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 2 0 0 1 0 -
+p160
+aVEarl Cureton HOU 05/11/1994 HOU vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p161
+aVCarl Herrera HOU 05/11/1994 HOU vs. PHX L 18 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 6 -
+p162
+aVSam Cassell HOU 05/11/1994 HOU vs. PHX L 23 14 4 11 36.4 2 4 50.0 4 6 66.7 1 3 4 4 3 0 2 4 -
+p163
+aVOtis Thorpe HOU 05/11/1994 HOU vs. PHX L 35 20 7 9 77.8 0 0 - 6 9 66.7 3 7 10 2 0 2 1 6 -
+p164
+aVVernon Maxwell HOU 05/11/1994 HOU vs. PHX L 49 15 6 18 33.3 2 9 22.2 1 2 50.0 0 4 4 9 2 1 1 2 -
+p165
+aVHakeem Olajuwon HOU 05/11/1994 HOU vs. PHX L 51 31 14 28 50.0 0 0 - 3 6 50.0 4 13 17 3 0 3 5 4 -
+p166
+aVKenny Smith HOU 05/11/1994 HOU vs. PHX L 41 16 6 14 42.9 2 4 50.0 2 3 66.7 0 2 2 5 2 1 2 3 -
+p167
+aVScott Brooks HOU 05/11/1994 HOU vs. PHX L 4 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -
+p168
+aVHakeem Olajuwon HOU 05/08/1994 HOU vs. PHX L 44 36 16 24 66.7 0 0 - 4 5 80.0 3 13 16 5 1 3 5 4 -
+p169
+aVKenny Smith HOU 05/08/1994 HOU vs. PHX L 43 16 7 15 46.7 2 7 28.6 0 0 - 0 5 5 3 2 1 0 2 -
+p170
+aVScott Brooks HOU 05/08/1994 HOU vs. PHX L 5 0 0 0 - 0 0 - 0 1 0.0 0 0 0 1 0 0 0 1 -
+p171
+aVCarl Herrera HOU 05/08/1994 HOU vs. PHX L 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -
+p172
+aVMario Elie HOU 05/08/1994 HOU vs. PHX L 12 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -
+p173
+aVOtis Thorpe HOU 05/08/1994 HOU vs. PHX L 39 16 8 17 47.1 0 1 0.0 0 2 0.0 2 5 7 1 1 0 2 2 -
+p174
+aVMatt Bullard HOU 05/08/1994 HOU vs. PHX L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p175
+aVVernon Maxwell HOU 05/08/1994 HOU vs. PHX L 44 3 1 9 11.1 1 4 25.0 0 0 - 1 8 9 8 0 0 2 6 -
+p176
+aVRobert Horry HOU 05/08/1994 HOU vs. PHX L 38 12 5 13 38.5 2 4 50.0 0 0 - 2 2 4 8 2 2 2 2 -
+p177
+aVHakeem Olajuwon HOU 05/06/1994 HOU @ POR W 44 28 11 26 42.3 0 0 - 6 9 66.7 5 11 16 3 3 2 1 2 -
+p178
+aVChris Jent HOU 05/06/1994 HOU @ POR W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p179
+aVOtis Thorpe HOU 05/06/1994 HOU @ POR W 39 10 5 11 45.5 0 0 - 0 0 - 3 3 6 2 0 1 2 5 -
+p180
+aVVernon Maxwell HOU 05/06/1994 HOU @ POR W 41 7 3 10 30.0 1 4 25.0 0 1 0.0 2 6 8 3 3 0 4 4 -
+p181
+aVMatt Bullard HOU 05/06/1994 HOU @ POR W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -
+p182
+aVKenny Smith HOU 05/06/1994 HOU @ POR W 36 13 5 13 38.5 1 3 33.3 2 2 100.0 0 3 3 3 1 0 2 2 -
+p183
+aVCarl Herrera HOU 05/06/1994 HOU @ POR W 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p184
+aVSam Cassell HOU 05/06/1994 HOU @ POR W 12 9 3 7 42.9 1 3 33.3 2 2 100.0 1 2 3 1 2 0 1 3 -
+p185
+aVMario Elie HOU 05/06/1994 HOU @ POR W 17 9 3 6 50.0 1 2 50.0 2 2 100.0 2 1 3 2 0 1 1 2 -
+p186
+aVRobert Horry HOU 05/06/1994 HOU @ POR W 30 14 5 10 50.0 2 4 50.0 2 2 100.0 1 3 4 2 1 3 1 3 -
+p187
+aVMario Elie HOU 05/03/1994 HOU @ POR L 20 7 3 6 50.0 1 1 100.0 0 0 - 0 1 1 2 1 0 1 1 -
+p188
+aVMatt Bullard HOU 05/03/1994 HOU @ POR L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p189
+aVKenny Smith HOU 05/03/1994 HOU @ POR L 30 12 4 9 44.4 2 4 50.0 2 3 66.7 0 0 0 4 0 0 0 2 -
+p190
+aVSam Cassell HOU 05/03/1994 HOU @ POR L 18 3 1 3 33.3 0 1 0.0 1 2 50.0 1 2 3 4 0 0 2 4 -
+p191
+aVHakeem Olajuwon HOU 05/03/1994 HOU @ POR L 44 36 15 27 55.6 0 0 - 6 7 85.7 3 7 10 6 0 1 2 4 -
+p192
+aVRobert Horry HOU 05/03/1994 HOU @ POR L 34 24 10 13 76.9 3 6 50.0 1 1 100.0 1 4 5 6 2 1 3 3 -
+p193
+aVCarl Herrera HOU 05/03/1994 HOU @ POR L 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p194
+aVOtis Thorpe HOU 05/03/1994 HOU @ POR L 37 12 6 10 60.0 0 0 - 0 0 - 4 7 11 2 0 1 4 5 -
+p195
+aVVernon Maxwell HOU 05/03/1994 HOU @ POR L 41 19 5 14 35.7 4 10 40.0 5 6 83.3 0 1 1 4 1 0 2 3 -
+p196
+aVMario Elie HOU 05/01/1994 HOU vs. POR W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 2 -
+p197
+aVKenny Smith HOU 05/01/1994 HOU vs. POR W 28 7 2 3 66.7 2 3 66.7 1 1 100.0 0 2 2 5 3 0 2 1 -
+p198
+aVOtis Thorpe HOU 05/01/1994 HOU vs. POR W 37 19 8 10 80.0 1 1 100.0 2 4 50.0 4 8 12 3 0 0 2 3 -
+p199
+aVSam Cassell HOU 05/01/1994 HOU vs. POR W 26 9 2 10 20.0 1 4 25.0 4 4 100.0 0 4 4 9 0 0 2 3 -
+p200
+aVMatt Bullard HOU 05/01/1994 HOU vs. POR W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p201
+aVVernon Maxwell HOU 05/01/1994 HOU vs. POR W 37 17 7 14 50.0 0 3 0.0 3 3 100.0 2 5 7 6 0 0 2 4 -
+p202
+aVHakeem Olajuwon HOU 05/01/1994 HOU vs. POR W 40 46 16 30 53.3 1 2 50.0 13 18 72.2 2 6 8 4 4 6 3 3 -
+p203
+aVRobert Horry HOU 05/01/1994 HOU vs. POR W 39 6 3 8 37.5 0 1 0.0 0 0 - 0 5 5 4 0 0 0 4 -
+p204
+aVCarl Herrera HOU 05/01/1994 HOU vs. POR W 19 8 2 3 66.7 0 0 - 4 4 100.0 2 2 4 0 1 1 0 1 -
+p205
+aVCarl Herrera HOU 04/29/1994 HOU vs. POR W 14 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 -
+p206
+aVSam Cassell HOU 04/29/1994 HOU vs. POR W 14 2 1 5 20.0 0 1 0.0 0 1 0.0 1 1 2 0 1 0 1 1 -
+p207
+aVOtis Thorpe HOU 04/29/1994 HOU vs. POR W 39 18 8 13 61.5 0 0 - 2 2 100.0 4 8 12 3 0 1 1 3 -
+p208
+aVHakeem Olajuwon HOU 04/29/1994 HOU vs. POR W 43 26 9 19 47.4 0 0 - 8 9 88.9 3 7 10 6 2 6 6 5 -
+p209
+aVMario Elie HOU 04/29/1994 HOU vs. POR W 17 6 1 1 100.0 0 0 - 4 6 66.7 0 2 2 2 0 0 4 2 -
+p210
+aVRobert Horry HOU 04/29/1994 HOU vs. POR W 32 16 5 8 62.5 2 3 66.7 4 4 100.0 0 5 5 6 1 2 0 2 -
+p211
+aVVernon Maxwell HOU 04/29/1994 HOU vs. POR W 42 24 9 15 60.0 5 8 62.5 1 2 50.0 0 4 4 7 2 0 4 2 -
+p212
+aVKenny Smith HOU 04/29/1994 HOU vs. POR W 39 15 4 10 40.0 2 4 50.0 5 6 83.3 1 3 4 7 0 0 0 3 -
+p213
+a.

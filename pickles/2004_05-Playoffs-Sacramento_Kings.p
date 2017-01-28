@@ -1,0 +1,108 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMike Bibby SAC 05/03/2005 SAC @ SEA L 43 35 13 24 54.2 2 9 22.2 7 8 87.5 0 3 3 10 4 0 2 3 8
+p2
+aVDarius Songaila SAC 05/03/2005 SAC @ SEA L 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 1 0 3 1
+p3
+aVMaurice Evans SAC 05/03/2005 SAC @ SEA L 33 13 5 5 100.0 2 2 100.0 1 1 100.0 1 2 3 1 1 0 0 4 3
+p4
+aVPeja Stojakovic SAC 05/03/2005 SAC @ SEA L 42 38 14 25 56.0 5 9 55.6 5 5 100.0 2 2 4 4 1 0 0 5 5
+p5
+aVKenny Thomas SAC 05/03/2005 SAC @ SEA L 32 7 3 7 42.9 0 0 - 1 3 33.3 2 4 6 4 0 0 1 4 -1
+p6
+aVEddie House SAC 05/03/2005 SAC @ SEA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p7
+aVCuttino Mobley SAC 05/03/2005 SAC @ SEA L 15 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -3
+p8
+aVBrian Skinner SAC 05/03/2005 SAC @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p9
+aVBobby Jackson SAC 05/03/2005 SAC @ SEA L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -16
+p10
+aVBrad Miller SAC 05/03/2005 SAC @ SEA L 42 14 5 12 41.7 0 1 0.0 4 4 100.0 2 4 6 11 0 0 2 5 8
+p11
+aVCorliss Williamson SAC 05/03/2005 SAC @ SEA L 10 4 1 4 25.0 0 1 0.0 2 4 50.0 0 2 2 0 1 0 1 4 -12
+p12
+aVKenny Thomas SAC 05/01/2005 SAC vs. SEA L 34 15 6 12 50.0 0 0 - 3 4 75.0 5 9 14 1 1 1 3 6 -12
+p13
+aVPeja Stojakovic SAC 05/01/2005 SAC vs. SEA L 46 27 10 18 55.6 2 7 28.6 5 6 83.3 1 3 4 1 3 0 0 2 -10
+p14
+aVDarius Songaila SAC 05/01/2005 SAC vs. SEA L 11 4 1 4 25.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 15
+p15
+aVMike Bibby SAC 05/01/2005 SAC vs. SEA L 45 13 4 17 23.5 2 5 40.0 3 6 50.0 1 6 7 7 1 0 4 3 -14
+p16
+aVBrad Miller SAC 05/01/2005 SAC vs. SEA L 37 15 6 10 60.0 0 1 0.0 3 6 50.0 3 2 5 1 1 2 2 5 -29
+p17
+aVCorliss Williamson SAC 05/01/2005 SAC vs. SEA L 12 12 3 6 50.0 0 0 - 6 6 100.0 1 0 1 1 0 0 1 4 2
+p18
+aVCuttino Mobley SAC 05/01/2005 SAC vs. SEA L 40 16 7 18 38.9 2 8 25.0 0 0 - 3 2 5 4 4 0 3 4 -16
+p19
+aVBobby Jackson SAC 05/01/2005 SAC vs. SEA L 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p20
+aVPeja Stojakovic SAC 04/29/2005 SAC vs. SEA W 39 12 3 11 27.3 0 3 0.0 6 6 100.0 0 3 3 0 0 0 0 4 5
+p21
+aVBobby Jackson SAC 04/29/2005 SAC vs. SEA W 18 9 3 7 42.9 1 4 25.0 2 2 100.0 1 0 1 3 1 0 0 1 12
+p22
+aVCorliss Williamson SAC 04/29/2005 SAC vs. SEA W 8 5 0 3 0.0 0 0 - 5 6 83.3 2 0 2 2 0 0 1 2 1
+p23
+aVBrad Miller SAC 04/29/2005 SAC vs. SEA W 35 14 6 11 54.5 0 0 - 2 3 66.7 2 1 3 0 0 1 2 5 14
+p24
+aVDarius Songaila SAC 04/29/2005 SAC vs. SEA W 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 0 5 7
+p25
+aVMaurice Evans SAC 04/29/2005 SAC vs. SEA W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p26
+aVBrian Skinner SAC 04/29/2005 SAC vs. SEA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -3
+p27
+aVMike Bibby SAC 04/29/2005 SAC vs. SEA W 46 31 11 21 52.4 1 2 50.0 8 9 88.9 2 5 7 4 2 0 4 2 10
+p28
+aVCuttino Mobley SAC 04/29/2005 SAC vs. SEA W 37 21 7 14 50.0 3 7 42.9 4 4 100.0 0 4 4 2 1 0 1 4 1
+p29
+aVKenny Thomas SAC 04/29/2005 SAC vs. SEA W 33 22 8 10 80.0 0 0 - 6 6 100.0 1 6 7 2 1 0 0 5 6
+p30
+aVMike Bibby SAC 04/26/2005 SAC @ SEA L 30 16 7 14 50.0 0 1 0.0 2 2 100.0 0 0 0 8 0 1 1 1 -19
+p31
+aVMaurice Evans SAC 04/26/2005 SAC @ SEA L 16 5 1 5 20.0 0 2 0.0 3 4 75.0 1 1 2 2 1 0 0 2 12
+p32
+aVBrian Skinner SAC 04/26/2005 SAC @ SEA L 19 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 1 2 2 2 7
+p33
+aVGreg Ostertag SAC 04/26/2005 SAC @ SEA L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 2 1 -9
+p34
+aVEddie House SAC 04/26/2005 SAC @ SEA L 15 9 3 7 42.9 1 1 100.0 2 2 100.0 0 1 1 4 0 0 0 1 11
+p35
+aVCorliss Williamson SAC 04/26/2005 SAC @ SEA L 4 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 0
+p36
+aVPeja Stojakovic SAC 04/26/2005 SAC @ SEA L 32 9 3 10 30.0 0 2 0.0 3 3 100.0 2 8 10 1 0 0 1 2 -24
+p37
+aVCuttino Mobley SAC 04/26/2005 SAC @ SEA L 28 9 4 13 30.8 1 3 33.3 0 0 - 0 3 3 0 1 1 1 1 -18
+p38
+aVDarius Songaila SAC 04/26/2005 SAC @ SEA L 26 9 4 8 50.0 0 0 - 1 1 100.0 0 4 4 1 0 0 1 3 0
+p39
+aVBrad Miller SAC 04/26/2005 SAC @ SEA L 17 6 3 4 75.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -10
+p40
+aVBobby Jackson SAC 04/26/2005 SAC @ SEA L 24 17 7 18 38.9 2 8 25.0 1 1 100.0 0 3 3 4 0 1 1 1 0
+p41
+aVKenny Thomas SAC 04/26/2005 SAC @ SEA L 21 6 3 7 42.9 0 0 - 0 0 - 4 5 9 2 0 0 1 3 -10
+p42
+aVKenny Thomas SAC 04/23/2005 SAC @ SEA L 32 10 3 9 33.3 0 0 - 4 7 57.1 5 3 8 3 2 1 3 4 -19
+p43
+aVCuttino Mobley SAC 04/23/2005 SAC @ SEA L 39 22 10 19 52.6 1 5 20.0 1 3 33.3 1 1 2 2 0 1 1 3 -1
+p44
+aVBrad Miller SAC 04/23/2005 SAC @ SEA L 9 7 3 3 100.0 0 0 - 1 1 100.0 1 3 4 3 0 0 1 2 5
+p45
+aVMike Bibby SAC 04/23/2005 SAC @ SEA L 37 3 1 16 6.3 0 6 0.0 1 2 50.0 2 3 5 4 0 1 2 2 -8
+p46
+aVGreg Ostertag SAC 04/23/2005 SAC @ SEA L 17 6 3 3 100.0 0 0 - 0 0 - 3 4 7 0 1 1 0 3 12
+p47
+aVPeja Stojakovic SAC 04/23/2005 SAC @ SEA L 44 24 9 19 47.4 4 9 44.4 2 2 100.0 1 4 5 1 0 1 1 2 -2
+p48
+aVBrian Skinner SAC 04/23/2005 SAC @ SEA L 20 4 2 5 40.0 0 0 - 0 0 - 3 2 5 1 1 2 1 3 -5
+p49
+aVCorliss Williamson SAC 04/23/2005 SAC @ SEA L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 2 1 0 -7
+p50
+aVBobby Jackson SAC 04/23/2005 SAC @ SEA L 16 0 0 7 0.0 0 4 0.0 0 0 - 1 1 2 2 0 0 2 1 -4
+p51
+aVDarius Songaila SAC 04/23/2005 SAC @ SEA L 15 4 2 4 50.0 0 0 - 0 0 - 3 2 5 1 0 0 1 1 3
+p52
+aVEddie House SAC 04/23/2005 SAC @ SEA L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p53
+a.

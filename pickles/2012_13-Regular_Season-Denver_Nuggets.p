@@ -1,0 +1,1684 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTimofey Mozgov DEN 04/17/2013 DEN vs. PHX W 20 10 4 11 36.4 0 0 - 2 2 100.0 5 5 10 0 0 1 2 2 -1
+p2
+aVTy Lawson DEN 04/17/2013 DEN vs. PHX W 23 14 6 9 66.7 2 4 50.0 0 0 - 0 1 1 7 0 0 0 0 15
+p3
+aVCorey Brewer DEN 04/17/2013 DEN vs. PHX W 23 4 2 4 50.0 0 2 0.0 0 2 0.0 0 3 3 1 1 0 3 1 7
+p4
+aVAndre Iguodala DEN 04/17/2013 DEN vs. PHX W 31 20 8 14 57.1 0 2 0.0 4 6 66.7 1 4 5 5 2 2 3 0 14
+p5
+aVAndre Miller DEN 04/17/2013 DEN vs. PHX W 21 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 6 0 0 0 2 6
+p6
+aVEvan Fournier DEN 04/17/2013 DEN vs. PHX W 30 10 4 11 36.4 0 2 0.0 2 2 100.0 0 2 2 2 2 0 1 2 19
+p7
+aVWilson Chandler DEN 04/17/2013 DEN vs. PHX W 25 21 8 14 57.1 2 5 40.0 3 3 100.0 3 3 6 4 2 0 2 2 15
+p8
+aVQuincy Miller DEN 04/17/2013 DEN vs. PHX W 4 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p9
+aVJordan Hamilton DEN 04/17/2013 DEN vs. PHX W 11 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 0 0
+p10
+aVJaVale McGee DEN 04/17/2013 DEN vs. PHX W 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 1 2 2 8
+p11
+aVAnthony Randolph DEN 04/17/2013 DEN vs. PHX W 22 11 4 5 80.0 0 0 - 3 3 100.0 3 11 14 2 1 3 3 0 3
+p12
+aVKosta Koufos DEN 04/17/2013 DEN vs. PHX W 17 11 5 8 62.5 0 0 - 1 1 100.0 1 4 5 0 0 1 0 2 15
+p13
+aVJaVale McGee DEN 04/15/2013 DEN @ MIL W 25 10 4 8 50.0 0 0 - 2 5 40.0 8 9 17 0 0 2 2 5 -13
+p14
+aVCorey Brewer DEN 04/15/2013 DEN @ MIL W 22 5 0 6 0.0 0 2 0.0 5 8 62.5 0 3 3 1 0 0 1 1 -11
+p15
+aVAnthony Randolph DEN 04/15/2013 DEN @ MIL W 16 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 1 0 0 5 5 -9
+p16
+aVEvan Fournier DEN 04/15/2013 DEN @ MIL W 29 12 6 11 54.5 0 1 0.0 0 0 - 0 2 2 3 0 0 0 5 6
+p17
+aVAndre Miller DEN 04/15/2013 DEN @ MIL W 23 12 2 12 16.7 0 1 0.0 8 8 100.0 4 2 6 2 2 0 0 2 -7
+p18
+aVAndre Iguodala DEN 04/15/2013 DEN @ MIL W 35 13 5 9 55.6 2 4 50.0 1 2 50.0 2 6 8 7 1 2 1 1 6
+p19
+aVTy Lawson DEN 04/15/2013 DEN @ MIL W 38 26 7 13 53.8 1 1 100.0 11 13 84.6 0 5 5 7 2 0 5 1 1
+p20
+aVWilson Chandler DEN 04/15/2013 DEN @ MIL W 29 21 8 13 61.5 3 5 60.0 2 2 100.0 0 3 3 0 0 0 2 4 16
+p21
+aVKosta Koufos DEN 04/15/2013 DEN @ MIL W 23 8 3 9 33.3 0 0 - 2 6 33.3 4 7 11 0 0 1 1 0 16
+p22
+aVKosta Koufos DEN 04/14/2013 DEN vs. POR W 24 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 2 0 1 2 9
+p23
+aVEvan Fournier DEN 04/14/2013 DEN vs. POR W 36 24 8 12 66.7 3 5 60.0 5 6 83.3 2 2 4 4 3 0 4 3 8
+p24
+aVJaVale McGee DEN 04/14/2013 DEN vs. POR W 17 10 5 7 71.4 0 0 - 0 0 - 0 2 2 0 0 3 3 2 3
+p25
+aVAnthony Randolph DEN 04/14/2013 DEN vs. POR W 20 18 6 9 66.7 0 1 0.0 6 6 100.0 1 5 6 0 2 1 2 3 8
+p26
+aVCorey Brewer DEN 04/14/2013 DEN vs. POR W 21 7 1 5 20.0 1 2 50.0 4 4 100.0 2 3 5 3 0 0 3 2 -8
+p27
+aVWilson Chandler DEN 04/14/2013 DEN vs. POR W 33 11 3 13 23.1 2 6 33.3 3 4 75.0 1 3 4 3 1 0 3 5 -3
+p28
+aVAndre Iguodala DEN 04/14/2013 DEN vs. POR W 37 28 11 17 64.7 2 5 40.0 4 5 80.0 1 6 7 9 3 3 2 1 23
+p29
+aVKenneth Faried DEN 04/14/2013 DEN vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p30
+aVTy Lawson DEN 04/14/2013 DEN vs. POR W 31 12 5 10 50.0 0 2 0.0 2 2 100.0 1 3 4 10 3 0 0 2 22
+p31
+aVAndre Miller DEN 04/14/2013 DEN vs. POR W 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 2 2 -18
+p32
+aVJaVale McGee DEN 04/12/2013 DEN @ DAL L 28 11 5 6 83.3 0 0 - 1 1 100.0 6 3 9 1 1 4 2 3 9
+p33
+aVKosta Koufos DEN 04/12/2013 DEN @ DAL L 19 6 3 9 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -10
+p34
+aVAnthony Randolph DEN 04/12/2013 DEN @ DAL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -2
+p35
+aVAndre Iguodala DEN 04/12/2013 DEN @ DAL L 43 18 7 15 46.7 3 6 50.0 1 3 33.3 1 4 5 6 1 0 5 5 -3
+p36
+aVTy Lawson DEN 04/12/2013 DEN @ DAL L 19 13 5 7 71.4 0 2 0.0 3 4 75.0 0 2 2 3 0 0 0 1 4
+p37
+aVEvan Fournier DEN 04/12/2013 DEN @ DAL L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 1 1
+p38
+aVWilson Chandler DEN 04/12/2013 DEN @ DAL L 34 18 8 15 53.3 2 5 40.0 0 0 - 2 7 9 2 3 0 2 4 -4
+p39
+aVKenneth Faried DEN 04/12/2013 DEN @ DAL L 34 11 5 8 62.5 0 0 - 1 2 50.0 2 8 10 2 0 0 0 0 -3
+p40
+aVCorey Brewer DEN 04/12/2013 DEN @ DAL L 37 18 6 20 30.0 2 9 22.2 4 5 80.0 0 3 3 1 5 0 3 4 -1
+p41
+aVAndre Miller DEN 04/12/2013 DEN @ DAL L 38 8 2 12 16.7 1 2 50.0 3 4 75.0 0 1 1 7 3 0 4 0 -6
+p42
+aVAndre Iguodala DEN 04/10/2013 DEN vs. SAS W 43 12 5 11 45.5 1 1 100.0 1 4 25.0 2 11 13 10 3 0 7 2 5
+p43
+aVKosta Koufos DEN 04/10/2013 DEN vs. SAS W 21 2 1 5 20.0 0 0 - 0 0 - 6 4 10 1 0 1 0 3 -10
+p44
+aVEvan Fournier DEN 04/10/2013 DEN vs. SAS W 18 6 3 8 37.5 0 2 0.0 0 0 - 0 0 0 3 0 1 1 3 20
+p45
+aVKenneth Faried DEN 04/10/2013 DEN vs. SAS W 25 3 1 4 25.0 0 0 - 1 2 50.0 1 6 7 0 0 2 1 1 -18
+p46
+aVCorey Brewer DEN 04/10/2013 DEN vs. SAS W 34 28 12 25 48.0 2 5 40.0 2 5 40.0 1 2 3 2 1 0 0 1 30
+p47
+aVJaVale McGee DEN 04/10/2013 DEN vs. SAS W 16 2 1 4 25.0 0 0 - 0 0 - 2 8 10 1 2 4 0 1 18
+p48
+aVAnthony Randolph DEN 04/10/2013 DEN vs. SAS W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 6
+p49
+aVAndre Miller DEN 04/10/2013 DEN vs. SAS W 34 12 4 8 50.0 0 0 - 4 6 66.7 0 1 1 5 0 0 3 1 -7
+p50
+aVWilson Chandler DEN 04/10/2013 DEN vs. SAS W 41 29 11 20 55.0 3 7 42.9 4 4 100.0 3 5 8 4 2 1 3 3 6
+p51
+aVJaVale McGee DEN 04/06/2013 DEN vs. HOU W 9 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 11
+p52
+aVAndre Miller DEN 04/06/2013 DEN vs. HOU W 31 11 3 8 37.5 1 2 50.0 4 6 66.7 1 1 2 12 0 0 1 2 1
+p53
+aVAndre Iguodala DEN 04/06/2013 DEN vs. HOU W 37 18 7 13 53.8 2 6 33.3 2 3 66.7 0 7 7 14 2 0 2 2 14
+p54
+aVJordan Hamilton DEN 04/06/2013 DEN vs. HOU W 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 0 -4
+p55
+aVTimofey Mozgov DEN 04/06/2013 DEN vs. HOU W 7 0 0 0 - 0 0 - 0 0 - 2 0 2 1 0 0 0 2 -7
+p56
+aVEvan Fournier DEN 04/06/2013 DEN vs. HOU W 23 17 7 14 50.0 3 6 50.0 0 0 - 0 3 3 5 3 0 2 5 20
+p57
+aVAnthony Randolph DEN 04/06/2013 DEN vs. HOU W 22 14 7 10 70.0 0 1 0.0 0 2 0.0 2 5 7 1 4 0 1 3 3
+p58
+aVKenneth Faried DEN 04/06/2013 DEN vs. HOU W 24 13 6 10 60.0 0 0 - 1 2 50.0 3 3 6 0 1 3 1 2 12
+p59
+aVWilson Chandler DEN 04/06/2013 DEN vs. HOU W 30 21 9 15 60.0 3 6 50.0 0 1 0.0 2 4 6 3 1 0 0 2 21
+p60
+aVCorey Brewer DEN 04/06/2013 DEN vs. HOU W 29 22 7 16 43.8 2 4 50.0 6 7 85.7 0 2 2 3 1 0 1 4 23
+p61
+aVQuincy Miller DEN 04/06/2013 DEN vs. HOU W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p62
+aVKosta Koufos DEN 04/06/2013 DEN vs. HOU W 20 6 3 4 75.0 0 0 - 0 0 - 2 5 7 0 0 1 0 3 3
+p63
+aVDanilo Gallinari DEN 04/04/2013 DEN vs. DAL W 16 9 3 7 42.9 0 3 0.0 3 6 50.0 0 1 1 1 0 0 1 1 -3
+p64
+aVAndre Iguodala DEN 04/04/2013 DEN vs. DAL W 41 8 3 13 23.1 1 3 33.3 1 2 50.0 3 6 9 8 1 0 3 0 1
+p65
+aVAndre Miller DEN 04/04/2013 DEN vs. DAL W 33 22 9 15 60.0 1 2 50.0 3 5 60.0 1 2 3 7 1 0 1 2 -5
+p66
+aVEvan Fournier DEN 04/04/2013 DEN vs. DAL W 19 3 1 6 16.7 0 2 0.0 1 1 100.0 0 2 2 3 0 0 1 2 5
+p67
+aVCorey Brewer DEN 04/04/2013 DEN vs. DAL W 35 23 7 17 41.2 2 5 40.0 7 8 87.5 1 1 2 1 2 1 0 0 5
+p68
+aVAnthony Randolph DEN 04/04/2013 DEN vs. DAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p69
+aVJaVale McGee DEN 04/04/2013 DEN vs. DAL W 15 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 1 0 1 -3
+p70
+aVKosta Koufos DEN 04/04/2013 DEN vs. DAL W 21 4 2 8 25.0 0 0 - 0 0 - 3 2 5 0 1 0 0 1 -12
+p71
+aVKenneth Faried DEN 04/04/2013 DEN vs. DAL W 38 12 4 11 36.4 0 0 - 4 8 50.0 8 11 19 1 2 4 0 3 7
+p72
+aVWilson Chandler DEN 04/04/2013 DEN vs. DAL W 21 8 3 6 50.0 2 2 100.0 0 0 - 1 4 5 0 0 0 2 5 4
+p73
+aVJaVale McGee DEN 04/03/2013 DEN @ UTA W 18 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 2 2 1 10
+p74
+aVQuincy Miller DEN 04/03/2013 DEN @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p75
+aVDanilo Gallinari DEN 04/03/2013 DEN @ UTA W 33 21 6 10 60.0 2 4 50.0 7 8 87.5 2 2 4 3 0 0 3 1 8
+p76
+aVKosta Koufos DEN 04/03/2013 DEN @ UTA W 24 2 1 2 50.0 0 0 - 0 0 - 2 11 13 0 0 1 0 2 15
+p77
+aVAndre Miller DEN 04/03/2013 DEN @ UTA W 27 13 6 12 50.0 1 1 100.0 0 0 - 0 2 2 6 1 0 0 2 18
+p78
+aVAnthony Randolph DEN 04/03/2013 DEN @ UTA W 3 4 0 0 - 0 0 - 4 4 100.0 0 1 1 0 0 0 1 0 -1
+p79
+aVWilson Chandler DEN 04/03/2013 DEN @ UTA W 25 10 4 10 40.0 1 4 25.0 1 2 50.0 0 4 4 3 0 2 0 3 10
+p80
+aVAndre Iguodala DEN 04/03/2013 DEN @ UTA W 32 10 4 10 40.0 1 4 25.0 1 4 25.0 0 0 0 6 2 1 3 2 9
+p81
+aVCorey Brewer DEN 04/03/2013 DEN @ UTA W 28 14 4 7 57.1 1 3 33.3 5 6 83.3 0 3 3 2 1 0 1 2 16
+p82
+aVJordan Hamilton DEN 04/03/2013 DEN @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p83
+aVTimofey Mozgov DEN 04/03/2013 DEN @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p84
+aVKenneth Faried DEN 04/03/2013 DEN @ UTA W 26 19 8 10 80.0 0 0 - 3 5 60.0 3 5 8 0 0 2 2 2 10
+p85
+aVEvan Fournier DEN 04/03/2013 DEN @ UTA W 21 18 7 9 77.8 1 2 50.0 3 3 100.0 0 2 2 2 3 0 1 3 -1
+p86
+aVDanilo Gallinari DEN 03/29/2013 DEN vs. BKN W 32 11 5 12 41.7 0 2 0.0 1 2 50.0 0 5 5 6 0 0 1 2 15
+p87
+aVEvan Fournier DEN 03/29/2013 DEN vs. BKN W 21 19 6 9 66.7 1 3 33.3 6 6 100.0 0 2 2 2 2 0 0 2 22
+p88
+aVQuincy Miller DEN 03/29/2013 DEN vs. BKN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 3
+p89
+aVAndre Miller DEN 03/29/2013 DEN vs. BKN W 27 12 4 9 44.4 0 0 - 4 4 100.0 0 1 1 3 1 0 1 1 0
+p90
+aVAndre Iguodala DEN 03/29/2013 DEN vs. BKN W 32 9 4 5 80.0 1 1 100.0 0 2 0.0 2 1 3 8 2 1 3 2 5
+p91
+aVKosta Koufos DEN 03/29/2013 DEN vs. BKN W 24 13 6 8 75.0 0 0 - 1 4 25.0 2 7 9 0 0 1 1 5 13
+p92
+aVJordan Hamilton DEN 03/29/2013 DEN vs. BKN W 3 2 1 3 33.3 0 2 0.0 0 1 0.0 0 0 0 0 0 0 0 0 3
+p93
+aVCorey Brewer DEN 03/29/2013 DEN vs. BKN W 26 13 5 9 55.6 1 4 25.0 2 2 100.0 0 1 1 1 2 0 2 3 18
+p94
+aVWilson Chandler DEN 03/29/2013 DEN vs. BKN W 29 16 4 8 50.0 1 2 50.0 7 8 87.5 0 4 4 2 2 1 0 0 19
+p95
+aVTimofey Mozgov DEN 03/29/2013 DEN vs. BKN W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p96
+aVAnthony Randolph DEN 03/29/2013 DEN vs. BKN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 1 5
+p97
+aVKenneth Faried DEN 03/29/2013 DEN vs. BKN W 19 4 2 2 100.0 0 0 - 0 2 0.0 1 1 2 1 2 0 3 5 -1
+p98
+aVJaVale McGee DEN 03/29/2013 DEN vs. BKN W 17 8 4 7 57.1 0 0 - 0 0 - 2 2 4 0 0 1 0 5 3
+p99
+aVKosta Koufos DEN 03/27/2013 DEN @ SAS L 20 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 4 -17
+p100
+aVDanilo Gallinari DEN 03/27/2013 DEN @ SAS L 31 12 3 9 33.3 0 2 0.0 6 6 100.0 0 6 6 2 0 0 4 3 -21
+p101
+aVAndre Iguodala DEN 03/27/2013 DEN @ SAS L 37 10 4 9 44.4 0 2 0.0 2 3 66.7 1 1 2 7 1 0 2 0 -2
+p102
+aVAndre Miller DEN 03/27/2013 DEN @ SAS L 28 14 7 18 38.9 0 0 - 0 0 - 2 3 5 8 1 0 3 2 18
+p103
+aVJaVale McGee DEN 03/27/2013 DEN @ SAS L 26 21 10 11 90.9 0 0 - 1 1 100.0 5 6 11 0 2 3 1 3 14
+p104
+aVCorey Brewer DEN 03/27/2013 DEN @ SAS L 22 9 3 10 30.0 0 3 0.0 3 4 75.0 1 2 3 2 1 0 1 4 14
+p105
+aVTy Lawson DEN 03/27/2013 DEN @ SAS L 20 2 1 7 14.3 0 2 0.0 0 0 - 0 0 0 3 2 0 1 3 -19
+p106
+aVKenneth Faried DEN 03/27/2013 DEN @ SAS L 22 12 6 8 75.0 0 0 - 0 0 - 3 1 4 1 0 0 2 3 0
+p107
+aVWilson Chandler DEN 03/27/2013 DEN @ SAS L 34 15 6 13 46.2 0 1 0.0 3 3 100.0 1 4 5 3 1 0 1 2 8
+p108
+aVDanilo Gallinari DEN 03/25/2013 DEN @ NOH L 33 24 5 12 41.7 4 6 66.7 10 10 100.0 1 1 2 1 1 0 0 1 -10
+p109
+aVKenneth Faried DEN 03/25/2013 DEN @ NOH L 25 13 4 6 66.7 0 0 - 5 6 83.3 1 6 7 0 1 1 2 4 -14
+p110
+aVJulyan Stone DEN 03/25/2013 DEN @ NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 1 2
+p111
+aVKosta Koufos DEN 03/25/2013 DEN @ NOH L 20 3 1 5 20.0 0 0 - 1 2 50.0 2 1 3 0 1 2 0 0 -6
+p112
+aVJaVale McGee DEN 03/25/2013 DEN @ NOH L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 2 0 0 -9
+p113
+aVAnthony Randolph DEN 03/25/2013 DEN @ NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p114
+aVAndre Iguodala DEN 03/25/2013 DEN @ NOH L 35 6 2 5 40.0 0 2 0.0 2 4 50.0 0 1 1 4 1 0 1 2 -17
+p115
+aVWilson Chandler DEN 03/25/2013 DEN @ NOH L 30 11 3 10 30.0 0 3 0.0 5 7 71.4 0 4 4 2 0 0 2 3 1
+p116
+aVJordan Hamilton DEN 03/25/2013 DEN @ NOH L 11 7 2 7 28.6 1 2 50.0 2 2 100.0 4 1 5 0 0 0 0 0 -9
+p117
+aVEvan Fournier DEN 03/25/2013 DEN @ NOH L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p118
+aVTimofey Mozgov DEN 03/25/2013 DEN @ NOH L 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -3
+p119
+aVAndre Miller DEN 03/25/2013 DEN @ NOH L 39 9 3 5 60.0 0 0 - 3 4 75.0 0 4 4 6 2 0 3 0 -23
+p120
+aVCorey Brewer DEN 03/25/2013 DEN @ NOH L 27 9 4 12 33.3 0 3 0.0 1 2 50.0 2 1 3 1 1 0 3 3 -26
+p121
+aVKosta Koufos DEN 03/23/2013 DEN vs. SAC W 26 13 5 8 62.5 0 0 - 3 4 75.0 1 8 9 1 0 1 1 4 16
+p122
+aVCorey Brewer DEN 03/23/2013 DEN vs. SAC W 26 2 1 8 12.5 0 2 0.0 0 0 - 1 1 2 4 3 2 4 2 -6
+p123
+aVAndre Iguodala DEN 03/23/2013 DEN vs. SAC W 37 15 5 16 31.3 2 5 40.0 3 4 75.0 2 3 5 8 2 0 3 1 7
+p124
+aVKenneth Faried DEN 03/23/2013 DEN vs. SAC W 38 17 7 12 58.3 0 0 - 3 4 75.0 1 8 9 2 0 2 1 4 14
+p125
+aVAnthony Randolph DEN 03/23/2013 DEN vs. SAC W 16 8 4 8 50.0 0 1 0.0 0 2 0.0 3 3 6 0 0 0 0 2 -6
+p126
+aVAndre Miller DEN 03/23/2013 DEN vs. SAC W 34 11 4 12 33.3 0 1 0.0 3 3 100.0 1 2 3 5 0 0 2 3 -4
+p127
+aVJulyan Stone DEN 03/23/2013 DEN vs. SAC W 14 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 1 0 0 0 0 10
+p128
+aVDanilo Gallinari DEN 03/23/2013 DEN vs. SAC W 36 19 5 12 41.7 2 5 40.0 7 9 77.8 1 7 8 4 3 0 1 1 10
+p129
+aVJaVale McGee DEN 03/23/2013 DEN vs. SAC W 13 11 5 8 62.5 0 0 - 1 2 50.0 3 0 3 0 0 2 3 2 -11
+p130
+aVEvan Fournier DEN 03/21/2013 DEN vs. PHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p131
+aVAnthony Randolph DEN 03/21/2013 DEN vs. PHI W 21 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 0 3 1 1 0 5
+p132
+aVKosta Koufos DEN 03/21/2013 DEN vs. PHI W 22 5 2 6 33.3 0 0 - 1 2 50.0 4 4 8 1 0 3 1 3 -7
+p133
+aVAndre Iguodala DEN 03/21/2013 DEN vs. PHI W 40 13 5 9 55.6 0 1 0.0 3 4 75.0 2 2 4 4 2 1 4 2 6
+p134
+aVJaVale McGee DEN 03/21/2013 DEN vs. PHI W 16 6 1 3 33.3 0 0 - 4 5 80.0 2 1 3 1 1 1 4 3 1
+p135
+aVKenneth Faried DEN 03/21/2013 DEN vs. PHI W 26 8 4 9 44.4 0 0 - 0 0 - 2 5 7 1 0 1 0 1 0
+p136
+aVCorey Brewer DEN 03/21/2013 DEN vs. PHI W 33 29 10 18 55.6 5 6 83.3 4 5 80.0 0 1 1 0 5 1 0 5 1
+p137
+aVAndre Miller DEN 03/21/2013 DEN vs. PHI W 40 21 9 14 64.3 0 1 0.0 3 5 60.0 1 2 3 8 1 0 2 4 -14
+p138
+aVDanilo Gallinari DEN 03/21/2013 DEN vs. PHI W 36 12 3 10 30.0 2 3 66.7 4 4 100.0 0 4 4 2 1 0 7 1 -1
+p139
+aVKosta Koufos DEN 03/19/2013 DEN @ OKC W 16 6 3 9 33.3 0 0 - 0 0 - 4 3 7 1 0 0 0 2 7
+p140
+aVKenneth Faried DEN 03/19/2013 DEN @ OKC W 34 13 5 7 71.4 0 0 - 3 4 75.0 5 10 15 0 0 3 2 1 5
+p141
+aVTy Lawson DEN 03/19/2013 DEN @ OKC W 36 25 8 13 61.5 2 5 40.0 7 7 100.0 0 4 4 4 0 0 0 5 12
+p142
+aVWilson Chandler DEN 03/19/2013 DEN @ OKC W 23 9 4 8 50.0 0 0 - 1 1 100.0 2 3 5 1 1 0 1 5 2
+p143
+aVAndre Iguodala DEN 03/19/2013 DEN @ OKC W 36 10 5 14 35.7 0 4 0.0 0 0 - 0 2 2 4 1 0 1 3 17
+p144
+aVAndre Miller DEN 03/19/2013 DEN @ OKC W 23 20 6 11 54.5 0 1 0.0 8 9 88.9 2 5 7 9 1 0 3 1 4
+p145
+aVJaVale McGee DEN 03/19/2013 DEN @ OKC W 16 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 2 3 0
+p146
+aVDanilo Gallinari DEN 03/19/2013 DEN @ OKC W 33 13 4 17 23.5 2 8 25.0 3 4 75.0 2 6 8 3 3 1 3 2 13
+p147
+aVCorey Brewer DEN 03/19/2013 DEN @ OKC W 23 11 5 11 45.5 0 3 0.0 1 2 50.0 0 1 1 1 4 0 0 1 -10
+p148
+aVWilson Chandler DEN 03/18/2013 DEN @ CHI W 39 35 13 21 61.9 1 2 50.0 8 9 88.9 2 7 9 4 2 0 2 2 8
+p149
+aVDanilo Gallinari DEN 03/18/2013 DEN @ CHI W 39 11 2 7 28.6 1 3 33.3 6 9 66.7 2 5 7 3 0 0 0 3 1
+p150
+aVAndre Iguodala DEN 03/18/2013 DEN @ CHI W 38 12 3 14 21.4 2 6 33.3 4 4 100.0 1 9 10 1 2 3 2 2 -6
+p151
+aVCorey Brewer DEN 03/18/2013 DEN @ CHI W 25 16 7 13 53.8 2 6 33.3 0 2 0.0 2 2 4 2 3 0 3 2 0
+p152
+aVJaVale McGee DEN 03/18/2013 DEN @ CHI W 22 12 6 8 75.0 0 0 - 0 0 - 2 1 3 0 1 1 0 1 9
+p153
+aVKosta Koufos DEN 03/18/2013 DEN @ CHI W 21 4 2 7 28.6 0 0 - 0 0 - 6 3 9 0 1 0 0 2 1
+p154
+aVAndre Miller DEN 03/18/2013 DEN @ CHI W 29 8 4 8 50.0 0 0 - 0 0 - 3 3 6 13 0 0 3 3 11
+p155
+aVKenneth Faried DEN 03/18/2013 DEN @ CHI W 15 8 4 8 50.0 0 0 - 0 0 - 2 0 2 0 0 1 1 2 -7
+p156
+aVTy Lawson DEN 03/18/2013 DEN @ CHI W 36 13 5 14 35.7 1 3 33.3 2 3 66.7 0 3 3 3 1 0 2 2 -12
+p157
+aVAndre Iguodala DEN 03/15/2013 DEN vs. MEM W 34 8 4 9 44.4 0 1 0.0 0 0 - 0 7 7 7 1 0 0 0 7
+p158
+aVJaVale McGee DEN 03/15/2013 DEN vs. MEM W 12 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 1 3 2 0 -6
+p159
+aVWilson Chandler DEN 03/15/2013 DEN vs. MEM W 25 5 2 9 22.2 0 3 0.0 1 2 50.0 0 4 4 0 1 0 3 3 -5
+p160
+aVAndre Miller DEN 03/15/2013 DEN vs. MEM W 26 10 5 7 71.4 0 0 - 0 0 - 0 1 1 3 0 0 3 2 18
+p161
+aVKosta Koufos DEN 03/15/2013 DEN vs. MEM W 31 18 7 9 77.8 0 0 - 4 6 66.7 7 9 16 0 0 3 1 5 7
+p162
+aVDanilo Gallinari DEN 03/15/2013 DEN vs. MEM W 35 15 5 11 45.5 1 3 33.3 4 4 100.0 0 4 4 2 2 0 1 0 4
+p163
+aVCorey Brewer DEN 03/15/2013 DEN vs. MEM W 22 11 3 8 37.5 0 1 0.0 5 5 100.0 1 2 3 1 1 0 2 1 6
+p164
+aVKenneth Faried DEN 03/15/2013 DEN vs. MEM W 19 8 3 8 37.5 0 0 - 2 5 40.0 3 1 4 1 1 4 2 5 9
+p165
+aVTy Lawson DEN 03/15/2013 DEN vs. MEM W 35 8 4 12 33.3 0 4 0.0 0 0 - 0 0 0 4 1 0 2 1 -5
+p166
+aVJaVale McGee DEN 03/13/2013 DEN vs. NYK W 12 8 3 8 37.5 0 0 - 2 2 100.0 5 3 8 0 0 1 0 1 -5
+p167
+aVKosta Koufos DEN 03/13/2013 DEN vs. NYK W 18 6 3 6 50.0 0 0 - 0 1 0.0 4 6 10 0 0 0 1 3 13
+p168
+aVKenneth Faried DEN 03/13/2013 DEN vs. NYK W 25 11 4 10 40.0 0 0 - 3 6 50.0 6 4 10 0 0 2 1 2 28
+p169
+aVJordan Hamilton DEN 03/13/2013 DEN vs. NYK W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 0 1 0 1 -5
+p170
+aVDanilo Gallinari DEN 03/13/2013 DEN vs. NYK W 25 16 4 13 30.8 1 8 12.5 7 7 100.0 0 3 3 1 3 0 0 0 17
+p171
+aVWilson Chandler DEN 03/13/2013 DEN vs. NYK W 25 24 9 12 75.0 1 1 100.0 5 8 62.5 0 4 4 0 2 1 2 4 10
+p172
+aVAndre Miller DEN 03/13/2013 DEN vs. NYK W 25 4 2 2 100.0 0 0 - 0 0 - 1 0 1 5 2 0 1 2 13
+p173
+aVEvan Fournier DEN 03/13/2013 DEN vs. NYK W 7 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 0 3 -2
+p174
+aVCorey Brewer DEN 03/13/2013 DEN vs. NYK W 21 10 3 9 33.3 1 2 50.0 3 3 100.0 1 0 1 1 1 1 1 0 6
+p175
+aVTy Lawson DEN 03/13/2013 DEN vs. NYK W 26 13 4 8 50.0 3 5 60.0 2 2 100.0 0 3 3 7 0 1 2 1 11
+p176
+aVAndre Iguodala DEN 03/13/2013 DEN vs. NYK W 33 14 5 7 71.4 2 3 66.7 2 6 33.3 0 6 6 6 2 1 4 0 32
+p177
+aVTimofey Mozgov DEN 03/13/2013 DEN vs. NYK W 9 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 2 1 -2
+p178
+aVAnthony Randolph DEN 03/13/2013 DEN vs. NYK W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p179
+aVKosta Koufos DEN 03/11/2013 DEN @ PHX W 26 22 10 11 90.9 0 0 - 2 3 66.7 4 6 10 1 1 1 1 3 10
+p180
+aVAndre Iguodala DEN 03/11/2013 DEN @ PHX W 30 6 2 6 33.3 0 2 0.0 2 3 66.7 0 3 3 7 3 0 1 1 11
+p181
+aVAndre Miller DEN 03/11/2013 DEN @ PHX W 27 7 3 7 42.9 0 0 - 1 1 100.0 1 1 2 5 0 0 2 4 12
+p182
+aVJaVale McGee DEN 03/11/2013 DEN @ PHX W 18 8 4 9 44.4 0 0 - 0 1 0.0 2 3 5 1 1 0 0 4 1
+p183
+aVKenneth Faried DEN 03/11/2013 DEN @ PHX W 20 10 4 9 44.4 0 0 - 2 2 100.0 3 6 9 1 0 1 2 1 3
+p184
+aVWilson Chandler DEN 03/11/2013 DEN @ PHX W 27 11 5 7 71.4 0 1 0.0 1 2 50.0 1 5 6 1 3 0 3 0 4
+p185
+aVCorey Brewer DEN 03/11/2013 DEN @ PHX W 26 20 7 16 43.8 2 4 50.0 4 6 66.7 2 1 3 1 3 0 3 2 7
+p186
+aVDanilo Gallinari DEN 03/11/2013 DEN @ PHX W 30 5 1 8 12.5 0 2 0.0 3 3 100.0 0 5 5 2 1 0 1 0 10
+p187
+aVTy Lawson DEN 03/11/2013 DEN @ PHX W 36 19 8 13 61.5 1 3 33.3 2 4 50.0 1 1 2 6 0 0 1 1 17
+p188
+aVTimofey Mozgov DEN 03/09/2013 DEN vs. MIN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 1 1
+p189
+aVWilson Chandler DEN 03/09/2013 DEN vs. MIN W 21 7 2 5 40.0 1 2 50.0 2 4 50.0 0 5 5 2 1 0 3 5 17
+p190
+aVKosta Koufos DEN 03/09/2013 DEN vs. MIN W 22 8 4 5 80.0 0 0 - 0 0 - 1 7 8 0 1 1 1 1 14
+p191
+aVAndre Miller DEN 03/09/2013 DEN vs. MIN W 22 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 6 2 0 2 1 15
+p192
+aVDanilo Gallinari DEN 03/09/2013 DEN vs. MIN W 28 11 2 7 28.6 2 5 40.0 5 5 100.0 0 5 5 6 1 0 1 0 22
+p193
+aVEvan Fournier DEN 03/09/2013 DEN vs. MIN W 4 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 1 1
+p194
+aVAndre Iguodala DEN 03/09/2013 DEN vs. MIN W 32 11 4 10 40.0 1 1 100.0 2 3 66.7 2 3 5 3 4 3 1 2 10
+p195
+aVCorey Brewer DEN 03/09/2013 DEN vs. MIN W 25 15 7 13 53.8 0 2 0.0 1 2 50.0 0 1 1 2 2 0 2 1 8
+p196
+aVJordan Hamilton DEN 03/09/2013 DEN vs. MIN W 4 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p197
+aVKenneth Faried DEN 03/09/2013 DEN vs. MIN W 25 4 2 5 40.0 0 0 - 0 0 - 3 8 11 1 0 0 1 2 13
+p198
+aVTy Lawson DEN 03/09/2013 DEN vs. MIN W 34 32 12 17 70.6 4 4 100.0 4 4 100.0 0 1 1 3 1 0 4 3 21
+p199
+aVJaVale McGee DEN 03/09/2013 DEN vs. MIN W 12 8 4 4 100.0 0 0 - 0 0 - 0 3 3 0 1 2 3 4 -8
+p200
+aVAnthony Randolph DEN 03/09/2013 DEN vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p201
+aVKenneth Faried DEN 03/07/2013 DEN vs. LAC W 33 11 4 6 66.7 0 0 - 3 4 75.0 3 7 10 2 1 4 1 2 20
+p202
+aVJaVale McGee DEN 03/07/2013 DEN vs. LAC W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 2 4 4
+p203
+aVAndre Miller DEN 03/07/2013 DEN vs. LAC W 20 12 4 8 50.0 1 2 50.0 3 3 100.0 1 1 2 1 0 0 1 1 -1
+p204
+aVKosta Koufos DEN 03/07/2013 DEN vs. LAC W 19 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 1 2 1 1 11
+p205
+aVAndre Iguodala DEN 03/07/2013 DEN vs. LAC W 39 14 5 10 50.0 2 6 33.3 2 2 100.0 0 3 3 7 2 1 1 2 15
+p206
+aVTy Lawson DEN 03/07/2013 DEN vs. LAC W 35 21 9 15 60.0 3 6 50.0 0 0 - 1 5 6 11 1 0 0 1 23
+p207
+aVWilson Chandler DEN 03/07/2013 DEN vs. LAC W 26 12 5 8 62.5 2 2 100.0 0 0 - 1 3 4 5 0 0 2 4 -8
+p208
+aVDanilo Gallinari DEN 03/07/2013 DEN vs. LAC W 35 20 8 15 53.3 2 4 50.0 2 3 66.7 0 5 5 6 2 1 1 1 13
+p209
+aVCorey Brewer DEN 03/07/2013 DEN vs. LAC W 19 11 5 11 45.5 1 3 33.3 0 0 - 1 2 3 1 0 0 2 1 -2
+p210
+aVDanilo Gallinari DEN 03/05/2013 DEN @ SAC W 36 23 7 11 63.6 5 6 83.3 4 4 100.0 1 3 4 4 0 0 1 1 6
+p211
+aVWilson Chandler DEN 03/05/2013 DEN @ SAC W 21 4 1 7 14.3 0 1 0.0 2 2 100.0 1 3 4 1 3 0 0 0 -12
+p212
+aVKenneth Faried DEN 03/05/2013 DEN @ SAC W 21 19 9 15 60.0 0 0 - 1 2 50.0 3 9 12 1 1 1 1 4 20
+p213
+aVJaVale McGee DEN 03/05/2013 DEN @ SAC W 21 8 4 7 57.1 0 0 - 0 1 0.0 1 1 2 0 0 4 2 5 -7
+p214
+aVTy Lawson DEN 03/05/2013 DEN @ SAC W 35 24 8 16 50.0 2 6 33.3 6 12 50.0 0 3 3 7 1 0 3 5 14
+p215
+aVCorey Brewer DEN 03/05/2013 DEN @ SAC W 21 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 2 2 0 0 3 -1
+p216
+aVAndre Miller DEN 03/05/2013 DEN @ SAC W 27 16 8 11 72.7 0 0 - 0 0 - 1 0 1 7 0 0 1 2 -3
+p217
+aVKosta Koufos DEN 03/05/2013 DEN @ SAC W 24 15 6 9 66.7 0 0 - 3 3 100.0 4 4 8 1 0 1 1 4 8
+p218
+aVAndre Iguodala DEN 03/05/2013 DEN @ SAC W 33 6 2 6 33.3 1 3 33.3 1 4 25.0 2 3 5 7 5 0 3 2 10
+p219
+aVCorey Brewer DEN 03/04/2013 DEN vs. ATL W 28 22 11 20 55.0 0 3 0.0 0 0 - 1 3 4 3 2 0 2 4 17
+p220
+aVDanilo Gallinari DEN 03/04/2013 DEN vs. ATL W 27 7 3 6 50.0 1 2 50.0 0 0 - 1 4 5 1 0 0 2 0 9
+p221
+aVJordan Hamilton DEN 03/04/2013 DEN vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p222
+aVAnthony Randolph DEN 03/04/2013 DEN vs. ATL W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p223
+aVTimofey Mozgov DEN 03/04/2013 DEN vs. ATL W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -1
+p224
+aVKenneth Faried DEN 03/04/2013 DEN vs. ATL W 26 10 5 11 45.5 0 0 - 0 0 - 4 9 13 0 1 0 3 5 3
+p225
+aVKosta Koufos DEN 03/04/2013 DEN vs. ATL W 20 7 3 4 75.0 0 0 - 1 2 50.0 0 7 7 0 0 1 1 3 -3
+p226
+aVTy Lawson DEN 03/04/2013 DEN vs. ATL W 32 18 6 11 54.5 2 4 50.0 4 4 100.0 0 1 1 8 3 0 2 0 2
+p227
+aVAndre Iguodala DEN 03/04/2013 DEN vs. ATL W 35 12 5 8 62.5 2 3 66.7 0 0 - 2 4 6 6 1 0 3 1 5
+p228
+aVJaVale McGee DEN 03/04/2013 DEN vs. ATL W 17 9 4 5 80.0 0 0 - 1 2 50.0 2 2 4 0 0 5 1 2 11
+p229
+aVEvan Fournier DEN 03/04/2013 DEN vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p230
+aVAndre Miller DEN 03/04/2013 DEN vs. ATL W 20 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 9 2 0 2 2 21
+p231
+aVWilson Chandler DEN 03/04/2013 DEN vs. ATL W 27 13 6 13 46.2 0 1 0.0 1 1 100.0 1 4 5 3 0 0 1 2 19
+p232
+aVKenneth Faried DEN 03/01/2013 DEN vs. OKC W 18 4 2 7 28.6 0 0 - 0 0 - 1 3 4 2 0 1 2 2 -11
+p233
+aVAndre Iguodala DEN 03/01/2013 DEN vs. OKC W 37 4 2 9 22.2 0 4 0.0 0 0 - 3 3 6 5 3 0 3 1 -5
+p234
+aVAndre Miller DEN 03/01/2013 DEN vs. OKC W 27 14 5 12 41.7 0 1 0.0 4 4 100.0 0 6 6 7 0 1 3 5 13
+p235
+aVJaVale McGee DEN 03/01/2013 DEN vs. OKC W 16 8 3 6 50.0 0 0 - 2 3 66.7 2 2 4 0 2 1 0 2 2
+p236
+aVWilson Chandler DEN 03/01/2013 DEN vs. OKC W 36 35 13 19 68.4 6 7 85.7 3 4 75.0 0 3 3 1 0 0 4 4 18
+p237
+aVTimofey Mozgov DEN 03/01/2013 DEN vs. OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p238
+aVTy Lawson DEN 03/01/2013 DEN vs. OKC W 36 11 5 14 35.7 0 3 0.0 1 2 50.0 1 2 3 7 2 0 2 1 -1
+p239
+aVCorey Brewer DEN 03/01/2013 DEN vs. OKC W 25 14 7 13 53.8 0 2 0.0 0 0 - 0 2 2 3 5 0 0 2 6
+p240
+aVDanilo Gallinari DEN 03/01/2013 DEN vs. OKC W 22 7 2 7 28.6 1 4 25.0 2 2 100.0 0 2 2 0 1 1 0 2 -4
+p241
+aVKosta Koufos DEN 03/01/2013 DEN vs. OKC W 24 8 4 8 50.0 0 0 - 0 2 0.0 3 10 13 1 1 3 0 4 -8
+p242
+aVKenneth Faried DEN 02/27/2013 DEN @ POR W 26 10 5 12 41.7 0 0 - 0 0 - 3 5 8 4 4 0 1 3 -8
+p243
+aVKosta Koufos DEN 02/27/2013 DEN @ POR W 23 11 5 7 71.4 0 0 - 1 2 50.0 5 3 8 0 0 1 0 4 1
+p244
+aVAnthony Randolph DEN 02/27/2013 DEN @ POR W 16 7 2 5 40.0 0 0 - 3 6 50.0 1 3 4 0 0 0 0 2 4
+p245
+aVJaVale McGee DEN 02/27/2013 DEN @ POR W 17 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 3 1 3 9
+p246
+aVTy Lawson DEN 02/27/2013 DEN @ POR W 37 30 12 22 54.5 0 2 0.0 6 9 66.7 0 2 2 6 2 1 2 3 4
+p247
+aVWilson Chandler DEN 02/27/2013 DEN @ POR W 28 7 3 10 30.0 1 4 25.0 0 0 - 0 2 2 0 2 0 1 4 -3
+p248
+aVCorey Brewer DEN 02/27/2013 DEN @ POR W 27 8 3 5 60.0 0 1 0.0 2 2 100.0 1 3 4 1 2 0 1 2 6
+p249
+aVAndre Iguodala DEN 02/27/2013 DEN @ POR W 43 29 11 20 55.0 2 7 28.6 5 10 50.0 1 6 7 8 5 1 5 2 0
+p250
+aVAndre Miller DEN 02/27/2013 DEN @ POR W 22 5 2 3 66.7 0 0 - 1 2 50.0 0 4 4 10 1 0 4 1 -3
+p251
+aVTimofey Mozgov DEN 02/25/2013 DEN vs. LAL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p252
+aVWilson Chandler DEN 02/25/2013 DEN vs. LAL W 25 23 10 18 55.6 3 5 60.0 0 0 - 2 2 4 1 1 0 0 3 6
+p253
+aVAndre Iguodala DEN 02/25/2013 DEN vs. LAL W 37 14 6 9 66.7 0 1 0.0 2 5 40.0 0 4 4 12 1 1 2 0 6
+p254
+aVAndre Miller DEN 02/25/2013 DEN vs. LAL W 28 9 3 4 75.0 0 1 0.0 3 4 75.0 0 3 3 5 2 0 0 0 3
+p255
+aVKenneth Faried DEN 02/25/2013 DEN vs. LAL W 32 12 6 10 60.0 0 0 - 0 0 - 4 6 10 0 3 2 1 5 -6
+p256
+aVKosta Koufos DEN 02/25/2013 DEN vs. LAL W 14 8 3 4 75.0 0 0 - 2 4 50.0 3 2 5 0 1 0 0 5 3
+p257
+aVCorey Brewer DEN 02/25/2013 DEN vs. LAL W 26 16 6 15 40.0 1 5 20.0 3 5 60.0 0 2 2 3 1 0 1 3 17
+p258
+aVJaVale McGee DEN 02/25/2013 DEN vs. LAL W 23 7 3 4 75.0 0 0 - 1 2 50.0 2 5 7 0 2 4 1 3 8
+p259
+aVJordan Hamilton DEN 02/25/2013 DEN vs. LAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p260
+aVAnthony Randolph DEN 02/25/2013 DEN vs. LAL W 6 6 3 3 100.0 0 0 - 0 0 - 2 2 4 0 1 0 0 1 10
+p261
+aVTy Lawson DEN 02/25/2013 DEN vs. LAL W 41 22 8 19 42.1 1 6 16.7 5 7 71.4 0 4 4 8 1 0 4 3 11
+p262
+aVAnthony Randolph DEN 02/23/2013 DEN @ CHA W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 1 2 -2
+p263
+aVKenneth Faried DEN 02/23/2013 DEN @ CHA W 27 15 7 9 77.8 0 0 - 1 1 100.0 1 4 5 1 2 0 1 4 14
+p264
+aVEvan Fournier DEN 02/23/2013 DEN @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p265
+aVAndre Iguodala DEN 02/23/2013 DEN @ CHA W 30 13 5 7 71.4 1 3 33.3 2 3 66.7 1 4 5 10 2 2 1 5 15
+p266
+aVTy Lawson DEN 02/23/2013 DEN @ CHA W 40 20 6 15 40.0 1 2 50.0 7 9 77.8 2 3 5 5 0 0 3 2 13
+p267
+aVJordan Hamilton DEN 02/23/2013 DEN @ CHA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p268
+aVJaVale McGee DEN 02/23/2013 DEN @ CHA W 17 17 8 10 80.0 0 0 - 1 1 100.0 2 4 6 1 0 3 3 2 6
+p269
+aVCorey Brewer DEN 02/23/2013 DEN @ CHA W 28 14 5 16 31.3 2 8 25.0 2 2 100.0 1 3 4 2 2 0 2 3 8
+p270
+aVDanilo Gallinari DEN 02/23/2013 DEN @ CHA W 15 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 2 1 2 1 2 2
+p271
+aVWilson Chandler DEN 02/23/2013 DEN @ CHA W 29 11 4 9 44.4 1 2 50.0 2 2 100.0 1 5 6 3 1 0 1 5 5
+p272
+aVKosta Koufos DEN 02/23/2013 DEN @ CHA W 22 8 4 7 57.1 0 0 - 0 0 - 3 3 6 0 1 2 0 3 10
+p273
+aVAndre Miller DEN 02/23/2013 DEN @ CHA W 26 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 5 2 1 4 0 3
+p274
+aVAndre Iguodala DEN 02/22/2013 DEN @ WAS L 34 8 3 5 60.0 2 4 50.0 0 2 0.0 1 4 5 5 2 0 4 4 -8
+p275
+aVTy Lawson DEN 02/22/2013 DEN @ WAS L 38 27 8 20 40.0 0 6 0.0 11 12 91.7 0 4 4 12 0 0 2 3 -10
+p276
+aVAndre Miller DEN 02/22/2013 DEN @ WAS L 27 19 7 11 63.6 1 1 100.0 4 4 100.0 1 3 4 7 3 0 2 5 3
+p277
+aVDanilo Gallinari DEN 02/22/2013 DEN @ WAS L 28 6 2 5 40.0 0 3 0.0 2 2 100.0 0 3 3 1 1 0 1 2 -14
+p278
+aVJaVale McGee DEN 02/22/2013 DEN @ WAS L 20 9 3 5 60.0 0 0 - 3 6 50.0 1 3 4 0 1 2 0 3 -4
+p279
+aVKosta Koufos DEN 02/22/2013 DEN @ WAS L 18 4 1 6 16.7 0 0 - 2 2 100.0 4 3 7 0 1 2 0 1 -9
+p280
+aVCorey Brewer DEN 02/22/2013 DEN @ WAS L 24 12 5 10 50.0 0 4 0.0 2 2 100.0 0 1 1 2 1 0 2 0 8
+p281
+aVWilson Chandler DEN 02/22/2013 DEN @ WAS L 28 22 8 15 53.3 1 4 25.0 5 5 100.0 0 4 4 0 1 0 0 5 11
+p282
+aVKenneth Faried DEN 02/22/2013 DEN @ WAS L 23 6 2 4 50.0 0 0 - 2 2 100.0 1 3 4 0 1 1 0 1 -7
+p283
+aVKenneth Faried DEN 02/19/2013 DEN vs. BOS W 35 7 3 7 42.9 0 0 - 1 4 25.0 5 11 16 1 1 1 0 3 6
+p284
+aVAndre Iguodala DEN 02/19/2013 DEN vs. BOS W 29 1 0 7 0.0 0 1 0.0 1 4 25.0 0 3 3 7 2 1 1 2 -2
+p285
+aVKosta Koufos DEN 02/19/2013 DEN vs. BOS W 22 11 5 6 83.3 0 0 - 1 1 100.0 1 1 2 0 0 0 1 2 -1
+p286
+aVCorey Brewer DEN 02/19/2013 DEN vs. BOS W 20 10 4 10 40.0 0 1 0.0 2 2 100.0 1 2 3 0 2 0 1 1 3
+p287
+aVTy Lawson DEN 02/19/2013 DEN vs. BOS W 37 26 8 13 61.5 2 5 40.0 8 10 80.0 1 5 6 6 1 0 0 1 4
+p288
+aVDanilo Gallinari DEN 02/19/2013 DEN vs. BOS W 39 26 7 17 41.2 4 9 44.4 8 11 72.7 1 4 5 5 1 0 1 4 20
+p289
+aVWilson Chandler DEN 02/19/2013 DEN vs. BOS W 18 0 0 6 0.0 0 3 0.0 0 0 - 1 6 7 0 0 0 0 1 -1
+p290
+aVJaVale McGee DEN 02/19/2013 DEN vs. BOS W 18 5 2 5 40.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 1 4
+p291
+aVAndre Miller DEN 02/19/2013 DEN vs. BOS W 23 11 4 6 66.7 1 1 100.0 2 3 66.7 0 1 1 2 0 1 3 2 2
+p292
+aVTy Lawson DEN 02/13/2013 DEN @ BKN L 37 26 8 11 72.7 5 5 100.0 5 7 71.4 0 2 2 9 2 0 5 3 -16
+p293
+aVTimofey Mozgov DEN 02/13/2013 DEN @ BKN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p294
+aVJordan Hamilton DEN 02/13/2013 DEN @ BKN L 20 15 6 9 66.7 3 4 75.0 0 0 - 1 2 3 1 2 0 0 1 11
+p295
+aVAndre Miller DEN 02/13/2013 DEN @ BKN L 28 8 4 10 40.0 0 1 0.0 0 0 - 0 1 1 10 2 1 2 3 6
+p296
+aVJaVale McGee DEN 02/13/2013 DEN @ BKN L 27 14 5 7 71.4 0 0 - 4 9 44.4 2 1 3 0 1 0 1 4 -2
+p297
+aVKenneth Faried DEN 02/13/2013 DEN @ BKN L 31 7 3 8 37.5 0 0 - 1 2 50.0 1 4 5 2 0 0 1 2 -6
+p298
+aVEvan Fournier DEN 02/13/2013 DEN @ BKN L 5 4 1 1 100.0 1 1 100.0 1 2 50.0 0 0 0 1 0 0 0 1 -6
+p299
+aVKosta Koufos DEN 02/13/2013 DEN @ BKN L 21 9 4 7 57.1 0 0 - 1 2 50.0 4 3 7 0 0 2 0 3 -7
+p300
+aVAnthony Randolph DEN 02/13/2013 DEN @ BKN L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 2 2 1 -9
+p301
+aVWilson Chandler DEN 02/13/2013 DEN @ BKN L 32 11 5 13 38.5 1 2 50.0 0 0 - 3 4 7 1 0 0 1 3 -6
+p302
+aVCorey Brewer DEN 02/13/2013 DEN @ BKN L 32 12 5 11 45.5 2 4 50.0 0 0 - 0 1 1 1 1 0 2 3 -18
+p303
+aVTy Lawson DEN 02/12/2013 DEN @ TOR L 39 29 12 20 60.0 1 3 33.3 4 6 66.7 0 1 1 9 3 0 2 0 8
+p304
+aVJaVale McGee DEN 02/12/2013 DEN @ TOR L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p305
+aVTimofey Mozgov DEN 02/12/2013 DEN @ TOR L 12 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 0
+p306
+aVAnthony Randolph DEN 02/12/2013 DEN @ TOR L 27 16 6 13 46.2 0 0 - 4 6 66.7 4 3 7 2 3 2 3 3 10
+p307
+aVAndre Miller DEN 02/12/2013 DEN @ TOR L 31 12 5 6 83.3 1 1 100.0 1 2 50.0 1 5 6 5 1 0 1 2 7
+p308
+aVCorey Brewer DEN 02/12/2013 DEN @ TOR L 28 9 3 11 27.3 1 7 14.3 2 2 100.0 0 0 0 1 0 0 3 3 -10
+p309
+aVEvan Fournier DEN 02/12/2013 DEN @ TOR L 18 6 2 4 50.0 2 2 100.0 0 0 - 1 0 1 2 0 0 1 3 -10
+p310
+aVJordan Hamilton DEN 02/12/2013 DEN @ TOR L 28 7 3 10 30.0 1 3 33.3 0 0 - 3 2 5 2 2 2 3 1 2
+p311
+aVKosta Koufos DEN 02/12/2013 DEN @ TOR L 20 8 4 8 50.0 0 0 - 0 0 - 5 5 10 1 2 1 0 2 -3
+p312
+aVKenneth Faried DEN 02/12/2013 DEN @ TOR L 31 15 6 8 75.0 0 0 - 3 4 75.0 3 8 11 2 2 0 4 3 -11
+p313
+aVWilson Chandler DEN 02/10/2013 DEN @ BOS L 33 7 3 9 33.3 1 2 50.0 0 0 - 0 8 8 1 0 2 1 2 4
+p314
+aVKenneth Faried DEN 02/10/2013 DEN @ BOS L 39 14 5 10 50.0 0 0 - 4 7 57.1 4 8 12 1 3 1 3 5 -11
+p315
+aVAndre Iguodala DEN 02/10/2013 DEN @ BOS L 20 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 4 0 1 1 2 -8
+p316
+aVCorey Brewer DEN 02/10/2013 DEN @ BOS L 28 13 5 15 33.3 0 4 0.0 3 5 60.0 2 2 4 1 3 1 1 3 7
+p317
+aVJaVale McGee DEN 02/10/2013 DEN @ BOS L 32 5 2 7 28.6 0 0 - 1 2 50.0 3 13 16 0 0 3 0 1 9
+p318
+aVDanilo Gallinari DEN 02/10/2013 DEN @ BOS L 49 18 7 20 35.0 2 8 25.0 2 3 66.7 1 9 10 3 3 2 4 2 -12
+p319
+aVKosta Koufos DEN 02/10/2013 DEN @ BOS L 19 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -9
+p320
+aVAndre Miller DEN 02/10/2013 DEN @ BOS L 40 15 7 18 38.9 1 3 33.3 0 0 - 3 2 5 6 0 1 5 1 6
+p321
+aVTy Lawson DEN 02/10/2013 DEN @ BOS L 55 29 13 22 59.1 3 6 50.0 0 0 - 2 4 6 9 1 0 5 2 -6
+p322
+aVWilson Chandler DEN 02/09/2013 DEN @ CLE W 23 7 2 6 33.3 0 2 0.0 3 4 75.0 0 4 4 1 2 0 1 4 9
+p323
+aVAndre Miller DEN 02/09/2013 DEN @ CLE W 25 10 3 8 37.5 0 1 0.0 4 5 80.0 2 4 6 5 0 0 3 1 2
+p324
+aVKenneth Faried DEN 02/09/2013 DEN @ CLE W 30 17 7 12 58.3 0 0 - 3 6 50.0 3 4 7 1 1 1 5 2 1
+p325
+aVJaVale McGee DEN 02/09/2013 DEN @ CLE W 18 13 6 7 85.7 0 0 - 1 2 50.0 0 4 4 0 0 4 1 2 7
+p326
+aVTy Lawson DEN 02/09/2013 DEN @ CLE W 35 11 3 11 27.3 1 2 50.0 4 4 100.0 0 2 2 5 2 0 1 1 8
+p327
+aVDanilo Gallinari DEN 02/09/2013 DEN @ CLE W 37 19 6 13 46.2 3 6 50.0 4 5 80.0 4 5 9 0 2 2 4 2 1
+p328
+aVCorey Brewer DEN 02/09/2013 DEN @ CLE W 21 10 2 6 33.3 0 3 0.0 6 8 75.0 0 1 1 3 1 0 1 3 3
+p329
+aVKosta Koufos DEN 02/09/2013 DEN @ CLE W 17 10 5 8 62.5 0 0 - 0 0 - 6 3 9 1 0 0 0 4 1
+p330
+aVAndre Iguodala DEN 02/09/2013 DEN @ CLE W 35 14 6 9 66.7 2 3 66.7 0 0 - 0 4 4 7 1 1 4 2 8
+p331
+aVKenneth Faried DEN 02/07/2013 DEN vs. CHI W 26 21 9 10 90.0 0 0 - 3 4 75.0 4 8 12 0 2 0 0 1 19
+p332
+aVDanilo Gallinari DEN 02/07/2013 DEN vs. CHI W 30 15 4 9 44.4 1 3 33.3 6 6 100.0 0 3 3 1 1 0 1 0 26
+p333
+aVCorey Brewer DEN 02/07/2013 DEN vs. CHI W 18 6 3 8 37.5 0 3 0.0 0 0 - 0 0 0 3 0 1 0 1 6
+p334
+aVWilson Chandler DEN 02/07/2013 DEN vs. CHI W 19 24 8 9 88.9 5 5 100.0 3 3 100.0 1 1 2 0 2 1 0 3 7
+p335
+aVTy Lawson DEN 02/07/2013 DEN vs. CHI W 31 16 5 11 45.5 0 1 0.0 6 8 75.0 0 3 3 12 2 0 2 3 40
+p336
+aVAndre Iguodala DEN 02/07/2013 DEN vs. CHI W 26 14 6 9 66.7 1 4 25.0 1 2 50.0 0 1 1 4 2 1 2 0 21
+p337
+aVAnthony Randolph DEN 02/07/2013 DEN vs. CHI W 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 2 0 0 0 0 2
+p338
+aVAndre Miller DEN 02/07/2013 DEN vs. CHI W 24 2 1 4 25.0 0 1 0.0 0 0 - 1 4 5 7 2 0 1 2 1
+p339
+aVKosta Koufos DEN 02/07/2013 DEN vs. CHI W 21 4 2 2 100.0 0 0 - 0 0 - 3 4 7 0 0 1 2 4 16
+p340
+aVJaVale McGee DEN 02/07/2013 DEN vs. CHI W 14 10 5 10 50.0 0 0 - 0 0 - 4 1 5 0 0 3 0 1 14
+p341
+aVJordan Hamilton DEN 02/07/2013 DEN vs. CHI W 8 8 3 6 50.0 2 2 100.0 0 0 - 1 1 2 0 0 0 1 0 4
+p342
+aVEvan Fournier DEN 02/07/2013 DEN vs. CHI W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p343
+aVTimofey Mozgov DEN 02/07/2013 DEN vs. CHI W 8 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 4
+p344
+aVTy Lawson DEN 02/05/2013 DEN vs. MIL W 37 22 6 11 54.5 1 4 25.0 9 11 81.8 0 2 2 7 2 0 2 2 8
+p345
+aVWilson Chandler DEN 02/05/2013 DEN vs. MIL W 21 7 3 11 27.3 0 2 0.0 1 2 50.0 2 8 10 1 0 2 2 1 -1
+p346
+aVKenneth Faried DEN 02/05/2013 DEN vs. MIL W 30 13 5 11 45.5 0 0 - 3 4 75.0 2 8 10 3 1 2 3 3 8
+p347
+aVAndre Iguodala DEN 02/05/2013 DEN vs. MIL W 32 8 4 9 44.4 0 1 0.0 0 2 0.0 1 4 5 5 4 2 3 0 10
+p348
+aVJaVale McGee DEN 02/05/2013 DEN vs. MIL W 18 8 3 5 60.0 0 0 - 2 2 100.0 3 2 5 0 0 4 2 3 -11
+p349
+aVKosta Koufos DEN 02/05/2013 DEN vs. MIL W 17 6 3 9 33.3 0 0 - 0 0 - 6 2 8 0 0 0 0 0 0
+p350
+aVCorey Brewer DEN 02/05/2013 DEN vs. MIL W 27 20 6 13 46.2 1 2 50.0 7 9 77.8 1 3 4 1 2 0 2 3 14
+p351
+aVAndre Miller DEN 02/05/2013 DEN vs. MIL W 22 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 9 0 0 0 2 -2
+p352
+aVDanilo Gallinari DEN 02/05/2013 DEN vs. MIL W 36 22 7 14 50.0 3 6 50.0 5 7 71.4 1 5 6 0 0 2 3 5 14
+p353
+aVAndre Miller DEN 02/01/2013 DEN vs. NOH W 23 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 6 2 1 1 0 5
+p354
+aVTimofey Mozgov DEN 02/01/2013 DEN vs. NOH W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -12
+p355
+aVWilson Chandler DEN 02/01/2013 DEN vs. NOH W 21 9 1 5 20.0 0 2 0.0 7 8 87.5 0 1 1 0 1 0 0 3 -11
+p356
+aVKosta Koufos DEN 02/01/2013 DEN vs. NOH W 22 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 2 0 4 16
+p357
+aVTy Lawson DEN 02/01/2013 DEN vs. NOH W 36 21 6 14 42.9 1 3 33.3 8 8 100.0 0 0 0 13 2 0 0 2 25
+p358
+aVDanilo Gallinari DEN 02/01/2013 DEN vs. NOH W 37 18 8 18 44.4 2 7 28.6 0 0 - 1 6 7 5 2 0 1 2 24
+p359
+aVKenneth Faried DEN 02/01/2013 DEN vs. NOH W 29 13 6 10 60.0 0 0 - 1 2 50.0 2 7 9 0 1 2 0 3 17
+p360
+aVCorey Brewer DEN 02/01/2013 DEN vs. NOH W 24 17 8 12 66.7 1 4 25.0 0 1 0.0 0 1 1 1 3 0 2 2 2
+p361
+aVAndre Iguodala DEN 02/01/2013 DEN vs. NOH W 38 24 10 14 71.4 2 5 40.0 2 3 66.7 2 4 6 4 3 1 2 2 9
+p362
+aVCorey Brewer DEN 01/30/2013 DEN vs. HOU W 20 9 2 8 25.0 1 5 20.0 4 7 57.1 1 0 1 1 0 1 1 1 4
+p363
+aVTimofey Mozgov DEN 01/30/2013 DEN vs. HOU W 13 7 3 3 100.0 0 0 - 1 1 100.0 1 3 4 0 1 0 2 4 -2
+p364
+aVTy Lawson DEN 01/30/2013 DEN vs. HOU W 33 16 4 12 33.3 1 3 33.3 7 8 87.5 0 3 3 4 1 0 1 3 1
+p365
+aVAndre Miller DEN 01/30/2013 DEN vs. HOU W 25 12 6 9 66.7 0 0 - 0 0 - 1 2 3 5 1 0 1 2 22
+p366
+aVKenneth Faried DEN 01/30/2013 DEN vs. HOU W 33 19 6 8 75.0 0 0 - 7 8 87.5 2 7 9 1 2 0 2 5 14
+p367
+aVWilson Chandler DEN 01/30/2013 DEN vs. HOU W 25 7 3 9 33.3 1 4 25.0 0 0 - 2 4 6 1 1 0 2 4 5
+p368
+aVDanilo Gallinari DEN 01/30/2013 DEN vs. HOU W 34 27 10 17 58.8 4 9 44.4 3 6 50.0 0 5 5 2 0 4 3 1 8
+p369
+aVKosta Koufos DEN 01/30/2013 DEN vs. HOU W 20 6 3 3 100.0 0 0 - 0 0 - 2 2 4 1 1 2 2 2 -5
+p370
+aVAndre Iguodala DEN 01/30/2013 DEN vs. HOU W 37 15 5 13 38.5 1 7 14.3 4 6 66.7 0 5 5 6 2 0 6 1 -7
+p371
+aVDanilo Gallinari DEN 01/28/2013 DEN vs. IND W 38 27 9 16 56.3 3 6 50.0 6 7 85.7 0 3 3 3 1 1 0 3 4
+p372
+aVKosta Koufos DEN 01/28/2013 DEN vs. IND W 36 9 4 8 50.0 0 0 - 1 2 50.0 2 9 11 0 0 3 1 4 -2
+p373
+aVAndre Miller DEN 01/28/2013 DEN vs. IND W 17 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 1 0 0 5 4 5
+p374
+aVTimofey Mozgov DEN 01/28/2013 DEN vs. IND W 25 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 2 0 0 4 3 8
+p375
+aVAnthony Randolph DEN 01/28/2013 DEN vs. IND W 4 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p376
+aVTy Lawson DEN 01/28/2013 DEN vs. IND W 41 18 7 17 41.2 1 3 33.3 3 4 75.0 0 4 4 7 5 0 3 2 0
+p377
+aVCorey Brewer DEN 01/28/2013 DEN vs. IND W 30 16 5 11 45.5 3 5 60.0 3 4 75.0 1 2 3 1 3 0 0 1 -7
+p378
+aVAndre Iguodala DEN 01/28/2013 DEN vs. IND W 38 13 4 11 36.4 0 0 - 5 10 50.0 4 6 10 7 1 0 1 1 -2
+p379
+aVKenneth Faried DEN 01/28/2013 DEN vs. IND W 12 4 2 2 100.0 0 0 - 0 0 - 1 5 6 2 0 0 0 4 7
+p380
+aVTimofey Mozgov DEN 01/26/2013 DEN vs. SAC W 9 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 1 0 0 1 1
+p381
+aVCorey Brewer DEN 01/26/2013 DEN vs. SAC W 17 4 2 7 28.6 0 1 0.0 0 0 - 2 0 2 3 0 0 1 0 -3
+p382
+aVAnthony Randolph DEN 01/26/2013 DEN vs. SAC W 11 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 0 1 1 1 -2
+p383
+aVJordan Hamilton DEN 01/26/2013 DEN vs. SAC W 13 8 3 10 30.0 2 7 28.6 0 0 - 2 3 5 2 0 1 0 1 -3
+p384
+aVAndre Iguodala DEN 01/26/2013 DEN vs. SAC W 31 20 8 15 53.3 3 8 37.5 1 2 50.0 0 3 3 7 2 0 0 1 30
+p385
+aVDanilo Gallinari DEN 01/26/2013 DEN vs. SAC W 26 14 3 7 42.9 2 4 50.0 6 6 100.0 0 3 3 3 2 0 1 1 32
+p386
+aVJaVale McGee DEN 01/26/2013 DEN vs. SAC W 16 12 5 6 83.3 0 0 - 2 2 100.0 0 3 3 0 0 2 1 3 6
+p387
+aVKenneth Faried DEN 01/26/2013 DEN vs. SAC W 27 11 4 6 66.7 0 0 - 3 5 60.0 1 8 9 2 1 1 2 3 30
+p388
+aVTy Lawson DEN 01/26/2013 DEN vs. SAC W 26 26 11 15 73.3 4 5 80.0 0 0 - 0 3 3 6 4 1 4 3 32
+p389
+aVKosta Koufos DEN 01/26/2013 DEN vs. SAC W 22 10 5 5 100.0 0 0 - 0 0 - 1 4 5 1 1 1 1 4 24
+p390
+aVEvan Fournier DEN 01/26/2013 DEN vs. SAC W 12 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 1 0 0 2 3 -4
+p391
+aVWilson Chandler DEN 01/26/2013 DEN vs. SAC W 8 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 1
+p392
+aVAndre Miller DEN 01/26/2013 DEN vs. SAC W 24 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 9 2 0 2 0 -4
+p393
+aVAnthony Randolph DEN 01/23/2013 DEN @ HOU W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p394
+aVAndre Iguodala DEN 01/23/2013 DEN @ HOU W 36 14 5 11 45.5 0 2 0.0 4 5 80.0 2 4 6 5 3 0 1 1 1
+p395
+aVCorey Brewer DEN 01/23/2013 DEN @ HOU W 22 8 3 8 37.5 1 5 20.0 1 3 33.3 0 3 3 1 1 0 1 3 12
+p396
+aVKosta Koufos DEN 01/23/2013 DEN @ HOU W 29 8 4 9 44.4 0 0 - 0 2 0.0 3 3 6 1 1 1 1 5 -8
+p397
+aVKenneth Faried DEN 01/23/2013 DEN @ HOU W 20 0 0 2 0.0 0 0 - 0 0 - 0 6 6 1 2 1 2 0 0
+p398
+aVAndre Miller DEN 01/23/2013 DEN @ HOU W 23 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 4 0 0 2 0 5
+p399
+aVDanilo Gallinari DEN 01/23/2013 DEN @ HOU W 36 18 6 13 46.2 3 5 60.0 3 4 75.0 3 3 6 3 0 3 0 1 2
+p400
+aVTy Lawson DEN 01/23/2013 DEN @ HOU W 33 21 8 15 53.3 2 4 50.0 3 4 75.0 1 3 4 7 2 0 4 0 0
+p401
+aVJaVale McGee DEN 01/23/2013 DEN @ HOU W 16 14 6 7 85.7 0 0 - 2 2 100.0 2 0 2 0 1 3 1 1 16
+p402
+aVWilson Chandler DEN 01/23/2013 DEN @ HOU W 24 20 7 15 46.7 2 3 66.7 4 5 80.0 0 6 6 0 3 0 1 1 17
+p403
+aVKenneth Faried DEN 01/20/2013 DEN vs. OKC W 40 16 7 12 58.3 0 0 - 2 6 33.3 4 6 10 4 1 4 3 5 5
+p404
+aVCorey Brewer DEN 01/20/2013 DEN vs. OKC W 34 26 9 17 52.9 3 6 50.0 5 7 71.4 3 3 6 3 1 1 3 5 -7
+p405
+aVWilson Chandler DEN 01/20/2013 DEN vs. OKC W 16 12 4 8 50.0 0 1 0.0 4 4 100.0 3 1 4 1 0 0 0 4 4
+p406
+aVKosta Koufos DEN 01/20/2013 DEN vs. OKC W 21 10 5 7 71.4 0 0 - 0 0 - 3 8 11 0 1 0 3 6 4
+p407
+aVDanilo Gallinari DEN 01/20/2013 DEN vs. OKC W 38 18 5 11 45.5 3 7 42.9 5 8 62.5 0 6 6 3 3 0 2 4 -2
+p408
+aVTimofey Mozgov DEN 01/20/2013 DEN vs. OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p409
+aVAndre Iguodala DEN 01/20/2013 DEN vs. OKC W 27 9 4 8 50.0 1 2 50.0 0 0 - 2 1 3 3 2 1 3 2 6
+p410
+aVTy Lawson DEN 01/20/2013 DEN vs. OKC W 45 11 4 13 30.8 0 1 0.0 3 4 75.0 2 3 5 9 1 0 7 1 8
+p411
+aVAndre Miller DEN 01/20/2013 DEN vs. OKC W 28 11 4 10 40.0 1 1 100.0 2 2 100.0 1 0 1 3 0 0 1 4 -3
+p412
+aVJaVale McGee DEN 01/20/2013 DEN vs. OKC W 17 8 3 7 42.9 0 0 - 2 3 66.7 2 2 4 0 0 0 1 2 0
+p413
+aVKenneth Faried DEN 01/18/2013 DEN vs. WAS L 27 10 4 7 57.1 0 0 - 2 2 100.0 1 5 6 1 0 0 2 2 12
+p414
+aVCorey Brewer DEN 01/18/2013 DEN vs. WAS L 28 17 7 14 50.0 2 6 33.3 1 4 25.0 0 2 2 3 3 0 0 0 -8
+p415
+aVJaVale McGee DEN 01/18/2013 DEN vs. WAS L 14 6 2 7 28.6 0 0 - 2 4 50.0 2 1 3 0 0 1 1 4 -12
+p416
+aVAndre Iguodala DEN 01/18/2013 DEN vs. WAS L 30 2 0 4 0.0 0 1 0.0 2 6 33.3 2 2 4 4 5 1 1 5 -1
+p417
+aVTy Lawson DEN 01/18/2013 DEN vs. WAS L 36 29 11 16 68.8 4 5 80.0 3 4 75.0 0 1 1 6 2 0 5 2 -5
+p418
+aVAndre Miller DEN 01/18/2013 DEN vs. WAS L 26 17 8 10 80.0 0 1 0.0 1 3 33.3 2 3 5 1 0 0 1 1 -6
+p419
+aVKosta Koufos DEN 01/18/2013 DEN vs. WAS L 25 7 3 5 60.0 0 0 - 1 1 100.0 2 5 7 1 0 0 0 4 2
+p420
+aVWilson Chandler DEN 01/18/2013 DEN vs. WAS L 20 4 1 5 20.0 0 1 0.0 2 2 100.0 0 5 5 1 1 1 2 2 -12
+p421
+aVDanilo Gallinari DEN 01/18/2013 DEN vs. WAS L 34 16 5 16 31.3 1 2 50.0 5 5 100.0 0 1 1 0 2 1 2 3 10
+p422
+aVAnthony Randolph DEN 01/16/2013 DEN @ OKC L 16 8 1 6 16.7 0 2 0.0 6 8 75.0 1 4 5 0 3 3 2 2 5
+p423
+aVJordan Hamilton DEN 01/16/2013 DEN @ OKC L 9 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p424
+aVTimofey Mozgov DEN 01/16/2013 DEN @ OKC L 10 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 8
+p425
+aVAndre Miller DEN 01/16/2013 DEN @ OKC L 24 6 3 7 42.9 0 0 - 0 0 - 2 1 3 10 0 0 3 4 -8
+p426
+aVEvan Fournier DEN 01/16/2013 DEN @ OKC L 15 9 2 5 40.0 1 2 50.0 4 5 80.0 1 1 2 3 1 0 2 3 4
+p427
+aVAndre Iguodala DEN 01/16/2013 DEN @ OKC L 30 12 4 10 40.0 0 3 0.0 4 4 100.0 0 1 1 5 0 0 3 0 -17
+p428
+aVJaVale McGee DEN 01/16/2013 DEN @ OKC L 20 15 5 6 83.3 0 0 - 5 5 100.0 2 2 4 0 0 3 2 1 -19
+p429
+aVDanilo Gallinari DEN 01/16/2013 DEN @ OKC L 26 11 3 10 30.0 1 5 20.0 4 5 80.0 0 1 1 0 0 0 1 0 -21
+p430
+aVKenneth Faried DEN 01/16/2013 DEN @ OKC L 21 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 1 1 1 1 4 -24
+p431
+aVJulyan Stone DEN 01/16/2013 DEN @ OKC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p432
+aVCorey Brewer DEN 01/16/2013 DEN @ OKC L 19 3 1 7 14.3 0 2 0.0 1 2 50.0 0 3 3 0 0 0 0 2 -8
+p433
+aVKosta Koufos DEN 01/16/2013 DEN @ OKC L 25 16 6 6 100.0 0 0 - 4 6 66.7 3 6 9 0 1 0 1 4 -8
+p434
+aVTy Lawson DEN 01/16/2013 DEN @ OKC L 20 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 4 3 -14
+p435
+aVTy Lawson DEN 01/15/2013 DEN vs. POR W 40 24 10 19 52.6 2 5 40.0 2 4 50.0 0 3 3 12 0 0 2 3 7
+p436
+aVKenneth Faried DEN 01/15/2013 DEN vs. POR W 31 21 9 12 75.0 0 0 - 3 3 100.0 2 9 11 2 2 1 0 4 7
+p437
+aVDanilo Gallinari DEN 01/15/2013 DEN vs. POR W 42 25 8 14 57.1 3 6 50.0 6 8 75.0 1 3 4 2 0 0 2 3 -1
+p438
+aVJaVale McGee DEN 01/15/2013 DEN vs. POR W 20 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 1 0 0 6 -9
+p439
+aVAndre Miller DEN 01/15/2013 DEN vs. POR W 30 4 2 6 33.3 0 2 0.0 0 0 - 2 0 2 5 2 0 2 0 -4
+p440
+aVKosta Koufos DEN 01/15/2013 DEN vs. POR W 22 8 4 6 66.7 0 0 - 0 0 - 3 2 5 0 3 0 0 3 15
+p441
+aVCorey Brewer DEN 01/15/2013 DEN vs. POR W 19 7 3 6 50.0 1 3 33.3 0 0 - 1 2 3 3 1 1 0 1 -4
+p442
+aVAndre Iguodala DEN 01/15/2013 DEN vs. POR W 41 9 4 16 25.0 1 5 20.0 0 3 0.0 1 2 3 4 1 0 2 3 9
+p443
+aVWilson Chandler DEN 01/15/2013 DEN vs. POR W 19 13 5 13 38.5 2 4 50.0 1 1 100.0 1 5 6 2 2 0 2 0 0
+p444
+aVDanilo Gallinari DEN 01/13/2013 DEN vs. GSW W 35 21 7 12 58.3 3 7 42.9 4 6 66.7 3 5 8 6 0 0 1 2 17
+p445
+aVTy Lawson DEN 01/13/2013 DEN vs. GSW W 33 20 6 14 42.9 2 5 40.0 6 6 100.0 0 2 2 5 1 0 1 1 0
+p446
+aVAndre Iguodala DEN 01/13/2013 DEN vs. GSW W 32 10 4 11 36.4 1 6 16.7 1 2 50.0 0 3 3 6 5 0 1 0 -3
+p447
+aVCorey Brewer DEN 01/13/2013 DEN vs. GSW W 22 13 5 10 50.0 1 4 25.0 2 2 100.0 0 3 3 1 0 0 0 0 10
+p448
+aVAndre Miller DEN 01/13/2013 DEN vs. GSW W 25 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 8 2 0 0 3 12
+p449
+aVJordan Hamilton DEN 01/13/2013 DEN vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p450
+aVAnthony Randolph DEN 01/13/2013 DEN vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p451
+aVJaVale McGee DEN 01/13/2013 DEN vs. GSW W 20 9 2 3 66.7 0 0 - 5 8 62.5 1 0 1 0 0 1 0 3 10
+p452
+aVKenneth Faried DEN 01/13/2013 DEN vs. GSW W 30 9 4 12 33.3 0 0 - 1 1 100.0 3 7 10 0 0 1 1 4 2
+p453
+aVWilson Chandler DEN 01/13/2013 DEN vs. GSW W 21 14 6 14 42.9 2 5 40.0 0 0 - 1 5 6 1 3 0 3 2 5
+p454
+aVEvan Fournier DEN 01/13/2013 DEN vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p455
+aVKosta Koufos DEN 01/13/2013 DEN vs. GSW W 21 8 4 6 66.7 0 0 - 0 0 - 4 1 5 0 0 0 0 1 2
+p456
+aVKenneth Faried DEN 01/11/2013 DEN vs. CLE W 33 17 6 7 85.7 0 0 - 5 7 71.4 3 8 11 0 0 0 3 4 5
+p457
+aVAndre Iguodala DEN 01/11/2013 DEN vs. CLE W 41 13 5 11 45.5 1 4 25.0 2 3 66.7 5 6 11 4 1 0 4 1 9
+p458
+aVCorey Brewer DEN 01/11/2013 DEN vs. CLE W 16 0 0 6 0.0 0 3 0.0 0 0 - 0 2 2 4 1 0 1 4 -4
+p459
+aVTimofey Mozgov DEN 01/11/2013 DEN vs. CLE W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 3 0 0 2
+p460
+aVTy Lawson DEN 01/11/2013 DEN vs. CLE W 34 13 3 11 27.3 0 1 0.0 7 10 70.0 1 4 5 8 0 0 6 2 12
+p461
+aVDanilo Gallinari DEN 01/11/2013 DEN vs. CLE W 31 23 8 13 61.5 3 6 50.0 4 4 100.0 0 7 7 2 0 0 4 4 10
+p462
+aVJaVale McGee DEN 01/11/2013 DEN vs. CLE W 12 2 0 4 0.0 0 0 - 2 4 50.0 4 3 7 0 0 3 0 1 -5
+p463
+aVEvan Fournier DEN 01/11/2013 DEN vs. CLE W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -3
+p464
+aVKosta Koufos DEN 01/11/2013 DEN vs. CLE W 35 21 10 17 58.8 0 0 - 1 1 100.0 3 3 6 0 1 1 0 3 12
+p465
+aVAndre Miller DEN 01/11/2013 DEN vs. CLE W 23 8 4 10 40.0 0 1 0.0 0 0 - 3 2 5 5 1 0 3 2 7
+p466
+aVKosta Koufos DEN 01/09/2013 DEN vs. ORL W 21 2 1 4 25.0 0 0 - 0 2 0.0 2 1 3 0 2 1 1 0 0
+p467
+aVCorey Brewer DEN 01/09/2013 DEN vs. ORL W 28 16 7 17 41.2 0 1 0.0 2 6 33.3 1 3 4 2 0 1 2 0 -2
+p468
+aVDanilo Gallinari DEN 01/09/2013 DEN vs. ORL W 35 15 5 10 50.0 2 5 40.0 3 4 75.0 1 7 8 4 0 1 2 2 12
+p469
+aVTy Lawson DEN 01/09/2013 DEN vs. ORL W 34 19 7 19 36.8 1 2 50.0 4 5 80.0 1 2 3 8 1 0 1 1 5
+p470
+aVKenneth Faried DEN 01/09/2013 DEN vs. ORL W 36 19 7 10 70.0 0 0 - 5 7 71.4 9 10 19 0 2 2 1 2 -4
+p471
+aVAndre Miller DEN 01/09/2013 DEN vs. ORL W 29 18 8 12 66.7 0 0 - 2 4 50.0 1 3 4 4 0 0 1 1 12
+p472
+aVEvan Fournier DEN 01/09/2013 DEN vs. ORL W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p473
+aVAndre Iguodala DEN 01/09/2013 DEN vs. ORL W 32 11 4 13 30.8 1 3 33.3 2 4 50.0 2 2 4 5 1 0 2 0 5
+p474
+aVJaVale McGee DEN 01/09/2013 DEN vs. ORL W 18 6 1 6 16.7 0 0 - 4 4 100.0 1 2 3 1 0 1 0 1 -6
+p475
+aVCorey Brewer DEN 01/06/2013 DEN @ LAL W 23 14 6 14 42.9 1 6 16.7 1 3 33.3 1 5 6 1 2 1 1 1 15
+p476
+aVKenneth Faried DEN 01/06/2013 DEN @ LAL W 32 6 3 6 50.0 0 0 - 0 0 - 2 4 6 3 1 0 1 3 -8
+p477
+aVAndre Miller DEN 01/06/2013 DEN @ LAL W 24 12 4 10 40.0 1 1 100.0 3 3 100.0 0 3 3 10 0 0 1 5 10
+p478
+aVDanilo Gallinari DEN 01/06/2013 DEN @ LAL W 32 20 6 20 30.0 3 10 30.0 5 6 83.3 4 2 6 2 1 1 1 4 1
+p479
+aVKosta Koufos DEN 01/06/2013 DEN @ LAL W 28 7 3 8 37.5 0 0 - 1 1 100.0 4 3 7 0 0 1 2 2 -8
+p480
+aVJaVale McGee DEN 01/06/2013 DEN @ LAL W 26 17 7 9 77.8 0 0 - 3 7 42.9 3 3 6 0 3 2 1 4 14
+p481
+aVAndre Iguodala DEN 01/06/2013 DEN @ LAL W 38 15 6 14 42.9 3 5 60.0 0 0 - 0 6 6 7 0 1 1 2 14
+p482
+aVTy Lawson DEN 01/06/2013 DEN @ LAL W 33 21 9 18 50.0 1 2 50.0 2 3 66.7 1 1 2 10 3 0 0 0 1
+p483
+aVJordan Hamilton DEN 01/06/2013 DEN @ LAL W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -4
+p484
+aVAndre Miller DEN 01/05/2013 DEN vs. UTA W 21 11 4 8 50.0 1 2 50.0 2 2 100.0 0 0 0 6 2 0 4 1 11
+p485
+aVJaVale McGee DEN 01/05/2013 DEN vs. UTA W 23 7 2 5 40.0 0 0 - 3 4 75.0 3 2 5 1 1 1 0 3 14
+p486
+aVJulyan Stone DEN 01/05/2013 DEN vs. UTA W 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 -4
+p487
+aVKenneth Faried DEN 01/05/2013 DEN vs. UTA W 32 15 7 10 70.0 0 0 - 1 2 50.0 3 7 10 1 1 1 2 3 17
+p488
+aVKosta Koufos DEN 01/05/2013 DEN vs. UTA W 29 8 4 6 66.7 0 0 - 0 1 0.0 3 10 13 0 1 2 1 3 15
+p489
+aVDanilo Gallinari DEN 01/05/2013 DEN vs. UTA W 32 26 7 11 63.6 1 2 50.0 11 12 91.7 1 4 5 3 1 0 4 3 6
+p490
+aVAndre Iguodala DEN 01/05/2013 DEN vs. UTA W 31 18 5 9 55.6 0 1 0.0 8 11 72.7 0 6 6 2 0 0 3 1 20
+p491
+aVAnthony Randolph DEN 01/05/2013 DEN vs. UTA W 5 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p492
+aVTimofey Mozgov DEN 01/05/2013 DEN vs. UTA W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -2
+p493
+aVEvan Fournier DEN 01/05/2013 DEN vs. UTA W 6 4 2 2 100.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -5
+p494
+aVCorey Brewer DEN 01/05/2013 DEN vs. UTA W 19 3 1 5 20.0 1 1 100.0 0 0 - 0 2 2 2 0 1 1 2 12
+p495
+aVTy Lawson DEN 01/05/2013 DEN vs. UTA W 24 14 6 12 50.0 1 2 50.0 1 1 100.0 0 1 1 4 1 1 3 1 17
+p496
+aVJordan Hamilton DEN 01/05/2013 DEN vs. UTA W 6 2 0 3 0.0 0 3 0.0 2 4 50.0 0 0 0 0 0 0 0 0 -2
+p497
+aVKosta Koufos DEN 01/03/2013 DEN vs. MIN L 26 16 8 10 80.0 0 0 - 0 0 - 3 4 7 1 4 2 0 2 19
+p498
+aVAndre Miller DEN 01/03/2013 DEN vs. MIN L 36 11 5 12 41.7 0 2 0.0 1 1 100.0 1 3 4 10 1 1 1 4 11
+p499
+aVAnthony Randolph DEN 01/03/2013 DEN vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -3
+p500
+aVAndre Iguodala DEN 01/03/2013 DEN vs. MIN L 36 14 6 16 37.5 1 5 20.0 1 7 14.3 0 7 7 6 2 0 1 1 6
+p501
+aVTimofey Mozgov DEN 01/03/2013 DEN vs. MIN L 13 6 2 3 66.7 0 0 - 2 3 66.7 2 1 3 1 0 2 1 3 -1
+p502
+aVTy Lawson DEN 01/03/2013 DEN vs. MIN L 23 16 6 9 66.7 1 3 33.3 3 3 100.0 0 0 0 2 0 2 1 1 -25
+p503
+aVEvan Fournier DEN 01/03/2013 DEN vs. MIN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -2
+p504
+aVDanilo Gallinari DEN 01/03/2013 DEN vs. MIN L 28 12 4 11 36.4 3 7 42.9 1 2 50.0 0 3 3 1 1 0 1 4 -2
+p505
+aVKenneth Faried DEN 01/03/2013 DEN vs. MIN L 25 8 3 5 60.0 0 0 - 2 2 100.0 2 4 6 3 1 0 0 5 4
+p506
+aVCorey Brewer DEN 01/03/2013 DEN vs. MIN L 29 12 5 13 38.5 1 5 20.0 1 2 50.0 0 3 3 3 2 1 1 0 -12
+p507
+aVJaVale McGee DEN 01/03/2013 DEN vs. MIN L 13 2 1 7 14.3 0 0 - 0 0 - 3 1 4 0 0 2 1 2 -15
+p508
+aVTimofey Mozgov DEN 01/01/2013 DEN vs. LAC W 13 4 1 3 33.3 0 1 0.0 2 2 100.0 5 1 6 0 0 1 1 2 7
+p509
+aVAnthony Randolph DEN 01/01/2013 DEN vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p510
+aVAndre Iguodala DEN 01/01/2013 DEN vs. LAC W 37 12 5 10 50.0 1 5 20.0 1 5 20.0 0 7 7 8 2 0 3 1 4
+p511
+aVJaVale McGee DEN 01/01/2013 DEN vs. LAC W 17 11 5 10 50.0 1 1 100.0 0 2 0.0 0 7 7 3 0 1 1 4 17
+p512
+aVKenneth Faried DEN 01/01/2013 DEN vs. LAC W 35 14 5 11 45.5 0 0 - 4 4 100.0 5 6 11 0 2 1 3 5 1
+p513
+aVJordan Hamilton DEN 01/01/2013 DEN vs. LAC W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 0 -6
+p514
+aVDanilo Gallinari DEN 01/01/2013 DEN vs. LAC W 34 17 6 15 40.0 3 7 42.9 2 4 50.0 1 5 6 1 1 1 2 1 9
+p515
+aVAndre Miller DEN 01/01/2013 DEN vs. LAC W 41 12 6 9 66.7 0 1 0.0 0 0 - 1 2 3 12 1 0 3 5 13
+p516
+aVEvan Fournier DEN 01/01/2013 DEN vs. LAC W 8 6 2 4 50.0 2 2 100.0 0 2 0.0 0 0 0 0 0 0 1 3 4
+p517
+aVKosta Koufos DEN 01/01/2013 DEN vs. LAC W 23 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 0 1 3 6
+p518
+aVCorey Brewer DEN 01/01/2013 DEN vs. LAC W 27 10 5 14 35.7 0 6 0.0 0 0 - 1 3 4 4 4 0 0 2 16
+p519
+aVAndre Iguodala DEN 12/29/2012 DEN @ MEM L 41 12 5 10 50.0 1 6 16.7 1 4 25.0 0 3 3 5 2 0 2 0 -12
+p520
+aVAndre Miller DEN 12/29/2012 DEN @ MEM L 28 7 2 5 40.0 0 0 - 3 5 60.0 0 3 3 4 1 0 3 1 1
+p521
+aVKenneth Faried DEN 12/29/2012 DEN @ MEM L 25 11 5 7 71.4 0 0 - 1 2 50.0 2 2 4 1 1 0 1 5 -7
+p522
+aVJaVale McGee DEN 12/29/2012 DEN @ MEM L 22 12 5 11 45.5 0 0 - 2 2 100.0 4 5 9 0 0 6 2 2 1
+p523
+aVTimofey Mozgov DEN 12/29/2012 DEN @ MEM L 13 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -5
+p524
+aVDanilo Gallinari DEN 12/29/2012 DEN @ MEM L 29 7 2 8 25.0 1 3 33.3 2 2 100.0 2 4 6 1 0 0 2 0 -8
+p525
+aVCorey Brewer DEN 12/29/2012 DEN @ MEM L 30 12 5 10 50.0 1 4 25.0 1 1 100.0 0 4 4 2 0 0 3 1 -7
+p526
+aVTy Lawson DEN 12/29/2012 DEN @ MEM L 28 3 1 7 14.3 0 3 0.0 1 2 50.0 0 3 3 1 0 0 2 1 -7
+p527
+aVKosta Koufos DEN 12/29/2012 DEN @ MEM L 26 8 4 6 66.7 0 0 - 0 0 - 1 5 6 3 1 1 1 6 -1
+p528
+aVDanilo Gallinari DEN 12/28/2012 DEN @ DAL W 34 39 14 23 60.9 7 11 63.6 4 4 100.0 2 6 8 3 0 0 1 0 31
+p529
+aVJordan Hamilton DEN 12/28/2012 DEN @ DAL W 8 2 1 3 33.3 0 1 0.0 0 1 0.0 0 3 3 0 1 0 0 1 -5
+p530
+aVAndre Miller DEN 12/28/2012 DEN @ DAL W 25 11 5 10 50.0 0 2 0.0 1 2 50.0 0 1 1 9 1 0 1 3 6
+p531
+aVAnthony Randolph DEN 12/28/2012 DEN @ DAL W 2 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -1
+p532
+aVAndre Iguodala DEN 12/28/2012 DEN @ DAL W 34 20 7 12 58.3 4 6 66.7 2 3 66.7 2 6 8 4 2 0 2 3 31
+p533
+aVKenneth Faried DEN 12/28/2012 DEN @ DAL W 33 11 5 10 50.0 0 0 - 1 4 25.0 7 12 19 1 4 0 4 3 20
+p534
+aVTy Lawson DEN 12/28/2012 DEN @ DAL W 37 11 5 14 35.7 1 3 33.3 0 0 - 1 3 4 6 0 0 5 4 15
+p535
+aVJaVale McGee DEN 12/28/2012 DEN @ DAL W 16 6 3 7 42.9 0 0 - 0 0 - 0 4 4 0 0 1 0 3 2
+p536
+aVEvan Fournier DEN 12/28/2012 DEN @ DAL W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 2
+p537
+aVCorey Brewer DEN 12/28/2012 DEN @ DAL W 22 0 0 6 0.0 0 3 0.0 0 0 - 3 1 4 1 2 0 3 1 -2
+p538
+aVKosta Koufos DEN 12/28/2012 DEN @ DAL W 25 6 3 7 42.9 0 0 - 0 0 - 1 7 8 1 0 1 1 3 6
+p539
+aVJaVale McGee DEN 12/26/2012 DEN vs. LAL W 22 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 1 2 0 1 3 0
+p540
+aVKosta Koufos DEN 12/26/2012 DEN vs. LAL W 20 10 4 6 66.7 0 0 - 2 3 66.7 1 2 3 1 1 2 0 5 7
+p541
+aVAndre Miller DEN 12/26/2012 DEN vs. LAL W 19 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 4 0 0 3 1 -3
+p542
+aVAndre Iguodala DEN 12/26/2012 DEN vs. LAL W 38 17 5 15 33.3 2 6 33.3 5 6 83.3 3 8 11 7 3 2 3 2 9
+p543
+aVCorey Brewer DEN 12/26/2012 DEN vs. LAL W 24 27 9 16 56.3 6 7 85.7 3 3 100.0 2 1 3 1 1 2 0 3 11
+p544
+aVTimofey Mozgov DEN 12/26/2012 DEN vs. LAL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 4
+p545
+aVKenneth Faried DEN 12/26/2012 DEN vs. LAL W 39 21 9 13 69.2 0 0 - 3 5 60.0 9 6 15 1 0 0 1 4 7
+p546
+aVJordan Hamilton DEN 12/26/2012 DEN vs. LAL W 5 2 1 6 16.7 0 1 0.0 0 0 - 2 1 3 0 0 1 0 0 3
+p547
+aVTy Lawson DEN 12/26/2012 DEN vs. LAL W 34 17 6 15 40.0 1 3 33.3 4 5 80.0 2 2 4 14 2 0 0 3 11
+p548
+aVDanilo Gallinari DEN 12/26/2012 DEN vs. LAL W 36 19 6 10 60.0 3 5 60.0 4 6 66.7 0 3 3 2 1 0 1 0 11
+p549
+aVJordan Hamilton DEN 12/25/2012 DEN @ LAC L 17 16 7 9 77.8 2 2 100.0 0 2 0.0 2 2 4 1 1 0 1 1 -4
+p550
+aVCorey Brewer DEN 12/25/2012 DEN @ LAC L 21 2 0 3 0.0 0 2 0.0 2 2 100.0 0 2 2 2 0 0 1 0 -29
+p551
+aVQuincy Miller DEN 12/25/2012 DEN @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 6
+p552
+aVDanilo Gallinari DEN 12/25/2012 DEN @ LAC L 24 7 1 10 10.0 0 3 0.0 5 5 100.0 0 3 3 4 2 0 2 1 3
+p553
+aVKosta Koufos DEN 12/25/2012 DEN @ LAC L 27 16 8 8 100.0 0 0 - 0 0 - 2 8 10 1 1 0 1 2 -4
+p554
+aVTy Lawson DEN 12/25/2012 DEN @ LAC L 32 15 5 11 45.5 1 3 33.3 4 6 66.7 0 3 3 5 1 0 4 1 -8
+p555
+aVJaVale McGee DEN 12/25/2012 DEN @ LAC L 19 9 4 7 57.1 0 0 - 1 2 50.0 1 5 6 0 0 2 2 3 -23
+p556
+aVAndre Iguodala DEN 12/25/2012 DEN @ LAC L 27 9 4 9 44.4 0 3 0.0 1 2 50.0 0 1 1 2 0 0 0 2 -1
+p557
+aVAndre Miller DEN 12/25/2012 DEN @ LAC L 23 12 4 9 44.4 0 0 - 4 5 80.0 0 2 2 6 1 0 3 3 -14
+p558
+aVAnthony Randolph DEN 12/25/2012 DEN @ LAC L 4 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 0 6
+p559
+aVEvan Fournier DEN 12/25/2012 DEN @ LAC L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 6
+p560
+aVTimofey Mozgov DEN 12/25/2012 DEN @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p561
+aVKenneth Faried DEN 12/25/2012 DEN @ LAC L 33 6 3 9 33.3 0 0 - 0 0 - 4 5 9 2 1 2 1 1 -4
+p562
+aVQuincy Miller DEN 12/22/2012 DEN vs. CHA W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p563
+aVJordan Hamilton DEN 12/22/2012 DEN vs. CHA W 17 11 5 12 41.7 1 4 25.0 0 1 0.0 0 5 5 2 0 1 1 0 -1
+p564
+aVTimofey Mozgov DEN 12/22/2012 DEN vs. CHA W 8 3 1 2 50.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 1 -2
+p565
+aVEvan Fournier DEN 12/22/2012 DEN vs. CHA W 16 8 3 6 50.0 1 1 100.0 1 2 50.0 0 1 1 2 1 0 2 2 -3
+p566
+aVKenneth Faried DEN 12/22/2012 DEN vs. CHA W 23 15 6 10 60.0 0 0 - 3 4 75.0 3 6 9 4 2 3 0 1 14
+p567
+aVAnthony Randolph DEN 12/22/2012 DEN vs. CHA W 15 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 1 3 3 0
+p568
+aVDanilo Gallinari DEN 12/22/2012 DEN vs. CHA W 22 12 4 11 36.4 3 6 50.0 1 2 50.0 2 1 3 1 2 1 0 2 15
+p569
+aVCorey Brewer DEN 12/22/2012 DEN vs. CHA W 20 10 5 11 45.5 0 3 0.0 0 0 - 1 3 4 6 0 0 0 3 15
+p570
+aVAndre Iguodala DEN 12/22/2012 DEN vs. CHA W 29 15 6 9 66.7 1 3 33.3 2 2 100.0 0 8 8 8 2 0 1 3 24
+p571
+aVTy Lawson DEN 12/22/2012 DEN vs. CHA W 17 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 5 0 0 0 1 17
+p572
+aVAndre Miller DEN 12/22/2012 DEN vs. CHA W 26 0 0 1 0.0 0 0 - 0 0 - 0 1 1 8 1 0 4 2 6
+p573
+aVJaVale McGee DEN 12/22/2012 DEN vs. CHA W 18 14 7 8 87.5 0 0 - 0 0 - 1 2 3 0 0 1 1 1 5
+p574
+aVKosta Koufos DEN 12/22/2012 DEN vs. CHA W 25 16 8 10 80.0 0 0 - 0 0 - 1 3 4 0 0 5 0 1 21
+p575
+aVAndre Iguodala DEN 12/20/2012 DEN @ POR L 27 13 5 13 38.5 0 6 0.0 3 6 50.0 2 3 5 4 1 0 3 2 -9
+p576
+aVJaVale McGee DEN 12/20/2012 DEN @ POR L 15 7 3 8 37.5 0 0 - 1 2 50.0 2 1 3 0 0 2 0 2 2
+p577
+aVAnthony Randolph DEN 12/20/2012 DEN @ POR L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -1
+p578
+aVCorey Brewer DEN 12/20/2012 DEN @ POR L 29 13 4 10 40.0 0 3 0.0 5 6 83.3 3 6 9 0 2 0 1 2 4
+p579
+aVTy Lawson DEN 12/20/2012 DEN @ POR L 37 13 6 15 40.0 0 4 0.0 1 1 100.0 0 3 3 8 0 0 0 3 -10
+p580
+aVKenneth Faried DEN 12/20/2012 DEN @ POR L 18 6 3 10 30.0 0 0 - 0 0 - 3 5 8 0 0 0 0 3 -13
+p581
+aVTimofey Mozgov DEN 12/20/2012 DEN @ POR L 10 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -5
+p582
+aVDanilo Gallinari DEN 12/20/2012 DEN @ POR L 27 6 1 10 10.0 0 2 0.0 4 4 100.0 3 2 5 0 0 0 1 3 -9
+p583
+aVJordan Hamilton DEN 12/20/2012 DEN @ POR L 13 6 3 7 42.9 0 3 0.0 0 1 0.0 0 4 4 0 1 0 0 1 6
+p584
+aVAndre Miller DEN 12/20/2012 DEN @ POR L 28 12 5 14 35.7 0 2 0.0 2 2 100.0 0 9 9 7 0 0 1 0 0
+p585
+aVKosta Koufos DEN 12/20/2012 DEN @ POR L 20 7 3 3 100.0 0 0 - 1 2 50.0 2 7 9 0 0 2 1 3 -5
+p586
+aVEvan Fournier DEN 12/20/2012 DEN @ POR L 9 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 1 1 0 1 1 0
+p587
+aVAndre Iguodala DEN 12/18/2012 DEN vs. SAS W 37 14 6 9 66.7 2 2 100.0 0 0 - 2 7 9 6 2 1 3 4 9
+p588
+aVCorey Brewer DEN 12/18/2012 DEN vs. SAS W 29 16 6 11 54.5 2 4 50.0 2 5 40.0 0 4 4 1 1 0 2 1 2
+p589
+aVKosta Koufos DEN 12/18/2012 DEN vs. SAS W 31 4 2 6 33.3 0 0 - 0 0 - 5 9 14 0 1 4 1 2 2
+p590
+aVDanilo Gallinari DEN 12/18/2012 DEN vs. SAS W 35 28 9 21 42.9 3 10 30.0 7 8 87.5 1 8 9 2 2 1 1 0 10
+p591
+aVAndre Miller DEN 12/18/2012 DEN vs. SAS W 23 8 2 6 33.3 0 0 - 4 4 100.0 0 5 5 7 1 1 1 2 3
+p592
+aVTimofey Mozgov DEN 12/18/2012 DEN vs. SAS W 6 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 0 4
+p593
+aVKenneth Faried DEN 12/18/2012 DEN vs. SAS W 29 19 6 11 54.5 0 0 - 7 9 77.8 2 9 11 2 1 0 3 4 3
+p594
+aVJaVale McGee DEN 12/18/2012 DEN vs. SAS W 11 10 3 6 50.0 0 0 - 4 10 40.0 2 1 3 0 0 3 2 1 -1
+p595
+aVTy Lawson DEN 12/18/2012 DEN vs. SAS W 38 12 4 15 26.7 0 3 0.0 4 4 100.0 0 1 1 5 2 0 2 3 -2
+p596
+aVKenneth Faried DEN 12/16/2012 DEN @ SAC W 25 6 3 8 37.5 0 0 - 0 0 - 3 5 8 0 0 1 0 2 27
+p597
+aVAnthony Randolph DEN 12/16/2012 DEN @ SAC W 7 6 3 4 75.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 3 -2
+p598
+aVAndre Miller DEN 12/16/2012 DEN @ SAC W 24 4 0 1 0.0 0 0 - 4 4 100.0 0 3 3 3 1 0 1 1 9
+p599
+aVDanilo Gallinari DEN 12/16/2012 DEN @ SAC W 26 18 6 9 66.7 1 3 33.3 5 5 100.0 1 2 3 4 0 0 1 0 19
+p600
+aVKosta Koufos DEN 12/16/2012 DEN @ SAC W 22 12 6 10 60.0 0 0 - 0 2 0.0 4 3 7 1 0 1 0 5 27
+p601
+aVQuincy Miller DEN 12/16/2012 DEN @ SAC W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -1
+p602
+aVTy Lawson DEN 12/16/2012 DEN @ SAC W 26 11 4 7 57.1 1 2 50.0 2 2 100.0 0 4 4 7 0 0 2 2 23
+p603
+aVAndre Iguodala DEN 12/16/2012 DEN @ SAC W 28 11 4 7 57.1 0 1 0.0 3 4 75.0 2 6 8 8 1 0 2 3 28
+p604
+aVTimofey Mozgov DEN 12/16/2012 DEN @ SAC W 9 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 -6
+p605
+aVEvan Fournier DEN 12/16/2012 DEN @ SAC W 12 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 1 0 1 3 -5
+p606
+aVCorey Brewer DEN 12/16/2012 DEN @ SAC W 19 6 2 9 22.2 2 5 40.0 0 0 - 0 5 5 2 2 0 1 0 3
+p607
+aVJaVale McGee DEN 12/16/2012 DEN @ SAC W 17 19 7 9 77.8 0 0 - 5 8 62.5 4 1 5 0 0 3 0 4 4
+p608
+aVJordan Hamilton DEN 12/16/2012 DEN @ SAC W 20 15 6 11 54.5 3 5 60.0 0 0 - 0 4 4 0 1 0 2 2 -1
+p609
+aVCorey Brewer DEN 12/14/2012 DEN vs. MEM W 24 9 3 6 50.0 0 1 0.0 3 3 100.0 0 4 4 2 0 0 1 3 -1
+p610
+aVKosta Koufos DEN 12/14/2012 DEN vs. MEM W 23 6 1 3 33.3 0 0 - 4 4 100.0 1 6 7 1 0 4 2 5 1
+p611
+aVTy Lawson DEN 12/14/2012 DEN vs. MEM W 37 13 5 10 50.0 1 2 50.0 2 2 100.0 0 0 0 5 1 0 4 1 5
+p612
+aVDanilo Gallinari DEN 12/14/2012 DEN vs. MEM W 36 14 5 12 41.7 2 4 50.0 2 2 100.0 1 1 2 1 0 0 1 2 1
+p613
+aVTimofey Mozgov DEN 12/14/2012 DEN vs. MEM W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -11
+p614
+aVKenneth Faried DEN 12/14/2012 DEN vs. MEM W 25 8 3 10 30.0 0 0 - 2 2 100.0 3 7 10 0 1 0 1 1 6
+p615
+aVAndre Iguodala DEN 12/14/2012 DEN vs. MEM W 38 20 8 11 72.7 1 2 50.0 3 5 60.0 1 3 4 7 5 2 4 2 10
+p616
+aVAndre Miller DEN 12/14/2012 DEN vs. MEM W 29 18 6 10 60.0 0 1 0.0 6 6 100.0 0 2 2 4 0 0 2 3 1
+p617
+aVJaVale McGee DEN 12/14/2012 DEN vs. MEM W 24 9 4 6 66.7 0 0 - 1 2 50.0 1 5 6 0 1 4 3 0 13
+p618
+aVTimofey Mozgov DEN 12/12/2012 DEN @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p619
+aVAndre Iguodala DEN 12/12/2012 DEN @ MIN L 35 2 1 9 11.1 0 2 0.0 0 0 - 1 4 5 7 1 1 5 2 3
+p620
+aVDanilo Gallinari DEN 12/12/2012 DEN @ MIN L 35 24 9 13 69.2 4 5 80.0 2 2 100.0 0 4 4 1 2 0 1 5 7
+p621
+aVJordan Hamilton DEN 12/12/2012 DEN @ MIN L 10 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 0 0 0 2 3 -11
+p622
+aVAndre Miller DEN 12/12/2012 DEN @ MIN L 21 3 1 6 16.7 0 1 0.0 1 1 100.0 0 1 1 3 1 0 0 1 -13
+p623
+aVJaVale McGee DEN 12/12/2012 DEN @ MIN L 16 9 4 6 66.7 0 0 - 1 5 20.0 1 2 3 0 1 2 3 5 -7
+p624
+aVCorey Brewer DEN 12/12/2012 DEN @ MIN L 26 14 6 11 54.5 2 4 50.0 0 0 - 0 1 1 1 0 1 1 2 3
+p625
+aVTy Lawson DEN 12/12/2012 DEN @ MIN L 37 17 6 15 40.0 1 3 33.3 4 6 66.7 1 3 4 12 0 0 4 2 4
+p626
+aVKosta Koufos DEN 12/12/2012 DEN @ MIN L 22 6 3 3 100.0 0 0 - 0 0 - 2 5 7 0 0 1 1 5 -5
+p627
+aVKenneth Faried DEN 12/12/2012 DEN @ MIN L 38 26 10 16 62.5 0 0 - 6 10 60.0 5 9 14 0 3 0 2 3 8
+p628
+aVTimofey Mozgov DEN 12/11/2012 DEN @ DET W 11 4 2 4 50.0 0 0 - 0 2 0.0 2 2 4 0 0 1 0 1 13
+p629
+aVKenneth Faried DEN 12/11/2012 DEN @ DET W 23 3 0 1 0.0 0 0 - 3 8 37.5 0 6 6 1 1 2 0 4 3
+p630
+aVAnthony Randolph DEN 12/11/2012 DEN @ DET W 10 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 2 1 0 -2
+p631
+aVCorey Brewer DEN 12/11/2012 DEN @ DET W 25 15 6 11 54.5 3 5 60.0 0 0 - 0 1 1 1 0 0 0 2 1
+p632
+aVJaVale McGee DEN 12/11/2012 DEN @ DET W 19 12 6 9 66.7 0 0 - 0 2 0.0 0 1 1 0 1 4 1 2 3
+p633
+aVKosta Koufos DEN 12/11/2012 DEN @ DET W 17 9 4 7 57.1 0 0 - 1 2 50.0 2 2 4 1 0 2 0 6 -10
+p634
+aVAndre Iguodala DEN 12/11/2012 DEN @ DET W 35 12 3 12 25.0 1 6 16.7 5 7 71.4 1 7 8 3 0 1 3 1 3
+p635
+aVTy Lawson DEN 12/11/2012 DEN @ DET W 40 26 9 17 52.9 1 2 50.0 7 8 87.5 1 4 5 7 4 0 0 1 10
+p636
+aVAndre Miller DEN 12/11/2012 DEN @ DET W 31 11 4 4 100.0 0 0 - 3 3 100.0 0 2 2 7 3 0 3 2 10
+p637
+aVDanilo Gallinari DEN 12/11/2012 DEN @ DET W 30 9 3 13 23.1 1 4 25.0 2 2 100.0 1 1 2 2 1 0 1 0 4
+p638
+aVCorey Brewer DEN 12/09/2012 DEN @ NYK L 22 15 7 13 53.8 0 4 0.0 1 2 50.0 1 2 3 0 1 0 2 1 -7
+p639
+aVKosta Koufos DEN 12/09/2012 DEN @ NYK L 29 8 4 5 80.0 0 0 - 0 0 - 1 5 6 0 0 3 1 3 6
+p640
+aVJaVale McGee DEN 12/09/2012 DEN @ NYK L 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 3 2 3 -12
+p641
+aVAndre Miller DEN 12/09/2012 DEN @ NYK L 29 10 3 6 50.0 0 0 - 4 4 100.0 0 1 1 4 0 0 3 2 -9
+p642
+aVAndre Iguodala DEN 12/09/2012 DEN @ NYK L 38 15 5 12 41.7 2 5 40.0 3 4 75.0 1 6 7 3 1 0 5 3 5
+p643
+aVTy Lawson DEN 12/09/2012 DEN @ NYK L 40 23 7 15 46.7 2 3 66.7 7 8 87.5 0 4 4 6 0 0 2 4 -9
+p644
+aVKenneth Faried DEN 12/09/2012 DEN @ NYK L 30 10 5 7 71.4 0 0 - 0 2 0.0 0 7 7 1 1 0 0 3 -10
+p645
+aVDanilo Gallinari DEN 12/09/2012 DEN @ NYK L 38 21 7 11 63.6 1 5 20.0 6 9 66.7 1 8 9 3 1 0 1 3 6
+p646
+aVJaVale McGee DEN 12/07/2012 DEN @ IND W 30 20 9 9 100.0 0 0 - 2 4 50.0 3 5 8 0 0 1 2 5 17
+p647
+aVTy Lawson DEN 12/07/2012 DEN @ IND W 35 2 1 10 10.0 0 3 0.0 0 0 - 0 1 1 4 2 1 0 2 -3
+p648
+aVCorey Brewer DEN 12/07/2012 DEN @ IND W 28 20 9 16 56.3 2 5 40.0 0 2 0.0 1 3 4 1 1 1 0 1 5
+p649
+aVAndre Iguodala DEN 12/07/2012 DEN @ IND W 37 10 4 12 33.3 0 4 0.0 2 2 100.0 0 0 0 2 2 0 2 1 1
+p650
+aVKosta Koufos DEN 12/07/2012 DEN @ IND W 21 12 5 8 62.5 0 0 - 2 2 100.0 4 1 5 0 0 0 0 4 -9
+p651
+aVAndre Miller DEN 12/07/2012 DEN @ IND W 25 15 6 11 54.5 0 0 - 3 4 75.0 1 3 4 8 2 0 2 1 13
+p652
+aVDanilo Gallinari DEN 12/07/2012 DEN @ IND W 35 9 2 10 20.0 1 3 33.3 4 5 80.0 1 6 7 8 2 1 1 1 3
+p653
+aVJordan Hamilton DEN 12/07/2012 DEN @ IND W 8 0 0 3 0.0 0 2 0.0 0 1 0.0 0 1 1 1 1 0 0 0 2
+p654
+aVKenneth Faried DEN 12/07/2012 DEN @ IND W 21 4 2 7 28.6 0 0 - 0 0 - 0 7 7 0 0 0 1 2 -14
+p655
+aVAnthony Randolph DEN 12/05/2012 DEN @ ATL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 2 3 -6
+p656
+aVTy Lawson DEN 12/05/2012 DEN @ ATL L 37 32 12 16 75.0 5 5 100.0 3 4 75.0 0 1 1 7 5 0 4 4 4
+p657
+aVJordan Hamilton DEN 12/05/2012 DEN @ ATL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p658
+aVKenneth Faried DEN 12/05/2012 DEN @ ATL L 26 5 2 8 25.0 0 0 - 1 2 50.0 3 5 8 0 2 1 2 4 7
+p659
+aVAndre Miller DEN 12/05/2012 DEN @ ATL L 18 8 2 5 40.0 0 0 - 4 4 100.0 0 1 1 7 0 0 3 3 -2
+p660
+aVDanilo Gallinari DEN 12/05/2012 DEN @ ATL L 34 16 3 10 30.0 0 2 0.0 10 10 100.0 1 4 5 4 0 0 1 0 1
+p661
+aVTimofey Mozgov DEN 12/05/2012 DEN @ ATL L 28 6 3 5 60.0 0 0 - 0 0 - 7 6 13 1 0 1 0 5 -4
+p662
+aVAndre Iguodala DEN 12/05/2012 DEN @ ATL L 38 5 2 10 20.0 1 4 25.0 0 1 0.0 0 4 4 4 1 0 7 1 -1
+p663
+aVJaVale McGee DEN 12/05/2012 DEN @ ATL L 24 11 5 8 62.5 0 0 - 1 1 100.0 0 3 3 0 0 2 1 2 0
+p664
+aVCorey Brewer DEN 12/05/2012 DEN @ ATL L 25 19 8 15 53.3 1 5 20.0 2 3 66.7 0 3 3 1 1 0 0 3 -15
+p665
+aVDanilo Gallinari DEN 12/03/2012 DEN vs. TOR W 33 13 4 10 40.0 2 4 50.0 3 4 75.0 2 6 8 3 1 0 3 2 -3
+p666
+aVJordan Hamilton DEN 12/03/2012 DEN vs. TOR W 15 8 4 8 50.0 0 1 0.0 0 0 - 3 2 5 2 0 0 0 2 9
+p667
+aVAndre Miller DEN 12/03/2012 DEN vs. TOR W 26 8 3 4 75.0 0 1 0.0 2 2 100.0 0 3 3 6 1 0 3 1 13
+p668
+aVJaVale McGee DEN 12/03/2012 DEN vs. TOR W 23 17 4 5 80.0 0 0 - 9 16 56.3 3 3 6 1 0 5 0 3 1
+p669
+aVKenneth Faried DEN 12/03/2012 DEN vs. TOR W 32 18 5 11 45.5 0 0 - 8 11 72.7 7 3 10 2 1 1 2 2 -13
+p670
+aVTy Lawson DEN 12/03/2012 DEN vs. TOR W 28 16 6 15 40.0 3 5 60.0 1 2 50.0 1 3 4 3 0 0 4 1 -13
+p671
+aVAndre Iguodala DEN 12/03/2012 DEN vs. TOR W 33 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 8 2 0 3 1 -1
+p672
+aVCorey Brewer DEN 12/03/2012 DEN vs. TOR W 21 19 9 15 60.0 1 2 50.0 0 0 - 2 3 5 0 4 0 1 2 6
+p673
+aVKosta Koufos DEN 12/03/2012 DEN vs. TOR W 28 10 4 12 33.3 0 0 - 2 6 33.3 5 5 10 0 2 1 1 6 16
+p674
+aVKenneth Faried DEN 11/30/2012 DEN @ LAL L 23 8 4 6 66.7 0 0 - 0 2 0.0 1 1 2 2 1 0 1 1 -20
+p675
+aVEvan Fournier DEN 11/30/2012 DEN @ LAL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p676
+aVAndre Iguodala DEN 11/30/2012 DEN @ LAL L 33 14 4 10 40.0 2 4 50.0 4 6 66.7 1 1 2 4 0 0 0 2 -12
+p677
+aVCorey Brewer DEN 11/30/2012 DEN @ LAL L 21 8 3 7 42.9 2 3 66.7 0 1 0.0 1 0 1 1 2 0 2 2 -14
+p678
+aVJaVale McGee DEN 11/30/2012 DEN @ LAL L 17 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 1 0 0 0 1 -10
+p679
+aVTy Lawson DEN 11/30/2012 DEN @ LAL L 36 9 3 11 27.3 0 4 0.0 3 5 60.0 1 2 3 5 0 0 5 2 -12
+p680
+aVDanilo Gallinari DEN 11/30/2012 DEN @ LAL L 31 19 6 13 46.2 4 7 57.1 3 3 100.0 0 3 3 3 1 0 1 2 -2
+p681
+aVAndre Miller DEN 11/30/2012 DEN @ LAL L 26 10 5 8 62.5 0 1 0.0 0 0 - 0 3 3 4 1 1 2 3 -6
+p682
+aVJordan Hamilton DEN 11/30/2012 DEN @ LAL L 20 13 6 14 42.9 0 3 0.0 1 1 100.0 3 5 8 1 1 0 2 2 -7
+p683
+aVKosta Koufos DEN 11/30/2012 DEN @ LAL L 9 6 3 6 50.0 0 1 0.0 0 0 - 0 4 4 0 1 0 1 3 7
+p684
+aVTimofey Mozgov DEN 11/30/2012 DEN @ LAL L 21 6 2 4 50.0 0 0 - 2 2 100.0 4 3 7 1 1 0 1 1 -16
+p685
+aVAndre Iguodala DEN 11/29/2012 DEN @ GSW L 40 22 8 17 47.1 2 5 40.0 4 5 80.0 1 3 4 4 3 0 3 0 2
+p686
+aVDanilo Gallinari DEN 11/29/2012 DEN @ GSW L 35 20 6 12 50.0 3 5 60.0 5 6 83.3 1 8 9 1 1 0 3 2 7
+p687
+aVAnthony Randolph DEN 11/29/2012 DEN @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -2
+p688
+aVJaVale McGee DEN 11/29/2012 DEN @ GSW L 18 11 4 8 50.0 0 0 - 3 4 75.0 3 4 7 1 0 0 1 2 -14
+p689
+aVJordan Hamilton DEN 11/29/2012 DEN @ GSW L 10 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 1 0 0 16
+p690
+aVKenneth Faried DEN 11/29/2012 DEN @ GSW L 32 10 3 6 50.0 0 0 - 4 4 100.0 3 4 7 1 0 5 1 5 3
+p691
+aVKosta Koufos DEN 11/29/2012 DEN @ GSW L 14 6 3 3 100.0 0 0 - 0 0 - 1 4 5 1 0 1 0 2 -1
+p692
+aVCorey Brewer DEN 11/29/2012 DEN @ GSW L 28 12 4 12 33.3 2 6 33.3 2 4 50.0 0 1 1 1 1 0 2 1 -13
+p693
+aVAndre Miller DEN 11/29/2012 DEN @ GSW L 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 0 0 2 2 -6
+p694
+aVTy Lawson DEN 11/29/2012 DEN @ GSW L 38 17 7 18 38.9 2 4 50.0 1 1 100.0 0 4 4 9 4 0 3 2 3
+p695
+aVKenneth Faried DEN 11/26/2012 DEN @ UTA L 36 21 8 12 66.7 0 0 - 5 6 83.3 4 5 9 2 1 1 1 4 5
+p696
+aVEvan Fournier DEN 11/26/2012 DEN @ UTA L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 2 3 0
+p697
+aVKosta Koufos DEN 11/26/2012 DEN @ UTA L 28 7 3 4 75.0 0 0 - 1 3 33.3 2 7 9 0 0 1 2 4 5
+p698
+aVCorey Brewer DEN 11/26/2012 DEN @ UTA L 30 12 4 5 80.0 2 2 100.0 2 2 100.0 1 1 2 1 1 1 0 2 5
+p699
+aVAndre Miller DEN 11/26/2012 DEN @ UTA L 22 8 2 7 28.6 0 1 0.0 4 6 66.7 1 0 1 1 0 0 4 1 2
+p700
+aVTy Lawson DEN 11/26/2012 DEN @ UTA L 38 16 7 17 41.2 0 4 0.0 2 4 50.0 3 2 5 9 2 0 1 0 -2
+p701
+aVAndre Iguodala DEN 11/26/2012 DEN @ UTA L 25 10 5 9 55.6 0 1 0.0 0 2 0.0 0 3 3 4 2 0 3 2 -3
+p702
+aVJaVale McGee DEN 11/26/2012 DEN @ UTA L 20 10 4 5 80.0 0 0 - 2 6 33.3 1 2 3 1 0 2 1 4 -7
+p703
+aVDanilo Gallinari DEN 11/26/2012 DEN @ UTA L 28 12 4 10 40.0 2 4 50.0 2 3 66.7 0 3 3 3 0 0 2 4 -10
+p704
+aVTimofey Mozgov DEN 11/26/2012 DEN @ UTA L 7 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -5
+p705
+aVAnthony Randolph DEN 11/25/2012 DEN vs. NOH W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -7
+p706
+aVAndre Iguodala DEN 11/25/2012 DEN vs. NOH W 31 23 8 13 61.5 3 4 75.0 4 7 57.1 1 1 2 3 0 0 3 0 29
+p707
+aVKenneth Faried DEN 11/25/2012 DEN vs. NOH W 27 14 7 8 87.5 0 0 - 0 0 - 2 10 12 0 2 2 0 2 23
+p708
+aVTimofey Mozgov DEN 11/25/2012 DEN vs. NOH W 16 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 0 2 2 6 -12
+p709
+aVDanilo Gallinari DEN 11/25/2012 DEN vs. NOH W 26 9 3 9 33.3 1 4 25.0 2 2 100.0 0 4 4 4 1 0 1 2 17
+p710
+aVAndre Miller DEN 11/25/2012 DEN vs. NOH W 21 4 0 1 0.0 0 0 - 4 4 100.0 0 1 1 7 1 0 3 4 1
+p711
+aVKosta Koufos DEN 11/25/2012 DEN vs. NOH W 21 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 2 1 5 0 2 34
+p712
+aVTy Lawson DEN 11/25/2012 DEN vs. NOH W 29 17 8 10 80.0 0 1 0.0 1 1 100.0 0 1 1 6 2 0 2 0 24
+p713
+aVCorey Brewer DEN 11/25/2012 DEN vs. NOH W 28 8 3 10 30.0 0 1 0.0 2 2 100.0 0 2 2 2 1 0 1 1 -2
+p714
+aVJaVale McGee DEN 11/25/2012 DEN vs. NOH W 11 8 3 8 37.5 0 0 - 2 3 66.7 2 4 6 1 0 1 1 0 -4
+p715
+aVEvan Fournier DEN 11/25/2012 DEN vs. NOH W 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p716
+aVJordan Hamilton DEN 11/25/2012 DEN vs. NOH W 12 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 1 1 1 1 1 -4
+p717
+aVAndre Miller DEN 11/23/2012 DEN vs. GSW W 22 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 4 0 0 2 2 2
+p718
+aVDanilo Gallinari DEN 11/23/2012 DEN vs. GSW W 35 20 8 20 40.0 0 5 0.0 4 6 66.7 2 5 7 2 1 1 1 3 6
+p719
+aVKenneth Faried DEN 11/23/2012 DEN vs. GSW W 36 9 4 8 50.0 0 0 - 1 5 20.0 3 8 11 1 2 1 1 3 14
+p720
+aVJordan Hamilton DEN 11/23/2012 DEN vs. GSW W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p721
+aVJaVale McGee DEN 11/23/2012 DEN vs. GSW W 25 6 2 7 28.6 0 0 - 2 4 50.0 2 4 6 0 0 3 1 1 2
+p722
+aVKosta Koufos DEN 11/23/2012 DEN vs. GSW W 19 2 1 3 33.3 0 0 - 0 0 - 1 4 5 1 0 0 0 3 7
+p723
+aVCorey Brewer DEN 11/23/2012 DEN vs. GSW W 22 9 4 10 40.0 0 3 0.0 1 2 50.0 1 0 1 2 4 0 2 2 8
+p724
+aVAndre Iguodala DEN 11/23/2012 DEN vs. GSW W 39 29 11 19 57.9 3 6 50.0 4 6 66.7 2 4 6 2 0 2 0 3 13
+p725
+aVTy Lawson DEN 11/23/2012 DEN vs. GSW W 37 18 7 13 53.8 1 4 25.0 3 5 60.0 0 2 2 9 2 0 4 0 6
+p726
+aVAndre Iguodala DEN 11/21/2012 DEN @ MIN W 36 18 7 16 43.8 3 5 60.0 1 1 100.0 2 7 9 2 2 1 2 1 1
+p727
+aVDanilo Gallinari DEN 11/21/2012 DEN @ MIN W 35 19 6 11 54.5 1 2 50.0 6 6 100.0 1 5 6 0 0 2 2 3 6
+p728
+aVJordan Hamilton DEN 11/21/2012 DEN @ MIN W 19 12 3 8 37.5 3 6 50.0 3 4 75.0 1 5 6 0 0 0 1 2 0
+p729
+aVKenneth Faried DEN 11/21/2012 DEN @ MIN W 35 4 2 4 50.0 0 0 - 0 0 - 3 11 14 0 0 0 4 6 14
+p730
+aVTy Lawson DEN 11/21/2012 DEN @ MIN W 33 18 5 12 41.7 2 5 40.0 6 8 75.0 1 1 2 9 1 0 4 3 0
+p731
+aVKosta Koufos DEN 11/21/2012 DEN @ MIN W 23 6 3 6 50.0 0 0 - 0 0 - 3 5 8 0 1 3 1 2 17
+p732
+aVJaVale McGee DEN 11/21/2012 DEN @ MIN W 15 6 2 7 28.6 0 0 - 2 2 100.0 1 0 1 0 1 1 2 4 -13
+p733
+aVCorey Brewer DEN 11/21/2012 DEN @ MIN W 17 7 3 6 50.0 0 1 0.0 1 1 100.0 1 0 1 0 0 1 1 1 3
+p734
+aVAndre Miller DEN 11/21/2012 DEN @ MIN W 27 11 4 9 44.4 0 2 0.0 3 4 75.0 1 1 2 5 0 0 3 2 7
+p735
+aVJaVale McGee DEN 11/19/2012 DEN @ MEM W 18 15 7 12 58.3 0 0 - 1 3 33.3 5 3 8 0 0 1 0 1 13
+p736
+aVCorey Brewer DEN 11/19/2012 DEN @ MEM W 19 10 3 7 42.9 1 2 50.0 3 6 50.0 0 2 2 0 2 0 0 2 -1
+p737
+aVAndre Iguodala DEN 11/19/2012 DEN @ MEM W 35 7 3 8 37.5 0 3 0.0 1 2 50.0 0 2 2 3 0 0 3 2 -1
+p738
+aVTy Lawson DEN 11/19/2012 DEN @ MEM W 34 9 4 14 28.6 1 2 50.0 0 0 - 4 1 5 4 3 0 5 1 4
+p739
+aVTimofey Mozgov DEN 11/19/2012 DEN @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p740
+aVKenneth Faried DEN 11/19/2012 DEN @ MEM W 29 13 5 10 50.0 0 0 - 3 4 75.0 7 6 13 0 0 0 2 4 -4
+p741
+aVAndre Miller DEN 11/19/2012 DEN @ MEM W 30 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 8 3 0 3 0 14
+p742
+aVJordan Hamilton DEN 11/19/2012 DEN @ MEM W 12 3 1 3 33.3 1 1 100.0 0 0 - 2 1 3 0 0 0 2 1 3
+p743
+aVDanilo Gallinari DEN 11/19/2012 DEN @ MEM W 35 26 7 15 46.7 2 6 33.3 10 11 90.9 1 4 5 3 1 1 0 1 -5
+p744
+aVKosta Koufos DEN 11/19/2012 DEN @ MEM W 26 8 4 6 66.7 0 0 - 0 0 - 2 7 9 2 0 1 2 3 2
+p745
+aVEvan Fournier DEN 11/17/2012 DEN @ SAS L 8 10 4 5 80.0 1 2 50.0 1 2 50.0 0 0 0 2 0 0 1 1 -3
+p746
+aVTy Lawson DEN 11/17/2012 DEN @ SAS L 35 13 5 13 38.5 0 1 0.0 3 5 60.0 1 1 2 5 2 0 5 1 -29
+p747
+aVAndre Iguodala DEN 11/17/2012 DEN @ SAS L 28 9 3 8 37.5 0 1 0.0 3 4 75.0 1 2 3 3 0 0 3 1 -13
+p748
+aVJaVale McGee DEN 11/17/2012 DEN @ SAS L 20 12 6 10 60.0 0 0 - 0 0 - 1 7 8 1 1 2 1 3 -1
+p749
+aVKenneth Faried DEN 11/17/2012 DEN @ SAS L 27 14 5 8 62.5 0 0 - 4 6 66.7 2 3 5 0 2 0 2 4 -15
+p750
+aVJordan Hamilton DEN 11/17/2012 DEN @ SAS L 15 4 1 5 20.0 1 2 50.0 1 2 50.0 1 0 1 2 0 0 1 0 -10
+p751
+aVTimofey Mozgov DEN 11/17/2012 DEN @ SAS L 13 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -22
+p752
+aVDanilo Gallinari DEN 11/17/2012 DEN @ SAS L 29 15 7 13 53.8 0 2 0.0 1 1 100.0 2 5 7 1 1 0 4 0 -2
+p753
+aVCorey Brewer DEN 11/17/2012 DEN @ SAS L 28 13 4 9 44.4 2 3 66.7 3 4 75.0 1 6 7 2 1 0 2 3 0
+p754
+aVKosta Koufos DEN 11/17/2012 DEN @ SAS L 19 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -21
+p755
+aVAndre Miller DEN 11/17/2012 DEN @ SAS L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 1 0 0 1 -14
+p756
+aVKosta Koufos DEN 11/15/2012 DEN vs. MIA L 14 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 1 0 2 -10
+p757
+aVCorey Brewer DEN 11/15/2012 DEN vs. MIA L 19 2 1 8 12.5 0 3 0.0 0 0 - 0 2 2 0 0 0 0 2 6
+p758
+aVAndre Iguodala DEN 11/15/2012 DEN vs. MIA L 36 10 4 10 40.0 0 1 0.0 2 2 100.0 1 5 6 3 0 1 3 3 -11
+p759
+aVJordan Hamilton DEN 11/15/2012 DEN vs. MIA L 21 11 4 11 36.4 3 7 42.9 0 0 - 0 3 3 0 1 0 1 1 -2
+p760
+aVJaVale McGee DEN 11/15/2012 DEN vs. MIA L 21 18 9 12 75.0 0 0 - 0 0 - 3 3 6 0 0 4 1 2 14
+p761
+aVAndre Miller DEN 11/15/2012 DEN vs. MIA L 26 19 7 9 77.8 2 2 100.0 3 3 100.0 3 2 5 7 1 0 2 3 6
+p762
+aVTy Lawson DEN 11/15/2012 DEN vs. MIA L 36 0 0 7 0.0 0 3 0.0 0 0 - 1 0 1 8 2 0 2 2 -11
+p763
+aVKenneth Faried DEN 11/15/2012 DEN vs. MIA L 36 16 5 16 31.3 0 0 - 6 10 60.0 11 9 20 0 2 1 3 1 -8
+p764
+aVDanilo Gallinari DEN 11/15/2012 DEN vs. MIA L 31 13 5 12 41.7 1 4 25.0 2 4 50.0 0 2 2 1 0 0 1 4 -9
+p765
+aVKenneth Faried DEN 11/12/2012 DEN @ PHX L 30 14 6 7 85.7 0 0 - 2 4 50.0 4 7 11 0 0 1 4 3 -10
+p766
+aVTimofey Mozgov DEN 11/12/2012 DEN @ PHX L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p767
+aVKosta Koufos DEN 11/12/2012 DEN @ PHX L 17 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 2 0 3 4
+p768
+aVTy Lawson DEN 11/12/2012 DEN @ PHX L 35 12 5 8 62.5 0 1 0.0 2 2 100.0 0 1 1 8 1 0 4 2 -4
+p769
+aVDanilo Gallinari DEN 11/12/2012 DEN @ PHX L 35 15 6 16 37.5 2 6 33.3 1 2 50.0 1 8 9 3 0 1 1 3 3
+p770
+aVAndre Miller DEN 11/12/2012 DEN @ PHX L 26 8 2 7 28.6 1 2 50.0 3 4 75.0 1 1 2 6 0 0 3 2 -17
+p771
+aVAndre Iguodala DEN 11/12/2012 DEN @ PHX L 34 17 6 8 75.0 3 3 100.0 2 4 50.0 0 9 9 5 1 3 1 1 -7
+p772
+aVJaVale McGee DEN 11/12/2012 DEN @ PHX L 24 16 8 12 66.7 0 0 - 0 0 - 1 2 3 1 0 2 1 2 -5
+p773
+aVCorey Brewer DEN 11/12/2012 DEN @ PHX L 22 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 0 2 -8
+p774
+aVWilson Chandler DEN 11/12/2012 DEN @ PHX L 14 7 3 6 50.0 0 1 0.0 1 2 50.0 0 4 4 0 0 1 1 2 -5
+p775
+aVTy Lawson DEN 11/10/2012 DEN @ GSW W 48 9 3 13 23.1 0 3 0.0 3 6 50.0 0 1 1 10 2 0 6 2 2
+p776
+aVKosta Koufos DEN 11/10/2012 DEN @ GSW W 25 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 0 0 5 0 4 3
+p777
+aVDanilo Gallinari DEN 11/10/2012 DEN @ GSW W 48 21 8 22 36.4 3 11 27.3 2 2 100.0 0 7 7 2 2 0 2 2 -7
+p778
+aVKenneth Faried DEN 11/10/2012 DEN @ GSW W 48 18 8 13 61.5 0 0 - 2 6 33.3 9 8 17 0 2 2 1 5 19
+p779
+aVJaVale McGee DEN 11/10/2012 DEN @ GSW W 21 9 4 9 44.4 0 0 - 1 2 50.0 7 5 12 0 0 2 1 3 -8
+p780
+aVAndre Miller DEN 11/10/2012 DEN @ GSW W 31 13 5 14 35.7 0 0 - 3 4 75.0 3 2 5 9 1 0 1 3 16
+p781
+aVCorey Brewer DEN 11/10/2012 DEN @ GSW W 21 11 5 12 41.7 0 3 0.0 1 2 50.0 0 4 4 1 1 0 2 1 -2
+p782
+aVAndre Iguodala DEN 11/10/2012 DEN @ GSW W 48 19 7 24 29.2 2 7 28.6 3 3 100.0 1 11 12 8 1 0 2 1 7
+p783
+aVAnthony Randolph DEN 11/09/2012 DEN vs. UTA W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 6
+p784
+aVAndre Iguodala DEN 11/09/2012 DEN vs. UTA W 31 15 7 12 58.3 1 4 25.0 0 0 - 0 7 7 1 1 1 2 1 7
+p785
+aVTy Lawson DEN 11/09/2012 DEN vs. UTA W 29 9 4 12 33.3 0 0 - 1 4 25.0 0 2 2 7 3 0 2 0 22
+p786
+aVAndre Miller DEN 11/09/2012 DEN vs. UTA W 25 6 2 6 33.3 0 1 0.0 2 2 100.0 0 3 3 7 0 2 1 1 10
+p787
+aVKosta Koufos DEN 11/09/2012 DEN vs. UTA W 25 15 6 8 75.0 0 0 - 3 4 75.0 4 6 10 1 2 3 0 5 9
+p788
+aVJaVale McGee DEN 11/09/2012 DEN vs. UTA W 18 4 2 8 25.0 0 0 - 0 0 - 1 4 5 1 1 1 2 0 5
+p789
+aVKenneth Faried DEN 11/09/2012 DEN vs. UTA W 28 18 5 11 45.5 0 0 - 8 10 80.0 4 6 10 2 1 2 0 1 19
+p790
+aVCorey Brewer DEN 11/09/2012 DEN vs. UTA W 20 20 7 14 50.0 5 8 62.5 1 1 100.0 1 2 3 0 2 0 0 0 4
+p791
+aVJordan Hamilton DEN 11/09/2012 DEN vs. UTA W 3 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p792
+aVTimofey Mozgov DEN 11/09/2012 DEN vs. UTA W 20 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 1 2 0 5 -2
+p793
+aVDanilo Gallinari DEN 11/09/2012 DEN vs. UTA W 25 5 2 11 18.2 0 2 0.0 1 2 50.0 0 6 6 4 0 1 0 3 13
+p794
+aVEvan Fournier DEN 11/09/2012 DEN vs. UTA W 12 2 1 3 33.3 0 2 0.0 0 0 - 1 0 1 2 0 0 3 0 4
+p795
+aVKenneth Faried DEN 11/07/2012 DEN @ HOU W 35 16 7 14 50.0 0 0 - 2 7 28.6 9 7 16 0 1 1 1 4 -7
+p796
+aVCorey Brewer DEN 11/07/2012 DEN @ HOU W 22 14 4 9 44.4 2 5 40.0 4 4 100.0 0 1 1 1 2 2 0 0 11
+p797
+aVTy Lawson DEN 11/07/2012 DEN @ HOU W 38 21 9 20 45.0 3 4 75.0 0 4 0.0 0 0 0 8 2 0 4 1 7
+p798
+aVJaVale McGee DEN 11/07/2012 DEN @ HOU W 20 12 5 7 71.4 0 0 - 2 2 100.0 3 3 6 0 0 0 3 1 -8
+p799
+aVDanilo Gallinari DEN 11/07/2012 DEN @ HOU W 41 13 6 15 40.0 1 5 20.0 0 0 - 2 8 10 3 0 1 1 1 8
+p800
+aVAndre Iguodala DEN 11/07/2012 DEN @ HOU W 38 13 5 11 45.5 1 4 25.0 2 2 100.0 0 5 5 3 3 1 5 2 3
+p801
+aVAndre Miller DEN 11/07/2012 DEN @ HOU W 24 0 0 2 0.0 0 0 - 0 0 - 0 7 7 5 0 0 5 3 -1
+p802
+aVKosta Koufos DEN 11/07/2012 DEN @ HOU W 21 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 1 0 2 4 17
+p803
+aVWilson Chandler DEN 11/06/2012 DEN vs. DET W 16 5 2 8 25.0 1 3 33.3 0 0 - 4 3 7 0 0 0 1 2 7
+p804
+aVDanilo Gallinari DEN 11/06/2012 DEN vs. DET W 32 8 3 11 27.3 2 8 25.0 0 0 - 2 2 4 2 0 2 4 4 3
+p805
+aVCorey Brewer DEN 11/06/2012 DEN vs. DET W 20 11 4 11 36.4 3 7 42.9 0 0 - 2 6 8 0 1 1 1 2 5
+p806
+aVTy Lawson DEN 11/06/2012 DEN vs. DET W 39 15 3 8 37.5 1 4 25.0 8 10 80.0 0 4 4 9 4 0 1 3 21
+p807
+aVAndre Iguodala DEN 11/06/2012 DEN vs. DET W 36 17 6 15 40.0 3 6 50.0 2 2 100.0 3 7 10 4 1 1 4 1 6
+p808
+aVAndre Miller DEN 11/06/2012 DEN vs. DET W 26 8 2 5 40.0 0 2 0.0 4 5 80.0 2 1 3 6 3 0 2 1 1
+p809
+aVKosta Koufos DEN 11/06/2012 DEN vs. DET W 30 14 7 13 53.8 0 0 - 0 0 - 2 3 5 0 0 3 1 5 0
+p810
+aVKenneth Faried DEN 11/06/2012 DEN vs. DET W 23 15 7 10 70.0 0 0 - 1 3 33.3 3 5 8 1 0 1 0 3 8
+p811
+aVJaVale McGee DEN 11/06/2012 DEN vs. DET W 18 16 7 11 63.6 0 0 - 2 2 100.0 3 0 3 1 0 3 1 0 9
+p812
+aVKenneth Faried DEN 11/03/2012 DEN @ MIA L 36 22 11 15 73.3 0 0 - 0 1 0.0 7 5 12 1 1 0 1 5 -10
+p813
+aVTy Lawson DEN 11/03/2012 DEN @ MIA L 41 14 7 15 46.7 0 0 - 0 0 - 2 2 4 6 2 1 4 2 -2
+p814
+aVAndre Miller DEN 11/03/2012 DEN @ MIA L 28 17 8 10 80.0 0 0 - 1 1 100.0 1 1 2 1 0 0 3 1 5
+p815
+aVDanilo Gallinari DEN 11/03/2012 DEN @ MIA L 37 13 3 17 17.6 1 9 11.1 6 9 66.7 1 5 6 2 0 0 0 1 -19
+p816
+aVJaVale McGee DEN 11/03/2012 DEN @ MIA L 23 16 6 9 66.7 0 0 - 4 5 80.0 4 5 9 0 0 1 0 4 10
+p817
+aVAndre Iguodala DEN 11/03/2012 DEN @ MIA L 40 22 9 15 60.0 2 5 40.0 2 4 50.0 1 4 5 3 1 1 5 2 -4
+p818
+aVCorey Brewer DEN 11/03/2012 DEN @ MIA L 23 10 4 10 40.0 2 7 28.6 0 0 - 1 4 5 0 1 0 0 4 12
+p819
+aVKosta Koufos DEN 11/03/2012 DEN @ MIA L 14 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -7
+p820
+aVKosta Koufos DEN 11/02/2012 DEN @ ORL L 27 7 3 6 50.0 0 0 - 1 3 33.3 3 3 6 1 1 1 1 4 8
+p821
+aVEvan Fournier DEN 11/02/2012 DEN @ ORL L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p822
+aVDanilo Gallinari DEN 11/02/2012 DEN @ ORL L 35 23 5 14 35.7 2 9 22.2 11 14 78.6 2 6 8 4 1 1 1 2 -3
+p823
+aVCorey Brewer DEN 11/02/2012 DEN @ ORL L 24 8 3 9 33.3 2 6 33.3 0 0 - 0 4 4 0 1 0 1 2 -11
+p824
+aVKenneth Faried DEN 11/02/2012 DEN @ ORL L 20 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 1 0 0 -14
+p825
+aVWilson Chandler DEN 11/02/2012 DEN @ ORL L 19 9 3 10 30.0 1 3 33.3 2 4 50.0 2 4 6 0 0 0 2 2 -4
+p826
+aVJordan Hamilton DEN 11/02/2012 DEN @ ORL L 3 4 1 2 50.0 0 0 - 2 4 50.0 1 0 1 0 1 0 0 0 4
+p827
+aVTy Lawson DEN 11/02/2012 DEN @ ORL L 38 12 6 15 40.0 0 3 0.0 0 0 - 1 1 2 7 0 0 3 2 -13
+p828
+aVAndre Miller DEN 11/02/2012 DEN @ ORL L 21 11 5 8 62.5 1 1 100.0 0 0 - 2 1 3 4 0 0 1 1 -10
+p829
+aVAndre Iguodala DEN 11/02/2012 DEN @ ORL L 36 9 3 10 30.0 1 2 50.0 2 2 100.0 1 7 8 5 1 1 3 2 -10
+p830
+aVJaVale McGee DEN 11/02/2012 DEN @ ORL L 11 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 1 2 2 -9
+p831
+aVKenneth Faried DEN 10/31/2012 DEN @ PHI L 17 6 3 9 33.3 0 0 - 0 0 - 5 2 7 0 1 0 2 2 -7
+p832
+aVAndre Miller DEN 10/31/2012 DEN @ PHI L 32 10 5 15 33.3 0 1 0.0 0 0 - 1 6 7 5 2 0 3 2 0
+p833
+aVJordan Hamilton DEN 10/31/2012 DEN @ PHI L 13 4 2 5 40.0 0 2 0.0 0 0 - 0 6 6 2 0 0 0 2 -5
+p834
+aVAndre Iguodala DEN 10/31/2012 DEN @ PHI L 35 11 5 13 38.5 0 4 0.0 1 3 33.3 1 3 4 4 2 1 4 0 -19
+p835
+aVEvan Fournier DEN 10/31/2012 DEN @ PHI L 10 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 5
+p836
+aVTy Lawson DEN 10/31/2012 DEN @ PHI L 37 16 7 17 41.2 1 2 50.0 1 2 50.0 1 4 5 7 2 0 0 4 -3
+p837
+aVKosta Koufos DEN 10/31/2012 DEN @ PHI L 30 6 2 3 66.7 0 0 - 2 4 50.0 4 5 9 0 1 1 1 3 0
+p838
+aVWilson Chandler DEN 10/31/2012 DEN @ PHI L 21 5 2 8 25.0 0 1 0.0 1 2 50.0 0 3 3 0 0 0 1 4 -7
+p839
+aVCorey Brewer DEN 10/31/2012 DEN @ PHI L 27 8 3 9 33.3 2 6 33.3 0 0 - 0 6 6 0 1 0 5 4 0
+p840
+aVJaVale McGee DEN 10/31/2012 DEN @ PHI L 18 4 2 5 40.0 0 0 - 0 0 - 4 3 7 0 0 3 3 0 -9
+p841
+a.

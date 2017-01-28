@@ -1,0 +1,1636 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVEric Snow PHI 04/17/2002 PHI @ IND L 29 16 8 11 72.7 0 0 - 0 0 - 2 1 3 6 4 0 4 4 -12
+p2
+aVSamuel Dalembert PHI 04/17/2002 PHI @ IND L 21 4 1 5 20.0 0 0 - 2 4 50.0 2 2 4 1 2 2 2 5 -10
+p3
+aVDamone Brown PHI 04/17/2002 PHI @ IND L 16 8 2 5 40.0 0 0 - 4 5 80.0 0 1 1 2 1 1 2 1 -13
+p4
+aVAlvin Jones PHI 04/17/2002 PHI @ IND L 15 2 1 3 33.3 0 0 - 0 2 0.0 2 2 4 0 0 2 1 5 -19
+p5
+aVAaron McKie PHI 04/17/2002 PHI @ IND L 29 8 4 8 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 3 1 -15
+p6
+aVRaja Bell PHI 04/17/2002 PHI @ IND L 17 8 4 6 66.7 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -9
+p7
+aVMatt Harpring PHI 04/17/2002 PHI @ IND L 31 15 6 11 54.5 0 0 - 3 4 75.0 3 6 9 1 0 1 1 0 -8
+p8
+aVJabari Smith PHI 04/17/2002 PHI @ IND L 26 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 1 0 2 0 6 -1
+p9
+aVVonteego Cummings PHI 04/17/2002 PHI @ IND L 7 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p10
+aVDerrick McKey PHI 04/17/2002 PHI @ IND L 27 6 3 9 33.3 0 0 - 0 0 - 1 2 3 0 1 0 1 2 -16
+p11
+aVSpeedy Claxton PHI 04/17/2002 PHI @ IND L 22 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 4 2 0 0 3 -6
+p12
+aVCorie Blount PHI 04/15/2002 PHI vs. CHI L 23 0 0 7 0.0 0 0 - 0 0 - 3 1 4 1 0 1 1 4 -19
+p13
+aVDerrick McKey PHI 04/15/2002 PHI vs. CHI L 29 4 2 3 66.7 0 0 - 0 0 - 1 4 5 2 2 0 2 3 -3
+p14
+aVEric Snow PHI 04/15/2002 PHI vs. CHI L 41 21 8 17 47.1 0 2 0.0 5 7 71.4 2 2 4 8 1 0 5 3 -10
+p15
+aVRaja Bell PHI 04/15/2002 PHI vs. CHI L 15 9 3 8 37.5 0 0 - 3 4 75.0 1 0 1 1 1 0 0 1 -4
+p16
+aVVonteego Cummings PHI 04/15/2002 PHI vs. CHI L 13 9 4 7 57.1 1 1 100.0 0 0 - 0 2 2 1 1 0 0 1 13
+p17
+aVJabari Smith PHI 04/15/2002 PHI vs. CHI L 16 14 6 11 54.5 0 0 - 2 2 100.0 2 0 2 3 2 0 1 3 13
+p18
+aVMatt Harpring PHI 04/15/2002 PHI vs. CHI L 34 13 3 10 30.0 0 1 0.0 7 7 100.0 4 4 8 1 1 0 2 5 -4
+p19
+aVSamuel Dalembert PHI 04/15/2002 PHI vs. CHI L 9 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -4
+p20
+aVSpeedy Claxton PHI 04/15/2002 PHI vs. CHI L 41 12 3 11 27.3 0 0 - 6 7 85.7 2 3 5 6 5 0 1 0 1
+p21
+aVAlvin Jones PHI 04/15/2002 PHI vs. CHI L 21 8 3 4 75.0 0 0 - 2 2 100.0 3 2 5 1 0 0 3 5 7
+p22
+aVDerrick McKey PHI 04/14/2002 PHI @ ORL W 25 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 2 0 0 2 7
+p23
+aVDikembe Mutombo PHI 04/14/2002 PHI @ ORL W 33 18 7 14 50.0 0 0 - 4 4 100.0 3 9 12 1 0 2 2 1 9
+p24
+aVCorie Blount PHI 04/14/2002 PHI @ ORL W 23 4 2 3 66.7 0 0 - 0 0 - 3 0 3 1 1 0 1 2 1
+p25
+aVMatt Harpring PHI 04/14/2002 PHI @ ORL W 35 13 6 15 40.0 0 1 0.0 1 1 100.0 3 8 11 0 0 0 4 2 -7
+p26
+aVSpeedy Claxton PHI 04/14/2002 PHI @ ORL W 43 19 8 14 57.1 0 0 - 3 3 100.0 2 2 4 8 2 0 0 2 15
+p27
+aVRaja Bell PHI 04/14/2002 PHI @ ORL W 29 9 4 9 44.4 1 3 33.3 0 0 - 0 9 9 1 1 0 3 4 10
+p28
+aVVonteego Cummings PHI 04/14/2002 PHI @ ORL W 10 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 1 -8
+p29
+aVEric Snow PHI 04/14/2002 PHI @ ORL W 42 22 6 11 54.5 1 1 100.0 9 9 100.0 1 4 5 9 2 0 3 1 3
+p30
+aVDikembe Mutombo PHI 04/12/2002 PHI vs. WAS W 35 24 10 14 71.4 0 0 - 4 7 57.1 6 10 16 0 0 3 2 4 14
+p31
+aVMatt Harpring PHI 04/12/2002 PHI vs. WAS W 28 14 6 10 60.0 2 2 100.0 0 0 - 2 5 7 1 1 0 2 1 4
+p32
+aVVonteego Cummings PHI 04/12/2002 PHI vs. WAS W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p33
+aVCorie Blount PHI 04/12/2002 PHI vs. WAS W 17 4 2 6 33.3 0 0 - 0 0 - 4 3 7 0 0 0 1 4 -4
+p34
+aVEric Snow PHI 04/12/2002 PHI vs. WAS W 41 6 1 6 16.7 0 0 - 4 4 100.0 1 1 2 9 2 0 5 4 10
+p35
+aVDerrick McKey PHI 04/12/2002 PHI vs. WAS W 23 5 2 7 28.6 0 1 0.0 1 2 50.0 3 2 5 3 1 0 1 3 7
+p36
+aVRaja Bell PHI 04/12/2002 PHI vs. WAS W 18 6 3 6 50.0 0 2 0.0 0 0 - 2 0 2 3 0 0 0 3 -7
+p37
+aVAlvin Jones PHI 04/12/2002 PHI vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p38
+aVDerrick Coleman PHI 04/12/2002 PHI vs. WAS W 36 20 8 13 61.5 2 3 66.7 2 2 100.0 0 4 4 3 0 2 2 0 9
+p39
+aVSpeedy Claxton PHI 04/12/2002 PHI vs. WAS W 39 19 7 17 41.2 0 2 0.0 5 5 100.0 0 4 4 9 3 0 3 2 13
+p40
+aVVonteego Cummings PHI 04/10/2002 PHI @ WAS L 16 5 2 6 33.3 1 1 100.0 0 0 - 1 0 1 3 1 0 2 2 -8
+p41
+aVAaron McKie PHI 04/10/2002 PHI @ WAS L 35 24 9 22 40.9 2 5 40.0 4 4 100.0 2 1 3 3 0 1 2 2 -12
+p42
+aVAlvin Jones PHI 04/10/2002 PHI @ WAS L 8 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 1 2 1 -8
+p43
+aVMatt Harpring PHI 04/10/2002 PHI @ WAS L 39 6 2 11 18.2 0 0 - 2 4 50.0 0 7 7 3 2 0 0 2 -16
+p44
+aVCorie Blount PHI 04/10/2002 PHI @ WAS L 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 6 -4
+p45
+aVEric Snow PHI 04/10/2002 PHI @ WAS L 41 26 10 19 52.6 1 2 50.0 5 7 71.4 1 4 5 5 2 0 1 2 -7
+p46
+aVDerrick McKey PHI 04/10/2002 PHI @ WAS L 25 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 1 0 0 4 12
+p47
+aVDikembe Mutombo PHI 04/10/2002 PHI @ WAS L 34 9 2 6 33.3 0 0 - 5 6 83.3 3 3 6 1 1 5 4 3 -6
+p48
+aVRaja Bell PHI 04/10/2002 PHI @ WAS L 26 3 1 5 20.0 0 0 - 1 2 50.0 0 3 3 2 0 1 0 3 -16
+p49
+aVDikembe Mutombo PHI 04/09/2002 PHI @ MIL W 34 22 6 10 60.0 0 0 - 10 14 71.4 3 5 8 2 0 0 2 3 6
+p50
+aVMatt Harpring PHI 04/09/2002 PHI @ MIL W 32 16 6 13 46.2 0 0 - 4 10 40.0 5 5 10 1 2 0 0 2 8
+p51
+aVDerrick McKey PHI 04/09/2002 PHI @ MIL W 20 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -2
+p52
+aVDerrick Coleman PHI 04/09/2002 PHI @ MIL W 36 12 4 13 30.8 1 1 100.0 3 3 100.0 1 5 6 1 1 2 2 1 5
+p53
+aVRaja Bell PHI 04/09/2002 PHI @ MIL W 17 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 1
+p54
+aVVonteego Cummings PHI 04/09/2002 PHI @ MIL W 10 2 1 4 25.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 0
+p55
+aVAaron McKie PHI 04/09/2002 PHI @ MIL W 30 16 6 11 54.5 1 1 100.0 3 4 75.0 0 1 1 4 0 0 1 4 5
+p56
+aVCorie Blount PHI 04/09/2002 PHI @ MIL W 19 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -9
+p57
+aVAlvin Jones PHI 04/09/2002 PHI @ MIL W 3 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 0 2 -2
+p58
+aVEric Snow PHI 04/09/2002 PHI @ MIL W 39 14 5 9 55.6 0 0 - 4 6 66.7 1 2 3 9 1 1 2 3 -2
+p59
+aVVonteego Cummings PHI 04/07/2002 PHI vs. MIL W 13 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 -5
+p60
+aVDikembe Mutombo PHI 04/07/2002 PHI vs. MIL W 31 10 3 9 33.3 0 0 - 4 4 100.0 1 2 3 1 0 1 2 2 4
+p61
+aVDerrick Coleman PHI 04/07/2002 PHI vs. MIL W 39 9 3 12 25.0 0 2 0.0 3 3 100.0 2 8 10 2 2 1 2 3 3
+p62
+aVCorie Blount PHI 04/07/2002 PHI vs. MIL W 13 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 1 0 0 4 -3
+p63
+aVDerrick McKey PHI 04/07/2002 PHI vs. MIL W 27 10 5 6 83.3 0 0 - 0 0 - 0 1 1 1 1 1 0 1 1
+p64
+aVEric Snow PHI 04/07/2002 PHI vs. MIL W 37 15 6 7 85.7 0 0 - 3 5 60.0 1 3 4 14 2 0 2 1 9
+p65
+aVAlvin Jones PHI 04/07/2002 PHI vs. MIL W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 0
+p66
+aVMatt Harpring PHI 04/07/2002 PHI vs. MIL W 25 8 4 7 57.1 0 1 0.0 0 0 - 0 5 5 2 1 0 0 3 -5
+p67
+aVRaja Bell PHI 04/07/2002 PHI vs. MIL W 19 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 2 -1
+p68
+aVAaron McKie PHI 04/07/2002 PHI vs. MIL W 28 15 6 14 42.9 0 3 0.0 3 5 60.0 0 3 3 3 0 0 2 2 7
+p69
+aVDerrick Coleman PHI 04/05/2002 PHI vs. DET L 38 15 6 14 42.9 0 1 0.0 3 4 75.0 1 4 5 1 1 0 3 3 -3
+p70
+aVDikembe Mutombo PHI 04/05/2002 PHI vs. DET L 41 10 3 9 33.3 0 0 - 4 4 100.0 7 7 14 2 0 1 2 2 -6
+p71
+aVSamuel Dalembert PHI 04/05/2002 PHI vs. DET L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p72
+aVCorie Blount PHI 04/05/2002 PHI vs. DET L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 0
+p73
+aVRaja Bell PHI 04/05/2002 PHI vs. DET L 23 9 4 5 80.0 1 1 100.0 0 0 - 1 2 3 1 0 0 1 4 3
+p74
+aVMatt Harpring PHI 04/05/2002 PHI vs. DET L 35 16 7 11 63.6 0 0 - 2 2 100.0 5 5 10 3 1 0 0 5 -1
+p75
+aVVonteego Cummings PHI 04/05/2002 PHI vs. DET L 10 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 -1
+p76
+aVAlvin Jones PHI 04/05/2002 PHI vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 5 3
+p77
+aVEric Snow PHI 04/05/2002 PHI vs. DET L 39 16 7 15 46.7 0 0 - 2 3 66.7 0 3 3 6 2 0 1 1 -3
+p78
+aVAaron McKie PHI 04/05/2002 PHI vs. DET L 28 15 6 17 35.3 0 0 - 3 4 75.0 0 2 2 4 1 0 1 0 -14
+p79
+aVDerrick McKey PHI 04/05/2002 PHI vs. DET L 20 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 1 0 0 4 1
+p80
+aVRaja Bell PHI 04/03/2002 PHI vs. PHX W 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 6
+p81
+aVMatt Harpring PHI 04/03/2002 PHI vs. PHX W 46 11 5 10 50.0 0 2 0.0 1 2 50.0 3 10 13 2 1 0 1 2 12
+p82
+aVVonteego Cummings PHI 04/03/2002 PHI vs. PHX W 18 8 3 6 50.0 1 4 25.0 1 2 50.0 0 1 1 3 1 0 0 1 -4
+p83
+aVDerrick McKey PHI 04/03/2002 PHI vs. PHX W 18 2 0 3 0.0 0 0 - 2 2 100.0 3 0 3 1 1 0 0 3 -6
+p84
+aVSpeedy Claxton PHI 04/03/2002 PHI vs. PHX W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -2
+p85
+aVDikembe Mutombo PHI 04/03/2002 PHI vs. PHX W 41 16 5 10 50.0 0 0 - 6 8 75.0 2 6 8 2 0 3 2 0 6
+p86
+aVDerrick Coleman PHI 04/03/2002 PHI vs. PHX W 36 13 3 13 23.1 1 2 50.0 6 6 100.0 1 5 6 5 1 1 3 2 13
+p87
+aVAaron McKie PHI 04/03/2002 PHI vs. PHX W 32 22 9 19 47.4 0 2 0.0 4 5 80.0 0 2 2 2 1 0 1 2 0
+p88
+aVCorie Blount PHI 04/03/2002 PHI vs. PHX W 17 3 0 2 0.0 0 0 - 3 4 75.0 1 3 4 0 1 0 3 0 -7
+p89
+aVEric Snow PHI 04/03/2002 PHI vs. PHX W 39 12 4 10 40.0 0 1 0.0 4 4 100.0 0 4 4 5 3 0 2 4 12
+p90
+aVDikembe Mutombo PHI 03/31/2002 PHI vs. TOR L 41 13 5 8 62.5 0 0 - 3 5 60.0 5 6 11 1 0 2 5 4 -3
+p91
+aVDerrick McKey PHI 03/31/2002 PHI vs. TOR L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p92
+aVCorie Blount PHI 03/31/2002 PHI vs. TOR L 18 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 2 0 0 1 -7
+p93
+aVAaron McKie PHI 03/31/2002 PHI vs. TOR L 35 12 5 14 35.7 0 3 0.0 2 4 50.0 0 2 2 2 2 1 3 1 -2
+p94
+aVVonteego Cummings PHI 03/31/2002 PHI vs. TOR L 22 4 2 6 33.3 0 0 - 0 0 - 1 1 2 3 1 0 0 4 2
+p95
+aVEric Snow PHI 03/31/2002 PHI vs. TOR L 39 13 5 17 29.4 0 0 - 3 6 50.0 0 5 5 7 0 0 1 3 3
+p96
+aVRaja Bell PHI 03/31/2002 PHI vs. TOR L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 -11
+p97
+aVDerrick Coleman PHI 03/31/2002 PHI vs. TOR L 36 16 7 13 53.8 1 1 100.0 1 2 50.0 2 8 10 1 1 1 5 3 7
+p98
+aVMatt Harpring PHI 03/31/2002 PHI vs. TOR L 27 8 2 4 50.0 0 0 - 4 5 80.0 1 4 5 0 2 0 3 1 2
+p99
+aVAaron McKie PHI 03/30/2002 PHI @ NJN L 28 13 6 12 50.0 1 1 100.0 0 0 - 2 1 3 1 0 0 2 2 -15
+p100
+aVSamuel Dalembert PHI 03/30/2002 PHI @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p101
+aVMatt Harpring PHI 03/30/2002 PHI @ NJN L 24 16 7 13 53.8 1 2 50.0 1 2 50.0 6 3 9 0 0 0 2 3 8
+p102
+aVDerrick Coleman PHI 03/30/2002 PHI @ NJN L 38 23 9 16 56.3 1 3 33.3 4 4 100.0 2 5 7 5 0 2 2 1 -2
+p103
+aVVonteego Cummings PHI 03/30/2002 PHI @ NJN L 1 1 0 3 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 0 1
+p104
+aVDerrick McKey PHI 03/30/2002 PHI @ NJN L 22 2 1 3 33.3 0 0 - 0 0 - 3 1 4 2 0 0 2 1 -14
+p105
+aVAlvin Jones PHI 03/30/2002 PHI @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p106
+aVEric Snow PHI 03/30/2002 PHI @ NJN L 43 20 6 17 35.3 0 1 0.0 8 8 100.0 1 5 6 5 1 0 2 3 -11
+p107
+aVDikembe Mutombo PHI 03/30/2002 PHI @ NJN L 32 7 3 7 42.9 0 0 - 1 2 50.0 2 5 7 2 1 2 2 4 -5
+p108
+aVSpeedy Claxton PHI 03/30/2002 PHI @ NJN L 24 3 1 7 14.3 0 0 - 1 2 50.0 1 0 1 6 4 0 0 2 0
+p109
+aVCorie Blount PHI 03/30/2002 PHI @ NJN L 23 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 0 2 0 0 3 -15
+p110
+aVRaja Bell PHI 03/30/2002 PHI @ NJN L 1 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 1
+p111
+aVAaron McKie PHI 03/28/2002 PHI @ CHI W 25 12 5 9 55.6 0 1 0.0 2 3 66.7 0 2 2 3 1 2 1 1 30
+p112
+aVAlvin Jones PHI 03/28/2002 PHI @ CHI W 15 4 1 2 50.0 0 0 - 2 4 50.0 1 3 4 0 1 2 1 2 12
+p113
+aVDerrick McKey PHI 03/28/2002 PHI @ CHI W 25 5 2 4 50.0 1 2 50.0 0 0 - 4 2 6 1 1 0 0 3 27
+p114
+aVEric Snow PHI 03/28/2002 PHI @ CHI W 39 24 10 18 55.6 0 1 0.0 4 4 100.0 0 4 4 6 0 0 2 2 7
+p115
+aVRaja Bell PHI 03/28/2002 PHI @ CHI W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -6
+p116
+aVMatt Harpring PHI 03/28/2002 PHI @ CHI W 30 15 6 16 37.5 1 1 100.0 2 2 100.0 1 7 8 1 1 0 2 2 2
+p117
+aVVonteego Cummings PHI 03/28/2002 PHI @ CHI W 7 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -7
+p118
+aVSpeedy Claxton PHI 03/28/2002 PHI @ CHI W 28 17 6 15 40.0 0 1 0.0 5 5 100.0 1 3 4 3 1 1 1 3 10
+p119
+aVSamuel Dalembert PHI 03/28/2002 PHI @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 2
+p120
+aVCorie Blount PHI 03/28/2002 PHI @ CHI W 26 6 2 4 50.0 0 0 - 2 3 66.7 3 5 8 4 1 0 2 4 23
+p121
+aVDikembe Mutombo PHI 03/28/2002 PHI @ CHI W 36 11 4 7 57.1 0 0 - 3 5 60.0 1 9 10 2 0 2 5 4 0
+p122
+aVMatt Harpring PHI 03/27/2002 PHI vs. NJN L 24 6 3 8 37.5 0 0 - 0 0 - 3 4 7 1 0 0 0 5 -5
+p123
+aVDerrick McKey PHI 03/27/2002 PHI vs. NJN L 16 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 2 0 0 0 -1
+p124
+aVAaron McKie PHI 03/27/2002 PHI vs. NJN L 20 3 1 7 14.3 0 1 0.0 1 2 50.0 0 2 2 2 2 0 2 2 -9
+p125
+aVDikembe Mutombo PHI 03/27/2002 PHI vs. NJN L 28 12 5 8 62.5 0 0 - 2 5 40.0 2 5 7 1 0 1 4 2 -8
+p126
+aVDerrick Coleman PHI 03/27/2002 PHI vs. NJN L 36 13 4 12 33.3 0 1 0.0 5 5 100.0 0 7 7 5 1 0 3 3 -7
+p127
+aVVonteego Cummings PHI 03/27/2002 PHI vs. NJN L 4 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 0 4
+p128
+aVRaja Bell PHI 03/27/2002 PHI vs. NJN L 16 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 1 2 2
+p129
+aVCorie Blount PHI 03/27/2002 PHI vs. NJN L 23 10 5 7 71.4 0 0 - 0 0 - 2 5 7 0 1 0 0 1 -5
+p130
+aVSpeedy Claxton PHI 03/27/2002 PHI vs. NJN L 31 4 1 10 10.0 0 3 0.0 2 2 100.0 0 1 1 2 2 0 2 4 -6
+p131
+aVEric Snow PHI 03/27/2002 PHI vs. NJN L 41 21 8 20 40.0 0 1 0.0 5 5 100.0 0 4 4 5 0 0 2 3 -5
+p132
+aVAlvin Jones PHI 03/24/2002 PHI vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p133
+aVDerrick McKey PHI 03/24/2002 PHI vs. NYK W 12 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 1
+p134
+aVMatt Harpring PHI 03/24/2002 PHI vs. NYK W 27 6 3 8 37.5 0 0 - 0 0 - 1 5 6 1 1 0 2 2 -4
+p135
+aVRaja Bell PHI 03/24/2002 PHI vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p136
+aVDikembe Mutombo PHI 03/24/2002 PHI vs. NYK W 39 16 3 9 33.3 0 0 - 10 14 71.4 2 5 7 1 0 2 4 2 10
+p137
+aVVonteego Cummings PHI 03/24/2002 PHI vs. NYK W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -6
+p138
+aVCorie Blount PHI 03/24/2002 PHI vs. NYK W 17 3 1 4 25.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 2 6
+p139
+aVDerrick Coleman PHI 03/24/2002 PHI vs. NYK W 37 18 6 14 42.9 1 4 25.0 5 6 83.3 4 6 10 2 1 2 0 0 5
+p140
+aVEric Snow PHI 03/24/2002 PHI vs. NYK W 42 14 6 16 37.5 0 1 0.0 2 2 100.0 2 7 9 10 2 0 3 3 15
+p141
+aVSpeedy Claxton PHI 03/24/2002 PHI vs. NYK W 38 17 7 11 63.6 0 0 - 3 3 100.0 1 4 5 4 1 1 2 4 12
+p142
+aVAaron McKie PHI 03/24/2002 PHI vs. NYK W 21 12 3 6 50.0 2 3 66.7 4 4 100.0 0 1 1 1 1 0 0 2 9
+p143
+aVSamuel Dalembert PHI 03/24/2002 PHI vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p144
+aVSpeedy Claxton PHI 03/22/2002 PHI @ BOS W 27 11 5 7 71.4 0 1 0.0 1 1 100.0 2 3 5 5 2 0 2 3 12
+p145
+aVMatt Harpring PHI 03/22/2002 PHI @ BOS W 35 12 6 14 42.9 0 1 0.0 0 0 - 3 3 6 0 1 0 3 3 4
+p146
+aVDikembe Mutombo PHI 03/22/2002 PHI @ BOS W 41 9 2 8 25.0 0 0 - 5 6 83.3 1 9 10 1 0 2 1 1 1
+p147
+aVRaja Bell PHI 03/22/2002 PHI @ BOS W 6 6 2 2 100.0 2 2 100.0 0 0 - 1 0 1 0 0 0 1 1 -2
+p148
+aVVonteego Cummings PHI 03/22/2002 PHI @ BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p149
+aVDerrick McKey PHI 03/22/2002 PHI @ BOS W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 3 1
+p150
+aVAllen Iverson PHI 03/22/2002 PHI @ BOS W 24 22 7 12 58.3 3 5 60.0 5 6 83.3 0 2 2 3 3 0 3 1 -5
+p151
+aVDerrick Coleman PHI 03/22/2002 PHI @ BOS W 41 15 5 16 31.3 1 4 25.0 4 4 100.0 4 11 15 1 2 0 1 2 8
+p152
+aVEric Snow PHI 03/22/2002 PHI @ BOS W 40 17 6 12 50.0 0 2 0.0 5 7 71.4 2 7 9 9 1 0 5 4 5
+p153
+aVCorie Blount PHI 03/22/2002 PHI @ BOS W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 3 0
+p154
+aVAlvin Jones PHI 03/22/2002 PHI @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p155
+aVDikembe Mutombo PHI 03/20/2002 PHI vs. MIA L 25 3 1 6 16.7 0 0 - 1 2 50.0 3 4 7 0 0 0 1 4 -8
+p156
+aVDerrick McKey PHI 03/20/2002 PHI vs. MIA L 23 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 0 0 2 -11
+p157
+aVAllen Iverson PHI 03/20/2002 PHI vs. MIA L 48 38 13 30 43.3 2 7 28.6 10 11 90.9 0 1 1 3 3 0 5 1 -5
+p158
+aVMatt Harpring PHI 03/20/2002 PHI vs. MIA L 32 15 4 10 40.0 0 1 0.0 7 8 87.5 3 3 6 0 0 0 1 1 -3
+p159
+aVAlvin Jones PHI 03/20/2002 PHI vs. MIA L 13 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 1 1 1 4 17
+p160
+aVEric Snow PHI 03/20/2002 PHI vs. MIA L 41 5 2 14 14.3 0 3 0.0 1 2 50.0 0 7 7 1 2 0 2 5 4
+p161
+aVCorie Blount PHI 03/20/2002 PHI vs. MIA L 36 6 3 5 60.0 0 0 - 0 0 - 3 8 11 2 0 3 1 2 -11
+p162
+aVRaja Bell PHI 03/20/2002 PHI vs. MIA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 2
+p163
+aVSpeedy Claxton PHI 03/20/2002 PHI vs. MIA L 19 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 3 1 0 0 0 -10
+p164
+aVEric Snow PHI 03/19/2002 PHI @ MIA W 40 9 3 14 21.4 0 2 0.0 3 4 75.0 1 0 1 5 2 0 0 2 18
+p165
+aVRaja Bell PHI 03/19/2002 PHI @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p166
+aVMatt Harpring PHI 03/19/2002 PHI @ MIA W 27 8 2 3 66.7 0 0 - 4 4 100.0 1 1 2 0 1 0 0 2 4
+p167
+aVDerrick McKey PHI 03/19/2002 PHI @ MIA W 25 7 3 4 75.0 0 1 0.0 1 2 50.0 2 3 5 1 2 0 2 3 14
+p168
+aVAlvin Jones PHI 03/19/2002 PHI @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p169
+aVSpeedy Claxton PHI 03/19/2002 PHI @ MIA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -4
+p170
+aVCorie Blount PHI 03/19/2002 PHI @ MIA W 13 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 2 4 -1
+p171
+aVVonteego Cummings PHI 03/19/2002 PHI @ MIA W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 0
+p172
+aVAllen Iverson PHI 03/19/2002 PHI @ MIA W 47 33 11 28 39.3 3 5 60.0 8 11 72.7 0 8 8 4 3 0 4 1 11
+p173
+aVDikembe Mutombo PHI 03/19/2002 PHI @ MIA W 40 9 3 8 37.5 0 0 - 3 4 75.0 3 6 9 0 1 0 1 4 11
+p174
+aVDerrick Coleman PHI 03/19/2002 PHI @ MIA W 34 20 8 13 61.5 2 6 33.3 2 2 100.0 2 7 9 0 0 1 2 2 12
+p175
+aVCorie Blount PHI 03/17/2002 PHI vs. ORL L 31 10 4 5 80.0 0 0 - 2 2 100.0 7 7 14 2 1 1 2 2 7
+p176
+aVSpeedy Claxton PHI 03/17/2002 PHI vs. ORL L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 0 1 -3
+p177
+aVDikembe Mutombo PHI 03/17/2002 PHI vs. ORL L 36 14 5 6 83.3 0 0 - 4 4 100.0 4 4 8 3 0 2 2 4 4
+p178
+aVEric Snow PHI 03/17/2002 PHI vs. ORL L 38 20 10 18 55.6 0 0 - 0 0 - 0 5 5 7 2 0 1 1 1
+p179
+aVRaja Bell PHI 03/17/2002 PHI vs. ORL L 26 4 2 6 33.3 0 0 - 0 0 - 0 0 0 1 1 0 2 2 -4
+p180
+aVAllen Iverson PHI 03/17/2002 PHI vs. ORL L 48 39 14 33 42.4 3 5 60.0 8 10 80.0 0 5 5 10 3 0 3 0 -2
+p181
+aVDerrick Coleman PHI 03/17/2002 PHI vs. ORL L 24 9 4 9 44.4 0 1 0.0 1 2 50.0 3 2 5 0 0 0 2 4 -13
+p182
+aVDerrick McKey PHI 03/17/2002 PHI vs. ORL L 24 5 2 6 33.3 1 1 100.0 0 0 - 3 5 8 0 0 0 0 4 0
+p183
+aVMatt Harpring PHI 03/13/2002 PHI vs. SAC L 31 5 2 7 28.6 1 2 50.0 0 0 - 1 3 4 1 0 0 2 2 -3
+p184
+aVDerrick Coleman PHI 03/13/2002 PHI vs. SAC L 30 20 7 13 53.8 2 3 66.7 4 4 100.0 2 5 7 1 1 0 3 4 2
+p185
+aVDerrick McKey PHI 03/13/2002 PHI vs. SAC L 16 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 2 0 0 3 -1
+p186
+aVAllen Iverson PHI 03/13/2002 PHI vs. SAC L 45 32 13 31 41.9 1 6 16.7 5 6 83.3 0 6 6 5 2 0 5 5 -1
+p187
+aVCorie Blount PHI 03/13/2002 PHI vs. SAC L 24 6 3 4 75.0 0 0 - 0 2 0.0 3 3 6 0 1 0 2 0 -11
+p188
+aVSpeedy Claxton PHI 03/13/2002 PHI vs. SAC L 14 0 0 3 0.0 0 0 - 0 0 - 0 2 2 4 1 0 0 3 -3
+p189
+aVRaja Bell PHI 03/13/2002 PHI vs. SAC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p190
+aVDikembe Mutombo PHI 03/13/2002 PHI vs. SAC L 43 14 6 11 54.5 0 0 - 2 3 66.7 4 13 17 1 1 4 1 1 5
+p191
+aVEric Snow PHI 03/13/2002 PHI vs. SAC L 37 11 4 11 36.4 0 0 - 3 4 75.0 0 2 2 8 3 1 0 4 -4
+p192
+aVAllen Iverson PHI 03/12/2002 PHI @ NYK W 42 35 12 28 42.9 0 1 0.0 11 11 100.0 0 4 4 7 4 0 4 3 13
+p193
+aVDikembe Mutombo PHI 03/12/2002 PHI @ NYK W 17 3 1 3 33.3 0 0 - 1 1 100.0 3 2 5 0 0 1 1 3 -12
+p194
+aVAlvin Jones PHI 03/12/2002 PHI @ NYK W 7 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 1 14
+p195
+aVCorie Blount PHI 03/12/2002 PHI @ NYK W 30 6 3 4 75.0 0 0 - 0 0 - 0 6 6 1 0 0 1 2 3
+p196
+aVVonteego Cummings PHI 03/12/2002 PHI @ NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p197
+aVRaja Bell PHI 03/12/2002 PHI @ NYK W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p198
+aVEric Snow PHI 03/12/2002 PHI @ NYK W 42 23 10 17 58.8 0 0 - 3 3 100.0 1 0 1 6 3 0 3 1 14
+p199
+aVDerrick McKey PHI 03/12/2002 PHI @ NYK W 19 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 7
+p200
+aVSpeedy Claxton PHI 03/12/2002 PHI @ NYK W 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -9
+p201
+aVMatt Harpring PHI 03/12/2002 PHI @ NYK W 34 11 3 9 33.3 0 0 - 5 6 83.3 4 7 11 1 1 0 2 6 7
+p202
+aVDerrick Coleman PHI 03/12/2002 PHI @ NYK W 37 20 7 11 63.6 2 3 66.7 4 4 100.0 0 9 9 1 1 0 3 0 3
+p203
+aVDikembe Mutombo PHI 03/09/2002 PHI @ ATL W 36 17 7 7 100.0 0 0 - 3 3 100.0 1 8 9 1 3 3 0 1 19
+p204
+aVRaja Bell PHI 03/09/2002 PHI @ ATL W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -5
+p205
+aVMatt Harpring PHI 03/09/2002 PHI @ ATL W 34 10 5 10 50.0 0 0 - 0 0 - 2 1 3 3 1 0 2 1 27
+p206
+aVSpeedy Claxton PHI 03/09/2002 PHI @ ATL W 21 18 7 10 70.0 1 2 50.0 3 3 100.0 0 3 3 1 3 1 2 1 8
+p207
+aVAlvin Jones PHI 03/09/2002 PHI @ ATL W 5 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 1 0 0 -5
+p208
+aVAllen Iverson PHI 03/09/2002 PHI @ ATL W 41 28 7 22 31.8 3 6 50.0 11 12 91.7 3 1 4 5 3 0 4 1 27
+p209
+aVEric Snow PHI 03/09/2002 PHI @ ATL W 31 15 6 7 85.7 0 0 - 3 5 60.0 0 3 3 3 0 0 3 1 16
+p210
+aVCorie Blount PHI 03/09/2002 PHI @ ATL W 35 8 4 7 57.1 0 0 - 0 0 - 3 6 9 2 2 0 1 4 18
+p211
+aVDerrick McKey PHI 03/09/2002 PHI @ ATL W 25 9 4 7 57.1 1 1 100.0 0 0 - 2 4 6 1 0 0 1 1 5
+p212
+aVVonteego Cummings PHI 03/09/2002 PHI @ ATL W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -5
+p213
+aVDikembe Mutombo PHI 03/08/2002 PHI vs. IND W 37 13 5 9 55.6 0 0 - 3 5 60.0 2 6 8 3 1 2 1 5 18
+p214
+aVSpeedy Claxton PHI 03/08/2002 PHI vs. IND W 17 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 1 3 -7
+p215
+aVCorie Blount PHI 03/08/2002 PHI vs. IND W 38 9 4 7 57.1 0 0 - 1 2 50.0 8 6 14 0 0 1 0 5 -2
+p216
+aVRaja Bell PHI 03/08/2002 PHI vs. IND W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 0 -1
+p217
+aVAllen Iverson PHI 03/08/2002 PHI vs. IND W 45 41 13 36 36.1 1 4 25.0 14 16 87.5 0 3 3 8 2 1 4 5 6
+p218
+aVAlvin Jones PHI 03/08/2002 PHI vs. IND W 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 3 -8
+p219
+aVDerrick McKey PHI 03/08/2002 PHI vs. IND W 27 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 2 2 0 0 5 -5
+p220
+aVEric Snow PHI 03/08/2002 PHI vs. IND W 35 25 9 13 69.2 1 1 100.0 6 7 85.7 1 5 6 8 1 0 4 2 19
+p221
+aVMatt Harpring PHI 03/08/2002 PHI vs. IND W 27 14 6 11 54.5 0 0 - 2 2 100.0 3 6 9 2 1 0 1 4 25
+p222
+aVAlvin Jones PHI 03/06/2002 PHI vs. CLE W 6 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 1 2 2
+p223
+aVVonteego Cummings PHI 03/06/2002 PHI vs. CLE W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p224
+aVAllen Iverson PHI 03/06/2002 PHI vs. CLE W 47 46 15 30 50.0 2 4 50.0 14 18 77.8 0 7 7 4 2 0 3 0 12
+p225
+aVMatt Harpring PHI 03/06/2002 PHI vs. CLE W 27 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -1
+p226
+aVDerrick McKey PHI 03/06/2002 PHI vs. CLE W 27 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 2 0 1 1 2 10
+p227
+aVDikembe Mutombo PHI 03/06/2002 PHI vs. CLE W 39 10 5 14 35.7 0 0 - 0 0 - 5 8 13 0 0 1 2 4 9
+p228
+aVSpeedy Claxton PHI 03/06/2002 PHI vs. CLE W 20 3 1 2 50.0 0 1 0.0 1 2 50.0 0 3 3 3 3 0 1 2 4
+p229
+aVEric Snow PHI 03/06/2002 PHI vs. CLE W 42 7 3 6 50.0 0 0 - 1 2 50.0 0 1 1 6 2 0 0 1 16
+p230
+aVRaja Bell PHI 03/06/2002 PHI vs. CLE W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 4 -6
+p231
+aVCorie Blount PHI 03/06/2002 PHI vs. CLE W 21 9 4 6 66.7 0 0 - 1 1 100.0 1 5 6 0 0 2 3 4 2
+p232
+aVDerrick Coleman PHI 03/04/2002 PHI vs. BOS L 40 16 7 13 53.8 0 3 0.0 2 4 50.0 3 8 11 0 0 1 2 3 2
+p233
+aVMatt Harpring PHI 03/04/2002 PHI vs. BOS L 33 9 2 11 18.2 0 2 0.0 5 6 83.3 3 4 7 3 1 0 1 3 3
+p234
+aVRaja Bell PHI 03/04/2002 PHI vs. BOS L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p235
+aVEric Snow PHI 03/04/2002 PHI vs. BOS L 41 16 7 14 50.0 0 0 - 2 3 66.7 0 5 5 8 1 0 4 1 -1
+p236
+aVSpeedy Claxton PHI 03/04/2002 PHI vs. BOS L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -6
+p237
+aVDikembe Mutombo PHI 03/04/2002 PHI vs. BOS L 33 9 2 3 66.7 0 0 - 5 6 83.3 3 4 7 0 0 0 2 5 6
+p238
+aVAllen Iverson PHI 03/04/2002 PHI vs. BOS L 44 28 8 30 26.7 3 6 50.0 9 9 100.0 2 5 7 6 2 0 5 1 -12
+p239
+aVDerrick McKey PHI 03/04/2002 PHI vs. BOS L 21 6 2 3 66.7 1 1 100.0 1 2 50.0 1 4 5 2 0 0 1 4 -7
+p240
+aVCorie Blount PHI 03/04/2002 PHI vs. BOS L 12 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 1 1 0 0 4 -12
+p241
+aVDerrick Coleman PHI 03/03/2002 PHI @ TOR W 38 18 8 13 61.5 0 1 0.0 2 2 100.0 4 9 13 2 1 0 1 4 14
+p242
+aVSpeedy Claxton PHI 03/03/2002 PHI @ TOR W 17 8 3 5 60.0 0 0 - 2 3 66.7 1 0 1 2 2 0 2 2 -3
+p243
+aVEric Snow PHI 03/03/2002 PHI @ TOR W 34 11 3 6 50.0 0 1 0.0 5 6 83.3 1 3 4 7 2 0 4 2 20
+p244
+aVDikembe Mutombo PHI 03/03/2002 PHI @ TOR W 39 3 1 2 50.0 0 0 - 1 2 50.0 1 6 7 1 1 3 1 4 14
+p245
+aVCorie Blount PHI 03/03/2002 PHI @ TOR W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -5
+p246
+aVAlvin Jones PHI 03/03/2002 PHI @ TOR W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -5
+p247
+aVAllen Iverson PHI 03/03/2002 PHI @ TOR W 44 42 16 37 43.2 0 6 0.0 10 10 100.0 1 3 4 5 5 0 3 1 14
+p248
+aVRaja Bell PHI 03/03/2002 PHI @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p249
+aVDerrick McKey PHI 03/03/2002 PHI @ TOR W 25 0 0 0 - 0 0 - 0 0 - 1 3 4 1 1 0 0 5 6
+p250
+aVMatt Harpring PHI 03/03/2002 PHI @ TOR W 34 13 5 7 71.4 0 0 - 3 3 100.0 1 3 4 1 1 0 2 4 10
+p251
+aVDerrick Coleman PHI 03/01/2002 PHI vs. NJN W 38 20 7 9 77.8 2 2 100.0 4 4 100.0 0 6 6 2 0 1 1 2 16
+p252
+aVMatt Harpring PHI 03/01/2002 PHI vs. NJN W 40 14 7 8 87.5 0 0 - 0 0 - 2 4 6 0 0 0 4 2 0
+p253
+aVSpeedy Claxton PHI 03/01/2002 PHI vs. NJN W 16 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 4 0 0 2 2 -2
+p254
+aVAllen Iverson PHI 03/01/2002 PHI vs. NJN W 43 43 15 30 50.0 4 5 80.0 9 14 64.3 0 5 5 5 2 1 3 2 1
+p255
+aVDerrick McKey PHI 03/01/2002 PHI vs. NJN W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 1 2
+p256
+aVEric Snow PHI 03/01/2002 PHI vs. NJN W 32 7 1 3 33.3 0 0 - 5 8 62.5 0 2 2 13 2 0 1 4 10
+p257
+aVRaja Bell PHI 03/01/2002 PHI vs. NJN W 13 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 1 1 0 0 1 5
+p258
+aVDikembe Mutombo PHI 03/01/2002 PHI vs. NJN W 38 14 5 6 83.3 0 0 - 4 6 66.7 0 6 6 1 1 5 3 3 12
+p259
+aVCorie Blount PHI 03/01/2002 PHI vs. NJN W 10 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 2 -4
+p260
+aVSpeedy Claxton PHI 02/27/2002 PHI vs. MIA W 9 1 0 4 0.0 0 1 0.0 1 2 50.0 1 0 1 1 1 0 0 2 6
+p261
+aVAaron McKie PHI 02/27/2002 PHI vs. MIA W 18 5 1 4 25.0 1 2 50.0 2 2 100.0 0 3 3 0 0 0 0 0 12
+p262
+aVCorie Blount PHI 02/27/2002 PHI vs. MIA W 14 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 0 1 0 0 3 14
+p263
+aVVonteego Cummings PHI 02/27/2002 PHI vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p264
+aVJabari Smith PHI 02/27/2002 PHI vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p265
+aVSamuel Dalembert PHI 02/27/2002 PHI vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p266
+aVEric Snow PHI 02/27/2002 PHI vs. MIA W 38 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 4 1 0 1 0 4
+p267
+aVDerrick Coleman PHI 02/27/2002 PHI vs. MIA W 32 8 2 6 33.3 0 0 - 4 7 57.1 5 6 11 0 0 1 3 2 -3
+p268
+aVDikembe Mutombo PHI 02/27/2002 PHI vs. MIA W 42 8 2 5 40.0 0 0 - 4 5 80.0 4 9 13 0 0 2 1 4 5
+p269
+aVAllen Iverson PHI 02/27/2002 PHI vs. MIA W 42 31 10 30 33.3 0 5 0.0 11 16 68.8 2 4 6 4 3 0 3 0 4
+p270
+aVRaja Bell PHI 02/27/2002 PHI vs. MIA W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p271
+aVMatt Harpring PHI 02/27/2002 PHI vs. MIA W 39 18 8 11 72.7 0 0 - 2 10 20.0 4 2 6 0 1 0 1 3 5
+p272
+aVDikembe Mutombo PHI 02/25/2002 PHI vs. POR L 39 14 4 7 57.1 0 0 - 6 6 100.0 5 7 12 1 0 4 0 4 -10
+p273
+aVDerrick Coleman PHI 02/25/2002 PHI vs. POR L 38 16 6 17 35.3 1 4 25.0 3 4 75.0 7 8 15 3 0 1 3 2 -3
+p274
+aVAaron McKie PHI 02/25/2002 PHI vs. POR L 14 0 0 4 0.0 0 0 - 0 0 - 1 4 5 2 0 0 1 0 -1
+p275
+aVRaja Bell PHI 02/25/2002 PHI vs. POR L 16 9 4 9 44.4 1 2 50.0 0 0 - 1 2 3 0 0 0 0 4 -5
+p276
+aVCorie Blount PHI 02/25/2002 PHI vs. POR L 14 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 1 1
+p277
+aVAllen Iverson PHI 02/25/2002 PHI vs. POR L 48 18 8 22 36.4 0 4 0.0 2 5 40.0 0 3 3 7 2 0 4 0 -5
+p278
+aVVonteego Cummings PHI 02/25/2002 PHI vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p279
+aVEric Snow PHI 02/25/2002 PHI vs. POR L 39 18 7 17 41.2 0 1 0.0 4 4 100.0 0 5 5 10 1 0 1 3 4
+p280
+aVMatt Harpring PHI 02/25/2002 PHI vs. POR L 27 6 3 9 33.3 0 1 0.0 0 0 - 2 6 8 0 1 0 1 5 7
+p281
+aVDikembe Mutombo PHI 02/23/2002 PHI @ ORL L 32 12 4 12 33.3 0 0 - 4 7 57.1 2 7 9 2 0 0 2 2 -21
+p282
+aVSamuel Dalembert PHI 02/23/2002 PHI @ ORL L 14 4 2 4 50.0 0 0 - 0 0 - 2 6 8 0 0 2 2 0 3
+p283
+aVVonteego Cummings PHI 02/23/2002 PHI @ ORL L 9 11 4 6 66.7 0 0 - 3 3 100.0 1 0 1 2 2 0 2 0 11
+p284
+aVRaja Bell PHI 02/23/2002 PHI @ ORL L 20 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 2 0 1 3 -1
+p285
+aVCorie Blount PHI 02/23/2002 PHI @ ORL L 25 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 1 1 1 3 -10
+p286
+aVMatt Harpring PHI 02/23/2002 PHI @ ORL L 35 8 4 9 44.4 0 0 - 0 0 - 5 4 9 2 0 0 3 2 -23
+p287
+aVJabari Smith PHI 02/23/2002 PHI @ ORL L 14 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 0 0 0 0 2 1
+p288
+aVEric Snow PHI 02/23/2002 PHI @ ORL L 33 4 2 6 33.3 0 0 - 0 0 - 0 1 1 3 3 1 2 1 -23
+p289
+aVAllen Iverson PHI 02/23/2002 PHI @ ORL L 42 32 11 30 36.7 2 3 66.7 8 10 80.0 0 5 5 6 6 0 6 1 -24
+p290
+aVSpeedy Claxton PHI 02/23/2002 PHI @ ORL L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 1 0 3 3 -3
+p291
+aVSpeedy Claxton PHI 02/20/2002 PHI vs. GSW W 22 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 0 3 0 1 6 4
+p292
+aVEric Snow PHI 02/20/2002 PHI vs. GSW W 31 6 2 5 40.0 0 0 - 2 2 100.0 1 10 11 12 1 0 2 5 10
+p293
+aVMatt Harpring PHI 02/20/2002 PHI vs. GSW W 40 25 11 21 52.4 0 1 0.0 3 3 100.0 3 6 9 2 1 0 2 2 5
+p294
+aVCorie Blount PHI 02/20/2002 PHI vs. GSW W 30 6 3 4 75.0 0 0 - 0 0 - 2 7 9 3 2 0 0 3 12
+p295
+aVDikembe Mutombo PHI 02/20/2002 PHI vs. GSW W 42 18 6 9 66.7 0 0 - 6 6 100.0 5 4 9 5 1 3 2 6 13
+p296
+aVSamuel Dalembert PHI 02/20/2002 PHI vs. GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p297
+aVAllen Iverson PHI 02/20/2002 PHI vs. GSW W 45 46 14 36 38.9 2 7 28.6 16 20 80.0 3 5 8 6 5 0 2 2 8
+p298
+aVVonteego Cummings PHI 02/20/2002 PHI vs. GSW W 18 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 5 2 0 2 4 -5
+p299
+aVJabari Smith PHI 02/20/2002 PHI vs. GSW W 9 7 2 3 66.7 0 0 - 3 4 75.0 1 0 1 0 1 0 1 3 -6
+p300
+aVRaja Bell PHI 02/18/2002 PHI vs. DEN W 33 16 6 10 60.0 1 2 50.0 3 4 75.0 1 4 5 2 0 1 2 3 26
+p301
+aVSpeedy Claxton PHI 02/18/2002 PHI vs. DEN W 24 11 4 6 66.7 0 1 0.0 3 4 75.0 2 5 7 5 3 0 2 0 0
+p302
+aVAllen Iverson PHI 02/18/2002 PHI vs. DEN W 36 27 11 21 52.4 0 1 0.0 5 6 83.3 3 6 9 8 4 0 6 3 32
+p303
+aVSamuel Dalembert PHI 02/18/2002 PHI vs. DEN W 15 5 2 3 66.7 0 0 - 1 4 25.0 2 4 6 0 0 0 2 5 -5
+p304
+aVJabari Smith PHI 02/18/2002 PHI vs. DEN W 18 10 4 7 57.1 0 0 - 2 4 50.0 1 3 4 1 0 0 1 0 9
+p305
+aVVonteego Cummings PHI 02/18/2002 PHI vs. DEN W 22 5 2 5 40.0 1 2 50.0 0 0 - 1 3 4 3 0 0 1 1 -2
+p306
+aVDikembe Mutombo PHI 02/18/2002 PHI vs. DEN W 28 20 9 9 100.0 0 0 - 2 2 100.0 4 6 10 1 0 1 2 0 34
+p307
+aVMatt Harpring PHI 02/18/2002 PHI vs. DEN W 31 12 4 12 33.3 0 1 0.0 4 6 66.7 3 8 11 1 1 0 1 1 14
+p308
+aVEric Snow PHI 02/18/2002 PHI vs. DEN W 34 4 1 8 12.5 0 0 - 2 2 100.0 0 3 3 9 1 1 1 4 27
+p309
+aVSpeedy Claxton PHI 02/17/2002 PHI @ IND L 31 11 3 17 17.6 0 3 0.0 5 6 83.3 1 1 2 3 5 0 0 0 -1
+p310
+aVSamuel Dalembert PHI 02/17/2002 PHI @ IND L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 3
+p311
+aVCorie Blount PHI 02/17/2002 PHI @ IND L 26 6 3 5 60.0 0 0 - 0 0 - 4 4 8 1 0 1 1 1 5
+p312
+aVVonteego Cummings PHI 02/17/2002 PHI @ IND L 11 10 4 6 66.7 0 1 0.0 2 2 100.0 0 2 2 0 1 0 0 0 6
+p313
+aVMatt Harpring PHI 02/17/2002 PHI @ IND L 33 11 5 14 35.7 0 2 0.0 1 2 50.0 3 7 10 2 0 1 4 4 -20
+p314
+aVEric Snow PHI 02/17/2002 PHI @ IND L 36 13 5 15 33.3 0 0 - 3 4 75.0 0 3 3 7 0 1 0 5 -11
+p315
+aVDikembe Mutombo PHI 02/17/2002 PHI @ IND L 32 13 4 9 44.4 0 0 - 5 5 100.0 2 7 9 1 0 2 0 2 -12
+p316
+aVDerrick McKey PHI 02/17/2002 PHI @ IND L 19 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 3 4 0 0 2 -11
+p317
+aVAaron McKie PHI 02/17/2002 PHI @ IND L 22 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 1 2 1 -11
+p318
+aVDerrick Coleman PHI 02/17/2002 PHI @ IND L 25 10 4 13 30.8 0 1 0.0 2 2 100.0 1 4 5 1 0 2 1 2 2
+p319
+aVDerrick Coleman PHI 02/14/2002 PHI vs. UTA L 40 16 5 9 55.6 0 2 0.0 6 8 75.0 5 5 10 1 1 2 1 5 -3
+p320
+aVMatt Harpring PHI 02/14/2002 PHI vs. UTA L 29 7 3 6 50.0 0 1 0.0 1 2 50.0 2 4 6 1 0 0 1 1 -7
+p321
+aVDerrick McKey PHI 02/14/2002 PHI vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p322
+aVCorie Blount PHI 02/14/2002 PHI vs. UTA L 18 4 2 4 50.0 0 0 - 0 0 - 3 0 3 0 3 2 1 5 -9
+p323
+aVRaja Bell PHI 02/14/2002 PHI vs. UTA L 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p324
+aVAllen Iverson PHI 02/14/2002 PHI vs. UTA L 44 34 9 27 33.3 0 4 0.0 16 19 84.2 0 2 2 1 1 0 3 1 -1
+p325
+aVSamuel Dalembert PHI 02/14/2002 PHI vs. UTA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p326
+aVDikembe Mutombo PHI 02/14/2002 PHI vs. UTA L 35 8 2 2 100.0 0 0 - 4 4 100.0 1 5 6 1 0 4 2 5 -4
+p327
+aVSpeedy Claxton PHI 02/14/2002 PHI vs. UTA L 19 6 1 6 16.7 0 1 0.0 4 4 100.0 1 1 2 4 2 0 3 4 1
+p328
+aVEric Snow PHI 02/14/2002 PHI vs. UTA L 38 14 5 11 45.5 0 0 - 4 4 100.0 0 0 0 3 4 0 2 5 -10
+p329
+aVEric Snow PHI 02/07/2002 PHI @ CHH W 42 13 3 8 37.5 0 0 - 7 8 87.5 1 4 5 7 3 0 2 2 13
+p330
+aVSpeedy Claxton PHI 02/07/2002 PHI @ CHH W 15 6 1 7 14.3 0 0 - 4 4 100.0 0 2 2 1 1 0 2 5 -1
+p331
+aVCorie Blount PHI 02/07/2002 PHI @ CHH W 39 15 7 8 87.5 0 0 - 1 1 100.0 5 4 9 1 1 0 1 0 5
+p332
+aVDerrick McKey PHI 02/07/2002 PHI @ CHH W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 0 0 2 4
+p333
+aVSamuel Dalembert PHI 02/07/2002 PHI @ CHH W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 6
+p334
+aVDikembe Mutombo PHI 02/07/2002 PHI @ CHH W 43 12 2 8 25.0 0 0 - 8 10 80.0 3 14 17 0 1 3 3 4 1
+p335
+aVAllen Iverson PHI 02/07/2002 PHI @ CHH W 45 36 16 30 53.3 3 8 37.5 1 3 33.3 1 1 2 4 4 0 6 1 9
+p336
+aVMatt Harpring PHI 02/07/2002 PHI @ CHH W 38 16 7 18 38.9 0 0 - 2 3 66.7 3 6 9 3 0 0 1 1 -2
+p337
+aVEric Snow PHI 02/05/2002 PHI @ DET L 39 7 2 6 33.3 0 1 0.0 3 4 75.0 0 5 5 4 1 0 2 5 4
+p338
+aVDerrick McKey PHI 02/05/2002 PHI @ DET L 20 4 2 5 40.0 0 1 0.0 0 0 - 4 3 7 0 2 0 1 3 -11
+p339
+aVMatt Harpring PHI 02/05/2002 PHI @ DET L 29 14 4 8 50.0 0 0 - 6 8 75.0 2 7 9 1 1 0 5 4 6
+p340
+aVAllen Iverson PHI 02/05/2002 PHI @ DET L 47 26 7 31 22.6 1 5 20.0 11 14 78.6 1 3 4 5 6 1 3 2 -5
+p341
+aVCorie Blount PHI 02/05/2002 PHI @ DET L 37 10 4 6 66.7 0 0 - 2 2 100.0 3 7 10 0 3 0 0 3 -4
+p342
+aVSamuel Dalembert PHI 02/05/2002 PHI @ DET L 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -10
+p343
+aVDikembe Mutombo PHI 02/05/2002 PHI @ DET L 40 17 6 14 42.9 0 0 - 5 6 83.3 3 7 10 1 0 4 4 3 7
+p344
+aVSpeedy Claxton PHI 02/05/2002 PHI @ DET L 17 2 1 5 20.0 0 0 - 0 0 - 2 1 3 1 1 0 2 1 -10
+p345
+aVRaja Bell PHI 02/05/2002 PHI @ DET L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 3
+p346
+aVDerrick McKey PHI 02/04/2002 PHI vs. TOR L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 0 0 0 2
+p347
+aVDerrick Coleman PHI 02/04/2002 PHI vs. TOR L 36 13 6 14 42.9 0 2 0.0 1 4 25.0 7 4 11 1 0 1 2 4 -14
+p348
+aVRaja Bell PHI 02/04/2002 PHI vs. TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p349
+aVSpeedy Claxton PHI 02/04/2002 PHI vs. TOR L 26 7 3 9 33.3 0 1 0.0 1 2 50.0 0 2 2 1 1 0 2 1 4
+p350
+aVMatt Harpring PHI 02/04/2002 PHI vs. TOR L 25 12 4 9 44.4 0 0 - 4 4 100.0 1 3 4 1 1 0 1 2 -10
+p351
+aVCorie Blount PHI 02/04/2002 PHI vs. TOR L 18 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 2 0 1 2 -1
+p352
+aVDikembe Mutombo PHI 02/04/2002 PHI vs. TOR L 41 12 6 8 75.0 0 0 - 0 0 - 3 6 9 0 0 0 1 3 -1
+p353
+aVEric Snow PHI 02/04/2002 PHI vs. TOR L 36 9 2 5 40.0 0 1 0.0 5 5 100.0 0 2 2 4 1 0 3 5 -8
+p354
+aVVonteego Cummings PHI 02/04/2002 PHI vs. TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p355
+aVAllen Iverson PHI 02/04/2002 PHI vs. TOR L 48 36 11 27 40.7 1 4 25.0 13 14 92.9 0 3 3 7 5 0 4 1 -7
+p356
+aVEric Snow PHI 02/02/2002 PHI @ MIL W 37 10 4 9 44.4 0 1 0.0 2 2 100.0 0 1 1 5 1 1 3 3 0
+p357
+aVDerrick McKey PHI 02/02/2002 PHI @ MIL W 19 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 2 0 1 1 8
+p358
+aVAllen Iverson PHI 02/02/2002 PHI @ MIL W 47 25 9 30 30.0 2 6 33.3 5 5 100.0 0 6 6 4 5 0 4 1 3
+p359
+aVMatt Harpring PHI 02/02/2002 PHI @ MIL W 35 14 6 10 60.0 0 0 - 2 2 100.0 4 5 9 1 2 1 0 2 2
+p360
+aVCorie Blount PHI 02/02/2002 PHI @ MIL W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p361
+aVDikembe Mutombo PHI 02/02/2002 PHI @ MIL W 41 11 4 11 36.4 0 0 - 3 5 60.0 7 11 18 1 0 0 1 2 4
+p362
+aVSpeedy Claxton PHI 02/02/2002 PHI @ MIL W 13 2 0 5 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 1 3 5
+p363
+aVDerrick Coleman PHI 02/02/2002 PHI @ MIL W 40 19 5 13 38.5 1 2 50.0 8 10 80.0 4 4 8 1 2 0 1 4 2
+p364
+aVSamuel Dalembert PHI 01/30/2002 PHI vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 4
+p365
+aVDikembe Mutombo PHI 01/30/2002 PHI vs. MIN W 38 10 4 8 50.0 0 0 - 2 4 50.0 2 9 11 2 0 2 2 3 -2
+p366
+aVRaja Bell PHI 01/30/2002 PHI vs. MIN W 12 6 3 6 50.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 1
+p367
+aVDerrick Coleman PHI 01/30/2002 PHI vs. MIN W 35 18 7 16 43.8 0 0 - 4 4 100.0 7 2 9 3 1 0 2 5 11
+p368
+aVSpeedy Claxton PHI 01/30/2002 PHI vs. MIN W 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 2 1 0 2 1 -1
+p369
+aVCorie Blount PHI 01/30/2002 PHI vs. MIN W 15 0 0 4 0.0 0 0 - 0 0 - 2 5 7 0 1 0 0 1 -6
+p370
+aVMatt Harpring PHI 01/30/2002 PHI vs. MIN W 35 16 5 12 41.7 0 1 0.0 6 6 100.0 4 5 9 2 1 0 0 2 14
+p371
+aVAllen Iverson PHI 01/30/2002 PHI vs. MIN W 45 38 14 33 42.4 0 4 0.0 10 11 90.9 2 2 4 3 0 1 4 0 13
+p372
+aVDerrick McKey PHI 01/30/2002 PHI vs. MIN W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 -12
+p373
+aVEric Snow PHI 01/30/2002 PHI vs. MIN W 34 6 2 5 40.0 0 0 - 2 2 100.0 0 3 3 7 1 0 2 2 3
+p374
+aVVonteego Cummings PHI 01/29/2002 PHI @ NYK L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 1
+p375
+aVAllen Iverson PHI 01/29/2002 PHI @ NYK L 43 15 6 25 24.0 0 3 0.0 3 6 50.0 1 2 3 8 4 0 3 3 -4
+p376
+aVCorie Blount PHI 01/29/2002 PHI @ NYK L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -10
+p377
+aVDerrick Coleman PHI 01/29/2002 PHI @ NYK L 38 12 4 9 44.4 0 1 0.0 4 6 66.7 3 10 13 1 1 0 2 2 -8
+p378
+aVMatt Harpring PHI 01/29/2002 PHI @ NYK L 36 17 8 15 53.3 0 0 - 1 2 50.0 4 6 10 0 3 0 0 2 5
+p379
+aVRaja Bell PHI 01/29/2002 PHI @ NYK L 4 0 0 2 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 1 0 -1
+p380
+aVDerrick McKey PHI 01/29/2002 PHI @ NYK L 16 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -9
+p381
+aVEric Snow PHI 01/29/2002 PHI @ NYK L 39 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 6 0 0 3 3 -3
+p382
+aVSamuel Dalembert PHI 01/29/2002 PHI @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p383
+aVSpeedy Claxton PHI 01/29/2002 PHI @ NYK L 17 8 4 10 40.0 0 0 - 0 0 - 0 2 2 0 1 0 2 2 -7
+p384
+aVDikembe Mutombo PHI 01/29/2002 PHI @ NYK L 39 9 2 7 28.6 0 0 - 5 6 83.3 4 9 13 1 0 1 4 5 0
+p385
+aVSpeedy Claxton PHI 01/27/2002 PHI vs. LAL W 23 4 2 6 33.3 0 0 - 0 0 - 1 3 4 2 0 0 1 1 -1
+p386
+aVCorie Blount PHI 01/27/2002 PHI vs. LAL W 8 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -1
+p387
+aVRaja Bell PHI 01/27/2002 PHI vs. LAL W 12 5 1 3 33.3 0 1 0.0 3 4 75.0 0 3 3 0 0 0 0 1 10
+p388
+aVMatt Harpring PHI 01/27/2002 PHI vs. LAL W 30 14 6 8 75.0 0 0 - 2 5 40.0 1 4 5 2 0 0 1 0 4
+p389
+aVAllen Iverson PHI 01/27/2002 PHI vs. LAL W 45 29 10 29 34.5 1 4 25.0 8 8 100.0 0 1 1 3 2 1 4 2 4
+p390
+aVDerrick McKey PHI 01/27/2002 PHI vs. LAL W 10 0 0 2 0.0 0 0 - 0 0 - 2 1 3 3 0 0 0 5 -12
+p391
+aVDikembe Mutombo PHI 01/27/2002 PHI vs. LAL W 40 13 6 8 75.0 0 0 - 1 2 50.0 4 14 18 0 0 2 0 3 10
+p392
+aVVonteego Cummings PHI 01/27/2002 PHI vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p393
+aVDerrick Coleman PHI 01/27/2002 PHI vs. LAL W 36 18 7 17 41.2 0 2 0.0 4 4 100.0 4 8 12 1 0 0 1 5 5
+p394
+aVEric Snow PHI 01/27/2002 PHI vs. LAL W 35 10 2 8 25.0 0 0 - 6 6 100.0 0 3 3 10 2 0 2 4 12
+p395
+aVDikembe Mutombo PHI 01/25/2002 PHI @ BOS W 39 15 4 5 80.0 0 0 - 7 8 87.5 1 11 12 0 0 6 0 0 15
+p396
+aVVonteego Cummings PHI 01/25/2002 PHI @ BOS W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 5
+p397
+aVEric Snow PHI 01/25/2002 PHI @ BOS W 26 8 2 5 40.0 0 0 - 4 4 100.0 1 4 5 6 1 0 5 5 11
+p398
+aVMatt Harpring PHI 01/25/2002 PHI @ BOS W 27 6 3 8 37.5 0 1 0.0 0 0 - 3 3 6 1 0 0 4 3 7
+p399
+aVAllen Iverson PHI 01/25/2002 PHI @ BOS W 47 47 16 31 51.6 4 8 50.0 11 13 84.6 1 3 4 5 3 0 5 1 14
+p400
+aVSpeedy Claxton PHI 01/25/2002 PHI @ BOS W 20 10 3 7 42.9 1 1 100.0 3 3 100.0 0 2 2 3 0 0 0 4 8
+p401
+aVRaja Bell PHI 01/25/2002 PHI @ BOS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p402
+aVAaron McKie PHI 01/25/2002 PHI @ BOS W 5 5 1 1 100.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 0 8
+p403
+aVDerrick McKey PHI 01/25/2002 PHI @ BOS W 26 2 1 3 33.3 0 0 - 0 0 - 3 2 5 0 4 1 1 4 2
+p404
+aVDerrick Coleman PHI 01/25/2002 PHI @ BOS W 39 11 2 10 20.0 0 1 0.0 7 8 87.5 5 6 11 0 1 1 0 1 11
+p405
+aVSamuel Dalembert PHI 01/22/2002 PHI @ WAS W 8 4 2 6 33.3 0 0 - 0 0 - 5 2 7 0 0 0 0 0 6
+p406
+aVRaja Bell PHI 01/22/2002 PHI @ WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p407
+aVCorie Blount PHI 01/22/2002 PHI @ WAS W 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -2
+p408
+aVMatt Harpring PHI 01/22/2002 PHI @ WAS W 32 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 1 2 0 4 2 15
+p409
+aVAllen Iverson PHI 01/22/2002 PHI @ WAS W 45 34 14 32 43.8 1 5 20.0 5 7 71.4 1 1 2 5 2 1 6 1 9
+p410
+aVEric Snow PHI 01/22/2002 PHI @ WAS W 37 19 7 11 63.6 0 1 0.0 5 6 83.3 3 5 8 9 3 0 2 4 10
+p411
+aVSpeedy Claxton PHI 01/22/2002 PHI @ WAS W 20 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 1 0 2 0 -3
+p412
+aVDikembe Mutombo PHI 01/22/2002 PHI @ WAS W 37 2 1 2 50.0 0 0 - 0 0 - 1 7 8 1 2 3 0 2 2
+p413
+aVAaron McKie PHI 01/22/2002 PHI @ WAS W 27 18 6 11 54.5 4 6 66.7 2 2 100.0 0 5 5 3 2 0 4 5 9
+p414
+aVDerrick McKey PHI 01/22/2002 PHI @ WAS W 27 4 2 3 66.7 0 0 - 0 0 - 2 3 5 2 2 0 1 4 -6
+p415
+aVDikembe Mutombo PHI 01/21/2002 PHI vs. SEA L 33 13 5 10 50.0 0 0 - 3 3 100.0 3 3 6 1 0 0 3 3 -20
+p416
+aVAaron McKie PHI 01/21/2002 PHI vs. SEA L 25 7 2 7 28.6 1 2 50.0 2 4 50.0 0 3 3 4 0 0 2 2 -2
+p417
+aVDerrick McKey PHI 01/21/2002 PHI vs. SEA L 16 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 2 0 1 2 -2
+p418
+aVCorie Blount PHI 01/21/2002 PHI vs. SEA L 27 4 2 5 40.0 0 0 - 0 0 - 4 1 5 2 2 1 1 4 -18
+p419
+aVSamuel Dalembert PHI 01/21/2002 PHI vs. SEA L 11 0 0 3 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 0 9
+p420
+aVRaja Bell PHI 01/21/2002 PHI vs. SEA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 4
+p421
+aVAllen Iverson PHI 01/21/2002 PHI vs. SEA L 41 38 14 25 56.0 2 5 40.0 8 11 72.7 2 1 3 3 0 0 4 1 -13
+p422
+aVMatt Harpring PHI 01/21/2002 PHI vs. SEA L 26 13 3 10 30.0 1 1 100.0 6 6 100.0 3 5 8 4 0 0 0 3 -4
+p423
+aVEric Snow PHI 01/21/2002 PHI vs. SEA L 32 7 3 6 50.0 0 0 - 1 4 25.0 0 2 2 5 3 0 1 2 -15
+p424
+aVVonteego Cummings PHI 01/21/2002 PHI vs. SEA L 2 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 1 4
+p425
+aVSpeedy Claxton PHI 01/21/2002 PHI vs. SEA L 24 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 5 2 0 2 1 2
+p426
+aVDikembe Mutombo PHI 01/19/2002 PHI vs. NYK W 42 24 10 15 66.7 0 0 - 4 6 66.7 7 9 16 2 1 4 1 2 20
+p427
+aVSamuel Dalembert PHI 01/19/2002 PHI vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p428
+aVSpeedy Claxton PHI 01/19/2002 PHI vs. NYK W 14 2 1 7 14.3 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -6
+p429
+aVCorie Blount PHI 01/19/2002 PHI vs. NYK W 28 3 1 4 25.0 0 0 - 1 2 50.0 7 8 15 2 0 0 0 3 -9
+p430
+aVEric Snow PHI 01/19/2002 PHI vs. NYK W 37 15 7 11 63.6 0 0 - 1 2 50.0 2 2 4 4 1 0 4 2 21
+p431
+aVDerrick McKey PHI 01/19/2002 PHI vs. NYK W 14 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -4
+p432
+aVAllen Iverson PHI 01/19/2002 PHI vs. NYK W 43 34 9 27 33.3 2 6 33.3 14 17 82.4 0 5 5 7 1 0 4 3 8
+p433
+aVAaron McKie PHI 01/19/2002 PHI vs. NYK W 30 11 4 9 44.4 1 4 25.0 2 2 100.0 2 3 5 2 0 0 3 2 9
+p434
+aVMatt Harpring PHI 01/19/2002 PHI vs. NYK W 31 6 3 14 21.4 0 0 - 0 0 - 5 2 7 0 3 0 1 1 4
+p435
+aVMatt Harpring PHI 01/17/2002 PHI @ CHH W 19 8 4 6 66.7 0 0 - 0 0 - 2 3 5 1 1 0 3 4 -9
+p436
+aVCorie Blount PHI 01/17/2002 PHI @ CHH W 27 4 2 2 100.0 0 0 - 0 0 - 5 3 8 2 0 0 0 3 -2
+p437
+aVEric Snow PHI 01/17/2002 PHI @ CHH W 30 9 3 9 33.3 0 0 - 3 3 100.0 1 1 2 6 0 0 4 2 4
+p438
+aVAllen Iverson PHI 01/17/2002 PHI @ CHH W 46 33 13 34 38.2 1 5 20.0 6 6 100.0 1 3 4 4 2 0 3 4 5
+p439
+aVSamuel Dalembert PHI 01/17/2002 PHI @ CHH W 10 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 0 1 2 3 -4
+p440
+aVSpeedy Claxton PHI 01/17/2002 PHI @ CHH W 19 6 2 7 28.6 0 0 - 2 2 100.0 0 3 3 5 2 0 1 1 6
+p441
+aVDerrick McKey PHI 01/17/2002 PHI @ CHH W 22 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 3
+p442
+aVAaron McKie PHI 01/17/2002 PHI @ CHH W 29 22 8 12 66.7 2 4 50.0 4 6 66.7 0 6 6 2 2 0 1 1 14
+p443
+aVDikembe Mutombo PHI 01/17/2002 PHI @ CHH W 38 6 2 6 33.3 0 0 - 2 3 66.7 3 3 6 1 0 3 0 2 8
+p444
+aVRaja Bell PHI 01/17/2002 PHI @ CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p445
+aVAaron McKie PHI 01/15/2002 PHI vs. HOU W 33 8 4 9 44.4 0 2 0.0 0 0 - 2 3 5 4 1 0 0 0 12
+p446
+aVMatt Harpring PHI 01/15/2002 PHI vs. HOU W 38 9 3 5 60.0 0 0 - 3 4 75.0 2 5 7 2 1 0 1 4 11
+p447
+aVDerrick Coleman PHI 01/15/2002 PHI vs. HOU W 23 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 0 0 0 2 2 -8
+p448
+aVDerrick McKey PHI 01/15/2002 PHI vs. HOU W 5 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p449
+aVEric Snow PHI 01/15/2002 PHI vs. HOU W 36 9 3 9 33.3 0 0 - 3 4 75.0 0 2 2 6 3 0 0 3 -1
+p450
+aVCorie Blount PHI 01/15/2002 PHI vs. HOU W 15 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 2 0 2 -2
+p451
+aVSpeedy Claxton PHI 01/15/2002 PHI vs. HOU W 29 16 7 9 77.8 0 1 0.0 2 2 100.0 2 4 6 0 1 0 0 1 2
+p452
+aVDikembe Mutombo PHI 01/15/2002 PHI vs. HOU W 36 8 3 8 37.5 0 0 - 2 2 100.0 5 8 13 0 0 1 0 5 6
+p453
+aVAllen Iverson PHI 01/15/2002 PHI vs. HOU W 50 58 21 42 50.0 2 3 66.7 14 14 100.0 0 2 2 6 2 0 6 2 8
+p454
+aVAaron McKie PHI 01/11/2002 PHI vs. SAS W 28 6 2 6 33.3 0 2 0.0 2 2 100.0 0 1 1 6 0 0 0 1 7
+p455
+aVJabari Smith PHI 01/11/2002 PHI vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p456
+aVSamuel Dalembert PHI 01/11/2002 PHI vs. SAS W 6 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 0 0 1 0 0 3
+p457
+aVCorie Blount PHI 01/11/2002 PHI vs. SAS W 17 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 0 3 0 0 3 -2
+p458
+aVDerrick Coleman PHI 01/11/2002 PHI vs. SAS W 33 17 7 11 63.6 1 1 100.0 2 2 100.0 1 6 7 0 0 1 1 3 12
+p459
+aVDikembe Mutombo PHI 01/11/2002 PHI vs. SAS W 29 4 2 5 40.0 0 0 - 0 0 - 1 11 12 0 0 1 3 5 13
+p460
+aVSpeedy Claxton PHI 01/11/2002 PHI vs. SAS W 22 11 4 8 50.0 0 1 0.0 3 3 100.0 1 1 2 1 2 1 1 1 11
+p461
+aVVonteego Cummings PHI 01/11/2002 PHI vs. SAS W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -1
+p462
+aVAllen Iverson PHI 01/11/2002 PHI vs. SAS W 43 37 14 31 45.2 0 3 0.0 9 10 90.0 1 3 4 6 4 0 3 1 14
+p463
+aVEric Snow PHI 01/11/2002 PHI vs. SAS W 31 7 2 6 33.3 0 0 - 3 3 100.0 0 1 1 5 4 0 1 3 13
+p464
+aVMatt Harpring PHI 01/11/2002 PHI vs. SAS W 26 7 2 5 40.0 0 1 0.0 3 4 75.0 3 4 7 2 1 0 0 2 16
+p465
+aVEric Snow PHI 01/09/2002 PHI vs. ORL L 42 9 3 11 27.3 0 1 0.0 3 4 75.0 0 5 5 8 3 0 2 2 -8
+p466
+aVRaja Bell PHI 01/09/2002 PHI vs. ORL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 5
+p467
+aVSpeedy Claxton PHI 01/09/2002 PHI vs. ORL L 11 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 1 0 0 1 1 -12
+p468
+aVMatt Harpring PHI 01/09/2002 PHI vs. ORL L 31 12 4 9 44.4 0 2 0.0 4 6 66.7 2 9 11 1 0 0 0 3 -7
+p469
+aVAllen Iverson PHI 01/09/2002 PHI vs. ORL L 43 27 12 28 42.9 0 4 0.0 3 4 75.0 0 2 2 2 3 0 3 2 -4
+p470
+aVAaron McKie PHI 01/09/2002 PHI vs. ORL L 32 11 3 8 37.5 1 2 50.0 4 4 100.0 3 2 5 4 0 1 1 2 -14
+p471
+aVDikembe Mutombo PHI 01/09/2002 PHI vs. ORL L 38 13 4 7 57.1 0 0 - 5 5 100.0 5 15 20 1 0 1 3 3 -2
+p472
+aVDerrick Coleman PHI 01/09/2002 PHI vs. ORL L 41 13 6 10 60.0 1 1 100.0 0 0 - 1 3 4 5 0 2 2 4 -13
+p473
+aVAllen Iverson PHI 01/07/2002 PHI vs. LAC W 37 30 10 22 45.5 1 2 50.0 9 11 81.8 3 7 10 11 4 0 3 1 31
+p474
+aVSamuel Dalembert PHI 01/07/2002 PHI vs. LAC W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -4
+p475
+aVRaja Bell PHI 01/07/2002 PHI vs. LAC W 5 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p476
+aVDikembe Mutombo PHI 01/07/2002 PHI vs. LAC W 31 16 7 8 87.5 0 0 - 2 3 66.7 6 6 12 0 0 2 1 3 26
+p477
+aVMatt Harpring PHI 01/07/2002 PHI vs. LAC W 36 19 7 16 43.8 0 0 - 5 8 62.5 3 9 12 4 1 0 2 2 28
+p478
+aVAaron McKie PHI 01/07/2002 PHI vs. LAC W 25 14 6 9 66.7 2 3 66.7 0 0 - 0 2 2 1 0 1 0 1 12
+p479
+aVSpeedy Claxton PHI 01/07/2002 PHI vs. LAC W 26 6 3 9 33.3 0 1 0.0 0 0 - 3 1 4 4 0 0 1 2 0
+p480
+aVDerrick Coleman PHI 01/07/2002 PHI vs. LAC W 32 13 6 9 66.7 1 1 100.0 0 0 - 2 6 8 3 1 2 0 5 20
+p481
+aVJabari Smith PHI 01/07/2002 PHI vs. LAC W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p482
+aVVonteego Cummings PHI 01/07/2002 PHI vs. LAC W 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 -4
+p483
+aVEric Snow PHI 01/07/2002 PHI vs. LAC W 28 6 3 7 42.9 0 0 - 0 0 - 1 3 4 4 1 0 2 4 23
+p484
+aVMatt Harpring PHI 01/05/2002 PHI @ POR L 21 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 -2
+p485
+aVSamuel Dalembert PHI 01/05/2002 PHI @ POR L 1 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p486
+aVRaja Bell PHI 01/05/2002 PHI @ POR L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p487
+aVEric Snow PHI 01/05/2002 PHI @ POR L 32 15 6 15 40.0 0 0 - 3 5 60.0 0 0 0 7 0 0 0 2 -6
+p488
+aVJabari Smith PHI 01/05/2002 PHI @ POR L 8 1 0 4 0.0 0 2 0.0 1 2 50.0 0 1 1 0 1 0 0 0 2
+p489
+aVAaron McKie PHI 01/05/2002 PHI @ POR L 33 17 5 10 50.0 4 5 80.0 3 3 100.0 2 4 6 4 4 0 1 1 -3
+p490
+aVSpeedy Claxton PHI 01/05/2002 PHI @ POR L 20 4 2 10 20.0 0 0 - 0 0 - 0 2 2 1 2 0 2 2 -6
+p491
+aVDerrick Coleman PHI 01/05/2002 PHI @ POR L 40 21 9 11 81.8 0 0 - 3 3 100.0 3 5 8 2 0 1 4 2 -12
+p492
+aVAllen Iverson PHI 01/05/2002 PHI @ POR L 42 18 7 20 35.0 1 4 25.0 3 3 100.0 0 4 4 5 3 1 5 1 -8
+p493
+aVDikembe Mutombo PHI 01/05/2002 PHI @ POR L 36 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 1 0 0 0 1 -14
+p494
+aVVonteego Cummings PHI 01/05/2002 PHI @ POR L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p495
+aVAllen Iverson PHI 01/04/2002 PHI @ SEA W 43 22 8 21 38.1 2 4 50.0 4 6 66.7 1 2 3 3 3 0 1 4 18
+p496
+aVCorie Blount PHI 01/04/2002 PHI @ SEA W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p497
+aVMatt Harpring PHI 01/04/2002 PHI @ SEA W 28 14 6 12 50.0 0 2 0.0 2 2 100.0 2 1 3 1 2 0 3 2 20
+p498
+aVEric Snow PHI 01/04/2002 PHI @ SEA W 31 8 4 11 36.4 0 0 - 0 0 - 2 3 5 4 3 0 2 2 12
+p499
+aVRaja Bell PHI 01/04/2002 PHI @ SEA W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p500
+aVJabari Smith PHI 01/04/2002 PHI @ SEA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p501
+aVSamuel Dalembert PHI 01/04/2002 PHI @ SEA W 5 0 0 2 0.0 0 0 - 0 0 - 3 0 3 1 0 0 0 0 -6
+p502
+aVVonteego Cummings PHI 01/04/2002 PHI @ SEA W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p503
+aVDikembe Mutombo PHI 01/04/2002 PHI @ SEA W 31 9 2 2 100.0 0 0 - 5 8 62.5 0 8 8 1 0 5 4 3 12
+p504
+aVSpeedy Claxton PHI 01/04/2002 PHI @ SEA W 21 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 5 3 0 2 2 -7
+p505
+aVDerrick Coleman PHI 01/04/2002 PHI @ SEA W 30 14 6 13 46.2 0 0 - 2 3 66.7 2 8 10 1 3 3 1 0 12
+p506
+aVAaron McKie PHI 01/04/2002 PHI @ SEA W 30 12 4 9 44.4 2 4 50.0 2 2 100.0 0 5 5 4 2 0 1 0 9
+p507
+aVAaron McKie PHI 01/02/2002 PHI @ PHX W 29 16 6 12 50.0 2 3 66.7 2 4 50.0 1 6 7 5 1 0 4 3 6
+p508
+aVJabari Smith PHI 01/02/2002 PHI @ PHX W 7 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 8
+p509
+aVEric Snow PHI 01/02/2002 PHI @ PHX W 36 6 1 1 100.0 0 0 - 4 4 100.0 0 3 3 6 0 1 1 0 4
+p510
+aVSpeedy Claxton PHI 01/02/2002 PHI @ PHX W 18 7 2 5 40.0 0 0 - 3 4 75.0 1 3 4 2 3 0 2 3 16
+p511
+aVRaja Bell PHI 01/02/2002 PHI @ PHX W 5 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 6
+p512
+aVDikembe Mutombo PHI 01/02/2002 PHI @ PHX W 38 18 7 13 53.8 0 0 - 4 4 100.0 2 4 6 2 0 1 1 4 12
+p513
+aVVonteego Cummings PHI 01/02/2002 PHI @ PHX W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 0 2
+p514
+aVAllen Iverson PHI 01/02/2002 PHI @ PHX W 43 29 9 25 36.0 2 5 40.0 9 9 100.0 1 5 6 3 1 0 6 1 22
+p515
+aVCorie Blount PHI 01/02/2002 PHI @ PHX W 25 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 2 0 0 3 11
+p516
+aVSamuel Dalembert PHI 01/02/2002 PHI @ PHX W 5 0 0 1 0.0 0 0 - 0 2 0.0 3 3 6 1 0 0 0 0 4
+p517
+aVMatt Harpring PHI 01/02/2002 PHI @ PHX W 33 15 5 11 45.5 0 0 - 5 6 83.3 1 9 10 2 0 1 2 2 14
+p518
+aVCorie Blount PHI 12/29/2001 PHI @ UTA L 19 2 1 3 33.3 0 0 - 0 0 - 3 4 7 1 0 2 1 4 -10
+p519
+aVMatt Harpring PHI 12/29/2001 PHI @ UTA L 36 19 7 11 63.6 1 2 50.0 4 4 100.0 6 4 10 1 0 0 2 5 1
+p520
+aVAaron McKie PHI 12/29/2001 PHI @ UTA L 30 14 4 12 33.3 1 2 50.0 5 8 62.5 2 6 8 5 0 1 2 4 -14
+p521
+aVEric Snow PHI 12/29/2001 PHI @ UTA L 35 12 4 11 36.4 0 0 - 4 4 100.0 0 1 1 3 1 1 3 3 -9
+p522
+aVSamuel Dalembert PHI 12/29/2001 PHI @ UTA L 13 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 3 2 2 -8
+p523
+aVDerrick Coleman PHI 12/29/2001 PHI @ UTA L 14 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 7
+p524
+aVAllen Iverson PHI 12/29/2001 PHI @ UTA L 44 21 7 25 28.0 1 3 33.3 6 10 60.0 0 3 3 5 2 1 4 0 -4
+p525
+aVSpeedy Claxton PHI 12/29/2001 PHI @ UTA L 17 1 0 3 0.0 0 0 - 1 4 25.0 0 2 2 2 1 0 1 3 3
+p526
+aVDikembe Mutombo PHI 12/29/2001 PHI @ UTA L 32 2 1 2 50.0 0 0 - 0 2 0.0 0 10 10 0 1 2 2 3 -6
+p527
+aVMatt Harpring PHI 12/28/2001 PHI @ DEN L 19 10 5 8 62.5 0 0 - 0 0 - 0 2 2 0 0 0 2 1 0
+p528
+aVDerrick Coleman PHI 12/28/2001 PHI @ DEN L 37 12 6 11 54.5 0 0 - 0 1 0.0 3 4 7 1 1 1 3 1 -2
+p529
+aVCorie Blount PHI 12/28/2001 PHI @ DEN L 13 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -2
+p530
+aVRaja Bell PHI 12/28/2001 PHI @ DEN L 6 1 0 1 0.0 0 1 0.0 1 2 50.0 1 0 1 1 0 0 0 0 0
+p531
+aVEric Snow PHI 12/28/2001 PHI @ DEN L 34 6 3 11 27.3 0 0 - 0 0 - 0 1 1 4 1 0 2 6 -1
+p532
+aVAllen Iverson PHI 12/28/2001 PHI @ DEN L 48 38 14 29 48.3 1 3 33.3 9 11 81.8 1 4 5 8 2 0 2 0 -3
+p533
+aVAaron McKie PHI 12/28/2001 PHI @ DEN L 28 8 3 12 25.0 0 2 0.0 2 2 100.0 0 2 2 2 2 0 1 1 -4
+p534
+aVSpeedy Claxton PHI 12/28/2001 PHI @ DEN L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 0 0 2 0 0
+p535
+aVDikembe Mutombo PHI 12/28/2001 PHI @ DEN L 44 13 4 7 57.1 0 0 - 5 6 83.3 6 7 13 2 1 5 2 3 -3
+p536
+aVMichael Ruffin PHI 12/26/2001 PHI @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p537
+aVDikembe Mutombo PHI 12/26/2001 PHI @ LAC W 35 15 6 8 75.0 0 0 - 3 4 75.0 2 5 7 1 1 0 0 3 20
+p538
+aVVonteego Cummings PHI 12/26/2001 PHI @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p539
+aVAllen Iverson PHI 12/26/2001 PHI @ LAC W 45 23 9 28 32.1 0 4 0.0 5 9 55.6 0 2 2 10 3 0 3 1 14
+p540
+aVDerrick Coleman PHI 12/26/2001 PHI @ LAC W 35 17 6 16 37.5 0 1 0.0 5 5 100.0 7 6 13 1 1 1 0 2 8
+p541
+aVAaron McKie PHI 12/26/2001 PHI @ LAC W 28 13 6 11 54.5 1 3 33.3 0 0 - 0 2 2 4 2 0 2 2 5
+p542
+aVRaja Bell PHI 12/26/2001 PHI @ LAC W 15 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -8
+p543
+aVMatt Harpring PHI 12/26/2001 PHI @ LAC W 22 10 4 5 80.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 2 6
+p544
+aVEric Snow PHI 12/26/2001 PHI @ LAC W 34 15 7 8 87.5 0 0 - 1 3 33.3 1 2 3 1 0 0 5 2 26
+p545
+aVCorie Blount PHI 12/26/2001 PHI @ LAC W 23 5 1 2 50.0 0 0 - 3 4 75.0 1 5 6 1 2 0 2 4 3
+p546
+aVSamuel Dalembert PHI 12/26/2001 PHI @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p547
+aVAllen Iverson PHI 12/25/2001 PHI @ LAL L 44 31 11 28 39.3 2 5 40.0 7 8 87.5 0 8 8 4 1 2 4 2 -2
+p548
+aVDikembe Mutombo PHI 12/25/2001 PHI @ LAL L 30 12 4 12 33.3 0 0 - 4 4 100.0 7 6 13 0 0 1 2 2 -1
+p549
+aVCorie Blount PHI 12/25/2001 PHI @ LAL L 21 2 1 2 50.0 0 0 - 0 0 - 3 2 5 1 1 0 0 3 0
+p550
+aVAaron McKie PHI 12/25/2001 PHI @ LAL L 29 8 4 13 30.8 0 1 0.0 0 0 - 0 4 4 0 1 0 2 2 -1
+p551
+aVDerrick Coleman PHI 12/25/2001 PHI @ LAL L 31 12 4 11 36.4 0 1 0.0 4 6 66.7 2 8 10 0 0 0 2 2 -9
+p552
+aVEric Snow PHI 12/25/2001 PHI @ LAL L 39 4 2 8 25.0 0 0 - 0 0 - 0 5 5 10 1 0 3 2 -14
+p553
+aVRaja Bell PHI 12/25/2001 PHI @ LAL L 12 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 2
+p554
+aVMichael Ruffin PHI 12/25/2001 PHI @ LAL L 1 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -2
+p555
+aVMatt Harpring PHI 12/25/2001 PHI @ LAL L 33 11 5 7 71.4 1 1 100.0 0 1 0.0 2 2 4 2 1 0 2 4 -3
+p556
+aVRaja Bell PHI 12/21/2001 PHI vs. ATL W 12 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 1 1 0 0 2 -15
+p557
+aVDamone Brown PHI 12/21/2001 PHI vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p558
+aVMatt Harpring PHI 12/21/2001 PHI vs. ATL W 26 12 6 11 54.5 0 0 - 0 0 - 1 4 5 2 0 0 3 2 11
+p559
+aVSamuel Dalembert PHI 12/21/2001 PHI vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p560
+aVDerrick Coleman PHI 12/21/2001 PHI vs. ATL W 39 16 5 12 41.7 1 2 50.0 5 6 83.3 5 6 11 2 0 0 3 4 3
+p561
+aVDikembe Mutombo PHI 12/21/2001 PHI vs. ATL W 35 11 3 6 50.0 0 0 - 5 6 83.3 2 10 12 2 2 4 1 3 24
+p562
+aVEric Snow PHI 12/21/2001 PHI vs. ATL W 36 9 4 11 36.4 0 0 - 1 2 50.0 0 2 2 6 1 0 1 1 18
+p563
+aVCorie Blount PHI 12/21/2001 PHI vs. ATL W 19 0 0 1 0.0 0 0 - 0 0 - 3 4 7 1 0 0 2 2 -1
+p564
+aVAllen Iverson PHI 12/21/2001 PHI vs. ATL W 40 24 7 17 41.2 3 6 50.0 7 11 63.6 0 5 5 7 4 0 2 5 26
+p565
+aVAaron McKie PHI 12/21/2001 PHI vs. ATL W 30 17 6 12 50.0 2 6 33.3 3 3 100.0 1 4 5 2 3 0 4 0 -8
+p566
+aVVonteego Cummings PHI 12/21/2001 PHI vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p567
+aVDikembe Mutombo PHI 12/19/2001 PHI vs. CHH L 40 6 2 6 33.3 0 0 - 2 2 100.0 0 12 12 0 0 2 1 5 -1
+p568
+aVCorie Blount PHI 12/19/2001 PHI vs. CHH L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 1 0 0 3 -6
+p569
+aVRaja Bell PHI 12/19/2001 PHI vs. CHH L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -4
+p570
+aVDerrick Coleman PHI 12/19/2001 PHI vs. CHH L 41 6 2 7 28.6 0 0 - 2 2 100.0 3 9 12 2 0 4 3 2 -10
+p571
+aVAllen Iverson PHI 12/19/2001 PHI vs. CHH L 48 38 13 30 43.3 1 3 33.3 11 15 73.3 1 3 4 5 2 1 2 2 -9
+p572
+aVEric Snow PHI 12/19/2001 PHI vs. CHH L 35 6 3 8 37.5 0 2 0.0 0 0 - 0 1 1 8 2 1 0 1 -2
+p573
+aVMatt Harpring PHI 12/19/2001 PHI vs. CHH L 15 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -9
+p574
+aVAaron McKie PHI 12/19/2001 PHI vs. CHH L 35 17 6 13 46.2 1 5 20.0 4 6 66.7 0 6 6 4 2 2 3 0 3
+p575
+aVVonteego Cummings PHI 12/19/2001 PHI vs. CHH L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p576
+aVAaron McKie PHI 12/17/2001 PHI vs. BOS W 30 17 7 13 53.8 1 3 33.3 2 2 100.0 0 4 4 6 1 0 3 2 19
+p577
+aVMatt Harpring PHI 12/17/2001 PHI vs. BOS W 25 6 1 6 16.7 0 0 - 4 6 66.7 2 3 5 1 2 0 0 2 -1
+p578
+aVRaja Bell PHI 12/17/2001 PHI vs. BOS W 14 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 5 1 0 1 2 10
+p579
+aVVonteego Cummings PHI 12/17/2001 PHI vs. BOS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -2
+p580
+aVDamone Brown PHI 12/17/2001 PHI vs. BOS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -2
+p581
+aVDerrick Coleman PHI 12/17/2001 PHI vs. BOS W 34 9 4 9 44.4 0 1 0.0 1 1 100.0 2 7 9 1 0 1 4 3 16
+p582
+aVSamuel Dalembert PHI 12/17/2001 PHI vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p583
+aVDikembe Mutombo PHI 12/17/2001 PHI vs. BOS W 28 17 5 7 71.4 0 0 - 7 8 87.5 4 10 14 0 0 2 2 5 7
+p584
+aVEric Snow PHI 12/17/2001 PHI vs. BOS W 28 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 5 1 0 4 3 6
+p585
+aVMichael Ruffin PHI 12/17/2001 PHI vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -2
+p586
+aVCorie Blount PHI 12/17/2001 PHI vs. BOS W 23 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 1 2 1 16
+p587
+aVAllen Iverson PHI 12/17/2001 PHI vs. BOS W 42 37 14 24 58.3 1 3 33.3 8 11 72.7 0 4 4 2 0 0 3 2 15
+p588
+aVSamuel Dalembert PHI 12/15/2001 PHI @ CLE W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 2
+p589
+aVMatt Harpring PHI 12/15/2001 PHI @ CLE W 29 9 4 10 40.0 0 0 - 1 2 50.0 3 4 7 1 1 0 2 1 0
+p590
+aVEric Snow PHI 12/15/2001 PHI @ CLE W 38 13 4 5 80.0 0 0 - 5 5 100.0 0 1 1 12 1 0 4 2 -5
+p591
+aVDerrick Coleman PHI 12/15/2001 PHI @ CLE W 41 13 6 15 40.0 1 2 50.0 0 0 - 2 11 13 2 1 0 1 3 4
+p592
+aVAllen Iverson PHI 12/15/2001 PHI @ CLE W 46 40 18 29 62.1 0 1 0.0 4 5 80.0 1 5 6 9 3 0 6 1 1
+p593
+aVRaja Bell PHI 12/15/2001 PHI @ CLE W 14 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 8
+p594
+aVDikembe Mutombo PHI 12/15/2001 PHI @ CLE W 22 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 0 1 4 5 -1
+p595
+aVAaron McKie PHI 12/15/2001 PHI @ CLE W 37 10 4 8 50.0 0 1 0.0 2 2 100.0 3 4 7 3 2 2 5 2 8
+p596
+aVMichael Ruffin PHI 12/15/2001 PHI @ CLE W 11 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 0 1 2 -2
+p597
+aVMatt Harpring PHI 12/14/2001 PHI vs. MIL L 30 6 3 13 23.1 0 0 - 0 0 - 3 9 12 3 0 0 2 4 -2
+p598
+aVDerrick Coleman PHI 12/14/2001 PHI vs. MIL L 39 16 6 13 46.2 1 1 100.0 3 4 75.0 2 11 13 2 2 2 4 3 -9
+p599
+aVRaja Bell PHI 12/14/2001 PHI vs. MIL L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -1
+p600
+aVAaron McKie PHI 12/14/2001 PHI vs. MIL L 31 16 7 14 50.0 2 5 40.0 0 1 0.0 0 3 3 5 1 0 1 2 -10
+p601
+aVDamone Brown PHI 12/14/2001 PHI vs. MIL L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p602
+aVMichael Ruffin PHI 12/14/2001 PHI vs. MIL L 18 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 -13
+p603
+aVVonteego Cummings PHI 12/14/2001 PHI vs. MIL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -1
+p604
+aVAllen Iverson PHI 12/14/2001 PHI vs. MIL L 43 17 7 22 31.8 0 2 0.0 3 5 60.0 0 3 3 6 3 0 5 2 -14
+p605
+aVSamuel Dalembert PHI 12/14/2001 PHI vs. MIL L 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p606
+aVEric Snow PHI 12/14/2001 PHI vs. MIL L 32 14 6 12 50.0 0 0 - 2 4 50.0 2 1 3 5 2 0 4 4 -19
+p607
+aVDikembe Mutombo PHI 12/14/2001 PHI vs. MIL L 36 5 1 4 25.0 0 0 - 3 4 75.0 4 6 10 1 0 0 2 1 -9
+p608
+aVRaja Bell PHI 12/11/2001 PHI @ ATL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p609
+aVAaron McKie PHI 12/11/2001 PHI @ ATL L 37 16 5 8 62.5 1 4 25.0 5 6 83.3 1 6 7 4 1 1 4 2 2
+p610
+aVCorie Blount PHI 12/11/2001 PHI @ ATL L 38 4 2 8 25.0 0 0 - 0 0 - 5 4 9 2 1 1 1 1 2
+p611
+aVMatt Harpring PHI 12/11/2001 PHI @ ATL L 36 15 7 17 41.2 0 0 - 1 2 50.0 0 4 4 2 0 1 2 2 3
+p612
+aVMichael Ruffin PHI 12/11/2001 PHI @ ATL L 15 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 2 0 -1
+p613
+aVVonteego Cummings PHI 12/11/2001 PHI @ ATL L 22 6 3 8 37.5 0 2 0.0 0 0 - 1 0 1 3 0 0 2 1 -5
+p614
+aVAllen Iverson PHI 12/11/2001 PHI @ ATL L 45 34 15 29 51.7 1 4 25.0 3 3 100.0 2 2 4 5 5 0 3 2 -4
+p615
+aVDikembe Mutombo PHI 12/11/2001 PHI @ ATL L 44 8 3 8 37.5 0 0 - 2 2 100.0 4 11 15 2 0 3 1 1 -5
+p616
+aVVonteego Cummings PHI 12/08/2001 PHI @ MEM L 43 28 12 16 75.0 0 0 - 4 5 80.0 1 3 4 4 0 0 4 1 -5
+p617
+aVDamone Brown PHI 12/08/2001 PHI @ MEM L 18 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 2 4 2
+p618
+aVSpeedy Claxton PHI 12/08/2001 PHI @ MEM L 11 6 3 7 42.9 0 0 - 0 0 - 0 3 3 2 0 0 1 0 -7
+p619
+aVMatt Harpring PHI 12/08/2001 PHI @ MEM L 37 22 7 18 38.9 0 2 0.0 8 9 88.9 3 2 5 1 1 0 2 1 -7
+p620
+aVRaja Bell PHI 12/08/2001 PHI @ MEM L 35 8 3 9 33.3 0 2 0.0 2 2 100.0 0 3 3 2 0 1 4 3 -10
+p621
+aVDikembe Mutombo PHI 12/08/2001 PHI @ MEM L 42 11 5 10 50.0 0 0 - 1 2 50.0 3 14 17 3 2 2 5 3 4
+p622
+aVMichael Ruffin PHI 12/08/2001 PHI @ MEM L 19 2 1 3 33.3 0 0 - 0 0 - 3 4 7 0 0 1 0 4 -17
+p623
+aVCorie Blount PHI 12/08/2001 PHI @ MEM L 34 6 2 7 28.6 0 0 - 2 2 100.0 3 4 7 2 0 0 1 3 -5
+p624
+aVSamuel Dalembert PHI 12/08/2001 PHI @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p625
+aVRaja Bell PHI 12/07/2001 PHI @ SAS L 19 4 2 5 40.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -3
+p626
+aVSamuel Dalembert PHI 12/07/2001 PHI @ SAS L 6 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 1 0 1 -1
+p627
+aVMatt Harpring PHI 12/07/2001 PHI @ SAS L 30 14 5 12 41.7 1 1 100.0 3 4 75.0 4 5 9 1 0 0 1 4 -10
+p628
+aVDamone Brown PHI 12/07/2001 PHI @ SAS L 1 3 1 2 50.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 0 0 5
+p629
+aVAaron McKie PHI 12/07/2001 PHI @ SAS L 41 11 4 19 21.1 1 2 50.0 2 2 100.0 0 5 5 5 0 0 2 2 -10
+p630
+aVVonteego Cummings PHI 12/07/2001 PHI @ SAS L 19 6 2 6 33.3 2 2 100.0 0 0 - 2 2 4 0 0 0 0 3 -7
+p631
+aVSpeedy Claxton PHI 12/07/2001 PHI @ SAS L 38 19 8 15 53.3 0 1 0.0 3 4 75.0 0 1 1 3 2 0 4 2 -5
+p632
+aVCorie Blount PHI 12/07/2001 PHI @ SAS L 24 4 2 5 40.0 0 0 - 0 1 0.0 4 3 7 1 0 1 1 3 -11
+p633
+aVMichael Ruffin PHI 12/07/2001 PHI @ SAS L 20 1 0 2 0.0 0 0 - 1 2 50.0 3 3 6 1 2 1 1 4 0
+p634
+aVDikembe Mutombo PHI 12/07/2001 PHI @ SAS L 44 14 7 15 46.7 0 0 - 0 0 - 1 9 10 2 0 2 0 2 -8
+p635
+aVRaja Bell PHI 12/05/2001 PHI @ GSW L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -3
+p636
+aVSpeedy Claxton PHI 12/05/2001 PHI @ GSW L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 3 -13
+p637
+aVVonteego Cummings PHI 12/05/2001 PHI @ GSW L 2 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p638
+aVDerrick Coleman PHI 12/05/2001 PHI @ GSW L 38 14 6 13 46.2 0 0 - 2 3 66.7 2 4 6 3 0 0 2 5 -2
+p639
+aVAllen Iverson PHI 12/05/2001 PHI @ GSW L 44 23 9 18 50.0 1 2 50.0 4 6 66.7 1 4 5 7 3 0 4 1 -4
+p640
+aVDikembe Mutombo PHI 12/05/2001 PHI @ GSW L 30 12 4 9 44.4 0 0 - 4 6 66.7 2 6 8 1 0 5 3 6 -1
+p641
+aVCorie Blount PHI 12/05/2001 PHI @ GSW L 26 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 2 0 1 3 -11
+p642
+aVMichael Ruffin PHI 12/05/2001 PHI @ GSW L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 4
+p643
+aVMatt Harpring PHI 12/05/2001 PHI @ GSW L 34 25 12 17 70.6 1 2 50.0 0 0 - 3 2 5 3 0 0 1 4 9
+p644
+aVAaron McKie PHI 12/05/2001 PHI @ GSW L 40 7 2 9 22.2 1 5 20.0 2 2 100.0 0 1 1 11 2 0 3 3 -7
+p645
+aVSamuel Dalembert PHI 12/04/2001 PHI @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p646
+aVVonteego Cummings PHI 12/04/2001 PHI @ SAC L 20 10 4 7 57.1 0 0 - 2 4 50.0 2 3 5 1 0 1 2 5 -7
+p647
+aVMatt Harpring PHI 12/04/2001 PHI @ SAC L 26 2 1 9 11.1 0 1 0.0 0 0 - 2 4 6 2 0 0 0 0 -5
+p648
+aVDikembe Mutombo PHI 12/04/2001 PHI @ SAC L 37 10 4 6 66.7 0 0 - 2 2 100.0 4 9 13 1 1 6 1 3 1
+p649
+aVAllen Iverson PHI 12/04/2001 PHI @ SAC L 47 24 9 30 30.0 1 4 25.0 5 6 83.3 1 3 4 6 1 1 5 3 -11
+p650
+aVSpeedy Claxton PHI 12/04/2001 PHI @ SAC L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 1 1 -5
+p651
+aVRaja Bell PHI 12/04/2001 PHI @ SAC L 36 14 6 12 50.0 0 0 - 2 5 40.0 2 3 5 2 1 0 0 1 -1
+p652
+aVCorie Blount PHI 12/04/2001 PHI @ SAC L 17 3 1 3 33.3 0 0 - 1 2 50.0 4 3 7 0 0 0 0 1 -13
+p653
+aVDamone Brown PHI 12/04/2001 PHI @ SAC L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -1
+p654
+aVDerrick Coleman PHI 12/04/2001 PHI @ SAC L 40 15 7 16 43.8 1 1 100.0 0 0 - 2 7 9 3 3 0 2 4 -10
+p655
+aVMichael Ruffin PHI 12/04/2001 PHI @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p656
+aVVonteego Cummings PHI 12/02/2001 PHI vs. MEM L 15 1 0 5 0.0 0 1 0.0 1 2 50.0 1 0 1 2 0 0 1 1 -11
+p657
+aVAllen Iverson PHI 12/02/2001 PHI vs. MEM L 43 30 9 29 31.0 1 8 12.5 11 14 78.6 2 2 4 10 3 0 2 2 -4
+p658
+aVRaja Bell PHI 12/02/2001 PHI vs. MEM L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -5
+p659
+aVCorie Blount PHI 12/02/2001 PHI vs. MEM L 20 4 2 7 28.6 0 0 - 0 0 - 2 3 5 1 0 1 1 2 -10
+p660
+aVMichael Ruffin PHI 12/02/2001 PHI vs. MEM L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p661
+aVDerrick Coleman PHI 12/02/2001 PHI vs. MEM L 35 16 8 22 36.4 0 1 0.0 0 1 0.0 3 3 6 2 0 1 0 3 -4
+p662
+aVMatt Harpring PHI 12/02/2001 PHI vs. MEM L 38 12 6 10 60.0 0 1 0.0 0 0 - 3 7 10 0 2 0 1 2 4
+p663
+aVDikembe Mutombo PHI 12/02/2001 PHI vs. MEM L 40 14 6 12 50.0 0 0 - 2 3 66.7 8 6 14 1 0 9 2 2 -1
+p664
+aVSpeedy Claxton PHI 12/02/2001 PHI vs. MEM L 43 8 3 5 60.0 0 0 - 2 2 100.0 2 4 6 8 4 0 3 2 1
+p665
+aVAaron McKie PHI 12/01/2001 PHI @ CHI W 18 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 4 2 0 0 0 11
+p666
+aVVonteego Cummings PHI 12/01/2001 PHI @ CHI W 9 8 4 4 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -4
+p667
+aVTim James PHI 12/01/2001 PHI @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -6
+p668
+aVRaja Bell PHI 12/01/2001 PHI @ CHI W 26 12 6 12 50.0 0 0 - 0 0 - 3 0 3 0 1 0 2 3 0
+p669
+aVDamone Brown PHI 12/01/2001 PHI @ CHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p670
+aVMichael Ruffin PHI 12/01/2001 PHI @ CHI W 25 5 2 5 40.0 0 0 - 1 4 25.0 3 4 7 1 3 0 2 4 7
+p671
+aVDikembe Mutombo PHI 12/01/2001 PHI @ CHI W 39 16 6 12 50.0 0 0 - 4 7 57.1 3 16 19 0 0 10 2 3 24
+p672
+aVSpeedy Claxton PHI 12/01/2001 PHI @ CHI W 32 0 0 6 0.0 0 0 - 0 0 - 0 6 6 7 1 0 1 4 10
+p673
+aVAllen Iverson PHI 12/01/2001 PHI @ CHI W 42 30 11 26 42.3 2 4 50.0 6 6 100.0 0 5 5 8 2 0 3 2 22
+p674
+aVCorie Blount PHI 12/01/2001 PHI @ CHI W 17 1 0 3 0.0 0 0 - 1 2 50.0 2 1 3 2 0 0 1 3 15
+p675
+aVMatt Harpring PHI 12/01/2001 PHI @ CHI W 26 16 7 11 63.6 0 0 - 2 2 100.0 4 5 9 0 1 0 4 2 12
+p676
+aVSpeedy Claxton PHI 11/28/2001 PHI vs. WAS L 16 4 2 9 22.2 0 0 - 0 0 - 0 2 2 2 1 0 0 4 1
+p677
+aVAllen Iverson PHI 11/28/2001 PHI vs. WAS L 46 40 15 31 48.4 3 9 33.3 7 7 100.0 3 3 6 3 1 0 9 3 -7
+p678
+aVRaja Bell PHI 11/28/2001 PHI vs. WAS L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p679
+aVDerrick Coleman PHI 11/28/2001 PHI vs. WAS L 41 15 4 7 57.1 0 0 - 7 8 87.5 2 3 5 2 0 2 4 3 -4
+p680
+aVMatt Harpring PHI 11/28/2001 PHI vs. WAS L 34 13 5 12 41.7 1 1 100.0 2 4 50.0 3 6 9 0 0 0 0 3 -1
+p681
+aVMichael Ruffin PHI 11/28/2001 PHI vs. WAS L 20 2 1 2 50.0 0 0 - 0 0 - 2 5 7 1 0 1 2 2 0
+p682
+aVDikembe Mutombo PHI 11/28/2001 PHI vs. WAS L 33 6 2 5 40.0 0 0 - 2 4 50.0 4 1 5 0 0 3 4 1 -12
+p683
+aVAaron McKie PHI 11/28/2001 PHI vs. WAS L 42 5 2 7 28.6 0 1 0.0 1 1 100.0 0 10 10 8 3 0 2 2 -12
+p684
+aVRaja Bell PHI 11/25/2001 PHI @ TOR L 10 6 1 5 20.0 0 2 0.0 4 4 100.0 1 0 1 0 0 0 0 1 -6
+p685
+aVDamone Brown PHI 11/25/2001 PHI @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p686
+aVMichael Ruffin PHI 11/25/2001 PHI @ TOR L 17 0 0 3 0.0 0 0 - 0 0 - 3 2 5 0 0 0 1 1 -15
+p687
+aVAaron McKie PHI 11/25/2001 PHI @ TOR L 40 23 9 11 81.8 3 4 75.0 2 2 100.0 1 1 2 3 2 0 1 0 -13
+p688
+aVTim James PHI 11/25/2001 PHI @ TOR L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p689
+aVAllen Iverson PHI 11/25/2001 PHI @ TOR L 42 18 7 24 29.2 1 6 16.7 3 4 75.0 1 4 5 8 3 0 3 1 -12
+p690
+aVDikembe Mutombo PHI 11/25/2001 PHI @ TOR L 41 11 5 10 50.0 0 0 - 1 1 100.0 2 8 10 0 0 2 1 1 -16
+p691
+aVDerrick Coleman PHI 11/25/2001 PHI @ TOR L 34 21 7 18 38.9 0 1 0.0 7 7 100.0 5 3 8 0 0 1 2 2 -1
+p692
+aVSpeedy Claxton PHI 11/25/2001 PHI @ TOR L 28 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 -9
+p693
+aVMatt Harpring PHI 11/25/2001 PHI @ TOR L 23 4 2 8 25.0 0 1 0.0 0 0 - 3 4 7 0 0 0 4 2 -19
+p694
+aVMichael Ruffin PHI 11/23/2001 PHI vs. CLE W 13 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 0 2 0 2 -3
+p695
+aVCorie Blount PHI 11/23/2001 PHI vs. CLE W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 0 10
+p696
+aVVonteego Cummings PHI 11/23/2001 PHI vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 3 1 -9
+p697
+aVAaron McKie PHI 11/23/2001 PHI vs. CLE W 41 16 5 14 35.7 4 10 40.0 2 2 100.0 1 4 5 1 1 0 3 1 15
+p698
+aVDikembe Mutombo PHI 11/23/2001 PHI vs. CLE W 37 9 2 8 25.0 0 0 - 5 7 71.4 4 16 20 1 0 5 3 4 13
+p699
+aVMatt Harpring PHI 11/23/2001 PHI vs. CLE W 40 17 7 14 50.0 0 0 - 3 3 100.0 2 6 8 1 2 0 1 3 -3
+p700
+aVAllen Iverson PHI 11/23/2001 PHI vs. CLE W 41 27 9 30 30.0 1 6 16.7 8 11 72.7 0 8 8 5 3 1 4 2 14
+p701
+aVSpeedy Claxton PHI 11/23/2001 PHI vs. CLE W 32 6 2 3 66.7 0 1 0.0 2 2 100.0 0 2 2 4 2 0 2 4 14
+p702
+aVRaja Bell PHI 11/23/2001 PHI vs. CLE W 22 2 1 5 20.0 0 0 - 0 0 - 2 2 4 3 2 0 1 1 4
+p703
+aVAlvin Jones PHI 11/21/2001 PHI vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p704
+aVDamone Brown PHI 11/21/2001 PHI vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p705
+aVDerrick Coleman PHI 11/21/2001 PHI vs. DET W 31 16 6 18 33.3 0 0 - 4 6 66.7 3 3 6 0 0 0 2 2 -3
+p706
+aVTim James PHI 11/21/2001 PHI vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p707
+aVAaron McKie PHI 11/21/2001 PHI vs. DET W 42 15 4 6 66.7 0 1 0.0 7 8 87.5 0 9 9 4 1 0 3 3 12
+p708
+aVVonteego Cummings PHI 11/21/2001 PHI vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p709
+aVCorie Blount PHI 11/21/2001 PHI vs. DET W 20 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 5 9
+p710
+aVRaja Bell PHI 11/21/2001 PHI vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -9
+p711
+aVAllen Iverson PHI 11/21/2001 PHI vs. DET W 45 38 12 35 34.3 2 6 33.3 12 12 100.0 0 6 6 5 3 0 4 3 8
+p712
+aVSpeedy Claxton PHI 11/21/2001 PHI vs. DET W 16 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 1 1 2 0 0
+p713
+aVMatt Harpring PHI 11/21/2001 PHI vs. DET W 36 6 2 5 40.0 0 0 - 2 4 50.0 3 8 11 1 1 0 1 2 9
+p714
+aVDikembe Mutombo PHI 11/21/2001 PHI vs. DET W 42 13 3 6 50.0 0 0 - 7 8 87.5 4 10 14 2 0 3 1 5 6
+p715
+aVCorie Blount PHI 11/17/2001 PHI @ NJN W 20 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -6
+p716
+aVAlvin Jones PHI 11/17/2001 PHI @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p717
+aVRaja Bell PHI 11/17/2001 PHI @ NJN W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -10
+p718
+aVTim James PHI 11/17/2001 PHI @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p719
+aVAaron McKie PHI 11/17/2001 PHI @ NJN W 41 14 7 10 70.0 0 1 0.0 0 0 - 0 4 4 12 3 0 3 2 16
+p720
+aVAllen Iverson PHI 11/17/2001 PHI @ NJN W 41 28 12 30 40.0 0 5 0.0 4 7 57.1 0 7 7 3 5 0 3 0 13
+p721
+aVVonteego Cummings PHI 11/17/2001 PHI @ NJN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p722
+aVSpeedy Claxton PHI 11/17/2001 PHI @ NJN W 17 5 1 5 20.0 0 0 - 3 6 50.0 1 2 3 2 2 0 0 3 -6
+p723
+aVDamone Brown PHI 11/17/2001 PHI @ NJN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p724
+aVDikembe Mutombo PHI 11/17/2001 PHI @ NJN W 34 8 3 10 30.0 0 0 - 2 2 100.0 7 5 12 2 2 3 1 4 18
+p725
+aVMatt Harpring PHI 11/17/2001 PHI @ NJN W 28 15 6 12 50.0 0 1 0.0 3 4 75.0 4 5 9 0 1 0 3 3 21
+p726
+aVDerrick Coleman PHI 11/17/2001 PHI @ NJN W 41 20 7 12 58.3 1 1 100.0 5 5 100.0 2 6 8 2 0 1 2 4 16
+p727
+aVCorie Blount PHI 11/16/2001 PHI vs. ATL W 20 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 4 18
+p728
+aVAaron McKie PHI 11/16/2001 PHI vs. ATL W 32 20 9 13 69.2 2 3 66.7 0 0 - 1 5 6 7 3 0 0 2 30
+p729
+aVMatt Harpring PHI 11/16/2001 PHI vs. ATL W 33 14 7 17 41.2 0 3 0.0 0 0 - 2 5 7 3 1 0 0 2 13
+p730
+aVAllen Iverson PHI 11/16/2001 PHI vs. ATL W 41 19 5 15 33.3 0 2 0.0 9 12 75.0 0 4 4 6 2 0 5 0 22
+p731
+aVDikembe Mutombo PHI 11/16/2001 PHI vs. ATL W 35 16 4 7 57.1 0 0 - 8 9 88.9 0 7 7 1 1 3 1 3 12
+p732
+aVAlvin Jones PHI 11/16/2001 PHI vs. ATL W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p733
+aVTim James PHI 11/16/2001 PHI vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p734
+aVDamone Brown PHI 11/16/2001 PHI vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p735
+aVVonteego Cummings PHI 11/16/2001 PHI vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p736
+aVSpeedy Claxton PHI 11/16/2001 PHI vs. ATL W 19 4 2 5 40.0 0 0 - 0 1 0.0 1 3 4 4 0 1 0 1 6
+p737
+aVRaja Bell PHI 11/16/2001 PHI vs. ATL W 13 8 4 5 80.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -1
+p738
+aVDerrick Coleman PHI 11/16/2001 PHI vs. ATL W 33 11 4 10 40.0 0 0 - 3 4 75.0 5 2 7 2 2 0 0 3 22
+p739
+aVAlvin Jones PHI 11/14/2001 PHI vs. CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p740
+aVSpeedy Claxton PHI 11/14/2001 PHI vs. CHH W 38 10 2 7 28.6 0 0 - 6 6 100.0 1 4 5 3 3 0 2 5 9
+p741
+aVDamone Brown PHI 11/14/2001 PHI vs. CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p742
+aVCorie Blount PHI 11/14/2001 PHI vs. CHH W 17 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 1 1 1 3 7
+p743
+aVVonteego Cummings PHI 11/14/2001 PHI vs. CHH W 15 5 2 5 40.0 0 1 0.0 1 1 100.0 0 0 0 4 2 0 1 2 7
+p744
+aVMatt Harpring PHI 11/14/2001 PHI vs. CHH W 31 21 8 12 66.7 1 3 33.3 4 5 80.0 3 4 7 0 2 0 0 3 13
+p745
+aVDikembe Mutombo PHI 11/14/2001 PHI vs. CHH W 43 7 2 6 33.3 0 0 - 3 6 50.0 0 7 7 0 2 4 1 1 7
+p746
+aVAllen Iverson PHI 11/14/2001 PHI vs. CHH W 42 33 10 26 38.5 1 6 16.7 12 13 92.3 1 4 5 7 3 0 5 1 9
+p747
+aVDerrick Coleman PHI 11/14/2001 PHI vs. CHH W 34 10 4 13 30.8 0 2 0.0 2 2 100.0 2 6 8 1 1 0 2 2 8
+p748
+aVTim James PHI 11/14/2001 PHI vs. CHH W 11 7 3 5 60.0 0 0 - 1 2 50.0 3 0 3 0 0 0 1 3 5
+p749
+aVRaja Bell PHI 11/14/2001 PHI vs. CHH W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p750
+aVDerrick Coleman PHI 11/13/2001 PHI @ MIA W 38 21 8 16 50.0 1 1 100.0 4 4 100.0 4 8 12 3 3 0 4 3 4
+p751
+aVAlvin Jones PHI 11/13/2001 PHI @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p752
+aVSpeedy Claxton PHI 11/13/2001 PHI @ MIA W 21 4 1 4 25.0 0 1 0.0 2 2 100.0 1 1 2 3 2 0 2 4 -5
+p753
+aVAaron McKie PHI 11/13/2001 PHI @ MIA W 42 6 2 2 100.0 1 1 100.0 1 2 50.0 1 5 6 5 2 1 2 1 14
+p754
+aVCorie Blount PHI 11/13/2001 PHI @ MIA W 20 4 2 4 50.0 0 0 - 0 0 - 3 3 6 0 0 0 0 1 -5
+p755
+aVAllen Iverson PHI 11/13/2001 PHI @ MIA W 44 25 8 30 26.7 0 2 0.0 9 12 75.0 0 1 1 2 3 0 7 4 10
+p756
+aVMatt Harpring PHI 11/13/2001 PHI @ MIA W 30 12 6 12 50.0 0 0 - 0 0 - 3 5 8 1 2 0 0 1 4
+p757
+aVRaja Bell PHI 11/13/2001 PHI @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -2
+p758
+aVDikembe Mutombo PHI 11/13/2001 PHI @ MIA W 35 6 1 7 14.3 0 0 - 4 7 57.1 4 7 11 1 1 2 1 3 16
+p759
+aVTim James PHI 11/13/2001 PHI @ MIA W 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p760
+aVDerrick Coleman PHI 11/10/2001 PHI @ DAL W 39 24 10 16 62.5 0 0 - 4 4 100.0 7 6 13 6 0 2 0 1 16
+p761
+aVRaja Bell PHI 11/10/2001 PHI @ DAL W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 4 -7
+p762
+aVVonteego Cummings PHI 11/10/2001 PHI @ DAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p763
+aVDikembe Mutombo PHI 11/10/2001 PHI @ DAL W 42 17 7 15 46.7 0 0 - 3 4 75.0 5 12 17 1 0 1 2 4 0
+p764
+aVAllen Iverson PHI 11/10/2001 PHI @ DAL W 44 18 7 28 25.0 0 2 0.0 4 5 80.0 0 4 4 9 2 0 2 3 8
+p765
+aVCorie Blount PHI 11/10/2001 PHI @ DAL W 15 7 3 3 100.0 0 0 - 1 2 50.0 0 2 2 0 2 0 1 2 -1
+p766
+aVAaron McKie PHI 11/10/2001 PHI @ DAL W 43 19 8 13 61.5 2 4 50.0 1 2 50.0 0 5 5 4 2 0 4 2 8
+p767
+aVMatt Harpring PHI 11/10/2001 PHI @ DAL W 38 13 6 11 54.5 1 3 33.3 0 0 - 5 6 11 3 4 0 2 1 11
+p768
+aVRaja Bell PHI 11/08/2001 PHI @ HOU L 18 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -14
+p769
+aVCorie Blount PHI 11/08/2001 PHI @ HOU L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -11
+p770
+aVAaron McKie PHI 11/08/2001 PHI @ HOU L 42 8 3 15 20.0 1 2 50.0 1 2 50.0 0 6 6 10 0 0 5 1 0
+p771
+aVTim James PHI 11/08/2001 PHI @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p772
+aVSpeedy Claxton PHI 11/08/2001 PHI @ HOU L 43 12 5 11 45.5 0 1 0.0 2 2 100.0 0 0 0 6 2 0 4 3 -1
+p773
+aVDikembe Mutombo PHI 11/08/2001 PHI @ HOU L 42 16 6 12 50.0 0 0 - 4 6 66.7 5 13 18 0 0 0 4 2 3
+p774
+aVVonteego Cummings PHI 11/08/2001 PHI @ HOU L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p775
+aVMatt Harpring PHI 11/08/2001 PHI @ HOU L 36 7 3 5 60.0 1 2 50.0 0 0 - 0 8 8 2 2 0 0 3 2
+p776
+aVDerrick Coleman PHI 11/08/2001 PHI @ HOU L 39 20 9 20 45.0 0 1 0.0 2 3 66.7 5 4 9 0 1 0 1 4 2
+p777
+aVMatt Harpring PHI 11/06/2001 PHI vs. IND L 39 11 4 11 36.4 2 6 33.3 1 2 50.0 3 7 10 6 1 0 1 3 -12
+p778
+aVDamone Brown PHI 11/06/2001 PHI vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p779
+aVDikembe Mutombo PHI 11/06/2001 PHI vs. IND L 25 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 1 0 0 5 4 2
+p780
+aVDerrick Coleman PHI 11/06/2001 PHI vs. IND L 39 25 8 17 47.1 0 1 0.0 9 10 90.0 4 1 5 4 1 1 1 3 -6
+p781
+aVMatt Geiger PHI 11/06/2001 PHI vs. IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -10
+p782
+aVTim James PHI 11/06/2001 PHI vs. IND L 7 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 1 0
+p783
+aVCorie Blount PHI 11/06/2001 PHI vs. IND L 25 0 0 3 0.0 0 0 - 0 0 - 2 7 9 0 0 0 1 2 -4
+p784
+aVVonteego Cummings PHI 11/06/2001 PHI vs. IND L 23 7 3 9 33.3 0 3 0.0 1 1 100.0 0 0 0 4 0 1 1 2 -4
+p785
+aVSpeedy Claxton PHI 11/06/2001 PHI vs. IND L 38 23 11 15 73.3 1 2 50.0 0 0 - 1 2 3 3 1 0 4 5 -10
+p786
+aVRaja Bell PHI 11/06/2001 PHI vs. IND L 36 8 3 10 30.0 0 5 0.0 2 2 100.0 2 2 4 4 0 1 3 2 -4
+p787
+aVDamone Brown PHI 11/03/2001 PHI @ WAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p788
+aVMatt Harpring PHI 11/03/2001 PHI @ WAS L 37 13 5 11 45.5 1 3 33.3 2 3 66.7 0 0 0 2 2 0 5 4 -11
+p789
+aVMatt Geiger PHI 11/03/2001 PHI @ WAS L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p790
+aVDerrick Coleman PHI 11/03/2001 PHI @ WAS L 39 9 2 8 25.0 0 3 0.0 5 6 83.3 1 9 10 3 1 1 4 2 -14
+p791
+aVSpeedy Claxton PHI 11/03/2001 PHI @ WAS L 40 22 9 17 52.9 0 0 - 4 5 80.0 1 4 5 2 0 0 2 4 -18
+p792
+aVRaja Bell PHI 11/03/2001 PHI @ WAS L 21 4 2 6 33.3 0 1 0.0 0 0 - 0 5 5 2 0 0 3 4 -2
+p793
+aVVonteego Cummings PHI 11/03/2001 PHI @ WAS L 18 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 1 1 1 0 2 -3
+p794
+aVIra Bowman PHI 11/03/2001 PHI @ WAS L 26 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -12
+p795
+aVDikembe Mutombo PHI 11/03/2001 PHI @ WAS L 38 10 4 12 33.3 0 0 - 2 2 100.0 5 10 15 0 0 1 3 4 -10
+p796
+aVCorie Blount PHI 11/03/2001 PHI @ WAS L 13 4 2 4 50.0 0 0 - 0 1 0.0 2 2 4 0 0 0 3 3 -7
+p797
+aVSpeedy Claxton PHI 11/01/2001 PHI vs. DAL L 43 9 4 10 40.0 0 1 0.0 1 3 33.3 1 0 1 8 1 0 3 3 -8
+p798
+aVVonteego Cummings PHI 11/01/2001 PHI vs. DAL L 23 11 4 11 36.4 1 4 25.0 2 2 100.0 0 2 2 2 0 1 2 2 -3
+p799
+aVDamone Brown PHI 11/01/2001 PHI vs. DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p800
+aVMatt Geiger PHI 11/01/2001 PHI vs. DAL L 11 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 -7
+p801
+aVDerrick Coleman PHI 11/01/2001 PHI vs. DAL L 37 18 8 15 53.3 0 0 - 2 4 50.0 2 9 11 0 1 1 3 4 -5
+p802
+aVRaja Bell PHI 11/01/2001 PHI vs. DAL L 35 7 3 9 33.3 0 1 0.0 1 1 100.0 0 1 1 7 2 0 1 3 -8
+p803
+aVCorie Blount PHI 11/01/2001 PHI vs. DAL L 14 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 0 0 0 -1
+p804
+aVIra Bowman PHI 11/01/2001 PHI vs. DAL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 4
+p805
+aVDikembe Mutombo PHI 11/01/2001 PHI vs. DAL L 34 19 6 8 75.0 0 0 - 7 7 100.0 5 11 16 1 0 4 5 3 -5
+p806
+aVMatt Harpring PHI 11/01/2001 PHI vs. DAL L 41 21 6 11 54.5 3 3 100.0 6 6 100.0 1 3 4 3 0 0 3 4 -7
+p807
+aVIra Bowman PHI 10/30/2001 PHI @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p808
+aVMatt Harpring PHI 10/30/2001 PHI @ MIN L 38 9 4 15 26.7 1 2 50.0 0 0 - 4 4 8 0 1 0 2 2 -7
+p809
+aVSpeedy Claxton PHI 10/30/2001 PHI @ MIN L 40 20 7 15 46.7 1 1 100.0 5 5 100.0 1 0 1 4 1 0 2 3 -9
+p810
+aVDerrick Coleman PHI 10/30/2001 PHI @ MIN L 39 15 5 15 33.3 1 3 33.3 4 9 44.4 2 9 11 1 1 0 6 5 -4
+p811
+aVVonteego Cummings PHI 10/30/2001 PHI @ MIN L 18 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 1 0 0 3 0 -10
+p812
+aVRaja Bell PHI 10/30/2001 PHI @ MIN L 35 5 2 6 33.3 1 3 33.3 0 0 - 0 5 5 5 0 0 2 2 -3
+p813
+aVDamone Brown PHI 10/30/2001 PHI @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p814
+aVDikembe Mutombo PHI 10/30/2001 PHI @ MIN L 38 14 4 9 44.4 0 0 - 6 9 66.7 4 5 9 3 0 3 2 4 2
+p815
+aVCorie Blount PHI 10/30/2001 PHI @ MIN L 17 8 4 6 66.7 0 0 - 0 0 - 3 2 5 1 1 2 1 3 -11
+p816
+aVMatt Geiger PHI 10/30/2001 PHI @ MIN L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -10
+p817
+a.

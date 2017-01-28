@@ -1,0 +1,1396 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTony Allen MEM 04/26/2012 MEM vs. ORL W 22 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 2 2 0 0 2 13
+p2
+aVLester Hudson MEM 04/26/2012 MEM vs. ORL W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p3
+aVZach Randolph MEM 04/26/2012 MEM vs. ORL W 26 13 6 12 50.0 0 0 - 1 2 50.0 6 6 12 3 0 0 3 1 16
+p4
+aVMarc Gasol MEM 04/26/2012 MEM vs. ORL W 32 22 8 13 61.5 0 1 0.0 6 6 100.0 0 6 6 1 0 3 1 3 22
+p5
+aVHamed Haddadi MEM 04/26/2012 MEM vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p6
+aVMarreese Speights MEM 04/26/2012 MEM vs. ORL W 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 1 2
+p7
+aVO.J. Mayo MEM 04/26/2012 MEM vs. ORL W 27 15 5 9 55.6 1 3 33.3 4 4 100.0 1 6 7 6 1 1 2 3 8
+p8
+aVGilbert Arenas MEM 04/26/2012 MEM vs. ORL W 13 1 0 3 0.0 0 2 0.0 1 2 50.0 0 2 2 2 0 0 0 2 2
+p9
+aVRudy Gay MEM 04/26/2012 MEM vs. ORL W 34 20 8 11 72.7 1 4 25.0 3 4 75.0 0 5 5 0 2 1 3 1 7
+p10
+aVMike Conley MEM 04/26/2012 MEM vs. ORL W 32 0 0 5 0.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 14
+p11
+aVQuincy Pondexter MEM 04/26/2012 MEM vs. ORL W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p12
+aVDante Cunningham MEM 04/26/2012 MEM vs. ORL W 21 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -11
+p13
+aVJeremy Pargo MEM 04/26/2012 MEM vs. ORL W 3 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -4
+p14
+aVJosh Selby MEM 04/23/2012 MEM vs. CLE W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -3
+p15
+aVMarreese Speights MEM 04/23/2012 MEM vs. CLE W 31 17 6 9 66.7 0 0 - 5 8 62.5 4 6 10 0 1 1 2 2 3
+p16
+aVTony Allen MEM 04/23/2012 MEM vs. CLE W 31 13 6 9 66.7 0 0 - 1 2 50.0 4 4 8 1 8 1 1 2 9
+p17
+aVDante Cunningham MEM 04/23/2012 MEM vs. CLE W 22 7 2 4 50.0 0 0 - 3 3 100.0 3 1 4 0 2 1 1 1 22
+p18
+aVMarc Gasol MEM 04/23/2012 MEM vs. CLE W 24 17 5 13 38.5 0 0 - 7 8 87.5 2 2 4 2 1 3 1 0 3
+p19
+aVLester Hudson MEM 04/23/2012 MEM vs. CLE W 12 9 3 6 50.0 1 3 33.3 2 3 66.7 0 0 0 1 0 0 0 0 7
+p20
+aVQuincy Pondexter MEM 04/23/2012 MEM vs. CLE W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p21
+aVRudy Gay MEM 04/23/2012 MEM vs. CLE W 34 15 4 10 40.0 0 2 0.0 7 8 87.5 2 4 6 4 0 2 2 2 -1
+p22
+aVO.J. Mayo MEM 04/23/2012 MEM vs. CLE W 26 14 6 14 42.9 2 5 40.0 0 0 - 0 2 2 5 1 0 1 1 6
+p23
+aVZach Randolph MEM 04/23/2012 MEM vs. CLE W 19 3 1 5 20.0 0 0 - 1 2 50.0 2 3 5 1 0 0 3 3 -12
+p24
+aVMike Conley MEM 04/23/2012 MEM vs. CLE W 24 12 4 8 50.0 2 3 66.7 2 2 100.0 0 3 3 3 1 0 1 5 6
+p25
+aVJosh Selby MEM 04/21/2012 MEM vs. POR W 10 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 3
+p26
+aVO.J. Mayo MEM 04/21/2012 MEM vs. POR W 28 14 5 14 35.7 2 6 33.3 2 2 100.0 0 3 3 3 0 1 2 1 -5
+p27
+aVHamed Haddadi MEM 04/21/2012 MEM vs. POR W 10 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 7
+p28
+aVMike Conley MEM 04/21/2012 MEM vs. POR W 30 5 2 10 20.0 1 3 33.3 0 0 - 1 1 2 3 2 0 0 2 2
+p29
+aVMarreese Speights MEM 04/21/2012 MEM vs. POR W 32 13 5 12 41.7 0 0 - 3 4 75.0 7 4 11 2 0 0 4 4 -1
+p30
+aVQuincy Pondexter MEM 04/21/2012 MEM vs. POR W 15 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 2 0
+p31
+aVGilbert Arenas MEM 04/21/2012 MEM vs. POR W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -3
+p32
+aVMarc Gasol MEM 04/21/2012 MEM vs. POR W 30 12 6 9 66.7 0 0 - 0 0 - 2 2 4 4 0 2 0 3 8
+p33
+aVTony Allen MEM 04/21/2012 MEM vs. POR W 21 6 3 7 42.9 0 1 0.0 0 0 - 3 2 5 2 2 0 0 0 15
+p34
+aVLester Hudson MEM 04/21/2012 MEM vs. POR W 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p35
+aVDante Cunningham MEM 04/21/2012 MEM vs. POR W 19 12 6 9 66.7 0 0 - 0 0 - 3 5 8 0 1 2 0 4 -2
+p36
+aVRudy Gay MEM 04/21/2012 MEM vs. POR W 33 21 9 16 56.3 1 4 25.0 2 2 100.0 0 6 6 3 1 1 1 3 4
+p37
+aVZach Randolph MEM 04/20/2012 MEM @ CHA W 21 14 6 10 60.0 0 0 - 2 2 100.0 1 5 6 4 0 0 2 2 5
+p38
+aVTony Allen MEM 04/20/2012 MEM @ CHA W 14 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 1 0 4 3 -6
+p39
+aVQuincy Pondexter MEM 04/20/2012 MEM @ CHA W 23 8 3 5 60.0 0 1 0.0 2 2 100.0 3 2 5 1 0 0 0 1 15
+p40
+aVMarreese Speights MEM 04/20/2012 MEM @ CHA W 24 6 2 8 25.0 0 0 - 2 4 50.0 1 4 5 0 0 0 3 3 3
+p41
+aVRudy Gay MEM 04/20/2012 MEM @ CHA W 31 9 4 14 28.6 0 3 0.0 1 2 50.0 3 3 6 1 3 1 2 3 -12
+p42
+aVDante Cunningham MEM 04/20/2012 MEM @ CHA W 21 9 4 6 66.7 0 0 - 1 3 33.3 1 2 3 0 3 1 1 0 15
+p43
+aVMike Conley MEM 04/20/2012 MEM @ CHA W 37 20 7 10 70.0 1 1 100.0 5 6 83.3 0 2 2 7 3 0 2 2 0
+p44
+aVGilbert Arenas MEM 04/20/2012 MEM @ CHA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p45
+aVO.J. Mayo MEM 04/20/2012 MEM @ CHA W 31 9 4 10 40.0 1 3 33.3 0 0 - 1 4 5 2 1 0 2 2 10
+p46
+aVHamed Haddadi MEM 04/20/2012 MEM @ CHA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 1 2 0
+p47
+aVJosh Selby MEM 04/20/2012 MEM @ CHA W 10 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 5
+p48
+aVMarc Gasol MEM 04/20/2012 MEM @ CHA W 22 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 1 1 1 0 2 -10
+p49
+aVDante Cunningham MEM 04/18/2012 MEM vs. NOH W 19 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 3 -10
+p50
+aVJeremy Pargo MEM 04/18/2012 MEM vs. NOH W 15 4 2 7 28.6 0 1 0.0 0 1 0.0 0 0 0 2 2 0 1 3 -9
+p51
+aVO.J. Mayo MEM 04/18/2012 MEM vs. NOH W 32 15 7 14 50.0 1 6 16.7 0 0 - 1 0 1 2 3 0 2 1 -3
+p52
+aVMarc Gasol MEM 04/18/2012 MEM vs. NOH W 23 6 3 3 100.0 0 0 - 0 0 - 0 3 3 4 2 1 0 1 25
+p53
+aVQuincy Pondexter MEM 04/18/2012 MEM vs. NOH W 16 6 2 6 33.3 2 4 50.0 0 0 - 1 1 2 0 1 0 0 2 -16
+p54
+aVHamed Haddadi MEM 04/18/2012 MEM vs. NOH W 16 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 1 0 4 2 6 -3
+p55
+aVZach Randolph MEM 04/18/2012 MEM vs. NOH W 24 10 5 9 55.6 0 1 0.0 0 0 - 1 5 6 3 0 0 1 2 24
+p56
+aVJosh Selby MEM 04/18/2012 MEM vs. NOH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p57
+aVTony Allen MEM 04/18/2012 MEM vs. NOH W 19 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 2 1 1 4 14
+p58
+aVMarreese Speights MEM 04/18/2012 MEM vs. NOH W 15 2 1 4 25.0 0 1 0.0 0 0 - 1 2 3 0 0 0 1 0 -12
+p59
+aVMike Conley MEM 04/18/2012 MEM vs. NOH W 30 20 8 11 72.7 2 4 50.0 2 3 66.7 0 2 2 5 1 0 1 2 27
+p60
+aVRudy Gay MEM 04/18/2012 MEM vs. NOH W 30 26 9 14 64.3 3 5 60.0 5 5 100.0 3 2 5 4 1 2 1 0 27
+p61
+aVMike Conley MEM 04/17/2012 MEM @ MIN W 38 16 6 12 50.0 2 3 66.7 2 2 100.0 1 4 5 8 2 0 2 2 12
+p62
+aVTony Allen MEM 04/17/2012 MEM @ MIN W 29 2 1 6 16.7 0 0 - 0 0 - 0 2 2 4 4 1 0 2 -4
+p63
+aVMarreese Speights MEM 04/17/2012 MEM @ MIN W 14 12 6 9 66.7 0 0 - 0 0 - 3 1 4 0 0 0 1 0 -7
+p64
+aVZach Randolph MEM 04/17/2012 MEM @ MIN W 32 16 8 15 53.3 0 0 - 0 0 - 4 7 11 1 0 1 2 3 19
+p65
+aVQuincy Pondexter MEM 04/17/2012 MEM @ MIN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -9
+p66
+aVMarc Gasol MEM 04/17/2012 MEM @ MIN W 34 4 2 8 25.0 0 0 - 0 2 0.0 0 3 3 3 1 1 0 3 2
+p67
+aVDante Cunningham MEM 04/17/2012 MEM @ MIN W 7 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 2 0 0 -8
+p68
+aVHamed Haddadi MEM 04/17/2012 MEM @ MIN W 12 8 3 4 75.0 0 0 - 2 4 50.0 2 0 2 0 0 2 0 4 5
+p69
+aVO.J. Mayo MEM 04/17/2012 MEM @ MIN W 24 5 2 8 25.0 1 3 33.3 0 0 - 0 3 3 4 3 0 3 3 6
+p70
+aVRudy Gay MEM 04/17/2012 MEM @ MIN W 39 28 12 25 48.0 2 5 40.0 2 3 66.7 2 7 9 4 1 0 3 1 17
+p71
+aVGilbert Arenas MEM 04/17/2012 MEM @ MIN W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p72
+aVO.J. Mayo MEM 04/15/2012 MEM @ NOH L 27 11 3 12 25.0 0 7 0.0 5 8 62.5 0 4 4 2 1 0 6 2 -6
+p73
+aVRudy Gay MEM 04/15/2012 MEM @ NOH L 37 24 9 17 52.9 2 4 50.0 4 4 100.0 2 2 4 0 1 1 4 1 -19
+p74
+aVQuincy Pondexter MEM 04/15/2012 MEM @ NOH L 21 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 2 0 0 1 1 0
+p75
+aVJosh Selby MEM 04/15/2012 MEM @ NOH L 1 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p76
+aVJeremy Pargo MEM 04/15/2012 MEM @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p77
+aVHamed Haddadi MEM 04/15/2012 MEM @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p78
+aVDante Cunningham MEM 04/15/2012 MEM @ NOH L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -8
+p79
+aVGilbert Arenas MEM 04/15/2012 MEM @ NOH L 11 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 2 2 0 0 0 10
+p80
+aVZach Randolph MEM 04/15/2012 MEM @ NOH L 23 2 1 2 50.0 0 0 - 0 0 - 2 11 13 3 1 0 0 4 -2
+p81
+aVMarreese Speights MEM 04/15/2012 MEM @ NOH L 25 8 4 10 40.0 0 0 - 0 0 - 2 1 3 0 0 0 2 2 0
+p82
+aVMike Conley MEM 04/15/2012 MEM @ NOH L 29 5 1 8 12.5 1 2 50.0 2 2 100.0 2 3 5 3 0 0 2 2 -19
+p83
+aVMarc Gasol MEM 04/15/2012 MEM @ NOH L 28 11 2 6 33.3 0 0 - 7 9 77.8 2 5 7 3 0 1 2 2 -11
+p84
+aVTony Allen MEM 04/15/2012 MEM @ NOH L 26 4 1 4 25.0 0 1 0.0 2 2 100.0 2 0 2 0 0 0 2 3 -16
+p85
+aVMarc Gasol MEM 04/14/2012 MEM vs. UTA W 39 17 6 10 60.0 0 0 - 5 8 62.5 1 8 9 4 0 3 1 2 8
+p86
+aVDante Cunningham MEM 04/14/2012 MEM vs. UTA W 7 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 6
+p87
+aVO.J. Mayo MEM 04/14/2012 MEM vs. UTA W 24 20 5 11 45.5 4 5 80.0 6 6 100.0 0 0 0 0 0 0 2 1 3
+p88
+aVZach Randolph MEM 04/14/2012 MEM vs. UTA W 30 7 3 6 50.0 0 0 - 1 2 50.0 2 4 6 2 0 0 1 3 6
+p89
+aVGilbert Arenas MEM 04/14/2012 MEM vs. UTA W 12 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 2 1 0 1 1 7
+p90
+aVQuincy Pondexter MEM 04/14/2012 MEM vs. UTA W 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 4
+p91
+aVRudy Gay MEM 04/14/2012 MEM vs. UTA W 40 26 8 16 50.0 1 4 25.0 9 10 90.0 4 8 12 1 1 2 1 1 -1
+p92
+aVMarreese Speights MEM 04/14/2012 MEM vs. UTA W 18 4 2 5 40.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -7
+p93
+aVHamed Haddadi MEM 04/14/2012 MEM vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p94
+aVTony Allen MEM 04/14/2012 MEM vs. UTA W 24 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 2 0 0 1 1 2
+p95
+aVMike Conley MEM 04/14/2012 MEM vs. UTA W 36 17 6 13 46.2 1 2 50.0 4 4 100.0 0 1 1 6 1 1 4 1 -2
+p96
+aVGilbert Arenas MEM 04/12/2012 MEM @ SAS L 16 6 3 6 50.0 0 3 0.0 0 0 - 0 0 0 0 0 0 2 2 0
+p97
+aVRudy Gay MEM 04/12/2012 MEM @ SAS L 44 19 7 22 31.8 0 3 0.0 5 7 71.4 4 1 5 4 1 1 2 2 -7
+p98
+aVZach Randolph MEM 04/12/2012 MEM @ SAS L 28 10 4 10 40.0 0 1 0.0 2 2 100.0 3 8 11 3 2 0 0 1 -11
+p99
+aVDante Cunningham MEM 04/12/2012 MEM @ SAS L 8 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 -11
+p100
+aVO.J. Mayo MEM 04/12/2012 MEM @ SAS L 24 16 5 9 55.6 3 4 75.0 3 5 60.0 0 0 0 1 0 0 3 6 -17
+p101
+aVMarc Gasol MEM 04/12/2012 MEM @ SAS L 37 14 5 8 62.5 0 0 - 4 6 66.7 0 10 10 3 4 1 3 5 9
+p102
+aVQuincy Pondexter MEM 04/12/2012 MEM @ SAS L 25 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -11
+p103
+aVMike Conley MEM 04/12/2012 MEM @ SAS L 31 11 4 12 33.3 1 5 20.0 2 2 100.0 0 5 5 4 1 0 2 4 11
+p104
+aVMarreese Speights MEM 04/12/2012 MEM @ SAS L 26 15 5 10 50.0 0 1 0.0 5 5 100.0 4 3 7 0 1 0 2 4 -8
+p105
+aVJeremy Pargo MEM 04/12/2012 MEM @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p106
+aVMarreese Speights MEM 04/11/2012 MEM vs. PHX W 22 5 2 6 33.3 0 0 - 1 2 50.0 3 5 8 2 0 2 3 1 -1
+p107
+aVO.J. Mayo MEM 04/11/2012 MEM vs. PHX W 27 15 5 15 33.3 3 7 42.9 2 2 100.0 1 3 4 2 1 0 3 0 3
+p108
+aVQuincy Pondexter MEM 04/11/2012 MEM vs. PHX W 27 5 2 4 50.0 1 2 50.0 0 0 - 2 1 3 1 1 1 1 4 -4
+p109
+aVRudy Gay MEM 04/11/2012 MEM vs. PHX W 42 32 13 20 65.0 0 1 0.0 6 6 100.0 4 3 7 1 2 1 0 2 23
+p110
+aVZach Randolph MEM 04/11/2012 MEM vs. PHX W 26 17 7 12 58.3 0 0 - 3 5 60.0 3 6 9 2 1 0 2 3 3
+p111
+aVMarc Gasol MEM 04/11/2012 MEM vs. PHX W 25 8 4 8 50.0 0 0 - 0 0 - 2 5 7 4 0 0 2 5 16
+p112
+aVGilbert Arenas MEM 04/11/2012 MEM vs. PHX W 10 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -8
+p113
+aVDante Cunningham MEM 04/11/2012 MEM vs. PHX W 22 10 5 8 62.5 0 0 - 0 0 - 1 1 2 2 1 0 0 1 4
+p114
+aVMike Conley MEM 04/11/2012 MEM vs. PHX W 39 12 4 8 50.0 0 2 0.0 4 4 100.0 0 2 2 7 2 2 0 3 19
+p115
+aVRudy Gay MEM 04/09/2012 MEM vs. LAC W 38 16 6 10 60.0 1 4 25.0 3 4 75.0 2 4 6 1 1 0 6 1 2
+p116
+aVMike Conley MEM 04/09/2012 MEM vs. LAC W 34 13 4 10 40.0 1 2 50.0 4 4 100.0 1 2 3 3 1 0 1 1 5
+p117
+aVZach Randolph MEM 04/09/2012 MEM vs. LAC W 30 10 4 11 36.4 0 0 - 2 4 50.0 3 9 12 1 0 0 4 3 6
+p118
+aVMarreese Speights MEM 04/09/2012 MEM vs. LAC W 24 12 6 9 66.7 0 0 - 0 0 - 1 7 8 2 0 0 1 5 6
+p119
+aVMarc Gasol MEM 04/09/2012 MEM vs. LAC W 34 18 6 12 50.0 0 0 - 6 7 85.7 3 5 8 7 0 2 2 2 4
+p120
+aVGilbert Arenas MEM 04/09/2012 MEM vs. LAC W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 1 3 4
+p121
+aVQuincy Pondexter MEM 04/09/2012 MEM vs. LAC W 30 4 2 7 28.6 0 1 0.0 0 0 - 4 2 6 1 1 0 0 3 7
+p122
+aVHamed Haddadi MEM 04/09/2012 MEM vs. LAC W 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p123
+aVO.J. Mayo MEM 04/09/2012 MEM vs. LAC W 28 13 5 9 55.6 2 5 40.0 1 1 100.0 0 2 2 5 2 0 3 3 9
+p124
+aVJeremy Pargo MEM 04/09/2012 MEM vs. LAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p125
+aVDante Cunningham MEM 04/09/2012 MEM vs. LAC W 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 3
+p126
+aVZach Randolph MEM 04/07/2012 MEM vs. DAL W 29 15 6 15 40.0 1 1 100.0 2 2 100.0 2 9 11 4 1 0 1 0 4
+p127
+aVO.J. Mayo MEM 04/07/2012 MEM vs. DAL W 33 6 1 8 12.5 0 4 0.0 4 4 100.0 0 2 2 5 2 1 0 1 3
+p128
+aVHamed Haddadi MEM 04/07/2012 MEM vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 3
+p129
+aVDante Cunningham MEM 04/07/2012 MEM vs. DAL W 11 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -8
+p130
+aVMarc Gasol MEM 04/07/2012 MEM vs. DAL W 32 9 4 12 33.3 0 0 - 1 1 100.0 1 6 7 3 1 1 1 2 10
+p131
+aVQuincy Pondexter MEM 04/07/2012 MEM vs. DAL W 32 9 3 5 60.0 0 1 0.0 3 6 50.0 1 2 3 0 0 0 0 2 -6
+p132
+aVGilbert Arenas MEM 04/07/2012 MEM vs. DAL W 17 14 3 6 50.0 3 5 60.0 5 5 100.0 0 1 1 0 1 1 1 4 -1
+p133
+aVMarreese Speights MEM 04/07/2012 MEM vs. DAL W 20 4 1 6 16.7 0 0 - 2 2 100.0 1 2 3 1 1 1 1 1 1
+p134
+aVMike Conley MEM 04/07/2012 MEM vs. DAL W 29 12 4 9 44.4 2 4 50.0 2 2 100.0 0 1 1 5 2 0 1 2 8
+p135
+aVRudy Gay MEM 04/07/2012 MEM vs. DAL W 33 25 9 15 60.0 3 5 60.0 4 5 80.0 1 4 5 3 1 0 4 4 11
+p136
+aVMarreese Speights MEM 04/06/2012 MEM @ MIA W 25 15 6 9 66.7 0 0 - 3 3 100.0 1 4 5 1 0 1 2 4 14
+p137
+aVMarc Gasol MEM 04/06/2012 MEM @ MIA W 36 10 3 7 42.9 0 0 - 4 5 80.0 0 9 9 2 1 3 1 3 2
+p138
+aVHamed Haddadi MEM 04/06/2012 MEM @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p139
+aVMike Conley MEM 04/06/2012 MEM @ MIA W 35 15 5 8 62.5 3 4 75.0 2 2 100.0 0 1 1 4 3 0 2 1 4
+p140
+aVQuincy Pondexter MEM 04/06/2012 MEM @ MIA W 23 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 0 14
+p141
+aVZach Randolph MEM 04/06/2012 MEM @ MIA W 29 14 6 17 35.3 0 1 0.0 2 2 100.0 5 9 14 2 1 0 0 1 8
+p142
+aVJeremy Pargo MEM 04/06/2012 MEM @ MIA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p143
+aVO.J. Mayo MEM 04/06/2012 MEM @ MIA W 29 10 4 10 40.0 1 3 33.3 1 1 100.0 1 3 4 6 0 1 2 0 9
+p144
+aVDante Cunningham MEM 04/06/2012 MEM @ MIA W 12 0 0 2 0.0 0 0 - 0 2 0.0 2 2 4 3 0 1 0 1 13
+p145
+aVRudy Gay MEM 04/06/2012 MEM @ MIA W 37 17 8 19 42.1 0 2 0.0 1 2 50.0 2 1 3 1 3 0 2 3 1
+p146
+aVGilbert Arenas MEM 04/06/2012 MEM @ MIA W 12 12 4 5 80.0 4 5 80.0 0 0 - 0 0 0 1 0 0 1 4 10
+p147
+aVGilbert Arenas MEM 04/04/2012 MEM @ DAL L 11 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 0 4 2
+p148
+aVRudy Gay MEM 04/04/2012 MEM @ DAL L 36 8 4 12 33.3 0 2 0.0 0 0 - 0 2 2 4 1 1 3 0 -13
+p149
+aVTony Allen MEM 04/04/2012 MEM @ DAL L 26 9 4 7 57.1 0 1 0.0 1 1 100.0 0 6 6 3 2 1 0 3 -6
+p150
+aVQuincy Pondexter MEM 04/04/2012 MEM @ DAL L 11 3 1 3 33.3 0 1 0.0 1 1 100.0 1 0 1 0 0 0 0 0 6
+p151
+aVZach Randolph MEM 04/04/2012 MEM @ DAL L 23 4 2 6 33.3 0 0 - 0 2 0.0 1 4 5 1 0 0 2 0 9
+p152
+aVMarc Gasol MEM 04/04/2012 MEM @ DAL L 36 10 3 13 23.1 0 0 - 4 6 66.7 3 7 10 7 0 4 1 4 -3
+p153
+aVMike Conley MEM 04/04/2012 MEM @ DAL L 38 11 5 14 35.7 1 3 33.3 0 0 - 1 0 1 5 2 0 0 2 -16
+p154
+aVO.J. Mayo MEM 04/04/2012 MEM @ DAL L 23 17 6 10 60.0 4 5 80.0 1 2 50.0 1 1 2 2 1 0 3 3 -3
+p155
+aVMarreese Speights MEM 04/04/2012 MEM @ DAL L 19 9 4 8 50.0 0 0 - 1 2 50.0 3 4 7 0 0 0 0 1 -15
+p156
+aVDante Cunningham MEM 04/04/2012 MEM @ DAL L 18 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -11
+p157
+aVMarc Gasol MEM 04/03/2012 MEM vs. GSW W 34 12 6 13 46.2 0 0 - 0 1 0.0 0 4 4 6 1 4 2 4 3
+p158
+aVMike Conley MEM 04/03/2012 MEM vs. GSW W 29 18 7 11 63.6 3 4 75.0 1 2 50.0 0 5 5 2 1 0 2 2 -5
+p159
+aVZach Randolph MEM 04/03/2012 MEM vs. GSW W 15 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 2 0 0 0 2 -3
+p160
+aVMarreese Speights MEM 04/03/2012 MEM vs. GSW W 20 3 1 8 12.5 0 0 - 1 2 50.0 3 2 5 0 1 0 2 0 -3
+p161
+aVHamed Haddadi MEM 04/03/2012 MEM vs. GSW W 5 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 2 0 0 -3
+p162
+aVO.J. Mayo MEM 04/03/2012 MEM vs. GSW W 28 19 6 12 50.0 4 6 66.7 3 4 75.0 0 1 1 2 1 0 1 1 2
+p163
+aVTony Allen MEM 04/03/2012 MEM vs. GSW W 30 2 1 6 16.7 0 1 0.0 0 0 - 3 4 7 2 0 1 4 3 11
+p164
+aVQuincy Pondexter MEM 04/03/2012 MEM vs. GSW W 7 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 1 1 0 1 1 0
+p165
+aVGilbert Arenas MEM 04/03/2012 MEM vs. GSW W 15 10 4 4 100.0 1 1 100.0 1 3 33.3 1 2 3 2 2 0 0 1 17
+p166
+aVDante Cunningham MEM 04/03/2012 MEM vs. GSW W 21 13 6 6 100.0 0 0 - 1 2 50.0 0 5 5 1 0 0 0 0 16
+p167
+aVRudy Gay MEM 04/03/2012 MEM vs. GSW W 36 11 3 13 23.1 0 3 0.0 5 6 83.3 1 3 4 2 2 2 1 1 -15
+p168
+aVQuincy Pondexter MEM 04/02/2012 MEM @ OKC W 5 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 0 1 0 0 1 -4
+p169
+aVZach Randolph MEM 04/02/2012 MEM @ OKC W 27 10 2 9 22.2 0 1 0.0 6 7 85.7 1 2 3 3 0 0 1 1 4
+p170
+aVGilbert Arenas MEM 04/02/2012 MEM @ OKC W 20 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 2 0 0 2 -6
+p171
+aVO.J. Mayo MEM 04/02/2012 MEM @ OKC W 30 22 8 19 42.1 1 4 25.0 5 5 100.0 0 2 2 3 2 0 0 2 9
+p172
+aVTony Allen MEM 04/02/2012 MEM @ OKC W 41 15 5 11 45.5 0 2 0.0 5 6 83.3 3 5 8 0 1 0 1 4 13
+p173
+aVRudy Gay MEM 04/02/2012 MEM @ OKC W 36 12 4 15 26.7 0 1 0.0 4 4 100.0 4 4 8 2 0 0 1 2 8
+p174
+aVMarreese Speights MEM 04/02/2012 MEM @ OKC W 21 9 4 8 50.0 0 0 - 1 1 100.0 4 9 13 1 1 0 2 2 4
+p175
+aVJeremy Pargo MEM 04/02/2012 MEM @ OKC W 20 10 4 7 57.1 2 4 50.0 0 0 - 0 0 0 1 1 0 2 1 -4
+p176
+aVMarc Gasol MEM 04/02/2012 MEM @ OKC W 41 13 6 13 46.2 0 0 - 1 1 100.0 1 7 8 1 1 1 1 2 6
+p177
+aVGilbert Arenas MEM 03/31/2012 MEM @ MIL W 17 4 2 7 28.6 0 4 0.0 0 0 - 1 5 6 2 0 0 0 4 13
+p178
+aVRudy Gay MEM 03/31/2012 MEM @ MIL W 37 17 7 18 38.9 0 2 0.0 3 4 75.0 2 8 10 2 1 1 3 4 3
+p179
+aVJeremy Pargo MEM 03/31/2012 MEM @ MIL W 16 4 1 4 25.0 0 1 0.0 2 4 50.0 0 0 0 2 0 0 2 2 -1
+p180
+aVTony Allen MEM 03/31/2012 MEM @ MIL W 29 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 3 1 -7
+p181
+aVQuincy Pondexter MEM 03/31/2012 MEM @ MIL W 20 10 4 6 66.7 2 4 50.0 0 0 - 2 1 3 0 1 0 0 3 0
+p182
+aVMarreese Speights MEM 03/31/2012 MEM @ MIL W 30 10 4 12 33.3 0 0 - 2 3 66.7 4 6 10 1 1 2 1 3 19
+p183
+aVMarc Gasol MEM 03/31/2012 MEM @ MIL W 39 13 5 13 38.5 0 0 - 3 6 50.0 2 13 15 2 2 2 1 4 -6
+p184
+aVO.J. Mayo MEM 03/31/2012 MEM @ MIL W 29 24 6 15 40.0 2 3 66.7 10 10 100.0 1 2 3 3 1 0 4 4 -4
+p185
+aVZach Randolph MEM 03/31/2012 MEM @ MIL W 23 13 6 9 66.7 0 0 - 1 1 100.0 5 2 7 2 0 0 3 3 3
+p186
+aVJeremy Pargo MEM 03/30/2012 MEM @ HOU L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -8
+p187
+aVMarc Gasol MEM 03/30/2012 MEM @ HOU L 39 19 7 16 43.8 0 0 - 5 7 71.4 4 5 9 2 1 2 1 3 -10
+p188
+aVHamed Haddadi MEM 03/30/2012 MEM @ HOU L 7 2 1 4 25.0 0 0 - 0 0 - 4 1 5 1 0 0 1 1 -5
+p189
+aVDante Cunningham MEM 03/30/2012 MEM @ HOU L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 2 1 0 0 14
+p190
+aVQuincy Pondexter MEM 03/30/2012 MEM @ HOU L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 1
+p191
+aVMarreese Speights MEM 03/30/2012 MEM @ HOU L 12 2 1 6 16.7 0 0 - 0 0 - 3 4 7 1 0 0 0 3 -15
+p192
+aVRudy Gay MEM 03/30/2012 MEM @ HOU L 40 20 9 19 47.4 0 3 0.0 2 2 100.0 4 1 5 1 2 0 0 0 -8
+p193
+aVZach Randolph MEM 03/30/2012 MEM @ HOU L 25 6 3 7 42.9 0 0 - 0 2 0.0 2 2 4 0 1 0 0 1 1
+p194
+aVTony Allen MEM 03/30/2012 MEM @ HOU L 32 15 5 15 33.3 0 1 0.0 5 6 83.3 4 3 7 1 3 2 2 4 -4
+p195
+aVO.J. Mayo MEM 03/30/2012 MEM @ HOU L 31 15 5 13 38.5 1 7 14.3 4 5 80.0 1 4 5 4 2 0 1 1 5
+p196
+aVMike Conley MEM 03/30/2012 MEM @ HOU L 26 7 3 8 37.5 0 2 0.0 1 2 50.0 1 0 1 0 0 0 2 3 -16
+p197
+aVZach Randolph MEM 03/27/2012 MEM vs. MIN W 22 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 1 0 0 3 2 8
+p198
+aVTony Allen MEM 03/27/2012 MEM vs. MIN W 34 13 5 12 41.7 0 0 - 3 5 60.0 1 4 5 2 2 0 1 0 4
+p199
+aVMike Conley MEM 03/27/2012 MEM vs. MIN W 32 12 3 9 33.3 0 2 0.0 6 6 100.0 1 4 5 8 3 1 2 3 4
+p200
+aVDante Cunningham MEM 03/27/2012 MEM vs. MIN W 41 13 6 9 66.7 0 0 - 1 2 50.0 4 10 14 1 2 4 0 3 8
+p201
+aVRudy Gay MEM 03/27/2012 MEM vs. MIN W 38 21 7 20 35.0 0 4 0.0 7 7 100.0 3 2 5 2 0 2 3 2 8
+p202
+aVJeremy Pargo MEM 03/27/2012 MEM vs. MIN W 11 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 -3
+p203
+aVQuincy Pondexter MEM 03/27/2012 MEM vs. MIN W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 1 -2
+p204
+aVMarreese Speights MEM 03/27/2012 MEM vs. MIN W 32 18 8 11 72.7 0 0 - 2 2 100.0 3 4 7 0 1 2 4 2 -1
+p205
+aVO.J. Mayo MEM 03/27/2012 MEM vs. MIN W 16 6 1 6 16.7 0 2 0.0 4 4 100.0 0 4 4 1 0 0 2 1 9
+p206
+aVMike Conley MEM 03/25/2012 MEM @ LAL W 33 13 6 13 46.2 1 2 50.0 0 0 - 2 1 3 8 1 0 2 2 -5
+p207
+aVJeremy Pargo MEM 03/25/2012 MEM @ LAL W 15 5 2 6 33.3 0 2 0.0 1 2 50.0 0 1 1 2 1 0 4 1 11
+p208
+aVMarreese Speights MEM 03/25/2012 MEM @ LAL W 19 10 3 8 37.5 0 0 - 4 4 100.0 2 2 4 0 0 0 3 2 -10
+p209
+aVO.J. Mayo MEM 03/25/2012 MEM @ LAL W 20 16 6 11 54.5 2 3 66.7 2 3 66.7 1 3 4 4 1 1 0 2 3
+p210
+aVTony Allen MEM 03/25/2012 MEM @ LAL W 28 12 5 8 62.5 1 1 100.0 1 1 100.0 2 1 3 3 2 1 1 0 3
+p211
+aVHamed Haddadi MEM 03/25/2012 MEM @ LAL W 13 10 5 7 71.4 0 0 - 0 0 - 3 3 6 0 0 3 1 3 7
+p212
+aVDante Cunningham MEM 03/25/2012 MEM @ LAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p213
+aVQuincy Pondexter MEM 03/25/2012 MEM @ LAL W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 3 17
+p214
+aVMarc Gasol MEM 03/25/2012 MEM @ LAL W 35 8 4 9 44.4 0 1 0.0 0 0 - 0 6 6 3 1 0 1 4 -1
+p215
+aVRudy Gay MEM 03/25/2012 MEM @ LAL W 38 18 8 14 57.1 2 4 50.0 0 0 - 0 2 2 2 1 2 1 1 -11
+p216
+aVZach Randolph MEM 03/25/2012 MEM @ LAL W 28 10 5 9 55.6 0 0 - 0 0 - 4 8 12 3 1 0 0 4 17
+p217
+aVZach Randolph MEM 03/24/2012 MEM @ LAC L 38 14 6 16 37.5 0 0 - 2 2 100.0 3 5 8 2 2 0 0 2 0
+p218
+aVMarreese Speights MEM 03/24/2012 MEM @ LAC L 13 7 3 4 75.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 -9
+p219
+aVO.J. Mayo MEM 03/24/2012 MEM @ LAC L 24 13 5 12 41.7 2 4 50.0 1 3 33.3 1 2 3 6 0 2 2 4 -8
+p220
+aVDante Cunningham MEM 03/24/2012 MEM @ LAC L 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -16
+p221
+aVJeremy Pargo MEM 03/24/2012 MEM @ LAC L 7 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 0 0 1 1 -2
+p222
+aVTony Allen MEM 03/24/2012 MEM @ LAC L 27 11 3 5 60.0 1 1 100.0 4 4 100.0 2 4 6 2 0 1 3 2 -10
+p223
+aVQuincy Pondexter MEM 03/24/2012 MEM @ LAC L 18 9 3 3 100.0 3 3 100.0 0 0 - 0 0 0 1 2 0 0 1 7
+p224
+aVGilbert Arenas MEM 03/24/2012 MEM @ LAC L 19 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 3 -15
+p225
+aVMarc Gasol MEM 03/24/2012 MEM @ LAC L 34 6 3 12 25.0 0 1 0.0 0 0 - 4 4 8 2 0 0 3 4 -3
+p226
+aVRudy Gay MEM 03/24/2012 MEM @ LAC L 27 11 4 9 44.4 1 2 50.0 2 3 66.7 1 1 2 1 0 0 2 2 -21
+p227
+aVMike Conley MEM 03/24/2012 MEM @ LAC L 22 9 4 6 66.7 1 1 100.0 0 0 - 1 2 3 9 2 0 2 4 1
+p228
+aVHamed Haddadi MEM 03/24/2012 MEM @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p229
+aVDante Cunningham MEM 03/22/2012 MEM @ POR L 8 4 2 3 66.7 0 0 - 0 2 0.0 1 1 2 0 0 1 0 0 -5
+p230
+aVGilbert Arenas MEM 03/22/2012 MEM @ POR L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 2 0 2 3 -6
+p231
+aVO.J. Mayo MEM 03/22/2012 MEM @ POR L 29 6 3 9 33.3 0 0 - 0 0 - 2 3 5 2 1 0 0 4 -5
+p232
+aVRudy Gay MEM 03/22/2012 MEM @ POR L 30 10 4 10 40.0 1 3 33.3 1 2 50.0 2 3 5 1 1 1 3 4 1
+p233
+aVMike Conley MEM 03/22/2012 MEM @ POR L 36 13 5 16 31.3 1 2 50.0 2 3 66.7 0 2 2 4 1 0 1 3 2
+p234
+aVMarc Gasol MEM 03/22/2012 MEM @ POR L 37 22 8 13 61.5 0 0 - 6 8 75.0 2 7 9 3 1 0 2 2 1
+p235
+aVTony Allen MEM 03/22/2012 MEM @ POR L 34 17 6 9 66.7 1 1 100.0 4 4 100.0 2 2 4 6 2 0 2 2 3
+p236
+aVQuincy Pondexter MEM 03/22/2012 MEM @ POR L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p237
+aVMarreese Speights MEM 03/22/2012 MEM @ POR L 17 7 3 6 50.0 0 0 - 1 2 50.0 3 3 6 2 0 0 2 2 -9
+p238
+aVZach Randolph MEM 03/22/2012 MEM @ POR L 27 12 5 10 50.0 0 0 - 2 2 100.0 1 5 6 0 1 0 1 1 3
+p239
+aVZach Randolph MEM 03/20/2012 MEM @ SAC L 29 13 6 15 40.0 0 0 - 1 2 50.0 4 3 7 0 2 0 2 3 -7
+p240
+aVMike Conley MEM 03/20/2012 MEM @ SAC L 37 16 6 14 42.9 2 5 40.0 2 2 100.0 0 1 1 9 1 1 1 3 -10
+p241
+aVTony Allen MEM 03/20/2012 MEM @ SAC L 21 14 6 8 75.0 0 0 - 2 2 100.0 0 3 3 2 3 0 3 1 -4
+p242
+aVO.J. Mayo MEM 03/20/2012 MEM @ SAC L 17 6 3 11 27.3 0 2 0.0 0 0 - 0 1 1 2 0 1 1 2 -12
+p243
+aVRudy Gay MEM 03/20/2012 MEM @ SAC L 42 23 8 15 53.3 0 5 0.0 7 7 100.0 2 4 6 2 0 0 3 1 -4
+p244
+aVMarreese Speights MEM 03/20/2012 MEM @ SAC L 20 7 3 6 50.0 0 0 - 1 1 100.0 3 3 6 1 0 0 1 6 -5
+p245
+aVJosh Selby MEM 03/20/2012 MEM @ SAC L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p246
+aVMarc Gasol MEM 03/20/2012 MEM @ SAC L 35 15 5 8 62.5 0 0 - 5 6 83.3 1 9 10 8 0 0 2 4 -8
+p247
+aVDante Cunningham MEM 03/20/2012 MEM @ SAC L 9 5 2 3 66.7 0 0 - 1 3 33.3 1 0 1 0 0 0 0 1 4
+p248
+aVJeremy Pargo MEM 03/20/2012 MEM @ SAC L 17 9 3 8 37.5 2 3 66.7 1 2 50.0 0 2 2 0 0 0 1 4 2
+p249
+aVQuincy Pondexter MEM 03/20/2012 MEM @ SAC L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p250
+aVHamed Haddadi MEM 03/20/2012 MEM @ SAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p251
+aVO.J. Mayo MEM 03/18/2012 MEM vs. WAS W 20 10 3 7 42.9 0 0 - 4 7 57.1 0 2 2 1 1 0 3 3 5
+p252
+aVQuincy Pondexter MEM 03/18/2012 MEM vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p253
+aVRudy Gay MEM 03/18/2012 MEM vs. WAS W 44 27 8 17 47.1 1 4 25.0 10 12 83.3 3 6 9 2 2 1 2 1 -3
+p254
+aVZach Randolph MEM 03/18/2012 MEM vs. WAS W 24 13 4 9 44.4 0 0 - 5 6 83.3 4 5 9 0 1 1 2 3 16
+p255
+aVMike Conley MEM 03/18/2012 MEM vs. WAS W 35 17 8 18 44.4 1 3 33.3 0 0 - 0 2 2 6 3 0 2 1 7
+p256
+aVTony Allen MEM 03/18/2012 MEM vs. WAS W 28 3 1 5 20.0 0 0 - 1 2 50.0 4 3 7 1 2 0 2 2 0
+p257
+aVJeremy Pargo MEM 03/18/2012 MEM vs. WAS W 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 -2
+p258
+aVDante Cunningham MEM 03/18/2012 MEM vs. WAS W 18 6 1 3 33.3 0 0 - 4 4 100.0 3 4 7 1 1 0 1 0 -9
+p259
+aVMarreese Speights MEM 03/18/2012 MEM vs. WAS W 17 4 2 6 33.3 0 0 - 0 0 - 3 4 7 1 0 0 0 4 1
+p260
+aVMarc Gasol MEM 03/18/2012 MEM vs. WAS W 37 15 6 16 37.5 0 0 - 3 6 50.0 3 6 9 3 1 1 2 4 2
+p261
+aVO.J. Mayo MEM 03/16/2012 MEM vs. TOR L 33 10 3 10 30.0 2 4 50.0 2 2 100.0 0 6 6 4 3 1 3 4 6
+p262
+aVRudy Gay MEM 03/16/2012 MEM vs. TOR L 40 26 10 20 50.0 3 5 60.0 3 4 75.0 2 9 11 2 1 1 4 6 6
+p263
+aVMarreese Speights MEM 03/16/2012 MEM vs. TOR L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 3 -6
+p264
+aVHamed Haddadi MEM 03/16/2012 MEM vs. TOR L 5 2 0 0 - 0 0 - 2 4 50.0 1 1 2 0 0 1 1 0 1
+p265
+aVMarc Gasol MEM 03/16/2012 MEM vs. TOR L 46 28 11 17 64.7 0 0 - 6 10 60.0 4 4 8 1 1 3 4 3 -2
+p266
+aVTony Allen MEM 03/16/2012 MEM vs. TOR L 19 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 0 1 2 3 -12
+p267
+aVDante Cunningham MEM 03/16/2012 MEM vs. TOR L 22 6 2 5 40.0 0 0 - 2 4 50.0 0 1 1 0 0 1 0 2 -11
+p268
+aVMike Conley MEM 03/16/2012 MEM vs. TOR L 45 8 1 7 14.3 0 3 0.0 6 9 66.7 1 2 3 10 2 1 3 5 -7
+p269
+aVZach Randolph MEM 03/16/2012 MEM vs. TOR L 25 25 9 14 64.3 0 0 - 7 14 50.0 6 3 9 1 2 0 0 1 7
+p270
+aVQuincy Pondexter MEM 03/16/2012 MEM vs. TOR L 22 2 1 6 16.7 0 4 0.0 0 0 - 1 1 2 0 3 0 1 2 -2
+p271
+aVMarc Gasol MEM 03/13/2012 MEM vs. LAL L 50 20 10 25 40.0 0 2 0.0 0 0 - 4 7 11 3 2 0 2 5 1
+p272
+aVJosh Selby MEM 03/13/2012 MEM vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p273
+aVTony Allen MEM 03/13/2012 MEM vs. LAL L 21 18 7 12 58.3 0 2 0.0 4 4 100.0 0 4 4 4 3 0 0 4 13
+p274
+aVDante Cunningham MEM 03/13/2012 MEM vs. LAL L 14 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 2 0 0 1 -10
+p275
+aVMike Conley MEM 03/13/2012 MEM vs. LAL L 51 10 5 15 33.3 0 3 0.0 0 0 - 0 4 4 11 3 0 2 1 -4
+p276
+aVO.J. Mayo MEM 03/13/2012 MEM vs. LAL L 40 14 7 25 28.0 0 8 0.0 0 0 - 1 5 6 1 1 0 2 2 -20
+p277
+aVMarreese Speights MEM 03/13/2012 MEM vs. LAL L 49 25 12 20 60.0 0 0 - 1 1 100.0 3 4 7 5 1 1 0 3 1
+p278
+aVQuincy Pondexter MEM 03/13/2012 MEM vs. LAL L 34 12 5 8 62.5 2 4 50.0 0 0 - 2 2 4 1 1 0 1 5 -16
+p279
+aVJeremy Pargo MEM 03/13/2012 MEM vs. LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p280
+aVSam Young MEM 03/13/2012 MEM vs. LAL L 25 4 2 5 40.0 0 0 - 0 0 - 2 4 6 1 2 0 0 4 14
+p281
+aVHamed Haddadi MEM 03/13/2012 MEM vs. LAL L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -4
+p282
+aVTony Allen MEM 03/11/2012 MEM @ DEN W 18 10 4 5 80.0 0 0 - 2 3 66.7 0 0 0 0 0 0 2 4 -5
+p283
+aVDante Cunningham MEM 03/11/2012 MEM @ DEN W 28 12 4 6 66.7 0 0 - 4 4 100.0 1 7 8 2 0 3 2 2 1
+p284
+aVSam Young MEM 03/11/2012 MEM @ DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p285
+aVQuincy Pondexter MEM 03/11/2012 MEM @ DEN W 29 9 4 7 57.1 1 3 33.3 0 0 - 1 0 1 3 0 0 2 4 10
+p286
+aVO.J. Mayo MEM 03/11/2012 MEM @ DEN W 35 22 9 14 64.3 3 8 37.5 1 2 50.0 0 5 5 8 3 0 6 3 8
+p287
+aVMarreese Speights MEM 03/11/2012 MEM @ DEN W 24 8 4 10 40.0 0 0 - 0 2 0.0 3 6 9 0 0 1 1 1 0
+p288
+aVMike Conley MEM 03/11/2012 MEM @ DEN W 32 13 5 8 62.5 1 2 50.0 2 2 100.0 0 1 1 7 2 1 4 0 -1
+p289
+aVHamed Haddadi MEM 03/11/2012 MEM @ DEN W 13 6 2 3 66.7 0 0 - 2 4 50.0 2 0 2 1 0 2 0 1 12
+p290
+aVRudy Gay MEM 03/11/2012 MEM @ DEN W 32 7 3 13 23.1 0 2 0.0 1 3 33.3 0 3 3 2 4 1 3 2 -4
+p291
+aVMarc Gasol MEM 03/11/2012 MEM @ DEN W 28 7 2 7 28.6 0 0 - 3 3 100.0 1 3 4 0 1 1 1 5 -4
+p292
+aVMike Conley MEM 03/10/2012 MEM @ PHX L 40 9 4 10 40.0 1 2 50.0 0 0 - 0 2 2 10 2 0 1 2 -10
+p293
+aVJeremy Pargo MEM 03/10/2012 MEM @ PHX L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 0
+p294
+aVDante Cunningham MEM 03/10/2012 MEM @ PHX L 18 6 3 4 75.0 0 0 - 0 0 - 1 4 5 1 1 1 0 2 -2
+p295
+aVTony Allen MEM 03/10/2012 MEM @ PHX L 21 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 2 1 1 2 7
+p296
+aVRudy Gay MEM 03/10/2012 MEM @ PHX L 38 19 7 20 35.0 1 4 25.0 4 4 100.0 2 3 5 5 2 0 0 0 -12
+p297
+aVQuincy Pondexter MEM 03/10/2012 MEM @ PHX L 22 8 3 7 42.9 2 4 50.0 0 0 - 0 1 1 0 0 0 1 2 -8
+p298
+aVHamed Haddadi MEM 03/10/2012 MEM @ PHX L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p299
+aVMarreese Speights MEM 03/10/2012 MEM @ PHX L 22 10 5 12 41.7 0 0 - 0 0 - 2 3 5 0 0 1 0 1 -4
+p300
+aVMarc Gasol MEM 03/10/2012 MEM @ PHX L 40 21 7 15 46.7 0 0 - 7 11 63.6 1 7 8 5 2 0 3 3 -4
+p301
+aVO.J. Mayo MEM 03/10/2012 MEM @ PHX L 31 8 2 8 25.0 1 4 25.0 3 4 75.0 0 6 6 4 1 0 2 2 -2
+p302
+aVMarreese Speights MEM 03/07/2012 MEM @ GSW W 27 18 8 12 66.7 0 0 - 2 2 100.0 1 6 7 4 2 1 0 6 16
+p303
+aVMarc Gasol MEM 03/07/2012 MEM @ GSW W 32 17 5 9 55.6 0 0 - 7 8 87.5 1 11 12 3 2 0 3 3 20
+p304
+aVDante Cunningham MEM 03/07/2012 MEM @ GSW W 10 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 -5
+p305
+aVJeremy Pargo MEM 03/07/2012 MEM @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p306
+aVQuincy Pondexter MEM 03/07/2012 MEM @ GSW W 23 11 4 6 66.7 2 3 66.7 1 2 50.0 1 1 2 1 1 1 1 2 14
+p307
+aVHamed Haddadi MEM 03/07/2012 MEM @ GSW W 6 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 1 0 0 -2
+p308
+aVO.J. Mayo MEM 03/07/2012 MEM @ GSW W 26 16 6 15 40.0 2 7 28.6 2 2 100.0 0 2 2 5 1 0 4 1 8
+p309
+aVMike Conley MEM 03/07/2012 MEM @ GSW W 34 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 12 2 0 2 1 20
+p310
+aVSam Young MEM 03/07/2012 MEM @ GSW W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p311
+aVRudy Gay MEM 03/07/2012 MEM @ GSW W 39 26 10 20 50.0 2 6 33.3 4 4 100.0 5 7 12 5 1 1 0 2 18
+p312
+aVTony Allen MEM 03/07/2012 MEM @ GSW W 30 12 5 7 71.4 1 2 50.0 1 1 100.0 0 6 6 1 2 1 3 3 16
+p313
+aVJosh Selby MEM 03/07/2012 MEM @ GSW W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p314
+aVMarc Gasol MEM 03/03/2012 MEM vs. DET W 35 17 7 13 53.8 0 0 - 3 3 100.0 0 9 9 2 1 2 1 3 9
+p315
+aVHamed Haddadi MEM 03/03/2012 MEM vs. DET W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 2
+p316
+aVRudy Gay MEM 03/03/2012 MEM vs. DET W 31 15 6 12 50.0 1 1 100.0 2 2 100.0 2 3 5 2 0 1 5 4 14
+p317
+aVMike Conley MEM 03/03/2012 MEM vs. DET W 38 10 5 11 45.5 0 2 0.0 0 0 - 0 0 0 12 5 0 1 2 21
+p318
+aVO.J. Mayo MEM 03/03/2012 MEM vs. DET W 29 17 4 9 44.4 4 5 80.0 5 6 83.3 0 4 4 1 0 1 2 3 20
+p319
+aVMarreese Speights MEM 03/03/2012 MEM vs. DET W 20 16 6 11 54.5 0 0 - 4 4 100.0 2 5 7 0 0 0 3 4 -1
+p320
+aVQuincy Pondexter MEM 03/03/2012 MEM vs. DET W 28 12 4 5 80.0 1 2 50.0 3 3 100.0 1 2 3 0 1 0 1 1 19
+p321
+aVDante Cunningham MEM 03/03/2012 MEM vs. DET W 23 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 1 2 0 3 6
+p322
+aVTony Allen MEM 03/03/2012 MEM vs. DET W 30 11 4 8 50.0 0 1 0.0 3 4 75.0 1 1 2 2 0 2 1 4 -5
+p323
+aVO.J. Mayo MEM 03/02/2012 MEM @ TOR W 33 16 4 10 40.0 1 5 20.0 7 8 87.5 0 3 3 3 0 0 0 2 1
+p324
+aVDante Cunningham MEM 03/02/2012 MEM @ TOR W 25 11 5 9 55.6 0 0 - 1 2 50.0 2 2 4 2 3 0 0 1 -6
+p325
+aVMarc Gasol MEM 03/02/2012 MEM @ TOR W 41 21 9 19 47.4 0 0 - 3 4 75.0 0 5 5 3 1 1 2 3 11
+p326
+aVTony Allen MEM 03/02/2012 MEM @ TOR W 25 5 2 6 33.3 0 0 - 1 5 20.0 4 1 5 2 1 1 3 2 -2
+p327
+aVMike Conley MEM 03/02/2012 MEM @ TOR W 39 21 8 14 57.1 3 4 75.0 2 4 50.0 0 2 2 5 3 0 0 1 15
+p328
+aVRudy Gay MEM 03/02/2012 MEM @ TOR W 40 23 8 15 53.3 0 1 0.0 7 7 100.0 2 10 12 4 1 1 2 4 21
+p329
+aVJosh Selby MEM 03/02/2012 MEM @ TOR W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -8
+p330
+aVQuincy Pondexter MEM 03/02/2012 MEM @ TOR W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -14
+p331
+aVMarreese Speights MEM 03/02/2012 MEM @ TOR W 20 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 1 0 1 1 3 -6
+p332
+aVSam Young MEM 03/02/2012 MEM @ TOR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p333
+aVMarreese Speights MEM 02/29/2012 MEM vs. DAL W 19 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 0 4 2 -8
+p334
+aVQuincy Pondexter MEM 02/29/2012 MEM vs. DAL W 21 8 3 5 60.0 0 1 0.0 2 2 100.0 3 5 8 1 1 0 1 2 10
+p335
+aVMike Conley MEM 02/29/2012 MEM vs. DAL W 38 20 7 12 58.3 1 2 50.0 5 7 71.4 0 3 3 10 4 0 2 3 14
+p336
+aVTony Allen MEM 02/29/2012 MEM vs. DAL W 28 6 3 7 42.9 0 0 - 0 0 - 1 1 2 1 1 0 0 2 12
+p337
+aVDante Cunningham MEM 02/29/2012 MEM vs. DAL W 20 10 5 6 83.3 0 0 - 0 0 - 0 2 2 1 1 0 1 1 -1
+p338
+aVMarc Gasol MEM 02/29/2012 MEM vs. DAL W 41 22 8 14 57.1 0 0 - 6 6 100.0 2 9 11 5 0 4 3 4 20
+p339
+aVJeremy Pargo MEM 02/29/2012 MEM vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p340
+aVJosh Selby MEM 02/29/2012 MEM vs. DAL W 5 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -5
+p341
+aVRudy Gay MEM 02/29/2012 MEM vs. DAL W 39 18 8 19 42.1 0 4 0.0 2 2 100.0 1 6 7 1 3 1 3 0 14
+p342
+aVO.J. Mayo MEM 02/29/2012 MEM vs. DAL W 28 7 3 10 30.0 1 5 20.0 0 0 - 0 2 2 2 2 0 1 2 -1
+p343
+aVJeremy Pargo MEM 02/21/2012 MEM vs. PHI W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -9
+p344
+aVMike Conley MEM 02/21/2012 MEM vs. PHI W 36 9 4 14 28.6 0 4 0.0 1 1 100.0 1 2 3 6 3 0 1 1 26
+p345
+aVMarreese Speights MEM 02/21/2012 MEM vs. PHI W 21 12 3 9 33.3 0 0 - 6 6 100.0 0 2 2 0 0 1 2 4 3
+p346
+aVDante Cunningham MEM 02/21/2012 MEM vs. PHI W 17 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 1 2 0 1 -3
+p347
+aVHamed Haddadi MEM 02/21/2012 MEM vs. PHI W 5 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -1
+p348
+aVRudy Gay MEM 02/21/2012 MEM vs. PHI W 38 14 3 10 30.0 2 2 100.0 6 9 66.7 2 5 7 4 1 2 1 1 7
+p349
+aVO.J. Mayo MEM 02/21/2012 MEM vs. PHI W 29 13 5 9 55.6 3 5 60.0 0 0 - 0 5 5 5 0 0 5 4 13
+p350
+aVMarc Gasol MEM 02/21/2012 MEM vs. PHI W 43 15 5 12 41.7 0 0 - 5 8 62.5 1 13 14 7 1 5 2 2 19
+p351
+aVQuincy Pondexter MEM 02/21/2012 MEM vs. PHI W 13 8 3 6 50.0 1 1 100.0 1 3 33.3 2 0 2 0 0 0 0 0 2
+p352
+aVTony Allen MEM 02/21/2012 MEM vs. PHI W 29 6 2 9 22.2 0 0 - 2 2 100.0 3 1 4 1 1 0 0 1 8
+p353
+aVRudy Gay MEM 02/20/2012 MEM @ HOU L 41 23 9 22 40.9 0 2 0.0 5 5 100.0 2 5 7 3 1 1 2 2 2
+p354
+aVTony Allen MEM 02/20/2012 MEM @ HOU L 25 10 5 11 45.5 0 0 - 0 1 0.0 4 1 5 2 2 0 2 4 12
+p355
+aVMike Conley MEM 02/20/2012 MEM @ HOU L 40 16 7 13 53.8 2 4 50.0 0 0 - 0 3 3 3 2 1 4 5 5
+p356
+aVO.J. Mayo MEM 02/20/2012 MEM @ HOU L 32 6 3 12 25.0 0 6 0.0 0 2 0.0 0 4 4 3 1 0 0 3 -12
+p357
+aVQuincy Pondexter MEM 02/20/2012 MEM @ HOU L 10 9 3 3 100.0 1 1 100.0 2 2 100.0 1 0 1 0 0 0 1 2 -9
+p358
+aVMarc Gasol MEM 02/20/2012 MEM @ HOU L 38 11 3 8 37.5 0 0 - 5 6 83.3 2 5 7 5 0 1 2 5 2
+p359
+aVMarreese Speights MEM 02/20/2012 MEM @ HOU L 30 12 6 8 75.0 0 0 - 0 0 - 1 6 7 0 0 0 0 2 -9
+p360
+aVDante Cunningham MEM 02/20/2012 MEM @ HOU L 16 6 2 2 100.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 0 3
+p361
+aVJeremy Pargo MEM 02/20/2012 MEM @ HOU L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -14
+p362
+aVDante Cunningham MEM 02/18/2012 MEM vs. GSW W 20 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 1 0 0 1 8
+p363
+aVMarreese Speights MEM 02/18/2012 MEM vs. GSW W 24 16 7 15 46.7 0 0 - 2 3 66.7 4 4 8 0 0 0 2 1 -3
+p364
+aVO.J. Mayo MEM 02/18/2012 MEM vs. GSW W 31 18 7 12 58.3 3 6 50.0 1 2 50.0 1 2 3 0 2 0 3 2 -7
+p365
+aVTony Allen MEM 02/18/2012 MEM vs. GSW W 26 11 3 3 100.0 0 0 - 5 8 62.5 1 3 4 1 1 1 2 4 2
+p366
+aVJeremy Pargo MEM 02/18/2012 MEM vs. GSW W 13 6 2 4 50.0 0 1 0.0 2 4 50.0 0 2 2 3 1 0 3 2 -4
+p367
+aVHamed Haddadi MEM 02/18/2012 MEM vs. GSW W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 1 7
+p368
+aVRudy Gay MEM 02/18/2012 MEM vs. GSW W 36 19 8 16 50.0 0 0 - 3 7 42.9 3 3 6 3 2 1 2 4 -4
+p369
+aVQuincy Pondexter MEM 02/18/2012 MEM vs. GSW W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 10
+p370
+aVMarc Gasol MEM 02/18/2012 MEM vs. GSW W 38 17 5 9 55.6 0 0 - 7 7 100.0 2 11 13 3 0 1 3 3 -9
+p371
+aVMike Conley MEM 02/18/2012 MEM vs. GSW W 35 15 4 9 44.4 1 3 33.3 6 7 85.7 0 0 0 6 2 0 4 2 5
+p372
+aVMarreese Speights MEM 02/17/2012 MEM vs. DEN W 35 12 5 8 62.5 0 0 - 2 3 66.7 3 7 10 2 0 2 1 3 6
+p373
+aVTony Allen MEM 02/17/2012 MEM vs. DEN W 29 13 6 10 60.0 0 1 0.0 1 1 100.0 3 1 4 0 1 1 5 3 -12
+p374
+aVHamed Haddadi MEM 02/17/2012 MEM vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p375
+aVO.J. Mayo MEM 02/17/2012 MEM vs. DEN W 30 17 7 14 50.0 3 6 50.0 0 1 0.0 1 1 2 1 2 1 0 1 11
+p376
+aVDante Cunningham MEM 02/17/2012 MEM vs. DEN W 16 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 -11
+p377
+aVMarc Gasol MEM 02/17/2012 MEM vs. DEN W 41 16 5 11 45.5 0 0 - 6 7 85.7 4 10 14 8 0 3 7 3 10
+p378
+aVJeremy Pargo MEM 02/17/2012 MEM vs. DEN W 9 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 0 1 0 0 3 -3
+p379
+aVRudy Gay MEM 02/17/2012 MEM vs. DEN W 41 20 8 19 42.1 1 2 50.0 3 4 75.0 3 5 8 6 0 3 1 2 0
+p380
+aVMike Conley MEM 02/17/2012 MEM vs. DEN W 38 16 6 11 54.5 1 4 25.0 3 3 100.0 0 2 2 7 5 0 3 0 4
+p381
+aVDante Cunningham MEM 02/15/2012 MEM @ NJN W 20 5 2 5 40.0 0 0 - 1 1 100.0 3 1 4 0 0 1 0 0 -25
+p382
+aVMarreese Speights MEM 02/15/2012 MEM @ NJN W 38 20 10 13 76.9 0 0 - 0 1 0.0 6 12 18 1 0 2 0 4 29
+p383
+aVJeremy Pargo MEM 02/15/2012 MEM @ NJN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -13
+p384
+aVTony Allen MEM 02/15/2012 MEM @ NJN W 39 21 8 15 53.3 1 2 50.0 4 5 80.0 1 3 4 3 5 1 5 4 9
+p385
+aVMike Conley MEM 02/15/2012 MEM @ NJN W 38 16 5 11 45.5 1 3 33.3 5 5 100.0 0 0 0 10 4 0 0 3 24
+p386
+aVRudy Gay MEM 02/15/2012 MEM @ NJN W 40 25 8 15 53.3 3 3 100.0 6 6 100.0 3 3 6 2 1 0 1 1 11
+p387
+aVMarc Gasol MEM 02/15/2012 MEM @ NJN W 38 12 6 15 40.0 0 1 0.0 0 0 - 4 3 7 3 0 0 1 2 6
+p388
+aVO.J. Mayo MEM 02/15/2012 MEM @ NJN W 19 6 2 12 16.7 1 6 16.7 1 2 50.0 2 0 2 3 2 0 1 2 -12
+p389
+aVQuincy Pondexter MEM 02/15/2012 MEM @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p390
+aVO.J. Mayo MEM 02/14/2012 MEM vs. HOU W 23 10 4 11 36.4 2 3 66.7 0 0 - 0 1 1 2 0 0 1 2 2
+p391
+aVMarreese Speights MEM 02/14/2012 MEM vs. HOU W 30 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 0 1 0 3 7
+p392
+aVRudy Gay MEM 02/14/2012 MEM vs. HOU W 39 20 8 15 53.3 0 1 0.0 4 4 100.0 3 5 8 3 3 0 3 3 7
+p393
+aVMike Conley MEM 02/14/2012 MEM vs. HOU W 37 21 7 15 46.7 3 4 75.0 4 4 100.0 0 3 3 4 0 0 3 3 13
+p394
+aVJeremy Pargo MEM 02/14/2012 MEM vs. HOU W 6 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -4
+p395
+aVDante Cunningham MEM 02/14/2012 MEM vs. HOU W 25 5 2 4 50.0 0 0 - 1 2 50.0 2 4 6 1 0 0 2 2 5
+p396
+aVQuincy Pondexter MEM 02/14/2012 MEM vs. HOU W 10 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 2 2
+p397
+aVMarc Gasol MEM 02/14/2012 MEM vs. HOU W 37 18 7 9 77.8 0 0 - 4 5 80.0 1 6 7 1 1 1 6 3 6
+p398
+aVTony Allen MEM 02/14/2012 MEM vs. HOU W 33 10 3 7 42.9 0 0 - 4 4 100.0 2 1 3 3 4 1 0 4 12
+p399
+aVO.J. Mayo MEM 02/12/2012 MEM vs. UTA L 23 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 2 0 2 2 0 -8
+p400
+aVMarreese Speights MEM 02/12/2012 MEM vs. UTA L 28 7 3 11 27.3 0 0 - 1 2 50.0 8 3 11 1 0 0 1 5 -14
+p401
+aVRudy Gay MEM 02/12/2012 MEM vs. UTA L 38 22 10 19 52.6 2 3 66.7 0 0 - 1 5 6 2 1 1 5 4 -11
+p402
+aVJeremy Pargo MEM 02/12/2012 MEM vs. UTA L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 0 0 2 1 -2
+p403
+aVMarc Gasol MEM 02/12/2012 MEM vs. UTA L 40 17 8 15 53.3 0 2 0.0 1 3 33.3 2 7 9 2 1 2 1 1 -7
+p404
+aVHamed Haddadi MEM 02/12/2012 MEM vs. UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 2 1 1 -1
+p405
+aVDante Cunningham MEM 02/12/2012 MEM vs. UTA L 21 9 3 4 75.0 0 0 - 3 3 100.0 4 3 7 0 1 0 1 2 0
+p406
+aVQuincy Pondexter MEM 02/12/2012 MEM vs. UTA L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p407
+aVMike Conley MEM 02/12/2012 MEM vs. UTA L 36 17 6 11 54.5 0 2 0.0 5 5 100.0 1 1 2 6 2 0 2 0 -6
+p408
+aVTony Allen MEM 02/12/2012 MEM vs. UTA L 31 12 3 9 33.3 0 0 - 6 8 75.0 2 2 4 0 2 1 2 3 0
+p409
+aVMarc Gasol MEM 02/10/2012 MEM vs. IND W 35 15 4 8 50.0 0 0 - 7 8 87.5 1 6 7 4 2 3 0 4 5
+p410
+aVMike Conley MEM 02/10/2012 MEM vs. IND W 36 15 5 13 38.5 0 2 0.0 5 5 100.0 0 4 4 6 1 1 3 2 -1
+p411
+aVTony Allen MEM 02/10/2012 MEM vs. IND W 23 6 2 4 50.0 0 0 - 2 2 100.0 0 8 8 0 1 1 0 2 3
+p412
+aVQuincy Pondexter MEM 02/10/2012 MEM vs. IND W 16 6 3 5 60.0 0 1 0.0 0 2 0.0 0 0 0 0 0 1 0 3 -4
+p413
+aVJeremy Pargo MEM 02/10/2012 MEM vs. IND W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p414
+aVO.J. Mayo MEM 02/10/2012 MEM vs. IND W 25 13 3 9 33.3 1 4 25.0 6 7 85.7 1 4 5 2 2 0 0 4 4
+p415
+aVDante Cunningham MEM 02/10/2012 MEM vs. IND W 18 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 1 1 4 -6
+p416
+aVMarreese Speights MEM 02/10/2012 MEM vs. IND W 37 19 8 13 61.5 0 0 - 3 5 60.0 2 7 9 2 2 0 1 3 12
+p417
+aVRudy Gay MEM 02/10/2012 MEM vs. IND W 38 21 8 15 53.3 0 1 0.0 5 6 83.3 0 3 3 2 0 0 4 4 11
+p418
+aVHamed Haddadi MEM 02/10/2012 MEM vs. IND W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 0 0 1
+p419
+aVDante Cunningham MEM 02/08/2012 MEM vs. MIN W 26 12 6 11 54.5 0 0 - 0 1 0.0 5 2 7 0 0 0 0 5 3
+p420
+aVHamed Haddadi MEM 02/08/2012 MEM vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 0
+p421
+aVJeremy Pargo MEM 02/08/2012 MEM vs. MIN W 13 7 3 7 42.9 1 2 50.0 0 0 - 1 1 2 1 1 0 3 1 2
+p422
+aVO.J. Mayo MEM 02/08/2012 MEM vs. MIN W 30 10 3 11 27.3 1 4 25.0 3 5 60.0 0 5 5 2 0 0 3 2 -5
+p423
+aVRudy Gay MEM 02/08/2012 MEM vs. MIN W 38 19 9 21 42.9 1 2 50.0 0 0 - 2 7 9 3 3 1 2 1 10
+p424
+aVMarreese Speights MEM 02/08/2012 MEM vs. MIN W 28 6 2 9 22.2 0 0 - 2 2 100.0 8 7 15 0 1 0 1 2 8
+p425
+aVQuincy Pondexter MEM 02/08/2012 MEM vs. MIN W 36 17 7 14 50.0 1 3 33.3 2 2 100.0 3 3 6 2 0 0 2 0 -1
+p426
+aVMike Conley MEM 02/08/2012 MEM vs. MIN W 35 2 1 8 12.5 0 0 - 0 0 - 0 4 4 7 4 0 2 1 3
+p427
+aVMarc Gasol MEM 02/08/2012 MEM vs. MIN W 29 12 4 13 30.8 0 0 - 4 5 80.0 2 6 8 3 1 3 2 5 5
+p428
+aVJeremy Pargo MEM 02/06/2012 MEM vs. SAS L 10 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 1 7
+p429
+aVJosh Davis MEM 02/06/2012 MEM vs. SAS L 14 5 2 3 66.7 1 2 50.0 0 0 - 1 3 4 0 1 0 0 2 20
+p430
+aVQuincy Pondexter MEM 02/06/2012 MEM vs. SAS L 21 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -23
+p431
+aVDante Cunningham MEM 02/06/2012 MEM vs. SAS L 25 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 1 0 1 3 -15
+p432
+aVMarreese Speights MEM 02/06/2012 MEM vs. SAS L 16 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 1 -16
+p433
+aVMarc Gasol MEM 02/06/2012 MEM vs. SAS L 42 22 8 15 53.3 0 0 - 6 6 100.0 0 9 9 2 2 2 1 2 1
+p434
+aVO.J. Mayo MEM 02/06/2012 MEM vs. SAS L 28 9 3 15 20.0 1 5 20.0 2 3 66.7 0 6 6 2 3 1 1 4 8
+p435
+aVMike Conley MEM 02/06/2012 MEM vs. SAS L 41 19 5 12 41.7 1 1 100.0 8 10 80.0 2 4 6 8 1 0 2 2 -3
+p436
+aVRudy Gay MEM 02/06/2012 MEM vs. SAS L 45 18 9 26 34.6 0 3 0.0 0 0 - 3 5 8 0 4 0 4 2 -4
+p437
+aVJosh Selby MEM 02/05/2012 MEM @ BOS L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p438
+aVQuincy Pondexter MEM 02/05/2012 MEM @ BOS L 15 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 8
+p439
+aVDante Cunningham MEM 02/05/2012 MEM @ BOS L 25 10 4 8 50.0 0 1 0.0 2 2 100.0 2 3 5 0 0 0 0 2 -9
+p440
+aVMike Conley MEM 02/05/2012 MEM @ BOS L 34 4 2 8 25.0 0 3 0.0 0 0 - 0 3 3 4 1 0 3 0 -25
+p441
+aVO.J. Mayo MEM 02/05/2012 MEM @ BOS L 28 15 6 12 50.0 2 4 50.0 1 1 100.0 0 2 2 1 2 0 0 2 -11
+p442
+aVMarreese Speights MEM 02/05/2012 MEM @ BOS L 18 4 2 10 20.0 0 0 - 0 0 - 2 2 4 2 0 2 1 2 -4
+p443
+aVJeremy Pargo MEM 02/05/2012 MEM @ BOS L 5 0 0 4 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 7
+p444
+aVRudy Gay MEM 02/05/2012 MEM @ BOS L 39 21 8 16 50.0 1 3 33.3 4 4 100.0 3 4 7 3 1 1 1 3 -30
+p445
+aVSam Young MEM 02/05/2012 MEM @ BOS L 24 10 4 9 44.4 0 2 0.0 2 2 100.0 2 2 4 1 0 0 0 1 -5
+p446
+aVHamed Haddadi MEM 02/05/2012 MEM @ BOS L 11 9 3 4 75.0 0 0 - 3 3 100.0 2 3 5 0 0 1 0 1 5
+p447
+aVMarc Gasol MEM 02/05/2012 MEM @ BOS L 34 7 3 14 21.4 0 0 - 1 4 25.0 3 3 6 1 0 1 7 4 -26
+p448
+aVTony Allen MEM 02/03/2012 MEM @ OKC L 39 17 7 15 46.7 1 1 100.0 2 2 100.0 3 3 6 3 0 1 2 5 -11
+p449
+aVQuincy Pondexter MEM 02/03/2012 MEM @ OKC L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 6
+p450
+aVDante Cunningham MEM 02/03/2012 MEM @ OKC L 25 2 1 5 20.0 0 0 - 0 0 - 2 2 4 3 3 1 0 4 6
+p451
+aVMarc Gasol MEM 02/03/2012 MEM @ OKC L 38 24 9 12 75.0 0 0 - 6 6 100.0 2 6 8 3 1 2 3 4 -8
+p452
+aVMarreese Speights MEM 02/03/2012 MEM @ OKC L 13 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -10
+p453
+aVO.J. Mayo MEM 02/03/2012 MEM @ OKC L 30 13 5 16 31.3 0 5 0.0 3 7 42.9 2 2 4 2 2 1 3 1 -5
+p454
+aVRudy Gay MEM 02/03/2012 MEM @ OKC L 43 23 9 20 45.0 1 2 50.0 4 4 100.0 5 3 8 2 1 0 3 4 -10
+p455
+aVMike Conley MEM 02/03/2012 MEM @ OKC L 38 11 4 14 28.6 2 5 40.0 1 1 100.0 0 2 2 5 3 0 1 3 -8
+p456
+aVHamed Haddadi MEM 02/03/2012 MEM @ OKC L 8 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 2 3 1 5
+p457
+aVSam Young MEM 02/02/2012 MEM @ ATL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p458
+aVJosh Selby MEM 02/02/2012 MEM @ ATL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -11
+p459
+aVMarreese Speights MEM 02/02/2012 MEM @ ATL W 16 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 1 2 0 -11
+p460
+aVTony Allen MEM 02/02/2012 MEM @ ATL W 33 18 7 12 58.3 1 1 100.0 3 5 60.0 2 4 6 4 1 0 2 3 36
+p461
+aVMike Conley MEM 02/02/2012 MEM @ ATL W 40 15 7 13 53.8 0 0 - 1 2 50.0 1 2 3 6 4 0 3 2 21
+p462
+aVDante Cunningham MEM 02/02/2012 MEM @ ATL W 28 8 4 6 66.7 0 0 - 0 0 - 5 7 12 3 1 1 1 1 17
+p463
+aVO.J. Mayo MEM 02/02/2012 MEM @ ATL W 27 18 7 13 53.8 1 2 50.0 3 3 100.0 2 2 4 4 2 0 0 2 20
+p464
+aVMarc Gasol MEM 02/02/2012 MEM @ ATL W 35 11 5 8 62.5 0 0 - 1 2 50.0 3 7 10 2 1 2 0 1 40
+p465
+aVRudy Gay MEM 02/02/2012 MEM @ ATL W 34 21 9 18 50.0 0 2 0.0 3 5 60.0 1 5 6 3 3 0 1 1 21
+p466
+aVQuincy Pondexter MEM 02/02/2012 MEM @ ATL W 10 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 0 -5
+p467
+aVJeremy Pargo MEM 02/02/2012 MEM @ ATL W 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 0 -11
+p468
+aVJosh Davis MEM 02/02/2012 MEM @ ATL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -11
+p469
+aVO.J. Mayo MEM 01/31/2012 MEM vs. DEN W 33 18 7 14 50.0 3 6 50.0 1 2 50.0 1 1 2 2 0 0 2 2 0
+p470
+aVMike Conley MEM 01/31/2012 MEM vs. DEN W 45 11 3 11 27.3 1 3 33.3 4 4 100.0 1 1 2 6 4 0 2 4 11
+p471
+aVQuincy Pondexter MEM 01/31/2012 MEM vs. DEN W 12 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 2 0 0 1 -14
+p472
+aVDante Cunningham MEM 01/31/2012 MEM vs. DEN W 25 6 3 6 50.0 0 0 - 0 0 - 4 0 4 2 1 0 0 2 -10
+p473
+aVMarreese Speights MEM 01/31/2012 MEM vs. DEN W 18 5 1 5 20.0 0 0 - 3 4 75.0 1 3 4 0 1 0 3 2 -1
+p474
+aVJosh Selby MEM 01/31/2012 MEM vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p475
+aVTony Allen MEM 01/31/2012 MEM vs. DEN W 36 17 6 14 42.9 0 0 - 5 5 100.0 3 5 8 2 1 4 3 4 10
+p476
+aVRudy Gay MEM 01/31/2012 MEM vs. DEN W 44 20 7 20 35.0 2 3 66.7 4 4 100.0 3 10 13 5 2 2 5 4 15
+p477
+aVMarc Gasol MEM 01/31/2012 MEM vs. DEN W 50 20 5 13 38.5 0 0 - 10 14 71.4 3 10 13 1 2 3 1 2 8
+p478
+aVMarc Gasol MEM 01/30/2012 MEM vs. SAS L 35 7 3 11 27.3 0 0 - 1 2 50.0 3 9 12 0 0 1 3 4 -8
+p479
+aVDante Cunningham MEM 01/30/2012 MEM vs. SAS L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -5
+p480
+aVRudy Gay MEM 01/30/2012 MEM vs. SAS L 35 1 0 7 0.0 0 0 - 1 2 50.0 1 5 6 2 2 0 3 3 -11
+p481
+aVQuincy Pondexter MEM 01/30/2012 MEM vs. SAS L 13 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 1
+p482
+aVMarreese Speights MEM 01/30/2012 MEM vs. SAS L 22 10 3 6 50.0 0 0 - 4 4 100.0 1 3 4 0 0 0 2 1 -12
+p483
+aVSam Young MEM 01/30/2012 MEM vs. SAS L 25 6 3 8 37.5 0 1 0.0 0 0 - 0 4 4 1 1 0 0 1 2
+p484
+aVJosh Davis MEM 01/30/2012 MEM vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p485
+aVTony Allen MEM 01/30/2012 MEM vs. SAS L 21 9 3 8 37.5 0 0 - 3 3 100.0 0 1 1 1 4 1 2 3 -2
+p486
+aVJeremy Pargo MEM 01/30/2012 MEM vs. SAS L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 3 0 1
+p487
+aVHamed Haddadi MEM 01/30/2012 MEM vs. SAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p488
+aVO.J. Mayo MEM 01/30/2012 MEM vs. SAS L 25 17 7 11 63.6 1 3 33.3 2 3 66.7 0 3 3 2 0 1 1 2 -12
+p489
+aVMike Conley MEM 01/30/2012 MEM vs. SAS L 37 15 5 14 35.7 2 3 66.7 3 4 75.0 1 1 2 3 0 0 3 2 -2
+p490
+aVJosh Selby MEM 01/30/2012 MEM vs. SAS L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p491
+aVSam Young MEM 01/28/2012 MEM @ PHX L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -11
+p492
+aVDante Cunningham MEM 01/28/2012 MEM @ PHX L 24 6 3 7 42.9 0 0 - 0 0 - 2 8 10 0 1 1 3 5 10
+p493
+aVMarc Gasol MEM 01/28/2012 MEM @ PHX L 43 18 7 14 50.0 0 0 - 4 5 80.0 5 8 13 2 1 4 1 3 -2
+p494
+aVTony Allen MEM 01/28/2012 MEM @ PHX L 23 10 3 6 50.0 0 0 - 4 4 100.0 0 1 1 0 2 0 3 2 -8
+p495
+aVRudy Gay MEM 01/28/2012 MEM @ PHX L 41 18 7 15 46.7 1 1 100.0 3 4 75.0 1 5 6 0 2 1 4 2 -1
+p496
+aVMarreese Speights MEM 01/28/2012 MEM @ PHX L 18 8 4 8 50.0 0 0 - 0 0 - 0 5 5 2 0 1 0 4 -2
+p497
+aVHamed Haddadi MEM 01/28/2012 MEM @ PHX L 5 3 1 3 33.3 0 0 - 1 1 100.0 1 0 1 0 0 0 0 2 0
+p498
+aVMike Conley MEM 01/28/2012 MEM @ PHX L 38 15 6 13 46.2 0 1 0.0 3 4 75.0 0 3 3 10 0 0 2 2 -3
+p499
+aVJosh Selby MEM 01/28/2012 MEM @ PHX L 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 1 0 2 2 1
+p500
+aVO.J. Mayo MEM 01/28/2012 MEM @ PHX L 25 6 2 7 28.6 0 1 0.0 2 2 100.0 0 1 1 5 2 0 1 1 6
+p501
+aVDante Cunningham MEM 01/26/2012 MEM @ LAC L 16 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 1 0
+p502
+aVJosh Selby MEM 01/26/2012 MEM @ LAC L 14 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 1 1 0 2 2 6
+p503
+aVHamed Haddadi MEM 01/26/2012 MEM @ LAC L 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -2
+p504
+aVRudy Gay MEM 01/26/2012 MEM @ LAC L 42 24 9 18 50.0 3 5 60.0 3 5 60.0 1 6 7 2 0 1 6 3 -4
+p505
+aVO.J. Mayo MEM 01/26/2012 MEM @ LAC L 32 14 5 19 26.3 3 8 37.5 1 2 50.0 3 1 4 1 1 1 0 3 0
+p506
+aVTony Allen MEM 01/26/2012 MEM @ LAC L 32 14 3 9 33.3 0 0 - 8 10 80.0 1 1 2 1 1 0 1 0 -13
+p507
+aVMike Conley MEM 01/26/2012 MEM @ LAC L 34 4 2 10 20.0 0 3 0.0 0 0 - 0 5 5 7 4 1 3 6 -13
+p508
+aVMarc Gasol MEM 01/26/2012 MEM @ LAC L 41 18 5 12 41.7 0 1 0.0 8 8 100.0 3 8 11 6 2 0 0 4 -7
+p509
+aVMarreese Speights MEM 01/26/2012 MEM @ LAC L 8 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -8
+p510
+aVQuincy Pondexter MEM 01/26/2012 MEM @ LAC L 16 5 1 5 20.0 0 1 0.0 3 4 75.0 3 1 4 0 0 0 3 0 6
+p511
+aVRudy Gay MEM 01/24/2012 MEM @ POR L 34 11 5 15 33.3 1 2 50.0 0 0 - 1 4 5 1 2 1 1 5 -17
+p512
+aVMike Conley MEM 01/24/2012 MEM @ POR L 31 6 3 13 23.1 0 3 0.0 0 0 - 0 1 1 7 5 0 2 2 -16
+p513
+aVO.J. Mayo MEM 01/24/2012 MEM @ POR L 28 20 8 15 53.3 2 6 33.3 2 2 100.0 0 2 2 1 1 0 1 3 0
+p514
+aVSam Young MEM 01/24/2012 MEM @ POR L 9 0 0 4 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 0 4
+p515
+aVHamed Haddadi MEM 01/24/2012 MEM @ POR L 11 4 1 2 50.0 0 0 - 2 2 100.0 3 0 3 1 0 0 0 2 4
+p516
+aVJosh Selby MEM 01/24/2012 MEM @ POR L 17 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 3 0 0 2 0 5
+p517
+aVDante Cunningham MEM 01/24/2012 MEM @ POR L 12 7 2 4 50.0 0 0 - 3 3 100.0 0 4 4 0 1 0 1 3 1
+p518
+aVMarreese Speights MEM 01/24/2012 MEM @ POR L 18 4 1 6 16.7 0 0 - 2 2 100.0 2 4 6 0 1 1 0 3 -19
+p519
+aVMarc Gasol MEM 01/24/2012 MEM @ POR L 35 7 2 7 28.6 0 0 - 3 4 75.0 0 4 4 3 0 0 2 2 -11
+p520
+aVQuincy Pondexter MEM 01/24/2012 MEM @ POR L 18 5 2 4 50.0 0 1 0.0 1 2 50.0 1 3 4 1 0 0 0 1 0
+p521
+aVJosh Davis MEM 01/24/2012 MEM @ POR L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 6
+p522
+aVTony Allen MEM 01/24/2012 MEM @ POR L 24 8 4 10 40.0 0 0 - 0 2 0.0 2 2 4 0 0 1 0 3 -28
+p523
+aVJeremy Pargo MEM 01/24/2012 MEM @ POR L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 6
+p524
+aVHamed Haddadi MEM 01/23/2012 MEM @ GSW W 4 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 1 -4
+p525
+aVJeremy Pargo MEM 01/23/2012 MEM @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 4
+p526
+aVMike Conley MEM 01/23/2012 MEM @ GSW W 38 20 8 17 47.1 2 5 40.0 2 2 100.0 0 1 1 9 1 0 5 3 4
+p527
+aVQuincy Pondexter MEM 01/23/2012 MEM @ GSW W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p528
+aVJosh Selby MEM 01/23/2012 MEM @ GSW W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p529
+aVTony Allen MEM 01/23/2012 MEM @ GSW W 36 12 4 9 44.4 0 1 0.0 4 5 80.0 5 3 8 0 5 1 2 1 9
+p530
+aVO.J. Mayo MEM 01/23/2012 MEM @ GSW W 32 11 4 10 40.0 0 5 0.0 3 3 100.0 0 2 2 1 2 0 2 1 15
+p531
+aVSam Young MEM 01/23/2012 MEM @ GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p532
+aVDante Cunningham MEM 01/23/2012 MEM @ GSW W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 -14
+p533
+aVMarreese Speights MEM 01/23/2012 MEM @ GSW W 24 8 3 8 37.5 0 0 - 2 3 66.7 3 1 4 1 1 0 0 1 1
+p534
+aVMarc Gasol MEM 01/23/2012 MEM @ GSW W 37 15 7 15 46.7 0 1 0.0 1 2 50.0 2 9 11 1 1 1 2 3 -4
+p535
+aVRudy Gay MEM 01/23/2012 MEM @ GSW W 44 23 10 21 47.6 0 1 0.0 3 6 50.0 3 6 9 4 3 2 4 2 5
+p536
+aVMarc Gasol MEM 01/21/2012 MEM vs. SAC W 32 20 8 11 72.7 1 1 100.0 3 3 100.0 0 11 11 5 1 6 0 3 39
+p537
+aVDante Cunningham MEM 01/21/2012 MEM vs. SAC W 20 7 3 6 50.0 0 0 - 1 2 50.0 5 5 10 1 1 1 1 1 17
+p538
+aVTony Allen MEM 01/21/2012 MEM vs. SAC W 20 8 2 7 28.6 0 0 - 4 6 66.7 1 0 1 1 1 1 2 4 14
+p539
+aVJosh Selby MEM 01/21/2012 MEM vs. SAC W 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 0
+p540
+aVRudy Gay MEM 01/21/2012 MEM vs. SAC W 35 23 9 17 52.9 0 1 0.0 5 7 71.4 1 2 3 4 4 1 3 0 22
+p541
+aVMike Conley MEM 01/21/2012 MEM vs. SAC W 31 22 10 13 76.9 1 2 50.0 1 1 100.0 0 2 2 6 2 0 1 1 23
+p542
+aVSam Young MEM 01/21/2012 MEM vs. SAC W 5 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -6
+p543
+aVJosh Davis MEM 01/21/2012 MEM vs. SAC W 1 0 0 0 - 0 0 - 0 2 0.0 0 1 1 1 0 0 0 0 5
+p544
+aVO.J. Mayo MEM 01/21/2012 MEM vs. SAC W 27 22 8 16 50.0 6 10 60.0 0 0 - 0 0 0 3 1 0 1 1 17
+p545
+aVMarreese Speights MEM 01/21/2012 MEM vs. SAC W 29 12 5 8 62.5 0 1 0.0 2 2 100.0 3 12 15 1 1 0 0 2 20
+p546
+aVJeremy Pargo MEM 01/21/2012 MEM vs. SAC W 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 7
+p547
+aVHamed Haddadi MEM 01/21/2012 MEM vs. SAC W 5 2 1 2 50.0 0 0 - 0 0 - 0 5 5 1 0 0 2 3 -6
+p548
+aVQuincy Pondexter MEM 01/21/2012 MEM vs. SAC W 15 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 2 13
+p549
+aVTony Allen MEM 01/20/2012 MEM @ DET W 21 13 4 4 100.0 0 0 - 5 6 83.3 0 1 1 1 5 0 2 2 16
+p550
+aVSam Young MEM 01/20/2012 MEM @ DET W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p551
+aVMarc Gasol MEM 01/20/2012 MEM @ DET W 37 17 6 11 54.5 0 0 - 5 6 83.3 0 6 6 3 0 1 1 4 26
+p552
+aVDante Cunningham MEM 01/20/2012 MEM @ DET W 17 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 4
+p553
+aVMarreese Speights MEM 01/20/2012 MEM @ DET W 22 6 3 8 37.5 0 0 - 0 0 - 1 4 5 0 0 0 1 2 3
+p554
+aVO.J. Mayo MEM 01/20/2012 MEM @ DET W 28 10 4 9 44.4 2 3 66.7 0 0 - 0 3 3 4 1 1 0 2 13
+p555
+aVQuincy Pondexter MEM 01/20/2012 MEM @ DET W 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p556
+aVRudy Gay MEM 01/20/2012 MEM @ DET W 32 24 10 17 58.8 2 4 50.0 2 2 100.0 0 4 4 0 0 0 1 3 17
+p557
+aVJosh Selby MEM 01/20/2012 MEM @ DET W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 2 0 2 0 8
+p558
+aVJosh Davis MEM 01/20/2012 MEM @ DET W 15 4 1 1 100.0 1 1 100.0 1 2 50.0 2 0 2 0 1 0 2 2 -11
+p559
+aVMike Conley MEM 01/20/2012 MEM @ DET W 38 14 7 9 77.8 0 1 0.0 0 2 0.0 0 4 4 11 4 0 4 4 12
+p560
+aVMarc Gasol MEM 01/18/2012 MEM @ NOH W 38 22 10 14 71.4 0 0 - 2 3 66.7 3 9 12 7 1 1 4 5 11
+p561
+aVQuincy Pondexter MEM 01/18/2012 MEM @ NOH W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 2 4
+p562
+aVRudy Gay MEM 01/18/2012 MEM @ NOH W 40 12 5 11 45.5 0 2 0.0 2 3 66.7 2 3 5 1 1 1 4 2 3
+p563
+aVTony Allen MEM 01/18/2012 MEM @ NOH W 23 12 3 6 50.0 0 0 - 6 6 100.0 0 1 1 0 1 0 1 1 8
+p564
+aVJosh Selby MEM 01/18/2012 MEM @ NOH W 6 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 1
+p565
+aVDante Cunningham MEM 01/18/2012 MEM @ NOH W 14 5 2 4 50.0 0 0 - 1 1 100.0 0 1 1 0 1 0 0 2 5
+p566
+aVMike Conley MEM 01/18/2012 MEM @ NOH W 42 18 6 11 54.5 4 7 57.1 2 2 100.0 0 2 2 10 2 1 2 0 5
+p567
+aVO.J. Mayo MEM 01/18/2012 MEM @ NOH W 26 16 6 12 50.0 2 2 100.0 2 2 100.0 1 2 3 2 1 1 1 2 -4
+p568
+aVMarreese Speights MEM 01/18/2012 MEM @ NOH W 23 4 2 7 28.6 0 0 - 0 0 - 2 6 8 1 0 0 1 0 5
+p569
+aVJosh Davis MEM 01/18/2012 MEM @ NOH W 14 0 0 2 0.0 0 1 0.0 0 0 - 3 0 3 1 3 0 0 2 -8
+p570
+aVMike Conley MEM 01/16/2012 MEM vs. CHI W 36 20 9 13 69.2 1 2 50.0 1 1 100.0 2 5 7 8 4 0 5 3 21
+p571
+aVMarreese Speights MEM 01/16/2012 MEM vs. CHI W 34 16 7 16 43.8 0 0 - 2 2 100.0 4 8 12 2 0 1 2 3 11
+p572
+aVQuincy Pondexter MEM 01/16/2012 MEM vs. CHI W 17 4 2 5 40.0 0 0 - 0 0 - 3 1 4 0 0 0 0 0 10
+p573
+aVTony Allen MEM 01/16/2012 MEM vs. CHI W 19 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 17
+p574
+aVDante Cunningham MEM 01/16/2012 MEM vs. CHI W 10 4 2 2 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 2
+p575
+aVJosh Davis MEM 01/16/2012 MEM vs. CHI W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 3 -7
+p576
+aVJosh Selby MEM 01/16/2012 MEM vs. CHI W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 1 0 3 3 -5
+p577
+aVO.J. Mayo MEM 01/16/2012 MEM vs. CHI W 20 4 2 7 28.6 0 2 0.0 0 0 - 0 2 2 2 3 0 1 2 -12
+p578
+aVRudy Gay MEM 01/16/2012 MEM vs. CHI W 37 24 11 18 61.1 1 2 50.0 1 3 33.3 0 5 5 5 2 1 5 0 22
+p579
+aVMarc Gasol MEM 01/16/2012 MEM vs. CHI W 38 19 9 13 69.2 0 0 - 1 3 33.3 3 7 10 3 0 2 2 3 26
+p580
+aVSam Young MEM 01/16/2012 MEM vs. CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p581
+aVQuincy Pondexter MEM 01/14/2012 MEM vs. NOH W 19 9 3 6 50.0 0 1 0.0 3 4 75.0 2 2 4 0 0 0 0 2 18
+p582
+aVMarc Gasol MEM 01/14/2012 MEM vs. NOH W 42 20 6 13 46.2 0 0 - 8 12 66.7 3 8 11 3 0 2 0 3 13
+p583
+aVDante Cunningham MEM 01/14/2012 MEM vs. NOH W 18 4 2 4 50.0 0 0 - 0 1 0.0 1 2 3 0 0 0 0 2 -3
+p584
+aVRudy Gay MEM 01/14/2012 MEM vs. NOH W 40 23 9 19 47.4 2 3 66.7 3 4 75.0 2 3 5 2 2 0 1 0 2
+p585
+aVJosh Selby MEM 01/14/2012 MEM vs. NOH W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -14
+p586
+aVMike Conley MEM 01/14/2012 MEM vs. NOH W 42 17 5 12 41.7 1 2 50.0 6 7 85.7 0 1 1 7 2 0 2 2 23
+p587
+aVJosh Davis MEM 01/14/2012 MEM vs. NOH W 11 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 2 0 0 4 0
+p588
+aVTony Allen MEM 01/14/2012 MEM vs. NOH W 25 12 2 7 28.6 0 0 - 8 8 100.0 4 4 8 2 1 1 1 0 14
+p589
+aVO.J. Mayo MEM 01/14/2012 MEM vs. NOH W 19 9 3 8 37.5 2 3 66.7 1 1 100.0 0 3 3 0 0 1 1 2 -8
+p590
+aVMarreese Speights MEM 01/14/2012 MEM vs. NOH W 18 12 4 5 80.0 0 0 - 4 4 100.0 0 3 3 2 0 1 1 4 0
+p591
+aVTony Allen MEM 01/12/2012 MEM vs. NYK W 26 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 1 5 1 1 1 17
+p592
+aVMike Conley MEM 01/12/2012 MEM vs. NYK W 33 9 3 9 33.3 0 0 - 3 4 75.0 0 1 1 7 1 0 1 1 12
+p593
+aVJeremy Pargo MEM 01/12/2012 MEM vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p594
+aVO.J. Mayo MEM 01/12/2012 MEM vs. NYK W 21 18 7 12 58.3 4 7 57.1 0 0 - 0 8 8 0 0 0 3 0 -1
+p595
+aVQuincy Pondexter MEM 01/12/2012 MEM vs. NYK W 10 0 0 3 0.0 0 1 0.0 0 4 0.0 1 1 2 0 0 0 1 3 -5
+p596
+aVRudy Gay MEM 01/12/2012 MEM vs. NYK W 35 26 11 16 68.8 1 2 50.0 3 4 75.0 1 4 5 2 1 1 2 0 14
+p597
+aVMarc Gasol MEM 01/12/2012 MEM vs. NYK W 40 10 3 7 42.9 0 0 - 4 6 66.7 1 11 12 5 1 4 2 3 21
+p598
+aVMarreese Speights MEM 01/12/2012 MEM vs. NYK W 22 2 0 6 0.0 0 0 - 2 2 100.0 1 8 9 1 0 0 1 2 2
+p599
+aVJosh Selby MEM 01/12/2012 MEM vs. NYK W 15 9 2 3 66.7 1 1 100.0 4 4 100.0 0 2 2 2 0 0 3 0 -1
+p600
+aVDante Cunningham MEM 01/12/2012 MEM vs. NYK W 25 8 3 7 42.9 0 0 - 2 4 50.0 2 1 3 2 1 0 1 1 7
+p601
+aVJosh Davis MEM 01/12/2012 MEM vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p602
+aVSam Young MEM 01/12/2012 MEM vs. NYK W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -1
+p603
+aVDante Cunningham MEM 01/10/2012 MEM vs. OKC L 24 10 5 7 71.4 0 0 - 0 0 - 4 2 6 0 0 1 0 3 -13
+p604
+aVJeremy Pargo MEM 01/10/2012 MEM vs. OKC L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p605
+aVO.J. Mayo MEM 01/10/2012 MEM vs. OKC L 23 12 3 4 75.0 3 3 100.0 3 4 75.0 0 5 5 3 0 1 3 1 1
+p606
+aVMarreese Speights MEM 01/10/2012 MEM vs. OKC L 20 10 5 8 62.5 0 0 - 0 0 - 0 1 1 0 2 0 0 3 -1
+p607
+aVTony Allen MEM 01/10/2012 MEM vs. OKC L 29 8 4 10 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -6
+p608
+aVMike Conley MEM 01/10/2012 MEM vs. OKC L 42 15 6 13 46.2 0 2 0.0 3 3 100.0 0 5 5 10 3 0 1 1 0
+p609
+aVRudy Gay MEM 01/10/2012 MEM vs. OKC L 38 16 7 21 33.3 1 4 25.0 1 5 20.0 2 1 3 0 1 0 2 5 -6
+p610
+aVMarc Gasol MEM 01/10/2012 MEM vs. OKC L 42 20 8 16 50.0 0 0 - 4 6 66.7 2 12 14 2 0 4 2 2 2
+p611
+aVQuincy Pondexter MEM 01/10/2012 MEM vs. OKC L 16 4 1 3 33.3 1 2 50.0 1 2 50.0 1 2 3 0 0 0 0 3 3
+p612
+aVJeremy Pargo MEM 01/08/2012 MEM @ LAL L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -1
+p613
+aVMarreese Speights MEM 01/08/2012 MEM @ LAL L 29 17 8 18 44.4 0 0 - 1 2 50.0 4 3 7 2 2 0 1 5 -10
+p614
+aVDante Cunningham MEM 01/08/2012 MEM @ LAL L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 8
+p615
+aVQuincy Pondexter MEM 01/08/2012 MEM @ LAL L 18 14 7 10 70.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 7
+p616
+aVTony Allen MEM 01/08/2012 MEM @ LAL L 13 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 0 2 0 0 4 -5
+p617
+aVSam Young MEM 01/08/2012 MEM @ LAL L 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -7
+p618
+aVMarc Gasol MEM 01/08/2012 MEM @ LAL L 44 2 0 9 0.0 0 0 - 2 4 50.0 2 9 11 7 4 3 0 2 -7
+p619
+aVRudy Gay MEM 01/08/2012 MEM @ LAL L 40 19 9 19 47.4 0 1 0.0 1 1 100.0 1 3 4 3 2 1 1 1 -13
+p620
+aVMike Conley MEM 01/08/2012 MEM @ LAL L 38 11 5 10 50.0 1 3 33.3 0 0 - 0 2 2 8 4 0 2 0 -7
+p621
+aVO.J. Mayo MEM 01/08/2012 MEM @ LAL L 26 15 7 15 46.7 0 3 0.0 1 3 33.3 0 4 4 0 3 0 5 2 -5
+p622
+aVSam Young MEM 01/06/2012 MEM @ UTA L 14 4 2 4 50.0 0 0 - 0 2 0.0 2 2 4 1 1 2 2 1 -1
+p623
+aVMarreese Speights MEM 01/06/2012 MEM @ UTA L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -3
+p624
+aVMike Conley MEM 01/06/2012 MEM @ UTA L 41 11 5 18 27.8 1 5 20.0 0 0 - 1 3 4 6 2 0 2 3 -6
+p625
+aVDante Cunningham MEM 01/06/2012 MEM @ UTA L 26 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 2 0 2 3 -5
+p626
+aVRudy Gay MEM 01/06/2012 MEM @ UTA L 37 17 6 13 46.2 1 4 25.0 4 5 80.0 3 4 7 1 1 0 4 2 1
+p627
+aVQuincy Pondexter MEM 01/06/2012 MEM @ UTA L 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -10
+p628
+aVO.J. Mayo MEM 01/06/2012 MEM @ UTA L 25 7 3 12 25.0 1 4 25.0 0 0 - 0 3 3 1 1 1 3 6 -16
+p629
+aVJeremy Pargo MEM 01/06/2012 MEM @ UTA L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -4
+p630
+aVTony Allen MEM 01/06/2012 MEM @ UTA L 29 21 6 9 66.7 1 2 50.0 8 10 80.0 2 4 6 2 1 0 1 2 5
+p631
+aVMarc Gasol MEM 01/06/2012 MEM @ UTA L 42 21 9 15 60.0 0 1 0.0 3 4 75.0 3 8 11 2 0 6 5 4 -6
+p632
+aVDante Cunningham MEM 01/04/2012 MEM @ MIN W 18 2 1 7 14.3 0 0 - 0 0 - 1 2 3 0 0 0 0 1 5
+p633
+aVRudy Gay MEM 01/04/2012 MEM @ MIN W 40 19 7 17 41.2 1 3 33.3 4 4 100.0 4 4 8 1 3 1 2 2 7
+p634
+aVJosh Davis MEM 01/04/2012 MEM @ MIN W 14 5 2 3 66.7 1 1 100.0 0 0 - 3 2 5 1 0 0 0 1 -3
+p635
+aVJeremy Pargo MEM 01/04/2012 MEM @ MIN W 10 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 1 -9
+p636
+aVMike Conley MEM 01/04/2012 MEM @ MIN W 38 12 3 13 23.1 0 1 0.0 6 6 100.0 0 3 3 8 3 0 4 4 13
+p637
+aVO.J. Mayo MEM 01/04/2012 MEM @ MIN W 24 14 4 9 44.4 1 2 50.0 5 7 71.4 1 3 4 2 1 0 1 3 -1
+p638
+aVSam Young MEM 01/04/2012 MEM @ MIN W 18 8 3 6 50.0 0 2 0.0 2 2 100.0 1 3 4 0 2 0 0 1 -8
+p639
+aVTony Allen MEM 01/04/2012 MEM @ MIN W 32 20 8 8 100.0 0 0 - 4 4 100.0 0 4 4 0 2 1 0 3 5
+p640
+aVMarc Gasol MEM 01/04/2012 MEM @ MIN W 34 6 3 11 27.3 0 0 - 0 2 0.0 2 8 10 3 2 0 1 2 9
+p641
+aVQuincy Pondexter MEM 01/04/2012 MEM @ MIN W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p642
+aVJosh Selby MEM 01/03/2012 MEM vs. SAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p643
+aVQuincy Pondexter MEM 01/03/2012 MEM vs. SAC W 15 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -8
+p644
+aVDante Cunningham MEM 01/03/2012 MEM vs. SAC W 20 7 3 9 33.3 0 0 - 1 2 50.0 2 2 4 1 0 0 3 4 -11
+p645
+aVJosh Davis MEM 01/03/2012 MEM vs. SAC W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p646
+aVJeremy Pargo MEM 01/03/2012 MEM vs. SAC W 26 5 2 5 40.0 1 1 100.0 0 0 - 1 0 1 3 0 0 0 1 -8
+p647
+aVTony Allen MEM 01/03/2012 MEM vs. SAC W 25 10 5 12 41.7 0 0 - 0 1 0.0 4 3 7 0 3 0 2 1 12
+p648
+aVMarc Gasol MEM 01/03/2012 MEM vs. SAC W 41 14 7 10 70.0 0 0 - 0 1 0.0 1 14 15 3 2 0 2 4 28
+p649
+aVSam Young MEM 01/03/2012 MEM vs. SAC W 28 20 8 13 61.5 0 1 0.0 4 4 100.0 3 4 7 1 3 0 1 1 28
+p650
+aVRudy Gay MEM 01/03/2012 MEM vs. SAC W 35 23 10 16 62.5 0 1 0.0 3 5 60.0 2 6 8 2 1 1 2 1 21
+p651
+aVMike Conley MEM 01/03/2012 MEM vs. SAC W 23 14 5 8 62.5 1 2 50.0 3 3 100.0 0 2 2 7 4 0 2 2 27
+p652
+aVO.J. Mayo MEM 01/03/2012 MEM vs. SAC W 20 16 8 11 72.7 0 1 0.0 0 0 - 2 2 4 2 0 1 2 1 9
+p653
+aVQuincy Pondexter MEM 01/01/2012 MEM @ CHI L 13 7 3 3 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 -16
+p654
+aVMarc Gasol MEM 01/01/2012 MEM @ CHI L 31 8 2 6 33.3 0 0 - 4 5 80.0 3 7 10 0 2 2 2 2 -38
+p655
+aVO.J. Mayo MEM 01/01/2012 MEM @ CHI L 27 6 2 9 22.2 0 1 0.0 2 2 100.0 0 1 1 5 0 0 4 2 -17
+p656
+aVJosh Davis MEM 01/01/2012 MEM @ CHI L 24 10 3 9 33.3 1 4 25.0 3 4 75.0 3 3 6 1 0 0 1 2 -16
+p657
+aVJeremy Pargo MEM 01/01/2012 MEM @ CHI L 27 4 2 13 15.4 0 2 0.0 0 0 - 2 0 2 1 0 0 2 2 -36
+p658
+aVSam Young MEM 01/01/2012 MEM @ CHI L 18 10 5 9 55.6 0 0 - 0 0 - 1 3 4 0 1 0 1 0 -4
+p659
+aVJosh Selby MEM 01/01/2012 MEM @ CHI L 21 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 2 1 0 2 0 -4
+p660
+aVTony Allen MEM 01/01/2012 MEM @ CHI L 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 2 0 1 2 -11
+p661
+aVZach Randolph MEM 01/01/2012 MEM @ CHI L 11 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -14
+p662
+aVRudy Gay MEM 01/01/2012 MEM @ CHI L 28 5 2 12 16.7 0 0 - 1 1 100.0 1 2 3 1 1 0 2 2 -36
+p663
+aVDante Cunningham MEM 01/01/2012 MEM @ CHI L 25 4 2 4 50.0 0 0 - 0 0 - 1 6 7 1 2 1 1 2 -8
+p664
+aVZach Randolph MEM 12/30/2011 MEM vs. HOU W 33 23 11 14 78.6 0 0 - 1 3 33.3 1 8 9 3 3 0 3 2 14
+p665
+aVTony Allen MEM 12/30/2011 MEM vs. HOU W 18 5 2 3 66.7 0 0 - 1 4 25.0 1 1 2 1 2 0 0 3 7
+p666
+aVQuincy Pondexter MEM 12/30/2011 MEM vs. HOU W 28 13 5 9 55.6 0 1 0.0 3 4 75.0 2 0 2 2 1 0 0 2 17
+p667
+aVDante Cunningham MEM 12/30/2011 MEM vs. HOU W 19 9 3 6 50.0 0 0 - 3 4 75.0 1 5 6 0 0 1 1 2 10
+p668
+aVJosh Davis MEM 12/30/2011 MEM vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p669
+aVSam Young MEM 12/30/2011 MEM vs. HOU W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p670
+aVO.J. Mayo MEM 12/30/2011 MEM vs. HOU W 30 10 4 9 44.4 0 1 0.0 2 2 100.0 0 2 2 2 0 0 1 1 13
+p671
+aVJeremy Pargo MEM 12/30/2011 MEM vs. HOU W 22 14 6 10 60.0 0 2 0.0 2 2 100.0 0 2 2 5 0 0 3 3 7
+p672
+aVRudy Gay MEM 12/30/2011 MEM vs. HOU W 31 10 4 11 36.4 0 0 - 2 2 100.0 1 7 8 2 1 1 3 3 5
+p673
+aVMarc Gasol MEM 12/30/2011 MEM vs. HOU W 29 20 6 8 75.0 0 0 - 8 9 88.9 1 7 8 1 3 5 4 1 14
+p674
+aVJosh Selby MEM 12/30/2011 MEM vs. HOU W 26 9 4 9 44.4 0 1 0.0 1 3 33.3 0 2 2 7 0 0 1 1 13
+p675
+aVTony Allen MEM 12/28/2011 MEM vs. OKC L 29 9 3 9 33.3 0 0 - 3 3 100.0 2 1 3 1 2 0 3 2 -1
+p676
+aVO.J. Mayo MEM 12/28/2011 MEM vs. OKC L 28 7 2 5 40.0 1 3 33.3 2 2 100.0 0 3 3 0 0 0 2 1 -2
+p677
+aVJosh Selby MEM 12/28/2011 MEM vs. OKC L 10 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 2 1 -4
+p678
+aVQuincy Pondexter MEM 12/28/2011 MEM vs. OKC L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 1 0 1 -5
+p679
+aVMarc Gasol MEM 12/28/2011 MEM vs. OKC L 36 16 5 10 50.0 0 0 - 6 7 85.7 5 7 12 0 0 2 0 5 4
+p680
+aVMike Conley MEM 12/28/2011 MEM vs. OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p681
+aVDante Cunningham MEM 12/28/2011 MEM vs. OKC L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p682
+aVRudy Gay MEM 12/28/2011 MEM vs. OKC L 36 19 9 24 37.5 0 5 0.0 1 4 25.0 4 8 12 2 1 1 3 4 -4
+p683
+aVZach Randolph MEM 12/28/2011 MEM vs. OKC L 40 24 7 20 35.0 1 3 33.3 9 12 75.0 4 8 12 0 0 1 1 2 6
+p684
+aVJosh Davis MEM 12/28/2011 MEM vs. OKC L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 -4
+p685
+aVJeremy Pargo MEM 12/28/2011 MEM vs. OKC L 37 15 6 13 46.2 0 3 0.0 3 4 75.0 2 1 3 7 2 0 1 4 1
+p686
+aVRudy Gay MEM 12/26/2011 MEM @ SAS L 35 19 8 18 44.4 1 1 100.0 2 3 66.7 0 10 10 2 2 1 3 2 -10
+p687
+aVZach Randolph MEM 12/26/2011 MEM @ SAS L 29 10 3 8 37.5 0 0 - 4 8 50.0 3 3 6 1 1 0 3 3 -16
+p688
+aVO.J. Mayo MEM 12/26/2011 MEM @ SAS L 17 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 0 0 2 0 -8
+p689
+aVMarc Gasol MEM 12/26/2011 MEM @ SAS L 37 13 5 6 83.3 0 0 - 3 4 75.0 1 5 6 3 1 1 3 4 -8
+p690
+aVTony Allen MEM 12/26/2011 MEM @ SAS L 15 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 1 0 4 4 -7
+p691
+aVDante Cunningham MEM 12/26/2011 MEM @ SAS L 17 8 4 6 66.7 0 0 - 0 2 0.0 0 0 0 1 0 0 1 3 3
+p692
+aVBrian Skinner MEM 12/26/2011 MEM @ SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p693
+aVSam Young MEM 12/26/2011 MEM @ SAS L 19 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -6
+p694
+aVMike Conley MEM 12/26/2011 MEM @ SAS L 32 11 4 10 40.0 1 1 100.0 2 2 100.0 0 3 3 7 2 0 3 3 -1
+p695
+aVJeremy Pargo MEM 12/26/2011 MEM @ SAS L 16 5 2 6 33.3 1 3 33.3 0 0 - 1 1 2 3 2 0 3 1 -12
+p696
+aVQuincy Pondexter MEM 12/26/2011 MEM @ SAS L 17 6 3 5 60.0 0 1 0.0 0 0 - 1 4 5 0 0 0 1 2 7
+p697
+a.

@@ -1,0 +1,342 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVGlenn Robinson MIL 06/03/2001 MIL @ PHI L 46 24 9 17 52.9 0 3 0.0 6 6 100.0 0 7 7 4 0 2 2 0 -17
+p2
+aVRafer Alston MIL 06/03/2001 MIL @ PHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p3
+aVRay Allen MIL 06/03/2001 MIL @ PHI L 37 26 8 18 44.4 4 7 57.1 6 6 100.0 0 2 2 6 0 0 3 1 -11
+p4
+aVSam Cassell MIL 06/03/2001 MIL @ PHI L 41 20 8 19 42.1 0 0 - 4 4 100.0 0 1 1 5 0 0 4 6 -17
+p5
+aVLindsey Hunter MIL 06/03/2001 MIL @ PHI L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 1
+p6
+aVJason Caffey MIL 06/03/2001 MIL @ PHI L 16 4 1 2 50.0 0 0 - 2 2 100.0 3 3 6 0 0 1 2 4 -17
+p7
+aVDarvin Ham MIL 06/03/2001 MIL @ PHI L 9 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 0 1 0 1 5 -8
+p8
+aVMark Pope MIL 06/03/2001 MIL @ PHI L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p9
+aVTim Thomas MIL 06/03/2001 MIL @ PHI L 35 11 5 10 50.0 1 4 25.0 0 0 - 3 9 12 3 0 2 1 2 -8
+p10
+aVErvin Johnson MIL 06/03/2001 MIL @ PHI L 41 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 2 2 1 5 -9
+p11
+aVRafer Alston MIL 06/01/2001 MIL vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p12
+aVDarvin Ham MIL 06/01/2001 MIL vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p13
+aVErvin Johnson MIL 06/01/2001 MIL vs. PHI W 42 8 3 5 60.0 0 0 - 2 2 100.0 6 6 12 0 1 0 0 3 12
+p14
+aVTim Thomas MIL 06/01/2001 MIL vs. PHI W 23 13 4 5 80.0 3 4 75.0 2 2 100.0 0 2 2 1 1 1 0 1 -3
+p15
+aVLindsey Hunter MIL 06/01/2001 MIL vs. PHI W 14 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 5 1 0 1 2 4
+p16
+aVJason Caffey MIL 06/01/2001 MIL vs. PHI W 14 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 0 3 1
+p17
+aVRay Allen MIL 06/01/2001 MIL vs. PHI W 43 41 12 25 48.0 9 13 69.2 8 8 100.0 0 2 2 4 3 0 2 4 9
+p18
+aVGlenn Robinson MIL 06/01/2001 MIL vs. PHI W 38 22 8 17 47.1 1 2 50.0 5 6 83.3 0 3 3 5 0 0 2 3 12
+p19
+aVScott Williams MIL 06/01/2001 MIL vs. PHI W 26 12 6 10 60.0 0 0 - 0 0 - 4 3 7 1 2 1 1 3 10
+p20
+aVSam Cassell MIL 06/01/2001 MIL vs. PHI W 38 6 1 10 10.0 0 0 - 4 4 100.0 2 3 5 11 0 1 3 4 9
+p21
+aVJason Caffey MIL 05/30/2001 MIL @ PHI L 24 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 2 0 0 3 2 3
+p22
+aVTim Thomas MIL 05/30/2001 MIL @ PHI L 33 15 5 10 50.0 1 3 33.3 4 4 100.0 2 4 6 3 1 1 1 1 -10
+p23
+aVLindsey Hunter MIL 05/30/2001 MIL @ PHI L 16 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 2 2 0 0 3 -2
+p24
+aVRay Allen MIL 05/30/2001 MIL @ PHI L 43 20 8 20 40.0 2 8 25.0 2 2 100.0 2 1 3 4 1 0 3 2 -8
+p25
+aVSam Cassell MIL 05/30/2001 MIL @ PHI L 37 18 7 18 38.9 0 1 0.0 4 4 100.0 1 11 12 4 2 0 4 5 8
+p26
+aVErvin Johnson MIL 05/30/2001 MIL @ PHI L 32 6 3 3 100.0 0 0 - 0 0 - 1 4 5 0 0 2 0 6 4
+p27
+aVGlenn Robinson MIL 05/30/2001 MIL @ PHI L 44 22 9 20 45.0 2 4 50.0 2 4 50.0 1 7 8 0 0 1 3 2 2
+p28
+aVScott Williams MIL 05/30/2001 MIL @ PHI L 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 2 4 -2
+p29
+aVDarvin Ham MIL 05/30/2001 MIL @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p30
+aVScott Williams MIL 05/28/2001 MIL vs. PHI L 26 4 2 6 33.3 0 0 - 0 0 - 4 3 7 0 0 4 0 0 -8
+p31
+aVLindsey Hunter MIL 05/28/2001 MIL vs. PHI L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 1 0 0 0 2
+p32
+aVGlenn Robinson MIL 05/28/2001 MIL vs. PHI L 39 20 9 22 40.9 2 5 40.0 0 0 - 0 10 10 5 0 3 3 1 -6
+p33
+aVSam Cassell MIL 05/28/2001 MIL vs. PHI L 39 14 5 10 50.0 0 1 0.0 4 5 80.0 0 5 5 5 1 0 4 5 -6
+p34
+aVTim Thomas MIL 05/28/2001 MIL vs. PHI L 28 15 4 9 44.4 4 7 57.1 3 4 75.0 0 2 2 4 1 0 1 5 7
+p35
+aVRay Allen MIL 05/28/2001 MIL vs. PHI L 41 14 5 14 35.7 2 6 33.3 2 2 100.0 0 2 2 6 1 1 2 3 -15
+p36
+aVJason Caffey MIL 05/28/2001 MIL vs. PHI L 18 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 0 2 4 5
+p37
+aVErvin Johnson MIL 05/28/2001 MIL vs. PHI L 39 10 5 7 71.4 0 0 - 0 0 - 4 13 17 0 0 4 1 2 -9
+p38
+aVGlenn Robinson MIL 05/26/2001 MIL vs. PHI W 39 18 8 18 44.4 2 5 40.0 0 0 - 2 6 8 0 3 1 5 3 2
+p39
+aVScott Williams MIL 05/26/2001 MIL vs. PHI W 28 4 1 6 16.7 0 0 - 2 2 100.0 2 6 8 1 0 2 0 5 9
+p40
+aVErvin Johnson MIL 05/26/2001 MIL vs. PHI W 42 8 4 4 100.0 0 0 - 0 0 - 5 8 13 1 1 2 1 4 12
+p41
+aVRay Allen MIL 05/26/2001 MIL vs. PHI W 44 20 6 18 33.3 0 4 0.0 8 8 100.0 1 4 5 5 0 1 3 4 4
+p42
+aVJason Caffey MIL 05/26/2001 MIL vs. PHI W 10 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 3 0
+p43
+aVTim Thomas MIL 05/26/2001 MIL vs. PHI W 19 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 1 1 0 0 3 -7
+p44
+aVDarvin Ham MIL 05/26/2001 MIL vs. PHI W 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 1
+p45
+aVSam Cassell MIL 05/26/2001 MIL vs. PHI W 36 24 9 15 60.0 0 0 - 6 9 66.7 1 4 5 4 1 0 2 4 19
+p46
+aVLindsey Hunter MIL 05/26/2001 MIL vs. PHI W 16 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 -10
+p47
+aVScott Williams MIL 05/24/2001 MIL @ PHI W 24 5 2 8 25.0 0 0 - 1 2 50.0 2 3 5 0 1 0 0 3 16
+p48
+aVDarvin Ham MIL 05/24/2001 MIL @ PHI W 6 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -5
+p49
+aVMark Pope MIL 05/24/2001 MIL @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p50
+aVLindsey Hunter MIL 05/24/2001 MIL @ PHI W 18 6 3 7 42.9 0 3 0.0 0 0 - 0 3 3 3 1 1 1 1 -5
+p51
+aVTim Thomas MIL 05/24/2001 MIL @ PHI W 21 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 0 0 2 2 8
+p52
+aVRafer Alston MIL 05/24/2001 MIL @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p53
+aVJason Caffey MIL 05/24/2001 MIL @ PHI W 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -7
+p54
+aVErvin Johnson MIL 05/24/2001 MIL @ PHI W 43 6 3 4 75.0 0 0 - 0 2 0.0 1 6 7 0 1 2 0 1 21
+p55
+aVSam Cassell MIL 05/24/2001 MIL @ PHI W 39 14 7 16 43.8 0 0 - 0 0 - 1 5 6 11 2 0 1 4 18
+p56
+aVJoel Przybilla MIL 05/24/2001 MIL @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p57
+aVGlenn Robinson MIL 05/24/2001 MIL @ PHI W 36 16 7 15 46.7 2 5 40.0 0 0 - 2 1 3 4 0 2 1 3 15
+p58
+aVRay Allen MIL 05/24/2001 MIL @ PHI W 43 38 15 24 62.5 7 11 63.6 1 2 50.0 1 5 6 6 0 1 0 2 24
+p59
+aVMark Pope MIL 05/22/2001 MIL @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p60
+aVErvin Johnson MIL 05/22/2001 MIL @ PHI L 39 8 2 6 33.3 0 0 - 4 6 66.7 4 11 15 0 0 3 0 3 4
+p61
+aVSam Cassell MIL 05/22/2001 MIL @ PHI L 38 20 6 14 42.9 0 1 0.0 8 9 88.9 1 5 6 7 0 0 5 6 -5
+p62
+aVRay Allen MIL 05/22/2001 MIL @ PHI L 42 31 12 22 54.5 4 6 66.7 3 3 100.0 2 1 3 7 1 1 2 4 1
+p63
+aVScott Williams MIL 05/22/2001 MIL @ PHI L 22 2 1 3 33.3 0 0 - 0 0 - 3 4 7 2 0 3 0 4 4
+p64
+aVRafer Alston MIL 05/22/2001 MIL @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p65
+aVJason Caffey MIL 05/22/2001 MIL @ PHI L 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -10
+p66
+aVTim Thomas MIL 05/22/2001 MIL @ PHI L 29 9 3 7 42.9 1 3 33.3 2 3 66.7 0 5 5 1 0 1 2 3 -14
+p67
+aVDarvin Ham MIL 05/22/2001 MIL @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p68
+aVLindsey Hunter MIL 05/22/2001 MIL @ PHI L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 3 0 1 1 0 -14
+p69
+aVGlenn Robinson MIL 05/22/2001 MIL @ PHI L 38 15 7 22 31.8 1 6 16.7 0 0 - 1 4 5 1 1 0 2 1 -6
+p70
+aVRay Allen MIL 05/20/2001 MIL vs. CHH W 46 28 10 18 55.6 2 6 33.3 6 6 100.0 2 4 6 5 0 2 4 4 8
+p71
+aVJason Caffey MIL 05/20/2001 MIL vs. CHH W 11 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 0 2 3
+p72
+aVErvin Johnson MIL 05/20/2001 MIL vs. CHH W 37 4 2 2 100.0 0 0 - 0 1 0.0 3 8 11 1 0 4 2 3 2
+p73
+aVScott Williams MIL 05/20/2001 MIL vs. CHH W 27 13 4 8 50.0 0 0 - 5 6 83.3 1 7 8 2 0 3 1 4 1
+p74
+aVSam Cassell MIL 05/20/2001 MIL vs. CHH W 36 17 4 12 33.3 1 3 33.3 8 8 100.0 0 3 3 13 0 1 2 3 -4
+p75
+aVTim Thomas MIL 05/20/2001 MIL vs. CHH W 29 8 0 3 0.0 0 0 - 8 8 100.0 1 4 5 1 0 2 3 2 14
+p76
+aVLindsey Hunter MIL 05/20/2001 MIL vs. CHH W 14 3 1 6 16.7 1 3 33.3 0 0 - 0 1 1 2 1 0 0 1 14
+p77
+aVGlenn Robinson MIL 05/20/2001 MIL vs. CHH W 40 29 10 17 58.8 3 5 60.0 6 6 100.0 1 4 5 1 0 1 1 4 7
+p78
+aVLindsey Hunter MIL 05/17/2001 MIL @ CHH W 11 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 2 0 0 0 2 3
+p79
+aVSam Cassell MIL 05/17/2001 MIL @ CHH W 42 33 10 16 62.5 0 0 - 13 15 86.7 1 3 4 11 2 0 3 4 4
+p80
+aVDarvin Ham MIL 05/17/2001 MIL @ CHH W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -3
+p81
+aVRay Allen MIL 05/17/2001 MIL @ CHH W 43 23 10 19 52.6 3 6 50.0 0 0 - 0 3 3 5 1 0 3 2 7
+p82
+aVScott Williams MIL 05/17/2001 MIL @ CHH W 25 8 4 9 44.4 0 0 - 0 0 - 1 4 5 0 2 1 1 4 13
+p83
+aVTim Thomas MIL 05/17/2001 MIL @ CHH W 23 9 2 5 40.0 0 1 0.0 5 5 100.0 1 2 3 0 1 0 2 3 -6
+p84
+aVJason Caffey MIL 05/17/2001 MIL @ CHH W 10 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 5 0
+p85
+aVErvin Johnson MIL 05/17/2001 MIL @ CHH W 40 2 1 3 33.3 0 0 - 0 0 - 3 10 13 1 1 3 0 5 7
+p86
+aVGlenn Robinson MIL 05/17/2001 MIL @ CHH W 38 29 11 21 52.4 1 1 100.0 6 6 100.0 1 5 6 2 0 2 4 4 10
+p87
+aVRay Allen MIL 05/15/2001 MIL vs. CHH L 45 20 6 18 33.3 2 8 25.0 6 8 75.0 2 4 6 7 3 1 2 1 0
+p88
+aVLindsey Hunter MIL 05/15/2001 MIL vs. CHH L 16 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 0 0 0 2 3 -1
+p89
+aVJason Caffey MIL 05/15/2001 MIL vs. CHH L 18 5 1 6 16.7 0 0 - 3 4 75.0 4 5 9 2 0 0 1 2 -5
+p90
+aVScott Williams MIL 05/15/2001 MIL vs. CHH L 20 4 2 7 28.6 0 0 - 0 0 - 2 3 5 1 0 0 0 3 -6
+p91
+aVSam Cassell MIL 05/15/2001 MIL vs. CHH L 35 12 4 12 33.3 1 1 100.0 3 4 75.0 1 1 2 4 0 0 2 4 -16
+p92
+aVDarvin Ham MIL 05/15/2001 MIL vs. CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p93
+aVTim Thomas MIL 05/15/2001 MIL vs. CHH L 29 15 5 12 41.7 1 1 100.0 4 4 100.0 3 5 8 2 0 0 0 3 -3
+p94
+aVErvin Johnson MIL 05/15/2001 MIL vs. CHH L 38 6 2 4 50.0 0 0 - 2 2 100.0 5 12 17 2 0 5 0 4 -3
+p95
+aVGlenn Robinson MIL 05/15/2001 MIL vs. CHH L 37 22 9 17 52.9 0 2 0.0 4 6 66.7 1 2 3 2 0 0 3 1 -7
+p96
+aVGlenn Robinson MIL 05/13/2001 MIL @ CHH L 39 17 7 19 36.8 2 4 50.0 1 1 100.0 3 9 12 3 1 2 6 3 -11
+p97
+aVLindsey Hunter MIL 05/13/2001 MIL @ CHH L 19 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 3 0 0 0 3 3
+p98
+aVJason Caffey MIL 05/13/2001 MIL @ CHH L 20 9 4 6 66.7 0 0 - 1 5 20.0 5 1 6 1 0 0 0 3 -7
+p99
+aVRay Allen MIL 05/13/2001 MIL @ CHH L 43 19 7 17 41.2 3 8 37.5 2 2 100.0 2 4 6 10 1 1 6 2 -3
+p100
+aVTim Thomas MIL 05/13/2001 MIL @ CHH L 31 13 5 11 45.5 2 4 50.0 1 4 25.0 1 6 7 1 1 0 3 5 11
+p101
+aVSam Cassell MIL 05/13/2001 MIL @ CHH L 34 8 4 11 36.4 0 3 0.0 0 0 - 0 1 1 4 3 0 4 5 -14
+p102
+aVDarvin Ham MIL 05/13/2001 MIL @ CHH L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -7
+p103
+aVScott Williams MIL 05/13/2001 MIL @ CHH L 16 8 4 5 80.0 0 0 - 0 2 0.0 2 3 5 0 0 1 1 2 -11
+p104
+aVErvin Johnson MIL 05/13/2001 MIL @ CHH L 32 4 1 2 50.0 0 0 - 2 2 100.0 3 8 11 0 1 3 3 0 4
+p105
+aVScott Williams MIL 05/10/2001 MIL @ CHH L 23 13 6 10 60.0 0 0 - 1 2 50.0 3 7 10 2 1 1 0 6 -9
+p106
+aVRay Allen MIL 05/10/2001 MIL @ CHH L 42 20 7 18 38.9 4 8 50.0 2 2 100.0 1 1 2 7 0 0 2 3 -2
+p107
+aVJason Caffey MIL 05/10/2001 MIL @ CHH L 15 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 2 0
+p108
+aVDarvin Ham MIL 05/10/2001 MIL @ CHH L 17 6 2 5 40.0 0 0 - 2 3 66.7 1 1 2 0 0 1 0 4 1
+p109
+aVSam Cassell MIL 05/10/2001 MIL @ CHH L 38 12 5 13 38.5 2 2 100.0 0 0 - 0 1 1 9 1 0 1 4 -12
+p110
+aVGlenn Robinson MIL 05/10/2001 MIL @ CHH L 39 23 10 22 45.5 1 5 20.0 2 2 100.0 1 7 8 5 2 1 1 1 -14
+p111
+aVLindsey Hunter MIL 05/10/2001 MIL @ CHH L 17 4 2 7 28.6 0 3 0.0 0 0 - 0 0 0 2 2 0 3 0 -6
+p112
+aVErvin Johnson MIL 05/10/2001 MIL @ CHH L 22 2 1 2 50.0 0 0 - 0 0 - 0 9 9 1 0 0 0 5 3
+p113
+aVTim Thomas MIL 05/10/2001 MIL @ CHH L 27 12 4 10 40.0 2 4 50.0 2 4 50.0 1 1 2 1 1 0 0 2 -11
+p114
+aVJason Caffey MIL 05/08/2001 MIL vs. CHH W 19 6 3 7 42.9 0 0 - 0 2 0.0 1 2 3 1 0 0 0 2 0
+p115
+aVDarvin Ham MIL 05/08/2001 MIL vs. CHH W 19 6 2 3 66.7 0 0 - 2 2 100.0 3 1 4 2 1 0 2 3 -2
+p116
+aVRay Allen MIL 05/08/2001 MIL vs. CHH W 46 28 10 18 55.6 4 7 57.1 4 5 80.0 1 2 3 9 1 0 5 1 3
+p117
+aVSam Cassell MIL 05/08/2001 MIL vs. CHH W 36 8 4 16 25.0 0 1 0.0 0 0 - 0 4 4 5 2 0 1 4 -4
+p118
+aVLindsey Hunter MIL 05/08/2001 MIL vs. CHH W 14 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 1 1 0 0 1 3
+p119
+aVTim Thomas MIL 05/08/2001 MIL vs. CHH W 21 12 4 7 57.1 2 3 66.7 2 2 100.0 1 2 3 1 1 0 1 6 6
+p120
+aVScott Williams MIL 05/08/2001 MIL vs. CHH W 22 8 4 6 66.7 0 0 - 0 2 0.0 3 6 9 0 0 3 1 3 1
+p121
+aVGlenn Robinson MIL 05/08/2001 MIL vs. CHH W 35 19 6 15 40.0 1 1 100.0 6 6 100.0 2 2 4 2 0 3 1 1 0
+p122
+aVErvin Johnson MIL 05/08/2001 MIL vs. CHH W 28 2 1 4 25.0 0 0 - 0 0 - 6 6 12 0 1 3 1 2 -2
+p123
+aVLindsey Hunter MIL 05/06/2001 MIL vs. CHH W 19 14 5 10 50.0 2 5 40.0 2 5 40.0 0 1 1 1 2 0 1 1 -2
+p124
+aVJason Caffey MIL 05/06/2001 MIL vs. CHH W 21 5 2 2 100.0 0 0 - 1 2 50.0 1 5 6 2 0 0 0 1 8
+p125
+aVRay Allen MIL 05/06/2001 MIL vs. CHH W 42 26 9 22 40.9 3 7 42.9 5 6 83.3 0 2 2 6 2 0 2 5 17
+p126
+aVErvin Johnson MIL 05/06/2001 MIL vs. CHH W 22 4 2 3 66.7 0 0 - 0 0 - 3 9 12 3 1 2 2 1 15
+p127
+aVScott Williams MIL 05/06/2001 MIL vs. CHH W 21 8 4 8 50.0 0 0 - 0 0 - 1 6 7 0 1 2 0 3 -5
+p128
+aVTim Thomas MIL 05/06/2001 MIL vs. CHH W 27 10 4 8 50.0 1 2 50.0 1 1 100.0 0 3 3 2 0 0 1 2 16
+p129
+aVDarvin Ham MIL 05/06/2001 MIL vs. CHH W 18 2 1 3 33.3 0 0 - 0 0 - 2 1 3 2 1 3 0 2 -2
+p130
+aVGlenn Robinson MIL 05/06/2001 MIL vs. CHH W 34 15 5 14 35.7 1 3 33.3 4 4 100.0 0 5 5 11 1 0 2 4 3
+p131
+aVSam Cassell MIL 05/06/2001 MIL vs. CHH W 36 20 8 16 50.0 3 6 50.0 1 1 100.0 1 1 2 4 0 0 2 4 10
+p132
+aVGlenn Robinson MIL 05/01/2001 MIL @ ORL W 37 17 7 19 36.8 1 3 33.3 2 2 100.0 3 5 8 2 0 2 1 1 7
+p133
+aVErvin Johnson MIL 05/01/2001 MIL @ ORL W 23 12 2 2 100.0 0 0 - 8 10 80.0 1 5 6 0 0 1 0 4 2
+p134
+aVTim Thomas MIL 05/01/2001 MIL @ ORL W 29 15 5 12 41.7 0 2 0.0 5 6 83.3 5 5 10 2 0 2 1 4 4
+p135
+aVLindsey Hunter MIL 05/01/2001 MIL @ ORL W 16 5 1 6 16.7 1 4 25.0 2 2 100.0 0 3 3 1 0 1 1 1 3
+p136
+aVDarvin Ham MIL 05/01/2001 MIL @ ORL W 18 4 0 0 - 0 0 - 4 8 50.0 1 1 2 1 0 0 2 3 9
+p137
+aVRay Allen MIL 05/01/2001 MIL @ ORL W 43 26 9 13 69.2 2 2 100.0 6 6 100.0 1 4 5 2 1 0 1 2 9
+p138
+aVSam Cassell MIL 05/01/2001 MIL @ ORL W 39 25 8 18 44.4 2 3 66.7 7 9 77.8 0 3 3 6 1 0 3 4 4
+p139
+aVScott Williams MIL 05/01/2001 MIL @ ORL W 21 8 3 6 50.0 0 0 - 2 4 50.0 3 6 9 1 1 2 0 3 3
+p140
+aVJason Caffey MIL 05/01/2001 MIL @ ORL W 14 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 -1
+p141
+aVTim Thomas MIL 04/28/2001 MIL @ ORL L 34 18 4 13 30.8 1 6 16.7 9 10 90.0 3 4 7 1 0 0 1 3 4
+p142
+aVJason Caffey MIL 04/28/2001 MIL @ ORL L 18 8 0 5 0.0 0 0 - 8 8 100.0 4 2 6 1 0 0 0 2 -8
+p143
+aVMark Pope MIL 04/28/2001 MIL @ ORL L 13 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 0 -3
+p144
+aVDarvin Ham MIL 04/28/2001 MIL @ ORL L 20 9 3 3 100.0 0 0 - 3 4 75.0 0 2 2 0 0 1 0 6 17
+p145
+aVSam Cassell MIL 04/28/2001 MIL @ ORL L 43 21 7 23 30.4 0 4 0.0 7 9 77.8 2 14 16 5 2 1 7 1 -3
+p146
+aVRay Allen MIL 04/28/2001 MIL @ ORL L 49 27 11 20 55.0 2 6 33.3 3 3 100.0 0 3 3 6 3 1 2 2 -2
+p147
+aVErvin Johnson MIL 04/28/2001 MIL @ ORL L 11 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 0 0 1 1 3 -4
+p148
+aVScott Williams MIL 04/28/2001 MIL @ ORL L 19 10 4 6 66.7 0 0 - 2 4 50.0 1 4 5 1 1 0 1 4 -8
+p149
+aVLindsey Hunter MIL 04/28/2001 MIL @ ORL L 19 5 2 6 33.3 1 3 33.3 0 0 - 1 1 2 2 1 0 0 1 -5
+p150
+aVGlenn Robinson MIL 04/28/2001 MIL @ ORL L 39 14 5 13 38.5 2 3 66.7 2 2 100.0 1 4 5 2 2 1 3 6 -13
+p151
+aVSam Cassell MIL 04/25/2001 MIL vs. ORL W 36 26 8 21 38.1 1 1 100.0 9 9 100.0 1 1 2 4 1 0 2 4 -3
+p152
+aVRay Allen MIL 04/25/2001 MIL vs. ORL W 40 27 7 12 58.3 2 3 66.7 11 13 84.6 2 8 10 7 3 1 1 0 11
+p153
+aVMark Pope MIL 04/25/2001 MIL vs. ORL W 15 4 2 3 66.7 0 0 - 0 0 - 3 4 7 2 0 0 0 2 9
+p154
+aVJason Caffey MIL 04/25/2001 MIL vs. ORL W 26 13 6 8 75.0 0 0 - 1 3 33.3 2 5 7 2 0 0 3 2 -5
+p155
+aVScott Williams MIL 04/25/2001 MIL vs. ORL W 21 8 4 10 40.0 0 0 - 0 0 - 5 3 8 0 0 0 0 3 8
+p156
+aVLindsey Hunter MIL 04/25/2001 MIL vs. ORL W 22 6 2 7 28.6 2 4 50.0 0 0 - 0 2 2 3 1 0 2 2 2
+p157
+aVTim Thomas MIL 04/25/2001 MIL vs. ORL W 21 5 2 6 33.3 0 1 0.0 1 4 25.0 0 0 0 1 0 0 0 1 -1
+p158
+aVGlenn Robinson MIL 04/25/2001 MIL vs. ORL W 36 14 5 15 33.3 1 2 50.0 3 4 75.0 2 2 4 4 0 2 4 1 15
+p159
+aVErvin Johnson MIL 04/25/2001 MIL vs. ORL W 23 0 0 1 0.0 0 0 - 0 0 - 3 10 13 0 0 0 0 0 -1
+p160
+aVLindsey Hunter MIL 04/22/2001 MIL vs. ORL W 22 2 0 7 0.0 0 6 0.0 2 2 100.0 0 2 2 1 0 0 0 1 6
+p161
+aVGlenn Robinson MIL 04/22/2001 MIL vs. ORL W 33 14 6 19 31.6 1 3 33.3 1 1 100.0 5 7 12 7 1 1 2 4 7
+p162
+aVRay Allen MIL 04/22/2001 MIL vs. ORL W 36 18 6 15 40.0 2 3 66.7 4 4 100.0 2 3 5 6 3 0 0 2 14
+p163
+aVScott Williams MIL 04/22/2001 MIL vs. ORL W 27 19 8 11 72.7 0 0 - 3 4 75.0 7 9 16 0 2 1 4 3 18
+p164
+aVSam Cassell MIL 04/22/2001 MIL vs. ORL W 39 16 5 18 27.8 0 3 0.0 6 7 85.7 0 5 5 8 1 0 2 5 11
+p165
+aVRafer Alston MIL 04/22/2001 MIL vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p166
+aVMark Pope MIL 04/22/2001 MIL vs. ORL W 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 -1
+p167
+aVErvin Johnson MIL 04/22/2001 MIL vs. ORL W 23 12 6 9 66.7 0 0 - 0 5 0.0 7 3 10 1 0 0 0 1 5
+p168
+aVTim Thomas MIL 04/22/2001 MIL vs. ORL W 20 12 4 7 57.1 2 3 66.7 2 2 100.0 0 4 4 3 1 1 2 4 7
+p169
+aVJason Caffey MIL 04/22/2001 MIL vs. ORL W 25 8 3 7 42.9 0 0 - 2 3 66.7 1 1 2 0 0 1 1 2 -2
+p170
+a.

@@ -1,0 +1,1688 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVWinston Garland GOS 04/22/1989 GOS @ UTH L 23 10 5 14 35.7 0 0 - 0 0 - 2 2 4 2 4 0 2 3 -
+p2
+aVSteve Alford GOS 04/22/1989 GOS @ UTH L 32 17 7 14 50.0 1 2 50.0 2 2 100.0 0 2 2 5 1 0 2 2 -
+p3
+aVLarry Smith GOS 04/22/1989 GOS @ UTH L 24 4 2 2 100.0 0 0 - 0 0 - 4 3 7 0 1 1 1 3 -
+p4
+aVOrlando Graham GOS 04/22/1989 GOS @ UTH L 3 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 0 1 0 -
+p5
+aVBen McDonald GOS 04/22/1989 GOS @ UTH L 25 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 2 0 2 2 -
+p6
+aVTerry Teagle GOS 04/22/1989 GOS @ UTH L 27 27 12 18 66.7 0 1 0.0 3 4 75.0 0 1 1 4 2 0 1 3 -
+p7
+aVRod Higgins GOS 04/22/1989 GOS @ UTH L 19 6 3 7 42.9 0 2 0.0 0 0 - 1 0 1 4 0 0 1 2 -
+p8
+aVRalph Sampson GOS 04/22/1989 GOS @ UTH L 30 6 3 10 30.0 0 2 0.0 0 0 - 2 3 5 3 2 1 1 5 -
+p9
+aVManute Bol GOS 04/22/1989 GOS @ UTH L 9 1 0 2 0.0 0 2 0.0 1 2 50.0 1 2 3 0 0 5 1 3 -
+p10
+aVOtis Smith GOS 04/22/1989 GOS @ UTH L 31 4 2 8 25.0 0 0 - 0 0 - 0 1 1 5 5 0 2 2 -
+p11
+aVChris Mullin GOS 04/22/1989 GOS @ UTH L 17 14 6 12 50.0 0 2 0.0 2 2 100.0 1 1 2 2 0 0 5 2 -
+p12
+aVOtis Smith GOS 04/21/1989 GOS vs. DEN L 29 11 5 15 33.3 0 1 0.0 1 2 50.0 1 3 4 4 0 0 3 5 -
+p13
+aVTerry Teagle GOS 04/21/1989 GOS vs. DEN L 22 9 3 12 25.0 0 1 0.0 3 4 75.0 2 1 3 1 1 0 2 4 -
+p14
+aVBen McDonald GOS 04/21/1989 GOS vs. DEN L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -
+p15
+aVChris Mullin GOS 04/21/1989 GOS vs. DEN L 23 22 8 11 72.7 0 1 0.0 6 6 100.0 1 2 3 4 2 0 6 1 -
+p16
+aVOrlando Graham GOS 04/21/1989 GOS vs. DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p17
+aVLarry Smith GOS 04/21/1989 GOS vs. DEN L 34 4 2 2 100.0 0 0 - 0 0 - 4 5 9 3 4 2 1 2 -
+p18
+aVManute Bol GOS 04/21/1989 GOS vs. DEN L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 0 0 1 2 1 -
+p19
+aVRod Higgins GOS 04/21/1989 GOS vs. DEN L 27 23 8 14 57.1 2 2 100.0 5 6 83.3 5 3 8 0 0 1 0 1 -
+p20
+aVSteve Alford GOS 04/21/1989 GOS vs. DEN L 28 14 6 11 54.5 0 1 0.0 2 2 100.0 0 1 1 5 2 0 2 1 -
+p21
+aVRalph Sampson GOS 04/21/1989 GOS vs. DEN L 34 17 7 17 41.2 1 2 50.0 2 2 100.0 1 8 9 5 0 0 5 1 -
+p22
+aVWinston Garland GOS 04/21/1989 GOS vs. DEN L 24 16 8 13 61.5 0 1 0.0 0 0 - 0 3 3 3 0 0 0 1 -
+p23
+aVSteve Alford GOS 04/18/1989 GOS @ SEA L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p24
+aVRod Higgins GOS 04/18/1989 GOS @ SEA L 33 17 5 9 55.6 0 2 0.0 7 7 100.0 3 4 7 5 1 1 0 2 -
+p25
+aVManute Bol GOS 04/18/1989 GOS @ SEA L 14 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 0 0 2 2 1 -
+p26
+aVOtis Smith GOS 04/18/1989 GOS @ SEA L 25 12 5 7 71.4 0 0 - 2 2 100.0 1 4 5 4 4 0 1 3 -
+p27
+aVWinston Garland GOS 04/18/1989 GOS @ SEA L 26 10 5 9 55.6 0 0 - 0 0 - 0 1 1 3 2 1 2 5 -
+p28
+aVTerry Teagle GOS 04/18/1989 GOS @ SEA L 27 15 6 14 42.9 0 0 - 3 3 100.0 0 0 0 2 0 0 3 3 -
+p29
+aVMitch Richmond GOS 04/18/1989 GOS @ SEA L 32 15 3 17 17.6 0 0 - 9 9 100.0 3 1 4 6 2 0 1 5 -
+p30
+aVRalph Sampson GOS 04/18/1989 GOS @ SEA L 16 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 3 1 -
+p31
+aVChris Mullin GOS 04/18/1989 GOS @ SEA L 41 36 13 24 54.2 0 0 - 10 10 100.0 1 5 6 2 0 0 1 0 -
+p32
+aVLarry Smith GOS 04/18/1989 GOS @ SEA L 20 3 1 6 16.7 0 0 - 1 2 50.0 9 5 14 2 0 3 0 4 -
+p33
+aVWinston Garland GOS 04/17/1989 GOS vs. SEA L 40 9 4 12 33.3 0 0 - 1 1 100.0 1 0 1 8 2 0 3 0 -
+p34
+aVTerry Teagle GOS 04/17/1989 GOS vs. SEA L 37 34 16 23 69.6 0 1 0.0 2 4 50.0 3 4 7 1 1 2 3 5 -
+p35
+aVRod Higgins GOS 04/17/1989 GOS vs. SEA L 27 4 2 6 33.3 0 2 0.0 0 0 - 1 6 7 1 1 1 0 3 -
+p36
+aVOtis Smith GOS 04/17/1989 GOS vs. SEA L 11 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 1 0 1 1 2 -
+p37
+aVRalph Sampson GOS 04/17/1989 GOS vs. SEA L 17 11 4 7 57.1 1 1 100.0 2 6 33.3 1 6 7 2 1 0 1 3 -
+p38
+aVChris Mullin GOS 04/17/1989 GOS vs. SEA L 43 25 11 23 47.8 0 0 - 3 5 60.0 2 3 5 2 5 0 4 1 -
+p39
+aVMitch Richmond GOS 04/17/1989 GOS vs. SEA L 46 12 5 17 29.4 2 6 33.3 0 2 0.0 0 5 5 4 0 0 6 3 -
+p40
+aVLarry Smith GOS 04/17/1989 GOS vs. SEA L 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 0 2 1 0 -
+p41
+aVSteve Alford GOS 04/17/1989 GOS vs. SEA L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p42
+aVManute Bol GOS 04/17/1989 GOS vs. SEA L 23 8 3 4 75.0 0 0 - 2 2 100.0 2 4 6 2 0 3 0 3 -
+p43
+aVRod Higgins GOS 04/15/1989 GOS vs. SAC L 25 12 5 11 45.5 0 1 0.0 2 3 66.7 1 4 5 1 0 0 1 3 -
+p44
+aVManute Bol GOS 04/15/1989 GOS vs. SAC L 23 5 2 8 25.0 1 7 14.3 0 0 - 1 6 7 1 0 2 2 1 -
+p45
+aVOtis Smith GOS 04/15/1989 GOS vs. SAC L 15 6 1 4 25.0 0 0 - 4 4 100.0 1 4 5 0 0 2 0 2 -
+p46
+aVTerry Teagle GOS 04/15/1989 GOS vs. SAC L 22 22 9 17 52.9 0 0 - 4 5 80.0 2 3 5 1 2 0 2 3 -
+p47
+aVMitch Richmond GOS 04/15/1989 GOS vs. SAC L 38 28 9 17 52.9 2 3 66.7 8 10 80.0 2 8 10 8 0 0 6 6 -
+p48
+aVWinston Garland GOS 04/15/1989 GOS vs. SAC L 31 13 5 15 33.3 1 2 50.0 2 2 100.0 0 4 4 4 2 0 3 4 -
+p49
+aVLarry Smith GOS 04/15/1989 GOS vs. SAC L 26 2 1 1 100.0 0 0 - 0 0 - 1 6 7 0 1 0 0 3 -
+p50
+aVChris Mullin GOS 04/15/1989 GOS vs. SAC L 42 17 5 17 29.4 0 1 0.0 7 8 87.5 1 4 5 5 5 1 1 1 -
+p51
+aVSteve Alford GOS 04/15/1989 GOS vs. SAC L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -
+p52
+aVRalph Sampson GOS 04/15/1989 GOS vs. SAC L 13 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 0 2 0 0 2 -
+p53
+aVRod Higgins GOS 04/13/1989 GOS @ LAC L 32 8 2 9 22.2 0 2 0.0 4 4 100.0 4 2 6 4 2 3 1 5 -
+p54
+aVChris Mullin GOS 04/13/1989 GOS @ LAC L 44 47 16 25 64.0 0 0 - 15 15 100.0 0 7 7 4 4 1 5 2 -
+p55
+aVRalph Sampson GOS 04/13/1989 GOS @ LAC L 14 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 0 3 1 -
+p56
+aVTerry Teagle GOS 04/13/1989 GOS @ LAC L 8 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 0 0 2 2 -
+p57
+aVManute Bol GOS 04/13/1989 GOS @ LAC L 25 2 0 2 0.0 0 1 0.0 2 4 50.0 0 12 12 0 1 5 1 5 -
+p58
+aVLarry Smith GOS 04/13/1989 GOS @ LAC L 22 2 1 1 100.0 0 0 - 0 0 - 3 4 7 1 1 1 1 2 -
+p59
+aVOtis Smith GOS 04/13/1989 GOS @ LAC L 24 14 6 12 50.0 0 0 - 2 2 100.0 0 2 2 0 1 2 2 2 -
+p60
+aVMitch Richmond GOS 04/13/1989 GOS @ LAC L 43 24 8 22 36.4 0 0 - 8 9 88.9 2 5 7 7 5 0 4 1 -
+p61
+aVSteve Alford GOS 04/13/1989 GOS @ LAC L 11 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -
+p62
+aVWinston Garland GOS 04/13/1989 GOS @ LAC L 42 19 7 17 41.2 0 1 0.0 5 5 100.0 0 1 1 6 2 0 1 3 -
+p63
+aVChris Mullin GOS 04/11/1989 GOS vs. MIA W 35 25 8 15 53.3 0 1 0.0 9 9 100.0 1 2 3 5 0 1 3 0 -
+p64
+aVRod Higgins GOS 04/11/1989 GOS vs. MIA W 16 4 1 3 33.3 0 1 0.0 2 6 33.3 0 1 1 1 0 0 0 1 -
+p65
+aVLarry Smith GOS 04/11/1989 GOS vs. MIA W 24 0 0 1 0.0 0 0 - 0 0 - 2 7 9 5 2 0 0 3 -
+p66
+aVTerry Teagle GOS 04/11/1989 GOS vs. MIA W 29 24 9 18 50.0 0 0 - 6 6 100.0 5 3 8 1 1 0 3 3 -
+p67
+aVManute Bol GOS 04/11/1989 GOS vs. MIA W 23 3 1 6 16.7 0 3 0.0 1 4 25.0 1 3 4 0 1 5 0 1 -
+p68
+aVOtis Smith GOS 04/11/1989 GOS vs. MIA W 16 7 1 8 12.5 0 0 - 5 6 83.3 3 2 5 0 1 0 3 1 -
+p69
+aVMitch Richmond GOS 04/11/1989 GOS vs. MIA W 30 17 5 11 45.5 0 0 - 7 7 100.0 0 4 4 4 2 1 6 0 -
+p70
+aVRalph Sampson GOS 04/11/1989 GOS vs. MIA W 19 9 4 8 50.0 0 0 - 1 1 100.0 0 8 8 1 1 0 1 3 -
+p71
+aVOrlando Graham GOS 04/11/1989 GOS vs. MIA W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p72
+aVWinston Garland GOS 04/11/1989 GOS vs. MIA W 35 18 9 14 64.3 0 0 - 0 0 - 1 5 6 5 3 0 2 4 -
+p73
+aVSteve Alford GOS 04/11/1989 GOS vs. MIA W 12 5 1 5 20.0 0 0 - 3 3 100.0 1 0 1 2 0 0 2 1 -
+p74
+aVChris Mullin GOS 04/08/1989 GOS vs. LAL W 40 33 11 19 57.9 0 0 - 11 12 91.7 1 6 7 4 5 0 5 1 -
+p75
+aVMitch Richmond GOS 04/08/1989 GOS vs. LAL W 39 31 13 24 54.2 0 1 0.0 5 7 71.4 2 2 4 1 0 0 3 2 -
+p76
+aVTerry Teagle GOS 04/08/1989 GOS vs. LAL W 24 11 4 12 33.3 0 0 - 3 3 100.0 0 2 2 2 0 0 3 3 -
+p77
+aVOtis Smith GOS 04/08/1989 GOS vs. LAL W 11 4 2 4 50.0 0 0 - 0 1 0.0 1 2 3 2 1 1 1 1 -
+p78
+aVWinston Garland GOS 04/08/1989 GOS vs. LAL W 38 20 8 13 61.5 0 0 - 4 5 80.0 1 5 6 6 3 0 1 1 -
+p79
+aVRod Higgins GOS 04/08/1989 GOS vs. LAL W 29 8 2 5 40.0 1 2 50.0 3 4 75.0 0 4 4 3 0 1 0 2 -
+p80
+aVRalph Sampson GOS 04/08/1989 GOS vs. LAL W 12 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -
+p81
+aVLarry Smith GOS 04/08/1989 GOS vs. LAL W 14 0 0 2 0.0 0 0 - 0 2 0.0 1 6 7 0 0 0 1 2 -
+p82
+aVSteve Alford GOS 04/08/1989 GOS vs. LAL W 9 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 0 -
+p83
+aVManute Bol GOS 04/08/1989 GOS vs. LAL W 24 2 1 4 25.0 0 1 0.0 0 0 - 3 3 6 1 0 3 1 2 -
+p84
+aVWinston Garland GOS 04/06/1989 GOS vs. BOS W 32 16 6 14 42.9 0 1 0.0 4 5 80.0 3 0 3 6 5 0 1 1 -
+p85
+aVOrlando Graham GOS 04/06/1989 GOS vs. BOS W 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p86
+aVMitch Richmond GOS 04/06/1989 GOS vs. BOS W 35 23 7 19 36.8 0 0 - 9 11 81.8 2 5 7 3 2 0 3 3 -
+p87
+aVOtis Smith GOS 04/06/1989 GOS vs. BOS W 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 1 0 0 4 -
+p88
+aVSteve Alford GOS 04/06/1989 GOS vs. BOS W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -
+p89
+aVRod Higgins GOS 04/06/1989 GOS vs. BOS W 20 3 0 3 0.0 0 2 0.0 3 4 75.0 1 3 4 2 1 0 0 0 -
+p90
+aVRalph Sampson GOS 04/06/1989 GOS vs. BOS W 31 10 5 8 62.5 0 0 - 0 2 0.0 2 7 9 2 1 2 2 5 -
+p91
+aVChris Mullin GOS 04/06/1989 GOS vs. BOS W 40 41 15 27 55.6 0 0 - 11 13 84.6 2 3 5 6 2 3 3 4 -
+p92
+aVTerry Teagle GOS 04/06/1989 GOS vs. BOS W 27 23 10 19 52.6 0 0 - 3 3 100.0 2 0 2 1 2 0 3 2 -
+p93
+aVLarry Smith GOS 04/06/1989 GOS vs. BOS W 21 8 4 4 100.0 0 0 - 0 0 - 7 3 10 0 0 0 1 4 -
+p94
+aVManute Bol GOS 04/06/1989 GOS vs. BOS W 19 2 1 6 16.7 0 3 0.0 0 0 - 1 7 8 0 0 3 0 4 -
+p95
+aVTerry Teagle GOS 04/04/1989 GOS vs. MIL L 29 19 8 16 50.0 0 0 - 3 3 100.0 1 3 4 0 0 0 2 4 -
+p96
+aVWinston Garland GOS 04/04/1989 GOS vs. MIL L 38 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 7 2 2 1 2 -
+p97
+aVManute Bol GOS 04/04/1989 GOS vs. MIL L 25 2 1 2 50.0 0 1 0.0 0 0 - 1 5 6 0 0 4 0 3 -
+p98
+aVChris Mullin GOS 04/04/1989 GOS vs. MIL L 44 26 11 21 52.4 1 3 33.3 3 3 100.0 1 4 5 5 2 0 1 3 -
+p99
+aVLarry Smith GOS 04/04/1989 GOS vs. MIL L 12 7 3 5 60.0 0 0 - 1 3 33.3 5 1 6 1 0 0 1 0 -
+p100
+aVMitch Richmond GOS 04/04/1989 GOS vs. MIL L 42 27 9 18 50.0 2 4 50.0 7 8 87.5 2 6 8 2 0 0 4 1 -
+p101
+aVOtis Smith GOS 04/04/1989 GOS vs. MIL L 19 10 3 10 30.0 0 0 - 4 4 100.0 2 4 6 2 0 0 2 2 -
+p102
+aVRod Higgins GOS 04/04/1989 GOS vs. MIL L 31 21 6 14 42.9 3 6 50.0 6 6 100.0 1 6 7 1 1 0 1 2 -
+p103
+aVWinston Garland GOS 04/02/1989 GOS @ WAS L 22 9 3 13 23.1 0 0 - 3 4 75.0 4 0 4 3 0 0 4 1 -
+p104
+aVLarry Smith GOS 04/02/1989 GOS @ WAS L 16 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 1 4 -
+p105
+aVOtis Smith GOS 04/02/1989 GOS @ WAS L 26 17 6 16 37.5 1 2 50.0 4 4 100.0 3 8 11 1 1 0 4 1 -
+p106
+aVSteve Alford GOS 04/02/1989 GOS @ WAS L 18 10 4 8 50.0 1 2 50.0 1 2 50.0 0 2 2 2 2 0 2 1 -
+p107
+aVMitch Richmond GOS 04/02/1989 GOS @ WAS L 32 14 7 14 50.0 0 1 0.0 0 1 0.0 0 5 5 9 2 0 3 5 -
+p108
+aVChris Mullin GOS 04/02/1989 GOS @ WAS L 28 19 7 14 50.0 0 0 - 5 6 83.3 1 2 3 0 1 0 2 2 -
+p109
+aVRod Higgins GOS 04/02/1989 GOS @ WAS L 19 7 2 6 33.3 0 2 0.0 3 4 75.0 3 5 8 2 0 0 2 2 -
+p110
+aVBen McDonald GOS 04/02/1989 GOS @ WAS L 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p111
+aVOrlando Graham GOS 04/02/1989 GOS @ WAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p112
+aVRalph Sampson GOS 04/02/1989 GOS @ WAS L 15 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 2 -
+p113
+aVManute Bol GOS 04/02/1989 GOS @ WAS L 21 5 2 4 50.0 1 2 50.0 0 0 - 0 6 6 0 0 0 1 3 -
+p114
+aVTerry Teagle GOS 04/02/1989 GOS @ WAS L 27 11 5 17 29.4 0 0 - 1 2 50.0 2 2 4 2 2 0 1 3 -
+p115
+aVOtis Smith GOS 03/31/1989 GOS @ NYK W 11 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 2 0 1 1 -
+p116
+aVRalph Sampson GOS 03/31/1989 GOS @ NYK W 19 4 2 5 40.0 0 0 - 0 0 - 3 1 4 3 1 1 2 4 -
+p117
+aVTerry Teagle GOS 03/31/1989 GOS @ NYK W 23 16 7 13 53.8 0 1 0.0 2 3 66.7 1 1 2 2 2 0 2 2 -
+p118
+aVLarry Smith GOS 03/31/1989 GOS @ NYK W 24 9 4 4 100.0 0 0 - 1 2 50.0 4 1 5 2 1 1 0 1 -
+p119
+aVManute Bol GOS 03/31/1989 GOS @ NYK W 19 6 2 4 50.0 0 1 0.0 2 2 100.0 2 1 3 0 0 4 0 2 -
+p120
+aVRod Higgins GOS 03/31/1989 GOS @ NYK W 24 13 5 5 100.0 3 3 100.0 0 0 - 0 8 8 4 0 0 0 3 -
+p121
+aVMitch Richmond GOS 03/31/1989 GOS @ NYK W 42 37 14 21 66.7 0 0 - 9 9 100.0 1 5 6 6 2 0 4 1 -
+p122
+aVWinston Garland GOS 03/31/1989 GOS @ NYK W 39 11 4 13 30.8 0 0 - 3 4 75.0 1 3 4 6 6 0 3 3 -
+p123
+aVChris Mullin GOS 03/31/1989 GOS @ NYK W 39 34 13 25 52.0 0 0 - 8 9 88.9 3 4 7 3 3 2 6 0 -
+p124
+aVChris Mullin GOS 03/30/1989 GOS @ CHH W 40 36 13 23 56.5 1 1 100.0 9 11 81.8 4 3 7 2 1 2 2 1 -
+p125
+aVTerry Teagle GOS 03/30/1989 GOS @ CHH W 37 24 9 21 42.9 0 0 - 6 6 100.0 2 4 6 1 2 0 3 2 -
+p126
+aVRod Higgins GOS 03/30/1989 GOS @ CHH W 25 7 3 9 33.3 1 3 33.3 0 1 0.0 0 5 5 5 1 2 1 5 -
+p127
+aVLarry Smith GOS 03/30/1989 GOS @ CHH W 16 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 3 2 2 -
+p128
+aVRalph Sampson GOS 03/30/1989 GOS @ CHH W 11 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -
+p129
+aVMitch Richmond GOS 03/30/1989 GOS @ CHH W 39 28 9 17 52.9 0 1 0.0 10 12 83.3 7 5 12 3 1 0 6 3 -
+p130
+aVWinston Garland GOS 03/30/1989 GOS @ CHH W 39 14 5 11 45.5 0 0 - 4 4 100.0 1 11 12 4 1 0 1 1 -
+p131
+aVManute Bol GOS 03/30/1989 GOS @ CHH W 20 2 1 4 25.0 0 3 0.0 0 1 0.0 0 2 2 1 0 2 0 2 -
+p132
+aVOtis Smith GOS 03/30/1989 GOS @ CHH W 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -
+p133
+aVWinston Garland GOS 03/28/1989 GOS @ CHI L 39 18 9 16 56.3 0 1 0.0 0 0 - 1 2 3 9 4 1 3 2 -
+p134
+aVMitch Richmond GOS 03/28/1989 GOS @ CHI L 40 19 8 21 38.1 0 0 - 3 6 50.0 4 5 9 5 2 0 2 4 -
+p135
+aVLarry Smith GOS 03/28/1989 GOS @ CHI L 25 2 1 3 33.3 0 0 - 0 2 0.0 3 10 13 2 0 1 3 2 -
+p136
+aVSteve Alford GOS 03/28/1989 GOS @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p137
+aVManute Bol GOS 03/28/1989 GOS @ CHI L 20 5 2 3 66.7 1 2 50.0 0 0 - 1 7 8 0 0 2 2 2 -
+p138
+aVOtis Smith GOS 03/28/1989 GOS @ CHI L 13 3 0 7 0.0 0 0 - 3 4 75.0 1 2 3 1 1 0 1 0 -
+p139
+aVRod Higgins GOS 03/28/1989 GOS @ CHI L 29 11 4 10 40.0 1 4 25.0 2 2 100.0 1 1 2 1 0 0 0 3 -
+p140
+aVTerry Teagle GOS 03/28/1989 GOS @ CHI L 32 21 9 17 52.9 0 1 0.0 3 5 60.0 1 1 2 0 1 0 6 3 -
+p141
+aVChris Mullin GOS 03/28/1989 GOS @ CHI L 40 27 11 19 57.9 1 3 33.3 4 5 80.0 2 5 7 8 2 1 0 2 -
+p142
+aVChris Mullin GOS 03/27/1989 GOS @ MIL L 40 28 11 18 61.1 0 0 - 6 6 100.0 1 3 4 6 6 0 2 1 -
+p143
+aVManute Bol GOS 03/27/1989 GOS @ MIL L 18 0 0 4 0.0 0 2 0.0 0 0 - 1 4 5 0 0 1 2 3 -
+p144
+aVLarry Smith GOS 03/27/1989 GOS @ MIL L 18 6 3 6 50.0 0 0 - 0 1 0.0 2 5 7 1 1 3 1 4 -
+p145
+aVTerry Teagle GOS 03/27/1989 GOS @ MIL L 32 12 5 12 41.7 0 1 0.0 2 4 50.0 1 1 2 1 1 0 2 3 -
+p146
+aVOtis Smith GOS 03/27/1989 GOS @ MIL L 21 9 3 8 37.5 0 1 0.0 3 3 100.0 2 5 7 4 0 1 0 1 -
+p147
+aVWinston Garland GOS 03/27/1989 GOS @ MIL L 38 17 8 19 42.1 0 1 0.0 1 1 100.0 1 0 1 11 1 0 1 3 -
+p148
+aVSteve Alford GOS 03/27/1989 GOS @ MIL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p149
+aVRod Higgins GOS 03/27/1989 GOS @ MIL L 26 15 7 12 58.3 1 4 25.0 0 0 - 2 1 3 0 4 3 1 6 -
+p150
+aVMitch Richmond GOS 03/27/1989 GOS @ MIL L 38 22 9 19 47.4 0 0 - 4 7 57.1 1 2 3 6 0 0 2 2 -
+p151
+aVMitch Richmond GOS 03/25/1989 GOS @ HOU L 28 21 8 17 47.1 0 0 - 5 6 83.3 0 2 2 2 1 0 3 3 -
+p152
+aVTerry Teagle GOS 03/25/1989 GOS @ HOU L 26 20 7 17 41.2 0 0 - 6 6 100.0 2 0 2 3 4 0 1 1 -
+p153
+aVSteve Alford GOS 03/25/1989 GOS @ HOU L 19 13 6 11 54.5 0 2 0.0 1 1 100.0 0 2 2 2 2 0 0 1 -
+p154
+aVManute Bol GOS 03/25/1989 GOS @ HOU L 17 2 0 4 0.0 0 3 0.0 2 2 100.0 2 5 7 1 0 3 1 3 -
+p155
+aVRalph Sampson GOS 03/25/1989 GOS @ HOU L 21 6 3 11 27.3 0 2 0.0 0 0 - 1 3 4 1 0 3 3 3 -
+p156
+aVRod Higgins GOS 03/25/1989 GOS @ HOU L 20 4 0 7 0.0 0 2 0.0 4 4 100.0 3 3 6 0 0 1 3 1 -
+p157
+aVBen McDonald GOS 03/25/1989 GOS @ HOU L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p158
+aVWinston Garland GOS 03/25/1989 GOS @ HOU L 23 13 6 12 50.0 0 1 0.0 1 3 33.3 1 3 4 4 2 0 4 4 -
+p159
+aVOrlando Graham GOS 03/25/1989 GOS @ HOU L 5 2 0 2 0.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 2 -
+p160
+aVOtis Smith GOS 03/25/1989 GOS @ HOU L 23 15 7 17 41.2 1 3 33.3 0 0 - 3 1 4 1 0 0 2 3 -
+p161
+aVChris Mullin GOS 03/25/1989 GOS @ HOU L 26 4 2 11 18.2 0 0 - 0 0 - 4 1 5 3 1 0 4 2 -
+p162
+aVLarry Smith GOS 03/25/1989 GOS @ HOU L 22 2 1 4 25.0 0 0 - 0 0 - 5 5 10 1 0 0 0 3 -
+p163
+aVOrlando Graham GOS 03/23/1989 GOS vs. PHX L 4 0 0 1 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 1 -
+p164
+aVTerry Teagle GOS 03/23/1989 GOS vs. PHX L 24 12 6 10 60.0 0 0 - 0 1 0.0 1 1 2 1 1 0 5 6 -
+p165
+aVManute Bol GOS 03/23/1989 GOS vs. PHX L 19 10 2 5 40.0 2 4 50.0 4 4 100.0 2 3 5 0 0 7 2 5 -
+p166
+aVMitch Richmond GOS 03/23/1989 GOS vs. PHX L 35 22 4 11 36.4 0 1 0.0 14 15 93.3 1 5 6 5 0 0 2 2 -
+p167
+aVOtis Smith GOS 03/23/1989 GOS vs. PHX L 28 11 4 12 33.3 0 2 0.0 3 4 75.0 4 1 5 2 2 1 2 1 -
+p168
+aVSteve Alford GOS 03/23/1989 GOS vs. PHX L 18 3 1 8 12.5 1 2 50.0 0 0 - 0 1 1 2 0 0 1 1 -
+p169
+aVLarry Smith GOS 03/23/1989 GOS vs. PHX L 17 2 1 1 100.0 0 0 - 0 0 - 2 2 4 2 0 2 2 2 -
+p170
+aVRod Higgins GOS 03/23/1989 GOS vs. PHX L 26 9 3 8 37.5 1 3 33.3 2 2 100.0 1 4 5 3 0 4 0 4 -
+p171
+aVBen McDonald GOS 03/23/1989 GOS vs. PHX L 6 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 0 -
+p172
+aVChris Mullin GOS 03/23/1989 GOS vs. PHX L 32 37 14 25 56.0 1 3 33.3 8 8 100.0 3 6 9 0 2 0 4 0 -
+p173
+aVWinston Garland GOS 03/23/1989 GOS vs. PHX L 31 15 6 18 33.3 0 0 - 3 4 75.0 1 3 4 2 3 0 1 4 -
+p174
+aVTerry Teagle GOS 03/21/1989 GOS vs. POR W 32 28 13 21 61.9 0 0 - 2 2 100.0 2 4 6 0 1 0 0 4 -
+p175
+aVLarry Smith GOS 03/21/1989 GOS vs. POR W 25 4 2 3 66.7 0 0 - 0 0 - 5 10 15 4 0 0 4 5 -
+p176
+aVWinston Garland GOS 03/21/1989 GOS vs. POR W 37 15 7 16 43.8 0 0 - 1 2 50.0 1 3 4 15 3 1 3 4 -
+p177
+aVRod Higgins GOS 03/21/1989 GOS vs. POR W 18 12 4 8 50.0 1 4 25.0 3 3 100.0 0 2 2 3 0 0 1 2 -
+p178
+aVSteve Alford GOS 03/21/1989 GOS vs. POR W 9 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 5 2 0 2 2 -
+p179
+aVOtis Smith GOS 03/21/1989 GOS vs. POR W 25 23 10 11 90.9 0 0 - 3 4 75.0 1 6 7 3 1 1 0 3 -
+p180
+aVMitch Richmond GOS 03/21/1989 GOS vs. POR W 42 29 12 22 54.5 1 2 50.0 4 4 100.0 3 7 10 5 2 0 7 5 -
+p181
+aVChris Mullin GOS 03/21/1989 GOS vs. POR W 32 26 9 21 42.9 1 2 50.0 7 7 100.0 0 6 6 4 1 0 5 0 -
+p182
+aVManute Bol GOS 03/21/1989 GOS vs. POR W 20 8 3 3 100.0 2 2 100.0 0 0 - 1 3 4 0 0 13 0 1 -
+p183
+aVWinston Garland GOS 03/19/1989 GOS vs. CHH W 35 15 4 8 50.0 0 0 - 7 7 100.0 2 1 3 7 0 0 4 4 -
+p184
+aVRod Higgins GOS 03/19/1989 GOS vs. CHH W 26 14 5 10 50.0 4 6 66.7 0 0 - 1 7 8 2 3 0 2 3 -
+p185
+aVMitch Richmond GOS 03/19/1989 GOS vs. CHH W 37 23 9 19 47.4 0 0 - 5 9 55.6 2 10 12 4 1 0 4 3 -
+p186
+aVSteve Alford GOS 03/19/1989 GOS vs. CHH W 13 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -
+p187
+aVRalph Sampson GOS 03/19/1989 GOS vs. CHH W 10 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 1 -
+p188
+aVLarry Smith GOS 03/19/1989 GOS vs. CHH W 14 4 2 6 33.3 0 0 - 0 0 - 5 5 10 2 0 0 0 3 -
+p189
+aVTerry Teagle GOS 03/19/1989 GOS vs. CHH W 32 20 8 15 53.3 0 0 - 4 4 100.0 1 3 4 0 4 1 2 4 -
+p190
+aVManute Bol GOS 03/19/1989 GOS vs. CHH W 18 5 2 4 50.0 0 1 0.0 1 1 100.0 1 2 3 0 0 3 0 1 -
+p191
+aVChris Mullin GOS 03/19/1989 GOS vs. CHH W 36 27 10 21 47.6 0 1 0.0 7 9 77.8 2 1 3 1 3 1 4 0 -
+p192
+aVOtis Smith GOS 03/19/1989 GOS vs. CHH W 19 8 1 6 16.7 0 0 - 6 6 100.0 3 2 5 3 0 1 3 2 -
+p193
+aVOtis Smith GOS 03/17/1989 GOS vs. ATL W 20 9 1 8 12.5 0 1 0.0 7 7 100.0 1 7 8 2 1 0 1 2 -
+p194
+aVTerry Teagle GOS 03/17/1989 GOS vs. ATL W 27 7 3 12 25.0 0 0 - 1 2 50.0 0 2 2 1 2 0 0 1 -
+p195
+aVChris Mullin GOS 03/17/1989 GOS vs. ATL W 44 34 14 24 58.3 0 1 0.0 6 8 75.0 1 2 3 5 4 0 5 4 -
+p196
+aVSteve Alford GOS 03/17/1989 GOS vs. ATL W 6 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -
+p197
+aVRod Higgins GOS 03/17/1989 GOS vs. ATL W 38 15 5 9 55.6 1 4 25.0 4 4 100.0 1 4 5 4 0 2 1 2 -
+p198
+aVWinston Garland GOS 03/17/1989 GOS vs. ATL W 43 18 9 23 39.1 0 1 0.0 0 0 - 4 3 7 11 3 1 2 3 -
+p199
+aVManute Bol GOS 03/17/1989 GOS vs. ATL W 23 2 1 5 20.0 0 2 0.0 0 0 - 1 6 7 1 0 2 1 5 -
+p200
+aVMitch Richmond GOS 03/17/1989 GOS vs. ATL W 41 36 16 28 57.1 1 4 25.0 3 3 100.0 4 7 11 5 1 0 0 1 -
+p201
+aVRalph Sampson GOS 03/17/1989 GOS vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -
+p202
+aVLarry Smith GOS 03/17/1989 GOS vs. ATL W 17 2 1 4 25.0 0 0 - 0 0 - 6 3 9 0 1 0 1 4 -
+p203
+aVTerry Teagle GOS 03/15/1989 GOS vs. DAL W 21 14 6 12 50.0 0 0 - 2 2 100.0 2 2 4 3 1 0 0 5 -
+p204
+aVBen McDonald GOS 03/15/1989 GOS vs. DAL W 7 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 1 0 0 2 -
+p205
+aVSteve Alford GOS 03/15/1989 GOS vs. DAL W 13 6 3 6 50.0 0 1 0.0 0 0 - 2 0 2 0 1 0 2 0 -
+p206
+aVManute Bol GOS 03/15/1989 GOS vs. DAL W 20 3 1 3 33.3 1 1 100.0 0 0 - 0 6 6 0 0 3 0 3 -
+p207
+aVRod Higgins GOS 03/15/1989 GOS vs. DAL W 24 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 4 0 0 0 1 -
+p208
+aVMitch Richmond GOS 03/15/1989 GOS vs. DAL W 35 23 10 22 45.5 0 0 - 3 4 75.0 2 4 6 1 1 1 2 5 -
+p209
+aVWinston Garland GOS 03/15/1989 GOS vs. DAL W 38 12 5 9 55.6 0 0 - 2 2 100.0 2 3 5 11 1 0 1 1 -
+p210
+aVChris Mullin GOS 03/15/1989 GOS vs. DAL W 38 32 12 21 57.1 0 2 0.0 8 8 100.0 1 4 5 4 1 0 4 1 -
+p211
+aVRalph Sampson GOS 03/15/1989 GOS vs. DAL W 25 11 5 5 100.0 0 0 - 1 2 50.0 5 5 10 1 0 0 1 3 -
+p212
+aVOtis Smith GOS 03/15/1989 GOS vs. DAL W 19 10 4 7 57.1 0 0 - 2 2 100.0 3 3 6 1 0 0 1 2 -
+p213
+aVChris Mullin GOS 03/14/1989 GOS @ POR L 24 19 8 17 47.1 0 0 - 3 4 75.0 1 3 4 1 2 0 2 1 -
+p214
+aVManute Bol GOS 03/14/1989 GOS @ POR L 14 2 1 4 25.0 0 1 0.0 0 0 - 2 0 2 0 0 3 0 1 -
+p215
+aVWinston Garland GOS 03/14/1989 GOS @ POR L 28 11 5 15 33.3 0 0 - 1 3 33.3 1 4 5 8 0 0 5 1 -
+p216
+aVSteve Alford GOS 03/14/1989 GOS @ POR L 19 4 2 7 28.6 0 0 - 0 0 - 0 2 2 4 1 0 1 1 -
+p217
+aVBen McDonald GOS 03/14/1989 GOS @ POR L 20 12 4 5 80.0 0 0 - 4 4 100.0 0 4 4 2 0 0 0 1 -
+p218
+aVLarry Smith GOS 03/14/1989 GOS @ POR L 10 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 1 0 1 0 -
+p219
+aVMitch Richmond GOS 03/14/1989 GOS @ POR L 22 9 4 12 33.3 0 1 0.0 1 2 50.0 2 2 4 2 1 0 0 2 -
+p220
+aVRod Higgins GOS 03/14/1989 GOS @ POR L 19 11 3 7 42.9 1 3 33.3 4 4 100.0 2 2 4 3 1 0 0 3 -
+p221
+aVTellis Frank GOS 03/14/1989 GOS @ POR L 12 8 2 5 40.0 0 0 - 4 6 66.7 2 3 5 0 1 1 5 1 -
+p222
+aVTerry Teagle GOS 03/14/1989 GOS @ POR L 23 11 4 13 30.8 0 0 - 3 3 100.0 2 1 3 1 0 0 2 3 -
+p223
+aVRalph Sampson GOS 03/14/1989 GOS @ POR L 26 5 2 7 28.6 1 1 100.0 0 0 - 3 7 10 1 2 1 2 4 -
+p224
+aVOtis Smith GOS 03/14/1989 GOS @ POR L 23 15 4 9 44.4 0 0 - 7 8 87.5 2 0 2 1 0 0 2 3 -
+p225
+aVLarry Smith GOS 03/12/1989 GOS vs. LAL L 19 4 2 3 66.7 0 0 - 0 0 - 5 4 9 1 0 1 0 3 -
+p226
+aVRod Higgins GOS 03/12/1989 GOS vs. LAL L 20 8 2 3 66.7 2 3 66.7 2 2 100.0 0 1 1 1 1 1 0 2 -
+p227
+aVRalph Sampson GOS 03/12/1989 GOS vs. LAL L 5 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 1 -
+p228
+aVOtis Smith GOS 03/12/1989 GOS vs. LAL L 24 12 4 9 44.4 0 1 0.0 4 6 66.7 5 1 6 1 1 0 1 1 -
+p229
+aVTerry Teagle GOS 03/12/1989 GOS vs. LAL L 34 22 10 25 40.0 0 1 0.0 2 2 100.0 3 2 5 2 2 1 0 4 -
+p230
+aVChris Mullin GOS 03/12/1989 GOS vs. LAL L 39 27 10 23 43.5 1 2 50.0 6 7 85.7 4 10 14 2 2 1 5 2 -
+p231
+aVManute Bol GOS 03/12/1989 GOS vs. LAL L 17 0 0 3 0.0 0 3 0.0 0 0 - 0 5 5 0 0 6 3 5 -
+p232
+aVWinston Garland GOS 03/12/1989 GOS vs. LAL L 30 18 8 16 50.0 1 2 50.0 1 1 100.0 3 1 4 1 1 0 2 4 -
+p233
+aVBen McDonald GOS 03/12/1989 GOS vs. LAL L 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -
+p234
+aVMitch Richmond GOS 03/12/1989 GOS vs. LAL L 37 16 6 22 27.3 1 3 33.3 3 5 60.0 5 5 10 4 0 0 5 1 -
+p235
+aVSteve Alford GOS 03/12/1989 GOS vs. LAL L 9 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 0 2 -
+p236
+aVOtis Smith GOS 03/10/1989 GOS @ UTH L 19 7 2 4 50.0 1 3 33.3 2 2 100.0 1 2 3 4 2 1 1 1 -
+p237
+aVManute Bol GOS 03/10/1989 GOS @ UTH L 27 8 3 7 42.9 2 4 50.0 0 0 - 0 5 5 0 0 10 3 4 -
+p238
+aVTerry Teagle GOS 03/10/1989 GOS @ UTH L 37 22 9 19 47.4 0 0 - 4 4 100.0 2 4 6 1 2 0 3 5 -
+p239
+aVBen McDonald GOS 03/10/1989 GOS @ UTH L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p240
+aVWinston Garland GOS 03/10/1989 GOS @ UTH L 30 16 7 16 43.8 0 0 - 2 2 100.0 1 8 9 12 1 0 2 4 -
+p241
+aVChris Mullin GOS 03/10/1989 GOS @ UTH L 36 16 5 19 26.3 0 3 0.0 6 7 85.7 4 2 6 6 2 0 1 0 -
+p242
+aVRalph Sampson GOS 03/10/1989 GOS @ UTH L 11 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 3 0 2 -
+p243
+aVLarry Smith GOS 03/10/1989 GOS @ UTH L 24 10 5 6 83.3 0 0 - 0 2 0.0 1 2 3 1 1 1 1 5 -
+p244
+aVMitch Richmond GOS 03/10/1989 GOS @ UTH L 36 20 9 20 45.0 0 1 0.0 2 3 66.7 1 2 3 3 1 0 3 2 -
+p245
+aVSteve Alford GOS 03/10/1989 GOS @ UTH L 13 9 3 4 75.0 1 1 100.0 2 2 100.0 1 2 3 0 0 0 0 0 -
+p246
+aVManute Bol GOS 03/09/1989 GOS vs. CLE W 15 0 0 4 0.0 0 2 0.0 0 0 - 3 4 7 0 0 6 1 5 -
+p247
+aVRalph Sampson GOS 03/09/1989 GOS vs. CLE W 16 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 1 4 -
+p248
+aVRod Higgins GOS 03/09/1989 GOS vs. CLE W 27 20 7 12 58.3 2 5 40.0 4 4 100.0 1 4 5 1 0 0 1 4 -
+p249
+aVWinston Garland GOS 03/09/1989 GOS vs. CLE W 36 14 7 18 38.9 0 1 0.0 0 0 - 2 1 3 5 0 0 1 1 -
+p250
+aVMitch Richmond GOS 03/09/1989 GOS vs. CLE W 38 38 13 26 50.0 1 1 100.0 11 11 100.0 3 6 9 6 4 0 4 2 -
+p251
+aVChris Mullin GOS 03/09/1989 GOS vs. CLE W 39 21 8 19 42.1 0 1 0.0 5 6 83.3 2 5 7 5 3 1 3 3 -
+p252
+aVOtis Smith GOS 03/09/1989 GOS vs. CLE W 13 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 2 0 3 0 -
+p253
+aVSteve Alford GOS 03/09/1989 GOS vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p254
+aVLarry Smith GOS 03/09/1989 GOS vs. CLE W 22 2 1 2 50.0 0 0 - 0 2 0.0 2 4 6 0 0 4 2 2 -
+p255
+aVTerry Teagle GOS 03/09/1989 GOS vs. CLE W 31 19 7 17 41.2 0 0 - 5 6 83.3 7 2 9 5 2 0 2 1 -
+p256
+aVWinston Garland GOS 03/07/1989 GOS vs. LAC W 36 10 4 15 26.7 0 0 - 2 2 100.0 3 1 4 6 4 0 3 3 -
+p257
+aVRod Higgins GOS 03/07/1989 GOS vs. LAC W 15 15 5 8 62.5 3 4 75.0 2 2 100.0 2 1 3 3 1 2 0 0 -
+p258
+aVSteve Alford GOS 03/07/1989 GOS vs. LAC W 12 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 2 1 0 1 0 -
+p259
+aVChris Mullin GOS 03/07/1989 GOS vs. LAC W 35 31 12 21 57.1 0 2 0.0 7 7 100.0 1 7 8 5 2 1 5 2 -
+p260
+aVOtis Smith GOS 03/07/1989 GOS vs. LAC W 21 12 3 10 30.0 0 1 0.0 6 6 100.0 2 3 5 2 1 0 1 2 -
+p261
+aVRalph Sampson GOS 03/07/1989 GOS vs. LAC W 12 9 3 4 75.0 0 0 - 3 3 100.0 1 2 3 1 0 1 0 0 -
+p262
+aVManute Bol GOS 03/07/1989 GOS vs. LAC W 26 1 0 3 0.0 0 1 0.0 1 2 50.0 2 4 6 1 1 3 2 2 -
+p263
+aVTerry Teagle GOS 03/07/1989 GOS vs. LAC W 26 13 3 13 23.1 0 0 - 7 10 70.0 3 3 6 2 2 3 2 3 -
+p264
+aVLarry Smith GOS 03/07/1989 GOS vs. LAC W 22 14 7 10 70.0 0 0 - 0 0 - 7 5 12 1 1 0 0 2 -
+p265
+aVBen McDonald GOS 03/07/1989 GOS vs. LAC W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p266
+aVMitch Richmond GOS 03/07/1989 GOS vs. LAC W 34 28 11 18 61.1 0 0 - 6 6 100.0 4 2 6 6 2 0 2 1 -
+p267
+aVRod Higgins GOS 03/05/1989 GOS @ SAC L 16 3 1 5 20.0 0 2 0.0 1 2 50.0 1 1 2 0 0 1 0 0 -
+p268
+aVRalph Sampson GOS 03/05/1989 GOS @ SAC L 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -
+p269
+aVMitch Richmond GOS 03/05/1989 GOS @ SAC L 38 26 10 26 38.5 2 3 66.7 4 6 66.7 4 3 7 8 0 0 5 1 -
+p270
+aVTerry Teagle GOS 03/05/1989 GOS @ SAC L 33 19 7 18 38.9 0 0 - 5 8 62.5 1 7 8 2 3 0 2 6 -
+p271
+aVOtis Smith GOS 03/05/1989 GOS @ SAC L 29 9 4 10 40.0 0 1 0.0 1 2 50.0 2 3 5 1 3 0 2 2 -
+p272
+aVSteve Alford GOS 03/05/1989 GOS @ SAC L 21 6 2 8 25.0 0 0 - 2 2 100.0 1 0 1 1 0 0 1 1 -
+p273
+aVChris Mullin GOS 03/05/1989 GOS @ SAC L 33 19 8 24 33.3 1 1 100.0 2 3 66.7 5 5 10 1 0 0 3 3 -
+p274
+aVTellis Frank GOS 03/05/1989 GOS @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p275
+aVBen McDonald GOS 03/05/1989 GOS @ SAC L 7 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -
+p276
+aVLarry Smith GOS 03/05/1989 GOS @ SAC L 23 6 3 4 75.0 0 0 - 0 0 - 5 6 11 1 2 0 1 2 -
+p277
+aVManute Bol GOS 03/05/1989 GOS @ SAC L 29 2 0 2 0.0 0 1 0.0 2 2 100.0 3 8 11 1 0 6 0 2 -
+p278
+aVManute Bol GOS 03/04/1989 GOS vs. SAC W 18 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 1 0 4 1 2 -
+p279
+aVTerry Teagle GOS 03/04/1989 GOS vs. SAC W 37 24 10 16 62.5 0 0 - 4 5 80.0 3 3 6 2 2 0 1 4 -
+p280
+aVLarry Smith GOS 03/04/1989 GOS vs. SAC W 19 0 0 4 0.0 0 0 - 0 2 0.0 1 9 10 4 2 1 2 2 -
+p281
+aVChris Mullin GOS 03/04/1989 GOS vs. SAC W 38 34 14 25 56.0 2 4 50.0 4 6 66.7 3 6 9 7 1 0 3 4 -
+p282
+aVMitch Richmond GOS 03/04/1989 GOS vs. SAC W 37 47 17 24 70.8 0 1 0.0 13 19 68.4 2 7 9 2 2 0 3 3 -
+p283
+aVSteve Alford GOS 03/04/1989 GOS vs. SAC W 33 16 6 11 54.5 2 4 50.0 2 3 66.7 0 3 3 7 3 0 2 3 -
+p284
+aVRod Higgins GOS 03/04/1989 GOS vs. SAC W 25 12 5 11 45.5 2 5 40.0 0 0 - 2 3 5 4 2 1 1 3 -
+p285
+aVOtis Smith GOS 03/04/1989 GOS vs. SAC W 28 18 8 13 61.5 0 1 0.0 2 2 100.0 2 2 4 3 1 1 1 2 -
+p286
+aVRalph Sampson GOS 03/04/1989 GOS vs. SAC W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p287
+aVManute Bol GOS 03/02/1989 GOS vs. IND L 41 4 2 6 33.3 0 2 0.0 0 0 - 3 4 7 3 0 4 0 1 -
+p288
+aVRalph Sampson GOS 03/02/1989 GOS vs. IND L 5 2 1 2 50.0 0 0 - 0 1 0.0 2 1 3 0 0 0 1 2 -
+p289
+aVMitch Richmond GOS 03/02/1989 GOS vs. IND L 46 22 9 21 42.9 1 4 25.0 3 4 75.0 2 4 6 6 2 0 4 4 -
+p290
+aVTerry Teagle GOS 03/02/1989 GOS vs. IND L 34 31 10 17 58.8 1 1 100.0 10 13 76.9 3 3 6 1 0 1 4 4 -
+p291
+aVOtis Smith GOS 03/02/1989 GOS vs. IND L 24 24 9 18 50.0 1 1 100.0 5 6 83.3 8 5 13 2 1 0 1 1 -
+p292
+aVRod Higgins GOS 03/02/1989 GOS vs. IND L 29 11 4 11 36.4 1 4 25.0 2 2 100.0 3 6 9 3 1 0 2 4 -
+p293
+aVSteve Alford GOS 03/02/1989 GOS vs. IND L 22 7 3 9 33.3 1 3 33.3 0 0 - 0 3 3 3 0 0 0 0 -
+p294
+aVChris Mullin GOS 03/02/1989 GOS vs. IND L 47 22 10 26 38.5 1 5 20.0 1 1 100.0 3 3 6 2 0 0 4 4 -
+p295
+aVLarry Smith GOS 03/02/1989 GOS vs. IND L 17 4 2 3 66.7 0 0 - 0 0 - 1 6 7 1 2 0 2 4 -
+p296
+aVRalph Sampson GOS 03/01/1989 GOS @ LAL L 20 12 5 7 71.4 0 0 - 2 4 50.0 2 4 6 1 0 4 3 4 -
+p297
+aVTerry Teagle GOS 03/01/1989 GOS @ LAL L 26 11 4 11 36.4 0 0 - 3 4 75.0 2 3 5 1 2 0 0 2 -
+p298
+aVWinston Garland GOS 03/01/1989 GOS @ LAL L 27 14 7 15 46.7 0 0 - 0 0 - 1 1 2 4 1 0 2 3 -
+p299
+aVManute Bol GOS 03/01/1989 GOS @ LAL L 16 11 4 8 50.0 1 4 25.0 2 4 50.0 3 1 4 1 0 5 0 2 -
+p300
+aVLarry Smith GOS 03/01/1989 GOS @ LAL L 18 2 1 4 25.0 0 0 - 0 0 - 4 1 5 3 2 0 0 2 -
+p301
+aVTellis Frank GOS 03/01/1989 GOS @ LAL L 15 7 2 6 33.3 0 0 - 3 4 75.0 1 2 3 1 2 0 1 3 -
+p302
+aVOtis Smith GOS 03/01/1989 GOS @ LAL L 23 10 5 10 50.0 0 0 - 0 0 - 3 3 6 0 1 3 3 3 -
+p303
+aVMitch Richmond GOS 03/01/1989 GOS @ LAL L 30 17 8 19 42.1 1 1 100.0 0 0 - 1 4 5 2 0 1 2 3 -
+p304
+aVSteve Alford GOS 03/01/1989 GOS @ LAL L 21 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 0 0 1 0 2 -
+p305
+aVChris Mullin GOS 03/01/1989 GOS @ LAL L 28 23 8 16 50.0 1 3 33.3 6 8 75.0 1 1 2 1 0 0 0 0 -
+p306
+aVRod Higgins GOS 03/01/1989 GOS @ LAL L 16 10 4 7 57.1 1 3 33.3 1 2 50.0 0 2 2 0 0 0 2 3 -
+p307
+aVRod Higgins GOS 02/27/1989 GOS vs. DEN W 23 15 5 8 62.5 3 3 100.0 2 2 100.0 0 5 5 3 0 1 1 0 -
+p308
+aVLarry Smith GOS 02/27/1989 GOS vs. DEN W 16 8 4 5 80.0 0 0 - 0 0 - 2 3 5 2 2 0 2 2 -
+p309
+aVTerry Teagle GOS 02/27/1989 GOS vs. DEN W 31 15 5 9 55.6 0 0 - 5 6 83.3 2 5 7 4 1 1 4 4 -
+p310
+aVManute Bol GOS 02/27/1989 GOS vs. DEN W 13 6 2 3 66.7 2 3 66.7 0 0 - 0 4 4 0 0 2 0 3 -
+p311
+aVWinston Garland GOS 02/27/1989 GOS vs. DEN W 39 22 9 13 69.2 0 0 - 4 4 100.0 2 6 8 13 2 0 6 3 -
+p312
+aVSteve Alford GOS 02/27/1989 GOS vs. DEN W 18 14 6 10 60.0 1 3 33.3 1 2 50.0 0 0 0 1 2 0 2 2 -
+p313
+aVOtis Smith GOS 02/27/1989 GOS vs. DEN W 25 12 5 6 83.3 1 1 100.0 1 1 100.0 0 2 2 1 0 1 2 3 -
+p314
+aVMitch Richmond GOS 02/27/1989 GOS vs. DEN W 36 19 7 18 38.9 0 0 - 5 6 83.3 2 4 6 9 2 1 4 5 -
+p315
+aVChris Mullin GOS 02/27/1989 GOS vs. DEN W 39 30 14 23 60.9 0 3 0.0 2 3 66.7 2 5 7 7 1 1 2 1 -
+p316
+aVSteve Alford GOS 02/24/1989 GOS @ DAL W 18 9 3 5 60.0 0 0 - 3 4 75.0 0 2 2 1 0 1 0 2 -
+p317
+aVTerry Teagle GOS 02/24/1989 GOS @ DAL W 30 13 6 13 46.2 1 1 100.0 0 0 - 4 2 6 3 0 0 2 3 -
+p318
+aVOtis Smith GOS 02/24/1989 GOS @ DAL W 20 13 6 9 66.7 0 0 - 1 1 100.0 2 1 3 1 1 1 1 4 -
+p319
+aVWinston Garland GOS 02/24/1989 GOS @ DAL W 32 12 6 13 46.2 0 0 - 0 0 - 1 4 5 16 0 0 3 2 -
+p320
+aVChris Mullin GOS 02/24/1989 GOS @ DAL W 35 34 15 25 60.0 3 3 100.0 1 2 50.0 2 6 8 5 4 1 3 2 -
+p321
+aVJohn Starks GOS 02/24/1989 GOS @ DAL W 5 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 0 1 0 2 0 -
+p322
+aVRod Higgins GOS 02/24/1989 GOS @ DAL W 22 11 4 10 40.0 0 2 0.0 3 3 100.0 3 5 8 3 2 1 0 2 -
+p323
+aVRalph Sampson GOS 02/24/1989 GOS @ DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -
+p324
+aVTellis Frank GOS 02/24/1989 GOS @ DAL W 4 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -
+p325
+aVManute Bol GOS 02/24/1989 GOS @ DAL W 20 4 1 4 25.0 1 1 100.0 1 2 50.0 2 3 5 0 0 1 1 3 -
+p326
+aVMitch Richmond GOS 02/24/1989 GOS @ DAL W 32 20 9 14 64.3 0 1 0.0 2 4 50.0 1 6 7 5 2 1 1 1 -
+p327
+aVLarry Smith GOS 02/24/1989 GOS @ DAL W 19 4 2 4 50.0 0 0 - 0 0 - 3 4 7 2 0 1 0 4 -
+p328
+aVMitch Richmond GOS 02/22/1989 GOS @ SAN W 36 25 11 22 50.0 0 0 - 3 4 75.0 0 5 5 3 3 0 2 1 -
+p329
+aVOtis Smith GOS 02/22/1989 GOS @ SAN W 17 3 1 4 25.0 0 0 - 1 2 50.0 0 4 4 2 2 0 1 2 -
+p330
+aVLarry Smith GOS 02/22/1989 GOS @ SAN W 27 12 5 5 100.0 0 0 - 2 3 66.7 5 5 10 1 2 0 3 3 -
+p331
+aVRod Higgins GOS 02/22/1989 GOS @ SAN W 20 4 2 7 28.6 0 2 0.0 0 0 - 1 4 5 3 0 0 0 1 -
+p332
+aVSteve Alford GOS 02/22/1989 GOS @ SAN W 19 9 4 10 40.0 1 2 50.0 0 0 - 0 2 2 0 2 0 2 0 -
+p333
+aVRalph Sampson GOS 02/22/1989 GOS @ SAN W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 1 4 -
+p334
+aVChris Mullin GOS 02/22/1989 GOS @ SAN W 38 27 9 22 40.9 0 1 0.0 9 9 100.0 3 6 9 3 1 0 5 4 -
+p335
+aVWinston Garland GOS 02/22/1989 GOS @ SAN W 32 12 5 13 38.5 0 0 - 2 2 100.0 0 1 1 4 2 0 1 1 -
+p336
+aVManute Bol GOS 02/22/1989 GOS @ SAN W 30 7 3 5 60.0 1 1 100.0 0 0 - 2 4 6 0 1 12 1 2 -
+p337
+aVTerry Teagle GOS 02/22/1989 GOS @ SAN W 16 17 6 11 54.5 0 0 - 5 6 83.3 2 2 4 1 0 0 0 4 -
+p338
+aVChris Mullin GOS 02/21/1989 GOS @ PHX L 28 16 7 14 50.0 0 0 - 2 3 66.7 2 3 5 5 2 1 1 4 -
+p339
+aVRalph Sampson GOS 02/21/1989 GOS @ PHX L 12 5 2 5 40.0 0 0 - 1 1 100.0 1 0 1 0 1 0 0 2 -
+p340
+aVTerry Teagle GOS 02/21/1989 GOS @ PHX L 34 36 15 22 68.2 0 0 - 6 6 100.0 5 5 10 1 1 0 4 3 -
+p341
+aVManute Bol GOS 02/21/1989 GOS @ PHX L 18 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 0 1 0 4 -
+p342
+aVLarry Smith GOS 02/21/1989 GOS @ PHX L 16 4 2 2 100.0 0 0 - 0 2 0.0 0 5 5 0 0 1 0 3 -
+p343
+aVMitch Richmond GOS 02/21/1989 GOS @ PHX L 37 26 11 18 61.1 1 2 50.0 3 4 75.0 1 1 2 6 1 0 5 2 -
+p344
+aVRod Higgins GOS 02/21/1989 GOS @ PHX L 18 5 2 6 33.3 0 3 0.0 1 2 50.0 1 3 4 2 0 0 2 1 -
+p345
+aVSteve Alford GOS 02/21/1989 GOS @ PHX L 20 11 4 5 80.0 0 0 - 3 4 75.0 0 0 0 1 1 0 0 1 -
+p346
+aVJohn Starks GOS 02/21/1989 GOS @ PHX L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p347
+aVWinston Garland GOS 02/21/1989 GOS @ PHX L 31 4 2 13 15.4 0 1 0.0 0 0 - 1 1 2 16 0 2 3 3 -
+p348
+aVTellis Frank GOS 02/21/1989 GOS @ PHX L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p349
+aVOtis Smith GOS 02/21/1989 GOS @ PHX L 20 8 3 8 37.5 0 1 0.0 2 3 66.7 1 2 3 1 1 0 1 1 -
+p350
+aVSteve Alford GOS 02/18/1989 GOS vs. DET W 9 2 0 3 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p351
+aVOtis Smith GOS 02/18/1989 GOS vs. DET W 21 16 2 9 22.2 0 0 - 12 12 100.0 2 0 2 0 1 1 2 6 -
+p352
+aVMitch Richmond GOS 02/18/1989 GOS vs. DET W 40 25 11 23 47.8 0 3 0.0 3 4 75.0 2 2 4 4 0 0 1 6 -
+p353
+aVTerry Teagle GOS 02/18/1989 GOS vs. DET W 25 11 5 13 38.5 0 0 - 1 2 50.0 1 2 3 1 1 1 0 3 -
+p354
+aVWinston Garland GOS 02/18/1989 GOS vs. DET W 37 10 5 14 35.7 0 0 - 0 0 - 3 1 4 5 4 0 3 5 -
+p355
+aVLarry Smith GOS 02/18/1989 GOS vs. DET W 22 5 2 3 66.7 0 0 - 1 2 50.0 1 6 7 1 1 1 1 3 -
+p356
+aVManute Bol GOS 02/18/1989 GOS vs. DET W 29 0 0 5 0.0 0 2 0.0 0 0 - 2 8 10 1 0 6 1 2 -
+p357
+aVRalph Sampson GOS 02/18/1989 GOS vs. DET W 6 7 3 3 100.0 0 0 - 1 3 33.3 4 3 7 1 0 0 0 2 -
+p358
+aVChris Mullin GOS 02/18/1989 GOS vs. DET W 47 26 10 21 47.6 0 1 0.0 6 6 100.0 1 5 6 4 3 1 7 3 -
+p359
+aVRod Higgins GOS 02/18/1989 GOS vs. DET W 29 19 5 10 50.0 1 4 25.0 8 8 100.0 2 7 9 2 1 0 0 2 -
+p360
+aVRalph Sampson GOS 02/16/1989 GOS @ LAC W 7 4 2 4 50.0 0 0 - 0 1 0.0 1 3 4 0 1 0 0 1 -
+p361
+aVTerry Teagle GOS 02/16/1989 GOS @ LAC W 26 23 8 14 57.1 0 0 - 7 8 87.5 0 6 6 0 4 0 4 4 -
+p362
+aVManute Bol GOS 02/16/1989 GOS @ LAC W 32 2 1 1 100.0 0 0 - 0 1 0.0 1 4 5 0 1 10 0 4 -
+p363
+aVRod Higgins GOS 02/16/1989 GOS @ LAC W 25 13 4 7 57.1 3 5 60.0 2 2 100.0 0 6 6 1 0 1 1 5 -
+p364
+aVMitch Richmond GOS 02/16/1989 GOS @ LAC W 42 27 10 18 55.6 0 0 - 7 7 100.0 0 5 5 9 0 0 7 4 -
+p365
+aVLarry Smith GOS 02/16/1989 GOS @ LAC W 21 10 5 9 55.6 0 0 - 0 0 - 3 1 4 0 0 0 2 4 -
+p366
+aVOtis Smith GOS 02/16/1989 GOS @ LAC W 18 14 4 7 57.1 0 0 - 6 6 100.0 3 4 7 3 0 2 2 0 -
+p367
+aVChris Mullin GOS 02/16/1989 GOS @ LAC W 41 29 9 20 45.0 0 1 0.0 11 15 73.3 2 4 6 8 1 0 3 1 -
+p368
+aVWinston Garland GOS 02/16/1989 GOS @ LAC W 41 14 5 14 35.7 0 1 0.0 4 6 66.7 3 3 6 6 2 0 2 3 -
+p369
+aVSteve Alford GOS 02/16/1989 GOS @ LAC W 12 7 3 5 60.0 1 1 100.0 0 1 0.0 0 2 2 2 0 0 1 0 -
+p370
+aVJohn Starks GOS 02/15/1989 GOS vs. SAN W 7 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 0 1 1 1 0 -
+p371
+aVChris Mullin GOS 02/15/1989 GOS vs. SAN W 33 19 6 16 37.5 0 1 0.0 7 8 87.5 1 4 5 6 3 0 3 1 -
+p372
+aVRod Higgins GOS 02/15/1989 GOS vs. SAN W 18 11 4 6 66.7 1 1 100.0 2 2 100.0 1 1 2 1 0 1 0 3 -
+p373
+aVRalph Sampson GOS 02/15/1989 GOS vs. SAN W 16 4 2 4 50.0 0 0 - 0 0 - 0 4 4 4 1 2 1 5 -
+p374
+aVLarry Smith GOS 02/15/1989 GOS vs. SAN W 23 10 5 11 45.5 0 0 - 0 1 0.0 2 5 7 2 2 0 1 3 -
+p375
+aVTellis Frank GOS 02/15/1989 GOS vs. SAN W 5 0 0 2 0.0 0 0 - 0 0 - 1 3 4 3 1 0 0 0 -
+p376
+aVWinston Garland GOS 02/15/1989 GOS vs. SAN W 28 18 8 9 88.9 0 1 0.0 2 2 100.0 0 4 4 7 6 0 3 2 -
+p377
+aVTerry Teagle GOS 02/15/1989 GOS vs. SAN W 25 23 11 17 64.7 0 0 - 1 3 33.3 2 4 6 3 5 0 1 1 -
+p378
+aVOtis Smith GOS 02/15/1989 GOS vs. SAN W 17 15 7 11 63.6 0 0 - 1 2 50.0 3 1 4 4 1 1 2 3 -
+p379
+aVMitch Richmond GOS 02/15/1989 GOS vs. SAN W 33 19 6 16 37.5 1 1 100.0 6 6 100.0 2 2 4 4 1 0 8 3 -
+p380
+aVManute Bol GOS 02/15/1989 GOS vs. SAN W 12 2 1 2 50.0 0 1 0.0 0 0 - 1 3 4 0 0 5 0 0 -
+p381
+aVSteve Alford GOS 02/15/1989 GOS vs. SAN W 23 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 4 0 0 1 -
+p382
+aVRalph Sampson GOS 02/09/1989 GOS @ SAC L 11 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -
+p383
+aVTerry Teagle GOS 02/09/1989 GOS @ SAC L 13 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 1 1 1 0 3 -
+p384
+aVManute Bol GOS 02/09/1989 GOS @ SAC L 21 6 3 7 42.9 0 1 0.0 0 0 - 2 1 3 0 0 4 0 3 -
+p385
+aVLarry Smith GOS 02/09/1989 GOS @ SAC L 22 18 9 13 69.2 0 0 - 0 1 0.0 4 1 5 0 0 2 0 1 -
+p386
+aVWinston Garland GOS 02/09/1989 GOS @ SAC L 32 11 3 10 30.0 0 2 0.0 5 6 83.3 1 3 4 8 2 0 1 2 -
+p387
+aVOtis Smith GOS 02/09/1989 GOS @ SAC L 27 13 6 11 54.5 0 1 0.0 1 2 50.0 4 3 7 1 0 0 1 3 -
+p388
+aVRod Higgins GOS 02/09/1989 GOS @ SAC L 25 13 6 12 50.0 1 2 50.0 0 0 - 3 5 8 4 0 0 0 2 -
+p389
+aVSteve Alford GOS 02/09/1989 GOS @ SAC L 28 12 5 9 55.6 2 4 50.0 0 0 - 0 1 1 4 0 0 3 3 -
+p390
+aVChris Mullin GOS 02/09/1989 GOS @ SAC L 29 16 4 16 25.0 0 1 0.0 8 8 100.0 4 2 6 6 3 0 4 2 -
+p391
+aVJohn Starks GOS 02/09/1989 GOS @ SAC L 18 9 3 10 30.0 1 3 33.3 2 2 100.0 2 2 4 0 0 0 3 0 -
+p392
+aVTellis Frank GOS 02/09/1989 GOS @ SAC L 14 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 0 0 1 1 2 -
+p393
+aVRod Higgins GOS 02/08/1989 GOS @ LAL W 23 11 4 6 66.7 1 2 50.0 2 3 66.7 0 4 4 3 0 0 0 2 -
+p394
+aVJohn Starks GOS 02/08/1989 GOS @ LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p395
+aVTerry Teagle GOS 02/08/1989 GOS @ LAL W 39 35 15 21 71.4 0 0 - 5 5 100.0 2 4 6 2 1 0 2 1 -
+p396
+aVLarry Smith GOS 02/08/1989 GOS @ LAL W 21 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 0 0 3 6 -
+p397
+aVRalph Sampson GOS 02/08/1989 GOS @ LAL W 11 10 3 5 60.0 0 0 - 4 4 100.0 1 1 2 2 0 0 1 2 -
+p398
+aVSteve Alford GOS 02/08/1989 GOS @ LAL W 17 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 2 1 -
+p399
+aVOtis Smith GOS 02/08/1989 GOS @ LAL W 30 18 8 13 61.5 0 0 - 2 3 66.7 1 3 4 2 1 0 5 5 -
+p400
+aVWinston Garland GOS 02/08/1989 GOS @ LAL W 26 9 4 12 33.3 0 3 0.0 1 3 33.3 0 1 1 3 1 0 1 6 -
+p401
+aVManute Bol GOS 02/08/1989 GOS @ LAL W 22 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 5 2 4 -
+p402
+aVMitch Richmond GOS 02/08/1989 GOS @ LAL W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 0 -
+p403
+aVChris Mullin GOS 02/08/1989 GOS @ LAL W 42 28 12 20 60.0 0 0 - 4 4 100.0 1 6 7 11 4 0 3 3 -
+p404
+aVRod Higgins GOS 02/04/1989 GOS vs. LAC W 13 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 0 1 2 1 -
+p405
+aVWinston Garland GOS 02/04/1989 GOS vs. LAC W 25 10 4 10 40.0 0 0 - 2 2 100.0 1 1 2 3 4 0 4 1 -
+p406
+aVTerry Teagle GOS 02/04/1989 GOS vs. LAC W 24 18 7 15 46.7 0 0 - 4 4 100.0 5 1 6 2 1 1 0 3 -
+p407
+aVTellis Frank GOS 02/04/1989 GOS vs. LAC W 5 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -
+p408
+aVManute Bol GOS 02/04/1989 GOS vs. LAC W 19 5 2 4 50.0 1 2 50.0 0 0 - 1 5 6 0 2 6 2 3 -
+p409
+aVChris Mullin GOS 02/04/1989 GOS vs. LAC W 34 24 9 19 47.4 0 1 0.0 6 8 75.0 3 3 6 8 0 1 3 2 -
+p410
+aVMitch Richmond GOS 02/04/1989 GOS vs. LAC W 31 18 9 15 60.0 0 0 - 0 0 - 3 3 6 4 0 0 2 2 -
+p411
+aVOtis Smith GOS 02/04/1989 GOS vs. LAC W 19 11 3 4 75.0 0 0 - 5 6 83.3 0 2 2 6 3 0 1 3 -
+p412
+aVRalph Sampson GOS 02/04/1989 GOS vs. LAC W 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 4 -
+p413
+aVSteve Alford GOS 02/04/1989 GOS vs. LAC W 26 14 6 12 50.0 1 3 33.3 1 2 50.0 1 1 2 2 1 0 0 3 -
+p414
+aVJohn Starks GOS 02/04/1989 GOS vs. LAC W 6 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -
+p415
+aVLarry Smith GOS 02/04/1989 GOS vs. LAC W 27 4 2 13 15.4 0 0 - 0 0 - 7 9 16 4 0 0 0 2 -
+p416
+aVRod Higgins GOS 02/02/1989 GOS vs. NJN W 30 6 1 8 12.5 0 0 - 4 4 100.0 1 5 6 2 0 0 1 0 -
+p417
+aVChris Mullin GOS 02/02/1989 GOS vs. NJN W 36 16 6 18 33.3 0 0 - 4 4 100.0 2 2 4 6 3 1 5 3 -
+p418
+aVSteve Alford GOS 02/02/1989 GOS vs. NJN W 10 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p419
+aVOtis Smith GOS 02/02/1989 GOS vs. NJN W 16 4 2 7 28.6 0 0 - 0 0 - 2 2 4 3 1 0 3 0 -
+p420
+aVLarry Smith GOS 02/02/1989 GOS vs. NJN W 23 15 7 9 77.8 0 0 - 1 2 50.0 6 3 9 3 0 0 1 3 -
+p421
+aVWinston Garland GOS 02/02/1989 GOS vs. NJN W 31 20 9 15 60.0 0 1 0.0 2 3 66.7 3 3 6 6 1 0 4 1 -
+p422
+aVRalph Sampson GOS 02/02/1989 GOS vs. NJN W 8 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 1 0 0 0 -
+p423
+aVJohn Starks GOS 02/02/1989 GOS vs. NJN W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 -
+p424
+aVManute Bol GOS 02/02/1989 GOS vs. NJN W 23 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 1 5 0 2 -
+p425
+aVTerry Teagle GOS 02/02/1989 GOS vs. NJN W 24 22 7 15 46.7 0 0 - 8 9 88.9 6 4 10 1 2 0 0 5 -
+p426
+aVMitch Richmond GOS 02/02/1989 GOS vs. NJN W 37 32 13 23 56.5 0 1 0.0 6 6 100.0 5 4 9 5 0 0 1 2 -
+p427
+aVMitch Richmond GOS 01/30/1989 GOS @ MIA W 38 26 9 21 42.9 0 1 0.0 8 8 100.0 5 3 8 4 1 0 3 2 -
+p428
+aVWinston Garland GOS 01/30/1989 GOS @ MIA W 35 22 10 17 58.8 0 1 0.0 2 3 66.7 1 2 3 3 2 1 1 1 -
+p429
+aVSteve Alford GOS 01/30/1989 GOS @ MIA W 14 3 1 6 16.7 0 1 0.0 1 1 100.0 0 1 1 1 0 0 0 0 -
+p430
+aVTellis Frank GOS 01/30/1989 GOS @ MIA W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p431
+aVLarry Smith GOS 01/30/1989 GOS @ MIA W 28 2 1 3 33.3 0 0 - 0 0 - 4 3 7 3 1 0 5 3 -
+p432
+aVRod Higgins GOS 01/30/1989 GOS @ MIA W 23 3 1 5 20.0 1 1 100.0 0 0 - 2 2 4 2 0 2 2 2 -
+p433
+aVChris Mullin GOS 01/30/1989 GOS @ MIA W 35 24 10 22 45.5 0 1 0.0 4 5 80.0 2 6 8 5 2 0 3 1 -
+p434
+aVRalph Sampson GOS 01/30/1989 GOS @ MIA W 7 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 -
+p435
+aVTerry Teagle GOS 01/30/1989 GOS @ MIA W 16 10 5 9 55.6 0 0 - 0 0 - 1 0 1 0 1 0 3 4 -
+p436
+aVOtis Smith GOS 01/30/1989 GOS @ MIA W 9 11 5 8 62.5 0 0 - 1 2 50.0 2 3 5 2 2 0 1 3 -
+p437
+aVManute Bol GOS 01/30/1989 GOS @ MIA W 27 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 1 1 6 1 2 -
+p438
+aVOtis Smith GOS 01/28/1989 GOS @ IND W 17 12 5 9 55.6 0 1 0.0 2 3 66.7 1 6 7 1 2 0 0 1 -
+p439
+aVSteve Alford GOS 01/28/1989 GOS @ IND W 16 3 1 4 25.0 0 0 - 1 1 100.0 0 0 0 0 1 0 0 2 -
+p440
+aVRod Higgins GOS 01/28/1989 GOS @ IND W 22 12 4 10 40.0 1 4 25.0 3 4 75.0 2 1 3 4 1 0 1 3 -
+p441
+aVChris Mullin GOS 01/28/1989 GOS @ IND W 43 31 11 18 61.1 0 0 - 9 11 81.8 4 5 9 7 4 0 5 3 -
+p442
+aVMitch Richmond GOS 01/28/1989 GOS @ IND W 36 18 8 18 44.4 0 0 - 2 3 66.7 1 5 6 4 0 0 2 3 -
+p443
+aVRalph Sampson GOS 01/28/1989 GOS @ IND W 11 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p444
+aVManute Bol GOS 01/28/1989 GOS @ IND W 33 10 5 9 55.6 0 0 - 0 0 - 3 5 8 1 0 4 2 5 -
+p445
+aVWinston Garland GOS 01/28/1989 GOS @ IND W 35 16 7 12 58.3 0 0 - 2 2 100.0 2 2 4 8 2 0 3 2 -
+p446
+aVTerry Teagle GOS 01/28/1989 GOS @ IND W 27 10 4 12 33.3 0 0 - 2 2 100.0 1 6 7 4 1 1 3 1 -
+p447
+aVMitch Richmond GOS 01/27/1989 GOS @ PHL L 41 24 10 28 35.7 1 3 33.3 3 5 60.0 3 4 7 6 0 0 5 1 -
+p448
+aVSteve Alford GOS 01/27/1989 GOS @ PHL L 17 8 4 9 44.4 0 0 - 0 0 - 0 1 1 0 3 0 0 1 -
+p449
+aVOtis Smith GOS 01/27/1989 GOS @ PHL L 12 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -
+p450
+aVManute Bol GOS 01/27/1989 GOS @ PHL L 21 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 0 0 11 0 1 -
+p451
+aVChris Mullin GOS 01/27/1989 GOS @ PHL L 43 30 12 24 50.0 0 0 - 6 7 85.7 4 3 7 7 5 0 3 1 -
+p452
+aVLarry Smith GOS 01/27/1989 GOS @ PHL L 30 6 3 3 100.0 0 0 - 0 0 - 6 6 12 1 2 0 0 4 -
+p453
+aVRod Higgins GOS 01/27/1989 GOS @ PHL L 24 16 6 10 60.0 2 2 100.0 2 2 100.0 1 4 5 1 1 2 1 3 -
+p454
+aVWinston Garland GOS 01/27/1989 GOS @ PHL L 31 12 6 14 42.9 0 1 0.0 0 2 0.0 2 6 8 8 2 0 1 2 -
+p455
+aVTerry Teagle GOS 01/27/1989 GOS @ PHL L 21 10 5 13 38.5 0 0 - 0 0 - 0 4 4 4 0 0 1 2 -
+p456
+aVJohn Starks GOS 01/25/1989 GOS @ DET L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 -
+p457
+aVManute Bol GOS 01/25/1989 GOS @ DET L 23 3 1 3 33.3 0 0 - 1 2 50.0 2 9 11 0 0 1 1 3 -
+p458
+aVWinston Garland GOS 01/25/1989 GOS @ DET L 32 12 6 15 40.0 0 1 0.0 0 0 - 2 1 3 4 2 0 3 2 -
+p459
+aVOtis Smith GOS 01/25/1989 GOS @ DET L 18 7 3 8 37.5 0 1 0.0 1 2 50.0 2 3 5 1 1 0 0 4 -
+p460
+aVLarry Smith GOS 01/25/1989 GOS @ DET L 17 2 1 4 25.0 0 0 - 0 0 - 2 5 7 1 0 0 0 4 -
+p461
+aVChris Mullin GOS 01/25/1989 GOS @ DET L 38 28 10 19 52.6 0 1 0.0 8 9 88.9 1 7 8 7 4 1 2 3 -
+p462
+aVTerry Teagle GOS 01/25/1989 GOS @ DET L 25 13 6 14 42.9 0 0 - 1 4 25.0 1 2 3 2 0 0 2 3 -
+p463
+aVSteve Alford GOS 01/25/1989 GOS @ DET L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 -
+p464
+aVRod Higgins GOS 01/25/1989 GOS @ DET L 29 12 4 10 40.0 2 2 100.0 2 2 100.0 3 3 6 3 0 1 1 0 -
+p465
+aVMitch Richmond GOS 01/25/1989 GOS @ DET L 36 23 8 19 42.1 1 3 33.3 6 7 85.7 2 3 5 2 1 0 2 0 -
+p466
+aVRod Higgins GOS 01/23/1989 GOS @ CLE L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p467
+aVSteve Alford GOS 01/23/1989 GOS @ CLE L 32 9 4 12 33.3 0 1 0.0 1 2 50.0 1 2 3 4 1 0 1 3 -
+p468
+aVManute Bol GOS 01/23/1989 GOS @ CLE L 21 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 2 0 3 0 3 -
+p469
+aVWinston Garland GOS 01/23/1989 GOS @ CLE L 23 10 4 12 33.3 0 1 0.0 2 2 100.0 0 2 2 2 1 1 2 1 -
+p470
+aVMitch Richmond GOS 01/23/1989 GOS @ CLE L 21 19 8 12 66.7 2 4 50.0 1 1 100.0 0 1 1 2 1 1 1 4 -
+p471
+aVLarry Smith GOS 01/23/1989 GOS @ CLE L 21 2 1 3 33.3 0 0 - 0 0 - 3 5 8 2 1 1 2 1 -
+p472
+aVTerry Teagle GOS 01/23/1989 GOS @ CLE L 26 18 5 10 50.0 0 0 - 8 8 100.0 2 2 4 3 1 0 2 2 -
+p473
+aVTellis Frank GOS 01/23/1989 GOS @ CLE L 11 0 0 4 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -
+p474
+aVOtis Smith GOS 01/23/1989 GOS @ CLE L 22 8 4 11 36.4 0 1 0.0 0 0 - 1 2 3 1 1 0 3 3 -
+p475
+aVChris Mullin GOS 01/23/1989 GOS @ CLE L 31 27 11 22 50.0 0 1 0.0 5 5 100.0 3 6 9 5 2 0 1 2 -
+p476
+aVJohn Starks GOS 01/23/1989 GOS @ CLE L 21 14 5 9 55.6 4 5 80.0 0 2 0.0 1 3 4 2 2 0 4 2 -
+p477
+aVLarry Smith GOS 01/21/1989 GOS @ SAC W 19 6 3 4 75.0 0 0 - 0 0 - 4 6 10 4 1 2 1 1 -
+p478
+aVRod Higgins GOS 01/21/1989 GOS @ SAC W 23 22 10 11 90.9 2 2 100.0 0 1 0.0 2 4 6 2 0 0 1 2 -
+p479
+aVChris Mullin GOS 01/21/1989 GOS @ SAC W 27 21 9 14 64.3 0 1 0.0 3 3 100.0 0 8 8 12 2 0 1 1 -
+p480
+aVMitch Richmond GOS 01/21/1989 GOS @ SAC W 28 25 9 14 64.3 5 5 100.0 2 2 100.0 0 1 1 5 3 1 3 1 -
+p481
+aVTellis Frank GOS 01/21/1989 GOS @ SAC W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 6 -
+p482
+aVOtis Smith GOS 01/21/1989 GOS @ SAC W 26 16 5 12 41.7 0 0 - 6 9 66.7 3 4 7 4 1 1 1 3 -
+p483
+aVManute Bol GOS 01/21/1989 GOS @ SAC W 21 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 1 0 1 3 2 -
+p484
+aVJohn Stroeder GOS 01/21/1989 GOS @ SAC W 10 4 2 4 50.0 0 0 - 0 0 - 4 3 7 1 0 2 1 1 -
+p485
+aVSteve Alford GOS 01/21/1989 GOS @ SAC W 21 12 5 8 62.5 2 2 100.0 0 0 - 0 1 1 1 1 0 0 1 -
+p486
+aVJohn Starks GOS 01/21/1989 GOS @ SAC W 9 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 2 0 1 1 -
+p487
+aVWinston Garland GOS 01/21/1989 GOS @ SAC W 27 6 3 9 33.3 0 0 - 0 0 - 0 2 2 3 1 0 2 2 -
+p488
+aVTerry Teagle GOS 01/21/1989 GOS @ SAC W 22 14 7 13 53.8 0 0 - 0 1 0.0 0 2 2 2 2 1 3 5 -
+p489
+aVManute Bol GOS 01/20/1989 GOS vs. HOU W 24 0 0 3 0.0 0 0 - 0 0 - 0 7 7 0 0 7 1 4 -
+p490
+aVJohn Starks GOS 01/20/1989 GOS vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p491
+aVTerry Teagle GOS 01/20/1989 GOS vs. HOU W 26 16 8 15 53.3 0 1 0.0 0 0 - 0 2 2 2 0 0 1 3 -
+p492
+aVMitch Richmond GOS 01/20/1989 GOS vs. HOU W 37 23 8 14 57.1 2 2 100.0 5 5 100.0 2 6 8 7 1 1 7 1 -
+p493
+aVChris Mullin GOS 01/20/1989 GOS vs. HOU W 39 26 9 17 52.9 0 1 0.0 8 8 100.0 2 2 4 5 1 1 4 1 -
+p494
+aVLarry Smith GOS 01/20/1989 GOS vs. HOU W 26 5 2 5 40.0 0 0 - 1 3 33.3 4 7 11 4 3 0 2 3 -
+p495
+aVOtis Smith GOS 01/20/1989 GOS vs. HOU W 9 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 1 0 0 0 -
+p496
+aVRod Higgins GOS 01/20/1989 GOS vs. HOU W 30 20 6 10 60.0 1 2 50.0 7 8 87.5 2 6 8 3 0 0 3 2 -
+p497
+aVSteve Alford GOS 01/20/1989 GOS vs. HOU W 16 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -
+p498
+aVWinston Garland GOS 01/20/1989 GOS vs. HOU W 31 19 8 19 42.1 1 1 100.0 2 4 50.0 2 4 6 7 1 1 2 6 -
+p499
+aVRod Higgins GOS 01/18/1989 GOS vs. NYK W 31 11 3 9 33.3 0 1 0.0 5 6 83.3 0 6 6 1 2 1 3 2 -
+p500
+aVWinston Garland GOS 01/18/1989 GOS vs. NYK W 44 31 10 13 76.9 2 2 100.0 9 12 75.0 0 7 7 5 1 0 1 4 -
+p501
+aVSteve Alford GOS 01/18/1989 GOS vs. NYK W 14 8 3 4 75.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 2 -
+p502
+aVChris Mullin GOS 01/18/1989 GOS vs. NYK W 37 30 13 20 65.0 0 0 - 4 4 100.0 3 5 8 5 3 1 7 5 -
+p503
+aVManute Bol GOS 01/18/1989 GOS vs. NYK W 25 4 2 5 40.0 0 1 0.0 0 0 - 0 5 5 0 0 4 0 5 -
+p504
+aVLarry Smith GOS 01/18/1989 GOS vs. NYK W 24 0 0 3 0.0 0 0 - 0 0 - 3 5 8 2 1 1 2 5 -
+p505
+aVMitch Richmond GOS 01/18/1989 GOS vs. NYK W 41 31 10 15 66.7 1 3 33.3 10 12 83.3 1 7 8 11 2 0 9 3 -
+p506
+aVTerry Teagle GOS 01/18/1989 GOS vs. NYK W 24 18 8 19 42.1 0 0 - 2 2 100.0 0 3 3 0 2 0 3 2 -
+p507
+aVManute Bol GOS 01/16/1989 GOS vs. SEA W 14 6 3 3 100.0 0 0 - 0 0 - 2 4 6 0 0 2 1 3 -
+p508
+aVChris Mullin GOS 01/16/1989 GOS vs. SEA W 40 31 10 20 50.0 0 0 - 11 11 100.0 1 7 8 3 3 0 3 2 -
+p509
+aVLarry Smith GOS 01/16/1989 GOS vs. SEA W 31 14 7 11 63.6 0 0 - 0 0 - 9 5 14 5 0 1 2 4 -
+p510
+aVTerry Teagle GOS 01/16/1989 GOS vs. SEA W 29 22 11 20 55.0 0 0 - 0 0 - 2 5 7 1 3 1 2 4 -
+p511
+aVJohn Starks GOS 01/16/1989 GOS vs. SEA W 4 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 2 0 0 1 -
+p512
+aVWinston Garland GOS 01/16/1989 GOS vs. SEA W 33 15 5 14 35.7 0 0 - 5 5 100.0 1 5 6 13 5 1 5 2 -
+p513
+aVMitch Richmond GOS 01/16/1989 GOS vs. SEA W 39 27 11 17 64.7 0 2 0.0 5 7 71.4 1 5 6 4 0 0 6 1 -
+p514
+aVRod Higgins GOS 01/16/1989 GOS vs. SEA W 23 12 4 9 44.4 0 2 0.0 4 6 66.7 1 2 3 3 1 0 1 2 -
+p515
+aVJohn Stroeder GOS 01/16/1989 GOS vs. SEA W 3 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -
+p516
+aVSteve Alford GOS 01/16/1989 GOS vs. SEA W 24 15 7 9 77.8 1 2 50.0 0 0 - 0 2 2 2 3 0 2 0 -
+p517
+aVRod Higgins GOS 01/14/1989 GOS vs. UTH W 33 30 11 18 61.1 4 7 57.1 4 4 100.0 2 7 9 1 3 0 1 3 -
+p518
+aVTellis Frank GOS 01/14/1989 GOS vs. UTH W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 4 -
+p519
+aVSteve Alford GOS 01/14/1989 GOS vs. UTH W 21 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 3 2 0 2 3 -
+p520
+aVTerry Teagle GOS 01/14/1989 GOS vs. UTH W 25 19 8 15 53.3 0 1 0.0 3 3 100.0 3 2 5 0 0 0 3 4 -
+p521
+aVLarry Smith GOS 01/14/1989 GOS vs. UTH W 30 10 5 8 62.5 0 0 - 0 0 - 7 6 13 2 2 1 2 5 -
+p522
+aVOtis Smith GOS 01/14/1989 GOS vs. UTH W 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -
+p523
+aVChris Mullin GOS 01/14/1989 GOS vs. UTH W 37 27 10 20 50.0 0 2 0.0 7 8 87.5 3 5 8 9 1 1 6 1 -
+p524
+aVJohn Stroeder GOS 01/14/1989 GOS vs. UTH W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p525
+aVWinston Garland GOS 01/14/1989 GOS vs. UTH W 38 14 6 14 42.9 0 0 - 2 2 100.0 2 3 5 7 2 0 1 2 -
+p526
+aVMitch Richmond GOS 01/14/1989 GOS vs. UTH W 37 21 6 15 40.0 0 0 - 9 9 100.0 2 4 6 4 0 0 0 1 -
+p527
+aVJohn Starks GOS 01/14/1989 GOS vs. UTH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p528
+aVOtis Smith GOS 01/13/1989 GOS @ LAC W 18 12 6 10 60.0 0 0 - 0 0 - 2 3 5 2 0 3 1 3 -
+p529
+aVJohn Starks GOS 01/13/1989 GOS @ LAC W 5 0 0 0 - 0 0 - 0 2 0.0 1 0 1 2 0 0 0 0 -
+p530
+aVRod Higgins GOS 01/13/1989 GOS @ LAC W 27 10 4 9 44.4 0 1 0.0 2 4 50.0 2 4 6 3 0 1 0 3 -
+p531
+aVSteve Alford GOS 01/13/1989 GOS @ LAC W 24 10 5 9 55.6 0 0 - 0 0 - 0 1 1 2 1 1 0 1 -
+p532
+aVMitch Richmond GOS 01/13/1989 GOS @ LAC W 38 27 9 22 40.9 0 2 0.0 9 11 81.8 3 1 4 6 1 0 1 4 -
+p533
+aVWinston Garland GOS 01/13/1989 GOS @ LAC W 33 9 3 10 30.0 0 0 - 3 4 75.0 0 3 3 6 1 0 0 3 -
+p534
+aVChris Mullin GOS 01/13/1989 GOS @ LAC W 36 28 11 20 55.0 0 1 0.0 6 7 85.7 3 4 7 5 4 0 1 2 -
+p535
+aVTerry Teagle GOS 01/13/1989 GOS @ LAC W 16 9 4 12 33.3 0 0 - 1 3 33.3 1 4 5 0 1 1 2 2 -
+p536
+aVLarry Smith GOS 01/13/1989 GOS @ LAC W 28 13 6 8 75.0 0 0 - 1 2 50.0 5 6 11 2 1 3 1 4 -
+p537
+aVTellis Frank GOS 01/13/1989 GOS @ LAC W 15 9 4 6 66.7 0 0 - 1 4 25.0 3 4 7 2 0 1 4 4 -
+p538
+aVManute Bol GOS 01/11/1989 GOS vs. DAL W 29 0 0 3 0.0 0 1 0.0 0 0 - 0 5 5 0 0 7 1 2 -
+p539
+aVOtis Smith GOS 01/11/1989 GOS vs. DAL W 18 14 6 10 60.0 0 0 - 2 2 100.0 1 1 2 3 1 0 0 3 -
+p540
+aVRod Higgins GOS 01/11/1989 GOS vs. DAL W 25 11 4 8 50.0 0 1 0.0 3 4 75.0 1 1 2 3 0 0 0 3 -
+p541
+aVJohn Starks GOS 01/11/1989 GOS vs. DAL W 5 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 0 1 0 2 1 -
+p542
+aVLarry Smith GOS 01/11/1989 GOS vs. DAL W 33 2 1 2 50.0 0 0 - 0 0 - 0 13 13 3 3 1 4 5 -
+p543
+aVWinston Garland GOS 01/11/1989 GOS vs. DAL W 30 11 4 10 40.0 0 0 - 3 4 75.0 1 3 4 5 1 0 1 2 -
+p544
+aVMitch Richmond GOS 01/11/1989 GOS vs. DAL W 41 27 10 16 62.5 0 1 0.0 7 8 87.5 1 2 3 6 1 0 2 2 -
+p545
+aVSteve Alford GOS 01/11/1989 GOS vs. DAL W 16 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 3 1 0 0 1 -
+p546
+aVChris Mullin GOS 01/11/1989 GOS vs. DAL W 43 35 15 23 65.2 0 0 - 5 6 83.3 1 3 4 6 2 1 5 1 -
+p547
+aVChris Mullin GOS 01/09/1989 GOS vs. PHX W 38 39 15 24 62.5 2 4 50.0 7 7 100.0 2 9 11 11 2 0 1 6 -
+p548
+aVLarry Smith GOS 01/09/1989 GOS vs. PHX W 32 6 3 12 25.0 0 0 - 0 0 - 6 5 11 2 0 0 0 2 -
+p549
+aVOtis Smith GOS 01/09/1989 GOS vs. PHX W 15 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 2 1 1 2 1 -
+p550
+aVTellis Frank GOS 01/09/1989 GOS vs. PHX W 12 0 0 2 0.0 0 0 - 0 0 - 2 1 3 2 1 0 2 3 -
+p551
+aVSteve Alford GOS 01/09/1989 GOS vs. PHX W 22 13 5 8 62.5 1 2 50.0 2 2 100.0 0 3 3 3 2 0 1 0 -
+p552
+aVMitch Richmond GOS 01/09/1989 GOS vs. PHX W 29 28 10 15 66.7 0 0 - 8 11 72.7 1 5 6 2 1 0 1 5 -
+p553
+aVRod Higgins GOS 01/09/1989 GOS vs. PHX W 30 21 7 9 77.8 2 2 100.0 5 6 83.3 1 6 7 1 1 0 2 2 -
+p554
+aVWinston Garland GOS 01/09/1989 GOS vs. PHX W 29 12 3 13 23.1 0 1 0.0 6 6 100.0 1 2 3 12 1 0 4 5 -
+p555
+aVManute Bol GOS 01/09/1989 GOS vs. PHX W 27 4 2 7 28.6 0 0 - 0 2 0.0 3 5 8 0 0 4 2 2 -
+p556
+aVJohn Starks GOS 01/09/1989 GOS vs. PHX W 6 1 0 3 0.0 0 2 0.0 1 2 50.0 1 0 1 0 0 0 0 1 -
+p557
+aVLarry Smith GOS 01/07/1989 GOS vs. SAN L 38 9 4 8 50.0 0 0 - 1 2 50.0 9 9 18 0 0 0 1 5 -
+p558
+aVSteve Alford GOS 01/07/1989 GOS vs. SAN L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p559
+aVMitch Richmond GOS 01/07/1989 GOS vs. SAN L 28 21 8 18 44.4 0 0 - 5 6 83.3 2 2 4 2 2 0 2 3 -
+p560
+aVManute Bol GOS 01/07/1989 GOS vs. SAN L 27 9 4 8 50.0 1 2 50.0 0 0 - 2 3 5 0 0 6 1 5 -
+p561
+aVTerry Teagle GOS 01/07/1989 GOS vs. SAN L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p562
+aVJohn Starks GOS 01/07/1989 GOS vs. SAN L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p563
+aVOtis Smith GOS 01/07/1989 GOS vs. SAN L 19 6 2 14 14.3 0 0 - 2 2 100.0 3 2 5 2 0 0 0 0 -
+p564
+aVTellis Frank GOS 01/07/1989 GOS vs. SAN L 11 4 1 6 16.7 0 0 - 2 2 100.0 2 0 2 0 1 0 1 1 -
+p565
+aVRod Higgins GOS 01/07/1989 GOS vs. SAN L 26 10 3 8 37.5 1 2 50.0 3 4 75.0 3 1 4 2 0 1 2 2 -
+p566
+aVWinston Garland GOS 01/07/1989 GOS vs. SAN L 37 16 7 17 41.2 0 0 - 2 4 50.0 2 2 4 8 3 0 0 3 -
+p567
+aVChris Mullin GOS 01/07/1989 GOS vs. SAN L 42 27 9 20 45.0 1 2 50.0 8 8 100.0 2 5 7 7 5 1 5 3 -
+p568
+aVWinston Garland GOS 01/05/1989 GOS @ DEN L 34 17 7 18 38.9 0 0 - 3 4 75.0 1 3 4 3 3 0 2 5 -
+p569
+aVMitch Richmond GOS 01/05/1989 GOS @ DEN L 28 19 5 16 31.3 0 0 - 9 11 81.8 4 6 10 3 1 0 3 6 -
+p570
+aVTellis Frank GOS 01/05/1989 GOS @ DEN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p571
+aVOtis Smith GOS 01/05/1989 GOS @ DEN L 24 19 7 10 70.0 1 1 100.0 4 6 66.7 1 1 2 1 0 1 5 1 -
+p572
+aVJohn Starks GOS 01/05/1989 GOS @ DEN L 14 6 1 3 33.3 0 1 0.0 4 5 80.0 1 1 2 0 1 0 0 3 -
+p573
+aVRod Higgins GOS 01/05/1989 GOS @ DEN L 39 15 5 10 50.0 0 1 0.0 5 7 71.4 2 4 6 4 2 0 0 6 -
+p574
+aVChris Mullin GOS 01/05/1989 GOS @ DEN L 39 35 12 22 54.5 1 2 50.0 10 10 100.0 0 9 9 4 1 1 7 4 -
+p575
+aVLarry Smith GOS 01/05/1989 GOS @ DEN L 29 4 2 5 40.0 0 0 - 0 2 0.0 3 6 9 6 0 1 1 3 -
+p576
+aVManute Bol GOS 01/05/1989 GOS @ DEN L 22 13 5 9 55.6 1 1 100.0 2 2 100.0 4 6 10 1 0 4 2 1 -
+p577
+aVSteve Alford GOS 01/05/1989 GOS @ DEN L 8 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 -
+p578
+aVOtis Smith GOS 01/04/1989 GOS vs. MIA W 20 15 6 12 50.0 0 0 - 3 3 100.0 4 1 5 2 4 1 1 2 -
+p579
+aVTellis Frank GOS 01/04/1989 GOS vs. MIA W 19 15 6 8 75.0 0 0 - 3 4 75.0 0 2 2 0 4 0 3 5 -
+p580
+aVSteve Alford GOS 01/04/1989 GOS vs. MIA W 9 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p581
+aVLarry Smith GOS 01/04/1989 GOS vs. MIA W 30 6 3 5 60.0 0 0 - 0 1 0.0 2 6 8 1 1 1 4 3 -
+p582
+aVWinston Garland GOS 01/04/1989 GOS vs. MIA W 34 8 3 13 23.1 0 1 0.0 2 2 100.0 1 2 3 4 4 0 2 4 -
+p583
+aVManute Bol GOS 01/04/1989 GOS vs. MIA W 17 6 3 6 50.0 0 0 - 0 1 0.0 2 3 5 0 0 6 0 5 -
+p584
+aVMitch Richmond GOS 01/04/1989 GOS vs. MIA W 27 10 4 13 30.8 0 0 - 2 4 50.0 1 4 5 5 1 0 3 4 -
+p585
+aVRod Higgins GOS 01/04/1989 GOS vs. MIA W 26 15 5 8 62.5 0 0 - 5 6 83.3 2 4 6 1 1 0 0 1 -
+p586
+aVChris Mullin GOS 01/04/1989 GOS vs. MIA W 41 26 9 18 50.0 0 1 0.0 8 8 100.0 0 5 5 9 2 1 6 1 -
+p587
+aVJohn Stroeder GOS 01/04/1989 GOS vs. MIA W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -
+p588
+aVJohn Starks GOS 01/04/1989 GOS vs. MIA W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 1 3 -
+p589
+aVOtis Smith GOS 12/27/1988 GOS vs. PHL W 13 6 3 8 37.5 0 0 - 0 0 - 2 2 4 2 0 0 3 1 -
+p590
+aVManute Bol GOS 12/27/1988 GOS vs. PHL W 30 7 3 7 42.9 1 1 100.0 0 0 - 3 10 13 0 0 3 2 6 -
+p591
+aVWinston Garland GOS 12/27/1988 GOS vs. PHL W 38 18 5 15 33.3 0 0 - 8 8 100.0 0 4 4 7 1 0 0 2 -
+p592
+aVMitch Richmond GOS 12/27/1988 GOS vs. PHL W 40 34 15 22 68.2 0 1 0.0 4 4 100.0 3 6 9 8 0 0 4 1 -
+p593
+aVChris Mullin GOS 12/27/1988 GOS vs. PHL W 37 26 12 23 52.2 0 0 - 2 2 100.0 2 2 4 5 0 1 2 5 -
+p594
+aVRod Higgins GOS 12/27/1988 GOS vs. PHL W 30 12 5 9 55.6 0 1 0.0 2 2 100.0 0 3 3 3 1 0 0 3 -
+p595
+aVTellis Frank GOS 12/27/1988 GOS vs. PHL W 8 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -
+p596
+aVLarry Smith GOS 12/27/1988 GOS vs. PHL W 36 10 5 9 55.6 0 0 - 0 0 - 5 9 14 2 2 0 3 5 -
+p597
+aVJohn Starks GOS 12/27/1988 GOS vs. PHL W 8 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 2 2 0 0 3 -
+p598
+aVManute Bol GOS 12/23/1988 GOS @ POR L 31 7 3 7 42.9 0 0 - 1 2 50.0 5 2 7 1 0 6 0 3 -
+p599
+aVMitch Richmond GOS 12/23/1988 GOS @ POR L 34 27 10 20 50.0 0 1 0.0 7 10 70.0 1 4 5 1 0 0 7 4 -
+p600
+aVWinston Garland GOS 12/23/1988 GOS @ POR L 45 19 9 20 45.0 0 2 0.0 1 2 50.0 0 2 2 6 1 0 3 3 -
+p601
+aVRalph Sampson GOS 12/23/1988 GOS @ POR L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p602
+aVRod Higgins GOS 12/23/1988 GOS @ POR L 15 4 1 2 50.0 0 0 - 2 2 100.0 2 0 2 1 0 0 1 1 -
+p603
+aVChris Mullin GOS 12/23/1988 GOS @ POR L 37 28 12 27 44.4 0 2 0.0 4 7 57.1 1 5 6 4 2 0 3 4 -
+p604
+aVLarry Smith GOS 12/23/1988 GOS @ POR L 36 4 2 3 66.7 0 0 - 0 0 - 2 6 8 2 2 1 1 4 -
+p605
+aVOtis Smith GOS 12/23/1988 GOS @ POR L 6 4 1 4 25.0 0 0 - 2 3 66.7 1 1 2 0 0 0 1 0 -
+p606
+aVJohn Starks GOS 12/23/1988 GOS @ POR L 24 8 4 4 100.0 0 0 - 0 0 - 1 8 9 2 0 0 1 2 -
+p607
+aVTellis Frank GOS 12/23/1988 GOS @ POR L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p608
+aVSteve Alford GOS 12/22/1988 GOS vs. POR L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p609
+aVRalph Sampson GOS 12/22/1988 GOS vs. POR L 23 10 4 9 44.4 0 0 - 2 2 100.0 5 5 10 0 1 1 1 4 -
+p610
+aVJohn Starks GOS 12/22/1988 GOS vs. POR L 9 8 3 5 60.0 1 2 50.0 1 2 50.0 0 1 1 0 2 0 0 2 -
+p611
+aVChris Mullin GOS 12/22/1988 GOS vs. POR L 42 22 9 22 40.9 0 4 0.0 4 5 80.0 3 3 6 9 1 0 6 5 -
+p612
+aVWinston Garland GOS 12/22/1988 GOS vs. POR L 34 15 6 16 37.5 1 3 33.3 2 2 100.0 2 2 4 7 3 0 2 4 -
+p613
+aVRod Higgins GOS 12/22/1988 GOS vs. POR L 21 14 6 7 85.7 1 1 100.0 1 2 50.0 5 4 9 0 0 1 1 1 -
+p614
+aVOtis Smith GOS 12/22/1988 GOS vs. POR L 20 7 2 9 22.2 1 2 50.0 2 2 100.0 2 1 3 1 1 0 1 5 -
+p615
+aVMitch Richmond GOS 12/22/1988 GOS vs. POR L 37 18 8 18 44.4 0 2 0.0 2 2 100.0 1 4 5 8 0 0 2 3 -
+p616
+aVManute Bol GOS 12/22/1988 GOS vs. POR L 18 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 0 0 4 3 2 -
+p617
+aVLarry Smith GOS 12/22/1988 GOS vs. POR L 32 13 6 10 60.0 0 0 - 1 4 25.0 3 2 5 1 0 2 3 2 -
+p618
+aVOtis Smith GOS 12/20/1988 GOS vs. LAC W 27 20 7 12 58.3 0 1 0.0 6 8 75.0 0 4 4 2 0 0 1 0 -
+p619
+aVManute Bol GOS 12/20/1988 GOS vs. LAC W 32 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 0 8 1 1 -
+p620
+aVRod Higgins GOS 12/20/1988 GOS vs. LAC W 15 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 2 0 3 0 -
+p621
+aVChris Mullin GOS 12/20/1988 GOS vs. LAC W 35 30 13 21 61.9 0 1 0.0 4 4 100.0 1 0 1 7 1 1 3 1 -
+p622
+aVWinston Garland GOS 12/20/1988 GOS vs. LAC W 35 22 8 12 66.7 1 2 50.0 5 6 83.3 2 8 10 11 4 0 1 1 -
+p623
+aVSteve Alford GOS 12/20/1988 GOS vs. LAC W 8 4 1 3 33.3 1 1 100.0 1 1 100.0 0 1 1 1 0 0 1 0 -
+p624
+aVLarry Smith GOS 12/20/1988 GOS vs. LAC W 24 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 1 1 2 -
+p625
+aVMitch Richmond GOS 12/20/1988 GOS vs. LAC W 30 18 7 20 35.0 1 1 100.0 3 5 60.0 5 3 8 1 2 1 4 3 -
+p626
+aVRalph Sampson GOS 12/20/1988 GOS vs. LAC W 28 11 4 13 30.8 0 0 - 3 4 75.0 3 3 6 3 2 3 1 4 -
+p627
+aVJohn Starks GOS 12/20/1988 GOS vs. LAC W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 2 1 0 -
+p628
+aVJohn Starks GOS 12/17/1988 GOS @ SAN W 9 2 0 1 0.0 0 0 - 2 4 50.0 0 0 0 0 1 0 4 3 -
+p629
+aVTellis Frank GOS 12/17/1988 GOS @ SAN W 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p630
+aVLarry Smith GOS 12/17/1988 GOS @ SAN W 25 8 4 4 100.0 0 0 - 0 0 - 3 5 8 1 0 0 4 5 -
+p631
+aVOtis Smith GOS 12/17/1988 GOS @ SAN W 18 2 1 7 14.3 0 0 - 0 0 - 1 0 1 2 2 0 2 2 -
+p632
+aVManute Bol GOS 12/17/1988 GOS @ SAN W 29 3 1 4 25.0 0 0 - 1 2 50.0 2 6 8 0 0 10 0 3 -
+p633
+aVRalph Sampson GOS 12/17/1988 GOS @ SAN W 32 16 6 11 54.5 0 0 - 4 5 80.0 5 6 11 1 0 2 4 4 -
+p634
+aVRod Higgins GOS 12/17/1988 GOS @ SAN W 25 13 4 8 50.0 1 1 100.0 4 4 100.0 0 2 2 5 1 0 2 2 -
+p635
+aVChris Mullin GOS 12/17/1988 GOS @ SAN W 41 38 11 18 61.1 0 0 - 16 18 88.9 1 7 8 4 4 0 3 2 -
+p636
+aVMitch Richmond GOS 12/17/1988 GOS @ SAN W 14 10 5 11 45.5 0 0 - 0 0 - 1 2 3 2 1 0 3 6 -
+p637
+aVSteve Alford GOS 12/17/1988 GOS @ SAN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 3 0 -
+p638
+aVWinston Garland GOS 12/17/1988 GOS @ SAN W 37 29 10 14 71.4 2 2 100.0 7 9 77.8 3 1 4 7 1 0 3 3 -
+p639
+aVChris Mullin GOS 12/15/1988 GOS @ HOU L 50 28 11 20 55.0 0 1 0.0 6 6 100.0 2 1 3 3 3 0 4 3 -
+p640
+aVWinston Garland GOS 12/15/1988 GOS @ HOU L 48 15 5 19 26.3 1 1 100.0 4 6 66.7 0 5 5 3 5 0 5 2 -
+p641
+aVJohn Starks GOS 12/15/1988 GOS @ HOU L 13 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 2 1 0 0 2 -
+p642
+aVLarry Smith GOS 12/15/1988 GOS @ HOU L 26 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 0 1 2 6 -
+p643
+aVManute Bol GOS 12/15/1988 GOS @ HOU L 30 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 0 0 5 4 5 -
+p644
+aVMitch Richmond GOS 12/15/1988 GOS @ HOU L 38 24 9 19 47.4 0 1 0.0 6 7 85.7 4 5 9 6 1 0 3 5 -
+p645
+aVRalph Sampson GOS 12/15/1988 GOS @ HOU L 29 10 5 7 71.4 0 0 - 0 0 - 1 6 7 0 1 2 3 6 -
+p646
+aVOtis Smith GOS 12/15/1988 GOS @ HOU L 24 10 5 9 55.6 0 0 - 0 0 - 0 1 1 1 2 0 1 2 -
+p647
+aVRod Higgins GOS 12/15/1988 GOS @ HOU L 25 6 3 12 25.0 0 2 0.0 0 0 - 3 5 8 3 0 0 2 1 -
+p648
+aVTellis Frank GOS 12/15/1988 GOS @ HOU L 7 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -
+p649
+aVChris Mullin GOS 12/13/1988 GOS @ DAL L 45 27 10 21 47.6 0 1 0.0 7 8 87.5 5 2 7 8 1 0 0 3 -
+p650
+aVOtis Smith GOS 12/13/1988 GOS @ DAL L 26 6 3 10 30.0 0 0 - 0 0 - 3 2 5 1 0 1 1 3 -
+p651
+aVMitch Richmond GOS 12/13/1988 GOS @ DAL L 40 31 13 27 48.1 1 1 100.0 4 6 66.7 0 3 3 2 1 0 2 4 -
+p652
+aVRod Higgins GOS 12/13/1988 GOS @ DAL L 12 5 1 4 25.0 0 1 0.0 3 3 100.0 1 2 3 0 0 0 1 3 -
+p653
+aVManute Bol GOS 12/13/1988 GOS @ DAL L 23 9 4 5 80.0 0 0 - 1 2 50.0 2 1 3 0 0 4 2 2 -
+p654
+aVWinston Garland GOS 12/13/1988 GOS @ DAL L 35 16 5 14 35.7 0 1 0.0 6 6 100.0 1 1 2 4 0 0 4 3 -
+p655
+aVLarry Smith GOS 12/13/1988 GOS @ DAL L 26 12 6 11 54.5 0 0 - 0 0 - 6 4 10 1 0 0 2 2 -
+p656
+aVRalph Sampson GOS 12/13/1988 GOS @ DAL L 33 5 2 3 66.7 0 0 - 1 2 50.0 1 10 11 4 3 1 1 4 -
+p657
+aVRalph Sampson GOS 12/10/1988 GOS vs. WAS W 22 9 3 6 50.0 0 0 - 3 4 75.0 2 4 6 0 0 2 0 2 -
+p658
+aVChris Mullin GOS 12/10/1988 GOS vs. WAS W 44 25 10 20 50.0 0 2 0.0 5 8 62.5 2 4 6 6 1 0 4 2 -
+p659
+aVLarry Smith GOS 12/10/1988 GOS vs. WAS W 30 10 5 5 100.0 0 0 - 0 0 - 3 2 5 0 2 1 3 3 -
+p660
+aVMitch Richmond GOS 12/10/1988 GOS vs. WAS W 36 24 8 17 47.1 0 0 - 8 10 80.0 1 8 9 2 0 0 2 2 -
+p661
+aVJohn Starks GOS 12/10/1988 GOS vs. WAS W 8 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p662
+aVWinston Garland GOS 12/10/1988 GOS vs. WAS W 39 12 6 11 54.5 0 0 - 0 2 0.0 0 1 1 6 7 0 2 1 -
+p663
+aVRod Higgins GOS 12/10/1988 GOS vs. WAS W 19 14 4 7 57.1 0 0 - 6 6 100.0 1 4 5 2 0 0 1 2 -
+p664
+aVManute Bol GOS 12/10/1988 GOS vs. WAS W 23 5 1 4 25.0 0 0 - 3 5 60.0 2 7 9 2 0 9 0 4 -
+p665
+aVOtis Smith GOS 12/10/1988 GOS vs. WAS W 19 8 4 6 66.7 0 0 - 0 0 - 0 1 1 2 0 0 2 4 -
+p666
+aVManute Bol GOS 12/09/1988 GOS @ PHX L 16 2 1 3 33.3 0 0 - 0 0 - 3 6 9 0 0 3 1 2 -
+p667
+aVChris Mullin GOS 12/09/1988 GOS @ PHX L 45 27 12 19 63.2 0 0 - 3 4 75.0 2 8 10 9 1 0 4 4 -
+p668
+aVRalph Sampson GOS 12/09/1988 GOS @ PHX L 25 11 5 10 50.0 0 0 - 1 2 50.0 3 3 6 1 0 2 0 5 -
+p669
+aVOtis Smith GOS 12/09/1988 GOS @ PHX L 20 14 6 9 66.7 0 0 - 2 4 50.0 0 2 2 1 0 1 0 1 -
+p670
+aVWinston Garland GOS 12/09/1988 GOS @ PHX L 34 14 6 11 54.5 0 0 - 2 2 100.0 0 4 4 5 2 0 4 2 -
+p671
+aVRod Higgins GOS 12/09/1988 GOS @ PHX L 34 16 6 12 50.0 0 4 0.0 4 5 80.0 0 4 4 3 0 2 1 1 -
+p672
+aVMitch Richmond GOS 12/09/1988 GOS @ PHX L 40 19 8 23 34.8 0 2 0.0 3 5 60.0 4 5 9 5 1 0 4 3 -
+p673
+aVLarry Smith GOS 12/09/1988 GOS @ PHX L 26 2 1 1 100.0 0 0 - 0 0 - 1 8 9 4 0 0 3 5 -
+p674
+aVTellis Frank GOS 12/06/1988 GOS vs. UTH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p675
+aVWinston Garland GOS 12/06/1988 GOS vs. UTH W 45 23 9 12 75.0 0 0 - 5 6 83.3 1 2 3 12 2 0 2 2 -
+p676
+aVOtis Smith GOS 12/06/1988 GOS vs. UTH W 11 6 2 10 20.0 0 0 - 2 3 66.7 3 4 7 1 1 0 1 1 -
+p677
+aVLarry Smith GOS 12/06/1988 GOS vs. UTH W 31 2 1 3 33.3 0 0 - 0 0 - 2 7 9 1 1 0 3 5 -
+p678
+aVManute Bol GOS 12/06/1988 GOS vs. UTH W 17 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 5 0 5 -
+p679
+aVRalph Sampson GOS 12/06/1988 GOS vs. UTH W 31 17 6 9 66.7 0 0 - 5 6 83.3 6 5 11 3 0 4 4 6 -
+p680
+aVRod Higgins GOS 12/06/1988 GOS vs. UTH W 21 8 3 9 33.3 0 2 0.0 2 4 50.0 1 6 7 2 0 0 0 3 -
+p681
+aVChris Mullin GOS 12/06/1988 GOS vs. UTH W 43 31 14 24 58.3 1 2 50.0 2 2 100.0 1 1 2 8 3 0 4 1 -
+p682
+aVMitch Richmond GOS 12/06/1988 GOS vs. UTH W 40 27 11 16 68.8 1 1 100.0 4 4 100.0 3 4 7 2 0 3 3 1 -
+p683
+aVManute Bol GOS 12/03/1988 GOS @ SEA L 18 0 0 2 0.0 0 0 - 0 0 - 1 5 6 0 0 2 3 4 -
+p684
+aVWinston Garland GOS 12/03/1988 GOS @ SEA L 34 22 6 12 50.0 0 0 - 10 10 100.0 0 3 3 4 3 0 4 2 -
+p685
+aVOtis Smith GOS 12/03/1988 GOS @ SEA L 28 12 4 12 33.3 0 1 0.0 4 6 66.7 0 1 1 1 2 1 3 3 -
+p686
+aVJohn Starks GOS 12/03/1988 GOS @ SEA L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 2 1 -
+p687
+aVTellis Frank GOS 12/03/1988 GOS @ SEA L 6 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -
+p688
+aVRod Higgins GOS 12/03/1988 GOS @ SEA L 20 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 2 4 -
+p689
+aVRalph Sampson GOS 12/03/1988 GOS @ SEA L 23 7 2 3 66.7 0 0 - 3 6 50.0 1 3 4 3 0 3 4 4 -
+p690
+aVMitch Richmond GOS 12/03/1988 GOS @ SEA L 38 15 4 15 26.7 0 1 0.0 7 8 87.5 2 5 7 5 2 0 4 3 -
+p691
+aVLarry Smith GOS 12/03/1988 GOS @ SEA L 27 9 4 7 57.1 0 0 - 1 5 20.0 2 3 5 0 0 0 2 4 -
+p692
+aVChris Mullin GOS 12/03/1988 GOS @ SEA L 39 27 11 17 64.7 0 2 0.0 5 5 100.0 1 1 2 3 2 0 6 4 -
+p693
+aVWinston Garland GOS 12/02/1988 GOS @ DEN L 26 9 3 10 30.0 0 0 - 3 4 75.0 2 2 4 3 0 2 3 3 -
+p694
+aVJohn Starks GOS 12/02/1988 GOS @ DEN L 25 7 2 8 25.0 0 0 - 3 6 50.0 3 0 3 3 2 0 4 0 -
+p695
+aVTellis Frank GOS 12/02/1988 GOS @ DEN L 7 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -
+p696
+aVRod Higgins GOS 12/02/1988 GOS @ DEN L 16 11 3 5 60.0 1 1 100.0 4 4 100.0 1 5 6 0 0 1 1 2 -
+p697
+aVChris Mullin GOS 12/02/1988 GOS @ DEN L 29 18 7 12 58.3 0 1 0.0 4 4 100.0 3 5 8 2 0 2 4 3 -
+p698
+aVLarry Smith GOS 12/02/1988 GOS @ DEN L 19 11 5 7 71.4 0 0 - 1 1 100.0 3 4 7 2 2 0 2 1 -
+p699
+aVTerry Teagle GOS 12/02/1988 GOS @ DEN L 18 4 2 8 25.0 0 0 - 0 0 - 2 2 4 3 0 0 1 1 -
+p700
+aVOtis Smith GOS 12/02/1988 GOS @ DEN L 31 12 5 14 35.7 0 0 - 2 2 100.0 1 6 7 3 1 2 1 4 -
+p701
+aVRalph Sampson GOS 12/02/1988 GOS @ DEN L 15 2 1 11 9.1 0 0 - 0 0 - 3 2 5 0 0 0 3 2 -
+p702
+aVMitch Richmond GOS 12/02/1988 GOS @ DEN L 29 14 5 11 45.5 0 0 - 4 6 66.7 1 3 4 3 1 0 4 3 -
+p703
+aVManute Bol GOS 12/02/1988 GOS @ DEN L 16 4 1 7 14.3 0 0 - 2 2 100.0 3 3 6 0 0 1 0 1 -
+p704
+aVShelton Jones GOS 12/02/1988 GOS @ DEN L 9 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 1 0 1 0 -
+p705
+aVMitch Richmond GOS 11/29/1988 GOS vs. CHI W 36 27 8 15 53.3 0 1 0.0 11 13 84.6 1 4 5 5 1 1 1 3 -
+p706
+aVChris Mullin GOS 11/29/1988 GOS vs. CHI W 43 29 12 25 48.0 0 1 0.0 5 6 83.3 1 4 5 8 2 0 2 3 -
+p707
+aVTerry Teagle GOS 11/29/1988 GOS vs. CHI W 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -
+p708
+aVManute Bol GOS 11/29/1988 GOS vs. CHI W 21 4 2 2 100.0 0 0 - 0 0 - 1 6 7 0 0 5 1 3 -
+p709
+aVLarry Smith GOS 11/29/1988 GOS vs. CHI W 29 10 4 6 66.7 0 0 - 2 2 100.0 3 4 7 1 0 0 2 4 -
+p710
+aVRalph Sampson GOS 11/29/1988 GOS vs. CHI W 23 6 2 8 25.0 0 0 - 2 2 100.0 2 8 10 0 0 0 2 0 -
+p711
+aVWinston Garland GOS 11/29/1988 GOS vs. CHI W 39 15 4 11 36.4 0 1 0.0 7 8 87.5 0 4 4 7 4 0 4 3 -
+p712
+aVOtis Smith GOS 11/29/1988 GOS vs. CHI W 14 6 3 7 42.9 0 0 - 0 0 - 1 2 3 0 1 0 1 0 -
+p713
+aVRod Higgins GOS 11/29/1988 GOS vs. CHI W 28 8 3 10 30.0 0 1 0.0 2 4 50.0 4 4 8 2 0 0 1 3 -
+p714
+aVChris Mullin GOS 11/27/1988 GOS @ POR L 39 8 3 9 33.3 0 0 - 2 2 100.0 1 1 2 3 0 0 8 4 -
+p715
+aVLarry Smith GOS 11/27/1988 GOS @ POR L 21 5 2 4 50.0 0 0 - 1 2 50.0 0 5 5 0 0 0 3 3 -
+p716
+aVRod Higgins GOS 11/27/1988 GOS @ POR L 21 10 5 8 62.5 0 1 0.0 0 1 0.0 1 1 2 0 0 0 0 0 -
+p717
+aVRalph Sampson GOS 11/27/1988 GOS @ POR L 31 16 7 16 43.8 0 0 - 2 2 100.0 2 6 8 5 1 1 1 4 -
+p718
+aVWinston Garland GOS 11/27/1988 GOS @ POR L 36 18 9 14 64.3 0 0 - 0 0 - 1 4 5 8 3 0 4 4 -
+p719
+aVTellis Frank GOS 11/27/1988 GOS @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p720
+aVTerry Teagle GOS 11/27/1988 GOS @ POR L 12 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 1 0 0 1 0 -
+p721
+aVOtis Smith GOS 11/27/1988 GOS @ POR L 19 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 2 0 1 3 -
+p722
+aVJohn Starks GOS 11/27/1988 GOS @ POR L 10 6 2 3 66.7 1 1 100.0 1 2 50.0 1 0 1 3 0 0 2 0 -
+p723
+aVManute Bol GOS 11/27/1988 GOS @ POR L 26 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 5 0 2 -
+p724
+aVMitch Richmond GOS 11/27/1988 GOS @ POR L 23 17 6 15 40.0 0 1 0.0 5 6 83.3 2 4 6 3 0 0 2 3 -
+p725
+aVOtis Smith GOS 11/26/1988 GOS vs. HOU L 20 8 4 10 40.0 0 0 - 0 1 0.0 0 5 5 1 0 1 2 2 -
+p726
+aVManute Bol GOS 11/26/1988 GOS vs. HOU L 18 3 1 5 20.0 0 0 - 1 2 50.0 2 3 5 0 1 3 2 6 -
+p727
+aVJohn Starks GOS 11/26/1988 GOS vs. HOU L 9 5 2 8 25.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 -
+p728
+aVChris Mullin GOS 11/26/1988 GOS vs. HOU L 37 19 8 15 53.3 1 2 50.0 2 2 100.0 1 1 2 3 3 0 2 1 -
+p729
+aVShelton Jones GOS 11/26/1988 GOS vs. HOU L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 2 0 0 0 -
+p730
+aVRalph Sampson GOS 11/26/1988 GOS vs. HOU L 17 1 0 4 0.0 0 0 - 1 2 50.0 2 3 5 2 1 1 6 4 -
+p731
+aVLarry Smith GOS 11/26/1988 GOS vs. HOU L 28 12 6 13 46.2 0 0 - 0 0 - 9 4 13 0 0 1 1 4 -
+p732
+aVMitch Richmond GOS 11/26/1988 GOS vs. HOU L 31 15 5 14 35.7 0 0 - 5 6 83.3 1 2 3 5 1 0 3 2 -
+p733
+aVRod Higgins GOS 11/26/1988 GOS vs. HOU L 13 5 2 5 40.0 1 1 100.0 0 0 - 2 2 4 2 0 0 1 1 -
+p734
+aVTellis Frank GOS 11/26/1988 GOS vs. HOU L 20 14 3 8 37.5 0 0 - 8 10 80.0 3 3 6 2 0 2 0 5 -
+p735
+aVWinston Garland GOS 11/26/1988 GOS vs. HOU L 30 12 6 16 37.5 0 1 0.0 0 0 - 3 5 8 6 1 0 1 4 -
+p736
+aVTerry Teagle GOS 11/26/1988 GOS vs. HOU L 13 13 5 12 41.7 0 0 - 3 3 100.0 3 0 3 0 1 0 1 1 -
+p737
+aVJohn Starks GOS 11/23/1988 GOS vs. SEA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -
+p738
+aVChris Mullin GOS 11/23/1988 GOS vs. SEA L 40 25 9 18 50.0 0 1 0.0 7 9 77.8 2 1 3 1 1 1 4 2 -
+p739
+aVManute Bol GOS 11/23/1988 GOS vs. SEA L 25 0 0 1 0.0 0 0 - 0 0 - 1 7 8 0 0 2 2 5 -
+p740
+aVWinston Garland GOS 11/23/1988 GOS vs. SEA L 38 12 5 16 31.3 0 0 - 2 2 100.0 1 2 3 7 0 0 2 2 -
+p741
+aVLarry Smith GOS 11/23/1988 GOS vs. SEA L 29 6 3 8 37.5 0 0 - 0 0 - 8 5 13 1 0 0 1 4 -
+p742
+aVTellis Frank GOS 11/23/1988 GOS vs. SEA L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p743
+aVRod Higgins GOS 11/23/1988 GOS vs. SEA L 14 3 1 6 16.7 1 1 100.0 0 0 - 0 0 0 1 0 1 1 0 -
+p744
+aVMitch Richmond GOS 11/23/1988 GOS vs. SEA L 37 17 6 15 40.0 0 0 - 5 7 71.4 0 6 6 5 1 0 1 1 -
+p745
+aVOtis Smith GOS 11/23/1988 GOS vs. SEA L 25 14 6 10 60.0 0 1 0.0 2 5 40.0 0 3 3 3 0 0 3 2 -
+p746
+aVRalph Sampson GOS 11/23/1988 GOS vs. SEA L 24 6 3 8 37.5 0 0 - 0 0 - 2 6 8 1 3 3 3 3 -
+p747
+aVOtis Smith GOS 11/19/1988 GOS @ ATL L 29 10 4 12 33.3 0 1 0.0 2 2 100.0 2 6 8 2 2 0 1 4 -
+p748
+aVRod Higgins GOS 11/19/1988 GOS @ ATL L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p749
+aVTerry Teagle GOS 11/19/1988 GOS @ ATL L 12 5 1 4 25.0 0 0 - 3 4 75.0 0 3 3 0 1 0 1 2 -
+p750
+aVRalph Sampson GOS 11/19/1988 GOS @ ATL L 24 6 3 8 37.5 0 0 - 0 0 - 2 6 8 4 1 0 2 4 -
+p751
+aVTellis Frank GOS 11/19/1988 GOS @ ATL L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -
+p752
+aVWinston Garland GOS 11/19/1988 GOS @ ATL L 26 12 6 15 40.0 0 0 - 0 0 - 2 0 2 2 6 0 0 3 -
+p753
+aVLarry Smith GOS 11/19/1988 GOS @ ATL L 21 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -
+p754
+aVChris Mullin GOS 11/19/1988 GOS @ ATL L 31 14 6 14 42.9 0 0 - 2 4 50.0 0 0 0 3 2 0 4 2 -
+p755
+aVJohn Starks GOS 11/19/1988 GOS @ ATL L 18 9 4 9 44.4 0 2 0.0 1 2 50.0 1 1 2 0 1 0 1 1 -
+p756
+aVMitch Richmond GOS 11/19/1988 GOS @ ATL L 37 24 10 21 47.6 0 0 - 4 6 66.7 2 1 3 4 0 0 1 3 -
+p757
+aVManute Bol GOS 11/19/1988 GOS @ ATL L 20 6 3 7 42.9 0 0 - 0 0 - 2 3 5 1 0 0 0 3 -
+p758
+aVTerry Teagle GOS 11/18/1988 GOS @ MIA W 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p759
+aVRod Higgins GOS 11/18/1988 GOS @ MIA W 28 11 3 10 30.0 0 1 0.0 5 6 83.3 2 3 5 0 0 0 1 1 -
+p760
+aVJerome Whitehead GOS 11/18/1988 GOS @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p761
+aVOtis Smith GOS 11/18/1988 GOS @ MIA W 29 16 6 12 50.0 0 0 - 4 5 80.0 3 3 6 3 3 1 3 0 -
+p762
+aVChris Mullin GOS 11/18/1988 GOS @ MIA W 43 29 9 20 45.0 0 1 0.0 11 11 100.0 0 4 4 4 2 0 6 3 -
+p763
+aVMitch Richmond GOS 11/18/1988 GOS @ MIA W 30 13 3 10 30.0 0 0 - 7 9 77.8 3 3 6 0 2 0 7 6 -
+p764
+aVLarry Smith GOS 11/18/1988 GOS @ MIA W 31 10 5 7 71.4 0 0 - 0 0 - 5 3 8 1 1 2 0 4 -
+p765
+aVJohn Starks GOS 11/18/1988 GOS @ MIA W 3 6 1 1 100.0 0 0 - 4 4 100.0 1 0 1 0 0 0 0 2 -
+p766
+aVManute Bol GOS 11/18/1988 GOS @ MIA W 28 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 0 4 1 3 -
+p767
+aVWinston Garland GOS 11/18/1988 GOS @ MIA W 40 22 7 16 43.8 0 0 - 8 8 100.0 3 6 9 5 4 0 5 3 -
+p768
+aVRalph Sampson GOS 11/18/1988 GOS @ MIA W 20 8 4 9 44.4 0 0 - 0 1 0.0 2 6 8 1 0 2 0 6 -
+p769
+aVOtis Smith GOS 11/16/1988 GOS @ BOS L 17 13 6 10 60.0 0 0 - 1 2 50.0 1 2 3 2 2 0 2 3 -
+p770
+aVTerry Teagle GOS 11/16/1988 GOS @ BOS L 18 4 2 7 28.6 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p771
+aVWinston Garland GOS 11/16/1988 GOS @ BOS L 35 9 3 8 37.5 0 0 - 3 4 75.0 2 1 3 6 1 0 3 0 -
+p772
+aVMitch Richmond GOS 11/16/1988 GOS @ BOS L 28 15 7 14 50.0 0 0 - 1 1 100.0 1 4 5 0 0 0 6 3 -
+p773
+aVChris Mullin GOS 11/16/1988 GOS @ BOS L 43 20 7 18 38.9 1 2 50.0 5 5 100.0 1 2 3 14 3 0 5 2 -
+p774
+aVLarry Smith GOS 11/16/1988 GOS @ BOS L 22 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 1 0 0 3 -
+p775
+aVRalph Sampson GOS 11/16/1988 GOS @ BOS L 24 12 6 13 46.2 0 0 - 0 0 - 4 3 7 3 2 3 1 3 -
+p776
+aVManute Bol GOS 11/16/1988 GOS @ BOS L 26 6 3 5 60.0 0 0 - 0 0 - 3 7 10 0 0 4 2 4 -
+p777
+aVRod Higgins GOS 11/16/1988 GOS @ BOS L 27 21 7 10 70.0 0 2 0.0 7 10 70.0 1 3 4 1 0 0 0 2 -
+p778
+aVTerry Teagle GOS 11/14/1988 GOS @ NJN W 8 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 2 0 0 0 0 -
+p779
+aVJerome Whitehead GOS 11/14/1988 GOS @ NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p780
+aVLarry Smith GOS 11/14/1988 GOS @ NJN W 27 3 1 4 25.0 0 0 - 1 2 50.0 1 6 7 1 0 1 0 4 -
+p781
+aVRod Higgins GOS 11/14/1988 GOS @ NJN W 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p782
+aVRalph Sampson GOS 11/14/1988 GOS @ NJN W 36 6 3 8 37.5 0 0 - 0 0 - 2 6 8 1 1 4 3 5 -
+p783
+aVWinston Garland GOS 11/14/1988 GOS @ NJN W 37 14 6 17 35.3 0 0 - 2 2 100.0 1 3 4 8 5 0 4 5 -
+p784
+aVManute Bol GOS 11/14/1988 GOS @ NJN W 25 7 2 5 40.0 0 1 0.0 3 4 75.0 1 3 4 0 0 2 1 1 -
+p785
+aVChris Mullin GOS 11/14/1988 GOS @ NJN W 39 33 13 24 54.2 1 3 33.3 6 8 75.0 3 2 5 5 3 3 4 1 -
+p786
+aVMitch Richmond GOS 11/14/1988 GOS @ NJN W 26 21 4 8 50.0 0 0 - 13 14 92.9 1 5 6 1 3 0 6 3 -
+p787
+aVOtis Smith GOS 11/14/1988 GOS @ NJN W 24 9 4 10 40.0 0 0 - 1 2 50.0 0 2 2 4 3 1 6 0 -
+p788
+aVMitch Richmond GOS 11/12/1988 GOS vs. POR W 24 12 4 14 28.6 0 0 - 4 4 100.0 2 2 4 3 0 0 8 4 -
+p789
+aVRod Higgins GOS 11/12/1988 GOS vs. POR W 27 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 3 0 0 3 2 -
+p790
+aVTellis Frank GOS 11/12/1988 GOS vs. POR W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p791
+aVLarry Smith GOS 11/12/1988 GOS vs. POR W 19 2 1 3 33.3 0 0 - 0 0 - 3 5 8 1 0 0 0 4 -
+p792
+aVWinston Garland GOS 11/12/1988 GOS vs. POR W 39 16 5 13 38.5 0 0 - 6 8 75.0 1 7 8 7 3 0 5 5 -
+p793
+aVManute Bol GOS 11/12/1988 GOS vs. POR W 34 3 1 3 33.3 0 0 - 1 2 50.0 0 10 10 0 1 10 1 5 -
+p794
+aVOtis Smith GOS 11/12/1988 GOS vs. POR W 27 16 7 11 63.6 0 0 - 2 2 100.0 0 3 3 3 3 0 2 3 -
+p795
+aVChris Mullin GOS 11/12/1988 GOS vs. POR W 46 42 14 25 56.0 0 0 - 14 14 100.0 3 2 5 2 3 1 2 1 -
+p796
+aVRalph Sampson GOS 11/12/1988 GOS vs. POR W 13 0 0 4 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 -
+p797
+aVTerry Teagle GOS 11/12/1988 GOS vs. POR W 10 9 3 4 75.0 0 0 - 3 3 100.0 1 3 4 2 0 0 2 1 -
+p798
+aVChris Mullin GOS 11/11/1988 GOS @ PHX L 27 18 6 10 60.0 0 0 - 6 6 100.0 3 3 6 7 0 0 4 3 -
+p799
+aVLarry Smith GOS 11/11/1988 GOS @ PHX L 29 2 1 3 33.3 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -
+p800
+aVWinston Garland GOS 11/11/1988 GOS @ PHX L 21 9 4 12 33.3 0 0 - 1 1 100.0 1 1 2 4 1 0 3 3 -
+p801
+aVMitch Richmond GOS 11/11/1988 GOS @ PHX L 27 17 6 14 42.9 0 0 - 5 5 100.0 2 1 3 2 1 0 3 2 -
+p802
+aVTellis Frank GOS 11/11/1988 GOS @ PHX L 15 8 1 2 50.0 0 0 - 6 6 100.0 1 3 4 0 0 1 2 3 -
+p803
+aVManute Bol GOS 11/11/1988 GOS @ PHX L 12 4 2 4 50.0 0 0 - 0 0 - 2 4 6 1 0 0 0 0 -
+p804
+aVJerome Whitehead GOS 11/11/1988 GOS @ PHX L 18 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 1 0 0 1 3 -
+p805
+aVTerry Teagle GOS 11/11/1988 GOS @ PHX L 20 4 2 7 28.6 0 0 - 0 2 0.0 2 0 2 2 1 0 2 0 -
+p806
+aVOtis Smith GOS 11/11/1988 GOS @ PHX L 15 11 4 9 44.4 0 0 - 3 4 75.0 1 3 4 1 0 1 2 4 -
+p807
+aVRod Higgins GOS 11/11/1988 GOS @ PHX L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 2 4 -
+p808
+aVRalph Sampson GOS 11/11/1988 GOS @ PHX L 19 10 4 13 30.8 0 0 - 2 3 66.7 4 3 7 1 0 3 3 3 -
+p809
+aVJohn Starks GOS 11/11/1988 GOS @ PHX L 24 13 5 11 45.5 0 2 0.0 3 3 100.0 1 0 1 3 1 0 5 1 -
+p810
+aVMitch Richmond GOS 11/09/1988 GOS @ SEA W 28 18 5 10 50.0 0 0 - 8 10 80.0 3 3 6 4 2 0 5 4 -
+p811
+aVTellis Frank GOS 11/09/1988 GOS @ SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p812
+aVJerome Whitehead GOS 11/09/1988 GOS @ SEA W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p813
+aVJohn Starks GOS 11/09/1988 GOS @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p814
+aVOtis Smith GOS 11/09/1988 GOS @ SEA W 15 8 2 9 22.2 0 0 - 4 4 100.0 1 3 4 0 1 0 2 2 -
+p815
+aVChris Mullin GOS 11/09/1988 GOS @ SEA W 44 24 10 25 40.0 0 0 - 4 4 100.0 1 4 5 5 3 0 4 4 -
+p816
+aVManute Bol GOS 11/09/1988 GOS @ SEA W 19 6 2 4 50.0 0 0 - 2 3 66.7 2 3 5 0 0 1 2 0 -
+p817
+aVRalph Sampson GOS 11/09/1988 GOS @ SEA W 31 9 3 10 30.0 0 0 - 3 4 75.0 4 3 7 1 0 4 5 3 -
+p818
+aVRod Higgins GOS 11/09/1988 GOS @ SEA W 25 13 5 5 100.0 0 0 - 3 4 75.0 1 5 6 2 0 0 2 2 -
+p819
+aVWinston Garland GOS 11/09/1988 GOS @ SEA W 36 17 7 9 77.8 0 0 - 3 6 50.0 0 5 5 4 3 0 3 5 -
+p820
+aVLarry Smith GOS 11/09/1988 GOS @ SEA W 17 8 4 6 66.7 0 0 - 0 0 - 3 6 9 0 1 0 1 4 -
+p821
+aVTerry Teagle GOS 11/09/1988 GOS @ SEA W 14 10 3 8 37.5 0 0 - 4 4 100.0 1 0 1 1 0 0 1 1 -
+p822
+aVLarry Smith GOS 11/08/1988 GOS vs. LAL L 20 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 1 0 0 3 -
+p823
+aVWinston Garland GOS 11/08/1988 GOS vs. LAL L 26 14 6 15 40.0 0 0 - 2 3 66.7 0 3 3 5 3 0 1 1 -
+p824
+aVTerry Teagle GOS 11/08/1988 GOS vs. LAL L 23 6 3 11 27.3 0 1 0.0 0 0 - 0 2 2 0 2 0 0 1 -
+p825
+aVManute Bol GOS 11/08/1988 GOS vs. LAL L 29 4 2 5 40.0 0 0 - 0 0 - 1 8 9 0 0 2 1 4 -
+p826
+aVJohn Starks GOS 11/08/1988 GOS vs. LAL L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p827
+aVMitch Richmond GOS 11/08/1988 GOS vs. LAL L 30 11 4 16 25.0 1 3 33.3 2 2 100.0 2 1 3 2 0 0 4 4 -
+p828
+aVChris Mullin GOS 11/08/1988 GOS vs. LAL L 42 26 10 19 52.6 0 1 0.0 6 6 100.0 0 7 7 5 2 0 8 4 -
+p829
+aVRod Higgins GOS 11/08/1988 GOS vs. LAL L 19 7 3 4 75.0 0 0 - 1 2 50.0 3 3 6 0 0 0 1 1 -
+p830
+aVRalph Sampson GOS 11/08/1988 GOS vs. LAL L 26 14 4 9 44.4 0 0 - 6 7 85.7 1 5 6 2 0 3 2 3 -
+p831
+aVOtis Smith GOS 11/08/1988 GOS vs. LAL L 22 12 5 12 41.7 0 3 0.0 2 2 100.0 2 6 8 2 2 1 0 2 -
+p832
+aVWinston Garland GOS 11/05/1988 GOS vs. PHX W 28 12 5 9 55.6 0 0 - 2 3 66.7 2 4 6 7 0 0 0 5 -
+p833
+aVOtis Smith GOS 11/05/1988 GOS vs. PHX W 21 10 5 15 33.3 0 1 0.0 0 3 0.0 2 1 3 2 0 2 6 2 -
+p834
+aVManute Bol GOS 11/05/1988 GOS vs. PHX W 17 7 3 5 60.0 0 0 - 1 2 50.0 2 6 8 0 0 4 0 1 -
+p835
+aVMitch Richmond GOS 11/05/1988 GOS vs. PHX W 36 17 5 14 35.7 1 2 50.0 6 10 60.0 5 3 8 5 1 0 3 3 -
+p836
+aVRod Higgins GOS 11/05/1988 GOS vs. PHX W 24 13 6 9 66.7 1 1 100.0 0 0 - 2 3 5 4 0 0 2 4 -
+p837
+aVTerry Teagle GOS 11/05/1988 GOS vs. PHX W 13 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 2 0 1 1 0 -
+p838
+aVJerome Whitehead GOS 11/05/1988 GOS vs. PHX W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -
+p839
+aVTellis Frank GOS 11/05/1988 GOS vs. PHX W 4 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 2 0 -
+p840
+aVRalph Sampson GOS 11/05/1988 GOS vs. PHX W 17 4 2 9 22.2 0 0 - 0 2 0.0 2 3 5 2 0 0 0 3 -
+p841
+aVLarry Smith GOS 11/05/1988 GOS vs. PHX W 32 10 5 7 71.4 0 0 - 0 1 0.0 3 6 9 2 0 1 2 1 -
+p842
+aVChris Mullin GOS 11/05/1988 GOS vs. PHX W 38 30 11 21 52.4 1 2 50.0 7 7 100.0 1 10 11 6 3 1 3 1 -
+p843
+a.

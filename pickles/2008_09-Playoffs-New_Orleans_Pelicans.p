@@ -1,0 +1,110 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPeja Stojakovic NOH 04/29/2009 NOH @ DEN L 41 12 5 12 41.7 1 6 16.7 1 1 100.0 1 3 4 1 1 1 1 3 -28
+p2
+aVAntonio Daniels NOH 04/29/2009 NOH @ DEN L 9 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 0
+p3
+aVJulian Wright NOH 04/29/2009 NOH @ DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p4
+aVSean Marks NOH 04/29/2009 NOH @ DEN L 22 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 2 0 2 2 -15
+p5
+aVChris Paul NOH 04/29/2009 NOH @ DEN L 46 12 5 16 31.3 1 3 33.3 1 3 33.3 0 6 6 10 3 0 3 3 -24
+p6
+aVJames Posey NOH 04/29/2009 NOH @ DEN L 31 18 5 13 38.5 1 6 16.7 7 7 100.0 2 1 3 1 0 0 1 1 -12
+p7
+aVRasual Butler NOH 04/29/2009 NOH @ DEN L 31 7 3 11 27.3 0 4 0.0 1 1 100.0 2 0 2 1 0 1 3 2 -15
+p8
+aVDavid West NOH 04/29/2009 NOH @ DEN L 35 24 8 16 50.0 0 0 - 8 8 100.0 0 9 9 2 2 0 2 4 -9
+p9
+aVHilton Armstrong NOH 04/29/2009 NOH @ DEN L 18 7 2 3 66.7 0 0 - 3 6 50.0 3 3 6 1 0 1 1 6 -1
+p10
+aVRyan Bowen NOH 04/29/2009 NOH @ DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p11
+aVPeja Stojakovic NOH 04/27/2009 NOH vs. DEN L 30 10 2 9 22.2 0 5 0.0 6 6 100.0 2 3 5 0 1 0 2 3 -39
+p12
+aVHilton Armstrong NOH 04/27/2009 NOH vs. DEN L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 0 4 3 -20
+p13
+aVMorris Peterson NOH 04/27/2009 NOH vs. DEN L 12 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 2 -20
+p14
+aVRasual Butler NOH 04/27/2009 NOH vs. DEN L 25 9 2 6 33.3 1 3 33.3 4 4 100.0 0 4 4 0 0 1 1 1 -18
+p15
+aVJulian Wright NOH 04/27/2009 NOH vs. DEN L 12 4 1 1 100.0 0 0 - 2 4 50.0 0 3 3 0 0 0 1 1 -20
+p16
+aVDavid West NOH 04/27/2009 NOH vs. DEN L 30 14 4 10 40.0 0 0 - 6 6 100.0 0 3 3 0 0 0 4 3 -38
+p17
+aVSean Marks NOH 04/27/2009 NOH vs. DEN L 17 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -20
+p18
+aVAntonio Daniels NOH 04/27/2009 NOH vs. DEN L 18 5 0 2 0.0 0 0 - 5 6 83.3 0 0 0 2 2 0 3 0 -20
+p19
+aVDevin Brown NOH 04/27/2009 NOH vs. DEN L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -20
+p20
+aVChris Paul NOH 04/27/2009 NOH vs. DEN L 36 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 6 2 0 6 0 -38
+p21
+aVTyson Chandler NOH 04/27/2009 NOH vs. DEN L 13 0 0 2 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 4 -16
+p22
+aVJames Posey NOH 04/27/2009 NOH vs. DEN L 23 12 4 8 50.0 1 3 33.3 3 4 75.0 2 5 7 0 3 0 4 4 -21
+p23
+aVPeja Stojakovic NOH 04/25/2009 NOH vs. DEN W 32 4 1 9 11.1 0 4 0.0 2 2 100.0 0 3 3 0 2 0 1 4 -7
+p24
+aVJames Posey NOH 04/25/2009 NOH vs. DEN W 23 13 2 6 33.3 2 5 40.0 7 9 77.8 0 9 9 0 0 0 3 5 10
+p25
+aVTyson Chandler NOH 04/25/2009 NOH vs. DEN W 18 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 2 6 -9
+p26
+aVDavid West NOH 04/25/2009 NOH vs. DEN W 41 19 7 18 38.9 0 0 - 5 8 62.5 3 6 9 1 1 0 3 6 -11
+p27
+aVAntonio Daniels NOH 04/25/2009 NOH vs. DEN W 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 6
+p28
+aVRasual Butler NOH 04/25/2009 NOH vs. DEN W 41 17 5 8 62.5 3 4 75.0 4 4 100.0 1 4 5 0 1 0 0 3 0
+p29
+aVChris Paul NOH 04/25/2009 NOH vs. DEN W 46 32 11 20 55.0 2 6 33.3 8 9 88.9 0 5 5 12 1 0 6 1 3
+p30
+aVSean Marks NOH 04/25/2009 NOH vs. DEN W 26 8 3 5 60.0 0 0 - 2 3 66.7 3 3 6 0 1 2 0 3 18
+p31
+aVChris Paul NOH 04/22/2009 NOH @ DEN L 38 14 5 11 45.5 0 1 0.0 4 4 100.0 2 2 4 13 0 0 5 2 -15
+p32
+aVPeja Stojakovic NOH 04/22/2009 NOH @ DEN L 29 17 5 9 55.6 4 5 80.0 3 3 100.0 0 0 0 0 0 0 1 3 -11
+p33
+aVHilton Armstrong NOH 04/22/2009 NOH @ DEN L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p34
+aVJulian Wright NOH 04/22/2009 NOH @ DEN L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -2
+p35
+aVTyson Chandler NOH 04/22/2009 NOH @ DEN L 36 7 3 7 42.9 0 0 - 1 4 25.0 4 7 11 0 1 1 3 2 -21
+p36
+aVDavid West NOH 04/22/2009 NOH @ DEN L 40 21 9 20 45.0 0 0 - 3 3 100.0 1 9 10 2 0 2 4 4 -13
+p37
+aVSean Marks NOH 04/22/2009 NOH @ DEN L 8 2 1 2 50.0 0 1 0.0 0 0 - 2 1 3 0 0 0 0 0 6
+p38
+aVJames Posey NOH 04/22/2009 NOH @ DEN L 25 12 3 8 37.5 1 3 33.3 5 6 83.3 0 8 8 2 0 0 0 2 0
+p39
+aVRasual Butler NOH 04/22/2009 NOH @ DEN L 34 12 4 6 66.7 4 5 80.0 0 0 - 0 2 2 0 0 1 2 3 -25
+p40
+aVDevin Brown NOH 04/22/2009 NOH @ DEN L 8 4 2 3 66.7 0 1 0.0 0 0 - 2 0 2 0 0 0 0 0 6
+p41
+aVAntonio Daniels NOH 04/22/2009 NOH @ DEN L 10 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p42
+aVDavid West NOH 04/19/2009 NOH @ DEN L 32 12 4 16 25.0 0 0 - 4 4 100.0 1 5 6 1 2 0 1 2 -14
+p43
+aVDevin Brown NOH 04/19/2009 NOH @ DEN L 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 2 1 -12
+p44
+aVTyson Chandler NOH 04/19/2009 NOH @ DEN L 27 6 2 2 100.0 0 0 - 2 2 100.0 2 3 5 0 1 0 3 5 -17
+p45
+aVJulian Wright NOH 04/19/2009 NOH @ DEN L 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -3
+p46
+aVAntonio Daniels NOH 04/19/2009 NOH @ DEN L 14 5 1 3 33.3 1 2 50.0 2 3 66.7 1 1 2 4 0 1 2 0 -8
+p47
+aVMorris Peterson NOH 04/19/2009 NOH @ DEN L 9 5 1 4 25.0 1 2 50.0 2 2 100.0 1 2 3 1 1 0 0 1 -3
+p48
+aVJames Posey NOH 04/19/2009 NOH @ DEN L 21 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 0 0 0 2 0 -23
+p49
+aVRasual Butler NOH 04/19/2009 NOH @ DEN L 27 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 0 0 1 0 5 -14
+p50
+aVPeja Stojakovic NOH 04/19/2009 NOH @ DEN L 29 13 5 10 50.0 3 6 50.0 0 1 0.0 1 1 2 1 0 0 1 4 -19
+p51
+aVSean Marks NOH 04/19/2009 NOH @ DEN L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -1
+p52
+aVChris Paul NOH 04/19/2009 NOH @ DEN L 34 21 7 19 36.8 2 5 40.0 5 5 100.0 2 3 5 11 2 0 4 2 -21
+p53
+aVHilton Armstrong NOH 04/19/2009 NOH @ DEN L 18 6 3 7 42.9 0 0 - 0 4 0.0 0 1 1 0 2 0 1 5 -10
+p54
+a.

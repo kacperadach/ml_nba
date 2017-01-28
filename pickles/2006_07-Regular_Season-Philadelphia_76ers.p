@@ -1,0 +1,1654 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLou Williams PHI 04/18/2007 PHI @ TOR W 37 12 4 11 36.4 0 0 - 4 4 100.0 2 2 4 7 1 0 0 3 16
+p2
+aVLou Amundson PHI 04/18/2007 PHI @ TOR W 14 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 2 0 4 2
+p3
+aVBobby Jones PHI 04/18/2007 PHI @ TOR W 30 14 6 9 66.7 0 1 0.0 2 4 50.0 2 4 6 2 1 0 2 5 -6
+p4
+aVAndre Miller PHI 04/18/2007 PHI @ TOR W 48 29 8 15 53.3 0 1 0.0 13 15 86.7 1 8 9 8 1 0 4 3 3
+p5
+aVJoe Smith PHI 04/18/2007 PHI @ TOR W 41 26 11 17 64.7 0 0 - 4 4 100.0 4 7 11 4 0 1 0 3 1
+p6
+aVSamuel Dalembert PHI 04/18/2007 PHI @ TOR W 22 0 0 4 0.0 0 0 - 0 0 - 2 2 4 0 0 2 2 3 -3
+p7
+aVAlan Henderson PHI 04/18/2007 PHI @ TOR W 12 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -3
+p8
+aVWillie Green PHI 04/18/2007 PHI @ TOR W 36 37 14 25 56.0 5 7 71.4 4 4 100.0 0 3 3 1 1 0 7 4 5
+p9
+aVBobby Jones PHI 04/17/2007 PHI vs. CLE L 29 13 5 9 55.6 0 0 - 3 4 75.0 0 0 0 1 2 0 0 4 6
+p10
+aVAlan Henderson PHI 04/17/2007 PHI vs. CLE L 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -3
+p11
+aVSteven Hunter PHI 04/17/2007 PHI vs. CLE L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p12
+aVAndre Miller PHI 04/17/2007 PHI vs. CLE L 40 12 4 11 36.4 0 0 - 4 6 66.7 2 5 7 5 0 0 1 1 -13
+p13
+aVSamuel Dalembert PHI 04/17/2007 PHI vs. CLE L 38 11 4 9 44.4 0 0 - 3 4 75.0 4 6 10 1 0 2 4 4 -5
+p14
+aVWillie Green PHI 04/17/2007 PHI vs. CLE L 47 24 10 19 52.6 3 4 75.0 1 1 100.0 1 3 4 3 0 0 3 2 -5
+p15
+aVLou Williams PHI 04/17/2007 PHI vs. CLE L 28 13 2 8 25.0 1 2 50.0 8 9 88.9 0 3 3 7 0 0 4 2 -6
+p16
+aVJoe Smith PHI 04/17/2007 PHI vs. CLE L 38 17 6 13 46.2 0 0 - 5 5 100.0 1 12 13 1 1 0 4 0 1
+p17
+aVLou Amundson PHI 04/17/2007 PHI vs. CLE L 12 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 0 0 0 0 3 -5
+p18
+aVBobby Jones PHI 04/15/2007 PHI @ DET W 35 13 6 13 46.2 0 1 0.0 1 3 33.3 3 0 3 2 1 0 1 4 8
+p19
+aVSamuel Dalembert PHI 04/15/2007 PHI @ DET W 22 8 3 4 75.0 0 0 - 2 2 100.0 3 3 6 2 0 3 1 1 9
+p20
+aVWillie Green PHI 04/15/2007 PHI @ DET W 42 26 12 24 50.0 0 5 0.0 2 2 100.0 0 5 5 7 1 0 3 2 13
+p21
+aVAndre Miller PHI 04/15/2007 PHI @ DET W 31 12 4 11 36.4 0 1 0.0 4 4 100.0 0 3 3 9 1 0 2 0 13
+p22
+aVJoe Smith PHI 04/15/2007 PHI @ DET W 29 13 6 14 42.9 0 0 - 1 1 100.0 3 6 9 0 1 0 0 2 -1
+p23
+aVSteven Hunter PHI 04/15/2007 PHI @ DET W 27 16 8 10 80.0 0 0 - 0 0 - 3 5 8 1 0 0 0 2 13
+p24
+aVLou Amundson PHI 04/15/2007 PHI @ DET W 23 8 4 7 57.1 0 0 - 0 0 - 8 3 11 0 1 4 1 3 -1
+p25
+aVLou Williams PHI 04/15/2007 PHI @ DET W 31 6 2 12 16.7 1 2 50.0 1 2 50.0 2 4 6 4 1 0 1 2 1
+p26
+aVAndre Miller PHI 04/14/2007 PHI vs. ORL L 37 18 7 16 43.8 0 0 - 4 5 80.0 4 4 8 3 2 0 3 2 -11
+p27
+aVWillie Green PHI 04/14/2007 PHI vs. ORL L 23 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -11
+p28
+aVKyle Korver PHI 04/14/2007 PHI vs. ORL L 33 14 4 11 36.4 4 6 66.7 2 2 100.0 1 5 6 2 1 0 0 2 -4
+p29
+aVSteven Hunter PHI 04/14/2007 PHI vs. ORL L 30 11 5 7 71.4 0 0 - 1 1 100.0 2 4 6 0 0 0 2 4 -19
+p30
+aVAlan Henderson PHI 04/14/2007 PHI vs. ORL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p31
+aVAndre Iguodala PHI 04/14/2007 PHI vs. ORL L 40 14 3 12 25.0 1 3 33.3 7 11 63.6 1 2 3 5 3 0 7 0 -15
+p32
+aVSamuel Dalembert PHI 04/14/2007 PHI vs. ORL L 28 7 2 5 40.0 0 0 - 3 4 75.0 1 4 5 0 0 0 1 2 -15
+p33
+aVLou Williams PHI 04/14/2007 PHI vs. ORL L 17 14 5 6 83.3 1 2 50.0 3 5 60.0 0 0 0 2 1 0 2 2 -9
+p34
+aVJoe Smith PHI 04/14/2007 PHI vs. ORL L 27 7 2 11 18.2 0 0 - 3 4 75.0 3 5 8 3 0 0 0 2 0
+p35
+aVLou Amundson PHI 04/14/2007 PHI vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p36
+aVBobby Jones PHI 04/14/2007 PHI vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p37
+aVLou Williams PHI 04/11/2007 PHI @ BOS W 38 18 4 12 33.3 0 2 0.0 10 11 90.9 1 1 2 8 0 0 2 2 6
+p38
+aVAndre Miller PHI 04/11/2007 PHI @ BOS W 41 19 8 12 66.7 0 0 - 3 4 75.0 0 2 2 3 1 0 3 1 8
+p39
+aVSamuel Dalembert PHI 04/11/2007 PHI @ BOS W 37 11 5 6 83.3 0 1 0.0 1 1 100.0 5 2 7 5 0 0 6 3 -4
+p40
+aVBobby Jones PHI 04/11/2007 PHI @ BOS W 17 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 2 0 0 2 1
+p41
+aVKevin Ollie PHI 04/11/2007 PHI @ BOS W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p42
+aVJoe Smith PHI 04/11/2007 PHI @ BOS W 26 16 7 11 63.6 0 0 - 2 2 100.0 2 5 7 2 0 0 1 3 9
+p43
+aVLou Amundson PHI 04/11/2007 PHI @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p44
+aVSteven Hunter PHI 04/11/2007 PHI @ BOS W 39 20 8 13 61.5 0 0 - 4 9 44.4 3 4 7 1 1 0 0 2 16
+p45
+aVWillie Green PHI 04/11/2007 PHI @ BOS W 33 12 6 14 42.9 0 2 0.0 0 0 - 1 3 4 2 1 0 2 1 14
+p46
+aVLou Williams PHI 04/10/2007 PHI vs. IND W 30 18 6 11 54.5 0 1 0.0 6 8 75.0 0 5 5 2 0 0 3 0 4
+p47
+aVAlan Henderson PHI 04/10/2007 PHI vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p48
+aVJoe Smith PHI 04/10/2007 PHI vs. IND W 30 17 5 12 41.7 0 0 - 7 8 87.5 1 10 11 0 1 0 1 1 11
+p49
+aVLou Amundson PHI 04/10/2007 PHI vs. IND W 8 2 0 0 - 0 0 - 2 4 50.0 0 2 2 0 0 1 1 2 -9
+p50
+aVBobby Jones PHI 04/10/2007 PHI vs. IND W 25 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 0 1 3 5
+p51
+aVKevin Ollie PHI 04/10/2007 PHI vs. IND W 16 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p52
+aVSteven Hunter PHI 04/10/2007 PHI vs. IND W 26 7 3 4 75.0 0 0 - 1 2 50.0 3 5 8 0 0 0 1 4 0
+p53
+aVAndre Miller PHI 04/10/2007 PHI vs. IND W 36 19 6 12 50.0 0 1 0.0 7 8 87.5 1 4 5 11 2 1 3 2 8
+p54
+aVSamuel Dalembert PHI 04/10/2007 PHI vs. IND W 34 15 5 11 45.5 0 0 - 5 7 71.4 3 9 12 0 0 3 0 4 10
+p55
+aVWillie Green PHI 04/10/2007 PHI vs. IND W 35 8 3 9 33.3 0 0 - 2 2 100.0 2 0 2 2 0 0 1 4 -9
+p56
+aVSamuel Dalembert PHI 04/08/2007 PHI vs. ATL W 25 16 6 11 54.5 0 0 - 4 5 80.0 2 8 10 1 1 3 3 3 0
+p57
+aVLou Williams PHI 04/08/2007 PHI vs. ATL W 19 9 4 6 66.7 0 1 0.0 1 3 33.3 1 1 2 4 1 0 0 1 1
+p58
+aVAndre Miller PHI 04/08/2007 PHI vs. ATL W 41 5 2 9 22.2 0 1 0.0 1 2 50.0 4 2 6 6 1 0 2 4 6
+p59
+aVBobby Jones PHI 04/08/2007 PHI vs. ATL W 9 3 1 4 25.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 3 -4
+p60
+aVJoe Smith PHI 04/08/2007 PHI vs. ATL W 36 18 6 12 50.0 0 0 - 6 6 100.0 1 7 8 3 0 1 0 3 20
+p61
+aVSteven Hunter PHI 04/08/2007 PHI vs. ATL W 23 5 1 4 25.0 0 0 - 3 4 75.0 2 0 2 2 0 1 0 3 -13
+p62
+aVLou Amundson PHI 04/08/2007 PHI vs. ATL W 14 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 1 0 1 0 2 -2
+p63
+aVWillie Green PHI 04/08/2007 PHI vs. ATL W 33 14 5 14 35.7 1 6 16.7 3 3 100.0 0 1 1 1 2 1 3 3 5
+p64
+aVRodney Carney PHI 04/08/2007 PHI vs. ATL W 27 13 5 9 55.6 1 5 20.0 2 2 100.0 0 3 3 0 1 0 1 2 3
+p65
+aVAndre Iguodala PHI 04/08/2007 PHI vs. ATL W 38 25 6 11 54.5 0 1 0.0 13 14 92.9 1 3 4 8 1 0 2 2 9
+p66
+aVRodney Carney PHI 04/06/2007 PHI vs. TOR L 10 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 1 0 0 0 3 5
+p67
+aVSteven Hunter PHI 04/06/2007 PHI vs. TOR L 25 6 3 4 75.0 0 0 - 0 1 0.0 1 9 10 0 0 0 0 3 -12
+p68
+aVAndre Iguodala PHI 04/06/2007 PHI vs. TOR L 45 20 6 12 50.0 1 1 100.0 7 8 87.5 2 5 7 7 1 1 5 1 -12
+p69
+aVBobby Jones PHI 04/06/2007 PHI vs. TOR L 5 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 0
+p70
+aVSamuel Dalembert PHI 04/06/2007 PHI vs. TOR L 36 15 6 11 54.5 0 0 - 3 6 50.0 3 3 6 3 0 0 1 4 -7
+p71
+aVAndre Miller PHI 04/06/2007 PHI vs. TOR L 38 10 4 11 36.4 0 0 - 2 2 100.0 3 2 5 11 0 0 4 2 -10
+p72
+aVLou Williams PHI 04/06/2007 PHI vs. TOR L 12 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 0 1
+p73
+aVKyle Korver PHI 04/06/2007 PHI vs. TOR L 27 8 3 11 27.3 2 7 28.6 0 0 - 0 1 1 1 0 0 2 0 -7
+p74
+aVWillie Green PHI 04/06/2007 PHI vs. TOR L 30 12 5 14 35.7 2 4 50.0 0 2 0.0 0 2 2 0 1 1 2 5 1
+p75
+aVJoe Smith PHI 04/06/2007 PHI vs. TOR L 14 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 0 0 1 1 -4
+p76
+aVBobby Jones PHI 04/04/2007 PHI @ NYK W 9 3 1 3 33.3 0 1 0.0 1 4 25.0 0 0 0 0 0 0 1 2 -3
+p77
+aVSamuel Dalembert PHI 04/04/2007 PHI @ NYK W 33 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 2 0 1 6 2
+p78
+aVWillie Green PHI 04/04/2007 PHI @ NYK W 21 13 6 12 50.0 1 3 33.3 0 0 - 0 3 3 3 2 0 1 1 13
+p79
+aVKyle Korver PHI 04/04/2007 PHI @ NYK W 34 17 6 13 46.2 1 4 25.0 4 6 66.7 0 2 2 1 0 0 1 1 -9
+p80
+aVAndre Miller PHI 04/04/2007 PHI @ NYK W 32 14 5 12 41.7 0 1 0.0 4 4 100.0 0 4 4 7 3 1 0 0 12
+p81
+aVAndre Iguodala PHI 04/04/2007 PHI @ NYK W 36 18 7 13 53.8 0 2 0.0 4 5 80.0 1 4 5 2 3 1 2 3 5
+p82
+aVRodney Carney PHI 04/04/2007 PHI @ NYK W 26 9 2 6 33.3 0 2 0.0 5 6 83.3 0 3 3 1 1 1 1 4 -15
+p83
+aVLou Williams PHI 04/04/2007 PHI @ NYK W 18 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 6 0 0 1 1 -9
+p84
+aVSteven Hunter PHI 04/04/2007 PHI @ NYK W 32 12 6 7 85.7 0 0 - 0 3 0.0 0 2 2 0 0 1 2 1 14
+p85
+aVBobby Jones PHI 03/31/2007 PHI @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p86
+aVSamuel Dalembert PHI 03/31/2007 PHI @ NJN L 41 12 5 9 55.6 0 0 - 2 2 100.0 2 8 10 1 0 0 1 5 -2
+p87
+aVSteven Hunter PHI 03/31/2007 PHI @ NJN L 23 2 1 3 33.3 0 0 - 0 2 0.0 4 3 7 0 0 1 1 4 3
+p88
+aVRodney Carney PHI 03/31/2007 PHI @ NJN L 18 11 5 8 62.5 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 1 5
+p89
+aVJoe Smith PHI 03/31/2007 PHI @ NJN L 32 14 7 12 58.3 0 0 - 0 2 0.0 3 6 9 1 1 0 5 3 -9
+p90
+aVLou Williams PHI 03/31/2007 PHI @ NJN L 6 4 2 2 100.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 5
+p91
+aVAndre Miller PHI 03/31/2007 PHI @ NJN L 42 14 5 14 35.7 0 0 - 4 6 66.7 5 2 7 12 2 0 4 3 -9
+p92
+aVAndre Iguodala PHI 03/31/2007 PHI @ NJN L 34 13 5 12 41.7 0 2 0.0 3 4 75.0 0 2 2 6 0 1 1 5 -5
+p93
+aVWillie Green PHI 03/31/2007 PHI @ NJN L 11 3 1 5 20.0 0 0 - 1 4 25.0 0 0 0 0 1 0 0 0 -6
+p94
+aVKyle Korver PHI 03/31/2007 PHI @ NJN L 33 9 4 14 28.6 1 3 33.3 0 0 - 1 4 5 1 0 0 0 4 -7
+p95
+aVKyle Korver PHI 03/30/2007 PHI vs. BOS W 37 26 8 15 53.3 4 5 80.0 6 8 75.0 0 1 1 0 1 1 1 3 4
+p96
+aVLou Williams PHI 03/30/2007 PHI vs. BOS W 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 3 0 0 1 0 0
+p97
+aVSteven Hunter PHI 03/30/2007 PHI vs. BOS W 31 4 2 8 25.0 0 0 - 0 1 0.0 2 5 7 0 0 1 3 2 -9
+p98
+aVSamuel Dalembert PHI 03/30/2007 PHI vs. BOS W 37 12 6 11 54.5 0 0 - 0 0 - 4 9 13 1 0 1 8 4 6
+p99
+aVAndre Iguodala PHI 03/30/2007 PHI vs. BOS W 47 23 6 13 46.2 0 0 - 11 17 64.7 1 4 5 12 3 0 5 3 8
+p100
+aVJoe Smith PHI 03/30/2007 PHI vs. BOS W 21 10 3 9 33.3 0 0 - 4 4 100.0 3 3 6 0 0 1 2 2 11
+p101
+aVRodney Carney PHI 03/30/2007 PHI vs. BOS W 15 7 3 5 60.0 1 1 100.0 0 2 0.0 1 3 4 2 1 0 1 3 0
+p102
+aVAndre Miller PHI 03/30/2007 PHI vs. BOS W 41 3 0 5 0.0 0 1 0.0 3 4 75.0 0 3 3 5 2 0 3 3 10
+p103
+aVSamuel Dalembert PHI 03/28/2007 PHI @ WAS L 43 24 12 15 80.0 0 0 - 0 0 - 3 6 9 2 1 2 4 5 15
+p104
+aVAndre Miller PHI 03/28/2007 PHI @ WAS L 39 16 8 20 40.0 0 1 0.0 0 1 0.0 2 3 5 7 0 1 2 4 -2
+p105
+aVAndre Iguodala PHI 03/28/2007 PHI @ WAS L 47 26 10 22 45.5 4 7 57.1 2 2 100.0 2 5 7 15 1 1 6 3 -1
+p106
+aVLou Amundson PHI 03/28/2007 PHI @ WAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p107
+aVRodney Carney PHI 03/28/2007 PHI @ WAS L 33 11 5 10 50.0 1 3 33.3 0 2 0.0 0 5 5 1 0 0 0 1 -7
+p108
+aVKyle Korver PHI 03/28/2007 PHI @ WAS L 32 14 5 12 41.7 2 7 28.6 2 2 100.0 1 1 2 2 1 0 2 2 -14
+p109
+aVLou Williams PHI 03/28/2007 PHI @ WAS L 9 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 1 2 0 0 0 -5
+p110
+aVSteven Hunter PHI 03/28/2007 PHI @ WAS L 32 11 5 10 50.0 0 0 - 1 4 25.0 4 5 9 1 0 1 2 5 -1
+p111
+aVJoe Smith PHI 03/24/2007 PHI @ MIA W 35 12 4 10 40.0 0 1 0.0 4 4 100.0 3 10 13 1 2 0 3 4 9
+p112
+aVAndre Miller PHI 03/24/2007 PHI @ MIA W 38 9 4 8 50.0 0 0 - 1 1 100.0 1 1 2 5 1 0 2 4 -1
+p113
+aVWillie Green PHI 03/24/2007 PHI @ MIA W 26 13 5 9 55.6 2 4 50.0 1 2 50.0 0 1 1 2 0 0 1 0 -2
+p114
+aVRodney Carney PHI 03/24/2007 PHI @ MIA W 9 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 2
+p115
+aVSteven Hunter PHI 03/24/2007 PHI @ MIA W 37 7 2 5 40.0 0 0 - 3 5 60.0 2 4 6 1 0 2 2 6 -4
+p116
+aVSamuel Dalembert PHI 03/24/2007 PHI @ MIA W 15 12 4 6 66.7 0 0 - 4 5 80.0 0 3 3 0 1 2 2 5 6
+p117
+aVKyle Korver PHI 03/24/2007 PHI @ MIA W 24 17 5 12 41.7 3 7 42.9 4 5 80.0 2 3 5 2 2 0 0 1 9
+p118
+aVAndre Iguodala PHI 03/24/2007 PHI @ MIA W 46 19 5 14 35.7 1 5 20.0 8 11 72.7 1 7 8 6 1 1 4 3 12
+p119
+aVLou Williams PHI 03/24/2007 PHI @ MIA W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 9
+p120
+aVJoe Smith PHI 03/23/2007 PHI vs. CHA W 19 11 4 6 66.7 0 0 - 3 4 75.0 2 4 6 3 1 1 2 3 2
+p121
+aVRodney Carney PHI 03/23/2007 PHI vs. CHA W 30 11 5 9 55.6 1 2 50.0 0 0 - 0 1 1 3 2 1 2 2 6
+p122
+aVAndre Miller PHI 03/23/2007 PHI vs. CHA W 40 19 8 12 66.7 0 1 0.0 3 3 100.0 0 6 6 9 2 0 2 4 9
+p123
+aVLou Williams PHI 03/23/2007 PHI vs. CHA W 12 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 0 0 -3
+p124
+aVWillie Green PHI 03/23/2007 PHI vs. CHA W 35 18 7 18 38.9 2 2 100.0 2 3 66.7 2 4 6 3 0 0 2 5 10
+p125
+aVKyle Korver PHI 03/23/2007 PHI vs. CHA W 35 13 6 13 46.2 1 4 25.0 0 0 - 0 2 2 1 1 0 2 2 6
+p126
+aVSamuel Dalembert PHI 03/23/2007 PHI vs. CHA W 31 10 5 7 71.4 0 0 - 0 0 - 0 8 8 0 0 0 4 3 4
+p127
+aVSteven Hunter PHI 03/23/2007 PHI vs. CHA W 20 12 4 4 100.0 0 0 - 4 4 100.0 2 7 9 2 0 1 4 1 10
+p128
+aVBobby Jones PHI 03/23/2007 PHI vs. CHA W 3 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 3
+p129
+aVKevin Ollie PHI 03/23/2007 PHI vs. CHA W 15 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 2 1 1 0 2 -2
+p130
+aVLou Williams PHI 03/20/2007 PHI @ DET L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 0
+p131
+aVSteven Hunter PHI 03/20/2007 PHI @ DET L 19 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 2 -16
+p132
+aVBobby Jones PHI 03/20/2007 PHI @ DET L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p133
+aVWillie Green PHI 03/20/2007 PHI @ DET L 35 20 8 17 47.1 1 4 25.0 3 4 75.0 0 1 1 1 2 0 3 3 -7
+p134
+aVRodney Carney PHI 03/20/2007 PHI @ DET L 7 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 1 2 5 -6
+p135
+aVAndre Miller PHI 03/20/2007 PHI @ DET L 33 16 6 11 54.5 0 0 - 4 4 100.0 3 2 5 3 1 0 4 2 -12
+p136
+aVKevin Ollie PHI 03/20/2007 PHI @ DET L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p137
+aVAndre Iguodala PHI 03/20/2007 PHI @ DET L 32 6 3 8 37.5 0 0 - 0 0 - 2 1 3 2 1 0 2 2 -20
+p138
+aVSamuel Dalembert PHI 03/20/2007 PHI @ DET L 33 10 3 7 42.9 0 0 - 4 4 100.0 6 5 11 1 2 1 2 1 -16
+p139
+aVJoe Smith PHI 03/20/2007 PHI @ DET L 36 6 2 9 22.2 0 0 - 2 2 100.0 8 9 17 1 1 1 1 1 -12
+p140
+aVKyle Korver PHI 03/20/2007 PHI @ DET L 26 7 3 14 21.4 0 6 0.0 1 1 100.0 0 0 0 1 0 0 0 1 -9
+p141
+aVLou Williams PHI 03/18/2007 PHI vs. HOU L 23 12 5 10 50.0 0 0 - 2 2 100.0 0 4 4 2 1 0 1 0 -22
+p142
+aVLou Amundson PHI 03/18/2007 PHI vs. HOU L 6 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -8
+p143
+aVRodney Carney PHI 03/18/2007 PHI vs. HOU L 16 9 2 8 25.0 1 1 100.0 4 6 66.7 3 2 5 0 0 0 1 3 -18
+p144
+aVWillie Green PHI 03/18/2007 PHI vs. HOU L 26 8 4 12 33.3 0 2 0.0 0 0 - 0 2 2 1 1 0 0 2 -23
+p145
+aVAndre Iguodala PHI 03/18/2007 PHI vs. HOU L 28 6 2 10 20.0 0 0 - 2 2 100.0 0 4 4 4 0 1 4 0 -40
+p146
+aVAndre Miller PHI 03/18/2007 PHI vs. HOU L 25 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -28
+p147
+aVJoe Smith PHI 03/18/2007 PHI vs. HOU L 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -8
+p148
+aVKyle Korver PHI 03/18/2007 PHI vs. HOU L 25 17 7 15 46.7 3 5 60.0 0 0 - 1 2 3 0 0 0 1 1 -17
+p149
+aVSteven Hunter PHI 03/18/2007 PHI vs. HOU L 37 2 0 3 0.0 0 0 - 2 2 100.0 0 4 4 0 1 0 0 2 -48
+p150
+aVSamuel Dalembert PHI 03/18/2007 PHI vs. HOU L 24 12 4 7 57.1 0 0 - 4 4 100.0 1 3 4 1 1 2 0 3 -25
+p151
+aVBobby Jones PHI 03/18/2007 PHI vs. HOU L 13 4 1 5 20.0 0 2 0.0 2 2 100.0 1 2 3 0 0 0 2 3 -13
+p152
+aVKyle Korver PHI 03/16/2007 PHI vs. UTA W 30 9 3 9 33.3 0 4 0.0 3 3 100.0 0 3 3 1 0 0 2 4 -7
+p153
+aVWillie Green PHI 03/16/2007 PHI vs. UTA W 21 8 4 11 36.4 0 3 0.0 0 0 - 1 0 1 4 2 0 0 1 7
+p154
+aVAndre Miller PHI 03/16/2007 PHI vs. UTA W 37 16 8 11 72.7 0 0 - 0 0 - 2 5 7 7 2 0 5 1 4
+p155
+aVSteven Hunter PHI 03/16/2007 PHI vs. UTA W 37 7 3 8 37.5 0 0 - 1 2 50.0 5 6 11 0 0 3 2 2 -2
+p156
+aVSamuel Dalembert PHI 03/16/2007 PHI vs. UTA W 40 17 5 7 71.4 0 0 - 7 7 100.0 1 6 7 1 0 0 1 4 5
+p157
+aVLou Williams PHI 03/16/2007 PHI vs. UTA W 11 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 -3
+p158
+aVAndre Iguodala PHI 03/16/2007 PHI vs. UTA W 44 23 10 23 43.5 0 1 0.0 3 5 60.0 2 7 9 3 4 0 5 1 2
+p159
+aVJoe Smith PHI 03/16/2007 PHI vs. UTA W 19 7 3 10 30.0 0 0 - 1 3 33.3 3 2 5 0 1 0 0 3 -1
+p160
+aVSamuel Dalembert PHI 03/14/2007 PHI vs. CHI L 39 15 7 7 100.0 0 0 - 1 2 50.0 0 7 7 1 1 3 2 3 5
+p161
+aVSteven Hunter PHI 03/14/2007 PHI vs. CHI L 32 9 4 4 100.0 0 0 - 1 1 100.0 1 4 5 0 1 0 2 2 -3
+p162
+aVAndre Iguodala PHI 03/14/2007 PHI vs. CHI L 43 19 4 16 25.0 1 3 33.3 10 10 100.0 0 5 5 6 1 3 2 0 -1
+p163
+aVKyle Korver PHI 03/14/2007 PHI vs. CHI L 28 11 5 10 50.0 1 2 50.0 0 0 - 0 1 1 1 0 1 2 4 -5
+p164
+aVAndre Miller PHI 03/14/2007 PHI vs. CHI L 40 6 3 9 33.3 0 0 - 0 0 - 1 3 4 12 1 0 4 4 2
+p165
+aVWillie Green PHI 03/14/2007 PHI vs. CHI L 27 16 8 14 57.1 0 1 0.0 0 0 - 1 1 2 2 1 0 2 3 0
+p166
+aVRodney Carney PHI 03/14/2007 PHI vs. CHI L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p167
+aVLou Williams PHI 03/14/2007 PHI vs. CHI L 6 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 2 0 0 0 1 -1
+p168
+aVJoe Smith PHI 03/14/2007 PHI vs. CHI L 25 7 3 6 50.0 0 0 - 1 2 50.0 0 5 5 0 0 0 0 3 0
+p169
+aVSamuel Dalembert PHI 03/13/2007 PHI @ ATL L 27 7 3 5 60.0 0 0 - 1 2 50.0 3 3 6 2 0 3 3 3 -24
+p170
+aVSteven Hunter PHI 03/13/2007 PHI @ ATL L 18 5 1 4 25.0 0 0 - 3 4 75.0 2 0 2 0 0 1 0 3 -20
+p171
+aVLou Williams PHI 03/13/2007 PHI @ ATL L 20 13 5 8 62.5 1 3 33.3 2 2 100.0 0 2 2 4 1 0 0 1 13
+p172
+aVKevin Ollie PHI 03/13/2007 PHI @ ATL L 12 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 3 0 3
+p173
+aVLou Amundson PHI 03/13/2007 PHI @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p174
+aVAndre Iguodala PHI 03/13/2007 PHI @ ATL L 32 18 4 11 36.4 1 1 100.0 9 9 100.0 2 4 6 3 4 0 4 2 -23
+p175
+aVAndre Miller PHI 03/13/2007 PHI @ ATL L 27 10 5 13 38.5 0 0 - 0 0 - 1 2 3 4 0 0 2 1 -18
+p176
+aVRodney Carney PHI 03/13/2007 PHI @ ATL L 18 15 6 10 60.0 0 1 0.0 3 3 100.0 1 2 3 0 2 2 1 1 16
+p177
+aVKyle Korver PHI 03/13/2007 PHI @ ATL L 25 13 5 8 62.5 1 1 100.0 2 2 100.0 0 1 1 1 0 0 2 5 -1
+p178
+aVWillie Green PHI 03/13/2007 PHI @ ATL L 22 3 1 8 12.5 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 1 -22
+p179
+aVBobby Jones PHI 03/13/2007 PHI @ ATL L 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 1 0 0 0 8
+p180
+aVJoe Smith PHI 03/13/2007 PHI @ ATL L 29 0 0 5 0.0 0 0 - 0 0 - 0 6 6 1 2 0 0 3 6
+p181
+aVAndre Miller PHI 03/10/2007 PHI @ IND W 42 16 5 12 41.7 0 0 - 6 6 100.0 0 3 3 8 5 0 2 2 14
+p182
+aVSamuel Dalembert PHI 03/10/2007 PHI @ IND W 43 12 5 7 71.4 0 0 - 2 3 66.7 2 6 8 2 1 5 0 2 15
+p183
+aVKevin Ollie PHI 03/10/2007 PHI @ IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -10
+p184
+aVAndre Iguodala PHI 03/10/2007 PHI @ IND W 42 25 8 13 61.5 0 1 0.0 9 10 90.0 1 3 4 5 5 0 3 1 12
+p185
+aVKyle Korver PHI 03/10/2007 PHI @ IND W 23 14 3 11 27.3 1 1 100.0 7 7 100.0 0 1 1 0 0 0 2 3 -7
+p186
+aVWillie Green PHI 03/10/2007 PHI @ IND W 31 18 8 16 50.0 1 2 50.0 1 2 50.0 0 4 4 2 0 0 2 2 1
+p187
+aVJoe Smith PHI 03/10/2007 PHI @ IND W 23 7 2 5 40.0 0 0 - 3 3 100.0 2 3 5 1 0 1 2 1 -11
+p188
+aVSteven Hunter PHI 03/10/2007 PHI @ IND W 30 8 4 7 57.1 0 0 - 0 2 0.0 1 2 3 0 0 2 0 2 6
+p189
+aVAndre Iguodala PHI 03/09/2007 PHI vs. LAL W 46 31 11 18 61.1 3 3 100.0 6 7 85.7 1 7 8 3 2 0 2 2 18
+p190
+aVWillie Green PHI 03/09/2007 PHI vs. LAL W 27 6 2 8 25.0 0 1 0.0 2 4 50.0 2 1 3 1 0 0 0 0 -1
+p191
+aVSamuel Dalembert PHI 03/09/2007 PHI vs. LAL W 39 12 3 8 37.5 0 0 - 6 6 100.0 6 10 16 2 0 3 0 3 24
+p192
+aVSteven Hunter PHI 03/09/2007 PHI vs. LAL W 32 9 2 4 50.0 0 0 - 5 8 62.5 0 5 5 1 0 0 0 1 1
+p193
+aVKyle Korver PHI 03/09/2007 PHI vs. LAL W 32 18 7 13 53.8 4 5 80.0 0 0 - 0 4 4 3 2 0 2 2 7
+p194
+aVKevin Ollie PHI 03/09/2007 PHI vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p195
+aVJoe Smith PHI 03/09/2007 PHI vs. LAL W 20 9 3 5 60.0 0 0 - 3 4 75.0 2 2 4 2 1 0 1 3 5
+p196
+aVAndre Miller PHI 03/09/2007 PHI vs. LAL W 40 23 8 19 42.1 0 1 0.0 7 8 87.5 0 3 3 8 0 0 2 4 24
+p197
+aVWillie Green PHI 03/07/2007 PHI vs. SEA W 18 8 4 8 50.0 0 0 - 0 0 - 0 0 0 0 0 1 3 1 -2
+p198
+aVKyle Korver PHI 03/07/2007 PHI vs. SEA W 33 10 4 13 30.8 2 7 28.6 0 0 - 0 3 3 2 3 0 1 4 1
+p199
+aVAndre Iguodala PHI 03/07/2007 PHI vs. SEA W 45 25 10 21 47.6 0 2 0.0 5 8 62.5 2 9 11 10 0 0 6 1 7
+p200
+aVJoe Smith PHI 03/07/2007 PHI vs. SEA W 24 11 4 7 57.1 0 0 - 3 4 75.0 0 2 2 0 1 0 3 1 -7
+p201
+aVLou Williams PHI 03/07/2007 PHI vs. SEA W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -4
+p202
+aVKevin Ollie PHI 03/07/2007 PHI vs. SEA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p203
+aVAndre Miller PHI 03/07/2007 PHI vs. SEA W 39 17 7 12 58.3 0 0 - 3 4 75.0 0 4 4 3 1 0 3 4 9
+p204
+aVSteven Hunter PHI 03/07/2007 PHI vs. SEA W 32 13 6 7 85.7 0 0 - 1 5 20.0 5 3 8 0 1 1 0 1 6
+p205
+aVSamuel Dalembert PHI 03/07/2007 PHI vs. SEA W 41 8 4 9 44.4 0 0 - 0 0 - 8 12 20 1 1 2 1 2 7
+p206
+aVWillie Green PHI 03/04/2007 PHI vs. NJN W 32 20 10 20 50.0 0 1 0.0 0 1 0.0 1 6 7 2 1 0 3 1 1
+p207
+aVSamuel Dalembert PHI 03/04/2007 PHI vs. NJN W 28 5 2 8 25.0 0 0 - 1 1 100.0 4 7 11 1 0 1 1 3 3
+p208
+aVJoe Smith PHI 03/04/2007 PHI vs. NJN W 26 11 5 9 55.6 0 0 - 1 1 100.0 1 9 10 0 0 2 0 2 18
+p209
+aVLou Williams PHI 03/04/2007 PHI vs. NJN W 13 5 2 3 66.7 1 1 100.0 0 0 - 2 1 3 2 0 0 0 0 9
+p210
+aVBobby Jones PHI 03/04/2007 PHI vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p211
+aVAndre Iguodala PHI 03/04/2007 PHI vs. NJN W 43 21 6 11 54.5 1 2 50.0 8 10 80.0 0 5 5 6 5 0 5 3 7
+p212
+aVKyle Korver PHI 03/04/2007 PHI vs. NJN W 32 20 7 13 53.8 4 7 57.1 2 2 100.0 0 6 6 4 1 3 4 3 18
+p213
+aVSteven Hunter PHI 03/04/2007 PHI vs. NJN W 26 6 3 6 50.0 0 0 - 0 2 0.0 2 4 6 0 0 0 2 1 7
+p214
+aVAndre Miller PHI 03/04/2007 PHI vs. NJN W 39 11 5 11 45.5 0 0 - 1 2 50.0 5 3 8 12 0 0 6 2 6
+p215
+aVAndre Iguodala PHI 03/02/2007 PHI vs. MEM W 49 27 10 17 58.8 0 0 - 7 8 87.5 0 9 9 6 4 0 4 4 9
+p216
+aVKyle Korver PHI 03/02/2007 PHI vs. MEM W 34 27 8 13 61.5 3 5 60.0 8 8 100.0 0 0 0 2 4 0 1 3 5
+p217
+aVLou Williams PHI 03/02/2007 PHI vs. MEM W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 2 1 0 1 0 3
+p218
+aVAndre Miller PHI 03/02/2007 PHI vs. MEM W 45 11 3 7 42.9 0 1 0.0 5 6 83.3 0 1 1 12 2 0 2 2 2
+p219
+aVSamuel Dalembert PHI 03/02/2007 PHI vs. MEM W 28 10 4 9 44.4 0 0 - 2 2 100.0 2 5 7 0 1 2 1 5 10
+p220
+aVJoe Smith PHI 03/02/2007 PHI vs. MEM W 37 18 9 15 60.0 0 0 - 0 0 - 6 6 12 0 0 2 2 3 8
+p221
+aVSteven Hunter PHI 03/02/2007 PHI vs. MEM W 32 8 4 6 66.7 0 0 - 0 2 0.0 2 5 7 0 0 3 5 2 -7
+p222
+aVWillie Green PHI 03/02/2007 PHI vs. MEM W 32 16 7 14 50.0 0 3 0.0 2 2 100.0 1 2 3 2 1 0 5 2 -5
+p223
+aVWillie Green PHI 02/28/2007 PHI vs. PHX W 31 20 9 19 47.4 1 3 33.3 1 1 100.0 4 2 6 2 0 0 2 1 -3
+p224
+aVKyle Korver PHI 02/28/2007 PHI vs. PHX W 31 16 4 11 36.4 1 1 100.0 7 7 100.0 1 5 6 0 1 1 2 3 6
+p225
+aVSamuel Dalembert PHI 02/28/2007 PHI vs. PHX W 33 6 3 6 50.0 0 0 - 0 0 - 1 11 12 2 2 0 1 4 13
+p226
+aVLou Williams PHI 02/28/2007 PHI vs. PHX W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 2 1 0 1 1 6
+p227
+aVAndre Iguodala PHI 02/28/2007 PHI vs. PHX W 47 24 8 15 53.3 2 2 100.0 6 6 100.0 3 4 7 7 1 0 7 1 5
+p228
+aVAndre Miller PHI 02/28/2007 PHI vs. PHX W 34 12 5 15 33.3 0 0 - 2 2 100.0 2 1 3 6 1 0 2 2 -2
+p229
+aVSteven Hunter PHI 02/28/2007 PHI vs. PHX W 26 8 3 6 50.0 0 0 - 2 2 100.0 2 7 9 1 1 0 2 2 -1
+p230
+aVKevin Ollie PHI 02/28/2007 PHI vs. PHX W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p231
+aVJoe Smith PHI 02/28/2007 PHI vs. PHX W 23 6 3 11 27.3 0 0 - 0 0 - 3 2 5 1 0 0 3 4 1
+p232
+aVAndre Iguodala PHI 02/26/2007 PHI vs. SAC W 39 22 7 17 41.2 0 1 0.0 8 9 88.9 2 6 8 7 2 1 6 3 6
+p233
+aVSteven Hunter PHI 02/26/2007 PHI vs. SAC W 29 4 2 7 28.6 0 0 - 0 0 - 3 4 7 1 1 1 0 2 -4
+p234
+aVKyle Korver PHI 02/26/2007 PHI vs. SAC W 32 7 3 9 33.3 1 5 20.0 0 0 - 0 6 6 0 1 1 1 1 5
+p235
+aVWillie Green PHI 02/26/2007 PHI vs. SAC W 11 2 1 7 14.3 0 0 - 0 0 - 0 1 1 1 1 0 1 1 0
+p236
+aVLou Williams PHI 02/26/2007 PHI vs. SAC W 9 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -2
+p237
+aVJoe Smith PHI 02/26/2007 PHI vs. SAC W 26 7 3 4 75.0 0 0 - 1 1 100.0 0 8 8 3 3 0 2 5 6
+p238
+aVSamuel Dalembert PHI 02/26/2007 PHI vs. SAC W 39 20 8 15 53.3 0 0 - 4 7 57.1 7 10 17 0 1 1 1 2 13
+p239
+aVAndre Miller PHI 02/26/2007 PHI vs. SAC W 39 18 8 10 80.0 0 1 0.0 2 4 50.0 1 5 6 6 3 0 4 1 9
+p240
+aVRodney Carney PHI 02/26/2007 PHI vs. SAC W 16 5 2 11 18.2 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 2
+p241
+aVJoe Smith PHI 02/24/2007 PHI @ MIL L 23 8 2 7 28.6 0 0 - 4 4 100.0 3 6 9 1 1 2 1 1 -12
+p242
+aVBobby Jones PHI 02/24/2007 PHI @ MIL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 9
+p243
+aVSteven Hunter PHI 02/24/2007 PHI @ MIL L 28 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 4 3 -23
+p244
+aVAndre Miller PHI 02/24/2007 PHI @ MIL L 34 10 4 8 50.0 0 0 - 2 2 100.0 1 3 4 11 1 0 3 1 -15
+p245
+aVKyle Korver PHI 02/24/2007 PHI @ MIL L 22 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 1 0 0 3 2 -20
+p246
+aVAndre Iguodala PHI 02/24/2007 PHI @ MIL L 39 22 9 18 50.0 1 4 25.0 3 4 75.0 1 2 3 5 1 0 3 1 -21
+p247
+aVWillie Green PHI 02/24/2007 PHI @ MIL L 15 11 5 7 71.4 1 2 50.0 0 0 - 0 2 2 0 0 0 1 2 7
+p248
+aVLou Williams PHI 02/24/2007 PHI @ MIL L 14 8 2 3 66.7 0 1 0.0 4 6 66.7 0 1 1 1 0 0 2 2 -4
+p249
+aVSamuel Dalembert PHI 02/24/2007 PHI @ MIL L 31 15 7 10 70.0 0 0 - 1 1 100.0 3 3 6 0 0 0 3 1 -15
+p250
+aVRodney Carney PHI 02/24/2007 PHI @ MIL L 29 8 4 9 44.4 0 0 - 0 0 - 0 0 0 1 2 0 0 3 -1
+p251
+aVKyle Korver PHI 02/23/2007 PHI @ CHA L 33 21 5 12 41.7 3 8 37.5 8 8 100.0 1 3 4 2 3 0 3 3 -10
+p252
+aVAndre Miller PHI 02/23/2007 PHI @ CHA L 37 15 7 8 87.5 0 0 - 1 4 25.0 2 2 4 7 3 0 2 2 -4
+p253
+aVSteven Hunter PHI 02/23/2007 PHI @ CHA L 33 14 6 7 85.7 0 0 - 2 6 33.3 1 5 6 0 0 1 0 1 -17
+p254
+aVWillie Green PHI 02/23/2007 PHI @ CHA L 20 8 3 11 27.3 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 -4
+p255
+aVAndre Iguodala PHI 02/23/2007 PHI @ CHA L 33 10 3 12 25.0 0 2 0.0 4 7 57.1 2 2 4 1 1 2 3 4 -10
+p256
+aVBobby Jones PHI 02/23/2007 PHI @ CHA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p257
+aVLou Williams PHI 02/23/2007 PHI @ CHA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -11
+p258
+aVJoe Smith PHI 02/23/2007 PHI @ CHA L 20 8 4 6 66.7 0 0 - 0 0 - 3 3 6 2 0 0 1 3 -4
+p259
+aVRodney Carney PHI 02/23/2007 PHI @ CHA L 18 3 1 3 33.3 0 1 0.0 1 2 50.0 0 4 4 2 1 1 0 1 -11
+p260
+aVSamuel Dalembert PHI 02/23/2007 PHI @ CHA L 28 6 2 9 22.2 0 0 - 2 4 50.0 1 7 8 0 0 2 3 4 -3
+p261
+aVKevin Ollie PHI 02/23/2007 PHI @ CHA L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 2 0
+p262
+aVKyle Korver PHI 02/21/2007 PHI vs. NYK W 34 31 11 14 78.6 6 7 85.7 3 3 100.0 0 0 0 1 0 2 3 1 26
+p263
+aVAndre Iguodala PHI 02/21/2007 PHI vs. NYK W 37 10 1 9 11.1 0 0 - 8 10 80.0 1 3 4 9 2 2 3 2 3
+p264
+aVSamuel Dalembert PHI 02/21/2007 PHI vs. NYK W 30 2 1 4 25.0 0 0 - 0 1 0.0 2 7 9 0 0 2 3 6 5
+p265
+aVSteven Hunter PHI 02/21/2007 PHI vs. NYK W 31 11 4 7 57.1 0 0 - 3 4 75.0 3 6 9 1 0 0 0 1 0
+p266
+aVWillie Green PHI 02/21/2007 PHI vs. NYK W 11 8 4 7 57.1 0 0 - 0 0 - 0 5 5 3 2 0 0 0 17
+p267
+aVBobby Jones PHI 02/21/2007 PHI vs. NYK W 1 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p268
+aVAndre Miller PHI 02/21/2007 PHI vs. NYK W 36 19 7 10 70.0 0 0 - 5 6 83.3 0 3 3 5 1 0 4 3 9
+p269
+aVJoe Smith PHI 02/21/2007 PHI vs. NYK W 34 14 6 11 54.5 0 0 - 2 3 66.7 1 7 8 2 1 2 2 2 33
+p270
+aVRodney Carney PHI 02/21/2007 PHI vs. NYK W 14 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 -6
+p271
+aVLou Williams PHI 02/21/2007 PHI vs. NYK W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 3 0 0 1 2 11
+p272
+aVRodney Carney PHI 02/14/2007 PHI vs. WAS L 31 13 6 10 60.0 1 4 25.0 0 0 - 0 1 1 0 1 1 2 5 1
+p273
+aVAndre Iguodala PHI 02/14/2007 PHI vs. WAS L 45 14 3 15 20.0 1 4 25.0 7 9 77.8 1 7 8 13 0 1 5 4 -5
+p274
+aVSamuel Dalembert PHI 02/14/2007 PHI vs. WAS L 40 11 5 11 45.5 0 0 - 1 1 100.0 9 8 17 0 0 1 4 3 -3
+p275
+aVLou Williams PHI 02/14/2007 PHI vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p276
+aVAndre Miller PHI 02/14/2007 PHI vs. WAS L 40 13 5 15 33.3 0 1 0.0 3 4 75.0 3 1 4 9 2 0 3 3 -4
+p277
+aVKevin Ollie PHI 02/14/2007 PHI vs. WAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p278
+aVWillie Green PHI 02/14/2007 PHI vs. WAS L 14 2 1 7 14.3 0 0 - 0 0 - 0 2 2 0 1 0 2 2 -11
+p279
+aVKyle Korver PHI 02/14/2007 PHI vs. WAS L 30 18 6 12 50.0 3 7 42.9 3 4 75.0 0 5 5 1 0 0 1 3 -4
+p280
+aVJoe Smith PHI 02/14/2007 PHI vs. WAS L 37 12 3 8 37.5 0 0 - 6 7 85.7 4 5 9 1 0 0 1 2 -7
+p281
+aVAndre Miller PHI 02/11/2007 PHI vs. DAL L 33 16 6 10 60.0 0 1 0.0 4 4 100.0 1 2 3 3 0 0 3 2 -15
+p282
+aVWillie Green PHI 02/11/2007 PHI vs. DAL L 19 10 5 11 45.5 0 3 0.0 0 0 - 1 1 2 1 1 0 0 1 -4
+p283
+aVAndre Iguodala PHI 02/11/2007 PHI vs. DAL L 45 21 7 17 41.2 0 1 0.0 7 10 70.0 1 8 9 5 0 0 4 2 -10
+p284
+aVRodney Carney PHI 02/11/2007 PHI vs. DAL L 22 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 -6
+p285
+aVSteven Hunter PHI 02/11/2007 PHI vs. DAL L 16 7 3 6 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 -20
+p286
+aVBobby Jones PHI 02/11/2007 PHI vs. DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p287
+aVKyle Korver PHI 02/11/2007 PHI vs. DAL L 33 18 6 12 50.0 1 3 33.3 5 5 100.0 0 6 6 0 0 0 2 3 -9
+p288
+aVLou Williams PHI 02/11/2007 PHI vs. DAL L 15 4 2 6 33.3 0 1 0.0 0 1 0.0 0 0 0 4 1 0 0 0 -2
+p289
+aVJoe Smith PHI 02/11/2007 PHI vs. DAL L 23 6 3 7 42.9 0 0 - 0 1 0.0 1 4 5 0 2 0 1 4 -3
+p290
+aVSamuel Dalembert PHI 02/11/2007 PHI vs. DAL L 33 7 2 8 25.0 0 0 - 3 4 75.0 5 7 12 1 0 2 4 1 -11
+p291
+aVSteven Hunter PHI 02/09/2007 PHI vs. LAC L 22 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 2 2 -2
+p292
+aVSamuel Dalembert PHI 02/09/2007 PHI vs. LAC L 38 14 6 13 46.2 0 0 - 2 2 100.0 6 9 15 0 0 0 3 4 8
+p293
+aVAlan Henderson PHI 02/09/2007 PHI vs. LAC L 5 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 0
+p294
+aVKyle Korver PHI 02/09/2007 PHI vs. LAC L 30 15 5 10 50.0 2 5 40.0 3 3 100.0 1 4 5 3 0 0 2 3 -12
+p295
+aVAndre Miller PHI 02/09/2007 PHI vs. LAC L 40 10 3 10 30.0 0 0 - 4 4 100.0 1 4 5 6 2 0 4 2 4
+p296
+aVJoe Smith PHI 02/09/2007 PHI vs. LAC L 31 12 6 10 60.0 0 0 - 0 0 - 3 2 5 1 0 0 1 4 -6
+p297
+aVWillie Green PHI 02/09/2007 PHI vs. LAC L 10 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -3
+p298
+aVAndre Iguodala PHI 02/09/2007 PHI vs. LAC L 44 22 7 18 38.9 1 3 33.3 7 7 100.0 0 4 4 7 0 1 3 3 -1
+p299
+aVRodney Carney PHI 02/09/2007 PHI vs. LAC L 17 10 4 7 57.1 0 0 - 2 3 66.7 1 1 2 0 2 1 0 2 9
+p300
+aVLou Williams PHI 02/09/2007 PHI vs. LAC L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p301
+aVJoe Smith PHI 02/07/2007 PHI vs. CHA W 19 8 2 6 33.3 0 1 0.0 4 6 66.7 1 3 4 0 0 0 1 2 -2
+p302
+aVAndre Iguodala PHI 02/07/2007 PHI vs. CHA W 43 27 8 19 42.1 0 2 0.0 11 13 84.6 0 7 7 2 4 1 2 4 15
+p303
+aVSteven Hunter PHI 02/07/2007 PHI vs. CHA W 28 10 5 8 62.5 0 0 - 0 0 - 1 7 8 1 0 2 3 1 5
+p304
+aVKyle Korver PHI 02/07/2007 PHI vs. CHA W 23 7 2 5 40.0 1 3 33.3 2 2 100.0 1 6 7 1 0 1 2 3 11
+p305
+aVLou Williams PHI 02/07/2007 PHI vs. CHA W 12 3 1 3 33.3 1 1 100.0 0 2 0.0 0 1 1 3 1 0 1 1 0
+p306
+aVWillie Green PHI 02/07/2007 PHI vs. CHA W 20 8 3 10 30.0 0 1 0.0 2 3 66.7 0 3 3 2 0 0 2 2 -6
+p307
+aVAndre Miller PHI 02/07/2007 PHI vs. CHA W 36 13 5 7 71.4 0 0 - 3 4 75.0 0 3 3 8 0 0 0 3 9
+p308
+aVSamuel Dalembert PHI 02/07/2007 PHI vs. CHA W 32 4 2 9 22.2 0 0 - 0 1 0.0 5 8 13 1 0 4 3 5 4
+p309
+aVRodney Carney PHI 02/07/2007 PHI vs. CHA W 27 12 5 7 71.4 1 1 100.0 1 2 50.0 1 4 5 0 0 1 2 1 9
+p310
+aVAndre Miller PHI 02/05/2007 PHI vs. NJN W 40 18 8 13 61.5 0 0 - 2 2 100.0 0 3 3 5 2 0 3 3 -3
+p311
+aVKyle Korver PHI 02/05/2007 PHI vs. NJN W 26 9 3 14 21.4 2 6 33.3 1 2 50.0 1 1 2 0 0 0 1 4 2
+p312
+aVJoe Smith PHI 02/05/2007 PHI vs. NJN W 22 12 5 10 50.0 0 0 - 2 2 100.0 1 6 7 0 1 0 1 3 8
+p313
+aVLou Williams PHI 02/05/2007 PHI vs. NJN W 13 3 1 6 16.7 0 1 0.0 1 2 50.0 1 1 2 1 1 0 0 1 5
+p314
+aVSamuel Dalembert PHI 02/05/2007 PHI vs. NJN W 44 14 7 10 70.0 0 0 - 0 0 - 3 14 17 2 0 4 1 1 10
+p315
+aVRodney Carney PHI 02/05/2007 PHI vs. NJN W 24 6 3 7 42.9 0 3 0.0 0 0 - 0 3 3 1 1 0 1 1 0
+p316
+aVSteven Hunter PHI 02/05/2007 PHI vs. NJN W 38 13 5 8 62.5 0 0 - 3 4 75.0 1 4 5 0 0 1 0 0 -7
+p317
+aVAndre Iguodala PHI 02/05/2007 PHI vs. NJN W 48 23 8 18 44.4 1 3 33.3 6 8 75.0 1 6 7 15 1 0 3 5 11
+p318
+aVWillie Green PHI 02/05/2007 PHI vs. NJN W 10 2 1 5 20.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -12
+p319
+aVBobby Jones PHI 02/05/2007 PHI vs. NJN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p320
+aVAndre Miller PHI 02/02/2007 PHI vs. GSW L 38 19 7 13 53.8 0 0 - 5 5 100.0 1 1 2 4 4 0 3 1 -6
+p321
+aVLou Williams PHI 02/02/2007 PHI vs. GSW L 15 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 10
+p322
+aVJoe Smith PHI 02/02/2007 PHI vs. GSW L 21 13 6 9 66.7 0 0 - 1 1 100.0 2 1 3 0 0 0 0 2 10
+p323
+aVAndre Iguodala PHI 02/02/2007 PHI vs. GSW L 45 25 9 20 45.0 0 0 - 7 9 77.8 1 9 10 13 3 1 4 2 -6
+p324
+aVWillie Green PHI 02/02/2007 PHI vs. GSW L 21 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 3 1 -6
+p325
+aVKyle Korver PHI 02/02/2007 PHI vs. GSW L 36 7 2 7 28.6 1 2 50.0 2 2 100.0 0 10 10 2 1 1 0 2 11
+p326
+aVSteven Hunter PHI 02/02/2007 PHI vs. GSW L 5 0 0 2 0.0 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 -5
+p327
+aVRodney Carney PHI 02/02/2007 PHI vs. GSW L 31 15 6 10 60.0 1 1 100.0 2 2 100.0 2 1 3 0 1 0 1 5 -4
+p328
+aVSamuel Dalembert PHI 02/02/2007 PHI vs. GSW L 28 10 3 9 33.3 0 0 - 4 5 80.0 1 5 6 1 0 4 2 2 -9
+p329
+aVAndre Miller PHI 01/31/2007 PHI @ NOK W 39 14 6 11 54.5 0 0 - 2 2 100.0 1 2 3 5 0 0 0 1 17
+p330
+aVLou Williams PHI 01/31/2007 PHI @ NOK W 8 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -6
+p331
+aVJoe Smith PHI 01/31/2007 PHI @ NOK W 23 12 5 10 50.0 0 0 - 2 3 66.7 6 6 12 0 0 0 2 0 -2
+p332
+aVRodney Carney PHI 01/31/2007 PHI @ NOK W 21 4 0 6 0.0 0 2 0.0 4 6 66.7 0 5 5 1 1 0 1 2 4
+p333
+aVSamuel Dalembert PHI 01/31/2007 PHI @ NOK W 37 9 3 9 33.3 0 0 - 3 4 75.0 3 12 15 0 0 4 3 5 22
+p334
+aVKyle Korver PHI 01/31/2007 PHI @ NOK W 22 10 2 8 25.0 1 5 20.0 5 6 83.3 0 2 2 0 0 0 1 2 -7
+p335
+aVSteven Hunter PHI 01/31/2007 PHI @ NOK W 32 12 4 9 44.4 0 0 - 4 5 80.0 6 4 10 0 0 1 0 0 3
+p336
+aVWillie Green PHI 01/31/2007 PHI @ NOK W 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 9
+p337
+aVAndre Iguodala PHI 01/31/2007 PHI @ NOK W 43 22 8 16 50.0 2 2 100.0 4 5 80.0 0 9 9 7 0 1 2 2 15
+p338
+aVAndre Iguodala PHI 01/29/2007 PHI @ HOU L 33 19 7 12 58.3 0 3 0.0 5 5 100.0 1 1 2 4 2 0 3 1 -33
+p339
+aVLou Williams PHI 01/29/2007 PHI @ HOU L 20 11 5 6 83.3 0 1 0.0 1 2 50.0 0 2 2 4 1 0 2 1 5
+p340
+aVSteven Hunter PHI 01/29/2007 PHI @ HOU L 18 0 0 4 0.0 0 0 - 0 0 - 2 4 6 1 0 1 1 3 -16
+p341
+aVBobby Jones PHI 01/29/2007 PHI @ HOU L 12 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 3 0 0 0 1 17
+p342
+aVKyle Korver PHI 01/29/2007 PHI @ HOU L 30 16 6 13 46.2 2 4 50.0 2 2 100.0 1 3 4 1 1 0 4 1 -6
+p343
+aVWillie Green PHI 01/29/2007 PHI @ HOU L 8 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -13
+p344
+aVRodney Carney PHI 01/29/2007 PHI @ HOU L 26 11 5 10 50.0 0 0 - 1 3 33.3 1 2 3 0 0 1 0 2 9
+p345
+aVJoe Smith PHI 01/29/2007 PHI @ HOU L 28 2 0 6 0.0 0 0 - 2 2 100.0 2 6 8 0 1 1 2 3 -6
+p346
+aVSamuel Dalembert PHI 01/29/2007 PHI @ HOU L 29 13 6 15 40.0 0 0 - 1 2 50.0 6 5 11 1 0 0 0 1 -24
+p347
+aVAndre Miller PHI 01/29/2007 PHI @ HOU L 28 6 3 9 33.3 0 0 - 0 0 - 0 1 1 2 1 0 2 1 -26
+p348
+aVAlan Henderson PHI 01/29/2007 PHI @ HOU L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -12
+p349
+aVJoe Smith PHI 01/27/2007 PHI @ ATL W 24 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 2 1 1 1 4 7
+p350
+aVBobby Jones PHI 01/27/2007 PHI @ ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p351
+aVAndre Iguodala PHI 01/27/2007 PHI @ ATL W 40 24 7 16 43.8 0 2 0.0 10 13 76.9 1 4 5 4 2 0 2 4 23
+p352
+aVSteven Hunter PHI 01/27/2007 PHI @ ATL W 32 15 7 9 77.8 0 0 - 1 2 50.0 1 0 1 1 1 2 1 4 3
+p353
+aVAndre Miller PHI 01/27/2007 PHI @ ATL W 37 19 8 14 57.1 0 0 - 3 3 100.0 0 7 7 8 1 0 2 1 21
+p354
+aVLou Williams PHI 01/27/2007 PHI @ ATL W 11 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 3 0 0 0 1 -6
+p355
+aVWillie Green PHI 01/27/2007 PHI @ ATL W 9 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -16
+p356
+aVKyle Korver PHI 01/27/2007 PHI @ ATL W 33 11 4 11 36.4 3 5 60.0 0 0 - 0 5 5 1 0 0 1 3 15
+p357
+aVRodney Carney PHI 01/27/2007 PHI @ ATL W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 1 1 3 8
+p358
+aVSamuel Dalembert PHI 01/27/2007 PHI @ ATL W 38 19 8 11 72.7 0 0 - 3 3 100.0 2 8 10 2 1 7 7 0 19
+p359
+aVSamuel Dalembert PHI 01/26/2007 PHI vs. CLE L 27 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 0 0 2 2 4 -6
+p360
+aVAndre Iguodala PHI 01/26/2007 PHI vs. CLE L 43 22 6 12 50.0 0 1 0.0 10 15 66.7 1 5 6 7 3 1 5 2 2
+p361
+aVJoe Smith PHI 01/26/2007 PHI vs. CLE L 25 15 4 6 66.7 0 0 - 7 7 100.0 0 2 2 0 0 0 1 3 -4
+p362
+aVLou Williams PHI 01/26/2007 PHI vs. CLE L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p363
+aVKyle Korver PHI 01/26/2007 PHI vs. CLE L 30 13 3 13 23.1 1 4 25.0 6 8 75.0 1 1 2 1 3 0 4 3 -17
+p364
+aVAndre Miller PHI 01/26/2007 PHI vs. CLE L 42 12 5 11 45.5 0 1 0.0 2 2 100.0 3 9 12 13 1 0 5 2 -5
+p365
+aVAlan Henderson PHI 01/26/2007 PHI vs. CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p366
+aVRodney Carney PHI 01/26/2007 PHI vs. CLE L 34 14 6 10 60.0 2 4 50.0 0 0 - 0 1 1 1 0 2 1 3 -5
+p367
+aVBobby Jones PHI 01/26/2007 PHI vs. CLE L 4 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p368
+aVSteven Hunter PHI 01/26/2007 PHI vs. CLE L 24 12 6 8 75.0 0 0 - 0 2 0.0 1 1 2 0 1 2 0 2 -3
+p369
+aVAndre Miller PHI 01/24/2007 PHI @ CLE W 47 16 7 15 46.7 0 0 - 2 2 100.0 1 5 6 8 0 0 4 1 0
+p370
+aVSteven Hunter PHI 01/24/2007 PHI @ CLE W 49 11 4 7 57.1 0 0 - 3 4 75.0 4 5 9 3 1 1 1 4 -1
+p371
+aVSamuel Dalembert PHI 01/24/2007 PHI @ CLE W 42 20 9 15 60.0 0 0 - 2 2 100.0 3 7 10 0 1 1 1 6 2
+p372
+aVKyle Korver PHI 01/24/2007 PHI @ CLE W 41 13 3 10 30.0 1 4 25.0 6 6 100.0 0 6 6 1 1 0 3 3 10
+p373
+aVRodney Carney PHI 01/24/2007 PHI @ CLE W 28 18 7 10 70.0 3 3 100.0 1 1 100.0 0 2 2 0 1 0 3 5 -8
+p374
+aVAndre Iguodala PHI 01/24/2007 PHI @ CLE W 52 34 10 18 55.6 2 4 50.0 12 12 100.0 0 4 4 9 0 1 5 3 5
+p375
+aVJoe Smith PHI 01/24/2007 PHI @ CLE W 17 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 4
+p376
+aVLou Williams PHI 01/24/2007 PHI @ CLE W 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p377
+aVAndre Iguodala PHI 01/23/2007 PHI vs. NOK W 38 20 7 17 41.2 0 2 0.0 6 6 100.0 0 4 4 6 2 0 6 3 -1
+p378
+aVJoe Smith PHI 01/23/2007 PHI vs. NOK W 26 6 1 5 20.0 0 0 - 4 4 100.0 1 4 5 1 0 0 1 3 16
+p379
+aVKyle Korver PHI 01/23/2007 PHI vs. NOK W 35 25 8 13 61.5 3 3 100.0 6 6 100.0 0 4 4 4 0 0 2 2 12
+p380
+aVSamuel Dalembert PHI 01/23/2007 PHI vs. NOK W 27 10 4 8 50.0 0 0 - 2 2 100.0 1 6 7 1 0 1 1 4 2
+p381
+aVBobby Jones PHI 01/23/2007 PHI vs. NOK W 8 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 6
+p382
+aVKevin Ollie PHI 01/23/2007 PHI vs. NOK W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 2
+p383
+aVAndre Miller PHI 01/23/2007 PHI vs. NOK W 39 17 7 17 41.2 0 0 - 3 5 60.0 0 2 2 11 1 0 3 2 3
+p384
+aVRodney Carney PHI 01/23/2007 PHI vs. NOK W 32 13 6 10 60.0 1 3 33.3 0 0 - 1 4 5 0 1 1 0 2 -11
+p385
+aVSteven Hunter PHI 01/23/2007 PHI vs. NOK W 30 7 3 4 75.0 0 0 - 1 2 50.0 2 5 7 1 1 1 3 1 1
+p386
+aVSteven Hunter PHI 01/21/2007 PHI vs. SAS L 30 10 5 14 35.7 0 0 - 0 0 - 6 9 15 0 0 3 0 2 -7
+p387
+aVAndre Miller PHI 01/21/2007 PHI vs. SAS L 38 7 3 8 37.5 0 1 0.0 1 1 100.0 0 1 1 6 1 0 4 4 -15
+p388
+aVLou Williams PHI 01/21/2007 PHI vs. SAS L 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p389
+aVKyle Korver PHI 01/21/2007 PHI vs. SAS L 31 13 5 10 50.0 1 2 50.0 2 2 100.0 0 3 3 1 1 0 0 1 -9
+p390
+aVWillie Green PHI 01/21/2007 PHI vs. SAS L 33 10 5 13 38.5 0 1 0.0 0 0 - 1 1 2 2 0 1 0 1 -3
+p391
+aVSamuel Dalembert PHI 01/21/2007 PHI vs. SAS L 34 12 4 16 25.0 0 0 - 4 6 66.7 5 7 12 0 1 3 0 2 -7
+p392
+aVRodney Carney PHI 01/21/2007 PHI vs. SAS L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p393
+aVJoe Smith PHI 01/21/2007 PHI vs. SAS L 23 10 4 11 36.4 0 1 0.0 2 3 66.7 3 4 7 0 0 1 1 2 -6
+p394
+aVBobby Jones PHI 01/21/2007 PHI vs. SAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p395
+aVKevin Ollie PHI 01/21/2007 PHI vs. SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p396
+aVAndre Iguodala PHI 01/21/2007 PHI vs. SAS L 39 20 8 14 57.1 0 3 0.0 4 5 80.0 1 5 6 4 3 0 3 3 -11
+p397
+aVSamuel Dalembert PHI 01/19/2007 PHI vs. MIA W 24 15 6 10 60.0 0 0 - 3 3 100.0 0 5 5 0 0 3 2 6 7
+p398
+aVKevin Ollie PHI 01/19/2007 PHI vs. MIA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p399
+aVJoe Smith PHI 01/19/2007 PHI vs. MIA W 23 10 5 8 62.5 0 0 - 0 0 - 1 5 6 0 1 1 0 1 6
+p400
+aVSteven Hunter PHI 01/19/2007 PHI vs. MIA W 23 6 3 7 42.9 0 0 - 0 0 - 2 5 7 1 1 1 0 3 -6
+p401
+aVWillie Green PHI 01/19/2007 PHI vs. MIA W 38 16 5 15 33.3 1 3 33.3 5 8 62.5 0 3 3 4 2 0 0 2 -4
+p402
+aVAlan Henderson PHI 01/19/2007 PHI vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 2
+p403
+aVAndre Miller PHI 01/19/2007 PHI vs. MIA W 46 16 7 11 63.6 0 0 - 2 3 66.7 0 4 4 9 1 0 6 4 3
+p404
+aVAndre Iguodala PHI 01/19/2007 PHI vs. MIA W 46 16 4 12 33.3 0 3 0.0 8 8 100.0 0 7 7 9 5 0 6 3 8
+p405
+aVKyle Korver PHI 01/19/2007 PHI vs. MIA W 39 13 4 10 40.0 1 3 33.3 4 4 100.0 0 4 4 4 0 0 1 1 -2
+p406
+aVRodney Carney PHI 01/19/2007 PHI vs. MIA W 12 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 1
+p407
+aVKevin Ollie PHI 01/17/2007 PHI @ MEM L 14 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 0 0 0 0 7
+p408
+aVKyle Korver PHI 01/17/2007 PHI @ MEM L 33 30 11 17 64.7 5 9 55.6 3 3 100.0 0 0 0 2 2 1 2 4 -6
+p409
+aVBobby Jones PHI 01/17/2007 PHI @ MEM L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -6
+p410
+aVAndre Iguodala PHI 01/17/2007 PHI @ MEM L 22 4 2 4 50.0 0 0 - 0 0 - 0 1 1 5 1 0 2 5 -18
+p411
+aVRodney Carney PHI 01/17/2007 PHI @ MEM L 12 8 3 9 33.3 0 3 0.0 2 2 100.0 3 0 3 1 2 0 2 2 -10
+p412
+aVAndre Miller PHI 01/17/2007 PHI @ MEM L 27 7 3 6 50.0 0 0 - 1 2 50.0 0 3 3 5 1 0 0 3 -22
+p413
+aVJoe Smith PHI 01/17/2007 PHI @ MEM L 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 3 0 0 0 1 -6
+p414
+aVWillie Green PHI 01/17/2007 PHI @ MEM L 39 23 10 23 43.5 1 5 20.0 2 2 100.0 0 2 2 2 0 0 4 0 -13
+p415
+aVSteven Hunter PHI 01/17/2007 PHI @ MEM L 31 5 1 2 50.0 0 0 - 3 8 37.5 0 4 4 1 0 2 0 2 4
+p416
+aVLou Williams PHI 01/17/2007 PHI @ MEM L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -1
+p417
+aVSamuel Dalembert PHI 01/17/2007 PHI @ MEM L 36 17 6 8 75.0 0 0 - 5 5 100.0 2 8 10 0 0 2 4 4 -13
+p418
+aVAlan Henderson PHI 01/17/2007 PHI @ MEM L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 4
+p419
+aVKevin Ollie PHI 01/15/2007 PHI vs. TOR L 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 2
+p420
+aVSteven Hunter PHI 01/15/2007 PHI vs. TOR L 14 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -7
+p421
+aVWillie Green PHI 01/15/2007 PHI vs. TOR L 30 13 6 14 42.9 1 2 50.0 0 0 - 0 0 0 1 1 0 2 1 -16
+p422
+aVBobby Jones PHI 01/15/2007 PHI vs. TOR L 16 6 2 3 66.7 0 0 - 2 3 66.7 0 2 2 0 2 0 0 1 2
+p423
+aVJoe Smith PHI 01/15/2007 PHI vs. TOR L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 5 5 1 0 0 0 2 -9
+p424
+aVLou Williams PHI 01/15/2007 PHI vs. TOR L 13 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 3 1 0 4 1 6
+p425
+aVAndre Iguodala PHI 01/15/2007 PHI vs. TOR L 30 15 6 12 50.0 1 3 33.3 2 2 100.0 1 2 3 3 2 0 3 1 -19
+p426
+aVSamuel Dalembert PHI 01/15/2007 PHI vs. TOR L 22 13 5 7 71.4 0 0 - 3 3 100.0 2 4 6 1 1 2 4 5 -14
+p427
+aVAndre Miller PHI 01/15/2007 PHI vs. TOR L 26 8 4 7 57.1 0 0 - 0 0 - 1 1 2 7 1 0 2 0 -18
+p428
+aVRodney Carney PHI 01/15/2007 PHI vs. TOR L 15 11 5 11 45.5 1 3 33.3 0 1 0.0 1 1 2 1 0 0 1 2 3
+p429
+aVAlan Henderson PHI 01/15/2007 PHI vs. TOR L 12 3 0 0 - 0 0 - 3 4 75.0 1 2 3 0 0 0 1 0 3
+p430
+aVKyle Korver PHI 01/15/2007 PHI vs. TOR L 32 2 1 4 25.0 0 0 - 0 1 0.0 0 6 6 3 1 0 3 4 -23
+p431
+aVSteven Hunter PHI 01/13/2007 PHI @ CHA L 12 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 1 -14
+p432
+aVAlan Henderson PHI 01/13/2007 PHI @ CHA L 11 4 2 2 100.0 0 0 - 0 2 0.0 2 2 4 0 0 0 0 2 -17
+p433
+aVKyle Korver PHI 01/13/2007 PHI @ CHA L 21 15 5 11 45.5 1 2 50.0 4 5 80.0 0 3 3 1 2 0 4 6 -5
+p434
+aVAndre Miller PHI 01/13/2007 PHI @ CHA L 40 9 4 12 33.3 0 1 0.0 1 1 100.0 1 3 4 7 0 0 2 3 8
+p435
+aVBobby Jones PHI 01/13/2007 PHI @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p436
+aVAndre Iguodala PHI 01/13/2007 PHI @ CHA L 36 14 2 9 22.2 0 0 - 10 12 83.3 0 8 8 1 0 1 5 5 0
+p437
+aVRodney Carney PHI 01/13/2007 PHI @ CHA L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p438
+aVSamuel Dalembert PHI 01/13/2007 PHI @ CHA L 36 12 5 10 50.0 0 0 - 2 2 100.0 6 9 15 1 0 3 2 0 8
+p439
+aVJoe Smith PHI 01/13/2007 PHI @ CHA L 30 6 2 8 25.0 0 0 - 2 3 66.7 1 6 7 0 0 0 1 0 8
+p440
+aVKevin Ollie PHI 01/13/2007 PHI @ CHA L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -14
+p441
+aVLou Williams PHI 01/13/2007 PHI @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p442
+aVWillie Green PHI 01/13/2007 PHI @ CHA L 43 19 7 16 43.8 1 4 25.0 4 6 66.7 0 5 5 2 0 0 2 1 2
+p443
+aVJoe Smith PHI 01/12/2007 PHI vs. MIL W 21 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 1 2 -9
+p444
+aVKyle Korver PHI 01/12/2007 PHI vs. MIL W 33 17 6 14 42.9 2 7 28.6 3 4 75.0 0 6 6 2 0 0 1 1 17
+p445
+aVSamuel Dalembert PHI 01/12/2007 PHI vs. MIL W 36 16 6 11 54.5 0 0 - 4 6 66.7 3 5 8 2 0 4 3 6 12
+p446
+aVAndre Iguodala PHI 01/12/2007 PHI vs. MIL W 43 26 6 18 33.3 1 4 25.0 13 13 100.0 2 4 6 6 5 0 3 4 17
+p447
+aVKevin Ollie PHI 01/12/2007 PHI vs. MIL W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -12
+p448
+aVRodney Carney PHI 01/12/2007 PHI vs. MIL W 6 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -1
+p449
+aVAlan Henderson PHI 01/12/2007 PHI vs. MIL W 11 6 2 2 100.0 0 0 - 2 3 66.7 3 2 5 0 0 1 0 0 5
+p450
+aVAndre Miller PHI 01/12/2007 PHI vs. MIL W 39 11 4 10 40.0 0 0 - 3 4 75.0 0 2 2 11 2 0 1 2 22
+p451
+aVWillie Green PHI 01/12/2007 PHI vs. MIL W 40 30 13 19 68.4 4 4 100.0 0 0 - 0 1 1 4 0 0 0 1 14
+p452
+aVAndre Miller PHI 01/10/2007 PHI @ NYK L 34 10 3 9 33.3 0 0 - 4 4 100.0 1 3 4 5 2 0 4 1 -15
+p453
+aVSamuel Dalembert PHI 01/10/2007 PHI @ NYK L 32 18 8 12 66.7 0 0 - 2 2 100.0 7 1 8 0 1 3 3 4 -4
+p454
+aVKyle Korver PHI 01/10/2007 PHI @ NYK L 35 14 6 16 37.5 2 7 28.6 0 0 - 0 2 2 3 1 0 1 1 -6
+p455
+aVWillie Green PHI 01/10/2007 PHI @ NYK L 24 12 6 16 37.5 0 1 0.0 0 0 - 0 2 2 3 0 0 0 5 -1
+p456
+aVAndre Iguodala PHI 01/10/2007 PHI @ NYK L 35 13 3 12 25.0 1 4 25.0 6 6 100.0 1 5 6 4 0 0 3 5 -17
+p457
+aVAlan Henderson PHI 01/10/2007 PHI @ NYK L 16 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p458
+aVJoe Smith PHI 01/10/2007 PHI @ NYK L 27 16 6 13 46.2 0 0 - 4 4 100.0 3 2 5 2 2 0 0 3 -15
+p459
+aVBobby Jones PHI 01/10/2007 PHI @ NYK L 8 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 0 0 2 11
+p460
+aVLou Williams PHI 01/10/2007 PHI @ NYK L 1 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 5
+p461
+aVKevin Ollie PHI 01/10/2007 PHI @ NYK L 14 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 2 5
+p462
+aVRodney Carney PHI 01/10/2007 PHI @ NYK L 14 3 1 3 33.3 0 1 0.0 1 3 33.3 1 0 1 1 3 0 1 1 4
+p463
+aVBobby Jones PHI 01/09/2007 PHI vs. DET L 6 7 3 6 50.0 1 1 100.0 0 0 - 1 1 2 0 1 0 0 1 9
+p464
+aVJoe Smith PHI 01/09/2007 PHI vs. DET L 32 13 5 11 45.5 0 1 0.0 3 4 75.0 7 3 10 0 0 0 2 1 -11
+p465
+aVAndre Miller PHI 01/09/2007 PHI vs. DET L 34 6 3 11 27.3 0 0 - 0 0 - 1 3 4 10 1 0 3 2 -8
+p466
+aVAlan Henderson PHI 01/09/2007 PHI vs. DET L 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p467
+aVKevin Ollie PHI 01/09/2007 PHI vs. DET L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -13
+p468
+aVWillie Green PHI 01/09/2007 PHI vs. DET L 20 16 7 12 58.3 1 2 50.0 1 2 50.0 0 1 1 1 2 0 1 2 1
+p469
+aVLou Williams PHI 01/09/2007 PHI vs. DET L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 2 0 0 1 1 6
+p470
+aVAndre Iguodala PHI 01/09/2007 PHI vs. DET L 39 15 6 12 50.0 0 1 0.0 3 6 50.0 0 2 2 7 3 0 3 1 -12
+p471
+aVKyle Korver PHI 01/09/2007 PHI vs. DET L 25 8 4 10 40.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 1 5
+p472
+aVRodney Carney PHI 01/09/2007 PHI vs. DET L 15 5 2 5 40.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -9
+p473
+aVSamuel Dalembert PHI 01/09/2007 PHI vs. DET L 39 14 6 12 50.0 0 0 - 2 2 100.0 8 9 17 2 1 4 2 2 -8
+p474
+aVAlan Henderson PHI 01/05/2007 PHI @ MIN L 24 7 3 3 100.0 0 0 - 1 1 100.0 2 3 5 1 0 0 0 2 -2
+p475
+aVAndre Miller PHI 01/05/2007 PHI @ MIN L 44 18 7 14 50.0 0 0 - 4 4 100.0 3 4 7 11 0 0 3 1 -3
+p476
+aVSamuel Dalembert PHI 01/05/2007 PHI @ MIN L 35 11 5 6 83.3 0 0 - 1 1 100.0 1 7 8 0 2 4 4 3 -2
+p477
+aVSteven Hunter PHI 01/05/2007 PHI @ MIN L 20 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 1 1 1 0
+p478
+aVJoe Smith PHI 01/05/2007 PHI @ MIN L 27 0 0 4 0.0 0 0 - 0 0 - 2 4 6 0 1 0 2 5 0
+p479
+aVKevin Ollie PHI 01/05/2007 PHI @ MIN L 10 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p480
+aVWillie Green PHI 01/05/2007 PHI @ MIN L 12 5 2 7 28.6 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -8
+p481
+aVKyle Korver PHI 01/05/2007 PHI @ MIN L 35 25 9 18 50.0 1 5 20.0 6 6 100.0 1 2 3 1 1 0 1 1 6
+p482
+aVRodney Carney PHI 01/05/2007 PHI @ MIN L 15 7 2 5 40.0 1 1 100.0 2 2 100.0 1 1 2 0 1 0 2 1 -4
+p483
+aVAndre Iguodala PHI 01/05/2007 PHI @ MIN L 43 23 8 23 34.8 0 2 0.0 7 9 77.8 1 6 7 9 1 0 1 2 4
+p484
+aVWillie Green PHI 01/03/2007 PHI @ UTA L 20 9 3 7 42.9 0 2 0.0 3 4 75.0 0 0 0 1 0 0 1 2 -8
+p485
+aVAlan Henderson PHI 01/03/2007 PHI @ UTA L 11 5 1 1 100.0 0 0 - 3 3 100.0 1 2 3 0 1 0 1 3 4
+p486
+aVRodney Carney PHI 01/03/2007 PHI @ UTA L 20 7 2 6 33.3 0 0 - 3 4 75.0 1 1 2 0 0 1 2 1 -3
+p487
+aVAndre Iguodala PHI 01/03/2007 PHI @ UTA L 35 16 6 13 46.2 0 2 0.0 4 5 80.0 0 4 4 4 1 0 5 2 -12
+p488
+aVLou Williams PHI 01/03/2007 PHI @ UTA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p489
+aVKevin Ollie PHI 01/03/2007 PHI @ UTA L 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 0 -4
+p490
+aVKyle Korver PHI 01/03/2007 PHI @ UTA L 31 10 3 7 42.9 0 0 - 4 4 100.0 0 2 2 3 2 0 0 2 -5
+p491
+aVSamuel Dalembert PHI 01/03/2007 PHI @ UTA L 24 8 4 5 80.0 0 0 - 0 0 - 0 5 5 1 2 0 2 3 -8
+p492
+aVBobby Jones PHI 01/03/2007 PHI @ UTA L 1 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p493
+aVAndre Miller PHI 01/03/2007 PHI @ UTA L 40 17 7 14 50.0 1 1 100.0 2 2 100.0 1 6 7 5 2 0 3 4 -6
+p494
+aVJoe Smith PHI 01/03/2007 PHI @ UTA L 34 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 0 0 0 3 6 -14
+p495
+aVSteven Hunter PHI 01/03/2007 PHI @ UTA L 17 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 1 2 2 -1
+p496
+aVAndre Miller PHI 01/02/2007 PHI @ DEN W 40 17 7 18 38.9 0 0 - 3 4 75.0 3 1 4 10 4 1 2 3 12
+p497
+aVSteven Hunter PHI 01/02/2007 PHI @ DEN W 20 13 5 6 83.3 0 0 - 3 4 75.0 5 2 7 0 0 2 2 3 9
+p498
+aVAndre Iguodala PHI 01/02/2007 PHI @ DEN W 40 7 2 8 25.0 0 1 0.0 3 4 75.0 0 7 7 10 4 0 2 4 9
+p499
+aVJoe Smith PHI 01/02/2007 PHI @ DEN W 25 12 4 9 44.4 0 0 - 4 4 100.0 3 5 8 1 2 1 0 1 7
+p500
+aVSamuel Dalembert PHI 01/02/2007 PHI @ DEN W 19 10 4 6 66.7 0 0 - 2 4 50.0 0 6 6 1 0 0 1 4 6
+p501
+aVWillie Green PHI 01/02/2007 PHI @ DEN W 25 10 5 11 45.5 0 0 - 0 0 - 2 1 3 1 1 0 1 2 -12
+p502
+aVKevin Ollie PHI 01/02/2007 PHI @ DEN W 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p503
+aVRodney Carney PHI 01/02/2007 PHI @ DEN W 17 8 2 7 28.6 0 2 0.0 4 4 100.0 0 1 1 0 3 0 1 0 7
+p504
+aVKyle Korver PHI 01/02/2007 PHI @ DEN W 36 26 10 20 50.0 2 5 40.0 4 4 100.0 0 4 4 4 1 1 2 4 6
+p505
+aVAlan Henderson PHI 01/02/2007 PHI @ DEN W 7 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 10
+p506
+aVKyle Korver PHI 12/31/2006 PHI @ LAL L 44 29 10 18 55.6 5 9 55.6 4 4 100.0 2 6 8 1 1 0 2 3 -8
+p507
+aVBobby Jones PHI 12/31/2006 PHI @ LAL L 7 4 2 4 50.0 0 0 - 0 2 0.0 1 1 2 1 0 1 0 0 2
+p508
+aVLou Williams PHI 12/31/2006 PHI @ LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p509
+aVSteven Hunter PHI 12/31/2006 PHI @ LAL L 14 2 1 3 33.3 0 0 - 0 2 0.0 1 3 4 1 1 2 1 2 -13
+p510
+aVAlan Henderson PHI 12/31/2006 PHI @ LAL L 9 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -6
+p511
+aVRodney Carney PHI 12/31/2006 PHI @ LAL L 14 7 3 7 42.9 1 2 50.0 0 0 - 0 2 2 1 1 0 1 4 -2
+p512
+aVSamuel Dalembert PHI 12/31/2006 PHI @ LAL L 29 6 3 9 33.3 0 0 - 0 0 - 4 7 11 2 2 1 0 2 7
+p513
+aVWillie Green PHI 12/31/2006 PHI @ LAL L 15 6 2 9 22.2 0 2 0.0 2 2 100.0 2 0 2 0 1 0 0 0 -5
+p514
+aVAndre Miller PHI 12/31/2006 PHI @ LAL L 38 13 5 13 38.5 0 0 - 3 4 75.0 1 1 2 8 0 0 1 3 -13
+p515
+aVKevin Ollie PHI 12/31/2006 PHI @ LAL L 25 6 1 4 25.0 0 0 - 4 4 100.0 0 0 0 1 1 0 2 2 -3
+p516
+aVAndre Iguodala PHI 12/31/2006 PHI @ LAL L 43 19 4 10 40.0 0 1 0.0 11 12 91.7 1 7 8 6 1 0 2 3 -13
+p517
+aVJoe Smith PHI 12/29/2006 PHI @ POR W 12 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 1 -1
+p518
+aVAndre Iguodala PHI 12/29/2006 PHI @ POR W 46 32 11 21 52.4 0 3 0.0 10 13 76.9 1 4 5 5 5 0 2 2 2
+p519
+aVAndre Miller PHI 12/29/2006 PHI @ POR W 44 25 9 17 52.9 0 0 - 7 13 53.8 2 5 7 10 0 0 2 4 3
+p520
+aVKyle Korver PHI 12/29/2006 PHI @ POR W 32 19 8 15 53.3 3 4 75.0 0 0 - 0 3 3 0 0 1 0 1 1
+p521
+aVSamuel Dalembert PHI 12/29/2006 PHI @ POR W 27 10 4 9 44.4 0 0 - 2 3 66.7 4 5 9 1 3 0 1 2 11
+p522
+aVSteven Hunter PHI 12/29/2006 PHI @ POR W 12 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 3
+p523
+aVRodney Carney PHI 12/29/2006 PHI @ POR W 20 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 6
+p524
+aVBobby Jones PHI 12/29/2006 PHI @ POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p525
+aVKevin Ollie PHI 12/29/2006 PHI @ POR W 18 3 1 4 25.0 0 0 - 1 2 50.0 0 0 0 5 0 0 1 1 -4
+p526
+aVAlan Henderson PHI 12/29/2006 PHI @ POR W 25 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 1 0 1 0 2 0
+p527
+aVSteven Hunter PHI 12/27/2006 PHI @ SAC L 22 9 4 4 100.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 1 -23
+p528
+aVKyle Korver PHI 12/27/2006 PHI @ SAC L 26 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 1 1 0 1 2 -27
+p529
+aVAndre Iguodala PHI 12/27/2006 PHI @ SAC L 37 15 5 6 83.3 0 0 - 5 5 100.0 1 2 3 3 0 0 0 2 -11
+p530
+aVChris Webber PHI 12/27/2006 PHI @ SAC L 26 4 2 9 22.2 0 0 - 0 0 - 1 6 7 6 1 1 1 2 -2
+p531
+aVLou Williams PHI 12/27/2006 PHI @ SAC L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p532
+aVSamuel Dalembert PHI 12/27/2006 PHI @ SAC L 26 12 3 4 75.0 0 0 - 6 9 66.7 2 6 8 0 0 0 0 2 -2
+p533
+aVJoe Smith PHI 12/27/2006 PHI @ SAC L 14 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 0 2 2 -16
+p534
+aVBobby Jones PHI 12/27/2006 PHI @ SAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p535
+aVRodney Carney PHI 12/27/2006 PHI @ SAC L 36 12 5 15 33.3 0 0 - 2 4 50.0 3 1 4 0 0 0 2 0 -13
+p536
+aVKevin Ollie PHI 12/27/2006 PHI @ SAC L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -16
+p537
+aVAndre Miller PHI 12/27/2006 PHI @ SAC L 34 14 5 19 26.3 0 2 0.0 4 5 80.0 1 2 3 5 1 1 4 3 -7
+p538
+aVAndre Iguodala PHI 12/26/2006 PHI @ GSW L 28 14 3 8 37.5 1 2 50.0 7 8 87.5 0 3 3 2 4 1 1 2 -26
+p539
+aVKevin Ollie PHI 12/26/2006 PHI @ GSW L 25 9 2 6 33.3 0 0 - 5 5 100.0 0 5 5 4 1 0 2 3 5
+p540
+aVLou Williams PHI 12/26/2006 PHI @ GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p541
+aVKyle Korver PHI 12/26/2006 PHI @ GSW L 31 7 3 9 33.3 1 4 25.0 0 0 - 0 4 4 0 1 0 4 3 3
+p542
+aVJoe Smith PHI 12/26/2006 PHI @ GSW L 21 12 4 9 44.4 0 0 - 4 4 100.0 2 3 5 0 0 1 0 2 5
+p543
+aVSamuel Dalembert PHI 12/26/2006 PHI @ GSW L 19 4 2 5 40.0 0 0 - 0 1 0.0 1 2 3 1 1 0 0 3 -24
+p544
+aVAndre Miller PHI 12/26/2006 PHI @ GSW L 30 14 7 14 50.0 0 0 - 0 0 - 3 3 6 7 2 0 1 1 -24
+p545
+aVAlan Henderson PHI 12/26/2006 PHI @ GSW L 6 4 1 1 100.0 0 0 - 2 4 50.0 2 3 5 0 0 0 0 1 2
+p546
+aVChris Webber PHI 12/26/2006 PHI @ GSW L 13 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 1 0 3 1 -23
+p547
+aVRodney Carney PHI 12/26/2006 PHI @ GSW L 46 25 12 22 54.5 0 0 - 1 2 50.0 5 3 8 0 2 0 3 1 -17
+p548
+aVBobby Jones PHI 12/26/2006 PHI @ GSW L 15 4 2 5 40.0 0 1 0.0 0 2 0.0 1 1 2 0 0 0 1 4 3
+p549
+aVAndre Miller PHI 12/23/2006 PHI vs. NYK W 31 9 4 5 80.0 0 0 - 1 1 100.0 1 4 5 11 2 1 2 2 24
+p550
+aVAlan Henderson PHI 12/23/2006 PHI vs. NYK W 8 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 0 0 1 4
+p551
+aVRodney Carney PHI 12/23/2006 PHI vs. NYK W 10 9 3 6 50.0 0 0 - 3 4 75.0 0 1 1 0 2 0 0 0 -1
+p552
+aVSteven Hunter PHI 12/23/2006 PHI vs. NYK W 9 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 0 0 3 0 0 -4
+p553
+aVWillie Green PHI 12/23/2006 PHI vs. NYK W 22 2 1 7 14.3 0 0 - 0 2 0.0 1 5 6 3 0 0 1 1 12
+p554
+aVAndre Iguodala PHI 12/23/2006 PHI vs. NYK W 38 20 6 11 54.5 3 4 75.0 5 6 83.3 1 1 2 5 2 0 4 1 22
+p555
+aVChris Webber PHI 12/23/2006 PHI vs. NYK W 33 18 9 13 69.2 0 0 - 0 1 0.0 3 6 9 4 3 3 5 1 18
+p556
+aVLou Williams PHI 12/23/2006 PHI vs. NYK W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p557
+aVJoe Smith PHI 12/23/2006 PHI vs. NYK W 19 4 2 5 40.0 0 0 - 0 0 - 1 6 7 0 0 0 0 0 8
+p558
+aVKevin Ollie PHI 12/23/2006 PHI vs. NYK W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p559
+aVSamuel Dalembert PHI 12/23/2006 PHI vs. NYK W 27 11 4 7 57.1 0 0 - 3 3 100.0 2 6 8 0 0 6 0 4 16
+p560
+aVKyle Korver PHI 12/23/2006 PHI vs. NYK W 26 16 4 14 28.6 0 7 0.0 8 8 100.0 0 0 0 0 0 0 1 0 9
+p561
+aVAndre Iguodala PHI 12/22/2006 PHI @ BOS W 42 31 11 15 73.3 0 0 - 9 12 75.0 2 2 4 9 1 1 3 4 21
+p562
+aVWillie Green PHI 12/22/2006 PHI @ BOS W 41 11 5 14 35.7 1 3 33.3 0 0 - 0 1 1 1 1 0 2 2 8
+p563
+aVRodney Carney PHI 12/22/2006 PHI @ BOS W 13 4 2 3 66.7 0 0 - 0 1 0.0 1 2 3 0 0 0 0 1 5
+p564
+aVSteven Hunter PHI 12/22/2006 PHI @ BOS W 10 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 1 1 1 3
+p565
+aVLou Williams PHI 12/22/2006 PHI @ BOS W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 6 0 0 1 0 11
+p566
+aVKevin Ollie PHI 12/22/2006 PHI @ BOS W 36 14 6 9 66.7 0 1 0.0 2 3 66.7 0 6 6 8 0 0 1 0 4
+p567
+aVKyle Korver PHI 12/22/2006 PHI @ BOS W 23 14 6 11 54.5 2 4 50.0 0 0 - 0 2 2 2 1 0 0 5 8
+p568
+aVBobby Jones PHI 12/22/2006 PHI @ BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p569
+aVSamuel Dalembert PHI 12/22/2006 PHI @ BOS W 36 14 6 14 42.9 0 0 - 2 2 100.0 2 10 12 2 2 3 1 4 6
+p570
+aVAlan Henderson PHI 12/22/2006 PHI @ BOS W 27 8 4 7 57.1 0 0 - 0 0 - 2 2 4 0 1 1 0 3 7
+p571
+aVWillie Green PHI 12/20/2006 PHI vs. IND L 35 16 6 17 35.3 2 6 33.3 2 2 100.0 1 4 5 4 2 0 1 0 -13
+p572
+aVKyle Korver PHI 12/20/2006 PHI vs. IND L 33 20 8 14 57.1 2 4 50.0 2 2 100.0 0 4 4 1 1 1 1 1 -8
+p573
+aVLou Williams PHI 12/20/2006 PHI vs. IND L 10 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 0 8
+p574
+aVSteven Smith PHI 12/20/2006 PHI vs. IND L 13 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 -8
+p575
+aVSamuel Dalembert PHI 12/20/2006 PHI vs. IND L 40 16 7 13 53.8 0 0 - 2 4 50.0 6 7 13 1 0 3 1 6 -9
+p576
+aVBobby Jones PHI 12/20/2006 PHI vs. IND L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 1
+p577
+aVRodney Carney PHI 12/20/2006 PHI vs. IND L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p578
+aVAlan Henderson PHI 12/20/2006 PHI vs. IND L 19 4 2 2 100.0 0 0 - 0 1 0.0 1 1 2 2 0 0 0 5 11
+p579
+aVKevin Ollie PHI 12/20/2006 PHI vs. IND L 36 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 7 2 0 1 3 -18
+p580
+aVAndre Iguodala PHI 12/20/2006 PHI vs. IND L 46 20 6 18 33.3 1 3 33.3 7 7 100.0 2 3 5 7 4 1 6 2 -11
+p581
+aVKyle Korver PHI 12/16/2006 PHI @ SAS L 37 13 4 12 33.3 2 3 66.7 3 3 100.0 1 4 5 1 1 0 0 3 -2
+p582
+aVBobby Jones PHI 12/16/2006 PHI @ SAS L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 2
+p583
+aVWillie Green PHI 12/16/2006 PHI @ SAS L 40 18 7 23 30.4 1 3 33.3 3 4 75.0 2 3 5 4 1 0 2 2 -6
+p584
+aVKevin Ollie PHI 12/16/2006 PHI @ SAS L 38 19 9 11 81.8 0 0 - 1 2 50.0 1 2 3 4 1 0 0 2 -6
+p585
+aVSteven Hunter PHI 12/16/2006 PHI @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p586
+aVLou Williams PHI 12/16/2006 PHI @ SAS L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 1
+p587
+aVAndre Iguodala PHI 12/16/2006 PHI @ SAS L 46 27 9 17 52.9 1 3 33.3 8 12 66.7 1 6 7 5 2 1 5 4 -9
+p588
+aVSamuel Dalembert PHI 12/16/2006 PHI @ SAS L 32 8 4 8 50.0 0 0 - 0 0 - 3 3 6 2 3 4 3 4 -4
+p589
+aVAlan Henderson PHI 12/16/2006 PHI @ SAS L 23 13 6 7 85.7 0 0 - 1 1 100.0 5 4 9 0 1 1 1 2 2
+p590
+aVRodney Carney PHI 12/16/2006 PHI @ SAS L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 1 1
+p591
+aVAndre Iguodala PHI 12/15/2006 PHI @ DAL L 42 17 5 13 38.5 1 2 50.0 6 6 100.0 1 4 5 3 1 0 4 1 -17
+p592
+aVSteven Hunter PHI 12/15/2006 PHI @ DAL L 7 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 1 0 0 2
+p593
+aVRodney Carney PHI 12/15/2006 PHI @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -15
+p594
+aVAlan Henderson PHI 12/15/2006 PHI @ DAL L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p595
+aVWillie Green PHI 12/15/2006 PHI @ DAL L 32 16 8 15 53.3 0 1 0.0 0 0 - 0 1 1 2 0 0 3 4 3
+p596
+aVKevin Ollie PHI 12/15/2006 PHI @ DAL L 29 2 1 4 25.0 0 0 - 0 0 - 0 5 5 5 2 0 2 2 -15
+p597
+aVKyle Korver PHI 12/15/2006 PHI @ DAL L 44 13 5 13 38.5 1 4 25.0 2 2 100.0 0 7 7 3 0 0 2 2 -13
+p598
+aVSamuel Dalembert PHI 12/15/2006 PHI @ DAL L 35 16 8 12 66.7 0 0 - 0 1 0.0 3 4 7 0 1 0 2 3 -16
+p599
+aVBobby Jones PHI 12/15/2006 PHI @ DAL L 22 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 5 -4
+p600
+aVSteven Smith PHI 12/15/2006 PHI @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p601
+aVIvan McFarlin PHI 12/15/2006 PHI @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p602
+aVLou Williams PHI 12/15/2006 PHI @ DAL L 19 8 2 7 28.6 1 2 50.0 3 6 50.0 1 1 2 1 1 0 1 3 1
+p603
+aVAlan Henderson PHI 12/13/2006 PHI vs. BOS L 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 0 0 3 -1
+p604
+aVSteven Smith PHI 12/13/2006 PHI vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -2
+p605
+aVBobby Jones PHI 12/13/2006 PHI vs. BOS L 9 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 1 0 2 2 -7
+p606
+aVWillie Green PHI 12/13/2006 PHI vs. BOS L 24 10 3 9 33.3 0 1 0.0 4 4 100.0 0 4 4 1 0 0 1 3 -3
+p607
+aVChris Webber PHI 12/13/2006 PHI vs. BOS L 34 11 4 17 23.5 0 0 - 3 4 75.0 2 9 11 2 0 0 0 2 -4
+p608
+aVIvan McFarlin PHI 12/13/2006 PHI vs. BOS L 6 1 0 2 0.0 0 0 - 1 2 50.0 2 0 2 0 0 0 0 1 -14
+p609
+aVKevin Ollie PHI 12/13/2006 PHI vs. BOS L 34 14 5 7 71.4 0 0 - 4 5 80.0 0 1 1 4 1 0 3 1 -11
+p610
+aVAndre Iguodala PHI 12/13/2006 PHI vs. BOS L 36 12 4 8 50.0 0 0 - 4 5 80.0 0 4 4 5 3 0 1 5 -10
+p611
+aVLou Williams PHI 12/13/2006 PHI vs. BOS L 21 9 3 6 50.0 0 1 0.0 3 8 37.5 0 2 2 0 1 1 3 0 -13
+p612
+aVSamuel Dalembert PHI 12/13/2006 PHI vs. BOS L 23 11 5 6 83.3 0 0 - 1 2 50.0 3 4 7 0 0 2 0 2 -1
+p613
+aVKyle Korver PHI 12/13/2006 PHI vs. BOS L 30 7 3 14 21.4 0 3 0.0 1 2 50.0 2 2 4 1 0 0 4 4 -21
+p614
+aVSteven Hunter PHI 12/13/2006 PHI vs. BOS L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -13
+p615
+aVSamuel Dalembert PHI 12/11/2006 PHI vs. POR L 25 8 3 6 50.0 0 0 - 2 4 50.0 1 6 7 0 0 3 6 4 10
+p616
+aVAndre Iguodala PHI 12/11/2006 PHI vs. POR L 43 27 8 15 53.3 0 1 0.0 11 13 84.6 3 4 7 3 2 0 5 3 3
+p617
+aVSteven Hunter PHI 12/11/2006 PHI vs. POR L 15 6 3 4 75.0 0 0 - 0 0 - 2 3 5 0 0 0 1 1 -14
+p618
+aVWillie Green PHI 12/11/2006 PHI vs. POR L 19 5 2 10 20.0 1 3 33.3 0 0 - 1 2 3 0 0 0 1 3 -6
+p619
+aVRodney Carney PHI 12/11/2006 PHI vs. POR L 15 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 -10
+p620
+aVAlan Henderson PHI 12/11/2006 PHI vs. POR L 11 7 3 3 100.0 0 0 - 1 1 100.0 1 0 1 0 2 0 1 3 -4
+p621
+aVKyle Korver PHI 12/11/2006 PHI vs. POR L 38 10 4 10 40.0 0 2 0.0 2 2 100.0 1 2 3 5 0 0 1 1 0
+p622
+aVLou Williams PHI 12/11/2006 PHI vs. POR L 9 3 0 4 0.0 0 1 0.0 3 4 75.0 1 0 1 0 0 0 1 0 5
+p623
+aVChris Webber PHI 12/11/2006 PHI vs. POR L 39 9 2 9 22.2 1 1 100.0 4 4 100.0 2 5 7 8 1 1 3 0 16
+p624
+aVKevin Ollie PHI 12/11/2006 PHI vs. POR L 26 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 1 -10
+p625
+aVAlan Henderson PHI 12/09/2006 PHI @ ORL L 3 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 1
+p626
+aVChris Webber PHI 12/09/2006 PHI @ ORL L 40 19 8 15 53.3 0 1 0.0 3 5 60.0 5 6 11 8 1 2 4 2 0
+p627
+aVKevin Ollie PHI 12/09/2006 PHI @ ORL L 38 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 6 0 0 3 3 -3
+p628
+aVSamuel Dalembert PHI 12/09/2006 PHI @ ORL L 35 12 5 6 83.3 0 0 - 2 2 100.0 0 6 6 1 0 5 1 3 2
+p629
+aVAndre Iguodala PHI 12/09/2006 PHI @ ORL L 41 19 8 13 61.5 0 1 0.0 3 4 75.0 0 5 5 5 2 1 2 3 -2
+p630
+aVKyle Korver PHI 12/09/2006 PHI @ ORL L 33 16 6 11 54.5 1 3 33.3 3 3 100.0 0 1 1 0 0 1 0 3 9
+p631
+aVSteven Hunter PHI 12/09/2006 PHI @ ORL L 15 2 1 1 100.0 0 0 - 0 4 0.0 0 2 2 0 0 2 0 1 -4
+p632
+aVRodney Carney PHI 12/09/2006 PHI @ ORL L 20 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -8
+p633
+aVWillie Green PHI 12/09/2006 PHI @ ORL L 15 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 1 1 0 3 1 -5
+p634
+aVLou Williams PHI 12/08/2006 PHI vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p635
+aVIvan McFarlin PHI 12/08/2006 PHI vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p636
+aVSteven Hunter PHI 12/08/2006 PHI vs. WAS L 20 10 4 4 100.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 1 8
+p637
+aVAndre Iguodala PHI 12/08/2006 PHI vs. WAS L 42 13 5 11 45.5 0 3 0.0 3 3 100.0 0 6 6 7 2 0 7 2 -15
+p638
+aVChris Webber PHI 12/08/2006 PHI vs. WAS L 36 21 9 18 50.0 0 1 0.0 3 3 100.0 2 8 10 5 2 1 1 4 -16
+p639
+aVSamuel Dalembert PHI 12/08/2006 PHI vs. WAS L 19 9 3 3 100.0 0 0 - 3 4 75.0 1 4 5 2 0 0 1 2 -6
+p640
+aVRodney Carney PHI 12/08/2006 PHI vs. WAS L 30 9 4 8 50.0 1 1 100.0 0 0 - 0 2 2 1 1 0 1 3 -1
+p641
+aVSteven Smith PHI 12/08/2006 PHI vs. WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p642
+aVKevin Ollie PHI 12/08/2006 PHI vs. WAS L 33 4 2 8 25.0 0 0 - 0 0 - 1 0 1 7 0 0 2 2 -16
+p643
+aVWillie Green PHI 12/08/2006 PHI vs. WAS L 25 12 5 11 45.5 2 2 100.0 0 2 0.0 0 2 2 1 1 0 1 3 -13
+p644
+aVKyle Korver PHI 12/08/2006 PHI vs. WAS L 32 20 6 14 42.9 3 7 42.9 5 5 100.0 1 4 5 4 0 0 1 5 -14
+p645
+aVRodney Carney PHI 12/06/2006 PHI @ CHI L 27 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 2 -13
+p646
+aVSteven Hunter PHI 12/06/2006 PHI @ CHI L 16 4 2 4 50.0 0 0 - 0 2 0.0 3 3 6 0 0 2 0 0 0
+p647
+aVChris Webber PHI 12/06/2006 PHI @ CHI L 21 6 3 10 30.0 0 0 - 0 0 - 1 5 6 2 0 1 1 4 -21
+p648
+aVKyle Korver PHI 12/06/2006 PHI @ CHI L 24 13 6 9 66.7 1 2 50.0 0 0 - 0 0 0 2 0 0 2 2 -14
+p649
+aVSteven Smith PHI 12/06/2006 PHI @ CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p650
+aVAllen Iverson PHI 12/06/2006 PHI @ CHI L 32 25 7 17 41.2 1 1 100.0 10 11 90.9 0 0 0 7 1 0 7 2 -10
+p651
+aVKevin Ollie PHI 12/06/2006 PHI @ CHI L 21 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 5 2 0 0 2 -11
+p652
+aVWillie Green PHI 12/06/2006 PHI @ CHI L 17 2 1 7 14.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -14
+p653
+aVSamuel Dalembert PHI 12/06/2006 PHI @ CHI L 31 14 5 8 62.5 0 1 0.0 4 5 80.0 1 10 11 1 0 1 2 3 -27
+p654
+aVIvan McFarlin PHI 12/06/2006 PHI @ CHI L 9 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 6
+p655
+aVAlan Henderson PHI 12/06/2006 PHI @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 4
+p656
+aVAndre Iguodala PHI 12/06/2006 PHI @ CHI L 36 13 4 6 66.7 1 1 100.0 4 6 66.7 1 0 1 4 3 1 2 4 -30
+p657
+aVIvan McFarlin PHI 12/03/2006 PHI vs. MIN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p658
+aVRodney Carney PHI 12/03/2006 PHI vs. MIN L 28 10 4 10 40.0 1 3 33.3 1 2 50.0 1 0 1 0 0 1 0 4 0
+p659
+aVWillie Green PHI 12/03/2006 PHI vs. MIN L 16 6 3 8 37.5 0 1 0.0 0 3 0.0 1 0 1 1 1 0 1 0 -13
+p660
+aVAlan Henderson PHI 12/03/2006 PHI vs. MIN L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -13
+p661
+aVAllen Iverson PHI 12/03/2006 PHI vs. MIN L 42 26 6 19 31.6 0 3 0.0 14 17 82.4 0 2 2 7 3 0 5 0 1
+p662
+aVAndre Iguodala PHI 12/03/2006 PHI vs. MIN L 45 12 6 14 42.9 0 1 0.0 0 0 - 2 3 5 5 3 1 4 3 -12
+p663
+aVKevin Ollie PHI 12/03/2006 PHI vs. MIN L 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 -11
+p664
+aVSamuel Dalembert PHI 12/03/2006 PHI vs. MIN L 28 15 5 6 83.3 0 0 - 5 6 83.3 2 7 9 0 0 3 2 4 -2
+p665
+aVSteven Hunter PHI 12/03/2006 PHI vs. MIN L 18 2 1 5 20.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 -8
+p666
+aVChris Webber PHI 12/03/2006 PHI vs. MIN L 34 11 5 14 35.7 0 0 - 1 4 25.0 5 4 9 2 2 0 3 2 8
+p667
+aVRodney Carney PHI 12/02/2006 PHI @ NJN L 41 20 10 19 52.6 0 1 0.0 0 3 0.0 3 2 5 0 2 1 0 2 1
+p668
+aVWillie Green PHI 12/02/2006 PHI @ NJN L 23 11 4 11 36.4 0 2 0.0 3 4 75.0 2 0 2 1 1 0 2 4 -3
+p669
+aVAllen Iverson PHI 12/02/2006 PHI @ NJN L 40 37 11 25 44.0 0 2 0.0 15 15 100.0 0 3 3 10 5 0 3 3 -14
+p670
+aVSteven Hunter PHI 12/02/2006 PHI @ NJN L 15 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 2 0 1 5
+p671
+aVSamuel Dalembert PHI 12/02/2006 PHI @ NJN L 30 4 2 4 50.0 0 0 - 0 0 - 6 5 11 0 1 0 0 5 -9
+p672
+aVSteven Smith PHI 12/02/2006 PHI @ NJN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p673
+aVChris Webber PHI 12/02/2006 PHI @ NJN L 34 15 7 20 35.0 1 2 50.0 0 0 - 3 9 12 5 0 0 1 3 -6
+p674
+aVKevin Ollie PHI 12/02/2006 PHI @ NJN L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 2 2
+p675
+aVAndre Iguodala PHI 12/02/2006 PHI @ NJN L 35 11 2 6 33.3 0 3 0.0 7 8 87.5 0 3 3 2 1 0 4 5 -5
+p676
+aVAlan Henderson PHI 12/02/2006 PHI @ NJN L 9 5 1 3 33.3 0 0 - 3 3 100.0 3 5 8 0 0 2 0 1 6
+p677
+aVIvan McFarlin PHI 11/27/2006 PHI @ MIA L 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p678
+aVWillie Green PHI 11/27/2006 PHI @ MIA L 20 7 3 10 30.0 1 3 33.3 0 0 - 0 1 1 0 1 0 1 3 -8
+p679
+aVAllen Iverson PHI 11/27/2006 PHI @ MIA L 47 45 17 37 45.9 0 3 0.0 11 12 91.7 0 1 1 4 3 0 3 2 -12
+p680
+aVAndre Iguodala PHI 11/27/2006 PHI @ MIA L 41 15 5 16 31.3 2 4 50.0 3 4 75.0 2 7 9 3 2 0 3 3 -5
+p681
+aVKevin Ollie PHI 11/27/2006 PHI @ MIA L 27 6 3 7 42.9 0 0 - 0 0 - 2 2 4 2 1 0 2 2 -4
+p682
+aVKyle Korver PHI 11/27/2006 PHI @ MIA L 28 7 3 7 42.9 1 3 33.3 0 0 - 1 0 1 0 1 0 2 2 -11
+p683
+aVRodney Carney PHI 11/27/2006 PHI @ MIA L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p684
+aVLou Williams PHI 11/27/2006 PHI @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p685
+aVAlan Henderson PHI 11/27/2006 PHI @ MIA L 15 4 2 2 100.0 0 0 - 0 0 - 3 1 4 1 1 0 0 3 0
+p686
+aVSamuel Dalembert PHI 11/27/2006 PHI @ MIA L 25 0 0 6 0.0 0 0 - 0 0 - 4 3 7 0 0 1 2 5 -3
+p687
+aVShavlik Randolph PHI 11/27/2006 PHI @ MIA L 15 2 1 8 12.5 0 0 - 0 0 - 7 1 8 1 2 0 0 3 -7
+p688
+aVSteven Hunter PHI 11/27/2006 PHI @ MIA L 18 3 1 1 100.0 0 0 - 1 1 100.0 0 3 3 0 0 1 2 4 -8
+p689
+aVSamuel Dalembert PHI 11/25/2006 PHI @ CLE L 35 6 1 3 33.3 0 0 - 4 6 66.7 2 6 8 0 1 1 3 3 -2
+p690
+aVLou Williams PHI 11/25/2006 PHI @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p691
+aVBobby Jones PHI 11/25/2006 PHI @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p692
+aVIvan McFarlin PHI 11/25/2006 PHI @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p693
+aVKyle Korver PHI 11/25/2006 PHI @ CLE L 27 6 2 9 22.2 2 5 40.0 0 0 - 1 1 2 1 0 0 2 4 -26
+p694
+aVShavlik Randolph PHI 11/25/2006 PHI @ CLE L 22 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 0 0 1 1 3 5
+p695
+aVAlan Henderson PHI 11/25/2006 PHI @ CLE L 14 5 1 5 20.0 0 0 - 3 4 75.0 2 0 2 0 0 1 0 3 -3
+p696
+aVWillie Green PHI 11/25/2006 PHI @ CLE L 29 13 5 12 41.7 1 3 33.3 2 2 100.0 0 3 3 1 2 0 0 1 -24
+p697
+aVKevin Ollie PHI 11/25/2006 PHI @ CLE L 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 1 0 1 1 11
+p698
+aVAllen Iverson PHI 11/25/2006 PHI @ CLE L 43 31 10 28 35.7 1 3 33.3 10 12 83.3 1 3 4 2 3 0 6 0 -10
+p699
+aVAndre Iguodala PHI 11/25/2006 PHI @ CLE L 43 17 5 7 71.4 1 1 100.0 6 6 100.0 0 8 8 3 5 0 2 1 -1
+p700
+aVRodney Carney PHI 11/25/2006 PHI @ CLE L 7 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -9
+p701
+aVRodney Carney PHI 11/24/2006 PHI vs. CHI W 12 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 4
+p702
+aVAllen Iverson PHI 11/24/2006 PHI vs. CHI W 45 46 15 30 50.0 0 6 0.0 16 17 94.1 0 5 5 10 2 1 2 2 12
+p703
+aVWillie Green PHI 11/24/2006 PHI vs. CHI W 32 20 8 12 66.7 1 2 50.0 3 3 100.0 1 0 1 0 2 0 1 5 7
+p704
+aVSamuel Dalembert PHI 11/24/2006 PHI vs. CHI W 28 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 1 0 1 1 3 14
+p705
+aVShavlik Randolph PHI 11/24/2006 PHI vs. CHI W 9 2 1 3 33.3 0 0 - 0 1 0.0 0 2 2 0 0 1 1 2 2
+p706
+aVKyle Korver PHI 11/24/2006 PHI vs. CHI W 29 9 3 4 75.0 2 2 100.0 1 1 100.0 1 4 5 1 2 0 0 3 3
+p707
+aVKevin Ollie PHI 11/24/2006 PHI vs. CHI W 19 2 1 3 33.3 0 0 - 0 0 - 0 2 2 3 1 0 1 2 16
+p708
+aVAlan Henderson PHI 11/24/2006 PHI vs. CHI W 27 13 3 4 75.0 0 0 - 7 8 87.5 3 1 4 0 1 1 2 4 7
+p709
+aVAndre Iguodala PHI 11/24/2006 PHI vs. CHI W 39 19 7 14 50.0 2 5 40.0 3 6 50.0 0 7 7 3 4 0 2 2 10
+p710
+aVShavlik Randolph PHI 11/22/2006 PHI @ MIL L 34 7 3 8 37.5 0 0 - 1 2 50.0 2 9 11 1 2 4 2 4 4
+p711
+aVAndre Iguodala PHI 11/22/2006 PHI @ MIL L 44 18 4 12 33.3 1 5 20.0 9 12 75.0 3 13 16 10 3 0 3 3 -5
+p712
+aVAlan Henderson PHI 11/22/2006 PHI @ MIL L 11 7 3 3 100.0 0 0 - 1 1 100.0 2 2 4 0 0 1 1 6 8
+p713
+aVLou Williams PHI 11/22/2006 PHI @ MIL L 9 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 2 1 -1
+p714
+aVSteven Smith PHI 11/22/2006 PHI @ MIL L 4 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p715
+aVWillie Green PHI 11/22/2006 PHI @ MIL L 35 24 10 23 43.5 4 5 80.0 0 0 - 1 1 2 4 1 0 2 3 -4
+p716
+aVRodney Carney PHI 11/22/2006 PHI @ MIL L 16 9 4 7 57.1 1 1 100.0 0 0 - 0 1 1 0 0 1 0 3 -4
+p717
+aVKevin Ollie PHI 11/22/2006 PHI @ MIL L 33 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 9 1 0 1 5 -4
+p718
+aVBobby Jones PHI 11/22/2006 PHI @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p719
+aVSamuel Dalembert PHI 11/22/2006 PHI @ MIL L 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 6 -1
+p720
+aVIvan McFarlin PHI 11/22/2006 PHI @ MIL L 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p721
+aVKyle Korver PHI 11/22/2006 PHI @ MIL L 35 19 6 12 50.0 4 5 80.0 3 6 50.0 0 2 2 2 0 0 4 4 -11
+p722
+aVAlan Henderson PHI 11/21/2006 PHI vs. DET L 18 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 2 1 4 -7
+p723
+aVSteven Smith PHI 11/21/2006 PHI vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p724
+aVLou Williams PHI 11/21/2006 PHI vs. DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p725
+aVBobby Jones PHI 11/21/2006 PHI vs. DET L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 3 1
+p726
+aVAndre Iguodala PHI 11/21/2006 PHI vs. DET L 40 13 4 9 44.4 2 3 66.7 3 4 75.0 2 2 4 5 1 1 1 2 -10
+p727
+aVKevin Ollie PHI 11/21/2006 PHI vs. DET L 24 11 3 6 50.0 0 0 - 5 5 100.0 0 0 0 1 0 0 1 0 -1
+p728
+aVSamuel Dalembert PHI 11/21/2006 PHI vs. DET L 31 8 4 9 44.4 0 0 - 0 0 - 7 8 15 0 0 1 3 4 -11
+p729
+aVWillie Green PHI 11/21/2006 PHI vs. DET L 44 24 10 21 47.6 2 4 50.0 2 3 66.7 0 3 3 1 3 0 3 3 -8
+p730
+aVShavlik Randolph PHI 11/21/2006 PHI vs. DET L 28 9 2 6 33.3 0 0 - 5 6 83.3 2 7 9 1 1 1 3 1 -5
+p731
+aVRodney Carney PHI 11/21/2006 PHI vs. DET L 14 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -6
+p732
+aVKyle Korver PHI 11/21/2006 PHI vs. DET L 31 13 3 14 21.4 2 6 33.3 5 5 100.0 0 5 5 1 0 0 2 1 -8
+p733
+aVIvan McFarlin PHI 11/21/2006 PHI vs. DET L 5 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -1
+p734
+aVSamuel Dalembert PHI 11/18/2006 PHI @ LAC L 36 14 5 7 71.4 0 0 - 4 5 80.0 0 3 3 1 0 1 1 6 3
+p735
+aVAllen Iverson PHI 11/18/2006 PHI @ LAC L 49 29 12 31 38.7 1 4 25.0 4 4 100.0 1 2 3 9 4 0 6 1 1
+p736
+aVAndre Iguodala PHI 11/18/2006 PHI @ LAC L 47 13 4 14 28.6 1 3 33.3 4 4 100.0 0 5 5 5 1 0 5 4 -10
+p737
+aVKyle Korver PHI 11/18/2006 PHI @ LAC L 37 11 4 9 44.4 2 3 66.7 1 1 100.0 1 5 6 0 2 0 1 3 -14
+p738
+aVIvan McFarlin PHI 11/18/2006 PHI @ LAC L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p739
+aVWillie Green PHI 11/18/2006 PHI @ LAC L 27 11 4 10 40.0 1 4 25.0 2 3 66.7 0 1 1 0 0 0 2 6 -1
+p740
+aVRodney Carney PHI 11/18/2006 PHI @ LAC L 5 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -3
+p741
+aVKevin Ollie PHI 11/18/2006 PHI @ LAC L 22 10 4 6 66.7 0 0 - 2 2 100.0 1 1 2 4 0 0 1 3 -4
+p742
+aVAlan Henderson PHI 11/18/2006 PHI @ LAC L 17 0 0 2 0.0 0 0 - 0 0 - 4 5 9 1 1 1 0 2 -2
+p743
+aVShavlik Randolph PHI 11/18/2006 PHI @ LAC L 19 8 4 6 66.7 0 0 - 0 4 0.0 2 1 3 0 2 0 0 4 2
+p744
+aVWillie Green PHI 11/17/2006 PHI @ PHX L 33 20 9 18 50.0 0 2 0.0 2 5 40.0 1 1 2 1 0 0 1 1 -6
+p745
+aVSteven Hunter PHI 11/17/2006 PHI @ PHX L 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -14
+p746
+aVKevin Ollie PHI 11/17/2006 PHI @ PHX L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -8
+p747
+aVAndre Iguodala PHI 11/17/2006 PHI @ PHX L 44 14 3 10 30.0 0 2 0.0 8 11 72.7 1 5 6 1 2 0 4 2 -7
+p748
+aVShavlik Randolph PHI 11/17/2006 PHI @ PHX L 16 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 0 1 1 2 3
+p749
+aVRodney Carney PHI 11/17/2006 PHI @ PHX L 13 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 2 0 2 0
+p750
+aVLou Williams PHI 11/17/2006 PHI @ PHX L 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 7
+p751
+aVSamuel Dalembert PHI 11/17/2006 PHI @ PHX L 18 4 2 4 50.0 0 0 - 0 2 0.0 1 6 7 0 0 2 2 4 3
+p752
+aVAllen Iverson PHI 11/17/2006 PHI @ PHX L 39 23 8 22 36.4 0 5 0.0 7 7 100.0 1 1 2 8 5 0 1 1 -16
+p753
+aVChris Webber PHI 11/17/2006 PHI @ PHX L 20 8 4 8 50.0 0 0 - 0 0 - 1 6 7 1 0 1 0 1 -18
+p754
+aVKyle Korver PHI 11/17/2006 PHI @ PHX L 24 9 4 10 40.0 1 4 25.0 0 0 - 1 3 4 1 1 1 2 5 -4
+p755
+aVKyle Korver PHI 11/15/2006 PHI @ SEA W 26 9 3 4 75.0 1 1 100.0 2 2 100.0 1 2 3 1 2 0 0 3 1
+p756
+aVAndre Iguodala PHI 11/15/2006 PHI @ SEA W 42 12 5 11 45.5 0 0 - 2 2 100.0 2 6 8 9 3 1 5 4 2
+p757
+aVBobby Jones PHI 11/15/2006 PHI @ SEA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 6
+p758
+aVWillie Green PHI 11/15/2006 PHI @ SEA W 21 4 2 9 22.2 0 0 - 0 0 - 1 1 2 3 0 0 2 2 -2
+p759
+aVKevin Ollie PHI 11/15/2006 PHI @ SEA W 27 8 3 4 75.0 0 0 - 2 3 66.7 0 2 2 4 0 0 1 1 9
+p760
+aVSteven Hunter PHI 11/15/2006 PHI @ SEA W 16 9 3 4 75.0 0 0 - 3 6 50.0 0 1 1 0 0 0 1 5 -1
+p761
+aVChris Webber PHI 11/15/2006 PHI @ SEA W 23 6 3 8 37.5 0 0 - 0 0 - 0 4 4 3 1 1 3 0 9
+p762
+aVShavlik Randolph PHI 11/15/2006 PHI @ SEA W 12 6 3 3 100.0 0 0 - 0 0 - 0 5 5 1 0 1 0 0 6
+p763
+aVRodney Carney PHI 11/15/2006 PHI @ SEA W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p764
+aVAllen Iverson PHI 11/15/2006 PHI @ SEA W 41 28 6 22 27.3 2 4 50.0 14 16 87.5 0 3 3 1 2 0 2 1 0
+p765
+aVSamuel Dalembert PHI 11/15/2006 PHI @ SEA W 26 12 5 7 71.4 0 0 - 2 2 100.0 2 4 6 1 0 4 1 5 3
+p766
+aVRodney Carney PHI 11/10/2006 PHI vs. DEN L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p767
+aVSteven Hunter PHI 11/10/2006 PHI vs. DEN L 19 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 1 0 1 0 2 -1
+p768
+aVKyle Korver PHI 11/10/2006 PHI vs. DEN L 35 23 9 16 56.3 2 5 40.0 3 4 75.0 2 5 7 1 2 0 2 2 0
+p769
+aVSamuel Dalembert PHI 11/10/2006 PHI vs. DEN L 34 17 7 8 87.5 0 0 - 3 4 75.0 2 4 6 0 1 2 3 5 -10
+p770
+aVKevin Ollie PHI 11/10/2006 PHI vs. DEN L 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 5 0 0 1 3 -4
+p771
+aVWillie Green PHI 11/10/2006 PHI vs. DEN L 28 10 5 14 35.7 0 4 0.0 0 0 - 1 2 3 1 2 0 2 4 -2
+p772
+aVAllen Iverson PHI 11/10/2006 PHI vs. DEN L 40 21 6 20 30.0 0 2 0.0 9 9 100.0 1 3 4 9 0 0 5 3 -5
+p773
+aVShavlik Randolph PHI 11/10/2006 PHI vs. DEN L 5 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 1 1
+p774
+aVAndre Iguodala PHI 11/10/2006 PHI vs. DEN L 29 8 2 2 100.0 1 1 100.0 3 4 75.0 2 6 8 7 1 0 5 4 -8
+p775
+aVChris Webber PHI 11/10/2006 PHI vs. DEN L 33 16 8 16 50.0 0 0 - 0 1 0.0 2 5 7 0 1 0 3 2 -6
+p776
+aVShavlik Randolph PHI 11/08/2006 PHI @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p777
+aVKevin Ollie PHI 11/08/2006 PHI @ TOR L 23 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 1 0 0 3 1
+p778
+aVSamuel Dalembert PHI 11/08/2006 PHI @ TOR L 34 13 6 10 60.0 0 0 - 1 4 25.0 8 10 18 0 2 5 2 6 -3
+p779
+aVSteven Hunter PHI 11/08/2006 PHI @ TOR L 20 8 4 4 100.0 0 0 - 0 0 - 2 0 2 0 1 3 1 1 -2
+p780
+aVChris Webber PHI 11/08/2006 PHI @ TOR L 36 14 7 19 36.8 0 0 - 0 0 - 0 13 13 6 0 2 1 4 10
+p781
+aVAndre Iguodala PHI 11/08/2006 PHI @ TOR L 28 10 5 9 55.6 0 1 0.0 0 0 - 2 3 5 2 0 0 1 3 -6
+p782
+aVKyle Korver PHI 11/08/2006 PHI @ TOR L 29 10 3 8 37.5 0 2 0.0 4 4 100.0 0 6 6 2 0 2 2 0 -4
+p783
+aVAllen Iverson PHI 11/08/2006 PHI @ TOR L 46 35 12 26 46.2 1 7 14.3 10 12 83.3 0 3 3 10 1 0 7 2 -4
+p784
+aVWillie Green PHI 11/08/2006 PHI @ TOR L 22 12 5 7 71.4 2 2 100.0 0 0 - 1 3 4 0 1 0 0 4 0
+p785
+aVRodney Carney PHI 11/07/2006 PHI @ IND L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p786
+aVChris Webber PHI 11/07/2006 PHI @ IND L 24 7 3 10 30.0 0 0 - 1 2 50.0 1 2 3 1 2 0 0 2 -7
+p787
+aVShavlik Randolph PHI 11/07/2006 PHI @ IND L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 9
+p788
+aVKevin Ollie PHI 11/07/2006 PHI @ IND L 16 2 1 5 20.0 0 0 - 0 0 - 0 1 1 3 0 0 1 3 -14
+p789
+aVAndre Iguodala PHI 11/07/2006 PHI @ IND L 37 10 5 6 83.3 0 1 0.0 0 1 0.0 2 5 7 3 1 0 0 1 -18
+p790
+aVAllen Iverson PHI 11/07/2006 PHI @ IND L 39 20 8 22 36.4 0 2 0.0 4 5 80.0 0 0 0 3 2 0 3 1 -14
+p791
+aVSteven Hunter PHI 11/07/2006 PHI @ IND L 23 7 3 4 75.0 0 0 - 1 3 33.3 1 2 3 1 0 5 1 1 -11
+p792
+aVKyle Korver PHI 11/07/2006 PHI @ IND L 29 14 5 10 50.0 1 2 50.0 3 3 100.0 1 4 5 3 0 0 2 2 8
+p793
+aVSamuel Dalembert PHI 11/07/2006 PHI @ IND L 18 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 2 2 3 -9
+p794
+aVAlan Henderson PHI 11/07/2006 PHI @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p795
+aVIvan McFarlin PHI 11/07/2006 PHI @ IND L 7 6 2 3 66.7 0 0 - 2 3 66.7 1 0 1 0 0 0 0 3 9
+p796
+aVWillie Green PHI 11/07/2006 PHI @ IND L 22 14 7 16 43.8 0 2 0.0 0 0 - 3 1 4 2 1 0 3 3 -5
+p797
+aVKyle Korver PHI 11/05/2006 PHI vs. MIA W 31 22 7 12 58.3 5 6 83.3 3 3 100.0 0 2 2 0 0 1 0 3 16
+p798
+aVKevin Ollie PHI 11/05/2006 PHI vs. MIA W 31 8 4 6 66.7 0 0 - 0 0 - 1 2 3 3 1 0 1 1 -15
+p799
+aVSamuel Dalembert PHI 11/05/2006 PHI vs. MIA W 20 5 1 6 16.7 0 0 - 3 4 75.0 4 5 9 1 0 2 0 2 1
+p800
+aVWillie Green PHI 11/05/2006 PHI vs. MIA W 14 3 1 6 16.7 0 2 0.0 1 2 50.0 1 0 1 0 2 0 1 5 3
+p801
+aVRodney Carney PHI 11/05/2006 PHI vs. MIA W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -7
+p802
+aVChris Webber PHI 11/05/2006 PHI vs. MIA W 31 10 5 13 38.5 0 0 - 0 0 - 2 9 11 4 0 0 0 2 8
+p803
+aVSteven Hunter PHI 11/05/2006 PHI vs. MIA W 21 6 2 2 100.0 0 0 - 2 4 50.0 2 4 6 0 0 3 0 3 12
+p804
+aVAndre Iguodala PHI 11/05/2006 PHI vs. MIA W 35 20 6 10 60.0 2 3 66.7 6 8 75.0 1 6 7 5 1 1 2 2 20
+p805
+aVAllen Iverson PHI 11/05/2006 PHI vs. MIA W 46 31 9 21 42.9 2 5 40.0 11 14 78.6 1 3 4 13 2 0 4 1 7
+p806
+aVAllen Iverson PHI 11/03/2006 PHI @ ORL W 46 39 15 25 60.0 3 4 75.0 6 9 66.7 0 3 3 10 0 0 5 2 5
+p807
+aVWillie Green PHI 11/03/2006 PHI @ ORL W 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 3 0 0 4 -5
+p808
+aVShavlik Randolph PHI 11/03/2006 PHI @ ORL W 4 2 0 0 - 0 0 - 2 4 50.0 1 0 1 0 0 1 0 2 -5
+p809
+aVSteven Hunter PHI 11/03/2006 PHI @ ORL W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -5
+p810
+aVKyle Korver PHI 11/03/2006 PHI @ ORL W 29 28 10 13 76.9 4 4 100.0 4 4 100.0 0 1 1 0 1 0 3 5 4
+p811
+aVAndre Iguodala PHI 11/03/2006 PHI @ ORL W 40 11 3 8 37.5 0 2 0.0 5 5 100.0 2 2 4 3 1 0 2 4 7
+p812
+aVKevin Ollie PHI 11/03/2006 PHI @ ORL W 22 0 0 1 0.0 0 0 - 0 0 - 0 2 2 6 1 0 1 1 -9
+p813
+aVSamuel Dalembert PHI 11/03/2006 PHI @ ORL W 26 9 4 7 57.1 0 0 - 1 3 33.3 0 3 3 0 2 1 1 5 10
+p814
+aVRodney Carney PHI 11/03/2006 PHI @ ORL W 21 4 1 2 50.0 1 1 100.0 1 2 50.0 0 0 0 2 1 0 0 2 2
+p815
+aVChris Webber PHI 11/03/2006 PHI @ ORL W 32 11 4 9 44.4 0 0 - 3 4 75.0 0 7 7 1 2 0 3 2 6
+p816
+aVRodney Carney PHI 11/01/2006 PHI vs. ATL W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p817
+aVChris Webber PHI 11/01/2006 PHI vs. ATL W 34 8 4 16 25.0 0 0 - 0 0 - 6 7 13 3 1 2 1 2 23
+p818
+aVAndre Iguodala PHI 11/01/2006 PHI vs. ATL W 41 15 4 8 50.0 2 3 66.7 5 5 100.0 1 3 4 5 3 1 3 2 14
+p819
+aVKyle Korver PHI 11/01/2006 PHI vs. ATL W 28 6 2 8 25.0 0 1 0.0 2 2 100.0 0 4 4 1 2 0 0 3 -8
+p820
+aVShavlik Randolph PHI 11/01/2006 PHI vs. ATL W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -6
+p821
+aVSamuel Dalembert PHI 11/01/2006 PHI vs. ATL W 24 11 4 4 100.0 0 0 - 3 4 75.0 4 7 11 0 3 2 1 4 10
+p822
+aVKevin Ollie PHI 11/01/2006 PHI vs. ATL W 25 6 3 7 42.9 0 0 - 0 0 - 0 2 2 3 0 0 2 4 21
+p823
+aVAllen Iverson PHI 11/01/2006 PHI vs. ATL W 43 32 9 21 42.9 1 2 50.0 13 14 92.9 2 2 4 6 0 0 7 0 10
+p824
+aVWillie Green PHI 11/01/2006 PHI vs. ATL W 10 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 1 1 0 1 3 -6
+p825
+aVSteven Hunter PHI 11/01/2006 PHI vs. ATL W 18 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 0 1 1 3 2
+p826
+a.

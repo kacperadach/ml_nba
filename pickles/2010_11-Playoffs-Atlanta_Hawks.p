@@ -1,0 +1,258 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJosh Smith ATL 05/12/2011 ATL vs. CHI L 39 18 7 15 46.7 0 3 0.0 4 7 57.1 0 5 5 1 3 2 1 2 -24
+p2
+aVAl Horford ATL 05/12/2011 ATL vs. CHI L 37 7 2 10 20.0 0 0 - 3 4 75.0 1 3 4 1 1 0 1 2 -21
+p3
+aVHilton Armstrong ATL 05/12/2011 ATL vs. CHI L 5 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 1 0 0 0 4
+p4
+aVJeff Teague ATL 05/12/2011 ATL vs. CHI L 22 4 2 6 33.3 0 0 - 0 0 - 0 2 2 3 0 0 2 0 -11
+p5
+aVJamal Crawford ATL 05/12/2011 ATL vs. CHI L 25 8 2 10 20.0 0 3 0.0 4 4 100.0 0 1 1 2 1 0 1 0 -17
+p6
+aVDamien Wilkins ATL 05/12/2011 ATL vs. CHI L 5 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 4
+p7
+aVMarvin Williams ATL 05/12/2011 ATL vs. CHI L 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 1
+p8
+aVJosh Powell ATL 05/12/2011 ATL vs. CHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p9
+aVZaza Pachulia ATL 05/12/2011 ATL vs. CHI L 23 1 0 2 0.0 0 0 - 1 2 50.0 5 8 13 1 1 0 2 4 -7
+p10
+aVJoe Johnson ATL 05/12/2011 ATL vs. CHI L 41 19 7 18 38.9 1 4 25.0 4 4 100.0 1 2 3 4 0 0 4 2 -24
+p11
+aVPape Sy ATL 05/12/2011 ATL vs. CHI L 5 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 4
+p12
+aVJason Collins ATL 05/12/2011 ATL vs. CHI L 17 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -13
+p13
+aVDamien Wilkins ATL 05/10/2011 ATL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p14
+aVJosh Smith ATL 05/10/2011 ATL @ CHI L 39 16 6 14 42.9 0 2 0.0 4 4 100.0 3 4 7 1 1 3 1 4 -6
+p15
+aVHilton Armstrong ATL 05/10/2011 ATL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p16
+aVPape Sy ATL 05/10/2011 ATL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p17
+aVJoe Johnson ATL 05/10/2011 ATL @ CHI L 41 15 6 15 40.0 1 5 20.0 2 2 100.0 0 2 2 3 1 0 2 1 -11
+p18
+aVZaza Pachulia ATL 05/10/2011 ATL @ CHI L 23 13 5 6 83.3 0 0 - 3 4 75.0 1 3 4 1 0 0 0 4 3
+p19
+aVJason Collins ATL 05/10/2011 ATL @ CHI L 15 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -4
+p20
+aVJeff Teague ATL 05/10/2011 ATL @ CHI L 41 21 8 11 72.7 0 1 0.0 5 7 71.4 0 4 4 7 0 0 0 4 -12
+p21
+aVJosh Powell ATL 05/10/2011 ATL @ CHI L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p22
+aVJamal Crawford ATL 05/10/2011 ATL @ CHI L 27 2 1 9 11.1 0 4 0.0 0 0 - 0 1 1 4 0 0 2 2 -11
+p23
+aVMarvin Williams ATL 05/10/2011 ATL @ CHI L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p24
+aVAl Horford ATL 05/10/2011 ATL @ CHI L 42 12 6 13 46.2 0 0 - 0 0 - 3 7 10 3 0 2 4 5 -13
+p25
+aVMarvin Williams ATL 05/08/2011 ATL vs. CHI W 15 0 0 5 0.0 0 0 - 0 0 - 0 0 0 0 0 2 1 3 2
+p26
+aVZaza Pachulia ATL 05/08/2011 ATL vs. CHI W 26 5 1 3 33.3 0 0 - 3 4 75.0 2 7 9 2 0 0 1 2 -5
+p27
+aVAl Horford ATL 05/08/2011 ATL vs. CHI W 31 20 9 11 81.8 0 0 - 2 2 100.0 0 5 5 4 1 1 2 3 8
+p28
+aVJason Collins ATL 05/08/2011 ATL vs. CHI W 12 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 4 3
+p29
+aVJeff Teague ATL 05/08/2011 ATL vs. CHI W 40 12 6 12 50.0 0 0 - 0 0 - 0 4 4 4 1 1 3 0 9
+p30
+aVJosh Smith ATL 05/08/2011 ATL vs. CHI W 44 23 8 22 36.4 0 1 0.0 7 9 77.8 5 11 16 8 1 2 2 3 18
+p31
+aVJamal Crawford ATL 05/08/2011 ATL vs. CHI W 29 12 5 11 45.5 1 5 20.0 1 2 50.0 0 1 1 0 2 0 2 0 16
+p32
+aVJoe Johnson ATL 05/08/2011 ATL vs. CHI W 43 24 9 14 64.3 3 5 60.0 3 3 100.0 0 1 1 5 1 0 1 4 9
+p33
+aVDamien Wilkins ATL 05/08/2011 ATL vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p34
+aVJeff Teague ATL 05/06/2011 ATL vs. CHI L 41 21 8 13 61.5 0 2 0.0 5 5 100.0 0 3 3 3 1 0 1 1 -16
+p35
+aVMarvin Williams ATL 05/06/2011 ATL vs. CHI L 24 10 4 7 57.1 0 0 - 2 3 66.7 1 0 1 1 0 0 1 1 -15
+p36
+aVJosh Powell ATL 05/06/2011 ATL vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p37
+aVAl Horford ATL 05/06/2011 ATL vs. CHI L 37 10 5 12 41.7 0 0 - 0 0 - 3 5 8 2 0 0 0 2 -28
+p38
+aVJosh Smith ATL 05/06/2011 ATL vs. CHI L 41 17 7 14 50.0 0 0 - 3 8 37.5 0 13 13 4 1 4 2 1 -16
+p39
+aVJamal Crawford ATL 05/06/2011 ATL vs. CHI L 29 7 3 7 42.9 0 2 0.0 1 1 100.0 1 1 2 3 1 0 1 1 -9
+p40
+aVPape Sy ATL 05/06/2011 ATL vs. CHI L 4 1 0 0 - 0 0 - 1 2 50.0 1 0 1 2 1 0 1 1 3
+p41
+aVDamien Wilkins ATL 05/06/2011 ATL vs. CHI L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 6
+p42
+aVZaza Pachulia ATL 05/06/2011 ATL vs. CHI L 9 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 4 3
+p43
+aVHilton Armstrong ATL 05/06/2011 ATL vs. CHI L 4 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 4
+p44
+aVJoe Johnson ATL 05/06/2011 ATL vs. CHI L 38 10 4 12 33.3 1 2 50.0 1 2 50.0 1 0 1 3 0 0 2 1 -20
+p45
+aVJason Collins ATL 05/06/2011 ATL vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p46
+aVJoe Johnson ATL 05/04/2011 ATL @ CHI L 42 16 7 15 46.7 1 3 33.3 1 2 50.0 1 4 5 1 5 0 2 2 -7
+p47
+aVJason Collins ATL 05/04/2011 ATL @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p48
+aVDamien Wilkins ATL 05/04/2011 ATL @ CHI L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -6
+p49
+aVJeff Teague ATL 05/04/2011 ATL @ CHI L 40 21 7 14 50.0 1 2 50.0 6 7 85.7 0 2 2 3 3 2 0 2 -7
+p50
+aVJamal Crawford ATL 05/04/2011 ATL @ CHI L 35 11 2 10 20.0 1 5 20.0 6 6 100.0 0 0 0 1 0 0 2 2 -9
+p51
+aVPape Sy ATL 05/04/2011 ATL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p52
+aVZaza Pachulia ATL 05/04/2011 ATL @ CHI L 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -4
+p53
+aVMarvin Williams ATL 05/04/2011 ATL @ CHI L 24 4 2 9 22.2 0 1 0.0 0 2 0.0 3 4 7 0 1 2 0 2 -11
+p54
+aVAl Horford ATL 05/04/2011 ATL @ CHI L 44 6 3 12 25.0 0 0 - 0 0 - 2 12 14 6 0 1 2 1 -13
+p55
+aVHilton Armstrong ATL 05/04/2011 ATL @ CHI L 1 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p56
+aVJosh Powell ATL 05/04/2011 ATL @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p57
+aVJosh Smith ATL 05/04/2011 ATL @ CHI L 36 13 4 14 28.6 0 2 0.0 5 7 71.4 3 3 6 3 1 4 4 4 -4
+p58
+aVJeff Teague ATL 05/02/2011 ATL @ CHI W 45 10 5 11 45.5 0 1 0.0 0 0 - 0 2 2 5 1 0 1 2 6
+p59
+aVJoe Johnson ATL 05/02/2011 ATL @ CHI W 45 34 12 18 66.7 5 5 100.0 5 5 100.0 0 4 4 3 3 0 4 0 7
+p60
+aVMarvin Williams ATL 05/02/2011 ATL @ CHI W 22 5 2 6 33.3 0 2 0.0 1 1 100.0 0 2 2 0 0 1 1 2 -3
+p61
+aVDamien Wilkins ATL 05/02/2011 ATL @ CHI W 7 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 2 0 1 1 3
+p62
+aVJason Collins ATL 05/02/2011 ATL @ CHI W 7 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 0 0 -9
+p63
+aVAl Horford ATL 05/02/2011 ATL @ CHI W 38 9 4 7 57.1 0 0 - 1 2 50.0 3 10 13 4 0 2 0 3 12
+p64
+aVJosh Smith ATL 05/02/2011 ATL @ CHI W 33 8 3 11 27.3 0 1 0.0 2 4 50.0 0 6 6 4 1 4 1 4 8
+p65
+aVZaza Pachulia ATL 05/02/2011 ATL @ CHI W 8 6 2 2 100.0 0 0 - 2 2 100.0 2 3 5 1 0 0 1 3 10
+p66
+aVJamal Crawford ATL 05/02/2011 ATL @ CHI W 35 22 8 16 50.0 2 4 50.0 4 4 100.0 0 1 1 3 1 1 1 2 6
+p67
+aVJosh Smith ATL 04/28/2011 ATL vs. ORL W 32 8 3 14 21.4 0 2 0.0 2 2 100.0 1 3 4 2 1 2 4 3 -4
+p68
+aVJoe Johnson ATL 04/28/2011 ATL vs. ORL W 46 23 10 25 40.0 1 4 25.0 2 2 100.0 7 3 10 4 0 0 2 0 -2
+p69
+aVJamal Crawford ATL 04/28/2011 ATL vs. ORL W 31 19 6 16 37.5 3 10 30.0 4 4 100.0 0 1 1 1 2 0 0 0 6
+p70
+aVHilton Armstrong ATL 04/28/2011 ATL vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p71
+aVKirk Hinrich ATL 04/28/2011 ATL vs. ORL W 21 11 4 7 57.1 2 3 66.7 1 1 100.0 0 1 1 2 3 0 0 3 -1
+p72
+aVMarvin Williams ATL 04/28/2011 ATL vs. ORL W 22 10 4 6 66.7 2 3 66.7 0 0 - 1 2 3 1 0 0 1 1 12
+p73
+aVAl Horford ATL 04/28/2011 ATL vs. ORL W 45 10 3 9 33.3 0 0 - 4 4 100.0 4 8 12 6 0 1 2 4 -1
+p74
+aVZaza Pachulia ATL 04/28/2011 ATL vs. ORL W 24 1 0 1 0.0 0 0 - 1 2 50.0 1 4 5 2 1 0 1 5 9
+p75
+aVJason Collins ATL 04/28/2011 ATL vs. ORL W 17 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 3 3 -3
+p76
+aVJamal Crawford ATL 04/26/2011 ATL @ ORL L 25 8 2 8 25.0 1 4 25.0 3 3 100.0 0 1 1 0 0 0 2 0 -30
+p77
+aVJosh Powell ATL 04/26/2011 ATL @ ORL L 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 5
+p78
+aVZaza Pachulia ATL 04/26/2011 ATL @ ORL L 20 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 2 -12
+p79
+aVAl Horford ATL 04/26/2011 ATL @ ORL L 38 9 3 9 33.3 0 0 - 3 4 75.0 2 12 14 6 0 1 1 3 -24
+p80
+aVDamien Wilkins ATL 04/26/2011 ATL @ ORL L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p81
+aVJoe Johnson ATL 04/26/2011 ATL @ ORL L 35 5 2 12 16.7 1 4 25.0 0 0 - 1 2 3 1 0 1 1 2 -28
+p82
+aVMarvin Williams ATL 04/26/2011 ATL @ ORL L 22 12 4 6 66.7 1 2 50.0 3 3 100.0 1 4 5 0 2 1 4 4 -18
+p83
+aVKirk Hinrich ATL 04/26/2011 ATL @ ORL L 26 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 3 1 0 0 5 -15
+p84
+aVJosh Smith ATL 04/26/2011 ATL @ ORL L 29 22 7 18 38.9 1 2 50.0 7 12 58.3 2 9 11 0 0 0 1 3 -16
+p85
+aVHilton Armstrong ATL 04/26/2011 ATL @ ORL L 7 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 7
+p86
+aVJason Collins ATL 04/26/2011 ATL @ ORL L 14 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 0 2 -4
+p87
+aVJeff Teague ATL 04/26/2011 ATL @ ORL L 8 5 1 4 25.0 0 1 0.0 3 4 75.0 0 0 0 2 0 0 1 0 5
+p88
+aVAl Horford ATL 04/24/2011 ATL vs. ORL W 42 14 6 15 40.0 0 0 - 2 2 100.0 1 11 12 4 1 1 1 3 5
+p89
+aVJoe Johnson ATL 04/24/2011 ATL vs. ORL W 33 20 6 15 40.0 1 4 25.0 7 8 87.5 4 5 9 1 0 0 6 3 2
+p90
+aVJason Collins ATL 04/24/2011 ATL vs. ORL W 18 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 1 5 -2
+p91
+aVKirk Hinrich ATL 04/24/2011 ATL vs. ORL W 42 14 6 11 54.5 2 3 66.7 0 0 - 0 4 4 4 2 0 1 2 -1
+p92
+aVMarvin Williams ATL 04/24/2011 ATL vs. ORL W 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 0 1 1 10
+p93
+aVJosh Smith ATL 04/24/2011 ATL vs. ORL W 39 9 4 10 40.0 0 2 0.0 1 4 25.0 1 9 10 5 0 2 2 5 -3
+p94
+aVJosh Powell ATL 04/24/2011 ATL vs. ORL W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 3 2
+p95
+aVJamal Crawford ATL 04/24/2011 ATL vs. ORL W 33 25 10 18 55.6 3 6 50.0 2 6 33.3 0 3 3 6 0 1 1 1 5
+p96
+aVHilton Armstrong ATL 04/24/2011 ATL vs. ORL W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 0 3 -3
+p97
+aVJosh Powell ATL 04/22/2011 ATL vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p98
+aVJamal Crawford ATL 04/22/2011 ATL vs. ORL W 29 23 7 19 36.8 3 5 60.0 6 8 75.0 0 3 3 3 1 1 1 3 1
+p99
+aVJoe Johnson ATL 04/22/2011 ATL vs. ORL W 44 21 9 23 39.1 1 2 50.0 2 4 50.0 2 3 5 5 0 0 0 0 6
+p100
+aVMarvin Williams ATL 04/22/2011 ATL vs. ORL W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 2 1 0 1 3 5
+p101
+aVKirk Hinrich ATL 04/22/2011 ATL vs. ORL W 27 8 3 7 42.9 2 4 50.0 0 0 - 0 2 2 3 0 0 0 3 7
+p102
+aVJeff Teague ATL 04/22/2011 ATL vs. ORL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p103
+aVJosh Smith ATL 04/22/2011 ATL vs. ORL W 38 15 6 13 46.2 0 3 0.0 3 3 100.0 1 9 10 2 1 1 4 2 6
+p104
+aVZaza Pachulia ATL 04/22/2011 ATL vs. ORL W 26 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 3 0 1 0 5 6
+p105
+aVJason Collins ATL 04/22/2011 ATL vs. ORL W 17 2 1 1 100.0 0 0 - 0 0 - 2 1 3 0 0 0 0 3 -2
+p106
+aVAl Horford ATL 04/22/2011 ATL vs. ORL W 43 13 6 14 42.9 0 0 - 1 2 50.0 4 3 7 1 1 1 1 3 0
+p107
+aVJason Collins ATL 04/19/2011 ATL @ ORL L 19 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 3 1 0 3 2
+p108
+aVHilton Armstrong ATL 04/19/2011 ATL @ ORL L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -9
+p109
+aVJamal Crawford ATL 04/19/2011 ATL @ ORL L 31 25 8 17 47.1 3 5 60.0 6 7 85.7 0 1 1 2 1 0 2 5 -8
+p110
+aVKirk Hinrich ATL 04/19/2011 ATL @ ORL L 30 9 4 12 33.3 1 4 25.0 0 0 - 1 0 1 1 0 2 2 4 -9
+p111
+aVJosh Smith ATL 04/19/2011 ATL @ ORL L 35 17 8 14 57.1 1 4 25.0 0 0 - 1 5 6 3 1 1 2 4 7
+p112
+aVMarvin Williams ATL 04/19/2011 ATL @ ORL L 19 4 1 6 16.7 0 3 0.0 2 2 100.0 3 0 3 1 0 0 1 0 -7
+p113
+aVDamien Wilkins ATL 04/19/2011 ATL @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -3
+p114
+aVJoe Johnson ATL 04/19/2011 ATL @ ORL L 43 14 6 15 40.0 2 3 66.7 0 2 0.0 1 6 7 5 2 0 5 1 -2
+p115
+aVJosh Powell ATL 04/19/2011 ATL @ ORL L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p116
+aVAl Horford ATL 04/19/2011 ATL @ ORL L 26 10 4 11 36.4 0 1 0.0 2 4 50.0 1 9 10 2 0 2 2 2 0
+p117
+aVZaza Pachulia ATL 04/19/2011 ATL @ ORL L 19 2 1 3 33.3 0 0 - 0 0 - 3 5 8 1 0 0 0 4 6
+p118
+aVJosh Smith ATL 04/16/2011 ATL @ ORL W 34 15 6 12 50.0 1 2 50.0 2 7 28.6 1 7 8 2 2 0 2 4 6
+p119
+aVJoe Johnson ATL 04/16/2011 ATL @ ORL W 45 25 9 16 56.3 0 1 0.0 7 8 87.5 0 5 5 5 1 0 2 3 13
+p120
+aVMarvin Williams ATL 04/16/2011 ATL @ ORL W 16 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 1 2 0 0 0 0
+p121
+aVJosh Powell ATL 04/16/2011 ATL @ ORL W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 4
+p122
+aVJamal Crawford ATL 04/16/2011 ATL @ ORL W 31 23 7 14 50.0 4 7 57.1 5 6 83.3 0 1 1 5 0 1 1 1 -1
+p123
+aVAl Horford ATL 04/16/2011 ATL @ ORL W 45 16 7 14 50.0 0 1 0.0 2 2 100.0 1 5 6 3 1 0 1 2 8
+p124
+aVZaza Pachulia ATL 04/16/2011 ATL @ ORL W 9 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 3 -11
+p125
+aVEtan Thomas ATL 04/16/2011 ATL @ ORL W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p126
+aVJason Collins ATL 04/16/2011 ATL @ ORL W 18 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 6 14
+p127
+aVKirk Hinrich ATL 04/16/2011 ATL @ ORL W 28 13 6 10 60.0 1 3 33.3 0 0 - 0 5 5 3 1 0 1 4 21
+p128
+a.

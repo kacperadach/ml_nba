@@ -1,0 +1,970 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTim Hardaway Jr. ATL 01/23/2017 ATL vs. LAC L 23 3 1 6 16.7 0 4 0.0 1 2 50.0 0 2 2 4 1 0 1 1 -7
+p2
+aVKent Bazemore ATL 01/23/2017 ATL vs. LAC L 33 25 9 21 42.9 3 9 33.3 4 5 80.0 1 2 3 2 2 0 2 3 3
+p3
+aVDwight Howard ATL 01/23/2017 ATL vs. LAC L 35 16 6 7 85.7 0 0 - 4 5 80.0 1 11 12 3 2 0 2 3 -6
+p4
+aVMalcolm Delaney ATL 01/23/2017 ATL vs. LAC L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 2 1 0 0 0 -15
+p5
+aVMike Dunleavy ATL 01/23/2017 ATL vs. LAC L 17 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 -7
+p6
+aVPaul Millsap ATL 01/23/2017 ATL vs. LAC L 38 19 5 16 31.3 2 7 28.6 7 8 87.5 2 6 8 7 2 2 0 2 -8
+p7
+aVMike Scott ATL 01/23/2017 ATL vs. LAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p8
+aVKris Humphries ATL 01/23/2017 ATL vs. LAC L 6 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 -6
+p9
+aVThabo Sefolosha ATL 01/23/2017 ATL vs. LAC L 30 11 5 11 45.5 1 1 100.0 0 0 - 1 2 3 2 0 0 0 1 3
+p10
+aVDennis Schroder ATL 01/23/2017 ATL vs. LAC L 34 21 7 18 38.9 1 4 25.0 6 6 100.0 2 4 6 7 0 0 2 3 0
+p11
+aVKris Humphries ATL 01/21/2017 ATL vs. PHI W 16 7 2 4 50.0 0 0 - 3 4 75.0 1 8 9 0 0 0 0 2 16
+p12
+aVDwight Howard ATL 01/21/2017 ATL vs. PHI W 32 13 5 7 71.4 0 0 - 3 7 42.9 5 10 15 3 0 1 2 4 1
+p13
+aVPaul Millsap ATL 01/21/2017 ATL vs. PHI W 36 22 9 14 64.3 1 2 50.0 3 6 50.0 2 8 10 1 1 2 3 1 21
+p14
+aVMalcolm Delaney ATL 01/21/2017 ATL vs. PHI W 19 13 6 9 66.7 1 3 33.3 0 1 0.0 0 0 0 1 1 0 1 3 0
+p15
+aVTim Hardaway Jr. ATL 01/21/2017 ATL vs. PHI W 27 12 5 14 35.7 2 7 28.6 0 0 - 2 1 3 6 2 0 4 0 14
+p16
+aVDennis Schroder ATL 01/21/2017 ATL vs. PHI W 31 15 6 18 33.3 1 2 50.0 2 2 100.0 0 1 1 9 2 1 1 1 13
+p17
+aVMike Dunleavy ATL 01/21/2017 ATL vs. PHI W 18 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 0 1 0 1 12
+p18
+aVThabo Sefolosha ATL 01/21/2017 ATL vs. PHI W 32 8 3 6 50.0 0 0 - 2 3 66.7 1 4 5 1 0 0 0 2 6
+p19
+aVMike Scott ATL 01/21/2017 ATL vs. PHI W 6 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p20
+aVKent Bazemore ATL 01/21/2017 ATL vs. PHI W 24 16 7 12 58.3 2 4 50.0 0 0 - 0 2 2 2 1 0 2 3 4
+p21
+aVMike Dunleavy ATL 01/20/2017 ATL vs. CHI W 15 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 1 1 0 0 1 -5
+p22
+aVMalcolm Delaney ATL 01/20/2017 ATL vs. CHI W 18 8 2 5 40.0 1 2 50.0 3 4 75.0 1 1 2 1 2 0 2 1 6
+p23
+aVDennis Schroder ATL 01/20/2017 ATL vs. CHI W 27 25 11 14 78.6 2 3 66.7 1 1 100.0 1 2 3 6 1 0 5 1 15
+p24
+aVTaurean Prince ATL 01/20/2017 ATL vs. CHI W 9 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 0 0 0 2 4 -18
+p25
+aVTim Hardaway Jr. ATL 01/20/2017 ATL vs. CHI W 21 9 4 10 40.0 1 3 33.3 0 0 - 0 3 3 3 3 0 2 0 16
+p26
+aVDwight Howard ATL 01/20/2017 ATL vs. CHI W 25 11 3 11 27.3 0 0 - 5 8 62.5 1 5 6 0 2 0 1 3 15
+p27
+aVKris Humphries ATL 01/20/2017 ATL vs. CHI W 20 7 3 6 50.0 1 2 50.0 0 0 - 3 6 9 2 1 1 0 4 -2
+p28
+aVMike Scott ATL 01/20/2017 ATL vs. CHI W 21 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 4 1 0 1 1 -15
+p29
+aVGary Neal ATL 01/20/2017 ATL vs. CHI W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p30
+aVPaul Millsap ATL 01/20/2017 ATL vs. CHI W 24 14 4 5 80.0 2 2 100.0 4 4 100.0 2 7 9 2 1 2 3 1 29
+p31
+aVDeAndre' Bembry ATL 01/20/2017 ATL vs. CHI W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -20
+p32
+aVThabo Sefolosha ATL 01/20/2017 ATL vs. CHI W 26 10 4 6 66.7 0 0 - 2 2 100.0 2 2 4 1 3 0 0 1 24
+p33
+aVKent Bazemore ATL 01/20/2017 ATL vs. CHI W 19 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 3 1 0 3 2 9
+p34
+aVMike Dunleavy ATL 01/18/2017 ATL @ DET L 21 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 2 1 0 1 2 -9
+p35
+aVKris Humphries ATL 01/18/2017 ATL @ DET L 20 13 4 5 80.0 1 2 50.0 4 4 100.0 1 1 2 1 0 0 1 4 -9
+p36
+aVDennis Schroder ATL 01/18/2017 ATL @ DET L 27 13 5 11 45.5 0 2 0.0 3 3 100.0 0 0 0 6 0 0 2 3 -19
+p37
+aVTaurean Prince ATL 01/18/2017 ATL @ DET L 20 10 2 5 40.0 0 1 0.0 6 6 100.0 0 2 2 1 0 0 1 2 4
+p38
+aVTim Hardaway Jr. ATL 01/18/2017 ATL @ DET L 19 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 0 0 0 0 0 -23
+p39
+aVPaul Millsap ATL 01/18/2017 ATL @ DET L 27 21 7 17 41.2 1 5 20.0 6 9 66.7 3 5 8 4 0 0 2 2 -17
+p40
+aVThabo Sefolosha ATL 01/18/2017 ATL @ DET L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -13
+p41
+aVDeAndre' Bembry ATL 01/18/2017 ATL @ DET L 12 4 1 2 50.0 0 0 - 2 5 40.0 1 2 3 3 0 0 0 1 3
+p42
+aVDwight Howard ATL 01/18/2017 ATL @ DET L 21 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 2 0 3 2 2 -14
+p43
+aVGary Neal ATL 01/18/2017 ATL @ DET L 13 4 0 4 0.0 0 1 0.0 4 4 100.0 0 1 1 1 0 0 0 1 4
+p44
+aVMike Scott ATL 01/18/2017 ATL @ DET L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 0 0
+p45
+aVMalcolm Delaney ATL 01/18/2017 ATL @ DET L 14 4 1 5 20.0 1 2 50.0 1 2 50.0 0 3 3 1 0 0 0 1 -10
+p46
+aVKent Bazemore ATL 01/18/2017 ATL @ DET L 21 10 4 10 40.0 1 3 33.3 1 2 50.0 0 2 2 1 0 1 2 1 -12
+p47
+aVKris Humphries ATL 01/16/2017 ATL @ NYK W 24 14 3 5 60.0 3 3 100.0 5 8 62.5 3 4 7 1 1 0 1 2 4
+p48
+aVMalcolm Delaney ATL 01/16/2017 ATL @ NYK W 19 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 5 2 0 1 1 -2
+p49
+aVTim Hardaway Jr. ATL 01/16/2017 ATL @ NYK W 35 20 9 16 56.3 2 7 28.6 0 0 - 1 2 3 4 1 0 1 2 2
+p50
+aVKent Bazemore ATL 01/16/2017 ATL @ NYK W 32 16 5 13 38.5 2 8 25.0 4 4 100.0 1 5 6 5 1 0 1 1 2
+p51
+aVTaurean Prince ATL 01/16/2017 ATL @ NYK W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p52
+aVMike Scott ATL 01/16/2017 ATL @ NYK W 10 3 1 5 20.0 1 2 50.0 0 0 - 1 1 2 1 0 0 0 0 4
+p53
+aVDennis Schroder ATL 01/16/2017 ATL @ NYK W 34 28 13 16 81.3 1 2 50.0 1 1 100.0 1 2 3 3 0 0 2 0 -2
+p54
+aVThabo Sefolosha ATL 01/16/2017 ATL @ NYK W 22 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 1 2 0 0 4 -8
+p55
+aVMike Dunleavy ATL 01/16/2017 ATL @ NYK W 19 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 0 1 0 1 0 -3
+p56
+aVPaul Millsap ATL 01/16/2017 ATL @ NYK W 39 17 5 18 27.8 1 5 20.0 6 10 60.0 1 6 7 6 3 3 3 4 5
+p57
+aVDennis Schroder ATL 01/15/2017 ATL vs. MIL W 24 6 3 8 37.5 0 0 - 0 0 - 0 2 2 6 0 0 5 0 -9
+p58
+aVTim Hardaway Jr. ATL 01/15/2017 ATL vs. MIL W 24 6 3 7 42.9 0 3 0.0 0 0 - 0 2 2 1 1 0 1 2 14
+p59
+aVKent Bazemore ATL 01/15/2017 ATL vs. MIL W 28 24 8 13 61.5 4 7 57.1 4 5 80.0 2 1 3 1 2 0 2 3 -1
+p60
+aVMike Dunleavy ATL 01/15/2017 ATL vs. MIL W 23 20 6 10 60.0 4 5 80.0 4 5 80.0 1 2 3 2 0 0 1 4 16
+p61
+aVMike Muscala ATL 01/15/2017 ATL vs. MIL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p62
+aVKris Humphries ATL 01/15/2017 ATL vs. MIL W 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 1 0 0 5
+p63
+aVPaul Millsap ATL 01/15/2017 ATL vs. MIL W 36 18 7 12 58.3 3 5 60.0 1 1 100.0 2 6 8 5 0 2 4 4 5
+p64
+aVMalcolm Delaney ATL 01/15/2017 ATL vs. MIL W 26 9 4 7 57.1 1 3 33.3 0 0 - 0 0 0 9 1 0 2 2 24
+p65
+aVDwight Howard ATL 01/15/2017 ATL vs. MIL W 32 16 6 8 75.0 0 0 - 4 6 66.7 7 7 14 2 1 1 2 2 7
+p66
+aVThabo Sefolosha ATL 01/15/2017 ATL vs. MIL W 35 10 4 11 36.4 1 3 33.3 1 1 100.0 1 1 2 3 3 0 2 3 5
+p67
+aVKris Humphries ATL 01/13/2017 ATL vs. BOS L 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p68
+aVPaul Millsap ATL 01/13/2017 ATL vs. BOS L 40 23 8 15 53.3 1 3 33.3 6 7 85.7 3 2 5 6 1 1 3 1 -10
+p69
+aVMalcolm Delaney ATL 01/13/2017 ATL vs. BOS L 27 17 6 12 50.0 3 4 75.0 2 2 100.0 0 4 4 6 0 0 1 2 23
+p70
+aVTim Hardaway Jr. ATL 01/13/2017 ATL vs. BOS L 29 23 9 17 52.9 3 7 42.9 2 3 66.7 1 1 2 2 3 1 1 2 4
+p71
+aVTaurean Prince ATL 01/13/2017 ATL vs. BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p72
+aVMike Dunleavy ATL 01/13/2017 ATL vs. BOS L 15 6 2 3 66.7 2 3 66.7 0 0 - 0 5 5 1 0 0 0 1 18
+p73
+aVDeAndre' Bembry ATL 01/13/2017 ATL vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 4
+p74
+aVDwight Howard ATL 01/13/2017 ATL vs. BOS L 24 11 4 4 100.0 0 0 - 3 3 100.0 2 6 8 0 1 1 3 2 -14
+p75
+aVKent Bazemore ATL 01/13/2017 ATL vs. BOS L 29 12 4 11 36.4 2 6 33.3 2 2 100.0 0 3 3 3 0 1 2 2 2
+p76
+aVMike Muscala ATL 01/13/2017 ATL vs. BOS L 18 0 0 7 0.0 0 2 0.0 0 0 - 5 1 6 0 0 0 0 2 4
+p77
+aVDennis Schroder ATL 01/13/2017 ATL vs. BOS L 23 4 2 11 18.2 0 3 0.0 0 0 - 1 2 3 3 0 0 1 4 -23
+p78
+aVThabo Sefolosha ATL 01/13/2017 ATL vs. BOS L 24 3 0 3 0.0 0 2 0.0 3 4 75.0 0 3 3 1 0 1 0 1 -20
+p79
+aVDeAndre' Bembry ATL 01/10/2017 ATL @ BKN W 3 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 0 -3
+p80
+aVThabo Sefolosha ATL 01/10/2017 ATL @ BKN W 27 10 5 10 50.0 0 2 0.0 0 0 - 0 4 4 2 2 1 1 1 15
+p81
+aVPaul Millsap ATL 01/10/2017 ATL @ BKN W 29 14 6 14 42.9 0 1 0.0 2 4 50.0 3 5 8 4 1 3 1 3 18
+p82
+aVKent Bazemore ATL 01/10/2017 ATL @ BKN W 22 6 1 7 14.3 0 3 0.0 4 6 66.7 1 2 3 0 2 0 1 2 9
+p83
+aVMike Scott ATL 01/10/2017 ATL @ BKN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p84
+aVMike Muscala ATL 01/10/2017 ATL @ BKN W 23 9 3 6 50.0 1 2 50.0 2 2 100.0 0 4 4 0 1 2 0 3 4
+p85
+aVDennis Schroder ATL 01/10/2017 ATL @ BKN W 30 19 7 14 50.0 2 4 50.0 3 3 100.0 0 1 1 10 2 0 1 1 14
+p86
+aVDwight Howard ATL 01/10/2017 ATL @ BKN W 28 14 6 9 66.7 0 0 - 2 8 25.0 7 9 16 0 0 1 2 1 9
+p87
+aVMalcolm Delaney ATL 01/10/2017 ATL @ BKN W 16 12 5 6 83.3 1 2 50.0 1 3 33.3 0 1 1 1 0 0 4 0 5
+p88
+aVKris Humphries ATL 01/10/2017 ATL @ BKN W 16 13 5 8 62.5 0 1 0.0 3 4 75.0 2 6 8 2 1 1 0 3 7
+p89
+aVTim Hardaway Jr. ATL 01/10/2017 ATL @ BKN W 22 9 3 9 33.3 1 3 33.3 2 4 50.0 0 2 2 4 1 2 0 1 18
+p90
+aVTaurean Prince ATL 01/10/2017 ATL @ BKN W 20 8 2 6 33.3 2 4 50.0 2 2 100.0 2 4 6 1 1 2 2 0 5
+p91
+aVTaurean Prince ATL 01/07/2017 ATL @ DAL W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 2 0 0 1 -9
+p92
+aVDwight Howard ATL 01/07/2017 ATL @ DAL W 31 15 4 10 40.0 0 0 - 7 9 77.8 3 17 20 0 1 0 1 1 15
+p93
+aVTim Hardaway Jr. ATL 01/07/2017 ATL @ DAL W 31 22 7 13 53.8 5 8 62.5 3 4 75.0 0 2 2 3 0 0 2 2 5
+p94
+aVMalcolm Delaney ATL 01/07/2017 ATL @ DAL W 25 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -3
+p95
+aVKent Bazemore ATL 01/07/2017 ATL @ DAL W 28 6 2 6 33.3 2 4 50.0 0 0 - 2 2 4 4 0 1 0 2 23
+p96
+aVThabo Sefolosha ATL 01/07/2017 ATL @ DAL W 18 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 6
+p97
+aVDennis Schroder ATL 01/07/2017 ATL @ DAL W 29 20 7 15 46.7 3 5 60.0 3 4 75.0 0 3 3 3 1 0 2 4 23
+p98
+aVMike Muscala ATL 01/07/2017 ATL @ DAL W 21 11 4 7 57.1 1 3 33.3 2 2 100.0 1 1 2 1 1 0 0 0 -7
+p99
+aVKris Humphries ATL 01/07/2017 ATL @ DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -3
+p100
+aVPaul Millsap ATL 01/07/2017 ATL @ DAL W 39 17 3 10 30.0 0 2 0.0 11 13 84.6 0 9 9 6 2 0 2 1 25
+p101
+aVKent Bazemore ATL 01/05/2017 ATL @ NOP W 21 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 0
+p102
+aVTim Hardaway Jr. ATL 01/05/2017 ATL @ NOP W 26 14 5 12 41.7 4 7 57.1 0 0 - 0 6 6 0 1 0 0 0 7
+p103
+aVMalcolm Delaney ATL 01/05/2017 ATL @ NOP W 20 7 2 6 33.3 0 2 0.0 3 3 100.0 0 3 3 8 3 0 3 0 -2
+p104
+aVDwight Howard ATL 01/05/2017 ATL @ NOP W 30 12 5 8 62.5 0 0 - 2 4 50.0 4 8 12 1 0 1 1 3 2
+p105
+aVDeAndre' Bembry ATL 01/05/2017 ATL @ NOP W 15 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p106
+aVPaul Millsap ATL 01/05/2017 ATL @ NOP W 33 17 6 19 31.6 1 4 25.0 4 4 100.0 0 10 10 4 2 1 2 1 7
+p107
+aVDennis Schroder ATL 01/05/2017 ATL @ NOP W 33 23 8 18 44.4 2 5 40.0 5 6 83.3 3 3 6 4 1 0 4 1 0
+p108
+aVKris Humphries ATL 01/05/2017 ATL @ NOP W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 2
+p109
+aVThabo Sefolosha ATL 01/05/2017 ATL @ NOP W 32 7 3 6 50.0 1 2 50.0 0 0 - 1 5 6 5 1 3 2 2 14
+p110
+aVMike Muscala ATL 01/05/2017 ATL @ NOP W 20 9 4 9 44.4 1 1 100.0 0 0 - 4 2 6 0 1 1 0 1 1
+p111
+aVDeAndre' Bembry ATL 01/04/2017 ATL @ ORL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p112
+aVPaul Millsap ATL 01/04/2017 ATL @ ORL W 30 16 6 12 50.0 2 4 50.0 2 5 40.0 0 6 6 4 4 0 5 2 12
+p113
+aVKent Bazemore ATL 01/04/2017 ATL @ ORL W 27 17 6 9 66.7 3 3 100.0 2 2 100.0 0 0 0 4 2 0 0 2 24
+p114
+aVMalcolm Delaney ATL 01/04/2017 ATL @ ORL W 20 11 5 7 71.4 1 1 100.0 0 0 - 0 3 3 0 1 0 0 1 5
+p115
+aVMike Muscala ATL 01/04/2017 ATL @ ORL W 22 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 1 1 0 2 2 7
+p116
+aVKyle Korver ATL 01/04/2017 ATL @ ORL W 17 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 7 1 1 0 0 -5
+p117
+aVTim Hardaway Jr. ATL 01/04/2017 ATL @ ORL W 21 12 5 9 55.6 2 4 50.0 0 0 - 0 2 2 2 0 0 2 0 -1
+p118
+aVDennis Schroder ATL 01/04/2017 ATL @ ORL W 30 18 7 13 53.8 0 1 0.0 4 6 66.7 0 6 6 7 1 0 3 1 18
+p119
+aVKris Humphries ATL 01/04/2017 ATL @ ORL W 14 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 0 0 1 0 0 4
+p120
+aVDwight Howard ATL 01/04/2017 ATL @ ORL W 30 13 5 9 55.6 0 0 - 3 3 100.0 3 9 12 1 1 1 0 2 15
+p121
+aVThabo Sefolosha ATL 01/04/2017 ATL @ ORL W 28 8 4 9 44.4 0 1 0.0 0 0 - 0 5 5 1 1 0 0 2 14
+p122
+aVMalcolm Delaney ATL 01/01/2017 ATL vs. SAS W 20 4 2 5 40.0 0 0 - 0 0 - 0 4 4 4 0 0 3 1 9
+p123
+aVDwight Howard ATL 01/01/2017 ATL vs. SAS W 34 6 2 4 50.0 0 0 - 2 4 50.0 4 4 8 1 0 1 2 4 -7
+p124
+aVKyle Korver ATL 01/01/2017 ATL vs. SAS W 39 14 5 12 41.7 4 9 44.4 0 0 - 0 8 8 4 1 1 0 0 13
+p125
+aVDennis Schroder ATL 01/01/2017 ATL vs. SAS W 33 16 7 17 41.2 0 2 0.0 2 3 66.7 1 0 1 10 0 1 3 1 -7
+p126
+aVMike Muscala ATL 01/01/2017 ATL vs. SAS W 19 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 1 0 2 11
+p127
+aVThabo Sefolosha ATL 01/01/2017 ATL vs. SAS W 16 3 0 3 0.0 0 1 0.0 3 4 75.0 1 1 2 1 1 1 0 3 -9
+p128
+aVKent Bazemore ATL 01/01/2017 ATL vs. SAS W 19 8 3 10 30.0 1 2 50.0 1 4 25.0 1 1 2 0 2 0 0 3 -16
+p129
+aVKris Humphries ATL 01/01/2017 ATL vs. SAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 7
+p130
+aVPaul Millsap ATL 01/01/2017 ATL vs. SAS W 47 32 11 23 47.8 3 6 50.0 7 10 70.0 3 10 13 3 0 1 2 5 -5
+p131
+aVTim Hardaway Jr. ATL 01/01/2017 ATL vs. SAS W 31 29 11 13 84.6 6 7 85.7 1 2 50.0 1 4 5 1 0 0 1 2 14
+p132
+aVDennis Schroder ATL 12/30/2016 ATL vs. DET W 31 17 6 14 42.9 2 4 50.0 3 4 75.0 0 1 1 7 2 0 4 3 9
+p133
+aVKyle Korver ATL 12/30/2016 ATL vs. DET W 29 22 7 13 53.8 3 8 37.5 5 6 83.3 0 3 3 2 0 0 1 0 4
+p134
+aVDwight Howard ATL 12/30/2016 ATL vs. DET W 30 10 4 7 57.1 0 0 - 2 3 66.7 5 10 15 1 0 1 0 3 2
+p135
+aVMike Muscala ATL 12/30/2016 ATL vs. DET W 18 5 2 5 40.0 1 3 33.3 0 0 - 2 3 5 2 2 0 1 2 16
+p136
+aVPaul Millsap ATL 12/30/2016 ATL vs. DET W 37 26 9 20 45.0 1 4 25.0 7 8 87.5 3 3 6 5 2 0 3 3 2
+p137
+aVMalcolm Delaney ATL 12/30/2016 ATL vs. DET W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 7 2 0 2 0 1
+p138
+aVThabo Sefolosha ATL 12/30/2016 ATL vs. DET W 23 4 2 6 33.3 0 1 0.0 0 1 0.0 0 5 5 0 0 0 0 3 -4
+p139
+aVKent Bazemore ATL 12/30/2016 ATL vs. DET W 29 10 4 8 50.0 0 1 0.0 2 3 66.7 0 2 2 4 2 1 2 4 -1
+p140
+aVKris Humphries ATL 12/30/2016 ATL vs. DET W 10 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 1 0 0 0 2 -3
+p141
+aVTim Hardaway Jr. ATL 12/30/2016 ATL vs. DET W 17 4 2 8 25.0 0 3 0.0 0 0 - 1 1 2 0 0 0 2 1 9
+p142
+aVDennis Schroder ATL 12/28/2016 ATL vs. NYK W 40 27 11 21 52.4 1 3 33.3 4 6 66.7 0 0 0 5 2 0 2 2 11
+p143
+aVKris Humphries ATL 12/28/2016 ATL vs. NYK W 12 6 2 7 28.6 0 1 0.0 2 2 100.0 2 4 6 0 1 0 0 0 5
+p144
+aVKent Bazemore ATL 12/28/2016 ATL vs. NYK W 40 11 4 12 33.3 1 4 25.0 2 2 100.0 0 1 1 4 0 0 3 4 8
+p145
+aVThabo Sefolosha ATL 12/28/2016 ATL vs. NYK W 31 11 3 7 42.9 1 4 25.0 4 4 100.0 1 5 6 0 2 0 4 2 -3
+p146
+aVPaul Millsap ATL 12/28/2016 ATL vs. NYK W 41 12 4 20 20.0 1 6 16.7 3 4 75.0 3 4 7 6 1 2 0 3 7
+p147
+aVDwight Howard ATL 12/28/2016 ATL vs. NYK W 39 16 6 9 66.7 0 0 - 4 6 66.7 7 15 22 3 1 1 1 5 -1
+p148
+aVMalcolm Delaney ATL 12/28/2016 ATL vs. NYK W 10 4 2 4 50.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 1 1 0
+p149
+aVTim Hardaway Jr. ATL 12/28/2016 ATL vs. NYK W 13 0 0 7 0.0 0 2 0.0 0 0 - 1 2 3 0 0 0 0 2 -1
+p150
+aVMike Muscala ATL 12/28/2016 ATL vs. NYK W 14 2 1 4 25.0 0 1 0.0 0 0 - 3 2 5 0 1 0 1 0 -6
+p151
+aVKyle Korver ATL 12/28/2016 ATL vs. NYK W 25 13 4 10 40.0 3 5 60.0 2 2 100.0 0 5 5 1 0 0 1 0 0
+p152
+aVMalcolm Delaney ATL 12/26/2016 ATL @ MIN L 21 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 1 1 0 4 1 -9
+p153
+aVMike Scott ATL 12/26/2016 ATL @ MIN L 18 5 2 6 33.3 1 5 20.0 0 0 - 0 3 3 1 1 1 1 0 7
+p154
+aVRyan Kelly ATL 12/26/2016 ATL @ MIN L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 1 0 1 1 11
+p155
+aVKris Humphries ATL 12/26/2016 ATL @ MIN L 11 12 3 5 60.0 0 1 0.0 6 7 85.7 5 0 5 2 0 0 0 0 12
+p156
+aVMike Muscala ATL 12/26/2016 ATL @ MIN L 18 3 1 4 25.0 1 4 25.0 0 0 - 2 0 2 4 0 0 0 0 -25
+p157
+aVDwight Howard ATL 12/26/2016 ATL @ MIN L 21 20 9 9 100.0 0 0 - 2 3 66.7 6 6 12 2 2 1 3 2 -9
+p158
+aVKyle Korver ATL 12/26/2016 ATL @ MIN L 23 6 2 7 28.6 2 6 33.3 0 0 - 0 3 3 1 0 0 0 1 -24
+p159
+aVPaul Millsap ATL 12/26/2016 ATL @ MIN L 25 7 2 13 15.4 0 3 0.0 3 4 75.0 2 3 5 0 1 0 2 3 -18
+p160
+aVKent Bazemore ATL 12/26/2016 ATL @ MIN L 24 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 1 1 3 4 -11
+p161
+aVThabo Sefolosha ATL 12/26/2016 ATL @ MIN L 21 13 5 10 50.0 3 4 75.0 0 0 - 1 4 5 0 0 3 1 0 -2
+p162
+aVDeAndre' Bembry ATL 12/26/2016 ATL @ MIN L 17 7 3 4 75.0 0 0 - 1 3 33.3 0 3 3 0 0 0 2 3 0
+p163
+aVTaurean Prince ATL 12/26/2016 ATL @ MIN L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 1 0 0 13
+p164
+aVDennis Schroder ATL 12/26/2016 ATL @ MIN L 23 8 4 10 40.0 0 2 0.0 0 0 - 1 1 2 4 1 0 2 4 -15
+p165
+aVPaul Millsap ATL 12/23/2016 ATL @ DEN W 38 20 5 15 33.3 2 5 40.0 8 10 80.0 1 7 8 3 1 1 1 4 -1
+p166
+aVKris Humphries ATL 12/23/2016 ATL @ DEN W 22 10 4 10 40.0 0 1 0.0 2 2 100.0 3 5 8 2 0 1 1 4 -9
+p167
+aVMike Muscala ATL 12/23/2016 ATL @ DEN W 21 13 5 7 71.4 1 3 33.3 2 3 66.7 0 3 3 2 0 1 0 5 9
+p168
+aVMalcolm Delaney ATL 12/23/2016 ATL @ DEN W 30 7 3 8 37.5 1 3 33.3 0 0 - 1 1 2 3 0 0 1 3 4
+p169
+aVTaurean Prince ATL 12/23/2016 ATL @ DEN W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p170
+aVDeAndre' Bembry ATL 12/23/2016 ATL @ DEN W 19 9 4 6 66.7 0 1 0.0 1 1 100.0 2 2 4 1 1 0 0 2 -13
+p171
+aVMike Scott ATL 12/23/2016 ATL @ DEN W 12 5 1 4 25.0 0 3 0.0 3 4 75.0 1 3 4 3 1 0 0 1 8
+p172
+aVDennis Schroder ATL 12/23/2016 ATL @ DEN W 36 27 9 19 47.4 2 4 50.0 7 7 100.0 0 6 6 5 1 0 3 2 14
+p173
+aVThabo Sefolosha ATL 12/23/2016 ATL @ DEN W 29 12 4 8 50.0 2 3 66.7 2 2 100.0 2 2 4 3 4 1 0 1 9
+p174
+aVKent Bazemore ATL 12/23/2016 ATL @ DEN W 31 5 2 9 22.2 0 2 0.0 1 2 50.0 0 2 2 4 2 0 2 3 -15
+p175
+aVMalcolm Delaney ATL 12/21/2016 ATL vs. MIN L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -5
+p176
+aVThabo Sefolosha ATL 12/21/2016 ATL vs. MIN L 33 4 2 6 33.3 0 2 0.0 0 0 - 0 6 6 1 4 0 1 3 -10
+p177
+aVTim Hardaway Jr. ATL 12/21/2016 ATL vs. MIN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p178
+aVKent Bazemore ATL 12/21/2016 ATL vs. MIN L 33 9 3 9 33.3 1 2 50.0 2 4 50.0 0 4 4 1 0 4 0 1 -6
+p179
+aVDennis Schroder ATL 12/21/2016 ATL vs. MIN L 37 21 10 21 47.6 1 7 14.3 0 0 - 0 1 1 7 0 0 1 1 -7
+p180
+aVMike Muscala ATL 12/21/2016 ATL vs. MIN L 30 16 6 9 66.7 3 3 100.0 1 1 100.0 2 2 4 0 1 0 2 4 1
+p181
+aVMike Scott ATL 12/21/2016 ATL vs. MIN L 18 4 1 4 25.0 0 1 0.0 2 2 100.0 3 1 4 0 0 0 0 1 -6
+p182
+aVKyle Korver ATL 12/21/2016 ATL vs. MIN L 33 10 4 10 40.0 2 6 33.3 0 0 - 0 5 5 3 0 4 4 1 -13
+p183
+aVTaurean Prince ATL 12/21/2016 ATL vs. MIN L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -2
+p184
+aVPaul Millsap ATL 12/21/2016 ATL vs. MIN L 39 18 7 18 38.9 0 5 0.0 4 6 66.7 3 7 10 7 2 0 0 2 1
+p185
+aVPaul Millsap ATL 12/19/2016 ATL @ OKC W 39 30 12 18 66.7 3 5 60.0 3 3 100.0 2 9 11 1 1 1 4 3 11
+p186
+aVKent Bazemore ATL 12/19/2016 ATL @ OKC W 40 12 4 9 44.4 0 2 0.0 4 9 44.4 0 5 5 6 2 1 2 3 4
+p187
+aVMalcolm Delaney ATL 12/19/2016 ATL @ OKC W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 2 -9
+p188
+aVKyle Korver ATL 12/19/2016 ATL @ OKC W 35 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 6 0 0 0 4 5
+p189
+aVDennis Schroder ATL 12/19/2016 ATL @ OKC W 40 31 10 16 62.5 1 3 33.3 10 10 100.0 2 3 5 8 0 0 4 1 9
+p190
+aVMike Scott ATL 12/19/2016 ATL @ OKC W 8 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 0 3
+p191
+aVMike Muscala ATL 12/19/2016 ATL @ OKC W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -13
+p192
+aVTim Hardaway Jr. ATL 12/19/2016 ATL @ OKC W 22 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 1 1 0 3 4 -2
+p193
+aVThabo Sefolosha ATL 12/19/2016 ATL @ OKC W 34 15 6 10 60.0 1 3 33.3 2 2 100.0 0 6 6 1 1 0 1 2 2
+p194
+aVTim Hardaway Jr. ATL 12/17/2016 ATL vs. CHA L 33 21 7 17 41.2 4 9 44.4 3 6 50.0 0 4 4 4 0 1 0 1 5
+p195
+aVPaul Millsap ATL 12/17/2016 ATL vs. CHA L 34 20 8 17 47.1 2 3 66.7 2 2 100.0 0 5 5 5 1 0 1 1 5
+p196
+aVKent Bazemore ATL 12/17/2016 ATL vs. CHA L 30 17 7 13 53.8 1 4 25.0 2 2 100.0 2 2 4 5 0 1 2 2 -10
+p197
+aVMalcolm Delaney ATL 12/17/2016 ATL vs. CHA L 13 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 2 -1
+p198
+aVKyle Korver ATL 12/17/2016 ATL vs. CHA L 20 7 3 8 37.5 1 5 20.0 0 0 - 0 4 4 2 0 0 0 0 -14
+p199
+aVThabo Sefolosha ATL 12/17/2016 ATL vs. CHA L 30 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 0 1 0 2 3 1
+p200
+aVDwight Howard ATL 12/17/2016 ATL vs. CHA L 35 10 4 6 66.7 0 0 - 2 4 50.0 5 18 23 1 1 0 1 4 -2
+p201
+aVDennis Schroder ATL 12/17/2016 ATL vs. CHA L 32 12 6 12 50.0 0 0 - 0 2 0.0 1 3 4 6 0 0 4 4 -5
+p202
+aVMike Muscala ATL 12/17/2016 ATL vs. CHA L 13 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -19
+p203
+aVKyle Korver ATL 12/16/2016 ATL @ TOR W 23 19 6 10 60.0 6 10 60.0 1 1 100.0 0 3 3 1 0 0 1 2 4
+p204
+aVTim Hardaway Jr. ATL 12/16/2016 ATL @ TOR W 36 14 5 16 31.3 1 5 20.0 3 3 100.0 0 1 1 3 3 0 3 2 -5
+p205
+aVMike Muscala ATL 12/16/2016 ATL @ TOR W 18 6 3 7 42.9 0 1 0.0 0 2 0.0 2 2 4 5 0 2 0 1 4
+p206
+aVThabo Sefolosha ATL 12/16/2016 ATL @ TOR W 28 4 2 6 33.3 0 0 - 0 0 - 2 6 8 1 1 2 3 1 -8
+p207
+aVPaul Millsap ATL 12/16/2016 ATL @ TOR W 28 14 5 9 55.6 1 2 50.0 3 4 75.0 1 4 5 4 1 1 2 4 -4
+p208
+aVKent Bazemore ATL 12/16/2016 ATL @ TOR W 22 7 3 6 50.0 1 2 50.0 0 2 0.0 2 3 5 1 0 1 0 1 14
+p209
+aVDennis Schroder ATL 12/16/2016 ATL @ TOR W 29 24 8 12 66.7 2 4 50.0 6 7 85.7 1 1 2 6 1 0 3 4 -17
+p210
+aVKris Humphries ATL 12/16/2016 ATL @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p211
+aVDwight Howard ATL 12/16/2016 ATL @ TOR W 34 27 10 13 76.9 0 0 - 7 10 70.0 7 8 15 1 0 0 1 3 15
+p212
+aVMalcolm Delaney ATL 12/16/2016 ATL @ TOR W 22 10 4 7 57.1 0 1 0.0 2 3 66.7 0 1 1 4 0 0 1 4 18
+p213
+aVTaurean Prince ATL 12/13/2016 ATL vs. ORL L 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p214
+aVTim Hardaway Jr. ATL 12/13/2016 ATL vs. ORL L 30 12 4 12 33.3 1 6 16.7 3 3 100.0 1 2 3 2 0 0 0 2 2
+p215
+aVKent Bazemore ATL 12/13/2016 ATL vs. ORL L 15 5 2 8 25.0 0 2 0.0 1 2 50.0 0 3 3 0 0 0 0 1 -10
+p216
+aVKyle Korver ATL 12/13/2016 ATL vs. ORL L 27 12 4 6 66.7 4 5 80.0 0 0 - 0 1 1 0 0 0 0 1 -23
+p217
+aVMike Muscala ATL 12/13/2016 ATL vs. ORL L 24 6 3 8 37.5 0 1 0.0 0 0 - 1 4 5 2 0 1 0 2 -15
+p218
+aVDeAndre' Bembry ATL 12/13/2016 ATL vs. ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p219
+aVThabo Sefolosha ATL 12/13/2016 ATL vs. ORL L 30 17 6 11 54.5 1 3 33.3 4 4 100.0 1 4 5 3 2 1 1 1 0
+p220
+aVPaul Millsap ATL 12/13/2016 ATL vs. ORL L 34 17 6 12 50.0 2 5 40.0 3 3 100.0 1 8 9 5 2 1 3 4 -6
+p221
+aVMalcolm Delaney ATL 12/13/2016 ATL vs. ORL L 14 8 2 4 50.0 0 1 0.0 4 4 100.0 0 1 1 3 0 0 2 2 -11
+p222
+aVDennis Schroder ATL 12/13/2016 ATL vs. ORL L 34 19 7 16 43.8 3 5 60.0 2 2 100.0 0 1 1 13 2 0 4 3 0
+p223
+aVDwight Howard ATL 12/13/2016 ATL vs. ORL L 29 20 9 10 90.0 0 0 - 2 3 66.7 9 7 16 1 0 1 5 0 0
+p224
+aVKyle Korver ATL 12/09/2016 ATL @ MIL W 33 7 2 6 33.3 1 5 20.0 2 2 100.0 0 3 3 5 1 0 0 3 0
+p225
+aVPaul Millsap ATL 12/09/2016 ATL @ MIL W 39 23 8 15 53.3 1 4 25.0 6 8 75.0 3 11 14 6 1 3 1 1 11
+p226
+aVMike Muscala ATL 12/09/2016 ATL @ MIL W 20 11 4 6 66.7 3 3 100.0 0 0 - 2 1 3 4 0 0 0 0 -2
+p227
+aVDwight Howard ATL 12/09/2016 ATL @ MIL W 28 10 3 4 75.0 0 0 - 4 6 66.7 2 5 7 2 1 2 2 2 5
+p228
+aVTim Hardaway Jr. ATL 12/09/2016 ATL @ MIL W 31 18 6 17 35.3 3 9 33.3 3 5 60.0 2 2 4 4 1 0 3 0 9
+p229
+aVTaurean Prince ATL 12/09/2016 ATL @ MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p230
+aVMalcolm Delaney ATL 12/09/2016 ATL @ MIL W 18 4 2 7 28.6 0 2 0.0 0 1 0.0 0 6 6 3 0 0 3 1 -7
+p231
+aVDennis Schroder ATL 12/09/2016 ATL @ MIL W 40 33 12 19 63.2 4 7 57.1 5 5 100.0 0 3 3 4 1 1 7 4 12
+p232
+aVThabo Sefolosha ATL 12/09/2016 ATL @ MIL W 29 8 3 9 33.3 0 4 0.0 2 2 100.0 0 6 6 4 2 2 1 0 -3
+p233
+aVPaul Millsap ATL 12/07/2016 ATL vs. MIA W 32 21 8 12 66.7 0 2 0.0 5 6 83.3 1 8 9 2 4 3 3 2 21
+p234
+aVTaurean Prince ATL 12/07/2016 ATL vs. MIA W 12 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 1 0 1 0 3 -4
+p235
+aVThabo Sefolosha ATL 12/07/2016 ATL vs. MIA W 29 10 5 11 45.5 0 3 0.0 0 0 - 3 2 5 5 1 0 0 0 12
+p236
+aVKyle Korver ATL 12/07/2016 ATL vs. MIA W 34 9 3 9 33.3 2 6 33.3 1 1 100.0 0 3 3 5 0 0 1 3 8
+p237
+aVTim Hardaway Jr. ATL 12/07/2016 ATL vs. MIA W 22 7 3 9 33.3 1 3 33.3 0 0 - 0 0 0 2 1 0 2 3 -4
+p238
+aVKris Humphries ATL 12/07/2016 ATL vs. MIA W 4 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -7
+p239
+aVDennis Schroder ATL 12/07/2016 ATL vs. MIA W 31 17 8 15 53.3 1 2 50.0 0 0 - 1 3 4 7 1 1 2 2 5
+p240
+aVMike Muscala ATL 12/07/2016 ATL vs. MIA W 24 8 4 8 50.0 0 1 0.0 0 0 - 0 3 3 0 0 2 2 1 -10
+p241
+aVDwight Howard ATL 12/07/2016 ATL vs. MIA W 35 23 9 11 81.8 0 0 - 5 6 83.3 7 10 17 4 1 2 1 2 16
+p242
+aVMalcolm Delaney ATL 12/07/2016 ATL vs. MIA W 17 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 2 3 3
+p243
+aVPaul Millsap ATL 12/05/2016 ATL vs. OKC L 39 24 8 14 57.1 1 4 25.0 7 11 63.6 0 5 5 4 3 0 2 3 -3
+p244
+aVThabo Sefolosha ATL 12/05/2016 ATL vs. OKC L 33 6 3 6 50.0 0 1 0.0 0 2 0.0 0 3 3 2 4 2 0 5 1
+p245
+aVMalcolm Delaney ATL 12/05/2016 ATL vs. OKC L 14 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 2 0 0 2 2 0
+p246
+aVTim Hardaway Jr. ATL 12/05/2016 ATL vs. OKC L 26 12 4 9 44.4 1 5 20.0 3 3 100.0 0 3 3 3 0 0 1 1 -1
+p247
+aVDwight Howard ATL 12/05/2016 ATL vs. OKC L 19 6 2 6 33.3 0 0 - 2 4 50.0 3 3 6 1 2 0 4 3 1
+p248
+aVKyle Korver ATL 12/05/2016 ATL vs. OKC L 32 15 5 10 50.0 3 6 50.0 2 2 100.0 0 2 2 1 2 0 1 2 6
+p249
+aVMike Muscala ATL 12/05/2016 ATL vs. OKC L 22 11 3 3 100.0 1 1 100.0 4 4 100.0 0 5 5 2 0 1 2 4 -6
+p250
+aVKris Humphries ATL 12/05/2016 ATL vs. OKC L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p251
+aVKent Bazemore ATL 12/05/2016 ATL vs. OKC L 18 0 0 7 0.0 0 3 0.0 0 0 - 2 3 5 3 0 0 3 2 -4
+p252
+aVDennis Schroder ATL 12/05/2016 ATL vs. OKC L 34 17 6 15 40.0 1 2 50.0 4 4 100.0 1 5 6 8 2 0 2 1 -3
+p253
+aVThabo Sefolosha ATL 12/03/2016 ATL @ TOR L 23 8 3 7 42.9 2 3 66.7 0 0 - 1 3 4 1 0 1 2 0 -19
+p254
+aVTim Hardaway Jr. ATL 12/03/2016 ATL @ TOR L 23 15 6 10 60.0 3 6 50.0 0 2 0.0 0 1 1 1 1 1 2 2 -23
+p255
+aVKris Humphries ATL 12/03/2016 ATL @ TOR L 17 10 4 8 50.0 1 2 50.0 1 1 100.0 1 2 3 0 0 0 0 2 -13
+p256
+aVMike Muscala ATL 12/03/2016 ATL @ TOR L 24 7 3 7 42.9 1 3 33.3 0 0 - 2 2 4 2 2 1 3 1 -24
+p257
+aVDeAndre' Bembry ATL 12/03/2016 ATL @ TOR L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -15
+p258
+aVMalcolm Delaney ATL 12/03/2016 ATL @ TOR L 17 3 1 4 25.0 0 2 0.0 1 2 50.0 1 0 1 2 0 0 0 1 -11
+p259
+aVKyle Korver ATL 12/03/2016 ATL @ TOR L 25 6 3 7 42.9 0 3 0.0 0 0 - 0 0 0 1 2 0 2 2 -21
+p260
+aVDwight Howard ATL 12/03/2016 ATL @ TOR L 28 10 4 9 44.4 0 0 - 2 4 50.0 7 10 17 1 0 2 1 2 -3
+p261
+aVMike Scott ATL 12/03/2016 ATL @ TOR L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 3 0 0 0 0 -31
+p262
+aVKent Bazemore ATL 12/03/2016 ATL @ TOR L 26 8 3 12 25.0 0 5 0.0 2 4 50.0 1 1 2 2 0 0 3 3 -17
+p263
+aVTaurean Prince ATL 12/03/2016 ATL @ TOR L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 0 -19
+p264
+aVDennis Schroder ATL 12/03/2016 ATL @ TOR L 24 15 7 14 50.0 0 1 0.0 1 1 100.0 0 1 1 6 1 0 1 0 -18
+p265
+aVRyan Kelly ATL 12/03/2016 ATL @ TOR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -6
+p266
+aVTim Hardaway Jr. ATL 12/02/2016 ATL vs. DET L 27 11 5 14 35.7 0 6 0.0 1 2 50.0 0 2 2 2 1 0 0 1 -6
+p267
+aVRyan Kelly ATL 12/02/2016 ATL vs. DET L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p268
+aVKyle Korver ATL 12/02/2016 ATL vs. DET L 34 7 2 8 25.0 0 3 0.0 3 4 75.0 0 2 2 0 1 0 0 0 -28
+p269
+aVDwight Howard ATL 12/02/2016 ATL vs. DET L 25 2 1 4 25.0 0 0 - 0 0 - 1 5 6 0 0 2 2 5 -22
+p270
+aVKent Bazemore ATL 12/02/2016 ATL vs. DET L 18 7 3 11 27.3 1 3 33.3 0 0 - 1 1 2 1 1 0 0 0 -25
+p271
+aVMike Muscala ATL 12/02/2016 ATL vs. DET L 24 11 5 7 71.4 1 1 100.0 0 0 - 0 0 0 1 2 0 1 3 -20
+p272
+aVMike Scott ATL 12/02/2016 ATL vs. DET L 12 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 3 0 0 1 1 4
+p273
+aVKris Humphries ATL 12/02/2016 ATL vs. DET L 19 10 3 12 25.0 1 2 50.0 3 4 75.0 3 2 5 0 0 0 0 0 -14
+p274
+aVThabo Sefolosha ATL 12/02/2016 ATL vs. DET L 17 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 0 1 0 0 0 -16
+p275
+aVDennis Schroder ATL 12/02/2016 ATL vs. DET L 25 17 7 13 53.8 1 2 50.0 2 3 66.7 0 2 2 11 0 0 1 0 -13
+p276
+aVMalcolm Delaney ATL 12/02/2016 ATL vs. DET L 19 8 2 4 50.0 0 0 - 4 5 80.0 0 1 1 3 0 0 2 2 -18
+p277
+aVTaurean Prince ATL 12/02/2016 ATL vs. DET L 17 5 1 6 16.7 1 4 25.0 2 2 100.0 0 6 6 1 0 0 0 0 -17
+p278
+aVKyle Korver ATL 11/30/2016 ATL @ PHX L 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 1 0 2 -1
+p279
+aVThabo Sefolosha ATL 11/30/2016 ATL @ PHX L 31 6 3 6 50.0 0 0 - 0 0 - 1 7 8 1 5 0 1 4 -6
+p280
+aVKris Humphries ATL 11/30/2016 ATL @ PHX L 15 5 2 4 50.0 0 1 0.0 1 2 50.0 1 2 3 0 0 1 1 1 -12
+p281
+aVDennis Schroder ATL 11/30/2016 ATL @ PHX L 36 31 13 23 56.5 2 6 33.3 3 3 100.0 1 3 4 9 0 1 5 3 15
+p282
+aVMalcolm Delaney ATL 11/30/2016 ATL @ PHX L 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -8
+p283
+aVKent Bazemore ATL 11/30/2016 ATL @ PHX L 40 22 8 17 47.1 4 8 50.0 2 2 100.0 1 4 5 3 3 1 3 2 6
+p284
+aVDwight Howard ATL 11/30/2016 ATL @ PHX L 33 17 8 10 80.0 0 0 - 1 1 100.0 3 11 14 1 0 0 6 3 10
+p285
+aVTim Hardaway Jr. ATL 11/30/2016 ATL @ PHX L 26 21 9 17 52.9 2 7 28.6 1 2 50.0 0 1 1 3 1 0 1 4 -2
+p286
+aVMike Muscala ATL 11/30/2016 ATL @ PHX L 29 0 0 5 0.0 0 0 - 0 0 - 0 3 3 1 0 2 2 0 -3
+p287
+aVMike Scott ATL 11/30/2016 ATL @ PHX L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -9
+p288
+aVDennis Schroder ATL 11/28/2016 ATL @ GSW L 34 24 10 20 50.0 1 4 25.0 3 4 75.0 0 1 1 6 2 1 5 2 1
+p289
+aVThabo Sefolosha ATL 11/28/2016 ATL @ GSW L 26 9 3 8 37.5 0 0 - 3 4 75.0 0 5 5 2 2 1 1 3 -8
+p290
+aVMike Muscala ATL 11/28/2016 ATL @ GSW L 20 9 4 5 80.0 1 2 50.0 0 1 0.0 2 2 4 1 1 0 1 2 -9
+p291
+aVPaul Millsap ATL 11/28/2016 ATL @ GSW L 35 14 3 11 27.3 2 5 40.0 6 7 85.7 5 9 14 3 1 0 3 2 1
+p292
+aVKyle Korver ATL 11/28/2016 ATL @ GSW L 30 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 3 1 0 3 2 0
+p293
+aVTim Hardaway Jr. ATL 11/28/2016 ATL @ GSW L 14 10 3 8 37.5 1 6 16.7 3 4 75.0 0 1 1 0 1 0 0 1 -6
+p294
+aVMalcolm Delaney ATL 11/28/2016 ATL @ GSW L 15 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 4 0 0 0 1 -8
+p295
+aVKent Bazemore ATL 11/28/2016 ATL @ GSW L 28 8 4 15 26.7 0 6 0.0 0 0 - 2 5 7 1 2 1 2 5 4
+p296
+aVDwight Howard ATL 11/28/2016 ATL @ GSW L 37 14 5 8 62.5 0 0 - 4 8 50.0 4 12 16 0 1 1 3 4 0
+p297
+aVTim Hardaway Jr. ATL 11/27/2016 ATL @ LAL L 13 7 3 6 50.0 1 3 33.3 0 1 0.0 1 0 1 0 0 1 1 1 -3
+p298
+aVDwight Howard ATL 11/27/2016 ATL @ LAL L 33 19 9 13 69.2 0 0 - 1 5 20.0 3 6 9 3 1 2 4 4 -8
+p299
+aVKent Bazemore ATL 11/27/2016 ATL @ LAL L 27 21 8 16 50.0 5 8 62.5 0 0 - 0 1 1 4 1 0 0 1 -2
+p300
+aVThabo Sefolosha ATL 11/27/2016 ATL @ LAL L 20 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 1 0 0 0 1 -8
+p301
+aVMalcolm Delaney ATL 11/27/2016 ATL @ LAL L 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 3 -12
+p302
+aVDennis Schroder ATL 11/27/2016 ATL @ LAL L 32 11 5 15 33.3 1 5 20.0 0 0 - 1 3 4 8 1 1 3 2 -6
+p303
+aVPaul Millsap ATL 11/27/2016 ATL @ LAL L 30 9 4 11 36.4 1 4 25.0 0 0 - 1 4 5 3 0 0 2 2 -15
+p304
+aVRyan Kelly ATL 11/27/2016 ATL @ LAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 3
+p305
+aVTaurean Prince ATL 11/27/2016 ATL @ LAL L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p306
+aVKyle Korver ATL 11/27/2016 ATL @ LAL L 32 10 3 10 30.0 2 8 25.0 2 2 100.0 0 4 4 2 0 0 2 2 -10
+p307
+aVMike Muscala ATL 11/27/2016 ATL @ LAL L 25 10 4 7 57.1 2 3 66.7 0 0 - 0 5 5 0 0 2 0 2 -13
+p308
+aVDeAndre' Bembry ATL 11/27/2016 ATL @ LAL L 3 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 1 0 0 0 3
+p309
+aVKyle Korver ATL 11/25/2016 ATL @ UTA L 26 3 1 3 33.3 1 2 50.0 0 1 0.0 0 4 4 1 1 0 0 0 -8
+p310
+aVThabo Sefolosha ATL 11/25/2016 ATL @ UTA L 23 11 4 7 57.1 0 1 0.0 3 4 75.0 3 4 7 2 0 0 0 0 -23
+p311
+aVPaul Millsap ATL 11/25/2016 ATL @ UTA L 28 11 4 11 36.4 1 2 50.0 2 2 100.0 1 4 5 0 1 2 1 3 -8
+p312
+aVDeAndre' Bembry ATL 11/25/2016 ATL @ UTA L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -4
+p313
+aVKris Humphries ATL 11/25/2016 ATL @ UTA L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -4
+p314
+aVMalcolm Delaney ATL 11/25/2016 ATL @ UTA L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 0 -9
+p315
+aVMike Muscala ATL 11/25/2016 ATL @ UTA L 17 2 1 6 16.7 0 1 0.0 0 1 0.0 0 2 2 1 1 0 1 0 2
+p316
+aVTim Hardaway Jr. ATL 11/25/2016 ATL @ UTA L 18 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 2 2 -7
+p317
+aVKent Bazemore ATL 11/25/2016 ATL @ UTA L 20 3 1 9 11.1 0 1 0.0 1 2 50.0 0 4 4 0 1 0 0 2 -13
+p318
+aVDwight Howard ATL 11/25/2016 ATL @ UTA L 27 4 2 9 22.2 0 0 - 0 0 - 2 5 7 0 0 1 2 4 -18
+p319
+aVTaurean Prince ATL 11/25/2016 ATL @ UTA L 19 9 3 6 50.0 3 5 60.0 0 0 - 0 4 4 3 0 0 1 3 -25
+p320
+aVDennis Schroder ATL 11/25/2016 ATL @ UTA L 28 16 6 19 31.6 2 7 28.6 2 2 100.0 0 2 2 2 3 0 2 2 -14
+p321
+aVRyan Kelly ATL 11/25/2016 ATL @ UTA L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 1 0 1 1 0 -4
+p322
+aVMalcolm Delaney ATL 11/23/2016 ATL @ IND W 22 13 3 6 50.0 1 2 50.0 6 6 100.0 0 1 1 1 1 1 1 4 26
+p323
+aVDwight Howard ATL 11/23/2016 ATL @ IND W 33 23 10 12 83.3 0 0 - 3 5 60.0 9 11 20 1 0 0 3 2 1
+p324
+aVTim Hardaway Jr. ATL 11/23/2016 ATL @ IND W 22 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 3 0 1 1 1 13
+p325
+aVKent Bazemore ATL 11/23/2016 ATL @ IND W 26 8 3 13 23.1 0 3 0.0 2 2 100.0 0 4 4 1 4 1 4 2 0
+p326
+aVTaurean Prince ATL 11/23/2016 ATL @ IND W 16 8 3 4 75.0 1 2 50.0 1 2 50.0 1 3 4 0 1 1 1 3 23
+p327
+aVPaul Millsap ATL 11/23/2016 ATL @ IND W 36 18 8 18 44.4 0 4 0.0 2 2 100.0 4 7 11 5 4 3 3 2 20
+p328
+aVDennis Schroder ATL 11/23/2016 ATL @ IND W 25 9 3 11 27.3 1 3 33.3 2 2 100.0 1 2 3 2 0 0 4 1 -15
+p329
+aVThabo Sefolosha ATL 11/23/2016 ATL @ IND W 33 4 2 8 25.0 0 2 0.0 0 0 - 0 8 8 3 1 0 3 2 -14
+p330
+aVMike Muscala ATL 11/23/2016 ATL @ IND W 26 13 4 7 57.1 2 2 100.0 3 3 100.0 2 2 4 1 0 0 1 1 1
+p331
+aVThabo Sefolosha ATL 11/22/2016 ATL vs. NOP L 23 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 1 1 0 1 0 -7
+p332
+aVKris Humphries ATL 11/22/2016 ATL vs. NOP L 14 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 0 0 0 0 2 -4
+p333
+aVKent Bazemore ATL 11/22/2016 ATL vs. NOP L 18 1 0 6 0.0 0 3 0.0 1 2 50.0 1 0 1 1 1 0 2 0 -20
+p334
+aVTim Hardaway Jr. ATL 11/22/2016 ATL vs. NOP L 18 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 1 0 1 1 1 0
+p335
+aVMike Muscala ATL 11/22/2016 ATL vs. NOP L 15 5 1 4 25.0 0 1 0.0 3 4 75.0 2 4 6 1 0 0 1 2 -3
+p336
+aVKyle Korver ATL 11/22/2016 ATL vs. NOP L 29 14 5 6 83.3 4 5 80.0 0 0 - 0 2 2 4 0 0 1 2 -24
+p337
+aVDwight Howard ATL 11/22/2016 ATL vs. NOP L 19 8 4 6 66.7 0 0 - 0 0 - 2 4 6 0 1 3 2 3 -25
+p338
+aVDennis Schroder ATL 11/22/2016 ATL vs. NOP L 27 14 6 13 46.2 1 4 25.0 1 2 50.0 0 4 4 7 0 0 0 1 -16
+p339
+aVTaurean Prince ATL 11/22/2016 ATL vs. NOP L 17 10 4 6 66.7 2 4 50.0 0 0 - 0 1 1 0 0 0 2 0 15
+p340
+aVMalcolm Delaney ATL 11/22/2016 ATL vs. NOP L 18 10 5 11 45.5 0 2 0.0 0 0 - 0 2 2 2 1 0 4 1 -1
+p341
+aVPaul Millsap ATL 11/22/2016 ATL vs. NOP L 23 10 4 9 44.4 1 3 33.3 1 2 50.0 1 7 8 2 1 1 1 3 -15
+p342
+aVDeAndre' Bembry ATL 11/22/2016 ATL vs. NOP L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 6
+p343
+aVRyan Kelly ATL 11/22/2016 ATL vs. NOP L 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 4
+p344
+aVMike Muscala ATL 11/20/2016 ATL @ NYK L 19 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 2 2 0
+p345
+aVMalcolm Delaney ATL 11/20/2016 ATL @ NYK L 21 7 1 4 25.0 0 1 0.0 5 5 100.0 0 4 4 1 1 0 4 1 -1
+p346
+aVDennis Schroder ATL 11/20/2016 ATL @ NYK L 21 1 0 8 0.0 0 3 0.0 1 2 50.0 0 2 2 3 0 0 3 1 -7
+p347
+aVDwight Howard ATL 11/20/2016 ATL @ NYK L 29 18 6 11 54.5 0 0 - 6 12 50.0 8 10 18 0 0 3 1 3 -7
+p348
+aVKyle Korver ATL 11/20/2016 ATL @ NYK L 37 17 7 12 58.3 2 4 50.0 1 1 100.0 0 4 4 1 2 0 0 1 -17
+p349
+aVKris Humphries ATL 11/20/2016 ATL @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -4
+p350
+aVTaurean Prince ATL 11/20/2016 ATL @ NYK L 18 4 2 8 25.0 0 2 0.0 0 0 - 3 2 5 0 0 1 0 1 -5
+p351
+aVPaul Millsap ATL 11/20/2016 ATL @ NYK L 38 19 8 17 47.1 2 4 50.0 1 3 33.3 1 6 7 5 2 2 0 3 -7
+p352
+aVKent Bazemore ATL 11/20/2016 ATL @ NYK L 30 12 4 11 36.4 0 3 0.0 4 4 100.0 0 3 3 5 1 0 1 3 -4
+p353
+aVTim Hardaway Jr. ATL 11/20/2016 ATL @ NYK L 22 12 5 8 62.5 2 3 66.7 0 0 - 0 1 1 2 0 0 1 0 2
+p354
+aVTim Hardaway Jr. ATL 11/18/2016 ATL @ CHA L 23 9 4 9 44.4 1 4 25.0 0 0 - 0 3 3 0 0 0 0 0 -4
+p355
+aVKris Humphries ATL 11/18/2016 ATL @ CHA L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 0 -2
+p356
+aVPaul Millsap ATL 11/18/2016 ATL @ CHA L 33 22 8 13 61.5 1 2 50.0 5 6 83.3 4 9 13 1 0 1 2 3 -3
+p357
+aVKyle Korver ATL 11/18/2016 ATL @ CHA L 29 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 1 2 -3
+p358
+aVMalcolm Delaney ATL 11/18/2016 ATL @ CHA L 17 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 8 1 0 1 2 6
+p359
+aVMike Muscala ATL 11/18/2016 ATL @ CHA L 25 11 4 8 50.0 2 5 40.0 1 1 100.0 1 4 5 2 0 1 2 1 4
+p360
+aVDennis Schroder ATL 11/18/2016 ATL @ CHA L 31 11 5 12 41.7 0 5 0.0 1 2 50.0 0 1 1 5 1 0 2 0 -10
+p361
+aVKent Bazemore ATL 11/18/2016 ATL @ CHA L 30 19 8 15 53.3 1 5 20.0 2 2 100.0 1 1 2 2 3 2 4 5 -7
+p362
+aVDwight Howard ATL 11/18/2016 ATL @ CHA L 31 10 4 9 44.4 0 0 - 2 6 33.3 2 16 18 2 3 2 1 2 -9
+p363
+aVTaurean Prince ATL 11/18/2016 ATL @ CHA L 17 2 1 2 50.0 0 0 - 0 0 - 0 4 4 2 1 0 2 3 8
+p364
+aVPaul Millsap ATL 11/16/2016 ATL vs. MIL W 38 21 8 11 72.7 1 3 33.3 4 4 100.0 0 8 8 3 2 1 2 3 -3
+p365
+aVRyan Kelly ATL 11/16/2016 ATL vs. MIL W 8 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 2 15
+p366
+aVTaurean Prince ATL 11/16/2016 ATL vs. MIL W 19 8 2 5 40.0 0 3 0.0 4 4 100.0 0 5 5 1 1 2 2 2 8
+p367
+aVDennis Schroder ATL 11/16/2016 ATL vs. MIL W 31 12 3 8 37.5 2 4 50.0 4 4 100.0 0 3 3 8 1 0 3 1 -2
+p368
+aVMike Muscala ATL 11/16/2016 ATL vs. MIL W 33 16 6 11 54.5 1 3 33.3 3 4 75.0 1 4 5 3 0 1 3 2 10
+p369
+aVKris Humphries ATL 11/16/2016 ATL vs. MIL W 15 6 2 4 50.0 0 1 0.0 2 2 100.0 1 1 2 1 0 2 0 2 -3
+p370
+aVKyle Korver ATL 11/16/2016 ATL vs. MIL W 27 11 3 9 33.3 2 7 28.6 3 3 100.0 0 6 6 5 1 2 0 2 2
+p371
+aVTim Hardaway Jr. ATL 11/16/2016 ATL vs. MIL W 21 13 4 7 57.1 1 4 25.0 4 6 66.7 0 1 1 3 0 0 0 0 5
+p372
+aVKent Bazemore ATL 11/16/2016 ATL vs. MIL W 30 12 4 10 40.0 3 5 60.0 1 2 50.0 1 4 5 3 0 0 3 3 -6
+p373
+aVMalcolm Delaney ATL 11/16/2016 ATL vs. MIL W 17 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 2 1 0 3 0 9
+p374
+aVThabo Sefolosha ATL 11/15/2016 ATL @ MIA W 23 3 0 2 0.0 0 2 0.0 3 4 75.0 0 2 2 0 3 0 0 0 -5
+p375
+aVKris Humphries ATL 11/15/2016 ATL @ MIA W 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 1 1 0 -2
+p376
+aVMike Muscala ATL 11/15/2016 ATL @ MIA W 22 14 6 7 85.7 2 2 100.0 0 0 - 0 5 5 4 1 0 0 3 3
+p377
+aVDennis Schroder ATL 11/15/2016 ATL @ MIA W 33 18 7 15 46.7 2 2 100.0 2 2 100.0 1 0 1 4 1 0 5 1 0
+p378
+aVKyle Korver ATL 11/15/2016 ATL @ MIA W 29 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 0 0 1 3 0 5
+p379
+aVDwight Howard ATL 11/15/2016 ATL @ MIA W 25 11 5 9 55.6 0 0 - 1 3 33.3 2 9 11 1 3 0 5 3 -1
+p380
+aVKent Bazemore ATL 11/15/2016 ATL @ MIA W 31 12 4 12 33.3 1 2 50.0 3 4 75.0 0 3 3 1 2 2 2 3 1
+p381
+aVMalcolm Delaney ATL 11/15/2016 ATL @ MIA W 15 1 0 3 0.0 0 0 - 1 1 100.0 0 2 2 3 0 0 2 1 3
+p382
+aVPaul Millsap ATL 11/15/2016 ATL @ MIA W 35 15 7 17 41.2 0 2 0.0 1 2 50.0 1 5 6 4 2 0 1 2 10
+p383
+aVTim Hardaway Jr. ATL 11/15/2016 ATL @ MIA W 24 15 6 10 60.0 1 4 25.0 2 3 66.7 1 1 2 1 2 0 0 0 1
+p384
+aVKent Bazemore ATL 11/12/2016 ATL vs. PHI W 28 17 8 13 61.5 1 3 33.3 0 0 - 1 4 5 1 3 2 3 0 5
+p385
+aVPaul Millsap ATL 11/12/2016 ATL vs. PHI W 27 6 3 10 30.0 0 2 0.0 0 0 - 0 4 4 3 0 0 2 1 13
+p386
+aVKris Humphries ATL 11/12/2016 ATL vs. PHI W 18 13 5 7 71.4 1 2 50.0 2 2 100.0 4 5 9 2 0 1 0 3 14
+p387
+aVKyle Korver ATL 11/12/2016 ATL vs. PHI W 28 14 5 11 45.5 3 8 37.5 1 1 100.0 0 2 2 2 2 2 3 2 4
+p388
+aVDeAndre' Bembry ATL 11/12/2016 ATL vs. PHI W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p389
+aVMike Muscala ATL 11/12/2016 ATL vs. PHI W 19 3 1 4 25.0 0 1 0.0 1 2 50.0 2 4 6 4 1 0 0 2 7
+p390
+aVDennis Schroder ATL 11/12/2016 ATL vs. PHI W 28 16 7 10 70.0 2 2 100.0 0 3 0.0 0 5 5 8 1 1 5 0 9
+p391
+aVTim Hardaway Jr. ATL 11/12/2016 ATL vs. PHI W 18 20 7 13 53.8 5 10 50.0 1 2 50.0 0 3 3 1 0 0 1 0 16
+p392
+aVDwight Howard ATL 11/12/2016 ATL vs. PHI W 28 10 5 7 71.4 0 0 - 0 1 0.0 5 6 11 2 1 0 0 4 6
+p393
+aVThabo Sefolosha ATL 11/12/2016 ATL vs. PHI W 18 7 3 7 42.9 1 3 33.3 0 0 - 0 2 2 1 2 0 1 1 15
+p394
+aVRyan Kelly ATL 11/12/2016 ATL vs. PHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p395
+aVTaurean Prince ATL 11/12/2016 ATL vs. PHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p396
+aVMalcolm Delaney ATL 11/12/2016 ATL vs. PHI W 17 9 3 8 37.5 0 1 0.0 3 3 100.0 2 1 3 6 0 0 1 0 10
+p397
+aVDennis Schroder ATL 11/09/2016 ATL vs. CHI W 31 13 5 19 26.3 1 4 25.0 2 3 66.7 2 5 7 3 0 0 4 2 -17
+p398
+aVMalcolm Delaney ATL 11/09/2016 ATL vs. CHI W 17 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 0 25
+p399
+aVThabo Sefolosha ATL 11/09/2016 ATL vs. CHI W 29 20 8 9 88.9 2 3 66.7 2 2 100.0 1 4 5 1 3 1 4 0 8
+p400
+aVPaul Millsap ATL 11/09/2016 ATL vs. CHI W 34 16 5 13 38.5 2 3 66.7 4 4 100.0 0 11 11 6 1 2 6 4 12
+p401
+aVMike Muscala ATL 11/09/2016 ATL vs. CHI W 16 11 4 8 50.0 1 3 33.3 2 2 100.0 3 3 6 1 0 0 1 2 -9
+p402
+aVKris Humphries ATL 11/09/2016 ATL vs. CHI W 12 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 12
+p403
+aVTim Hardaway Jr. ATL 11/09/2016 ATL vs. CHI W 19 11 5 9 55.6 1 3 33.3 0 0 - 0 3 3 2 0 0 0 1 12
+p404
+aVKent Bazemore ATL 11/09/2016 ATL vs. CHI W 22 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 7 1 1 0 3 -8
+p405
+aVKyle Korver ATL 11/09/2016 ATL vs. CHI W 26 11 4 5 80.0 2 2 100.0 1 1 100.0 0 2 2 2 0 0 3 5 8
+p406
+aVDwight Howard ATL 11/09/2016 ATL vs. CHI W 34 18 6 9 66.7 0 0 - 6 9 66.7 6 4 10 0 3 2 2 3 -3
+p407
+aVDwight Howard ATL 11/08/2016 ATL @ CLE W 27 7 3 5 60.0 0 0 - 1 4 25.0 2 15 17 2 0 3 3 4 3
+p408
+aVDennis Schroder ATL 11/08/2016 ATL @ CLE W 32 28 10 16 62.5 3 6 50.0 5 5 100.0 1 1 2 6 0 0 4 3 3
+p409
+aVKent Bazemore ATL 11/08/2016 ATL @ CLE W 33 25 8 13 61.5 4 6 66.7 5 7 71.4 1 5 6 3 0 0 1 2 -6
+p410
+aVMike Muscala ATL 11/08/2016 ATL @ CLE W 22 10 5 8 62.5 0 2 0.0 0 0 - 3 0 3 2 0 1 2 0 -6
+p411
+aVTim Hardaway Jr. ATL 11/08/2016 ATL @ CLE W 29 8 3 11 27.3 1 7 14.3 1 2 50.0 1 1 2 2 0 0 1 0 12
+p412
+aVTaurean Prince ATL 11/08/2016 ATL @ CLE W 9 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 1 7
+p413
+aVPaul Millsap ATL 11/08/2016 ATL @ CLE W 36 21 7 16 43.8 2 4 50.0 5 6 83.3 1 4 5 1 0 0 3 5 10
+p414
+aVMalcolm Delaney ATL 11/08/2016 ATL @ CLE W 14 4 2 3 66.7 0 0 - 0 0 - 0 4 4 4 0 0 3 2 4
+p415
+aVKris Humphries ATL 11/08/2016 ATL @ CLE W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -1
+p416
+aVThabo Sefolosha ATL 11/08/2016 ATL @ CLE W 35 5 2 6 33.3 1 3 33.3 0 0 - 2 3 5 1 1 0 1 3 -6
+p417
+aVDennis Schroder ATL 11/05/2016 ATL vs. HOU W 32 17 6 14 42.9 2 5 40.0 3 4 75.0 0 3 3 10 1 0 4 1 3
+p418
+aVKyle Korver ATL 11/05/2016 ATL vs. HOU W 30 10 4 6 66.7 2 3 66.7 0 0 - 0 2 2 2 2 1 2 0 23
+p419
+aVMalcolm Delaney ATL 11/05/2016 ATL vs. HOU W 16 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 1 0 0 2 0 12
+p420
+aVThabo Sefolosha ATL 11/05/2016 ATL vs. HOU W 24 8 4 8 50.0 0 1 0.0 0 0 - 3 1 4 1 3 1 1 0 7
+p421
+aVPaul Millsap ATL 11/05/2016 ATL vs. HOU W 34 23 10 20 50.0 0 2 0.0 3 5 60.0 2 9 11 5 5 1 2 3 9
+p422
+aVTaurean Prince ATL 11/05/2016 ATL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p423
+aVKent Bazemore ATL 11/05/2016 ATL vs. HOU W 32 20 7 12 58.3 3 4 75.0 3 3 100.0 0 4 4 4 3 0 2 2 21
+p424
+aVDeAndre' Bembry ATL 11/05/2016 ATL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p425
+aVTim Hardaway Jr. ATL 11/05/2016 ATL vs. HOU W 18 3 1 5 20.0 0 2 0.0 1 2 50.0 0 1 1 2 0 0 0 2 -9
+p426
+aVRyan Kelly ATL 11/05/2016 ATL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p427
+aVMike Muscala ATL 11/05/2016 ATL vs. HOU W 21 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 1 1 1 3 2 4
+p428
+aVDwight Howard ATL 11/05/2016 ATL vs. HOU W 29 20 8 10 80.0 0 0 - 4 10 40.0 7 8 15 3 1 2 3 3 11
+p429
+aVKyle Korver ATL 11/04/2016 ATL @ WAS L 21 3 1 9 11.1 1 6 16.7 0 0 - 0 3 3 2 1 0 4 1 0
+p430
+aVKent Bazemore ATL 11/04/2016 ATL @ WAS L 27 0 0 7 0.0 0 3 0.0 0 0 - 1 2 3 5 1 2 1 3 -5
+p431
+aVDwight Howard ATL 11/04/2016 ATL @ WAS L 29 20 7 12 58.3 0 0 - 6 12 50.0 5 7 12 1 2 0 4 5 -9
+p432
+aVDennis Schroder ATL 11/04/2016 ATL @ WAS L 33 20 7 16 43.8 0 3 0.0 6 8 75.0 1 6 7 3 0 0 4 1 -5
+p433
+aVTim Hardaway Jr. ATL 11/04/2016 ATL @ WAS L 28 10 3 7 42.9 0 3 0.0 4 4 100.0 0 4 4 3 1 0 1 3 -1
+p434
+aVPaul Millsap ATL 11/04/2016 ATL @ WAS L 33 16 5 14 35.7 1 3 33.3 5 10 50.0 1 6 7 2 4 0 3 3 -15
+p435
+aVMike Muscala ATL 11/04/2016 ATL @ WAS L 22 10 5 7 71.4 0 2 0.0 0 0 - 1 6 7 0 1 0 1 4 19
+p436
+aVKris Humphries ATL 11/04/2016 ATL @ WAS L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -8
+p437
+aVThabo Sefolosha ATL 11/04/2016 ATL @ WAS L 27 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 3 2 0 0 3 7
+p438
+aVMalcolm Delaney ATL 11/04/2016 ATL @ WAS L 15 8 2 5 40.0 2 3 66.7 2 2 100.0 0 0 0 3 0 0 0 0 2
+p439
+aVTim Hardaway Jr. ATL 11/02/2016 ATL vs. LAL L 21 26 8 10 80.0 5 7 71.4 5 7 71.4 0 0 0 1 0 1 3 0 7
+p440
+aVKyle Korver ATL 11/02/2016 ATL vs. LAL L 27 3 1 6 16.7 1 6 16.7 0 0 - 0 4 4 2 0 0 1 3 -12
+p441
+aVDennis Schroder ATL 11/02/2016 ATL vs. LAL L 29 11 4 11 36.4 1 3 33.3 2 2 100.0 0 2 2 6 1 0 2 2 -11
+p442
+aVKris Humphries ATL 11/02/2016 ATL vs. LAL L 14 11 3 6 50.0 1 2 50.0 4 4 100.0 1 0 1 1 0 0 2 3 -10
+p443
+aVThabo Sefolosha ATL 11/02/2016 ATL vs. LAL L 19 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 3 2 0 2 0 4
+p444
+aVMalcolm Delaney ATL 11/02/2016 ATL vs. LAL L 18 2 0 4 0.0 0 1 0.0 2 2 100.0 1 2 3 6 0 0 1 3 0
+p445
+aVMike Muscala ATL 11/02/2016 ATL vs. LAL L 15 7 3 3 100.0 1 1 100.0 0 0 - 3 2 5 3 0 0 1 1 4
+p446
+aVKent Bazemore ATL 11/02/2016 ATL vs. LAL L 31 11 5 13 38.5 1 6 16.7 0 0 - 0 0 0 6 3 0 0 1 -7
+p447
+aVPaul Millsap ATL 11/02/2016 ATL vs. LAL L 35 10 3 10 30.0 1 4 25.0 3 4 75.0 1 6 7 2 1 0 3 2 -3
+p448
+aVDwight Howard ATL 11/02/2016 ATL vs. LAL L 32 31 12 16 75.0 0 0 - 7 10 70.0 3 8 11 0 3 0 3 4 -7
+p449
+aVKris Humphries ATL 10/31/2016 ATL vs. SAC W 13 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 2 0 0 1 1 1
+p450
+aVKyle Korver ATL 10/31/2016 ATL vs. SAC W 32 17 6 11 54.5 5 8 62.5 0 0 - 0 0 0 0 1 0 2 1 0
+p451
+aVDwight Howard ATL 10/31/2016 ATL vs. SAC W 30 18 5 9 55.6 0 0 - 8 20 40.0 7 4 11 1 0 4 2 5 9
+p452
+aVMalcolm Delaney ATL 10/31/2016 ATL vs. SAC W 16 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 4 0 0 0 3 0
+p453
+aVDennis Schroder ATL 10/31/2016 ATL vs. SAC W 32 17 5 14 35.7 2 5 40.0 5 6 83.3 1 2 3 5 0 0 1 0 11
+p454
+aVTim Hardaway Jr. ATL 10/31/2016 ATL vs. SAC W 13 5 2 6 33.3 0 3 0.0 1 3 33.3 1 1 2 0 0 0 1 1 2
+p455
+aVThabo Sefolosha ATL 10/31/2016 ATL vs. SAC W 24 4 2 5 40.0 0 2 0.0 0 0 - 1 6 7 3 4 0 2 1 20
+p456
+aVMike Muscala ATL 10/31/2016 ATL vs. SAC W 20 10 2 4 50.0 0 1 0.0 6 8 75.0 2 0 2 0 0 0 0 1 3
+p457
+aVPaul Millsap ATL 10/31/2016 ATL vs. SAC W 32 13 5 14 35.7 0 1 0.0 3 4 75.0 5 8 13 8 3 1 4 4 12
+p458
+aVKent Bazemore ATL 10/31/2016 ATL vs. SAC W 28 11 3 9 33.3 1 5 20.0 4 4 100.0 0 2 2 1 3 1 0 3 -3
+p459
+aVKyle Korver ATL 10/29/2016 ATL @ PHI W 24 15 6 8 75.0 3 4 75.0 0 0 - 0 2 2 3 2 0 2 0 13
+p460
+aVDeAndre' Bembry ATL 10/29/2016 ATL @ PHI W 6 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 8
+p461
+aVDwight Howard ATL 10/29/2016 ATL @ PHI W 19 2 1 4 25.0 0 0 - 0 0 - 3 4 7 1 0 3 1 4 15
+p462
+aVPaul Millsap ATL 10/29/2016 ATL @ PHI W 27 17 6 14 42.9 0 2 0.0 5 6 83.3 0 4 4 4 1 0 2 3 20
+p463
+aVKent Bazemore ATL 10/29/2016 ATL @ PHI W 24 8 4 11 36.4 0 2 0.0 0 0 - 0 4 4 2 1 0 3 1 5
+p464
+aVKris Humphries ATL 10/29/2016 ATL @ PHI W 22 3 1 6 16.7 0 1 0.0 1 2 50.0 1 9 10 1 2 2 2 1 13
+p465
+aVDennis Schroder ATL 10/29/2016 ATL @ PHI W 28 11 4 7 57.1 0 1 0.0 3 4 75.0 0 3 3 11 1 0 2 0 12
+p466
+aVTim Hardaway Jr. ATL 10/29/2016 ATL @ PHI W 19 7 3 11 27.3 1 6 16.7 0 1 0.0 0 3 3 1 1 0 0 0 13
+p467
+aVEdy Tavares ATL 10/29/2016 ATL @ PHI W 4 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 6
+p468
+aVTaurean Prince ATL 10/29/2016 ATL @ PHI W 6 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 0 6
+p469
+aVThabo Sefolosha ATL 10/29/2016 ATL @ PHI W 19 11 4 4 100.0 0 0 - 3 4 75.0 0 4 4 1 1 0 0 1 19
+p470
+aVMalcolm Delaney ATL 10/29/2016 ATL @ PHI W 20 8 3 6 50.0 1 1 100.0 1 2 50.0 0 2 2 4 1 0 0 1 20
+p471
+aVMike Muscala ATL 10/29/2016 ATL @ PHI W 21 14 7 8 87.5 0 1 0.0 0 0 - 1 4 5 2 1 2 0 3 10
+p472
+aVDeAndre' Bembry ATL 10/27/2016 ATL vs. WAS W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p473
+aVDwight Howard ATL 10/27/2016 ATL vs. WAS W 30 11 4 9 44.4 0 0 - 3 4 75.0 7 12 19 2 1 3 3 2 5
+p474
+aVThabo Sefolosha ATL 10/27/2016 ATL vs. WAS W 22 13 6 8 75.0 1 1 100.0 0 2 0.0 3 4 7 5 5 0 1 2 19
+p475
+aVMalcolm Delaney ATL 10/27/2016 ATL vs. WAS W 20 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 5 1 0 3 2 13
+p476
+aVMike Muscala ATL 10/27/2016 ATL vs. WAS W 26 9 3 6 50.0 1 2 50.0 2 2 100.0 1 3 4 1 2 3 0 2 2
+p477
+aVTim Hardaway Jr. ATL 10/27/2016 ATL vs. WAS W 23 21 8 13 61.5 3 5 60.0 2 2 100.0 1 1 2 1 0 0 0 0 23
+p478
+aVKent Bazemore ATL 10/27/2016 ATL vs. WAS W 26 7 1 7 14.3 1 4 25.0 4 4 100.0 0 3 3 1 1 0 4 4 -2
+p479
+aVKyle Korver ATL 10/27/2016 ATL vs. WAS W 22 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 4 1 0 2 3 -4
+p480
+aVDennis Schroder ATL 10/27/2016 ATL vs. WAS W 25 14 6 12 50.0 2 4 50.0 0 0 - 0 2 2 2 1 0 4 3 -1
+p481
+aVTaurean Prince ATL 10/27/2016 ATL vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -4
+p482
+aVPaul Millsap ATL 10/27/2016 ATL vs. WAS W 31 28 11 20 55.0 3 6 50.0 3 4 75.0 2 5 7 6 0 1 2 0 22
+p483
+aVKris Humphries ATL 10/27/2016 ATL vs. WAS W 9 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 1
+p484
+a.

@@ -1,0 +1,1712 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHedo Turkoglu TOR 04/14/2010 TOR vs. NYK W 19 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 3 1 0 0 5 11
+p2
+aVAmir Johnson TOR 04/14/2010 TOR vs. NYK W 40 21 9 13 69.2 0 1 0.0 3 3 100.0 2 3 5 3 1 1 0 2 4
+p3
+aVMarco Belinelli TOR 04/14/2010 TOR vs. NYK W 22 14 5 8 62.5 3 3 100.0 1 2 50.0 0 2 2 1 0 0 1 1 17
+p4
+aVDeMar DeRozan TOR 04/14/2010 TOR vs. NYK W 38 24 9 11 81.8 0 0 - 6 8 75.0 0 9 9 2 1 1 2 3 12
+p5
+aVJose Calderon TOR 04/14/2010 TOR vs. NYK W 21 15 6 10 60.0 1 2 50.0 2 2 100.0 0 3 3 2 2 0 1 0 11
+p6
+aVSonny Weems TOR 04/14/2010 TOR vs. NYK W 33 18 9 12 75.0 0 0 - 0 0 - 0 5 5 4 3 0 2 4 5
+p7
+aVRasho Nesterovic TOR 04/14/2010 TOR vs. NYK W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -3
+p8
+aVJarrett Jack TOR 04/14/2010 TOR vs. NYK W 27 8 3 8 37.5 1 4 25.0 1 2 50.0 1 2 3 6 0 0 1 1 7
+p9
+aVAndrea Bargnani TOR 04/14/2010 TOR vs. NYK W 34 24 9 15 60.0 2 4 50.0 4 4 100.0 0 4 4 5 1 3 3 3 26
+p10
+aVRasho Nesterovic TOR 04/12/2010 TOR @ DET W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p11
+aVAmir Johnson TOR 04/12/2010 TOR @ DET W 34 26 10 12 83.3 0 0 - 6 7 85.7 1 1 2 4 0 1 1 4 25
+p12
+aVHedo Turkoglu TOR 04/12/2010 TOR @ DET W 21 8 3 6 50.0 2 5 40.0 0 0 - 1 7 8 4 0 0 2 5 10
+p13
+aVJarrett Jack TOR 04/12/2010 TOR @ DET W 25 15 5 8 62.5 1 1 100.0 4 4 100.0 1 3 4 12 0 0 4 4 20
+p14
+aVReggie Evans TOR 04/12/2010 TOR @ DET W 9 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 0
+p15
+aVMarcus Banks TOR 04/12/2010 TOR @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p16
+aVSonny Weems TOR 04/12/2010 TOR @ DET W 40 6 3 7 42.9 0 0 - 0 0 - 0 6 6 3 1 1 1 2 17
+p17
+aVJose Calderon TOR 04/12/2010 TOR @ DET W 23 3 1 3 33.3 1 1 100.0 0 2 0.0 0 0 0 11 0 0 0 1 1
+p18
+aVAndrea Bargnani TOR 04/12/2010 TOR @ DET W 38 33 13 22 59.1 5 6 83.3 2 2 100.0 0 7 7 1 0 1 1 0 17
+p19
+aVDeMar DeRozan TOR 04/12/2010 TOR @ DET W 26 12 6 10 60.0 0 1 0.0 0 1 0.0 0 3 3 0 0 0 1 2 -8
+p20
+aVMarco Belinelli TOR 04/12/2010 TOR @ DET W 17 6 3 4 75.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 6
+p21
+aVPatrick O'Bryant TOR 04/12/2010 TOR @ DET W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p22
+aVMarco Belinelli TOR 04/11/2010 TOR vs. CHI L 23 0 0 6 0.0 0 4 0.0 0 0 - 1 2 3 0 0 0 0 1 -4
+p23
+aVRasho Nesterovic TOR 04/11/2010 TOR vs. CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p24
+aVJose Calderon TOR 04/11/2010 TOR vs. CHI L 24 7 2 6 33.3 1 3 33.3 2 2 100.0 0 1 1 4 0 0 1 0 -16
+p25
+aVHedo Turkoglu TOR 04/11/2010 TOR vs. CHI L 32 6 2 12 16.7 1 5 20.0 1 4 25.0 3 16 19 9 3 0 1 5 -11
+p26
+aVPatrick O'Bryant TOR 04/11/2010 TOR vs. CHI L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p27
+aVJarrett Jack TOR 04/11/2010 TOR vs. CHI L 25 14 5 10 50.0 1 4 25.0 3 3 100.0 0 2 2 3 0 0 1 2 -11
+p28
+aVDeMar DeRozan TOR 04/11/2010 TOR vs. CHI L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p29
+aVAmir Johnson TOR 04/11/2010 TOR vs. CHI L 25 10 5 8 62.5 0 0 - 0 0 - 1 1 2 0 0 1 1 5 -16
+p30
+aVSonny Weems TOR 04/11/2010 TOR vs. CHI L 37 18 9 22 40.9 0 1 0.0 0 0 - 2 3 5 2 2 1 0 2 -12
+p31
+aVMarcus Banks TOR 04/11/2010 TOR vs. CHI L 7 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 2 0 7
+p32
+aVAndrea Bargnani TOR 04/11/2010 TOR vs. CHI L 39 18 7 16 43.8 1 3 33.3 3 4 75.0 2 3 5 1 0 2 1 1 -15
+p33
+aVReggie Evans TOR 04/11/2010 TOR vs. CHI L 9 6 3 3 100.0 0 0 - 0 2 0.0 0 4 4 0 1 0 1 1 0
+p34
+aVSonny Weems TOR 04/09/2010 TOR @ ATL L 28 18 8 16 50.0 0 0 - 2 3 66.7 1 2 3 0 0 0 2 3 -29
+p35
+aVMarco Belinelli TOR 04/09/2010 TOR @ ATL L 7 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 11
+p36
+aVDeMar DeRozan TOR 04/09/2010 TOR @ ATL L 19 6 2 7 28.6 0 0 - 2 3 66.7 1 0 1 0 0 0 0 3 -9
+p37
+aVJarrett Jack TOR 04/09/2010 TOR @ ATL L 23 13 5 12 41.7 0 1 0.0 3 5 60.0 0 1 1 6 1 0 2 0 -3
+p38
+aVRasho Nesterovic TOR 04/09/2010 TOR @ ATL L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p39
+aVJose Calderon TOR 04/09/2010 TOR @ ATL L 25 10 5 8 62.5 0 1 0.0 0 0 - 0 2 2 10 0 0 0 1 -3
+p40
+aVHedo Turkoglu TOR 04/09/2010 TOR @ ATL L 39 9 4 9 44.4 1 5 20.0 0 0 - 1 8 9 3 1 0 0 4 4
+p41
+aVAntoine Wright TOR 04/09/2010 TOR @ ATL L 13 1 0 6 0.0 0 2 0.0 1 2 50.0 0 1 1 0 3 0 2 1 12
+p42
+aVAmir Johnson TOR 04/09/2010 TOR @ ATL L 35 18 8 10 80.0 0 0 - 2 3 66.7 4 9 13 2 0 2 1 4 16
+p43
+aVAndrea Bargnani TOR 04/09/2010 TOR @ ATL L 37 15 7 15 46.7 1 5 20.0 0 0 - 0 6 6 0 0 1 1 0 -10
+p44
+aVReggie Evans TOR 04/09/2010 TOR @ ATL L 9 5 1 2 50.0 0 0 - 3 4 75.0 3 1 4 0 0 0 1 2 -12
+p45
+aVReggie Evans TOR 04/07/2010 TOR vs. BOS L 16 2 1 6 16.7 0 0 - 0 0 - 2 1 3 0 0 0 1 4 -6
+p46
+aVAndrea Bargnani TOR 04/07/2010 TOR vs. BOS L 39 17 8 22 36.4 1 7 14.3 0 0 - 2 3 5 0 0 4 2 4 -17
+p47
+aVJarrett Jack TOR 04/07/2010 TOR vs. BOS L 23 17 6 14 42.9 3 5 60.0 2 2 100.0 0 1 1 5 0 0 1 0 -9
+p48
+aVHedo Turkoglu TOR 04/07/2010 TOR vs. BOS L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 3 0 0 1 -6
+p49
+aVJose Calderon TOR 04/07/2010 TOR vs. BOS L 25 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 9 0 0 2 2 -2
+p50
+aVSonny Weems TOR 04/07/2010 TOR vs. BOS L 36 21 8 13 61.5 0 0 - 5 5 100.0 1 4 5 3 1 1 1 4 -10
+p51
+aVRasho Nesterovic TOR 04/07/2010 TOR vs. BOS L 20 6 3 6 50.0 0 0 - 0 0 - 2 0 2 1 0 0 1 3 0
+p52
+aVMarco Belinelli TOR 04/07/2010 TOR vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p53
+aVDeMar DeRozan TOR 04/07/2010 TOR vs. BOS L 23 14 7 9 77.8 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -2
+p54
+aVAmir Johnson TOR 04/07/2010 TOR vs. BOS L 21 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 3 2 1 1 5 -2
+p55
+aVAntoine Wright TOR 04/07/2010 TOR vs. BOS L 28 17 6 11 54.5 2 4 50.0 3 3 100.0 1 6 7 2 1 0 0 1 2
+p56
+aVJose Calderon TOR 04/06/2010 TOR @ CLE L 22 5 2 8 25.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 2 -9
+p57
+aVAntoine Wright TOR 04/06/2010 TOR @ CLE L 20 9 3 9 33.3 2 4 50.0 1 1 100.0 1 0 1 1 0 0 0 1 -20
+p58
+aVAndrea Bargnani TOR 04/06/2010 TOR @ CLE L 35 11 5 14 35.7 0 4 0.0 1 1 100.0 2 3 5 2 1 0 2 3 -23
+p59
+aVDeMar DeRozan TOR 04/06/2010 TOR @ CLE L 16 10 4 4 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 12
+p60
+aVAmir Johnson TOR 04/06/2010 TOR @ CLE L 29 16 7 8 87.5 0 0 - 2 2 100.0 3 7 10 1 0 0 0 2 -6
+p61
+aVSonny Weems TOR 04/06/2010 TOR @ CLE L 33 10 5 10 50.0 0 0 - 0 0 - 0 4 4 5 1 0 1 1 -7
+p62
+aVMarco Belinelli TOR 04/06/2010 TOR @ CLE L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 3
+p63
+aVJarrett Jack TOR 04/06/2010 TOR @ CLE L 26 23 7 12 58.3 2 4 50.0 7 8 87.5 1 1 2 6 1 0 3 0 -3
+p64
+aVHedo Turkoglu TOR 04/06/2010 TOR @ CLE L 29 10 3 10 30.0 2 6 33.3 2 2 100.0 0 3 3 5 0 0 1 2 -20
+p65
+aVRasho Nesterovic TOR 04/06/2010 TOR @ CLE L 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 5
+p66
+aVChris Bosh TOR 04/06/2010 TOR @ CLE L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 1
+p67
+aVReggie Evans TOR 04/06/2010 TOR @ CLE L 16 3 1 2 50.0 0 0 - 1 4 25.0 0 7 7 0 0 0 1 0 7
+p68
+aVMarco Belinelli TOR 04/04/2010 TOR vs. GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p69
+aVJarrett Jack TOR 04/04/2010 TOR vs. GSW L 29 19 6 13 46.2 1 4 25.0 6 7 85.7 0 4 4 4 0 0 1 0 14
+p70
+aVAndrea Bargnani TOR 04/04/2010 TOR vs. GSW L 38 18 7 23 30.4 1 4 25.0 3 4 75.0 5 3 8 2 0 1 1 5 3
+p71
+aVDeMar DeRozan TOR 04/04/2010 TOR vs. GSW L 16 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 2 2
+p72
+aVAntoine Wright TOR 04/04/2010 TOR vs. GSW L 27 6 1 6 16.7 1 4 25.0 3 4 75.0 1 5 6 1 0 1 0 3 -2
+p73
+aVJose Calderon TOR 04/04/2010 TOR vs. GSW L 19 2 1 5 20.0 0 0 - 0 0 - 2 2 4 3 0 0 2 0 -15
+p74
+aVSonny Weems TOR 04/04/2010 TOR vs. GSW L 33 4 2 11 18.2 0 0 - 0 0 - 1 4 5 2 3 1 1 3 -8
+p75
+aVChris Bosh TOR 04/04/2010 TOR vs. GSW L 41 42 11 19 57.9 0 0 - 20 23 87.0 4 9 13 0 5 1 3 3 3
+p76
+aVHedo Turkoglu TOR 04/04/2010 TOR vs. GSW L 20 8 2 4 50.0 0 0 - 4 5 80.0 1 3 4 3 1 0 1 2 -2
+p77
+aVAmir Johnson TOR 04/04/2010 TOR vs. GSW L 17 8 4 6 66.7 0 0 - 0 0 - 1 5 6 0 0 1 1 5 -6
+p78
+aVJarrett Jack TOR 04/03/2010 TOR @ PHI W 21 11 3 7 42.9 2 4 50.0 3 6 50.0 0 2 2 5 0 0 3 2 -6
+p79
+aVChris Bosh TOR 04/03/2010 TOR @ PHI W 46 28 8 14 57.1 0 0 - 12 13 92.3 5 7 12 7 0 0 4 2 5
+p80
+aVReggie Evans TOR 04/03/2010 TOR @ PHI W 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p81
+aVAntoine Wright TOR 04/03/2010 TOR @ PHI W 36 15 6 9 66.7 2 3 66.7 1 2 50.0 1 2 3 1 0 0 4 5 3
+p82
+aVHedo Turkoglu TOR 04/03/2010 TOR @ PHI W 37 11 4 9 44.4 2 6 33.3 1 2 50.0 1 4 5 5 2 1 3 2 8
+p83
+aVAmir Johnson TOR 04/03/2010 TOR @ PHI W 7 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 1 0
+p84
+aVJose Calderon TOR 04/03/2010 TOR @ PHI W 33 16 6 10 60.0 2 5 40.0 2 2 100.0 0 2 2 10 1 0 1 5 13
+p85
+aVAndrea Bargnani TOR 04/03/2010 TOR @ PHI W 45 23 7 15 46.7 3 6 50.0 6 7 85.7 2 4 6 1 0 1 3 2 12
+p86
+aVDeMar DeRozan TOR 04/03/2010 TOR @ PHI W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p87
+aVSonny Weems TOR 04/03/2010 TOR @ PHI W 25 18 9 11 81.8 0 0 - 0 0 - 1 4 5 2 1 1 0 1 -6
+p88
+aVJarrett Jack TOR 03/31/2010 TOR vs. LAC W 18 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 10 3 0 1 2 7
+p89
+aVAntoine Wright TOR 03/31/2010 TOR vs. LAC W 27 11 4 7 57.1 3 5 60.0 0 0 - 0 4 4 1 0 1 0 1 12
+p90
+aVHedo Turkoglu TOR 03/31/2010 TOR vs. LAC W 17 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 6 0 0 0 1 -5
+p91
+aVReggie Evans TOR 03/31/2010 TOR vs. LAC W 13 4 2 2 100.0 0 0 - 0 1 0.0 1 1 2 0 1 0 1 3 18
+p92
+aVDeMar DeRozan TOR 03/31/2010 TOR vs. LAC W 21 10 5 9 55.6 0 0 - 0 0 - 0 1 1 0 0 0 1 0 10
+p93
+aVSonny Weems TOR 03/31/2010 TOR vs. LAC W 31 17 8 8 100.0 1 1 100.0 0 0 - 1 4 5 4 1 1 3 2 27
+p94
+aVAmir Johnson TOR 03/31/2010 TOR vs. LAC W 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 0 -2
+p95
+aVChris Bosh TOR 03/31/2010 TOR vs. LAC W 38 34 12 17 70.6 0 0 - 10 13 76.9 2 9 11 1 0 3 1 3 13
+p96
+aVAndrea Bargnani TOR 03/31/2010 TOR vs. LAC W 35 21 8 19 42.1 2 6 33.3 3 4 75.0 1 7 8 1 0 3 1 1 15
+p97
+aVJose Calderon TOR 03/31/2010 TOR vs. LAC W 30 11 5 7 71.4 1 1 100.0 0 0 - 0 1 1 7 1 0 3 1 15
+p98
+aVAmir Johnson TOR 03/29/2010 TOR @ CHA W 16 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 2 0 4 6
+p99
+aVSonny Weems TOR 03/29/2010 TOR @ CHA W 17 6 3 5 60.0 0 0 - 0 2 0.0 0 2 2 1 0 0 0 1 -2
+p100
+aVJose Calderon TOR 03/29/2010 TOR @ CHA W 25 10 4 8 50.0 0 1 0.0 2 3 66.7 0 1 1 7 0 0 2 2 2
+p101
+aVJarrett Jack TOR 03/29/2010 TOR @ CHA W 23 12 2 5 40.0 1 2 50.0 7 8 87.5 0 2 2 5 0 1 2 2 2
+p102
+aVDeMar DeRozan TOR 03/29/2010 TOR @ CHA W 20 8 3 5 60.0 0 0 - 2 4 50.0 0 1 1 2 1 0 0 3 -1
+p103
+aVAntoine Wright TOR 03/29/2010 TOR @ CHA W 31 15 7 11 63.6 1 4 25.0 0 0 - 2 4 6 0 0 0 1 4 -1
+p104
+aVAndrea Bargnani TOR 03/29/2010 TOR @ CHA W 39 16 6 14 42.9 3 5 60.0 1 2 50.0 3 6 9 2 1 1 1 2 -3
+p105
+aVReggie Evans TOR 03/29/2010 TOR @ CHA W 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -3
+p106
+aVChris Bosh TOR 03/29/2010 TOR @ CHA W 38 22 10 19 52.6 0 0 - 2 3 66.7 3 8 11 2 1 2 1 2 4
+p107
+aVHedo Turkoglu TOR 03/29/2010 TOR @ CHA W 28 11 4 9 44.4 3 6 50.0 0 0 - 0 2 2 3 2 0 2 3 6
+p108
+aVSonny Weems TOR 03/28/2010 TOR @ MIA L 20 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 5
+p109
+aVJarrett Jack TOR 03/28/2010 TOR @ MIA L 25 18 5 8 62.5 1 2 50.0 7 8 87.5 0 3 3 2 1 0 1 3 -2
+p110
+aVChris Bosh TOR 03/28/2010 TOR @ MIA L 37 19 8 20 40.0 0 1 0.0 3 4 75.0 1 5 6 3 2 0 2 3 8
+p111
+aVReggie Evans TOR 03/28/2010 TOR @ MIA L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 4
+p112
+aVMarco Belinelli TOR 03/28/2010 TOR @ MIA L 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 8
+p113
+aVJose Calderon TOR 03/28/2010 TOR @ MIA L 26 12 5 9 55.6 2 3 66.7 0 0 - 0 2 2 7 1 0 1 4 -6
+p114
+aVAmir Johnson TOR 03/28/2010 TOR @ MIA L 9 5 2 3 66.7 0 0 - 1 2 50.0 2 0 2 2 0 1 1 5 -10
+p115
+aVAndrea Bargnani TOR 03/28/2010 TOR @ MIA L 40 17 7 13 53.8 3 6 50.0 0 0 - 0 5 5 3 0 1 5 3 -6
+p116
+aVDeMar DeRozan TOR 03/28/2010 TOR @ MIA L 24 8 1 1 100.0 0 0 - 6 6 100.0 0 1 1 0 1 0 0 1 -7
+p117
+aVAntoine Wright TOR 03/28/2010 TOR @ MIA L 38 7 3 9 33.3 1 3 33.3 0 0 - 1 3 4 2 2 0 1 2 -9
+p118
+aVAmir Johnson TOR 03/26/2010 TOR vs. DEN L 14 6 3 5 60.0 0 0 - 0 1 0.0 3 7 10 0 0 1 0 2 1
+p119
+aVReggie Evans TOR 03/26/2010 TOR vs. DEN L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 3
+p120
+aVJose Calderon TOR 03/26/2010 TOR vs. DEN L 27 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 6 0 0 1 1 0
+p121
+aVAntoine Wright TOR 03/26/2010 TOR vs. DEN L 35 8 4 11 36.4 0 5 0.0 0 1 0.0 0 6 6 4 0 0 1 5 -6
+p122
+aVAndrea Bargnani TOR 03/26/2010 TOR vs. DEN L 34 14 5 13 38.5 1 3 33.3 3 3 100.0 4 11 15 1 1 2 1 2 4
+p123
+aVSonny Weems TOR 03/26/2010 TOR vs. DEN L 27 14 5 8 62.5 0 0 - 4 4 100.0 1 4 5 2 2 0 2 3 -1
+p124
+aVDeMar DeRozan TOR 03/26/2010 TOR vs. DEN L 21 15 7 8 87.5 0 0 - 1 1 100.0 1 3 4 1 0 1 2 3 -6
+p125
+aVMarco Belinelli TOR 03/26/2010 TOR vs. DEN L 16 11 5 9 55.6 1 2 50.0 0 0 - 0 1 1 2 0 0 2 2 5
+p126
+aVJarrett Jack TOR 03/26/2010 TOR vs. DEN L 21 7 2 11 18.2 1 3 33.3 2 2 100.0 2 1 3 4 0 0 4 2 -1
+p127
+aVChris Bosh TOR 03/26/2010 TOR vs. DEN L 40 18 8 16 50.0 0 0 - 2 4 50.0 4 8 12 5 1 2 5 3 -4
+p128
+aVAmir Johnson TOR 03/24/2010 TOR vs. UTA L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 3 0 4 -8
+p129
+aVJose Calderon TOR 03/24/2010 TOR vs. UTA L 22 10 4 11 36.4 2 7 28.6 0 0 - 1 1 2 3 0 0 0 3 -22
+p130
+aVMarcus Banks TOR 03/24/2010 TOR vs. UTA L 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p131
+aVDeMar DeRozan TOR 03/24/2010 TOR vs. UTA L 32 6 3 7 42.9 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -24
+p132
+aVSonny Weems TOR 03/24/2010 TOR vs. UTA L 20 6 2 6 33.3 0 0 - 2 4 50.0 1 5 6 2 0 2 2 0 -9
+p133
+aVHedo Turkoglu TOR 03/24/2010 TOR vs. UTA L 19 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 2 1 1 1 1 -11
+p134
+aVJarrett Jack TOR 03/24/2010 TOR vs. UTA L 23 7 3 9 33.3 1 4 25.0 0 0 - 0 2 2 1 0 0 1 0 -2
+p135
+aVChris Bosh TOR 03/24/2010 TOR vs. UTA L 35 20 7 18 38.9 0 0 - 6 10 60.0 3 5 8 3 0 0 2 1 -18
+p136
+aVAndrea Bargnani TOR 03/24/2010 TOR vs. UTA L 30 12 5 9 55.6 1 1 100.0 1 2 50.0 1 4 5 0 0 2 2 1 -29
+p137
+aVAntoine Wright TOR 03/24/2010 TOR vs. UTA L 26 15 6 15 40.0 1 7 14.3 2 3 66.7 1 1 2 1 1 0 1 4 -8
+p138
+aVReggie Evans TOR 03/24/2010 TOR vs. UTA L 20 7 2 2 100.0 0 0 - 3 4 75.0 3 6 9 1 3 1 2 3 3
+p139
+aVAndrea Bargnani TOR 03/22/2010 TOR @ MIN W 39 19 9 17 52.9 1 4 25.0 0 0 - 1 6 7 4 2 0 1 2 12
+p140
+aVDeMar DeRozan TOR 03/22/2010 TOR @ MIN W 26 10 4 11 36.4 0 0 - 2 2 100.0 1 4 5 1 0 0 1 1 4
+p141
+aVChris Bosh TOR 03/22/2010 TOR @ MIN W 38 21 7 13 53.8 0 0 - 7 9 77.8 4 6 10 0 0 0 6 4 8
+p142
+aVHedo Turkoglu TOR 03/22/2010 TOR @ MIN W 25 10 3 7 42.9 2 6 33.3 2 2 100.0 0 4 4 6 1 0 0 3 6
+p143
+aVSonny Weems TOR 03/22/2010 TOR @ MIN W 22 13 6 8 75.0 0 0 - 1 2 50.0 0 3 3 3 0 0 1 0 -2
+p144
+aVAmir Johnson TOR 03/22/2010 TOR @ MIN W 11 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 1 0 0 -2
+p145
+aVReggie Evans TOR 03/22/2010 TOR @ MIN W 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -6
+p146
+aVJose Calderon TOR 03/22/2010 TOR @ MIN W 24 9 3 8 37.5 2 6 33.3 1 2 50.0 1 1 2 6 2 0 3 3 9
+p147
+aVAntoine Wright TOR 03/22/2010 TOR @ MIN W 23 13 6 9 66.7 1 4 25.0 0 2 0.0 1 0 1 1 0 0 0 1 3
+p148
+aVJarrett Jack TOR 03/22/2010 TOR @ MIN W 24 9 2 6 33.3 0 0 - 5 5 100.0 0 4 4 8 0 0 2 4 -2
+p149
+aVReggie Evans TOR 03/20/2010 TOR @ NJN W 12 1 0 0 - 0 0 - 1 2 50.0 0 5 5 0 1 0 1 3 1
+p150
+aVJarrett Jack TOR 03/20/2010 TOR @ NJN W 26 15 7 11 63.6 0 2 0.0 1 1 100.0 1 7 8 4 0 0 0 3 -4
+p151
+aVJose Calderon TOR 03/20/2010 TOR @ NJN W 22 7 3 7 42.9 0 1 0.0 1 1 100.0 0 3 3 8 3 0 1 0 12
+p152
+aVDeMar DeRozan TOR 03/20/2010 TOR @ NJN W 18 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 13
+p153
+aVAmir Johnson TOR 03/20/2010 TOR @ NJN W 16 2 1 3 33.3 0 0 - 0 0 - 2 0 2 0 0 1 0 5 1
+p154
+aVAntoine Wright TOR 03/20/2010 TOR @ NJN W 21 11 4 8 50.0 1 1 100.0 2 2 100.0 0 4 4 0 2 2 2 1 5
+p155
+aVHedo Turkoglu TOR 03/20/2010 TOR @ NJN W 35 13 4 13 30.8 3 6 50.0 2 2 100.0 0 7 7 4 3 1 1 2 3
+p156
+aVAndrea Bargnani TOR 03/20/2010 TOR @ NJN W 27 5 2 5 40.0 0 1 0.0 1 2 50.0 1 2 3 0 1 0 2 5 10
+p157
+aVSonny Weems TOR 03/20/2010 TOR @ NJN W 21 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -1
+p158
+aVChris Bosh TOR 03/20/2010 TOR @ NJN W 41 36 16 27 59.3 0 1 0.0 4 4 100.0 4 4 8 1 0 0 6 2 10
+p159
+aVJarrett Jack TOR 03/19/2010 TOR vs. OKC L 17 2 0 4 0.0 0 0 - 2 2 100.0 0 3 3 7 0 0 1 0 -9
+p160
+aVJose Calderon TOR 03/19/2010 TOR vs. OKC L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 4 1 1 3 4 -22
+p161
+aVChris Bosh TOR 03/19/2010 TOR vs. OKC L 30 22 7 14 50.0 0 1 0.0 8 8 100.0 3 7 10 0 0 1 4 1 -22
+p162
+aVHedo Turkoglu TOR 03/19/2010 TOR vs. OKC L 17 5 2 5 40.0 0 1 0.0 1 2 50.0 0 1 1 2 0 0 1 4 -14
+p163
+aVAndrea Bargnani TOR 03/19/2010 TOR vs. OKC L 22 15 7 13 53.8 1 1 100.0 0 0 - 1 3 4 0 0 0 0 1 -30
+p164
+aVSonny Weems TOR 03/19/2010 TOR vs. OKC L 30 8 4 8 50.0 0 0 - 0 0 - 0 3 3 3 1 0 2 4 -6
+p165
+aVReggie Evans TOR 03/19/2010 TOR vs. OKC L 17 3 1 3 33.3 0 0 - 1 2 50.0 1 6 7 1 1 0 1 2 4
+p166
+aVRasho Nesterovic TOR 03/19/2010 TOR vs. OKC L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 1 2 2 6
+p167
+aVMarcus Banks TOR 03/19/2010 TOR vs. OKC L 9 7 2 2 100.0 0 0 - 3 4 75.0 0 0 0 1 1 0 2 0 5
+p168
+aVAmir Johnson TOR 03/19/2010 TOR vs. OKC L 16 7 3 4 75.0 0 0 - 1 2 50.0 0 4 4 0 0 0 0 3 -10
+p169
+aVMarco Belinelli TOR 03/19/2010 TOR vs. OKC L 24 12 3 7 42.9 2 5 40.0 4 4 100.0 0 0 0 1 0 0 2 1 -3
+p170
+aVDeMar DeRozan TOR 03/19/2010 TOR vs. OKC L 25 4 1 5 20.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 2 -29
+p171
+aVJarrett Jack TOR 03/17/2010 TOR vs. ATL W 20 7 3 10 30.0 0 1 0.0 1 1 100.0 0 3 3 4 1 0 1 0 10
+p172
+aVChris Bosh TOR 03/17/2010 TOR vs. ATL W 33 14 6 19 31.6 0 0 - 2 2 100.0 1 9 10 4 1 0 1 5 21
+p173
+aVSonny Weems TOR 03/17/2010 TOR vs. ATL W 20 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 0 0 0 1 5
+p174
+aVAmir Johnson TOR 03/17/2010 TOR vs. ATL W 19 7 3 5 60.0 0 0 - 1 3 33.3 3 3 6 2 1 0 0 4 1
+p175
+aVJose Calderon TOR 03/17/2010 TOR vs. ATL W 28 9 3 8 37.5 1 4 25.0 2 4 50.0 0 3 3 6 2 0 0 0 -6
+p176
+aVReggie Evans TOR 03/17/2010 TOR vs. ATL W 6 4 2 3 66.7 0 0 - 0 1 0.0 2 1 3 1 0 0 0 1 -12
+p177
+aVAndrea Bargnani TOR 03/17/2010 TOR vs. ATL W 38 22 8 14 57.1 2 4 50.0 4 6 66.7 3 8 11 2 0 1 1 3 -8
+p178
+aVHedo Turkoglu TOR 03/17/2010 TOR vs. ATL W 41 16 5 12 41.7 1 3 33.3 5 6 83.3 1 4 5 3 2 0 1 3 4
+p179
+aVDeMar DeRozan TOR 03/17/2010 TOR vs. ATL W 35 19 7 12 58.3 0 0 - 5 7 71.4 2 1 3 0 1 0 0 3 -10
+p180
+aVChris Bosh TOR 03/14/2010 TOR @ POR L 39 28 9 14 64.3 0 1 0.0 10 12 83.3 1 6 7 2 0 1 3 5 -4
+p181
+aVHedo Turkoglu TOR 03/14/2010 TOR @ POR L 35 14 5 7 71.4 4 5 80.0 0 0 - 0 5 5 2 0 0 4 5 -7
+p182
+aVAmir Johnson TOR 03/14/2010 TOR @ POR L 22 13 6 10 60.0 0 1 0.0 1 1 100.0 5 1 6 0 0 0 0 3 2
+p183
+aVReggie Evans TOR 03/14/2010 TOR @ POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p184
+aVDeMar DeRozan TOR 03/14/2010 TOR @ POR L 24 12 5 7 71.4 0 0 - 2 2 100.0 0 3 3 2 1 0 1 5 3
+p185
+aVAntoine Wright TOR 03/14/2010 TOR @ POR L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p186
+aVAndrea Bargnani TOR 03/14/2010 TOR @ POR L 32 11 5 13 38.5 0 3 0.0 1 2 50.0 1 1 2 2 0 0 1 1 -9
+p187
+aVJose Calderon TOR 03/14/2010 TOR @ POR L 31 11 5 11 45.5 0 3 0.0 1 2 50.0 1 2 3 7 1 0 2 1 -14
+p188
+aVJarrett Jack TOR 03/14/2010 TOR @ POR L 22 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 5 0 0 0 0 2
+p189
+aVSonny Weems TOR 03/14/2010 TOR @ POR L 22 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 0 0 0 3 -8
+p190
+aVAndrea Bargnani TOR 03/13/2010 TOR @ GSW L 39 11 3 6 50.0 0 1 0.0 5 6 83.3 1 3 4 2 0 0 0 1 -7
+p191
+aVMarco Belinelli TOR 03/13/2010 TOR @ GSW L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 2 0 0 1 -1
+p192
+aVJarrett Jack TOR 03/13/2010 TOR @ GSW L 17 7 3 7 42.9 1 1 100.0 0 0 - 1 0 1 3 0 0 3 2 -19
+p193
+aVJose Calderon TOR 03/13/2010 TOR @ GSW L 32 24 8 12 66.7 7 8 87.5 1 1 100.0 0 1 1 12 0 0 1 1 7
+p194
+aVHedo Turkoglu TOR 03/13/2010 TOR @ GSW L 29 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 8 0 2 1 2 -2
+p195
+aVChris Bosh TOR 03/13/2010 TOR @ GSW L 36 24 8 13 61.5 0 0 - 8 10 80.0 1 10 11 5 0 1 6 2 -15
+p196
+aVDeMar DeRozan TOR 03/13/2010 TOR @ GSW L 26 18 8 11 72.7 0 0 - 2 3 66.7 0 2 2 0 1 0 2 4 -6
+p197
+aVAmir Johnson TOR 03/13/2010 TOR @ GSW L 21 14 6 7 85.7 0 0 - 2 3 66.7 1 5 6 0 2 3 1 5 -2
+p198
+aVSonny Weems TOR 03/13/2010 TOR @ GSW L 22 10 5 10 50.0 0 1 0.0 0 0 - 2 2 4 1 0 0 2 3 -5
+p199
+aVAntoine Wright TOR 03/13/2010 TOR @ GSW L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 0 0 0 1 2 -10
+p200
+aVJose Calderon TOR 03/10/2010 TOR @ SAC L 19 10 4 8 50.0 1 3 33.3 1 2 50.0 1 0 1 1 0 0 1 2 -3
+p201
+aVAntoine Wright TOR 03/10/2010 TOR @ SAC L 17 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 0 2 0 1 1 -13
+p202
+aVJarrett Jack TOR 03/10/2010 TOR @ SAC L 31 14 6 12 50.0 2 4 50.0 0 0 - 0 5 5 3 1 0 1 1 -16
+p203
+aVHedo Turkoglu TOR 03/10/2010 TOR @ SAC L 27 6 2 8 25.0 0 3 0.0 2 2 100.0 0 7 7 3 1 1 3 4 -6
+p204
+aVChris Bosh TOR 03/10/2010 TOR @ SAC L 38 14 6 20 30.0 0 0 - 2 3 66.7 1 4 5 3 0 0 1 3 -15
+p205
+aVMarco Belinelli TOR 03/10/2010 TOR @ SAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p206
+aVDeMar DeRozan TOR 03/10/2010 TOR @ SAC L 31 14 5 10 50.0 0 0 - 4 4 100.0 0 1 1 2 0 0 0 4 -27
+p207
+aVAmir Johnson TOR 03/10/2010 TOR @ SAC L 11 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -14
+p208
+aVSonny Weems TOR 03/10/2010 TOR @ SAC L 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 2 1 0 1 1 -2
+p209
+aVAndrea Bargnani TOR 03/10/2010 TOR @ SAC L 35 20 8 12 66.7 1 1 100.0 3 4 75.0 3 3 6 0 0 2 4 0 -16
+p210
+aVReggie Evans TOR 03/10/2010 TOR @ SAC L 11 4 2 2 100.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -1
+p211
+aVAndrea Bargnani TOR 03/09/2010 TOR @ LAL L 37 21 8 17 47.1 2 6 33.3 3 4 75.0 1 7 8 0 0 2 1 3 -1
+p212
+aVAntoine Wright TOR 03/09/2010 TOR @ LAL L 13 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 5 -12
+p213
+aVDeMar DeRozan TOR 03/09/2010 TOR @ LAL L 21 11 4 6 66.7 0 0 - 3 4 75.0 1 1 2 0 0 0 1 4 -2
+p214
+aVReggie Evans TOR 03/09/2010 TOR @ LAL L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -1
+p215
+aVSonny Weems TOR 03/09/2010 TOR @ LAL L 16 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -3
+p216
+aVChris Bosh TOR 03/09/2010 TOR @ LAL L 31 22 7 18 38.9 2 2 100.0 6 6 100.0 4 3 7 4 0 1 0 5 -6
+p217
+aVAmir Johnson TOR 03/09/2010 TOR @ LAL L 22 9 4 7 57.1 0 0 - 1 2 50.0 2 5 7 0 1 0 4 3 4
+p218
+aVJose Calderon TOR 03/09/2010 TOR @ LAL L 24 10 3 11 27.3 0 3 0.0 4 4 100.0 0 1 1 5 0 0 2 1 -2
+p219
+aVJarrett Jack TOR 03/09/2010 TOR @ LAL L 30 18 4 8 50.0 2 3 66.7 8 8 100.0 2 5 7 7 2 1 0 2 2
+p220
+aVHedo Turkoglu TOR 03/09/2010 TOR @ LAL L 29 6 2 7 28.6 2 5 40.0 0 0 - 0 5 5 4 1 0 4 4 0
+p221
+aVMarco Belinelli TOR 03/09/2010 TOR @ LAL L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 0 11
+p222
+aVJose Calderon TOR 03/07/2010 TOR vs. PHI L 24 8 3 8 37.5 2 3 66.7 0 0 - 0 1 1 5 3 0 3 3 -7
+p223
+aVAmir Johnson TOR 03/07/2010 TOR vs. PHI L 8 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 0 0 1 2 1 8
+p224
+aVMarco Belinelli TOR 03/07/2010 TOR vs. PHI L 18 11 4 6 66.7 1 2 50.0 2 2 100.0 0 0 0 3 0 0 1 1 2
+p225
+aVSonny Weems TOR 03/07/2010 TOR vs. PHI L 25 10 5 7 71.4 0 0 - 0 0 - 0 3 3 1 0 0 3 4 -19
+p226
+aVAndrea Bargnani TOR 03/07/2010 TOR vs. PHI L 39 11 5 10 50.0 1 4 25.0 0 0 - 1 3 4 2 0 2 1 2 -21
+p227
+aVChris Bosh TOR 03/07/2010 TOR vs. PHI L 33 12 6 14 42.9 0 0 - 0 0 - 4 8 12 1 0 0 2 2 -17
+p228
+aVJarrett Jack TOR 03/07/2010 TOR vs. PHI L 35 20 9 14 64.3 2 4 50.0 0 0 - 0 0 0 9 4 0 2 2 -14
+p229
+aVReggie Evans TOR 03/07/2010 TOR vs. PHI L 13 10 4 5 80.0 0 0 - 2 5 40.0 2 3 5 0 1 1 1 0 6
+p230
+aVDeMar DeRozan TOR 03/07/2010 TOR vs. PHI L 17 9 3 8 37.5 0 0 - 3 4 75.0 2 0 2 0 1 0 0 1 -6
+p231
+aVAntoine Wright TOR 03/07/2010 TOR vs. PHI L 27 5 2 10 20.0 1 5 20.0 0 0 - 1 3 4 2 1 1 0 3 3
+p232
+aVJose Calderon TOR 03/05/2010 TOR vs. NYK W 28 16 8 13 61.5 0 1 0.0 0 0 - 0 3 3 6 0 0 1 1 14
+p233
+aVHedo Turkoglu TOR 03/05/2010 TOR vs. NYK W 25 12 3 6 50.0 2 3 66.7 4 6 66.7 1 8 9 4 0 1 2 2 -10
+p234
+aVAmir Johnson TOR 03/05/2010 TOR vs. NYK W 31 14 7 13 53.8 0 0 - 0 0 - 5 3 8 0 1 0 0 3 12
+p235
+aVAndrea Bargnani TOR 03/05/2010 TOR vs. NYK W 37 9 4 15 26.7 1 3 33.3 0 2 0.0 1 3 4 2 0 1 1 1 9
+p236
+aVRasho Nesterovic TOR 03/05/2010 TOR vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p237
+aVReggie Evans TOR 03/05/2010 TOR vs. NYK W 5 0 0 1 0.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 0 -2
+p238
+aVJarrett Jack TOR 03/05/2010 TOR vs. NYK W 28 14 7 11 63.6 0 1 0.0 0 0 - 1 3 4 2 3 0 3 3 -5
+p239
+aVAntoine Wright TOR 03/05/2010 TOR vs. NYK W 33 7 3 8 37.5 1 4 25.0 0 0 - 1 1 2 0 1 1 1 1 6
+p240
+aVSonny Weems TOR 03/05/2010 TOR vs. NYK W 28 20 9 16 56.3 0 0 - 2 2 100.0 2 7 9 2 1 1 0 0 4
+p241
+aVDeMar DeRozan TOR 03/05/2010 TOR vs. NYK W 25 10 5 8 62.5 0 0 - 0 0 - 0 2 2 2 1 0 0 4 2
+p242
+aVMarco Belinelli TOR 03/01/2010 TOR @ HOU L 17 11 3 9 33.3 1 2 50.0 4 4 100.0 0 1 1 1 2 0 0 0 4
+p243
+aVRasho Nesterovic TOR 03/01/2010 TOR @ HOU L 22 2 1 3 33.3 0 0 - 0 0 - 1 6 7 2 0 1 0 3 -20
+p244
+aVAmir Johnson TOR 03/01/2010 TOR @ HOU L 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 0 0 3 0
+p245
+aVSonny Weems TOR 03/01/2010 TOR @ HOU L 23 8 4 8 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -18
+p246
+aVJarrett Jack TOR 03/01/2010 TOR @ HOU L 24 11 4 8 50.0 0 1 0.0 3 4 75.0 0 2 2 6 1 0 4 2 -26
+p247
+aVDeMar DeRozan TOR 03/01/2010 TOR @ HOU L 15 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -15
+p248
+aVAntoine Wright TOR 03/01/2010 TOR @ HOU L 26 13 5 10 50.0 1 4 25.0 2 2 100.0 0 2 2 1 0 0 0 2 -3
+p249
+aVAndrea Bargnani TOR 03/01/2010 TOR @ HOU L 28 14 6 17 35.3 2 4 50.0 0 1 0.0 1 5 6 0 0 0 1 0 -29
+p250
+aVHedo Turkoglu TOR 03/01/2010 TOR @ HOU L 16 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 1 1 -16
+p251
+aVReggie Evans TOR 03/01/2010 TOR @ HOU L 24 10 3 5 60.0 0 0 - 4 7 57.1 2 3 5 1 1 0 2 5 -5
+p252
+aVMarcus Banks TOR 03/01/2010 TOR @ HOU L 24 15 5 7 71.4 1 1 100.0 4 5 80.0 0 3 3 4 4 0 4 5 2
+p253
+aVPatrick O'Bryant TOR 03/01/2010 TOR @ HOU L 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 4 2 3 6
+p254
+aVHedo Turkoglu TOR 02/28/2010 TOR @ OKC L 20 7 3 8 37.5 1 5 20.0 0 0 - 0 3 3 2 0 0 1 2 -14
+p255
+aVReggie Evans TOR 02/28/2010 TOR @ OKC L 16 5 2 4 50.0 0 0 - 1 5 20.0 0 3 3 0 1 0 2 3 -10
+p256
+aVAndrea Bargnani TOR 02/28/2010 TOR @ OKC L 27 14 6 9 66.7 2 2 100.0 0 0 - 0 2 2 2 0 0 3 2 -19
+p257
+aVSonny Weems TOR 02/28/2010 TOR @ OKC L 26 14 5 11 45.5 0 1 0.0 4 4 100.0 0 0 0 0 0 1 2 5 -5
+p258
+aVAntoine Wright TOR 02/28/2010 TOR @ OKC L 16 6 2 8 25.0 1 2 50.0 1 2 50.0 1 5 6 0 0 0 1 2 -10
+p259
+aVAmir Johnson TOR 02/28/2010 TOR @ OKC L 23 6 3 7 42.9 0 1 0.0 0 0 - 5 6 11 2 1 0 1 3 -8
+p260
+aVJarrett Jack TOR 02/28/2010 TOR @ OKC L 26 11 4 8 50.0 1 1 100.0 2 2 100.0 1 0 1 2 2 0 2 2 -17
+p261
+aVPatrick O'Bryant TOR 02/28/2010 TOR @ OKC L 8 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 1 0 1 1 0
+p262
+aVDeMar DeRozan TOR 02/28/2010 TOR @ OKC L 28 13 4 10 40.0 0 0 - 5 6 83.3 4 3 7 0 0 0 2 2 -9
+p263
+aVJose Calderon TOR 02/28/2010 TOR @ OKC L 20 4 2 5 40.0 0 0 - 0 0 - 1 4 5 7 0 0 3 1 -5
+p264
+aVRasho Nesterovic TOR 02/28/2010 TOR @ OKC L 17 8 4 10 40.0 0 0 - 0 0 - 2 4 6 0 0 1 0 0 -7
+p265
+aVMarco Belinelli TOR 02/28/2010 TOR @ OKC L 12 8 2 4 50.0 1 2 50.0 3 3 100.0 0 0 0 0 1 0 0 0 4
+p266
+aVAndrea Bargnani TOR 02/26/2010 TOR vs. CLE L 45 24 9 17 52.9 2 4 50.0 4 4 100.0 1 3 4 3 0 0 0 3 -10
+p267
+aVAntoine Wright TOR 02/26/2010 TOR vs. CLE L 30 10 3 8 37.5 2 6 33.3 2 2 100.0 0 2 2 1 1 0 2 1 2
+p268
+aVJose Calderon TOR 02/26/2010 TOR vs. CLE L 27 8 4 12 33.3 0 4 0.0 0 0 - 0 1 1 8 0 0 0 3 1
+p269
+aVAmir Johnson TOR 02/26/2010 TOR vs. CLE L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -14
+p270
+aVReggie Evans TOR 02/26/2010 TOR vs. CLE L 25 13 4 8 50.0 0 0 - 5 9 55.6 3 2 5 0 0 0 1 4 11
+p271
+aVSonny Weems TOR 02/26/2010 TOR vs. CLE L 16 11 5 7 71.4 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 2
+p272
+aVHedo Turkoglu TOR 02/26/2010 TOR vs. CLE L 43 18 8 16 50.0 2 6 33.3 0 0 - 2 2 4 2 2 0 3 6 -13
+p273
+aVRasho Nesterovic TOR 02/26/2010 TOR vs. CLE L 21 6 3 5 60.0 0 0 - 0 0 - 2 2 4 2 0 0 0 1 -1
+p274
+aVJarrett Jack TOR 02/26/2010 TOR vs. CLE L 35 24 8 14 57.1 2 5 40.0 6 6 100.0 0 3 3 3 1 0 3 2 -5
+p275
+aVDeMar DeRozan TOR 02/26/2010 TOR vs. CLE L 19 4 1 6 16.7 0 0 - 2 2 100.0 2 3 5 3 0 0 1 2 -13
+p276
+aVRasho Nesterovic TOR 02/24/2010 TOR vs. POR L 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 1 1 3 0
+p277
+aVAndrea Bargnani TOR 02/24/2010 TOR vs. POR L 35 15 6 16 37.5 1 6 16.7 2 2 100.0 1 5 6 0 0 1 2 2 -18
+p278
+aVReggie Evans TOR 02/24/2010 TOR vs. POR L 13 2 1 4 25.0 0 0 - 0 1 0.0 3 5 8 0 0 0 2 1 -2
+p279
+aVJarrett Jack TOR 02/24/2010 TOR vs. POR L 32 18 7 13 53.8 2 4 50.0 2 4 50.0 0 2 2 8 0 0 3 1 1
+p280
+aVJose Calderon TOR 02/24/2010 TOR vs. POR L 24 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 3 0 0 3 2 -22
+p281
+aVSonny Weems TOR 02/24/2010 TOR vs. POR L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 1 2 1 -4
+p282
+aVAmir Johnson TOR 02/24/2010 TOR vs. POR L 23 10 5 8 62.5 0 0 - 0 0 - 3 5 8 1 0 4 0 1 -2
+p283
+aVMarco Belinelli TOR 02/24/2010 TOR vs. POR L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -8
+p284
+aVHedo Turkoglu TOR 02/24/2010 TOR vs. POR L 35 24 8 9 88.9 3 3 100.0 5 6 83.3 0 4 4 3 0 0 1 3 -3
+p285
+aVDeMar DeRozan TOR 02/24/2010 TOR vs. POR L 17 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 3 -6
+p286
+aVAntoine Wright TOR 02/24/2010 TOR vs. POR L 22 2 1 7 14.3 0 3 0.0 0 0 - 2 4 6 1 0 0 1 0 -6
+p287
+aVAndrea Bargnani TOR 02/20/2010 TOR vs. WAS W 39 18 6 13 46.2 1 3 33.3 5 6 83.3 0 6 6 0 0 4 0 2 5
+p288
+aVSonny Weems TOR 02/20/2010 TOR vs. WAS W 11 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 3
+p289
+aVDeMar DeRozan TOR 02/20/2010 TOR vs. WAS W 17 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 1 2 -10
+p290
+aVRasho Nesterovic TOR 02/20/2010 TOR vs. WAS W 19 10 5 7 71.4 0 0 - 0 0 - 1 0 1 0 1 1 1 3 -5
+p291
+aVAntoine Wright TOR 02/20/2010 TOR vs. WAS W 32 19 7 10 70.0 3 3 100.0 2 4 50.0 1 3 4 2 2 0 1 2 15
+p292
+aVHedo Turkoglu TOR 02/20/2010 TOR vs. WAS W 37 16 7 14 50.0 0 2 0.0 2 2 100.0 3 3 6 5 0 0 2 3 2
+p293
+aVReggie Evans TOR 02/20/2010 TOR vs. WAS W 14 3 0 3 0.0 0 0 - 3 6 50.0 4 3 7 1 0 1 0 2 -2
+p294
+aVJarrett Jack TOR 02/20/2010 TOR vs. WAS W 31 23 6 9 66.7 3 4 75.0 8 8 100.0 2 2 4 8 0 0 3 0 7
+p295
+aVAmir Johnson TOR 02/20/2010 TOR vs. WAS W 17 4 1 3 33.3 0 0 - 2 2 100.0 2 2 4 0 0 1 3 3 -3
+p296
+aVJose Calderon TOR 02/20/2010 TOR vs. WAS W 23 10 4 10 40.0 0 1 0.0 2 2 100.0 0 4 4 4 0 0 1 2 13
+p297
+aVAmir Johnson TOR 02/19/2010 TOR @ NJN W 24 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 1 1 1 1 22
+p298
+aVJarrett Jack TOR 02/19/2010 TOR @ NJN W 28 18 6 9 66.7 2 3 66.7 4 5 80.0 0 5 5 10 0 0 4 3 12
+p299
+aVAndrea Bargnani TOR 02/19/2010 TOR @ NJN W 33 13 5 9 55.6 0 1 0.0 3 4 75.0 0 6 6 1 0 1 1 3 9
+p300
+aVSonny Weems TOR 02/19/2010 TOR @ NJN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p301
+aVMarco Belinelli TOR 02/19/2010 TOR @ NJN W 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 1 6
+p302
+aVJose Calderon TOR 02/19/2010 TOR @ NJN W 26 16 6 8 75.0 2 3 66.7 2 2 100.0 0 3 3 3 1 0 3 3 11
+p303
+aVAntoine Wright TOR 02/19/2010 TOR @ NJN W 26 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 17
+p304
+aVDeMar DeRozan TOR 02/19/2010 TOR @ NJN W 23 14 6 7 85.7 0 0 - 2 6 33.3 2 4 6 0 2 0 0 2 -6
+p305
+aVRasho Nesterovic TOR 02/19/2010 TOR @ NJN W 26 16 8 11 72.7 0 0 - 0 0 - 1 6 7 4 0 1 1 2 1
+p306
+aVReggie Evans TOR 02/19/2010 TOR @ NJN W 11 2 1 4 25.0 0 0 - 0 2 0.0 0 3 3 2 0 1 1 0 5
+p307
+aVHedo Turkoglu TOR 02/19/2010 TOR @ NJN W 28 14 5 11 45.5 2 5 40.0 2 4 50.0 0 6 6 6 0 0 1 3 9
+p308
+aVChris Bosh TOR 02/17/2010 TOR vs. MEM L 44 32 11 22 50.0 0 1 0.0 10 10 100.0 1 9 10 4 0 2 0 4 -22
+p309
+aVHedo Turkoglu TOR 02/17/2010 TOR vs. MEM L 29 1 0 5 0.0 0 3 0.0 1 2 50.0 0 1 1 2 1 0 3 3 -29
+p310
+aVJose Calderon TOR 02/17/2010 TOR vs. MEM L 35 12 4 10 40.0 2 4 50.0 2 2 100.0 1 5 6 9 0 0 3 4 18
+p311
+aVSonny Weems TOR 02/17/2010 TOR vs. MEM L 27 10 5 7 71.4 0 0 - 0 0 - 0 2 2 3 0 0 0 3 18
+p312
+aVAmir Johnson TOR 02/17/2010 TOR vs. MEM L 18 10 5 5 100.0 0 0 - 0 0 - 2 2 4 4 0 3 0 3 27
+p313
+aVReggie Evans TOR 02/17/2010 TOR vs. MEM L 4 4 1 1 100.0 0 0 - 2 2 100.0 0 4 4 0 0 0 0 1 3
+p314
+aVDeMar DeRozan TOR 02/17/2010 TOR vs. MEM L 22 9 4 10 40.0 0 1 0.0 1 2 50.0 2 1 3 1 0 0 1 1 -18
+p315
+aVJarrett Jack TOR 02/17/2010 TOR vs. MEM L 18 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 2 0 0 1 2 -25
+p316
+aVAntoine Wright TOR 02/17/2010 TOR vs. MEM L 27 7 2 7 28.6 1 3 33.3 2 2 100.0 0 1 1 0 1 0 0 0 15
+p317
+aVAndrea Bargnani TOR 02/17/2010 TOR vs. MEM L 40 14 7 19 36.8 0 4 0.0 0 2 0.0 3 7 10 0 0 3 0 3 -22
+p318
+aVJose Calderon TOR 02/10/2010 TOR vs. PHI W 20 10 4 8 50.0 1 3 33.3 1 1 100.0 0 1 1 6 0 0 1 3 -2
+p319
+aVAndrea Bargnani TOR 02/10/2010 TOR vs. PHI W 36 16 5 12 41.7 1 4 25.0 5 6 83.3 1 6 7 2 2 2 3 1 12
+p320
+aVAmir Johnson TOR 02/10/2010 TOR vs. PHI W 13 10 4 5 80.0 0 0 - 2 2 100.0 2 1 3 0 1 0 1 0 -2
+p321
+aVReggie Evans TOR 02/10/2010 TOR vs. PHI W 5 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 0 1 0 0
+p322
+aVDeMar DeRozan TOR 02/10/2010 TOR vs. PHI W 29 14 6 9 66.7 0 0 - 2 5 40.0 2 5 7 1 2 0 2 0 14
+p323
+aVSonny Weems TOR 02/10/2010 TOR vs. PHI W 30 14 6 11 54.5 1 1 100.0 1 1 100.0 0 3 3 0 1 0 1 1 19
+p324
+aVJarrett Jack TOR 02/10/2010 TOR vs. PHI W 30 8 3 10 30.0 0 0 - 2 4 50.0 0 1 1 8 1 0 0 3 12
+p325
+aVMarco Belinelli TOR 02/10/2010 TOR vs. PHI W 10 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 1 3 -3
+p326
+aVAntoine Wright TOR 02/10/2010 TOR vs. PHI W 26 7 3 7 42.9 0 1 0.0 1 2 50.0 2 2 4 1 1 1 1 2 -7
+p327
+aVChris Bosh TOR 02/10/2010 TOR vs. PHI W 41 23 8 15 53.3 0 0 - 7 10 70.0 3 9 12 3 1 0 2 2 12
+p328
+aVJarrett Jack TOR 02/07/2010 TOR vs. SAC W 29 7 3 8 37.5 0 2 0.0 1 1 100.0 0 5 5 9 1 0 2 3 2
+p329
+aVAndrea Bargnani TOR 02/07/2010 TOR vs. SAC W 37 22 9 15 60.0 1 5 20.0 3 4 75.0 1 7 8 3 0 1 3 3 8
+p330
+aVAntoine Wright TOR 02/07/2010 TOR vs. SAC W 22 16 6 7 85.7 2 3 66.7 2 2 100.0 1 4 5 4 1 1 3 4 15
+p331
+aVJose Calderon TOR 02/07/2010 TOR vs. SAC W 21 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 2 1 0 0 1 10
+p332
+aVHedo Turkoglu TOR 02/07/2010 TOR vs. SAC W 37 16 6 14 42.9 2 5 40.0 2 4 50.0 2 1 3 5 1 1 3 6 5
+p333
+aVChris Bosh TOR 02/07/2010 TOR vs. SAC W 41 36 14 18 77.8 0 0 - 8 11 72.7 3 8 11 5 0 1 2 1 24
+p334
+aVDeMar DeRozan TOR 02/07/2010 TOR vs. SAC W 24 7 3 6 50.0 0 0 - 1 1 100.0 0 2 2 0 1 0 2 2 2
+p335
+aVAmir Johnson TOR 02/07/2010 TOR vs. SAC W 17 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 1 0 5 -13
+p336
+aVSonny Weems TOR 02/07/2010 TOR vs. SAC W 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 2 1 0 0 2
+p337
+aVMarco Belinelli TOR 02/03/2010 TOR vs. NJN W 18 6 1 4 25.0 1 3 33.3 3 4 75.0 0 1 1 2 1 0 0 1 -12
+p338
+aVAmir Johnson TOR 02/03/2010 TOR vs. NJN W 16 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 0 2 0 0 4 1
+p339
+aVChris Bosh TOR 02/03/2010 TOR vs. NJN W 41 20 8 20 40.0 0 0 - 4 4 100.0 1 8 9 4 1 2 3 0 9
+p340
+aVMarcus Banks TOR 02/03/2010 TOR vs. NJN W 8 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 1 0 0 0 1 -2
+p341
+aVJarrett Jack TOR 02/03/2010 TOR vs. NJN W 40 17 5 8 62.5 3 4 75.0 4 6 66.7 1 2 3 9 0 0 2 3 11
+p342
+aVAndrea Bargnani TOR 02/03/2010 TOR vs. NJN W 33 20 6 17 35.3 2 4 50.0 6 7 85.7 0 5 5 1 0 4 0 3 19
+p343
+aVSonny Weems TOR 02/03/2010 TOR vs. NJN W 39 14 7 11 63.6 0 0 - 0 0 - 4 7 11 4 1 0 4 2 16
+p344
+aVAntoine Wright TOR 02/03/2010 TOR vs. NJN W 38 18 6 10 60.0 3 6 50.0 3 4 75.0 1 6 7 0 1 0 1 1 14
+p345
+aVRasho Nesterovic TOR 02/03/2010 TOR vs. NJN W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -11
+p346
+aVSonny Weems TOR 02/02/2010 TOR @ IND L 24 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 0 3 3 -17
+p347
+aVMarco Belinelli TOR 02/02/2010 TOR @ IND L 33 21 7 13 53.8 3 4 75.0 4 5 80.0 0 5 5 2 0 1 1 3 -8
+p348
+aVMarcus Banks TOR 02/02/2010 TOR @ IND L 5 4 0 2 0.0 0 0 - 4 4 100.0 1 0 1 1 0 0 0 0 -3
+p349
+aVAmir Johnson TOR 02/02/2010 TOR @ IND L 17 6 3 6 50.0 0 0 - 0 1 0.0 2 5 7 2 1 0 2 4 -2
+p350
+aVPatrick O'Bryant TOR 02/02/2010 TOR @ IND L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p351
+aVJarrett Jack TOR 02/02/2010 TOR @ IND L 27 4 1 6 16.7 0 2 0.0 2 2 100.0 0 5 5 6 0 1 2 4 -15
+p352
+aVAntoine Wright TOR 02/02/2010 TOR @ IND L 33 4 0 8 0.0 0 5 0.0 4 4 100.0 1 1 2 4 0 0 1 3 2
+p353
+aVChris Bosh TOR 02/02/2010 TOR @ IND L 37 35 13 22 59.1 0 0 - 9 12 75.0 5 10 15 3 1 2 3 4 -11
+p354
+aVJose Calderon TOR 02/02/2010 TOR @ IND L 22 5 2 6 33.3 1 3 33.3 0 0 - 1 0 1 8 0 0 2 1 -4
+p355
+aVAndrea Bargnani TOR 02/02/2010 TOR @ IND L 36 34 14 21 66.7 4 6 66.7 2 6 33.3 0 4 4 0 0 1 1 5 -13
+p356
+aVRasho Nesterovic TOR 02/02/2010 TOR @ IND L 5 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 1 1 -2
+p357
+aVSonny Weems TOR 01/31/2010 TOR vs. IND W 32 13 5 8 62.5 0 1 0.0 3 4 75.0 0 6 6 3 0 0 3 2 1
+p358
+aVJose Calderon TOR 01/31/2010 TOR vs. IND W 28 12 6 10 60.0 0 2 0.0 0 0 - 0 2 2 7 2 0 1 4 3
+p359
+aVRasho Nesterovic TOR 01/31/2010 TOR vs. IND W 4 6 3 4 75.0 0 0 - 0 1 0.0 0 0 0 1 0 0 0 0 2
+p360
+aVMarco Belinelli TOR 01/31/2010 TOR vs. IND W 15 0 0 4 0.0 0 4 0.0 0 0 - 0 1 1 1 1 0 1 1 -12
+p361
+aVAntoine Wright TOR 01/31/2010 TOR vs. IND W 36 15 6 10 60.0 3 4 75.0 0 0 - 0 6 6 2 0 0 1 2 26
+p362
+aVAmir Johnson TOR 01/31/2010 TOR vs. IND W 20 12 5 6 83.3 0 0 - 2 6 33.3 2 6 8 2 1 0 1 1 3
+p363
+aVChris Bosh TOR 01/31/2010 TOR vs. IND W 37 26 12 21 57.1 0 0 - 2 2 100.0 4 11 15 7 0 2 1 1 25
+p364
+aVHedo Turkoglu TOR 01/31/2010 TOR vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p365
+aVAndrea Bargnani TOR 01/31/2010 TOR vs. IND W 35 17 7 12 58.3 1 2 50.0 2 2 100.0 2 2 4 3 1 1 3 2 0
+p366
+aVJarrett Jack TOR 01/31/2010 TOR vs. IND W 33 16 6 8 75.0 3 3 100.0 1 1 100.0 0 2 2 6 0 0 2 1 27
+p367
+aVAmir Johnson TOR 01/28/2010 TOR @ NYK W 18 10 5 6 83.3 0 0 - 0 1 0.0 3 4 7 1 0 2 3 6 1
+p368
+aVSonny Weems TOR 01/28/2010 TOR @ NYK W 19 6 3 4 75.0 0 0 - 0 0 - 3 1 4 1 1 0 3 0 -13
+p369
+aVHedo Turkoglu TOR 01/28/2010 TOR @ NYK W 35 26 8 16 50.0 3 8 37.5 7 9 77.8 1 10 11 2 2 1 1 2 -9
+p370
+aVMarco Belinelli TOR 01/28/2010 TOR @ NYK W 14 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 2 11
+p371
+aVRasho Nesterovic TOR 01/28/2010 TOR @ NYK W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 1 -2
+p372
+aVChris Bosh TOR 01/28/2010 TOR @ NYK W 42 27 10 24 41.7 0 1 0.0 7 8 87.5 3 12 15 0 1 1 6 2 8
+p373
+aVAntoine Wright TOR 01/28/2010 TOR @ NYK W 25 13 5 6 83.3 3 3 100.0 0 0 - 1 4 5 1 0 0 2 1 8
+p374
+aVJarrett Jack TOR 01/28/2010 TOR @ NYK W 32 9 3 5 60.0 0 2 0.0 3 4 75.0 0 3 3 1 1 0 3 2 -5
+p375
+aVAndrea Bargnani TOR 01/28/2010 TOR @ NYK W 30 2 1 9 11.1 0 3 0.0 0 1 0.0 0 3 3 1 0 3 0 4 -6
+p376
+aVJose Calderon TOR 01/28/2010 TOR @ NYK W 25 12 5 8 62.5 1 2 50.0 1 1 100.0 0 3 3 7 0 0 1 3 17
+p377
+aVMarco Belinelli TOR 01/27/2010 TOR vs. MIA W 21 11 4 6 66.7 1 1 100.0 2 2 100.0 0 1 1 4 1 0 2 0 12
+p378
+aVHedo Turkoglu TOR 01/27/2010 TOR vs. MIA W 31 6 1 5 20.0 0 1 0.0 4 4 100.0 1 3 4 3 0 1 2 2 -5
+p379
+aVSonny Weems TOR 01/27/2010 TOR vs. MIA W 26 10 4 9 44.4 0 0 - 2 3 66.7 1 0 1 3 0 0 1 2 9
+p380
+aVAntoine Wright TOR 01/27/2010 TOR vs. MIA W 17 9 3 6 50.0 1 2 50.0 2 3 66.7 2 3 5 1 0 0 1 4 1
+p381
+aVAmir Johnson TOR 01/27/2010 TOR vs. MIA W 20 11 5 5 100.0 0 0 - 1 1 100.0 1 3 4 0 1 0 0 4 12
+p382
+aVAndrea Bargnani TOR 01/27/2010 TOR vs. MIA W 37 27 13 19 68.4 1 4 25.0 0 0 - 1 2 3 1 0 1 1 2 -8
+p383
+aVChris Bosh TOR 01/27/2010 TOR vs. MIA W 39 24 11 22 50.0 0 0 - 2 6 33.3 4 14 18 4 1 0 2 0 11
+p384
+aVJose Calderon TOR 01/27/2010 TOR vs. MIA W 23 6 2 6 33.3 0 1 0.0 2 3 66.7 1 5 6 7 2 0 2 1 10
+p385
+aVJarrett Jack TOR 01/27/2010 TOR vs. MIA W 25 7 3 3 100.0 1 1 100.0 0 0 - 0 4 4 5 0 0 3 1 -2
+p386
+aVJose Calderon TOR 01/24/2010 TOR vs. LAL W 16 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 5 0 0 1 0 0
+p387
+aVDeMar DeRozan TOR 01/24/2010 TOR vs. LAL W 24 10 4 12 33.3 0 0 - 2 4 50.0 1 5 6 0 0 1 2 1 -8
+p388
+aVMarco Belinelli TOR 01/24/2010 TOR vs. LAL W 24 15 4 5 80.0 3 3 100.0 4 5 80.0 0 2 2 1 1 0 3 3 9
+p389
+aVAntoine Wright TOR 01/24/2010 TOR vs. LAL W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p390
+aVAmir Johnson TOR 01/24/2010 TOR vs. LAL W 17 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 2 9
+p391
+aVAndrea Bargnani TOR 01/24/2010 TOR vs. LAL W 39 22 7 17 41.2 1 6 16.7 7 7 100.0 2 6 8 1 1 1 1 2 -4
+p392
+aVHedo Turkoglu TOR 01/24/2010 TOR vs. LAL W 37 9 1 6 16.7 1 2 50.0 6 6 100.0 0 2 2 5 0 1 0 1 -1
+p393
+aVChris Bosh TOR 01/24/2010 TOR vs. LAL W 38 18 9 17 52.9 0 0 - 0 0 - 5 8 13 2 2 1 3 3 -2
+p394
+aVJarrett Jack TOR 01/24/2010 TOR vs. LAL W 32 18 8 14 57.1 1 4 25.0 1 2 50.0 1 0 1 4 0 0 0 0 1
+p395
+aVRasho Nesterovic TOR 01/24/2010 TOR vs. LAL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -1
+p396
+aVAntoine Wright TOR 01/22/2010 TOR vs. MIL W 20 4 1 8 12.5 1 5 20.0 1 2 50.0 3 5 8 0 0 0 2 2 -1
+p397
+aVMarco Belinelli TOR 01/22/2010 TOR vs. MIL W 25 16 4 9 44.4 1 4 25.0 7 9 77.8 1 4 5 2 1 0 0 2 4
+p398
+aVJarrett Jack TOR 01/22/2010 TOR vs. MIL W 34 27 7 9 77.8 2 4 50.0 11 12 91.7 1 2 3 2 2 0 4 3 9
+p399
+aVSonny Weems TOR 01/22/2010 TOR vs. MIL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -1
+p400
+aVPatrick O'Bryant TOR 01/22/2010 TOR vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -5
+p401
+aVAmir Johnson TOR 01/22/2010 TOR vs. MIL W 17 2 1 2 50.0 0 0 - 0 3 0.0 0 1 1 0 0 0 0 3 -10
+p402
+aVJose Calderon TOR 01/22/2010 TOR vs. MIL W 25 9 2 6 33.3 2 3 66.7 3 4 75.0 1 0 1 0 0 0 0 1 11
+p403
+aVChris Bosh TOR 01/22/2010 TOR vs. MIL W 39 17 6 13 46.2 0 0 - 5 6 83.3 1 6 7 3 2 0 2 1 11
+p404
+aVHedo Turkoglu TOR 01/22/2010 TOR vs. MIL W 31 6 2 10 20.0 0 4 0.0 2 3 66.7 1 6 7 5 1 1 3 5 15
+p405
+aVDeMar DeRozan TOR 01/22/2010 TOR vs. MIL W 21 12 5 8 62.5 0 0 - 2 2 100.0 0 5 5 0 1 0 1 1 -5
+p406
+aVRasho Nesterovic TOR 01/22/2010 TOR vs. MIL W 20 8 4 8 50.0 0 0 - 0 1 0.0 3 4 7 2 0 1 1 3 -3
+p407
+aVDeMar DeRozan TOR 01/20/2010 TOR @ MIL L 26 2 1 6 16.7 0 0 - 0 0 - 2 2 4 1 0 1 0 0 -10
+p408
+aVChris Bosh TOR 01/20/2010 TOR @ MIL L 43 44 15 26 57.7 0 1 0.0 14 15 93.3 2 10 12 4 1 0 1 3 2
+p409
+aVAntoine Wright TOR 01/20/2010 TOR @ MIL L 23 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 0
+p410
+aVSonny Weems TOR 01/20/2010 TOR @ MIL L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p411
+aVAndrea Bargnani TOR 01/20/2010 TOR @ MIL L 31 10 4 13 30.8 1 2 50.0 1 1 100.0 1 3 4 1 0 1 2 5 -16
+p412
+aVAmir Johnson TOR 01/20/2010 TOR @ MIL L 23 10 2 4 50.0 0 1 0.0 6 6 100.0 2 5 7 0 1 0 0 4 2
+p413
+aVMarco Belinelli TOR 01/20/2010 TOR @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p414
+aVJarrett Jack TOR 01/20/2010 TOR @ MIL L 29 6 3 8 37.5 0 2 0.0 0 0 - 1 1 2 5 0 0 3 1 -11
+p415
+aVHedo Turkoglu TOR 01/20/2010 TOR @ MIL L 35 13 5 14 35.7 3 8 37.5 0 0 - 0 4 4 4 0 2 0 3 -9
+p416
+aVJose Calderon TOR 01/20/2010 TOR @ MIL L 21 16 5 9 55.6 1 1 100.0 5 5 100.0 1 3 4 5 0 0 2 1 6
+p417
+aVJose Calderon TOR 01/19/2010 TOR @ CLE L 26 6 2 9 22.2 0 3 0.0 2 3 66.7 0 2 2 6 2 0 1 0 -3
+p418
+aVAndrea Bargnani TOR 01/19/2010 TOR @ CLE L 37 19 7 15 46.7 3 7 42.9 2 3 66.7 1 5 6 0 0 1 1 5 0
+p419
+aVMarco Belinelli TOR 01/19/2010 TOR @ CLE L 21 14 6 12 50.0 1 2 50.0 1 2 50.0 0 0 0 1 0 0 1 2 -4
+p420
+aVJarrett Jack TOR 01/19/2010 TOR @ CLE L 22 11 4 6 66.7 1 1 100.0 2 2 100.0 0 2 2 3 0 0 0 1 -5
+p421
+aVHedo Turkoglu TOR 01/19/2010 TOR @ CLE L 24 3 1 6 16.7 1 4 25.0 0 0 - 0 3 3 3 2 0 3 4 -5
+p422
+aVRasho Nesterovic TOR 01/19/2010 TOR @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p423
+aVAntoine Wright TOR 01/19/2010 TOR @ CLE L 24 12 5 8 62.5 1 1 100.0 1 3 33.3 1 4 5 0 0 0 1 3 -5
+p424
+aVDeMar DeRozan TOR 01/19/2010 TOR @ CLE L 27 14 6 10 60.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 0 1 -4
+p425
+aVAmir Johnson TOR 01/19/2010 TOR @ CLE L 13 0 0 0 - 0 0 - 0 2 0.0 1 2 3 1 0 1 0 2 -6
+p426
+aVChris Bosh TOR 01/19/2010 TOR @ CLE L 42 21 9 16 56.3 0 0 - 3 4 75.0 2 8 10 3 0 0 3 2 -9
+p427
+aVPatrick O'Bryant TOR 01/17/2010 TOR vs. DAL W 4 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -4
+p428
+aVSonny Weems TOR 01/17/2010 TOR vs. DAL W 9 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 1 1 2 5
+p429
+aVHedo Turkoglu TOR 01/17/2010 TOR vs. DAL W 36 8 2 9 22.2 1 5 20.0 3 5 60.0 0 4 4 6 2 0 1 4 11
+p430
+aVAntoine Wright TOR 01/17/2010 TOR vs. DAL W 24 8 3 4 75.0 2 3 66.7 0 0 - 1 3 4 3 0 0 0 0 28
+p431
+aVAmir Johnson TOR 01/17/2010 TOR vs. DAL W 23 10 5 9 55.6 0 0 - 0 1 0.0 2 6 8 1 1 1 1 5 19
+p432
+aVAndrea Bargnani TOR 01/17/2010 TOR vs. DAL W 35 22 9 17 52.9 3 6 50.0 1 3 33.3 3 3 6 1 0 2 1 0 21
+p433
+aVJose Calderon TOR 01/17/2010 TOR vs. DAL W 23 15 6 12 50.0 1 2 50.0 2 2 100.0 2 0 2 7 2 0 1 1 32
+p434
+aVMarcus Banks TOR 01/17/2010 TOR vs. DAL W 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -4
+p435
+aVJarrett Jack TOR 01/17/2010 TOR vs. DAL W 24 11 5 8 62.5 0 0 - 1 1 100.0 0 3 3 7 1 0 0 1 0
+p436
+aVDeMar DeRozan TOR 01/17/2010 TOR vs. DAL W 24 8 4 9 44.4 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -6
+p437
+aVChris Bosh TOR 01/17/2010 TOR vs. DAL W 35 23 9 18 50.0 0 0 - 5 6 83.3 2 11 13 2 0 2 0 1 8
+p438
+aVAndrea Bargnani TOR 01/15/2010 TOR @ NYK W 39 24 9 13 69.2 5 6 83.3 1 2 50.0 0 12 12 1 1 0 2 3 0
+p439
+aVDeMar DeRozan TOR 01/15/2010 TOR @ NYK W 29 19 4 8 50.0 0 0 - 11 14 78.6 1 1 2 2 0 0 0 3 1
+p440
+aVAntoine Wright TOR 01/15/2010 TOR @ NYK W 12 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 5
+p441
+aVJose Calderon TOR 01/15/2010 TOR @ NYK W 26 21 9 14 64.3 3 3 100.0 0 0 - 0 0 0 6 1 0 1 0 9
+p442
+aVJarrett Jack TOR 01/15/2010 TOR @ NYK W 22 10 3 8 37.5 1 3 33.3 3 3 100.0 1 3 4 1 0 0 1 1 -1
+p443
+aVHedo Turkoglu TOR 01/15/2010 TOR @ NYK W 34 13 4 10 40.0 3 8 37.5 2 4 50.0 1 8 9 5 2 0 3 2 -2
+p444
+aVSonny Weems TOR 01/15/2010 TOR @ NYK W 24 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 10
+p445
+aVAmir Johnson TOR 01/15/2010 TOR @ NYK W 23 1 0 2 0.0 0 0 - 1 2 50.0 0 6 6 0 0 2 3 2 15
+p446
+aVChris Bosh TOR 01/15/2010 TOR @ NYK W 31 18 7 10 70.0 0 0 - 4 6 66.7 0 4 4 1 0 0 2 3 3
+p447
+aVJose Calderon TOR 01/11/2010 TOR @ IND L 26 12 4 7 57.1 2 3 66.7 2 2 100.0 0 2 2 6 1 0 2 4 3
+p448
+aVJarrett Jack TOR 01/11/2010 TOR @ IND L 27 5 2 9 22.2 0 0 - 1 2 50.0 2 0 2 5 1 0 3 4 -7
+p449
+aVChris Bosh TOR 01/11/2010 TOR @ IND L 36 27 6 14 42.9 0 0 - 15 20 75.0 2 8 10 2 2 2 2 3 -17
+p450
+aVRasho Nesterovic TOR 01/11/2010 TOR @ IND L 4 6 3 3 100.0 0 0 - 0 0 - 2 1 3 0 0 2 0 0 14
+p451
+aVSonny Weems TOR 01/11/2010 TOR @ IND L 12 7 3 5 60.0 0 0 - 1 3 33.3 0 3 3 1 0 0 0 3 8
+p452
+aVAntoine Wright TOR 01/11/2010 TOR @ IND L 9 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 0 0 0 1 0 -11
+p453
+aVAmir Johnson TOR 01/11/2010 TOR @ IND L 13 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 1 0 4 17
+p454
+aVHedo Turkoglu TOR 01/11/2010 TOR @ IND L 38 10 2 9 22.2 1 4 25.0 5 6 83.3 0 6 6 3 0 1 2 4 -15
+p455
+aVAndrea Bargnani TOR 01/11/2010 TOR @ IND L 36 12 4 14 28.6 1 7 14.3 3 4 75.0 4 13 17 0 0 3 2 1 -11
+p456
+aVDeMar DeRozan TOR 01/11/2010 TOR @ IND L 20 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 3 -1
+p457
+aVMarco Belinelli TOR 01/11/2010 TOR @ IND L 20 7 3 9 33.3 1 3 33.3 0 0 - 2 3 5 2 2 1 2 1 0
+p458
+aVAndrea Bargnani TOR 01/10/2010 TOR vs. BOS L 37 23 8 16 50.0 4 7 57.1 3 4 75.0 0 5 5 0 1 2 2 3 -9
+p459
+aVDeMar DeRozan TOR 01/10/2010 TOR vs. BOS L 25 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 0 1 0 1 3 -7
+p460
+aVJarrett Jack TOR 01/10/2010 TOR vs. BOS L 31 15 6 10 60.0 1 3 33.3 2 3 66.7 0 3 3 4 1 0 1 3 -3
+p461
+aVAntoine Wright TOR 01/10/2010 TOR vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p462
+aVAmir Johnson TOR 01/10/2010 TOR vs. BOS L 16 0 0 4 0.0 0 0 - 0 0 - 4 2 6 0 1 0 2 2 6
+p463
+aVJose Calderon TOR 01/10/2010 TOR vs. BOS L 22 11 5 7 71.4 0 1 0.0 1 1 100.0 0 1 1 3 1 0 2 3 -8
+p464
+aVMarco Belinelli TOR 01/10/2010 TOR vs. BOS L 22 14 6 12 50.0 2 5 40.0 0 0 - 1 1 2 2 0 0 1 0 3
+p465
+aVSonny Weems TOR 01/10/2010 TOR vs. BOS L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 1 0 1 0 1 -2
+p466
+aVChris Bosh TOR 01/10/2010 TOR vs. BOS L 43 31 9 17 52.9 0 0 - 13 13 100.0 5 8 13 4 2 2 5 6 -9
+p467
+aVHedo Turkoglu TOR 01/10/2010 TOR vs. BOS L 32 5 2 9 22.2 1 3 33.3 0 2 0.0 0 4 4 9 1 1 0 4 -4
+p468
+aVHedo Turkoglu TOR 01/08/2010 TOR @ PHI W 30 9 3 7 42.9 1 4 25.0 2 2 100.0 0 1 1 0 1 0 2 2 -8
+p469
+aVJose Calderon TOR 01/08/2010 TOR @ PHI W 24 8 3 8 37.5 0 3 0.0 2 2 100.0 0 1 1 3 0 1 0 3 7
+p470
+aVAntoine Wright TOR 01/08/2010 TOR @ PHI W 6 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 1 0 0 0 0
+p471
+aVAndrea Bargnani TOR 01/08/2010 TOR @ PHI W 40 23 10 21 47.6 2 4 50.0 1 1 100.0 2 4 6 1 0 3 1 2 -2
+p472
+aVJarrett Jack TOR 01/08/2010 TOR @ PHI W 31 10 4 8 50.0 1 2 50.0 1 1 100.0 0 4 4 4 1 1 1 3 -8
+p473
+aVSonny Weems TOR 01/08/2010 TOR @ PHI W 19 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 3 7
+p474
+aVDeMar DeRozan TOR 01/08/2010 TOR @ PHI W 24 12 4 7 57.1 0 0 - 4 4 100.0 2 4 6 1 1 0 1 1 -3
+p475
+aVMarco Belinelli TOR 01/08/2010 TOR @ PHI W 15 8 2 3 66.7 1 1 100.0 3 4 75.0 0 1 1 3 1 0 2 1 14
+p476
+aVAmir Johnson TOR 01/08/2010 TOR @ PHI W 15 4 2 2 100.0 0 0 - 0 0 - 0 5 5 0 2 2 1 1 6
+p477
+aVChris Bosh TOR 01/08/2010 TOR @ PHI W 36 29 10 15 66.7 0 0 - 9 12 75.0 1 8 9 6 1 0 6 2 -3
+p478
+aVHedo Turkoglu TOR 01/06/2010 TOR @ ORL W 39 17 6 12 50.0 3 4 75.0 2 4 50.0 0 3 3 4 0 0 1 3 7
+p479
+aVJarrett Jack TOR 01/06/2010 TOR @ ORL W 33 15 3 7 42.9 2 4 50.0 7 8 87.5 1 2 3 7 2 0 4 4 0
+p480
+aVChris Bosh TOR 01/06/2010 TOR @ ORL W 38 18 6 12 50.0 0 0 - 6 6 100.0 0 12 12 2 1 0 6 2 -15
+p481
+aVAmir Johnson TOR 01/06/2010 TOR @ ORL W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -4
+p482
+aVAndrea Bargnani TOR 01/06/2010 TOR @ ORL W 31 18 7 16 43.8 2 5 40.0 2 2 100.0 1 7 8 2 0 1 1 6 13
+p483
+aVAntoine Wright TOR 01/06/2010 TOR @ ORL W 16 7 3 6 50.0 1 4 25.0 0 0 - 0 2 2 3 2 0 1 4 1
+p484
+aVSonny Weems TOR 01/06/2010 TOR @ ORL W 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p485
+aVMarco Belinelli TOR 01/06/2010 TOR @ ORL W 18 10 3 4 75.0 0 1 0.0 4 4 100.0 0 2 2 3 0 0 0 2 20
+p486
+aVDeMar DeRozan TOR 01/06/2010 TOR @ ORL W 19 12 6 7 85.7 0 0 - 0 0 - 0 1 1 1 1 0 1 2 2
+p487
+aVJose Calderon TOR 01/06/2010 TOR @ ORL W 25 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 8 0 0 1 2 4
+p488
+aVChris Bosh TOR 01/03/2010 TOR vs. SAS W 39 22 10 24 41.7 0 0 - 2 2 100.0 3 12 15 3 1 2 3 5 3
+p489
+aVSonny Weems TOR 01/03/2010 TOR vs. SAS W 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 3 0 0 1 2 -3
+p490
+aVMarcus Banks TOR 01/03/2010 TOR vs. SAS W 14 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 5
+p491
+aVAmir Johnson TOR 01/03/2010 TOR vs. SAS W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 8
+p492
+aVAntoine Wright TOR 01/03/2010 TOR vs. SAS W 35 8 3 6 50.0 0 1 0.0 2 2 100.0 0 6 6 1 0 0 2 1 7
+p493
+aVJarrett Jack TOR 01/03/2010 TOR vs. SAS W 34 16 4 8 50.0 0 1 0.0 8 8 100.0 0 3 3 8 0 0 2 4 0
+p494
+aVAndrea Bargnani TOR 01/03/2010 TOR vs. SAS W 42 15 5 16 31.3 1 4 25.0 4 6 66.7 2 6 8 1 0 5 1 4 2
+p495
+aVDeMar DeRozan TOR 01/03/2010 TOR vs. SAS W 23 11 5 8 62.5 0 0 - 1 1 100.0 0 2 2 0 0 0 0 3 -6
+p496
+aVMarco Belinelli TOR 01/03/2010 TOR vs. SAS W 25 7 0 5 0.0 0 2 0.0 7 8 87.5 0 4 4 3 1 0 2 1 9
+p497
+aVMarcus Banks TOR 01/02/2010 TOR @ BOS L 20 5 1 4 25.0 1 3 33.3 2 2 100.0 0 0 0 3 0 1 2 1 7
+p498
+aVSonny Weems TOR 01/02/2010 TOR @ BOS L 13 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 4 -12
+p499
+aVPops Mensah-Bonsu TOR 01/02/2010 TOR @ BOS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p500
+aVRasho Nesterovic TOR 01/02/2010 TOR @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p501
+aVChris Bosh TOR 01/02/2010 TOR @ BOS L 40 25 11 15 73.3 0 0 - 3 4 75.0 2 7 9 1 1 1 4 1 -10
+p502
+aVDeMar DeRozan TOR 01/02/2010 TOR @ BOS L 15 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 1 0 1 4 -2
+p503
+aVAndrea Bargnani TOR 01/02/2010 TOR @ BOS L 40 21 8 15 53.3 2 5 40.0 3 4 75.0 2 2 4 1 0 1 2 4 -10
+p504
+aVJarrett Jack TOR 01/02/2010 TOR @ BOS L 33 14 5 11 45.5 3 3 100.0 1 2 50.0 0 2 2 7 1 0 4 3 -14
+p505
+aVAntoine Wright TOR 01/02/2010 TOR @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p506
+aVAmir Johnson TOR 01/02/2010 TOR @ BOS L 11 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 0 1 0 0 2 7
+p507
+aVHedo Turkoglu TOR 01/02/2010 TOR @ BOS L 39 12 4 9 44.4 1 2 50.0 3 5 60.0 0 7 7 7 0 1 2 3 -1
+p508
+aVMarco Belinelli TOR 01/02/2010 TOR @ BOS L 19 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 2 7
+p509
+aVAmir Johnson TOR 12/30/2009 TOR vs. CHA W 16 2 1 2 50.0 0 0 - 0 0 - 2 1 3 2 1 1 0 3 0
+p510
+aVAndrea Bargnani TOR 12/30/2009 TOR vs. CHA W 41 28 11 20 55.0 2 6 33.3 4 4 100.0 3 1 4 0 1 1 4 3 3
+p511
+aVHedo Turkoglu TOR 12/30/2009 TOR vs. CHA W 14 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 5 0 0 0 1 -3
+p512
+aVDeMar DeRozan TOR 12/30/2009 TOR vs. CHA W 20 10 4 7 57.1 0 0 - 2 2 100.0 2 0 2 1 1 0 0 4 2
+p513
+aVChris Bosh TOR 12/30/2009 TOR vs. CHA W 37 33 11 20 55.0 0 0 - 11 11 100.0 6 7 13 2 2 1 1 0 4
+p514
+aVAntoine Wright TOR 12/30/2009 TOR vs. CHA W 18 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 2 0 0 1 2 2
+p515
+aVMarcus Banks TOR 12/30/2009 TOR vs. CHA W 11 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 3 0
+p516
+aVMarco Belinelli TOR 12/30/2009 TOR vs. CHA W 22 13 3 11 27.3 1 6 16.7 6 7 85.7 1 3 4 1 3 1 0 1 5
+p517
+aVJarrett Jack TOR 12/30/2009 TOR vs. CHA W 37 7 3 6 50.0 1 2 50.0 0 1 0.0 0 2 2 6 3 1 3 1 4
+p518
+aVSonny Weems TOR 12/30/2009 TOR vs. CHA W 23 9 2 10 20.0 0 0 - 5 6 83.3 1 1 2 3 1 2 1 3 3
+p519
+aVDeMar DeRozan TOR 12/27/2009 TOR vs. DET W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 2 -5
+p520
+aVChris Bosh TOR 12/27/2009 TOR vs. DET W 39 25 8 14 57.1 0 0 - 9 14 64.3 1 15 16 1 0 3 4 4 5
+p521
+aVAntoine Wright TOR 12/27/2009 TOR vs. DET W 16 2 1 1 100.0 0 0 - 0 0 - 1 2 3 3 1 0 0 2 3
+p522
+aVHedo Turkoglu TOR 12/27/2009 TOR vs. DET W 33 14 3 8 37.5 2 5 40.0 6 8 75.0 2 1 3 6 0 0 1 3 3
+p523
+aVPops Mensah-Bonsu TOR 12/27/2009 TOR vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p524
+aVSonny Weems TOR 12/27/2009 TOR vs. DET W 11 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 1 1 0 3 4
+p525
+aVJarrett Jack TOR 12/27/2009 TOR vs. DET W 36 17 5 9 55.6 1 4 25.0 6 6 100.0 0 0 0 5 0 0 3 2 2
+p526
+aVAmir Johnson TOR 12/27/2009 TOR vs. DET W 14 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 0 1 0 1 4 1
+p527
+aVMarco Belinelli TOR 12/27/2009 TOR vs. DET W 20 9 1 3 33.3 1 2 50.0 6 7 85.7 0 0 0 0 1 0 2 6 8
+p528
+aVAndrea Bargnani TOR 12/27/2009 TOR vs. DET W 42 16 7 13 53.8 0 1 0.0 2 3 66.7 0 6 6 1 0 2 3 5 11
+p529
+aVMarcus Banks TOR 12/27/2009 TOR vs. DET W 12 7 2 3 66.7 0 1 0.0 3 4 75.0 0 2 2 3 0 0 0 1 5
+p530
+aVMarco Belinelli TOR 12/23/2009 TOR @ DET W 23 9 4 8 50.0 1 1 100.0 0 0 - 0 1 1 2 1 0 0 3 18
+p531
+aVPops Mensah-Bonsu TOR 12/23/2009 TOR @ DET W 6 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 8
+p532
+aVMarcus Banks TOR 12/23/2009 TOR @ DET W 18 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 1 0 0 2 3 7
+p533
+aVJarrett Jack TOR 12/23/2009 TOR @ DET W 30 14 4 7 57.1 2 3 66.7 4 4 100.0 1 4 5 7 0 0 0 2 23
+p534
+aVHedo Turkoglu TOR 12/23/2009 TOR @ DET W 32 11 4 9 44.4 3 5 60.0 0 0 - 0 3 3 11 0 0 2 3 13
+p535
+aVDeMar DeRozan TOR 12/23/2009 TOR @ DET W 19 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 0 2 0 2 3 6
+p536
+aVAmir Johnson TOR 12/23/2009 TOR @ DET W 23 9 3 6 50.0 0 0 - 3 6 50.0 2 4 6 1 0 4 1 5 13
+p537
+aVSonny Weems TOR 12/23/2009 TOR @ DET W 22 6 3 7 42.9 0 1 0.0 0 0 - 1 7 8 3 1 1 2 1 23
+p538
+aVChris Bosh TOR 12/23/2009 TOR @ DET W 33 12 4 5 80.0 0 0 - 4 4 100.0 0 9 9 1 0 1 4 2 19
+p539
+aVAndrea Bargnani TOR 12/23/2009 TOR @ DET W 33 21 9 15 60.0 2 4 50.0 1 2 50.0 1 3 4 0 0 2 0 0 20
+p540
+aVJarrett Jack TOR 12/20/2009 TOR vs. NOH W 35 15 7 12 58.3 0 2 0.0 1 1 100.0 0 5 5 7 2 0 0 1 11
+p541
+aVAndrea Bargnani TOR 12/20/2009 TOR vs. NOH W 37 13 6 14 42.9 1 6 16.7 0 0 - 1 10 11 1 1 2 2 5 4
+p542
+aVSonny Weems TOR 12/20/2009 TOR vs. NOH W 30 7 3 9 33.3 0 0 - 1 4 25.0 2 3 5 5 1 1 0 2 11
+p543
+aVHedo Turkoglu TOR 12/20/2009 TOR vs. NOH W 38 14 4 13 30.8 2 4 50.0 4 4 100.0 0 3 3 7 1 1 3 1 -3
+p544
+aVAmir Johnson TOR 12/20/2009 TOR vs. NOH W 22 6 2 7 28.6 0 0 - 2 4 50.0 4 8 12 0 0 0 2 4 1
+p545
+aVDeMar DeRozan TOR 12/20/2009 TOR vs. NOH W 21 10 5 8 62.5 0 0 - 0 0 - 1 2 3 1 0 0 1 2 7
+p546
+aVMarcus Banks TOR 12/20/2009 TOR vs. NOH W 13 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 0 1 1 1 0 -5
+p547
+aVChris Bosh TOR 12/20/2009 TOR vs. NOH W 38 25 10 16 62.5 0 0 - 5 6 83.3 4 7 11 2 0 1 6 2 7
+p548
+aVMarco Belinelli TOR 12/20/2009 TOR vs. NOH W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -3
+p549
+aVMarco Belinelli TOR 12/18/2009 TOR vs. NJN W 25 4 2 9 22.2 0 1 0.0 0 0 - 1 0 1 3 2 0 1 0 2
+p550
+aVRasho Nesterovic TOR 12/18/2009 TOR vs. NJN W 12 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -11
+p551
+aVSonny Weems TOR 12/18/2009 TOR vs. NJN W 23 10 5 8 62.5 0 0 - 0 0 - 1 3 4 4 0 0 1 6 16
+p552
+aVChris Bosh TOR 12/18/2009 TOR vs. NJN W 26 16 7 11 63.6 0 0 - 2 2 100.0 3 5 8 2 1 1 0 0 16
+p553
+aVHedo Turkoglu TOR 12/18/2009 TOR vs. NJN W 24 14 5 9 55.6 2 3 66.7 2 2 100.0 2 2 4 7 0 0 0 3 12
+p554
+aVAndrea Bargnani TOR 12/18/2009 TOR vs. NJN W 30 16 6 13 46.2 2 3 66.7 2 4 50.0 0 1 1 3 1 2 0 2 26
+p555
+aVJarrett Jack TOR 12/18/2009 TOR vs. NJN W 25 6 3 5 60.0 0 0 - 0 0 - 1 0 1 9 1 0 2 3 27
+p556
+aVMarcus Banks TOR 12/18/2009 TOR vs. NJN W 23 14 6 7 85.7 2 2 100.0 0 0 - 0 6 6 1 3 0 2 3 -4
+p557
+aVPops Mensah-Bonsu TOR 12/18/2009 TOR vs. NJN W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -17
+p558
+aVDeMar DeRozan TOR 12/18/2009 TOR vs. NJN W 24 16 6 8 75.0 0 0 - 4 5 80.0 1 3 4 1 1 1 3 0 16
+p559
+aVAmir Johnson TOR 12/18/2009 TOR vs. NJN W 19 18 7 10 70.0 0 0 - 4 8 50.0 4 3 7 0 2 2 2 4 32
+p560
+aVChris Bosh TOR 12/16/2009 TOR @ ORL L 31 20 7 11 63.6 0 0 - 6 9 66.7 1 5 6 3 0 0 0 1 -8
+p561
+aVAmir Johnson TOR 12/16/2009 TOR @ ORL L 14 5 2 3 66.7 0 0 - 1 1 100.0 3 0 3 0 0 0 0 4 -6
+p562
+aVJarrett Jack TOR 12/16/2009 TOR @ ORL L 33 13 6 15 40.0 1 1 100.0 0 1 0.0 1 2 3 5 1 0 1 1 -16
+p563
+aVRasho Nesterovic TOR 12/16/2009 TOR @ ORL L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -6
+p564
+aVPops Mensah-Bonsu TOR 12/16/2009 TOR @ ORL L 11 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 1 5 0
+p565
+aVHedo Turkoglu TOR 12/16/2009 TOR @ ORL L 33 14 2 7 28.6 1 2 50.0 9 9 100.0 1 3 4 4 1 0 1 1 -18
+p566
+aVDeMar DeRozan TOR 12/16/2009 TOR @ ORL L 17 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 0 0 0 3 -11
+p567
+aVAntoine Wright TOR 12/16/2009 TOR @ ORL L 10 7 3 5 60.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p568
+aVSonny Weems TOR 12/16/2009 TOR @ ORL L 14 8 4 8 50.0 0 0 - 0 0 - 0 1 1 1 2 0 1 2 -6
+p569
+aVMarcus Banks TOR 12/16/2009 TOR @ ORL L 15 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 1 -3
+p570
+aVMarco Belinelli TOR 12/16/2009 TOR @ ORL L 23 6 2 9 22.2 2 3 66.7 0 0 - 0 1 1 1 1 0 1 0 -6
+p571
+aVAndrea Bargnani TOR 12/16/2009 TOR @ ORL L 30 12 6 12 50.0 0 2 0.0 0 0 - 1 1 2 1 0 0 2 3 -13
+p572
+aVDeMar DeRozan TOR 12/15/2009 TOR @ MIA L 28 4 2 9 22.2 0 0 - 0 0 - 1 6 7 0 2 0 0 3 -14
+p573
+aVSonny Weems TOR 12/15/2009 TOR @ MIA L 25 6 3 5 60.0 0 0 - 0 0 - 0 3 3 3 1 1 4 0 -3
+p574
+aVHedo Turkoglu TOR 12/15/2009 TOR @ MIA L 31 12 3 11 27.3 1 4 25.0 5 7 71.4 0 2 2 4 0 0 1 3 -16
+p575
+aVPops Mensah-Bonsu TOR 12/15/2009 TOR @ MIA L 10 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 1 0 1 0 1 0
+p576
+aVChris Bosh TOR 12/15/2009 TOR @ MIA L 31 28 9 13 69.2 0 0 - 10 11 90.9 0 2 2 4 0 1 2 2 -17
+p577
+aVMarco Belinelli TOR 12/15/2009 TOR @ MIA L 14 6 0 7 0.0 0 4 0.0 6 6 100.0 0 1 1 1 1 0 0 0 -5
+p578
+aVAndrea Bargnani TOR 12/15/2009 TOR @ MIA L 31 14 6 13 46.2 0 2 0.0 2 2 100.0 1 6 7 2 1 3 0 0 -14
+p579
+aVAmir Johnson TOR 12/15/2009 TOR @ MIA L 16 4 2 2 100.0 0 0 - 0 2 0.0 1 2 3 0 0 1 1 1 -11
+p580
+aVMarcus Banks TOR 12/15/2009 TOR @ MIA L 15 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p581
+aVRasho Nesterovic TOR 12/15/2009 TOR @ MIA L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p582
+aVJarrett Jack TOR 12/15/2009 TOR @ MIA L 32 6 1 3 33.3 0 0 - 4 4 100.0 1 2 3 1 1 0 5 1 -17
+p583
+aVHedo Turkoglu TOR 12/13/2009 TOR vs. HOU W 37 23 9 18 50.0 2 3 66.7 3 3 100.0 3 3 6 5 0 0 2 5 8
+p584
+aVMarcus Banks TOR 12/13/2009 TOR vs. HOU W 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -9
+p585
+aVAndrea Bargnani TOR 12/13/2009 TOR vs. HOU W 31 14 6 11 54.5 1 3 33.3 1 2 50.0 0 7 7 0 0 1 1 3 11
+p586
+aVSonny Weems TOR 12/13/2009 TOR vs. HOU W 29 11 5 10 50.0 0 1 0.0 1 1 100.0 1 3 4 2 1 1 1 3 2
+p587
+aVAmir Johnson TOR 12/13/2009 TOR vs. HOU W 20 1 0 0 - 0 0 - 1 2 50.0 0 3 3 2 1 2 1 2 11
+p588
+aVMarco Belinelli TOR 12/13/2009 TOR vs. HOU W 8 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 1 -6
+p589
+aVPops Mensah-Bonsu TOR 12/13/2009 TOR vs. HOU W 9 2 1 3 33.3 0 0 - 0 0 - 3 0 3 0 0 2 2 3 0
+p590
+aVDeMar DeRozan TOR 12/13/2009 TOR vs. HOU W 21 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 2 1 0 2 22
+p591
+aVJarrett Jack TOR 12/13/2009 TOR vs. HOU W 38 17 6 10 60.0 2 3 66.7 3 5 60.0 1 7 8 8 1 0 3 2 22
+p592
+aVChris Bosh TOR 12/13/2009 TOR vs. HOU W 36 27 11 19 57.9 0 1 0.0 5 6 83.3 1 5 6 3 0 2 2 2 4
+p593
+aVSonny Weems TOR 12/11/2009 TOR vs. ATL L 18 10 5 9 55.6 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p594
+aVJarrett Jack TOR 12/11/2009 TOR vs. ATL L 32 13 5 7 71.4 1 2 50.0 2 3 66.7 0 2 2 2 0 0 4 2 -2
+p595
+aVAndrea Bargnani TOR 12/11/2009 TOR vs. ATL L 36 17 7 15 46.7 0 2 0.0 3 4 75.0 0 3 3 1 0 0 0 2 -14
+p596
+aVAntoine Wright TOR 12/11/2009 TOR vs. ATL L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -16
+p597
+aVPops Mensah-Bonsu TOR 12/11/2009 TOR vs. ATL L 2 1 0 1 0.0 0 0 - 1 2 50.0 2 0 2 0 0 2 0 0 -1
+p598
+aVDeMar DeRozan TOR 12/11/2009 TOR vs. ATL L 24 2 0 5 0.0 0 0 - 2 4 50.0 1 1 2 0 1 0 1 2 -3
+p599
+aVJose Calderon TOR 12/11/2009 TOR vs. ATL L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 0 1 -16
+p600
+aVHedo Turkoglu TOR 12/11/2009 TOR vs. ATL L 34 12 5 10 50.0 0 2 0.0 2 4 50.0 2 5 7 8 0 1 2 1 -5
+p601
+aVAmir Johnson TOR 12/11/2009 TOR vs. ATL L 22 7 2 4 50.0 0 0 - 3 4 75.0 3 1 4 0 1 1 1 3 -18
+p602
+aVMarco Belinelli TOR 12/11/2009 TOR vs. ATL L 18 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 1 2 0 4 0 -22
+p603
+aVChris Bosh TOR 12/11/2009 TOR vs. ATL L 36 14 6 10 60.0 0 0 - 2 2 100.0 1 9 10 3 0 0 5 3 -11
+p604
+aVMarco Belinelli TOR 12/09/2009 TOR @ MIL L 24 7 2 6 33.3 2 5 40.0 1 2 50.0 0 1 1 0 1 0 1 2 -14
+p605
+aVAntoine Wright TOR 12/09/2009 TOR @ MIL L 22 10 4 6 66.7 1 1 100.0 1 2 50.0 0 2 2 0 0 0 2 0 -8
+p606
+aVHedo Turkoglu TOR 12/09/2009 TOR @ MIL L 31 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 3 0 0 3 3 -9
+p607
+aVMarcus Banks TOR 12/09/2009 TOR @ MIL L 15 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 3 1 0 0 3 -3
+p608
+aVAmir Johnson TOR 12/09/2009 TOR @ MIL L 14 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 0 0 0 1 2 -8
+p609
+aVRasho Nesterovic TOR 12/09/2009 TOR @ MIL L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 1 0 3 -7
+p610
+aVPops Mensah-Bonsu TOR 12/09/2009 TOR @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -4
+p611
+aVPatrick O'Bryant TOR 12/09/2009 TOR @ MIL L 3 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -5
+p612
+aVChris Bosh TOR 12/09/2009 TOR @ MIL L 39 26 7 16 43.8 0 0 - 12 14 85.7 1 9 10 2 0 0 1 2 -12
+p613
+aVDeMar DeRozan TOR 12/09/2009 TOR @ MIL L 24 8 2 4 50.0 0 0 - 4 6 66.7 1 5 6 0 0 0 1 3 -11
+p614
+aVJarrett Jack TOR 12/09/2009 TOR @ MIL L 33 12 6 11 54.5 0 3 0.0 0 1 0.0 0 3 3 7 3 0 4 4 -19
+p615
+aVSonny Weems TOR 12/09/2009 TOR @ MIL L 19 12 5 6 83.3 0 1 0.0 2 2 100.0 0 0 0 2 0 1 0 2 -10
+p616
+aVMarco Belinelli TOR 12/08/2009 TOR vs. MIN W 17 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 1 -9
+p617
+aVAmir Johnson TOR 12/08/2009 TOR vs. MIN W 13 2 0 1 0.0 0 0 - 2 2 100.0 4 3 7 0 2 1 0 2 0
+p618
+aVDeMar DeRozan TOR 12/08/2009 TOR vs. MIN W 25 15 4 10 40.0 0 0 - 7 7 100.0 3 3 6 0 0 0 2 4 13
+p619
+aVRasho Nesterovic TOR 12/08/2009 TOR vs. MIN W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -8
+p620
+aVMarcus Banks TOR 12/08/2009 TOR vs. MIN W 11 3 1 4 25.0 0 3 0.0 1 2 50.0 0 0 0 0 0 0 0 3 -8
+p621
+aVAndrea Bargnani TOR 12/08/2009 TOR vs. MIN W 39 15 6 18 33.3 1 6 16.7 2 4 50.0 1 5 6 0 1 2 1 2 6
+p622
+aVChris Bosh TOR 12/08/2009 TOR vs. MIN W 38 21 8 17 47.1 0 0 - 5 7 71.4 4 11 15 1 1 3 2 1 14
+p623
+aVHedo Turkoglu TOR 12/08/2009 TOR vs. MIN W 37 16 2 11 18.2 0 5 0.0 12 14 85.7 0 8 8 4 1 0 1 2 6
+p624
+aVAntoine Wright TOR 12/08/2009 TOR vs. MIN W 17 3 1 6 16.7 1 2 50.0 0 0 - 1 1 2 1 0 0 1 4 2
+p625
+aVJarrett Jack TOR 12/08/2009 TOR vs. MIN W 37 17 3 8 37.5 0 3 0.0 11 12 91.7 1 6 7 8 2 0 2 4 14
+p626
+aVDeMar DeRozan TOR 12/05/2009 TOR @ CHI W 25 11 3 8 37.5 0 1 0.0 5 5 100.0 1 3 4 0 0 0 1 1 23
+p627
+aVChris Bosh TOR 12/05/2009 TOR @ CHI W 22 25 9 12 75.0 0 0 - 7 7 100.0 7 5 12 2 2 1 0 1 36
+p628
+aVAndrea Bargnani TOR 12/05/2009 TOR @ CHI W 29 9 4 10 40.0 1 5 20.0 0 0 - 2 6 8 0 0 0 1 4 16
+p629
+aVJarrett Jack TOR 12/05/2009 TOR @ CHI W 32 6 2 4 50.0 1 1 100.0 1 2 50.0 1 3 4 9 2 0 3 2 16
+p630
+aVAmir Johnson TOR 12/05/2009 TOR @ CHI W 13 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 3 1
+p631
+aVAntoine Wright TOR 12/05/2009 TOR @ CHI W 21 10 4 8 50.0 1 5 20.0 1 1 100.0 0 4 4 3 0 0 1 2 22
+p632
+aVSonny Weems TOR 12/05/2009 TOR @ CHI W 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 0
+p633
+aVPops Mensah-Bonsu TOR 12/05/2009 TOR @ CHI W 9 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 0 1 2 0 -2
+p634
+aVMarco Belinelli TOR 12/05/2009 TOR @ CHI W 23 15 6 8 75.0 1 2 50.0 2 2 100.0 1 4 5 3 1 0 2 4 11
+p635
+aVRasho Nesterovic TOR 12/05/2009 TOR @ CHI W 20 12 6 11 54.5 0 0 - 0 1 0.0 1 4 5 0 1 1 1 2 18
+p636
+aVJose Calderon TOR 12/05/2009 TOR @ CHI W 19 8 2 5 40.0 2 4 50.0 2 2 100.0 0 1 1 3 1 1 2 1 15
+p637
+aVHedo Turkoglu TOR 12/05/2009 TOR @ CHI W 20 9 3 8 37.5 1 2 50.0 2 2 100.0 2 2 4 5 0 0 0 2 12
+p638
+aVAmir Johnson TOR 12/04/2009 TOR @ WAS W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 1 0 2 5 -11
+p639
+aVHedo Turkoglu TOR 12/04/2009 TOR @ WAS W 43 20 6 12 50.0 3 9 33.3 5 6 83.3 1 8 9 3 2 0 2 2 12
+p640
+aVJarrett Jack TOR 12/04/2009 TOR @ WAS W 29 3 1 6 16.7 1 3 33.3 0 0 - 0 4 4 4 1 0 4 1 -5
+p641
+aVMarco Belinelli TOR 12/04/2009 TOR @ WAS W 11 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -15
+p642
+aVJose Calderon TOR 12/04/2009 TOR @ WAS W 36 15 6 8 75.0 3 3 100.0 0 0 - 0 2 2 9 0 0 1 5 14
+p643
+aVChris Bosh TOR 12/04/2009 TOR @ WAS W 41 31 13 25 52.0 0 2 0.0 5 8 62.5 9 7 16 4 0 2 2 2 11
+p644
+aVAndrea Bargnani TOR 12/04/2009 TOR @ WAS W 43 16 6 20 30.0 2 6 33.3 2 2 100.0 3 6 9 3 0 1 3 4 8
+p645
+aVRasho Nesterovic TOR 12/04/2009 TOR @ WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p646
+aVAntoine Wright TOR 12/04/2009 TOR @ WAS W 13 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 0 1 3 -11
+p647
+aVDeMar DeRozan TOR 12/04/2009 TOR @ WAS W 27 16 6 10 60.0 0 1 0.0 4 5 80.0 0 2 2 1 0 0 0 4 10
+p648
+aVAndrea Bargnani TOR 12/02/2009 TOR @ ATL L 22 13 5 9 55.6 1 2 50.0 2 4 50.0 0 0 0 1 0 0 0 3 -10
+p649
+aVJose Calderon TOR 12/02/2009 TOR @ ATL L 24 10 3 5 60.0 2 2 100.0 2 2 100.0 1 2 3 7 1 0 0 0 -23
+p650
+aVMarco Belinelli TOR 12/02/2009 TOR @ ATL L 23 19 8 14 57.1 3 5 60.0 0 0 - 1 1 2 3 0 0 1 0 -19
+p651
+aVHedo Turkoglu TOR 12/02/2009 TOR @ ATL L 21 13 4 6 66.7 3 4 75.0 2 2 100.0 0 0 0 1 0 0 1 2 -13
+p652
+aVPops Mensah-Bonsu TOR 12/02/2009 TOR @ ATL L 9 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 0 -4
+p653
+aVJarrett Jack TOR 12/02/2009 TOR @ ATL L 22 8 3 7 42.9 1 2 50.0 1 2 50.0 0 1 1 8 0 0 3 1 -9
+p654
+aVAmir Johnson TOR 12/02/2009 TOR @ ATL L 19 9 4 6 66.7 0 0 - 1 2 50.0 3 4 7 0 0 1 2 5 -11
+p655
+aVRasho Nesterovic TOR 12/02/2009 TOR @ ATL L 25 6 3 7 42.9 0 0 - 0 0 - 0 3 3 1 2 0 0 5 -15
+p656
+aVDeMar DeRozan TOR 12/02/2009 TOR @ ATL L 30 21 6 11 54.5 0 0 - 9 12 75.0 0 3 3 2 0 0 0 3 -15
+p657
+aVSonny Weems TOR 12/02/2009 TOR @ ATL L 29 7 3 11 27.3 0 1 0.0 1 4 25.0 1 2 3 2 2 1 0 2 -16
+p658
+aVChris Bosh TOR 12/02/2009 TOR @ ATL L 16 2 0 2 0.0 0 0 - 2 4 50.0 1 4 5 0 0 0 1 3 -20
+p659
+aVJose Calderon TOR 12/01/2009 TOR vs. WAS L 37 20 9 12 75.0 1 1 100.0 1 2 50.0 0 4 4 5 0 0 0 3 -15
+p660
+aVSonny Weems TOR 12/01/2009 TOR vs. WAS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p661
+aVDeMar DeRozan TOR 12/01/2009 TOR vs. WAS L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 1 2 1 -4
+p662
+aVAndrea Bargnani TOR 12/01/2009 TOR vs. WAS L 35 20 8 14 57.1 2 4 50.0 2 2 100.0 4 7 11 1 0 1 2 5 -10
+p663
+aVMarco Belinelli TOR 12/01/2009 TOR vs. WAS L 19 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 0 2 0 3 1 3
+p664
+aVHedo Turkoglu TOR 12/01/2009 TOR vs. WAS L 39 13 3 11 27.3 2 8 25.0 5 6 83.3 1 8 9 6 0 1 4 5 14
+p665
+aVChris Bosh TOR 12/01/2009 TOR vs. WAS L 40 22 7 22 31.8 0 0 - 8 9 88.9 3 11 14 2 0 0 3 5 0
+p666
+aVJarrett Jack TOR 12/01/2009 TOR vs. WAS L 27 18 6 11 54.5 2 4 50.0 4 4 100.0 0 1 1 3 0 0 1 2 1
+p667
+aVAntoine Wright TOR 12/01/2009 TOR vs. WAS L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -11
+p668
+aVAmir Johnson TOR 12/01/2009 TOR vs. WAS L 21 2 0 2 0.0 0 0 - 2 4 50.0 4 3 7 1 0 0 0 4 4
+p669
+aVHedo Turkoglu TOR 11/29/2009 TOR vs. PHX L 39 10 4 14 28.6 0 5 0.0 2 2 100.0 2 6 8 3 1 1 3 5 -12
+p670
+aVAmir Johnson TOR 11/29/2009 TOR vs. PHX L 19 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 3 2 2 0
+p671
+aVJose Calderon TOR 11/29/2009 TOR vs. PHX L 32 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 7 2 0 0 2 -23
+p672
+aVPops Mensah-Bonsu TOR 11/29/2009 TOR vs. PHX L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -3
+p673
+aVDeMar DeRozan TOR 11/29/2009 TOR vs. PHX L 23 14 4 9 44.4 0 1 0.0 6 6 100.0 1 0 1 1 1 0 1 5 -22
+p674
+aVAntoine Wright TOR 11/29/2009 TOR vs. PHX L 10 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 1 1 0 0 1 -13
+p675
+aVAndrea Bargnani TOR 11/29/2009 TOR vs. PHX L 38 24 8 19 42.1 1 5 20.0 7 7 100.0 3 4 7 2 1 1 0 3 -22
+p676
+aVChris Bosh TOR 11/29/2009 TOR vs. PHX L 38 30 13 26 50.0 0 0 - 4 8 50.0 7 10 17 0 0 0 3 1 -16
+p677
+aVMarco Belinelli TOR 11/29/2009 TOR vs. PHX L 17 0 0 5 0.0 0 3 0.0 0 0 - 0 3 3 0 0 0 1 1 13
+p678
+aVJarrett Jack TOR 11/29/2009 TOR vs. PHX L 22 10 5 8 62.5 0 3 0.0 0 1 0.0 0 0 0 1 1 0 1 0 3
+p679
+aVAntoine Wright TOR 11/27/2009 TOR @ BOS L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 -17
+p680
+aVPops Mensah-Bonsu TOR 11/27/2009 TOR @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 4
+p681
+aVSonny Weems TOR 11/27/2009 TOR @ BOS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p682
+aVMarco Belinelli TOR 11/27/2009 TOR @ BOS L 16 5 1 3 33.3 1 3 33.3 2 3 66.7 0 0 0 0 0 0 2 2 -4
+p683
+aVDeMar DeRozan TOR 11/27/2009 TOR @ BOS L 17 9 4 8 50.0 1 1 100.0 0 0 - 1 0 1 0 2 0 1 2 -9
+p684
+aVHedo Turkoglu TOR 11/27/2009 TOR @ BOS L 34 20 8 11 72.7 4 5 80.0 0 2 0.0 0 2 2 3 1 0 7 4 5
+p685
+aVAndrea Bargnani TOR 11/27/2009 TOR @ BOS L 23 7 2 6 33.3 1 2 50.0 2 2 100.0 1 3 4 0 0 3 2 1 -10
+p686
+aVJose Calderon TOR 11/27/2009 TOR @ BOS L 33 9 3 7 42.9 0 1 0.0 3 4 75.0 1 1 2 4 0 0 3 0 -10
+p687
+aVChris Bosh TOR 11/27/2009 TOR @ BOS L 39 20 9 13 69.2 0 0 - 2 2 100.0 2 11 13 1 2 0 4 1 -10
+p688
+aVRasho Nesterovic TOR 11/27/2009 TOR @ BOS L 15 10 5 7 71.4 0 0 - 0 0 - 2 2 4 0 0 1 0 0 -1
+p689
+aVJarrett Jack TOR 11/27/2009 TOR @ BOS L 33 18 5 8 62.5 0 1 0.0 8 8 100.0 0 1 1 5 2 0 2 3 -3
+p690
+aVAmir Johnson TOR 11/27/2009 TOR @ BOS L 13 3 1 3 33.3 0 0 - 1 2 50.0 2 1 3 0 0 2 2 4 -7
+p691
+aVHedo Turkoglu TOR 11/25/2009 TOR @ CHA L 23 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 2 0 1 0 2 -9
+p692
+aVAndrea Bargnani TOR 11/25/2009 TOR @ CHA L 28 15 6 12 50.0 2 3 66.7 1 2 50.0 0 4 4 1 0 0 0 2 -16
+p693
+aVAmir Johnson TOR 11/25/2009 TOR @ CHA L 23 13 6 9 66.7 0 0 - 1 3 33.3 5 3 8 1 2 3 1 5 -24
+p694
+aVPops Mensah-Bonsu TOR 11/25/2009 TOR @ CHA L 13 3 1 5 20.0 0 0 - 1 2 50.0 2 4 6 0 1 0 0 1 -15
+p695
+aVAntoine Wright TOR 11/25/2009 TOR @ CHA L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -8
+p696
+aVJose Calderon TOR 11/25/2009 TOR @ CHA L 32 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 8 1 1 6 0 -19
+p697
+aVChris Bosh TOR 11/25/2009 TOR @ CHA L 31 18 5 14 35.7 0 1 0.0 8 10 80.0 2 12 14 0 0 0 1 3 -15
+p698
+aVJarrett Jack TOR 11/25/2009 TOR @ CHA L 19 2 1 9 11.1 0 5 0.0 0 0 - 0 0 0 1 0 0 2 2 -6
+p699
+aVSonny Weems TOR 11/25/2009 TOR @ CHA L 11 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 1 2 0 -17
+p700
+aVMarco Belinelli TOR 11/25/2009 TOR @ CHA L 25 7 2 9 22.2 1 5 20.0 2 2 100.0 0 0 0 2 0 0 1 0 -21
+p701
+aVDeMar DeRozan TOR 11/25/2009 TOR @ CHA L 25 12 4 12 33.3 0 0 - 4 4 100.0 1 5 6 0 0 1 1 5 -25
+p702
+aVDeMar DeRozan TOR 11/24/2009 TOR vs. IND W 10 8 2 4 50.0 0 0 - 4 5 80.0 1 0 1 0 0 0 0 2 -5
+p703
+aVAntoine Wright TOR 11/24/2009 TOR vs. IND W 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 7
+p704
+aVAmir Johnson TOR 11/24/2009 TOR vs. IND W 12 6 2 2 100.0 0 0 - 2 2 100.0 1 3 4 0 1 0 2 3 0
+p705
+aVJose Calderon TOR 11/24/2009 TOR vs. IND W 32 21 8 11 72.7 2 3 66.7 3 3 100.0 0 3 3 7 1 0 2 4 4
+p706
+aVJarrett Jack TOR 11/24/2009 TOR vs. IND W 30 18 7 7 100.0 3 3 100.0 1 1 100.0 1 2 3 6 1 0 1 1 14
+p707
+aVHedo Turkoglu TOR 11/24/2009 TOR vs. IND W 33 14 5 7 71.4 2 4 50.0 2 4 50.0 0 4 4 7 2 3 4 3 3
+p708
+aVChris Bosh TOR 11/24/2009 TOR vs. IND W 33 16 5 19 26.3 0 1 0.0 6 10 60.0 1 11 12 4 1 4 1 1 6
+p709
+aVMarco Belinelli TOR 11/24/2009 TOR vs. IND W 27 11 1 4 25.0 1 2 50.0 8 10 80.0 0 2 2 3 1 0 1 2 9
+p710
+aVRasho Nesterovic TOR 11/24/2009 TOR vs. IND W 16 12 6 9 66.7 0 0 - 0 0 - 2 5 7 0 0 0 0 2 13
+p711
+aVAndrea Bargnani TOR 11/24/2009 TOR vs. IND W 32 14 6 10 60.0 0 2 0.0 2 2 100.0 2 5 7 1 0 1 1 3 4
+p712
+aVChris Bosh TOR 11/22/2009 TOR vs. ORL L 37 22 6 14 42.9 0 0 - 10 12 83.3 1 4 5 0 0 1 0 3 -3
+p713
+aVHedo Turkoglu TOR 11/22/2009 TOR vs. ORL L 41 12 3 11 27.3 2 5 40.0 4 4 100.0 0 6 6 2 1 0 2 5 -8
+p714
+aVDeMar DeRozan TOR 11/22/2009 TOR vs. ORL L 17 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 4 -4
+p715
+aVJarrett Jack TOR 11/22/2009 TOR vs. ORL L 32 8 3 9 33.3 2 4 50.0 0 0 - 1 6 7 11 1 0 0 0 -14
+p716
+aVAmir Johnson TOR 11/22/2009 TOR vs. ORL L 29 14 6 7 85.7 0 0 - 2 5 40.0 3 5 8 1 2 0 1 4 -3
+p717
+aVRasho Nesterovic TOR 11/22/2009 TOR vs. ORL L 3 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 6
+p718
+aVSonny Weems TOR 11/22/2009 TOR vs. ORL L 20 8 4 9 44.4 0 1 0.0 0 0 - 1 3 4 0 0 0 2 3 5
+p719
+aVJose Calderon TOR 11/22/2009 TOR vs. ORL L 34 16 6 12 50.0 1 3 33.3 3 3 100.0 0 2 2 4 0 0 2 2 -5
+p720
+aVAndrea Bargnani TOR 11/22/2009 TOR vs. ORL L 26 11 4 11 36.4 1 3 33.3 2 2 100.0 1 8 9 1 0 0 2 6 -14
+p721
+aVJarrett Jack TOR 11/20/2009 TOR vs. MIA W 31 17 5 9 55.6 3 4 75.0 4 4 100.0 0 3 3 3 1 0 0 2 14
+p722
+aVMarco Belinelli TOR 11/20/2009 TOR vs. MIA W 15 4 2 5 40.0 0 1 0.0 0 1 0.0 0 0 0 4 0 0 0 3 14
+p723
+aVDeMar DeRozan TOR 11/20/2009 TOR vs. MIA W 22 7 2 4 50.0 0 1 0.0 3 3 100.0 1 6 7 0 1 1 4 3 -7
+p724
+aVSonny Weems TOR 11/20/2009 TOR vs. MIA W 7 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p725
+aVPops Mensah-Bonsu TOR 11/20/2009 TOR vs. MIA W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 3
+p726
+aVHedo Turkoglu TOR 11/20/2009 TOR vs. MIA W 32 19 4 9 44.4 3 4 75.0 8 8 100.0 1 4 5 8 0 0 4 5 6
+p727
+aVChris Bosh TOR 11/20/2009 TOR vs. MIA W 35 29 10 14 71.4 0 0 - 9 13 69.2 3 9 12 1 0 4 2 3 6
+p728
+aVAndrea Bargnani TOR 11/20/2009 TOR vs. MIA W 39 24 9 14 64.3 2 4 50.0 4 5 80.0 3 7 10 2 0 2 4 2 11
+p729
+aVJose Calderon TOR 11/20/2009 TOR vs. MIA W 37 5 2 6 33.3 1 1 100.0 0 1 0.0 0 1 1 10 1 0 3 4 3
+p730
+aVAmir Johnson TOR 11/20/2009 TOR vs. MIA W 16 9 4 5 80.0 0 0 - 1 1 100.0 1 3 4 0 0 0 2 4 -6
+p731
+aVMarco Belinelli TOR 11/18/2009 TOR @ UTA L 31 19 7 14 50.0 2 4 50.0 3 3 100.0 2 2 4 1 0 0 0 2 1
+p732
+aVSonny Weems TOR 11/18/2009 TOR @ UTA L 5 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -1
+p733
+aVAndrea Bargnani TOR 11/18/2009 TOR @ UTA L 36 10 3 10 30.0 1 5 20.0 3 4 75.0 2 9 11 1 1 1 4 1 -12
+p734
+aVDeMar DeRozan TOR 11/18/2009 TOR @ UTA L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -10
+p735
+aVJarrett Jack TOR 11/18/2009 TOR @ UTA L 21 2 1 6 16.7 0 1 0.0 0 0 - 0 2 2 5 0 0 0 4 -4
+p736
+aVChris Bosh TOR 11/18/2009 TOR @ UTA L 37 32 13 25 52.0 0 1 0.0 6 9 66.7 7 10 17 0 0 0 2 3 -9
+p737
+aVJose Calderon TOR 11/18/2009 TOR @ UTA L 33 13 4 14 28.6 2 8 25.0 3 3 100.0 2 1 3 2 1 0 2 3 -15
+p738
+aVHedo Turkoglu TOR 11/18/2009 TOR @ UTA L 39 11 4 12 33.3 1 4 25.0 2 3 66.7 1 5 6 4 0 0 3 3 -10
+p739
+aVAmir Johnson TOR 11/18/2009 TOR @ UTA L 23 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 3 0 2 -5
+p740
+aVPops Mensah-Bonsu TOR 11/17/2009 TOR @ DEN L 7 5 1 4 25.0 0 0 - 3 4 75.0 3 1 4 1 1 0 1 0 2
+p741
+aVPatrick O'Bryant TOR 11/17/2009 TOR @ DEN L 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -3
+p742
+aVAmir Johnson TOR 11/17/2009 TOR @ DEN L 11 1 0 0 - 0 0 - 1 2 50.0 0 5 5 1 1 0 0 5 -3
+p743
+aVAndrea Bargnani TOR 11/17/2009 TOR @ DEN L 29 12 5 14 35.7 0 2 0.0 2 3 66.7 1 5 6 3 0 3 0 2 -4
+p744
+aVJarrett Jack TOR 11/17/2009 TOR @ DEN L 24 9 2 4 50.0 1 1 100.0 4 4 100.0 0 1 1 6 0 0 4 2 -9
+p745
+aVAntoine Wright TOR 11/17/2009 TOR @ DEN L 17 5 2 8 25.0 1 2 50.0 0 0 - 2 0 2 4 1 0 0 2 -7
+p746
+aVJose Calderon TOR 11/17/2009 TOR @ DEN L 28 16 6 8 75.0 1 1 100.0 3 4 75.0 0 1 1 7 1 1 3 3 -20
+p747
+aVDeMar DeRozan TOR 11/17/2009 TOR @ DEN L 23 17 6 9 66.7 1 2 50.0 4 6 66.7 1 2 3 0 1 0 2 1 1
+p748
+aVChris Bosh TOR 11/17/2009 TOR @ DEN L 33 13 6 13 46.2 0 0 - 1 2 50.0 8 6 14 1 0 1 1 3 -11
+p749
+aVSonny Weems TOR 11/17/2009 TOR @ DEN L 27 12 6 14 42.9 0 1 0.0 0 0 - 2 0 2 2 1 1 1 3 -4
+p750
+aVRasho Nesterovic TOR 11/17/2009 TOR @ DEN L 9 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 1 -17
+p751
+aVMarco Belinelli TOR 11/17/2009 TOR @ DEN L 24 16 5 11 45.5 3 7 42.9 3 3 100.0 0 4 4 2 2 0 2 4 -15
+p752
+aVJarrett Jack TOR 11/15/2009 TOR @ PHX L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 3 1 -3
+p753
+aVChris Bosh TOR 11/15/2009 TOR @ PHX L 36 25 10 19 52.6 0 1 0.0 5 7 71.4 5 5 10 2 0 2 3 3 -12
+p754
+aVHedo Turkoglu TOR 11/15/2009 TOR @ PHX L 37 20 8 20 40.0 4 9 44.4 0 0 - 0 6 6 3 1 0 2 3 3
+p755
+aVJose Calderon TOR 11/15/2009 TOR @ PHX L 32 8 3 7 42.9 1 2 50.0 1 1 100.0 1 2 3 7 2 0 0 1 -3
+p756
+aVDeMar DeRozan TOR 11/15/2009 TOR @ PHX L 19 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 1 1 0 0 1 -1
+p757
+aVMarco Belinelli TOR 11/15/2009 TOR @ PHX L 29 11 4 9 44.4 3 6 50.0 0 0 - 0 1 1 1 1 1 2 2 0
+p758
+aVAmir Johnson TOR 11/15/2009 TOR @ PHX L 26 7 3 5 60.0 0 0 - 1 2 50.0 4 5 9 1 1 0 0 3 -5
+p759
+aVAndrea Bargnani TOR 11/15/2009 TOR @ PHX L 34 17 6 15 40.0 1 3 33.3 4 4 100.0 1 3 4 0 0 1 1 5 15
+p760
+aVSonny Weems TOR 11/15/2009 TOR @ PHX L 8 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 1
+p761
+aVJose Calderon TOR 11/13/2009 TOR @ LAC W 35 18 8 14 57.1 1 5 20.0 1 1 100.0 0 3 3 9 0 1 0 3 18
+p762
+aVAmir Johnson TOR 11/13/2009 TOR @ LAC W 19 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 0 2 0 0 3 5
+p763
+aVRasho Nesterovic TOR 11/13/2009 TOR @ LAC W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -13
+p764
+aVAntoine Wright TOR 11/13/2009 TOR @ LAC W 25 5 1 5 20.0 1 2 50.0 2 2 100.0 0 3 3 2 0 0 0 3 -2
+p765
+aVHedo Turkoglu TOR 11/13/2009 TOR @ LAC W 29 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 5 1 0 0 2 9
+p766
+aVMarco Belinelli TOR 11/13/2009 TOR @ LAC W 28 15 6 10 60.0 3 5 60.0 0 0 - 0 1 1 3 0 0 0 1 25
+p767
+aVDeMar DeRozan TOR 11/13/2009 TOR @ LAC W 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 5
+p768
+aVJarrett Jack TOR 11/13/2009 TOR @ LAC W 16 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 1 1 1 2 1 -10
+p769
+aVAndrea Bargnani TOR 11/13/2009 TOR @ LAC W 33 19 8 13 61.5 3 6 50.0 0 0 - 0 2 2 1 1 2 3 3 18
+p770
+aVChris Bosh TOR 11/13/2009 TOR @ LAC W 39 21 7 17 41.2 0 0 - 7 8 87.5 4 10 14 6 0 0 2 3 20
+p771
+aVAndrea Bargnani TOR 11/11/2009 TOR vs. CHI W 37 16 5 15 33.3 1 4 25.0 5 5 100.0 1 5 6 0 2 1 1 5 6
+p772
+aVChris Bosh TOR 11/11/2009 TOR vs. CHI W 40 28 9 21 42.9 0 0 - 10 10 100.0 4 7 11 2 2 1 1 3 8
+p773
+aVAmir Johnson TOR 11/11/2009 TOR vs. CHI W 17 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 0 1 1 2 6
+p774
+aVHedo Turkoglu TOR 11/11/2009 TOR vs. CHI W 38 11 4 12 33.3 2 6 33.3 1 2 50.0 0 8 8 4 2 0 2 0 20
+p775
+aVRasho Nesterovic TOR 11/11/2009 TOR vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 0
+p776
+aVAntoine Wright TOR 11/11/2009 TOR vs. CHI W 16 4 2 5 40.0 0 2 0.0 0 0 - 0 5 5 0 0 1 3 4 3
+p777
+aVMarco Belinelli TOR 11/11/2009 TOR vs. CHI W 16 6 1 4 25.0 0 2 0.0 4 4 100.0 1 1 2 2 0 0 1 2 -3
+p778
+aVDeMar DeRozan TOR 11/11/2009 TOR vs. CHI W 19 9 4 10 40.0 1 1 100.0 0 0 - 3 6 9 1 0 2 3 0 9
+p779
+aVJose Calderon TOR 11/11/2009 TOR vs. CHI W 33 18 8 10 80.0 1 2 50.0 1 1 100.0 0 0 0 6 0 0 1 1 14
+p780
+aVJarrett Jack TOR 11/11/2009 TOR vs. CHI W 21 5 2 8 25.0 0 3 0.0 1 1 100.0 0 0 0 1 0 0 2 0 -13
+p781
+aVMarco Belinelli TOR 11/09/2009 TOR @ SAS L 17 12 4 5 80.0 4 4 100.0 0 0 - 0 1 1 3 0 0 0 1 -4
+p782
+aVDeMar DeRozan TOR 11/09/2009 TOR @ SAS L 13 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 1 1 2 4
+p783
+aVAmir Johnson TOR 11/09/2009 TOR @ SAS L 23 10 4 4 100.0 0 0 - 2 4 50.0 1 4 5 0 1 1 0 5 3
+p784
+aVSonny Weems TOR 11/09/2009 TOR @ SAS L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p785
+aVChris Bosh TOR 11/09/2009 TOR @ SAS L 32 32 8 16 50.0 1 1 100.0 15 17 88.2 3 7 10 1 0 1 2 4 -5
+p786
+aVRasho Nesterovic TOR 11/09/2009 TOR @ SAS L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p787
+aVJose Calderon TOR 11/09/2009 TOR @ SAS L 33 13 5 7 71.4 1 2 50.0 2 3 66.7 0 2 2 9 0 0 2 6 -8
+p788
+aVJarrett Jack TOR 11/09/2009 TOR @ SAS L 20 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 2 0 0 2 3 4
+p789
+aVAntoine Wright TOR 11/09/2009 TOR @ SAS L 24 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 4 -7
+p790
+aVHedo Turkoglu TOR 11/09/2009 TOR @ SAS L 32 20 8 12 66.7 2 2 100.0 2 3 66.7 0 3 3 2 0 0 3 6 -9
+p791
+aVAndrea Bargnani TOR 11/09/2009 TOR @ SAS L 36 17 7 13 53.8 1 4 25.0 2 2 100.0 0 4 4 3 0 1 0 2 -5
+p792
+aVHedo Turkoglu TOR 11/07/2009 TOR @ DAL L 31 8 3 8 37.5 0 3 0.0 2 3 66.7 0 4 4 3 0 1 0 4 -20
+p793
+aVAntoine Wright TOR 11/07/2009 TOR @ DAL L 18 5 1 9 11.1 1 5 20.0 2 2 100.0 1 3 4 0 0 0 1 1 -6
+p794
+aVDeMar DeRozan TOR 11/07/2009 TOR @ DAL L 17 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 2 1 1 1 5 -10
+p795
+aVJarrett Jack TOR 11/07/2009 TOR @ DAL L 26 9 3 8 37.5 3 4 75.0 0 0 - 0 2 2 0 0 0 3 1 -15
+p796
+aVChris Bosh TOR 11/07/2009 TOR @ DAL L 32 26 8 16 50.0 1 1 100.0 9 11 81.8 6 6 12 1 1 1 3 0 -24
+p797
+aVMarco Belinelli TOR 11/07/2009 TOR @ DAL L 15 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 1 0 -9
+p798
+aVJose Calderon TOR 11/07/2009 TOR @ DAL L 35 13 6 13 46.2 0 2 0.0 1 2 50.0 0 4 4 7 2 0 2 1 -13
+p799
+aVMarcus Banks TOR 11/07/2009 TOR @ DAL L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -7
+p800
+aVPatrick O'Bryant TOR 11/07/2009 TOR @ DAL L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p801
+aVAndrea Bargnani TOR 11/07/2009 TOR @ DAL L 33 22 8 16 50.0 3 6 50.0 3 3 100.0 1 4 5 0 0 1 0 1 -22
+p802
+aVAmir Johnson TOR 11/07/2009 TOR @ DAL L 21 4 1 3 33.3 0 0 - 2 2 100.0 4 3 7 0 0 0 1 4 -7
+p803
+aVAntoine Wright TOR 11/06/2009 TOR @ NOH W 23 7 2 6 33.3 1 5 20.0 2 4 50.0 1 1 2 0 0 0 0 2 1
+p804
+aVPatrick O'Bryant TOR 11/06/2009 TOR @ NOH W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -2
+p805
+aVAndrea Bargnani TOR 11/06/2009 TOR @ NOH W 34 14 5 13 38.5 3 6 50.0 1 2 50.0 1 8 9 0 0 1 3 4 19
+p806
+aVJarrett Jack TOR 11/06/2009 TOR @ NOH W 25 9 3 9 33.3 2 4 50.0 1 2 50.0 0 0 0 3 1 0 0 1 3
+p807
+aVHedo Turkoglu TOR 11/06/2009 TOR @ NOH W 29 16 6 14 42.9 4 8 50.0 0 0 - 0 4 4 4 1 1 2 2 26
+p808
+aVJose Calderon TOR 11/06/2009 TOR @ NOH W 33 16 6 11 54.5 2 4 50.0 2 2 100.0 0 4 4 8 1 0 0 2 19
+p809
+aVDeMar DeRozan TOR 11/06/2009 TOR @ NOH W 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 1 1 1 7
+p810
+aVChris Bosh TOR 11/06/2009 TOR @ NOH W 30 27 9 9 100.0 1 1 100.0 8 11 72.7 1 6 7 2 0 1 0 3 26
+p811
+aVMarco Belinelli TOR 11/06/2009 TOR @ NOH W 16 9 4 6 66.7 1 1 100.0 0 0 - 0 3 3 3 2 0 2 1 -5
+p812
+aVAmir Johnson TOR 11/06/2009 TOR @ NOH W 21 5 2 4 50.0 0 0 - 1 2 50.0 4 2 6 1 1 0 1 4 -1
+p813
+aVRasho Nesterovic TOR 11/06/2009 TOR @ NOH W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -6
+p814
+aVSonny Weems TOR 11/06/2009 TOR @ NOH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p815
+aVHedo Turkoglu TOR 11/04/2009 TOR vs. DET W 37 16 5 11 45.5 1 3 33.3 5 6 83.3 1 6 7 6 0 0 0 2 3
+p816
+aVAntoine Wright TOR 11/04/2009 TOR vs. DET W 17 12 3 6 50.0 2 3 66.7 4 6 66.7 1 4 5 1 0 1 0 4 12
+p817
+aVJose Calderon TOR 11/04/2009 TOR vs. DET W 32 9 4 11 36.4 1 3 33.3 0 0 - 2 0 2 1 2 1 1 1 5
+p818
+aVAmir Johnson TOR 11/04/2009 TOR vs. DET W 17 6 1 1 100.0 0 0 - 4 4 100.0 3 2 5 0 0 0 0 4 3
+p819
+aVChris Bosh TOR 11/04/2009 TOR vs. DET W 35 25 5 10 50.0 0 0 - 15 20 75.0 2 6 8 1 2 1 1 1 4
+p820
+aVAndrea Bargnani TOR 11/04/2009 TOR vs. DET W 39 22 8 16 50.0 2 6 33.3 4 5 80.0 2 10 12 2 1 2 2 3 16
+p821
+aVMarco Belinelli TOR 11/04/2009 TOR vs. DET W 14 8 3 8 37.5 1 5 20.0 1 2 50.0 0 0 0 1 1 1 1 1 5
+p822
+aVJarrett Jack TOR 11/04/2009 TOR vs. DET W 31 9 3 8 37.5 1 4 25.0 2 2 100.0 0 3 3 6 0 0 1 2 17
+p823
+aVDeMar DeRozan TOR 11/04/2009 TOR vs. DET W 18 3 1 5 20.0 0 0 - 1 2 50.0 3 0 3 2 1 1 0 2 -10
+p824
+aVJarrett Jack TOR 11/01/2009 TOR vs. ORL L 25 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 0 0 4 3 -11
+p825
+aVAndrea Bargnani TOR 11/01/2009 TOR vs. ORL L 32 26 8 12 66.7 4 5 80.0 6 6 100.0 0 4 4 0 0 1 2 4 -3
+p826
+aVRasho Nesterovic TOR 11/01/2009 TOR vs. ORL L 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 2 0 3 -13
+p827
+aVAmir Johnson TOR 11/01/2009 TOR vs. ORL L 11 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 2 3 1
+p828
+aVChris Bosh TOR 11/01/2009 TOR vs. ORL L 40 35 10 20 50.0 2 2 100.0 13 19 68.4 4 12 16 1 0 1 3 4 -3
+p829
+aVDeMar DeRozan TOR 11/01/2009 TOR vs. ORL L 19 8 3 5 60.0 1 1 100.0 1 2 50.0 2 1 3 0 0 0 0 3 -6
+p830
+aVHedo Turkoglu TOR 11/01/2009 TOR vs. ORL L 41 19 8 13 61.5 1 3 33.3 2 2 100.0 0 3 3 4 1 2 1 3 0
+p831
+aVMarco Belinelli TOR 11/01/2009 TOR vs. ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -12
+p832
+aVJose Calderon TOR 11/01/2009 TOR vs. ORL L 30 10 3 7 42.9 0 2 0.0 4 6 66.7 0 2 2 6 0 0 1 1 0
+p833
+aVAntoine Wright TOR 11/01/2009 TOR vs. ORL L 25 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 4 1 0 0 4 2
+p834
+aVJarrett Jack TOR 10/30/2009 TOR @ MEM L 20 6 2 5 40.0 0 3 0.0 2 2 100.0 0 2 2 5 1 0 2 1 1
+p835
+aVAmir Johnson TOR 10/30/2009 TOR @ MEM L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p836
+aVJose Calderon TOR 10/30/2009 TOR @ MEM L 35 15 6 13 46.2 1 4 25.0 2 2 100.0 0 1 1 3 0 0 3 5 -15
+p837
+aVAndrea Bargnani TOR 10/30/2009 TOR @ MEM L 36 12 4 12 33.3 2 5 40.0 2 2 100.0 4 2 6 2 0 0 3 6 -14
+p838
+aVHedo Turkoglu TOR 10/30/2009 TOR @ MEM L 37 14 4 10 40.0 2 5 40.0 4 5 80.0 0 2 2 1 2 0 4 4 -20
+p839
+aVAntoine Wright TOR 10/30/2009 TOR @ MEM L 24 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 4 0
+p840
+aVDeMar DeRozan TOR 10/30/2009 TOR @ MEM L 20 6 3 7 42.9 0 0 - 0 0 - 2 3 5 1 0 1 0 1 3
+p841
+aVChris Bosh TOR 10/30/2009 TOR @ MEM L 38 37 13 25 52.0 1 1 100.0 10 14 71.4 4 8 12 4 1 2 1 4 -2
+p842
+aVRasho Nesterovic TOR 10/30/2009 TOR @ MEM L 14 8 4 8 50.0 0 0 - 0 0 - 5 1 6 1 1 2 0 1 8
+p843
+aVMarco Belinelli TOR 10/30/2009 TOR @ MEM L 14 7 2 4 50.0 1 2 50.0 2 3 66.7 0 0 0 1 2 0 1 1 6
+p844
+aVJose Calderon TOR 10/28/2009 TOR vs. CLE W 31 5 1 6 16.7 0 1 0.0 3 5 60.0 0 3 3 11 1 0 3 5 1
+p845
+aVAmir Johnson TOR 10/28/2009 TOR vs. CLE W 6 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 6
+p846
+aVChris Bosh TOR 10/28/2009 TOR vs. CLE W 40 21 6 17 35.3 0 0 - 9 12 75.0 4 12 16 2 0 0 3 5 9
+p847
+aVHedo Turkoglu TOR 10/28/2009 TOR vs. CLE W 34 12 3 7 42.9 1 4 25.0 5 6 83.3 1 6 7 3 0 3 1 3 6
+p848
+aVRasho Nesterovic TOR 10/28/2009 TOR vs. CLE W 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p849
+aVJarrett Jack TOR 10/28/2009 TOR vs. CLE W 31 6 2 9 22.2 0 3 0.0 2 4 50.0 0 4 4 3 1 0 1 3 -9
+p850
+aVMarcus Banks TOR 10/28/2009 TOR vs. CLE W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p851
+aVDeMar DeRozan TOR 10/28/2009 TOR vs. CLE W 24 8 3 6 50.0 0 1 0.0 2 2 100.0 0 5 5 1 1 1 1 2 11
+p852
+aVAndrea Bargnani TOR 10/28/2009 TOR vs. CLE W 30 28 11 15 73.3 2 3 66.7 4 4 100.0 0 5 5 1 1 1 3 5 11
+p853
+aVMarco Belinelli TOR 10/28/2009 TOR vs. CLE W 19 10 4 8 50.0 1 2 50.0 1 2 50.0 0 1 1 1 0 0 0 0 19
+p854
+aVAntoine Wright TOR 10/28/2009 TOR vs. CLE W 18 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 1 0 1 1 5 -8
+p855
+a.

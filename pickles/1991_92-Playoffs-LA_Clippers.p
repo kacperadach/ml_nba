@@ -1,0 +1,108 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLAC 05/04/1992 LAC @ UTH L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 -
+p2
+aVDanny Manning LAC 05/04/1992 LAC @ UTH L 40 24 10 17 58.8 0 0 - 4 6 66.7 1 4 5 1 2 0 2 6 -
+p3
+aVOlden Polynice LAC 05/04/1992 LAC @ UTH L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -
+p4
+aVRon Harper LAC 05/04/1992 LAC @ UTH L 43 16 7 14 50.0 0 2 0.0 2 2 100.0 1 2 3 7 1 1 4 3 -
+p5
+aVGary Grant LAC 05/04/1992 LAC @ UTH L 15 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 4 0 0 0 0 -
+p6
+aVDanny Young LAC 05/04/1992 LAC @ UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p7
+aVJames Edwards LAC 05/04/1992 LAC @ UTH L 14 7 2 6 33.3 0 0 - 3 6 50.0 1 2 3 0 0 0 0 2 -
+p8
+aVCharles Smith LAC 05/04/1992 LAC @ UTH L 35 12 2 10 20.0 0 0 - 8 8 100.0 2 7 9 4 2 5 1 3 -
+p9
+aVDoc Rivers LAC 05/04/1992 LAC @ UTH L 37 8 4 14 28.6 0 1 0.0 0 0 - 1 2 3 3 3 0 1 3 -
+p10
+aVKen Norman LAC 05/04/1992 LAC @ UTH L 44 14 6 13 46.2 0 1 0.0 2 4 50.0 2 8 10 1 1 1 1 5 -
+p11
+aVCharles Smith LAC 05/03/1992 LAC vs. UTH W 30 16 7 13 53.8 0 0 - 2 3 66.7 1 0 1 2 0 3 1 5 -
+p12
+aVDanny Manning LAC 05/03/1992 LAC vs. UTH W 42 33 12 20 60.0 0 0 - 9 13 69.2 6 4 10 3 1 2 3 5 -
+p13
+aVKen Norman LAC 05/03/1992 LAC vs. UTH W 35 14 6 12 50.0 0 1 0.0 2 2 100.0 1 7 8 6 1 1 1 4 -
+p14
+aVJames Edwards LAC 05/03/1992 LAC vs. UTH W 13 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 3 3 -
+p15
+aVGary Grant LAC 05/03/1992 LAC vs. UTH W 15 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 6 0 0 1 2 -
+p16
+aVOlden Polynice LAC 05/03/1992 LAC vs. UTH W 14 3 1 2 50.0 0 0 - 1 2 50.0 2 6 8 0 0 0 0 2 -
+p17
+aVDoc Rivers LAC 05/03/1992 LAC vs. UTH W 42 17 3 10 30.0 1 3 33.3 10 11 90.9 2 3 5 4 1 0 1 4 -
+p18
+aVLAC 05/03/1992 LAC vs. UTH W 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 1 -
+p19
+aVRon Harper LAC 05/03/1992 LAC vs. UTH W 42 26 11 23 47.8 0 2 0.0 4 5 80.0 2 4 6 4 0 1 1 3 -
+p20
+aVLeRon Ellis LAC 04/28/1992 LAC vs. UTH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p21
+aVOlden Polynice LAC 04/28/1992 LAC vs. UTH W 21 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 0 0 1 4 -
+p22
+aVDoc Rivers LAC 04/28/1992 LAC vs. UTH W 33 15 4 6 66.7 1 1 100.0 6 6 100.0 0 5 5 3 2 0 0 2 -
+p23
+aVBo Kimble LAC 04/28/1992 LAC vs. UTH W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p24
+aVLAC 04/28/1992 LAC vs. UTH W 14 8 4 4 100.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 -
+p25
+aVGary Grant LAC 04/28/1992 LAC vs. UTH W 21 6 3 6 50.0 0 0 - 0 0 - 0 0 0 5 2 1 6 1 -
+p26
+aVJames Edwards LAC 04/28/1992 LAC vs. UTH W 22 8 2 3 66.7 0 0 - 4 4 100.0 1 2 3 2 1 0 1 2 -
+p27
+aVRon Harper LAC 04/28/1992 LAC vs. UTH W 40 16 7 15 46.7 0 0 - 2 3 66.7 3 9 12 5 1 1 3 1 -
+p28
+aVKen Norman LAC 04/28/1992 LAC vs. UTH W 33 10 4 10 40.0 0 0 - 2 4 50.0 4 6 10 4 1 0 1 3 -
+p29
+aVDanny Manning LAC 04/28/1992 LAC vs. UTH W 34 17 7 12 58.3 0 0 - 3 6 50.0 1 1 2 5 0 2 3 3 -
+p30
+aVCharles Smith LAC 04/28/1992 LAC vs. UTH W 18 12 6 13 46.2 0 0 - 0 0 - 1 1 2 0 0 0 1 6 -
+p31
+aVCharles Smith LAC 04/26/1992 LAC @ UTH L 29 6 2 7 28.6 0 0 - 2 2 100.0 3 4 7 2 0 3 4 6 -
+p32
+aVOlden Polynice LAC 04/26/1992 LAC @ UTH L 16 3 1 2 50.0 0 0 - 1 4 25.0 0 2 2 1 0 0 0 3 -
+p33
+aVLAC 04/26/1992 LAC @ UTH L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p34
+aVDanny Manning LAC 04/26/1992 LAC @ UTH L 35 22 10 18 55.6 1 3 33.3 1 2 50.0 3 1 4 2 2 0 2 4 -
+p35
+aVJames Edwards LAC 04/26/1992 LAC @ UTH L 18 8 2 7 28.6 0 0 - 4 6 66.7 1 1 2 0 0 0 0 2 -
+p36
+aVKen Norman LAC 04/26/1992 LAC @ UTH L 42 12 6 10 60.0 0 0 - 0 3 0.0 8 6 14 1 1 1 2 4 -
+p37
+aVGary Grant LAC 04/26/1992 LAC @ UTH L 11 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -
+p38
+aVDanny Young LAC 04/26/1992 LAC @ UTH L 3 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p39
+aVDoc Rivers LAC 04/26/1992 LAC @ UTH L 42 13 6 12 50.0 0 1 0.0 1 5 20.0 1 2 3 6 0 0 0 3 -
+p40
+aVRon Harper LAC 04/26/1992 LAC @ UTH L 42 20 9 24 37.5 0 4 0.0 2 3 66.7 4 6 10 3 2 1 3 4 -
+p41
+aVBo Kimble LAC 04/26/1992 LAC @ UTH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p42
+aVCharles Smith LAC 04/24/1992 LAC @ UTH L 36 12 5 13 38.5 0 0 - 2 2 100.0 3 6 9 1 2 1 3 4 -
+p43
+aVBo Kimble LAC 04/24/1992 LAC @ UTH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p44
+aVGary Grant LAC 04/24/1992 LAC @ UTH L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 1 0 0 4 -
+p45
+aVOlden Polynice LAC 04/24/1992 LAC @ UTH L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 1 -
+p46
+aVKen Norman LAC 04/24/1992 LAC @ UTH L 30 13 5 8 62.5 0 0 - 3 4 75.0 4 3 7 3 0 0 1 2 -
+p47
+aVDanny Young LAC 04/24/1992 LAC @ UTH L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 -
+p48
+aVJames Edwards LAC 04/24/1992 LAC @ UTH L 20 9 4 8 50.0 0 0 - 1 3 33.3 1 2 3 0 0 0 0 2 -
+p49
+aVRon Harper LAC 04/24/1992 LAC @ UTH L 39 12 5 11 45.5 1 1 100.0 1 1 100.0 0 1 1 4 1 0 4 2 -
+p50
+aVDanny Manning LAC 04/24/1992 LAC @ UTH L 43 17 7 14 50.0 0 0 - 3 4 75.0 4 3 7 3 0 0 3 3 -
+p51
+aVLAC 04/24/1992 LAC @ UTH L 9 7 2 5 40.0 1 1 100.0 2 2 100.0 1 1 2 1 0 0 0 1 -
+p52
+aVDoc Rivers LAC 04/24/1992 LAC @ UTH L 33 23 8 14 57.1 2 2 100.0 5 5 100.0 0 3 3 5 0 0 1 4 -
+p53
+a.

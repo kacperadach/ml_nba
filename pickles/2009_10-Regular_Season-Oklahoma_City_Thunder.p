@@ -1,0 +1,1572 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVThabo Sefolosha OKC 04/14/2010 OKC vs. MEM W 27 10 4 9 44.4 2 4 50.0 0 0 - 0 1 1 0 1 0 1 0 4
+p2
+aVEtan Thomas OKC 04/14/2010 OKC vs. MEM W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 10
+p3
+aVDJ White OKC 04/14/2010 OKC vs. MEM W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p4
+aVKevin Durant OKC 04/14/2010 OKC vs. MEM W 38 31 12 18 66.7 2 3 66.7 5 5 100.0 1 6 7 4 2 3 4 1 10
+p5
+aVRussell Westbrook OKC 04/14/2010 OKC vs. MEM W 25 9 3 10 30.0 0 1 0.0 3 3 100.0 4 3 7 7 1 0 3 3 9
+p6
+aVJeff Green OKC 04/14/2010 OKC vs. MEM W 34 16 6 13 46.2 2 8 25.0 2 4 50.0 1 3 4 2 0 1 1 5 5
+p7
+aVByron Mullens OKC 04/14/2010 OKC vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p8
+aVJames Harden OKC 04/14/2010 OKC vs. MEM W 26 12 4 9 44.4 2 6 33.3 2 2 100.0 0 4 4 1 0 0 2 4 -1
+p9
+aVNick Collison OKC 04/14/2010 OKC vs. MEM W 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 7
+p10
+aVEric Maynor OKC 04/14/2010 OKC vs. MEM W 29 15 6 8 75.0 2 3 66.7 1 1 100.0 0 5 5 10 0 0 1 2 5
+p11
+aVSerge Ibaka OKC 04/14/2010 OKC vs. MEM W 32 15 4 7 57.1 0 0 - 7 10 70.0 3 6 9 0 0 5 0 5 4
+p12
+aVRussell Westbrook OKC 04/12/2010 OKC @ POR L 31 11 5 14 35.7 0 1 0.0 1 1 100.0 2 5 7 0 0 0 5 3 -11
+p13
+aVJames Harden OKC 04/12/2010 OKC @ POR L 23 12 5 8 62.5 1 2 50.0 1 2 50.0 1 3 4 0 1 0 1 2 5
+p14
+aVThabo Sefolosha OKC 04/12/2010 OKC @ POR L 39 4 1 1 100.0 0 0 - 2 4 50.0 1 7 8 2 1 0 0 1 -7
+p15
+aVEric Maynor OKC 04/12/2010 OKC @ POR L 17 7 1 2 50.0 0 0 - 5 7 71.4 1 1 2 5 1 0 1 2 3
+p16
+aVSerge Ibaka OKC 04/12/2010 OKC @ POR L 27 8 2 5 40.0 0 0 - 4 5 80.0 2 4 6 0 0 1 1 6 2
+p17
+aVKevin Durant OKC 04/12/2010 OKC @ POR L 40 30 8 20 40.0 4 8 50.0 10 10 100.0 1 4 5 4 0 0 3 4 -14
+p18
+aVJeff Green OKC 04/12/2010 OKC @ POR L 42 17 6 12 50.0 2 7 28.6 3 5 60.0 0 3 3 0 2 1 3 2 -8
+p19
+aVNick Collison OKC 04/12/2010 OKC @ POR L 20 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 1 5 -10
+p20
+aVJames Harden OKC 04/11/2010 OKC @ GSW L 31 18 7 11 63.6 3 6 50.0 1 2 50.0 2 1 3 1 0 1 0 3 -12
+p21
+aVThabo Sefolosha OKC 04/11/2010 OKC @ GSW L 34 5 2 6 33.3 1 1 100.0 0 0 - 2 5 7 2 0 0 2 6 0
+p22
+aVJeff Green OKC 04/11/2010 OKC @ GSW L 35 16 7 17 41.2 2 4 50.0 0 3 0.0 1 2 3 2 2 1 3 3 -6
+p23
+aVKevin Ollie OKC 04/11/2010 OKC @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p24
+aVNick Collison OKC 04/11/2010 OKC @ GSW L 18 6 3 9 33.3 0 0 - 0 0 - 7 5 12 1 0 0 0 1 10
+p25
+aVSerge Ibaka OKC 04/11/2010 OKC @ GSW L 26 8 4 9 44.4 0 0 - 0 0 - 4 8 12 0 0 2 0 3 -14
+p26
+aVKevin Durant OKC 04/11/2010 OKC @ GSW L 40 40 13 29 44.8 3 8 37.5 11 11 100.0 2 8 10 5 2 2 2 1 10
+p27
+aVRussell Westbrook OKC 04/11/2010 OKC @ GSW L 38 20 6 17 35.3 0 1 0.0 8 8 100.0 4 1 5 9 3 0 6 3 1
+p28
+aVEric Maynor OKC 04/11/2010 OKC @ GSW L 16 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 5 0 0 1 4 -5
+p29
+aVThabo Sefolosha OKC 04/09/2010 OKC vs. PHX W 35 15 6 10 60.0 2 2 100.0 1 1 100.0 2 1 3 1 1 1 3 4 4
+p30
+aVEric Maynor OKC 04/09/2010 OKC vs. PHX W 19 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -1
+p31
+aVEtan Thomas OKC 04/09/2010 OKC vs. PHX W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 -4
+p32
+aVSerge Ibaka OKC 04/09/2010 OKC vs. PHX W 24 15 6 11 54.5 0 0 - 3 3 100.0 3 6 9 0 1 3 2 2 10
+p33
+aVKevin Durant OKC 04/09/2010 OKC vs. PHX W 39 35 10 21 47.6 1 3 33.3 14 16 87.5 3 6 9 2 3 0 0 3 4
+p34
+aVJames Harden OKC 04/09/2010 OKC vs. PHX W 16 2 0 4 0.0 0 2 0.0 2 4 50.0 0 2 2 0 0 1 2 2 -2
+p35
+aVNick Collison OKC 04/09/2010 OKC vs. PHX W 17 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -1
+p36
+aVRussell Westbrook OKC 04/09/2010 OKC vs. PHX W 42 8 4 16 25.0 0 1 0.0 0 0 - 1 7 8 10 2 1 1 4 5
+p37
+aVJeff Green OKC 04/09/2010 OKC vs. PHX W 40 15 6 15 40.0 1 4 25.0 2 3 66.7 1 3 4 1 4 2 2 2 10
+p38
+aVJeff Green OKC 04/07/2010 OKC vs. DEN L 41 11 5 14 35.7 0 5 0.0 1 4 25.0 0 10 10 5 1 1 2 3 -7
+p39
+aVSerge Ibaka OKC 04/07/2010 OKC vs. DEN L 11 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 0 -1
+p40
+aVKevin Durant OKC 04/07/2010 OKC vs. DEN L 45 33 9 21 42.9 1 5 20.0 14 15 93.3 0 11 11 4 1 3 3 1 1
+p41
+aVRussell Westbrook OKC 04/07/2010 OKC vs. DEN L 37 21 10 19 52.6 0 0 - 1 2 50.0 3 1 4 4 1 2 7 2 -3
+p42
+aVThabo Sefolosha OKC 04/07/2010 OKC vs. DEN L 28 4 2 5 40.0 0 2 0.0 0 0 - 1 2 3 3 2 0 0 2 -15
+p43
+aVJames Harden OKC 04/07/2010 OKC vs. DEN L 21 2 1 7 14.3 0 2 0.0 0 0 - 1 0 1 0 0 1 1 3 10
+p44
+aVNick Collison OKC 04/07/2010 OKC vs. DEN L 29 12 4 7 57.1 0 0 - 4 6 66.7 4 5 9 0 0 2 1 4 -1
+p45
+aVNenad Krstic OKC 04/07/2010 OKC vs. DEN L 18 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 3 -3
+p46
+aVEric Maynor OKC 04/07/2010 OKC vs. DEN L 11 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -1
+p47
+aVSerge Ibaka OKC 04/06/2010 OKC @ UTA L 21 13 4 5 80.0 0 0 - 5 6 83.3 3 3 6 0 0 2 0 3 5
+p48
+aVKevin Durant OKC 04/06/2010 OKC @ UTA L 44 45 13 29 44.8 7 13 53.8 12 12 100.0 2 5 7 4 2 2 3 4 2
+p49
+aVThabo Sefolosha OKC 04/06/2010 OKC @ UTA L 30 0 0 5 0.0 0 4 0.0 0 0 - 0 3 3 4 2 1 1 3 -2
+p50
+aVEric Maynor OKC 04/06/2010 OKC @ UTA L 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 6 0 0 2 1 -1
+p51
+aVNick Collison OKC 04/06/2010 OKC @ UTA L 21 7 2 3 66.7 1 1 100.0 2 2 100.0 2 2 4 1 0 0 0 2 1
+p52
+aVJeff Green OKC 04/06/2010 OKC @ UTA L 45 20 9 18 50.0 2 5 40.0 0 2 0.0 0 7 7 3 2 2 2 2 -11
+p53
+aVNenad Krstic OKC 04/06/2010 OKC @ UTA L 24 8 4 5 80.0 0 0 - 0 0 - 3 3 6 0 0 2 1 4 -12
+p54
+aVRussell Westbrook OKC 04/06/2010 OKC @ UTA L 38 27 7 15 46.7 1 2 50.0 12 13 92.3 3 2 5 9 0 2 7 5 0
+p55
+aVJames Harden OKC 04/06/2010 OKC @ UTA L 29 15 4 7 57.1 2 5 40.0 5 6 83.3 0 4 4 0 1 0 2 3 13
+p56
+aVNenad Krstic OKC 04/04/2010 OKC vs. MIN W 26 14 7 14 50.0 0 0 - 0 0 - 4 2 6 0 0 1 1 2 -1
+p57
+aVKevin Durant OKC 04/04/2010 OKC vs. MIN W 40 40 13 22 59.1 2 4 50.0 12 12 100.0 4 5 9 2 1 2 2 4 8
+p58
+aVRussell Westbrook OKC 04/04/2010 OKC vs. MIN W 32 10 4 11 36.4 0 1 0.0 2 2 100.0 1 1 2 16 2 0 1 4 10
+p59
+aVEric Maynor OKC 04/04/2010 OKC vs. MIN W 16 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 3 0 0 1 2 -4
+p60
+aVJeff Green OKC 04/04/2010 OKC vs. MIN W 40 16 6 15 40.0 2 6 33.3 2 2 100.0 0 10 10 2 1 1 3 3 1
+p61
+aVThabo Sefolosha OKC 04/04/2010 OKC vs. MIN W 35 9 3 4 75.0 1 1 100.0 2 2 100.0 0 1 1 1 1 0 2 2 2
+p62
+aVSerge Ibaka OKC 04/04/2010 OKC vs. MIN W 23 14 7 12 58.3 0 0 - 0 0 - 4 5 9 0 0 2 1 4 13
+p63
+aVJames Harden OKC 04/04/2010 OKC vs. MIN W 15 7 3 6 50.0 0 0 - 1 2 50.0 0 4 4 0 1 0 0 2 -2
+p64
+aVNick Collison OKC 04/04/2010 OKC vs. MIN W 11 4 2 3 66.7 0 0 - 0 0 - 2 3 5 1 1 0 1 1 13
+p65
+aVEric Maynor OKC 04/03/2010 OKC @ DAL W 21 14 5 8 62.5 2 3 66.7 2 4 50.0 0 2 2 4 1 0 0 0 6
+p66
+aVNenad Krstic OKC 04/03/2010 OKC @ DAL W 20 9 4 6 66.7 0 0 - 1 1 100.0 3 3 6 1 0 0 0 2 -1
+p67
+aVJames Harden OKC 04/03/2010 OKC @ DAL W 19 11 3 5 60.0 1 3 33.3 4 4 100.0 0 2 2 3 1 0 3 3 16
+p68
+aVThabo Sefolosha OKC 04/03/2010 OKC @ DAL W 23 8 2 3 66.7 1 2 50.0 3 4 75.0 2 3 5 1 2 0 0 1 -5
+p69
+aVNick Collison OKC 04/03/2010 OKC @ DAL W 28 17 6 7 85.7 0 0 - 5 6 83.3 1 0 1 0 1 0 1 4 6
+p70
+aVJeff Green OKC 04/03/2010 OKC @ DAL W 40 22 9 15 60.0 1 3 33.3 3 3 100.0 0 5 5 2 0 0 1 2 7
+p71
+aVKevin Durant OKC 04/03/2010 OKC @ DAL W 39 23 7 18 38.9 0 3 0.0 9 11 81.8 2 3 5 5 5 1 5 3 -7
+p72
+aVRussell Westbrook OKC 04/03/2010 OKC @ DAL W 33 17 6 16 37.5 0 0 - 5 5 100.0 2 1 3 6 0 0 3 3 -7
+p73
+aVSerge Ibaka OKC 04/03/2010 OKC @ DAL W 17 0 0 3 0.0 0 0 - 0 0 - 0 5 5 0 1 0 0 5 10
+p74
+aVThabo Sefolosha OKC 03/31/2010 OKC @ BOS W 22 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 2 2 0 0 2 -5
+p75
+aVKevin Durant OKC 03/31/2010 OKC @ BOS W 44 37 10 20 50.0 2 5 40.0 15 15 100.0 2 6 8 2 1 0 2 0 9
+p76
+aVNenad Krstic OKC 03/31/2010 OKC @ BOS W 35 6 2 7 28.6 0 0 - 2 4 50.0 3 5 8 0 0 0 2 3 2
+p77
+aVRussell Westbrook OKC 03/31/2010 OKC @ BOS W 33 21 9 17 52.9 0 1 0.0 3 3 100.0 2 1 3 10 0 0 2 0 0
+p78
+aVJeff Green OKC 03/31/2010 OKC @ BOS W 39 17 7 14 50.0 3 4 75.0 0 0 - 1 3 4 1 0 2 1 1 2
+p79
+aVJames Harden OKC 03/31/2010 OKC @ BOS W 26 5 1 2 50.0 0 1 0.0 3 4 75.0 0 3 3 3 2 0 2 3 10
+p80
+aVEric Maynor OKC 03/31/2010 OKC @ BOS W 15 8 3 4 75.0 0 0 - 2 2 100.0 0 0 0 4 0 0 1 1 5
+p81
+aVSerge Ibaka OKC 03/31/2010 OKC @ BOS W 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 1 1 1 5 -1
+p82
+aVNick Collison OKC 03/31/2010 OKC @ BOS W 13 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 0 0 2 1 6 3
+p83
+aVNick Collison OKC 03/30/2010 OKC @ PHI W 23 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 0 1 0 1 4 14
+p84
+aVNenad Krstic OKC 03/30/2010 OKC @ PHI W 23 14 7 12 58.3 0 0 - 0 0 - 3 3 6 0 0 0 2 3 8
+p85
+aVRussell Westbrook OKC 03/30/2010 OKC @ PHI W 27 10 3 12 25.0 0 0 - 4 4 100.0 1 4 5 14 1 2 1 1 9
+p86
+aVJeff Green OKC 03/30/2010 OKC @ PHI W 30 16 6 17 35.3 1 3 33.3 3 5 60.0 2 1 3 3 2 0 0 4 4
+p87
+aVKevin Ollie OKC 03/30/2010 OKC @ PHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p88
+aVKevin Durant OKC 03/30/2010 OKC @ PHI W 38 26 8 17 47.1 2 4 50.0 8 11 72.7 2 8 10 2 3 2 4 2 23
+p89
+aVSerge Ibaka OKC 03/30/2010 OKC @ PHI W 21 10 5 6 83.3 0 0 - 0 0 - 2 5 7 0 0 0 0 1 13
+p90
+aVEric Maynor OKC 03/30/2010 OKC @ PHI W 21 9 3 4 75.0 1 1 100.0 2 4 50.0 0 3 3 5 3 0 1 1 9
+p91
+aVThabo Sefolosha OKC 03/30/2010 OKC @ PHI W 27 9 4 7 57.1 0 1 0.0 1 1 100.0 3 5 8 1 0 0 1 0 4
+p92
+aVJames Harden OKC 03/30/2010 OKC @ PHI W 21 12 5 7 71.4 2 2 100.0 0 0 - 0 4 4 1 3 0 0 0 14
+p93
+aVKyle Weaver OKC 03/30/2010 OKC @ PHI W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -5
+p94
+aVEric Maynor OKC 03/28/2010 OKC vs. POR L 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 3 0
+p95
+aVThabo Sefolosha OKC 03/28/2010 OKC vs. POR L 28 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 2 0 1 0 0 -9
+p96
+aVJeff Green OKC 03/28/2010 OKC vs. POR L 40 14 6 14 42.9 1 4 25.0 1 2 50.0 2 3 5 2 2 0 4 6 3
+p97
+aVKevin Durant OKC 03/28/2010 OKC vs. POR L 43 29 7 18 38.9 2 5 40.0 13 15 86.7 3 10 13 1 1 3 5 1 -9
+p98
+aVNenad Krstic OKC 03/28/2010 OKC vs. POR L 19 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -5
+p99
+aVRussell Westbrook OKC 03/28/2010 OKC vs. POR L 31 12 5 14 35.7 0 1 0.0 2 2 100.0 3 0 3 6 2 0 3 4 -5
+p100
+aVNick Collison OKC 03/28/2010 OKC vs. POR L 19 8 3 4 75.0 0 0 - 2 2 100.0 1 4 5 0 0 2 1 2 2
+p101
+aVJames Harden OKC 03/28/2010 OKC vs. POR L 16 3 1 5 20.0 0 4 0.0 1 2 50.0 1 1 2 0 0 0 1 3 -2
+p102
+aVSerge Ibaka OKC 03/28/2010 OKC vs. POR L 27 10 5 6 83.3 0 0 - 0 0 - 1 4 5 0 0 4 1 3 0
+p103
+aVThabo Sefolosha OKC 03/26/2010 OKC vs. LAL W 23 6 3 5 60.0 0 1 0.0 0 0 - 1 4 5 1 0 1 0 2 17
+p104
+aVJames Harden OKC 03/26/2010 OKC vs. LAL W 23 6 1 6 16.7 1 4 25.0 3 4 75.0 0 4 4 1 3 0 2 1 -2
+p105
+aVJeff Green OKC 03/26/2010 OKC vs. LAL W 36 10 5 15 33.3 0 4 0.0 0 0 - 1 5 6 2 3 1 1 2 11
+p106
+aVSerge Ibaka OKC 03/26/2010 OKC vs. LAL W 26 2 1 3 33.3 0 1 0.0 0 0 - 1 5 6 0 1 1 0 2 -4
+p107
+aVNick Collison OKC 03/26/2010 OKC vs. LAL W 17 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 5
+p108
+aVNenad Krstic OKC 03/26/2010 OKC vs. LAL W 22 10 4 5 80.0 0 0 - 2 2 100.0 2 8 10 1 0 0 1 2 25
+p109
+aVRussell Westbrook OKC 03/26/2010 OKC vs. LAL W 28 23 10 13 76.9 0 0 - 3 5 60.0 1 0 1 6 4 0 2 0 26
+p110
+aVKevin Durant OKC 03/26/2010 OKC vs. LAL W 35 26 9 19 47.4 1 7 14.3 7 7 100.0 1 7 8 3 0 0 3 2 31
+p111
+aVEric Maynor OKC 03/26/2010 OKC vs. LAL W 23 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 -9
+p112
+aVKyle Weaver OKC 03/26/2010 OKC vs. LAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p113
+aVEtan Thomas OKC 03/26/2010 OKC vs. LAL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -10
+p114
+aVEric Maynor OKC 03/24/2010 OKC vs. HOU W 22 10 5 8 62.5 0 0 - 0 0 - 0 1 1 9 0 1 1 1 16
+p115
+aVNick Collison OKC 03/24/2010 OKC vs. HOU W 22 6 2 4 50.0 0 0 - 2 2 100.0 1 8 9 1 0 0 0 2 23
+p116
+aVKyle Weaver OKC 03/24/2010 OKC vs. HOU W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p117
+aVJeff Green OKC 03/24/2010 OKC vs. HOU W 36 19 8 11 72.7 3 4 75.0 0 0 - 0 5 5 5 1 2 0 3 21
+p118
+aVKevin Durant OKC 03/24/2010 OKC vs. HOU W 31 25 8 16 50.0 1 4 25.0 8 8 100.0 0 4 4 3 1 2 1 1 13
+p119
+aVSerge Ibaka OKC 03/24/2010 OKC vs. HOU W 23 6 3 5 60.0 0 0 - 0 0 - 1 7 8 0 1 4 4 5 7
+p120
+aVJames Harden OKC 03/24/2010 OKC vs. HOU W 26 23 6 10 60.0 3 4 75.0 8 8 100.0 0 2 2 2 2 1 1 3 23
+p121
+aVEtan Thomas OKC 03/24/2010 OKC vs. HOU W 6 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -5
+p122
+aVThabo Sefolosha OKC 03/24/2010 OKC vs. HOU W 22 11 5 6 83.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 -5
+p123
+aVNenad Krstic OKC 03/24/2010 OKC vs. HOU W 20 13 6 9 66.7 0 1 0.0 1 2 50.0 0 3 3 0 0 1 1 1 0
+p124
+aVRussell Westbrook OKC 03/24/2010 OKC vs. HOU W 26 4 2 7 28.6 0 1 0.0 0 0 - 3 2 5 8 0 1 5 2 2
+p125
+aVKyle Weaver OKC 03/22/2010 OKC vs. SAS L 15 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 4
+p126
+aVNenad Krstic OKC 03/22/2010 OKC vs. SAS L 20 8 3 7 42.9 0 0 - 2 2 100.0 2 2 4 0 2 1 0 2 -10
+p127
+aVRussell Westbrook OKC 03/22/2010 OKC vs. SAS L 29 12 5 13 38.5 0 2 0.0 2 2 100.0 1 3 4 4 0 1 1 4 -4
+p128
+aVEric Maynor OKC 03/22/2010 OKC vs. SAS L 30 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 5 0 0 0 3 4
+p129
+aVKevin Durant OKC 03/22/2010 OKC vs. SAS L 42 45 15 24 62.5 1 4 25.0 14 15 93.3 0 8 8 1 0 3 3 2 -6
+p130
+aVNick Collison OKC 03/22/2010 OKC vs. SAS L 22 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 1 1 0 3 2 7
+p131
+aVJeff Green OKC 03/22/2010 OKC vs. SAS L 32 16 5 12 41.7 1 3 33.3 5 5 100.0 1 5 6 1 2 0 3 5 -7
+p132
+aVSerge Ibaka OKC 03/22/2010 OKC vs. SAS L 29 10 3 5 60.0 0 0 - 4 6 66.7 2 6 8 0 0 3 2 4 2
+p133
+aVThabo Sefolosha OKC 03/22/2010 OKC vs. SAS L 21 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 0 -5
+p134
+aVKevin Ollie OKC 03/21/2010 OKC @ IND L 10 7 3 4 75.0 0 0 - 1 1 100.0 0 4 4 1 0 0 2 0 1
+p135
+aVKyle Weaver OKC 03/21/2010 OKC @ IND L 28 4 1 6 16.7 1 5 20.0 1 2 50.0 1 3 4 2 0 0 0 3 -5
+p136
+aVSerge Ibaka OKC 03/21/2010 OKC @ IND L 20 10 5 8 62.5 0 0 - 0 0 - 5 7 12 0 1 1 1 2 -4
+p137
+aVThabo Sefolosha OKC 03/21/2010 OKC @ IND L 23 8 3 8 37.5 1 3 33.3 1 1 100.0 0 0 0 0 0 0 0 3 -12
+p138
+aVNick Collison OKC 03/21/2010 OKC @ IND L 16 7 3 7 42.9 0 0 - 1 2 50.0 4 1 5 0 1 0 0 4 2
+p139
+aVNenad Krstic OKC 03/21/2010 OKC @ IND L 16 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -23
+p140
+aVDJ White OKC 03/21/2010 OKC @ IND L 10 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 1 -1
+p141
+aVJeff Green OKC 03/21/2010 OKC @ IND L 34 20 6 10 60.0 1 2 50.0 7 7 100.0 1 5 6 3 0 1 0 0 -14
+p142
+aVRussell Westbrook OKC 03/21/2010 OKC @ IND L 17 0 0 4 0.0 0 0 - 0 0 - 1 0 1 5 0 0 2 2 -20
+p143
+aVEric Maynor OKC 03/21/2010 OKC @ IND L 33 15 7 13 53.8 0 0 - 1 1 100.0 1 3 4 11 2 0 5 3 -2
+p144
+aVKevin Durant OKC 03/21/2010 OKC @ IND L 33 16 4 16 25.0 1 6 16.7 7 7 100.0 2 3 5 3 2 1 5 2 -22
+p145
+aVEtan Thomas OKC 03/19/2010 OKC @ TOR W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 2 -4
+p146
+aVKyle Weaver OKC 03/19/2010 OKC @ TOR W 20 12 4 6 66.7 4 5 80.0 0 0 - 0 3 3 1 3 2 1 0 6
+p147
+aVJeff Green OKC 03/19/2010 OKC @ TOR W 33 25 9 19 47.4 4 10 40.0 3 4 75.0 2 5 7 0 1 0 0 1 25
+p148
+aVThabo Sefolosha OKC 03/19/2010 OKC @ TOR W 28 6 3 5 60.0 0 1 0.0 0 2 0.0 1 4 5 2 2 1 1 2 18
+p149
+aVRussell Westbrook OKC 03/19/2010 OKC @ TOR W 26 11 3 10 30.0 0 1 0.0 5 5 100.0 1 2 3 10 2 0 2 1 26
+p150
+aVKevin Durant OKC 03/19/2010 OKC @ TOR W 32 31 7 16 43.8 0 4 0.0 17 18 94.4 4 2 6 3 0 0 0 3 31
+p151
+aVEric Maynor OKC 03/19/2010 OKC @ TOR W 22 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 3 0 0 2 2 0
+p152
+aVSerge Ibaka OKC 03/19/2010 OKC @ TOR W 15 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 2 2 3 7
+p153
+aVNenad Krstic OKC 03/19/2010 OKC @ TOR W 22 8 4 12 33.3 0 0 - 0 0 - 4 4 8 0 0 1 0 2 18
+p154
+aVKevin Ollie OKC 03/19/2010 OKC @ TOR W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p155
+aVNick Collison OKC 03/19/2010 OKC @ TOR W 14 6 3 7 42.9 0 0 - 0 0 - 4 4 8 0 0 0 1 4 14
+p156
+aVDJ White OKC 03/19/2010 OKC @ TOR W 12 8 3 6 50.0 0 0 - 2 2 100.0 3 2 5 0 2 0 1 1 -6
+p157
+aVThabo Sefolosha OKC 03/17/2010 OKC @ CHA L 26 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 2 2 0 2 1 -15
+p158
+aVNick Collison OKC 03/17/2010 OKC @ CHA L 25 15 6 8 75.0 0 0 - 3 4 75.0 1 5 6 0 0 1 1 5 -7
+p159
+aVKevin Durant OKC 03/17/2010 OKC @ CHA L 40 26 9 26 34.6 0 7 0.0 8 8 100.0 4 6 10 1 1 0 0 2 -11
+p160
+aVKyle Weaver OKC 03/17/2010 OKC @ CHA L 12 0 0 1 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 0 7
+p161
+aVNenad Krstic OKC 03/17/2010 OKC @ CHA L 30 6 3 6 50.0 0 0 - 0 0 - 1 7 8 0 1 2 2 3 -8
+p162
+aVEric Maynor OKC 03/17/2010 OKC @ CHA L 17 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 5 0 1 1 1 3
+p163
+aVJeff Green OKC 03/17/2010 OKC @ CHA L 39 17 7 14 50.0 1 1 100.0 2 2 100.0 1 5 6 3 0 1 1 6 -2
+p164
+aVSerge Ibaka OKC 03/17/2010 OKC @ CHA L 18 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 2 1 3 4
+p165
+aVRussell Westbrook OKC 03/17/2010 OKC @ CHA L 31 15 6 16 37.5 0 2 0.0 3 4 75.0 0 1 1 10 1 0 5 5 -11
+p166
+aVJeff Green OKC 03/14/2010 OKC vs. UTA W 35 14 5 11 45.5 0 2 0.0 4 5 80.0 0 2 2 1 3 0 2 5 3
+p167
+aVRussell Westbrook OKC 03/14/2010 OKC vs. UTA W 40 30 12 16 75.0 0 0 - 6 11 54.5 1 2 3 11 1 1 5 3 3
+p168
+aVSerge Ibaka OKC 03/14/2010 OKC vs. UTA W 21 0 0 0 - 0 0 - 0 0 - 0 6 6 0 0 3 0 4 0
+p169
+aVKevin Durant OKC 03/14/2010 OKC vs. UTA W 41 35 10 17 58.8 2 6 33.3 13 13 100.0 0 3 3 3 1 0 2 1 11
+p170
+aVNick Collison OKC 03/14/2010 OKC vs. UTA W 21 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 0 1 2 5 5
+p171
+aVNenad Krstic OKC 03/14/2010 OKC vs. UTA W 32 13 5 8 62.5 0 0 - 3 4 75.0 1 3 4 2 1 0 0 1 5
+p172
+aVThabo Sefolosha OKC 03/14/2010 OKC vs. UTA W 26 13 5 9 55.6 1 2 50.0 2 2 100.0 2 4 6 3 1 0 0 4 9
+p173
+aVEric Maynor OKC 03/14/2010 OKC vs. UTA W 10 6 3 4 75.0 0 0 - 0 0 - 2 3 5 2 0 0 1 1 3
+p174
+aVKyle Weaver OKC 03/14/2010 OKC vs. UTA W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 1 1 0 3 1
+p175
+aVNenad Krstic OKC 03/12/2010 OKC vs. NJN W 28 10 4 6 66.7 0 0 - 2 2 100.0 2 6 8 1 1 0 1 0 7
+p176
+aVKevin Durant OKC 03/12/2010 OKC vs. NJN W 42 32 10 21 47.6 2 5 40.0 10 10 100.0 1 11 12 2 1 0 2 1 13
+p177
+aVSerge Ibaka OKC 03/12/2010 OKC vs. NJN W 18 8 4 8 50.0 0 0 - 0 0 - 0 1 1 0 0 1 2 3 -8
+p178
+aVKyle Weaver OKC 03/12/2010 OKC vs. NJN W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -20
+p179
+aVRussell Westbrook OKC 03/12/2010 OKC vs. NJN W 35 11 3 7 42.9 0 0 - 5 6 83.3 0 4 4 10 0 1 9 4 7
+p180
+aVNick Collison OKC 03/12/2010 OKC vs. NJN W 21 10 5 8 62.5 0 0 - 0 0 - 4 5 9 1 1 0 0 1 4
+p181
+aVEric Maynor OKC 03/12/2010 OKC vs. NJN W 13 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 4 1 0 0 2 -5
+p182
+aVJeff Green OKC 03/12/2010 OKC vs. NJN W 40 27 11 16 68.8 3 4 75.0 2 3 66.7 2 4 6 2 3 1 1 3 -4
+p183
+aVThabo Sefolosha OKC 03/12/2010 OKC vs. NJN W 33 4 2 6 33.3 0 1 0.0 0 2 0.0 2 5 7 2 0 1 2 2 16
+p184
+aVSerge Ibaka OKC 03/10/2010 OKC vs. NOH W 26 12 4 9 44.4 0 0 - 4 4 100.0 3 6 9 0 0 0 0 4 2
+p185
+aVDJ White OKC 03/10/2010 OKC vs. NOH W 5 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -6
+p186
+aVEric Maynor OKC 03/10/2010 OKC vs. NOH W 21 0 0 5 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 1 -3
+p187
+aVThabo Sefolosha OKC 03/10/2010 OKC vs. NOH W 25 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 0 1 0 1 2 6
+p188
+aVKevin Ollie OKC 03/10/2010 OKC vs. NOH W 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p189
+aVNick Collison OKC 03/10/2010 OKC vs. NOH W 20 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 0 1 0 2 1 11
+p190
+aVJeff Green OKC 03/10/2010 OKC vs. NOH W 36 10 5 12 41.7 0 1 0.0 0 0 - 1 8 9 2 2 1 1 1 12
+p191
+aVJames Harden OKC 03/10/2010 OKC vs. NOH W 14 6 1 5 20.0 0 3 0.0 4 4 100.0 0 2 2 2 1 1 1 0 8
+p192
+aVNenad Krstic OKC 03/10/2010 OKC vs. NOH W 22 10 5 8 62.5 0 0 - 0 1 0.0 2 4 6 1 0 0 1 1 10
+p193
+aVKevin Durant OKC 03/10/2010 OKC vs. NOH W 35 29 11 19 57.9 2 3 66.7 5 6 83.3 1 3 4 2 0 1 2 1 21
+p194
+aVRussell Westbrook OKC 03/10/2010 OKC vs. NOH W 32 17 7 13 53.8 0 0 - 3 4 75.0 2 6 8 9 2 1 4 2 18
+p195
+aVKevin Durant OKC 03/07/2010 OKC @ SAC W 43 27 9 21 42.9 1 3 33.3 8 8 100.0 2 6 8 5 1 1 3 0 2
+p196
+aVThabo Sefolosha OKC 03/07/2010 OKC @ SAC W 26 10 4 7 57.1 0 2 0.0 2 2 100.0 2 0 2 1 0 1 0 2 5
+p197
+aVJeff Green OKC 03/07/2010 OKC @ SAC W 34 12 5 12 41.7 1 3 33.3 1 1 100.0 0 3 3 1 1 1 2 4 14
+p198
+aVNenad Krstic OKC 03/07/2010 OKC @ SAC W 29 5 2 6 33.3 0 0 - 1 2 50.0 2 8 10 0 0 0 2 3 8
+p199
+aVRussell Westbrook OKC 03/07/2010 OKC @ SAC W 32 21 8 18 44.4 0 1 0.0 5 6 83.3 3 5 8 4 0 1 1 1 3
+p200
+aVNick Collison OKC 03/07/2010 OKC @ SAC W 24 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 1 1 2 4 -2
+p201
+aVJames Harden OKC 03/07/2010 OKC @ SAC W 20 14 5 10 50.0 1 3 33.3 3 3 100.0 2 0 2 0 2 1 3 4 -1
+p202
+aVEric Maynor OKC 03/07/2010 OKC @ SAC W 16 4 1 3 33.3 1 2 50.0 1 2 50.0 0 1 1 4 1 0 1 1 3
+p203
+aVSerge Ibaka OKC 03/07/2010 OKC @ SAC W 17 11 5 6 83.3 0 0 - 1 1 100.0 3 2 5 0 1 1 0 1 -2
+p204
+aVThabo Sefolosha OKC 03/05/2010 OKC @ LAC W 20 0 0 0 - 0 0 - 0 0 - 0 4 4 3 1 0 1 2 6
+p205
+aVEric Maynor OKC 03/05/2010 OKC @ LAC W 12 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 0 0 1 1 1
+p206
+aVKevin Durant OKC 03/05/2010 OKC @ LAC W 38 32 10 22 45.5 0 2 0.0 12 14 85.7 1 8 9 2 2 2 1 1 17
+p207
+aVJames Harden OKC 03/05/2010 OKC @ LAC W 28 17 5 11 45.5 3 6 50.0 4 4 100.0 0 3 3 4 1 2 0 0 11
+p208
+aVRussell Westbrook OKC 03/05/2010 OKC @ LAC W 36 15 5 11 45.5 0 0 - 5 7 71.4 2 4 6 9 7 0 7 3 16
+p209
+aVJeff Green OKC 03/05/2010 OKC @ LAC W 37 14 5 13 38.5 1 3 33.3 3 5 60.0 0 8 8 2 1 3 3 2 8
+p210
+aVSerge Ibaka OKC 03/05/2010 OKC @ LAC W 18 9 4 5 80.0 0 0 - 1 2 50.0 2 3 5 0 0 2 0 2 5
+p211
+aVNenad Krstic OKC 03/05/2010 OKC @ LAC W 32 13 6 12 50.0 0 1 0.0 1 2 50.0 6 5 11 1 0 0 0 2 12
+p212
+aVNick Collison OKC 03/05/2010 OKC @ LAC W 19 1 0 2 0.0 0 0 - 1 2 50.0 2 4 6 1 1 2 1 5 9
+p213
+aVNick Collison OKC 03/03/2010 OKC @ DEN L 8 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -5
+p214
+aVRussell Westbrook OKC 03/03/2010 OKC @ DEN L 25 11 3 11 27.3 0 0 - 5 6 83.3 0 3 3 6 3 1 4 2 -18
+p215
+aVKevin Durant OKC 03/03/2010 OKC @ DEN L 27 19 5 14 35.7 2 6 33.3 7 9 77.8 1 3 4 0 0 3 4 1 -21
+p216
+aVThabo Sefolosha OKC 03/03/2010 OKC @ DEN L 24 7 2 5 40.0 2 3 66.7 1 2 50.0 0 4 4 0 0 2 1 1 -18
+p217
+aVEtan Thomas OKC 03/03/2010 OKC @ DEN L 15 4 1 4 25.0 0 0 - 2 3 66.7 1 2 3 1 0 0 2 1 -2
+p218
+aVEric Maynor OKC 03/03/2010 OKC @ DEN L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 0 0 2 0 -22
+p219
+aVKevin Ollie OKC 03/03/2010 OKC @ DEN L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 11
+p220
+aVJames Harden OKC 03/03/2010 OKC @ DEN L 29 19 3 8 37.5 3 5 60.0 10 11 90.9 3 2 5 1 3 0 3 3 -8
+p221
+aVNenad Krstic OKC 03/03/2010 OKC @ DEN L 26 4 1 7 14.3 0 0 - 2 2 100.0 3 1 4 2 3 0 1 3 -22
+p222
+aVAntonio Anderson OKC 03/03/2010 OKC @ DEN L 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p223
+aVSerge Ibaka OKC 03/03/2010 OKC @ DEN L 27 15 7 15 46.7 0 0 - 1 2 50.0 8 5 13 1 1 1 2 3 -12
+p224
+aVJeff Green OKC 03/03/2010 OKC @ DEN L 23 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 0 1 0 2 3 -26
+p225
+aVNenad Krstic OKC 03/02/2010 OKC vs. SAC W 29 14 6 10 60.0 0 0 - 2 2 100.0 2 7 9 1 1 0 3 3 21
+p226
+aVRussell Westbrook OKC 03/02/2010 OKC vs. SAC W 42 30 10 19 52.6 1 1 100.0 9 11 81.8 4 1 5 13 1 0 3 2 14
+p227
+aVSerge Ibaka OKC 03/02/2010 OKC vs. SAC W 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -11
+p228
+aVEric Maynor OKC 03/02/2010 OKC vs. SAC W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -8
+p229
+aVNick Collison OKC 03/02/2010 OKC vs. SAC W 22 6 3 5 60.0 0 0 - 0 2 0.0 4 3 7 1 0 0 1 3 -13
+p230
+aVKevin Durant OKC 03/02/2010 OKC vs. SAC W 42 39 13 26 50.0 1 4 25.0 12 12 100.0 2 8 10 2 1 0 3 2 16
+p231
+aVJames Harden OKC 03/02/2010 OKC vs. SAC W 18 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 1 0 1 5 -15
+p232
+aVJeff Green OKC 03/02/2010 OKC vs. SAC W 41 15 5 10 50.0 2 4 50.0 3 3 100.0 1 4 5 1 1 2 1 1 14
+p233
+aVThabo Sefolosha OKC 03/02/2010 OKC vs. SAC W 33 0 0 2 0.0 0 1 0.0 0 0 - 3 1 4 2 2 0 2 3 12
+p234
+aVSerge Ibaka OKC 02/28/2010 OKC vs. TOR W 25 13 6 8 75.0 0 0 - 1 2 50.0 3 7 10 1 0 4 2 3 -1
+p235
+aVNick Collison OKC 02/28/2010 OKC vs. TOR W 20 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 5
+p236
+aVKevin Durant OKC 02/28/2010 OKC vs. TOR W 32 29 9 18 50.0 2 3 66.7 9 10 90.0 0 6 6 1 1 1 2 3 30
+p237
+aVJames Harden OKC 02/28/2010 OKC vs. TOR W 26 12 4 8 50.0 0 3 0.0 4 4 100.0 0 4 4 1 1 0 1 6 2
+p238
+aVEric Maynor OKC 02/28/2010 OKC vs. TOR W 21 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 5 1 0 1 3 1
+p239
+aVByron Mullens OKC 02/28/2010 OKC vs. TOR W 6 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p240
+aVThabo Sefolosha OKC 02/28/2010 OKC vs. TOR W 19 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 1 14
+p241
+aVNenad Krstic OKC 02/28/2010 OKC vs. TOR W 21 16 7 9 77.8 1 2 50.0 1 1 100.0 2 1 3 0 0 0 2 1 16
+p242
+aVKevin Ollie OKC 02/28/2010 OKC vs. TOR W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p243
+aVRussell Westbrook OKC 02/28/2010 OKC vs. TOR W 31 14 4 10 40.0 0 0 - 6 7 85.7 0 3 3 10 4 1 0 0 23
+p244
+aVJeff Green OKC 02/28/2010 OKC vs. TOR W 34 20 6 12 50.0 3 3 100.0 5 7 71.4 2 4 6 3 4 1 2 5 22
+p245
+aVThabo Sefolosha OKC 02/26/2010 OKC vs. MIN W 25 10 3 6 50.0 0 1 0.0 4 4 100.0 0 6 6 2 2 1 1 0 25
+p246
+aVByron Mullens OKC 02/26/2010 OKC vs. MIN W 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -6
+p247
+aVJames Harden OKC 02/26/2010 OKC vs. MIN W 18 6 2 9 22.2 0 3 0.0 2 5 40.0 0 2 2 2 0 0 2 1 -3
+p248
+aVRussell Westbrook OKC 02/26/2010 OKC vs. MIN W 33 18 7 11 63.6 0 0 - 4 6 66.7 2 6 8 15 2 0 2 1 29
+p249
+aVSerge Ibaka OKC 02/26/2010 OKC vs. MIN W 19 14 7 9 77.8 0 0 - 0 0 - 2 1 3 1 1 2 3 4 -6
+p250
+aVKevin Durant OKC 02/26/2010 OKC vs. MIN W 36 25 8 17 47.1 1 3 33.3 8 9 88.9 2 7 9 3 2 1 1 1 30
+p251
+aVNenad Krstic OKC 02/26/2010 OKC vs. MIN W 26 10 5 9 55.6 0 0 - 0 0 - 0 2 2 2 2 0 2 2 21
+p252
+aVEric Maynor OKC 02/26/2010 OKC vs. MIN W 16 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 4 0 0 0 1 -13
+p253
+aVJeff Green OKC 02/26/2010 OKC vs. MIN W 38 13 6 11 54.5 1 4 25.0 0 0 - 0 6 6 0 1 1 3 3 16
+p254
+aVNick Collison OKC 02/26/2010 OKC vs. MIN W 22 10 5 6 83.3 0 0 - 0 0 - 3 3 6 0 1 0 3 3 -2
+p255
+aVKevin Ollie OKC 02/26/2010 OKC vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p256
+aVEric Maynor OKC 02/24/2010 OKC @ SAS L 18 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 2 1 0 0 2 2
+p257
+aVByron Mullens OKC 02/24/2010 OKC @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p258
+aVRussell Westbrook OKC 02/24/2010 OKC @ SAS L 39 17 6 21 28.6 0 3 0.0 5 9 55.6 3 3 6 7 1 0 4 3 -3
+p259
+aVNenad Krstic OKC 02/24/2010 OKC @ SAS L 29 8 3 10 30.0 0 0 - 2 3 66.7 2 6 8 0 0 2 0 5 -11
+p260
+aVJeff Green OKC 02/24/2010 OKC @ SAS L 40 19 8 16 50.0 1 3 33.3 2 3 66.7 2 2 4 1 1 0 2 1 -9
+p261
+aVKevin Durant OKC 02/24/2010 OKC @ SAS L 40 21 7 19 36.8 1 5 20.0 6 6 100.0 0 12 12 3 2 2 2 2 -13
+p262
+aVThabo Sefolosha OKC 02/24/2010 OKC @ SAS L 41 12 5 8 62.5 1 2 50.0 1 2 50.0 3 10 13 1 1 1 0 4 -1
+p263
+aVJames Harden OKC 02/24/2010 OKC @ SAS L 27 8 3 7 42.9 2 4 50.0 0 0 - 2 5 7 0 2 0 1 4 -6
+p264
+aVNenad Krstic OKC 02/23/2010 OKC vs. PHX L 20 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 1 0 1 1 2 -14
+p265
+aVRussell Westbrook OKC 02/23/2010 OKC vs. PHX L 39 21 9 18 50.0 0 0 - 3 4 75.0 1 0 1 10 3 0 2 3 -9
+p266
+aVKevin Durant OKC 02/23/2010 OKC vs. PHX L 41 36 13 24 54.2 3 5 60.0 7 7 100.0 0 8 8 3 2 0 2 1 -5
+p267
+aVEric Maynor OKC 02/23/2010 OKC vs. PHX L 19 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 3 0 1 1 2 15
+p268
+aVJames Harden OKC 02/23/2010 OKC vs. PHX L 27 5 2 7 28.6 0 4 0.0 1 2 50.0 1 2 3 2 2 0 4 4 13
+p269
+aVNick Collison OKC 02/23/2010 OKC vs. PHX L 18 4 2 3 66.7 0 0 - 0 0 - 2 4 6 2 0 1 1 5 7
+p270
+aVJeff Green OKC 02/23/2010 OKC vs. PHX L 36 16 5 14 35.7 0 3 0.0 6 6 100.0 3 3 6 0 1 1 1 2 -5
+p271
+aVSerge Ibaka OKC 02/23/2010 OKC vs. PHX L 19 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 0 0 2 0 3 4
+p272
+aVThabo Sefolosha OKC 02/23/2010 OKC vs. PHX L 19 2 0 5 0.0 0 2 0.0 2 2 100.0 0 3 3 2 2 0 0 1 -16
+p273
+aVJames Harden OKC 02/21/2010 OKC @ MIN W 21 8 3 6 50.0 2 3 66.7 0 0 - 1 3 4 1 1 0 2 2 -10
+p274
+aVKevin Ollie OKC 02/21/2010 OKC @ MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p275
+aVEric Maynor OKC 02/21/2010 OKC @ MIN W 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -8
+p276
+aVRussell Westbrook OKC 02/21/2010 OKC @ MIN W 38 22 9 19 47.4 0 0 - 4 4 100.0 3 7 10 14 2 0 3 2 16
+p277
+aVKevin Durant OKC 02/21/2010 OKC @ MIN W 41 32 8 16 50.0 2 3 66.7 14 15 93.3 0 6 6 2 1 2 3 3 5
+p278
+aVSerge Ibaka OKC 02/21/2010 OKC @ MIN W 20 4 2 6 33.3 0 0 - 0 0 - 1 2 3 0 0 2 2 2 -7
+p279
+aVJeff Green OKC 02/21/2010 OKC @ MIN W 40 17 8 17 47.1 1 4 25.0 0 0 - 3 11 14 0 3 0 2 2 6
+p280
+aVNick Collison OKC 02/21/2010 OKC @ MIN W 23 8 3 6 50.0 0 0 - 2 2 100.0 3 1 4 1 0 0 2 2 -10
+p281
+aVNenad Krstic OKC 02/21/2010 OKC @ MIN W 21 10 4 7 57.1 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 12
+p282
+aVThabo Sefolosha OKC 02/21/2010 OKC @ MIN W 28 8 4 6 66.7 0 0 - 0 0 - 2 0 2 4 1 0 0 3 13
+p283
+aVJames Harden OKC 02/20/2010 OKC @ NYK W 31 14 4 9 44.4 1 3 33.3 5 7 71.4 0 5 5 2 1 1 4 4 4
+p284
+aVJeff Green OKC 02/20/2010 OKC @ NYK W 47 16 6 9 66.7 2 2 100.0 2 5 40.0 3 8 11 0 2 0 0 1 6
+p285
+aVNick Collison OKC 02/20/2010 OKC @ NYK W 31 10 5 9 55.6 0 0 - 0 0 - 4 4 8 0 1 0 0 3 -4
+p286
+aVKevin Durant OKC 02/20/2010 OKC @ NYK W 47 36 10 25 40.0 2 6 33.3 14 15 93.3 1 4 5 3 1 1 5 2 5
+p287
+aVNenad Krstic OKC 02/20/2010 OKC @ NYK W 11 6 3 6 50.0 0 0 - 0 0 - 3 0 3 1 0 1 0 2 5
+p288
+aVThabo Sefolosha OKC 02/20/2010 OKC @ NYK W 29 4 0 4 0.0 0 2 0.0 4 4 100.0 0 6 6 1 2 0 1 4 -4
+p289
+aVSerge Ibaka OKC 02/20/2010 OKC @ NYK W 12 4 2 3 66.7 0 0 - 0 2 0.0 2 1 3 0 1 1 1 2 0
+p290
+aVEric Maynor OKC 02/20/2010 OKC @ NYK W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 3 3 -5
+p291
+aVRussell Westbrook OKC 02/20/2010 OKC @ NYK W 47 31 13 23 56.5 0 0 - 5 8 62.5 3 6 9 10 0 0 4 4 8
+p292
+aVJames Harden OKC 02/16/2010 OKC vs. DAL W 31 17 5 7 71.4 3 4 75.0 4 4 100.0 0 5 5 6 0 0 2 5 16
+p293
+aVRussell Westbrook OKC 02/16/2010 OKC vs. DAL W 35 17 6 11 54.5 0 0 - 5 8 62.5 1 5 6 8 1 0 1 1 6
+p294
+aVNick Collison OKC 02/16/2010 OKC vs. DAL W 30 8 4 5 80.0 0 0 - 0 0 - 3 6 9 0 0 3 1 2 15
+p295
+aVSerge Ibaka OKC 02/16/2010 OKC vs. DAL W 13 5 2 5 40.0 0 0 - 1 1 100.0 2 3 5 1 0 0 0 2 3
+p296
+aVNenad Krstic OKC 02/16/2010 OKC vs. DAL W 17 4 2 8 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p297
+aVThabo Sefolosha OKC 02/16/2010 OKC vs. DAL W 18 4 1 4 25.0 0 2 0.0 2 2 100.0 0 3 3 0 1 1 2 1 -3
+p298
+aVEric Maynor OKC 02/16/2010 OKC vs. DAL W 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 4 0 1 1 1 7
+p299
+aVKevin Durant OKC 02/16/2010 OKC vs. DAL W 41 25 9 28 32.1 2 7 28.6 5 8 62.5 2 12 14 2 0 3 1 1 10
+p300
+aVJeff Green OKC 02/16/2010 OKC vs. DAL W 42 17 6 13 46.2 2 4 50.0 3 5 60.0 1 5 6 1 2 2 1 3 13
+p301
+aVJeff Green OKC 02/09/2010 OKC @ POR W 43 17 7 16 43.8 1 6 16.7 2 2 100.0 0 3 3 0 4 2 3 4 16
+p302
+aVNick Collison OKC 02/09/2010 OKC @ POR W 28 6 2 2 100.0 0 0 - 2 2 100.0 0 5 5 0 2 0 1 2 10
+p303
+aVNenad Krstic OKC 02/09/2010 OKC @ POR W 20 4 1 3 33.3 0 0 - 2 4 50.0 3 1 4 0 1 0 1 2 2
+p304
+aVRussell Westbrook OKC 02/09/2010 OKC @ POR W 32 8 2 9 22.2 0 1 0.0 4 4 100.0 4 1 5 7 3 0 4 1 10
+p305
+aVEric Maynor OKC 02/09/2010 OKC @ POR W 16 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 5 0 0 1 2 2
+p306
+aVThabo Sefolosha OKC 02/09/2010 OKC @ POR W 23 0 0 2 0.0 0 0 - 0 0 - 0 5 5 1 2 0 1 1 6
+p307
+aVJames Harden OKC 02/09/2010 OKC @ POR W 24 13 4 9 44.4 2 5 40.0 3 4 75.0 0 3 3 2 2 0 0 1 2
+p308
+aVSerge Ibaka OKC 02/09/2010 OKC @ POR W 18 4 2 4 50.0 0 0 - 0 2 0.0 0 5 5 0 1 4 0 4 8
+p309
+aVKevin Durant OKC 02/09/2010 OKC @ POR W 35 33 12 25 48.0 2 3 66.7 7 8 87.5 2 9 11 1 2 0 2 4 4
+p310
+aVEric Maynor OKC 02/06/2010 OKC @ GSW W 12 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 4 0 0 1 4 -1
+p311
+aVByron Mullens OKC 02/06/2010 OKC @ GSW W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p312
+aVNenad Krstic OKC 02/06/2010 OKC @ GSW W 20 10 4 10 40.0 0 0 - 2 2 100.0 3 4 7 1 1 1 1 1 10
+p313
+aVSerge Ibaka OKC 02/06/2010 OKC @ GSW W 8 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 3 2 -3
+p314
+aVKevin Durant OKC 02/06/2010 OKC @ GSW W 42 29 7 21 33.3 2 4 50.0 13 14 92.9 1 7 8 4 4 1 4 1 17
+p315
+aVRussell Westbrook OKC 02/06/2010 OKC @ GSW W 36 21 8 17 47.1 0 0 - 5 6 83.3 2 5 7 10 8 0 2 1 10
+p316
+aVKevin Ollie OKC 02/06/2010 OKC @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p317
+aVJeff Green OKC 02/06/2010 OKC @ GSW W 36 18 7 16 43.8 2 5 40.0 2 2 100.0 1 2 3 0 1 1 1 4 10
+p318
+aVNick Collison OKC 02/06/2010 OKC @ GSW W 26 2 1 4 25.0 0 0 - 0 0 - 3 7 10 1 0 1 1 2 6
+p319
+aVJames Harden OKC 02/06/2010 OKC @ GSW W 22 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 0 0 0 2 4 1
+p320
+aVThabo Sefolosha OKC 02/06/2010 OKC @ GSW W 33 8 4 7 57.1 0 1 0.0 0 0 - 1 7 8 2 2 0 1 4 8
+p321
+aVThabo Sefolosha OKC 02/03/2010 OKC @ NOH W 20 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 2 2 1 0 1 5
+p322
+aVJames Harden OKC 02/03/2010 OKC @ NOH W 16 5 1 3 33.3 1 3 33.3 2 2 100.0 0 2 2 0 0 1 1 3 -1
+p323
+aVNick Collison OKC 02/03/2010 OKC @ NOH W 30 6 3 5 60.0 0 0 - 0 0 - 1 9 10 2 2 0 1 1 -4
+p324
+aVSerge Ibaka OKC 02/03/2010 OKC @ NOH W 23 6 3 6 50.0 0 0 - 0 0 - 1 7 8 2 0 2 0 3 0
+p325
+aVNenad Krstic OKC 02/03/2010 OKC @ NOH W 22 14 7 8 87.5 0 0 - 0 0 - 2 4 6 2 0 0 1 2 3
+p326
+aVJeff Green OKC 02/03/2010 OKC @ NOH W 41 14 6 10 60.0 2 4 50.0 0 0 - 0 3 3 3 0 0 2 2 16
+p327
+aVEric Maynor OKC 02/03/2010 OKC @ NOH W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 3 0 -3
+p328
+aVRussell Westbrook OKC 02/03/2010 OKC @ NOH W 35 26 11 18 61.1 0 0 - 4 6 66.7 1 7 8 10 0 1 2 1 7
+p329
+aVKevin Durant OKC 02/03/2010 OKC @ NOH W 40 30 10 20 50.0 2 4 50.0 8 9 88.9 0 3 3 2 0 1 8 2 -3
+p330
+aVJames Harden OKC 02/02/2010 OKC vs. ATL W 20 9 2 6 33.3 1 4 25.0 4 5 80.0 0 1 1 2 1 0 1 3 -2
+p331
+aVEric Maynor OKC 02/02/2010 OKC vs. ATL W 11 2 1 5 20.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 1 2
+p332
+aVNick Collison OKC 02/02/2010 OKC vs. ATL W 18 6 2 2 100.0 0 0 - 2 4 50.0 1 1 2 1 1 0 0 0 -8
+p333
+aVJeff Green OKC 02/02/2010 OKC vs. ATL W 40 19 7 15 46.7 3 4 75.0 2 3 66.7 4 2 6 1 2 2 0 3 10
+p334
+aVSerge Ibaka OKC 02/02/2010 OKC vs. ATL W 16 8 4 5 80.0 0 0 - 0 0 - 2 2 4 0 0 2 0 2 -4
+p335
+aVThabo Sefolosha OKC 02/02/2010 OKC vs. ATL W 28 9 3 7 42.9 0 1 0.0 3 4 75.0 2 0 2 2 1 1 1 1 7
+p336
+aVRussell Westbrook OKC 02/02/2010 OKC vs. ATL W 36 12 5 16 31.3 0 1 0.0 2 2 100.0 5 4 9 9 2 0 1 3 7
+p337
+aVKevin Durant OKC 02/02/2010 OKC vs. ATL W 40 33 9 18 50.0 1 3 33.3 14 14 100.0 0 11 11 3 2 1 2 1 8
+p338
+aVNenad Krstic OKC 02/02/2010 OKC vs. ATL W 30 8 4 7 57.1 0 0 - 0 0 - 3 4 7 0 1 1 0 2 15
+p339
+aVThabo Sefolosha OKC 01/31/2010 OKC vs. GSW W 41 14 6 13 46.2 1 2 50.0 1 5 20.0 4 3 7 2 4 1 0 1 13
+p340
+aVNenad Krstic OKC 01/31/2010 OKC vs. GSW W 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 0 0 2 2 12
+p341
+aVKevin Durant OKC 01/31/2010 OKC vs. GSW W 40 45 16 21 76.2 2 3 66.7 11 11 100.0 3 8 11 2 2 0 4 2 13
+p342
+aVEric Maynor OKC 01/31/2010 OKC vs. GSW W 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -7
+p343
+aVJeff Green OKC 01/31/2010 OKC vs. GSW W 36 14 6 11 54.5 1 3 33.3 1 2 50.0 2 5 7 3 1 0 2 3 1
+p344
+aVRussell Westbrook OKC 01/31/2010 OKC vs. GSW W 45 28 7 14 50.0 0 0 - 14 17 82.4 1 4 5 8 2 0 4 4 13
+p345
+aVSerge Ibaka OKC 01/31/2010 OKC vs. GSW W 20 4 2 3 66.7 0 0 - 0 2 0.0 1 3 4 0 1 3 2 2 2
+p346
+aVNick Collison OKC 01/31/2010 OKC vs. GSW W 9 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -8
+p347
+aVJames Harden OKC 01/31/2010 OKC vs. GSW W 20 5 1 7 14.3 0 2 0.0 3 4 75.0 1 5 6 1 1 0 1 3 1
+p348
+aVSerge Ibaka OKC 01/29/2010 OKC vs. DEN W 21 4 2 5 40.0 0 0 - 0 0 - 1 7 8 1 0 2 1 5 -1
+p349
+aVNenad Krstic OKC 01/29/2010 OKC vs. DEN W 23 8 3 10 30.0 0 0 - 2 3 66.7 1 3 4 1 0 0 0 1 11
+p350
+aVJeff Green OKC 01/29/2010 OKC vs. DEN W 36 15 7 11 63.6 1 2 50.0 0 0 - 3 2 5 1 1 0 1 3 8
+p351
+aVThabo Sefolosha OKC 01/29/2010 OKC vs. DEN W 24 8 4 6 66.7 0 0 - 0 0 - 1 6 7 3 3 0 1 3 17
+p352
+aVJames Harden OKC 01/29/2010 OKC vs. DEN W 20 12 4 8 50.0 3 5 60.0 1 2 50.0 0 1 1 1 1 0 2 3 6
+p353
+aVRussell Westbrook OKC 01/29/2010 OKC vs. DEN W 32 12 5 11 45.5 0 0 - 2 4 50.0 0 3 3 8 0 0 2 1 25
+p354
+aVByron Mullens OKC 01/29/2010 OKC vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p355
+aVKevin Durant OKC 01/29/2010 OKC vs. DEN W 38 30 12 19 63.2 1 2 50.0 5 6 83.3 1 3 4 4 1 1 2 0 23
+p356
+aVEric Maynor OKC 01/29/2010 OKC vs. DEN W 16 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 1 0 1 1 -8
+p357
+aVNick Collison OKC 01/29/2010 OKC vs. DEN W 23 10 4 5 80.0 0 0 - 2 3 66.7 3 2 5 2 1 1 0 4 14
+p358
+aVKevin Ollie OKC 01/29/2010 OKC vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p359
+aVEric Maynor OKC 01/27/2010 OKC vs. CHI L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 2 1 1 1 -4
+p360
+aVRussell Westbrook OKC 01/27/2010 OKC vs. CHI L 31 10 5 11 45.5 0 0 - 0 1 0.0 0 2 2 7 1 0 4 2 -6
+p361
+aVNenad Krstic OKC 01/27/2010 OKC vs. CHI L 18 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 1 3 -3
+p362
+aVJeff Green OKC 01/27/2010 OKC vs. CHI L 43 24 9 19 47.4 2 7 28.6 4 5 80.0 4 5 9 2 0 0 1 2 -17
+p363
+aVNick Collison OKC 01/27/2010 OKC vs. CHI L 21 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 2 0 1 -5
+p364
+aVSerge Ibaka OKC 01/27/2010 OKC vs. CHI L 17 4 2 7 28.6 0 0 - 0 0 - 3 2 5 0 0 2 1 0 -16
+p365
+aVKevin Durant OKC 01/27/2010 OKC vs. CHI L 40 28 7 19 36.8 2 5 40.0 12 15 80.0 3 8 11 5 2 3 4 2 -1
+p366
+aVJames Harden OKC 01/27/2010 OKC vs. CHI L 19 8 3 10 30.0 2 4 50.0 0 0 - 0 2 2 1 0 0 1 2 1
+p367
+aVThabo Sefolosha OKC 01/27/2010 OKC vs. CHI L 34 6 2 6 33.3 1 2 50.0 1 2 50.0 0 5 5 2 1 1 1 0 1
+p368
+aVKevin Durant OKC 01/23/2010 OKC @ CLE L 43 34 10 25 40.0 2 3 66.7 12 13 92.3 2 8 10 3 2 0 1 0 4
+p369
+aVNenad Krstic OKC 01/23/2010 OKC @ CLE L 16 9 4 8 50.0 0 0 - 1 3 33.3 3 3 6 1 1 0 0 4 -5
+p370
+aVThabo Sefolosha OKC 01/23/2010 OKC @ CLE L 25 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 2 0 0 1 1 -12
+p371
+aVSerge Ibaka OKC 01/23/2010 OKC @ CLE L 19 4 2 3 66.7 0 0 - 0 0 - 3 4 7 0 0 0 3 4 -5
+p372
+aVJeff Green OKC 01/23/2010 OKC @ CLE L 38 11 4 14 28.6 1 3 33.3 2 2 100.0 2 4 6 1 1 0 0 4 4
+p373
+aVByron Mullens OKC 01/23/2010 OKC @ CLE L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 0
+p374
+aVEric Maynor OKC 01/23/2010 OKC @ CLE L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 2
+p375
+aVNick Collison OKC 01/23/2010 OKC @ CLE L 19 2 1 2 50.0 0 0 - 0 0 - 4 1 5 0 0 0 1 5 6
+p376
+aVRussell Westbrook OKC 01/23/2010 OKC @ CLE L 35 23 8 18 44.4 0 1 0.0 7 9 77.8 1 1 2 5 2 0 2 3 -3
+p377
+aVJames Harden OKC 01/23/2010 OKC @ CLE L 27 9 1 8 12.5 1 3 33.3 6 6 100.0 2 2 4 1 1 0 0 2 4
+p378
+aVJames Harden OKC 01/22/2010 OKC @ MEM L 28 13 3 6 50.0 3 4 75.0 4 4 100.0 0 7 7 5 2 0 1 1 1
+p379
+aVJeff Green OKC 01/22/2010 OKC @ MEM L 43 15 7 18 38.9 1 4 25.0 0 0 - 4 4 8 2 1 3 1 5 -3
+p380
+aVThabo Sefolosha OKC 01/22/2010 OKC @ MEM L 20 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 2 2 0 1 0 -3
+p381
+aVKevin Durant OKC 01/22/2010 OKC @ MEM L 43 30 10 23 43.5 0 3 0.0 10 12 83.3 2 6 8 0 1 1 3 4 5
+p382
+aVByron Mullens OKC 01/22/2010 OKC @ MEM L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p383
+aVEric Maynor OKC 01/22/2010 OKC @ MEM L 23 8 4 8 50.0 0 2 0.0 0 0 - 2 2 4 6 0 0 2 3 8
+p384
+aVRussell Westbrook OKC 01/22/2010 OKC @ MEM L 25 8 3 8 37.5 0 0 - 2 3 66.7 2 5 7 3 0 0 5 2 -10
+p385
+aVNenad Krstic OKC 01/22/2010 OKC @ MEM L 25 8 3 5 60.0 0 0 - 2 4 50.0 0 2 2 0 0 0 0 2 2
+p386
+aVSerge Ibaka OKC 01/22/2010 OKC @ MEM L 10 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -6
+p387
+aVNick Collison OKC 01/22/2010 OKC @ MEM L 18 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 0 2 5 -4
+p388
+aVKevin Durant OKC 01/20/2010 OKC @ MIN W 41 31 9 18 50.0 2 3 66.7 11 11 100.0 2 8 10 3 2 0 4 2 6
+p389
+aVJeff Green OKC 01/20/2010 OKC @ MIN W 44 15 5 13 38.5 2 3 66.7 3 4 75.0 2 7 9 3 0 1 4 2 -3
+p390
+aVJames Harden OKC 01/20/2010 OKC @ MIN W 26 12 5 11 45.5 2 7 28.6 0 0 - 0 3 3 3 1 0 0 2 5
+p391
+aVRussell Westbrook OKC 01/20/2010 OKC @ MIN W 34 9 3 10 30.0 0 0 - 3 4 75.0 0 3 3 9 0 0 7 2 -12
+p392
+aVThabo Sefolosha OKC 01/20/2010 OKC @ MIN W 31 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 2 1 1 2 -3
+p393
+aVSerge Ibaka OKC 01/20/2010 OKC @ MIN W 22 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 0 2 0 1 4 2
+p394
+aVNenad Krstic OKC 01/20/2010 OKC @ MIN W 25 8 4 8 50.0 0 0 - 0 0 - 2 3 5 1 0 4 0 1 6
+p395
+aVEric Maynor OKC 01/20/2010 OKC @ MIN W 17 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 3 0 0 1 1 9
+p396
+aVNenad Krstic OKC 01/18/2010 OKC @ ATL W 37 16 7 11 63.6 0 0 - 2 4 50.0 5 2 7 1 0 0 1 2 5
+p397
+aVThabo Sefolosha OKC 01/18/2010 OKC @ ATL W 25 7 3 3 100.0 1 1 100.0 0 0 - 1 4 5 2 0 0 1 1 6
+p398
+aVKevin Durant OKC 01/18/2010 OKC @ ATL W 38 29 7 18 38.9 1 1 100.0 14 15 93.3 1 4 5 5 0 1 1 0 1
+p399
+aVByron Mullens OKC 01/18/2010 OKC @ ATL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -1
+p400
+aVJames Harden OKC 01/18/2010 OKC @ ATL W 23 11 5 11 45.5 1 3 33.3 0 0 - 0 4 4 0 0 0 1 3 -3
+p401
+aVJeff Green OKC 01/18/2010 OKC @ ATL W 38 15 5 13 38.5 1 3 33.3 4 5 80.0 1 10 11 1 1 1 1 1 5
+p402
+aVEric Maynor OKC 01/18/2010 OKC @ ATL W 16 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 4 0 0 2 2 -1
+p403
+aVSerge Ibaka OKC 01/18/2010 OKC @ ATL W 24 6 3 6 50.0 0 0 - 0 0 - 3 7 10 0 0 1 0 3 -1
+p404
+aVRussell Westbrook OKC 01/18/2010 OKC @ ATL W 32 8 3 9 33.3 0 0 - 2 2 100.0 3 1 4 9 1 0 3 2 4
+p405
+aVJames Harden OKC 01/16/2010 OKC vs. MIA W 21 14 4 9 44.4 2 3 66.7 4 4 100.0 0 3 3 0 0 0 1 2 5
+p406
+aVRussell Westbrook OKC 01/16/2010 OKC vs. MIA W 27 6 1 6 16.7 0 0 - 4 4 100.0 0 1 1 11 1 0 7 1 4
+p407
+aVKevin Durant OKC 01/16/2010 OKC vs. MIA W 37 36 14 18 77.8 3 3 100.0 5 6 83.3 1 9 10 3 0 0 3 2 19
+p408
+aVThabo Sefolosha OKC 01/16/2010 OKC vs. MIA W 21 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 2 0 0 1 7
+p409
+aVNick Collison OKC 01/16/2010 OKC vs. MIA W 18 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 2 1 1 4 15
+p410
+aVNenad Krstic OKC 01/16/2010 OKC vs. MIA W 24 8 4 11 36.4 0 0 - 0 0 - 1 4 5 2 0 0 1 2 0
+p411
+aVEric Maynor OKC 01/16/2010 OKC vs. MIA W 21 8 4 6 66.7 0 1 0.0 0 0 - 0 0 0 2 0 0 2 0 14
+p412
+aVByron Mullens OKC 01/16/2010 OKC vs. MIA W 2 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p413
+aVSerge Ibaka OKC 01/16/2010 OKC vs. MIA W 24 8 3 5 60.0 0 0 - 2 4 50.0 4 6 10 1 0 0 3 3 10
+p414
+aVJeff Green OKC 01/16/2010 OKC vs. MIA W 43 14 6 11 54.5 1 4 25.0 1 2 50.0 2 5 7 4 2 2 2 1 12
+p415
+aVJames Harden OKC 01/15/2010 OKC @ DAL L 26 11 4 8 50.0 2 4 50.0 1 2 50.0 1 2 3 1 1 0 2 5 -2
+p416
+aVThabo Sefolosha OKC 01/15/2010 OKC @ DAL L 24 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 3 1 1 0 2 -3
+p417
+aVRussell Westbrook OKC 01/15/2010 OKC @ DAL L 37 18 8 19 42.1 0 2 0.0 2 2 100.0 2 2 4 6 2 1 4 5 -2
+p418
+aVEric Maynor OKC 01/15/2010 OKC @ DAL L 15 8 3 7 42.9 0 2 0.0 2 3 66.7 0 1 1 2 2 0 1 2 3
+p419
+aVKevin Durant OKC 01/15/2010 OKC @ DAL L 38 30 6 18 33.3 4 5 80.0 14 16 87.5 0 13 13 0 1 0 8 1 -3
+p420
+aVJeff Green OKC 01/15/2010 OKC @ DAL L 38 11 4 13 30.8 0 3 0.0 3 4 75.0 1 4 5 0 0 1 0 5 9
+p421
+aVNick Collison OKC 01/15/2010 OKC @ DAL L 24 10 4 7 57.1 0 0 - 2 2 100.0 5 5 10 1 0 1 1 3 -9
+p422
+aVNenad Krstic OKC 01/15/2010 OKC @ DAL L 18 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 0 1 3 5
+p423
+aVSerge Ibaka OKC 01/15/2010 OKC @ DAL L 21 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 1 0 1 1 -3
+p424
+aVNenad Krstic OKC 01/13/2010 OKC vs. SAS L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -15
+p425
+aVJeff Green OKC 01/13/2010 OKC vs. SAS L 46 16 7 9 77.8 0 1 0.0 2 2 100.0 2 8 10 0 1 0 1 2 4
+p426
+aVThabo Sefolosha OKC 01/13/2010 OKC vs. SAS L 38 6 3 7 42.9 0 0 - 0 0 - 0 5 5 3 1 2 1 5 -8
+p427
+aVEric Maynor OKC 01/13/2010 OKC vs. SAS L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -4
+p428
+aVRussell Westbrook OKC 01/13/2010 OKC vs. SAS L 50 25 9 24 37.5 0 0 - 7 9 77.8 2 4 6 13 0 0 3 3 6
+p429
+aVJames Harden OKC 01/13/2010 OKC vs. SAS L 33 12 3 5 60.0 1 2 50.0 5 6 83.3 0 7 7 1 1 0 1 3 8
+p430
+aVKevin Durant OKC 01/13/2010 OKC vs. SAS L 47 35 14 31 45.2 1 2 50.0 6 6 100.0 0 5 5 3 0 1 7 4 1
+p431
+aVSerge Ibaka OKC 01/13/2010 OKC vs. SAS L 7 4 1 4 25.0 0 0 - 2 2 100.0 3 0 3 0 0 0 1 1 -4
+p432
+aVNick Collison OKC 01/13/2010 OKC vs. SAS L 23 8 3 5 60.0 0 0 - 2 2 100.0 6 2 8 1 0 1 1 4 7
+p433
+aVRussell Westbrook OKC 01/11/2010 OKC vs. NYK W 25 17 7 11 63.6 0 0 - 3 4 75.0 2 1 3 5 2 0 0 0 20
+p434
+aVJames Harden OKC 01/11/2010 OKC vs. NYK W 28 7 3 9 33.3 0 4 0.0 1 1 100.0 0 1 1 2 3 0 2 1 2
+p435
+aVThabo Sefolosha OKC 01/11/2010 OKC vs. NYK W 28 9 4 11 36.4 1 4 25.0 0 0 - 1 7 8 0 1 1 2 1 7
+p436
+aVJeff Green OKC 01/11/2010 OKC vs. NYK W 31 9 4 13 30.8 1 5 20.0 0 0 - 2 5 7 2 3 1 0 2 20
+p437
+aVNenad Krstic OKC 01/11/2010 OKC vs. NYK W 19 4 2 5 40.0 0 0 - 0 0 - 2 6 8 0 2 0 1 1 12
+p438
+aVEric Maynor OKC 01/11/2010 OKC vs. NYK W 23 9 4 6 66.7 1 1 100.0 0 0 - 0 1 1 4 1 0 1 1 -2
+p439
+aVKevin Durant OKC 01/11/2010 OKC vs. NYK W 33 30 8 14 57.1 1 3 33.3 13 16 81.3 2 3 5 3 1 2 2 2 29
+p440
+aVSerge Ibaka OKC 01/11/2010 OKC vs. NYK W 24 10 4 10 40.0 0 0 - 2 2 100.0 3 4 7 0 1 1 4 5 -4
+p441
+aVNick Collison OKC 01/11/2010 OKC vs. NYK W 23 7 3 5 60.0 0 0 - 1 1 100.0 0 6 6 1 1 1 2 3 15
+p442
+aVByron Mullens OKC 01/11/2010 OKC vs. NYK W 6 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p443
+aVEric Maynor OKC 01/09/2010 OKC vs. IND W 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -5
+p444
+aVJames Harden OKC 01/09/2010 OKC vs. IND W 26 13 3 7 42.9 3 4 75.0 4 6 66.7 0 2 2 3 2 0 1 3 -9
+p445
+aVJeff Green OKC 01/09/2010 OKC vs. IND W 40 12 5 13 38.5 1 5 20.0 1 1 100.0 1 1 2 1 3 1 4 4 11
+p446
+aVRussell Westbrook OKC 01/09/2010 OKC vs. IND W 37 18 8 16 50.0 0 0 - 2 3 66.7 2 7 9 6 0 0 5 6 13
+p447
+aVKevin Durant OKC 01/09/2010 OKC vs. IND W 38 40 12 18 66.7 2 2 100.0 14 16 87.5 0 12 12 3 1 0 2 3 13
+p448
+aVSerge Ibaka OKC 01/09/2010 OKC vs. IND W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p449
+aVNenad Krstic OKC 01/09/2010 OKC vs. IND W 13 6 3 3 100.0 0 0 - 0 2 0.0 1 2 3 3 0 0 1 0 8
+p450
+aVNick Collison OKC 01/09/2010 OKC vs. IND W 23 8 3 4 75.0 0 0 - 2 4 50.0 0 7 7 1 1 3 2 4 -7
+p451
+aVThabo Sefolosha OKC 01/09/2010 OKC vs. IND W 39 5 1 5 20.0 0 2 0.0 3 5 60.0 1 7 8 0 1 1 1 4 8
+p452
+aVByron Mullens OKC 01/09/2010 OKC vs. IND W 7 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 2
+p453
+aVJeff Green OKC 01/06/2010 OKC vs. NOH L 41 20 8 15 53.3 2 5 40.0 2 4 50.0 0 5 5 0 0 0 0 4 -19
+p454
+aVRussell Westbrook OKC 01/06/2010 OKC vs. NOH L 34 11 5 16 31.3 0 1 0.0 1 1 100.0 2 2 4 9 3 0 2 3 -5
+p455
+aVJames Harden OKC 01/06/2010 OKC vs. NOH L 24 9 3 8 37.5 1 3 33.3 2 4 50.0 0 0 0 0 0 0 0 1 -3
+p456
+aVThabo Sefolosha OKC 01/06/2010 OKC vs. NOH L 25 2 1 5 20.0 0 2 0.0 0 0 - 2 5 7 1 0 0 1 2 -4
+p457
+aVKevin Durant OKC 01/06/2010 OKC vs. NOH L 39 27 7 15 46.7 1 4 25.0 12 12 100.0 1 4 5 3 1 0 4 0 1
+p458
+aVEric Maynor OKC 01/06/2010 OKC vs. NOH L 14 6 3 7 42.9 0 0 - 0 0 - 1 2 3 2 1 0 1 1 0
+p459
+aVSerge Ibaka OKC 01/06/2010 OKC vs. NOH L 18 6 3 4 75.0 0 0 - 0 0 - 3 4 7 0 1 1 1 3 5
+p460
+aVNick Collison OKC 01/06/2010 OKC vs. NOH L 18 0 0 2 0.0 0 0 - 0 0 - 2 5 7 2 0 0 2 3 6
+p461
+aVNenad Krstic OKC 01/06/2010 OKC vs. NOH L 27 11 5 7 71.4 0 0 - 1 2 50.0 2 4 6 1 0 0 0 1 -6
+p462
+aVKevin Durant OKC 01/04/2010 OKC @ CHI W 37 25 9 14 64.3 2 4 50.0 5 5 100.0 1 7 8 3 1 0 6 5 10
+p463
+aVNick Collison OKC 01/04/2010 OKC @ CHI W 30 0 0 2 0.0 0 0 - 0 0 - 4 4 8 1 2 1 1 0 16
+p464
+aVRussell Westbrook OKC 01/04/2010 OKC @ CHI W 45 29 13 24 54.2 0 1 0.0 3 5 60.0 3 4 7 6 2 0 4 2 14
+p465
+aVEric Maynor OKC 01/04/2010 OKC @ CHI W 19 6 2 4 50.0 2 2 100.0 0 0 - 0 3 3 2 1 1 2 2 1
+p466
+aVNenad Krstic OKC 01/04/2010 OKC @ CHI W 18 6 3 6 50.0 0 0 - 0 0 - 2 1 3 1 0 2 1 2 8
+p467
+aVJames Harden OKC 01/04/2010 OKC @ CHI W 27 13 5 11 45.5 3 5 60.0 0 0 - 0 1 1 4 1 0 2 5 5
+p468
+aVSerge Ibaka OKC 01/04/2010 OKC @ CHI W 22 6 2 7 28.6 0 0 - 2 2 100.0 3 5 8 0 1 2 1 2 10
+p469
+aVThabo Sefolosha OKC 01/04/2010 OKC @ CHI W 28 7 3 6 50.0 1 2 50.0 0 0 - 0 9 9 2 0 2 0 0 1
+p470
+aVJeff Green OKC 01/04/2010 OKC @ CHI W 14 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 0 2 1 3 1 0
+p471
+aVKevin Durant OKC 01/02/2010 OKC @ MIL L 47 31 12 24 50.0 1 4 25.0 6 7 85.7 0 5 5 0 1 4 7 2 1
+p472
+aVEric Maynor OKC 01/02/2010 OKC @ MIL L 18 8 3 9 33.3 1 3 33.3 1 2 50.0 1 5 6 4 2 1 1 1 2
+p473
+aVThabo Sefolosha OKC 01/02/2010 OKC @ MIL L 29 9 4 6 66.7 0 1 0.0 1 1 100.0 1 8 9 2 0 0 2 1 1
+p474
+aVJeff Green OKC 01/02/2010 OKC @ MIL L 44 8 3 11 27.3 0 2 0.0 2 2 100.0 2 5 7 2 0 0 1 3 -18
+p475
+aVRussell Westbrook OKC 01/02/2010 OKC @ MIL L 42 17 6 16 37.5 0 1 0.0 5 8 62.5 3 6 9 13 1 2 0 3 -9
+p476
+aVNenad Krstic OKC 01/02/2010 OKC @ MIL L 22 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -10
+p477
+aVJames Harden OKC 01/02/2010 OKC @ MIL L 18 3 1 4 25.0 0 3 0.0 1 2 50.0 0 3 3 1 0 0 3 3 -7
+p478
+aVSerge Ibaka OKC 01/02/2010 OKC @ MIL L 15 9 3 5 60.0 0 0 - 3 5 60.0 0 3 3 0 0 2 0 2 5
+p479
+aVNick Collison OKC 01/02/2010 OKC @ MIL L 31 8 2 4 50.0 0 0 - 4 4 100.0 3 4 7 1 0 1 1 4 5
+p480
+aVKevin Durant OKC 12/31/2009 OKC vs. UTA W 40 31 12 22 54.5 1 3 33.3 6 8 75.0 0 9 9 5 0 2 5 1 3
+p481
+aVEric Maynor OKC 12/31/2009 OKC vs. UTA W 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 6 1 0 0 3 1
+p482
+aVJeff Green OKC 12/31/2009 OKC vs. UTA W 27 12 5 10 50.0 1 3 33.3 1 3 33.3 1 4 5 0 0 0 6 5 -5
+p483
+aVNenad Krstic OKC 12/31/2009 OKC vs. UTA W 29 10 4 8 50.0 0 0 - 2 2 100.0 2 5 7 0 0 0 0 2 6
+p484
+aVRussell Westbrook OKC 12/31/2009 OKC vs. UTA W 33 8 3 12 25.0 0 1 0.0 2 6 33.3 1 3 4 10 2 1 4 3 0
+p485
+aVSerge Ibaka OKC 12/31/2009 OKC vs. UTA W 15 6 3 3 100.0 0 0 - 0 3 0.0 2 2 4 0 0 0 1 1 -3
+p486
+aVNick Collison OKC 12/31/2009 OKC vs. UTA W 33 11 4 5 80.0 0 0 - 3 6 50.0 1 5 6 1 1 1 1 1 3
+p487
+aVJames Harden OKC 12/31/2009 OKC vs. UTA W 13 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 1 0 2 0 0
+p488
+aVThabo Sefolosha OKC 12/31/2009 OKC vs. UTA W 34 0 0 4 0.0 0 2 0.0 0 0 - 3 3 6 2 0 1 0 3 0
+p489
+aVEric Maynor OKC 12/29/2009 OKC @ WAS W 12 7 3 4 75.0 1 1 100.0 0 1 0.0 0 2 2 4 2 1 0 1 13
+p490
+aVRussell Westbrook OKC 12/29/2009 OKC @ WAS W 37 11 5 14 35.7 1 2 50.0 0 0 - 3 4 7 10 1 1 2 0 4
+p491
+aVSerge Ibaka OKC 12/29/2009 OKC @ WAS W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 0
+p492
+aVThabo Sefolosha OKC 12/29/2009 OKC @ WAS W 35 10 4 5 80.0 2 2 100.0 0 0 - 1 6 7 2 0 0 1 1 -1
+p493
+aVNick Collison OKC 12/29/2009 OKC @ WAS W 28 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 0 0 1 0 4 18
+p494
+aVJeff Green OKC 12/29/2009 OKC @ WAS W 39 18 8 17 47.1 2 6 33.3 0 0 - 1 3 4 1 2 2 2 1 3
+p495
+aVKevin Durant OKC 12/29/2009 OKC @ WAS W 40 35 12 19 63.2 3 6 50.0 8 10 80.0 0 11 11 4 0 1 5 2 10
+p496
+aVNenad Krstic OKC 12/29/2009 OKC @ WAS W 26 8 4 8 50.0 0 0 - 0 0 - 0 5 5 1 0 0 2 1 4
+p497
+aVJames Harden OKC 12/29/2009 OKC @ WAS W 16 11 3 7 42.9 1 1 100.0 4 6 66.7 0 2 2 1 0 0 1 2 9
+p498
+aVJeff Green OKC 12/28/2009 OKC @ NJN W 16 6 2 5 40.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 2 3 -12
+p499
+aVByron Mullens OKC 12/28/2009 OKC @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p500
+aVKevin Durant OKC 12/28/2009 OKC @ NJN W 40 40 15 22 68.2 0 2 0.0 10 12 83.3 1 4 5 2 3 0 5 1 21
+p501
+aVEric Maynor OKC 12/28/2009 OKC @ NJN W 14 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 0 5
+p502
+aVSerge Ibaka OKC 12/28/2009 OKC @ NJN W 17 6 2 3 66.7 0 0 - 2 3 66.7 4 5 9 1 0 0 0 2 9
+p503
+aVRussell Westbrook OKC 12/28/2009 OKC @ NJN W 37 16 4 12 33.3 0 2 0.0 8 10 80.0 0 2 2 10 2 0 2 1 13
+p504
+aVNick Collison OKC 12/28/2009 OKC @ NJN W 29 11 5 7 71.4 0 1 0.0 1 1 100.0 4 6 10 0 0 1 0 3 25
+p505
+aVNenad Krstic OKC 12/28/2009 OKC @ NJN W 32 19 7 12 58.3 0 0 - 5 6 83.3 1 6 7 0 1 2 1 3 3
+p506
+aVThabo Sefolosha OKC 12/28/2009 OKC @ NJN W 30 0 0 2 0.0 0 0 - 0 0 - 0 1 1 6 1 1 1 2 11
+p507
+aVJames Harden OKC 12/28/2009 OKC @ NJN W 23 3 0 10 0.0 0 4 0.0 3 4 75.0 3 3 6 1 3 1 2 3 7
+p508
+aVNick Collison OKC 12/26/2009 OKC vs. CHA W 26 9 3 5 60.0 0 0 - 3 6 50.0 3 5 8 0 0 1 2 4 0
+p509
+aVKevin Durant OKC 12/26/2009 OKC vs. CHA W 43 30 10 22 45.5 2 4 50.0 8 9 88.9 1 5 6 4 1 1 4 3 17
+p510
+aVThabo Sefolosha OKC 12/26/2009 OKC vs. CHA W 23 3 1 4 25.0 1 3 33.3 0 0 - 1 7 8 1 1 0 1 0 7
+p511
+aVEric Maynor OKC 12/26/2009 OKC vs. CHA W 13 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 1 1 5
+p512
+aVSerge Ibaka OKC 12/26/2009 OKC vs. CHA W 11 0 0 4 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -6
+p513
+aVNenad Krstic OKC 12/26/2009 OKC vs. CHA W 24 13 6 10 60.0 0 0 - 1 1 100.0 3 7 10 2 0 2 1 3 7
+p514
+aVJeff Green OKC 12/26/2009 OKC vs. CHA W 40 6 3 11 27.3 0 2 0.0 0 0 - 0 4 4 1 1 0 1 0 3
+p515
+aVRussell Westbrook OKC 12/26/2009 OKC vs. CHA W 35 22 10 18 55.6 0 1 0.0 2 2 100.0 2 3 5 6 1 0 0 2 2
+p516
+aVJames Harden OKC 12/26/2009 OKC vs. CHA W 25 8 3 6 50.0 1 2 50.0 1 3 33.3 0 4 4 3 2 0 1 2 0
+p517
+aVEric Maynor OKC 12/23/2009 OKC @ PHX W 12 2 1 4 25.0 0 0 - 0 0 - 0 0 0 5 0 0 1 0 7
+p518
+aVJames Harden OKC 12/23/2009 OKC @ PHX W 28 14 3 9 33.3 1 4 25.0 7 7 100.0 1 3 4 1 2 0 2 5 3
+p519
+aVRussell Westbrook OKC 12/23/2009 OKC @ PHX W 35 19 8 17 47.1 0 0 - 3 4 75.0 2 6 8 7 2 0 5 2 0
+p520
+aVSerge Ibaka OKC 12/23/2009 OKC @ PHX W 24 12 6 8 75.0 0 0 - 0 0 - 4 3 7 0 0 1 1 6 1
+p521
+aVNick Collison OKC 12/23/2009 OKC @ PHX W 20 6 3 5 60.0 0 0 - 0 2 0.0 3 2 5 0 0 0 0 6 4
+p522
+aVNenad Krstic OKC 12/23/2009 OKC @ PHX W 17 9 4 8 50.0 0 0 - 1 2 50.0 2 4 6 0 1 0 0 2 0
+p523
+aVJeff Green OKC 12/23/2009 OKC @ PHX W 38 17 7 19 36.8 1 5 20.0 2 2 100.0 4 5 9 0 1 0 0 2 0
+p524
+aVKevin Durant OKC 12/23/2009 OKC @ PHX W 42 38 12 20 60.0 3 4 75.0 11 14 78.6 0 6 6 3 1 0 2 3 1
+p525
+aVThabo Sefolosha OKC 12/23/2009 OKC @ PHX W 24 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 1 0 0 3 4
+p526
+aVKevin Durant OKC 12/22/2009 OKC @ LAL L 41 30 11 19 57.9 1 1 100.0 7 8 87.5 1 2 3 4 1 0 6 6 -1
+p527
+aVNenad Krstic OKC 12/22/2009 OKC @ LAL L 15 4 0 2 0.0 0 0 - 4 4 100.0 0 1 1 1 1 0 1 3 -16
+p528
+aVThabo Sefolosha OKC 12/22/2009 OKC @ LAL L 33 16 6 10 60.0 2 4 50.0 2 2 100.0 2 3 5 3 1 2 0 2 9
+p529
+aVJames Harden OKC 12/22/2009 OKC @ LAL L 26 16 6 14 42.9 2 3 66.7 2 2 100.0 1 1 2 0 0 0 0 3 -2
+p530
+aVSerge Ibaka OKC 12/22/2009 OKC @ LAL L 28 8 4 12 33.3 0 0 - 0 0 - 4 10 14 1 1 1 0 3 10
+p531
+aVRussell Westbrook OKC 12/22/2009 OKC @ LAL L 42 21 9 21 42.9 0 3 0.0 3 4 75.0 4 3 7 13 1 0 2 4 -7
+p532
+aVJeff Green OKC 12/22/2009 OKC @ LAL L 43 12 5 12 41.7 1 3 33.3 1 2 50.0 2 5 7 4 2 1 4 3 -1
+p533
+aVNick Collison OKC 12/22/2009 OKC @ LAL L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 6 -7
+p534
+aVKevin Durant OKC 12/19/2009 OKC @ HOU L 36 13 6 18 33.3 1 5 20.0 0 0 - 0 6 6 2 1 1 2 3 -10
+p535
+aVThabo Sefolosha OKC 12/19/2009 OKC @ HOU L 23 4 2 5 40.0 0 0 - 0 0 - 1 7 8 1 2 0 2 1 -14
+p536
+aVJeff Green OKC 12/19/2009 OKC @ HOU L 39 21 9 16 56.3 1 2 50.0 2 2 100.0 2 6 8 3 0 0 2 2 -13
+p537
+aVJames Harden OKC 12/19/2009 OKC @ HOU L 32 15 5 11 45.5 0 3 0.0 5 5 100.0 2 1 3 0 0 1 0 4 8
+p538
+aVNenad Krstic OKC 12/19/2009 OKC @ HOU L 21 6 2 7 28.6 0 0 - 2 2 100.0 2 3 5 2 0 0 0 2 -15
+p539
+aVNick Collison OKC 12/19/2009 OKC @ HOU L 18 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 0 1 1 5 16
+p540
+aVShaun Livingston OKC 12/19/2009 OKC @ HOU L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p541
+aVRussell Westbrook OKC 12/19/2009 OKC @ HOU L 41 15 4 14 28.6 0 2 0.0 7 10 70.0 2 4 6 7 1 0 2 3 -4
+p542
+aVSerge Ibaka OKC 12/19/2009 OKC @ HOU L 23 10 5 5 100.0 0 0 - 0 0 - 1 7 8 0 0 2 1 2 8
+p543
+aVShaun Livingston OKC 12/18/2009 OKC vs. DET W 20 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 2 0 2 7
+p544
+aVJames Harden OKC 12/18/2009 OKC vs. DET W 26 14 5 11 45.5 2 3 66.7 2 2 100.0 1 2 3 7 1 1 1 4 19
+p545
+aVSerge Ibaka OKC 12/18/2009 OKC vs. DET W 23 12 6 9 66.7 0 0 - 0 0 - 3 2 5 0 1 1 1 0 17
+p546
+aVThabo Sefolosha OKC 12/18/2009 OKC vs. DET W 20 9 4 5 80.0 1 1 100.0 0 0 - 2 2 4 2 0 1 4 2 -9
+p547
+aVKevin Durant OKC 12/18/2009 OKC vs. DET W 39 27 7 17 41.2 2 6 33.3 11 15 73.3 1 5 6 1 0 1 3 4 4
+p548
+aVJeff Green OKC 12/18/2009 OKC vs. DET W 40 19 6 13 46.2 2 4 50.0 5 7 71.4 0 2 2 4 2 1 1 1 10
+p549
+aVNick Collison OKC 12/18/2009 OKC vs. DET W 26 4 2 3 66.7 0 0 - 0 0 - 3 4 7 1 2 0 0 2 7
+p550
+aVRussell Westbrook OKC 12/18/2009 OKC vs. DET W 30 14 2 7 28.6 1 1 100.0 9 12 75.0 1 2 3 5 0 0 0 1 5
+p551
+aVNenad Krstic OKC 12/18/2009 OKC vs. DET W 16 10 5 9 55.6 0 0 - 0 0 - 3 5 8 1 0 3 2 0 -5
+p552
+aVThabo Sefolosha OKC 12/16/2009 OKC vs. DAL L 19 9 4 5 80.0 1 2 50.0 0 1 0.0 0 1 1 2 1 0 3 1 1
+p553
+aVJames Harden OKC 12/16/2009 OKC vs. DAL L 29 12 3 9 33.3 0 4 0.0 6 9 66.7 2 4 6 1 1 0 3 2 -15
+p554
+aVRussell Westbrook OKC 12/16/2009 OKC vs. DAL L 33 16 6 19 31.6 1 3 33.3 3 4 75.0 3 3 6 5 1 1 1 4 -17
+p555
+aVNenad Krstic OKC 12/16/2009 OKC vs. DAL L 24 8 4 6 66.7 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -8
+p556
+aVKevin Durant OKC 12/16/2009 OKC vs. DAL L 40 12 4 18 22.2 1 5 20.0 3 4 75.0 1 3 4 2 0 0 4 1 -19
+p557
+aVJeff Green OKC 12/16/2009 OKC vs. DAL L 37 15 7 11 63.6 1 2 50.0 0 0 - 1 10 11 3 0 0 1 2 -11
+p558
+aVNick Collison OKC 12/16/2009 OKC vs. DAL L 23 8 3 6 50.0 0 0 - 2 4 50.0 3 3 6 0 1 1 1 3 -6
+p559
+aVSerge Ibaka OKC 12/16/2009 OKC vs. DAL L 14 6 3 4 75.0 0 0 - 0 1 0.0 2 4 6 0 0 2 1 0 -3
+p560
+aVShaun Livingston OKC 12/16/2009 OKC vs. DAL L 22 0 0 3 0.0 0 1 0.0 0 0 - 2 1 3 3 2 0 0 3 8
+p561
+aVNick Collison OKC 12/14/2009 OKC @ DEN L 27 14 5 8 62.5 0 1 0.0 4 4 100.0 0 5 5 0 1 0 0 3 0
+p562
+aVSerge Ibaka OKC 12/14/2009 OKC @ DEN L 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 2 1 3 -14
+p563
+aVDJ White OKC 12/14/2009 OKC @ DEN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 3 4
+p564
+aVNenad Krstic OKC 12/14/2009 OKC @ DEN L 19 1 0 5 0.0 0 0 - 1 2 50.0 2 2 4 2 1 2 1 4 -6
+p565
+aVThabo Sefolosha OKC 12/14/2009 OKC @ DEN L 24 11 4 8 50.0 1 1 100.0 2 4 50.0 1 1 2 1 2 1 2 2 -10
+p566
+aVJeff Green OKC 12/14/2009 OKC @ DEN L 37 8 3 9 33.3 1 3 33.3 1 1 100.0 1 6 7 3 0 3 1 1 -7
+p567
+aVJames Harden OKC 12/14/2009 OKC @ DEN L 24 9 3 7 42.9 1 1 100.0 2 2 100.0 2 1 3 5 0 0 4 4 1
+p568
+aVRussell Westbrook OKC 12/14/2009 OKC @ DEN L 38 14 5 15 33.3 0 2 0.0 4 5 80.0 3 3 6 6 0 0 4 4 -11
+p569
+aVShaun Livingston OKC 12/14/2009 OKC @ DEN L 10 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 1 0 1 1 2
+p570
+aVKevin Durant OKC 12/14/2009 OKC @ DEN L 39 32 9 20 45.0 2 4 50.0 12 13 92.3 1 9 10 3 2 1 5 4 -4
+p571
+aVNenad Krstic OKC 12/13/2009 OKC vs. CLE L 31 6 3 8 37.5 0 0 - 0 0 - 2 6 8 2 1 1 0 2 -7
+p572
+aVThabo Sefolosha OKC 12/13/2009 OKC vs. CLE L 28 0 0 4 0.0 0 2 0.0 0 0 - 1 3 4 0 2 1 1 2 -4
+p573
+aVJeff Green OKC 12/13/2009 OKC vs. CLE L 40 26 7 13 53.8 2 5 40.0 10 11 90.9 1 3 4 1 0 1 0 0 -3
+p574
+aVSerge Ibaka OKC 12/13/2009 OKC vs. CLE L 12 8 4 4 100.0 0 0 - 0 0 - 0 4 4 0 0 0 2 2 -8
+p575
+aVShaun Livingston OKC 12/13/2009 OKC vs. CLE L 14 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 1 0 -9
+p576
+aVNick Collison OKC 12/13/2009 OKC vs. CLE L 17 3 0 0 - 0 0 - 3 4 75.0 0 2 2 1 0 0 1 3 -6
+p577
+aVJames Harden OKC 12/13/2009 OKC vs. CLE L 21 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 2 0 0 2 2 -7
+p578
+aVKevin Durant OKC 12/13/2009 OKC vs. CLE L 42 29 9 19 47.4 2 6 33.3 9 10 90.0 0 5 5 2 4 1 7 2 -17
+p579
+aVRussell Westbrook OKC 12/13/2009 OKC vs. CLE L 34 10 4 15 26.7 0 3 0.0 2 2 100.0 0 3 3 5 0 0 2 4 -4
+p580
+aVShaun Livingston OKC 12/11/2009 OKC @ MEM W 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p581
+aVRussell Westbrook OKC 12/11/2009 OKC @ MEM W 36 23 9 16 56.3 2 5 40.0 3 5 60.0 1 5 6 7 1 1 3 1 3
+p582
+aVNick Collison OKC 12/11/2009 OKC @ MEM W 18 8 4 8 50.0 0 0 - 0 0 - 4 3 7 1 1 1 1 4 5
+p583
+aVKevin Durant OKC 12/11/2009 OKC @ MEM W 41 32 10 22 45.5 1 7 14.3 11 12 91.7 3 7 10 4 0 2 2 2 7
+p584
+aVNenad Krstic OKC 12/11/2009 OKC @ MEM W 28 15 7 10 70.0 0 0 - 1 1 100.0 2 6 8 0 0 2 1 5 9
+p585
+aVThabo Sefolosha OKC 12/11/2009 OKC @ MEM W 31 7 2 4 50.0 0 1 0.0 3 4 75.0 1 5 6 2 1 2 2 2 3
+p586
+aVJames Harden OKC 12/11/2009 OKC @ MEM W 23 6 2 11 18.2 0 2 0.0 2 2 100.0 2 3 5 4 2 1 1 1 5
+p587
+aVJeff Green OKC 12/11/2009 OKC @ MEM W 42 11 5 12 41.7 1 4 25.0 0 0 - 1 3 4 2 1 0 2 4 -2
+p588
+aVSerge Ibaka OKC 12/11/2009 OKC @ MEM W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 0 1 8
+p589
+aVShaun Livingston OKC 12/07/2009 OKC vs. GSW W 18 0 0 1 0.0 0 0 - 0 0 - 0 7 7 3 2 0 2 1 8
+p590
+aVJames Harden OKC 12/07/2009 OKC vs. GSW W 30 26 6 13 46.2 1 4 25.0 13 14 92.9 2 7 9 5 2 0 0 2 17
+p591
+aVNenad Krstic OKC 12/07/2009 OKC vs. GSW W 13 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 1 1 0 0 3 -7
+p592
+aVThabo Sefolosha OKC 12/07/2009 OKC vs. GSW W 30 3 1 3 33.3 0 1 0.0 1 2 50.0 0 3 3 0 0 1 1 2 2
+p593
+aVJeff Green OKC 12/07/2009 OKC vs. GSW W 39 21 9 16 56.3 1 2 50.0 2 4 50.0 7 6 13 3 0 1 3 1 17
+p594
+aVRussell Westbrook OKC 12/07/2009 OKC vs. GSW W 38 12 4 17 23.5 1 3 33.3 3 4 75.0 2 5 7 3 1 0 4 2 10
+p595
+aVKevin Durant OKC 12/07/2009 OKC vs. GSW W 45 28 9 24 37.5 2 6 33.3 8 8 100.0 0 9 9 4 3 1 6 3 21
+p596
+aVNick Collison OKC 12/07/2009 OKC vs. GSW W 28 8 4 5 80.0 0 0 - 0 1 0.0 2 4 6 2 1 0 2 5 12
+p597
+aVRussell Westbrook OKC 12/04/2009 OKC vs. BOS L 27 15 6 16 37.5 1 3 33.3 2 4 50.0 1 2 3 4 0 0 5 3 -13
+p598
+aVJames Harden OKC 12/04/2009 OKC vs. BOS L 23 6 1 6 16.7 0 3 0.0 4 6 66.7 0 5 5 1 1 0 1 1 3
+p599
+aVMike Wilks OKC 12/04/2009 OKC vs. BOS L 21 7 2 4 50.0 1 2 50.0 2 2 100.0 0 0 0 2 0 0 3 2 -5
+p600
+aVThabo Sefolosha OKC 12/04/2009 OKC vs. BOS L 32 0 0 3 0.0 0 0 - 0 0 - 0 5 5 3 3 0 3 0 -22
+p601
+aVJeff Green OKC 12/04/2009 OKC vs. BOS L 37 6 3 10 30.0 0 5 0.0 0 0 - 0 2 2 1 1 1 0 4 -21
+p602
+aVEtan Thomas OKC 12/04/2009 OKC vs. BOS L 13 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 -8
+p603
+aVSerge Ibaka OKC 12/04/2009 OKC vs. BOS L 24 6 3 5 60.0 0 0 - 0 1 0.0 1 1 2 0 1 1 1 2 2
+p604
+aVShaun Livingston OKC 12/04/2009 OKC vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p605
+aVKevin Durant OKC 12/04/2009 OKC vs. BOS L 38 36 13 19 68.4 1 4 25.0 9 9 100.0 1 4 5 0 2 0 3 4 -26
+p606
+aVNick Collison OKC 12/04/2009 OKC vs. BOS L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 4 -12
+p607
+aVDJ White OKC 12/04/2009 OKC vs. BOS L 6 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 6
+p608
+aVMike Wilks OKC 12/02/2009 OKC vs. PHI W 14 5 2 4 50.0 1 1 100.0 0 2 0.0 1 2 3 1 0 0 0 0 -4
+p609
+aVSerge Ibaka OKC 12/02/2009 OKC vs. PHI W 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -3
+p610
+aVRussell Westbrook OKC 12/02/2009 OKC vs. PHI W 34 7 1 11 9.1 0 3 0.0 5 6 83.3 2 3 5 15 2 0 2 3 15
+p611
+aVJames Harden OKC 12/02/2009 OKC vs. PHI W 27 9 3 7 42.9 1 3 33.3 2 2 100.0 3 2 5 1 0 0 3 1 12
+p612
+aVNenad Krstic OKC 12/02/2009 OKC vs. PHI W 25 12 5 6 83.3 0 0 - 2 2 100.0 2 2 4 0 0 1 1 3 2
+p613
+aVJeff Green OKC 12/02/2009 OKC vs. PHI W 41 19 8 16 50.0 3 6 50.0 0 1 0.0 3 3 6 4 2 1 1 3 12
+p614
+aVNick Collison OKC 12/02/2009 OKC vs. PHI W 21 18 8 9 88.9 0 1 0.0 2 2 100.0 5 2 7 0 1 1 0 2 11
+p615
+aVThabo Sefolosha OKC 12/02/2009 OKC vs. PHI W 28 12 5 9 55.6 2 3 66.7 0 0 - 1 5 6 2 1 0 3 1 6
+p616
+aVKevin Durant OKC 12/02/2009 OKC vs. PHI W 44 33 10 21 47.6 5 7 71.4 8 8 100.0 0 5 5 2 3 1 3 1 4
+p617
+aVJames Harden OKC 11/29/2009 OKC vs. HOU L 19 5 1 4 25.0 0 1 0.0 3 4 75.0 0 3 3 0 2 0 1 3 -12
+p618
+aVDJ White OKC 11/29/2009 OKC vs. HOU L 3 8 3 3 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 5
+p619
+aVKevin Durant OKC 11/29/2009 OKC vs. HOU L 45 25 10 19 52.6 0 3 0.0 5 5 100.0 2 7 9 6 2 3 6 3 -9
+p620
+aVRussell Westbrook OKC 11/29/2009 OKC vs. HOU L 40 20 8 16 50.0 0 2 0.0 4 5 80.0 1 1 2 5 1 2 4 1 -4
+p621
+aVSerge Ibaka OKC 11/29/2009 OKC vs. HOU L 23 7 2 6 33.3 1 1 100.0 2 2 100.0 0 2 2 0 0 2 0 4 -14
+p622
+aVJeff Green OKC 11/29/2009 OKC vs. HOU L 40 12 6 14 42.9 0 5 0.0 0 0 - 1 6 7 3 1 2 0 4 -2
+p623
+aVEtan Thomas OKC 11/29/2009 OKC vs. HOU L 17 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 1 0 3 1 2
+p624
+aVMike Wilks OKC 11/29/2009 OKC vs. HOU L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -7
+p625
+aVThabo Sefolosha OKC 11/29/2009 OKC vs. HOU L 38 6 2 7 28.6 0 3 0.0 2 2 100.0 3 3 6 4 1 0 4 2 -4
+p626
+aVNenad Krstic OKC 11/27/2009 OKC vs. MIL W 24 4 2 5 40.0 0 0 - 0 0 - 0 6 6 1 0 3 0 1 20
+p627
+aVJames Harden OKC 11/27/2009 OKC vs. MIL W 27 15 6 7 85.7 3 3 100.0 0 2 0.0 1 1 2 2 1 0 2 3 1
+p628
+aVKevin Durant OKC 11/27/2009 OKC vs. MIL W 40 33 10 21 47.6 1 3 33.3 12 14 85.7 4 8 12 5 3 0 3 4 31
+p629
+aVSerge Ibaka OKC 11/27/2009 OKC vs. MIL W 19 2 1 6 16.7 0 0 - 0 1 0.0 3 4 7 0 0 0 1 2 -14
+p630
+aVJeff Green OKC 11/27/2009 OKC vs. MIL W 41 17 6 12 50.0 0 3 0.0 5 7 71.4 2 4 6 1 1 1 1 3 24
+p631
+aVDJ White OKC 11/27/2009 OKC vs. MIL W 10 2 1 5 20.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -15
+p632
+aVRussell Westbrook OKC 11/27/2009 OKC vs. MIL W 36 20 6 15 40.0 1 3 33.3 7 8 87.5 0 6 6 7 0 2 2 1 30
+p633
+aVMike Wilks OKC 11/27/2009 OKC vs. MIL W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -13
+p634
+aVThabo Sefolosha OKC 11/27/2009 OKC vs. MIL W 33 13 5 7 71.4 1 2 50.0 2 3 66.7 2 9 11 2 1 0 2 3 26
+p635
+aVKevin Durant OKC 11/24/2009 OKC @ UTA W 42 28 11 22 50.0 2 4 50.0 4 4 100.0 2 3 5 8 1 1 2 2 7
+p636
+aVEtan Thomas OKC 11/24/2009 OKC @ UTA W 9 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 1 1 0 2
+p637
+aVThabo Sefolosha OKC 11/24/2009 OKC @ UTA W 36 4 1 6 16.7 0 2 0.0 2 2 100.0 0 2 2 3 2 0 0 1 4
+p638
+aVNenad Krstic OKC 11/24/2009 OKC @ UTA W 26 8 4 10 40.0 0 0 - 0 0 - 1 5 6 4 1 0 3 6 6
+p639
+aVJeff Green OKC 11/24/2009 OKC @ UTA W 39 19 6 13 46.2 3 7 42.9 4 4 100.0 0 6 6 5 4 0 3 2 17
+p640
+aVSerge Ibaka OKC 11/24/2009 OKC @ UTA W 21 7 3 4 75.0 0 0 - 1 2 50.0 1 4 5 0 1 1 0 3 -2
+p641
+aVJames Harden OKC 11/24/2009 OKC @ UTA W 20 10 4 5 80.0 1 2 50.0 1 1 100.0 0 2 2 1 0 0 0 1 6
+p642
+aVKyle Weaver OKC 11/24/2009 OKC @ UTA W 15 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 1 0 3 2 1 5
+p643
+aVRussell Westbrook OKC 11/24/2009 OKC @ UTA W 33 17 4 10 40.0 1 2 50.0 8 10 80.0 2 1 3 3 0 0 5 2 5
+p644
+aVRussell Westbrook OKC 11/22/2009 OKC @ LAL L 42 14 5 16 31.3 0 3 0.0 4 6 66.7 1 6 7 7 0 3 6 3 -11
+p645
+aVRyan Bowen OKC 11/22/2009 OKC @ LAL L 8 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 2 10
+p646
+aVThabo Sefolosha OKC 11/22/2009 OKC @ LAL L 30 6 3 5 60.0 0 1 0.0 0 0 - 0 6 6 1 0 1 3 3 -27
+p647
+aVJames Harden OKC 11/22/2009 OKC @ LAL L 30 10 2 15 13.3 0 10 0.0 6 6 100.0 0 3 3 6 3 2 3 3 -4
+p648
+aVNenad Krstic OKC 11/22/2009 OKC @ LAL L 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -16
+p649
+aVJeff Green OKC 11/22/2009 OKC @ LAL L 31 4 1 6 16.7 1 4 25.0 1 2 50.0 2 4 6 3 1 0 3 0 -26
+p650
+aVKevin Durant OKC 11/22/2009 OKC @ LAL L 23 19 8 20 40.0 2 5 40.0 1 1 100.0 2 4 6 2 0 2 3 3 -7
+p651
+aVSerge Ibaka OKC 11/22/2009 OKC @ LAL L 32 11 4 12 33.3 0 0 - 3 4 75.0 7 6 13 0 0 5 0 4 3
+p652
+aVEtan Thomas OKC 11/22/2009 OKC @ LAL L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 1 1 0 -8
+p653
+aVKevin Ollie OKC 11/22/2009 OKC @ LAL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p654
+aVDJ White OKC 11/22/2009 OKC @ LAL L 15 12 6 7 85.7 0 0 - 0 0 - 2 1 3 1 1 2 0 0 11
+p655
+aVThabo Sefolosha OKC 11/20/2009 OKC vs. WAS W 43 16 7 15 46.7 2 3 66.7 0 0 - 2 2 4 1 1 2 0 1 30
+p656
+aVNenad Krstic OKC 11/20/2009 OKC vs. WAS W 21 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 1 1 1 4 7
+p657
+aVRussell Westbrook OKC 11/20/2009 OKC vs. WAS W 34 26 6 12 50.0 3 6 50.0 11 12 91.7 2 2 4 7 2 0 6 2 19
+p658
+aVJeff Green OKC 11/20/2009 OKC vs. WAS W 39 19 8 15 53.3 1 2 50.0 2 2 100.0 5 9 14 2 1 0 1 3 17
+p659
+aVNick Collison OKC 11/20/2009 OKC vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p660
+aVKyle Weaver OKC 11/20/2009 OKC vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p661
+aVJames Harden OKC 11/20/2009 OKC vs. WAS W 26 25 8 11 72.7 4 6 66.7 5 6 83.3 3 1 4 1 4 0 2 5 4
+p662
+aVEtan Thomas OKC 11/20/2009 OKC vs. WAS W 17 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 1
+p663
+aVKevin Ollie OKC 11/20/2009 OKC vs. WAS W 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 2 0 1 2 0
+p664
+aVKevin Durant OKC 11/20/2009 OKC vs. WAS W 42 35 12 21 57.1 1 4 25.0 10 13 76.9 0 6 6 6 3 1 5 4 20
+p665
+aVKevin Durant OKC 11/18/2009 OKC @ ORL L 26 12 4 12 33.3 0 4 0.0 4 7 57.1 0 3 3 1 1 0 5 1 -18
+p666
+aVNick Collison OKC 11/18/2009 OKC @ ORL L 18 2 1 5 20.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -6
+p667
+aVJames Harden OKC 11/18/2009 OKC @ ORL L 31 24 7 14 50.0 6 7 85.7 4 4 100.0 0 3 3 3 1 0 1 2 5
+p668
+aVRussell Westbrook OKC 11/18/2009 OKC @ ORL L 27 10 3 11 27.3 0 2 0.0 4 4 100.0 1 1 2 3 3 0 2 2 -17
+p669
+aVEtan Thomas OKC 11/18/2009 OKC @ ORL L 8 4 1 2 50.0 0 0 - 2 3 66.7 0 0 0 0 0 0 0 1 -6
+p670
+aVThabo Sefolosha OKC 11/18/2009 OKC @ ORL L 24 2 1 4 25.0 0 1 0.0 0 0 - 1 6 7 1 0 1 2 1 -23
+p671
+aVSerge Ibaka OKC 11/18/2009 OKC @ ORL L 23 6 2 3 66.7 0 0 - 2 3 66.7 0 9 9 0 1 1 1 5 -2
+p672
+aVKevin Ollie OKC 11/18/2009 OKC @ ORL L 19 2 1 3 33.3 0 0 - 0 0 - 0 1 1 4 0 0 0 0 7
+p673
+aVKyle Weaver OKC 11/18/2009 OKC @ ORL L 15 11 4 6 66.7 1 3 33.3 2 2 100.0 0 2 2 4 2 0 1 2 12
+p674
+aVDJ White OKC 11/18/2009 OKC @ ORL L 13 8 4 5 80.0 0 0 - 0 0 - 0 4 4 0 2 0 0 2 16
+p675
+aVNenad Krstic OKC 11/18/2009 OKC @ ORL L 11 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -13
+p676
+aVJeff Green OKC 11/18/2009 OKC @ ORL L 26 11 5 13 38.5 1 4 25.0 0 0 - 1 4 5 2 0 1 0 1 -25
+p677
+aVKevin Ollie OKC 11/17/2009 OKC @ MIA W 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 3 0 0 0 9
+p678
+aVJames Harden OKC 11/17/2009 OKC @ MIA W 14 5 1 3 33.3 1 3 33.3 2 2 100.0 0 2 2 0 0 0 2 4 6
+p679
+aVRussell Westbrook OKC 11/17/2009 OKC @ MIA W 33 24 9 13 69.2 2 3 66.7 4 4 100.0 0 1 1 7 1 1 2 3 4
+p680
+aVSerge Ibaka OKC 11/17/2009 OKC @ MIA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p681
+aVEtan Thomas OKC 11/17/2009 OKC @ MIA W 16 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 1 1 1 2 5
+p682
+aVThabo Sefolosha OKC 11/17/2009 OKC @ MIA W 35 2 1 6 16.7 0 2 0.0 0 0 - 2 7 9 4 4 0 1 3 7
+p683
+aVNenad Krstic OKC 11/17/2009 OKC @ MIA W 30 10 5 7 71.4 0 0 - 0 0 - 3 5 8 0 0 0 0 4 11
+p684
+aVKevin Durant OKC 11/17/2009 OKC @ MIA W 40 32 11 23 47.8 1 2 50.0 9 9 100.0 1 8 9 5 1 1 4 2 16
+p685
+aVJeff Green OKC 11/17/2009 OKC @ MIA W 32 13 4 14 28.6 1 4 25.0 4 4 100.0 0 2 2 2 1 0 1 1 -1
+p686
+aVNick Collison OKC 11/17/2009 OKC @ MIA W 24 10 4 5 80.0 0 0 - 2 3 66.7 3 3 6 0 0 0 0 5 11
+p687
+aVNick Collison OKC 11/15/2009 OKC vs. LAC L 27 4 2 3 66.7 0 0 - 0 0 - 2 5 7 0 1 0 0 6 5
+p688
+aVSerge Ibaka OKC 11/15/2009 OKC vs. LAC L 3 0 0 0 - 0 0 - 0 2 0.0 1 0 1 0 0 0 1 0 -2
+p689
+aVKevin Ollie OKC 11/15/2009 OKC vs. LAC L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p690
+aVJeff Green OKC 11/15/2009 OKC vs. LAC L 21 7 3 7 42.9 0 2 0.0 1 1 100.0 1 0 1 0 0 0 2 4 -17
+p691
+aVNenad Krstic OKC 11/15/2009 OKC vs. LAC L 30 10 5 9 55.6 0 0 - 0 0 - 3 2 5 1 1 0 1 3 0
+p692
+aVKevin Durant OKC 11/15/2009 OKC vs. LAC L 44 40 14 25 56.0 2 4 50.0 10 11 90.9 4 4 8 1 1 1 3 2 -2
+p693
+aVRussell Westbrook OKC 11/15/2009 OKC vs. LAC L 37 17 5 17 29.4 1 4 25.0 6 6 100.0 2 7 9 7 2 0 3 1 -3
+p694
+aVJames Harden OKC 11/15/2009 OKC vs. LAC L 18 4 0 8 0.0 0 5 0.0 4 4 100.0 1 2 3 2 1 0 2 1 -9
+p695
+aVThabo Sefolosha OKC 11/15/2009 OKC vs. LAC L 30 4 1 9 11.1 0 5 0.0 2 3 66.7 1 7 8 2 1 0 0 4 1
+p696
+aVEtan Thomas OKC 11/15/2009 OKC vs. LAC L 18 3 1 4 25.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 3 -8
+p697
+aVEtan Thomas OKC 11/14/2009 OKC @ SAS W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 1
+p698
+aVNick Collison OKC 11/14/2009 OKC @ SAS W 13 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 0 2 1 1 -6
+p699
+aVThabo Sefolosha OKC 11/14/2009 OKC @ SAS W 41 7 3 6 50.0 0 2 0.0 1 2 50.0 0 5 5 1 4 1 2 1 2
+p700
+aVRussell Westbrook OKC 11/14/2009 OKC @ SAS W 35 19 7 13 53.8 1 1 100.0 4 6 66.7 1 4 5 11 0 0 0 4 0
+p701
+aVKevin Ollie OKC 11/14/2009 OKC @ SAS W 13 2 0 0 - 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 3
+p702
+aVJeff Green OKC 11/14/2009 OKC @ SAS W 39 21 8 19 42.1 1 6 16.7 4 4 100.0 2 9 11 0 0 2 2 2 -9
+p703
+aVNenad Krstic OKC 11/14/2009 OKC @ SAS W 31 11 5 11 45.5 0 0 - 1 2 50.0 4 3 7 0 2 3 1 4 12
+p704
+aVKevin Durant OKC 11/14/2009 OKC @ SAS W 42 25 6 18 33.3 0 2 0.0 13 15 86.7 1 4 5 1 1 1 4 0 15
+p705
+aVJames Harden OKC 11/14/2009 OKC @ SAS W 20 8 3 6 50.0 0 1 0.0 2 3 66.7 1 1 2 1 1 1 2 4 -3
+p706
+aVThabo Sefolosha OKC 11/11/2009 OKC @ LAC W 24 2 1 3 33.3 0 0 - 0 0 - 2 6 8 1 1 0 0 1 -5
+p707
+aVJeff Green OKC 11/11/2009 OKC @ LAC W 30 13 5 13 38.5 2 6 33.3 1 2 50.0 1 4 5 0 0 1 3 2 7
+p708
+aVNick Collison OKC 11/11/2009 OKC @ LAC W 27 4 2 3 66.7 0 0 - 0 0 - 2 1 3 2 0 2 1 3 7
+p709
+aVJames Harden OKC 11/11/2009 OKC @ LAC W 24 7 3 8 37.5 0 3 0.0 1 2 50.0 0 5 5 8 1 1 2 1 9
+p710
+aVKevin Durant OKC 11/11/2009 OKC @ LAC W 36 30 12 20 60.0 1 3 33.3 5 8 62.5 1 9 10 4 2 1 4 2 -2
+p711
+aVEtan Thomas OKC 11/11/2009 OKC @ LAC W 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -2
+p712
+aVNenad Krstic OKC 11/11/2009 OKC @ LAC W 29 10 5 12 41.7 0 0 - 0 0 - 1 3 4 1 0 0 0 2 -4
+p713
+aVRussell Westbrook OKC 11/11/2009 OKC @ LAC W 22 2 1 11 9.1 0 0 - 0 0 - 1 1 2 3 0 0 2 3 -8
+p714
+aVKevin Ollie OKC 11/11/2009 OKC @ LAC W 26 11 4 7 57.1 0 1 0.0 3 3 100.0 1 4 5 1 1 0 0 2 12
+p715
+aVSerge Ibaka OKC 11/11/2009 OKC @ LAC W 16 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 1 6 6
+p716
+aVRussell Westbrook OKC 11/10/2009 OKC @ SAC L 37 9 3 13 23.1 1 2 50.0 2 4 50.0 1 4 5 6 2 0 1 3 5
+p717
+aVKevin Ollie OKC 11/10/2009 OKC @ SAC L 11 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -8
+p718
+aVNick Collison OKC 11/10/2009 OKC @ SAC L 16 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 3 4 -14
+p719
+aVThabo Sefolosha OKC 11/10/2009 OKC @ SAC L 35 2 1 7 14.3 0 3 0.0 0 0 - 2 4 6 6 3 4 2 4 2
+p720
+aVJeff Green OKC 11/10/2009 OKC @ SAC L 36 19 6 12 50.0 1 1 100.0 6 8 75.0 2 3 5 0 3 2 2 3 -4
+p721
+aVKevin Durant OKC 11/10/2009 OKC @ SAC L 39 37 9 23 39.1 1 6 16.7 18 18 100.0 1 4 5 2 3 0 4 3 -7
+p722
+aVJames Harden OKC 11/10/2009 OKC @ SAC L 19 9 3 7 42.9 3 5 60.0 0 0 - 0 4 4 1 1 1 1 3 1
+p723
+aVEtan Thomas OKC 11/10/2009 OKC @ SAC L 15 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 9
+p724
+aVSerge Ibaka OKC 11/10/2009 OKC @ SAC L 2 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 7
+p725
+aVNenad Krstic OKC 11/10/2009 OKC @ SAC L 31 12 5 10 50.0 0 0 - 2 3 66.7 2 6 8 0 0 0 1 4 -6
+p726
+aVJames Harden OKC 11/08/2009 OKC vs. ORL W 19 5 2 5 40.0 0 1 0.0 1 2 50.0 1 3 4 5 2 0 0 3 0
+p727
+aVKevin Ollie OKC 11/08/2009 OKC vs. ORL W 18 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -11
+p728
+aVThabo Sefolosha OKC 11/08/2009 OKC vs. ORL W 33 13 4 6 66.7 3 3 100.0 2 2 100.0 1 9 10 2 2 1 1 1 27
+p729
+aVJeff Green OKC 11/08/2009 OKC vs. ORL W 22 9 4 7 57.1 1 2 50.0 0 0 - 0 4 4 0 0 1 1 6 15
+p730
+aVDJ White OKC 11/08/2009 OKC vs. ORL W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -2
+p731
+aVKevin Durant OKC 11/08/2009 OKC vs. ORL W 32 28 11 17 64.7 2 6 33.3 4 4 100.0 0 4 4 5 3 0 2 2 35
+p732
+aVNenad Krstic OKC 11/08/2009 OKC vs. ORL W 20 14 7 12 58.3 0 0 - 0 0 - 0 3 3 1 0 0 1 3 18
+p733
+aVNick Collison OKC 11/08/2009 OKC vs. ORL W 18 2 1 1 100.0 0 0 - 0 0 - 0 4 4 2 0 0 0 3 19
+p734
+aVEtan Thomas OKC 11/08/2009 OKC vs. ORL W 23 8 3 6 50.0 0 0 - 2 3 66.7 0 6 6 0 0 0 2 5 1
+p735
+aVRussell Westbrook OKC 11/08/2009 OKC vs. ORL W 35 17 5 12 41.7 3 4 75.0 4 4 100.0 2 3 5 10 0 0 5 4 41
+p736
+aVShaun Livingston OKC 11/08/2009 OKC vs. ORL W 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 2 1 -3
+p737
+aVNick Collison OKC 11/06/2009 OKC @ HOU L 22 9 4 6 66.7 0 0 - 1 2 50.0 2 6 8 0 1 2 0 3 0
+p738
+aVJeff Green OKC 11/06/2009 OKC @ HOU L 32 6 3 15 20.0 0 4 0.0 0 2 0.0 1 4 5 1 2 2 1 2 -9
+p739
+aVJames Harden OKC 11/06/2009 OKC @ HOU L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -8
+p740
+aVEtan Thomas OKC 11/06/2009 OKC @ HOU L 12 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 1 2 2 -10
+p741
+aVDJ White OKC 11/06/2009 OKC @ HOU L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p742
+aVNenad Krstic OKC 11/06/2009 OKC @ HOU L 20 3 1 8 12.5 0 0 - 1 2 50.0 2 4 6 1 1 1 0 1 -3
+p743
+aVThabo Sefolosha OKC 11/06/2009 OKC @ HOU L 30 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 0 1 2 3 -3
+p744
+aVShaun Livingston OKC 11/06/2009 OKC @ HOU L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p745
+aVKevin Ollie OKC 11/06/2009 OKC @ HOU L 14 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 -2
+p746
+aVRussell Westbrook OKC 11/06/2009 OKC @ HOU L 41 33 14 25 56.0 1 3 33.3 4 4 100.0 3 2 5 7 1 0 4 2 -9
+p747
+aVKevin Durant OKC 11/06/2009 OKC @ HOU L 44 27 11 22 50.0 1 1 100.0 4 5 80.0 1 8 9 1 3 1 3 2 -8
+p748
+aVNenad Krstic OKC 11/03/2009 OKC vs. LAL L 18 6 3 8 37.5 0 0 - 0 0 - 1 0 1 0 2 0 1 3 -7
+p749
+aVJames Harden OKC 11/03/2009 OKC vs. LAL L 17 9 3 9 33.3 1 2 50.0 2 2 100.0 0 1 1 3 1 0 0 2 16
+p750
+aVThabo Sefolosha OKC 11/03/2009 OKC vs. LAL L 36 12 5 9 55.6 2 5 40.0 0 0 - 1 3 4 1 4 0 1 3 -19
+p751
+aVJeff Green OKC 11/03/2009 OKC vs. LAL L 45 18 6 12 50.0 3 5 60.0 3 4 75.0 1 4 5 3 2 2 3 4 -13
+p752
+aVKevin Durant OKC 11/03/2009 OKC vs. LAL L 45 28 10 24 41.7 0 8 0.0 8 8 100.0 3 1 4 5 1 0 7 1 -1
+p753
+aVNick Collison OKC 11/03/2009 OKC vs. LAL L 16 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 2 3 2 8
+p754
+aVRussell Westbrook OKC 11/03/2009 OKC vs. LAL L 34 12 5 12 41.7 0 3 0.0 2 3 66.7 1 5 6 7 2 0 6 3 -9
+p755
+aVEtan Thomas OKC 11/03/2009 OKC vs. LAL L 35 9 4 7 57.1 0 0 - 1 2 50.0 3 8 11 0 0 3 0 4 4
+p756
+aVKevin Ollie OKC 11/03/2009 OKC vs. LAL L 19 4 2 6 33.3 0 0 - 0 0 - 1 1 2 4 2 0 0 1 6
+p757
+aVJames Harden OKC 11/01/2009 OKC vs. POR L 18 6 2 9 22.2 2 3 66.7 0 0 - 1 2 3 2 1 1 1 2 4
+p758
+aVEtan Thomas OKC 11/01/2009 OKC vs. POR L 26 4 2 4 50.0 0 0 - 0 0 - 3 6 9 0 0 1 0 3 3
+p759
+aVRussell Westbrook OKC 11/01/2009 OKC vs. POR L 32 23 8 12 66.7 0 1 0.0 7 10 70.0 2 2 4 2 2 1 9 6 -13
+p760
+aVNick Collison OKC 11/01/2009 OKC vs. POR L 17 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 7
+p761
+aVNenad Krstic OKC 11/01/2009 OKC vs. POR L 20 0 0 4 0.0 0 1 0.0 0 0 - 2 2 4 0 0 1 0 1 -13
+p762
+aVJeff Green OKC 11/01/2009 OKC vs. POR L 43 19 6 15 40.0 1 5 20.0 6 8 75.0 4 7 11 1 1 0 3 3 -14
+p763
+aVKevin Ollie OKC 11/01/2009 OKC vs. POR L 16 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p764
+aVKevin Durant OKC 11/01/2009 OKC vs. POR L 41 16 3 20 15.0 0 4 0.0 10 14 71.4 1 4 5 0 0 2 1 3 -11
+p765
+aVThabo Sefolosha OKC 11/01/2009 OKC vs. POR L 28 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 4 -12
+p766
+aVThabo Sefolosha OKC 10/30/2009 OKC @ DET W 31 8 2 4 50.0 1 2 50.0 3 6 50.0 0 4 4 1 0 0 0 2 -9
+p767
+aVKevin Ollie OKC 10/30/2009 OKC @ DET W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 7
+p768
+aVRussell Westbrook OKC 10/30/2009 OKC @ DET W 34 10 2 11 18.2 0 2 0.0 6 8 75.0 1 4 5 10 1 2 5 3 2
+p769
+aVNick Collison OKC 10/30/2009 OKC @ DET W 16 8 4 5 80.0 0 0 - 0 0 - 5 3 8 0 0 0 0 4 12
+p770
+aVNenad Krstic OKC 10/30/2009 OKC @ DET W 24 14 6 9 66.7 0 0 - 2 2 100.0 0 5 5 0 1 0 1 6 0
+p771
+aVEtan Thomas OKC 10/30/2009 OKC @ DET W 23 6 3 6 50.0 0 0 - 0 1 0.0 1 2 3 0 0 3 0 3 7
+p772
+aVJeff Green OKC 10/30/2009 OKC @ DET W 35 16 6 14 42.9 0 4 0.0 4 4 100.0 0 4 4 2 2 0 4 5 5
+p773
+aVKevin Durant OKC 10/30/2009 OKC @ DET W 43 25 8 19 42.1 1 2 50.0 8 9 88.9 1 11 12 1 2 0 1 2 2
+p774
+aVSerge Ibaka OKC 10/30/2009 OKC @ DET W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p775
+aVJames Harden OKC 10/30/2009 OKC @ DET W 17 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 8 0 0 0 3 17
+p776
+aVRussell Westbrook OKC 10/28/2009 OKC vs. SAC W 35 14 7 12 58.3 0 1 0.0 0 0 - 2 5 7 13 0 0 2 2 23
+p777
+aVJeff Green OKC 10/28/2009 OKC vs. SAC W 39 24 9 13 69.2 4 5 80.0 2 2 100.0 0 7 7 2 1 2 2 3 19
+p778
+aVNenad Krstic OKC 10/28/2009 OKC vs. SAC W 30 20 6 10 60.0 0 0 - 8 11 72.7 2 5 7 0 0 1 3 2 19
+p779
+aVKevin Ollie OKC 10/28/2009 OKC vs. SAC W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -10
+p780
+aVThabo Sefolosha OKC 10/28/2009 OKC vs. SAC W 34 8 3 7 42.9 2 2 100.0 0 0 - 0 5 5 1 1 1 2 3 12
+p781
+aVKevin Durant OKC 10/28/2009 OKC vs. SAC W 42 25 10 24 41.7 1 5 20.0 4 5 80.0 3 8 11 4 0 1 0 2 17
+p782
+aVEtan Thomas OKC 10/28/2009 OKC vs. SAC W 18 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 1 1 1 1 -6
+p783
+aVNick Collison OKC 10/28/2009 OKC vs. SAC W 16 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 3 -4
+p784
+aVJames Harden OKC 10/28/2009 OKC vs. SAC W 13 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 3 -5
+p785
+a.

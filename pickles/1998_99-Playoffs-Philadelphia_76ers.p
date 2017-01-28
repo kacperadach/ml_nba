@@ -1,0 +1,162 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJerald Honeycutt PHI 05/23/1999 PHI vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p2
+aVEric Snow PHI 05/23/1999 PHI vs. IND L 38 13 5 17 29.4 0 2 0.0 3 3 100.0 2 3 5 7 0 0 3 3 -4
+p3
+aVGeorge Lynch PHI 05/23/1999 PHI vs. IND L 41 11 5 9 55.6 0 0 - 1 2 50.0 1 1 2 2 3 0 0 3 -2
+p4
+aVAllen Iverson PHI 05/23/1999 PHI vs. IND L 45 25 11 28 39.3 2 6 33.3 1 1 100.0 1 2 3 6 0 0 2 2 -5
+p5
+aVLarry Hughes PHI 05/23/1999 PHI vs. IND L 16 3 1 7 14.3 0 0 - 1 2 50.0 1 3 4 0 0 3 0 4 12
+p6
+aVMatt Geiger PHI 05/23/1999 PHI vs. IND L 30 23 10 16 62.5 0 0 - 3 3 100.0 6 7 13 0 2 1 1 5 -5
+p7
+aVNazr Mohammed PHI 05/23/1999 PHI vs. IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p8
+aVAaron McKie PHI 05/23/1999 PHI vs. IND L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 1
+p9
+aVHarvey Grant PHI 05/23/1999 PHI vs. IND L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p10
+aVRick Mahorn PHI 05/23/1999 PHI vs. IND L 14 1 0 2 0.0 0 0 - 1 2 50.0 1 5 6 1 0 0 1 3 0
+p11
+aVTyrone Hill PHI 05/23/1999 PHI vs. IND L 33 6 3 6 50.0 0 0 - 0 0 - 2 8 10 0 1 0 0 4 -13
+p12
+aVLarry Hughes PHI 05/21/1999 PHI vs. IND L 31 11 3 11 27.3 0 1 0.0 5 6 83.3 3 1 4 2 3 0 1 2 -5
+p13
+aVTheo Ratliff PHI 05/21/1999 PHI vs. IND L 34 10 4 8 50.0 0 0 - 2 4 50.0 3 5 8 1 3 2 1 1 -9
+p14
+aVTyrone Hill PHI 05/21/1999 PHI vs. IND L 23 0 0 5 0.0 0 0 - 0 2 0.0 5 7 12 0 1 0 0 4 -8
+p15
+aVMatt Geiger PHI 05/21/1999 PHI vs. IND L 26 11 5 11 45.5 0 0 - 1 2 50.0 0 0 0 0 0 0 1 3 -6
+p16
+aVAaron McKie PHI 05/21/1999 PHI vs. IND L 11 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -13
+p17
+aVEric Snow PHI 05/21/1999 PHI vs. IND L 37 16 6 11 54.5 1 3 33.3 3 3 100.0 0 2 2 9 1 0 3 3 0
+p18
+aVAllen Iverson PHI 05/21/1999 PHI vs. IND L 47 32 13 33 39.4 2 10 20.0 4 7 57.1 1 1 2 6 2 0 2 3 -9
+p19
+aVGeorge Lynch PHI 05/21/1999 PHI vs. IND L 27 4 1 6 16.7 0 1 0.0 2 4 50.0 6 4 10 0 4 0 3 1 -5
+p20
+aVAaron McKie PHI 05/19/1999 PHI @ IND L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p21
+aVRick Mahorn PHI 05/19/1999 PHI @ IND L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p22
+aVEric Snow PHI 05/19/1999 PHI @ IND L 37 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 6 1 1 3 2 -5
+p23
+aVGeorge Lynch PHI 05/19/1999 PHI @ IND L 27 5 2 6 33.3 1 2 50.0 0 0 - 1 5 6 1 3 0 2 4 2
+p24
+aVAllen Iverson PHI 05/19/1999 PHI @ IND L 46 23 7 28 25.0 0 3 0.0 9 10 90.0 2 2 4 2 0 0 0 4 -3
+p25
+aVMatt Geiger PHI 05/19/1999 PHI @ IND L 32 18 6 17 35.3 0 0 - 6 8 75.0 4 7 11 1 1 1 5 5 1
+p26
+aVTyrone Hill PHI 05/19/1999 PHI @ IND L 22 6 2 2 100.0 0 0 - 2 4 50.0 2 4 6 0 0 0 0 3 -7
+p27
+aVTheo Ratliff PHI 05/19/1999 PHI @ IND L 35 12 6 10 60.0 0 0 - 0 0 - 6 6 12 0 0 3 1 3 -2
+p28
+aVLarry Hughes PHI 05/19/1999 PHI @ IND L 21 8 4 8 50.0 0 1 0.0 0 0 - 0 0 0 3 3 0 0 2 0
+p29
+aVTyrone Hill PHI 05/17/1999 PHI @ IND L 25 5 2 6 33.3 0 0 - 1 6 16.7 2 4 6 0 0 0 0 2 2
+p30
+aVRick Mahorn PHI 05/17/1999 PHI @ IND L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -1
+p31
+aVAllen Iverson PHI 05/17/1999 PHI @ IND L 45 35 13 26 50.0 1 6 16.7 8 9 88.9 5 4 9 1 2 0 2 3 -6
+p32
+aVLarry Hughes PHI 05/17/1999 PHI @ IND L 28 10 5 11 45.5 0 2 0.0 0 0 - 1 3 4 3 0 1 1 5 5
+p33
+aVHarvey Grant PHI 05/17/1999 PHI @ IND L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p34
+aVTheo Ratliff PHI 05/17/1999 PHI @ IND L 24 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 1 2 2 3 6
+p35
+aVEric Snow PHI 05/17/1999 PHI @ IND L 42 10 4 13 30.8 0 1 0.0 2 2 100.0 0 5 5 10 0 0 2 5 -1
+p36
+aVMatt Geiger PHI 05/17/1999 PHI @ IND L 29 16 6 9 66.7 0 0 - 4 4 100.0 3 8 11 2 1 0 2 3 -12
+p37
+aVJerald Honeycutt PHI 05/17/1999 PHI @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p38
+aVGeorge Lynch PHI 05/17/1999 PHI @ IND L 23 6 3 8 37.5 0 0 - 0 2 0.0 2 0 2 1 2 0 3 5 -4
+p39
+aVEric Snow PHI 05/15/1999 PHI vs. ORL W 43 20 6 13 46.2 2 3 66.7 6 6 100.0 1 4 5 6 2 0 4 4 8
+p40
+aVGeorge Lynch PHI 05/15/1999 PHI vs. ORL W 38 8 3 8 37.5 0 0 - 2 2 100.0 5 5 10 2 1 0 3 3 11
+p41
+aVAllen Iverson PHI 05/15/1999 PHI vs. ORL W 43 37 14 27 51.9 4 6 66.7 5 6 83.3 1 2 3 9 2 0 4 1 15
+p42
+aVHarvey Grant PHI 05/15/1999 PHI vs. ORL W 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 1
+p43
+aVTyrone Hill PHI 05/15/1999 PHI vs. ORL W 22 9 4 6 66.7 0 0 - 1 2 50.0 1 4 5 0 1 0 0 4 0
+p44
+aVMatt Geiger PHI 05/15/1999 PHI vs. ORL W 24 6 1 4 25.0 0 0 - 4 4 100.0 5 4 9 1 1 0 1 5 -3
+p45
+aVJerald Honeycutt PHI 05/15/1999 PHI vs. ORL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 5
+p46
+aVTheo Ratliff PHI 05/15/1999 PHI vs. ORL W 29 5 1 5 20.0 0 0 - 3 5 60.0 2 4 6 1 0 4 0 3 8
+p47
+aVLarry Hughes PHI 05/15/1999 PHI vs. ORL W 30 14 4 9 44.4 0 2 0.0 6 6 100.0 4 3 7 3 1 2 1 1 5
+p48
+aVJerald Honeycutt PHI 05/13/1999 PHI vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p49
+aVAllen Iverson PHI 05/13/1999 PHI vs. ORL W 43 33 14 28 50.0 3 8 37.5 2 6 33.3 3 2 5 5 10 2 2 1 17
+p50
+aVMatt Geiger PHI 05/13/1999 PHI vs. ORL W 22 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 2 1 0 1 -3
+p51
+aVTyrone Hill PHI 05/13/1999 PHI vs. ORL W 28 11 5 9 55.6 0 0 - 1 2 50.0 3 6 9 0 0 1 1 5 13
+p52
+aVTheo Ratliff PHI 05/13/1999 PHI vs. ORL W 21 4 1 6 16.7 0 0 - 2 4 50.0 4 3 7 0 0 2 1 2 9
+p53
+aVRick Mahorn PHI 05/13/1999 PHI vs. ORL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p54
+aVEric Snow PHI 05/13/1999 PHI vs. ORL W 38 13 5 12 41.7 0 0 - 3 4 75.0 0 3 3 8 2 0 1 2 17
+p55
+aVGeorge Lynch PHI 05/13/1999 PHI vs. ORL W 33 17 7 10 70.0 0 0 - 3 3 100.0 4 4 8 3 2 1 0 4 9
+p56
+aVLarry Hughes PHI 05/13/1999 PHI vs. ORL W 27 13 5 12 41.7 0 0 - 3 4 75.0 2 6 8 2 2 2 5 4 4
+p57
+aVNazr Mohammed PHI 05/13/1999 PHI vs. ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p58
+aVAaron McKie PHI 05/13/1999 PHI vs. ORL W 21 2 1 5 20.0 0 0 - 0 0 - 1 3 4 5 2 0 1 4 -5
+p59
+aVEric Snow PHI 05/11/1999 PHI @ ORL L 32 12 6 10 60.0 0 1 0.0 0 0 - 0 3 3 5 1 0 5 4 -17
+p60
+aVJerald Honeycutt PHI 05/11/1999 PHI @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p61
+aVLarry Hughes PHI 05/11/1999 PHI @ ORL L 26 12 4 10 40.0 0 1 0.0 4 4 100.0 2 2 4 2 3 1 1 0 -1
+p62
+aVMatt Geiger PHI 05/11/1999 PHI @ ORL L 30 7 3 15 20.0 0 1 0.0 1 2 50.0 2 4 6 0 2 1 1 4 -19
+p63
+aVAaron McKie PHI 05/11/1999 PHI @ ORL L 25 11 4 8 50.0 0 0 - 3 3 100.0 2 3 5 1 2 0 0 4 -1
+p64
+aVAllen Iverson PHI 05/11/1999 PHI @ ORL L 44 13 4 15 26.7 1 7 14.3 4 6 66.7 0 2 2 3 2 0 6 4 -8
+p65
+aVGeorge Lynch PHI 05/11/1999 PHI @ ORL L 24 6 3 9 33.3 0 1 0.0 0 0 - 2 1 3 6 0 1 1 6 -1
+p66
+aVTyrone Hill PHI 05/11/1999 PHI @ ORL L 19 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 0 4 6 -5
+p67
+aVTheo Ratliff PHI 05/11/1999 PHI @ ORL L 35 7 3 7 42.9 0 0 - 1 2 50.0 3 5 8 2 1 3 1 3 -5
+p68
+aVGeorge Lynch PHI 05/09/1999 PHI @ ORL W 32 15 5 9 55.6 1 2 50.0 4 4 100.0 7 5 12 1 3 0 1 4 20
+p69
+aVNazr Mohammed PHI 05/09/1999 PHI @ ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p70
+aVLarry Hughes PHI 05/09/1999 PHI @ ORL W 17 11 5 9 55.6 0 0 - 1 2 50.0 4 2 6 1 3 0 3 3 -2
+p71
+aVHarvey Grant PHI 05/09/1999 PHI @ ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p72
+aVAaron McKie PHI 05/09/1999 PHI @ ORL W 14 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 0 5 10
+p73
+aVTheo Ratliff PHI 05/09/1999 PHI @ ORL W 21 7 2 3 66.7 0 0 - 3 4 75.0 4 4 8 2 0 2 1 4 4
+p74
+aVJerald Honeycutt PHI 05/09/1999 PHI @ ORL W 6 2 1 4 25.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 1 -2
+p75
+aVEric Snow PHI 05/09/1999 PHI @ ORL W 34 7 1 5 20.0 0 2 0.0 5 9 55.6 0 7 7 6 1 0 4 3 11
+p76
+aVMatt Geiger PHI 05/09/1999 PHI @ ORL W 40 23 9 18 50.0 0 0 - 5 6 83.3 3 7 10 2 0 2 2 3 16
+p77
+aVAllen Iverson PHI 05/09/1999 PHI @ ORL W 45 30 12 29 41.4 2 7 28.6 4 7 57.1 1 4 5 7 2 0 6 1 14
+p78
+aVTyrone Hill PHI 05/09/1999 PHI @ ORL W 21 8 3 5 60.0 0 0 - 2 3 66.7 4 2 6 0 0 1 1 5 1
+p79
+aVRick Mahorn PHI 05/09/1999 PHI @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p80
+a.

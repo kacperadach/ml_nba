@@ -1,0 +1,1660 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJames Ennis III MIA 04/15/2015 MIA @ PHI W 48 17 7 20 35.0 2 7 28.6 1 2 50.0 3 9 12 6 1 0 4 2 4
+p2
+aVZoran Dragic MIA 04/15/2015 MIA @ PHI W 41 22 9 17 52.9 3 7 42.9 1 2 50.0 2 1 3 2 2 0 3 3 -5
+p3
+aVHenry Walker MIA 04/15/2015 MIA @ PHI W 48 21 6 10 60.0 6 10 60.0 3 5 60.0 2 2 4 2 1 0 2 4 4
+p4
+aVUdonis Haslem MIA 04/15/2015 MIA @ PHI W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 9
+p5
+aVMichael Beasley MIA 04/15/2015 MIA @ PHI W 48 34 12 27 44.4 0 2 0.0 10 11 90.9 2 9 11 8 2 2 3 4 4
+p6
+aVTyler Johnson MIA 04/15/2015 MIA @ PHI W 48 11 5 15 33.3 1 5 20.0 0 0 - 2 8 10 4 4 0 4 3 4
+p7
+aVMichael Beasley MIA 04/13/2015 MIA vs. ORL W 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 3 1 2
+p8
+aVChris Andersen MIA 04/13/2015 MIA vs. ORL W 9 10 4 5 80.0 0 0 - 2 2 100.0 0 5 5 0 0 1 0 2 -1
+p9
+aVJames Ennis III MIA 04/13/2015 MIA vs. ORL W 33 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 1 0 2 10
+p10
+aVHassan Whiteside MIA 04/13/2015 MIA vs. ORL W 36 24 10 14 71.4 0 0 - 4 5 80.0 1 12 13 0 0 5 2 3 9
+p11
+aVLuol Deng MIA 04/13/2015 MIA vs. ORL W 40 14 4 11 36.4 2 3 66.7 4 6 66.7 4 6 10 4 2 0 0 0 5
+p12
+aVDwyane Wade MIA 04/13/2015 MIA vs. ORL W 34 22 8 21 38.1 0 2 0.0 6 7 85.7 1 3 4 5 0 2 5 1 -3
+p13
+aVTyler Johnson MIA 04/13/2015 MIA vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p14
+aVUdonis Haslem MIA 04/13/2015 MIA vs. ORL W 16 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 2 4 -1
+p15
+aVMario Chalmers MIA 04/13/2015 MIA vs. ORL W 21 9 3 7 42.9 1 3 33.3 2 2 100.0 0 3 3 3 0 0 0 3 8
+p16
+aVGoran Dragic MIA 04/13/2015 MIA vs. ORL W 39 13 6 15 40.0 0 2 0.0 1 1 100.0 4 3 7 8 0 0 1 3 9
+p17
+aVGoran Dragic MIA 04/11/2015 MIA vs. TOR L 38 22 8 16 50.0 3 7 42.9 3 3 100.0 0 2 2 5 0 0 1 6 1
+p18
+aVChris Andersen MIA 04/11/2015 MIA vs. TOR L 13 6 2 4 50.0 1 1 100.0 1 2 50.0 1 4 5 0 0 1 0 0 -7
+p19
+aVLuol Deng MIA 04/11/2015 MIA vs. TOR L 37 11 5 12 41.7 0 4 0.0 1 2 50.0 1 6 7 1 0 0 0 0 4
+p20
+aVMario Chalmers MIA 04/11/2015 MIA vs. TOR L 17 5 1 6 16.7 0 2 0.0 3 5 60.0 0 0 0 2 2 0 2 3 -14
+p21
+aVTyler Johnson MIA 04/11/2015 MIA vs. TOR L 22 4 1 4 25.0 1 1 100.0 1 2 50.0 0 2 2 0 0 0 0 3 -8
+p22
+aVDwyane Wade MIA 04/11/2015 MIA vs. TOR L 33 30 9 20 45.0 1 2 50.0 11 14 78.6 4 2 6 5 0 1 1 4 8
+p23
+aVZoran Dragic MIA 04/11/2015 MIA vs. TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p24
+aVMichael Beasley MIA 04/11/2015 MIA vs. TOR L 11 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -7
+p25
+aVHassan Whiteside MIA 04/11/2015 MIA vs. TOR L 35 16 6 8 75.0 0 0 - 4 16 25.0 8 10 18 0 1 6 3 4 4
+p26
+aVUdonis Haslem MIA 04/11/2015 MIA vs. TOR L 17 4 2 3 66.7 0 1 0.0 0 0 - 0 4 4 0 0 0 0 2 7
+p27
+aVJames Ennis III MIA 04/11/2015 MIA vs. TOR L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -6
+p28
+aVUdonis Haslem MIA 04/09/2015 MIA vs. CHI L 18 2 1 4 25.0 0 0 - 0 0 - 1 3 4 1 0 1 0 1 -8
+p29
+aVMichael Beasley MIA 04/09/2015 MIA vs. CHI L 19 13 5 8 62.5 3 4 75.0 0 0 - 0 2 2 1 0 1 1 3 -4
+p30
+aVChris Andersen MIA 04/09/2015 MIA vs. CHI L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 2 2 0 0 2 0 0 -4
+p31
+aVDwyane Wade MIA 04/09/2015 MIA vs. CHI L 38 9 4 20 20.0 1 3 33.3 0 0 - 0 3 3 3 0 0 5 0 -14
+p32
+aVJames Ennis III MIA 04/09/2015 MIA vs. CHI L 23 6 2 3 66.7 0 1 0.0 2 3 66.7 1 4 5 2 0 0 2 2 -1
+p33
+aVHassan Whiteside MIA 04/09/2015 MIA vs. CHI L 38 19 9 15 60.0 0 0 - 1 2 50.0 5 11 16 0 0 1 2 4 -7
+p34
+aVMario Chalmers MIA 04/09/2015 MIA vs. CHI L 25 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 2 0 0 2 3 -1
+p35
+aVGoran Dragic MIA 04/09/2015 MIA vs. CHI L 33 15 7 16 43.8 1 4 25.0 0 0 - 1 1 2 1 0 1 2 3 -7
+p36
+aVLuol Deng MIA 04/09/2015 MIA vs. CHI L 36 8 3 13 23.1 0 3 0.0 2 2 100.0 5 3 8 4 2 1 0 1 -9
+p37
+aVHenry Walker MIA 04/07/2015 MIA vs. CHA W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p38
+aVUdonis Haslem MIA 04/07/2015 MIA vs. CHA W 28 8 4 9 44.4 0 0 - 0 0 - 2 6 8 3 0 0 0 3 1
+p39
+aVMario Chalmers MIA 04/07/2015 MIA vs. CHA W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p40
+aVTyler Johnson MIA 04/07/2015 MIA vs. CHA W 25 2 1 3 33.3 0 1 0.0 0 0 - 0 5 5 3 1 1 1 3 -1
+p41
+aVDwyane Wade MIA 04/07/2015 MIA vs. CHA W 35 19 6 17 35.3 0 1 0.0 7 10 70.0 2 1 3 5 1 0 7 1 9
+p42
+aVChris Andersen MIA 04/07/2015 MIA vs. CHA W 13 6 2 3 66.7 0 0 - 2 3 66.7 0 2 2 0 0 3 1 0 7
+p43
+aVHassan Whiteside MIA 04/07/2015 MIA vs. CHA W 23 12 6 8 75.0 0 0 - 0 1 0.0 1 7 8 0 0 1 0 5 -3
+p44
+aVGoran Dragic MIA 04/07/2015 MIA vs. CHA W 35 28 10 16 62.5 0 2 0.0 8 8 100.0 1 3 4 5 2 0 2 4 -1
+p45
+aVLuol Deng MIA 04/07/2015 MIA vs. CHA W 41 21 9 17 52.9 1 6 16.7 2 2 100.0 1 5 6 1 0 0 0 0 6
+p46
+aVJames Ennis III MIA 04/07/2015 MIA vs. CHA W 26 9 2 6 33.3 2 4 50.0 3 4 75.0 1 4 5 2 0 1 0 1 8
+p47
+aVJames Ennis III MIA 04/05/2015 MIA @ IND L 28 17 6 11 54.5 1 4 25.0 4 4 100.0 1 4 5 1 0 0 0 4 -7
+p48
+aVHenry Walker MIA 04/05/2015 MIA @ IND L 19 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 1 2 1 3 -11
+p49
+aVZoran Dragic MIA 04/05/2015 MIA @ IND L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -1
+p50
+aVDwyane Wade MIA 04/05/2015 MIA @ IND L 34 27 11 21 52.4 0 2 0.0 5 7 71.4 0 1 1 3 2 1 4 0 -14
+p51
+aVMario Chalmers MIA 04/05/2015 MIA @ IND L 27 2 1 8 12.5 0 3 0.0 0 0 - 1 0 1 2 1 0 2 5 -19
+p52
+aVTyler Johnson MIA 04/05/2015 MIA @ IND L 13 5 2 5 40.0 0 2 0.0 1 2 50.0 1 2 3 1 1 1 0 1 -2
+p53
+aVGoran Dragic MIA 04/05/2015 MIA @ IND L 35 15 6 10 60.0 1 2 50.0 2 4 50.0 1 2 3 5 0 0 2 3 -21
+p54
+aVMichael Beasley MIA 04/05/2015 MIA @ IND L 16 8 4 5 80.0 0 0 - 0 1 0.0 0 4 4 0 0 0 1 3 0
+p55
+aVLuol Deng MIA 04/05/2015 MIA @ IND L 29 3 1 8 12.5 0 3 0.0 1 1 100.0 0 9 9 0 1 1 1 1 -14
+p56
+aVUdonis Haslem MIA 04/05/2015 MIA @ IND L 36 10 5 10 50.0 0 1 0.0 0 0 - 3 7 10 0 1 2 3 5 -26
+p57
+aVDwyane Wade MIA 04/04/2015 MIA @ DET L 35 24 11 18 61.1 0 2 0.0 2 3 66.7 1 1 2 3 1 0 2 3 -9
+p58
+aVHenry Walker MIA 04/04/2015 MIA @ DET L 21 3 0 5 0.0 0 3 0.0 3 3 100.0 0 2 2 2 1 0 0 2 8
+p59
+aVGoran Dragic MIA 04/04/2015 MIA @ DET L 36 21 7 12 58.3 2 4 50.0 5 6 83.3 1 1 2 7 1 1 2 2 -1
+p60
+aVLuol Deng MIA 04/04/2015 MIA @ DET L 38 13 4 11 36.4 2 5 40.0 3 4 75.0 2 6 8 2 1 0 3 1 -9
+p61
+aVChris Andersen MIA 04/04/2015 MIA @ DET L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 16
+p62
+aVHassan Whiteside MIA 04/04/2015 MIA @ DET L 31 13 5 9 55.6 0 0 - 3 7 42.9 4 8 12 0 1 6 3 2 -27
+p63
+aVJames Ennis III MIA 04/04/2015 MIA @ DET L 18 7 3 5 60.0 0 1 0.0 1 1 100.0 1 3 4 1 0 0 0 2 3
+p64
+aVTyler Johnson MIA 04/04/2015 MIA @ DET L 12 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 -2
+p65
+aVUdonis Haslem MIA 04/04/2015 MIA @ DET L 14 6 3 6 50.0 0 1 0.0 0 0 - 2 2 4 2 0 0 0 0 1
+p66
+aVMario Chalmers MIA 04/04/2015 MIA @ DET L 25 9 3 7 42.9 1 3 33.3 2 2 100.0 0 2 2 1 1 0 1 5 15
+p67
+aVHenry Walker MIA 04/02/2015 MIA @ CLE L 17 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 2 1 0 4 -5
+p68
+aVChris Andersen MIA 04/02/2015 MIA @ CLE L 16 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -2
+p69
+aVLuol Deng MIA 04/02/2015 MIA @ CLE L 36 17 7 15 46.7 1 3 33.3 2 2 100.0 3 5 8 2 1 0 2 4 -23
+p70
+aVHassan Whiteside MIA 04/02/2015 MIA @ CLE L 27 17 8 11 72.7 0 0 - 1 3 33.3 2 6 8 1 1 0 2 4 -21
+p71
+aVTyler Johnson MIA 04/02/2015 MIA @ CLE L 26 11 4 9 44.4 1 2 50.0 2 2 100.0 0 2 2 3 2 0 1 2 -11
+p72
+aVMichael Beasley MIA 04/02/2015 MIA @ CLE L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 3 -14
+p73
+aVDwyane Wade MIA 04/02/2015 MIA @ CLE L 13 7 2 6 33.3 1 2 50.0 2 4 50.0 0 2 2 0 0 0 3 0 -10
+p74
+aVGoran Dragic MIA 04/02/2015 MIA @ CLE L 33 11 3 10 30.0 2 4 50.0 3 3 100.0 1 2 3 7 0 1 2 2 -17
+p75
+aVMario Chalmers MIA 04/02/2015 MIA @ CLE L 26 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 7 2 0 4 2 -22
+p76
+aVZoran Dragic MIA 04/02/2015 MIA @ CLE L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p77
+aVJames Ennis III MIA 04/02/2015 MIA @ CLE L 28 12 3 7 42.9 1 4 25.0 5 5 100.0 2 3 5 2 0 0 0 0 -2
+p78
+aVDwyane Wade MIA 03/31/2015 MIA vs. SAS L 34 15 6 20 30.0 1 3 33.3 2 2 100.0 1 4 5 1 0 0 3 2 -9
+p79
+aVMichael Beasley MIA 03/31/2015 MIA vs. SAS L 18 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 1
+p80
+aVMario Chalmers MIA 03/31/2015 MIA vs. SAS L 24 10 4 7 57.1 2 2 100.0 0 0 - 0 0 0 3 1 0 3 3 -2
+p81
+aVJames Ennis III MIA 03/31/2015 MIA vs. SAS L 27 7 2 7 28.6 1 4 25.0 2 2 100.0 1 3 4 0 1 0 1 3 -7
+p82
+aVChris Andersen MIA 03/31/2015 MIA vs. SAS L 24 4 2 8 25.0 0 0 - 0 0 - 5 5 10 1 2 2 4 1 1
+p83
+aVHassan Whiteside MIA 03/31/2015 MIA vs. SAS L 23 10 5 7 71.4 0 0 - 0 0 - 1 5 6 1 2 2 0 3 -15
+p84
+aVGoran Dragic MIA 03/31/2015 MIA vs. SAS L 39 19 6 14 42.9 1 3 33.3 6 6 100.0 1 0 1 3 0 0 4 2 -16
+p85
+aVHenry Walker MIA 03/31/2015 MIA vs. SAS L 26 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 1 4 -19
+p86
+aVZoran Dragic MIA 03/31/2015 MIA vs. SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p87
+aVTyler Johnson MIA 03/31/2015 MIA vs. SAS L 25 8 3 7 42.9 0 1 0.0 2 2 100.0 1 2 3 2 3 0 0 1 -4
+p88
+aVMichael Beasley MIA 03/29/2015 MIA vs. DET W 7 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p89
+aVDwyane Wade MIA 03/29/2015 MIA vs. DET W 36 40 14 27 51.9 0 1 0.0 12 13 92.3 3 3 6 4 1 0 1 0 7
+p90
+aVTyler Johnson MIA 03/29/2015 MIA vs. DET W 20 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -3
+p91
+aVGoran Dragic MIA 03/29/2015 MIA vs. DET W 35 10 4 10 40.0 1 3 33.3 1 2 50.0 0 2 2 5 0 1 3 3 -3
+p92
+aVHenry Walker MIA 03/29/2015 MIA vs. DET W 34 6 2 5 40.0 2 4 50.0 0 0 - 0 5 5 1 1 0 1 3 11
+p93
+aVUdonis Haslem MIA 03/29/2015 MIA vs. DET W 35 18 8 13 61.5 0 1 0.0 2 2 100.0 7 6 13 2 1 0 2 4 1
+p94
+aVMario Chalmers MIA 03/29/2015 MIA vs. DET W 30 11 3 7 42.9 2 6 33.3 3 4 75.0 1 8 9 4 0 0 1 2 1
+p95
+aVLuol Deng MIA 03/29/2015 MIA vs. DET W 18 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 1 0 1
+p96
+aVJames Ennis III MIA 03/29/2015 MIA vs. DET W 24 16 5 7 71.4 2 2 100.0 4 6 66.7 3 3 6 1 0 0 1 3 16
+p97
+aVUdonis Haslem MIA 03/27/2015 MIA @ ATL L 26 6 2 3 66.7 0 0 - 2 2 100.0 3 5 8 2 0 0 0 2 -21
+p98
+aVMario Chalmers MIA 03/27/2015 MIA @ ATL L 30 13 4 8 50.0 3 7 42.9 2 2 100.0 0 1 1 5 2 1 2 2 -6
+p99
+aVDwyane Wade MIA 03/27/2015 MIA @ ATL L 22 13 5 13 38.5 3 5 60.0 0 0 - 0 0 0 1 0 0 1 2 -17
+p100
+aVMichael Beasley MIA 03/27/2015 MIA @ ATL L 22 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 3 0 2 4 5 8
+p101
+aVJames Ennis III MIA 03/27/2015 MIA @ ATL L 15 8 3 5 60.0 1 2 50.0 1 1 100.0 0 1 1 0 0 0 1 0 9
+p102
+aVZoran Dragic MIA 03/27/2015 MIA @ ATL L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p103
+aVLuol Deng MIA 03/27/2015 MIA @ ATL L 33 17 7 15 46.7 0 4 0.0 3 4 75.0 4 7 11 1 0 1 3 3 -17
+p104
+aVGoran Dragic MIA 03/27/2015 MIA @ ATL L 27 6 3 11 27.3 0 3 0.0 0 0 - 0 2 2 3 1 1 3 3 -10
+p105
+aVTyler Johnson MIA 03/27/2015 MIA @ ATL L 23 2 0 7 0.0 0 3 0.0 2 4 50.0 2 4 6 0 2 1 1 0 -7
+p106
+aVHenry Walker MIA 03/27/2015 MIA @ ATL L 40 12 4 12 33.3 4 11 36.4 0 0 - 2 7 9 5 4 0 3 3 -6
+p107
+aVMichael Beasley MIA 03/25/2015 MIA @ BOS W 14 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 1 1 2 1 3 3
+p108
+aVUdonis Haslem MIA 03/25/2015 MIA @ BOS W 38 12 5 9 55.6 0 0 - 2 3 66.7 2 10 12 1 3 0 4 2 -1
+p109
+aVMario Chalmers MIA 03/25/2015 MIA @ BOS W 37 6 3 8 37.5 0 2 0.0 0 1 0.0 0 1 1 7 0 0 3 5 5
+p110
+aVJames Ennis III MIA 03/25/2015 MIA @ BOS W 21 6 1 4 25.0 1 3 33.3 3 4 75.0 2 4 6 1 0 2 0 2 10
+p111
+aVGoran Dragic MIA 03/25/2015 MIA @ BOS W 37 22 8 16 50.0 2 3 66.7 4 6 66.7 1 4 5 7 0 0 4 2 0
+p112
+aVHenry Walker MIA 03/25/2015 MIA @ BOS W 28 12 4 8 50.0 4 8 50.0 0 0 - 1 3 4 2 0 0 2 4 0
+p113
+aVTyler Johnson MIA 03/25/2015 MIA @ BOS W 20 12 5 8 62.5 1 1 100.0 1 2 50.0 1 3 4 0 2 1 1 2 13
+p114
+aVLuol Deng MIA 03/25/2015 MIA @ BOS W 36 15 5 15 33.3 1 5 20.0 4 5 80.0 1 4 5 1 1 1 1 5 9
+p115
+aVShabazz Napier MIA 03/25/2015 MIA @ BOS W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 3 -4
+p116
+aVHassan Whiteside MIA 03/24/2015 MIA @ MIL L 12 7 3 7 42.9 0 0 - 1 1 100.0 4 4 8 0 1 2 1 1 -1
+p117
+aVLuol Deng MIA 03/24/2015 MIA @ MIL L 35 13 5 12 41.7 2 3 66.7 1 2 50.0 0 4 4 2 0 0 0 2 2
+p118
+aVUdonis Haslem MIA 03/24/2015 MIA @ MIL L 16 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 5 -1
+p119
+aVGoran Dragic MIA 03/24/2015 MIA @ MIL L 40 16 7 12 58.3 1 3 33.3 1 3 33.3 0 3 3 6 2 0 3 2 9
+p120
+aVChris Andersen MIA 03/24/2015 MIA @ MIL L 26 4 2 4 50.0 0 0 - 0 0 - 2 4 6 2 0 1 3 1 4
+p121
+aVDwyane Wade MIA 03/24/2015 MIA @ MIL L 31 21 7 14 50.0 1 3 33.3 6 7 85.7 0 2 2 4 3 0 5 1 -15
+p122
+aVMario Chalmers MIA 03/24/2015 MIA @ MIL L 27 14 4 10 40.0 1 4 25.0 5 5 100.0 1 0 1 2 3 0 2 4 6
+p123
+aVHenry Walker MIA 03/24/2015 MIA @ MIL L 27 9 3 4 75.0 3 4 75.0 0 0 - 0 4 4 0 1 0 2 2 3
+p124
+aVMichael Beasley MIA 03/24/2015 MIA @ MIL L 27 4 2 9 22.2 0 2 0.0 0 0 - 1 5 6 1 1 0 1 2 -12
+p125
+aVMichael Beasley MIA 03/22/2015 MIA @ OKC L 19 10 5 8 62.5 0 0 - 0 0 - 0 3 3 1 0 2 3 2 -11
+p126
+aVGoran Dragic MIA 03/22/2015 MIA @ OKC L 34 12 4 10 40.0 1 3 33.3 3 3 100.0 1 4 5 3 0 0 2 2 -21
+p127
+aVTyler Johnson MIA 03/22/2015 MIA @ OKC L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 4
+p128
+aVDwyane Wade MIA 03/22/2015 MIA @ OKC L 31 12 6 15 40.0 0 1 0.0 0 2 0.0 0 2 2 4 2 0 3 0 -11
+p129
+aVHenry Walker MIA 03/22/2015 MIA @ OKC L 21 0 0 6 0.0 0 4 0.0 0 0 - 1 3 4 0 0 0 1 2 -8
+p130
+aVZoran Dragic MIA 03/22/2015 MIA @ OKC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 4
+p131
+aVLuol Deng MIA 03/22/2015 MIA @ OKC L 28 6 3 7 42.9 0 2 0.0 0 0 - 1 3 4 3 0 0 1 0 -2
+p132
+aVUdonis Haslem MIA 03/22/2015 MIA @ OKC L 21 6 3 8 37.5 0 0 - 0 0 - 2 5 7 0 3 0 2 2 -8
+p133
+aVChris Andersen MIA 03/22/2015 MIA @ OKC L 21 4 2 6 33.3 0 0 - 0 0 - 5 1 6 1 0 1 1 0 -11
+p134
+aVMario Chalmers MIA 03/22/2015 MIA @ OKC L 34 12 4 14 28.6 2 7 28.6 2 2 100.0 0 2 2 0 2 0 4 1 -17
+p135
+aVHassan Whiteside MIA 03/22/2015 MIA @ OKC L 24 13 5 6 83.3 0 0 - 3 8 37.5 3 4 7 0 0 3 0 6 -9
+p136
+aVDwyane Wade MIA 03/20/2015 MIA vs. DEN W 31 22 9 18 50.0 0 0 - 4 4 100.0 0 1 1 4 1 0 4 3 3
+p137
+aVLuol Deng MIA 03/20/2015 MIA vs. DEN W 28 15 6 10 60.0 3 5 60.0 0 0 - 0 0 0 2 0 1 1 1 -2
+p138
+aVChris Andersen MIA 03/20/2015 MIA vs. DEN W 15 5 2 2 100.0 0 0 - 1 2 50.0 2 5 7 0 0 0 0 0 13
+p139
+aVHassan Whiteside MIA 03/20/2015 MIA vs. DEN W 33 14 5 9 55.6 0 0 - 4 6 66.7 1 9 10 0 2 2 1 2 4
+p140
+aVTyler Johnson MIA 03/20/2015 MIA vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p141
+aVZoran Dragic MIA 03/20/2015 MIA vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p142
+aVGoran Dragic MIA 03/20/2015 MIA vs. DEN W 35 18 9 14 64.3 0 0 - 0 0 - 5 3 8 5 2 1 3 1 5
+p143
+aVMichael Beasley MIA 03/20/2015 MIA vs. DEN W 34 9 4 13 30.8 1 5 20.0 0 0 - 0 8 8 7 3 1 3 1 32
+p144
+aVUdonis Haslem MIA 03/20/2015 MIA vs. DEN W 14 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 1 -15
+p145
+aVMario Chalmers MIA 03/20/2015 MIA vs. DEN W 28 10 2 4 50.0 0 0 - 6 7 85.7 0 4 4 3 0 0 1 5 29
+p146
+aVHenry Walker MIA 03/20/2015 MIA vs. DEN W 20 9 3 6 50.0 3 5 60.0 0 0 - 0 3 3 2 0 2 0 3 19
+p147
+aVMario Chalmers MIA 03/18/2015 MIA vs. POR W 14 5 2 5 40.0 1 1 100.0 0 1 0.0 1 0 1 1 1 0 3 4 -7
+p148
+aVLuol Deng MIA 03/18/2015 MIA vs. POR W 42 24 9 13 69.2 4 4 100.0 2 4 50.0 0 4 4 0 1 0 0 0 4
+p149
+aVTyler Johnson MIA 03/18/2015 MIA vs. POR W 17 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 1 1 0 0 1 3
+p150
+aVHassan Whiteside MIA 03/18/2015 MIA vs. POR W 33 12 6 11 54.5 0 0 - 0 1 0.0 5 5 10 0 0 6 0 0 1
+p151
+aVDwyane Wade MIA 03/18/2015 MIA vs. POR W 32 32 13 26 50.0 0 1 0.0 6 6 100.0 1 3 4 6 1 0 2 2 6
+p152
+aVMichael Beasley MIA 03/18/2015 MIA vs. POR W 18 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -2
+p153
+aVChris Andersen MIA 03/18/2015 MIA vs. POR W 14 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 1 0 2 1
+p154
+aVGoran Dragic MIA 03/18/2015 MIA vs. POR W 39 20 9 16 56.3 1 2 50.0 1 2 50.0 0 3 3 11 2 0 1 2 8
+p155
+aVUdonis Haslem MIA 03/18/2015 MIA vs. POR W 30 7 3 4 75.0 1 1 100.0 0 0 - 0 5 5 1 1 0 2 4 6
+p156
+aVMichael Beasley MIA 03/16/2015 MIA vs. CLE W 16 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 1 2 -3
+p157
+aVMario Chalmers MIA 03/16/2015 MIA vs. CLE W 29 16 6 10 60.0 2 5 40.0 2 2 100.0 0 5 5 3 1 1 2 2 10
+p158
+aVHassan Whiteside MIA 03/16/2015 MIA vs. CLE W 32 16 6 12 50.0 0 0 - 4 6 66.7 1 10 11 0 0 3 1 2 17
+p159
+aVLuol Deng MIA 03/16/2015 MIA vs. CLE W 37 11 5 9 55.6 1 2 50.0 0 0 - 1 6 7 3 0 0 1 2 9
+p160
+aVUdonis Haslem MIA 03/16/2015 MIA vs. CLE W 17 0 0 0 - 0 0 - 0 0 - 0 2 2 2 0 0 1 1 10
+p161
+aVHenry Walker MIA 03/16/2015 MIA vs. CLE W 24 3 1 4 25.0 1 4 25.0 0 0 - 0 7 7 1 0 0 3 6 6
+p162
+aVChris Andersen MIA 03/16/2015 MIA vs. CLE W 15 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 0 1 1 1 -3
+p163
+aVDwyane Wade MIA 03/16/2015 MIA vs. CLE W 31 32 13 18 72.2 0 0 - 6 8 75.0 0 2 2 2 5 0 3 2 16
+p164
+aVGoran Dragic MIA 03/16/2015 MIA vs. CLE W 40 20 7 13 53.8 0 2 0.0 6 6 100.0 2 3 5 9 2 0 2 3 8
+p165
+aVMichael Beasley MIA 03/13/2015 MIA @ TOR L 26 11 4 10 40.0 1 2 50.0 2 2 100.0 2 7 9 1 1 0 2 4 3
+p166
+aVLuol Deng MIA 03/13/2015 MIA @ TOR L 35 8 3 11 27.3 0 3 0.0 2 2 100.0 2 4 6 3 1 0 2 2 2
+p167
+aVChris Andersen MIA 03/13/2015 MIA @ TOR L 19 2 0 2 0.0 0 1 0.0 2 2 100.0 1 4 5 2 0 1 1 1 -5
+p168
+aVDwyane Wade MIA 03/13/2015 MIA @ TOR L 33 25 9 13 69.2 1 2 50.0 6 8 75.0 0 3 3 4 1 1 5 1 -8
+p169
+aVGoran Dragic MIA 03/13/2015 MIA @ TOR L 39 18 8 17 47.1 0 4 0.0 2 2 100.0 0 3 3 5 2 0 2 2 0
+p170
+aVHassan Whiteside MIA 03/13/2015 MIA @ TOR L 24 9 4 6 66.7 0 0 - 1 4 25.0 2 10 12 0 1 3 3 3 -16
+p171
+aVMario Chalmers MIA 03/13/2015 MIA @ TOR L 30 8 3 5 60.0 1 1 100.0 1 2 50.0 0 3 3 3 0 0 3 4 -2
+p172
+aVHenry Walker MIA 03/13/2015 MIA @ TOR L 22 8 3 12 25.0 2 9 22.2 0 0 - 0 2 2 2 4 0 0 3 -13
+p173
+aVTyler Johnson MIA 03/13/2015 MIA @ TOR L 12 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 1 1 0 2 2 -11
+p174
+aVLuol Deng MIA 03/11/2015 MIA vs. BKN W 37 10 3 9 33.3 1 4 25.0 3 4 75.0 0 1 1 3 1 0 0 4 5
+p175
+aVMario Chalmers MIA 03/11/2015 MIA vs. BKN W 25 8 3 7 42.9 1 4 25.0 1 3 33.3 0 3 3 0 1 0 2 3 -5
+p176
+aVUdonis Haslem MIA 03/11/2015 MIA vs. BKN W 19 7 2 9 22.2 0 1 0.0 3 5 60.0 3 6 9 3 1 1 1 4 -2
+p177
+aVDwyane Wade MIA 03/11/2015 MIA vs. BKN W 34 28 10 25 40.0 0 1 0.0 8 11 72.7 2 1 3 9 2 0 2 1 5
+p178
+aVChris Andersen MIA 03/11/2015 MIA vs. BKN W 30 18 8 9 88.9 0 0 - 2 4 50.0 5 9 14 1 1 1 1 3 8
+p179
+aVGoran Dragic MIA 03/11/2015 MIA vs. BKN W 35 17 5 9 55.6 1 3 33.3 6 9 66.7 0 1 1 3 2 0 1 3 7
+p180
+aVMichael Beasley MIA 03/11/2015 MIA vs. BKN W 14 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 1 1 0 5 -1
+p181
+aVHenry Walker MIA 03/11/2015 MIA vs. BKN W 31 9 3 6 50.0 3 6 50.0 0 0 - 1 5 6 2 4 0 0 5 9
+p182
+aVTyler Johnson MIA 03/11/2015 MIA vs. BKN W 16 4 2 5 40.0 0 2 0.0 0 0 - 0 2 2 1 1 0 3 1 4
+p183
+aVShabazz Napier MIA 03/09/2015 MIA vs. BOS L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 3
+p184
+aVHenry Walker MIA 03/09/2015 MIA vs. BOS L 25 2 0 2 0.0 0 2 0.0 2 2 100.0 0 4 4 0 0 0 2 2 6
+p185
+aVChris Andersen MIA 03/09/2015 MIA vs. BOS L 19 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 1 0 1 0 1 9
+p186
+aVDwyane Wade MIA 03/09/2015 MIA vs. BOS L 35 34 13 23 56.5 2 4 50.0 6 7 85.7 0 4 4 2 0 0 4 2 -6
+p187
+aVMichael Beasley MIA 03/09/2015 MIA vs. BOS L 32 14 6 16 37.5 0 4 0.0 2 2 100.0 1 1 2 1 1 0 2 0 -11
+p188
+aVLuol Deng MIA 03/09/2015 MIA vs. BOS L 33 11 3 10 30.0 1 3 33.3 4 4 100.0 2 2 4 4 1 0 1 0 -16
+p189
+aVTyler Johnson MIA 03/09/2015 MIA vs. BOS L 33 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 2 1 1 1 1 -11
+p190
+aVMario Chalmers MIA 03/09/2015 MIA vs. BOS L 33 12 2 3 66.7 1 2 50.0 7 9 77.8 0 3 3 4 2 0 2 5 -9
+p191
+aVHassan Whiteside MIA 03/09/2015 MIA vs. BOS L 22 7 2 6 33.3 0 0 - 3 6 50.0 1 8 9 0 0 0 1 4 -15
+p192
+aVMario Chalmers MIA 03/07/2015 MIA vs. SAC W 34 12 4 6 66.7 1 3 33.3 3 4 75.0 0 5 5 7 4 0 0 4 14
+p193
+aVJames Ennis III MIA 03/07/2015 MIA vs. SAC W 16 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 3
+p194
+aVTyler Johnson MIA 03/07/2015 MIA vs. SAC W 44 24 7 12 58.3 3 5 60.0 7 10 70.0 0 6 6 6 1 1 4 1 6
+p195
+aVDwyane Wade MIA 03/07/2015 MIA vs. SAC W 35 28 10 18 55.6 1 3 33.3 7 7 100.0 0 4 4 4 2 0 4 0 2
+p196
+aVShabazz Napier MIA 03/07/2015 MIA vs. SAC W 22 5 2 7 28.6 0 5 0.0 1 2 50.0 0 1 1 2 1 0 3 1 -8
+p197
+aVChris Andersen MIA 03/07/2015 MIA vs. SAC W 29 11 3 5 60.0 0 0 - 5 6 83.3 1 4 5 0 1 3 0 1 -5
+p198
+aVUdonis Haslem MIA 03/07/2015 MIA vs. SAC W 10 0 0 3 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -11
+p199
+aVMichael Beasley MIA 03/07/2015 MIA vs. SAC W 38 18 9 17 52.9 0 0 - 0 2 0.0 2 5 7 0 2 1 1 6 10
+p200
+aVHenry Walker MIA 03/07/2015 MIA vs. SAC W 36 11 4 8 50.0 1 5 20.0 2 2 100.0 0 3 3 2 2 3 1 6 14
+p201
+aVTyler Johnson MIA 03/06/2015 MIA @ WAS L 36 11 5 8 62.5 0 3 0.0 1 2 50.0 3 2 5 3 1 0 2 2 -5
+p202
+aVShabazz Napier MIA 03/06/2015 MIA @ WAS L 31 16 5 10 50.0 4 6 66.7 2 2 100.0 0 2 2 4 1 0 0 2 14
+p203
+aVHassan Whiteside MIA 03/06/2015 MIA @ WAS L 20 10 5 8 62.5 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -24
+p204
+aVGoran Dragic MIA 03/06/2015 MIA @ WAS L 29 18 7 12 58.3 1 2 50.0 3 7 42.9 2 3 5 7 1 0 4 4 -13
+p205
+aVUdonis Haslem MIA 03/06/2015 MIA @ WAS L 27 6 3 9 33.3 0 0 - 0 0 - 1 4 5 1 1 1 0 2 -4
+p206
+aVJames Ennis III MIA 03/06/2015 MIA @ WAS L 29 11 2 3 66.7 2 2 100.0 5 6 83.3 1 4 5 0 1 0 4 2 14
+p207
+aVMichael Beasley MIA 03/06/2015 MIA @ WAS L 22 13 6 13 46.2 1 4 25.0 0 0 - 0 3 3 2 0 0 2 1 2
+p208
+aVChris Andersen MIA 03/06/2015 MIA @ WAS L 13 4 1 4 25.0 0 1 0.0 2 2 100.0 1 5 6 1 0 0 1 1 19
+p209
+aVHenry Walker MIA 03/06/2015 MIA @ WAS L 33 8 3 12 25.0 2 9 22.2 0 0 - 0 4 4 0 0 0 1 4 -13
+p210
+aVDwyane Wade MIA 03/04/2015 MIA vs. LAL W 31 25 7 17 41.2 0 0 - 11 12 91.7 2 3 5 6 2 1 1 0 19
+p211
+aVLuol Deng MIA 03/04/2015 MIA vs. LAL W 35 15 5 11 45.5 0 4 0.0 5 6 83.3 1 5 6 0 0 0 0 2 18
+p212
+aVTyler Johnson MIA 03/04/2015 MIA vs. LAL W 6 1 0 0 - 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 -6
+p213
+aVHenry Walker MIA 03/04/2015 MIA vs. LAL W 25 8 3 10 30.0 2 6 33.3 0 0 - 0 1 1 1 1 0 1 1 -1
+p214
+aVHassan Whiteside MIA 03/04/2015 MIA vs. LAL W 33 18 6 10 60.0 0 0 - 6 13 46.2 6 19 25 0 0 5 4 4 20
+p215
+aVMario Chalmers MIA 03/04/2015 MIA vs. LAL W 22 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 2 2 -11
+p216
+aVGoran Dragic MIA 03/04/2015 MIA vs. LAL W 36 21 6 10 60.0 1 2 50.0 8 8 100.0 2 2 4 6 3 0 4 2 10
+p217
+aVUdonis Haslem MIA 03/04/2015 MIA vs. LAL W 15 2 1 4 25.0 0 0 - 0 0 - 0 4 4 1 0 0 1 0 14
+p218
+aVChris Andersen MIA 03/04/2015 MIA vs. LAL W 15 4 2 8 25.0 0 1 0.0 0 0 - 2 4 6 0 1 1 0 0 -14
+p219
+aVMichael Beasley MIA 03/04/2015 MIA vs. LAL W 20 4 1 6 16.7 0 2 0.0 2 2 100.0 0 4 4 0 0 0 2 4 -19
+p220
+aVHassan Whiteside MIA 03/02/2015 MIA vs. PHX W 26 17 8 12 66.7 0 0 - 1 3 33.3 6 4 10 0 2 2 2 1 4
+p221
+aVLuol Deng MIA 03/02/2015 MIA vs. PHX W 38 12 4 11 36.4 2 6 33.3 2 4 50.0 1 3 4 1 0 0 0 1 4
+p222
+aVMario Chalmers MIA 03/02/2015 MIA vs. PHX W 24 7 3 8 37.5 0 2 0.0 1 1 100.0 0 3 3 4 2 0 2 4 9
+p223
+aVZoran Dragic MIA 03/02/2015 MIA vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p224
+aVChris Andersen MIA 03/02/2015 MIA vs. PHX W 14 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 0 1 0 0 3
+p225
+aVMichael Beasley MIA 03/02/2015 MIA vs. PHX W 26 12 6 10 60.0 0 0 - 0 0 - 1 5 6 1 1 1 1 4 22
+p226
+aVShabazz Napier MIA 03/02/2015 MIA vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p227
+aVGoran Dragic MIA 03/02/2015 MIA vs. PHX W 15 21 5 9 55.6 2 2 100.0 9 9 100.0 2 2 4 1 1 0 1 5 7
+p228
+aVDwyane Wade MIA 03/02/2015 MIA vs. PHX W 33 16 7 19 36.8 0 1 0.0 2 4 50.0 0 4 4 9 4 0 4 3 14
+p229
+aVHenry Walker MIA 03/02/2015 MIA vs. PHX W 12 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 0 5 4
+p230
+aVJames Ennis III MIA 03/02/2015 MIA vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p231
+aVTyler Johnson MIA 03/02/2015 MIA vs. PHX W 26 26 10 13 76.9 3 3 100.0 3 3 100.0 1 0 1 1 4 0 3 4 19
+p232
+aVUdonis Haslem MIA 03/02/2015 MIA vs. PHX W 20 3 0 0 - 0 0 - 3 4 75.0 0 4 4 0 0 0 0 3 3
+p233
+aVMichael Beasley MIA 02/28/2015 MIA vs. ATL L 25 9 4 12 33.3 1 3 33.3 0 0 - 1 2 3 0 2 0 3 6 0
+p234
+aVHenry Walker MIA 02/28/2015 MIA vs. ATL L 26 10 3 16 18.8 2 11 18.2 2 2 100.0 0 2 2 1 0 0 2 3 -4
+p235
+aVMario Chalmers MIA 02/28/2015 MIA vs. ATL L 35 16 5 13 38.5 2 4 50.0 4 5 80.0 0 1 1 4 5 1 2 3 0
+p236
+aVHassan Whiteside MIA 02/28/2015 MIA vs. ATL L 34 14 6 8 75.0 0 0 - 2 2 100.0 8 16 24 0 0 2 1 2 -2
+p237
+aVDwyane Wade MIA 02/28/2015 MIA vs. ATL L 31 22 9 17 52.9 0 1 0.0 4 4 100.0 1 3 4 4 3 0 4 1 4
+p238
+aVLuol Deng MIA 02/28/2015 MIA vs. ATL L 40 8 2 7 28.6 2 5 40.0 2 2 100.0 2 2 4 1 0 0 8 0 3
+p239
+aVGoran Dragic MIA 02/28/2015 MIA vs. ATL L 35 6 2 7 28.6 0 2 0.0 2 2 100.0 1 2 3 6 2 0 3 1 -8
+p240
+aVUdonis Haslem MIA 02/28/2015 MIA vs. ATL L 14 6 1 1 100.0 0 0 - 4 4 100.0 1 5 6 1 0 0 0 0 -3
+p241
+aVShabazz Napier MIA 02/27/2015 MIA @ NOP L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 2 -9
+p242
+aVMario Chalmers MIA 02/27/2015 MIA @ NOP L 25 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 0 0 0 1 2 -5
+p243
+aVDwyane Wade MIA 02/27/2015 MIA @ NOP L 29 11 4 16 25.0 0 4 0.0 3 4 75.0 1 3 4 8 0 0 4 3 -3
+p244
+aVMichael Beasley MIA 02/27/2015 MIA @ NOP L 10 7 3 7 42.9 1 1 100.0 0 0 - 0 2 2 1 0 0 0 1 -4
+p245
+aVChris Andersen MIA 02/27/2015 MIA @ NOP L 15 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 0 0 1 0 3 -1
+p246
+aVHassan Whiteside MIA 02/27/2015 MIA @ NOP L 33 16 8 13 61.5 0 0 - 0 0 - 1 6 7 0 1 4 0 1 -1
+p247
+aVLuol Deng MIA 02/27/2015 MIA @ NOP L 38 22 7 11 63.6 1 3 33.3 7 8 87.5 0 3 3 2 1 0 0 3 2
+p248
+aVHenry Walker MIA 02/27/2015 MIA @ NOP L 31 16 6 13 46.2 4 9 44.4 0 2 0.0 0 3 3 1 0 1 0 3 -2
+p249
+aVUdonis Haslem MIA 02/27/2015 MIA @ NOP L 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 1 0 0 4
+p250
+aVGoran Dragic MIA 02/27/2015 MIA @ NOP L 35 20 9 13 69.2 0 0 - 2 2 100.0 1 2 3 5 1 0 1 5 9
+p251
+aVHassan Whiteside MIA 02/25/2015 MIA @ ORL W 37 15 5 8 62.5 0 0 - 5 8 62.5 4 9 13 0 0 3 0 5 1
+p252
+aVLuol Deng MIA 02/25/2015 MIA @ ORL W 40 21 8 14 57.1 1 2 50.0 4 6 66.7 1 6 7 2 1 0 0 2 9
+p253
+aVMario Chalmers MIA 02/25/2015 MIA @ ORL W 33 8 2 10 20.0 1 8 12.5 3 4 75.0 0 1 1 1 0 0 1 3 1
+p254
+aVGoran Dragic MIA 02/25/2015 MIA @ ORL W 41 8 3 10 30.0 0 3 0.0 2 2 100.0 1 3 4 5 1 0 2 4 11
+p255
+aVUdonis Haslem MIA 02/25/2015 MIA @ ORL W 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -7
+p256
+aVDwyane Wade MIA 02/25/2015 MIA @ ORL W 37 18 6 19 31.6 1 4 25.0 5 6 83.3 0 2 2 6 3 0 4 2 9
+p257
+aVHenry Walker MIA 02/25/2015 MIA @ ORL W 33 10 3 13 23.1 2 11 18.2 2 2 100.0 0 6 6 2 2 0 0 3 5
+p258
+aVShabazz Napier MIA 02/25/2015 MIA @ ORL W 12 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 0 0 2 3 -8
+p259
+aVChris Andersen MIA 02/25/2015 MIA @ ORL W 15 4 1 3 33.3 0 1 0.0 2 4 50.0 0 5 5 1 1 1 3 0 -5
+p260
+aVJames Ennis III MIA 02/25/2015 MIA @ ORL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p261
+aVHassan Whiteside MIA 02/23/2015 MIA vs. PHI W 28 12 5 8 62.5 0 0 - 2 4 50.0 3 11 14 0 0 0 0 1 15
+p262
+aVChris Andersen MIA 02/23/2015 MIA vs. PHI W 17 8 2 3 66.7 0 0 - 4 4 100.0 4 4 8 0 1 2 0 2 4
+p263
+aVShabazz Napier MIA 02/23/2015 MIA vs. PHI W 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 0 0
+p264
+aVZoran Dragic MIA 02/23/2015 MIA vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p265
+aVGoran Dragic MIA 02/23/2015 MIA vs. PHI W 33 23 9 14 64.3 2 4 50.0 3 4 75.0 1 1 2 10 2 0 3 2 19
+p266
+aVLuol Deng MIA 02/23/2015 MIA vs. PHI W 33 29 11 14 78.6 4 5 80.0 3 4 75.0 0 3 3 2 0 0 1 1 23
+p267
+aVJames Ennis III MIA 02/23/2015 MIA vs. PHI W 21 3 1 8 12.5 1 4 25.0 0 0 - 0 1 1 2 0 1 1 3 0
+p268
+aVHenry Walker MIA 02/23/2015 MIA vs. PHI W 21 11 4 5 80.0 3 4 75.0 0 0 - 0 1 1 0 0 0 1 1 -6
+p269
+aVMario Chalmers MIA 02/23/2015 MIA vs. PHI W 21 9 4 8 50.0 1 2 50.0 0 1 0.0 1 1 2 6 1 0 1 5 11
+p270
+aVUdonis Haslem MIA 02/23/2015 MIA vs. PHI W 23 4 2 6 33.3 0 0 - 0 0 - 2 5 7 0 1 0 2 2 -3
+p271
+aVTyler Johnson MIA 02/23/2015 MIA vs. PHI W 3 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -8
+p272
+aVDwyane Wade MIA 02/23/2015 MIA vs. PHI W 23 18 7 13 53.8 0 2 0.0 4 5 80.0 0 3 3 4 1 0 6 2 8
+p273
+aVMario Chalmers MIA 02/21/2015 MIA vs. NOP L 37 20 9 13 69.2 2 5 40.0 0 0 - 0 2 2 2 1 0 2 4 -8
+p274
+aVTyler Johnson MIA 02/21/2015 MIA vs. NOP L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p275
+aVChris Andersen MIA 02/21/2015 MIA vs. NOP L 18 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 4 1 1 1 1 5
+p276
+aVGoran Dragic MIA 02/21/2015 MIA vs. NOP L 33 12 4 11 36.4 1 4 25.0 3 6 50.0 1 2 3 1 1 0 1 4 -18
+p277
+aVHassan Whiteside MIA 02/21/2015 MIA vs. NOP L 30 11 5 11 45.5 0 0 - 1 2 50.0 6 10 16 0 0 5 2 2 -19
+p278
+aVLuol Deng MIA 02/21/2015 MIA vs. NOP L 31 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 1 0 1 4 2 -20
+p279
+aVUdonis Haslem MIA 02/21/2015 MIA vs. NOP L 20 8 2 4 50.0 0 2 0.0 4 4 100.0 0 5 5 0 0 0 1 3 -2
+p280
+aVShabazz Napier MIA 02/21/2015 MIA vs. NOP L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 1 8
+p281
+aVJames Ennis III MIA 02/21/2015 MIA vs. NOP L 23 8 1 4 25.0 1 2 50.0 5 6 83.3 3 5 8 1 1 0 2 2 7
+p282
+aVDwyane Wade MIA 02/21/2015 MIA vs. NOP L 30 19 8 23 34.8 1 3 33.3 2 3 66.7 1 3 4 4 0 0 3 3 -18
+p283
+aVShabazz Napier MIA 02/20/2015 MIA @ NYK W 34 18 6 11 54.5 4 5 80.0 2 2 100.0 0 7 7 6 1 0 7 0 16
+p284
+aVDwyane Wade MIA 02/20/2015 MIA @ NYK W 22 12 4 10 40.0 0 0 - 4 4 100.0 0 4 4 1 0 0 2 2 9
+p285
+aVMario Chalmers MIA 02/20/2015 MIA @ NYK W 37 13 4 14 28.6 1 7 14.3 4 5 80.0 0 6 6 7 8 0 1 1 18
+p286
+aVUdonis Haslem MIA 02/20/2015 MIA @ NYK W 28 13 5 6 83.3 1 1 100.0 2 6 33.3 0 5 5 2 0 1 0 2 8
+p287
+aVJames Ennis III MIA 02/20/2015 MIA @ NYK W 21 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 1 0 1 1 4 9
+p288
+aVChris Andersen MIA 02/20/2015 MIA @ NYK W 21 12 5 8 62.5 0 1 0.0 2 2 100.0 3 2 5 1 0 0 1 4 15
+p289
+aVHassan Whiteside MIA 02/20/2015 MIA @ NYK W 20 12 4 7 57.1 0 0 - 4 6 66.7 3 6 9 1 1 2 3 4 13
+p290
+aVTyler Johnson MIA 02/20/2015 MIA @ NYK W 23 14 5 8 62.5 3 4 75.0 1 2 50.0 0 4 4 1 0 0 1 0 13
+p291
+aVLuol Deng MIA 02/20/2015 MIA @ NYK W 34 13 3 9 33.3 0 1 0.0 7 8 87.5 4 4 8 8 2 0 5 1 19
+p292
+aVMario Chalmers MIA 02/11/2015 MIA @ CLE L 38 18 6 16 37.5 2 6 33.3 4 5 80.0 0 2 2 3 2 0 3 2 -6
+p293
+aVShabazz Napier MIA 02/11/2015 MIA @ CLE L 25 6 3 6 50.0 0 3 0.0 0 0 - 0 2 2 8 1 1 3 1 -4
+p294
+aVHassan Whiteside MIA 02/11/2015 MIA @ CLE L 28 17 8 15 53.3 0 0 - 1 3 33.3 7 7 14 0 1 0 1 4 -6
+p295
+aVNorris Cole MIA 02/11/2015 MIA @ CLE L 22 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 2 1 0 1 3 -25
+p296
+aVJustin Hamilton MIA 02/11/2015 MIA @ CLE L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p297
+aVUdonis Haslem MIA 02/11/2015 MIA @ CLE L 10 5 1 3 33.3 0 0 - 3 3 100.0 2 2 4 1 0 0 0 1 12
+p298
+aVChris Andersen MIA 02/11/2015 MIA @ CLE L 20 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 1 0 0 -14
+p299
+aVTyler Johnson MIA 02/11/2015 MIA @ CLE L 15 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 -9
+p300
+aVDanny Granger MIA 02/11/2015 MIA @ CLE L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -16
+p301
+aVChris Bosh MIA 02/11/2015 MIA @ CLE L 36 15 5 17 29.4 1 4 25.0 4 5 80.0 0 2 2 3 2 0 2 2 -26
+p302
+aVLuol Deng MIA 02/11/2015 MIA @ CLE L 40 17 5 13 38.5 3 5 60.0 4 4 100.0 2 5 7 2 2 2 4 1 -4
+p303
+aVMario Chalmers MIA 02/09/2015 MIA vs. NYK W 35 18 6 14 42.9 3 5 60.0 3 4 75.0 0 5 5 6 3 0 2 4 20
+p304
+aVShabazz Napier MIA 02/09/2015 MIA vs. NYK W 22 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 3 3 0 0 2 -9
+p305
+aVChris Bosh MIA 02/09/2015 MIA vs. NYK W 37 32 12 23 52.2 4 6 66.7 4 5 80.0 0 2 2 6 1 0 2 1 21
+p306
+aVDanny Granger MIA 02/09/2015 MIA vs. NYK W 22 9 2 4 50.0 1 2 50.0 4 4 100.0 0 2 2 0 0 0 0 2 5
+p307
+aVNorris Cole MIA 02/09/2015 MIA vs. NYK W 29 12 4 6 66.7 2 3 66.7 2 2 100.0 0 2 2 8 1 0 3 0 12
+p308
+aVJustin Hamilton MIA 02/09/2015 MIA vs. NYK W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 -3
+p309
+aVLuol Deng MIA 02/09/2015 MIA vs. NYK W 33 12 3 9 33.3 0 2 0.0 6 6 100.0 3 4 7 2 0 0 3 2 6
+p310
+aVChris Andersen MIA 02/09/2015 MIA vs. NYK W 27 10 4 6 66.7 1 1 100.0 1 2 50.0 1 3 4 2 0 3 1 4 15
+p311
+aVTyler Johnson MIA 02/09/2015 MIA vs. NYK W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 4
+p312
+aVUdonis Haslem MIA 02/09/2015 MIA vs. NYK W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p313
+aVHassan Whiteside MIA 02/09/2015 MIA vs. NYK W 19 7 3 4 75.0 0 0 - 1 2 50.0 2 7 9 0 0 2 1 4 1
+p314
+aVLuol Deng MIA 02/06/2015 MIA @ SAS L 34 17 6 13 46.2 1 2 50.0 4 4 100.0 0 6 6 0 0 0 3 1 -15
+p315
+aVTyler Johnson MIA 02/06/2015 MIA @ SAS L 25 18 7 10 70.0 2 2 100.0 2 2 100.0 1 1 2 0 2 0 3 2 -9
+p316
+aVChris Andersen MIA 02/06/2015 MIA @ SAS L 22 10 5 7 71.4 0 0 - 0 0 - 2 3 5 1 0 0 0 1 -3
+p317
+aVJustin Hamilton MIA 02/06/2015 MIA @ SAS L 28 2 1 4 25.0 0 1 0.0 0 0 - 2 3 5 4 1 1 1 2 -4
+p318
+aVMario Chalmers MIA 02/06/2015 MIA @ SAS L 25 7 2 8 25.0 1 3 33.3 2 2 100.0 0 1 1 4 2 0 2 2 -12
+p319
+aVChris Bosh MIA 02/06/2015 MIA @ SAS L 36 14 7 18 38.9 0 1 0.0 0 1 0.0 1 6 7 3 1 1 1 0 -3
+p320
+aVNorris Cole MIA 02/06/2015 MIA @ SAS L 20 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 5 0 0 2 0 -6
+p321
+aVUdonis Haslem MIA 02/06/2015 MIA @ SAS L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -13
+p322
+aVJames Ennis III MIA 02/06/2015 MIA @ SAS L 21 7 3 6 50.0 1 2 50.0 0 0 - 2 6 8 1 1 1 4 2 -1
+p323
+aVShabazz Napier MIA 02/06/2015 MIA @ SAS L 26 4 2 7 28.6 0 4 0.0 0 0 - 1 0 1 5 0 0 0 0 1
+p324
+aVMario Chalmers MIA 02/04/2015 MIA @ MIN L 31 12 5 11 45.5 0 0 - 2 2 100.0 0 3 3 5 1 0 3 4 7
+p325
+aVJames Ennis III MIA 02/04/2015 MIA @ MIN L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 1
+p326
+aVShabazz Napier MIA 02/04/2015 MIA @ MIN L 25 6 2 8 25.0 2 5 40.0 0 0 - 0 3 3 7 1 0 2 3 7
+p327
+aVNorris Cole MIA 02/04/2015 MIA @ MIN L 26 15 5 11 45.5 2 3 66.7 3 6 50.0 0 3 3 3 2 0 2 2 -9
+p328
+aVTyler Johnson MIA 02/04/2015 MIA @ MIN L 14 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 1 0 0 1 -7
+p329
+aVHassan Whiteside MIA 02/04/2015 MIA @ MIN L 36 24 12 13 92.3 0 0 - 0 0 - 9 11 20 0 3 2 4 3 11
+p330
+aVChris Andersen MIA 02/04/2015 MIA @ MIN L 12 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 0 1 1 0 3 -12
+p331
+aVDanny Granger MIA 02/04/2015 MIA @ MIN L 21 6 2 6 33.3 1 2 50.0 1 2 50.0 1 2 3 0 0 0 1 4 4
+p332
+aVLuol Deng MIA 02/04/2015 MIA @ MIN L 34 18 6 10 60.0 1 2 50.0 5 7 71.4 2 2 4 1 2 0 2 0 5
+p333
+aVChris Bosh MIA 02/04/2015 MIA @ MIN L 34 14 5 14 35.7 0 2 0.0 4 5 80.0 0 5 5 1 0 0 3 2 -12
+p334
+aVDanny Granger MIA 02/03/2015 MIA @ DET L 16 10 3 6 50.0 2 4 50.0 2 2 100.0 0 4 4 0 0 0 0 2 -16
+p335
+aVNorris Cole MIA 02/03/2015 MIA @ DET L 33 2 1 5 20.0 0 0 - 0 0 - 0 0 0 8 0 0 0 2 -13
+p336
+aVTyler Johnson MIA 02/03/2015 MIA @ DET L 20 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 3 -10
+p337
+aVUdonis Haslem MIA 02/03/2015 MIA @ DET L 6 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 0 0
+p338
+aVChris Andersen MIA 02/03/2015 MIA @ DET L 21 12 5 7 71.4 0 0 - 2 4 50.0 1 4 5 0 0 1 1 1 -14
+p339
+aVChris Bosh MIA 02/03/2015 MIA @ DET L 34 34 14 23 60.9 3 5 60.0 3 4 75.0 0 3 3 2 1 0 2 0 -3
+p340
+aVShabazz Napier MIA 02/03/2015 MIA @ DET L 15 0 0 0 - 0 0 - 0 0 - 0 2 2 4 0 0 0 1 -4
+p341
+aVMario Chalmers MIA 02/03/2015 MIA @ DET L 28 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 5 0 0 0 1 -7
+p342
+aVJustin Hamilton MIA 02/03/2015 MIA @ DET L 3 5 2 2 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 1
+p343
+aVHassan Whiteside MIA 02/03/2015 MIA @ DET L 24 11 5 12 41.7 0 0 - 1 2 50.0 5 5 10 0 0 5 1 3 -2
+p344
+aVLuol Deng MIA 02/03/2015 MIA @ DET L 30 10 3 9 33.3 0 2 0.0 4 5 80.0 1 4 5 3 0 0 2 0 9
+p345
+aVJames Ennis III MIA 02/03/2015 MIA @ DET L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -26
+p346
+aVJames Ennis III MIA 02/01/2015 MIA @ BOS W 24 8 3 6 50.0 0 2 0.0 2 2 100.0 0 3 3 0 1 0 3 1 7
+p347
+aVUdonis Haslem MIA 02/01/2015 MIA @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p348
+aVChris Bosh MIA 02/01/2015 MIA @ BOS W 35 18 6 19 31.6 1 4 25.0 5 7 71.4 2 5 7 2 0 1 4 1 8
+p349
+aVChris Andersen MIA 02/01/2015 MIA @ BOS W 18 5 2 2 100.0 1 1 100.0 0 0 - 0 5 5 1 0 1 0 2 1
+p350
+aVHassan Whiteside MIA 02/01/2015 MIA @ BOS W 30 20 10 17 58.8 0 0 - 0 0 - 3 6 9 0 0 3 0 3 7
+p351
+aVNorris Cole MIA 02/01/2015 MIA @ BOS W 23 4 2 5 40.0 0 0 - 0 0 - 0 2 2 4 0 0 1 2 10
+p352
+aVDanny Granger MIA 02/01/2015 MIA @ BOS W 22 6 2 6 33.3 0 4 0.0 2 2 100.0 1 2 3 2 0 0 0 1 -1
+p353
+aVShabazz Napier MIA 02/01/2015 MIA @ BOS W 21 5 2 8 25.0 1 5 20.0 0 0 - 0 4 4 3 1 0 1 0 0
+p354
+aVTyler Johnson MIA 02/01/2015 MIA @ BOS W 27 13 4 9 44.4 1 3 33.3 4 6 66.7 2 7 9 4 2 2 1 1 8
+p355
+aVMario Chalmers MIA 02/01/2015 MIA @ BOS W 26 4 1 4 25.0 0 1 0.0 2 4 50.0 2 2 4 2 3 1 5 2 0
+p356
+aVShawne Williams MIA 02/01/2015 MIA @ BOS W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 5 1
+p357
+aVChris Andersen MIA 01/30/2015 MIA vs. DAL L 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 1 1 0 0 0 -7
+p358
+aVNorris Cole MIA 01/30/2015 MIA vs. DAL L 20 2 1 10 10.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 3 -11
+p359
+aVJustin Hamilton MIA 01/30/2015 MIA vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 1 0 0 0 0 0
+p360
+aVChris Bosh MIA 01/30/2015 MIA vs. DAL L 34 12 5 18 27.8 1 4 25.0 1 3 33.3 2 6 8 1 0 1 3 1 -16
+p361
+aVShabazz Napier MIA 01/30/2015 MIA vs. DAL L 17 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 2 0 0 3 2 2
+p362
+aVHassan Whiteside MIA 01/30/2015 MIA vs. DAL L 29 16 7 11 63.6 0 0 - 2 3 66.7 10 14 24 0 1 1 3 3 -7
+p363
+aVJames Ennis III MIA 01/30/2015 MIA vs. DAL L 32 15 6 12 50.0 3 5 60.0 0 0 - 2 2 4 0 0 0 0 2 -20
+p364
+aVTyler Johnson MIA 01/30/2015 MIA vs. DAL L 24 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 3 3 1 1 1 -17
+p365
+aVShawne Williams MIA 01/30/2015 MIA vs. DAL L 16 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 1 0 0 0 1 -12
+p366
+aVMario Chalmers MIA 01/30/2015 MIA vs. DAL L 35 10 3 11 27.3 2 7 28.6 2 4 50.0 1 2 3 6 1 0 5 3 -16
+p367
+aVDanny Granger MIA 01/30/2015 MIA vs. DAL L 16 0 0 6 0.0 0 4 0.0 0 0 - 0 1 1 1 0 0 1 1 -1
+p368
+aVDanny Granger MIA 01/27/2015 MIA vs. MIL L 36 14 5 9 55.6 3 5 60.0 1 1 100.0 1 5 6 2 1 0 0 2 4
+p369
+aVShabazz Napier MIA 01/27/2015 MIA vs. MIL L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 3 1 -2
+p370
+aVNorris Cole MIA 01/27/2015 MIA vs. MIL L 25 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 2 0 0 0 0 -9
+p371
+aVChris Bosh MIA 01/27/2015 MIA vs. MIL L 36 26 10 19 52.6 2 4 50.0 4 6 66.7 0 4 4 1 0 0 2 1 0
+p372
+aVJames Ennis III MIA 01/27/2015 MIA vs. MIL L 19 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 0 5 -14
+p373
+aVUdonis Haslem MIA 01/27/2015 MIA vs. MIL L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p374
+aVShawne Williams MIA 01/27/2015 MIA vs. MIL L 12 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 3 -7
+p375
+aVDwyane Wade MIA 01/27/2015 MIA vs. MIL L 19 12 5 9 55.6 0 0 - 2 3 66.7 0 1 1 4 2 0 4 0 0
+p376
+aVMario Chalmers MIA 01/27/2015 MIA vs. MIL L 34 21 6 9 66.7 1 3 33.3 8 12 66.7 0 2 2 8 0 1 1 5 0
+p377
+aVHassan Whiteside MIA 01/27/2015 MIA vs. MIL L 36 16 6 12 50.0 0 0 - 4 4 100.0 3 13 16 1 1 0 2 5 0
+p378
+aVLuol Deng MIA 01/25/2015 MIA @ CHI W 38 15 5 15 33.3 0 2 0.0 5 7 71.4 3 7 10 4 0 1 1 1 12
+p379
+aVUdonis Haslem MIA 01/25/2015 MIA @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -2
+p380
+aVShawne Williams MIA 01/25/2015 MIA @ CHI W 11 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 0 2 0 0 0 -2
+p381
+aVChris Andersen MIA 01/25/2015 MIA @ CHI W 21 4 2 3 66.7 0 0 - 0 0 - 1 8 9 2 0 0 0 1 7
+p382
+aVHassan Whiteside MIA 01/25/2015 MIA @ CHI W 25 14 6 10 60.0 0 0 - 2 4 50.0 6 7 13 0 0 12 0 4 5
+p383
+aVShabazz Napier MIA 01/25/2015 MIA @ CHI W 27 0 0 5 0.0 0 2 0.0 0 0 - 0 3 3 2 1 0 0 3 4
+p384
+aVChris Bosh MIA 01/25/2015 MIA @ CHI W 36 20 9 20 45.0 0 4 0.0 2 2 100.0 1 6 7 3 1 0 1 1 16
+p385
+aVDwyane Wade MIA 01/25/2015 MIA @ CHI W 39 26 10 18 55.6 0 0 - 6 6 100.0 1 2 3 3 0 0 5 3 5
+p386
+aVMario Chalmers MIA 01/25/2015 MIA @ CHI W 40 15 5 10 50.0 1 3 33.3 4 4 100.0 0 4 4 5 2 0 3 2 15
+p387
+aVChris Andersen MIA 01/23/2015 MIA vs. IND W 28 4 1 1 100.0 0 0 - 2 2 100.0 3 10 13 0 0 0 2 3 2
+p388
+aVUdonis Haslem MIA 01/23/2015 MIA vs. IND W 16 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 0
+p389
+aVChris Bosh MIA 01/23/2015 MIA vs. IND W 33 19 8 16 50.0 0 4 0.0 3 3 100.0 0 4 4 1 1 0 1 5 12
+p390
+aVShawne Williams MIA 01/23/2015 MIA vs. IND W 18 6 3 8 37.5 0 3 0.0 0 0 - 1 1 2 1 0 0 3 4 -9
+p391
+aVLuol Deng MIA 01/23/2015 MIA vs. IND W 35 23 9 13 69.2 3 3 100.0 2 2 100.0 0 5 5 3 0 0 1 2 -2
+p392
+aVDanny Granger MIA 01/23/2015 MIA vs. IND W 13 6 3 3 100.0 0 0 - 0 0 - 0 2 2 2 1 0 1 1 4
+p393
+aVMario Chalmers MIA 01/23/2015 MIA vs. IND W 30 9 3 7 42.9 0 2 0.0 3 3 100.0 0 3 3 2 2 0 0 3 1
+p394
+aVNorris Cole MIA 01/23/2015 MIA vs. IND W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 3 1 0 0 1 -7
+p395
+aVDwyane Wade MIA 01/23/2015 MIA vs. IND W 32 13 5 16 31.3 0 2 0.0 3 5 60.0 0 0 0 4 2 0 6 2 3
+p396
+aVShabazz Napier MIA 01/23/2015 MIA vs. IND W 22 3 1 5 20.0 1 1 100.0 0 0 - 0 1 1 3 1 0 2 2 6
+p397
+aVShabazz Napier MIA 01/21/2015 MIA @ CHA L 22 0 0 4 0.0 0 1 0.0 0 0 - 1 4 5 4 2 0 3 1 -5
+p398
+aVDanny Granger MIA 01/21/2015 MIA @ CHA L 20 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 1 1 0 2 -6
+p399
+aVShawne Williams MIA 01/21/2015 MIA @ CHA L 27 8 3 9 33.3 2 5 40.0 0 0 - 2 1 3 0 1 1 0 2 4
+p400
+aVUdonis Haslem MIA 01/21/2015 MIA @ CHA L 15 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -3
+p401
+aVNorris Cole MIA 01/21/2015 MIA @ CHA L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 2
+p402
+aVChris Andersen MIA 01/21/2015 MIA @ CHA L 20 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 2 0 3 0 2 -5
+p403
+aVChris Bosh MIA 01/21/2015 MIA @ CHA L 34 17 7 20 35.0 1 6 16.7 2 2 100.0 0 7 7 2 0 1 1 2 0
+p404
+aVMario Chalmers MIA 01/21/2015 MIA @ CHA L 32 13 4 10 40.0 1 3 33.3 4 6 66.7 2 1 3 1 0 0 2 5 -12
+p405
+aVJames Ennis III MIA 01/21/2015 MIA @ CHA L 28 8 2 8 25.0 0 2 0.0 4 4 100.0 3 4 7 0 1 1 0 1 4
+p406
+aVDwyane Wade MIA 01/21/2015 MIA @ CHA L 33 17 8 21 38.1 0 0 - 1 1 100.0 1 6 7 4 2 0 1 4 11
+p407
+aVHassan Whiteside MIA 01/20/2015 MIA vs. OKC L 11 10 5 5 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -2
+p408
+aVNorris Cole MIA 01/20/2015 MIA vs. OKC L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 4 0 0 1 3 -9
+p409
+aVLuol Deng MIA 01/20/2015 MIA vs. OKC L 29 8 2 6 33.3 1 3 33.3 3 4 75.0 0 4 4 1 0 0 2 1 -5
+p410
+aVUdonis Haslem MIA 01/20/2015 MIA vs. OKC L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 0 0 1
+p411
+aVMario Chalmers MIA 01/20/2015 MIA vs. OKC L 28 6 2 4 50.0 1 3 33.3 1 1 100.0 0 1 1 3 0 0 4 2 -2
+p412
+aVShawne Williams MIA 01/20/2015 MIA vs. OKC L 7 3 1 4 25.0 1 4 25.0 0 0 - 1 1 2 0 1 0 0 0 1
+p413
+aVChris Andersen MIA 01/20/2015 MIA vs. OKC L 29 7 3 6 50.0 1 1 100.0 0 0 - 1 5 6 0 0 1 0 4 -8
+p414
+aVShabazz Napier MIA 01/20/2015 MIA vs. OKC L 16 5 1 3 33.3 1 2 50.0 2 2 100.0 0 3 3 4 0 0 2 0 -3
+p415
+aVDwyane Wade MIA 01/20/2015 MIA vs. OKC L 34 18 8 18 44.4 0 2 0.0 2 4 50.0 0 2 2 6 1 0 4 1 -2
+p416
+aVDanny Granger MIA 01/20/2015 MIA vs. OKC L 25 9 3 5 60.0 2 3 66.7 1 2 50.0 0 3 3 0 0 0 1 2 -5
+p417
+aVChris Bosh MIA 01/20/2015 MIA vs. OKC L 37 16 5 12 41.7 1 3 33.3 5 6 83.3 1 6 7 1 1 0 4 3 -6
+p418
+aVNorris Cole MIA 01/16/2015 MIA @ SAC W 18 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 2 6
+p419
+aVLuol Deng MIA 01/16/2015 MIA @ SAC W 37 25 11 18 61.1 2 4 50.0 1 2 50.0 1 5 6 4 2 2 0 0 10
+p420
+aVDanny Granger MIA 01/16/2015 MIA @ SAC W 11 3 1 4 25.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 1 1 2
+p421
+aVMario Chalmers MIA 01/16/2015 MIA @ SAC W 35 7 3 9 33.3 1 4 25.0 0 0 - 0 4 4 4 1 0 1 0 4
+p422
+aVChris Bosh MIA 01/16/2015 MIA @ SAC W 39 30 11 20 55.0 3 3 100.0 5 6 83.3 1 6 7 3 3 1 1 1 13
+p423
+aVShawne Williams MIA 01/16/2015 MIA @ SAC W 18 7 2 2 100.0 1 1 100.0 2 2 100.0 0 5 5 1 0 0 1 2 8
+p424
+aVShabazz Napier MIA 01/16/2015 MIA @ SAC W 38 12 3 11 27.3 1 3 33.3 5 6 83.3 1 5 6 5 2 1 3 1 11
+p425
+aVUdonis Haslem MIA 01/16/2015 MIA @ SAC W 24 7 3 5 60.0 0 0 - 1 2 50.0 3 3 6 2 0 0 1 4 -2
+p426
+aVJames Ennis III MIA 01/16/2015 MIA @ SAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p427
+aVHassan Whiteside MIA 01/16/2015 MIA @ SAC W 15 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 2 1 3 5
+p428
+aVLuol Deng MIA 01/14/2015 MIA @ GSW L 34 19 6 11 54.5 2 4 50.0 5 8 62.5 3 4 7 1 0 0 1 1 -12
+p429
+aVMario Chalmers MIA 01/14/2015 MIA @ GSW L 35 7 2 9 22.2 0 3 0.0 3 3 100.0 0 2 2 5 3 0 2 3 -13
+p430
+aVHassan Whiteside MIA 01/14/2015 MIA @ GSW L 29 10 5 10 50.0 0 0 - 0 0 - 3 9 12 0 0 3 3 2 -16
+p431
+aVTyler Johnson MIA 01/14/2015 MIA @ GSW L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -1
+p432
+aVJustin Hamilton MIA 01/14/2015 MIA @ GSW L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p433
+aVChris Andersen MIA 01/14/2015 MIA @ GSW L 12 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 2
+p434
+aVDanny Granger MIA 01/14/2015 MIA @ GSW L 13 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 1 0 -4
+p435
+aVChris Bosh MIA 01/14/2015 MIA @ GSW L 33 26 8 18 44.4 2 4 50.0 8 8 100.0 2 5 7 1 0 0 3 2 -10
+p436
+aVShawne Williams MIA 01/14/2015 MIA @ GSW L 18 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 1 1 0 1 3 1
+p437
+aVShabazz Napier MIA 01/14/2015 MIA @ GSW L 33 10 3 7 42.9 1 3 33.3 3 4 75.0 1 1 2 6 1 0 3 5 -7
+p438
+aVNorris Cole MIA 01/14/2015 MIA @ GSW L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 0 1 2 2 -9
+p439
+aVJames Ennis III MIA 01/14/2015 MIA @ GSW L 14 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 0 -5
+p440
+aVShawne Williams MIA 01/13/2015 MIA @ LAL W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 3
+p441
+aVChris Bosh MIA 01/13/2015 MIA @ LAL W 38 8 4 17 23.5 0 4 0.0 0 0 - 2 6 8 4 2 1 4 0 -1
+p442
+aVJames Ennis III MIA 01/13/2015 MIA @ LAL W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 1 -2
+p443
+aVNorris Cole MIA 01/13/2015 MIA @ LAL W 19 7 3 6 50.0 1 3 33.3 0 2 0.0 0 2 2 4 0 1 3 1 -7
+p444
+aVDanny Granger MIA 01/13/2015 MIA @ LAL W 24 2 0 3 0.0 0 1 0.0 2 2 100.0 0 4 4 0 1 0 3 5 1
+p445
+aVShabazz Napier MIA 01/13/2015 MIA @ LAL W 12 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 1 0 0 -5
+p446
+aVChris Andersen MIA 01/13/2015 MIA @ LAL W 27 12 5 6 83.3 0 0 - 2 2 100.0 1 7 8 1 0 3 0 0 -3
+p447
+aVLuol Deng MIA 01/13/2015 MIA @ LAL W 37 8 4 13 30.8 0 2 0.0 0 0 - 2 6 8 0 1 0 2 1 4
+p448
+aVHassan Whiteside MIA 01/13/2015 MIA @ LAL W 21 15 7 9 77.8 0 0 - 1 2 50.0 3 6 9 0 0 5 0 4 6
+p449
+aVMario Chalmers MIA 01/13/2015 MIA @ LAL W 34 19 7 16 43.8 0 3 0.0 5 7 71.4 0 3 3 8 2 0 2 3 2
+p450
+aVDwyane Wade MIA 01/13/2015 MIA @ LAL W 15 4 2 5 40.0 0 0 - 0 0 - 0 5 5 5 0 0 1 0 17
+p451
+aVUdonis Haslem MIA 01/11/2015 MIA @ LAC W 5 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p452
+aVLuol Deng MIA 01/11/2015 MIA @ LAC W 34 10 4 9 44.4 2 5 40.0 0 0 - 1 2 3 4 0 0 2 3 3
+p453
+aVJames Ennis III MIA 01/11/2015 MIA @ LAC W 8 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 1 0 1 0 1 14
+p454
+aVChris Bosh MIA 01/11/2015 MIA @ LAC W 39 34 13 20 65.0 2 5 40.0 6 7 85.7 2 5 7 2 0 0 1 1 5
+p455
+aVMario Chalmers MIA 01/11/2015 MIA @ LAC W 18 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 3 1 0 1 4 -3
+p456
+aVChris Andersen MIA 01/11/2015 MIA @ LAC W 17 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 0 1 2 2 1 -14
+p457
+aVHassan Whiteside MIA 01/11/2015 MIA @ LAC W 29 23 10 13 76.9 0 0 - 3 4 75.0 5 11 16 0 2 2 0 5 26
+p458
+aVDwyane Wade MIA 01/11/2015 MIA @ LAC W 36 17 5 15 33.3 0 2 0.0 7 9 77.8 2 2 4 10 1 0 2 1 19
+p459
+aVDanny Granger MIA 01/11/2015 MIA @ LAC W 24 6 3 9 33.3 0 3 0.0 0 0 - 2 1 3 2 0 0 2 2 5
+p460
+aVNorris Cole MIA 01/11/2015 MIA @ LAC W 30 5 2 4 50.0 1 3 33.3 0 0 - 0 5 5 6 3 0 2 0 17
+p461
+aVHassan Whiteside MIA 01/08/2015 MIA @ POR L 19 10 5 6 83.3 0 0 - 0 0 - 0 8 8 0 0 4 1 2 1
+p462
+aVJames Ennis III MIA 01/08/2015 MIA @ POR L 15 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 11
+p463
+aVJustin Hamilton MIA 01/08/2015 MIA @ POR L 5 2 1 3 33.3 0 1 0.0 0 0 - 2 0 2 0 0 0 0 0 5
+p464
+aVShabazz Napier MIA 01/08/2015 MIA @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p465
+aVLuol Deng MIA 01/08/2015 MIA @ POR L 34 7 3 11 27.3 1 3 33.3 0 0 - 2 3 5 1 0 1 2 2 -19
+p466
+aVDanny Granger MIA 01/08/2015 MIA @ POR L 22 3 1 4 25.0 0 2 0.0 1 1 100.0 2 3 5 0 1 0 0 1 -1
+p467
+aVChris Andersen MIA 01/08/2015 MIA @ POR L 24 5 1 2 50.0 0 0 - 3 6 50.0 1 2 3 1 2 1 0 1 -17
+p468
+aVChris Bosh MIA 01/08/2015 MIA @ POR L 36 18 5 16 31.3 2 4 50.0 6 7 85.7 1 4 5 5 0 0 2 2 -22
+p469
+aVMario Chalmers MIA 01/08/2015 MIA @ POR L 30 8 3 7 42.9 0 1 0.0 2 2 100.0 1 3 4 3 1 0 1 2 -21
+p470
+aVDwyane Wade MIA 01/08/2015 MIA @ POR L 33 23 7 18 38.9 0 0 - 9 12 75.0 1 6 7 2 0 0 3 3 -27
+p471
+aVNorris Cole MIA 01/08/2015 MIA @ POR L 13 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 2 1 1 0 0 0
+p472
+aVShawne Williams MIA 01/08/2015 MIA @ POR L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 5
+p473
+aVHassan Whiteside MIA 01/04/2015 MIA vs. BKN W 27 11 5 7 71.4 0 0 - 1 1 100.0 1 9 10 0 1 5 1 1 -1
+p474
+aVDwyane Wade MIA 01/04/2015 MIA vs. BKN W 34 25 9 20 45.0 0 1 0.0 7 9 77.8 2 4 6 7 2 0 5 2 2
+p475
+aVMario Chalmers MIA 01/04/2015 MIA vs. BKN W 28 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 1 1 1 3 3 3
+p476
+aVDanny Granger MIA 01/04/2015 MIA vs. BKN W 31 3 1 7 14.3 0 3 0.0 1 2 50.0 0 4 4 3 0 1 0 2 -5
+p477
+aVChris Bosh MIA 01/04/2015 MIA vs. BKN W 39 26 10 16 62.5 3 4 75.0 3 6 50.0 1 4 5 2 1 0 1 4 7
+p478
+aVChris Andersen MIA 01/04/2015 MIA vs. BKN W 21 7 1 1 100.0 0 0 - 5 6 83.3 2 6 8 1 0 1 0 2 3
+p479
+aVLuol Deng MIA 01/04/2015 MIA vs. BKN W 25 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 3 2 1 1 4 9
+p480
+aVJames Ennis III MIA 01/04/2015 MIA vs. BKN W 15 2 0 3 0.0 0 1 0.0 2 2 100.0 1 2 3 2 1 0 1 0 -1
+p481
+aVNorris Cole MIA 01/04/2015 MIA vs. BKN W 20 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 2 0 0 2 2 3
+p482
+aVDanny Granger MIA 01/03/2015 MIA @ HOU L 23 5 1 6 16.7 1 3 33.3 2 2 100.0 0 1 1 0 2 0 2 1 -17
+p483
+aVLuol Deng MIA 01/03/2015 MIA @ HOU L 24 10 5 8 62.5 0 0 - 0 0 - 3 3 6 1 1 0 4 1 -15
+p484
+aVChris Bosh MIA 01/03/2015 MIA @ HOU L 27 15 4 12 33.3 1 4 25.0 6 8 75.0 2 2 4 2 0 0 4 2 -27
+p485
+aVNorris Cole MIA 01/03/2015 MIA @ HOU L 28 6 3 7 42.9 0 0 - 0 0 - 0 2 2 4 0 0 3 4 -26
+p486
+aVAndre Dawkins MIA 01/03/2015 MIA @ HOU L 9 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 1 -6
+p487
+aVShawne Williams MIA 01/03/2015 MIA @ HOU L 10 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 1 0 0 1 -18
+p488
+aVMario Chalmers MIA 01/03/2015 MIA @ HOU L 20 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 5 1 0 0 4 -10
+p489
+aVHassan Whiteside MIA 01/03/2015 MIA @ HOU L 20 14 6 8 75.0 0 0 - 2 6 33.3 2 4 6 0 0 2 3 2 -12
+p490
+aVUdonis Haslem MIA 01/03/2015 MIA @ HOU L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p491
+aVJames Ennis III MIA 01/03/2015 MIA @ HOU L 24 7 3 6 50.0 1 3 33.3 0 2 0.0 1 1 2 2 1 1 2 1 -22
+p492
+aVDwyane Wade MIA 01/03/2015 MIA @ HOU L 25 15 5 11 45.5 0 0 - 5 5 100.0 0 4 4 3 0 0 2 0 -12
+p493
+aVChris Andersen MIA 01/03/2015 MIA @ HOU L 20 4 2 2 100.0 0 0 - 0 2 0.0 0 3 3 2 0 0 1 0 -14
+p494
+aVNorris Cole MIA 12/31/2014 MIA @ IND L 23 6 2 4 50.0 0 1 0.0 2 2 100.0 1 3 4 3 1 0 4 2 -8
+p495
+aVShawne Williams MIA 12/31/2014 MIA @ IND L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 2
+p496
+aVDanny Granger MIA 12/31/2014 MIA @ IND L 25 14 6 9 66.7 2 4 50.0 0 0 - 0 3 3 0 1 0 2 4 -6
+p497
+aVChris Andersen MIA 12/31/2014 MIA @ IND L 21 11 3 7 42.9 0 0 - 5 6 83.3 3 4 7 0 0 2 0 2 -3
+p498
+aVDwyane Wade MIA 12/31/2014 MIA @ IND L 38 20 9 20 45.0 0 2 0.0 2 2 100.0 1 1 2 7 2 3 1 4 -7
+p499
+aVHassan Whiteside MIA 12/31/2014 MIA @ IND L 20 6 3 6 50.0 0 0 - 0 0 - 3 4 7 0 1 3 0 2 -11
+p500
+aVMario Chalmers MIA 12/31/2014 MIA @ IND L 33 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 6 0 0 4 5 -2
+p501
+aVChris Bosh MIA 12/31/2014 MIA @ IND L 38 18 7 14 50.0 2 4 50.0 2 3 66.7 0 8 8 1 0 0 0 2 -13
+p502
+aVLuol Deng MIA 12/31/2014 MIA @ IND L 32 15 6 11 54.5 0 2 0.0 3 5 60.0 0 3 3 3 0 0 0 0 -7
+p503
+aVDwyane Wade MIA 12/29/2014 MIA vs. ORL L 31 25 7 14 50.0 0 1 0.0 11 11 100.0 1 2 3 6 1 0 3 0 6
+p504
+aVLuol Deng MIA 12/29/2014 MIA vs. ORL L 38 14 5 11 45.5 1 3 33.3 3 4 75.0 1 2 3 0 1 0 2 1 -3
+p505
+aVHassan Whiteside MIA 12/29/2014 MIA vs. ORL L 18 8 1 1 100.0 0 0 - 6 11 54.5 2 5 7 1 1 2 0 3 -5
+p506
+aVChris Bosh MIA 12/29/2014 MIA vs. ORL L 33 20 8 17 47.1 0 1 0.0 4 7 57.1 1 7 8 1 1 0 2 1 4
+p507
+aVNorris Cole MIA 12/29/2014 MIA vs. ORL L 35 6 2 5 40.0 0 2 0.0 2 2 100.0 0 3 3 4 2 0 2 4 4
+p508
+aVDanny Granger MIA 12/29/2014 MIA vs. ORL L 32 21 7 10 70.0 6 7 85.7 1 3 33.3 1 3 4 2 1 0 2 2 -3
+p509
+aVMario Chalmers MIA 12/29/2014 MIA vs. ORL L 30 2 1 3 33.3 0 0 - 0 0 - 0 4 4 2 2 0 3 3 -12
+p510
+aVChris Andersen MIA 12/29/2014 MIA vs. ORL L 23 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 2 0 1 0 1 4
+p511
+aVUdonis Haslem MIA 12/27/2014 MIA vs. MEM L 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 0 0 2 0 -1
+p512
+aVLuol Deng MIA 12/27/2014 MIA vs. MEM L 40 16 6 10 60.0 1 1 100.0 3 4 75.0 2 4 6 3 3 0 4 3 -5
+p513
+aVNorris Cole MIA 12/27/2014 MIA vs. MEM L 28 7 3 10 30.0 1 6 16.7 0 0 - 0 3 3 3 1 1 2 1 -13
+p514
+aVChris Andersen MIA 12/27/2014 MIA vs. MEM L 25 13 5 5 100.0 0 0 - 3 4 75.0 1 3 4 0 0 1 2 4 -7
+p515
+aVShawne Williams MIA 12/27/2014 MIA vs. MEM L 17 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 0 1 0 1 3 9
+p516
+aVMario Chalmers MIA 12/27/2014 MIA vs. MEM L 39 7 2 10 20.0 0 3 0.0 3 3 100.0 0 3 3 3 1 0 0 4 -3
+p517
+aVDwyane Wade MIA 12/27/2014 MIA vs. MEM L 36 25 11 17 64.7 1 3 33.3 2 2 100.0 0 3 3 7 4 2 1 3 -8
+p518
+aVHassan Whiteside MIA 12/27/2014 MIA vs. MEM L 16 2 0 2 0.0 0 0 - 2 6 33.3 1 6 7 0 0 0 1 5 0
+p519
+aVDanny Granger MIA 12/27/2014 MIA vs. MEM L 28 18 7 10 70.0 2 5 40.0 2 2 100.0 3 0 3 0 0 0 0 3 -13
+p520
+aVJames Ennis III MIA 12/27/2014 MIA vs. MEM L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p521
+aVDanny Granger MIA 12/25/2014 MIA vs. CLE W 22 9 4 5 80.0 1 2 50.0 0 0 - 0 7 7 1 0 0 0 4 15
+p522
+aVUdonis Haslem MIA 12/25/2014 MIA vs. CLE W 13 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 1 0 1 3 -12
+p523
+aVDwyane Wade MIA 12/25/2014 MIA vs. CLE W 37 31 12 28 42.9 2 5 40.0 5 5 100.0 1 4 5 5 2 1 1 0 5
+p524
+aVHassan Whiteside MIA 12/25/2014 MIA vs. CLE W 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 5
+p525
+aVNorris Cole MIA 12/25/2014 MIA vs. CLE W 34 8 2 7 28.6 1 2 50.0 3 4 75.0 1 1 2 5 1 0 4 3 9
+p526
+aVShawne Williams MIA 12/25/2014 MIA vs. CLE W 26 5 2 6 33.3 1 5 20.0 0 0 - 2 3 5 1 1 0 0 2 0
+p527
+aVLuol Deng MIA 12/25/2014 MIA vs. CLE W 40 25 11 16 68.8 1 3 33.3 2 2 100.0 3 5 8 8 0 0 2 4 9
+p528
+aVMario Chalmers MIA 12/25/2014 MIA vs. CLE W 31 5 2 12 16.7 1 4 25.0 0 0 - 1 0 1 6 1 0 2 3 4
+p529
+aVChris Andersen MIA 12/25/2014 MIA vs. CLE W 29 12 4 5 80.0 0 0 - 4 6 66.7 2 6 8 1 2 1 0 5 15
+p530
+aVLuol Deng MIA 12/23/2014 MIA vs. PHI L 32 7 3 11 27.3 1 6 16.7 0 0 - 1 3 4 2 3 0 3 1 9
+p531
+aVDanny Granger MIA 12/23/2014 MIA vs. PHI L 23 6 2 7 28.6 2 3 66.7 0 0 - 0 3 3 0 0 0 3 1 -16
+p532
+aVHassan Whiteside MIA 12/23/2014 MIA vs. PHI L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 2 2 0 -1
+p533
+aVShawne Williams MIA 12/23/2014 MIA vs. PHI L 26 17 6 9 66.7 3 5 60.0 2 2 100.0 2 3 5 0 0 1 0 2 12
+p534
+aVJames Ennis III MIA 12/23/2014 MIA vs. PHI L 16 6 3 6 50.0 0 2 0.0 0 0 - 1 2 3 0 0 0 1 2 -13
+p535
+aVDwyane Wade MIA 12/23/2014 MIA vs. PHI L 34 23 9 21 42.9 0 3 0.0 5 7 71.4 2 3 5 6 0 0 3 2 -2
+p536
+aVUdonis Haslem MIA 12/23/2014 MIA vs. PHI L 25 4 2 4 50.0 0 0 - 0 2 0.0 4 4 8 2 2 1 2 4 -14
+p537
+aVNorris Cole MIA 12/23/2014 MIA vs. PHI L 21 7 2 8 25.0 1 3 33.3 2 2 100.0 1 0 1 0 1 0 1 1 -14
+p538
+aVMario Chalmers MIA 12/23/2014 MIA vs. PHI L 39 11 4 8 50.0 1 4 25.0 2 2 100.0 2 3 5 3 2 0 4 2 5
+p539
+aVChris Andersen MIA 12/23/2014 MIA vs. PHI L 20 6 2 4 50.0 0 0 - 2 3 66.7 1 4 5 0 2 2 1 4 14
+p540
+aVNorris Cole MIA 12/21/2014 MIA vs. BOS W 37 15 7 13 53.8 0 2 0.0 1 2 50.0 1 3 4 4 0 1 1 1 14
+p541
+aVMario Chalmers MIA 12/21/2014 MIA vs. BOS W 35 11 5 13 38.5 0 3 0.0 1 4 25.0 0 2 2 10 1 0 2 1 14
+p542
+aVShawne Williams MIA 12/21/2014 MIA vs. BOS W 31 11 4 11 36.4 2 7 28.6 1 1 100.0 0 5 5 0 2 2 1 3 6
+p543
+aVDanny Granger MIA 12/21/2014 MIA vs. BOS W 18 7 2 7 28.6 1 4 25.0 2 2 100.0 1 3 4 0 1 0 0 5 3
+p544
+aVUdonis Haslem MIA 12/21/2014 MIA vs. BOS W 25 10 3 4 75.0 0 0 - 4 4 100.0 1 5 6 2 0 0 1 1 3
+p545
+aVJames Ennis III MIA 12/21/2014 MIA vs. BOS W 26 16 4 8 50.0 2 3 66.7 6 6 100.0 3 5 8 0 1 0 1 3 10
+p546
+aVLuol Deng MIA 12/21/2014 MIA vs. BOS W 36 23 9 15 60.0 1 2 50.0 4 4 100.0 0 3 3 1 2 0 2 0 14
+p547
+aVJustin Hamilton MIA 12/21/2014 MIA vs. BOS W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p548
+aVChris Andersen MIA 12/21/2014 MIA vs. BOS W 24 7 3 6 50.0 0 0 - 1 3 33.3 0 6 6 1 2 0 0 0 11
+p549
+aVMario Chalmers MIA 12/19/2014 MIA vs. WAS L 36 14 4 9 44.4 2 4 50.0 4 5 80.0 1 2 3 5 0 0 4 4 -9
+p550
+aVHassan Whiteside MIA 12/19/2014 MIA vs. WAS L 16 6 3 3 100.0 0 0 - 0 0 - 1 6 7 0 2 1 1 5 5
+p551
+aVNorris Cole MIA 12/19/2014 MIA vs. WAS L 31 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 4 2 0 3 2 -12
+p552
+aVShawne Williams MIA 12/19/2014 MIA vs. WAS L 24 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 0 0 0 0 2 18
+p553
+aVUdonis Haslem MIA 12/19/2014 MIA vs. WAS L 17 11 5 5 100.0 0 0 - 1 1 100.0 1 3 4 2 0 0 0 1 -14
+p554
+aVChris Andersen MIA 12/19/2014 MIA vs. WAS L 19 7 2 3 66.7 0 0 - 3 3 100.0 0 5 5 0 1 1 0 2 3
+p555
+aVJustin Hamilton MIA 12/19/2014 MIA vs. WAS L 13 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 2 -8
+p556
+aVJames Ennis III MIA 12/19/2014 MIA vs. WAS L 11 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 3
+p557
+aVLuol Deng MIA 12/19/2014 MIA vs. WAS L 37 19 7 12 58.3 2 3 66.7 3 4 75.0 0 5 5 3 1 1 1 4 -2
+p558
+aVDwyane Wade MIA 12/19/2014 MIA vs. WAS L 37 28 12 26 46.2 2 4 50.0 2 5 40.0 1 3 4 8 1 0 5 5 6
+p559
+aVShawne Williams MIA 12/17/2014 MIA vs. UTA L 29 5 2 7 28.6 1 4 25.0 0 0 - 1 3 4 1 1 0 1 4 -6
+p560
+aVChris Andersen MIA 12/17/2014 MIA vs. UTA L 26 6 3 6 50.0 0 0 - 0 0 - 2 7 9 0 1 0 1 2 -2
+p561
+aVLuol Deng MIA 12/17/2014 MIA vs. UTA L 31 8 3 6 50.0 0 1 0.0 2 2 100.0 1 3 4 2 1 0 1 3 -18
+p562
+aVJustin Hamilton MIA 12/17/2014 MIA vs. UTA L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 -13
+p563
+aVJames Ennis III MIA 12/17/2014 MIA vs. UTA L 22 9 2 4 50.0 0 0 - 5 5 100.0 1 1 2 0 1 0 0 2 -3
+p564
+aVUdonis Haslem MIA 12/17/2014 MIA vs. UTA L 22 3 1 4 25.0 0 0 - 1 3 33.3 1 1 2 0 1 0 0 3 -14
+p565
+aVNorris Cole MIA 12/17/2014 MIA vs. UTA L 17 1 0 4 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 1 -1
+p566
+aVMario Chalmers MIA 12/17/2014 MIA vs. UTA L 32 11 3 13 23.1 1 5 20.0 4 5 80.0 0 1 1 0 2 0 1 2 -15
+p567
+aVDwyane Wade MIA 12/17/2014 MIA vs. UTA L 34 42 12 19 63.2 2 3 66.7 16 21 76.2 1 3 4 3 0 0 6 5 -5
+p568
+aVShabazz Napier MIA 12/17/2014 MIA vs. UTA L 14 0 0 4 0.0 0 2 0.0 0 2 0.0 1 3 4 2 2 0 1 0 -13
+p569
+aVNorris Cole MIA 12/16/2014 MIA @ BKN W 31 4 2 8 25.0 0 3 0.0 0 2 0.0 0 3 3 1 1 0 1 2 -4
+p570
+aVChris Andersen MIA 12/16/2014 MIA @ BKN W 20 4 2 3 66.7 0 0 - 0 0 - 2 7 9 1 0 2 0 1 11
+p571
+aVDwyane Wade MIA 12/16/2014 MIA @ BKN W 36 28 12 24 50.0 1 4 25.0 3 4 75.0 1 4 5 4 1 0 2 2 -9
+p572
+aVShawne Williams MIA 12/16/2014 MIA @ BKN W 19 10 3 8 37.5 2 5 40.0 2 2 100.0 0 2 2 3 1 0 2 3 16
+p573
+aVMario Chalmers MIA 12/16/2014 MIA @ BKN W 31 10 2 3 66.7 0 0 - 6 6 100.0 0 7 7 5 4 0 3 5 8
+p574
+aVShabazz Napier MIA 12/16/2014 MIA @ BKN W 18 11 3 4 75.0 3 4 75.0 2 2 100.0 1 2 3 0 1 0 3 1 6
+p575
+aVUdonis Haslem MIA 12/16/2014 MIA @ BKN W 25 7 3 6 50.0 0 0 - 1 2 50.0 1 3 4 2 0 0 2 4 -11
+p576
+aVJames Ennis III MIA 12/16/2014 MIA @ BKN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p577
+aVLuol Deng MIA 12/16/2014 MIA @ BKN W 41 18 5 13 38.5 2 7 28.6 6 8 75.0 1 5 6 4 1 0 4 2 1
+p578
+aVJustin Hamilton MIA 12/16/2014 MIA @ BKN W 17 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 0 0 0 0 3 -1
+p579
+aVUdonis Haslem MIA 12/14/2014 MIA vs. CHI L 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -8
+p580
+aVJustin Hamilton MIA 12/14/2014 MIA vs. CHI L 33 10 5 11 45.5 0 2 0.0 0 0 - 1 2 3 1 2 0 1 4 -12
+p581
+aVNorris Cole MIA 12/14/2014 MIA vs. CHI L 40 10 3 10 30.0 0 2 0.0 4 4 100.0 1 4 5 6 3 0 0 1 0
+p582
+aVJames Ennis III MIA 12/14/2014 MIA vs. CHI L 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p583
+aVMario Chalmers MIA 12/14/2014 MIA vs. CHI L 29 11 4 12 33.3 1 6 16.7 2 4 50.0 0 4 4 3 4 0 2 2 -9
+p584
+aVDwyane Wade MIA 12/14/2014 MIA vs. CHI L 28 17 7 18 38.9 1 2 50.0 2 2 100.0 1 5 6 0 0 1 6 3 -22
+p585
+aVChris Andersen MIA 12/14/2014 MIA vs. CHI L 18 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 1 0 2 -6
+p586
+aVLuol Deng MIA 12/14/2014 MIA vs. CHI L 33 17 6 14 42.9 1 3 33.3 4 4 100.0 4 6 10 1 1 2 1 1 -8
+p587
+aVShawne Williams MIA 12/14/2014 MIA vs. CHI L 28 4 1 4 25.0 1 3 33.3 1 2 50.0 0 3 3 0 1 0 1 2 -11
+p588
+aVDanny Granger MIA 12/14/2014 MIA vs. CHI L 20 4 1 6 16.7 0 3 0.0 2 2 100.0 2 1 3 0 2 1 1 5 -9
+p589
+aVNorris Cole MIA 12/12/2014 MIA @ UTA W 28 9 3 6 50.0 1 2 50.0 2 2 100.0 0 1 1 3 1 0 0 1 7
+p590
+aVDanny Granger MIA 12/12/2014 MIA @ UTA W 14 6 2 4 50.0 2 3 66.7 0 0 - 2 0 2 0 0 0 0 0 -2
+p591
+aVChris Bosh MIA 12/12/2014 MIA @ UTA W 36 22 9 16 56.3 1 5 20.0 3 4 75.0 0 9 9 1 1 2 1 4 -1
+p592
+aVDwyane Wade MIA 12/12/2014 MIA @ UTA W 35 29 10 16 62.5 1 1 100.0 8 12 66.7 0 3 3 7 1 1 3 1 11
+p593
+aVShabazz Napier MIA 12/12/2014 MIA @ UTA W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -3
+p594
+aVLuol Deng MIA 12/12/2014 MIA @ UTA W 34 14 5 7 71.4 1 2 50.0 3 4 75.0 2 4 6 2 1 0 2 1 7
+p595
+aVMario Chalmers MIA 12/12/2014 MIA @ UTA W 24 4 1 7 14.3 1 4 25.0 1 2 50.0 0 3 3 3 0 0 2 1 -3
+p596
+aVUdonis Haslem MIA 12/12/2014 MIA @ UTA W 17 5 1 4 25.0 0 0 - 3 5 60.0 2 1 3 0 1 0 0 1 2
+p597
+aVJustin Hamilton MIA 12/12/2014 MIA @ UTA W 29 9 4 10 40.0 0 2 0.0 1 2 50.0 1 3 4 1 1 0 1 5 10
+p598
+aVShawne Williams MIA 12/12/2014 MIA @ UTA W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -3
+p599
+aVChris Bosh MIA 12/10/2014 MIA @ DEN L 34 14 5 12 41.7 1 3 33.3 3 5 60.0 0 2 2 1 0 1 1 1 -15
+p600
+aVShabazz Napier MIA 12/10/2014 MIA @ DEN L 13 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 3
+p601
+aVLuol Deng MIA 12/10/2014 MIA @ DEN L 26 12 5 10 50.0 0 1 0.0 2 4 50.0 2 1 3 0 0 0 0 0 -8
+p602
+aVJames Ennis III MIA 12/10/2014 MIA @ DEN L 12 2 0 3 0.0 0 1 0.0 2 2 100.0 1 2 3 2 0 1 0 0 4
+p603
+aVNorris Cole MIA 12/10/2014 MIA @ DEN L 28 6 3 8 37.5 0 2 0.0 0 2 0.0 2 6 8 8 1 0 2 2 -12
+p604
+aVJustin Hamilton MIA 12/10/2014 MIA @ DEN L 22 4 2 5 40.0 0 0 - 0 0 - 3 4 7 0 0 1 0 1 -12
+p605
+aVUdonis Haslem MIA 12/10/2014 MIA @ DEN L 10 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -9
+p606
+aVHassan Whiteside MIA 12/10/2014 MIA @ DEN L 6 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 6
+p607
+aVShawne Williams MIA 12/10/2014 MIA @ DEN L 24 9 3 9 33.3 3 6 50.0 0 0 - 1 3 4 1 0 2 1 5 -12
+p608
+aVDwyane Wade MIA 12/10/2014 MIA @ DEN L 28 10 4 15 26.7 0 0 - 2 2 100.0 1 2 3 5 0 0 3 1 -23
+p609
+aVDanny Granger MIA 12/10/2014 MIA @ DEN L 21 5 1 6 16.7 1 5 20.0 2 2 100.0 2 1 3 0 0 0 0 4 -8
+p610
+aVMario Chalmers MIA 12/10/2014 MIA @ DEN L 15 11 3 6 50.0 1 3 33.3 4 4 100.0 1 1 2 0 0 0 2 5 -14
+p611
+aVLuol Deng MIA 12/09/2014 MIA @ PHX W 34 23 9 12 75.0 3 4 75.0 2 4 50.0 1 3 4 3 1 2 2 4 16
+p612
+aVJosh McRoberts MIA 12/09/2014 MIA @ PHX W 33 10 4 5 80.0 2 2 100.0 0 0 - 1 3 4 7 2 0 1 3 17
+p613
+aVChris Bosh MIA 12/09/2014 MIA @ PHX W 37 34 14 21 66.7 4 6 66.7 2 2 100.0 0 9 9 1 4 0 1 1 11
+p614
+aVUdonis Haslem MIA 12/09/2014 MIA @ PHX W 19 2 1 7 14.3 0 0 - 0 0 - 4 1 5 0 0 0 0 2 -4
+p615
+aVShawne Williams MIA 12/09/2014 MIA @ PHX W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p616
+aVShabazz Napier MIA 12/09/2014 MIA @ PHX W 3 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -7
+p617
+aVMario Chalmers MIA 12/09/2014 MIA @ PHX W 28 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 2 2 0 1 1 -3
+p618
+aVNorris Cole MIA 12/09/2014 MIA @ PHX W 31 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 4 1 0 0 1 10
+p619
+aVJames Ennis III MIA 12/09/2014 MIA @ PHX W 15 4 1 2 50.0 0 1 0.0 2 2 100.0 0 3 3 2 2 1 0 0 -10
+p620
+aVDwyane Wade MIA 12/09/2014 MIA @ PHX W 34 16 7 15 46.7 0 0 - 2 4 50.0 3 3 6 5 2 1 5 2 12
+p621
+aVLuol Deng MIA 12/07/2014 MIA @ MEM L 27 13 6 12 50.0 1 1 100.0 0 0 - 2 3 5 1 1 0 0 1 -3
+p622
+aVJosh McRoberts MIA 12/07/2014 MIA @ MEM L 28 14 6 8 75.0 2 3 66.7 0 0 - 3 2 5 5 0 0 3 3 -1
+p623
+aVChris Bosh MIA 12/07/2014 MIA @ MEM L 36 12 6 12 50.0 0 1 0.0 0 2 0.0 0 2 2 2 3 1 1 0 -3
+p624
+aVJustin Hamilton MIA 12/07/2014 MIA @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p625
+aVShawne Williams MIA 12/07/2014 MIA @ MEM L 12 4 2 7 28.6 0 4 0.0 0 0 - 1 2 3 0 0 1 0 2 -14
+p626
+aVDwyane Wade MIA 12/07/2014 MIA @ MEM L 35 25 11 20 55.0 0 0 - 3 5 60.0 1 1 2 6 1 0 5 2 -7
+p627
+aVHassan Whiteside MIA 12/07/2014 MIA @ MEM L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p628
+aVShabazz Napier MIA 12/07/2014 MIA @ MEM L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -14
+p629
+aVJames Ennis III MIA 12/07/2014 MIA @ MEM L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p630
+aVMario Chalmers MIA 12/07/2014 MIA @ MEM L 31 12 5 10 50.0 1 3 33.3 1 1 100.0 0 3 3 2 4 0 2 3 -22
+p631
+aVNorris Cole MIA 12/07/2014 MIA @ MEM L 25 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 4 1 0 0 1 0
+p632
+aVUdonis Haslem MIA 12/07/2014 MIA @ MEM L 18 0 0 3 0.0 0 0 - 0 0 - 3 5 8 1 0 0 0 0 -10
+p633
+aVJosh McRoberts MIA 12/05/2014 MIA @ MIL L 22 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 2 0 2 2 -3
+p634
+aVJames Ennis III MIA 12/05/2014 MIA @ MIL L 24 7 2 4 50.0 1 2 50.0 2 4 50.0 0 3 3 0 2 0 0 3 -20
+p635
+aVChris Bosh MIA 12/05/2014 MIA @ MIL L 38 21 9 23 39.1 1 6 16.7 2 3 66.7 1 5 6 1 2 0 5 1 -20
+p636
+aVMario Chalmers MIA 12/05/2014 MIA @ MIL L 36 9 2 9 22.2 1 2 50.0 4 4 100.0 0 3 3 6 6 0 3 4 -24
+p637
+aVShawne Williams MIA 12/05/2014 MIA @ MIL L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 0 1 0 1 2 -14
+p638
+aVDwyane Wade MIA 12/05/2014 MIA @ MIL L 34 28 10 18 55.6 0 0 - 8 10 80.0 1 2 3 8 0 0 4 0 -10
+p639
+aVJustin Hamilton MIA 12/05/2014 MIA @ MIL L 20 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 1 0 1 0 3 -11
+p640
+aVDanny Granger MIA 12/05/2014 MIA @ MIL L 27 7 2 4 50.0 2 3 66.7 1 5 20.0 0 0 0 1 0 2 2 5 -11
+p641
+aVShabazz Napier MIA 12/05/2014 MIA @ MIL L 25 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 4 3 0 1 2 -7
+p642
+aVShawne Williams MIA 12/03/2014 MIA vs. ATL L 18 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 0 0 0 1 2 -14
+p643
+aVJustin Hamilton MIA 12/03/2014 MIA vs. ATL L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -8
+p644
+aVChris Bosh MIA 12/03/2014 MIA vs. ATL L 38 27 9 12 75.0 3 3 100.0 6 8 75.0 0 11 11 1 0 2 2 1 -2
+p645
+aVMario Chalmers MIA 12/03/2014 MIA vs. ATL L 35 19 6 8 75.0 0 2 0.0 7 9 77.8 0 5 5 11 1 1 3 3 18
+p646
+aVDwyane Wade MIA 12/03/2014 MIA vs. ATL L 34 28 11 20 55.0 0 2 0.0 6 9 66.7 2 1 3 7 2 1 4 3 -8
+p647
+aVJames Ennis III MIA 12/03/2014 MIA vs. ATL L 17 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -9
+p648
+aVShabazz Napier MIA 12/03/2014 MIA vs. ATL L 32 7 2 4 50.0 1 3 33.3 2 2 100.0 1 1 2 1 2 0 0 4 -20
+p649
+aVDanny Granger MIA 12/03/2014 MIA vs. ATL L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p650
+aVJosh McRoberts MIA 12/03/2014 MIA vs. ATL L 21 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 5 3 0 4 3 -2
+p651
+aVLuol Deng MIA 12/03/2014 MIA vs. ATL L 17 5 1 3 33.3 0 1 0.0 3 4 75.0 0 3 3 0 1 0 2 1 -4
+p652
+aVUdonis Haslem MIA 12/03/2014 MIA vs. ATL L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 4 6
+p653
+aVDwyane Wade MIA 12/01/2014 MIA @ WAS L 28 20 9 13 69.2 0 0 - 2 5 40.0 0 3 3 0 1 0 2 2 -9
+p654
+aVNorris Cole MIA 12/01/2014 MIA @ WAS L 23 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 0 2 0 0 1 -7
+p655
+aVUdonis Haslem MIA 12/01/2014 MIA @ WAS L 12 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -7
+p656
+aVChris Bosh MIA 12/01/2014 MIA @ WAS L 33 21 9 14 64.3 1 3 33.3 2 5 40.0 0 8 8 3 0 2 4 1 -12
+p657
+aVJustin Hamilton MIA 12/01/2014 MIA @ WAS L 5 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 0 0 0 0 1 -1
+p658
+aVJosh McRoberts MIA 12/01/2014 MIA @ WAS L 24 8 2 4 50.0 0 1 0.0 4 5 80.0 2 2 4 4 1 0 0 2 -9
+p659
+aVLuol Deng MIA 12/01/2014 MIA @ WAS L 24 9 2 7 28.6 0 2 0.0 5 7 71.4 0 3 3 0 1 0 1 0 -5
+p660
+aVMario Chalmers MIA 12/01/2014 MIA @ WAS L 31 11 4 11 36.4 0 4 0.0 3 4 75.0 1 1 2 2 0 0 2 3 -14
+p661
+aVShawne Williams MIA 12/01/2014 MIA @ WAS L 19 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 4 -13
+p662
+aVShabazz Napier MIA 12/01/2014 MIA @ WAS L 25 6 3 8 37.5 0 5 0.0 0 0 - 0 2 2 2 0 0 1 3 -14
+p663
+aVHassan Whiteside MIA 12/01/2014 MIA @ WAS L 2 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 0
+p664
+aVJames Ennis III MIA 12/01/2014 MIA @ WAS L 14 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 -14
+p665
+aVUdonis Haslem MIA 11/30/2014 MIA @ NYK W 17 4 2 4 50.0 0 0 - 0 2 0.0 0 6 6 0 2 0 1 2 2
+p666
+aVChris Bosh MIA 11/30/2014 MIA @ NYK W 33 20 7 18 38.9 2 6 33.3 4 6 66.7 0 9 9 2 1 0 1 2 3
+p667
+aVDwyane Wade MIA 11/30/2014 MIA @ NYK W 32 27 11 18 61.1 0 1 0.0 5 9 55.6 4 1 5 5 0 0 7 1 6
+p668
+aVNorris Cole MIA 11/30/2014 MIA @ NYK W 21 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 2 1 0 0 2 4
+p669
+aVShabazz Napier MIA 11/30/2014 MIA @ NYK W 19 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 6
+p670
+aVShawne Williams MIA 11/30/2014 MIA @ NYK W 21 5 1 4 25.0 1 4 25.0 2 2 100.0 1 2 3 2 0 0 0 2 1
+p671
+aVJosh McRoberts MIA 11/30/2014 MIA @ NYK W 25 7 2 5 40.0 2 2 100.0 1 2 50.0 0 3 3 4 1 1 0 2 8
+p672
+aVLuol Deng MIA 11/30/2014 MIA @ NYK W 38 10 2 11 18.2 0 4 0.0 6 8 75.0 5 5 10 2 3 0 2 3 0
+p673
+aVJames Ennis III MIA 11/30/2014 MIA @ NYK W 10 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 1 7
+p674
+aVMario Chalmers MIA 11/30/2014 MIA @ NYK W 24 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 3 5 -2
+p675
+aVChris Bosh MIA 11/25/2014 MIA vs. GSW L 34 26 10 19 52.6 2 3 66.7 4 5 80.0 2 7 9 1 0 1 2 1 -15
+p676
+aVNorris Cole MIA 11/25/2014 MIA vs. GSW L 28 4 1 8 12.5 0 4 0.0 2 2 100.0 0 2 2 2 1 0 0 2 -19
+p677
+aVJosh McRoberts MIA 11/25/2014 MIA vs. GSW L 21 4 1 2 50.0 0 0 - 2 4 50.0 0 4 4 2 0 0 0 2 15
+p678
+aVShabazz Napier MIA 11/25/2014 MIA vs. GSW L 26 10 3 6 50.0 1 2 50.0 3 3 100.0 1 2 3 2 0 0 4 5 4
+p679
+aVUdonis Haslem MIA 11/25/2014 MIA vs. GSW L 13 4 2 6 33.3 0 0 - 0 0 - 2 4 6 0 0 0 0 2 0
+p680
+aVMario Chalmers MIA 11/25/2014 MIA vs. GSW L 37 14 4 17 23.5 2 6 33.3 4 5 80.0 1 1 2 4 4 1 1 3 -28
+p681
+aVJustin Hamilton MIA 11/25/2014 MIA vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p682
+aVJames Ennis III MIA 11/25/2014 MIA vs. GSW L 22 8 2 8 25.0 0 0 - 4 5 80.0 3 5 8 4 1 2 0 3 17
+p683
+aVLuol Deng MIA 11/25/2014 MIA vs. GSW L 32 16 6 11 54.5 2 3 66.7 2 3 66.7 1 2 3 1 1 0 1 1 -25
+p684
+aVShawne Williams MIA 11/25/2014 MIA vs. GSW L 27 11 4 8 50.0 3 5 60.0 0 0 - 2 1 3 0 0 0 1 3 -32
+p685
+aVLuol Deng MIA 11/23/2014 MIA vs. CHA W 38 26 10 14 71.4 2 3 66.7 4 5 80.0 1 7 8 3 0 1 0 2 6
+p686
+aVJosh McRoberts MIA 11/23/2014 MIA vs. CHA W 17 3 1 5 20.0 1 3 33.3 0 0 - 0 3 3 1 0 0 1 1 5
+p687
+aVJames Ennis III MIA 11/23/2014 MIA vs. CHA W 18 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 0
+p688
+aVChris Bosh MIA 11/23/2014 MIA vs. CHA W 36 20 9 21 42.9 2 5 40.0 0 0 - 1 9 10 1 0 1 5 1 2
+p689
+aVMario Chalmers MIA 11/23/2014 MIA vs. CHA W 38 20 5 8 62.5 1 4 25.0 9 10 90.0 0 4 4 10 1 1 3 1 3
+p690
+aVShabazz Napier MIA 11/23/2014 MIA vs. CHA W 34 14 4 9 44.4 4 5 80.0 2 2 100.0 0 0 0 3 2 0 3 2 2
+p691
+aVShannon Brown MIA 11/23/2014 MIA vs. CHA W 17 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 3 4 -8
+p692
+aVShawne Williams MIA 11/23/2014 MIA vs. CHA W 25 5 2 4 50.0 1 3 33.3 0 0 - 0 6 6 0 0 2 0 3 -3
+p693
+aVUdonis Haslem MIA 11/23/2014 MIA vs. CHA W 16 4 2 3 66.7 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -2
+p694
+aVChris Andersen MIA 11/23/2014 MIA vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p695
+aVJames Ennis III MIA 11/22/2014 MIA @ ORL W 13 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 2 1
+p696
+aVChris Andersen MIA 11/22/2014 MIA @ ORL W 17 5 1 4 25.0 0 1 0.0 3 4 75.0 2 1 3 1 1 2 2 2 -3
+p697
+aVShawne Williams MIA 11/22/2014 MIA @ ORL W 36 10 3 6 50.0 2 4 50.0 2 2 100.0 0 5 5 3 1 2 1 1 9
+p698
+aVJosh McRoberts MIA 11/22/2014 MIA @ ORL W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -6
+p699
+aVLuol Deng MIA 11/22/2014 MIA @ ORL W 33 9 4 9 44.4 1 2 50.0 0 0 - 1 6 7 0 1 0 2 3 6
+p700
+aVMario Chalmers MIA 11/22/2014 MIA @ ORL W 34 24 10 16 62.5 2 5 40.0 2 4 50.0 2 3 5 8 1 0 2 2 9
+p701
+aVShabazz Napier MIA 11/22/2014 MIA @ ORL W 28 12 4 8 50.0 2 5 40.0 2 4 50.0 0 2 2 1 2 0 4 3 -5
+p702
+aVShannon Brown MIA 11/22/2014 MIA @ ORL W 37 7 2 6 33.3 1 2 50.0 2 2 100.0 0 0 0 2 1 0 0 3 10
+p703
+aVChris Bosh MIA 11/22/2014 MIA @ ORL W 38 32 13 20 65.0 4 6 66.7 2 2 100.0 1 9 10 1 0 1 3 3 14
+p704
+aVShannon Brown MIA 11/20/2014 MIA vs. LAC L 21 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 0 2 0 1 1 -4
+p705
+aVShawne Williams MIA 11/20/2014 MIA vs. LAC L 25 7 1 5 20.0 1 2 50.0 4 4 100.0 0 3 3 2 0 0 1 2 -7
+p706
+aVMario Chalmers MIA 11/20/2014 MIA vs. LAC L 34 13 4 6 66.7 1 3 33.3 4 4 100.0 0 1 1 3 3 0 3 3 -13
+p707
+aVChris Bosh MIA 11/20/2014 MIA vs. LAC L 31 28 9 17 52.9 1 2 50.0 9 9 100.0 3 4 7 1 0 0 0 2 -17
+p708
+aVJames Ennis III MIA 11/20/2014 MIA vs. LAC L 12 2 0 3 0.0 0 2 0.0 2 2 100.0 0 1 1 0 1 2 0 2 -6
+p709
+aVLuol Deng MIA 11/20/2014 MIA vs. LAC L 28 13 5 10 50.0 0 4 0.0 3 4 75.0 2 3 5 0 0 0 0 0 -9
+p710
+aVJustin Hamilton MIA 11/20/2014 MIA vs. LAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 6
+p711
+aVJosh McRoberts MIA 11/20/2014 MIA vs. LAC L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 1 1 0 3 1 -5
+p712
+aVNorris Cole MIA 11/20/2014 MIA vs. LAC L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -17
+p713
+aVChris Andersen MIA 11/20/2014 MIA vs. LAC L 21 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 0 0 1 2 3 -11
+p714
+aVShabazz Napier MIA 11/20/2014 MIA vs. LAC L 32 17 5 9 55.6 2 6 33.3 5 6 83.3 0 5 5 3 1 0 2 1 3
+p715
+aVDanny Granger MIA 11/20/2014 MIA vs. LAC L 6 2 1 3 33.3 0 2 0.0 0 0 - 1 1 2 0 1 0 0 0 -5
+p716
+aVDanny Granger MIA 11/17/2014 MIA @ BKN W 20 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 0 1 1 2 3
+p717
+aVNorris Cole MIA 11/17/2014 MIA @ BKN W 27 12 4 11 36.4 2 5 40.0 2 2 100.0 0 2 2 3 1 0 1 2 14
+p718
+aVChris Andersen MIA 11/17/2014 MIA @ BKN W 16 7 3 4 75.0 0 0 - 1 2 50.0 2 1 3 1 0 1 1 1 2
+p719
+aVAndre Dawkins MIA 11/17/2014 MIA @ BKN W 9 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 3
+p720
+aVJames Ennis III MIA 11/17/2014 MIA @ BKN W 36 10 4 7 57.1 0 2 0.0 2 2 100.0 1 7 8 2 1 0 0 3 13
+p721
+aVUdonis Haslem MIA 11/17/2014 MIA @ BKN W 15 6 2 7 28.6 0 0 - 2 2 100.0 4 2 6 0 0 0 1 2 0
+p722
+aVShawne Williams MIA 11/17/2014 MIA @ BKN W 36 5 1 5 20.0 1 3 33.3 2 2 100.0 0 6 6 4 0 0 0 3 4
+p723
+aVShabazz Napier MIA 11/17/2014 MIA @ BKN W 18 11 4 8 50.0 3 6 50.0 0 0 - 1 2 3 3 1 0 6 1 -1
+p724
+aVChris Bosh MIA 11/17/2014 MIA @ BKN W 29 15 5 11 45.5 1 2 50.0 4 4 100.0 2 7 9 1 1 0 1 5 18
+p725
+aVMario Chalmers MIA 11/17/2014 MIA @ BKN W 34 22 5 12 41.7 1 5 20.0 11 13 84.6 0 3 3 5 2 0 3 4 4
+p726
+aVChris Andersen MIA 11/16/2014 MIA vs. MIL L 20 1 0 0 - 0 0 - 1 4 25.0 1 2 3 0 1 1 2 2 -3
+p727
+aVNorris Cole MIA 11/16/2014 MIA vs. MIL L 25 11 4 10 40.0 3 5 60.0 0 0 - 0 2 2 2 2 0 3 0 -8
+p728
+aVChris Bosh MIA 11/16/2014 MIA vs. MIL L 39 10 2 17 11.8 1 6 16.7 5 8 62.5 0 5 5 5 1 5 2 1 -7
+p729
+aVMario Chalmers MIA 11/16/2014 MIA vs. MIL L 35 18 7 13 53.8 1 1 100.0 3 4 75.0 0 2 2 5 1 0 3 6 -9
+p730
+aVShawne Williams MIA 11/16/2014 MIA vs. MIL L 26 13 5 9 55.6 3 6 50.0 0 0 - 2 9 11 1 0 0 0 5 -11
+p731
+aVUdonis Haslem MIA 11/16/2014 MIA vs. MIL L 7 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 2 2 4
+p732
+aVLuol Deng MIA 11/16/2014 MIA vs. MIL L 37 10 3 11 27.3 1 3 33.3 3 4 75.0 2 4 6 2 3 0 2 3 -1
+p733
+aVShabazz Napier MIA 11/16/2014 MIA vs. MIL L 26 10 4 5 80.0 1 2 50.0 1 2 50.0 0 5 5 1 0 0 3 0 2
+p734
+aVJames Ennis III MIA 11/16/2014 MIA vs. MIL L 25 9 4 6 66.7 1 2 50.0 0 0 - 1 2 3 3 2 0 0 1 -2
+p735
+aVUdonis Haslem MIA 11/14/2014 MIA @ ATL L 19 6 2 5 40.0 0 0 - 2 2 100.0 1 5 6 1 1 0 0 2 -5
+p736
+aVShabazz Napier MIA 11/14/2014 MIA @ ATL L 21 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 2 -8
+p737
+aVShawne Williams MIA 11/14/2014 MIA @ ATL L 33 21 8 11 72.7 5 6 83.3 0 0 - 2 4 6 1 1 1 1 5 3
+p738
+aVChris Andersen MIA 11/14/2014 MIA @ ATL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p739
+aVShannon Brown MIA 11/14/2014 MIA @ ATL L 13 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 1 0 0 0 0 -15
+p740
+aVChris Bosh MIA 11/14/2014 MIA @ ATL L 38 20 7 19 36.8 0 3 0.0 6 6 100.0 0 8 8 2 2 1 4 1 -22
+p741
+aVLuol Deng MIA 11/14/2014 MIA @ ATL L 35 19 5 12 41.7 3 5 60.0 6 7 85.7 1 3 4 1 1 0 1 0 -4
+p742
+aVNorris Cole MIA 11/14/2014 MIA @ ATL L 28 6 3 7 42.9 0 0 - 0 0 - 0 2 2 8 4 1 2 4 -5
+p743
+aVJames Ennis III MIA 11/14/2014 MIA @ ATL L 6 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 1 -11
+p744
+aVMario Chalmers MIA 11/14/2014 MIA @ ATL L 40 23 7 11 63.6 1 3 33.3 8 8 100.0 0 1 1 11 0 0 3 4 10
+p745
+aVLuol Deng MIA 11/12/2014 MIA vs. IND L 35 5 2 10 20.0 1 3 33.3 0 0 - 2 5 7 0 2 1 0 1 -10
+p746
+aVNorris Cole MIA 11/12/2014 MIA vs. IND L 27 9 4 7 57.1 0 1 0.0 1 2 50.0 0 4 4 7 0 1 0 2 -6
+p747
+aVDwyane Wade MIA 11/12/2014 MIA vs. IND L 35 20 8 16 50.0 1 1 100.0 3 7 42.9 1 3 4 3 1 1 1 0 -5
+p748
+aVJames Ennis III MIA 11/12/2014 MIA vs. IND L 7 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 1 0 0 1
+p749
+aVShabazz Napier MIA 11/12/2014 MIA vs. IND L 14 3 1 3 33.3 1 3 33.3 0 0 - 1 2 3 4 0 0 1 1 6
+p750
+aVJosh McRoberts MIA 11/12/2014 MIA vs. IND L 23 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 2 0 1 4 2
+p751
+aVChris Andersen MIA 11/12/2014 MIA vs. IND L 17 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 0 0 0 1 2 -1
+p752
+aVMario Chalmers MIA 11/12/2014 MIA vs. IND L 27 7 3 8 37.5 0 2 0.0 1 2 50.0 0 2 2 1 2 0 3 4 -4
+p753
+aVChris Bosh MIA 11/12/2014 MIA vs. IND L 33 9 3 13 23.1 1 3 33.3 2 3 66.7 1 1 2 3 3 1 2 3 -10
+p754
+aVUdonis Haslem MIA 11/12/2014 MIA vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p755
+aVShawne Williams MIA 11/12/2014 MIA vs. IND L 22 15 5 6 83.3 4 5 80.0 1 2 50.0 1 0 1 0 0 0 0 1 -2
+p756
+aVNorris Cole MIA 11/09/2014 MIA @ DAL W 14 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 3 1 0 3 2 -9
+p757
+aVShabazz Napier MIA 11/09/2014 MIA @ DAL W 26 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 1 1 1 1 2 4
+p758
+aVUdonis Haslem MIA 11/09/2014 MIA @ DAL W 19 6 2 3 66.7 0 0 - 2 2 100.0 1 4 5 1 0 1 0 3 13
+p759
+aVDwyane Wade MIA 11/09/2014 MIA @ DAL W 36 20 9 18 50.0 1 1 100.0 1 2 50.0 1 1 2 10 1 0 3 2 -7
+p760
+aVLuol Deng MIA 11/09/2014 MIA @ DAL W 37 30 13 19 68.4 4 9 44.4 0 2 0.0 0 5 5 4 1 0 0 1 15
+p761
+aVJosh McRoberts MIA 11/09/2014 MIA @ DAL W 17 4 2 3 66.7 0 0 - 0 0 - 1 7 8 2 0 1 1 5 11
+p762
+aVChris Bosh MIA 11/09/2014 MIA @ DAL W 37 20 7 10 70.0 0 2 0.0 6 11 54.5 2 8 10 5 1 0 3 0 7
+p763
+aVShawne Williams MIA 11/09/2014 MIA @ DAL W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 4 -5
+p764
+aVJames Ennis III MIA 11/09/2014 MIA @ DAL W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p765
+aVMario Chalmers MIA 11/09/2014 MIA @ DAL W 34 18 6 9 66.7 3 5 60.0 3 3 100.0 0 1 1 4 2 0 1 4 18
+p766
+aVNorris Cole MIA 11/08/2014 MIA vs. MIN W 32 11 4 6 66.7 1 2 50.0 2 2 100.0 0 2 2 6 2 0 1 1 13
+p767
+aVUdonis Haslem MIA 11/08/2014 MIA vs. MIN W 14 8 4 6 66.7 0 0 - 0 0 - 0 6 6 0 0 0 0 3 -4
+p768
+aVShawne Williams MIA 11/08/2014 MIA vs. MIN W 33 7 3 9 33.3 1 5 20.0 0 0 - 1 6 7 1 0 1 0 3 11
+p769
+aVShabazz Napier MIA 11/08/2014 MIA vs. MIN W 17 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 0 3 2 -3
+p770
+aVMario Chalmers MIA 11/08/2014 MIA vs. MIN W 19 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 4 1 1 5 4 5
+p771
+aVDwyane Wade MIA 11/08/2014 MIA vs. MIN W 30 25 11 16 68.8 0 0 - 3 5 60.0 0 1 1 8 2 0 2 0 6
+p772
+aVJames Ennis III MIA 11/08/2014 MIA vs. MIN W 16 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 1 0 0 0 1 -1
+p773
+aVLuol Deng MIA 11/08/2014 MIA vs. MIN W 32 14 6 9 66.7 2 2 100.0 0 0 - 1 2 3 3 2 0 2 3 10
+p774
+aVJosh McRoberts MIA 11/08/2014 MIA vs. MIN W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 5 5 0 0 0 1 2 0
+p775
+aVChris Bosh MIA 11/08/2014 MIA vs. MIN W 35 24 9 21 42.9 0 2 0.0 6 6 100.0 2 5 7 2 0 0 0 0 13
+p776
+aVMario Chalmers MIA 11/05/2014 MIA @ CHA L 32 6 2 8 25.0 0 2 0.0 2 4 50.0 0 1 1 3 1 0 2 4 -9
+p777
+aVShabazz Napier MIA 11/05/2014 MIA @ CHA L 26 7 2 7 28.6 0 2 0.0 3 4 75.0 0 2 2 3 1 0 0 5 6
+p778
+aVLuol Deng MIA 11/05/2014 MIA @ CHA L 28 9 3 9 33.3 0 2 0.0 3 5 60.0 1 2 3 0 2 0 0 1 2
+p779
+aVJames Ennis III MIA 11/05/2014 MIA @ CHA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 1
+p780
+aVJustin Hamilton MIA 11/05/2014 MIA @ CHA L 18 6 2 3 66.7 0 1 0.0 2 2 100.0 1 0 1 1 0 0 0 3 -14
+p781
+aVShawne Williams MIA 11/05/2014 MIA @ CHA L 30 9 3 5 60.0 3 4 75.0 0 0 - 0 5 5 1 0 3 0 4 -4
+p782
+aVChris Bosh MIA 11/05/2014 MIA @ CHA L 38 23 7 18 38.9 1 6 16.7 8 8 100.0 2 11 13 1 1 0 2 1 -5
+p783
+aVJosh McRoberts MIA 11/05/2014 MIA @ CHA L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 2
+p784
+aVDwyane Wade MIA 11/05/2014 MIA @ CHA L 33 25 9 18 50.0 0 2 0.0 7 8 87.5 2 2 4 7 1 1 3 3 -1
+p785
+aVNorris Cole MIA 11/05/2014 MIA @ CHA L 22 2 1 6 16.7 0 2 0.0 0 0 - 0 4 4 1 0 0 0 2 -13
+p786
+aVAndre Dawkins MIA 11/04/2014 MIA vs. HOU L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p787
+aVMario Chalmers MIA 11/04/2014 MIA vs. HOU L 29 12 4 12 33.3 2 6 33.3 2 5 40.0 2 3 5 3 1 0 5 1 -8
+p788
+aVShabazz Napier MIA 11/04/2014 MIA vs. HOU L 27 5 2 6 33.3 1 2 50.0 0 2 0.0 0 1 1 4 1 0 1 0 -4
+p789
+aVJustin Hamilton MIA 11/04/2014 MIA vs. HOU L 31 9 3 8 37.5 3 6 50.0 0 0 - 5 2 7 2 1 1 0 3 -6
+p790
+aVChris Bosh MIA 11/04/2014 MIA vs. HOU L 30 21 8 14 57.1 2 4 50.0 3 5 60.0 2 6 8 1 2 0 2 3 -11
+p791
+aVLuol Deng MIA 11/04/2014 MIA vs. HOU L 23 11 3 9 33.3 1 1 100.0 4 6 66.7 0 1 1 0 1 0 3 2 -14
+p792
+aVNorris Cole MIA 11/04/2014 MIA vs. HOU L 16 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 2 1 0 1 0 -11
+p793
+aVJames Ennis III MIA 11/04/2014 MIA vs. HOU L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 6
+p794
+aVDwyane Wade MIA 11/04/2014 MIA vs. HOU L 31 19 7 11 63.6 0 2 0.0 5 5 100.0 1 1 2 3 0 1 3 2 -19
+p795
+aVShawne Williams MIA 11/04/2014 MIA vs. HOU L 29 14 4 6 66.7 3 4 75.0 3 4 75.0 2 3 5 1 0 0 0 5 -15
+p796
+aVJosh McRoberts MIA 11/04/2014 MIA vs. HOU L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -2
+p797
+aVJosh McRoberts MIA 11/02/2014 MIA vs. TOR W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -1
+p798
+aVShawne Williams MIA 11/02/2014 MIA vs. TOR W 28 16 5 10 50.0 3 7 42.9 3 4 75.0 1 4 5 0 1 1 0 3 7
+p799
+aVJames Ennis III MIA 11/02/2014 MIA vs. TOR W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 3 -4
+p800
+aVShannon Brown MIA 11/02/2014 MIA vs. TOR W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p801
+aVShabazz Napier MIA 11/02/2014 MIA vs. TOR W 17 8 2 3 66.7 1 2 50.0 3 3 100.0 1 1 2 2 2 0 2 2 -2
+p802
+aVNorris Cole MIA 11/02/2014 MIA vs. TOR W 29 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 3 0 0 2 4 9
+p803
+aVChris Bosh MIA 11/02/2014 MIA vs. TOR W 38 21 5 13 38.5 1 2 50.0 10 13 76.9 1 10 11 4 1 0 3 0 4
+p804
+aVMario Chalmers MIA 11/02/2014 MIA vs. TOR W 24 12 3 10 30.0 1 6 16.7 5 6 83.3 1 3 4 3 1 0 2 6 -7
+p805
+aVLuol Deng MIA 11/02/2014 MIA vs. TOR W 37 18 8 14 57.1 0 2 0.0 2 4 50.0 2 2 4 3 1 1 0 3 12
+p806
+aVJustin Hamilton MIA 11/02/2014 MIA vs. TOR W 18 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 1 2 4 -4
+p807
+aVDwyane Wade MIA 11/02/2014 MIA vs. TOR W 31 19 7 11 63.6 1 1 100.0 4 6 66.7 4 7 11 7 0 2 3 2 10
+p808
+aVLuol Deng MIA 11/01/2014 MIA @ PHI W 29 15 7 11 63.6 1 3 33.3 0 1 0.0 2 2 4 2 2 0 1 0 4
+p809
+aVJustin Hamilton MIA 11/01/2014 MIA @ PHI W 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 3
+p810
+aVAndre Dawkins MIA 11/01/2014 MIA @ PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p811
+aVChris Andersen MIA 11/01/2014 MIA @ PHI W 17 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 6
+p812
+aVNorris Cole MIA 11/01/2014 MIA @ PHI W 27 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 4 2 0 0 1 6
+p813
+aVDwyane Wade MIA 11/01/2014 MIA @ PHI W 33 9 4 18 22.2 0 1 0.0 1 3 33.3 1 2 3 10 3 0 6 1 13
+p814
+aVShabazz Napier MIA 11/01/2014 MIA @ PHI W 20 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 4 2 0 1 4 11
+p815
+aVJosh McRoberts MIA 11/01/2014 MIA @ PHI W 11 3 1 3 33.3 0 1 0.0 1 2 50.0 0 3 3 0 0 0 2 3 1
+p816
+aVChris Bosh MIA 11/01/2014 MIA @ PHI W 33 30 9 17 52.9 2 5 40.0 10 11 90.9 3 5 8 4 2 0 3 2 10
+p817
+aVMario Chalmers MIA 11/01/2014 MIA @ PHI W 25 20 6 9 66.7 2 2 100.0 6 10 60.0 0 2 2 4 4 0 0 1 18
+p818
+aVJames Ennis III MIA 11/01/2014 MIA @ PHI W 8 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 1 0 0 0 1 2
+p819
+aVShawne Williams MIA 11/01/2014 MIA @ PHI W 29 15 5 9 55.6 3 5 60.0 2 2 100.0 0 4 4 4 1 0 1 4 16
+p820
+aVChris Andersen MIA 10/29/2014 MIA vs. WAS W 24 7 2 2 100.0 0 0 - 3 4 75.0 2 4 6 1 2 1 0 0 5
+p821
+aVChris Bosh MIA 10/29/2014 MIA vs. WAS W 39 26 9 18 50.0 3 4 75.0 5 5 100.0 4 11 15 4 1 1 3 1 12
+p822
+aVLuol Deng MIA 10/29/2014 MIA vs. WAS W 30 12 4 8 50.0 0 2 0.0 4 5 80.0 2 2 4 1 0 1 2 2 5
+p823
+aVDwyane Wade MIA 10/29/2014 MIA vs. WAS W 31 21 8 16 50.0 2 3 66.7 3 3 100.0 0 1 1 3 2 0 2 2 9
+p824
+aVNorris Cole MIA 10/29/2014 MIA vs. WAS W 28 23 9 15 60.0 3 7 42.9 2 2 100.0 0 3 3 2 0 0 3 1 6
+p825
+aVShawne Williams MIA 10/29/2014 MIA vs. WAS W 32 3 1 9 11.1 0 6 0.0 1 2 50.0 3 3 6 3 2 0 0 5 6
+p826
+aVShabazz Napier MIA 10/29/2014 MIA vs. WAS W 15 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 2 1 0 1 0 9
+p827
+aVMario Chalmers MIA 10/29/2014 MIA vs. WAS W 25 8 3 7 42.9 1 3 33.3 1 1 100.0 0 4 4 4 1 0 3 5 1
+p828
+aVJames Ennis III MIA 10/29/2014 MIA vs. WAS W 15 5 2 4 50.0 0 2 0.0 1 1 100.0 0 2 2 0 0 0 0 1 7
+p829
+a.

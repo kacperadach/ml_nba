@@ -1,0 +1,1592 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJosh McRoberts MIA 04/13/2016 MIA @ BOS L 16 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 1 1 0 0 0 2
+p2
+aVLuol Deng MIA 04/13/2016 MIA @ BOS L 35 6 3 9 33.3 0 5 0.0 0 0 - 2 6 8 2 0 2 1 3 -5
+p3
+aVJosh Richardson MIA 04/13/2016 MIA @ BOS L 27 0 0 6 0.0 0 4 0.0 0 0 - 2 2 4 1 0 1 0 3 -4
+p4
+aVGoran Dragic MIA 04/13/2016 MIA @ BOS L 33 18 9 16 56.3 0 1 0.0 0 0 - 2 0 2 3 1 2 0 5 -6
+p5
+aVGerald Green MIA 04/13/2016 MIA @ BOS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p6
+aVDwyane Wade MIA 04/13/2016 MIA @ BOS L 31 17 7 16 43.8 0 1 0.0 3 3 100.0 0 3 3 5 0 1 3 2 -21
+p7
+aVHassan Whiteside MIA 04/13/2016 MIA @ BOS L 28 19 6 10 60.0 0 0 - 7 9 77.8 2 7 9 0 1 4 1 2 -10
+p8
+aVJoe Johnson MIA 04/13/2016 MIA @ BOS L 37 19 9 19 47.4 1 5 20.0 0 0 - 0 4 4 1 1 0 3 1 -2
+p9
+aVJustise Winslow MIA 04/13/2016 MIA @ BOS L 28 7 3 5 60.0 1 2 50.0 0 0 - 5 5 10 1 1 0 0 2 -3
+p10
+aVAmar'e Stoudemire MIA 04/12/2016 MIA @ DET W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 3 0
+p11
+aVHassan Whiteside MIA 04/12/2016 MIA @ DET W 34 14 4 10 40.0 0 0 - 6 8 75.0 5 4 9 0 2 3 3 4 -2
+p12
+aVJoe Johnson MIA 04/12/2016 MIA @ DET W 34 25 10 15 66.7 3 5 60.0 2 3 66.7 0 2 2 5 2 0 4 1 4
+p13
+aVGerald Green MIA 04/12/2016 MIA @ DET W 19 5 1 4 25.0 1 4 25.0 2 2 100.0 0 1 1 0 1 0 0 2 -1
+p14
+aVUdonis Haslem MIA 04/12/2016 MIA @ DET W 8 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 8
+p15
+aVLuol Deng MIA 04/12/2016 MIA @ DET W 41 17 6 11 54.5 3 7 42.9 2 2 100.0 1 9 10 2 0 0 3 1 11
+p16
+aVDwyane Wade MIA 04/12/2016 MIA @ DET W 34 14 6 16 37.5 0 1 0.0 2 3 66.7 0 4 4 3 0 0 1 2 -4
+p17
+aVJosh Richardson MIA 04/12/2016 MIA @ DET W 37 3 1 3 33.3 0 1 0.0 1 2 50.0 0 6 6 1 1 2 1 2 8
+p18
+aVGoran Dragic MIA 04/12/2016 MIA @ DET W 26 16 8 15 53.3 0 2 0.0 0 0 - 2 3 5 4 1 0 2 4 6
+p19
+aVBriante Weber MIA 04/10/2016 MIA vs. ORL W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 5
+p20
+aVJustise Winslow MIA 04/10/2016 MIA vs. ORL W 14 5 1 3 33.3 1 1 100.0 2 2 100.0 0 3 3 1 1 0 2 0 -3
+p21
+aVJoe Johnson MIA 04/10/2016 MIA vs. ORL W 27 7 3 9 33.3 1 4 25.0 0 0 - 0 2 2 3 1 0 0 1 18
+p22
+aVJosh Richardson MIA 04/10/2016 MIA vs. ORL W 34 9 3 7 42.9 1 4 25.0 2 2 100.0 1 2 3 4 0 0 1 1 15
+p23
+aVDwyane Wade MIA 04/10/2016 MIA vs. ORL W 24 17 7 9 77.8 0 0 - 3 3 100.0 0 3 3 3 3 0 1 1 8
+p24
+aVJosh McRoberts MIA 04/10/2016 MIA vs. ORL W 20 6 1 6 16.7 1 3 33.3 3 4 75.0 1 3 4 5 0 0 1 1 4
+p25
+aVGoran Dragic MIA 04/10/2016 MIA vs. ORL W 36 19 8 12 66.7 0 1 0.0 3 3 100.0 0 2 2 6 1 1 1 1 16
+p26
+aVGerald Green MIA 04/10/2016 MIA vs. ORL W 17 15 7 12 58.3 1 3 33.3 0 0 - 0 3 3 0 1 0 0 2 5
+p27
+aVUdonis Haslem MIA 04/10/2016 MIA vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 5
+p28
+aVHassan Whiteside MIA 04/10/2016 MIA vs. ORL W 28 18 5 7 71.4 0 0 - 8 8 100.0 2 13 15 0 1 2 2 2 18
+p29
+aVLuol Deng MIA 04/10/2016 MIA vs. ORL W 35 20 7 11 63.6 1 4 25.0 5 8 62.5 0 2 2 5 2 0 4 5 19
+p30
+aVAmar'e Stoudemire MIA 04/08/2016 MIA @ ORL L 11 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -4
+p31
+aVGerald Green MIA 04/08/2016 MIA @ ORL L 15 11 4 9 44.4 2 4 50.0 1 1 100.0 0 1 1 1 0 0 0 4 6
+p32
+aVJoe Johnson MIA 04/08/2016 MIA @ ORL L 27 13 6 13 46.2 1 4 25.0 0 0 - 1 0 1 1 0 0 2 2 -5
+p33
+aVUdonis Haslem MIA 04/08/2016 MIA @ ORL L 9 7 3 4 75.0 0 0 - 1 3 33.3 0 3 3 0 0 0 0 2 -2
+p34
+aVLuol Deng MIA 04/08/2016 MIA @ ORL L 32 10 4 7 57.1 2 3 66.7 0 0 - 3 7 10 1 0 0 1 2 -15
+p35
+aVJustise Winslow MIA 04/08/2016 MIA @ ORL L 23 6 3 6 50.0 0 0 - 0 0 - 0 4 4 0 3 0 0 3 5
+p36
+aVJosh Richardson MIA 04/08/2016 MIA @ ORL L 33 13 4 11 36.4 2 5 40.0 3 4 75.0 4 1 5 4 1 1 1 1 4
+p37
+aVGoran Dragic MIA 04/08/2016 MIA @ ORL L 30 15 6 16 37.5 1 3 33.3 2 2 100.0 5 3 8 6 1 0 4 2 -1
+p38
+aVHassan Whiteside MIA 04/08/2016 MIA @ ORL L 28 13 6 12 50.0 0 0 - 1 7 14.3 7 9 16 0 0 4 0 3 4
+p39
+aVDwyane Wade MIA 04/08/2016 MIA @ ORL L 31 17 7 19 36.8 0 3 0.0 3 4 75.0 1 0 1 5 1 0 3 1 -7
+p40
+aVHassan Whiteside MIA 04/07/2016 MIA vs. CHI W 27 16 5 11 45.5 0 0 - 6 7 85.7 5 7 12 0 1 1 0 6 8
+p41
+aVAmar'e Stoudemire MIA 04/07/2016 MIA vs. CHI W 16 10 5 8 62.5 0 0 - 0 1 0.0 0 3 3 0 3 0 0 3 3
+p42
+aVLuol Deng MIA 04/07/2016 MIA vs. CHI W 33 13 6 12 50.0 0 2 0.0 1 2 50.0 1 1 2 3 0 0 1 1 -1
+p43
+aVUdonis Haslem MIA 04/07/2016 MIA vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p44
+aVJoe Johnson MIA 04/07/2016 MIA vs. CHI W 35 17 7 10 70.0 3 4 75.0 0 0 - 1 2 3 4 1 0 1 3 17
+p45
+aVGoran Dragic MIA 04/07/2016 MIA vs. CHI W 31 16 7 16 43.8 0 3 0.0 2 2 100.0 4 8 12 4 1 1 3 1 -8
+p46
+aVJosh Richardson MIA 04/07/2016 MIA vs. CHI W 32 11 4 9 44.4 1 3 33.3 2 2 100.0 0 2 2 1 0 0 0 3 9
+p47
+aVDwyane Wade MIA 04/07/2016 MIA vs. CHI W 33 21 9 18 50.0 0 0 - 3 3 100.0 2 3 5 4 1 0 4 1 15
+p48
+aVJustise Winslow MIA 04/07/2016 MIA vs. CHI W 29 2 1 8 12.5 0 2 0.0 0 0 - 2 4 6 0 1 0 1 1 -2
+p49
+aVGerald Green MIA 04/05/2016 MIA vs. DET W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 1
+p50
+aVAmar'e Stoudemire MIA 04/05/2016 MIA vs. DET W 14 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -3
+p51
+aVJosh Richardson MIA 04/05/2016 MIA vs. DET W 35 16 6 9 66.7 4 5 80.0 0 0 - 0 2 2 0 0 0 0 1 19
+p52
+aVDwyane Wade MIA 04/05/2016 MIA vs. DET W 25 16 5 10 50.0 0 0 - 6 7 85.7 0 1 1 2 2 0 2 1 10
+p53
+aVUdonis Haslem MIA 04/05/2016 MIA vs. DET W 5 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 8
+p54
+aVGoran Dragic MIA 04/05/2016 MIA vs. DET W 34 22 9 15 60.0 4 4 100.0 0 0 - 0 5 5 8 0 0 4 4 5
+p55
+aVJosh McRoberts MIA 04/05/2016 MIA vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p56
+aVLuol Deng MIA 04/05/2016 MIA vs. DET W 34 12 6 13 46.2 0 2 0.0 0 0 - 1 7 8 5 1 0 0 2 19
+p57
+aVJoe Johnson MIA 04/05/2016 MIA vs. DET W 28 11 5 8 62.5 0 1 0.0 1 2 50.0 1 0 1 5 1 0 1 1 4
+p58
+aVJustise Winslow MIA 04/05/2016 MIA vs. DET W 30 9 3 9 33.3 1 2 50.0 2 3 66.7 1 4 5 2 0 0 0 2 12
+p59
+aVHassan Whiteside MIA 04/05/2016 MIA vs. DET W 29 14 7 13 53.8 0 0 - 0 0 - 4 8 12 0 1 4 0 3 13
+p60
+aVHassan Whiteside MIA 04/02/2016 MIA @ POR L 28 20 6 14 42.9 0 0 - 8 11 72.7 1 12 13 1 1 4 3 3 -6
+p61
+aVJustise Winslow MIA 04/02/2016 MIA @ POR L 30 0 0 4 0.0 0 0 - 0 0 - 1 3 4 3 0 0 0 4 -1
+p62
+aVGoran Dragic MIA 04/02/2016 MIA @ POR L 34 15 6 14 42.9 0 2 0.0 3 4 75.0 2 0 2 1 1 0 3 3 -14
+p63
+aVAmar'e Stoudemire MIA 04/02/2016 MIA @ POR L 11 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 1 -9
+p64
+aVGerald Green MIA 04/02/2016 MIA @ POR L 26 7 3 9 33.3 1 4 25.0 0 0 - 1 2 3 1 2 0 0 0 -6
+p65
+aVJosh McRoberts MIA 04/02/2016 MIA @ POR L 17 8 3 8 37.5 2 4 50.0 0 0 - 1 2 3 3 0 0 1 3 -8
+p66
+aVUdonis Haslem MIA 04/02/2016 MIA @ POR L 5 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p67
+aVLuol Deng MIA 04/02/2016 MIA @ POR L 31 14 5 13 38.5 1 4 25.0 3 4 75.0 4 9 13 2 3 0 2 2 -14
+p68
+aVJoe Johnson MIA 04/02/2016 MIA @ POR L 28 13 5 11 45.5 1 3 33.3 2 4 50.0 1 0 1 1 0 0 0 0 -27
+p69
+aVJosh Richardson MIA 04/02/2016 MIA @ POR L 30 12 5 10 50.0 1 1 100.0 1 2 50.0 0 1 1 4 2 0 2 1 -5
+p70
+aVJoe Johnson MIA 04/01/2016 MIA @ SAC W 36 14 6 11 54.5 1 4 25.0 1 1 100.0 1 4 5 8 2 0 6 4 8
+p71
+aVLuol Deng MIA 04/01/2016 MIA @ SAC W 34 17 7 12 58.3 3 3 100.0 0 0 - 2 1 3 4 0 0 2 1 15
+p72
+aVJosh Richardson MIA 04/01/2016 MIA @ SAC W 28 7 3 8 37.5 1 2 50.0 0 0 - 0 3 3 1 0 1 2 4 6
+p73
+aVJustise Winslow MIA 04/01/2016 MIA @ SAC W 30 12 5 12 41.7 1 2 50.0 1 1 100.0 3 2 5 1 0 1 1 2 -6
+p74
+aVGerald Green MIA 04/01/2016 MIA @ SAC W 33 30 11 19 57.9 5 9 55.6 3 3 100.0 1 2 3 1 3 0 0 3 5
+p75
+aVAmar'e Stoudemire MIA 04/01/2016 MIA @ SAC W 17 8 3 4 75.0 0 0 - 2 2 100.0 0 4 4 0 0 0 1 1 9
+p76
+aVGoran Dragic MIA 04/01/2016 MIA @ SAC W 30 18 5 12 41.7 1 2 50.0 7 8 87.5 0 2 2 7 0 1 4 4 -2
+p77
+aVHassan Whiteside MIA 04/01/2016 MIA @ SAC W 30 6 2 4 50.0 0 0 - 2 2 100.0 0 13 13 1 0 3 2 3 -5
+p78
+aVHassan Whiteside MIA 03/30/2016 MIA @ LAL L 39 20 7 9 77.8 0 0 - 6 12 50.0 5 12 17 0 0 7 3 5 -9
+p79
+aVAmar'e Stoudemire MIA 03/30/2016 MIA @ LAL L 14 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 7
+p80
+aVGoran Dragic MIA 03/30/2016 MIA @ LAL L 38 11 5 14 35.7 1 5 20.0 0 0 - 0 3 3 9 2 0 4 4 -1
+p81
+aVJustise Winslow MIA 03/30/2016 MIA @ LAL L 29 6 2 5 40.0 0 0 - 2 4 50.0 0 4 4 2 1 0 2 4 -13
+p82
+aVLuol Deng MIA 03/30/2016 MIA @ LAL L 41 22 9 15 60.0 2 4 50.0 2 4 50.0 5 6 11 2 1 3 0 1 -2
+p83
+aVDwyane Wade MIA 03/30/2016 MIA @ LAL L 39 26 12 21 57.1 0 0 - 2 2 100.0 2 8 10 5 0 2 4 2 13
+p84
+aVJosh Richardson MIA 03/30/2016 MIA @ LAL L 29 1 0 8 0.0 0 4 0.0 1 2 50.0 1 2 3 3 1 0 1 2 -14
+p85
+aVJoe Johnson MIA 03/30/2016 MIA @ LAL L 36 10 4 9 44.4 0 4 0.0 2 2 100.0 0 4 4 5 1 0 3 2 9
+p86
+aVGerald Green MIA 03/28/2016 MIA vs. BKN W 8 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p87
+aVDwyane Wade MIA 03/28/2016 MIA vs. BKN W 32 30 14 19 73.7 0 1 0.0 2 2 100.0 0 2 2 9 2 2 4 3 9
+p88
+aVLuol Deng MIA 03/28/2016 MIA vs. BKN W 31 9 4 11 36.4 1 3 33.3 0 0 - 1 4 5 1 2 0 1 0 6
+p89
+aVJosh Richardson MIA 03/28/2016 MIA vs. BKN W 38 16 6 9 66.7 3 4 75.0 1 2 50.0 1 4 5 3 2 1 1 2 13
+p90
+aVHassan Whiteside MIA 03/28/2016 MIA vs. BKN W 31 27 12 16 75.0 0 0 - 3 4 75.0 3 5 8 1 1 1 1 4 16
+p91
+aVJoe Johnson MIA 03/28/2016 MIA vs. BKN W 35 2 1 8 12.5 0 4 0.0 0 0 - 0 4 4 7 0 0 4 2 -2
+p92
+aVJustise Winslow MIA 03/28/2016 MIA vs. BKN W 32 13 5 10 50.0 1 1 100.0 2 2 100.0 0 3 3 0 0 0 0 1 14
+p93
+aVJosh McRoberts MIA 03/28/2016 MIA vs. BKN W 17 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 4 1 0 0 2 5
+p94
+aVAmar'e Stoudemire MIA 03/28/2016 MIA vs. BKN W 17 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 3 0 1 0 -5
+p95
+aVLuol Deng MIA 03/25/2016 MIA vs. ORL W 35 10 4 13 30.8 0 3 0.0 2 2 100.0 5 8 13 5 1 1 0 0 3
+p96
+aVJoe Johnson MIA 03/25/2016 MIA vs. ORL W 26 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 8
+p97
+aVJustise Winslow MIA 03/25/2016 MIA vs. ORL W 35 5 1 6 16.7 0 1 0.0 3 5 60.0 3 5 8 3 1 0 2 4 8
+p98
+aVGoran Dragic MIA 03/25/2016 MIA vs. ORL W 36 22 9 13 69.2 1 3 33.3 3 7 42.9 0 0 0 8 4 0 5 4 6
+p99
+aVHassan Whiteside MIA 03/25/2016 MIA vs. ORL W 29 26 10 15 66.7 0 0 - 6 7 85.7 2 10 12 0 1 5 1 3 9
+p100
+aVJosh Richardson MIA 03/25/2016 MIA vs. ORL W 33 14 5 9 55.6 3 5 60.0 1 1 100.0 0 2 2 2 0 0 1 3 14
+p101
+aVUdonis Haslem MIA 03/25/2016 MIA vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p102
+aVDwyane Wade MIA 03/25/2016 MIA vs. ORL W 25 11 2 9 22.2 0 1 0.0 7 8 87.5 0 3 3 4 1 1 0 1 6
+p103
+aVGerald Green MIA 03/25/2016 MIA vs. ORL W 2 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p104
+aVAmar'e Stoudemire MIA 03/25/2016 MIA vs. ORL W 16 13 6 7 85.7 0 0 - 1 3 33.3 2 3 5 0 1 0 0 3 5
+p105
+aVJosh McRoberts MIA 03/25/2016 MIA vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p106
+aVDwyane Wade MIA 03/23/2016 MIA @ SAS L 25 16 8 13 61.5 0 0 - 0 1 0.0 1 4 5 3 0 1 3 0 -23
+p107
+aVGerald Green MIA 03/23/2016 MIA @ SAS L 15 13 5 9 55.6 1 2 50.0 2 2 100.0 0 3 3 0 1 0 0 1 5
+p108
+aVJoe Johnson MIA 03/23/2016 MIA @ SAS L 33 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 5 1 0 0 0 -21
+p109
+aVJustise Winslow MIA 03/23/2016 MIA @ SAS L 31 10 3 7 42.9 1 1 100.0 3 5 60.0 0 2 2 3 0 0 0 4 -10
+p110
+aVJosh McRoberts MIA 03/23/2016 MIA @ SAS L 30 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 3 0 0 2 4 -15
+p111
+aVJosh Richardson MIA 03/23/2016 MIA @ SAS L 34 17 7 13 53.8 3 4 75.0 0 0 - 1 1 2 4 3 1 0 2 -13
+p112
+aVAmar'e Stoudemire MIA 03/23/2016 MIA @ SAS L 14 2 1 5 20.0 0 0 - 0 0 - 0 4 4 0 0 2 1 1 -11
+p113
+aVGoran Dragic MIA 03/23/2016 MIA @ SAS L 25 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 4 2 0 6 2 -19
+p114
+aVHassan Whiteside MIA 03/23/2016 MIA @ SAS L 34 12 5 9 55.6 0 0 - 2 4 50.0 4 10 14 1 1 2 2 2 -13
+p115
+aVHassan Whiteside MIA 03/22/2016 MIA @ NOP W 30 24 10 11 90.9 0 0 - 4 6 66.7 5 9 14 0 1 3 4 4 12
+p116
+aVJosh Richardson MIA 03/22/2016 MIA @ NOP W 24 6 3 8 37.5 0 3 0.0 0 0 - 0 1 1 0 0 0 1 3 11
+p117
+aVDwyane Wade MIA 03/22/2016 MIA @ NOP W 31 25 10 21 47.6 0 0 - 5 6 83.3 2 5 7 3 1 0 1 3 11
+p118
+aVJosh McRoberts MIA 03/22/2016 MIA @ NOP W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p119
+aVLuol Deng MIA 03/22/2016 MIA @ NOP W 29 5 1 7 14.3 0 4 0.0 3 3 100.0 0 3 3 4 0 0 0 2 -7
+p120
+aVAmar'e Stoudemire MIA 03/22/2016 MIA @ NOP W 15 16 6 8 75.0 0 0 - 4 4 100.0 5 4 9 0 0 2 1 2 3
+p121
+aVGerald Green MIA 03/22/2016 MIA @ NOP W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p122
+aVJoe Johnson MIA 03/22/2016 MIA @ NOP W 35 8 2 7 28.6 0 2 0.0 4 6 66.7 0 5 5 6 1 0 1 1 18
+p123
+aVGoran Dragic MIA 03/22/2016 MIA @ NOP W 36 21 8 18 44.4 3 7 42.9 2 2 100.0 2 6 8 5 1 0 3 4 14
+p124
+aVJustise Winslow MIA 03/22/2016 MIA @ NOP W 31 8 4 6 66.7 0 2 0.0 0 0 - 0 6 6 3 1 0 1 0 11
+p125
+aVUdonis Haslem MIA 03/19/2016 MIA vs. CLE W 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -9
+p126
+aVGoran Dragic MIA 03/19/2016 MIA vs. CLE W 29 18 7 12 58.3 0 0 - 4 4 100.0 1 3 4 11 1 0 2 1 15
+p127
+aVLuol Deng MIA 03/19/2016 MIA vs. CLE W 23 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 1 0 2 1 1 14
+p128
+aVJoe Johnson MIA 03/19/2016 MIA vs. CLE W 31 18 7 11 63.6 4 6 66.7 0 0 - 1 2 3 2 2 0 0 0 30
+p129
+aVJosh Richardson MIA 03/19/2016 MIA vs. CLE W 32 19 6 9 66.7 4 6 66.7 3 4 75.0 0 2 2 2 1 1 2 0 10
+p130
+aVJustise Winslow MIA 03/19/2016 MIA vs. CLE W 31 4 2 8 25.0 0 1 0.0 0 2 0.0 2 1 3 4 1 0 0 3 3
+p131
+aVGerald Green MIA 03/19/2016 MIA vs. CLE W 11 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 1 0 0 0 3 -7
+p132
+aVHassan Whiteside MIA 03/19/2016 MIA vs. CLE W 24 16 6 9 66.7 0 0 - 4 5 80.0 4 9 13 2 0 2 2 0 12
+p133
+aVAmar'e Stoudemire MIA 03/19/2016 MIA vs. CLE W 12 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 1 0 0 2 4 9
+p134
+aVJosh McRoberts MIA 03/19/2016 MIA vs. CLE W 12 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 0 1 0
+p135
+aVDwyane Wade MIA 03/19/2016 MIA vs. CLE W 28 24 10 17 58.8 0 0 - 4 4 100.0 2 2 4 4 1 0 2 1 28
+p136
+aVAmar'e Stoudemire MIA 03/17/2016 MIA vs. CHA L 21 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -11
+p137
+aVDwyane Wade MIA 03/17/2016 MIA vs. CHA L 31 11 3 13 23.1 0 1 0.0 5 6 83.3 0 3 3 3 0 2 3 1 -16
+p138
+aVGoran Dragic MIA 03/17/2016 MIA vs. CHA L 36 16 8 16 50.0 0 3 0.0 0 0 - 0 7 7 8 2 0 4 1 4
+p139
+aVJosh Richardson MIA 03/17/2016 MIA vs. CHA L 25 18 7 9 77.8 3 4 75.0 1 4 25.0 1 3 4 1 0 1 2 5 7
+p140
+aVHassan Whiteside MIA 03/17/2016 MIA vs. CHA L 27 17 6 10 60.0 0 0 - 5 6 83.3 0 7 7 0 1 1 3 3 8
+p141
+aVJustise Winslow MIA 03/17/2016 MIA vs. CHA L 31 3 1 2 50.0 0 0 - 1 1 100.0 1 2 3 3 1 2 0 1 4
+p142
+aVJoe Johnson MIA 03/17/2016 MIA vs. CHA L 34 13 5 9 55.6 2 4 50.0 1 1 100.0 1 2 3 4 0 1 0 1 -20
+p143
+aVLuol Deng MIA 03/17/2016 MIA vs. CHA L 35 22 7 13 53.8 2 5 40.0 6 6 100.0 3 6 9 3 1 1 3 4 9
+p144
+aVHassan Whiteside MIA 03/14/2016 MIA vs. DEN W 31 18 6 7 85.7 0 0 - 6 6 100.0 2 8 10 0 0 1 4 4 10
+p145
+aVJustise Winslow MIA 03/14/2016 MIA vs. DEN W 33 20 8 13 61.5 1 1 100.0 3 3 100.0 0 3 3 0 2 0 0 4 13
+p146
+aVJosh McRoberts MIA 03/14/2016 MIA vs. DEN W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 1
+p147
+aVJoe Johnson MIA 03/14/2016 MIA vs. DEN W 30 18 6 11 54.5 2 5 40.0 4 5 80.0 0 2 2 5 1 0 1 2 -10
+p148
+aVLuol Deng MIA 03/14/2016 MIA vs. DEN W 33 17 7 10 70.0 0 2 0.0 3 3 100.0 2 6 8 2 2 0 1 0 6
+p149
+aVJosh Richardson MIA 03/14/2016 MIA vs. DEN W 33 17 6 10 60.0 4 5 80.0 1 2 50.0 1 3 4 2 2 3 1 3 17
+p150
+aVGoran Dragic MIA 03/14/2016 MIA vs. DEN W 33 11 5 10 50.0 1 4 25.0 0 2 0.0 0 2 2 8 0 0 1 3 -1
+p151
+aVAmar'e Stoudemire MIA 03/14/2016 MIA vs. DEN W 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -5
+p152
+aVDwyane Wade MIA 03/14/2016 MIA vs. DEN W 31 19 7 15 46.7 0 0 - 5 7 71.4 0 2 2 5 2 1 5 1 -6
+p153
+aVHassan Whiteside MIA 03/12/2016 MIA @ TOR L 33 13 5 12 41.7 0 0 - 3 4 75.0 6 5 11 0 1 3 1 5 -9
+p154
+aVJosh Richardson MIA 03/12/2016 MIA @ TOR L 26 8 3 7 42.9 1 2 50.0 1 3 33.3 2 1 3 0 2 0 0 5 -3
+p155
+aVAmar'e Stoudemire MIA 03/12/2016 MIA @ TOR L 20 4 1 4 25.0 0 0 - 2 2 100.0 3 2 5 0 1 0 1 4 -1
+p156
+aVLuol Deng MIA 03/12/2016 MIA @ TOR L 37 20 7 18 38.9 2 8 25.0 4 5 80.0 2 3 5 1 2 1 3 4 -5
+p157
+aVGerald Green MIA 03/12/2016 MIA @ TOR L 22 7 1 9 11.1 1 4 25.0 4 4 100.0 2 5 7 2 0 0 0 0 0
+p158
+aVJoe Johnson MIA 03/12/2016 MIA @ TOR L 43 28 11 21 52.4 4 7 57.1 2 2 100.0 1 3 4 5 0 0 4 5 -6
+p159
+aVJustise Winslow MIA 03/12/2016 MIA @ TOR L 43 11 4 9 44.4 0 1 0.0 3 4 75.0 0 5 5 2 3 1 1 3 -7
+p160
+aVGoran Dragic MIA 03/12/2016 MIA @ TOR L 41 13 5 18 27.8 1 3 33.3 2 2 100.0 0 7 7 9 0 0 3 4 -9
+p161
+aVGerald Green MIA 03/11/2016 MIA @ CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p162
+aVGoran Dragic MIA 03/11/2016 MIA @ CHI W 31 26 10 16 62.5 1 2 50.0 5 6 83.3 0 3 3 9 1 1 1 0 29
+p163
+aVLuol Deng MIA 03/11/2016 MIA @ CHI W 32 19 7 12 58.3 3 5 60.0 2 2 100.0 1 5 6 2 4 0 1 3 29
+p164
+aVDwyane Wade MIA 03/11/2016 MIA @ CHI W 31 9 3 15 20.0 0 0 - 3 4 75.0 2 5 7 5 0 2 2 0 2
+p165
+aVJustise Winslow MIA 03/11/2016 MIA @ CHI W 32 8 4 7 57.1 0 0 - 0 2 0.0 1 5 6 4 3 0 0 3 14
+p166
+aVJosh Richardson MIA 03/11/2016 MIA @ CHI W 32 22 9 12 75.0 4 6 66.7 0 0 - 1 1 2 4 1 0 0 3 13
+p167
+aVAmar'e Stoudemire MIA 03/11/2016 MIA @ CHI W 15 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p168
+aVJoe Johnson MIA 03/11/2016 MIA @ CHI W 29 15 5 10 50.0 2 3 66.7 3 4 75.0 1 2 3 2 4 0 3 2 1
+p169
+aVUdonis Haslem MIA 03/11/2016 MIA @ CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p170
+aVJosh McRoberts MIA 03/11/2016 MIA @ CHI W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 0
+p171
+aVHassan Whiteside MIA 03/11/2016 MIA @ CHI W 31 13 6 13 46.2 0 0 - 1 2 50.0 3 13 16 2 1 3 0 0 24
+p172
+aVJustise Winslow MIA 03/09/2016 MIA @ MIL L 26 6 2 7 28.6 0 1 0.0 2 2 100.0 0 4 4 2 0 0 1 1 4
+p173
+aVJosh Richardson MIA 03/09/2016 MIA @ MIL L 24 14 4 6 66.7 3 4 75.0 3 4 75.0 0 2 2 2 2 1 0 2 6
+p174
+aVHassan Whiteside MIA 03/09/2016 MIA @ MIL L 29 23 9 13 69.2 0 0 - 5 5 100.0 5 8 13 0 0 3 2 5 1
+p175
+aVLuol Deng MIA 03/09/2016 MIA @ MIL L 38 20 9 17 52.9 2 4 50.0 0 0 - 3 8 11 2 2 1 2 1 -12
+p176
+aVJoe Johnson MIA 03/09/2016 MIA @ MIL L 34 11 5 9 55.6 1 2 50.0 0 0 - 2 0 2 4 0 0 2 4 -1
+p177
+aVDwyane Wade MIA 03/09/2016 MIA @ MIL L 34 18 6 14 42.9 0 1 0.0 6 6 100.0 0 3 3 6 2 0 6 5 -7
+p178
+aVAmar'e Stoudemire MIA 03/09/2016 MIA @ MIL L 18 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 3 1 2 -7
+p179
+aVGoran Dragic MIA 03/09/2016 MIA @ MIL L 36 10 4 9 44.4 0 3 0.0 2 2 100.0 0 3 3 6 0 0 1 4 -14
+p180
+aVDwyane Wade MIA 03/06/2016 MIA vs. PHI W 31 23 5 15 33.3 0 0 - 13 14 92.9 0 3 3 3 2 0 1 2 22
+p181
+aVJosh Richardson MIA 03/06/2016 MIA vs. PHI W 23 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 -5
+p182
+aVHassan Whiteside MIA 03/06/2016 MIA vs. PHI W 31 14 4 11 36.4 0 0 - 6 10 60.0 5 8 13 1 0 7 2 3 -1
+p183
+aVJustise Winslow MIA 03/06/2016 MIA vs. PHI W 30 6 2 4 50.0 1 2 50.0 1 2 50.0 1 1 2 1 2 0 2 2 -9
+p184
+aVAmar'e Stoudemire MIA 03/06/2016 MIA vs. PHI W 17 2 1 6 16.7 0 0 - 0 0 - 1 5 6 0 0 2 1 2 11
+p185
+aVLuol Deng MIA 03/06/2016 MIA vs. PHI W 36 12 5 11 45.5 1 4 25.0 1 2 50.0 3 11 14 4 2 1 0 0 0
+p186
+aVGoran Dragic MIA 03/06/2016 MIA vs. PHI W 38 23 9 15 60.0 3 4 75.0 2 2 100.0 1 7 8 5 0 0 3 4 -3
+p187
+aVGerald Green MIA 03/06/2016 MIA vs. PHI W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p188
+aVJoe Johnson MIA 03/06/2016 MIA vs. PHI W 31 14 6 11 54.5 2 2 100.0 0 0 - 2 3 5 1 1 0 2 3 17
+p189
+aVGoran Dragic MIA 03/04/2016 MIA @ PHI W 34 15 6 16 37.5 0 2 0.0 3 4 75.0 0 5 5 11 1 0 4 2 17
+p190
+aVLuol Deng MIA 03/04/2016 MIA @ PHI W 35 13 3 8 37.5 0 3 0.0 7 7 100.0 3 6 9 2 0 0 1 1 19
+p191
+aVHassan Whiteside MIA 03/04/2016 MIA @ PHI W 34 19 6 11 54.5 0 0 - 7 8 87.5 4 15 19 2 0 2 1 2 11
+p192
+aVUdonis Haslem MIA 03/04/2016 MIA @ PHI W 1 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -6
+p193
+aVGerald Green MIA 03/04/2016 MIA @ PHI W 20 12 5 14 35.7 2 6 33.3 0 0 - 0 1 1 0 0 0 0 0 3
+p194
+aVJustise Winslow MIA 03/04/2016 MIA @ PHI W 16 2 1 3 33.3 0 0 - 0 2 0.0 3 0 3 0 0 1 3 4 -4
+p195
+aVAmar'e Stoudemire MIA 03/04/2016 MIA @ PHI W 14 12 4 5 80.0 0 0 - 4 5 80.0 2 2 4 0 1 0 1 3 -1
+p196
+aVJosh Richardson MIA 03/04/2016 MIA @ PHI W 33 6 2 7 28.6 2 2 100.0 0 0 - 1 4 5 3 0 1 1 3 3
+p197
+aVJoe Johnson MIA 03/04/2016 MIA @ PHI W 26 12 5 7 71.4 1 2 50.0 1 1 100.0 0 0 0 2 2 0 1 2 4
+p198
+aVDwyane Wade MIA 03/04/2016 MIA @ PHI W 26 21 7 16 43.8 0 0 - 7 9 77.8 2 6 8 4 3 1 4 2 4
+p199
+aVJoe Johnson MIA 03/03/2016 MIA vs. PHX W 31 8 3 7 42.9 2 2 100.0 0 0 - 0 3 3 2 0 0 0 3 12
+p200
+aVJustise Winslow MIA 03/03/2016 MIA vs. PHX W 29 9 3 5 60.0 1 1 100.0 2 2 100.0 0 7 7 2 1 0 0 2 8
+p201
+aVLuol Deng MIA 03/03/2016 MIA vs. PHX W 29 12 4 10 40.0 2 4 50.0 2 4 50.0 0 4 4 4 1 0 0 1 6
+p202
+aVJosh Richardson MIA 03/03/2016 MIA vs. PHX W 23 6 2 7 28.6 1 3 33.3 1 2 50.0 0 2 2 3 1 0 1 4 9
+p203
+aVJosh McRoberts MIA 03/03/2016 MIA vs. PHX W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p204
+aVGerald Green MIA 03/03/2016 MIA vs. PHX W 10 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 2
+p205
+aVAmar'e Stoudemire MIA 03/03/2016 MIA vs. PHX W 25 8 3 3 100.0 0 0 - 2 2 100.0 3 6 9 0 0 3 2 5 17
+p206
+aVDwyane Wade MIA 03/03/2016 MIA vs. PHX W 33 27 9 17 52.9 0 0 - 9 10 90.0 1 3 4 7 0 0 2 1 13
+p207
+aVHassan Whiteside MIA 03/03/2016 MIA vs. PHX W 23 9 4 8 50.0 0 0 - 1 1 100.0 2 9 11 1 1 5 3 4 -1
+p208
+aVGoran Dragic MIA 03/03/2016 MIA vs. PHX W 34 25 10 18 55.6 3 6 50.0 2 4 50.0 1 6 7 4 1 0 3 4 19
+p209
+aVJustise Winslow MIA 03/01/2016 MIA vs. CHI W 27 8 4 6 66.7 0 1 0.0 0 0 - 0 2 2 0 0 0 3 2 -2
+p210
+aVAmar'e Stoudemire MIA 03/01/2016 MIA vs. CHI W 15 7 3 3 100.0 0 0 - 1 1 100.0 2 2 4 1 0 5 1 2 16
+p211
+aVDwyane Wade MIA 03/01/2016 MIA vs. CHI W 34 18 7 13 53.8 0 0 - 4 6 66.7 0 2 2 7 1 1 5 5 13
+p212
+aVJosh Richardson MIA 03/01/2016 MIA vs. CHI W 27 9 4 7 57.1 1 3 33.3 0 1 0.0 0 3 3 2 2 0 0 4 -2
+p213
+aVJoe Johnson MIA 03/01/2016 MIA vs. CHI W 33 24 10 13 76.9 2 3 66.7 2 2 100.0 1 4 5 4 0 1 2 1 24
+p214
+aVLuol Deng MIA 03/01/2016 MIA vs. CHI W 37 20 8 10 80.0 3 3 100.0 1 2 50.0 0 4 4 2 1 0 2 5 14
+p215
+aVHassan Whiteside MIA 03/01/2016 MIA vs. CHI W 33 26 8 11 72.7 0 0 - 10 11 90.9 1 13 14 1 0 4 1 1 2
+p216
+aVGoran Dragic MIA 03/01/2016 MIA vs. CHI W 35 17 8 14 57.1 0 2 0.0 1 2 50.0 0 4 4 11 1 0 1 3 25
+p217
+aVJosh Richardson MIA 02/28/2016 MIA @ NYK W 30 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 2 2 0 0 1 9
+p218
+aVGoran Dragic MIA 02/28/2016 MIA @ NYK W 33 13 5 12 41.7 0 3 0.0 3 4 75.0 0 3 3 6 1 1 3 0 17
+p219
+aVLuol Deng MIA 02/28/2016 MIA @ NYK W 30 15 7 12 58.3 0 1 0.0 1 2 50.0 2 5 7 2 1 0 4 0 12
+p220
+aVJoe Johnson MIA 02/28/2016 MIA @ NYK W 30 12 5 10 50.0 1 3 33.3 1 1 100.0 1 2 3 3 0 0 2 4 15
+p221
+aVDwyane Wade MIA 02/28/2016 MIA @ NYK W 32 26 9 20 45.0 0 0 - 8 10 80.0 1 6 7 6 2 0 2 2 8
+p222
+aVAmar'e Stoudemire MIA 02/28/2016 MIA @ NYK W 22 8 4 7 57.1 0 0 - 0 0 - 3 4 7 2 0 1 1 5 15
+p223
+aVHassan Whiteside MIA 02/28/2016 MIA @ NYK W 26 16 7 13 53.8 0 0 - 2 2 100.0 5 6 11 0 3 2 2 4 2
+p224
+aVJustise Winslow MIA 02/28/2016 MIA @ NYK W 36 0 0 4 0.0 0 0 - 0 0 - 0 13 13 4 0 0 1 2 7
+p225
+aVAmar'e Stoudemire MIA 02/27/2016 MIA @ BOS L 15 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 0 1 0 1 5
+p226
+aVJustise Winslow MIA 02/27/2016 MIA @ BOS L 32 6 3 10 30.0 0 1 0.0 0 0 - 3 4 7 4 0 1 2 2 -6
+p227
+aVHassan Whiteside MIA 02/27/2016 MIA @ BOS L 33 13 5 9 55.6 0 0 - 3 3 100.0 4 11 15 0 1 8 1 3 -17
+p228
+aVGoran Dragic MIA 02/27/2016 MIA @ BOS L 34 21 9 15 60.0 1 4 25.0 2 2 100.0 1 4 5 5 1 0 4 4 -1
+p229
+aVJosh Richardson MIA 02/27/2016 MIA @ BOS L 27 11 3 4 75.0 0 1 0.0 5 6 83.3 0 2 2 1 2 2 3 4 -8
+p230
+aVLuol Deng MIA 02/27/2016 MIA @ BOS L 34 11 5 13 38.5 0 3 0.0 1 5 20.0 3 9 12 2 1 0 3 2 -6
+p231
+aVDwyane Wade MIA 02/27/2016 MIA @ BOS L 33 19 7 19 36.8 0 1 0.0 5 7 71.4 1 4 5 3 1 0 4 0 -13
+p232
+aVGerald Green MIA 02/27/2016 MIA @ BOS L 19 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 1 1 -4
+p233
+aVJosh McRoberts MIA 02/27/2016 MIA @ BOS L 13 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 3 0 0 0 2 -10
+p234
+aVAmar'e Stoudemire MIA 02/24/2016 MIA vs. GSW L 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 2
+p235
+aVDwyane Wade MIA 02/24/2016 MIA vs. GSW L 33 32 11 20 55.0 0 0 - 10 11 90.9 1 2 3 7 1 1 4 4 -13
+p236
+aVJustise Winslow MIA 02/24/2016 MIA vs. GSW L 33 8 4 7 57.1 0 0 - 0 0 - 4 6 10 2 3 2 2 2 -6
+p237
+aVGoran Dragic MIA 02/24/2016 MIA vs. GSW L 34 13 5 17 29.4 1 5 20.0 2 2 100.0 0 2 2 7 1 0 2 5 -3
+p238
+aVHassan Whiteside MIA 02/24/2016 MIA vs. GSW L 32 21 8 11 72.7 0 0 - 5 5 100.0 2 11 13 0 1 2 2 3 2
+p239
+aVJosh Richardson MIA 02/24/2016 MIA vs. GSW L 29 15 5 6 83.3 3 3 100.0 2 2 100.0 1 1 2 0 1 1 1 4 -3
+p240
+aVJosh McRoberts MIA 02/24/2016 MIA vs. GSW L 14 7 2 8 25.0 1 2 50.0 2 3 66.7 0 2 2 0 0 1 0 2 -9
+p241
+aVLuol Deng MIA 02/24/2016 MIA vs. GSW L 36 16 5 15 33.3 1 4 25.0 5 8 62.5 3 8 11 3 1 1 0 0 -7
+p242
+aVGerald Green MIA 02/24/2016 MIA vs. GSW L 25 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 7
+p243
+aVJosh McRoberts MIA 02/22/2016 MIA vs. IND W 22 10 4 8 50.0 1 3 33.3 1 3 33.3 0 6 6 3 2 0 2 3 -2
+p244
+aVHassan Whiteside MIA 02/22/2016 MIA vs. IND W 41 19 8 17 47.1 0 0 - 3 4 75.0 6 12 18 1 0 6 1 3 17
+p245
+aVGoran Dragic MIA 02/22/2016 MIA vs. IND W 41 24 10 17 58.8 1 2 50.0 3 6 50.0 4 4 8 5 0 0 2 3 20
+p246
+aVDwyane Wade MIA 02/22/2016 MIA vs. IND W 39 16 4 21 19.0 0 2 0.0 8 10 80.0 1 4 5 3 1 1 5 4 8
+p247
+aVLuol Deng MIA 02/22/2016 MIA vs. IND W 37 13 5 18 27.8 0 3 0.0 3 5 60.0 5 11 16 1 0 0 1 5 8
+p248
+aVBeno Udrih MIA 02/22/2016 MIA vs. IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p249
+aVJustise Winslow MIA 02/22/2016 MIA vs. IND W 40 15 5 10 50.0 0 1 0.0 5 6 83.3 3 4 7 4 4 0 0 4 29
+p250
+aVAmar'e Stoudemire MIA 02/22/2016 MIA vs. IND W 12 4 2 3 66.7 0 0 - 0 0 - 1 4 5 1 0 0 3 1 -11
+p251
+aVJosh Richardson MIA 02/22/2016 MIA vs. IND W 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -5
+p252
+aVGerald Green MIA 02/22/2016 MIA vs. IND W 18 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 1 0 1 0 0 -16
+p253
+aVLuol Deng MIA 02/20/2016 MIA vs. WAS W 35 27 11 18 61.1 0 1 0.0 5 5 100.0 4 6 10 4 1 0 0 2 12
+p254
+aVGerald Green MIA 02/20/2016 MIA vs. WAS W 29 5 2 8 25.0 1 3 33.3 0 0 - 1 1 2 0 0 1 0 2 8
+p255
+aVJustise Winslow MIA 02/20/2016 MIA vs. WAS W 26 14 6 10 60.0 0 0 - 2 5 40.0 3 3 6 1 0 0 2 2 6
+p256
+aVBeno Udrih MIA 02/20/2016 MIA vs. WAS W 18 7 3 8 37.5 0 2 0.0 1 2 50.0 1 3 4 2 0 0 3 1 7
+p257
+aVGoran Dragic MIA 02/20/2016 MIA vs. WAS W 30 24 9 20 45.0 0 3 0.0 6 7 85.7 2 5 7 8 0 1 0 1 13
+p258
+aVUdonis Haslem MIA 02/20/2016 MIA vs. WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p259
+aVJosh Richardson MIA 02/20/2016 MIA vs. WAS W 35 5 2 8 25.0 1 3 33.3 0 0 - 0 6 6 3 0 3 0 2 15
+p260
+aVHassan Whiteside MIA 02/20/2016 MIA vs. WAS W 29 25 11 15 73.3 0 0 - 3 7 42.9 8 15 23 0 0 2 1 3 8
+p261
+aVAmar'e Stoudemire MIA 02/20/2016 MIA vs. WAS W 17 4 2 3 66.7 0 0 - 0 0 - 0 6 6 2 0 2 1 4 14
+p262
+aVJosh McRoberts MIA 02/20/2016 MIA vs. WAS W 19 3 1 6 16.7 0 1 0.0 1 2 50.0 0 3 3 3 0 0 0 2 19
+p263
+aVLuol Deng MIA 02/19/2016 MIA @ ATL W 38 30 11 17 64.7 1 3 33.3 7 10 70.0 2 9 11 0 4 0 1 1 16
+p264
+aVUdonis Haslem MIA 02/19/2016 MIA @ ATL W 12 6 2 2 100.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 1 -3
+p265
+aVGoran Dragic MIA 02/19/2016 MIA @ ATL W 33 17 6 14 42.9 1 4 25.0 4 5 80.0 0 5 5 10 4 0 4 2 3
+p266
+aVGerald Green MIA 02/19/2016 MIA @ ATL W 37 14 6 13 46.2 1 3 33.3 1 3 33.3 1 4 5 2 2 1 3 2 -4
+p267
+aVJosh Richardson MIA 02/19/2016 MIA @ ATL W 20 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 1 0 0 2 3
+p268
+aVJustise Winslow MIA 02/19/2016 MIA @ ATL W 37 13 5 13 38.5 0 3 0.0 3 4 75.0 3 6 9 0 2 0 2 2 2
+p269
+aVBeno Udrih MIA 02/19/2016 MIA @ ATL W 15 3 1 6 16.7 1 1 100.0 0 0 - 0 0 0 3 0 0 2 1 1
+p270
+aVAmar'e Stoudemire MIA 02/19/2016 MIA @ ATL W 19 6 2 6 33.3 0 0 - 2 4 50.0 2 4 6 1 0 0 1 0 1
+p271
+aVJosh McRoberts MIA 02/19/2016 MIA @ ATL W 30 19 8 13 61.5 3 5 60.0 0 0 - 2 4 6 10 0 0 1 1 1
+p272
+aVGoran Dragic MIA 02/09/2016 MIA vs. SAS L 31 10 5 9 55.6 0 0 - 0 2 0.0 0 1 1 6 1 0 4 2 -16
+p273
+aVAmar'e Stoudemire MIA 02/09/2016 MIA vs. SAS L 13 2 1 3 33.3 0 0 - 0 0 - 0 8 8 2 0 2 0 3 0
+p274
+aVHassan Whiteside MIA 02/09/2016 MIA vs. SAS L 25 14 6 9 66.7 0 0 - 2 3 66.7 0 6 6 0 0 2 1 4 -10
+p275
+aVLuol Deng MIA 02/09/2016 MIA vs. SAS L 26 11 3 7 42.9 2 5 40.0 3 5 60.0 0 2 2 0 1 0 0 0 -15
+p276
+aVJosh McRoberts MIA 02/09/2016 MIA vs. SAS L 11 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 2 1 0 2 -2
+p277
+aVGerald Green MIA 02/09/2016 MIA vs. SAS L 23 8 3 7 42.9 2 4 50.0 0 0 - 0 5 5 0 0 0 0 0 -8
+p278
+aVJustise Winslow MIA 02/09/2016 MIA vs. SAS L 24 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 2 -9
+p279
+aVChris Bosh MIA 02/09/2016 MIA vs. SAS L 35 18 6 12 50.0 0 2 0.0 6 6 100.0 0 5 5 2 1 0 7 3 -14
+p280
+aVDwyane Wade MIA 02/09/2016 MIA vs. SAS L 31 20 9 12 75.0 0 0 - 2 3 66.7 0 0 0 5 1 0 2 2 -14
+p281
+aVJarnell Stokes MIA 02/09/2016 MIA vs. SAS L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 1 4
+p282
+aVBeno Udrih MIA 02/09/2016 MIA vs. SAS L 19 13 5 7 71.4 0 0 - 3 3 100.0 1 0 1 3 0 0 1 1 -6
+p283
+aVLuol Deng MIA 02/07/2016 MIA vs. LAC L 40 15 5 9 55.6 1 2 50.0 4 5 80.0 4 4 8 1 0 0 0 3 -5
+p284
+aVDwyane Wade MIA 02/07/2016 MIA vs. LAC L 32 17 7 20 35.0 0 0 - 3 5 60.0 1 2 3 3 1 0 4 3 -2
+p285
+aVGoran Dragic MIA 02/07/2016 MIA vs. LAC L 35 17 7 13 53.8 3 5 60.0 0 0 - 1 4 5 5 0 0 4 3 -9
+p286
+aVChris Bosh MIA 02/07/2016 MIA vs. LAC L 32 17 5 17 29.4 3 5 60.0 4 7 57.1 1 4 5 2 0 0 2 4 -10
+p287
+aVHassan Whiteside MIA 02/07/2016 MIA vs. LAC L 17 10 3 5 60.0 0 0 - 4 6 66.7 2 8 10 0 0 0 0 2 -5
+p288
+aVGerald Green MIA 02/07/2016 MIA vs. LAC L 29 7 3 8 37.5 0 3 0.0 1 2 50.0 1 2 3 0 1 0 1 1 -7
+p289
+aVJustise Winslow MIA 02/07/2016 MIA vs. LAC L 27 2 0 5 0.0 0 2 0.0 2 2 100.0 1 9 10 0 0 0 0 3 2
+p290
+aVAmar'e Stoudemire MIA 02/07/2016 MIA vs. LAC L 16 2 1 2 50.0 0 0 - 0 0 - 1 7 8 1 0 0 1 1 -1
+p291
+aVBeno Udrih MIA 02/07/2016 MIA vs. LAC L 13 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 2 0 0 1 1 2
+p292
+aVGerald Green MIA 02/05/2016 MIA @ CHA W 24 7 3 11 27.3 0 4 0.0 1 1 100.0 0 3 3 0 0 0 1 3 18
+p293
+aVGoran Dragic MIA 02/05/2016 MIA @ CHA W 32 12 5 10 50.0 0 2 0.0 2 2 100.0 1 7 8 9 2 0 0 3 7
+p294
+aVJustise Winslow MIA 02/05/2016 MIA @ CHA W 33 8 4 6 66.7 0 0 - 0 0 - 2 8 10 2 2 0 0 2 -5
+p295
+aVLuol Deng MIA 02/05/2016 MIA @ CHA W 28 8 3 8 37.5 0 1 0.0 2 3 66.7 0 1 1 0 1 0 1 0 -2
+p296
+aVChris Bosh MIA 02/05/2016 MIA @ CHA W 35 20 9 20 45.0 0 2 0.0 2 3 66.7 1 5 6 2 0 0 0 1 11
+p297
+aVBeno Udrih MIA 02/05/2016 MIA @ CHA W 15 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -5
+p298
+aVDwyane Wade MIA 02/05/2016 MIA @ CHA W 30 22 11 20 55.0 0 0 - 0 0 - 1 2 3 5 2 0 3 2 -7
+p299
+aVHassan Whiteside MIA 02/05/2016 MIA @ CHA W 27 10 4 8 50.0 0 0 - 2 3 66.7 3 7 10 0 0 10 2 4 8
+p300
+aVAmar'e Stoudemire MIA 02/05/2016 MIA @ CHA W 16 7 2 5 40.0 0 0 - 3 6 50.0 0 5 5 0 0 2 0 1 -10
+p301
+aVChris Bosh MIA 02/03/2016 MIA @ DAL W 32 20 10 23 43.5 0 6 0.0 0 1 0.0 1 3 4 1 0 0 1 3 -10
+p302
+aVGerald Green MIA 02/03/2016 MIA @ DAL W 26 3 0 2 0.0 0 1 0.0 3 5 60.0 0 7 7 1 0 0 0 2 7
+p303
+aVDwyane Wade MIA 02/03/2016 MIA @ DAL W 28 18 6 19 31.6 0 1 0.0 6 8 75.0 4 4 8 4 1 0 1 0 -4
+p304
+aVLuol Deng MIA 02/03/2016 MIA @ DAL W 32 15 4 9 44.4 1 2 50.0 6 7 85.7 2 3 5 1 0 1 1 2 0
+p305
+aVHassan Whiteside MIA 02/03/2016 MIA @ DAL W 17 10 5 5 100.0 0 0 - 0 0 - 3 6 9 1 1 5 1 5 7
+p306
+aVJosh McRoberts MIA 02/03/2016 MIA @ DAL W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 4
+p307
+aVBeno Udrih MIA 02/03/2016 MIA @ DAL W 15 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 2 0 0 2 1 2
+p308
+aVJustise Winslow MIA 02/03/2016 MIA @ DAL W 30 4 2 6 33.3 0 1 0.0 0 0 - 0 6 6 0 1 1 0 3 6
+p309
+aVGoran Dragic MIA 02/03/2016 MIA @ DAL W 33 7 3 10 30.0 1 2 50.0 0 0 - 0 4 4 7 0 0 1 2 2
+p310
+aVAmar'e Stoudemire MIA 02/03/2016 MIA @ DAL W 17 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 1 0 4 0 2 1
+p311
+aVJosh Richardson MIA 02/02/2016 MIA @ HOU L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 4
+p312
+aVDwyane Wade MIA 02/02/2016 MIA @ HOU L 29 16 6 18 33.3 0 0 - 4 6 66.7 3 1 4 4 1 1 3 0 -11
+p313
+aVLuol Deng MIA 02/02/2016 MIA @ HOU L 29 17 7 13 53.8 2 4 50.0 1 2 50.0 2 6 8 3 1 0 3 2 -11
+p314
+aVJarnell Stokes MIA 02/02/2016 MIA @ HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p315
+aVAmar'e Stoudemire MIA 02/02/2016 MIA @ HOU L 24 14 6 12 50.0 0 0 - 2 2 100.0 6 4 10 1 0 0 3 3 -5
+p316
+aVGoran Dragic MIA 02/02/2016 MIA @ HOU L 33 14 6 12 50.0 1 3 33.3 1 3 33.3 0 4 4 6 0 0 2 0 7
+p317
+aVJosh McRoberts MIA 02/02/2016 MIA @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p318
+aVGerald Green MIA 02/02/2016 MIA @ HOU L 25 13 4 6 66.7 1 3 33.3 4 4 100.0 0 4 4 3 0 1 1 1 -14
+p319
+aVBeno Udrih MIA 02/02/2016 MIA @ HOU L 25 4 2 5 40.0 0 2 0.0 0 0 - 0 4 4 5 0 0 1 2 -14
+p320
+aVChris Bosh MIA 02/02/2016 MIA @ HOU L 30 13 3 11 27.3 1 2 50.0 6 8 75.0 1 6 7 1 0 1 0 2 -9
+p321
+aVUdonis Haslem MIA 02/02/2016 MIA @ HOU L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 4
+p322
+aVJustise Winslow MIA 02/02/2016 MIA @ HOU L 32 11 4 5 80.0 1 1 100.0 2 2 100.0 1 7 8 2 3 0 4 4 -15
+p323
+aVJustise Winslow MIA 01/31/2016 MIA vs. ATL W 33 10 4 6 66.7 0 1 0.0 2 2 100.0 2 7 9 0 0 2 2 4 12
+p324
+aVBeno Udrih MIA 01/31/2016 MIA vs. ATL W 25 6 3 7 42.9 0 3 0.0 0 0 - 1 0 1 2 1 0 4 3 1
+p325
+aVJosh Richardson MIA 01/31/2016 MIA vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p326
+aVUdonis Haslem MIA 01/31/2016 MIA vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p327
+aVDwyane Wade MIA 01/31/2016 MIA vs. ATL W 29 17 5 12 41.7 0 0 - 7 8 87.5 0 4 4 8 2 1 3 1 12
+p328
+aVJosh McRoberts MIA 01/31/2016 MIA vs. ATL W 18 6 1 3 33.3 0 1 0.0 4 4 100.0 0 2 2 1 0 0 2 2 0
+p329
+aVLuol Deng MIA 01/31/2016 MIA vs. ATL W 32 17 7 14 50.0 2 5 40.0 1 2 50.0 2 2 4 3 2 0 1 1 11
+p330
+aVGerald Green MIA 01/31/2016 MIA vs. ATL W 21 7 3 6 50.0 1 3 33.3 0 0 - 0 4 4 1 1 0 2 2 -1
+p331
+aVJarnell Stokes MIA 01/31/2016 MIA vs. ATL W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p332
+aVChris Bosh MIA 01/31/2016 MIA vs. ATL W 33 18 6 14 42.9 2 4 50.0 4 4 100.0 0 7 7 2 0 0 1 4 16
+p333
+aVGoran Dragic MIA 01/31/2016 MIA vs. ATL W 23 9 4 10 40.0 0 3 0.0 1 2 50.0 0 2 2 4 1 0 1 5 17
+p334
+aVAmar'e Stoudemire MIA 01/31/2016 MIA vs. ATL W 21 13 5 8 62.5 0 0 - 3 4 75.0 5 7 12 0 3 1 2 1 16
+p335
+aVJosh McRoberts MIA 01/29/2016 MIA @ MIL W 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 1 2 3 8
+p336
+aVJustise Winslow MIA 01/29/2016 MIA @ MIL W 33 6 2 5 40.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 1 3 5
+p337
+aVBeno Udrih MIA 01/29/2016 MIA @ MIL W 16 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 2 0 3 0 4
+p338
+aVLuol Deng MIA 01/29/2016 MIA @ MIL W 33 16 5 11 45.5 2 4 50.0 4 4 100.0 2 5 7 0 1 1 1 5 1
+p339
+aVAmar'e Stoudemire MIA 01/29/2016 MIA @ MIL W 24 12 6 9 66.7 0 0 - 0 0 - 2 6 8 0 0 2 0 3 -2
+p340
+aVGerald Green MIA 01/29/2016 MIA @ MIL W 20 10 4 10 40.0 1 4 25.0 1 2 50.0 1 1 2 1 3 1 0 1 1
+p341
+aVChris Bosh MIA 01/29/2016 MIA @ MIL W 35 20 5 11 45.5 2 5 40.0 8 9 88.9 1 5 6 5 1 1 2 2 2
+p342
+aVGoran Dragic MIA 01/29/2016 MIA @ MIL W 32 12 5 8 62.5 1 2 50.0 1 2 50.0 0 1 1 8 1 0 4 4 0
+p343
+aVDwyane Wade MIA 01/29/2016 MIA @ MIL W 32 24 7 13 53.8 0 0 - 10 13 76.9 1 3 4 7 3 3 4 2 1
+p344
+aVUdonis Haslem MIA 01/26/2016 MIA @ BKN W 22 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 0 1 3 -9
+p345
+aVJustise Winslow MIA 01/26/2016 MIA @ BKN W 37 13 6 7 85.7 1 1 100.0 0 0 - 1 6 7 2 2 0 1 4 4
+p346
+aVAmar'e Stoudemire MIA 01/26/2016 MIA @ BKN W 22 4 2 7 28.6 0 0 - 0 0 - 1 6 7 1 2 0 1 1 10
+p347
+aVLuol Deng MIA 01/26/2016 MIA @ BKN W 31 10 4 10 40.0 0 2 0.0 2 2 100.0 1 1 2 4 2 1 1 1 3
+p348
+aVGerald Green MIA 01/26/2016 MIA @ BKN W 16 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 2 -2
+p349
+aVDwyane Wade MIA 01/26/2016 MIA @ BKN W 32 27 11 22 50.0 0 0 - 5 5 100.0 1 3 4 8 3 2 3 1 6
+p350
+aVBeno Udrih MIA 01/26/2016 MIA @ BKN W 30 9 4 6 66.7 1 1 100.0 0 0 - 0 5 5 4 1 0 0 1 5
+p351
+aVTyler Johnson MIA 01/26/2016 MIA @ BKN W 18 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 1 0 4 -1
+p352
+aVChris Bosh MIA 01/26/2016 MIA @ BKN W 32 27 12 18 66.7 1 4 25.0 2 3 66.7 0 5 5 4 0 0 4 3 4
+p353
+aVBeno Udrih MIA 01/25/2016 MIA @ CHI W 21 3 1 6 16.7 1 2 50.0 0 0 - 0 2 2 1 2 0 3 2 -16
+p354
+aVGerald Green MIA 01/25/2016 MIA @ CHI W 25 9 4 12 33.3 0 4 0.0 1 1 100.0 0 3 3 2 0 0 1 1 3
+p355
+aVJustise Winslow MIA 01/25/2016 MIA @ CHI W 35 8 3 4 75.0 0 1 0.0 2 2 100.0 1 8 9 4 2 0 1 4 17
+p356
+aVTyler Johnson MIA 01/25/2016 MIA @ CHI W 27 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 3 0 0 3 1 21
+p357
+aVAmar'e Stoudemire MIA 01/25/2016 MIA @ CHI W 26 8 3 7 42.9 0 0 - 2 2 100.0 2 8 10 2 1 1 1 1 -2
+p358
+aVUdonis Haslem MIA 01/25/2016 MIA @ CHI W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p359
+aVDwyane Wade MIA 01/25/2016 MIA @ CHI W 34 28 11 21 52.4 0 0 - 6 8 75.0 1 6 7 5 0 1 1 2 14
+p360
+aVLuol Deng MIA 01/25/2016 MIA @ CHI W 31 9 4 10 40.0 1 2 50.0 0 0 - 1 3 4 0 1 1 1 1 -6
+p361
+aVChris Bosh MIA 01/25/2016 MIA @ CHI W 36 18 8 16 50.0 1 4 25.0 1 4 25.0 1 6 7 3 1 0 0 3 -5
+p362
+aVAmar'e Stoudemire MIA 01/22/2016 MIA @ TOR L 18 8 4 5 80.0 0 0 - 0 0 - 2 3 5 0 0 0 2 2 -11
+p363
+aVJustise Winslow MIA 01/22/2016 MIA @ TOR L 41 9 3 8 37.5 3 5 60.0 0 0 - 1 7 8 2 0 0 1 3 -18
+p364
+aVTyler Johnson MIA 01/22/2016 MIA @ TOR L 33 4 2 7 28.6 0 1 0.0 0 0 - 2 2 4 2 1 1 1 2 -20
+p365
+aVJosh Richardson MIA 01/22/2016 MIA @ TOR L 33 6 3 9 33.3 0 3 0.0 0 0 - 1 1 2 4 2 1 1 5 -6
+p366
+aVGerald Green MIA 01/22/2016 MIA @ TOR L 22 0 0 7 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 2 3 -5
+p367
+aVDwyane Wade MIA 01/22/2016 MIA @ TOR L 37 22 10 20 50.0 0 0 - 2 6 33.3 1 2 3 4 1 0 4 1 -17
+p368
+aVJarnell Stokes MIA 01/22/2016 MIA @ TOR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p369
+aVChris Bosh MIA 01/22/2016 MIA @ TOR L 39 26 9 19 47.4 1 5 20.0 7 9 77.8 2 5 7 1 0 0 1 0 -20
+p370
+aVUdonis Haslem MIA 01/22/2016 MIA @ TOR L 16 6 2 6 33.3 0 0 - 2 2 100.0 4 5 9 0 0 0 0 0 -1
+p371
+aVLuol Deng MIA 01/20/2016 MIA @ WAS L 36 16 5 11 45.5 3 3 100.0 3 4 75.0 2 6 8 1 0 1 3 1 -26
+p372
+aVJosh Richardson MIA 01/20/2016 MIA @ WAS L 35 6 2 7 28.6 0 3 0.0 2 2 100.0 0 3 3 4 1 2 4 3 -15
+p373
+aVGerald Green MIA 01/20/2016 MIA @ WAS L 27 4 2 10 20.0 0 2 0.0 0 0 - 0 1 1 2 0 0 1 1 -13
+p374
+aVJustise Winslow MIA 01/20/2016 MIA @ WAS L 36 9 4 8 50.0 1 1 100.0 0 0 - 2 4 6 6 0 0 1 2 -13
+p375
+aVHassan Whiteside MIA 01/20/2016 MIA @ WAS L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 1 2 0 -10
+p376
+aVTyler Johnson MIA 01/20/2016 MIA @ WAS L 35 14 6 10 60.0 2 2 100.0 0 0 - 0 2 2 5 0 0 3 2 -10
+p377
+aVChris Bosh MIA 01/20/2016 MIA @ WAS L 28 18 6 10 60.0 1 4 25.0 5 6 83.3 1 3 4 2 1 0 2 5 -7
+p378
+aVAmar'e Stoudemire MIA 01/20/2016 MIA @ WAS L 21 11 5 6 83.3 0 0 - 1 2 50.0 1 2 3 0 0 0 4 2 6
+p379
+aVJarnell Stokes MIA 01/20/2016 MIA @ WAS L 5 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p380
+aVUdonis Haslem MIA 01/20/2016 MIA @ WAS L 6 3 0 1 0.0 0 0 - 3 4 75.0 1 1 2 2 0 0 0 0 -7
+p381
+aVChris Bosh MIA 01/19/2016 MIA vs. MIL L 34 23 7 15 46.7 2 2 100.0 7 7 100.0 2 3 5 2 1 0 3 3 -8
+p382
+aVAmar'e Stoudemire MIA 01/19/2016 MIA vs. MIL L 6 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p383
+aVJosh Richardson MIA 01/19/2016 MIA vs. MIL L 30 3 1 8 12.5 0 5 0.0 1 2 50.0 1 1 2 1 3 0 0 3 7
+p384
+aVJustise Winslow MIA 01/19/2016 MIA vs. MIL L 26 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 1 0 0 0 0 -1
+p385
+aVDwyane Wade MIA 01/19/2016 MIA vs. MIL L 21 2 1 6 16.7 0 1 0.0 0 0 - 1 1 2 4 0 0 5 1 -21
+p386
+aVTyler Johnson MIA 01/19/2016 MIA vs. MIL L 34 3 0 6 0.0 0 4 0.0 3 4 75.0 0 4 4 1 2 0 3 3 -12
+p387
+aVGerald Green MIA 01/19/2016 MIA vs. MIL L 19 6 2 10 20.0 2 5 40.0 0 0 - 0 0 0 1 0 0 1 0 1
+p388
+aVLuol Deng MIA 01/19/2016 MIA vs. MIL L 34 11 4 10 40.0 1 2 50.0 2 2 100.0 1 3 4 2 0 0 1 1 -18
+p389
+aVHassan Whiteside MIA 01/19/2016 MIA vs. MIL L 35 23 8 9 88.9 0 0 - 7 11 63.6 7 11 18 1 0 2 1 1 -10
+p390
+aVDwyane Wade MIA 01/17/2016 MIA @ OKC L 29 22 9 15 60.0 0 1 0.0 4 4 100.0 0 2 2 3 0 0 4 1 -22
+p391
+aVJustise Winslow MIA 01/17/2016 MIA @ OKC L 27 0 0 4 0.0 0 1 0.0 0 0 - 1 4 5 1 0 1 1 1 -13
+p392
+aVHassan Whiteside MIA 01/17/2016 MIA @ OKC L 33 14 7 9 77.8 0 0 - 0 0 - 3 8 11 0 1 4 3 1 -10
+p393
+aVGerald Green MIA 01/17/2016 MIA @ OKC L 12 3 1 7 14.3 1 3 33.3 0 0 - 1 0 1 0 0 0 1 1 -1
+p394
+aVUdonis Haslem MIA 01/17/2016 MIA @ OKC L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p395
+aVLuol Deng MIA 01/17/2016 MIA @ OKC L 31 2 0 5 0.0 0 3 0.0 2 2 100.0 0 3 3 1 2 1 2 1 -20
+p396
+aVJosh Richardson MIA 01/17/2016 MIA @ OKC L 20 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -14
+p397
+aVAmar'e Stoudemire MIA 01/17/2016 MIA @ OKC L 14 2 0 0 - 0 0 - 2 2 100.0 0 2 2 1 1 1 2 2 -13
+p398
+aVTyler Johnson MIA 01/17/2016 MIA @ OKC L 39 16 7 12 58.3 2 3 66.7 0 0 - 2 4 6 4 0 0 4 3 -13
+p399
+aVChris Bosh MIA 01/17/2016 MIA @ OKC L 33 12 5 16 31.3 0 2 0.0 2 3 66.7 0 4 4 2 2 2 1 2 -16
+p400
+aVHassan Whiteside MIA 01/15/2016 MIA @ DEN W 38 19 8 13 61.5 0 0 - 3 5 60.0 6 11 17 2 1 11 4 2 12
+p401
+aVJustise Winslow MIA 01/15/2016 MIA @ DEN W 23 8 3 5 60.0 2 2 100.0 0 0 - 0 4 4 1 1 1 3 3 0
+p402
+aVAmar'e Stoudemire MIA 01/15/2016 MIA @ DEN W 6 5 2 4 50.0 0 0 - 1 1 100.0 2 0 2 1 0 0 0 1 -11
+p403
+aVJosh Richardson MIA 01/15/2016 MIA @ DEN W 10 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -11
+p404
+aVGerald Green MIA 01/15/2016 MIA @ DEN W 24 2 1 5 20.0 0 2 0.0 0 1 0.0 0 3 3 2 0 0 1 3 2
+p405
+aVBeno Udrih MIA 01/15/2016 MIA @ DEN W 37 11 5 10 50.0 1 2 50.0 0 0 - 0 3 3 11 1 0 0 2 13
+p406
+aVChris Bosh MIA 01/15/2016 MIA @ DEN W 32 24 9 13 69.2 1 2 50.0 5 6 83.3 0 3 3 3 0 1 3 4 -6
+p407
+aVTyler Johnson MIA 01/15/2016 MIA @ DEN W 31 15 6 15 40.0 0 2 0.0 3 4 75.0 1 3 4 4 1 0 1 1 4
+p408
+aVLuol Deng MIA 01/15/2016 MIA @ DEN W 39 12 5 12 41.7 0 1 0.0 2 2 100.0 0 5 5 2 1 0 1 2 12
+p409
+aVTyler Johnson MIA 01/13/2016 MIA @ LAC L 29 8 2 7 28.6 1 2 50.0 3 3 100.0 0 4 4 4 2 1 4 4 6
+p410
+aVJustise Winslow MIA 01/13/2016 MIA @ LAC L 19 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 1 0 0 1 0 -3
+p411
+aVDwyane Wade MIA 01/13/2016 MIA @ LAC L 30 16 6 10 60.0 0 0 - 4 9 44.4 2 6 8 4 0 0 7 1 -9
+p412
+aVGerald Green MIA 01/13/2016 MIA @ LAC L 33 19 7 14 50.0 4 8 50.0 1 2 50.0 0 2 2 1 1 0 1 2 -5
+p413
+aVUdonis Haslem MIA 01/13/2016 MIA @ LAC L 3 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p414
+aVChris Andersen MIA 01/13/2016 MIA @ LAC L 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 1 0 0 3
+p415
+aVLuol Deng MIA 01/13/2016 MIA @ LAC L 32 7 3 7 42.9 1 3 33.3 0 0 - 3 4 7 2 1 1 1 2 -13
+p416
+aVHassan Whiteside MIA 01/13/2016 MIA @ LAC L 27 10 3 5 60.0 0 0 - 4 6 66.7 0 11 11 1 1 3 5 4 -3
+p417
+aVBeno Udrih MIA 01/13/2016 MIA @ LAC L 28 8 3 7 42.9 2 3 66.7 0 0 - 0 0 0 3 0 0 2 2 -27
+p418
+aVJosh Richardson MIA 01/13/2016 MIA @ LAC L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 2 0 1 1 0 2
+p419
+aVChris Bosh MIA 01/13/2016 MIA @ LAC L 33 11 3 11 27.3 0 4 0.0 5 7 71.4 0 12 12 7 0 0 1 1 -24
+p420
+aVJosh Richardson MIA 01/11/2016 MIA @ GSW L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -6
+p421
+aVDwyane Wade MIA 01/11/2016 MIA @ GSW L 33 20 6 20 30.0 0 0 - 8 8 100.0 4 3 7 11 0 1 0 2 2
+p422
+aVGoran Dragic MIA 01/11/2016 MIA @ GSW L 36 13 5 10 50.0 2 4 50.0 1 2 50.0 0 5 5 5 0 0 3 2 -12
+p423
+aVJustise Winslow MIA 01/11/2016 MIA @ GSW L 26 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 1 1 1 0 3 -7
+p424
+aVUdonis Haslem MIA 01/11/2016 MIA @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -4
+p425
+aVLuol Deng MIA 01/11/2016 MIA @ GSW L 33 14 6 12 50.0 2 3 66.7 0 0 - 2 8 10 2 0 0 2 1 -3
+p426
+aVAmar'e Stoudemire MIA 01/11/2016 MIA @ GSW L 5 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p427
+aVTyler Johnson MIA 01/11/2016 MIA @ GSW L 28 13 6 7 85.7 0 0 - 1 1 100.0 0 3 3 5 0 0 1 3 4
+p428
+aVChris Bosh MIA 01/11/2016 MIA @ GSW L 36 15 6 15 40.0 0 5 0.0 3 4 75.0 2 10 12 4 0 2 4 1 0
+p429
+aVGerald Green MIA 01/11/2016 MIA @ GSW L 34 15 6 13 46.2 2 3 66.7 1 1 100.0 0 2 2 2 1 0 0 5 -10
+p430
+aVHassan Whiteside MIA 01/09/2016 MIA @ UTA L 31 10 4 8 50.0 0 0 - 2 6 33.3 5 6 11 0 1 4 1 3 -5
+p431
+aVChris Bosh MIA 01/09/2016 MIA @ UTA L 35 24 11 16 68.8 2 6 33.3 0 1 0.0 2 5 7 2 1 0 1 2 -15
+p432
+aVGoran Dragic MIA 01/09/2016 MIA @ UTA L 28 16 6 11 54.5 2 3 66.7 2 2 100.0 0 1 1 0 1 1 4 4 -6
+p433
+aVBeno Udrih MIA 01/09/2016 MIA @ UTA L 20 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 4 1 0 2 1 -9
+p434
+aVLuol Deng MIA 01/09/2016 MIA @ UTA L 33 5 2 6 33.3 0 1 0.0 1 1 100.0 2 1 3 3 0 1 1 1 -6
+p435
+aVDwyane Wade MIA 01/09/2016 MIA @ UTA L 33 8 3 17 17.6 0 0 - 2 5 40.0 3 2 5 4 1 0 4 0 -14
+p436
+aVAmar'e Stoudemire MIA 01/09/2016 MIA @ UTA L 6 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -4
+p437
+aVJustise Winslow MIA 01/09/2016 MIA @ UTA L 20 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 2 0 -3
+p438
+aVGerald Green MIA 01/09/2016 MIA @ UTA L 34 13 6 13 46.2 1 6 16.7 0 0 - 2 4 6 1 2 1 2 5 -13
+p439
+aVDwyane Wade MIA 01/08/2016 MIA @ PHX W 33 27 9 14 64.3 0 0 - 9 10 90.0 1 1 2 2 1 2 5 1 5
+p440
+aVGerald Green MIA 01/08/2016 MIA @ PHX W 34 21 7 11 63.6 2 5 40.0 5 7 71.4 0 4 4 3 1 0 0 1 21
+p441
+aVJustise Winslow MIA 01/08/2016 MIA @ PHX W 23 4 2 4 50.0 0 1 0.0 0 0 - 2 8 10 0 1 0 0 1 -2
+p442
+aVLuol Deng MIA 01/08/2016 MIA @ PHX W 29 10 3 6 50.0 0 1 0.0 4 4 100.0 0 6 6 4 2 0 0 1 -1
+p443
+aVAmar'e Stoudemire MIA 01/08/2016 MIA @ PHX W 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 3 1 0 1
+p444
+aVTyler Johnson MIA 01/08/2016 MIA @ PHX W 18 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 3 0 1 1 1 2
+p445
+aVHassan Whiteside MIA 01/08/2016 MIA @ PHX W 19 5 2 8 25.0 0 0 - 1 2 50.0 2 7 9 0 0 0 1 2 -9
+p446
+aVChris Bosh MIA 01/08/2016 MIA @ PHX W 36 14 5 11 45.5 2 4 50.0 2 3 66.7 0 3 3 3 2 0 0 2 10
+p447
+aVGoran Dragic MIA 01/08/2016 MIA @ PHX W 36 22 8 15 53.3 3 5 60.0 3 4 75.0 1 1 2 7 2 0 2 4 13
+p448
+aVLuol Deng MIA 01/06/2016 MIA vs. NYK L 32 9 3 9 33.3 0 3 0.0 3 3 100.0 2 2 4 0 0 0 0 4 -7
+p449
+aVGerald Green MIA 01/06/2016 MIA vs. NYK L 26 7 2 8 25.0 1 5 20.0 2 2 100.0 1 2 3 0 1 1 0 4 7
+p450
+aVHassan Whiteside MIA 01/06/2016 MIA vs. NYK L 28 8 3 6 50.0 0 0 - 2 2 100.0 4 4 8 1 0 1 4 1 -18
+p451
+aVTyler Johnson MIA 01/06/2016 MIA vs. NYK L 21 8 4 6 66.7 0 2 0.0 0 0 - 0 3 3 3 1 0 0 1 -3
+p452
+aVDwyane Wade MIA 01/06/2016 MIA vs. NYK L 31 18 8 16 50.0 0 0 - 2 2 100.0 3 3 6 6 0 0 4 2 -5
+p453
+aVChris Bosh MIA 01/06/2016 MIA vs. NYK L 34 28 12 22 54.5 1 4 25.0 3 4 75.0 0 5 5 2 0 1 1 1 0
+p454
+aVBeno Udrih MIA 01/06/2016 MIA vs. NYK L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 0 3
+p455
+aVJustise Winslow MIA 01/06/2016 MIA vs. NYK L 21 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 2 -2
+p456
+aVGoran Dragic MIA 01/06/2016 MIA vs. NYK L 34 10 4 9 44.4 0 1 0.0 2 2 100.0 1 1 2 1 0 0 2 1 -15
+p457
+aVGoran Dragic MIA 01/04/2016 MIA vs. IND W 39 13 6 12 50.0 1 2 50.0 0 0 - 2 3 5 4 0 0 5 5 -5
+p458
+aVTyler Johnson MIA 01/04/2016 MIA vs. IND W 36 8 4 10 40.0 0 3 0.0 0 1 0.0 3 5 8 2 1 0 0 3 23
+p459
+aVAmar'e Stoudemire MIA 01/04/2016 MIA vs. IND W 15 2 1 3 33.3 0 0 - 0 2 0.0 2 3 5 0 1 1 1 0 3
+p460
+aVDwyane Wade MIA 01/04/2016 MIA vs. IND W 38 27 9 22 40.9 0 0 - 9 10 90.0 3 5 8 3 0 1 0 3 0
+p461
+aVBeno Udrih MIA 01/04/2016 MIA vs. IND W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -1
+p462
+aVJustise Winslow MIA 01/04/2016 MIA vs. IND W 36 7 2 6 33.3 0 2 0.0 3 4 75.0 2 4 6 0 0 1 1 3 15
+p463
+aVChris Bosh MIA 01/04/2016 MIA vs. IND W 42 31 8 20 40.0 2 6 33.3 13 16 81.3 2 9 11 1 1 1 0 5 2
+p464
+aVChris Andersen MIA 01/04/2016 MIA vs. IND W 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 1 0 3 -24
+p465
+aVLuol Deng MIA 01/04/2016 MIA vs. IND W 27 8 1 5 20.0 1 4 25.0 5 6 83.3 0 3 3 0 0 0 0 0 -11
+p466
+aVGerald Green MIA 01/04/2016 MIA vs. IND W 16 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 1 1 0 0 13
+p467
+aVBeno Udrih MIA 01/03/2016 MIA @ WAS W 17 4 2 4 50.0 0 0 - 0 0 - 0 3 3 7 0 0 0 3 3
+p468
+aVJustise Winslow MIA 01/03/2016 MIA @ WAS W 18 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 2 2 1 3 2 15
+p469
+aVGerald Green MIA 01/03/2016 MIA @ WAS W 28 15 6 12 50.0 2 4 50.0 1 1 100.0 2 2 4 2 1 0 1 2 19
+p470
+aVHassan Whiteside MIA 01/03/2016 MIA @ WAS W 30 6 3 9 33.3 0 0 - 0 2 0.0 3 10 13 1 1 6 0 1 17
+p471
+aVLuol Deng MIA 01/03/2016 MIA @ WAS W 27 9 4 5 80.0 1 1 100.0 0 0 - 1 8 9 2 0 0 1 1 12
+p472
+aVDwyane Wade MIA 01/03/2016 MIA @ WAS W 25 8 3 10 30.0 0 0 - 2 2 100.0 1 3 4 3 1 0 1 0 20
+p473
+aVGoran Dragic MIA 01/03/2016 MIA @ WAS W 31 18 8 14 57.1 2 4 50.0 0 0 - 0 2 2 5 1 0 2 1 19
+p474
+aVJosh Richardson MIA 01/03/2016 MIA @ WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -5
+p475
+aVUdonis Haslem MIA 01/03/2016 MIA @ WAS W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -6
+p476
+aVChris Bosh MIA 01/03/2016 MIA @ WAS W 28 23 8 15 53.3 2 5 40.0 5 5 100.0 1 6 7 2 1 1 1 0 19
+p477
+aVChris Andersen MIA 01/03/2016 MIA @ WAS W 4 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 1 0 0 -5
+p478
+aVTyler Johnson MIA 01/03/2016 MIA @ WAS W 23 10 4 8 50.0 2 5 40.0 0 0 - 1 6 7 2 1 1 1 2 2
+p479
+aVBeno Udrih MIA 01/01/2016 MIA vs. DAL W 21 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 1 2
+p480
+aVLuol Deng MIA 01/01/2016 MIA vs. DAL W 30 9 3 7 42.9 1 3 33.3 2 2 100.0 0 4 4 1 0 0 0 2 13
+p481
+aVDwyane Wade MIA 01/01/2016 MIA vs. DAL W 19 10 5 6 83.3 0 0 - 0 0 - 0 2 2 7 1 0 2 1 5
+p482
+aVHassan Whiteside MIA 01/01/2016 MIA vs. DAL W 32 25 12 16 75.0 0 0 - 1 2 50.0 4 15 19 0 0 1 4 4 23
+p483
+aVUdonis Haslem MIA 01/01/2016 MIA vs. DAL W 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p484
+aVAmar'e Stoudemire MIA 01/01/2016 MIA vs. DAL W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 2
+p485
+aVGerald Green MIA 01/01/2016 MIA vs. DAL W 33 19 8 13 61.5 2 4 50.0 1 1 100.0 0 3 3 2 0 0 0 3 17
+p486
+aVTyler Johnson MIA 01/01/2016 MIA vs. DAL W 25 8 3 7 42.9 1 2 50.0 1 2 50.0 1 2 3 0 0 0 2 1 14
+p487
+aVChris Bosh MIA 01/01/2016 MIA vs. DAL W 34 16 6 16 37.5 3 6 50.0 1 2 50.0 1 6 7 4 0 0 1 1 15
+p488
+aVChris Andersen MIA 01/01/2016 MIA vs. DAL W 3 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 1
+p489
+aVGoran Dragic MIA 01/01/2016 MIA vs. DAL W 31 15 7 12 58.3 1 2 50.0 0 0 - 0 4 4 7 3 0 1 2 27
+p490
+aVTyler Johnson MIA 12/29/2015 MIA @ MEM L 31 13 4 8 50.0 3 6 50.0 2 2 100.0 1 3 4 3 0 0 0 2 -8
+p491
+aVGerald Green MIA 12/29/2015 MIA @ MEM L 20 3 1 7 14.3 1 6 16.7 0 0 - 0 4 4 0 1 0 1 2 -7
+p492
+aVLuol Deng MIA 12/29/2015 MIA @ MEM L 34 6 2 8 25.0 2 7 28.6 0 0 - 0 2 2 4 0 0 1 2 -5
+p493
+aVDwyane Wade MIA 12/29/2015 MIA @ MEM L 37 19 9 18 50.0 0 0 - 1 5 20.0 3 2 5 5 3 0 2 1 -8
+p494
+aVChris Bosh MIA 12/29/2015 MIA @ MEM L 41 22 9 21 42.9 4 7 57.1 0 1 0.0 0 5 5 1 0 0 1 3 -2
+p495
+aVAmar'e Stoudemire MIA 12/29/2015 MIA @ MEM L 13 6 1 2 50.0 0 0 - 4 6 66.7 2 1 3 2 0 1 1 2 -1
+p496
+aVGoran Dragic MIA 12/29/2015 MIA @ MEM L 41 16 7 10 70.0 1 3 33.3 1 2 50.0 0 3 3 5 1 0 4 2 -11
+p497
+aVBeno Udrih MIA 12/29/2015 MIA @ MEM L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 2
+p498
+aVHassan Whiteside MIA 12/29/2015 MIA @ MEM L 37 5 2 4 50.0 0 0 - 1 2 50.0 2 9 11 1 0 5 3 6 -5
+p499
+aVGerald Green MIA 12/28/2015 MIA vs. BKN L 33 7 2 11 18.2 1 7 14.3 2 2 100.0 0 3 3 2 1 0 1 1 -4
+p500
+aVTyler Johnson MIA 12/28/2015 MIA vs. BKN L 18 2 1 6 16.7 0 1 0.0 0 0 - 1 3 4 1 1 1 0 3 -7
+p501
+aVGoran Dragic MIA 12/28/2015 MIA vs. BKN L 34 9 4 10 40.0 1 2 50.0 0 0 - 0 3 3 5 2 0 3 3 -3
+p502
+aVLuol Deng MIA 12/28/2015 MIA vs. BKN L 29 15 6 13 46.2 3 7 42.9 0 0 - 0 4 4 0 1 2 1 4 -8
+p503
+aVHassan Whiteside MIA 12/28/2015 MIA vs. BKN L 33 18 7 10 70.0 0 0 - 4 6 66.7 6 5 11 0 1 5 3 4 -1
+p504
+aVDwyane Wade MIA 12/28/2015 MIA vs. BKN L 30 24 7 11 63.6 0 1 0.0 10 12 83.3 0 2 2 6 1 0 3 4 0
+p505
+aVAmar'e Stoudemire MIA 12/28/2015 MIA vs. BKN L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 1 1 0 1 2 -5
+p506
+aVChris Bosh MIA 12/28/2015 MIA vs. BKN L 34 24 7 8 87.5 5 5 100.0 5 8 62.5 4 8 12 3 1 0 2 2 1
+p507
+aVBeno Udrih MIA 12/28/2015 MIA vs. BKN L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -3
+p508
+aVChris Bosh MIA 12/26/2015 MIA @ ORL W 35 24 10 16 62.5 2 3 66.7 2 2 100.0 0 10 10 3 2 0 1 2 7
+p509
+aVBeno Udrih MIA 12/26/2015 MIA @ ORL W 13 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 4 0 0 0 0 8
+p510
+aVJustise Winslow MIA 12/26/2015 MIA @ ORL W 21 4 0 2 0.0 0 1 0.0 4 4 100.0 1 2 3 4 0 0 1 0 -2
+p511
+aVGoran Dragic MIA 12/26/2015 MIA @ ORL W 35 22 9 16 56.3 3 6 50.0 1 2 50.0 3 3 6 4 1 0 3 3 -1
+p512
+aVAmar'e Stoudemire MIA 12/26/2015 MIA @ ORL W 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -1
+p513
+aVLuol Deng MIA 12/26/2015 MIA @ ORL W 30 7 3 10 30.0 1 4 25.0 0 0 - 2 5 7 0 0 0 2 1 -5
+p514
+aVGerald Green MIA 12/26/2015 MIA @ ORL W 30 15 5 10 50.0 3 5 60.0 2 2 100.0 0 1 1 0 0 0 0 0 7
+p515
+aVDwyane Wade MIA 12/26/2015 MIA @ ORL W 30 24 7 12 58.3 0 0 - 10 10 100.0 1 1 2 6 2 1 1 1 7
+p516
+aVHassan Whiteside MIA 12/26/2015 MIA @ ORL W 37 7 2 5 40.0 0 0 - 3 3 100.0 1 5 6 0 0 3 0 3 15
+p517
+aVGoran Dragic MIA 12/25/2015 MIA vs. NOP W 40 7 3 8 37.5 0 2 0.0 1 2 50.0 1 2 3 6 0 0 2 0 15
+p518
+aVHassan Whiteside MIA 12/25/2015 MIA vs. NOP W 25 8 3 7 42.9 0 0 - 2 4 50.0 6 11 17 0 0 4 3 4 1
+p519
+aVChris Bosh MIA 12/25/2015 MIA vs. NOP W 42 30 11 25 44.0 2 8 25.0 6 7 85.7 2 8 10 4 1 0 1 2 13
+p520
+aVGerald Green MIA 12/25/2015 MIA vs. NOP W 26 6 3 10 30.0 0 6 0.0 0 0 - 0 6 6 0 4 0 4 3 13
+p521
+aVJustise Winslow MIA 12/25/2015 MIA vs. NOP W 30 9 3 6 50.0 1 3 33.3 2 3 66.7 1 5 6 0 1 1 1 3 -8
+p522
+aVLuol Deng MIA 12/25/2015 MIA vs. NOP W 44 9 3 8 37.5 3 5 60.0 0 0 - 0 5 5 1 2 0 1 1 8
+p523
+aVDwyane Wade MIA 12/25/2015 MIA vs. NOP W 37 19 7 20 35.0 0 2 0.0 5 9 55.6 1 5 6 4 1 0 3 2 -3
+p524
+aVBeno Udrih MIA 12/25/2015 MIA vs. NOP W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 4 1 0 2 0 -7
+p525
+aVUdonis Haslem MIA 12/25/2015 MIA vs. NOP W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p526
+aVJosh Richardson MIA 12/22/2015 MIA vs. DET L 14 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 2 0 0 0 1 -13
+p527
+aVJustise Winslow MIA 12/22/2015 MIA vs. DET L 25 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 3 0 1 1 1
+p528
+aVHassan Whiteside MIA 12/22/2015 MIA vs. DET L 35 16 7 13 53.8 0 0 - 2 2 100.0 6 10 16 0 0 4 2 2 0
+p529
+aVUdonis Haslem MIA 12/22/2015 MIA vs. DET L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -12
+p530
+aVDwyane Wade MIA 12/22/2015 MIA vs. DET L 29 19 8 21 38.1 0 0 - 3 4 75.0 2 3 5 1 1 0 0 0 -3
+p531
+aVLuol Deng MIA 12/22/2015 MIA vs. DET L 33 9 3 8 37.5 0 3 0.0 3 4 75.0 0 4 4 1 5 0 1 1 9
+p532
+aVBeno Udrih MIA 12/22/2015 MIA vs. DET L 34 14 7 11 63.6 0 3 0.0 0 0 - 1 2 3 6 0 0 0 4 12
+p533
+aVGerald Green MIA 12/22/2015 MIA vs. DET L 29 8 3 6 50.0 2 3 66.7 0 0 - 1 3 4 1 0 3 0 0 -7
+p534
+aVChris Bosh MIA 12/22/2015 MIA vs. DET L 34 20 9 21 42.9 2 7 28.6 0 0 - 0 3 3 2 0 0 1 3 8
+p535
+aVLuol Deng MIA 12/20/2015 MIA vs. POR W 33 17 5 7 71.4 5 6 83.3 2 2 100.0 0 2 2 1 0 0 1 3 2
+p536
+aVJustise Winslow MIA 12/20/2015 MIA vs. POR W 25 3 1 3 33.3 0 2 0.0 1 1 100.0 0 3 3 1 3 1 0 0 -3
+p537
+aVHassan Whiteside MIA 12/20/2015 MIA vs. POR W 38 22 10 13 76.9 0 0 - 2 4 50.0 3 8 11 1 2 5 2 3 11
+p538
+aVBeno Udrih MIA 12/20/2015 MIA vs. POR W 20 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 0 11
+p539
+aVChris Bosh MIA 12/20/2015 MIA vs. POR W 31 29 11 19 57.9 3 7 42.9 4 5 80.0 0 6 6 4 2 0 5 2 11
+p540
+aVGoran Dragic MIA 12/20/2015 MIA vs. POR W 27 8 4 10 40.0 0 1 0.0 0 0 - 1 1 2 8 2 1 0 2 -1
+p541
+aVGerald Green MIA 12/20/2015 MIA vs. POR W 32 17 6 9 66.7 4 6 66.7 1 3 33.3 0 1 1 1 0 0 0 1 7
+p542
+aVDwyane Wade MIA 12/20/2015 MIA vs. POR W 27 18 6 11 54.5 0 0 - 6 9 66.7 1 1 2 7 2 0 2 3 0
+p543
+aVUdonis Haslem MIA 12/20/2015 MIA vs. POR W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -3
+p544
+aVDwyane Wade MIA 12/18/2015 MIA vs. TOR L 31 21 8 16 50.0 0 2 0.0 5 5 100.0 2 4 6 5 0 0 8 0 -6
+p545
+aVChris Bosh MIA 12/18/2015 MIA vs. TOR L 29 11 4 8 50.0 1 2 50.0 2 2 100.0 0 4 4 3 1 0 1 4 -19
+p546
+aVLuol Deng MIA 12/18/2015 MIA vs. TOR L 34 9 2 9 22.2 2 5 40.0 3 4 75.0 1 2 3 2 1 0 0 2 -11
+p547
+aVGoran Dragic MIA 12/18/2015 MIA vs. TOR L 33 18 8 13 61.5 0 2 0.0 2 3 66.7 0 2 2 5 1 0 2 2 -16
+p548
+aVJosh Richardson MIA 12/18/2015 MIA vs. TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -2
+p549
+aVJustise Winslow MIA 12/18/2015 MIA vs. TOR L 18 2 0 2 0.0 0 2 0.0 2 2 100.0 0 2 2 0 0 0 0 3 -6
+p550
+aVBeno Udrih MIA 12/18/2015 MIA vs. TOR L 22 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 2 0 0 1 2 1
+p551
+aVGerald Green MIA 12/18/2015 MIA vs. TOR L 31 20 7 15 46.7 5 10 50.0 1 1 100.0 0 0 0 1 1 0 1 2 -8
+p552
+aVUdonis Haslem MIA 12/18/2015 MIA vs. TOR L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -3
+p553
+aVHassan Whiteside MIA 12/18/2015 MIA vs. TOR L 31 8 4 6 66.7 0 0 - 0 0 - 1 12 13 0 0 5 0 2 0
+p554
+aVJustise Winslow MIA 12/16/2015 MIA @ BKN W 33 11 4 5 80.0 3 3 100.0 0 0 - 1 7 8 0 0 1 0 1 8
+p555
+aVUdonis Haslem MIA 12/16/2015 MIA @ BKN W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 1 1 0 0 2 6
+p556
+aVChris Bosh MIA 12/16/2015 MIA @ BKN W 30 7 1 7 14.3 0 3 0.0 5 6 83.3 0 7 7 2 0 0 1 0 11
+p557
+aVDwyane Wade MIA 12/16/2015 MIA @ BKN W 30 28 13 17 76.5 1 1 100.0 1 2 50.0 1 4 5 2 0 3 3 0 -1
+p558
+aVTyler Johnson MIA 12/16/2015 MIA @ BKN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 3
+p559
+aVLuol Deng MIA 12/16/2015 MIA @ BKN W 36 5 2 6 33.3 0 2 0.0 1 2 50.0 1 5 6 3 1 0 3 0 0
+p560
+aVHassan Whiteside MIA 12/16/2015 MIA @ BKN W 30 20 7 10 70.0 0 0 - 6 8 75.0 5 8 13 0 0 1 2 4 -8
+p561
+aVGoran Dragic MIA 12/16/2015 MIA @ BKN W 36 16 6 15 40.0 1 6 16.7 3 4 75.0 0 3 3 5 2 1 1 4 4
+p562
+aVBeno Udrih MIA 12/16/2015 MIA @ BKN W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p563
+aVGerald Green MIA 12/16/2015 MIA @ BKN W 21 13 5 11 45.5 2 5 40.0 1 2 50.0 0 0 0 2 0 0 1 1 8
+p564
+aVGerald Green MIA 12/14/2015 MIA @ ATL W 31 20 9 14 64.3 1 2 50.0 1 1 100.0 2 1 3 2 1 0 2 2 5
+p565
+aVHassan Whiteside MIA 12/14/2015 MIA @ ATL W 26 8 4 11 36.4 0 0 - 0 2 0.0 5 8 13 0 0 3 2 4 11
+p566
+aVBeno Udrih MIA 12/14/2015 MIA @ ATL W 19 9 3 5 60.0 1 1 100.0 2 2 100.0 1 1 2 1 0 0 2 2 -2
+p567
+aVGoran Dragic MIA 12/14/2015 MIA @ ATL W 35 12 6 14 42.9 0 2 0.0 0 0 - 2 5 7 8 2 2 2 3 18
+p568
+aVChris Bosh MIA 12/14/2015 MIA @ ATL W 36 24 8 14 57.1 4 6 66.7 4 4 100.0 2 8 10 3 0 0 2 1 8
+p569
+aVLuol Deng MIA 12/14/2015 MIA @ ATL W 36 18 7 12 58.3 1 2 50.0 3 3 100.0 1 8 9 4 2 0 1 2 9
+p570
+aVUdonis Haslem MIA 12/14/2015 MIA @ ATL W 15 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 1 0 0 0 1
+p571
+aVJustise Winslow MIA 12/14/2015 MIA @ ATL W 13 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 3 2 4
+p572
+aVDwyane Wade MIA 12/14/2015 MIA @ ATL W 29 7 3 16 18.8 0 1 0.0 1 1 100.0 2 4 6 6 0 0 1 0 6
+p573
+aVGerald Green MIA 12/13/2015 MIA vs. MEM W 33 16 5 9 55.6 2 5 40.0 4 5 80.0 0 1 1 0 1 0 0 0 12
+p574
+aVChris Bosh MIA 12/13/2015 MIA vs. MEM W 35 22 7 10 70.0 2 3 66.7 6 6 100.0 0 4 4 2 1 0 1 0 18
+p575
+aVBeno Udrih MIA 12/13/2015 MIA vs. MEM W 11 6 2 6 33.3 0 1 0.0 2 2 100.0 0 3 3 1 1 0 0 2 3
+p576
+aVJustise Winslow MIA 12/13/2015 MIA vs. MEM W 26 8 2 6 33.3 2 5 40.0 2 2 100.0 0 2 2 3 2 1 1 1 3
+p577
+aVLuol Deng MIA 12/13/2015 MIA vs. MEM W 36 15 6 10 60.0 1 3 33.3 2 2 100.0 1 6 7 1 1 0 0 2 -1
+p578
+aVHassan Whiteside MIA 12/13/2015 MIA vs. MEM W 28 9 4 5 80.0 0 0 - 1 3 33.3 4 7 11 0 2 0 1 3 -18
+p579
+aVGoran Dragic MIA 12/13/2015 MIA vs. MEM W 35 8 3 14 21.4 0 5 0.0 2 3 66.7 1 2 3 8 1 0 5 2 -1
+p580
+aVDwyane Wade MIA 12/13/2015 MIA vs. MEM W 30 14 7 16 43.8 0 0 - 0 0 - 1 3 4 2 0 0 2 3 -7
+p581
+aVUdonis Haslem MIA 12/13/2015 MIA vs. MEM W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 6
+p582
+aVAmar'e Stoudemire MIA 12/11/2015 MIA @ IND L 7 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 -1
+p583
+aVGoran Dragic MIA 12/11/2015 MIA @ IND L 31 5 2 5 40.0 0 1 0.0 1 2 50.0 1 4 5 7 1 0 5 2 -10
+p584
+aVJosh Richardson MIA 12/11/2015 MIA @ IND L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 3 3
+p585
+aVJustise Winslow MIA 12/11/2015 MIA @ IND L 29 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 0 0 1 4 1 -3
+p586
+aVDwyane Wade MIA 12/11/2015 MIA @ IND L 34 20 10 23 43.5 0 0 - 0 0 - 0 5 5 5 0 0 2 0 -12
+p587
+aVBeno Udrih MIA 12/11/2015 MIA @ IND L 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 2 0 -1
+p588
+aVChris Bosh MIA 12/11/2015 MIA @ IND L 36 23 8 19 42.1 1 5 20.0 6 8 75.0 2 8 10 0 1 3 4 2 -3
+p589
+aVLuol Deng MIA 12/11/2015 MIA @ IND L 34 7 3 9 33.3 1 6 16.7 0 0 - 1 2 3 1 1 0 0 2 -23
+p590
+aVGerald Green MIA 12/11/2015 MIA @ IND L 28 13 5 10 50.0 3 5 60.0 0 0 - 0 3 3 0 2 1 0 3 -3
+p591
+aVHassan Whiteside MIA 12/11/2015 MIA @ IND L 17 8 4 4 100.0 0 0 - 0 1 0.0 2 8 10 0 0 2 1 3 -12
+p592
+aVJustise Winslow MIA 12/09/2015 MIA @ CHA L 26 7 3 7 42.9 1 3 33.3 0 2 0.0 2 6 8 1 1 0 0 2 -1
+p593
+aVHassan Whiteside MIA 12/09/2015 MIA @ CHA L 23 6 3 5 60.0 0 0 - 0 0 - 1 7 8 1 0 3 6 2 -12
+p594
+aVDwyane Wade MIA 12/09/2015 MIA @ CHA L 25 11 5 11 45.5 0 0 - 1 2 50.0 1 1 2 4 0 1 1 0 -17
+p595
+aVTyler Johnson MIA 12/09/2015 MIA @ CHA L 29 20 6 12 50.0 1 5 20.0 7 8 87.5 1 1 2 2 1 1 3 2 0
+p596
+aVJosh McRoberts MIA 12/09/2015 MIA @ CHA L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p597
+aVUdonis Haslem MIA 12/09/2015 MIA @ CHA L 16 1 0 3 0.0 0 0 - 1 1 100.0 1 5 6 1 0 1 1 2 5
+p598
+aVJosh Richardson MIA 12/09/2015 MIA @ CHA L 15 5 1 3 33.3 1 3 33.3 2 4 50.0 0 2 2 2 1 0 0 2 7
+p599
+aVGerald Green MIA 12/09/2015 MIA @ CHA L 24 11 4 10 40.0 1 3 33.3 2 2 100.0 1 2 3 0 0 2 1 1 -21
+p600
+aVBeno Udrih MIA 12/09/2015 MIA @ CHA L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 1 10
+p601
+aVLuol Deng MIA 12/09/2015 MIA @ CHA L 24 5 1 6 16.7 1 3 33.3 2 2 100.0 0 6 6 1 0 0 1 0 -10
+p602
+aVGoran Dragic MIA 12/09/2015 MIA @ CHA L 24 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 2 0 0 2 0 -22
+p603
+aVChris Bosh MIA 12/09/2015 MIA @ CHA L 22 7 3 8 37.5 0 0 - 1 1 100.0 0 2 2 2 0 0 0 1 -22
+p604
+aVDwyane Wade MIA 12/07/2015 MIA vs. WAS L 32 26 12 15 80.0 0 0 - 2 2 100.0 0 7 7 9 1 0 5 3 -1
+p605
+aVChris Bosh MIA 12/07/2015 MIA vs. WAS L 36 18 5 11 45.5 1 3 33.3 7 8 87.5 2 7 9 4 1 2 2 1 3
+p606
+aVGoran Dragic MIA 12/07/2015 MIA vs. WAS L 34 20 7 12 58.3 2 4 50.0 4 4 100.0 0 3 3 9 1 0 4 3 -2
+p607
+aVJosh McRoberts MIA 12/07/2015 MIA vs. WAS L 15 9 4 7 57.1 0 2 0.0 1 3 33.3 0 2 2 1 1 0 1 1 -6
+p608
+aVJosh Richardson MIA 12/07/2015 MIA vs. WAS L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p609
+aVJustise Winslow MIA 12/07/2015 MIA vs. WAS L 33 2 1 5 20.0 0 3 0.0 0 0 - 1 5 6 0 1 0 3 3 -16
+p610
+aVHassan Whiteside MIA 12/07/2015 MIA vs. WAS L 23 14 7 7 100.0 0 0 - 0 3 0.0 0 4 4 0 0 3 0 1 2
+p611
+aVTyler Johnson MIA 12/07/2015 MIA vs. WAS L 23 5 1 4 25.0 1 1 100.0 2 2 100.0 1 0 1 1 0 0 1 0 -17
+p612
+aVGerald Green MIA 12/07/2015 MIA vs. WAS L 36 9 4 8 50.0 1 3 33.3 0 0 - 0 1 1 1 0 1 0 4 -12
+p613
+aVGoran Dragic MIA 12/05/2015 MIA vs. CLE W 31 17 7 11 63.6 3 5 60.0 0 0 - 0 2 2 8 0 0 4 3 22
+p614
+aVJosh Richardson MIA 12/05/2015 MIA vs. CLE W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -11
+p615
+aVJustise Winslow MIA 12/05/2015 MIA vs. CLE W 18 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 5 -3
+p616
+aVHassan Whiteside MIA 12/05/2015 MIA vs. CLE W 21 7 2 3 66.7 0 0 - 3 7 42.9 2 7 9 0 1 5 0 2 12
+p617
+aVJosh McRoberts MIA 12/05/2015 MIA vs. CLE W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 4 4 2 1 0 1 1 8
+p618
+aVTyler Johnson MIA 12/05/2015 MIA vs. CLE W 30 19 6 10 60.0 2 5 40.0 5 6 83.3 0 5 5 2 1 1 2 2 13
+p619
+aVBeno Udrih MIA 12/05/2015 MIA vs. CLE W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p620
+aVDwyane Wade MIA 12/05/2015 MIA vs. CLE W 29 19 8 14 57.1 0 0 - 3 5 60.0 1 4 5 4 1 0 1 2 6
+p621
+aVGerald Green MIA 12/05/2015 MIA vs. CLE W 26 12 5 12 41.7 1 4 25.0 1 2 50.0 0 3 3 1 1 1 1 6 20
+p622
+aVUdonis Haslem MIA 12/05/2015 MIA vs. CLE W 20 0 0 4 0.0 0 0 - 0 0 - 0 5 5 1 0 0 1 1 -3
+p623
+aVChris Bosh MIA 12/05/2015 MIA vs. CLE W 36 14 5 6 83.3 1 1 100.0 3 5 60.0 0 6 6 3 0 2 3 1 13
+p624
+aVChris Bosh MIA 12/03/2015 MIA vs. OKC W 35 16 7 17 41.2 1 5 20.0 1 2 50.0 1 7 8 2 2 0 0 1 20
+p625
+aVTyler Johnson MIA 12/03/2015 MIA vs. OKC W 18 8 3 5 60.0 0 0 - 2 3 66.7 1 0 1 3 2 0 0 3 -2
+p626
+aVDwyane Wade MIA 12/03/2015 MIA vs. OKC W 33 28 11 21 52.4 0 0 - 6 9 66.7 0 4 4 4 1 0 2 1 -3
+p627
+aVGoran Dragic MIA 12/03/2015 MIA vs. OKC W 36 14 6 11 54.5 2 2 100.0 0 0 - 1 2 3 7 2 0 1 2 10
+p628
+aVJustise Winslow MIA 12/03/2015 MIA vs. OKC W 34 2 1 3 33.3 0 2 0.0 0 2 0.0 0 4 4 3 2 0 1 3 -3
+p629
+aVJosh McRoberts MIA 12/03/2015 MIA vs. OKC W 19 12 5 7 71.4 0 2 0.0 2 2 100.0 1 2 3 4 1 1 1 0 6
+p630
+aVGerald Green MIA 12/03/2015 MIA vs. OKC W 28 5 2 9 22.2 0 2 0.0 1 2 50.0 0 2 2 2 0 0 2 1 -4
+p631
+aVHassan Whiteside MIA 12/03/2015 MIA vs. OKC W 29 11 5 8 62.5 0 0 - 1 2 50.0 1 7 8 0 0 2 2 3 -15
+p632
+aVJosh Richardson MIA 12/03/2015 MIA vs. OKC W 8 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 1
+p633
+aVJosh McRoberts MIA 11/30/2015 MIA vs. BOS L 24 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 2 0 1 1 4 -7
+p634
+aVGerald Green MIA 11/30/2015 MIA vs. BOS L 36 9 3 8 37.5 1 6 16.7 2 2 100.0 0 3 3 1 0 1 0 2 11
+p635
+aVGoran Dragic MIA 11/30/2015 MIA vs. BOS L 34 9 4 10 40.0 0 3 0.0 1 4 25.0 1 3 4 3 1 0 3 2 -12
+p636
+aVJustise Winslow MIA 11/30/2015 MIA vs. BOS L 29 4 1 4 25.0 0 0 - 2 3 66.7 2 4 6 4 0 0 4 2 -13
+p637
+aVChris Bosh MIA 11/30/2015 MIA vs. BOS L 39 21 8 17 47.1 2 5 40.0 3 3 100.0 0 10 10 5 1 1 2 2 4
+p638
+aVDwyane Wade MIA 11/30/2015 MIA vs. BOS L 32 30 12 24 50.0 0 1 0.0 6 6 100.0 3 1 4 4 5 0 6 3 -7
+p639
+aVTyler Johnson MIA 11/30/2015 MIA vs. BOS L 20 10 4 5 80.0 2 2 100.0 0 0 - 1 0 1 2 1 0 1 1 -11
+p640
+aVHassan Whiteside MIA 11/30/2015 MIA vs. BOS L 26 6 2 4 50.0 0 0 - 2 4 50.0 3 5 8 0 1 3 1 3 -15
+p641
+aVJosh McRoberts MIA 11/27/2015 MIA @ NYK W 24 2 1 1 100.0 0 0 - 0 1 0.0 0 4 4 3 0 0 1 2 14
+p642
+aVTyler Johnson MIA 11/27/2015 MIA @ NYK W 20 6 2 5 40.0 0 0 - 2 2 100.0 0 0 0 2 1 0 2 1 2
+p643
+aVHassan Whiteside MIA 11/27/2015 MIA @ NYK W 31 6 1 6 16.7 0 0 - 4 6 66.7 5 9 14 0 0 6 1 1 14
+p644
+aVChris Bosh MIA 11/27/2015 MIA @ NYK W 31 20 7 15 46.7 1 4 25.0 5 6 83.3 0 5 5 3 0 1 1 1 8
+p645
+aVJustise Winslow MIA 11/27/2015 MIA @ NYK W 35 9 3 7 42.9 1 3 33.3 2 2 100.0 1 6 7 1 1 0 0 3 12
+p646
+aVUdonis Haslem MIA 11/27/2015 MIA @ NYK W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p647
+aVGoran Dragic MIA 11/27/2015 MIA @ NYK W 30 9 3 8 37.5 0 0 - 3 3 100.0 0 4 4 3 1 0 1 0 17
+p648
+aVDwyane Wade MIA 11/27/2015 MIA @ NYK W 29 17 7 17 41.2 0 0 - 3 3 100.0 2 3 5 3 0 0 3 0 12
+p649
+aVBeno Udrih MIA 11/27/2015 MIA @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p650
+aVJosh Richardson MIA 11/27/2015 MIA @ NYK W 2 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 1
+p651
+aVGerald Green MIA 11/27/2015 MIA @ NYK W 27 25 8 14 57.1 4 8 50.0 5 5 100.0 0 2 2 0 1 0 2 3 16
+p652
+aVChris Bosh MIA 11/25/2015 MIA @ DET L 30 9 3 9 33.3 1 1 100.0 2 2 100.0 0 8 8 4 0 0 1 1 -21
+p653
+aVBeno Udrih MIA 11/25/2015 MIA @ DET L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 1 -1
+p654
+aVHassan Whiteside MIA 11/25/2015 MIA @ DET L 30 15 7 9 77.8 0 0 - 1 2 50.0 5 8 13 0 0 3 3 2 -23
+p655
+aVJustise Winslow MIA 11/25/2015 MIA @ DET L 29 3 1 3 33.3 0 0 - 1 2 50.0 1 7 8 1 0 0 1 2 -10
+p656
+aVJosh Richardson MIA 11/25/2015 MIA @ DET L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p657
+aVChris Andersen MIA 11/25/2015 MIA @ DET L 4 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 5
+p658
+aVJosh McRoberts MIA 11/25/2015 MIA @ DET L 13 3 1 6 16.7 1 5 20.0 0 0 - 0 1 1 1 0 0 1 1 -13
+p659
+aVUdonis Haslem MIA 11/25/2015 MIA @ DET L 4 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 0 5
+p660
+aVTyler Johnson MIA 11/25/2015 MIA @ DET L 22 8 3 8 37.5 0 2 0.0 2 2 100.0 2 1 3 1 0 0 0 2 -5
+p661
+aVGerald Green MIA 11/25/2015 MIA @ DET L 38 16 6 17 35.3 2 7 28.6 2 3 66.7 2 3 5 1 0 1 3 3 -15
+p662
+aVDwyane Wade MIA 11/25/2015 MIA @ DET L 23 2 1 9 11.1 0 0 - 0 1 0.0 0 2 2 2 1 2 2 0 -26
+p663
+aVGoran Dragic MIA 11/25/2015 MIA @ DET L 30 13 5 11 45.5 0 2 0.0 3 4 75.0 0 0 0 4 0 1 2 2 -16
+p664
+aVChris Bosh MIA 11/23/2015 MIA vs. NYK W 29 16 2 12 16.7 1 5 20.0 11 12 91.7 1 5 6 1 2 0 1 2 4
+p665
+aVJosh McRoberts MIA 11/23/2015 MIA vs. NYK W 19 2 0 3 0.0 0 2 0.0 2 2 100.0 3 6 9 2 0 0 0 2 18
+p666
+aVGoran Dragic MIA 11/23/2015 MIA vs. NYK W 31 13 6 12 50.0 1 2 50.0 0 1 0.0 3 6 9 5 3 0 3 2 -1
+p667
+aVGerald Green MIA 11/23/2015 MIA vs. NYK W 15 9 4 10 40.0 0 4 0.0 1 1 100.0 1 4 5 0 0 0 0 1 16
+p668
+aVLuol Deng MIA 11/23/2015 MIA vs. NYK W 31 9 4 9 44.4 1 3 33.3 0 0 - 1 2 3 0 1 0 1 1 -3
+p669
+aVHassan Whiteside MIA 11/23/2015 MIA vs. NYK W 34 11 3 8 37.5 0 0 - 5 10 50.0 3 8 11 1 1 5 1 3 4
+p670
+aVTyler Johnson MIA 11/23/2015 MIA vs. NYK W 21 12 3 5 60.0 1 1 100.0 5 6 83.3 2 1 3 1 1 1 1 0 16
+p671
+aVJustise Winslow MIA 11/23/2015 MIA vs. NYK W 31 7 3 6 50.0 1 1 100.0 0 0 - 0 6 6 3 0 1 0 5 28
+p672
+aVDwyane Wade MIA 11/23/2015 MIA vs. NYK W 30 16 6 16 37.5 0 1 0.0 4 4 100.0 2 2 4 5 0 0 2 3 3
+p673
+aVJosh McRoberts MIA 11/21/2015 MIA vs. PHI W 14 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 1 1 1 0 1 -7
+p674
+aVHassan Whiteside MIA 11/21/2015 MIA vs. PHI W 29 13 4 7 57.1 0 0 - 5 8 62.5 2 7 9 0 1 8 3 1 3
+p675
+aVJosh Richardson MIA 11/21/2015 MIA vs. PHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p676
+aVBeno Udrih MIA 11/21/2015 MIA vs. PHI W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 0
+p677
+aVGerald Green MIA 11/21/2015 MIA vs. PHI W 23 6 0 5 0.0 0 3 0.0 6 8 75.0 0 1 1 0 0 1 0 3 3
+p678
+aVChris Bosh MIA 11/21/2015 MIA vs. PHI W 35 13 3 11 27.3 2 5 40.0 5 8 62.5 2 9 11 1 1 3 2 3 11
+p679
+aVJustise Winslow MIA 11/21/2015 MIA vs. PHI W 23 11 4 4 100.0 1 1 100.0 2 3 66.7 1 4 5 1 0 0 3 3 -1
+p680
+aVDwyane Wade MIA 11/21/2015 MIA vs. PHI W 36 27 8 17 47.1 0 1 0.0 11 13 84.6 2 5 7 4 3 1 1 3 20
+p681
+aVTyler Johnson MIA 11/21/2015 MIA vs. PHI W 17 4 2 6 33.3 0 2 0.0 0 1 0.0 0 0 0 1 0 0 1 1 -17
+p682
+aVLuol Deng MIA 11/21/2015 MIA vs. PHI W 25 11 4 7 57.1 2 5 40.0 1 2 50.0 0 2 2 4 0 0 1 0 0
+p683
+aVGoran Dragic MIA 11/21/2015 MIA vs. PHI W 26 6 3 7 42.9 0 0 - 0 0 - 2 5 7 4 1 0 3 4 25
+p684
+aVDwyane Wade MIA 11/19/2015 MIA vs. SAC W 31 24 10 23 43.5 0 2 0.0 4 6 66.7 1 4 5 6 2 0 0 1 -1
+p685
+aVJosh McRoberts MIA 11/19/2015 MIA vs. SAC W 17 0 0 1 0.0 0 0 - 0 2 0.0 3 1 4 2 2 0 0 2 9
+p686
+aVJustise Winslow MIA 11/19/2015 MIA vs. SAC W 27 6 3 9 33.3 0 4 0.0 0 0 - 1 0 1 1 2 0 3 2 11
+p687
+aVChris Bosh MIA 11/19/2015 MIA vs. SAC W 35 23 8 12 66.7 2 2 100.0 5 5 100.0 0 11 11 4 0 1 1 0 3
+p688
+aVGoran Dragic MIA 11/19/2015 MIA vs. SAC W 32 9 4 11 36.4 1 4 25.0 0 1 0.0 1 0 1 6 0 0 0 2 -4
+p689
+aVTyler Johnson MIA 11/19/2015 MIA vs. SAC W 25 19 6 8 75.0 3 4 75.0 4 4 100.0 1 2 3 3 1 0 1 1 8
+p690
+aVHassan Whiteside MIA 11/19/2015 MIA vs. SAC W 18 12 4 7 57.1 0 0 - 4 4 100.0 2 3 5 0 2 4 0 3 -11
+p691
+aVGerald Green MIA 11/19/2015 MIA vs. SAC W 16 5 2 6 33.3 1 4 25.0 0 0 - 1 5 6 1 0 0 1 3 13
+p692
+aVLuol Deng MIA 11/19/2015 MIA vs. SAC W 31 8 1 7 14.3 0 4 0.0 6 9 66.7 2 2 4 1 2 2 0 1 -1
+p693
+aVAmar'e Stoudemire MIA 11/19/2015 MIA vs. SAC W 8 10 4 5 80.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 0 8
+p694
+aVTyler Johnson MIA 11/17/2015 MIA vs. MIN L 18 3 1 6 16.7 0 2 0.0 1 1 100.0 1 1 2 1 0 0 1 2 -8
+p695
+aVJustise Winslow MIA 11/17/2015 MIA vs. MIN L 31 8 1 2 50.0 1 2 50.0 5 10 50.0 1 10 11 1 1 0 6 5 -6
+p696
+aVJosh McRoberts MIA 11/17/2015 MIA vs. MIN L 12 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 3 3 -18
+p697
+aVDwyane Wade MIA 11/17/2015 MIA vs. MIN L 32 10 5 13 38.5 0 1 0.0 0 0 - 1 1 2 6 1 0 5 1 -2
+p698
+aVGoran Dragic MIA 11/17/2015 MIA vs. MIN L 36 16 5 12 41.7 1 4 25.0 5 7 71.4 0 2 2 9 1 0 2 6 4
+p699
+aVGerald Green MIA 11/17/2015 MIA vs. MIN L 12 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 1 0 0 0 3 -15
+p700
+aVHassan Whiteside MIA 11/17/2015 MIA vs. MIN L 34 22 10 14 71.4 0 0 - 2 9 22.2 4 10 14 0 0 10 4 2 10
+p701
+aVChris Bosh MIA 11/17/2015 MIA vs. MIN L 32 10 5 12 41.7 0 5 0.0 0 0 - 2 5 7 0 0 1 1 2 -36
+p702
+aVLuol Deng MIA 11/17/2015 MIA vs. MIN L 33 20 8 14 57.1 3 8 37.5 1 3 33.3 0 6 6 1 0 1 0 2 11
+p703
+aVBeno Udrih MIA 11/12/2015 MIA vs. UTA W 17 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 0 0 1 0 11
+p704
+aVJosh Richardson MIA 11/12/2015 MIA vs. UTA W 21 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 0 0 0 0 4 2
+p705
+aVChris Bosh MIA 11/12/2015 MIA vs. UTA W 36 25 9 18 50.0 1 3 33.3 6 9 66.7 2 6 8 4 0 4 3 1 12
+p706
+aVTyler Johnson MIA 11/12/2015 MIA vs. UTA W 29 17 8 12 66.7 1 1 100.0 0 0 - 1 3 4 3 1 2 3 3 5
+p707
+aVJosh McRoberts MIA 11/12/2015 MIA vs. UTA W 18 4 0 3 0.0 0 1 0.0 4 4 100.0 1 3 4 0 0 0 0 3 14
+p708
+aVJustise Winslow MIA 11/12/2015 MIA vs. UTA W 27 7 3 9 33.3 0 1 0.0 1 2 50.0 1 4 5 1 0 0 0 4 -5
+p709
+aVLuol Deng MIA 11/12/2015 MIA vs. UTA W 27 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 1 2 0 2 2 -11
+p710
+aVGoran Dragic MIA 11/12/2015 MIA vs. UTA W 35 14 5 12 41.7 0 3 0.0 4 6 66.7 0 3 3 4 2 0 4 0 -14
+p711
+aVHassan Whiteside MIA 11/12/2015 MIA vs. UTA W 29 9 4 10 40.0 0 0 - 1 4 25.0 3 11 14 0 1 5 2 3 -9
+p712
+aVChris Bosh MIA 11/10/2015 MIA vs. LAL W 33 30 9 16 56.3 2 5 40.0 10 12 83.3 3 8 11 0 0 0 3 2 9
+p713
+aVLuol Deng MIA 11/10/2015 MIA vs. LAL W 30 14 5 9 55.6 3 6 50.0 1 1 100.0 1 3 4 4 3 0 0 2 13
+p714
+aVUdonis Haslem MIA 11/10/2015 MIA vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p715
+aVDwyane Wade MIA 11/10/2015 MIA vs. LAL W 25 12 5 14 35.7 0 1 0.0 2 3 66.7 0 2 2 6 0 1 1 2 23
+p716
+aVJosh McRoberts MIA 11/10/2015 MIA vs. LAL W 18 4 2 5 40.0 0 1 0.0 0 0 - 2 2 4 3 1 0 2 1 0
+p717
+aVGoran Dragic MIA 11/10/2015 MIA vs. LAL W 29 4 2 10 20.0 0 3 0.0 0 0 - 0 5 5 3 0 0 1 3 23
+p718
+aVJustise Winslow MIA 11/10/2015 MIA vs. LAL W 32 8 4 8 50.0 0 2 0.0 0 0 - 2 1 3 3 1 1 1 0 0
+p719
+aVJosh Richardson MIA 11/10/2015 MIA vs. LAL W 15 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 2 1 0 0 1 -13
+p720
+aVTyler Johnson MIA 11/10/2015 MIA vs. LAL W 29 9 3 9 33.3 0 1 0.0 3 3 100.0 0 2 2 2 1 2 2 0 -10
+p721
+aVHassan Whiteside MIA 11/10/2015 MIA vs. LAL W 27 19 8 12 66.7 0 0 - 3 6 50.0 7 8 15 0 0 3 0 1 22
+p722
+aVJames Ennis III MIA 11/08/2015 MIA vs. TOR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p723
+aVLuol Deng MIA 11/08/2015 MIA vs. TOR W 29 6 2 7 28.6 1 3 33.3 1 2 50.0 1 4 5 1 1 0 0 2 2
+p724
+aVHassan Whiteside MIA 11/08/2015 MIA vs. TOR W 25 20 8 15 53.3 0 0 - 4 5 80.0 6 5 11 0 1 6 0 2 2
+p725
+aVJustise Winslow MIA 11/08/2015 MIA vs. TOR W 32 9 3 8 37.5 0 1 0.0 3 4 75.0 1 4 5 1 1 0 2 2 20
+p726
+aVJosh McRoberts MIA 11/08/2015 MIA vs. TOR W 19 5 2 7 28.6 0 2 0.0 1 2 50.0 3 0 3 3 3 0 1 1 19
+p727
+aVGoran Dragic MIA 11/08/2015 MIA vs. TOR W 26 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 3 0 0 2 1 4
+p728
+aVUdonis Haslem MIA 11/08/2015 MIA vs. TOR W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p729
+aVTyler Johnson MIA 11/08/2015 MIA vs. TOR W 23 10 4 5 80.0 2 2 100.0 0 0 - 0 3 3 1 0 0 1 4 14
+p730
+aVMario Chalmers MIA 11/08/2015 MIA vs. TOR W 25 9 3 8 37.5 0 1 0.0 3 3 100.0 0 7 7 6 1 1 3 3 18
+p731
+aVDwyane Wade MIA 11/08/2015 MIA vs. TOR W 25 12 4 13 30.8 1 1 100.0 3 4 75.0 1 2 3 2 0 1 1 1 3
+p732
+aVChris Bosh MIA 11/08/2015 MIA vs. TOR W 30 23 8 14 57.1 4 7 57.1 3 5 60.0 1 7 8 1 1 0 0 3 15
+p733
+aVJustise Winslow MIA 11/06/2015 MIA @ IND L 31 13 6 10 60.0 0 1 0.0 1 1 100.0 2 6 8 1 0 0 0 5 10
+p734
+aVLuol Deng MIA 11/06/2015 MIA @ IND L 26 9 4 7 57.1 1 2 50.0 0 0 - 1 1 2 0 0 0 2 1 -14
+p735
+aVJosh McRoberts MIA 11/06/2015 MIA @ IND L 17 8 3 4 75.0 2 3 66.7 0 0 - 0 2 2 5 0 0 2 1 14
+p736
+aVTyler Johnson MIA 11/06/2015 MIA @ IND L 19 6 2 5 40.0 1 2 50.0 1 2 50.0 0 1 1 2 1 0 1 2 1
+p737
+aVDwyane Wade MIA 11/06/2015 MIA @ IND L 30 9 4 15 26.7 0 4 0.0 1 2 50.0 1 0 1 6 1 1 0 2 -24
+p738
+aVGoran Dragic MIA 11/06/2015 MIA @ IND L 31 11 5 11 45.5 1 2 50.0 0 0 - 0 2 2 4 0 0 5 4 -6
+p739
+aVHassan Whiteside MIA 11/06/2015 MIA @ IND L 33 8 4 10 40.0 0 0 - 0 1 0.0 1 11 12 0 1 4 1 1 -23
+p740
+aVChris Bosh MIA 11/06/2015 MIA @ IND L 35 21 7 16 43.8 1 5 20.0 6 7 85.7 2 9 11 2 1 1 0 0 6
+p741
+aVMario Chalmers MIA 11/06/2015 MIA @ IND L 19 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 21
+p742
+aVJosh McRoberts MIA 11/05/2015 MIA @ MIN W 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 0
+p743
+aVDwyane Wade MIA 11/05/2015 MIA @ MIN W 31 25 11 19 57.9 1 2 50.0 2 5 40.0 1 4 5 2 3 0 2 1 23
+p744
+aVJustise Winslow MIA 11/05/2015 MIA @ MIN W 36 7 3 7 42.9 0 2 0.0 1 1 100.0 1 2 3 2 1 1 1 1 12
+p745
+aVHassan Whiteside MIA 11/05/2015 MIA @ MIN W 30 12 5 9 55.6 0 0 - 2 2 100.0 1 8 9 0 0 4 7 5 14
+p746
+aVJosh Richardson MIA 11/05/2015 MIA @ MIN W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -10
+p747
+aVGoran Dragic MIA 11/05/2015 MIA @ MIN W 33 18 7 12 58.3 1 3 33.3 3 4 75.0 2 1 3 2 0 0 2 1 18
+p748
+aVChris Bosh MIA 11/05/2015 MIA @ MIN W 28 16 5 11 45.5 1 2 50.0 5 6 83.3 0 12 12 2 1 0 1 1 3
+p749
+aVJames Ennis III MIA 11/05/2015 MIA @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p750
+aVLuol Deng MIA 11/05/2015 MIA @ MIN W 28 10 4 12 33.3 0 3 0.0 2 3 66.7 1 3 4 1 1 1 1 2 17
+p751
+aVChris Andersen MIA 11/05/2015 MIA @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p752
+aVTyler Johnson MIA 11/05/2015 MIA @ MIN W 25 8 2 4 50.0 1 2 50.0 3 4 75.0 1 3 4 3 0 0 1 5 -7
+p753
+aVJosh McRoberts MIA 11/03/2015 MIA vs. ATL L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 5 -6
+p754
+aVDwyane Wade MIA 11/03/2015 MIA vs. ATL L 27 21 8 15 53.3 1 3 33.3 4 6 66.7 1 0 1 3 0 1 4 1 -6
+p755
+aVGoran Dragic MIA 11/03/2015 MIA vs. ATL L 32 19 6 11 54.5 3 5 60.0 4 4 100.0 2 3 5 2 3 1 4 2 2
+p756
+aVTyler Johnson MIA 11/03/2015 MIA vs. ATL L 21 7 3 6 50.0 0 1 0.0 1 2 50.0 1 1 2 1 2 0 1 1 -7
+p757
+aVMario Chalmers MIA 11/03/2015 MIA vs. ATL L 22 2 1 9 11.1 0 4 0.0 0 0 - 0 1 1 3 2 0 1 4 -2
+p758
+aVJustise Winslow MIA 11/03/2015 MIA vs. ATL L 23 4 2 7 28.6 0 3 0.0 0 0 - 1 3 4 0 0 0 3 2 -5
+p759
+aVHassan Whiteside MIA 11/03/2015 MIA vs. ATL L 31 23 11 12 91.7 0 0 - 1 2 50.0 5 9 14 0 0 4 3 0 -4
+p760
+aVChris Andersen MIA 11/03/2015 MIA vs. ATL L 10 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 0 2 1 8
+p761
+aVLuol Deng MIA 11/03/2015 MIA vs. ATL L 25 4 2 9 22.2 0 4 0.0 0 0 - 0 2 2 1 0 1 0 1 -5
+p762
+aVChris Bosh MIA 11/03/2015 MIA vs. ATL L 39 9 4 14 28.6 1 6 16.7 0 0 - 2 12 14 2 3 2 0 4 -5
+p763
+aVHassan Whiteside MIA 11/01/2015 MIA vs. HOU W 34 25 12 15 80.0 0 0 - 1 3 33.3 1 14 15 1 3 2 3 2 20
+p764
+aVChris Bosh MIA 11/01/2015 MIA vs. HOU W 25 10 4 11 36.4 2 4 50.0 0 0 - 1 7 8 0 0 2 0 1 1
+p765
+aVGoran Dragic MIA 11/01/2015 MIA vs. HOU W 24 8 3 7 42.9 0 1 0.0 2 2 100.0 0 3 3 6 1 0 1 4 -6
+p766
+aVJustise Winslow MIA 11/01/2015 MIA vs. HOU W 31 10 4 8 50.0 2 2 100.0 0 0 - 2 1 3 2 2 0 1 2 24
+p767
+aVJosh McRoberts MIA 11/01/2015 MIA vs. HOU W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -10
+p768
+aVTyler Johnson MIA 11/01/2015 MIA vs. HOU W 21 11 5 7 71.4 1 2 50.0 0 1 0.0 3 5 8 3 1 1 0 0 25
+p769
+aVMario Chalmers MIA 11/01/2015 MIA vs. HOU W 23 4 1 3 33.3 0 1 0.0 2 3 66.7 1 0 1 3 2 0 3 3 27
+p770
+aVGerald Green MIA 11/01/2015 MIA vs. HOU W 18 7 2 7 28.6 1 5 20.0 2 2 100.0 0 0 0 0 0 0 0 2 7
+p771
+aVLuol Deng MIA 11/01/2015 MIA vs. HOU W 27 14 5 12 41.7 1 4 25.0 3 4 75.0 3 3 6 1 0 0 1 1 -3
+p772
+aVDwyane Wade MIA 11/01/2015 MIA vs. HOU W 33 20 6 16 37.5 2 3 66.7 6 6 100.0 0 2 2 8 2 0 1 1 15
+p773
+aVLuol Deng MIA 10/30/2015 MIA @ CLE L 29 10 4 8 50.0 1 3 33.3 1 2 50.0 2 4 6 2 1 0 1 3 6
+p774
+aVJosh McRoberts MIA 10/30/2015 MIA @ CLE L 13 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 -17
+p775
+aVAmar'e Stoudemire MIA 10/30/2015 MIA @ CLE L 12 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -16
+p776
+aVJames Ennis III MIA 10/30/2015 MIA @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p777
+aVGerald Green MIA 10/30/2015 MIA @ CLE L 16 5 1 9 11.1 1 4 25.0 2 2 100.0 0 1 1 0 0 0 1 1 -18
+p778
+aVMario Chalmers MIA 10/30/2015 MIA @ CLE L 14 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 1 -19
+p779
+aVJustise Winslow MIA 10/30/2015 MIA @ CLE L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 2 -16
+p780
+aVGoran Dragic MIA 10/30/2015 MIA @ CLE L 34 11 3 9 33.3 1 3 33.3 4 4 100.0 0 3 3 6 1 0 1 3 9
+p781
+aVDwyane Wade MIA 10/30/2015 MIA @ CLE L 30 25 8 15 53.3 1 2 50.0 8 8 100.0 0 4 4 3 2 1 7 4 4
+p782
+aVHassan Whiteside MIA 10/30/2015 MIA @ CLE L 36 11 4 7 57.1 0 0 - 3 4 75.0 1 8 9 2 0 6 2 2 6
+p783
+aVChris Bosh MIA 10/30/2015 MIA @ CLE L 33 16 7 15 46.7 2 4 50.0 0 0 - 0 5 5 3 1 0 0 0 3
+p784
+aVTyler Johnson MIA 10/30/2015 MIA @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p785
+aVMario Chalmers MIA 10/28/2015 MIA vs. CHA W 17 8 1 3 33.3 1 2 50.0 5 5 100.0 0 3 3 4 2 0 2 2 8
+p786
+aVUdonis Haslem MIA 10/28/2015 MIA vs. CHA W 11 6 3 4 75.0 0 1 0.0 0 0 - 0 4 4 1 1 0 1 2 1
+p787
+aVGerald Green MIA 10/28/2015 MIA vs. CHA W 30 19 7 15 46.7 5 8 62.5 0 0 - 0 1 1 1 0 0 2 4 0
+p788
+aVGoran Dragic MIA 10/28/2015 MIA vs. CHA W 31 8 4 8 50.0 0 0 - 0 0 - 0 1 1 6 0 2 1 4 2
+p789
+aVJustise Winslow MIA 10/28/2015 MIA vs. CHA W 26 5 2 2 100.0 1 1 100.0 0 0 - 0 7 7 2 0 0 2 4 26
+p790
+aVDwyane Wade MIA 10/28/2015 MIA vs. CHA W 29 20 7 16 43.8 0 0 - 6 6 100.0 1 2 3 5 0 1 1 2 -2
+p791
+aVJosh McRoberts MIA 10/28/2015 MIA vs. CHA W 13 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 0 1 5
+p792
+aVChris Bosh MIA 10/28/2015 MIA vs. CHA W 32 21 5 13 38.5 2 5 40.0 9 10 90.0 0 10 10 1 1 1 1 1 10
+p793
+aVHassan Whiteside MIA 10/28/2015 MIA vs. CHA W 20 4 2 4 50.0 0 0 - 0 0 - 0 6 6 0 0 2 2 3 4
+p794
+aVLuol Deng MIA 10/28/2015 MIA vs. CHA W 30 13 5 8 62.5 3 3 100.0 0 0 - 1 2 3 1 1 1 1 2 -4
+p795
+a.

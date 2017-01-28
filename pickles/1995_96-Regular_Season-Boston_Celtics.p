@@ -1,0 +1,1750 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPervis Ellison BOS 04/21/1996 BOS vs. NYK L 19 4 2 4 50.0 0 0 - 0 0 - 2 2 4 1 0 1 0 4 -
+p2
+aVJunior Burrough BOS 04/21/1996 BOS vs. NYK L 23 5 2 6 33.3 0 0 - 1 2 50.0 2 1 3 0 2 0 3 4 -
+p3
+aVDee Brown BOS 04/21/1996 BOS vs. NYK L 26 15 5 10 50.0 3 6 50.0 2 2 100.0 1 2 3 2 0 0 0 1 -
+p4
+aVTodd Day BOS 04/21/1996 BOS vs. NYK L 27 15 6 14 42.9 2 5 40.0 1 2 50.0 1 0 1 2 2 1 1 4 -
+p5
+aVDana Barros BOS 04/21/1996 BOS vs. NYK L 29 13 4 8 50.0 4 7 57.1 1 1 100.0 1 1 2 1 3 0 2 0 -
+p6
+aVRick Fox BOS 04/21/1996 BOS vs. NYK L 39 25 9 14 64.3 3 3 100.0 4 5 80.0 2 7 9 5 4 1 0 4 -
+p7
+aVThomas Hamilton BOS 04/21/1996 BOS vs. NYK L 5 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -
+p8
+aVDavid Wesley BOS 04/21/1996 BOS vs. NYK L 42 17 4 16 25.0 2 7 28.6 7 8 87.5 2 6 8 7 0 0 5 2 -
+p9
+aVTodd Mundt BOS 04/21/1996 BOS vs. NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p10
+aVGreg Minor BOS 04/21/1996 BOS vs. NYK L 28 15 5 12 41.7 1 1 100.0 4 5 80.0 2 1 3 5 1 1 1 2 -
+p11
+aVDavid Wesley BOS 04/19/1996 BOS @ NJN W 38 21 7 14 50.0 3 5 60.0 4 6 66.7 1 2 3 14 0 0 1 2 -
+p12
+aVJunior Burrough BOS 04/19/1996 BOS @ NJN W 21 10 5 12 41.7 0 0 - 0 0 - 1 1 2 0 1 1 2 2 -
+p13
+aVThomas Hamilton BOS 04/19/1996 BOS @ NJN W 8 1 0 1 0.0 0 0 - 1 4 25.0 1 1 2 0 0 2 0 1 -
+p14
+aVDee Brown BOS 04/19/1996 BOS @ NJN W 22 11 1 3 33.3 0 1 0.0 9 9 100.0 0 3 3 0 0 0 1 0 -
+p15
+aVRick Fox BOS 04/19/1996 BOS @ NJN W 36 19 8 11 72.7 3 4 75.0 0 0 - 0 8 8 1 1 2 2 3 -
+p16
+aVAlton Lister BOS 04/19/1996 BOS @ NJN W 24 4 2 5 40.0 0 0 - 0 2 0.0 3 10 13 0 0 3 1 4 -
+p17
+aVDana Barros BOS 04/19/1996 BOS @ NJN W 25 27 10 14 71.4 5 5 100.0 2 2 100.0 0 3 3 2 0 0 1 1 -
+p18
+aVTodd Mundt BOS 04/19/1996 BOS @ NJN W 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p19
+aVGreg Minor BOS 04/19/1996 BOS @ NJN W 30 10 3 11 27.3 0 0 - 4 5 80.0 2 4 6 1 0 0 0 2 -
+p20
+aVTodd Day BOS 04/19/1996 BOS @ NJN W 32 7 3 11 27.3 1 3 33.3 0 0 - 0 2 2 2 1 2 2 3 -
+p21
+aVDavid Wesley BOS 04/17/1996 BOS @ WAS W 34 12 4 12 33.3 1 2 50.0 3 4 75.0 1 4 5 7 1 0 3 2 -
+p22
+aVDana Barros BOS 04/17/1996 BOS @ WAS W 30 13 5 11 45.5 1 5 20.0 2 2 100.0 0 0 0 3 0 0 2 1 -
+p23
+aVGreg Minor BOS 04/17/1996 BOS @ WAS W 27 10 5 9 55.6 0 0 - 0 0 - 0 4 4 1 0 1 0 4 -
+p24
+aVAlton Lister BOS 04/17/1996 BOS @ WAS W 24 0 0 0 - 0 0 - 0 0 - 1 8 9 0 0 2 0 4 -
+p25
+aVJunior Burrough BOS 04/17/1996 BOS @ WAS W 12 13 6 8 75.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 4 -
+p26
+aVRick Fox BOS 04/17/1996 BOS @ WAS W 36 17 6 12 50.0 0 2 0.0 5 5 100.0 2 8 10 4 2 0 2 4 -
+p27
+aVTodd Mundt BOS 04/17/1996 BOS @ WAS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p28
+aVDee Brown BOS 04/17/1996 BOS @ WAS W 29 20 9 15 60.0 1 2 50.0 1 1 100.0 0 2 2 2 1 0 1 1 -
+p29
+aVThomas Hamilton BOS 04/17/1996 BOS @ WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p30
+aVTodd Day BOS 04/17/1996 BOS @ WAS W 23 28 9 13 69.2 6 7 85.7 4 5 80.0 0 4 4 3 1 0 1 4 -
+p31
+aVPervis Ellison BOS 04/17/1996 BOS @ WAS W 19 6 3 7 42.9 0 0 - 0 0 - 1 8 9 0 1 2 2 3 -
+p32
+aVDana Barros BOS 04/14/1996 BOS @ DET L 27 22 9 16 56.3 3 7 42.9 1 1 100.0 1 0 1 2 1 0 1 0 -
+p33
+aVTodd Day BOS 04/14/1996 BOS @ DET L 37 15 5 14 35.7 1 3 33.3 4 4 100.0 1 6 7 0 1 0 1 3 -
+p34
+aVAlton Lister BOS 04/14/1996 BOS @ DET L 15 2 0 1 0.0 0 0 - 2 2 100.0 0 6 6 0 0 0 0 3 -
+p35
+aVRick Fox BOS 04/14/1996 BOS @ DET L 25 4 2 10 20.0 0 2 0.0 0 2 0.0 1 1 2 3 0 0 1 6 -
+p36
+aVPervis Ellison BOS 04/14/1996 BOS @ DET L 45 8 3 10 30.0 0 0 - 2 4 50.0 6 12 18 0 0 3 4 4 -
+p37
+aVDee Brown BOS 04/14/1996 BOS @ DET L 33 10 4 12 33.3 2 6 33.3 0 0 - 0 0 0 3 2 0 0 5 -
+p38
+aVJunior Burrough BOS 04/14/1996 BOS @ DET L 2 2 0 1 0.0 0 0 - 2 2 100.0 2 0 2 0 0 0 0 0 -
+p39
+aVGreg Minor BOS 04/14/1996 BOS @ DET L 33 9 4 10 40.0 0 0 - 1 2 50.0 2 6 8 2 2 0 1 3 -
+p40
+aVDavid Wesley BOS 04/14/1996 BOS @ DET L 48 24 10 19 52.6 4 5 80.0 0 1 0.0 3 2 5 3 1 0 2 5 -
+p41
+aVJunior Burrough BOS 04/12/1996 BOS vs. TOR W 10 8 3 3 100.0 0 0 - 2 2 100.0 0 3 3 0 1 1 1 1 -
+p42
+aVTodd Mundt BOS 04/12/1996 BOS vs. TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p43
+aVPervis Ellison BOS 04/12/1996 BOS vs. TOR W 25 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 0 0 2 3 4 -
+p44
+aVDavid Wesley BOS 04/12/1996 BOS vs. TOR W 34 16 5 10 50.0 0 2 0.0 6 6 100.0 0 5 5 11 6 0 6 2 -
+p45
+aVGreg Minor BOS 04/12/1996 BOS vs. TOR W 35 21 7 13 53.8 0 0 - 7 9 77.8 3 1 4 1 2 1 0 4 -
+p46
+aVRick Fox BOS 04/12/1996 BOS vs. TOR W 32 22 8 13 61.5 3 5 60.0 3 4 75.0 1 4 5 5 4 1 0 4 -
+p47
+aVDee Brown BOS 04/12/1996 BOS vs. TOR W 31 18 7 13 53.8 3 9 33.3 1 2 50.0 0 2 2 5 2 0 0 0 -
+p48
+aVTodd Day BOS 04/12/1996 BOS vs. TOR W 24 17 6 15 40.0 1 5 20.0 4 4 100.0 3 4 7 2 0 1 1 1 -
+p49
+aVThomas Hamilton BOS 04/12/1996 BOS vs. TOR W 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 4 -
+p50
+aVDana Barros BOS 04/12/1996 BOS vs. TOR W 28 24 8 16 50.0 6 9 66.7 2 2 100.0 2 3 5 3 0 0 2 3 -
+p51
+aVAlton Lister BOS 04/12/1996 BOS vs. TOR W 10 4 2 5 40.0 0 0 - 0 0 - 4 4 8 0 0 1 0 3 -
+p52
+aVDavid Wesley BOS 04/10/1996 BOS vs. WAS L 36 19 7 14 50.0 1 3 33.3 4 6 66.7 1 1 2 6 3 0 2 3 -
+p53
+aVThomas Hamilton BOS 04/10/1996 BOS vs. WAS L 12 13 6 9 66.7 0 0 - 1 4 25.0 5 1 6 0 0 0 1 1 -
+p54
+aVEric Williams BOS 04/10/1996 BOS vs. WAS L 18 4 1 9 11.1 0 0 - 2 2 100.0 1 3 4 2 2 0 0 2 -
+p55
+aVTodd Mundt BOS 04/10/1996 BOS vs. WAS L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p56
+aVJunior Burrough BOS 04/10/1996 BOS vs. WAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p57
+aVDee Brown BOS 04/10/1996 BOS vs. WAS L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -
+p58
+aVPervis Ellison BOS 04/10/1996 BOS vs. WAS L 35 9 3 7 42.9 0 0 - 3 4 75.0 2 2 4 1 0 1 1 2 -
+p59
+aVAlton Lister BOS 04/10/1996 BOS vs. WAS L 21 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 0 0 1 4 -
+p60
+aVRick Fox BOS 04/10/1996 BOS vs. WAS L 34 15 7 12 58.3 0 3 0.0 1 1 100.0 2 4 6 5 3 1 1 3 -
+p61
+aVTodd Day BOS 04/10/1996 BOS vs. WAS L 23 13 4 11 36.4 1 4 25.0 4 4 100.0 0 0 0 1 1 0 3 4 -
+p62
+aVGreg Minor BOS 04/10/1996 BOS vs. WAS L 26 14 6 10 60.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 2 -
+p63
+aVDana Barros BOS 04/10/1996 BOS vs. WAS L 23 15 7 12 58.3 1 5 20.0 0 0 - 0 2 2 0 0 0 1 1 -
+p64
+aVAlton Lister BOS 04/09/1996 BOS @ NYK L 29 6 1 2 50.0 0 0 - 4 6 66.7 0 10 10 0 1 0 1 5 -
+p65
+aVTodd Day BOS 04/09/1996 BOS @ NYK L 12 8 3 6 50.0 0 2 0.0 2 2 100.0 0 0 0 1 0 0 0 2 -
+p66
+aVEric Williams BOS 04/09/1996 BOS @ NYK L 17 10 3 8 37.5 0 0 - 4 6 66.7 3 5 8 2 3 1 1 3 -
+p67
+aVDee Brown BOS 04/09/1996 BOS @ NYK L 21 6 2 8 25.0 0 1 0.0 2 2 100.0 0 1 1 0 3 0 3 1 -
+p68
+aVDavid Wesley BOS 04/09/1996 BOS @ NYK L 38 15 7 12 58.3 0 1 0.0 1 3 33.3 0 1 1 3 1 0 3 1 -
+p69
+aVPervis Ellison BOS 04/09/1996 BOS @ NYK L 37 23 10 14 71.4 0 0 - 3 4 75.0 3 7 10 1 1 1 0 5 -
+p70
+aVRick Fox BOS 04/09/1996 BOS @ NYK L 26 8 2 6 33.3 2 3 66.7 2 2 100.0 1 1 2 4 0 0 4 3 -
+p71
+aVGreg Minor BOS 04/09/1996 BOS @ NYK L 27 6 3 6 50.0 0 0 - 0 0 - 1 0 1 4 0 0 3 1 -
+p72
+aVJunior Burrough BOS 04/09/1996 BOS @ NYK L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p73
+aVDana Barros BOS 04/09/1996 BOS @ NYK L 29 9 4 11 36.4 1 5 20.0 0 0 - 0 3 3 0 0 0 4 0 -
+p74
+aVAlton Lister BOS 04/07/1996 BOS vs. DET W 23 2 1 2 50.0 0 0 - 0 0 - 3 9 12 0 0 2 3 4 -
+p75
+aVJunior Burrough BOS 04/07/1996 BOS vs. DET W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p76
+aVTodd Day BOS 04/07/1996 BOS vs. DET W 26 16 6 12 50.0 2 2 100.0 2 4 50.0 0 3 3 1 1 2 1 3 -
+p77
+aVDee Brown BOS 04/07/1996 BOS vs. DET W 27 15 4 10 40.0 2 3 66.7 5 6 83.3 2 3 5 4 0 0 0 2 -
+p78
+aVPervis Ellison BOS 04/07/1996 BOS vs. DET W 38 18 6 10 60.0 0 0 - 6 7 85.7 4 8 12 3 1 1 2 3 -
+p79
+aVRick Fox BOS 04/07/1996 BOS vs. DET W 24 8 3 7 42.9 2 6 33.3 0 0 - 0 2 2 1 0 0 2 4 -
+p80
+aVGreg Minor BOS 04/07/1996 BOS vs. DET W 23 12 6 11 54.5 0 0 - 0 0 - 1 1 2 2 1 1 0 2 -
+p81
+aVEric Williams BOS 04/07/1996 BOS vs. DET W 24 11 4 14 28.6 0 0 - 3 6 50.0 3 5 8 1 1 0 0 3 -
+p82
+aVDavid Wesley BOS 04/07/1996 BOS vs. DET W 36 12 4 11 36.4 1 5 20.0 3 4 75.0 0 4 4 4 0 0 2 1 -
+p83
+aVDana Barros BOS 04/07/1996 BOS vs. DET W 13 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 4 1 0 1 0 -
+p84
+aVRick Fox BOS 04/04/1996 BOS @ ORL W 40 16 8 18 44.4 0 3 0.0 0 0 - 3 3 6 5 1 1 2 4 -
+p85
+aVAlton Lister BOS 04/04/1996 BOS @ ORL W 17 5 1 1 100.0 0 0 - 3 4 75.0 2 3 5 2 0 1 2 1 -
+p86
+aVDee Brown BOS 04/04/1996 BOS @ ORL W 32 15 6 10 60.0 2 6 33.3 1 2 50.0 2 1 3 6 3 0 1 3 -
+p87
+aVPervis Ellison BOS 04/04/1996 BOS @ ORL W 33 13 6 9 66.7 0 0 - 1 3 33.3 0 7 7 0 1 6 0 1 -
+p88
+aVDana Barros BOS 04/04/1996 BOS @ ORL W 20 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 2 1 0 0 0 -
+p89
+aVGreg Minor BOS 04/04/1996 BOS @ ORL W 22 14 7 11 63.6 0 1 0.0 0 0 - 0 0 0 1 0 1 1 3 -
+p90
+aVEric Williams BOS 04/04/1996 BOS @ ORL W 24 3 1 6 16.7 0 0 - 1 2 50.0 0 0 0 2 0 0 2 1 -
+p91
+aVTodd Day BOS 04/04/1996 BOS @ ORL W 23 4 1 9 11.1 0 4 0.0 2 2 100.0 1 3 4 5 3 1 0 5 -
+p92
+aVDavid Wesley BOS 04/04/1996 BOS @ ORL W 29 22 9 11 81.8 3 3 100.0 1 3 33.3 2 5 7 3 1 0 4 1 -
+p93
+aVGreg Minor BOS 04/02/1996 BOS @ ATL L 29 18 9 15 60.0 0 0 - 0 0 - 2 2 4 3 1 0 3 2 -
+p94
+aVDana Barros BOS 04/02/1996 BOS @ ATL L 23 12 4 9 44.4 3 7 42.9 1 2 50.0 1 3 4 1 0 0 0 0 -
+p95
+aVJunior Burrough BOS 04/02/1996 BOS @ ATL L 8 6 3 4 75.0 0 0 - 0 1 0.0 2 0 2 1 0 0 0 0 -
+p96
+aVRick Fox BOS 04/02/1996 BOS @ ATL L 32 4 1 10 10.0 0 2 0.0 2 2 100.0 3 0 3 2 0 0 0 2 -
+p97
+aVTodd Mundt BOS 04/02/1996 BOS @ ATL L 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p98
+aVEric Williams BOS 04/02/1996 BOS @ ATL L 26 10 4 12 33.3 0 0 - 2 4 50.0 3 2 5 1 4 0 2 3 -
+p99
+aVAlton Lister BOS 04/02/1996 BOS @ ATL L 14 2 1 2 50.0 0 0 - 0 0 - 0 7 7 0 0 0 1 3 -
+p100
+aVTodd Day BOS 04/02/1996 BOS @ ATL L 23 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 0 2 2 4 2 -
+p101
+aVThomas Hamilton BOS 04/02/1996 BOS @ ATL L 6 2 0 1 0.0 0 0 - 2 4 50.0 0 2 2 1 0 2 1 1 -
+p102
+aVDee Brown BOS 04/02/1996 BOS @ ATL L 26 6 3 11 27.3 0 5 0.0 0 0 - 2 2 4 3 1 0 2 1 -
+p103
+aVPervis Ellison BOS 04/02/1996 BOS @ ATL L 22 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 1 2 3 1 -
+p104
+aVDavid Wesley BOS 04/02/1996 BOS @ ATL L 27 11 5 8 62.5 0 2 0.0 1 2 50.0 0 3 3 4 1 0 2 4 -
+p105
+aVGreg Minor BOS 03/31/1996 BOS vs. ATL L 26 15 6 10 60.0 0 1 0.0 3 4 75.0 1 3 4 3 1 0 2 2 -
+p106
+aVEric Williams BOS 03/31/1996 BOS vs. ATL L 34 11 5 13 38.5 0 0 - 1 1 100.0 2 1 3 0 0 1 2 1 -
+p107
+aVAlton Lister BOS 03/31/1996 BOS vs. ATL L 33 2 1 1 100.0 0 0 - 0 0 - 3 11 14 1 0 3 3 4 -
+p108
+aVTodd Mundt BOS 03/31/1996 BOS vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p109
+aVJunior Burrough BOS 03/31/1996 BOS vs. ATL L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p110
+aVTodd Day BOS 03/31/1996 BOS vs. ATL L 17 13 5 11 45.5 1 3 33.3 2 2 100.0 1 5 6 0 1 1 0 2 -
+p111
+aVDavid Wesley BOS 03/31/1996 BOS vs. ATL L 44 21 7 19 36.8 1 4 25.0 6 6 100.0 1 4 5 9 2 0 2 4 -
+p112
+aVDana Barros BOS 03/31/1996 BOS vs. ATL L 10 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 2 0 0 0 0 -
+p113
+aVDee Brown BOS 03/31/1996 BOS vs. ATL L 25 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 2 4 -
+p114
+aVRick Fox BOS 03/31/1996 BOS vs. ATL L 43 18 7 15 46.7 3 3 100.0 1 2 50.0 6 3 9 9 2 2 1 3 -
+p115
+aVAlton Lister BOS 03/29/1996 BOS @ PHL W 35 4 2 5 40.0 0 0 - 0 0 - 2 13 15 0 0 3 0 4 -
+p116
+aVEric Williams BOS 03/29/1996 BOS @ PHL W 37 31 12 18 66.7 0 0 - 7 10 70.0 5 4 9 4 1 1 4 2 -
+p117
+aVJunior Burrough BOS 03/29/1996 BOS @ PHL W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p118
+aVDee Brown BOS 03/29/1996 BOS @ PHL W 21 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 1 0 0 1 2 -
+p119
+aVGreg Minor BOS 03/29/1996 BOS @ PHL W 33 18 8 15 53.3 0 0 - 2 3 66.7 3 4 7 2 1 0 2 1 -
+p120
+aVTodd Day BOS 03/29/1996 BOS @ PHL W 17 7 1 7 14.3 1 6 16.7 4 5 80.0 1 0 1 0 1 0 1 4 -
+p121
+aVRick Fox BOS 03/29/1996 BOS @ PHL W 35 21 5 14 35.7 1 5 20.0 10 12 83.3 5 3 8 3 1 2 6 1 -
+p122
+aVDana Barros BOS 03/29/1996 BOS @ PHL W 22 2 0 4 0.0 0 3 0.0 2 2 100.0 0 0 0 4 0 0 0 0 -
+p123
+aVDavid Wesley BOS 03/29/1996 BOS @ PHL W 31 11 5 9 55.6 1 2 50.0 0 1 0.0 0 2 2 9 2 0 1 3 -
+p124
+aVThomas Hamilton BOS 03/29/1996 BOS @ PHL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p125
+aVThomas Hamilton BOS 03/27/1996 BOS @ MIN W 1 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p126
+aVAlton Lister BOS 03/27/1996 BOS @ MIN W 19 10 4 5 80.0 0 0 - 2 2 100.0 3 7 10 1 1 0 0 1 -
+p127
+aVEric Williams BOS 03/27/1996 BOS @ MIN W 26 12 5 12 41.7 0 0 - 2 4 50.0 1 2 3 0 1 0 1 3 -
+p128
+aVRick Fox BOS 03/27/1996 BOS @ MIN W 41 26 10 21 47.6 1 5 20.0 5 6 83.3 4 4 8 4 1 1 2 4 -
+p129
+aVTodd Day BOS 03/27/1996 BOS @ MIN W 30 16 6 11 54.5 2 2 100.0 2 3 66.7 1 2 3 2 4 2 1 3 -
+p130
+aVDee Brown BOS 03/27/1996 BOS @ MIN W 32 17 6 14 42.9 3 6 50.0 2 2 100.0 0 0 0 2 2 0 2 1 -
+p131
+aVJunior Burrough BOS 03/27/1996 BOS @ MIN W 6 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 1 0 1 1 -
+p132
+aVDana Barros BOS 03/27/1996 BOS @ MIN W 25 7 3 8 37.5 1 6 16.7 0 0 - 0 0 0 4 0 0 3 4 -
+p133
+aVGreg Minor BOS 03/27/1996 BOS @ MIN W 16 11 4 6 66.7 0 0 - 3 4 75.0 4 0 4 0 0 0 0 2 -
+p134
+aVDavid Wesley BOS 03/27/1996 BOS @ MIN W 44 20 7 15 46.7 3 4 75.0 3 3 100.0 4 2 6 9 1 0 4 4 -
+p135
+aVEric Williams BOS 03/26/1996 BOS @ IND L 21 9 4 7 57.1 0 0 - 1 2 50.0 1 2 3 0 0 0 3 4 -
+p136
+aVDee Brown BOS 03/26/1996 BOS @ IND L 17 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 1 -
+p137
+aVTodd Mundt BOS 03/26/1996 BOS @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -
+p138
+aVTodd Day BOS 03/26/1996 BOS @ IND L 28 22 8 18 44.4 2 7 28.6 4 4 100.0 1 3 4 2 0 0 0 1 -
+p139
+aVAlton Lister BOS 03/26/1996 BOS @ IND L 24 5 2 4 50.0 0 0 - 1 2 50.0 6 4 10 0 0 0 2 1 -
+p140
+aVDavid Wesley BOS 03/26/1996 BOS @ IND L 38 27 10 18 55.6 5 11 45.5 2 2 100.0 2 1 3 4 0 0 4 3 -
+p141
+aVThomas Hamilton BOS 03/26/1996 BOS @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p142
+aVPervis Ellison BOS 03/26/1996 BOS @ IND L 26 2 1 6 16.7 0 0 - 0 0 - 1 9 10 1 0 0 0 5 -
+p143
+aVGreg Minor BOS 03/26/1996 BOS @ IND L 17 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 3 1 0 0 3 -
+p144
+aVRick Fox BOS 03/26/1996 BOS @ IND L 29 10 4 10 40.0 1 3 33.3 1 2 50.0 0 3 3 5 3 1 0 6 -
+p145
+aVDana Barros BOS 03/26/1996 BOS @ IND L 26 16 5 11 45.5 3 5 60.0 3 4 75.0 2 1 3 2 2 0 0 2 -
+p146
+aVJunior Burrough BOS 03/26/1996 BOS @ IND L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p147
+aVAlton Lister BOS 03/24/1996 BOS vs. MIA L 19 3 1 5 20.0 0 0 - 1 2 50.0 4 6 10 1 1 0 1 5 -
+p148
+aVEric Williams BOS 03/24/1996 BOS vs. MIA L 27 13 5 14 35.7 0 0 - 3 4 75.0 4 0 4 2 0 0 0 1 -
+p149
+aVRick Fox BOS 03/24/1996 BOS vs. MIA L 30 8 4 11 36.4 0 2 0.0 0 2 0.0 0 6 6 2 1 0 1 4 -
+p150
+aVTodd Mundt BOS 03/24/1996 BOS vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p151
+aVDavid Wesley BOS 03/24/1996 BOS vs. MIA L 35 24 8 13 61.5 1 2 50.0 7 8 87.5 2 1 3 2 0 1 3 2 -
+p152
+aVPervis Ellison BOS 03/24/1996 BOS vs. MIA L 35 9 4 11 36.4 0 0 - 1 2 50.0 5 6 11 1 2 4 2 4 -
+p153
+aVDana Barros BOS 03/24/1996 BOS vs. MIA L 24 7 2 6 33.3 2 3 66.7 1 1 100.0 0 2 2 1 0 0 2 2 -
+p154
+aVJunior Burrough BOS 03/24/1996 BOS vs. MIA L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -
+p155
+aVDee Brown BOS 03/24/1996 BOS vs. MIA L 17 11 4 10 40.0 2 6 33.3 1 2 50.0 1 0 1 0 0 0 0 1 -
+p156
+aVTodd Day BOS 03/24/1996 BOS vs. MIA L 22 12 5 14 35.7 0 4 0.0 2 2 100.0 3 1 4 2 1 0 2 3 -
+p157
+aVGreg Minor BOS 03/24/1996 BOS vs. MIA L 21 8 3 10 30.0 0 0 - 2 2 100.0 2 2 4 2 1 0 0 3 -
+p158
+aVTodd Day BOS 03/22/1996 BOS vs. DEN W 7 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -
+p159
+aVGreg Minor BOS 03/22/1996 BOS vs. DEN W 33 24 9 13 69.2 0 0 - 6 6 100.0 4 3 7 2 2 0 0 0 -
+p160
+aVEric Williams BOS 03/22/1996 BOS vs. DEN W 11 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 4 -
+p161
+aVDavid Wesley BOS 03/22/1996 BOS vs. DEN W 41 24 6 19 31.6 3 7 42.9 9 12 75.0 2 3 5 9 0 1 4 0 -
+p162
+aVPervis Ellison BOS 03/22/1996 BOS vs. DEN W 35 14 4 7 57.1 0 0 - 6 7 85.7 1 4 5 3 0 1 0 3 -
+p163
+aVDee Brown BOS 03/22/1996 BOS vs. DEN W 27 9 3 9 33.3 1 3 33.3 2 2 100.0 2 2 4 2 1 0 0 4 -
+p164
+aVAlton Lister BOS 03/22/1996 BOS vs. DEN W 23 6 2 2 100.0 0 0 - 2 4 50.0 3 10 13 0 0 2 2 3 -
+p165
+aVRick Fox BOS 03/22/1996 BOS vs. DEN W 31 10 4 11 36.4 1 6 16.7 1 2 50.0 0 2 2 3 2 0 1 3 -
+p166
+aVDana Barros BOS 03/22/1996 BOS vs. DEN W 17 6 2 5 40.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 2 -
+p167
+aVJunior Burrough BOS 03/22/1996 BOS vs. DEN W 15 3 1 2 50.0 0 0 - 1 4 25.0 0 1 1 1 0 1 2 2 -
+p168
+aVGreg Minor BOS 03/20/1996 BOS vs. ORL L 26 4 2 5 40.0 0 0 - 0 0 - 3 2 5 3 0 0 0 1 -
+p169
+aVDavid Wesley BOS 03/20/1996 BOS vs. ORL L 38 22 7 14 50.0 3 5 60.0 5 6 83.3 1 0 1 7 2 0 3 4 -
+p170
+aVDana Barros BOS 03/20/1996 BOS vs. ORL L 20 7 3 8 37.5 1 2 50.0 0 0 - 0 1 1 1 0 0 1 0 -
+p171
+aVPervis Ellison BOS 03/20/1996 BOS vs. ORL L 30 4 2 8 25.0 0 0 - 0 0 - 3 10 13 1 1 3 1 4 -
+p172
+aVDee Brown BOS 03/20/1996 BOS vs. ORL L 17 12 6 12 50.0 0 2 0.0 0 0 - 0 2 2 3 2 0 0 1 -
+p173
+aVThomas Hamilton BOS 03/20/1996 BOS vs. ORL L 9 3 1 4 25.0 0 0 - 1 4 25.0 0 1 1 0 0 2 1 1 -
+p174
+aVTodd Day BOS 03/20/1996 BOS vs. ORL L 23 5 2 9 22.2 0 2 0.0 1 1 100.0 1 3 4 1 1 1 1 2 -
+p175
+aVRick Fox BOS 03/20/1996 BOS vs. ORL L 23 12 5 12 41.7 0 2 0.0 2 2 100.0 1 2 3 3 2 1 3 3 -
+p176
+aVEric Montross BOS 03/20/1996 BOS vs. ORL L 7 6 3 5 60.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -
+p177
+aVEric Williams BOS 03/20/1996 BOS vs. ORL L 23 10 4 13 30.8 0 0 - 2 6 33.3 3 2 5 0 1 0 0 1 -
+p178
+aVJunior Burrough BOS 03/20/1996 BOS vs. ORL L 14 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 0 1 0 2 1 -
+p179
+aVAlton Lister BOS 03/20/1996 BOS vs. ORL L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -
+p180
+aVEric Montross BOS 03/17/1996 BOS vs. NJN W 42 16 8 14 57.1 0 0 - 0 2 0.0 5 7 12 1 0 3 2 4 -
+p181
+aVEric Williams BOS 03/17/1996 BOS vs. NJN W 36 25 11 18 61.1 0 0 - 3 6 50.0 5 4 9 1 2 0 2 3 -
+p182
+aVGreg Minor BOS 03/17/1996 BOS vs. NJN W 28 11 5 11 45.5 0 0 - 1 2 50.0 0 2 2 6 0 0 0 4 -
+p183
+aVDavid Wesley BOS 03/17/1996 BOS vs. NJN W 47 17 6 18 33.3 2 5 40.0 3 6 50.0 3 6 9 9 4 0 1 5 -
+p184
+aVDana Barros BOS 03/17/1996 BOS vs. NJN W 51 10 3 15 20.0 2 8 25.0 2 3 66.7 0 4 4 8 1 0 3 2 -
+p185
+aVJunior Burrough BOS 03/17/1996 BOS vs. NJN W 16 8 3 6 50.0 0 0 - 2 3 66.7 1 2 3 0 1 0 3 2 -
+p186
+aVAlton Lister BOS 03/17/1996 BOS vs. NJN W 7 0 0 0 - 0 0 - 0 0 - 0 5 5 0 0 0 2 2 -
+p187
+aVTodd Day BOS 03/17/1996 BOS vs. NJN W 27 10 3 14 21.4 2 5 40.0 2 2 100.0 1 2 3 0 2 0 3 4 -
+p188
+aVPervis Ellison BOS 03/17/1996 BOS vs. NJN W 25 8 3 3 100.0 0 0 - 2 3 66.7 5 6 11 0 1 2 2 5 -
+p189
+aVThomas Hamilton BOS 03/17/1996 BOS vs. NJN W 11 2 0 5 0.0 0 0 - 2 2 100.0 1 1 2 0 0 2 1 0 -
+p190
+aVEric Montross BOS 03/14/1996 BOS @ CLE L 24 11 5 6 83.3 0 0 - 1 1 100.0 2 6 8 0 0 0 2 1 -
+p191
+aVTodd Day BOS 03/14/1996 BOS @ CLE L 20 7 3 12 25.0 1 5 20.0 0 0 - 3 2 5 2 1 0 3 4 -
+p192
+aVGreg Minor BOS 03/14/1996 BOS @ CLE L 34 4 2 9 22.2 0 1 0.0 0 0 - 1 5 6 2 1 1 4 2 -
+p193
+aVJunior Burrough BOS 03/14/1996 BOS @ CLE L 18 10 4 8 50.0 0 0 - 2 4 50.0 1 2 3 0 0 1 0 1 -
+p194
+aVRick Fox BOS 03/14/1996 BOS @ CLE L 23 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 4 1 0 3 1 -
+p195
+aVDavid Wesley BOS 03/14/1996 BOS @ CLE L 32 16 6 10 60.0 2 4 50.0 2 4 50.0 0 7 7 5 2 0 1 2 -
+p196
+aVDana Barros BOS 03/14/1996 BOS @ CLE L 26 6 2 6 33.3 1 3 33.3 1 1 100.0 0 2 2 2 0 0 1 1 -
+p197
+aVAlton Lister BOS 03/14/1996 BOS @ CLE L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -
+p198
+aVEric Williams BOS 03/14/1996 BOS @ CLE L 33 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 3 0 0 1 4 -
+p199
+aVDoug Smith BOS 03/14/1996 BOS @ CLE L 22 5 2 7 28.6 0 0 - 1 2 50.0 0 3 3 2 0 0 0 3 -
+p200
+aVEric Montross BOS 03/13/1996 BOS vs. PHL W 27 9 3 3 100.0 0 0 - 3 4 75.0 2 7 9 1 0 1 2 5 -
+p201
+aVEric Williams BOS 03/13/1996 BOS vs. PHL W 23 4 1 5 20.0 0 0 - 2 3 66.7 1 2 3 2 1 0 2 2 -
+p202
+aVDana Barros BOS 03/13/1996 BOS vs. PHL W 29 15 5 12 41.7 2 6 33.3 3 3 100.0 0 1 1 5 3 0 1 2 -
+p203
+aVRick Fox BOS 03/13/1996 BOS vs. PHL W 28 21 8 11 72.7 2 4 50.0 3 5 60.0 1 3 4 0 3 1 8 4 -
+p204
+aVDavid Wesley BOS 03/13/1996 BOS vs. PHL W 38 20 5 14 35.7 3 8 37.5 7 7 100.0 1 3 4 8 2 0 2 4 -
+p205
+aVDoug Smith BOS 03/13/1996 BOS vs. PHL W 17 4 2 4 50.0 0 0 - 0 0 - 4 1 5 0 1 0 1 2 -
+p206
+aVTodd Day BOS 03/13/1996 BOS vs. PHL W 31 23 7 21 33.3 3 8 37.5 6 7 85.7 3 4 7 1 0 2 0 3 -
+p207
+aVAlton Lister BOS 03/13/1996 BOS vs. PHL W 9 2 0 2 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 3 -
+p208
+aVJunior Burrough BOS 03/13/1996 BOS vs. PHL W 10 0 0 1 0.0 0 0 - 0 2 0.0 1 3 4 0 0 1 0 0 -
+p209
+aVGreg Minor BOS 03/13/1996 BOS vs. PHL W 28 12 6 16 37.5 0 1 0.0 0 1 0.0 4 5 9 2 0 0 0 3 -
+p210
+aVGreg Minor BOS 03/10/1996 BOS @ MIL W 30 13 4 10 40.0 0 0 - 5 6 83.3 3 2 5 1 0 0 0 1 -
+p211
+aVAlton Lister BOS 03/10/1996 BOS @ MIL W 11 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 1 0 2 -
+p212
+aVEric Williams BOS 03/10/1996 BOS @ MIL W 20 13 5 9 55.6 0 0 - 3 5 60.0 2 2 4 0 0 0 1 2 -
+p213
+aVDavid Wesley BOS 03/10/1996 BOS @ MIL W 43 17 6 10 60.0 1 1 100.0 4 4 100.0 2 4 6 8 0 0 6 4 -
+p214
+aVDana Barros BOS 03/10/1996 BOS @ MIL W 34 11 4 12 33.3 1 4 25.0 2 3 66.7 2 4 6 4 1 0 3 3 -
+p215
+aVTodd Day BOS 03/10/1996 BOS @ MIL W 38 28 10 20 50.0 4 8 50.0 4 9 44.4 3 5 8 2 1 0 2 2 -
+p216
+aVEric Montross BOS 03/10/1996 BOS @ MIL W 15 12 6 7 85.7 0 0 - 0 1 0.0 3 2 5 0 1 2 2 4 -
+p217
+aVPervis Ellison BOS 03/10/1996 BOS @ MIL W 20 6 3 4 75.0 0 0 - 0 2 0.0 1 4 5 0 1 1 0 5 -
+p218
+aVRick Fox BOS 03/10/1996 BOS @ MIL W 29 9 3 6 50.0 0 0 - 3 5 60.0 1 4 5 7 2 0 3 3 -
+p219
+aVEric Montross BOS 03/08/1996 BOS vs. CLE L 21 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 2 1 -
+p220
+aVDavid Wesley BOS 03/08/1996 BOS vs. CLE L 43 21 7 13 53.8 2 2 100.0 5 6 83.3 3 1 4 8 2 0 3 2 -
+p221
+aVAlton Lister BOS 03/08/1996 BOS vs. CLE L 5 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 2 2 2 -
+p222
+aVTodd Day BOS 03/08/1996 BOS vs. CLE L 19 7 3 10 30.0 1 5 20.0 0 0 - 0 1 1 4 0 1 0 5 -
+p223
+aVPervis Ellison BOS 03/08/1996 BOS vs. CLE L 25 7 3 4 75.0 0 0 - 1 2 50.0 1 5 6 0 0 1 2 4 -
+p224
+aVGreg Minor BOS 03/08/1996 BOS vs. CLE L 25 8 4 11 36.4 0 1 0.0 0 2 0.0 2 3 5 3 0 0 2 1 -
+p225
+aVRick Fox BOS 03/08/1996 BOS vs. CLE L 41 14 5 12 41.7 2 5 40.0 2 2 100.0 1 6 7 4 2 1 3 4 -
+p226
+aVDana Barros BOS 03/08/1996 BOS vs. CLE L 32 17 6 14 42.9 4 8 50.0 1 1 100.0 0 2 2 4 2 0 0 2 -
+p227
+aVEric Williams BOS 03/08/1996 BOS vs. CLE L 29 11 3 5 60.0 0 0 - 5 5 100.0 1 4 5 0 0 0 1 2 -
+p228
+aVDavid Wesley BOS 03/06/1996 BOS vs. LAC W 28 12 1 8 12.5 0 3 0.0 10 12 83.3 0 3 3 8 0 0 1 2 -
+p229
+aVDoug Smith BOS 03/06/1996 BOS vs. LAC W 4 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 1 0 2 0 -
+p230
+aVPervis Ellison BOS 03/06/1996 BOS vs. LAC W 21 8 4 6 66.7 0 0 - 0 2 0.0 4 2 6 3 2 2 2 2 -
+p231
+aVAlton Lister BOS 03/06/1996 BOS vs. LAC W 12 4 2 2 100.0 0 0 - 0 1 0.0 0 4 4 0 0 0 1 3 -
+p232
+aVRick Fox BOS 03/06/1996 BOS vs. LAC W 28 7 2 7 28.6 1 4 25.0 2 2 100.0 1 3 4 5 1 0 2 3 -
+p233
+aVEric Montross BOS 03/06/1996 BOS vs. LAC W 36 15 6 8 75.0 0 0 - 3 4 75.0 3 12 15 1 0 1 3 4 -
+p234
+aVEric Williams BOS 03/06/1996 BOS vs. LAC W 24 6 2 5 40.0 0 0 - 2 4 50.0 0 0 0 3 0 0 0 2 -
+p235
+aVJunior Burrough BOS 03/06/1996 BOS vs. LAC W 9 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -
+p236
+aVTodd Day BOS 03/06/1996 BOS vs. LAC W 23 17 6 13 46.2 2 3 66.7 3 4 75.0 0 3 3 0 2 0 1 1 -
+p237
+aVGreg Minor BOS 03/06/1996 BOS vs. LAC W 32 20 8 11 72.7 0 0 - 4 5 80.0 2 4 6 2 0 1 2 2 -
+p238
+aVDana Barros BOS 03/06/1996 BOS vs. LAC W 23 14 6 9 66.7 2 3 66.7 0 0 - 0 2 2 2 1 0 3 1 -
+p239
+aVPervis Ellison BOS 03/04/1996 BOS vs. MIL W 28 10 5 6 83.3 0 0 - 0 0 - 4 8 12 0 2 2 2 4 -
+p240
+aVDana Barros BOS 03/04/1996 BOS vs. MIL W 29 23 8 13 61.5 0 3 0.0 7 7 100.0 0 1 1 2 1 0 1 0 -
+p241
+aVDavid Wesley BOS 03/04/1996 BOS vs. MIL W 39 9 3 9 33.3 0 2 0.0 3 5 60.0 1 4 5 9 3 1 2 1 -
+p242
+aVEric Williams BOS 03/04/1996 BOS vs. MIL W 25 14 3 5 60.0 0 0 - 8 12 66.7 1 6 7 1 0 0 1 4 -
+p243
+aVTodd Day BOS 03/04/1996 BOS vs. MIL W 20 11 1 7 14.3 0 2 0.0 9 12 75.0 0 2 2 0 1 0 2 3 -
+p244
+aVDoug Smith BOS 03/04/1996 BOS vs. MIL W 3 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -
+p245
+aVGreg Minor BOS 03/04/1996 BOS vs. MIL W 24 10 5 10 50.0 0 0 - 0 0 - 1 2 3 3 0 0 1 2 -
+p246
+aVAlton Lister BOS 03/04/1996 BOS vs. MIL W 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 0 1 0 1 -
+p247
+aVEric Montross BOS 03/04/1996 BOS vs. MIL W 25 4 2 5 40.0 0 0 - 0 2 0.0 0 5 5 0 0 0 1 3 -
+p248
+aVRick Fox BOS 03/04/1996 BOS vs. MIL W 39 22 8 18 44.4 6 8 75.0 0 0 - 1 4 5 4 2 0 4 4 -
+p249
+aVAlton Lister BOS 03/02/1996 BOS @ CHI L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -
+p250
+aVEric Montross BOS 03/02/1996 BOS @ CHI L 21 10 5 9 55.6 0 0 - 0 2 0.0 4 2 6 0 0 1 1 2 -
+p251
+aVRick Fox BOS 03/02/1996 BOS @ CHI L 23 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 4 2 0 4 3 -
+p252
+aVDana Barros BOS 03/02/1996 BOS @ CHI L 29 12 6 11 54.5 0 1 0.0 0 0 - 0 3 3 3 1 0 0 0 -
+p253
+aVEric Williams BOS 03/02/1996 BOS @ CHI L 30 10 5 11 45.5 0 0 - 0 0 - 1 2 3 0 1 0 2 1 -
+p254
+aVTodd Day BOS 03/02/1996 BOS @ CHI L 26 11 5 12 41.7 1 3 33.3 0 2 0.0 0 2 2 4 1 0 1 1 -
+p255
+aVDoug Smith BOS 03/02/1996 BOS @ CHI L 13 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -
+p256
+aVDavid Wesley BOS 03/02/1996 BOS @ CHI L 30 9 3 8 37.5 0 4 0.0 3 4 75.0 0 2 2 3 1 0 1 4 -
+p257
+aVJunior Burrough BOS 03/02/1996 BOS @ CHI L 11 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 2 0 3 1 -
+p258
+aVPervis Ellison BOS 03/02/1996 BOS @ CHI L 28 4 2 7 28.6 0 0 - 0 0 - 5 6 11 1 0 0 1 2 -
+p259
+aVGreg Minor BOS 03/02/1996 BOS @ CHI L 21 9 3 11 27.3 1 2 50.0 2 2 100.0 0 1 1 2 1 0 5 1 -
+p260
+aVDana Barros BOS 03/01/1996 BOS vs. SEA L 28 5 1 4 25.0 1 3 33.3 2 3 66.7 0 5 5 2 1 0 0 2 -
+p261
+aVTodd Day BOS 03/01/1996 BOS vs. SEA L 31 18 4 15 26.7 4 9 44.4 6 6 100.0 1 1 2 1 1 1 3 5 -
+p262
+aVEric Williams BOS 03/01/1996 BOS vs. SEA L 25 14 7 14 50.0 0 0 - 0 1 0.0 2 3 5 3 3 0 0 1 -
+p263
+aVJunior Burrough BOS 03/01/1996 BOS vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p264
+aVEric Montross BOS 03/01/1996 BOS vs. SEA L 31 2 1 7 14.3 0 0 - 0 2 0.0 0 3 3 0 0 1 1 2 -
+p265
+aVGreg Minor BOS 03/01/1996 BOS vs. SEA L 20 9 4 7 57.1 1 1 100.0 0 0 - 1 2 3 0 0 0 0 2 -
+p266
+aVRick Fox BOS 03/01/1996 BOS vs. SEA L 34 16 6 15 40.0 1 7 14.3 3 4 75.0 5 6 11 8 0 0 4 3 -
+p267
+aVDoug Smith BOS 03/01/1996 BOS vs. SEA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p268
+aVPervis Ellison BOS 03/01/1996 BOS vs. SEA L 29 10 5 7 71.4 0 0 - 0 0 - 3 3 6 0 1 2 2 5 -
+p269
+aVAlton Lister BOS 03/01/1996 BOS vs. SEA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p270
+aVDavid Wesley BOS 03/01/1996 BOS vs. SEA L 35 20 7 15 46.7 4 6 66.7 2 2 100.0 2 6 8 5 2 0 3 4 -
+p271
+aVDavid Wesley BOS 02/28/1996 BOS vs. CHH W 40 33 11 15 73.3 4 6 66.7 7 10 70.0 0 6 6 7 3 0 8 5 -
+p272
+aVDino Radja BOS 02/28/1996 BOS vs. CHH W 33 16 5 11 45.5 0 0 - 6 9 66.7 1 5 6 2 1 1 1 3 -
+p273
+aVPervis Ellison BOS 02/28/1996 BOS vs. CHH W 43 8 2 5 40.0 0 0 - 4 4 100.0 6 14 20 5 2 6 6 2 -
+p274
+aVGreg Minor BOS 02/28/1996 BOS vs. CHH W 18 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 4 0 0 0 2 -
+p275
+aVEric Williams BOS 02/28/1996 BOS vs. CHH W 28 8 4 7 57.1 0 0 - 0 0 - 1 0 1 2 1 0 2 1 -
+p276
+aVEric Montross BOS 02/28/1996 BOS vs. CHH W 18 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 1 2 3 -
+p277
+aVDana Barros BOS 02/28/1996 BOS vs. CHH W 30 14 4 11 36.4 3 6 50.0 3 3 100.0 0 2 2 3 2 0 0 4 -
+p278
+aVJunior Burrough BOS 02/28/1996 BOS vs. CHH W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 -
+p279
+aVTodd Day BOS 02/28/1996 BOS vs. CHH W 15 13 4 6 66.7 1 1 100.0 4 8 50.0 1 2 3 1 1 0 1 2 -
+p280
+aVRick Fox BOS 02/28/1996 BOS vs. CHH W 37 16 6 15 40.0 2 7 28.6 2 3 66.7 0 3 3 2 1 0 5 6 -
+p281
+aVPervis Ellison BOS 02/26/1996 BOS vs. IND L 19 2 1 4 25.0 0 0 - 0 0 - 3 3 6 2 2 1 0 3 -
+p282
+aVDana Barros BOS 02/26/1996 BOS vs. IND L 26 14 5 10 50.0 2 3 66.7 2 3 66.7 0 1 1 3 0 0 2 3 -
+p283
+aVTodd Day BOS 02/26/1996 BOS vs. IND L 23 8 2 6 33.3 1 1 100.0 3 6 50.0 1 5 6 1 1 2 1 1 -
+p284
+aVDino Radja BOS 02/26/1996 BOS vs. IND L 44 33 12 20 60.0 0 0 - 9 14 64.3 2 6 8 0 1 2 2 5 -
+p285
+aVDavid Wesley BOS 02/26/1996 BOS vs. IND L 37 23 7 11 63.6 3 3 100.0 6 10 60.0 1 2 3 10 4 0 3 3 -
+p286
+aVAlton Lister BOS 02/26/1996 BOS vs. IND L 6 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 1 0 2 1 -
+p287
+aVRick Fox BOS 02/26/1996 BOS vs. IND L 34 19 7 11 63.6 2 5 40.0 3 3 100.0 2 4 6 5 2 0 5 5 -
+p288
+aVEric Montross BOS 02/26/1996 BOS vs. IND L 31 4 2 5 40.0 0 0 - 0 2 0.0 2 5 7 2 2 0 3 4 -
+p289
+aVDee Brown BOS 02/26/1996 BOS vs. IND L 24 9 3 9 33.3 1 3 33.3 2 2 100.0 0 0 0 2 3 2 3 3 -
+p290
+aVEric Williams BOS 02/26/1996 BOS vs. IND L 6 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -
+p291
+aVGreg Minor BOS 02/26/1996 BOS vs. IND L 15 4 2 4 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 3 -
+p292
+aVJunior Burrough BOS 02/25/1996 BOS @ NJN L 4 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -
+p293
+aVEric Williams BOS 02/25/1996 BOS @ NJN L 22 12 5 17 29.4 0 0 - 2 4 50.0 2 1 3 0 0 0 2 1 -
+p294
+aVGreg Minor BOS 02/25/1996 BOS @ NJN L 20 9 4 6 66.7 1 1 100.0 0 0 - 2 1 3 1 0 0 2 2 -
+p295
+aVAlton Lister BOS 02/25/1996 BOS @ NJN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p296
+aVDavid Wesley BOS 02/25/1996 BOS @ NJN L 33 12 4 7 57.1 3 4 75.0 1 4 25.0 1 4 5 13 1 0 1 5 -
+p297
+aVRick Fox BOS 02/25/1996 BOS @ NJN L 28 11 5 13 38.5 1 4 25.0 0 0 - 2 5 7 5 1 0 2 5 -
+p298
+aVDana Barros BOS 02/25/1996 BOS @ NJN L 28 9 3 6 50.0 1 3 33.3 2 3 66.7 0 1 1 3 0 0 1 1 -
+p299
+aVEric Montross BOS 02/25/1996 BOS @ NJN L 21 9 4 6 66.7 0 0 - 1 2 50.0 1 3 4 1 0 1 2 2 -
+p300
+aVDino Radja BOS 02/25/1996 BOS @ NJN L 40 22 8 17 47.1 0 0 - 6 8 75.0 4 12 16 2 1 2 2 1 -
+p301
+aVPervis Ellison BOS 02/25/1996 BOS @ NJN L 20 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 2 1 2 0 1 -
+p302
+aVDee Brown BOS 02/25/1996 BOS @ NJN L 18 7 2 7 28.6 0 2 0.0 3 3 100.0 0 1 1 1 0 0 1 1 -
+p303
+aVTodd Day BOS 02/25/1996 BOS @ NJN L 5 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -
+p304
+aVGreg Minor BOS 02/21/1996 BOS @ PHX L 28 10 4 9 44.4 0 0 - 2 2 100.0 1 1 2 1 0 0 2 2 -
+p305
+aVDee Brown BOS 02/21/1996 BOS @ PHX L 22 17 7 13 53.8 3 5 60.0 0 0 - 0 1 1 1 5 0 1 1 -
+p306
+aVJunior Burrough BOS 02/21/1996 BOS @ PHX L 2 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -
+p307
+aVTodd Day BOS 02/21/1996 BOS @ PHX L 15 7 2 9 22.2 1 2 50.0 2 2 100.0 0 2 2 1 0 0 0 1 -
+p308
+aVDino Radja BOS 02/21/1996 BOS @ PHX L 25 2 1 9 11.1 0 0 - 0 0 - 1 3 4 0 0 1 0 5 -
+p309
+aVEric Williams BOS 02/21/1996 BOS @ PHX L 25 4 1 6 16.7 1 1 100.0 1 4 25.0 0 1 1 2 2 1 1 3 -
+p310
+aVDana Barros BOS 02/21/1996 BOS @ PHX L 22 18 8 12 66.7 2 4 50.0 0 0 - 1 0 1 4 0 0 0 2 -
+p311
+aVAlton Lister BOS 02/21/1996 BOS @ PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p312
+aVEric Montross BOS 02/21/1996 BOS @ PHX L 20 10 4 7 57.1 0 0 - 2 3 66.7 2 1 3 2 0 0 0 1 -
+p313
+aVDavid Wesley BOS 02/21/1996 BOS @ PHX L 25 14 4 9 44.4 2 2 100.0 4 6 66.7 0 1 1 10 2 0 2 4 -
+p314
+aVPervis Ellison BOS 02/21/1996 BOS @ PHX L 21 9 4 7 57.1 0 0 - 1 2 50.0 4 5 9 1 0 0 0 1 -
+p315
+aVRick Fox BOS 02/21/1996 BOS @ PHX L 32 14 5 12 41.7 3 8 37.5 1 1 100.0 2 0 2 5 1 0 2 5 -
+p316
+aVRick Fox BOS 02/20/1996 BOS @ UTH L 22 14 5 6 83.3 4 4 100.0 0 0 - 1 1 2 2 1 0 2 3 -
+p317
+aVPervis Ellison BOS 02/20/1996 BOS @ UTH L 10 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 0 0 2 5 -
+p318
+aVDavid Wesley BOS 02/20/1996 BOS @ UTH L 26 10 4 11 36.4 0 2 0.0 2 3 66.7 1 1 2 3 1 0 2 1 -
+p319
+aVTodd Day BOS 02/20/1996 BOS @ UTH L 11 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 -
+p320
+aVEric Montross BOS 02/20/1996 BOS @ UTH L 25 4 2 5 40.0 0 0 - 0 1 0.0 0 4 4 2 1 0 2 1 -
+p321
+aVJunior Burrough BOS 02/20/1996 BOS @ UTH L 12 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 2 0 -
+p322
+aVAlton Lister BOS 02/20/1996 BOS @ UTH L 10 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 2 0 0 0 1 -
+p323
+aVDee Brown BOS 02/20/1996 BOS @ UTH L 21 10 3 8 37.5 0 1 0.0 4 4 100.0 0 0 0 2 3 0 1 1 -
+p324
+aVDana Barros BOS 02/20/1996 BOS @ UTH L 24 16 7 11 63.6 2 2 100.0 0 0 - 0 0 0 2 2 0 0 3 -
+p325
+aVGreg Minor BOS 02/20/1996 BOS @ UTH L 24 15 6 11 54.5 1 2 50.0 2 4 50.0 0 2 2 1 0 0 1 1 -
+p326
+aVDino Radja BOS 02/20/1996 BOS @ UTH L 29 10 5 12 41.7 0 0 - 0 0 - 1 8 9 3 0 0 2 3 -
+p327
+aVEric Williams BOS 02/20/1996 BOS @ UTH L 26 10 3 8 37.5 0 0 - 4 6 66.7 5 1 6 1 1 0 2 2 -
+p328
+aVRick Fox BOS 02/18/1996 BOS @ DEN L 33 10 4 9 44.4 0 3 0.0 2 2 100.0 1 2 3 3 0 1 2 3 -
+p329
+aVDana Barros BOS 02/18/1996 BOS @ DEN L 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -
+p330
+aVGreg Minor BOS 02/18/1996 BOS @ DEN L 24 8 4 9 44.4 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -
+p331
+aVTodd Day BOS 02/18/1996 BOS @ DEN L 16 2 0 1 0.0 0 1 0.0 2 2 100.0 0 2 2 1 1 0 2 3 -
+p332
+aVAlton Lister BOS 02/18/1996 BOS @ DEN L 3 2 1 1 100.0 0 0 - 0 1 0.0 1 0 1 0 0 0 0 1 -
+p333
+aVPervis Ellison BOS 02/18/1996 BOS @ DEN L 10 0 0 1 0.0 0 0 - 0 0 - 1 4 5 3 0 2 2 1 -
+p334
+aVJunior Burrough BOS 02/18/1996 BOS @ DEN L 8 5 1 2 50.0 0 0 - 3 4 75.0 0 0 0 1 0 0 0 2 -
+p335
+aVDee Brown BOS 02/18/1996 BOS @ DEN L 12 1 0 4 0.0 0 3 0.0 1 2 50.0 0 0 0 2 0 1 1 0 -
+p336
+aVEric Williams BOS 02/18/1996 BOS @ DEN L 30 19 6 11 54.5 0 0 - 7 9 77.8 0 2 2 2 2 0 0 2 -
+p337
+aVDavid Wesley BOS 02/18/1996 BOS @ DEN L 33 19 6 13 46.2 2 7 28.6 5 8 62.5 2 4 6 6 0 0 2 3 -
+p338
+aVDino Radja BOS 02/18/1996 BOS @ DEN L 33 17 8 18 44.4 0 0 - 1 1 100.0 4 6 10 3 1 0 5 3 -
+p339
+aVEric Montross BOS 02/18/1996 BOS @ DEN L 21 8 3 7 42.9 0 0 - 2 6 33.3 1 3 4 0 0 0 2 2 -
+p340
+aVDavid Wesley BOS 02/16/1996 BOS @ SAC W 30 12 3 7 42.9 2 4 50.0 4 4 100.0 0 2 2 6 3 0 2 3 -
+p341
+aVRick Fox BOS 02/16/1996 BOS @ SAC W 30 20 6 10 60.0 6 10 60.0 2 3 66.7 0 5 5 6 1 0 5 4 -
+p342
+aVGreg Minor BOS 02/16/1996 BOS @ SAC W 23 10 3 7 42.9 0 0 - 4 6 66.7 1 3 4 7 0 0 1 2 -
+p343
+aVAlton Lister BOS 02/16/1996 BOS @ SAC W 8 1 0 0 - 0 0 - 1 2 50.0 0 3 3 0 0 2 0 2 -
+p344
+aVJunior Burrough BOS 02/16/1996 BOS @ SAC W 7 6 1 2 50.0 0 0 - 4 4 100.0 0 1 1 0 0 0 0 1 -
+p345
+aVDana Barros BOS 02/16/1996 BOS @ SAC W 19 12 5 8 62.5 1 2 50.0 1 1 100.0 1 4 5 0 1 1 1 0 -
+p346
+aVEric Williams BOS 02/16/1996 BOS @ SAC W 27 21 8 12 66.7 0 0 - 5 10 50.0 2 6 8 3 3 0 2 1 -
+p347
+aVDee Brown BOS 02/16/1996 BOS @ SAC W 20 10 3 9 33.3 0 3 0.0 4 4 100.0 0 5 5 6 2 2 2 3 -
+p348
+aVTodd Day BOS 02/16/1996 BOS @ SAC W 22 3 1 7 14.3 1 5 20.0 0 0 - 1 1 2 4 1 2 1 3 -
+p349
+aVDino Radja BOS 02/16/1996 BOS @ SAC W 36 31 12 16 75.0 0 0 - 7 8 87.5 1 6 7 1 3 2 1 3 -
+p350
+aVEric Montross BOS 02/16/1996 BOS @ SAC W 18 4 2 4 50.0 0 0 - 0 5 0.0 1 1 2 0 1 0 0 3 -
+p351
+aVDee Brown BOS 02/14/1996 BOS @ GOS L 26 13 6 15 40.0 1 3 33.3 0 0 - 0 0 0 3 0 0 1 1 -
+p352
+aVTodd Day BOS 02/14/1996 BOS @ GOS L 11 6 1 5 20.0 1 2 50.0 3 4 75.0 0 2 2 2 0 1 1 0 -
+p353
+aVPervis Ellison BOS 02/14/1996 BOS @ GOS L 15 0 0 0 - 0 0 - 0 0 - 1 4 5 2 0 1 2 0 -
+p354
+aVEric Montross BOS 02/14/1996 BOS @ GOS L 21 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p355
+aVDino Radja BOS 02/14/1996 BOS @ GOS L 37 14 7 18 38.9 0 0 - 0 1 0.0 3 7 10 1 0 1 0 2 -
+p356
+aVDana Barros BOS 02/14/1996 BOS @ GOS L 31 15 5 13 38.5 4 10 40.0 1 1 100.0 0 5 5 5 3 0 0 1 -
+p357
+aVAlton Lister BOS 02/14/1996 BOS @ GOS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p358
+aVGreg Minor BOS 02/14/1996 BOS @ GOS L 21 16 7 11 63.6 0 0 - 2 4 50.0 5 3 8 1 0 0 1 4 -
+p359
+aVEric Williams BOS 02/14/1996 BOS @ GOS L 23 9 3 6 50.0 0 0 - 3 5 60.0 1 3 4 1 0 1 3 3 -
+p360
+aVDavid Wesley BOS 02/14/1996 BOS @ GOS L 13 10 3 5 60.0 3 3 100.0 1 2 50.0 1 2 3 3 2 0 0 5 -
+p361
+aVRick Fox BOS 02/14/1996 BOS @ GOS L 38 14 4 12 33.3 3 6 50.0 3 4 75.0 3 3 6 9 3 1 5 4 -
+p362
+aVDee Brown BOS 02/13/1996 BOS @ LAC W 23 20 7 11 63.6 1 3 33.3 5 6 83.3 1 1 2 2 1 0 0 0 -
+p363
+aVDana Barros BOS 02/13/1996 BOS @ LAC W 24 14 6 9 66.7 2 4 50.0 0 0 - 0 1 1 0 0 0 1 1 -
+p364
+aVTodd Day BOS 02/13/1996 BOS @ LAC W 7 2 1 6 16.7 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -
+p365
+aVGreg Minor BOS 02/13/1996 BOS @ LAC W 19 9 3 4 75.0 0 0 - 3 5 60.0 1 1 2 0 0 0 1 0 -
+p366
+aVRick Fox BOS 02/13/1996 BOS @ LAC W 29 6 2 8 25.0 0 3 0.0 2 2 100.0 1 3 4 4 1 0 1 1 -
+p367
+aVDavid Wesley BOS 02/13/1996 BOS @ LAC W 29 22 9 16 56.3 1 2 50.0 3 3 100.0 2 4 6 1 1 0 2 2 -
+p368
+aVEric Montross BOS 02/13/1996 BOS @ LAC W 20 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 4 -
+p369
+aVPervis Ellison BOS 02/13/1996 BOS @ LAC W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 1 0 1 -
+p370
+aVDino Radja BOS 02/13/1996 BOS @ LAC W 38 16 6 14 42.9 0 0 - 4 7 57.1 2 9 11 1 0 0 0 2 -
+p371
+aVEric Williams BOS 02/13/1996 BOS @ LAC W 26 15 6 13 46.2 0 0 - 3 4 75.0 1 2 3 1 0 0 0 2 -
+p372
+aVAlton Lister BOS 02/13/1996 BOS @ LAC W 13 0 0 1 0.0 0 0 - 0 0 - 0 5 5 0 1 1 3 2 -
+p373
+aVDana Barros BOS 02/07/1996 BOS vs. SAN L 24 9 3 5 60.0 1 2 50.0 2 2 100.0 0 1 1 5 0 0 2 1 -
+p374
+aVDino Radja BOS 02/07/1996 BOS vs. SAN L 38 24 11 19 57.9 0 0 - 2 2 100.0 1 9 10 1 2 4 0 5 -
+p375
+aVDavid Wesley BOS 02/07/1996 BOS vs. SAN L 29 7 3 9 33.3 1 4 25.0 0 0 - 0 4 4 5 3 0 4 1 -
+p376
+aVGreg Minor BOS 02/07/1996 BOS vs. SAN L 33 13 6 10 60.0 0 0 - 1 2 50.0 2 7 9 2 3 0 2 3 -
+p377
+aVTodd Day BOS 02/07/1996 BOS vs. SAN L 19 0 0 8 0.0 0 3 0.0 0 0 - 0 1 1 2 2 0 1 2 -
+p378
+aVDee Brown BOS 02/07/1996 BOS vs. SAN L 10 7 3 10 30.0 1 4 25.0 0 0 - 0 0 0 1 0 0 1 1 -
+p379
+aVAlton Lister BOS 02/07/1996 BOS vs. SAN L 10 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -
+p380
+aVPervis Ellison BOS 02/07/1996 BOS vs. SAN L 12 9 4 6 66.7 0 0 - 1 1 100.0 1 2 3 1 0 1 2 2 -
+p381
+aVEric Williams BOS 02/07/1996 BOS vs. SAN L 25 10 3 9 33.3 0 1 0.0 4 4 100.0 3 0 3 0 1 0 0 3 -
+p382
+aVRick Fox BOS 02/07/1996 BOS vs. SAN L 22 6 3 5 60.0 0 0 - 0 0 - 0 3 3 4 1 0 7 4 -
+p383
+aVEric Montross BOS 02/07/1996 BOS vs. SAN L 18 2 1 4 25.0 0 0 - 0 0 - 1 4 5 1 0 0 2 0 -
+p384
+aVEric Williams BOS 02/06/1996 BOS @ CLE L 19 3 1 6 16.7 0 0 - 1 2 50.0 3 0 3 3 1 0 2 4 -
+p385
+aVDee Brown BOS 02/06/1996 BOS @ CLE L 19 8 4 12 33.3 0 2 0.0 0 0 - 0 0 0 2 2 0 1 2 -
+p386
+aVDino Radja BOS 02/06/1996 BOS @ CLE L 23 7 3 8 37.5 0 0 - 1 1 100.0 2 3 5 1 1 1 1 0 -
+p387
+aVGreg Minor BOS 02/06/1996 BOS @ CLE L 21 7 3 6 50.0 0 0 - 1 2 50.0 3 5 8 0 0 0 2 3 -
+p388
+aVRick Fox BOS 02/06/1996 BOS @ CLE L 27 6 1 3 33.3 0 1 0.0 4 6 66.7 0 9 9 4 0 0 6 1 -
+p389
+aVDana Barros BOS 02/06/1996 BOS @ CLE L 21 5 1 5 20.0 0 2 0.0 3 3 100.0 1 1 2 4 0 0 0 2 -
+p390
+aVEric Montross BOS 02/06/1996 BOS @ CLE L 24 4 2 4 50.0 0 0 - 0 2 0.0 1 5 6 1 0 1 1 1 -
+p391
+aVTodd Day BOS 02/06/1996 BOS @ CLE L 24 14 4 12 33.3 1 3 33.3 5 5 100.0 0 1 1 1 0 2 1 2 -
+p392
+aVPervis Ellison BOS 02/06/1996 BOS @ CLE L 34 4 2 6 33.3 0 0 - 0 0 - 5 4 9 2 0 2 1 5 -
+p393
+aVDavid Wesley BOS 02/06/1996 BOS @ CLE L 25 11 4 10 40.0 0 2 0.0 3 4 75.0 1 6 7 3 0 0 0 4 -
+p394
+aVJunior Burrough BOS 02/06/1996 BOS @ CLE L 3 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p395
+aVGreg Minor BOS 02/03/1996 BOS @ MIA W 14 5 2 7 28.6 0 0 - 1 2 50.0 2 2 4 1 0 0 0 1 -
+p396
+aVEric Williams BOS 02/03/1996 BOS @ MIA W 29 18 5 15 33.3 0 0 - 8 10 80.0 3 2 5 1 2 0 1 0 -
+p397
+aVDee Brown BOS 02/03/1996 BOS @ MIA W 29 8 3 10 30.0 0 3 0.0 2 2 100.0 0 2 2 3 1 0 1 2 -
+p398
+aVDavid Wesley BOS 02/03/1996 BOS @ MIA W 14 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 3 0 0 2 4 -
+p399
+aVAlton Lister BOS 02/03/1996 BOS @ MIA W 9 2 1 1 100.0 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -
+p400
+aVPervis Ellison BOS 02/03/1996 BOS @ MIA W 26 7 2 5 40.0 0 0 - 3 3 100.0 5 3 8 0 0 2 1 2 -
+p401
+aVDana Barros BOS 02/03/1996 BOS @ MIA W 37 17 6 10 60.0 3 4 75.0 2 2 100.0 0 2 2 5 0 0 0 0 -
+p402
+aVRick Fox BOS 02/03/1996 BOS @ MIA W 32 19 7 17 41.2 0 3 0.0 5 6 83.3 2 7 9 4 0 0 2 5 -
+p403
+aVTodd Day BOS 02/03/1996 BOS @ MIA W 22 5 1 9 11.1 0 0 - 3 4 75.0 0 2 2 0 2 2 1 1 -
+p404
+aVEric Montross BOS 02/03/1996 BOS @ MIA W 28 12 5 8 62.5 0 0 - 2 3 66.7 4 2 6 0 0 0 0 4 -
+p405
+aVEric Montross BOS 02/02/1996 BOS @ IND L 29 10 5 7 71.4 0 0 - 0 2 0.0 1 2 3 1 3 0 0 4 -
+p406
+aVAlton Lister BOS 02/02/1996 BOS @ IND L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -
+p407
+aVGreg Minor BOS 02/02/1996 BOS @ IND L 15 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -
+p408
+aVJunior Burrough BOS 02/02/1996 BOS @ IND L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -
+p409
+aVTodd Day BOS 02/02/1996 BOS @ IND L 31 22 8 15 53.3 2 4 50.0 4 6 66.7 1 1 2 3 1 0 2 2 -
+p410
+aVDavid Wesley BOS 02/02/1996 BOS @ IND L 25 12 5 8 62.5 0 2 0.0 2 4 50.0 0 1 1 5 1 0 2 1 -
+p411
+aVEric Williams BOS 02/02/1996 BOS @ IND L 23 13 4 7 57.1 1 1 100.0 4 6 66.7 2 2 4 0 0 0 1 4 -
+p412
+aVPervis Ellison BOS 02/02/1996 BOS @ IND L 27 4 1 4 25.0 0 0 - 2 4 50.0 1 8 9 4 2 1 2 6 -
+p413
+aVDana Barros BOS 02/02/1996 BOS @ IND L 28 19 6 9 66.7 3 4 75.0 4 4 100.0 0 0 0 4 1 0 1 2 -
+p414
+aVDee Brown BOS 02/02/1996 BOS @ IND L 15 7 3 7 42.9 1 4 25.0 0 0 - 0 1 1 2 0 0 1 2 -
+p415
+aVRick Fox BOS 02/02/1996 BOS @ IND L 35 16 5 12 41.7 1 3 33.3 5 6 83.3 1 5 6 5 3 0 0 3 -
+p416
+aVAlton Lister BOS 01/31/1996 BOS vs. VAN W 16 8 2 5 40.0 0 0 - 4 5 80.0 3 6 9 1 0 0 1 2 -
+p417
+aVTodd Day BOS 01/31/1996 BOS vs. VAN W 23 24 6 10 60.0 3 3 100.0 9 11 81.8 3 3 6 1 2 1 0 3 -
+p418
+aVEric Williams BOS 01/31/1996 BOS vs. VAN W 31 17 7 15 46.7 0 0 - 3 5 60.0 4 3 7 4 3 0 1 3 -
+p419
+aVDana Barros BOS 01/31/1996 BOS vs. VAN W 26 13 4 7 57.1 3 5 60.0 2 2 100.0 0 5 5 3 1 0 0 1 -
+p420
+aVRick Fox BOS 01/31/1996 BOS vs. VAN W 25 9 3 11 27.3 1 4 25.0 2 2 100.0 1 4 5 10 0 0 1 3 -
+p421
+aVDee Brown BOS 01/31/1996 BOS vs. VAN W 23 7 2 6 33.3 1 3 33.3 2 2 100.0 0 3 3 6 3 1 1 0 -
+p422
+aVPervis Ellison BOS 01/31/1996 BOS vs. VAN W 18 11 5 8 62.5 0 0 - 1 1 100.0 5 7 12 0 1 4 2 4 -
+p423
+aVDavid Wesley BOS 01/31/1996 BOS vs. VAN W 24 16 7 11 63.6 1 2 50.0 1 2 50.0 0 1 1 4 1 1 1 2 -
+p424
+aVGreg Minor BOS 01/31/1996 BOS vs. VAN W 24 12 6 12 50.0 0 0 - 0 0 - 0 3 3 3 0 1 2 5 -
+p425
+aVJunior Burrough BOS 01/31/1996 BOS vs. VAN W 9 10 5 8 62.5 0 0 - 0 0 - 1 1 2 0 0 2 2 2 -
+p426
+aVEric Montross BOS 01/31/1996 BOS vs. VAN W 21 4 1 5 20.0 0 0 - 2 4 50.0 1 4 5 2 1 0 1 5 -
+p427
+aVRick Fox BOS 01/30/1996 BOS @ ORL L 38 22 8 14 57.1 4 8 50.0 2 2 100.0 4 6 10 2 1 0 4 4 -
+p428
+aVDavid Wesley BOS 01/30/1996 BOS @ ORL L 19 10 3 6 50.0 2 3 66.7 2 2 100.0 1 3 4 2 1 0 3 2 -
+p429
+aVEric Montross BOS 01/30/1996 BOS @ ORL L 15 3 1 8 12.5 0 0 - 1 2 50.0 3 0 3 1 0 0 0 3 -
+p430
+aVDana Barros BOS 01/30/1996 BOS @ ORL L 24 9 3 7 42.9 1 3 33.3 2 2 100.0 1 3 4 5 2 0 2 0 -
+p431
+aVTodd Day BOS 01/30/1996 BOS @ ORL L 29 26 8 20 40.0 3 10 30.0 7 7 100.0 1 0 1 0 3 0 1 4 -
+p432
+aVDee Brown BOS 01/30/1996 BOS @ ORL L 28 2 1 9 11.1 0 4 0.0 0 1 0.0 4 4 8 4 2 0 1 2 -
+p433
+aVPervis Ellison BOS 01/30/1996 BOS @ ORL L 21 4 2 4 50.0 0 0 - 0 0 - 4 1 5 2 1 1 1 3 -
+p434
+aVEric Williams BOS 01/30/1996 BOS @ ORL L 20 10 2 8 25.0 0 0 - 6 7 85.7 0 1 1 1 0 0 1 5 -
+p435
+aVDino Radja BOS 01/30/1996 BOS @ ORL L 42 13 6 17 35.3 0 0 - 1 2 50.0 0 11 11 0 1 1 1 3 -
+p436
+aVAlton Lister BOS 01/30/1996 BOS @ ORL L 4 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -
+p437
+aVPervis Ellison BOS 01/26/1996 BOS vs. IND L 25 3 1 3 33.3 0 0 - 1 2 50.0 4 5 9 1 2 5 2 3 -
+p438
+aVEric Williams BOS 01/26/1996 BOS vs. IND L 23 11 2 8 25.0 0 1 0.0 7 9 77.8 0 1 1 1 0 0 1 2 -
+p439
+aVJunior Burrough BOS 01/26/1996 BOS vs. IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p440
+aVEric Montross BOS 01/26/1996 BOS vs. IND L 19 6 3 6 50.0 0 0 - 0 2 0.0 5 0 5 0 0 0 0 3 -
+p441
+aVAlton Lister BOS 01/26/1996 BOS vs. IND L 5 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -
+p442
+aVRick Fox BOS 01/26/1996 BOS vs. IND L 32 8 3 6 50.0 1 3 33.3 1 2 50.0 3 3 6 5 3 1 2 5 -
+p443
+aVDana Barros BOS 01/26/1996 BOS vs. IND L 31 10 4 10 40.0 2 5 40.0 0 1 0.0 0 3 3 3 0 0 4 0 -
+p444
+aVTodd Day BOS 01/26/1996 BOS vs. IND L 25 7 3 12 25.0 1 4 25.0 0 0 - 2 2 4 0 1 1 2 1 -
+p445
+aVDavid Wesley BOS 01/26/1996 BOS vs. IND L 14 6 2 5 40.0 1 1 100.0 1 1 100.0 0 0 0 4 0 0 2 1 -
+p446
+aVDino Radja BOS 01/26/1996 BOS vs. IND L 38 26 12 23 52.2 0 0 - 2 8 25.0 3 4 7 0 0 1 0 4 -
+p447
+aVDee Brown BOS 01/26/1996 BOS vs. IND L 25 13 5 9 55.6 2 5 40.0 1 1 100.0 1 0 1 4 1 0 3 1 -
+p448
+aVEric Montross BOS 01/24/1996 BOS vs. LAL L 22 6 3 5 60.0 0 0 - 0 0 - 3 2 5 1 1 0 2 2 -
+p449
+aVTodd Day BOS 01/24/1996 BOS vs. LAL L 28 14 6 12 50.0 1 4 25.0 1 2 50.0 0 1 1 2 1 0 1 4 -
+p450
+aVDino Radja BOS 01/24/1996 BOS vs. LAL L 39 28 12 19 63.2 0 0 - 4 8 50.0 0 12 12 2 1 3 2 2 -
+p451
+aVDavid Wesley BOS 01/24/1996 BOS vs. LAL L 25 4 1 5 20.0 0 2 0.0 2 2 100.0 1 1 2 4 0 0 3 2 -
+p452
+aVDoug Smith BOS 01/24/1996 BOS vs. LAL L 4 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 -
+p453
+aVDana Barros BOS 01/24/1996 BOS vs. LAL L 26 8 4 6 66.7 0 2 0.0 0 0 - 0 1 1 3 0 0 1 0 -
+p454
+aVJunior Burrough BOS 01/24/1996 BOS vs. LAL L 5 4 0 2 0.0 0 0 - 4 6 66.7 1 2 3 0 0 0 0 2 -
+p455
+aVGreg Minor BOS 01/24/1996 BOS vs. LAL L 7 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p456
+aVPervis Ellison BOS 01/24/1996 BOS vs. LAL L 18 3 1 4 25.0 0 0 - 1 1 100.0 0 5 5 3 0 1 0 4 -
+p457
+aVAlton Lister BOS 01/24/1996 BOS vs. LAL L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -
+p458
+aVRick Fox BOS 01/24/1996 BOS vs. LAL L 33 11 3 7 42.9 1 3 33.3 4 4 100.0 0 4 4 10 1 1 5 2 -
+p459
+aVDee Brown BOS 01/24/1996 BOS vs. LAL L 30 17 6 12 50.0 2 6 33.3 3 5 60.0 2 2 4 3 1 0 4 1 -
+p460
+aVDino Radja BOS 01/21/1996 BOS @ TOR L 35 17 7 14 50.0 0 0 - 3 4 75.0 4 10 14 0 0 0 1 1 -
+p461
+aVDavid Wesley BOS 01/21/1996 BOS @ TOR L 25 5 2 8 25.0 1 5 20.0 0 0 - 0 1 1 3 2 0 3 3 -
+p462
+aVDana Barros BOS 01/21/1996 BOS @ TOR L 28 12 4 10 40.0 1 5 20.0 3 3 100.0 0 2 2 2 0 0 2 1 -
+p463
+aVRick Fox BOS 01/21/1996 BOS @ TOR L 43 20 8 17 47.1 0 0 - 4 5 80.0 6 4 10 8 2 1 3 3 -
+p464
+aVAlton Lister BOS 01/21/1996 BOS @ TOR L 6 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 1 1 1 -
+p465
+aVEric Montross BOS 01/21/1996 BOS @ TOR L 29 10 5 8 62.5 0 0 - 0 2 0.0 2 5 7 2 1 2 3 2 -
+p466
+aVJunior Burrough BOS 01/21/1996 BOS @ TOR L 7 4 1 2 50.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 0 -
+p467
+aVTodd Day BOS 01/21/1996 BOS @ TOR L 23 12 5 15 33.3 0 4 0.0 2 3 66.7 1 1 2 2 1 1 0 3 -
+p468
+aVDee Brown BOS 01/21/1996 BOS @ TOR L 20 10 4 10 40.0 2 6 33.3 0 0 - 0 0 0 0 1 0 1 1 -
+p469
+aVPervis Ellison BOS 01/21/1996 BOS @ TOR L 18 5 2 3 66.7 0 0 - 1 2 50.0 2 5 7 0 2 2 1 2 -
+p470
+aVGreg Minor BOS 01/21/1996 BOS @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p471
+aVDana Barros BOS 01/19/1996 BOS @ DAL L 30 18 7 10 70.0 2 4 50.0 2 2 100.0 0 3 3 5 0 0 1 6 -
+p472
+aVDoug Smith BOS 01/19/1996 BOS @ DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 3 2 -
+p473
+aVTodd Day BOS 01/19/1996 BOS @ DAL L 24 8 3 10 30.0 1 3 33.3 1 2 50.0 2 3 5 4 2 3 1 4 -
+p474
+aVGreg Minor BOS 01/19/1996 BOS @ DAL L 15 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p475
+aVDino Radja BOS 01/19/1996 BOS @ DAL L 38 21 9 16 56.3 0 0 - 3 5 60.0 1 6 7 1 0 2 2 2 -
+p476
+aVEric Montross BOS 01/19/1996 BOS @ DAL L 22 9 4 6 66.7 0 0 - 1 5 20.0 1 4 5 0 0 0 2 1 -
+p477
+aVDavid Wesley BOS 01/19/1996 BOS @ DAL L 29 25 9 16 56.3 5 8 62.5 2 2 100.0 1 1 2 2 2 0 3 5 -
+p478
+aVDee Brown BOS 01/19/1996 BOS @ DAL L 18 11 4 7 57.1 3 5 60.0 0 0 - 0 1 1 2 0 0 2 5 -
+p479
+aVPervis Ellison BOS 01/19/1996 BOS @ DAL L 23 8 3 3 100.0 0 0 - 2 2 100.0 2 5 7 2 0 1 1 2 -
+p480
+aVRick Fox BOS 01/19/1996 BOS @ DAL L 38 18 8 16 50.0 0 2 0.0 2 3 66.7 3 5 8 8 1 2 4 6 -
+p481
+aVRick Fox BOS 01/18/1996 BOS @ HOU W 30 16 8 12 66.7 0 0 - 0 0 - 2 3 5 9 0 2 3 4 -
+p482
+aVDino Radja BOS 01/18/1996 BOS @ HOU W 35 23 9 17 52.9 0 0 - 5 7 71.4 1 7 8 3 4 3 2 0 -
+p483
+aVTodd Day BOS 01/18/1996 BOS @ HOU W 27 12 4 12 33.3 2 8 25.0 2 2 100.0 1 4 5 3 2 0 1 0 -
+p484
+aVPervis Ellison BOS 01/18/1996 BOS @ HOU W 21 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 2 1 3 -
+p485
+aVDee Brown BOS 01/18/1996 BOS @ HOU W 25 14 6 12 50.0 0 3 0.0 2 2 100.0 1 1 2 3 0 0 0 2 -
+p486
+aVEric Montross BOS 01/18/1996 BOS @ HOU W 22 10 5 9 55.6 0 0 - 0 0 - 3 4 7 0 0 1 2 5 -
+p487
+aVDavid Wesley BOS 01/18/1996 BOS @ HOU W 22 11 4 7 57.1 2 2 100.0 1 4 25.0 0 4 4 5 1 1 2 1 -
+p488
+aVGreg Minor BOS 01/18/1996 BOS @ HOU W 23 8 4 10 40.0 0 0 - 0 0 - 4 2 6 6 0 1 0 3 -
+p489
+aVDana Barros BOS 01/18/1996 BOS @ HOU W 31 10 3 7 42.9 1 2 50.0 3 4 75.0 0 2 2 2 0 0 2 1 -
+p490
+aVAlton Lister BOS 01/18/1996 BOS @ HOU W 4 2 1 2 50.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 2 -
+p491
+aVDee Brown BOS 01/16/1996 BOS @ SAN L 23 11 4 8 50.0 3 6 50.0 0 0 - 1 0 1 0 0 0 0 1 -
+p492
+aVDana Barros BOS 01/16/1996 BOS @ SAN L 33 22 9 14 64.3 4 6 66.7 0 0 - 0 0 0 7 1 0 1 0 -
+p493
+aVJunior Burrough BOS 01/16/1996 BOS @ SAN L 12 2 0 5 0.0 0 0 - 2 2 100.0 1 3 4 1 1 0 0 1 -
+p494
+aVTodd Day BOS 01/16/1996 BOS @ SAN L 15 2 1 9 11.1 0 3 0.0 0 0 - 0 1 1 1 0 1 1 2 -
+p495
+aVDino Radja BOS 01/16/1996 BOS @ SAN L 31 13 5 13 38.5 0 0 - 3 4 75.0 0 3 3 0 0 0 3 1 -
+p496
+aVEric Montross BOS 01/16/1996 BOS @ SAN L 33 18 9 12 75.0 0 0 - 0 0 - 1 7 8 1 0 0 2 3 -
+p497
+aVGreg Minor BOS 01/16/1996 BOS @ SAN L 18 8 4 6 66.7 0 0 - 0 0 - 1 0 1 2 2 0 1 4 -
+p498
+aVDavid Wesley BOS 01/16/1996 BOS @ SAN L 23 6 3 5 60.0 0 1 0.0 0 0 - 1 3 4 5 4 0 0 2 -
+p499
+aVDoug Smith BOS 01/16/1996 BOS @ SAN L 2 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 1 -
+p500
+aVRick Fox BOS 01/16/1996 BOS @ SAN L 35 11 4 10 40.0 0 4 0.0 3 4 75.0 1 4 5 10 1 1 1 3 -
+p501
+aVPervis Ellison BOS 01/16/1996 BOS @ SAN L 15 3 0 1 0.0 0 0 - 3 4 75.0 0 4 4 0 0 1 1 5 -
+p502
+aVEric Montross BOS 01/13/1996 BOS @ ATL L 18 6 3 3 100.0 0 0 - 0 0 - 3 1 4 0 0 0 0 4 -
+p503
+aVDavid Wesley BOS 01/13/1996 BOS @ ATL L 31 16 5 11 45.5 1 2 50.0 5 5 100.0 2 3 5 7 2 0 3 3 -
+p504
+aVDino Radja BOS 01/13/1996 BOS @ ATL L 43 19 6 11 54.5 0 0 - 7 8 87.5 2 8 10 3 0 2 2 5 -
+p505
+aVEric Williams BOS 01/13/1996 BOS @ ATL L 15 13 3 6 50.0 0 0 - 7 8 87.5 1 1 2 0 0 0 2 2 -
+p506
+aVRick Fox BOS 01/13/1996 BOS @ ATL L 30 17 6 13 46.2 3 4 75.0 2 2 100.0 2 4 6 0 2 0 6 1 -
+p507
+aVPervis Ellison BOS 01/13/1996 BOS @ ATL L 30 9 4 6 66.7 0 0 - 1 2 50.0 1 7 8 2 0 1 1 2 -
+p508
+aVDee Brown BOS 01/13/1996 BOS @ ATL L 13 8 2 4 50.0 2 3 66.7 2 2 100.0 0 2 2 0 0 0 1 0 -
+p509
+aVTodd Day BOS 01/13/1996 BOS @ ATL L 26 11 3 8 37.5 2 7 28.6 3 4 75.0 0 1 1 1 2 0 0 4 -
+p510
+aVDana Barros BOS 01/13/1996 BOS @ ATL L 17 0 0 7 0.0 0 4 0.0 0 0 - 0 0 0 2 0 0 2 0 -
+p511
+aVGreg Minor BOS 01/13/1996 BOS @ ATL L 17 6 3 5 60.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 -
+p512
+aVDana Barros BOS 01/12/1996 BOS vs. NYK L 33 8 2 12 16.7 0 9 0.0 4 4 100.0 0 2 2 6 0 0 2 3 -
+p513
+aVDavid Wesley BOS 01/12/1996 BOS vs. NYK L 18 5 2 8 25.0 1 2 50.0 0 0 - 1 1 2 3 0 0 1 1 -
+p514
+aVPervis Ellison BOS 01/12/1996 BOS vs. NYK L 17 8 4 6 66.7 0 0 - 0 1 0.0 2 6 8 1 1 1 0 4 -
+p515
+aVDino Radja BOS 01/12/1996 BOS vs. NYK L 39 24 10 20 50.0 0 0 - 4 6 66.7 2 9 11 0 0 1 5 3 -
+p516
+aVEric Williams BOS 01/12/1996 BOS vs. NYK L 13 5 1 5 20.0 0 0 - 3 4 75.0 1 0 1 0 1 0 2 1 -
+p517
+aVEric Montross BOS 01/12/1996 BOS vs. NYK L 32 6 3 6 50.0 0 0 - 0 0 - 4 7 11 1 0 0 1 4 -
+p518
+aVDee Brown BOS 01/12/1996 BOS vs. NYK L 20 6 2 5 40.0 2 2 100.0 0 1 0.0 1 3 4 0 1 0 3 0 -
+p519
+aVRick Fox BOS 01/12/1996 BOS vs. NYK L 27 14 6 15 40.0 2 6 33.3 0 0 - 3 6 9 5 0 0 3 4 -
+p520
+aVGreg Minor BOS 01/12/1996 BOS vs. NYK L 11 6 2 4 50.0 0 1 0.0 2 2 100.0 0 0 0 1 1 0 0 0 -
+p521
+aVTodd Day BOS 01/12/1996 BOS vs. NYK L 29 10 2 9 22.2 0 4 0.0 6 6 100.0 1 2 3 1 3 0 2 4 -
+p522
+aVDoug Smith BOS 01/12/1996 BOS vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p523
+aVEric Williams BOS 01/10/1996 BOS vs. SAC W 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 1 5 -
+p524
+aVRick Fox BOS 01/10/1996 BOS vs. SAC W 41 19 6 13 46.2 1 3 33.3 6 7 85.7 1 1 2 6 4 0 4 5 -
+p525
+aVDana Barros BOS 01/10/1996 BOS vs. SAC W 37 22 9 12 75.0 1 2 50.0 3 4 75.0 0 4 4 7 2 0 1 0 -
+p526
+aVJunior Burrough BOS 01/10/1996 BOS vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p527
+aVDavid Wesley BOS 01/10/1996 BOS vs. SAC W 25 5 2 6 33.3 1 5 20.0 0 1 0.0 1 5 6 6 1 0 1 4 -
+p528
+aVPervis Ellison BOS 01/10/1996 BOS vs. SAC W 18 3 1 3 33.3 0 0 - 1 2 50.0 0 5 5 0 2 1 0 2 -
+p529
+aVEric Montross BOS 01/10/1996 BOS vs. SAC W 17 6 2 2 100.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 1 -
+p530
+aVGreg Minor BOS 01/10/1996 BOS vs. SAC W 22 20 7 10 70.0 0 0 - 6 6 100.0 2 1 3 1 0 0 0 1 -
+p531
+aVDino Radja BOS 01/10/1996 BOS vs. SAC W 39 25 9 22 40.9 0 0 - 7 8 87.5 4 6 10 2 1 3 2 2 -
+p532
+aVTodd Day BOS 01/10/1996 BOS vs. SAC W 9 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 0 0 0 3 0 -
+p533
+aVDee Brown BOS 01/10/1996 BOS vs. SAC W 20 9 3 6 50.0 3 5 60.0 0 0 - 0 0 0 2 3 0 0 4 -
+p534
+aVTodd Day BOS 01/09/1996 BOS @ NYK L 20 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 0 0 1 0 2 -
+p535
+aVDavid Wesley BOS 01/09/1996 BOS @ NYK L 12 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 3 1 0 1 2 -
+p536
+aVJunior Burrough BOS 01/09/1996 BOS @ NYK L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p537
+aVEric Williams BOS 01/09/1996 BOS @ NYK L 18 8 2 6 33.3 0 0 - 4 7 57.1 2 1 3 0 2 0 3 0 -
+p538
+aVEric Montross BOS 01/09/1996 BOS @ NYK L 19 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -
+p539
+aVRick Fox BOS 01/09/1996 BOS @ NYK L 30 20 7 13 53.8 0 3 0.0 6 7 85.7 2 3 5 5 0 0 3 5 -
+p540
+aVDee Brown BOS 01/09/1996 BOS @ NYK L 30 9 4 14 28.6 1 4 25.0 0 0 - 2 1 3 2 3 0 1 1 -
+p541
+aVDana Barros BOS 01/09/1996 BOS @ NYK L 37 17 7 12 58.3 3 6 50.0 0 0 - 0 0 0 7 2 0 0 0 -
+p542
+aVGreg Minor BOS 01/09/1996 BOS @ NYK L 17 7 3 6 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 1 1 -
+p543
+aVPervis Ellison BOS 01/09/1996 BOS @ NYK L 15 0 0 2 0.0 0 0 - 0 0 - 1 4 5 1 1 0 1 5 -
+p544
+aVDino Radja BOS 01/09/1996 BOS @ NYK L 37 18 9 17 52.9 0 0 - 0 0 - 1 11 12 0 0 0 1 2 -
+p545
+aVTodd Day BOS 01/07/1996 BOS vs. DAL L 11 1 0 4 0.0 0 1 0.0 1 3 33.3 0 0 0 0 0 0 0 3 -
+p546
+aVGreg Minor BOS 01/07/1996 BOS vs. DAL L 12 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p547
+aVJunior Burrough BOS 01/07/1996 BOS vs. DAL L 3 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p548
+aVDavid Wesley BOS 01/07/1996 BOS vs. DAL L 15 8 2 7 28.6 0 2 0.0 4 5 80.0 0 1 1 5 0 0 1 2 -
+p549
+aVEric Williams BOS 01/07/1996 BOS vs. DAL L 19 4 1 6 16.7 0 0 - 2 2 100.0 1 1 2 1 1 0 3 3 -
+p550
+aVDino Radja BOS 01/07/1996 BOS vs. DAL L 41 28 13 23 56.5 0 0 - 2 2 100.0 5 8 13 1 2 0 5 3 -
+p551
+aVRick Fox BOS 01/07/1996 BOS vs. DAL L 35 8 2 9 22.2 0 1 0.0 4 6 66.7 3 5 8 5 0 0 3 5 -
+p552
+aVDee Brown BOS 01/07/1996 BOS vs. DAL L 34 16 5 13 38.5 1 4 25.0 5 6 83.3 0 4 4 3 3 1 0 2 -
+p553
+aVDana Barros BOS 01/07/1996 BOS vs. DAL L 28 9 4 11 36.4 1 6 16.7 0 0 - 0 0 0 4 0 0 0 4 -
+p554
+aVPervis Ellison BOS 01/07/1996 BOS vs. DAL L 22 8 2 4 50.0 0 0 - 4 4 100.0 1 5 6 1 0 0 1 1 -
+p555
+aVEric Montross BOS 01/07/1996 BOS vs. DAL L 20 7 3 5 60.0 0 0 - 1 2 50.0 4 2 6 0 0 1 2 4 -
+p556
+aVDana Barros BOS 01/05/1996 BOS vs. CLE W 26 13 5 7 71.4 3 4 75.0 0 0 - 1 2 3 3 1 0 1 2 -
+p557
+aVGreg Minor BOS 01/05/1996 BOS vs. CLE W 20 4 1 7 14.3 0 1 0.0 2 2 100.0 0 4 4 2 0 0 0 0 -
+p558
+aVEric Montross BOS 01/05/1996 BOS vs. CLE W 21 2 1 2 50.0 0 0 - 0 0 - 1 5 6 0 1 0 0 2 -
+p559
+aVPervis Ellison BOS 01/05/1996 BOS vs. CLE W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p560
+aVEric Williams BOS 01/05/1996 BOS vs. CLE W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 3 0 -
+p561
+aVTodd Day BOS 01/05/1996 BOS vs. CLE W 24 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 3 1 1 1 4 -
+p562
+aVDino Radja BOS 01/05/1996 BOS vs. CLE W 37 20 8 18 44.4 0 0 - 4 5 80.0 4 1 5 4 0 2 0 1 -
+p563
+aVRick Fox BOS 01/05/1996 BOS vs. CLE W 35 13 6 17 35.3 0 2 0.0 1 1 100.0 5 11 16 8 2 2 5 3 -
+p564
+aVDavid Wesley BOS 01/05/1996 BOS vs. CLE W 20 9 4 8 50.0 1 1 100.0 0 0 - 0 1 1 3 1 0 1 5 -
+p565
+aVDee Brown BOS 01/05/1996 BOS vs. CLE W 36 18 6 11 54.5 2 5 40.0 4 5 80.0 0 3 3 3 1 1 2 3 -
+p566
+aVAlton Lister BOS 01/03/1996 BOS vs. POR L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -
+p567
+aVPervis Ellison BOS 01/03/1996 BOS vs. POR L 16 1 0 3 0.0 0 0 - 1 2 50.0 3 3 6 0 1 0 0 4 -
+p568
+aVDee Brown BOS 01/03/1996 BOS vs. POR L 15 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 2 0 0 3 -
+p569
+aVRick Fox BOS 01/03/1996 BOS vs. POR L 39 22 7 16 43.8 3 6 50.0 5 6 83.3 4 4 8 5 3 4 3 4 -
+p570
+aVDino Radja BOS 01/03/1996 BOS vs. POR L 47 24 10 25 40.0 0 0 - 4 8 50.0 6 12 18 0 0 0 4 5 -
+p571
+aVTodd Day BOS 01/03/1996 BOS vs. POR L 33 16 5 19 26.3 3 9 33.3 3 6 50.0 1 5 6 1 0 4 4 3 -
+p572
+aVDavid Wesley BOS 01/03/1996 BOS vs. POR L 26 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 4 0 0 1 2 -
+p573
+aVDoug Smith BOS 01/03/1996 BOS vs. POR L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p574
+aVEric Montross BOS 01/03/1996 BOS vs. POR L 16 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 1 0 0 0 2 -
+p575
+aVDana Barros BOS 01/03/1996 BOS vs. POR L 40 22 7 15 46.7 6 9 66.7 2 2 100.0 0 4 4 13 0 0 3 5 -
+p576
+aVGreg Minor BOS 01/03/1996 BOS vs. POR L 26 11 5 11 45.5 0 0 - 1 2 50.0 3 2 5 1 2 0 1 4 -
+p577
+aVRick Fox BOS 12/30/1995 BOS @ VAN L 33 13 5 14 35.7 0 2 0.0 3 6 50.0 4 1 5 3 2 2 2 3 -
+p578
+aVDana Barros BOS 12/30/1995 BOS @ VAN L 42 16 5 16 31.3 3 9 33.3 3 3 100.0 0 4 4 3 0 0 3 2 -
+p579
+aVTodd Day BOS 12/30/1995 BOS @ VAN L 29 16 1 5 20.0 0 2 0.0 14 18 77.8 1 4 5 1 1 1 1 4 -
+p580
+aVDavid Wesley BOS 12/30/1995 BOS @ VAN L 7 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -
+p581
+aVGreg Minor BOS 12/30/1995 BOS @ VAN L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p582
+aVPervis Ellison BOS 12/30/1995 BOS @ VAN L 25 3 1 5 20.0 0 0 - 1 2 50.0 3 2 5 2 0 1 3 5 -
+p583
+aVEric Montross BOS 12/30/1995 BOS @ VAN L 23 4 2 2 100.0 0 0 - 0 0 - 0 2 2 1 0 0 2 4 -
+p584
+aVDee Brown BOS 12/30/1995 BOS @ VAN L 29 15 6 12 50.0 2 4 50.0 1 2 50.0 0 1 1 7 0 0 2 3 -
+p585
+aVDino Radja BOS 12/30/1995 BOS @ VAN L 40 26 9 20 45.0 0 0 - 8 10 80.0 3 14 17 1 2 4 3 5 -
+p586
+aVDavid Wesley BOS 12/29/1995 BOS @ SEA L 22 12 3 7 42.9 1 2 50.0 5 6 83.3 1 3 4 1 2 0 1 5 -
+p587
+aVAlton Lister BOS 12/29/1995 BOS @ SEA L 5 2 0 0 - 0 0 - 2 4 50.0 2 1 3 0 0 1 1 1 -
+p588
+aVEric Montross BOS 12/29/1995 BOS @ SEA L 14 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 1 -
+p589
+aVGreg Minor BOS 12/29/1995 BOS @ SEA L 19 6 3 8 37.5 0 2 0.0 0 0 - 1 2 3 0 0 1 1 4 -
+p590
+aVDino Radja BOS 12/29/1995 BOS @ SEA L 32 10 4 12 33.3 0 0 - 2 4 50.0 3 3 6 2 1 1 5 1 -
+p591
+aVDoug Smith BOS 12/29/1995 BOS @ SEA L 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p592
+aVDana Barros BOS 12/29/1995 BOS @ SEA L 32 9 4 9 44.4 1 4 25.0 0 0 - 0 2 2 2 2 0 3 4 -
+p593
+aVDee Brown BOS 12/29/1995 BOS @ SEA L 25 10 3 8 37.5 1 3 33.3 3 4 75.0 1 3 4 0 1 0 1 2 -
+p594
+aVJunior Burrough BOS 12/29/1995 BOS @ SEA L 7 3 0 3 0.0 0 0 - 3 4 75.0 1 1 2 0 0 0 2 0 -
+p595
+aVRick Fox BOS 12/29/1995 BOS @ SEA L 24 14 6 15 40.0 1 2 50.0 1 2 50.0 3 1 4 2 0 0 2 3 -
+p596
+aVPervis Ellison BOS 12/29/1995 BOS @ SEA L 23 5 0 8 0.0 0 0 - 5 6 83.3 5 5 10 0 0 1 1 3 -
+p597
+aVTodd Day BOS 12/29/1995 BOS @ SEA L 35 12 6 17 35.3 0 4 0.0 0 0 - 4 2 6 4 4 1 4 3 -
+p598
+aVDee Brown BOS 12/27/1995 BOS @ POR L 20 9 4 8 50.0 1 4 25.0 0 0 - 0 0 0 0 2 1 1 2 -
+p599
+aVAlton Lister BOS 12/27/1995 BOS @ POR L 9 4 0 2 0.0 0 0 - 4 4 100.0 0 2 2 0 0 0 0 1 -
+p600
+aVDavid Wesley BOS 12/27/1995 BOS @ POR L 26 13 5 10 50.0 2 5 40.0 1 2 50.0 0 4 4 7 0 0 1 4 -
+p601
+aVDana Barros BOS 12/27/1995 BOS @ POR L 25 7 3 9 33.3 1 5 20.0 0 0 - 1 3 4 3 3 0 1 2 -
+p602
+aVRick Fox BOS 12/27/1995 BOS @ POR L 25 6 3 8 37.5 0 1 0.0 0 0 - 0 2 2 3 0 2 2 1 -
+p603
+aVEric Montross BOS 12/27/1995 BOS @ POR L 21 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 0 2 -
+p604
+aVJunior Burrough BOS 12/27/1995 BOS @ POR L 10 1 0 1 0.0 0 0 - 1 4 25.0 0 0 0 0 1 0 1 1 -
+p605
+aVTodd Day BOS 12/27/1995 BOS @ POR L 27 25 9 19 47.4 4 6 66.7 3 4 75.0 4 2 6 0 0 1 1 5 -
+p606
+aVDino Radja BOS 12/27/1995 BOS @ POR L 30 13 3 9 33.3 0 0 - 7 8 87.5 1 4 5 0 0 3 2 4 -
+p607
+aVGreg Minor BOS 12/27/1995 BOS @ POR L 27 15 6 11 54.5 1 1 100.0 2 3 66.7 2 2 4 2 2 0 0 4 -
+p608
+aVDoug Smith BOS 12/27/1995 BOS @ POR L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 3 -
+p609
+aVPervis Ellison BOS 12/27/1995 BOS @ POR L 15 9 3 3 100.0 0 0 - 3 4 75.0 2 2 4 1 0 2 2 2 -
+p610
+aVDee Brown BOS 12/26/1995 BOS @ LAL L 33 15 5 15 33.3 1 5 20.0 4 4 100.0 1 2 3 4 0 0 1 2 -
+p611
+aVDino Radja BOS 12/26/1995 BOS @ LAL L 42 23 9 19 47.4 0 0 - 5 5 100.0 3 8 11 5 1 2 3 1 -
+p612
+aVDavid Wesley BOS 12/26/1995 BOS @ LAL L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 3 -
+p613
+aVPervis Ellison BOS 12/26/1995 BOS @ LAL L 17 10 4 4 100.0 0 0 - 2 4 50.0 3 2 5 0 0 3 2 2 -
+p614
+aVAlton Lister BOS 12/26/1995 BOS @ LAL L 6 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 0 0 2 0 2 -
+p615
+aVDana Barros BOS 12/26/1995 BOS @ LAL L 40 13 5 9 55.6 1 3 33.3 2 2 100.0 0 4 4 7 1 0 5 1 -
+p616
+aVGreg Minor BOS 12/26/1995 BOS @ LAL L 16 2 1 7 14.3 0 0 - 0 0 - 3 0 3 2 0 0 1 1 -
+p617
+aVRick Fox BOS 12/26/1995 BOS @ LAL L 28 15 6 16 37.5 1 3 33.3 2 3 66.7 5 3 8 5 0 0 0 5 -
+p618
+aVDoug Smith BOS 12/26/1995 BOS @ LAL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p619
+aVEric Montross BOS 12/26/1995 BOS @ LAL L 21 4 2 4 50.0 0 0 - 0 0 - 1 5 6 2 1 2 3 1 -
+p620
+aVTodd Day BOS 12/26/1995 BOS @ LAL L 26 7 3 9 33.3 1 4 25.0 0 0 - 0 3 3 0 0 1 3 1 -
+p621
+aVGreg Minor BOS 12/22/1995 BOS vs. MIN W 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -
+p622
+aVDino Radja BOS 12/22/1995 BOS vs. MIN W 40 19 9 15 60.0 0 0 - 1 2 50.0 4 4 8 2 1 1 4 4 -
+p623
+aVEric Montross BOS 12/22/1995 BOS vs. MIN W 17 5 2 2 100.0 0 0 - 1 2 50.0 0 4 4 1 0 0 3 5 -
+p624
+aVDavid Wesley BOS 12/22/1995 BOS vs. MIN W 17 5 2 4 50.0 1 2 50.0 0 0 - 2 2 4 2 0 0 1 1 -
+p625
+aVDoug Smith BOS 12/22/1995 BOS vs. MIN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -
+p626
+aVPervis Ellison BOS 12/22/1995 BOS vs. MIN W 18 4 2 3 66.7 0 0 - 0 4 0.0 3 4 7 0 0 1 0 4 -
+p627
+aVRick Fox BOS 12/22/1995 BOS vs. MIN W 38 16 6 12 50.0 0 2 0.0 4 5 80.0 1 3 4 4 2 0 1 3 -
+p628
+aVDana Barros BOS 12/22/1995 BOS vs. MIN W 35 17 7 16 43.8 1 4 25.0 2 2 100.0 0 1 1 1 1 1 2 1 -
+p629
+aVTodd Day BOS 12/22/1995 BOS vs. MIN W 38 41 11 18 61.1 5 8 62.5 14 16 87.5 3 0 3 3 3 0 3 5 -
+p630
+aVDee Brown BOS 12/22/1995 BOS vs. MIN W 19 5 1 7 14.3 0 3 0.0 3 3 100.0 1 0 1 1 0 1 1 4 -
+p631
+aVTodd Day BOS 12/21/1995 BOS @ CHH L 23 9 4 10 40.0 0 3 0.0 1 1 100.0 0 2 2 2 1 0 1 3 -
+p632
+aVJunior Burrough BOS 12/21/1995 BOS @ CHH L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p633
+aVPervis Ellison BOS 12/21/1995 BOS @ CHH L 20 4 2 6 33.3 0 0 - 0 0 - 4 3 7 0 0 2 1 2 -
+p634
+aVEric Montross BOS 12/21/1995 BOS @ CHH L 15 4 1 2 50.0 0 0 - 2 4 50.0 1 6 7 0 0 1 0 4 -
+p635
+aVRick Fox BOS 12/21/1995 BOS @ CHH L 32 14 4 11 36.4 1 3 33.3 5 5 100.0 2 4 6 7 0 0 5 4 -
+p636
+aVDana Barros BOS 12/21/1995 BOS @ CHH L 29 13 5 9 55.6 3 6 50.0 0 0 - 0 0 0 2 2 0 4 3 -
+p637
+aVDino Radja BOS 12/21/1995 BOS @ CHH L 39 22 10 17 58.8 0 0 - 2 4 50.0 2 6 8 1 2 1 3 0 -
+p638
+aVAlton Lister BOS 12/21/1995 BOS @ CHH L 8 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 1 3 -
+p639
+aVDoug Smith BOS 12/21/1995 BOS @ CHH L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p640
+aVDavid Wesley BOS 12/21/1995 BOS @ CHH L 20 9 3 9 33.3 2 4 50.0 1 2 50.0 1 3 4 2 2 0 2 2 -
+p641
+aVDee Brown BOS 12/21/1995 BOS @ CHH L 28 10 4 11 36.4 0 1 0.0 2 2 100.0 1 0 1 0 1 0 2 5 -
+p642
+aVGreg Minor BOS 12/21/1995 BOS @ CHH L 19 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 1 -
+p643
+aVTodd Day BOS 12/18/1995 BOS vs. CHI L 38 21 8 19 42.1 3 5 60.0 2 4 50.0 0 1 1 3 4 0 3 5 -
+p644
+aVJunior Burrough BOS 12/18/1995 BOS vs. CHI L 3 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 1 -
+p645
+aVEric Montross BOS 12/18/1995 BOS vs. CHI L 12 2 1 3 33.3 0 0 - 0 4 0.0 3 0 3 1 0 0 1 2 -
+p646
+aVAlton Lister BOS 12/18/1995 BOS vs. CHI L 2 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 -
+p647
+aVGreg Minor BOS 12/18/1995 BOS vs. CHI L 19 8 4 8 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 5 -
+p648
+aVPervis Ellison BOS 12/18/1995 BOS vs. CHI L 9 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 0 0 1 1 2 -
+p649
+aVDino Radja BOS 12/18/1995 BOS vs. CHI L 37 23 9 11 81.8 0 0 - 5 7 71.4 2 4 6 2 2 0 2 3 -
+p650
+aVDavid Wesley BOS 12/18/1995 BOS vs. CHI L 29 18 2 7 28.6 1 5 20.0 13 13 100.0 0 2 2 5 4 1 1 5 -
+p651
+aVEric Williams BOS 12/18/1995 BOS vs. CHI L 9 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 1 -
+p652
+aVDana Barros BOS 12/18/1995 BOS vs. CHI L 46 21 7 11 63.6 3 5 60.0 4 4 100.0 1 3 4 6 2 0 2 1 -
+p653
+aVRick Fox BOS 12/18/1995 BOS vs. CHI L 36 13 5 12 41.7 3 7 42.9 0 0 - 0 7 7 5 1 0 5 5 -
+p654
+aVTodd Day BOS 12/15/1995 BOS vs. TOR W 23 13 4 7 57.1 0 1 0.0 5 7 71.4 1 3 4 2 0 0 1 4 -
+p655
+aVRick Fox BOS 12/15/1995 BOS vs. TOR W 29 24 8 12 66.7 3 4 75.0 5 5 100.0 1 0 1 2 0 0 3 1 -
+p656
+aVDana Barros BOS 12/15/1995 BOS vs. TOR W 31 13 5 11 45.5 3 7 42.9 0 0 - 1 1 2 2 0 1 0 2 -
+p657
+aVEric Williams BOS 12/15/1995 BOS vs. TOR W 23 17 5 8 62.5 1 1 100.0 6 7 85.7 1 0 1 1 1 0 3 1 -
+p658
+aVAlton Lister BOS 12/15/1995 BOS vs. TOR W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 2 0 1 -
+p659
+aVDavid Wesley BOS 12/15/1995 BOS vs. TOR W 26 7 2 11 18.2 0 6 0.0 3 4 75.0 1 2 3 6 1 1 2 1 -
+p660
+aVDino Radja BOS 12/15/1995 BOS vs. TOR W 37 31 12 18 66.7 0 0 - 7 8 87.5 1 13 14 0 1 2 3 3 -
+p661
+aVEric Montross BOS 12/15/1995 BOS vs. TOR W 30 13 5 8 62.5 0 0 - 3 8 37.5 2 4 6 0 0 0 1 3 -
+p662
+aVGreg Minor BOS 12/15/1995 BOS vs. TOR W 25 2 1 3 33.3 0 0 - 0 0 - 0 5 5 4 0 0 1 0 -
+p663
+aVJunior Burrough BOS 12/15/1995 BOS vs. TOR W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 1 2 -
+p664
+aVGreg Minor BOS 12/13/1995 BOS vs. PHL W 12 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -
+p665
+aVEric Williams BOS 12/13/1995 BOS vs. PHL W 29 20 8 13 61.5 0 0 - 4 7 57.1 0 2 2 0 0 0 3 3 -
+p666
+aVDino Radja BOS 12/13/1995 BOS vs. PHL W 32 21 9 14 64.3 0 0 - 3 3 100.0 0 8 8 3 1 2 3 4 -
+p667
+aVRick Fox BOS 12/13/1995 BOS vs. PHL W 29 15 5 7 71.4 1 1 100.0 4 4 100.0 1 4 5 7 2 0 3 4 -
+p668
+aVDee Brown BOS 12/13/1995 BOS vs. PHL W 22 10 3 7 42.9 2 2 100.0 2 2 100.0 1 3 4 2 2 0 1 3 -
+p669
+aVTodd Day BOS 12/13/1995 BOS vs. PHL W 21 8 2 10 20.0 2 5 40.0 2 2 100.0 1 0 1 1 0 0 0 6 -
+p670
+aVDavid Wesley BOS 12/13/1995 BOS vs. PHL W 24 13 5 9 55.6 2 4 50.0 1 3 33.3 2 2 4 1 1 0 1 3 -
+p671
+aVAlton Lister BOS 12/13/1995 BOS vs. PHL W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -
+p672
+aVEric Montross BOS 12/13/1995 BOS vs. PHL W 19 9 4 7 57.1 0 0 - 1 4 25.0 5 3 8 0 0 0 0 3 -
+p673
+aVJunior Burrough BOS 12/13/1995 BOS vs. PHL W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -
+p674
+aVPervis Ellison BOS 12/13/1995 BOS vs. PHL W 5 0 0 0 - 0 0 - 0 0 - 1 2 3 1 0 1 1 0 -
+p675
+aVDana Barros BOS 12/13/1995 BOS vs. PHL W 36 13 4 10 40.0 2 7 28.6 3 4 75.0 2 1 3 9 2 0 1 1 -
+p676
+aVAlton Lister BOS 12/12/1995 BOS @ TOR W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p677
+aVDee Brown BOS 12/12/1995 BOS @ TOR W 34 20 6 13 46.2 2 4 50.0 6 6 100.0 0 4 4 10 4 1 1 0 -
+p678
+aVDino Radja BOS 12/12/1995 BOS @ TOR W 40 18 8 17 47.1 0 0 - 2 6 33.3 3 11 14 1 2 3 3 4 -
+p679
+aVTodd Day BOS 12/12/1995 BOS @ TOR W 15 11 3 5 60.0 1 2 50.0 4 4 100.0 0 0 0 1 0 1 1 2 -
+p680
+aVRick Fox BOS 12/12/1995 BOS @ TOR W 25 9 2 8 25.0 0 0 - 5 8 62.5 4 2 6 2 1 0 2 4 -
+p681
+aVEric Williams BOS 12/12/1995 BOS @ TOR W 17 15 5 7 71.4 0 0 - 5 6 83.3 2 1 3 1 1 0 0 1 -
+p682
+aVPervis Ellison BOS 12/12/1995 BOS @ TOR W 14 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 3 1 2 -
+p683
+aVDavid Wesley BOS 12/12/1995 BOS @ TOR W 12 7 2 4 50.0 2 2 100.0 1 1 100.0 0 0 0 2 1 0 1 1 -
+p684
+aVGreg Minor BOS 12/12/1995 BOS @ TOR W 13 6 2 4 50.0 0 0 - 2 4 50.0 0 1 1 3 0 0 1 1 -
+p685
+aVEric Montross BOS 12/12/1995 BOS @ TOR W 28 8 4 9 44.4 0 0 - 0 2 0.0 3 7 10 1 1 0 3 4 -
+p686
+aVDana Barros BOS 12/12/1995 BOS @ TOR W 36 18 6 14 42.9 2 7 28.6 4 4 100.0 0 3 3 3 0 0 3 2 -
+p687
+aVJunior Burrough BOS 12/10/1995 BOS vs. ATL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p688
+aVEric Williams BOS 12/10/1995 BOS vs. ATL L 26 8 3 9 33.3 0 1 0.0 2 4 50.0 1 2 3 1 0 0 0 2 -
+p689
+aVPervis Ellison BOS 12/10/1995 BOS vs. ATL L 6 0 0 0 - 0 0 - 0 0 - 1 4 5 1 0 0 1 1 -
+p690
+aVDana Barros BOS 12/10/1995 BOS vs. ATL L 35 12 4 12 33.3 2 7 28.6 2 2 100.0 0 4 4 7 0 0 2 3 -
+p691
+aVTodd Day BOS 12/10/1995 BOS vs. ATL L 25 16 5 12 41.7 1 6 16.7 5 6 83.3 1 0 1 3 0 1 0 2 -
+p692
+aVGreg Minor BOS 12/10/1995 BOS vs. ATL L 19 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 3 2 1 3 1 -
+p693
+aVDee Brown BOS 12/10/1995 BOS vs. ATL L 23 5 2 10 20.0 0 1 0.0 1 2 50.0 0 3 3 3 3 0 0 0 -
+p694
+aVDino Radja BOS 12/10/1995 BOS vs. ATL L 39 28 12 20 60.0 0 0 - 4 6 66.7 2 7 9 1 1 0 4 4 -
+p695
+aVEric Montross BOS 12/10/1995 BOS vs. ATL L 25 6 2 4 50.0 0 0 - 2 4 50.0 4 4 8 1 2 0 0 2 -
+p696
+aVAlton Lister BOS 12/10/1995 BOS vs. ATL L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 1 0 1 -
+p697
+aVDavid Wesley BOS 12/10/1995 BOS vs. ATL L 18 11 4 5 80.0 3 4 75.0 0 0 - 0 2 2 4 2 0 0 2 -
+p698
+aVRick Fox BOS 12/10/1995 BOS vs. ATL L 17 7 3 11 27.3 1 4 25.0 0 0 - 6 2 8 0 0 0 0 2 -
+p699
+aVEric Montross BOS 12/09/1995 BOS @ PHL W 19 6 2 5 40.0 0 0 - 2 2 100.0 2 9 11 2 0 0 3 3 -
+p700
+aVDavid Wesley BOS 12/09/1995 BOS @ PHL W 19 12 3 5 60.0 1 3 33.3 5 7 71.4 0 3 3 5 1 0 2 2 -
+p701
+aVJunior Burrough BOS 12/09/1995 BOS @ PHL W 7 5 1 4 25.0 0 0 - 3 3 100.0 2 0 2 1 0 0 0 1 -
+p702
+aVDee Brown BOS 12/09/1995 BOS @ PHL W 21 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 2 1 0 1 2 -
+p703
+aVAlton Lister BOS 12/09/1995 BOS @ PHL W 12 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 2 4 -
+p704
+aVPervis Ellison BOS 12/09/1995 BOS @ PHL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -
+p705
+aVRick Fox BOS 12/09/1995 BOS @ PHL W 25 19 8 14 57.1 2 3 66.7 1 2 50.0 1 5 6 6 0 0 0 4 -
+p706
+aVDana Barros BOS 12/09/1995 BOS @ PHL W 29 14 4 10 40.0 2 6 33.3 4 4 100.0 0 2 2 10 0 0 1 3 -
+p707
+aVTodd Day BOS 12/09/1995 BOS @ PHL W 27 15 3 9 33.3 2 4 50.0 7 8 87.5 0 0 0 3 1 0 3 3 -
+p708
+aVEric Williams BOS 12/09/1995 BOS @ PHL W 17 13 6 6 100.0 0 0 - 1 1 100.0 0 5 5 1 1 1 2 2 -
+p709
+aVGreg Minor BOS 12/09/1995 BOS @ PHL W 17 9 3 5 60.0 0 1 0.0 3 3 100.0 0 1 1 2 0 0 2 4 -
+p710
+aVDino Radja BOS 12/09/1995 BOS @ PHL W 39 23 9 15 60.0 0 0 - 5 6 83.3 2 10 12 2 4 1 5 2 -
+p711
+aVRick Fox BOS 12/06/1995 BOS @ MIA W 36 16 5 16 31.3 3 8 37.5 3 4 75.0 2 6 8 3 1 0 1 3 -
+p712
+aVJunior Burrough BOS 12/06/1995 BOS @ MIA W 6 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p713
+aVDee Brown BOS 12/06/1995 BOS @ MIA W 31 16 5 13 38.5 3 7 42.9 3 4 75.0 3 0 3 0 1 0 2 2 -
+p714
+aVDino Radja BOS 12/06/1995 BOS @ MIA W 43 22 9 15 60.0 0 0 - 4 4 100.0 1 8 9 1 1 2 2 3 -
+p715
+aVGreg Minor BOS 12/06/1995 BOS @ MIA W 23 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -
+p716
+aVDana Barros BOS 12/06/1995 BOS @ MIA W 36 20 6 12 50.0 2 3 66.7 6 7 85.7 0 5 5 4 0 0 1 2 -
+p717
+aVEric Montross BOS 12/06/1995 BOS @ MIA W 15 6 3 8 37.5 0 0 - 0 0 - 2 0 2 0 0 2 0 4 -
+p718
+aVPervis Ellison BOS 12/06/1995 BOS @ MIA W 18 4 1 1 100.0 0 0 - 2 2 100.0 0 6 6 1 1 0 0 5 -
+p719
+aVDavid Wesley BOS 12/06/1995 BOS @ MIA W 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 4 2 0 2 1 -
+p720
+aVTodd Day BOS 12/06/1995 BOS @ MIA W 20 15 5 8 62.5 1 1 100.0 4 5 80.0 1 3 4 1 2 0 2 4 -
+p721
+aVAlton Lister BOS 12/04/1995 BOS vs. MIA W 18 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 1 0 2 1 6 -
+p722
+aVEric Williams BOS 12/04/1995 BOS vs. MIA W 13 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 3 4 -
+p723
+aVGreg Minor BOS 12/04/1995 BOS vs. MIA W 11 8 3 3 100.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 0 -
+p724
+aVDino Radja BOS 12/04/1995 BOS vs. MIA W 40 27 8 16 50.0 0 0 - 11 18 61.1 2 7 9 1 0 2 2 6 -
+p725
+aVEric Montross BOS 12/04/1995 BOS vs. MIA W 19 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 1 0 0 2 6 -
+p726
+aVRick Fox BOS 12/04/1995 BOS vs. MIA W 47 18 7 12 58.3 0 1 0.0 4 5 80.0 2 2 4 4 1 0 4 5 -
+p727
+aVDee Brown BOS 12/04/1995 BOS vs. MIA W 48 20 7 19 36.8 1 6 16.7 5 6 83.3 1 6 7 5 1 0 2 5 -
+p728
+aVTodd Day BOS 12/04/1995 BOS vs. MIA W 31 11 4 9 44.4 3 5 60.0 0 0 - 1 3 4 1 0 2 4 5 -
+p729
+aVDana Barros BOS 12/04/1995 BOS vs. MIA W 49 19 7 16 43.8 2 6 33.3 3 4 75.0 0 8 8 9 2 0 0 1 -
+p730
+aVPervis Ellison BOS 12/04/1995 BOS vs. MIA W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -
+p731
+aVDavid Wesley BOS 12/04/1995 BOS vs. MIA W 9 4 0 1 0.0 0 1 0.0 4 4 100.0 1 1 2 1 0 0 2 1 -
+p732
+aVEric Williams BOS 12/02/1995 BOS @ WAS L 20 12 2 6 33.3 0 0 - 8 12 66.7 1 4 5 1 0 0 0 0 -
+p733
+aVRick Fox BOS 12/02/1995 BOS @ WAS L 25 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 3 1 1 4 2 -
+p734
+aVPervis Ellison BOS 12/02/1995 BOS @ WAS L 21 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 1 0 1 1 1 -
+p735
+aVDana Barros BOS 12/02/1995 BOS @ WAS L 33 14 5 11 45.5 3 5 60.0 1 1 100.0 0 4 4 5 0 0 3 3 -
+p736
+aVTodd Day BOS 12/02/1995 BOS @ WAS L 22 17 5 12 41.7 1 3 33.3 6 9 66.7 2 0 2 1 1 0 3 1 -
+p737
+aVJunior Burrough BOS 12/02/1995 BOS @ WAS L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p738
+aVDee Brown BOS 12/02/1995 BOS @ WAS L 33 12 4 8 50.0 0 1 0.0 4 4 100.0 0 1 1 0 1 1 1 1 -
+p739
+aVDavid Wesley BOS 12/02/1995 BOS @ WAS L 13 15 5 5 100.0 1 1 100.0 4 4 100.0 0 1 1 2 0 0 1 4 -
+p740
+aVDino Radja BOS 12/02/1995 BOS @ WAS L 31 14 4 11 36.4 0 0 - 6 7 85.7 1 5 6 1 0 0 3 1 -
+p741
+aVAlton Lister BOS 12/02/1995 BOS @ WAS L 17 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 0 0 0 1 4 -
+p742
+aVGreg Minor BOS 12/02/1995 BOS @ WAS L 17 9 4 11 36.4 0 0 - 1 1 100.0 3 3 6 2 0 0 1 1 -
+p743
+aVTodd Day BOS 12/01/1995 BOS vs. NJN L 25 14 5 10 50.0 2 5 40.0 2 6 33.3 1 5 6 1 2 1 3 5 -
+p744
+aVRick Fox BOS 12/01/1995 BOS vs. NJN L 42 33 14 23 60.9 4 9 44.4 1 1 100.0 4 6 10 7 2 0 1 4 -
+p745
+aVDana Barros BOS 12/01/1995 BOS vs. NJN L 38 23 10 18 55.6 3 5 60.0 0 0 - 0 4 4 9 1 0 3 2 -
+p746
+aVEric Williams BOS 12/01/1995 BOS vs. NJN L 20 9 3 7 42.9 0 0 - 3 4 75.0 1 2 3 2 2 1 1 3 -
+p747
+aVDee Brown BOS 12/01/1995 BOS vs. NJN L 34 15 5 13 38.5 1 5 20.0 4 4 100.0 2 0 2 2 2 0 1 3 -
+p748
+aVJunior Burrough BOS 12/01/1995 BOS vs. NJN L 3 0 0 3 0.0 0 0 - 0 0 - 3 0 3 0 0 0 1 0 -
+p749
+aVDavid Wesley BOS 12/01/1995 BOS vs. NJN L 16 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 6 0 0 0 5 -
+p750
+aVGreg Minor BOS 12/01/1995 BOS vs. NJN L 24 6 1 8 12.5 0 1 0.0 4 4 100.0 1 1 2 0 0 0 0 3 -
+p751
+aVDino Radja BOS 12/01/1995 BOS vs. NJN L 41 17 7 15 46.7 0 0 - 3 4 75.0 1 9 10 4 0 3 3 2 -
+p752
+aVAlton Lister BOS 12/01/1995 BOS vs. NJN L 11 0 0 0 - 0 0 - 0 0 - 0 4 4 0 0 2 2 3 -
+p753
+aVPervis Ellison BOS 12/01/1995 BOS vs. NJN L 11 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 5 -
+p754
+aVGreg Minor BOS 11/29/1995 BOS vs. DET W 31 13 6 11 54.5 0 0 - 1 1 100.0 0 2 2 2 0 0 0 2 -
+p755
+aVDavid Wesley BOS 11/29/1995 BOS vs. DET W 12 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 2 1 1 3 0 -
+p756
+aVDana Barros BOS 11/29/1995 BOS vs. DET W 38 17 5 11 45.5 2 4 50.0 5 8 62.5 0 5 5 5 0 0 4 1 -
+p757
+aVEric Williams BOS 11/29/1995 BOS vs. DET W 23 7 3 8 37.5 0 0 - 1 3 33.3 1 2 3 0 2 0 1 1 -
+p758
+aVJunior Burrough BOS 11/29/1995 BOS vs. DET W 2 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -
+p759
+aVPervis Ellison BOS 11/29/1995 BOS vs. DET W 22 4 2 4 50.0 0 0 - 0 0 - 3 4 7 0 0 0 3 1 -
+p760
+aVRick Fox BOS 11/29/1995 BOS vs. DET W 27 10 3 9 33.3 1 3 33.3 3 3 100.0 2 3 5 2 1 2 1 5 -
+p761
+aVTodd Day BOS 11/29/1995 BOS vs. DET W 15 6 2 6 33.3 0 3 0.0 2 2 100.0 0 3 3 1 1 0 2 2 -
+p762
+aVDino Radja BOS 11/29/1995 BOS vs. DET W 44 29 13 23 56.5 0 0 - 3 4 75.0 2 13 15 4 0 2 3 5 -
+p763
+aVAlton Lister BOS 11/29/1995 BOS vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 2 0 1 -
+p764
+aVDee Brown BOS 11/29/1995 BOS vs. DET W 22 11 2 5 40.0 0 0 - 7 8 87.5 0 2 2 3 0 0 1 2 -
+p765
+aVDee Brown BOS 11/26/1995 BOS vs. CHH L 25 9 4 14 28.6 1 3 33.3 0 0 - 0 3 3 1 1 0 4 2 -
+p766
+aVDino Radja BOS 11/26/1995 BOS vs. CHH L 31 25 11 18 61.1 0 0 - 3 3 100.0 1 9 10 3 0 2 3 6 -
+p767
+aVJunior Burrough BOS 11/26/1995 BOS vs. CHH L 22 4 1 8 12.5 0 0 - 2 2 100.0 1 4 5 0 0 0 1 4 -
+p768
+aVPervis Ellison BOS 11/26/1995 BOS vs. CHH L 14 0 0 0 - 0 0 - 0 0 - 0 4 4 1 2 1 2 6 -
+p769
+aVRick Fox BOS 11/26/1995 BOS vs. CHH L 42 24 9 15 60.0 4 5 80.0 2 2 100.0 5 5 10 5 1 0 3 3 -
+p770
+aVEric Williams BOS 11/26/1995 BOS vs. CHH L 17 5 2 3 66.7 0 0 - 1 1 100.0 0 4 4 1 0 0 0 5 -
+p771
+aVGreg Minor BOS 11/26/1995 BOS vs. CHH L 37 19 8 12 66.7 0 1 0.0 3 4 75.0 0 3 3 5 0 0 2 5 -
+p772
+aVDana Barros BOS 11/26/1995 BOS vs. CHH L 34 20 6 9 66.7 2 2 100.0 6 7 85.7 1 2 3 6 1 0 2 0 -
+p773
+aVDavid Wesley BOS 11/26/1995 BOS vs. CHH L 18 3 1 8 12.5 0 3 0.0 1 1 100.0 0 1 1 5 0 1 1 0 -
+p774
+aVJunior Burrough BOS 11/24/1995 BOS vs. GOS L 11 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 3 -
+p775
+aVGreg Minor BOS 11/24/1995 BOS vs. GOS L 30 12 5 11 45.5 0 0 - 2 3 66.7 1 2 3 2 2 0 3 1 -
+p776
+aVRick Fox BOS 11/24/1995 BOS vs. GOS L 36 21 6 13 46.2 2 4 50.0 7 7 100.0 1 5 6 4 3 1 4 6 -
+p777
+aVSherman Douglas BOS 11/24/1995 BOS vs. GOS L 24 7 2 6 33.3 0 0 - 3 4 75.0 0 4 4 4 0 0 5 3 -
+p778
+aVDavid Wesley BOS 11/24/1995 BOS vs. GOS L 24 13 5 11 45.5 3 8 37.5 0 2 0.0 3 3 6 6 2 0 2 3 -
+p779
+aVEric Williams BOS 11/24/1995 BOS vs. GOS L 25 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 2 0 4 1 -
+p780
+aVPervis Ellison BOS 11/24/1995 BOS vs. GOS L 19 3 1 2 50.0 0 0 - 1 2 50.0 2 3 5 1 1 0 1 5 -
+p781
+aVDino Radja BOS 11/24/1995 BOS vs. GOS L 45 15 6 13 46.2 0 0 - 3 4 75.0 2 7 9 2 0 1 1 2 -
+p782
+aVDee Brown BOS 11/24/1995 BOS vs. GOS L 26 13 6 13 46.2 0 2 0.0 1 2 50.0 1 0 1 1 1 0 0 1 -
+p783
+aVDino Radja BOS 11/22/1995 BOS @ CHH W 43 15 6 16 37.5 0 0 - 3 4 75.0 1 5 6 3 0 1 1 3 -
+p784
+aVRick Fox BOS 11/22/1995 BOS @ CHH W 34 12 2 7 28.6 0 3 0.0 8 10 80.0 1 5 6 6 3 0 3 5 -
+p785
+aVEric Williams BOS 11/22/1995 BOS @ CHH W 24 18 8 12 66.7 0 0 - 2 2 100.0 0 2 2 1 0 2 1 4 -
+p786
+aVGreg Minor BOS 11/22/1995 BOS @ CHH W 33 16 8 9 88.9 0 0 - 0 0 - 0 0 0 4 0 0 1 3 -
+p787
+aVJunior Burrough BOS 11/22/1995 BOS @ CHH W 5 0 0 1 0.0 0 0 - 0 2 0.0 1 0 1 0 0 0 0 0 -
+p788
+aVPervis Ellison BOS 11/22/1995 BOS @ CHH W 12 4 2 3 66.7 0 0 - 0 0 - 3 3 6 0 0 2 1 3 -
+p789
+aVSherman Douglas BOS 11/22/1995 BOS @ CHH W 28 19 6 11 54.5 0 0 - 7 14 50.0 0 2 2 4 0 0 3 1 -
+p790
+aVEric Montross BOS 11/22/1995 BOS @ CHH W 28 8 3 4 75.0 0 0 - 2 4 50.0 3 7 10 2 0 0 0 5 -
+p791
+aVDavid Wesley BOS 11/22/1995 BOS @ CHH W 33 37 10 14 71.4 7 10 70.0 10 10 100.0 0 5 5 9 2 1 3 2 -
+p792
+aVSherman Douglas BOS 11/20/1995 BOS vs. HOU L 24 8 3 10 30.0 1 2 50.0 1 5 20.0 1 2 3 7 0 0 2 3 -
+p793
+aVPervis Ellison BOS 11/20/1995 BOS vs. HOU L 19 8 4 6 66.7 0 0 - 0 2 0.0 3 4 7 0 0 2 0 3 -
+p794
+aVEric Williams BOS 11/20/1995 BOS vs. HOU L 21 5 2 11 18.2 0 0 - 1 2 50.0 3 1 4 1 0 0 2 1 -
+p795
+aVJunior Burrough BOS 11/20/1995 BOS vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p796
+aVDino Radja BOS 11/20/1995 BOS vs. HOU L 40 13 5 14 35.7 0 0 - 3 6 50.0 6 11 17 2 2 1 1 4 -
+p797
+aVEric Montross BOS 11/20/1995 BOS vs. HOU L 25 4 2 7 28.6 0 0 - 0 2 0.0 2 2 4 0 0 0 1 5 -
+p798
+aVDavid Wesley BOS 11/20/1995 BOS vs. HOU L 14 11 4 7 57.1 3 5 60.0 0 0 - 0 1 1 2 0 0 1 1 -
+p799
+aVRick Fox BOS 11/20/1995 BOS vs. HOU L 31 12 4 10 40.0 1 1 100.0 3 4 75.0 1 5 6 5 3 0 3 2 -
+p800
+aVDana Barros BOS 11/20/1995 BOS vs. HOU L 25 11 4 9 44.4 3 7 42.9 0 0 - 0 2 2 2 0 0 1 3 -
+p801
+aVGreg Minor BOS 11/20/1995 BOS vs. HOU L 38 21 10 17 58.8 0 0 - 1 1 100.0 1 2 3 3 0 0 4 4 -
+p802
+aVPervis Ellison BOS 11/18/1995 BOS @ MIL W 16 0 0 0 - 0 0 - 0 2 0.0 1 4 5 1 1 1 2 4 -
+p803
+aVGreg Minor BOS 11/18/1995 BOS @ MIL W 28 10 4 6 66.7 0 0 - 2 2 100.0 1 5 6 3 1 0 1 0 -
+p804
+aVEric Montross BOS 11/18/1995 BOS @ MIL W 21 7 2 3 66.7 0 0 - 3 4 75.0 1 3 4 2 0 0 2 4 -
+p805
+aVRick Fox BOS 11/18/1995 BOS @ MIL W 23 6 2 5 40.0 0 0 - 2 3 66.7 4 1 5 5 2 0 3 5 -
+p806
+aVDavid Wesley BOS 11/18/1995 BOS @ MIL W 8 3 1 4 25.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p807
+aVDino Radja BOS 11/18/1995 BOS @ MIL W 44 21 9 19 47.4 0 0 - 3 4 75.0 1 8 9 4 0 3 2 4 -
+p808
+aVEric Williams BOS 11/18/1995 BOS @ MIL W 30 18 7 8 87.5 0 0 - 4 9 44.4 1 2 3 2 3 0 1 2 -
+p809
+aVSherman Douglas BOS 11/18/1995 BOS @ MIL W 26 18 7 12 58.3 0 0 - 4 4 100.0 0 0 0 2 0 0 2 3 -
+p810
+aVCharles Claxton BOS 11/18/1995 BOS @ MIL W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -
+p811
+aVDana Barros BOS 11/18/1995 BOS @ MIL W 33 10 3 6 50.0 2 3 66.7 2 2 100.0 0 2 2 3 0 0 6 0 -
+p812
+aVJunior Burrough BOS 11/18/1995 BOS @ MIL W 9 6 3 4 75.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -
+p813
+aVEric Montross BOS 11/17/1995 BOS vs. WAS W 41 19 9 12 75.0 0 0 - 1 2 50.0 2 10 12 2 0 0 3 4 -
+p814
+aVDino Radja BOS 11/17/1995 BOS vs. WAS W 39 15 6 15 40.0 0 0 - 3 4 75.0 4 5 9 2 1 2 3 3 -
+p815
+aVDavid Wesley BOS 11/17/1995 BOS vs. WAS W 15 7 2 6 33.3 1 3 33.3 2 4 50.0 1 1 2 0 1 0 0 3 -
+p816
+aVGreg Minor BOS 11/17/1995 BOS vs. WAS W 29 18 9 10 90.0 0 0 - 0 0 - 1 4 5 4 1 0 1 2 -
+p817
+aVPervis Ellison BOS 11/17/1995 BOS vs. WAS W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -
+p818
+aVSherman Douglas BOS 11/17/1995 BOS vs. WAS W 23 16 6 9 66.7 0 0 - 4 4 100.0 0 2 2 3 0 0 2 0 -
+p819
+aVJunior Burrough BOS 11/17/1995 BOS vs. WAS W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -
+p820
+aVRick Fox BOS 11/17/1995 BOS vs. WAS W 20 4 2 3 66.7 0 0 - 0 2 0.0 0 2 2 3 0 2 2 0 -
+p821
+aVEric Williams BOS 11/17/1995 BOS vs. WAS W 28 13 3 7 42.9 0 0 - 7 7 100.0 1 2 3 2 1 1 1 1 -
+p822
+aVDana Barros BOS 11/17/1995 BOS vs. WAS W 29 15 7 13 53.8 1 3 33.3 0 0 - 0 4 4 7 1 0 1 1 -
+p823
+aVDana Barros BOS 11/15/1995 BOS vs. UTH L 39 15 6 15 40.0 1 6 16.7 2 2 100.0 0 2 2 5 1 0 2 2 -
+p824
+aVDino Radja BOS 11/15/1995 BOS vs. UTH L 37 13 5 10 50.0 0 0 - 3 4 75.0 1 9 10 1 1 1 3 5 -
+p825
+aVLarry Sykes BOS 11/15/1995 BOS vs. UTH L 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -
+p826
+aVRick Fox BOS 11/15/1995 BOS vs. UTH L 31 12 5 10 50.0 0 2 0.0 2 3 66.7 0 0 0 3 2 0 3 3 -
+p827
+aVJunior Burrough BOS 11/15/1995 BOS vs. UTH L 9 5 1 4 25.0 0 0 - 3 4 75.0 1 1 2 0 0 0 0 2 -
+p828
+aVEric Williams BOS 11/15/1995 BOS vs. UTH L 25 17 6 13 46.2 0 0 - 5 5 100.0 3 1 4 1 1 0 1 3 -
+p829
+aVGreg Minor BOS 11/15/1995 BOS vs. UTH L 22 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 2 0 -
+p830
+aVSherman Douglas BOS 11/15/1995 BOS vs. UTH L 26 10 4 11 36.4 0 2 0.0 2 2 100.0 2 2 4 4 1 0 4 1 -
+p831
+aVEric Montross BOS 11/15/1995 BOS vs. UTH L 40 14 7 10 70.0 0 0 - 0 3 0.0 2 12 14 0 1 1 1 4 -
+p832
+aVDavid Wesley BOS 11/15/1995 BOS vs. UTH L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 -
+p833
+aVRick Fox BOS 11/10/1995 BOS vs. ORL L 40 19 9 15 60.0 0 2 0.0 1 2 50.0 1 3 4 9 4 0 2 5 -
+p834
+aVDino Radja BOS 11/10/1995 BOS vs. ORL L 39 16 6 15 40.0 0 0 - 4 4 100.0 1 7 8 2 1 3 1 5 -
+p835
+aVDee Brown BOS 11/10/1995 BOS vs. ORL L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -
+p836
+aVDana Barros BOS 11/10/1995 BOS vs. ORL L 28 17 7 12 58.3 1 5 20.0 2 2 100.0 0 0 0 3 0 0 3 2 -
+p837
+aVEric Williams BOS 11/10/1995 BOS vs. ORL L 23 9 1 7 14.3 0 1 0.0 7 11 63.6 1 0 1 0 0 0 0 2 -
+p838
+aVEric Montross BOS 11/10/1995 BOS vs. ORL L 22 8 3 6 50.0 0 0 - 2 6 33.3 4 6 10 0 0 1 1 3 -
+p839
+aVDavid Wesley BOS 11/10/1995 BOS vs. ORL L 12 6 2 7 28.6 0 4 0.0 2 2 100.0 1 1 2 1 0 1 1 1 -
+p840
+aVSherman Douglas BOS 11/10/1995 BOS vs. ORL L 22 3 1 5 20.0 0 2 0.0 1 2 50.0 1 1 2 4 0 0 1 0 -
+p841
+aVGreg Minor BOS 11/10/1995 BOS vs. ORL L 20 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 1 1 0 1 2 -
+p842
+aVJunior Burrough BOS 11/10/1995 BOS vs. ORL L 18 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 2 2 0 1 2 -
+p843
+aVDavid Wesley BOS 11/08/1995 BOS vs. PHX W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p844
+aVJunior Burrough BOS 11/08/1995 BOS vs. PHX W 13 7 2 7 28.6 0 0 - 3 4 75.0 3 2 5 1 0 1 0 2 -
+p845
+aVDino Radja BOS 11/08/1995 BOS vs. PHX W 34 21 9 16 56.3 0 0 - 3 6 50.0 4 9 13 0 1 1 2 3 -
+p846
+aVDana Barros BOS 11/08/1995 BOS vs. PHX W 22 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 8 1 0 3 1 -
+p847
+aVDee Brown BOS 11/08/1995 BOS vs. PHX W 29 21 6 18 33.3 1 6 16.7 8 9 88.9 0 3 3 2 1 0 1 1 -
+p848
+aVGreg Minor BOS 11/08/1995 BOS vs. PHX W 19 8 4 7 57.1 0 0 - 0 0 - 1 5 6 2 2 0 0 2 -
+p849
+aVEric Montross BOS 11/08/1995 BOS vs. PHX W 27 14 6 8 75.0 0 0 - 2 4 50.0 2 4 6 1 0 1 1 5 -
+p850
+aVRick Fox BOS 11/08/1995 BOS vs. PHX W 44 16 8 18 44.4 0 0 - 0 1 0.0 4 2 6 4 3 0 0 2 -
+p851
+aVEric Williams BOS 11/08/1995 BOS vs. PHX W 26 10 4 5 80.0 0 0 - 2 2 100.0 1 6 7 1 1 1 1 5 -
+p852
+aVSherman Douglas BOS 11/08/1995 BOS vs. PHX W 24 9 4 8 50.0 0 0 - 1 1 100.0 1 2 3 5 1 0 3 4 -
+p853
+aVEric Williams BOS 11/04/1995 BOS @ CHI L 27 12 3 6 50.0 0 1 0.0 6 10 60.0 1 3 4 1 0 0 3 6 -
+p854
+aVEric Montross BOS 11/04/1995 BOS @ CHI L 37 9 3 5 60.0 0 0 - 3 8 37.5 1 5 6 0 1 2 5 4 -
+p855
+aVDee Brown BOS 11/04/1995 BOS @ CHI L 26 8 3 5 60.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 1 -
+p856
+aVJunior Burrough BOS 11/04/1995 BOS @ CHI L 19 8 3 10 30.0 0 0 - 2 4 50.0 1 3 4 2 0 0 2 1 -
+p857
+aVSherman Douglas BOS 11/04/1995 BOS @ CHI L 15 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 4 0 -
+p858
+aVDana Barros BOS 11/04/1995 BOS @ CHI L 31 10 4 8 50.0 2 3 66.7 0 0 - 1 1 2 6 0 0 2 1 -
+p859
+aVDino Radja BOS 11/04/1995 BOS @ CHI L 36 14 7 20 35.0 0 0 - 0 3 0.0 2 14 16 2 2 1 2 3 -
+p860
+aVDavid Wesley BOS 11/04/1995 BOS @ CHI L 19 9 3 8 37.5 0 3 0.0 3 4 75.0 1 4 5 3 2 0 2 2 -
+p861
+aVCharles Claxton BOS 11/04/1995 BOS @ CHI L 4 2 1 1 100.0 0 0 - 0 2 0.0 1 0 1 0 0 1 1 2 -
+p862
+aVRick Fox BOS 11/04/1995 BOS @ CHI L 26 11 2 5 40.0 0 2 0.0 7 8 87.5 3 2 5 0 2 0 3 4 -
+p863
+aVJunior Burrough BOS 11/03/1995 BOS vs. MIL L 14 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 2 -
+p864
+aVDavid Wesley BOS 11/03/1995 BOS vs. MIL L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 -
+p865
+aVCharles Claxton BOS 11/03/1995 BOS vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p866
+aVSherman Douglas BOS 11/03/1995 BOS vs. MIL L 22 6 3 9 33.3 0 1 0.0 0 2 0.0 1 1 2 5 0 0 3 1 -
+p867
+aVRick Fox BOS 11/03/1995 BOS vs. MIL L 32 19 8 13 61.5 1 3 33.3 2 5 40.0 4 1 5 6 1 0 1 5 -
+p868
+aVDoug Smith BOS 11/03/1995 BOS vs. MIL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p869
+aVEric Williams BOS 11/03/1995 BOS vs. MIL L 20 16 5 8 62.5 0 1 0.0 6 8 75.0 2 4 6 1 0 0 0 2 -
+p870
+aVEric Montross BOS 11/03/1995 BOS vs. MIL L 44 14 6 9 66.7 0 0 - 2 3 66.7 2 7 9 0 0 2 3 3 -
+p871
+aVDino Radja BOS 11/03/1995 BOS vs. MIL L 33 18 9 12 75.0 0 0 - 0 1 0.0 2 9 11 0 2 4 1 5 -
+p872
+aVDee Brown BOS 11/03/1995 BOS vs. MIL L 38 13 2 11 18.2 0 4 0.0 9 10 90.0 0 2 2 5 2 0 3 3 -
+p873
+aVDana Barros BOS 11/03/1995 BOS vs. MIL L 27 8 2 9 22.2 1 4 25.0 3 3 100.0 0 4 4 2 1 0 0 0 -
+p874
+a.

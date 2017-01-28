@@ -1,0 +1,1624 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHarvey Grant WAS 04/20/1997 WAS @ CLE W 10 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 2 -5
+p2
+aVChris Whitney WAS 04/20/1997 WAS @ CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p3
+aVLorenzo Williams WAS 04/20/1997 WAS @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p4
+aVRod Strickland WAS 04/20/1997 WAS @ CLE W 45 19 7 16 43.8 0 1 0.0 5 6 83.3 1 1 2 9 1 0 5 3 8
+p5
+aVCalbert Cheaney WAS 04/20/1997 WAS @ CLE W 26 9 4 9 44.4 0 0 - 1 1 100.0 1 2 3 1 0 0 1 4 0
+p6
+aVTracy Murray WAS 04/20/1997 WAS @ CLE W 22 8 4 9 44.4 0 2 0.0 0 0 - 2 2 4 0 0 0 0 0 11
+p7
+aVJuwan Howard WAS 04/20/1997 WAS @ CLE W 45 11 4 14 28.6 0 0 - 3 5 60.0 0 5 5 2 1 0 3 4 3
+p8
+aVTim Legler WAS 04/20/1997 WAS @ CLE W 13 1 0 2 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 2 0 0 11
+p9
+aVChris Webber WAS 04/20/1997 WAS @ CLE W 43 23 9 16 56.3 3 6 50.0 2 4 50.0 5 12 17 4 1 1 1 4 1
+p10
+aVJaren Jackson WAS 04/20/1997 WAS @ CLE W 11 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -10
+p11
+aVGheorghe Muresan WAS 04/20/1997 WAS @ CLE W 21 12 4 7 57.1 0 0 - 4 6 66.7 6 2 8 1 0 2 0 0 6
+p12
+aVChris Webber WAS 04/18/1997 WAS vs. ORL W 43 18 7 21 33.3 0 3 0.0 4 5 80.0 4 7 11 4 1 1 3 4 4
+p13
+aVRod Strickland WAS 04/18/1997 WAS vs. ORL W 44 27 7 16 43.8 0 0 - 13 16 81.3 2 5 7 9 3 0 3 3 11
+p14
+aVJuwan Howard WAS 04/18/1997 WAS vs. ORL W 44 25 10 19 52.6 0 0 - 5 6 83.3 4 4 8 3 3 0 1 2 7
+p15
+aVChris Whitney WAS 04/18/1997 WAS vs. ORL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p16
+aVBen Wallace WAS 04/18/1997 WAS vs. ORL W 1 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 0 0 2
+p17
+aVLorenzo Williams WAS 04/18/1997 WAS vs. ORL W 10 2 1 2 50.0 0 0 - 0 0 - 3 1 4 0 0 0 1 5 3
+p18
+aVHarvey Grant WAS 04/18/1997 WAS vs. ORL W 23 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 1 0 0 6 11
+p19
+aVJaren Jackson WAS 04/18/1997 WAS vs. ORL W 11 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 0
+p20
+aVTracy Murray WAS 04/18/1997 WAS vs. ORL W 20 11 3 8 37.5 2 3 66.7 3 4 75.0 0 0 0 0 0 0 0 0 5
+p21
+aVCalbert Cheaney WAS 04/18/1997 WAS vs. ORL W 40 15 5 10 50.0 0 1 0.0 5 6 83.3 2 11 13 2 2 0 1 0 12
+p22
+aVTracy Murray WAS 04/16/1997 WAS vs. IND W 18 2 1 7 14.3 0 4 0.0 0 0 - 0 2 2 0 0 0 0 1 -5
+p23
+aVJuwan Howard WAS 04/16/1997 WAS vs. IND W 44 25 11 18 61.1 0 0 - 3 3 100.0 2 5 7 2 2 0 3 2 12
+p24
+aVChris Whitney WAS 04/16/1997 WAS vs. IND W 6 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 0 0
+p25
+aVJaren Jackson WAS 04/16/1997 WAS vs. IND W 23 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 2 2 1 1 5 2
+p26
+aVHarvey Grant WAS 04/16/1997 WAS vs. IND W 29 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 3 19
+p27
+aVLorenzo Williams WAS 04/16/1997 WAS vs. IND W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 3 2
+p28
+aVBen Wallace WAS 04/16/1997 WAS vs. IND W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p29
+aVTim Legler WAS 04/16/1997 WAS vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 10
+p30
+aVRod Strickland WAS 04/16/1997 WAS vs. IND W 42 34 11 18 61.1 0 1 0.0 12 14 85.7 1 1 2 13 3 0 1 0 13
+p31
+aVCalbert Cheaney WAS 04/16/1997 WAS vs. IND W 24 5 1 7 14.3 0 0 - 3 4 75.0 1 3 4 0 0 0 0 5 1
+p32
+aVChris Webber WAS 04/16/1997 WAS vs. IND W 41 20 6 15 40.0 1 4 25.0 7 7 100.0 1 11 12 4 2 1 2 3 12
+p33
+aVRod Strickland WAS 04/14/1997 WAS @ PHI W 31 20 7 11 63.6 1 2 50.0 5 6 83.3 1 4 5 6 1 0 4 4 -4
+p34
+aVJaren Jackson WAS 04/14/1997 WAS @ PHI W 22 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 0 2 2 1 1 17
+p35
+aVCalbert Cheaney WAS 04/14/1997 WAS @ PHI W 29 13 5 9 55.6 0 0 - 3 4 75.0 1 2 3 1 1 0 0 6 -1
+p36
+aVBen Wallace WAS 04/14/1997 WAS @ PHI W 8 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 3 0 0
+p37
+aVHarvey Grant WAS 04/14/1997 WAS @ PHI W 20 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 12
+p38
+aVChris Whitney WAS 04/14/1997 WAS @ PHI W 17 8 3 5 60.0 0 1 0.0 2 2 100.0 0 1 1 9 1 0 0 1 25
+p39
+aVChris Webber WAS 04/14/1997 WAS @ PHI W 44 27 12 25 48.0 0 4 0.0 3 3 100.0 8 13 21 7 4 2 3 3 19
+p40
+aVTracy Murray WAS 04/14/1997 WAS @ PHI W 25 20 7 15 46.7 2 7 28.6 4 4 100.0 3 2 5 1 3 0 0 2 15
+p41
+aVJuwan Howard WAS 04/14/1997 WAS @ PHI W 44 27 12 21 57.1 0 0 - 3 4 75.0 3 8 11 6 2 0 4 5 22
+p42
+aVTim Legler WAS 04/12/1997 WAS @ CHH L 14 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 0 12
+p43
+aVJuwan Howard WAS 04/12/1997 WAS @ CHH L 43 17 8 14 57.1 0 0 - 1 1 100.0 3 5 8 4 1 0 0 4 -4
+p44
+aVTracy Murray WAS 04/12/1997 WAS @ CHH L 20 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 0 2 0 1 1 8
+p45
+aVRod Strickland WAS 04/12/1997 WAS @ CHH L 36 16 6 14 42.9 0 0 - 4 4 100.0 2 4 6 8 0 0 5 1 -15
+p46
+aVGheorghe Muresan WAS 04/12/1997 WAS @ CHH L 17 5 2 8 25.0 0 0 - 1 2 50.0 4 3 7 0 1 1 1 1 -7
+p47
+aVChris Whitney WAS 04/12/1997 WAS @ CHH L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 6 2 0 1 1 13
+p48
+aVChris Webber WAS 04/12/1997 WAS @ CHH L 42 25 11 20 55.0 1 4 25.0 2 4 50.0 3 6 9 5 2 2 2 5 4
+p49
+aVHarvey Grant WAS 04/12/1997 WAS @ CHH L 21 6 3 5 60.0 0 1 0.0 0 0 - 0 4 4 1 1 0 0 3 -7
+p50
+aVCalbert Cheaney WAS 04/12/1997 WAS @ CHH L 34 12 4 11 36.4 0 0 - 4 6 66.7 2 0 2 2 1 0 1 2 -14
+p51
+aVHarvey Grant WAS 04/11/1997 WAS vs. NJN W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 1 -8
+p52
+aVChris Webber WAS 04/11/1997 WAS vs. NJN W 31 19 9 10 90.0 1 1 100.0 0 0 - 1 7 8 2 6 1 1 3 28
+p53
+aVJaren Jackson WAS 04/11/1997 WAS vs. NJN W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -3
+p54
+aVBen Wallace WAS 04/11/1997 WAS vs. NJN W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p55
+aVGheorghe Muresan WAS 04/11/1997 WAS vs. NJN W 30 14 7 10 70.0 0 0 - 0 0 - 1 6 7 0 1 1 2 3 40
+p56
+aVChris Whitney WAS 04/11/1997 WAS vs. NJN W 15 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 3 0 0 1 1 -19
+p57
+aVJuwan Howard WAS 04/11/1997 WAS vs. NJN W 32 21 8 14 57.1 0 0 - 5 7 71.4 0 3 3 3 0 0 1 3 33
+p58
+aVTracy Murray WAS 04/11/1997 WAS vs. NJN W 26 19 7 14 50.0 1 5 20.0 4 4 100.0 0 4 4 0 1 0 0 2 -18
+p59
+aVRod Strickland WAS 04/11/1997 WAS vs. NJN W 33 16 6 9 66.7 0 0 - 4 7 57.1 1 3 4 15 2 0 3 2 38
+p60
+aVAshraf Amaya WAS 04/11/1997 WAS vs. NJN W 7 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -11
+p61
+aVCalbert Cheaney WAS 04/11/1997 WAS vs. NJN W 28 14 7 10 70.0 0 1 0.0 0 0 - 1 2 3 3 0 2 0 1 38
+p62
+aVTim Legler WAS 04/11/1997 WAS vs. NJN W 13 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 -16
+p63
+aVBen Wallace WAS 04/08/1997 WAS @ TOR L 0 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p64
+aVTim Legler WAS 04/08/1997 WAS @ TOR L 16 3 1 6 16.7 1 3 33.3 0 0 - 0 4 4 1 0 2 2 3 -3
+p65
+aVHarvey Grant WAS 04/08/1997 WAS @ TOR L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 1 0 0 1 -6
+p66
+aVRod Strickland WAS 04/08/1997 WAS @ TOR L 39 7 3 9 33.3 0 0 - 1 4 25.0 1 5 6 11 3 0 5 3 -6
+p67
+aVTracy Murray WAS 04/08/1997 WAS @ TOR L 22 12 4 8 50.0 2 3 66.7 2 3 66.7 2 2 4 0 0 2 2 3 0
+p68
+aVJuwan Howard WAS 04/08/1997 WAS @ TOR L 41 19 8 15 53.3 0 0 - 3 5 60.0 1 6 7 8 1 0 6 1 -8
+p69
+aVCalbert Cheaney WAS 04/08/1997 WAS @ TOR L 33 21 10 14 71.4 1 3 33.3 0 0 - 0 3 3 1 0 0 0 3 4
+p70
+aVGheorghe Muresan WAS 04/08/1997 WAS @ TOR L 22 6 3 6 50.0 0 0 - 0 0 - 3 4 7 1 0 2 1 4 -3
+p71
+aVChris Webber WAS 04/08/1997 WAS @ TOR L 42 21 8 17 47.1 1 4 25.0 4 5 80.0 2 5 7 9 0 1 1 6 -7
+p72
+aVJaren Jackson WAS 04/08/1997 WAS @ TOR L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p73
+aVChris Whitney WAS 04/08/1997 WAS @ TOR L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 0
+p74
+aVGheorghe Muresan WAS 04/06/1997 WAS @ BOS W 30 17 7 13 53.8 0 0 - 3 5 60.0 6 6 12 2 0 1 2 3 6
+p75
+aVCalbert Cheaney WAS 04/06/1997 WAS @ BOS W 29 10 4 13 30.8 0 0 - 2 2 100.0 1 1 2 3 0 2 0 2 5
+p76
+aVHarvey Grant WAS 04/06/1997 WAS @ BOS W 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 0 6
+p77
+aVTim Legler WAS 04/06/1997 WAS @ BOS W 20 5 2 6 33.3 1 5 20.0 0 0 - 0 3 3 1 0 0 0 4 -3
+p78
+aVRod Strickland WAS 04/06/1997 WAS @ BOS W 44 15 7 14 50.0 0 1 0.0 1 2 50.0 2 2 4 9 4 0 6 3 7
+p79
+aVJuwan Howard WAS 04/06/1997 WAS @ BOS W 41 31 13 17 76.5 0 0 - 5 6 83.3 0 8 8 6 2 1 1 2 13
+p80
+aVChris Whitney WAS 04/06/1997 WAS @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p81
+aVChris Webber WAS 04/06/1997 WAS @ BOS W 42 31 14 20 70.0 1 4 25.0 2 4 50.0 4 9 13 9 1 3 3 1 1
+p82
+aVJaren Jackson WAS 04/06/1997 WAS @ BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 0
+p83
+aVTracy Murray WAS 04/06/1997 WAS @ BOS W 19 7 3 5 60.0 1 3 33.3 0 0 - 1 2 3 3 0 0 1 2 -4
+p84
+aVChris Webber WAS 04/04/1997 WAS @ MIN L 42 17 8 15 53.3 1 2 50.0 0 2 0.0 2 10 12 1 1 1 5 5 1
+p85
+aVTracy Murray WAS 04/04/1997 WAS @ MIN L 21 2 1 6 16.7 0 3 0.0 0 0 - 2 0 2 0 0 0 0 3 0
+p86
+aVCalbert Cheaney WAS 04/04/1997 WAS @ MIN L 33 9 4 8 50.0 0 0 - 1 1 100.0 1 2 3 3 2 0 3 2 -5
+p87
+aVHarvey Grant WAS 04/04/1997 WAS @ MIN L 17 3 1 2 50.0 0 1 0.0 1 2 50.0 1 3 4 0 1 0 0 2 -5
+p88
+aVRod Strickland WAS 04/04/1997 WAS @ MIN L 41 21 8 14 57.1 0 1 0.0 5 5 100.0 1 4 5 10 0 1 4 2 -5
+p89
+aVGheorghe Muresan WAS 04/04/1997 WAS @ MIN L 22 14 5 5 100.0 0 0 - 4 6 66.7 1 3 4 0 1 3 1 4 6
+p90
+aVChris Whitney WAS 04/04/1997 WAS @ MIN L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 0 3
+p91
+aVJuwan Howard WAS 04/04/1997 WAS @ MIN L 41 21 6 13 46.2 0 0 - 9 11 81.8 3 3 6 4 1 0 1 5 -8
+p92
+aVTim Legler WAS 04/04/1997 WAS @ MIN L 15 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 1 1 0 1 5 3
+p93
+aVJaren Jackson WAS 04/03/1997 WAS vs. CHI W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 2 1 3 0 1 1 0 2 1
+p94
+aVChris Webber WAS 04/03/1997 WAS vs. CHI W 42 15 6 18 33.3 0 2 0.0 3 5 60.0 7 5 12 5 1 2 0 3 13
+p95
+aVRod Strickland WAS 04/03/1997 WAS vs. CHI W 42 26 10 15 66.7 0 0 - 6 7 85.7 1 6 7 14 1 0 5 2 13
+p96
+aVTracy Murray WAS 04/03/1997 WAS vs. CHI W 15 12 4 6 66.7 4 6 66.7 0 0 - 0 1 1 1 0 0 0 0 -4
+p97
+aVTim Legler WAS 04/03/1997 WAS vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p98
+aVHarvey Grant WAS 04/03/1997 WAS vs. CHI W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 2 4
+p99
+aVChris Whitney WAS 04/03/1997 WAS vs. CHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p100
+aVCalbert Cheaney WAS 04/03/1997 WAS vs. CHI W 39 17 8 18 44.4 0 1 0.0 1 2 50.0 1 2 3 0 1 0 2 2 2
+p101
+aVGheorghe Muresan WAS 04/03/1997 WAS vs. CHI W 37 24 11 16 68.8 0 0 - 2 4 50.0 5 8 13 1 1 0 2 2 10
+p102
+aVJuwan Howard WAS 04/03/1997 WAS vs. CHI W 40 14 5 11 45.5 0 0 - 4 5 80.0 1 4 5 5 1 1 3 4 1
+p103
+aVChris Whitney WAS 04/01/1997 WAS @ IND W 9 3 0 2 0.0 0 1 0.0 3 4 75.0 0 0 0 1 1 0 0 0 0
+p104
+aVCalbert Cheaney WAS 04/01/1997 WAS @ IND W 38 16 7 11 63.6 0 0 - 2 4 50.0 1 1 2 1 2 0 1 3 11
+p105
+aVGheorghe Muresan WAS 04/01/1997 WAS @ IND W 17 11 4 7 57.1 0 0 - 3 4 75.0 6 1 7 0 0 1 4 6 -3
+p106
+aVHarvey Grant WAS 04/01/1997 WAS @ IND W 19 10 4 8 50.0 2 2 100.0 0 0 - 1 2 3 2 2 0 0 3 6
+p107
+aVJaren Jackson WAS 04/01/1997 WAS @ IND W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p108
+aVRod Strickland WAS 04/01/1997 WAS @ IND W 39 18 6 13 46.2 1 1 100.0 5 7 71.4 1 2 3 11 2 1 3 1 7
+p109
+aVTim Legler WAS 04/01/1997 WAS @ IND W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p110
+aVTracy Murray WAS 04/01/1997 WAS @ IND W 24 13 6 8 75.0 1 2 50.0 0 0 - 1 4 5 0 0 0 2 2 -7
+p111
+aVJuwan Howard WAS 04/01/1997 WAS @ IND W 41 18 6 9 66.7 0 0 - 6 8 75.0 1 8 9 5 2 0 4 6 5
+p112
+aVChris Webber WAS 04/01/1997 WAS @ IND W 39 15 5 13 38.5 2 3 66.7 3 6 50.0 3 7 10 3 2 1 1 5 12
+p113
+aVGheorghe Muresan WAS 03/29/1997 WAS vs. DAL W 26 12 6 10 60.0 0 0 - 0 1 0.0 4 4 8 1 0 1 1 3 2
+p114
+aVTim Legler WAS 03/29/1997 WAS vs. DAL W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -4
+p115
+aVJuwan Howard WAS 03/29/1997 WAS vs. DAL W 39 20 5 15 33.3 0 0 - 10 11 90.9 2 6 8 3 0 1 2 2 16
+p116
+aVHarvey Grant WAS 03/29/1997 WAS vs. DAL W 24 4 2 9 22.2 0 0 - 0 0 - 6 2 8 1 1 0 0 3 3
+p117
+aVCalbert Cheaney WAS 03/29/1997 WAS vs. DAL W 29 13 6 12 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 1 3 4
+p118
+aVTracy Murray WAS 03/29/1997 WAS vs. DAL W 16 5 2 6 33.3 1 3 33.3 0 0 - 2 1 3 1 1 1 0 0 -4
+p119
+aVChris Whitney WAS 03/29/1997 WAS vs. DAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -5
+p120
+aVChris Webber WAS 03/29/1997 WAS vs. DAL W 47 17 8 12 66.7 1 1 100.0 0 2 0.0 5 13 18 3 2 2 6 3 11
+p121
+aVRod Strickland WAS 03/29/1997 WAS vs. DAL W 43 21 7 15 46.7 0 0 - 7 12 58.3 2 1 3 13 1 0 3 1 12
+p122
+aVTim Legler WAS 03/28/1997 WAS vs. TOR W 10 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 0 1 0 1 0 -8
+p123
+aVJaren Jackson WAS 03/28/1997 WAS vs. TOR W 9 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -3
+p124
+aVRod Strickland WAS 03/28/1997 WAS vs. TOR W 24 16 5 7 71.4 0 0 - 6 6 100.0 0 2 2 9 3 0 4 3 21
+p125
+aVCalbert Cheaney WAS 03/28/1997 WAS vs. TOR W 29 14 6 11 54.5 0 0 - 2 2 100.0 4 3 7 2 1 1 1 1 38
+p126
+aVHarvey Grant WAS 03/28/1997 WAS vs. TOR W 23 4 2 2 100.0 0 0 - 0 0 - 2 2 4 2 1 1 0 5 21
+p127
+aVBen Wallace WAS 03/28/1997 WAS vs. TOR W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 1 0 1 -3
+p128
+aVChris Whitney WAS 03/28/1997 WAS vs. TOR W 24 2 1 5 20.0 0 2 0.0 0 0 - 0 4 4 5 0 0 4 0 6
+p129
+aVJuwan Howard WAS 03/28/1997 WAS vs. TOR W 35 22 11 18 61.1 0 0 - 0 0 - 2 2 4 2 1 0 1 0 22
+p130
+aVGheorghe Muresan WAS 03/28/1997 WAS vs. TOR W 21 8 4 7 57.1 0 0 - 0 0 - 0 5 5 1 1 0 1 2 9
+p131
+aVChris Webber WAS 03/28/1997 WAS vs. TOR W 31 24 9 10 90.0 2 2 100.0 4 8 50.0 1 9 10 5 1 3 2 4 27
+p132
+aVTracy Murray WAS 03/28/1997 WAS vs. TOR W 22 13 4 11 36.4 2 7 28.6 3 4 75.0 2 1 3 0 1 1 2 1 4
+p133
+aVAshraf Amaya WAS 03/28/1997 WAS vs. TOR W 7 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 1 0 0 2 0 1
+p134
+aVJaren Jackson WAS 03/26/1997 WAS vs. BOS W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -2
+p135
+aVCalbert Cheaney WAS 03/26/1997 WAS vs. BOS W 35 10 5 9 55.6 0 0 - 0 1 0.0 1 2 3 4 1 2 2 4 17
+p136
+aVBen Wallace WAS 03/26/1997 WAS vs. BOS W 2 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -3
+p137
+aVGheorghe Muresan WAS 03/26/1997 WAS vs. BOS W 19 8 4 4 100.0 0 0 - 0 0 - 2 3 5 0 0 1 4 1 -2
+p138
+aVHarvey Grant WAS 03/26/1997 WAS vs. BOS W 15 4 2 3 66.7 0 0 - 0 0 - 2 1 3 1 0 0 0 1 4
+p139
+aVTim Legler WAS 03/26/1997 WAS vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p140
+aVRod Strickland WAS 03/26/1997 WAS vs. BOS W 35 8 3 10 30.0 0 0 - 2 4 50.0 0 2 2 17 1 0 4 2 -1
+p141
+aVJuwan Howard WAS 03/26/1997 WAS vs. BOS W 38 20 7 14 50.0 0 0 - 6 7 85.7 3 8 11 3 2 2 2 3 11
+p142
+aVChris Whitney WAS 03/26/1997 WAS vs. BOS W 13 3 1 4 25.0 0 2 0.0 1 2 50.0 0 1 1 2 1 0 0 2 14
+p143
+aVAshraf Amaya WAS 03/26/1997 WAS vs. BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p144
+aVTracy Murray WAS 03/26/1997 WAS vs. BOS W 31 24 8 14 57.1 5 9 55.6 3 3 100.0 0 4 4 0 1 0 0 1 17
+p145
+aVChris Webber WAS 03/26/1997 WAS vs. BOS W 35 26 12 18 66.7 1 4 25.0 1 4 25.0 5 8 13 2 3 1 2 4 14
+p146
+aVJuwan Howard WAS 03/22/1997 WAS vs. POR W 41 11 4 13 30.8 0 0 - 3 4 75.0 3 8 11 4 1 0 4 4 -1
+p147
+aVJaren Jackson WAS 03/22/1997 WAS vs. POR W 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 5 -12
+p148
+aVHarvey Grant WAS 03/22/1997 WAS vs. POR W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -6
+p149
+aVCalbert Cheaney WAS 03/22/1997 WAS vs. POR W 29 17 8 13 61.5 0 0 - 1 2 50.0 0 6 6 1 0 0 1 5 20
+p150
+aVRod Strickland WAS 03/22/1997 WAS vs. POR W 45 22 4 13 30.8 0 0 - 14 18 77.8 2 4 6 11 2 0 3 1 5
+p151
+aVChris Webber WAS 03/22/1997 WAS vs. POR W 41 26 8 17 47.1 2 4 50.0 8 10 80.0 3 9 12 7 2 1 2 6 1
+p152
+aVGheorghe Muresan WAS 03/22/1997 WAS vs. POR W 34 17 8 11 72.7 0 0 - 1 4 25.0 1 4 5 0 1 0 2 4 11
+p153
+aVChris Whitney WAS 03/22/1997 WAS vs. POR W 3 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 0 2 1
+p154
+aVTracy Murray WAS 03/22/1997 WAS vs. POR W 22 9 3 6 50.0 2 5 40.0 1 2 50.0 0 1 1 1 1 0 0 3 1
+p155
+aVChris Webber WAS 03/20/1997 WAS @ HOU L 43 16 6 19 31.6 2 5 40.0 2 4 50.0 0 10 10 6 3 3 5 4 -4
+p156
+aVJuwan Howard WAS 03/20/1997 WAS @ HOU L 40 14 7 12 58.3 0 0 - 0 0 - 3 2 5 1 2 1 5 3 -14
+p157
+aVJaren Jackson WAS 03/20/1997 WAS @ HOU L 12 5 2 3 66.7 0 1 0.0 1 1 100.0 0 3 3 0 0 0 1 2 3
+p158
+aVHarvey Grant WAS 03/20/1997 WAS @ HOU L 19 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 1 0 1 0 0 1
+p159
+aVChris Whitney WAS 03/20/1997 WAS @ HOU L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 2
+p160
+aVCalbert Cheaney WAS 03/20/1997 WAS @ HOU L 30 14 7 12 58.3 0 0 - 0 0 - 2 3 5 5 2 0 2 4 -9
+p161
+aVGheorghe Muresan WAS 03/20/1997 WAS @ HOU L 26 8 3 5 60.0 0 0 - 2 2 100.0 2 3 5 0 1 0 2 0 -6
+p162
+aVTracy Murray WAS 03/20/1997 WAS @ HOU L 23 4 1 8 12.5 0 3 0.0 2 2 100.0 4 2 6 0 1 0 1 1 5
+p163
+aVRod Strickland WAS 03/20/1997 WAS @ HOU L 41 21 9 20 45.0 0 1 0.0 3 4 75.0 4 0 4 10 4 0 3 1 -8
+p164
+aVRod Strickland WAS 03/18/1997 WAS @ DAL W 36 13 5 13 38.5 0 1 0.0 3 4 75.0 1 5 6 5 1 1 7 4 6
+p165
+aVTracy Murray WAS 03/18/1997 WAS @ DAL W 25 8 3 8 37.5 1 3 33.3 1 1 100.0 0 4 4 1 0 0 0 3 3
+p166
+aVGheorghe Muresan WAS 03/18/1997 WAS @ DAL W 16 11 4 7 57.1 0 0 - 3 4 75.0 2 2 4 1 0 1 3 4 -3
+p167
+aVJuwan Howard WAS 03/18/1997 WAS @ DAL W 41 17 5 16 31.3 0 0 - 7 7 100.0 4 10 14 4 2 2 5 3 3
+p168
+aVChris Webber WAS 03/18/1997 WAS @ DAL W 40 20 8 14 57.1 1 2 50.0 3 5 60.0 5 4 9 2 3 2 4 4 3
+p169
+aVJaren Jackson WAS 03/18/1997 WAS @ DAL W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -10
+p170
+aVCalbert Cheaney WAS 03/18/1997 WAS @ DAL W 41 10 5 10 50.0 0 1 0.0 0 0 - 1 2 3 3 1 1 2 2 9
+p171
+aVChris Whitney WAS 03/18/1997 WAS @ DAL W 12 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 1 1 0 1 2 -5
+p172
+aVHarvey Grant WAS 03/18/1997 WAS @ DAL W 20 0 0 3 0.0 0 0 - 0 0 - 0 5 5 0 1 0 0 2 -1
+p173
+aVAshraf Amaya WAS 03/17/1997 WAS @ SAS W 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 2 0 0 1 2
+p174
+aVChris Webber WAS 03/17/1997 WAS @ SAS W 36 24 9 14 64.3 2 4 50.0 4 5 80.0 2 7 9 3 1 3 2 1 24
+p175
+aVChris Whitney WAS 03/17/1997 WAS @ SAS W 17 14 5 8 62.5 4 5 80.0 0 0 - 0 1 1 3 0 0 1 1 2
+p176
+aVHarvey Grant WAS 03/17/1997 WAS @ SAS W 16 0 0 1 0.0 0 0 - 0 0 - 0 4 4 2 0 0 0 0 -3
+p177
+aVBen Wallace WAS 03/17/1997 WAS @ SAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p178
+aVJaren Jackson WAS 03/17/1997 WAS @ SAS W 15 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 2 2 0 1 2 0
+p179
+aVJuwan Howard WAS 03/17/1997 WAS @ SAS W 42 13 5 12 41.7 0 0 - 3 3 100.0 2 4 6 1 1 1 5 1 16
+p180
+aVGheorghe Muresan WAS 03/17/1997 WAS @ SAS W 21 13 5 7 71.4 0 0 - 3 6 50.0 2 4 6 0 2 1 0 3 19
+p181
+aVRod Strickland WAS 03/17/1997 WAS @ SAS W 31 16 6 9 66.7 0 0 - 4 5 80.0 1 2 3 15 3 0 4 2 22
+p182
+aVCalbert Cheaney WAS 03/17/1997 WAS @ SAS W 31 6 3 6 50.0 0 0 - 0 0 - 0 4 4 4 0 0 2 2 31
+p183
+aVTracy Murray WAS 03/17/1997 WAS @ SAS W 27 13 6 8 75.0 1 2 50.0 0 0 - 0 3 3 0 0 1 8 2 5
+p184
+aVTracy Murray WAS 03/15/1997 WAS vs. UTA L 35 12 3 7 42.9 2 4 50.0 4 5 80.0 2 3 5 1 0 0 1 3 -8
+p185
+aVChris Webber WAS 03/15/1997 WAS vs. UTA L 13 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 0 0 2 1 3 2
+p186
+aVChris Whitney WAS 03/15/1997 WAS vs. UTA L 8 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p187
+aVAshraf Amaya WAS 03/15/1997 WAS vs. UTA L 4 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 3
+p188
+aVGheorghe Muresan WAS 03/15/1997 WAS vs. UTA L 33 16 8 11 72.7 0 0 - 0 0 - 1 5 6 1 0 1 3 4 3
+p189
+aVJuwan Howard WAS 03/15/1997 WAS vs. UTA L 36 15 7 13 53.8 0 0 - 1 2 50.0 2 5 7 4 1 1 3 4 -17
+p190
+aVCalbert Cheaney WAS 03/15/1997 WAS vs. UTA L 39 12 5 13 38.5 0 2 0.0 2 4 50.0 1 3 4 1 0 0 2 5 -9
+p191
+aVRod Strickland WAS 03/15/1997 WAS vs. UTA L 40 27 10 14 71.4 0 0 - 7 10 70.0 0 3 3 7 1 0 3 1 1
+p192
+aVJaren Jackson WAS 03/15/1997 WAS vs. UTA L 15 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 0 3 0
+p193
+aVHarvey Grant WAS 03/15/1997 WAS vs. UTA L 15 0 0 0 - 0 0 - 0 0 - 0 0 0 1 2 0 0 2 -5
+p194
+aVChris Whitney WAS 03/14/1997 WAS @ MIL W 34 9 3 7 42.9 1 3 33.3 2 2 100.0 0 4 4 6 3 1 1 2 9
+p195
+aVRod Strickland WAS 03/14/1997 WAS @ MIL W 11 6 2 5 40.0 0 0 - 2 4 50.0 0 0 0 1 1 0 0 1 5
+p196
+aVGheorghe Muresan WAS 03/14/1997 WAS @ MIL W 35 23 7 10 70.0 0 0 - 9 12 75.0 2 4 6 0 1 0 3 2 14
+p197
+aVCalbert Cheaney WAS 03/14/1997 WAS @ MIL W 32 3 1 2 50.0 0 0 - 1 2 50.0 0 5 5 2 2 1 0 4 13
+p198
+aVTracy Murray WAS 03/14/1997 WAS @ MIL W 13 4 2 7 28.6 0 4 0.0 0 0 - 0 2 2 3 0 1 1 0 -7
+p199
+aVJaren Jackson WAS 03/14/1997 WAS @ MIL W 19 12 3 5 60.0 2 3 66.7 4 4 100.0 1 1 2 0 1 1 2 3 -9
+p200
+aVJuwan Howard WAS 03/14/1997 WAS @ MIL W 43 22 9 20 45.0 0 0 - 4 7 57.1 3 6 9 2 2 0 4 3 16
+p201
+aVChris Webber WAS 03/14/1997 WAS @ MIL W 44 26 10 12 83.3 1 1 100.0 5 6 83.3 5 8 13 7 3 2 9 4 17
+p202
+aVHarvey Grant WAS 03/14/1997 WAS @ MIL W 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 -13
+p203
+aVRod Strickland WAS 03/12/1997 WAS vs. VAN W 29 13 6 11 54.5 0 0 - 1 2 50.0 1 2 3 6 1 0 1 2 21
+p204
+aVChris Whitney WAS 03/12/1997 WAS vs. VAN W 19 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 4 1 0 1 0 1
+p205
+aVHarvey Grant WAS 03/12/1997 WAS vs. VAN W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 5
+p206
+aVJaren Jackson WAS 03/12/1997 WAS vs. VAN W 16 4 2 3 66.7 0 0 - 0 0 - 1 2 3 2 1 0 1 1 8
+p207
+aVTracy Murray WAS 03/12/1997 WAS vs. VAN W 30 14 4 9 44.4 2 6 33.3 4 4 100.0 0 3 3 3 1 0 3 0 12
+p208
+aVChris Webber WAS 03/12/1997 WAS vs. VAN W 34 32 14 21 66.7 1 1 100.0 3 4 75.0 6 4 10 4 3 2 1 2 19
+p209
+aVGheorghe Muresan WAS 03/12/1997 WAS vs. VAN W 23 12 5 6 83.3 0 0 - 2 2 100.0 2 6 8 0 0 2 2 5 16
+p210
+aVAshraf Amaya WAS 03/12/1997 WAS vs. VAN W 9 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -3
+p211
+aVBen Wallace WAS 03/12/1997 WAS vs. VAN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -7
+p212
+aVJuwan Howard WAS 03/12/1997 WAS vs. VAN W 32 7 3 9 33.3 0 0 - 1 1 100.0 1 4 5 2 1 0 2 2 24
+p213
+aVCalbert Cheaney WAS 03/12/1997 WAS vs. VAN W 32 11 5 11 45.5 0 0 - 1 3 33.3 3 5 8 3 1 0 1 2 14
+p214
+aVAshraf Amaya WAS 03/09/1997 WAS vs. PHI L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p215
+aVCalbert Cheaney WAS 03/09/1997 WAS vs. PHI L 42 10 5 10 50.0 0 0 - 0 2 0.0 1 0 1 0 4 0 4 5 -4
+p216
+aVHarvey Grant WAS 03/09/1997 WAS vs. PHI L 26 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 2 1 1 5 -1
+p217
+aVChris Whitney WAS 03/09/1997 WAS vs. PHI L 9 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 2 0 0 3 2 8
+p218
+aVGheorghe Muresan WAS 03/09/1997 WAS vs. PHI L 29 12 6 10 60.0 0 0 - 0 0 - 3 10 13 0 1 2 2 0 13
+p219
+aVJaren Jackson WAS 03/09/1997 WAS vs. PHI L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -2
+p220
+aVJuwan Howard WAS 03/09/1997 WAS vs. PHI L 38 19 8 18 44.4 0 0 - 3 4 75.0 2 2 4 1 3 0 3 5 -13
+p221
+aVRod Strickland WAS 03/09/1997 WAS vs. PHI L 40 21 10 17 58.8 0 1 0.0 1 7 14.3 1 1 2 8 1 0 4 1 -13
+p222
+aVTracy Murray WAS 03/09/1997 WAS vs. PHI L 33 23 8 16 50.0 3 5 60.0 4 4 100.0 3 8 11 2 1 0 0 2 -6
+p223
+aVBen Wallace WAS 03/09/1997 WAS vs. PHI L 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -5
+p224
+aVJuwan Howard WAS 03/07/1997 WAS vs. MIA L 47 28 11 21 52.4 0 0 - 6 10 60.0 4 3 7 3 2 0 2 4 -7
+p225
+aVAshraf Amaya WAS 03/07/1997 WAS vs. MIA L 11 3 1 3 33.3 0 0 - 1 2 50.0 3 2 5 0 0 0 0 5 -10
+p226
+aVHarvey Grant WAS 03/07/1997 WAS vs. MIA L 26 2 1 4 25.0 0 1 0.0 0 0 - 2 3 5 2 1 0 2 1 5
+p227
+aVGheorghe Muresan WAS 03/07/1997 WAS vs. MIA L 29 12 6 8 75.0 0 0 - 0 3 0.0 4 6 10 0 0 1 6 5 17
+p228
+aVTracy Murray WAS 03/07/1997 WAS vs. MIA L 38 13 5 15 33.3 1 6 16.7 2 3 66.7 2 6 8 1 1 0 2 2 4
+p229
+aVCalbert Cheaney WAS 03/07/1997 WAS vs. MIA L 39 8 3 9 33.3 0 0 - 2 3 66.7 1 4 5 0 0 0 1 2 5
+p230
+aVChris Whitney WAS 03/07/1997 WAS vs. MIA L 14 5 2 4 50.0 0 1 0.0 1 1 100.0 1 1 2 2 1 0 2 0 -8
+p231
+aVRod Strickland WAS 03/07/1997 WAS vs. MIA L 43 28 9 21 42.9 0 1 0.0 10 11 90.9 2 1 3 5 4 0 0 2 -3
+p232
+aVBen Wallace WAS 03/07/1997 WAS vs. MIA L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p233
+aVJaren Jackson WAS 03/07/1997 WAS vs. MIA L 13 6 2 5 40.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 3 -4
+p234
+aVTracy Murray WAS 03/06/1997 WAS @ MIA W 28 22 8 14 57.1 4 8 50.0 2 2 100.0 4 3 7 1 0 0 1 2 10
+p235
+aVBen Wallace WAS 03/06/1997 WAS @ MIA W 12 6 3 3 100.0 0 0 - 0 1 0.0 3 3 6 0 1 2 1 1 15
+p236
+aVRod Strickland WAS 03/06/1997 WAS @ MIA W 37 19 4 12 33.3 0 0 - 11 16 68.8 1 4 5 11 1 1 5 1 0
+p237
+aVJuwan Howard WAS 03/06/1997 WAS @ MIA W 39 14 7 18 38.9 0 0 - 0 0 - 1 7 8 4 1 0 1 5 11
+p238
+aVChris Whitney WAS 03/06/1997 WAS @ MIA W 16 12 4 7 57.1 2 5 40.0 2 2 100.0 0 0 0 3 0 0 0 2 2
+p239
+aVGheorghe Muresan WAS 03/06/1997 WAS @ MIA W 21 12 6 8 75.0 0 0 - 0 0 - 0 8 8 0 1 1 0 2 -4
+p240
+aVJaren Jackson WAS 03/06/1997 WAS @ MIA W 15 2 1 5 20.0 0 1 0.0 0 2 0.0 2 3 5 2 0 0 2 3 1
+p241
+aVHarvey Grant WAS 03/06/1997 WAS @ MIA W 29 6 3 5 60.0 0 2 0.0 0 0 - 0 4 4 1 1 1 1 2 -14
+p242
+aVAshraf Amaya WAS 03/06/1997 WAS @ MIA W 15 0 0 1 0.0 0 0 - 0 0 - 1 5 6 0 1 0 2 3 -9
+p243
+aVCalbert Cheaney WAS 03/06/1997 WAS @ MIA W 28 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 2 1 0 1 3 8
+p244
+aVChris Webber WAS 03/04/1997 WAS @ PHI W 22 14 4 12 33.3 1 1 100.0 5 5 100.0 6 4 10 2 2 1 3 3 -7
+p245
+aVChris Whitney WAS 03/04/1997 WAS @ PHI W 12 9 2 4 50.0 1 3 33.3 4 4 100.0 0 1 1 5 0 0 1 2 12
+p246
+aVRod Strickland WAS 03/04/1997 WAS @ PHI W 37 19 6 17 35.3 0 0 - 7 7 100.0 2 2 4 10 2 1 1 2 -9
+p247
+aVTracy Murray WAS 03/04/1997 WAS @ PHI W 19 7 1 2 50.0 1 1 100.0 4 4 100.0 0 3 3 2 0 1 1 3 15
+p248
+aVHarvey Grant WAS 03/04/1997 WAS @ PHI W 19 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 1 1 0 2 -9
+p249
+aVCalbert Cheaney WAS 03/04/1997 WAS @ PHI W 41 24 11 19 57.9 0 0 - 2 2 100.0 2 2 4 2 4 0 0 2 0
+p250
+aVAshraf Amaya WAS 03/04/1997 WAS @ PHI W 10 4 2 3 66.7 0 0 - 0 2 0.0 2 5 7 0 0 1 0 5 -3
+p251
+aVJaren Jackson WAS 03/04/1997 WAS @ PHI W 18 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 0 1 0 1 -9
+p252
+aVJuwan Howard WAS 03/04/1997 WAS @ PHI W 44 22 9 18 50.0 0 0 - 4 4 100.0 3 7 10 1 1 0 3 5 9
+p253
+aVGheorghe Muresan WAS 03/04/1997 WAS @ PHI W 17 4 2 5 40.0 0 0 - 0 2 0.0 4 2 6 0 0 1 1 2 6
+p254
+aVCalbert Cheaney WAS 03/01/1997 WAS vs. GSW W 37 10 5 10 50.0 0 1 0.0 0 1 0.0 1 2 3 1 1 0 0 4 6
+p255
+aVJaren Jackson WAS 03/01/1997 WAS vs. GSW W 15 8 2 5 40.0 0 2 0.0 4 4 100.0 0 2 2 1 0 0 2 4 3
+p256
+aVHarvey Grant WAS 03/01/1997 WAS vs. GSW W 13 7 2 2 100.0 1 1 100.0 2 2 100.0 1 2 3 1 0 3 0 4 3
+p257
+aVGheorghe Muresan WAS 03/01/1997 WAS vs. GSW W 20 12 3 3 100.0 0 0 - 6 8 75.0 3 2 5 0 0 1 4 5 10
+p258
+aVChris Webber WAS 03/01/1997 WAS vs. GSW W 44 23 10 16 62.5 1 2 50.0 2 6 33.3 7 8 15 10 2 2 2 5 11
+p259
+aVRod Strickland WAS 03/01/1997 WAS vs. GSW W 37 12 3 11 27.3 0 0 - 6 8 75.0 2 2 4 10 2 0 3 0 8
+p260
+aVTracy Murray WAS 03/01/1997 WAS vs. GSW W 17 12 5 11 45.5 1 5 20.0 1 2 50.0 0 1 1 0 2 0 0 3 -2
+p261
+aVJuwan Howard WAS 03/01/1997 WAS vs. GSW W 42 25 10 17 58.8 0 0 - 5 6 83.3 1 6 7 4 2 0 4 4 11
+p262
+aVChris Whitney WAS 03/01/1997 WAS vs. GSW W 15 9 3 5 60.0 2 3 66.7 1 2 50.0 1 1 2 1 0 0 2 3 0
+p263
+aVCalbert Cheaney WAS 02/27/1997 WAS vs. LAL L 38 6 2 7 28.6 0 0 - 2 2 100.0 2 1 3 2 1 0 3 4 -13
+p264
+aVChris Whitney WAS 02/27/1997 WAS vs. LAL L 8 2 1 6 16.7 0 3 0.0 0 0 - 0 1 1 1 0 0 0 1 1
+p265
+aVJuwan Howard WAS 02/27/1997 WAS vs. LAL L 42 26 8 16 50.0 0 0 - 10 10 100.0 4 8 12 5 0 0 3 2 -17
+p266
+aVTracy Murray WAS 02/27/1997 WAS vs. LAL L 30 15 6 16 37.5 2 7 28.6 1 2 50.0 2 2 4 2 1 1 1 3 -16
+p267
+aVRod Strickland WAS 02/27/1997 WAS vs. LAL L 40 23 8 13 61.5 0 0 - 7 8 87.5 1 2 3 8 1 0 4 2 -16
+p268
+aVGheorghe Muresan WAS 02/27/1997 WAS vs. LAL L 20 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 2 1 3 -8
+p269
+aVJaren Jackson WAS 02/27/1997 WAS vs. LAL L 18 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 0 3 0
+p270
+aVLorenzo Williams WAS 02/27/1997 WAS vs. LAL L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 1 1 2
+p271
+aVChris Webber WAS 02/27/1997 WAS vs. LAL L 38 24 9 15 60.0 1 1 100.0 5 6 83.3 1 7 8 6 3 2 4 4 -8
+p272
+aVChris Webber WAS 02/25/1997 WAS vs. IND W 18 9 4 6 66.7 0 1 0.0 1 2 50.0 3 7 10 4 1 0 2 5 12
+p273
+aVGheorghe Muresan WAS 02/25/1997 WAS vs. IND W 27 10 3 6 50.0 0 0 - 4 5 80.0 0 5 5 0 1 1 2 4 5
+p274
+aVCalbert Cheaney WAS 02/25/1997 WAS vs. IND W 32 15 6 13 46.2 0 0 - 3 3 100.0 2 3 5 0 0 0 1 4 18
+p275
+aVJaren Jackson WAS 02/25/1997 WAS vs. IND W 19 1 0 3 0.0 0 2 0.0 1 1 100.0 0 0 0 1 0 1 1 0 3
+p276
+aVRod Strickland WAS 02/25/1997 WAS vs. IND W 35 17 6 11 54.5 0 0 - 5 7 71.4 2 2 4 8 2 0 3 1 22
+p277
+aVAshraf Amaya WAS 02/25/1997 WAS vs. IND W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 1 0 0 0
+p278
+aVTracy Murray WAS 02/25/1997 WAS vs. IND W 30 19 7 12 58.3 3 4 75.0 2 2 100.0 1 5 6 4 1 0 4 3 15
+p279
+aVJuwan Howard WAS 02/25/1997 WAS vs. IND W 41 28 12 19 63.2 0 0 - 4 5 80.0 4 7 11 9 1 0 3 2 24
+p280
+aVChris Whitney WAS 02/25/1997 WAS vs. IND W 14 5 1 4 25.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 2 2 -1
+p281
+aVLorenzo Williams WAS 02/25/1997 WAS vs. IND W 14 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 1 2 10
+p282
+aVGaylon Nickerson WAS 02/25/1997 WAS vs. IND W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -3
+p283
+aVLorenzo Williams WAS 02/23/1997 WAS vs. DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p284
+aVChris Whitney WAS 02/23/1997 WAS vs. DET L 15 7 2 5 40.0 2 5 40.0 1 1 100.0 1 2 3 0 1 0 0 2 -15
+p285
+aVGheorghe Muresan WAS 02/23/1997 WAS vs. DET L 20 8 4 5 80.0 0 0 - 0 0 - 3 6 9 0 1 2 2 0 1
+p286
+aVChris Webber WAS 02/23/1997 WAS vs. DET L 43 19 8 17 47.1 1 2 50.0 2 2 100.0 0 12 12 4 0 4 2 3 -2
+p287
+aVCalbert Cheaney WAS 02/23/1997 WAS vs. DET L 43 8 3 8 37.5 0 0 - 2 4 50.0 0 2 2 2 1 0 0 3 2
+p288
+aVJaren Jackson WAS 02/23/1997 WAS vs. DET L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -8
+p289
+aVTracy Murray WAS 02/23/1997 WAS vs. DET L 22 9 3 6 50.0 2 4 50.0 1 2 50.0 0 4 4 0 2 1 1 3 -3
+p290
+aVRod Strickland WAS 02/23/1997 WAS vs. DET L 41 19 9 18 50.0 1 1 100.0 0 2 0.0 1 4 5 9 2 0 7 4 0
+p291
+aVJuwan Howard WAS 02/23/1997 WAS vs. DET L 45 9 4 14 28.6 0 0 - 1 2 50.0 0 2 2 6 1 0 1 2 -1
+p292
+aVAshraf Amaya WAS 02/21/1997 WAS vs. CHI L 7 2 0 0 - 0 0 - 2 4 50.0 1 0 1 0 1 0 0 1 -1
+p293
+aVChris Whitney WAS 02/21/1997 WAS vs. CHI L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -8
+p294
+aVJaren Jackson WAS 02/21/1997 WAS vs. CHI L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 0 4 -6
+p295
+aVLorenzo Williams WAS 02/21/1997 WAS vs. CHI L 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 3 -18
+p296
+aVGheorghe Muresan WAS 02/21/1997 WAS vs. CHI L 35 13 5 10 50.0 0 0 - 3 4 75.0 1 4 5 1 0 1 2 4 12
+p297
+aVTracy Murray WAS 02/21/1997 WAS vs. CHI L 28 12 5 11 45.5 0 4 0.0 2 2 100.0 1 5 6 0 2 0 1 4 -2
+p298
+aVJuwan Howard WAS 02/21/1997 WAS vs. CHI L 46 25 10 17 58.8 0 0 - 5 8 62.5 3 7 10 3 0 0 3 2 -1
+p299
+aVCalbert Cheaney WAS 02/21/1997 WAS vs. CHI L 39 18 9 12 75.0 0 0 - 0 0 - 3 1 4 1 0 1 2 2 8
+p300
+aVHarvey Grant WAS 02/21/1997 WAS vs. CHI L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -14
+p301
+aVRod Strickland WAS 02/21/1997 WAS vs. CHI L 38 23 9 20 45.0 0 1 0.0 5 8 62.5 0 3 3 9 2 0 2 4 0
+p302
+aVJaren Jackson WAS 02/19/1997 WAS @ DET L 8 6 3 5 60.0 0 2 0.0 0 0 - 1 0 1 0 0 0 2 0 1
+p303
+aVTracy Murray WAS 02/19/1997 WAS @ DET L 25 15 6 14 42.9 2 3 66.7 1 1 100.0 3 3 6 0 1 0 1 3 -9
+p304
+aVAshraf Amaya WAS 02/19/1997 WAS @ DET L 5 3 1 3 33.3 0 0 - 1 1 100.0 1 0 1 0 0 1 0 0 6
+p305
+aVJuwan Howard WAS 02/19/1997 WAS @ DET L 42 25 12 19 63.2 0 0 - 1 1 100.0 5 5 10 3 0 0 4 2 -16
+p306
+aVLorenzo Williams WAS 02/19/1997 WAS @ DET L 14 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -7
+p307
+aVHarvey Grant WAS 02/19/1997 WAS @ DET L 35 5 2 5 40.0 1 2 50.0 0 0 - 1 3 4 1 0 1 0 2 -13
+p308
+aVRod Strickland WAS 02/19/1997 WAS @ DET L 31 6 3 11 27.3 0 1 0.0 0 0 - 1 3 4 14 0 0 1 6 -19
+p309
+aVGheorghe Muresan WAS 02/19/1997 WAS @ DET L 21 10 5 8 62.5 0 0 - 0 0 - 0 6 6 0 0 0 0 4 -6
+p310
+aVCalbert Cheaney WAS 02/19/1997 WAS @ DET L 40 9 4 12 33.3 0 1 0.0 1 2 50.0 1 4 5 3 2 0 0 3 -16
+p311
+aVChris Whitney WAS 02/19/1997 WAS @ DET L 19 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 5 0 0 2 2 4
+p312
+aVGheorghe Muresan WAS 02/17/1997 WAS vs. MIL W 30 15 7 10 70.0 0 0 - 1 3 33.3 1 8 9 1 0 1 0 2 3
+p313
+aVHarvey Grant WAS 02/17/1997 WAS vs. MIL W 25 0 0 1 0.0 0 0 - 0 0 - 0 4 4 3 1 2 1 4 4
+p314
+aVJaren Jackson WAS 02/17/1997 WAS vs. MIL W 13 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 3 0 1 1 0 13
+p315
+aVTracy Murray WAS 02/17/1997 WAS vs. MIL W 25 9 2 8 25.0 1 5 20.0 4 6 66.7 2 1 3 2 2 0 1 2 0
+p316
+aVLorenzo Williams WAS 02/17/1997 WAS vs. MIL W 18 4 2 2 100.0 0 0 - 0 0 - 2 2 4 0 0 0 1 3 -1
+p317
+aVChris Whitney WAS 02/17/1997 WAS vs. MIL W 10 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 1 1 0 0 0 -1
+p318
+aVCalbert Cheaney WAS 02/17/1997 WAS vs. MIL W 37 15 5 9 55.6 0 0 - 5 6 83.3 0 5 5 5 0 1 1 1 -4
+p319
+aVJuwan Howard WAS 02/17/1997 WAS vs. MIL W 43 20 9 22 40.9 0 0 - 2 2 100.0 2 7 9 1 1 1 0 3 -7
+p320
+aVRod Strickland WAS 02/17/1997 WAS vs. MIL W 38 18 6 13 46.2 1 1 100.0 5 7 71.4 0 3 3 4 1 0 4 2 3
+p321
+aVChris Whitney WAS 02/15/1997 WAS @ NJN L 11 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 2 1 -14
+p322
+aVLorenzo Williams WAS 02/15/1997 WAS @ NJN L 21 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 0 1 4 -1
+p323
+aVTracy Murray WAS 02/15/1997 WAS @ NJN L 15 9 4 10 40.0 1 4 25.0 0 0 - 1 1 2 1 0 0 1 1 -11
+p324
+aVJuwan Howard WAS 02/15/1997 WAS @ NJN L 43 17 7 16 43.8 0 0 - 3 4 75.0 5 7 12 7 0 0 4 3 -18
+p325
+aVGheorghe Muresan WAS 02/15/1997 WAS @ NJN L 23 7 3 6 50.0 0 0 - 1 1 100.0 1 3 4 0 0 4 2 5 -17
+p326
+aVCalbert Cheaney WAS 02/15/1997 WAS @ NJN L 30 13 6 13 46.2 1 2 50.0 0 0 - 0 3 3 1 2 0 2 4 -11
+p327
+aVAshraf Amaya WAS 02/15/1997 WAS @ NJN L 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -6
+p328
+aVTim Legler WAS 02/15/1997 WAS @ NJN L 8 3 1 2 50.0 0 0 - 1 1 100.0 0 2 2 1 0 0 0 1 -1
+p329
+aVHarvey Grant WAS 02/15/1997 WAS @ NJN L 29 6 3 8 37.5 0 2 0.0 0 1 0.0 0 4 4 2 0 3 1 2 -9
+p330
+aVRod Strickland WAS 02/15/1997 WAS @ NJN L 41 18 5 12 41.7 0 0 - 8 8 100.0 0 3 3 8 2 0 4 3 -14
+p331
+aVJaren Jackson WAS 02/15/1997 WAS @ NJN L 12 4 1 4 25.0 1 3 33.3 1 2 50.0 0 0 0 0 2 0 0 1 -3
+p332
+aVAshraf Amaya WAS 02/14/1997 WAS vs. NJN W 9 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 1 0 0 2 4 -5
+p333
+aVCalbert Cheaney WAS 02/14/1997 WAS vs. NJN W 36 22 9 15 60.0 0 0 - 4 7 57.1 2 3 5 2 2 0 1 2 16
+p334
+aVTim Legler WAS 02/14/1997 WAS vs. NJN W 22 7 2 5 40.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 2 2 1
+p335
+aVJaren Jackson WAS 02/14/1997 WAS vs. NJN W 6 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -5
+p336
+aVGheorghe Muresan WAS 02/14/1997 WAS vs. NJN W 20 14 5 6 83.3 0 0 - 4 4 100.0 0 4 4 0 1 1 4 5 7
+p337
+aVJuwan Howard WAS 02/14/1997 WAS vs. NJN W 36 25 9 16 56.3 0 0 - 7 8 87.5 0 4 4 3 0 0 1 4 18
+p338
+aVTracy Murray WAS 02/14/1997 WAS vs. NJN W 15 9 2 8 25.0 1 3 33.3 4 4 100.0 2 1 3 0 2 1 1 4 4
+p339
+aVLorenzo Williams WAS 02/14/1997 WAS vs. NJN W 25 13 6 7 85.7 0 0 - 1 1 100.0 5 5 10 2 0 0 1 3 15
+p340
+aVHarvey Grant WAS 02/14/1997 WAS vs. NJN W 23 6 3 6 50.0 0 0 - 0 0 - 1 3 4 1 0 0 1 4 21
+p341
+aVChris Whitney WAS 02/14/1997 WAS vs. NJN W 19 9 2 5 40.0 1 1 100.0 4 4 100.0 0 0 0 2 2 0 1 2 -2
+p342
+aVRod Strickland WAS 02/14/1997 WAS vs. NJN W 29 19 6 10 60.0 0 0 - 7 8 87.5 0 4 4 10 3 0 2 3 20
+p343
+aVTracy Murray WAS 02/11/1997 WAS vs. NYK L 15 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 1 1 1 2 0 -7
+p344
+aVCalbert Cheaney WAS 02/11/1997 WAS vs. NYK L 17 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 0 3 3 4
+p345
+aVChris Whitney WAS 02/11/1997 WAS vs. NYK L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 0 -10
+p346
+aVTim Legler WAS 02/11/1997 WAS vs. NYK L 22 9 3 6 50.0 1 4 25.0 2 2 100.0 0 2 2 1 0 1 2 3 -10
+p347
+aVHarvey Grant WAS 02/11/1997 WAS vs. NYK L 29 4 2 11 18.2 0 1 0.0 0 0 - 5 2 7 0 1 0 1 4 -10
+p348
+aVRod Strickland WAS 02/11/1997 WAS vs. NYK L 42 21 9 19 47.4 0 2 0.0 3 4 75.0 1 5 6 8 2 0 3 4 4
+p349
+aVJaren Jackson WAS 02/11/1997 WAS vs. NYK L 10 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -2
+p350
+aVGheorghe Muresan WAS 02/11/1997 WAS vs. NYK L 22 11 4 5 80.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 4 8
+p351
+aVJuwan Howard WAS 02/11/1997 WAS vs. NYK L 41 19 5 13 38.5 0 0 - 9 14 64.3 2 4 6 3 0 1 1 1 -5
+p352
+aVChris Webber WAS 02/11/1997 WAS vs. NYK L 37 17 8 13 61.5 1 2 50.0 0 2 0.0 3 6 9 3 3 1 5 2 -2
+p353
+aVJuwan Howard WAS 02/05/1997 WAS @ DEN L 43 22 11 26 42.3 0 0 - 0 3 0.0 6 6 12 2 1 0 5 4 -7
+p354
+aVCalbert Cheaney WAS 02/05/1997 WAS @ DEN L 23 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 1 0 1 4 -7
+p355
+aVRod Strickland WAS 02/05/1997 WAS @ DEN L 37 28 13 20 65.0 0 1 0.0 2 4 50.0 1 3 4 10 0 1 4 1 -11
+p356
+aVHarvey Grant WAS 02/05/1997 WAS @ DEN L 42 14 5 11 45.5 2 6 33.3 2 2 100.0 2 5 7 2 1 2 2 4 -9
+p357
+aVChris Whitney WAS 02/05/1997 WAS @ DEN L 11 4 1 3 33.3 1 1 100.0 1 2 50.0 0 3 3 4 0 0 1 2 9
+p358
+aVGheorghe Muresan WAS 02/05/1997 WAS @ DEN L 30 7 2 8 25.0 0 0 - 3 4 75.0 2 6 8 1 0 1 2 3 13
+p359
+aVJaren Jackson WAS 02/05/1997 WAS @ DEN L 25 11 4 9 44.4 3 6 50.0 0 0 - 1 3 4 0 2 0 0 3 5
+p360
+aVTracy Murray WAS 02/05/1997 WAS @ DEN L 28 14 4 9 44.4 3 6 50.0 3 3 100.0 0 2 2 2 3 0 2 1 -3
+p361
+aVJuwan Howard WAS 02/03/1997 WAS @ UTA L 35 10 5 14 35.7 0 0 - 0 0 - 4 2 6 4 3 0 0 5 -32
+p362
+aVChris Webber WAS 02/03/1997 WAS @ UTA L 16 9 3 7 42.9 0 2 0.0 3 5 60.0 2 2 4 1 0 1 3 3 -22
+p363
+aVRod Strickland WAS 02/03/1997 WAS @ UTA L 31 11 5 12 41.7 0 1 0.0 1 2 50.0 1 2 3 7 0 0 5 1 -28
+p364
+aVBen Wallace WAS 02/03/1997 WAS @ UTA L 10 4 2 4 50.0 0 0 - 0 1 0.0 0 2 2 0 1 1 1 3 -6
+p365
+aVCalbert Cheaney WAS 02/03/1997 WAS @ UTA L 29 6 2 7 28.6 0 2 0.0 2 2 100.0 0 3 3 1 0 0 1 3 -22
+p366
+aVHarvey Grant WAS 02/03/1997 WAS @ UTA L 18 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 0 1 0 1 3 -9
+p367
+aVTracy Murray WAS 02/03/1997 WAS @ UTA L 27 11 4 9 44.4 1 5 20.0 2 2 100.0 1 0 1 3 1 0 3 0 -2
+p368
+aVChris Whitney WAS 02/03/1997 WAS @ UTA L 17 6 2 7 28.6 1 5 20.0 1 2 50.0 0 1 1 4 0 0 0 1 6
+p369
+aVGheorghe Muresan WAS 02/03/1997 WAS @ UTA L 31 18 7 10 70.0 0 0 - 4 7 57.1 5 4 9 0 3 2 2 5 -6
+p370
+aVJaren Jackson WAS 02/03/1997 WAS @ UTA L 19 5 1 6 16.7 0 1 0.0 3 4 75.0 2 1 3 2 0 1 1 3 0
+p371
+aVAshraf Amaya WAS 02/03/1997 WAS @ UTA L 7 4 1 1 100.0 0 0 - 2 3 66.7 0 2 2 0 0 0 0 0 11
+p372
+aVTracy Murray WAS 02/02/1997 WAS @ LAL L 24 8 2 7 28.6 0 2 0.0 4 6 66.7 2 3 5 3 2 0 1 1 -2
+p373
+aVCalbert Cheaney WAS 02/02/1997 WAS @ LAL L 35 8 4 8 50.0 0 1 0.0 0 0 - 0 4 4 1 1 0 2 3 -28
+p374
+aVJaren Jackson WAS 02/02/1997 WAS @ LAL L 8 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -8
+p375
+aVAshraf Amaya WAS 02/02/1997 WAS @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p376
+aVGheorghe Muresan WAS 02/02/1997 WAS @ LAL L 22 6 3 7 42.9 0 0 - 0 1 0.0 2 2 4 2 1 2 1 4 -10
+p377
+aVJuwan Howard WAS 02/02/1997 WAS @ LAL L 37 21 10 19 52.6 0 0 - 1 4 25.0 3 2 5 7 0 0 0 2 -26
+p378
+aVRod Strickland WAS 02/02/1997 WAS @ LAL L 26 23 8 14 57.1 1 2 50.0 6 9 66.7 2 1 3 8 0 0 4 4 -27
+p379
+aVChris Whitney WAS 02/02/1997 WAS @ LAL L 22 8 4 9 44.4 0 2 0.0 0 0 - 0 1 1 5 1 0 0 2 -3
+p380
+aVHarvey Grant WAS 02/02/1997 WAS @ LAL L 23 7 3 7 42.9 1 3 33.3 0 0 - 0 7 7 1 0 0 0 4 -16
+p381
+aVChris Webber WAS 02/02/1997 WAS @ LAL L 36 13 6 16 37.5 1 3 33.3 0 0 - 2 5 7 5 2 0 5 3 -32
+p382
+aVBen Wallace WAS 02/02/1997 WAS @ LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 1 0 0 -1
+p383
+aVHarvey Grant WAS 01/31/1997 WAS @ SEA L 18 7 2 5 40.0 1 2 50.0 2 2 100.0 2 5 7 0 0 0 0 1 5
+p384
+aVCalbert Cheaney WAS 01/31/1997 WAS @ SEA L 36 16 8 14 57.1 0 1 0.0 0 0 - 0 8 8 1 3 0 2 4 -7
+p385
+aVRod Strickland WAS 01/31/1997 WAS @ SEA L 42 13 3 16 18.8 0 4 0.0 7 9 77.8 1 3 4 10 3 0 3 3 -9
+p386
+aVChris Webber WAS 01/31/1997 WAS @ SEA L 41 20 8 14 57.1 1 2 50.0 3 4 75.0 4 6 10 3 2 5 5 3 -1
+p387
+aVChris Whitney WAS 01/31/1997 WAS @ SEA L 6 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 7
+p388
+aVGheorghe Muresan WAS 01/31/1997 WAS @ SEA L 27 9 4 9 44.4 0 0 - 1 2 50.0 4 3 7 0 0 0 1 4 -11
+p389
+aVJaren Jackson WAS 01/31/1997 WAS @ SEA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 2
+p390
+aVJuwan Howard WAS 01/31/1997 WAS @ SEA L 41 10 2 8 25.0 0 0 - 6 7 85.7 3 1 4 4 1 0 5 2 -5
+p391
+aVTracy Murray WAS 01/31/1997 WAS @ SEA L 24 17 5 9 55.6 4 7 57.1 3 3 100.0 1 1 2 0 0 0 2 4 9
+p392
+aVChris Whitney WAS 01/28/1997 WAS vs. ORL W 17 6 2 3 66.7 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 1 13
+p393
+aVCalbert Cheaney WAS 01/28/1997 WAS vs. ORL W 25 9 4 11 36.4 0 1 0.0 1 2 50.0 0 0 0 0 0 0 3 1 9
+p394
+aVBen Wallace WAS 01/28/1997 WAS vs. ORL W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 0
+p395
+aVJaren Jackson WAS 01/28/1997 WAS vs. ORL W 18 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 2 0 1 0 10
+p396
+aVAshraf Amaya WAS 01/28/1997 WAS vs. ORL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p397
+aVJuwan Howard WAS 01/28/1997 WAS vs. ORL W 39 26 12 19 63.2 0 0 - 2 2 100.0 4 6 10 5 1 0 4 2 15
+p398
+aVHarvey Grant WAS 01/28/1997 WAS vs. ORL W 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 6
+p399
+aVTracy Murray WAS 01/28/1997 WAS vs. ORL W 29 18 7 12 58.3 1 1 100.0 3 4 75.0 3 3 6 1 0 0 1 2 24
+p400
+aVGheorghe Muresan WAS 01/28/1997 WAS vs. ORL W 28 12 5 9 55.6 0 0 - 2 2 100.0 0 14 14 2 3 1 0 3 12
+p401
+aVChris Webber WAS 01/28/1997 WAS vs. ORL W 35 17 7 14 50.0 0 0 - 3 4 75.0 4 10 14 5 2 1 3 4 4
+p402
+aVRod Strickland WAS 01/28/1997 WAS vs. ORL W 31 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 8 3 0 1 0 9
+p403
+aVJuwan Howard WAS 01/25/1997 WAS vs. SAC W 42 20 6 18 33.3 0 0 - 8 10 80.0 1 12 13 3 2 1 4 2 2
+p404
+aVChris Webber WAS 01/25/1997 WAS vs. SAC W 42 27 13 18 72.2 1 1 100.0 0 2 0.0 5 4 9 8 4 2 3 2 8
+p405
+aVRod Strickland WAS 01/25/1997 WAS vs. SAC W 36 21 7 13 53.8 0 0 - 7 8 87.5 2 3 5 9 0 0 3 3 6
+p406
+aVHarvey Grant WAS 01/25/1997 WAS vs. SAC W 18 2 1 2 50.0 0 1 0.0 0 0 - 1 4 5 0 0 0 1 2 6
+p407
+aVGheorghe Muresan WAS 01/25/1997 WAS vs. SAC W 21 11 5 9 55.6 0 0 - 1 2 50.0 1 1 2 0 0 3 2 4 4
+p408
+aVJaren Jackson WAS 01/25/1997 WAS vs. SAC W 10 1 0 3 0.0 0 3 0.0 1 2 50.0 0 0 0 1 1 0 0 1 11
+p409
+aVChris Whitney WAS 01/25/1997 WAS vs. SAC W 12 2 0 3 0.0 0 2 0.0 2 3 66.7 1 0 1 2 1 1 0 1 2
+p410
+aVCalbert Cheaney WAS 01/25/1997 WAS vs. SAC W 38 17 8 13 61.5 0 0 - 1 2 50.0 1 1 2 2 1 0 0 3 -3
+p411
+aVTracy Murray WAS 01/25/1997 WAS vs. SAC W 21 12 3 6 50.0 2 4 50.0 4 5 80.0 1 3 4 1 1 0 0 2 4
+p412
+aVRod Strickland WAS 01/24/1997 WAS @ ATL L 42 21 9 18 50.0 0 2 0.0 3 5 60.0 0 4 4 10 1 0 0 1 -11
+p413
+aVCalbert Cheaney WAS 01/24/1997 WAS @ ATL L 42 13 6 12 50.0 0 0 - 1 2 50.0 2 2 4 1 0 0 2 2 -22
+p414
+aVHarvey Grant WAS 01/24/1997 WAS @ ATL L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 2 1 0 0 -4
+p415
+aVJuwan Howard WAS 01/24/1997 WAS @ ATL L 48 22 10 22 45.5 0 0 - 2 2 100.0 4 10 14 2 2 0 1 1 -11
+p416
+aVJaren Jackson WAS 01/24/1997 WAS @ ATL L 10 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 0 0 0 1 5 3
+p417
+aVTracy Murray WAS 01/24/1997 WAS @ ATL L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -1
+p418
+aVChris Whitney WAS 01/24/1997 WAS @ ATL L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 1 -1
+p419
+aVGheorghe Muresan WAS 01/24/1997 WAS @ ATL L 38 14 7 12 58.3 0 0 - 0 0 - 2 7 9 0 0 2 0 3 2
+p420
+aVChris Webber WAS 01/24/1997 WAS @ ATL L 45 23 10 20 50.0 1 4 25.0 2 2 100.0 3 4 7 5 0 0 2 1 -15
+p421
+aVJaren Jackson WAS 01/21/1997 WAS @ ORL L 21 0 0 3 0.0 0 3 0.0 0 0 - 0 4 4 2 2 2 0 3 -6
+p422
+aVChris Whitney WAS 01/21/1997 WAS @ ORL L 11 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 2 2 0 1 1 6
+p423
+aVRod Strickland WAS 01/21/1997 WAS @ ORL L 37 21 10 19 52.6 0 0 - 1 3 33.3 1 3 4 8 2 1 1 0 -11
+p424
+aVTracy Murray WAS 01/21/1997 WAS @ ORL L 21 10 4 9 44.4 1 5 20.0 1 2 50.0 0 0 0 1 1 0 1 2 10
+p425
+aVJuwan Howard WAS 01/21/1997 WAS @ ORL L 42 20 9 18 50.0 0 0 - 2 2 100.0 4 3 7 6 1 0 4 2 -6
+p426
+aVHarvey Grant WAS 01/21/1997 WAS @ ORL L 20 0 0 4 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 2 -16
+p427
+aVChris Webber WAS 01/21/1997 WAS @ ORL L 40 16 7 16 43.8 1 1 100.0 1 4 25.0 4 9 13 4 2 4 7 3 -16
+p428
+aVGheorghe Muresan WAS 01/21/1997 WAS @ ORL L 21 10 4 5 80.0 0 0 - 2 2 100.0 0 4 4 0 0 4 1 6 13
+p429
+aVCalbert Cheaney WAS 01/21/1997 WAS @ ORL L 27 8 4 7 57.1 0 0 - 0 0 - 1 2 3 1 0 0 1 6 1
+p430
+aVBen Wallace WAS 01/20/1997 WAS @ NYK L 3 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 -2
+p431
+aVGheorghe Muresan WAS 01/20/1997 WAS @ NYK L 29 11 3 8 37.5 0 0 - 5 6 83.3 2 11 13 0 1 0 1 4 3
+p432
+aVCalbert Cheaney WAS 01/20/1997 WAS @ NYK L 30 9 3 6 50.0 0 0 - 3 4 75.0 0 2 2 0 1 0 1 3 -18
+p433
+aVChris Webber WAS 01/20/1997 WAS @ NYK L 40 17 6 12 50.0 2 5 40.0 3 5 60.0 1 3 4 3 1 0 4 2 -17
+p434
+aVHarvey Grant WAS 01/20/1997 WAS @ NYK L 14 5 1 5 20.0 1 3 33.3 2 2 100.0 1 2 3 0 0 1 1 0 -16
+p435
+aVJaren Jackson WAS 01/20/1997 WAS @ NYK L 11 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 0 1 0 1 1 -3
+p436
+aVTracy Murray WAS 01/20/1997 WAS @ NYK L 19 8 1 3 33.3 1 3 33.3 5 6 83.3 0 0 0 0 0 0 1 2 0
+p437
+aVAshraf Amaya WAS 01/20/1997 WAS @ NYK L 1 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 2
+p438
+aVRod Strickland WAS 01/20/1997 WAS @ NYK L 36 8 3 10 30.0 0 0 - 2 4 50.0 0 1 1 6 1 0 4 1 -11
+p439
+aVJuwan Howard WAS 01/20/1997 WAS @ NYK L 42 13 5 11 45.5 0 0 - 3 6 50.0 0 9 9 2 0 0 4 2 -19
+p440
+aVChris Whitney WAS 01/20/1997 WAS @ NYK L 15 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 1
+p441
+aVChris Whitney WAS 01/18/1997 WAS @ BOS W 15 10 2 3 66.7 2 2 100.0 4 6 66.7 0 0 0 5 0 0 2 2 15
+p442
+aVJaren Jackson WAS 01/18/1997 WAS @ BOS W 13 10 3 5 60.0 2 2 100.0 2 2 100.0 1 3 4 1 1 0 1 0 8
+p443
+aVJuwan Howard WAS 01/18/1997 WAS @ BOS W 43 17 8 16 50.0 0 0 - 1 1 100.0 0 6 6 3 0 0 7 3 -4
+p444
+aVGheorghe Muresan WAS 01/18/1997 WAS @ BOS W 14 9 4 6 66.7 0 0 - 1 1 100.0 0 3 3 1 0 0 0 2 1
+p445
+aVHarvey Grant WAS 01/18/1997 WAS @ BOS W 29 4 2 4 50.0 0 1 0.0 0 0 - 2 4 6 1 1 2 2 3 6
+p446
+aVTracy Murray WAS 01/18/1997 WAS @ BOS W 19 4 2 6 33.3 0 1 0.0 0 0 - 0 5 5 2 1 0 1 1 11
+p447
+aVCalbert Cheaney WAS 01/18/1997 WAS @ BOS W 31 14 7 10 70.0 0 0 - 0 0 - 2 6 8 1 1 0 2 3 0
+p448
+aVRod Strickland WAS 01/18/1997 WAS @ BOS W 34 19 5 14 35.7 0 1 0.0 9 9 100.0 2 4 6 9 1 0 3 3 -9
+p449
+aVChris Webber WAS 01/18/1997 WAS @ BOS W 42 25 10 19 52.6 2 2 100.0 3 7 42.9 3 6 9 7 3 0 4 5 2
+p450
+aVCalbert Cheaney WAS 01/17/1997 WAS vs. MIA L 35 23 10 16 62.5 0 0 - 3 3 100.0 4 1 5 3 1 1 1 2 -5
+p451
+aVChris Webber WAS 01/17/1997 WAS vs. MIA L 39 4 2 13 15.4 0 2 0.0 0 2 0.0 2 6 8 2 0 1 5 6 -10
+p452
+aVJuwan Howard WAS 01/17/1997 WAS vs. MIA L 45 33 13 18 72.2 0 0 - 7 8 87.5 1 2 3 5 0 0 4 5 -9
+p453
+aVTracy Murray WAS 01/17/1997 WAS vs. MIA L 24 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 0 0 3 1 -12
+p454
+aVLorenzo Williams WAS 01/17/1997 WAS vs. MIA L 21 2 1 2 50.0 0 0 - 0 0 - 2 7 9 0 1 2 3 4 -3
+p455
+aVGheorghe Muresan WAS 01/17/1997 WAS vs. MIA L 17 2 1 4 25.0 0 0 - 0 0 - 0 4 4 0 0 3 2 3 1
+p456
+aVChris Whitney WAS 01/17/1997 WAS vs. MIA L 12 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 2 1 0 0 0 4
+p457
+aVHarvey Grant WAS 01/17/1997 WAS vs. MIA L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -7
+p458
+aVRod Strickland WAS 01/17/1997 WAS vs. MIA L 41 12 6 14 42.9 0 1 0.0 0 0 - 0 3 3 10 3 0 4 2 -14
+p459
+aVChris Webber WAS 01/14/1997 WAS @ CHI L 43 33 13 22 59.1 4 4 100.0 3 3 100.0 1 9 10 7 1 2 3 0 3
+p460
+aVTracy Murray WAS 01/14/1997 WAS @ CHI L 14 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 1 2
+p461
+aVHarvey Grant WAS 01/14/1997 WAS @ CHI L 23 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 -3
+p462
+aVChris Whitney WAS 01/14/1997 WAS @ CHI L 12 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 1 0 0 0 1 4
+p463
+aVGheorghe Muresan WAS 01/14/1997 WAS @ CHI L 27 15 6 6 100.0 0 0 - 3 4 75.0 0 4 4 1 0 0 2 2 -3
+p464
+aVLorenzo Williams WAS 01/14/1997 WAS @ CHI L 20 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 -1
+p465
+aVCalbert Cheaney WAS 01/14/1997 WAS @ CHI L 24 6 3 4 75.0 0 0 - 0 0 - 0 3 3 0 0 0 0 5 9
+p466
+aVJaren Jackson WAS 01/14/1997 WAS @ CHI L 7 1 0 4 0.0 0 3 0.0 1 1 100.0 0 0 0 1 1 0 2 2 -6
+p467
+aVJuwan Howard WAS 01/14/1997 WAS @ CHI L 34 17 7 13 53.8 0 0 - 3 4 75.0 2 4 6 3 0 0 3 6 -5
+p468
+aVRod Strickland WAS 01/14/1997 WAS @ CHI L 36 23 9 14 64.3 1 1 100.0 4 4 100.0 4 0 4 7 4 0 4 6 -5
+p469
+aVHarvey Grant WAS 01/13/1997 WAS @ MIA L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p470
+aVTracy Murray WAS 01/13/1997 WAS @ MIA L 18 10 3 8 37.5 2 4 50.0 2 3 66.7 2 1 3 1 2 0 2 2 10
+p471
+aVChris Webber WAS 01/13/1997 WAS @ MIA L 43 15 6 21 28.6 1 4 25.0 2 5 40.0 2 9 11 7 4 1 1 4 3
+p472
+aVChris Whitney WAS 01/13/1997 WAS @ MIA L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 2 -2
+p473
+aVJuwan Howard WAS 01/13/1997 WAS @ MIA L 41 23 9 13 69.2 0 0 - 5 5 100.0 1 7 8 2 0 1 4 2 -9
+p474
+aVGheorghe Muresan WAS 01/13/1997 WAS @ MIA L 24 17 8 11 72.7 0 0 - 1 2 50.0 1 2 3 0 0 2 0 4 20
+p475
+aVRod Strickland WAS 01/13/1997 WAS @ MIA L 38 13 4 13 30.8 0 2 0.0 5 9 55.6 1 5 6 10 1 0 4 3 -1
+p476
+aVLorenzo Williams WAS 01/13/1997 WAS @ MIA L 22 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 1 1 4 -22
+p477
+aVCalbert Cheaney WAS 01/13/1997 WAS @ MIA L 29 10 5 9 55.6 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -12
+p478
+aVBen Wallace WAS 01/11/1997 WAS @ CLE W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 1 4
+p479
+aVJaren Jackson WAS 01/11/1997 WAS @ CLE W 15 3 1 3 33.3 0 1 0.0 1 1 100.0 0 2 2 0 0 0 1 3 1
+p480
+aVJuwan Howard WAS 01/11/1997 WAS @ CLE W 42 18 8 19 42.1 0 0 - 2 2 100.0 4 6 10 2 0 1 6 2 10
+p481
+aVLorenzo Williams WAS 01/11/1997 WAS @ CLE W 13 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 1 3 -6
+p482
+aVAshraf Amaya WAS 01/11/1997 WAS @ CLE W 1 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -2
+p483
+aVGheorghe Muresan WAS 01/11/1997 WAS @ CLE W 21 8 4 6 66.7 0 0 - 0 0 - 2 5 7 1 2 1 2 4 6
+p484
+aVCalbert Cheaney WAS 01/11/1997 WAS @ CLE W 37 17 8 10 80.0 0 0 - 1 2 50.0 1 4 5 6 0 0 0 2 16
+p485
+aVChris Whitney WAS 01/11/1997 WAS @ CLE W 16 10 3 3 100.0 3 3 100.0 1 3 33.3 0 1 1 1 0 0 1 2 -5
+p486
+aVRod Strickland WAS 01/11/1997 WAS @ CLE W 35 20 8 14 57.1 1 2 50.0 3 3 100.0 1 4 5 8 3 0 2 3 21
+p487
+aVChris Webber WAS 01/11/1997 WAS @ CLE W 36 17 7 10 70.0 0 1 0.0 3 3 100.0 0 3 3 8 2 0 3 4 15
+p488
+aVTracy Murray WAS 01/11/1997 WAS @ CLE W 19 2 1 6 16.7 0 1 0.0 0 0 - 1 0 1 2 1 0 0 2 5
+p489
+aVGheorghe Muresan WAS 01/10/1997 WAS vs. LAC W 33 9 4 4 100.0 0 0 - 1 7 14.3 2 9 11 1 1 4 5 2 25
+p490
+aVLorenzo Williams WAS 01/10/1997 WAS vs. LAC W 14 0 0 0 - 0 0 - 0 0 - 1 1 2 0 2 0 1 2 -23
+p491
+aVJuwan Howard WAS 01/10/1997 WAS vs. LAC W 39 20 9 16 56.3 0 0 - 2 4 50.0 2 9 11 3 2 0 4 3 7
+p492
+aVTracy Murray WAS 01/10/1997 WAS vs. LAC W 15 4 2 10 20.0 0 1 0.0 0 0 - 2 0 2 2 1 0 1 1 -17
+p493
+aVHarvey Grant WAS 01/10/1997 WAS vs. LAC W 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -12
+p494
+aVChris Whitney WAS 01/10/1997 WAS vs. LAC W 10 8 2 4 50.0 2 3 66.7 2 2 100.0 1 1 2 1 1 1 1 3 -10
+p495
+aVCalbert Cheaney WAS 01/10/1997 WAS vs. LAC W 34 22 11 13 84.6 0 1 0.0 0 0 - 0 4 4 1 2 0 1 1 15
+p496
+aVChris Webber WAS 01/10/1997 WAS vs. LAC W 41 25 9 18 50.0 0 3 0.0 7 10 70.0 2 7 9 5 2 3 5 4 18
+p497
+aVRod Strickland WAS 01/10/1997 WAS vs. LAC W 38 14 6 15 40.0 0 0 - 2 5 40.0 3 6 9 7 0 0 4 2 17
+p498
+aVRod Strickland WAS 01/08/1997 WAS vs. PHX W 44 22 9 18 50.0 0 1 0.0 4 5 80.0 3 5 8 12 2 0 7 4 0
+p499
+aVTracy Murray WAS 01/08/1997 WAS vs. PHX W 20 16 5 9 55.6 1 2 50.0 5 6 83.3 2 2 4 2 0 0 1 0 5
+p500
+aVJuwan Howard WAS 01/08/1997 WAS vs. PHX W 45 24 8 15 53.3 0 0 - 8 10 80.0 2 6 8 2 0 0 2 3 -1
+p501
+aVChris Webber WAS 01/08/1997 WAS vs. PHX W 47 18 7 18 38.9 1 3 33.3 3 3 100.0 1 8 9 9 3 1 4 2 -1
+p502
+aVCalbert Cheaney WAS 01/08/1997 WAS vs. PHX W 30 14 6 13 46.2 0 0 - 2 2 100.0 2 2 4 0 1 0 1 2 0
+p503
+aVGheorghe Muresan WAS 01/08/1997 WAS vs. PHX W 33 9 4 5 80.0 0 0 - 1 3 33.3 1 5 6 0 1 1 1 3 -2
+p504
+aVHarvey Grant WAS 01/08/1997 WAS vs. PHX W 19 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 2 0 0 2 4
+p505
+aVChris Whitney WAS 01/08/1997 WAS vs. PHX W 9 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 1
+p506
+aVLorenzo Williams WAS 01/08/1997 WAS vs. PHX W 17 4 2 4 50.0 0 0 - 0 0 - 5 2 7 2 1 0 1 0 4
+p507
+aVGheorghe Muresan WAS 01/04/1997 WAS @ CHH W 33 15 7 11 63.6 0 0 - 1 6 16.7 3 11 14 2 1 1 2 5 11
+p508
+aVJuwan Howard WAS 01/04/1997 WAS @ CHH W 38 17 8 17 47.1 0 0 - 1 2 50.0 0 7 7 5 1 0 1 3 17
+p509
+aVChris Whitney WAS 01/04/1997 WAS @ CHH W 19 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 3 1 0 2 1 -7
+p510
+aVBen Wallace WAS 01/04/1997 WAS @ CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p511
+aVJaren Jackson WAS 01/04/1997 WAS @ CHH W 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p512
+aVHarvey Grant WAS 01/04/1997 WAS @ CHH W 28 7 3 5 60.0 1 2 50.0 0 0 - 2 1 3 2 1 0 0 2 18
+p513
+aVLorenzo Williams WAS 01/04/1997 WAS @ CHH W 15 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 0 0 1 2 3 0
+p514
+aVRod Strickland WAS 01/04/1997 WAS @ CHH W 40 28 12 19 63.2 2 3 66.7 2 2 100.0 0 4 4 11 2 1 3 3 11
+p515
+aVTracy Murray WAS 01/04/1997 WAS @ CHH W 31 20 7 12 58.3 1 3 33.3 5 5 100.0 2 1 3 0 1 0 4 3 3
+p516
+aVAshraf Amaya WAS 01/04/1997 WAS @ CHH W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p517
+aVCalbert Cheaney WAS 01/04/1997 WAS @ CHH W 25 11 5 9 55.6 0 0 - 1 2 50.0 1 1 2 0 1 0 0 3 14
+p518
+aVGheorghe Muresan WAS 01/02/1997 WAS vs. NYK L 20 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 0 0 1 2 4 3
+p519
+aVJuwan Howard WAS 01/02/1997 WAS vs. NYK L 41 16 5 19 26.3 0 0 - 6 8 75.0 3 5 8 3 3 0 1 3 -5
+p520
+aVRod Strickland WAS 01/02/1997 WAS vs. NYK L 39 17 3 11 27.3 0 2 0.0 11 13 84.6 2 4 6 8 0 0 6 2 -2
+p521
+aVChris Webber WAS 01/02/1997 WAS vs. NYK L 43 19 8 19 42.1 1 3 33.3 2 4 50.0 7 10 17 3 0 3 7 5 -3
+p522
+aVTracy Murray WAS 01/02/1997 WAS vs. NYK L 13 4 1 6 16.7 0 4 0.0 2 2 100.0 0 1 1 0 2 0 1 3 -17
+p523
+aVHarvey Grant WAS 01/02/1997 WAS vs. NYK L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 -14
+p524
+aVLorenzo Williams WAS 01/02/1997 WAS vs. NYK L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 1 1 2 -11
+p525
+aVCalbert Cheaney WAS 01/02/1997 WAS vs. NYK L 36 12 5 7 71.4 0 0 - 2 2 100.0 1 3 4 1 0 0 1 5 -4
+p526
+aVChris Whitney WAS 01/02/1997 WAS vs. NYK L 9 0 0 3 0.0 0 0 - 0 1 0.0 0 0 0 2 0 0 0 1 -10
+p527
+aVJaren Jackson WAS 01/02/1997 WAS vs. NYK L 11 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 1 1 0 1 2 3
+p528
+aVJaren Jackson WAS 12/30/1996 WAS vs. CHH L 7 3 1 4 25.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 5
+p529
+aVChris Whitney WAS 12/30/1996 WAS vs. CHH L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 3 0 0 0 1 5
+p530
+aVChris Webber WAS 12/30/1996 WAS vs. CHH L 46 22 10 23 43.5 0 3 0.0 2 4 50.0 6 8 14 7 3 2 4 4 -9
+p531
+aVTracy Murray WAS 12/30/1996 WAS vs. CHH L 23 12 3 6 50.0 0 2 0.0 6 6 100.0 0 3 3 2 0 0 0 4 9
+p532
+aVJuwan Howard WAS 12/30/1996 WAS vs. CHH L 44 23 9 21 42.9 0 0 - 5 6 83.3 3 4 7 5 2 0 2 5 -7
+p533
+aVHarvey Grant WAS 12/30/1996 WAS vs. CHH L 22 7 3 7 42.9 1 3 33.3 0 0 - 2 1 3 0 1 0 0 2 12
+p534
+aVCalbert Cheaney WAS 12/30/1996 WAS vs. CHH L 21 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 1 0 2 3 -22
+p535
+aVRod Strickland WAS 12/30/1996 WAS vs. CHH L 37 19 7 18 38.9 0 1 0.0 5 7 71.4 5 5 10 5 0 1 6 3 -14
+p536
+aVGheorghe Muresan WAS 12/30/1996 WAS vs. CHH L 29 6 2 4 50.0 0 0 - 2 2 100.0 0 6 6 0 0 3 1 1 -24
+p537
+aVBen Wallace WAS 12/28/1996 WAS vs. ATL W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p538
+aVRod Strickland WAS 12/28/1996 WAS vs. ATL W 35 16 6 17 35.3 0 0 - 4 4 100.0 0 3 3 9 2 0 2 2 15
+p539
+aVJaren Jackson WAS 12/28/1996 WAS vs. ATL W 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 9
+p540
+aVGheorghe Muresan WAS 12/28/1996 WAS vs. ATL W 35 18 8 13 61.5 0 0 - 2 2 100.0 6 6 12 0 1 0 1 2 11
+p541
+aVTracy Murray WAS 12/28/1996 WAS vs. ATL W 22 6 3 9 33.3 0 0 - 0 1 0.0 3 4 7 3 1 0 0 3 -2
+p542
+aVChris Whitney WAS 12/28/1996 WAS vs. ATL W 14 1 0 3 0.0 0 2 0.0 1 1 100.0 0 0 0 3 0 0 1 0 -4
+p543
+aVMatt Fish WAS 12/28/1996 WAS vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p544
+aVChris Webber WAS 12/28/1996 WAS vs. ATL W 41 20 9 18 50.0 1 3 33.3 1 3 33.3 5 4 9 8 3 4 1 1 6
+p545
+aVAshraf Amaya WAS 12/28/1996 WAS vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p546
+aVCalbert Cheaney WAS 12/28/1996 WAS vs. ATL W 19 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 2 0 2 3 3
+p547
+aVHarvey Grant WAS 12/28/1996 WAS vs. ATL W 13 7 2 2 100.0 1 1 100.0 2 2 100.0 1 1 2 1 1 0 0 3 1
+p548
+aVJuwan Howard WAS 12/28/1996 WAS vs. ATL W 40 25 11 21 52.4 0 0 - 3 6 50.0 2 11 13 3 1 0 2 4 22
+p549
+aVTracy Murray WAS 12/27/1996 WAS vs. TOR W 25 11 5 10 50.0 0 3 0.0 1 1 100.0 2 2 4 2 0 0 1 3 23
+p550
+aVAshraf Amaya WAS 12/27/1996 WAS vs. TOR W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 2
+p551
+aVBen Wallace WAS 12/27/1996 WAS vs. TOR W 2 3 0 1 0.0 0 0 - 3 4 75.0 0 0 0 0 0 0 0 0 -1
+p552
+aVChris Webber WAS 12/27/1996 WAS vs. TOR W 38 25 11 18 61.1 0 1 0.0 3 8 37.5 3 10 13 4 2 3 2 1 9
+p553
+aVJaren Jackson WAS 12/27/1996 WAS vs. TOR W 21 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 1 0 0 1 0 14
+p554
+aVHarvey Grant WAS 12/27/1996 WAS vs. TOR W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 1 2 6
+p555
+aVRod Strickland WAS 12/27/1996 WAS vs. TOR W 34 10 4 12 33.3 0 3 0.0 2 4 50.0 1 2 3 10 1 0 4 1 8
+p556
+aVGheorghe Muresan WAS 12/27/1996 WAS vs. TOR W 26 8 4 9 44.4 0 0 - 0 0 - 4 0 4 0 0 1 0 4 4
+p557
+aVCalbert Cheaney WAS 12/27/1996 WAS vs. TOR W 22 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 4 -4
+p558
+aVJuwan Howard WAS 12/27/1996 WAS vs. TOR W 38 21 8 17 47.1 0 1 0.0 5 5 100.0 2 9 11 8 4 0 2 4 14
+p559
+aVChris Whitney WAS 12/27/1996 WAS vs. TOR W 18 9 3 5 60.0 1 1 100.0 2 3 66.7 0 3 3 2 2 0 0 0 15
+p560
+aVChris Whitney WAS 12/23/1996 WAS @ POR W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 5 1 0 0 2 4
+p561
+aVTracy Murray WAS 12/23/1996 WAS @ POR W 32 18 7 14 50.0 3 4 75.0 1 2 50.0 3 5 8 0 3 0 2 2 18
+p562
+aVHarvey Grant WAS 12/23/1996 WAS @ POR W 29 4 2 4 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 19
+p563
+aVChris Webber WAS 12/23/1996 WAS @ POR W 37 25 10 18 55.6 1 2 50.0 4 4 100.0 5 6 11 5 2 1 2 4 17
+p564
+aVJaren Jackson WAS 12/23/1996 WAS @ POR W 27 7 2 6 33.3 1 3 33.3 2 2 100.0 1 4 5 1 1 0 1 1 8
+p565
+aVRod Strickland WAS 12/23/1996 WAS @ POR W 32 17 5 8 62.5 0 0 - 7 8 87.5 1 6 7 10 2 0 4 2 18
+p566
+aVJuwan Howard WAS 12/23/1996 WAS @ POR W 42 27 13 20 65.0 0 0 - 1 2 50.0 2 2 4 3 1 0 6 4 18
+p567
+aVMatt Fish WAS 12/23/1996 WAS @ POR W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 0 0
+p568
+aVBen Wallace WAS 12/23/1996 WAS @ POR W 3 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 2
+p569
+aVGheorghe Muresan WAS 12/23/1996 WAS @ POR W 20 6 3 6 50.0 0 0 - 0 1 0.0 1 2 3 0 1 1 0 5 6
+p570
+aVChris Whitney WAS 12/22/1996 WAS @ VAN L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 4 1 0 2 3 -15
+p571
+aVJaren Jackson WAS 12/22/1996 WAS @ VAN L 26 8 3 8 37.5 2 5 40.0 0 0 - 0 2 2 2 1 0 0 3 -13
+p572
+aVJuwan Howard WAS 12/22/1996 WAS @ VAN L 40 17 6 14 42.9 0 0 - 5 7 71.4 6 3 9 4 0 1 4 2 1
+p573
+aVRod Strickland WAS 12/22/1996 WAS @ VAN L 36 23 7 15 46.7 1 3 33.3 8 9 88.9 2 4 6 10 3 0 2 2 9
+p574
+aVHarvey Grant WAS 12/22/1996 WAS @ VAN L 30 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 1 0 0 3 4
+p575
+aVGheorghe Muresan WAS 12/22/1996 WAS @ VAN L 31 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 0 1 1 0 3 -11
+p576
+aVTracy Murray WAS 12/22/1996 WAS @ VAN L 23 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 3 0 1 1 1 -1
+p577
+aVChris Webber WAS 12/22/1996 WAS @ VAN L 42 20 10 23 43.5 0 1 0.0 0 2 0.0 1 10 11 1 3 4 2 3 6
+p578
+aVChris Whitney WAS 12/19/1996 WAS @ LAC W 15 6 1 1 100.0 0 0 - 4 4 100.0 0 3 3 2 0 0 2 3 -3
+p579
+aVRod Strickland WAS 12/19/1996 WAS @ LAC W 39 18 7 12 58.3 0 0 - 4 8 50.0 1 4 5 7 2 0 5 1 16
+p580
+aVTracy Murray WAS 12/19/1996 WAS @ LAC W 26 7 3 9 33.3 0 3 0.0 1 1 100.0 0 1 1 2 2 0 0 4 -3
+p581
+aVHarvey Grant WAS 12/19/1996 WAS @ LAC W 34 7 3 6 50.0 1 3 33.3 0 0 - 1 4 5 2 0 1 0 6 10
+p582
+aVJuwan Howard WAS 12/19/1996 WAS @ LAC W 42 25 11 19 57.9 0 0 - 3 4 75.0 1 6 7 5 1 0 8 4 15
+p583
+aVGheorghe Muresan WAS 12/19/1996 WAS @ LAC W 25 14 5 6 83.3 0 0 - 4 4 100.0 0 8 8 0 1 1 0 2 2
+p584
+aVJaren Jackson WAS 12/19/1996 WAS @ LAC W 17 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 1 2 0 3 2 -4
+p585
+aVChris Webber WAS 12/19/1996 WAS @ LAC W 42 25 12 18 66.7 1 2 50.0 0 1 0.0 2 7 9 6 2 0 4 4 12
+p586
+aVRod Strickland WAS 12/18/1996 WAS @ PHX L 42 20 7 15 46.7 0 0 - 6 8 75.0 2 2 4 11 2 1 2 3 -14
+p587
+aVTracy Murray WAS 12/18/1996 WAS @ PHX L 20 14 5 8 62.5 2 4 50.0 2 2 100.0 1 2 3 1 0 0 1 4 -1
+p588
+aVChris Webber WAS 12/18/1996 WAS @ PHX L 34 18 8 19 42.1 2 2 100.0 0 0 - 4 8 12 4 0 1 2 6 -2
+p589
+aVGheorghe Muresan WAS 12/18/1996 WAS @ PHX L 30 10 4 9 44.4 0 0 - 2 4 50.0 5 1 6 0 1 3 4 6 5
+p590
+aVCalbert Cheaney WAS 12/18/1996 WAS @ PHX L 8 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 2 1 0 0 1 2
+p591
+aVJuwan Howard WAS 12/18/1996 WAS @ PHX L 39 16 8 16 50.0 0 0 - 0 0 - 1 5 6 2 1 0 2 4 -13
+p592
+aVAshraf Amaya WAS 12/18/1996 WAS @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p593
+aVChris Whitney WAS 12/18/1996 WAS @ PHX L 16 7 2 4 50.0 0 2 0.0 3 3 100.0 1 1 2 3 1 0 0 5 -6
+p594
+aVHarvey Grant WAS 12/18/1996 WAS @ PHX L 24 10 3 6 50.0 1 3 33.3 3 4 75.0 0 3 3 2 2 0 0 1 -3
+p595
+aVJaren Jackson WAS 12/18/1996 WAS @ PHX L 27 7 3 9 33.3 1 5 20.0 0 0 - 0 3 3 3 0 0 1 4 -1
+p596
+aVRod Strickland WAS 12/16/1996 WAS @ SAC W 36 17 7 13 53.8 0 0 - 3 3 100.0 0 3 3 8 4 0 5 3 14
+p597
+aVJaren Jackson WAS 12/16/1996 WAS @ SAC W 18 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 1 2 9
+p598
+aVChris Whitney WAS 12/16/1996 WAS @ SAC W 13 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 0 0 0 1 2 -9
+p599
+aVCalbert Cheaney WAS 12/16/1996 WAS @ SAC W 30 8 4 6 66.7 0 0 - 0 0 - 0 2 2 1 0 1 4 3 -1
+p600
+aVGheorghe Muresan WAS 12/16/1996 WAS @ SAC W 27 11 5 11 45.5 0 0 - 1 2 50.0 2 6 8 2 1 2 3 1 5
+p601
+aVJuwan Howard WAS 12/16/1996 WAS @ SAC W 40 21 8 13 61.5 0 0 - 5 6 83.3 1 7 8 3 1 1 5 2 9
+p602
+aVChris Webber WAS 12/16/1996 WAS @ SAC W 43 24 10 21 47.6 1 2 50.0 3 6 50.0 7 7 14 3 2 1 2 4 7
+p603
+aVBen Wallace WAS 12/16/1996 WAS @ SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p604
+aVHarvey Grant WAS 12/16/1996 WAS @ SAC W 14 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 2 6
+p605
+aVTracy Murray WAS 12/16/1996 WAS @ SAC W 18 6 2 5 40.0 0 3 0.0 2 2 100.0 1 3 4 1 1 0 0 2 2
+p606
+aVChris Whitney WAS 12/15/1996 WAS @ GSW W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -11
+p607
+aVJaren Jackson WAS 12/15/1996 WAS @ GSW W 27 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 3 0 2 1 2 -1
+p608
+aVCalbert Cheaney WAS 12/15/1996 WAS @ GSW W 21 10 3 5 60.0 0 0 - 4 4 100.0 1 1 2 1 2 1 0 6 9
+p609
+aVChris Webber WAS 12/15/1996 WAS @ GSW W 42 19 8 13 61.5 2 3 66.7 1 5 20.0 4 8 12 10 6 3 9 6 15
+p610
+aVRod Strickland WAS 12/15/1996 WAS @ GSW W 37 22 9 14 64.3 0 2 0.0 4 4 100.0 0 4 4 15 4 0 4 1 18
+p611
+aVHarvey Grant WAS 12/15/1996 WAS @ GSW W 20 7 3 8 37.5 1 4 25.0 0 0 - 1 3 4 3 1 1 0 3 7
+p612
+aVGheorghe Muresan WAS 12/15/1996 WAS @ GSW W 23 8 3 5 60.0 0 0 - 2 4 50.0 0 2 2 0 0 1 0 2 2
+p613
+aVTracy Murray WAS 12/15/1996 WAS @ GSW W 19 12 3 10 30.0 2 5 40.0 4 4 100.0 2 0 2 0 2 1 1 0 -14
+p614
+aVJuwan Howard WAS 12/15/1996 WAS @ GSW W 39 22 8 12 66.7 0 0 - 6 8 75.0 2 6 8 3 1 0 3 5 15
+p615
+aVJuwan Howard WAS 12/13/1996 WAS vs. DEN W 42 22 10 20 50.0 0 0 - 2 2 100.0 0 2 2 2 3 0 1 3 5
+p616
+aVTracy Murray WAS 12/13/1996 WAS vs. DEN W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 1 0 1 0 1
+p617
+aVJaren Jackson WAS 12/13/1996 WAS vs. DEN W 24 12 4 7 57.1 2 4 50.0 2 4 50.0 2 3 5 2 3 1 0 5 6
+p618
+aVGheorghe Muresan WAS 12/13/1996 WAS vs. DEN W 31 17 8 11 72.7 0 0 - 1 2 50.0 3 5 8 1 1 1 2 4 8
+p619
+aVRod Strickland WAS 12/13/1996 WAS vs. DEN W 35 18 6 15 40.0 1 1 100.0 5 7 71.4 1 4 5 12 1 1 1 1 6
+p620
+aVCalbert Cheaney WAS 12/13/1996 WAS vs. DEN W 16 2 0 5 0.0 0 0 - 2 2 100.0 0 1 1 1 2 0 2 2 -9
+p621
+aVHarvey Grant WAS 12/13/1996 WAS vs. DEN W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -5
+p622
+aVChris Webber WAS 12/13/1996 WAS vs. DEN W 41 25 12 18 66.7 0 0 - 1 2 50.0 6 5 11 5 0 1 0 2 3
+p623
+aVChris Whitney WAS 12/13/1996 WAS vs. DEN W 22 7 3 6 50.0 1 1 100.0 0 0 - 0 5 5 2 0 0 3 2 5
+p624
+aVChris Whitney WAS 12/11/1996 WAS vs. CLE W 18 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 5 2 0 1 4 14
+p625
+aVJaren Jackson WAS 12/11/1996 WAS vs. CLE W 15 9 3 3 100.0 2 2 100.0 1 1 100.0 0 1 1 0 3 1 3 3 15
+p626
+aVGheorghe Muresan WAS 12/11/1996 WAS vs. CLE W 17 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 0 1 0 0 2 -6
+p627
+aVJuwan Howard WAS 12/11/1996 WAS vs. CLE W 42 25 9 15 60.0 0 0 - 7 11 63.6 3 5 8 4 0 0 2 2 8
+p628
+aVCalbert Cheaney WAS 12/11/1996 WAS vs. CLE W 27 7 3 8 37.5 0 0 - 1 2 50.0 0 1 1 1 1 0 2 3 -3
+p629
+aVTracy Murray WAS 12/11/1996 WAS vs. CLE W 25 14 4 7 57.1 4 5 80.0 2 2 100.0 0 1 1 0 1 0 1 0 17
+p630
+aVAshraf Amaya WAS 12/11/1996 WAS vs. CLE W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -3
+p631
+aVRod Strickland WAS 12/11/1996 WAS vs. CLE W 36 16 7 15 46.7 0 1 0.0 2 3 66.7 2 0 2 5 2 0 2 1 -4
+p632
+aVBen Wallace WAS 12/11/1996 WAS vs. CLE W 1 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -3
+p633
+aVChris Webber WAS 12/11/1996 WAS vs. CLE W 41 23 11 17 64.7 0 1 0.0 1 4 25.0 3 8 11 7 1 1 3 3 8
+p634
+aVHarvey Grant WAS 12/11/1996 WAS vs. CLE W 18 0 0 0 - 0 0 - 0 0 - 0 1 1 0 2 2 0 1 12
+p635
+aVTracy Murray WAS 12/10/1996 WAS @ NYK L 21 9 2 4 50.0 1 2 50.0 4 4 100.0 1 1 2 0 0 0 0 1 0
+p636
+aVAshraf Amaya WAS 12/10/1996 WAS @ NYK L 4 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 1 1 5
+p637
+aVRod Strickland WAS 12/10/1996 WAS @ NYK L 35 4 2 11 18.2 0 1 0.0 0 0 - 0 3 3 6 2 0 7 1 -14
+p638
+aVBen Wallace WAS 12/10/1996 WAS @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 3
+p639
+aVGheorghe Muresan WAS 12/10/1996 WAS @ NYK L 29 12 6 9 66.7 0 0 - 0 2 0.0 2 6 8 0 2 3 1 2 -7
+p640
+aVJaren Jackson WAS 12/10/1996 WAS @ NYK L 21 8 3 7 42.9 2 4 50.0 0 3 0.0 0 1 1 1 2 0 1 0 -4
+p641
+aVChris Webber WAS 12/10/1996 WAS @ NYK L 37 20 7 14 50.0 0 1 0.0 6 11 54.5 2 10 12 3 1 1 6 5 -11
+p642
+aVCalbert Cheaney WAS 12/10/1996 WAS @ NYK L 23 3 1 4 25.0 0 0 - 1 3 33.3 0 3 3 0 1 0 0 0 -8
+p643
+aVChris Whitney WAS 12/10/1996 WAS @ NYK L 17 7 2 6 33.3 0 3 0.0 3 4 75.0 0 0 0 1 4 0 2 1 2
+p644
+aVHarvey Grant WAS 12/10/1996 WAS @ NYK L 17 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 0 1 2 0 1 -12
+p645
+aVJuwan Howard WAS 12/10/1996 WAS @ NYK L 34 4 2 13 15.4 0 0 - 0 0 - 2 6 8 5 0 0 3 4 -14
+p646
+aVChris Webber WAS 12/07/1996 WAS vs. MIL L 40 26 13 22 59.1 0 0 - 0 5 0.0 3 6 9 1 0 2 2 5 -14
+p647
+aVGheorghe Muresan WAS 12/07/1996 WAS vs. MIL L 25 8 3 4 75.0 0 0 - 2 3 66.7 0 7 7 0 0 1 1 2 -5
+p648
+aVChris Whitney WAS 12/07/1996 WAS vs. MIL L 15 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 3 2 1 1 1 8
+p649
+aVHarvey Grant WAS 12/07/1996 WAS vs. MIL L 21 8 2 4 50.0 1 1 100.0 3 4 75.0 2 2 4 2 2 0 1 4 7
+p650
+aVRod Strickland WAS 12/07/1996 WAS vs. MIL L 37 15 6 17 35.3 0 2 0.0 3 4 75.0 2 0 2 14 2 0 0 1 -18
+p651
+aVJaren Jackson WAS 12/07/1996 WAS vs. MIL L 8 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 -1
+p652
+aVJuwan Howard WAS 12/07/1996 WAS vs. MIL L 38 12 4 12 33.3 0 0 - 4 4 100.0 3 3 6 5 2 0 2 4 -16
+p653
+aVTracy Murray WAS 12/07/1996 WAS vs. MIL L 21 16 6 8 75.0 3 4 75.0 1 1 100.0 1 0 1 1 0 0 1 4 4
+p654
+aVCalbert Cheaney WAS 12/07/1996 WAS vs. MIL L 36 21 8 13 61.5 0 1 0.0 5 5 100.0 0 1 1 2 2 1 2 4 -5
+p655
+aVChris Webber WAS 12/05/1996 WAS @ TOR L 38 11 5 13 38.5 1 1 100.0 0 0 - 2 3 5 5 0 3 5 4 -4
+p656
+aVChris Whitney WAS 12/05/1996 WAS @ TOR L 14 4 2 6 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p657
+aVJuwan Howard WAS 12/05/1996 WAS @ TOR L 38 7 3 11 27.3 0 0 - 1 2 50.0 1 10 11 6 2 0 3 4 1
+p658
+aVRod Strickland WAS 12/05/1996 WAS @ TOR L 37 17 6 13 46.2 1 4 25.0 4 5 80.0 2 3 5 3 1 0 2 2 -8
+p659
+aVCalbert Cheaney WAS 12/05/1996 WAS @ TOR L 29 10 5 8 62.5 0 0 - 0 0 - 1 2 3 1 2 1 2 2 -1
+p660
+aVGheorghe Muresan WAS 12/05/1996 WAS @ TOR L 23 6 3 5 60.0 0 0 - 0 2 0.0 0 4 4 1 1 1 0 4 -3
+p661
+aVTracy Murray WAS 12/05/1996 WAS @ TOR L 22 9 3 6 50.0 1 4 25.0 2 3 66.7 1 1 2 2 1 1 2 1 -1
+p662
+aVHarvey Grant WAS 12/05/1996 WAS @ TOR L 23 8 2 6 33.3 2 5 40.0 2 2 100.0 2 2 4 3 0 1 2 2 1
+p663
+aVJaren Jackson WAS 12/05/1996 WAS @ TOR L 16 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 1 2 0 1 2 3
+p664
+aVChris Whitney WAS 11/30/1996 WAS vs. HOU L 9 4 1 5 20.0 1 3 33.3 1 1 100.0 0 0 0 0 0 0 0 1 -2
+p665
+aVGheorghe Muresan WAS 11/30/1996 WAS vs. HOU L 34 16 7 12 58.3 0 0 - 2 3 66.7 3 6 9 1 1 1 1 2 1
+p666
+aVHarvey Grant WAS 11/30/1996 WAS vs. HOU L 17 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 1 0 2 3
+p667
+aVJaren Jackson WAS 11/30/1996 WAS vs. HOU L 15 4 1 4 25.0 1 4 25.0 1 1 100.0 0 2 2 1 0 0 0 0 3
+p668
+aVRod Strickland WAS 11/30/1996 WAS vs. HOU L 39 11 5 16 31.3 0 2 0.0 1 2 50.0 0 0 0 11 0 0 1 1 -3
+p669
+aVCalbert Cheaney WAS 11/30/1996 WAS vs. HOU L 32 12 6 11 54.5 0 2 0.0 0 0 - 0 1 1 2 0 0 0 0 -6
+p670
+aVChris Webber WAS 11/30/1996 WAS vs. HOU L 40 24 11 12 91.7 2 3 66.7 0 2 0.0 0 4 4 5 0 1 4 5 -9
+p671
+aVJuwan Howard WAS 11/30/1996 WAS vs. HOU L 39 17 7 13 53.8 0 0 - 3 4 75.0 1 8 9 4 4 1 3 3 -3
+p672
+aVTracy Murray WAS 11/30/1996 WAS vs. HOU L 15 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 0 1 0 0 0 -4
+p673
+aVCalbert Cheaney WAS 11/29/1996 WAS @ ATL L 15 2 1 4 25.0 0 0 - 0 2 0.0 1 2 3 1 0 0 3 0 -23
+p674
+aVAshraf Amaya WAS 11/29/1996 WAS @ ATL L 6 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -1
+p675
+aVChris Whitney WAS 11/29/1996 WAS @ ATL L 29 11 4 8 50.0 1 4 25.0 2 2 100.0 1 1 2 2 2 0 4 2 -4
+p676
+aVJaren Jackson WAS 11/29/1996 WAS @ ATL L 25 13 5 11 45.5 3 7 42.9 0 0 - 1 2 3 3 1 0 2 0 -3
+p677
+aVHarvey Grant WAS 11/29/1996 WAS @ ATL L 21 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 1 0 0 -2
+p678
+aVBen Wallace WAS 11/29/1996 WAS @ ATL L 5 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 1 2 2 -3
+p679
+aVRod Strickland WAS 11/29/1996 WAS @ ATL L 27 7 3 10 30.0 0 1 0.0 1 1 100.0 0 0 0 6 2 0 1 0 -28
+p680
+aVTracy Murray WAS 11/29/1996 WAS @ ATL L 24 7 2 3 66.7 1 1 100.0 2 2 100.0 1 1 2 0 1 0 1 1 -4
+p681
+aVJuwan Howard WAS 11/29/1996 WAS @ ATL L 31 8 3 12 25.0 0 1 0.0 2 2 100.0 1 4 5 1 0 1 3 4 -26
+p682
+aVChris Webber WAS 11/29/1996 WAS @ ATL L 31 14 7 15 46.7 0 1 0.0 0 0 - 4 4 8 2 2 2 5 4 -26
+p683
+aVGheorghe Muresan WAS 11/29/1996 WAS @ ATL L 26 13 4 9 44.4 0 0 - 5 6 83.3 3 6 9 0 1 1 3 2 -25
+p684
+aVHarvey Grant WAS 11/25/1996 WAS vs. MIN W 23 5 2 4 50.0 0 0 - 1 2 50.0 0 6 6 4 0 0 1 2 7
+p685
+aVTracy Murray WAS 11/25/1996 WAS vs. MIN W 15 10 4 5 80.0 1 1 100.0 1 1 100.0 0 0 0 0 2 0 0 0 0
+p686
+aVCalbert Cheaney WAS 11/25/1996 WAS vs. MIN W 36 10 4 8 50.0 0 0 - 2 2 100.0 0 7 7 3 2 0 1 3 11
+p687
+aVRod Strickland WAS 11/25/1996 WAS vs. MIN W 35 13 3 15 20.0 1 3 33.3 6 8 75.0 1 2 3 10 1 0 3 3 9
+p688
+aVJuwan Howard WAS 11/25/1996 WAS vs. MIN W 39 24 11 16 68.8 0 0 - 2 4 50.0 1 2 3 4 1 2 4 3 7
+p689
+aVGheorghe Muresan WAS 11/25/1996 WAS vs. MIN W 15 6 2 5 40.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 4 0
+p690
+aVChris Whitney WAS 11/25/1996 WAS vs. MIN W 23 13 5 12 41.7 1 4 25.0 2 2 100.0 0 1 1 2 0 0 1 1 -3
+p691
+aVChris Webber WAS 11/25/1996 WAS vs. MIN W 43 16 4 12 33.3 0 0 - 8 12 66.7 4 11 15 3 1 3 2 4 8
+p692
+aVJaren Jackson WAS 11/25/1996 WAS vs. MIN W 12 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 1 0 0 1 2 -4
+p693
+aVCalbert Cheaney WAS 11/23/1996 WAS @ MIL W 31 8 2 3 66.7 0 0 - 4 4 100.0 1 1 2 1 4 0 0 3 0
+p694
+aVTracy Murray WAS 11/23/1996 WAS @ MIL W 15 4 2 6 33.3 0 2 0.0 0 0 - 0 3 3 0 1 0 0 0 6
+p695
+aVChris Whitney WAS 11/23/1996 WAS @ MIL W 12 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 4 4 0 0 0 6
+p696
+aVGheorghe Muresan WAS 11/23/1996 WAS @ MIL W 24 9 2 5 40.0 0 0 - 5 6 83.3 0 3 3 0 0 2 1 4 8
+p697
+aVJuwan Howard WAS 11/23/1996 WAS @ MIL W 41 23 10 23 43.5 0 0 - 3 4 75.0 4 4 8 2 0 0 1 3 -1
+p698
+aVChris Webber WAS 11/23/1996 WAS @ MIL W 41 20 9 16 56.3 0 2 0.0 2 8 25.0 5 10 15 4 0 3 3 4 5
+p699
+aVHarvey Grant WAS 11/23/1996 WAS @ MIL W 23 7 3 6 50.0 0 2 0.0 1 2 50.0 0 3 3 1 0 0 0 2 -3
+p700
+aVRod Strickland WAS 11/23/1996 WAS @ MIL W 36 15 5 14 35.7 0 1 0.0 5 6 83.3 0 4 4 8 2 0 3 3 -1
+p701
+aVJaren Jackson WAS 11/23/1996 WAS @ MIL W 17 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 5
+p702
+aVRod Strickland WAS 11/22/1996 WAS vs. PHI W 27 13 4 6 66.7 0 1 0.0 5 8 62.5 1 4 5 5 4 0 6 0 22
+p703
+aVTracy Murray WAS 11/22/1996 WAS vs. PHI W 17 5 2 8 25.0 1 5 20.0 0 0 - 0 3 3 0 0 0 1 0 -1
+p704
+aVBen Wallace WAS 11/22/1996 WAS vs. PHI W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p705
+aVAshraf Amaya WAS 11/22/1996 WAS vs. PHI W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p706
+aVHarvey Grant WAS 11/22/1996 WAS vs. PHI W 30 4 2 4 50.0 0 1 0.0 0 0 - 1 4 5 1 0 2 1 3 10
+p707
+aVJaren Jackson WAS 11/22/1996 WAS vs. PHI W 24 5 2 7 28.6 0 2 0.0 1 2 50.0 0 6 6 1 2 0 2 3 -11
+p708
+aVGheorghe Muresan WAS 11/22/1996 WAS vs. PHI W 26 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 0 4 2 2 9
+p709
+aVCalbert Cheaney WAS 11/22/1996 WAS vs. PHI W 25 12 4 7 57.1 0 0 - 4 4 100.0 0 5 5 0 2 0 1 4 23
+p710
+aVJuwan Howard WAS 11/22/1996 WAS vs. PHI W 35 18 8 16 50.0 0 0 - 2 4 50.0 6 4 10 6 3 0 4 3 18
+p711
+aVChris Webber WAS 11/22/1996 WAS vs. PHI W 30 13 6 15 40.0 0 2 0.0 1 3 33.3 4 1 5 2 2 3 4 3 9
+p712
+aVMatt Fish WAS 11/22/1996 WAS vs. PHI W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p713
+aVChris Whitney WAS 11/22/1996 WAS vs. PHI W 21 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 1 0 0 2 1 -10
+p714
+aVJaren Jackson WAS 11/20/1996 WAS vs. SEA L 19 11 4 10 40.0 3 6 50.0 0 0 - 2 1 3 0 0 1 1 3 -7
+p715
+aVChris Webber WAS 11/20/1996 WAS vs. SEA L 56 34 15 24 62.5 1 1 100.0 3 6 50.0 5 8 13 5 1 7 2 5 0
+p716
+aVRod Strickland WAS 11/20/1996 WAS vs. SEA L 46 15 7 18 38.9 0 1 0.0 1 2 50.0 5 6 11 9 0 1 7 1 2
+p717
+aVChris Whitney WAS 11/20/1996 WAS vs. SEA L 29 15 4 13 30.8 3 9 33.3 4 7 57.1 1 3 4 0 1 0 2 1 0
+p718
+aVCalbert Cheaney WAS 11/20/1996 WAS vs. SEA L 22 0 0 6 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 -7
+p719
+aVBen Wallace WAS 11/20/1996 WAS vs. SEA L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p720
+aVTracy Murray WAS 11/20/1996 WAS vs. SEA L 36 16 5 16 31.3 4 12 33.3 2 2 100.0 2 4 6 1 2 2 1 6 -3
+p721
+aVHarvey Grant WAS 11/20/1996 WAS vs. SEA L 26 4 2 5 40.0 0 1 0.0 0 0 - 1 5 6 0 2 2 3 4 1
+p722
+aVJuwan Howard WAS 11/20/1996 WAS vs. SEA L 51 15 4 14 28.6 0 0 - 7 8 87.5 6 7 13 8 1 0 3 6 -4
+p723
+aVTracy Murray WAS 11/16/1996 WAS vs. BOS W 15 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 1 0 0 1 3 17
+p724
+aVCalbert Cheaney WAS 11/16/1996 WAS vs. BOS W 21 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -14
+p725
+aVHarvey Grant WAS 11/16/1996 WAS vs. BOS W 23 6 3 7 42.9 0 1 0.0 0 0 - 1 3 4 2 0 0 0 2 -16
+p726
+aVRod Strickland WAS 11/16/1996 WAS vs. BOS W 37 19 8 15 53.3 0 1 0.0 3 4 75.0 1 3 4 7 0 0 2 3 5
+p727
+aVGheorghe Muresan WAS 11/16/1996 WAS vs. BOS W 26 12 6 7 85.7 0 0 - 0 2 0.0 3 5 8 1 0 1 0 4 31
+p728
+aVJaren Jackson WAS 11/16/1996 WAS vs. BOS W 24 8 2 6 33.3 0 4 0.0 4 5 80.0 0 1 1 0 0 0 0 0 21
+p729
+aVChris Whitney WAS 11/16/1996 WAS vs. BOS W 16 11 4 6 66.7 1 3 33.3 2 2 100.0 0 3 3 4 0 0 2 0 18
+p730
+aVJuwan Howard WAS 11/16/1996 WAS vs. BOS W 39 19 9 17 52.9 0 0 - 1 2 50.0 4 5 9 2 2 0 3 3 4
+p731
+aVChris Webber WAS 11/16/1996 WAS vs. BOS W 40 17 6 17 35.3 0 1 0.0 5 6 83.3 1 9 10 8 1 4 1 2 4
+p732
+aVTracy Murray WAS 11/15/1996 WAS @ DET L 20 8 3 10 30.0 1 4 25.0 1 2 50.0 3 3 6 1 1 0 0 1 12
+p733
+aVJuwan Howard WAS 11/15/1996 WAS @ DET L 32 14 7 11 63.6 0 0 - 0 0 - 1 2 3 3 0 0 4 3 -25
+p734
+aVAshraf Amaya WAS 11/15/1996 WAS @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p735
+aVJaren Jackson WAS 11/15/1996 WAS @ DET L 24 7 3 9 33.3 1 5 20.0 0 0 - 2 2 4 4 0 0 1 4 13
+p736
+aVBen Wallace WAS 11/15/1996 WAS @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p737
+aVRod Strickland WAS 11/15/1996 WAS @ DET L 30 11 4 8 50.0 0 2 0.0 3 3 100.0 0 0 0 9 3 1 3 0 -18
+p738
+aVHarvey Grant WAS 11/15/1996 WAS @ DET L 22 8 3 6 50.0 2 3 66.7 0 0 - 0 2 2 0 0 1 1 2 9
+p739
+aVGheorghe Muresan WAS 11/15/1996 WAS @ DET L 27 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 1 4 3 -9
+p740
+aVChris Webber WAS 11/15/1996 WAS @ DET L 34 6 3 10 30.0 0 1 0.0 0 0 - 1 3 4 3 2 0 3 1 -23
+p741
+aVChris Whitney WAS 11/15/1996 WAS @ DET L 20 18 5 7 71.4 4 4 100.0 4 5 80.0 0 3 3 2 0 0 0 2 6
+p742
+aVCalbert Cheaney WAS 11/15/1996 WAS @ DET L 26 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -22
+p743
+aVMatt Fish WAS 11/13/1996 WAS @ NJN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p744
+aVHarvey Grant WAS 11/13/1996 WAS @ NJN W 26 7 2 6 33.3 2 4 50.0 1 2 50.0 1 3 4 1 0 1 1 0 14
+p745
+aVRod Strickland WAS 11/13/1996 WAS @ NJN W 33 14 6 10 60.0 0 0 - 2 3 66.7 1 3 4 8 4 1 4 1 7
+p746
+aVBen Wallace WAS 11/13/1996 WAS @ NJN W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p747
+aVChris Whitney WAS 11/13/1996 WAS @ NJN W 15 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 3 2 0 0 0 8
+p748
+aVChris Webber WAS 11/13/1996 WAS @ NJN W 37 26 11 15 73.3 0 0 - 4 6 66.7 4 5 9 4 1 3 6 4 17
+p749
+aVTracy Murray WAS 11/13/1996 WAS @ NJN W 21 8 2 6 33.3 1 4 25.0 3 4 75.0 0 2 2 0 4 1 1 2 7
+p750
+aVJaren Jackson WAS 11/13/1996 WAS @ NJN W 20 6 3 7 42.9 0 3 0.0 0 1 0.0 1 0 1 0 1 0 2 3 14
+p751
+aVCalbert Cheaney WAS 11/13/1996 WAS @ NJN W 28 11 5 10 50.0 0 1 0.0 1 1 100.0 0 1 1 0 1 0 0 5 1
+p752
+aVGheorghe Muresan WAS 11/13/1996 WAS @ NJN W 19 6 3 7 42.9 0 0 - 0 0 - 4 6 10 0 2 2 3 4 -7
+p753
+aVJuwan Howard WAS 11/13/1996 WAS @ NJN W 36 22 8 16 50.0 0 0 - 6 7 85.7 2 5 7 5 1 0 3 2 12
+p754
+aVCalbert Cheaney WAS 11/12/1996 WAS vs. DET L 25 5 2 9 22.2 1 2 50.0 0 0 - 2 3 5 1 0 0 3 4 -10
+p755
+aVTracy Murray WAS 11/12/1996 WAS vs. DET L 16 4 2 7 28.6 0 3 0.0 0 0 - 1 3 4 0 0 0 0 1 -16
+p756
+aVChris Webber WAS 11/12/1996 WAS vs. DET L 42 19 8 19 42.1 2 3 66.7 1 4 25.0 3 4 7 4 1 0 1 0 -10
+p757
+aVRod Strickland WAS 11/12/1996 WAS vs. DET L 32 8 3 7 42.9 0 1 0.0 2 2 100.0 0 4 4 6 1 0 3 0 2
+p758
+aVJuwan Howard WAS 11/12/1996 WAS vs. DET L 43 15 6 12 50.0 0 0 - 3 4 75.0 3 8 11 4 1 0 3 2 -8
+p759
+aVJaren Jackson WAS 11/12/1996 WAS vs. DET L 23 13 5 8 62.5 3 4 75.0 0 0 - 0 2 2 1 0 0 1 4 -3
+p760
+aVChris Whitney WAS 11/12/1996 WAS vs. DET L 16 7 1 6 16.7 1 5 20.0 4 4 100.0 2 1 3 2 0 0 1 2 -15
+p761
+aVHarvey Grant WAS 11/12/1996 WAS vs. DET L 19 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -2
+p762
+aVGheorghe Muresan WAS 11/12/1996 WAS vs. DET L 24 4 1 7 14.3 0 0 - 2 3 66.7 0 3 3 0 0 1 3 4 -3
+p763
+aVHarvey Grant WAS 11/09/1996 WAS @ IND L 25 7 3 8 37.5 0 1 0.0 1 2 50.0 1 5 6 1 1 0 0 3 10
+p764
+aVCalbert Cheaney WAS 11/09/1996 WAS @ IND L 36 10 5 13 38.5 0 2 0.0 0 1 0.0 2 5 7 3 1 0 2 4 4
+p765
+aVChris Whitney WAS 11/09/1996 WAS @ IND L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -5
+p766
+aVJaren Jackson WAS 11/09/1996 WAS @ IND L 18 16 6 8 75.0 2 2 100.0 2 3 66.7 0 0 0 0 1 0 1 3 -9
+p767
+aVChris Webber WAS 11/09/1996 WAS @ IND L 48 25 10 17 58.8 0 1 0.0 5 9 55.6 4 7 11 6 2 3 5 5 -3
+p768
+aVJuwan Howard WAS 11/09/1996 WAS @ IND L 43 14 6 16 37.5 0 0 - 2 4 50.0 3 8 11 5 1 1 2 1 3
+p769
+aVTracy Murray WAS 11/09/1996 WAS @ IND L 28 7 2 8 25.0 2 5 40.0 1 2 50.0 0 0 0 0 0 0 1 4 -13
+p770
+aVBen Wallace WAS 11/09/1996 WAS @ IND L 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 2 0 2 -4
+p771
+aVAshraf Amaya WAS 11/09/1996 WAS @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p772
+aVRod Strickland WAS 11/09/1996 WAS @ IND L 41 17 5 12 41.7 0 1 0.0 7 11 63.6 1 2 3 6 4 0 4 5 2
+p773
+aVRod Strickland WAS 11/08/1996 WAS vs. CHH L 33 14 7 12 58.3 0 2 0.0 0 0 - 2 3 5 6 2 0 3 1 -15
+p774
+aVAshraf Amaya WAS 11/08/1996 WAS vs. CHH L 3 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p775
+aVChris Whitney WAS 11/08/1996 WAS vs. CHH L 17 9 3 7 42.9 1 3 33.3 2 3 66.7 1 1 2 2 0 0 0 0 -5
+p776
+aVChris Webber WAS 11/08/1996 WAS vs. CHH L 36 19 9 20 45.0 0 1 0.0 1 3 33.3 4 10 14 2 0 2 2 4 -12
+p777
+aVJuwan Howard WAS 11/08/1996 WAS vs. CHH L 37 14 6 23 26.1 0 0 - 2 4 50.0 6 2 8 5 1 0 0 5 -15
+p778
+aVHarvey Grant WAS 11/08/1996 WAS vs. CHH L 19 2 1 4 25.0 0 0 - 0 0 - 2 6 8 1 0 0 0 1 -9
+p779
+aVCalbert Cheaney WAS 11/08/1996 WAS vs. CHH L 25 6 3 7 42.9 0 0 - 0 2 0.0 0 1 1 2 1 0 0 5 -7
+p780
+aVBen Wallace WAS 11/08/1996 WAS vs. CHH L 21 6 2 2 100.0 0 0 - 2 4 50.0 8 2 10 1 0 0 1 1 -4
+p781
+aVTracy Murray WAS 11/08/1996 WAS vs. CHH L 29 6 2 11 18.2 2 6 33.3 0 0 - 0 4 4 0 1 1 1 2 -6
+p782
+aVJaren Jackson WAS 11/08/1996 WAS vs. CHH L 21 11 4 10 40.0 1 3 33.3 2 2 100.0 2 0 2 2 0 0 0 2 -3
+p783
+aVRod Strickland WAS 11/06/1996 WAS vs. SAS W 35 16 5 11 45.5 0 1 0.0 6 6 100.0 0 4 4 7 0 0 0 1 4
+p784
+aVBen Wallace WAS 11/06/1996 WAS vs. SAS W 14 0 0 0 - 0 0 - 0 2 0.0 1 2 3 0 0 1 3 0 1
+p785
+aVChris Webber WAS 11/06/1996 WAS vs. SAS W 40 22 8 19 42.1 0 0 - 6 6 100.0 8 13 21 4 0 2 2 4 17
+p786
+aVChris Whitney WAS 11/06/1996 WAS vs. SAS W 13 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 3 1 0 1 1 4
+p787
+aVJaren Jackson WAS 11/06/1996 WAS vs. SAS W 24 7 2 7 28.6 2 6 33.3 1 1 100.0 0 2 2 0 1 0 1 0 10
+p788
+aVTracy Murray WAS 11/06/1996 WAS vs. SAS W 22 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 1 0 0 2 3 3
+p789
+aVJuwan Howard WAS 11/06/1996 WAS vs. SAS W 42 22 9 19 47.4 0 0 - 4 4 100.0 3 9 12 3 0 0 4 3 4
+p790
+aVHarvey Grant WAS 11/06/1996 WAS vs. SAS W 25 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 3 9
+p791
+aVCalbert Cheaney WAS 11/06/1996 WAS vs. SAS W 25 13 6 8 75.0 1 1 100.0 0 0 - 0 3 3 0 1 0 1 3 -2
+p792
+aVJaren Jackson WAS 11/02/1996 WAS vs. CLE L 16 6 2 5 40.0 0 1 0.0 2 4 50.0 0 2 2 0 0 0 0 2 -8
+p793
+aVTracy Murray WAS 11/02/1996 WAS vs. CLE L 19 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -3
+p794
+aVChris Webber WAS 11/02/1996 WAS vs. CLE L 42 15 7 17 41.2 0 0 - 1 4 25.0 3 6 9 5 0 3 5 6 0
+p795
+aVBen Wallace WAS 11/02/1996 WAS vs. CLE L 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 2
+p796
+aVMatt Fish WAS 11/02/1996 WAS vs. CLE L 1 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p797
+aVJuwan Howard WAS 11/02/1996 WAS vs. CLE L 45 21 8 17 47.1 0 0 - 5 10 50.0 4 5 9 5 1 0 4 4 3
+p798
+aVRod Strickland WAS 11/02/1996 WAS vs. CLE L 40 16 5 13 38.5 0 1 0.0 6 14 42.9 1 5 6 6 1 0 3 2 -6
+p799
+aVHarvey Grant WAS 11/02/1996 WAS vs. CLE L 39 7 2 6 33.3 1 1 100.0 2 2 100.0 2 6 8 1 1 5 0 3 -6
+p800
+aVChris Whitney WAS 11/02/1996 WAS vs. CLE L 13 13 3 4 75.0 2 3 66.7 5 5 100.0 0 0 0 1 0 0 1 0 4
+p801
+aVCalbert Cheaney WAS 11/02/1996 WAS vs. CLE L 37 12 6 11 54.5 0 0 - 0 0 - 2 2 4 0 1 0 1 2 6
+p802
+aVBen Wallace WAS 11/01/1996 WAS @ ORL W 19 0 0 3 0.0 0 0 - 0 0 - 4 6 10 0 3 0 1 1 11
+p803
+aVJuwan Howard WAS 11/01/1996 WAS @ ORL W 40 16 6 12 50.0 0 0 - 4 4 100.0 5 5 10 6 0 1 8 4 1
+p804
+aVTracy Murray WAS 11/01/1996 WAS @ ORL W 16 5 2 7 28.6 1 4 25.0 0 0 - 0 1 1 1 0 1 1 3 -1
+p805
+aVChris Webber WAS 11/01/1996 WAS @ ORL W 37 19 7 16 43.8 0 2 0.0 5 10 50.0 0 1 1 2 3 3 3 5 -4
+p806
+aVJaren Jackson WAS 11/01/1996 WAS @ ORL W 14 12 4 6 66.7 2 3 66.7 2 2 100.0 0 1 1 2 0 0 0 4 -1
+p807
+aVCalbert Cheaney WAS 11/01/1996 WAS @ ORL W 32 9 4 12 33.3 0 1 0.0 1 1 100.0 1 3 4 1 0 2 1 0 5
+p808
+aVChris Whitney WAS 11/01/1996 WAS @ ORL W 12 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 2 0 0 2 3
+p809
+aVRod Strickland WAS 11/01/1996 WAS @ ORL W 36 20 7 10 70.0 0 1 0.0 6 9 66.7 0 3 3 9 2 0 0 2 3
+p810
+aVHarvey Grant WAS 11/01/1996 WAS @ ORL W 34 11 3 4 75.0 1 2 50.0 4 4 100.0 1 6 7 2 0 3 2 3 3
+p811
+a.

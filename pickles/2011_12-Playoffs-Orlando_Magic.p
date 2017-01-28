@@ -1,0 +1,108 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDaniel Orton ORL 05/08/2012 ORL @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p2
+aVChris Duhon ORL 05/08/2012 ORL @ IND L 9 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 3 3 1 1 1 2
+p3
+aVQuentin Richardson ORL 05/08/2012 ORL @ IND L 6 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 9
+p4
+aVEarl Clark ORL 05/08/2012 ORL @ IND L 12 2 1 1 100.0 0 0 - 0 0 - 1 4 5 1 0 1 0 0 5
+p5
+aVJameer Nelson ORL 05/08/2012 ORL @ IND L 39 27 11 21 52.4 5 8 62.5 0 0 - 1 3 4 5 2 0 0 4 -20
+p6
+aVJJ Redick ORL 05/08/2012 ORL @ IND L 30 12 4 7 57.1 1 4 25.0 3 4 75.0 0 1 1 2 0 0 1 0 -20
+p7
+aVRyan Anderson ORL 05/08/2012 ORL @ IND L 39 14 5 13 38.5 4 9 44.4 0 0 - 2 2 4 0 0 1 3 4 -14
+p8
+aVHedo Turkoglu ORL 05/08/2012 ORL @ IND L 38 7 1 6 16.7 0 4 0.0 5 7 71.4 1 4 5 2 2 0 1 4 -21
+p9
+aVJason Richardson ORL 05/08/2012 ORL @ IND L 27 8 3 7 42.9 1 3 33.3 1 5 20.0 0 3 3 0 1 1 2 1 -13
+p10
+aVGlen Davis ORL 05/08/2012 ORL @ IND L 38 15 6 17 35.3 0 0 - 3 3 100.0 4 4 8 1 0 2 3 0 -14
+p11
+aVJason Richardson ORL 05/05/2012 ORL vs. IND L 43 25 9 18 50.0 4 12 33.3 3 4 75.0 1 4 5 1 2 1 0 0 14
+p12
+aVEarl Clark ORL 05/05/2012 ORL vs. IND L 17 4 1 4 25.0 0 0 - 2 3 66.7 2 6 8 0 0 0 0 1 -24
+p13
+aVGlen Davis ORL 05/05/2012 ORL vs. IND L 41 24 10 18 55.6 0 0 - 4 5 80.0 4 7 11 1 1 0 2 4 11
+p14
+aVQuentin Richardson ORL 05/05/2012 ORL vs. IND L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -15
+p15
+aVJJ Redick ORL 05/05/2012 ORL vs. IND L 24 10 2 9 22.2 1 5 20.0 5 5 100.0 0 1 1 7 1 0 0 2 -1
+p16
+aVRyan Anderson ORL 05/05/2012 ORL vs. IND L 34 11 3 9 33.3 3 6 50.0 2 2 100.0 3 1 4 2 1 1 3 4 -4
+p17
+aVDaniel Orton ORL 05/05/2012 ORL vs. IND L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 2
+p18
+aVJameer Nelson ORL 05/05/2012 ORL vs. IND L 43 12 4 15 26.7 0 3 0.0 4 5 80.0 0 6 6 11 0 0 2 5 9
+p19
+aVChris Duhon ORL 05/05/2012 ORL vs. IND L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -11
+p20
+aVHedo Turkoglu ORL 05/05/2012 ORL vs. IND L 40 11 5 10 50.0 1 1 100.0 0 2 0.0 1 3 4 2 2 1 1 5 9
+p21
+aVEarl Clark ORL 05/02/2012 ORL vs. IND L 18 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 0 0 0 -10
+p22
+aVVon Wafer ORL 05/02/2012 ORL vs. IND L 6 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p23
+aVDaniel Orton ORL 05/02/2012 ORL vs. IND L 5 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 1
+p24
+aVHedo Turkoglu ORL 05/02/2012 ORL vs. IND L 19 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 3 0 0 3 3 -11
+p25
+aVChris Duhon ORL 05/02/2012 ORL vs. IND L 16 0 0 0 - 0 0 - 0 2 0.0 0 2 2 3 1 0 1 1 -2
+p26
+aVJameer Nelson ORL 05/02/2012 ORL vs. IND L 30 10 3 10 30.0 2 6 33.3 2 4 50.0 0 2 2 5 1 0 3 0 -18
+p27
+aVJason Richardson ORL 05/02/2012 ORL vs. IND L 21 5 2 8 25.0 0 2 0.0 1 3 33.3 1 3 4 0 1 0 2 2 -18
+p28
+aVJustin Harper ORL 05/02/2012 ORL vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p29
+aVJJ Redick ORL 05/02/2012 ORL vs. IND L 24 13 6 12 50.0 1 3 33.3 0 0 - 0 0 0 1 0 0 3 1 -9
+p30
+aVGlen Davis ORL 05/02/2012 ORL vs. IND L 33 22 10 18 55.6 0 0 - 2 4 50.0 2 2 4 1 1 0 0 3 -20
+p31
+aVIsh Smith ORL 05/02/2012 ORL vs. IND L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p32
+aVQuentin Richardson ORL 05/02/2012 ORL vs. IND L 27 2 1 5 20.0 0 0 - 0 0 - 0 10 10 1 1 0 3 3 -9
+p33
+aVRyan Anderson ORL 05/02/2012 ORL vs. IND L 32 7 2 6 33.3 1 3 33.3 2 3 66.7 0 1 1 0 0 0 1 4 -19
+p34
+aVChris Duhon ORL 04/30/2012 ORL @ IND L 16 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 2 1 0 1 2 7
+p35
+aVJJ Redick ORL 04/30/2012 ORL @ IND L 25 13 5 12 41.7 1 5 20.0 2 2 100.0 0 1 1 3 0 0 2 1 6
+p36
+aVGlen Davis ORL 04/30/2012 ORL @ IND L 38 18 5 16 31.3 0 0 - 8 10 80.0 7 3 10 0 1 1 2 1 -30
+p37
+aVHedo Turkoglu ORL 04/30/2012 ORL @ IND L 31 10 4 11 36.4 2 4 50.0 0 0 - 1 0 1 2 1 2 2 2 -23
+p38
+aVJameer Nelson ORL 04/30/2012 ORL @ IND L 32 12 4 13 30.8 0 3 0.0 4 5 80.0 0 4 4 3 1 1 2 3 -22
+p39
+aVRyan Anderson ORL 04/30/2012 ORL @ IND L 31 11 3 9 33.3 3 8 37.5 2 2 100.0 3 5 8 2 1 0 1 6 -1
+p40
+aVEarl Clark ORL 04/30/2012 ORL @ IND L 21 6 3 5 60.0 0 0 - 0 0 - 1 5 6 0 1 0 2 2 -1
+p41
+aVQuentin Richardson ORL 04/30/2012 ORL @ IND L 17 3 1 3 33.3 1 2 50.0 0 0 - 0 4 4 1 0 0 2 1 8
+p42
+aVJason Richardson ORL 04/30/2012 ORL @ IND L 29 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 3 0 0 2 2 -19
+p43
+aVChris Duhon ORL 04/28/2012 ORL @ IND W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 0
+p44
+aVJason Richardson ORL 04/28/2012 ORL @ IND W 28 17 6 15 40.0 5 8 62.5 0 0 - 1 4 5 1 2 0 0 2 -2
+p45
+aVRyan Anderson ORL 04/28/2012 ORL @ IND W 36 5 2 7 28.6 1 4 25.0 0 0 - 1 5 6 0 1 0 1 4 11
+p46
+aVJameer Nelson ORL 04/28/2012 ORL @ IND W 38 17 7 15 46.7 1 5 20.0 2 2 100.0 0 3 3 9 0 0 3 1 4
+p47
+aVJJ Redick ORL 04/28/2012 ORL @ IND W 20 6 2 4 50.0 0 2 0.0 2 3 66.7 0 2 2 3 0 0 0 0 3
+p48
+aVDaniel Orton ORL 04/28/2012 ORL @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p49
+aVGlen Davis ORL 04/28/2012 ORL @ IND W 40 16 8 20 40.0 0 0 - 0 0 - 6 7 13 1 0 3 2 2 -3
+p50
+aVHedo Turkoglu ORL 04/28/2012 ORL @ IND W 33 9 3 10 30.0 1 2 50.0 2 2 100.0 1 2 3 3 0 1 2 4 -2
+p51
+aVEarl Clark ORL 04/28/2012 ORL @ IND W 20 6 2 6 33.3 0 0 - 2 4 50.0 2 7 9 0 0 4 2 3 0
+p52
+aVQuentin Richardson ORL 04/28/2012 ORL @ IND W 15 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 0 0 0 0 0 9
+p53
+a.

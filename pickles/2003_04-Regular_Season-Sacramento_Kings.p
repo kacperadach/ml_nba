@@ -1,0 +1,1540 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPeja Stojakovic SAC 04/14/2004 SAC @ GSW L 43 27 10 20 50.0 3 6 50.0 4 4 100.0 1 5 6 4 0 0 2 3 -2
+p2
+aVAnthony Peeler SAC 04/14/2004 SAC @ GSW L 14 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 1 -6
+p3
+aVChris Webber SAC 04/14/2004 SAC @ GSW L 37 14 7 19 36.8 0 1 0.0 0 0 - 3 4 7 1 3 0 1 3 3
+p4
+aVDarius Songaila SAC 04/14/2004 SAC @ GSW L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p5
+aVMike Bibby SAC 04/14/2004 SAC @ GSW L 41 22 8 18 44.4 2 7 28.6 4 5 80.0 1 3 4 3 3 0 3 4 -6
+p6
+aVBrad Miller SAC 04/14/2004 SAC @ GSW L 28 2 0 5 0.0 0 0 - 2 2 100.0 3 8 11 7 0 3 2 2 -11
+p7
+aVDoug Christie SAC 04/14/2004 SAC @ GSW L 46 13 5 16 31.3 2 3 66.7 1 1 100.0 5 4 9 3 3 2 2 2 -4
+p8
+aVVlade Divac SAC 04/14/2004 SAC @ GSW L 20 8 4 8 50.0 0 1 0.0 0 0 - 2 5 7 5 1 4 1 1 5
+p9
+aVDarius Songaila SAC 04/12/2004 SAC @ DEN L 13 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 1 5
+p10
+aVPeja Stojakovic SAC 04/12/2004 SAC @ DEN L 41 20 7 17 41.2 0 6 0.0 6 6 100.0 0 6 6 1 1 1 1 4 -3
+p11
+aVDoug Christie SAC 04/12/2004 SAC @ DEN L 42 14 5 12 41.7 0 2 0.0 4 4 100.0 1 3 4 8 2 2 3 2 -12
+p12
+aVBrad Miller SAC 04/12/2004 SAC @ DEN L 34 12 5 9 55.6 0 2 0.0 2 2 100.0 3 5 8 6 0 2 2 4 0
+p13
+aVMike Bibby SAC 04/12/2004 SAC @ DEN L 26 6 2 8 25.0 0 2 0.0 2 2 100.0 0 2 2 7 1 0 4 2 -10
+p14
+aVAnthony Peeler SAC 04/12/2004 SAC @ DEN L 26 10 2 5 40.0 1 1 100.0 5 5 100.0 1 2 3 4 2 0 1 2 4
+p15
+aVVlade Divac SAC 04/12/2004 SAC @ DEN L 14 2 1 5 20.0 0 0 - 0 0 - 2 3 5 2 2 5 1 2 -6
+p16
+aVChris Webber SAC 04/12/2004 SAC @ DEN L 35 18 9 25 36.0 0 0 - 0 0 - 2 5 7 0 0 0 1 2 -13
+p17
+aVRodney Buford SAC 04/12/2004 SAC @ DEN L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 1 1 0 3 -5
+p18
+aVDarius Songaila SAC 04/11/2004 SAC vs. LAL W 9 4 0 3 0.0 0 0 - 4 4 100.0 3 3 6 0 0 1 1 4 -9
+p19
+aVDoug Christie SAC 04/11/2004 SAC vs. LAL W 42 21 8 16 50.0 3 7 42.9 2 3 66.7 0 3 3 5 3 1 2 2 29
+p20
+aVChris Webber SAC 04/11/2004 SAC vs. LAL W 40 25 9 19 47.4 0 0 - 7 9 77.8 2 10 12 5 2 1 2 3 27
+p21
+aVVlade Divac SAC 04/11/2004 SAC vs. LAL W 19 7 2 5 40.0 0 0 - 3 4 75.0 2 4 6 3 1 0 1 3 9
+p22
+aVRodney Buford SAC 04/11/2004 SAC vs. LAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p23
+aVBrad Miller SAC 04/11/2004 SAC vs. LAL W 25 12 4 8 50.0 0 0 - 4 4 100.0 2 6 8 4 0 0 0 4 15
+p24
+aVTony Massenburg SAC 04/11/2004 SAC vs. LAL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -8
+p25
+aVJabari Smith SAC 04/11/2004 SAC vs. LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p26
+aVAnthony Peeler SAC 04/11/2004 SAC vs. LAL W 18 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 2
+p27
+aVMike Bibby SAC 04/11/2004 SAC vs. LAL W 42 15 5 15 33.3 3 5 60.0 2 2 100.0 1 0 1 8 3 0 2 3 15
+p28
+aVPeja Stojakovic SAC 04/11/2004 SAC vs. LAL W 37 13 5 11 45.5 1 4 25.0 2 2 100.0 3 6 9 1 0 0 2 1 20
+p29
+aVVlade Divac SAC 04/09/2004 SAC @ PHX L 21 16 7 11 63.6 1 1 100.0 1 2 50.0 3 2 5 1 0 1 2 4 7
+p30
+aVAnthony Peeler SAC 04/09/2004 SAC @ PHX L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p31
+aVBrad Miller SAC 04/09/2004 SAC @ PHX L 32 9 3 4 75.0 1 2 50.0 2 2 100.0 4 11 15 6 2 0 2 5 0
+p32
+aVDarius Songaila SAC 04/09/2004 SAC @ PHX L 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -4
+p33
+aVMike Bibby SAC 04/09/2004 SAC @ PHX L 45 26 8 17 47.1 1 4 25.0 9 10 90.0 2 3 5 1 0 1 4 1 -8
+p34
+aVDoug Christie SAC 04/09/2004 SAC @ PHX L 39 5 2 7 28.6 0 2 0.0 1 2 50.0 2 4 6 4 1 0 2 3 -4
+p35
+aVChris Webber SAC 04/09/2004 SAC @ PHX L 37 15 5 18 27.8 0 0 - 5 6 83.3 0 4 4 4 1 3 3 4 -13
+p36
+aVPeja Stojakovic SAC 04/09/2004 SAC @ PHX L 45 19 8 20 40.0 3 9 33.3 0 0 - 0 7 7 3 2 1 3 3 2
+p37
+aVBrad Miller SAC 04/08/2004 SAC vs. MIN L 31 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 2 0 1 2 6 -1
+p38
+aVBobby Jackson SAC 04/08/2004 SAC vs. MIN L 13 10 4 6 66.7 2 3 66.7 0 1 0.0 1 1 2 0 0 0 0 2 -3
+p39
+aVPeja Stojakovic SAC 04/08/2004 SAC vs. MIN L 39 12 5 15 33.3 0 0 - 2 2 100.0 0 3 3 2 0 0 1 1 -10
+p40
+aVMike Bibby SAC 04/08/2004 SAC vs. MIN L 35 19 8 18 44.4 1 2 50.0 2 4 50.0 1 3 4 7 3 0 1 2 -5
+p41
+aVAnthony Peeler SAC 04/08/2004 SAC vs. MIN L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -7
+p42
+aVChris Webber SAC 04/08/2004 SAC vs. MIN L 44 21 9 21 42.9 1 1 100.0 2 4 50.0 2 9 11 4 1 0 5 2 -10
+p43
+aVDoug Christie SAC 04/08/2004 SAC vs. MIN L 43 12 6 11 54.5 0 2 0.0 0 0 - 2 5 7 4 1 0 3 3 -1
+p44
+aVVlade Divac SAC 04/08/2004 SAC vs. MIN L 21 4 1 5 20.0 0 0 - 2 3 66.7 2 3 5 1 1 0 2 4 -3
+p45
+aVChris Webber SAC 04/06/2004 SAC vs. NOH W 37 24 9 17 52.9 0 0 - 6 7 85.7 2 5 7 6 0 0 1 4 17
+p46
+aVDarius Songaila SAC 04/06/2004 SAC vs. NOH W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 1 1 3 5
+p47
+aVAnthony Peeler SAC 04/06/2004 SAC vs. NOH W 28 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 4 3 0 3 1 10
+p48
+aVMike Bibby SAC 04/06/2004 SAC vs. NOH W 32 13 5 13 38.5 1 4 25.0 2 2 100.0 0 1 1 4 4 0 5 3 3
+p49
+aVPeja Stojakovic SAC 04/06/2004 SAC vs. NOH W 44 26 9 13 69.2 5 9 55.6 3 3 100.0 0 4 4 3 1 0 4 1 13
+p50
+aVVlade Divac SAC 04/06/2004 SAC vs. NOH W 12 0 0 5 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 4 -13
+p51
+aVBrad Miller SAC 04/06/2004 SAC vs. NOH W 38 20 7 9 77.8 0 0 - 6 6 100.0 3 7 10 1 2 2 2 3 19
+p52
+aVDoug Christie SAC 04/06/2004 SAC vs. NOH W 40 15 6 10 60.0 1 3 33.3 2 2 100.0 1 5 6 5 2 1 3 2 16
+p53
+aVDarius Songaila SAC 04/04/2004 SAC @ HOU W 18 8 2 5 40.0 0 0 - 4 4 100.0 2 2 4 0 1 0 0 3 -2
+p54
+aVAnthony Peeler SAC 04/04/2004 SAC @ HOU W 25 9 3 6 50.0 3 3 100.0 0 0 - 0 0 0 1 0 0 0 1 -10
+p55
+aVChris Webber SAC 04/04/2004 SAC @ HOU W 43 19 8 19 42.1 0 0 - 3 6 50.0 0 8 8 6 2 2 4 2 2
+p56
+aVMike Bibby SAC 04/04/2004 SAC @ HOU W 39 8 2 10 20.0 0 2 0.0 4 4 100.0 0 3 3 4 2 0 2 5 6
+p57
+aVVlade Divac SAC 04/04/2004 SAC @ HOU W 29 10 4 5 80.0 0 0 - 2 2 100.0 0 3 3 6 3 1 1 3 7
+p58
+aVGerald Wallace SAC 04/04/2004 SAC @ HOU W 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 0 0 -4
+p59
+aVDoug Christie SAC 04/04/2004 SAC @ HOU W 38 17 8 12 66.7 1 1 100.0 0 0 - 0 4 4 6 4 0 5 1 17
+p60
+aVPeja Stojakovic SAC 04/04/2004 SAC @ HOU W 44 28 9 15 60.0 3 6 50.0 7 7 100.0 0 11 11 3 3 0 1 2 9
+p61
+aVGerald Wallace SAC 04/01/2004 SAC @ DAL L 8 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p62
+aVChris Webber SAC 04/01/2004 SAC @ DAL L 41 22 9 19 47.4 0 0 - 4 6 66.7 3 8 11 5 1 1 3 0 -6
+p63
+aVMike Bibby SAC 04/01/2004 SAC @ DAL L 41 23 6 13 46.2 2 6 33.3 9 10 90.0 1 3 4 3 3 0 3 5 -6
+p64
+aVAnthony Peeler SAC 04/01/2004 SAC @ DAL L 23 10 4 6 66.7 2 3 66.7 0 0 - 1 3 4 2 0 0 2 1 -3
+p65
+aVDarius Songaila SAC 04/01/2004 SAC @ DAL L 28 17 6 9 66.7 0 0 - 5 6 83.3 6 1 7 1 0 0 1 3 7
+p66
+aVJabari Smith SAC 04/01/2004 SAC @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p67
+aVVlade Divac SAC 04/01/2004 SAC @ DAL L 17 8 3 9 33.3 0 0 - 2 4 50.0 3 3 6 4 1 0 3 3 -7
+p68
+aVDoug Christie SAC 04/01/2004 SAC @ DAL L 38 10 3 11 27.3 0 1 0.0 4 4 100.0 2 3 5 9 1 0 2 2 -18
+p69
+aVPeja Stojakovic SAC 04/01/2004 SAC @ DAL L 42 21 8 17 47.1 2 5 40.0 3 3 100.0 0 8 8 0 2 0 1 2 -9
+p70
+aVRodney Buford SAC 04/01/2004 SAC @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p71
+aVDarius Songaila SAC 03/31/2004 SAC @ SAS L 21 6 2 5 40.0 0 0 - 2 2 100.0 4 5 9 2 0 1 1 5 -9
+p72
+aVChris Webber SAC 03/31/2004 SAC @ SAS L 40 14 6 16 37.5 0 1 0.0 2 2 100.0 2 3 5 6 2 1 4 4 -12
+p73
+aVMike Bibby SAC 03/31/2004 SAC @ SAS L 40 14 6 16 37.5 0 2 0.0 2 3 66.7 0 6 6 3 2 2 4 2 -24
+p74
+aVDoug Christie SAC 03/31/2004 SAC @ SAS L 40 17 8 12 66.7 1 1 100.0 0 0 - 0 0 0 1 3 1 1 1 -5
+p75
+aVPeja Stojakovic SAC 03/31/2004 SAC @ SAS L 39 19 6 15 40.0 3 6 50.0 4 4 100.0 2 4 6 2 1 0 2 2 -8
+p76
+aVAnthony Peeler SAC 03/31/2004 SAC @ SAS L 22 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 0 0 1 1 4 -22
+p77
+aVGerald Wallace SAC 03/31/2004 SAC @ SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p78
+aVVlade Divac SAC 03/31/2004 SAC @ SAS L 33 14 5 9 55.6 0 1 0.0 4 6 66.7 3 5 8 2 0 0 0 1 -7
+p79
+aVTony Massenburg SAC 03/28/2004 SAC vs. WAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p80
+aVMike Bibby SAC 03/28/2004 SAC vs. WAS W 42 21 9 23 39.1 1 5 20.0 2 2 100.0 4 0 4 7 5 0 0 5 22
+p81
+aVAnthony Peeler SAC 03/28/2004 SAC vs. WAS W 17 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 2 1 -7
+p82
+aVBrad Miller SAC 03/28/2004 SAC vs. WAS W 38 4 2 5 40.0 0 0 - 0 2 0.0 0 4 4 2 2 2 4 6 20
+p83
+aVChris Webber SAC 03/28/2004 SAC vs. WAS W 39 23 8 18 44.4 0 0 - 7 8 87.5 2 7 9 7 0 3 3 5 5
+p84
+aVDarius Songaila SAC 03/28/2004 SAC vs. WAS W 14 4 0 3 0.0 0 0 - 4 4 100.0 2 2 4 1 2 0 0 5 -3
+p85
+aVPeja Stojakovic SAC 03/28/2004 SAC vs. WAS W 46 29 10 19 52.6 4 8 50.0 5 5 100.0 1 10 11 2 2 0 2 2 9
+p86
+aVDoug Christie SAC 03/28/2004 SAC vs. WAS W 39 12 5 9 55.6 0 1 0.0 2 2 100.0 0 9 9 4 1 2 3 3 0
+p87
+aVAnthony Peeler SAC 03/24/2004 SAC @ LAL L 23 11 4 4 100.0 3 3 100.0 0 0 - 0 1 1 3 0 0 3 1 2
+p88
+aVVlade Divac SAC 03/24/2004 SAC @ LAL L 24 9 3 7 42.9 0 0 - 3 4 75.0 0 2 2 4 0 3 0 0 -17
+p89
+aVRodney Buford SAC 03/24/2004 SAC @ LAL L 11 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p90
+aVDarius Songaila SAC 03/24/2004 SAC @ LAL L 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -1
+p91
+aVDoug Christie SAC 03/24/2004 SAC @ LAL L 30 10 4 12 33.3 1 5 20.0 1 2 50.0 4 0 4 5 4 1 3 3 -22
+p92
+aVBrad Miller SAC 03/24/2004 SAC @ LAL L 27 2 1 5 20.0 0 0 - 0 0 - 1 6 7 5 2 0 3 3 3
+p93
+aVTony Massenburg SAC 03/24/2004 SAC @ LAL L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -1
+p94
+aVPeja Stojakovic SAC 03/24/2004 SAC @ LAL L 37 20 7 15 46.7 2 5 40.0 4 4 100.0 1 7 8 1 0 0 0 4 -28
+p95
+aVJabari Smith SAC 03/24/2004 SAC @ LAL L 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -1
+p96
+aVChris Webber SAC 03/24/2004 SAC @ LAL L 35 18 7 15 46.7 0 0 - 4 8 50.0 3 1 4 2 2 0 3 3 -32
+p97
+aVMike Bibby SAC 03/24/2004 SAC @ LAL L 41 12 4 16 25.0 0 2 0.0 4 6 66.7 1 2 3 6 1 0 3 3 -22
+p98
+aVChris Webber SAC 03/23/2004 SAC vs. MIL L 38 17 7 23 30.4 0 0 - 3 3 100.0 4 6 10 8 0 1 2 5 -4
+p99
+aVJabari Smith SAC 03/23/2004 SAC vs. MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p100
+aVPeja Stojakovic SAC 03/23/2004 SAC vs. MIL L 41 21 8 16 50.0 4 7 57.1 1 1 100.0 1 3 4 2 0 0 3 1 -9
+p101
+aVDarius Songaila SAC 03/23/2004 SAC vs. MIL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p102
+aVVlade Divac SAC 03/23/2004 SAC vs. MIL L 17 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 0 -10
+p103
+aVAnthony Peeler SAC 03/23/2004 SAC vs. MIL L 22 9 3 5 60.0 3 4 75.0 0 0 - 0 4 4 1 2 1 1 2 0
+p104
+aVMike Bibby SAC 03/23/2004 SAC vs. MIL L 41 27 10 14 71.4 1 4 25.0 6 8 75.0 0 1 1 5 1 0 2 3 -9
+p105
+aVBrad Miller SAC 03/23/2004 SAC vs. MIL L 30 14 4 7 57.1 0 2 0.0 6 9 66.7 2 6 8 4 0 0 2 5 -1
+p106
+aVRodney Buford SAC 03/23/2004 SAC vs. MIL L 7 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -2
+p107
+aVDoug Christie SAC 03/23/2004 SAC vs. MIL L 37 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 5 2 1 2 4 -13
+p108
+aVAnthony Peeler SAC 03/21/2004 SAC vs. HOU W 23 8 3 5 60.0 2 2 100.0 0 0 - 1 1 2 2 0 0 0 0 3
+p109
+aVChris Webber SAC 03/21/2004 SAC vs. HOU W 42 13 4 18 22.2 0 0 - 5 8 62.5 3 12 15 6 3 0 4 3 10
+p110
+aVPeja Stojakovic SAC 03/21/2004 SAC vs. HOU W 45 29 10 16 62.5 5 10 50.0 4 5 80.0 1 4 5 0 2 0 2 0 9
+p111
+aVDoug Christie SAC 03/21/2004 SAC vs. HOU W 37 11 4 8 50.0 0 3 0.0 3 3 100.0 0 5 5 6 1 1 3 0 -7
+p112
+aVMike Bibby SAC 03/21/2004 SAC vs. HOU W 41 20 7 14 50.0 1 4 25.0 5 6 83.3 0 2 2 7 1 0 2 1 10
+p113
+aVBrad Miller SAC 03/21/2004 SAC vs. HOU W 18 2 1 5 20.0 0 0 - 0 0 - 0 3 3 1 0 0 2 3 -9
+p114
+aVVlade Divac SAC 03/21/2004 SAC vs. HOU W 34 17 5 7 71.4 1 1 100.0 6 9 66.7 2 3 5 6 2 0 2 4 9
+p115
+aVMike Bibby SAC 03/19/2004 SAC @ IND W 42 25 9 16 56.3 1 4 25.0 6 7 85.7 2 4 6 4 1 0 2 3 1
+p116
+aVAnthony Peeler SAC 03/19/2004 SAC @ IND W 18 4 1 2 50.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 2 -6
+p117
+aVBrad Miller SAC 03/19/2004 SAC @ IND W 37 12 6 9 66.7 0 0 - 0 0 - 2 11 13 5 0 4 3 2 9
+p118
+aVChris Webber SAC 03/19/2004 SAC @ IND W 42 24 8 17 47.1 0 0 - 8 12 66.7 2 14 16 8 1 4 3 6 2
+p119
+aVRodney Buford SAC 03/19/2004 SAC @ IND W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -5
+p120
+aVPeja Stojakovic SAC 03/19/2004 SAC @ IND W 42 17 7 17 41.2 2 9 22.2 1 2 50.0 1 5 6 2 2 0 1 3 7
+p121
+aVDoug Christie SAC 03/19/2004 SAC @ IND W 36 8 2 8 25.0 1 3 33.3 3 3 100.0 2 1 3 4 1 2 2 2 9
+p122
+aVVlade Divac SAC 03/19/2004 SAC @ IND W 17 2 1 6 16.7 0 1 0.0 0 0 - 2 1 3 2 0 0 1 3 -7
+p123
+aVVlade Divac SAC 03/17/2004 SAC @ WAS L 26 9 4 5 80.0 0 0 - 1 2 50.0 2 5 7 5 0 3 1 2 5
+p124
+aVChris Webber SAC 03/17/2004 SAC @ WAS L 34 16 7 14 50.0 0 0 - 2 4 50.0 1 6 7 5 2 0 5 4 -13
+p125
+aVBrad Miller SAC 03/17/2004 SAC @ WAS L 36 14 4 9 44.4 0 2 0.0 6 7 85.7 2 6 8 6 1 1 2 5 -4
+p126
+aVAnthony Peeler SAC 03/17/2004 SAC @ WAS L 16 7 3 6 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 0 2
+p127
+aVMike Bibby SAC 03/17/2004 SAC @ WAS L 42 20 8 15 53.3 0 4 0.0 4 4 100.0 0 4 4 6 2 0 5 3 -3
+p128
+aVDoug Christie SAC 03/17/2004 SAC @ WAS L 46 17 7 10 70.0 3 3 100.0 0 0 - 1 0 1 7 2 3 4 0 -4
+p129
+aVPeja Stojakovic SAC 03/17/2004 SAC @ WAS L 40 25 8 14 57.1 3 6 50.0 6 7 85.7 1 3 4 3 3 0 2 4 -13
+p130
+aVDoug Christie SAC 03/16/2004 SAC @ NJN L 31 0 0 6 0.0 0 2 0.0 0 0 - 1 5 6 1 1 0 1 1 -12
+p131
+aVMike Bibby SAC 03/16/2004 SAC @ NJN L 39 17 6 16 37.5 2 4 50.0 3 3 100.0 0 2 2 5 2 0 3 0 -15
+p132
+aVChris Webber SAC 03/16/2004 SAC @ NJN L 27 15 5 17 29.4 0 0 - 5 8 62.5 1 8 9 2 0 0 0 2 -14
+p133
+aVJabari Smith SAC 03/16/2004 SAC @ NJN L 6 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 0 0 1 0 1 5
+p134
+aVBrad Miller SAC 03/16/2004 SAC @ NJN L 25 12 5 9 55.6 1 1 100.0 1 2 50.0 4 2 6 4 2 0 2 3 0
+p135
+aVAnthony Peeler SAC 03/16/2004 SAC @ NJN L 24 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -9
+p136
+aVRodney Buford SAC 03/16/2004 SAC @ NJN L 13 4 2 5 40.0 0 0 - 0 0 - 0 2 2 1 1 0 1 0 -6
+p137
+aVDarius Songaila SAC 03/16/2004 SAC @ NJN L 16 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 9
+p138
+aVVlade Divac SAC 03/16/2004 SAC @ NJN L 20 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -29
+p139
+aVPeja Stojakovic SAC 03/16/2004 SAC @ NJN L 31 11 4 10 40.0 1 3 33.3 2 2 100.0 0 7 7 3 2 1 2 2 -17
+p140
+aVTony Massenburg SAC 03/16/2004 SAC @ NJN L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 3
+p141
+aVBrad Miller SAC 03/14/2004 SAC vs. SAS W 33 19 6 9 66.7 1 1 100.0 6 10 60.0 4 9 13 4 2 1 3 4 15
+p142
+aVDoug Christie SAC 03/14/2004 SAC vs. SAS W 42 5 2 9 22.2 0 3 0.0 1 1 100.0 0 7 7 4 4 1 2 3 17
+p143
+aVChris Webber SAC 03/14/2004 SAC vs. SAS W 34 23 11 19 57.9 0 1 0.0 1 1 100.0 2 6 8 5 1 1 3 3 12
+p144
+aVPeja Stojakovic SAC 03/14/2004 SAC vs. SAS W 42 18 6 12 50.0 3 6 50.0 3 3 100.0 3 2 5 3 2 0 3 2 6
+p145
+aVJabari Smith SAC 03/14/2004 SAC vs. SAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p146
+aVVlade Divac SAC 03/14/2004 SAC vs. SAS W 20 5 2 4 50.0 0 0 - 1 4 25.0 0 4 4 0 1 0 1 1 -5
+p147
+aVAnthony Peeler SAC 03/14/2004 SAC vs. SAS W 20 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 3 3 0 0 2 9
+p148
+aVRodney Buford SAC 03/14/2004 SAC vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p149
+aVMike Bibby SAC 03/14/2004 SAC vs. SAS W 44 24 9 17 52.9 2 7 28.6 4 5 80.0 0 1 1 3 1 0 3 1 20
+p150
+aVDarius Songaila SAC 03/14/2004 SAC vs. SAS W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p151
+aVDoug Christie SAC 03/12/2004 SAC @ POR L 39 8 3 6 50.0 1 3 33.3 1 2 50.0 0 1 1 3 3 0 3 2 -3
+p152
+aVVlade Divac SAC 03/12/2004 SAC @ POR L 22 9 3 5 60.0 0 0 - 3 4 75.0 1 3 4 2 0 0 1 1 5
+p153
+aVDarius Songaila SAC 03/12/2004 SAC @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -3
+p154
+aVAnthony Peeler SAC 03/12/2004 SAC @ POR L 20 6 2 5 40.0 2 3 66.7 0 0 - 2 1 3 3 0 0 3 0 -1
+p155
+aVChris Webber SAC 03/12/2004 SAC @ POR L 33 16 8 16 50.0 0 0 - 0 0 - 0 4 4 2 1 1 2 2 -7
+p156
+aVBrad Miller SAC 03/12/2004 SAC @ POR L 34 8 4 11 36.4 0 1 0.0 0 0 - 1 6 7 1 2 1 0 2 1
+p157
+aVMike Bibby SAC 03/12/2004 SAC @ POR L 40 12 5 15 33.3 2 5 40.0 0 0 - 2 2 4 8 2 1 4 2 5
+p158
+aVPeja Stojakovic SAC 03/12/2004 SAC @ POR L 39 18 7 17 41.2 3 5 60.0 1 3 33.3 3 6 9 5 1 1 2 2 -5
+p159
+aVRodney Buford SAC 03/12/2004 SAC @ POR L 6 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p160
+aVAnthony Peeler SAC 03/11/2004 SAC vs. DAL W 23 8 2 5 40.0 1 3 33.3 3 4 75.0 1 0 1 1 0 0 2 0 6
+p161
+aVPeja Stojakovic SAC 03/11/2004 SAC vs. DAL W 40 22 8 14 57.1 4 9 44.4 2 2 100.0 0 5 5 1 0 0 2 2 25
+p162
+aVTony Massenburg SAC 03/11/2004 SAC vs. DAL W 4 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 1 1 -5
+p163
+aVJabari Smith SAC 03/11/2004 SAC vs. DAL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p164
+aVBrad Miller SAC 03/11/2004 SAC vs. DAL W 35 21 8 10 80.0 0 0 - 5 5 100.0 3 13 16 3 1 0 4 1 21
+p165
+aVDoug Christie SAC 03/11/2004 SAC vs. DAL W 42 22 9 14 64.3 2 5 40.0 2 2 100.0 0 3 3 12 3 1 4 2 19
+p166
+aVChris Webber SAC 03/11/2004 SAC vs. DAL W 27 16 8 15 53.3 0 0 - 0 0 - 0 8 8 5 1 1 0 3 13
+p167
+aVMike Bibby SAC 03/11/2004 SAC vs. DAL W 31 21 9 12 75.0 2 3 66.7 1 1 100.0 0 2 2 10 1 0 0 0 7
+p168
+aVVlade Divac SAC 03/11/2004 SAC vs. DAL W 19 5 2 7 28.6 0 0 - 1 2 50.0 0 4 4 5 0 0 4 2 -2
+p169
+aVDarius Songaila SAC 03/11/2004 SAC vs. DAL W 7 2 1 4 25.0 0 0 - 0 0 - 0 2 2 1 1 0 1 1 8
+p170
+aVRodney Buford SAC 03/11/2004 SAC vs. DAL W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p171
+aVAnthony Peeler SAC 03/09/2004 SAC vs. GSW W 16 7 2 5 40.0 1 1 100.0 2 2 100.0 1 2 3 3 1 0 0 2 3
+p172
+aVMike Bibby SAC 03/09/2004 SAC vs. GSW W 39 21 8 12 66.7 2 3 66.7 3 5 60.0 0 2 2 3 3 0 4 3 0
+p173
+aVBrad Miller SAC 03/09/2004 SAC vs. GSW W 30 7 3 13 23.1 0 1 0.0 1 1 100.0 3 7 10 5 0 0 0 4 13
+p174
+aVPeja Stojakovic SAC 03/09/2004 SAC vs. GSW W 43 20 9 21 42.9 1 8 12.5 1 1 100.0 1 8 9 1 2 0 0 2 2
+p175
+aVChris Webber SAC 03/09/2004 SAC vs. GSW W 33 5 2 21 9.5 0 0 - 1 2 50.0 7 4 11 1 3 0 2 3 -3
+p176
+aVDarius Songaila SAC 03/09/2004 SAC vs. GSW W 7 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 0 0 2 6
+p177
+aVDoug Christie SAC 03/09/2004 SAC vs. GSW W 42 23 6 11 54.5 2 4 50.0 9 9 100.0 2 3 5 6 2 0 2 3 1
+p178
+aVVlade Divac SAC 03/09/2004 SAC vs. GSW W 25 9 4 6 66.7 0 0 - 1 2 50.0 4 3 7 1 0 1 3 2 -4
+p179
+aVRodney Buford SAC 03/09/2004 SAC vs. GSW W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p180
+aVRodney Buford SAC 03/07/2004 SAC @ ORL W 5 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p181
+aVAnthony Peeler SAC 03/07/2004 SAC @ ORL W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -8
+p182
+aVPeja Stojakovic SAC 03/07/2004 SAC @ ORL W 43 28 9 17 52.9 3 7 42.9 7 7 100.0 1 9 10 2 1 0 1 1 22
+p183
+aVBrad Miller SAC 03/07/2004 SAC @ ORL W 42 22 7 13 53.8 0 0 - 8 8 100.0 4 9 13 3 2 0 1 3 26
+p184
+aVMike Bibby SAC 03/07/2004 SAC @ ORL W 41 26 10 16 62.5 2 4 50.0 4 4 100.0 1 2 3 5 1 0 4 2 22
+p185
+aVDarius Songaila SAC 03/07/2004 SAC @ ORL W 6 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 -10
+p186
+aVTony Massenburg SAC 03/07/2004 SAC @ ORL W 15 4 1 3 33.3 0 0 - 2 2 100.0 1 7 8 0 1 0 0 3 -7
+p187
+aVVlade Divac SAC 03/07/2004 SAC @ ORL W 33 10 5 12 41.7 0 1 0.0 0 0 - 0 6 6 6 0 2 1 2 23
+p188
+aVJabari Smith SAC 03/07/2004 SAC @ ORL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p189
+aVDoug Christie SAC 03/07/2004 SAC @ ORL W 41 13 4 14 28.6 2 6 33.3 3 3 100.0 1 4 5 12 2 0 1 1 20
+p190
+aVRodney Buford SAC 03/06/2004 SAC @ MIA L 9 0 0 5 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p191
+aVVlade Divac SAC 03/06/2004 SAC @ MIA L 27 6 2 5 40.0 0 1 0.0 2 2 100.0 3 1 4 5 0 1 1 3 12
+p192
+aVAnthony Peeler SAC 03/06/2004 SAC @ MIA L 15 5 2 5 40.0 1 4 25.0 0 0 - 0 3 3 0 1 1 1 0 -7
+p193
+aVDoug Christie SAC 03/06/2004 SAC @ MIA L 40 17 7 14 50.0 2 5 40.0 1 2 50.0 1 5 6 6 2 1 2 4 -3
+p194
+aVDarius Songaila SAC 03/06/2004 SAC @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p195
+aVPeja Stojakovic SAC 03/06/2004 SAC @ MIA L 39 14 4 13 30.8 2 7 28.6 4 5 80.0 0 4 4 3 0 0 0 2 -1
+p196
+aVBrad Miller SAC 03/06/2004 SAC @ MIA L 32 8 3 6 50.0 0 0 - 2 4 50.0 1 10 11 2 0 2 0 6 -12
+p197
+aVChris Webber SAC 03/06/2004 SAC @ MIA L 32 22 8 21 38.1 0 1 0.0 6 7 85.7 1 8 9 3 4 1 3 5 -9
+p198
+aVMike Bibby SAC 03/06/2004 SAC @ MIA L 42 24 7 15 46.7 2 5 40.0 8 10 80.0 2 1 3 3 2 0 2 1 -4
+p199
+aVAnthony Peeler SAC 03/04/2004 SAC @ PHI W 21 7 2 3 66.7 2 2 100.0 1 2 50.0 1 5 6 2 2 0 0 4 6
+p200
+aVRodney Buford SAC 03/04/2004 SAC @ PHI W 11 6 2 4 50.0 0 0 - 2 2 100.0 2 0 2 0 3 0 0 0 9
+p201
+aVMike Bibby SAC 03/04/2004 SAC @ PHI W 43 21 5 16 31.3 3 6 50.0 8 11 72.7 0 6 6 6 3 0 1 2 15
+p202
+aVChris Webber SAC 03/04/2004 SAC @ PHI W 31 24 8 16 50.0 0 0 - 8 9 88.9 2 4 6 10 0 0 4 5 17
+p203
+aVDoug Christie SAC 03/04/2004 SAC @ PHI W 32 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 3 0 1 4 -4
+p204
+aVBrad Miller SAC 03/04/2004 SAC @ PHI W 32 19 6 10 60.0 1 1 100.0 6 8 75.0 2 5 7 2 0 1 1 2 7
+p205
+aVPeja Stojakovic SAC 03/04/2004 SAC @ PHI W 38 27 8 16 50.0 3 8 37.5 8 8 100.0 0 3 3 2 1 0 1 1 2
+p206
+aVVlade Divac SAC 03/04/2004 SAC @ PHI W 32 6 3 6 50.0 0 0 - 0 0 - 0 3 3 9 1 0 3 4 -7
+p207
+aVRodney Buford SAC 03/02/2004 SAC vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p208
+aVDoug Christie SAC 03/02/2004 SAC vs. LAC W 40 10 4 11 36.4 0 2 0.0 2 2 100.0 2 2 4 5 1 2 1 1 9
+p209
+aVBrad Miller SAC 03/02/2004 SAC vs. LAC W 34 23 9 19 47.4 0 1 0.0 5 9 55.6 3 6 9 3 3 0 2 3 0
+p210
+aVPeja Stojakovic SAC 03/02/2004 SAC vs. LAC W 43 23 7 15 46.7 2 4 50.0 7 7 100.0 0 1 1 1 2 0 0 3 7
+p211
+aVVlade Divac SAC 03/02/2004 SAC vs. LAC W 32 12 5 8 62.5 0 0 - 2 2 100.0 4 6 10 8 0 1 2 4 -7
+p212
+aVAnthony Peeler SAC 03/02/2004 SAC vs. LAC W 18 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 19
+p213
+aVChris Webber SAC 03/02/2004 SAC vs. LAC W 30 26 12 18 66.7 0 0 - 2 4 50.0 4 8 12 4 1 0 2 3 17
+p214
+aVMike Bibby SAC 03/02/2004 SAC vs. LAC W 38 13 5 13 38.5 1 5 20.0 2 2 100.0 2 2 4 3 2 0 3 0 -8
+p215
+aVDarius Songaila SAC 02/29/2004 SAC vs. PHX W 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p216
+aVPeja Stojakovic SAC 02/29/2004 SAC vs. PHX W 45 32 9 21 42.9 5 13 38.5 9 11 81.8 1 6 7 1 0 0 2 2 20
+p217
+aVTony Massenburg SAC 02/29/2004 SAC vs. PHX W 8 3 1 5 20.0 0 1 0.0 1 4 25.0 3 1 4 0 2 0 0 1 10
+p218
+aVBrad Miller SAC 02/29/2004 SAC vs. PHX W 34 16 7 15 46.7 0 1 0.0 2 4 50.0 3 7 10 2 2 1 2 4 2
+p219
+aVAnthony Peeler SAC 02/29/2004 SAC vs. PHX W 14 2 1 5 20.0 0 4 0.0 0 0 - 1 2 3 1 2 1 0 3 11
+p220
+aVDoug Christie SAC 02/29/2004 SAC vs. PHX W 47 28 10 17 58.8 3 6 50.0 5 5 100.0 1 7 8 9 4 1 0 2 14
+p221
+aVMike Bibby SAC 02/29/2004 SAC vs. PHX W 42 17 5 14 35.7 2 7 28.6 5 5 100.0 3 2 5 7 1 0 2 0 4
+p222
+aVVlade Divac SAC 02/29/2004 SAC vs. PHX W 35 6 3 7 42.9 0 0 - 0 0 - 0 8 8 9 0 1 5 4 17
+p223
+aVRodney Buford SAC 02/29/2004 SAC vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p224
+aVMike Bibby SAC 02/27/2004 SAC vs. UTA L 43 26 6 13 46.2 1 7 14.3 13 18 72.2 1 3 4 5 1 0 1 2 -4
+p225
+aVGerald Wallace SAC 02/27/2004 SAC vs. UTA L 7 0 0 3 0.0 0 0 - 0 0 - 2 0 2 1 0 1 0 1 -5
+p226
+aVTony Massenburg SAC 02/27/2004 SAC vs. UTA L 14 10 3 4 75.0 0 0 - 4 6 66.7 4 3 7 0 0 0 1 2 -2
+p227
+aVVlade Divac SAC 02/27/2004 SAC vs. UTA L 34 7 2 5 40.0 0 1 0.0 3 4 75.0 4 4 8 7 1 1 7 4 -3
+p228
+aVAnthony Peeler SAC 02/27/2004 SAC vs. UTA L 22 6 2 9 22.2 0 2 0.0 2 2 100.0 1 2 3 0 0 0 2 0 -7
+p229
+aVDarius Songaila SAC 02/27/2004 SAC vs. UTA L 31 8 3 6 50.0 0 0 - 2 5 40.0 1 4 5 1 1 0 1 3 5
+p230
+aVDoug Christie SAC 02/27/2004 SAC vs. UTA L 41 17 4 10 40.0 2 4 50.0 7 8 87.5 2 4 6 1 4 2 4 4 -4
+p231
+aVJabari Smith SAC 02/27/2004 SAC vs. UTA L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p232
+aVPeja Stojakovic SAC 02/27/2004 SAC vs. UTA L 43 21 5 16 31.3 3 5 60.0 8 8 100.0 1 5 6 1 2 1 2 3 4
+p233
+aVDoug Christie SAC 02/26/2004 SAC @ LAL W 42 13 6 12 50.0 0 2 0.0 1 2 50.0 2 5 7 2 2 0 2 5 2
+p234
+aVDarius Songaila SAC 02/26/2004 SAC @ LAL W 30 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 2 1 4 2 2
+p235
+aVAnthony Peeler SAC 02/26/2004 SAC @ LAL W 23 8 3 7 42.9 0 1 0.0 2 3 66.7 0 3 3 0 1 1 3 2 4
+p236
+aVPeja Stojakovic SAC 02/26/2004 SAC @ LAL W 42 37 12 18 66.7 7 11 63.6 6 6 100.0 2 7 9 1 0 0 3 3 4
+p237
+aVJabari Smith SAC 02/26/2004 SAC @ LAL W 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p238
+aVMike Bibby SAC 02/26/2004 SAC @ LAL W 41 31 9 20 45.0 5 10 50.0 8 9 88.9 0 8 8 7 1 0 0 1 5
+p239
+aVTony Massenburg SAC 02/26/2004 SAC @ LAL W 8 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 -1
+p240
+aVGerald Wallace SAC 02/26/2004 SAC @ LAL W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 3 0 0 2 -6
+p241
+aVVlade Divac SAC 02/26/2004 SAC @ LAL W 40 5 2 7 28.6 0 0 - 1 4 25.0 0 5 5 10 2 0 2 4 3
+p242
+aVGerald Wallace SAC 02/24/2004 SAC vs. NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -5
+p243
+aVAnthony Peeler SAC 02/24/2004 SAC vs. NYK W 19 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 4 1 0 1 0 15
+p244
+aVMike Bibby SAC 02/24/2004 SAC vs. NYK W 42 28 11 19 57.9 4 9 44.4 2 2 100.0 1 5 6 5 2 0 1 4 1
+p245
+aVDoug Christie SAC 02/24/2004 SAC vs. NYK W 35 9 4 7 57.1 1 2 50.0 0 0 - 1 2 3 3 1 1 3 2 0
+p246
+aVPeja Stojakovic SAC 02/24/2004 SAC vs. NYK W 42 27 9 20 45.0 4 8 50.0 5 5 100.0 1 5 6 0 1 0 4 2 13
+p247
+aVJabari Smith SAC 02/24/2004 SAC vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p248
+aVVlade Divac SAC 02/24/2004 SAC vs. NYK W 41 14 5 12 41.7 0 1 0.0 4 4 100.0 2 5 7 9 0 1 4 3 11
+p249
+aVTony Massenburg SAC 02/24/2004 SAC vs. NYK W 7 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -3
+p250
+aVDarius Songaila SAC 02/24/2004 SAC vs. NYK W 43 17 6 12 50.0 0 0 - 5 6 83.3 4 9 13 4 0 1 1 1 5
+p251
+aVTony Massenburg SAC 02/22/2004 SAC @ TOR W 9 6 3 7 42.9 0 0 - 0 0 - 5 5 10 0 0 0 0 3 -7
+p252
+aVVlade Divac SAC 02/22/2004 SAC @ TOR W 38 13 5 10 50.0 0 0 - 3 4 75.0 3 4 7 12 5 0 2 1 22
+p253
+aVDoug Christie SAC 02/22/2004 SAC @ TOR W 32 5 2 6 33.3 0 0 - 1 3 33.3 1 4 5 2 0 0 2 1 -3
+p254
+aVAnthony Peeler SAC 02/22/2004 SAC @ TOR W 21 8 2 5 40.0 2 3 66.7 2 2 100.0 0 2 2 2 2 0 1 1 8
+p255
+aVGerald Wallace SAC 02/22/2004 SAC @ TOR W 9 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 0 0 1 0 0 -10
+p256
+aVJabari Smith SAC 02/22/2004 SAC @ TOR W 11 0 0 7 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 -16
+p257
+aVMike Bibby SAC 02/22/2004 SAC @ TOR W 41 21 6 13 46.2 1 5 20.0 8 11 72.7 2 0 2 5 0 1 2 1 24
+p258
+aVPeja Stojakovic SAC 02/22/2004 SAC @ TOR W 41 27 10 17 58.8 3 5 60.0 4 4 100.0 0 8 8 3 2 0 4 3 26
+p259
+aVDarius Songaila SAC 02/22/2004 SAC @ TOR W 38 15 6 10 60.0 0 0 - 3 7 42.9 3 7 10 1 3 0 0 3 31
+p260
+aVVlade Divac SAC 02/20/2004 SAC @ CHI W 44 5 2 12 16.7 0 0 - 1 2 50.0 0 11 11 11 1 4 5 3 8
+p261
+aVBobby Jackson SAC 02/20/2004 SAC @ CHI W 11 7 2 4 50.0 1 2 50.0 2 2 100.0 1 0 1 0 0 0 0 1 5
+p262
+aVDarius Songaila SAC 02/20/2004 SAC @ CHI W 29 10 5 9 55.6 0 0 - 0 0 - 1 10 11 1 0 0 0 3 1
+p263
+aVPeja Stojakovic SAC 02/20/2004 SAC @ CHI W 42 24 9 19 47.4 5 9 55.6 1 1 100.0 0 7 7 2 0 0 1 0 3
+p264
+aVJabari Smith SAC 02/20/2004 SAC @ CHI W 18 6 3 6 50.0 0 0 - 0 0 - 3 4 7 2 0 0 0 2 5
+p265
+aVAnthony Peeler SAC 02/20/2004 SAC @ CHI W 19 10 4 6 66.7 2 3 66.7 0 0 - 1 1 2 0 1 0 1 3 6
+p266
+aVGerald Wallace SAC 02/20/2004 SAC @ CHI W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 1 5
+p267
+aVDoug Christie SAC 02/20/2004 SAC @ CHI W 32 10 4 11 36.4 2 4 50.0 0 0 - 1 2 3 3 3 1 1 0 3
+p268
+aVMike Bibby SAC 02/20/2004 SAC @ CHI W 39 17 5 12 41.7 2 4 50.0 5 6 83.3 0 2 2 8 2 0 4 1 4
+p269
+aVTony Massenburg SAC 02/19/2004 SAC @ MIN L 14 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 0 1 5 -7
+p270
+aVBobby Jackson SAC 02/19/2004 SAC @ MIN L 19 4 2 14 14.3 0 3 0.0 0 0 - 1 2 3 1 0 0 0 1 -6
+p271
+aVGerald Wallace SAC 02/19/2004 SAC @ MIN L 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 1 0 1 0 -8
+p272
+aVDoug Christie SAC 02/19/2004 SAC @ MIN L 31 7 3 7 42.9 0 0 - 1 1 100.0 0 4 4 2 3 0 1 0 -8
+p273
+aVMike Bibby SAC 02/19/2004 SAC @ MIN L 35 11 4 14 28.6 1 5 20.0 2 2 100.0 0 3 3 7 1 0 0 2 -13
+p274
+aVDarius Songaila SAC 02/19/2004 SAC @ MIN L 32 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 1 1 0 0 6 -8
+p275
+aVJabari Smith SAC 02/19/2004 SAC @ MIN L 16 6 1 4 25.0 0 1 0.0 4 4 100.0 1 1 2 1 0 0 0 2 -14
+p276
+aVVlade Divac SAC 02/19/2004 SAC @ MIN L 34 10 5 13 38.5 0 0 - 0 2 0.0 3 5 8 6 0 1 2 2 -5
+p277
+aVAnthony Peeler SAC 02/19/2004 SAC @ MIN L 16 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -8
+p278
+aVPeja Stojakovic SAC 02/19/2004 SAC @ MIN L 37 15 5 15 33.3 2 3 66.7 3 5 60.0 1 4 5 3 4 0 1 0 -8
+p279
+aVDarius Songaila SAC 02/17/2004 SAC vs. BOS W 31 17 8 11 72.7 0 0 - 1 2 50.0 2 5 7 1 0 0 1 5 19
+p280
+aVGerald Wallace SAC 02/17/2004 SAC vs. BOS W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 1
+p281
+aVAnthony Peeler SAC 02/17/2004 SAC vs. BOS W 19 11 4 7 57.1 3 4 75.0 0 3 0.0 1 2 3 2 0 0 3 3 0
+p282
+aVVlade Divac SAC 02/17/2004 SAC vs. BOS W 34 14 6 9 66.7 0 0 - 2 3 66.7 1 10 11 11 0 3 4 5 3
+p283
+aVPeja Stojakovic SAC 02/17/2004 SAC vs. BOS W 40 28 8 14 57.1 4 7 57.1 8 8 100.0 1 6 7 7 0 0 1 3 14
+p284
+aVMike Bibby SAC 02/17/2004 SAC vs. BOS W 32 19 7 16 43.8 3 8 37.5 2 2 100.0 3 4 7 5 0 0 2 1 8
+p285
+aVTony Massenburg SAC 02/17/2004 SAC vs. BOS W 13 9 4 4 100.0 0 0 - 1 2 50.0 1 2 3 1 1 0 0 2 11
+p286
+aVJabari Smith SAC 02/17/2004 SAC vs. BOS W 18 2 1 5 20.0 0 0 - 0 4 0.0 0 1 1 2 0 1 0 2 -1
+p287
+aVDoug Christie SAC 02/17/2004 SAC vs. BOS W 33 15 5 11 45.5 3 6 50.0 2 2 100.0 1 2 3 5 1 0 3 3 20
+p288
+aVBobby Jackson SAC 02/17/2004 SAC vs. BOS W 18 12 4 6 66.7 3 5 60.0 1 2 50.0 0 1 1 3 0 0 2 3 5
+p289
+aVAnthony Peeler SAC 02/11/2004 SAC @ DET W 9 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 2 -13
+p290
+aVMike Bibby SAC 02/11/2004 SAC @ DET W 42 26 10 19 52.6 6 11 54.5 0 0 - 2 0 2 5 2 0 2 2 7
+p291
+aVPeja Stojakovic SAC 02/11/2004 SAC @ DET W 42 25 9 18 50.0 4 8 50.0 3 4 75.0 0 8 8 4 2 0 2 1 7
+p292
+aVDoug Christie SAC 02/11/2004 SAC @ DET W 46 11 4 7 57.1 1 2 50.0 2 2 100.0 0 2 2 5 0 0 2 2 5
+p293
+aVBrad Miller SAC 02/11/2004 SAC @ DET W 40 18 8 16 50.0 0 2 0.0 2 3 66.7 5 10 15 5 2 0 3 5 11
+p294
+aVDarius Songaila SAC 02/11/2004 SAC @ DET W 5 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 3
+p295
+aVJabari Smith SAC 02/11/2004 SAC @ DET W 8 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -9
+p296
+aVVlade Divac SAC 02/11/2004 SAC @ DET W 27 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 11 1 1 1 5 6
+p297
+aVTony Massenburg SAC 02/11/2004 SAC @ DET W 15 3 1 4 25.0 0 0 - 1 1 100.0 2 1 3 0 0 1 4 4 -2
+p298
+aVGerald Wallace SAC 02/11/2004 SAC @ DET W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -5
+p299
+aVBrad Miller SAC 02/10/2004 SAC @ MIL W 38 21 7 11 63.6 0 0 - 7 8 87.5 2 6 8 2 1 1 3 3 13
+p300
+aVDarius Songaila SAC 02/10/2004 SAC @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -4
+p301
+aVMike Bibby SAC 02/10/2004 SAC @ MIL W 41 24 9 17 52.9 5 9 55.6 1 2 50.0 1 3 4 11 2 0 2 2 8
+p302
+aVDoug Christie SAC 02/10/2004 SAC @ MIL W 41 13 6 12 50.0 0 2 0.0 1 2 50.0 2 2 4 9 1 0 1 3 11
+p303
+aVVlade Divac SAC 02/10/2004 SAC @ MIL W 33 14 5 6 83.3 0 0 - 4 4 100.0 1 2 3 11 0 0 1 1 -5
+p304
+aVPeja Stojakovic SAC 02/10/2004 SAC @ MIL W 40 31 9 18 50.0 2 7 28.6 11 12 91.7 0 7 7 4 3 1 1 1 9
+p305
+aVGerald Wallace SAC 02/10/2004 SAC @ MIL W 10 3 1 1 100.0 0 0 - 1 2 50.0 2 2 4 0 1 1 1 0 0
+p306
+aVTony Massenburg SAC 02/10/2004 SAC @ MIL W 12 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 0 0 0 3 1
+p307
+aVAnthony Peeler SAC 02/10/2004 SAC @ MIL W 20 10 4 7 57.1 2 5 40.0 0 0 - 0 0 0 2 0 0 0 4 2
+p308
+aVTony Massenburg SAC 02/08/2004 SAC vs. DEN W 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -1
+p309
+aVVlade Divac SAC 02/08/2004 SAC vs. DEN W 32 7 3 11 27.3 0 0 - 1 2 50.0 2 8 10 0 0 2 0 3 20
+p310
+aVGerald Wallace SAC 02/08/2004 SAC vs. DEN W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p311
+aVMike Bibby SAC 02/08/2004 SAC vs. DEN W 42 30 10 18 55.6 6 8 75.0 4 4 100.0 3 3 6 8 1 0 2 4 25
+p312
+aVDarius Songaila SAC 02/08/2004 SAC vs. DEN W 6 2 0 0 - 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -1
+p313
+aVDoug Christie SAC 02/08/2004 SAC vs. DEN W 43 13 5 11 45.5 1 3 33.3 2 2 100.0 3 2 5 8 1 0 0 1 25
+p314
+aVAnthony Peeler SAC 02/08/2004 SAC vs. DEN W 18 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 0 0 9
+p315
+aVBrad Miller SAC 02/08/2004 SAC vs. DEN W 38 18 8 15 53.3 0 1 0.0 2 4 50.0 1 9 10 7 2 2 1 1 12
+p316
+aVPeja Stojakovic SAC 02/08/2004 SAC vs. DEN W 43 35 11 21 52.4 7 11 63.6 6 6 100.0 2 5 7 1 1 0 3 2 24
+p317
+aVJabari Smith SAC 02/08/2004 SAC vs. DEN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p318
+aVAnthony Peeler SAC 02/06/2004 SAC vs. SAS L 27 12 5 9 55.6 2 4 50.0 0 0 - 1 2 3 2 0 1 2 1 5
+p319
+aVDarius Songaila SAC 02/06/2004 SAC vs. SAS L 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 5
+p320
+aVTony Massenburg SAC 02/06/2004 SAC vs. SAS L 12 5 2 4 50.0 0 0 - 1 2 50.0 2 6 8 0 0 0 1 3 5
+p321
+aVPeja Stojakovic SAC 02/06/2004 SAC vs. SAS L 44 20 6 18 33.3 2 5 40.0 6 6 100.0 1 5 6 1 0 0 1 3 -12
+p322
+aVDoug Christie SAC 02/06/2004 SAC vs. SAS L 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -11
+p323
+aVBrad Miller SAC 02/06/2004 SAC vs. SAS L 38 12 4 14 28.6 0 1 0.0 4 5 80.0 5 6 11 4 0 2 2 5 -12
+p324
+aVMike Bibby SAC 02/06/2004 SAC vs. SAS L 37 20 5 10 50.0 2 4 50.0 8 10 80.0 0 1 1 6 1 0 1 1 -7
+p325
+aVBobby Jackson SAC 02/06/2004 SAC vs. SAS L 19 5 2 10 20.0 0 3 0.0 1 1 100.0 1 3 4 0 2 0 3 2 -6
+p326
+aVVlade Divac SAC 02/06/2004 SAC vs. SAS L 40 20 6 10 60.0 0 1 0.0 8 9 88.9 3 3 6 2 1 0 1 4 -7
+p327
+aVGerald Wallace SAC 02/03/2004 SAC vs. SEA W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -2
+p328
+aVPeja Stojakovic SAC 02/03/2004 SAC vs. SEA W 39 26 9 20 45.0 2 8 25.0 6 6 100.0 1 3 4 2 1 0 1 2 14
+p329
+aVJabari Smith SAC 02/03/2004 SAC vs. SEA W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p330
+aVVlade Divac SAC 02/03/2004 SAC vs. SEA W 29 6 2 5 40.0 0 0 - 2 3 66.7 1 3 4 11 1 0 2 4 15
+p331
+aVTony Massenburg SAC 02/03/2004 SAC vs. SEA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p332
+aVBrad Miller SAC 02/03/2004 SAC vs. SEA W 40 25 9 14 64.3 0 0 - 7 10 70.0 5 10 15 5 1 1 1 1 17
+p333
+aVMike Bibby SAC 02/03/2004 SAC vs. SEA W 31 18 6 15 40.0 3 6 50.0 3 4 75.0 0 1 1 5 0 0 1 2 8
+p334
+aVDarius Songaila SAC 02/03/2004 SAC vs. SEA W 15 6 2 4 50.0 0 0 - 2 2 100.0 4 0 4 1 1 0 0 1 -1
+p335
+aVBobby Jackson SAC 02/03/2004 SAC vs. SEA W 26 16 7 12 58.3 2 6 33.3 0 0 - 2 4 6 1 2 0 1 0 7
+p336
+aVAnthony Peeler SAC 02/03/2004 SAC vs. SEA W 32 14 5 7 71.4 2 2 100.0 2 2 100.0 1 5 6 5 1 0 3 4 20
+p337
+aVDoug Christie SAC 02/03/2004 SAC vs. SEA W 18 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 1 1 0 1 4 3
+p338
+aVTony Massenburg SAC 01/31/2004 SAC @ SEA W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p339
+aVAnthony Peeler SAC 01/31/2004 SAC @ SEA W 12 2 1 3 33.3 0 0 - 0 0 - 0 4 4 5 0 0 0 3 6
+p340
+aVBrad Miller SAC 01/31/2004 SAC @ SEA W 44 28 8 14 57.1 0 0 - 12 13 92.3 8 9 17 3 1 0 3 2 3
+p341
+aVBobby Jackson SAC 01/31/2004 SAC @ SEA W 22 11 4 11 36.4 2 4 50.0 1 2 50.0 0 2 2 3 0 0 1 2 9
+p342
+aVMike Bibby SAC 01/31/2004 SAC @ SEA W 40 7 3 9 33.3 0 2 0.0 1 3 33.3 0 3 3 5 2 0 4 3 6
+p343
+aVVlade Divac SAC 01/31/2004 SAC @ SEA W 30 13 4 7 57.1 0 0 - 5 5 100.0 1 3 4 4 0 1 2 4 7
+p344
+aVDarius Songaila SAC 01/31/2004 SAC @ SEA W 17 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 1 0 1 2 -7
+p345
+aVDoug Christie SAC 01/31/2004 SAC @ SEA W 31 15 5 11 45.5 1 3 33.3 4 5 80.0 0 0 0 2 0 0 1 5 10
+p346
+aVPeja Stojakovic SAC 01/31/2004 SAC @ SEA W 39 29 9 21 42.9 4 13 30.8 7 7 100.0 1 4 5 1 1 0 1 2 -1
+p347
+aVVlade Divac SAC 01/29/2004 SAC @ SAS W 33 11 5 9 55.6 0 0 - 1 2 50.0 1 8 9 9 1 1 2 4 10
+p348
+aVBrad Miller SAC 01/29/2004 SAC @ SAS W 36 6 3 6 50.0 0 1 0.0 0 0 - 1 7 8 6 2 0 1 4 11
+p349
+aVPeja Stojakovic SAC 01/29/2004 SAC @ SAS W 39 22 6 14 42.9 3 5 60.0 7 8 87.5 0 6 6 0 0 0 2 0 0
+p350
+aVDoug Christie SAC 01/29/2004 SAC @ SAS W 30 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 2
+p351
+aVAnthony Peeler SAC 01/29/2004 SAC @ SAS W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 2 0 0 1 0 3
+p352
+aVTony Massenburg SAC 01/29/2004 SAC @ SAS W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 -6
+p353
+aVBobby Jackson SAC 01/29/2004 SAC @ SAS W 24 18 7 13 53.8 3 4 75.0 1 1 100.0 2 3 5 1 1 0 1 1 2
+p354
+aVDarius Songaila SAC 01/29/2004 SAC @ SAS W 14 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 1 2 0 1 1 -2
+p355
+aVMike Bibby SAC 01/29/2004 SAC @ SAS W 35 17 6 15 40.0 3 4 75.0 2 2 100.0 1 2 3 6 1 0 3 1 5
+p356
+aVBrad Miller SAC 01/28/2004 SAC @ HOU W 43 16 6 11 54.5 0 0 - 4 6 66.7 2 3 5 6 2 1 4 3 12
+p357
+aVAnthony Peeler SAC 01/28/2004 SAC @ HOU W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -7
+p358
+aVVlade Divac SAC 01/28/2004 SAC @ HOU W 31 7 3 10 30.0 0 0 - 1 2 50.0 2 3 5 5 4 1 0 4 -8
+p359
+aVJabari Smith SAC 01/28/2004 SAC @ HOU W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p360
+aVDarius Songaila SAC 01/28/2004 SAC @ HOU W 19 8 4 4 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 9
+p361
+aVMike Bibby SAC 01/28/2004 SAC @ HOU W 40 28 11 18 61.1 3 4 75.0 3 9 33.3 1 4 5 2 3 0 2 4 12
+p362
+aVBobby Jackson SAC 01/28/2004 SAC @ HOU W 32 21 8 11 72.7 2 5 40.0 3 3 100.0 0 3 3 4 2 0 1 2 10
+p363
+aVDoug Christie SAC 01/28/2004 SAC @ HOU W 22 0 0 7 0.0 0 0 - 0 0 - 0 2 2 1 2 0 0 2 -13
+p364
+aVPeja Stojakovic SAC 01/28/2004 SAC @ HOU W 43 19 5 16 31.3 2 6 33.3 7 7 100.0 0 9 9 3 4 0 3 1 12
+p365
+aVDarius Songaila SAC 01/25/2004 SAC @ DAL L 12 2 0 4 0.0 0 0 - 2 2 100.0 3 3 6 0 2 0 1 2 -9
+p366
+aVPeja Stojakovic SAC 01/25/2004 SAC @ DAL L 45 24 9 23 39.1 2 8 25.0 4 4 100.0 2 8 10 2 5 0 3 0 -4
+p367
+aVVlade Divac SAC 01/25/2004 SAC @ DAL L 34 12 6 12 50.0 0 0 - 0 0 - 3 3 6 3 0 0 3 1 -3
+p368
+aVMike Bibby SAC 01/25/2004 SAC @ DAL L 40 23 9 21 42.9 4 9 44.4 1 2 50.0 0 4 4 6 1 0 2 3 -7
+p369
+aVGerald Wallace SAC 01/25/2004 SAC @ DAL L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -5
+p370
+aVDoug Christie SAC 01/25/2004 SAC @ DAL L 28 4 2 3 66.7 0 0 - 0 0 - 0 2 2 4 2 2 4 3 -1
+p371
+aVAnthony Peeler SAC 01/25/2004 SAC @ DAL L 8 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 -2
+p372
+aVBobby Jackson SAC 01/25/2004 SAC @ DAL L 28 18 8 17 47.1 2 8 25.0 0 0 - 0 3 3 2 0 0 1 2 -14
+p373
+aVBrad Miller SAC 01/25/2004 SAC @ DAL L 42 11 4 11 36.4 0 0 - 3 3 100.0 3 14 17 4 0 3 0 4 0
+p374
+aVAnthony Peeler SAC 01/23/2004 SAC @ MEM L 23 8 2 5 40.0 0 2 0.0 4 4 100.0 1 0 1 2 0 0 1 2 1
+p375
+aVDoug Christie SAC 01/23/2004 SAC @ MEM L 23 10 2 6 33.3 0 2 0.0 6 6 100.0 1 1 2 3 1 0 2 0 -16
+p376
+aVBobby Jackson SAC 01/23/2004 SAC @ MEM L 25 16 6 17 35.3 2 6 33.3 2 3 66.7 1 1 2 0 3 0 1 5 14
+p377
+aVBrad Miller SAC 01/23/2004 SAC @ MEM L 25 8 3 3 100.0 0 0 - 2 3 66.7 2 6 8 3 0 0 2 4 -21
+p378
+aVDarius Songaila SAC 01/23/2004 SAC @ MEM L 23 12 6 13 46.2 0 0 - 0 0 - 8 2 10 1 2 0 1 4 7
+p379
+aVTony Massenburg SAC 01/23/2004 SAC @ MEM L 15 0 0 2 0.0 0 0 - 0 2 0.0 0 1 1 1 1 0 1 2 -4
+p380
+aVPeja Stojakovic SAC 01/23/2004 SAC @ MEM L 28 11 5 13 38.5 0 2 0.0 1 1 100.0 1 6 7 5 0 0 4 2 -20
+p381
+aVGerald Wallace SAC 01/23/2004 SAC @ MEM L 19 4 1 5 20.0 0 0 - 2 2 100.0 5 3 8 3 0 1 0 2 7
+p382
+aVVlade Divac SAC 01/23/2004 SAC @ MEM L 27 17 7 15 46.7 0 0 - 3 5 60.0 3 9 12 2 0 0 2 4 -17
+p383
+aVJabari Smith SAC 01/23/2004 SAC @ MEM L 6 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 0 0 7
+p384
+aVMike Bibby SAC 01/23/2004 SAC @ MEM L 26 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 2 0 1 1 1 -28
+p385
+aVDoug Christie SAC 01/22/2004 SAC @ CLE W 34 11 5 9 55.6 0 2 0.0 1 2 50.0 0 3 3 7 4 0 3 2 11
+p386
+aVMike Bibby SAC 01/22/2004 SAC @ CLE W 37 12 4 11 36.4 2 3 66.7 2 2 100.0 1 4 5 5 1 0 2 3 8
+p387
+aVPeja Stojakovic SAC 01/22/2004 SAC @ CLE W 45 37 13 25 52.0 6 9 66.7 5 6 83.3 3 7 10 1 0 0 1 2 5
+p388
+aVVlade Divac SAC 01/22/2004 SAC @ CLE W 35 13 6 12 50.0 0 0 - 1 8 12.5 2 7 9 9 0 2 3 0 21
+p389
+aVTony Massenburg SAC 01/22/2004 SAC @ CLE W 13 3 1 4 25.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 1 -15
+p390
+aVAnthony Peeler SAC 01/22/2004 SAC @ CLE W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p391
+aVBobby Jackson SAC 01/22/2004 SAC @ CLE W 20 11 4 9 44.4 0 2 0.0 3 3 100.0 1 2 3 0 1 0 1 2 -5
+p392
+aVBrad Miller SAC 01/22/2004 SAC @ CLE W 45 8 3 8 37.5 0 0 - 2 3 66.7 4 11 15 4 0 3 2 3 5
+p393
+aVDarius Songaila SAC 01/22/2004 SAC @ CLE W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p394
+aVTony Massenburg SAC 01/20/2004 SAC vs. POR L 18 2 1 5 20.0 0 0 - 0 1 0.0 4 5 9 0 0 2 2 3 -12
+p395
+aVVlade Divac SAC 01/20/2004 SAC vs. POR L 39 12 4 10 40.0 0 0 - 4 7 57.1 2 6 8 7 1 0 5 6 -11
+p396
+aVPeja Stojakovic SAC 01/20/2004 SAC vs. POR L 50 34 8 24 33.3 5 12 41.7 13 13 100.0 2 5 7 1 1 1 1 1 -3
+p397
+aVDoug Christie SAC 01/20/2004 SAC vs. POR L 25 3 1 7 14.3 0 1 0.0 1 2 50.0 1 3 4 1 3 1 2 1 -4
+p398
+aVBrad Miller SAC 01/20/2004 SAC vs. POR L 44 14 4 9 44.4 1 1 100.0 5 5 100.0 3 5 8 3 1 2 0 6 9
+p399
+aVMike Bibby SAC 01/20/2004 SAC vs. POR L 43 10 2 11 18.2 0 5 0.0 6 8 75.0 0 6 6 5 3 0 3 1 -1
+p400
+aVDarius Songaila SAC 01/20/2004 SAC vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p401
+aVAnthony Peeler SAC 01/20/2004 SAC vs. POR L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p402
+aVBobby Jackson SAC 01/20/2004 SAC vs. POR L 31 29 8 18 44.4 5 9 55.6 8 11 72.7 5 5 10 1 0 0 1 6 3
+p403
+aVBrad Miller SAC 01/19/2004 SAC @ LAC W 36 13 6 10 60.0 1 1 100.0 0 2 0.0 0 8 8 4 1 2 2 0 24
+p404
+aVPeja Stojakovic SAC 01/19/2004 SAC @ LAC W 32 31 9 14 64.3 5 7 71.4 8 8 100.0 2 2 4 5 2 1 2 2 28
+p405
+aVTony Massenburg SAC 01/19/2004 SAC @ LAC W 21 6 2 6 33.3 0 0 - 2 2 100.0 0 2 2 1 0 1 0 5 -3
+p406
+aVJabari Smith SAC 01/19/2004 SAC @ LAC W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p407
+aVDoug Christie SAC 01/19/2004 SAC @ LAC W 32 12 6 11 54.5 0 1 0.0 0 0 - 0 3 3 8 3 0 2 1 22
+p408
+aVDarius Songaila SAC 01/19/2004 SAC @ LAC W 12 2 1 3 33.3 0 0 - 0 0 - 1 6 7 0 1 0 1 3 1
+p409
+aVMike Bibby SAC 01/19/2004 SAC @ LAC W 26 15 7 11 63.6 1 1 100.0 0 0 - 0 1 1 5 1 1 2 1 20
+p410
+aVAnthony Peeler SAC 01/19/2004 SAC @ LAC W 20 6 3 6 50.0 0 2 0.0 0 0 - 1 3 4 5 1 0 0 2 1
+p411
+aVBobby Jackson SAC 01/19/2004 SAC @ LAC W 20 19 6 10 60.0 3 5 60.0 4 4 100.0 2 1 3 1 0 0 0 0 15
+p412
+aVGerald Wallace SAC 01/19/2004 SAC @ LAC W 8 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p413
+aVVlade Divac SAC 01/19/2004 SAC @ LAC W 27 15 6 8 75.0 0 0 - 3 6 50.0 2 3 5 8 1 0 0 4 28
+p414
+aVBrad Miller SAC 01/16/2004 SAC vs. LAL W 41 9 2 6 33.3 0 0 - 5 6 83.3 1 13 14 5 1 2 2 2 24
+p415
+aVDoug Christie SAC 01/16/2004 SAC vs. LAL W 38 12 5 8 62.5 0 1 0.0 2 2 100.0 0 4 4 4 3 0 2 2 27
+p416
+aVDarius Songaila SAC 01/16/2004 SAC vs. LAL W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p417
+aVTony Massenburg SAC 01/16/2004 SAC vs. LAL W 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p418
+aVVlade Divac SAC 01/16/2004 SAC vs. LAL W 27 11 5 10 50.0 0 0 - 1 4 25.0 1 5 6 7 1 2 2 2 28
+p419
+aVBobby Jackson SAC 01/16/2004 SAC vs. LAL W 26 15 6 11 54.5 2 4 50.0 1 2 50.0 1 2 3 3 1 0 2 0 -7
+p420
+aVMike Bibby SAC 01/16/2004 SAC vs. LAL W 27 21 7 11 63.6 3 4 75.0 4 4 100.0 0 2 2 4 0 0 3 2 24
+p421
+aVGerald Wallace SAC 01/16/2004 SAC vs. LAL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p422
+aVPeja Stojakovic SAC 01/16/2004 SAC vs. LAL W 33 23 8 12 66.7 2 6 33.3 5 5 100.0 1 5 6 3 1 0 0 2 24
+p423
+aVAnthony Peeler SAC 01/16/2004 SAC vs. LAL W 20 2 1 4 25.0 0 2 0.0 0 0 - 0 5 5 1 0 0 2 1 -10
+p424
+aVJabari Smith SAC 01/16/2004 SAC vs. LAL W 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p425
+aVPeja Stojakovic SAC 01/13/2004 SAC vs. MIA W 42 24 7 15 46.7 2 7 28.6 8 9 88.9 3 4 7 0 2 0 0 1 14
+p426
+aVVlade Divac SAC 01/13/2004 SAC vs. MIA W 33 12 4 8 50.0 0 0 - 4 6 66.7 0 4 4 5 2 0 1 1 14
+p427
+aVTony Massenburg SAC 01/13/2004 SAC vs. MIA W 17 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 2 5 -9
+p428
+aVMike Bibby SAC 01/13/2004 SAC vs. MIA W 37 20 7 13 53.8 4 7 57.1 2 4 50.0 0 1 1 2 1 0 2 2 12
+p429
+aVBrad Miller SAC 01/13/2004 SAC vs. MIA W 45 14 6 13 46.2 0 1 0.0 2 2 100.0 3 6 9 7 1 0 1 3 4
+p430
+aVAnthony Peeler SAC 01/13/2004 SAC vs. MIA W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 1 0 0 0 -8
+p431
+aVBobby Jackson SAC 01/13/2004 SAC vs. MIA W 19 8 3 7 42.9 1 4 25.0 1 2 50.0 0 2 2 4 0 1 3 0 -7
+p432
+aVDoug Christie SAC 01/13/2004 SAC vs. MIA W 36 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 3 1 0 3 2 0
+p433
+aVDoug Christie SAC 01/11/2004 SAC vs. DEN W 38 11 5 6 83.3 0 0 - 1 2 50.0 1 0 1 5 3 0 2 3 9
+p434
+aVMike Bibby SAC 01/11/2004 SAC vs. DEN W 33 18 5 12 41.7 1 2 50.0 7 8 87.5 0 2 2 4 1 0 1 1 9
+p435
+aVVlade Divac SAC 01/11/2004 SAC vs. DEN W 34 8 3 5 60.0 0 0 - 2 2 100.0 1 6 7 9 2 2 1 4 10
+p436
+aVBobby Jackson SAC 01/11/2004 SAC vs. DEN W 19 16 5 10 50.0 1 3 33.3 5 6 83.3 1 3 4 2 2 0 1 3 4
+p437
+aVTony Massenburg SAC 01/11/2004 SAC vs. DEN W 26 14 6 7 85.7 0 0 - 2 3 66.7 1 2 3 0 1 1 2 4 10
+p438
+aVAnthony Peeler SAC 01/11/2004 SAC vs. DEN W 13 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 2 0 3 1 4
+p439
+aVBrad Miller SAC 01/11/2004 SAC vs. DEN W 36 14 7 13 53.8 0 0 - 0 0 - 2 3 5 1 1 0 2 3 2
+p440
+aVPeja Stojakovic SAC 01/11/2004 SAC vs. DEN W 41 33 11 24 45.8 4 12 33.3 7 9 77.8 2 6 8 1 2 0 2 2 7
+p441
+aVDoug Christie SAC 01/09/2004 SAC @ PHX W 33 5 2 5 40.0 1 1 100.0 0 0 - 0 8 8 5 3 0 2 3 15
+p442
+aVVlade Divac SAC 01/09/2004 SAC @ PHX W 25 9 4 5 80.0 0 0 - 1 1 100.0 1 3 4 3 1 0 0 3 17
+p443
+aVDarius Songaila SAC 01/09/2004 SAC @ PHX W 8 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 1 1 2 1 6
+p444
+aVBobby Jackson SAC 01/09/2004 SAC @ PHX W 30 24 10 18 55.6 2 6 33.3 2 5 40.0 1 2 3 0 3 0 2 3 9
+p445
+aVPeja Stojakovic SAC 01/09/2004 SAC @ PHX W 42 29 12 23 52.2 5 10 50.0 0 0 - 3 9 12 2 0 0 4 2 16
+p446
+aVAnthony Peeler SAC 01/09/2004 SAC @ PHX W 19 3 0 2 0.0 0 0 - 3 3 100.0 0 3 3 3 1 1 0 2 1
+p447
+aVBrad Miller SAC 01/09/2004 SAC @ PHX W 42 14 5 9 55.6 0 0 - 4 6 66.7 1 10 11 8 0 2 2 3 16
+p448
+aVTony Massenburg SAC 01/09/2004 SAC @ PHX W 5 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 2 -7
+p449
+aVMike Bibby SAC 01/09/2004 SAC @ PHX W 36 25 8 18 44.4 1 6 16.7 8 10 80.0 1 3 4 9 2 0 3 0 27
+p450
+aVDarius Songaila SAC 01/07/2004 SAC @ SEA L 16 6 3 6 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 -1
+p451
+aVJabari Smith SAC 01/07/2004 SAC @ SEA L 4 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 10
+p452
+aVMike Bibby SAC 01/07/2004 SAC @ SEA L 36 19 7 20 35.0 3 8 37.5 2 2 100.0 1 4 5 7 2 0 0 0 -8
+p453
+aVBobby Jackson SAC 01/07/2004 SAC @ SEA L 28 13 5 14 35.7 1 7 14.3 2 3 66.7 2 3 5 3 1 1 1 2 -13
+p454
+aVGerald Wallace SAC 01/07/2004 SAC @ SEA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 10
+p455
+aVAnthony Peeler SAC 01/07/2004 SAC @ SEA L 17 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 0 1 0 3 2 -5
+p456
+aVVlade Divac SAC 01/07/2004 SAC @ SEA L 14 4 1 4 25.0 0 0 - 2 4 50.0 1 2 3 3 0 1 1 0 2
+p457
+aVTony Massenburg SAC 01/07/2004 SAC @ SEA L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -11
+p458
+aVBrad Miller SAC 01/07/2004 SAC @ SEA L 40 12 3 8 37.5 0 0 - 6 6 100.0 4 13 17 6 0 1 2 2 -18
+p459
+aVDoug Christie SAC 01/07/2004 SAC @ SEA L 34 13 5 10 50.0 0 1 0.0 3 4 75.0 1 4 5 3 0 0 5 1 -3
+p460
+aVPeja Stojakovic SAC 01/07/2004 SAC @ SEA L 40 19 5 14 35.7 1 5 20.0 8 9 88.9 1 6 7 2 1 0 0 3 -18
+p461
+aVMike Bibby SAC 01/06/2004 SAC vs. ATL W 34 19 7 11 63.6 2 3 66.7 3 3 100.0 0 2 2 6 1 1 3 1 16
+p462
+aVTony Massenburg SAC 01/06/2004 SAC vs. ATL W 18 10 5 6 83.3 0 0 - 0 0 - 1 1 2 1 1 1 0 2 -5
+p463
+aVBrad Miller SAC 01/06/2004 SAC vs. ATL W 38 20 9 16 56.3 0 1 0.0 2 3 66.7 2 8 10 5 0 0 0 5 11
+p464
+aVJabari Smith SAC 01/06/2004 SAC vs. ATL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p465
+aVGerald Wallace SAC 01/06/2004 SAC vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p466
+aVVlade Divac SAC 01/06/2004 SAC vs. ATL W 35 6 1 7 14.3 0 1 0.0 4 8 50.0 1 3 4 10 2 0 2 5 22
+p467
+aVDoug Christie SAC 01/06/2004 SAC vs. ATL W 37 13 5 10 50.0 0 0 - 3 3 100.0 1 5 6 6 3 1 0 3 24
+p468
+aVAnthony Peeler SAC 01/06/2004 SAC vs. ATL W 14 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 1 0
+p469
+aVPeja Stojakovic SAC 01/06/2004 SAC vs. ATL W 41 28 10 19 52.6 5 11 45.5 3 3 100.0 1 2 3 0 3 0 3 0 8
+p470
+aVBobby Jackson SAC 01/06/2004 SAC vs. ATL W 17 3 1 10 10.0 1 5 20.0 0 0 - 1 0 1 4 0 0 0 2 -2
+p471
+aVDarius Songaila SAC 01/06/2004 SAC vs. ATL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p472
+aVBrad Miller SAC 01/04/2004 SAC vs. SEA W 30 16 6 12 50.0 0 0 - 4 5 80.0 4 7 11 1 0 1 1 1 31
+p473
+aVVlade Divac SAC 01/04/2004 SAC vs. SEA W 15 8 4 6 66.7 0 0 - 0 0 - 0 6 6 2 0 1 2 0 12
+p474
+aVTony Massenburg SAC 01/04/2004 SAC vs. SEA W 18 14 6 7 85.7 0 0 - 2 2 100.0 3 4 7 3 1 0 2 2 0
+p475
+aVDoug Christie SAC 01/04/2004 SAC vs. SEA W 39 14 5 9 55.6 2 2 100.0 2 2 100.0 1 4 5 8 3 0 2 1 28
+p476
+aVJabari Smith SAC 01/04/2004 SAC vs. SEA W 7 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 2 2 -1
+p477
+aVPeja Stojakovic SAC 01/04/2004 SAC vs. SEA W 35 24 9 17 52.9 6 10 60.0 0 0 - 0 5 5 5 3 0 2 1 30
+p478
+aVDarius Songaila SAC 01/04/2004 SAC vs. SEA W 17 12 5 7 71.4 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 6
+p479
+aVMike Bibby SAC 01/04/2004 SAC vs. SEA W 25 13 4 9 44.4 1 3 33.3 4 4 100.0 0 2 2 6 0 0 1 0 26
+p480
+aVBobby Jackson SAC 01/04/2004 SAC vs. SEA W 32 21 9 13 69.2 3 5 60.0 0 0 - 1 4 5 7 1 0 1 4 12
+p481
+aVAnthony Peeler SAC 01/04/2004 SAC vs. SEA W 22 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 5 2 0 1 2 11
+p482
+aVVlade Divac SAC 01/03/2004 SAC @ LAC W 36 11 5 11 45.5 0 0 - 1 2 50.0 0 5 5 4 0 2 2 3 16
+p483
+aVBobby Jackson SAC 01/03/2004 SAC @ LAC W 17 13 5 8 62.5 1 2 50.0 2 2 100.0 1 0 1 2 0 0 1 2 -7
+p484
+aVAnthony Peeler SAC 01/03/2004 SAC @ LAC W 16 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 2 2 0 0 0 -6
+p485
+aVDarius Songaila SAC 01/03/2004 SAC @ LAC W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 0 2
+p486
+aVDoug Christie SAC 01/03/2004 SAC @ LAC W 43 22 10 12 83.3 1 1 100.0 1 2 50.0 0 2 2 10 2 0 4 1 8
+p487
+aVBrad Miller SAC 01/03/2004 SAC @ LAC W 34 11 4 8 50.0 0 0 - 3 3 100.0 4 7 11 3 1 0 2 4 6
+p488
+aVTony Massenburg SAC 01/03/2004 SAC @ LAC W 20 9 3 6 50.0 0 0 - 3 4 75.0 1 5 6 1 0 0 0 5 -10
+p489
+aVPeja Stojakovic SAC 01/03/2004 SAC @ LAC W 36 21 8 16 50.0 3 4 75.0 2 3 66.7 0 3 3 2 1 0 2 3 13
+p490
+aVMike Bibby SAC 01/03/2004 SAC @ LAC W 32 24 6 13 46.2 1 1 100.0 11 12 91.7 0 4 4 5 1 1 3 1 13
+p491
+aVDarius Songaila SAC 12/28/2003 SAC vs. UTA W 17 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 1 0 1 2 5
+p492
+aVBobby Jackson SAC 12/28/2003 SAC vs. UTA W 24 8 3 9 33.3 2 3 66.7 0 0 - 1 2 3 1 4 0 1 3 10
+p493
+aVBrad Miller SAC 12/28/2003 SAC vs. UTA W 29 8 2 5 40.0 0 0 - 4 4 100.0 0 6 6 3 1 1 3 6 1
+p494
+aVAnthony Peeler SAC 12/28/2003 SAC vs. UTA W 16 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 2 9
+p495
+aVMike Bibby SAC 12/28/2003 SAC vs. UTA W 34 23 6 13 46.2 1 3 33.3 10 11 90.9 1 0 1 5 1 0 4 4 -2
+p496
+aVPeja Stojakovic SAC 12/28/2003 SAC vs. UTA W 45 37 10 22 45.5 4 10 40.0 13 14 92.9 5 2 7 1 6 0 2 2 12
+p497
+aVTony Massenburg SAC 12/28/2003 SAC vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 3 2
+p498
+aVVlade Divac SAC 12/28/2003 SAC vs. UTA W 34 7 3 8 37.5 0 0 - 1 4 25.0 2 4 6 8 0 1 4 5 0
+p499
+aVDoug Christie SAC 12/28/2003 SAC vs. UTA W 37 9 2 7 28.6 0 1 0.0 5 6 83.3 0 9 9 1 0 0 4 4 8
+p500
+aVMike Bibby SAC 12/26/2003 SAC @ GSW L 32 28 10 20 50.0 2 5 40.0 6 8 75.0 0 2 2 5 0 0 0 3 -11
+p501
+aVVlade Divac SAC 12/26/2003 SAC @ GSW L 26 4 2 8 25.0 0 0 - 0 0 - 3 2 5 4 0 0 6 2 4
+p502
+aVAnthony Peeler SAC 12/26/2003 SAC @ GSW L 15 7 3 4 75.0 1 2 50.0 0 0 - 1 0 1 1 0 0 1 1 4
+p503
+aVDarius Songaila SAC 12/26/2003 SAC @ GSW L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 7
+p504
+aVBobby Jackson SAC 12/26/2003 SAC @ GSW L 23 11 3 11 27.3 0 5 0.0 5 6 83.3 4 3 7 2 0 0 2 4 -6
+p505
+aVTony Massenburg SAC 12/26/2003 SAC @ GSW L 13 8 4 6 66.7 0 0 - 0 0 - 0 3 3 2 0 0 2 4 -4
+p506
+aVGerald Wallace SAC 12/26/2003 SAC @ GSW L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p507
+aVPeja Stojakovic SAC 12/26/2003 SAC @ GSW L 43 16 7 18 38.9 2 6 33.3 0 0 - 4 4 8 1 0 0 6 1 -11
+p508
+aVBrad Miller SAC 12/26/2003 SAC @ GSW L 37 7 3 6 50.0 1 2 50.0 0 0 - 3 7 10 0 2 1 2 5 -11
+p509
+aVDoug Christie SAC 12/26/2003 SAC @ GSW L 35 10 2 5 40.0 0 0 - 6 6 100.0 0 4 4 7 4 0 0 2 -12
+p510
+aVBobby Jackson SAC 12/25/2003 SAC vs. DAL L 31 13 4 18 22.2 3 7 42.9 2 2 100.0 2 2 4 1 0 0 2 2 2
+p511
+aVDoug Christie SAC 12/25/2003 SAC vs. DAL L 24 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 3 2 0 1 2 -12
+p512
+aVMike Bibby SAC 12/25/2003 SAC vs. DAL L 38 23 9 20 45.0 2 4 50.0 3 4 75.0 0 3 3 4 1 1 5 3 -11
+p513
+aVDarius Songaila SAC 12/25/2003 SAC vs. DAL L 16 4 2 6 33.3 0 0 - 0 1 0.0 1 0 1 0 1 0 2 5 6
+p514
+aVGerald Wallace SAC 12/25/2003 SAC vs. DAL L 34 16 7 11 63.6 0 0 - 2 3 66.7 5 6 11 1 0 3 0 2 1
+p515
+aVBrad Miller SAC 12/25/2003 SAC vs. DAL L 39 13 4 10 40.0 0 0 - 5 6 83.3 1 11 12 9 0 0 3 6 -11
+p516
+aVVlade Divac SAC 12/25/2003 SAC vs. DAL L 34 21 9 15 60.0 0 0 - 3 4 75.0 2 6 8 5 0 0 3 3 -11
+p517
+aVAnthony Peeler SAC 12/25/2003 SAC vs. DAL L 24 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 3 2 0 1 1 -4
+p518
+aVTony Massenburg SAC 12/23/2003 SAC vs. MEM W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p519
+aVVlade Divac SAC 12/23/2003 SAC vs. MEM W 25 3 1 4 25.0 0 0 - 1 4 25.0 2 3 5 3 1 2 1 3 15
+p520
+aVPeja Stojakovic SAC 12/23/2003 SAC vs. MEM W 48 41 11 22 50.0 5 10 50.0 14 16 87.5 2 3 5 1 2 0 5 2 17
+p521
+aVBrad Miller SAC 12/23/2003 SAC vs. MEM W 45 20 5 10 50.0 0 2 0.0 10 12 83.3 5 12 17 6 2 3 5 4 16
+p522
+aVDoug Christie SAC 12/23/2003 SAC vs. MEM W 35 18 7 14 50.0 1 2 50.0 3 4 75.0 2 2 4 4 2 1 1 3 1
+p523
+aVAnthony Peeler SAC 12/23/2003 SAC vs. MEM W 21 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 1 2 0 1 3 22
+p524
+aVBobby Jackson SAC 12/23/2003 SAC vs. MEM W 25 20 9 15 60.0 2 4 50.0 0 0 - 1 4 5 4 0 1 1 2 15
+p525
+aVDarius Songaila SAC 12/23/2003 SAC vs. MEM W 12 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 0 0 1 0 0 5
+p526
+aVMike Bibby SAC 12/23/2003 SAC vs. MEM W 23 3 1 4 25.0 0 3 0.0 1 2 50.0 1 2 3 4 2 0 3 1 0
+p527
+aVDarius Songaila SAC 12/21/2003 SAC vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p528
+aVAnthony Peeler SAC 12/21/2003 SAC vs. POR W 8 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 2 1 0 0 0 -2
+p529
+aVBrad Miller SAC 12/21/2003 SAC vs. POR W 40 18 7 10 70.0 0 0 - 4 6 66.7 4 10 14 6 0 0 3 2 16
+p530
+aVDoug Christie SAC 12/21/2003 SAC vs. POR W 23 4 1 2 50.0 0 0 - 2 2 100.0 3 1 4 2 0 0 0 1 13
+p531
+aVGerald Wallace SAC 12/21/2003 SAC vs. POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -6
+p532
+aVPeja Stojakovic SAC 12/21/2003 SAC vs. POR W 42 29 9 19 47.4 5 11 45.5 6 6 100.0 0 4 4 0 1 1 0 2 24
+p533
+aVMike Bibby SAC 12/21/2003 SAC vs. POR W 40 18 6 13 46.2 1 7 14.3 5 6 83.3 0 3 3 7 2 0 3 2 20
+p534
+aVJabari Smith SAC 12/21/2003 SAC vs. POR W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p535
+aVTony Massenburg SAC 12/21/2003 SAC vs. POR W 14 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -8
+p536
+aVBobby Jackson SAC 12/21/2003 SAC vs. POR W 25 11 5 10 50.0 1 4 25.0 0 0 - 0 3 3 3 1 0 1 2 5
+p537
+aVVlade Divac SAC 12/21/2003 SAC vs. POR W 38 26 10 16 62.5 0 0 - 6 7 85.7 1 4 5 7 1 0 2 1 20
+p538
+aVGerald Wallace SAC 12/19/2003 SAC @ ATL W 5 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 1 0
+p539
+aVPeja Stojakovic SAC 12/19/2003 SAC @ ATL W 40 31 12 23 52.2 3 9 33.3 4 4 100.0 2 5 7 4 3 0 1 3 12
+p540
+aVDarius Songaila SAC 12/19/2003 SAC @ ATL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p541
+aVTony Massenburg SAC 12/19/2003 SAC @ ATL W 13 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 5 9
+p542
+aVDoug Christie SAC 12/19/2003 SAC @ ATL W 28 8 3 7 42.9 0 0 - 2 2 100.0 2 5 7 3 1 0 1 2 10
+p543
+aVBobby Jackson SAC 12/19/2003 SAC @ ATL W 24 15 5 12 41.7 1 2 50.0 4 5 80.0 1 4 5 1 3 0 4 2 10
+p544
+aVVlade Divac SAC 12/19/2003 SAC @ ATL W 34 10 5 9 55.6 0 0 - 0 0 - 1 7 8 8 0 1 0 2 1
+p545
+aVMike Bibby SAC 12/19/2003 SAC @ ATL W 33 11 3 14 21.4 1 5 20.0 4 4 100.0 2 2 4 5 1 0 1 0 10
+p546
+aVAnthony Peeler SAC 12/19/2003 SAC @ ATL W 16 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p547
+aVBrad Miller SAC 12/19/2003 SAC @ ATL W 45 17 7 16 43.8 1 1 100.0 2 2 100.0 3 9 12 3 1 2 0 2 9
+p548
+aVAnthony Peeler SAC 12/18/2003 SAC @ NOH W 17 2 0 3 0.0 0 1 0.0 2 2 100.0 1 1 2 2 0 0 2 1 3
+p549
+aVBrad Miller SAC 12/18/2003 SAC @ NOH W 44 21 8 10 80.0 0 0 - 5 8 62.5 2 12 14 9 0 4 3 2 11
+p550
+aVBobby Jackson SAC 12/18/2003 SAC @ NOH W 22 18 8 12 66.7 0 1 0.0 2 2 100.0 1 0 1 2 3 0 1 1 -2
+p551
+aVDarius Songaila SAC 12/18/2003 SAC @ NOH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p552
+aVVlade Divac SAC 12/18/2003 SAC @ NOH W 27 10 4 5 80.0 0 0 - 2 4 50.0 1 4 5 5 0 0 2 2 8
+p553
+aVDoug Christie SAC 12/18/2003 SAC @ NOH W 39 10 4 7 57.1 0 1 0.0 2 4 50.0 0 6 6 6 1 1 3 4 5
+p554
+aVPeja Stojakovic SAC 12/18/2003 SAC @ NOH W 42 17 4 12 33.3 3 6 50.0 6 7 85.7 0 4 4 3 3 0 1 1 11
+p555
+aVTony Massenburg SAC 12/18/2003 SAC @ NOH W 14 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 1 0 2 11
+p556
+aVMike Bibby SAC 12/18/2003 SAC @ NOH W 31 19 7 14 50.0 2 5 40.0 3 4 75.0 0 3 3 2 0 2 3 1 8
+p557
+aVBobby Jackson SAC 12/16/2003 SAC @ MEM L 19 13 4 8 50.0 2 3 66.7 3 4 75.0 0 1 1 2 0 0 0 3 -5
+p558
+aVVlade Divac SAC 12/16/2003 SAC @ MEM L 27 10 4 9 44.4 0 0 - 2 3 66.7 2 4 6 2 1 1 1 3 -1
+p559
+aVDoug Christie SAC 12/16/2003 SAC @ MEM L 30 10 3 6 50.0 1 2 50.0 3 4 75.0 1 4 5 6 2 1 2 4 10
+p560
+aVMike Bibby SAC 12/16/2003 SAC @ MEM L 30 12 2 14 14.3 1 7 14.3 7 8 87.5 1 3 4 5 3 0 0 2 -1
+p561
+aVAnthony Peeler SAC 12/16/2003 SAC @ MEM L 18 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -15
+p562
+aVTony Massenburg SAC 12/16/2003 SAC @ MEM L 20 2 1 1 100.0 0 0 - 0 0 - 0 6 6 0 0 1 2 2 -3
+p563
+aVBrad Miller SAC 12/16/2003 SAC @ MEM L 40 20 6 11 54.5 0 0 - 8 11 72.7 5 11 16 4 0 1 4 5 -8
+p564
+aVDarius Songaila SAC 12/16/2003 SAC @ MEM L 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 3
+p565
+aVGerald Wallace SAC 12/16/2003 SAC @ MEM L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p566
+aVPeja Stojakovic SAC 12/16/2003 SAC @ MEM L 44 27 9 18 50.0 1 4 25.0 8 8 100.0 1 2 3 0 2 0 4 5 1
+p567
+aVVlade Divac SAC 12/14/2003 SAC vs. PHX W 25 7 3 8 37.5 0 0 - 1 1 100.0 0 5 5 2 1 1 6 2 -8
+p568
+aVGerald Wallace SAC 12/14/2003 SAC vs. PHX W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p569
+aVDarius Songaila SAC 12/14/2003 SAC vs. PHX W 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p570
+aVMike Bibby SAC 12/14/2003 SAC vs. PHX W 23 10 3 7 42.9 1 1 100.0 3 3 100.0 1 0 1 6 1 0 1 4 -13
+p571
+aVBrad Miller SAC 12/14/2003 SAC vs. PHX W 30 17 6 8 75.0 0 0 - 5 6 83.3 0 9 9 2 1 2 3 5 12
+p572
+aVPeja Stojakovic SAC 12/14/2003 SAC vs. PHX W 43 36 11 22 50.0 5 8 62.5 9 9 100.0 2 1 3 5 2 0 3 0 8
+p573
+aVBobby Jackson SAC 12/14/2003 SAC vs. PHX W 32 13 5 17 29.4 0 7 0.0 3 4 75.0 3 6 9 5 1 1 2 3 11
+p574
+aVTony Massenburg SAC 12/14/2003 SAC vs. PHX W 14 2 1 6 16.7 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -1
+p575
+aVAnthony Peeler SAC 12/14/2003 SAC vs. PHX W 25 8 3 7 42.9 2 3 66.7 0 0 - 4 2 6 1 1 0 2 1 19
+p576
+aVDoug Christie SAC 12/14/2003 SAC vs. PHX W 38 14 3 6 50.0 0 0 - 8 8 100.0 1 2 3 5 2 1 1 3 10
+p577
+aVTony Massenburg SAC 12/12/2003 SAC @ UTA W 15 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -7
+p578
+aVBrad Miller SAC 12/12/2003 SAC @ UTA W 38 6 1 9 11.1 0 1 0.0 4 4 100.0 3 5 8 3 1 1 3 1 4
+p579
+aVBobby Jackson SAC 12/12/2003 SAC @ UTA W 33 22 7 18 38.9 3 10 30.0 5 6 83.3 2 3 5 2 0 0 0 2 6
+p580
+aVDarius Songaila SAC 12/12/2003 SAC @ UTA W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 6
+p581
+aVMike Bibby SAC 12/12/2003 SAC @ UTA W 43 25 10 16 62.5 1 3 33.3 4 4 100.0 2 4 6 3 0 0 0 2 7
+p582
+aVGerald Wallace SAC 12/12/2003 SAC @ UTA W 7 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 6
+p583
+aVPeja Stojakovic SAC 12/12/2003 SAC @ UTA W 41 24 8 18 44.4 0 4 0.0 8 9 88.9 0 8 8 3 2 0 1 1 1
+p584
+aVVlade Divac SAC 12/12/2003 SAC @ UTA W 36 13 6 13 46.2 0 0 - 1 2 50.0 3 0 3 6 2 2 0 4 10
+p585
+aVDoug Christie SAC 12/12/2003 SAC @ UTA W 20 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 0 4 2
+p586
+aVVlade Divac SAC 12/09/2003 SAC vs. LAC W 32 13 4 11 36.4 0 1 0.0 5 6 83.3 2 3 5 6 0 2 2 5 -5
+p587
+aVBrad Miller SAC 12/09/2003 SAC vs. LAC W 29 12 5 9 55.6 0 0 - 2 2 100.0 2 4 6 1 0 2 0 4 9
+p588
+aVTony Massenburg SAC 12/09/2003 SAC vs. LAC W 24 8 3 6 50.0 0 0 - 2 2 100.0 1 3 4 1 1 2 0 3 7
+p589
+aVGerald Wallace SAC 12/09/2003 SAC vs. LAC W 13 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 1 1 0 0 1 7
+p590
+aVMike Bibby SAC 12/09/2003 SAC vs. LAC W 42 17 6 18 33.3 2 5 40.0 3 4 75.0 1 6 7 6 1 1 2 2 8
+p591
+aVPeja Stojakovic SAC 12/09/2003 SAC vs. LAC W 36 26 9 18 50.0 3 8 37.5 5 5 100.0 0 4 4 1 1 0 4 5 3
+p592
+aVAnthony Peeler SAC 12/09/2003 SAC vs. LAC W 30 14 4 9 44.4 1 3 33.3 5 7 71.4 2 3 5 3 2 1 2 3 17
+p593
+aVDoug Christie SAC 12/09/2003 SAC vs. LAC W 23 6 3 4 75.0 0 1 0.0 0 0 - 0 3 3 4 3 0 1 4 -5
+p594
+aVDarius Songaila SAC 12/09/2003 SAC vs. LAC W 11 6 1 2 50.0 0 0 - 4 4 100.0 2 3 5 4 0 0 0 0 9
+p595
+aVAnthony Peeler SAC 12/07/2003 SAC vs. IND W 14 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 0 0 3 2 -2
+p596
+aVDarius Songaila SAC 12/07/2003 SAC vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p597
+aVBobby Jackson SAC 12/07/2003 SAC vs. IND W 27 8 4 11 36.4 0 2 0.0 0 0 - 0 1 1 1 0 0 1 2 -1
+p598
+aVTony Massenburg SAC 12/07/2003 SAC vs. IND W 19 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 1 1 1 3 -16
+p599
+aVMike Bibby SAC 12/07/2003 SAC vs. IND W 34 14 5 12 41.7 0 2 0.0 4 5 80.0 1 4 5 4 0 0 2 0 5
+p600
+aVPeja Stojakovic SAC 12/07/2003 SAC vs. IND W 44 27 10 20 50.0 3 6 50.0 4 4 100.0 0 5 5 1 0 0 2 4 3
+p601
+aVBrad Miller SAC 12/07/2003 SAC vs. IND W 46 18 9 17 52.9 0 1 0.0 0 0 - 4 11 15 10 2 2 6 1 6
+p602
+aVVlade Divac SAC 12/07/2003 SAC vs. IND W 27 12 5 9 55.6 0 0 - 2 2 100.0 2 8 10 6 1 1 3 5 13
+p603
+aVDoug Christie SAC 12/07/2003 SAC vs. IND W 28 4 1 4 25.0 0 0 - 2 2 100.0 2 4 6 3 1 1 2 2 10
+p604
+aVBrad Miller SAC 12/05/2003 SAC vs. MIN L 49 35 12 20 60.0 1 1 100.0 10 13 76.9 6 4 10 0 0 0 1 3 -4
+p605
+aVTony Massenburg SAC 12/05/2003 SAC vs. MIN L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 0
+p606
+aVDarius Songaila SAC 12/05/2003 SAC vs. MIN L 23 6 2 8 25.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 4 3
+p607
+aVVlade Divac SAC 12/05/2003 SAC vs. MIN L 29 7 2 8 25.0 0 0 - 3 4 75.0 3 4 7 4 0 1 4 1 -5
+p608
+aVAnthony Peeler SAC 12/05/2003 SAC vs. MIN L 25 8 4 6 66.7 0 1 0.0 0 0 - 1 2 3 1 2 0 0 3 12
+p609
+aVMike Bibby SAC 12/05/2003 SAC vs. MIN L 36 15 5 17 29.4 1 5 20.0 4 4 100.0 1 4 5 2 1 0 1 2 -9
+p610
+aVBobby Jackson SAC 12/05/2003 SAC vs. MIN L 33 17 6 17 35.3 3 8 37.5 2 2 100.0 0 4 4 3 0 1 1 5 13
+p611
+aVPeja Stojakovic SAC 12/05/2003 SAC vs. MIN L 39 18 6 16 37.5 3 7 42.9 3 4 75.0 2 9 11 4 0 0 2 4 -9
+p612
+aVDoug Christie SAC 12/05/2003 SAC vs. MIN L 26 3 1 7 14.3 1 2 50.0 0 0 - 1 3 4 3 0 0 1 2 -16
+p613
+aVVlade Divac SAC 11/30/2003 SAC vs. NJN W 32 15 5 8 62.5 0 0 - 5 8 62.5 2 5 7 8 2 2 1 3 6
+p614
+aVPeja Stojakovic SAC 11/30/2003 SAC vs. NJN W 45 25 9 16 56.3 4 7 57.1 3 3 100.0 0 2 2 3 0 1 3 3 7
+p615
+aVTony Massenburg SAC 11/30/2003 SAC vs. NJN W 14 8 4 7 57.1 0 0 - 0 0 - 1 2 3 0 0 0 2 3 5
+p616
+aVBrad Miller SAC 11/30/2003 SAC vs. NJN W 41 20 7 11 63.6 1 1 100.0 5 7 71.4 4 7 11 5 2 1 5 2 11
+p617
+aVMike Bibby SAC 11/30/2003 SAC vs. NJN W 32 14 4 9 44.4 1 2 50.0 5 5 100.0 0 5 5 6 2 0 4 1 9
+p618
+aVDoug Christie SAC 11/30/2003 SAC vs. NJN W 30 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 4 1 0 3 1 9
+p619
+aVBobby Jackson SAC 11/30/2003 SAC vs. NJN W 20 7 3 10 30.0 1 4 25.0 0 0 - 1 6 7 1 0 0 1 0 9
+p620
+aVDarius Songaila SAC 11/30/2003 SAC vs. NJN W 8 2 1 4 25.0 0 0 - 0 2 0.0 1 1 2 1 1 0 0 2 5
+p621
+aVAnthony Peeler SAC 11/30/2003 SAC vs. NJN W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 2 4
+p622
+aVMike Bibby SAC 11/28/2003 SAC vs. HOU W 28 18 7 10 70.0 1 2 50.0 3 4 75.0 0 4 4 6 2 0 2 1 13
+p623
+aVTony Massenburg SAC 11/28/2003 SAC vs. HOU W 13 3 1 6 16.7 0 0 - 1 2 50.0 1 1 2 1 1 0 3 5 4
+p624
+aVPeja Stojakovic SAC 11/28/2003 SAC vs. HOU W 32 11 5 12 41.7 0 0 - 1 1 100.0 0 5 5 1 1 0 1 0 11
+p625
+aVJabari Smith SAC 11/28/2003 SAC vs. HOU W 8 5 1 2 50.0 0 0 - 3 6 50.0 2 1 3 1 1 0 1 2 1
+p626
+aVDarius Songaila SAC 11/28/2003 SAC vs. HOU W 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 1 0 0 0 7
+p627
+aVBobby Jackson SAC 11/28/2003 SAC vs. HOU W 24 18 8 12 66.7 1 4 25.0 1 1 100.0 0 4 4 3 1 0 0 2 13
+p628
+aVRodney Buford SAC 11/28/2003 SAC vs. HOU W 5 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -5
+p629
+aVBrad Miller SAC 11/28/2003 SAC vs. HOU W 38 29 11 18 61.1 1 1 100.0 6 6 100.0 1 6 7 4 2 2 0 1 29
+p630
+aVVlade Divac SAC 11/28/2003 SAC vs. HOU W 26 6 3 7 42.9 0 0 - 0 0 - 1 3 4 6 0 3 4 2 15
+p631
+aVAnthony Peeler SAC 11/28/2003 SAC vs. HOU W 24 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 5 2 0 3 1 21
+p632
+aVDoug Christie SAC 11/28/2003 SAC vs. HOU W 30 2 0 3 0.0 0 1 0.0 2 2 100.0 1 6 7 4 4 1 0 4 31
+p633
+aVBobby Jackson SAC 11/25/2003 SAC vs. MEM W 21 8 3 11 27.3 2 6 33.3 0 0 - 2 1 3 0 1 1 0 1 10
+p634
+aVMike Bibby SAC 11/25/2003 SAC vs. MEM W 34 16 6 11 54.5 3 6 50.0 1 2 50.0 1 3 4 6 1 2 2 1 12
+p635
+aVTony Massenburg SAC 11/25/2003 SAC vs. MEM W 15 4 2 5 40.0 0 0 - 0 0 - 0 3 3 0 0 0 0 3 3
+p636
+aVPeja Stojakovic SAC 11/25/2003 SAC vs. MEM W 32 26 10 15 66.7 2 4 50.0 4 5 80.0 1 8 9 3 1 0 2 1 15
+p637
+aVAnthony Peeler SAC 11/25/2003 SAC vs. MEM W 23 5 2 3 66.7 1 1 100.0 0 0 - 0 4 4 4 1 0 1 2 15
+p638
+aVBrad Miller SAC 11/25/2003 SAC vs. MEM W 33 13 4 10 40.0 0 0 - 5 6 83.3 1 6 7 3 1 1 3 4 18
+p639
+aVDoug Christie SAC 11/25/2003 SAC vs. MEM W 30 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 3 0 0 1 0 12
+p640
+aVJabari Smith SAC 11/25/2003 SAC vs. MEM W 3 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -2
+p641
+aVRodney Buford SAC 11/25/2003 SAC vs. MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p642
+aVVlade Divac SAC 11/25/2003 SAC vs. MEM W 24 15 5 12 41.7 0 0 - 5 7 71.4 1 2 3 3 0 1 1 3 10
+p643
+aVDarius Songaila SAC 11/25/2003 SAC vs. MEM W 22 12 5 8 62.5 0 0 - 2 2 100.0 3 2 5 1 1 0 2 5 11
+p644
+aVBrad Miller SAC 11/23/2003 SAC vs. CHI W 33 5 2 9 22.2 0 1 0.0 1 2 50.0 2 8 10 7 0 0 2 2 24
+p645
+aVAnthony Peeler SAC 11/23/2003 SAC vs. CHI W 24 18 6 10 60.0 4 4 100.0 2 2 100.0 1 3 4 1 1 0 0 1 6
+p646
+aVBobby Jackson SAC 11/23/2003 SAC vs. CHI W 23 16 6 12 50.0 4 7 57.1 0 0 - 1 5 6 3 1 0 0 1 -5
+p647
+aVRodney Buford SAC 11/23/2003 SAC vs. CHI W 10 2 1 6 16.7 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -22
+p648
+aVDarius Songaila SAC 11/23/2003 SAC vs. CHI W 27 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 2 0 0 0 4 -2
+p649
+aVDoug Christie SAC 11/23/2003 SAC vs. CHI W 31 14 5 7 71.4 0 0 - 4 4 100.0 1 6 7 4 3 0 3 2 29
+p650
+aVPeja Stojakovic SAC 11/23/2003 SAC vs. CHI W 28 21 9 16 56.3 3 6 50.0 0 0 - 2 6 8 2 1 0 1 1 12
+p651
+aVTony Massenburg SAC 11/23/2003 SAC vs. CHI W 15 2 0 6 0.0 0 0 - 2 2 100.0 0 3 3 1 0 1 1 3 -13
+p652
+aVVlade Divac SAC 11/23/2003 SAC vs. CHI W 21 8 2 3 66.7 0 0 - 4 6 66.7 4 1 5 3 1 0 4 0 13
+p653
+aVMike Bibby SAC 11/23/2003 SAC vs. CHI W 27 12 5 11 45.5 2 7 28.6 0 0 - 1 1 2 7 0 0 3 2 13
+p654
+aVAnthony Peeler SAC 11/21/2003 SAC vs. ORL W 22 9 2 5 40.0 0 3 0.0 5 6 83.3 0 1 1 1 3 0 2 0 11
+p655
+aVMike Bibby SAC 11/21/2003 SAC vs. ORL W 27 21 7 10 70.0 5 7 71.4 2 2 100.0 0 2 2 5 0 0 1 2 21
+p656
+aVVlade Divac SAC 11/21/2003 SAC vs. ORL W 27 6 3 9 33.3 0 0 - 0 2 0.0 2 3 5 8 1 1 1 2 25
+p657
+aVTony Massenburg SAC 11/21/2003 SAC vs. ORL W 21 10 4 6 66.7 0 0 - 2 2 100.0 2 2 4 2 0 0 0 4 5
+p658
+aVBrad Miller SAC 11/21/2003 SAC vs. ORL W 37 22 7 8 87.5 0 0 - 8 9 88.9 4 10 14 10 1 1 3 1 27
+p659
+aVDarius Songaila SAC 11/21/2003 SAC vs. ORL W 16 11 4 6 66.7 0 0 - 3 4 75.0 3 4 7 0 0 0 1 3 9
+p660
+aVDoug Christie SAC 11/21/2003 SAC vs. ORL W 20 6 3 7 42.9 0 0 - 0 0 - 0 5 5 3 1 0 0 4 19
+p661
+aVBobby Jackson SAC 11/21/2003 SAC vs. ORL W 25 13 5 13 38.5 1 3 33.3 2 2 100.0 0 2 2 1 0 0 0 1 12
+p662
+aVJabari Smith SAC 11/21/2003 SAC vs. ORL W 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 1 1
+p663
+aVRodney Buford SAC 11/21/2003 SAC vs. ORL W 7 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p664
+aVPeja Stojakovic SAC 11/21/2003 SAC vs. ORL W 30 18 8 15 53.3 2 5 40.0 0 0 - 0 4 4 3 1 0 1 1 19
+p665
+aVMike Bibby SAC 11/19/2003 SAC @ UTA W 34 18 7 17 41.2 2 8 25.0 2 3 66.7 2 0 2 4 0 0 3 2 3
+p666
+aVBrad Miller SAC 11/19/2003 SAC @ UTA W 39 17 5 7 71.4 1 1 100.0 6 9 66.7 1 12 13 8 2 1 2 5 8
+p667
+aVBobby Jackson SAC 11/19/2003 SAC @ UTA W 21 9 3 9 33.3 0 2 0.0 3 4 75.0 0 0 0 3 1 0 0 5 6
+p668
+aVDoug Christie SAC 11/19/2003 SAC @ UTA W 26 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 3 2 0 1 4 11
+p669
+aVAnthony Peeler SAC 11/19/2003 SAC @ UTA W 26 15 5 6 83.3 3 3 100.0 2 2 100.0 0 2 2 3 1 1 0 1 5
+p670
+aVVlade Divac SAC 11/19/2003 SAC @ UTA W 19 12 5 7 71.4 0 0 - 2 2 100.0 2 0 2 3 0 0 2 4 5
+p671
+aVTony Massenburg SAC 11/19/2003 SAC @ UTA W 17 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -1
+p672
+aVPeja Stojakovic SAC 11/19/2003 SAC @ UTA W 37 30 8 12 66.7 0 3 0.0 14 16 87.5 0 7 7 3 1 0 2 3 1
+p673
+aVDarius Songaila SAC 11/19/2003 SAC @ UTA W 20 7 3 5 60.0 0 0 - 1 1 100.0 1 4 5 0 1 1 2 3 2
+p674
+aVPeja Stojakovic SAC 11/16/2003 SAC vs. GSW W 44 33 9 18 50.0 4 6 66.7 11 12 91.7 6 5 11 4 1 1 3 3 9
+p675
+aVBobby Jackson SAC 11/16/2003 SAC vs. GSW W 23 16 6 10 60.0 2 2 100.0 2 2 100.0 0 2 2 0 1 0 2 3 -14
+p676
+aVAnthony Peeler SAC 11/16/2003 SAC vs. GSW W 7 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p677
+aVDoug Christie SAC 11/16/2003 SAC vs. GSW W 14 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 1 8
+p678
+aVVlade Divac SAC 11/16/2003 SAC vs. GSW W 26 11 2 9 22.2 0 0 - 7 8 87.5 4 3 7 5 0 1 4 3 12
+p679
+aVDarius Songaila SAC 11/16/2003 SAC vs. GSW W 23 8 3 5 60.0 0 0 - 2 2 100.0 1 5 6 0 1 0 0 2 -13
+p680
+aVMike Bibby SAC 11/16/2003 SAC vs. GSW W 29 13 5 11 45.5 3 4 75.0 0 0 - 2 1 3 4 2 1 1 0 9
+p681
+aVGerald Wallace SAC 11/16/2003 SAC vs. GSW W 30 11 5 12 41.7 0 0 - 1 2 50.0 5 3 8 0 0 0 0 4 2
+p682
+aVBrad Miller SAC 11/16/2003 SAC vs. GSW W 44 11 5 15 33.3 0 1 0.0 1 2 50.0 3 6 9 11 0 0 2 3 4
+p683
+aVAnthony Peeler SAC 11/14/2003 SAC vs. TOR W 22 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 2 1 0 1 1 12
+p684
+aVBobby Jackson SAC 11/14/2003 SAC vs. TOR W 20 13 5 9 55.6 3 4 75.0 0 0 - 2 4 6 6 2 0 2 0 18
+p685
+aVPeja Stojakovic SAC 11/14/2003 SAC vs. TOR W 31 17 7 14 50.0 0 3 0.0 3 3 100.0 1 1 2 0 0 0 0 1 21
+p686
+aVBrad Miller SAC 11/14/2003 SAC vs. TOR W 32 10 5 8 62.5 0 0 - 0 0 - 2 10 12 2 0 4 0 4 28
+p687
+aVMike Bibby SAC 11/14/2003 SAC vs. TOR W 22 8 4 9 44.4 0 2 0.0 0 0 - 1 3 4 4 0 0 2 0 12
+p688
+aVGerald Wallace SAC 11/14/2003 SAC vs. TOR W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 0 1 1 1 2 9
+p689
+aVVlade Divac SAC 11/14/2003 SAC vs. TOR W 28 11 5 10 50.0 0 0 - 1 1 100.0 1 6 7 6 1 3 3 1 20
+p690
+aVRodney Buford SAC 11/14/2003 SAC vs. TOR W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p691
+aVDarius Songaila SAC 11/14/2003 SAC vs. TOR W 26 14 5 8 62.5 0 0 - 4 4 100.0 2 5 7 5 3 1 3 2 16
+p692
+aVDoug Christie SAC 11/14/2003 SAC vs. TOR W 26 7 2 5 40.0 1 1 100.0 2 2 100.0 1 2 3 3 1 1 2 3 18
+p693
+aVTony Massenburg SAC 11/14/2003 SAC vs. TOR W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -4
+p694
+aVJabari Smith SAC 11/14/2003 SAC vs. TOR W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 0
+p695
+aVBrad Miller SAC 11/13/2003 SAC @ POR L 31 8 4 11 36.4 0 0 - 0 0 - 2 5 7 5 0 2 3 4 4
+p696
+aVBobby Jackson SAC 11/13/2003 SAC @ POR L 32 16 7 13 53.8 2 6 33.3 0 0 - 1 3 4 3 2 0 2 3 10
+p697
+aVMike Bibby SAC 11/13/2003 SAC @ POR L 45 26 10 22 45.5 4 7 57.1 2 2 100.0 1 5 6 15 3 1 2 1 -7
+p698
+aVPeja Stojakovic SAC 11/13/2003 SAC @ POR L 49 27 10 16 62.5 5 9 55.6 2 2 100.0 2 1 3 0 1 1 3 2 0
+p699
+aVTony Massenburg SAC 11/13/2003 SAC @ POR L 35 10 4 7 57.1 0 0 - 2 2 100.0 1 6 7 2 0 0 3 5 8
+p700
+aVVlade Divac SAC 11/13/2003 SAC @ POR L 33 13 5 11 45.5 0 1 0.0 3 4 75.0 3 3 6 5 1 0 3 6 -12
+p701
+aVDoug Christie SAC 11/13/2003 SAC @ POR L 40 10 4 11 36.4 0 1 0.0 2 2 100.0 0 5 5 1 3 0 2 0 -13
+p702
+aVDarius Songaila SAC 11/11/2003 SAC vs. DET W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -3
+p703
+aVPeja Stojakovic SAC 11/11/2003 SAC vs. DET W 37 12 6 17 35.3 0 5 0.0 0 0 - 1 9 10 2 1 0 1 2 5
+p704
+aVTony Massenburg SAC 11/11/2003 SAC vs. DET W 30 7 3 7 42.9 0 0 - 1 2 50.0 3 6 9 1 0 3 0 3 2
+p705
+aVGerald Wallace SAC 11/11/2003 SAC vs. DET W 7 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 1 6
+p706
+aVMike Bibby SAC 11/11/2003 SAC vs. DET W 40 23 8 15 53.3 1 2 50.0 6 7 85.7 1 1 2 5 1 0 3 2 9
+p707
+aVBobby Jackson SAC 11/11/2003 SAC vs. DET W 21 16 6 9 66.7 2 4 50.0 2 4 50.0 0 1 1 2 3 1 4 4 -13
+p708
+aVDoug Christie SAC 11/11/2003 SAC vs. DET W 39 14 6 11 54.5 1 2 50.0 1 2 50.0 0 8 8 3 1 0 2 3 11
+p709
+aVVlade Divac SAC 11/11/2003 SAC vs. DET W 29 13 4 8 50.0 0 0 - 5 6 83.3 0 5 5 9 0 0 2 4 13
+p710
+aVBrad Miller SAC 11/11/2003 SAC vs. DET W 32 10 4 9 44.4 0 0 - 2 3 66.7 1 7 8 6 0 1 3 4 0
+p711
+aVDarius Songaila SAC 11/09/2003 SAC @ BOS L 6 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 4
+p712
+aVGerald Wallace SAC 11/09/2003 SAC @ BOS L 12 1 0 2 0.0 0 0 - 1 2 50.0 1 6 7 1 0 0 0 3 2
+p713
+aVTony Massenburg SAC 11/09/2003 SAC @ BOS L 22 5 2 7 28.6 0 0 - 1 1 100.0 2 2 4 0 1 1 2 2 -14
+p714
+aVMike Bibby SAC 11/09/2003 SAC @ BOS L 35 14 5 14 35.7 3 7 42.9 1 2 50.0 2 3 5 11 0 0 1 1 -9
+p715
+aVVlade Divac SAC 11/09/2003 SAC @ BOS L 28 13 6 13 46.2 0 0 - 1 3 33.3 2 2 4 4 0 0 1 1 -2
+p716
+aVDoug Christie SAC 11/09/2003 SAC @ BOS L 37 7 2 10 20.0 1 2 50.0 2 2 100.0 0 0 0 4 4 1 3 1 3
+p717
+aVBrad Miller SAC 11/09/2003 SAC @ BOS L 39 19 9 14 64.3 0 0 - 1 2 50.0 1 15 16 2 0 1 0 4 -6
+p718
+aVPeja Stojakovic SAC 11/09/2003 SAC @ BOS L 36 13 5 15 33.3 0 4 0.0 3 3 100.0 2 2 4 3 1 0 1 3 -11
+p719
+aVBobby Jackson SAC 11/09/2003 SAC @ BOS L 24 9 3 12 25.0 2 6 33.3 1 2 50.0 2 0 2 1 1 0 5 1 -12
+p720
+aVPeja Stojakovic SAC 11/07/2003 SAC @ NYK L 41 36 13 22 59.1 3 7 42.9 7 7 100.0 1 4 5 2 2 1 1 5 -9
+p721
+aVTony Massenburg SAC 11/07/2003 SAC @ NYK L 15 8 4 6 66.7 0 0 - 0 0 - 0 2 2 3 0 0 1 3 -5
+p722
+aVGerald Wallace SAC 11/07/2003 SAC @ NYK L 11 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 2 2 1 0 2 0
+p723
+aVDoug Christie SAC 11/07/2003 SAC @ NYK L 35 12 6 9 66.7 0 0 - 0 0 - 0 1 1 9 0 0 2 5 1
+p724
+aVBrad Miller SAC 11/07/2003 SAC @ NYK L 41 7 2 5 40.0 0 0 - 3 5 60.0 2 4 6 8 3 1 0 5 -7
+p725
+aVMike Bibby SAC 11/07/2003 SAC @ NYK L 34 19 7 14 50.0 3 5 60.0 2 3 66.7 1 1 2 3 0 0 1 1 3
+p726
+aVVlade Divac SAC 11/07/2003 SAC @ NYK L 31 14 7 15 46.7 0 0 - 0 0 - 0 7 7 8 2 1 1 1 0
+p727
+aVDarius Songaila SAC 11/07/2003 SAC @ NYK L 9 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 1 1 0 2 6
+p728
+aVBobby Jackson SAC 11/07/2003 SAC @ NYK L 15 9 4 9 44.4 0 2 0.0 1 2 50.0 1 1 2 1 0 0 1 1 -8
+p729
+aVAnthony Peeler SAC 11/07/2003 SAC @ NYK L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 4
+p730
+aVBobby Jackson SAC 11/05/2003 SAC @ MIN W 31 19 8 19 42.1 2 4 50.0 1 2 50.0 2 4 6 3 0 0 2 2 0
+p731
+aVTony Massenburg SAC 11/05/2003 SAC @ MIN W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p732
+aVVlade Divac SAC 11/05/2003 SAC @ MIN W 35 19 8 14 57.1 0 0 - 3 4 75.0 6 2 8 10 0 0 2 2 -4
+p733
+aVDarius Songaila SAC 11/05/2003 SAC @ MIN W 18 3 0 1 0.0 0 0 - 3 4 75.0 2 2 4 4 0 0 0 3 5
+p734
+aVGerald Wallace SAC 11/05/2003 SAC @ MIN W 11 0 0 3 0.0 0 0 - 0 0 - 2 1 3 2 1 0 0 2 -3
+p735
+aVBrad Miller SAC 11/05/2003 SAC @ MIN W 46 17 6 11 54.5 0 0 - 5 5 100.0 4 4 8 5 5 2 3 6 14
+p736
+aVDoug Christie SAC 11/05/2003 SAC @ MIN W 29 9 3 5 60.0 0 1 0.0 3 4 75.0 0 1 1 1 3 0 4 3 8
+p737
+aVPeja Stojakovic SAC 11/05/2003 SAC @ MIN W 46 34 11 19 57.9 5 6 83.3 7 7 100.0 1 5 6 0 0 1 2 0 9
+p738
+aVMike Bibby SAC 11/05/2003 SAC @ MIN W 44 22 9 18 50.0 2 3 66.7 2 2 100.0 0 4 4 4 0 0 1 0 0
+p739
+aVPeja Stojakovic SAC 11/01/2003 SAC @ DEN L 33 19 7 18 38.9 3 8 37.5 2 3 66.7 0 6 6 2 0 0 2 3 -10
+p740
+aVTony Massenburg SAC 11/01/2003 SAC @ DEN L 20 8 2 5 40.0 0 0 - 4 5 80.0 3 3 6 1 0 0 0 3 -10
+p741
+aVBrad Miller SAC 11/01/2003 SAC @ DEN L 32 13 4 11 36.4 0 0 - 5 7 71.4 4 8 12 1 2 2 1 5 -1
+p742
+aVMike Bibby SAC 11/01/2003 SAC @ DEN L 32 15 6 15 40.0 0 1 0.0 3 4 75.0 2 1 3 10 2 0 0 2 -8
+p743
+aVDarius Songaila SAC 11/01/2003 SAC @ DEN L 14 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 3 1 -16
+p744
+aVAnthony Peeler SAC 11/01/2003 SAC @ DEN L 16 7 3 8 37.5 1 2 50.0 0 0 - 1 1 2 0 4 0 1 1 -12
+p745
+aVVlade Divac SAC 11/01/2003 SAC @ DEN L 19 6 3 5 60.0 0 0 - 0 0 - 1 1 2 2 2 0 4 3 -8
+p746
+aVDoug Christie SAC 11/01/2003 SAC @ DEN L 26 9 3 7 42.9 0 0 - 3 4 75.0 1 1 2 3 0 0 1 4 -7
+p747
+aVGerald Wallace SAC 11/01/2003 SAC @ DEN L 18 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 3 1 1 0 4 -15
+p748
+aVRodney Buford SAC 11/01/2003 SAC @ DEN L 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p749
+aVBobby Jackson SAC 11/01/2003 SAC @ DEN L 21 7 3 11 27.3 0 3 0.0 1 3 33.3 1 2 3 2 2 0 3 2 -10
+p750
+aVJabari Smith SAC 11/01/2003 SAC @ DEN L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -6
+p751
+aVGerald Wallace SAC 10/31/2003 SAC vs. PHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -3
+p752
+aVDarius Songaila SAC 10/31/2003 SAC vs. PHI W 18 8 4 6 66.7 0 0 - 0 0 - 0 3 3 2 2 1 0 3 6
+p753
+aVVlade Divac SAC 10/31/2003 SAC vs. PHI W 33 11 4 6 66.7 0 0 - 3 4 75.0 1 5 6 2 0 0 4 4 12
+p754
+aVPeja Stojakovic SAC 10/31/2003 SAC vs. PHI W 43 28 9 13 69.2 3 4 75.0 7 8 87.5 1 2 3 4 1 0 4 1 10
+p755
+aVTony Massenburg SAC 10/31/2003 SAC vs. PHI W 10 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 1 3 -1
+p756
+aVBrad Miller SAC 10/31/2003 SAC vs. PHI W 35 11 4 10 40.0 0 0 - 3 4 75.0 4 5 9 5 0 2 3 5 5
+p757
+aVDoug Christie SAC 10/31/2003 SAC vs. PHI W 24 6 3 7 42.9 0 0 - 0 0 - 0 4 4 3 0 1 0 2 0
+p758
+aVBobby Jackson SAC 10/31/2003 SAC vs. PHI W 29 18 7 14 50.0 3 5 60.0 1 1 100.0 2 3 5 4 2 1 1 3 12
+p759
+aVMike Bibby SAC 10/31/2003 SAC vs. PHI W 40 16 7 17 41.2 0 2 0.0 2 2 100.0 0 2 2 5 3 1 2 1 14
+p760
+aVBobby Jackson SAC 10/29/2003 SAC vs. CLE W 20 16 7 12 58.3 0 0 - 2 2 100.0 0 1 1 3 1 0 0 1 6
+p761
+aVTony Massenburg SAC 10/29/2003 SAC vs. CLE W 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 0 1 1 1 2
+p762
+aVMike Bibby SAC 10/29/2003 SAC vs. CLE W 36 19 8 15 53.3 0 0 - 3 4 75.0 1 1 2 7 0 0 1 0 15
+p763
+aVPeja Stojakovic SAC 10/29/2003 SAC vs. CLE W 40 22 9 20 45.0 2 8 25.0 2 2 100.0 2 5 7 4 2 0 1 1 7
+p764
+aVDarius Songaila SAC 10/29/2003 SAC vs. CLE W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 0
+p765
+aVGerald Wallace SAC 10/29/2003 SAC vs. CLE W 17 1 0 1 0.0 0 0 - 1 2 50.0 2 4 6 0 1 0 0 1 8
+p766
+aVVlade Divac SAC 10/29/2003 SAC vs. CLE W 39 18 7 11 63.6 0 0 - 4 5 80.0 3 4 7 4 0 4 5 3 13
+p767
+aVDoug Christie SAC 10/29/2003 SAC vs. CLE W 31 12 6 14 42.9 0 0 - 0 0 - 1 3 4 3 2 1 1 2 6
+p768
+aVBrad Miller SAC 10/29/2003 SAC vs. CLE W 37 16 6 11 54.5 0 1 0.0 4 5 80.0 4 5 9 4 0 2 1 2 13
+p769
+a.

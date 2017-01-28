@@ -1,0 +1,1702 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMark Davis PHI 04/19/1998 PHI @ TOR W 9 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 1 3 0 0 0 10
+p2
+aVDerrick Coleman PHI 04/19/1998 PHI @ TOR W 32 20 8 21 38.1 0 2 0.0 4 7 57.1 7 8 15 5 0 1 1 1 16
+p3
+aVTheo Ratliff PHI 04/19/1998 PHI @ TOR W 26 11 5 9 55.6 0 0 - 1 2 50.0 5 2 7 0 0 5 0 3 16
+p4
+aVTim Thomas PHI 04/19/1998 PHI @ TOR W 28 9 1 8 12.5 1 2 50.0 6 6 100.0 2 3 5 5 0 0 3 0 21
+p5
+aVScott Williams PHI 04/19/1998 PHI @ TOR W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -4
+p6
+aVEric Snow PHI 04/19/1998 PHI @ TOR W 27 4 2 4 50.0 0 0 - 0 0 - 0 6 6 4 2 3 1 2 10
+p7
+aVAaron McKie PHI 04/19/1998 PHI @ TOR W 24 8 4 9 44.4 0 0 - 0 0 - 0 4 4 2 0 0 1 2 5
+p8
+aVBenoit Benjamin PHI 04/19/1998 PHI @ TOR W 12 6 2 2 100.0 0 0 - 2 4 50.0 0 1 1 0 0 0 2 2 8
+p9
+aVAnthony Parker PHI 04/19/1998 PHI @ TOR W 17 7 3 9 33.3 0 1 0.0 1 2 50.0 3 3 6 2 2 0 0 2 12
+p10
+aVAllen Iverson PHI 04/19/1998 PHI @ TOR W 37 26 13 21 61.9 0 1 0.0 0 1 0.0 3 5 8 6 4 1 1 3 33
+p11
+aVKebu Stewart PHI 04/19/1998 PHI @ TOR W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 1 0 1 0 5
+p12
+aVJoe Smith PHI 04/19/1998 PHI @ TOR W 20 10 5 10 50.0 0 0 - 0 0 - 1 0 1 4 1 0 1 5 13
+p13
+aVAaron McKie PHI 04/17/1998 PHI vs. CHI L 37 0 0 3 0.0 0 1 0.0 0 0 - 0 5 5 5 3 0 1 2 2
+p14
+aVEric Snow PHI 04/17/1998 PHI vs. CHI L 23 2 0 4 0.0 0 1 0.0 2 2 100.0 0 2 2 5 0 0 3 4 12
+p15
+aVJoe Smith PHI 04/17/1998 PHI vs. CHI L 19 16 6 7 85.7 0 0 - 4 6 66.7 1 3 4 0 0 0 2 3 -13
+p16
+aVAnthony Parker PHI 04/17/1998 PHI vs. CHI L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p17
+aVMark Davis PHI 04/17/1998 PHI vs. CHI L 16 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 1 1 1 2 1 -2
+p18
+aVTheo Ratliff PHI 04/17/1998 PHI vs. CHI L 36 10 3 6 50.0 0 0 - 4 4 100.0 4 5 9 0 4 2 1 3 5
+p19
+aVDerrick Coleman PHI 04/17/1998 PHI vs. CHI L 41 20 8 16 50.0 1 2 50.0 3 4 75.0 2 4 6 2 0 2 3 3 -6
+p20
+aVTim Thomas PHI 04/17/1998 PHI vs. CHI L 24 7 3 6 50.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 3 -8
+p21
+aVAllen Iverson PHI 04/17/1998 PHI vs. CHI L 41 18 4 17 23.5 1 3 33.3 9 12 75.0 3 3 6 6 1 3 7 2 -18
+p22
+aVTheo Ratliff PHI 04/14/1998 PHI @ ATL L 40 10 5 11 45.5 0 0 - 0 0 - 5 7 12 2 2 4 1 5 6
+p23
+aVDerrick Coleman PHI 04/14/1998 PHI @ ATL L 42 20 8 20 40.0 0 3 0.0 4 6 66.7 1 5 6 2 0 1 4 2 -2
+p24
+aVJoe Smith PHI 04/14/1998 PHI @ ATL L 15 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 1 2 2 -13
+p25
+aVAnthony Parker PHI 04/14/1998 PHI @ ATL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -5
+p26
+aVMark Davis PHI 04/14/1998 PHI @ ATL L 30 8 3 6 50.0 0 0 - 2 2 100.0 6 3 9 4 0 2 4 4 16
+p27
+aVBenoit Benjamin PHI 04/14/1998 PHI @ ATL L 10 2 0 0 - 0 0 - 2 2 100.0 0 4 4 0 0 0 0 2 -4
+p28
+aVTim Thomas PHI 04/14/1998 PHI @ ATL L 26 14 6 10 60.0 2 3 66.7 0 0 - 3 4 7 3 1 0 2 4 4
+p29
+aVAllen Iverson PHI 04/14/1998 PHI @ ATL L 42 26 11 23 47.8 1 2 50.0 3 3 100.0 1 1 2 2 2 0 5 3 -9
+p30
+aVEric Snow PHI 04/14/1998 PHI @ ATL L 25 8 4 7 57.1 0 1 0.0 0 2 0.0 0 0 0 5 0 0 1 2 2
+p31
+aVDerrick Coleman PHI 04/11/1998 PHI @ CLE L 29 13 3 14 21.4 1 2 50.0 6 8 75.0 2 6 8 2 1 2 2 2 -2
+p32
+aVEric Snow PHI 04/11/1998 PHI @ CLE L 27 4 1 4 25.0 0 0 - 2 4 50.0 0 2 2 4 3 0 3 2 -11
+p33
+aVMark Davis PHI 04/11/1998 PHI @ CLE L 21 4 2 6 33.3 0 1 0.0 0 0 - 1 1 2 1 0 0 0 1 -10
+p34
+aVJoe Smith PHI 04/11/1998 PHI @ CLE L 10 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 1
+p35
+aVAllen Iverson PHI 04/11/1998 PHI @ CLE L 40 32 10 15 66.7 1 2 50.0 11 13 84.6 0 1 1 5 1 0 5 6 -8
+p36
+aVTim Thomas PHI 04/11/1998 PHI @ CLE L 21 9 4 9 44.4 0 0 - 1 1 100.0 0 2 2 0 0 0 3 3 -10
+p37
+aVAaron McKie PHI 04/11/1998 PHI @ CLE L 28 0 0 3 0.0 0 1 0.0 0 0 - 1 5 6 2 0 0 1 4 -5
+p38
+aVBenoit Benjamin PHI 04/11/1998 PHI @ CLE L 21 6 3 6 50.0 0 0 - 0 0 - 4 3 7 2 0 0 1 2 5
+p39
+aVTheo Ratliff PHI 04/11/1998 PHI @ CLE L 25 10 3 3 100.0 0 0 - 4 4 100.0 1 3 4 1 1 1 5 4 -11
+p40
+aVScott Williams PHI 04/11/1998 PHI @ CLE L 17 11 4 6 66.7 0 0 - 3 3 100.0 3 1 4 1 0 0 0 4 -4
+p41
+aVJoe Smith PHI 04/10/1998 PHI @ MIN L 18 8 3 9 33.3 0 0 - 2 3 66.7 4 1 5 3 0 0 0 2 5
+p42
+aVMark Davis PHI 04/10/1998 PHI @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p43
+aVAllen Iverson PHI 04/10/1998 PHI @ MIN L 44 43 15 26 57.7 1 4 25.0 12 14 85.7 2 2 4 2 1 0 2 3 -3
+p44
+aVTim Thomas PHI 04/10/1998 PHI @ MIN L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 2 -13
+p45
+aVTheo Ratliff PHI 04/10/1998 PHI @ MIN L 34 6 2 6 33.3 0 0 - 2 4 50.0 3 6 9 1 2 3 2 5 -7
+p46
+aVAaron McKie PHI 04/10/1998 PHI @ MIN L 30 4 2 6 33.3 0 0 - 0 0 - 1 3 4 3 1 0 2 4 -5
+p47
+aVDerrick Coleman PHI 04/10/1998 PHI @ MIN L 43 19 7 20 35.0 0 2 0.0 5 7 71.4 2 10 12 6 1 0 3 3 1
+p48
+aVScott Williams PHI 04/10/1998 PHI @ MIN L 14 8 4 7 57.1 0 0 - 0 1 0.0 3 0 3 1 1 0 1 5 0
+p49
+aVEric Snow PHI 04/10/1998 PHI @ MIN L 35 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 6 1 0 1 3 2
+p50
+aVAnthony Parker PHI 04/10/1998 PHI @ MIN L 12 3 1 5 20.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 3 -3
+p51
+aVTheo Ratliff PHI 04/08/1998 PHI vs. CHH W 35 10 5 10 50.0 0 0 - 0 0 - 3 4 7 1 1 2 1 3 1
+p52
+aVEric Snow PHI 04/08/1998 PHI vs. CHH W 27 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 9 0 0 0 3 16
+p53
+aVAllen Iverson PHI 04/08/1998 PHI vs. CHH W 42 30 9 18 50.0 1 1 100.0 11 12 91.7 4 6 10 6 3 0 1 4 12
+p54
+aVDerrick Coleman PHI 04/08/1998 PHI vs. CHH W 42 25 9 18 50.0 0 1 0.0 7 9 77.8 2 7 9 3 1 0 1 1 9
+p55
+aVJoe Smith PHI 04/08/1998 PHI vs. CHH W 20 10 5 10 50.0 0 0 - 0 0 - 1 2 3 1 0 1 1 3 4
+p56
+aVAnthony Parker PHI 04/08/1998 PHI vs. CHH W 4 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 1 0 1 0 2 -1
+p57
+aVAaron McKie PHI 04/08/1998 PHI vs. CHH W 29 10 4 5 80.0 1 1 100.0 1 3 33.3 0 3 3 2 1 1 1 3 -9
+p58
+aVTim Thomas PHI 04/08/1998 PHI vs. CHH W 15 6 1 5 20.0 0 1 0.0 4 4 100.0 1 0 1 2 0 0 3 0 -13
+p59
+aVScott Williams PHI 04/08/1998 PHI vs. CHH W 15 5 1 3 33.3 0 0 - 3 4 75.0 0 3 3 2 0 0 0 5 8
+p60
+aVMark Davis PHI 04/08/1998 PHI vs. CHH W 11 7 0 0 - 0 0 - 7 8 87.5 2 1 3 0 1 2 2 2 13
+p61
+aVTheo Ratliff PHI 04/06/1998 PHI @ ORL L 32 12 6 9 66.7 0 0 - 0 0 - 5 1 6 0 0 2 0 1 -21
+p62
+aVScott Williams PHI 04/06/1998 PHI @ ORL L 14 0 0 3 0.0 0 0 - 0 0 - 2 2 4 0 2 0 0 3 -6
+p63
+aVEric Snow PHI 04/06/1998 PHI @ ORL L 35 8 3 6 50.0 0 2 0.0 2 2 100.0 1 2 3 10 0 0 3 0 -12
+p64
+aVBenoit Benjamin PHI 04/06/1998 PHI @ ORL L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 3 -3
+p65
+aVAnthony Parker PHI 04/06/1998 PHI @ ORL L 15 6 3 3 100.0 0 0 - 0 1 0.0 0 0 0 1 4 0 3 1 -2
+p66
+aVMark Davis PHI 04/06/1998 PHI @ ORL L 5 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 1 1 6
+p67
+aVKebu Stewart PHI 04/06/1998 PHI @ ORL L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 1
+p68
+aVAaron McKie PHI 04/06/1998 PHI @ ORL L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 3 -10
+p69
+aVDerrick Coleman PHI 04/06/1998 PHI @ ORL L 23 10 5 12 41.7 0 0 - 0 2 0.0 0 4 4 3 0 0 1 1 -6
+p70
+aVAllen Iverson PHI 04/06/1998 PHI @ ORL L 32 23 9 17 52.9 1 3 33.3 4 5 80.0 0 3 3 4 1 0 2 3 -18
+p71
+aVTim Thomas PHI 04/06/1998 PHI @ ORL L 35 19 7 18 38.9 2 6 33.3 3 6 50.0 1 3 4 1 2 0 4 3 -28
+p72
+aVJoe Smith PHI 04/06/1998 PHI @ ORL L 18 12 4 8 50.0 0 0 - 4 5 80.0 2 1 3 0 1 0 2 0 -6
+p73
+aVTim Thomas PHI 04/05/1998 PHI vs. TOR W 17 11 4 8 50.0 1 3 33.3 2 4 50.0 2 2 4 2 0 0 1 3 3
+p74
+aVMark Davis PHI 04/05/1998 PHI vs. TOR W 15 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 2 1 0 2 1 -3
+p75
+aVScott Williams PHI 04/05/1998 PHI vs. TOR W 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p76
+aVKebu Stewart PHI 04/05/1998 PHI vs. TOR W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p77
+aVTheo Ratliff PHI 04/05/1998 PHI vs. TOR W 35 16 5 11 45.5 0 0 - 6 6 100.0 4 4 8 0 0 6 2 3 12
+p78
+aVAllen Iverson PHI 04/05/1998 PHI vs. TOR W 44 36 14 25 56.0 1 3 33.3 7 7 100.0 2 7 9 8 4 0 0 2 13
+p79
+aVDerrick Coleman PHI 04/05/1998 PHI vs. TOR W 35 21 8 12 66.7 1 2 50.0 4 4 100.0 0 5 5 3 1 1 0 2 19
+p80
+aVAnthony Parker PHI 04/05/1998 PHI vs. TOR W 10 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 3 1 0 0 2 -2
+p81
+aVAaron McKie PHI 04/05/1998 PHI vs. TOR W 29 11 5 8 62.5 0 0 - 1 2 50.0 1 4 5 1 0 0 1 1 11
+p82
+aVEric Snow PHI 04/05/1998 PHI vs. TOR W 24 8 4 7 57.1 0 0 - 0 0 - 1 1 2 8 4 0 0 2 5
+p83
+aVJoe Smith PHI 04/05/1998 PHI vs. TOR W 27 2 0 3 0.0 0 0 - 2 4 50.0 1 0 1 1 0 0 3 3 9
+p84
+aVJoe Smith PHI 04/03/1998 PHI vs. LAC W 24 6 2 7 28.6 0 0 - 2 2 100.0 3 2 5 2 2 0 1 4 13
+p85
+aVEric Snow PHI 04/03/1998 PHI vs. LAC W 23 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 5 1 0 0 4 12
+p86
+aVKebu Stewart PHI 04/03/1998 PHI vs. LAC W 3 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -3
+p87
+aVTim Thomas PHI 04/03/1998 PHI vs. LAC W 23 7 3 6 50.0 0 0 - 1 2 50.0 3 3 6 0 2 0 0 4 6
+p88
+aVAaron McKie PHI 04/03/1998 PHI vs. LAC W 22 7 3 7 42.9 0 0 - 1 1 100.0 0 2 2 3 1 0 2 1 8
+p89
+aVTheo Ratliff PHI 04/03/1998 PHI vs. LAC W 35 13 6 15 40.0 0 0 - 1 1 100.0 3 6 9 1 0 4 1 3 17
+p90
+aVDerrick Coleman PHI 04/03/1998 PHI vs. LAC W 37 21 7 22 31.8 0 2 0.0 7 7 100.0 1 11 12 4 0 0 2 1 22
+p91
+aVAnthony Parker PHI 04/03/1998 PHI vs. LAC W 11 5 1 3 33.3 0 1 0.0 3 3 100.0 0 1 1 0 1 0 0 1 -6
+p92
+aVMark Davis PHI 04/03/1998 PHI vs. LAC W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -1
+p93
+aVScott Williams PHI 04/03/1998 PHI vs. LAC W 18 4 2 3 66.7 0 0 - 0 0 - 2 5 7 0 0 0 0 4 -8
+p94
+aVAllen Iverson PHI 04/03/1998 PHI vs. LAC W 41 21 10 20 50.0 0 2 0.0 1 2 50.0 4 5 9 7 3 0 2 4 15
+p95
+aVScott Williams PHI 04/01/1998 PHI @ WAS W 12 6 3 4 75.0 0 0 - 0 0 - 3 2 5 0 1 0 0 2 9
+p96
+aVAllen Iverson PHI 04/01/1998 PHI @ WAS W 42 30 11 21 52.4 1 2 50.0 7 10 70.0 1 5 6 6 3 1 1 2 14
+p97
+aVMark Davis PHI 04/01/1998 PHI @ WAS W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 2 1 8
+p98
+aVTheo Ratliff PHI 04/01/1998 PHI @ WAS W 34 8 4 6 66.7 0 0 - 0 0 - 4 5 9 2 0 3 2 3 23
+p99
+aVAaron McKie PHI 04/01/1998 PHI @ WAS W 34 7 3 7 42.9 1 2 50.0 0 1 0.0 0 2 2 4 3 1 0 4 17
+p100
+aVDerrick Coleman PHI 04/01/1998 PHI @ WAS W 36 30 11 21 52.4 2 4 50.0 6 6 100.0 2 9 11 1 1 1 3 2 8
+p101
+aVTim Thomas PHI 04/01/1998 PHI @ WAS W 20 2 1 9 11.1 0 2 0.0 0 0 - 0 3 3 1 0 0 3 2 -1
+p102
+aVJoe Smith PHI 04/01/1998 PHI @ WAS W 25 15 4 7 57.1 0 0 - 7 8 87.5 0 1 1 0 0 0 1 3 15
+p103
+aVEric Snow PHI 04/01/1998 PHI @ WAS W 25 9 4 8 50.0 0 1 0.0 1 1 100.0 1 3 4 6 3 0 2 3 14
+p104
+aVAnthony Parker PHI 04/01/1998 PHI @ WAS W 7 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 0 -2
+p105
+aVDerrick Coleman PHI 03/31/1998 PHI @ CHH L 43 12 4 18 22.2 0 2 0.0 4 8 50.0 3 10 13 3 1 2 3 1 -10
+p106
+aVScott Williams PHI 03/31/1998 PHI @ CHH L 29 2 1 2 50.0 0 1 0.0 0 0 - 2 3 5 3 1 2 0 4 -15
+p107
+aVEric Snow PHI 03/31/1998 PHI @ CHH L 19 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 1 1 1 -4
+p108
+aVAnthony Parker PHI 03/31/1998 PHI @ CHH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p109
+aVAllen Iverson PHI 03/31/1998 PHI @ CHH L 39 28 12 24 50.0 2 4 50.0 2 5 40.0 1 0 1 2 2 0 3 3 -11
+p110
+aVMark Davis PHI 03/31/1998 PHI @ CHH L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 3
+p111
+aVBenoit Benjamin PHI 03/31/1998 PHI @ CHH L 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 0 1 7
+p112
+aVJoe Smith PHI 03/31/1998 PHI @ CHH L 21 4 1 4 25.0 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 4
+p113
+aVTim Thomas PHI 03/31/1998 PHI @ CHH L 29 19 8 14 57.1 3 5 60.0 0 0 - 2 1 3 1 0 0 1 3 -15
+p114
+aVAaron McKie PHI 03/31/1998 PHI @ CHH L 25 7 3 8 37.5 1 3 33.3 0 0 - 0 1 1 3 2 1 1 1 -4
+p115
+aVBrian Shaw PHI 03/31/1998 PHI @ CHH L 21 13 6 8 75.0 1 1 100.0 0 0 - 1 2 3 7 2 0 0 3 5
+p116
+aVAllen Iverson PHI 03/29/1998 PHI vs. BOS W 43 20 5 13 38.5 1 2 50.0 9 12 75.0 1 4 5 7 1 1 3 1 7
+p117
+aVEric Snow PHI 03/29/1998 PHI vs. BOS W 25 7 3 7 42.9 0 1 0.0 1 2 50.0 2 1 3 3 1 0 0 4 -1
+p118
+aVTim Thomas PHI 03/29/1998 PHI vs. BOS W 21 9 4 6 66.7 0 1 0.0 1 2 50.0 1 1 2 0 0 0 3 2 5
+p119
+aVDerrick Coleman PHI 03/29/1998 PHI vs. BOS W 42 34 11 17 64.7 0 0 - 12 18 66.7 1 11 12 5 3 1 2 3 11
+p120
+aVAnthony Parker PHI 03/29/1998 PHI vs. BOS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -4
+p121
+aVJoe Smith PHI 03/29/1998 PHI vs. BOS W 25 12 4 9 44.4 0 0 - 4 5 80.0 2 3 5 0 1 0 2 5 9
+p122
+aVBrian Shaw PHI 03/29/1998 PHI vs. BOS W 27 7 3 8 37.5 0 2 0.0 1 1 100.0 3 4 7 6 0 0 3 1 -1
+p123
+aVAaron McKie PHI 03/29/1998 PHI vs. BOS W 23 0 0 3 0.0 0 0 - 0 0 - 1 2 3 4 3 0 1 3 9
+p124
+aVScott Williams PHI 03/29/1998 PHI vs. BOS W 27 10 4 9 44.4 0 1 0.0 2 4 50.0 1 3 4 1 0 2 0 3 -4
+p125
+aVBenoit Benjamin PHI 03/29/1998 PHI vs. BOS W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -6
+p126
+aVScott Williams PHI 03/27/1998 PHI vs. SAS L 14 2 1 4 25.0 0 1 0.0 0 0 - 2 3 5 0 1 0 3 3 3
+p127
+aVBrian Shaw PHI 03/27/1998 PHI vs. SAS L 30 0 0 2 0.0 0 0 - 0 0 - 0 2 2 6 1 0 1 2 -23
+p128
+aVBenoit Benjamin PHI 03/27/1998 PHI vs. SAS L 14 4 2 5 40.0 0 0 - 0 0 - 3 2 5 0 0 0 0 2 -7
+p129
+aVAllen Iverson PHI 03/27/1998 PHI vs. SAS L 36 24 10 17 58.8 0 1 0.0 4 6 66.7 1 1 2 6 1 0 1 2 -21
+p130
+aVAnthony Parker PHI 03/27/1998 PHI vs. SAS L 19 9 3 5 60.0 1 3 33.3 2 2 100.0 1 0 1 4 0 1 1 1 -5
+p131
+aVDerrick Coleman PHI 03/27/1998 PHI vs. SAS L 32 18 7 17 41.2 1 2 50.0 3 5 60.0 1 3 4 1 1 0 2 4 -31
+p132
+aVJoe Smith PHI 03/27/1998 PHI vs. SAS L 30 9 4 9 44.4 0 0 - 1 2 50.0 2 3 5 0 2 1 4 3 -16
+p133
+aVTheo Ratliff PHI 03/27/1998 PHI vs. SAS L 17 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 3 0 4 -15
+p134
+aVEric Snow PHI 03/27/1998 PHI vs. SAS L 16 2 0 0 - 0 0 - 2 2 100.0 0 2 2 2 0 0 3 1 -3
+p135
+aVTim Thomas PHI 03/27/1998 PHI vs. SAS L 33 13 5 17 29.4 2 7 28.6 1 2 50.0 3 2 5 1 0 0 3 5 -7
+p136
+aVScott Williams PHI 03/25/1998 PHI vs. NJN L 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 5
+p137
+aVTheo Ratliff PHI 03/25/1998 PHI vs. NJN L 17 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 2 1 1 5
+p138
+aVBrian Shaw PHI 03/25/1998 PHI vs. NJN L 27 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 3 1 0 1 2 5
+p139
+aVJoe Smith PHI 03/25/1998 PHI vs. NJN L 24 14 6 9 66.7 0 0 - 2 2 100.0 2 2 4 1 1 0 5 3 -10
+p140
+aVEric Snow PHI 03/25/1998 PHI vs. NJN L 15 6 3 4 75.0 0 0 - 0 0 - 1 1 2 3 3 0 3 3 2
+p141
+aVBenoit Benjamin PHI 03/25/1998 PHI vs. NJN L 11 4 2 2 100.0 0 0 - 0 2 0.0 1 1 2 0 1 1 0 1 -3
+p142
+aVMark Davis PHI 03/25/1998 PHI vs. NJN L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p143
+aVAaron McKie PHI 03/25/1998 PHI vs. NJN L 21 0 0 2 0.0 0 0 - 0 0 - 0 2 2 3 2 0 4 0 -5
+p144
+aVAllen Iverson PHI 03/25/1998 PHI vs. NJN L 38 17 8 20 40.0 0 3 0.0 1 1 100.0 2 0 2 1 2 0 3 6 -12
+p145
+aVTim Thomas PHI 03/25/1998 PHI vs. NJN L 34 10 4 11 36.4 0 0 - 2 2 100.0 1 1 2 1 1 0 1 5 -7
+p146
+aVDerrick Coleman PHI 03/25/1998 PHI vs. NJN L 42 24 7 16 43.8 0 3 0.0 10 11 90.9 4 13 17 5 0 1 6 3 -7
+p147
+aVEric Snow PHI 03/23/1998 PHI vs. DET L 10 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 0 1 -1
+p148
+aVScott Williams PHI 03/23/1998 PHI vs. DET L 12 10 4 4 100.0 0 0 - 2 2 100.0 3 1 4 1 0 1 1 4 -5
+p149
+aVBenoit Benjamin PHI 03/23/1998 PHI vs. DET L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p150
+aVJoe Smith PHI 03/23/1998 PHI vs. DET L 23 10 4 10 40.0 0 0 - 2 2 100.0 0 5 5 0 0 0 2 3 -4
+p151
+aVAllen Iverson PHI 03/23/1998 PHI vs. DET L 44 4 2 14 14.3 0 3 0.0 0 0 - 0 1 1 8 2 1 1 3 -14
+p152
+aVAaron McKie PHI 03/23/1998 PHI vs. DET L 24 0 0 4 0.0 0 0 - 0 0 - 0 3 3 5 2 0 2 5 -22
+p153
+aVTheo Ratliff PHI 03/23/1998 PHI vs. DET L 39 6 1 6 16.7 0 0 - 4 6 66.7 3 7 10 1 1 2 1 4 -17
+p154
+aVTim Thomas PHI 03/23/1998 PHI vs. DET L 20 10 4 8 50.0 1 2 50.0 1 2 50.0 1 0 1 1 0 0 0 6 -7
+p155
+aVMark Davis PHI 03/23/1998 PHI vs. DET L 4 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 -7
+p156
+aVBrian Shaw PHI 03/23/1998 PHI vs. DET L 25 11 3 10 30.0 1 3 33.3 4 6 66.7 0 0 0 2 2 0 2 5 -2
+p157
+aVDerrick Coleman PHI 03/23/1998 PHI vs. DET L 33 25 8 15 53.3 0 2 0.0 9 9 100.0 4 9 13 0 0 0 0 3 4
+p158
+aVAllen Iverson PHI 03/22/1998 PHI @ BOS L 40 21 6 13 46.2 1 4 25.0 8 13 61.5 0 2 2 3 1 0 5 0 -8
+p159
+aVBrian Shaw PHI 03/22/1998 PHI @ BOS L 28 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 6 1 0 2 3 -15
+p160
+aVTim Thomas PHI 03/22/1998 PHI @ BOS L 26 16 5 12 41.7 1 2 50.0 5 7 71.4 4 2 6 3 2 0 3 1 -5
+p161
+aVAaron McKie PHI 03/22/1998 PHI @ BOS L 34 4 2 5 40.0 0 0 - 0 0 - 1 3 4 5 1 1 3 2 -5
+p162
+aVEric Snow PHI 03/22/1998 PHI @ BOS L 26 2 1 5 20.0 0 0 - 0 0 - 0 2 2 3 2 0 3 4 -20
+p163
+aVMark Davis PHI 03/22/1998 PHI @ BOS L 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 1 0 2 1 -9
+p164
+aVTheo Ratliff PHI 03/22/1998 PHI @ BOS L 42 27 10 15 66.7 0 0 - 7 7 100.0 3 8 11 1 0 3 1 3 -13
+p165
+aVScott Williams PHI 03/22/1998 PHI @ BOS L 29 14 6 12 50.0 0 0 - 2 2 100.0 4 1 5 1 0 0 2 4 -14
+p166
+aVAnthony Parker PHI 03/22/1998 PHI @ BOS L 7 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p167
+aVAaron McKie PHI 03/20/1998 PHI vs. UTA L 31 2 1 7 14.3 0 1 0.0 0 0 - 2 1 3 2 2 1 2 2 -14
+p168
+aVEric Snow PHI 03/20/1998 PHI vs. UTA L 14 6 3 5 60.0 0 0 - 0 0 - 0 1 1 4 2 0 0 1 -8
+p169
+aVAnthony Parker PHI 03/20/1998 PHI vs. UTA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p170
+aVScott Williams PHI 03/20/1998 PHI vs. UTA L 23 7 3 6 50.0 0 0 - 1 1 100.0 2 7 9 1 0 0 1 3 7
+p171
+aVMark Davis PHI 03/20/1998 PHI vs. UTA L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 4
+p172
+aVTim Thomas PHI 03/20/1998 PHI vs. UTA L 21 6 2 4 50.0 1 1 100.0 1 1 100.0 1 2 3 2 0 0 2 2 -6
+p173
+aVBrian Shaw PHI 03/20/1998 PHI vs. UTA L 25 9 4 9 44.4 1 3 33.3 0 1 0.0 0 2 2 6 0 0 2 2 -9
+p174
+aVKebu Stewart PHI 03/20/1998 PHI vs. UTA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p175
+aVBenoit Benjamin PHI 03/20/1998 PHI vs. UTA L 27 6 1 3 33.3 0 0 - 4 6 66.7 1 1 2 0 1 0 1 4 -7
+p176
+aVAllen Iverson PHI 03/20/1998 PHI vs. UTA L 40 28 11 21 52.4 1 3 33.3 5 7 71.4 1 2 3 3 1 0 6 4 -8
+p177
+aVTheo Ratliff PHI 03/20/1998 PHI vs. UTA L 39 9 4 12 33.3 0 0 - 1 2 50.0 1 7 8 3 0 4 2 5 -20
+p178
+aVAaron McKie PHI 03/18/1998 PHI @ DET W 38 12 5 11 45.5 2 5 40.0 0 0 - 2 6 8 8 1 0 1 3 7
+p179
+aVAllen Iverson PHI 03/18/1998 PHI @ DET W 46 38 12 22 54.5 0 4 0.0 14 16 87.5 1 0 1 6 4 0 4 0 10
+p180
+aVBrian Shaw PHI 03/18/1998 PHI @ DET W 18 6 3 9 33.3 0 2 0.0 0 0 - 1 3 4 2 0 0 1 5 8
+p181
+aVTim Thomas PHI 03/18/1998 PHI @ DET W 23 8 2 10 20.0 0 2 0.0 4 4 100.0 3 3 6 1 1 0 2 2 -14
+p182
+aVBenoit Benjamin PHI 03/18/1998 PHI @ DET W 22 9 3 5 60.0 0 0 - 3 5 60.0 1 6 7 0 0 1 2 2 -3
+p183
+aVEric Snow PHI 03/18/1998 PHI @ DET W 14 3 0 2 0.0 0 0 - 3 4 75.0 0 0 0 1 1 0 0 3 3
+p184
+aVScott Williams PHI 03/18/1998 PHI @ DET W 37 6 3 8 37.5 0 0 - 0 0 - 6 5 11 0 1 1 1 3 -5
+p185
+aVTheo Ratliff PHI 03/18/1998 PHI @ DET W 34 18 7 14 50.0 0 0 - 4 4 100.0 4 6 10 2 1 3 0 5 17
+p186
+aVMark Davis PHI 03/18/1998 PHI @ DET W 7 4 2 5 40.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 7
+p187
+aVTheo Ratliff PHI 03/17/1998 PHI @ NYK L 41 12 5 13 38.5 0 0 - 2 2 100.0 0 6 6 1 1 1 4 4 -5
+p188
+aVBenoit Benjamin PHI 03/17/1998 PHI @ NYK L 21 10 4 4 100.0 0 0 - 2 3 66.7 2 3 5 0 1 0 1 3 6
+p189
+aVMark Davis PHI 03/17/1998 PHI @ NYK L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 3
+p190
+aVAaron McKie PHI 03/17/1998 PHI @ NYK L 31 5 2 7 28.6 1 4 25.0 0 0 - 2 3 5 3 1 0 1 3 -6
+p191
+aVTim Thomas PHI 03/17/1998 PHI @ NYK L 36 22 5 10 50.0 2 4 50.0 10 13 76.9 0 4 4 1 1 0 2 5 -4
+p192
+aVEric Snow PHI 03/17/1998 PHI @ NYK L 19 9 3 5 60.0 1 1 100.0 2 2 100.0 0 1 1 2 2 0 0 3 -7
+p193
+aVJoe Smith PHI 03/17/1998 PHI @ NYK L 17 2 1 6 16.7 0 0 - 0 0 - 1 1 2 1 0 0 2 0 -14
+p194
+aVAllen Iverson PHI 03/17/1998 PHI @ NYK L 44 29 9 27 33.3 1 7 14.3 10 16 62.5 5 4 9 6 6 0 1 2 -3
+p195
+aVBrian Shaw PHI 03/17/1998 PHI @ NYK L 26 5 2 6 33.3 0 2 0.0 1 1 100.0 1 1 2 6 2 0 1 2 12
+p196
+aVKebu Stewart PHI 03/17/1998 PHI @ NYK L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p197
+aVEric Snow PHI 03/14/1998 PHI @ MIL W 18 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 4 3 0 0 3 7
+p198
+aVAllen Iverson PHI 03/14/1998 PHI @ MIL W 41 20 9 19 47.4 0 0 - 2 3 66.7 1 3 4 1 3 0 2 1 -2
+p199
+aVBrian Shaw PHI 03/14/1998 PHI @ MIL W 27 12 6 10 60.0 0 1 0.0 0 0 - 1 3 4 3 1 0 1 0 1
+p200
+aVTim Thomas PHI 03/14/1998 PHI @ MIL W 28 13 3 8 37.5 0 2 0.0 7 8 87.5 1 4 5 1 1 0 3 3 13
+p201
+aVBenoit Benjamin PHI 03/14/1998 PHI @ MIL W 16 6 3 4 75.0 0 0 - 0 0 - 0 4 4 0 0 0 2 2 10
+p202
+aVTheo Ratliff PHI 03/14/1998 PHI @ MIL W 41 11 4 12 33.3 0 0 - 3 6 50.0 5 6 11 0 1 4 3 4 -4
+p203
+aVJoe Smith PHI 03/14/1998 PHI @ MIL W 38 27 12 18 66.7 0 0 - 3 5 60.0 4 4 8 2 0 2 4 3 0
+p204
+aVAaron McKie PHI 03/14/1998 PHI @ MIL W 31 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 7 2 0 1 1 -5
+p205
+aVBrian Shaw PHI 03/13/1998 PHI vs. ATL W 24 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 5 0 0 3 4 9
+p206
+aVAnthony Parker PHI 03/13/1998 PHI vs. ATL W 3 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -2
+p207
+aVJoe Smith PHI 03/13/1998 PHI vs. ATL W 30 17 8 14 57.1 0 0 - 1 1 100.0 3 2 5 2 2 1 2 5 9
+p208
+aVMark Davis PHI 03/13/1998 PHI vs. ATL W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p209
+aVAaron McKie PHI 03/13/1998 PHI vs. ATL W 33 2 1 5 20.0 0 0 - 0 0 - 1 2 3 5 2 0 0 0 8
+p210
+aVBenoit Benjamin PHI 03/13/1998 PHI vs. ATL W 19 4 0 5 0.0 0 0 - 4 6 66.7 4 5 9 1 0 1 3 2 5
+p211
+aVTim Thomas PHI 03/13/1998 PHI vs. ATL W 30 20 8 12 66.7 1 5 20.0 3 4 75.0 1 5 6 0 1 0 3 2 21
+p212
+aVTheo Ratliff PHI 03/13/1998 PHI vs. ATL W 37 17 6 15 40.0 0 0 - 5 6 83.3 5 9 14 1 1 5 2 3 17
+p213
+aVKebu Stewart PHI 03/13/1998 PHI vs. ATL W 8 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 2 7
+p214
+aVWilliam Cunningham PHI 03/13/1998 PHI vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 4
+p215
+aVAllen Iverson PHI 03/13/1998 PHI vs. ATL W 39 34 15 26 57.7 1 2 50.0 3 3 100.0 1 5 6 10 0 0 1 0 32
+p216
+aVEric Snow PHI 03/13/1998 PHI vs. ATL W 12 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 1 0 0 2 -3
+p217
+aVBrian Shaw PHI 03/11/1998 PHI vs. WAS W 30 0 0 6 0.0 0 2 0.0 0 0 - 2 6 8 7 2 1 2 2 -5
+p218
+aVMark Davis PHI 03/11/1998 PHI vs. WAS W 8 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -14
+p219
+aVAnthony Parker PHI 03/11/1998 PHI vs. WAS W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -2
+p220
+aVJoe Smith PHI 03/11/1998 PHI vs. WAS W 37 15 4 14 28.6 0 0 - 7 7 100.0 7 7 14 2 1 0 3 5 7
+p221
+aVTheo Ratliff PHI 03/11/1998 PHI vs. WAS W 44 18 8 11 72.7 0 0 - 2 6 33.3 1 8 9 1 0 3 1 5 5
+p222
+aVTim Thomas PHI 03/11/1998 PHI vs. WAS W 14 9 4 7 57.1 1 2 50.0 0 2 0.0 2 4 6 0 0 0 1 2 13
+p223
+aVEric Snow PHI 03/11/1998 PHI vs. WAS W 14 3 1 2 50.0 0 1 0.0 1 2 50.0 1 1 2 1 1 0 1 1 -4
+p224
+aVKebu Stewart PHI 03/11/1998 PHI vs. WAS W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 2 1 -6
+p225
+aVAaron McKie PHI 03/11/1998 PHI vs. WAS W 41 10 5 9 55.6 0 1 0.0 0 0 - 0 6 6 3 7 0 2 5 7
+p226
+aVAllen Iverson PHI 03/11/1998 PHI vs. WAS W 39 32 11 21 52.4 1 2 50.0 9 9 100.0 2 0 2 5 0 0 4 4 9
+p227
+aVEric Snow PHI 03/09/1998 PHI vs. ORL L 17 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 1 0 2 4 -7
+p228
+aVMark Davis PHI 03/09/1998 PHI vs. ORL L 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 1 0 1 2 -3
+p229
+aVTheo Ratliff PHI 03/09/1998 PHI vs. ORL L 38 9 4 5 80.0 0 0 - 1 2 50.0 0 3 3 0 0 6 2 5 -13
+p230
+aVBrian Shaw PHI 03/09/1998 PHI vs. ORL L 13 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 5 5
+p231
+aVKebu Stewart PHI 03/09/1998 PHI vs. ORL L 22 6 2 2 100.0 0 0 - 2 6 33.3 1 2 3 0 2 0 1 1 3
+p232
+aVAnthony Parker PHI 03/09/1998 PHI vs. ORL L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 4
+p233
+aVTim Thomas PHI 03/09/1998 PHI vs. ORL L 31 15 3 16 18.8 2 5 40.0 7 8 87.5 3 4 7 2 0 0 3 4 -6
+p234
+aVAaron McKie PHI 03/09/1998 PHI vs. ORL L 25 4 1 6 16.7 0 1 0.0 2 2 100.0 1 6 7 1 1 0 0 4 -10
+p235
+aVAllen Iverson PHI 03/09/1998 PHI vs. ORL L 42 19 7 14 50.0 1 2 50.0 4 6 66.7 2 1 3 7 2 0 4 4 -13
+p236
+aVJoe Smith PHI 03/09/1998 PHI vs. ORL L 36 16 7 16 43.8 0 0 - 2 2 100.0 3 9 12 0 0 1 3 3 -10
+p237
+aVJoe Smith PHI 03/08/1998 PHI @ WAS L 27 10 4 10 40.0 0 0 - 2 2 100.0 4 6 10 0 0 1 1 4 -4
+p238
+aVTim Thomas PHI 03/08/1998 PHI @ WAS L 23 9 2 6 33.3 1 2 50.0 4 5 80.0 0 4 4 2 1 2 0 4 2
+p239
+aVTheo Ratliff PHI 03/08/1998 PHI @ WAS L 37 16 6 9 66.7 0 0 - 4 4 100.0 2 4 6 0 0 1 0 5 -16
+p240
+aVEric Snow PHI 03/08/1998 PHI @ WAS L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -10
+p241
+aVBrian Shaw PHI 03/08/1998 PHI @ WAS L 26 7 3 8 37.5 0 1 0.0 1 2 50.0 0 6 6 3 1 0 1 3 -1
+p242
+aVAaron McKie PHI 03/08/1998 PHI @ WAS L 37 10 4 11 36.4 0 1 0.0 2 2 100.0 0 3 3 3 0 1 0 4 0
+p243
+aVDerrick Coleman PHI 03/08/1998 PHI @ WAS L 23 21 5 11 45.5 0 1 0.0 11 13 84.6 1 3 4 3 1 2 1 2 -4
+p244
+aVMark Davis PHI 03/08/1998 PHI @ WAS L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -5
+p245
+aVAllen Iverson PHI 03/08/1998 PHI @ WAS L 38 16 4 14 28.6 0 0 - 8 8 100.0 1 0 1 5 1 0 3 0 -14
+p246
+aVKebu Stewart PHI 03/08/1998 PHI @ WAS L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 7
+p247
+aVBrian Shaw PHI 03/06/1998 PHI vs. NYK W 24 0 0 5 0.0 0 1 0.0 0 0 - 0 4 4 7 0 1 0 1 11
+p248
+aVEric Snow PHI 03/06/1998 PHI vs. NYK W 13 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 1 0 8
+p249
+aVAllen Iverson PHI 03/06/1998 PHI vs. NYK W 42 22 9 16 56.3 0 2 0.0 4 7 57.1 0 6 6 7 1 1 4 2 8
+p250
+aVJoe Smith PHI 03/06/1998 PHI vs. NYK W 22 15 5 9 55.6 0 0 - 5 6 83.3 0 4 4 0 2 1 2 5 -4
+p251
+aVMark Davis PHI 03/06/1998 PHI vs. NYK W 20 4 1 5 20.0 0 0 - 2 2 100.0 3 1 4 1 0 0 2 1 5
+p252
+aVTheo Ratliff PHI 03/06/1998 PHI vs. NYK W 39 10 2 7 28.6 0 0 - 6 8 75.0 3 9 12 0 0 4 1 3 4
+p253
+aVAaron McKie PHI 03/06/1998 PHI vs. NYK W 38 5 2 8 25.0 1 2 50.0 0 0 - 2 1 3 2 3 0 0 1 2
+p254
+aVDerrick Coleman PHI 03/06/1998 PHI vs. NYK W 41 22 8 18 44.4 0 3 0.0 6 7 85.7 3 8 11 1 1 0 2 4 11
+p255
+aVDerrick Coleman PHI 03/04/1998 PHI vs. MIL W 44 19 5 15 33.3 0 0 - 9 9 100.0 2 9 11 4 1 1 3 3 12
+p256
+aVScott Williams PHI 03/04/1998 PHI vs. MIL W 12 8 4 6 66.7 0 0 - 0 1 0.0 3 1 4 1 0 1 0 0 -3
+p257
+aVAllen Iverson PHI 03/04/1998 PHI vs. MIL W 38 12 5 14 35.7 0 0 - 2 7 28.6 2 3 5 5 1 1 1 1 9
+p258
+aVMark Davis PHI 03/04/1998 PHI vs. MIL W 14 6 3 8 37.5 0 0 - 0 1 0.0 2 1 3 0 1 0 1 1 -2
+p259
+aVJoe Smith PHI 03/04/1998 PHI vs. MIL W 26 15 6 9 66.7 0 0 - 3 7 42.9 1 3 4 1 1 1 0 2 12
+p260
+aVAaron McKie PHI 03/04/1998 PHI vs. MIL W 34 10 4 8 50.0 0 0 - 2 2 100.0 2 5 7 4 6 0 2 5 2
+p261
+aVTheo Ratliff PHI 03/04/1998 PHI vs. MIL W 35 13 5 13 38.5 0 0 - 3 6 50.0 4 3 7 1 2 3 3 2 9
+p262
+aVEric Snow PHI 03/04/1998 PHI vs. MIL W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -3
+p263
+aVBrian Shaw PHI 03/04/1998 PHI vs. MIL W 26 4 2 7 28.6 0 0 - 0 0 - 0 2 2 3 0 0 1 2 -1
+p264
+aVTim Thomas PHI 02/28/1998 PHI @ SAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p265
+aVAaron McKie PHI 02/28/1998 PHI @ SAS L 27 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -8
+p266
+aVEric Snow PHI 02/28/1998 PHI @ SAS L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 0 0 0
+p267
+aVAnthony Parker PHI 02/28/1998 PHI @ SAS L 0 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p268
+aVAllen Iverson PHI 02/28/1998 PHI @ SAS L 41 19 9 22 40.9 0 1 0.0 1 3 33.3 0 4 4 4 1 0 1 1 -5
+p269
+aVJoe Smith PHI 02/28/1998 PHI @ SAS L 32 12 5 10 50.0 0 0 - 2 2 100.0 5 0 5 3 2 1 1 4 -2
+p270
+aVScott Williams PHI 02/28/1998 PHI @ SAS L 15 2 0 5 0.0 0 0 - 2 2 100.0 1 3 4 0 0 2 0 2 -3
+p271
+aVBrian Shaw PHI 02/28/1998 PHI @ SAS L 33 3 1 12 8.3 0 3 0.0 1 2 50.0 3 2 5 5 0 1 0 5 -21
+p272
+aVKebu Stewart PHI 02/28/1998 PHI @ SAS L 7 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 1 1 1 -3
+p273
+aVTheo Ratliff PHI 02/28/1998 PHI @ SAS L 32 12 5 13 38.5 0 0 - 2 2 100.0 3 2 5 0 0 4 1 4 -17
+p274
+aVDerrick Coleman PHI 02/28/1998 PHI @ SAS L 43 35 12 27 44.4 4 7 57.1 7 7 100.0 4 8 12 5 0 0 1 5 -1
+p275
+aVEric Snow PHI 02/27/1998 PHI @ DEN W 22 8 3 5 60.0 0 1 0.0 2 2 100.0 0 3 3 4 1 0 3 2 -14
+p276
+aVAllen Iverson PHI 02/27/1998 PHI @ DEN W 43 18 7 19 36.8 0 1 0.0 4 6 66.7 0 3 3 6 4 0 3 1 16
+p277
+aVJoe Smith PHI 02/27/1998 PHI @ DEN W 14 5 1 12 8.3 0 0 - 3 3 100.0 5 1 6 0 0 0 0 3 3
+p278
+aVTheo Ratliff PHI 02/27/1998 PHI @ DEN W 42 10 5 8 62.5 0 0 - 0 2 0.0 7 5 12 0 0 4 3 3 13
+p279
+aVScott Williams PHI 02/27/1998 PHI @ DEN W 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -4
+p280
+aVBrian Shaw PHI 02/27/1998 PHI @ DEN W 29 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 3 1 0 1 6 -10
+p281
+aVTim Thomas PHI 02/27/1998 PHI @ DEN W 32 11 5 7 71.4 1 1 100.0 0 0 - 1 3 4 1 0 0 2 3 -2
+p282
+aVAnthony Parker PHI 02/27/1998 PHI @ DEN W 6 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 0 8
+p283
+aVDerrick Coleman PHI 02/27/1998 PHI @ DEN W 38 19 6 15 40.0 1 2 50.0 6 7 85.7 4 6 10 2 1 2 0 0 -5
+p284
+aVDerrick Coleman PHI 02/25/1998 PHI @ LAC L 41 25 9 18 50.0 0 1 0.0 7 10 70.0 2 4 6 1 2 2 3 1 -7
+p285
+aVEric Snow PHI 02/25/1998 PHI @ LAC L 22 0 0 3 0.0 0 0 - 0 0 - 0 2 2 4 0 0 3 4 -17
+p286
+aVTim Thomas PHI 02/25/1998 PHI @ LAC L 24 11 4 9 44.4 1 2 50.0 2 4 50.0 3 4 7 0 2 0 2 3 -10
+p287
+aVBrian Shaw PHI 02/25/1998 PHI @ LAC L 31 24 10 14 71.4 2 2 100.0 2 4 50.0 1 3 4 3 0 0 1 2 11
+p288
+aVAllen Iverson PHI 02/25/1998 PHI @ LAC L 43 14 7 18 38.9 0 4 0.0 0 0 - 1 0 1 9 1 0 2 4 -10
+p289
+aVTheo Ratliff PHI 02/25/1998 PHI @ LAC L 24 13 6 11 54.5 0 0 - 1 2 50.0 4 2 6 0 0 2 0 5 -15
+p290
+aVKebu Stewart PHI 02/25/1998 PHI @ LAC L 5 3 0 2 0.0 0 0 - 3 4 75.0 2 1 3 0 1 0 0 0 7
+p291
+aVJoe Smith PHI 02/25/1998 PHI @ LAC L 30 14 7 13 53.8 0 0 - 0 1 0.0 3 2 5 2 1 0 2 5 -4
+p292
+aVAaron McKie PHI 02/25/1998 PHI @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p293
+aVScott Williams PHI 02/25/1998 PHI @ LAC L 13 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 4 -5
+p294
+aVMark Davis PHI 02/25/1998 PHI @ LAC L 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 7
+p295
+aVMark Davis PHI 02/24/1998 PHI @ PHX W 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -5
+p296
+aVDerrick Coleman PHI 02/24/1998 PHI @ PHX W 41 18 8 21 38.1 0 3 0.0 2 3 66.7 4 6 10 0 2 0 6 4 7
+p297
+aVBrian Shaw PHI 02/24/1998 PHI @ PHX W 11 3 1 5 20.0 1 1 100.0 0 0 - 0 0 0 2 0 0 1 0 -11
+p298
+aVEric Snow PHI 02/24/1998 PHI @ PHX W 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 2 0 1 5 8
+p299
+aVAllen Iverson PHI 02/24/1998 PHI @ PHX W 41 27 8 20 40.0 1 5 20.0 10 11 90.9 0 3 3 5 2 0 3 2 7
+p300
+aVTheo Ratliff PHI 02/24/1998 PHI @ PHX W 34 8 3 6 50.0 0 0 - 2 5 40.0 3 7 10 0 1 4 1 4 -1
+p301
+aVJoe Smith PHI 02/24/1998 PHI @ PHX W 24 8 3 8 37.5 0 0 - 2 2 100.0 0 3 3 1 1 1 1 4 -7
+p302
+aVTim Thomas PHI 02/24/1998 PHI @ PHX W 24 7 2 8 25.0 1 3 33.3 2 4 50.0 1 5 6 1 4 0 1 3 -6
+p303
+aVAaron McKie PHI 02/24/1998 PHI @ PHX W 34 12 6 10 60.0 0 1 0.0 0 0 - 2 3 5 7 5 1 3 2 13
+p304
+aVJoe Smith PHI 02/22/1998 PHI vs. IND L 16 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 0 0 1 3 2 -17
+p305
+aVAllen Iverson PHI 02/22/1998 PHI vs. IND L 40 33 14 22 63.6 3 3 100.0 2 5 40.0 0 4 4 8 2 0 2 2 6
+p306
+aVEric Snow PHI 02/22/1998 PHI vs. IND L 19 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 3 1 0 1 2 0
+p307
+aVScott Williams PHI 02/22/1998 PHI vs. IND L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -9
+p308
+aVTim Thomas PHI 02/22/1998 PHI vs. IND L 32 14 6 12 50.0 1 3 33.3 1 2 50.0 0 2 2 1 2 0 1 2 10
+p309
+aVTheo Ratliff PHI 02/22/1998 PHI vs. IND L 38 10 3 7 42.9 0 0 - 4 6 66.7 2 3 5 3 0 2 0 3 -1
+p310
+aVAaron McKie PHI 02/22/1998 PHI vs. IND L 38 6 3 6 50.0 0 2 0.0 0 0 - 1 4 5 3 1 0 0 2 -14
+p311
+aVDerrick Coleman PHI 02/22/1998 PHI vs. IND L 42 20 7 16 43.8 0 2 0.0 6 9 66.7 4 7 11 1 2 2 1 0 0
+p312
+aVMark Davis PHI 02/21/1998 PHI @ NJN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p313
+aVTheo Ratliff PHI 02/21/1998 PHI @ NJN W 22 5 2 7 28.6 0 0 - 1 4 25.0 2 4 6 0 0 3 1 6 14
+p314
+aVAaron McKie PHI 02/21/1998 PHI @ NJN W 40 15 5 13 38.5 0 1 0.0 5 7 71.4 0 5 5 1 2 1 1 0 7
+p315
+aVDerrick Coleman PHI 02/21/1998 PHI @ NJN W 40 24 6 14 42.9 1 1 100.0 11 13 84.6 1 8 9 0 0 0 2 3 13
+p316
+aVTim Thomas PHI 02/21/1998 PHI @ NJN W 32 12 5 13 38.5 2 5 40.0 0 0 - 3 1 4 0 0 0 3 1 15
+p317
+aVScott Williams PHI 02/21/1998 PHI @ NJN W 19 8 2 2 100.0 0 0 - 4 4 100.0 3 3 6 0 0 1 0 2 -5
+p318
+aVJoe Smith PHI 02/21/1998 PHI @ NJN W 17 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -5
+p319
+aVAllen Iverson PHI 02/21/1998 PHI @ NJN W 45 27 10 18 55.6 0 0 - 7 10 70.0 3 4 7 12 3 1 5 4 11
+p320
+aVEric Snow PHI 02/21/1998 PHI @ NJN W 20 3 1 2 50.0 0 0 - 1 4 25.0 3 2 5 2 4 0 0 3 1
+p321
+aVJoe Smith PHI 02/19/1998 PHI @ IND L 14 7 2 10 20.0 0 0 - 3 4 75.0 0 0 0 0 0 0 1 4 -10
+p322
+aVAllen Iverson PHI 02/19/1998 PHI @ IND L 31 13 5 9 55.6 0 2 0.0 3 6 50.0 0 3 3 5 1 0 6 4 10
+p323
+aVScott Williams PHI 02/19/1998 PHI @ IND L 14 2 0 3 0.0 0 0 - 2 2 100.0 3 1 4 0 0 2 0 1 -7
+p324
+aVAaron McKie PHI 02/19/1998 PHI @ IND L 20 4 2 6 33.3 0 0 - 0 0 - 1 1 2 1 0 0 1 5 5
+p325
+aVTheo Ratliff PHI 02/19/1998 PHI @ IND L 41 13 5 11 45.5 0 0 - 3 4 75.0 9 4 13 0 2 4 1 4 -7
+p326
+aVDerrick Coleman PHI 02/19/1998 PHI @ IND L 41 16 7 17 41.2 0 1 0.0 2 2 100.0 9 9 18 0 0 1 4 2 4
+p327
+aVMark Davis PHI 02/19/1998 PHI @ IND L 17 4 2 6 33.3 0 0 - 0 0 - 0 2 2 2 3 0 3 2 -16
+p328
+aVEric Snow PHI 02/19/1998 PHI @ IND L 28 2 1 4 25.0 0 0 - 0 0 - 0 3 3 7 2 0 1 2 -9
+p329
+aVTim Thomas PHI 02/19/1998 PHI @ IND L 34 16 5 18 27.8 1 7 14.3 5 5 100.0 3 5 8 0 2 1 0 3 5
+p330
+aVEric Snow PHI 02/17/1998 PHI vs. CLE W 24 6 1 3 33.3 0 0 - 4 4 100.0 2 0 2 7 2 0 1 5 7
+p331
+aVMark Davis PHI 02/17/1998 PHI vs. CLE W 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p332
+aVAaron McKie PHI 02/17/1998 PHI vs. CLE W 32 2 1 5 20.0 0 0 - 0 0 - 1 0 1 3 1 0 1 3 -6
+p333
+aVTerry Cummings PHI 02/17/1998 PHI vs. CLE W 14 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 0 8
+p334
+aVScott Williams PHI 02/17/1998 PHI vs. CLE W 19 12 5 10 50.0 0 0 - 2 2 100.0 5 2 7 0 1 1 0 3 -5
+p335
+aVAllen Iverson PHI 02/17/1998 PHI vs. CLE W 43 27 9 19 47.4 0 1 0.0 9 12 75.0 2 2 4 8 3 0 5 3 -4
+p336
+aVTim Thomas PHI 02/17/1998 PHI vs. CLE W 30 11 3 10 30.0 0 1 0.0 5 6 83.3 3 1 4 3 1 0 2 2 6
+p337
+aVTheo Ratliff PHI 02/17/1998 PHI vs. CLE W 27 17 7 10 70.0 0 0 - 3 4 75.0 1 2 3 0 1 4 3 6 0
+p338
+aVDerrick Coleman PHI 02/17/1998 PHI vs. CLE W 36 17 4 13 30.8 2 2 100.0 7 10 70.0 2 13 15 3 1 3 4 5 -1
+p339
+aVEric Snow PHI 02/14/1998 PHI vs. NJN L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 2 0 0 2 -6
+p340
+aVAllen Iverson PHI 02/14/1998 PHI vs. NJN L 38 26 9 16 56.3 1 1 100.0 7 10 70.0 1 2 3 7 2 0 4 1 2
+p341
+aVClar. Weatherspoon PHI 02/14/1998 PHI vs. NJN L 18 5 0 5 0.0 0 0 - 5 6 83.3 5 5 10 2 0 1 2 1 -10
+p342
+aVDerrick Coleman PHI 02/14/1998 PHI vs. NJN L 42 18 6 17 35.3 0 2 0.0 6 8 75.0 6 10 16 4 1 3 3 2 3
+p343
+aVTheo Ratliff PHI 02/14/1998 PHI vs. NJN L 33 6 2 7 28.6 0 0 - 2 2 100.0 1 6 7 0 0 7 4 3 -5
+p344
+aVTim Thomas PHI 02/14/1998 PHI vs. NJN L 37 27 10 16 62.5 2 4 50.0 5 5 100.0 1 5 6 0 1 0 2 3 -10
+p345
+aVMark Davis PHI 02/14/1998 PHI vs. NJN L 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 4
+p346
+aVJim Jackson PHI 02/14/1998 PHI vs. NJN L 37 11 5 13 38.5 1 6 16.7 0 0 - 2 2 4 7 1 0 4 1 -8
+p347
+aVScott Williams PHI 02/14/1998 PHI vs. NJN L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p348
+aVAaron McKie PHI 02/14/1998 PHI vs. NJN L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -5
+p349
+aVAaron McKie PHI 02/13/1998 PHI @ CHH L 18 0 0 2 0.0 0 0 - 0 0 - 1 3 4 4 1 0 0 2 -2
+p350
+aVTheo Ratliff PHI 02/13/1998 PHI @ CHH L 36 17 8 9 88.9 0 0 - 1 3 33.3 3 5 8 2 2 3 2 5 1
+p351
+aVClar. Weatherspoon PHI 02/13/1998 PHI @ CHH L 18 4 1 3 33.3 0 0 - 2 2 100.0 0 4 4 0 0 1 2 1 -1
+p352
+aVTim Thomas PHI 02/13/1998 PHI @ CHH L 20 6 2 5 40.0 0 2 0.0 2 2 100.0 0 2 2 1 1 0 0 2 -3
+p353
+aVDerrick Coleman PHI 02/13/1998 PHI @ CHH L 42 16 5 13 38.5 1 2 50.0 5 6 83.3 2 6 8 2 0 1 4 3 -14
+p354
+aVJim Jackson PHI 02/13/1998 PHI @ CHH L 47 20 8 20 40.0 4 7 57.1 0 1 0.0 0 7 7 5 1 1 2 2 -9
+p355
+aVAllen Iverson PHI 02/13/1998 PHI @ CHH L 36 30 11 19 57.9 2 4 50.0 6 9 66.7 1 0 1 3 0 0 1 3 -8
+p356
+aVEric Snow PHI 02/13/1998 PHI @ CHH L 22 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 6 1 0 1 1 1
+p357
+aVClar. Weatherspoon PHI 02/11/1998 PHI vs. DAL W 23 6 2 4 50.0 0 0 - 2 2 100.0 3 6 9 0 0 3 2 3 -2
+p358
+aVTheo Ratliff PHI 02/11/1998 PHI vs. DAL W 35 10 2 5 40.0 0 0 - 6 7 85.7 5 6 11 2 1 3 1 4 -6
+p359
+aVTim Thomas PHI 02/11/1998 PHI vs. DAL W 23 16 7 12 58.3 1 3 33.3 1 1 100.0 0 3 3 1 2 0 1 2 -3
+p360
+aVJim Jackson PHI 02/11/1998 PHI vs. DAL W 32 19 6 12 50.0 3 5 60.0 4 4 100.0 0 2 2 3 0 0 3 4 -5
+p361
+aVEric Snow PHI 02/11/1998 PHI vs. DAL W 13 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 4 1 0 0 0 20
+p362
+aVAaron McKie PHI 02/11/1998 PHI vs. DAL W 20 4 1 4 25.0 0 1 0.0 2 3 66.7 0 3 3 1 1 0 1 2 12
+p363
+aVMark Davis PHI 02/11/1998 PHI vs. DAL W 15 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 3 2 -11
+p364
+aVDerrick Coleman PHI 02/11/1998 PHI vs. DAL W 38 7 2 9 22.2 0 2 0.0 3 3 100.0 3 10 13 5 0 0 4 2 9
+p365
+aVAllen Iverson PHI 02/11/1998 PHI vs. DAL W 43 27 10 16 62.5 4 4 100.0 3 5 60.0 0 2 2 6 2 0 9 2 -9
+p366
+aVClar. Weatherspoon PHI 02/04/1998 PHI vs. MIA L 35 6 2 3 66.7 0 0 - 2 2 100.0 1 6 7 1 2 2 1 2 -8
+p367
+aVTim Thomas PHI 02/04/1998 PHI vs. MIA L 31 4 1 9 11.1 0 3 0.0 2 2 100.0 1 2 3 2 1 0 1 3 -5
+p368
+aVDerrick Coleman PHI 02/04/1998 PHI vs. MIA L 39 18 5 13 38.5 1 2 50.0 7 9 77.8 1 2 3 1 0 2 1 6 -19
+p369
+aVAllen Iverson PHI 02/04/1998 PHI vs. MIA L 39 18 7 14 50.0 2 2 100.0 2 2 100.0 4 3 7 5 5 0 4 3 -14
+p370
+aVTheo Ratliff PHI 02/04/1998 PHI vs. MIA L 19 13 4 7 57.1 0 0 - 5 5 100.0 2 3 5 0 0 3 2 4 -12
+p371
+aVAaron McKie PHI 02/04/1998 PHI vs. MIA L 16 5 1 2 50.0 0 0 - 3 3 100.0 0 0 0 2 0 0 1 0 -7
+p372
+aVEric Snow PHI 02/04/1998 PHI vs. MIA L 11 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 1 1 2
+p373
+aVTerry Cummings PHI 02/04/1998 PHI vs. MIA L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -2
+p374
+aVJim Jackson PHI 02/04/1998 PHI vs. MIA L 33 14 5 14 35.7 1 3 33.3 3 4 75.0 1 3 4 6 1 0 3 1 -6
+p375
+aVScott Williams PHI 02/04/1998 PHI vs. MIA L 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p376
+aVAnthony Parker PHI 02/04/1998 PHI vs. MIA L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p377
+aVDerrick Coleman PHI 02/02/1998 PHI vs. PHX L 30 5 2 6 33.3 0 0 - 1 2 50.0 0 6 6 3 1 0 2 1 -1
+p378
+aVEric Snow PHI 02/02/1998 PHI vs. PHX L 10 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 1 3 0 2 2 -5
+p379
+aVTheo Ratliff PHI 02/02/1998 PHI vs. PHX L 36 12 5 9 55.6 0 0 - 2 4 50.0 2 5 7 2 1 2 0 3 -17
+p380
+aVClar. Weatherspoon PHI 02/02/1998 PHI vs. PHX L 36 8 3 8 37.5 0 0 - 2 2 100.0 5 2 7 2 1 0 0 1 -7
+p381
+aVAllen Iverson PHI 02/02/1998 PHI vs. PHX L 40 30 11 20 55.0 3 7 42.9 5 6 83.3 1 2 3 7 2 0 7 3 -1
+p382
+aVTim Thomas PHI 02/02/1998 PHI vs. PHX L 18 10 3 8 37.5 0 2 0.0 4 4 100.0 3 2 5 2 1 0 0 1 -5
+p383
+aVScott Williams PHI 02/02/1998 PHI vs. PHX L 19 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 1 2 0 2 -4
+p384
+aVAaron McKie PHI 02/02/1998 PHI vs. PHX L 15 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -1
+p385
+aVJim Jackson PHI 02/02/1998 PHI vs. PHX L 36 22 10 16 62.5 2 5 40.0 0 0 - 1 3 4 6 2 0 2 5 -4
+p386
+aVTheo Ratliff PHI 01/31/1998 PHI vs. HOU L 33 9 4 6 66.7 0 0 - 1 3 33.3 1 1 2 1 0 5 2 3 -11
+p387
+aVTerry Cummings PHI 01/31/1998 PHI vs. HOU L 8 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -4
+p388
+aVScott Williams PHI 01/31/1998 PHI vs. HOU L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p389
+aVTim Thomas PHI 01/31/1998 PHI vs. HOU L 25 9 4 7 57.1 1 3 33.3 0 0 - 2 3 5 2 0 0 0 4 -13
+p390
+aVDerrick Coleman PHI 01/31/1998 PHI vs. HOU L 34 18 8 15 53.3 0 1 0.0 2 2 100.0 5 7 12 3 1 3 3 3 -8
+p391
+aVAnthony Parker PHI 01/31/1998 PHI vs. HOU L 3 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p392
+aVMark Davis PHI 01/31/1998 PHI vs. HOU L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 1 1 1 0 5
+p393
+aVJim Jackson PHI 01/31/1998 PHI vs. HOU L 43 22 9 11 81.8 0 0 - 4 4 100.0 1 4 5 6 0 0 8 4 -16
+p394
+aVAaron McKie PHI 01/31/1998 PHI vs. HOU L 15 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -10
+p395
+aVClar. Weatherspoon PHI 01/31/1998 PHI vs. HOU L 18 0 0 0 - 0 0 - 0 0 - 2 2 4 1 0 0 1 1 -11
+p396
+aVEric Snow PHI 01/31/1998 PHI vs. HOU L 13 4 2 3 66.7 0 1 0.0 0 1 0.0 0 0 0 3 2 0 0 3 -2
+p397
+aVAllen Iverson PHI 01/31/1998 PHI vs. HOU L 35 10 3 14 21.4 0 4 0.0 4 6 66.7 0 0 0 5 3 1 4 0 -14
+p398
+aVJim Jackson PHI 01/29/1998 PHI @ ATL L 42 9 4 12 33.3 0 0 - 1 1 100.0 3 1 4 6 1 0 1 3 -9
+p399
+aVMark Davis PHI 01/29/1998 PHI @ ATL L 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 1 1 1 1 -9
+p400
+aVAllen Iverson PHI 01/29/1998 PHI @ ATL L 40 18 5 14 35.7 1 4 25.0 7 7 100.0 0 5 5 4 1 0 7 2 -19
+p401
+aVEric Snow PHI 01/29/1998 PHI @ ATL L 13 4 2 3 66.7 0 0 - 0 0 - 0 0 0 4 0 0 0 1 9
+p402
+aVDerrick Coleman PHI 01/29/1998 PHI @ ATL L 45 24 9 16 56.3 4 7 57.1 2 2 100.0 1 10 11 2 0 0 3 2 -9
+p403
+aVTim Thomas PHI 01/29/1998 PHI @ ATL L 35 19 6 10 60.0 3 4 75.0 4 4 100.0 1 3 4 1 0 0 2 2 -10
+p404
+aVScott Williams PHI 01/29/1998 PHI @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p405
+aVAaron McKie PHI 01/29/1998 PHI @ ATL L 16 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 2 0 0
+p406
+aVTheo Ratliff PHI 01/29/1998 PHI @ ATL L 20 3 1 3 33.3 0 0 - 1 1 100.0 1 2 3 0 0 2 0 6 6
+p407
+aVClar. Weatherspoon PHI 01/29/1998 PHI @ ATL L 16 8 3 7 42.9 0 0 - 2 5 40.0 1 2 3 1 1 0 3 2 6
+p408
+aVTerry Cummings PHI 01/29/1998 PHI @ ATL L 29 14 6 11 54.5 0 0 - 2 2 100.0 1 4 5 0 1 0 0 5 -15
+p409
+aVTheo Ratliff PHI 01/28/1998 PHI vs. IND L 38 14 6 13 46.2 0 0 - 2 4 50.0 7 4 11 0 0 4 0 3 -5
+p410
+aVEric Snow PHI 01/28/1998 PHI vs. IND L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 2 2 0 1 2 0
+p411
+aVJim Jackson PHI 01/28/1998 PHI vs. IND L 41 21 8 15 53.3 1 3 33.3 4 6 66.7 1 5 6 4 2 0 5 5 -1
+p412
+aVDerrick Coleman PHI 01/28/1998 PHI vs. IND L 40 18 4 11 36.4 0 1 0.0 10 11 90.9 0 14 14 2 1 1 7 3 -1
+p413
+aVTerry Cummings PHI 01/28/1998 PHI vs. IND L 6 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -1
+p414
+aVAllen Iverson PHI 01/28/1998 PHI vs. IND L 41 6 2 11 18.2 0 1 0.0 2 2 100.0 0 6 6 6 1 2 3 5 -6
+p415
+aVTim Thomas PHI 01/28/1998 PHI vs. IND L 38 10 3 11 27.3 1 3 33.3 3 3 100.0 0 1 1 0 1 0 1 2 1
+p416
+aVAaron McKie PHI 01/28/1998 PHI vs. IND L 12 0 0 2 0.0 0 2 0.0 0 0 - 1 1 2 3 0 0 0 3 -5
+p417
+aVClar. Weatherspoon PHI 01/28/1998 PHI vs. IND L 18 5 1 4 25.0 0 0 - 3 5 60.0 0 2 2 0 0 1 0 4 2
+p418
+aVMark Davis PHI 01/28/1998 PHI vs. IND L 15 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 0 1 0 3 1 -1
+p419
+aVScott Williams PHI 01/28/1998 PHI vs. IND L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 2
+p420
+aVEric Snow PHI 01/26/1998 PHI @ TOR L 10 5 2 3 66.7 0 0 - 1 2 50.0 1 0 1 3 0 0 1 3 7
+p421
+aVAaron McKie PHI 01/26/1998 PHI @ TOR L 15 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -1
+p422
+aVTerry Cummings PHI 01/26/1998 PHI @ TOR L 10 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 1 1 0 0 1 1
+p423
+aVMark Davis PHI 01/26/1998 PHI @ TOR L 16 9 3 4 75.0 0 0 - 3 6 50.0 0 3 3 1 0 0 2 2 -9
+p424
+aVTim Thomas PHI 01/26/1998 PHI @ TOR L 32 14 6 12 50.0 0 3 0.0 2 2 100.0 2 1 3 3 1 2 6 2 2
+p425
+aVAllen Iverson PHI 01/26/1998 PHI @ TOR L 34 13 6 12 50.0 0 1 0.0 1 2 50.0 2 3 5 6 2 0 5 5 -6
+p426
+aVTheo Ratliff PHI 01/26/1998 PHI @ TOR L 30 10 3 10 30.0 0 0 - 4 6 66.7 3 4 7 1 0 4 0 3 -10
+p427
+aVClar. Weatherspoon PHI 01/26/1998 PHI @ TOR L 18 10 5 10 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 8
+p428
+aVDerrick Coleman PHI 01/26/1998 PHI @ TOR L 38 12 5 15 33.3 0 1 0.0 2 2 100.0 5 5 10 4 1 2 1 1 -4
+p429
+aVJim Jackson PHI 01/26/1998 PHI @ TOR L 37 8 3 9 33.3 0 2 0.0 2 2 100.0 2 7 9 6 2 0 3 1 -8
+p430
+aVJim Jackson PHI 01/24/1998 PHI @ CLE L 31 11 3 10 30.0 0 1 0.0 5 7 71.4 4 2 6 1 0 1 1 1 -3
+p431
+aVTerry Cummings PHI 01/24/1998 PHI @ CLE L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p432
+aVTim Thomas PHI 01/24/1998 PHI @ CLE L 22 11 5 11 45.5 1 3 33.3 0 4 0.0 2 1 3 1 0 0 4 1 -13
+p433
+aVTheo Ratliff PHI 01/24/1998 PHI @ CLE L 32 21 8 11 72.7 0 0 - 5 6 83.3 6 2 8 0 2 2 1 5 -1
+p434
+aVAllen Iverson PHI 01/24/1998 PHI @ CLE L 32 8 2 9 22.2 0 3 0.0 4 4 100.0 0 1 1 9 0 0 2 3 -18
+p435
+aVEric Snow PHI 01/24/1998 PHI @ CLE L 16 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 3 1 0 1 2 -1
+p436
+aVMark Davis PHI 01/24/1998 PHI @ CLE L 24 10 5 6 83.3 0 0 - 0 0 - 1 4 5 3 0 0 3 1 -8
+p437
+aVAaron McKie PHI 01/24/1998 PHI @ CLE L 18 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -14
+p438
+aVClar. Weatherspoon PHI 01/24/1998 PHI @ CLE L 18 8 3 8 37.5 0 0 - 2 2 100.0 2 4 6 0 0 0 2 0 -27
+p439
+aVAnthony Parker PHI 01/24/1998 PHI @ CLE L 3 6 2 2 100.0 1 1 100.0 1 2 50.0 0 0 0 0 0 0 0 0 4
+p440
+aVDerrick Coleman PHI 01/24/1998 PHI @ CLE L 34 7 3 14 21.4 0 1 0.0 1 3 33.3 4 9 13 2 2 1 5 2 -18
+p441
+aVScott Williams PHI 01/24/1998 PHI @ CLE L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 7
+p442
+aVEric Snow PHI 01/23/1998 PHI vs. POR W 11 7 2 2 100.0 0 0 - 3 3 100.0 0 0 0 0 2 0 2 0 3
+p443
+aVDerrick Coleman PHI 01/23/1998 PHI vs. POR W 37 22 7 15 46.7 0 1 0.0 8 11 72.7 1 9 10 2 0 1 7 2 9
+p444
+aVMark Davis PHI 01/23/1998 PHI vs. POR W 13 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -9
+p445
+aVTheo Ratliff PHI 01/23/1998 PHI vs. POR W 28 9 4 5 80.0 0 0 - 1 2 50.0 2 1 3 0 2 5 2 6 0
+p446
+aVClar. Weatherspoon PHI 01/23/1998 PHI vs. POR W 27 6 2 9 22.2 0 0 - 2 2 100.0 3 6 9 0 0 2 1 2 16
+p447
+aVAnthony Parker PHI 01/23/1998 PHI vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p448
+aVAaron McKie PHI 01/23/1998 PHI vs. POR W 16 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 0 1 0 8
+p449
+aVTerry Cummings PHI 01/23/1998 PHI vs. POR W 11 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 0 0 0 4 5
+p450
+aVAllen Iverson PHI 01/23/1998 PHI vs. POR W 37 22 10 18 55.6 0 1 0.0 2 2 100.0 1 3 4 6 5 0 0 4 8
+p451
+aVJim Jackson PHI 01/23/1998 PHI vs. POR W 32 12 2 6 33.3 1 2 50.0 7 7 100.0 0 3 3 4 0 0 0 3 3
+p452
+aVTim Thomas PHI 01/23/1998 PHI vs. POR W 28 10 2 10 20.0 1 3 33.3 5 8 62.5 1 2 3 3 1 0 0 3 12
+p453
+aVAllen Iverson PHI 01/21/1998 PHI @ MIA L 39 19 7 17 41.2 1 6 16.7 4 4 100.0 2 4 6 4 3 0 3 2 -9
+p454
+aVEric Snow PHI 01/21/1998 PHI @ MIA L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 2 2
+p455
+aVTheo Ratliff PHI 01/21/1998 PHI @ MIA L 27 10 2 3 66.7 0 0 - 6 8 75.0 1 0 1 1 0 5 2 1 -1
+p456
+aVClar. Weatherspoon PHI 01/21/1998 PHI @ MIA L 18 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 0 1 0 2 1 7
+p457
+aVDerrick Coleman PHI 01/21/1998 PHI @ MIA L 42 22 9 13 69.2 0 1 0.0 4 6 66.7 1 9 10 7 2 0 3 3 -9
+p458
+aVMark Davis PHI 01/21/1998 PHI @ MIA L 15 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 1 1 1 2 2
+p459
+aVTerry Cummings PHI 01/21/1998 PHI @ MIA L 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 3 -5
+p460
+aVJim Jackson PHI 01/21/1998 PHI @ MIA L 40 5 2 8 25.0 0 1 0.0 1 2 50.0 1 1 2 0 0 1 5 2 -6
+p461
+aVAaron McKie PHI 01/21/1998 PHI @ MIA L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p462
+aVTim Thomas PHI 01/21/1998 PHI @ MIA L 31 20 7 13 53.8 3 6 50.0 3 4 75.0 0 3 3 1 0 0 2 1 -3
+p463
+aVTheo Ratliff PHI 01/19/1998 PHI vs. SAC W 35 7 0 3 0.0 0 0 - 7 8 87.5 2 11 13 1 1 8 0 1 22
+p464
+aVMark Davis PHI 01/19/1998 PHI vs. SAC W 15 14 6 10 60.0 0 0 - 2 4 50.0 4 4 8 1 0 0 3 1 10
+p465
+aVEric Snow PHI 01/19/1998 PHI vs. SAC W 11 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 6 0 0 0 0 7
+p466
+aVTim Thomas PHI 01/19/1998 PHI vs. SAC W 26 7 3 8 37.5 0 1 0.0 1 2 50.0 1 3 4 0 1 0 1 3 -6
+p467
+aVClar. Weatherspoon PHI 01/19/1998 PHI vs. SAC W 27 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 0 0 2 0 3 -4
+p468
+aVScott Williams PHI 01/19/1998 PHI vs. SAC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p469
+aVTerry Cummings PHI 01/19/1998 PHI vs. SAC W 5 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -7
+p470
+aVAllen Iverson PHI 01/19/1998 PHI vs. SAC W 43 24 11 21 52.4 1 3 33.3 1 2 50.0 0 2 2 10 2 0 3 3 4
+p471
+aVJim Jackson PHI 01/19/1998 PHI vs. SAC W 36 17 7 11 63.6 3 3 100.0 0 0 - 0 3 3 5 2 0 2 2 18
+p472
+aVDerrick Coleman PHI 01/19/1998 PHI vs. SAC W 32 14 5 11 45.5 0 1 0.0 4 6 66.7 5 9 14 5 1 3 2 2 19
+p473
+aVAaron McKie PHI 01/19/1998 PHI vs. SAC W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 1 0 0 1
+p474
+aVAnthony Parker PHI 01/19/1998 PHI vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p475
+aVAllen Iverson PHI 01/17/1998 PHI vs. GSW W 35 28 9 17 52.9 3 5 60.0 7 8 87.5 1 4 5 7 3 1 3 4 25
+p476
+aVJim Jackson PHI 01/17/1998 PHI vs. GSW W 35 13 4 9 44.4 0 1 0.0 5 8 62.5 1 7 8 5 0 2 1 1 26
+p477
+aVAnthony Parker PHI 01/17/1998 PHI vs. GSW W 8 5 1 3 33.3 1 2 50.0 2 2 100.0 0 0 0 1 1 0 0 0 0
+p478
+aVAaron McKie PHI 01/17/1998 PHI vs. GSW W 14 9 4 6 66.7 1 2 50.0 0 0 - 1 2 3 1 0 0 0 0 1
+p479
+aVTim Thomas PHI 01/17/1998 PHI vs. GSW W 31 15 6 11 54.5 0 2 0.0 3 4 75.0 1 4 5 6 2 1 0 2 29
+p480
+aVRex Walters PHI 01/17/1998 PHI vs. GSW W 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 2
+p481
+aVTerry Cummings PHI 01/17/1998 PHI vs. GSW W 13 2 1 5 20.0 0 0 - 0 0 - 1 5 6 1 0 0 0 2 19
+p482
+aVScott Williams PHI 01/17/1998 PHI vs. GSW W 6 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 4
+p483
+aVTheo Ratliff PHI 01/17/1998 PHI vs. GSW W 27 8 4 7 57.1 0 0 - 0 2 0.0 2 2 4 3 0 6 0 1 22
+p484
+aVClar. Weatherspoon PHI 01/17/1998 PHI vs. GSW W 19 5 2 5 40.0 0 0 - 1 2 50.0 2 0 2 1 0 1 1 3 -4
+p485
+aVDerrick Coleman PHI 01/17/1998 PHI vs. GSW W 31 18 6 11 54.5 2 2 100.0 4 4 100.0 3 6 9 1 1 0 5 3 15
+p486
+aVMark Davis PHI 01/17/1998 PHI vs. GSW W 17 4 2 4 50.0 0 0 - 0 0 - 1 1 2 4 2 1 2 2 1
+p487
+aVTim Thomas PHI 01/15/1998 PHI vs. CHI W 24 12 5 9 55.6 2 4 50.0 0 0 - 3 3 6 0 0 1 1 4 -6
+p488
+aVMark Davis PHI 01/15/1998 PHI vs. CHI W 17 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 1 0 1 2 -3
+p489
+aVDerrick Coleman PHI 01/15/1998 PHI vs. CHI W 35 18 7 17 41.2 1 3 33.3 3 7 42.9 4 6 10 3 3 3 2 1 6
+p490
+aVJim Jackson PHI 01/15/1998 PHI vs. CHI W 41 14 5 14 35.7 1 5 20.0 3 4 75.0 2 4 6 4 2 0 3 3 28
+p491
+aVTheo Ratliff PHI 01/15/1998 PHI vs. CHI W 31 12 4 8 50.0 0 0 - 4 8 50.0 4 4 8 2 1 3 2 2 10
+p492
+aVTerry Cummings PHI 01/15/1998 PHI vs. CHI W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p493
+aVAaron McKie PHI 01/15/1998 PHI vs. CHI W 22 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 1 1 5
+p494
+aVClar. Weatherspoon PHI 01/15/1998 PHI vs. CHI W 23 15 2 4 50.0 0 0 - 11 12 91.7 3 0 3 0 1 1 0 3 14
+p495
+aVAnthony Parker PHI 01/15/1998 PHI vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p496
+aVAllen Iverson PHI 01/15/1998 PHI vs. CHI W 39 31 10 16 62.5 0 3 0.0 11 13 84.6 0 3 3 6 3 0 2 4 11
+p497
+aVRex Walters PHI 01/15/1998 PHI vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p498
+aVRex Walters PHI 01/13/1998 PHI vs. VAN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p499
+aVTerry Cummings PHI 01/13/1998 PHI vs. VAN W 14 6 3 4 75.0 0 0 - 0 0 - 1 1 2 1 1 0 1 4 14
+p500
+aVAaron McKie PHI 01/13/1998 PHI vs. VAN W 19 0 0 3 0.0 0 1 0.0 0 2 0.0 0 5 5 4 2 0 1 3 13
+p501
+aVTim Thomas PHI 01/13/1998 PHI vs. VAN W 26 23 8 14 57.1 1 3 33.3 6 7 85.7 2 1 3 4 1 0 2 3 19
+p502
+aVScott Williams PHI 01/13/1998 PHI vs. VAN W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p503
+aVJim Jackson PHI 01/13/1998 PHI vs. VAN W 34 15 5 11 45.5 2 5 40.0 3 3 100.0 2 3 5 4 5 0 3 1 11
+p504
+aVAllen Iverson PHI 01/13/1998 PHI vs. VAN W 39 17 7 17 41.2 2 6 33.3 1 4 25.0 0 5 5 10 2 0 2 2 16
+p505
+aVMark Davis PHI 01/13/1998 PHI vs. VAN W 16 5 2 4 50.0 0 0 - 1 4 25.0 1 1 2 3 0 1 2 3 1
+p506
+aVClar. Weatherspoon PHI 01/13/1998 PHI vs. VAN W 24 6 3 5 60.0 0 0 - 0 0 - 3 7 10 1 0 2 3 2 10
+p507
+aVDerrick Coleman PHI 01/13/1998 PHI vs. VAN W 27 13 5 9 55.6 0 1 0.0 3 3 100.0 2 8 10 0 1 1 0 1 8
+p508
+aVAnthony Parker PHI 01/13/1998 PHI vs. VAN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -4
+p509
+aVTheo Ratliff PHI 01/13/1998 PHI vs. VAN W 29 18 8 9 88.9 0 0 - 2 4 50.0 2 4 6 1 1 6 3 0 10
+p510
+aVMark Davis PHI 01/06/1998 PHI @ UTA L 31 8 4 6 66.7 0 0 - 0 0 - 1 3 4 2 5 1 2 6 -12
+p511
+aVTerry Cummings PHI 01/06/1998 PHI @ UTA L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p512
+aVAaron McKie PHI 01/06/1998 PHI @ UTA L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 1 -9
+p513
+aVDerrick Coleman PHI 01/06/1998 PHI @ UTA L 43 16 8 23 34.8 0 3 0.0 0 0 - 5 4 9 1 0 4 0 2 -4
+p514
+aVTheo Ratliff PHI 01/06/1998 PHI @ UTA L 42 12 4 7 57.1 0 0 - 4 4 100.0 3 1 4 0 0 5 2 6 -5
+p515
+aVClar. Weatherspoon PHI 01/06/1998 PHI @ UTA L 33 14 5 12 41.7 0 0 - 4 6 66.7 4 9 13 2 0 1 1 2 8
+p516
+aVAllen Iverson PHI 01/06/1998 PHI @ UTA L 44 27 8 22 36.4 2 7 28.6 9 10 90.0 1 4 5 7 2 1 2 2 2
+p517
+aVJim Jackson PHI 01/06/1998 PHI @ UTA L 40 9 4 8 50.0 1 2 50.0 0 0 - 2 2 4 4 0 0 3 3 0
+p518
+aVRex Walters PHI 01/06/1998 PHI @ UTA L 14 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 2 2 0 2 2 4
+p519
+aVTerry Cummings PHI 01/04/1998 PHI @ LAL W 17 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 4 12
+p520
+aVClar. Weatherspoon PHI 01/04/1998 PHI @ LAL W 18 10 5 11 45.5 0 0 - 0 0 - 2 4 6 1 1 1 1 1 10
+p521
+aVAllen Iverson PHI 01/04/1998 PHI @ LAL W 48 31 10 22 45.5 1 3 33.3 10 11 90.9 1 4 5 11 2 0 4 2 9
+p522
+aVMark Davis PHI 01/04/1998 PHI @ LAL W 37 13 3 8 37.5 0 0 - 7 8 87.5 4 5 9 1 1 0 0 4 -7
+p523
+aVTheo Ratliff PHI 01/04/1998 PHI @ LAL W 27 20 8 11 72.7 0 0 - 4 5 80.0 4 6 10 0 1 8 3 4 1
+p524
+aVDerrick Coleman PHI 01/04/1998 PHI @ LAL W 33 7 2 12 16.7 0 0 - 3 4 75.0 2 6 8 0 0 0 3 5 -11
+p525
+aVJim Jackson PHI 01/04/1998 PHI @ LAL W 41 28 8 13 61.5 1 2 50.0 11 11 100.0 0 1 1 8 3 0 2 5 18
+p526
+aVAaron McKie PHI 01/04/1998 PHI @ LAL W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 4 7
+p527
+aVRex Walters PHI 01/04/1998 PHI @ LAL W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -6
+p528
+aVAnthony Parker PHI 01/04/1998 PHI @ LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p529
+aVMark Davis PHI 01/02/1998 PHI @ SEA L 14 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 2 0 0 2 -7
+p530
+aVAnthony Parker PHI 01/02/1998 PHI @ SEA L 9 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 0 8
+p531
+aVJim Jackson PHI 01/02/1998 PHI @ SEA L 31 8 3 12 25.0 0 2 0.0 2 2 100.0 2 1 3 2 0 0 6 2 -15
+p532
+aVKebu Stewart PHI 01/02/1998 PHI @ SEA L 10 11 3 6 50.0 0 0 - 5 5 100.0 0 3 3 1 0 0 1 1 6
+p533
+aVAaron McKie PHI 01/02/1998 PHI @ SEA L 22 4 1 4 25.0 0 2 0.0 2 2 100.0 2 1 3 3 1 0 3 3 -3
+p534
+aVDerrick Coleman PHI 01/02/1998 PHI @ SEA L 22 6 3 10 30.0 0 0 - 0 0 - 3 6 9 2 0 1 2 2 -13
+p535
+aVTim Thomas PHI 01/02/1998 PHI @ SEA L 34 9 3 7 42.9 1 3 33.3 2 2 100.0 2 5 7 1 0 0 4 2 -10
+p536
+aVTerry Cummings PHI 01/02/1998 PHI @ SEA L 16 3 1 6 16.7 0 0 - 1 2 50.0 2 2 4 0 0 0 1 0 -2
+p537
+aVTheo Ratliff PHI 01/02/1998 PHI @ SEA L 34 12 5 12 41.7 0 0 - 2 2 100.0 6 2 8 1 0 3 2 6 -16
+p538
+aVAllen Iverson PHI 01/02/1998 PHI @ SEA L 27 8 3 9 33.3 0 1 0.0 2 2 100.0 0 4 4 3 0 0 2 2 -17
+p539
+aVRex Walters PHI 01/02/1998 PHI @ SEA L 8 6 2 4 50.0 1 3 33.3 1 1 100.0 0 0 0 1 0 0 0 0 3
+p540
+aVClar. Weatherspoon PHI 01/02/1998 PHI @ SEA L 14 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 2 1 1 0 1
+p541
+aVTheo Ratliff PHI 01/01/1998 PHI @ VAN W 28 12 4 11 36.4 0 0 - 4 4 100.0 3 6 9 0 1 2 0 3 -8
+p542
+aVMark Davis PHI 01/01/1998 PHI @ VAN W 19 16 5 5 100.0 0 0 - 6 6 100.0 1 2 3 0 3 2 3 3 9
+p543
+aVJim Jackson PHI 01/01/1998 PHI @ VAN W 38 21 8 12 66.7 1 2 50.0 4 4 100.0 3 3 6 5 1 0 2 3 6
+p544
+aVAllen Iverson PHI 01/01/1998 PHI @ VAN W 42 29 11 20 55.0 0 1 0.0 7 14 50.0 0 2 2 11 4 0 2 2 9
+p545
+aVKebu Stewart PHI 01/01/1998 PHI @ VAN W 9 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 7
+p546
+aVAnthony Parker PHI 01/01/1998 PHI @ VAN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p547
+aVTim Thomas PHI 01/01/1998 PHI @ VAN W 26 15 6 7 85.7 2 3 66.7 1 2 50.0 1 4 5 2 0 0 5 5 -8
+p548
+aVClar. Weatherspoon PHI 01/01/1998 PHI @ VAN W 27 13 6 10 60.0 0 0 - 1 2 50.0 3 4 7 1 0 1 2 3 18
+p549
+aVTerry Cummings PHI 01/01/1998 PHI @ VAN W 28 6 3 9 33.3 0 0 - 0 0 - 4 2 6 1 0 0 0 3 9
+p550
+aVAaron McKie PHI 01/01/1998 PHI @ VAN W 21 3 1 5 20.0 1 2 50.0 0 0 - 2 3 5 5 4 0 0 1 17
+p551
+aVAllen Iverson PHI 12/30/1997 PHI @ POR L 38 21 8 18 44.4 1 2 50.0 4 5 80.0 2 3 5 8 3 1 8 1 -8
+p552
+aVTerry Cummings PHI 12/30/1997 PHI @ POR L 28 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 1 0 1 5 -6
+p553
+aVMark Davis PHI 12/30/1997 PHI @ POR L 24 10 4 8 50.0 0 0 - 2 4 50.0 4 3 7 2 0 1 1 0 -8
+p554
+aVRex Walters PHI 12/30/1997 PHI @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p555
+aVClar. Weatherspoon PHI 12/30/1997 PHI @ POR L 25 6 2 11 18.2 0 0 - 2 2 100.0 1 2 3 1 5 2 3 0 -5
+p556
+aVTheo Ratliff PHI 12/30/1997 PHI @ POR L 35 5 1 5 20.0 0 0 - 3 4 75.0 1 7 8 1 1 3 2 4 -6
+p557
+aVAnthony Parker PHI 12/30/1997 PHI @ POR L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p558
+aVTim Thomas PHI 12/30/1997 PHI @ POR L 21 18 7 13 53.8 3 4 75.0 1 2 50.0 1 2 3 1 1 0 1 5 1
+p559
+aVAaron McKie PHI 12/30/1997 PHI @ POR L 15 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 1 0 2 1 -8
+p560
+aVJim Jackson PHI 12/30/1997 PHI @ POR L 42 12 3 9 33.3 0 2 0.0 6 9 66.7 2 3 5 6 0 0 1 2 -9
+p561
+aVKebu Stewart PHI 12/30/1997 PHI @ POR L 8 2 1 4 25.0 0 0 - 0 0 - 3 4 7 0 0 0 0 2 -3
+p562
+aVDoug Overton PHI 12/28/1997 PHI @ SAC L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 2 1 1
+p563
+aVMark Davis PHI 12/28/1997 PHI @ SAC L 12 9 4 7 57.1 0 0 - 1 3 33.3 1 2 3 0 1 0 0 0 -3
+p564
+aVTheo Ratliff PHI 12/28/1997 PHI @ SAC L 23 6 3 6 50.0 0 0 - 0 1 0.0 5 1 6 0 1 2 0 4 1
+p565
+aVAaron McKie PHI 12/28/1997 PHI @ SAC L 21 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 7
+p566
+aVTerry Cummings PHI 12/28/1997 PHI @ SAC L 15 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -3
+p567
+aVTim Thomas PHI 12/28/1997 PHI @ SAC L 26 13 5 15 33.3 0 1 0.0 3 3 100.0 3 0 3 0 2 2 3 3 -4
+p568
+aVJim Jackson PHI 12/28/1997 PHI @ SAC L 37 13 4 6 66.7 2 3 66.7 3 5 60.0 0 2 2 0 2 0 3 1 -4
+p569
+aVDerrick Coleman PHI 12/28/1997 PHI @ SAC L 31 14 3 16 18.8 0 0 - 8 13 61.5 2 8 10 4 2 0 3 5 -5
+p570
+aVAllen Iverson PHI 12/28/1997 PHI @ SAC L 39 17 2 14 14.3 0 2 0.0 13 16 81.3 3 4 7 11 4 2 4 1 -3
+p571
+aVClar. Weatherspoon PHI 12/28/1997 PHI @ SAC L 27 10 4 11 36.4 0 0 - 2 2 100.0 1 4 5 1 2 0 0 1 3
+p572
+aVTheo Ratliff PHI 12/27/1997 PHI @ GSW W 27 6 2 5 40.0 0 0 - 2 3 66.7 3 4 7 0 0 1 2 4 5
+p573
+aVAllen Iverson PHI 12/27/1997 PHI @ GSW W 42 12 4 12 33.3 0 3 0.0 4 8 50.0 2 4 6 7 2 0 1 2 7
+p574
+aVClar. Weatherspoon PHI 12/27/1997 PHI @ GSW W 13 2 1 6 16.7 0 0 - 0 0 - 4 1 5 0 0 0 0 1 -2
+p575
+aVJim Jackson PHI 12/27/1997 PHI @ GSW W 40 17 7 18 38.9 0 3 0.0 3 4 75.0 3 5 8 4 2 0 1 0 2
+p576
+aVMark Davis PHI 12/27/1997 PHI @ GSW W 6 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 1 5
+p577
+aVAaron McKie PHI 12/27/1997 PHI @ GSW W 20 1 0 4 0.0 0 2 0.0 1 2 50.0 0 0 0 0 4 0 0 1 12
+p578
+aVDerrick Coleman PHI 12/27/1997 PHI @ GSW W 39 22 4 14 28.6 0 1 0.0 14 18 77.8 1 10 11 3 2 1 3 3 4
+p579
+aVTim Thomas PHI 12/27/1997 PHI @ GSW W 34 17 7 13 53.8 0 0 - 3 4 75.0 4 2 6 0 1 0 1 3 0
+p580
+aVTerry Cummings PHI 12/27/1997 PHI @ GSW W 19 4 2 6 33.3 0 0 - 0 0 - 3 6 9 0 0 1 2 2 2
+p581
+aVTerry Cummings PHI 12/22/1997 PHI vs. DET L 9 2 0 0 - 0 0 - 2 2 100.0 4 0 4 1 0 0 0 0 2
+p582
+aVTheo Ratliff PHI 12/22/1997 PHI vs. DET L 20 7 1 2 50.0 0 0 - 5 6 83.3 1 3 4 0 0 0 0 4 -2
+p583
+aVAaron McKie PHI 12/22/1997 PHI vs. DET L 22 4 2 6 33.3 0 0 - 0 0 - 1 2 3 3 2 1 0 4 -5
+p584
+aVClar. Weatherspoon PHI 12/22/1997 PHI vs. DET L 25 7 1 2 50.0 0 0 - 5 6 83.3 1 3 4 0 0 0 2 5 0
+p585
+aVMark Davis PHI 12/22/1997 PHI vs. DET L 9 4 2 6 33.3 0 1 0.0 0 3 0.0 0 2 2 0 0 0 0 3 2
+p586
+aVAllen Iverson PHI 12/22/1997 PHI vs. DET L 46 7 2 17 11.8 0 4 0.0 3 7 42.9 0 3 3 9 2 0 2 3 -5
+p587
+aVDerrick Coleman PHI 12/22/1997 PHI vs. DET L 37 23 6 14 42.9 1 3 33.3 10 12 83.3 0 8 8 3 1 1 1 2 -4
+p588
+aVTim Thomas PHI 12/22/1997 PHI vs. DET L 28 18 7 15 46.7 0 2 0.0 4 5 80.0 1 3 4 1 1 0 1 5 -3
+p589
+aVJim Jackson PHI 12/22/1997 PHI vs. DET L 44 20 8 13 61.5 1 1 100.0 3 3 100.0 1 3 4 4 1 0 2 3 -5
+p590
+aVJim Jackson PHI 12/20/1997 PHI @ DET L 34 13 4 10 40.0 1 2 50.0 4 4 100.0 0 2 2 6 2 0 1 4 -30
+p591
+aVAaron McKie PHI 12/20/1997 PHI @ DET L 23 4 2 7 28.6 0 3 0.0 0 0 - 2 2 4 2 0 0 2 3 -21
+p592
+aVTerry Cummings PHI 12/20/1997 PHI @ DET L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -7
+p593
+aVScott Williams PHI 12/20/1997 PHI @ DET L 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -3
+p594
+aVTim Thomas PHI 12/20/1997 PHI @ DET L 27 11 4 10 40.0 0 3 0.0 3 5 60.0 1 5 6 2 0 0 1 6 -7
+p595
+aVMark Davis PHI 12/20/1997 PHI @ DET L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 3 1 0 1 3 -18
+p596
+aVAllen Iverson PHI 12/20/1997 PHI @ DET L 35 12 5 13 38.5 1 1 100.0 1 2 50.0 0 3 3 2 2 0 4 3 -30
+p597
+aVClar. Weatherspoon PHI 12/20/1997 PHI @ DET L 28 9 3 9 33.3 0 0 - 3 4 75.0 0 7 7 1 0 2 2 3 -25
+p598
+aVTheo Ratliff PHI 12/20/1997 PHI @ DET L 27 8 3 6 50.0 0 0 - 2 2 100.0 2 4 6 0 1 7 4 2 -18
+p599
+aVDoug Overton PHI 12/20/1997 PHI @ DET L 10 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -7
+p600
+aVDerrick Coleman PHI 12/20/1997 PHI @ DET L 28 16 6 12 50.0 0 1 0.0 4 6 66.7 4 4 8 1 0 0 1 4 -19
+p601
+aVDerrick Coleman PHI 12/19/1997 PHI vs. MIA L 32 6 2 14 14.3 0 3 0.0 2 2 100.0 3 5 8 1 1 1 3 3 -13
+p602
+aVMark Davis PHI 12/19/1997 PHI vs. MIA L 7 0 0 4 0.0 0 0 - 0 0 - 1 4 5 1 1 0 0 0 -1
+p603
+aVTheo Ratliff PHI 12/19/1997 PHI vs. MIA L 21 17 8 10 80.0 0 0 - 1 3 33.3 3 4 7 1 1 1 0 1 11
+p604
+aVTim Thomas PHI 12/19/1997 PHI vs. MIA L 35 17 5 13 38.5 1 2 50.0 6 8 75.0 3 2 5 4 1 1 3 2 -13
+p605
+aVAaron McKie PHI 12/19/1997 PHI vs. MIA L 16 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 12
+p606
+aVClar. Weatherspoon PHI 12/19/1997 PHI vs. MIA L 15 8 1 4 25.0 0 0 - 6 6 100.0 0 3 3 2 1 0 0 1 2
+p607
+aVJim Jackson PHI 12/19/1997 PHI vs. MIA L 41 7 1 9 11.1 0 1 0.0 5 6 83.3 3 1 4 3 0 0 0 5 -7
+p608
+aVScott Williams PHI 12/19/1997 PHI vs. MIA L 12 3 1 4 25.0 0 0 - 1 1 100.0 3 0 3 0 1 0 0 1 -15
+p609
+aVAllen Iverson PHI 12/19/1997 PHI vs. MIA L 39 12 4 12 33.3 2 6 33.3 2 2 100.0 0 3 3 3 2 0 3 5 -11
+p610
+aVTerry Cummings PHI 12/19/1997 PHI vs. MIA L 16 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 2 1
+p611
+aVDoug Overton PHI 12/19/1997 PHI vs. MIA L 6 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 0 0 -1
+p612
+aVTim Thomas PHI 12/17/1997 PHI vs. MIN L 15 6 2 7 28.6 0 3 0.0 2 2 100.0 0 3 3 1 0 0 1 3 5
+p613
+aVScott Williams PHI 12/17/1997 PHI vs. MIN L 21 4 2 5 40.0 0 0 - 0 1 0.0 1 7 8 2 0 0 1 2 5
+p614
+aVTerry Cummings PHI 12/17/1997 PHI vs. MIN L 23 10 4 9 44.4 0 0 - 2 4 50.0 8 3 11 0 1 0 0 6 -11
+p615
+aVClar. Weatherspoon PHI 12/17/1997 PHI vs. MIN L 30 5 1 2 50.0 0 0 - 3 6 50.0 2 4 6 1 0 2 0 3 -5
+p616
+aVJerry Stackhouse PHI 12/17/1997 PHI vs. MIN L 34 12 4 11 36.4 1 3 33.3 3 7 42.9 0 4 4 6 0 1 5 1 -11
+p617
+aVMark Davis PHI 12/17/1997 PHI vs. MIN L 16 5 2 6 33.3 0 1 0.0 1 2 50.0 3 1 4 3 0 0 2 1 1
+p618
+aVJim Jackson PHI 12/17/1997 PHI vs. MIN L 31 12 5 11 45.5 0 3 0.0 2 2 100.0 0 6 6 3 0 0 2 2 -6
+p619
+aVDoug Overton PHI 12/17/1997 PHI vs. MIN L 10 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 1 7
+p620
+aVAllen Iverson PHI 12/17/1997 PHI vs. MIN L 38 22 7 17 41.2 3 5 60.0 5 8 62.5 0 1 1 6 2 0 1 3 -11
+p621
+aVEric Montross PHI 12/17/1997 PHI vs. MIN L 21 8 4 9 44.4 0 0 - 0 0 - 0 6 6 0 1 1 0 2 6
+p622
+aVJim Jackson PHI 12/15/1997 PHI @ BOS L 36 10 4 13 30.8 1 3 33.3 1 2 50.0 0 5 5 8 1 0 4 3 -14
+p623
+aVMark Davis PHI 12/15/1997 PHI @ BOS L 17 3 0 2 0.0 0 0 - 3 6 50.0 0 1 1 1 0 0 3 1 -10
+p624
+aVAnthony Parker PHI 12/15/1997 PHI @ BOS L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 0
+p625
+aVJerry Stackhouse PHI 12/15/1997 PHI @ BOS L 35 25 7 19 36.8 2 3 66.7 9 9 100.0 4 3 7 3 0 2 4 4 -6
+p626
+aVTim Thomas PHI 12/15/1997 PHI @ BOS L 25 14 4 7 57.1 1 1 100.0 5 7 71.4 2 3 5 0 0 1 1 3 -12
+p627
+aVScott Williams PHI 12/15/1997 PHI @ BOS L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -4
+p628
+aVRex Walters PHI 12/15/1997 PHI @ BOS L 13 11 1 3 33.3 1 2 50.0 8 8 100.0 0 0 0 0 0 0 3 2 -10
+p629
+aVClar. Weatherspoon PHI 12/15/1997 PHI @ BOS L 34 8 3 8 37.5 0 0 - 2 4 50.0 2 7 9 0 1 2 5 3 -14
+p630
+aVDoug Overton PHI 12/15/1997 PHI @ BOS L 33 4 2 4 50.0 0 0 - 0 0 - 0 1 1 4 0 1 3 3 -9
+p631
+aVEric Montross PHI 12/15/1997 PHI @ BOS L 20 2 1 3 33.3 0 0 - 0 0 - 2 4 6 1 0 1 1 3 0
+p632
+aVTerry Cummings PHI 12/15/1997 PHI @ BOS L 9 3 1 4 25.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -6
+p633
+aVClar. Weatherspoon PHI 12/13/1997 PHI @ NYK L 33 4 2 6 33.3 0 0 - 0 0 - 2 6 8 0 0 0 1 1 -12
+p634
+aVTim Thomas PHI 12/13/1997 PHI @ NYK L 19 11 5 8 62.5 1 4 25.0 0 0 - 1 4 5 0 0 0 3 0 3
+p635
+aVDoug Overton PHI 12/13/1997 PHI @ NYK L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p636
+aVMark Davis PHI 12/13/1997 PHI @ NYK L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p637
+aVTerry Cummings PHI 12/13/1997 PHI @ NYK L 18 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 1 0 0 4 -7
+p638
+aVJerry Stackhouse PHI 12/13/1997 PHI @ NYK L 34 5 1 9 11.1 0 1 0.0 3 4 75.0 1 1 2 3 1 2 2 4 -18
+p639
+aVJim Jackson PHI 12/13/1997 PHI @ NYK L 40 11 5 12 41.7 1 3 33.3 0 0 - 1 4 5 2 1 0 4 1 -10
+p640
+aVAllen Iverson PHI 12/13/1997 PHI @ NYK L 43 29 8 20 40.0 1 6 16.7 12 13 92.3 1 1 2 2 2 0 2 0 -4
+p641
+aVAnthony Parker PHI 12/13/1997 PHI @ NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p642
+aVScott Williams PHI 12/13/1997 PHI @ NYK L 20 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 1 0 0 1 2 4
+p643
+aVEric Montross PHI 12/13/1997 PHI @ NYK L 24 9 3 5 60.0 0 0 - 3 4 75.0 3 5 8 1 0 0 0 3 -6
+p644
+aVEric Montross PHI 12/12/1997 PHI vs. DEN W 14 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 4 -10
+p645
+aVAnthony Parker PHI 12/12/1997 PHI vs. DEN W 1 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p646
+aVJerry Stackhouse PHI 12/12/1997 PHI vs. DEN W 35 32 12 20 60.0 2 3 66.7 6 6 100.0 1 2 3 4 2 0 4 1 22
+p647
+aVScott Williams PHI 12/12/1997 PHI vs. DEN W 28 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 0 0 2 0 5 19
+p648
+aVMark Davis PHI 12/12/1997 PHI vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p649
+aVTim Thomas PHI 12/12/1997 PHI vs. DEN W 19 11 5 7 71.4 1 1 100.0 0 0 - 0 5 5 1 1 0 1 4 2
+p650
+aVDoug Overton PHI 12/12/1997 PHI vs. DEN W 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 2 3 -9
+p651
+aVClar. Weatherspoon PHI 12/12/1997 PHI vs. DEN W 40 6 2 5 40.0 0 0 - 2 4 50.0 2 10 12 3 2 3 1 2 19
+p652
+aVAllen Iverson PHI 12/12/1997 PHI vs. DEN W 38 24 6 15 40.0 2 5 40.0 10 12 83.3 2 2 4 8 3 0 2 3 24
+p653
+aVTerry Cummings PHI 12/12/1997 PHI vs. DEN W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 1 0 0 1 4 2
+p654
+aVJim Jackson PHI 12/12/1997 PHI vs. DEN W 35 19 6 13 46.2 1 3 33.3 6 6 100.0 0 5 5 8 1 0 3 4 11
+p655
+aVDoug Overton PHI 12/10/1997 PHI vs. TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 8
+p656
+aVJim Jackson PHI 12/10/1997 PHI vs. TOR L 35 11 5 11 45.5 1 3 33.3 0 0 - 1 5 6 8 0 0 4 4 -9
+p657
+aVScott Williams PHI 12/10/1997 PHI vs. TOR L 13 3 1 5 20.0 0 1 0.0 1 2 50.0 0 5 5 0 0 0 0 4 -14
+p658
+aVTerry Cummings PHI 12/10/1997 PHI vs. TOR L 20 7 2 5 40.0 0 1 0.0 3 4 75.0 3 4 7 0 0 0 0 2 -9
+p659
+aVClar. Weatherspoon PHI 12/10/1997 PHI vs. TOR L 37 14 5 13 38.5 0 0 - 4 6 66.7 5 6 11 1 2 2 2 2 -4
+p660
+aVMark Davis PHI 12/10/1997 PHI vs. TOR L 15 9 3 6 50.0 0 1 0.0 3 4 75.0 3 0 3 1 2 2 2 2 10
+p661
+aVRex Walters PHI 12/10/1997 PHI vs. TOR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p662
+aVEric Montross PHI 12/10/1997 PHI vs. TOR L 19 8 4 6 66.7 0 0 - 0 0 - 3 4 7 0 0 2 1 3 10
+p663
+aVJerry Stackhouse PHI 12/10/1997 PHI vs. TOR L 38 19 7 14 50.0 1 2 50.0 4 5 80.0 1 3 4 4 0 1 2 3 -7
+p664
+aVTim Thomas PHI 12/10/1997 PHI vs. TOR L 14 5 2 6 33.3 1 1 100.0 0 0 - 1 0 1 2 2 1 1 0 -5
+p665
+aVAllen Iverson PHI 12/10/1997 PHI vs. TOR L 41 21 8 16 50.0 0 0 - 5 11 45.5 2 0 2 7 4 2 2 2 -9
+p666
+aVAnthony Parker PHI 12/10/1997 PHI vs. TOR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p667
+aVJim Jackson PHI 12/08/1997 PHI @ ORL L 36 18 7 11 63.6 2 3 66.7 2 2 100.0 3 5 8 3 0 0 4 0 -9
+p668
+aVScott Williams PHI 12/08/1997 PHI @ ORL L 11 4 2 5 40.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p669
+aVDoug Overton PHI 12/08/1997 PHI @ ORL L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 4 -8
+p670
+aVMark Davis PHI 12/08/1997 PHI @ ORL L 14 6 2 7 28.6 0 1 0.0 2 4 50.0 2 2 4 1 0 0 3 0 1
+p671
+aVJerry Stackhouse PHI 12/08/1997 PHI @ ORL L 33 8 1 8 12.5 0 2 0.0 6 6 100.0 0 5 5 2 1 1 5 2 -1
+p672
+aVEric Montross PHI 12/08/1997 PHI @ ORL L 15 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 1 0 3 -11
+p673
+aVClar. Weatherspoon PHI 12/08/1997 PHI @ ORL L 41 13 6 12 50.0 0 0 - 1 4 25.0 4 2 6 1 3 2 0 3 -8
+p674
+aVAnthony Parker PHI 12/08/1997 PHI @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p675
+aVAllen Iverson PHI 12/08/1997 PHI @ ORL L 44 21 10 25 40.0 0 4 0.0 1 4 25.0 1 1 2 4 2 0 5 0 -4
+p676
+aVTim Thomas PHI 12/08/1997 PHI @ ORL L 9 9 4 7 57.1 1 1 100.0 0 0 - 4 1 5 0 0 0 0 1 -6
+p677
+aVTerry Cummings PHI 12/08/1997 PHI @ ORL L 28 5 1 5 20.0 0 0 - 3 4 75.0 2 4 6 1 3 0 1 3 3
+p678
+aVAnthony Parker PHI 12/07/1997 PHI vs. NYK W 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p679
+aVMark Davis PHI 12/07/1997 PHI vs. NYK W 14 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 1 0 3 0 -2
+p680
+aVAllen Iverson PHI 12/07/1997 PHI vs. NYK W 37 27 9 16 56.3 2 3 66.7 7 8 87.5 0 3 3 7 1 1 4 5 28
+p681
+aVTerry Cummings PHI 12/07/1997 PHI vs. NYK W 19 0 0 4 0.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 8
+p682
+aVScott Williams PHI 12/07/1997 PHI vs. NYK W 17 8 2 3 66.7 0 0 - 4 4 100.0 0 2 2 0 0 1 1 2 3
+p683
+aVEric Montross PHI 12/07/1997 PHI vs. NYK W 15 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 0 0 1 1 5 13
+p684
+aVJim Jackson PHI 12/07/1997 PHI vs. NYK W 37 12 4 8 50.0 1 1 100.0 3 4 75.0 0 3 3 7 0 0 5 1 17
+p685
+aVDoug Overton PHI 12/07/1997 PHI vs. NYK W 15 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 3 0 0 1 1 -6
+p686
+aVJerry Stackhouse PHI 12/07/1997 PHI vs. NYK W 34 20 7 15 46.7 1 2 50.0 5 5 100.0 1 3 4 6 2 1 2 2 19
+p687
+aVClar. Weatherspoon PHI 12/07/1997 PHI vs. NYK W 31 6 3 6 50.0 0 0 - 0 1 0.0 2 7 9 0 3 2 1 5 14
+p688
+aVTim Thomas PHI 12/07/1997 PHI vs. NYK W 13 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 -6
+p689
+aVRex Walters PHI 12/07/1997 PHI vs. NYK W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -8
+p690
+aVTerry Cummings PHI 12/05/1997 PHI @ NJN L 30 16 7 14 50.0 0 0 - 2 2 100.0 5 6 11 0 0 0 1 2 -3
+p691
+aVTim Thomas PHI 12/05/1997 PHI @ NJN L 27 16 6 8 75.0 1 3 33.3 3 5 60.0 2 2 4 0 1 0 2 1 -18
+p692
+aVClar. Weatherspoon PHI 12/05/1997 PHI @ NJN L 38 12 3 7 42.9 0 0 - 6 8 75.0 2 3 5 0 1 0 4 3 -15
+p693
+aVRex Walters PHI 12/05/1997 PHI @ NJN L 9 2 0 0 - 0 0 - 2 2 100.0 1 0 1 2 2 0 0 1 6
+p694
+aVJim Jackson PHI 12/05/1997 PHI @ NJN L 32 14 6 11 54.5 0 0 - 2 3 66.7 1 3 4 5 0 0 5 1 -11
+p695
+aVJerry Stackhouse PHI 12/05/1997 PHI @ NJN L 24 10 4 10 40.0 0 2 0.0 2 4 50.0 2 0 2 0 0 0 3 2 -23
+p696
+aVScott Williams PHI 12/05/1997 PHI @ NJN L 11 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 1 2 4 -3
+p697
+aVMark Davis PHI 12/05/1997 PHI @ NJN L 16 5 1 2 50.0 0 0 - 3 4 75.0 1 4 5 3 1 0 3 5 1
+p698
+aVEric Montross PHI 12/05/1997 PHI @ NJN L 12 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 4 -11
+p699
+aVAllen Iverson PHI 12/05/1997 PHI @ NJN L 21 5 2 9 22.2 0 2 0.0 1 2 50.0 0 1 1 3 0 1 2 0 -15
+p700
+aVDoug Overton PHI 12/05/1997 PHI @ NJN L 19 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -3
+p701
+aVDoug Overton PHI 12/03/1997 PHI @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p702
+aVTerry Cummings PHI 12/03/1997 PHI @ MIA L 25 13 5 8 62.5 0 0 - 3 3 100.0 1 2 3 1 0 1 1 4 1
+p703
+aVJim Jackson PHI 12/03/1997 PHI @ MIA L 38 14 6 13 46.2 0 2 0.0 2 2 100.0 0 2 2 7 1 0 2 1 -2
+p704
+aVJerry Stackhouse PHI 12/03/1997 PHI @ MIA L 37 12 4 9 44.4 0 1 0.0 4 6 66.7 1 1 2 4 1 0 8 3 -2
+p705
+aVRex Walters PHI 12/03/1997 PHI @ MIA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 5 0 0 1 2 2
+p706
+aVMark Davis PHI 12/03/1997 PHI @ MIA L 12 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 2 3 0 2 4 -4
+p707
+aVScott Williams PHI 12/03/1997 PHI @ MIA L 16 4 1 3 33.3 0 0 - 2 2 100.0 2 4 6 0 0 1 1 3 -12
+p708
+aVTim Thomas PHI 12/03/1997 PHI @ MIA L 10 7 2 6 33.3 2 3 66.7 1 2 50.0 1 1 2 1 1 1 0 2 2
+p709
+aVClar. Weatherspoon PHI 12/03/1997 PHI @ MIA L 38 14 6 12 50.0 0 0 - 2 3 66.7 5 8 13 1 2 1 2 2 6
+p710
+aVEric Montross PHI 12/03/1997 PHI @ MIA L 16 2 1 4 25.0 0 0 - 0 0 - 0 5 5 1 0 0 1 1 -5
+p711
+aVAllen Iverson PHI 12/03/1997 PHI @ MIA L 37 21 10 19 52.6 1 3 33.3 0 0 - 1 2 3 2 2 0 4 2 -7
+p712
+aVMark Davis PHI 11/30/1997 PHI @ IND L 11 6 3 3 100.0 0 0 - 0 0 - 1 0 1 2 1 0 0 2 3
+p713
+aVJerry Stackhouse PHI 11/30/1997 PHI @ IND L 37 21 9 13 69.2 0 0 - 3 3 100.0 3 1 4 3 3 0 3 4 -18
+p714
+aVAllen Iverson PHI 11/30/1997 PHI @ IND L 35 13 6 18 33.3 1 5 20.0 0 0 - 3 0 3 7 3 1 3 1 -7
+p715
+aVEric Montross PHI 11/30/1997 PHI @ IND L 25 4 2 5 40.0 0 0 - 0 2 0.0 3 5 8 0 0 0 2 3 -22
+p716
+aVScott Williams PHI 11/30/1997 PHI @ IND L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 4 5
+p717
+aVTerry Cummings PHI 11/30/1997 PHI @ IND L 20 11 4 11 36.4 0 0 - 3 6 50.0 0 3 3 1 2 0 1 2 -1
+p718
+aVClar. Weatherspoon PHI 11/30/1997 PHI @ IND L 37 18 7 14 50.0 0 0 - 4 9 44.4 6 4 10 1 1 1 1 1 -6
+p719
+aVTim Thomas PHI 11/30/1997 PHI @ IND L 20 11 4 5 80.0 0 0 - 3 3 100.0 0 2 2 1 0 1 0 4 12
+p720
+aVJim Jackson PHI 11/30/1997 PHI @ IND L 29 3 1 7 14.3 0 2 0.0 1 4 25.0 1 0 1 1 1 0 1 2 -21
+p721
+aVDoug Overton PHI 11/30/1997 PHI @ IND L 13 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 3 0 -5
+p722
+aVJim Jackson PHI 11/28/1997 PHI vs. LAL W 40 16 5 12 41.7 0 0 - 6 6 100.0 4 4 8 9 1 0 4 0 12
+p723
+aVScott Williams PHI 11/28/1997 PHI vs. LAL W 24 6 2 6 33.3 0 1 0.0 2 2 100.0 2 5 7 2 0 0 1 3 15
+p724
+aVTim Thomas PHI 11/28/1997 PHI vs. LAL W 14 11 4 6 66.7 0 0 - 3 6 50.0 2 4 6 1 1 0 0 1 -1
+p725
+aVEric Montross PHI 11/28/1997 PHI vs. LAL W 31 8 4 8 50.0 0 0 - 0 1 0.0 2 10 12 1 1 2 1 4 2
+p726
+aVJerry Stackhouse PHI 11/28/1997 PHI vs. LAL W 40 13 4 17 23.5 0 3 0.0 5 6 83.3 5 1 6 4 0 1 3 3 7
+p727
+aVDoug Overton PHI 11/28/1997 PHI vs. LAL W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 7
+p728
+aVClar. Weatherspoon PHI 11/28/1997 PHI vs. LAL W 29 9 4 7 57.1 0 0 - 1 2 50.0 1 7 8 1 0 0 1 3 -10
+p729
+aVTerry Cummings PHI 11/28/1997 PHI vs. LAL W 12 9 4 6 66.7 0 0 - 1 1 100.0 0 2 2 0 1 0 0 3 13
+p730
+aVAllen Iverson PHI 11/28/1997 PHI vs. LAL W 40 31 12 21 57.1 1 4 25.0 6 7 85.7 2 0 2 8 4 0 3 1 5
+p731
+aVDoug Overton PHI 11/26/1997 PHI vs. CLE L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 2 0 0 3 -6
+p732
+aVTom Chambers PHI 11/26/1997 PHI vs. CLE L 10 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 2 0 1 2 -2
+p733
+aVTim Thomas PHI 11/26/1997 PHI vs. CLE L 13 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 2 0 0 0 0 -10
+p734
+aVClar. Weatherspoon PHI 11/26/1997 PHI vs. CLE L 25 3 0 4 0.0 0 0 - 3 4 75.0 1 5 6 0 2 0 2 5 -4
+p735
+aVTerry Cummings PHI 11/26/1997 PHI vs. CLE L 24 13 6 8 75.0 0 0 - 1 3 33.3 1 4 5 3 4 0 1 5 -8
+p736
+aVEric Montross PHI 11/26/1997 PHI vs. CLE L 20 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 1 2 3 -5
+p737
+aVJerry Stackhouse PHI 11/26/1997 PHI vs. CLE L 35 19 4 13 30.8 1 4 25.0 10 11 90.9 1 1 2 4 3 3 5 3 -10
+p738
+aVJim Jackson PHI 11/26/1997 PHI vs. CLE L 42 17 7 9 77.8 1 2 50.0 2 4 50.0 2 5 7 2 0 0 7 4 2
+p739
+aVMark Davis PHI 11/26/1997 PHI vs. CLE L 6 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 4
+p740
+aVScott Williams PHI 11/26/1997 PHI vs. CLE L 16 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 1 0 2 1 9
+p741
+aVAllen Iverson PHI 11/26/1997 PHI vs. CLE L 33 13 4 18 22.2 3 7 42.9 2 2 100.0 1 2 3 8 2 0 3 5 0
+p742
+aVMark Davis PHI 11/22/1997 PHI vs. ORL L 16 6 3 3 100.0 0 0 - 0 0 - 1 1 2 4 0 1 0 3 9
+p743
+aVAllen Iverson PHI 11/22/1997 PHI vs. ORL L 38 14 7 21 33.3 0 4 0.0 0 1 0.0 0 1 1 12 1 0 0 0 -13
+p744
+aVJerry Stackhouse PHI 11/22/1997 PHI vs. ORL L 29 16 7 15 46.7 1 3 33.3 1 2 50.0 2 1 3 1 1 0 1 1 -22
+p745
+aVScott Williams PHI 11/22/1997 PHI vs. ORL L 25 10 5 9 55.6 0 0 - 0 0 - 1 5 6 2 1 0 1 3 -11
+p746
+aVTim Thomas PHI 11/22/1997 PHI vs. ORL L 22 14 5 12 41.7 0 0 - 4 4 100.0 3 2 5 0 0 0 2 1 4
+p747
+aVClar. Weatherspoon PHI 11/22/1997 PHI vs. ORL L 39 8 1 3 33.3 0 0 - 6 8 75.0 0 9 9 2 1 0 2 1 -11
+p748
+aVEric Montross PHI 11/22/1997 PHI vs. ORL L 11 0 0 4 0.0 0 0 - 0 2 0.0 3 0 3 0 1 0 0 1 -13
+p749
+aVJim Jackson PHI 11/22/1997 PHI vs. ORL L 29 13 6 10 60.0 1 3 33.3 0 0 - 2 3 5 3 0 0 1 2 -21
+p750
+aVTerry Cummings PHI 11/22/1997 PHI vs. ORL L 21 11 4 7 57.1 0 0 - 3 4 75.0 1 2 3 1 2 0 0 4 7
+p751
+aVDoug Overton PHI 11/22/1997 PHI vs. ORL L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 1 1 1
+p752
+aVJerry Stackhouse PHI 11/19/1997 PHI vs. WAS W 28 5 2 11 18.2 1 4 25.0 0 0 - 1 1 2 1 1 1 2 3 2
+p753
+aVScott Williams PHI 11/19/1997 PHI vs. WAS W 20 6 2 5 40.0 0 0 - 2 2 100.0 1 10 11 1 1 0 0 2 12
+p754
+aVEric Montross PHI 11/19/1997 PHI vs. WAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p755
+aVDerrick Coleman PHI 11/19/1997 PHI vs. WAS W 38 13 4 12 33.3 0 1 0.0 5 6 83.3 1 11 12 3 0 2 4 2 9
+p756
+aVTim Thomas PHI 11/19/1997 PHI vs. WAS W 13 2 0 3 0.0 0 1 0.0 2 2 100.0 2 1 3 1 1 2 0 2 11
+p757
+aVClar. Weatherspoon PHI 11/19/1997 PHI vs. WAS W 31 16 6 11 54.5 0 0 - 4 4 100.0 0 6 6 1 0 2 1 3 2
+p758
+aVJim Jackson PHI 11/19/1997 PHI vs. WAS W 38 13 6 9 66.7 1 2 50.0 0 0 - 1 3 4 5 1 0 3 2 -3
+p759
+aVDoug Overton PHI 11/19/1997 PHI vs. WAS W 18 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 3 1 0 3 3 18
+p760
+aVAllen Iverson PHI 11/19/1997 PHI vs. WAS W 37 29 8 15 53.3 0 0 - 13 17 76.5 0 2 2 4 3 0 1 3 -5
+p761
+aVMark Davis PHI 11/19/1997 PHI vs. WAS W 11 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 1 10
+p762
+aVJerry Stackhouse PHI 11/15/1997 PHI vs. BOS L 39 23 8 16 50.0 1 1 100.0 6 7 85.7 1 3 4 4 3 2 3 4 -8
+p763
+aVDerrick Coleman PHI 11/15/1997 PHI vs. BOS L 39 16 5 10 50.0 0 0 - 6 10 60.0 5 13 18 7 0 3 4 2 0
+p764
+aVScott Williams PHI 11/15/1997 PHI vs. BOS L 13 4 1 5 20.0 0 0 - 2 2 100.0 3 1 4 2 0 0 0 2 -7
+p765
+aVClar. Weatherspoon PHI 11/15/1997 PHI vs. BOS L 32 13 5 10 50.0 0 0 - 3 6 50.0 2 7 9 2 2 5 2 6 -9
+p766
+aVTim Thomas PHI 11/15/1997 PHI vs. BOS L 6 7 3 5 60.0 1 1 100.0 0 1 0.0 2 1 3 1 0 1 0 1 4
+p767
+aVAllen Iverson PHI 11/15/1997 PHI vs. BOS L 34 11 5 16 31.3 1 4 25.0 0 1 0.0 0 4 4 3 2 0 4 5 -11
+p768
+aVRex Walters PHI 11/15/1997 PHI vs. BOS L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -4
+p769
+aVJim Jackson PHI 11/15/1997 PHI vs. BOS L 43 15 5 10 50.0 1 2 50.0 4 4 100.0 1 6 7 7 0 0 6 4 -7
+p770
+aVDoug Overton PHI 11/15/1997 PHI vs. BOS L 15 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 1 7
+p771
+aVTerry Cummings PHI 11/15/1997 PHI vs. BOS L 13 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 0 0 0 0 1 5
+p772
+aVAllen Iverson PHI 11/13/1997 PHI @ DAL W 41 31 12 18 66.7 2 3 66.7 5 10 50.0 1 2 3 6 4 0 2 2 -4
+p773
+aVJim Jackson PHI 11/13/1997 PHI @ DAL W 35 8 3 10 30.0 0 1 0.0 2 2 100.0 4 3 7 3 0 0 3 3 -1
+p774
+aVScott Williams PHI 11/13/1997 PHI @ DAL W 9 7 3 4 75.0 0 0 - 1 1 100.0 1 2 3 0 1 0 0 3 3
+p775
+aVTerry Cummings PHI 11/13/1997 PHI @ DAL W 19 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 6
+p776
+aVDoug Overton PHI 11/13/1997 PHI @ DAL W 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 5
+p777
+aVEric Montross PHI 11/13/1997 PHI @ DAL W 14 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 1 0 0 1 4 -1
+p778
+aVClar. Weatherspoon PHI 11/13/1997 PHI @ DAL W 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 1 1 2 1 -1
+p779
+aVRex Walters PHI 11/13/1997 PHI @ DAL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p780
+aVMark Davis PHI 11/13/1997 PHI @ DAL W 16 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -4
+p781
+aVDerrick Coleman PHI 11/13/1997 PHI @ DAL W 39 25 9 14 64.3 2 3 66.7 5 6 83.3 1 13 14 3 3 1 2 0 -1
+p782
+aVJerry Stackhouse PHI 11/13/1997 PHI @ DAL W 42 21 7 12 58.3 2 3 66.7 5 6 83.3 0 3 3 5 0 0 4 1 8
+p783
+aVTerry Cummings PHI 11/12/1997 PHI @ HOU W 17 16 7 8 87.5 0 0 - 2 3 66.7 0 1 1 2 1 1 0 5 0
+p784
+aVDerrick Coleman PHI 11/12/1997 PHI @ HOU W 34 14 7 11 63.6 0 0 - 0 2 0.0 2 6 8 3 0 1 3 1 18
+p785
+aVJerry Stackhouse PHI 11/12/1997 PHI @ HOU W 38 17 8 13 61.5 1 3 33.3 0 0 - 2 5 7 0 1 1 3 1 18
+p786
+aVAllen Iverson PHI 11/12/1997 PHI @ HOU W 41 26 11 17 64.7 2 5 40.0 2 4 50.0 1 4 5 15 1 0 0 3 13
+p787
+aVClar. Weatherspoon PHI 11/12/1997 PHI @ HOU W 25 14 6 8 75.0 0 0 - 2 4 50.0 2 4 6 2 1 2 1 2 22
+p788
+aVDoug Overton PHI 11/12/1997 PHI @ HOU W 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 0 0 2 2
+p789
+aVRex Walters PHI 11/12/1997 PHI @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 3
+p790
+aVMark Davis PHI 11/12/1997 PHI @ HOU W 13 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 0 1 0 0 2 -8
+p791
+aVJim Jackson PHI 11/12/1997 PHI @ HOU W 37 15 6 13 46.2 0 1 0.0 3 3 100.0 1 1 2 4 0 0 0 2 10
+p792
+aVEric Montross PHI 11/12/1997 PHI @ HOU W 16 4 2 3 66.7 0 0 - 0 2 0.0 0 1 1 0 0 0 0 4 -6
+p793
+aVTim Thomas PHI 11/12/1997 PHI @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p794
+aVScott Williams PHI 11/12/1997 PHI @ HOU W 5 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 2 0 -5
+p795
+aVTerry Cummings PHI 11/09/1997 PHI vs. SEA L 16 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 4
+p796
+aVDoug Overton PHI 11/09/1997 PHI vs. SEA L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 3 2 -2
+p797
+aVTim Thomas PHI 11/09/1997 PHI vs. SEA L 11 12 5 7 71.4 1 3 33.3 1 2 50.0 0 0 0 0 0 0 2 1 0
+p798
+aVClar. Weatherspoon PHI 11/09/1997 PHI vs. SEA L 31 11 4 5 80.0 0 0 - 3 4 75.0 3 10 13 1 0 1 2 4 -12
+p799
+aVEric Montross PHI 11/09/1997 PHI vs. SEA L 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 5 6
+p800
+aVJerry Stackhouse PHI 11/09/1997 PHI vs. SEA L 37 17 8 14 57.1 1 2 50.0 0 1 0.0 0 2 2 1 3 2 3 3 -6
+p801
+aVDerrick Coleman PHI 11/09/1997 PHI vs. SEA L 27 17 6 10 60.0 0 1 0.0 5 6 83.3 0 5 5 0 1 3 3 4 -3
+p802
+aVAllen Iverson PHI 11/09/1997 PHI vs. SEA L 40 23 10 16 62.5 1 2 50.0 2 4 50.0 0 5 5 10 2 0 2 2 -5
+p803
+aVJim Jackson PHI 11/09/1997 PHI vs. SEA L 37 4 1 6 16.7 0 1 0.0 2 2 100.0 2 4 6 8 1 0 5 2 -5
+p804
+aVScott Williams PHI 11/09/1997 PHI vs. SEA L 13 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 2 4 -9
+p805
+aVMark Davis PHI 11/09/1997 PHI vs. SEA L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 4 0 1 4 0 -3
+p806
+aVDerrick Coleman PHI 11/06/1997 PHI @ MIL L 30 10 2 8 25.0 0 1 0.0 6 6 100.0 1 1 2 1 0 2 2 5 -21
+p807
+aVClar. Weatherspoon PHI 11/06/1997 PHI @ MIL L 27 5 2 6 33.3 0 0 - 1 2 50.0 5 5 10 0 1 0 2 3 -9
+p808
+aVScott Williams PHI 11/06/1997 PHI @ MIL L 13 5 2 2 100.0 0 0 - 1 2 50.0 1 4 5 0 0 1 0 3 7
+p809
+aVAllen Iverson PHI 11/06/1997 PHI @ MIL L 42 33 14 23 60.9 1 2 50.0 4 8 50.0 0 4 4 3 4 1 4 2 -4
+p810
+aVJerry Stackhouse PHI 11/06/1997 PHI @ MIL L 36 21 9 14 64.3 0 0 - 3 5 60.0 1 3 4 3 3 1 2 6 1
+p811
+aVEric Montross PHI 11/06/1997 PHI @ MIL L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 0 2 2
+p812
+aVTerry Cummings PHI 11/06/1997 PHI @ MIL L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 7
+p813
+aVJim Jackson PHI 11/06/1997 PHI @ MIL L 44 13 5 10 50.0 0 1 0.0 3 4 75.0 4 1 5 2 2 0 5 3 -7
+p814
+aVTim Thomas PHI 11/06/1997 PHI @ MIL L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p815
+aVMark Davis PHI 11/06/1997 PHI @ MIL L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -1
+p816
+aVRex Walters PHI 11/06/1997 PHI @ MIL L 8 2 0 4 0.0 0 2 0.0 2 2 100.0 0 1 1 3 0 0 2 2 -8
+p817
+aVScott Williams PHI 11/05/1997 PHI vs. ATL L 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -3
+p818
+aVJim Jackson PHI 11/05/1997 PHI vs. ATL L 35 7 3 11 27.3 0 3 0.0 1 1 100.0 1 3 4 4 1 1 2 2 -3
+p819
+aVDoug Overton PHI 11/05/1997 PHI vs. ATL L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -3
+p820
+aVEric Montross PHI 11/05/1997 PHI vs. ATL L 16 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 1 1 2 -8
+p821
+aVDerrick Coleman PHI 11/05/1997 PHI vs. ATL L 35 9 3 11 27.3 0 0 - 3 4 75.0 2 4 6 1 0 0 4 2 -3
+p822
+aVAllen Iverson PHI 11/05/1997 PHI vs. ATL L 40 21 8 17 47.1 1 5 20.0 4 5 80.0 1 3 4 11 4 0 2 3 3
+p823
+aVClar. Weatherspoon PHI 11/05/1997 PHI vs. ATL L 29 19 7 13 53.8 0 0 - 5 6 83.3 6 8 14 2 1 0 3 5 6
+p824
+aVTim Thomas PHI 11/05/1997 PHI vs. ATL L 19 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 2 1 0 1 0 6
+p825
+aVTerry Cummings PHI 11/05/1997 PHI vs. ATL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p826
+aVJerry Stackhouse PHI 11/05/1997 PHI vs. ATL L 26 17 8 11 72.7 1 3 33.3 0 1 0.0 0 1 1 2 0 1 3 1 -18
+p827
+aVMark Davis PHI 11/05/1997 PHI vs. ATL L 16 4 2 2 100.0 0 0 - 0 4 0.0 0 2 2 1 1 0 0 1 6
+p828
+aVRex Walters PHI 11/05/1997 PHI vs. ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p829
+aVRex Walters PHI 11/01/1997 PHI @ CHI L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -3
+p830
+aVMark Davis PHI 11/01/1997 PHI @ CHI L 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -16
+p831
+aVTerry Cummings PHI 11/01/1997 PHI @ CHI L 10 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 -18
+p832
+aVDerrick Coleman PHI 11/01/1997 PHI @ CHI L 27 11 4 11 36.4 0 0 - 3 4 75.0 2 5 7 0 0 1 2 2 -7
+p833
+aVEric Montross PHI 11/01/1997 PHI @ CHI L 17 2 1 5 20.0 0 0 - 0 0 - 5 5 10 0 1 1 2 3 -2
+p834
+aVAllen Iverson PHI 11/01/1997 PHI @ CHI L 40 13 5 15 33.3 0 2 0.0 3 4 75.0 1 0 1 4 3 1 8 3 -17
+p835
+aVJim Jackson PHI 11/01/1997 PHI @ CHI L 33 13 6 11 54.5 1 1 100.0 0 0 - 2 3 5 3 0 0 6 2 -16
+p836
+aVClar. Weatherspoon PHI 11/01/1997 PHI @ CHI L 30 9 2 6 33.3 0 0 - 5 6 83.3 3 6 9 1 0 1 1 1 -15
+p837
+aVJerry Stackhouse PHI 11/01/1997 PHI @ CHI L 31 15 6 14 42.9 0 1 0.0 3 3 100.0 0 3 3 2 4 1 2 3 -11
+p838
+aVTim Thomas PHI 11/01/1997 PHI @ CHI L 19 9 4 10 40.0 0 0 - 1 3 33.3 0 5 5 1 2 0 1 1 3
+p839
+aVScott Williams PHI 11/01/1997 PHI @ CHI L 13 0 0 1 0.0 0 0 - 0 0 - 2 1 3 1 1 0 2 5 2
+p840
+aVTerry Cummings PHI 10/31/1997 PHI vs. MIL L 11 4 1 3 33.3 0 0 - 2 4 50.0 2 1 3 0 0 1 0 2 -2
+p841
+aVTim Thomas PHI 10/31/1997 PHI vs. MIL L 13 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 0 0 0 1 2 -5
+p842
+aVMark Davis PHI 10/31/1997 PHI vs. MIL L 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 1 0 2 0 -7
+p843
+aVDerrick Coleman PHI 10/31/1997 PHI vs. MIL L 37 17 6 16 37.5 0 1 0.0 5 6 83.3 4 7 11 1 0 1 5 2 -18
+p844
+aVJerry Stackhouse PHI 10/31/1997 PHI vs. MIL L 26 5 1 5 20.0 0 0 - 3 4 75.0 1 1 2 5 2 0 5 1 -13
+p845
+aVJim Jackson PHI 10/31/1997 PHI vs. MIL L 41 18 8 13 61.5 1 3 33.3 1 2 50.0 1 4 5 7 0 0 2 0 -10
+p846
+aVDoug Overton PHI 10/31/1997 PHI vs. MIL L 31 9 2 9 22.2 0 0 - 5 6 83.3 1 1 2 2 0 0 1 4 -24
+p847
+aVRex Walters PHI 10/31/1997 PHI vs. MIL L 17 4 0 2 0.0 0 1 0.0 4 4 100.0 0 3 3 4 0 0 1 2 9
+p848
+aVClar. Weatherspoon PHI 10/31/1997 PHI vs. MIL L 33 15 5 10 50.0 0 0 - 5 7 71.4 3 4 7 1 2 1 1 2 -4
+p849
+aVScott Williams PHI 10/31/1997 PHI vs. MIL L 13 8 4 7 57.1 0 0 - 0 0 - 2 1 3 1 0 0 0 1 -1
+p850
+a.

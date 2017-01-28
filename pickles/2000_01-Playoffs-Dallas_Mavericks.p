@@ -1,0 +1,192 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVHoward Eisley DAL 05/14/2001 DAL @ SAS L 28 6 3 9 33.3 0 4 0.0 0 0 - 0 1 1 4 0 0 2 1 -11
+p2
+aVShawn Bradley DAL 05/14/2001 DAL @ SAS L 19 4 2 4 50.0 0 0 - 0 0 - 4 3 7 1 1 1 1 1 -2
+p3
+aVEduardo Najera DAL 05/14/2001 DAL @ SAS L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p4
+aVDirk Nowitzki DAL 05/14/2001 DAL @ SAS L 47 42 14 24 58.3 0 1 0.0 14 18 77.8 6 12 18 2 6 1 3 2 -18
+p5
+aVWang Zhi-zhi DAL 05/14/2001 DAL @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p6
+aVSteve Nash DAL 05/14/2001 DAL @ SAS L 30 11 4 7 57.1 0 2 0.0 3 4 75.0 1 1 2 3 0 0 2 3 -8
+p7
+aVMichael Finley DAL 05/14/2001 DAL @ SAS L 39 2 1 17 5.9 0 4 0.0 0 0 - 1 1 2 4 2 0 1 2 -24
+p8
+aVGreg Buckner DAL 05/14/2001 DAL @ SAS L 13 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 2 0 1 4 -12
+p9
+aVCalvin Booth DAL 05/14/2001 DAL @ SAS L 16 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -7
+p10
+aVJuwan Howard DAL 05/14/2001 DAL @ SAS L 36 14 5 16 31.3 0 0 - 4 4 100.0 5 7 12 1 0 1 2 4 -12
+p11
+aVShawn Bradley DAL 05/12/2001 DAL vs. SAS W 22 10 5 9 55.6 0 0 - 0 0 - 3 3 6 1 0 2 1 5 9
+p12
+aVDirk Nowitzki DAL 05/12/2001 DAL vs. SAS W 42 30 11 18 61.1 0 1 0.0 8 8 100.0 0 9 9 1 1 0 1 5 13
+p13
+aVSteve Nash DAL 05/12/2001 DAL vs. SAS W 39 10 4 11 36.4 2 3 66.7 0 0 - 2 3 5 14 0 1 3 2 12
+p14
+aVEduardo Najera DAL 05/12/2001 DAL vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p15
+aVHoward Eisley DAL 05/12/2001 DAL vs. SAS W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 3 -16
+p16
+aVGreg Buckner DAL 05/12/2001 DAL vs. SAS W 22 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 1 0 0 2 1
+p17
+aVCalvin Booth DAL 05/12/2001 DAL vs. SAS W 18 16 7 10 70.0 0 0 - 2 2 100.0 3 1 4 0 2 0 0 3 -4
+p18
+aVJuwan Howard DAL 05/12/2001 DAL vs. SAS W 36 17 8 17 47.1 0 0 - 1 1 100.0 2 6 8 0 1 2 1 4 3
+p19
+aVMichael Finley DAL 05/12/2001 DAL vs. SAS W 48 25 9 23 39.1 2 6 33.3 5 6 83.3 2 3 5 10 0 1 0 3 4
+p20
+aVDirk Nowitzki DAL 05/09/2001 DAL vs. SAS L 28 15 5 15 33.3 1 3 33.3 4 4 100.0 0 3 3 1 0 1 0 2 -13
+p21
+aVSteve Nash DAL 05/09/2001 DAL vs. SAS L 37 11 4 12 33.3 2 3 66.7 1 1 100.0 0 3 3 4 0 0 1 2 -19
+p22
+aVShawn Bradley DAL 05/09/2001 DAL vs. SAS L 18 7 3 8 37.5 0 0 - 1 2 50.0 3 0 3 0 0 3 0 4 -18
+p23
+aVWang Zhi-zhi DAL 05/09/2001 DAL vs. SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 9
+p24
+aVGreg Buckner DAL 05/09/2001 DAL vs. SAS L 22 14 4 7 57.1 1 1 100.0 5 8 62.5 5 7 12 2 1 0 1 5 -2
+p25
+aVEduardo Najera DAL 05/09/2001 DAL vs. SAS L 11 10 4 7 57.1 2 3 66.7 0 0 - 3 2 5 0 0 1 0 1 14
+p26
+aVCalvin Booth DAL 05/09/2001 DAL vs. SAS L 15 2 1 5 20.0 0 0 - 0 0 - 3 2 5 0 1 0 1 4 -6
+p27
+aVJuwan Howard DAL 05/09/2001 DAL vs. SAS L 32 12 4 12 33.3 0 0 - 4 6 66.7 6 4 10 2 1 1 2 5 -12
+p28
+aVMichael Finley DAL 05/09/2001 DAL vs. SAS L 41 10 5 21 23.8 0 2 0.0 0 1 0.0 1 5 6 5 3 0 5 2 -20
+p29
+aVHoward Eisley DAL 05/09/2001 DAL vs. SAS L 30 9 3 8 37.5 3 5 60.0 0 0 - 0 1 1 4 2 0 1 3 -3
+p30
+aVGreg Buckner DAL 05/07/2001 DAL @ SAS L 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 4
+p31
+aVDirk Nowitzki DAL 05/07/2001 DAL @ SAS L 39 19 4 13 30.8 0 3 0.0 11 12 91.7 1 5 6 2 2 1 0 3 -11
+p32
+aVJuwan Howard DAL 05/07/2001 DAL @ SAS L 41 9 2 14 14.3 0 0 - 5 6 83.3 4 7 11 0 1 0 0 2 -20
+p33
+aVEduardo Najera DAL 05/07/2001 DAL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p34
+aVSteve Nash DAL 05/07/2001 DAL @ SAS L 33 10 4 9 44.4 1 1 100.0 1 2 50.0 1 1 2 3 2 0 1 3 -25
+p35
+aVCalvin Booth DAL 05/07/2001 DAL @ SAS L 11 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 1 0 0 1 -9
+p36
+aVMichael Finley DAL 05/07/2001 DAL @ SAS L 45 24 8 24 33.3 2 3 66.7 6 7 85.7 1 3 4 7 2 0 5 2 -9
+p37
+aVShawn Bradley DAL 05/07/2001 DAL @ SAS L 31 10 5 8 62.5 0 0 - 0 0 - 3 5 8 0 0 3 0 3 0
+p38
+aVWang Zhi-zhi DAL 05/07/2001 DAL @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p39
+aVHoward Eisley DAL 05/07/2001 DAL @ SAS L 32 12 4 9 44.4 4 6 66.7 0 0 - 1 3 4 1 0 0 2 2 -2
+p40
+aVDirk Nowitzki DAL 05/05/2001 DAL @ SAS L 28 9 3 13 23.1 0 3 0.0 3 4 75.0 1 6 7 0 0 1 2 4 -22
+p41
+aVMichael Finley DAL 05/05/2001 DAL @ SAS L 32 17 7 18 38.9 0 3 0.0 3 4 75.0 0 2 2 3 1 0 3 2 -23
+p42
+aVSteve Nash DAL 05/05/2001 DAL @ SAS L 28 2 0 4 0.0 0 1 0.0 2 2 100.0 1 1 2 6 1 0 0 1 -16
+p43
+aVCalvin Booth DAL 05/05/2001 DAL @ SAS L 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 1 1 2 5 -17
+p44
+aVEduardo Najera DAL 05/05/2001 DAL @ SAS L 11 7 3 5 60.0 1 1 100.0 0 0 - 3 4 7 0 0 0 0 1 5
+p45
+aVWang Zhi-zhi DAL 05/05/2001 DAL @ SAS L 9 3 1 5 20.0 0 1 0.0 1 1 100.0 0 1 1 0 0 1 0 1 6
+p46
+aVHoward Eisley DAL 05/05/2001 DAL @ SAS L 31 16 6 9 66.7 2 4 50.0 2 2 100.0 0 1 1 2 0 0 1 4 -5
+p47
+aVJuwan Howard DAL 05/05/2001 DAL @ SAS L 23 8 2 7 28.6 0 0 - 4 4 100.0 0 2 2 1 0 0 0 3 -6
+p48
+aVGreg Buckner DAL 05/05/2001 DAL @ SAS L 12 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 1 1 0 0 1 7
+p49
+aVShawn Bradley DAL 05/05/2001 DAL @ SAS L 30 8 4 7 57.1 0 0 - 0 0 - 2 10 12 1 1 6 3 3 -6
+p50
+aVVernon Maxwell DAL 05/05/2001 DAL @ SAS L 23 2 1 4 25.0 0 2 0.0 0 0 - 1 4 5 4 0 0 1 3 -3
+p51
+aVDirk Nowitzki DAL 05/03/2001 DAL @ UTA W 36 18 3 11 27.3 2 4 50.0 10 10 100.0 0 4 4 1 1 0 1 5 16
+p52
+aVSteve Nash DAL 05/03/2001 DAL @ UTA W 43 9 3 11 27.3 3 7 42.9 0 1 0.0 0 5 5 7 0 0 3 2 1
+p53
+aVHoward Eisley DAL 05/03/2001 DAL @ UTA W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 1 0 -3
+p54
+aVShawn Bradley DAL 05/03/2001 DAL @ UTA W 32 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 6 1 4 -11
+p55
+aVJuwan Howard DAL 05/03/2001 DAL @ UTA W 46 19 6 15 40.0 0 0 - 7 9 77.8 4 4 8 2 1 0 2 5 8
+p56
+aVVernon Maxwell DAL 05/03/2001 DAL @ UTA W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -10
+p57
+aVCalvin Booth DAL 05/03/2001 DAL @ UTA W 19 3 1 2 50.0 0 0 - 1 2 50.0 3 3 6 1 1 2 0 4 3
+p58
+aVMichael Finley DAL 05/03/2001 DAL @ UTA W 48 33 13 24 54.2 3 6 50.0 4 4 100.0 1 5 6 1 0 0 3 3 1
+p59
+aVSteve Nash DAL 05/01/2001 DAL vs. UTA W 38 27 8 15 53.3 4 8 50.0 7 7 100.0 0 3 3 7 2 0 4 0 27
+p60
+aVVernon Maxwell DAL 05/01/2001 DAL vs. UTA W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p61
+aVEduardo Najera DAL 05/01/2001 DAL vs. UTA W 7 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p62
+aVMark Bryant DAL 05/01/2001 DAL vs. UTA W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 1
+p63
+aVDirk Nowitzki DAL 05/01/2001 DAL vs. UTA W 36 33 10 19 52.6 5 10 50.0 8 9 88.9 2 6 8 2 0 0 0 3 18
+p64
+aVCalvin Booth DAL 05/01/2001 DAL vs. UTA W 13 6 2 4 50.0 0 0 - 2 2 100.0 2 1 3 0 0 2 0 4 22
+p65
+aVHoward Eisley DAL 05/01/2001 DAL vs. UTA W 17 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 2 16
+p66
+aVWang Zhi-zhi DAL 05/01/2001 DAL vs. UTA W 5 7 2 3 66.7 1 1 100.0 2 2 100.0 0 1 1 0 1 0 1 0 1
+p67
+aVShawn Bradley DAL 05/01/2001 DAL vs. UTA W 27 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 1 6 2 3 5
+p68
+aVJuwan Howard DAL 05/01/2001 DAL vs. UTA W 41 6 3 11 27.3 0 0 - 0 0 - 0 5 5 3 0 0 0 2 29
+p69
+aVMichael Finley DAL 05/01/2001 DAL vs. UTA W 42 20 7 13 53.8 3 4 75.0 3 3 100.0 1 11 12 4 0 0 1 3 31
+p70
+aVSteve Nash DAL 04/28/2001 DAL vs. UTA W 39 16 6 15 40.0 1 3 33.3 3 3 100.0 0 4 4 7 0 0 2 0 5
+p71
+aVJuwan Howard DAL 04/28/2001 DAL vs. UTA W 45 18 8 18 44.4 0 0 - 2 3 66.7 1 10 11 1 0 0 1 3 7
+p72
+aVShawn Bradley DAL 04/28/2001 DAL vs. UTA W 23 10 4 6 66.7 0 0 - 2 2 100.0 4 6 10 0 1 0 1 4 -1
+p73
+aVMichael Finley DAL 04/28/2001 DAL vs. UTA W 45 8 2 14 14.3 0 1 0.0 4 6 66.7 1 3 4 5 4 0 3 1 1
+p74
+aVMark Bryant DAL 04/28/2001 DAL vs. UTA W 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p75
+aVHoward Eisley DAL 04/28/2001 DAL vs. UTA W 22 7 2 7 28.6 1 4 25.0 2 2 100.0 0 2 2 0 1 0 2 1 3
+p76
+aVDirk Nowitzki DAL 04/28/2001 DAL vs. UTA W 48 33 9 19 47.4 2 7 28.6 13 14 92.9 3 7 10 2 0 1 2 3 3
+p77
+aVCalvin Booth DAL 04/28/2001 DAL vs. UTA W 12 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 1 0 2 2
+p78
+aVJuwan Howard DAL 04/24/2001 DAL @ UTA L 47 17 6 15 40.0 0 0 - 5 8 62.5 4 3 7 1 1 0 3 5 -8
+p79
+aVEduardo Najera DAL 04/24/2001 DAL @ UTA L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 4
+p80
+aVDirk Nowitzki DAL 04/24/2001 DAL @ UTA L 47 15 3 11 27.3 1 5 20.0 8 10 80.0 0 4 4 2 0 2 2 6 -10
+p81
+aVMark Bryant DAL 04/24/2001 DAL @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p82
+aVSteve Nash DAL 04/24/2001 DAL @ UTA L 43 20 6 13 46.2 2 9 22.2 6 7 85.7 1 2 3 6 0 0 4 3 -8
+p83
+aVShawn Bradley DAL 04/24/2001 DAL @ UTA L 37 9 1 3 33.3 0 0 - 7 9 77.8 2 6 8 1 0 0 1 6 -2
+p84
+aVCalvin Booth DAL 04/24/2001 DAL @ UTA L 7 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 4 -7
+p85
+aVVernon Maxwell DAL 04/24/2001 DAL @ UTA L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 3 -9
+p86
+aVMichael Finley DAL 04/24/2001 DAL @ UTA L 46 32 10 23 43.5 3 9 33.3 9 11 81.8 4 4 8 3 0 0 1 3 -10
+p87
+aVCalvin Booth DAL 04/21/2001 DAL @ UTA L 13 2 1 2 50.0 0 0 - 0 0 - 2 0 2 1 0 0 0 0 -15
+p88
+aVSteve Nash DAL 04/21/2001 DAL @ UTA L 40 20 6 11 54.5 1 2 50.0 7 7 100.0 0 3 3 7 1 0 5 3 -9
+p89
+aVShawn Bradley DAL 04/21/2001 DAL @ UTA L 17 2 1 2 50.0 0 0 - 0 0 - 1 4 5 1 0 3 0 4 2
+p90
+aVHoward Eisley DAL 04/21/2001 DAL @ UTA L 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 8
+p91
+aVJuwan Howard DAL 04/21/2001 DAL @ UTA L 44 14 5 11 45.5 0 0 - 4 4 100.0 3 6 9 3 1 1 3 5 -4
+p92
+aVMichael Finley DAL 04/21/2001 DAL @ UTA L 48 26 10 23 43.5 4 9 44.4 2 2 100.0 1 3 4 2 0 1 2 2 -2
+p93
+aVDirk Nowitzki DAL 04/21/2001 DAL @ UTA L 48 20 7 20 35.0 2 9 22.2 4 5 80.0 1 11 12 1 1 1 3 4 -2
+p94
+aVMark Bryant DAL 04/21/2001 DAL @ UTA L 18 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 12
+p95
+a.

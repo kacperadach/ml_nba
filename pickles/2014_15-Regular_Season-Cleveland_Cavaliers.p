@@ -1,0 +1,1702 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Love CLE 04/15/2015 CLE vs. WAS W 18 19 6 12 50.0 5 6 83.3 2 2 100.0 0 3 3 0 0 0 1 0 -6
+p2
+aVMike Miller CLE 04/15/2015 CLE vs. WAS W 18 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 3 2
+p3
+aVBrendan Haywood CLE 04/15/2015 CLE vs. WAS W 15 5 2 3 66.7 0 0 - 1 3 33.3 0 1 1 0 0 2 0 1 -2
+p4
+aVTimofey Mozgov CLE 04/15/2015 CLE vs. WAS W 14 8 4 5 80.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 1 1
+p5
+aVTristan Thompson CLE 04/15/2015 CLE vs. WAS W 22 12 4 7 57.1 0 0 - 4 4 100.0 3 5 8 2 0 1 1 1 7
+p6
+aVIman Shumpert CLE 04/15/2015 CLE vs. WAS W 29 18 7 12 58.3 3 5 60.0 1 2 50.0 1 5 6 2 2 0 0 1 17
+p7
+aVJR Smith CLE 04/15/2015 CLE vs. WAS W 9 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 3 0 0 1 0 -9
+p8
+aVKyrie Irving CLE 04/15/2015 CLE vs. WAS W 18 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 7 1 0 2 0 -13
+p9
+aVShawn Marion CLE 04/15/2015 CLE vs. WAS W 33 8 4 10 40.0 0 1 0.0 0 0 - 4 5 9 1 1 0 0 0 3
+p10
+aVJoe Harris CLE 04/15/2015 CLE vs. WAS W 17 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 1 0 0 5 3 -4
+p11
+aVMatthew Dellavedova CLE 04/15/2015 CLE vs. WAS W 33 18 6 11 54.5 4 5 80.0 2 2 100.0 0 3 3 12 2 0 3 2 19
+p12
+aVJames Jones CLE 04/15/2015 CLE vs. WAS W 12 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 3 3
+p13
+aVKendrick Perkins CLE 04/15/2015 CLE vs. WAS W 28 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 1 1 1 3 2 7
+p14
+aVKyrie Irving CLE 04/13/2015 CLE vs. DET W 17 12 5 7 71.4 2 3 66.7 0 0 - 2 1 3 3 1 0 0 1 19
+p15
+aVMike Miller CLE 04/13/2015 CLE vs. DET W 12 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 5
+p16
+aVTristan Thompson CLE 04/13/2015 CLE vs. DET W 19 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 2 0 1 -3
+p17
+aVMatthew Dellavedova CLE 04/13/2015 CLE vs. DET W 31 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 5 0 0 0 2 -9
+p18
+aVJR Smith CLE 04/13/2015 CLE vs. DET W 31 28 10 15 66.7 8 13 61.5 0 0 - 0 2 2 2 0 1 1 1 9
+p19
+aVLeBron James CLE 04/13/2015 CLE vs. DET W 32 21 7 17 41.2 3 4 75.0 4 6 66.7 3 7 10 11 2 1 1 0 19
+p20
+aVTimofey Mozgov CLE 04/13/2015 CLE vs. DET W 24 16 7 15 46.7 0 0 - 2 4 50.0 5 8 13 1 0 0 2 4 17
+p21
+aVKevin Love CLE 04/13/2015 CLE vs. DET W 26 7 3 9 33.3 1 6 16.7 0 0 - 0 4 4 0 0 2 1 1 6
+p22
+aVKendrick Perkins CLE 04/13/2015 CLE vs. DET W 14 6 3 3 100.0 0 0 - 0 2 0.0 1 1 2 3 0 1 2 3 -7
+p23
+aVIman Shumpert CLE 04/13/2015 CLE vs. DET W 24 5 2 8 25.0 1 3 33.3 0 0 - 1 6 7 3 1 0 3 4 2
+p24
+aVJames Jones CLE 04/13/2015 CLE vs. DET W 10 8 3 3 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 1 2
+p25
+aVMatthew Dellavedova CLE 04/12/2015 CLE @ BOS L 32 7 3 12 25.0 1 6 16.7 0 0 - 1 1 2 9 0 0 4 1 -18
+p26
+aVJames Jones CLE 04/12/2015 CLE @ BOS L 26 14 4 7 57.1 1 3 33.3 5 5 100.0 1 3 4 0 0 1 0 2 -26
+p27
+aVShawn Marion CLE 04/12/2015 CLE @ BOS L 26 8 4 9 44.4 0 2 0.0 0 0 - 2 5 7 0 1 0 2 0 -14
+p28
+aVMike Miller CLE 04/12/2015 CLE @ BOS L 24 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 2 0 1 3 3 -29
+p29
+aVTimofey Mozgov CLE 04/12/2015 CLE @ BOS L 23 9 4 11 36.4 0 0 - 1 2 50.0 4 4 8 1 0 1 4 0 -12
+p30
+aVTristan Thompson CLE 04/12/2015 CLE @ BOS L 28 14 5 11 45.5 0 0 - 4 6 66.7 2 3 5 0 0 1 3 0 -15
+p31
+aVJoe Harris CLE 04/12/2015 CLE @ BOS L 25 9 4 8 50.0 0 3 0.0 1 2 50.0 0 2 2 1 0 1 0 5 -20
+p32
+aVKendrick Perkins CLE 04/12/2015 CLE @ BOS L 19 0 0 2 0.0 0 0 - 0 0 - 0 4 4 2 0 0 1 3 -25
+p33
+aVIman Shumpert CLE 04/12/2015 CLE @ BOS L 38 15 6 15 40.0 1 5 20.0 2 4 50.0 1 9 10 3 0 0 7 4 -36
+p34
+aVJames Jones CLE 04/10/2015 CLE vs. BOS L 18 9 1 7 14.3 0 6 0.0 7 9 77.8 0 0 0 0 2 0 0 3 -10
+p35
+aVTimofey Mozgov CLE 04/10/2015 CLE vs. BOS L 17 13 6 10 60.0 0 0 - 1 2 50.0 1 1 2 0 0 1 3 2 -12
+p36
+aVShawn Marion CLE 04/10/2015 CLE vs. BOS L 21 4 2 6 33.3 0 0 - 0 0 - 2 3 5 1 0 1 0 1 -8
+p37
+aVMatthew Dellavedova CLE 04/10/2015 CLE vs. BOS L 41 9 4 8 50.0 1 3 33.3 0 0 - 1 2 3 8 1 0 3 3 -7
+p38
+aVMike Miller CLE 04/10/2015 CLE vs. BOS L 23 11 3 7 42.9 3 6 50.0 2 2 100.0 0 4 4 3 0 0 0 1 3
+p39
+aVJR Smith CLE 04/10/2015 CLE vs. BOS L 18 0 0 4 0.0 0 4 0.0 0 0 - 0 2 2 0 0 0 3 3 -7
+p40
+aVTristan Thompson CLE 04/10/2015 CLE vs. BOS L 16 2 1 2 50.0 0 0 - 0 0 - 4 8 12 1 0 0 1 1 6
+p41
+aVLeBron James CLE 04/10/2015 CLE vs. BOS L 26 14 5 14 35.7 0 5 0.0 4 9 44.4 0 3 3 7 1 0 3 1 1
+p42
+aVJoe Harris CLE 04/10/2015 CLE vs. BOS L 13 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 1 0 0 3 4 -9
+p43
+aVKendrick Perkins CLE 04/10/2015 CLE vs. BOS L 15 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -3
+p44
+aVKevin Love CLE 04/10/2015 CLE vs. BOS L 31 19 6 12 50.0 4 8 50.0 3 3 100.0 2 4 6 4 0 0 2 1 1
+p45
+aVLeBron James CLE 04/08/2015 CLE @ MIL W 40 21 8 15 53.3 2 5 40.0 3 4 75.0 2 7 9 8 1 1 2 2 0
+p46
+aVJR Smith CLE 04/08/2015 CLE @ MIL W 40 12 5 12 41.7 2 8 25.0 0 0 - 1 1 2 2 1 0 2 3 6
+p47
+aVMatthew Dellavedova CLE 04/08/2015 CLE @ MIL W 12 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 1 7
+p48
+aVKevin Love CLE 04/08/2015 CLE @ MIL W 35 16 7 14 50.0 1 5 20.0 1 2 50.0 2 9 11 0 1 2 2 1 3
+p49
+aVJames Jones CLE 04/08/2015 CLE @ MIL W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 0 1
+p50
+aVTimofey Mozgov CLE 04/08/2015 CLE @ MIL W 20 5 1 2 50.0 0 0 - 3 4 75.0 0 4 4 1 2 1 3 1 0
+p51
+aVIman Shumpert CLE 04/08/2015 CLE @ MIL W 22 9 4 8 50.0 1 4 25.0 0 0 - 2 0 2 1 0 0 1 4 4
+p52
+aVKyrie Irving CLE 04/08/2015 CLE @ MIL W 41 27 7 13 53.8 4 8 50.0 9 11 81.8 3 1 4 9 3 0 6 3 1
+p53
+aVTristan Thompson CLE 04/08/2015 CLE @ MIL W 24 11 3 3 100.0 0 0 - 5 5 100.0 1 9 10 1 0 0 2 2 3
+p54
+aVLeBron James CLE 04/05/2015 CLE vs. CHI W 37 20 8 17 47.1 1 3 33.3 3 6 50.0 2 8 10 12 3 1 3 4 10
+p55
+aVJR Smith CLE 04/05/2015 CLE vs. CHI W 43 24 8 17 47.1 8 17 47.1 0 0 - 1 3 4 1 1 1 0 3 -2
+p56
+aVTristan Thompson CLE 04/05/2015 CLE vs. CHI W 24 4 1 3 33.3 0 0 - 2 6 33.3 1 5 6 0 0 0 0 0 2
+p57
+aVTimofey Mozgov CLE 04/05/2015 CLE vs. CHI W 32 11 5 7 71.4 0 0 - 1 2 50.0 3 5 8 3 0 0 0 5 6
+p58
+aVKevin Love CLE 04/05/2015 CLE vs. CHI W 31 11 4 12 33.3 3 8 37.5 0 0 - 1 3 4 2 2 1 2 1 5
+p59
+aVKyrie Irving CLE 04/05/2015 CLE vs. CHI W 37 27 8 19 42.1 4 5 80.0 7 8 87.5 2 3 5 4 3 1 5 2 4
+p60
+aVIman Shumpert CLE 04/05/2015 CLE vs. CHI W 24 0 0 6 0.0 0 4 0.0 0 0 - 0 3 3 2 0 0 0 2 7
+p61
+aVMatthew Dellavedova CLE 04/05/2015 CLE vs. CHI W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p62
+aVLeBron James CLE 04/02/2015 CLE vs. MIA W 35 23 9 16 56.3 1 2 50.0 4 5 80.0 1 7 8 7 1 3 3 3 14
+p63
+aVIman Shumpert CLE 04/02/2015 CLE vs. MIA W 27 17 7 12 58.3 3 6 50.0 0 0 - 2 1 3 1 4 0 2 2 28
+p64
+aVJR Smith CLE 04/02/2015 CLE vs. MIA W 33 12 4 12 33.3 3 10 30.0 1 2 50.0 0 3 3 4 0 2 0 3 18
+p65
+aVKendrick Perkins CLE 04/02/2015 CLE vs. MIA W 4 4 2 2 100.0 0 0 - 0 1 0.0 0 2 2 0 0 0 0 0 3
+p66
+aVJames Jones CLE 04/02/2015 CLE vs. MIA W 23 6 1 5 20.0 1 4 25.0 3 3 100.0 0 0 0 0 0 0 0 5 -2
+p67
+aVTimofey Mozgov CLE 04/02/2015 CLE vs. MIA W 23 7 2 4 50.0 0 0 - 3 4 75.0 2 6 8 0 0 1 1 3 15
+p68
+aVMatthew Dellavedova CLE 04/02/2015 CLE vs. MIA W 23 14 4 7 57.1 4 5 80.0 2 2 100.0 0 1 1 4 2 0 2 2 14
+p69
+aVKyrie Irving CLE 04/02/2015 CLE vs. MIA W 36 23 8 17 47.1 3 7 42.9 4 4 100.0 0 1 1 5 4 0 4 2 15
+p70
+aVTristan Thompson CLE 04/02/2015 CLE vs. MIA W 29 8 3 4 75.0 0 0 - 2 4 50.0 5 10 15 0 1 1 2 1 17
+p71
+aVJoe Harris CLE 04/02/2015 CLE vs. MIA W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 5
+p72
+aVMike Miller CLE 04/02/2015 CLE vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p73
+aVLeBron James CLE 03/29/2015 CLE vs. PHI W 38 20 8 24 33.3 1 4 25.0 3 6 50.0 2 9 11 6 0 1 5 0 -4
+p74
+aVKevin Love CLE 03/29/2015 CLE vs. PHI W 31 10 4 10 40.0 2 5 40.0 0 1 0.0 3 7 10 1 2 1 2 1 11
+p75
+aVTristan Thompson CLE 03/29/2015 CLE vs. PHI W 20 6 2 5 40.0 0 0 - 2 2 100.0 4 5 9 0 0 0 1 1 0
+p76
+aVJames Jones CLE 03/29/2015 CLE vs. PHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p77
+aVTimofey Mozgov CLE 03/29/2015 CLE vs. PHI W 33 14 6 9 66.7 0 0 - 2 2 100.0 5 5 10 1 0 0 2 4 -4
+p78
+aVJR Smith CLE 03/29/2015 CLE vs. PHI W 37 9 3 8 37.5 3 7 42.9 0 0 - 1 2 3 2 0 0 0 1 -1
+p79
+aVMatthew Dellavedova CLE 03/29/2015 CLE vs. PHI W 20 0 0 2 0.0 0 2 0.0 0 0 - 1 2 3 2 0 0 0 2 -1
+p80
+aVIman Shumpert CLE 03/29/2015 CLE vs. PHI W 11 9 2 7 28.6 2 2 100.0 3 4 75.0 0 1 1 0 3 0 0 0 6
+p81
+aVKyrie Irving CLE 03/29/2015 CLE vs. PHI W 38 17 7 18 38.9 1 2 50.0 2 3 66.7 0 3 3 4 2 0 5 1 3
+p82
+aVShawn Marion CLE 03/29/2015 CLE vs. PHI W 6 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 0 0 2 1 -1
+p83
+aVKevin Love CLE 03/27/2015 CLE @ BKN L 31 18 6 11 54.5 2 4 50.0 4 4 100.0 1 6 7 1 0 0 3 6 0
+p84
+aVKyrie Irving CLE 03/27/2015 CLE @ BKN L 38 26 10 22 45.5 1 5 20.0 5 5 100.0 0 2 2 3 1 2 1 1 1
+p85
+aVMatthew Dellavedova CLE 03/27/2015 CLE @ BKN L 10 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -9
+p86
+aVKendrick Perkins CLE 03/27/2015 CLE @ BKN L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p87
+aVTimofey Mozgov CLE 03/27/2015 CLE @ BKN L 17 2 1 3 33.3 0 0 - 0 0 - 0 5 5 0 0 1 3 0 8
+p88
+aVLeBron James CLE 03/27/2015 CLE @ BKN L 38 24 8 15 53.3 2 5 40.0 6 8 75.0 0 5 5 9 5 1 3 4 -1
+p89
+aVJR Smith CLE 03/27/2015 CLE @ BKN L 37 8 3 10 30.0 2 9 22.2 0 0 - 0 5 5 1 2 0 2 4 1
+p90
+aVJames Jones CLE 03/27/2015 CLE @ BKN L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 1 -8
+p91
+aVTristan Thompson CLE 03/27/2015 CLE @ BKN L 23 8 4 6 66.7 0 0 - 0 2 0.0 2 7 9 0 1 0 0 0 -11
+p92
+aVIman Shumpert CLE 03/27/2015 CLE @ BKN L 30 9 4 9 44.4 0 3 0.0 1 1 100.0 2 4 6 1 1 0 1 2 -15
+p93
+aVShawn Marion CLE 03/25/2015 CLE @ MEM W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -4
+p94
+aVTristan Thompson CLE 03/25/2015 CLE @ MEM W 20 2 1 1 100.0 0 0 - 0 0 - 3 8 11 1 0 0 1 3 8
+p95
+aVIman Shumpert CLE 03/25/2015 CLE @ MEM W 26 5 2 8 25.0 1 5 20.0 0 0 - 0 3 3 3 1 1 0 1 -9
+p96
+aVTimofey Mozgov CLE 03/25/2015 CLE @ MEM W 26 14 5 7 71.4 0 0 - 4 4 100.0 4 5 9 4 0 1 3 3 22
+p97
+aVKendrick Perkins CLE 03/25/2015 CLE @ MEM W 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 0 -5
+p98
+aVMike Miller CLE 03/25/2015 CLE @ MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p99
+aVJames Jones CLE 03/25/2015 CLE @ MEM W 6 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -1
+p100
+aVKevin Love CLE 03/25/2015 CLE @ MEM W 32 22 10 13 76.9 2 4 50.0 0 0 - 1 9 10 4 1 2 5 0 23
+p101
+aVLeBron James CLE 03/25/2015 CLE @ MEM W 31 20 7 15 46.7 3 5 60.0 3 4 75.0 0 8 8 5 0 0 1 2 31
+p102
+aVJR Smith CLE 03/25/2015 CLE @ MEM W 32 13 5 10 50.0 3 7 42.9 0 0 - 0 2 2 6 2 1 0 2 27
+p103
+aVMatthew Dellavedova CLE 03/25/2015 CLE @ MEM W 17 9 3 5 60.0 3 4 75.0 0 0 - 0 0 0 4 0 0 0 2 11
+p104
+aVKyrie Irving CLE 03/25/2015 CLE @ MEM W 35 24 9 21 42.9 2 7 28.6 4 5 80.0 1 2 3 2 2 0 5 3 10
+p105
+aVLeBron James CLE 03/22/2015 CLE @ MIL W 39 28 10 17 58.8 1 4 25.0 7 7 100.0 2 8 10 6 5 1 5 1 4
+p106
+aVJR Smith CLE 03/22/2015 CLE @ MIL W 37 23 8 11 72.7 7 9 77.8 0 0 - 1 3 4 1 3 0 2 3 17
+p107
+aVKyrie Irving CLE 03/22/2015 CLE @ MIL W 31 20 9 19 47.4 1 5 20.0 1 1 100.0 0 3 3 7 2 0 3 1 -5
+p108
+aVJames Jones CLE 03/22/2015 CLE @ MIL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 0 0
+p109
+aVTristan Thompson CLE 03/22/2015 CLE @ MIL W 24 3 1 5 20.0 0 0 - 1 6 16.7 1 4 5 0 1 0 0 1 22
+p110
+aVTimofey Mozgov CLE 03/22/2015 CLE @ MIL W 22 10 4 5 80.0 0 0 - 2 2 100.0 2 0 2 3 1 0 1 2 -9
+p111
+aVIman Shumpert CLE 03/22/2015 CLE @ MIL W 30 10 4 7 57.1 2 3 66.7 0 0 - 0 4 4 0 1 0 0 1 29
+p112
+aVKevin Love CLE 03/22/2015 CLE @ MIL W 29 9 4 13 30.8 1 5 20.0 0 0 - 2 1 3 2 0 0 2 1 -1
+p113
+aVMatthew Dellavedova CLE 03/22/2015 CLE @ MIL W 17 5 2 5 40.0 1 3 33.3 0 0 - 1 3 4 2 0 0 0 2 23
+p114
+aVMike Miller CLE 03/22/2015 CLE @ MIL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 5
+p115
+aVKendrick Perkins CLE 03/22/2015 CLE @ MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p116
+aVMatthew Dellavedova CLE 03/20/2015 CLE vs. IND W 17 11 4 6 66.7 3 4 75.0 0 0 - 0 1 1 5 0 0 0 3 7
+p117
+aVKyrie Irving CLE 03/20/2015 CLE vs. IND W 33 13 4 16 25.0 1 4 25.0 4 4 100.0 3 1 4 3 0 0 1 4 1
+p118
+aVTristan Thompson CLE 03/20/2015 CLE vs. IND W 18 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 0 1 1 2 5 4
+p119
+aVTimofey Mozgov CLE 03/20/2015 CLE vs. IND W 34 12 5 10 50.0 0 0 - 2 4 50.0 2 6 8 0 2 1 2 2 0
+p120
+aVJR Smith CLE 03/20/2015 CLE vs. IND W 32 11 4 7 57.1 1 3 33.3 2 2 100.0 0 3 3 2 0 1 1 1 3
+p121
+aVJames Jones CLE 03/20/2015 CLE vs. IND W 5 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 0 -2
+p122
+aVLeBron James CLE 03/20/2015 CLE vs. IND W 39 29 13 26 50.0 2 6 33.3 1 2 50.0 0 7 7 5 0 0 3 0 -7
+p123
+aVIman Shumpert CLE 03/20/2015 CLE vs. IND W 24 1 0 3 0.0 0 2 0.0 1 2 50.0 2 3 5 2 1 2 0 1 5
+p124
+aVKevin Love CLE 03/20/2015 CLE vs. IND W 39 11 3 9 33.3 1 4 25.0 4 5 80.0 2 11 13 1 0 1 0 0 4
+p125
+aVLeBron James CLE 03/18/2015 CLE vs. BKN W 35 16 5 13 38.5 2 4 50.0 4 6 66.7 1 2 3 7 1 0 2 1 13
+p126
+aVKevin Love CLE 03/18/2015 CLE vs. BKN W 27 10 4 9 44.4 0 2 0.0 2 3 66.7 2 9 11 4 0 0 3 1 13
+p127
+aVShawn Marion CLE 03/18/2015 CLE vs. BKN W 5 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p128
+aVMike Miller CLE 03/18/2015 CLE vs. BKN W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 4
+p129
+aVKyrie Irving CLE 03/18/2015 CLE vs. BKN W 30 12 5 10 50.0 1 1 100.0 1 2 50.0 1 4 5 10 0 0 1 2 11
+p130
+aVTristan Thompson CLE 03/18/2015 CLE vs. BKN W 24 10 4 4 100.0 0 0 - 2 4 50.0 2 4 6 2 1 0 0 1 25
+p131
+aVMatthew Dellavedova CLE 03/18/2015 CLE vs. BKN W 26 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 5 0 0 2 3 24
+p132
+aVTimofey Mozgov CLE 03/18/2015 CLE vs. BKN W 17 17 7 8 87.5 0 0 - 3 5 60.0 2 1 3 1 0 1 1 3 -3
+p133
+aVIman Shumpert CLE 03/18/2015 CLE vs. BKN W 26 10 4 8 50.0 2 4 50.0 0 0 - 1 2 3 0 0 0 0 3 19
+p134
+aVJR Smith CLE 03/18/2015 CLE vs. BKN W 27 17 6 13 46.2 5 10 50.0 0 0 - 0 3 3 2 0 1 1 1 8
+p135
+aVJames Jones CLE 03/18/2015 CLE vs. BKN W 12 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 0 0 0 0 1 4
+p136
+aVKendrick Perkins CLE 03/18/2015 CLE vs. BKN W 7 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 1 1 1 3
+p137
+aVShawn Marion CLE 03/16/2015 CLE @ MIA L 9 5 2 4 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 7
+p138
+aVJR Smith CLE 03/16/2015 CLE @ MIA L 28 8 3 8 37.5 2 6 33.3 0 0 - 1 3 4 2 1 1 3 3 -20
+p139
+aVJames Jones CLE 03/16/2015 CLE @ MIA L 31 6 2 8 25.0 2 8 25.0 0 0 - 0 3 3 2 1 1 2 4 -3
+p140
+aVIman Shumpert CLE 03/16/2015 CLE @ MIA L 22 7 3 7 42.9 1 3 33.3 0 0 - 1 3 4 0 4 1 1 0 -2
+p141
+aVMike Miller CLE 03/16/2015 CLE @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p142
+aVMatthew Dellavedova CLE 03/16/2015 CLE @ MIA L 16 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 2 2 0 0 3 7
+p143
+aVKendrick Perkins CLE 03/16/2015 CLE @ MIA L 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 3 1
+p144
+aVLeBron James CLE 03/16/2015 CLE @ MIA L 35 26 8 19 42.1 4 8 50.0 6 8 75.0 1 1 2 4 0 0 4 2 -17
+p145
+aVTristan Thompson CLE 03/16/2015 CLE @ MIA L 27 7 3 8 37.5 0 0 - 1 2 50.0 2 6 8 0 0 0 0 2 -11
+p146
+aVTimofey Mozgov CLE 03/16/2015 CLE @ MIA L 28 10 4 7 57.1 0 0 - 2 3 66.7 1 4 5 0 0 0 1 2 -15
+p147
+aVKyrie Irving CLE 03/16/2015 CLE @ MIA L 34 21 5 15 33.3 2 7 28.6 9 11 81.8 0 2 2 6 0 1 2 2 -18
+p148
+aVIman Shumpert CLE 03/15/2015 CLE @ ORL W 31 8 3 6 50.0 1 2 50.0 1 1 100.0 1 5 6 3 3 1 2 2 6
+p149
+aVTristan Thompson CLE 03/15/2015 CLE @ ORL W 30 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 2 0 4 11
+p150
+aVKyrie Irving CLE 03/15/2015 CLE @ ORL W 35 33 12 15 80.0 5 6 83.3 4 6 66.7 0 4 4 4 1 0 5 3 10
+p151
+aVKendrick Perkins CLE 03/15/2015 CLE @ ORL W 14 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 0 0 1 2 2 -7
+p152
+aVJoe Harris CLE 03/15/2015 CLE @ ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p153
+aVMatthew Dellavedova CLE 03/15/2015 CLE @ ORL W 14 6 2 5 40.0 2 5 40.0 0 0 - 0 0 0 1 0 0 3 2 4
+p154
+aVTimofey Mozgov CLE 03/15/2015 CLE @ ORL W 24 8 4 8 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 17
+p155
+aVJR Smith CLE 03/15/2015 CLE @ ORL W 34 25 7 14 50.0 6 11 54.5 5 6 83.3 0 4 4 3 2 1 2 3 0
+p156
+aVLeBron James CLE 03/15/2015 CLE @ ORL W 35 21 9 14 64.3 0 3 0.0 3 4 75.0 1 7 8 13 3 1 1 3 25
+p157
+aVJames Jones CLE 03/15/2015 CLE @ ORL W 23 12 4 8 50.0 4 8 50.0 0 0 - 0 2 2 1 0 0 0 2 12
+p158
+aVJR Smith CLE 03/12/2015 CLE @ SAS W 30 6 2 6 33.3 2 5 40.0 0 0 - 0 3 3 3 0 0 3 3 -7
+p159
+aVLeBron James CLE 03/12/2015 CLE @ SAS W 44 31 10 20 50.0 3 6 50.0 8 10 80.0 0 5 5 7 2 1 3 2 4
+p160
+aVMatthew Dellavedova CLE 03/12/2015 CLE @ SAS W 11 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -7
+p161
+aVIman Shumpert CLE 03/12/2015 CLE @ SAS W 28 2 1 6 16.7 0 3 0.0 0 0 - 0 6 6 0 1 1 2 5 11
+p162
+aVTimofey Mozgov CLE 03/12/2015 CLE @ SAS W 23 10 4 7 57.1 0 0 - 2 4 50.0 4 2 6 1 0 0 2 1 0
+p163
+aVKevin Love CLE 03/12/2015 CLE @ SAS W 33 8 2 10 20.0 2 4 50.0 2 2 100.0 2 3 5 2 0 0 0 0 1
+p164
+aVTristan Thompson CLE 03/12/2015 CLE @ SAS W 30 12 5 9 55.6 0 0 - 2 2 100.0 4 5 9 0 0 0 0 3 2
+p165
+aVJames Jones CLE 03/12/2015 CLE @ SAS W 20 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 4 6
+p166
+aVKyrie Irving CLE 03/12/2015 CLE @ SAS W 47 57 20 32 62.5 7 7 100.0 10 10 100.0 1 2 3 5 4 0 2 3 5
+p167
+aVKyrie Irving CLE 03/10/2015 CLE @ DAL W 35 22 6 13 46.2 1 2 50.0 9 10 90.0 1 4 5 5 2 0 3 1 21
+p168
+aVMatthew Dellavedova CLE 03/10/2015 CLE @ DAL W 15 2 0 2 0.0 0 0 - 2 2 100.0 2 0 2 1 0 0 0 3 5
+p169
+aVTimofey Mozgov CLE 03/10/2015 CLE @ DAL W 33 17 5 10 50.0 0 0 - 7 8 87.5 2 2 4 1 1 2 0 3 23
+p170
+aVJR Smith CLE 03/10/2015 CLE @ DAL W 29 21 8 14 57.1 5 8 62.5 0 0 - 2 6 8 2 1 0 0 3 28
+p171
+aVKendrick Perkins CLE 03/10/2015 CLE @ DAL W 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 1 8
+p172
+aVKevin Love CLE 03/10/2015 CLE @ DAL W 33 21 9 17 52.9 2 6 33.3 1 2 50.0 2 12 14 2 0 1 3 2 24
+p173
+aVJames Jones CLE 03/10/2015 CLE @ DAL W 12 6 2 5 40.0 2 5 40.0 0 0 - 1 1 2 0 0 0 1 2 10
+p174
+aVTristan Thompson CLE 03/10/2015 CLE @ DAL W 12 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 2 4 1
+p175
+aVIman Shumpert CLE 03/10/2015 CLE @ DAL W 32 7 2 6 33.3 1 3 33.3 2 2 100.0 2 2 4 6 6 0 1 4 15
+p176
+aVLeBron James CLE 03/10/2015 CLE @ DAL W 29 27 10 14 71.4 4 6 66.7 3 5 60.0 0 7 7 8 1 1 2 3 27
+p177
+aVJoe Harris CLE 03/10/2015 CLE @ DAL W 5 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 2 3
+p178
+aVMatthew Dellavedova CLE 03/07/2015 CLE vs. PHX W 25 7 3 7 42.9 1 3 33.3 0 0 - 1 1 2 2 0 0 0 0 2
+p179
+aVJoe Harris CLE 03/07/2015 CLE vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p180
+aVKyrie Irving CLE 03/07/2015 CLE vs. PHX W 26 8 3 11 27.3 0 0 - 2 2 100.0 0 1 1 3 1 0 1 3 5
+p181
+aVMike Miller CLE 03/07/2015 CLE vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p182
+aVTristan Thompson CLE 03/07/2015 CLE vs. PHX W 29 15 6 9 66.7 0 0 - 3 3 100.0 8 4 12 1 1 0 1 0 -5
+p183
+aVIman Shumpert CLE 03/07/2015 CLE vs. PHX W 19 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 2 1 5
+p184
+aVTimofey Mozgov CLE 03/07/2015 CLE vs. PHX W 25 19 6 8 75.0 0 0 - 7 8 87.5 0 4 4 1 0 0 2 2 25
+p185
+aVKevin Love CLE 03/07/2015 CLE vs. PHX W 33 13 3 6 50.0 3 5 60.0 4 4 100.0 0 10 10 4 1 1 2 2 17
+p186
+aVKendrick Perkins CLE 03/07/2015 CLE vs. PHX W 8 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -14
+p187
+aVJames Jones CLE 03/07/2015 CLE vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p188
+aVLeBron James CLE 03/07/2015 CLE vs. PHX W 36 17 6 16 37.5 2 5 40.0 3 6 50.0 0 6 6 8 1 0 4 3 19
+p189
+aVJR Smith CLE 03/07/2015 CLE vs. PHX W 35 7 3 12 25.0 1 4 25.0 0 0 - 1 5 6 2 1 0 1 3 5
+p190
+aVTimofey Mozgov CLE 03/06/2015 CLE @ ATL L 21 6 1 1 100.0 0 0 - 4 4 100.0 0 3 3 0 0 2 1 2 0
+p191
+aVTristan Thompson CLE 03/06/2015 CLE @ ATL L 21 6 1 1 100.0 0 0 - 4 6 66.7 2 4 6 0 0 0 0 1 -10
+p192
+aVJames Jones CLE 03/06/2015 CLE @ ATL L 13 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 0 0 1 0 1 -11
+p193
+aVJoe Harris CLE 03/06/2015 CLE @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p194
+aVKevin Love CLE 03/06/2015 CLE @ ATL L 35 14 4 11 36.4 4 10 40.0 2 4 50.0 2 6 8 1 1 1 1 2 2
+p195
+aVKyrie Irving CLE 03/06/2015 CLE @ ATL L 42 20 7 16 43.8 0 5 0.0 6 7 85.7 0 1 1 4 2 0 5 0 -3
+p196
+aVJR Smith CLE 03/06/2015 CLE @ ATL L 30 12 4 11 36.4 3 7 42.9 1 2 50.0 2 3 5 3 0 1 0 3 -5
+p197
+aVLeBron James CLE 03/06/2015 CLE @ ATL L 40 18 5 13 38.5 1 4 25.0 7 8 87.5 1 5 6 8 2 1 9 3 -4
+p198
+aVIman Shumpert CLE 03/06/2015 CLE @ ATL L 22 10 4 6 66.7 2 4 50.0 0 0 - 1 2 3 1 2 0 1 1 -3
+p199
+aVMatthew Dellavedova CLE 03/06/2015 CLE @ ATL L 15 5 1 4 25.0 1 3 33.3 2 2 100.0 2 1 3 1 0 0 0 1 -11
+p200
+aVTristan Thompson CLE 03/04/2015 CLE @ TOR W 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 2 0 2 4 9
+p201
+aVJR Smith CLE 03/04/2015 CLE @ TOR W 37 15 6 12 50.0 3 8 37.5 0 0 - 2 6 8 1 1 2 0 3 15
+p202
+aVLeBron James CLE 03/04/2015 CLE @ TOR W 37 29 9 16 56.3 3 6 50.0 8 13 61.5 1 5 6 14 0 0 3 2 6
+p203
+aVKyrie Irving CLE 03/04/2015 CLE @ TOR W 41 26 9 17 52.9 1 5 20.0 7 7 100.0 0 2 2 8 0 0 2 0 10
+p204
+aVMatthew Dellavedova CLE 03/04/2015 CLE @ TOR W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p205
+aVIman Shumpert CLE 03/04/2015 CLE @ TOR W 21 2 1 4 25.0 0 2 0.0 0 0 - 2 0 2 1 1 0 0 3 -2
+p206
+aVTimofey Mozgov CLE 03/04/2015 CLE @ TOR W 23 10 4 9 44.4 0 0 - 2 2 100.0 1 4 5 0 1 1 2 1 7
+p207
+aVJames Jones CLE 03/04/2015 CLE @ TOR W 21 14 4 7 57.1 4 7 57.1 2 3 66.7 0 1 1 0 1 0 0 1 -4
+p208
+aVKevin Love CLE 03/04/2015 CLE @ TOR W 34 22 6 10 60.0 4 7 57.1 6 9 66.7 3 7 10 1 1 0 0 1 4
+p209
+aVTimofey Mozgov CLE 03/03/2015 CLE vs. BOS W 20 10 5 6 83.3 0 0 - 0 0 - 3 3 6 3 0 3 1 3 20
+p210
+aVMatthew Dellavedova CLE 03/03/2015 CLE vs. BOS W 25 0 0 6 0.0 0 3 0.0 0 0 - 1 4 5 7 1 0 0 2 4
+p211
+aVKevin Love CLE 03/03/2015 CLE vs. BOS W 25 12 4 10 40.0 2 6 33.3 2 2 100.0 0 8 8 3 0 1 0 0 25
+p212
+aVJoe Harris CLE 03/03/2015 CLE vs. BOS W 15 6 2 5 40.0 2 4 50.0 0 0 - 1 1 2 0 0 0 1 2 -7
+p213
+aVKendrick Perkins CLE 03/03/2015 CLE vs. BOS W 12 5 2 7 28.6 0 0 - 1 1 100.0 2 0 2 1 1 0 2 2 -11
+p214
+aVJR Smith CLE 03/03/2015 CLE vs. BOS W 23 12 5 9 55.6 2 4 50.0 0 0 - 0 4 4 0 1 0 1 3 22
+p215
+aVMike Miller CLE 03/03/2015 CLE vs. BOS W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p216
+aVJames Jones CLE 03/03/2015 CLE vs. BOS W 21 10 3 6 50.0 2 4 50.0 2 2 100.0 1 5 6 2 1 0 0 2 3
+p217
+aVLeBron James CLE 03/03/2015 CLE vs. BOS W 26 27 12 23 52.2 0 1 0.0 3 3 100.0 1 2 3 5 3 1 1 0 35
+p218
+aVKyrie Irving CLE 03/03/2015 CLE vs. BOS W 26 18 6 10 60.0 2 4 50.0 4 4 100.0 0 2 2 5 2 0 2 2 26
+p219
+aVTristan Thompson CLE 03/03/2015 CLE vs. BOS W 17 10 4 4 100.0 0 0 - 2 2 100.0 1 6 7 0 0 0 1 0 25
+p220
+aVIman Shumpert CLE 03/03/2015 CLE vs. BOS W 17 0 0 2 0.0 0 1 0.0 0 0 - 2 4 6 2 1 1 2 1 24
+p221
+aVLeBron James CLE 03/01/2015 CLE @ HOU L 42 37 15 35 42.9 4 12 33.3 3 11 27.3 2 6 8 4 3 3 4 4 -8
+p222
+aVTristan Thompson CLE 03/01/2015 CLE @ HOU L 37 14 5 9 55.6 0 0 - 4 4 100.0 11 8 19 1 2 1 2 5 5
+p223
+aVTimofey Mozgov CLE 03/01/2015 CLE @ HOU L 18 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 1 2 2 -13
+p224
+aVIman Shumpert CLE 03/01/2015 CLE @ HOU L 24 1 0 4 0.0 0 3 0.0 1 2 50.0 0 2 2 3 0 0 1 4 5
+p225
+aVJR Smith CLE 03/01/2015 CLE @ HOU L 51 8 3 13 23.1 1 8 12.5 1 2 50.0 4 6 10 4 4 0 2 4 1
+p226
+aVKevin Love CLE 03/01/2015 CLE @ HOU L 35 21 8 19 42.1 3 8 37.5 2 2 100.0 2 4 6 3 0 0 1 4 -7
+p227
+aVMatthew Dellavedova CLE 03/01/2015 CLE @ HOU L 42 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 4 2 0 2 4 -5
+p228
+aVJames Jones CLE 03/01/2015 CLE @ HOU L 15 9 3 6 50.0 3 6 50.0 0 0 - 0 1 1 0 0 0 1 2 12
+p229
+aVJames Jones CLE 02/27/2015 CLE @ IND L 30 6 2 6 33.3 2 5 40.0 0 2 0.0 0 0 0 1 0 0 1 2 -4
+p230
+aVKevin Love CLE 02/27/2015 CLE @ IND L 36 17 6 19 31.6 1 7 14.3 4 4 100.0 2 8 10 3 2 2 0 3 -1
+p231
+aVJR Smith CLE 02/27/2015 CLE @ IND L 31 21 7 17 41.2 4 6 66.7 3 3 100.0 1 1 2 4 0 1 1 5 0
+p232
+aVMike Miller CLE 02/27/2015 CLE @ IND L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 1 1 2
+p233
+aVTristan Thompson CLE 02/27/2015 CLE @ IND L 28 8 3 4 75.0 0 0 - 2 3 66.7 1 3 4 1 0 1 1 3 -15
+p234
+aVIman Shumpert CLE 02/27/2015 CLE @ IND L 32 14 7 17 41.2 0 4 0.0 0 0 - 3 7 10 2 0 2 5 0 -5
+p235
+aVTimofey Mozgov CLE 02/27/2015 CLE @ IND L 19 6 3 8 37.5 0 0 - 0 0 - 4 2 6 2 1 1 1 1 6
+p236
+aVMatthew Dellavedova CLE 02/27/2015 CLE @ IND L 38 14 5 18 27.8 2 6 33.3 2 2 100.0 3 7 10 5 0 0 4 4 -15
+p237
+aVKendrick Perkins CLE 02/27/2015 CLE @ IND L 12 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 4 -3
+p238
+aVKendrick Perkins CLE 02/26/2015 CLE vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p239
+aVJR Smith CLE 02/26/2015 CLE vs. GSW W 36 4 1 5 20.0 0 2 0.0 2 2 100.0 1 3 4 5 4 0 1 1 12
+p240
+aVIman Shumpert CLE 02/26/2015 CLE vs. GSW W 31 0 0 3 0.0 0 2 0.0 0 0 - 2 3 5 0 0 0 0 2 5
+p241
+aVMatthew Dellavedova CLE 02/26/2015 CLE vs. GSW W 10 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 0
+p242
+aVJames Jones CLE 02/26/2015 CLE vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p243
+aVTimofey Mozgov CLE 02/26/2015 CLE vs. GSW W 25 10 4 8 50.0 0 0 - 2 2 100.0 0 10 10 2 1 1 2 3 17
+p244
+aVLeBron James CLE 02/26/2015 CLE vs. GSW W 36 42 15 25 60.0 4 9 44.4 8 11 72.7 1 10 11 5 3 1 6 5 9
+p245
+aVMike Miller CLE 02/26/2015 CLE vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p246
+aVKyrie Irving CLE 02/26/2015 CLE vs. GSW W 38 24 6 17 35.3 2 8 25.0 10 10 100.0 1 2 3 1 2 0 2 1 11
+p247
+aVBrendan Haywood CLE 02/26/2015 CLE vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p248
+aVJoe Harris CLE 02/26/2015 CLE vs. GSW W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p249
+aVKevin Love CLE 02/26/2015 CLE vs. GSW W 37 16 5 10 50.0 3 5 60.0 3 4 75.0 0 8 8 1 0 0 2 2 11
+p250
+aVTristan Thompson CLE 02/26/2015 CLE vs. GSW W 22 12 4 6 66.7 0 0 - 4 6 66.7 3 5 8 0 0 0 2 0 4
+p251
+aVJames Jones CLE 02/24/2015 CLE @ DET W 15 6 2 4 50.0 2 3 66.7 0 0 - 1 3 4 0 0 0 0 1 11
+p252
+aVIman Shumpert CLE 02/24/2015 CLE @ DET W 30 8 2 10 20.0 2 7 28.6 2 2 100.0 0 3 3 1 0 0 0 2 -7
+p253
+aVKevin Love CLE 02/24/2015 CLE @ DET W 34 24 8 16 50.0 8 14 57.1 0 0 - 0 9 9 3 1 0 0 2 -3
+p254
+aVJR Smith CLE 02/24/2015 CLE @ DET W 22 4 1 4 25.0 0 2 0.0 2 2 100.0 1 1 2 2 3 0 0 4 0
+p255
+aVMatthew Dellavedova CLE 02/24/2015 CLE @ DET W 16 3 1 3 33.3 1 3 33.3 0 0 - 1 3 4 0 0 0 0 2 11
+p256
+aVTimofey Mozgov CLE 02/24/2015 CLE @ DET W 20 14 5 6 83.3 0 0 - 4 4 100.0 1 5 6 0 0 4 0 3 20
+p257
+aVJoe Harris CLE 02/24/2015 CLE @ DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p258
+aVKyrie Irving CLE 02/24/2015 CLE @ DET W 34 18 6 16 37.5 0 3 0.0 6 6 100.0 0 2 2 5 1 0 3 4 -3
+p259
+aVKendrick Perkins CLE 02/24/2015 CLE @ DET W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p260
+aVLeBron James CLE 02/24/2015 CLE @ DET W 39 19 6 14 42.9 1 5 20.0 6 10 60.0 0 7 7 11 3 1 9 3 27
+p261
+aVTristan Thompson CLE 02/24/2015 CLE @ DET W 26 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 1 0 1 2 -7
+p262
+aVTristan Thompson CLE 02/22/2015 CLE @ NYK W 22 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 1 0 1 4 10
+p263
+aVJoe Harris CLE 02/22/2015 CLE @ NYK W 9 3 1 2 50.0 1 2 50.0 0 2 0.0 0 1 1 0 0 0 1 0 -12
+p264
+aVJames Jones CLE 02/22/2015 CLE @ NYK W 14 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 -10
+p265
+aVBrendan Haywood CLE 02/22/2015 CLE @ NYK W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p266
+aVTimofey Mozgov CLE 02/22/2015 CLE @ NYK W 24 7 3 4 75.0 0 0 - 1 2 50.0 2 4 6 0 0 1 4 2 12
+p267
+aVLeBron James CLE 02/22/2015 CLE @ NYK W 28 18 7 17 41.2 1 6 16.7 3 5 60.0 0 7 7 7 2 0 4 2 14
+p268
+aVIman Shumpert CLE 02/22/2015 CLE @ NYK W 30 4 2 6 33.3 0 3 0.0 0 0 - 0 5 5 7 0 0 0 0 8
+p269
+aVJR Smith CLE 02/22/2015 CLE @ NYK W 29 17 7 11 63.6 3 5 60.0 0 0 - 1 2 3 4 1 2 1 3 26
+p270
+aVKyrie Irving CLE 02/22/2015 CLE @ NYK W 27 18 6 10 60.0 2 4 50.0 4 4 100.0 1 1 2 2 1 0 2 1 19
+p271
+aVMatthew Dellavedova CLE 02/22/2015 CLE @ NYK W 21 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 1 0 0 1 1 -1
+p272
+aVKevin Love CLE 02/22/2015 CLE @ NYK W 29 16 7 14 50.0 2 5 40.0 0 0 - 1 15 16 1 0 0 0 0 28
+p273
+aVJames Jones CLE 02/20/2015 CLE @ WAS W 8 10 3 4 75.0 3 4 75.0 1 2 50.0 0 0 0 0 0 0 0 1 3
+p274
+aVJoe Harris CLE 02/20/2015 CLE @ WAS W 6 5 1 2 50.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 1 5
+p275
+aVMike Miller CLE 02/20/2015 CLE @ WAS W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 0 0 1 1 3
+p276
+aVKevin Love CLE 02/20/2015 CLE @ WAS W 30 8 3 8 37.5 0 3 0.0 2 4 50.0 3 3 6 3 3 0 1 1 14
+p277
+aVLeBron James CLE 02/20/2015 CLE @ WAS W 25 28 12 21 57.1 3 5 60.0 1 3 33.3 0 5 5 6 1 0 2 3 30
+p278
+aVIman Shumpert CLE 02/20/2015 CLE @ WAS W 22 12 4 8 50.0 3 6 50.0 1 2 50.0 1 3 4 2 3 1 0 3 21
+p279
+aVBrendan Haywood CLE 02/20/2015 CLE @ WAS W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 5
+p280
+aVMatthew Dellavedova CLE 02/20/2015 CLE @ WAS W 23 8 3 6 50.0 1 2 50.0 1 2 50.0 0 2 2 5 0 0 1 2 24
+p281
+aVTimofey Mozgov CLE 02/20/2015 CLE @ WAS W 29 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 2 2 2 0 1 42
+p282
+aVJR Smith CLE 02/20/2015 CLE @ WAS W 29 15 6 12 50.0 3 8 37.5 0 0 - 1 4 5 3 2 1 0 3 11
+p283
+aVTristan Thompson CLE 02/20/2015 CLE @ WAS W 23 6 2 5 40.0 0 0 - 2 2 100.0 4 5 9 0 0 0 1 1 12
+p284
+aVKyrie Irving CLE 02/20/2015 CLE @ WAS W 31 25 9 18 50.0 1 4 25.0 6 6 100.0 0 2 2 7 0 0 4 0 20
+p285
+aVTristan Thompson CLE 02/12/2015 CLE @ CHI L 32 10 5 5 100.0 0 0 - 0 0 - 3 5 8 1 0 0 1 3 -18
+p286
+aVJames Jones CLE 02/12/2015 CLE @ CHI L 30 9 2 8 25.0 2 8 25.0 3 3 100.0 1 2 3 1 1 0 1 3 -3
+p287
+aVKyrie Irving CLE 02/12/2015 CLE @ CHI L 38 17 6 18 33.3 1 3 33.3 4 6 66.7 3 3 6 7 1 1 1 1 -6
+p288
+aVIman Shumpert CLE 02/12/2015 CLE @ CHI L 22 6 2 6 33.3 2 4 50.0 0 0 - 1 1 2 1 0 0 2 1 8
+p289
+aVTimofey Mozgov CLE 02/12/2015 CLE @ CHI L 26 13 5 6 83.3 0 0 - 3 6 50.0 2 9 11 0 0 1 1 5 -6
+p290
+aVShawn Marion CLE 02/12/2015 CLE @ CHI L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p291
+aVMatthew Dellavedova CLE 02/12/2015 CLE @ CHI L 16 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 2 -14
+p292
+aVMike Miller CLE 02/12/2015 CLE @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 0
+p293
+aVLeBron James CLE 02/12/2015 CLE @ CHI L 34 31 12 26 46.2 2 9 22.2 5 6 83.3 0 5 5 4 0 0 8 3 -27
+p294
+aVJR Smith CLE 02/12/2015 CLE @ CHI L 31 8 3 10 30.0 1 5 20.0 1 1 100.0 0 4 4 4 3 1 2 4 -6
+p295
+aVKevin Love CLE 02/11/2015 CLE vs. MIA W 20 12 5 8 62.5 1 4 25.0 1 2 50.0 1 5 6 4 2 1 0 1 18
+p296
+aVTristan Thompson CLE 02/11/2015 CLE vs. MIA W 36 17 7 8 87.5 0 0 - 3 4 75.0 2 7 9 0 0 0 4 3 13
+p297
+aVLeBron James CLE 02/11/2015 CLE vs. MIA W 31 18 6 16 37.5 0 4 0.0 6 7 85.7 0 9 9 7 1 0 5 2 19
+p298
+aVMatthew Dellavedova CLE 02/11/2015 CLE vs. MIA W 16 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 5 0 0 0 2 15
+p299
+aVKyrie Irving CLE 02/11/2015 CLE vs. MIA W 38 15 5 14 35.7 3 5 60.0 2 2 100.0 2 2 4 6 2 0 3 2 3
+p300
+aVJames Jones CLE 02/11/2015 CLE vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p301
+aVBrendan Haywood CLE 02/11/2015 CLE vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p302
+aVJR Smith CLE 02/11/2015 CLE vs. MIA W 33 10 4 10 40.0 2 6 33.3 0 0 - 1 3 4 7 3 0 2 2 -2
+p303
+aVJoe Harris CLE 02/11/2015 CLE vs. MIA W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 2
+p304
+aVShawn Marion CLE 02/11/2015 CLE vs. MIA W 5 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 1
+p305
+aVTimofey Mozgov CLE 02/11/2015 CLE vs. MIA W 34 20 9 11 81.8 0 0 - 2 2 100.0 3 5 8 2 0 2 0 4 6
+p306
+aVIman Shumpert CLE 02/11/2015 CLE vs. MIA W 23 13 5 7 71.4 3 4 75.0 0 1 0.0 0 0 0 0 1 0 1 3 21
+p307
+aVJR Smith CLE 02/08/2015 CLE vs. LAL W 34 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 4 0 0 0 1 17
+p308
+aVKevin Love CLE 02/08/2015 CLE vs. LAL W 35 32 11 18 61.1 7 8 87.5 3 5 60.0 0 10 10 3 0 0 1 2 23
+p309
+aVJames Jones CLE 02/08/2015 CLE vs. LAL W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -8
+p310
+aVKyrie Irving CLE 02/08/2015 CLE vs. LAL W 32 28 10 14 71.4 5 8 62.5 3 4 75.0 0 4 4 10 1 0 1 4 25
+p311
+aVTristan Thompson CLE 02/08/2015 CLE vs. LAL W 29 10 4 7 57.1 0 0 - 2 6 33.3 1 7 8 2 0 1 0 0 -5
+p312
+aVJoe Harris CLE 02/08/2015 CLE vs. LAL W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p313
+aVMatthew Dellavedova CLE 02/08/2015 CLE vs. LAL W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 2 -8
+p314
+aVLeBron James CLE 02/08/2015 CLE vs. LAL W 30 22 8 16 50.0 2 7 28.6 4 5 80.0 2 8 10 8 1 0 6 2 15
+p315
+aVTimofey Mozgov CLE 02/08/2015 CLE vs. LAL W 28 8 4 6 66.7 0 0 - 0 0 - 3 7 10 1 0 4 3 3 20
+p316
+aVIman Shumpert CLE 02/08/2015 CLE vs. LAL W 29 12 5 13 38.5 2 5 40.0 0 0 - 0 2 2 2 4 2 2 0 2
+p317
+aVTimofey Mozgov CLE 02/06/2015 CLE @ IND L 32 13 5 9 55.6 0 0 - 3 4 75.0 5 4 9 2 0 0 3 3 3
+p318
+aVKyrie Irving CLE 02/06/2015 CLE @ IND L 39 29 13 26 50.0 3 9 33.3 0 0 - 3 1 4 5 1 0 2 5 -5
+p319
+aVLeBron James CLE 02/06/2015 CLE @ IND L 39 25 10 21 47.6 0 4 0.0 5 8 62.5 0 6 6 5 2 1 7 3 -3
+p320
+aVShawn Marion CLE 02/06/2015 CLE @ IND L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p321
+aVMatthew Dellavedova CLE 02/06/2015 CLE @ IND L 16 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 0 1 -2
+p322
+aVTristan Thompson CLE 02/06/2015 CLE @ IND L 24 4 2 5 40.0 0 0 - 0 0 - 5 3 8 0 1 2 1 0 -14
+p323
+aVKevin Love CLE 02/06/2015 CLE @ IND L 34 5 2 8 25.0 1 4 25.0 0 0 - 0 8 8 2 0 0 0 4 2
+p324
+aVIman Shumpert CLE 02/06/2015 CLE @ IND L 20 6 2 3 66.7 2 3 66.7 0 0 - 1 2 3 2 1 0 2 2 -4
+p325
+aVJR Smith CLE 02/06/2015 CLE @ IND L 31 17 6 14 42.9 5 12 41.7 0 0 - 1 2 3 0 1 0 0 2 -1
+p326
+aVIman Shumpert CLE 02/05/2015 CLE vs. LAC W 18 4 1 5 20.0 0 3 0.0 2 2 100.0 2 2 4 1 2 0 1 2 1
+p327
+aVShawn Marion CLE 02/05/2015 CLE vs. LAC W 12 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 1 0 1 0 0 -20
+p328
+aVTristan Thompson CLE 02/05/2015 CLE vs. LAC W 20 9 2 4 50.0 0 0 - 5 6 83.3 4 6 10 0 0 2 4 4 2
+p329
+aVJames Jones CLE 02/05/2015 CLE vs. LAC W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -16
+p330
+aVTimofey Mozgov CLE 02/05/2015 CLE vs. LAC W 28 12 5 7 71.4 0 0 - 2 6 33.3 4 5 9 2 0 1 3 2 26
+p331
+aVLeBron James CLE 02/05/2015 CLE vs. LAC W 28 23 8 14 57.1 1 2 50.0 6 7 85.7 0 3 3 9 1 0 2 0 27
+p332
+aVMike Miller CLE 02/05/2015 CLE vs. LAC W 13 1 0 5 0.0 0 5 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -17
+p333
+aVJR Smith CLE 02/05/2015 CLE vs. LAC W 29 16 6 10 60.0 4 8 50.0 0 0 - 1 4 5 2 5 0 0 2 26
+p334
+aVMatthew Dellavedova CLE 02/05/2015 CLE vs. LAC W 20 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 1 2 0 2 4 -8
+p335
+aVKevin Love CLE 02/05/2015 CLE vs. LAC W 29 24 6 14 42.9 2 6 33.3 10 12 83.3 0 9 9 3 0 0 3 2 24
+p336
+aVKyrie Irving CLE 02/05/2015 CLE vs. LAC W 32 10 1 5 20.0 1 3 33.3 7 7 100.0 2 4 6 4 0 0 1 3 26
+p337
+aVBrendan Haywood CLE 02/05/2015 CLE vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -16
+p338
+aVLeBron James CLE 02/02/2015 CLE vs. PHI W 36 18 6 17 35.3 1 4 25.0 5 6 83.3 0 3 3 11 2 0 6 2 19
+p339
+aVShawn Marion CLE 02/02/2015 CLE vs. PHI W 8 2 1 1 100.0 0 0 - 0 2 0.0 0 0 0 1 1 0 0 1 -11
+p340
+aVJoe Harris CLE 02/02/2015 CLE vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p341
+aVKyrie Irving CLE 02/02/2015 CLE vs. PHI W 39 24 9 16 56.3 3 8 37.5 3 4 75.0 1 4 5 5 0 0 5 1 22
+p342
+aVIman Shumpert CLE 02/02/2015 CLE vs. PHI W 22 11 4 4 100.0 2 2 100.0 1 2 50.0 0 2 2 0 2 0 1 3 -7
+p343
+aVMatthew Dellavedova CLE 02/02/2015 CLE vs. PHI W 22 12 4 7 57.1 3 4 75.0 1 2 50.0 0 1 1 2 1 0 2 5 -2
+p344
+aVKevin Love CLE 02/02/2015 CLE vs. PHI W 33 5 1 7 14.3 1 2 50.0 2 2 100.0 3 12 15 2 1 1 1 1 26
+p345
+aVMike Miller CLE 02/02/2015 CLE vs. PHI W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p346
+aVTimofey Mozgov CLE 02/02/2015 CLE vs. PHI W 27 10 4 11 36.4 0 0 - 2 2 100.0 3 5 8 0 1 5 0 3 3
+p347
+aVTristan Thompson CLE 02/02/2015 CLE vs. PHI W 21 3 1 4 25.0 0 0 - 1 2 50.0 4 3 7 0 0 0 0 0 10
+p348
+aVJR Smith CLE 02/02/2015 CLE vs. PHI W 26 12 5 10 50.0 2 6 33.3 0 0 - 0 2 2 1 0 0 2 1 5
+p349
+aVKevin Love CLE 01/31/2015 CLE @ MIN W 36 14 6 14 42.9 1 5 20.0 1 4 25.0 6 11 17 3 0 0 2 1 4
+p350
+aVTimofey Mozgov CLE 01/31/2015 CLE @ MIN W 17 14 7 10 70.0 0 0 - 0 0 - 2 2 4 0 0 1 0 4 -2
+p351
+aVKyrie Irving CLE 01/31/2015 CLE @ MIN W 33 12 4 16 25.0 2 8 25.0 2 3 66.7 1 3 4 4 2 0 3 2 7
+p352
+aVJames Jones CLE 01/31/2015 CLE @ MIN W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p353
+aVShawn Marion CLE 01/31/2015 CLE @ MIN W 11 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 2 3 9
+p354
+aVMike Miller CLE 01/31/2015 CLE @ MIN W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 0 0 1 11
+p355
+aVLeBron James CLE 01/31/2015 CLE @ MIN W 40 36 14 25 56.0 3 8 37.5 5 8 62.5 3 3 6 5 0 1 2 1 25
+p356
+aVJR Smith CLE 01/31/2015 CLE @ MIN W 23 5 2 7 28.6 1 6 16.7 0 0 - 0 1 1 2 1 0 0 3 -6
+p357
+aVMatthew Dellavedova CLE 01/31/2015 CLE @ MIN W 20 10 3 5 60.0 2 3 66.7 2 2 100.0 0 1 1 1 1 0 0 2 17
+p358
+aVTristan Thompson CLE 01/31/2015 CLE @ MIN W 31 4 1 2 50.0 0 0 - 2 2 100.0 4 9 13 0 0 4 0 1 18
+p359
+aVIman Shumpert CLE 01/31/2015 CLE @ MIN W 21 9 4 6 66.7 1 2 50.0 0 0 - 0 2 2 0 2 0 4 1 -6
+p360
+aVTimofey Mozgov CLE 01/30/2015 CLE vs. SAC W 21 7 3 4 75.0 0 0 - 1 3 33.3 1 7 8 0 1 3 2 4 11
+p361
+aVJames Jones CLE 01/30/2015 CLE vs. SAC W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p362
+aVShawn Marion CLE 01/30/2015 CLE vs. SAC W 15 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 8
+p363
+aVMatthew Dellavedova CLE 01/30/2015 CLE vs. SAC W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 4 -9
+p364
+aVIman Shumpert CLE 01/30/2015 CLE vs. SAC W 22 7 3 7 42.9 1 4 25.0 0 0 - 0 3 3 1 2 0 1 3 -8
+p365
+aVKevin Love CLE 01/30/2015 CLE vs. SAC W 29 23 9 17 52.9 2 5 40.0 3 3 100.0 1 9 10 3 0 0 2 2 23
+p366
+aVJR Smith CLE 01/30/2015 CLE vs. SAC W 37 16 6 12 50.0 4 10 40.0 0 0 - 0 3 3 5 4 0 2 3 10
+p367
+aVLeBron James CLE 01/30/2015 CLE vs. SAC W 33 19 7 16 43.8 1 4 25.0 4 6 66.7 0 3 3 7 4 2 6 1 13
+p368
+aVTristan Thompson CLE 01/30/2015 CLE vs. SAC W 28 6 1 4 25.0 0 0 - 4 6 66.7 3 6 9 0 0 0 0 2 0
+p369
+aVMike Miller CLE 01/30/2015 CLE vs. SAC W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -7
+p370
+aVKyrie Irving CLE 01/30/2015 CLE vs. SAC W 32 21 8 13 61.5 3 6 50.0 2 4 50.0 0 3 3 6 0 0 3 0 20
+p371
+aVKevin Love CLE 01/28/2015 CLE vs. POR W 39 10 3 15 20.0 2 8 25.0 2 2 100.0 2 10 12 2 0 0 0 1 -5
+p372
+aVJR Smith CLE 01/28/2015 CLE vs. POR W 38 11 5 12 41.7 1 6 16.7 0 0 - 0 1 1 4 1 0 2 3 7
+p373
+aVKyrie Irving CLE 01/28/2015 CLE vs. POR W 39 55 17 36 47.2 11 19 57.9 10 10 100.0 2 2 4 5 2 0 3 0 12
+p374
+aVTimofey Mozgov CLE 01/28/2015 CLE vs. POR W 36 12 4 9 44.4 0 0 - 4 6 66.7 3 7 10 0 0 1 1 3 12
+p375
+aVTristan Thompson CLE 01/28/2015 CLE vs. POR W 21 4 2 7 28.6 0 0 - 0 0 - 3 5 8 0 0 0 0 4 1
+p376
+aVShawn Marion CLE 01/28/2015 CLE vs. POR W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p377
+aVMike Miller CLE 01/28/2015 CLE vs. POR W 10 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p378
+aVMatthew Dellavedova CLE 01/28/2015 CLE vs. POR W 20 0 0 1 0.0 0 1 0.0 0 0 - 2 1 3 3 0 0 1 2 1
+p379
+aVIman Shumpert CLE 01/28/2015 CLE vs. POR W 28 4 2 4 50.0 0 2 0.0 0 0 - 2 4 6 1 0 0 1 0 -7
+p380
+aVTristan Thompson CLE 01/27/2015 CLE @ DET W 27 4 2 6 33.3 0 0 - 0 0 - 6 6 12 0 1 0 1 3 -5
+p381
+aVLeBron James CLE 01/27/2015 CLE @ DET W 36 32 11 24 45.8 0 4 0.0 10 11 90.9 0 6 6 7 1 0 4 3 0
+p382
+aVJR Smith CLE 01/27/2015 CLE @ DET W 32 5 2 11 18.2 1 6 16.7 0 0 - 0 1 1 1 1 0 0 5 4
+p383
+aVShawn Marion CLE 01/27/2015 CLE @ DET W 19 8 4 5 80.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 6
+p384
+aVKyrie Irving CLE 01/27/2015 CLE @ DET W 42 38 13 23 56.5 6 10 60.0 6 6 100.0 1 2 3 6 3 1 3 2 8
+p385
+aVKevin Love CLE 01/27/2015 CLE @ DET W 32 7 3 11 27.3 1 8 12.5 0 0 - 0 8 8 4 0 0 0 2 11
+p386
+aVIman Shumpert CLE 01/27/2015 CLE @ DET W 18 3 1 5 20.0 1 5 20.0 0 0 - 0 1 1 0 1 1 1 2 0
+p387
+aVMatthew Dellavedova CLE 01/27/2015 CLE @ DET W 13 0 0 1 0.0 0 1 0.0 0 0 - 2 3 5 0 0 0 0 3 7
+p388
+aVTimofey Mozgov CLE 01/27/2015 CLE @ DET W 20 6 3 7 42.9 0 0 - 0 0 - 3 4 7 1 2 1 0 0 9
+p389
+aVKyrie Irving CLE 01/25/2015 CLE vs. OKC W 41 21 9 21 42.9 3 7 42.9 0 0 - 0 2 2 6 2 0 2 2 -3
+p390
+aVTristan Thompson CLE 01/25/2015 CLE vs. OKC W 31 10 3 4 75.0 0 0 - 4 8 50.0 5 11 16 1 0 3 0 3 22
+p391
+aVMatthew Dellavedova CLE 01/25/2015 CLE vs. OKC W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 2 4
+p392
+aVJR Smith CLE 01/25/2015 CLE vs. OKC W 32 14 4 14 28.6 4 12 33.3 2 2 100.0 0 2 2 2 0 0 0 1 -4
+p393
+aVShawn Marion CLE 01/25/2015 CLE vs. OKC W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 13
+p394
+aVLeBron James CLE 01/25/2015 CLE vs. OKC W 39 34 11 25 44.0 2 6 33.3 10 13 76.9 0 7 7 5 1 2 2 1 5
+p395
+aVKevin Love CLE 01/25/2015 CLE vs. OKC W 36 19 6 10 60.0 5 7 71.4 2 4 50.0 3 10 13 1 0 1 3 1 -5
+p396
+aVIman Shumpert CLE 01/25/2015 CLE vs. OKC W 14 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 0 16
+p397
+aVTimofey Mozgov CLE 01/25/2015 CLE vs. OKC W 28 2 0 3 0.0 0 0 - 2 2 100.0 2 4 6 1 1 2 2 4 2
+p398
+aVMike Miller CLE 01/23/2015 CLE vs. CHA W 12 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 0 0 0 1 -1
+p399
+aVJoe Harris CLE 01/23/2015 CLE vs. CHA W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -10
+p400
+aVShawn Marion CLE 01/23/2015 CLE vs. CHA W 16 8 4 7 57.1 0 0 - 0 0 - 1 4 5 0 0 0 0 1 14
+p401
+aVKyrie Irving CLE 01/23/2015 CLE vs. CHA W 28 18 7 12 58.3 3 4 75.0 1 2 50.0 1 3 4 2 1 1 1 2 29
+p402
+aVKevin Love CLE 01/23/2015 CLE vs. CHA W 30 9 3 7 42.9 0 0 - 3 4 75.0 1 2 3 3 1 1 1 1 33
+p403
+aVJames Jones CLE 01/23/2015 CLE vs. CHA W 9 8 2 5 40.0 0 3 0.0 4 4 100.0 0 1 1 0 0 0 1 1 -4
+p404
+aVTristan Thompson CLE 01/23/2015 CLE vs. CHA W 22 5 2 7 28.6 0 0 - 1 2 50.0 4 6 10 0 0 1 2 2 20
+p405
+aVTimofey Mozgov CLE 01/23/2015 CLE vs. CHA W 21 14 4 5 80.0 0 0 - 6 7 85.7 2 8 10 0 0 1 1 1 29
+p406
+aVBrendan Haywood CLE 01/23/2015 CLE vs. CHA W 11 3 1 4 25.0 0 0 - 1 1 100.0 1 4 5 1 0 0 1 4 -3
+p407
+aVJR Smith CLE 01/23/2015 CLE vs. CHA W 29 21 7 13 53.8 7 11 63.6 0 0 - 0 4 4 4 0 0 1 2 33
+p408
+aVLeBron James CLE 01/23/2015 CLE vs. CHA W 27 25 9 15 60.0 2 4 50.0 5 6 83.3 1 5 6 9 4 1 2 1 32
+p409
+aVIman Shumpert CLE 01/23/2015 CLE vs. CHA W 10 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 2 0 0 0 1 15
+p410
+aVMatthew Dellavedova CLE 01/23/2015 CLE vs. CHA W 20 5 2 5 40.0 0 0 - 1 2 50.0 0 3 3 8 1 0 0 2 8
+p411
+aVShawn Marion CLE 01/21/2015 CLE vs. UTA W 16 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 3
+p412
+aVKevin Love CLE 01/21/2015 CLE vs. UTA W 33 19 7 15 46.7 1 7 14.3 4 4 100.0 5 8 13 2 1 2 2 2 11
+p413
+aVMatthew Dellavedova CLE 01/21/2015 CLE vs. UTA W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 6 0 0 0 1 -6
+p414
+aVLeBron James CLE 01/21/2015 CLE vs. UTA W 36 26 8 16 50.0 0 2 0.0 10 14 71.4 2 5 7 9 4 0 7 0 14
+p415
+aVBrendan Haywood CLE 01/21/2015 CLE vs. UTA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p416
+aVJR Smith CLE 01/21/2015 CLE vs. UTA W 38 15 5 16 31.3 2 11 18.2 3 4 75.0 0 7 7 3 3 0 3 1 16
+p417
+aVKyrie Irving CLE 01/21/2015 CLE vs. UTA W 37 18 8 13 61.5 2 3 66.7 0 1 0.0 0 3 3 4 5 0 0 1 16
+p418
+aVJames Jones CLE 01/21/2015 CLE vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p419
+aVTristan Thompson CLE 01/21/2015 CLE vs. UTA W 19 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 14
+p420
+aVJoe Harris CLE 01/21/2015 CLE vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p421
+aVMike Miller CLE 01/21/2015 CLE vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p422
+aVTimofey Mozgov CLE 01/21/2015 CLE vs. UTA W 40 16 8 12 66.7 0 0 - 0 2 0.0 7 4 11 0 1 2 0 4 10
+p423
+aVKyrie Irving CLE 01/19/2015 CLE vs. CHI W 41 18 7 16 43.8 1 2 50.0 3 4 75.0 1 3 4 12 0 2 1 1 15
+p424
+aVTristan Thompson CLE 01/19/2015 CLE vs. CHI W 27 6 3 10 30.0 0 0 - 0 1 0.0 6 4 10 0 0 0 0 4 13
+p425
+aVMike Miller CLE 01/19/2015 CLE vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p426
+aVBrendan Haywood CLE 01/19/2015 CLE vs. CHI W 2 2 0 0 - 0 0 - 2 4 50.0 0 0 0 0 0 0 0 0 -2
+p427
+aVJames Jones CLE 01/19/2015 CLE vs. CHI W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p428
+aVMatthew Dellavedova CLE 01/19/2015 CLE vs. CHI W 13 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -7
+p429
+aVShawn Marion CLE 01/19/2015 CLE vs. CHI W 18 2 1 1 100.0 0 0 - 0 0 - 1 3 4 1 2 0 0 0 5
+p430
+aVKevin Love CLE 01/19/2015 CLE vs. CHI W 30 16 3 13 23.1 1 3 33.3 9 10 90.0 5 7 12 2 1 0 3 4 2
+p431
+aVJR Smith CLE 01/19/2015 CLE vs. CHI W 34 20 7 11 63.6 6 9 66.7 0 0 - 1 2 3 1 1 0 1 1 17
+p432
+aVJoe Harris CLE 01/19/2015 CLE vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p433
+aVTimofey Mozgov CLE 01/19/2015 CLE vs. CHI W 33 15 7 14 50.0 0 0 - 1 1 100.0 5 10 15 0 1 2 1 4 17
+p434
+aVLeBron James CLE 01/19/2015 CLE vs. CHI W 36 26 12 23 52.2 0 3 0.0 2 3 66.7 1 4 5 4 0 0 6 4 16
+p435
+aVMike Miller CLE 01/16/2015 CLE @ LAC W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 0 0 1 4 3
+p436
+aVTimofey Mozgov CLE 01/16/2015 CLE @ LAC W 26 12 5 6 83.3 0 0 - 2 2 100.0 1 2 3 0 0 0 1 4 9
+p437
+aVKyrie Irving CLE 01/16/2015 CLE @ LAC W 41 37 12 18 66.7 5 7 71.4 8 9 88.9 1 3 4 5 3 1 4 4 5
+p438
+aVShawn Marion CLE 01/16/2015 CLE @ LAC W 27 2 1 7 14.3 0 1 0.0 0 0 - 5 3 8 1 0 0 1 4 1
+p439
+aVLeBron James CLE 01/16/2015 CLE @ LAC W 42 32 11 23 47.8 3 8 37.5 7 12 58.3 0 11 11 7 3 0 9 4 8
+p440
+aVTristan Thompson CLE 01/16/2015 CLE @ LAC W 40 24 10 12 83.3 0 0 - 4 4 100.0 3 9 12 0 0 2 1 2 -6
+p441
+aVJR Smith CLE 01/16/2015 CLE @ LAC W 30 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 4 3 0 0 3 -1
+p442
+aVMatthew Dellavedova CLE 01/16/2015 CLE @ LAC W 23 8 2 5 40.0 1 2 50.0 3 4 75.0 2 0 2 5 0 0 2 5 6
+p443
+aVLeBron James CLE 01/15/2015 CLE @ LAL W 38 36 12 23 52.2 4 9 44.4 8 13 61.5 1 3 4 5 2 0 1 2 15
+p444
+aVJR Smith CLE 01/15/2015 CLE @ LAL W 37 14 5 13 38.5 3 10 30.0 1 2 50.0 0 4 4 2 1 0 0 1 5
+p445
+aVKevin Love CLE 01/15/2015 CLE @ LAL W 37 17 4 12 33.3 1 6 16.7 8 9 88.9 1 6 7 1 1 0 1 2 14
+p446
+aVTimofey Mozgov CLE 01/15/2015 CLE @ LAL W 23 4 2 5 40.0 0 0 - 0 0 - 3 6 9 1 0 1 1 2 3
+p447
+aVTristan Thompson CLE 01/15/2015 CLE @ LAL W 32 5 2 5 40.0 0 0 - 1 2 50.0 5 6 11 0 0 2 1 2 3
+p448
+aVShawn Marion CLE 01/15/2015 CLE @ LAL W 25 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 1 1 0 0 2 -12
+p449
+aVMatthew Dellavedova CLE 01/15/2015 CLE @ LAL W 11 6 2 2 100.0 1 1 100.0 1 2 50.0 0 0 0 1 1 0 0 2 9
+p450
+aVKyrie Irving CLE 01/15/2015 CLE @ LAL W 37 22 9 16 56.3 0 4 0.0 4 4 100.0 2 0 2 3 2 0 5 2 -2
+p451
+aVKevin Love CLE 01/13/2015 CLE @ PHX L 27 9 3 11 27.3 1 5 20.0 2 2 100.0 6 3 9 0 0 1 1 1 -20
+p452
+aVJR Smith CLE 01/13/2015 CLE @ PHX L 39 29 10 19 52.6 8 14 57.1 1 1 100.0 0 1 1 2 4 0 0 6 -10
+p453
+aVTristan Thompson CLE 01/13/2015 CLE @ PHX L 32 10 5 5 100.0 0 0 - 0 0 - 3 3 6 0 0 0 1 3 -4
+p454
+aVKyrie Irving CLE 01/13/2015 CLE @ PHX L 44 9 4 14 28.6 1 4 25.0 0 0 - 0 1 1 6 1 0 8 1 -7
+p455
+aVShawn Marion CLE 01/13/2015 CLE @ PHX L 22 6 2 7 28.6 0 1 0.0 2 2 100.0 4 7 11 2 0 0 0 1 4
+p456
+aVMike Miller CLE 01/13/2015 CLE @ PHX L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p457
+aVJames Jones CLE 01/13/2015 CLE @ PHX L 12 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 0 2 6
+p458
+aVLeBron James CLE 01/13/2015 CLE @ PHX L 37 33 11 18 61.1 3 8 37.5 8 13 61.5 1 6 7 5 1 0 5 3 4
+p459
+aVTimofey Mozgov CLE 01/13/2015 CLE @ PHX L 16 2 0 3 0.0 0 0 - 2 2 100.0 2 4 6 0 0 0 4 3 -9
+p460
+aVMatthew Dellavedova CLE 01/13/2015 CLE @ PHX L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p461
+aVKevin Love CLE 01/11/2015 CLE @ SAC L 35 25 10 21 47.6 3 9 33.3 2 3 66.7 1 9 10 3 1 1 4 1 -21
+p462
+aVJR Smith CLE 01/11/2015 CLE @ SAC L 31 4 2 10 20.0 0 4 0.0 0 0 - 0 5 5 1 1 0 4 3 -11
+p463
+aVMike Miller CLE 01/11/2015 CLE @ SAC L 25 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 0 0 0 1 0 -17
+p464
+aVKyrie Irving CLE 01/11/2015 CLE @ SAC L 36 21 7 18 38.9 4 7 57.1 3 4 75.0 0 3 3 7 0 1 3 3 -18
+p465
+aVBrendan Haywood CLE 01/11/2015 CLE @ SAC L 6 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 1 0 0 5
+p466
+aVJoe Harris CLE 01/11/2015 CLE @ SAC L 23 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 1 0 0 1 1 1
+p467
+aVTimofey Mozgov CLE 01/11/2015 CLE @ SAC L 33 14 6 8 75.0 0 0 - 2 4 50.0 4 8 12 0 0 2 0 3 -21
+p468
+aVTristan Thompson CLE 01/11/2015 CLE @ SAC L 23 6 3 6 50.0 0 0 - 0 1 0.0 1 3 4 0 0 1 0 3 -1
+p469
+aVMatthew Dellavedova CLE 01/11/2015 CLE @ SAC L 24 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 5 0 0 1 4 -6
+p470
+aVJames Jones CLE 01/11/2015 CLE @ SAC L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -6
+p471
+aVJoe Harris CLE 01/09/2015 CLE @ GSW L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -9
+p472
+aVMike Miller CLE 01/09/2015 CLE @ GSW L 20 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 2 1 0 1 1 5
+p473
+aVTimofey Mozgov CLE 01/09/2015 CLE @ GSW L 27 9 3 7 42.9 0 0 - 3 5 60.0 5 3 8 1 0 1 2 1 -17
+p474
+aVJR Smith CLE 01/09/2015 CLE @ GSW L 42 27 11 23 47.8 3 8 37.5 2 2 100.0 1 4 5 1 1 0 3 3 -10
+p475
+aVTristan Thompson CLE 01/09/2015 CLE @ GSW L 30 11 4 9 44.4 0 0 - 3 6 50.0 4 5 9 1 2 0 2 3 -10
+p476
+aVKyrie Irving CLE 01/09/2015 CLE @ GSW L 41 23 9 23 39.1 2 4 50.0 3 4 75.0 1 5 6 5 3 0 2 1 -6
+p477
+aVMatthew Dellavedova CLE 01/09/2015 CLE @ GSW L 15 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 2 1 -20
+p478
+aVJames Jones CLE 01/09/2015 CLE @ GSW L 19 2 0 5 0.0 0 5 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -14
+p479
+aVKevin Love CLE 01/09/2015 CLE @ GSW L 38 17 6 11 54.5 1 2 50.0 4 4 100.0 3 11 14 1 1 0 1 1 -7
+p480
+aVBrendan Haywood CLE 01/09/2015 CLE @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p481
+aVMatthew Dellavedova CLE 01/07/2015 CLE vs. HOU L 35 9 3 8 37.5 2 5 40.0 1 2 50.0 0 1 1 5 0 0 1 2 0
+p482
+aVMike Miller CLE 01/07/2015 CLE vs. HOU L 27 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 2 3 1 2 3 -5
+p483
+aVKyrie Irving CLE 01/07/2015 CLE vs. HOU L 41 38 15 26 57.7 4 8 50.0 4 4 100.0 1 1 2 3 1 0 4 1 -10
+p484
+aVTristan Thompson CLE 01/07/2015 CLE vs. HOU L 32 11 2 7 28.6 0 0 - 7 7 100.0 5 1 6 0 1 1 1 4 -7
+p485
+aVJR Smith CLE 01/07/2015 CLE vs. HOU L 18 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 0 1 1 2 3 -11
+p486
+aVJames Jones CLE 01/07/2015 CLE vs. HOU L 10 6 2 4 50.0 2 4 50.0 0 0 - 1 1 2 0 1 0 0 0 5
+p487
+aVShawn Marion CLE 01/07/2015 CLE vs. HOU L 16 2 1 6 16.7 0 1 0.0 0 0 - 2 2 4 2 0 0 1 0 -8
+p488
+aVJoe Harris CLE 01/07/2015 CLE vs. HOU L 16 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 2 0 1 2 -9
+p489
+aVKevin Love CLE 01/07/2015 CLE vs. HOU L 39 17 7 19 36.8 0 3 0.0 3 6 50.0 3 13 16 4 0 0 1 3 -13
+p490
+aVBrendan Haywood CLE 01/07/2015 CLE vs. HOU L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 1 2 0 -2
+p491
+aVA.J. Price CLE 01/05/2015 CLE @ PHI L 14 6 3 10 30.0 0 3 0.0 0 0 - 1 1 2 3 0 0 1 0 -7
+p492
+aVMike Miller CLE 01/05/2015 CLE @ PHI L 24 6 2 7 28.6 2 4 50.0 0 0 - 0 4 4 2 1 0 0 0 15
+p493
+aVKevin Love CLE 01/05/2015 CLE @ PHI L 37 28 8 18 44.4 1 6 16.7 11 13 84.6 4 15 19 2 2 0 3 1 0
+p494
+aVTristan Thompson CLE 01/05/2015 CLE @ PHI L 41 18 8 17 47.1 0 0 - 2 5 40.0 6 3 9 2 2 0 3 3 -2
+p495
+aVJames Jones CLE 01/05/2015 CLE @ PHI L 27 9 3 7 42.9 3 6 50.0 0 0 - 0 2 2 1 0 0 1 2 -6
+p496
+aVMatthew Dellavedova CLE 01/05/2015 CLE @ PHI L 39 3 1 7 14.3 1 2 50.0 0 2 0.0 1 1 2 8 1 0 2 2 -3
+p497
+aVBrendan Haywood CLE 01/05/2015 CLE @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p498
+aVJoe Harris CLE 01/05/2015 CLE @ PHI L 32 16 6 12 50.0 4 8 50.0 0 0 - 0 1 1 4 1 0 1 4 -1
+p499
+aVShawn Marion CLE 01/05/2015 CLE @ PHI L 22 6 2 7 28.6 0 1 0.0 2 2 100.0 1 3 4 1 1 1 0 1 -3
+p500
+aVKevin Love CLE 01/04/2015 CLE vs. DAL L 32 30 11 21 52.4 3 7 42.9 5 6 83.3 6 4 10 3 1 1 2 1 -10
+p501
+aVJames Jones CLE 01/04/2015 CLE vs. DAL L 13 6 1 3 33.3 1 3 33.3 3 3 100.0 0 2 2 0 0 1 1 0 -2
+p502
+aVA.J. Price CLE 01/04/2015 CLE vs. DAL L 14 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 3 1 0 0 0 -3
+p503
+aVKyrie Irving CLE 01/04/2015 CLE vs. DAL L 25 6 2 9 22.2 0 2 0.0 2 2 100.0 0 2 2 3 1 0 1 1 -7
+p504
+aVShawn Marion CLE 01/04/2015 CLE vs. DAL L 21 13 6 11 54.5 1 1 100.0 0 0 - 1 3 4 1 0 0 1 2 -11
+p505
+aVMike Miller CLE 01/04/2015 CLE vs. DAL L 22 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 3 0 0 0 1 -14
+p506
+aVJoe Harris CLE 01/04/2015 CLE vs. DAL L 11 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 -9
+p507
+aVDion Waiters CLE 01/04/2015 CLE vs. DAL L 22 8 4 14 28.6 0 4 0.0 0 0 - 1 1 2 4 0 0 2 2 -3
+p508
+aVTristan Thompson CLE 01/04/2015 CLE vs. DAL L 39 8 3 5 60.0 0 0 - 2 6 33.3 3 8 11 2 2 1 1 4 -14
+p509
+aVLou Amundson CLE 01/04/2015 CLE vs. DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p510
+aVMatthew Dellavedova CLE 01/04/2015 CLE vs. DAL L 32 10 4 10 40.0 2 3 66.7 0 0 - 1 2 3 7 0 0 3 3 -16
+p511
+aVAlex Kirk CLE 01/04/2015 CLE vs. DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p512
+aVKevin Love CLE 01/02/2015 CLE @ CHA W 38 27 9 15 60.0 3 4 75.0 6 10 60.0 0 5 5 1 0 1 1 3 10
+p513
+aVMike Miller CLE 01/02/2015 CLE @ CHA W 21 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 0 2 4 15
+p514
+aVKyrie Irving CLE 01/02/2015 CLE @ CHA W 42 23 8 27 29.6 0 2 0.0 7 8 87.5 1 3 4 3 4 0 1 1 4
+p515
+aVDion Waiters CLE 01/02/2015 CLE @ CHA W 34 17 8 21 38.1 0 4 0.0 1 2 50.0 3 2 5 2 4 0 1 2 -8
+p516
+aVTristan Thompson CLE 01/02/2015 CLE @ CHA W 43 14 5 10 50.0 0 0 - 4 6 66.7 6 8 14 0 0 3 2 3 9
+p517
+aVBrendan Haywood CLE 01/02/2015 CLE @ CHA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p518
+aVMatthew Dellavedova CLE 01/02/2015 CLE @ CHA W 34 3 1 4 25.0 1 2 50.0 0 0 - 1 6 7 4 0 0 0 5 5
+p519
+aVShawn Marion CLE 01/02/2015 CLE @ CHA W 23 7 2 7 28.6 0 2 0.0 3 4 75.0 2 8 10 2 0 1 0 3 -6
+p520
+aVJames Jones CLE 01/02/2015 CLE @ CHA W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p521
+aVLou Amundson CLE 12/31/2014 CLE vs. MIL L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p522
+aVBrendan Haywood CLE 12/31/2014 CLE vs. MIL L 15 4 2 5 40.0 0 0 - 0 1 0.0 3 2 5 0 0 2 1 1 -3
+p523
+aVA.J. Price CLE 12/31/2014 CLE vs. MIL L 11 4 1 4 25.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 0 -14
+p524
+aVJoe Harris CLE 12/31/2014 CLE vs. MIL L 19 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 0 1 1 0 0 -16
+p525
+aVAlex Kirk CLE 12/31/2014 CLE vs. MIL L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p526
+aVDion Waiters CLE 12/31/2014 CLE vs. MIL L 27 10 5 10 50.0 0 2 0.0 0 0 - 1 2 3 4 2 0 2 2 -9
+p527
+aVKyrie Irving CLE 12/31/2014 CLE vs. MIL L 39 25 9 23 39.1 1 7 14.3 6 7 85.7 0 5 5 4 0 0 3 0 0
+p528
+aVTristan Thompson CLE 12/31/2014 CLE vs. MIL L 37 10 3 11 27.3 0 0 - 4 4 100.0 7 6 13 2 0 1 2 4 -19
+p529
+aVJames Jones CLE 12/31/2014 CLE vs. MIL L 23 9 3 8 37.5 3 6 50.0 0 0 - 0 5 5 1 0 0 0 2 -8
+p530
+aVMike Miller CLE 12/31/2014 CLE vs. MIL L 33 5 2 8 25.0 1 6 16.7 0 0 - 0 8 8 3 2 1 1 4 -7
+p531
+aVMatthew Dellavedova CLE 12/31/2014 CLE vs. MIL L 30 11 3 8 37.5 3 5 60.0 2 2 100.0 0 4 4 4 0 0 1 2 0
+p532
+aVJames Jones CLE 12/30/2014 CLE @ ATL L 26 9 3 10 30.0 3 9 33.3 0 0 - 1 2 3 2 3 2 1 3 5
+p533
+aVDion Waiters CLE 12/30/2014 CLE @ ATL L 25 9 3 10 30.0 1 3 33.3 2 3 66.7 0 3 3 4 2 0 4 2 -3
+p534
+aVJoe Harris CLE 12/30/2014 CLE @ ATL L 27 13 4 7 57.1 3 4 75.0 2 2 100.0 2 2 4 2 0 0 0 4 -10
+p535
+aVMike Miller CLE 12/30/2014 CLE @ ATL L 19 0 0 0 - 0 0 - 0 0 - 0 2 2 2 1 0 1 1 3
+p536
+aVKyrie Irving CLE 12/30/2014 CLE @ ATL L 43 35 13 27 48.1 3 10 30.0 6 7 85.7 2 4 6 9 2 0 8 3 -1
+p537
+aVLou Amundson CLE 12/30/2014 CLE @ ATL L 5 0 0 0 - 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -5
+p538
+aVA.J. Price CLE 12/30/2014 CLE @ ATL L 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p539
+aVKevin Love CLE 12/30/2014 CLE @ ATL L 24 7 1 8 12.5 1 1 100.0 4 4 100.0 1 6 7 1 2 0 1 1 -6
+p540
+aVTristan Thompson CLE 12/30/2014 CLE @ ATL L 42 18 9 12 75.0 0 0 - 0 5 0.0 3 10 13 0 0 0 1 6 -10
+p541
+aVMatthew Dellavedova CLE 12/30/2014 CLE @ ATL L 21 6 2 6 33.3 2 4 50.0 0 0 - 0 0 0 2 0 0 1 3 -4
+p542
+aVKevin Love CLE 12/28/2014 CLE vs. DET L 34 20 9 19 47.4 1 7 14.3 1 2 50.0 2 8 10 1 0 1 2 2 -25
+p543
+aVJames Jones CLE 12/28/2014 CLE vs. DET L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 1 0 1 -9
+p544
+aVLeBron James CLE 12/28/2014 CLE vs. DET L 32 17 5 19 26.3 2 6 33.3 5 5 100.0 1 9 10 7 1 0 7 3 -17
+p545
+aVTristan Thompson CLE 12/28/2014 CLE vs. DET L 37 18 7 8 87.5 0 0 - 4 4 100.0 7 4 11 0 0 0 2 3 -10
+p546
+aVDion Waiters CLE 12/28/2014 CLE vs. DET L 24 6 3 8 37.5 0 0 - 0 0 - 0 1 1 1 0 2 2 1 -24
+p547
+aVA.J. Price CLE 12/28/2014 CLE vs. DET L 18 2 0 6 0.0 0 4 0.0 2 4 50.0 0 5 5 4 2 0 0 0 -4
+p548
+aVLou Amundson CLE 12/28/2014 CLE vs. DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p549
+aVJoe Harris CLE 12/28/2014 CLE vs. DET L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p550
+aVMatthew Dellavedova CLE 12/28/2014 CLE vs. DET L 26 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 6 0 0 2 4 -4
+p551
+aVMike Miller CLE 12/28/2014 CLE vs. DET L 25 3 1 5 20.0 1 5 20.0 0 0 - 0 3 3 3 0 0 0 1 -18
+p552
+aVBrendan Haywood CLE 12/28/2014 CLE vs. DET L 8 7 3 3 100.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 0 -3
+p553
+aVShawn Marion CLE 12/28/2014 CLE vs. DET L 15 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 1 1 1 1 0 -2
+p554
+aVMatthew Dellavedova CLE 12/26/2014 CLE @ ORL W 36 8 2 7 28.6 2 7 28.6 2 2 100.0 0 1 1 3 1 0 3 3 10
+p555
+aVLeBron James CLE 12/26/2014 CLE @ ORL W 37 29 10 20 50.0 0 5 0.0 9 11 81.8 0 5 5 8 2 2 4 1 7
+p556
+aVTristan Thompson CLE 12/26/2014 CLE @ ORL W 40 9 3 8 37.5 0 0 - 3 3 100.0 6 7 13 0 1 1 0 3 4
+p557
+aVMike Miller CLE 12/26/2014 CLE @ ORL W 38 9 3 8 37.5 3 8 37.5 0 0 - 0 5 5 5 2 0 0 4 26
+p558
+aVShawn Marion CLE 12/26/2014 CLE @ ORL W 15 4 2 6 33.3 0 1 0.0 0 0 - 1 2 3 0 1 1 0 0 0
+p559
+aVDion Waiters CLE 12/26/2014 CLE @ ORL W 33 17 6 14 42.9 0 1 0.0 5 5 100.0 0 3 3 1 3 1 0 2 3
+p560
+aVA.J. Price CLE 12/26/2014 CLE @ ORL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p561
+aVKevin Love CLE 12/26/2014 CLE @ ORL W 33 22 7 17 41.2 3 8 37.5 5 5 100.0 1 6 7 2 0 0 2 1 2
+p562
+aVJoe Harris CLE 12/26/2014 CLE @ ORL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p563
+aVTristan Thompson CLE 12/25/2014 CLE @ MIA L 26 6 2 5 40.0 0 0 - 2 4 50.0 4 5 9 0 1 1 1 2 -6
+p564
+aVKyrie Irving CLE 12/25/2014 CLE @ MIA L 42 25 10 19 52.6 1 3 33.3 4 5 80.0 0 4 4 3 1 0 2 3 -10
+p565
+aVKevin Love CLE 12/25/2014 CLE @ MIA L 39 14 5 13 38.5 0 4 0.0 4 4 100.0 1 4 5 3 1 1 2 0 -2
+p566
+aVLeBron James CLE 12/25/2014 CLE @ MIA L 40 30 9 16 56.3 2 8 25.0 10 18 55.6 0 4 4 8 0 0 4 1 -9
+p567
+aVMike Miller CLE 12/25/2014 CLE @ MIA L 26 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 0 0 0 1 4 -2
+p568
+aVShawn Marion CLE 12/25/2014 CLE @ MIA L 19 2 1 5 20.0 0 2 0.0 0 0 - 3 2 5 0 1 0 1 2 -12
+p569
+aVJames Jones CLE 12/25/2014 CLE @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p570
+aVDion Waiters CLE 12/25/2014 CLE @ MIA L 28 8 3 8 37.5 1 4 25.0 1 2 50.0 1 5 6 2 3 2 3 1 -1
+p571
+aVMatthew Dellavedova CLE 12/25/2014 CLE @ MIA L 15 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 0 1 0 1 2 -3
+p572
+aVTristan Thompson CLE 12/23/2014 CLE vs. MIN W 27 5 2 4 50.0 0 0 - 1 2 50.0 3 6 9 0 1 0 1 0 25
+p573
+aVA.J. Price CLE 12/23/2014 CLE vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p574
+aVMike Miller CLE 12/23/2014 CLE vs. MIN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -6
+p575
+aVShawn Marion CLE 12/23/2014 CLE vs. MIN W 26 11 5 7 71.4 0 0 - 1 2 50.0 1 3 4 2 1 3 0 2 5
+p576
+aVKyrie Irving CLE 12/23/2014 CLE vs. MIN W 37 29 12 19 63.2 2 4 50.0 3 3 100.0 0 0 0 4 3 0 6 4 6
+p577
+aVLeBron James CLE 12/23/2014 CLE vs. MIN W 35 24 8 16 50.0 4 7 57.1 4 5 80.0 0 4 4 3 1 3 2 3 22
+p578
+aVBrendan Haywood CLE 12/23/2014 CLE vs. MIN W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p579
+aVJoe Harris CLE 12/23/2014 CLE vs. MIN W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 3
+p580
+aVKevin Love CLE 12/23/2014 CLE vs. MIN W 36 20 5 11 45.5 1 2 50.0 9 11 81.8 3 7 10 4 0 0 2 2 22
+p581
+aVMatthew Dellavedova CLE 12/23/2014 CLE vs. MIN W 13 3 1 5 20.0 1 3 33.3 0 0 - 1 0 1 3 1 0 1 3 7
+p582
+aVJames Jones CLE 12/23/2014 CLE vs. MIN W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 0 1
+p583
+aVAnderson Varejao CLE 12/23/2014 CLE vs. MIN W 17 6 3 5 60.0 0 0 - 0 0 - 4 2 6 1 1 0 0 2 -3
+p584
+aVDion Waiters CLE 12/23/2014 CLE vs. MIN W 27 19 5 12 41.7 2 4 50.0 7 8 87.5 0 2 2 4 3 0 4 2 23
+p585
+aVKevin Love CLE 12/21/2014 CLE vs. MEM W 35 8 4 9 44.4 0 0 - 0 0 - 0 8 8 2 0 1 2 4 18
+p586
+aVDion Waiters CLE 12/21/2014 CLE vs. MEM W 28 21 9 16 56.3 2 5 40.0 1 1 100.0 1 1 2 1 1 0 4 2 8
+p587
+aVJoe Harris CLE 12/21/2014 CLE vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p588
+aVMike Miller CLE 12/21/2014 CLE vs. MEM W 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 2 6
+p589
+aVMatthew Dellavedova CLE 12/21/2014 CLE vs. MEM W 14 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 1 -10
+p590
+aVShawn Marion CLE 12/21/2014 CLE vs. MEM W 22 11 5 6 83.3 1 1 100.0 0 0 - 0 5 5 1 1 1 1 0 4
+p591
+aVAnderson Varejao CLE 12/21/2014 CLE vs. MEM W 27 18 9 12 75.0 0 0 - 0 0 - 1 6 7 2 0 0 0 3 8
+p592
+aVKyrie Irving CLE 12/21/2014 CLE vs. MEM W 37 17 8 13 61.5 1 1 100.0 0 1 0.0 1 2 3 11 0 0 2 2 24
+p593
+aVTristan Thompson CLE 12/21/2014 CLE vs. MEM W 20 3 1 2 50.0 0 0 - 1 2 50.0 0 3 3 0 0 1 0 4 6
+p594
+aVLeBron James CLE 12/21/2014 CLE vs. MEM W 38 25 9 15 60.0 3 5 60.0 4 6 66.7 0 1 1 11 0 1 5 1 8
+p595
+aVAnderson Varejao CLE 12/19/2014 CLE vs. BKN W 17 7 1 4 25.0 0 0 - 5 6 83.3 1 4 5 1 0 1 1 1 -6
+p596
+aVDion Waiters CLE 12/19/2014 CLE vs. BKN W 7 4 1 4 25.0 0 2 0.0 2 3 66.7 0 1 1 1 1 0 1 1 4
+p597
+aVKyrie Irving CLE 12/19/2014 CLE vs. BKN W 40 16 6 18 33.3 0 3 0.0 4 4 100.0 0 4 4 4 1 0 3 3 -3
+p598
+aVKevin Love CLE 12/19/2014 CLE vs. BKN W 40 6 1 10 10.0 0 4 0.0 4 4 100.0 5 9 14 2 1 3 2 2 -5
+p599
+aVMike Miller CLE 12/19/2014 CLE vs. BKN W 34 21 7 8 87.5 7 8 87.5 0 0 - 0 2 2 0 0 0 2 2 -1
+p600
+aVTristan Thompson CLE 12/19/2014 CLE vs. BKN W 27 9 3 5 60.0 0 0 - 3 4 75.0 4 6 10 0 0 0 1 1 5
+p601
+aVMatthew Dellavedova CLE 12/19/2014 CLE vs. BKN W 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 9
+p602
+aVLeBron James CLE 12/19/2014 CLE vs. BKN W 40 22 7 18 38.9 2 4 50.0 6 8 75.0 1 3 4 9 2 0 4 4 -5
+p603
+aVShawn Marion CLE 12/19/2014 CLE vs. BKN W 17 8 4 6 66.7 0 0 - 0 0 - 0 2 2 2 1 0 1 1 15
+p604
+aVJames Jones CLE 12/19/2014 CLE vs. BKN W 6 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 0 7
+p605
+aVAnderson Varejao CLE 12/17/2014 CLE vs. ATL L 21 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 3 -15
+p606
+aVDion Waiters CLE 12/17/2014 CLE vs. ATL L 27 21 9 18 50.0 1 3 33.3 2 2 100.0 2 1 3 4 0 0 0 3 -25
+p607
+aVJames Jones CLE 12/17/2014 CLE vs. ATL L 12 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 1 0 0 0 1 -9
+p608
+aVTristan Thompson CLE 12/17/2014 CLE vs. ATL L 23 7 3 3 100.0 0 0 - 1 2 50.0 2 3 5 1 0 0 0 2 -10
+p609
+aVShawn Marion CLE 12/17/2014 CLE vs. ATL L 21 6 2 5 40.0 0 2 0.0 2 2 100.0 3 0 3 2 0 0 2 1 -3
+p610
+aVLou Amundson CLE 12/17/2014 CLE vs. ATL L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -2
+p611
+aVLeBron James CLE 12/17/2014 CLE vs. ATL L 29 21 8 16 50.0 0 2 0.0 5 7 71.4 0 3 3 2 2 0 2 0 -18
+p612
+aVKevin Love CLE 12/17/2014 CLE vs. ATL L 32 13 4 10 40.0 2 6 33.3 3 3 100.0 1 9 10 6 0 0 1 1 -20
+p613
+aVA.J. Price CLE 12/17/2014 CLE vs. ATL L 8 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 0 -2
+p614
+aVMatthew Dellavedova CLE 12/17/2014 CLE vs. ATL L 21 6 2 7 28.6 2 6 33.3 0 0 - 0 0 0 2 0 0 2 4 -21
+p615
+aVJoe Harris CLE 12/17/2014 CLE vs. ATL L 12 3 1 2 50.0 1 2 50.0 0 2 0.0 0 2 2 0 0 0 1 0 -7
+p616
+aVKyrie Irving CLE 12/17/2014 CLE vs. ATL L 33 9 4 9 44.4 0 3 0.0 1 1 100.0 0 0 0 6 0 0 0 2 -13
+p617
+aVShawn Marion CLE 12/15/2014 CLE vs. CHA W 26 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 2 1 0 1 13
+p618
+aVDion Waiters CLE 12/15/2014 CLE vs. CHA W 24 7 3 10 30.0 1 5 20.0 0 0 - 0 2 2 3 1 1 0 1 -5
+p619
+aVMatthew Dellavedova CLE 12/15/2014 CLE vs. CHA W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p620
+aVTristan Thompson CLE 12/15/2014 CLE vs. CHA W 25 10 4 6 66.7 0 0 - 2 4 50.0 2 3 5 1 0 0 1 2 -7
+p621
+aVAnderson Varejao CLE 12/15/2014 CLE vs. CHA W 27 8 4 12 33.3 0 0 - 0 0 - 3 2 5 0 1 0 1 5 14
+p622
+aVLeBron James CLE 12/15/2014 CLE vs. CHA W 40 27 11 19 57.9 2 3 66.7 3 4 75.0 0 7 7 14 1 3 5 2 16
+p623
+aVKyrie Irving CLE 12/15/2014 CLE vs. CHA W 40 16 6 14 42.9 1 4 25.0 3 4 75.0 0 2 2 4 1 0 2 1 16
+p624
+aVJoe Harris CLE 12/15/2014 CLE vs. CHA W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -12
+p625
+aVKevin Love CLE 12/15/2014 CLE vs. CHA W 39 22 7 14 50.0 4 9 44.4 4 5 80.0 1 18 19 5 4 0 1 1 16
+p626
+aVTristan Thompson CLE 12/12/2014 CLE @ NOP L 30 4 2 6 33.3 0 0 - 0 0 - 3 7 10 1 0 2 0 3 7
+p627
+aVMatthew Dellavedova CLE 12/12/2014 CLE @ NOP L 24 0 0 5 0.0 0 5 0.0 0 0 - 2 3 5 3 1 0 1 2 -17
+p628
+aVJames Jones CLE 12/12/2014 CLE @ NOP L 6 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 0 1 9
+p629
+aVKyrie Irving CLE 12/12/2014 CLE @ NOP L 39 17 7 19 36.8 1 4 25.0 2 2 100.0 1 1 2 7 1 0 2 3 2
+p630
+aVJoe Harris CLE 12/12/2014 CLE @ NOP L 11 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 0 0 6
+p631
+aVKevin Love CLE 12/12/2014 CLE @ NOP L 43 21 5 11 45.5 1 5 20.0 10 11 90.9 3 4 7 3 2 1 1 3 -1
+p632
+aVShawn Marion CLE 12/12/2014 CLE @ NOP L 21 6 3 7 42.9 0 1 0.0 0 0 - 0 2 2 2 0 1 0 2 -10
+p633
+aVLeBron James CLE 12/12/2014 CLE @ NOP L 38 41 17 24 70.8 2 2 100.0 5 8 62.5 0 5 5 5 0 1 2 1 -5
+p634
+aVDion Waiters CLE 12/12/2014 CLE @ NOP L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -4
+p635
+aVAnderson Varejao CLE 12/12/2014 CLE @ NOP L 19 11 5 8 62.5 0 0 - 1 2 50.0 2 5 7 0 1 1 0 2 -12
+p636
+aVJames Jones CLE 12/11/2014 CLE @ OKC L 14 3 0 4 0.0 0 4 0.0 3 3 100.0 0 1 1 1 0 0 0 1 -15
+p637
+aVJoe Harris CLE 12/11/2014 CLE @ OKC L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 8
+p638
+aVA.J. Price CLE 12/11/2014 CLE @ OKC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p639
+aVTristan Thompson CLE 12/11/2014 CLE @ OKC L 30 14 4 8 50.0 0 0 - 6 8 75.0 7 6 13 1 0 3 3 4 -11
+p640
+aVKevin Love CLE 12/11/2014 CLE @ OKC L 39 18 5 13 38.5 2 5 40.0 6 8 75.0 2 14 16 2 1 0 3 3 -8
+p641
+aVDion Waiters CLE 12/11/2014 CLE @ OKC L 26 14 5 13 38.5 2 5 40.0 2 2 100.0 0 1 1 4 0 0 2 0 -17
+p642
+aVMatthew Dellavedova CLE 12/11/2014 CLE @ OKC L 34 14 5 8 62.5 4 6 66.7 0 0 - 1 4 5 4 1 0 3 4 7
+p643
+aVKyrie Irving CLE 12/11/2014 CLE @ OKC L 40 20 7 21 33.3 1 5 20.0 5 6 83.3 1 2 3 6 2 0 1 3 -6
+p644
+aVAnderson Varejao CLE 12/11/2014 CLE @ OKC L 27 9 4 11 36.4 0 0 - 1 1 100.0 3 3 6 2 1 1 1 0 1
+p645
+aVShawn Marion CLE 12/11/2014 CLE @ OKC L 21 2 1 6 16.7 0 3 0.0 0 2 0.0 1 2 3 0 0 0 1 3 -5
+p646
+aVShawn Marion CLE 12/09/2014 CLE vs. TOR W 16 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p647
+aVAnderson Varejao CLE 12/09/2014 CLE vs. TOR W 16 8 4 10 40.0 0 0 - 0 0 - 3 3 6 1 0 1 1 4 -9
+p648
+aVKevin Love CLE 12/09/2014 CLE vs. TOR W 36 17 6 15 40.0 1 5 20.0 4 4 100.0 3 6 9 4 0 1 3 0 0
+p649
+aVTristan Thompson CLE 12/09/2014 CLE vs. TOR W 34 8 3 5 60.0 0 0 - 2 4 50.0 4 4 8 0 0 1 1 3 13
+p650
+aVMatthew Dellavedova CLE 12/09/2014 CLE vs. TOR W 21 6 2 4 50.0 2 4 50.0 0 0 - 1 2 3 5 0 0 0 2 12
+p651
+aVKyrie Irving CLE 12/09/2014 CLE vs. TOR W 42 13 5 12 41.7 1 5 20.0 2 2 100.0 0 1 1 10 2 0 2 3 6
+p652
+aVDion Waiters CLE 12/09/2014 CLE vs. TOR W 24 18 7 10 70.0 3 5 60.0 1 2 50.0 0 1 1 2 0 0 1 2 0
+p653
+aVLeBron James CLE 12/09/2014 CLE vs. TOR W 42 35 12 21 57.1 2 5 40.0 9 9 100.0 1 1 2 4 2 2 2 1 7
+p654
+aVJames Jones CLE 12/09/2014 CLE vs. TOR W 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 0
+p655
+aVJames Jones CLE 12/08/2014 CLE @ BKN W 14 12 4 5 80.0 4 5 80.0 0 0 - 0 2 2 1 1 0 0 1 2
+p656
+aVMatthew Dellavedova CLE 12/08/2014 CLE @ BKN W 16 2 1 4 25.0 0 1 0.0 0 0 - 2 1 3 3 0 1 3 3 3
+p657
+aVBrendan Haywood CLE 12/08/2014 CLE @ BKN W 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 3 0
+p658
+aVJoe Harris CLE 12/08/2014 CLE @ BKN W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p659
+aVA.J. Price CLE 12/08/2014 CLE @ BKN W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 4
+p660
+aVLou Amundson CLE 12/08/2014 CLE @ BKN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p661
+aVDion Waiters CLE 12/08/2014 CLE @ BKN W 30 26 11 21 52.4 1 6 16.7 3 3 100.0 0 1 1 4 2 1 0 0 32
+p662
+aVLeBron James CLE 12/08/2014 CLE @ BKN W 34 18 8 17 47.1 1 3 33.3 1 2 50.0 0 4 4 7 3 0 3 2 20
+p663
+aVKevin Love CLE 12/08/2014 CLE @ BKN W 32 19 7 14 50.0 2 5 40.0 3 6 50.0 3 11 14 1 0 0 1 1 13
+p664
+aVAnderson Varejao CLE 12/08/2014 CLE @ BKN W 24 7 2 5 40.0 0 0 - 3 4 75.0 7 7 14 1 0 0 2 1 2
+p665
+aVKyrie Irving CLE 12/08/2014 CLE @ BKN W 28 7 2 10 20.0 0 1 0.0 3 3 100.0 0 1 1 5 1 0 1 3 15
+p666
+aVShawn Marion CLE 12/08/2014 CLE @ BKN W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 1 -6
+p667
+aVTristan Thompson CLE 12/08/2014 CLE @ BKN W 29 14 6 7 85.7 0 0 - 2 4 50.0 8 4 12 1 2 2 1 2 29
+p668
+aVJames Jones CLE 12/05/2014 CLE @ TOR W 15 8 2 3 66.7 2 2 100.0 2 3 66.7 0 0 0 0 0 0 0 4 3
+p669
+aVKyrie Irving CLE 12/05/2014 CLE @ TOR W 38 15 7 16 43.8 1 3 33.3 0 0 - 3 1 4 6 2 1 1 1 16
+p670
+aVDion Waiters CLE 12/05/2014 CLE @ TOR W 24 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 4 1 0 0 3 -7
+p671
+aVShawn Marion CLE 12/05/2014 CLE @ TOR W 30 9 4 6 66.7 1 1 100.0 0 0 - 1 3 4 1 0 0 1 1 16
+p672
+aVTristan Thompson CLE 12/05/2014 CLE @ TOR W 33 21 8 13 61.5 0 0 - 5 8 62.5 9 5 14 2 0 0 0 5 20
+p673
+aVKevin Love CLE 12/05/2014 CLE @ TOR W 40 15 5 13 38.5 3 8 37.5 2 2 100.0 0 13 13 0 0 0 4 1 13
+p674
+aVLeBron James CLE 12/05/2014 CLE @ TOR W 42 24 9 18 50.0 2 4 50.0 4 6 66.7 0 7 7 13 3 1 4 2 11
+p675
+aVJoe Harris CLE 12/05/2014 CLE @ TOR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p676
+aVAnderson Varejao CLE 12/05/2014 CLE @ TOR W 17 9 4 7 57.1 0 0 - 1 2 50.0 2 2 4 2 1 0 3 4 0
+p677
+aVDion Waiters CLE 12/04/2014 CLE @ NYK W 20 6 3 6 50.0 0 0 - 0 0 - 0 0 0 1 0 0 3 1 -10
+p678
+aVKyrie Irving CLE 12/04/2014 CLE @ NYK W 44 37 12 18 66.7 3 6 50.0 10 11 90.9 0 3 3 2 2 0 3 1 7
+p679
+aVA.J. Price CLE 12/04/2014 CLE @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p680
+aVTristan Thompson CLE 12/04/2014 CLE @ NYK W 25 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 2 3 -2
+p681
+aVShawn Marion CLE 12/04/2014 CLE @ NYK W 27 5 2 8 25.0 1 3 33.3 0 0 - 2 4 6 1 0 0 2 2 -1
+p682
+aVLeBron James CLE 12/04/2014 CLE @ NYK W 40 19 7 17 41.2 1 6 16.7 4 7 57.1 1 4 5 12 2 0 4 2 12
+p683
+aVMike Miller CLE 12/04/2014 CLE @ NYK W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 3 2
+p684
+aVKevin Love CLE 12/04/2014 CLE @ NYK W 39 11 4 11 36.4 0 2 0.0 3 4 75.0 2 9 11 2 0 1 1 1 12
+p685
+aVJoe Harris CLE 12/04/2014 CLE @ NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p686
+aVAnderson Varejao CLE 12/04/2014 CLE @ NYK W 29 8 3 6 50.0 0 0 - 2 2 100.0 1 2 3 1 3 0 0 3 2
+p687
+aVMike Miller CLE 12/02/2014 CLE vs. MIL W 18 6 2 4 50.0 2 4 50.0 0 0 - 2 5 7 1 0 1 0 3 12
+p688
+aVLeBron James CLE 12/02/2014 CLE vs. MIL W 41 26 6 15 40.0 0 4 0.0 14 21 66.7 1 4 5 10 0 0 7 1 16
+p689
+aVJoe Harris CLE 12/02/2014 CLE vs. MIL W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -15
+p690
+aVKevin Love CLE 12/02/2014 CLE vs. MIL W 40 27 10 16 62.5 4 8 50.0 3 5 60.0 2 9 11 0 0 1 7 2 15
+p691
+aVShawn Marion CLE 12/02/2014 CLE vs. MIL W 32 10 4 10 40.0 0 2 0.0 2 2 100.0 1 3 4 0 1 1 1 2 -3
+p692
+aVDion Waiters CLE 12/02/2014 CLE vs. MIL W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -11
+p693
+aVTristan Thompson CLE 12/02/2014 CLE vs. MIL W 26 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 1 1 2 3 4
+p694
+aVKyrie Irving CLE 12/02/2014 CLE vs. MIL W 41 28 10 15 66.7 0 3 0.0 8 10 80.0 0 2 2 6 1 1 1 4 4
+p695
+aVAnderson Varejao CLE 12/02/2014 CLE vs. MIL W 27 8 4 8 50.0 0 0 - 0 0 - 0 8 8 1 2 0 0 0 -7
+p696
+aVLeBron James CLE 11/29/2014 CLE vs. IND W 32 19 9 18 50.0 0 1 0.0 1 2 50.0 0 2 2 7 1 0 3 1 14
+p697
+aVTristan Thompson CLE 11/29/2014 CLE vs. IND W 39 13 4 8 50.0 0 0 - 5 10 50.0 4 7 11 1 0 1 0 3 25
+p698
+aVShawn Marion CLE 11/29/2014 CLE vs. IND W 32 9 4 6 66.7 1 2 50.0 0 0 - 0 4 4 3 0 2 0 2 33
+p699
+aVDion Waiters CLE 11/29/2014 CLE vs. IND W 22 5 1 5 20.0 0 1 0.0 3 4 75.0 0 1 1 1 0 0 1 1 -18
+p700
+aVLou Amundson CLE 11/29/2014 CLE vs. IND W 17 2 1 3 33.3 0 0 - 0 1 0.0 1 2 3 0 0 0 1 4 -13
+p701
+aVAlex Kirk CLE 11/29/2014 CLE vs. IND W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p702
+aVKevin Love CLE 11/29/2014 CLE vs. IND W 33 28 9 13 69.2 2 3 66.7 8 9 88.9 3 7 10 2 2 0 2 3 17
+p703
+aVWill Cherry CLE 11/29/2014 CLE vs. IND W 14 2 1 4 25.0 0 2 0.0 0 2 0.0 0 0 0 0 1 0 0 2 -16
+p704
+aVKyrie Irving CLE 11/29/2014 CLE vs. IND W 36 24 9 17 52.9 3 6 50.0 3 4 75.0 0 10 10 5 0 3 1 1 31
+p705
+aVJoe Harris CLE 11/29/2014 CLE vs. IND W 13 5 2 2 100.0 1 1 100.0 0 0 - 1 2 3 1 0 0 1 2 -6
+p706
+aVAnderson Varejao CLE 11/26/2014 CLE vs. WAS W 26 10 5 5 100.0 0 0 - 0 0 - 2 5 7 0 0 0 1 3 18
+p707
+aVShawn Marion CLE 11/26/2014 CLE vs. WAS W 30 6 1 4 25.0 0 1 0.0 4 4 100.0 1 3 4 2 2 0 0 0 6
+p708
+aVTristan Thompson CLE 11/26/2014 CLE vs. WAS W 30 10 4 4 100.0 0 0 - 2 2 100.0 0 0 0 1 0 1 0 2 10
+p709
+aVWill Cherry CLE 11/26/2014 CLE vs. WAS W 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 2 0 0 0 9
+p710
+aVLeBron James CLE 11/26/2014 CLE vs. WAS W 36 29 7 14 50.0 1 5 20.0 14 17 82.4 1 9 10 8 3 0 4 3 24
+p711
+aVKyrie Irving CLE 11/26/2014 CLE vs. WAS W 33 18 7 15 46.7 3 5 60.0 1 4 25.0 0 1 1 5 3 0 1 3 19
+p712
+aVLou Amundson CLE 11/26/2014 CLE vs. WAS W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p713
+aVKevin Love CLE 11/26/2014 CLE vs. WAS W 29 21 7 10 70.0 1 2 50.0 6 7 85.7 2 3 5 0 0 1 2 5 25
+p714
+aVDion Waiters CLE 11/26/2014 CLE vs. WAS W 30 15 6 17 35.3 1 5 20.0 2 2 100.0 0 2 2 6 3 0 1 2 18
+p715
+aVJoe Harris CLE 11/26/2014 CLE vs. WAS W 8 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 0
+p716
+aVKevin Love CLE 11/24/2014 CLE vs. ORL W 32 12 5 11 45.5 0 1 0.0 2 4 50.0 2 6 8 5 2 0 1 2 26
+p717
+aVLou Amundson CLE 11/24/2014 CLE vs. ORL W 16 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 1 0 0 1 4 6
+p718
+aVTristan Thompson CLE 11/24/2014 CLE vs. ORL W 22 9 4 8 50.0 0 0 - 1 2 50.0 6 5 11 0 1 2 1 1 19
+p719
+aVLeBron James CLE 11/24/2014 CLE vs. ORL W 31 29 9 17 52.9 2 4 50.0 9 11 81.8 1 3 4 11 3 0 1 0 19
+p720
+aVAnderson Varejao CLE 11/24/2014 CLE vs. ORL W 21 14 7 9 77.8 0 0 - 0 0 - 1 5 6 2 1 2 4 3 10
+p721
+aVShawn Marion CLE 11/24/2014 CLE vs. ORL W 24 9 4 7 57.1 1 1 100.0 0 0 - 1 3 4 0 0 1 0 2 18
+p722
+aVBrendan Haywood CLE 11/24/2014 CLE vs. ORL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 3 0 1 3
+p723
+aVWill Cherry CLE 11/24/2014 CLE vs. ORL W 20 5 2 6 33.3 1 3 33.3 0 0 - 0 2 2 4 1 1 1 4 12
+p724
+aVJoe Harris CLE 11/24/2014 CLE vs. ORL W 10 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 1 3 8
+p725
+aVKyrie Irving CLE 11/24/2014 CLE vs. ORL W 31 12 5 9 55.6 1 2 50.0 1 1 100.0 0 1 1 4 4 0 0 2 28
+p726
+aVJames Jones CLE 11/24/2014 CLE vs. ORL W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 0 3
+p727
+aVDion Waiters CLE 11/24/2014 CLE vs. ORL W 21 8 3 7 42.9 0 1 0.0 2 2 100.0 0 2 2 1 1 0 2 1 8
+p728
+aVLou Amundson CLE 11/22/2014 CLE vs. TOR L 4 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 2 0
+p729
+aVShawn Marion CLE 11/22/2014 CLE vs. TOR L 26 2 1 6 16.7 0 1 0.0 0 0 - 2 4 6 1 1 1 0 1 -6
+p730
+aVJoe Harris CLE 11/22/2014 CLE vs. TOR L 16 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 2 -14
+p731
+aVMike Miller CLE 11/22/2014 CLE vs. TOR L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 -1
+p732
+aVKevin Love CLE 11/22/2014 CLE vs. TOR L 34 23 8 16 50.0 0 1 0.0 7 7 100.0 1 6 7 1 1 0 0 5 -2
+p733
+aVLeBron James CLE 11/22/2014 CLE vs. TOR L 37 15 6 12 50.0 1 4 25.0 2 3 66.7 0 1 1 10 1 1 5 2 -8
+p734
+aVDion Waiters CLE 11/22/2014 CLE vs. TOR L 20 6 3 9 33.3 0 2 0.0 0 0 - 0 2 2 0 0 1 3 3 -21
+p735
+aVWill Cherry CLE 11/22/2014 CLE vs. TOR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -5
+p736
+aVAnderson Varejao CLE 11/22/2014 CLE vs. TOR L 29 13 5 9 55.6 0 0 - 3 6 50.0 4 8 12 3 0 0 2 3 -2
+p737
+aVKyrie Irving CLE 11/22/2014 CLE vs. TOR L 37 21 7 14 50.0 2 5 40.0 5 7 71.4 0 3 3 6 1 2 3 3 -9
+p738
+aVTristan Thompson CLE 11/22/2014 CLE vs. TOR L 20 11 4 9 44.4 0 0 - 3 6 50.0 4 3 7 1 0 1 2 4 -17
+p739
+aVJoe Harris CLE 11/21/2014 CLE @ WAS L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 3 -7
+p740
+aVShawn Marion CLE 11/21/2014 CLE @ WAS L 26 7 2 4 50.0 1 1 100.0 2 2 100.0 0 3 3 2 1 1 3 3 -6
+p741
+aVAnderson Varejao CLE 11/21/2014 CLE @ WAS L 25 10 4 10 40.0 0 0 - 2 2 100.0 2 7 9 2 3 0 2 2 -11
+p742
+aVDion Waiters CLE 11/21/2014 CLE @ WAS L 22 2 1 7 14.3 0 4 0.0 0 0 - 0 0 0 1 3 1 2 2 -1
+p743
+aVKyrie Irving CLE 11/21/2014 CLE @ WAS L 41 22 7 16 43.8 0 6 0.0 8 10 80.0 1 5 6 2 1 0 3 1 -7
+p744
+aVKevin Love CLE 11/21/2014 CLE @ WAS L 31 8 3 8 37.5 2 4 50.0 0 0 - 1 7 8 2 1 0 4 3 -11
+p745
+aVLou Amundson CLE 11/21/2014 CLE @ WAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p746
+aVTristan Thompson CLE 11/21/2014 CLE @ WAS L 27 4 1 4 25.0 0 0 - 2 2 100.0 2 6 8 0 1 1 1 5 -2
+p747
+aVMike Miller CLE 11/21/2014 CLE @ WAS L 15 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 1 0
+p748
+aVLeBron James CLE 11/21/2014 CLE @ WAS L 39 22 8 21 38.1 2 7 28.6 4 7 57.1 3 1 4 4 1 1 3 0 -13
+p749
+aVBrendan Haywood CLE 11/21/2014 CLE @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p750
+aVTristan Thompson CLE 11/19/2014 CLE vs. SAS L 17 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -3
+p751
+aVDion Waiters CLE 11/19/2014 CLE vs. SAS L 21 6 2 7 28.6 0 1 0.0 2 2 100.0 0 0 0 3 2 1 1 3 3
+p752
+aVShawn Marion CLE 11/19/2014 CLE vs. SAS L 29 5 2 6 33.3 1 4 25.0 0 0 - 1 3 4 1 0 0 0 1 -9
+p753
+aVLeBron James CLE 11/19/2014 CLE vs. SAS L 34 15 6 17 35.3 2 3 66.7 1 1 100.0 3 3 6 9 1 1 5 3 -3
+p754
+aVAnderson Varejao CLE 11/19/2014 CLE vs. SAS L 37 23 11 16 68.8 0 1 0.0 1 3 33.3 1 10 11 0 0 2 3 0 7
+p755
+aVWill Cherry CLE 11/19/2014 CLE vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p756
+aVKevin Love CLE 11/19/2014 CLE vs. SAS L 35 10 4 12 33.3 0 2 0.0 2 2 100.0 4 7 11 4 1 1 2 3 -5
+p757
+aVKyrie Irving CLE 11/19/2014 CLE vs. SAS L 37 20 7 15 46.7 3 4 75.0 3 4 75.0 1 3 4 3 3 0 2 5 4
+p758
+aVJoe Harris CLE 11/19/2014 CLE vs. SAS L 27 5 2 5 40.0 1 3 33.3 0 1 0.0 0 0 0 1 0 0 2 4 -1
+p759
+aVKyrie Irving CLE 11/17/2014 CLE vs. DEN L 39 20 5 12 41.7 4 6 66.7 6 6 100.0 1 3 4 8 2 0 4 1 -6
+p760
+aVMike Miller CLE 11/17/2014 CLE vs. DEN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p761
+aVAnderson Varejao CLE 11/17/2014 CLE vs. DEN L 18 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -5
+p762
+aVKevin Love CLE 11/17/2014 CLE vs. DEN L 38 20 7 13 53.8 1 5 20.0 5 6 83.3 3 8 11 1 0 0 2 3 -14
+p763
+aVLeBron James CLE 11/17/2014 CLE vs. DEN L 41 22 8 18 44.4 1 4 25.0 5 7 71.4 0 9 9 5 0 2 4 2 -13
+p764
+aVTristan Thompson CLE 11/17/2014 CLE vs. DEN L 23 5 2 6 33.3 0 0 - 1 2 50.0 2 5 7 0 2 3 2 2 -7
+p765
+aVShawn Marion CLE 11/17/2014 CLE vs. DEN L 24 7 2 6 33.3 1 2 50.0 2 2 100.0 1 2 3 2 1 2 1 0 0
+p766
+aVDion Waiters CLE 11/17/2014 CLE vs. DEN L 28 20 9 16 56.3 2 6 33.3 0 0 - 0 2 2 1 2 0 1 2 2
+p767
+aVJoe Harris CLE 11/17/2014 CLE vs. DEN L 24 3 1 5 20.0 1 5 20.0 0 0 - 1 1 2 1 0 0 0 1 1
+p768
+aVAnderson Varejao CLE 11/15/2014 CLE vs. ATL W 21 2 1 3 33.3 0 0 - 0 0 - 4 6 10 5 0 0 1 2 19
+p769
+aVKevin Love CLE 11/15/2014 CLE vs. ATL W 30 13 5 12 41.7 3 7 42.9 0 0 - 0 6 6 5 0 0 1 1 10
+p770
+aVLeBron James CLE 11/15/2014 CLE vs. ATL W 29 32 13 20 65.0 4 5 80.0 2 4 50.0 2 4 6 7 0 1 3 1 14
+p771
+aVShawn Marion CLE 11/15/2014 CLE vs. ATL W 24 11 5 7 71.4 1 1 100.0 0 0 - 0 1 1 1 0 0 1 1 13
+p772
+aVBrendan Haywood CLE 11/15/2014 CLE vs. ATL W 9 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -2
+p773
+aVKyrie Irving CLE 11/15/2014 CLE vs. ATL W 27 20 6 9 66.7 4 7 57.1 4 4 100.0 0 3 3 5 3 0 0 1 22
+p774
+aVWill Cherry CLE 11/15/2014 CLE vs. ATL W 10 4 1 4 25.0 1 2 50.0 1 2 50.0 1 0 1 2 2 0 1 0 -2
+p775
+aVDion Waiters CLE 11/15/2014 CLE vs. ATL W 27 9 4 11 36.4 1 2 50.0 0 0 - 1 0 1 8 4 0 1 0 45
+p776
+aVJoe Harris CLE 11/15/2014 CLE vs. ATL W 21 12 4 6 66.7 4 5 80.0 0 0 - 0 4 4 4 1 0 3 6 23
+p777
+aVMike Miller CLE 11/15/2014 CLE vs. ATL W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p778
+aVTristan Thompson CLE 11/15/2014 CLE vs. ATL W 24 15 6 8 75.0 0 0 - 3 3 100.0 2 5 7 1 2 1 1 1 38
+p779
+aVJames Jones CLE 11/15/2014 CLE vs. ATL W 6 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -10
+p780
+aVLou Amundson CLE 11/15/2014 CLE vs. ATL W 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 0
+p781
+aVShawn Marion CLE 11/14/2014 CLE @ BOS W 27 6 3 4 75.0 0 1 0.0 0 0 - 0 4 4 1 1 1 1 0 0
+p782
+aVKevin Love CLE 11/14/2014 CLE @ BOS W 37 12 2 10 20.0 0 3 0.0 8 12 66.7 3 12 15 4 0 1 1 4 2
+p783
+aVDion Waiters CLE 11/14/2014 CLE @ BOS W 17 10 4 8 50.0 1 1 100.0 1 2 50.0 0 3 3 1 1 0 1 2 -14
+p784
+aVKyrie Irving CLE 11/14/2014 CLE @ BOS W 41 27 8 16 50.0 3 7 42.9 8 9 88.9 2 2 4 5 3 1 0 1 5
+p785
+aVAnderson Varejao CLE 11/14/2014 CLE @ BOS W 28 16 7 10 70.0 0 0 - 2 2 100.0 2 0 2 3 0 1 0 3 2
+p786
+aVJoe Harris CLE 11/14/2014 CLE @ BOS W 19 6 1 2 50.0 1 2 50.0 3 3 100.0 0 2 2 0 0 0 2 3 24
+p787
+aVLeBron James CLE 11/14/2014 CLE @ BOS W 41 41 16 27 59.3 3 8 37.5 6 9 66.7 0 4 4 7 0 1 3 4 10
+p788
+aVMike Miller CLE 11/14/2014 CLE @ BOS W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 -15
+p789
+aVTristan Thompson CLE 11/14/2014 CLE @ BOS W 20 4 2 7 28.6 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -9
+p790
+aVMike Miller CLE 11/10/2014 CLE vs. NOP W 19 3 1 3 33.3 1 3 33.3 0 0 - 1 2 3 1 0 0 0 2 -12
+p791
+aVShawn Marion CLE 11/10/2014 CLE vs. NOP W 30 4 2 5 40.0 0 0 - 0 0 - 3 5 8 1 1 0 1 1 6
+p792
+aVKyrie Irving CLE 11/10/2014 CLE vs. NOP W 41 32 11 21 52.4 4 7 57.1 6 7 85.7 1 4 5 9 0 0 1 2 4
+p793
+aVKevin Love CLE 11/10/2014 CLE vs. NOP W 39 22 7 13 53.8 6 9 66.7 2 2 100.0 1 4 5 2 1 0 1 2 1
+p794
+aVAnderson Varejao CLE 11/10/2014 CLE vs. NOP W 22 12 4 7 57.1 0 0 - 4 4 100.0 1 4 5 2 0 2 1 1 3
+p795
+aVLeBron James CLE 11/10/2014 CLE vs. NOP W 40 32 9 17 52.9 1 3 33.3 13 17 76.5 2 9 11 9 1 1 4 1 15
+p796
+aVAlex Kirk CLE 11/10/2014 CLE vs. NOP W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p797
+aVTristan Thompson CLE 11/10/2014 CLE vs. NOP W 26 6 3 7 42.9 0 0 - 0 0 - 3 3 6 1 0 2 1 1 3
+p798
+aVWill Cherry CLE 11/10/2014 CLE vs. NOP W 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p799
+aVJoe Harris CLE 11/10/2014 CLE vs. NOP W 20 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 1 0 0 0 3 18
+p800
+aVAnderson Varejao CLE 11/07/2014 CLE @ DEN W 28 15 6 7 85.7 0 0 - 3 5 60.0 1 6 7 2 1 1 1 2 16
+p801
+aVJoe Harris CLE 11/07/2014 CLE @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 1
+p802
+aVShawn Marion CLE 11/07/2014 CLE @ DEN W 32 10 4 6 66.7 1 2 50.0 1 2 50.0 2 4 6 2 0 0 0 1 14
+p803
+aVKyrie Irving CLE 11/07/2014 CLE @ DEN W 39 12 5 11 45.5 2 4 50.0 0 0 - 0 4 4 6 0 0 1 1 11
+p804
+aVDion Waiters CLE 11/07/2014 CLE @ DEN W 24 17 6 14 42.9 1 3 33.3 4 6 66.7 0 2 2 1 2 0 0 0 -7
+p805
+aVTristan Thompson CLE 11/07/2014 CLE @ DEN W 21 12 4 6 66.7 0 0 - 4 6 66.7 1 4 5 0 0 0 1 3 -10
+p806
+aVLeBron James CLE 11/07/2014 CLE @ DEN W 40 22 8 18 44.4 1 5 20.0 5 6 83.3 0 7 7 11 1 1 3 1 14
+p807
+aVKevin Love CLE 11/07/2014 CLE @ DEN W 36 19 6 16 37.5 0 5 0.0 7 8 87.5 2 6 8 1 0 1 2 4 15
+p808
+aVWill Cherry CLE 11/07/2014 CLE @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p809
+aVMike Miller CLE 11/07/2014 CLE @ DEN W 15 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 1 0 0 0 2 -7
+p810
+aVDion Waiters CLE 11/05/2014 CLE @ UTA L 13 5 1 4 25.0 0 0 - 3 5 60.0 0 0 0 1 0 0 0 3 -6
+p811
+aVShawn Marion CLE 11/05/2014 CLE @ UTA L 24 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 3 2 2 -3
+p812
+aVKevin Love CLE 11/05/2014 CLE @ UTA L 38 14 2 10 20.0 1 5 20.0 9 11 81.8 0 8 8 1 1 0 1 4 1
+p813
+aVKyrie Irving CLE 11/05/2014 CLE @ UTA L 45 34 12 23 52.2 2 5 40.0 8 10 80.0 0 1 1 0 2 0 1 2 2
+p814
+aVAnderson Varejao CLE 11/05/2014 CLE @ UTA L 32 8 4 10 40.0 0 0 - 0 0 - 3 6 9 0 2 1 3 4 -9
+p815
+aVTristan Thompson CLE 11/05/2014 CLE @ UTA L 25 8 3 3 100.0 0 0 - 2 2 100.0 4 1 5 0 0 0 1 1 6
+p816
+aVMike Miller CLE 11/05/2014 CLE @ UTA L 22 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 4 -4
+p817
+aVLeBron James CLE 11/05/2014 CLE @ UTA L 42 31 8 18 44.4 3 5 60.0 12 12 100.0 0 3 3 4 3 0 4 2 3
+p818
+aVMatthew Dellavedova CLE 11/04/2014 CLE @ POR L 11 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -7
+p819
+aVKyrie Irving CLE 11/04/2014 CLE @ POR L 37 9 3 17 17.6 1 5 20.0 2 2 100.0 0 1 1 5 1 0 1 1 -13
+p820
+aVLeBron James CLE 11/04/2014 CLE @ POR L 35 11 4 12 33.3 2 4 50.0 1 1 100.0 1 6 7 7 1 0 3 2 -15
+p821
+aVJoe Harris CLE 11/04/2014 CLE @ POR L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p822
+aVTristan Thompson CLE 11/04/2014 CLE @ POR L 22 10 4 12 33.3 0 0 - 2 4 50.0 5 3 8 0 1 0 2 1 -9
+p823
+aVMike Miller CLE 11/04/2014 CLE @ POR L 14 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -6
+p824
+aVJames Jones CLE 11/04/2014 CLE @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p825
+aVBrendan Haywood CLE 11/04/2014 CLE @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p826
+aVShawn Marion CLE 11/04/2014 CLE @ POR L 18 7 3 5 60.0 1 1 100.0 0 0 - 2 1 3 1 1 2 0 0 -7
+p827
+aVAnderson Varejao CLE 11/04/2014 CLE @ POR L 27 9 4 7 57.1 0 1 0.0 1 2 50.0 2 3 5 2 0 1 4 3 -12
+p828
+aVKevin Love CLE 11/04/2014 CLE @ POR L 36 22 7 14 50.0 5 8 62.5 3 3 100.0 1 9 10 2 0 0 1 4 -8
+p829
+aVDion Waiters CLE 11/04/2014 CLE @ POR L 28 6 3 11 27.3 0 0 - 0 0 - 0 0 0 0 1 0 3 4 -9
+p830
+aVAlex Kirk CLE 11/04/2014 CLE @ POR L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 0 -1
+p831
+aVLeBron James CLE 10/31/2014 CLE @ CHI W 42 36 14 30 46.7 1 3 33.3 7 9 77.8 1 7 8 5 4 1 3 1 -3
+p832
+aVAnderson Varejao CLE 10/31/2014 CLE @ CHI W 28 10 4 8 50.0 0 0 - 2 2 100.0 3 3 6 1 0 0 1 2 2
+p833
+aVMike Miller CLE 10/31/2014 CLE @ CHI W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 3
+p834
+aVTristan Thompson CLE 10/31/2014 CLE @ CHI W 36 16 7 13 53.8 0 0 - 2 2 100.0 12 1 13 2 0 2 0 2 3
+p835
+aVJoe Harris CLE 10/31/2014 CLE @ CHI W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p836
+aVShawn Marion CLE 10/31/2014 CLE @ CHI W 15 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 5
+p837
+aVKyrie Irving CLE 10/31/2014 CLE @ CHI W 35 23 6 17 35.3 1 3 33.3 10 10 100.0 0 1 1 3 0 0 4 4 -2
+p838
+aVMatthew Dellavedova CLE 10/31/2014 CLE @ CHI W 30 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 4 0 1 0 3 15
+p839
+aVDion Waiters CLE 10/31/2014 CLE @ CHI W 26 9 3 10 30.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 2 0
+p840
+aVKevin Love CLE 10/31/2014 CLE @ CHI W 41 16 5 17 29.4 1 6 16.7 5 6 83.3 2 14 16 1 4 0 0 2 7
+p841
+aVAnderson Varejao CLE 10/30/2014 CLE vs. NYK L 27 10 4 5 80.0 0 0 - 2 2 100.0 3 1 4 1 1 1 2 0 -8
+p842
+aVTristan Thompson CLE 10/30/2014 CLE vs. NYK L 20 6 3 7 42.9 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -1
+p843
+aVMike Miller CLE 10/30/2014 CLE vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p844
+aVLeBron James CLE 10/30/2014 CLE vs. NYK L 43 17 5 15 33.3 1 5 20.0 6 7 85.7 0 5 5 4 0 0 8 3 -13
+p845
+aVMatthew Dellavedova CLE 10/30/2014 CLE vs. NYK L 18 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 3 0 0 0 3 6
+p846
+aVKyrie Irving CLE 10/30/2014 CLE vs. NYK L 43 22 8 15 53.3 1 6 16.7 5 7 71.4 2 3 5 7 2 1 4 2 -6
+p847
+aVKevin Love CLE 10/30/2014 CLE vs. NYK L 38 19 6 14 42.9 3 6 50.0 4 4 100.0 3 11 14 4 0 0 2 1 -4
+p848
+aVShawn Marion CLE 10/30/2014 CLE vs. NYK L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 -1
+p849
+aVDion Waiters CLE 10/30/2014 CLE vs. NYK L 38 10 4 9 44.4 2 5 40.0 0 0 - 1 0 1 2 1 0 3 3 -2
+p850
+a.

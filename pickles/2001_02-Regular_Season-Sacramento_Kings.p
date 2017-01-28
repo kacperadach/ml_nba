@@ -1,0 +1,1602 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVlade Divac SAC 04/17/2002 SAC @ LAL L 21 12 4 8 50.0 0 1 0.0 4 5 80.0 1 3 4 2 1 0 2 3 -13
+p2
+aVMike Bibby SAC 04/17/2002 SAC @ LAL L 24 15 6 12 50.0 2 4 50.0 1 2 50.0 0 2 2 4 1 0 0 0 -13
+p3
+aVPeja Stojakovic SAC 04/17/2002 SAC @ LAL L 23 5 2 7 28.6 0 1 0.0 1 2 50.0 1 3 4 1 1 0 2 1 -17
+p4
+aVBrent Price SAC 04/17/2002 SAC @ LAL L 18 3 1 4 25.0 0 3 0.0 1 2 50.0 0 1 1 1 0 0 2 1 -6
+p5
+aVDoug Christie SAC 04/17/2002 SAC @ LAL L 23 10 3 8 37.5 2 5 40.0 2 2 100.0 0 4 4 1 0 0 2 0 -9
+p6
+aVScot Pollard SAC 04/17/2002 SAC @ LAL L 27 8 4 6 66.7 0 0 - 0 0 - 1 10 11 0 2 1 3 2 -1
+p7
+aVGerald Wallace SAC 04/17/2002 SAC @ LAL L 26 8 3 10 30.0 0 1 0.0 2 3 66.7 2 6 8 1 0 0 1 2 -1
+p8
+aVMateen Cleaves SAC 04/17/2002 SAC @ LAL L 24 13 6 13 46.2 1 3 33.3 0 0 - 0 0 0 2 1 0 3 0 -1
+p9
+aVLawrence Funderburke SAC 04/17/2002 SAC @ LAL L 32 15 6 9 66.7 0 0 - 3 3 100.0 1 2 3 1 0 2 2 1 -6
+p10
+aVChucky Brown SAC 04/17/2002 SAC @ LAL L 22 6 3 7 42.9 0 0 - 0 0 - 4 6 10 0 0 0 0 3 -3
+p11
+aVLawrence Funderburke SAC 04/16/2002 SAC vs. GSW W 29 29 13 16 81.3 0 1 0.0 3 4 75.0 2 9 11 1 0 0 2 1 11
+p12
+aVScot Pollard SAC 04/16/2002 SAC vs. GSW W 36 23 9 12 75.0 0 0 - 5 6 83.3 5 9 14 3 0 2 2 2 3
+p13
+aVVlade Divac SAC 04/16/2002 SAC vs. GSW W 30 10 5 8 62.5 0 1 0.0 0 0 - 2 6 8 7 1 0 2 1 14
+p14
+aVDoug Christie SAC 04/16/2002 SAC vs. GSW W 29 4 2 9 22.2 0 2 0.0 0 0 - 1 5 6 7 1 0 1 3 8
+p15
+aVChucky Brown SAC 04/16/2002 SAC vs. GSW W 5 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 1 0 2 1 -6
+p16
+aVBobby Jackson SAC 04/16/2002 SAC vs. GSW W 7 6 1 3 33.3 0 0 - 4 6 66.7 0 0 0 1 0 0 0 0 5
+p17
+aVHedo Turkoglu SAC 04/16/2002 SAC vs. GSW W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 6
+p18
+aVGerald Wallace SAC 04/16/2002 SAC vs. GSW W 19 5 2 7 28.6 0 0 - 1 2 50.0 1 1 2 2 0 0 1 2 12
+p19
+aVMateen Cleaves SAC 04/16/2002 SAC vs. GSW W 12 8 4 6 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 1 2
+p20
+aVMike Bibby SAC 04/16/2002 SAC vs. GSW W 28 15 7 11 63.6 1 3 33.3 0 0 - 0 0 0 3 0 0 3 2 10
+p21
+aVPeja Stojakovic SAC 04/16/2002 SAC vs. GSW W 33 20 6 14 42.9 2 5 40.0 6 7 85.7 2 3 5 5 1 0 2 1 5
+p22
+aVBobby Jackson SAC 04/14/2002 SAC vs. DAL L 26 12 5 14 35.7 2 8 25.0 0 1 0.0 2 2 4 3 0 0 0 2 -9
+p23
+aVVlade Divac SAC 04/14/2002 SAC vs. DAL L 27 18 6 12 50.0 0 0 - 6 12 50.0 6 3 9 1 1 2 2 3 -8
+p24
+aVScot Pollard SAC 04/14/2002 SAC vs. DAL L 15 4 1 1 100.0 0 0 - 2 3 66.7 1 1 2 0 0 1 0 0 -4
+p25
+aVPeja Stojakovic SAC 04/14/2002 SAC vs. DAL L 31 11 4 12 33.3 1 3 33.3 2 2 100.0 0 6 6 1 0 0 1 0 -9
+p26
+aVChris Webber SAC 04/14/2002 SAC vs. DAL L 33 19 7 13 53.8 0 0 - 5 8 62.5 1 8 9 4 0 0 3 2 -6
+p27
+aVMike Bibby SAC 04/14/2002 SAC vs. DAL L 32 12 4 9 44.4 1 2 50.0 3 3 100.0 1 2 3 3 1 0 1 5 -9
+p28
+aVHedo Turkoglu SAC 04/14/2002 SAC vs. DAL L 25 8 3 9 33.3 0 1 0.0 2 5 40.0 2 1 3 2 1 0 0 1 -11
+p29
+aVChucky Brown SAC 04/14/2002 SAC vs. DAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p30
+aVLawrence Funderburke SAC 04/14/2002 SAC vs. DAL L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -4
+p31
+aVGerald Wallace SAC 04/14/2002 SAC vs. DAL L 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -4
+p32
+aVMateen Cleaves SAC 04/14/2002 SAC vs. DAL L 3 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 0 1
+p33
+aVDoug Christie SAC 04/14/2002 SAC vs. DAL L 30 7 1 5 20.0 0 3 0.0 5 5 100.0 1 2 3 8 1 0 3 1 -3
+p34
+aVChris Webber SAC 04/12/2002 SAC @ LAC W 40 28 12 19 63.2 0 0 - 4 4 100.0 1 1 2 6 1 1 5 5 10
+p35
+aVVlade Divac SAC 04/12/2002 SAC @ LAC W 31 12 6 8 75.0 0 0 - 0 0 - 4 6 10 3 1 1 1 5 12
+p36
+aVScot Pollard SAC 04/12/2002 SAC @ LAC W 21 10 5 6 83.3 0 0 - 0 0 - 2 2 4 0 1 1 0 2 10
+p37
+aVDoug Christie SAC 04/12/2002 SAC @ LAC W 38 20 7 8 87.5 4 5 80.0 2 3 66.7 0 2 2 3 2 0 0 2 19
+p38
+aVBobby Jackson SAC 04/12/2002 SAC @ LAC W 13 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 2 0 0 1 0 3
+p39
+aVChucky Brown SAC 04/12/2002 SAC @ LAC W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p40
+aVGerald Wallace SAC 04/12/2002 SAC @ LAC W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 3
+p41
+aVMike Bibby SAC 04/12/2002 SAC @ LAC W 33 12 6 14 42.9 0 1 0.0 0 0 - 2 2 4 9 0 0 1 1 13
+p42
+aVPeja Stojakovic SAC 04/12/2002 SAC @ LAC W 42 27 11 22 50.0 2 6 33.3 3 4 75.0 1 6 7 5 1 1 1 2 13
+p43
+aVMateen Cleaves SAC 04/12/2002 SAC @ LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p44
+aVHedo Turkoglu SAC 04/12/2002 SAC @ LAC W 14 6 2 3 66.7 0 1 0.0 2 3 66.7 0 1 1 1 1 0 0 1 3
+p45
+aVLawrence Funderburke SAC 04/12/2002 SAC @ LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p46
+aVScot Pollard SAC 04/10/2002 SAC @ GSW W 16 10 3 6 50.0 0 0 - 4 4 100.0 1 2 3 0 0 0 1 5 -6
+p47
+aVPeja Stojakovic SAC 04/10/2002 SAC @ GSW W 39 24 9 14 64.3 1 3 33.3 5 5 100.0 0 5 5 3 2 0 3 2 5
+p48
+aVBobby Jackson SAC 04/10/2002 SAC @ GSW W 14 4 0 2 0.0 0 1 0.0 4 4 100.0 0 0 0 3 0 0 1 3 -8
+p49
+aVVlade Divac SAC 04/10/2002 SAC @ GSW W 32 12 6 10 60.0 0 0 - 0 0 - 4 7 11 7 0 4 2 5 10
+p50
+aVHedo Turkoglu SAC 04/10/2002 SAC @ GSW W 15 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 1 -8
+p51
+aVMike Bibby SAC 04/10/2002 SAC @ GSW W 34 17 7 12 58.3 1 2 50.0 2 2 100.0 0 5 5 6 0 0 1 0 10
+p52
+aVLawrence Funderburke SAC 04/10/2002 SAC @ GSW W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 1
+p53
+aVChris Webber SAC 04/10/2002 SAC @ GSW W 44 31 13 28 46.4 0 1 0.0 5 7 71.4 3 9 12 5 3 1 3 5 3
+p54
+aVDoug Christie SAC 04/10/2002 SAC @ GSW W 43 15 6 10 60.0 2 4 50.0 1 1 100.0 0 5 5 4 5 0 4 1 3
+p55
+aVMike Bibby SAC 04/09/2002 SAC vs. MIN W 29 15 6 10 60.0 1 1 100.0 2 4 50.0 0 2 2 5 2 0 2 2 13
+p56
+aVChucky Brown SAC 04/09/2002 SAC vs. MIN W 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -1
+p57
+aVScot Pollard SAC 04/09/2002 SAC vs. MIN W 20 11 3 8 37.5 0 0 - 5 6 83.3 5 3 8 0 2 0 1 2 4
+p58
+aVPeja Stojakovic SAC 04/09/2002 SAC vs. MIN W 30 23 9 15 60.0 3 4 75.0 2 4 50.0 0 6 6 1 1 0 0 1 12
+p59
+aVGerald Wallace SAC 04/09/2002 SAC vs. MIN W 4 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -5
+p60
+aVDoug Christie SAC 04/09/2002 SAC vs. MIN W 41 10 3 5 60.0 1 2 50.0 3 3 100.0 1 6 7 8 3 0 1 2 28
+p61
+aVVlade Divac SAC 04/09/2002 SAC vs. MIN W 28 14 6 9 66.7 0 0 - 2 2 100.0 0 6 6 3 1 1 1 3 18
+p62
+aVBobby Jackson SAC 04/09/2002 SAC vs. MIN W 17 8 4 8 50.0 0 2 0.0 0 0 - 1 0 1 3 0 0 1 0 7
+p63
+aVHedo Turkoglu SAC 04/09/2002 SAC vs. MIN W 21 3 1 6 16.7 0 0 - 1 4 25.0 1 2 3 3 0 0 0 2 3
+p64
+aVLawrence Funderburke SAC 04/09/2002 SAC vs. MIN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p65
+aVMateen Cleaves SAC 04/09/2002 SAC vs. MIN W 2 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p66
+aVChris Webber SAC 04/09/2002 SAC vs. MIN W 41 30 14 19 73.7 0 0 - 2 2 100.0 2 2 4 5 1 2 2 3 22
+p67
+aVHedo Turkoglu SAC 04/07/2002 SAC vs. NYK W 21 15 6 9 66.7 2 2 100.0 1 2 50.0 1 3 4 1 1 0 1 2 11
+p68
+aVDoug Christie SAC 04/07/2002 SAC vs. NYK W 25 10 4 7 57.1 0 1 0.0 2 2 100.0 1 1 2 8 6 0 0 6 28
+p69
+aVVlade Divac SAC 04/07/2002 SAC vs. NYK W 25 14 6 10 60.0 1 1 100.0 1 2 50.0 3 5 8 0 0 3 0 2 21
+p70
+aVScot Pollard SAC 04/07/2002 SAC vs. NYK W 19 12 4 6 66.7 0 0 - 4 4 100.0 4 5 9 0 0 0 1 2 25
+p71
+aVChris Webber SAC 04/07/2002 SAC vs. NYK W 30 16 8 15 53.3 0 0 - 0 0 - 1 13 14 7 1 0 1 1 34
+p72
+aVPeja Stojakovic SAC 04/07/2002 SAC vs. NYK W 27 13 6 11 54.5 1 2 50.0 0 0 - 0 0 0 3 3 0 2 1 29
+p73
+aVChucky Brown SAC 04/07/2002 SAC vs. NYK W 8 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -5
+p74
+aVGerald Wallace SAC 04/07/2002 SAC vs. NYK W 20 0 0 9 0.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 2
+p75
+aVMateen Cleaves SAC 04/07/2002 SAC vs. NYK W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p76
+aVMike Bibby SAC 04/07/2002 SAC vs. NYK W 27 12 4 10 40.0 0 1 0.0 4 7 57.1 0 1 1 6 0 0 1 0 30
+p77
+aVLawrence Funderburke SAC 04/07/2002 SAC vs. NYK W 13 3 1 4 25.0 0 0 - 1 3 33.3 1 2 3 0 1 0 0 3 -7
+p78
+aVBobby Jackson SAC 04/07/2002 SAC vs. NYK W 17 15 6 11 54.5 1 2 50.0 2 3 66.7 2 2 4 0 1 0 0 0 7
+p79
+aVDoug Christie SAC 04/05/2002 SAC @ UTA W 43 14 5 6 83.3 2 3 66.7 2 3 66.7 0 4 4 4 3 1 3 3 2
+p80
+aVGerald Wallace SAC 04/05/2002 SAC @ UTA W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p81
+aVMike Bibby SAC 04/05/2002 SAC @ UTA W 40 16 7 16 43.8 1 4 25.0 1 2 50.0 0 3 3 7 1 0 2 2 19
+p82
+aVPeja Stojakovic SAC 04/05/2002 SAC @ UTA W 38 23 7 11 63.6 3 6 50.0 6 7 85.7 1 3 4 3 2 0 3 4 9
+p83
+aVBobby Jackson SAC 04/05/2002 SAC @ UTA W 16 12 4 7 57.1 0 0 - 4 4 100.0 0 2 2 2 0 0 1 5 -7
+p84
+aVVlade Divac SAC 04/05/2002 SAC @ UTA W 26 12 5 10 50.0 0 1 0.0 2 3 66.7 0 3 3 1 2 0 2 2 12
+p85
+aVHedo Turkoglu SAC 04/05/2002 SAC @ UTA W 27 10 2 5 40.0 0 0 - 6 6 100.0 0 4 4 6 0 0 1 3 -5
+p86
+aVScot Pollard SAC 04/05/2002 SAC @ UTA W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 0
+p87
+aVChris Webber SAC 04/05/2002 SAC @ UTA W 40 28 13 22 59.1 0 0 - 2 2 100.0 4 6 10 6 5 3 1 4 14
+p88
+aVChucky Brown SAC 04/03/2002 SAC @ DET W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p89
+aVBobby Jackson SAC 04/03/2002 SAC @ DET W 22 9 2 10 20.0 0 2 0.0 5 6 83.3 0 0 0 0 0 0 2 2 -3
+p90
+aVMike Bibby SAC 04/03/2002 SAC @ DET W 37 15 6 12 50.0 0 2 0.0 3 3 100.0 0 2 2 4 0 0 1 3 20
+p91
+aVLawrence Funderburke SAC 04/03/2002 SAC @ DET W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p92
+aVVlade Divac SAC 04/03/2002 SAC @ DET W 28 15 6 9 66.7 0 1 0.0 3 4 75.0 1 8 9 2 2 0 3 3 20
+p93
+aVScot Pollard SAC 04/03/2002 SAC @ DET W 18 4 2 2 100.0 0 0 - 0 0 - 2 6 8 1 0 0 1 2 0
+p94
+aVGerald Wallace SAC 04/03/2002 SAC @ DET W 11 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 0 2 0 0 2
+p95
+aVHedo Turkoglu SAC 04/03/2002 SAC @ DET W 37 13 4 10 40.0 0 0 - 5 6 83.3 2 5 7 4 1 0 2 3 19
+p96
+aVChris Webber SAC 04/03/2002 SAC @ DET W 43 28 12 16 75.0 0 0 - 4 6 66.7 0 7 7 8 2 2 3 1 25
+p97
+aVMateen Cleaves SAC 04/03/2002 SAC @ DET W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -4
+p98
+aVDoug Christie SAC 04/03/2002 SAC @ DET W 33 11 5 8 62.5 1 2 50.0 0 0 - 0 2 2 7 5 0 3 1 29
+p99
+aVMike Bibby SAC 04/02/2002 SAC @ MEM W 33 12 5 10 50.0 0 1 0.0 2 2 100.0 0 2 2 6 0 0 1 1 17
+p100
+aVVlade Divac SAC 04/02/2002 SAC @ MEM W 30 10 5 9 55.6 0 0 - 0 2 0.0 2 4 6 2 3 2 2 2 31
+p101
+aVChris Webber SAC 04/02/2002 SAC @ MEM W 28 18 8 16 50.0 0 2 0.0 2 3 66.7 3 8 11 5 2 0 3 5 15
+p102
+aVDoug Christie SAC 04/02/2002 SAC @ MEM W 32 12 5 10 50.0 2 6 33.3 0 0 - 1 5 6 6 2 0 2 1 29
+p103
+aVLawrence Funderburke SAC 04/02/2002 SAC @ MEM W 17 8 3 8 37.5 0 0 - 2 2 100.0 2 5 7 1 1 0 2 1 6
+p104
+aVHedo Turkoglu SAC 04/02/2002 SAC @ MEM W 35 16 7 18 38.9 1 4 25.0 1 1 100.0 2 3 5 2 2 0 0 3 12
+p105
+aVChucky Brown SAC 04/02/2002 SAC @ MEM W 7 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 -4
+p106
+aVMateen Cleaves SAC 04/02/2002 SAC @ MEM W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -6
+p107
+aVBobby Jackson SAC 04/02/2002 SAC @ MEM W 18 19 9 12 75.0 1 2 50.0 0 1 0.0 0 4 4 2 0 0 0 2 12
+p108
+aVScot Pollard SAC 04/02/2002 SAC @ MEM W 21 8 3 3 100.0 0 0 - 2 2 100.0 2 8 10 0 0 2 0 2 -4
+p109
+aVGerald Wallace SAC 04/02/2002 SAC @ MEM W 13 4 2 3 66.7 0 0 - 0 3 0.0 0 0 0 1 1 0 1 2 12
+p110
+aVGerald Wallace SAC 03/31/2002 SAC @ ATL W 16 11 5 8 62.5 0 0 - 1 2 50.0 2 0 2 1 1 0 1 1 -4
+p111
+aVMike Bibby SAC 03/31/2002 SAC @ ATL W 28 7 3 15 20.0 0 0 - 1 2 50.0 1 0 1 5 1 0 0 0 -13
+p112
+aVLawrence Funderburke SAC 03/31/2002 SAC @ ATL W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p113
+aVChris Webber SAC 03/31/2002 SAC @ ATL W 43 29 14 23 60.9 0 0 - 1 1 100.0 4 8 12 7 4 2 3 2 -3
+p114
+aVVlade Divac SAC 03/31/2002 SAC @ ATL W 25 3 1 6 16.7 0 0 - 1 2 50.0 3 2 5 1 0 0 4 2 -14
+p115
+aVHedo Turkoglu SAC 03/31/2002 SAC @ ATL W 40 14 5 16 31.3 0 4 0.0 4 5 80.0 0 8 8 3 1 1 2 4 7
+p116
+aVScot Pollard SAC 03/31/2002 SAC @ ATL W 23 9 4 5 80.0 0 0 - 1 1 100.0 3 6 9 0 1 1 0 1 15
+p117
+aVDoug Christie SAC 03/31/2002 SAC @ ATL W 38 9 3 11 27.3 1 5 20.0 2 2 100.0 1 4 5 5 2 0 3 1 3
+p118
+aVBobby Jackson SAC 03/31/2002 SAC @ ATL W 23 8 4 9 44.4 0 1 0.0 0 0 - 0 2 2 2 1 0 0 1 10
+p119
+aVBobby Jackson SAC 03/29/2002 SAC @ CHH W 25 16 5 9 55.6 1 3 33.3 5 5 100.0 0 0 0 1 1 0 0 3 11
+p120
+aVVlade Divac SAC 03/29/2002 SAC @ CHH W 28 17 8 12 66.7 0 0 - 1 1 100.0 5 5 10 1 0 0 2 5 9
+p121
+aVGerald Wallace SAC 03/29/2002 SAC @ CHH W 13 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 1 0 1 1 -5
+p122
+aVMike Bibby SAC 03/29/2002 SAC @ CHH W 37 10 4 11 36.4 0 0 - 2 2 100.0 0 1 1 3 0 0 4 0 -4
+p123
+aVChucky Brown SAC 03/29/2002 SAC @ CHH W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p124
+aVDoug Christie SAC 03/29/2002 SAC @ CHH W 40 9 2 9 22.2 0 4 0.0 5 5 100.0 1 5 6 5 3 0 5 2 10
+p125
+aVChris Webber SAC 03/29/2002 SAC @ CHH W 43 23 10 19 52.6 0 2 0.0 3 4 75.0 0 12 12 6 2 0 3 2 5
+p126
+aVHedo Turkoglu SAC 03/29/2002 SAC @ CHH W 28 11 4 9 44.4 1 1 100.0 2 2 100.0 0 6 6 3 0 1 0 5 3
+p127
+aVScot Pollard SAC 03/29/2002 SAC @ CHH W 22 2 1 3 33.3 0 0 - 0 0 - 1 5 6 1 1 1 2 5 -4
+p128
+aVBobby Jackson SAC 03/28/2002 SAC @ HOU W 24 14 6 14 42.9 1 1 100.0 1 2 50.0 4 5 9 1 2 0 0 0 17
+p129
+aVMateen Cleaves SAC 03/28/2002 SAC @ HOU W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p130
+aVChris Webber SAC 03/28/2002 SAC @ HOU W 30 19 9 18 50.0 0 0 - 1 1 100.0 2 7 9 6 2 2 2 4 15
+p131
+aVScot Pollard SAC 03/28/2002 SAC @ HOU W 25 5 1 6 16.7 0 0 - 3 4 75.0 2 6 8 0 0 1 0 2 18
+p132
+aVVlade Divac SAC 03/28/2002 SAC @ HOU W 32 13 4 8 50.0 0 0 - 5 10 50.0 2 7 9 1 1 5 1 2 20
+p133
+aVChucky Brown SAC 03/28/2002 SAC @ HOU W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p134
+aVHedo Turkoglu SAC 03/28/2002 SAC @ HOU W 29 9 4 9 44.4 0 2 0.0 1 2 50.0 0 4 4 1 0 0 2 3 16
+p135
+aVMike Bibby SAC 03/28/2002 SAC @ HOU W 32 13 5 12 41.7 0 0 - 3 4 75.0 1 3 4 5 3 1 1 2 17
+p136
+aVDoug Christie SAC 03/28/2002 SAC @ HOU W 37 17 7 11 63.6 2 6 33.3 1 1 100.0 0 7 7 3 2 0 3 2 19
+p137
+aVGerald Wallace SAC 03/28/2002 SAC @ HOU W 19 7 3 9 33.3 0 0 - 1 2 50.0 6 1 7 2 1 0 1 0 11
+p138
+aVMike Bibby SAC 03/26/2002 SAC vs. LAC W 39 11 5 15 33.3 0 1 0.0 1 2 50.0 2 4 6 5 1 0 2 2 17
+p139
+aVChucky Brown SAC 03/26/2002 SAC vs. LAC W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -5
+p140
+aVVlade Divac SAC 03/26/2002 SAC vs. LAC W 22 10 4 10 40.0 0 0 - 2 2 100.0 5 4 9 5 2 0 2 4 22
+p141
+aVGerald Wallace SAC 03/26/2002 SAC vs. LAC W 29 14 6 13 46.2 0 0 - 2 2 100.0 4 1 5 1 0 1 1 3 14
+p142
+aVChris Webber SAC 03/26/2002 SAC vs. LAC W 45 35 15 21 71.4 0 0 - 5 6 83.3 3 10 13 1 3 2 1 5 18
+p143
+aVDoug Christie SAC 03/26/2002 SAC vs. LAC W 43 19 8 16 50.0 1 4 25.0 2 2 100.0 0 9 9 6 2 0 1 1 18
+p144
+aVScot Pollard SAC 03/26/2002 SAC vs. LAC W 28 6 1 5 20.0 0 0 - 4 5 80.0 3 4 7 1 0 2 1 0 -4
+p145
+aVMateen Cleaves SAC 03/26/2002 SAC vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p146
+aVBobby Jackson SAC 03/26/2002 SAC vs. LAC W 26 12 5 11 45.5 1 5 20.0 1 2 50.0 0 0 0 3 1 0 1 0 7
+p147
+aVChris Webber SAC 03/24/2002 SAC vs. LAL L 45 24 9 26 34.6 0 0 - 6 6 100.0 6 5 11 5 2 2 4 2 -3
+p148
+aVHedo Turkoglu SAC 03/24/2002 SAC vs. LAL L 41 17 6 15 40.0 2 5 40.0 3 4 75.0 0 8 8 2 2 0 4 4 0
+p149
+aVScot Pollard SAC 03/24/2002 SAC vs. LAL L 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 2 0 0 3 -9
+p150
+aVVlade Divac SAC 03/24/2002 SAC vs. LAL L 33 11 3 7 42.9 0 0 - 5 8 62.5 8 9 17 1 1 1 2 2 8
+p151
+aVBobby Jackson SAC 03/24/2002 SAC vs. LAL L 25 12 5 12 41.7 2 5 40.0 0 0 - 0 2 2 2 0 0 1 2 -3
+p152
+aVMike Bibby SAC 03/24/2002 SAC vs. LAL L 40 14 6 13 46.2 2 4 50.0 0 0 - 0 1 1 5 2 0 3 3 -5
+p153
+aVDoug Christie SAC 03/24/2002 SAC vs. LAL L 41 18 6 13 46.2 2 5 40.0 4 6 66.7 2 5 7 3 4 1 6 3 7
+p154
+aVHedo Turkoglu SAC 03/21/2002 SAC vs. DEN W 44 31 12 15 80.0 3 5 60.0 4 5 80.0 0 9 9 10 0 0 4 2 39
+p155
+aVMike Bibby SAC 03/21/2002 SAC vs. DEN W 28 11 5 8 62.5 1 2 50.0 0 0 - 1 0 1 2 2 0 2 3 30
+p156
+aVLawrence Funderburke SAC 03/21/2002 SAC vs. DEN W 18 3 0 5 0.0 0 0 - 3 4 75.0 1 4 5 1 0 2 2 2 11
+p157
+aVGerald Wallace SAC 03/21/2002 SAC vs. DEN W 15 10 5 9 55.6 0 0 - 0 1 0.0 0 1 1 0 1 0 1 0 7
+p158
+aVBobby Jackson SAC 03/21/2002 SAC vs. DEN W 35 17 6 12 50.0 2 6 33.3 3 4 75.0 0 3 3 1 1 2 2 1 17
+p159
+aVDoug Christie SAC 03/21/2002 SAC vs. DEN W 21 11 4 6 66.7 1 2 50.0 2 2 100.0 0 3 3 3 1 0 0 1 19
+p160
+aVChucky Brown SAC 03/21/2002 SAC vs. DEN W 9 2 1 1 100.0 0 0 - 0 0 - 0 4 4 1 0 3 0 1 10
+p161
+aVScot Pollard SAC 03/21/2002 SAC vs. DEN W 15 6 1 3 33.3 0 0 - 4 4 100.0 2 3 5 0 0 0 1 6 -10
+p162
+aVVlade Divac SAC 03/21/2002 SAC vs. DEN W 25 7 2 3 66.7 0 0 - 3 3 100.0 2 8 10 7 4 1 2 3 32
+p163
+aVChris Webber SAC 03/21/2002 SAC vs. DEN W 30 20 7 13 53.8 0 0 - 6 8 75.0 1 5 6 5 2 1 2 4 25
+p164
+aVGerald Wallace SAC 03/19/2002 SAC vs. HOU W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p165
+aVDoug Christie SAC 03/19/2002 SAC vs. HOU W 37 9 2 6 33.3 0 0 - 5 6 83.3 1 3 4 10 1 0 1 2 18
+p166
+aVChris Webber SAC 03/19/2002 SAC vs. HOU W 32 35 15 20 75.0 0 0 - 5 5 100.0 4 8 12 5 3 1 0 3 21
+p167
+aVVlade Divac SAC 03/19/2002 SAC vs. HOU W 21 3 1 8 12.5 0 0 - 1 2 50.0 0 4 4 2 0 1 0 4 13
+p168
+aVPeja Stojakovic SAC 03/19/2002 SAC vs. HOU W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 0
+p169
+aVScot Pollard SAC 03/19/2002 SAC vs. HOU W 26 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 0 2 0 3 13
+p170
+aVChucky Brown SAC 03/19/2002 SAC vs. HOU W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p171
+aVMike Bibby SAC 03/19/2002 SAC vs. HOU W 37 15 6 14 42.9 2 3 66.7 1 2 50.0 0 4 4 3 2 0 1 3 13
+p172
+aVLawrence Funderburke SAC 03/19/2002 SAC vs. HOU W 17 8 4 7 57.1 0 0 - 0 0 - 2 4 6 1 0 0 0 1 -1
+p173
+aVBobby Jackson SAC 03/19/2002 SAC vs. HOU W 28 20 6 12 50.0 4 5 80.0 4 4 100.0 1 3 4 4 1 1 3 3 11
+p174
+aVHedo Turkoglu SAC 03/19/2002 SAC vs. HOU W 32 12 5 13 38.5 0 0 - 2 4 50.0 3 5 8 2 1 0 2 2 25
+p175
+aVMike Bibby SAC 03/17/2002 SAC @ TOR W 38 22 9 17 52.9 3 5 60.0 1 2 50.0 0 3 3 4 0 0 2 4 1
+p176
+aVChris Webber SAC 03/17/2002 SAC @ TOR W 46 31 8 18 44.4 0 1 0.0 15 18 83.3 4 11 15 6 3 1 4 4 9
+p177
+aVBobby Jackson SAC 03/17/2002 SAC @ TOR W 23 11 3 11 27.3 0 2 0.0 5 6 83.3 2 3 5 3 0 0 2 1 -15
+p178
+aVScot Pollard SAC 03/17/2002 SAC @ TOR W 18 7 2 4 50.0 0 0 - 3 5 60.0 2 2 4 0 2 0 1 3 -6
+p179
+aVGerald Wallace SAC 03/17/2002 SAC @ TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 1
+p180
+aVHedo Turkoglu SAC 03/17/2002 SAC @ TOR W 33 15 5 11 45.5 0 1 0.0 5 5 100.0 3 5 8 2 1 1 2 5 11
+p181
+aVVlade Divac SAC 03/17/2002 SAC @ TOR W 32 12 6 11 54.5 0 0 - 0 2 0.0 3 4 7 1 2 0 2 4 6
+p182
+aVDoug Christie SAC 03/17/2002 SAC @ TOR W 47 18 5 8 62.5 2 3 66.7 6 6 100.0 0 4 4 6 1 1 3 2 8
+p183
+aVGerald Wallace SAC 03/14/2002 SAC @ NYK L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p184
+aVVlade Divac SAC 03/14/2002 SAC @ NYK L 37 12 5 12 41.7 0 0 - 2 4 50.0 1 2 3 7 1 1 3 1 -12
+p185
+aVBobby Jackson SAC 03/14/2002 SAC @ NYK L 25 13 4 9 44.4 1 4 25.0 4 4 100.0 0 7 7 4 1 0 1 2 -4
+p186
+aVLawrence Funderburke SAC 03/14/2002 SAC @ NYK L 23 4 1 3 33.3 0 0 - 2 4 50.0 3 4 7 0 0 2 1 2 0
+p187
+aVPeja Stojakovic SAC 03/14/2002 SAC @ NYK L 26 12 6 15 40.0 0 3 0.0 0 0 - 0 2 2 0 1 1 3 3 -7
+p188
+aVMike Bibby SAC 03/14/2002 SAC @ NYK L 36 21 7 17 41.2 1 5 20.0 6 6 100.0 0 1 1 1 2 0 0 3 -16
+p189
+aVScot Pollard SAC 03/14/2002 SAC @ NYK L 33 8 3 7 42.9 0 0 - 2 4 50.0 8 8 16 0 1 1 2 5 -18
+p190
+aVHedo Turkoglu SAC 03/14/2002 SAC @ NYK L 26 9 3 11 27.3 1 3 33.3 2 3 66.7 2 3 5 2 0 0 1 2 0
+p191
+aVChucky Brown SAC 03/14/2002 SAC @ NYK L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p192
+aVDoug Christie SAC 03/14/2002 SAC @ NYK L 30 13 5 11 45.5 1 3 33.3 2 2 100.0 2 2 4 5 2 0 3 3 -20
+p193
+aVDoug Christie SAC 03/13/2002 SAC @ PHI W 39 11 3 6 50.0 0 1 0.0 5 7 71.4 0 7 7 3 2 0 4 2 6
+p194
+aVVlade Divac SAC 03/13/2002 SAC @ PHI W 32 10 5 10 50.0 0 0 - 0 0 - 3 6 9 7 2 3 0 2 2
+p195
+aVScot Pollard SAC 03/13/2002 SAC @ PHI W 20 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 0 3 1 3 2
+p196
+aVBobby Jackson SAC 03/13/2002 SAC @ PHI W 20 8 2 10 20.0 0 3 0.0 4 4 100.0 2 5 7 1 2 0 2 2 0
+p197
+aVMike Bibby SAC 03/13/2002 SAC @ PHI W 38 12 5 10 50.0 0 1 0.0 2 2 100.0 2 1 3 7 1 1 1 0 4
+p198
+aVPeja Stojakovic SAC 03/13/2002 SAC @ PHI W 36 21 8 16 50.0 1 4 25.0 4 4 100.0 1 4 5 2 0 2 2 1 5
+p199
+aVChris Webber SAC 03/13/2002 SAC @ PHI W 39 22 9 23 39.1 0 0 - 4 6 66.7 3 7 10 3 2 0 1 4 7
+p200
+aVHedo Turkoglu SAC 03/13/2002 SAC @ PHI W 12 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -1
+p201
+aVLawrence Funderburke SAC 03/13/2002 SAC @ PHI W 5 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 1 0 0 0 -5
+p202
+aVBobby Jackson SAC 03/11/2002 SAC @ CHI W 23 9 3 7 42.9 2 3 66.7 1 2 50.0 2 3 5 2 2 0 1 1 15
+p203
+aVHedo Turkoglu SAC 03/11/2002 SAC @ CHI W 20 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 12
+p204
+aVPeja Stojakovic SAC 03/11/2002 SAC @ CHI W 43 29 9 18 50.0 3 7 42.9 8 8 100.0 4 5 9 3 1 1 1 3 -3
+p205
+aVChris Webber SAC 03/11/2002 SAC @ CHI W 43 26 10 28 35.7 0 0 - 6 6 100.0 6 5 11 6 1 3 6 3 -6
+p206
+aVMike Bibby SAC 03/11/2002 SAC @ CHI W 25 6 3 6 50.0 0 0 - 0 0 - 1 1 2 5 1 0 0 2 -13
+p207
+aVDoug Christie SAC 03/11/2002 SAC @ CHI W 32 10 4 7 57.1 0 3 0.0 2 3 66.7 0 1 1 2 3 0 3 3 -1
+p208
+aVScot Pollard SAC 03/11/2002 SAC @ CHI W 16 7 3 4 75.0 0 0 - 1 1 100.0 2 2 4 3 0 0 1 5 16
+p209
+aVVlade Divac SAC 03/11/2002 SAC @ CHI W 37 14 3 11 27.3 0 0 - 8 12 66.7 6 8 14 3 1 1 3 4 0
+p210
+aVDoug Christie SAC 03/10/2002 SAC @ MIL W 38 7 2 8 25.0 1 3 33.3 2 2 100.0 1 6 7 4 1 0 0 3 17
+p211
+aVScot Pollard SAC 03/10/2002 SAC @ MIL W 15 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 2
+p212
+aVChucky Brown SAC 03/10/2002 SAC @ MIL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p213
+aVPeja Stojakovic SAC 03/10/2002 SAC @ MIL W 31 21 9 16 56.3 1 3 33.3 2 3 66.7 1 1 2 1 2 1 0 1 24
+p214
+aVChris Webber SAC 03/10/2002 SAC @ MIL W 41 20 9 17 52.9 0 0 - 2 6 33.3 2 13 15 4 2 1 3 3 22
+p215
+aVMike Bibby SAC 03/10/2002 SAC @ MIL W 29 13 6 10 60.0 0 0 - 1 2 50.0 0 1 1 9 3 0 2 1 22
+p216
+aVGerald Wallace SAC 03/10/2002 SAC @ MIL W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p217
+aVVlade Divac SAC 03/10/2002 SAC @ MIL W 29 8 4 9 44.4 0 0 - 0 0 - 2 6 8 4 1 3 2 0 22
+p218
+aVBobby Jackson SAC 03/10/2002 SAC @ MIL W 22 15 7 10 70.0 1 2 50.0 0 0 - 1 2 3 3 1 1 2 3 10
+p219
+aVHedo Turkoglu SAC 03/10/2002 SAC @ MIL W 22 8 2 8 25.0 1 2 50.0 3 4 75.0 0 2 2 3 1 0 0 2 2
+p220
+aVLawrence Funderburke SAC 03/10/2002 SAC @ MIL W 8 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p221
+aVChris Webber SAC 03/08/2002 SAC vs. CHH W 40 20 8 21 38.1 0 0 - 4 8 50.0 3 5 8 2 0 1 2 3 8
+p222
+aVLawrence Funderburke SAC 03/08/2002 SAC vs. CHH W 6 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 0 1 0 0 1 -1
+p223
+aVDoug Christie SAC 03/08/2002 SAC vs. CHH W 41 7 3 9 33.3 0 1 0.0 1 2 50.0 0 3 3 4 6 1 0 0 11
+p224
+aVVlade Divac SAC 03/08/2002 SAC vs. CHH W 37 17 5 10 50.0 0 0 - 7 8 87.5 2 8 10 7 0 0 4 2 13
+p225
+aVHedo Turkoglu SAC 03/08/2002 SAC vs. CHH W 18 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 1
+p226
+aVPeja Stojakovic SAC 03/08/2002 SAC vs. CHH W 37 24 8 15 53.3 1 1 100.0 7 8 87.5 1 6 7 2 0 0 1 3 13
+p227
+aVBobby Jackson SAC 03/08/2002 SAC vs. CHH W 25 13 5 11 45.5 1 2 50.0 2 2 100.0 2 6 8 2 2 0 2 5 10
+p228
+aVMike Bibby SAC 03/08/2002 SAC vs. CHH W 36 10 4 9 44.4 0 2 0.0 2 2 100.0 0 4 4 6 2 0 3 3 5
+p229
+aVGerald Wallace SAC 03/04/2002 SAC @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p230
+aVBobby Jackson SAC 03/04/2002 SAC @ POR L 24 16 7 12 58.3 1 3 33.3 1 2 50.0 2 0 2 0 1 0 2 1 3
+p231
+aVChucky Brown SAC 03/04/2002 SAC @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p232
+aVDoug Christie SAC 03/04/2002 SAC @ POR L 18 4 2 5 40.0 0 1 0.0 0 0 - 2 0 2 3 0 0 0 5 1
+p233
+aVMike Bibby SAC 03/04/2002 SAC @ POR L 31 3 1 8 12.5 1 1 100.0 0 0 - 1 2 3 2 1 0 2 0 -12
+p234
+aVChris Webber SAC 03/04/2002 SAC @ POR L 47 24 10 22 45.5 0 0 - 4 4 100.0 1 7 8 3 0 1 6 4 -12
+p235
+aVHedo Turkoglu SAC 03/04/2002 SAC @ POR L 34 11 3 7 42.9 2 5 40.0 3 7 42.9 0 6 6 5 1 0 2 3 -11
+p236
+aVVlade Divac SAC 03/04/2002 SAC @ POR L 23 8 3 3 100.0 0 0 - 2 2 100.0 1 1 2 2 1 1 0 1 -11
+p237
+aVPeja Stojakovic SAC 03/04/2002 SAC @ POR L 36 26 9 17 52.9 4 6 66.7 4 4 100.0 1 6 7 3 0 0 4 5 -17
+p238
+aVScot Pollard SAC 03/04/2002 SAC @ POR L 25 3 1 2 50.0 0 0 - 1 1 100.0 0 3 3 1 0 1 0 2 -1
+p239
+aVVlade Divac SAC 03/03/2002 SAC vs. IND L 34 12 5 13 38.5 0 0 - 2 4 50.0 6 8 14 4 2 1 6 3 -5
+p240
+aVBobby Jackson SAC 03/03/2002 SAC vs. IND L 17 5 2 6 33.3 0 2 0.0 1 2 50.0 0 2 2 0 0 1 1 0 -1
+p241
+aVHedo Turkoglu SAC 03/03/2002 SAC vs. IND L 27 14 5 13 38.5 2 5 40.0 2 5 40.0 1 4 5 0 0 0 0 3 -3
+p242
+aVScot Pollard SAC 03/03/2002 SAC vs. IND L 26 5 2 3 66.7 0 0 - 1 1 100.0 2 3 5 1 2 1 0 3 -1
+p243
+aVPeja Stojakovic SAC 03/03/2002 SAC vs. IND L 39 18 7 18 38.9 2 10 20.0 2 3 66.7 2 6 8 4 0 0 5 4 -5
+p244
+aVDoug Christie SAC 03/03/2002 SAC vs. IND L 27 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 2 1 2 4 -17
+p245
+aVGerald Wallace SAC 03/03/2002 SAC vs. IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p246
+aVMike Bibby SAC 03/03/2002 SAC vs. IND L 31 19 7 13 53.8 2 3 66.7 3 4 75.0 0 1 1 2 1 0 1 0 -9
+p247
+aVChris Webber SAC 03/03/2002 SAC vs. IND L 35 13 2 16 12.5 1 2 50.0 8 14 57.1 2 6 8 4 2 0 1 5 -15
+p248
+aVChucky Brown SAC 03/01/2002 SAC @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p249
+aVLawrence Funderburke SAC 03/01/2002 SAC @ GSW W 8 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 0 1 -15
+p250
+aVVlade Divac SAC 03/01/2002 SAC @ GSW W 32 15 7 12 58.3 0 0 - 1 2 50.0 3 7 10 5 0 0 0 4 1
+p251
+aVChris Webber SAC 03/01/2002 SAC @ GSW W 40 32 13 26 50.0 0 0 - 6 7 85.7 4 5 9 8 2 1 0 1 23
+p252
+aVHedo Turkoglu SAC 03/01/2002 SAC @ GSW W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -9
+p253
+aVDoug Christie SAC 03/01/2002 SAC @ GSW W 39 19 6 8 75.0 3 3 100.0 4 4 100.0 0 2 2 4 4 0 3 2 15
+p254
+aVBobby Jackson SAC 03/01/2002 SAC @ GSW W 20 8 2 6 33.3 1 4 25.0 3 3 100.0 0 3 3 4 1 0 2 6 -4
+p255
+aVScot Pollard SAC 03/01/2002 SAC @ GSW W 14 6 3 3 100.0 0 0 - 0 0 - 2 6 8 1 1 2 5 5 15
+p256
+aVPeja Stojakovic SAC 03/01/2002 SAC @ GSW W 42 26 11 15 73.3 4 4 100.0 0 0 - 0 5 5 7 1 2 2 3 22
+p257
+aVMike Bibby SAC 03/01/2002 SAC @ GSW W 31 6 3 10 30.0 0 0 - 0 0 - 0 0 0 5 2 0 2 1 8
+p258
+aVGerald Wallace SAC 03/01/2002 SAC @ GSW W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 2 0 4 0 -8
+p259
+aVLawrence Funderburke SAC 02/26/2002 SAC vs. UTA W 9 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 3 1
+p260
+aVChris Webber SAC 02/26/2002 SAC vs. UTA W 32 16 8 14 57.1 0 0 - 0 0 - 1 6 7 5 4 1 3 2 23
+p261
+aVVlade Divac SAC 02/26/2002 SAC vs. UTA W 26 11 2 9 22.2 0 0 - 7 8 87.5 3 9 12 1 0 3 1 3 23
+p262
+aVHedo Turkoglu SAC 02/26/2002 SAC vs. UTA W 24 11 4 10 40.0 2 3 66.7 1 2 50.0 1 1 2 2 2 0 1 4 5
+p263
+aVGerald Wallace SAC 02/26/2002 SAC vs. UTA W 9 2 1 3 33.3 0 0 - 0 5 0.0 1 0 1 2 0 0 0 0 -1
+p264
+aVPeja Stojakovic SAC 02/26/2002 SAC vs. UTA W 35 19 5 11 45.5 2 4 50.0 7 8 87.5 0 4 4 1 1 0 2 3 29
+p265
+aVBobby Jackson SAC 02/26/2002 SAC vs. UTA W 27 17 5 10 50.0 0 1 0.0 7 7 100.0 1 3 4 2 1 0 3 2 6
+p266
+aVDoug Christie SAC 02/26/2002 SAC vs. UTA W 18 6 2 6 33.3 0 1 0.0 2 2 100.0 3 1 4 1 0 1 2 4 10
+p267
+aVScot Pollard SAC 02/26/2002 SAC vs. UTA W 21 8 4 5 80.0 0 0 - 0 1 0.0 4 3 7 1 3 1 2 3 7
+p268
+aVMike Bibby SAC 02/26/2002 SAC vs. UTA W 34 13 5 12 41.7 0 0 - 3 5 60.0 0 0 0 6 2 0 3 1 29
+p269
+aVChucky Brown SAC 02/26/2002 SAC vs. UTA W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -2
+p270
+aVVlade Divac SAC 02/23/2002 SAC @ DAL L 15 0 0 7 0.0 0 0 - 0 0 - 2 5 7 2 1 0 1 4 -5
+p271
+aVChris Webber SAC 02/23/2002 SAC @ DAL L 45 28 12 21 57.1 0 0 - 4 5 80.0 5 9 14 6 2 2 1 2 -15
+p272
+aVDoug Christie SAC 02/23/2002 SAC @ DAL L 38 13 4 9 44.4 2 5 40.0 3 3 100.0 1 4 5 3 1 1 3 3 -18
+p273
+aVMike Bibby SAC 02/23/2002 SAC @ DAL L 33 13 6 15 40.0 0 2 0.0 1 2 50.0 1 3 4 7 2 1 2 1 -13
+p274
+aVHedo Turkoglu SAC 02/23/2002 SAC @ DAL L 22 8 3 8 37.5 0 1 0.0 2 3 66.7 0 4 4 2 3 0 1 2 9
+p275
+aVPeja Stojakovic SAC 02/23/2002 SAC @ DAL L 40 16 5 16 31.3 1 4 25.0 5 6 83.3 3 3 6 0 0 0 3 1 -16
+p276
+aVScot Pollard SAC 02/23/2002 SAC @ DAL L 21 4 1 2 50.0 0 0 - 2 2 100.0 1 4 5 1 0 1 1 1 -10
+p277
+aVLawrence Funderburke SAC 02/23/2002 SAC @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p278
+aVBobby Jackson SAC 02/23/2002 SAC @ DAL L 23 13 5 13 38.5 3 7 42.9 0 0 - 0 3 3 4 0 0 0 4 -3
+p279
+aVChris Webber SAC 02/21/2002 SAC @ SAS L 35 13 4 14 28.6 0 1 0.0 5 6 83.3 1 3 4 2 1 1 4 3 -32
+p280
+aVScot Pollard SAC 02/21/2002 SAC @ SAS L 21 10 4 4 100.0 0 0 - 2 2 100.0 1 4 5 2 3 4 1 3 7
+p281
+aVBobby Jackson SAC 02/21/2002 SAC @ SAS L 23 18 7 12 58.3 2 5 40.0 2 4 50.0 1 0 1 4 1 0 0 2 4
+p282
+aVPeja Stojakovic SAC 02/21/2002 SAC @ SAS L 31 11 5 11 45.5 1 4 25.0 0 0 - 0 3 3 0 0 0 1 1 -34
+p283
+aVVlade Divac SAC 02/21/2002 SAC @ SAS L 23 7 2 9 22.2 0 0 - 3 3 100.0 2 7 9 1 1 0 1 3 -31
+p284
+aVMike Bibby SAC 02/21/2002 SAC @ SAS L 33 10 5 10 50.0 0 2 0.0 0 0 - 0 0 0 4 2 1 3 1 -23
+p285
+aVHedo Turkoglu SAC 02/21/2002 SAC @ SAS L 24 8 3 10 30.0 0 2 0.0 2 2 100.0 1 7 8 2 1 1 1 2 8
+p286
+aVDoug Christie SAC 02/21/2002 SAC @ SAS L 40 11 4 14 28.6 0 2 0.0 3 5 60.0 1 1 2 6 2 0 0 1 -27
+p287
+aVLawrence Funderburke SAC 02/21/2002 SAC @ SAS L 10 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 0 13
+p288
+aVScot Pollard SAC 02/19/2002 SAC vs. ATL W 9 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 7
+p289
+aVDoug Christie SAC 02/19/2002 SAC vs. ATL W 42 12 5 9 55.6 2 5 40.0 0 0 - 1 5 6 5 2 0 2 2 10
+p290
+aVBobby Jackson SAC 02/19/2002 SAC vs. ATL W 18 13 5 12 41.7 3 6 50.0 0 0 - 1 0 1 2 1 1 0 1 22
+p291
+aVHedo Turkoglu SAC 02/19/2002 SAC vs. ATL W 19 11 4 6 66.7 0 1 0.0 3 4 75.0 0 2 2 2 0 2 1 1 16
+p292
+aVPeja Stojakovic SAC 02/19/2002 SAC vs. ATL W 41 12 5 14 35.7 2 6 33.3 0 0 - 1 6 7 2 3 0 0 0 19
+p293
+aVVlade Divac SAC 02/19/2002 SAC vs. ATL W 30 14 3 6 50.0 0 0 - 8 12 66.7 3 7 10 4 1 3 1 2 6
+p294
+aVChris Webber SAC 02/19/2002 SAC vs. ATL W 41 19 9 16 56.3 0 0 - 1 4 25.0 3 9 12 5 2 1 4 4 11
+p295
+aVMike Bibby SAC 02/19/2002 SAC vs. ATL W 33 12 5 9 55.6 1 2 50.0 1 2 50.0 1 1 2 6 2 0 4 2 0
+p296
+aVLawrence Funderburke SAC 02/19/2002 SAC vs. ATL W 7 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 3 9
+p297
+aVDoug Christie SAC 02/17/2002 SAC vs. SEA L 42 19 5 11 45.5 1 6 16.7 8 8 100.0 2 5 7 3 2 0 0 4 -12
+p298
+aVChris Webber SAC 02/17/2002 SAC vs. SEA L 48 39 17 28 60.7 0 1 0.0 5 7 71.4 6 5 11 2 0 0 4 5 -10
+p299
+aVBobby Jackson SAC 02/17/2002 SAC vs. SEA L 19 8 1 5 20.0 0 2 0.0 6 6 100.0 1 1 2 3 3 0 1 5 2
+p300
+aVHedo Turkoglu SAC 02/17/2002 SAC vs. SEA L 20 7 2 8 25.0 0 3 0.0 3 4 75.0 1 2 3 2 1 2 0 3 1
+p301
+aVMike Bibby SAC 02/17/2002 SAC vs. SEA L 35 10 3 8 37.5 2 4 50.0 2 2 100.0 0 1 1 10 1 0 2 3 -12
+p302
+aVPeja Stojakovic SAC 02/17/2002 SAC vs. SEA L 44 20 6 15 40.0 1 7 14.3 7 8 87.5 0 7 7 1 0 0 1 2 -5
+p303
+aVScot Pollard SAC 02/17/2002 SAC vs. SEA L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p304
+aVVlade Divac SAC 02/17/2002 SAC vs. SEA L 24 11 2 8 25.0 0 0 - 7 8 87.5 2 2 4 0 0 0 1 1 -10
+p305
+aVPeja Stojakovic SAC 02/14/2002 SAC vs. WAS W 31 21 9 14 64.3 1 3 33.3 2 2 100.0 0 5 5 0 2 0 1 3 27
+p306
+aVGerald Wallace SAC 02/14/2002 SAC vs. WAS W 7 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 1 0 0 0 0 -11
+p307
+aVVlade Divac SAC 02/14/2002 SAC vs. WAS W 25 5 2 6 33.3 0 0 - 1 1 100.0 1 7 8 5 1 0 2 4 13
+p308
+aVDoug Christie SAC 02/14/2002 SAC vs. WAS W 31 6 3 6 50.0 0 1 0.0 0 0 - 2 2 4 5 2 2 2 3 24
+p309
+aVLawrence Funderburke SAC 02/14/2002 SAC vs. WAS W 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -12
+p310
+aVBobby Jackson SAC 02/14/2002 SAC vs. WAS W 19 14 5 11 45.5 3 5 60.0 1 1 100.0 0 3 3 1 0 0 3 3 -12
+p311
+aVChris Webber SAC 02/14/2002 SAC vs. WAS W 36 20 9 23 39.1 0 0 - 2 5 40.0 4 10 14 9 1 0 2 4 26
+p312
+aVScot Pollard SAC 02/14/2002 SAC vs. WAS W 25 7 2 2 100.0 0 0 - 3 6 50.0 2 9 11 0 0 0 0 0 10
+p313
+aVMateen Cleaves SAC 02/14/2002 SAC vs. WAS W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p314
+aVMike Bibby SAC 02/14/2002 SAC vs. WAS W 33 20 7 14 50.0 1 2 50.0 5 7 71.4 2 2 4 6 1 0 0 0 30
+p315
+aVHedo Turkoglu SAC 02/14/2002 SAC vs. WAS W 23 8 3 7 42.9 1 2 50.0 1 2 50.0 0 1 1 1 1 0 1 1 -9
+p316
+aVMateen Cleaves SAC 02/12/2002 SAC vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p317
+aVDoug Christie SAC 02/12/2002 SAC vs. SAS W 35 8 4 10 40.0 0 4 0.0 0 0 - 1 3 4 2 1 0 0 0 9
+p318
+aVGerald Wallace SAC 02/12/2002 SAC vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p319
+aVChris Webber SAC 02/12/2002 SAC vs. SAS W 42 20 8 21 38.1 0 0 - 4 5 80.0 4 8 12 5 2 4 2 2 10
+p320
+aVVlade Divac SAC 02/12/2002 SAC vs. SAS W 27 6 3 10 30.0 0 0 - 0 0 - 4 4 8 0 2 1 1 2 9
+p321
+aVBobby Jackson SAC 02/12/2002 SAC vs. SAS W 19 9 4 8 50.0 1 2 50.0 0 0 - 0 0 0 2 3 0 0 1 5
+p322
+aVLawrence Funderburke SAC 02/12/2002 SAC vs. SAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p323
+aVPeja Stojakovic SAC 02/12/2002 SAC vs. SAS W 34 23 9 19 47.4 1 4 25.0 4 4 100.0 3 3 6 2 2 1 4 0 8
+p324
+aVMike Bibby SAC 02/12/2002 SAC vs. SAS W 33 12 5 14 35.7 1 1 100.0 1 2 50.0 0 3 3 10 0 0 1 2 8
+p325
+aVScot Pollard SAC 02/12/2002 SAC vs. SAS W 24 10 3 4 75.0 0 0 - 4 4 100.0 3 8 11 0 0 0 1 5 9
+p326
+aVHedo Turkoglu SAC 02/12/2002 SAC vs. SAS W 18 9 4 9 44.4 1 3 33.3 0 1 0.0 1 2 3 0 0 0 3 1 11
+p327
+aVGerald Wallace SAC 02/07/2002 SAC @ WAS L 2 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 6
+p328
+aVLawrence Funderburke SAC 02/07/2002 SAC @ WAS L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p329
+aVBobby Jackson SAC 02/07/2002 SAC @ WAS L 21 11 3 8 37.5 1 2 50.0 4 4 100.0 1 2 3 3 0 0 1 3 5
+p330
+aVPeja Stojakovic SAC 02/07/2002 SAC @ WAS L 43 16 6 16 37.5 0 4 0.0 4 4 100.0 1 6 7 3 2 1 0 3 -12
+p331
+aVHedo Turkoglu SAC 02/07/2002 SAC @ WAS L 18 3 1 4 25.0 0 2 0.0 1 1 100.0 1 1 2 2 0 0 0 1 3
+p332
+aVVlade Divac SAC 02/07/2002 SAC @ WAS L 32 14 5 9 55.6 0 0 - 4 6 66.7 3 7 10 3 1 2 1 2 0
+p333
+aVChris Webber SAC 02/07/2002 SAC @ WAS L 42 21 9 21 42.9 0 1 0.0 3 4 75.0 4 5 9 2 0 1 4 1 -11
+p334
+aVDoug Christie SAC 02/07/2002 SAC @ WAS L 26 12 4 5 80.0 2 3 66.7 2 2 100.0 0 1 1 3 1 0 1 5 -11
+p335
+aVMateen Cleaves SAC 02/07/2002 SAC @ WAS L 2 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 0 6
+p336
+aVMike Bibby SAC 02/07/2002 SAC @ WAS L 31 14 6 11 54.5 1 1 100.0 1 2 50.0 0 2 2 2 0 0 1 0 -18
+p337
+aVScot Pollard SAC 02/07/2002 SAC @ WAS L 19 2 0 4 0.0 0 0 - 2 2 100.0 2 4 6 0 0 0 0 0 -9
+p338
+aVBobby Jackson SAC 02/06/2002 SAC @ BOS W 15 7 2 7 28.6 2 4 50.0 1 2 50.0 1 1 2 0 0 0 1 1 -16
+p339
+aVScot Pollard SAC 02/06/2002 SAC @ BOS W 36 9 4 6 66.7 0 0 - 1 2 50.0 1 8 9 1 0 2 2 4 4
+p340
+aVDoug Christie SAC 02/06/2002 SAC @ BOS W 34 15 5 10 50.0 1 3 33.3 4 4 100.0 0 4 4 5 4 1 2 4 28
+p341
+aVPeja Stojakovic SAC 02/06/2002 SAC @ BOS W 39 24 9 16 56.3 2 4 50.0 4 4 100.0 0 5 5 2 2 0 3 1 26
+p342
+aVMike Bibby SAC 02/06/2002 SAC @ BOS W 32 16 7 13 53.8 1 3 33.3 1 1 100.0 0 7 7 4 2 0 2 0 35
+p343
+aVVlade Divac SAC 02/06/2002 SAC @ BOS W 38 15 5 9 55.6 0 0 - 5 5 100.0 1 13 14 10 1 1 5 2 30
+p344
+aVHedo Turkoglu SAC 02/06/2002 SAC @ BOS W 24 10 3 8 37.5 2 4 50.0 2 2 100.0 0 6 6 3 1 1 3 2 2
+p345
+aVLawrence Funderburke SAC 02/06/2002 SAC @ BOS W 15 6 2 6 33.3 0 0 - 2 2 100.0 3 3 6 0 0 0 0 1 -16
+p346
+aVMateen Cleaves SAC 02/06/2002 SAC @ BOS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p347
+aVGerald Wallace SAC 02/06/2002 SAC @ BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p348
+aVMike Bibby SAC 02/04/2002 SAC @ NJN L 34 8 4 13 30.8 0 1 0.0 0 0 - 0 4 4 3 2 0 3 2 -24
+p349
+aVVlade Divac SAC 02/04/2002 SAC @ NJN L 25 6 2 3 66.7 0 1 0.0 2 3 66.7 1 2 3 5 2 3 1 2 -18
+p350
+aVPeja Stojakovic SAC 02/04/2002 SAC @ NJN L 33 14 5 14 35.7 1 3 33.3 3 4 75.0 4 3 7 1 2 0 4 3 -22
+p351
+aVLawrence Funderburke SAC 02/04/2002 SAC @ NJN L 6 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 1 0 1 0 -13
+p352
+aVScot Pollard SAC 02/04/2002 SAC @ NJN L 22 10 2 3 66.7 0 0 - 6 6 100.0 3 1 4 0 0 0 1 2 -16
+p353
+aVGerald Wallace SAC 02/04/2002 SAC @ NJN L 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -11
+p354
+aVChris Webber SAC 02/04/2002 SAC @ NJN L 29 23 9 22 40.9 0 1 0.0 5 9 55.6 3 6 9 0 0 1 4 3 -15
+p355
+aVMateen Cleaves SAC 02/04/2002 SAC @ NJN L 6 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -13
+p356
+aVHedo Turkoglu SAC 02/04/2002 SAC @ NJN L 29 7 2 10 20.0 1 2 50.0 2 2 100.0 0 5 5 0 2 0 3 3 -18
+p357
+aVDoug Christie SAC 02/04/2002 SAC @ NJN L 31 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 2 0 1 1 -16
+p358
+aVBobby Jackson SAC 02/04/2002 SAC @ NJN L 18 8 3 7 42.9 0 1 0.0 2 2 100.0 1 5 6 1 1 0 3 3 -4
+p359
+aVChris Webber SAC 02/03/2002 SAC @ MIN W 41 31 13 25 52.0 1 1 100.0 4 6 66.7 3 11 14 2 2 1 4 5 2
+p360
+aVVlade Divac SAC 02/03/2002 SAC @ MIN W 31 11 5 10 50.0 0 0 - 1 1 100.0 0 4 4 2 0 2 1 5 7
+p361
+aVDoug Christie SAC 02/03/2002 SAC @ MIN W 38 1 0 3 0.0 0 2 0.0 1 1 100.0 0 3 3 8 0 0 3 3 8
+p362
+aVHedo Turkoglu SAC 02/03/2002 SAC @ MIN W 16 3 1 6 16.7 1 2 50.0 0 0 - 1 9 10 3 0 0 1 2 3
+p363
+aVScot Pollard SAC 02/03/2002 SAC @ MIN W 21 9 4 4 100.0 0 0 - 1 1 100.0 1 1 2 0 1 2 0 1 4
+p364
+aVMike Bibby SAC 02/03/2002 SAC @ MIN W 39 24 9 15 60.0 1 2 50.0 5 5 100.0 0 1 1 5 1 0 2 2 -3
+p365
+aVPeja Stojakovic SAC 02/03/2002 SAC @ MIN W 40 21 7 14 50.0 2 4 50.0 5 6 83.3 0 2 2 6 1 0 1 3 3
+p366
+aVBobby Jackson SAC 02/03/2002 SAC @ MIN W 14 12 4 8 50.0 0 2 0.0 4 4 100.0 0 1 1 0 0 0 0 1 1
+p367
+aVMike Bibby SAC 02/01/2002 SAC vs. DEN W 32 21 6 12 50.0 3 4 75.0 6 6 100.0 0 1 1 6 3 0 1 0 31
+p368
+aVChris Webber SAC 02/01/2002 SAC vs. DEN W 32 29 10 15 66.7 1 1 100.0 8 10 80.0 3 9 12 1 1 3 3 4 29
+p369
+aVPeja Stojakovic SAC 02/01/2002 SAC vs. DEN W 29 20 8 11 72.7 1 2 50.0 3 4 75.0 1 1 2 0 2 0 0 0 25
+p370
+aVBrent Price SAC 02/01/2002 SAC vs. DEN W 10 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 3 2 4
+p371
+aVVlade Divac SAC 02/01/2002 SAC vs. DEN W 23 10 4 5 80.0 0 0 - 2 6 33.3 3 3 6 2 0 3 1 3 24
+p372
+aVLawrence Funderburke SAC 02/01/2002 SAC vs. DEN W 10 4 2 5 40.0 0 0 - 0 0 - 1 4 5 0 0 0 1 1 4
+p373
+aVBobby Jackson SAC 02/01/2002 SAC vs. DEN W 21 15 4 12 33.3 2 6 33.3 5 6 83.3 1 0 1 2 1 0 0 1 8
+p374
+aVGerald Wallace SAC 02/01/2002 SAC vs. DEN W 13 11 3 5 60.0 0 0 - 5 6 83.3 4 0 4 0 1 1 0 3 5
+p375
+aVScot Pollard SAC 02/01/2002 SAC vs. DEN W 21 4 2 6 33.3 0 0 - 0 0 - 4 6 10 0 1 1 1 2 6
+p376
+aVDoug Christie SAC 02/01/2002 SAC vs. DEN W 33 9 2 6 33.3 1 3 33.3 4 5 80.0 2 6 8 6 4 0 2 3 29
+p377
+aVHedo Turkoglu SAC 02/01/2002 SAC vs. DEN W 16 7 3 6 50.0 1 2 50.0 0 0 - 2 2 4 2 0 0 0 1 15
+p378
+aVBobby Jackson SAC 01/31/2002 SAC @ SEA W 18 11 3 11 27.3 3 4 75.0 2 2 100.0 3 2 5 0 0 0 0 3 3
+p379
+aVVlade Divac SAC 01/31/2002 SAC @ SEA W 35 13 4 6 66.7 0 0 - 5 9 55.6 4 6 10 4 3 0 2 3 -3
+p380
+aVDoug Christie SAC 01/31/2002 SAC @ SEA W 39 9 3 13 23.1 1 8 12.5 2 2 100.0 0 6 6 2 2 0 2 2 -3
+p381
+aVScot Pollard SAC 01/31/2002 SAC @ SEA W 30 10 4 4 100.0 0 0 - 2 4 50.0 1 5 6 0 1 2 1 2 6
+p382
+aVPeja Stojakovic SAC 01/31/2002 SAC @ SEA W 43 32 11 22 50.0 2 8 25.0 8 10 80.0 2 5 7 1 3 0 3 1 1
+p383
+aVMike Bibby SAC 01/31/2002 SAC @ SEA W 42 12 4 16 25.0 0 1 0.0 4 4 100.0 3 5 8 8 1 1 2 2 7
+p384
+aVHedo Turkoglu SAC 01/31/2002 SAC @ SEA W 29 12 2 11 18.2 1 4 25.0 7 8 87.5 4 2 6 1 1 0 2 1 6
+p385
+aVGerald Wallace SAC 01/31/2002 SAC @ SEA W 5 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 2 3
+p386
+aVScot Pollard SAC 01/26/2002 SAC @ UTA W 32 10 5 6 83.3 0 0 - 0 0 - 5 10 15 1 2 0 0 0 28
+p387
+aVChris Webber SAC 01/26/2002 SAC @ UTA W 34 19 4 16 25.0 0 0 - 11 11 100.0 5 5 10 6 1 2 4 4 11
+p388
+aVGerald Wallace SAC 01/26/2002 SAC @ UTA W 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -1
+p389
+aVBobby Jackson SAC 01/26/2002 SAC @ UTA W 25 14 5 12 41.7 1 4 25.0 3 5 60.0 0 2 2 2 3 0 2 3 15
+p390
+aVVlade Divac SAC 01/26/2002 SAC @ UTA W 15 4 2 2 100.0 0 0 - 0 0 - 0 6 6 0 0 0 0 3 2
+p391
+aVMike Bibby SAC 01/26/2002 SAC @ UTA W 33 14 6 14 42.9 1 3 33.3 1 2 50.0 1 0 1 2 1 0 0 4 17
+p392
+aVDoug Christie SAC 01/26/2002 SAC @ UTA W 30 13 5 6 83.3 2 3 66.7 1 1 100.0 0 0 0 3 2 0 4 3 4
+p393
+aVBrent Price SAC 01/26/2002 SAC @ UTA W 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 -1
+p394
+aVPeja Stojakovic SAC 01/26/2002 SAC @ UTA W 40 25 7 15 46.7 3 4 75.0 8 8 100.0 2 5 7 4 1 0 2 2 23
+p395
+aVHedo Turkoglu SAC 01/26/2002 SAC @ UTA W 22 10 3 5 60.0 2 2 100.0 2 2 100.0 0 4 4 2 1 0 2 2 22
+p396
+aVMike Bibby SAC 01/24/2002 SAC vs. UTA W 30 15 5 12 41.7 0 3 0.0 5 5 100.0 0 2 2 3 1 0 1 2 20
+p397
+aVBobby Jackson SAC 01/24/2002 SAC vs. UTA W 20 18 7 12 58.3 3 4 75.0 1 1 100.0 3 4 7 2 2 0 1 1 16
+p398
+aVDoug Christie SAC 01/24/2002 SAC vs. UTA W 34 8 3 8 37.5 1 5 20.0 1 2 50.0 0 6 6 5 0 1 3 3 23
+p399
+aVLawrence Funderburke SAC 01/24/2002 SAC vs. UTA W 12 8 3 5 60.0 0 0 - 2 4 50.0 2 2 4 0 0 0 0 2 6
+p400
+aVChris Webber SAC 01/24/2002 SAC vs. UTA W 31 24 8 14 57.1 0 0 - 8 11 72.7 1 3 4 3 1 3 2 4 22
+p401
+aVVlade Divac SAC 01/24/2002 SAC vs. UTA W 18 4 2 6 33.3 0 0 - 0 2 0.0 3 5 8 1 0 1 0 4 10
+p402
+aVScot Pollard SAC 01/24/2002 SAC vs. UTA W 25 4 2 3 66.7 0 0 - 0 0 - 3 5 8 1 3 0 2 4 15
+p403
+aVGerald Wallace SAC 01/24/2002 SAC vs. UTA W 12 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 3 6
+p404
+aVHedo Turkoglu SAC 01/24/2002 SAC vs. UTA W 24 6 2 8 25.0 1 2 50.0 1 4 25.0 0 5 5 3 0 3 1 1 23
+p405
+aVPeja Stojakovic SAC 01/24/2002 SAC vs. UTA W 34 21 7 14 50.0 2 5 40.0 5 6 83.3 0 5 5 1 0 0 1 0 24
+p406
+aVBobby Jackson SAC 01/22/2002 SAC @ POR L 12 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 0 1 0 0 0 -11
+p407
+aVPeja Stojakovic SAC 01/22/2002 SAC @ POR L 44 21 7 18 38.9 2 6 33.3 5 6 83.3 0 2 2 1 0 0 3 1 -11
+p408
+aVDoug Christie SAC 01/22/2002 SAC @ POR L 42 9 3 9 33.3 3 7 42.9 0 0 - 1 4 5 8 2 1 2 3 0
+p409
+aVVlade Divac SAC 01/22/2002 SAC @ POR L 36 7 3 5 60.0 0 0 - 1 1 100.0 1 8 9 5 2 1 1 4 -3
+p410
+aVMike Bibby SAC 01/22/2002 SAC @ POR L 41 27 11 18 61.1 1 2 50.0 4 4 100.0 0 4 4 6 0 0 1 3 5
+p411
+aVScot Pollard SAC 01/22/2002 SAC @ POR L 18 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 3 -8
+p412
+aVChris Webber SAC 01/22/2002 SAC @ POR L 51 34 16 24 66.7 1 1 100.0 1 2 50.0 0 8 8 8 0 2 7 5 -1
+p413
+aVHedo Turkoglu SAC 01/22/2002 SAC @ POR L 20 8 2 4 50.0 0 0 - 4 4 100.0 0 3 3 4 0 1 1 3 -1
+p414
+aVLawrence Funderburke SAC 01/21/2002 SAC vs. MEM W 9 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 1 0 0 1 -3
+p415
+aVPeja Stojakovic SAC 01/21/2002 SAC vs. MEM W 34 21 8 16 50.0 1 3 33.3 4 5 80.0 0 3 3 2 3 0 1 1 18
+p416
+aVGerald Wallace SAC 01/21/2002 SAC vs. MEM W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p417
+aVScot Pollard SAC 01/21/2002 SAC vs. MEM W 25 14 7 11 63.6 0 0 - 0 0 - 4 7 11 0 1 0 1 3 6
+p418
+aVMike Bibby SAC 01/21/2002 SAC vs. MEM W 28 10 4 9 44.4 0 2 0.0 2 2 100.0 1 0 1 3 2 0 1 0 11
+p419
+aVHedo Turkoglu SAC 01/21/2002 SAC vs. MEM W 25 12 6 12 50.0 0 3 0.0 0 0 - 1 2 3 2 2 0 0 3 4
+p420
+aVDoug Christie SAC 01/21/2002 SAC vs. MEM W 32 14 6 9 66.7 1 3 33.3 1 3 33.3 3 3 6 7 4 0 3 2 11
+p421
+aVChris Webber SAC 01/21/2002 SAC vs. MEM W 36 24 8 19 42.1 0 0 - 8 10 80.0 1 10 11 4 1 0 3 1 17
+p422
+aVVlade Divac SAC 01/21/2002 SAC vs. MEM W 27 6 2 5 40.0 0 0 - 2 5 40.0 2 2 4 5 0 0 2 4 10
+p423
+aVBobby Jackson SAC 01/21/2002 SAC vs. MEM W 20 11 5 9 55.6 1 3 33.3 0 1 0.0 3 0 3 0 1 0 2 2 1
+p424
+aVMike Bibby SAC 01/18/2002 SAC vs. GSW W 33 12 4 9 44.4 0 1 0.0 4 4 100.0 1 5 6 5 0 0 3 1 10
+p425
+aVVlade Divac SAC 01/18/2002 SAC vs. GSW W 34 11 4 9 44.4 0 0 - 3 3 100.0 3 4 7 8 0 1 2 3 4
+p426
+aVGerald Wallace SAC 01/18/2002 SAC vs. GSW W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 1 6
+p427
+aVScot Pollard SAC 01/18/2002 SAC vs. GSW W 13 6 3 5 60.0 0 0 - 0 0 - 2 0 2 1 1 2 0 5 12
+p428
+aVChris Webber SAC 01/18/2002 SAC vs. GSW W 31 26 11 17 64.7 0 0 - 4 8 50.0 1 7 8 6 1 2 3 6 16
+p429
+aVLawrence Funderburke SAC 01/18/2002 SAC vs. GSW W 9 5 2 4 50.0 0 0 - 1 2 50.0 3 1 4 2 0 0 0 0 7
+p430
+aVDoug Christie SAC 01/18/2002 SAC vs. GSW W 36 16 6 13 46.2 2 7 28.6 2 2 100.0 0 5 5 6 4 0 3 1 13
+p431
+aVPeja Stojakovic SAC 01/18/2002 SAC vs. GSW W 39 20 6 14 42.9 2 4 50.0 6 6 100.0 1 3 4 2 0 0 1 2 10
+p432
+aVBobby Jackson SAC 01/18/2002 SAC vs. GSW W 20 13 5 8 62.5 3 5 60.0 0 0 - 0 0 0 0 1 0 1 1 18
+p433
+aVHedo Turkoglu SAC 01/18/2002 SAC vs. GSW W 22 12 5 9 55.6 0 0 - 2 3 66.7 2 6 8 1 2 1 0 2 24
+p434
+aVScot Pollard SAC 01/16/2002 SAC @ DEN W 18 4 2 6 33.3 0 0 - 0 0 - 3 2 5 0 0 2 0 1 -3
+p435
+aVHedo Turkoglu SAC 01/16/2002 SAC @ DEN W 26 6 1 5 20.0 0 0 - 4 4 100.0 1 2 3 3 0 1 0 1 18
+p436
+aVVlade Divac SAC 01/16/2002 SAC @ DEN W 20 9 4 7 57.1 0 0 - 1 1 100.0 0 2 2 3 0 0 3 5 0
+p437
+aVPeja Stojakovic SAC 01/16/2002 SAC @ DEN W 43 29 10 20 50.0 3 4 75.0 6 6 100.0 1 7 8 3 1 0 1 2 7
+p438
+aVDoug Christie SAC 01/16/2002 SAC @ DEN W 43 21 7 8 87.5 4 4 100.0 3 6 50.0 0 3 3 3 7 0 2 0 -2
+p439
+aVChris Webber SAC 01/16/2002 SAC @ DEN W 42 21 8 15 53.3 0 0 - 5 8 62.5 1 11 12 9 1 2 6 5 0
+p440
+aVBobby Jackson SAC 01/16/2002 SAC @ DEN W 25 12 5 9 55.6 0 1 0.0 2 4 50.0 1 4 5 3 2 0 1 1 14
+p441
+aVMike Bibby SAC 01/16/2002 SAC @ DEN W 23 10 5 10 50.0 0 0 - 0 0 - 0 2 2 5 0 0 1 3 -9
+p442
+aVGerald Wallace SAC 01/15/2002 SAC vs. CLE W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p443
+aVMike Bibby SAC 01/15/2002 SAC vs. CLE W 25 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -7
+p444
+aVChris Webber SAC 01/15/2002 SAC vs. CLE W 43 34 14 27 51.9 0 1 0.0 6 11 54.5 5 9 14 8 1 3 1 1 17
+p445
+aVHedo Turkoglu SAC 01/15/2002 SAC vs. CLE W 24 2 0 4 0.0 0 0 - 2 4 50.0 0 1 1 2 0 0 2 4 -2
+p446
+aVPeja Stojakovic SAC 01/15/2002 SAC vs. CLE W 44 36 12 21 57.1 4 6 66.7 8 8 100.0 1 3 4 4 2 0 1 2 6
+p447
+aVVlade Divac SAC 01/15/2002 SAC vs. CLE W 23 6 3 7 42.9 0 0 - 0 0 - 4 3 7 1 0 1 2 4 0
+p448
+aVBobby Jackson SAC 01/15/2002 SAC vs. CLE W 23 8 2 8 25.0 0 3 0.0 4 4 100.0 1 3 4 1 1 1 0 1 14
+p449
+aVScot Pollard SAC 01/15/2002 SAC vs. CLE W 20 8 2 3 66.7 0 0 - 4 5 80.0 0 4 4 0 2 0 0 3 15
+p450
+aVDoug Christie SAC 01/15/2002 SAC vs. CLE W 32 7 3 4 75.0 1 1 100.0 0 1 0.0 0 0 0 3 1 0 0 2 -6
+p451
+aVScot Pollard SAC 01/13/2002 SAC vs. PHX W 28 5 2 4 50.0 0 0 - 1 1 100.0 1 5 6 0 2 0 3 3 3
+p452
+aVPeja Stojakovic SAC 01/13/2002 SAC vs. PHX W 46 25 7 20 35.0 1 3 33.3 10 12 83.3 2 6 8 5 2 0 1 0 -3
+p453
+aVDoug Christie SAC 01/13/2002 SAC vs. PHX W 41 15 6 12 50.0 3 6 50.0 0 0 - 2 2 4 4 0 0 5 3 2
+p454
+aVChris Webber SAC 01/13/2002 SAC vs. PHX W 44 28 9 19 47.4 0 0 - 10 12 83.3 4 9 13 7 2 2 3 3 6
+p455
+aVGerald Wallace SAC 01/13/2002 SAC vs. PHX W 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p456
+aVBobby Jackson SAC 01/13/2002 SAC vs. PHX W 40 18 8 15 53.3 0 2 0.0 2 2 100.0 1 3 4 3 3 1 3 3 5
+p457
+aVLawrence Funderburke SAC 01/13/2002 SAC vs. PHX W 5 0 0 2 0.0 0 0 - 0 0 - 3 3 6 0 0 0 1 0 3
+p458
+aVHedo Turkoglu SAC 01/13/2002 SAC vs. PHX W 26 10 1 5 20.0 1 2 50.0 7 8 87.5 0 4 4 3 2 0 1 3 -2
+p459
+aVMateen Cleaves SAC 01/06/2002 SAC vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 5
+p460
+aVHedo Turkoglu SAC 01/06/2002 SAC vs. MIL W 24 9 4 10 40.0 0 5 0.0 1 2 50.0 1 0 1 2 0 1 1 2 8
+p461
+aVVlade Divac SAC 01/06/2002 SAC vs. MIL W 33 8 3 8 37.5 0 0 - 2 2 100.0 3 10 13 5 1 0 2 3 16
+p462
+aVPeja Stojakovic SAC 01/06/2002 SAC vs. MIL W 44 29 11 18 61.1 7 10 70.0 0 0 - 0 2 2 3 1 0 1 4 17
+p463
+aVLawrence Funderburke SAC 01/06/2002 SAC vs. MIL W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p464
+aVDoug Christie SAC 01/06/2002 SAC vs. MIL W 40 19 7 11 63.6 2 5 40.0 3 4 75.0 1 1 2 5 5 2 2 3 2
+p465
+aVBobby Jackson SAC 01/06/2002 SAC vs. MIL W 46 22 9 16 56.3 4 6 66.7 0 1 0.0 2 4 6 3 2 0 2 0 15
+p466
+aVChris Webber SAC 01/06/2002 SAC vs. MIL W 45 28 12 27 44.4 0 0 - 4 5 80.0 3 9 12 9 1 2 2 4 10
+p467
+aVChris Webber SAC 01/05/2002 SAC @ PHX W 44 35 13 27 48.1 0 0 - 9 10 90.0 3 7 10 7 1 4 3 5 12
+p468
+aVLawrence Funderburke SAC 01/05/2002 SAC @ PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p469
+aVBobby Jackson SAC 01/05/2002 SAC @ PHX W 18 3 0 5 0.0 0 2 0.0 3 4 75.0 0 3 3 1 2 0 2 3 -4
+p470
+aVHedo Turkoglu SAC 01/05/2002 SAC @ PHX W 24 13 4 8 50.0 1 4 25.0 4 4 100.0 1 7 8 2 0 0 2 1 -12
+p471
+aVScot Pollard SAC 01/05/2002 SAC @ PHX W 32 10 3 5 60.0 0 0 - 4 4 100.0 3 10 13 1 0 2 1 2 14
+p472
+aVMike Bibby SAC 01/05/2002 SAC @ PHX W 37 12 6 11 54.5 0 3 0.0 0 0 - 0 5 5 7 2 1 5 3 -1
+p473
+aVPeja Stojakovic SAC 01/05/2002 SAC @ PHX W 40 25 10 16 62.5 3 5 60.0 2 2 100.0 1 2 3 4 2 0 1 3 10
+p474
+aVDoug Christie SAC 01/05/2002 SAC @ PHX W 42 20 6 11 54.5 6 9 66.7 2 2 100.0 1 4 5 5 2 0 3 4 15
+p475
+aVHedo Turkoglu SAC 01/02/2002 SAC vs. LAC W 22 6 2 6 33.3 1 3 33.3 1 2 50.0 2 3 5 1 1 0 0 0 -1
+p476
+aVPeja Stojakovic SAC 01/02/2002 SAC vs. LAC W 36 14 6 18 33.3 2 6 33.3 0 0 - 2 4 6 5 2 0 1 2 15
+p477
+aVMike Bibby SAC 01/02/2002 SAC vs. LAC W 30 16 7 14 50.0 2 3 66.7 0 0 - 1 1 2 9 1 0 1 3 14
+p478
+aVBobby Jackson SAC 01/02/2002 SAC vs. LAC W 16 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 4 0 0 0 0 3
+p479
+aVChris Webber SAC 01/02/2002 SAC vs. LAC W 37 21 10 22 45.5 0 0 - 1 2 50.0 4 6 10 6 3 2 0 4 10
+p480
+aVGerald Wallace SAC 01/02/2002 SAC vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p481
+aVLawrence Funderburke SAC 01/02/2002 SAC vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p482
+aVVlade Divac SAC 01/02/2002 SAC vs. LAC W 26 16 7 8 87.5 0 0 - 2 3 66.7 2 7 9 2 0 4 1 4 8
+p483
+aVDoug Christie SAC 01/02/2002 SAC vs. LAC W 37 17 5 15 33.3 4 9 44.4 3 3 100.0 2 4 6 4 3 0 1 5 23
+p484
+aVMateen Cleaves SAC 01/02/2002 SAC vs. LAC W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p485
+aVBrent Price SAC 01/02/2002 SAC vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p486
+aVScot Pollard SAC 01/02/2002 SAC vs. LAC W 24 11 4 7 57.1 0 0 - 3 4 75.0 3 3 6 3 1 0 0 3 9
+p487
+aVPeja Stojakovic SAC 12/30/2001 SAC vs. BOS W 40 23 9 19 47.4 3 6 50.0 2 3 66.7 1 4 5 4 2 0 1 1 18
+p488
+aVScot Pollard SAC 12/30/2001 SAC vs. BOS W 22 6 3 3 100.0 0 0 - 0 2 0.0 2 9 11 0 1 0 0 2 -1
+p489
+aVBrent Price SAC 12/30/2001 SAC vs. BOS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p490
+aVMike Bibby SAC 12/30/2001 SAC vs. BOS W 24 13 5 10 50.0 1 1 100.0 2 2 100.0 1 3 4 2 0 0 2 4 15
+p491
+aVLawrence Funderburke SAC 12/30/2001 SAC vs. BOS W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p492
+aVChris Webber SAC 12/30/2001 SAC vs. BOS W 39 30 10 17 58.8 0 1 0.0 10 12 83.3 1 7 8 3 2 1 2 3 16
+p493
+aVGerald Wallace SAC 12/30/2001 SAC vs. BOS W 5 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p494
+aVDoug Christie SAC 12/30/2001 SAC vs. BOS W 27 7 2 5 40.0 2 5 40.0 1 1 100.0 0 3 3 7 1 1 2 4 17
+p495
+aVVlade Divac SAC 12/30/2001 SAC vs. BOS W 26 7 3 5 60.0 0 0 - 1 2 50.0 3 6 9 5 1 2 1 1 18
+p496
+aVHedo Turkoglu SAC 12/30/2001 SAC vs. BOS W 26 13 3 7 42.9 1 2 50.0 6 8 75.0 0 5 5 3 1 0 0 2 9
+p497
+aVMateen Cleaves SAC 12/30/2001 SAC vs. BOS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p498
+aVBobby Jackson SAC 12/30/2001 SAC vs. BOS W 19 8 3 9 33.3 2 4 50.0 0 0 - 2 3 5 2 0 0 1 1 1
+p499
+aVGerald Wallace SAC 12/28/2001 SAC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p500
+aVDoug Christie SAC 12/28/2001 SAC vs. MIN W 31 12 6 9 66.7 0 1 0.0 0 1 0.0 0 0 0 1 0 0 0 1 14
+p501
+aVHedo Turkoglu SAC 12/28/2001 SAC vs. MIN W 21 6 3 4 75.0 0 0 - 0 0 - 2 4 6 4 0 0 3 2 1
+p502
+aVChris Webber SAC 12/28/2001 SAC vs. MIN W 34 22 7 15 46.7 0 0 - 8 9 88.9 2 6 8 2 1 2 1 4 9
+p503
+aVMateen Cleaves SAC 12/28/2001 SAC vs. MIN W 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p504
+aVVlade Divac SAC 12/28/2001 SAC vs. MIN W 34 17 7 11 63.6 0 0 - 3 4 75.0 2 6 8 5 1 0 2 1 18
+p505
+aVPeja Stojakovic SAC 12/28/2001 SAC vs. MIN W 43 27 12 21 57.1 3 6 50.0 0 1 0.0 1 6 7 2 1 0 2 2 17
+p506
+aVBobby Jackson SAC 12/28/2001 SAC vs. MIN W 16 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 6 0 0 1 0 9
+p507
+aVScot Pollard SAC 12/28/2001 SAC vs. MIN W 27 11 3 6 50.0 0 0 - 5 6 83.3 3 2 5 0 1 1 0 2 9
+p508
+aVBrent Price SAC 12/28/2001 SAC vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p509
+aVMike Bibby SAC 12/28/2001 SAC vs. MIN W 32 21 5 11 45.5 1 2 50.0 10 10 100.0 0 2 2 7 2 1 1 1 5
+p510
+aVMike Bibby SAC 12/26/2001 SAC vs. POR W 29 10 5 12 41.7 0 2 0.0 0 1 0.0 0 2 2 4 0 0 1 1 14
+p511
+aVVlade Divac SAC 12/26/2001 SAC vs. POR W 30 5 2 4 50.0 0 0 - 1 2 50.0 0 7 7 7 0 1 3 2 11
+p512
+aVDoug Christie SAC 12/26/2001 SAC vs. POR W 32 13 4 7 57.1 2 4 50.0 3 4 75.0 1 2 3 5 1 2 3 2 12
+p513
+aVPeja Stojakovic SAC 12/26/2001 SAC vs. POR W 37 19 9 17 52.9 1 2 50.0 0 0 - 4 3 7 2 1 0 1 0 15
+p514
+aVGerald Wallace SAC 12/26/2001 SAC vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p515
+aVBobby Jackson SAC 12/26/2001 SAC vs. POR W 18 17 7 8 87.5 3 3 100.0 0 0 - 1 1 2 0 0 0 0 1 17
+p516
+aVChris Webber SAC 12/26/2001 SAC vs. POR W 34 16 6 20 30.0 0 0 - 4 6 66.7 2 11 13 4 3 0 2 2 12
+p517
+aVMateen Cleaves SAC 12/26/2001 SAC vs. POR W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 2 1 -9
+p518
+aVBrent Price SAC 12/26/2001 SAC vs. POR W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p519
+aVHedo Turkoglu SAC 12/26/2001 SAC vs. POR W 22 7 2 9 22.2 1 3 33.3 2 2 100.0 0 4 4 1 0 0 1 2 5
+p520
+aVScot Pollard SAC 12/26/2001 SAC vs. POR W 29 0 0 5 0.0 0 0 - 0 2 0.0 6 4 10 1 3 1 0 3 16
+p521
+aVScot Pollard SAC 12/23/2001 SAC vs. PHX W 21 9 4 5 80.0 0 0 - 1 4 25.0 1 7 8 2 1 0 2 5 10
+p522
+aVPeja Stojakovic SAC 12/23/2001 SAC vs. PHX W 40 26 11 23 47.8 3 7 42.9 1 2 50.0 2 6 8 3 0 0 0 0 30
+p523
+aVLawrence Funderburke SAC 12/23/2001 SAC vs. PHX W 17 10 4 4 100.0 0 0 - 2 4 50.0 2 1 3 4 0 0 0 3 3
+p524
+aVBobby Jackson SAC 12/23/2001 SAC vs. PHX W 17 10 4 6 66.7 2 2 100.0 0 0 - 0 0 0 2 1 1 1 0 9
+p525
+aVMike Bibby SAC 12/23/2001 SAC vs. PHX W 33 12 5 10 50.0 1 4 25.0 1 2 50.0 1 2 3 5 0 0 3 1 23
+p526
+aVGerald Wallace SAC 12/23/2001 SAC vs. PHX W 8 8 3 5 60.0 0 1 0.0 2 4 50.0 1 1 2 0 1 0 0 2 2
+p527
+aVDoug Christie SAC 12/23/2001 SAC vs. PHX W 37 12 5 9 55.6 2 3 66.7 0 0 - 3 6 9 2 1 1 2 1 29
+p528
+aVMateen Cleaves SAC 12/23/2001 SAC vs. PHX W 8 10 4 6 66.7 0 2 0.0 2 2 100.0 0 0 0 4 1 0 1 0 2
+p529
+aVHedo Turkoglu SAC 12/23/2001 SAC vs. PHX W 27 21 7 12 58.3 4 5 80.0 3 3 100.0 1 9 10 3 0 0 0 4 23
+p530
+aVBrent Price SAC 12/23/2001 SAC vs. PHX W 8 3 0 2 0.0 0 2 0.0 3 4 75.0 0 0 0 0 1 0 1 3 2
+p531
+aVVlade Divac SAC 12/23/2001 SAC vs. PHX W 24 12 5 8 62.5 0 0 - 2 4 50.0 3 5 8 7 1 1 3 3 27
+p532
+aVDoug Christie SAC 12/22/2001 SAC @ LAC L 36 19 9 17 52.9 1 3 33.3 0 0 - 1 3 4 3 2 0 0 1 -9
+p533
+aVHedo Turkoglu SAC 12/22/2001 SAC @ LAC L 28 8 3 9 33.3 0 2 0.0 2 2 100.0 0 3 3 3 0 0 0 2 -9
+p534
+aVGerald Wallace SAC 12/22/2001 SAC @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p535
+aVPeja Stojakovic SAC 12/22/2001 SAC @ LAC L 33 7 3 16 18.8 1 4 25.0 0 0 - 1 2 3 4 1 0 1 2 -11
+p536
+aVScot Pollard SAC 12/22/2001 SAC @ LAC L 33 5 2 5 40.0 0 0 - 1 2 50.0 2 8 10 0 0 1 0 3 -18
+p537
+aVMike Bibby SAC 12/22/2001 SAC @ LAC L 30 5 2 10 20.0 0 1 0.0 1 2 50.0 1 2 3 5 1 0 1 2 -7
+p538
+aVBrent Price SAC 12/22/2001 SAC @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p539
+aVVlade Divac SAC 12/22/2001 SAC @ LAC L 31 12 6 8 75.0 0 0 - 0 0 - 1 11 12 8 0 1 4 4 -1
+p540
+aVBobby Jackson SAC 12/22/2001 SAC @ LAC L 22 19 6 13 46.2 2 5 40.0 5 6 83.3 0 3 3 1 1 0 2 0 -13
+p541
+aVLawrence Funderburke SAC 12/22/2001 SAC @ LAC L 19 10 5 9 55.6 0 0 - 0 0 - 4 0 4 1 1 2 3 2 -10
+p542
+aVBrent Price SAC 12/19/2001 SAC @ SEA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p543
+aVDoug Christie SAC 12/19/2001 SAC @ SEA L 39 23 10 20 50.0 2 3 66.7 1 2 50.0 2 4 6 5 2 0 2 3 -3
+p544
+aVGerald Wallace SAC 12/19/2001 SAC @ SEA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p545
+aVPeja Stojakovic SAC 12/19/2001 SAC @ SEA L 36 19 5 10 50.0 1 3 33.3 8 8 100.0 1 2 3 1 2 0 2 1 -11
+p546
+aVVlade Divac SAC 12/19/2001 SAC @ SEA L 37 10 3 7 42.9 0 1 0.0 4 6 66.7 1 7 8 5 4 1 2 1 -5
+p547
+aVScot Pollard SAC 12/19/2001 SAC @ SEA L 24 6 3 3 100.0 0 0 - 0 0 - 3 4 7 0 0 0 0 3 -9
+p548
+aVMike Bibby SAC 12/19/2001 SAC @ SEA L 34 13 6 15 40.0 1 2 50.0 0 0 - 0 1 1 4 3 1 3 0 -14
+p549
+aVHedo Turkoglu SAC 12/19/2001 SAC @ SEA L 29 9 4 10 40.0 0 3 0.0 1 4 25.0 0 3 3 0 0 1 0 2 -10
+p550
+aVLawrence Funderburke SAC 12/19/2001 SAC @ SEA L 9 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -4
+p551
+aVBobby Jackson SAC 12/19/2001 SAC @ SEA L 27 12 5 13 38.5 0 2 0.0 2 2 100.0 1 2 3 2 1 0 2 2 -8
+p552
+aVMateen Cleaves SAC 12/19/2001 SAC @ SEA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p553
+aVDoug Christie SAC 12/18/2001 SAC vs. DET W 29 10 3 8 37.5 0 0 - 4 4 100.0 1 4 5 0 0 1 1 4 2
+p554
+aVPeja Stojakovic SAC 12/18/2001 SAC vs. DET W 41 20 6 15 40.0 0 2 0.0 8 8 100.0 1 2 3 2 1 0 1 2 4
+p555
+aVVlade Divac SAC 12/18/2001 SAC vs. DET W 36 9 3 5 60.0 0 0 - 3 6 50.0 1 7 8 4 1 3 4 3 4
+p556
+aVMike Bibby SAC 12/18/2001 SAC vs. DET W 39 25 9 13 69.2 1 1 100.0 6 7 85.7 0 2 2 7 1 0 3 2 11
+p557
+aVHedo Turkoglu SAC 12/18/2001 SAC vs. DET W 19 9 4 5 80.0 1 1 100.0 0 0 - 1 3 4 0 2 0 0 1 1
+p558
+aVChris Webber SAC 12/18/2001 SAC vs. DET W 40 19 8 22 36.4 0 0 - 3 4 75.0 5 9 14 5 3 0 3 1 8
+p559
+aVScot Pollard SAC 12/18/2001 SAC vs. DET W 19 4 2 4 50.0 0 0 - 0 0 - 2 4 6 0 0 0 1 2 -4
+p560
+aVBobby Jackson SAC 12/18/2001 SAC vs. DET W 16 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 0 0 2 3 -6
+p561
+aVVlade Divac SAC 12/16/2001 SAC vs. MEM W 29 18 7 9 77.8 0 0 - 4 6 66.7 3 6 9 0 1 3 1 2 12
+p562
+aVJabari Smith SAC 12/16/2001 SAC vs. MEM W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -7
+p563
+aVBrent Price SAC 12/16/2001 SAC vs. MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p564
+aVChris Webber SAC 12/16/2001 SAC vs. MEM W 34 22 8 19 42.1 0 0 - 6 8 75.0 2 7 9 2 0 3 5 4 23
+p565
+aVScot Pollard SAC 12/16/2001 SAC vs. MEM W 24 0 0 3 0.0 0 0 - 0 0 - 3 7 10 1 1 0 1 0 4
+p566
+aVGerald Wallace SAC 12/16/2001 SAC vs. MEM W 25 20 9 16 56.3 0 2 0.0 2 2 100.0 7 2 9 1 3 0 1 5 -4
+p567
+aVMateen Cleaves SAC 12/16/2001 SAC vs. MEM W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -6
+p568
+aVDoug Christie SAC 12/16/2001 SAC vs. MEM W 29 6 2 5 40.0 0 0 - 2 2 100.0 3 9 12 7 1 0 5 5 22
+p569
+aVMike Bibby SAC 12/16/2001 SAC vs. MEM W 30 10 4 11 36.4 1 2 50.0 1 1 100.0 0 2 2 3 0 1 1 0 18
+p570
+aVBobby Jackson SAC 12/16/2001 SAC vs. MEM W 20 9 4 9 44.4 1 1 100.0 0 0 - 0 3 3 3 0 0 0 2 9
+p571
+aVHedo Turkoglu SAC 12/16/2001 SAC vs. MEM W 36 15 5 15 33.3 1 5 20.0 4 4 100.0 1 6 7 4 1 1 2 2 21
+p572
+aVChris Webber SAC 12/14/2001 SAC @ MIN L 37 26 11 20 55.0 0 1 0.0 4 6 66.7 4 5 9 5 3 2 3 5 -16
+p573
+aVHedo Turkoglu SAC 12/14/2001 SAC @ MIN L 41 25 8 17 47.1 2 5 40.0 7 8 87.5 1 3 4 2 2 0 2 3 -16
+p574
+aVMike Bibby SAC 12/14/2001 SAC @ MIN L 35 8 3 13 23.1 0 1 0.0 2 2 100.0 0 0 0 6 1 0 3 1 -13
+p575
+aVBobby Jackson SAC 12/14/2001 SAC @ MIN L 22 6 3 12 25.0 0 4 0.0 0 0 - 1 2 3 1 0 0 0 4 -13
+p576
+aVMateen Cleaves SAC 12/14/2001 SAC @ MIN L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p577
+aVVlade Divac SAC 12/14/2001 SAC @ MIN L 31 9 3 6 50.0 0 0 - 3 6 50.0 1 5 6 1 0 1 3 3 -11
+p578
+aVGerald Wallace SAC 12/14/2001 SAC @ MIN L 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 0 0 1 3 -1
+p579
+aVJabari Smith SAC 12/14/2001 SAC @ MIN L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p580
+aVBrent Price SAC 12/14/2001 SAC @ MIN L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 1 0 0 -3
+p581
+aVScot Pollard SAC 12/14/2001 SAC @ MIN L 18 4 1 3 33.3 0 0 - 2 5 40.0 2 2 4 0 0 1 0 2 -6
+p582
+aVDoug Christie SAC 12/14/2001 SAC @ MIN L 38 12 3 10 30.0 0 1 0.0 6 6 100.0 2 4 6 2 1 0 2 2 -15
+p583
+aVChris Webber SAC 12/12/2001 SAC @ PHX L 33 21 8 18 44.4 1 1 100.0 4 4 100.0 3 9 12 4 2 0 4 2 -16
+p584
+aVBrent Price SAC 12/12/2001 SAC @ PHX L 5 3 1 2 50.0 1 1 100.0 0 0 - 2 1 3 0 0 0 0 0 -1
+p585
+aVVlade Divac SAC 12/12/2001 SAC @ PHX L 20 3 1 4 25.0 0 0 - 1 4 25.0 0 5 5 2 3 1 4 1 -10
+p586
+aVScot Pollard SAC 12/12/2001 SAC @ PHX L 18 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 0 0 2 2 -8
+p587
+aVMike Bibby SAC 12/12/2001 SAC @ PHX L 32 15 6 10 60.0 1 1 100.0 2 2 100.0 1 0 1 5 0 1 2 3 -13
+p588
+aVBobby Jackson SAC 12/12/2001 SAC @ PHX L 16 9 4 4 100.0 0 0 - 1 2 50.0 1 0 1 1 0 1 1 2 -12
+p589
+aVPeja Stojakovic SAC 12/12/2001 SAC @ PHX L 29 6 2 8 25.0 0 1 0.0 2 2 100.0 0 2 2 2 1 1 2 2 -22
+p590
+aVMateen Cleaves SAC 12/12/2001 SAC @ PHX L 7 2 1 6 16.7 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p591
+aVGerald Wallace SAC 12/12/2001 SAC @ PHX L 21 9 4 8 50.0 0 1 0.0 1 2 50.0 4 2 6 1 2 1 1 0 -11
+p592
+aVDoug Christie SAC 12/12/2001 SAC @ PHX L 26 10 5 11 45.5 0 1 0.0 0 0 - 0 2 2 1 1 1 3 5 -21
+p593
+aVJabari Smith SAC 12/12/2001 SAC @ PHX L 9 2 1 2 50.0 0 1 0.0 0 2 0.0 1 1 2 1 0 1 0 0 1
+p594
+aVHedo Turkoglu SAC 12/12/2001 SAC @ PHX L 22 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 2 0 0 0 2 -17
+p595
+aVVlade Divac SAC 12/11/2001 SAC vs. ORL W 25 6 1 5 20.0 0 0 - 4 4 100.0 2 5 7 3 2 2 2 0 1
+p596
+aVPeja Stojakovic SAC 12/11/2001 SAC vs. ORL W 38 23 10 19 52.6 2 4 50.0 1 1 100.0 1 3 4 4 2 0 2 3 1
+p597
+aVScot Pollard SAC 12/11/2001 SAC vs. ORL W 15 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 14
+p598
+aVMateen Cleaves SAC 12/11/2001 SAC vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p599
+aVGerald Wallace SAC 12/11/2001 SAC vs. ORL W 11 5 2 4 50.0 0 0 - 1 2 50.0 2 3 5 1 0 0 0 1 6
+p600
+aVMike Bibby SAC 12/11/2001 SAC vs. ORL W 30 7 3 8 37.5 1 2 50.0 0 0 - 0 6 6 11 1 0 0 0 -4
+p601
+aVBobby Jackson SAC 12/11/2001 SAC vs. ORL W 23 14 4 9 44.4 1 5 20.0 5 6 83.3 1 3 4 3 1 0 2 1 9
+p602
+aVChris Webber SAC 12/11/2001 SAC vs. ORL W 33 24 11 22 50.0 0 0 - 2 2 100.0 3 6 9 2 1 2 6 3 3
+p603
+aVBrent Price SAC 12/11/2001 SAC vs. ORL W 1 2 1 2 50.0 0 1 0.0 0 1 0.0 0 0 0 0 1 0 1 1 2
+p604
+aVJabari Smith SAC 12/11/2001 SAC vs. ORL W 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p605
+aVDoug Christie SAC 12/11/2001 SAC vs. ORL W 28 10 4 7 57.1 0 0 - 2 2 100.0 3 10 13 4 2 0 1 4 12
+p606
+aVHedo Turkoglu SAC 12/11/2001 SAC vs. ORL W 33 17 7 13 53.8 3 4 75.0 0 0 - 2 4 6 1 0 0 0 2 12
+p607
+aVScot Pollard SAC 12/09/2001 SAC vs. MIA W 27 9 3 6 50.0 0 0 - 3 3 100.0 2 6 8 1 1 4 0 3 5
+p608
+aVBobby Jackson SAC 12/09/2001 SAC vs. MIA W 16 2 1 6 16.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p609
+aVJabari Smith SAC 12/09/2001 SAC vs. MIA W 7 0 0 0 - 0 0 - 0 2 0.0 0 0 0 1 0 1 0 1 4
+p610
+aVHedo Turkoglu SAC 12/09/2001 SAC vs. MIA W 23 15 6 7 85.7 2 3 66.7 1 2 50.0 1 3 4 1 1 0 2 3 4
+p611
+aVMike Bibby SAC 12/09/2001 SAC vs. MIA W 35 4 2 6 33.3 0 0 - 0 0 - 0 3 3 7 1 0 0 0 7
+p612
+aVChris Webber SAC 12/09/2001 SAC vs. MIA W 28 18 7 16 43.8 0 0 - 4 4 100.0 3 3 6 2 2 0 4 5 2
+p613
+aVVlade Divac SAC 12/09/2001 SAC vs. MIA W 23 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 0 1 2 5 2
+p614
+aVPeja Stojakovic SAC 12/09/2001 SAC vs. MIA W 42 23 4 16 25.0 3 7 42.9 12 14 85.7 0 3 3 2 1 0 3 3 4
+p615
+aVDoug Christie SAC 12/09/2001 SAC vs. MIA W 39 18 4 5 80.0 0 1 0.0 10 11 90.9 0 9 9 2 0 0 3 1 7
+p616
+aVMike Bibby SAC 12/07/2001 SAC vs. LAL W 41 21 10 20 50.0 1 3 33.3 0 0 - 0 2 2 6 1 0 0 2 13
+p617
+aVLawrence Funderburke SAC 12/07/2001 SAC vs. LAL W 7 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -2
+p618
+aVBobby Jackson SAC 12/07/2001 SAC vs. LAL W 21 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 1 1 -6
+p619
+aVHedo Turkoglu SAC 12/07/2001 SAC vs. LAL W 25 10 3 7 42.9 2 3 66.7 2 2 100.0 1 6 7 1 0 2 3 4 -11
+p620
+aVDoug Christie SAC 12/07/2001 SAC vs. LAL W 38 15 2 8 25.0 0 0 - 11 13 84.6 3 4 7 7 1 1 4 3 7
+p621
+aVPeja Stojakovic SAC 12/07/2001 SAC vs. LAL W 43 25 7 14 50.0 4 5 80.0 7 8 87.5 0 8 8 5 0 0 3 3 7
+p622
+aVScot Pollard SAC 12/07/2001 SAC vs. LAL W 32 10 5 7 71.4 0 0 - 0 1 0.0 2 4 6 0 2 0 1 4 7
+p623
+aVVlade Divac SAC 12/07/2001 SAC vs. LAL W 33 11 4 10 40.0 0 0 - 3 7 42.9 1 6 7 4 0 0 1 6 15
+p624
+aVLawrence Funderburke SAC 12/04/2001 SAC vs. PHI W 20 2 1 2 50.0 0 0 - 0 2 0.0 0 3 3 0 0 0 1 2 -3
+p625
+aVPeja Stojakovic SAC 12/04/2001 SAC vs. PHI W 35 20 8 16 50.0 4 7 57.1 0 0 - 2 10 12 3 1 0 3 1 10
+p626
+aVJabari Smith SAC 12/04/2001 SAC vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p627
+aVBobby Jackson SAC 12/04/2001 SAC vs. PHI W 38 16 7 25 28.0 0 6 0.0 2 3 66.7 6 0 6 4 0 0 0 2 2
+p628
+aVGerald Wallace SAC 12/04/2001 SAC vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p629
+aVBrent Price SAC 12/04/2001 SAC vs. PHI W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p630
+aVMike Bibby SAC 12/04/2001 SAC vs. PHI W 38 18 7 14 50.0 0 1 0.0 4 6 66.7 0 5 5 6 1 1 1 1 11
+p631
+aVMateen Cleaves SAC 12/04/2001 SAC vs. PHI W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 1 0
+p632
+aVScot Pollard SAC 12/04/2001 SAC vs. PHI W 39 6 2 6 33.3 0 0 - 2 2 100.0 6 7 13 1 2 7 1 3 25
+p633
+aVVlade Divac SAC 12/04/2001 SAC vs. PHI W 35 11 4 15 26.7 0 1 0.0 3 4 75.0 3 3 6 3 1 0 4 2 1
+p634
+aVHedo Turkoglu SAC 12/04/2001 SAC vs. PHI W 24 15 6 9 66.7 0 1 0.0 3 4 75.0 1 2 3 3 1 0 1 2 6
+p635
+aVDoug Christie SAC 12/02/2001 SAC vs. DAL L 27 9 3 13 23.1 0 1 0.0 3 3 100.0 0 0 0 4 1 0 0 1 -10
+p636
+aVVlade Divac SAC 12/02/2001 SAC vs. DAL L 47 25 8 18 44.4 0 1 0.0 9 11 81.8 12 5 17 4 0 1 1 3 4
+p637
+aVMike Bibby SAC 12/02/2001 SAC vs. DAL L 30 2 1 5 20.0 0 0 - 0 0 - 0 0 0 6 0 1 4 4 -21
+p638
+aVBobby Jackson SAC 12/02/2001 SAC vs. DAL L 31 16 7 16 43.8 1 3 33.3 1 1 100.0 0 2 2 3 2 0 2 5 5
+p639
+aVLawrence Funderburke SAC 12/02/2001 SAC vs. DAL L 25 8 4 10 40.0 0 0 - 0 0 - 3 7 10 1 1 0 0 2 12
+p640
+aVHedo Turkoglu SAC 12/02/2001 SAC vs. DAL L 43 18 7 15 46.7 3 4 75.0 1 2 50.0 0 9 9 3 0 1 1 5 4
+p641
+aVPeja Stojakovic SAC 12/02/2001 SAC vs. DAL L 49 31 10 20 50.0 1 3 33.3 10 13 76.9 2 6 8 4 1 0 2 4 -9
+p642
+aVScot Pollard SAC 12/02/2001 SAC vs. DAL L 13 5 2 5 40.0 0 0 - 1 1 100.0 3 2 5 0 0 0 0 2 -15
+p643
+aVBobby Jackson SAC 11/30/2001 SAC @ SAS W 32 12 5 10 50.0 0 1 0.0 2 2 100.0 2 6 8 4 0 0 2 2 8
+p644
+aVJabari Smith SAC 11/30/2001 SAC @ SAS W 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 4 -3
+p645
+aVVlade Divac SAC 11/30/2001 SAC @ SAS W 47 10 3 11 27.3 0 0 - 4 6 66.7 0 6 6 3 1 1 2 4 7
+p646
+aVLawrence Funderburke SAC 11/30/2001 SAC @ SAS W 28 16 8 10 80.0 0 0 - 0 1 0.0 2 4 6 2 0 0 0 2 -6
+p647
+aVPeja Stojakovic SAC 11/30/2001 SAC @ SAS W 39 11 3 9 33.3 1 1 100.0 4 4 100.0 2 6 8 1 0 0 5 0 8
+p648
+aVScot Pollard SAC 11/30/2001 SAC @ SAS W 13 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -4
+p649
+aVMike Bibby SAC 11/30/2001 SAC @ SAS W 44 22 9 20 45.0 1 2 50.0 3 4 75.0 0 3 3 4 0 1 0 3 5
+p650
+aVHedo Turkoglu SAC 11/30/2001 SAC @ SAS W 31 24 6 11 54.5 1 1 100.0 11 14 78.6 1 5 6 0 0 2 1 2 10
+p651
+aVDoug Christie SAC 11/30/2001 SAC @ SAS W 25 7 2 7 28.6 0 0 - 3 4 75.0 1 1 2 4 2 0 1 1 -10
+p652
+aVVlade Divac SAC 11/29/2001 SAC @ DAL W 31 7 3 10 30.0 0 0 - 1 2 50.0 5 6 11 3 2 2 0 2 -5
+p653
+aVDoug Christie SAC 11/29/2001 SAC @ DAL W 38 15 5 12 41.7 2 5 40.0 3 4 75.0 2 4 6 6 3 0 3 3 0
+p654
+aVBobby Jackson SAC 11/29/2001 SAC @ DAL W 27 16 7 13 53.8 1 1 100.0 1 1 100.0 1 1 2 1 0 0 3 2 14
+p655
+aVGerald Wallace SAC 11/29/2001 SAC @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p656
+aVScot Pollard SAC 11/29/2001 SAC @ DAL W 34 9 4 9 44.4 0 0 - 1 4 25.0 8 9 17 1 1 2 3 2 8
+p657
+aVHedo Turkoglu SAC 11/29/2001 SAC @ DAL W 26 17 6 11 54.5 0 2 0.0 5 8 62.5 0 2 2 1 0 1 0 3 11
+p658
+aVMike Bibby SAC 11/29/2001 SAC @ DAL W 41 14 5 13 38.5 0 0 - 4 4 100.0 0 3 3 5 1 0 2 2 15
+p659
+aVPeja Stojakovic SAC 11/29/2001 SAC @ DAL W 42 32 13 19 68.4 2 4 50.0 4 5 80.0 0 6 6 1 2 0 1 1 15
+p660
+aVScot Pollard SAC 11/27/2001 SAC @ HOU W 33 2 1 4 25.0 0 0 - 0 0 - 1 10 11 3 1 1 0 4 7
+p661
+aVHedo Turkoglu SAC 11/27/2001 SAC @ HOU W 19 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 3 1 1 2 1 12
+p662
+aVBobby Jackson SAC 11/27/2001 SAC @ HOU W 20 14 5 9 55.6 0 2 0.0 4 4 100.0 2 3 5 2 1 0 0 0 6
+p663
+aVPeja Stojakovic SAC 11/27/2001 SAC @ HOU W 45 24 9 19 47.4 0 2 0.0 6 7 85.7 0 7 7 5 1 0 4 1 2
+p664
+aVDoug Christie SAC 11/27/2001 SAC @ HOU W 33 14 5 12 41.7 0 2 0.0 4 4 100.0 0 4 4 3 3 0 1 3 -4
+p665
+aVMike Bibby SAC 11/27/2001 SAC @ HOU W 29 18 8 17 47.1 2 3 66.7 0 0 - 1 2 3 2 1 0 1 3 -1
+p666
+aVVlade Divac SAC 11/27/2001 SAC @ HOU W 39 8 4 11 36.4 0 0 - 0 3 0.0 1 6 7 4 1 0 1 4 -3
+p667
+aVLawrence Funderburke SAC 11/27/2001 SAC @ HOU W 23 9 4 7 57.1 0 0 - 1 2 50.0 4 2 6 1 1 0 2 3 6
+p668
+aVMike Bibby SAC 11/26/2001 SAC @ MEM L 40 20 8 19 42.1 0 0 - 4 4 100.0 0 6 6 11 1 0 4 1 -5
+p669
+aVHedo Turkoglu SAC 11/26/2001 SAC @ MEM L 15 6 2 8 25.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 5 -1
+p670
+aVVlade Divac SAC 11/26/2001 SAC @ MEM L 35 12 4 11 36.4 0 1 0.0 4 8 50.0 2 10 12 3 1 1 6 2 5
+p671
+aVDoug Christie SAC 11/26/2001 SAC @ MEM L 41 11 3 7 42.9 0 2 0.0 5 6 83.3 2 5 7 3 0 0 2 3 -5
+p672
+aVScot Pollard SAC 11/26/2001 SAC @ MEM L 37 9 4 7 57.1 0 0 - 1 4 25.0 4 8 12 2 3 3 1 3 0
+p673
+aVLawrence Funderburke SAC 11/26/2001 SAC @ MEM L 9 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p674
+aVBobby Jackson SAC 11/26/2001 SAC @ MEM L 20 11 3 5 60.0 1 2 50.0 4 6 66.7 1 1 2 3 1 0 1 3 -7
+p675
+aVPeja Stojakovic SAC 11/26/2001 SAC @ MEM L 42 21 9 19 47.4 3 5 60.0 0 0 - 1 4 5 1 2 0 1 2 -4
+p676
+aVMike Bibby SAC 11/24/2001 SAC vs. NJN W 33 16 8 16 50.0 0 0 - 0 0 - 0 3 3 3 1 0 0 1 -10
+p677
+aVScot Pollard SAC 11/24/2001 SAC vs. NJN W 27 4 1 4 25.0 0 0 - 2 4 50.0 1 4 5 1 1 1 0 3 5
+p678
+aVDoug Christie SAC 11/24/2001 SAC vs. NJN W 41 10 4 9 44.4 1 5 20.0 1 1 100.0 0 4 4 5 0 0 3 1 5
+p679
+aVHedo Turkoglu SAC 11/24/2001 SAC vs. NJN W 19 8 3 9 33.3 1 3 33.3 1 2 50.0 0 4 4 0 1 1 1 1 -4
+p680
+aVLawrence Funderburke SAC 11/24/2001 SAC vs. NJN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p681
+aVPeja Stojakovic SAC 11/24/2001 SAC vs. NJN W 45 29 9 22 40.9 0 6 0.0 11 12 91.7 0 3 3 3 3 0 1 1 7
+p682
+aVVlade Divac SAC 11/24/2001 SAC vs. NJN W 43 18 7 18 38.9 0 0 - 4 12 33.3 5 14 19 7 2 0 2 5 7
+p683
+aVBobby Jackson SAC 11/24/2001 SAC vs. NJN W 26 13 4 9 44.4 0 2 0.0 5 6 83.3 1 5 6 1 2 0 0 2 0
+p684
+aVPeja Stojakovic SAC 11/21/2001 SAC vs. POR W 33 21 9 20 45.0 2 6 33.3 1 4 25.0 1 1 2 2 1 0 0 0 3
+p685
+aVScot Pollard SAC 11/21/2001 SAC vs. POR W 27 0 0 2 0.0 0 0 - 0 0 - 5 5 10 2 1 1 1 4 2
+p686
+aVDoug Christie SAC 11/21/2001 SAC vs. POR W 36 10 5 12 41.7 0 2 0.0 0 0 - 0 5 5 5 0 0 5 1 16
+p687
+aVBobby Jackson SAC 11/21/2001 SAC vs. POR W 23 6 3 10 30.0 0 1 0.0 0 0 - 2 3 5 1 0 0 2 1 4
+p688
+aVHedo Turkoglu SAC 11/21/2001 SAC vs. POR W 20 18 6 9 66.7 2 3 66.7 4 6 66.7 1 2 3 2 1 0 0 2 18
+p689
+aVVlade Divac SAC 11/21/2001 SAC vs. POR W 41 11 5 12 41.7 0 0 - 1 2 50.0 3 7 10 4 2 1 3 2 9
+p690
+aVMike Bibby SAC 11/21/2001 SAC vs. POR W 38 25 9 16 56.3 0 0 - 7 8 87.5 2 3 5 3 2 0 1 2 7
+p691
+aVLawrence Funderburke SAC 11/21/2001 SAC vs. POR W 22 4 2 6 33.3 0 0 - 0 0 - 2 7 9 2 0 0 2 0 1
+p692
+aVBobby Jackson SAC 11/19/2001 SAC vs. HOU W 18 8 4 9 44.4 0 2 0.0 0 0 - 1 1 2 5 1 0 0 1 20
+p693
+aVHedo Turkoglu SAC 11/19/2001 SAC vs. HOU W 15 9 4 7 57.1 1 2 50.0 0 0 - 1 4 5 1 1 0 0 3 25
+p694
+aVMateen Cleaves SAC 11/19/2001 SAC vs. HOU W 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 3 0 7
+p695
+aVJabari Smith SAC 11/19/2001 SAC vs. HOU W 7 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 8
+p696
+aVMike Bibby SAC 11/19/2001 SAC vs. HOU W 33 10 4 13 30.8 0 0 - 2 2 100.0 1 3 4 5 4 0 2 2 20
+p697
+aVPeja Stojakovic SAC 11/19/2001 SAC vs. HOU W 33 25 11 17 64.7 2 4 50.0 1 1 100.0 2 4 6 1 0 0 2 2 12
+p698
+aVBrent Price SAC 11/19/2001 SAC vs. HOU W 4 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 1 0 0 0 2 3
+p699
+aVVlade Divac SAC 11/19/2001 SAC vs. HOU W 24 9 4 8 50.0 0 0 - 1 2 50.0 2 3 5 3 0 2 1 4 8
+p700
+aVLawrence Funderburke SAC 11/19/2001 SAC vs. HOU W 26 4 2 6 33.3 0 0 - 0 0 - 0 6 6 1 0 2 0 1 30
+p701
+aVScot Pollard SAC 11/19/2001 SAC vs. HOU W 36 12 5 9 55.6 0 0 - 2 3 66.7 3 11 14 0 0 0 1 3 22
+p702
+aVGerald Wallace SAC 11/19/2001 SAC vs. HOU W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 10
+p703
+aVDoug Christie SAC 11/19/2001 SAC vs. HOU W 32 23 9 16 56.3 2 4 50.0 3 3 100.0 2 4 6 7 3 0 1 3 15
+p704
+aVDoug Christie SAC 11/18/2001 SAC @ LAL L 39 11 3 13 23.1 0 6 0.0 5 5 100.0 1 1 2 2 4 0 2 6 -9
+p705
+aVVlade Divac SAC 11/18/2001 SAC @ LAL L 43 15 6 13 46.2 1 2 50.0 2 3 66.7 2 13 15 8 1 3 0 3 -6
+p706
+aVLawrence Funderburke SAC 11/18/2001 SAC @ LAL L 20 5 1 2 50.0 0 0 - 3 6 50.0 2 4 6 0 0 0 2 2 3
+p707
+aVPeja Stojakovic SAC 11/18/2001 SAC @ LAL L 44 25 11 20 55.0 0 3 0.0 3 3 100.0 0 5 5 2 0 1 3 2 -9
+p708
+aVBobby Jackson SAC 11/18/2001 SAC @ LAL L 16 6 3 10 30.0 0 2 0.0 0 0 - 2 0 2 3 2 0 1 1 -6
+p709
+aVMike Bibby SAC 11/18/2001 SAC @ LAL L 32 12 4 13 30.8 0 2 0.0 4 6 66.7 0 5 5 4 0 0 4 3 -3
+p710
+aVHedo Turkoglu SAC 11/18/2001 SAC @ LAL L 22 7 3 11 27.3 0 4 0.0 1 2 50.0 2 4 6 1 0 1 0 3 -7
+p711
+aVScot Pollard SAC 11/18/2001 SAC @ LAL L 22 4 1 3 33.3 0 0 - 2 4 50.0 3 3 6 1 1 1 0 2 -3
+p712
+aVMateen Cleaves SAC 11/16/2001 SAC vs. CHI W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 4
+p713
+aVBobby Jackson SAC 11/16/2001 SAC vs. CHI W 16 7 3 5 60.0 0 0 - 1 2 50.0 2 1 3 0 3 0 2 0 12
+p714
+aVJabari Smith SAC 11/16/2001 SAC vs. CHI W 13 4 1 4 25.0 0 0 - 2 2 100.0 1 5 6 1 0 0 1 0 7
+p715
+aVPeja Stojakovic SAC 11/16/2001 SAC vs. CHI W 27 21 9 15 60.0 1 4 25.0 2 2 100.0 0 6 6 2 1 0 2 1 25
+p716
+aVHedo Turkoglu SAC 11/16/2001 SAC vs. CHI W 26 16 7 11 63.6 2 2 100.0 0 0 - 0 4 4 3 3 0 1 2 24
+p717
+aVDoug Christie SAC 11/16/2001 SAC vs. CHI W 24 10 2 5 40.0 1 2 50.0 5 7 71.4 0 5 5 3 0 0 1 3 14
+p718
+aVVlade Divac SAC 11/16/2001 SAC vs. CHI W 23 11 3 4 75.0 0 0 - 5 8 62.5 1 2 3 4 2 1 3 2 17
+p719
+aVGerald Wallace SAC 11/16/2001 SAC vs. CHI W 13 2 1 6 16.7 0 1 0.0 0 2 0.0 0 0 0 1 2 0 0 2 8
+p720
+aVMike Bibby SAC 11/16/2001 SAC vs. CHI W 25 16 7 10 70.0 1 1 100.0 1 2 50.0 0 3 3 3 1 0 1 1 17
+p721
+aVLawrence Funderburke SAC 11/16/2001 SAC vs. CHI W 27 10 5 14 35.7 0 1 0.0 0 3 0.0 5 3 8 2 0 1 1 3 16
+p722
+aVScot Pollard SAC 11/16/2001 SAC vs. CHI W 29 5 2 3 66.7 0 0 - 1 2 50.0 1 3 4 0 4 2 0 3 22
+p723
+aVBrent Price SAC 11/16/2001 SAC vs. CHI W 8 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 0 4
+p724
+aVHedo Turkoglu SAC 11/13/2001 SAC vs. TOR W 21 4 2 9 22.2 0 2 0.0 0 0 - 1 5 6 3 2 0 0 1 8
+p725
+aVVlade Divac SAC 11/13/2001 SAC vs. TOR W 35 14 6 12 50.0 0 0 - 2 4 50.0 2 8 10 4 1 1 5 3 3
+p726
+aVPeja Stojakovic SAC 11/13/2001 SAC vs. TOR W 33 8 2 12 16.7 0 1 0.0 4 4 100.0 0 4 4 4 0 0 5 2 -5
+p727
+aVBobby Jackson SAC 11/13/2001 SAC vs. TOR W 24 13 5 12 41.7 1 4 25.0 2 2 100.0 1 3 4 1 1 0 1 1 7
+p728
+aVScot Pollard SAC 11/13/2001 SAC vs. TOR W 32 6 2 3 66.7 0 0 - 2 4 50.0 6 6 12 3 2 0 1 2 5
+p729
+aVDoug Christie SAC 11/13/2001 SAC vs. TOR W 32 20 8 11 72.7 1 2 50.0 3 3 100.0 1 2 3 4 1 0 3 3 13
+p730
+aVLawrence Funderburke SAC 11/13/2001 SAC vs. TOR W 28 10 4 9 44.4 0 0 - 2 2 100.0 3 1 4 0 1 2 0 0 10
+p731
+aVMike Bibby SAC 11/13/2001 SAC vs. TOR W 35 20 10 16 62.5 0 1 0.0 0 0 - 1 1 2 2 1 1 2 0 4
+p732
+aVBobby Jackson SAC 11/10/2001 SAC @ MIA W 23 7 2 5 40.0 0 1 0.0 3 3 100.0 2 4 6 2 0 0 2 1 14
+p733
+aVScot Pollard SAC 11/10/2001 SAC @ MIA W 30 6 2 7 28.6 0 0 - 2 3 66.7 3 2 5 1 1 1 2 2 7
+p734
+aVHedo Turkoglu SAC 11/10/2001 SAC @ MIA W 15 8 4 9 44.4 0 0 - 0 0 - 0 4 4 2 0 1 2 2 7
+p735
+aVPeja Stojakovic SAC 11/10/2001 SAC @ MIA W 35 22 5 14 35.7 1 2 50.0 11 11 100.0 1 5 6 0 2 0 4 2 4
+p736
+aVVlade Divac SAC 11/10/2001 SAC @ MIA W 46 18 7 17 41.2 0 0 - 4 5 80.0 3 7 10 3 1 2 1 4 19
+p737
+aVLawrence Funderburke SAC 11/10/2001 SAC @ MIA W 17 7 3 5 60.0 0 0 - 1 1 100.0 1 1 2 1 1 0 0 1 6
+p738
+aVDoug Christie SAC 11/10/2001 SAC @ MIA W 38 17 6 11 54.5 4 6 66.7 1 1 100.0 0 6 6 2 3 0 1 2 9
+p739
+aVMike Bibby SAC 11/10/2001 SAC @ MIA W 35 5 2 8 25.0 0 2 0.0 1 2 50.0 1 3 4 5 0 0 4 0 9
+p740
+aVDoug Christie SAC 11/09/2001 SAC @ ORL L 38 17 5 14 35.7 0 1 0.0 7 7 100.0 1 5 6 2 2 0 1 6 -5
+p741
+aVScot Pollard SAC 11/09/2001 SAC @ ORL L 33 10 3 7 42.9 0 0 - 4 5 80.0 3 9 12 1 1 0 2 3 3
+p742
+aVMike Bibby SAC 11/09/2001 SAC @ ORL L 41 17 7 15 46.7 0 2 0.0 3 4 75.0 1 3 4 9 2 0 3 4 -1
+p743
+aVLawrence Funderburke SAC 11/09/2001 SAC @ ORL L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -9
+p744
+aVVlade Divac SAC 11/09/2001 SAC @ ORL L 31 15 5 12 41.7 0 0 - 5 6 83.3 4 11 15 3 0 3 5 5 -9
+p745
+aVPeja Stojakovic SAC 11/09/2001 SAC @ ORL L 43 31 11 18 61.1 1 5 20.0 8 9 88.9 2 4 6 3 1 0 6 3 -6
+p746
+aVHedo Turkoglu SAC 11/09/2001 SAC @ ORL L 32 7 3 10 30.0 0 1 0.0 1 2 50.0 1 3 4 1 0 1 1 3 -13
+p747
+aVBobby Jackson SAC 11/09/2001 SAC @ ORL L 15 8 3 11 27.3 2 4 50.0 0 0 - 0 3 3 0 0 0 0 4 -10
+p748
+aVScot Pollard SAC 11/07/2001 SAC @ IND L 17 4 2 5 40.0 0 0 - 0 1 0.0 3 2 5 1 1 0 2 4 -1
+p749
+aVBobby Jackson SAC 11/07/2001 SAC @ IND L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 4 2 0 4 1 -18
+p750
+aVHedo Turkoglu SAC 11/07/2001 SAC @ IND L 31 11 5 8 62.5 1 2 50.0 0 0 - 2 7 9 2 1 0 2 1 -10
+p751
+aVDoug Christie SAC 11/07/2001 SAC @ IND L 35 14 3 10 30.0 0 2 0.0 8 12 66.7 3 5 8 2 2 0 2 5 2
+p752
+aVMike Bibby SAC 11/07/2001 SAC @ IND L 35 19 8 17 47.1 0 3 0.0 3 4 75.0 0 3 3 2 0 0 2 2 -4
+p753
+aVPeja Stojakovic SAC 11/07/2001 SAC @ IND L 44 36 11 16 68.8 5 6 83.3 9 10 90.0 1 6 7 2 0 1 5 1 -7
+p754
+aVLawrence Funderburke SAC 11/07/2001 SAC @ IND L 26 6 3 8 37.5 0 0 - 0 0 - 3 4 7 3 0 1 2 3 -11
+p755
+aVVlade Divac SAC 11/07/2001 SAC @ IND L 34 12 5 14 35.7 0 0 - 2 5 40.0 4 6 10 6 0 1 2 3 -11
+p756
+aVMike Bibby SAC 11/06/2001 SAC @ CLE W 31 18 7 15 46.7 4 6 66.7 0 0 - 0 0 0 6 0 0 0 0 -6
+p757
+aVPeja Stojakovic SAC 11/06/2001 SAC @ CLE W 42 32 13 23 56.5 4 8 50.0 2 2 100.0 2 8 10 3 0 0 1 2 10
+p758
+aVGerald Wallace SAC 11/06/2001 SAC @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p759
+aVBrent Price SAC 11/06/2001 SAC @ CLE W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 1
+p760
+aVVlade Divac SAC 11/06/2001 SAC @ CLE W 37 8 3 8 37.5 0 0 - 2 4 50.0 5 5 10 6 2 0 1 1 6
+p761
+aVScot Pollard SAC 11/06/2001 SAC @ CLE W 30 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 1 1 3 3 2
+p762
+aVMateen Cleaves SAC 11/06/2001 SAC @ CLE W 2 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 1 0 1 1 1
+p763
+aVDoug Christie SAC 11/06/2001 SAC @ CLE W 33 15 5 12 41.7 3 6 50.0 2 2 100.0 1 5 6 3 0 1 2 2 0
+p764
+aVLawrence Funderburke SAC 11/06/2001 SAC @ CLE W 11 8 4 5 80.0 0 0 - 0 0 - 1 4 5 1 0 1 0 0 19
+p765
+aVJabari Smith SAC 11/06/2001 SAC @ CLE W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p766
+aVHedo Turkoglu SAC 11/06/2001 SAC @ CLE W 25 8 3 9 33.3 1 3 33.3 1 2 50.0 0 4 4 6 2 1 0 4 19
+p767
+aVBobby Jackson SAC 11/06/2001 SAC @ CLE W 25 17 7 13 53.8 2 2 100.0 1 2 50.0 5 3 8 4 1 1 0 1 26
+p768
+aVHedo Turkoglu SAC 11/04/2001 SAC vs. SAS W 21 6 2 8 25.0 1 2 50.0 1 2 50.0 1 4 5 1 0 0 1 4 10
+p769
+aVScot Pollard SAC 11/04/2001 SAC vs. SAS W 28 10 5 7 71.4 0 0 - 0 1 0.0 1 8 9 1 2 3 0 2 25
+p770
+aVMateen Cleaves SAC 11/04/2001 SAC vs. SAS W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p771
+aVPeja Stojakovic SAC 11/04/2001 SAC vs. SAS W 28 11 5 9 55.6 1 1 100.0 0 0 - 0 3 3 2 0 0 5 0 13
+p772
+aVGerald Wallace SAC 11/04/2001 SAC vs. SAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p773
+aVBobby Jackson SAC 11/04/2001 SAC vs. SAS W 21 10 4 10 40.0 2 4 50.0 0 1 0.0 2 2 4 3 4 0 2 2 3
+p774
+aVVlade Divac SAC 11/04/2001 SAC vs. SAS W 33 25 10 15 66.7 0 0 - 5 7 71.4 3 8 11 5 0 1 2 2 10
+p775
+aVMike Bibby SAC 11/04/2001 SAC vs. SAS W 37 20 8 17 47.1 0 1 0.0 4 4 100.0 2 3 5 5 2 0 1 2 22
+p776
+aVDoug Christie SAC 11/04/2001 SAC vs. SAS W 30 5 2 5 40.0 0 0 - 1 1 100.0 2 4 6 5 2 2 3 2 16
+p777
+aVLawrence Funderburke SAC 11/04/2001 SAC vs. SAS W 27 10 4 11 36.4 0 0 - 2 2 100.0 3 3 6 3 0 1 2 4 10
+p778
+aVJabari Smith SAC 11/04/2001 SAC vs. SAS W 8 2 0 2 0.0 0 0 - 2 2 100.0 0 4 4 1 0 0 0 3 -5
+p779
+aVBrent Price SAC 11/04/2001 SAC vs. SAS W 3 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -3
+p780
+aVJabari Smith SAC 11/03/2001 SAC @ DEN W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 2 0 0 4
+p781
+aVVlade Divac SAC 11/03/2001 SAC @ DEN W 29 12 2 8 25.0 1 1 100.0 7 17 41.2 2 2 4 8 0 0 1 3 1
+p782
+aVMateen Cleaves SAC 11/03/2001 SAC @ DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p783
+aVMike Bibby SAC 11/03/2001 SAC @ DEN W 26 4 2 8 25.0 0 1 0.0 0 1 0.0 0 4 4 2 1 0 2 4 10
+p784
+aVDoug Christie SAC 11/03/2001 SAC @ DEN W 32 15 5 10 50.0 0 2 0.0 5 5 100.0 0 4 4 1 2 0 0 5 -4
+p785
+aVHedo Turkoglu SAC 11/03/2001 SAC @ DEN W 25 19 6 9 66.7 1 2 50.0 6 6 100.0 3 4 7 1 2 1 2 3 17
+p786
+aVBobby Jackson SAC 11/03/2001 SAC @ DEN W 32 14 4 7 57.1 1 2 50.0 5 6 83.3 1 4 5 4 1 0 2 4 20
+p787
+aVLawrence Funderburke SAC 11/03/2001 SAC @ DEN W 20 9 4 7 57.1 0 0 - 1 1 100.0 2 5 7 1 0 1 0 2 16
+p788
+aVScot Pollard SAC 11/03/2001 SAC @ DEN W 23 5 1 1 100.0 0 0 - 3 4 75.0 2 5 7 0 0 0 2 1 -1
+p789
+aVPeja Stojakovic SAC 11/03/2001 SAC @ DEN W 38 24 11 23 47.8 2 5 40.0 0 0 - 2 3 5 4 1 1 1 0 12
+p790
+aVGerald Wallace SAC 11/03/2001 SAC @ DEN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p791
+aVBrent Price SAC 11/03/2001 SAC @ DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p792
+aVPeja Stojakovic SAC 10/30/2001 SAC vs. SEA W 46 26 8 21 38.1 2 9 22.2 8 9 88.9 2 7 9 3 2 0 2 1 3
+p793
+aVMike Bibby SAC 10/30/2001 SAC vs. SEA W 37 15 6 12 50.0 0 0 - 3 3 100.0 1 7 8 6 2 1 2 2 6
+p794
+aVBobby Jackson SAC 10/30/2001 SAC vs. SEA W 19 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 1 1 0 2 5 2
+p795
+aVDoug Christie SAC 10/30/2001 SAC vs. SEA W 32 6 2 11 18.2 0 6 0.0 2 3 66.7 1 2 3 4 2 1 1 3 4
+p796
+aVScot Pollard SAC 10/30/2001 SAC vs. SEA W 35 7 3 6 50.0 0 0 - 1 2 50.0 2 7 9 2 0 3 1 2 5
+p797
+aVVlade Divac SAC 10/30/2001 SAC vs. SEA W 43 27 11 20 55.0 0 0 - 5 9 55.6 5 3 8 8 2 0 4 1 7
+p798
+aVHedo Turkoglu SAC 10/30/2001 SAC vs. SEA W 23 11 5 11 45.5 1 3 33.3 0 1 0.0 0 6 6 2 0 0 1 4 1
+p799
+aVGerald Wallace SAC 10/30/2001 SAC vs. SEA W 5 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 2
+p800
+a.

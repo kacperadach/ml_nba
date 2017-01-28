@@ -1,0 +1,1714 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVitaly Potapenko BOS 04/18/2001 BOS vs. CHH L 23 2 1 7 14.3 0 0 - 0 0 - 1 2 3 1 0 0 3 5 -7
+p2
+aVMark Blount BOS 04/18/2001 BOS vs. CHH L 25 4 1 3 33.3 0 0 - 2 4 50.0 5 6 11 2 0 2 2 2 2
+p3
+aVEric Williams BOS 04/18/2001 BOS vs. CHH L 43 7 2 7 28.6 0 3 0.0 3 4 75.0 0 4 4 2 1 0 1 2 1
+p4
+aVPaul Pierce BOS 04/18/2001 BOS vs. CHH L 35 25 9 18 50.0 3 7 42.9 4 4 100.0 1 6 7 2 2 3 1 5 6
+p5
+aVMilt Palacio BOS 04/18/2001 BOS vs. CHH L 26 14 4 5 80.0 1 1 100.0 5 5 100.0 1 1 2 2 2 0 1 3 -5
+p6
+aVTony Battie BOS 04/18/2001 BOS vs. CHH L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 1 2 0 0 0 -3
+p7
+aVAdrian Griffin BOS 04/18/2001 BOS vs. CHH L 10 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 1 0 2 -9
+p8
+aVChris Herren BOS 04/18/2001 BOS vs. CHH L 14 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 2 1 0 1 0 3
+p9
+aVAntoine Walker BOS 04/18/2001 BOS vs. CHH L 43 32 11 28 39.3 3 12 25.0 7 8 87.5 3 6 9 5 1 0 4 2 -1
+p10
+aVWalter McCarty BOS 04/18/2001 BOS vs. CHH L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 1 0 0 1 -12
+p11
+aVAdrian Griffin BOS 04/15/2001 BOS vs. NJN W 19 4 2 6 33.3 0 1 0.0 0 0 - 6 3 9 0 0 0 1 2 0
+p12
+aVAntoine Walker BOS 04/15/2001 BOS vs. NJN W 43 22 9 21 42.9 4 9 44.4 0 0 - 2 4 6 12 4 1 1 0 5
+p13
+aVMark Blount BOS 04/15/2001 BOS vs. NJN W 21 4 0 2 0.0 0 0 - 4 6 66.7 3 3 6 0 0 1 0 2 8
+p14
+aVEric Williams BOS 04/15/2001 BOS vs. NJN W 17 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 3 1 0 0 1 5
+p15
+aVWalter McCarty BOS 04/15/2001 BOS vs. NJN W 37 27 9 16 56.3 6 12 50.0 3 4 75.0 1 6 7 4 2 0 1 2 6
+p16
+aVPaul Pierce BOS 04/15/2001 BOS vs. NJN W 35 18 8 16 50.0 1 2 50.0 1 2 50.0 1 10 11 3 0 1 9 6 12
+p17
+aVMilt Palacio BOS 04/15/2001 BOS vs. NJN W 21 4 2 6 33.3 0 0 - 0 0 - 0 1 1 2 0 0 2 2 -6
+p18
+aVVitaly Potapenko BOS 04/15/2001 BOS vs. NJN W 27 7 2 6 33.3 0 0 - 3 4 75.0 1 6 7 0 1 0 1 1 -1
+p19
+aVChris Herren BOS 04/15/2001 BOS vs. NJN W 21 9 3 6 50.0 3 6 50.0 0 0 - 0 0 0 2 0 0 1 1 6
+p20
+aVMilt Palacio BOS 04/13/2001 BOS @ IND L 36 18 6 12 50.0 1 5 20.0 5 5 100.0 0 6 6 6 3 0 7 2 1
+p21
+aVEric Williams BOS 04/13/2001 BOS @ IND L 46 11 3 10 30.0 0 3 0.0 5 8 62.5 3 3 6 3 3 0 3 5 -7
+p22
+aVWalter McCarty BOS 04/13/2001 BOS @ IND L 32 11 4 8 50.0 1 4 25.0 2 2 100.0 1 2 3 3 1 0 1 2 2
+p23
+aVTony Battie BOS 04/13/2001 BOS @ IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p24
+aVMark Blount BOS 04/13/2001 BOS @ IND L 16 3 0 1 0.0 0 0 - 3 4 75.0 2 2 4 0 1 0 1 4 -5
+p25
+aVAdrian Griffin BOS 04/13/2001 BOS @ IND L 15 3 1 3 33.3 0 1 0.0 1 2 50.0 0 3 3 0 0 0 0 1 0
+p26
+aVPaul Pierce BOS 04/13/2001 BOS @ IND L 33 19 6 13 46.2 2 3 66.7 5 8 62.5 0 4 4 3 0 1 3 5 -4
+p27
+aVChris Herren BOS 04/13/2001 BOS @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p28
+aVAntoine Walker BOS 04/13/2001 BOS @ IND L 51 37 13 28 46.4 6 13 46.2 5 5 100.0 3 6 9 7 3 1 6 4 1
+p29
+aVVitaly Potapenko BOS 04/13/2001 BOS @ IND L 33 6 2 5 40.0 0 0 - 2 4 50.0 4 6 10 2 1 1 3 3 -5
+p30
+aVTony Battie BOS 04/11/2001 BOS vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p31
+aVMilt Palacio BOS 04/11/2001 BOS vs. MIA L 39 13 3 3 100.0 1 1 100.0 6 6 100.0 0 1 1 1 0 0 2 2 0
+p32
+aVChris Herren BOS 04/11/2001 BOS vs. MIA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p33
+aVWalter McCarty BOS 04/11/2001 BOS vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p34
+aVBryant Stith BOS 04/11/2001 BOS vs. MIA L 14 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 1 1 0 0 2 -10
+p35
+aVEric Williams BOS 04/11/2001 BOS vs. MIA L 24 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 0 -11
+p36
+aVPaul Pierce BOS 04/11/2001 BOS vs. MIA L 45 41 12 23 52.2 2 4 50.0 15 16 93.8 0 4 4 5 0 3 3 4 0
+p37
+aVAntoine Walker BOS 04/11/2001 BOS vs. MIA L 47 29 13 26 50.0 2 6 33.3 1 2 50.0 2 7 9 2 1 1 1 5 -3
+p38
+aVMark Blount BOS 04/11/2001 BOS vs. MIA L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -9
+p39
+aVVitaly Potapenko BOS 04/11/2001 BOS vs. MIA L 35 10 4 7 57.1 0 0 - 2 2 100.0 6 4 10 2 0 1 1 2 8
+p40
+aVAdrian Griffin BOS 04/11/2001 BOS vs. MIA L 12 2 1 2 50.0 0 1 0.0 0 2 0.0 1 2 3 2 2 0 0 2 11
+p41
+aVBryant Stith BOS 04/09/2001 BOS @ PHI L 37 3 1 4 25.0 1 3 33.3 0 0 - 1 3 4 4 0 0 1 2 -3
+p42
+aVAntoine Walker BOS 04/09/2001 BOS @ PHI L 44 26 11 24 45.8 4 11 36.4 0 1 0.0 0 5 5 3 0 0 5 5 -14
+p43
+aVChris Herren BOS 04/09/2001 BOS @ PHI L 15 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 3 -8
+p44
+aVMilt Palacio BOS 04/09/2001 BOS @ PHI L 33 8 2 5 40.0 0 1 0.0 4 4 100.0 0 3 3 6 3 0 2 3 -5
+p45
+aVEric Williams BOS 04/09/2001 BOS @ PHI L 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 4 -9
+p46
+aVMark Blount BOS 04/09/2001 BOS @ PHI L 15 8 3 6 50.0 0 0 - 2 2 100.0 2 0 2 0 0 2 1 3 -4
+p47
+aVPaul Pierce BOS 04/09/2001 BOS @ PHI L 42 23 9 20 45.0 2 5 40.0 3 5 60.0 1 4 5 5 2 1 2 2 -11
+p48
+aVVitaly Potapenko BOS 04/09/2001 BOS @ PHI L 22 12 6 9 66.7 0 0 - 0 1 0.0 3 2 5 1 0 0 0 1 -9
+p49
+aVAdrian Griffin BOS 04/09/2001 BOS @ PHI L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p50
+aVWalter McCarty BOS 04/09/2001 BOS @ PHI L 7 8 3 5 60.0 2 4 50.0 0 0 - 1 1 2 1 0 0 0 1 3
+p51
+aVTony Battie BOS 04/09/2001 BOS @ PHI L 8 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 1 0 0 -2
+p52
+aVWalter McCarty BOS 04/07/2001 BOS @ WAS W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p53
+aVPaul Pierce BOS 04/07/2001 BOS @ WAS W 36 15 7 12 58.3 0 0 - 1 6 16.7 0 4 4 3 2 1 2 2 1
+p54
+aVAntoine Walker BOS 04/07/2001 BOS @ WAS W 45 28 10 24 41.7 2 8 25.0 6 8 75.0 3 10 13 7 1 1 3 3 2
+p55
+aVVitaly Potapenko BOS 04/07/2001 BOS @ WAS W 24 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 1 1 3 6
+p56
+aVMark Blount BOS 04/07/2001 BOS @ WAS W 13 0 0 1 0.0 0 0 - 0 0 - 2 0 2 1 1 0 1 3 -6
+p57
+aVEric Williams BOS 04/07/2001 BOS @ WAS W 26 20 7 9 77.8 1 3 33.3 5 7 71.4 1 1 2 5 4 0 2 5 16
+p58
+aVAdrian Griffin BOS 04/07/2001 BOS @ WAS W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p59
+aVMilt Palacio BOS 04/07/2001 BOS @ WAS W 26 14 7 10 70.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 2 -7
+p60
+aVTony Battie BOS 04/07/2001 BOS @ WAS W 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 3 0 0 2
+p61
+aVBryant Stith BOS 04/07/2001 BOS @ WAS W 29 10 3 8 37.5 1 5 20.0 3 6 50.0 3 2 5 0 1 0 2 1 -14
+p62
+aVChris Herren BOS 04/07/2001 BOS @ WAS W 22 9 3 6 50.0 3 6 50.0 0 0 - 0 1 1 4 2 0 0 1 9
+p63
+aVChris Herren BOS 04/06/2001 BOS vs. LAL L 12 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 10
+p64
+aVMark Blount BOS 04/06/2001 BOS vs. LAL L 19 6 3 5 60.0 0 0 - 0 0 - 4 3 7 1 0 0 1 5 -5
+p65
+aVMilt Palacio BOS 04/06/2001 BOS vs. LAL L 28 7 3 4 75.0 0 1 0.0 1 1 100.0 2 0 2 3 1 0 1 2 -16
+p66
+aVVitaly Potapenko BOS 04/06/2001 BOS vs. LAL L 15 6 3 7 42.9 0 0 - 0 0 - 1 2 3 1 0 0 1 0 1
+p67
+aVWalter McCarty BOS 04/06/2001 BOS vs. LAL L 13 9 3 4 75.0 3 3 100.0 0 0 - 0 2 2 1 1 0 0 4 10
+p68
+aVAdrian Griffin BOS 04/06/2001 BOS vs. LAL L 13 10 4 4 100.0 2 2 100.0 0 0 - 2 1 3 1 0 0 1 1 13
+p69
+aVBryant Stith BOS 04/06/2001 BOS vs. LAL L 25 4 1 3 33.3 1 1 100.0 1 2 50.0 2 3 5 2 3 0 3 2 -9
+p70
+aVTony Battie BOS 04/06/2001 BOS vs. LAL L 7 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 1 3 -9
+p71
+aVPaul Pierce BOS 04/06/2001 BOS vs. LAL L 39 30 10 25 40.0 3 9 33.3 7 14 50.0 1 4 5 1 4 1 2 2 -7
+p72
+aVEric Williams BOS 04/06/2001 BOS vs. LAL L 19 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 2 0 0 1 2 -5
+p73
+aVRandy Brown BOS 04/06/2001 BOS vs. LAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 2 2
+p74
+aVAntoine Walker BOS 04/06/2001 BOS vs. LAL L 43 21 8 21 38.1 4 9 44.4 1 2 50.0 0 5 5 6 2 0 4 5 -5
+p75
+aVBryant Stith BOS 04/04/2001 BOS @ ORL L 29 4 2 6 33.3 0 1 0.0 0 1 0.0 1 3 4 1 2 0 0 2 4
+p76
+aVAntoine Walker BOS 04/04/2001 BOS @ ORL L 42 24 9 16 56.3 3 6 50.0 3 3 100.0 2 3 5 8 2 1 4 3 -8
+p77
+aVRandy Brown BOS 04/04/2001 BOS @ ORL L 28 8 4 10 40.0 0 0 - 0 0 - 1 2 3 1 0 0 4 3 -2
+p78
+aVTony Battie BOS 04/04/2001 BOS @ ORL L 2 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 2 3
+p79
+aVPaul Pierce BOS 04/04/2001 BOS @ ORL L 41 17 4 15 26.7 1 4 25.0 8 14 57.1 2 9 11 7 2 2 5 3 -10
+p80
+aVVitaly Potapenko BOS 04/04/2001 BOS @ ORL L 25 12 5 10 50.0 0 0 - 2 3 66.7 6 5 11 1 0 1 1 4 -1
+p81
+aVAdrian Griffin BOS 04/04/2001 BOS @ ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p82
+aVMark Blount BOS 04/04/2001 BOS @ ORL L 19 12 4 7 57.1 0 0 - 4 4 100.0 6 0 6 1 0 1 1 3 -9
+p83
+aVMilt Palacio BOS 04/04/2001 BOS @ ORL L 21 5 2 7 28.6 1 2 50.0 0 0 - 0 4 4 5 1 0 4 2 -5
+p84
+aVWalter McCarty BOS 04/04/2001 BOS @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p85
+aVEric Williams BOS 04/04/2001 BOS @ ORL L 28 16 7 10 70.0 1 2 50.0 1 2 50.0 0 0 0 1 2 1 1 1 -9
+p86
+aVAntoine Walker BOS 04/03/2001 BOS @ MIA W 44 20 9 18 50.0 2 6 33.3 0 0 - 1 3 4 5 1 0 3 4 1
+p87
+aVPaul Pierce BOS 04/03/2001 BOS @ MIA W 44 33 11 23 47.8 1 5 20.0 10 19 52.6 1 8 9 1 2 0 4 5 7
+p88
+aVVitaly Potapenko BOS 04/03/2001 BOS @ MIA W 15 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -7
+p89
+aVMilt Palacio BOS 04/03/2001 BOS @ MIA W 27 6 3 5 60.0 0 0 - 0 0 - 2 1 3 4 1 0 3 1 18
+p90
+aVTony Battie BOS 04/03/2001 BOS @ MIA W 12 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 3 4
+p91
+aVMark Blount BOS 04/03/2001 BOS @ MIA W 25 7 3 3 100.0 0 0 - 1 2 50.0 0 3 3 0 1 2 2 3 13
+p92
+aVBryant Stith BOS 04/03/2001 BOS @ MIA W 26 8 3 8 37.5 0 3 0.0 2 2 100.0 1 6 7 1 0 0 1 1 -12
+p93
+aVWalter McCarty BOS 04/03/2001 BOS @ MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p94
+aVEric Williams BOS 04/03/2001 BOS @ MIA W 26 6 3 7 42.9 0 1 0.0 0 0 - 1 3 4 1 3 0 2 1 18
+p95
+aVRandy Brown BOS 04/03/2001 BOS @ MIA W 21 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -15
+p96
+aVPaul Pierce BOS 04/01/2001 BOS @ CHH L 39 12 3 19 15.8 1 6 16.7 5 6 83.3 0 4 4 4 1 1 1 3 0
+p97
+aVTony Battie BOS 04/01/2001 BOS @ CHH L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 1 0 1 0 1
+p98
+aVMilt Palacio BOS 04/01/2001 BOS @ CHH L 26 11 4 7 57.1 0 0 - 3 3 100.0 0 3 3 4 1 0 2 2 9
+p99
+aVRandy Brown BOS 04/01/2001 BOS @ CHH L 22 4 2 4 50.0 0 0 - 0 0 - 0 3 3 3 0 1 2 3 -12
+p100
+aVEric Williams BOS 04/01/2001 BOS @ CHH L 24 7 3 9 33.3 1 3 33.3 0 0 - 0 4 4 1 2 0 0 3 5
+p101
+aVVitaly Potapenko BOS 04/01/2001 BOS @ CHH L 30 16 6 7 85.7 0 0 - 4 4 100.0 3 7 10 0 0 1 4 1 12
+p102
+aVBryant Stith BOS 04/01/2001 BOS @ CHH L 33 4 1 10 10.0 0 6 0.0 2 2 100.0 2 7 9 4 1 0 1 0 -5
+p103
+aVWalter McCarty BOS 04/01/2001 BOS @ CHH L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p104
+aVAntoine Walker BOS 04/01/2001 BOS @ CHH L 40 25 8 19 42.1 4 9 44.4 5 6 83.3 0 4 4 3 1 0 1 4 -3
+p105
+aVMark Blount BOS 04/01/2001 BOS @ CHH L 19 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 2 1 1 3 -11
+p106
+aVVitaly Potapenko BOS 03/30/2001 BOS vs. IND L 19 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 3
+p107
+aVAdrian Griffin BOS 03/30/2001 BOS vs. IND L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p108
+aVMark Blount BOS 03/30/2001 BOS vs. IND L 21 11 5 7 71.4 0 0 - 1 1 100.0 2 3 5 0 2 2 3 2 3
+p109
+aVAntoine Walker BOS 03/30/2001 BOS vs. IND L 45 20 7 18 38.9 2 7 28.6 4 4 100.0 4 4 8 7 2 0 4 6 -3
+p110
+aVPaul Pierce BOS 03/30/2001 BOS vs. IND L 43 23 8 23 34.8 1 6 16.7 6 9 66.7 1 8 9 2 0 0 3 2 0
+p111
+aVEric Williams BOS 03/30/2001 BOS vs. IND L 16 6 1 2 50.0 1 1 100.0 3 3 100.0 0 1 1 0 0 0 1 1 -7
+p112
+aVTony Battie BOS 03/30/2001 BOS vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -3
+p113
+aVBryant Stith BOS 03/30/2001 BOS vs. IND L 35 13 4 8 50.0 2 4 50.0 3 5 60.0 1 3 4 2 0 0 0 2 -8
+p114
+aVMilt Palacio BOS 03/30/2001 BOS vs. IND L 32 8 3 9 33.3 0 0 - 2 4 50.0 3 4 7 3 2 0 1 2 -12
+p115
+aVRandy Brown BOS 03/30/2001 BOS vs. IND L 16 2 1 6 16.7 0 0 - 0 0 - 1 1 2 4 0 0 0 5 7
+p116
+aVWalter McCarty BOS 03/30/2001 BOS vs. IND L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -2
+p117
+aVMilt Palacio BOS 03/29/2001 BOS @ CHI W 31 19 6 11 54.5 0 1 0.0 7 9 77.8 2 0 2 3 0 0 1 1 -1
+p118
+aVAntoine Walker BOS 03/29/2001 BOS @ CHI W 40 23 7 22 31.8 5 12 41.7 4 9 44.4 3 8 11 11 1 1 0 4 1
+p119
+aVRandy Brown BOS 03/29/2001 BOS @ CHI W 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 1 0 1 3 3
+p120
+aVVitaly Potapenko BOS 03/29/2001 BOS @ CHI W 27 11 4 9 44.4 0 0 - 3 4 75.0 1 5 6 0 0 1 1 3 10
+p121
+aVBryant Stith BOS 03/29/2001 BOS @ CHI W 33 8 3 5 60.0 0 1 0.0 2 4 50.0 1 2 3 1 0 0 0 4 0
+p122
+aVPaul Pierce BOS 03/29/2001 BOS @ CHI W 34 24 7 14 50.0 3 6 50.0 7 9 77.8 0 7 7 1 0 0 3 3 3
+p123
+aVMark Blount BOS 03/29/2001 BOS @ CHI W 24 11 5 5 100.0 0 0 - 1 1 100.0 3 5 8 1 3 1 2 4 -4
+p124
+aVAdrian Griffin BOS 03/29/2001 BOS @ CHI W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p125
+aVWalter McCarty BOS 03/29/2001 BOS @ CHI W 2 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 3
+p126
+aVEric Williams BOS 03/29/2001 BOS @ CHI W 23 3 1 10 10.0 0 1 0.0 1 2 50.0 2 1 3 2 1 0 0 0 -3
+p127
+aVEric Williams BOS 03/27/2001 BOS @ ATL W 32 10 3 8 37.5 1 3 33.3 3 4 75.0 1 3 4 0 2 0 0 4 5
+p128
+aVMark Blount BOS 03/27/2001 BOS @ ATL W 23 10 2 2 100.0 0 0 - 6 7 85.7 2 1 3 2 1 1 0 2 2
+p129
+aVAntoine Walker BOS 03/27/2001 BOS @ ATL W 50 16 6 22 27.3 2 11 18.2 2 2 100.0 2 9 11 9 1 1 2 2 7
+p130
+aVAdrian Griffin BOS 03/27/2001 BOS @ ATL W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p131
+aVBryant Stith BOS 03/27/2001 BOS @ ATL W 35 11 3 10 30.0 1 3 33.3 4 5 80.0 1 3 4 1 4 0 1 3 -10
+p132
+aVWalter McCarty BOS 03/27/2001 BOS @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p133
+aVPaul Pierce BOS 03/27/2001 BOS @ ATL W 42 41 12 30 40.0 3 6 50.0 14 17 82.4 4 7 11 3 2 0 2 3 16
+p134
+aVMilt Palacio BOS 03/27/2001 BOS @ ATL W 23 8 4 8 50.0 0 2 0.0 0 0 - 1 1 2 3 0 0 2 2 -1
+p135
+aVVitaly Potapenko BOS 03/27/2001 BOS @ ATL W 24 10 4 8 50.0 0 0 - 2 2 100.0 5 2 7 0 0 1 1 5 -5
+p136
+aVRandy Brown BOS 03/27/2001 BOS @ ATL W 30 6 3 5 60.0 0 0 - 0 0 - 0 2 2 2 2 0 2 2 4
+p137
+aVVitaly Potapenko BOS 03/25/2001 BOS vs. CHI W 17 4 2 3 66.7 0 0 - 0 0 - 3 3 6 0 1 0 1 0 12
+p138
+aVEric Williams BOS 03/25/2001 BOS vs. CHI W 21 6 1 3 33.3 0 1 0.0 4 4 100.0 1 2 3 1 1 0 1 0 10
+p139
+aVAdrian Griffin BOS 03/25/2001 BOS vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 1
+p140
+aVPaul Pierce BOS 03/25/2001 BOS vs. CHI W 42 36 11 21 52.4 3 6 50.0 11 14 78.6 0 6 6 4 1 0 3 2 2
+p141
+aVAntoine Walker BOS 03/25/2001 BOS vs. CHI W 45 21 8 20 40.0 3 8 37.5 2 2 100.0 0 7 7 7 4 1 4 4 5
+p142
+aVBryant Stith BOS 03/25/2001 BOS vs. CHI W 31 12 4 8 50.0 1 4 25.0 3 3 100.0 0 2 2 0 1 0 0 0 -8
+p143
+aVWalter McCarty BOS 03/25/2001 BOS vs. CHI W 11 5 1 3 33.3 1 1 100.0 2 2 100.0 3 2 5 1 0 0 0 5 2
+p144
+aVRandy Brown BOS 03/25/2001 BOS vs. CHI W 23 2 1 5 20.0 0 0 - 0 0 - 0 1 1 5 2 0 1 4 -8
+p145
+aVMilt Palacio BOS 03/25/2001 BOS vs. CHI W 25 12 5 10 50.0 0 0 - 2 3 66.7 1 0 1 4 0 0 1 0 12
+p146
+aVMark Blount BOS 03/25/2001 BOS vs. CHI W 23 4 1 2 50.0 0 0 - 2 4 50.0 2 2 4 2 0 1 4 3 -8
+p147
+aVRandy Brown BOS 03/22/2001 BOS @ NJN W 24 2 1 5 20.0 0 0 - 0 0 - 0 1 1 5 1 0 0 4 3
+p148
+aVBryant Stith BOS 03/22/2001 BOS @ NJN W 29 8 2 6 33.3 2 5 40.0 2 2 100.0 0 2 2 2 1 0 0 2 -4
+p149
+aVWalter McCarty BOS 03/22/2001 BOS @ NJN W 18 5 2 3 66.7 1 1 100.0 0 0 - 2 2 4 3 1 0 2 1 21
+p150
+aVMark Blount BOS 03/22/2001 BOS @ NJN W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -15
+p151
+aVAdrian Griffin BOS 03/22/2001 BOS @ NJN W 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -3
+p152
+aVMilt Palacio BOS 03/22/2001 BOS @ NJN W 24 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 7 3 0 1 4 12
+p153
+aVPaul Pierce BOS 03/22/2001 BOS @ NJN W 38 44 15 26 57.7 4 9 44.4 10 10 100.0 0 6 6 1 0 1 1 3 11
+p154
+aVEric Williams BOS 03/22/2001 BOS @ NJN W 19 6 2 8 25.0 1 2 50.0 1 2 50.0 1 1 2 1 1 0 0 2 25
+p155
+aVJerome Moiso BOS 03/22/2001 BOS @ NJN W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 0
+p156
+aVAntoine Walker BOS 03/22/2001 BOS @ NJN W 40 29 10 23 43.5 6 10 60.0 3 3 100.0 1 6 7 8 3 1 3 2 6
+p157
+aVVitaly Potapenko BOS 03/22/2001 BOS @ NJN W 25 13 5 9 55.6 0 0 - 3 3 100.0 3 3 6 2 2 2 1 3 19
+p158
+aVChris Herren BOS 03/21/2001 BOS vs. SAS L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p159
+aVBryant Stith BOS 03/21/2001 BOS vs. SAS L 30 6 2 7 28.6 2 4 50.0 0 0 - 1 3 4 3 1 0 2 1 2
+p160
+aVRandy Brown BOS 03/21/2001 BOS vs. SAS L 24 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 1 0 0 1 5
+p161
+aVWalter McCarty BOS 03/21/2001 BOS vs. SAS L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 -20
+p162
+aVPaul Pierce BOS 03/21/2001 BOS vs. SAS L 37 37 16 26 61.5 2 5 40.0 3 5 60.0 1 8 9 4 2 2 5 5 -9
+p163
+aVVitaly Potapenko BOS 03/21/2001 BOS vs. SAS L 18 9 3 5 60.0 0 0 - 3 4 75.0 1 2 3 0 0 0 1 3 -10
+p164
+aVAntoine Walker BOS 03/21/2001 BOS vs. SAS L 39 13 6 22 27.3 0 5 0.0 1 2 50.0 4 5 9 5 0 1 3 3 -11
+p165
+aVMilt Palacio BOS 03/21/2001 BOS vs. SAS L 21 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 2 1 0 2 0 -23
+p166
+aVEric Williams BOS 03/21/2001 BOS vs. SAS L 24 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 1 0 0 1 1 -31
+p167
+aVMark Blount BOS 03/21/2001 BOS vs. SAS L 21 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 0 1 3 3
+p168
+aVJerome Moiso BOS 03/21/2001 BOS vs. SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -2
+p169
+aVAdrian Griffin BOS 03/21/2001 BOS vs. SAS L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -2
+p170
+aVAntoine Walker BOS 03/16/2001 BOS @ DEN W 40 21 9 19 47.4 3 6 50.0 0 0 - 2 3 5 7 1 0 2 3 10
+p171
+aVVitaly Potapenko BOS 03/16/2001 BOS @ DEN W 33 8 3 8 37.5 0 0 - 2 2 100.0 4 8 12 2 3 0 2 3 4
+p172
+aVPaul Pierce BOS 03/16/2001 BOS @ DEN W 40 14 5 15 33.3 1 7 14.3 3 4 75.0 0 12 12 4 2 1 2 2 -2
+p173
+aVRandy Brown BOS 03/16/2001 BOS @ DEN W 26 10 5 8 62.5 0 0 - 0 2 0.0 1 3 4 2 0 1 0 3 5
+p174
+aVEric Williams BOS 03/16/2001 BOS @ DEN W 20 8 4 6 66.7 0 1 0.0 0 0 - 1 1 2 0 1 0 1 4 -1
+p175
+aVMark Blount BOS 03/16/2001 BOS @ DEN W 14 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 4 3
+p176
+aVMilt Palacio BOS 03/16/2001 BOS @ DEN W 22 4 1 7 14.3 0 0 - 2 2 100.0 1 2 3 6 0 0 1 2 -1
+p177
+aVBryant Stith BOS 03/16/2001 BOS @ DEN W 34 17 4 8 50.0 3 6 50.0 6 6 100.0 1 1 2 3 0 0 3 1 10
+p178
+aVAdrian Griffin BOS 03/16/2001 BOS @ DEN W 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p179
+aVWalter McCarty BOS 03/16/2001 BOS @ DEN W 5 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 -11
+p180
+aVWalter McCarty BOS 03/15/2001 BOS @ PHX W 19 4 2 3 66.7 0 1 0.0 0 0 - 2 1 3 3 1 1 3 5 -6
+p181
+aVMark Blount BOS 03/15/2001 BOS @ PHX W 23 6 2 5 40.0 0 0 - 2 2 100.0 2 5 7 2 1 0 1 2 12
+p182
+aVVitaly Potapenko BOS 03/15/2001 BOS @ PHX W 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -14
+p183
+aVAntoine Walker BOS 03/15/2001 BOS @ PHX W 43 20 9 23 39.1 2 11 18.2 0 0 - 1 5 6 6 5 0 3 4 7
+p184
+aVRandy Brown BOS 03/15/2001 BOS @ PHX W 22 4 2 3 66.7 0 0 - 0 0 - 0 0 0 3 3 1 1 1 4
+p185
+aVMilt Palacio BOS 03/15/2001 BOS @ PHX W 26 11 2 7 28.6 1 1 100.0 6 6 100.0 0 3 3 4 2 0 1 4 0
+p186
+aVEric Williams BOS 03/15/2001 BOS @ PHX W 24 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 2 -20
+p187
+aVBryant Stith BOS 03/15/2001 BOS @ PHX W 25 15 6 7 85.7 2 2 100.0 1 2 50.0 0 3 3 2 1 0 1 3 1
+p188
+aVAdrian Griffin BOS 03/15/2001 BOS @ PHX W 9 0 0 0 - 0 0 - 0 0 - 0 4 4 1 2 0 0 0 15
+p189
+aVPaul Pierce BOS 03/15/2001 BOS @ PHX W 36 42 13 25 52.0 3 8 37.5 13 13 100.0 1 1 2 1 2 3 3 3 21
+p190
+aVWalter McCarty BOS 03/13/2001 BOS @ LAL L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 9
+p191
+aVRandy Brown BOS 03/13/2001 BOS @ LAL L 23 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 1 0 0 3 5 -5
+p192
+aVVitaly Potapenko BOS 03/13/2001 BOS @ LAL L 22 6 3 6 50.0 0 0 - 0 0 - 0 3 3 0 2 1 1 4 -9
+p193
+aVEric Williams BOS 03/13/2001 BOS @ LAL L 31 14 2 8 25.0 0 3 0.0 10 11 90.9 2 2 4 2 0 1 2 3 9
+p194
+aVAntoine Walker BOS 03/13/2001 BOS @ LAL L 45 23 9 20 45.0 4 12 33.3 1 2 50.0 2 6 8 11 2 1 4 5 -9
+p195
+aVBryant Stith BOS 03/13/2001 BOS @ LAL L 29 9 3 8 37.5 1 5 20.0 2 2 100.0 0 3 3 4 2 0 0 2 1
+p196
+aVPaul Pierce BOS 03/13/2001 BOS @ LAL L 38 42 13 19 68.4 3 7 42.9 13 21 61.9 1 5 6 2 4 1 3 4 -19
+p197
+aVMilt Palacio BOS 03/13/2001 BOS @ LAL L 25 8 4 7 57.1 0 0 - 0 2 0.0 0 2 2 3 0 0 2 3 0
+p198
+aVMark Blount BOS 03/13/2001 BOS @ LAL L 15 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 4 -2
+p199
+aVAdrian Griffin BOS 03/11/2001 BOS vs. PHI L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p200
+aVAntoine Walker BOS 03/11/2001 BOS vs. PHI L 44 21 7 19 36.8 1 6 16.7 6 10 60.0 2 4 6 3 3 0 8 4 -8
+p201
+aVMilt Palacio BOS 03/11/2001 BOS vs. PHI L 25 14 4 8 50.0 0 1 0.0 6 6 100.0 0 1 1 4 0 0 3 2 8
+p202
+aVBryant Stith BOS 03/11/2001 BOS vs. PHI L 35 16 6 9 66.7 3 4 75.0 1 2 50.0 1 4 5 3 0 0 0 2 7
+p203
+aVMark Blount BOS 03/11/2001 BOS vs. PHI L 18 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 2 1 0 1 4 -9
+p204
+aVWalter McCarty BOS 03/11/2001 BOS vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p205
+aVEric Williams BOS 03/11/2001 BOS vs. PHI L 26 4 0 2 0.0 0 1 0.0 4 8 50.0 0 2 2 1 0 0 2 2 -4
+p206
+aVVitaly Potapenko BOS 03/11/2001 BOS vs. PHI L 27 8 4 8 50.0 0 0 - 0 0 - 0 7 7 1 5 0 1 4 5
+p207
+aVRandy Brown BOS 03/11/2001 BOS vs. PHI L 22 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 2 -13
+p208
+aVPaul Pierce BOS 03/11/2001 BOS vs. PHI L 39 24 9 21 42.9 4 6 66.7 2 4 50.0 0 4 4 3 2 1 3 4 -14
+p209
+aVAdrian Griffin BOS 03/09/2001 BOS vs. WAS W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p210
+aVChris Herren BOS 03/09/2001 BOS vs. WAS W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 6
+p211
+aVRandy Brown BOS 03/09/2001 BOS vs. WAS W 24 4 2 5 40.0 0 0 - 0 0 - 0 2 2 5 0 0 0 2 15
+p212
+aVMilt Palacio BOS 03/09/2001 BOS vs. WAS W 18 10 4 8 50.0 0 2 0.0 2 2 100.0 1 2 3 0 0 0 1 1 11
+p213
+aVChris Carr BOS 03/09/2001 BOS vs. WAS W 10 5 1 3 33.3 0 1 0.0 3 4 75.0 0 3 3 1 0 0 1 0 8
+p214
+aVAntoine Walker BOS 03/09/2001 BOS vs. WAS W 38 24 10 24 41.7 3 10 30.0 1 2 50.0 4 5 9 8 3 1 6 2 34
+p215
+aVBryant Stith BOS 03/09/2001 BOS vs. WAS W 33 11 4 7 57.1 3 3 100.0 0 0 - 0 3 3 3 1 1 1 4 28
+p216
+aVMark Blount BOS 03/09/2001 BOS vs. WAS W 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 1 2 0 5 18
+p217
+aVWalter McCarty BOS 03/09/2001 BOS vs. WAS W 19 6 2 6 33.3 0 0 - 2 2 100.0 0 4 4 1 0 1 0 4 12
+p218
+aVVitaly Potapenko BOS 03/09/2001 BOS vs. WAS W 20 11 4 7 57.1 0 0 - 3 4 75.0 3 6 9 0 0 0 0 3 2
+p219
+aVPaul Pierce BOS 03/09/2001 BOS vs. WAS W 37 21 6 11 54.5 2 5 40.0 7 10 70.0 0 12 12 7 2 3 0 1 23
+p220
+aVEric Williams BOS 03/09/2001 BOS vs. WAS W 15 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 3 1
+p221
+aVRandy Brown BOS 03/07/2001 BOS vs. MIL L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 4 0 0 1 2 -9
+p222
+aVPaul Pierce BOS 03/07/2001 BOS vs. MIL L 45 30 11 23 47.8 4 8 50.0 4 6 66.7 2 8 10 4 3 0 1 1 -6
+p223
+aVVitaly Potapenko BOS 03/07/2001 BOS vs. MIL L 21 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 1 1 0 0 1 4
+p224
+aVAntoine Walker BOS 03/07/2001 BOS vs. MIL L 41 36 14 28 50.0 7 14 50.0 1 4 25.0 0 11 11 4 3 0 6 5 -6
+p225
+aVEric Williams BOS 03/07/2001 BOS vs. MIL L 27 3 1 4 25.0 0 2 0.0 1 3 33.3 1 1 2 2 0 0 0 1 -6
+p226
+aVBryant Stith BOS 03/07/2001 BOS vs. MIL L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 2 4 0
+p227
+aVMilt Palacio BOS 03/07/2001 BOS vs. MIL L 31 8 2 6 33.3 0 1 0.0 4 4 100.0 1 2 3 5 1 0 2 3 2
+p228
+aVMark Blount BOS 03/07/2001 BOS vs. MIL L 24 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 4 -14
+p229
+aVWalter McCarty BOS 03/07/2001 BOS vs. MIL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p230
+aVChris Carr BOS 03/07/2001 BOS vs. MIL L 20 11 4 7 57.1 1 3 33.3 2 3 66.7 0 1 1 2 0 0 2 6 -3
+p231
+aVPaul Pierce BOS 03/04/2001 BOS vs. CHH L 35 24 6 14 42.9 3 5 60.0 9 12 75.0 1 0 1 6 1 0 2 2 -18
+p232
+aVMilt Palacio BOS 03/04/2001 BOS vs. CHH L 11 5 2 5 40.0 1 1 100.0 0 0 - 0 2 2 1 0 0 1 2 -8
+p233
+aVBryant Stith BOS 03/04/2001 BOS vs. CHH L 29 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 5 0 0 1 3 -6
+p234
+aVChris Herren BOS 03/04/2001 BOS vs. CHH L 21 6 2 5 40.0 2 4 50.0 0 0 - 0 2 2 3 3 0 2 1 0
+p235
+aVVitaly Potapenko BOS 03/04/2001 BOS vs. CHH L 20 6 3 6 50.0 0 0 - 0 0 - 4 4 8 0 1 0 1 1 -15
+p236
+aVMark Blount BOS 03/04/2001 BOS vs. CHH L 23 4 2 3 66.7 0 0 - 0 0 - 0 5 5 0 0 1 0 5 1
+p237
+aVWalter McCarty BOS 03/04/2001 BOS vs. CHH L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p238
+aVEric Williams BOS 03/04/2001 BOS vs. CHH L 16 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 0 1 0 1 4 -13
+p239
+aVChris Carr BOS 03/04/2001 BOS vs. CHH L 14 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 0 1 0 1 -3
+p240
+aVAdrian Griffin BOS 03/04/2001 BOS vs. CHH L 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 0 -1
+p241
+aVAntoine Walker BOS 03/04/2001 BOS vs. CHH L 43 27 11 24 45.8 1 6 16.7 4 4 100.0 3 7 10 7 3 1 5 4 -17
+p242
+aVRandy Brown BOS 03/04/2001 BOS vs. CHH L 19 8 4 8 50.0 0 0 - 0 0 - 0 1 1 2 0 0 2 3 -10
+p243
+aVEric Williams BOS 03/02/2001 BOS vs. UTA W 31 9 3 5 60.0 3 4 75.0 0 0 - 0 1 1 2 2 0 0 1 15
+p244
+aVAntoine Walker BOS 03/02/2001 BOS vs. UTA W 41 26 10 20 50.0 6 9 66.7 0 4 0.0 3 4 7 4 1 0 2 3 -8
+p245
+aVMark Blount BOS 03/02/2001 BOS vs. UTA W 20 4 2 3 66.7 0 0 - 0 2 0.0 4 2 6 0 1 1 1 5 1
+p246
+aVWalter McCarty BOS 03/02/2001 BOS vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p247
+aVVitaly Potapenko BOS 03/02/2001 BOS vs. UTA W 27 8 4 9 44.4 0 0 - 0 0 - 5 4 9 0 0 1 0 4 7
+p248
+aVPaul Pierce BOS 03/02/2001 BOS vs. UTA W 33 30 6 19 31.6 0 4 0.0 18 19 94.7 0 6 6 4 3 0 3 5 7
+p249
+aVMilt Palacio BOS 03/02/2001 BOS vs. UTA W 29 8 3 6 50.0 0 1 0.0 2 2 100.0 0 3 3 4 2 0 2 2 4
+p250
+aVChris Carr BOS 03/02/2001 BOS vs. UTA W 6 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p251
+aVBryant Stith BOS 03/02/2001 BOS vs. UTA W 33 14 4 10 40.0 1 4 25.0 5 5 100.0 0 3 3 3 0 1 2 2 6
+p252
+aVRandy Brown BOS 03/02/2001 BOS vs. UTA W 20 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 1 1 -6
+p253
+aVRandy Brown BOS 03/01/2001 BOS @ NYK L 35 2 1 6 16.7 0 0 - 0 4 0.0 0 1 1 3 0 1 2 0 5
+p254
+aVEric Williams BOS 03/01/2001 BOS @ NYK L 25 21 4 8 50.0 3 4 75.0 10 12 83.3 1 0 1 1 0 0 1 3 4
+p255
+aVBryant Stith BOS 03/01/2001 BOS @ NYK L 35 7 2 9 22.2 2 7 28.6 1 2 50.0 2 2 4 3 3 0 1 4 -14
+p256
+aVPaul Pierce BOS 03/01/2001 BOS @ NYK L 38 23 9 20 45.0 2 5 40.0 3 4 75.0 2 5 7 5 0 2 3 5 -1
+p257
+aVAntoine Walker BOS 03/01/2001 BOS @ NYK L 45 15 5 19 26.3 2 11 18.2 3 6 50.0 1 9 10 5 2 2 3 3 -9
+p258
+aVMark Blount BOS 03/01/2001 BOS @ NYK L 27 8 4 5 80.0 0 0 - 0 0 - 4 3 7 0 1 1 2 2 0
+p259
+aVChris Carr BOS 03/01/2001 BOS @ NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p260
+aVVitaly Potapenko BOS 03/01/2001 BOS @ NYK L 21 6 3 4 75.0 0 0 - 0 0 - 3 4 7 0 0 0 1 0 -5
+p261
+aVMilt Palacio BOS 03/01/2001 BOS @ NYK L 14 6 2 3 66.7 1 1 100.0 1 2 50.0 0 1 1 4 0 0 2 4 -17
+p262
+aVWalter McCarty BOS 02/26/2001 BOS vs. SEA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p263
+aVAdrian Griffin BOS 02/26/2001 BOS vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p264
+aVChris Carr BOS 02/26/2001 BOS vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p265
+aVPaul Pierce BOS 02/26/2001 BOS vs. SEA W 31 24 8 16 50.0 3 4 75.0 5 10 50.0 1 4 5 4 1 0 1 5 -6
+p266
+aVRandy Brown BOS 02/26/2001 BOS vs. SEA W 26 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 3 3 1 1 3 1
+p267
+aVEric Williams BOS 02/26/2001 BOS vs. SEA W 25 13 5 6 83.3 3 3 100.0 0 0 - 2 3 5 2 0 0 2 3 -3
+p268
+aVBryant Stith BOS 02/26/2001 BOS vs. SEA W 41 13 4 8 50.0 3 6 50.0 2 2 100.0 1 4 5 2 4 0 5 2 12
+p269
+aVVitaly Potapenko BOS 02/26/2001 BOS vs. SEA W 26 4 2 5 40.0 0 0 - 0 0 - 1 6 7 0 0 1 1 1 -8
+p270
+aVMark Blount BOS 02/26/2001 BOS vs. SEA W 22 2 1 7 14.3 0 0 - 0 0 - 1 4 5 0 1 2 1 5 12
+p271
+aVAntoine Walker BOS 02/26/2001 BOS vs. SEA W 45 25 9 23 39.1 3 10 30.0 4 8 50.0 0 13 13 7 2 1 8 3 8
+p272
+aVMilt Palacio BOS 02/26/2001 BOS vs. SEA W 22 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 3 1 0 0 1 2
+p273
+aVAntoine Walker BOS 02/23/2001 BOS @ SAS L 41 23 7 20 35.0 2 9 22.2 7 9 77.8 0 4 4 9 3 0 1 3 -20
+p274
+aVPaul Pierce BOS 02/23/2001 BOS @ SAS L 44 24 9 25 36.0 0 9 0.0 6 9 66.7 0 5 5 0 1 2 1 2 -18
+p275
+aVMark Blount BOS 02/23/2001 BOS @ SAS L 20 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 1 1 0 2 -20
+p276
+aVVitaly Potapenko BOS 02/23/2001 BOS @ SAS L 30 7 3 10 30.0 0 0 - 1 2 50.0 4 7 11 0 1 1 2 5 2
+p277
+aVEric Williams BOS 02/23/2001 BOS @ SAS L 29 4 1 3 33.3 0 1 0.0 2 4 50.0 2 2 4 2 0 0 2 3 -28
+p278
+aVKenny Anderson BOS 02/23/2001 BOS @ SAS L 20 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 1 1 -25
+p279
+aVMilt Palacio BOS 02/23/2001 BOS @ SAS L 28 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 6 1 0 0 1 7
+p280
+aVJerome Moiso BOS 02/23/2001 BOS @ SAS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p281
+aVChris Carr BOS 02/23/2001 BOS @ SAS L 27 10 3 7 42.9 0 1 0.0 4 4 100.0 2 5 7 1 0 0 0 2 14
+p282
+aVChris Carr BOS 02/22/2001 BOS @ DAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p283
+aVKenny Anderson BOS 02/22/2001 BOS @ DAL L 19 4 2 5 40.0 0 0 - 0 0 - 0 0 0 3 1 0 1 2 -8
+p284
+aVEric Williams BOS 02/22/2001 BOS @ DAL L 18 4 0 1 0.0 0 0 - 4 6 66.7 1 1 2 1 1 0 0 2 -7
+p285
+aVChris Herren BOS 02/22/2001 BOS @ DAL L 17 2 1 7 14.3 0 3 0.0 0 0 - 0 1 1 2 1 0 0 2 7
+p286
+aVMark Blount BOS 02/22/2001 BOS @ DAL L 13 10 5 7 71.4 0 0 - 0 0 - 4 3 7 0 0 1 2 2 -6
+p287
+aVAntoine Walker BOS 02/22/2001 BOS @ DAL L 45 17 6 17 35.3 4 10 40.0 1 2 50.0 2 7 9 6 3 3 2 2 -13
+p288
+aVMilt Palacio BOS 02/22/2001 BOS @ DAL L 13 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 2 0 0 0 0 -8
+p289
+aVBryant Stith BOS 02/22/2001 BOS @ DAL L 39 6 2 10 20.0 0 2 0.0 2 2 100.0 2 5 7 2 1 0 3 3 -2
+p290
+aVPaul Pierce BOS 02/22/2001 BOS @ DAL L 45 23 8 12 66.7 3 4 75.0 4 4 100.0 1 10 11 2 2 1 5 4 0
+p291
+aVVitaly Potapenko BOS 02/22/2001 BOS @ DAL L 29 16 5 10 50.0 0 0 - 6 9 66.7 3 1 4 0 0 0 4 4 5
+p292
+aVJerome Moiso BOS 02/22/2001 BOS @ DAL L 0 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 1
+p293
+aVMark Blount BOS 02/20/2001 BOS @ HOU L 22 4 2 2 100.0 0 0 - 0 0 - 2 4 6 0 1 4 1 2 -2
+p294
+aVAntoine Walker BOS 02/20/2001 BOS @ HOU L 36 19 4 17 23.5 2 10 20.0 9 9 100.0 1 9 10 3 0 0 5 4 -11
+p295
+aVEric Williams BOS 02/20/2001 BOS @ HOU L 17 0 0 2 0.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 4 -17
+p296
+aVVitaly Potapenko BOS 02/20/2001 BOS @ HOU L 26 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 2 2 -15
+p297
+aVChris Herren BOS 02/20/2001 BOS @ HOU L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 2 1
+p298
+aVWalter McCarty BOS 02/20/2001 BOS @ HOU L 3 6 2 3 66.7 1 1 100.0 1 2 50.0 0 0 0 1 0 0 0 0 8
+p299
+aVPaul Pierce BOS 02/20/2001 BOS @ HOU L 40 31 9 22 40.9 1 5 20.0 12 17 70.6 1 3 4 1 2 1 6 1 -16
+p300
+aVChris Carr BOS 02/20/2001 BOS @ HOU L 14 8 3 5 60.0 1 2 50.0 1 1 100.0 0 2 2 0 0 0 2 3 1
+p301
+aVKenny Anderson BOS 02/20/2001 BOS @ HOU L 22 8 2 5 40.0 0 0 - 4 4 100.0 1 1 2 4 0 0 1 1 -1
+p302
+aVJerome Moiso BOS 02/20/2001 BOS @ HOU L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p303
+aVMilt Palacio BOS 02/20/2001 BOS @ HOU L 20 2 1 4 25.0 0 0 - 0 0 - 0 1 1 2 1 0 1 0 -17
+p304
+aVBryant Stith BOS 02/20/2001 BOS @ HOU L 28 6 2 6 33.3 1 3 33.3 1 1 100.0 0 3 3 2 0 0 0 5 -19
+p305
+aVJerome Moiso BOS 02/19/2001 BOS @ UTA L 8 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 5
+p306
+aVChris Carr BOS 02/19/2001 BOS @ UTA L 20 15 3 8 37.5 3 3 100.0 6 8 75.0 3 2 5 0 0 0 1 3 2
+p307
+aVChris Herren BOS 02/19/2001 BOS @ UTA L 16 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 4 0 0 3 1 6
+p308
+aVPaul Pierce BOS 02/19/2001 BOS @ UTA L 28 22 7 15 46.7 3 6 50.0 5 8 62.5 0 4 4 5 1 0 2 3 -9
+p309
+aVWalter McCarty BOS 02/19/2001 BOS @ UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p310
+aVMark Blount BOS 02/19/2001 BOS @ UTA L 28 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 1 5 0 5 -4
+p311
+aVBryant Stith BOS 02/19/2001 BOS @ UTA L 28 10 2 6 33.3 1 3 33.3 5 5 100.0 2 3 5 2 0 2 0 5 -15
+p312
+aVAntoine Walker BOS 02/19/2001 BOS @ UTA L 42 27 9 21 42.9 5 11 45.5 4 5 80.0 0 6 6 3 4 0 5 5 -9
+p313
+aVMilt Palacio BOS 02/19/2001 BOS @ UTA L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 0 -4
+p314
+aVEric Williams BOS 02/19/2001 BOS @ UTA L 20 9 2 4 50.0 1 2 50.0 4 6 66.7 0 0 0 3 2 0 0 4 -10
+p315
+aVVitaly Potapenko BOS 02/19/2001 BOS @ UTA L 11 10 4 6 66.7 0 0 - 2 2 100.0 1 0 1 0 0 0 1 4 -13
+p316
+aVKenny Anderson BOS 02/19/2001 BOS @ UTA L 24 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 1 1 0 2 1 -15
+p317
+aVMark Blount BOS 02/17/2001 BOS @ POR W 22 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 3 5
+p318
+aVAntoine Walker BOS 02/17/2001 BOS @ POR W 42 28 9 22 40.9 7 12 58.3 3 4 75.0 2 6 8 5 2 0 3 4 4
+p319
+aVMilt Palacio BOS 02/17/2001 BOS @ POR W 20 9 4 6 66.7 0 0 - 1 2 50.0 0 1 1 1 2 0 1 0 -4
+p320
+aVKenny Anderson BOS 02/17/2001 BOS @ POR W 28 4 1 5 20.0 0 0 - 2 5 40.0 0 2 2 7 1 0 1 1 8
+p321
+aVBryant Stith BOS 02/17/2001 BOS @ POR W 36 10 4 9 44.4 1 3 33.3 1 1 100.0 1 4 5 1 1 1 1 1 9
+p322
+aVVitaly Potapenko BOS 02/17/2001 BOS @ POR W 26 8 4 9 44.4 0 0 - 0 0 - 4 4 8 0 0 1 0 2 -3
+p323
+aVPaul Pierce BOS 02/17/2001 BOS @ POR W 39 14 4 16 25.0 1 3 33.3 5 8 62.5 0 6 6 2 0 0 3 2 7
+p324
+aVEric Williams BOS 02/17/2001 BOS @ POR W 26 6 2 4 50.0 1 2 50.0 1 2 50.0 0 4 4 2 0 0 0 2 -5
+p325
+aVWalter McCarty BOS 02/17/2001 BOS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p326
+aVEric Williams BOS 02/15/2001 BOS @ SEA W 28 13 1 3 33.3 1 1 100.0 10 10 100.0 2 5 7 2 1 0 3 4 10
+p327
+aVPaul Pierce BOS 02/15/2001 BOS @ SEA W 23 18 7 14 50.0 3 6 50.0 1 2 50.0 1 4 5 0 1 3 1 4 20
+p328
+aVMark Blount BOS 02/15/2001 BOS @ SEA W 11 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 1 1 0 4 12
+p329
+aVChris Herren BOS 02/15/2001 BOS @ SEA W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 2 0 1 2 5
+p330
+aVChris Carr BOS 02/15/2001 BOS @ SEA W 18 8 2 7 28.6 2 3 66.7 2 3 66.7 1 0 1 1 1 0 0 2 6
+p331
+aVVitaly Potapenko BOS 02/15/2001 BOS @ SEA W 30 12 6 9 66.7 0 0 - 0 0 - 3 4 7 2 0 0 0 2 8
+p332
+aVWalter McCarty BOS 02/15/2001 BOS @ SEA W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p333
+aVMilt Palacio BOS 02/15/2001 BOS @ SEA W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 2 2 0 1 1 7
+p334
+aVBryant Stith BOS 02/15/2001 BOS @ SEA W 38 8 3 6 50.0 1 2 50.0 1 2 50.0 2 5 7 3 2 1 2 4 12
+p335
+aVKenny Anderson BOS 02/15/2001 BOS @ SEA W 27 11 5 9 55.6 0 1 0.0 1 1 100.0 0 2 2 7 1 0 3 1 8
+p336
+aVAntoine Walker BOS 02/15/2001 BOS @ SEA W 42 30 11 24 45.8 5 9 55.6 3 4 75.0 0 6 6 2 4 0 2 1 15
+p337
+aVMark Blount BOS 02/13/2001 BOS @ VAN L 22 5 2 2 100.0 0 0 - 1 1 100.0 1 2 3 1 0 1 1 2 8
+p338
+aVChris Carr BOS 02/13/2001 BOS @ VAN L 0 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p339
+aVAntoine Walker BOS 02/13/2001 BOS @ VAN L 40 27 12 25 48.0 2 8 25.0 1 2 50.0 0 6 6 6 6 2 3 3 -2
+p340
+aVMilt Palacio BOS 02/13/2001 BOS @ VAN L 17 2 0 5 0.0 0 0 - 2 2 100.0 2 1 3 3 0 0 1 1 -5
+p341
+aVBryant Stith BOS 02/13/2001 BOS @ VAN L 39 14 4 7 57.1 4 5 80.0 2 2 100.0 1 3 4 3 1 1 1 2 -4
+p342
+aVEric Williams BOS 02/13/2001 BOS @ VAN L 25 3 1 10 10.0 1 5 20.0 0 0 - 1 1 2 2 1 0 1 4 5
+p343
+aVKenny Anderson BOS 02/13/2001 BOS @ VAN L 29 9 3 5 60.0 0 0 - 3 3 100.0 0 1 1 3 1 0 3 1 1
+p344
+aVRandy Brown BOS 02/13/2001 BOS @ VAN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 2 0 3
+p345
+aVVitaly Potapenko BOS 02/13/2001 BOS @ VAN L 27 10 3 7 42.9 0 0 - 4 4 100.0 2 4 6 0 1 0 0 6 -9
+p346
+aVPaul Pierce BOS 02/13/2001 BOS @ VAN L 38 25 9 21 42.9 3 4 75.0 4 5 80.0 1 4 5 2 1 2 3 6 -5
+p347
+aVVitaly Potapenko BOS 02/07/2001 BOS vs. MIL W 22 6 2 6 33.3 0 0 - 2 2 100.0 1 6 7 1 0 0 1 4 2
+p348
+aVMark Blount BOS 02/07/2001 BOS vs. MIL W 26 8 4 6 66.7 0 0 - 0 0 - 4 6 10 0 0 1 2 2 1
+p349
+aVMilt Palacio BOS 02/07/2001 BOS vs. MIL W 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 1 3
+p350
+aVChris Carr BOS 02/07/2001 BOS vs. MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p351
+aVEric Williams BOS 02/07/2001 BOS vs. MIL W 25 0 0 6 0.0 0 3 0.0 0 0 - 1 4 5 2 2 0 0 3 17
+p352
+aVBryant Stith BOS 02/07/2001 BOS vs. MIL W 37 11 3 12 25.0 2 5 40.0 3 4 75.0 1 0 1 1 1 0 0 0 -2
+p353
+aVPaul Pierce BOS 02/07/2001 BOS vs. MIL W 37 27 5 22 22.7 1 6 16.7 16 19 84.2 0 6 6 3 3 3 1 4 -1
+p354
+aVKenny Anderson BOS 02/07/2001 BOS vs. MIL W 34 2 1 4 25.0 0 0 - 0 0 - 0 3 3 3 2 0 0 2 0
+p355
+aVAntoine Walker BOS 02/07/2001 BOS vs. MIL W 42 36 13 28 46.4 3 10 30.0 7 9 77.8 2 11 13 2 4 0 1 2 -5
+p356
+aVBryant Stith BOS 02/05/2001 BOS @ TOR L 25 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 2 0 0 0 2 -11
+p357
+aVWalter McCarty BOS 02/05/2001 BOS @ TOR L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 7
+p358
+aVMark Blount BOS 02/05/2001 BOS @ TOR L 16 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 2 2
+p359
+aVMilt Palacio BOS 02/05/2001 BOS @ TOR L 16 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 -7
+p360
+aVAntoine Walker BOS 02/05/2001 BOS @ TOR L 38 17 6 18 33.3 3 8 37.5 2 2 100.0 1 4 5 7 1 2 4 2 -20
+p361
+aVEric Williams BOS 02/05/2001 BOS @ TOR L 27 7 1 4 25.0 1 2 50.0 4 4 100.0 0 3 3 0 0 0 1 3 -10
+p362
+aVVitaly Potapenko BOS 02/05/2001 BOS @ TOR L 31 4 2 7 28.6 0 0 - 0 0 - 2 5 7 4 3 0 2 3 -12
+p363
+aVPaul Pierce BOS 02/05/2001 BOS @ TOR L 40 39 12 21 57.1 2 5 40.0 13 16 81.3 1 3 4 3 3 1 1 2 -6
+p364
+aVChris Carr BOS 02/05/2001 BOS @ TOR L 9 11 3 5 60.0 1 2 50.0 4 4 100.0 0 2 2 0 0 0 1 0 2
+p365
+aVKenny Anderson BOS 02/05/2001 BOS @ TOR L 32 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 6 1 1 2 2 -5
+p366
+aVEric Williams BOS 02/04/2001 BOS vs. CLE W 22 14 5 7 71.4 4 4 100.0 0 0 - 0 2 2 3 0 0 0 2 18
+p367
+aVBryant Stith BOS 02/04/2001 BOS vs. CLE W 34 8 3 10 30.0 1 3 33.3 1 1 100.0 0 4 4 2 2 2 1 0 10
+p368
+aVMark Blount BOS 02/04/2001 BOS vs. CLE W 21 9 3 5 60.0 0 0 - 3 3 100.0 2 3 5 1 0 3 2 3 10
+p369
+aVMilt Palacio BOS 02/04/2001 BOS vs. CLE W 23 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 4 1 0 1 2 11
+p370
+aVWalter McCarty BOS 02/04/2001 BOS vs. CLE W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p371
+aVChris Carr BOS 02/04/2001 BOS vs. CLE W 7 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -5
+p372
+aVKenny Anderson BOS 02/04/2001 BOS vs. CLE W 25 3 1 5 20.0 0 1 0.0 1 2 50.0 0 3 3 3 4 0 3 2 10
+p373
+aVAntoine Walker BOS 02/04/2001 BOS vs. CLE W 35 36 14 25 56.0 5 10 50.0 3 4 75.0 4 7 11 8 3 0 5 1 19
+p374
+aVJerome Moiso BOS 02/04/2001 BOS vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p375
+aVVitaly Potapenko BOS 02/04/2001 BOS vs. CLE W 25 8 3 7 42.9 0 0 - 2 3 66.7 4 5 9 2 1 0 0 3 16
+p376
+aVPaul Pierce BOS 02/04/2001 BOS vs. CLE W 38 22 9 17 52.9 2 7 28.6 2 5 40.0 1 3 4 3 2 0 1 3 26
+p377
+aVPaul Pierce BOS 02/02/2001 BOS @ DET W 44 40 14 19 73.7 5 7 71.4 7 7 100.0 2 5 7 2 2 2 3 3 10
+p378
+aVBryant Stith BOS 02/02/2001 BOS @ DET W 33 14 5 10 50.0 2 5 40.0 2 2 100.0 0 3 3 3 1 0 1 4 -4
+p379
+aVChris Carr BOS 02/02/2001 BOS @ DET W 9 7 3 4 75.0 0 1 0.0 1 3 33.3 0 2 2 0 1 1 2 2 -6
+p380
+aVMark Blount BOS 02/02/2001 BOS @ DET W 15 0 0 1 0.0 0 0 - 0 0 - 0 5 5 1 1 2 2 4 -10
+p381
+aVEric Williams BOS 02/02/2001 BOS @ DET W 33 17 6 14 42.9 1 5 20.0 4 6 66.7 0 6 6 4 0 0 2 6 9
+p382
+aVWalter McCarty BOS 02/02/2001 BOS @ DET W 25 4 2 4 50.0 0 1 0.0 0 0 - 0 6 6 4 0 0 2 5 12
+p383
+aVMilt Palacio BOS 02/02/2001 BOS @ DET W 26 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 7 0 0 3 3 9
+p384
+aVKenny Anderson BOS 02/02/2001 BOS @ DET W 22 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 3 1 0 2 0 -2
+p385
+aVVitaly Potapenko BOS 02/02/2001 BOS @ DET W 33 13 6 11 54.5 0 0 - 1 1 100.0 6 4 10 2 0 0 2 3 17
+p386
+aVMilt Palacio BOS 01/31/2001 BOS @ IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p387
+aVEric Williams BOS 01/31/2001 BOS @ IND W 29 8 3 7 42.9 2 3 66.7 0 2 0.0 2 1 3 1 0 0 1 5 -1
+p388
+aVPaul Pierce BOS 01/31/2001 BOS @ IND W 40 18 5 13 38.5 0 2 0.0 8 10 80.0 3 7 10 2 2 3 4 5 7
+p389
+aVAntoine Walker BOS 01/31/2001 BOS @ IND W 48 22 10 27 37.0 0 8 0.0 2 3 66.7 0 11 11 9 0 1 6 2 6
+p390
+aVKenny Anderson BOS 01/31/2001 BOS @ IND W 20 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 1 22
+p391
+aVMark Blount BOS 01/31/2001 BOS @ IND W 22 11 5 7 71.4 0 0 - 1 2 50.0 5 2 7 0 0 2 0 5 -11
+p392
+aVVitaly Potapenko BOS 01/31/2001 BOS @ IND W 30 15 4 8 50.0 0 0 - 7 7 100.0 4 8 12 0 1 0 1 1 18
+p393
+aVRandy Brown BOS 01/31/2001 BOS @ IND W 33 6 3 8 37.5 0 0 - 0 0 - 0 2 2 2 4 1 0 5 -16
+p394
+aVBryant Stith BOS 01/31/2001 BOS @ IND W 43 14 4 10 40.0 2 4 50.0 4 5 80.0 1 6 7 5 0 0 1 4 5
+p395
+aVPaul Pierce BOS 01/29/2001 BOS vs. DET W 43 28 11 18 61.1 1 2 50.0 5 5 100.0 0 8 8 2 1 1 7 4 2
+p396
+aVMark Blount BOS 01/29/2001 BOS vs. DET W 28 10 4 6 66.7 0 0 - 2 4 50.0 4 2 6 1 0 3 0 4 3
+p397
+aVVitaly Potapenko BOS 01/29/2001 BOS vs. DET W 19 9 4 7 57.1 0 0 - 1 2 50.0 3 3 6 0 0 0 0 3 7
+p398
+aVRandy Brown BOS 01/29/2001 BOS vs. DET W 31 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 8 2 0 1 3 0
+p399
+aVKenny Anderson BOS 01/29/2001 BOS vs. DET W 18 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 3 1 0 3 1 12
+p400
+aVAntoine Walker BOS 01/29/2001 BOS vs. DET W 44 27 10 24 41.7 6 11 54.5 1 1 100.0 0 6 6 9 1 1 8 3 11
+p401
+aVBryant Stith BOS 01/29/2001 BOS vs. DET W 29 5 0 4 0.0 0 1 0.0 5 6 83.3 0 2 2 1 2 1 0 1 8
+p402
+aVJerome Moiso BOS 01/29/2001 BOS vs. DET W 1 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 2
+p403
+aVEric Williams BOS 01/29/2001 BOS vs. DET W 27 10 4 8 50.0 2 3 66.7 0 0 - 1 2 3 2 2 0 1 4 15
+p404
+aVWalter McCarty BOS 01/29/2001 BOS vs. DET W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p405
+aVVitaly Potapenko BOS 01/26/2001 BOS vs. PHX W 21 13 5 8 62.5 0 0 - 3 4 75.0 2 2 4 0 1 0 2 1 2
+p406
+aVEric Williams BOS 01/26/2001 BOS vs. PHX W 26 10 1 6 16.7 0 2 0.0 8 8 100.0 2 4 6 1 2 1 1 1 15
+p407
+aVPaul Pierce BOS 01/26/2001 BOS vs. PHX W 43 28 10 20 50.0 2 2 100.0 6 7 85.7 1 8 9 1 1 0 5 1 13
+p408
+aVAntoine Walker BOS 01/26/2001 BOS vs. PHX W 40 29 10 18 55.6 3 6 50.0 6 6 100.0 1 12 13 3 3 2 4 4 7
+p409
+aVRandy Brown BOS 01/26/2001 BOS vs. PHX W 23 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 1 1 0 0 4 -3
+p410
+aVBryant Stith BOS 01/26/2001 BOS vs. PHX W 35 1 0 5 0.0 0 1 0.0 1 1 100.0 0 4 4 2 1 0 0 4 22
+p411
+aVChris Carr BOS 01/26/2001 BOS vs. PHX W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p412
+aVMark Blount BOS 01/26/2001 BOS vs. PHX W 24 4 2 6 33.3 0 0 - 0 0 - 2 3 5 3 1 3 1 3 7
+p413
+aVMilt Palacio BOS 01/26/2001 BOS vs. PHX W 25 9 3 9 33.3 0 0 - 3 4 75.0 2 0 2 6 1 0 2 0 19
+p414
+aVMark Blount BOS 01/23/2001 BOS vs. ATL W 17 0 0 5 0.0 0 0 - 0 0 - 2 1 3 0 0 1 4 3 0
+p415
+aVRandy Brown BOS 01/23/2001 BOS vs. ATL W 37 16 8 12 66.7 0 0 - 0 0 - 3 1 4 4 3 0 2 3 3
+p416
+aVPaul Pierce BOS 01/23/2001 BOS vs. ATL W 45 23 7 19 36.8 1 3 33.3 8 11 72.7 3 3 6 7 4 1 4 2 2
+p417
+aVEric Williams BOS 01/23/2001 BOS vs. ATL W 26 13 4 11 36.4 1 3 33.3 4 6 66.7 1 1 2 1 2 0 1 3 3
+p418
+aVMilt Palacio BOS 01/23/2001 BOS vs. ATL W 11 10 5 5 100.0 0 0 - 0 0 - 0 2 2 2 1 0 1 0 -2
+p419
+aVBryant Stith BOS 01/23/2001 BOS vs. ATL W 25 2 1 6 16.7 0 0 - 0 1 0.0 2 2 4 1 1 0 0 1 -3
+p420
+aVVitaly Potapenko BOS 01/23/2001 BOS vs. ATL W 31 8 4 7 57.1 0 0 - 0 0 - 4 4 8 1 1 0 4 5 3
+p421
+aVAntoine Walker BOS 01/23/2001 BOS vs. ATL W 48 11 3 19 15.8 2 6 33.3 3 4 75.0 0 8 8 4 3 0 0 2 1
+p422
+aVWalter McCarty BOS 01/23/2001 BOS vs. ATL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p423
+aVWalter McCarty BOS 01/21/2001 BOS @ GSW L 10 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 2 2 -9
+p424
+aVAntoine Walker BOS 01/21/2001 BOS @ GSW L 45 23 8 19 42.1 4 8 50.0 3 4 75.0 1 6 7 7 2 3 3 2 6
+p425
+aVMilt Palacio BOS 01/21/2001 BOS @ GSW L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 2 0 0 0 0
+p426
+aVEric Williams BOS 01/21/2001 BOS @ GSW L 25 9 3 7 42.9 0 1 0.0 3 5 60.0 1 4 5 2 1 0 1 3 19
+p427
+aVMark Blount BOS 01/21/2001 BOS @ GSW L 22 8 4 7 57.1 0 0 - 0 0 - 0 0 0 0 3 1 3 5 -19
+p428
+aVBryant Stith BOS 01/21/2001 BOS @ GSW L 27 7 2 6 33.3 1 3 33.3 2 2 100.0 0 4 4 2 0 0 1 2 -11
+p429
+aVRandy Brown BOS 01/21/2001 BOS @ GSW L 36 2 1 6 16.7 0 0 - 0 0 - 1 3 4 4 3 1 2 4 -3
+p430
+aVVitaly Potapenko BOS 01/21/2001 BOS @ GSW L 26 6 2 3 66.7 0 0 - 2 2 100.0 4 4 8 2 0 0 3 4 16
+p431
+aVChris Carr BOS 01/21/2001 BOS @ GSW L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -1
+p432
+aVPaul Pierce BOS 01/21/2001 BOS @ GSW L 34 28 8 23 34.8 3 8 37.5 9 10 90.0 4 7 11 1 3 1 4 3 -13
+p433
+aVEric Williams BOS 01/18/2001 BOS @ LAC W 28 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 3 12
+p434
+aVMilt Palacio BOS 01/18/2001 BOS @ LAC W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 1 0 1 1 -2
+p435
+aVJerome Moiso BOS 01/18/2001 BOS @ LAC W 8 2 1 1 100.0 0 0 - 0 2 0.0 1 1 2 1 1 0 1 2 -2
+p436
+aVVitaly Potapenko BOS 01/18/2001 BOS @ LAC W 26 8 4 6 66.7 0 0 - 0 0 - 4 3 7 0 0 1 4 1 -11
+p437
+aVMark Blount BOS 01/18/2001 BOS @ LAC W 20 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 5 13
+p438
+aVBryant Stith BOS 01/18/2001 BOS @ LAC W 25 1 0 4 0.0 0 1 0.0 1 2 50.0 0 3 3 2 2 0 0 2 -13
+p439
+aVRandy Brown BOS 01/18/2001 BOS @ LAC W 39 9 4 7 57.1 0 0 - 1 2 50.0 1 4 5 6 1 1 1 2 5
+p440
+aVAntoine Walker BOS 01/18/2001 BOS @ LAC W 42 29 12 27 44.4 3 8 37.5 2 5 40.0 3 8 11 10 2 0 6 4 5
+p441
+aVPaul Pierce BOS 01/18/2001 BOS @ LAC W 42 23 9 25 36.0 3 7 42.9 2 4 50.0 6 9 15 5 3 2 4 3 8
+p442
+aVMilt Palacio BOS 01/17/2001 BOS @ SAC L 11 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 1 0 2 0 0
+p443
+aVAntoine Walker BOS 01/17/2001 BOS @ SAC L 45 47 16 29 55.2 9 14 64.3 6 10 60.0 0 5 5 13 4 1 5 3 -5
+p444
+aVRandy Brown BOS 01/17/2001 BOS @ SAC L 37 8 4 6 66.7 0 0 - 0 0 - 1 4 5 9 3 1 1 1 -5
+p445
+aVPaul Pierce BOS 01/17/2001 BOS @ SAC L 33 18 8 18 44.4 1 3 33.3 1 2 50.0 3 3 6 1 1 1 1 5 -12
+p446
+aVEric Williams BOS 01/17/2001 BOS @ SAC L 21 8 1 5 20.0 1 2 50.0 5 6 83.3 2 1 3 2 1 1 1 2 0
+p447
+aVMark Blount BOS 01/17/2001 BOS @ SAC L 24 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 1 3 2 3 -7
+p448
+aVVitaly Potapenko BOS 01/17/2001 BOS @ SAC L 24 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 2
+p449
+aVBryant Stith BOS 01/17/2001 BOS @ SAC L 42 17 8 14 57.1 1 2 50.0 0 0 - 1 4 5 3 1 1 2 4 2
+p450
+aVJerome Moiso BOS 01/17/2001 BOS @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 1 1 0
+p451
+aVEric Williams BOS 01/15/2001 BOS @ MIN W 22 7 1 2 50.0 1 1 100.0 4 6 66.7 0 2 2 2 1 0 0 3 9
+p452
+aVPaul Pierce BOS 01/15/2001 BOS @ MIN W 42 42 15 22 68.2 1 2 50.0 11 12 91.7 1 4 5 3 2 0 3 4 12
+p453
+aVMark Blount BOS 01/15/2001 BOS @ MIN W 33 10 4 6 66.7 0 0 - 2 3 66.7 2 2 4 0 1 1 1 5 12
+p454
+aVWalter McCarty BOS 01/15/2001 BOS @ MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p455
+aVMilt Palacio BOS 01/15/2001 BOS @ MIN W 13 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -8
+p456
+aVBryant Stith BOS 01/15/2001 BOS @ MIN W 32 4 1 7 14.3 0 1 0.0 2 2 100.0 0 3 3 5 0 0 1 2 -11
+p457
+aVAntoine Walker BOS 01/15/2001 BOS @ MIN W 43 20 6 26 23.1 1 8 12.5 7 11 63.6 4 8 12 12 2 0 5 3 9
+p458
+aVRandy Brown BOS 01/15/2001 BOS @ MIN W 35 12 5 6 83.3 0 0 - 2 2 100.0 1 5 6 3 2 0 1 3 13
+p459
+aVVitaly Potapenko BOS 01/15/2001 BOS @ MIN W 18 4 1 6 16.7 0 0 - 2 2 100.0 4 1 5 0 0 0 1 4 -10
+p460
+aVJerome Moiso BOS 01/15/2001 BOS @ MIN W 2 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 1 -1
+p461
+aVChris Carr BOS 01/12/2001 BOS vs. TOR L 1 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 0 0 0 1
+p462
+aVWalter McCarty BOS 01/12/2001 BOS vs. TOR L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p463
+aVAntoine Walker BOS 01/12/2001 BOS vs. TOR L 42 23 11 26 42.3 0 4 0.0 1 4 25.0 4 9 13 5 0 0 3 4 -22
+p464
+aVBryant Stith BOS 01/12/2001 BOS vs. TOR L 35 9 4 11 36.4 1 4 25.0 0 0 - 1 3 4 3 0 1 1 1 -16
+p465
+aVMark Blount BOS 01/12/2001 BOS vs. TOR L 21 0 0 1 0.0 0 0 - 0 2 0.0 1 2 3 2 0 1 1 5 -15
+p466
+aVJerome Moiso BOS 01/12/2001 BOS vs. TOR L 9 4 1 5 20.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 2 4
+p467
+aVEric Williams BOS 01/12/2001 BOS vs. TOR L 18 1 0 6 0.0 0 3 0.0 1 2 50.0 1 2 3 2 0 0 0 3 -3
+p468
+aVRandy Brown BOS 01/12/2001 BOS vs. TOR L 29 6 3 10 30.0 0 0 - 0 0 - 2 1 3 2 2 0 1 1 -19
+p469
+aVPaul Pierce BOS 01/12/2001 BOS vs. TOR L 36 18 8 16 50.0 1 2 50.0 1 3 33.3 4 4 8 3 2 0 7 3 -22
+p470
+aVVitaly Potapenko BOS 01/12/2001 BOS vs. TOR L 24 4 0 2 0.0 0 0 - 4 4 100.0 2 4 6 2 0 0 1 4 -7
+p471
+aVMilt Palacio BOS 01/12/2001 BOS vs. TOR L 19 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 1 0 3 2 -2
+p472
+aVRandy Brown BOS 01/10/2001 BOS vs. MIA W 30 4 1 4 25.0 0 0 - 2 4 50.0 1 3 4 3 0 0 1 2 6
+p473
+aVEric Williams BOS 01/10/2001 BOS vs. MIA W 22 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 3 0 0 3 1 6
+p474
+aVVitaly Potapenko BOS 01/10/2001 BOS vs. MIA W 32 6 2 4 50.0 0 0 - 2 2 100.0 5 5 10 1 0 1 2 2 6
+p475
+aVMilt Palacio BOS 01/10/2001 BOS vs. MIA W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 2
+p476
+aVPaul Pierce BOS 01/10/2001 BOS vs. MIA W 43 28 10 22 45.5 1 3 33.3 7 9 77.8 0 2 2 2 4 0 1 4 11
+p477
+aVAntoine Walker BOS 01/10/2001 BOS vs. MIA W 44 27 11 21 52.4 2 5 40.0 3 3 100.0 2 5 7 4 2 0 5 4 12
+p478
+aVJerome Moiso BOS 01/10/2001 BOS vs. MIA W 4 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 1 0
+p479
+aVMark Blount BOS 01/10/2001 BOS vs. MIA W 15 4 2 2 100.0 0 0 - 0 0 - 1 4 5 1 1 2 1 4 5
+p480
+aVBryant Stith BOS 01/10/2001 BOS vs. MIA W 32 7 2 6 33.3 1 4 25.0 2 3 66.7 0 2 2 1 1 0 2 4 8
+p481
+aVKenny Anderson BOS 01/10/2001 BOS vs. MIA W 14 4 2 5 40.0 0 1 0.0 0 0 - 2 3 5 5 0 0 0 0 4
+p482
+aVBryant Stith BOS 01/08/2001 BOS vs. POR L 28 13 5 5 100.0 1 1 100.0 2 2 100.0 0 3 3 1 3 0 2 2 -8
+p483
+aVVitaly Potapenko BOS 01/08/2001 BOS vs. POR L 25 12 5 7 71.4 0 0 - 2 2 100.0 1 3 4 2 0 0 1 2 -8
+p484
+aVRandy Brown BOS 01/08/2001 BOS vs. POR L 14 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 2 0 1 2 -5
+p485
+aVMark Blount BOS 01/08/2001 BOS vs. POR L 22 8 4 5 80.0 0 0 - 0 0 - 4 1 5 0 0 3 3 3 1
+p486
+aVAntoine Walker BOS 01/08/2001 BOS vs. POR L 42 17 7 28 25.0 0 4 0.0 3 3 100.0 6 5 11 4 1 0 8 6 -8
+p487
+aVAdrian Griffin BOS 01/08/2001 BOS vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p488
+aVEric Williams BOS 01/08/2001 BOS vs. POR L 28 4 2 8 25.0 0 2 0.0 0 0 - 3 1 4 3 1 1 0 1 -2
+p489
+aVWalter McCarty BOS 01/08/2001 BOS vs. POR L 6 0 0 3 0.0 0 3 0.0 0 0 - 2 1 3 0 0 0 0 1 7
+p490
+aVPaul Pierce BOS 01/08/2001 BOS vs. POR L 40 25 10 22 45.5 1 7 14.3 4 5 80.0 1 4 5 6 6 1 4 3 -13
+p491
+aVKenny Anderson BOS 01/08/2001 BOS vs. POR L 34 9 4 8 50.0 1 1 100.0 0 0 - 0 8 8 4 1 0 2 2 -3
+p492
+aVKenny Anderson BOS 01/06/2001 BOS @ MIA L 29 14 6 10 60.0 2 2 100.0 0 0 - 1 1 2 2 0 0 1 5 -18
+p493
+aVChris Carr BOS 01/06/2001 BOS @ MIA L 13 2 0 3 0.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 2 -3
+p494
+aVWalter McCarty BOS 01/06/2001 BOS @ MIA L 12 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 0 0 0 1 1
+p495
+aVAntoine Walker BOS 01/06/2001 BOS @ MIA L 38 26 12 24 50.0 2 3 66.7 0 0 - 2 9 11 2 0 0 2 1 -14
+p496
+aVEric Williams BOS 01/06/2001 BOS @ MIA L 14 6 3 6 50.0 0 1 0.0 0 0 - 2 0 2 1 1 0 1 0 -13
+p497
+aVAdrian Griffin BOS 01/06/2001 BOS @ MIA L 10 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p498
+aVPaul Pierce BOS 01/06/2001 BOS @ MIA L 38 20 9 17 52.9 0 1 0.0 2 2 100.0 2 3 5 1 1 1 5 3 -13
+p499
+aVRandy Brown BOS 01/06/2001 BOS @ MIA L 19 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 2 0 5 2 -8
+p500
+aVVitaly Potapenko BOS 01/06/2001 BOS @ MIA L 24 3 1 6 16.7 0 0 - 1 2 50.0 3 4 7 1 0 0 1 1 -17
+p501
+aVBryant Stith BOS 01/06/2001 BOS @ MIA L 22 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 -13
+p502
+aVMark Blount BOS 01/06/2001 BOS @ MIA L 22 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 2 3 0 2 -22
+p503
+aVAntoine Walker BOS 01/05/2001 BOS vs. GSW L 39 17 8 21 38.1 0 3 0.0 1 2 50.0 5 2 7 5 2 3 3 4 -9
+p504
+aVVitaly Potapenko BOS 01/05/2001 BOS vs. GSW L 30 2 1 6 16.7 0 0 - 0 0 - 3 4 7 0 1 0 2 1 -15
+p505
+aVMark Blount BOS 01/05/2001 BOS vs. GSW L 16 2 1 7 14.3 0 0 - 0 0 - 3 1 4 2 0 2 3 4 2
+p506
+aVEric Williams BOS 01/05/2001 BOS vs. GSW L 21 3 1 6 16.7 0 2 0.0 1 1 100.0 0 4 4 4 1 0 1 3 1
+p507
+aVKenny Anderson BOS 01/05/2001 BOS vs. GSW L 37 17 6 9 66.7 3 3 100.0 2 3 66.7 0 5 5 9 2 0 1 3 -9
+p508
+aVAdrian Griffin BOS 01/05/2001 BOS vs. GSW L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 1
+p509
+aVPaul Pierce BOS 01/05/2001 BOS vs. GSW L 40 36 13 23 56.5 1 5 20.0 9 13 69.2 1 7 8 3 1 1 1 6 -7
+p510
+aVBryant Stith BOS 01/05/2001 BOS vs. GSW L 34 2 0 5 0.0 0 1 0.0 2 2 100.0 1 1 2 1 1 0 2 2 -19
+p511
+aVWalter McCarty BOS 01/05/2001 BOS vs. GSW L 12 4 2 7 28.6 0 3 0.0 0 0 - 1 2 3 1 1 1 0 1 -2
+p512
+aVRandy Brown BOS 01/05/2001 BOS vs. GSW L 11 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 1 0 0 0 0 -3
+p513
+aVKenny Anderson BOS 01/03/2001 BOS vs. NYK L 35 11 5 11 45.5 1 2 50.0 0 0 - 3 2 5 8 3 0 0 4 -5
+p514
+aVRandy Brown BOS 01/03/2001 BOS vs. NYK L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 2 0 1 2 -4
+p515
+aVAntoine Walker BOS 01/03/2001 BOS vs. NYK L 46 30 12 21 57.1 3 5 60.0 3 7 42.9 2 4 6 4 0 0 4 3 -4
+p516
+aVVitaly Potapenko BOS 01/03/2001 BOS vs. NYK L 31 9 3 7 42.9 0 0 - 3 4 75.0 5 3 8 2 1 0 1 2 -16
+p517
+aVAdrian Griffin BOS 01/03/2001 BOS vs. NYK L 7 0 0 3 0.0 0 1 0.0 0 0 - 3 0 3 1 0 0 0 1 -9
+p518
+aVEric Williams BOS 01/03/2001 BOS vs. NYK L 16 7 3 8 37.5 1 1 100.0 0 0 - 1 3 4 1 0 0 2 3 -8
+p519
+aVPaul Pierce BOS 01/03/2001 BOS vs. NYK L 34 16 4 15 26.7 2 7 28.6 6 7 85.7 0 3 3 2 0 1 4 2 -8
+p520
+aVWalter McCarty BOS 01/03/2001 BOS vs. NYK L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -5
+p521
+aVMark Blount BOS 01/03/2001 BOS vs. NYK L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 7
+p522
+aVBryant Stith BOS 01/03/2001 BOS vs. NYK L 38 16 6 11 54.5 2 4 50.0 2 2 100.0 1 5 6 1 2 0 2 5 7
+p523
+aVRandy Brown BOS 01/02/2001 BOS @ ATL L 11 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 4 0
+p524
+aVAntoine Walker BOS 01/02/2001 BOS @ ATL L 40 13 4 17 23.5 1 8 12.5 4 4 100.0 0 8 8 4 2 0 3 3 -4
+p525
+aVWalter McCarty BOS 01/02/2001 BOS @ ATL L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 -9
+p526
+aVKenny Anderson BOS 01/02/2001 BOS @ ATL L 21 2 1 7 14.3 0 1 0.0 0 0 - 1 1 2 0 1 0 1 3 -11
+p527
+aVVitaly Potapenko BOS 01/02/2001 BOS @ ATL L 35 10 5 12 41.7 0 0 - 0 0 - 3 3 6 0 1 0 0 4 -9
+p528
+aVPaul Pierce BOS 01/02/2001 BOS @ ATL L 47 30 11 21 52.4 1 4 25.0 7 10 70.0 2 4 6 2 1 0 3 3 -11
+p529
+aVMilt Palacio BOS 01/02/2001 BOS @ ATL L 16 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 0 0 0 3 0 0
+p530
+aVEric Williams BOS 01/02/2001 BOS @ ATL L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -4
+p531
+aVBryant Stith BOS 01/02/2001 BOS @ ATL L 43 11 3 9 33.3 1 2 50.0 4 6 66.7 3 4 7 4 1 0 4 1 -7
+p532
+aVMark Blount BOS 01/02/2001 BOS @ ATL L 13 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 1 1 1 2 0
+p533
+aVKenny Anderson BOS 12/30/2000 BOS vs. ORL L 23 9 3 5 60.0 0 0 - 3 3 100.0 0 2 2 2 1 0 0 0 -14
+p534
+aVAntoine Walker BOS 12/30/2000 BOS vs. ORL L 47 26 10 24 41.7 0 5 0.0 6 8 75.0 2 10 12 2 3 1 3 3 -3
+p535
+aVMilt Palacio BOS 12/30/2000 BOS vs. ORL L 25 7 3 6 50.0 0 0 - 1 1 100.0 0 1 1 3 3 0 0 0 9
+p536
+aVPaul Pierce BOS 12/30/2000 BOS vs. ORL L 30 15 4 11 36.4 1 3 33.3 6 6 100.0 0 3 3 4 1 1 3 4 -3
+p537
+aVTony Battie BOS 12/30/2000 BOS vs. ORL L 23 7 3 6 50.0 0 0 - 1 2 50.0 1 4 5 2 0 0 1 2 3
+p538
+aVAdrian Griffin BOS 12/30/2000 BOS vs. ORL L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 1 0 1 1
+p539
+aVVitaly Potapenko BOS 12/30/2000 BOS vs. ORL L 22 4 2 5 40.0 0 0 - 0 4 0.0 3 3 6 1 1 0 1 6 0
+p540
+aVChris Carr BOS 12/30/2000 BOS vs. ORL L 19 14 6 9 66.7 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 1 5
+p541
+aVEric Williams BOS 12/30/2000 BOS vs. ORL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p542
+aVBryant Stith BOS 12/30/2000 BOS vs. ORL L 35 8 1 7 14.3 1 4 25.0 5 6 83.3 0 3 3 2 1 0 0 2 -10
+p543
+aVMark Blount BOS 12/30/2000 BOS vs. ORL L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -8
+p544
+aVAntoine Walker BOS 12/28/2000 BOS @ NJN W 39 23 8 17 47.1 5 8 62.5 2 2 100.0 2 6 8 11 1 3 3 5 -1
+p545
+aVMilt Palacio BOS 12/28/2000 BOS @ NJN W 17 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 2 0 1 1 3
+p546
+aVKenny Anderson BOS 12/28/2000 BOS @ NJN W 31 20 6 9 66.7 0 2 0.0 8 8 100.0 0 1 1 6 1 0 2 1 -2
+p547
+aVTony Battie BOS 12/28/2000 BOS @ NJN W 19 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 0 1 0 0 4 5
+p548
+aVVitaly Potapenko BOS 12/28/2000 BOS @ NJN W 26 7 2 4 50.0 0 0 - 3 4 75.0 1 3 4 2 1 1 1 2 -2
+p549
+aVMark Blount BOS 12/28/2000 BOS @ NJN W 7 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 2 0
+p550
+aVBryant Stith BOS 12/28/2000 BOS @ NJN W 38 18 6 14 42.9 2 4 50.0 4 4 100.0 1 1 2 5 0 0 2 2 -1
+p551
+aVEric Williams BOS 12/28/2000 BOS @ NJN W 18 5 2 4 50.0 1 1 100.0 0 2 0.0 1 0 1 0 0 1 1 3 2
+p552
+aVPaul Pierce BOS 12/28/2000 BOS @ NJN W 31 25 9 12 75.0 0 1 0.0 7 8 87.5 1 3 4 2 2 0 6 3 9
+p553
+aVAdrian Griffin BOS 12/28/2000 BOS @ NJN W 14 4 1 6 16.7 0 1 0.0 2 3 66.7 1 2 3 0 2 0 0 2 -8
+p554
+aVTony Battie BOS 12/26/2000 BOS @ DET L 25 18 7 12 58.3 0 0 - 4 4 100.0 6 5 11 0 0 1 1 5 1
+p555
+aVVitaly Potapenko BOS 12/26/2000 BOS @ DET L 18 7 3 4 75.0 0 0 - 1 2 50.0 2 3 5 0 2 0 4 4 -7
+p556
+aVAntoine Walker BOS 12/26/2000 BOS @ DET L 47 26 9 25 36.0 3 10 30.0 5 6 83.3 0 5 5 5 2 0 2 4 -3
+p557
+aVKenny Anderson BOS 12/26/2000 BOS @ DET L 33 13 4 11 36.4 0 2 0.0 5 5 100.0 2 0 2 9 4 0 4 4 -1
+p558
+aVBryant Stith BOS 12/26/2000 BOS @ DET L 26 6 2 9 22.2 0 3 0.0 2 2 100.0 0 2 2 0 2 0 0 2 1
+p559
+aVJerome Moiso BOS 12/26/2000 BOS @ DET L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -1
+p560
+aVPaul Pierce BOS 12/26/2000 BOS @ DET L 41 19 6 16 37.5 0 4 0.0 7 8 87.5 0 3 3 3 0 0 3 3 -6
+p561
+aVMilt Palacio BOS 12/26/2000 BOS @ DET L 15 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p562
+aVAdrian Griffin BOS 12/26/2000 BOS @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -4
+p563
+aVEric Williams BOS 12/26/2000 BOS @ DET L 21 7 2 6 33.3 1 2 50.0 2 4 50.0 0 3 3 0 2 0 1 4 -1
+p564
+aVAntoine Walker BOS 12/23/2000 BOS @ MIL L 44 33 12 30 40.0 3 11 27.3 6 9 66.7 2 3 5 3 4 1 4 3 -8
+p565
+aVBryant Stith BOS 12/23/2000 BOS @ MIL L 33 12 4 7 57.1 1 2 50.0 3 3 100.0 0 3 3 4 2 0 1 3 -7
+p566
+aVPaul Pierce BOS 12/23/2000 BOS @ MIL L 38 28 8 23 34.8 2 2 100.0 10 15 66.7 3 4 7 3 1 1 3 5 -4
+p567
+aVAdrian Griffin BOS 12/23/2000 BOS @ MIL L 10 6 2 4 50.0 1 2 50.0 1 1 100.0 0 3 3 1 0 0 2 4 7
+p568
+aVKenny Anderson BOS 12/23/2000 BOS @ MIL L 16 2 1 4 25.0 0 0 - 0 0 - 1 0 1 6 1 0 0 2 2
+p569
+aVVitaly Potapenko BOS 12/23/2000 BOS @ MIL L 21 12 5 9 55.6 0 0 - 2 2 100.0 1 4 5 1 1 0 0 5 0
+p570
+aVRandy Brown BOS 12/23/2000 BOS @ MIL L 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -11
+p571
+aVTony Battie BOS 12/23/2000 BOS @ MIL L 30 4 1 2 50.0 0 0 - 2 2 100.0 3 4 7 1 1 2 0 5 -4
+p572
+aVEric Williams BOS 12/23/2000 BOS @ MIL L 15 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 2 0 0 3 -4
+p573
+aVMilt Palacio BOS 12/23/2000 BOS @ MIL L 19 2 1 2 50.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 1 0 4
+p574
+aVMilt Palacio BOS 12/21/2000 BOS @ NYK W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p575
+aVKenny Anderson BOS 12/21/2000 BOS @ NYK W 8 1 0 1 0.0 0 0 - 1 1 100.0 0 0 0 1 0 1 1 0 5
+p576
+aVEric Williams BOS 12/21/2000 BOS @ NYK W 18 5 0 5 0.0 0 0 - 5 6 83.3 2 1 3 2 1 1 0 0 -4
+p577
+aVAntoine Walker BOS 12/21/2000 BOS @ NYK W 47 23 8 20 40.0 2 8 25.0 5 8 62.5 3 12 15 5 3 0 4 2 6
+p578
+aVAdrian Griffin BOS 12/21/2000 BOS @ NYK W 17 7 2 4 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 5
+p579
+aVTony Battie BOS 12/21/2000 BOS @ NYK W 33 7 2 5 40.0 0 0 - 3 9 33.3 2 7 9 2 0 3 0 2 -2
+p580
+aVRandy Brown BOS 12/21/2000 BOS @ NYK W 31 9 3 5 60.0 0 0 - 3 4 75.0 0 2 2 1 1 1 1 3 11
+p581
+aVBryant Stith BOS 12/21/2000 BOS @ NYK W 28 5 0 7 0.0 0 2 0.0 5 5 100.0 1 1 2 1 0 0 0 2 -1
+p582
+aVVitaly Potapenko BOS 12/21/2000 BOS @ NYK W 14 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 0 3 10
+p583
+aVPaul Pierce BOS 12/21/2000 BOS @ NYK W 36 31 13 21 61.9 1 2 50.0 4 6 66.7 0 4 4 3 2 0 2 3 10
+p584
+aVVitaly Potapenko BOS 12/20/2000 BOS vs. NJN W 22 4 2 5 40.0 0 0 - 0 0 - 2 3 5 3 0 0 1 3 10
+p585
+aVAntoine Walker BOS 12/20/2000 BOS vs. NJN W 45 21 7 20 35.0 2 4 50.0 5 6 83.3 4 15 19 7 1 1 3 2 16
+p586
+aVKenny Anderson BOS 12/20/2000 BOS vs. NJN W 14 12 4 9 44.4 0 2 0.0 4 4 100.0 1 2 3 2 0 0 3 2 9
+p587
+aVEric Williams BOS 12/20/2000 BOS vs. NJN W 18 5 0 3 0.0 0 3 0.0 5 10 50.0 0 0 0 1 0 0 1 0 9
+p588
+aVRandy Brown BOS 12/20/2000 BOS vs. NJN W 15 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 0 5 6
+p589
+aVBryant Stith BOS 12/20/2000 BOS vs. NJN W 30 19 6 9 66.7 3 5 60.0 4 4 100.0 2 1 3 2 1 0 0 3 7
+p590
+aVMilt Palacio BOS 12/20/2000 BOS vs. NJN W 20 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 3 -2
+p591
+aVAdrian Griffin BOS 12/20/2000 BOS vs. NJN W 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 1 1 2 -3
+p592
+aVChris Carr BOS 12/20/2000 BOS vs. NJN W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 1 1 -1
+p593
+aVJerome Moiso BOS 12/20/2000 BOS vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p594
+aVTony Battie BOS 12/20/2000 BOS vs. NJN W 25 4 2 4 50.0 0 0 - 0 1 0.0 2 10 12 0 2 3 0 6 1
+p595
+aVPaul Pierce BOS 12/20/2000 BOS vs. NJN W 33 25 6 15 40.0 0 2 0.0 13 16 81.3 0 6 6 3 1 0 4 3 11
+p596
+aVAntoine Walker BOS 12/18/2000 BOS vs. DAL L 44 20 9 21 42.9 1 7 14.3 1 3 33.3 5 12 17 6 2 0 3 1 -8
+p597
+aVTony Battie BOS 12/18/2000 BOS vs. DAL L 20 12 5 7 71.4 0 0 - 2 2 100.0 2 4 6 0 0 2 2 4 -10
+p598
+aVAdrian Griffin BOS 12/18/2000 BOS vs. DAL L 16 2 1 4 25.0 0 0 - 0 0 - 3 3 6 2 1 0 1 2 -5
+p599
+aVRandy Brown BOS 12/18/2000 BOS vs. DAL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -13
+p600
+aVMilt Palacio BOS 12/18/2000 BOS vs. DAL L 14 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 5 1 0 0 3 3
+p601
+aVPaul Pierce BOS 12/18/2000 BOS vs. DAL L 41 30 9 20 45.0 0 3 0.0 12 13 92.3 1 2 3 2 4 1 0 2 3
+p602
+aVVitaly Potapenko BOS 12/18/2000 BOS vs. DAL L 26 14 5 6 83.3 0 0 - 4 5 80.0 3 4 7 1 0 0 0 4 2
+p603
+aVKenny Anderson BOS 12/18/2000 BOS vs. DAL L 25 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 2 0 0 2 3 2
+p604
+aVWalter McCarty BOS 12/18/2000 BOS vs. DAL L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 1 1 0 1 -3
+p605
+aVBryant Stith BOS 12/18/2000 BOS vs. DAL L 38 11 4 9 44.4 3 5 60.0 0 0 - 2 2 4 4 0 0 2 4 -11
+p606
+aVPaul Pierce BOS 12/16/2000 BOS @ CHH L 34 19 8 18 44.4 1 6 16.7 2 3 66.7 2 3 5 3 3 0 4 4 -8
+p607
+aVWalter McCarty BOS 12/16/2000 BOS @ CHH L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p608
+aVAntoine Walker BOS 12/16/2000 BOS @ CHH L 45 20 7 20 35.0 1 7 14.3 5 6 83.3 4 7 11 10 0 0 6 1 -11
+p609
+aVAdrian Griffin BOS 12/16/2000 BOS @ CHH L 10 2 0 2 0.0 0 0 - 2 2 100.0 0 4 4 0 0 0 1 1 -4
+p610
+aVEric Williams BOS 12/16/2000 BOS @ CHH L 15 2 1 4 25.0 0 2 0.0 0 0 - 1 2 3 1 0 0 1 2 -7
+p611
+aVTony Battie BOS 12/16/2000 BOS @ CHH L 30 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 0 1 2 5 -4
+p612
+aVRandy Brown BOS 12/16/2000 BOS @ CHH L 21 4 1 3 33.3 0 0 - 2 3 66.7 0 1 1 0 4 0 0 1 -6
+p613
+aVBryant Stith BOS 12/16/2000 BOS @ CHH L 37 14 6 11 54.5 1 2 50.0 1 1 100.0 0 2 2 0 3 0 0 1 -5
+p614
+aVVitaly Potapenko BOS 12/16/2000 BOS @ CHH L 17 9 4 5 80.0 0 0 - 1 3 33.3 1 2 3 1 0 1 0 3 -6
+p615
+aVKenny Anderson BOS 12/16/2000 BOS @ CHH L 27 9 2 7 28.6 1 1 100.0 4 6 66.7 0 0 0 5 2 0 2 3 -6
+p616
+aVRandy Brown BOS 12/15/2000 BOS vs. SAC L 15 4 2 2 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -14
+p617
+aVBryant Stith BOS 12/15/2000 BOS vs. SAC L 37 8 4 14 28.6 0 5 0.0 0 0 - 0 3 3 2 1 0 1 0 -22
+p618
+aVTony Battie BOS 12/15/2000 BOS vs. SAC L 26 8 4 7 57.1 0 1 0.0 0 0 - 1 2 3 1 0 1 0 4 -10
+p619
+aVWalter McCarty BOS 12/15/2000 BOS vs. SAC L 6 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -4
+p620
+aVEric Williams BOS 12/15/2000 BOS vs. SAC L 10 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -11
+p621
+aVPaul Pierce BOS 12/15/2000 BOS vs. SAC L 34 14 5 18 27.8 1 5 20.0 3 4 75.0 2 7 9 3 1 0 1 3 -10
+p622
+aVKenny Anderson BOS 12/15/2000 BOS vs. SAC L 25 9 4 10 40.0 0 0 - 1 2 50.0 1 1 2 5 1 0 3 4 -11
+p623
+aVVitaly Potapenko BOS 12/15/2000 BOS vs. SAC L 26 12 5 8 62.5 0 0 - 2 2 100.0 5 7 12 1 0 0 1 3 -10
+p624
+aVMilt Palacio BOS 12/15/2000 BOS vs. SAC L 8 6 3 3 100.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 2
+p625
+aVJerome Moiso BOS 12/15/2000 BOS vs. SAC L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p626
+aVAntoine Walker BOS 12/15/2000 BOS vs. SAC L 38 15 6 17 35.3 2 5 40.0 1 1 100.0 3 8 11 4 1 0 5 4 -22
+p627
+aVAdrian Griffin BOS 12/15/2000 BOS vs. SAC L 11 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 2 2 -6
+p628
+aVBryant Stith BOS 12/13/2000 BOS vs. CHI L 40 13 6 13 46.2 1 5 20.0 0 0 - 2 3 5 1 3 0 4 2 -10
+p629
+aVWalter McCarty BOS 12/13/2000 BOS vs. CHI L 14 7 2 3 66.7 1 2 50.0 2 2 100.0 1 1 2 2 0 0 1 4 5
+p630
+aVAntoine Walker BOS 12/13/2000 BOS vs. CHI L 28 15 5 11 45.5 1 4 25.0 4 4 100.0 0 2 2 3 0 0 6 4 -23
+p631
+aVJerome Moiso BOS 12/13/2000 BOS vs. CHI L 12 3 1 2 50.0 0 0 - 1 4 25.0 0 1 1 0 0 0 1 1 6
+p632
+aVAdrian Griffin BOS 12/13/2000 BOS vs. CHI L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -10
+p633
+aVEric Williams BOS 12/13/2000 BOS vs. CHI L 19 10 2 8 25.0 0 1 0.0 6 6 100.0 1 4 5 3 1 0 2 2 6
+p634
+aVKenny Anderson BOS 12/13/2000 BOS vs. CHI L 23 4 2 5 40.0 0 0 - 0 0 - 0 3 3 1 2 0 1 1 -18
+p635
+aVTony Battie BOS 12/13/2000 BOS vs. CHI L 30 12 5 7 71.4 0 0 - 2 2 100.0 2 5 7 0 1 3 1 5 -22
+p636
+aVMilt Palacio BOS 12/13/2000 BOS vs. CHI L 11 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 1 7
+p637
+aVVitaly Potapenko BOS 12/13/2000 BOS vs. CHI L 11 4 2 5 40.0 0 0 - 0 0 - 2 2 4 1 0 0 0 3 -2
+p638
+aVPaul Pierce BOS 12/13/2000 BOS vs. CHI L 31 9 0 7 0.0 0 2 0.0 9 10 90.0 0 4 4 3 2 0 4 3 -22
+p639
+aVRandy Brown BOS 12/13/2000 BOS vs. CHI L 14 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 3 3 -7
+p640
+aVMilt Palacio BOS 12/10/2000 BOS vs. DEN W 19 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 0 3 -2
+p641
+aVAntoine Walker BOS 12/10/2000 BOS vs. DEN W 44 26 11 21 52.4 3 6 50.0 1 1 100.0 1 10 11 4 3 0 7 4 -5
+p642
+aVPaul Pierce BOS 12/10/2000 BOS vs. DEN W 43 28 7 14 50.0 1 3 33.3 13 16 81.3 0 7 7 5 1 1 4 4 4
+p643
+aVTony Battie BOS 12/10/2000 BOS vs. DEN W 33 12 4 8 50.0 0 0 - 4 6 66.7 0 7 7 1 2 4 0 5 5
+p644
+aVEric Williams BOS 12/10/2000 BOS vs. DEN W 16 3 1 6 16.7 0 1 0.0 1 2 50.0 2 0 2 0 0 0 0 0 -6
+p645
+aVAdrian Griffin BOS 12/10/2000 BOS vs. DEN W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -3
+p646
+aVKenny Anderson BOS 12/10/2000 BOS vs. DEN W 34 13 5 14 35.7 1 3 33.3 2 2 100.0 1 3 4 4 0 0 2 3 4
+p647
+aVJerome Moiso BOS 12/10/2000 BOS vs. DEN W 14 5 2 6 33.3 0 0 - 1 4 25.0 3 1 4 1 0 0 0 4 -3
+p648
+aVBryant Stith BOS 12/10/2000 BOS vs. DEN W 42 12 3 12 25.0 1 3 33.3 5 6 83.3 1 4 5 2 2 1 3 5 11
+p649
+aVVitaly Potapenko BOS 12/10/2000 BOS vs. DEN W 14 5 1 5 20.0 0 0 - 3 4 75.0 5 3 8 2 1 0 1 4 5
+p650
+aVEric Williams BOS 12/08/2000 BOS vs. IND L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 2 -4
+p651
+aVWalter McCarty BOS 12/08/2000 BOS vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p652
+aVVitaly Potapenko BOS 12/08/2000 BOS vs. IND L 13 6 2 2 100.0 0 0 - 2 2 100.0 2 0 2 0 0 0 1 1 -9
+p653
+aVBryant Stith BOS 12/08/2000 BOS vs. IND L 31 25 9 15 60.0 4 8 50.0 3 3 100.0 2 2 4 3 0 0 4 5 3
+p654
+aVRandy Brown BOS 12/08/2000 BOS vs. IND L 38 6 3 8 37.5 0 0 - 0 0 - 0 2 2 4 1 0 0 5 -5
+p655
+aVTony Battie BOS 12/08/2000 BOS vs. IND L 35 6 3 9 33.3 0 0 - 0 2 0.0 2 6 8 0 1 3 3 2 -4
+p656
+aVAdrian Griffin BOS 12/08/2000 BOS vs. IND L 13 1 0 4 0.0 0 0 - 1 2 50.0 2 3 5 1 1 0 1 2 -17
+p657
+aVAntoine Walker BOS 12/08/2000 BOS vs. IND L 45 16 6 15 40.0 3 5 60.0 1 2 50.0 1 9 10 12 2 0 2 4 -8
+p658
+aVMilt Palacio BOS 12/08/2000 BOS vs. IND L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 2 3 -8
+p659
+aVPaul Pierce BOS 12/08/2000 BOS vs. IND L 45 29 11 22 50.0 3 5 60.0 4 4 100.0 2 7 9 4 1 1 6 3 -8
+p660
+aVEric Williams BOS 12/05/2000 BOS @ ORL L 22 10 4 9 44.4 1 3 33.3 1 2 50.0 2 4 6 2 0 2 1 3 0
+p661
+aVAdrian Griffin BOS 12/05/2000 BOS @ ORL L 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p662
+aVAntoine Walker BOS 12/05/2000 BOS @ ORL L 43 26 10 19 52.6 3 7 42.9 3 4 75.0 1 10 11 8 0 0 3 4 6
+p663
+aVChris Carr BOS 12/05/2000 BOS @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p664
+aVDoug Overton BOS 12/05/2000 BOS @ ORL L 9 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 1 0 0 1 2 -10
+p665
+aVWalter McCarty BOS 12/05/2000 BOS @ ORL L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -10
+p666
+aVPaul Pierce BOS 12/05/2000 BOS @ ORL L 42 23 4 10 40.0 3 5 60.0 12 15 80.0 2 3 5 2 1 0 6 5 -4
+p667
+aVRandy Brown BOS 12/05/2000 BOS @ ORL L 39 10 5 6 83.3 0 0 - 0 1 0.0 2 1 3 8 1 0 1 1 7
+p668
+aVVitaly Potapenko BOS 12/05/2000 BOS @ ORL L 26 8 4 8 50.0 0 0 - 0 0 - 2 6 8 1 0 0 3 5 -4
+p669
+aVBryant Stith BOS 12/05/2000 BOS @ ORL L 35 11 4 9 44.4 2 5 40.0 1 2 50.0 0 0 0 4 1 0 1 2 1
+p670
+aVTony Battie BOS 12/05/2000 BOS @ ORL L 17 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 1 1 1 5 1
+p671
+aVDoug Overton BOS 12/03/2000 BOS vs. LAC W 17 8 3 4 75.0 0 1 0.0 2 2 100.0 0 4 4 4 1 0 4 4 -7
+p672
+aVPaul Pierce BOS 12/03/2000 BOS vs. LAC W 43 25 8 23 34.8 3 7 42.9 6 6 100.0 2 5 7 6 3 1 2 2 6
+p673
+aVTony Battie BOS 12/03/2000 BOS vs. LAC W 25 6 3 7 42.9 0 0 - 0 0 - 1 7 8 0 0 3 2 6 15
+p674
+aVWalter McCarty BOS 12/03/2000 BOS vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p675
+aVAntoine Walker BOS 12/03/2000 BOS vs. LAC W 43 17 6 17 35.3 0 4 0.0 5 7 71.4 3 11 14 1 1 2 4 2 14
+p676
+aVRandy Brown BOS 12/03/2000 BOS vs. LAC W 31 10 5 6 83.3 0 0 - 0 2 0.0 0 1 1 2 1 0 0 6 16
+p677
+aVEric Williams BOS 12/03/2000 BOS vs. LAC W 11 5 0 3 0.0 0 0 - 5 6 83.3 1 0 1 1 0 0 0 0 -1
+p678
+aVJerome Moiso BOS 12/03/2000 BOS vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 4
+p679
+aVBryant Stith BOS 12/03/2000 BOS vs. LAC W 40 18 6 8 75.0 2 3 66.7 4 4 100.0 0 2 2 2 0 0 1 2 16
+p680
+aVVitaly Potapenko BOS 12/03/2000 BOS vs. LAC W 19 5 2 7 28.6 0 0 - 1 2 50.0 0 3 3 1 2 1 2 3 -11
+p681
+aVChris Carr BOS 12/03/2000 BOS vs. LAC W 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p682
+aVAntoine Walker BOS 12/01/2000 BOS vs. MIN L 44 19 8 24 33.3 0 2 0.0 3 3 100.0 4 7 11 5 1 0 2 1 -3
+p683
+aVTony Battie BOS 12/01/2000 BOS vs. MIN L 40 19 8 12 66.7 0 0 - 3 4 75.0 6 6 12 1 0 1 4 3 -6
+p684
+aVPaul Pierce BOS 12/01/2000 BOS vs. MIN L 39 25 9 21 42.9 3 7 42.9 4 6 66.7 2 8 10 6 0 0 3 3 -11
+p685
+aVChris Herren BOS 12/01/2000 BOS vs. MIN L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 0
+p686
+aVWalter McCarty BOS 12/01/2000 BOS vs. MIN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p687
+aVEric Williams BOS 12/01/2000 BOS vs. MIN L 18 12 5 7 71.4 0 0 - 2 2 100.0 1 3 4 0 1 0 2 3 6
+p688
+aVVitaly Potapenko BOS 12/01/2000 BOS vs. MIN L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 2 1
+p689
+aVDoug Overton BOS 12/01/2000 BOS vs. MIN L 14 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 1
+p690
+aVRandy Brown BOS 12/01/2000 BOS vs. MIN L 25 6 3 4 75.0 0 0 - 0 0 - 0 3 3 7 4 0 2 5 -5
+p691
+aVBryant Stith BOS 12/01/2000 BOS vs. MIN L 38 13 5 9 55.6 1 2 50.0 2 2 100.0 0 3 3 3 0 0 1 5 -4
+p692
+aVChris Herren BOS 11/30/2000 BOS @ MIL L 8 2 1 3 33.3 0 0 - 0 0 - 0 3 3 2 0 0 0 2 0
+p693
+aVVitaly Potapenko BOS 11/30/2000 BOS @ MIL L 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 5
+p694
+aVBryant Stith BOS 11/30/2000 BOS @ MIL L 36 14 6 14 42.9 1 2 50.0 1 2 50.0 0 2 2 0 1 0 1 1 -12
+p695
+aVPaul Pierce BOS 11/30/2000 BOS @ MIL L 37 34 10 14 71.4 4 4 100.0 10 11 90.9 0 2 2 3 2 0 3 3 -13
+p696
+aVWalter McCarty BOS 11/30/2000 BOS @ MIL L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 1 7
+p697
+aVDoug Overton BOS 11/30/2000 BOS @ MIL L 14 0 0 2 0.0 0 0 - 0 2 0.0 1 0 1 4 1 0 2 1 -11
+p698
+aVAntoine Walker BOS 11/30/2000 BOS @ MIL L 39 20 8 19 42.1 3 9 33.3 1 1 100.0 0 8 8 1 1 0 4 0 -9
+p699
+aVTony Battie BOS 11/30/2000 BOS @ MIL L 35 4 1 5 20.0 0 1 0.0 2 4 50.0 6 7 13 1 1 0 5 5 -16
+p700
+aVRandy Brown BOS 11/30/2000 BOS @ MIL L 21 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 2 0 0 1 3 4
+p701
+aVEric Williams BOS 11/30/2000 BOS @ MIL L 30 15 5 10 50.0 2 4 50.0 3 5 60.0 0 0 0 2 3 0 0 1 -10
+p702
+aVRandy Brown BOS 11/28/2000 BOS @ CLE W 34 2 1 3 33.3 0 0 - 0 0 - 0 3 3 5 1 0 2 3 17
+p703
+aVAntoine Walker BOS 11/28/2000 BOS @ CLE W 44 28 9 16 56.3 3 6 50.0 7 9 77.8 0 8 8 1 0 0 5 4 14
+p704
+aVChris Herren BOS 11/28/2000 BOS @ CLE W 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p705
+aVBryant Stith BOS 11/28/2000 BOS @ CLE W 37 9 3 9 33.3 0 3 0.0 3 3 100.0 1 1 2 4 4 0 0 1 0
+p706
+aVEric Williams BOS 11/28/2000 BOS @ CLE W 29 14 5 10 50.0 4 6 66.7 0 0 - 0 4 4 3 1 1 1 2 13
+p707
+aVWalter McCarty BOS 11/28/2000 BOS @ CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p708
+aVPaul Pierce BOS 11/28/2000 BOS @ CLE W 39 20 8 22 36.4 2 6 33.3 2 5 40.0 1 7 8 4 2 1 3 1 13
+p709
+aVTony Battie BOS 11/28/2000 BOS @ CLE W 22 5 2 4 50.0 0 0 - 1 2 50.0 3 3 6 1 1 1 2 0 17
+p710
+aVVitaly Potapenko BOS 11/28/2000 BOS @ CLE W 27 9 4 8 50.0 0 0 - 1 1 100.0 4 3 7 2 0 0 1 3 1
+p711
+aVDoug Overton BOS 11/26/2000 BOS vs. VAN L 42 10 3 7 42.9 0 0 - 4 6 66.7 1 4 5 3 2 0 6 2 -3
+p712
+aVBryant Stith BOS 11/26/2000 BOS vs. VAN L 32 5 1 5 20.0 0 1 0.0 3 3 100.0 0 3 3 3 2 0 2 1 -2
+p713
+aVChris Herren BOS 11/26/2000 BOS vs. VAN L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -8
+p714
+aVWalter McCarty BOS 11/26/2000 BOS vs. VAN L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 2 -19
+p715
+aVMark Blount BOS 11/26/2000 BOS vs. VAN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p716
+aVPaul Pierce BOS 11/26/2000 BOS vs. VAN L 41 27 10 24 41.7 0 4 0.0 7 12 58.3 0 5 5 4 5 3 6 2 -6
+p717
+aVEric Williams BOS 11/26/2000 BOS vs. VAN L 20 13 4 8 50.0 0 0 - 5 6 83.3 0 0 0 0 2 0 1 1 -9
+p718
+aVTony Battie BOS 11/26/2000 BOS vs. VAN L 29 7 3 5 60.0 0 0 - 1 1 100.0 2 5 7 0 0 2 0 5 2
+p719
+aVVitaly Potapenko BOS 11/26/2000 BOS vs. VAN L 16 6 3 6 50.0 0 0 - 0 0 - 2 5 7 0 1 0 1 5 -7
+p720
+aVAntoine Walker BOS 11/26/2000 BOS vs. VAN L 37 18 7 17 41.2 1 3 33.3 3 5 60.0 0 6 6 5 1 0 2 4 5
+p721
+aVChris Carr BOS 11/26/2000 BOS vs. VAN L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -3
+p722
+aVDoug Overton BOS 11/24/2000 BOS vs. ORL W 25 5 2 12 16.7 0 0 - 1 1 100.0 0 2 2 1 0 0 0 4 -5
+p723
+aVWalter McCarty BOS 11/24/2000 BOS vs. ORL W 10 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 1
+p724
+aVTony Battie BOS 11/24/2000 BOS vs. ORL W 25 7 2 3 66.7 0 0 - 3 3 100.0 1 2 3 2 1 3 0 3 0
+p725
+aVVitaly Potapenko BOS 11/24/2000 BOS vs. ORL W 27 8 3 4 75.0 0 0 - 2 4 50.0 3 3 6 0 2 0 4 5 9
+p726
+aVBryant Stith BOS 11/24/2000 BOS vs. ORL W 46 10 3 9 33.3 0 1 0.0 4 4 100.0 1 8 9 6 5 0 0 3 7
+p727
+aVAntoine Walker BOS 11/24/2000 BOS vs. ORL W 43 25 9 22 40.9 2 4 50.0 5 8 62.5 3 11 14 2 1 0 2 4 4
+p728
+aVChris Herren BOS 11/24/2000 BOS vs. ORL W 28 4 1 6 16.7 0 3 0.0 2 2 100.0 0 3 3 3 1 0 1 2 10
+p729
+aVEric Williams BOS 11/24/2000 BOS vs. ORL W 13 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 3 2 -16
+p730
+aVPaul Pierce BOS 11/24/2000 BOS vs. ORL W 48 41 13 22 59.1 3 5 60.0 12 17 70.6 2 5 7 2 3 0 3 1 15
+p731
+aVJerome Moiso BOS 11/22/2000 BOS vs. HOU W 10 3 0 1 0.0 0 0 - 3 4 75.0 2 3 5 1 0 0 2 3 -7
+p732
+aVEric Williams BOS 11/22/2000 BOS vs. HOU W 18 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 2 5
+p733
+aVDoug Overton BOS 11/22/2000 BOS vs. HOU W 23 10 5 11 45.5 0 0 - 0 0 - 0 2 2 3 0 0 0 2 13
+p734
+aVAntoine Walker BOS 11/22/2000 BOS vs. HOU W 30 13 5 15 33.3 0 1 0.0 3 3 100.0 2 11 13 8 1 0 2 1 17
+p735
+aVBryant Stith BOS 11/22/2000 BOS vs. HOU W 34 14 4 9 44.4 0 2 0.0 6 7 85.7 1 5 6 1 2 0 1 1 23
+p736
+aVVitaly Potapenko BOS 11/22/2000 BOS vs. HOU W 17 9 4 6 66.7 0 0 - 1 2 50.0 3 5 8 1 1 0 3 1 8
+p737
+aVMark Blount BOS 11/22/2000 BOS vs. HOU W 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 1 1 -6
+p738
+aVPaul Pierce BOS 11/22/2000 BOS vs. HOU W 23 16 6 10 60.0 2 2 100.0 2 3 66.7 0 6 6 2 0 0 5 3 19
+p739
+aVChris Herren BOS 11/22/2000 BOS vs. HOU W 25 2 1 6 16.7 0 2 0.0 0 0 - 1 0 1 2 1 0 1 4 2
+p740
+aVChris Carr BOS 11/22/2000 BOS vs. HOU W 16 14 4 6 66.7 1 2 50.0 5 6 83.3 0 1 1 1 0 0 2 4 -13
+p741
+aVWalter McCarty BOS 11/22/2000 BOS vs. HOU W 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 1 0 1 -2
+p742
+aVTony Battie BOS 11/22/2000 BOS vs. HOU W 23 8 3 6 50.0 0 0 - 2 2 100.0 2 5 7 0 1 5 0 3 16
+p743
+aVMark Blount BOS 11/20/2000 BOS vs. PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p744
+aVRick Brunson BOS 11/20/2000 BOS vs. PHI L 22 4 2 5 40.0 0 1 0.0 0 1 0.0 1 3 4 0 1 0 2 1 -3
+p745
+aVVitaly Potapenko BOS 11/20/2000 BOS vs. PHI L 27 6 3 6 50.0 0 0 - 0 3 0.0 3 4 7 0 0 0 2 2 -28
+p746
+aVEric Williams BOS 11/20/2000 BOS vs. PHI L 29 22 6 11 54.5 1 3 33.3 9 12 75.0 2 1 3 0 1 0 3 2 -15
+p747
+aVAdrian Griffin BOS 11/20/2000 BOS vs. PHI L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -2
+p748
+aVChris Herren BOS 11/20/2000 BOS vs. PHI L 27 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 5 0 0 3 3 -21
+p749
+aVTony Battie BOS 11/20/2000 BOS vs. PHI L 27 15 6 9 66.7 0 1 0.0 3 4 75.0 5 7 12 1 0 4 2 5 3
+p750
+aVBryant Stith BOS 11/20/2000 BOS vs. PHI L 23 15 5 8 62.5 3 4 75.0 2 2 100.0 3 1 4 1 0 0 0 5 -14
+p751
+aVWalter McCarty BOS 11/20/2000 BOS vs. PHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 5
+p752
+aVAntoine Walker BOS 11/20/2000 BOS vs. PHI L 33 13 5 18 27.8 1 7 14.3 2 4 50.0 1 5 6 3 0 0 5 5 -24
+p753
+aVPaul Pierce BOS 11/20/2000 BOS vs. PHI L 35 9 4 15 26.7 0 6 0.0 1 2 50.0 2 7 9 4 2 0 6 1 -14
+p754
+aVChris Carr BOS 11/20/2000 BOS vs. PHI L 5 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -3
+p755
+aVTony Battie BOS 11/18/2000 BOS @ WAS L 18 4 2 6 33.3 0 0 - 0 2 0.0 2 5 7 0 0 2 2 4 -14
+p756
+aVAntoine Walker BOS 11/18/2000 BOS @ WAS L 35 26 9 22 40.9 4 9 44.4 4 4 100.0 3 7 10 2 0 0 4 3 -24
+p757
+aVChris Herren BOS 11/18/2000 BOS @ WAS L 23 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 4 0 0 2 1 -18
+p758
+aVMark Blount BOS 11/18/2000 BOS @ WAS L 10 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 3 1 0 1 7
+p759
+aVPaul Pierce BOS 11/18/2000 BOS @ WAS L 30 17 7 10 70.0 3 4 75.0 0 1 0.0 2 2 4 0 0 0 2 2 -14
+p760
+aVChris Carr BOS 11/18/2000 BOS @ WAS L 20 14 5 9 55.6 2 6 33.3 2 2 100.0 1 2 3 0 0 0 1 3 -4
+p761
+aVWalter McCarty BOS 11/18/2000 BOS @ WAS L 13 7 1 5 20.0 0 1 0.0 5 6 83.3 2 1 3 1 0 0 2 1 4
+p762
+aVRick Brunson BOS 11/18/2000 BOS @ WAS L 20 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 6 1 0 2 2 -1
+p763
+aVVitaly Potapenko BOS 11/18/2000 BOS @ WAS L 20 5 2 7 28.6 0 0 - 1 2 50.0 1 4 5 1 1 0 1 1 -13
+p764
+aVAdrian Griffin BOS 11/18/2000 BOS @ WAS L 8 4 1 2 50.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 0 3
+p765
+aVBryant Stith BOS 11/18/2000 BOS @ WAS L 27 3 1 7 14.3 0 4 0.0 1 1 100.0 1 0 1 0 0 0 1 0 -26
+p766
+aVEric Williams BOS 11/18/2000 BOS @ WAS L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 0
+p767
+aVChris Carr BOS 11/17/2000 BOS vs. ATL W 8 6 2 4 50.0 1 1 100.0 1 2 50.0 0 3 3 0 0 0 0 0 -3
+p768
+aVVitaly Potapenko BOS 11/17/2000 BOS vs. ATL W 22 9 3 10 30.0 0 0 - 3 4 75.0 4 1 5 0 0 0 2 2 3
+p769
+aVBryant Stith BOS 11/17/2000 BOS vs. ATL W 35 15 5 7 71.4 3 4 75.0 2 2 100.0 2 2 4 1 1 0 4 2 10
+p770
+aVWalter McCarty BOS 11/17/2000 BOS vs. ATL W 8 2 0 3 0.0 0 1 0.0 2 2 100.0 2 0 2 0 0 0 0 1 -4
+p771
+aVEric Williams BOS 11/17/2000 BOS vs. ATL W 13 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 0 2 0 2 2 -3
+p772
+aVChris Herren BOS 11/17/2000 BOS vs. ATL W 32 7 2 8 25.0 1 4 25.0 2 2 100.0 2 1 3 9 1 0 0 5 2
+p773
+aVAntoine Walker BOS 11/17/2000 BOS vs. ATL W 40 22 9 17 52.9 3 5 60.0 1 2 50.0 2 5 7 2 1 1 3 1 11
+p774
+aVRick Brunson BOS 11/17/2000 BOS vs. ATL W 16 3 1 4 25.0 0 1 0.0 1 2 50.0 1 0 1 4 2 0 0 1 5
+p775
+aVTony Battie BOS 11/17/2000 BOS vs. ATL W 26 11 5 8 62.5 0 0 - 1 1 100.0 2 4 6 0 2 1 0 2 4
+p776
+aVPaul Pierce BOS 11/17/2000 BOS vs. ATL W 39 25 6 14 42.9 2 5 40.0 11 15 73.3 1 6 7 6 1 0 1 2 10
+p777
+aVEric Williams BOS 11/15/2000 BOS vs. WAS W 19 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 0 1 1 14
+p778
+aVBryant Stith BOS 11/15/2000 BOS vs. WAS W 38 29 8 12 66.7 3 4 75.0 10 12 83.3 0 6 6 2 3 1 2 3 9
+p779
+aVTony Battie BOS 11/15/2000 BOS vs. WAS W 29 16 8 10 80.0 0 0 - 0 1 0.0 4 4 8 0 1 1 1 5 14
+p780
+aVChris Carr BOS 11/15/2000 BOS vs. WAS W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -2
+p781
+aVPaul Pierce BOS 11/15/2000 BOS vs. WAS W 34 20 7 19 36.8 0 2 0.0 6 7 85.7 4 6 10 2 1 0 6 2 -4
+p782
+aVRick Brunson BOS 11/15/2000 BOS vs. WAS W 13 1 0 2 0.0 0 2 0.0 1 2 50.0 0 0 0 4 0 0 0 3 2
+p783
+aVAntoine Walker BOS 11/15/2000 BOS vs. WAS W 43 26 10 22 45.5 4 5 80.0 2 4 50.0 4 9 13 5 1 2 3 3 1
+p784
+aVWalter McCarty BOS 11/15/2000 BOS vs. WAS W 5 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 2 6
+p785
+aVVitaly Potapenko BOS 11/15/2000 BOS vs. WAS W 19 7 3 6 50.0 0 0 - 1 1 100.0 2 0 2 3 0 0 2 3 -10
+p786
+aVChris Herren BOS 11/15/2000 BOS vs. WAS W 35 13 5 7 71.4 3 4 75.0 0 2 0.0 0 2 2 4 1 0 0 5 5
+p787
+aVRick Brunson BOS 11/11/2000 BOS @ PHI L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 2 2
+p788
+aVMark Blount BOS 11/11/2000 BOS @ PHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p789
+aVWalter McCarty BOS 11/11/2000 BOS @ PHI L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 1 2 2 -7
+p790
+aVVitaly Potapenko BOS 11/11/2000 BOS @ PHI L 26 12 6 11 54.5 0 0 - 0 1 0.0 3 4 7 1 1 0 0 3 10
+p791
+aVBryant Stith BOS 11/11/2000 BOS @ PHI L 26 3 1 5 20.0 0 1 0.0 1 2 50.0 1 4 5 4 2 0 1 5 8
+p792
+aVAntoine Walker BOS 11/11/2000 BOS @ PHI L 42 15 6 21 28.6 2 3 66.7 1 4 25.0 1 7 8 4 1 1 3 5 4
+p793
+aVChris Carr BOS 11/11/2000 BOS @ PHI L 7 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -5
+p794
+aVChris Herren BOS 11/11/2000 BOS @ PHI L 34 9 3 10 30.0 0 5 0.0 3 4 75.0 1 2 3 1 1 0 2 4 -4
+p795
+aVPaul Pierce BOS 11/11/2000 BOS @ PHI L 42 26 9 20 45.0 2 5 40.0 6 10 60.0 2 7 9 1 2 1 5 3 4
+p796
+aVTony Battie BOS 11/11/2000 BOS @ PHI L 19 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 1 3 1 6 -6
+p797
+aVEric Williams BOS 11/11/2000 BOS @ PHI L 21 9 2 3 66.7 0 0 - 5 6 83.3 0 3 3 1 0 0 1 1 -11
+p798
+aVChris Carr BOS 11/10/2000 BOS vs. NYK L 0 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 3
+p799
+aVAntoine Walker BOS 11/10/2000 BOS vs. NYK L 49 25 10 22 45.5 2 5 40.0 3 4 75.0 0 12 12 5 0 0 3 0 2
+p800
+aVEric Williams BOS 11/10/2000 BOS vs. NYK L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 0 0 1 3 -5
+p801
+aVRick Brunson BOS 11/10/2000 BOS vs. NYK L 38 6 2 8 25.0 0 2 0.0 2 3 66.7 0 1 1 3 2 0 2 4 6
+p802
+aVAdrian Griffin BOS 11/10/2000 BOS vs. NYK L 13 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 4
+p803
+aVTony Battie BOS 11/10/2000 BOS vs. NYK L 22 2 0 2 0.0 0 0 - 2 4 50.0 0 5 5 0 2 0 1 2 0
+p804
+aVMark Blount BOS 11/10/2000 BOS vs. NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -6
+p805
+aVVitaly Potapenko BOS 11/10/2000 BOS vs. NYK L 27 15 5 10 50.0 0 0 - 5 6 83.3 2 8 10 0 2 1 0 5 1
+p806
+aVPaul Pierce BOS 11/10/2000 BOS vs. NYK L 46 35 10 19 52.6 4 7 57.1 11 14 78.6 1 3 4 4 2 0 3 2 3
+p807
+aVBryant Stith BOS 11/10/2000 BOS vs. NYK L 41 5 1 4 25.0 0 2 0.0 3 4 75.0 2 3 5 1 1 0 1 4 -10
+p808
+aVRandy Brown BOS 11/10/2000 BOS vs. NYK L 15 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 -8
+p809
+aVAntoine Walker BOS 11/07/2000 BOS @ TOR L 27 12 5 12 41.7 2 4 50.0 0 0 - 1 2 3 3 1 0 3 3 -25
+p810
+aVChris Carr BOS 11/07/2000 BOS @ TOR L 16 7 1 4 25.0 1 2 50.0 4 4 100.0 0 1 1 0 0 0 1 1 -19
+p811
+aVBryant Stith BOS 11/07/2000 BOS @ TOR L 24 6 2 6 33.3 0 2 0.0 2 2 100.0 2 1 3 2 0 0 1 0 6
+p812
+aVJerome Moiso BOS 11/07/2000 BOS @ TOR L 11 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 0 2 2 2 -9
+p813
+aVMark Blount BOS 11/07/2000 BOS @ TOR L 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 3 0 2 -6
+p814
+aVRick Brunson BOS 11/07/2000 BOS @ TOR L 19 7 3 7 42.9 1 1 100.0 0 1 0.0 0 2 2 5 0 1 3 3 -15
+p815
+aVTony Battie BOS 11/07/2000 BOS @ TOR L 19 8 4 8 50.0 0 0 - 0 0 - 1 0 1 0 0 0 2 5 -13
+p816
+aVRandy Brown BOS 11/07/2000 BOS @ TOR L 29 0 0 8 0.0 0 0 - 0 0 - 1 2 3 6 2 0 1 1 -14
+p817
+aVAdrian Griffin BOS 11/07/2000 BOS @ TOR L 15 4 1 7 14.3 0 0 - 2 2 100.0 3 4 7 0 1 0 1 2 -9
+p818
+aVVitaly Potapenko BOS 11/07/2000 BOS @ TOR L 26 10 5 9 55.6 0 0 - 0 2 0.0 3 4 7 0 1 2 2 3 -4
+p819
+aVEric Williams BOS 11/07/2000 BOS @ TOR L 18 9 4 10 40.0 1 4 25.0 0 1 0.0 1 1 2 0 1 1 0 0 -6
+p820
+aVPaul Pierce BOS 11/07/2000 BOS @ TOR L 24 10 4 14 28.6 0 3 0.0 2 3 66.7 0 3 3 3 1 1 2 1 -36
+p821
+aVKenny Anderson BOS 11/04/2000 BOS @ CLE L 33 11 3 10 30.0 0 1 0.0 5 5 100.0 1 1 2 6 2 0 2 3 -9
+p822
+aVAdrian Griffin BOS 11/04/2000 BOS @ CLE L 15 4 0 0 - 0 0 - 4 4 100.0 1 3 4 4 1 0 1 2 6
+p823
+aVBryant Stith BOS 11/04/2000 BOS @ CLE L 19 7 2 4 50.0 0 1 0.0 3 4 75.0 0 1 1 0 1 0 0 3 7
+p824
+aVAntoine Walker BOS 11/04/2000 BOS @ CLE L 42 25 8 22 36.4 2 4 50.0 7 8 87.5 3 6 9 0 0 0 4 3 8
+p825
+aVJerome Moiso BOS 11/04/2000 BOS @ CLE L 4 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 0 3 3 -8
+p826
+aVEric Williams BOS 11/04/2000 BOS @ CLE L 26 5 2 7 28.6 0 1 0.0 1 3 33.3 3 1 4 2 1 0 0 2 1
+p827
+aVMark Blount BOS 11/04/2000 BOS @ CLE L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p828
+aVVitaly Potapenko BOS 11/04/2000 BOS @ CLE L 30 12 4 8 50.0 0 0 - 4 7 57.1 2 2 4 1 3 1 3 3 13
+p829
+aVTony Battie BOS 11/04/2000 BOS @ CLE L 19 4 2 5 40.0 0 0 - 0 0 - 2 6 8 0 2 4 1 3 -20
+p830
+aVChris Carr BOS 11/04/2000 BOS @ CLE L 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 1 -10
+p831
+aVPaul Pierce BOS 11/04/2000 BOS @ CLE L 31 10 2 11 18.2 2 4 50.0 4 6 66.7 0 4 4 4 1 1 6 1 -8
+p832
+aVRandy Brown BOS 11/04/2000 BOS @ CLE L 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 7
+p833
+aVMark Blount BOS 11/03/2000 BOS vs. TOR W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 14
+p834
+aVTony Battie BOS 11/03/2000 BOS vs. TOR W 33 9 4 9 44.4 0 0 - 1 2 50.0 4 6 10 0 2 0 0 4 -4
+p835
+aVJerome Moiso BOS 11/03/2000 BOS vs. TOR W 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 1 1 2 5
+p836
+aVAdrian Griffin BOS 11/03/2000 BOS vs. TOR W 19 4 2 2 100.0 0 0 - 0 0 - 0 4 4 1 2 1 0 2 2
+p837
+aVKenny Anderson BOS 11/03/2000 BOS vs. TOR W 33 11 3 12 25.0 1 4 25.0 4 5 80.0 0 2 2 7 3 0 1 2 12
+p838
+aVChris Carr BOS 11/03/2000 BOS vs. TOR W 9 5 2 2 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 3 -12
+p839
+aVRandy Brown BOS 11/03/2000 BOS vs. TOR W 12 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 1 3 0 0 2 -3
+p840
+aVVitaly Potapenko BOS 11/03/2000 BOS vs. TOR W 7 0 0 6 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -8
+p841
+aVAntoine Walker BOS 11/03/2000 BOS vs. TOR W 35 20 8 20 40.0 2 4 50.0 2 2 100.0 3 4 7 1 0 0 6 3 -5
+p842
+aVBryant Stith BOS 11/03/2000 BOS vs. TOR W 20 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 1 1 0 0 1 -7
+p843
+aVPaul Pierce BOS 11/03/2000 BOS vs. TOR W 41 30 10 19 52.6 3 4 75.0 7 11 63.6 1 6 7 4 1 0 4 3 10
+p844
+aVEric Williams BOS 11/03/2000 BOS vs. TOR W 12 2 1 3 33.3 0 1 0.0 0 1 0.0 0 3 3 0 0 0 1 0 6
+p845
+aVEric Williams BOS 11/01/2000 BOS vs. DET W 15 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 0 2 1 3 12
+p846
+aVRandy Brown BOS 11/01/2000 BOS vs. DET W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -1
+p847
+aVPaul Pierce BOS 11/01/2000 BOS vs. DET W 39 28 9 24 37.5 1 4 25.0 9 14 64.3 1 5 6 5 2 0 2 2 11
+p848
+aVVitaly Potapenko BOS 11/01/2000 BOS vs. DET W 17 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 3 9
+p849
+aVMark Blount BOS 11/01/2000 BOS vs. DET W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p850
+aVAntoine Walker BOS 11/01/2000 BOS vs. DET W 41 33 12 19 63.2 3 6 50.0 6 6 100.0 3 9 12 4 0 3 4 1 24
+p851
+aVBryant Stith BOS 11/01/2000 BOS vs. DET W 24 16 2 5 40.0 2 3 66.7 10 10 100.0 0 0 0 3 4 0 2 2 19
+p852
+aVJerome Moiso BOS 11/01/2000 BOS vs. DET W 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -4
+p853
+aVTony Battie BOS 11/01/2000 BOS vs. DET W 27 10 5 7 71.4 0 0 - 0 0 - 1 11 12 1 1 2 0 3 13
+p854
+aVAdrian Griffin BOS 11/01/2000 BOS vs. DET W 18 2 1 5 20.0 0 1 0.0 0 0 - 2 5 7 0 0 0 0 4 -2
+p855
+aVKenny Anderson BOS 11/01/2000 BOS vs. DET W 35 8 2 9 22.2 1 1 100.0 3 4 75.0 1 2 3 5 4 0 2 1 21
+p856
+a.

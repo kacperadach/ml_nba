@@ -1,0 +1,1622 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMarko Jaric LAC 04/16/2003 LAC vs. POR W 27 13 4 7 57.1 2 3 66.7 3 5 60.0 0 2 2 3 2 0 1 1 13
+p2
+aVAndre Miller LAC 04/16/2003 LAC vs. POR W 39 19 8 16 50.0 0 0 - 3 4 75.0 0 4 4 6 2 1 5 2 14
+p3
+aVEric Piatkowski LAC 04/16/2003 LAC vs. POR W 28 5 2 7 28.6 0 2 0.0 1 3 33.3 0 2 2 1 1 0 1 2 9
+p4
+aVTremaine Fowlkes LAC 04/16/2003 LAC vs. POR W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p5
+aVChris Wilcox LAC 04/16/2003 LAC vs. POR W 5 5 2 3 66.7 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -4
+p6
+aVKeyon Dooling LAC 04/16/2003 LAC vs. POR W 19 16 6 8 75.0 4 5 80.0 0 0 - 2 1 3 1 1 0 0 2 6
+p7
+aVElton Brand LAC 04/16/2003 LAC vs. POR W 43 18 9 17 52.9 0 0 - 0 1 0.0 6 5 11 6 1 4 2 3 18
+p8
+aVWang Zhi-zhi LAC 04/16/2003 LAC vs. POR W 5 5 2 4 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 1 1 -5
+p9
+aVLamar Odom LAC 04/16/2003 LAC vs. POR W 40 24 10 13 76.9 2 2 100.0 2 6 33.3 1 12 13 5 1 3 4 4 14
+p10
+aVMelvin Ely LAC 04/16/2003 LAC vs. POR W 30 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 1 2 1 6
+p11
+aVSean Rooks LAC 04/14/2003 LAC @ GSW W 18 2 1 7 14.3 0 0 - 0 0 - 0 3 3 0 1 2 1 2 4
+p12
+aVElton Brand LAC 04/14/2003 LAC @ GSW W 47 26 12 23 52.2 0 0 - 2 3 66.7 12 11 23 5 4 2 1 4 9
+p13
+aVCorey Maggette LAC 04/14/2003 LAC @ GSW W 25 15 5 12 41.7 0 2 0.0 5 5 100.0 1 3 4 2 0 0 1 3 -8
+p14
+aVEric Piatkowski LAC 04/14/2003 LAC @ GSW W 28 27 9 14 64.3 5 7 71.4 4 5 80.0 4 5 9 1 0 0 1 0 12
+p15
+aVTremaine Fowlkes LAC 04/14/2003 LAC @ GSW W 7 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 3 -2
+p16
+aVMelvin Ely LAC 04/14/2003 LAC @ GSW W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p17
+aVMarko Jaric LAC 04/14/2003 LAC @ GSW W 22 3 1 3 33.3 1 1 100.0 0 0 - 4 1 5 3 0 0 1 0 9
+p18
+aVLamar Odom LAC 04/14/2003 LAC @ GSW W 32 13 4 13 30.8 1 4 25.0 4 4 100.0 2 8 10 5 0 1 1 5 11
+p19
+aVKeyon Dooling LAC 04/14/2003 LAC @ GSW W 15 10 3 6 50.0 3 5 60.0 1 1 100.0 0 0 0 3 0 0 0 2 5
+p20
+aVChris Wilcox LAC 04/14/2003 LAC @ GSW W 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -4
+p21
+aVWang Zhi-zhi LAC 04/14/2003 LAC @ GSW W 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 1 7
+p22
+aVAndre Miller LAC 04/14/2003 LAC @ GSW W 33 20 7 20 35.0 0 3 0.0 6 6 100.0 3 3 6 5 3 1 3 5 4
+p23
+aVAndre Miller LAC 04/12/2003 LAC @ DEN W 33 16 6 8 75.0 1 1 100.0 3 7 42.9 0 1 1 9 0 0 3 4 19
+p24
+aVTremaine Fowlkes LAC 04/12/2003 LAC @ DEN W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p25
+aVLamar Odom LAC 04/12/2003 LAC @ DEN W 38 13 6 11 54.5 0 0 - 1 2 50.0 1 9 10 9 0 0 1 3 19
+p26
+aVMelvin Ely LAC 04/12/2003 LAC @ DEN W 28 13 6 13 46.2 0 0 - 1 2 50.0 3 6 9 1 0 1 2 3 22
+p27
+aVElton Brand LAC 04/12/2003 LAC @ DEN W 30 9 3 10 30.0 0 0 - 3 4 75.0 2 6 8 3 0 1 2 2 12
+p28
+aVKeyon Dooling LAC 04/12/2003 LAC @ DEN W 15 6 2 5 40.0 2 3 66.7 0 0 - 2 1 3 1 0 0 0 1 3
+p29
+aVChris Wilcox LAC 04/12/2003 LAC @ DEN W 12 4 2 7 28.6 0 0 - 0 0 - 3 4 7 0 0 0 0 3 14
+p30
+aVEric Piatkowski LAC 04/12/2003 LAC @ DEN W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 3 6
+p31
+aVMarko Jaric LAC 04/12/2003 LAC @ DEN W 20 17 7 10 70.0 3 3 100.0 0 0 - 1 4 5 1 1 0 0 5 10
+p32
+aVCorey Maggette LAC 04/12/2003 LAC @ DEN W 30 14 5 15 33.3 0 2 0.0 4 5 80.0 6 4 10 0 2 0 2 0 9
+p33
+aVSean Rooks LAC 04/12/2003 LAC @ DEN W 18 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 1 0 2 3 2
+p34
+aVWang Zhi-zhi LAC 04/12/2003 LAC @ DEN W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 0
+p35
+aVEric Piatkowski LAC 04/11/2003 LAC @ MIN L 23 2 1 7 14.3 0 5 0.0 0 0 - 0 1 1 0 0 0 0 0 -18
+p36
+aVSean Rooks LAC 04/11/2003 LAC @ MIN L 27 8 4 6 66.7 0 0 - 0 0 - 1 4 5 0 1 0 2 2 -2
+p37
+aVElton Brand LAC 04/11/2003 LAC @ MIN L 35 20 8 15 53.3 0 0 - 4 10 40.0 4 3 7 3 4 1 5 5 -13
+p38
+aVChris Wilcox LAC 04/11/2003 LAC @ MIN L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -10
+p39
+aVWang Zhi-zhi LAC 04/11/2003 LAC @ MIN L 9 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 1 0 0 0 -9
+p40
+aVCorey Maggette LAC 04/11/2003 LAC @ MIN L 32 18 6 12 50.0 4 6 66.7 2 2 100.0 1 5 6 4 0 0 3 1 0
+p41
+aVMarko Jaric LAC 04/11/2003 LAC @ MIN L 22 12 5 8 62.5 0 2 0.0 2 2 100.0 1 3 4 5 0 0 2 2 -12
+p42
+aVMelvin Ely LAC 04/11/2003 LAC @ MIN L 17 7 3 4 75.0 0 0 - 1 2 50.0 1 2 3 1 0 0 1 2 2
+p43
+aVQuentin Richardson LAC 04/11/2003 LAC @ MIN L 19 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 2 1 1 0 1 -2
+p44
+aVAndre Miller LAC 04/11/2003 LAC @ MIN L 24 8 4 11 36.4 0 0 - 0 0 - 0 4 4 7 0 0 0 1 -6
+p45
+aVKeyon Dooling LAC 04/11/2003 LAC @ MIN L 24 10 4 8 50.0 2 2 100.0 0 0 - 1 1 2 0 0 0 1 1 -10
+p46
+aVElton Brand LAC 04/09/2003 LAC @ MIL L 29 21 10 17 58.8 0 0 - 1 1 100.0 3 8 11 0 1 2 0 1 -10
+p47
+aVWang Zhi-zhi LAC 04/09/2003 LAC @ MIL L 8 2 0 2 0.0 0 0 - 2 4 50.0 1 0 1 1 0 0 1 1 -10
+p48
+aVMelvin Ely LAC 04/09/2003 LAC @ MIL L 14 8 4 5 80.0 0 0 - 0 2 0.0 4 0 4 2 0 0 2 3 -8
+p49
+aVChris Wilcox LAC 04/09/2003 LAC @ MIL L 20 2 1 4 25.0 0 0 - 0 2 0.0 0 4 4 1 0 0 0 3 -10
+p50
+aVAndre Miller LAC 04/09/2003 LAC @ MIL L 30 8 4 10 40.0 0 1 0.0 0 0 - 1 1 2 7 2 0 1 1 -10
+p51
+aVEric Piatkowski LAC 04/09/2003 LAC @ MIL L 23 16 6 8 75.0 2 3 66.7 2 3 66.7 0 2 2 1 0 0 0 1 -13
+p52
+aVCorey Maggette LAC 04/09/2003 LAC @ MIL L 27 20 3 5 60.0 3 4 75.0 11 12 91.7 0 1 1 3 0 0 0 2 -8
+p53
+aVSean Rooks LAC 04/09/2003 LAC @ MIL L 18 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 3
+p54
+aVMarko Jaric LAC 04/09/2003 LAC @ MIL L 20 2 0 5 0.0 0 4 0.0 2 2 100.0 1 4 5 4 1 1 3 3 -12
+p55
+aVLamar Odom LAC 04/09/2003 LAC @ MIL L 26 6 2 8 25.0 0 2 0.0 2 2 100.0 0 5 5 3 0 3 8 4 -6
+p56
+aVQuentin Richardson LAC 04/09/2003 LAC @ MIL L 26 7 3 10 30.0 0 3 0.0 1 3 33.3 1 1 2 0 0 0 1 1 -16
+p57
+aVCorey Maggette LAC 04/08/2003 LAC @ MEM L 34 22 8 14 57.1 1 5 20.0 5 7 71.4 0 5 5 3 1 0 4 5 -4
+p58
+aVEric Piatkowski LAC 04/08/2003 LAC @ MEM L 19 12 3 7 42.9 3 6 50.0 3 4 75.0 0 0 0 1 1 1 2 1 4
+p59
+aVMelvin Ely LAC 04/08/2003 LAC @ MEM L 17 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 2 0 2 -3
+p60
+aVLamar Odom LAC 04/08/2003 LAC @ MEM L 34 20 7 13 53.8 2 4 50.0 4 4 100.0 0 6 6 6 0 0 5 4 5
+p61
+aVElton Brand LAC 04/08/2003 LAC @ MEM L 33 21 8 17 47.1 0 0 - 5 9 55.6 4 6 10 2 1 3 3 5 -1
+p62
+aVKeyon Dooling LAC 04/08/2003 LAC @ MEM L 11 2 0 4 0.0 0 2 0.0 2 2 100.0 0 0 0 1 1 0 2 2 -9
+p63
+aVChris Wilcox LAC 04/08/2003 LAC @ MEM L 15 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p64
+aVSean Rooks LAC 04/08/2003 LAC @ MEM L 28 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 1 1 0 4 -4
+p65
+aVAndre Miller LAC 04/08/2003 LAC @ MEM L 37 17 7 10 70.0 0 0 - 3 3 100.0 1 3 4 4 2 0 0 1 6
+p66
+aVQuentin Richardson LAC 04/08/2003 LAC @ MEM L 12 2 1 3 33.3 0 2 0.0 0 0 - 1 4 5 1 0 0 0 1 -7
+p67
+aVEric Piatkowski LAC 04/05/2003 LAC vs. NYK W 18 3 0 4 0.0 0 2 0.0 3 3 100.0 0 2 2 1 1 0 3 1 -7
+p68
+aVCorey Maggette LAC 04/05/2003 LAC vs. NYK W 30 12 5 10 50.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 2 4 18
+p69
+aVKeyon Dooling LAC 04/05/2003 LAC vs. NYK W 18 9 4 7 57.1 1 2 50.0 0 1 0.0 0 3 3 3 0 0 0 0 9
+p70
+aVWang Zhi-zhi LAC 04/05/2003 LAC vs. NYK W 17 9 3 9 33.3 1 4 25.0 2 3 66.7 0 3 3 0 0 0 0 2 11
+p71
+aVSean Rooks LAC 04/05/2003 LAC vs. NYK W 25 9 4 5 80.0 0 0 - 1 1 100.0 1 7 8 1 0 4 2 1 2
+p72
+aVLamar Odom LAC 04/05/2003 LAC vs. NYK W 29 10 4 5 80.0 1 1 100.0 1 1 100.0 1 5 6 5 2 1 1 3 19
+p73
+aVMelvin Ely LAC 04/05/2003 LAC vs. NYK W 9 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -7
+p74
+aVElton Brand LAC 04/05/2003 LAC vs. NYK W 41 29 13 20 65.0 0 0 - 3 3 100.0 3 5 8 2 1 0 0 2 13
+p75
+aVMarko Jaric LAC 04/05/2003 LAC vs. NYK W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 3 2 0 5 3 -8
+p76
+aVChris Wilcox LAC 04/05/2003 LAC vs. NYK W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p77
+aVAndre Miller LAC 04/05/2003 LAC vs. NYK W 30 19 7 10 70.0 1 1 100.0 4 4 100.0 1 3 4 7 1 0 1 0 2
+p78
+aVChris Wilcox LAC 04/04/2003 LAC @ SEA L 9 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 0 -8
+p79
+aVCorey Maggette LAC 04/04/2003 LAC @ SEA L 16 4 1 6 16.7 0 1 0.0 2 2 100.0 0 1 1 3 0 0 3 0 -16
+p80
+aVMelvin Ely LAC 04/04/2003 LAC @ SEA L 27 2 1 3 33.3 0 0 - 0 0 - 2 6 8 0 0 0 1 5 10
+p81
+aVKeyon Dooling LAC 04/04/2003 LAC @ SEA L 13 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 1 1 2 1 2
+p82
+aVMarko Jaric LAC 04/04/2003 LAC @ SEA L 14 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 1 1 1 1 -1
+p83
+aVSean Rooks LAC 04/04/2003 LAC @ SEA L 21 10 4 5 80.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 4 -18
+p84
+aVElton Brand LAC 04/04/2003 LAC @ SEA L 39 15 4 13 30.8 0 0 - 7 9 77.8 9 10 19 1 1 2 3 3 0
+p85
+aVAndre Miller LAC 04/04/2003 LAC @ SEA L 35 9 3 13 23.1 1 2 50.0 2 2 100.0 1 4 5 7 0 0 1 4 -10
+p86
+aVEric Piatkowski LAC 04/04/2003 LAC @ SEA L 32 21 5 10 50.0 5 8 62.5 6 6 100.0 3 4 7 2 0 0 4 3 8
+p87
+aVLamar Odom LAC 04/04/2003 LAC @ SEA L 34 19 8 16 50.0 0 3 0.0 3 4 75.0 3 2 5 2 2 0 2 4 -7
+p88
+aVElton Brand LAC 04/01/2003 LAC vs. UTA L 31 12 5 13 38.5 0 0 - 2 4 50.0 8 5 13 2 0 3 3 2 -3
+p89
+aVAndre Miller LAC 04/01/2003 LAC vs. UTA L 33 14 7 14 50.0 0 0 - 0 0 - 3 3 6 6 2 0 1 4 -1
+p90
+aVChris Wilcox LAC 04/01/2003 LAC vs. UTA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p91
+aVSean Rooks LAC 04/01/2003 LAC vs. UTA L 34 4 1 3 33.3 0 0 - 2 4 50.0 1 3 4 1 0 1 2 3 -3
+p92
+aVMelvin Ely LAC 04/01/2003 LAC vs. UTA L 25 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 2 4 2 -6
+p93
+aVCorey Maggette LAC 04/01/2003 LAC vs. UTA L 25 23 6 9 66.7 3 3 100.0 8 12 66.7 0 4 4 1 0 0 2 2 -10
+p94
+aVEric Piatkowski LAC 04/01/2003 LAC vs. UTA L 24 18 5 7 71.4 2 4 50.0 6 8 75.0 0 0 0 1 0 1 1 1 4
+p95
+aVLamar Odom LAC 04/01/2003 LAC vs. UTA L 29 4 1 12 8.3 0 3 0.0 2 2 100.0 0 5 5 4 1 3 1 4 -2
+p96
+aVQuentin Richardson LAC 04/01/2003 LAC vs. UTA L 19 5 2 6 33.3 1 1 100.0 0 0 - 1 3 4 0 0 0 1 0 -3
+p97
+aVMarko Jaric LAC 04/01/2003 LAC vs. UTA L 15 5 1 4 25.0 1 4 25.0 2 4 50.0 0 4 4 3 1 0 2 2 -4
+p98
+aVSean Rooks LAC 03/30/2003 LAC vs. MEM W 34 6 3 11 27.3 0 0 - 0 0 - 1 6 7 2 2 1 0 4 0
+p99
+aVLamar Odom LAC 03/30/2003 LAC vs. MEM W 28 13 5 12 41.7 0 0 - 3 4 75.0 1 5 6 3 0 1 2 5 5
+p100
+aVMelvin Ely LAC 03/30/2003 LAC vs. MEM W 21 11 4 5 80.0 0 0 - 3 4 75.0 1 5 6 0 0 2 1 3 4
+p101
+aVAndre Miller LAC 03/30/2003 LAC vs. MEM W 27 6 3 4 75.0 0 0 - 0 1 0.0 1 3 4 5 0 0 1 1 0
+p102
+aVQuentin Richardson LAC 03/30/2003 LAC vs. MEM W 17 7 3 10 30.0 1 3 33.3 0 0 - 1 4 5 1 0 0 0 1 2
+p103
+aVEric Piatkowski LAC 03/30/2003 LAC vs. MEM W 24 12 4 9 44.4 1 3 33.3 3 3 100.0 1 0 1 0 0 0 1 1 -1
+p104
+aVChris Wilcox LAC 03/30/2003 LAC vs. MEM W 22 15 6 7 85.7 0 0 - 3 6 50.0 2 3 5 1 1 0 2 3 8
+p105
+aVCherokee Parks LAC 03/30/2003 LAC vs. MEM W 17 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 3 -10
+p106
+aVMarko Jaric LAC 03/30/2003 LAC vs. MEM W 21 7 3 9 33.3 0 0 - 1 4 25.0 0 2 2 1 2 0 1 0 2
+p107
+aVCorey Maggette LAC 03/30/2003 LAC vs. MEM W 29 18 5 12 41.7 0 0 - 8 9 88.9 2 7 9 4 0 0 0 1 0
+p108
+aVMarko Jaric LAC 03/27/2003 LAC @ SAC L 25 10 4 12 33.3 2 4 50.0 0 0 - 0 2 2 4 2 1 1 1 14
+p109
+aVMelvin Ely LAC 03/27/2003 LAC @ SAC L 33 12 6 10 60.0 0 0 - 0 2 0.0 4 8 12 1 2 1 5 2 8
+p110
+aVTremaine Fowlkes LAC 03/27/2003 LAC @ SAC L 18 7 2 6 33.3 0 0 - 3 3 100.0 1 4 5 2 2 0 0 2 17
+p111
+aVSean Rooks LAC 03/27/2003 LAC @ SAC L 24 6 3 11 27.3 0 0 - 0 0 - 4 1 5 1 0 0 1 1 -24
+p112
+aVChris Wilcox LAC 03/27/2003 LAC @ SAC L 20 16 6 8 75.0 0 0 - 4 6 66.7 3 3 6 1 1 0 1 3 9
+p113
+aVCherokee Parks LAC 03/27/2003 LAC @ SAC L 13 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -10
+p114
+aVAndre Miller LAC 03/27/2003 LAC @ SAC L 28 4 2 12 16.7 0 0 - 0 0 - 0 3 3 2 0 0 2 3 -29
+p115
+aVWang Zhi-zhi LAC 03/27/2003 LAC @ SAC L 6 2 1 7 14.3 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p116
+aVLamar Odom LAC 03/27/2003 LAC @ SAC L 25 0 0 7 0.0 0 2 0.0 0 0 - 1 2 3 4 0 1 2 2 -22
+p117
+aVEric Piatkowski LAC 03/27/2003 LAC @ SAC L 25 8 4 11 36.4 0 0 - 0 0 - 3 3 6 2 1 0 1 0 14
+p118
+aVCorey Maggette LAC 03/27/2003 LAC @ SAC L 23 14 5 12 41.7 0 1 0.0 4 7 57.1 1 3 4 2 1 0 1 2 -24
+p119
+aVLamar Odom LAC 03/26/2003 LAC vs. DAL L 40 15 7 18 38.9 0 3 0.0 1 4 25.0 1 7 8 6 0 1 4 5 -6
+p120
+aVEric Piatkowski LAC 03/26/2003 LAC vs. DAL L 31 22 9 17 52.9 3 7 42.9 1 1 100.0 4 1 5 2 0 1 1 3 -1
+p121
+aVCherokee Parks LAC 03/26/2003 LAC vs. DAL L 35 13 6 10 60.0 0 0 - 1 2 50.0 1 3 4 1 2 1 0 3 -1
+p122
+aVAndre Miller LAC 03/26/2003 LAC vs. DAL L 40 10 4 12 33.3 0 2 0.0 2 3 66.7 2 6 8 7 2 0 0 2 -8
+p123
+aVTremaine Fowlkes LAC 03/26/2003 LAC vs. DAL L 12 6 2 4 50.0 0 0 - 2 2 100.0 3 0 3 0 3 0 0 0 -3
+p124
+aVCorey Maggette LAC 03/26/2003 LAC vs. DAL L 24 21 7 11 63.6 0 2 0.0 7 9 77.8 4 7 11 1 0 0 3 4 -8
+p125
+aVMarko Jaric LAC 03/26/2003 LAC vs. DAL L 30 13 5 9 55.6 3 4 75.0 0 2 0.0 2 5 7 7 0 0 4 3 -2
+p126
+aVSean Rooks LAC 03/26/2003 LAC vs. DAL L 22 7 3 7 42.9 0 0 - 1 2 50.0 2 1 3 1 0 0 2 2 -2
+p127
+aVWang Zhi-zhi LAC 03/26/2003 LAC vs. DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p128
+aVLamar Odom LAC 03/24/2003 LAC vs. HOU L 41 30 13 18 72.2 2 3 66.7 2 2 100.0 4 6 10 2 2 0 3 4 -12
+p129
+aVCherokee Parks LAC 03/24/2003 LAC vs. HOU L 30 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 1 1 1 2 -12
+p130
+aVSean Rooks LAC 03/24/2003 LAC vs. HOU L 22 10 5 10 50.0 0 0 - 0 0 - 1 1 2 2 0 0 2 2 -8
+p131
+aVTremaine Fowlkes LAC 03/24/2003 LAC vs. HOU L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -6
+p132
+aVWang Zhi-zhi LAC 03/24/2003 LAC vs. HOU L 26 9 3 10 30.0 0 1 0.0 3 5 60.0 3 3 6 0 0 0 0 1 -10
+p133
+aVMarko Jaric LAC 03/24/2003 LAC vs. HOU L 21 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -5
+p134
+aVAndre Miller LAC 03/24/2003 LAC vs. HOU L 37 11 4 10 40.0 0 1 0.0 3 4 75.0 1 1 2 5 1 0 4 3 -12
+p135
+aVCorey Maggette LAC 03/24/2003 LAC vs. HOU L 30 14 3 11 27.3 2 5 40.0 6 6 100.0 0 2 2 1 2 0 3 3 -10
+p136
+aVMelvin Ely LAC 03/24/2003 LAC vs. HOU L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p137
+aVEric Piatkowski LAC 03/24/2003 LAC vs. HOU L 16 8 3 6 50.0 1 1 100.0 1 1 100.0 1 2 3 0 0 0 2 1 -9
+p138
+aVChris Wilcox LAC 03/22/2003 LAC @ UTA L 14 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 0 0 0 -2
+p139
+aVWang Zhi-zhi LAC 03/22/2003 LAC @ UTA L 26 12 3 8 37.5 0 1 0.0 6 7 85.7 2 3 5 0 2 0 2 2 0
+p140
+aVTremaine Fowlkes LAC 03/22/2003 LAC @ UTA L 13 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 0 0 0 1 3 12
+p141
+aVEric Piatkowski LAC 03/22/2003 LAC @ UTA L 19 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 0 2 0 2 1 -14
+p142
+aVMelvin Ely LAC 03/22/2003 LAC @ UTA L 12 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -3
+p143
+aVCherokee Parks LAC 03/22/2003 LAC @ UTA L 23 2 0 5 0.0 0 0 - 2 2 100.0 2 3 5 1 0 0 1 3 -15
+p144
+aVSean Rooks LAC 03/22/2003 LAC @ UTA L 15 6 2 7 28.6 0 0 - 2 2 100.0 3 1 4 1 0 0 0 2 -11
+p145
+aVCorey Maggette LAC 03/22/2003 LAC @ UTA L 30 13 4 15 26.7 0 1 0.0 5 6 83.3 0 5 5 0 1 0 3 0 -6
+p146
+aVQuentin Richardson LAC 03/22/2003 LAC @ UTA L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -5
+p147
+aVAndre Miller LAC 03/22/2003 LAC @ UTA L 34 4 2 13 15.4 0 3 0.0 0 0 - 4 2 6 2 1 1 1 2 -20
+p148
+aVLamar Odom LAC 03/22/2003 LAC @ UTA L 24 11 3 9 33.3 1 1 100.0 4 4 100.0 2 0 2 0 3 2 1 4 -19
+p149
+aVMarko Jaric LAC 03/22/2003 LAC @ UTA L 22 11 2 5 40.0 1 1 100.0 6 8 75.0 1 2 3 4 5 1 4 3 8
+p150
+aVTremaine Fowlkes LAC 03/19/2003 LAC vs. DEN W 26 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 1 0 1 3 14
+p151
+aVCherokee Parks LAC 03/19/2003 LAC vs. DEN W 28 0 0 4 0.0 0 0 - 0 0 - 4 3 7 0 1 1 2 1 12
+p152
+aVQuentin Richardson LAC 03/19/2003 LAC vs. DEN W 24 6 3 13 23.1 0 3 0.0 0 0 - 1 3 4 1 3 1 0 0 5
+p153
+aVWang Zhi-zhi LAC 03/19/2003 LAC vs. DEN W 25 21 9 12 75.0 2 2 100.0 1 1 100.0 2 4 6 1 0 0 3 3 16
+p154
+aVEric Piatkowski LAC 03/19/2003 LAC vs. DEN W 18 8 3 8 37.5 1 3 33.3 1 2 50.0 0 1 1 1 0 0 0 1 6
+p155
+aVSean Rooks LAC 03/19/2003 LAC vs. DEN W 23 6 3 7 42.9 0 0 - 0 0 - 1 4 5 1 1 1 1 1 -3
+p156
+aVChris Wilcox LAC 03/19/2003 LAC vs. DEN W 20 10 3 8 37.5 0 0 - 4 4 100.0 2 4 6 0 0 2 0 6 1
+p157
+aVMarko Jaric LAC 03/19/2003 LAC vs. DEN W 24 13 6 11 54.5 1 4 25.0 0 0 - 1 5 6 4 1 0 3 3 12
+p158
+aVAndre Miller LAC 03/19/2003 LAC vs. DEN W 30 12 3 6 50.0 0 0 - 6 7 85.7 0 3 3 3 2 0 0 1 3
+p159
+aVLamar Odom LAC 03/19/2003 LAC vs. DEN W 22 13 3 12 25.0 1 4 25.0 6 6 100.0 0 4 4 1 1 1 1 1 -1
+p160
+aVTremaine Fowlkes LAC 03/17/2003 LAC vs. LAL L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -8
+p161
+aVSean Rooks LAC 03/17/2003 LAC vs. LAL L 34 12 4 7 57.1 0 0 - 4 4 100.0 0 4 4 2 0 0 1 6 -10
+p162
+aVMelvin Ely LAC 03/17/2003 LAC vs. LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p163
+aVQuentin Richardson LAC 03/17/2003 LAC vs. LAL L 18 13 6 14 42.9 1 4 25.0 0 0 - 3 3 6 0 1 0 2 1 -18
+p164
+aVMarko Jaric LAC 03/17/2003 LAC vs. LAL L 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -5
+p165
+aVChris Wilcox LAC 03/17/2003 LAC vs. LAL L 11 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 1
+p166
+aVWang Zhi-zhi LAC 03/17/2003 LAC vs. LAL L 10 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 1 1 0 2 3 -9
+p167
+aVEric Piatkowski LAC 03/17/2003 LAC vs. LAL L 32 12 4 11 36.4 2 6 33.3 2 3 66.7 3 1 4 1 1 1 0 4 -6
+p168
+aVCherokee Parks LAC 03/17/2003 LAC vs. LAL L 37 13 6 10 60.0 0 0 - 1 6 16.7 1 6 7 2 1 0 0 3 -18
+p169
+aVLamar Odom LAC 03/17/2003 LAC vs. LAL L 36 12 5 12 41.7 1 3 33.3 1 2 50.0 1 5 6 1 2 1 3 6 -2
+p170
+aVAndre Miller LAC 03/17/2003 LAC vs. LAL L 38 15 5 12 41.7 1 3 33.3 4 4 100.0 0 4 4 7 1 0 3 0 -12
+p171
+aVTremaine Fowlkes LAC 03/16/2003 LAC vs. TOR W 9 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 2 5
+p172
+aVSean Rooks LAC 03/16/2003 LAC vs. TOR W 28 10 4 9 44.4 0 0 - 2 2 100.0 1 4 5 2 0 0 3 3 -16
+p173
+aVChris Wilcox LAC 03/16/2003 LAC vs. TOR W 21 7 3 6 50.0 0 0 - 1 2 50.0 1 6 7 1 1 0 2 4 7
+p174
+aVAndre Miller LAC 03/16/2003 LAC vs. TOR W 35 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 3 2 0 1 2 -12
+p175
+aVMelvin Ely LAC 03/16/2003 LAC vs. TOR W 20 9 4 6 66.7 0 0 - 1 2 50.0 4 1 5 1 0 0 2 5 17
+p176
+aVCherokee Parks LAC 03/16/2003 LAC vs. TOR W 26 9 4 7 57.1 0 0 - 1 2 50.0 4 4 8 1 0 1 0 0 -11
+p177
+aVMarko Jaric LAC 03/16/2003 LAC vs. TOR W 24 13 4 9 44.4 2 4 50.0 3 4 75.0 0 1 1 7 1 0 0 3 17
+p178
+aVLamar Odom LAC 03/16/2003 LAC vs. TOR W 37 25 10 20 50.0 3 6 50.0 2 4 50.0 2 3 5 4 0 1 3 2 -5
+p179
+aVEric Piatkowski LAC 03/16/2003 LAC vs. TOR W 19 15 4 7 57.1 3 5 60.0 4 4 100.0 1 3 4 0 2 0 2 2 13
+p180
+aVCorey Maggette LAC 03/16/2003 LAC vs. TOR W 21 11 4 8 50.0 0 1 0.0 3 4 75.0 0 2 2 1 1 0 2 3 -10
+p181
+aVChris Wilcox LAC 03/14/2003 LAC @ SAS L 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 1 2 3 2
+p182
+aVMarko Jaric LAC 03/14/2003 LAC @ SAS L 28 13 5 12 41.7 0 3 0.0 3 4 75.0 1 6 7 7 3 1 5 3 9
+p183
+aVTremaine Fowlkes LAC 03/14/2003 LAC @ SAS L 8 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 8
+p184
+aVEric Piatkowski LAC 03/14/2003 LAC @ SAS L 26 10 5 8 62.5 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 7
+p185
+aVMelvin Ely LAC 03/14/2003 LAC @ SAS L 32 13 6 9 66.7 0 0 - 1 1 100.0 2 7 9 1 0 4 0 2 1
+p186
+aVCherokee Parks LAC 03/14/2003 LAC @ SAS L 24 8 4 6 66.7 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -24
+p187
+aVLamar Odom LAC 03/14/2003 LAC @ SAS L 37 26 7 9 77.8 3 4 75.0 9 10 90.0 0 5 5 5 0 1 3 3 -19
+p188
+aVSean Rooks LAC 03/14/2003 LAC @ SAS L 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 1 1 3 -12
+p189
+aVCorey Maggette LAC 03/14/2003 LAC @ SAS L 31 14 5 10 50.0 0 0 - 4 7 57.1 1 3 4 2 1 0 2 4 -6
+p190
+aVAndre Miller LAC 03/14/2003 LAC @ SAS L 20 3 0 9 0.0 0 0 - 3 3 100.0 1 6 7 5 0 0 1 0 -20
+p191
+aVQuentin Richardson LAC 03/14/2003 LAC @ SAS L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -1
+p192
+aVCherokee Parks LAC 03/12/2003 LAC @ HOU L 43 18 7 11 63.6 0 0 - 4 4 100.0 1 3 4 1 0 1 2 2 4
+p193
+aVChris Wilcox LAC 03/12/2003 LAC @ HOU L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 2 1 -8
+p194
+aVTremaine Fowlkes LAC 03/12/2003 LAC @ HOU L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p195
+aVLamar Odom LAC 03/12/2003 LAC @ HOU L 43 17 6 11 54.5 3 5 60.0 2 2 100.0 1 11 12 3 3 1 3 1 1
+p196
+aVMelvin Ely LAC 03/12/2003 LAC @ HOU L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -5
+p197
+aVCorey Maggette LAC 03/12/2003 LAC @ HOU L 43 29 9 17 52.9 1 4 25.0 10 12 83.3 2 7 9 1 2 0 5 4 -6
+p198
+aVAndre Miller LAC 03/12/2003 LAC @ HOU L 43 22 9 18 50.0 1 3 33.3 3 8 37.5 2 2 4 11 1 0 3 3 3
+p199
+aVQuentin Richardson LAC 03/12/2003 LAC @ HOU L 17 6 2 6 33.3 2 3 66.7 0 0 - 0 3 3 1 1 0 0 0 -7
+p200
+aVMarko Jaric LAC 03/12/2003 LAC @ HOU L 10 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 2 2 0 1 2 -7
+p201
+aVWang Zhi-zhi LAC 03/12/2003 LAC @ HOU L 19 8 3 6 50.0 0 2 0.0 2 2 100.0 0 2 2 0 1 0 1 1 2
+p202
+aVSean Rooks LAC 03/12/2003 LAC @ HOU L 29 0 0 3 0.0 0 0 - 0 0 - 1 1 2 4 0 2 0 3 -1
+p203
+aVCorey Maggette LAC 03/10/2003 LAC @ ATL L 32 19 7 15 46.7 1 3 33.3 4 6 66.7 1 5 6 1 1 0 2 3 -7
+p204
+aVCherokee Parks LAC 03/10/2003 LAC @ ATL L 17 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 3 -10
+p205
+aVMarko Jaric LAC 03/10/2003 LAC @ ATL L 12 8 4 8 50.0 0 2 0.0 0 2 0.0 1 0 1 0 4 0 2 3 0
+p206
+aVTremaine Fowlkes LAC 03/10/2003 LAC @ ATL L 16 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 1 0 1 2 1
+p207
+aVChris Wilcox LAC 03/10/2003 LAC @ ATL L 27 9 3 3 100.0 0 0 - 3 6 50.0 0 5 5 1 1 0 1 4 4
+p208
+aVLamar Odom LAC 03/10/2003 LAC @ ATL L 36 12 5 8 62.5 0 0 - 2 2 100.0 0 6 6 4 1 0 2 6 -13
+p209
+aVMelvin Ely LAC 03/10/2003 LAC @ ATL L 26 13 6 10 60.0 0 0 - 1 2 50.0 5 4 9 0 0 1 1 2 10
+p210
+aVSean Rooks LAC 03/10/2003 LAC @ ATL L 21 4 2 8 25.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -16
+p211
+aVEric Piatkowski LAC 03/10/2003 LAC @ ATL L 16 7 2 6 33.3 1 3 33.3 2 2 100.0 0 2 2 2 0 0 1 0 -2
+p212
+aVWang Zhi-zhi LAC 03/10/2003 LAC @ ATL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p213
+aVAndre Miller LAC 03/10/2003 LAC @ ATL L 36 6 3 13 23.1 0 3 0.0 0 1 0.0 1 1 2 5 1 0 4 1 -9
+p214
+aVSean Rooks LAC 03/08/2003 LAC @ CHI W 28 4 2 4 50.0 0 0 - 0 0 - 2 4 6 3 2 3 1 3 2
+p215
+aVMelvin Ely LAC 03/08/2003 LAC @ CHI W 20 7 3 6 50.0 0 0 - 1 1 100.0 2 2 4 0 2 2 1 3 4
+p216
+aVEric Piatkowski LAC 03/08/2003 LAC @ CHI W 15 5 1 5 20.0 1 4 25.0 2 2 100.0 0 1 1 2 0 0 0 0 12
+p217
+aVLamar Odom LAC 03/08/2003 LAC @ CHI W 20 5 1 7 14.3 0 0 - 3 4 75.0 1 2 3 2 1 1 3 3 -7
+p218
+aVMarko Jaric LAC 03/08/2003 LAC @ CHI W 18 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 5 1 0 1 3 12
+p219
+aVAndre Miller LAC 03/08/2003 LAC @ CHI W 30 12 5 9 55.6 0 0 - 2 3 66.7 1 3 4 10 1 0 1 1 -6
+p220
+aVCherokee Parks LAC 03/08/2003 LAC @ CHI W 27 6 3 9 33.3 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -14
+p221
+aVQuentin Richardson LAC 03/08/2003 LAC @ CHI W 28 21 8 16 50.0 3 6 50.0 2 2 100.0 1 3 4 0 0 0 0 1 13
+p222
+aVCorey Maggette LAC 03/08/2003 LAC @ CHI W 33 25 8 14 57.1 0 2 0.0 9 9 100.0 0 2 2 3 2 1 0 4 -4
+p223
+aVChris Wilcox LAC 03/08/2003 LAC @ CHI W 21 12 6 9 66.7 0 0 - 0 0 - 3 3 6 2 0 0 1 2 18
+p224
+aVMarko Jaric LAC 03/07/2003 LAC @ BOS L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 1 3 0 0 0 5
+p225
+aVCorey Maggette LAC 03/07/2003 LAC @ BOS L 33 17 5 12 41.7 1 4 25.0 6 8 75.0 2 3 5 3 3 0 5 3 -9
+p226
+aVEric Piatkowski LAC 03/07/2003 LAC @ BOS L 13 10 4 7 57.1 2 4 50.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p227
+aVAndre Miller LAC 03/07/2003 LAC @ BOS L 44 7 3 7 42.9 0 0 - 1 2 50.0 0 3 3 1 1 0 3 3 -15
+p228
+aVCherokee Parks LAC 03/07/2003 LAC @ BOS L 26 8 4 7 57.1 0 0 - 0 0 - 2 4 6 0 1 1 0 3 -14
+p229
+aVSean Rooks LAC 03/07/2003 LAC @ BOS L 23 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -7
+p230
+aVTremaine Fowlkes LAC 03/07/2003 LAC @ BOS L 9 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -1
+p231
+aVQuentin Richardson LAC 03/07/2003 LAC @ BOS L 35 14 5 20 25.0 2 4 50.0 2 2 100.0 6 4 10 3 2 0 1 1 -11
+p232
+aVLamar Odom LAC 03/07/2003 LAC @ BOS L 24 6 3 17 17.6 0 2 0.0 0 0 - 2 7 9 1 0 0 1 1 2
+p233
+aVMelvin Ely LAC 03/07/2003 LAC @ BOS L 23 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 3 0 2 -3
+p234
+aVAndre Miller LAC 03/05/2003 LAC @ WAS L 33 8 4 9 44.4 0 0 - 0 2 0.0 3 3 6 2 2 0 1 2 -2
+p235
+aVMarko Jaric LAC 03/05/2003 LAC @ WAS L 22 6 3 10 30.0 0 2 0.0 0 0 - 0 0 0 3 2 0 2 0 -10
+p236
+aVChris Wilcox LAC 03/05/2003 LAC @ WAS L 16 4 1 2 50.0 0 0 - 2 2 100.0 1 3 4 1 0 0 1 6 -13
+p237
+aVMelvin Ely LAC 03/05/2003 LAC @ WAS L 12 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 0 0 0 0 3 -12
+p238
+aVSean Rooks LAC 03/05/2003 LAC @ WAS L 26 10 5 9 55.6 0 0 - 0 0 - 2 3 5 0 1 1 1 5 -13
+p239
+aVCherokee Parks LAC 03/05/2003 LAC @ WAS L 32 6 2 6 33.3 0 0 - 2 2 100.0 3 5 8 0 3 1 3 2 -6
+p240
+aVEric Piatkowski LAC 03/05/2003 LAC @ WAS L 25 11 4 10 40.0 1 3 33.3 2 3 66.7 1 3 4 1 0 0 1 3 -15
+p241
+aVQuentin Richardson LAC 03/05/2003 LAC @ WAS L 29 10 4 13 30.8 0 4 0.0 2 2 100.0 0 4 4 1 1 0 1 2 -19
+p242
+aVWang Zhi-zhi LAC 03/05/2003 LAC @ WAS L 10 7 3 6 50.0 0 2 0.0 1 1 100.0 0 0 0 1 1 1 1 0 8
+p243
+aVCorey Maggette LAC 03/05/2003 LAC @ WAS L 35 14 3 12 25.0 0 1 0.0 8 10 80.0 2 1 3 3 0 0 2 0 -13
+p244
+aVQuentin Richardson LAC 03/03/2003 LAC vs. NOH L 36 22 8 19 42.1 5 9 55.6 1 2 50.0 2 3 5 2 2 0 3 3 9
+p245
+aVChris Wilcox LAC 03/03/2003 LAC vs. NOH L 20 10 5 5 100.0 0 0 - 0 2 0.0 2 1 3 1 0 4 1 3 -2
+p246
+aVMarko Jaric LAC 03/03/2003 LAC vs. NOH L 11 4 2 6 33.3 0 3 0.0 0 0 - 0 0 0 0 1 0 1 1 -7
+p247
+aVCorey Maggette LAC 03/03/2003 LAC vs. NOH L 31 24 5 12 41.7 1 2 50.0 13 13 100.0 1 4 5 4 1 0 0 5 -1
+p248
+aVCherokee Parks LAC 03/03/2003 LAC vs. NOH L 28 6 3 4 75.0 0 0 - 0 0 - 5 5 10 4 1 1 1 4 -1
+p249
+aVEric Piatkowski LAC 03/03/2003 LAC vs. NOH L 27 8 2 5 40.0 0 1 0.0 4 4 100.0 0 2 2 0 1 2 3 1 -9
+p250
+aVAndre Miller LAC 03/03/2003 LAC vs. NOH L 39 21 7 17 41.2 0 1 0.0 7 8 87.5 1 2 3 9 2 1 3 3 -1
+p251
+aVMelvin Ely LAC 03/03/2003 LAC vs. NOH L 21 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 2 3 -7
+p252
+aVWang Zhi-zhi LAC 03/03/2003 LAC vs. NOH L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -6
+p253
+aVSean Rooks LAC 03/03/2003 LAC vs. NOH L 22 6 3 4 75.0 0 0 - 0 1 0.0 1 7 8 1 0 1 0 3 10
+p254
+aVCherokee Parks LAC 03/01/2003 LAC vs. SEA L 29 12 6 12 50.0 0 0 - 0 0 - 1 3 4 3 0 1 1 3 -11
+p255
+aVCorey Maggette LAC 03/01/2003 LAC vs. SEA L 28 17 3 9 33.3 0 2 0.0 11 12 91.7 1 2 3 0 0 0 2 1 -6
+p256
+aVQuentin Richardson LAC 03/01/2003 LAC vs. SEA L 29 12 5 11 45.5 1 3 33.3 1 1 100.0 2 5 7 1 1 1 1 2 0
+p257
+aVMarko Jaric LAC 03/01/2003 LAC vs. SEA L 19 10 5 10 50.0 0 3 0.0 0 0 - 0 0 0 3 1 0 0 3 9
+p258
+aVSean Rooks LAC 03/01/2003 LAC vs. SEA L 21 6 3 5 60.0 0 0 - 0 0 - 1 2 3 3 4 0 2 2 1
+p259
+aVWang Zhi-zhi LAC 03/01/2003 LAC vs. SEA L 10 6 1 3 33.3 0 2 0.0 4 4 100.0 2 0 2 0 0 1 1 0 1
+p260
+aVLamar Odom LAC 03/01/2003 LAC vs. SEA L 40 11 4 11 36.4 1 2 50.0 2 2 100.0 0 5 5 5 0 0 1 6 -6
+p261
+aVAndre Miller LAC 03/01/2003 LAC vs. SEA L 34 15 4 7 57.1 0 0 - 7 8 87.5 2 3 5 5 0 0 0 3 -14
+p262
+aVEric Piatkowski LAC 03/01/2003 LAC vs. SEA L 9 4 2 5 40.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 -2
+p263
+aVMelvin Ely LAC 03/01/2003 LAC vs. SEA L 14 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 1 1 0 1 3 -10
+p264
+aVChris Wilcox LAC 03/01/2003 LAC vs. SEA L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p265
+aVChris Wilcox LAC 02/28/2003 LAC @ POR L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p266
+aVWang Zhi-zhi LAC 02/28/2003 LAC @ POR L 6 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 0 -4
+p267
+aVCorey Maggette LAC 02/28/2003 LAC @ POR L 28 21 6 15 40.0 0 4 0.0 9 10 90.0 0 3 3 1 2 1 4 4 -6
+p268
+aVMarko Jaric LAC 02/28/2003 LAC @ POR L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 2 0 0 2 -1
+p269
+aVMelvin Ely LAC 02/28/2003 LAC @ POR L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 5 7
+p270
+aVQuentin Richardson LAC 02/28/2003 LAC @ POR L 28 17 8 11 72.7 0 2 0.0 1 4 25.0 1 6 7 1 1 0 1 2 -8
+p271
+aVAndre Miller LAC 02/28/2003 LAC @ POR L 45 20 8 12 66.7 0 2 0.0 4 4 100.0 0 1 1 8 0 1 5 2 -6
+p272
+aVLamar Odom LAC 02/28/2003 LAC @ POR L 42 23 10 20 50.0 0 2 0.0 3 4 75.0 2 3 5 2 0 2 2 6 -7
+p273
+aVEric Piatkowski LAC 02/28/2003 LAC @ POR L 15 7 2 3 66.7 0 0 - 3 4 75.0 0 0 0 0 0 0 0 1 -1
+p274
+aVSean Rooks LAC 02/28/2003 LAC @ POR L 20 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -7
+p275
+aVCherokee Parks LAC 02/28/2003 LAC @ POR L 31 9 4 7 57.1 0 0 - 1 2 50.0 4 5 9 1 1 1 1 1 2
+p276
+aVSean Rooks LAC 02/26/2003 LAC vs. GSW L 26 6 1 5 20.0 0 0 - 4 4 100.0 0 3 3 2 1 0 1 4 -6
+p277
+aVQuentin Richardson LAC 02/26/2003 LAC vs. GSW L 20 6 2 11 18.2 0 1 0.0 2 3 66.7 8 1 9 1 0 0 1 2 -11
+p278
+aVMelvin Ely LAC 02/26/2003 LAC vs. GSW L 26 6 3 7 42.9 0 0 - 0 0 - 1 4 5 0 1 3 1 2 -5
+p279
+aVCherokee Parks LAC 02/26/2003 LAC vs. GSW L 16 5 2 5 40.0 1 2 50.0 0 0 - 0 4 4 1 0 1 0 0 -11
+p280
+aVAndre Miller LAC 02/26/2003 LAC vs. GSW L 28 14 4 9 44.4 0 0 - 6 6 100.0 0 2 2 3 0 0 3 3 -11
+p281
+aVLamar Odom LAC 02/26/2003 LAC vs. GSW L 30 16 7 17 41.2 0 2 0.0 2 3 66.7 3 4 7 5 1 0 2 4 -17
+p282
+aVCorey Maggette LAC 02/26/2003 LAC vs. GSW L 33 11 4 15 26.7 0 2 0.0 3 4 75.0 5 4 9 2 1 0 3 0 -11
+p283
+aVMarko Jaric LAC 02/26/2003 LAC vs. GSW L 20 5 1 6 16.7 0 1 0.0 3 4 75.0 0 3 3 2 0 1 2 5 -3
+p284
+aVChris Wilcox LAC 02/26/2003 LAC vs. GSW L 12 8 3 6 50.0 0 0 - 2 4 50.0 1 1 2 1 0 0 1 2 7
+p285
+aVEric Piatkowski LAC 02/26/2003 LAC vs. GSW L 30 17 6 10 60.0 2 4 50.0 3 3 100.0 2 6 8 1 3 0 0 2 -2
+p286
+aVElton Brand LAC 02/25/2003 LAC @ LAL L 40 21 9 11 81.8 0 0 - 3 6 50.0 3 5 8 4 1 4 3 3 -9
+p287
+aVQuentin Richardson LAC 02/25/2003 LAC @ LAL L 18 6 1 4 25.0 0 1 0.0 4 7 57.1 0 1 1 0 1 0 0 0 -1
+p288
+aVMelvin Ely LAC 02/25/2003 LAC @ LAL L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -4
+p289
+aVSean Rooks LAC 02/25/2003 LAC @ LAL L 32 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 2 1 2 6 -9
+p290
+aVCherokee Parks LAC 02/25/2003 LAC @ LAL L 18 8 4 5 80.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 2
+p291
+aVLamar Odom LAC 02/25/2003 LAC @ LAL L 36 15 6 15 40.0 1 2 50.0 2 3 66.7 1 8 9 4 1 0 1 4 -13
+p292
+aVMarko Jaric LAC 02/25/2003 LAC @ LAL L 20 10 4 8 50.0 2 4 50.0 0 0 - 0 2 2 3 0 0 2 2 3
+p293
+aVEric Piatkowski LAC 02/25/2003 LAC @ LAL L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -4
+p294
+aVAndre Miller LAC 02/25/2003 LAC @ LAL L 32 10 2 9 22.2 0 3 0.0 6 7 85.7 3 3 6 6 0 0 1 3 -15
+p295
+aVCorey Maggette LAC 02/25/2003 LAC @ LAL L 36 22 8 14 57.1 1 4 25.0 5 6 83.3 1 3 4 3 1 0 3 1 -5
+p296
+aVMarko Jaric LAC 02/22/2003 LAC vs. ATL L 13 4 1 6 16.7 0 3 0.0 2 2 100.0 0 0 0 1 2 0 1 2 -5
+p297
+aVEric Piatkowski LAC 02/22/2003 LAC vs. ATL L 20 13 6 11 54.5 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 -12
+p298
+aVElton Brand LAC 02/22/2003 LAC vs. ATL L 44 17 7 16 43.8 0 0 - 3 4 75.0 7 5 12 5 1 6 2 2 5
+p299
+aVSean Rooks LAC 02/22/2003 LAC vs. ATL L 14 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 2 4 1
+p300
+aVMelvin Ely LAC 02/22/2003 LAC vs. ATL L 12 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 -8
+p301
+aVCherokee Parks LAC 02/22/2003 LAC vs. ATL L 25 6 3 10 30.0 0 0 - 0 1 0.0 2 4 6 0 0 2 0 1 -1
+p302
+aVQuentin Richardson LAC 02/22/2003 LAC vs. ATL L 33 11 5 16 31.3 1 6 16.7 0 0 - 3 2 5 1 0 0 2 2 9
+p303
+aVLamar Odom LAC 02/22/2003 LAC vs. ATL L 44 15 6 13 46.2 1 4 25.0 2 2 100.0 3 5 8 6 2 0 0 3 -1
+p304
+aVAndre Miller LAC 02/22/2003 LAC vs. ATL L 35 18 8 15 53.3 1 3 33.3 1 2 50.0 0 4 4 9 0 0 1 4 2
+p305
+aVCorey Maggette LAC 02/19/2003 LAC vs. MIL W 33 23 10 20 50.0 0 3 0.0 3 5 60.0 1 3 4 4 1 1 2 3 8
+p306
+aVCherokee Parks LAC 02/19/2003 LAC vs. MIL W 18 8 4 5 80.0 0 0 - 0 0 - 3 5 8 0 0 0 0 1 2
+p307
+aVLamar Odom LAC 02/19/2003 LAC vs. MIL W 29 13 5 13 38.5 1 1 100.0 2 4 50.0 1 4 5 0 1 1 2 2 -1
+p308
+aVElton Brand LAC 02/19/2003 LAC vs. MIL W 37 20 8 17 47.1 0 0 - 4 7 57.1 3 6 9 4 3 1 1 0 5
+p309
+aVEric Piatkowski LAC 02/19/2003 LAC vs. MIL W 24 13 4 7 57.1 1 2 50.0 4 4 100.0 1 0 1 2 1 1 1 2 4
+p310
+aVAndre Miller LAC 02/19/2003 LAC vs. MIL W 37 6 3 6 50.0 0 1 0.0 0 0 - 2 4 6 11 0 0 0 2 7
+p311
+aVMarko Jaric LAC 02/19/2003 LAC vs. MIL W 23 11 3 5 60.0 1 1 100.0 4 4 100.0 1 0 1 6 0 0 1 1 2
+p312
+aVMelvin Ely LAC 02/19/2003 LAC vs. MIL W 23 12 4 8 50.0 0 0 - 4 4 100.0 3 4 7 1 0 1 2 2 1
+p313
+aVSean Rooks LAC 02/19/2003 LAC vs. MIL W 17 4 2 4 50.0 0 0 - 0 0 - 1 6 7 1 0 1 1 1 2
+p314
+aVQuentin Richardson LAC 02/15/2003 LAC vs. BOS L 16 4 2 7 28.6 0 3 0.0 0 0 - 0 2 2 0 2 0 1 3 4
+p315
+aVMarko Jaric LAC 02/15/2003 LAC vs. BOS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p316
+aVLamar Odom LAC 02/15/2003 LAC vs. BOS L 30 5 2 12 16.7 1 6 16.7 0 0 - 0 5 5 6 0 1 5 5 -5
+p317
+aVCherokee Parks LAC 02/15/2003 LAC vs. BOS L 32 14 5 9 55.6 0 0 - 4 5 80.0 0 5 5 0 2 2 1 4 -1
+p318
+aVEric Piatkowski LAC 02/15/2003 LAC vs. BOS L 13 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 2 0 0 0 1 -3
+p319
+aVCorey Maggette LAC 02/15/2003 LAC vs. BOS L 34 20 7 13 53.8 3 6 50.0 3 6 50.0 0 9 9 4 1 1 1 3 -12
+p320
+aVAndre Miller LAC 02/15/2003 LAC vs. BOS L 41 6 3 8 37.5 0 1 0.0 0 0 - 0 3 3 10 2 0 4 2 -7
+p321
+aVChris Wilcox LAC 02/15/2003 LAC vs. BOS L 17 0 0 3 0.0 0 0 - 0 0 - 0 3 3 2 0 1 3 2 -6
+p322
+aVKeyon Dooling LAC 02/15/2003 LAC vs. BOS L 7 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -1
+p323
+aVElton Brand LAC 02/15/2003 LAC vs. BOS L 47 26 12 16 75.0 0 0 - 2 3 66.7 4 8 12 1 0 2 2 2 -8
+p324
+aVMelvin Ely LAC 02/12/2003 LAC vs. WAS L 12 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 1 3 -3
+p325
+aVLamar Odom LAC 02/12/2003 LAC vs. WAS L 34 19 7 13 53.8 3 4 75.0 2 2 100.0 0 6 6 3 2 1 1 4 -4
+p326
+aVEric Piatkowski LAC 02/12/2003 LAC vs. WAS L 19 15 5 7 71.4 1 3 33.3 4 4 100.0 0 1 1 1 1 0 1 2 15
+p327
+aVChris Wilcox LAC 02/12/2003 LAC vs. WAS L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p328
+aVSean Rooks LAC 02/12/2003 LAC vs. WAS L 18 2 1 6 16.7 0 0 - 0 0 - 2 2 4 0 1 0 0 1 -12
+p329
+aVCorey Maggette LAC 02/12/2003 LAC vs. WAS L 34 22 6 13 46.2 1 2 50.0 9 10 90.0 2 0 2 4 0 0 3 4 -17
+p330
+aVQuentin Richardson LAC 02/12/2003 LAC vs. WAS L 28 10 2 7 28.6 1 4 25.0 5 6 83.3 2 4 6 1 0 1 1 3 10
+p331
+aVElton Brand LAC 02/12/2003 LAC vs. WAS L 39 15 5 11 45.5 0 0 - 5 9 55.6 1 3 4 4 2 3 2 3 -9
+p332
+aVKeyon Dooling LAC 02/12/2003 LAC vs. WAS L 10 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 0 7
+p333
+aVAndre Miller LAC 02/12/2003 LAC vs. WAS L 38 15 7 14 50.0 1 2 50.0 0 0 - 1 3 4 11 1 0 0 1 -11
+p334
+aVEric Piatkowski LAC 02/11/2003 LAC @ PHX W 6 1 0 3 0.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 1 0 7
+p335
+aVQuentin Richardson LAC 02/11/2003 LAC @ PHX W 31 20 8 15 53.3 3 6 50.0 1 2 50.0 0 6 6 0 1 0 0 1 17
+p336
+aVAndre Miller LAC 02/11/2003 LAC @ PHX W 41 19 6 10 60.0 0 0 - 7 8 87.5 0 2 2 9 1 0 1 2 2
+p337
+aVLamar Odom LAC 02/11/2003 LAC @ PHX W 41 16 7 9 77.8 1 1 100.0 1 1 100.0 2 5 7 5 3 1 7 1 -8
+p338
+aVCorey Maggette LAC 02/11/2003 LAC @ PHX W 30 9 3 12 25.0 0 2 0.0 3 5 60.0 1 2 3 1 0 0 2 1 -10
+p339
+aVMelvin Ely LAC 02/11/2003 LAC @ PHX W 27 9 2 2 100.0 0 0 - 5 6 83.3 2 3 5 1 0 0 2 2 14
+p340
+aVKeyon Dooling LAC 02/11/2003 LAC @ PHX W 7 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 1 0 1 1 -1
+p341
+aVElton Brand LAC 02/11/2003 LAC @ PHX W 33 29 13 19 68.4 0 0 - 3 3 100.0 8 3 11 0 1 2 2 4 -10
+p342
+aVSean Rooks LAC 02/11/2003 LAC @ PHX W 24 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 4 0 1 2 2 -6
+p343
+aVSean Rooks LAC 02/05/2003 LAC @ DET L 19 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 0 1 1 3 -20
+p344
+aVElton Brand LAC 02/05/2003 LAC @ DET L 32 18 6 12 50.0 0 0 - 6 7 85.7 2 4 6 3 1 2 3 4 -16
+p345
+aVCorey Maggette LAC 02/05/2003 LAC @ DET L 18 6 3 11 27.3 0 2 0.0 0 0 - 1 3 4 0 1 0 1 2 -19
+p346
+aVChris Wilcox LAC 02/05/2003 LAC @ DET L 16 6 3 8 37.5 0 0 - 0 0 - 2 3 5 0 0 0 2 2 7
+p347
+aVAndre Miller LAC 02/05/2003 LAC @ DET L 35 4 2 8 25.0 0 0 - 0 0 - 1 4 5 4 3 0 3 2 -7
+p348
+aVKeyon Dooling LAC 02/05/2003 LAC @ DET L 13 8 3 7 42.9 1 2 50.0 1 1 100.0 0 1 1 2 0 0 3 2 -2
+p349
+aVEric Piatkowski LAC 02/05/2003 LAC @ DET L 23 2 1 2 50.0 0 1 0.0 0 1 0.0 0 4 4 1 1 0 0 0 9
+p350
+aVQuentin Richardson LAC 02/05/2003 LAC @ DET L 30 12 5 12 41.7 2 3 66.7 0 0 - 2 5 7 3 0 0 0 3 10
+p351
+aVLamar Odom LAC 02/05/2003 LAC @ DET L 25 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 0 1 2 2 -18
+p352
+aVMelvin Ely LAC 02/05/2003 LAC @ DET L 29 14 6 8 75.0 0 0 - 2 3 66.7 2 5 7 1 0 0 1 1 11
+p353
+aVAndre Miller LAC 02/04/2003 LAC @ NYK L 24 6 3 6 50.0 0 0 - 0 1 0.0 0 2 2 7 2 0 5 2 -23
+p354
+aVMarko Jaric LAC 02/04/2003 LAC @ NYK L 24 14 5 9 55.6 2 3 66.7 2 3 66.7 0 1 1 3 3 1 2 4 10
+p355
+aVQuentin Richardson LAC 02/04/2003 LAC @ NYK L 29 19 8 16 50.0 0 4 0.0 3 3 100.0 0 4 4 3 1 0 0 2 7
+p356
+aVElton Brand LAC 02/04/2003 LAC @ NYK L 43 16 6 13 46.2 0 0 - 4 6 66.7 6 6 12 3 0 5 4 1 -16
+p357
+aVCorey Maggette LAC 02/04/2003 LAC @ NYK L 22 9 3 5 60.0 0 0 - 3 6 50.0 0 1 1 0 0 1 2 4 -19
+p358
+aVMelvin Ely LAC 02/04/2003 LAC @ NYK L 19 6 1 3 33.3 0 0 - 4 4 100.0 2 3 5 0 0 0 2 2 10
+p359
+aVEric Piatkowski LAC 02/04/2003 LAC @ NYK L 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p360
+aVLamar Odom LAC 02/04/2003 LAC @ NYK L 34 11 3 11 27.3 0 2 0.0 5 5 100.0 1 2 3 4 1 0 3 3 -19
+p361
+aVSean Rooks LAC 02/04/2003 LAC @ NYK L 34 9 4 5 80.0 0 0 - 1 2 50.0 1 5 6 0 1 0 1 1 -20
+p362
+aVKeyon Dooling LAC 02/02/2003 LAC @ TOR L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -2
+p363
+aVSean Rooks LAC 02/02/2003 LAC @ TOR L 29 2 0 6 0.0 0 0 - 2 2 100.0 1 3 4 2 0 0 0 3 -21
+p364
+aVElton Brand LAC 02/02/2003 LAC @ TOR L 37 17 7 17 41.2 0 0 - 3 5 60.0 6 13 19 2 3 2 4 3 -8
+p365
+aVCorey Maggette LAC 02/02/2003 LAC @ TOR L 32 19 7 16 43.8 2 4 50.0 3 4 75.0 0 2 2 2 1 0 2 4 -11
+p366
+aVEric Piatkowski LAC 02/02/2003 LAC @ TOR L 12 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 0 1 2 1
+p367
+aVMelvin Ely LAC 02/02/2003 LAC @ TOR L 24 5 2 4 50.0 0 0 - 1 2 50.0 4 4 8 0 1 1 1 2 2
+p368
+aVMarko Jaric LAC 02/02/2003 LAC @ TOR L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 0 2
+p369
+aVLamar Odom LAC 02/02/2003 LAC @ TOR L 30 19 5 9 55.6 0 1 0.0 9 10 90.0 1 4 5 2 1 1 4 3 -4
+p370
+aVAndre Miller LAC 02/02/2003 LAC @ TOR L 37 14 5 11 45.5 0 0 - 4 4 100.0 3 2 5 3 0 0 2 1 -15
+p371
+aVQuentin Richardson LAC 02/02/2003 LAC @ TOR L 26 3 1 6 16.7 0 2 0.0 1 2 50.0 1 0 1 0 0 1 1 1 -13
+p372
+aVChris Wilcox LAC 02/02/2003 LAC @ TOR L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p373
+aVQuentin Richardson LAC 01/31/2003 LAC vs. PHX L 8 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 1 1 -2
+p374
+aVAndre Miller LAC 01/31/2003 LAC vs. PHX L 40 8 2 9 22.2 0 1 0.0 4 5 80.0 0 3 3 12 0 0 4 4 -4
+p375
+aVKeyon Dooling LAC 01/31/2003 LAC vs. PHX L 9 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 0 0 2 1 -1
+p376
+aVSean Rooks LAC 01/31/2003 LAC vs. PHX L 26 16 8 12 66.7 0 0 - 0 0 - 3 2 5 2 1 0 2 6 -1
+p377
+aVLamar Odom LAC 01/31/2003 LAC vs. PHX L 37 10 3 7 42.9 0 1 0.0 4 6 66.7 0 3 3 4 1 1 5 6 -8
+p378
+aVElton Brand LAC 01/31/2003 LAC vs. PHX L 39 12 4 7 57.1 0 0 - 4 8 50.0 3 7 10 3 1 2 5 6 -5
+p379
+aVCherokee Parks LAC 01/31/2003 LAC vs. PHX L 21 8 3 3 100.0 0 0 - 2 4 50.0 3 3 6 1 1 1 1 1 -7
+p380
+aVWang Zhi-zhi LAC 01/31/2003 LAC vs. PHX L 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 1 2
+p381
+aVCorey Maggette LAC 01/31/2003 LAC vs. PHX L 36 14 5 12 41.7 1 4 25.0 3 4 75.0 2 7 9 0 1 0 2 1 1
+p382
+aVEric Piatkowski LAC 01/31/2003 LAC vs. PHX L 19 15 5 8 62.5 3 5 60.0 2 3 66.7 1 1 2 0 1 0 1 1 -5
+p383
+aVEric Piatkowski LAC 01/29/2003 LAC vs. CHI W 9 3 1 4 25.0 1 4 25.0 0 0 - 1 0 1 1 0 0 0 0 6
+p384
+aVMichael Olowokandi LAC 01/29/2003 LAC vs. CHI W 29 4 2 15 13.3 0 0 - 0 0 - 3 4 7 0 1 3 1 0 -7
+p385
+aVMarko Jaric LAC 01/29/2003 LAC vs. CHI W 17 4 1 5 20.0 0 3 0.0 2 2 100.0 1 3 4 4 1 0 1 2 8
+p386
+aVLamar Odom LAC 01/29/2003 LAC vs. CHI W 20 4 2 7 28.6 0 2 0.0 0 1 0.0 1 5 6 4 0 0 2 3 -8
+p387
+aVCorey Maggette LAC 01/29/2003 LAC vs. CHI W 43 25 7 14 50.0 3 6 50.0 8 9 88.9 3 3 6 3 0 0 2 3 4
+p388
+aVQuentin Richardson LAC 01/29/2003 LAC vs. CHI W 26 6 3 10 30.0 0 2 0.0 0 0 - 1 4 5 0 0 0 2 2 3
+p389
+aVSean Rooks LAC 01/29/2003 LAC vs. CHI W 32 9 2 4 50.0 0 0 - 5 6 83.3 5 7 12 2 1 3 2 4 7
+p390
+aVAndre Miller LAC 01/29/2003 LAC vs. CHI W 32 12 4 16 25.0 0 2 0.0 4 4 100.0 3 2 5 1 4 0 1 2 -6
+p391
+aVElton Brand LAC 01/29/2003 LAC vs. CHI W 32 10 5 12 41.7 0 0 - 0 0 - 3 7 10 3 1 2 3 3 3
+p392
+aVSean Rooks LAC 01/27/2003 LAC @ CLE L 20 2 0 3 0.0 0 0 - 2 2 100.0 1 0 1 1 0 1 2 2 -2
+p393
+aVMarko Jaric LAC 01/27/2003 LAC @ CLE L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 5 2 0 1 2 0
+p394
+aVAndre Miller LAC 01/27/2003 LAC @ CLE L 36 8 2 11 18.2 0 0 - 4 4 100.0 0 1 1 5 2 0 4 4 -4
+p395
+aVQuentin Richardson LAC 01/27/2003 LAC @ CLE L 37 20 7 14 50.0 3 7 42.9 3 4 75.0 3 1 4 4 1 0 2 5 -3
+p396
+aVMichael Olowokandi LAC 01/27/2003 LAC @ CLE L 38 17 7 16 43.8 0 0 - 3 5 60.0 2 7 9 0 0 3 1 4 -5
+p397
+aVElton Brand LAC 01/27/2003 LAC @ CLE L 38 10 4 10 40.0 0 0 - 2 4 50.0 2 9 11 2 1 0 3 5 -1
+p398
+aVEric Piatkowski LAC 01/27/2003 LAC @ CLE L 16 9 3 5 60.0 2 3 66.7 1 1 100.0 1 2 3 1 0 0 0 0 -10
+p399
+aVCorey Maggette LAC 01/27/2003 LAC @ CLE L 43 34 10 23 43.5 3 7 42.9 11 13 84.6 4 7 11 2 2 0 2 5 5
+p400
+aVElton Brand LAC 01/26/2003 LAC @ IND L 42 17 7 16 43.8 0 0 - 3 3 100.0 7 7 14 10 2 1 1 4 -9
+p401
+aVSean Rooks LAC 01/26/2003 LAC @ IND L 29 4 2 5 40.0 0 0 - 0 0 - 0 4 4 2 1 2 0 2 -15
+p402
+aVQuentin Richardson LAC 01/26/2003 LAC @ IND L 21 11 4 11 36.4 2 6 33.3 1 2 50.0 3 4 7 2 0 0 0 2 4
+p403
+aVEric Piatkowski LAC 01/26/2003 LAC @ IND L 19 10 4 9 44.4 2 3 66.7 0 0 - 0 1 1 3 0 0 2 0 9
+p404
+aVLamar Odom LAC 01/26/2003 LAC @ IND L 39 14 6 12 50.0 2 4 50.0 0 0 - 1 4 5 1 1 1 5 2 -18
+p405
+aVMarko Jaric LAC 01/26/2003 LAC @ IND L 16 9 3 4 75.0 2 3 66.7 1 1 100.0 0 3 3 0 2 1 2 3 5
+p406
+aVMelvin Ely LAC 01/26/2003 LAC @ IND L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p407
+aVCorey Maggette LAC 01/26/2003 LAC @ IND L 32 25 11 19 57.9 3 6 50.0 0 0 - 3 3 6 3 1 0 3 2 -2
+p408
+aVAndre Miller LAC 01/26/2003 LAC @ IND L 32 10 1 10 10.0 0 0 - 8 8 100.0 4 1 5 2 2 0 1 2 -12
+p409
+aVWang Zhi-zhi LAC 01/26/2003 LAC @ IND L 8 1 0 3 0.0 0 2 0.0 1 2 50.0 0 0 0 0 0 0 0 0 -4
+p410
+aVMarko Jaric LAC 01/24/2003 LAC @ MIN L 29 19 7 11 63.6 3 5 60.0 2 2 100.0 0 7 7 2 2 0 4 4 0
+p411
+aVSean Rooks LAC 01/24/2003 LAC @ MIN L 37 2 1 5 20.0 0 0 - 0 0 - 1 4 5 3 0 0 2 2 -10
+p412
+aVLamar Odom LAC 01/24/2003 LAC @ MIN L 38 13 6 15 40.0 0 1 0.0 1 1 100.0 0 6 6 3 0 0 7 4 -13
+p413
+aVWang Zhi-zhi LAC 01/24/2003 LAC @ MIN L 12 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 0 2 4 7
+p414
+aVElton Brand LAC 01/24/2003 LAC @ MIN L 47 20 6 14 42.9 0 0 - 8 9 88.9 5 7 12 3 2 4 4 3 -1
+p415
+aVCorey Maggette LAC 01/24/2003 LAC @ MIN L 22 10 4 11 36.4 1 2 50.0 1 2 50.0 1 1 2 3 2 1 3 1 -5
+p416
+aVQuentin Richardson LAC 01/24/2003 LAC @ MIN L 29 15 6 6 100.0 3 3 100.0 0 0 - 0 3 3 2 0 0 1 1 0
+p417
+aVEric Piatkowski LAC 01/24/2003 LAC @ MIN L 8 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 10
+p418
+aVKeyon Dooling LAC 01/24/2003 LAC @ MIN L 19 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 2 1 0 2 3 -3
+p419
+aVLamar Odom LAC 01/22/2003 LAC @ UTA W 43 12 4 12 33.3 0 2 0.0 4 5 80.0 0 5 5 7 0 0 4 3 11
+p420
+aVCorey Maggette LAC 01/22/2003 LAC @ UTA W 35 13 5 11 45.5 0 5 0.0 3 4 75.0 0 9 9 1 0 1 0 1 4
+p421
+aVSean Rooks LAC 01/22/2003 LAC @ UTA W 27 10 5 5 100.0 0 0 - 0 0 - 1 2 3 0 0 2 0 4 -6
+p422
+aVElton Brand LAC 01/22/2003 LAC @ UTA W 41 24 10 19 52.6 0 0 - 4 7 57.1 2 8 10 0 1 2 2 4 2
+p423
+aVAndre Miller LAC 01/22/2003 LAC @ UTA W 37 16 3 8 37.5 0 0 - 10 13 76.9 5 3 8 7 1 0 5 3 5
+p424
+aVKeyon Dooling LAC 01/22/2003 LAC @ UTA W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 3 1 2
+p425
+aVWang Zhi-zhi LAC 01/22/2003 LAC @ UTA W 26 12 3 11 27.3 2 4 50.0 4 4 100.0 3 4 7 0 1 2 0 1 21
+p426
+aVQuentin Richardson LAC 01/22/2003 LAC @ UTA W 19 7 2 5 40.0 2 4 50.0 1 2 50.0 3 4 7 0 0 0 3 2 -4
+p427
+aVMichael Olowokandi LAC 01/20/2003 LAC @ LAL L 26 15 6 14 42.9 0 0 - 3 4 75.0 0 3 3 1 1 0 1 6 -3
+p428
+aVKeyon Dooling LAC 01/20/2003 LAC @ LAL L 16 11 4 8 50.0 2 3 66.7 1 1 100.0 0 0 0 0 1 0 1 0 2
+p429
+aVSean Rooks LAC 01/20/2003 LAC @ LAL L 27 2 0 7 0.0 0 0 - 2 2 100.0 0 3 3 2 2 1 1 3 1
+p430
+aVWang Zhi-zhi LAC 01/20/2003 LAC @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p431
+aVQuentin Richardson LAC 01/20/2003 LAC @ LAL L 21 6 3 9 33.3 0 1 0.0 0 2 0.0 3 1 4 0 1 0 2 2 0
+p432
+aVAndre Miller LAC 01/20/2003 LAC @ LAL L 34 20 8 14 57.1 2 2 100.0 2 2 100.0 2 3 5 1 1 0 4 1 -2
+p433
+aVLamar Odom LAC 01/20/2003 LAC @ LAL L 38 9 4 11 36.4 1 3 33.3 0 1 0.0 3 7 10 6 3 0 1 4 3
+p434
+aVElton Brand LAC 01/20/2003 LAC @ LAL L 40 11 4 11 36.4 0 0 - 3 4 75.0 4 8 12 4 1 0 4 3 -11
+p435
+aVCorey Maggette LAC 01/20/2003 LAC @ LAL L 38 18 6 14 42.9 2 3 66.7 4 5 80.0 1 5 6 2 3 0 3 6 -11
+p436
+aVMarko Jaric LAC 01/18/2003 LAC vs. SAC W 9 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p437
+aVKeyon Dooling LAC 01/18/2003 LAC vs. SAC W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p438
+aVCorey Maggette LAC 01/18/2003 LAC vs. SAC W 36 21 6 12 50.0 3 4 75.0 6 8 75.0 1 3 4 4 0 0 2 5 9
+p439
+aVMichael Olowokandi LAC 01/18/2003 LAC vs. SAC W 39 11 5 13 38.5 0 0 - 1 2 50.0 1 11 12 2 2 1 2 2 -12
+p440
+aVQuentin Richardson LAC 01/18/2003 LAC vs. SAC W 13 8 2 3 66.7 1 1 100.0 3 4 75.0 2 4 6 0 0 1 0 0 13
+p441
+aVElton Brand LAC 01/18/2003 LAC vs. SAC W 46 34 12 16 75.0 0 0 - 10 12 83.3 7 8 15 3 1 2 6 2 8
+p442
+aVAndre Miller LAC 01/18/2003 LAC vs. SAC W 41 14 2 11 18.2 0 2 0.0 10 10 100.0 1 1 2 6 3 0 5 1 9
+p443
+aVSean Rooks LAC 01/18/2003 LAC vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p444
+aVLamar Odom LAC 01/18/2003 LAC vs. SAC W 42 24 7 15 46.7 2 3 66.7 8 10 80.0 3 6 9 4 1 0 3 3 0
+p445
+aVCorey Maggette LAC 01/15/2003 LAC vs. MIN L 36 20 7 16 43.8 2 4 50.0 4 8 50.0 2 5 7 1 1 0 2 3 -23
+p446
+aVSean Rooks LAC 01/15/2003 LAC vs. MIN L 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 0 2 1 -1
+p447
+aVMelvin Ely LAC 01/15/2003 LAC vs. MIN L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p448
+aVQuentin Richardson LAC 01/15/2003 LAC vs. MIN L 19 3 1 8 12.5 0 2 0.0 1 3 33.3 3 3 6 1 0 0 2 0 -18
+p449
+aVMarko Jaric LAC 01/15/2003 LAC vs. MIN L 15 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 3 0 0 1 0 -5
+p450
+aVLamar Odom LAC 01/15/2003 LAC vs. MIN L 30 13 3 13 23.1 1 3 33.3 6 6 100.0 0 9 9 5 0 1 2 3 -14
+p451
+aVMichael Olowokandi LAC 01/15/2003 LAC vs. MIN L 29 4 2 3 66.7 0 0 - 0 0 - 0 7 7 0 0 2 1 1 -21
+p452
+aVKeyon Dooling LAC 01/15/2003 LAC vs. MIN L 21 3 1 6 16.7 0 2 0.0 1 4 25.0 0 0 0 0 0 0 0 1 -12
+p453
+aVChris Wilcox LAC 01/15/2003 LAC vs. MIN L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -9
+p454
+aVElton Brand LAC 01/15/2003 LAC vs. MIN L 36 12 6 14 42.9 0 0 - 0 1 0.0 4 3 7 0 0 2 1 3 -23
+p455
+aVAndre Miller LAC 01/15/2003 LAC vs. MIN L 28 2 1 6 16.7 0 0 - 0 0 - 1 2 3 2 0 1 1 4 -20
+p456
+aVMelvin Ely LAC 01/12/2003 LAC vs. DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p457
+aVCorey Maggette LAC 01/12/2003 LAC vs. DAL L 34 18 7 17 41.2 0 2 0.0 4 4 100.0 4 5 9 4 2 2 1 6 3
+p458
+aVTremaine Fowlkes LAC 01/12/2003 LAC vs. DAL L 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -3
+p459
+aVMichael Olowokandi LAC 01/12/2003 LAC vs. DAL L 41 9 3 6 50.0 0 0 - 3 4 75.0 4 6 10 2 0 0 3 6 4
+p460
+aVSean Rooks LAC 01/12/2003 LAC vs. DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p461
+aVElton Brand LAC 01/12/2003 LAC vs. DAL L 38 19 8 16 50.0 0 0 - 3 6 50.0 5 7 12 2 1 0 0 6 -7
+p462
+aVAndre Miller LAC 01/12/2003 LAC vs. DAL L 48 12 4 14 28.6 0 0 - 4 4 100.0 1 4 5 5 0 1 2 1 -6
+p463
+aVLamar Odom LAC 01/12/2003 LAC vs. DAL L 41 17 8 14 57.1 1 4 25.0 0 2 0.0 2 5 7 3 0 0 3 3 -3
+p464
+aVKeyon Dooling LAC 01/12/2003 LAC vs. DAL L 19 15 6 11 54.5 2 7 28.6 1 1 100.0 0 2 2 1 0 1 1 2 -8
+p465
+aVKeyon Dooling LAC 01/10/2003 LAC @ SEA W 22 9 4 9 44.4 1 3 33.3 0 0 - 0 2 2 0 0 0 1 2 -10
+p466
+aVCorey Maggette LAC 01/10/2003 LAC @ SEA W 36 17 3 8 37.5 0 3 0.0 11 18 61.1 1 5 6 1 0 0 3 5 -3
+p467
+aVTremaine Fowlkes LAC 01/10/2003 LAC @ SEA W 17 6 3 4 75.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 5
+p468
+aVLamar Odom LAC 01/10/2003 LAC @ SEA W 35 21 6 10 60.0 1 3 33.3 8 8 100.0 2 7 9 3 1 2 1 6 12
+p469
+aVElton Brand LAC 01/10/2003 LAC @ SEA W 35 6 2 7 28.6 0 0 - 2 4 50.0 3 5 8 1 1 0 3 3 -1
+p470
+aVMelvin Ely LAC 01/10/2003 LAC @ SEA W 5 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 2 1 2
+p471
+aVAndre Miller LAC 01/10/2003 LAC @ SEA W 47 16 7 20 35.0 0 4 0.0 2 3 66.7 0 10 10 10 0 0 6 4 5
+p472
+aVMichael Olowokandi LAC 01/10/2003 LAC @ SEA W 43 13 4 11 36.4 0 0 - 5 6 83.3 0 8 8 1 0 3 2 5 0
+p473
+aVCorey Maggette LAC 01/08/2003 LAC vs. MEM W 33 16 2 7 28.6 1 2 50.0 11 12 91.7 0 8 8 1 1 0 3 6 14
+p474
+aVElton Brand LAC 01/08/2003 LAC vs. MEM W 44 30 14 22 63.6 0 0 - 2 3 66.7 3 4 7 4 0 1 0 4 11
+p475
+aVWang Zhi-zhi LAC 01/08/2003 LAC vs. MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p476
+aVTremaine Fowlkes LAC 01/08/2003 LAC vs. MEM W 9 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 -3
+p477
+aVMelvin Ely LAC 01/08/2003 LAC vs. MEM W 4 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p478
+aVMichael Olowokandi LAC 01/08/2003 LAC vs. MEM W 36 6 3 8 37.5 0 0 - 0 0 - 2 8 10 1 1 2 1 2 14
+p479
+aVAndre Miller LAC 01/08/2003 LAC vs. MEM W 48 19 8 15 53.3 0 1 0.0 3 5 60.0 0 0 0 14 3 0 0 2 8
+p480
+aVLamar Odom LAC 01/08/2003 LAC vs. MEM W 42 23 11 20 55.0 1 3 33.3 0 1 0.0 0 5 5 5 0 0 3 5 16
+p481
+aVKeyon Dooling LAC 01/08/2003 LAC vs. MEM W 20 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 2 0 0 0 0 -11
+p482
+aVSean Rooks LAC 01/05/2003 LAC vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p483
+aVLamar Odom LAC 01/05/2003 LAC vs. SAS L 43 22 7 18 38.9 1 4 25.0 7 8 87.5 4 7 11 2 2 2 5 5 -2
+p484
+aVMelvin Ely LAC 01/05/2003 LAC vs. SAS L 9 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -5
+p485
+aVCorey Maggette LAC 01/05/2003 LAC vs. SAS L 46 19 5 13 38.5 1 3 33.3 8 8 100.0 1 5 6 0 1 2 1 1 -9
+p486
+aVKeyon Dooling LAC 01/05/2003 LAC vs. SAS L 16 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 3 0 0 1 1 -6
+p487
+aVTremaine Fowlkes LAC 01/05/2003 LAC vs. SAS L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 3 0 0 0 -3
+p488
+aVAndre Miller LAC 01/05/2003 LAC vs. SAS L 32 12 4 14 28.6 1 2 50.0 3 6 50.0 1 2 3 5 0 0 1 4 -2
+p489
+aVElton Brand LAC 01/05/2003 LAC vs. SAS L 41 15 6 16 37.5 0 0 - 3 4 75.0 7 9 16 3 1 0 0 5 -11
+p490
+aVMichael Olowokandi LAC 01/05/2003 LAC vs. SAS L 40 12 5 19 26.3 0 0 - 2 2 100.0 5 4 9 1 0 3 4 6 -1
+p491
+aVElton Brand LAC 01/03/2003 LAC @ MEM L 44 25 10 20 50.0 0 0 - 5 7 71.4 8 6 14 2 2 3 3 4 -4
+p492
+aVMelvin Ely LAC 01/03/2003 LAC @ MEM L 23 7 1 4 25.0 0 0 - 5 6 83.3 1 3 4 0 0 0 0 1 20
+p493
+aVWang Zhi-zhi LAC 01/03/2003 LAC @ MEM L 5 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -13
+p494
+aVLamar Odom LAC 01/03/2003 LAC @ MEM L 39 21 9 16 56.3 0 4 0.0 3 4 75.0 1 7 8 5 1 1 3 5 -11
+p495
+aVAndre Miller LAC 01/03/2003 LAC @ MEM L 39 11 4 12 33.3 1 3 33.3 2 2 100.0 1 2 3 8 3 0 2 1 -4
+p496
+aVChris Wilcox LAC 01/03/2003 LAC @ MEM L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p497
+aVSean Rooks LAC 01/03/2003 LAC @ MEM L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 1 0 0 -13
+p498
+aVCorey Maggette LAC 01/03/2003 LAC @ MEM L 40 34 10 19 52.6 5 8 62.5 9 10 90.0 4 2 6 0 0 0 2 6 14
+p499
+aVKeyon Dooling LAC 01/03/2003 LAC @ MEM L 14 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 1 1 0 2 4 -13
+p500
+aVQuentin Richardson LAC 01/03/2003 LAC @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p501
+aVTremaine Fowlkes LAC 01/03/2003 LAC @ MEM L 21 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 0 0 0 0 2 7
+p502
+aVKeyon Dooling LAC 01/02/2003 LAC @ DAL L 16 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 3 1 0 2 0 0
+p503
+aVChris Wilcox LAC 01/02/2003 LAC @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p504
+aVWang Zhi-zhi LAC 01/02/2003 LAC @ DAL L 9 6 1 1 100.0 1 1 100.0 3 6 50.0 1 2 3 1 0 0 0 0 0
+p505
+aVAndre Miller LAC 01/02/2003 LAC @ DAL L 35 10 5 14 35.7 0 3 0.0 0 0 - 2 0 2 7 1 0 2 6 -7
+p506
+aVCorey Maggette LAC 01/02/2003 LAC @ DAL L 23 17 6 10 60.0 2 3 66.7 3 5 60.0 2 6 8 0 0 0 4 6 5
+p507
+aVElton Brand LAC 01/02/2003 LAC @ DAL L 36 13 5 12 41.7 0 0 - 3 6 50.0 5 8 13 1 0 2 4 6 -8
+p508
+aVQuentin Richardson LAC 01/02/2003 LAC @ DAL L 40 14 3 16 18.8 3 12 25.0 5 6 83.3 1 5 6 1 2 0 2 0 -10
+p509
+aVLamar Odom LAC 01/02/2003 LAC @ DAL L 31 20 7 11 63.6 1 3 33.3 5 6 83.3 0 9 9 2 0 0 2 5 -19
+p510
+aVTremaine Fowlkes LAC 01/02/2003 LAC @ DAL L 13 7 2 3 66.7 0 0 - 3 4 75.0 1 3 4 0 1 0 1 0 -6
+p511
+aVMichael Olowokandi LAC 01/02/2003 LAC @ DAL L 33 3 1 10 10.0 0 0 - 1 1 100.0 3 6 9 1 0 1 2 1 -5
+p512
+aVTremaine Fowlkes LAC 12/31/2002 LAC vs. PHI L 8 2 1 4 25.0 0 0 - 0 2 0.0 0 1 1 0 0 0 1 2 -2
+p513
+aVLamar Odom LAC 12/31/2002 LAC vs. PHI L 32 5 2 10 20.0 0 4 0.0 1 2 50.0 1 9 10 5 0 3 7 3 -11
+p514
+aVQuentin Richardson LAC 12/31/2002 LAC vs. PHI L 32 10 4 14 28.6 0 2 0.0 2 2 100.0 4 3 7 2 3 0 1 2 -8
+p515
+aVCorey Maggette LAC 12/31/2002 LAC vs. PHI L 23 7 3 7 42.9 1 2 50.0 0 0 - 1 3 4 1 1 0 1 1 3
+p516
+aVElton Brand LAC 12/31/2002 LAC vs. PHI L 44 21 8 18 44.4 0 0 - 5 13 38.5 6 7 13 4 0 4 1 3 -4
+p517
+aVKeyon Dooling LAC 12/31/2002 LAC vs. PHI L 13 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 3 -6
+p518
+aVAndre Miller LAC 12/31/2002 LAC vs. PHI L 38 15 4 10 40.0 1 2 50.0 6 7 85.7 0 4 4 7 2 0 5 4 -4
+p519
+aVSean Rooks LAC 12/31/2002 LAC vs. PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 0
+p520
+aVMichael Olowokandi LAC 12/31/2002 LAC vs. PHI L 46 13 6 18 33.3 0 0 - 1 2 50.0 4 8 12 0 1 5 2 4 -8
+p521
+aVElton Brand LAC 12/28/2002 LAC vs. GSW L 42 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 0 3 1 4 -12
+p522
+aVCorey Maggette LAC 12/28/2002 LAC vs. GSW L 30 18 4 11 36.4 1 3 33.3 9 11 81.8 0 4 4 1 0 0 2 6 6
+p523
+aVMichael Olowokandi LAC 12/28/2002 LAC vs. GSW L 45 15 7 13 53.8 0 0 - 1 2 50.0 1 5 6 0 1 5 0 3 -10
+p524
+aVLamar Odom LAC 12/28/2002 LAC vs. GSW L 37 21 7 19 36.8 2 6 33.3 5 9 55.6 3 5 8 2 1 0 3 4 -8
+p525
+aVAndre Miller LAC 12/28/2002 LAC vs. GSW L 44 23 6 13 46.2 0 1 0.0 11 13 84.6 1 5 6 11 2 1 3 5 -3
+p526
+aVTremaine Fowlkes LAC 12/28/2002 LAC vs. GSW L 19 7 2 4 50.0 0 0 - 3 4 75.0 1 2 3 2 0 0 0 1 9
+p527
+aVKeyon Dooling LAC 12/28/2002 LAC vs. GSW L 9 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 2 -1
+p528
+aVQuentin Richardson LAC 12/28/2002 LAC vs. GSW L 13 4 2 8 25.0 0 1 0.0 0 0 - 3 0 3 0 1 0 2 2 -16
+p529
+aVMichael Olowokandi LAC 12/27/2002 LAC @ PHX L 32 6 3 8 37.5 0 0 - 0 0 - 1 7 8 0 0 3 6 0 -21
+p530
+aVQuentin Richardson LAC 12/27/2002 LAC @ PHX L 28 16 7 13 53.8 1 4 25.0 1 2 50.0 5 3 8 0 0 1 0 1 -6
+p531
+aVWang Zhi-zhi LAC 12/27/2002 LAC @ PHX L 13 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 1 0 0 1 3 -10
+p532
+aVMarko Jaric LAC 12/27/2002 LAC @ PHX L 14 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 3 2 0 2 1 -11
+p533
+aVElton Brand LAC 12/27/2002 LAC @ PHX L 32 29 13 18 72.2 0 0 - 3 5 60.0 2 6 8 3 0 3 2 5 -1
+p534
+aVTremaine Fowlkes LAC 12/27/2002 LAC @ PHX L 32 9 3 7 42.9 0 1 0.0 3 4 75.0 3 3 6 4 1 0 3 2 -6
+p535
+aVCorey Maggette LAC 12/27/2002 LAC @ PHX L 18 11 4 8 50.0 0 2 0.0 3 4 75.0 1 2 3 0 1 0 0 1 -4
+p536
+aVKeyon Dooling LAC 12/27/2002 LAC @ PHX L 25 5 1 9 11.1 0 7 0.0 3 3 100.0 0 2 2 2 0 0 1 2 7
+p537
+aVAndre Miller LAC 12/27/2002 LAC @ PHX L 47 12 5 12 41.7 0 0 - 2 6 33.3 0 6 6 10 0 1 0 2 -13
+p538
+aVWang Zhi-zhi LAC 12/21/2002 LAC vs. DEN W 13 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 0 0 1 0 0 0
+p539
+aVSean Rooks LAC 12/21/2002 LAC vs. DEN W 21 9 4 6 66.7 0 0 - 1 2 50.0 1 2 3 1 0 3 3 3 4
+p540
+aVTremaine Fowlkes LAC 12/21/2002 LAC vs. DEN W 46 16 3 10 30.0 0 1 0.0 10 10 100.0 6 3 9 2 1 0 0 3 12
+p541
+aVAndre Miller LAC 12/21/2002 LAC vs. DEN W 33 10 2 6 33.3 0 1 0.0 6 6 100.0 0 1 1 7 1 0 5 1 -6
+p542
+aVChris Wilcox LAC 12/21/2002 LAC vs. DEN W 13 0 0 1 0.0 0 0 - 0 2 0.0 0 4 4 1 0 1 0 3 5
+p543
+aVKeyon Dooling LAC 12/21/2002 LAC vs. DEN W 22 9 2 4 50.0 0 0 - 5 6 83.3 0 2 2 5 0 0 1 3 -1
+p544
+aVMarko Jaric LAC 12/21/2002 LAC vs. DEN W 43 22 7 15 46.7 5 7 71.4 3 4 75.0 1 2 3 2 6 0 5 1 1
+p545
+aVMelvin Ely LAC 12/21/2002 LAC vs. DEN W 5 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 2 3 1
+p546
+aVMichael Olowokandi LAC 12/21/2002 LAC vs. DEN W 43 18 6 11 54.5 0 0 - 6 11 54.5 1 4 5 2 0 3 2 6 -1
+p547
+aVQuentin Richardson LAC 12/20/2002 LAC vs. PHX L 21 6 2 12 16.7 2 6 33.3 0 0 - 2 3 5 1 1 0 0 0 -12
+p548
+aVWang Zhi-zhi LAC 12/20/2002 LAC vs. PHX L 17 16 6 11 54.5 3 4 75.0 1 2 50.0 1 4 5 0 0 1 0 1 9
+p549
+aVKeyon Dooling LAC 12/20/2002 LAC vs. PHX L 29 6 2 7 28.6 1 3 33.3 1 1 100.0 0 0 0 0 1 1 3 1 -4
+p550
+aVMarko Jaric LAC 12/20/2002 LAC vs. PHX L 41 18 7 14 50.0 2 4 50.0 2 2 100.0 1 6 7 9 4 1 7 3 -3
+p551
+aVMichael Olowokandi LAC 12/20/2002 LAC vs. PHX L 28 2 1 5 20.0 0 0 - 0 0 - 0 6 6 4 1 1 2 4 -13
+p552
+aVMelvin Ely LAC 12/20/2002 LAC vs. PHX L 19 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 2 0 2 -5
+p553
+aVAndre Miller LAC 12/20/2002 LAC vs. PHX L 29 10 4 12 33.3 1 5 20.0 1 1 100.0 1 3 4 2 1 0 1 0 -13
+p554
+aVTremaine Fowlkes LAC 12/20/2002 LAC vs. PHX L 29 8 3 8 37.5 1 1 100.0 1 2 50.0 2 3 5 1 1 0 1 1 1
+p555
+aVSean Rooks LAC 12/20/2002 LAC vs. PHX L 7 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -9
+p556
+aVChris Wilcox LAC 12/20/2002 LAC vs. PHX L 20 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 1 0 0 1 3 -6
+p557
+aVElton Brand LAC 12/18/2002 LAC vs. POR L 42 10 5 13 38.5 0 0 - 0 0 - 0 4 4 1 1 3 0 4 -2
+p558
+aVKeyon Dooling LAC 12/18/2002 LAC vs. POR L 18 11 3 5 60.0 1 3 33.3 4 6 66.7 0 1 1 2 1 1 2 2 -7
+p559
+aVQuentin Richardson LAC 12/18/2002 LAC vs. POR L 31 24 8 14 57.1 5 9 55.6 3 4 75.0 1 5 6 2 1 1 2 4 -14
+p560
+aVMichael Olowokandi LAC 12/18/2002 LAC vs. POR L 42 10 5 16 31.3 0 0 - 0 0 - 1 9 10 2 2 1 2 2 0
+p561
+aVAndre Miller LAC 12/18/2002 LAC vs. POR L 44 25 8 13 61.5 1 4 25.0 8 9 88.9 0 3 3 6 1 0 5 3 -1
+p562
+aVTremaine Fowlkes LAC 12/18/2002 LAC vs. POR L 17 8 4 6 66.7 0 1 0.0 0 0 - 2 3 5 1 1 1 0 1 10
+p563
+aVWang Zhi-zhi LAC 12/18/2002 LAC vs. POR L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -2
+p564
+aVMarko Jaric LAC 12/18/2002 LAC vs. POR L 34 5 1 8 12.5 1 6 16.7 2 2 100.0 1 2 3 8 1 0 2 2 0
+p565
+aVMelvin Ely LAC 12/18/2002 LAC vs. POR L 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p566
+aVTremaine Fowlkes LAC 12/16/2002 LAC vs. SAS W 21 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 1 0 0 2 2 2
+p567
+aVQuentin Richardson LAC 12/16/2002 LAC vs. SAS W 27 21 6 8 75.0 2 2 100.0 7 9 77.8 0 2 2 1 0 0 2 1 10
+p568
+aVMarko Jaric LAC 12/16/2002 LAC vs. SAS W 31 8 3 9 33.3 2 4 50.0 0 0 - 0 5 5 7 0 0 4 2 -2
+p569
+aVMichael Olowokandi LAC 12/16/2002 LAC vs. SAS W 39 17 8 12 66.7 0 0 - 1 2 50.0 3 15 18 2 1 4 3 6 11
+p570
+aVElton Brand LAC 12/16/2002 LAC vs. SAS W 43 16 7 13 53.8 0 0 - 2 6 33.3 2 6 8 0 2 3 2 3 13
+p571
+aVWang Zhi-zhi LAC 12/16/2002 LAC vs. SAS W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p572
+aVAndre Miller LAC 12/16/2002 LAC vs. SAS W 41 12 4 8 50.0 1 1 100.0 3 3 100.0 0 2 2 8 2 0 3 3 14
+p573
+aVKeyon Dooling LAC 12/16/2002 LAC vs. SAS W 24 6 2 7 28.6 2 3 66.7 0 0 - 0 1 1 0 0 1 3 0 12
+p574
+aVMelvin Ely LAC 12/16/2002 LAC vs. SAS W 11 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 0
+p575
+aVMarko Jaric LAC 12/14/2002 LAC @ HOU W 36 13 6 14 42.9 1 6 16.7 0 0 - 1 1 2 8 2 0 0 2 10
+p576
+aVChris Wilcox LAC 12/14/2002 LAC @ HOU W 2 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -3
+p577
+aVQuentin Richardson LAC 12/14/2002 LAC @ HOU W 23 8 3 8 37.5 1 2 50.0 1 2 50.0 1 5 6 0 0 0 1 0 1
+p578
+aVElton Brand LAC 12/14/2002 LAC @ HOU W 46 27 12 21 57.1 0 0 - 3 4 75.0 7 9 16 2 2 4 2 5 14
+p579
+aVMichael Olowokandi LAC 12/14/2002 LAC @ HOU W 37 7 3 11 27.3 0 0 - 1 2 50.0 1 9 10 1 2 2 1 4 10
+p580
+aVAndre Miller LAC 12/14/2002 LAC @ HOU W 43 27 10 15 66.7 0 0 - 7 8 87.5 0 0 0 6 0 0 5 4 15
+p581
+aVTremaine Fowlkes LAC 12/14/2002 LAC @ HOU W 34 4 2 6 33.3 0 1 0.0 0 0 - 5 4 9 0 2 0 2 3 9
+p582
+aVKeyon Dooling LAC 12/14/2002 LAC @ HOU W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -2
+p583
+aVWang Zhi-zhi LAC 12/14/2002 LAC @ HOU W 11 8 3 4 75.0 1 2 50.0 1 2 50.0 0 1 1 0 0 0 2 2 1
+p584
+aVMichael Olowokandi LAC 12/13/2002 LAC @ SAS L 43 20 9 18 50.0 0 0 - 2 2 100.0 3 8 11 1 0 1 6 1 -18
+p585
+aVMarko Jaric LAC 12/13/2002 LAC @ SAS L 23 6 2 6 33.3 0 4 0.0 2 2 100.0 2 3 5 1 0 0 1 2 -20
+p586
+aVMelvin Ely LAC 12/13/2002 LAC @ SAS L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 0 4
+p587
+aVQuentin Richardson LAC 12/13/2002 LAC @ SAS L 35 19 6 14 42.9 2 4 50.0 5 8 62.5 4 3 7 2 0 0 0 1 -1
+p588
+aVTremaine Fowlkes LAC 12/13/2002 LAC @ SAS L 26 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 1 0 1 3 -8
+p589
+aVElton Brand LAC 12/13/2002 LAC @ SAS L 41 16 5 14 35.7 0 0 - 6 9 66.7 8 6 14 2 1 2 1 3 -10
+p590
+aVSean Rooks LAC 12/13/2002 LAC @ SAS L 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -6
+p591
+aVAndre Miller LAC 12/13/2002 LAC @ SAS L 29 7 3 13 23.1 0 1 0.0 1 1 100.0 1 2 3 6 1 0 3 4 -10
+p592
+aVKeyon Dooling LAC 12/13/2002 LAC @ SAS L 31 7 3 10 30.0 1 3 33.3 0 0 - 0 1 1 3 1 0 2 1 0
+p593
+aVChris Wilcox LAC 12/13/2002 LAC @ SAS L 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p594
+aVChris Wilcox LAC 12/10/2002 LAC @ DAL L 15 10 4 5 80.0 0 0 - 2 4 50.0 1 2 3 0 1 0 0 0 3
+p595
+aVMelvin Ely LAC 12/10/2002 LAC @ DAL L 15 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -11
+p596
+aVEric Piatkowski LAC 12/10/2002 LAC @ DAL L 7 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p597
+aVKeyon Dooling LAC 12/10/2002 LAC @ DAL L 25 9 4 10 40.0 1 5 20.0 0 0 - 0 2 2 4 1 1 1 0 -15
+p598
+aVAndre Miller LAC 12/10/2002 LAC @ DAL L 31 9 4 11 36.4 0 0 - 1 3 33.3 3 0 3 2 0 0 2 0 -26
+p599
+aVWang Zhi-zhi LAC 12/10/2002 LAC @ DAL L 19 9 3 7 42.9 1 1 100.0 2 3 66.7 0 3 3 1 0 1 0 3 -10
+p600
+aVTremaine Fowlkes LAC 12/10/2002 LAC @ DAL L 13 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 0 4 -9
+p601
+aVMarko Jaric LAC 12/10/2002 LAC @ DAL L 38 6 3 11 27.3 0 5 0.0 0 0 - 2 2 4 8 2 1 2 4 -15
+p602
+aVQuentin Richardson LAC 12/10/2002 LAC @ DAL L 34 16 5 14 35.7 2 6 33.3 4 4 100.0 3 7 10 0 0 0 2 2 -18
+p603
+aVSean Rooks LAC 12/10/2002 LAC @ DAL L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 4 -6
+p604
+aVCherokee Parks LAC 12/10/2002 LAC @ DAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p605
+aVElton Brand LAC 12/10/2002 LAC @ DAL L 30 20 6 16 37.5 0 0 - 8 8 100.0 3 7 10 0 2 1 4 3 -24
+p606
+aVQuentin Richardson LAC 12/09/2002 LAC @ NOH W 33 16 4 8 50.0 0 2 0.0 8 9 88.9 3 5 8 0 0 0 4 2 5
+p607
+aVCherokee Parks LAC 12/09/2002 LAC @ NOH W 14 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 1 -7
+p608
+aVMelvin Ely LAC 12/09/2002 LAC @ NOH W 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 4 2 -9
+p609
+aVKeyon Dooling LAC 12/09/2002 LAC @ NOH W 13 7 3 4 75.0 1 2 50.0 0 0 - 0 0 0 3 0 0 2 0 3
+p610
+aVElton Brand LAC 12/09/2002 LAC @ NOH W 46 29 12 22 54.5 0 0 - 5 6 83.3 3 4 7 2 3 1 4 2 1
+p611
+aVTremaine Fowlkes LAC 12/09/2002 LAC @ NOH W 30 6 2 6 33.3 0 0 - 2 2 100.0 1 6 7 0 4 0 2 4 5
+p612
+aVAndre Miller LAC 12/09/2002 LAC @ NOH W 35 18 4 15 26.7 0 1 0.0 10 10 100.0 1 6 7 8 0 0 3 3 1
+p613
+aVEric Piatkowski LAC 12/09/2002 LAC @ NOH W 15 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 2 -1
+p614
+aVSean Rooks LAC 12/09/2002 LAC @ NOH W 22 4 2 4 50.0 0 1 0.0 0 0 - 1 8 9 1 1 2 2 4 18
+p615
+aVMarko Jaric LAC 12/09/2002 LAC @ NOH W 23 4 2 4 50.0 0 1 0.0 0 2 0.0 2 0 2 4 3 0 1 0 4
+p616
+aVSean Rooks LAC 12/07/2002 LAC vs. MIN W 18 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 1 0 1 1 -6
+p617
+aVCherokee Parks LAC 12/07/2002 LAC vs. MIN W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p618
+aVMelvin Ely LAC 12/07/2002 LAC vs. MIN W 22 5 2 5 40.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 2 11
+p619
+aVEric Piatkowski LAC 12/07/2002 LAC vs. MIN W 40 19 5 13 38.5 4 9 44.4 5 6 83.3 0 5 5 3 0 0 1 2 22
+p620
+aVMarko Jaric LAC 12/07/2002 LAC vs. MIN W 25 14 6 14 42.9 1 4 25.0 1 1 100.0 2 1 3 2 2 0 1 3 0
+p621
+aVTremaine Fowlkes LAC 12/07/2002 LAC vs. MIN W 28 15 6 11 54.5 1 2 50.0 2 2 100.0 1 3 4 1 1 0 0 4 24
+p622
+aVKeyon Dooling LAC 12/07/2002 LAC vs. MIN W 13 9 3 7 42.9 0 1 0.0 3 3 100.0 1 1 2 1 0 0 1 0 -2
+p623
+aVElton Brand LAC 12/07/2002 LAC vs. MIN W 45 26 11 20 55.0 0 0 - 4 6 66.7 7 10 17 5 0 3 0 2 21
+p624
+aVQuentin Richardson LAC 12/07/2002 LAC vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -9
+p625
+aVAndre Miller LAC 12/07/2002 LAC vs. MIN W 37 10 3 10 30.0 1 2 50.0 3 4 75.0 0 1 1 9 2 0 5 3 21
+p626
+aVQuentin Richardson LAC 12/04/2002 LAC vs. MIA W 28 8 3 12 25.0 0 3 0.0 2 2 100.0 4 8 12 2 1 0 2 3 0
+p627
+aVMarko Jaric LAC 12/04/2002 LAC vs. MIA W 32 5 2 7 28.6 1 2 50.0 0 0 - 1 4 5 2 1 0 0 4 4
+p628
+aVEric Piatkowski LAC 12/04/2002 LAC vs. MIA W 28 18 6 13 46.2 2 7 28.6 4 6 66.7 2 2 4 0 1 0 0 1 15
+p629
+aVAndre Miller LAC 12/04/2002 LAC vs. MIA W 32 13 4 9 44.4 0 2 0.0 5 6 83.3 0 5 5 7 1 0 3 1 10
+p630
+aVSean Rooks LAC 12/04/2002 LAC vs. MIA W 26 6 3 7 42.9 0 0 - 0 0 - 2 0 2 1 0 0 1 4 10
+p631
+aVKeyon Dooling LAC 12/04/2002 LAC vs. MIA W 23 7 1 6 16.7 0 2 0.0 5 6 83.3 0 0 0 2 0 0 1 1 -2
+p632
+aVMelvin Ely LAC 12/04/2002 LAC vs. MIA W 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 4
+p633
+aVCherokee Parks LAC 12/04/2002 LAC vs. MIA W 6 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 1 0 1 0 1 -5
+p634
+aVChris Wilcox LAC 12/04/2002 LAC vs. MIA W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p635
+aVElton Brand LAC 12/04/2002 LAC vs. MIA W 44 25 9 15 60.0 0 0 - 7 8 87.5 2 11 13 0 0 5 6 2 8
+p636
+aVWang Zhi-zhi LAC 12/04/2002 LAC vs. MIA W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 3
+p637
+aVCherokee Parks LAC 12/01/2002 LAC vs. IND L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 1 1 1
+p638
+aVSean Rooks LAC 12/01/2002 LAC vs. IND L 33 4 1 4 25.0 0 0 - 2 4 50.0 2 5 7 2 2 2 1 5 -6
+p639
+aVEric Piatkowski LAC 12/01/2002 LAC vs. IND L 34 9 3 6 50.0 1 4 25.0 2 2 100.0 1 2 3 3 0 0 0 3 -10
+p640
+aVQuentin Richardson LAC 12/01/2002 LAC vs. IND L 35 12 6 13 46.2 0 4 0.0 0 0 - 2 4 6 1 1 1 2 3 3
+p641
+aVMelvin Ely LAC 12/01/2002 LAC vs. IND L 16 6 1 8 12.5 0 0 - 4 4 100.0 1 5 6 0 0 1 1 1 -3
+p642
+aVKeyon Dooling LAC 12/01/2002 LAC vs. IND L 31 9 3 11 27.3 2 5 40.0 1 2 50.0 0 4 4 3 2 0 1 2 -6
+p643
+aVElton Brand LAC 12/01/2002 LAC vs. IND L 40 20 5 17 29.4 0 1 0.0 10 10 100.0 4 8 12 3 1 4 4 4 -2
+p644
+aVTremaine Fowlkes LAC 12/01/2002 LAC vs. IND L 6 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 2
+p645
+aVMarko Jaric LAC 12/01/2002 LAC vs. IND L 38 25 8 16 50.0 1 5 20.0 8 8 100.0 0 2 2 2 2 0 4 3 -4
+p646
+aVMelvin Ely LAC 11/29/2002 LAC @ SAC L 10 7 1 2 50.0 0 0 - 5 6 83.3 0 2 2 0 0 0 1 1 8
+p647
+aVElton Brand LAC 11/29/2002 LAC @ SAC L 34 25 10 18 55.6 0 0 - 5 5 100.0 6 6 12 1 0 2 5 2 -19
+p648
+aVQuentin Richardson LAC 11/29/2002 LAC @ SAC L 20 5 2 8 25.0 0 2 0.0 1 2 50.0 3 2 5 0 0 0 0 1 -14
+p649
+aVEric Piatkowski LAC 11/29/2002 LAC @ SAC L 25 11 4 10 40.0 2 5 40.0 1 1 100.0 1 3 4 2 3 0 2 4 0
+p650
+aVKeyon Dooling LAC 11/29/2002 LAC @ SAC L 27 4 2 8 25.0 0 4 0.0 0 0 - 0 2 2 3 0 0 0 3 -9
+p651
+aVAndre Miller LAC 11/29/2002 LAC @ SAC L 36 13 3 14 21.4 0 2 0.0 7 8 87.5 3 1 4 11 2 0 3 0 -22
+p652
+aVMarko Jaric LAC 11/29/2002 LAC @ SAC L 35 19 8 15 53.3 1 3 33.3 2 2 100.0 1 3 4 1 4 1 1 3 6
+p653
+aVChris Wilcox LAC 11/29/2002 LAC @ SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 8
+p654
+aVCherokee Parks LAC 11/29/2002 LAC @ SAC L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p655
+aVMichael Olowokandi LAC 11/29/2002 LAC @ SAC L 25 6 3 7 42.9 0 0 - 0 0 - 1 6 7 1 0 1 5 4 -20
+p656
+aVSean Rooks LAC 11/29/2002 LAC @ SAC L 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 0 1 2 -1
+p657
+aVEric Piatkowski LAC 11/28/2002 LAC vs. NJN W 31 17 5 9 55.6 3 6 50.0 4 4 100.0 0 2 2 3 1 0 1 2 -4
+p658
+aVKeyon Dooling LAC 11/28/2002 LAC vs. NJN W 31 12 4 8 50.0 4 5 80.0 0 0 - 0 3 3 1 0 0 0 4 8
+p659
+aVCherokee Parks LAC 11/28/2002 LAC vs. NJN W 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -7
+p660
+aVElton Brand LAC 11/28/2002 LAC vs. NJN W 44 21 8 14 57.1 0 0 - 5 7 71.4 2 6 8 3 2 4 1 4 11
+p661
+aVQuentin Richardson LAC 11/28/2002 LAC vs. NJN W 26 14 6 14 42.9 0 4 0.0 2 2 100.0 3 5 8 0 0 0 0 0 13
+p662
+aVMarko Jaric LAC 11/28/2002 LAC vs. NJN W 24 9 3 6 50.0 2 5 40.0 1 2 50.0 0 2 2 3 1 0 1 1 -2
+p663
+aVMichael Olowokandi LAC 11/28/2002 LAC vs. NJN W 43 14 5 12 41.7 0 0 - 4 4 100.0 1 8 9 2 0 5 2 2 11
+p664
+aVAndre Miller LAC 11/28/2002 LAC vs. NJN W 48 37 14 24 58.3 2 5 40.0 7 7 100.0 2 1 3 16 2 0 1 4 11
+p665
+aVMelvin Ely LAC 11/28/2002 LAC vs. NJN W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -1
+p666
+aVWang Zhi-zhi LAC 11/26/2002 LAC vs. UTA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p667
+aVQuentin Richardson LAC 11/26/2002 LAC vs. UTA L 19 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 2 0 0 0 4 -2
+p668
+aVSean Rooks LAC 11/26/2002 LAC vs. UTA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p669
+aVKeyon Dooling LAC 11/26/2002 LAC vs. UTA L 19 12 5 10 50.0 2 6 33.3 0 2 0.0 0 2 2 0 1 0 2 5 -4
+p670
+aVEric Piatkowski LAC 11/26/2002 LAC vs. UTA L 34 17 8 13 61.5 1 5 20.0 0 0 - 2 2 4 3 1 1 1 2 -4
+p671
+aVElton Brand LAC 11/26/2002 LAC vs. UTA L 46 19 5 12 41.7 0 0 - 9 12 75.0 4 7 11 3 2 6 3 3 -7
+p672
+aVChris Wilcox LAC 11/26/2002 LAC vs. UTA L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p673
+aVMichael Olowokandi LAC 11/26/2002 LAC vs. UTA L 40 11 4 12 33.3 0 0 - 3 6 50.0 1 5 6 2 0 0 5 3 4
+p674
+aVMarko Jaric LAC 11/26/2002 LAC vs. UTA L 34 14 4 9 44.4 2 6 33.3 4 4 100.0 1 2 3 2 4 0 1 0 -3
+p675
+aVAndre Miller LAC 11/26/2002 LAC vs. UTA L 36 21 8 12 66.7 0 1 0.0 5 8 62.5 0 4 4 9 7 0 4 4 -2
+p676
+aVElton Brand LAC 11/24/2002 LAC vs. HOU W 46 26 9 14 64.3 0 0 - 8 9 88.9 4 11 15 0 0 3 8 5 1
+p677
+aVAndre Miller LAC 11/24/2002 LAC vs. HOU W 42 15 6 13 46.2 0 2 0.0 3 5 60.0 0 5 5 8 1 0 4 2 2
+p678
+aVKeyon Dooling LAC 11/24/2002 LAC vs. HOU W 23 18 8 10 80.0 2 2 100.0 0 1 0.0 0 2 2 1 0 0 0 3 -4
+p679
+aVCorey Maggette LAC 11/24/2002 LAC vs. HOU W 30 2 0 8 0.0 0 1 0.0 2 3 66.7 1 2 3 2 0 1 3 4 -3
+p680
+aVWang Zhi-zhi LAC 11/24/2002 LAC vs. HOU W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 2 2 4
+p681
+aVSean Rooks LAC 11/24/2002 LAC vs. HOU W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -7
+p682
+aVMichael Olowokandi LAC 11/24/2002 LAC vs. HOU W 29 10 3 6 50.0 0 0 - 4 6 66.7 1 3 4 2 0 0 2 4 4
+p683
+aVEric Piatkowski LAC 11/24/2002 LAC vs. HOU W 32 14 5 11 45.5 0 4 0.0 4 4 100.0 0 3 3 4 1 0 0 1 11
+p684
+aVQuentin Richardson LAC 11/24/2002 LAC vs. HOU W 16 3 1 5 20.0 1 3 33.3 0 0 - 1 2 3 0 0 0 3 2 -3
+p685
+aVChris Wilcox LAC 11/22/2002 LAC @ DEN L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -2
+p686
+aVMichael Olowokandi LAC 11/22/2002 LAC @ DEN L 43 12 6 10 60.0 0 0 - 0 2 0.0 1 7 8 1 1 1 1 2 -3
+p687
+aVSean Rooks LAC 11/22/2002 LAC @ DEN L 6 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 2 0 0 3 1
+p688
+aVKeyon Dooling LAC 11/22/2002 LAC @ DEN L 8 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -8
+p689
+aVCorey Maggette LAC 11/22/2002 LAC @ DEN L 34 8 3 11 27.3 0 1 0.0 2 2 100.0 0 6 6 4 1 0 2 3 -4
+p690
+aVMarko Jaric LAC 11/22/2002 LAC @ DEN L 19 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 2 2 0 2 2 4
+p691
+aVAndre Miller LAC 11/22/2002 LAC @ DEN L 40 25 8 14 57.1 0 3 0.0 9 11 81.8 0 5 5 5 3 0 5 4 6
+p692
+aVElton Brand LAC 11/22/2002 LAC @ DEN L 42 11 4 9 44.4 0 0 - 3 4 75.0 3 3 6 3 2 1 6 5 0
+p693
+aVQuentin Richardson LAC 11/22/2002 LAC @ DEN L 18 0 0 5 0.0 0 3 0.0 0 0 - 1 2 3 0 0 0 1 1 -2
+p694
+aVEric Piatkowski LAC 11/22/2002 LAC @ DEN L 25 6 2 3 66.7 0 0 - 2 2 100.0 1 3 4 2 1 1 3 2 -2
+p695
+aVEric Piatkowski LAC 11/20/2002 LAC vs. SAC L 27 1 0 4 0.0 0 1 0.0 1 1 100.0 1 1 2 2 1 0 1 1 -6
+p696
+aVWang Zhi-zhi LAC 11/20/2002 LAC vs. SAC L 12 6 2 6 33.3 1 4 25.0 1 2 50.0 0 0 0 0 0 0 2 1 0
+p697
+aVTremaine Fowlkes LAC 11/20/2002 LAC vs. SAC L 7 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 0 1 11
+p698
+aVAndre Miller LAC 11/20/2002 LAC vs. SAC L 33 11 5 10 50.0 0 1 0.0 1 4 25.0 1 5 6 7 2 0 6 3 -3
+p699
+aVElton Brand LAC 11/20/2002 LAC vs. SAC L 41 21 8 15 53.3 0 0 - 5 5 100.0 2 8 10 5 2 4 1 3 -3
+p700
+aVMichael Olowokandi LAC 11/20/2002 LAC vs. SAC L 43 8 4 14 28.6 0 0 - 0 0 - 1 11 12 2 0 5 1 3 -3
+p701
+aVMarko Jaric LAC 11/20/2002 LAC vs. SAC L 21 3 1 7 14.3 1 4 25.0 0 0 - 0 2 2 4 1 0 2 2 0
+p702
+aVCorey Maggette LAC 11/20/2002 LAC vs. SAC L 39 30 11 17 64.7 2 5 40.0 6 7 85.7 2 4 6 3 2 0 3 2 -12
+p703
+aVKeyon Dooling LAC 11/20/2002 LAC vs. SAC L 18 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 4 0 0 0 1 -4
+p704
+aVEric Piatkowski LAC 11/18/2002 LAC @ GSW W 37 14 5 11 45.5 1 3 33.3 3 4 75.0 1 6 7 4 1 0 1 2 15
+p705
+aVKeyon Dooling LAC 11/18/2002 LAC @ GSW W 18 9 3 8 37.5 1 1 100.0 2 2 100.0 0 2 2 3 3 0 0 2 -1
+p706
+aVTremaine Fowlkes LAC 11/18/2002 LAC @ GSW W 12 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 4 5
+p707
+aVAndre Miller LAC 11/18/2002 LAC @ GSW W 35 9 2 7 28.6 0 0 - 5 6 83.3 1 1 2 8 1 1 3 6 5
+p708
+aVMarko Jaric LAC 11/18/2002 LAC @ GSW W 10 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 4
+p709
+aVElton Brand LAC 11/18/2002 LAC @ GSW W 38 17 6 15 40.0 0 0 - 5 6 83.3 4 7 11 3 0 5 4 5 3
+p710
+aVSean Rooks LAC 11/18/2002 LAC @ GSW W 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -2
+p711
+aVCorey Maggette LAC 11/18/2002 LAC @ GSW W 37 16 6 12 50.0 1 1 100.0 3 5 60.0 0 3 3 2 1 0 4 3 9
+p712
+aVMichael Olowokandi LAC 11/18/2002 LAC @ GSW W 45 24 11 19 57.9 0 0 - 2 2 100.0 2 10 12 4 1 0 2 3 12
+p713
+aVMichael Olowokandi LAC 11/17/2002 LAC vs. SEA L 38 8 2 5 40.0 0 0 - 4 5 80.0 2 11 13 1 0 1 6 4 -5
+p714
+aVEric Piatkowski LAC 11/17/2002 LAC vs. SEA L 38 17 7 13 53.8 3 6 50.0 0 0 - 0 4 4 1 1 0 1 4 3
+p715
+aVSean Rooks LAC 11/17/2002 LAC vs. SEA L 13 6 3 3 100.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -2
+p716
+aVChris Wilcox LAC 11/17/2002 LAC vs. SEA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p717
+aVAndre Miller LAC 11/17/2002 LAC vs. SEA L 46 12 4 19 21.1 1 4 25.0 3 7 42.9 2 7 9 6 1 0 4 3 -5
+p718
+aVCorey Maggette LAC 11/17/2002 LAC vs. SEA L 34 12 6 16 37.5 0 1 0.0 0 1 0.0 1 6 7 4 1 0 5 4 -1
+p719
+aVKeyon Dooling LAC 11/17/2002 LAC vs. SEA L 10 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 1 1 0 0 4 -9
+p720
+aVElton Brand LAC 11/17/2002 LAC vs. SEA L 44 19 7 16 43.8 0 0 - 5 7 71.4 9 7 16 4 0 4 3 4 -9
+p721
+aVMarko Jaric LAC 11/17/2002 LAC vs. SEA L 17 4 1 5 20.0 0 2 0.0 2 4 50.0 0 3 3 4 0 0 0 2 -6
+p722
+aVSean Rooks LAC 11/15/2002 LAC @ POR L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 0 0 2 1 -9
+p723
+aVWang Zhi-zhi LAC 11/15/2002 LAC @ POR L 9 8 2 5 40.0 2 3 66.7 2 2 100.0 2 0 2 0 0 0 2 0 8
+p724
+aVEric Piatkowski LAC 11/15/2002 LAC @ POR L 21 8 3 7 42.9 2 5 40.0 0 0 - 1 0 1 0 1 0 3 1 -10
+p725
+aVKeyon Dooling LAC 11/15/2002 LAC @ POR L 28 5 2 7 28.6 1 4 25.0 0 1 0.0 0 1 1 3 0 0 1 4 -8
+p726
+aVElton Brand LAC 11/15/2002 LAC @ POR L 30 10 3 9 33.3 0 0 - 4 7 57.1 8 2 10 3 4 3 2 3 -29
+p727
+aVTremaine Fowlkes LAC 11/15/2002 LAC @ POR L 12 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 2 0 0 0 2 3
+p728
+aVAndre Miller LAC 11/15/2002 LAC @ POR L 31 19 6 9 66.7 1 3 33.3 6 10 60.0 0 1 1 1 0 0 1 4 -22
+p729
+aVCorey Maggette LAC 11/15/2002 LAC @ POR L 24 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 1 2 0 2 4 -34
+p730
+aVMarko Jaric LAC 11/15/2002 LAC @ POR L 29 12 4 9 44.4 1 2 50.0 3 3 100.0 0 1 1 5 5 0 3 2 -1
+p731
+aVChris Wilcox LAC 11/15/2002 LAC @ POR L 11 8 4 4 100.0 0 0 - 0 0 - 1 1 2 1 1 0 0 0 9
+p732
+aVMichael Olowokandi LAC 11/15/2002 LAC @ POR L 34 9 3 10 30.0 0 0 - 3 6 50.0 0 5 5 1 0 2 5 2 -27
+p733
+aVAndre Miller LAC 11/14/2002 LAC vs. ORL L 34 8 4 8 50.0 0 0 - 0 1 0.0 0 4 4 7 2 0 7 1 -11
+p734
+aVMichael Olowokandi LAC 11/14/2002 LAC vs. ORL L 33 16 6 17 35.3 0 0 - 4 4 100.0 0 6 6 1 0 1 3 2 -15
+p735
+aVElton Brand LAC 11/14/2002 LAC vs. ORL L 36 10 4 9 44.4 0 0 - 2 6 33.3 3 9 12 2 2 7 1 3 -20
+p736
+aVChris Wilcox LAC 11/14/2002 LAC vs. ORL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -8
+p737
+aVWang Zhi-zhi LAC 11/14/2002 LAC vs. ORL L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -4
+p738
+aVEric Piatkowski LAC 11/14/2002 LAC vs. ORL L 30 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 1 0 0 3 -21
+p739
+aVMarko Jaric LAC 11/14/2002 LAC vs. ORL L 27 9 3 8 37.5 1 3 33.3 2 2 100.0 0 2 2 1 0 0 1 2 -4
+p740
+aVTremaine Fowlkes LAC 11/14/2002 LAC vs. ORL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p741
+aVKeyon Dooling LAC 11/14/2002 LAC vs. ORL L 27 12 3 13 23.1 2 8 25.0 4 4 100.0 0 1 1 0 0 0 3 2 -1
+p742
+aVCorey Maggette LAC 11/14/2002 LAC vs. ORL L 31 16 5 11 45.5 0 2 0.0 6 7 85.7 1 1 2 0 2 1 3 3 -18
+p743
+aVSean Rooks LAC 11/14/2002 LAC vs. ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p744
+aVEric Piatkowski LAC 11/12/2002 LAC @ MIA W 34 13 5 9 55.6 2 4 50.0 1 1 100.0 1 5 6 0 1 0 1 2 7
+p745
+aVSean Rooks LAC 11/12/2002 LAC @ MIA W 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -7
+p746
+aVCorey Maggette LAC 11/12/2002 LAC @ MIA W 42 19 6 12 50.0 1 6 16.7 6 7 85.7 1 7 8 2 1 1 2 4 31
+p747
+aVElton Brand LAC 11/12/2002 LAC @ MIA W 47 25 12 17 70.6 0 0 - 1 4 25.0 7 13 20 2 1 1 2 4 23
+p748
+aVKeyon Dooling LAC 11/12/2002 LAC @ MIA W 19 3 1 4 25.0 1 1 100.0 0 0 - 0 0 0 6 0 0 1 0 4
+p749
+aVMichael Olowokandi LAC 11/12/2002 LAC @ MIA W 45 19 7 12 58.3 0 0 - 5 7 71.4 0 4 4 2 1 3 4 3 22
+p750
+aVMarko Jaric LAC 11/12/2002 LAC @ MIA W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p751
+aVAndre Miller LAC 11/12/2002 LAC @ MIA W 41 22 4 12 33.3 0 2 0.0 14 15 93.3 0 6 6 8 1 0 0 2 27
+p752
+aVSean Rooks LAC 11/10/2002 LAC @ ORL W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 4 -1
+p753
+aVMichael Olowokandi LAC 11/10/2002 LAC @ ORL W 36 21 10 14 71.4 0 0 - 1 2 50.0 2 8 10 3 0 1 5 2 -8
+p754
+aVAndre Miller LAC 11/10/2002 LAC @ ORL W 41 29 9 20 45.0 0 2 0.0 11 13 84.6 1 4 5 7 1 1 2 3 5
+p755
+aVMarko Jaric LAC 11/10/2002 LAC @ ORL W 25 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 3 7
+p756
+aVCorey Maggette LAC 11/10/2002 LAC @ ORL W 27 19 6 10 60.0 1 2 50.0 6 7 85.7 1 5 6 2 1 0 4 4 -1
+p757
+aVElton Brand LAC 11/10/2002 LAC @ ORL W 39 16 6 11 54.5 0 0 - 4 6 66.7 5 7 12 4 1 2 3 3 13
+p758
+aVKeyon Dooling LAC 11/10/2002 LAC @ ORL W 26 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 1 1 0 0 3 -2
+p759
+aVEric Piatkowski LAC 11/10/2002 LAC @ ORL W 32 21 8 9 88.9 3 4 75.0 2 2 100.0 0 3 3 2 0 0 0 3 2
+p760
+aVAndre Miller LAC 11/08/2002 LAC @ NJN L 37 20 8 17 47.1 2 5 40.0 2 2 100.0 1 1 2 2 2 0 7 4 -23
+p761
+aVSean Rooks LAC 11/08/2002 LAC @ NJN L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 1 1 4 7
+p762
+aVQuentin Richardson LAC 11/08/2002 LAC @ NJN L 13 6 2 5 40.0 2 5 40.0 0 2 0.0 0 1 1 1 1 0 0 2 -1
+p763
+aVElton Brand LAC 11/08/2002 LAC @ NJN L 42 20 7 13 53.8 0 0 - 6 8 75.0 4 7 11 5 1 5 7 1 -16
+p764
+aVKeyon Dooling LAC 11/08/2002 LAC @ NJN L 20 6 2 6 33.3 0 3 0.0 2 2 100.0 0 0 0 4 0 0 1 1 0
+p765
+aVMichael Olowokandi LAC 11/08/2002 LAC @ NJN L 40 18 9 14 64.3 0 0 - 0 2 0.0 2 9 11 2 0 3 3 3 -19
+p766
+aVMarko Jaric LAC 11/08/2002 LAC @ NJN L 15 4 1 3 33.3 1 1 100.0 1 2 50.0 1 1 2 0 1 0 1 1 7
+p767
+aVEric Piatkowski LAC 11/08/2002 LAC @ NJN L 26 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 3 0 0 1 1 -11
+p768
+aVCorey Maggette LAC 11/08/2002 LAC @ NJN L 32 12 5 11 45.5 1 3 33.3 1 1 100.0 0 9 9 1 1 0 2 3 -14
+p769
+aVCorey Maggette LAC 11/06/2002 LAC @ PHI L 39 18 5 12 41.7 3 4 75.0 5 6 83.3 0 0 0 5 0 0 3 3 1
+p770
+aVAndre Miller LAC 11/06/2002 LAC @ PHI L 45 13 4 12 33.3 0 1 0.0 5 6 83.3 1 3 4 13 1 0 4 6 5
+p771
+aVMarko Jaric LAC 11/06/2002 LAC @ PHI L 6 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p772
+aVEric Piatkowski LAC 11/06/2002 LAC @ PHI L 29 18 7 11 63.6 4 5 80.0 0 1 0.0 1 6 7 2 0 0 3 5 14
+p773
+aVMichael Olowokandi LAC 11/06/2002 LAC @ PHI L 47 14 6 16 37.5 0 0 - 2 4 50.0 2 11 13 0 0 4 4 4 -5
+p774
+aVQuentin Richardson LAC 11/06/2002 LAC @ PHI L 22 6 2 7 28.6 0 2 0.0 2 2 100.0 0 3 3 0 0 0 2 1 -16
+p775
+aVKeyon Dooling LAC 11/06/2002 LAC @ PHI L 20 9 3 6 50.0 1 3 33.3 2 2 100.0 0 3 3 0 0 0 1 3 -8
+p776
+aVSean Rooks LAC 11/06/2002 LAC @ PHI L 10 0 0 0 - 0 0 - 0 0 - 1 0 1 2 1 0 3 2 5
+p777
+aVElton Brand LAC 11/06/2002 LAC @ PHI L 47 21 7 12 58.3 0 0 - 7 11 63.6 9 10 19 2 1 4 2 3 -3
+p778
+aVEric Piatkowski LAC 11/03/2002 LAC vs. DET W 17 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 2 -9
+p779
+aVElton Brand LAC 11/03/2002 LAC vs. DET W 34 17 5 13 38.5 0 0 - 7 8 87.5 3 10 13 1 0 1 1 2 3
+p780
+aVWang Zhi-zhi LAC 11/03/2002 LAC vs. DET W 10 5 1 5 20.0 0 3 0.0 3 4 75.0 0 2 2 0 0 0 1 0 6
+p781
+aVMarko Jaric LAC 11/03/2002 LAC vs. DET W 24 3 1 3 33.3 0 1 0.0 1 2 50.0 0 4 4 2 0 0 1 1 2
+p782
+aVKeyon Dooling LAC 11/03/2002 LAC vs. DET W 23 9 3 6 50.0 2 2 100.0 1 1 100.0 1 2 3 0 1 0 1 4 7
+p783
+aVChris Wilcox LAC 11/03/2002 LAC vs. DET W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p784
+aVAndre Miller LAC 11/03/2002 LAC vs. DET W 43 10 1 12 8.3 0 0 - 8 10 80.0 2 3 5 9 1 0 2 3 11
+p785
+aVQuentin Richardson LAC 11/03/2002 LAC vs. DET W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 0 1 0 0 2 -5
+p786
+aVMichael Olowokandi LAC 11/03/2002 LAC vs. DET W 45 19 6 11 54.5 0 0 - 7 10 70.0 2 18 20 1 2 3 4 4 11
+p787
+aVSean Rooks LAC 11/03/2002 LAC vs. DET W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p788
+aVCorey Maggette LAC 11/03/2002 LAC vs. DET W 24 4 2 8 25.0 0 0 - 0 0 - 0 1 1 0 0 0 2 4 0
+p789
+aVWang Zhi-zhi LAC 11/01/2002 LAC vs. LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p790
+aVChris Wilcox LAC 11/01/2002 LAC vs. LAL L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -1
+p791
+aVMarko Jaric LAC 11/01/2002 LAC vs. LAL L 26 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 4 2 0 1 1 -7
+p792
+aVEric Piatkowski LAC 11/01/2002 LAC vs. LAL L 12 7 2 3 66.7 2 2 100.0 1 2 50.0 0 0 0 0 0 0 0 1 -9
+p793
+aVQuentin Richardson LAC 11/01/2002 LAC vs. LAL L 20 10 2 8 25.0 2 5 40.0 4 6 66.7 1 2 3 1 1 0 2 4 -8
+p794
+aVCorey Maggette LAC 11/01/2002 LAC vs. LAL L 38 19 6 10 60.0 0 0 - 7 7 100.0 0 8 8 1 0 0 2 5 -6
+p795
+aVAndre Miller LAC 11/01/2002 LAC vs. LAL L 38 22 5 10 50.0 1 1 100.0 11 14 78.6 1 2 3 11 0 0 3 3 -4
+p796
+aVElton Brand LAC 11/01/2002 LAC vs. LAL L 40 19 8 15 53.3 0 0 - 3 4 75.0 4 8 12 3 1 1 3 3 -2
+p797
+aVKeyon Dooling LAC 11/01/2002 LAC vs. LAL L 10 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -11
+p798
+aVMichael Olowokandi LAC 11/01/2002 LAC vs. LAL L 36 12 6 12 50.0 0 0 - 0 0 - 1 4 5 1 0 4 3 0 -12
+p799
+aVSean Rooks LAC 11/01/2002 LAC vs. LAL L 13 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -13
+p800
+aVElton Brand LAC 10/30/2002 LAC vs. CLE L 27 0 0 6 0.0 0 0 - 0 0 - 1 2 3 0 0 3 1 1 0
+p801
+aVSean Rooks LAC 10/30/2002 LAC vs. CLE L 21 6 3 6 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 4 -2
+p802
+aVQuentin Richardson LAC 10/30/2002 LAC vs. CLE L 36 17 6 11 54.5 2 6 33.3 3 6 50.0 0 7 7 3 1 1 4 4 4
+p803
+aVEric Piatkowski LAC 10/30/2002 LAC vs. CLE L 23 9 3 9 33.3 1 5 20.0 2 2 100.0 1 0 1 0 0 0 2 3 -3
+p804
+aVMarko Jaric LAC 10/30/2002 LAC vs. CLE L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 1 -1
+p805
+aVAndre Miller LAC 10/30/2002 LAC vs. CLE L 41 15 5 9 55.6 0 0 - 5 7 71.4 2 4 6 14 1 0 1 3 2
+p806
+aVKeyon Dooling LAC 10/30/2002 LAC vs. CLE L 7 9 4 5 80.0 1 1 100.0 0 0 - 1 0 1 0 0 0 2 1 -4
+p807
+aVChris Wilcox LAC 10/30/2002 LAC vs. CLE L 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 4
+p808
+aVCorey Maggette LAC 10/30/2002 LAC vs. CLE L 29 17 6 8 75.0 0 0 - 5 6 83.3 2 2 4 3 1 2 4 3 -4
+p809
+aVMichael Olowokandi LAC 10/30/2002 LAC vs. CLE L 39 18 9 18 50.0 0 0 - 0 0 - 3 10 13 0 0 2 1 2 -6
+p810
+a.

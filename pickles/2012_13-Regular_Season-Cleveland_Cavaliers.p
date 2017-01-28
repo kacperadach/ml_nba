@@ -1,0 +1,1658 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShaun Livingston CLE 04/17/2013 CLE @ CHA L 20 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 2 0 1 2
+p2
+aVWayne Ellington CLE 04/17/2013 CLE @ CHA L 18 13 5 6 83.3 1 2 50.0 2 2 100.0 0 0 0 1 1 0 0 0 2
+p3
+aVTyler Zeller CLE 04/17/2013 CLE @ CHA L 30 6 3 6 50.0 0 0 - 0 0 - 0 2 2 3 2 0 1 1 9
+p4
+aVTristan Thompson CLE 04/17/2013 CLE @ CHA L 37 8 3 9 33.3 0 0 - 2 6 33.3 2 8 10 1 0 0 2 4 -9
+p5
+aVKevin Jones CLE 04/17/2013 CLE @ CHA L 11 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 0 2
+p6
+aVKyrie Irving CLE 04/17/2013 CLE @ CHA L 36 24 9 20 45.0 2 9 22.2 4 4 100.0 0 4 4 10 0 0 4 5 1
+p7
+aVOmri Casspi CLE 04/17/2013 CLE @ CHA L 24 8 3 6 50.0 2 4 50.0 0 0 - 0 9 9 3 4 0 1 6 12
+p8
+aVDion Waiters CLE 04/17/2013 CLE @ CHA L 22 16 6 13 46.2 1 4 25.0 3 4 75.0 0 0 0 3 1 0 3 4 -19
+p9
+aVAlonzo Gee CLE 04/17/2013 CLE @ CHA L 28 13 5 9 55.6 2 4 50.0 1 2 50.0 0 2 2 1 1 0 0 1 -22
+p10
+aVMarreese Speights CLE 04/17/2013 CLE @ CHA L 14 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 0 1 1 2 -13
+p11
+aVAlonzo Gee CLE 04/15/2013 CLE vs. MIA L 27 13 5 9 55.6 1 1 100.0 2 2 100.0 0 6 6 0 3 0 0 5 -4
+p12
+aVKyrie Irving CLE 04/15/2013 CLE vs. MIA L 36 16 7 19 36.8 1 5 20.0 1 2 50.0 0 3 3 8 2 1 3 1 -6
+p13
+aVWayne Ellington CLE 04/15/2013 CLE vs. MIA L 21 6 2 6 33.3 2 4 50.0 0 0 - 1 1 2 1 0 0 0 0 -10
+p14
+aVKevin Jones CLE 04/15/2013 CLE vs. MIA L 14 10 3 6 50.0 0 0 - 4 6 66.7 1 2 3 0 1 0 0 1 9
+p15
+aVTyler Zeller CLE 04/15/2013 CLE vs. MIA L 20 8 4 8 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 4 -1
+p16
+aVOmri Casspi CLE 04/15/2013 CLE vs. MIA L 11 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 1 0 0 2 5
+p17
+aVShaun Livingston CLE 04/15/2013 CLE vs. MIA L 31 4 2 3 66.7 0 0 - 0 0 - 0 3 3 7 0 0 0 4 8
+p18
+aVTristan Thompson CLE 04/15/2013 CLE vs. MIA L 36 16 7 14 50.0 0 0 - 2 4 50.0 8 5 13 0 0 2 1 3 -8
+p19
+aVMarreese Speights CLE 04/15/2013 CLE vs. MIA L 17 6 2 7 28.6 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -5
+p20
+aVDion Waiters CLE 04/15/2013 CLE vs. MIA L 27 16 7 14 50.0 1 3 33.3 1 1 100.0 0 3 3 4 1 2 0 1 7
+p21
+aVAlonzo Gee CLE 04/14/2013 CLE @ PHI L 24 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 0 0 1 2 0 -17
+p22
+aVWayne Ellington CLE 04/14/2013 CLE @ PHI L 28 12 4 12 33.3 2 5 40.0 2 2 100.0 0 4 4 1 0 0 3 0 -19
+p23
+aVKevin Jones CLE 04/14/2013 CLE @ PHI L 22 11 5 11 45.5 0 0 - 1 2 50.0 4 6 10 3 0 0 0 1 6
+p24
+aVDion Waiters CLE 04/14/2013 CLE @ PHI L 25 11 5 15 33.3 1 4 25.0 0 0 - 1 3 4 2 0 0 6 0 -14
+p25
+aVTristan Thompson CLE 04/14/2013 CLE @ PHI L 26 12 5 10 50.0 0 0 - 2 3 66.7 3 9 12 2 0 3 1 1 -20
+p26
+aVKyrie Irving CLE 04/14/2013 CLE @ PHI L 19 4 1 6 16.7 1 4 25.0 1 1 100.0 0 3 3 3 1 0 4 5 -13
+p27
+aVOmri Casspi CLE 04/14/2013 CLE @ PHI L 24 9 2 3 66.7 1 1 100.0 4 7 57.1 0 5 5 2 3 1 1 2 3
+p28
+aVMarreese Speights CLE 04/14/2013 CLE @ PHI L 24 12 6 12 50.0 0 0 - 0 0 - 1 3 4 1 1 1 2 1 1
+p29
+aVChris Quinn CLE 04/14/2013 CLE @ PHI L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 0 0 0 1 9
+p30
+aVTyler Zeller CLE 04/14/2013 CLE @ PHI L 24 0 0 6 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -15
+p31
+aVDaniel Gibson CLE 04/14/2013 CLE @ PHI L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 5 0 0 0 1 9
+p32
+aVKyrie Irving CLE 04/12/2013 CLE vs. NYK L 36 31 11 27 40.7 3 10 30.0 6 6 100.0 2 3 5 6 1 0 1 0 -6
+p33
+aVTristan Thompson CLE 04/12/2013 CLE vs. NYK L 31 15 6 7 85.7 0 0 - 3 8 37.5 4 7 11 2 0 0 5 1 1
+p34
+aVTyler Zeller CLE 04/12/2013 CLE vs. NYK L 21 0 0 3 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 2 -5
+p35
+aVOmri Casspi CLE 04/12/2013 CLE vs. NYK L 22 9 4 10 40.0 0 4 0.0 1 1 100.0 1 5 6 2 2 1 0 3 -17
+p36
+aVKevin Jones CLE 04/12/2013 CLE vs. NYK L 16 7 3 6 50.0 0 0 - 1 2 50.0 3 0 3 1 0 0 1 0 -11
+p37
+aVAlonzo Gee CLE 04/12/2013 CLE vs. NYK L 35 12 3 6 50.0 2 2 100.0 4 5 80.0 1 5 6 0 0 1 3 4 1
+p38
+aVShaun Livingston CLE 04/12/2013 CLE vs. NYK L 29 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 0 0 1 -16
+p39
+aVWayne Ellington CLE 04/12/2013 CLE vs. NYK L 38 13 5 11 45.5 1 5 20.0 2 2 100.0 1 2 3 5 3 0 1 1 -5
+p40
+aVChris Quinn CLE 04/12/2013 CLE vs. NYK L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 11
+p41
+aVMarreese Speights CLE 04/12/2013 CLE vs. NYK L 9 0 0 3 0.0 0 0 - 0 0 - 2 1 3 1 0 0 2 3 -3
+p42
+aVKyrie Irving CLE 04/10/2013 CLE vs. DET L 35 27 7 15 46.7 1 5 20.0 12 13 92.3 0 3 3 9 0 0 5 1 -14
+p43
+aVOmri Casspi CLE 04/10/2013 CLE vs. DET L 17 9 3 7 42.9 1 2 50.0 2 2 100.0 1 5 6 0 0 2 0 3 1
+p44
+aVTyler Zeller CLE 04/10/2013 CLE vs. DET L 29 8 4 9 44.4 0 1 0.0 0 0 - 0 5 5 1 0 3 2 5 -7
+p45
+aVKevin Jones CLE 04/10/2013 CLE vs. DET L 17 8 4 8 50.0 0 0 - 0 0 - 4 2 6 1 0 0 0 1 2
+p46
+aVTristan Thompson CLE 04/10/2013 CLE vs. DET L 35 19 8 13 61.5 0 0 - 3 6 50.0 3 5 8 1 2 1 1 5 -9
+p47
+aVAlonzo Gee CLE 04/10/2013 CLE vs. DET L 31 4 2 6 33.3 0 3 0.0 0 0 - 1 1 2 0 0 1 1 5 -7
+p48
+aVWayne Ellington CLE 04/10/2013 CLE vs. DET L 23 9 4 5 80.0 1 2 50.0 0 0 - 0 5 5 0 0 0 0 2 -16
+p49
+aVDion Waiters CLE 04/10/2013 CLE vs. DET L 15 11 5 12 41.7 0 2 0.0 1 1 100.0 0 3 3 1 0 0 1 1 2
+p50
+aVMarreese Speights CLE 04/10/2013 CLE vs. DET L 15 4 1 4 25.0 0 0 - 2 2 100.0 4 5 9 1 0 0 1 2 3
+p51
+aVShaun Livingston CLE 04/10/2013 CLE vs. DET L 23 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 7 1 1 1 3 10
+p52
+aVKyrie Irving CLE 04/09/2013 CLE @ IND L 35 29 10 20 50.0 2 6 33.3 7 8 87.5 1 2 3 7 1 0 8 3 -1
+p53
+aVTyler Zeller CLE 04/09/2013 CLE @ IND L 30 18 9 17 52.9 0 0 - 0 0 - 1 2 3 1 0 2 0 6 4
+p54
+aVTristan Thompson CLE 04/09/2013 CLE @ IND L 35 10 4 12 33.3 0 0 - 2 3 66.7 3 4 7 1 1 1 0 3 -5
+p55
+aVAlonzo Gee CLE 04/09/2013 CLE @ IND L 31 4 1 4 25.0 0 0 - 2 2 100.0 1 5 6 1 2 0 0 3 0
+p56
+aVKevin Jones CLE 04/09/2013 CLE @ IND L 14 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 1 0 3 0
+p57
+aVShaun Livingston CLE 04/09/2013 CLE @ IND L 29 10 4 5 80.0 0 0 - 2 2 100.0 2 2 4 3 0 1 4 6 16
+p58
+aVMarreese Speights CLE 04/09/2013 CLE @ IND L 12 4 2 7 28.6 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -1
+p59
+aVOmri Casspi CLE 04/09/2013 CLE @ IND L 17 6 3 4 75.0 0 0 - 0 0 - 2 5 7 2 1 1 2 1 -3
+p60
+aVWayne Ellington CLE 04/09/2013 CLE @ IND L 35 9 4 11 36.4 1 4 25.0 0 0 - 2 2 4 2 0 1 2 1 -25
+p61
+aVKevin Jones CLE 04/07/2013 CLE vs. ORL W 19 4 2 9 22.2 0 0 - 0 0 - 2 0 2 0 1 0 2 0 16
+p62
+aVMarreese Speights CLE 04/07/2013 CLE vs. ORL W 12 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 2 1 1 0 4 6
+p63
+aVAlonzo Gee CLE 04/07/2013 CLE vs. ORL W 32 19 7 12 58.3 3 6 50.0 2 2 100.0 1 6 7 2 0 0 1 0 -14
+p64
+aVWayne Ellington CLE 04/07/2013 CLE vs. ORL W 38 9 3 9 33.3 1 1 100.0 2 2 100.0 1 2 3 3 0 0 1 3 5
+p65
+aVShaun Livingston CLE 04/07/2013 CLE vs. ORL W 25 12 3 6 50.0 0 0 - 6 6 100.0 0 6 6 6 2 2 5 5 7
+p66
+aVOmri Casspi CLE 04/07/2013 CLE vs. ORL W 8 2 1 2 50.0 0 1 0.0 0 0 - 1 5 6 0 0 0 0 0 11
+p67
+aVTyler Zeller CLE 04/07/2013 CLE vs. ORL W 26 5 2 10 20.0 0 0 - 1 2 50.0 3 3 6 0 0 2 0 3 -7
+p68
+aVCJ Miles CLE 04/07/2013 CLE vs. ORL W 6 8 3 5 60.0 2 4 50.0 0 0 - 0 0 0 0 1 0 1 0 10
+p69
+aVKyrie Irving CLE 04/07/2013 CLE vs. ORL W 36 9 3 15 20.0 1 5 20.0 2 2 100.0 0 4 4 10 2 0 2 1 -2
+p70
+aVTristan Thompson CLE 04/07/2013 CLE vs. ORL W 37 15 5 14 35.7 0 0 - 5 8 62.5 8 8 16 1 0 3 2 2 -2
+p71
+aVTyler Zeller CLE 04/05/2013 CLE @ BOS W 26 9 4 9 44.4 0 0 - 1 2 50.0 0 6 6 0 0 0 1 5 0
+p72
+aVShaun Livingston CLE 04/05/2013 CLE @ BOS W 24 7 2 4 50.0 0 0 - 3 4 75.0 0 2 2 4 0 2 2 0 -1
+p73
+aVMarreese Speights CLE 04/05/2013 CLE @ BOS W 2 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 2 -4
+p74
+aVTristan Thompson CLE 04/05/2013 CLE @ BOS W 41 29 10 17 58.8 0 0 - 9 9 100.0 7 10 17 1 0 1 1 3 9
+p75
+aVOmri Casspi CLE 04/05/2013 CLE @ BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p76
+aVKyrie Irving CLE 04/05/2013 CLE @ BOS W 37 11 4 20 20.0 2 6 33.3 1 1 100.0 0 5 5 8 2 2 4 0 8
+p77
+aVCJ Miles CLE 04/05/2013 CLE @ BOS W 15 9 2 7 28.6 0 3 0.0 5 6 83.3 1 3 4 0 1 0 2 3 -7
+p78
+aVAlonzo Gee CLE 04/05/2013 CLE @ BOS W 33 16 8 17 47.1 0 2 0.0 0 0 - 3 7 10 1 1 1 1 4 13
+p79
+aVLuke Walton CLE 04/05/2013 CLE @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -1
+p80
+aVKevin Jones CLE 04/05/2013 CLE @ BOS W 22 2 1 6 16.7 0 0 - 0 0 - 3 5 8 0 0 1 1 1 10
+p81
+aVWayne Ellington CLE 04/05/2013 CLE @ BOS W 36 12 5 8 62.5 1 2 50.0 1 2 50.0 1 5 6 0 1 0 1 1 3
+p82
+aVTristan Thompson CLE 04/03/2013 CLE vs. BKN L 27 8 4 11 36.4 0 0 - 0 1 0.0 2 6 8 2 0 0 1 2 -23
+p83
+aVCJ Miles CLE 04/03/2013 CLE vs. BKN L 13 11 3 4 75.0 1 1 100.0 4 4 100.0 0 3 3 0 1 0 0 2 0
+p84
+aVLuke Walton CLE 04/03/2013 CLE vs. BKN L 15 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 4 0 1 1 0 1
+p85
+aVOmri Casspi CLE 04/03/2013 CLE vs. BKN L 6 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 0 4
+p86
+aVTyler Zeller CLE 04/03/2013 CLE vs. BKN L 26 14 5 9 55.6 0 0 - 4 5 80.0 1 3 4 0 0 1 2 4 -19
+p87
+aVKyrie Irving CLE 04/03/2013 CLE vs. BKN L 28 16 5 16 31.3 1 2 50.0 5 6 83.3 1 1 2 6 1 1 2 2 -23
+p88
+aVWayne Ellington CLE 04/03/2013 CLE vs. BKN L 28 5 2 8 25.0 1 3 33.3 0 0 - 1 3 4 3 2 0 1 0 -24
+p89
+aVDaniel Gibson CLE 04/03/2013 CLE vs. BKN L 20 4 1 6 16.7 0 2 0.0 2 2 100.0 0 1 1 2 0 0 0 1 6
+p90
+aVKevin Jones CLE 04/03/2013 CLE vs. BKN L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 4
+p91
+aVAlonzo Gee CLE 04/03/2013 CLE vs. BKN L 29 9 3 8 37.5 1 2 50.0 2 2 100.0 2 1 3 0 2 0 1 1 -22
+p92
+aVMarreese Speights CLE 04/03/2013 CLE vs. BKN L 22 16 7 13 53.8 0 0 - 2 2 100.0 6 4 10 1 1 0 1 4 1
+p93
+aVChris Quinn CLE 04/03/2013 CLE vs. BKN L 7 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 4
+p94
+aVShaun Livingston CLE 04/03/2013 CLE vs. BKN L 13 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 1
+p95
+aVTyler Zeller CLE 04/01/2013 CLE @ ATL L 20 12 4 6 66.7 0 0 - 4 4 100.0 1 1 2 1 0 0 1 5 -5
+p96
+aVLuke Walton CLE 04/01/2013 CLE @ ATL L 25 4 2 6 33.3 0 1 0.0 0 0 - 0 5 5 6 4 0 0 5 1
+p97
+aVWayne Ellington CLE 04/01/2013 CLE @ ATL L 34 10 4 12 33.3 1 5 20.0 1 1 100.0 2 2 4 2 0 0 2 3 -5
+p98
+aVKevin Jones CLE 04/01/2013 CLE @ ATL L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p99
+aVTristan Thompson CLE 04/01/2013 CLE @ ATL L 23 5 2 6 33.3 0 0 - 1 3 33.3 0 6 6 2 0 0 3 4 -9
+p100
+aVAlonzo Gee CLE 04/01/2013 CLE @ ATL L 33 11 5 14 35.7 1 1 100.0 0 0 - 2 6 8 3 1 0 3 1 -12
+p101
+aVDaniel Gibson CLE 04/01/2013 CLE @ ATL L 10 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p102
+aVShaun Livingston CLE 04/01/2013 CLE @ ATL L 36 14 6 10 60.0 0 0 - 2 3 66.7 0 5 5 6 2 0 2 2 -7
+p103
+aVChris Quinn CLE 04/01/2013 CLE @ ATL L 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 1
+p104
+aVMarreese Speights CLE 04/01/2013 CLE @ ATL L 25 23 11 15 73.3 0 0 - 1 2 50.0 2 6 8 2 1 1 1 2 -3
+p105
+aVOmri Casspi CLE 04/01/2013 CLE @ ATL L 17 9 4 6 66.7 1 3 33.3 0 2 0.0 0 4 4 4 1 0 1 2 -1
+p106
+aVCJ Miles CLE 03/31/2013 CLE @ NOH L 19 3 1 9 11.1 1 4 25.0 0 0 - 1 0 1 1 0 0 1 2 -9
+p107
+aVOmri Casspi CLE 03/31/2013 CLE @ NOH L 9 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 0 -12
+p108
+aVAlonzo Gee CLE 03/31/2013 CLE @ NOH L 23 4 2 6 33.3 0 1 0.0 0 2 0.0 0 1 1 2 3 0 1 4 -2
+p109
+aVTyler Zeller CLE 03/31/2013 CLE @ NOH L 24 4 2 5 40.0 0 0 - 0 0 - 0 6 6 0 0 1 2 5 -6
+p110
+aVLuke Walton CLE 03/31/2013 CLE @ NOH L 18 3 1 4 25.0 1 1 100.0 0 0 - 0 2 2 3 2 1 2 2 -18
+p111
+aVKyrie Irving CLE 03/31/2013 CLE @ NOH L 29 31 11 20 55.0 3 5 60.0 6 6 100.0 0 2 2 6 0 0 3 0 -4
+p112
+aVMarreese Speights CLE 03/31/2013 CLE @ NOH L 21 12 6 9 66.7 0 0 - 0 0 - 0 4 4 1 0 0 0 3 -11
+p113
+aVKevin Jones CLE 03/31/2013 CLE @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p114
+aVTristan Thompson CLE 03/31/2013 CLE @ NOH L 29 12 6 9 66.7 0 0 - 0 1 0.0 2 8 10 1 0 2 1 4 1
+p115
+aVWayne Ellington CLE 03/31/2013 CLE @ NOH L 33 12 5 10 50.0 2 4 50.0 0 0 - 0 2 2 4 0 0 1 1 -6
+p116
+aVDaniel Gibson CLE 03/31/2013 CLE @ NOH L 17 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 -17
+p117
+aVShaun Livingston CLE 03/31/2013 CLE @ NOH L 18 11 4 5 80.0 0 0 - 3 3 100.0 0 0 0 0 1 0 2 1 -13
+p118
+aVLuke Walton CLE 03/29/2013 CLE vs. PHI L 21 5 2 4 50.0 1 2 50.0 0 0 - 3 4 7 7 1 1 2 3 6
+p119
+aVMarreese Speights CLE 03/29/2013 CLE vs. PHI L 13 6 1 6 16.7 0 0 - 4 4 100.0 0 2 2 0 0 2 0 1 5
+p120
+aVAlonzo Gee CLE 03/29/2013 CLE vs. PHI L 24 6 3 10 30.0 0 3 0.0 0 0 - 1 1 2 1 0 0 0 1 -19
+p121
+aVTyler Zeller CLE 03/29/2013 CLE vs. PHI L 35 14 7 10 70.0 0 1 0.0 0 0 - 3 7 10 3 1 1 1 3 -15
+p122
+aVChris Quinn CLE 03/29/2013 CLE vs. PHI L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 5
+p123
+aVShaun Livingston CLE 03/29/2013 CLE vs. PHI L 31 10 5 15 33.3 0 0 - 0 0 - 1 2 3 6 0 0 0 2 -18
+p124
+aVWayne Ellington CLE 03/29/2013 CLE vs. PHI L 29 10 5 14 35.7 0 6 0.0 0 0 - 0 5 5 2 3 0 0 1 -11
+p125
+aVDaniel Gibson CLE 03/29/2013 CLE vs. PHI L 24 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 4
+p126
+aVTristan Thompson CLE 03/29/2013 CLE vs. PHI L 23 10 4 11 36.4 0 0 - 2 7 28.6 3 2 5 1 0 1 1 0 -16
+p127
+aVCJ Miles CLE 03/29/2013 CLE vs. PHI L 28 19 7 11 63.6 2 4 50.0 3 4 75.0 0 5 5 3 0 1 4 1 9
+p128
+aVTristan Thompson CLE 03/27/2013 CLE vs. BOS L 24 2 1 6 16.7 0 0 - 0 2 0.0 2 7 9 0 0 0 2 2 7
+p129
+aVLuke Walton CLE 03/27/2013 CLE vs. BOS L 22 7 3 6 50.0 1 1 100.0 0 0 - 1 5 6 4 0 1 2 2 -14
+p130
+aVTyler Zeller CLE 03/27/2013 CLE vs. BOS L 24 11 5 6 83.3 0 0 - 1 2 50.0 3 6 9 0 0 1 0 2 3
+p131
+aVCJ Miles CLE 03/27/2013 CLE vs. BOS L 28 13 4 13 30.8 3 8 37.5 2 2 100.0 0 4 4 6 1 1 1 4 -2
+p132
+aVShaun Livingston CLE 03/27/2013 CLE vs. BOS L 29 12 5 13 38.5 0 0 - 2 2 100.0 0 3 3 5 1 1 2 2 3
+p133
+aVAlonzo Gee CLE 03/27/2013 CLE vs. BOS L 29 12 5 11 45.5 0 1 0.0 2 2 100.0 1 4 5 3 2 1 3 2 2
+p134
+aVMarreese Speights CLE 03/27/2013 CLE vs. BOS L 17 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 0 1 1 3 4 1
+p135
+aVDaniel Gibson CLE 03/27/2013 CLE vs. BOS L 22 6 2 5 40.0 2 3 66.7 0 0 - 0 0 0 6 1 0 3 3 -6
+p136
+aVWayne Ellington CLE 03/27/2013 CLE vs. BOS L 33 16 7 16 43.8 1 4 25.0 1 2 50.0 0 3 3 2 3 0 1 1 0
+p137
+aVChris Quinn CLE 03/27/2013 CLE vs. BOS L 13 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 0 1
+p138
+aVTyler Zeller CLE 03/22/2013 CLE @ HOU L 20 2 1 3 33.3 0 0 - 0 0 - 3 2 5 1 1 1 3 4 -20
+p139
+aVMarreese Speights CLE 03/22/2013 CLE @ HOU L 17 6 3 8 37.5 0 0 - 0 0 - 2 4 6 2 1 0 2 5 -13
+p140
+aVLuke Walton CLE 03/22/2013 CLE @ HOU L 22 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 2 0 1 1 1 -13
+p141
+aVDaniel Gibson CLE 03/22/2013 CLE @ HOU L 23 0 0 9 0.0 0 6 0.0 0 0 - 1 2 3 0 0 0 0 0 -30
+p142
+aVOmri Casspi CLE 03/22/2013 CLE @ HOU L 7 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -11
+p143
+aVChris Quinn CLE 03/22/2013 CLE @ HOU L 18 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 2 1 0 3 1 -20
+p144
+aVShaun Livingston CLE 03/22/2013 CLE @ HOU L 30 14 5 10 50.0 0 0 - 4 5 80.0 0 2 2 2 2 1 1 1 -18
+p145
+aVCJ Miles CLE 03/22/2013 CLE @ HOU L 16 9 3 8 37.5 1 3 33.3 2 2 100.0 0 0 0 2 1 0 0 2 -7
+p146
+aVWayne Ellington CLE 03/22/2013 CLE @ HOU L 21 13 6 13 46.2 1 4 25.0 0 0 - 0 0 0 1 1 0 1 2 -8
+p147
+aVAlonzo Gee CLE 03/22/2013 CLE @ HOU L 29 11 3 9 33.3 1 4 25.0 4 4 100.0 0 2 2 1 0 0 1 3 -20
+p148
+aVTristan Thompson CLE 03/22/2013 CLE @ HOU L 25 8 3 6 50.0 0 0 - 2 4 50.0 1 7 8 1 1 0 1 4 -18
+p149
+aVKevin Jones CLE 03/22/2013 CLE @ HOU L 12 4 2 7 28.6 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -12
+p150
+aVTyler Zeller CLE 03/20/2013 CLE vs. MIA L 23 12 4 6 66.7 0 0 - 4 4 100.0 4 7 11 0 1 1 1 4 28
+p151
+aVShaun Livingston CLE 03/20/2013 CLE vs. MIA L 37 14 6 11 54.5 0 0 - 2 2 100.0 0 3 3 6 2 0 2 4 13
+p152
+aVTristan Thompson CLE 03/20/2013 CLE vs. MIA L 37 18 8 15 53.3 0 0 - 2 4 50.0 4 4 8 2 3 0 2 2 13
+p153
+aVWayne Ellington CLE 03/20/2013 CLE vs. MIA L 41 20 7 17 41.2 3 7 42.9 3 3 100.0 2 5 7 4 1 0 4 4 12
+p154
+aVDaniel Gibson CLE 03/20/2013 CLE vs. MIA L 14 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 2 1 -26
+p155
+aVCJ Miles CLE 03/20/2013 CLE vs. MIA L 24 10 3 10 30.0 2 6 33.3 2 2 100.0 2 1 3 5 0 0 0 1 1
+p156
+aVAlonzo Gee CLE 03/20/2013 CLE vs. MIA L 32 10 4 9 44.4 1 3 33.3 1 2 50.0 0 3 3 0 0 0 0 3 1
+p157
+aVLuke Walton CLE 03/20/2013 CLE vs. MIA L 16 2 1 3 33.3 0 1 0.0 0 0 - 2 0 2 2 1 0 2 4 -34
+p158
+aVOmri Casspi CLE 03/20/2013 CLE vs. MIA L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 0 -5
+p159
+aVMarreese Speights CLE 03/20/2013 CLE vs. MIA L 11 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 1 2 -18
+p160
+aVTristan Thompson CLE 03/18/2013 CLE vs. IND L 32 20 9 16 56.3 0 0 - 2 3 66.7 6 5 11 2 0 2 0 3 -14
+p161
+aVWayne Ellington CLE 03/18/2013 CLE vs. IND L 24 3 1 9 11.1 1 3 33.3 0 0 - 1 2 3 2 1 0 2 3 -17
+p162
+aVDion Waiters CLE 03/18/2013 CLE vs. IND L 12 4 2 7 28.6 0 1 0.0 0 0 - 1 1 2 2 0 1 1 2 -3
+p163
+aVDaniel Gibson CLE 03/18/2013 CLE vs. IND L 25 6 1 9 11.1 0 6 0.0 4 6 66.7 0 1 1 2 1 1 0 2 0
+p164
+aVLuke Walton CLE 03/18/2013 CLE vs. IND L 22 5 1 3 33.3 1 3 33.3 2 2 100.0 2 2 4 4 1 1 1 1 -8
+p165
+aVShaun Livingston CLE 03/18/2013 CLE vs. IND L 26 8 4 10 40.0 0 0 - 0 0 - 1 2 3 2 0 0 1 2 -14
+p166
+aVCJ Miles CLE 03/18/2013 CLE vs. IND L 27 21 8 16 50.0 4 8 50.0 1 2 50.0 1 1 2 1 0 0 1 0 -10
+p167
+aVKevin Jones CLE 03/18/2013 CLE vs. IND L 7 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 1 2
+p168
+aVOmri Casspi CLE 03/18/2013 CLE vs. IND L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 0 0 3
+p169
+aVMarreese Speights CLE 03/18/2013 CLE vs. IND L 8 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 2 -4
+p170
+aVTyler Zeller CLE 03/18/2013 CLE vs. IND L 27 8 3 5 60.0 0 0 - 2 4 50.0 2 4 6 4 0 1 1 4 -18
+p171
+aVAlonzo Gee CLE 03/18/2013 CLE vs. IND L 26 7 2 7 28.6 0 2 0.0 3 4 75.0 1 5 6 2 3 0 2 1 -22
+p172
+aVShaun Livingston CLE 03/16/2013 CLE @ SAS L 33 16 8 13 61.5 0 0 - 0 0 - 0 3 3 5 1 0 2 4 -13
+p173
+aVDion Waiters CLE 03/16/2013 CLE @ SAS L 29 15 6 12 50.0 1 1 100.0 2 4 50.0 0 1 1 1 1 0 1 1 -17
+p174
+aVAlonzo Gee CLE 03/16/2013 CLE @ SAS L 32 15 4 7 57.1 0 0 - 7 8 87.5 0 2 2 1 3 0 2 4 -21
+p175
+aVLuke Walton CLE 03/16/2013 CLE @ SAS L 22 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 7 3 0 2 3 20
+p176
+aVTyler Zeller CLE 03/16/2013 CLE @ SAS L 16 6 3 4 75.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 -11
+p177
+aVCJ Miles CLE 03/16/2013 CLE @ SAS L 18 8 2 7 28.6 1 4 25.0 3 4 75.0 1 1 2 1 1 0 0 2 7
+p178
+aVDaniel Gibson CLE 03/16/2013 CLE @ SAS L 15 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 5 1 0 0 1 7
+p179
+aVTristan Thompson CLE 03/16/2013 CLE @ SAS L 30 8 3 12 25.0 0 1 0.0 2 7 28.6 3 5 8 0 3 0 1 3 -14
+p180
+aVMarreese Speights CLE 03/16/2013 CLE @ SAS L 23 19 7 13 53.8 0 0 - 5 6 83.3 4 3 7 0 0 4 0 4 1
+p181
+aVWayne Ellington CLE 03/16/2013 CLE @ SAS L 23 21 8 13 61.5 4 7 57.1 1 1 100.0 0 2 2 2 0 0 1 0 11
+p182
+aVDion Waiters CLE 03/15/2013 CLE @ DAL L 37 21 9 19 47.4 1 3 33.3 2 5 40.0 0 2 2 0 3 0 5 0 -9
+p183
+aVMarreese Speights CLE 03/15/2013 CLE @ DAL L 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -10
+p184
+aVAlonzo Gee CLE 03/15/2013 CLE @ DAL L 33 11 4 11 36.4 1 3 33.3 2 2 100.0 1 5 6 1 0 1 2 2 5
+p185
+aVCJ Miles CLE 03/15/2013 CLE @ DAL L 18 8 2 6 33.3 2 5 40.0 2 3 66.7 0 5 5 1 0 1 0 1 -16
+p186
+aVTyler Zeller CLE 03/15/2013 CLE @ DAL L 31 10 4 12 33.3 0 0 - 2 3 66.7 3 7 10 0 2 0 2 3 3
+p187
+aVDaniel Gibson CLE 03/15/2013 CLE @ DAL L 22 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 0 0 -17
+p188
+aVTristan Thompson CLE 03/15/2013 CLE @ DAL L 30 12 6 8 75.0 0 0 - 0 1 0.0 2 5 7 0 0 0 1 1 1
+p189
+aVLuke Walton CLE 03/15/2013 CLE @ DAL L 19 9 3 6 50.0 3 4 75.0 0 0 - 0 3 3 5 2 0 5 2 -13
+p190
+aVShaun Livingston CLE 03/15/2013 CLE @ DAL L 38 13 5 11 45.5 0 0 - 3 4 75.0 1 4 5 6 3 0 2 3 6
+p191
+aVAlonzo Gee CLE 03/12/2013 CLE vs. WAS W 32 17 5 15 33.3 4 9 44.4 3 4 75.0 0 2 2 3 1 0 1 2 12
+p192
+aVWayne Ellington CLE 03/12/2013 CLE vs. WAS W 19 12 4 10 40.0 1 5 20.0 3 4 75.0 2 1 3 1 0 0 1 1 0
+p193
+aVTristan Thompson CLE 03/12/2013 CLE vs. WAS W 36 13 5 8 62.5 0 0 - 3 3 100.0 6 8 14 3 0 1 1 4 12
+p194
+aVShaun Livingston CLE 03/12/2013 CLE vs. WAS W 31 12 6 9 66.7 0 0 - 0 0 - 1 2 3 6 1 1 3 5 -4
+p195
+aVDaniel Gibson CLE 03/12/2013 CLE vs. WAS W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 2 0 0 0 11
+p196
+aVTyler Zeller CLE 03/12/2013 CLE vs. WAS W 20 4 2 4 50.0 0 0 - 0 0 - 1 2 3 3 0 0 0 4 6
+p197
+aVDion Waiters CLE 03/12/2013 CLE vs. WAS W 29 20 5 13 38.5 0 2 0.0 10 14 71.4 1 5 6 3 1 0 1 3 3
+p198
+aVLuke Walton CLE 03/12/2013 CLE vs. WAS W 18 2 1 4 25.0 0 2 0.0 0 0 - 2 4 6 5 1 0 0 3 -2
+p199
+aVMarreese Speights CLE 03/12/2013 CLE vs. WAS W 15 0 0 5 0.0 0 0 - 0 0 - 1 5 6 0 0 0 2 2 -5
+p200
+aVCJ Miles CLE 03/12/2013 CLE vs. WAS W 22 10 4 10 40.0 2 5 40.0 0 0 - 0 3 3 0 2 0 2 1 -8
+p201
+aVAlonzo Gee CLE 03/10/2013 CLE @ TOR L 28 4 1 6 16.7 0 1 0.0 2 2 100.0 0 3 3 1 2 0 0 3 -9
+p202
+aVTyler Zeller CLE 03/10/2013 CLE @ TOR L 25 8 3 7 42.9 0 0 - 2 2 100.0 2 6 8 2 0 1 3 5 2
+p203
+aVTristan Thompson CLE 03/10/2013 CLE @ TOR L 30 11 5 12 41.7 0 0 - 1 2 50.0 4 6 10 2 0 0 1 4 -3
+p204
+aVDion Waiters CLE 03/10/2013 CLE @ TOR L 29 21 7 17 41.2 2 4 50.0 5 9 55.6 1 3 4 2 0 0 1 0 4
+p205
+aVLuke Walton CLE 03/10/2013 CLE @ TOR L 18 3 1 3 33.3 0 1 0.0 1 2 50.0 2 2 4 4 0 0 3 2 -1
+p206
+aVShaun Livingston CLE 03/10/2013 CLE @ TOR L 23 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 0 0 0 2 0
+p207
+aVWayne Ellington CLE 03/10/2013 CLE @ TOR L 19 7 3 6 50.0 0 2 0.0 1 1 100.0 0 3 3 3 1 0 0 1 -8
+p208
+aVCJ Miles CLE 03/10/2013 CLE @ TOR L 26 15 5 11 45.5 4 8 50.0 1 2 50.0 0 5 5 0 1 0 3 5 8
+p209
+aVMarreese Speights CLE 03/10/2013 CLE @ TOR L 16 11 5 10 50.0 0 0 - 1 2 50.0 0 2 2 0 1 1 0 4 -9
+p210
+aVKyrie Irving CLE 03/10/2013 CLE @ TOR L 25 12 4 8 50.0 1 5 20.0 3 5 60.0 0 4 4 4 1 0 2 3 -4
+p211
+aVAlonzo Gee CLE 03/08/2013 CLE vs. MEM L 30 12 5 13 38.5 2 4 50.0 0 0 - 1 4 5 1 1 1 2 1 -19
+p212
+aVCJ Miles CLE 03/08/2013 CLE vs. MEM L 20 13 5 10 50.0 1 3 33.3 2 2 100.0 0 1 1 0 3 1 0 0 6
+p213
+aVTyler Zeller CLE 03/08/2013 CLE vs. MEM L 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 1 2 2 -12
+p214
+aVWayne Ellington CLE 03/08/2013 CLE vs. MEM L 28 7 3 5 60.0 1 2 50.0 0 0 - 0 5 5 1 0 1 0 0 2
+p215
+aVDion Waiters CLE 03/08/2013 CLE vs. MEM L 20 3 0 4 0.0 0 1 0.0 3 4 75.0 0 1 1 1 0 0 0 1 -13
+p216
+aVLuke Walton CLE 03/08/2013 CLE vs. MEM L 19 6 2 5 40.0 1 1 100.0 1 2 50.0 2 2 4 5 0 0 1 3 3
+p217
+aVShaun Livingston CLE 03/08/2013 CLE vs. MEM L 12 6 2 2 100.0 0 0 - 2 2 100.0 1 2 3 2 0 0 2 1 5
+p218
+aVMarreese Speights CLE 03/08/2013 CLE vs. MEM L 24 9 1 5 20.0 0 0 - 7 8 87.5 0 1 1 2 0 1 2 4 8
+p219
+aVKyrie Irving CLE 03/08/2013 CLE vs. MEM L 36 24 11 21 52.4 1 3 33.3 1 2 50.0 0 2 2 3 1 0 4 4 -16
+p220
+aVTristan Thompson CLE 03/08/2013 CLE vs. MEM L 32 10 3 4 75.0 0 0 - 4 6 66.7 3 7 10 2 0 2 2 1 -19
+p221
+aVKyrie Irving CLE 03/06/2013 CLE vs. UTA W 38 20 7 20 35.0 2 4 50.0 4 5 80.0 2 5 7 10 2 1 3 1 9
+p222
+aVMarreese Speights CLE 03/06/2013 CLE vs. UTA W 18 14 5 10 50.0 0 0 - 4 6 66.7 6 1 7 1 0 1 1 3 -8
+p223
+aVTyler Zeller CLE 03/06/2013 CLE vs. UTA W 23 3 1 5 20.0 0 0 - 1 2 50.0 1 3 4 1 2 3 1 2 -4
+p224
+aVAlonzo Gee CLE 03/06/2013 CLE vs. UTA W 33 15 6 16 37.5 1 4 25.0 2 2 100.0 1 4 5 1 0 0 1 0 0
+p225
+aVLuke Walton CLE 03/06/2013 CLE vs. UTA W 21 2 1 3 33.3 0 0 - 0 0 - 2 1 3 3 1 1 2 2 11
+p226
+aVCJ Miles CLE 03/06/2013 CLE vs. UTA W 18 12 4 7 57.1 2 3 66.7 2 2 100.0 0 4 4 2 0 2 0 3 5
+p227
+aVShaun Livingston CLE 03/06/2013 CLE vs. UTA W 20 6 3 5 60.0 0 0 - 0 0 - 0 1 1 3 1 1 1 3 -11
+p228
+aVTristan Thompson CLE 03/06/2013 CLE vs. UTA W 31 16 6 12 50.0 0 0 - 4 6 66.7 3 9 12 1 0 3 2 2 5
+p229
+aVWayne Ellington CLE 03/06/2013 CLE vs. UTA W 38 16 4 12 33.3 2 5 40.0 6 6 100.0 1 5 6 1 0 0 0 2 8
+p230
+aVMarreese Speights CLE 03/04/2013 CLE vs. NYK L 32 23 10 14 71.4 0 0 - 3 4 75.0 2 6 8 0 1 0 1 2 -18
+p231
+aVCJ Miles CLE 03/04/2013 CLE vs. NYK L 22 11 3 7 42.9 2 6 33.3 3 4 75.0 0 2 2 1 2 0 1 0 2
+p232
+aVDaniel Gibson CLE 03/04/2013 CLE vs. NYK L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 1 0 2 2 -1
+p233
+aVShaun Livingston CLE 03/04/2013 CLE vs. NYK L 23 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 5 1 1 1 0 17
+p234
+aVKyrie Irving CLE 03/04/2013 CLE vs. NYK L 36 22 9 20 45.0 2 5 40.0 2 4 50.0 1 4 5 6 1 0 3 3 -11
+p235
+aVAlonzo Gee CLE 03/04/2013 CLE vs. NYK L 30 10 3 9 33.3 1 4 25.0 3 4 75.0 1 2 3 1 2 0 1 6 -7
+p236
+aVTristan Thompson CLE 03/04/2013 CLE vs. NYK L 32 14 6 9 66.7 0 0 - 2 4 50.0 2 6 8 0 0 1 2 3 0
+p237
+aVWayne Ellington CLE 03/04/2013 CLE vs. NYK L 27 7 2 7 28.6 1 4 25.0 2 2 100.0 0 2 2 0 0 0 1 0 -15
+p238
+aVLuke Walton CLE 03/04/2013 CLE vs. NYK L 29 2 1 1 100.0 0 0 - 0 0 - 0 0 0 12 1 0 2 2 8
+p239
+aVAlonzo Gee CLE 03/01/2013 CLE vs. LAC L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 4 -6
+p240
+aVMarreese Speights CLE 03/01/2013 CLE vs. LAC L 18 10 4 8 50.0 0 0 - 2 4 50.0 2 1 3 1 0 1 3 2 -9
+p241
+aVWayne Ellington CLE 03/01/2013 CLE vs. LAC L 31 9 3 7 42.9 1 3 33.3 2 2 100.0 0 1 1 3 1 0 2 3 -15
+p242
+aVDion Waiters CLE 03/01/2013 CLE vs. LAC L 28 17 6 11 54.5 1 3 33.3 4 4 100.0 0 0 0 6 0 1 2 3 -5
+p243
+aVTyler Zeller CLE 03/01/2013 CLE vs. LAC L 30 9 4 10 40.0 0 0 - 1 2 50.0 4 1 5 1 0 0 0 2 -7
+p244
+aVTristan Thompson CLE 03/01/2013 CLE vs. LAC L 31 15 6 13 46.2 0 0 - 3 4 75.0 4 8 12 2 0 0 2 3 -11
+p245
+aVLuke Walton CLE 03/01/2013 CLE vs. LAC L 15 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 4 1 -8
+p246
+aVShaun Livingston CLE 03/01/2013 CLE vs. LAC L 33 10 4 9 44.4 0 0 - 2 4 50.0 0 1 1 1 1 0 1 4 -17
+p247
+aVCJ Miles CLE 03/01/2013 CLE vs. LAC L 27 16 5 10 50.0 3 7 42.9 3 6 50.0 1 5 6 0 3 0 1 1 -13
+p248
+aVDaniel Gibson CLE 03/01/2013 CLE vs. LAC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 8
+p249
+aVKevin Jones CLE 03/01/2013 CLE vs. LAC L 2 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p250
+aVCJ Miles CLE 02/27/2013 CLE vs. TOR W 15 10 3 8 37.5 2 5 40.0 2 2 100.0 0 2 2 0 0 1 1 3 11
+p251
+aVAlonzo Gee CLE 02/27/2013 CLE vs. TOR W 33 6 3 8 37.5 0 2 0.0 0 0 - 2 1 3 1 1 0 0 2 0
+p252
+aVMarreese Speights CLE 02/27/2013 CLE vs. TOR W 24 11 3 12 25.0 0 0 - 5 6 83.3 5 4 9 1 0 1 1 1 0
+p253
+aVShaun Livingston CLE 02/27/2013 CLE vs. TOR W 33 15 4 7 57.1 0 0 - 7 7 100.0 2 3 5 6 0 1 1 5 -1
+p254
+aVTristan Thompson CLE 02/27/2013 CLE vs. TOR W 31 14 4 11 36.4 0 0 - 6 6 100.0 2 6 8 2 1 0 2 1 -5
+p255
+aVLuke Walton CLE 02/27/2013 CLE vs. TOR W 21 5 2 5 40.0 1 3 33.3 0 0 - 2 5 7 7 0 0 0 3 20
+p256
+aVTyler Zeller CLE 02/27/2013 CLE vs. TOR W 21 6 3 7 42.9 0 0 - 0 0 - 0 2 2 2 1 1 1 3 7
+p257
+aVDion Waiters CLE 02/27/2013 CLE vs. TOR W 35 23 7 16 43.8 2 3 66.7 7 8 87.5 0 1 1 6 1 1 3 0 5
+p258
+aVWayne Ellington CLE 02/27/2013 CLE vs. TOR W 27 13 5 8 62.5 0 0 - 3 3 100.0 0 3 3 1 3 0 1 1 18
+p259
+aVAlonzo Gee CLE 02/26/2013 CLE @ CHI W 31 11 5 11 45.5 1 3 33.3 0 0 - 1 0 1 1 1 0 2 0 5
+p260
+aVWayne Ellington CLE 02/26/2013 CLE @ CHI W 27 13 5 11 45.5 2 5 40.0 1 1 100.0 1 5 6 3 0 0 0 2 10
+p261
+aVMarreese Speights CLE 02/26/2013 CLE @ CHI W 17 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 0 0 1 1 2 7
+p262
+aVCJ Miles CLE 02/26/2013 CLE @ CHI W 17 7 2 6 33.3 1 4 25.0 2 2 100.0 1 1 2 2 3 1 1 1 -2
+p263
+aVTristan Thompson CLE 02/26/2013 CLE @ CHI W 27 10 3 8 37.5 0 0 - 4 5 80.0 5 3 8 3 2 0 2 5 -10
+p264
+aVDion Waiters CLE 02/26/2013 CLE @ CHI W 36 25 10 16 62.5 1 4 25.0 4 6 66.7 0 2 2 0 1 1 2 4 -6
+p265
+aVLuke Walton CLE 02/26/2013 CLE @ CHI W 24 8 4 6 66.7 0 1 0.0 0 0 - 0 5 5 5 1 0 1 2 13
+p266
+aVShaun Livingston CLE 02/26/2013 CLE @ CHI W 33 15 6 11 54.5 0 0 - 3 3 100.0 1 1 2 2 1 1 1 2 2
+p267
+aVTyler Zeller CLE 02/26/2013 CLE @ CHI W 28 4 2 6 33.3 0 0 - 0 0 - 2 6 8 2 0 1 0 1 -4
+p268
+aVWayne Ellington CLE 02/24/2013 CLE @ MIA L 15 5 1 4 25.0 0 1 0.0 3 4 75.0 0 0 0 1 2 0 1 1 15
+p269
+aVKyrie Irving CLE 02/24/2013 CLE @ MIA L 36 17 6 16 37.5 2 6 33.3 3 3 100.0 1 1 2 5 1 1 0 3 -12
+p270
+aVLuke Walton CLE 02/24/2013 CLE @ MIA L 18 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 1 3 4 -10
+p271
+aVDion Waiters CLE 02/24/2013 CLE @ MIA L 31 26 11 17 64.7 1 2 50.0 3 5 60.0 1 1 2 3 0 0 2 0 -5
+p272
+aVAlonzo Gee CLE 02/24/2013 CLE @ MIA L 40 9 3 7 42.9 0 2 0.0 3 4 75.0 3 3 6 3 0 0 0 2 -6
+p273
+aVMarreese Speights CLE 02/24/2013 CLE @ MIA L 18 11 5 7 71.4 0 0 - 1 2 50.0 1 2 3 0 0 0 2 2 -12
+p274
+aVTristan Thompson CLE 02/24/2013 CLE @ MIA L 30 11 5 12 41.7 0 0 - 1 1 100.0 2 10 12 0 2 1 0 0 0
+p275
+aVTyler Zeller CLE 02/24/2013 CLE @ MIA L 15 7 2 4 50.0 0 0 - 3 3 100.0 1 1 2 0 0 1 1 4 8
+p276
+aVShaun Livingston CLE 02/24/2013 CLE @ MIA L 15 0 0 0 - 0 0 - 0 0 - 0 5 5 4 0 0 2 0 -6
+p277
+aVCJ Miles CLE 02/24/2013 CLE @ MIA L 21 19 6 11 54.5 5 9 55.6 2 2 100.0 0 2 2 1 1 0 0 3 8
+p278
+aVKyrie Irving CLE 02/23/2013 CLE @ ORL W 30 12 4 9 44.4 0 1 0.0 4 4 100.0 0 3 3 9 1 0 1 2 3
+p279
+aVTristan Thompson CLE 02/23/2013 CLE @ ORL W 24 2 1 5 20.0 0 0 - 0 2 0.0 5 6 11 3 0 1 2 0 15
+p280
+aVLuke Walton CLE 02/23/2013 CLE @ ORL W 17 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 1 2
+p281
+aVKevin Jones CLE 02/23/2013 CLE @ ORL W 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 1 1 2 0 7
+p282
+aVTyler Zeller CLE 02/23/2013 CLE @ ORL W 25 16 7 12 58.3 0 0 - 2 2 100.0 6 1 7 1 1 1 0 2 21
+p283
+aVMarreese Speights CLE 02/23/2013 CLE @ ORL W 23 18 4 8 50.0 0 1 0.0 10 12 83.3 2 6 8 1 1 1 0 2 3
+p284
+aVCJ Miles CLE 02/23/2013 CLE @ ORL W 20 16 5 10 50.0 4 7 57.1 2 2 100.0 1 5 6 0 1 0 1 2 15
+p285
+aVShaun Livingston CLE 02/23/2013 CLE @ ORL W 22 4 2 3 66.7 0 0 - 0 0 - 1 1 2 6 1 0 2 4 2
+p286
+aVAlonzo Gee CLE 02/23/2013 CLE @ ORL W 24 17 6 9 66.7 1 3 33.3 4 4 100.0 1 0 1 0 1 0 1 3 9
+p287
+aVDion Waiters CLE 02/23/2013 CLE @ ORL W 26 12 5 16 31.3 1 3 33.3 1 2 50.0 2 2 4 4 1 0 0 3 22
+p288
+aVWayne Ellington CLE 02/23/2013 CLE @ ORL W 22 15 6 10 60.0 3 6 50.0 0 0 - 0 4 4 1 0 0 0 1 21
+p289
+aVLuke Walton CLE 02/20/2013 CLE vs. NOH W 18 0 0 2 0.0 0 0 - 0 0 - 0 2 2 6 0 0 0 2 11
+p290
+aVDion Waiters CLE 02/20/2013 CLE vs. NOH W 29 16 6 10 60.0 0 1 0.0 4 4 100.0 0 0 0 3 1 1 0 1 10
+p291
+aVShaun Livingston CLE 02/20/2013 CLE vs. NOH W 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 0 0 0 3 6
+p292
+aVTyler Zeller CLE 02/20/2013 CLE vs. NOH W 22 10 5 7 71.4 0 0 - 0 0 - 2 0 2 0 0 0 1 3 6
+p293
+aVTristan Thompson CLE 02/20/2013 CLE vs. NOH W 33 9 2 8 25.0 0 0 - 5 12 41.7 5 8 13 1 1 1 2 3 2
+p294
+aVKyrie Irving CLE 02/20/2013 CLE vs. NOH W 37 35 13 22 59.1 2 5 40.0 7 7 100.0 0 5 5 7 2 0 4 1 2
+p295
+aVWayne Ellington CLE 02/20/2013 CLE vs. NOH W 24 8 1 3 33.3 0 2 0.0 6 6 100.0 0 1 1 0 0 0 1 0 -1
+p296
+aVMarreese Speights CLE 02/20/2013 CLE vs. NOH W 18 4 2 7 28.6 0 0 - 0 2 0.0 3 3 6 1 0 0 0 2 -10
+p297
+aVAlonzo Gee CLE 02/20/2013 CLE vs. NOH W 28 10 3 7 42.9 3 4 75.0 1 2 50.0 0 1 1 0 1 0 0 1 -2
+p298
+aVCJ Miles CLE 02/20/2013 CLE vs. NOH W 18 11 5 7 71.4 0 2 0.0 1 1 100.0 1 1 2 0 1 1 0 2 1
+p299
+aVTristan Thompson CLE 02/13/2013 CLE vs. SAS L 28 10 5 13 38.5 0 0 - 0 0 - 4 3 7 1 0 2 3 2 -1
+p300
+aVLuke Walton CLE 02/13/2013 CLE vs. SAS L 18 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 0 1 3
+p301
+aVShaun Livingston CLE 02/13/2013 CLE vs. SAS L 20 8 4 8 50.0 0 0 - 0 0 - 1 2 3 4 1 0 0 1 -1
+p302
+aVTyler Zeller CLE 02/13/2013 CLE vs. SAS L 34 16 7 10 70.0 0 0 - 2 2 100.0 3 6 9 4 0 1 2 2 2
+p303
+aVKyrie Irving CLE 02/13/2013 CLE vs. SAS L 32 6 2 15 13.3 0 1 0.0 2 2 100.0 0 3 3 7 1 1 2 5 -1
+p304
+aVMarreese Speights CLE 02/13/2013 CLE vs. SAS L 16 9 4 12 33.3 0 1 0.0 1 2 50.0 6 3 9 0 1 0 0 2 -3
+p305
+aVWayne Ellington CLE 02/13/2013 CLE vs. SAS L 18 5 2 6 33.3 0 2 0.0 1 1 100.0 0 1 1 0 2 0 0 0 -4
+p306
+aVCJ Miles CLE 02/13/2013 CLE vs. SAS L 21 10 4 11 36.4 2 5 40.0 0 0 - 0 5 5 0 0 0 0 0 8
+p307
+aVAlonzo Gee CLE 02/13/2013 CLE vs. SAS L 22 7 3 5 60.0 0 1 0.0 1 2 50.0 1 3 4 1 2 0 1 2 -2
+p308
+aVDion Waiters CLE 02/13/2013 CLE vs. SAS L 31 20 8 15 53.3 0 1 0.0 4 4 100.0 1 5 6 4 1 0 2 0 -6
+p309
+aVShaun Livingston CLE 02/11/2013 CLE vs. MIN L 16 4 2 2 100.0 0 0 - 0 0 - 0 0 0 4 1 2 1 1 11
+p310
+aVTyler Zeller CLE 02/11/2013 CLE vs. MIN L 25 0 0 2 0.0 0 1 0.0 0 0 - 0 8 8 0 0 1 2 2 -13
+p311
+aVLuke Walton CLE 02/11/2013 CLE vs. MIN L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 4 1 0 1 0 6
+p312
+aVKyrie Irving CLE 02/11/2013 CLE vs. MIN L 36 20 9 20 45.0 1 3 33.3 1 2 50.0 2 2 4 7 1 0 3 3 -14
+p313
+aVTristan Thompson CLE 02/11/2013 CLE vs. MIN L 34 16 5 12 41.7 0 0 - 6 7 85.7 5 4 9 1 4 2 1 2 -14
+p314
+aVDion Waiters CLE 02/11/2013 CLE vs. MIN L 21 12 6 6 100.0 0 0 - 0 0 - 0 1 1 1 1 0 6 2 -6
+p315
+aVCJ Miles CLE 02/11/2013 CLE vs. MIN L 21 9 4 9 44.4 1 5 20.0 0 0 - 0 0 0 2 2 1 1 3 -2
+p316
+aVMarreese Speights CLE 02/11/2013 CLE vs. MIN L 20 10 5 9 55.6 0 0 - 0 0 - 2 1 3 1 0 1 3 0 6
+p317
+aVAlonzo Gee CLE 02/11/2013 CLE vs. MIN L 27 11 5 10 50.0 1 5 20.0 0 2 0.0 0 4 4 2 2 0 2 1 -11
+p318
+aVWayne Ellington CLE 02/11/2013 CLE vs. MIN L 25 10 4 7 57.1 2 3 66.7 0 0 - 0 2 2 2 0 0 0 1 -3
+p319
+aVWayne Ellington CLE 02/09/2013 CLE vs. DEN L 23 13 4 6 66.7 3 4 75.0 2 2 100.0 1 4 5 0 0 0 1 0 -1
+p320
+aVDion Waiters CLE 02/09/2013 CLE vs. DEN L 24 3 1 6 16.7 0 0 - 1 2 50.0 0 4 4 2 1 0 2 0 -10
+p321
+aVTristan Thompson CLE 02/09/2013 CLE vs. DEN L 31 11 4 10 40.0 0 1 0.0 3 4 75.0 4 0 4 0 0 1 3 4 -6
+p322
+aVAlonzo Gee CLE 02/09/2013 CLE vs. DEN L 34 20 8 8 100.0 3 3 100.0 1 2 50.0 0 2 2 2 2 1 1 2 -4
+p323
+aVLuke Walton CLE 02/09/2013 CLE vs. DEN L 15 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 3 1 0 1 3 -7
+p324
+aVTyler Zeller CLE 02/09/2013 CLE vs. DEN L 26 7 1 3 33.3 0 0 - 5 6 83.3 2 4 6 4 1 1 2 2 -1
+p325
+aVKyrie Irving CLE 02/09/2013 CLE vs. DEN L 36 26 10 24 41.7 2 5 40.0 4 4 100.0 0 6 6 7 1 0 2 4 -7
+p326
+aVShaun Livingston CLE 02/09/2013 CLE vs. DEN L 18 11 5 8 62.5 0 0 - 1 2 50.0 1 4 5 2 2 0 2 3 -2
+p327
+aVMarreese Speights CLE 02/09/2013 CLE vs. DEN L 16 5 1 10 10.0 0 1 0.0 3 4 75.0 2 1 3 0 0 1 0 3 -7
+p328
+aVCJ Miles CLE 02/09/2013 CLE vs. DEN L 16 7 3 7 42.9 1 5 20.0 0 0 - 0 0 0 4 1 1 1 2 5
+p329
+aVTristan Thompson CLE 02/08/2013 CLE vs. ORL W 27 16 7 11 63.6 0 0 - 2 2 100.0 0 5 5 1 2 1 0 2 3
+p330
+aVKyrie Irving CLE 02/08/2013 CLE vs. ORL W 35 24 9 17 52.9 1 2 50.0 5 7 71.4 1 5 6 8 1 1 2 1 8
+p331
+aVWayne Ellington CLE 02/08/2013 CLE vs. ORL W 25 14 5 11 45.5 3 5 60.0 1 2 50.0 0 1 1 1 1 0 0 1 17
+p332
+aVTyler Zeller CLE 02/08/2013 CLE vs. ORL W 30 7 0 0 - 0 0 - 7 10 70.0 2 2 4 3 0 1 1 5 10
+p333
+aVAlonzo Gee CLE 02/08/2013 CLE vs. ORL W 25 6 2 8 25.0 0 1 0.0 2 2 100.0 0 2 2 0 3 0 1 0 -1
+p334
+aVDion Waiters CLE 02/08/2013 CLE vs. ORL W 27 15 6 10 60.0 0 2 0.0 3 4 75.0 0 2 2 2 2 0 1 2 4
+p335
+aVShaun Livingston CLE 02/08/2013 CLE vs. ORL W 17 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 4 1 0 0 0 3
+p336
+aVLuke Walton CLE 02/08/2013 CLE vs. ORL W 16 3 1 2 50.0 1 1 100.0 0 0 - 0 3 3 3 0 0 1 2 5
+p337
+aVCJ Miles CLE 02/08/2013 CLE vs. ORL W 14 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 0 0 0 0 0 2
+p338
+aVMarreese Speights CLE 02/08/2013 CLE vs. ORL W 22 18 3 13 23.1 0 0 - 12 12 100.0 3 2 5 1 0 0 0 2 4
+p339
+aVDaniel Gibson CLE 02/06/2013 CLE vs. CHA W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p340
+aVKyrie Irving CLE 02/06/2013 CLE vs. CHA W 28 22 8 12 66.7 5 5 100.0 1 1 100.0 0 4 4 3 1 0 1 0 22
+p341
+aVTristan Thompson CLE 02/06/2013 CLE vs. CHA W 24 17 7 8 87.5 0 0 - 3 4 75.0 2 7 9 3 0 3 0 2 21
+p342
+aVWayne Ellington CLE 02/06/2013 CLE vs. CHA W 23 16 7 12 58.3 2 7 28.6 0 0 - 1 4 5 3 1 0 0 0 10
+p343
+aVDion Waiters CLE 02/06/2013 CLE vs. CHA W 24 19 9 14 64.3 0 3 0.0 1 2 50.0 0 1 1 5 1 0 2 2 15
+p344
+aVKevin Jones CLE 02/06/2013 CLE vs. CHA W 6 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 1
+p345
+aVCJ Miles CLE 02/06/2013 CLE vs. CHA W 16 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 2 0 0 0 2 3
+p346
+aVAlonzo Gee CLE 02/06/2013 CLE vs. CHA W 23 8 3 7 42.9 1 3 33.3 1 2 50.0 1 2 3 2 0 0 0 2 14
+p347
+aVOmri Casspi CLE 02/06/2013 CLE vs. CHA W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p348
+aVTyler Zeller CLE 02/06/2013 CLE vs. CHA W 22 8 4 6 66.7 0 0 - 0 0 - 1 5 6 3 0 1 0 4 19
+p349
+aVShaun Livingston CLE 02/06/2013 CLE vs. CHA W 24 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 6 1 0 0 0 16
+p350
+aVLuke Walton CLE 02/06/2013 CLE vs. CHA W 19 6 3 5 60.0 0 1 0.0 0 0 - 2 1 3 5 2 0 0 3 13
+p351
+aVMarreese Speights CLE 02/06/2013 CLE vs. CHA W 19 11 5 10 50.0 0 0 - 1 2 50.0 2 8 10 0 0 1 3 2 -1
+p352
+aVWayne Ellington CLE 02/02/2013 CLE vs. OKC W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 3 2 0 1 0 0
+p353
+aVCJ Miles CLE 02/02/2013 CLE vs. OKC W 15 16 5 7 71.4 4 6 66.7 2 2 100.0 0 2 2 2 0 0 0 1 2
+p354
+aVDion Waiters CLE 02/02/2013 CLE vs. OKC W 32 12 4 13 30.8 1 3 33.3 3 4 75.0 0 6 6 6 2 0 4 1 5
+p355
+aVKyrie Irving CLE 02/02/2013 CLE vs. OKC W 35 35 12 23 52.2 3 5 60.0 8 8 100.0 2 1 3 3 1 1 1 2 2
+p356
+aVTyler Zeller CLE 02/02/2013 CLE vs. OKC W 24 7 3 8 37.5 0 0 - 1 1 100.0 5 3 8 1 0 0 0 3 0
+p357
+aVTristan Thompson CLE 02/02/2013 CLE vs. OKC W 38 11 4 13 30.8 0 0 - 3 4 75.0 5 7 12 3 1 0 2 4 2
+p358
+aVShaun Livingston CLE 02/02/2013 CLE vs. OKC W 18 2 1 2 50.0 0 0 - 0 0 - 0 0 0 6 0 0 1 1 4
+p359
+aVMarreese Speights CLE 02/02/2013 CLE vs. OKC W 33 21 10 15 66.7 0 0 - 1 1 100.0 1 9 10 3 0 1 2 1 8
+p360
+aVAlonzo Gee CLE 02/02/2013 CLE vs. OKC W 29 6 2 4 50.0 0 1 0.0 2 3 66.7 1 1 2 0 3 0 2 3 2
+p361
+aVAlonzo Gee CLE 02/01/2013 CLE @ DET L 21 4 1 7 14.3 0 0 - 2 2 100.0 0 2 2 0 0 0 1 3 -16
+p362
+aVKevin Jones CLE 02/01/2013 CLE @ DET L 21 4 2 6 33.3 0 0 - 0 0 - 5 4 9 0 0 0 0 5 5
+p363
+aVDion Waiters CLE 02/01/2013 CLE @ DET L 22 6 2 7 28.6 0 2 0.0 2 4 50.0 1 2 3 1 1 0 4 3 -16
+p364
+aVShaun Livingston CLE 02/01/2013 CLE @ DET L 26 8 3 7 42.9 0 0 - 2 2 100.0 1 1 2 6 0 3 4 6 0
+p365
+aVMarreese Speights CLE 02/01/2013 CLE @ DET L 29 17 6 15 40.0 1 2 50.0 4 4 100.0 1 7 8 3 0 2 1 4 -8
+p366
+aVTristan Thompson CLE 02/01/2013 CLE @ DET L 29 19 9 11 81.8 0 1 0.0 1 2 50.0 1 8 9 1 0 0 1 2 -19
+p367
+aVCJ Miles CLE 02/01/2013 CLE @ DET L 21 12 4 10 40.0 1 4 25.0 3 3 100.0 1 3 4 3 2 1 0 2 5
+p368
+aVKyrie Irving CLE 02/01/2013 CLE @ DET L 30 14 4 10 40.0 1 3 33.3 5 5 100.0 1 1 2 5 2 0 3 3 -20
+p369
+aVOmri Casspi CLE 02/01/2013 CLE @ DET L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p370
+aVWayne Ellington CLE 02/01/2013 CLE @ DET L 23 13 3 9 33.3 3 7 42.9 4 4 100.0 0 1 1 0 0 0 1 1 -5
+p371
+aVTyler Zeller CLE 02/01/2013 CLE @ DET L 17 2 1 5 20.0 0 0 - 0 0 - 2 0 2 0 0 0 0 4 -14
+p372
+aVWayne Ellington CLE 01/29/2013 CLE vs. GSW L 16 0 0 2 0.0 0 2 0.0 0 0 - 2 1 3 1 0 0 1 1 -5
+p373
+aVDion Waiters CLE 01/29/2013 CLE vs. GSW L 28 18 6 13 46.2 1 3 33.3 5 8 62.5 0 1 1 7 1 1 2 0 -22
+p374
+aVMarreese Speights CLE 01/29/2013 CLE vs. GSW L 21 12 4 8 50.0 0 0 - 4 4 100.0 0 5 5 1 0 0 1 0 6
+p375
+aVCJ Miles CLE 01/29/2013 CLE vs. GSW L 16 10 4 11 36.4 2 8 25.0 0 0 - 1 3 4 1 1 0 0 1 4
+p376
+aVAlonzo Gee CLE 01/29/2013 CLE vs. GSW L 28 0 0 5 0.0 0 2 0.0 0 0 - 1 3 4 2 1 0 3 1 -7
+p377
+aVTristan Thompson CLE 01/29/2013 CLE vs. GSW L 37 18 8 14 57.1 0 0 - 2 2 100.0 5 6 11 1 2 1 0 5 -18
+p378
+aVKyrie Irving CLE 01/29/2013 CLE vs. GSW L 36 14 5 17 29.4 1 3 33.3 3 5 60.0 0 3 3 4 3 0 1 2 -3
+p379
+aVShaun Livingston CLE 01/29/2013 CLE vs. GSW L 22 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 5 0 1 2 2 -6
+p380
+aVTyler Zeller CLE 01/29/2013 CLE vs. GSW L 36 16 6 9 66.7 0 0 - 4 4 100.0 2 1 3 5 0 1 1 1 -14
+p381
+aVKyrie Irving CLE 01/26/2013 CLE @ TOR W 38 32 13 26 50.0 3 5 60.0 3 4 75.0 0 4 4 5 1 0 3 2 -9
+p382
+aVMarreese Speights CLE 01/26/2013 CLE @ TOR W 27 17 7 13 53.8 0 0 - 3 3 100.0 1 4 5 0 1 1 2 3 8
+p383
+aVAlonzo Gee CLE 01/26/2013 CLE @ TOR W 27 8 2 2 100.0 0 0 - 4 4 100.0 2 1 3 0 1 0 1 2 -8
+p384
+aVTyler Zeller CLE 01/26/2013 CLE @ TOR W 29 4 1 6 16.7 0 0 - 2 2 100.0 3 9 12 1 0 0 2 3 0
+p385
+aVShaun Livingston CLE 01/26/2013 CLE @ TOR W 25 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 4 3 0 0 1 4
+p386
+aVTristan Thompson CLE 01/26/2013 CLE @ TOR W 33 14 7 12 58.3 0 0 - 0 0 - 4 4 8 1 1 3 4 4 -2
+p387
+aVWayne Ellington CLE 01/26/2013 CLE @ TOR W 24 12 3 5 60.0 3 4 75.0 3 4 75.0 0 2 2 0 0 0 0 3 2
+p388
+aVDaniel Gibson CLE 01/26/2013 CLE @ TOR W 10 1 0 2 0.0 0 1 0.0 1 1 100.0 0 1 1 0 1 0 0 0 -5
+p389
+aVDion Waiters CLE 01/26/2013 CLE @ TOR W 28 6 3 10 30.0 0 1 0.0 0 0 - 0 2 2 1 0 0 3 4 15
+p390
+aVDaniel Gibson CLE 01/25/2013 CLE vs. MIL W 20 6 2 6 33.3 2 5 40.0 0 1 0.0 0 2 2 1 0 0 1 2 13
+p391
+aVWayne Ellington CLE 01/25/2013 CLE vs. MIL W 12 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 2 0 0 1 1 14
+p392
+aVKyrie Irving CLE 01/25/2013 CLE vs. MIL W 34 35 12 17 70.6 2 3 66.7 9 9 100.0 0 5 5 2 2 0 3 3 -6
+p393
+aVMarreese Speights CLE 01/25/2013 CLE vs. MIL W 18 10 4 7 57.1 0 0 - 2 4 50.0 0 6 6 0 2 0 0 1 9
+p394
+aVTristan Thompson CLE 01/25/2013 CLE vs. MIL W 28 18 8 14 57.1 0 0 - 2 2 100.0 2 4 6 2 1 3 1 1 -8
+p395
+aVShaun Livingston CLE 01/25/2013 CLE vs. MIL W 16 12 6 8 75.0 0 0 - 0 0 - 0 1 1 3 0 1 0 1 10
+p396
+aVLuke Walton CLE 01/25/2013 CLE vs. MIL W 18 5 2 4 50.0 0 1 0.0 1 3 33.3 2 3 5 7 1 0 2 2 12
+p397
+aVTyler Zeller CLE 01/25/2013 CLE vs. MIL W 30 6 3 8 37.5 0 0 - 0 0 - 4 2 6 1 1 0 0 1 -4
+p398
+aVOmri Casspi CLE 01/25/2013 CLE vs. MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -5
+p399
+aVDion Waiters CLE 01/25/2013 CLE vs. MIL W 28 16 6 12 50.0 1 2 50.0 3 3 100.0 0 2 2 4 0 1 3 4 -8
+p400
+aVAlonzo Gee CLE 01/25/2013 CLE vs. MIL W 29 2 1 5 20.0 0 1 0.0 0 0 - 0 8 8 5 2 0 4 1 -2
+p401
+aVKyrie Irving CLE 01/22/2013 CLE vs. BOS W 38 40 16 24 66.7 1 3 33.3 7 7 100.0 0 3 3 5 2 0 5 5 11
+p402
+aVShaun Livingston CLE 01/22/2013 CLE vs. BOS W 18 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 1 0 1 1 0 -6
+p403
+aVOmri Casspi CLE 01/22/2013 CLE vs. BOS W 10 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 1 1 2 -6
+p404
+aVTristan Thompson CLE 01/22/2013 CLE vs. BOS W 40 21 9 18 50.0 0 0 - 3 3 100.0 2 7 9 5 1 1 1 3 9
+p405
+aVAlonzo Gee CLE 01/22/2013 CLE vs. BOS W 31 10 3 7 42.9 0 1 0.0 4 6 66.7 1 5 6 2 1 0 0 2 8
+p406
+aVDion Waiters CLE 01/22/2013 CLE vs. BOS W 33 7 3 12 25.0 1 4 25.0 0 0 - 1 1 2 3 1 0 0 1 8
+p407
+aVTyler Zeller CLE 01/22/2013 CLE vs. BOS W 38 6 2 10 20.0 0 0 - 2 2 100.0 3 7 10 4 0 3 2 6 5
+p408
+aVDaniel Gibson CLE 01/22/2013 CLE vs. BOS W 15 0 0 3 0.0 0 3 0.0 0 0 - 0 2 2 1 1 1 1 3 -6
+p409
+aVLuke Walton CLE 01/22/2013 CLE vs. BOS W 18 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 7 1 0 2 0 2
+p410
+aVCJ Miles CLE 01/19/2013 CLE @ UTA L 36 12 4 11 36.4 1 6 16.7 3 3 100.0 0 1 1 2 0 0 1 2 -7
+p411
+aVTristan Thompson CLE 01/19/2013 CLE @ UTA L 38 12 5 9 55.6 0 0 - 2 3 66.7 4 7 11 1 0 0 1 5 -5
+p412
+aVDion Waiters CLE 01/19/2013 CLE @ UTA L 28 23 6 14 42.9 1 3 33.3 10 12 83.3 1 1 2 3 0 0 1 3 -5
+p413
+aVTyler Zeller CLE 01/19/2013 CLE @ UTA L 38 13 6 12 50.0 0 0 - 1 2 50.0 5 9 14 1 0 3 2 2 -17
+p414
+aVAlonzo Gee CLE 01/19/2013 CLE @ UTA L 29 5 2 7 28.6 1 3 33.3 0 0 - 1 1 2 1 2 1 2 1 -15
+p415
+aVKyrie Irving CLE 01/19/2013 CLE @ UTA L 34 18 7 20 35.0 2 7 28.6 2 2 100.0 0 3 3 9 0 1 2 2 -11
+p416
+aVJon Leuer CLE 01/19/2013 CLE @ UTA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p417
+aVShaun Livingston CLE 01/19/2013 CLE @ UTA L 15 6 0 3 0.0 0 0 - 6 8 75.0 1 4 5 2 0 1 0 1 1
+p418
+aVKevin Jones CLE 01/19/2013 CLE @ UTA L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p419
+aVOmri Casspi CLE 01/19/2013 CLE @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p420
+aVJeremy Pargo CLE 01/19/2013 CLE @ UTA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p421
+aVLuke Walton CLE 01/19/2013 CLE @ UTA L 18 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 1 0 0 2 -4
+p422
+aVOmri Casspi CLE 01/16/2013 CLE @ POR W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 12
+p423
+aVTyler Zeller CLE 01/16/2013 CLE @ POR W 40 11 3 7 42.9 0 0 - 5 5 100.0 1 8 9 2 0 2 1 2 12
+p424
+aVLuke Walton CLE 01/16/2013 CLE @ POR W 19 7 3 9 33.3 1 4 25.0 0 0 - 1 3 4 3 0 1 0 1 1
+p425
+aVKyrie Irving CLE 01/16/2013 CLE @ POR W 39 31 13 24 54.2 1 4 25.0 4 4 100.0 0 3 3 5 4 0 2 3 -2
+p426
+aVShaun Livingston CLE 01/16/2013 CLE @ POR W 14 3 0 2 0.0 0 0 - 3 3 100.0 0 2 2 1 1 0 1 6 -1
+p427
+aVDion Waiters CLE 01/16/2013 CLE @ POR W 23 5 1 9 11.1 0 2 0.0 3 4 75.0 1 3 4 1 0 1 0 0 1
+p428
+aVCJ Miles CLE 01/16/2013 CLE @ POR W 32 8 3 11 27.3 2 5 40.0 0 0 - 0 2 2 0 1 0 0 0 -3
+p429
+aVTristan Thompson CLE 01/16/2013 CLE @ POR W 37 19 7 15 46.7 0 0 - 5 10 50.0 7 7 14 2 2 0 3 2 -3
+p430
+aVAlonzo Gee CLE 01/16/2013 CLE @ POR W 31 9 2 5 40.0 0 1 0.0 5 6 83.3 0 1 1 1 3 0 1 2 8
+p431
+aVKyrie Irving CLE 01/14/2013 CLE @ SAC L 36 15 6 19 31.6 0 2 0.0 3 4 75.0 0 1 1 4 3 0 6 2 -3
+p432
+aVTristan Thompson CLE 01/14/2013 CLE @ SAC L 38 17 7 14 50.0 0 0 - 3 4 75.0 8 7 15 4 0 0 1 5 -2
+p433
+aVShaun Livingston CLE 01/14/2013 CLE @ SAC L 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 3 0 0 1 0 2
+p434
+aVDion Waiters CLE 01/14/2013 CLE @ SAC L 29 33 12 18 66.7 3 3 100.0 6 8 75.0 1 1 2 5 0 0 0 2 -5
+p435
+aVCJ Miles CLE 01/14/2013 CLE @ SAC L 21 17 7 14 50.0 3 6 50.0 0 0 - 1 0 1 0 1 0 0 3 -7
+p436
+aVKevin Jones CLE 01/14/2013 CLE @ SAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p437
+aVAlonzo Gee CLE 01/14/2013 CLE @ SAC L 32 6 2 3 66.7 1 1 100.0 1 2 50.0 0 3 3 1 1 1 0 2 -3
+p438
+aVOmri Casspi CLE 01/14/2013 CLE @ SAC L 11 10 4 5 80.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 0 2 -2
+p439
+aVLuke Walton CLE 01/14/2013 CLE @ SAC L 16 5 2 8 25.0 1 3 33.3 0 2 0.0 1 3 4 1 0 0 2 3 -4
+p440
+aVTyler Zeller CLE 01/14/2013 CLE @ SAC L 34 13 3 7 42.9 0 0 - 7 8 87.5 5 1 6 0 1 4 0 4 -10
+p441
+aVKyrie Irving CLE 01/13/2013 CLE @ LAL L 34 15 7 15 46.7 1 3 33.3 0 0 - 1 1 2 7 3 1 3 3 -20
+p442
+aVDion Waiters CLE 01/13/2013 CLE @ LAL L 26 15 7 18 38.9 1 4 25.0 0 0 - 0 1 1 2 1 0 4 2 -13
+p443
+aVDaniel Gibson CLE 01/13/2013 CLE @ LAL L 5 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 1 0 1 3
+p444
+aVJeremy Pargo CLE 01/13/2013 CLE @ LAL L 5 8 4 5 80.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 3
+p445
+aVCJ Miles CLE 01/13/2013 CLE @ LAL L 17 5 1 9 11.1 0 5 0.0 3 3 100.0 0 1 1 0 0 0 2 0 -10
+p446
+aVShaun Livingston CLE 01/13/2013 CLE @ LAL L 24 4 2 7 28.6 0 0 - 0 0 - 2 2 4 3 0 0 0 0 2
+p447
+aVAlonzo Gee CLE 01/13/2013 CLE @ LAL L 29 14 5 8 62.5 0 2 0.0 4 4 100.0 3 1 4 1 3 0 1 0 -17
+p448
+aVTristan Thompson CLE 01/13/2013 CLE @ LAL L 19 10 5 10 50.0 0 0 - 0 0 - 5 3 8 2 0 0 1 4 -11
+p449
+aVLuke Walton CLE 01/13/2013 CLE @ LAL L 24 5 2 5 40.0 1 4 25.0 0 0 - 2 3 5 3 1 0 2 3 -20
+p450
+aVKevin Jones CLE 01/13/2013 CLE @ LAL L 16 6 3 5 60.0 0 0 - 0 1 0.0 0 2 2 1 2 0 0 1 3
+p451
+aVTyler Zeller CLE 01/13/2013 CLE @ LAL L 26 6 1 7 14.3 0 0 - 4 4 100.0 2 3 5 0 0 0 2 5 -20
+p452
+aVOmri Casspi CLE 01/13/2013 CLE @ LAL L 9 0 0 4 0.0 0 2 0.0 0 0 - 2 4 6 1 0 0 0 0 -3
+p453
+aVJon Leuer CLE 01/13/2013 CLE @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 3
+p454
+aVDion Waiters CLE 01/11/2013 CLE @ DEN L 29 18 6 13 46.2 1 3 33.3 5 5 100.0 0 0 0 1 1 0 1 3 -10
+p455
+aVLuke Walton CLE 01/11/2013 CLE @ DEN L 23 8 3 4 75.0 1 2 50.0 1 1 100.0 0 4 4 1 1 0 3 4 10
+p456
+aVShaun Livingston CLE 01/11/2013 CLE @ DEN L 22 6 3 6 50.0 0 1 0.0 0 0 - 1 2 3 2 1 1 2 2 -2
+p457
+aVAlonzo Gee CLE 01/11/2013 CLE @ DEN L 21 2 1 7 14.3 0 2 0.0 0 2 0.0 0 2 2 0 2 0 2 5 -5
+p458
+aVTyler Zeller CLE 01/11/2013 CLE @ DEN L 33 2 1 6 16.7 0 0 - 0 0 - 3 5 8 1 2 3 2 4 -14
+p459
+aVKyrie Irving CLE 01/11/2013 CLE @ DEN L 39 28 11 26 42.3 2 9 22.2 4 5 80.0 1 2 3 7 5 0 1 2 -4
+p460
+aVTristan Thompson CLE 01/11/2013 CLE @ DEN L 36 16 8 13 61.5 0 0 - 0 0 - 4 3 7 0 2 0 1 5 -12
+p461
+aVKevin Jones CLE 01/11/2013 CLE @ DEN L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p462
+aVCJ Miles CLE 01/11/2013 CLE @ DEN L 33 11 4 10 40.0 1 7 14.3 2 3 66.7 0 7 7 0 0 0 3 5 -6
+p463
+aVTristan Thompson CLE 01/09/2013 CLE vs. ATL W 34 11 5 11 45.5 0 0 - 1 3 33.3 6 8 14 2 2 1 1 1 13
+p464
+aVAlonzo Gee CLE 01/09/2013 CLE vs. ATL W 34 15 5 12 41.7 5 9 55.6 0 2 0.0 0 6 6 3 1 1 2 2 13
+p465
+aVKyrie Irving CLE 01/09/2013 CLE vs. ATL W 33 33 11 15 73.3 5 6 83.3 6 6 100.0 0 1 1 4 3 0 2 1 15
+p466
+aVJon Leuer CLE 01/09/2013 CLE vs. ATL W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p467
+aVOmri Casspi CLE 01/09/2013 CLE vs. ATL W 14 5 2 8 25.0 1 5 20.0 0 0 - 0 2 2 1 0 0 0 0 3
+p468
+aVDion Waiters CLE 01/09/2013 CLE vs. ATL W 29 9 4 11 36.4 1 2 50.0 0 0 - 1 0 1 4 1 0 2 2 8
+p469
+aVShaun Livingston CLE 01/09/2013 CLE vs. ATL W 21 8 4 6 66.7 0 0 - 0 1 0.0 1 3 4 5 1 1 1 2 6
+p470
+aVJeremy Pargo CLE 01/09/2013 CLE vs. ATL W 14 5 2 5 40.0 0 1 0.0 1 2 50.0 0 0 0 3 1 0 0 0 3
+p471
+aVTyler Zeller CLE 01/09/2013 CLE vs. ATL W 37 11 3 8 37.5 0 0 - 5 6 83.3 2 10 12 3 0 0 2 3 9
+p472
+aVKevin Jones CLE 01/09/2013 CLE vs. ATL W 22 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 1 0 0 2 12
+p473
+aVShaun Livingston CLE 01/07/2013 CLE @ CHI L 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 1 2 2 -17
+p474
+aVJon Leuer CLE 01/07/2013 CLE @ CHI L 9 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 1 1 0 0 1 -4
+p475
+aVJeremy Pargo CLE 01/07/2013 CLE @ CHI L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p476
+aVOmri Casspi CLE 01/07/2013 CLE @ CHI L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -15
+p477
+aVDion Waiters CLE 01/07/2013 CLE @ CHI L 28 18 6 11 54.5 0 1 0.0 6 6 100.0 0 6 6 1 1 0 2 4 -18
+p478
+aVTristan Thompson CLE 01/07/2013 CLE @ CHI L 32 14 6 12 50.0 0 0 - 2 2 100.0 4 4 8 3 1 1 2 2 -11
+p479
+aVTyler Zeller CLE 01/07/2013 CLE @ CHI L 35 6 2 8 25.0 0 0 - 2 4 50.0 2 4 6 3 0 2 2 3 -25
+p480
+aVKyrie Irving CLE 01/07/2013 CLE @ CHI L 29 15 4 11 36.4 2 2 100.0 5 6 83.3 1 2 3 6 0 0 3 2 -7
+p481
+aVCJ Miles CLE 01/07/2013 CLE @ CHI L 24 15 5 11 45.5 4 7 57.1 1 1 100.0 0 3 3 0 2 0 1 5 -3
+p482
+aVAlonzo Gee CLE 01/07/2013 CLE @ CHI L 27 8 2 7 28.6 1 2 50.0 3 4 75.0 1 0 1 1 1 1 3 4 -14
+p483
+aVKevin Jones CLE 01/07/2013 CLE @ CHI L 20 4 2 3 66.7 0 0 - 0 0 - 2 0 2 2 1 0 1 0 -12
+p484
+aVLuke Walton CLE 01/05/2013 CLE vs. HOU L 10 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -8
+p485
+aVDion Waiters CLE 01/05/2013 CLE vs. HOU L 29 13 4 13 30.8 1 5 20.0 4 4 100.0 1 4 5 1 0 0 3 2 -13
+p486
+aVTristan Thompson CLE 01/05/2013 CLE vs. HOU L 37 14 5 11 45.5 0 0 - 4 6 66.7 8 8 16 2 1 1 1 3 -8
+p487
+aVCJ Miles CLE 01/05/2013 CLE vs. HOU L 26 9 4 14 28.6 1 6 16.7 0 0 - 1 2 3 1 1 0 0 4 0
+p488
+aVKyrie Irving CLE 01/05/2013 CLE vs. HOU L 41 30 10 24 41.7 3 8 37.5 7 8 87.5 1 3 4 6 4 0 8 2 -6
+p489
+aVTyler Zeller CLE 01/05/2013 CLE vs. HOU L 37 12 4 9 44.4 0 0 - 4 4 100.0 1 4 5 5 3 1 0 3 0
+p490
+aVKevin Jones CLE 01/05/2013 CLE vs. HOU L 12 6 2 2 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 1 0
+p491
+aVShaun Livingston CLE 01/05/2013 CLE vs. HOU L 17 0 0 3 0.0 0 0 - 0 0 - 0 0 0 3 1 1 0 3 -4
+p492
+aVAlonzo Gee CLE 01/05/2013 CLE vs. HOU L 31 18 6 12 50.0 2 4 50.0 4 4 100.0 1 5 6 1 1 0 1 6 -1
+p493
+aVCJ Miles CLE 01/04/2013 CLE @ CHA W 39 18 7 14 50.0 4 9 44.4 0 0 - 0 3 3 0 2 1 0 4 11
+p494
+aVAlonzo Gee CLE 01/04/2013 CLE @ CHA W 34 8 3 7 42.9 0 1 0.0 2 4 50.0 0 7 7 5 0 0 1 4 3
+p495
+aVTristan Thompson CLE 01/04/2013 CLE @ CHA W 37 19 8 10 80.0 0 0 - 3 4 75.0 2 11 13 2 0 0 2 2 11
+p496
+aVShaun Livingston CLE 01/04/2013 CLE @ CHA W 26 6 3 6 50.0 0 0 - 0 0 - 2 1 3 5 2 0 0 2 -2
+p497
+aVKyrie Irving CLE 01/04/2013 CLE @ CHA W 38 33 10 21 47.6 3 4 75.0 10 10 100.0 0 5 5 6 4 3 5 4 1
+p498
+aVDion Waiters CLE 01/04/2013 CLE @ CHA W 18 9 3 6 50.0 0 0 - 3 5 60.0 0 1 1 2 1 2 3 1 -4
+p499
+aVTyler Zeller CLE 01/04/2013 CLE @ CHA W 30 9 3 8 37.5 0 0 - 3 6 50.0 1 4 5 2 0 3 1 4 -2
+p500
+aVLuke Walton CLE 01/04/2013 CLE @ CHA W 17 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 1 0 1 1 1 -8
+p501
+aVShaun Livingston CLE 01/02/2013 CLE vs. SAC L 13 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 0 4
+p502
+aVTristan Thompson CLE 01/02/2013 CLE vs. SAC L 35 9 4 12 33.3 0 0 - 1 2 50.0 5 8 13 0 0 0 2 4 4
+p503
+aVKevin Jones CLE 01/02/2013 CLE vs. SAC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p504
+aVCJ Miles CLE 01/02/2013 CLE vs. SAC L 29 12 4 13 30.8 1 7 14.3 3 3 100.0 0 2 2 0 0 0 2 2 -5
+p505
+aVDion Waiters CLE 01/02/2013 CLE vs. SAC L 29 20 8 19 42.1 1 4 25.0 3 3 100.0 1 1 2 3 1 0 0 5 1
+p506
+aVAlonzo Gee CLE 01/02/2013 CLE vs. SAC L 39 16 5 10 50.0 1 3 33.3 5 6 83.3 2 8 10 6 0 0 1 2 -3
+p507
+aVTyler Zeller CLE 01/02/2013 CLE vs. SAC L 36 8 3 7 42.9 0 0 - 2 2 100.0 3 5 8 0 0 2 3 2 -5
+p508
+aVKyrie Irving CLE 01/02/2013 CLE vs. SAC L 35 22 8 18 44.4 1 4 25.0 5 6 83.3 2 3 5 6 0 0 3 2 -7
+p509
+aVLuke Walton CLE 01/02/2013 CLE vs. SAC L 18 5 2 7 28.6 1 3 33.3 0 0 - 1 6 7 3 1 1 2 3 -7
+p510
+aVAlonzo Gee CLE 12/29/2012 CLE @ BKN L 32 10 4 9 44.4 0 1 0.0 2 2 100.0 0 4 4 1 3 0 4 1 -7
+p511
+aVDion Waiters CLE 12/29/2012 CLE @ BKN L 32 5 2 8 25.0 0 1 0.0 1 2 50.0 0 2 2 4 3 0 4 1 -9
+p512
+aVTristan Thompson CLE 12/29/2012 CLE @ BKN L 36 17 5 11 45.5 0 0 - 7 8 87.5 9 6 15 1 0 2 2 4 8
+p513
+aVCJ Miles CLE 12/29/2012 CLE @ BKN L 34 33 11 15 73.3 8 10 80.0 3 3 100.0 0 2 2 0 0 0 1 5 7
+p514
+aVKyrie Irving CLE 12/29/2012 CLE @ BKN L 35 13 5 16 31.3 1 6 16.7 2 2 100.0 0 4 4 7 1 0 2 3 -1
+p515
+aVLuke Walton CLE 12/29/2012 CLE @ BKN L 30 4 2 4 50.0 0 2 0.0 0 2 0.0 0 4 4 6 0 0 2 3 9
+p516
+aVJeremy Pargo CLE 12/29/2012 CLE @ BKN L 13 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -2
+p517
+aVTyler Zeller CLE 12/29/2012 CLE @ BKN L 27 12 6 14 42.9 0 0 - 0 0 - 4 3 7 1 0 0 2 6 -20
+p518
+aVCJ Miles CLE 12/28/2012 CLE vs. ATL L 22 10 3 7 42.9 2 4 50.0 2 2 100.0 1 2 3 0 0 0 1 1 -21
+p519
+aVDion Waiters CLE 12/28/2012 CLE vs. ATL L 36 18 7 21 33.3 2 3 66.7 2 2 100.0 2 4 6 4 3 0 1 1 2
+p520
+aVDaniel Gibson CLE 12/28/2012 CLE vs. ATL L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -7
+p521
+aVJeremy Pargo CLE 12/28/2012 CLE vs. ATL L 10 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 2 0 0 2 0 -11
+p522
+aVKevin Jones CLE 12/28/2012 CLE vs. ATL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 10
+p523
+aVTristan Thompson CLE 12/28/2012 CLE vs. ATL L 36 8 4 8 50.0 0 0 - 0 0 - 3 5 8 1 0 1 0 4 5
+p524
+aVTyler Zeller CLE 12/28/2012 CLE vs. ATL L 37 12 5 11 45.5 0 0 - 2 2 100.0 3 4 7 1 1 1 4 5 -16
+p525
+aVLuke Walton CLE 12/28/2012 CLE vs. ATL L 19 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 3 2 0 1 4 -15
+p526
+aVAlonzo Gee CLE 12/28/2012 CLE vs. ATL L 32 10 2 9 22.2 0 3 0.0 6 6 100.0 0 6 6 3 1 1 1 0 10
+p527
+aVKyrie Irving CLE 12/28/2012 CLE vs. ATL L 38 28 12 20 60.0 4 7 57.1 0 0 - 1 5 6 5 4 1 1 1 3
+p528
+aVDion Waiters CLE 12/26/2012 CLE @ WAS W 27 9 3 11 27.3 2 5 40.0 1 2 50.0 0 0 0 1 1 0 0 2 -6
+p529
+aVTristan Thompson CLE 12/26/2012 CLE @ WAS W 37 15 5 9 55.6 0 0 - 5 5 100.0 3 9 12 0 0 1 2 3 -10
+p530
+aVTyler Zeller CLE 12/26/2012 CLE @ WAS W 36 6 3 10 30.0 0 0 - 0 0 - 3 4 7 2 1 2 4 3 9
+p531
+aVAlonzo Gee CLE 12/26/2012 CLE @ WAS W 34 10 4 9 44.4 1 2 50.0 1 2 50.0 3 5 8 3 2 0 0 2 3
+p532
+aVCJ Miles CLE 12/26/2012 CLE @ WAS W 14 3 1 6 16.7 1 5 20.0 0 0 - 0 0 0 2 0 0 1 2 0
+p533
+aVKyrie Irving CLE 12/26/2012 CLE @ WAS W 37 26 8 23 34.8 3 9 33.3 7 11 63.6 1 5 6 8 2 0 2 2 7
+p534
+aVJeremy Pargo CLE 12/26/2012 CLE @ WAS W 11 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p535
+aVDaniel Gibson CLE 12/26/2012 CLE @ WAS W 21 10 3 4 75.0 3 4 75.0 1 3 33.3 0 1 1 1 0 0 0 2 9
+p536
+aVLuke Walton CLE 12/26/2012 CLE @ WAS W 22 6 3 6 50.0 0 1 0.0 0 0 - 2 2 4 2 3 0 0 0 7
+p537
+aVTyler Zeller CLE 12/22/2012 CLE @ MIL W 34 11 4 14 28.6 0 0 - 3 3 100.0 4 6 10 0 1 0 0 6 -2
+p538
+aVTristan Thompson CLE 12/22/2012 CLE @ MIL W 37 14 6 8 75.0 0 0 - 2 4 50.0 2 12 14 1 0 1 2 4 25
+p539
+aVLuke Walton CLE 12/22/2012 CLE @ MIL W 24 7 3 9 33.3 1 1 100.0 0 0 - 1 5 6 4 3 0 1 2 1
+p540
+aVDion Waiters CLE 12/22/2012 CLE @ MIL W 27 18 9 17 52.9 0 3 0.0 0 0 - 0 5 5 2 1 0 3 4 14
+p541
+aVDaniel Gibson CLE 12/22/2012 CLE @ MIL W 21 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -2
+p542
+aVKyrie Irving CLE 12/22/2012 CLE @ MIL W 35 15 6 12 50.0 1 3 33.3 2 2 100.0 2 3 5 4 0 1 2 2 -2
+p543
+aVCJ Miles CLE 12/22/2012 CLE @ MIL W 21 16 5 9 55.6 3 6 50.0 3 3 100.0 0 2 2 1 0 0 2 3 10
+p544
+aVAlonzo Gee CLE 12/22/2012 CLE @ MIL W 28 10 4 12 33.3 0 2 0.0 2 2 100.0 1 2 3 0 2 1 2 2 2
+p545
+aVJeremy Pargo CLE 12/22/2012 CLE @ MIL W 13 3 1 5 20.0 0 1 0.0 1 2 50.0 1 0 1 2 0 0 0 2 14
+p546
+aVKevin Jones CLE 12/21/2012 CLE vs. IND L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 11
+p547
+aVJeremy Pargo CLE 12/21/2012 CLE vs. IND L 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 7
+p548
+aVTristan Thompson CLE 12/21/2012 CLE vs. IND L 34 12 5 9 55.6 0 0 - 2 5 40.0 4 9 13 0 0 2 3 3 -21
+p549
+aVSamardo Samuels CLE 12/21/2012 CLE vs. IND L 18 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 0 5 3
+p550
+aVCJ Miles CLE 12/21/2012 CLE vs. IND L 15 10 4 11 36.4 2 4 50.0 0 1 0.0 1 4 5 1 1 1 0 1 -5
+p551
+aVDion Waiters CLE 12/21/2012 CLE vs. IND L 31 11 4 12 33.3 0 3 0.0 3 4 75.0 0 4 4 7 1 0 2 3 -8
+p552
+aVAlonzo Gee CLE 12/21/2012 CLE vs. IND L 32 11 4 8 50.0 1 2 50.0 2 2 100.0 0 0 0 2 1 1 2 3 -12
+p553
+aVOmri Casspi CLE 12/21/2012 CLE vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 7
+p554
+aVTyler Zeller CLE 12/21/2012 CLE vs. IND L 35 12 5 13 38.5 0 0 - 2 2 100.0 1 6 7 1 0 2 3 3 -13
+p555
+aVKyrie Irving CLE 12/21/2012 CLE vs. IND L 35 17 5 16 31.3 0 3 0.0 7 7 100.0 0 1 1 5 1 0 6 0 -13
+p556
+aVDaniel Gibson CLE 12/21/2012 CLE vs. IND L 29 8 3 6 50.0 2 4 50.0 0 1 0.0 0 2 2 1 0 0 0 2 -6
+p557
+aVDion Waiters CLE 12/19/2012 CLE @ BOS L 35 13 6 15 40.0 0 4 0.0 1 2 50.0 2 2 4 4 1 0 3 2 -15
+p558
+aVLuke Walton CLE 12/19/2012 CLE @ BOS L 14 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 1 9
+p559
+aVSamardo Samuels CLE 12/19/2012 CLE @ BOS L 10 3 1 5 20.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 3 9
+p560
+aVCJ Miles CLE 12/19/2012 CLE @ BOS L 17 3 1 5 20.0 1 4 25.0 0 0 - 1 3 4 2 0 0 0 3 7
+p561
+aVKyrie Irving CLE 12/19/2012 CLE @ BOS L 37 22 9 17 52.9 2 5 40.0 2 4 50.0 1 3 4 2 2 0 3 4 -12
+p562
+aVDonald Sloan CLE 12/19/2012 CLE @ BOS L 6 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 1 0 0 0 1 -4
+p563
+aVTristan Thompson CLE 12/19/2012 CLE @ BOS L 38 11 2 10 20.0 0 0 - 7 9 77.8 6 6 12 2 2 2 1 2 -16
+p564
+aVKevin Jones CLE 12/19/2012 CLE @ BOS L 11 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p565
+aVTyler Zeller CLE 12/19/2012 CLE @ BOS L 36 20 9 15 60.0 0 0 - 2 3 66.7 2 1 3 2 1 0 0 3 -17
+p566
+aVAlonzo Gee CLE 12/19/2012 CLE @ BOS L 34 11 5 12 41.7 1 3 33.3 0 0 - 0 3 3 2 1 0 2 2 -21
+p567
+aVDion Waiters CLE 12/18/2012 CLE vs. TOR L 28 8 4 13 30.8 0 2 0.0 0 2 0.0 0 0 0 4 0 1 3 4 -17
+p568
+aVTristan Thompson CLE 12/18/2012 CLE vs. TOR L 29 10 5 8 62.5 0 0 - 0 1 0.0 7 2 9 1 1 1 2 4 -6
+p569
+aVCJ Miles CLE 12/18/2012 CLE vs. TOR L 30 13 4 7 57.1 2 4 50.0 3 3 100.0 0 4 4 1 0 0 2 6 -18
+p570
+aVKyrie Irving CLE 12/18/2012 CLE vs. TOR L 37 23 9 16 56.3 2 5 40.0 3 5 60.0 0 3 3 7 3 1 5 2 2
+p571
+aVTyler Zeller CLE 12/18/2012 CLE vs. TOR L 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -11
+p572
+aVAlonzo Gee CLE 12/18/2012 CLE vs. TOR L 41 15 6 8 75.0 1 1 100.0 2 3 66.7 1 3 4 2 0 3 2 4 -9
+p573
+aVLuke Walton CLE 12/18/2012 CLE vs. TOR L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 3 -3
+p574
+aVDonald Sloan CLE 12/18/2012 CLE vs. TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p575
+aVDaniel Gibson CLE 12/18/2012 CLE vs. TOR L 15 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 0 0 0 1 -13
+p576
+aVAnderson Varejao CLE 12/18/2012 CLE vs. TOR L 39 22 5 12 41.7 0 0 - 12 16 75.0 3 7 10 2 1 1 0 0 -5
+p577
+aVCJ Miles CLE 12/15/2012 CLE @ NYK L 41 17 7 18 38.9 3 9 33.3 0 0 - 2 6 8 1 1 0 1 3 0
+p578
+aVTyler Zeller CLE 12/15/2012 CLE @ NYK L 15 8 4 5 80.0 0 0 - 0 0 - 2 4 6 0 0 0 2 3 -6
+p579
+aVKyrie Irving CLE 12/15/2012 CLE @ NYK L 39 41 15 25 60.0 5 8 62.5 6 7 85.7 1 4 5 5 1 0 3 3 8
+p580
+aVTristan Thompson CLE 12/15/2012 CLE @ NYK L 17 10 5 5 100.0 0 0 - 0 0 - 0 4 4 0 0 0 1 0 -4
+p581
+aVDaniel Gibson CLE 12/15/2012 CLE @ NYK L 34 5 2 9 22.2 1 4 25.0 0 0 - 0 4 4 3 0 0 1 5 -1
+p582
+aVAnderson Varejao CLE 12/15/2012 CLE @ NYK L 36 9 3 6 50.0 0 0 - 3 5 60.0 2 6 8 5 1 0 0 4 11
+p583
+aVAlonzo Gee CLE 12/15/2012 CLE @ NYK L 41 9 4 12 33.3 0 3 0.0 1 1 100.0 1 4 5 0 2 0 3 4 8
+p584
+aVDonald Sloan CLE 12/15/2012 CLE @ NYK L 12 3 0 2 0.0 0 0 - 3 4 75.0 0 3 3 1 0 0 1 1 -9
+p585
+aVKevin Jones CLE 12/15/2012 CLE @ NYK L 4 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -12
+p586
+aVDonald Sloan CLE 12/14/2012 CLE vs. MIL L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 3 1 0 0 0 3
+p587
+aVAnderson Varejao CLE 12/14/2012 CLE vs. MIL L 33 8 4 9 44.4 0 0 - 0 0 - 6 12 18 4 2 0 3 3 -10
+p588
+aVTyler Zeller CLE 12/14/2012 CLE vs. MIL L 32 6 2 7 28.6 0 0 - 2 2 100.0 0 3 3 1 1 2 4 2 7
+p589
+aVCJ Miles CLE 12/14/2012 CLE vs. MIL L 32 17 6 14 42.9 3 5 60.0 2 2 100.0 1 3 4 2 2 0 4 5 -7
+p590
+aVAlonzo Gee CLE 12/14/2012 CLE vs. MIL L 37 9 4 8 50.0 1 1 100.0 0 0 - 1 3 4 5 1 1 2 3 1
+p591
+aVKyrie Irving CLE 12/14/2012 CLE vs. MIL L 36 26 9 23 39.1 2 5 40.0 6 6 100.0 1 2 3 3 0 1 6 5 -7
+p592
+aVTristan Thompson CLE 12/14/2012 CLE vs. MIL L 25 5 1 5 20.0 0 0 - 3 4 75.0 3 6 9 3 2 0 1 1 -9
+p593
+aVDaniel Gibson CLE 12/14/2012 CLE vs. MIL L 27 11 4 10 40.0 3 7 42.9 0 0 - 1 1 2 0 1 0 4 3 -2
+p594
+aVSamardo Samuels CLE 12/14/2012 CLE vs. MIL L 6 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 1 0 0 0 4
+p595
+aVAlonzo Gee CLE 12/12/2012 CLE @ IND L 31 1 0 7 0.0 0 0 - 1 2 50.0 2 2 4 4 0 0 2 3 -29
+p596
+aVSamardo Samuels CLE 12/12/2012 CLE @ IND L 22 10 5 11 45.5 0 1 0.0 0 2 0.0 0 2 2 1 0 0 0 4 -1
+p597
+aVJeremy Pargo CLE 12/12/2012 CLE @ IND L 3 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 0
+p598
+aVDaniel Gibson CLE 12/12/2012 CLE @ IND L 18 8 3 8 37.5 2 5 40.0 0 0 - 0 0 0 2 0 0 0 1 -7
+p599
+aVKevin Jones CLE 12/12/2012 CLE @ IND L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p600
+aVTyler Zeller CLE 12/12/2012 CLE @ IND L 17 8 3 3 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 6 -14
+p601
+aVLuke Walton CLE 12/12/2012 CLE @ IND L 17 3 1 3 33.3 0 2 0.0 1 2 50.0 0 4 4 2 1 2 1 0 14
+p602
+aVCJ Miles CLE 12/12/2012 CLE @ IND L 28 28 8 18 44.4 6 9 66.7 6 6 100.0 0 2 2 0 1 1 2 2 -8
+p603
+aVAnderson Varejao CLE 12/12/2012 CLE @ IND L 29 4 0 9 0.0 0 0 - 4 4 100.0 4 8 12 3 1 2 1 2 -13
+p604
+aVDonald Sloan CLE 12/12/2012 CLE @ IND L 20 5 1 5 20.0 1 2 50.0 2 2 100.0 0 1 1 2 2 0 1 2 5
+p605
+aVTristan Thompson CLE 12/12/2012 CLE @ IND L 25 4 2 4 50.0 0 0 - 0 1 0.0 4 5 9 1 0 1 3 3 -2
+p606
+aVKyrie Irving CLE 12/12/2012 CLE @ IND L 28 9 4 12 33.3 0 3 0.0 1 2 50.0 0 1 1 4 2 0 2 4 -20
+p607
+aVTyler Zeller CLE 12/11/2012 CLE vs. LAL W 27 6 2 6 33.3 0 0 - 2 2 100.0 1 5 6 3 2 0 0 3 4
+p608
+aVKyrie Irving CLE 12/11/2012 CLE vs. LAL W 38 28 11 21 52.4 4 6 66.7 2 3 66.7 2 4 6 11 1 0 4 3 14
+p609
+aVOmri Casspi CLE 12/11/2012 CLE vs. LAL W 12 0 0 3 0.0 0 1 0.0 0 2 0.0 0 1 1 1 0 0 0 2 0
+p610
+aVCJ Miles CLE 12/11/2012 CLE vs. LAL W 37 28 10 18 55.6 5 10 50.0 3 4 75.0 0 5 5 0 1 1 1 5 9
+p611
+aVAnderson Varejao CLE 12/11/2012 CLE vs. LAL W 35 20 8 13 61.5 0 1 0.0 4 7 57.1 2 7 9 5 3 1 1 4 9
+p612
+aVSamardo Samuels CLE 12/11/2012 CLE vs. LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p613
+aVJeremy Pargo CLE 12/11/2012 CLE vs. LAL W 10 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 1 2 1 -6
+p614
+aVTristan Thompson CLE 12/11/2012 CLE vs. LAL W 34 1 0 3 0.0 0 0 - 1 4 25.0 2 8 10 0 0 0 1 4 3
+p615
+aVDaniel Gibson CLE 12/11/2012 CLE vs. LAL W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p616
+aVAlonzo Gee CLE 12/11/2012 CLE vs. LAL W 40 17 6 14 42.9 2 5 40.0 3 4 75.0 1 4 5 3 1 1 3 4 7
+p617
+aVJeremy Pargo CLE 12/08/2012 CLE vs. DET L 28 24 10 18 55.6 2 4 50.0 2 3 66.7 0 2 2 4 0 1 1 3 3
+p618
+aVAlonzo Gee CLE 12/08/2012 CLE vs. DET L 38 12 4 12 33.3 1 6 16.7 3 3 100.0 3 6 9 0 1 1 1 2 -6
+p619
+aVDonald Sloan CLE 12/08/2012 CLE vs. DET L 21 2 1 6 16.7 0 1 0.0 0 0 - 0 4 4 2 0 0 0 2 -10
+p620
+aVOmri Casspi CLE 12/08/2012 CLE vs. DET L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 1 0 -1
+p621
+aVAnderson Varejao CLE 12/08/2012 CLE vs. DET L 36 16 7 13 53.8 0 0 - 2 3 66.7 7 6 13 5 0 2 3 5 -2
+p622
+aVTristan Thompson CLE 12/08/2012 CLE vs. DET L 24 9 4 6 66.7 0 0 - 1 2 50.0 4 1 5 0 1 1 0 3 7
+p623
+aVTyler Zeller CLE 12/08/2012 CLE vs. DET L 29 13 6 11 54.5 0 1 0.0 1 2 50.0 5 3 8 0 0 3 2 3 -9
+p624
+aVDaniel Gibson CLE 12/08/2012 CLE vs. DET L 33 6 2 11 18.2 2 9 22.2 0 0 - 0 1 1 6 1 0 3 4 -1
+p625
+aVCJ Miles CLE 12/08/2012 CLE vs. DET L 15 15 5 11 45.5 1 4 25.0 4 4 100.0 1 1 2 1 0 0 3 3 -6
+p626
+aVKevin Jones CLE 12/08/2012 CLE vs. DET L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p627
+aVDonald Sloan CLE 12/07/2012 CLE @ MIN L 31 10 4 11 36.4 1 2 50.0 1 2 50.0 0 5 5 1 1 0 3 0 -3
+p628
+aVKevin Jones CLE 12/07/2012 CLE @ MIN L 9 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 1 0 0 0 3
+p629
+aVJeremy Pargo CLE 12/07/2012 CLE @ MIN L 17 5 2 9 22.2 0 2 0.0 1 2 50.0 0 2 2 2 1 0 2 2 -15
+p630
+aVTyler Zeller CLE 12/07/2012 CLE @ MIN L 15 5 2 6 33.3 0 0 - 1 1 100.0 4 3 7 2 1 0 0 5 0
+p631
+aVSamardo Samuels CLE 12/07/2012 CLE @ MIN L 7 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 0 2 -1
+p632
+aVAlonzo Gee CLE 12/07/2012 CLE @ MIN L 31 16 7 12 58.3 2 6 33.3 0 0 - 0 1 1 1 0 1 1 0 -14
+p633
+aVOmri Casspi CLE 12/07/2012 CLE @ MIN L 15 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 1 2 0 1 0 -3
+p634
+aVDaniel Gibson CLE 12/07/2012 CLE @ MIN L 27 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 4 4 0 2 2 -16
+p635
+aVCJ Miles CLE 12/07/2012 CLE @ MIN L 23 13 5 12 41.7 2 5 40.0 1 2 50.0 0 1 1 0 1 0 5 1 -3
+p636
+aVLuke Walton CLE 12/07/2012 CLE @ MIN L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 2 0 0 2 -5
+p637
+aVAnderson Varejao CLE 12/07/2012 CLE @ MIN L 34 4 2 10 20.0 0 0 - 0 0 - 4 10 14 2 0 1 2 5 -20
+p638
+aVTristan Thompson CLE 12/07/2012 CLE @ MIN L 25 6 3 7 42.9 0 0 - 0 0 - 0 3 3 0 2 0 2 5 -13
+p639
+aVCJ Miles CLE 12/05/2012 CLE vs. CHI L 15 10 4 8 50.0 1 1 100.0 1 1 100.0 0 2 2 1 1 0 0 2 2
+p640
+aVTristan Thompson CLE 12/05/2012 CLE vs. CHI L 32 11 5 9 55.6 0 0 - 1 2 50.0 5 0 5 0 1 2 2 2 -11
+p641
+aVJeremy Pargo CLE 12/05/2012 CLE vs. CHI L 29 9 3 12 25.0 0 4 0.0 3 4 75.0 0 2 2 4 1 0 2 0 -11
+p642
+aVOmri Casspi CLE 12/05/2012 CLE vs. CHI L 18 1 0 2 0.0 0 1 0.0 1 4 25.0 0 4 4 1 0 0 0 1 2
+p643
+aVAlonzo Gee CLE 12/05/2012 CLE vs. CHI L 30 8 4 10 40.0 0 4 0.0 0 0 - 1 3 4 2 0 0 1 1 -12
+p644
+aVAnderson Varejao CLE 12/05/2012 CLE vs. CHI L 36 11 4 16 25.0 0 0 - 3 4 75.0 5 10 15 3 3 0 3 3 -15
+p645
+aVTyler Zeller CLE 12/05/2012 CLE vs. CHI L 25 10 4 12 33.3 0 0 - 2 2 100.0 3 4 7 0 1 0 1 2 -1
+p646
+aVDonald Sloan CLE 12/05/2012 CLE vs. CHI L 24 14 4 8 50.0 2 3 66.7 4 4 100.0 0 1 1 3 0 0 0 2 2
+p647
+aVDaniel Gibson CLE 12/05/2012 CLE vs. CHI L 28 10 3 7 42.9 2 3 66.7 2 2 100.0 0 0 0 1 1 0 1 5 -13
+p648
+aVSamardo Samuels CLE 12/05/2012 CLE vs. CHI L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 7
+p649
+aVAnderson Varejao CLE 12/03/2012 CLE @ DET L 39 17 7 18 38.9 0 1 0.0 3 6 50.0 9 9 18 2 3 1 3 2 -4
+p650
+aVAlonzo Gee CLE 12/03/2012 CLE @ DET L 30 6 2 10 20.0 0 3 0.0 2 2 100.0 0 2 2 1 3 0 1 0 -5
+p651
+aVTristan Thompson CLE 12/03/2012 CLE @ DET L 33 10 4 13 30.8 0 0 - 2 2 100.0 5 6 11 1 0 2 0 4 -8
+p652
+aVCJ Miles CLE 12/03/2012 CLE @ DET L 9 8 3 6 50.0 0 2 0.0 2 2 100.0 0 3 3 0 0 0 0 2 -9
+p653
+aVJeremy Pargo CLE 12/03/2012 CLE @ DET L 30 10 4 13 30.8 0 2 0.0 2 4 50.0 2 2 4 8 1 0 2 4 -11
+p654
+aVDonald Sloan CLE 12/03/2012 CLE @ DET L 18 7 3 8 37.5 0 1 0.0 1 1 100.0 1 4 5 4 0 0 0 2 1
+p655
+aVOmri Casspi CLE 12/03/2012 CLE @ DET L 28 10 4 11 36.4 2 5 40.0 0 0 - 1 3 4 1 0 1 1 2 -9
+p656
+aVSamardo Samuels CLE 12/03/2012 CLE @ DET L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p657
+aVDaniel Gibson CLE 12/03/2012 CLE @ DET L 29 3 1 6 16.7 1 6 16.7 0 0 - 0 2 2 1 0 0 1 1 3
+p658
+aVTyler Zeller CLE 12/03/2012 CLE @ DET L 20 8 4 8 50.0 0 0 - 0 0 - 2 2 4 1 0 1 3 3 -5
+p659
+aVOmri Casspi CLE 12/01/2012 CLE vs. POR L 20 11 4 9 44.4 3 6 50.0 0 1 0.0 2 4 6 1 0 0 1 1 2
+p660
+aVTristan Thompson CLE 12/01/2012 CLE vs. POR L 38 10 5 8 62.5 0 0 - 0 0 - 1 1 2 1 0 2 1 5 -12
+p661
+aVAlonzo Gee CLE 12/01/2012 CLE vs. POR L 38 22 9 17 52.9 3 8 37.5 1 3 33.3 0 4 4 3 1 0 2 4 -3
+p662
+aVAnderson Varejao CLE 12/01/2012 CLE vs. POR L 47 19 7 11 63.6 0 0 - 5 6 83.3 8 9 17 5 2 0 2 4 0
+p663
+aVDion Waiters CLE 12/01/2012 CLE vs. POR L 36 12 4 17 23.5 2 8 25.0 2 2 100.0 0 5 5 7 1 0 2 2 -2
+p664
+aVDonald Sloan CLE 12/01/2012 CLE vs. POR L 16 10 3 5 60.0 0 1 0.0 4 4 100.0 0 1 1 3 1 0 2 0 5
+p665
+aVTyler Zeller CLE 12/01/2012 CLE vs. POR L 31 14 6 11 54.5 0 0 - 2 2 100.0 4 6 10 2 0 2 1 1 10
+p666
+aVDaniel Gibson CLE 12/01/2012 CLE vs. POR L 29 6 2 9 22.2 2 6 33.3 0 0 - 0 1 1 2 0 0 2 3 6
+p667
+aVJeremy Pargo CLE 12/01/2012 CLE vs. POR L 36 13 3 12 25.0 3 6 50.0 4 4 100.0 0 2 2 8 1 0 3 1 -11
+p668
+aVDion Waiters CLE 11/30/2012 CLE @ ATL W 30 21 6 16 37.5 2 7 28.6 7 7 100.0 0 1 1 7 0 0 4 3 0
+p669
+aVDaniel Gibson CLE 11/30/2012 CLE @ ATL W 28 9 3 10 30.0 3 5 60.0 0 0 - 0 1 1 3 2 0 0 3 -2
+p670
+aVTristan Thompson CLE 11/30/2012 CLE @ ATL W 33 6 3 7 42.9 0 0 - 0 0 - 6 9 15 1 2 1 0 4 -1
+p671
+aVAlonzo Gee CLE 11/30/2012 CLE @ ATL W 32 13 4 12 33.3 1 4 25.0 4 5 80.0 1 4 5 1 0 0 6 5 10
+p672
+aVSamardo Samuels CLE 11/30/2012 CLE @ ATL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p673
+aVDonald Sloan CLE 11/30/2012 CLE @ ATL W 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -7
+p674
+aVJeremy Pargo CLE 11/30/2012 CLE @ ATL W 31 22 9 13 69.2 2 4 50.0 2 2 100.0 0 1 1 2 2 0 4 2 16
+p675
+aVOmri Casspi CLE 11/30/2012 CLE @ ATL W 13 8 3 5 60.0 2 3 66.7 0 0 - 1 2 3 1 2 0 0 1 -10
+p676
+aVAnderson Varejao CLE 11/30/2012 CLE @ ATL W 35 20 7 12 58.3 0 0 - 6 6 100.0 7 11 18 3 0 0 2 2 -5
+p677
+aVTyler Zeller CLE 11/30/2012 CLE @ ATL W 25 10 4 6 66.7 0 0 - 2 2 100.0 2 1 3 2 0 2 2 4 10
+p678
+aVTyler Zeller CLE 11/27/2012 CLE vs. PHX L 20 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -17
+p679
+aVJon Leuer CLE 11/27/2012 CLE vs. PHX L 3 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 8
+p680
+aVTristan Thompson CLE 11/27/2012 CLE vs. PHX L 24 5 1 7 14.3 0 0 - 3 4 75.0 2 4 6 0 0 0 3 3 -7
+p681
+aVDion Waiters CLE 11/27/2012 CLE vs. PHX L 38 16 7 20 35.0 0 4 0.0 2 3 66.7 1 2 3 7 2 1 3 2 -8
+p682
+aVOmri Casspi CLE 11/27/2012 CLE vs. PHX L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 1 1 1 -14
+p683
+aVLuke Walton CLE 11/27/2012 CLE vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 0 0 7
+p684
+aVCJ Miles CLE 11/27/2012 CLE vs. PHX L 19 8 3 11 27.3 0 5 0.0 2 2 100.0 1 3 4 1 1 0 1 2 -5
+p685
+aVAlonzo Gee CLE 11/27/2012 CLE vs. PHX L 35 12 3 7 42.9 0 0 - 6 7 85.7 2 1 3 3 2 0 3 3 -18
+p686
+aVAnderson Varejao CLE 11/27/2012 CLE vs. PHX L 38 20 10 15 66.7 0 0 - 0 0 - 6 12 18 3 1 1 2 3 -14
+p687
+aVDonald Sloan CLE 11/27/2012 CLE vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p688
+aVJeremy Pargo CLE 11/27/2012 CLE vs. PHX L 36 8 3 12 25.0 1 4 25.0 1 2 50.0 2 2 4 5 1 0 5 5 -18
+p689
+aVSamardo Samuels CLE 11/27/2012 CLE vs. PHX L 8 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 2 1 0 0 13
+p690
+aVSamardo Samuels CLE 11/26/2012 CLE @ MEM L 13 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 0 0 1 2 2 -3
+p691
+aVTristan Thompson CLE 11/26/2012 CLE @ MEM L 32 9 4 7 57.1 0 0 - 1 2 50.0 3 2 5 0 2 2 3 5 -11
+p692
+aVDion Waiters CLE 11/26/2012 CLE @ MEM L 35 15 5 16 31.3 0 2 0.0 5 6 83.3 0 0 0 3 4 0 2 1 -6
+p693
+aVJeremy Pargo CLE 11/26/2012 CLE @ MEM L 31 9 4 12 33.3 1 4 25.0 0 0 - 1 1 2 3 1 0 3 0 -5
+p694
+aVTyler Zeller CLE 11/26/2012 CLE @ MEM L 13 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 5 5
+p695
+aVAlonzo Gee CLE 11/26/2012 CLE @ MEM L 33 9 4 11 36.4 1 2 50.0 0 0 - 2 3 5 1 0 0 2 4 -10
+p696
+aVAnderson Varejao CLE 11/26/2012 CLE @ MEM L 37 15 7 11 63.6 0 1 0.0 1 2 50.0 8 14 22 3 2 1 3 2 -3
+p697
+aVDaniel Gibson CLE 11/26/2012 CLE @ MEM L 30 11 3 10 30.0 2 5 40.0 3 3 100.0 0 1 1 2 1 0 0 2 -1
+p698
+aVOmri Casspi CLE 11/26/2012 CLE @ MEM L 15 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 1 0 2 4
+p699
+aVJeremy Pargo CLE 11/24/2012 CLE @ MIA L 33 16 4 13 30.8 2 4 50.0 6 8 75.0 0 1 1 7 1 0 4 4 11
+p700
+aVAnderson Varejao CLE 11/24/2012 CLE @ MIA L 35 10 2 9 22.2 0 1 0.0 6 7 85.7 5 10 15 4 4 0 1 4 -9
+p701
+aVDaniel Gibson CLE 11/24/2012 CLE @ MIA L 28 11 4 9 44.4 2 7 28.6 1 1 100.0 0 1 1 3 1 0 0 5 -13
+p702
+aVCJ Miles CLE 11/24/2012 CLE @ MIA L 18 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 1 0 0 0 2 4
+p703
+aVDion Waiters CLE 11/24/2012 CLE @ MIA L 38 16 5 14 35.7 3 9 33.3 3 4 75.0 0 1 1 2 1 0 1 2 -4
+p704
+aVTyler Zeller CLE 11/24/2012 CLE @ MIA L 21 5 2 6 33.3 0 0 - 1 2 50.0 2 0 2 1 0 0 1 3 4
+p705
+aVTristan Thompson CLE 11/24/2012 CLE @ MIA L 23 13 6 7 85.7 0 0 - 1 2 50.0 2 3 5 1 0 0 1 1 -2
+p706
+aVOmri Casspi CLE 11/24/2012 CLE @ MIA L 15 15 4 6 66.7 4 4 100.0 3 4 75.0 0 1 1 1 1 0 0 3 13
+p707
+aVAlonzo Gee CLE 11/24/2012 CLE @ MIA L 29 12 4 8 50.0 1 2 50.0 3 5 60.0 1 4 5 1 1 0 2 5 -14
+p708
+aVJeremy Pargo CLE 11/23/2012 CLE @ ORL L 30 15 7 14 50.0 1 4 25.0 0 0 - 0 1 1 1 0 0 0 1 0
+p709
+aVDion Waiters CLE 11/23/2012 CLE @ ORL L 37 25 9 22 40.9 4 11 36.4 3 3 100.0 0 3 3 5 2 0 0 4 -4
+p710
+aVCJ Miles CLE 11/23/2012 CLE @ ORL L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p711
+aVAnderson Varejao CLE 11/23/2012 CLE @ ORL L 37 19 7 13 53.8 0 0 - 5 6 83.3 11 6 17 3 1 0 3 5 -5
+p712
+aVDaniel Gibson CLE 11/23/2012 CLE @ ORL L 25 3 0 3 0.0 0 2 0.0 3 3 100.0 0 0 0 6 0 0 1 3 -4
+p713
+aVTyler Zeller CLE 11/23/2012 CLE @ ORL L 30 13 4 9 44.4 0 0 - 5 8 62.5 3 6 9 0 1 0 1 5 -5
+p714
+aVAlonzo Gee CLE 11/23/2012 CLE @ ORL L 31 12 3 12 25.0 1 5 20.0 5 6 83.3 0 2 2 3 2 1 5 2 -8
+p715
+aVOmri Casspi CLE 11/23/2012 CLE @ ORL L 18 11 4 7 57.1 2 3 66.7 1 2 50.0 1 0 1 0 2 0 1 0 8
+p716
+aVSamardo Samuels CLE 11/23/2012 CLE @ ORL L 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -3
+p717
+aVTristan Thompson CLE 11/23/2012 CLE @ ORL L 28 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 0 2 3 5
+p718
+aVTristan Thompson CLE 11/21/2012 CLE vs. PHI W 25 4 1 7 14.3 0 0 - 2 3 66.7 3 8 11 2 0 1 0 1 2
+p719
+aVCJ Miles CLE 11/21/2012 CLE vs. PHI W 27 13 5 9 55.6 3 4 75.0 0 0 - 1 2 3 0 0 1 3 1 8
+p720
+aVOmri Casspi CLE 11/21/2012 CLE vs. PHI W 16 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 1 1 1 2
+p721
+aVTyler Zeller CLE 11/21/2012 CLE vs. PHI W 21 2 1 7 14.3 0 0 - 0 0 - 3 3 6 1 0 0 1 3 3
+p722
+aVDion Waiters CLE 11/21/2012 CLE vs. PHI W 39 16 7 22 31.8 2 5 40.0 0 0 - 0 4 4 6 0 0 2 1 11
+p723
+aVAnderson Varejao CLE 11/21/2012 CLE vs. PHI W 34 10 3 10 30.0 0 0 - 4 5 80.0 7 12 19 2 1 0 4 1 10
+p724
+aVJeremy Pargo CLE 11/21/2012 CLE vs. PHI W 39 28 11 19 57.9 4 8 50.0 2 4 50.0 0 5 5 4 1 0 3 3 2
+p725
+aVAlonzo Gee CLE 11/21/2012 CLE vs. PHI W 39 14 5 9 55.6 4 6 66.7 0 0 - 1 5 6 2 1 3 2 3 7
+p726
+aVAnderson Varejao CLE 11/18/2012 CLE @ PHI L 37 14 5 12 41.7 0 0 - 4 4 100.0 5 10 15 3 1 0 0 1 -6
+p727
+aVCJ Miles CLE 11/18/2012 CLE @ PHI L 14 3 1 8 12.5 1 4 25.0 0 0 - 1 1 2 1 0 0 1 1 -3
+p728
+aVOmri Casspi CLE 11/18/2012 CLE @ PHI L 13 5 1 3 33.3 1 2 50.0 2 2 100.0 0 2 2 0 0 1 1 1 -7
+p729
+aVAlonzo Gee CLE 11/18/2012 CLE @ PHI L 37 17 6 11 54.5 0 3 0.0 5 5 100.0 1 3 4 2 2 1 2 2 -1
+p730
+aVJeremy Pargo CLE 11/18/2012 CLE @ PHI L 12 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 1 0 0 2 2 -2
+p731
+aVTristan Thompson CLE 11/18/2012 CLE @ PHI L 31 14 6 14 42.9 0 0 - 2 3 66.7 8 5 13 2 0 1 0 2 -3
+p732
+aVTyler Zeller CLE 11/18/2012 CLE @ PHI L 28 6 3 5 60.0 0 0 - 0 0 - 3 4 7 1 1 1 1 4 -5
+p733
+aVDion Waiters CLE 11/18/2012 CLE @ PHI L 31 5 2 13 15.4 1 6 16.7 0 0 - 0 0 0 0 1 0 3 0 -3
+p734
+aVKyrie Irving CLE 11/18/2012 CLE @ PHI L 37 9 4 14 28.6 0 2 0.0 1 1 100.0 0 4 4 4 1 0 5 3 -5
+p735
+aVOmri Casspi CLE 11/17/2012 CLE vs. DAL L 13 5 2 4 50.0 1 2 50.0 0 0 - 1 4 5 1 1 0 1 1 -4
+p736
+aVAnderson Varejao CLE 11/17/2012 CLE vs. DAL L 39 4 2 11 18.2 0 0 - 0 0 - 4 3 7 3 1 1 1 1 -8
+p737
+aVTristan Thompson CLE 11/17/2012 CLE vs. DAL L 29 10 5 12 41.7 0 0 - 0 0 - 4 8 12 3 0 0 2 2 3
+p738
+aVJeremy Pargo CLE 11/17/2012 CLE vs. DAL L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 3 0 0 0 0 -11
+p739
+aVTyler Zeller CLE 11/17/2012 CLE vs. DAL L 26 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 1 0 1 2 2 -10
+p740
+aVDaniel Gibson CLE 11/17/2012 CLE vs. DAL L 27 16 5 11 45.5 4 8 50.0 2 2 100.0 0 1 1 5 3 0 1 3 -3
+p741
+aVKyrie Irving CLE 11/17/2012 CLE vs. DAL L 34 26 11 21 52.4 2 7 28.6 2 3 66.7 0 0 0 0 1 1 3 3 -2
+p742
+aVDion Waiters CLE 11/17/2012 CLE vs. DAL L 28 16 4 16 25.0 1 4 25.0 7 8 87.5 0 4 4 3 2 0 1 2 -1
+p743
+aVAlonzo Gee CLE 11/17/2012 CLE vs. DAL L 35 15 6 16 37.5 0 3 0.0 3 5 60.0 4 3 7 2 4 1 0 1 -4
+p744
+aVOmri Casspi CLE 11/13/2012 CLE @ BKN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p745
+aVAnderson Varejao CLE 11/13/2012 CLE @ BKN L 37 35 16 21 76.2 0 0 - 3 3 100.0 11 7 18 3 2 0 1 2 4
+p746
+aVTristan Thompson CLE 11/13/2012 CLE @ BKN L 31 14 6 11 54.5 0 0 - 2 5 40.0 3 2 5 0 1 0 1 4 -5
+p747
+aVSamardo Samuels CLE 11/13/2012 CLE @ BKN L 11 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -12
+p748
+aVDion Waiters CLE 11/13/2012 CLE @ BKN L 36 8 3 16 18.8 1 5 20.0 1 2 50.0 0 4 4 2 2 0 2 2 -10
+p749
+aVLuke Walton CLE 11/13/2012 CLE @ BKN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 3 -8
+p750
+aVDaniel Gibson CLE 11/13/2012 CLE @ BKN L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 4 -9
+p751
+aVAlonzo Gee CLE 11/13/2012 CLE @ BKN L 38 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 2 0 0 1 4 6
+p752
+aVKyrie Irving CLE 11/13/2012 CLE @ BKN L 38 34 9 19 47.4 2 6 33.3 14 14 100.0 1 3 4 8 3 0 4 2 -1
+p753
+aVJon Leuer CLE 11/13/2012 CLE @ BKN L 17 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -13
+p754
+aVDonald Sloan CLE 11/13/2012 CLE @ BKN L 6 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -9
+p755
+aVDaniel Gibson CLE 11/11/2012 CLE @ OKC L 29 16 6 12 50.0 1 5 20.0 3 3 100.0 1 4 5 0 1 0 0 1 -24
+p756
+aVTristan Thompson CLE 11/11/2012 CLE @ OKC L 33 10 3 6 50.0 0 0 - 4 4 100.0 2 6 8 1 2 0 1 3 1
+p757
+aVAlonzo Gee CLE 11/11/2012 CLE @ OKC L 32 18 7 17 41.2 2 7 28.6 2 2 100.0 0 0 0 1 2 0 0 3 -11
+p758
+aVJeremy Pargo CLE 11/11/2012 CLE @ OKC L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 4
+p759
+aVSamardo Samuels CLE 11/11/2012 CLE @ OKC L 6 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -9
+p760
+aVJon Leuer CLE 11/11/2012 CLE @ OKC L 24 4 2 8 25.0 0 1 0.0 0 2 0.0 2 0 2 2 0 0 0 2 -9
+p761
+aVDion Waiters CLE 11/11/2012 CLE @ OKC L 21 8 3 6 50.0 1 2 50.0 1 2 50.0 1 3 4 0 0 0 2 2 9
+p762
+aVOmri Casspi CLE 11/11/2012 CLE @ OKC L 14 7 1 7 14.3 1 4 25.0 4 4 100.0 1 3 4 0 2 0 1 2 -4
+p763
+aVAnderson Varejao CLE 11/11/2012 CLE @ OKC L 33 6 2 8 25.0 0 0 - 2 4 50.0 1 7 8 6 2 0 3 3 -13
+p764
+aVDonald Sloan CLE 11/11/2012 CLE @ OKC L 12 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 4 0 0 1 0 -5
+p765
+aVKyrie Irving CLE 11/11/2012 CLE @ OKC L 34 20 9 16 56.3 2 3 66.7 0 2 0.0 1 3 4 5 1 0 4 1 -14
+p766
+aVDion Waiters CLE 11/09/2012 CLE @ PHX L 31 23 9 13 69.2 3 5 60.0 2 2 100.0 0 1 1 2 1 1 1 1 -4
+p767
+aVDaniel Gibson CLE 11/09/2012 CLE @ PHX L 22 19 7 9 77.8 5 7 71.4 0 0 - 0 2 2 0 1 0 1 4 -3
+p768
+aVSamardo Samuels CLE 11/09/2012 CLE @ PHX L 23 7 2 6 33.3 0 0 - 3 4 75.0 2 0 2 2 0 0 2 5 -10
+p769
+aVCJ Miles CLE 11/09/2012 CLE @ PHX L 12 0 0 7 0.0 0 4 0.0 0 0 - 0 5 5 1 0 0 1 1 -10
+p770
+aVTristan Thompson CLE 11/09/2012 CLE @ PHX L 37 10 5 8 62.5 0 0 - 0 0 - 5 3 8 1 3 1 3 1 -8
+p771
+aVDonald Sloan CLE 11/09/2012 CLE @ PHX L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 0
+p772
+aVKyrie Irving CLE 11/09/2012 CLE @ PHX L 38 17 4 9 44.4 1 3 33.3 8 9 88.9 0 4 4 8 1 1 7 5 5
+p773
+aVAlonzo Gee CLE 11/09/2012 CLE @ PHX L 36 15 5 13 38.5 0 1 0.0 5 5 100.0 0 7 7 1 3 1 1 4 8
+p774
+aVAnderson Varejao CLE 11/09/2012 CLE @ PHX L 36 14 5 12 41.7 0 1 0.0 4 7 57.1 2 8 10 3 2 0 3 4 12
+p775
+aVJon Leuer CLE 11/07/2012 CLE @ GSW L 22 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 1 1 0 2 4 -19
+p776
+aVCJ Miles CLE 11/07/2012 CLE @ GSW L 17 7 3 11 27.3 1 7 14.3 0 0 - 0 1 1 0 1 0 1 5 -15
+p777
+aVOmri Casspi CLE 11/07/2012 CLE @ GSW L 10 0 0 1 0.0 0 1 0.0 0 0 - 2 3 5 0 0 0 1 0 7
+p778
+aVDonald Sloan CLE 11/07/2012 CLE @ GSW L 8 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 2 0 0 0 0 -2
+p779
+aVAlonzo Gee CLE 11/07/2012 CLE @ GSW L 21 7 2 4 50.0 0 2 0.0 3 3 100.0 0 3 3 1 3 0 4 3 -2
+p780
+aVTristan Thompson CLE 11/07/2012 CLE @ GSW L 36 11 4 8 50.0 0 0 - 3 8 37.5 4 6 10 1 0 0 3 4 10
+p781
+aVDaniel Gibson CLE 11/07/2012 CLE @ GSW L 22 12 4 8 50.0 4 8 50.0 0 0 - 0 1 1 1 2 0 1 1 -9
+p782
+aVDion Waiters CLE 11/07/2012 CLE @ GSW L 31 12 5 15 33.3 2 5 40.0 0 0 - 0 0 0 5 0 0 0 3 1
+p783
+aVSamardo Samuels CLE 11/07/2012 CLE @ GSW L 38 11 5 9 55.6 0 0 - 1 2 50.0 2 5 7 2 0 1 1 3 -11
+p784
+aVKyrie Irving CLE 11/07/2012 CLE @ GSW L 36 28 10 22 45.5 4 8 50.0 4 4 100.0 1 5 6 7 0 0 3 3 -10
+p785
+aVTyler Zeller CLE 11/05/2012 CLE @ LAC W 24 15 6 10 60.0 0 0 - 3 6 50.0 4 3 7 2 1 0 3 3 1
+p786
+aVDonald Sloan CLE 11/05/2012 CLE @ LAC W 6 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -1
+p787
+aVDaniel Gibson CLE 11/05/2012 CLE @ LAC W 20 3 1 5 20.0 1 4 25.0 0 0 - 0 3 3 3 1 0 0 1 4
+p788
+aVAnderson Varejao CLE 11/05/2012 CLE @ LAC W 36 15 7 10 70.0 0 0 - 1 2 50.0 5 10 15 1 3 1 1 3 5
+p789
+aVDion Waiters CLE 11/05/2012 CLE @ LAC W 32 28 10 17 58.8 7 11 63.6 1 1 100.0 0 3 3 1 0 0 1 2 3
+p790
+aVTristan Thompson CLE 11/05/2012 CLE @ LAC W 32 1 0 6 0.0 0 0 - 1 4 25.0 4 4 8 1 3 1 3 5 5
+p791
+aVSamardo Samuels CLE 11/05/2012 CLE @ LAC W 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 3
+p792
+aVCJ Miles CLE 11/05/2012 CLE @ LAC W 14 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 0 2 0 1 1 -1
+p793
+aVAlonzo Gee CLE 11/05/2012 CLE @ LAC W 34 8 2 8 25.0 0 2 0.0 4 4 100.0 3 0 3 4 1 0 4 2 8
+p794
+aVKyrie Irving CLE 11/05/2012 CLE @ LAC W 37 24 8 23 34.8 4 8 50.0 4 5 80.0 1 2 3 10 1 0 3 1 8
+p795
+aVKyrie Irving CLE 11/03/2012 CLE @ MIL L 33 27 10 18 55.6 0 2 0.0 7 8 87.5 0 4 4 7 2 0 4 5 13
+p796
+aVDion Waiters CLE 11/03/2012 CLE @ MIL L 29 13 5 12 41.7 1 2 50.0 2 4 50.0 0 2 2 3 1 0 3 0 14
+p797
+aVAlonzo Gee CLE 11/03/2012 CLE @ MIL L 36 18 6 11 54.5 2 3 66.7 4 4 100.0 0 3 3 6 2 0 3 1 11
+p798
+aVTristan Thompson CLE 11/03/2012 CLE @ MIL L 30 9 2 5 40.0 0 0 - 5 8 62.5 4 2 6 0 1 0 0 3 13
+p799
+aVDaniel Gibson CLE 11/03/2012 CLE @ MIL L 21 5 2 6 33.3 1 3 33.3 0 2 0.0 0 0 0 0 1 0 0 4 -17
+p800
+aVTyler Zeller CLE 11/03/2012 CLE @ MIL L 21 2 1 5 20.0 0 0 - 0 2 0.0 2 5 7 1 0 0 0 1 -18
+p801
+aVDonald Sloan CLE 11/03/2012 CLE @ MIL L 13 8 3 5 60.0 2 2 100.0 0 1 0.0 0 1 1 1 0 0 1 2 -14
+p802
+aVAnderson Varejao CLE 11/03/2012 CLE @ MIL L 36 20 10 13 76.9 0 0 - 0 0 - 2 15 17 0 1 0 0 1 15
+p803
+aVCJ Miles CLE 11/03/2012 CLE @ MIL L 15 0 0 6 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 3 4 -16
+p804
+aVLuke Walton CLE 11/03/2012 CLE @ MIL L 7 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 0 -16
+p805
+aVDonald Sloan CLE 11/02/2012 CLE vs. CHI L 18 4 1 3 33.3 1 2 50.0 1 2 50.0 1 1 2 5 0 0 1 1 -8
+p806
+aVDaniel Gibson CLE 11/02/2012 CLE vs. CHI L 21 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 4 1 0 3 6 -17
+p807
+aVTyler Zeller CLE 11/02/2012 CLE vs. CHI L 14 8 3 5 60.0 0 0 - 2 5 40.0 2 0 2 0 2 0 1 4 -7
+p808
+aVTristan Thompson CLE 11/02/2012 CLE vs. CHI L 24 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 1 0 0 1 3 -5
+p809
+aVAnderson Varejao CLE 11/02/2012 CLE vs. CHI L 30 12 5 8 62.5 0 0 - 2 2 100.0 2 3 5 2 0 0 1 0 -18
+p810
+aVDion Waiters CLE 11/02/2012 CLE vs. CHI L 25 7 3 7 42.9 1 2 50.0 0 2 0.0 0 2 2 4 1 1 2 2 -9
+p811
+aVLuke Walton CLE 11/02/2012 CLE vs. CHI L 4 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -11
+p812
+aVCJ Miles CLE 11/02/2012 CLE vs. CHI L 18 8 3 11 27.3 2 5 40.0 0 0 - 0 1 1 2 1 0 1 1 -11
+p813
+aVOmri Casspi CLE 11/02/2012 CLE vs. CHI L 7 4 1 2 50.0 1 2 50.0 1 4 25.0 0 0 0 0 0 0 0 0 -8
+p814
+aVKyrie Irving CLE 11/02/2012 CLE vs. CHI L 30 15 6 15 40.0 0 1 0.0 3 6 50.0 1 1 2 4 1 0 4 2 -21
+p815
+aVAlonzo Gee CLE 11/02/2012 CLE vs. CHI L 25 12 4 9 44.4 2 3 66.7 2 2 100.0 2 2 4 1 1 0 3 2 -13
+p816
+aVSamardo Samuels CLE 11/02/2012 CLE vs. CHI L 18 7 3 5 60.0 0 0 - 1 2 50.0 1 4 5 0 0 0 0 2 -11
+p817
+aVJon Leuer CLE 11/02/2012 CLE vs. CHI L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -6
+p818
+aVTristan Thompson CLE 10/30/2012 CLE vs. WAS W 32 12 5 8 62.5 0 0 - 2 4 50.0 3 7 10 5 1 0 2 2 20
+p819
+aVLuke Walton CLE 10/30/2012 CLE vs. WAS W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 0 -11
+p820
+aVDaniel Gibson CLE 10/30/2012 CLE vs. WAS W 16 10 3 5 60.0 2 4 50.0 2 4 50.0 1 2 3 1 0 1 0 2 -9
+p821
+aVAnderson Varejao CLE 10/30/2012 CLE vs. WAS W 37 9 3 7 42.9 0 0 - 3 3 100.0 12 11 23 9 0 2 1 4 7
+p822
+aVTyler Zeller CLE 10/30/2012 CLE vs. WAS W 15 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 0 1 1 0 2 4
+p823
+aVDonald Sloan CLE 10/30/2012 CLE vs. WAS W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 2 -13
+p824
+aVCJ Miles CLE 10/30/2012 CLE vs. WAS W 18 2 1 5 20.0 0 1 0.0 0 0 - 0 4 4 1 0 0 3 0 2
+p825
+aVKyrie Irving CLE 10/30/2012 CLE vs. WAS W 35 29 11 20 55.0 3 6 50.0 4 5 80.0 0 6 6 3 0 1 4 4 23
+p826
+aVAlonzo Gee CLE 10/30/2012 CLE vs. WAS W 34 4 2 9 22.2 0 2 0.0 0 0 - 2 1 3 2 2 0 3 5 14
+p827
+aVDion Waiters CLE 10/30/2012 CLE vs. WAS W 28 17 6 14 42.9 2 5 40.0 3 4 75.0 0 2 2 0 3 0 3 0 13
+p828
+a.

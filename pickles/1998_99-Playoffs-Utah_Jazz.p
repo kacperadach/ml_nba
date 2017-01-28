@@ -1,0 +1,240 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKarl Malone UTA 05/27/1999 UTA @ POR L 45 8 3 16 18.8 0 0 - 2 3 66.7 1 6 7 6 0 2 3 3 -5
+p2
+aVHoward Eisley UTA 05/27/1999 UTA @ POR L 13 3 1 5 20.0 0 3 0.0 1 2 50.0 0 1 1 1 0 1 2 1 -20
+p3
+aVAdam Keefe UTA 05/27/1999 UTA @ POR L 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -13
+p4
+aVShandon Anderson UTA 05/27/1999 UTA @ POR L 25 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -6
+p5
+aVGreg Ostertag UTA 05/27/1999 UTA @ POR L 21 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 0 1 0 3 -8
+p6
+aVJohn Stockton UTA 05/27/1999 UTA @ POR L 34 14 4 9 44.4 0 2 0.0 6 7 85.7 0 1 1 10 3 0 2 4 6
+p7
+aVJeff Hornacek UTA 05/27/1999 UTA @ POR L 35 21 5 10 50.0 2 4 50.0 9 10 90.0 0 6 6 2 0 0 0 6 -10
+p8
+aVBryon Russell UTA 05/27/1999 UTA @ POR L 38 17 6 12 50.0 1 5 20.0 4 4 100.0 2 3 5 1 2 0 2 4 -4
+p9
+aVThurl Bailey UTA 05/27/1999 UTA @ POR L 14 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 0 0 1 1 3 0
+p10
+aVJohn Stockton UTA 05/25/1999 UTA vs. POR W 30 6 1 3 33.3 0 0 - 4 4 100.0 0 2 2 14 1 0 2 3 15
+p11
+aVThurl Bailey UTA 05/25/1999 UTA vs. POR W 18 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 2 0 3 0
+p12
+aVBryon Russell UTA 05/25/1999 UTA vs. POR W 38 22 9 13 69.2 2 3 66.7 2 3 66.7 3 6 9 0 0 0 0 1 19
+p13
+aVShandon Anderson UTA 05/25/1999 UTA vs. POR W 23 11 3 5 60.0 1 1 100.0 4 6 66.7 0 1 1 0 0 0 0 3 8
+p14
+aVJeff Hornacek UTA 05/25/1999 UTA vs. POR W 23 14 5 9 55.6 1 1 100.0 3 3 100.0 1 6 7 2 0 0 0 3 11
+p15
+aVGreg Ostertag UTA 05/25/1999 UTA vs. POR W 38 4 1 6 16.7 0 0 - 2 4 50.0 4 5 9 2 0 3 0 3 20
+p16
+aVAdam Keefe UTA 05/25/1999 UTA vs. POR W 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 0 2 1 -4
+p17
+aVHoward Eisley UTA 05/25/1999 UTA vs. POR W 17 4 1 5 20.0 1 3 33.3 1 4 25.0 0 1 1 2 0 1 1 4 2
+p18
+aVTodd Fuller UTA 05/25/1999 UTA vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p19
+aVKarl Malone UTA 05/25/1999 UTA vs. POR W 38 23 11 21 52.4 0 0 - 1 2 50.0 1 7 8 3 1 2 4 5 16
+p20
+aVBryon Russell UTA 05/23/1999 UTA @ POR L 41 17 5 12 41.7 1 5 20.0 6 7 85.7 0 6 6 0 2 1 1 5 -5
+p21
+aVHoward Eisley UTA 05/23/1999 UTA @ POR L 16 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 1 0 0 0 3 -11
+p22
+aVKarl Malone UTA 05/23/1999 UTA @ POR L 43 17 8 15 53.3 0 0 - 1 4 25.0 3 8 11 6 0 0 5 4 -11
+p23
+aVJohn Stockton UTA 05/23/1999 UTA @ POR L 31 16 7 13 53.8 0 1 0.0 2 3 66.7 0 1 1 10 3 0 5 3 2
+p24
+aVGreg Ostertag UTA 05/23/1999 UTA @ POR L 11 0 0 3 0.0 0 0 - 0 2 0.0 0 2 2 0 0 1 1 1 -7
+p25
+aVAdam Keefe UTA 05/23/1999 UTA @ POR L 22 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 0 1 1 2 3 8
+p26
+aVThurl Bailey UTA 05/23/1999 UTA @ POR L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 3
+p27
+aVShandon Anderson UTA 05/23/1999 UTA @ POR L 28 5 2 8 25.0 0 1 0.0 1 2 50.0 1 2 3 2 1 1 1 6 4
+p28
+aVJeff Hornacek UTA 05/23/1999 UTA @ POR L 21 5 2 5 40.0 0 0 - 1 2 50.0 0 2 2 1 2 0 1 4 -9
+p29
+aVTodd Fuller UTA 05/23/1999 UTA @ POR L 13 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -4
+p30
+aVThurl Bailey UTA 05/22/1999 UTA @ POR L 7 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 1
+p31
+aVHoward Eisley UTA 05/22/1999 UTA @ POR L 18 8 1 5 20.0 1 3 33.3 5 5 100.0 0 0 0 2 0 0 1 3 -5
+p32
+aVTodd Fuller UTA 05/22/1999 UTA @ POR L 6 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 2 0 -8
+p33
+aVGreg Foster UTA 05/22/1999 UTA @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p34
+aVKarl Malone UTA 05/22/1999 UTA @ POR L 42 25 8 19 42.1 0 0 - 9 12 75.0 2 12 14 3 4 0 2 3 -5
+p35
+aVShandon Anderson UTA 05/22/1999 UTA @ POR L 25 3 1 5 20.0 0 0 - 1 2 50.0 0 4 4 0 1 0 2 6 -16
+p36
+aVGreg Ostertag UTA 05/22/1999 UTA @ POR L 24 2 0 3 0.0 0 0 - 2 2 100.0 3 4 7 0 0 2 0 3 -8
+p37
+aVAdam Keefe UTA 05/22/1999 UTA @ POR L 26 10 4 7 57.1 0 0 - 2 2 100.0 3 2 5 0 3 0 1 4 5
+p38
+aVJeff Hornacek UTA 05/22/1999 UTA @ POR L 31 12 5 10 50.0 0 1 0.0 2 2 100.0 1 2 3 4 0 0 4 3 -4
+p39
+aVBryon Russell UTA 05/22/1999 UTA @ POR L 22 5 0 8 0.0 0 3 0.0 5 7 71.4 1 2 3 1 0 1 1 4 -3
+p40
+aVJacque Vaughn UTA 05/22/1999 UTA @ POR L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 2 2
+p41
+aVJohn Stockton UTA 05/22/1999 UTA @ POR L 30 9 4 7 57.1 0 1 0.0 1 2 50.0 2 4 6 5 1 0 2 4 -2
+p42
+aVKarl Malone UTA 05/20/1999 UTA vs. POR L 37 23 7 14 50.0 0 0 - 9 12 75.0 6 11 17 6 0 1 1 3 3
+p43
+aVShandon Anderson UTA 05/20/1999 UTA vs. POR L 31 16 6 13 46.2 2 4 50.0 2 3 66.7 1 6 7 2 0 1 2 4 3
+p44
+aVGreg Ostertag UTA 05/20/1999 UTA vs. POR L 30 4 0 2 0.0 0 0 - 4 6 66.7 2 12 14 1 0 4 1 1 -5
+p45
+aVHoward Eisley UTA 05/20/1999 UTA vs. POR L 14 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 3 3 5
+p46
+aVJeff Hornacek UTA 05/20/1999 UTA vs. POR L 28 19 8 16 50.0 1 3 33.3 2 3 66.7 2 1 3 0 2 0 2 5 -4
+p47
+aVGreg Foster UTA 05/20/1999 UTA vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p48
+aVAdam Keefe UTA 05/20/1999 UTA vs. POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p49
+aVTodd Fuller UTA 05/20/1999 UTA vs. POR L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p50
+aVBryon Russell UTA 05/20/1999 UTA vs. POR L 41 9 4 13 30.8 1 4 25.0 0 1 0.0 2 5 7 1 2 0 1 2 -1
+p51
+aVThurl Bailey UTA 05/20/1999 UTA vs. POR L 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -6
+p52
+aVJohn Stockton UTA 05/20/1999 UTA vs. POR L 33 8 3 9 33.3 1 1 100.0 1 1 100.0 0 2 2 9 1 0 4 5 -8
+p53
+aVThurl Bailey UTA 05/18/1999 UTA vs. POR W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p54
+aVGreg Ostertag UTA 05/18/1999 UTA vs. POR W 27 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 0 0 2 0 3 -1
+p55
+aVKarl Malone UTA 05/18/1999 UTA vs. POR W 41 25 6 15 40.0 0 0 - 13 17 76.5 3 9 12 5 3 0 4 3 18
+p56
+aVJeff Hornacek UTA 05/18/1999 UTA vs. POR W 23 8 3 6 50.0 1 1 100.0 1 1 100.0 0 3 3 1 0 0 1 2 -3
+p57
+aVTodd Fuller UTA 05/18/1999 UTA vs. POR W 17 7 2 3 66.7 0 0 - 3 4 75.0 1 4 5 0 0 0 1 3 18
+p58
+aVHoward Eisley UTA 05/18/1999 UTA vs. POR W 16 5 1 7 14.3 0 1 0.0 3 3 100.0 0 2 2 3 0 0 2 3 -5
+p59
+aVShandon Anderson UTA 05/18/1999 UTA vs. POR W 24 8 2 6 33.3 0 1 0.0 4 4 100.0 1 3 4 3 1 0 0 4 11
+p60
+aVBryon Russell UTA 05/18/1999 UTA vs. POR W 41 18 7 13 53.8 2 7 28.6 2 6 33.3 1 6 7 3 1 0 1 3 22
+p61
+aVGreg Foster UTA 05/18/1999 UTA vs. POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p62
+aVJohn Stockton UTA 05/18/1999 UTA vs. POR W 31 10 4 10 40.0 0 1 0.0 2 5 40.0 2 1 3 7 1 0 4 1 15
+p63
+aVAdam Keefe UTA 05/18/1999 UTA vs. POR W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -10
+p64
+aVHoward Eisley UTA 05/16/1999 UTA vs. SAC W 20 4 1 5 20.0 0 0 - 2 2 100.0 0 0 0 3 1 0 2 1 -12
+p65
+aVThurl Bailey UTA 05/16/1999 UTA vs. SAC W 9 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -11
+p66
+aVAdam Keefe UTA 05/16/1999 UTA vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -2
+p67
+aVJohn Stockton UTA 05/16/1999 UTA vs. SAC W 36 12 1 12 8.3 0 0 - 10 11 90.9 2 3 5 14 0 0 1 3 17
+p68
+aVJeff Hornacek UTA 05/16/1999 UTA vs. SAC W 34 18 5 12 41.7 0 1 0.0 8 8 100.0 3 3 6 1 2 0 1 3 20
+p69
+aVBryon Russell UTA 05/16/1999 UTA vs. SAC W 40 16 7 13 53.8 2 4 50.0 0 0 - 0 5 5 2 4 0 0 4 4
+p70
+aVGreg Ostertag UTA 05/16/1999 UTA vs. SAC W 6 0 0 0 - 0 0 - 0 0 - 2 1 3 0 0 0 4 3 6
+p71
+aVKarl Malone UTA 05/16/1999 UTA vs. SAC W 48 20 6 19 31.6 0 0 - 8 9 88.9 3 9 12 2 2 0 5 4 11
+p72
+aVTodd Fuller UTA 05/16/1999 UTA vs. SAC W 9 3 1 4 25.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 5 2
+p73
+aVShandon Anderson UTA 05/16/1999 UTA vs. SAC W 31 16 7 10 70.0 0 1 0.0 2 2 100.0 3 3 6 2 1 0 2 2 2
+p74
+aVGreg Foster UTA 05/16/1999 UTA vs. SAC W 22 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 1 0 1 3 -2
+p75
+aVTodd Fuller UTA 05/14/1999 UTA @ SAC W 5 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 0 4
+p76
+aVHoward Eisley UTA 05/14/1999 UTA @ SAC W 34 8 4 8 50.0 0 2 0.0 0 0 - 1 2 3 7 1 0 1 1 8
+p77
+aVJeff Hornacek UTA 05/14/1999 UTA @ SAC W 20 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 1 2 0 1 2 -2
+p78
+aVShandon Anderson UTA 05/14/1999 UTA @ SAC W 29 16 7 9 77.8 2 3 66.7 0 1 0.0 1 3 4 0 1 0 2 4 7
+p79
+aVBryon Russell UTA 05/14/1999 UTA @ SAC W 35 8 3 10 30.0 0 3 0.0 2 2 100.0 3 5 8 0 1 0 2 5 8
+p80
+aVKarl Malone UTA 05/14/1999 UTA @ SAC W 38 23 9 21 42.9 0 0 - 5 5 100.0 9 7 16 4 0 1 4 4 -7
+p81
+aVGreg Foster UTA 05/14/1999 UTA @ SAC W 16 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 0 0 0 1 -4
+p82
+aVJohn Stockton UTA 05/14/1999 UTA @ SAC W 32 12 6 11 54.5 0 0 - 0 0 - 0 0 0 8 3 1 4 3 -1
+p83
+aVAdam Keefe UTA 05/14/1999 UTA @ SAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p84
+aVGreg Ostertag UTA 05/14/1999 UTA @ SAC W 14 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 5 -9
+p85
+aVThurl Bailey UTA 05/14/1999 UTA @ SAC W 7 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 3
+p86
+aVAdam Keefe UTA 05/12/1999 UTA @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -3
+p87
+aVTodd Fuller UTA 05/12/1999 UTA @ SAC L 24 0 0 3 0.0 0 0 - 0 2 0.0 3 3 6 0 0 1 1 2 18
+p88
+aVShandon Anderson UTA 05/12/1999 UTA @ SAC L 35 17 5 8 62.5 1 2 50.0 6 8 75.0 0 3 3 2 1 0 1 0 12
+p89
+aVHoward Eisley UTA 05/12/1999 UTA @ SAC L 39 21 9 15 60.0 1 4 25.0 2 2 100.0 0 4 4 3 3 0 3 3 9
+p90
+aVKarl Malone UTA 05/12/1999 UTA @ SAC L 41 22 8 22 36.4 0 0 - 6 6 100.0 4 9 13 5 0 0 5 5 0
+p91
+aVGreg Ostertag UTA 05/12/1999 UTA @ SAC L 19 3 0 1 0.0 0 0 - 3 6 50.0 1 1 2 0 1 1 1 1 -20
+p92
+aVGreg Foster UTA 05/12/1999 UTA @ SAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -2
+p93
+aVJohn Stockton UTA 05/12/1999 UTA @ SAC L 34 5 1 9 11.1 1 2 50.0 2 2 100.0 0 5 5 5 2 0 4 1 -2
+p94
+aVJeff Hornacek UTA 05/12/1999 UTA @ SAC L 20 4 1 6 16.7 0 1 0.0 2 3 66.7 0 0 0 2 2 0 1 1 -10
+p95
+aVBryon Russell UTA 05/12/1999 UTA @ SAC L 23 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 2 0 0 1 4 -14
+p96
+aVThurl Bailey UTA 05/12/1999 UTA @ SAC L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 1 0 0 -3
+p97
+aVTodd Fuller UTA 05/10/1999 UTA vs. SAC L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 9
+p98
+aVKarl Malone UTA 05/10/1999 UTA vs. SAC L 39 33 13 27 48.1 0 1 0.0 7 8 87.5 4 6 10 3 2 2 4 1 -4
+p99
+aVJohn Stockton UTA 05/10/1999 UTA vs. SAC L 33 13 4 11 36.4 1 3 33.3 4 6 66.7 2 4 6 6 2 0 2 3 3
+p100
+aVHoward Eisley UTA 05/10/1999 UTA vs. SAC L 24 7 2 6 33.3 0 3 0.0 3 3 100.0 1 3 4 6 1 0 3 1 -2
+p101
+aVThurl Bailey UTA 05/10/1999 UTA vs. SAC L 10 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 0 0 2 2 -12
+p102
+aVJeff Hornacek UTA 05/10/1999 UTA vs. SAC L 32 6 3 12 25.0 0 2 0.0 0 0 - 1 4 5 5 0 0 0 4 -12
+p103
+aVBryon Russell UTA 05/10/1999 UTA vs. SAC L 38 12 4 10 40.0 0 1 0.0 4 4 100.0 3 6 9 1 4 0 1 1 -22
+p104
+aVShandon Anderson UTA 05/10/1999 UTA vs. SAC L 16 8 2 4 50.0 0 1 0.0 4 6 66.7 0 3 3 1 0 0 2 1 -1
+p105
+aVGreg Foster UTA 05/10/1999 UTA vs. SAC L 5 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p106
+aVGreg Ostertag UTA 05/10/1999 UTA vs. SAC L 30 2 1 3 33.3 0 0 - 0 0 - 1 6 7 1 1 4 0 4 -12
+p107
+aVAdam Keefe UTA 05/08/1999 UTA vs. SAC W 12 13 6 9 66.7 0 0 - 1 1 100.0 2 5 7 2 0 0 1 2 10
+p108
+aVJohn Stockton UTA 05/08/1999 UTA vs. SAC W 23 17 7 11 63.6 1 1 100.0 2 5 40.0 3 2 5 4 1 0 1 2 21
+p109
+aVJeff Hornacek UTA 05/08/1999 UTA vs. SAC W 31 18 8 11 72.7 1 1 100.0 1 1 100.0 1 4 5 7 1 0 1 1 28
+p110
+aVGreg Foster UTA 05/08/1999 UTA vs. SAC W 10 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 2 7
+p111
+aVBryon Russell UTA 05/08/1999 UTA vs. SAC W 25 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 2 4 0 1 4 15
+p112
+aVTodd Fuller UTA 05/08/1999 UTA vs. SAC W 4 6 3 4 75.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 7
+p113
+aVKarl Malone UTA 05/08/1999 UTA vs. SAC W 34 21 7 17 41.2 0 0 - 7 8 87.5 0 4 4 9 1 0 3 2 18
+p114
+aVHoward Eisley UTA 05/08/1999 UTA vs. SAC W 22 14 4 7 57.1 2 3 66.7 4 4 100.0 1 2 3 4 1 0 2 4 0
+p115
+aVGreg Ostertag UTA 05/08/1999 UTA vs. SAC W 35 16 7 9 77.8 0 0 - 2 2 100.0 2 7 9 2 0 6 1 0 24
+p116
+aVJacque Vaughn UTA 05/08/1999 UTA vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p117
+aVShandon Anderson UTA 05/08/1999 UTA vs. SAC W 24 2 1 6 16.7 0 0 - 0 0 - 1 3 4 1 0 0 2 1 11
+p118
+aVThurl Bailey UTA 05/08/1999 UTA vs. SAC W 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 2 1 1 4 4
+p119
+a.

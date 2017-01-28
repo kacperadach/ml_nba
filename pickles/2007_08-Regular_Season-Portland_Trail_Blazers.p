@@ -1,0 +1,1640 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSergio Rodriguez POR 04/16/2008 POR @ PHX L 20 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 7 1 0 2 1 0
+p2
+aVJarrett Jack POR 04/16/2008 POR @ PHX L 18 10 4 7 57.1 2 2 100.0 0 1 0.0 1 0 1 1 0 0 0 2 -7
+p3
+aVVon Wafer POR 04/16/2008 POR @ PHX L 16 7 3 8 37.5 1 4 25.0 0 0 - 0 1 1 0 0 1 0 0 5
+p4
+aVRaef LaFrentz POR 04/16/2008 POR @ PHX L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p5
+aVLaMarcus Aldridge POR 04/16/2008 POR @ PHX L 44 16 6 19 31.6 0 0 - 4 8 50.0 5 4 9 1 0 3 1 2 -6
+p6
+aVChanning Frye POR 04/16/2008 POR @ PHX L 35 13 6 10 60.0 0 1 0.0 1 2 50.0 1 8 9 0 2 0 0 3 -3
+p7
+aVJames Jones POR 04/16/2008 POR @ PHX L 17 3 1 4 25.0 0 1 0.0 1 1 100.0 1 0 1 1 1 1 0 3 0
+p8
+aVTravis Outlaw POR 04/16/2008 POR @ PHX L 35 24 8 19 42.1 2 5 40.0 6 6 100.0 1 11 12 0 1 0 0 3 -8
+p9
+aVBrandon Roy POR 04/16/2008 POR @ PHX L 26 9 4 9 44.4 1 3 33.3 0 1 0.0 0 1 1 1 0 0 0 3 -11
+p10
+aVSteve Blake POR 04/16/2008 POR @ PHX L 28 2 1 8 12.5 0 5 0.0 0 0 - 0 1 1 3 2 0 1 1 -9
+p11
+aVJarrett Jack POR 04/15/2008 POR vs. MEM W 39 18 6 12 50.0 2 6 33.3 4 5 80.0 1 6 7 5 3 0 2 1 23
+p12
+aVTravis Outlaw POR 04/15/2008 POR vs. MEM W 24 10 5 13 38.5 0 1 0.0 0 0 - 3 6 9 0 0 0 1 1 -1
+p13
+aVJames Jones POR 04/15/2008 POR vs. MEM W 25 20 6 8 75.0 6 7 85.7 2 2 100.0 1 3 4 0 1 0 0 5 6
+p14
+aVVon Wafer POR 04/15/2008 POR vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p15
+aVChanning Frye POR 04/15/2008 POR vs. MEM W 29 16 8 10 80.0 0 0 - 0 2 0.0 2 5 7 2 0 1 1 3 24
+p16
+aVJosh McRoberts POR 04/15/2008 POR vs. MEM W 3 2 1 3 33.3 0 0 - 0 0 - 0 4 4 0 0 0 1 0 0
+p17
+aVSteve Blake POR 04/15/2008 POR vs. MEM W 30 12 5 12 41.7 2 4 50.0 0 0 - 0 1 1 5 0 0 0 5 13
+p18
+aVBrandon Roy POR 04/15/2008 POR vs. MEM W 38 16 4 12 33.3 2 6 33.3 6 8 75.0 2 3 5 11 1 0 2 5 17
+p19
+aVSergio Rodriguez POR 04/15/2008 POR vs. MEM W 10 4 1 2 50.0 1 2 50.0 1 2 50.0 0 1 1 6 0 0 0 0 5
+p20
+aVRaef LaFrentz POR 04/15/2008 POR vs. MEM W 13 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 2 3
+p21
+aVLaMarcus Aldridge POR 04/15/2008 POR vs. MEM W 28 11 3 6 50.0 0 0 - 5 5 100.0 1 4 5 2 1 0 1 6 19
+p22
+aVSteve Blake POR 04/12/2008 POR vs. DAL W 41 16 7 12 58.3 2 2 100.0 0 0 - 0 1 1 6 1 0 1 3 8
+p23
+aVBrandon Roy POR 04/12/2008 POR vs. DAL W 45 23 9 14 64.3 2 3 66.7 3 5 60.0 0 3 3 6 3 0 4 2 4
+p24
+aVJarrett Jack POR 04/12/2008 POR vs. DAL W 41 19 7 12 58.3 1 2 50.0 4 4 100.0 1 3 4 10 2 0 1 2 -2
+p25
+aVTravis Outlaw POR 04/12/2008 POR vs. DAL W 26 9 4 7 57.1 1 1 100.0 0 0 - 0 5 5 2 0 1 1 3 1
+p26
+aVChanning Frye POR 04/12/2008 POR vs. DAL W 33 15 7 11 63.6 0 0 - 1 2 50.0 2 8 10 2 1 0 1 4 -4
+p27
+aVJosh McRoberts POR 04/12/2008 POR vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p28
+aVLaMarcus Aldridge POR 04/12/2008 POR vs. DAL W 36 22 9 16 56.3 0 0 - 4 4 100.0 1 4 5 2 0 1 1 2 10
+p29
+aVJames Jones POR 04/12/2008 POR vs. DAL W 11 1 0 2 0.0 0 2 0.0 1 2 50.0 2 2 4 3 0 0 0 0 4
+p30
+aVRaef LaFrentz POR 04/12/2008 POR vs. DAL W 7 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -6
+p31
+aVBrandon Roy POR 04/11/2008 POR @ SAC L 32 12 5 10 50.0 1 4 25.0 1 2 50.0 0 1 1 4 2 0 1 3 -15
+p32
+aVSteve Blake POR 04/11/2008 POR @ SAC L 32 2 0 9 0.0 0 4 0.0 2 2 100.0 2 1 3 5 1 1 4 0 0
+p33
+aVJames Jones POR 04/11/2008 POR @ SAC L 20 0 0 6 0.0 0 3 0.0 0 0 - 1 1 2 0 0 0 1 1 -13
+p34
+aVRaef LaFrentz POR 04/11/2008 POR @ SAC L 9 2 1 3 33.3 0 0 - 0 2 0.0 1 1 2 0 0 1 0 0 -14
+p35
+aVJosh McRoberts POR 04/11/2008 POR @ SAC L 3 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -2
+p36
+aVSergio Rodriguez POR 04/11/2008 POR @ SAC L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 2 0 -9
+p37
+aVChanning Frye POR 04/11/2008 POR @ SAC L 32 15 7 13 53.8 0 1 0.0 1 4 25.0 6 8 14 1 0 0 1 3 -5
+p38
+aVTravis Outlaw POR 04/11/2008 POR @ SAC L 29 18 7 14 50.0 0 2 0.0 4 4 100.0 1 1 2 1 0 0 0 1 -8
+p39
+aVJarrett Jack POR 04/11/2008 POR @ SAC L 34 10 4 6 66.7 1 2 50.0 1 2 50.0 0 4 4 7 2 0 3 3 -9
+p40
+aVLaMarcus Aldridge POR 04/11/2008 POR @ SAC L 40 24 11 21 52.4 0 0 - 2 2 100.0 5 10 15 0 3 3 2 5 -8
+p41
+aVVon Wafer POR 04/11/2008 POR @ SAC L 3 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -2
+p42
+aVJarrett Jack POR 04/08/2008 POR vs. LAL W 25 15 4 7 57.1 1 1 100.0 6 6 100.0 0 3 3 3 0 0 1 1 13
+p43
+aVLaMarcus Aldridge POR 04/08/2008 POR vs. LAL W 43 22 9 18 50.0 0 2 0.0 4 5 80.0 4 12 16 1 0 1 1 3 14
+p44
+aVSteve Blake POR 04/08/2008 POR vs. LAL W 29 13 5 12 41.7 3 6 50.0 0 0 - 0 1 1 6 0 0 3 4 -7
+p45
+aVTravis Outlaw POR 04/08/2008 POR vs. LAL W 23 3 1 6 16.7 0 2 0.0 1 2 50.0 0 2 2 0 1 0 1 4 2
+p46
+aVSergio Rodriguez POR 04/08/2008 POR vs. LAL W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p47
+aVJames Jones POR 04/08/2008 POR vs. LAL W 27 14 5 9 55.6 3 6 50.0 1 1 100.0 0 3 3 0 1 1 4 2 6
+p48
+aVChanning Frye POR 04/08/2008 POR vs. LAL W 38 22 9 12 75.0 2 2 100.0 2 2 100.0 3 8 11 2 3 0 1 5 14
+p49
+aVRaef LaFrentz POR 04/08/2008 POR vs. LAL W 10 0 0 0 - 0 0 - 0 0 - 2 0 2 1 1 0 0 3 -9
+p50
+aVBrandon Roy POR 04/08/2008 POR vs. LAL W 42 23 8 15 53.3 1 3 33.3 6 8 75.0 1 1 2 12 0 0 2 3 16
+p51
+aVRaef LaFrentz POR 04/06/2008 POR vs. SAS L 22 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 1 1 0 5 -6
+p52
+aVSergio Rodriguez POR 04/06/2008 POR vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p53
+aVJarrett Jack POR 04/06/2008 POR vs. SAS L 22 6 2 8 25.0 0 1 0.0 2 2 100.0 0 1 1 4 1 0 3 0 -3
+p54
+aVJames Jones POR 04/06/2008 POR vs. SAS L 21 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 1 -15
+p55
+aVBrandon Roy POR 04/06/2008 POR vs. SAS L 40 18 7 15 46.7 0 1 0.0 4 6 66.7 1 3 4 4 0 1 1 0 2
+p56
+aVChanning Frye POR 04/06/2008 POR vs. SAS L 7 2 1 5 20.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -3
+p57
+aVJoel Przybilla POR 04/06/2008 POR vs. SAS L 17 4 2 2 100.0 0 0 - 0 0 - 1 8 9 0 0 0 0 1 0
+p58
+aVTravis Outlaw POR 04/06/2008 POR vs. SAS L 35 14 4 11 36.4 2 2 100.0 4 4 100.0 1 2 3 0 1 0 1 1 2
+p59
+aVSteve Blake POR 04/06/2008 POR vs. SAS L 34 7 3 11 27.3 0 1 0.0 1 3 33.3 0 4 4 3 1 0 1 1 -5
+p60
+aVLaMarcus Aldridge POR 04/06/2008 POR vs. SAS L 38 12 5 16 31.3 0 0 - 2 2 100.0 3 8 11 1 0 3 2 3 -2
+p61
+aVSteve Blake POR 04/03/2008 POR vs. HOU L 42 12 5 12 41.7 0 2 0.0 2 2 100.0 2 3 5 4 0 0 3 0 -10
+p62
+aVLaMarcus Aldridge POR 04/03/2008 POR vs. HOU L 40 23 10 19 52.6 1 1 100.0 2 3 66.7 1 3 4 3 2 0 3 3 -7
+p63
+aVJarrett Jack POR 04/03/2008 POR vs. HOU L 38 19 8 15 53.3 2 3 66.7 1 1 100.0 2 2 4 3 0 0 2 5 -3
+p64
+aVTravis Outlaw POR 04/03/2008 POR vs. HOU L 42 14 5 18 27.8 1 3 33.3 3 4 75.0 0 6 6 2 2 2 2 5 -3
+p65
+aVJoel Przybilla POR 04/03/2008 POR vs. HOU L 39 6 2 5 40.0 0 0 - 2 2 100.0 2 13 15 0 0 1 0 2 -12
+p66
+aVSergio Rodriguez POR 04/03/2008 POR vs. HOU L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -4
+p67
+aVChanning Frye POR 04/03/2008 POR vs. HOU L 17 12 3 8 37.5 0 1 0.0 6 6 100.0 4 2 6 2 0 0 0 1 1
+p68
+aVJames Jones POR 04/03/2008 POR vs. HOU L 15 0 0 4 0.0 0 3 0.0 0 0 - 1 3 4 0 0 0 0 0 -7
+p69
+aVJames Jones POR 04/02/2008 POR @ LAL L 21 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 0 0 0 0 3 -9
+p70
+aVTravis Outlaw POR 04/02/2008 POR @ LAL L 40 23 8 17 47.1 2 6 33.3 5 8 62.5 2 4 6 3 1 1 3 3 -8
+p71
+aVChanning Frye POR 04/02/2008 POR @ LAL L 15 4 2 7 28.6 0 0 - 0 0 - 2 3 5 0 2 1 0 3 12
+p72
+aVLaMarcus Aldridge POR 04/02/2008 POR @ LAL L 43 11 4 15 26.7 0 0 - 3 3 100.0 5 7 12 2 0 0 2 3 -7
+p73
+aVMartell Webster POR 04/02/2008 POR @ LAL L 27 23 7 11 63.6 6 9 66.7 3 4 75.0 0 1 1 1 1 0 2 4 -2
+p74
+aVSergio Rodriguez POR 04/02/2008 POR @ LAL L 16 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 2 -10
+p75
+aVJarrett Jack POR 04/02/2008 POR @ LAL L 20 2 1 7 14.3 0 3 0.0 0 0 - 0 3 3 3 0 0 1 0 -14
+p76
+aVRaef LaFrentz POR 04/02/2008 POR @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p77
+aVSteve Blake POR 04/02/2008 POR @ LAL L 33 12 5 11 45.5 2 4 50.0 0 0 - 1 2 3 10 1 0 4 2 -3
+p78
+aVJoel Przybilla POR 04/02/2008 POR @ LAL L 26 2 1 1 100.0 0 0 - 0 0 - 2 5 7 0 2 0 1 2 -22
+p79
+aVLaMarcus Aldridge POR 03/29/2008 POR vs. CHA L 43 21 9 18 50.0 0 0 - 3 5 60.0 8 5 13 2 0 0 1 1 -2
+p80
+aVJames Jones POR 03/29/2008 POR vs. CHA L 25 2 1 7 14.3 0 6 0.0 0 0 - 1 5 6 0 0 1 0 3 -4
+p81
+aVSteve Blake POR 03/29/2008 POR vs. CHA L 31 11 5 16 31.3 1 5 20.0 0 0 - 1 1 2 7 0 0 1 1 -7
+p82
+aVJarrett Jack POR 03/29/2008 POR vs. CHA L 34 11 4 10 40.0 1 4 25.0 2 4 50.0 1 3 4 3 1 0 4 2 -9
+p83
+aVTravis Outlaw POR 03/29/2008 POR vs. CHA L 35 26 10 23 43.5 4 6 66.7 2 2 100.0 1 3 4 3 2 1 3 5 -9
+p84
+aVSergio Rodriguez POR 03/29/2008 POR vs. CHA L 2 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 1
+p85
+aVJoel Przybilla POR 03/29/2008 POR vs. CHA L 36 8 2 4 50.0 0 0 - 4 4 100.0 8 10 18 0 0 1 2 4 -7
+p86
+aVChanning Frye POR 03/29/2008 POR vs. CHA L 3 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 2 2 2 1
+p87
+aVMartell Webster POR 03/29/2008 POR vs. CHA L 25 3 1 9 11.1 1 7 14.3 0 0 - 0 6 6 1 2 0 2 2 -3
+p88
+aVRaef LaFrentz POR 03/29/2008 POR vs. CHA L 5 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 1 1 1 3 -1
+p89
+aVJoel Przybilla POR 03/27/2008 POR @ GSW L 25 0 0 2 0.0 0 0 - 0 0 - 2 7 9 1 1 0 2 1 -11
+p90
+aVLaMarcus Aldridge POR 03/27/2008 POR @ GSW L 32 17 7 19 36.8 0 0 - 3 3 100.0 3 2 5 6 0 0 4 4 -8
+p91
+aVMartell Webster POR 03/27/2008 POR @ GSW L 39 14 5 14 35.7 2 5 40.0 2 2 100.0 3 3 6 3 1 0 0 4 -13
+p92
+aVVon Wafer POR 03/27/2008 POR @ GSW L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 1
+p93
+aVTravis Outlaw POR 03/27/2008 POR @ GSW L 27 9 3 10 30.0 0 0 - 3 4 75.0 4 4 8 3 0 2 1 3 -14
+p94
+aVJarrett Jack POR 03/27/2008 POR @ GSW L 41 19 7 13 53.8 2 3 66.7 3 3 100.0 0 0 0 1 0 0 4 2 -13
+p95
+aVChanning Frye POR 03/27/2008 POR @ GSW L 13 4 1 4 25.0 0 0 - 2 2 100.0 1 3 4 1 0 1 0 2 -4
+p96
+aVSergio Rodriguez POR 03/27/2008 POR @ GSW L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 4
+p97
+aVSteve Blake POR 03/27/2008 POR @ GSW L 31 22 8 12 66.7 4 5 80.0 2 2 100.0 0 1 1 6 0 0 2 4 -14
+p98
+aVJames Jones POR 03/27/2008 POR @ GSW L 23 10 4 9 44.4 1 2 50.0 1 1 100.0 2 3 5 0 1 0 0 1 -8
+p99
+aVChanning Frye POR 03/25/2008 POR vs. WAS W 16 10 3 8 37.5 0 1 0.0 4 4 100.0 3 2 5 0 0 2 1 1 -7
+p100
+aVRaef LaFrentz POR 03/25/2008 POR vs. WAS W 19 6 3 7 42.9 0 0 - 0 0 - 4 3 7 0 0 3 0 4 6
+p101
+aVTravis Outlaw POR 03/25/2008 POR vs. WAS W 38 20 8 16 50.0 1 1 100.0 3 4 75.0 2 4 6 5 0 1 0 3 25
+p102
+aVSteve Blake POR 03/25/2008 POR vs. WAS W 27 5 2 3 66.7 1 1 100.0 0 0 - 0 6 6 7 0 0 2 2 19
+p103
+aVMartell Webster POR 03/25/2008 POR vs. WAS W 37 23 9 14 64.3 4 6 66.7 1 1 100.0 0 3 3 1 0 1 1 2 15
+p104
+aVJames Jones POR 03/25/2008 POR vs. WAS W 26 9 3 9 33.3 3 9 33.3 0 0 - 0 2 2 3 0 0 0 0 6
+p105
+aVSergio Rodriguez POR 03/25/2008 POR vs. WAS W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p106
+aVBrandon Roy POR 03/25/2008 POR vs. WAS W 14 6 3 6 50.0 0 0 - 0 0 - 0 4 4 4 0 1 1 1 8
+p107
+aVVon Wafer POR 03/25/2008 POR vs. WAS W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p108
+aVJarrett Jack POR 03/25/2008 POR vs. WAS W 33 17 7 10 70.0 1 1 100.0 2 2 100.0 0 5 5 6 2 0 2 2 18
+p109
+aVJoel Przybilla POR 03/25/2008 POR vs. WAS W 24 6 1 3 33.3 0 0 - 4 7 57.1 8 9 17 0 0 2 6 4 16
+p110
+aVJarrett Jack POR 03/24/2008 POR @ SEA L 19 10 2 6 33.3 1 1 100.0 5 5 100.0 0 0 0 3 0 0 0 1 -3
+p111
+aVLaMarcus Aldridge POR 03/24/2008 POR @ SEA L 23 10 5 13 38.5 0 0 - 0 0 - 1 0 1 4 1 1 2 1 6
+p112
+aVTravis Outlaw POR 03/24/2008 POR @ SEA L 21 13 5 12 41.7 0 0 - 3 4 75.0 0 2 2 1 1 1 3 3 -9
+p113
+aVSteve Blake POR 03/24/2008 POR @ SEA L 37 7 3 8 37.5 1 5 20.0 0 0 - 1 1 2 9 1 0 2 2 -12
+p114
+aVBrandon Roy POR 03/24/2008 POR @ SEA L 40 11 5 17 29.4 0 2 0.0 1 2 50.0 2 3 5 1 0 0 0 4 -11
+p115
+aVChanning Frye POR 03/24/2008 POR @ SEA L 17 4 2 5 40.0 0 0 - 0 0 - 0 5 5 0 0 1 1 3 -8
+p116
+aVMartell Webster POR 03/24/2008 POR @ SEA L 34 22 8 20 40.0 5 9 55.6 1 1 100.0 0 5 5 3 0 0 0 3 -10
+p117
+aVJames Jones POR 03/24/2008 POR @ SEA L 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -3
+p118
+aVJoel Przybilla POR 03/24/2008 POR @ SEA L 35 5 2 4 50.0 0 0 - 1 2 50.0 4 9 13 0 0 3 3 2 -15
+p119
+aVSergio Rodriguez POR 03/22/2008 POR @ LAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p120
+aVTravis Outlaw POR 03/22/2008 POR @ LAC W 13 4 1 9 11.1 0 0 - 2 2 100.0 1 4 5 3 1 0 1 3 -9
+p121
+aVBrandon Roy POR 03/22/2008 POR @ LAC W 39 23 7 17 41.2 1 2 50.0 8 8 100.0 1 2 3 6 3 0 2 1 17
+p122
+aVJames Jones POR 03/22/2008 POR @ LAC W 24 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 0 1 0 0 3 4
+p123
+aVSteve Blake POR 03/22/2008 POR @ LAC W 38 3 1 8 12.5 1 5 20.0 0 0 - 0 1 1 7 0 0 0 1 26
+p124
+aVJarrett Jack POR 03/22/2008 POR @ LAC W 15 3 1 8 12.5 0 4 0.0 1 1 100.0 0 2 2 0 0 0 0 1 -13
+p125
+aVJoel Przybilla POR 03/22/2008 POR @ LAC W 35 14 7 10 70.0 0 0 - 0 0 - 8 18 26 0 0 1 0 2 10
+p126
+aVChanning Frye POR 03/22/2008 POR @ LAC W 9 2 1 3 33.3 0 0 - 0 1 0.0 1 2 3 0 0 0 1 2 3
+p127
+aVMartell Webster POR 03/22/2008 POR @ LAC W 24 8 3 8 37.5 1 4 25.0 1 2 50.0 1 0 1 1 0 0 2 4 7
+p128
+aVLaMarcus Aldridge POR 03/22/2008 POR @ LAC W 39 21 9 16 56.3 0 0 - 3 4 75.0 5 5 10 3 0 0 2 0 18
+p129
+aVJarrett Jack POR 03/21/2008 POR vs. LAC W 17 8 2 5 40.0 1 2 50.0 3 3 100.0 1 1 2 1 1 0 1 2 -10
+p130
+aVSteve Blake POR 03/21/2008 POR vs. LAC W 35 15 5 11 45.5 3 4 75.0 2 2 100.0 0 2 2 11 0 0 1 4 11
+p131
+aVMartell Webster POR 03/21/2008 POR vs. LAC W 35 16 5 7 71.4 4 6 66.7 2 2 100.0 0 4 4 1 0 1 3 4 15
+p132
+aVJoel Przybilla POR 03/21/2008 POR vs. LAC W 29 8 4 5 80.0 0 0 - 0 0 - 2 1 3 0 0 1 2 3 9
+p133
+aVTravis Outlaw POR 03/21/2008 POR vs. LAC W 15 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 1 1 3 1 -1
+p134
+aVJames Jones POR 03/21/2008 POR vs. LAC W 13 0 0 3 0.0 0 3 0.0 0 0 - 1 1 2 0 0 0 0 2 -10
+p135
+aVSergio Rodriguez POR 03/21/2008 POR vs. LAC W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p136
+aVChanning Frye POR 03/21/2008 POR vs. LAC W 14 8 4 4 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -8
+p137
+aVLaMarcus Aldridge POR 03/21/2008 POR vs. LAC W 38 22 11 18 61.1 0 0 - 0 0 - 5 7 12 7 1 1 0 2 11
+p138
+aVBrandon Roy POR 03/21/2008 POR vs. LAC W 40 21 8 17 47.1 0 2 0.0 5 9 55.6 0 4 4 6 2 1 2 0 9
+p139
+aVChanning Frye POR 03/18/2008 POR vs. PHX L 16 12 3 3 100.0 0 0 - 6 6 100.0 1 3 4 0 0 0 0 2 1
+p140
+aVJoel Przybilla POR 03/18/2008 POR vs. PHX L 25 0 0 1 0.0 0 0 - 0 0 - 3 4 7 1 0 1 2 4 -4
+p141
+aVMartell Webster POR 03/18/2008 POR vs. PHX L 19 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 0 0 0 2 1 -3
+p142
+aVRaef LaFrentz POR 03/18/2008 POR vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -3
+p143
+aVLaMarcus Aldridge POR 03/18/2008 POR vs. PHX L 36 31 15 27 55.6 0 0 - 1 2 50.0 3 5 8 0 0 0 2 4 -10
+p144
+aVJames Jones POR 03/18/2008 POR vs. PHX L 23 9 2 5 40.0 2 4 50.0 3 3 100.0 1 1 2 0 1 0 0 2 -5
+p145
+aVSergio Rodriguez POR 03/18/2008 POR vs. PHX L 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p146
+aVJarrett Jack POR 03/18/2008 POR vs. PHX L 29 12 4 9 44.4 1 3 33.3 3 4 75.0 0 0 0 3 2 0 2 1 -14
+p147
+aVBrandon Roy POR 03/18/2008 POR vs. PHX L 37 6 3 14 21.4 0 0 - 0 1 0.0 2 5 7 7 0 0 3 3 -6
+p148
+aVTravis Outlaw POR 03/18/2008 POR vs. PHX L 23 13 5 12 41.7 0 0 - 3 5 60.0 0 2 2 2 0 0 2 2 -15
+p149
+aVSteve Blake POR 03/18/2008 POR vs. PHX L 25 10 2 6 33.3 2 4 50.0 4 4 100.0 0 2 2 5 1 0 0 1 -8
+p150
+aVJoel Przybilla POR 03/15/2008 POR vs. MIN W 36 3 1 2 50.0 0 0 - 1 1 100.0 3 10 13 0 0 2 0 2 14
+p151
+aVSergio Rodriguez POR 03/15/2008 POR vs. MIN W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 0 -2
+p152
+aVTravis Outlaw POR 03/15/2008 POR vs. MIN W 17 17 8 13 61.5 0 1 0.0 1 1 100.0 0 3 3 1 0 1 2 1 0
+p153
+aVChanning Frye POR 03/15/2008 POR vs. MIN W 12 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 1 2 0 2 -3
+p154
+aVLaMarcus Aldridge POR 03/15/2008 POR vs. MIN W 31 26 11 19 57.9 0 0 - 4 4 100.0 2 3 5 1 1 0 0 0 11
+p155
+aVJarrett Jack POR 03/15/2008 POR vs. MIN W 30 10 3 7 42.9 1 2 50.0 3 3 100.0 0 1 1 8 1 0 1 2 5
+p156
+aVMartell Webster POR 03/15/2008 POR vs. MIN W 22 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 2 0 1 2 0 6
+p157
+aVBrandon Roy POR 03/15/2008 POR vs. MIN W 36 25 10 19 52.6 4 5 80.0 1 3 33.3 1 1 2 9 1 0 0 3 12
+p158
+aVSteve Blake POR 03/15/2008 POR vs. MIN W 23 6 3 6 50.0 0 1 0.0 0 1 0.0 0 2 2 7 0 0 3 1 7
+p159
+aVJames Jones POR 03/15/2008 POR vs. MIN W 26 13 5 7 71.4 3 5 60.0 0 1 0.0 1 1 2 0 0 0 0 1 5
+p160
+aVSergio Rodriguez POR 03/13/2008 POR @ SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -8
+p161
+aVSteve Blake POR 03/13/2008 POR @ SAC L 27 6 2 12 16.7 2 6 33.3 0 0 - 1 1 2 6 0 0 3 1 -1
+p162
+aVTravis Outlaw POR 03/13/2008 POR @ SAC L 28 13 5 13 38.5 0 0 - 3 4 75.0 1 4 5 0 1 2 2 3 -7
+p163
+aVChanning Frye POR 03/13/2008 POR @ SAC L 18 4 1 4 25.0 1 1 100.0 1 2 50.0 1 6 7 0 0 0 0 4 -6
+p164
+aVJames Jones POR 03/13/2008 POR @ SAC L 16 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p165
+aVLaMarcus Aldridge POR 03/13/2008 POR @ SAC L 29 20 8 15 53.3 0 0 - 4 4 100.0 4 2 6 0 1 1 6 5 1
+p166
+aVVon Wafer POR 03/13/2008 POR @ SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p167
+aVJarrett Jack POR 03/13/2008 POR @ SAC L 19 2 0 5 0.0 0 2 0.0 2 2 100.0 0 0 0 0 0 0 1 1 -14
+p168
+aVBrandon Roy POR 03/13/2008 POR @ SAC L 42 21 7 15 46.7 1 3 33.3 6 8 75.0 3 6 9 6 2 1 5 2 -3
+p169
+aVJoel Przybilla POR 03/13/2008 POR @ SAC L 32 4 2 4 50.0 0 0 - 0 0 - 3 7 10 0 0 3 2 5 -9
+p170
+aVMartell Webster POR 03/13/2008 POR @ SAC L 23 10 3 6 50.0 1 3 33.3 3 5 60.0 0 2 2 0 0 0 0 4 -7
+p171
+aVChanning Frye POR 03/11/2008 POR @ MIN W 19 2 1 2 50.0 0 0 - 0 0 - 1 6 7 0 1 1 0 2 4
+p172
+aVJames Jones POR 03/11/2008 POR @ MIN W 21 13 3 7 42.9 3 7 42.9 4 5 80.0 3 2 5 0 0 0 0 3 10
+p173
+aVMartell Webster POR 03/11/2008 POR @ MIN W 23 13 4 9 44.4 2 7 28.6 3 4 75.0 0 3 3 3 1 0 0 2 2
+p174
+aVLaMarcus Aldridge POR 03/11/2008 POR @ MIN W 37 20 9 16 56.3 0 1 0.0 2 2 100.0 1 1 2 1 1 0 2 0 8
+p175
+aVJoel Przybilla POR 03/11/2008 POR @ MIN W 29 3 1 1 100.0 0 0 - 1 2 50.0 3 7 10 1 0 1 1 0 1
+p176
+aVJarrett Jack POR 03/11/2008 POR @ MIN W 20 4 1 8 12.5 0 1 0.0 2 2 100.0 3 3 6 4 1 0 0 0 -9
+p177
+aVSergio Rodriguez POR 03/11/2008 POR @ MIN W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p178
+aVSteve Blake POR 03/11/2008 POR @ MIN W 32 11 4 8 50.0 1 2 50.0 2 2 100.0 0 2 2 4 0 0 2 0 16
+p179
+aVBrandon Roy POR 03/11/2008 POR @ MIN W 37 27 9 20 45.0 1 3 33.3 8 9 88.9 1 4 5 9 0 1 2 0 8
+p180
+aVTravis Outlaw POR 03/11/2008 POR @ MIN W 15 8 4 9 44.4 0 0 - 0 0 - 1 0 1 0 1 2 0 1 -4
+p181
+aVLaMarcus Aldridge POR 03/10/2008 POR @ CLE L 41 25 11 19 57.9 0 0 - 3 5 60.0 4 6 10 1 1 0 2 3 -7
+p182
+aVJames Jones POR 03/10/2008 POR @ CLE L 18 3 1 7 14.3 1 4 25.0 0 0 - 1 2 3 0 0 0 0 1 -2
+p183
+aVMartell Webster POR 03/10/2008 POR @ CLE L 31 7 3 8 37.5 1 5 20.0 0 0 - 2 8 10 0 0 0 1 3 -3
+p184
+aVChanning Frye POR 03/10/2008 POR @ CLE L 17 6 3 5 60.0 0 0 - 0 0 - 3 0 3 1 1 0 1 2 -11
+p185
+aVBrandon Roy POR 03/10/2008 POR @ CLE L 41 15 5 13 38.5 2 4 50.0 3 6 50.0 1 6 7 3 0 0 0 2 2
+p186
+aVTravis Outlaw POR 03/10/2008 POR @ CLE L 16 8 4 10 40.0 0 0 - 0 0 - 1 1 2 0 1 1 1 3 -6
+p187
+aVJoel Przybilla POR 03/10/2008 POR @ CLE L 22 6 2 2 100.0 0 0 - 2 2 100.0 2 3 5 0 1 1 2 4 9
+p188
+aVJarrett Jack POR 03/10/2008 POR @ CLE L 21 3 0 5 0.0 0 2 0.0 3 4 75.0 0 0 0 4 1 0 1 3 -15
+p189
+aVSteve Blake POR 03/10/2008 POR @ CLE L 33 7 2 9 22.2 2 6 33.3 1 1 100.0 1 1 2 8 0 0 1 2 -7
+p190
+aVMartell Webster POR 03/08/2008 POR @ NYK W 36 15 4 9 44.4 3 6 50.0 4 4 100.0 0 7 7 0 0 1 1 1 10
+p191
+aVChanning Frye POR 03/08/2008 POR @ NYK W 19 8 4 8 50.0 0 0 - 0 0 - 3 4 7 2 0 0 2 4 7
+p192
+aVJarrett Jack POR 03/08/2008 POR @ NYK W 27 13 4 8 50.0 1 1 100.0 4 4 100.0 1 1 2 1 0 0 2 1 -3
+p193
+aVJames Jones POR 03/08/2008 POR @ NYK W 17 7 2 4 50.0 2 4 50.0 1 2 50.0 0 3 3 1 1 0 1 1 -2
+p194
+aVTravis Outlaw POR 03/08/2008 POR @ NYK W 17 6 2 10 20.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 1 -4
+p195
+aVBrandon Roy POR 03/08/2008 POR @ NYK W 42 27 12 22 54.5 1 3 33.3 2 2 100.0 2 4 6 3 0 0 2 1 2
+p196
+aVSteve Blake POR 03/08/2008 POR @ NYK W 37 15 5 13 38.5 2 8 25.0 3 3 100.0 0 4 4 10 2 0 0 5 14
+p197
+aVLaMarcus Aldridge POR 03/08/2008 POR @ NYK W 39 22 9 18 50.0 0 0 - 4 9 44.4 5 5 10 4 0 2 1 4 6
+p198
+aVJoel Przybilla POR 03/08/2008 POR @ NYK W 30 7 2 3 66.7 0 0 - 3 3 100.0 5 6 11 0 0 1 0 4 0
+p199
+aVJarrett Jack POR 03/07/2008 POR @ MIL W 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 4 1 -19
+p200
+aVChanning Frye POR 03/07/2008 POR @ MIL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -1
+p201
+aVMartell Webster POR 03/07/2008 POR @ MIL W 35 17 6 10 60.0 1 3 33.3 4 4 100.0 3 4 7 1 2 0 1 2 19
+p202
+aVLaMarcus Aldridge POR 03/07/2008 POR @ MIL W 35 29 14 20 70.0 0 0 - 1 2 50.0 1 5 6 4 0 1 2 4 15
+p203
+aVJoel Przybilla POR 03/07/2008 POR @ MIL W 32 5 2 2 100.0 0 0 - 1 2 50.0 4 11 15 0 0 3 1 3 -6
+p204
+aVTravis Outlaw POR 03/07/2008 POR @ MIL W 16 0 0 7 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -13
+p205
+aVSteve Blake POR 03/07/2008 POR @ MIL W 37 21 8 15 53.3 3 7 42.9 2 2 100.0 0 3 3 6 1 0 2 2 14
+p206
+aVJames Jones POR 03/07/2008 POR @ MIL W 21 7 2 4 50.0 2 3 66.7 1 1 100.0 1 3 4 0 0 0 0 1 -8
+p207
+aVBrandon Roy POR 03/07/2008 POR @ MIL W 43 20 8 15 53.3 2 3 66.7 2 3 66.7 0 2 2 10 3 0 5 4 9
+p208
+aVSteve Blake POR 03/04/2008 POR vs. PHX L 34 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 4 0 0 2 1 -6
+p209
+aVJarrett Jack POR 03/04/2008 POR vs. PHX L 27 11 4 11 36.4 0 4 0.0 3 3 100.0 1 3 4 3 1 0 4 1 1
+p210
+aVJoel Przybilla POR 03/04/2008 POR vs. PHX L 29 6 2 3 66.7 0 0 - 2 2 100.0 0 8 8 0 0 1 1 6 -15
+p211
+aVTravis Outlaw POR 03/04/2008 POR vs. PHX L 33 14 4 11 36.4 0 0 - 6 7 85.7 1 4 5 3 1 2 3 2 -4
+p212
+aVChanning Frye POR 03/04/2008 POR vs. PHX L 21 11 5 11 45.5 0 1 0.0 1 1 100.0 0 5 5 0 0 0 2 6 9
+p213
+aVBrandon Roy POR 03/04/2008 POR vs. PHX L 42 25 10 18 55.6 0 4 0.0 5 6 83.3 1 4 5 4 2 0 0 2 -7
+p214
+aVRaef LaFrentz POR 03/04/2008 POR vs. PHX L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p215
+aVLaMarcus Aldridge POR 03/04/2008 POR vs. PHX L 26 11 3 15 20.0 0 0 - 5 6 83.3 4 5 9 0 3 2 1 5 -3
+p216
+aVJames Jones POR 03/04/2008 POR vs. PHX L 15 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 4 2
+p217
+aVMartell Webster POR 03/04/2008 POR vs. PHX L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -3
+p218
+aVSteve Blake POR 03/02/2008 POR @ GSW L 32 11 4 8 50.0 1 4 25.0 2 4 50.0 0 1 1 6 0 0 1 2 -2
+p219
+aVMartell Webster POR 03/02/2008 POR @ GSW L 16 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 -6
+p220
+aVTravis Outlaw POR 03/02/2008 POR @ GSW L 30 17 8 15 53.3 0 1 0.0 1 2 50.0 1 4 5 0 0 1 0 0 -3
+p221
+aVBrandon Roy POR 03/02/2008 POR @ GSW L 37 26 10 23 43.5 2 6 33.3 4 5 80.0 1 5 6 3 2 0 1 2 -9
+p222
+aVChanning Frye POR 03/02/2008 POR @ GSW L 7 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 -4
+p223
+aVLaMarcus Aldridge POR 03/02/2008 POR @ GSW L 33 15 6 13 46.2 0 0 - 3 4 75.0 2 5 7 4 3 1 4 4 -9
+p224
+aVJarrett Jack POR 03/02/2008 POR @ GSW L 27 9 3 7 42.9 1 2 50.0 2 3 66.7 1 4 5 4 1 0 2 2 0
+p225
+aVJames Jones POR 03/02/2008 POR @ GSW L 30 12 3 6 50.0 1 2 50.0 5 5 100.0 1 5 6 2 0 2 3 2 1
+p226
+aVJoel Przybilla POR 03/02/2008 POR @ GSW L 26 6 2 2 100.0 0 0 - 2 3 66.7 5 5 10 1 0 2 3 3 2
+p227
+aVSteve Blake POR 02/29/2008 POR vs. LAL W 31 15 5 10 50.0 5 9 55.6 0 0 - 0 2 2 3 0 0 0 1 3
+p228
+aVMartell Webster POR 02/29/2008 POR vs. LAL W 22 9 3 7 42.9 1 3 33.3 2 2 100.0 0 0 0 1 1 0 0 2 -7
+p229
+aVTravis Outlaw POR 02/29/2008 POR vs. LAL W 33 18 9 15 60.0 0 2 0.0 0 0 - 0 2 2 0 0 1 1 2 15
+p230
+aVJoel Przybilla POR 02/29/2008 POR vs. LAL W 26 6 3 6 50.0 0 0 - 0 0 - 2 10 12 1 0 0 1 4 0
+p231
+aVLaMarcus Aldridge POR 02/29/2008 POR vs. LAL W 36 22 10 18 55.6 0 0 - 2 2 100.0 5 3 8 2 3 0 0 4 6
+p232
+aVVon Wafer POR 02/29/2008 POR vs. LAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p233
+aVBrandon Roy POR 02/29/2008 POR vs. LAL W 38 20 6 15 40.0 1 3 33.3 7 8 87.5 0 5 5 12 0 0 2 3 8
+p234
+aVJames Jones POR 02/29/2008 POR vs. LAL W 18 8 3 4 75.0 2 2 100.0 0 0 - 0 1 1 0 0 0 0 2 0
+p235
+aVChanning Frye POR 02/29/2008 POR vs. LAL W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p236
+aVJarrett Jack POR 02/29/2008 POR vs. LAL W 27 21 7 10 70.0 0 0 - 7 8 87.5 0 5 5 10 0 0 2 2 15
+p237
+aVRaef LaFrentz POR 02/27/2008 POR @ LAC W 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 9
+p238
+aVVon Wafer POR 02/27/2008 POR @ LAC W 32 11 4 10 40.0 2 5 40.0 1 2 50.0 0 5 5 0 0 1 2 2 8
+p239
+aVJarrett Jack POR 02/27/2008 POR @ LAC W 31 21 9 13 69.2 1 1 100.0 2 4 50.0 0 8 8 3 1 0 1 1 13
+p240
+aVTravis Outlaw POR 02/27/2008 POR @ LAC W 30 10 3 13 23.1 0 0 - 4 4 100.0 0 3 3 0 1 0 3 2 -8
+p241
+aVMartell Webster POR 02/27/2008 POR @ LAC W 37 15 6 11 54.5 2 3 66.7 1 2 50.0 1 4 5 2 3 0 1 4 2
+p242
+aVLaMarcus Aldridge POR 02/27/2008 POR @ LAC W 33 9 3 9 33.3 0 0 - 3 6 50.0 3 3 6 3 0 2 1 4 -5
+p243
+aVSteve Blake POR 02/27/2008 POR @ LAC W 19 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 6 0 0 1 0 -10
+p244
+aVChanning Frye POR 02/27/2008 POR @ LAC W 25 12 4 8 50.0 0 0 - 4 5 80.0 0 3 3 2 0 0 1 2 5
+p245
+aVJoel Przybilla POR 02/27/2008 POR @ LAC W 21 2 0 3 0.0 0 0 - 2 2 100.0 3 6 9 0 0 0 1 5 -4
+p246
+aVLaMarcus Aldridge POR 02/26/2008 POR @ LAL L 39 24 10 19 52.6 0 1 0.0 4 4 100.0 1 3 4 0 1 2 1 2 2
+p247
+aVSteve Blake POR 02/26/2008 POR @ LAL L 43 17 4 11 36.4 2 6 33.3 7 7 100.0 1 6 7 5 1 0 1 3 -3
+p248
+aVJoel Przybilla POR 02/26/2008 POR @ LAL L 38 4 2 5 40.0 0 0 - 0 0 - 6 10 16 0 0 1 0 3 -3
+p249
+aVRaef LaFrentz POR 02/26/2008 POR @ LAL L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -7
+p250
+aVTravis Outlaw POR 02/26/2008 POR @ LAL L 41 18 7 18 38.9 0 4 0.0 4 4 100.0 2 2 4 2 2 1 2 2 -4
+p251
+aVChanning Frye POR 02/26/2008 POR @ LAL L 9 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 0 1 3 -18
+p252
+aVJarrett Jack POR 02/26/2008 POR @ LAL L 22 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 4 3 -18
+p253
+aVSergio Rodriguez POR 02/26/2008 POR @ LAL L 7 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 2 0 0 1 1 -16
+p254
+aVMartell Webster POR 02/26/2008 POR @ LAL L 34 12 4 16 25.0 0 6 0.0 4 6 66.7 0 6 6 1 0 1 0 3 2
+p255
+aVRaef LaFrentz POR 02/24/2008 POR vs. BOS L 11 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 2 0 1 1 -1
+p256
+aVSergio Rodriguez POR 02/24/2008 POR vs. BOS L 8 7 3 6 50.0 1 2 50.0 0 0 - 1 1 2 1 0 0 1 0 -1
+p257
+aVMartell Webster POR 02/24/2008 POR vs. BOS L 25 12 4 8 50.0 4 6 66.7 0 0 - 0 1 1 0 2 0 2 2 1
+p258
+aVBrandon Roy POR 02/24/2008 POR vs. BOS L 26 9 3 6 50.0 1 1 100.0 2 2 100.0 0 1 1 1 3 0 1 1 -8
+p259
+aVTravis Outlaw POR 02/24/2008 POR vs. BOS L 31 24 9 19 47.4 1 1 100.0 5 7 71.4 5 0 5 4 1 0 1 2 -14
+p260
+aVLaMarcus Aldridge POR 02/24/2008 POR vs. BOS L 34 14 4 11 36.4 0 0 - 6 7 85.7 3 2 5 2 3 1 2 6 -7
+p261
+aVSteve Blake POR 02/24/2008 POR vs. BOS L 33 12 4 12 33.3 4 8 50.0 0 0 - 0 2 2 8 0 0 0 1 -1
+p262
+aVJarrett Jack POR 02/24/2008 POR vs. BOS L 43 17 5 9 55.6 1 3 33.3 6 6 100.0 1 4 5 3 2 0 5 5 -8
+p263
+aVJoel Przybilla POR 02/24/2008 POR vs. BOS L 31 7 2 3 66.7 0 0 - 3 4 75.0 4 5 9 1 0 2 2 2 -11
+p264
+aVSteve Blake POR 02/22/2008 POR @ SEA L 28 2 1 10 10.0 0 4 0.0 0 0 - 0 0 0 1 0 0 1 3 -20
+p265
+aVRaef LaFrentz POR 02/22/2008 POR @ SEA L 6 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 1 0 1 2 -10
+p266
+aVTravis Outlaw POR 02/22/2008 POR @ SEA L 27 26 8 14 57.1 2 2 100.0 8 8 100.0 2 3 5 1 1 0 1 2 0
+p267
+aVBrandon Roy POR 02/22/2008 POR @ SEA L 45 19 6 19 31.6 1 3 33.3 6 6 100.0 2 4 6 5 3 0 3 2 -11
+p268
+aVMartell Webster POR 02/22/2008 POR @ SEA L 21 3 1 5 20.0 0 2 0.0 1 2 50.0 2 2 4 0 0 1 1 1 3
+p269
+aVJarrett Jack POR 02/22/2008 POR @ SEA L 37 7 2 9 22.2 1 6 16.7 2 2 100.0 0 5 5 7 1 0 0 2 -12
+p270
+aVLaMarcus Aldridge POR 02/22/2008 POR @ SEA L 33 23 9 13 69.2 0 0 - 5 6 83.3 5 3 8 2 1 1 3 6 -8
+p271
+aVJoel Przybilla POR 02/22/2008 POR @ SEA L 31 4 2 3 66.7 0 0 - 0 2 0.0 1 9 10 1 0 1 2 4 1
+p272
+aVSergio Rodriguez POR 02/22/2008 POR @ SEA L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -1
+p273
+aVChanning Frye POR 02/22/2008 POR @ SEA L 8 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 0 -2
+p274
+aVBrandon Roy POR 02/21/2008 POR vs. SEA W 38 19 7 17 41.2 1 3 33.3 4 9 44.4 2 12 14 5 3 1 1 2 2
+p275
+aVMartell Webster POR 02/21/2008 POR vs. SEA W 26 7 1 6 16.7 1 4 25.0 4 5 80.0 0 2 2 0 2 0 0 1 -4
+p276
+aVLaMarcus Aldridge POR 02/21/2008 POR vs. SEA W 35 18 6 16 37.5 0 0 - 6 8 75.0 3 9 12 3 0 5 1 2 1
+p277
+aVJarrett Jack POR 02/21/2008 POR vs. SEA W 37 15 4 10 40.0 2 4 50.0 5 6 83.3 1 1 2 6 4 0 1 1 10
+p278
+aVChanning Frye POR 02/21/2008 POR vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p279
+aVSergio Rodriguez POR 02/21/2008 POR vs. SEA W 8 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 2 0 0 1 0 2
+p280
+aVTravis Outlaw POR 02/21/2008 POR vs. SEA W 27 19 6 16 37.5 1 3 33.3 6 6 100.0 1 2 3 2 0 1 1 3 8
+p281
+aVSteve Blake POR 02/21/2008 POR vs. SEA W 35 6 2 7 28.6 2 5 40.0 0 0 - 0 4 4 2 1 0 2 4 2
+p282
+aVJoel Przybilla POR 02/21/2008 POR vs. SEA W 31 5 2 2 100.0 0 0 - 1 4 25.0 3 8 11 0 0 4 1 5 -2
+p283
+aVRaef LaFrentz POR 02/21/2008 POR vs. SEA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 4
+p284
+aVJarrett Jack POR 02/19/2008 POR vs. SAC L 36 9 2 11 18.2 0 4 0.0 5 5 100.0 0 3 3 11 0 0 1 2 -6
+p285
+aVMartell Webster POR 02/19/2008 POR vs. SAC L 32 18 6 10 60.0 4 7 57.1 2 4 50.0 0 3 3 0 1 1 0 3 -9
+p286
+aVTravis Outlaw POR 02/19/2008 POR vs. SAC L 27 23 11 18 61.1 0 0 - 1 4 25.0 2 3 5 0 2 0 0 1 -8
+p287
+aVJoel Przybilla POR 02/19/2008 POR vs. SAC L 19 6 3 3 100.0 0 0 - 0 1 0.0 3 6 9 2 0 2 1 3 -1
+p288
+aVChanning Frye POR 02/19/2008 POR vs. SAC L 15 8 4 6 66.7 0 0 - 0 0 - 1 1 2 2 0 2 1 1 -8
+p289
+aVSergio Rodriguez POR 02/19/2008 POR vs. SAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p290
+aVSteve Blake POR 02/19/2008 POR vs. SAC L 31 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 4 0 0 1 0 -8
+p291
+aVLaMarcus Aldridge POR 02/19/2008 POR vs. SAC L 36 12 5 11 45.5 0 0 - 2 2 100.0 1 4 5 1 2 3 1 5 -5
+p292
+aVBrandon Roy POR 02/19/2008 POR vs. SAC L 40 11 5 18 27.8 1 5 20.0 0 0 - 3 5 8 6 0 0 2 1 -10
+p293
+aVTaurean Green POR 02/13/2008 POR @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p294
+aVLaMarcus Aldridge POR 02/13/2008 POR @ DAL L 34 6 3 10 30.0 0 0 - 0 0 - 2 3 5 2 0 3 2 4 -16
+p295
+aVTravis Outlaw POR 02/13/2008 POR @ DAL L 28 13 6 14 42.9 0 1 0.0 1 3 33.3 0 1 1 0 0 0 0 5 -16
+p296
+aVChanning Frye POR 02/13/2008 POR @ DAL L 15 5 2 5 40.0 0 0 - 1 4 25.0 3 2 5 0 0 0 0 2 -11
+p297
+aVJarrett Jack POR 02/13/2008 POR @ DAL L 17 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 1 0 3 2 -9
+p298
+aVJosh McRoberts POR 02/13/2008 POR @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p299
+aVSergio Rodriguez POR 02/13/2008 POR @ DAL L 11 3 1 3 33.3 1 2 50.0 0 0 - 1 0 1 0 0 0 2 1 1
+p300
+aVJoel Przybilla POR 02/13/2008 POR @ DAL L 15 2 1 1 100.0 0 0 - 0 0 - 3 4 7 0 0 0 2 3 -12
+p301
+aVSteve Blake POR 02/13/2008 POR @ DAL L 30 13 6 10 60.0 1 2 50.0 0 1 0.0 0 5 5 1 0 0 2 3 -12
+p302
+aVMartell Webster POR 02/13/2008 POR @ DAL L 29 3 0 3 0.0 0 0 - 3 4 75.0 0 5 5 1 0 0 1 1 -6
+p303
+aVRaef LaFrentz POR 02/13/2008 POR @ DAL L 12 1 0 4 0.0 0 0 - 1 2 50.0 2 1 3 0 0 1 0 2 4
+p304
+aVBrandon Roy POR 02/13/2008 POR @ DAL L 42 25 10 21 47.6 0 2 0.0 5 8 62.5 2 4 6 6 0 0 1 1 -23
+p305
+aVLaMarcus Aldridge POR 02/11/2008 POR @ HOU L 43 22 10 26 38.5 0 0 - 2 2 100.0 2 3 5 3 1 3 0 4 -16
+p306
+aVSteve Blake POR 02/11/2008 POR @ HOU L 28 4 2 5 40.0 0 0 - 0 0 - 0 3 3 5 1 0 2 1 0
+p307
+aVChanning Frye POR 02/11/2008 POR @ HOU L 20 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -15
+p308
+aVMartell Webster POR 02/11/2008 POR @ HOU L 29 11 5 8 62.5 1 3 33.3 0 2 0.0 3 3 6 0 0 0 1 3 -9
+p309
+aVSergio Rodriguez POR 02/11/2008 POR @ HOU L 11 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -5
+p310
+aVTravis Outlaw POR 02/11/2008 POR @ HOU L 27 7 2 6 33.3 0 0 - 3 4 75.0 0 2 2 0 0 0 0 1 0
+p311
+aVRaef LaFrentz POR 02/11/2008 POR @ HOU L 3 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 4
+p312
+aVJarrett Jack POR 02/11/2008 POR @ HOU L 19 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 2 2 -10
+p313
+aVBrandon Roy POR 02/11/2008 POR @ HOU L 39 15 5 13 38.5 0 0 - 5 10 50.0 0 5 5 8 3 1 2 1 -9
+p314
+aVJoel Przybilla POR 02/11/2008 POR @ HOU L 21 6 3 4 75.0 0 0 - 0 1 0.0 3 6 9 0 0 0 2 4 0
+p315
+aVLaMarcus Aldridge POR 02/09/2008 POR @ IND L 39 21 9 18 50.0 0 0 - 3 5 60.0 2 9 11 2 1 0 0 6 -6
+p316
+aVJoel Przybilla POR 02/09/2008 POR @ IND L 23 2 1 2 50.0 0 0 - 0 0 - 2 9 11 0 0 1 3 2 -7
+p317
+aVChanning Frye POR 02/09/2008 POR @ IND L 23 14 5 8 62.5 0 0 - 4 5 80.0 1 4 5 0 0 0 1 4 3
+p318
+aVSergio Rodriguez POR 02/09/2008 POR @ IND L 12 0 0 5 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -2
+p319
+aVTravis Outlaw POR 02/09/2008 POR @ IND L 29 15 6 17 35.3 0 1 0.0 3 4 75.0 0 4 4 0 0 0 2 2 3
+p320
+aVSteve Blake POR 02/09/2008 POR @ IND L 35 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 6 0 0 3 4 -8
+p321
+aVMartell Webster POR 02/09/2008 POR @ IND L 39 18 7 16 43.8 1 5 20.0 3 4 75.0 2 6 8 0 0 1 1 5 -16
+p322
+aVJarrett Jack POR 02/09/2008 POR @ IND L 40 15 5 7 71.4 0 1 0.0 5 5 100.0 0 3 3 10 2 0 4 2 -7
+p323
+aVJoel Przybilla POR 02/08/2008 POR @ DET L 24 6 3 4 75.0 0 0 - 0 0 - 2 4 6 0 1 0 0 1 -12
+p324
+aVTravis Outlaw POR 02/08/2008 POR @ DET L 18 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -9
+p325
+aVJarrett Jack POR 02/08/2008 POR @ DET L 36 10 4 7 57.1 0 0 - 2 2 100.0 0 4 4 5 0 0 6 1 -13
+p326
+aVChanning Frye POR 02/08/2008 POR @ DET L 14 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 1 1 0 0 2 2
+p327
+aVMartell Webster POR 02/08/2008 POR @ DET L 39 7 2 10 20.0 0 1 0.0 3 4 75.0 1 4 5 2 1 0 2 4 -11
+p328
+aVRaef LaFrentz POR 02/08/2008 POR @ DET L 12 5 2 4 50.0 0 1 0.0 1 1 100.0 0 2 2 0 1 0 0 2 15
+p329
+aVLaMarcus Aldridge POR 02/08/2008 POR @ DET L 34 22 9 15 60.0 0 0 - 4 6 66.7 4 2 6 2 1 0 0 1 -14
+p330
+aVSteve Blake POR 02/08/2008 POR @ DET L 31 6 3 10 30.0 0 3 0.0 0 0 - 1 2 3 3 0 0 0 1 -13
+p331
+aVJosh McRoberts POR 02/08/2008 POR @ DET L 12 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 10
+p332
+aVSergio Rodriguez POR 02/08/2008 POR @ DET L 12 2 0 4 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 1 2 -13
+p333
+aVTaurean Green POR 02/08/2008 POR @ DET L 8 6 2 4 50.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 2 0 13
+p334
+aVTravis Outlaw POR 02/06/2008 POR vs. CHI W 20 14 5 10 50.0 0 1 0.0 4 4 100.0 1 2 3 1 0 0 1 2 -1
+p335
+aVJoel Przybilla POR 02/06/2008 POR vs. CHI W 29 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 4 4
+p336
+aVLaMarcus Aldridge POR 02/06/2008 POR vs. CHI W 35 18 8 15 53.3 0 0 - 2 2 100.0 1 5 6 1 1 2 1 2 6
+p337
+aVJarrett Jack POR 02/06/2008 POR vs. CHI W 38 17 4 8 50.0 2 4 50.0 7 8 87.5 0 2 2 6 0 0 2 0 4
+p338
+aVBrandon Roy POR 02/06/2008 POR vs. CHI W 40 28 12 19 63.2 0 1 0.0 4 5 80.0 3 1 4 6 1 0 2 2 -6
+p339
+aVRaef LaFrentz POR 02/06/2008 POR vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p340
+aVSergio Rodriguez POR 02/06/2008 POR vs. CHI W 5 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 2 0 0 0 0 7
+p341
+aVMartell Webster POR 02/06/2008 POR vs. CHI W 21 8 4 9 44.4 0 5 0.0 0 0 - 1 4 5 0 0 0 2 2 3
+p342
+aVSteve Blake POR 02/06/2008 POR vs. CHI W 40 7 3 11 27.3 1 6 16.7 0 0 - 1 3 4 7 2 0 1 1 3
+p343
+aVChanning Frye POR 02/06/2008 POR vs. CHI W 11 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 0 0 3 -3
+p344
+aVSergio Rodriguez POR 02/04/2008 POR vs. DEN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -10
+p345
+aVTravis Outlaw POR 02/04/2008 POR vs. DEN L 35 16 6 13 46.2 0 1 0.0 4 6 66.7 2 8 10 1 2 1 4 3 -8
+p346
+aVLaMarcus Aldridge POR 02/04/2008 POR vs. DEN L 40 4 2 9 22.2 0 0 - 0 0 - 5 7 12 2 0 4 1 2 7
+p347
+aVChanning Frye POR 02/04/2008 POR vs. DEN L 21 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 0 0 1 1 3 -9
+p348
+aVBrandon Roy POR 02/04/2008 POR vs. DEN L 48 26 10 24 41.7 0 1 0.0 6 8 75.0 4 3 7 8 2 1 1 2 6
+p349
+aVJoel Przybilla POR 02/04/2008 POR vs. DEN L 17 2 1 4 25.0 0 0 - 0 0 - 4 1 5 1 0 2 0 2 -2
+p350
+aVSteve Blake POR 02/04/2008 POR vs. DEN L 30 11 4 13 30.8 3 8 37.5 0 0 - 1 1 2 9 2 0 1 0 9
+p351
+aVMartell Webster POR 02/04/2008 POR vs. DEN L 36 17 5 8 62.5 3 6 50.0 4 7 57.1 1 4 5 1 1 1 1 2 3
+p352
+aVJarrett Jack POR 02/04/2008 POR vs. DEN L 34 17 6 13 46.2 3 5 60.0 2 2 100.0 1 8 9 9 3 0 7 2 -6
+p353
+aVJoel Przybilla POR 02/01/2008 POR vs. NYK W 24 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 2 0 4 0
+p354
+aVJarrett Jack POR 02/01/2008 POR vs. NYK W 28 12 4 6 66.7 0 1 0.0 4 4 100.0 0 5 5 2 0 0 1 2 -4
+p355
+aVSergio Rodriguez POR 02/01/2008 POR vs. NYK W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p356
+aVSteve Blake POR 02/01/2008 POR vs. NYK W 37 19 8 13 61.5 3 4 75.0 0 0 - 1 0 1 4 1 0 0 0 22
+p357
+aVLaMarcus Aldridge POR 02/01/2008 POR vs. NYK W 40 17 7 15 46.7 0 0 - 3 4 75.0 3 5 8 3 0 2 1 4 29
+p358
+aVTravis Outlaw POR 02/01/2008 POR vs. NYK W 30 13 5 12 41.7 1 3 33.3 2 4 50.0 2 2 4 0 0 2 2 2 1
+p359
+aVJames Jones POR 02/01/2008 POR vs. NYK W 9 0 0 5 0.0 0 4 0.0 0 0 - 1 1 2 0 0 0 0 0 -13
+p360
+aVBrandon Roy POR 02/01/2008 POR vs. NYK W 48 20 8 20 40.0 2 6 33.3 2 2 100.0 1 9 10 11 1 0 2 2 13
+p361
+aVMartell Webster POR 02/01/2008 POR vs. NYK W 29 9 4 9 44.4 1 4 25.0 0 0 - 0 3 3 0 0 1 0 2 7
+p362
+aVChanning Frye POR 02/01/2008 POR vs. NYK W 15 2 0 3 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 1 -18
+p363
+aVSteve Blake POR 01/30/2008 POR vs. CLE L 31 10 4 11 36.4 2 6 33.3 0 0 - 0 4 4 4 1 0 2 4 8
+p364
+aVChanning Frye POR 01/30/2008 POR vs. CLE L 17 7 2 6 33.3 0 0 - 3 3 100.0 1 3 4 0 0 0 1 4 7
+p365
+aVSergio Rodriguez POR 01/30/2008 POR vs. CLE L 10 0 0 6 0.0 0 1 0.0 0 0 - 2 2 4 1 0 0 1 2 -4
+p366
+aVTravis Outlaw POR 01/30/2008 POR vs. CLE L 24 13 4 10 40.0 0 1 0.0 5 6 83.3 0 3 3 0 1 0 0 1 -13
+p367
+aVJarrett Jack POR 01/30/2008 POR vs. CLE L 16 3 0 6 0.0 0 2 0.0 3 3 100.0 0 0 0 2 1 0 0 0 -10
+p368
+aVJames Jones POR 01/30/2008 POR vs. CLE L 18 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -6
+p369
+aVBrandon Roy POR 01/30/2008 POR vs. CLE L 39 16 7 16 43.8 0 1 0.0 2 3 66.7 1 6 7 8 1 0 2 3 6
+p370
+aVJoel Przybilla POR 01/30/2008 POR vs. CLE L 25 9 3 3 100.0 0 0 - 3 4 75.0 4 5 9 0 0 4 0 3 -3
+p371
+aVMartell Webster POR 01/30/2008 POR vs. CLE L 30 7 3 9 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 1 1 3
+p372
+aVLaMarcus Aldridge POR 01/30/2008 POR vs. CLE L 30 16 6 13 46.2 0 0 - 4 6 66.7 2 7 9 2 0 0 1 2 7
+p373
+aVJoel Przybilla POR 01/27/2008 POR vs. ATL W 14 2 0 0 - 0 0 - 2 2 100.0 2 2 4 0 0 0 0 1 -11
+p374
+aVSteve Blake POR 01/27/2008 POR vs. ATL W 24 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 4 0 0 3 2 -12
+p375
+aVBrandon Roy POR 01/27/2008 POR vs. ATL W 40 24 9 15 60.0 0 1 0.0 6 7 85.7 1 1 2 5 0 1 1 1 1
+p376
+aVSergio Rodriguez POR 01/27/2008 POR vs. ATL W 16 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 6 0 0 0 1 8
+p377
+aVMartell Webster POR 01/27/2008 POR vs. ATL W 16 5 2 8 25.0 0 2 0.0 1 2 50.0 2 0 2 0 3 0 1 0 -14
+p378
+aVChanning Frye POR 01/27/2008 POR vs. ATL W 25 14 6 8 75.0 0 0 - 2 2 100.0 1 5 6 1 0 0 1 1 3
+p379
+aVJarrett Jack POR 01/27/2008 POR vs. ATL W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 5
+p380
+aVLaMarcus Aldridge POR 01/27/2008 POR vs. ATL W 30 16 7 11 63.6 0 0 - 2 2 100.0 2 6 8 0 0 0 2 1 0
+p381
+aVTravis Outlaw POR 01/27/2008 POR vs. ATL W 27 15 6 14 42.9 3 4 75.0 0 0 - 1 2 3 0 0 0 0 2 10
+p382
+aVJames Jones POR 01/27/2008 POR vs. ATL W 32 10 3 7 42.9 2 4 50.0 2 2 100.0 1 1 2 0 1 0 1 5 15
+p383
+aVChanning Frye POR 01/25/2008 POR vs. HOU L 20 9 2 7 28.6 0 0 - 5 6 83.3 1 4 5 0 0 0 0 4 20
+p384
+aVLaMarcus Aldridge POR 01/25/2008 POR vs. HOU L 30 14 5 14 35.7 0 0 - 4 5 80.0 1 5 6 1 1 1 1 4 -23
+p385
+aVBrandon Roy POR 01/25/2008 POR vs. HOU L 37 23 9 17 52.9 2 3 66.7 3 6 50.0 0 2 2 2 2 0 5 3 -1
+p386
+aVJoel Przybilla POR 01/25/2008 POR vs. HOU L 23 1 0 1 0.0 0 0 - 1 2 50.0 3 2 5 0 1 1 1 4 -11
+p387
+aVTravis Outlaw POR 01/25/2008 POR vs. HOU L 19 13 3 8 37.5 2 2 100.0 5 6 83.3 1 1 2 1 0 1 2 2 -7
+p388
+aVSergio Rodriguez POR 01/25/2008 POR vs. HOU L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 3 0 2 2 -9
+p389
+aVMartell Webster POR 01/25/2008 POR vs. HOU L 18 6 2 5 40.0 0 0 - 2 3 66.7 0 1 1 1 0 0 3 0 -6
+p390
+aVJarrett Jack POR 01/25/2008 POR vs. HOU L 21 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 1 1 -11
+p391
+aVSteve Blake POR 01/25/2008 POR vs. HOU L 27 3 1 6 16.7 1 3 33.3 0 0 - 2 1 3 4 4 0 1 1 1
+p392
+aVRaef LaFrentz POR 01/25/2008 POR vs. HOU L 4 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 1
+p393
+aVJames Jones POR 01/25/2008 POR vs. HOU L 30 4 1 5 20.0 0 3 0.0 2 2 100.0 1 3 4 2 2 0 0 2 -4
+p394
+aVSergio Rodriguez POR 01/23/2008 POR @ NOH L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -5
+p395
+aVSteve Blake POR 01/23/2008 POR @ NOH L 30 15 5 10 50.0 4 9 44.4 1 2 50.0 0 2 2 5 1 0 1 1 0
+p396
+aVJarrett Jack POR 01/23/2008 POR @ NOH L 18 1 0 4 0.0 0 2 0.0 1 2 50.0 2 1 3 2 0 0 0 3 -15
+p397
+aVChanning Frye POR 01/23/2008 POR @ NOH L 17 0 0 3 0.0 0 0 - 0 0 - 4 2 6 0 1 0 2 4 -8
+p398
+aVTravis Outlaw POR 01/23/2008 POR @ NOH L 26 14 5 11 45.5 0 0 - 4 6 66.7 2 2 4 4 1 1 1 1 -16
+p399
+aVBrandon Roy POR 01/23/2008 POR @ NOH L 43 14 6 14 42.9 1 4 25.0 1 1 100.0 1 6 7 6 1 0 2 1 -10
+p400
+aVMartell Webster POR 01/23/2008 POR @ NOH L 23 3 0 4 0.0 0 2 0.0 3 4 75.0 1 1 2 2 0 2 1 1 -2
+p401
+aVJoel Przybilla POR 01/23/2008 POR @ NOH L 20 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 0 2 1 3 -4
+p402
+aVJames Jones POR 01/23/2008 POR @ NOH L 25 11 4 11 36.4 3 8 37.5 0 0 - 0 0 0 0 0 2 0 4 -13
+p403
+aVLaMarcus Aldridge POR 01/23/2008 POR @ NOH L 33 17 8 14 57.1 0 0 - 1 2 50.0 1 7 8 2 0 0 0 2 -2
+p404
+aVBrandon Roy POR 01/21/2008 POR @ ATL W 41 18 8 22 36.4 0 2 0.0 2 3 66.7 1 1 2 3 2 0 2 2 -10
+p405
+aVJoel Przybilla POR 01/21/2008 POR @ ATL W 18 7 2 2 100.0 0 0 - 3 3 100.0 1 4 5 2 0 1 0 0 -6
+p406
+aVMartell Webster POR 01/21/2008 POR @ ATL W 24 9 3 10 30.0 3 6 50.0 0 0 - 3 4 7 3 0 0 0 3 -12
+p407
+aVSteve Blake POR 01/21/2008 POR @ ATL W 32 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 6 0 0 1 1 5
+p408
+aVJarrett Jack POR 01/21/2008 POR @ ATL W 17 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -5
+p409
+aVChanning Frye POR 01/21/2008 POR @ ATL W 26 9 3 8 37.5 0 0 - 3 4 75.0 3 4 7 1 1 1 1 4 10
+p410
+aVSergio Rodriguez POR 01/21/2008 POR @ ATL W 16 16 6 7 85.7 2 2 100.0 2 2 100.0 2 0 2 4 2 0 0 0 14
+p411
+aVLaMarcus Aldridge POR 01/21/2008 POR @ ATL W 28 8 3 12 25.0 0 0 - 2 2 100.0 3 2 5 0 0 0 0 6 -12
+p412
+aVJames Jones POR 01/21/2008 POR @ ATL W 29 10 4 7 57.1 2 4 50.0 0 0 - 1 3 4 1 1 0 0 3 14
+p413
+aVTravis Outlaw POR 01/21/2008 POR @ ATL W 34 23 9 14 64.3 0 0 - 5 8 62.5 0 4 4 1 0 2 2 3 12
+p414
+aVBrandon Roy POR 01/19/2008 POR @ ORL L 42 25 11 21 52.4 2 4 50.0 1 1 100.0 2 3 5 7 3 0 1 4 3
+p415
+aVJames Jones POR 01/19/2008 POR @ ORL L 22 9 3 7 42.9 3 5 60.0 0 0 - 0 1 1 0 1 0 0 0 7
+p416
+aVMartell Webster POR 01/19/2008 POR @ ORL L 30 12 4 10 40.0 3 6 50.0 1 2 50.0 3 3 6 2 0 0 0 5 -19
+p417
+aVSergio Rodriguez POR 01/19/2008 POR @ ORL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -10
+p418
+aVTravis Outlaw POR 01/19/2008 POR @ ORL L 29 22 10 20 50.0 1 1 100.0 1 1 100.0 2 4 6 1 1 0 0 2 -6
+p419
+aVChanning Frye POR 01/19/2008 POR @ ORL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -8
+p420
+aVLaMarcus Aldridge POR 01/19/2008 POR @ ORL L 39 12 6 21 28.6 0 0 - 0 0 - 2 5 7 2 1 4 0 3 10
+p421
+aVJoel Przybilla POR 01/19/2008 POR @ ORL L 20 3 0 4 0.0 0 0 - 3 4 75.0 2 6 8 0 0 1 1 1 -10
+p422
+aVSteve Blake POR 01/19/2008 POR @ ORL L 22 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 5 0 0 0 0 4
+p423
+aVJarrett Jack POR 01/19/2008 POR @ ORL L 26 6 2 3 66.7 0 0 - 2 2 100.0 1 1 2 6 0 0 3 3 -6
+p424
+aVBrandon Roy POR 01/18/2008 POR @ MIA W 39 24 8 13 61.5 1 3 33.3 7 7 100.0 2 2 4 5 0 0 2 1 15
+p425
+aVSteve Blake POR 01/18/2008 POR @ MIA W 20 3 1 3 33.3 1 1 100.0 0 0 - 0 2 2 2 0 0 2 1 -5
+p426
+aVJames Jones POR 01/18/2008 POR @ MIA W 25 11 4 7 57.1 3 6 50.0 0 1 0.0 0 3 3 0 2 0 0 0 15
+p427
+aVMartell Webster POR 01/18/2008 POR @ MIA W 23 8 2 8 25.0 1 3 33.3 3 4 75.0 0 3 3 0 0 0 0 1 -8
+p428
+aVJoel Przybilla POR 01/18/2008 POR @ MIA W 17 4 1 1 100.0 0 0 - 2 2 100.0 4 5 9 0 0 1 1 4 -4
+p429
+aVLaMarcus Aldridge POR 01/18/2008 POR @ MIA W 36 14 6 13 46.2 0 1 0.0 2 2 100.0 1 6 7 0 0 2 1 3 15
+p430
+aVSergio Rodriguez POR 01/18/2008 POR @ MIA W 9 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 1 -8
+p431
+aVJarrett Jack POR 01/18/2008 POR @ MIA W 28 10 2 5 40.0 0 2 0.0 6 7 85.7 0 5 5 3 0 0 4 2 12
+p432
+aVChanning Frye POR 01/18/2008 POR @ MIA W 12 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 1 0 0 4 5
+p433
+aVRaef LaFrentz POR 01/18/2008 POR @ MIA W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p434
+aVTravis Outlaw POR 01/18/2008 POR @ MIA W 28 18 6 12 50.0 1 2 50.0 5 8 62.5 3 5 8 3 1 0 1 1 7
+p435
+aVChanning Frye POR 01/16/2008 POR @ BOS L 12 0 0 4 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 4 -9
+p436
+aVJames Jones POR 01/16/2008 POR @ BOS L 25 4 1 2 50.0 1 2 50.0 1 1 100.0 0 4 4 0 0 1 0 3 -3
+p437
+aVJoel Przybilla POR 01/16/2008 POR @ BOS L 25 3 1 4 25.0 0 0 - 1 4 25.0 1 8 9 0 0 0 2 4 2
+p438
+aVBrandon Roy POR 01/16/2008 POR @ BOS L 40 22 7 16 43.8 1 3 33.3 7 8 87.5 0 2 2 6 0 0 4 2 -10
+p439
+aVLaMarcus Aldridge POR 01/16/2008 POR @ BOS L 27 16 7 12 58.3 0 0 - 2 4 50.0 1 5 6 0 0 2 4 6 -11
+p440
+aVJarrett Jack POR 01/16/2008 POR @ BOS L 28 17 6 12 50.0 2 5 40.0 3 4 75.0 0 2 2 5 0 0 2 1 1
+p441
+aVSteve Blake POR 01/16/2008 POR @ BOS L 23 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 4 1 0 0 1 -14
+p442
+aVRaef LaFrentz POR 01/16/2008 POR @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p443
+aVMartell Webster POR 01/16/2008 POR @ BOS L 23 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 1 0 1 4 -9
+p444
+aVSergio Rodriguez POR 01/16/2008 POR @ BOS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 3
+p445
+aVTravis Outlaw POR 01/16/2008 POR @ BOS L 31 17 6 8 75.0 2 2 100.0 3 3 100.0 3 4 7 3 0 1 5 2 -3
+p446
+aVJoel Przybilla POR 01/14/2008 POR @ NJN W 31 9 4 6 66.7 0 0 - 1 2 50.0 3 9 12 0 0 1 1 3 20
+p447
+aVBrandon Roy POR 01/14/2008 POR @ NJN W 30 16 7 10 70.0 2 2 100.0 0 0 - 1 2 3 3 0 0 0 2 26
+p448
+aVJarrett Jack POR 01/14/2008 POR @ NJN W 28 15 5 7 71.4 2 3 66.7 3 3 100.0 0 3 3 7 0 0 2 1 14
+p449
+aVLaMarcus Aldridge POR 01/14/2008 POR @ NJN W 33 20 9 18 50.0 0 0 - 2 2 100.0 4 3 7 3 0 1 2 2 35
+p450
+aVSergio Rodriguez POR 01/14/2008 POR @ NJN W 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 1 0 0 2 1 -9
+p451
+aVSteve Blake POR 01/14/2008 POR @ NJN W 28 5 2 4 50.0 0 1 0.0 1 1 100.0 0 3 3 5 1 0 2 2 22
+p452
+aVTaurean Green POR 01/14/2008 POR @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -1
+p453
+aVJames Jones POR 01/14/2008 POR @ NJN W 22 10 3 8 37.5 3 6 50.0 1 1 100.0 1 1 2 0 0 0 0 1 14
+p454
+aVMartell Webster POR 01/14/2008 POR @ NJN W 26 6 2 5 40.0 2 3 66.7 0 0 - 0 5 5 2 2 1 2 1 12
+p455
+aVRaef LaFrentz POR 01/14/2008 POR @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p456
+aVTravis Outlaw POR 01/14/2008 POR @ NJN W 15 13 5 9 55.6 0 0 - 3 4 75.0 0 3 3 0 0 0 0 1 -9
+p457
+aVChanning Frye POR 01/14/2008 POR @ NJN W 15 3 0 3 0.0 0 0 - 3 4 75.0 0 1 1 2 0 0 1 2 7
+p458
+aVJarrett Jack POR 01/13/2008 POR @ TOR L 48 12 4 16 25.0 2 4 50.0 2 2 100.0 0 9 9 5 1 0 2 1 -11
+p459
+aVJoel Przybilla POR 01/13/2008 POR @ TOR L 20 8 4 4 100.0 0 0 - 0 0 - 3 6 9 1 0 0 1 2 9
+p460
+aVMartell Webster POR 01/13/2008 POR @ TOR L 40 9 4 13 30.8 1 8 12.5 0 0 - 0 2 2 2 0 0 0 2 3
+p461
+aVJames Jones POR 01/13/2008 POR @ TOR L 22 0 0 3 0.0 0 1 0.0 0 0 - 2 2 4 2 0 0 1 1 2
+p462
+aVBrandon Roy POR 01/13/2008 POR @ TOR L 52 33 12 25 48.0 4 6 66.7 5 5 100.0 2 3 5 10 2 0 1 4 -4
+p463
+aVLaMarcus Aldridge POR 01/13/2008 POR @ TOR L 37 11 5 17 29.4 0 0 - 1 2 50.0 4 5 9 1 0 0 1 4 -19
+p464
+aVTravis Outlaw POR 01/13/2008 POR @ TOR L 35 18 8 18 44.4 1 2 50.0 1 1 100.0 3 3 6 2 1 3 2 3 -12
+p465
+aVChanning Frye POR 01/13/2008 POR @ TOR L 24 16 7 10 70.0 0 0 - 2 2 100.0 2 5 7 0 0 0 1 4 5
+p466
+aVSergio Rodriguez POR 01/13/2008 POR @ TOR L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 2 -8
+p467
+aVSteve Blake POR 01/09/2008 POR vs. GSW W 23 24 8 10 80.0 5 6 83.3 3 3 100.0 0 2 2 4 2 0 0 1 26
+p468
+aVJames Jones POR 01/09/2008 POR vs. GSW W 24 16 5 8 62.5 3 5 60.0 3 3 100.0 1 2 3 3 0 0 0 0 -3
+p469
+aVMartell Webster POR 01/09/2008 POR vs. GSW W 26 16 6 9 66.7 4 6 66.7 0 0 - 0 2 2 1 0 0 4 3 23
+p470
+aVJarrett Jack POR 01/09/2008 POR vs. GSW W 24 2 1 5 20.0 0 3 0.0 0 0 - 1 3 4 5 1 0 6 0 -8
+p471
+aVSergio Rodriguez POR 01/09/2008 POR vs. GSW W 13 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 4 1 0 1 3 -4
+p472
+aVJoel Przybilla POR 01/09/2008 POR vs. GSW W 22 10 3 5 60.0 0 0 - 4 4 100.0 2 8 10 2 2 2 1 3 21
+p473
+aVTaurean Green POR 01/09/2008 POR vs. GSW W 6 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p474
+aVLaMarcus Aldridge POR 01/09/2008 POR vs. GSW W 31 19 8 15 53.3 0 0 - 3 4 75.0 2 3 5 1 1 0 0 0 24
+p475
+aVChanning Frye POR 01/09/2008 POR vs. GSW W 20 1 0 4 0.0 0 0 - 1 2 50.0 3 4 7 2 0 0 0 4 -3
+p476
+aVTravis Outlaw POR 01/09/2008 POR vs. GSW W 22 8 4 10 40.0 0 2 0.0 0 0 - 2 6 8 1 3 1 1 0 -6
+p477
+aVBrandon Roy POR 01/09/2008 POR vs. GSW W 29 8 4 12 33.3 0 2 0.0 0 0 - 1 7 8 8 0 0 3 3 23
+p478
+aVSergio Rodriguez POR 01/05/2008 POR vs. UTA W 21 12 3 5 60.0 1 1 100.0 5 6 83.3 0 1 1 4 2 0 3 1 2
+p479
+aVChanning Frye POR 01/05/2008 POR vs. UTA W 13 2 1 4 25.0 0 0 - 0 0 - 2 5 7 0 2 0 0 1 -1
+p480
+aVSteve Blake POR 01/05/2008 POR vs. UTA W 27 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 6 2 0 0 2 13
+p481
+aVJoel Przybilla POR 01/05/2008 POR vs. UTA W 23 8 3 3 100.0 0 0 - 2 2 100.0 2 6 8 0 1 0 0 4 7
+p482
+aVTravis Outlaw POR 01/05/2008 POR vs. UTA W 25 14 7 12 58.3 0 1 0.0 0 0 - 0 6 6 2 0 2 2 2 5
+p483
+aVMartell Webster POR 01/05/2008 POR vs. UTA W 26 26 8 15 53.3 3 5 60.0 7 7 100.0 1 5 6 3 0 0 0 2 10
+p484
+aVBrandon Roy POR 01/05/2008 POR vs. UTA W 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 3
+p485
+aVJarrett Jack POR 01/05/2008 POR vs. UTA W 39 9 3 9 33.3 1 1 100.0 2 2 100.0 0 3 3 5 2 0 3 3 10
+p486
+aVLaMarcus Aldridge POR 01/05/2008 POR vs. UTA W 36 20 5 12 41.7 0 0 - 10 12 83.3 5 3 8 0 2 4 4 3 17
+p487
+aVJames Jones POR 01/05/2008 POR vs. UTA W 22 6 2 4 50.0 1 2 50.0 1 2 50.0 0 0 0 0 0 0 1 1 4
+p488
+aVChanning Frye POR 01/03/2008 POR @ CHI W 18 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 0 1 2 1 5
+p489
+aVBrandon Roy POR 01/03/2008 POR @ CHI W 49 25 7 15 46.7 1 2 50.0 10 11 90.9 0 6 6 11 2 1 0 1 11
+p490
+aVSteve Blake POR 01/03/2008 POR @ CHI W 28 13 5 8 62.5 3 3 100.0 0 0 - 0 4 4 1 1 0 1 1 2
+p491
+aVJarrett Jack POR 01/03/2008 POR @ CHI W 34 17 7 13 53.8 2 4 50.0 1 1 100.0 1 3 4 5 1 0 2 3 8
+p492
+aVJoel Przybilla POR 01/03/2008 POR @ CHI W 15 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 1 0 0 2 -3
+p493
+aVTravis Outlaw POR 01/03/2008 POR @ CHI W 39 21 9 19 47.4 1 1 100.0 2 4 50.0 0 5 5 1 0 0 1 2 4
+p494
+aVSergio Rodriguez POR 01/03/2008 POR @ CHI W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -9
+p495
+aVLaMarcus Aldridge POR 01/03/2008 POR @ CHI W 44 14 6 17 35.3 0 0 - 2 2 100.0 5 8 13 2 0 1 2 4 6
+p496
+aVJames Jones POR 01/03/2008 POR @ CHI W 31 8 1 4 25.0 1 4 25.0 5 5 100.0 2 3 5 1 1 2 1 3 2
+p497
+aVMartell Webster POR 01/03/2008 POR @ CHI W 27 13 5 13 38.5 3 7 42.9 0 0 - 2 2 4 1 0 0 1 2 4
+p498
+aVSergio Rodriguez POR 01/02/2008 POR @ MIN W 11 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 8 0 0 0 0 9
+p499
+aVJames Jones POR 01/02/2008 POR @ MIN W 24 18 5 7 71.4 3 5 60.0 5 5 100.0 0 4 4 0 0 0 0 3 3
+p500
+aVJoel Przybilla POR 01/02/2008 POR @ MIN W 11 2 1 2 50.0 0 0 - 0 0 - 0 4 4 0 0 1 0 4 -2
+p501
+aVJarrett Jack POR 01/02/2008 POR @ MIN W 24 3 1 2 50.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 0 1 9
+p502
+aVTravis Outlaw POR 01/02/2008 POR @ MIN W 24 5 2 7 28.6 0 1 0.0 1 2 50.0 0 4 4 0 1 0 1 2 8
+p503
+aVBrandon Roy POR 01/02/2008 POR @ MIN W 37 24 8 21 38.1 2 7 28.6 6 6 100.0 3 2 5 3 0 0 0 2 2
+p504
+aVMartell Webster POR 01/02/2008 POR @ MIN W 24 7 3 9 33.3 1 5 20.0 0 0 - 0 4 4 0 0 2 1 1 8
+p505
+aVChanning Frye POR 01/02/2008 POR @ MIN W 23 5 2 6 33.3 0 1 0.0 1 2 50.0 2 5 7 0 1 1 0 4 18
+p506
+aVLaMarcus Aldridge POR 01/02/2008 POR @ MIN W 38 17 6 16 37.5 0 0 - 5 6 83.3 4 7 11 1 0 4 1 3 -2
+p507
+aVSteve Blake POR 01/02/2008 POR @ MIN W 24 8 2 6 33.3 2 5 40.0 2 2 100.0 0 2 2 2 0 0 1 0 2
+p508
+aVBrandon Roy POR 12/31/2007 POR @ UTA L 33 17 6 13 46.2 0 4 0.0 5 6 83.3 0 4 4 5 0 0 4 6 -3
+p509
+aVLaMarcus Aldridge POR 12/31/2007 POR @ UTA L 38 36 12 17 70.6 0 0 - 12 14 85.7 2 1 3 0 0 0 2 1 -4
+p510
+aVTravis Outlaw POR 12/31/2007 POR @ UTA L 21 11 3 6 50.0 2 3 66.7 3 8 37.5 0 3 3 0 0 1 3 4 -9
+p511
+aVJoel Przybilla POR 12/31/2007 POR @ UTA L 16 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 1 1 3 -3
+p512
+aVJames Jones POR 12/31/2007 POR @ UTA L 25 15 3 5 60.0 2 2 100.0 7 9 77.8 0 1 1 1 1 1 0 3 -15
+p513
+aVMartell Webster POR 12/31/2007 POR @ UTA L 24 4 1 3 33.3 1 3 33.3 1 1 100.0 0 4 4 3 0 0 0 3 4
+p514
+aVSteve Blake POR 12/31/2007 POR @ UTA L 31 5 2 7 28.6 1 3 33.3 0 0 - 1 2 3 7 1 0 1 3 -1
+p515
+aVJarrett Jack POR 12/31/2007 POR @ UTA L 24 5 0 5 0.0 0 2 0.0 5 5 100.0 1 4 5 0 0 0 2 0 -19
+p516
+aVSergio Rodriguez POR 12/31/2007 POR @ UTA L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 1
+p517
+aVChanning Frye POR 12/31/2007 POR @ UTA L 21 8 4 7 57.1 0 0 - 0 0 - 2 1 3 2 1 1 0 5 -1
+p518
+aVMartell Webster POR 12/30/2007 POR vs. PHI W 24 7 2 6 33.3 2 5 40.0 1 2 50.0 1 0 1 2 0 0 0 3 3
+p519
+aVJames Jones POR 12/30/2007 POR vs. PHI W 24 12 3 6 50.0 1 2 50.0 5 6 83.3 1 2 3 1 0 0 0 0 22
+p520
+aVJoel Przybilla POR 12/30/2007 POR vs. PHI W 18 0 0 1 0.0 0 0 - 0 2 0.0 2 3 5 0 0 1 1 2 -4
+p521
+aVJarrett Jack POR 12/30/2007 POR vs. PHI W 24 10 3 8 37.5 1 4 25.0 3 3 100.0 0 5 5 8 3 0 1 0 30
+p522
+aVTravis Outlaw POR 12/30/2007 POR vs. PHI W 22 12 5 12 41.7 0 0 - 2 2 100.0 2 2 4 0 0 1 0 1 16
+p523
+aVJosh McRoberts POR 12/30/2007 POR vs. PHI W 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 2
+p524
+aVChanning Frye POR 12/30/2007 POR vs. PHI W 28 8 4 8 50.0 0 0 - 0 0 - 2 7 9 2 0 1 1 3 36
+p525
+aVLaMarcus Aldridge POR 12/30/2007 POR vs. PHI W 26 8 3 8 37.5 0 0 - 2 2 100.0 0 2 2 2 1 0 2 3 0
+p526
+aVBrandon Roy POR 12/30/2007 POR vs. PHI W 38 22 9 17 52.9 1 3 33.3 3 3 100.0 0 6 6 6 1 0 1 3 22
+p527
+aVSteve Blake POR 12/30/2007 POR vs. PHI W 26 11 4 7 57.1 3 5 60.0 0 0 - 0 3 3 2 0 0 1 1 -4
+p528
+aVSergio Rodriguez POR 12/30/2007 POR vs. PHI W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 2
+p529
+aVSergio Rodriguez POR 12/28/2007 POR vs. MIN W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 2 1 -7
+p530
+aVJarrett Jack POR 12/28/2007 POR vs. MIN W 30 14 4 10 40.0 2 5 40.0 4 4 100.0 1 3 4 5 0 0 1 0 11
+p531
+aVSteve Blake POR 12/28/2007 POR vs. MIN W 27 12 4 7 57.1 4 5 80.0 0 0 - 2 0 2 4 1 0 1 1 10
+p532
+aVMartell Webster POR 12/28/2007 POR vs. MIN W 23 4 2 8 25.0 0 3 0.0 0 0 - 1 3 4 3 0 0 1 1 6
+p533
+aVJoel Przybilla POR 12/28/2007 POR vs. MIN W 20 4 2 2 100.0 0 0 - 0 0 - 2 3 5 0 1 0 2 2 -5
+p534
+aVJames Jones POR 12/28/2007 POR vs. MIN W 25 12 4 8 50.0 2 4 50.0 2 3 66.7 0 3 3 1 0 1 0 0 5
+p535
+aVBrandon Roy POR 12/28/2007 POR vs. MIN W 33 22 7 12 58.3 0 2 0.0 8 13 61.5 0 6 6 5 1 0 2 3 8
+p536
+aVTravis Outlaw POR 12/28/2007 POR vs. MIN W 23 7 3 7 42.9 0 0 - 1 2 50.0 0 6 6 4 2 3 1 2 5
+p537
+aVChanning Frye POR 12/28/2007 POR vs. MIN W 20 13 5 10 50.0 0 0 - 3 3 100.0 5 2 7 2 1 0 1 1 7
+p538
+aVLaMarcus Aldridge POR 12/28/2007 POR vs. MIN W 33 21 9 17 52.9 0 0 - 3 4 75.0 3 5 8 3 2 2 1 3 15
+p539
+aVJames Jones POR 12/25/2007 POR vs. SEA W 27 9 3 8 37.5 2 3 66.7 1 1 100.0 1 5 6 2 1 0 0 1 8
+p540
+aVMartell Webster POR 12/25/2007 POR vs. SEA W 21 4 1 7 14.3 1 5 20.0 1 2 50.0 0 2 2 3 1 0 3 2 2
+p541
+aVTravis Outlaw POR 12/25/2007 POR vs. SEA W 20 8 4 12 33.3 0 0 - 0 0 - 4 1 5 1 0 0 0 1 4
+p542
+aVLaMarcus Aldridge POR 12/25/2007 POR vs. SEA W 25 2 1 10 10.0 0 0 - 0 2 0.0 4 1 5 1 1 0 0 3 6
+p543
+aVJoel Przybilla POR 12/25/2007 POR vs. SEA W 28 6 2 2 100.0 0 0 - 2 2 100.0 2 14 16 0 0 0 2 1 3
+p544
+aVSergio Rodriguez POR 12/25/2007 POR vs. SEA W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 4 1 0 0 1 3
+p545
+aVBrandon Roy POR 12/25/2007 POR vs. SEA W 30 17 7 23 30.4 1 5 20.0 2 3 66.7 3 3 6 7 0 0 1 4 8
+p546
+aVJarrett Jack POR 12/25/2007 POR vs. SEA W 31 17 7 11 63.6 1 1 100.0 2 2 100.0 0 1 1 4 0 0 0 2 2
+p547
+aVSteve Blake POR 12/25/2007 POR vs. SEA W 20 12 5 11 45.5 2 4 50.0 0 0 - 3 0 3 3 1 0 0 2 7
+p548
+aVChanning Frye POR 12/25/2007 POR vs. SEA W 23 12 5 6 83.3 0 0 - 2 2 100.0 2 6 8 2 0 0 0 2 7
+p549
+aVSergio Rodriguez POR 12/21/2007 POR vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p550
+aVTravis Outlaw POR 12/21/2007 POR vs. DEN W 24 12 4 11 36.4 0 1 0.0 4 6 66.7 2 4 6 2 0 3 1 3 10
+p551
+aVSteve Blake POR 12/21/2007 POR vs. DEN W 26 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 7 0 1 2 1 2
+p552
+aVLaMarcus Aldridge POR 12/21/2007 POR vs. DEN W 33 18 8 16 50.0 0 0 - 2 4 50.0 4 4 8 5 0 0 1 2 1
+p553
+aVBrandon Roy POR 12/21/2007 POR vs. DEN W 38 18 4 15 26.7 0 6 0.0 10 12 83.3 0 3 3 5 0 1 2 4 -4
+p554
+aVChanning Frye POR 12/21/2007 POR vs. DEN W 20 8 4 6 66.7 0 0 - 0 0 - 3 7 10 2 0 0 0 1 8
+p555
+aVJarrett Jack POR 12/21/2007 POR vs. DEN W 28 5 1 4 25.0 1 3 33.3 2 2 100.0 0 2 2 2 1 0 2 0 11
+p556
+aVMartell Webster POR 12/21/2007 POR vs. DEN W 27 19 7 12 58.3 4 8 50.0 1 1 100.0 0 5 5 1 1 0 1 3 -10
+p557
+aVJoel Przybilla POR 12/21/2007 POR vs. DEN W 13 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 4 -6
+p558
+aVJames Jones POR 12/21/2007 POR vs. DEN W 27 14 4 7 57.1 3 5 60.0 3 4 75.0 0 2 2 1 0 0 3 2 4
+p559
+aVSergio Rodriguez POR 12/19/2007 POR vs. TOR W 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 1 0 -5
+p560
+aVLaMarcus Aldridge POR 12/19/2007 POR vs. TOR W 37 15 7 15 46.7 0 0 - 1 2 50.0 3 4 7 3 0 0 1 1 10
+p561
+aVJoel Przybilla POR 12/19/2007 POR vs. TOR W 19 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -6
+p562
+aVJames Jones POR 12/19/2007 POR vs. TOR W 24 6 1 4 25.0 0 3 0.0 4 4 100.0 0 3 3 3 0 0 0 0 6
+p563
+aVMartell Webster POR 12/19/2007 POR vs. TOR W 24 15 5 7 71.4 4 5 80.0 1 2 50.0 0 2 2 2 0 0 0 0 -1
+p564
+aVSteve Blake POR 12/19/2007 POR vs. TOR W 25 14 6 9 66.7 2 4 50.0 0 0 - 0 0 0 1 0 0 2 0 -3
+p565
+aVJarrett Jack POR 12/19/2007 POR vs. TOR W 23 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 1 1 0 1 1 8
+p566
+aVChanning Frye POR 12/19/2007 POR vs. TOR W 13 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 0 0 2 3 -2
+p567
+aVTravis Outlaw POR 12/19/2007 POR vs. TOR W 26 11 4 12 33.3 0 0 - 3 4 75.0 2 5 7 2 1 1 1 1 8
+p568
+aVBrandon Roy POR 12/19/2007 POR vs. TOR W 40 25 10 16 62.5 3 5 60.0 2 3 66.7 1 8 9 8 0 0 4 2 10
+p569
+aVBrandon Roy POR 12/17/2007 POR vs. NOH W 37 24 10 17 58.8 2 4 50.0 2 2 100.0 2 1 3 8 2 0 2 0 10
+p570
+aVMartell Webster POR 12/17/2007 POR vs. NOH W 27 13 3 8 37.5 1 4 25.0 6 8 75.0 0 2 2 1 0 0 0 1 3
+p571
+aVSteve Blake POR 12/17/2007 POR vs. NOH W 21 10 4 5 80.0 2 3 66.7 0 0 - 0 2 2 0 2 0 1 1 8
+p572
+aVChanning Frye POR 12/17/2007 POR vs. NOH W 15 8 4 11 36.4 0 0 - 0 0 - 1 3 4 2 1 0 1 4 10
+p573
+aVJames Jones POR 12/17/2007 POR vs. NOH W 23 6 2 7 28.6 1 5 20.0 1 2 50.0 0 1 1 1 0 0 0 2 8
+p574
+aVSergio Rodriguez POR 12/17/2007 POR vs. NOH W 11 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 2
+p575
+aVJarrett Jack POR 12/17/2007 POR vs. NOH W 28 5 2 7 28.6 1 3 33.3 0 0 - 0 2 2 4 0 1 3 0 7
+p576
+aVJoel Przybilla POR 12/17/2007 POR vs. NOH W 29 6 3 5 60.0 0 0 - 0 2 0.0 4 5 9 0 0 0 0 4 7
+p577
+aVRaef LaFrentz POR 12/17/2007 POR vs. NOH W 18 2 1 3 33.3 0 0 - 0 0 - 5 6 11 0 0 2 0 1 2
+p578
+aVTravis Outlaw POR 12/17/2007 POR vs. NOH W 31 8 1 12 8.3 0 1 0.0 6 6 100.0 0 2 2 4 0 3 2 1 3
+p579
+aVJames Jones POR 12/16/2007 POR @ DEN W 30 14 4 6 66.7 3 5 60.0 3 3 100.0 2 5 7 1 0 0 1 3 4
+p580
+aVChanning Frye POR 12/16/2007 POR @ DEN W 26 20 10 13 76.9 0 0 - 0 0 - 5 4 9 1 0 1 2 3 11
+p581
+aVSergio Rodriguez POR 12/16/2007 POR @ DEN W 8 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 -5
+p582
+aVTravis Outlaw POR 12/16/2007 POR @ DEN W 28 17 7 15 46.7 0 1 0.0 3 4 75.0 2 3 5 2 2 1 2 0 6
+p583
+aVBrandon Roy POR 12/16/2007 POR @ DEN W 40 26 11 27 40.7 0 4 0.0 4 6 66.7 4 2 6 11 1 0 2 3 16
+p584
+aVMartell Webster POR 12/16/2007 POR @ DEN W 18 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 1 0 0 1 2 7
+p585
+aVJarrett Jack POR 12/16/2007 POR @ DEN W 22 10 3 5 60.0 1 1 100.0 3 4 75.0 0 0 0 5 1 0 4 1 6
+p586
+aVJoel Przybilla POR 12/16/2007 POR @ DEN W 31 6 3 5 60.0 0 0 - 0 1 0.0 5 6 11 0 0 3 0 3 4
+p587
+aVSteve Blake POR 12/16/2007 POR @ DEN W 27 12 5 8 62.5 2 4 50.0 0 0 - 0 0 0 2 1 0 2 5 4
+p588
+aVRaef LaFrentz POR 12/16/2007 POR @ DEN W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 2
+p589
+aVJarrett Jack POR 12/14/2007 POR vs. UTA W 27 5 0 4 0.0 0 0 - 5 6 83.3 0 4 4 4 2 0 4 4 5
+p590
+aVRaef LaFrentz POR 12/14/2007 POR vs. UTA W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 3 0 2 8
+p591
+aVChanning Frye POR 12/14/2007 POR vs. UTA W 18 5 2 6 33.3 0 0 - 1 2 50.0 0 3 3 1 0 0 2 2 -2
+p592
+aVTravis Outlaw POR 12/14/2007 POR vs. UTA W 27 21 6 10 60.0 0 0 - 9 14 64.3 1 5 6 2 2 1 1 2 15
+p593
+aVSteve Blake POR 12/14/2007 POR vs. UTA W 22 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 4 1 0 2 2 5
+p594
+aVBrandon Roy POR 12/14/2007 POR vs. UTA W 36 29 11 21 52.4 0 3 0.0 7 7 100.0 1 3 4 4 1 0 3 1 1
+p595
+aVJames Jones POR 12/14/2007 POR vs. UTA W 29 14 3 5 60.0 1 2 50.0 7 7 100.0 0 4 4 0 0 1 1 2 13
+p596
+aVJoel Przybilla POR 12/14/2007 POR vs. UTA W 34 8 4 6 66.7 0 0 - 0 0 - 3 5 8 0 0 1 1 5 1
+p597
+aVMartell Webster POR 12/14/2007 POR vs. UTA W 23 10 1 4 25.0 1 3 33.3 7 8 87.5 0 4 4 1 1 0 0 1 -13
+p598
+aVSergio Rodriguez POR 12/14/2007 POR vs. UTA W 12 3 1 7 14.3 0 2 0.0 1 2 50.0 1 3 4 1 0 0 0 3 7
+p599
+aVSergio Rodriguez POR 12/12/2007 POR vs. GSW W 10 0 0 3 0.0 0 1 0.0 0 0 - 1 4 5 4 0 0 2 2 9
+p600
+aVMartell Webster POR 12/12/2007 POR vs. GSW W 9 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 2
+p601
+aVTravis Outlaw POR 12/12/2007 POR vs. GSW W 33 22 9 15 60.0 1 3 33.3 3 3 100.0 3 5 8 2 2 1 2 0 12
+p602
+aVJames Jones POR 12/12/2007 POR vs. GSW W 34 21 5 8 62.5 4 6 66.7 7 7 100.0 1 5 6 0 0 0 2 1 4
+p603
+aVJoel Przybilla POR 12/12/2007 POR vs. GSW W 30 15 6 7 85.7 0 0 - 3 3 100.0 5 5 10 1 0 3 0 2 15
+p604
+aVJarrett Jack POR 12/12/2007 POR vs. GSW W 26 9 2 8 25.0 0 2 0.0 5 6 83.3 0 3 3 6 0 0 2 1 8
+p605
+aVSteve Blake POR 12/12/2007 POR vs. GSW W 28 5 2 6 33.3 1 2 50.0 0 2 0.0 0 2 2 5 0 0 1 0 6
+p606
+aVChanning Frye POR 12/12/2007 POR vs. GSW W 18 6 3 8 37.5 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -4
+p607
+aVRaef LaFrentz POR 12/12/2007 POR vs. GSW W 14 4 1 1 100.0 0 0 - 2 3 66.7 0 1 1 0 0 0 1 4 -3
+p608
+aVBrandon Roy POR 12/12/2007 POR vs. GSW W 38 21 9 22 40.9 0 2 0.0 3 6 50.0 0 5 5 7 1 0 0 1 1
+p609
+aVJarrett Jack POR 12/11/2007 POR @ UTA W 24 16 5 8 62.5 0 1 0.0 6 6 100.0 0 2 2 2 1 0 2 0 -5
+p610
+aVTravis Outlaw POR 12/11/2007 POR @ UTA W 29 11 4 9 44.4 0 1 0.0 3 4 75.0 1 4 5 2 1 0 5 3 2
+p611
+aVJames Jones POR 12/11/2007 POR @ UTA W 19 3 1 3 33.3 0 1 0.0 1 1 100.0 1 1 2 0 0 1 0 2 -3
+p612
+aVBrandon Roy POR 12/11/2007 POR @ UTA W 32 16 5 12 41.7 0 0 - 6 7 85.7 0 3 3 3 1 0 2 3 0
+p613
+aVSteve Blake POR 12/11/2007 POR @ UTA W 31 6 2 6 33.3 2 5 40.0 0 2 0.0 0 3 3 8 3 0 2 0 18
+p614
+aVJoel Przybilla POR 12/11/2007 POR @ UTA W 38 6 2 3 66.7 0 0 - 2 2 100.0 1 9 10 1 0 6 2 4 11
+p615
+aVChanning Frye POR 12/11/2007 POR @ UTA W 20 10 3 10 30.0 0 0 - 4 4 100.0 1 2 3 0 0 1 1 5 7
+p616
+aVMartell Webster POR 12/11/2007 POR @ UTA W 30 25 9 13 69.2 5 8 62.5 2 3 66.7 2 3 5 2 1 0 3 1 14
+p617
+aVSergio Rodriguez POR 12/11/2007 POR @ UTA W 9 4 1 3 33.3 1 1 100.0 1 2 50.0 0 2 2 2 0 0 1 0 0
+p618
+aVRaef LaFrentz POR 12/11/2007 POR @ UTA W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 1 2 -4
+p619
+aVSergio Rodriguez POR 12/09/2007 POR vs. MIL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p620
+aVJoel Przybilla POR 12/09/2007 POR vs. MIL W 19 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 1 4 4 5
+p621
+aVJames Jones POR 12/09/2007 POR vs. MIL W 24 9 3 6 50.0 3 5 60.0 0 0 - 0 3 3 0 0 0 2 1 -7
+p622
+aVTravis Outlaw POR 12/09/2007 POR vs. MIL W 29 20 3 11 27.3 0 1 0.0 14 16 87.5 0 5 5 1 1 1 0 5 10
+p623
+aVSteve Blake POR 12/09/2007 POR vs. MIL W 43 19 6 12 50.0 4 8 50.0 3 3 100.0 0 0 0 5 1 0 3 2 9
+p624
+aVBrandon Roy POR 12/09/2007 POR vs. MIL W 45 26 11 13 84.6 0 0 - 4 4 100.0 0 8 8 9 2 1 2 0 3
+p625
+aVJarrett Jack POR 12/09/2007 POR vs. MIL W 22 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 5 1 0 3 1 -7
+p626
+aVLaMarcus Aldridge POR 12/09/2007 POR vs. MIL W 33 24 10 15 66.7 0 0 - 4 4 100.0 3 0 3 1 2 3 1 6 -4
+p627
+aVMartell Webster POR 12/09/2007 POR vs. MIL W 33 9 3 6 50.0 2 3 66.7 1 2 50.0 1 5 6 2 1 0 2 2 7
+p628
+aVRaef LaFrentz POR 12/09/2007 POR vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p629
+aVChanning Frye POR 12/09/2007 POR vs. MIL W 10 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 1 0 0 0 1 -2
+p630
+aVSteve Blake POR 12/06/2007 POR vs. MIA W 30 12 3 6 50.0 2 3 66.7 4 4 100.0 0 4 4 5 0 0 1 1 4
+p631
+aVJarrett Jack POR 12/06/2007 POR vs. MIA W 18 7 2 5 40.0 1 4 25.0 2 2 100.0 0 0 0 2 0 0 4 2 2
+p632
+aVRaef LaFrentz POR 12/06/2007 POR vs. MIA W 4 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -3
+p633
+aVJames Jones POR 12/06/2007 POR vs. MIA W 27 14 5 7 71.4 4 6 66.7 0 0 - 2 1 3 1 1 1 0 3 6
+p634
+aVBrandon Roy POR 12/06/2007 POR vs. MIA W 38 25 7 15 46.7 0 2 0.0 11 13 84.6 0 5 5 6 0 1 2 1 1
+p635
+aVChanning Frye POR 12/06/2007 POR vs. MIA W 7 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 1 1 0 0 2 8
+p636
+aVTravis Outlaw POR 12/06/2007 POR vs. MIA W 29 20 9 17 52.9 0 1 0.0 2 5 40.0 1 6 7 2 0 1 0 1 7
+p637
+aVSergio Rodriguez POR 12/06/2007 POR vs. MIA W 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 5 0 0 2 0 5
+p638
+aVJoel Przybilla POR 12/06/2007 POR vs. MIA W 24 2 1 2 50.0 0 0 - 0 2 0.0 3 5 8 1 0 1 0 4 -3
+p639
+aVLaMarcus Aldridge POR 12/06/2007 POR vs. MIA W 32 14 7 12 58.3 0 0 - 0 0 - 4 6 10 2 1 1 1 2 3
+p640
+aVMartell Webster POR 12/06/2007 POR vs. MIA W 21 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 1 0 1 0
+p641
+aVRaef LaFrentz POR 12/03/2007 POR @ MEM W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p642
+aVMartell Webster POR 12/03/2007 POR @ MEM W 25 3 1 5 20.0 1 5 20.0 0 0 - 0 4 4 3 0 1 0 1 -4
+p643
+aVJarrett Jack POR 12/03/2007 POR @ MEM W 22 7 2 7 28.6 1 4 25.0 2 2 100.0 0 1 1 3 0 0 1 0 9
+p644
+aVSergio Rodriguez POR 12/03/2007 POR @ MEM W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p645
+aVSteve Blake POR 12/03/2007 POR @ MEM W 26 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 6 3 0 2 1 -8
+p646
+aVJames Jones POR 12/03/2007 POR @ MEM W 26 16 6 7 85.7 4 4 100.0 0 0 - 1 3 4 1 2 0 0 1 11
+p647
+aVJoel Przybilla POR 12/03/2007 POR @ MEM W 18 4 2 3 66.7 0 0 - 0 0 - 3 4 7 1 0 2 2 5 5
+p648
+aVBrandon Roy POR 12/03/2007 POR @ MEM W 42 26 11 21 52.4 1 2 50.0 3 6 50.0 2 7 9 7 0 0 3 2 -2
+p649
+aVLaMarcus Aldridge POR 12/03/2007 POR @ MEM W 42 23 11 23 47.8 0 0 - 1 2 50.0 3 2 5 1 2 1 2 4 2
+p650
+aVTravis Outlaw POR 12/03/2007 POR @ MEM W 30 21 8 13 61.5 3 3 100.0 2 2 100.0 1 6 7 2 0 2 0 0 -1
+p651
+aVTravis Outlaw POR 12/02/2007 POR @ SAS L 28 17 8 16 50.0 0 0 - 1 2 50.0 3 8 11 1 0 1 0 2 -18
+p652
+aVMartell Webster POR 12/02/2007 POR @ SAS L 34 17 7 11 63.6 2 4 50.0 1 2 50.0 1 0 1 0 1 0 2 3 -17
+p653
+aVJosh McRoberts POR 12/02/2007 POR @ SAS L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p654
+aVSergio Rodriguez POR 12/02/2007 POR @ SAS L 13 6 3 5 60.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 -4
+p655
+aVJames Jones POR 12/02/2007 POR @ SAS L 23 10 2 7 28.6 1 3 33.3 5 5 100.0 0 1 1 1 0 0 0 3 -7
+p656
+aVLaMarcus Aldridge POR 12/02/2007 POR @ SAS L 32 8 2 8 25.0 0 0 - 4 5 80.0 2 6 8 1 0 0 5 2 -17
+p657
+aVRaef LaFrentz POR 12/02/2007 POR @ SAS L 14 5 2 4 50.0 0 1 0.0 1 2 50.0 0 3 3 0 0 1 0 2 -8
+p658
+aVJarrett Jack POR 12/02/2007 POR @ SAS L 21 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 3 0 0 2 2 -10
+p659
+aVChanning Frye POR 12/02/2007 POR @ SAS L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p660
+aVSteve Blake POR 12/02/2007 POR @ SAS L 20 1 0 2 0.0 0 0 - 1 1 100.0 1 3 4 2 0 0 0 2 -7
+p661
+aVJoel Przybilla POR 12/02/2007 POR @ SAS L 11 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 0 1 0 2 0
+p662
+aVBrandon Roy POR 12/02/2007 POR @ SAS L 33 4 1 9 11.1 0 1 0.0 2 3 66.7 1 2 3 5 0 0 0 1 -18
+p663
+aVBrandon Roy POR 11/30/2007 POR @ DAL L 32 8 3 12 25.0 0 5 0.0 2 2 100.0 1 4 5 2 1 0 2 4 -7
+p664
+aVSergio Rodriguez POR 11/30/2007 POR @ DAL L 16 10 4 6 66.7 1 1 100.0 1 2 50.0 0 1 1 5 1 0 2 1 5
+p665
+aVRaef LaFrentz POR 11/30/2007 POR @ DAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 1 1 1 0
+p666
+aVJoel Przybilla POR 11/30/2007 POR @ DAL L 20 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 0 2 1 4 -6
+p667
+aVTravis Outlaw POR 11/30/2007 POR @ DAL L 29 8 3 9 33.3 0 1 0.0 2 4 50.0 2 2 4 0 1 0 0 3 1
+p668
+aVLaMarcus Aldridge POR 11/30/2007 POR @ DAL L 41 22 9 15 60.0 0 0 - 4 6 66.7 3 9 12 1 1 5 2 1 -15
+p669
+aVJarrett Jack POR 11/30/2007 POR @ DAL L 32 8 2 7 28.6 1 4 25.0 3 5 60.0 0 4 4 0 1 0 2 2 -7
+p670
+aVJames Jones POR 11/30/2007 POR @ DAL L 3 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 1 0 -6
+p671
+aVSteve Blake POR 11/30/2007 POR @ DAL L 32 12 5 8 62.5 2 2 100.0 0 0 - 0 0 0 5 0 0 1 3 -14
+p672
+aVMartell Webster POR 11/30/2007 POR @ DAL L 27 6 3 9 33.3 0 1 0.0 0 0 - 2 3 5 2 0 0 1 1 -6
+p673
+aVSteve Blake POR 11/28/2007 POR vs. IND L 24 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 5 2 0 2 0 -7
+p674
+aVJoel Przybilla POR 11/28/2007 POR vs. IND L 24 6 2 5 40.0 0 0 - 2 2 100.0 1 5 6 0 0 0 1 3 -3
+p675
+aVRaef LaFrentz POR 11/28/2007 POR vs. IND L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -2
+p676
+aVSergio Rodriguez POR 11/28/2007 POR vs. IND L 15 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 4 1 0 1 2 9
+p677
+aVTravis Outlaw POR 11/28/2007 POR vs. IND L 31 26 11 21 52.4 1 3 33.3 3 5 60.0 3 4 7 2 2 1 2 2 -4
+p678
+aVJarrett Jack POR 11/28/2007 POR vs. IND L 34 12 4 11 36.4 2 6 33.3 2 2 100.0 0 5 5 6 2 0 4 4 2
+p679
+aVLaMarcus Aldridge POR 11/28/2007 POR vs. IND L 38 22 10 17 58.8 0 0 - 2 2 100.0 4 5 9 0 0 1 2 3 -8
+p680
+aVBrandon Roy POR 11/28/2007 POR vs. IND L 34 10 4 14 28.6 2 4 50.0 0 2 0.0 3 7 10 8 3 0 4 1 -7
+p681
+aVMartell Webster POR 11/28/2007 POR vs. IND L 36 10 4 12 33.3 2 7 28.6 0 0 - 2 6 8 1 0 0 1 2 -10
+p682
+aVSteve Blake POR 11/26/2007 POR vs. ORL L 31 4 2 9 22.2 0 3 0.0 0 0 - 2 1 3 10 1 0 2 0 1
+p683
+aVSergio Rodriguez POR 11/26/2007 POR vs. ORL L 12 5 2 3 66.7 1 1 100.0 0 2 0.0 0 3 3 1 1 0 0 0 -11
+p684
+aVTravis Outlaw POR 11/26/2007 POR vs. ORL L 28 12 5 13 38.5 0 1 0.0 2 2 100.0 1 5 6 0 0 0 0 4 -3
+p685
+aVBrandon Roy POR 11/26/2007 POR vs. ORL L 39 12 4 18 22.2 1 4 25.0 3 4 75.0 0 2 2 1 1 1 1 0 -11
+p686
+aVJoel Przybilla POR 11/26/2007 POR vs. ORL L 32 6 2 5 40.0 0 0 - 2 4 50.0 4 7 11 1 1 1 0 3 0
+p687
+aVMartell Webster POR 11/26/2007 POR vs. ORL L 39 13 6 12 50.0 1 3 33.3 0 0 - 0 8 8 0 2 2 3 1 3
+p688
+aVChanning Frye POR 11/26/2007 POR vs. ORL L 9 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 4 -9
+p689
+aVLaMarcus Aldridge POR 11/26/2007 POR vs. ORL L 28 16 8 15 53.3 0 0 - 0 0 - 2 3 5 0 1 0 3 5 -10
+p690
+aVJarrett Jack POR 11/26/2007 POR vs. ORL L 22 4 2 5 40.0 0 2 0.0 0 1 0.0 0 0 0 5 0 0 1 0 -15
+p691
+aVJoel Przybilla POR 11/23/2007 POR vs. SAC W 13 4 1 3 33.3 0 0 - 2 2 100.0 3 2 5 1 0 2 4 5 -4
+p692
+aVTravis Outlaw POR 11/23/2007 POR vs. SAC W 28 6 2 6 33.3 0 0 - 2 2 100.0 1 4 5 0 1 3 1 1 5
+p693
+aVMartell Webster POR 11/23/2007 POR vs. SAC W 34 8 2 9 22.2 1 4 25.0 3 5 60.0 1 8 9 1 0 0 2 2 -4
+p694
+aVChanning Frye POR 11/23/2007 POR vs. SAC W 15 4 2 4 50.0 0 0 - 0 1 0.0 0 2 2 1 0 0 2 1 -2
+p695
+aVSergio Rodriguez POR 11/23/2007 POR vs. SAC W 17 4 2 7 28.6 0 3 0.0 0 1 0.0 0 1 1 1 1 0 2 1 -2
+p696
+aVSteve Blake POR 11/23/2007 POR vs. SAC W 26 13 5 9 55.6 3 7 42.9 0 0 - 0 0 0 4 1 0 1 2 0
+p697
+aVJarrett Jack POR 11/23/2007 POR vs. SAC W 29 7 1 5 20.0 0 2 0.0 5 6 83.3 0 0 0 5 1 0 1 2 7
+p698
+aVLaMarcus Aldridge POR 11/23/2007 POR vs. SAC W 43 28 12 15 80.0 0 0 - 4 8 50.0 4 8 12 0 0 3 2 4 9
+p699
+aVBrandon Roy POR 11/23/2007 POR vs. SAC W 36 13 6 15 40.0 1 4 25.0 0 2 0.0 1 3 4 8 3 0 0 2 6
+p700
+aVMartell Webster POR 11/21/2007 POR vs. NJN L 37 15 5 8 62.5 3 6 50.0 2 3 66.7 0 5 5 1 1 0 0 4 -1
+p701
+aVLaMarcus Aldridge POR 11/21/2007 POR vs. NJN L 31 14 4 11 36.4 0 0 - 6 6 100.0 2 6 8 1 1 2 4 5 2
+p702
+aVChanning Frye POR 11/21/2007 POR vs. NJN L 26 15 6 7 85.7 0 0 - 3 3 100.0 0 5 5 3 1 2 2 3 2
+p703
+aVTravis Outlaw POR 11/21/2007 POR vs. NJN L 29 8 4 9 44.4 0 0 - 0 2 0.0 2 2 4 0 1 0 2 3 -5
+p704
+aVSteve Blake POR 11/21/2007 POR vs. NJN L 30 9 4 10 40.0 0 3 0.0 1 2 50.0 1 3 4 6 0 0 0 3 0
+p705
+aVJoel Przybilla POR 11/21/2007 POR vs. NJN L 10 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 2 3 -9
+p706
+aVBrandon Roy POR 11/21/2007 POR vs. NJN L 40 25 9 14 64.3 4 4 100.0 3 4 75.0 0 2 2 6 2 0 2 2 4
+p707
+aVJarrett Jack POR 11/21/2007 POR vs. NJN L 30 13 4 8 50.0 0 0 - 5 7 71.4 1 2 3 5 0 0 1 2 -15
+p708
+aVSergio Rodriguez POR 11/21/2007 POR vs. NJN L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 2 1 -3
+p709
+aVJoel Przybilla POR 11/19/2007 POR @ CHA L 14 4 2 4 50.0 0 0 - 0 1 0.0 1 0 1 0 0 1 1 4 -3
+p710
+aVJarrett Jack POR 11/19/2007 POR @ CHA L 30 18 6 8 75.0 1 1 100.0 5 5 100.0 0 2 2 2 0 0 1 3 -4
+p711
+aVSergio Rodriguez POR 11/19/2007 POR @ CHA L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p712
+aVSteve Blake POR 11/19/2007 POR @ CHA L 33 14 5 8 62.5 4 5 80.0 0 0 - 1 5 6 3 1 0 3 1 -1
+p713
+aVChanning Frye POR 11/19/2007 POR @ CHA L 27 9 4 10 40.0 0 0 - 1 1 100.0 2 6 8 1 1 0 3 4 -1
+p714
+aVJosh McRoberts POR 11/19/2007 POR @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p715
+aVTravis Outlaw POR 11/19/2007 POR @ CHA L 33 8 4 10 40.0 0 1 0.0 0 0 - 2 3 5 1 1 1 2 3 -5
+p716
+aVMartell Webster POR 11/19/2007 POR @ CHA L 36 15 5 15 33.3 3 8 37.5 2 2 100.0 1 5 6 0 0 4 2 2 -10
+p717
+aVBrandon Roy POR 11/19/2007 POR @ CHA L 41 17 4 13 30.8 0 2 0.0 9 10 90.0 1 4 5 5 0 0 3 0 -6
+p718
+aVLaMarcus Aldridge POR 11/19/2007 POR @ CHA L 20 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 1 0 0 3 5 -13
+p719
+aVJoel Przybilla POR 11/17/2007 POR @ WAS L 28 5 2 2 100.0 0 0 - 1 1 100.0 1 6 7 0 0 5 1 3 1
+p720
+aVSergio Rodriguez POR 11/17/2007 POR @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p721
+aVLaMarcus Aldridge POR 11/17/2007 POR @ WAS L 39 18 8 17 47.1 0 0 - 2 3 66.7 4 6 10 2 0 1 2 3 -14
+p722
+aVChanning Frye POR 11/17/2007 POR @ WAS L 14 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -12
+p723
+aVBrandon Roy POR 11/17/2007 POR @ WAS L 33 12 2 8 25.0 1 3 33.3 7 10 70.0 0 5 5 2 0 0 4 2 -18
+p724
+aVJarrett Jack POR 11/17/2007 POR @ WAS L 22 18 5 7 71.4 2 4 50.0 6 7 85.7 0 3 3 5 1 0 2 1 -6
+p725
+aVRaef LaFrentz POR 11/17/2007 POR @ WAS L 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 1 0 1 0 4
+p726
+aVTaurean Green POR 11/17/2007 POR @ WAS L 12 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 1 3 -13
+p727
+aVMartell Webster POR 11/17/2007 POR @ WAS L 30 13 5 12 41.7 1 2 50.0 2 4 50.0 2 3 5 1 1 1 1 2 -18
+p728
+aVSteve Blake POR 11/17/2007 POR @ WAS L 34 7 3 8 37.5 1 4 25.0 0 0 - 1 1 2 5 0 0 2 2 -13
+p729
+aVTravis Outlaw POR 11/17/2007 POR @ WAS L 21 11 3 7 42.9 1 4 25.0 4 6 66.7 0 3 3 1 0 0 1 1 -9
+p730
+aVBrandon Roy POR 11/16/2007 POR @ PHI L 41 25 8 16 50.0 1 3 33.3 8 9 88.9 1 2 3 4 3 0 3 2 -11
+p731
+aVJarrett Jack POR 11/16/2007 POR @ PHI L 26 7 3 9 33.3 1 4 25.0 0 0 - 0 2 2 3 1 0 4 3 -5
+p732
+aVTravis Outlaw POR 11/16/2007 POR @ PHI L 23 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 1 1 1 2 3 -5
+p733
+aVMartell Webster POR 11/16/2007 POR @ PHI L 39 10 3 8 37.5 1 4 25.0 3 4 75.0 0 2 2 1 2 0 0 4 -2
+p734
+aVSergio Rodriguez POR 11/16/2007 POR @ PHI L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 1 0 2 0 6
+p735
+aVChanning Frye POR 11/16/2007 POR @ PHI L 19 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 1 2 0 1 3 5
+p736
+aVSteve Blake POR 11/16/2007 POR @ PHI L 35 6 2 6 33.3 1 3 33.3 1 2 50.0 1 2 3 6 1 0 4 2 -4
+p737
+aVJoel Przybilla POR 11/16/2007 POR @ PHI L 10 2 1 5 20.0 0 0 - 0 0 - 1 6 7 0 0 0 1 0 11
+p738
+aVLaMarcus Aldridge POR 11/16/2007 POR @ PHI L 38 25 10 16 62.5 0 0 - 5 5 100.0 3 3 6 2 1 1 1 2 -15
+p739
+aVTravis Outlaw POR 11/14/2007 POR @ DEN L 21 12 4 8 50.0 0 0 - 4 4 100.0 1 2 3 4 2 0 0 4 -5
+p740
+aVLaMarcus Aldridge POR 11/14/2007 POR @ DEN L 31 15 5 11 45.5 0 0 - 5 9 55.6 3 6 9 0 1 0 3 3 -13
+p741
+aVSergio Rodriguez POR 11/14/2007 POR @ DEN L 16 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 1 2 0 1 2 -4
+p742
+aVBrandon Roy POR 11/14/2007 POR @ DEN L 28 10 3 12 25.0 1 3 33.3 3 4 75.0 4 1 5 5 1 0 1 1 -10
+p743
+aVTaurean Green POR 11/14/2007 POR @ DEN L 7 6 0 2 0.0 0 2 0.0 6 6 100.0 0 1 1 2 0 0 2 0 3
+p744
+aVJoel Przybilla POR 11/14/2007 POR @ DEN L 15 5 2 4 50.0 0 0 - 1 3 33.3 1 3 4 0 0 0 2 2 -8
+p745
+aVSteve Blake POR 11/14/2007 POR @ DEN L 30 0 0 6 0.0 0 4 0.0 0 0 - 0 1 1 4 2 2 2 1 -13
+p746
+aVJarrett Jack POR 11/14/2007 POR @ DEN L 27 13 5 12 41.7 3 6 50.0 0 0 - 3 2 5 2 2 0 4 2 -15
+p747
+aVMartell Webster POR 11/14/2007 POR @ DEN L 32 12 4 10 40.0 0 2 0.0 4 5 80.0 2 4 6 4 1 0 1 5 -10
+p748
+aVChanning Frye POR 11/14/2007 POR @ DEN L 24 8 4 7 57.1 0 0 - 0 2 0.0 0 2 2 0 0 0 1 2 -15
+p749
+aVRaef LaFrentz POR 11/14/2007 POR @ DEN L 9 10 4 5 80.0 0 0 - 2 3 66.7 0 1 1 0 0 1 0 3 5
+p750
+aVJarrett Jack POR 11/13/2007 POR vs. DET W 32 20 7 10 70.0 1 3 33.3 5 6 83.3 0 0 0 4 0 0 2 1 6
+p751
+aVLaMarcus Aldridge POR 11/13/2007 POR vs. DET W 37 22 9 16 56.3 0 0 - 4 6 66.7 2 8 10 0 0 0 2 2 -3
+p752
+aVMartell Webster POR 11/13/2007 POR vs. DET W 36 5 2 8 25.0 1 6 16.7 0 0 - 1 8 9 2 0 0 4 3 4
+p753
+aVBrandon Roy POR 11/13/2007 POR vs. DET W 37 20 9 16 56.3 2 3 66.7 0 0 - 0 3 3 1 1 0 2 1 0
+p754
+aVSergio Rodriguez POR 11/13/2007 POR vs. DET W 15 7 3 6 50.0 1 1 100.0 0 0 - 1 1 2 3 0 0 0 1 10
+p755
+aVSteve Blake POR 11/13/2007 POR vs. DET W 19 1 0 3 0.0 0 1 0.0 1 2 50.0 0 2 2 8 0 0 1 2 5
+p756
+aVJoel Przybilla POR 11/13/2007 POR vs. DET W 23 8 3 3 100.0 0 0 - 2 2 100.0 1 9 10 1 1 1 1 4 16
+p757
+aVChanning Frye POR 11/13/2007 POR vs. DET W 19 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 1 0 0 4 -10
+p758
+aVTravis Outlaw POR 11/13/2007 POR vs. DET W 22 13 4 6 66.7 1 1 100.0 4 6 66.7 1 2 3 2 1 0 1 0 12
+p759
+aVTravis Outlaw POR 11/10/2007 POR vs. DAL W 29 14 5 8 62.5 1 1 100.0 3 5 60.0 2 8 10 4 1 0 3 5 2
+p760
+aVSteve Blake POR 11/10/2007 POR vs. DAL W 39 3 1 6 16.7 1 2 50.0 0 0 - 0 3 3 9 0 0 1 1 13
+p761
+aVLaMarcus Aldridge POR 11/10/2007 POR vs. DAL W 35 18 8 16 50.0 0 1 0.0 2 3 66.7 1 7 8 0 0 0 2 2 5
+p762
+aVSergio Rodriguez POR 11/10/2007 POR vs. DAL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 2 2 2
+p763
+aVJoel Przybilla POR 11/10/2007 POR vs. DAL W 18 7 3 6 50.0 0 0 - 1 3 33.3 2 8 10 0 0 2 4 3 6
+p764
+aVJarrett Jack POR 11/10/2007 POR vs. DAL W 30 9 4 9 44.4 0 1 0.0 1 3 33.3 1 3 4 4 0 0 3 2 5
+p765
+aVChanning Frye POR 11/10/2007 POR vs. DAL W 16 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 0 0 4 5
+p766
+aVMartell Webster POR 11/10/2007 POR vs. DAL W 26 2 0 3 0.0 0 1 0.0 2 4 50.0 0 1 1 1 1 0 0 3 2
+p767
+aVBrandon Roy POR 11/10/2007 POR vs. DAL W 42 32 11 17 64.7 5 6 83.3 5 7 71.4 0 1 1 7 1 0 1 2 5
+p768
+aVBrandon Roy POR 11/09/2007 POR vs. MEM W 40 22 9 19 47.4 0 1 0.0 4 5 80.0 1 3 4 8 2 0 0 3 14
+p769
+aVSteve Blake POR 11/09/2007 POR vs. MEM W 36 7 3 6 50.0 1 2 50.0 0 0 - 1 3 4 8 0 0 1 2 15
+p770
+aVJarrett Jack POR 11/09/2007 POR vs. MEM W 26 21 7 11 63.6 2 3 66.7 5 6 83.3 0 5 5 4 2 0 1 4 6
+p771
+aVChanning Frye POR 11/09/2007 POR vs. MEM W 19 6 3 5 60.0 0 0 - 0 0 - 0 4 4 0 0 2 1 3 6
+p772
+aVMartell Webster POR 11/09/2007 POR vs. MEM W 36 17 5 10 50.0 3 6 50.0 4 4 100.0 0 5 5 1 0 2 1 2 13
+p773
+aVLaMarcus Aldridge POR 11/09/2007 POR vs. MEM W 40 30 12 20 60.0 0 0 - 6 7 85.7 1 9 10 2 3 3 2 4 10
+p774
+aVTravis Outlaw POR 11/09/2007 POR vs. MEM W 21 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 0 1 0 3 4 8
+p775
+aVSergio Rodriguez POR 11/09/2007 POR vs. MEM W 6 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 1 -6
+p776
+aVJoel Przybilla POR 11/09/2007 POR vs. MEM W 16 0 0 2 0.0 0 0 - 0 0 - 3 3 6 0 0 2 3 2 -6
+p777
+aVBrandon Roy POR 11/07/2007 POR vs. NOH W 39 17 8 18 44.4 1 2 50.0 0 1 0.0 2 3 5 7 0 1 1 1 -5
+p778
+aVLaMarcus Aldridge POR 11/07/2007 POR vs. NOH W 22 12 5 11 45.5 0 0 - 2 2 100.0 3 5 8 1 0 0 1 5 3
+p779
+aVJarrett Jack POR 11/07/2007 POR vs. NOH W 25 20 5 9 55.6 0 1 0.0 10 12 83.3 2 2 4 1 1 0 3 2 2
+p780
+aVMartell Webster POR 11/07/2007 POR vs. NOH W 40 20 8 14 57.1 3 8 37.5 1 1 100.0 0 4 4 2 2 0 3 1 7
+p781
+aVSteve Blake POR 11/07/2007 POR vs. NOH W 33 5 2 7 28.6 1 2 50.0 0 1 0.0 0 1 1 9 0 0 0 2 2
+p782
+aVRaef LaFrentz POR 11/07/2007 POR vs. NOH W 7 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 0 1 -10
+p783
+aVTravis Outlaw POR 11/07/2007 POR vs. NOH W 19 2 1 7 14.3 0 0 - 0 0 - 0 1 1 0 2 0 1 2 11
+p784
+aVSergio Rodriguez POR 11/07/2007 POR vs. NOH W 13 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 1 1 0 2 0 0
+p785
+aVJoel Przybilla POR 11/07/2007 POR vs. NOH W 21 9 2 5 40.0 0 0 - 5 7 71.4 3 8 11 1 0 0 0 4 1
+p786
+aVChanning Frye POR 11/07/2007 POR vs. NOH W 21 8 4 8 50.0 0 0 - 0 0 - 0 7 7 1 1 0 0 4 4
+p787
+aVMartell Webster POR 11/03/2007 POR @ HOU L 35 15 5 13 38.5 2 5 40.0 3 4 75.0 1 7 8 0 2 1 4 3 -2
+p788
+aVChanning Frye POR 11/03/2007 POR @ HOU L 17 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 7
+p789
+aVJames Jones POR 11/03/2007 POR @ HOU L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 2 -7
+p790
+aVJoel Przybilla POR 11/03/2007 POR @ HOU L 20 6 2 4 50.0 0 1 0.0 2 2 100.0 2 6 8 0 0 1 2 2 -20
+p791
+aVSteve Blake POR 11/03/2007 POR @ HOU L 26 6 3 3 100.0 0 0 - 0 0 - 0 5 5 3 0 0 1 1 -6
+p792
+aVJarrett Jack POR 11/03/2007 POR @ HOU L 26 2 1 5 20.0 0 0 - 0 0 - 0 4 4 2 0 0 3 1 -5
+p793
+aVBrandon Roy POR 11/03/2007 POR @ HOU L 42 23 9 18 50.0 0 3 0.0 5 5 100.0 0 2 2 5 0 1 0 1 2
+p794
+aVTravis Outlaw POR 11/03/2007 POR @ HOU L 26 4 2 7 28.6 0 0 - 0 0 - 0 3 3 0 0 0 1 2 -8
+p795
+aVLaMarcus Aldridge POR 11/03/2007 POR @ HOU L 34 20 7 16 43.8 0 0 - 6 6 100.0 5 3 8 1 0 2 4 5 3
+p796
+aVTaurean Green POR 11/03/2007 POR @ HOU L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -9
+p797
+aVTaurean Green POR 11/02/2007 POR @ NOH L 2 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 9
+p798
+aVMartell Webster POR 11/02/2007 POR @ NOH L 32 13 4 10 40.0 1 3 33.3 4 4 100.0 1 1 2 4 0 0 1 1 -24
+p799
+aVJoel Przybilla POR 11/02/2007 POR @ NOH L 15 2 1 5 20.0 0 0 - 0 0 - 1 3 4 0 0 1 2 5 -16
+p800
+aVJames Jones POR 11/02/2007 POR @ NOH L 16 14 6 7 85.7 2 3 66.7 0 0 - 0 0 0 0 1 0 0 1 4
+p801
+aVSteve Blake POR 11/02/2007 POR @ NOH L 28 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 1 -3
+p802
+aVSergio Rodriguez POR 11/02/2007 POR @ NOH L 12 8 3 5 60.0 1 2 50.0 1 2 50.0 1 1 2 2 0 0 1 1 4
+p803
+aVRaef LaFrentz POR 11/02/2007 POR @ NOH L 2 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 9
+p804
+aVLaMarcus Aldridge POR 11/02/2007 POR @ NOH L 34 8 4 12 33.3 0 0 - 0 2 0.0 4 5 9 0 0 0 1 2 -35
+p805
+aVChanning Frye POR 11/02/2007 POR @ NOH L 20 6 3 7 42.9 0 0 - 0 0 - 1 4 5 3 0 0 0 4 10
+p806
+aVBrandon Roy POR 11/02/2007 POR @ NOH L 33 23 10 15 66.7 1 1 100.0 2 2 100.0 0 1 1 3 1 0 4 1 -33
+p807
+aVTravis Outlaw POR 11/02/2007 POR @ NOH L 24 8 4 10 40.0 0 2 0.0 0 0 - 1 2 3 3 0 0 0 1 -8
+p808
+aVJarrett Jack POR 11/02/2007 POR @ NOH L 20 0 0 4 0.0 0 0 - 0 0 - 0 2 2 5 1 0 4 1 -17
+p809
+aVJarrett Jack POR 10/30/2007 POR @ SAS L 28 5 2 6 33.3 1 1 100.0 0 0 - 1 2 3 1 0 0 2 1 3
+p810
+aVMartell Webster POR 10/30/2007 POR @ SAS L 39 21 9 15 60.0 3 6 50.0 0 0 - 1 2 3 1 0 1 0 2 -8
+p811
+aVChanning Frye POR 10/30/2007 POR @ SAS L 9 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -11
+p812
+aVTravis Outlaw POR 10/30/2007 POR @ SAS L 20 11 4 10 40.0 0 0 - 3 4 75.0 0 5 5 2 0 0 2 2 -3
+p813
+aVBrandon Roy POR 10/30/2007 POR @ SAS L 38 7 2 10 20.0 1 2 50.0 2 4 50.0 2 3 5 6 0 0 4 2 -8
+p814
+aVSteve Blake POR 10/30/2007 POR @ SAS L 25 9 4 7 57.1 1 3 33.3 0 0 - 0 6 6 4 0 0 3 4 -10
+p815
+aVJames Jones POR 10/30/2007 POR @ SAS L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -4
+p816
+aVSergio Rodriguez POR 10/30/2007 POR @ SAS L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p817
+aVJoel Przybilla POR 10/30/2007 POR @ SAS L 31 13 4 5 80.0 0 0 - 5 6 83.3 1 9 10 1 0 1 2 3 -3
+p818
+aVLaMarcus Aldridge POR 10/30/2007 POR @ SAS L 36 27 12 19 63.2 0 0 - 3 3 100.0 1 2 3 0 1 2 1 3 0
+p819
+a.

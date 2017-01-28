@@ -1,0 +1,1642 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVOleksiy Pecherov WAS 04/15/2009 WAS @ BOS L 29 7 3 10 30.0 0 4 0.0 1 2 50.0 2 8 10 0 0 0 0 5 -3
+p2
+aVCaron Butler WAS 04/15/2009 WAS @ BOS L 41 39 13 20 65.0 4 8 50.0 9 10 90.0 1 6 7 4 2 1 3 5 -11
+p3
+aVJaVale McGee WAS 04/15/2009 WAS @ BOS L 29 17 7 11 63.6 0 0 - 3 5 60.0 1 1 2 1 1 4 2 4 -14
+p4
+aVNick Young WAS 04/15/2009 WAS @ BOS L 26 17 4 10 40.0 3 6 50.0 6 6 100.0 1 0 1 0 1 0 1 0 -4
+p5
+aVJavaris Crittenton WAS 04/15/2009 WAS @ BOS L 24 8 3 8 37.5 0 0 - 2 3 66.7 1 1 2 4 1 0 0 2 12
+p6
+aVDominic McGuire WAS 04/15/2009 WAS @ BOS L 40 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 1 0 2 3 3 -1
+p7
+aVDarius Songaila WAS 04/15/2009 WAS @ BOS L 26 10 5 8 62.5 0 1 0.0 0 0 - 2 6 8 3 2 1 1 4 1
+p8
+aVJuan Dixon WAS 04/15/2009 WAS @ BOS L 24 3 1 6 16.7 0 1 0.0 1 2 50.0 0 1 1 2 2 0 4 3 -20
+p9
+aVDominic McGuire WAS 04/13/2009 WAS vs. TOR L 32 4 1 5 20.0 0 0 - 2 2 100.0 1 8 9 3 1 1 3 1 1
+p10
+aVJuan Dixon WAS 04/13/2009 WAS vs. TOR L 31 6 3 9 33.3 0 4 0.0 0 0 - 0 2 2 7 1 0 5 3 3
+p11
+aVBrendan Haywood WAS 04/13/2009 WAS vs. TOR L 30 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 2 4 3 3 -19
+p12
+aVAntawn Jamison WAS 04/13/2009 WAS vs. TOR L 31 23 10 18 55.6 1 6 16.7 2 2 100.0 3 4 7 2 1 0 2 4 5
+p13
+aVDarius Songaila WAS 04/13/2009 WAS vs. TOR L 20 8 2 5 40.0 0 0 - 4 4 100.0 2 4 6 0 0 1 0 4 0
+p14
+aVJaVale McGee WAS 04/13/2009 WAS vs. TOR L 15 10 4 6 66.7 0 0 - 2 3 66.7 3 4 7 0 1 2 1 1 11
+p15
+aVCaron Butler WAS 04/13/2009 WAS vs. TOR L 38 28 9 17 52.9 2 4 50.0 8 11 72.7 4 6 10 2 3 0 4 1 -5
+p16
+aVNick Young WAS 04/13/2009 WAS vs. TOR L 26 6 3 11 27.3 0 1 0.0 0 0 - 0 2 2 1 0 2 2 0 3
+p17
+aVJavaris Crittenton WAS 04/13/2009 WAS vs. TOR L 17 6 3 4 75.0 0 0 - 0 0 - 0 2 2 2 1 2 4 0 -4
+p18
+aVCaron Butler WAS 04/10/2009 WAS @ TOR W 43 21 10 19 52.6 0 2 0.0 1 1 100.0 1 4 5 7 0 0 3 2 0
+p19
+aVJavaris Crittenton WAS 04/10/2009 WAS @ TOR W 24 6 3 6 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 2 0 3
+p20
+aVJuan Dixon WAS 04/10/2009 WAS @ TOR W 24 8 4 7 57.1 0 0 - 0 0 - 0 2 2 2 1 0 4 4 -1
+p21
+aVBrendan Haywood WAS 04/10/2009 WAS @ TOR W 33 15 6 11 54.5 0 0 - 3 6 50.0 2 7 9 3 1 5 1 2 7
+p22
+aVDominic McGuire WAS 04/10/2009 WAS @ TOR W 37 8 3 7 42.9 0 0 - 2 2 100.0 1 10 11 5 2 3 2 1 0
+p23
+aVAntawn Jamison WAS 04/10/2009 WAS @ TOR W 37 24 9 20 45.0 3 6 50.0 3 6 50.0 3 9 12 2 0 0 1 1 0
+p24
+aVAndray Blatche WAS 04/10/2009 WAS @ TOR W 11 5 2 4 50.0 0 0 - 1 2 50.0 0 2 2 1 0 1 2 1 2
+p25
+aVNick Young WAS 04/10/2009 WAS @ TOR W 16 9 3 4 75.0 0 0 - 3 3 100.0 0 1 1 0 0 0 0 1 4
+p26
+aVDarius Songaila WAS 04/10/2009 WAS @ TOR W 16 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 2 1 3 -5
+p27
+aVAndray Blatche WAS 04/08/2009 WAS @ CLE L 27 14 6 9 66.7 0 0 - 2 4 50.0 2 4 6 1 1 1 1 0 11
+p28
+aVOleksiy Pecherov WAS 04/08/2009 WAS @ CLE L 8 2 0 4 0.0 0 1 0.0 2 2 100.0 2 3 5 0 0 0 0 0 4
+p29
+aVDarius Songaila WAS 04/08/2009 WAS @ CLE L 10 7 3 4 75.0 0 0 - 1 1 100.0 2 1 3 0 0 0 0 2 -2
+p30
+aVJavaris Crittenton WAS 04/08/2009 WAS @ CLE L 30 11 4 10 40.0 1 1 100.0 2 3 66.7 3 1 4 2 1 0 1 4 -14
+p31
+aVDominic McGuire WAS 04/08/2009 WAS @ CLE L 18 2 1 3 33.3 0 0 - 0 0 - 0 2 2 4 0 0 1 0 -15
+p32
+aVBrendan Haywood WAS 04/08/2009 WAS @ CLE L 22 6 3 8 37.5 0 0 - 0 0 - 0 7 7 0 0 2 2 3 -24
+p33
+aVCaron Butler WAS 04/08/2009 WAS @ CLE L 31 10 2 9 22.2 0 1 0.0 6 7 85.7 0 3 3 2 1 0 4 1 -17
+p34
+aVJaVale McGee WAS 04/08/2009 WAS @ CLE L 14 6 1 2 50.0 0 0 - 4 4 100.0 0 0 0 0 1 2 1 3 9
+p35
+aVAntawn Jamison WAS 04/08/2009 WAS @ CLE L 28 7 2 4 50.0 0 0 - 3 6 50.0 1 5 6 1 1 0 3 2 -21
+p36
+aVNick Young WAS 04/08/2009 WAS @ CLE L 34 16 7 16 43.8 2 5 40.0 0 0 - 0 2 2 2 0 1 0 4 7
+p37
+aVJuan Dixon WAS 04/08/2009 WAS @ CLE L 18 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 2 1 0 0 0 2
+p38
+aVOleksiy Pecherov WAS 04/04/2009 WAS vs. MIA L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p39
+aVBrendan Haywood WAS 04/04/2009 WAS vs. MIA L 35 18 7 12 58.3 0 0 - 4 9 44.4 5 7 12 4 0 1 1 2 -18
+p40
+aVCaron Butler WAS 04/04/2009 WAS vs. MIA L 39 27 10 16 62.5 2 3 66.7 5 7 71.4 0 2 2 3 2 0 2 3 -5
+p41
+aVAndray Blatche WAS 04/04/2009 WAS vs. MIA L 14 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 4
+p42
+aVDominic McGuire WAS 04/04/2009 WAS vs. MIA L 38 6 2 6 33.3 0 0 - 2 3 66.7 2 7 9 4 1 0 3 3 -6
+p43
+aVAntawn Jamison WAS 04/04/2009 WAS vs. MIA L 37 23 8 15 53.3 1 4 25.0 6 11 54.5 1 6 7 1 1 0 0 3 -6
+p44
+aVJuan Dixon WAS 04/04/2009 WAS vs. MIA L 20 5 1 5 20.0 0 2 0.0 3 3 100.0 0 0 0 3 1 0 1 1 -19
+p45
+aVDarius Songaila WAS 04/04/2009 WAS vs. MIA L 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 1 0 0 1 4 -13
+p46
+aVJavaris Crittenton WAS 04/04/2009 WAS vs. MIA L 38 9 3 6 50.0 0 1 0.0 3 3 100.0 0 3 3 8 1 0 3 3 -8
+p47
+aVNick Young WAS 04/04/2009 WAS vs. MIA L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p48
+aVJaVale McGee WAS 04/04/2009 WAS vs. MIA L 5 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 1 0 2 2 1
+p49
+aVNick Young WAS 04/02/2009 WAS vs. CLE W 26 10 5 9 55.6 0 3 0.0 0 0 - 0 0 0 1 1 0 1 0 3
+p50
+aVGilbert Arenas WAS 04/02/2009 WAS vs. CLE W 33 11 3 11 27.3 0 2 0.0 5 8 62.5 0 6 6 10 0 1 0 2 5
+p51
+aVAntawn Jamison WAS 04/02/2009 WAS vs. CLE W 32 19 9 19 47.4 1 2 50.0 0 0 - 2 3 5 3 1 0 1 1 3
+p52
+aVDarius Songaila WAS 04/02/2009 WAS vs. CLE W 24 17 6 8 75.0 0 0 - 5 6 83.3 2 4 6 0 1 1 0 3 1
+p53
+aVCaron Butler WAS 04/02/2009 WAS vs. CLE W 40 25 7 16 43.8 0 3 0.0 11 11 100.0 1 1 2 4 1 0 1 2 13
+p54
+aVJaVale McGee WAS 04/02/2009 WAS vs. CLE W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 2 -1
+p55
+aVBrendan Haywood WAS 04/02/2009 WAS vs. CLE W 32 12 5 9 55.6 0 0 - 2 2 100.0 4 6 10 1 0 0 0 1 13
+p56
+aVAndray Blatche WAS 04/02/2009 WAS vs. CLE W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 3 0 0 2 4 -4
+p57
+aVDominic McGuire WAS 04/02/2009 WAS vs. CLE W 35 7 3 4 75.0 0 0 - 1 1 100.0 1 9 10 5 0 0 2 2 7
+p58
+aVBrendan Haywood WAS 04/01/2009 WAS @ MEM L 24 2 1 6 16.7 0 0 - 0 2 0.0 1 1 2 0 1 3 2 3 13
+p59
+aVJavaris Crittenton WAS 04/01/2009 WAS @ MEM L 43 13 6 11 54.5 0 0 - 1 1 100.0 3 8 11 2 0 0 2 4 -5
+p60
+aVNick Young WAS 04/01/2009 WAS @ MEM L 28 16 6 10 60.0 2 4 50.0 2 2 100.0 1 1 2 2 1 0 1 4 11
+p61
+aVAndray Blatche WAS 04/01/2009 WAS @ MEM L 27 11 5 12 41.7 0 0 - 1 2 50.0 4 5 9 2 2 1 2 4 0
+p62
+aVJaVale McGee WAS 04/01/2009 WAS @ MEM L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -4
+p63
+aVCaron Butler WAS 04/01/2009 WAS @ MEM L 41 31 11 19 57.9 2 4 50.0 7 7 100.0 0 3 3 4 3 1 4 4 -15
+p64
+aVDarius Songaila WAS 04/01/2009 WAS @ MEM L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p65
+aVAntawn Jamison WAS 04/01/2009 WAS @ MEM L 42 28 8 20 40.0 1 6 16.7 11 11 100.0 3 7 10 2 0 0 3 2 -1
+p66
+aVDominic McGuire WAS 04/01/2009 WAS @ MEM L 24 4 2 3 66.7 0 0 - 0 0 - 1 1 2 3 2 1 1 0 -14
+p67
+aVAndray Blatche WAS 03/29/2009 WAS @ IND L 24 12 3 10 30.0 0 0 - 6 7 85.7 0 3 3 1 0 1 0 1 -21
+p68
+aVAntawn Jamison WAS 03/29/2009 WAS @ IND L 38 29 10 20 50.0 3 5 60.0 6 6 100.0 2 4 6 0 0 1 1 4 1
+p69
+aVCaron Butler WAS 03/29/2009 WAS @ IND L 41 31 8 20 40.0 2 5 40.0 13 15 86.7 8 5 13 3 2 0 1 2 -1
+p70
+aVJavaris Crittenton WAS 03/29/2009 WAS @ IND L 43 19 8 14 57.1 1 3 33.3 2 5 40.0 1 3 4 3 0 1 1 2 -11
+p71
+aVOleksiy Pecherov WAS 03/29/2009 WAS @ IND L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -9
+p72
+aVDominic McGuire WAS 03/29/2009 WAS @ IND L 38 6 1 3 33.3 0 0 - 4 6 66.7 1 7 8 1 2 0 1 0 -10
+p73
+aVNick Young WAS 03/29/2009 WAS @ IND L 30 9 4 9 44.4 0 1 0.0 1 2 50.0 1 1 2 1 3 1 3 3 3
+p74
+aVJaVale McGee WAS 03/29/2009 WAS @ IND L 20 6 1 7 14.3 0 0 - 4 4 100.0 1 6 7 1 1 0 0 2 3
+p75
+aVJavaris Crittenton WAS 03/28/2009 WAS vs. DET L 19 4 2 7 28.6 0 0 - 0 0 - 1 4 5 7 2 1 2 1 1
+p76
+aVJaVale McGee WAS 03/28/2009 WAS vs. DET L 17 8 3 3 100.0 0 0 - 2 3 66.7 1 0 1 0 0 1 2 2 1
+p77
+aVDominic McGuire WAS 03/28/2009 WAS vs. DET L 40 9 4 9 44.4 0 0 - 1 1 100.0 3 5 8 2 3 2 1 4 -3
+p78
+aVNick Young WAS 03/28/2009 WAS vs. DET L 24 13 4 7 57.1 0 2 0.0 5 5 100.0 0 2 2 3 2 1 1 3 3
+p79
+aVGilbert Arenas WAS 03/28/2009 WAS vs. DET L 29 15 3 12 25.0 2 5 40.0 7 8 87.5 1 2 3 10 0 0 1 2 -3
+p80
+aVCaron Butler WAS 03/28/2009 WAS vs. DET L 35 11 4 13 30.8 0 2 0.0 3 5 60.0 1 9 10 2 2 0 2 2 -1
+p81
+aVAndray Blatche WAS 03/28/2009 WAS vs. DET L 34 15 6 13 46.2 0 0 - 3 4 75.0 0 4 4 0 0 1 1 0 -7
+p82
+aVAntawn Jamison WAS 03/28/2009 WAS vs. DET L 42 21 9 15 60.0 3 5 60.0 0 0 - 1 4 5 0 2 0 1 4 -1
+p83
+aVJaVale McGee WAS 03/25/2009 WAS vs. CHA W 17 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 1 2 0 2 1 -8
+p84
+aVAndray Blatche WAS 03/25/2009 WAS vs. CHA W 39 15 6 15 40.0 0 0 - 3 3 100.0 4 3 7 2 1 2 3 4 7
+p85
+aVAntawn Jamison WAS 03/25/2009 WAS vs. CHA W 37 27 11 22 50.0 2 6 33.3 3 6 50.0 2 6 8 3 1 2 1 4 11
+p86
+aVDominic McGuire WAS 03/25/2009 WAS vs. CHA W 44 4 1 6 16.7 0 0 - 2 2 100.0 1 5 6 3 1 1 4 6 3
+p87
+aVJavaris Crittenton WAS 03/25/2009 WAS vs. CHA W 32 8 4 9 44.4 0 0 - 0 0 - 1 0 1 2 1 0 5 2 -12
+p88
+aVMike James WAS 03/25/2009 WAS vs. CHA W 41 15 6 13 46.2 3 5 60.0 0 0 - 0 4 4 5 3 0 3 3 17
+p89
+aVNick Young WAS 03/25/2009 WAS vs. CHA W 25 23 10 15 66.7 1 2 50.0 2 2 100.0 0 2 2 2 1 1 1 3 0
+p90
+aVOleksiy Pecherov WAS 03/25/2009 WAS vs. CHA W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -8
+p91
+aVAndray Blatche WAS 03/23/2009 WAS vs. CHI L 31 15 7 15 46.7 0 0 - 1 4 25.0 6 7 13 1 0 1 2 3 -7
+p92
+aVJavaris Crittenton WAS 03/23/2009 WAS vs. CHI L 27 18 8 12 66.7 0 2 0.0 2 4 50.0 1 6 7 5 0 0 0 2 0
+p93
+aVOleksiy Pecherov WAS 03/23/2009 WAS vs. CHI L 11 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 0 0
+p94
+aVJuan Dixon WAS 03/23/2009 WAS vs. CHI L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 1 3
+p95
+aVJaVale McGee WAS 03/23/2009 WAS vs. CHI L 20 4 1 7 14.3 0 0 - 2 2 100.0 1 0 1 1 0 0 0 1 4
+p96
+aVNick Young WAS 03/23/2009 WAS vs. CHI L 28 10 2 12 16.7 2 5 40.0 4 4 100.0 1 2 3 2 0 0 0 5 -11
+p97
+aVAntawn Jamison WAS 03/23/2009 WAS vs. CHI L 38 34 12 27 44.4 3 10 30.0 7 7 100.0 1 11 12 0 2 0 1 4 1
+p98
+aVDominic McGuire WAS 03/23/2009 WAS vs. CHI L 41 0 0 3 0.0 0 0 - 0 0 - 2 5 7 7 0 1 1 2 -4
+p99
+aVMike James WAS 03/23/2009 WAS vs. CHI L 35 11 3 9 33.3 3 7 42.9 2 2 100.0 0 3 3 3 0 0 1 1 4
+p100
+aVAntawn Jamison WAS 03/21/2009 WAS @ PHX L 39 25 11 23 47.8 1 4 25.0 2 3 66.7 4 4 8 2 0 1 0 3 -14
+p101
+aVDarius Songaila WAS 03/21/2009 WAS @ PHX L 27 12 5 12 41.7 0 0 - 2 2 100.0 1 5 6 3 1 0 2 4 5
+p102
+aVNick Young WAS 03/21/2009 WAS @ PHX L 29 11 3 11 27.3 0 4 0.0 5 6 83.3 0 2 2 1 1 0 2 3 -16
+p103
+aVAndray Blatche WAS 03/21/2009 WAS @ PHX L 32 14 6 15 40.0 0 0 - 2 2 100.0 3 6 9 2 1 0 1 2 -36
+p104
+aVOleksiy Pecherov WAS 03/21/2009 WAS @ PHX L 17 5 2 7 28.6 1 3 33.3 0 0 - 4 4 8 1 0 0 1 1 -15
+p105
+aVJaVale McGee WAS 03/21/2009 WAS @ PHX L 18 16 6 9 66.7 0 0 - 4 7 57.1 4 0 4 0 1 2 2 1 -16
+p106
+aVJavaris Crittenton WAS 03/21/2009 WAS @ PHX L 28 4 2 7 28.6 0 2 0.0 0 0 - 1 3 4 2 0 0 0 2 -13
+p107
+aVMike James WAS 03/21/2009 WAS @ PHX L 28 9 3 7 42.9 0 2 0.0 3 3 100.0 0 3 3 1 0 0 2 1 -24
+p108
+aVDominic McGuire WAS 03/21/2009 WAS @ PHX L 23 0 0 4 0.0 0 0 - 0 0 - 1 4 5 2 1 0 1 0 -31
+p109
+aVJavaris Crittenton WAS 03/20/2009 WAS @ DEN L 23 3 1 5 20.0 0 0 - 1 2 50.0 2 1 3 3 2 0 2 3 -3
+p110
+aVAntawn Jamison WAS 03/20/2009 WAS @ DEN L 30 27 10 19 52.6 2 5 40.0 5 7 71.4 1 6 7 1 1 0 4 4 -11
+p111
+aVDominic McGuire WAS 03/20/2009 WAS @ DEN L 33 9 4 8 50.0 0 0 - 1 1 100.0 1 4 5 3 1 1 1 2 -7
+p112
+aVAndray Blatche WAS 03/20/2009 WAS @ DEN L 24 10 4 8 50.0 0 0 - 2 4 50.0 1 1 2 2 2 2 4 6 -5
+p113
+aVJaVale McGee WAS 03/20/2009 WAS @ DEN L 24 13 4 8 50.0 0 0 - 5 10 50.0 6 5 11 1 1 0 3 3 1
+p114
+aVMike James WAS 03/20/2009 WAS @ DEN L 28 8 3 8 37.5 0 1 0.0 2 2 100.0 1 3 4 9 1 0 2 1 -7
+p115
+aVNick Young WAS 03/20/2009 WAS @ DEN L 36 20 7 13 53.8 2 4 50.0 4 5 80.0 0 3 3 1 1 0 4 2 -12
+p116
+aVDarius Songaila WAS 03/20/2009 WAS @ DEN L 26 5 2 7 28.6 0 0 - 1 1 100.0 1 4 5 1 1 2 1 3 -12
+p117
+aVOleksiy Pecherov WAS 03/20/2009 WAS @ DEN L 17 10 2 5 40.0 0 0 - 6 6 100.0 5 1 6 1 2 0 2 2 1
+p118
+aVNick Young WAS 03/18/2009 WAS @ LAC L 31 18 7 11 63.6 1 2 50.0 3 4 75.0 0 0 0 2 1 0 0 2 -31
+p119
+aVDarius Songaila WAS 03/18/2009 WAS @ LAC L 28 14 7 14 50.0 0 0 - 0 0 - 2 4 6 3 5 0 2 3 -1
+p120
+aVOleksiy Pecherov WAS 03/18/2009 WAS @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p121
+aVAntawn Jamison WAS 03/18/2009 WAS @ LAC L 41 24 10 24 41.7 0 3 0.0 4 7 57.1 5 6 11 7 1 0 1 3 -16
+p122
+aVAndray Blatche WAS 03/18/2009 WAS @ LAC L 27 14 5 9 55.6 0 0 - 4 5 80.0 1 3 4 2 0 2 2 4 -19
+p123
+aVJaVale McGee WAS 03/18/2009 WAS @ LAC L 20 13 6 9 66.7 0 0 - 1 3 33.3 3 1 4 2 0 2 0 1 7
+p124
+aVMike James WAS 03/18/2009 WAS @ LAC L 37 13 5 12 41.7 1 5 20.0 2 2 100.0 1 1 2 5 2 0 3 1 -16
+p125
+aVJuan Dixon WAS 03/18/2009 WAS @ LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 5
+p126
+aVDominic McGuire WAS 03/18/2009 WAS @ LAC L 29 8 4 6 66.7 0 0 - 0 0 - 1 4 5 5 1 0 1 2 20
+p127
+aVJavaris Crittenton WAS 03/18/2009 WAS @ LAC L 23 4 2 2 100.0 0 0 - 0 1 0.0 0 3 3 0 1 0 1 2 -21
+p128
+aVDarius Songaila WAS 03/17/2009 WAS @ UTA L 22 10 5 8 62.5 0 0 - 0 0 - 2 5 7 3 1 1 1 1 -4
+p129
+aVNick Young WAS 03/17/2009 WAS @ UTA L 29 14 4 10 40.0 0 2 0.0 6 7 85.7 0 1 1 1 3 0 0 2 -1
+p130
+aVJaVale McGee WAS 03/17/2009 WAS @ UTA L 22 7 2 9 22.2 0 0 - 3 5 60.0 4 4 8 1 0 0 2 4 -9
+p131
+aVJuan Dixon WAS 03/17/2009 WAS @ UTA L 27 14 5 13 38.5 0 2 0.0 4 4 100.0 0 1 1 2 2 1 2 3 -9
+p132
+aVAntawn Jamison WAS 03/17/2009 WAS @ UTA L 35 13 4 15 26.7 1 3 33.3 4 4 100.0 2 8 10 1 0 0 0 2 -17
+p133
+aVDominic McGuire WAS 03/17/2009 WAS @ UTA L 24 2 1 6 16.7 0 0 - 0 0 - 2 1 3 1 2 0 2 3 -12
+p134
+aVOleksiy Pecherov WAS 03/17/2009 WAS @ UTA L 18 13 4 7 57.1 2 3 66.7 3 4 75.0 1 1 2 0 0 1 1 1 4
+p135
+aVJavaris Crittenton WAS 03/17/2009 WAS @ UTA L 21 4 2 5 40.0 0 0 - 0 1 0.0 2 0 2 1 3 0 5 1 2
+p136
+aVAndray Blatche WAS 03/17/2009 WAS @ UTA L 19 9 4 11 36.4 0 0 - 1 2 50.0 4 9 13 0 1 0 2 4 -18
+p137
+aVMike James WAS 03/17/2009 WAS @ UTA L 21 2 0 3 0.0 0 0 - 2 2 100.0 0 2 2 2 0 0 3 2 -11
+p138
+aVDarius Songaila WAS 03/15/2009 WAS vs. SAC W 26 15 4 10 40.0 0 0 - 7 7 100.0 1 2 3 2 2 0 1 3 1
+p139
+aVMike James WAS 03/15/2009 WAS vs. SAC W 31 8 3 4 75.0 1 1 100.0 1 2 50.0 0 3 3 3 0 1 2 0 -6
+p140
+aVJaVale McGee WAS 03/15/2009 WAS vs. SAC W 13 9 3 7 42.9 0 0 - 3 3 100.0 2 3 5 1 2 0 0 5 0
+p141
+aVJavaris Crittenton WAS 03/15/2009 WAS vs. SAC W 14 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 1 0 2 2 0
+p142
+aVAntawn Jamison WAS 03/15/2009 WAS vs. SAC W 41 30 8 21 38.1 2 4 50.0 12 13 92.3 3 6 9 3 2 1 1 2 -4
+p143
+aVAndray Blatche WAS 03/15/2009 WAS vs. SAC W 34 16 8 12 66.7 0 0 - 0 0 - 1 5 6 1 1 3 2 5 11
+p144
+aVNick Young WAS 03/15/2009 WAS vs. SAC W 24 12 5 10 50.0 2 2 100.0 0 0 - 0 1 1 2 0 0 3 2 6
+p145
+aVJuan Dixon WAS 03/15/2009 WAS vs. SAC W 18 9 3 5 60.0 2 4 50.0 1 1 100.0 0 1 1 2 2 0 1 0 7
+p146
+aVDominic McGuire WAS 03/15/2009 WAS vs. SAC W 39 5 2 6 33.3 0 0 - 1 2 50.0 0 8 8 8 0 3 1 5 -5
+p147
+aVDarius Songaila WAS 03/13/2009 WAS vs. ORL L 19 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 2 1 2 3 2
+p148
+aVCaron Butler WAS 03/13/2009 WAS vs. ORL L 19 5 1 7 14.3 0 0 - 3 4 75.0 0 1 1 2 1 0 0 0 -10
+p149
+aVJavaris Crittenton WAS 03/13/2009 WAS vs. ORL L 29 10 4 11 36.4 0 1 0.0 2 4 50.0 2 3 5 7 0 0 3 1 -1
+p150
+aVOleksiy Pecherov WAS 03/13/2009 WAS vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p151
+aVDominic McGuire WAS 03/13/2009 WAS vs. ORL L 43 10 3 8 37.5 0 0 - 4 4 100.0 2 5 7 2 2 1 1 2 -7
+p152
+aVJaVale McGee WAS 03/13/2009 WAS vs. ORL L 20 6 3 4 75.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -10
+p153
+aVAntawn Jamison WAS 03/13/2009 WAS vs. ORL L 40 36 13 22 59.1 4 5 80.0 6 6 100.0 2 4 6 2 0 0 2 3 -11
+p154
+aVAndray Blatche WAS 03/13/2009 WAS vs. ORL L 15 9 4 5 80.0 0 0 - 1 1 100.0 0 2 2 1 0 1 0 3 5
+p155
+aVNick Young WAS 03/13/2009 WAS vs. ORL L 34 20 8 15 53.3 1 2 50.0 3 3 100.0 0 5 5 4 0 0 1 5 -2
+p156
+aVMike James WAS 03/13/2009 WAS vs. ORL L 20 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 2 1 0 1 2 -13
+p157
+aVJuan Dixon WAS 03/11/2009 WAS vs. NOH L 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p158
+aVAntawn Jamison WAS 03/11/2009 WAS vs. NOH L 45 25 11 21 52.4 2 7 28.6 1 2 50.0 2 8 10 2 3 0 0 2 -10
+p159
+aVMike James WAS 03/11/2009 WAS vs. NOH L 29 14 5 10 50.0 4 5 80.0 0 0 - 0 1 1 3 1 0 1 4 6
+p160
+aVJaVale McGee WAS 03/11/2009 WAS vs. NOH L 8 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 1 1 1 -5
+p161
+aVAndray Blatche WAS 03/11/2009 WAS vs. NOH L 31 2 1 6 16.7 0 0 - 0 0 - 3 6 9 3 1 1 2 3 -11
+p162
+aVJavaris Crittenton WAS 03/11/2009 WAS vs. NOH L 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -8
+p163
+aVCaron Butler WAS 03/11/2009 WAS vs. NOH L 44 23 8 22 36.4 0 3 0.0 7 7 100.0 1 2 3 9 0 0 2 3 -7
+p164
+aVDominic McGuire WAS 03/11/2009 WAS vs. NOH L 35 8 4 5 80.0 0 0 - 0 0 - 0 4 4 7 1 1 1 0 -1
+p165
+aVDarius Songaila WAS 03/11/2009 WAS vs. NOH L 18 10 4 6 66.7 0 0 - 2 2 100.0 0 3 3 4 0 0 0 5 0
+p166
+aVNick Young WAS 03/11/2009 WAS vs. NOH L 13 14 4 9 44.4 0 2 0.0 6 6 100.0 0 0 0 0 1 0 1 1 -10
+p167
+aVAndray Blatche WAS 03/09/2009 WAS @ MIN W 24 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 1 0 3 1 2 7
+p168
+aVAntawn Jamison WAS 03/09/2009 WAS @ MIN W 38 26 9 19 47.4 1 4 25.0 7 9 77.8 0 4 4 1 0 0 3 3 1
+p169
+aVJaVale McGee WAS 03/09/2009 WAS @ MIN W 12 3 1 1 100.0 0 0 - 1 1 100.0 1 1 2 1 1 2 0 2 11
+p170
+aVJavaris Crittenton WAS 03/09/2009 WAS @ MIN W 27 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 0 0 1 2 4
+p171
+aVDarius Songaila WAS 03/09/2009 WAS @ MIN W 29 19 8 9 88.9 0 0 - 3 4 75.0 2 4 6 1 0 0 1 0 2
+p172
+aVJuan Dixon WAS 03/09/2009 WAS @ MIN W 24 9 3 6 50.0 0 0 - 3 4 75.0 0 6 6 4 3 1 1 2 9
+p173
+aVDominic McGuire WAS 03/09/2009 WAS @ MIN W 30 10 4 7 57.1 0 0 - 2 4 50.0 1 6 7 0 2 1 0 4 2
+p174
+aVNick Young WAS 03/09/2009 WAS @ MIN W 16 8 3 6 50.0 1 2 50.0 1 3 33.3 0 3 3 1 0 0 1 1 11
+p175
+aVCaron Butler WAS 03/09/2009 WAS @ MIN W 40 27 9 20 45.0 0 1 0.0 9 10 90.0 3 7 10 6 1 1 2 0 8
+p176
+aVAndray Blatche WAS 03/07/2009 WAS @ DAL L 23 12 5 8 62.5 1 1 100.0 1 3 33.3 0 1 1 1 2 1 2 2 -11
+p177
+aVCaron Butler WAS 03/07/2009 WAS @ DAL L 42 20 7 19 36.8 0 3 0.0 6 8 75.0 2 7 9 3 2 2 7 2 -9
+p178
+aVDarius Songaila WAS 03/07/2009 WAS @ DAL L 22 6 3 3 100.0 0 0 - 0 0 - 0 3 3 3 2 0 2 5 -5
+p179
+aVJaVale McGee WAS 03/07/2009 WAS @ DAL L 10 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 3
+p180
+aVDominic McGuire WAS 03/07/2009 WAS @ DAL L 32 4 1 4 25.0 0 0 - 2 2 100.0 3 3 6 3 1 0 0 1 -11
+p181
+aVMike James WAS 03/07/2009 WAS @ DAL L 35 16 5 7 71.4 2 4 50.0 4 4 100.0 0 1 1 7 1 0 2 4 -18
+p182
+aVAntawn Jamison WAS 03/07/2009 WAS @ DAL L 40 24 9 22 40.9 4 5 80.0 2 2 100.0 2 9 11 1 0 0 5 4 -15
+p183
+aVJavaris Crittenton WAS 03/07/2009 WAS @ DAL L 19 10 4 5 80.0 0 0 - 2 2 100.0 0 2 2 3 1 0 2 3 2
+p184
+aVNick Young WAS 03/07/2009 WAS @ DAL L 17 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 1 0 2 -16
+p185
+aVJavaris Crittenton WAS 03/06/2009 WAS @ SAS L 24 9 4 8 50.0 0 0 - 1 3 33.3 0 0 0 1 1 0 0 2 -8
+p186
+aVOleksiy Pecherov WAS 03/06/2009 WAS @ SAS L 8 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 4
+p187
+aVAntawn Jamison WAS 03/06/2009 WAS @ SAS L 31 14 6 15 40.0 1 4 25.0 1 3 33.3 1 4 5 1 3 0 1 2 -23
+p188
+aVDarius Songaila WAS 03/06/2009 WAS @ SAS L 27 11 5 10 50.0 0 0 - 1 1 100.0 2 3 5 1 2 0 2 3 -18
+p189
+aVNick Young WAS 03/06/2009 WAS @ SAS L 32 11 4 13 30.8 0 1 0.0 3 6 50.0 2 4 6 0 0 0 3 3 -9
+p190
+aVDominic McGuire WAS 03/06/2009 WAS @ SAS L 26 5 2 2 100.0 0 0 - 1 2 50.0 0 3 3 4 0 0 2 2 -27
+p191
+aVMike James WAS 03/06/2009 WAS @ SAS L 24 4 2 5 40.0 0 0 - 0 0 - 1 1 2 2 0 0 2 0 -14
+p192
+aVJaVale McGee WAS 03/06/2009 WAS @ SAS L 20 7 1 3 33.3 0 0 - 5 6 83.3 1 3 4 0 0 0 2 1 -1
+p193
+aVJuan Dixon WAS 03/06/2009 WAS @ SAS L 15 8 2 4 50.0 0 0 - 4 4 100.0 0 1 1 0 0 0 0 2 2
+p194
+aVAndray Blatche WAS 03/06/2009 WAS @ SAS L 32 6 3 8 37.5 0 0 - 0 0 - 0 5 5 3 1 1 5 3 -16
+p195
+aVJavaris Crittenton WAS 03/04/2009 WAS @ OKC L 23 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 2 -6
+p196
+aVAntawn Jamison WAS 03/04/2009 WAS @ OKC L 42 29 9 20 45.0 2 5 40.0 9 10 90.0 2 8 10 1 2 0 0 1 -6
+p197
+aVJuan Dixon WAS 03/04/2009 WAS @ OKC L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -9
+p198
+aVNick Young WAS 03/04/2009 WAS @ OKC L 19 8 3 13 23.1 0 0 - 2 3 66.7 1 1 2 0 0 0 2 3 4
+p199
+aVJaVale McGee WAS 03/04/2009 WAS @ OKC L 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 1 0
+p200
+aVAndray Blatche WAS 03/04/2009 WAS @ OKC L 35 14 6 12 50.0 1 1 100.0 1 2 50.0 1 4 5 0 1 0 1 2 -6
+p201
+aVMike James WAS 03/04/2009 WAS @ OKC L 30 6 3 10 30.0 0 3 0.0 0 0 - 0 1 1 2 1 0 2 2 -4
+p202
+aVDominic McGuire WAS 03/04/2009 WAS @ OKC L 38 4 1 4 25.0 0 0 - 2 4 50.0 4 4 8 6 1 1 0 1 1
+p203
+aVDarius Songaila WAS 03/04/2009 WAS @ OKC L 31 14 5 11 45.5 0 0 - 4 4 100.0 2 0 2 1 0 0 2 2 1
+p204
+aVNick Young WAS 03/02/2009 WAS vs. ATL L 14 3 1 5 20.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 -10
+p205
+aVDarius Songaila WAS 03/02/2009 WAS vs. ATL L 26 12 5 9 55.6 0 0 - 2 2 100.0 1 1 2 0 1 1 2 2 -17
+p206
+aVJaVale McGee WAS 03/02/2009 WAS vs. ATL L 32 14 6 9 66.7 0 0 - 2 2 100.0 0 9 9 1 0 3 0 4 -3
+p207
+aVAndray Blatche WAS 03/02/2009 WAS vs. ATL L 28 12 6 10 60.0 0 0 - 0 0 - 1 3 4 3 1 1 1 3 -12
+p208
+aVAntawn Jamison WAS 03/02/2009 WAS vs. ATL L 43 23 7 19 36.8 1 1 100.0 8 10 80.0 4 5 9 4 0 0 3 2 -4
+p209
+aVMike James WAS 03/02/2009 WAS vs. ATL L 39 9 4 13 30.8 0 4 0.0 1 2 50.0 2 2 4 3 1 0 3 0 3
+p210
+aVDominic McGuire WAS 03/02/2009 WAS vs. ATL L 38 6 3 7 42.9 0 0 - 0 0 - 2 4 6 9 2 1 2 2 -2
+p211
+aVJavaris Crittenton WAS 03/02/2009 WAS vs. ATL L 20 10 5 9 55.6 0 0 - 0 0 - 2 3 5 3 0 0 0 2 0
+p212
+aVAndray Blatche WAS 02/28/2009 WAS @ MIL L 22 8 2 6 33.3 0 0 - 4 4 100.0 0 1 1 0 0 2 0 2 -8
+p213
+aVOleksiy Pecherov WAS 02/28/2009 WAS @ MIL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p214
+aVJaVale McGee WAS 02/28/2009 WAS @ MIL L 14 8 4 7 57.1 0 0 - 0 0 - 2 2 4 0 0 0 2 2 -2
+p215
+aVDarius Songaila WAS 02/28/2009 WAS @ MIL L 16 9 4 5 80.0 0 0 - 1 1 100.0 0 1 1 1 0 0 1 3 -8
+p216
+aVCaron Butler WAS 02/28/2009 WAS @ MIL L 40 19 6 15 40.0 0 2 0.0 7 8 87.5 0 4 4 6 1 1 6 3 -10
+p217
+aVNick Young WAS 02/28/2009 WAS @ MIL L 24 13 3 8 37.5 1 1 100.0 6 7 85.7 0 2 2 0 1 0 2 1 -4
+p218
+aVDominic McGuire WAS 02/28/2009 WAS @ MIL L 32 6 3 4 75.0 0 0 - 0 0 - 0 1 1 4 1 3 1 3 -17
+p219
+aVMike James WAS 02/28/2009 WAS @ MIL L 30 7 2 5 40.0 1 3 33.3 2 2 100.0 0 3 3 4 1 0 1 3 -8
+p220
+aVJuan Dixon WAS 02/28/2009 WAS @ MIL L 20 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 4 0 0 2 2 -10
+p221
+aVAntawn Jamison WAS 02/28/2009 WAS @ MIL L 40 21 9 16 56.3 0 2 0.0 3 6 50.0 5 9 14 2 3 0 2 2 -13
+p222
+aVAndray Blatche WAS 02/27/2009 WAS vs. CHI W 23 12 4 9 44.4 0 0 - 4 6 66.7 1 2 3 2 0 2 1 3 10
+p223
+aVMike James WAS 02/27/2009 WAS vs. CHI W 36 14 5 13 38.5 1 6 16.7 3 4 75.0 1 3 4 2 1 0 0 3 24
+p224
+aVJaVale McGee WAS 02/27/2009 WAS vs. CHI W 10 10 3 7 42.9 0 0 - 4 5 80.0 3 1 4 0 0 1 0 1 0
+p225
+aVDominic McGuire WAS 02/27/2009 WAS vs. CHI W 39 10 5 6 83.3 0 0 - 0 1 0.0 4 7 11 4 1 3 3 3 26
+p226
+aVCaron Butler WAS 02/27/2009 WAS vs. CHI W 36 14 5 11 45.5 1 3 33.3 3 3 100.0 1 6 7 6 1 0 2 4 18
+p227
+aVDarius Songaila WAS 02/27/2009 WAS vs. CHI W 22 12 6 6 100.0 0 0 - 0 0 - 2 2 4 3 3 0 1 4 11
+p228
+aVAntawn Jamison WAS 02/27/2009 WAS vs. CHI W 29 27 9 18 50.0 2 6 33.3 7 8 87.5 5 6 11 2 1 0 1 3 24
+p229
+aVJavaris Crittenton WAS 02/27/2009 WAS vs. CHI W 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 2 0 0 1 1 -1
+p230
+aVOleksiy Pecherov WAS 02/27/2009 WAS vs. CHI W 6 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 1 0 3 3
+p231
+aVNick Young WAS 02/27/2009 WAS vs. CHI W 26 12 5 12 41.7 1 2 50.0 1 1 100.0 0 2 2 0 0 0 1 5 0
+p232
+aVDominic McGuire WAS 02/25/2009 WAS vs. PHI L 34 14 4 7 57.1 0 0 - 6 6 100.0 4 10 14 2 1 3 2 3 -2
+p233
+aVJavaris Crittenton WAS 02/25/2009 WAS vs. PHI L 28 11 5 9 55.6 0 0 - 1 3 33.3 1 1 2 4 2 0 5 3 3
+p234
+aVMike James WAS 02/25/2009 WAS vs. PHI L 29 15 6 10 60.0 3 6 50.0 0 0 - 0 0 0 3 3 0 1 1 -13
+p235
+aVAntawn Jamison WAS 02/25/2009 WAS vs. PHI L 38 16 7 14 50.0 1 3 33.3 1 1 100.0 1 4 5 1 2 0 4 2 -7
+p236
+aVCaron Butler WAS 02/25/2009 WAS vs. PHI L 39 17 7 16 43.8 1 4 25.0 2 2 100.0 2 2 4 5 1 0 3 4 -7
+p237
+aVAndray Blatche WAS 02/25/2009 WAS vs. PHI L 16 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 1 0 3 4 1 -15
+p238
+aVNick Young WAS 02/25/2009 WAS vs. PHI L 24 9 3 10 30.0 1 4 25.0 2 2 100.0 1 5 6 1 1 0 1 2 -2
+p239
+aVDarius Songaila WAS 02/25/2009 WAS vs. PHI L 27 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 1 2 0 1 3 4
+p240
+aVJaVale McGee WAS 02/25/2009 WAS vs. PHI L 6 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -1
+p241
+aVAntawn Jamison WAS 02/21/2009 WAS vs. SAS L 36 16 6 17 35.3 0 1 0.0 4 7 57.1 3 4 7 1 1 0 2 1 -19
+p242
+aVDominic McGuire WAS 02/21/2009 WAS vs. SAS L 33 2 1 4 25.0 0 0 - 0 0 - 1 2 3 4 0 1 2 1 -23
+p243
+aVMike James WAS 02/21/2009 WAS vs. SAS L 26 0 0 6 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 1 0 -3
+p244
+aVCaron Butler WAS 02/21/2009 WAS vs. SAS L 33 24 9 19 47.4 0 2 0.0 6 7 85.7 1 6 7 4 1 1 0 1 -16
+p245
+aVJavaris Crittenton WAS 02/21/2009 WAS vs. SAS L 18 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -16
+p246
+aVAndray Blatche WAS 02/21/2009 WAS vs. SAS L 22 2 1 5 20.0 0 1 0.0 0 4 0.0 2 4 6 0 1 2 1 4 -26
+p247
+aVJaVale McGee WAS 02/21/2009 WAS vs. SAS L 13 2 1 7 14.3 0 0 - 0 0 - 1 2 3 0 0 2 0 0 -16
+p248
+aVNick Young WAS 02/21/2009 WAS vs. SAS L 12 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 0 0 0 1 1 -13
+p249
+aVDarius Songaila WAS 02/21/2009 WAS vs. SAS L 27 15 6 10 60.0 0 0 - 3 4 75.0 0 2 2 1 2 2 0 2 -4
+p250
+aVJuan Dixon WAS 02/21/2009 WAS vs. SAS L 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 1 -14
+p251
+aVOleksiy Pecherov WAS 02/21/2009 WAS vs. SAS L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p252
+aVDominic McGuire WAS 02/20/2009 WAS @ NJN W 41 11 5 8 62.5 0 0 - 1 2 50.0 5 9 14 3 0 3 0 1 9
+p253
+aVJavaris Crittenton WAS 02/20/2009 WAS @ NJN W 23 4 1 3 33.3 0 1 0.0 2 2 100.0 0 4 4 3 2 0 3 1 -7
+p254
+aVDarius Songaila WAS 02/20/2009 WAS @ NJN W 28 10 5 6 83.3 0 0 - 0 0 - 2 0 2 2 0 1 1 5 19
+p255
+aVAndray Blatche WAS 02/20/2009 WAS @ NJN W 20 9 4 12 33.3 0 0 - 1 2 50.0 5 4 9 3 1 0 1 5 8
+p256
+aVMike James WAS 02/20/2009 WAS @ NJN W 26 19 6 15 40.0 1 3 33.3 6 6 100.0 0 3 3 1 2 0 2 4 15
+p257
+aVNick Young WAS 02/20/2009 WAS @ NJN W 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 1 1 1 1 0
+p258
+aVJaVale McGee WAS 02/20/2009 WAS @ NJN W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 -12
+p259
+aVAntawn Jamison WAS 02/20/2009 WAS @ NJN W 41 28 10 19 52.6 1 2 50.0 7 10 70.0 2 10 12 2 1 0 1 3 14
+p260
+aVCaron Butler WAS 02/20/2009 WAS @ NJN W 41 19 7 18 38.9 0 3 0.0 5 7 71.4 4 5 9 1 1 2 6 1 9
+p261
+aVJavaris Crittenton WAS 02/17/2009 WAS vs. MIN W 24 11 4 6 66.7 0 0 - 3 4 75.0 1 3 4 4 0 1 1 2 19
+p262
+aVDominic McGuire WAS 02/17/2009 WAS vs. MIN W 34 8 3 6 50.0 0 1 0.0 2 2 100.0 1 9 10 3 0 2 1 1 8
+p263
+aVDarius Songaila WAS 02/17/2009 WAS vs. MIN W 21 12 5 7 71.4 0 0 - 2 2 100.0 1 3 4 1 1 1 1 5 0
+p264
+aVCaron Butler WAS 02/17/2009 WAS vs. MIN W 38 17 7 14 50.0 1 3 33.3 2 2 100.0 1 4 5 6 3 0 1 3 -2
+p265
+aVAntawn Jamison WAS 02/17/2009 WAS vs. MIN W 41 29 10 17 58.8 0 1 0.0 9 11 81.8 3 8 11 2 0 0 6 4 4
+p266
+aVJaVale McGee WAS 02/17/2009 WAS vs. MIN W 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 1 1 3 3 -7
+p267
+aVMike James WAS 02/17/2009 WAS vs. MIN W 27 15 4 10 40.0 4 6 66.7 3 4 75.0 0 0 0 4 0 0 0 2 -1
+p268
+aVAndray Blatche WAS 02/17/2009 WAS vs. MIN W 27 14 5 10 50.0 0 2 0.0 4 6 66.7 3 4 7 2 2 0 3 4 21
+p269
+aVNick Young WAS 02/17/2009 WAS vs. MIN W 15 1 0 5 0.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 1 1 -2
+p270
+aVDominic McGuire WAS 02/11/2009 WAS @ CHA L 27 7 3 8 37.5 1 2 50.0 0 0 - 1 6 7 1 2 0 0 2 -19
+p271
+aVMike James WAS 02/11/2009 WAS @ CHA L 22 6 2 5 40.0 2 3 66.7 0 0 - 0 2 2 5 0 1 4 0 -4
+p272
+aVAntawn Jamison WAS 02/11/2009 WAS @ CHA L 40 23 8 19 42.1 3 5 60.0 4 4 100.0 3 6 9 2 1 1 3 4 -14
+p273
+aVJuan Dixon WAS 02/11/2009 WAS @ CHA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p274
+aVNick Young WAS 02/11/2009 WAS @ CHA L 31 7 3 10 30.0 1 5 20.0 0 0 - 1 2 3 1 0 0 0 1 -2
+p275
+aVJaVale McGee WAS 02/11/2009 WAS @ CHA L 20 8 3 9 33.3 0 0 - 2 2 100.0 3 4 7 1 1 2 1 4 -6
+p276
+aVCaron Butler WAS 02/11/2009 WAS @ CHA L 45 26 10 19 52.6 2 3 66.7 4 5 80.0 0 1 1 6 3 0 3 1 -10
+p277
+aVJavaris Crittenton WAS 02/11/2009 WAS @ CHA L 26 6 3 6 50.0 0 0 - 0 2 0.0 4 1 5 4 1 0 3 2 -8
+p278
+aVDarius Songaila WAS 02/11/2009 WAS @ CHA L 29 6 3 8 37.5 0 0 - 0 0 - 1 3 4 3 1 0 2 5 1
+p279
+aVDominic McGuire WAS 02/10/2009 WAS @ ATL L 25 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 2 3 -16
+p280
+aVJavaris Crittenton WAS 02/10/2009 WAS @ ATL L 25 7 2 5 40.0 0 0 - 3 4 75.0 1 6 7 7 1 0 1 1 -15
+p281
+aVDarius Songaila WAS 02/10/2009 WAS @ ATL L 15 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 1 1 -15
+p282
+aVAntawn Jamison WAS 02/10/2009 WAS @ ATL L 39 17 5 16 31.3 0 3 0.0 7 9 77.8 2 10 12 0 1 0 3 3 -18
+p283
+aVMike James WAS 02/10/2009 WAS @ ATL L 19 7 2 7 28.6 1 4 25.0 2 2 100.0 0 0 0 3 0 0 1 0 -3
+p284
+aVJaVale McGee WAS 02/10/2009 WAS @ ATL L 27 18 7 10 70.0 0 0 - 4 5 80.0 2 9 11 0 0 2 4 5 -3
+p285
+aVNick Young WAS 02/10/2009 WAS @ ATL L 28 11 4 9 44.4 1 3 33.3 2 2 100.0 0 1 1 1 0 0 1 4 3
+p286
+aVJuan Dixon WAS 02/10/2009 WAS @ ATL L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 3 1 -11
+p287
+aVOleksiy Pecherov WAS 02/10/2009 WAS @ ATL L 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p288
+aVCaron Butler WAS 02/10/2009 WAS @ ATL L 40 22 9 17 52.9 0 2 0.0 4 5 80.0 2 6 8 3 1 0 1 0 -21
+p289
+aVDominic McGuire WAS 02/08/2009 WAS vs. IND W 26 2 1 1 100.0 0 0 - 0 2 0.0 1 3 4 2 1 4 2 4 -5
+p290
+aVJavaris Crittenton WAS 02/08/2009 WAS vs. IND W 27 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 0 3 2
+p291
+aVAntawn Jamison WAS 02/08/2009 WAS vs. IND W 42 34 12 21 57.1 4 7 57.1 6 7 85.7 2 4 6 3 2 0 0 3 6
+p292
+aVCaron Butler WAS 02/08/2009 WAS vs. IND W 40 35 12 24 50.0 2 4 50.0 9 10 90.0 5 8 13 3 1 0 3 2 -1
+p293
+aVNick Young WAS 02/08/2009 WAS vs. IND W 32 20 6 9 66.7 2 2 100.0 6 7 85.7 0 3 3 0 0 0 2 3 13
+p294
+aVDarius Songaila WAS 02/08/2009 WAS vs. IND W 16 13 4 6 66.7 0 0 - 5 5 100.0 1 0 1 2 1 0 2 5 4
+p295
+aVJaVale McGee WAS 02/08/2009 WAS vs. IND W 20 3 1 5 20.0 0 0 - 1 2 50.0 1 4 5 1 0 1 0 4 2
+p296
+aVJuan Dixon WAS 02/08/2009 WAS vs. IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 3 2 0 0 0 3
+p297
+aVMike James WAS 02/08/2009 WAS vs. IND W 21 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 7 0 0 0 2 0
+p298
+aVOleksiy Pecherov WAS 02/08/2009 WAS vs. IND W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -14
+p299
+aVNick Young WAS 02/06/2009 WAS vs. DEN L 23 20 7 16 43.8 3 5 60.0 3 4 75.0 1 1 2 1 1 0 0 2 -5
+p300
+aVDarius Songaila WAS 02/06/2009 WAS vs. DEN L 21 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 1 3 4 -1
+p301
+aVJuan Dixon WAS 02/06/2009 WAS vs. DEN L 16 4 0 5 0.0 0 1 0.0 4 4 100.0 0 1 1 3 0 0 1 1 -15
+p302
+aVDominic McGuire WAS 02/06/2009 WAS vs. DEN L 42 8 3 6 50.0 0 0 - 2 2 100.0 1 7 8 4 1 0 3 2 -11
+p303
+aVJaVale McGee WAS 02/06/2009 WAS vs. DEN L 20 13 4 7 57.1 0 0 - 5 5 100.0 1 3 4 2 0 0 1 2 -14
+p304
+aVMike James WAS 02/06/2009 WAS vs. DEN L 31 10 4 9 44.4 2 3 66.7 0 0 - 0 4 4 4 0 0 0 2 -26
+p305
+aVOleksiy Pecherov WAS 02/06/2009 WAS vs. DEN L 22 8 2 9 22.2 2 7 28.6 2 2 100.0 1 2 3 0 2 0 1 2 -8
+p306
+aVJavaris Crittenton WAS 02/06/2009 WAS vs. DEN L 32 10 4 10 40.0 0 0 - 2 3 66.7 3 1 4 7 0 0 2 1 -6
+p307
+aVAntawn Jamison WAS 02/06/2009 WAS vs. DEN L 34 26 10 16 62.5 1 2 50.0 5 6 83.3 3 5 8 5 0 1 2 3 -19
+p308
+aVAntawn Jamison WAS 02/04/2009 WAS vs. NJN L 40 10 4 20 20.0 1 7 14.3 1 2 50.0 3 3 6 2 2 0 1 2 -24
+p309
+aVMike James WAS 02/04/2009 WAS vs. NJN L 33 13 5 11 45.5 1 5 20.0 2 2 100.0 0 4 4 2 1 0 1 4 -34
+p310
+aVOleksiy Pecherov WAS 02/04/2009 WAS vs. NJN L 23 13 5 9 55.6 1 3 33.3 2 2 100.0 3 2 5 0 0 0 0 0 -4
+p311
+aVDarius Songaila WAS 02/04/2009 WAS vs. NJN L 30 10 4 7 57.1 0 0 - 2 2 100.0 2 0 2 0 1 0 2 1 -29
+p312
+aVJavaris Crittenton WAS 02/04/2009 WAS vs. NJN L 29 9 3 5 60.0 0 0 - 3 3 100.0 1 2 3 3 1 0 3 3 -7
+p313
+aVNick Young WAS 02/04/2009 WAS vs. NJN L 35 21 10 20 50.0 0 3 0.0 1 1 100.0 1 2 3 4 1 0 1 3 -9
+p314
+aVJaVale McGee WAS 02/04/2009 WAS vs. NJN L 23 10 4 7 57.1 0 0 - 2 2 100.0 3 2 5 1 0 0 1 3 -6
+p315
+aVDominic McGuire WAS 02/04/2009 WAS vs. NJN L 28 2 1 6 16.7 0 0 - 0 2 0.0 1 4 5 3 1 0 0 2 -22
+p316
+aVJavaris Crittenton WAS 02/02/2009 WAS vs. MEM L 19 4 2 3 66.7 0 0 - 0 3 0.0 2 0 2 3 1 0 2 2 -20
+p317
+aVAntawn Jamison WAS 02/02/2009 WAS vs. MEM L 45 29 10 22 45.5 2 6 33.3 7 11 63.6 4 9 13 2 0 0 3 4 -15
+p318
+aVDominic McGuire WAS 02/02/2009 WAS vs. MEM L 27 4 2 2 100.0 0 0 - 0 0 - 0 5 5 4 0 1 5 4 -15
+p319
+aVMike James WAS 02/02/2009 WAS vs. MEM L 21 5 2 8 25.0 0 1 0.0 1 2 50.0 2 4 6 3 0 0 0 3 1
+p320
+aVOleksiy Pecherov WAS 02/02/2009 WAS vs. MEM L 7 2 0 2 0.0 0 1 0.0 2 2 100.0 2 0 2 0 0 0 0 1 -5
+p321
+aVJaVale McGee WAS 02/02/2009 WAS vs. MEM L 26 11 5 10 50.0 0 0 - 1 1 100.0 4 3 7 0 2 2 0 5 -21
+p322
+aVJuan Dixon WAS 02/02/2009 WAS vs. MEM L 9 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -1
+p323
+aVDarius Songaila WAS 02/02/2009 WAS vs. MEM L 20 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 0 0 0 4 7
+p324
+aVNick Young WAS 02/02/2009 WAS vs. MEM L 25 13 5 13 38.5 2 5 40.0 1 1 100.0 0 0 0 1 1 0 0 0 -8
+p325
+aVCaron Butler WAS 02/02/2009 WAS vs. MEM L 41 21 7 14 50.0 2 5 40.0 5 6 83.3 2 7 9 5 0 1 6 4 -3
+p326
+aVDominic McGuire WAS 01/31/2009 WAS vs. LAC W 29 2 0 3 0.0 0 0 - 2 2 100.0 2 2 4 2 0 0 1 2 -2
+p327
+aVCaron Butler WAS 01/31/2009 WAS vs. LAC W 41 16 6 22 27.3 0 0 - 4 5 80.0 7 6 13 7 1 0 7 1 7
+p328
+aVNick Young WAS 01/31/2009 WAS vs. LAC W 23 22 8 11 72.7 1 2 50.0 5 6 83.3 0 1 1 0 0 1 2 2 20
+p329
+aVJavaris Crittenton WAS 01/31/2009 WAS vs. LAC W 19 4 0 3 0.0 0 0 - 4 6 66.7 0 2 2 3 2 0 1 2 4
+p330
+aVMike James WAS 01/31/2009 WAS vs. LAC W 29 9 3 8 37.5 3 5 60.0 0 0 - 0 0 0 5 2 0 3 2 8
+p331
+aVDeShawn Stevenson WAS 01/31/2009 WAS vs. LAC W 12 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 1 2 0 0 0 -1
+p332
+aVJaVale McGee WAS 01/31/2009 WAS vs. LAC W 24 18 8 15 53.3 0 0 - 2 3 66.7 5 4 9 1 1 1 0 5 2
+p333
+aVAntawn Jamison WAS 01/31/2009 WAS vs. LAC W 39 25 8 16 50.0 2 3 66.7 7 9 77.8 3 9 12 2 2 0 0 0 15
+p334
+aVDarius Songaila WAS 01/31/2009 WAS vs. LAC W 23 8 4 10 40.0 0 0 - 0 0 - 1 4 5 1 3 0 0 3 7
+p335
+aVDeShawn Stevenson WAS 01/30/2009 WAS @ PHI L 23 1 0 6 0.0 0 4 0.0 1 2 50.0 1 2 3 4 0 0 0 1 -3
+p336
+aVNick Young WAS 01/30/2009 WAS @ PHI L 10 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 0 0 2 0 7
+p337
+aVJuan Dixon WAS 01/30/2009 WAS @ PHI L 9 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 0 -2
+p338
+aVDominic McGuire WAS 01/30/2009 WAS @ PHI L 34 16 6 11 54.5 0 0 - 4 4 100.0 1 4 5 3 1 1 1 1 -21
+p339
+aVJaVale McGee WAS 01/30/2009 WAS @ PHI L 14 2 0 1 0.0 0 0 - 2 2 100.0 3 3 6 0 0 2 1 3 -11
+p340
+aVMike James WAS 01/30/2009 WAS @ PHI L 16 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 3 1 0 1 0 -11
+p341
+aVAntawn Jamison WAS 01/30/2009 WAS @ PHI L 40 25 11 21 52.4 1 5 20.0 2 4 50.0 3 12 15 0 1 0 1 2 -5
+p342
+aVJavaris Crittenton WAS 01/30/2009 WAS @ PHI L 20 15 7 10 70.0 0 0 - 1 3 33.3 2 2 4 7 2 0 1 2 10
+p343
+aVOleksiy Pecherov WAS 01/30/2009 WAS @ PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p344
+aVCaron Butler WAS 01/30/2009 WAS @ PHI L 42 20 5 13 38.5 1 2 50.0 9 9 100.0 1 2 3 5 2 0 2 5 -18
+p345
+aVDarius Songaila WAS 01/30/2009 WAS @ PHI L 32 10 4 8 50.0 0 0 - 2 2 100.0 1 0 1 2 0 0 3 5 4
+p346
+aVCaron Butler WAS 01/28/2009 WAS @ MIA L 40 18 7 14 50.0 1 2 50.0 3 4 75.0 0 5 5 6 0 0 6 1 -10
+p347
+aVJuan Dixon WAS 01/28/2009 WAS @ MIA L 18 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 -13
+p348
+aVDominic McGuire WAS 01/28/2009 WAS @ MIA L 23 3 0 2 0.0 0 0 - 3 4 75.0 4 5 9 2 0 0 0 2 -15
+p349
+aVDarius Songaila WAS 01/28/2009 WAS @ MIA L 31 10 5 13 38.5 0 0 - 0 1 0.0 2 1 3 1 1 0 1 3 -5
+p350
+aVOleksiy Pecherov WAS 01/28/2009 WAS @ MIA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -18
+p351
+aVJaVale McGee WAS 01/28/2009 WAS @ MIA L 17 2 1 4 25.0 0 0 - 0 0 - 2 4 6 0 0 1 2 2 -10
+p352
+aVNick Young WAS 01/28/2009 WAS @ MIA L 20 6 3 7 42.9 0 1 0.0 0 0 - 1 0 1 0 1 0 1 2 -10
+p353
+aVAntawn Jamison WAS 01/28/2009 WAS @ MIA L 42 21 9 22 40.9 0 4 0.0 3 4 75.0 1 11 12 1 3 0 3 3 -20
+p354
+aVMike James WAS 01/28/2009 WAS @ MIA L 32 5 2 8 25.0 1 4 25.0 0 0 - 0 3 3 3 1 0 1 2 0
+p355
+aVJavaris Crittenton WAS 01/28/2009 WAS @ MIA L 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -9
+p356
+aVAndray Blatche WAS 01/26/2009 WAS vs. PHX L 27 12 6 14 42.9 0 0 - 0 0 - 0 6 6 1 0 2 1 4 1
+p357
+aVMike James WAS 01/26/2009 WAS vs. PHX L 36 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 4 0 1 3 1 -11
+p358
+aVJaVale McGee WAS 01/26/2009 WAS vs. PHX L 21 6 3 8 37.5 0 0 - 0 1 0.0 3 4 7 0 1 1 1 2 -17
+p359
+aVCaron Butler WAS 01/26/2009 WAS vs. PHX L 43 28 9 20 45.0 2 5 40.0 8 9 88.9 2 4 6 4 3 0 4 2 -14
+p360
+aVNick Young WAS 01/26/2009 WAS vs. PHX L 15 4 1 6 16.7 0 0 - 2 2 100.0 0 1 1 1 1 1 1 1 -4
+p361
+aVDarius Songaila WAS 01/26/2009 WAS vs. PHX L 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -4
+p362
+aVJavaris Crittenton WAS 01/26/2009 WAS vs. PHX L 15 2 1 2 50.0 0 0 - 0 0 - 1 1 2 4 0 0 0 0 -3
+p363
+aVAntawn Jamison WAS 01/26/2009 WAS vs. PHX L 41 27 8 20 40.0 2 4 50.0 9 12 75.0 2 11 13 2 1 0 1 2 -9
+p364
+aVDominic McGuire WAS 01/26/2009 WAS vs. PHX L 30 4 2 2 100.0 0 0 - 0 0 - 0 1 1 7 4 1 0 1 -19
+p365
+aVAntawn Jamison WAS 01/24/2009 WAS @ POR L 33 19 8 14 57.1 3 4 75.0 0 0 - 0 4 4 3 0 1 2 4 -13
+p366
+aVJavaris Crittenton WAS 01/24/2009 WAS @ POR L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p367
+aVAndray Blatche WAS 01/24/2009 WAS @ POR L 36 11 5 12 41.7 0 0 - 1 2 50.0 1 4 5 2 0 1 2 5 -5
+p368
+aVDarius Songaila WAS 01/24/2009 WAS @ POR L 28 8 4 6 66.7 0 0 - 0 2 0.0 2 0 2 0 0 0 2 4 2
+p369
+aVDominic McGuire WAS 01/24/2009 WAS @ POR L 35 0 0 3 0.0 0 0 - 0 0 - 0 8 8 2 2 1 5 2 -12
+p370
+aVCaron Butler WAS 01/24/2009 WAS @ POR L 38 31 9 15 60.0 3 4 75.0 10 11 90.9 3 7 10 5 1 0 9 2 -8
+p371
+aVJuan Dixon WAS 01/24/2009 WAS @ POR L 24 13 5 10 50.0 3 5 60.0 0 0 - 1 4 5 2 1 0 2 4 0
+p372
+aVMike James WAS 01/24/2009 WAS @ POR L 28 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 7 0 0 3 1 -11
+p373
+aVJaVale McGee WAS 01/24/2009 WAS @ POR L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p374
+aVNick Young WAS 01/24/2009 WAS @ POR L 8 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 1 0 -8
+p375
+aVAntawn Jamison WAS 01/22/2009 WAS @ LAL L 31 19 7 13 53.8 2 3 66.7 3 3 100.0 0 5 5 3 1 0 1 3 -30
+p376
+aVMike James WAS 01/22/2009 WAS @ LAL L 32 8 4 10 40.0 0 4 0.0 0 1 0.0 1 1 2 6 0 0 1 3 -20
+p377
+aVAndray Blatche WAS 01/22/2009 WAS @ LAL L 24 5 2 9 22.2 0 1 0.0 1 2 50.0 1 3 4 3 1 0 2 2 -18
+p378
+aVOleksiy Pecherov WAS 01/22/2009 WAS @ LAL L 12 5 2 2 100.0 1 1 100.0 0 0 - 4 1 5 0 0 0 1 2 9
+p379
+aVDarius Songaila WAS 01/22/2009 WAS @ LAL L 11 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p380
+aVJaVale McGee WAS 01/22/2009 WAS @ LAL L 23 18 7 15 46.7 0 0 - 4 4 100.0 5 4 9 0 2 2 1 3 0
+p381
+aVJavaris Crittenton WAS 01/22/2009 WAS @ LAL L 16 10 3 7 42.9 0 0 - 4 4 100.0 2 4 6 3 0 0 2 0 0
+p382
+aVNick Young WAS 01/22/2009 WAS @ LAL L 20 4 2 7 28.6 0 2 0.0 0 0 - 0 0 0 1 1 0 0 0 4
+p383
+aVCaron Butler WAS 01/22/2009 WAS @ LAL L 31 12 5 10 50.0 2 4 50.0 0 0 - 1 2 3 6 1 0 3 1 -20
+p384
+aVDominic McGuire WAS 01/22/2009 WAS @ LAL L 40 8 1 5 20.0 0 0 - 6 6 100.0 0 2 2 2 3 2 2 3 -18
+p385
+aVNick Young WAS 01/21/2009 WAS @ SAC W 11 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -7
+p386
+aVDarius Songaila WAS 01/21/2009 WAS @ SAC W 20 4 1 5 20.0 0 0 - 2 2 100.0 2 5 7 2 1 0 3 2 -7
+p387
+aVDominic McGuire WAS 01/21/2009 WAS @ SAC W 38 8 4 5 80.0 0 0 - 0 0 - 6 6 12 4 0 2 2 1 10
+p388
+aVMike James WAS 01/21/2009 WAS @ SAC W 39 8 4 10 40.0 0 3 0.0 0 0 - 0 0 0 1 0 1 1 3 12
+p389
+aVCaron Butler WAS 01/21/2009 WAS @ SAC W 44 32 13 25 52.0 1 5 20.0 5 5 100.0 1 6 7 5 3 0 3 5 4
+p390
+aVAndray Blatche WAS 01/21/2009 WAS @ SAC W 26 20 7 10 70.0 0 0 - 6 8 75.0 1 2 3 3 0 1 2 5 6
+p391
+aVJaVale McGee WAS 01/21/2009 WAS @ SAC W 11 1 0 1 0.0 0 0 - 1 2 50.0 1 5 6 0 0 0 1 2 -5
+p392
+aVJavaris Crittenton WAS 01/21/2009 WAS @ SAC W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -9
+p393
+aVAntawn Jamison WAS 01/21/2009 WAS @ SAC W 42 33 12 21 57.1 1 5 20.0 8 10 80.0 1 8 9 1 0 0 1 1 11
+p394
+aVJavaris Crittenton WAS 01/19/2009 WAS @ GSW L 15 4 2 2 100.0 0 0 - 0 0 - 1 0 1 2 0 0 1 4 -6
+p395
+aVDarius Songaila WAS 01/19/2009 WAS @ GSW L 15 6 3 6 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 -3
+p396
+aVMike James WAS 01/19/2009 WAS @ GSW L 36 7 2 9 22.2 1 4 25.0 2 2 100.0 0 2 2 5 0 0 3 1 -11
+p397
+aVAndray Blatche WAS 01/19/2009 WAS @ GSW L 33 22 10 19 52.6 0 0 - 2 2 100.0 5 4 9 2 2 1 2 3 -18
+p398
+aVDominic McGuire WAS 01/19/2009 WAS @ GSW L 33 5 2 6 33.3 0 0 - 1 3 33.3 5 6 11 6 3 1 2 6 -12
+p399
+aVJaVale McGee WAS 01/19/2009 WAS @ GSW L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -7
+p400
+aVCaron Butler WAS 01/19/2009 WAS @ GSW L 41 22 9 20 45.0 2 7 28.6 2 3 66.7 2 1 3 1 1 0 3 2 -16
+p401
+aVOleksiy Pecherov WAS 01/19/2009 WAS @ GSW L 1 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -3
+p402
+aVNick Young WAS 01/19/2009 WAS @ GSW L 23 7 2 9 22.2 1 3 33.3 2 3 66.7 0 3 3 2 0 0 0 3 -15
+p403
+aVAntawn Jamison WAS 01/19/2009 WAS @ GSW L 38 22 9 17 52.9 1 3 33.3 3 4 75.0 0 5 5 0 1 0 1 1 -14
+p404
+aVJuan Dixon WAS 01/16/2009 WAS vs. NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p405
+aVAndray Blatche WAS 01/16/2009 WAS vs. NYK W 27 13 6 11 54.5 0 0 - 1 2 50.0 2 9 11 4 3 1 2 2 -5
+p406
+aVCaron Butler WAS 01/16/2009 WAS vs. NYK W 42 11 3 11 27.3 0 2 0.0 5 6 83.3 3 1 4 7 2 1 2 3 3
+p407
+aVJavaris Crittenton WAS 01/16/2009 WAS vs. NYK W 12 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -1
+p408
+aVAntawn Jamison WAS 01/16/2009 WAS vs. NYK W 37 28 9 16 56.3 1 2 50.0 9 10 90.0 2 6 8 3 2 1 1 1 12
+p409
+aVJaVale McGee WAS 01/16/2009 WAS vs. NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 2
+p410
+aVNick Young WAS 01/16/2009 WAS vs. NYK W 36 13 6 14 42.9 1 1 100.0 0 0 - 0 3 3 1 0 1 2 1 11
+p411
+aVMike James WAS 01/16/2009 WAS vs. NYK W 36 19 7 13 53.8 5 7 71.4 0 0 - 1 4 5 4 0 0 3 2 8
+p412
+aVDominic McGuire WAS 01/16/2009 WAS vs. NYK W 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 0 4 -4
+p413
+aVDarius Songaila WAS 01/16/2009 WAS vs. NYK W 30 4 2 10 20.0 0 0 - 0 0 - 2 5 7 4 2 0 2 3 7
+p414
+aVNick Young WAS 01/14/2009 WAS @ NYK L 33 33 13 17 76.5 3 3 100.0 4 4 100.0 1 1 2 0 0 0 1 2 0
+p415
+aVDarius Songaila WAS 01/14/2009 WAS @ NYK L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p416
+aVDominic McGuire WAS 01/14/2009 WAS @ NYK L 35 6 3 4 75.0 0 0 - 0 0 - 0 5 5 1 1 1 1 4 -3
+p417
+aVJavaris Crittenton WAS 01/14/2009 WAS @ NYK L 24 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 3 1 1 2 5 -8
+p418
+aVCaron Butler WAS 01/14/2009 WAS @ NYK L 40 25 8 17 47.1 2 5 40.0 7 8 87.5 0 3 3 1 0 0 2 2 -3
+p419
+aVOleksiy Pecherov WAS 01/14/2009 WAS @ NYK L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 3
+p420
+aVJaVale McGee WAS 01/14/2009 WAS @ NYK L 16 8 3 6 50.0 0 0 - 2 2 100.0 4 0 4 0 0 1 1 0 -8
+p421
+aVAntawn Jamison WAS 01/14/2009 WAS @ NYK L 40 15 6 10 60.0 1 1 100.0 2 3 66.7 2 5 7 2 1 0 3 2 -8
+p422
+aVMike James WAS 01/14/2009 WAS @ NYK L 29 20 7 11 63.6 4 4 100.0 2 2 100.0 2 1 3 5 1 0 2 5 -1
+p423
+aVAndray Blatche WAS 01/14/2009 WAS @ NYK L 16 6 2 5 40.0 0 0 - 2 2 100.0 2 1 3 2 0 2 0 3 -2
+p424
+aVNick Young WAS 01/12/2009 WAS vs. MIL L 32 30 12 19 63.2 3 6 50.0 3 4 75.0 0 0 0 2 1 0 3 1 6
+p425
+aVDarius Songaila WAS 01/12/2009 WAS vs. MIL L 15 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 0 1 0 0 1 1
+p426
+aVAntawn Jamison WAS 01/12/2009 WAS vs. MIL L 38 25 9 14 64.3 3 5 60.0 4 5 80.0 0 3 3 1 3 1 3 3 -3
+p427
+aVEtan Thomas WAS 01/12/2009 WAS vs. MIL L 4 0 0 3 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 0 0
+p428
+aVAndray Blatche WAS 01/12/2009 WAS vs. MIL L 25 10 5 8 62.5 0 0 - 0 0 - 4 1 5 3 1 2 2 4 -5
+p429
+aVDominic McGuire WAS 01/12/2009 WAS vs. MIL L 27 2 1 3 33.3 0 0 - 0 0 - 2 8 10 5 0 1 0 2 -5
+p430
+aVCaron Butler WAS 01/12/2009 WAS vs. MIL L 38 6 2 13 15.4 0 0 - 2 2 100.0 5 2 7 0 2 0 3 3 -11
+p431
+aVJavaris Crittenton WAS 01/12/2009 WAS vs. MIL L 18 4 2 3 66.7 0 0 - 0 0 - 1 4 5 4 0 0 0 3 -3
+p432
+aVMike James WAS 01/12/2009 WAS vs. MIL L 30 8 2 12 16.7 0 2 0.0 4 4 100.0 1 2 3 4 0 0 1 2 -7
+p433
+aVJaVale McGee WAS 01/12/2009 WAS vs. MIL L 14 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 1 1 1 0 -3
+p434
+aVDominic McGuire WAS 01/10/2009 WAS vs. CHA L 27 7 3 5 60.0 0 0 - 1 1 100.0 1 4 5 3 1 1 1 2 2
+p435
+aVJuan Dixon WAS 01/10/2009 WAS vs. CHA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p436
+aVNick Young WAS 01/10/2009 WAS vs. CHA L 26 12 6 9 66.7 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -9
+p437
+aVMike James WAS 01/10/2009 WAS vs. CHA L 22 5 1 4 25.0 1 1 100.0 2 2 100.0 0 2 2 2 0 0 1 3 -3
+p438
+aVJaVale McGee WAS 01/10/2009 WAS vs. CHA L 19 9 4 4 100.0 0 0 - 1 4 25.0 1 3 4 1 1 1 0 0 -12
+p439
+aVDarius Songaila WAS 01/10/2009 WAS vs. CHA L 15 6 2 2 100.0 0 0 - 2 3 66.7 1 2 3 0 0 0 1 4 -4
+p440
+aVJavaris Crittenton WAS 01/10/2009 WAS vs. CHA L 23 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 1 0 2 3 -3
+p441
+aVCaron Butler WAS 01/10/2009 WAS vs. CHA L 34 19 4 9 44.4 0 1 0.0 11 12 91.7 0 1 1 1 1 0 4 0 -1
+p442
+aVAntawn Jamison WAS 01/10/2009 WAS vs. CHA L 33 13 5 13 38.5 0 1 0.0 3 6 50.0 2 3 5 3 1 0 0 3 4
+p443
+aVAndray Blatche WAS 01/10/2009 WAS vs. CHA L 36 14 7 13 53.8 0 0 - 0 0 - 4 6 10 4 0 0 4 4 13
+p444
+aVDarius Songaila WAS 01/09/2009 WAS @ CHI L 19 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 1 0 0 0 1
+p445
+aVAntawn Jamison WAS 01/09/2009 WAS @ CHI L 41 12 4 12 33.3 0 2 0.0 4 6 66.7 1 10 11 1 2 0 1 2 -8
+p446
+aVNick Young WAS 01/09/2009 WAS @ CHI L 27 28 12 15 80.0 2 4 50.0 2 2 100.0 1 2 3 1 0 0 3 2 4
+p447
+aVMike James WAS 01/09/2009 WAS @ CHI L 27 11 5 8 62.5 1 2 50.0 0 0 - 0 1 1 3 2 0 3 3 -17
+p448
+aVJavaris Crittenton WAS 01/09/2009 WAS @ CHI L 24 6 3 7 42.9 0 0 - 0 0 - 1 0 1 3 1 0 0 2 1
+p449
+aVDominic McGuire WAS 01/09/2009 WAS @ CHI L 16 4 1 5 20.0 0 0 - 2 2 100.0 2 1 3 0 0 0 1 0 -11
+p450
+aVJuan Dixon WAS 01/09/2009 WAS @ CHI L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 2 0 0
+p451
+aVEtan Thomas WAS 01/09/2009 WAS @ CHI L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p452
+aVOleksiy Pecherov WAS 01/09/2009 WAS @ CHI L 5 9 2 4 50.0 1 2 50.0 4 4 100.0 0 0 0 0 1 0 0 0 -3
+p453
+aVCaron Butler WAS 01/09/2009 WAS @ CHI L 40 2 1 8 12.5 0 2 0.0 0 0 - 0 6 6 6 2 2 2 1 -15
+p454
+aVAndray Blatche WAS 01/09/2009 WAS @ CHI L 26 8 4 8 50.0 0 0 - 0 2 0.0 2 6 8 0 1 4 2 2 -8
+p455
+aVNick Young WAS 01/07/2009 WAS vs. TOR L 24 9 4 9 44.4 1 2 50.0 0 0 - 1 2 3 3 1 1 2 2 0
+p456
+aVEtan Thomas WAS 01/07/2009 WAS vs. TOR L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 1 1 0 1 0 -6
+p457
+aVAndray Blatche WAS 01/07/2009 WAS vs. TOR L 27 12 6 9 66.7 0 0 - 0 0 - 0 1 1 0 1 1 1 3 -6
+p458
+aVAntawn Jamison WAS 01/07/2009 WAS vs. TOR L 38 32 13 23 56.5 3 6 50.0 3 8 37.5 3 4 7 0 4 0 3 6 0
+p459
+aVJavaris Crittenton WAS 01/07/2009 WAS vs. TOR L 27 3 1 4 25.0 0 1 0.0 1 2 50.0 1 2 3 6 3 0 0 0 3
+p460
+aVMike James WAS 01/07/2009 WAS vs. TOR L 29 10 4 12 33.3 1 6 16.7 1 3 33.3 0 2 2 4 1 0 0 1 -7
+p461
+aVDominic McGuire WAS 01/07/2009 WAS vs. TOR L 24 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -10
+p462
+aVDarius Songaila WAS 01/07/2009 WAS vs. TOR L 24 8 3 5 60.0 0 0 - 2 2 100.0 1 2 3 3 0 0 1 4 2
+p463
+aVCaron Butler WAS 01/07/2009 WAS vs. TOR L 41 15 6 18 33.3 0 3 0.0 3 3 100.0 3 3 6 6 2 0 1 2 -6
+p464
+aVJuan Dixon WAS 01/06/2009 WAS @ ORL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -5
+p465
+aVAndray Blatche WAS 01/06/2009 WAS @ ORL L 25 8 3 9 33.3 0 0 - 2 3 66.7 0 7 7 1 0 1 2 1 -12
+p466
+aVCaron Butler WAS 01/06/2009 WAS @ ORL L 38 29 12 24 50.0 2 5 40.0 3 3 100.0 1 4 5 5 3 0 3 3 -3
+p467
+aVDarius Songaila WAS 01/06/2009 WAS @ ORL L 22 8 4 8 50.0 0 0 - 0 0 - 2 3 5 2 2 0 0 5 -1
+p468
+aVJavaris Crittenton WAS 01/06/2009 WAS @ ORL L 13 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -8
+p469
+aVEtan Thomas WAS 01/06/2009 WAS @ ORL L 18 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 1 1 1 3 -11
+p470
+aVDominic McGuire WAS 01/06/2009 WAS @ ORL L 30 7 3 7 42.9 0 0 - 1 1 100.0 0 2 2 2 0 0 0 1 8
+p471
+aVAntawn Jamison WAS 01/06/2009 WAS @ ORL L 39 13 5 17 29.4 1 4 25.0 2 4 50.0 0 9 9 2 1 0 1 2 -1
+p472
+aVMike James WAS 01/06/2009 WAS @ ORL L 36 7 3 8 37.5 0 1 0.0 1 1 100.0 1 1 2 5 1 0 5 2 -1
+p473
+aVNick Young WAS 01/06/2009 WAS @ ORL L 17 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 1 0 -11
+p474
+aVAndray Blatche WAS 01/04/2009 WAS vs. CLE W 22 8 4 9 44.4 0 0 - 0 0 - 2 2 4 4 1 3 2 4 9
+p475
+aVAntawn Jamison WAS 01/04/2009 WAS vs. CLE W 39 26 9 19 47.4 1 1 100.0 7 7 100.0 8 5 13 2 2 0 2 3 3
+p476
+aVDarius Songaila WAS 01/04/2009 WAS vs. CLE W 19 0 0 1 0.0 0 0 - 0 0 - 2 5 7 0 0 0 0 3 -5
+p477
+aVEtan Thomas WAS 01/04/2009 WAS vs. CLE W 13 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 3 0 1 -4
+p478
+aVDominic McGuire WAS 01/04/2009 WAS vs. CLE W 32 10 4 8 50.0 0 0 - 2 2 100.0 1 9 10 1 1 1 4 5 11
+p479
+aVCaron Butler WAS 01/04/2009 WAS vs. CLE W 39 19 7 17 41.2 1 5 20.0 4 6 66.7 4 3 7 2 2 0 6 4 -2
+p480
+aVNick Young WAS 01/04/2009 WAS vs. CLE W 28 8 4 10 40.0 0 2 0.0 0 0 - 0 2 2 2 1 0 1 3 0
+p481
+aVJavaris Crittenton WAS 01/04/2009 WAS vs. CLE W 12 2 1 2 50.0 0 0 - 0 2 0.0 0 2 2 0 0 0 2 1 -1
+p482
+aVMike James WAS 01/04/2009 WAS vs. CLE W 36 5 2 9 22.2 0 2 0.0 1 2 50.0 1 3 4 1 0 0 2 1 4
+p483
+aVJaVale McGee WAS 01/02/2009 WAS @ BOS L 11 6 3 6 50.0 0 0 - 0 1 0.0 0 0 0 0 1 0 1 1 -9
+p484
+aVMike James WAS 01/02/2009 WAS @ BOS L 31 9 3 10 30.0 1 3 33.3 2 2 100.0 1 2 3 3 1 0 0 2 -26
+p485
+aVCaron Butler WAS 01/02/2009 WAS @ BOS L 32 8 3 9 33.3 0 2 0.0 2 6 33.3 1 3 4 5 4 0 1 1 -33
+p486
+aVJavaris Crittenton WAS 01/02/2009 WAS @ BOS L 21 5 1 2 50.0 0 0 - 3 4 75.0 1 3 4 4 1 0 2 0 -3
+p487
+aVOleksiy Pecherov WAS 01/02/2009 WAS @ BOS L 10 6 2 5 40.0 1 3 33.3 1 2 50.0 1 2 3 0 0 0 0 5 1
+p488
+aVJuan Dixon WAS 01/02/2009 WAS @ BOS L 14 4 2 6 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 0 9
+p489
+aVNick Young WAS 01/02/2009 WAS @ BOS L 17 15 4 6 66.7 0 1 0.0 7 7 100.0 1 0 1 0 0 0 0 0 1
+p490
+aVAntawn Jamison WAS 01/02/2009 WAS @ BOS L 32 14 6 20 30.0 0 3 0.0 2 4 50.0 4 5 9 2 2 0 2 2 -22
+p491
+aVDominic McGuire WAS 01/02/2009 WAS @ BOS L 30 4 1 4 25.0 0 0 - 2 2 100.0 1 2 3 4 1 2 0 2 -23
+p492
+aVDarius Songaila WAS 01/02/2009 WAS @ BOS L 20 4 2 6 33.3 0 0 - 0 0 - 2 2 4 1 1 1 0 2 -9
+p493
+aVAndray Blatche WAS 01/02/2009 WAS @ BOS L 7 4 2 4 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -9
+p494
+aVEtan Thomas WAS 01/02/2009 WAS @ BOS L 14 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 1 1 2 -2
+p495
+aVNick Young WAS 12/30/2008 WAS @ NOH L 21 7 3 8 37.5 0 2 0.0 1 2 50.0 0 1 1 1 0 0 0 0 -9
+p496
+aVDarius Songaila WAS 12/30/2008 WAS @ NOH L 20 7 3 6 50.0 0 0 - 1 1 100.0 0 0 0 1 1 0 0 4 -6
+p497
+aVDominic McGuire WAS 12/30/2008 WAS @ NOH L 29 4 2 4 50.0 0 0 - 0 1 0.0 1 7 8 0 1 0 2 3 -8
+p498
+aVJuan Dixon WAS 12/30/2008 WAS @ NOH L 24 4 2 8 25.0 0 1 0.0 0 0 - 0 1 1 5 0 0 2 1 -11
+p499
+aVAntawn Jamison WAS 12/30/2008 WAS @ NOH L 42 22 10 25 40.0 0 3 0.0 2 4 50.0 1 11 12 1 0 0 0 2 -7
+p500
+aVAndray Blatche WAS 12/30/2008 WAS @ NOH L 24 11 5 8 62.5 0 0 - 1 1 100.0 1 3 4 2 0 1 0 4 -5
+p501
+aVJaVale McGee WAS 12/30/2008 WAS @ NOH L 5 1 0 2 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 0 -2
+p502
+aVEtan Thomas WAS 12/30/2008 WAS @ NOH L 16 7 3 3 100.0 0 0 - 1 1 100.0 2 1 3 0 0 0 0 2 -4
+p503
+aVMike James WAS 12/30/2008 WAS @ NOH L 29 16 6 12 50.0 0 2 0.0 4 4 100.0 1 0 1 7 0 0 1 6 -10
+p504
+aVJavaris Crittenton WAS 12/30/2008 WAS @ NOH L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 1 0
+p505
+aVDeShawn Stevenson WAS 12/30/2008 WAS @ NOH L 24 6 2 3 66.7 1 1 100.0 1 2 50.0 1 2 3 1 0 0 1 1 2
+p506
+aVJuan Dixon WAS 12/29/2008 WAS @ HOU W 10 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 0 -2
+p507
+aVDarius Songaila WAS 12/29/2008 WAS @ HOU W 19 7 3 7 42.9 0 0 - 1 2 50.0 1 3 4 4 1 1 0 2 3
+p508
+aVAntawn Jamison WAS 12/29/2008 WAS @ HOU W 37 30 11 23 47.8 0 3 0.0 8 8 100.0 3 9 12 3 0 2 0 2 8
+p509
+aVMike James WAS 12/29/2008 WAS @ HOU W 34 12 6 15 40.0 0 3 0.0 0 1 0.0 0 1 1 2 1 0 1 3 0
+p510
+aVDeShawn Stevenson WAS 12/29/2008 WAS @ HOU W 23 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 2 1 0 0 0 1
+p511
+aVDominic McGuire WAS 12/29/2008 WAS @ HOU W 36 0 0 1 0.0 0 0 - 0 0 - 0 8 8 6 2 4 3 2 -6
+p512
+aVJaVale McGee WAS 12/29/2008 WAS @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 3
+p513
+aVAndray Blatche WAS 12/29/2008 WAS @ HOU W 36 16 6 14 42.9 0 1 0.0 4 4 100.0 2 6 8 5 0 0 2 3 -13
+p514
+aVEtan Thomas WAS 12/29/2008 WAS @ HOU W 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 13
+p515
+aVNick Young WAS 12/29/2008 WAS @ HOU W 23 14 6 11 54.5 0 2 0.0 2 2 100.0 0 2 2 1 0 0 2 3 0
+p516
+aVJavaris Crittenton WAS 12/29/2008 WAS @ HOU W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p517
+aVAndray Blatche WAS 12/27/2008 WAS vs. OKC W 37 19 8 14 57.1 0 0 - 3 3 100.0 7 8 15 4 3 1 0 3 16
+p518
+aVDominic McGuire WAS 12/27/2008 WAS vs. OKC W 31 12 5 10 50.0 0 0 - 2 3 66.7 3 5 8 4 0 1 1 3 7
+p519
+aVNick Young WAS 12/27/2008 WAS vs. OKC W 22 9 4 13 30.8 0 2 0.0 1 2 50.0 1 2 3 1 1 0 1 2 -5
+p520
+aVJuan Dixon WAS 12/27/2008 WAS vs. OKC W 16 13 6 11 54.5 1 3 33.3 0 0 - 2 0 2 2 2 0 2 0 8
+p521
+aVJaVale McGee WAS 12/27/2008 WAS vs. OKC W 3 2 1 2 50.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 0 -2
+p522
+aVEtan Thomas WAS 12/27/2008 WAS vs. OKC W 18 4 2 6 33.3 0 0 - 0 0 - 3 4 7 0 0 2 0 2 11
+p523
+aVAntawn Jamison WAS 12/27/2008 WAS vs. OKC W 37 29 12 22 54.5 0 1 0.0 5 7 71.4 3 2 5 3 3 0 2 5 1
+p524
+aVMike James WAS 12/27/2008 WAS vs. OKC W 34 9 4 14 28.6 1 7 14.3 0 0 - 0 2 2 11 1 0 2 0 11
+p525
+aVDarius Songaila WAS 12/27/2008 WAS vs. OKC W 11 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 1 1 3 0 -6
+p526
+aVDeShawn Stevenson WAS 12/27/2008 WAS vs. OKC W 31 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 6 1 0 0 1 4
+p527
+aVAndray Blatche WAS 12/25/2008 WAS @ CLE L 35 12 6 12 50.0 0 0 - 0 0 - 1 5 6 2 2 1 1 3 -4
+p528
+aVDeShawn Stevenson WAS 12/25/2008 WAS @ CLE L 21 4 2 8 25.0 0 5 0.0 0 2 0.0 1 1 2 1 2 0 1 1 -7
+p529
+aVMike James WAS 12/25/2008 WAS @ CLE L 36 26 10 14 71.4 5 8 62.5 1 1 100.0 0 4 4 3 1 0 5 2 8
+p530
+aVCaron Butler WAS 12/25/2008 WAS @ CLE L 39 6 3 13 23.1 0 3 0.0 0 0 - 1 5 6 10 0 1 4 4 2
+p531
+aVAntawn Jamison WAS 12/25/2008 WAS @ CLE L 41 28 11 21 52.4 3 8 37.5 3 4 75.0 1 5 6 1 1 1 3 6 0
+p532
+aVDarius Songaila WAS 12/25/2008 WAS @ CLE L 19 8 4 9 44.4 0 0 - 0 0 - 1 2 3 0 1 0 1 1 -3
+p533
+aVEtan Thomas WAS 12/25/2008 WAS @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p534
+aVNick Young WAS 12/25/2008 WAS @ CLE L 11 3 1 5 20.0 1 1 100.0 0 0 - 1 2 3 2 0 0 1 1 -13
+p535
+aVDominic McGuire WAS 12/25/2008 WAS @ CLE L 36 2 1 5 20.0 0 0 - 0 0 - 5 6 11 7 0 1 0 2 -5
+p536
+aVAntawn Jamison WAS 12/23/2008 WAS @ CHA L 40 14 5 18 27.8 2 5 40.0 2 2 100.0 2 4 6 0 0 0 1 2 -16
+p537
+aVNick Young WAS 12/23/2008 WAS @ CHA L 20 6 3 10 30.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 14
+p538
+aVDeShawn Stevenson WAS 12/23/2008 WAS @ CHA L 26 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 2 0 0 0 0 -5
+p539
+aVCaron Butler WAS 12/23/2008 WAS @ CHA L 40 31 12 21 57.1 1 4 25.0 6 6 100.0 2 4 6 4 2 0 2 3 -7
+p540
+aVAndray Blatche WAS 12/23/2008 WAS @ CHA L 23 5 2 10 20.0 0 0 - 1 2 50.0 4 4 8 1 1 1 1 5 -8
+p541
+aVMike James WAS 12/23/2008 WAS @ CHA L 37 9 4 16 25.0 1 6 16.7 0 0 - 0 2 2 1 2 1 1 0 -20
+p542
+aVDominic McGuire WAS 12/23/2008 WAS @ CHA L 23 0 0 4 0.0 0 0 - 0 0 - 3 7 10 0 0 1 2 3 -3
+p543
+aVJaVale McGee WAS 12/23/2008 WAS @ CHA L 9 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 1 1 0 2 2
+p544
+aVDarius Songaila WAS 12/23/2008 WAS @ CHA L 22 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 0 2 0 1 5 3
+p545
+aVDominic McGuire WAS 12/21/2008 WAS vs. DAL L 24 7 2 5 40.0 0 0 - 3 4 75.0 2 3 5 1 3 0 1 1 -9
+p546
+aVJavaris Crittenton WAS 12/21/2008 WAS vs. DAL L 10 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 1 0 0 0 -13
+p547
+aVJaVale McGee WAS 12/21/2008 WAS vs. DAL L 12 2 0 0 - 0 0 - 2 4 50.0 1 2 3 0 1 0 1 0 -11
+p548
+aVNick Young WAS 12/21/2008 WAS vs. DAL L 13 4 0 4 0.0 0 0 - 4 4 100.0 0 1 1 0 0 0 2 0 -2
+p549
+aVDarius Songaila WAS 12/21/2008 WAS vs. DAL L 24 10 5 5 100.0 0 0 - 0 0 - 3 0 3 2 1 0 1 2 3
+p550
+aVCaron Butler WAS 12/21/2008 WAS vs. DAL L 43 18 6 16 37.5 3 4 75.0 3 3 100.0 1 5 6 4 2 0 3 2 -3
+p551
+aVDeShawn Stevenson WAS 12/21/2008 WAS vs. DAL L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 3 1 0 1 1 -6
+p552
+aVAntawn Jamison WAS 12/21/2008 WAS vs. DAL L 40 22 9 20 45.0 1 3 33.3 3 4 75.0 3 5 8 1 1 0 1 3 -10
+p553
+aVMike James WAS 12/21/2008 WAS vs. DAL L 39 17 6 15 40.0 1 2 50.0 4 4 100.0 3 5 8 5 2 0 5 3 0
+p554
+aVAndray Blatche WAS 12/21/2008 WAS vs. DAL L 19 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 1 0 1 1 5 -4
+p555
+aVAndray Blatche WAS 12/19/2008 WAS vs. PHI L 31 13 5 10 50.0 0 0 - 3 6 50.0 2 6 8 3 1 1 2 4 10
+p556
+aVMike James WAS 12/19/2008 WAS vs. PHI L 37 16 6 10 60.0 4 5 80.0 0 0 - 2 4 6 2 1 1 2 3 1
+p557
+aVCaron Butler WAS 12/19/2008 WAS vs. PHI L 38 20 7 14 50.0 2 5 40.0 4 4 100.0 1 6 7 4 2 0 6 5 0
+p558
+aVNick Young WAS 12/19/2008 WAS vs. PHI L 20 12 5 10 50.0 1 3 33.3 1 2 50.0 0 2 2 3 0 0 0 3 -4
+p559
+aVDeShawn Stevenson WAS 12/19/2008 WAS vs. PHI L 26 6 2 8 25.0 2 6 33.3 0 0 - 1 2 3 2 0 0 2 2 -6
+p560
+aVJuan Dixon WAS 12/19/2008 WAS vs. PHI L 7 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 1 0 0 1 2 -2
+p561
+aVDarius Songaila WAS 12/19/2008 WAS vs. PHI L 18 2 1 4 25.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -16
+p562
+aVJaVale McGee WAS 12/19/2008 WAS vs. PHI L 9 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -4
+p563
+aVJavaris Crittenton WAS 12/19/2008 WAS vs. PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p564
+aVAntawn Jamison WAS 12/19/2008 WAS vs. PHI L 41 23 9 21 42.9 0 6 0.0 5 7 71.4 5 5 10 5 0 1 2 4 -8
+p565
+aVDominic McGuire WAS 12/19/2008 WAS vs. PHI L 11 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 1 0 0 0 1 1
+p566
+aVDominic McGuire WAS 12/17/2008 WAS @ DET L 12 2 0 3 0.0 0 0 - 2 2 100.0 2 1 3 1 0 0 0 1 -1
+p567
+aVNick Young WAS 12/17/2008 WAS @ DET L 16 2 1 9 11.1 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -11
+p568
+aVJuan Dixon WAS 12/17/2008 WAS @ DET L 15 8 2 5 40.0 0 1 0.0 4 6 66.7 1 1 2 0 1 0 1 3 -11
+p569
+aVAntawn Jamison WAS 12/17/2008 WAS @ DET L 41 14 5 18 27.8 1 4 25.0 3 4 75.0 2 9 11 0 0 1 1 1 -18
+p570
+aVJaVale McGee WAS 12/17/2008 WAS @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -3
+p571
+aVAndray Blatche WAS 12/17/2008 WAS @ DET L 35 12 4 11 36.4 0 0 - 4 4 100.0 6 5 11 4 0 1 2 3 -4
+p572
+aVMike James WAS 12/17/2008 WAS @ DET L 33 16 7 15 46.7 2 4 50.0 0 0 - 0 3 3 2 2 0 1 2 -3
+p573
+aVCaron Butler WAS 12/17/2008 WAS @ DET L 36 5 1 4 25.0 0 1 0.0 3 3 100.0 0 5 5 4 0 0 6 4 -14
+p574
+aVDarius Songaila WAS 12/17/2008 WAS @ DET L 17 6 3 4 75.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -2
+p575
+aVDeShawn Stevenson WAS 12/17/2008 WAS @ DET L 32 9 3 9 33.3 1 2 50.0 2 8 25.0 1 3 4 0 0 0 0 4 -3
+p576
+aVDarius Songaila WAS 12/15/2008 WAS vs. IND L 11 8 4 4 100.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 -3
+p577
+aVJavaris Crittenton WAS 12/15/2008 WAS vs. IND L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 0 0
+p578
+aVMike James WAS 12/15/2008 WAS vs. IND L 18 1 0 5 0.0 0 2 0.0 1 2 50.0 0 0 0 6 1 0 1 0 -17
+p579
+aVCaron Butler WAS 12/15/2008 WAS vs. IND L 39 26 9 18 50.0 2 5 40.0 6 8 75.0 1 7 8 5 1 1 4 4 -8
+p580
+aVDeShawn Stevenson WAS 12/15/2008 WAS vs. IND L 33 6 2 6 33.3 1 5 20.0 1 1 100.0 0 5 5 3 0 1 2 6 -10
+p581
+aVDominic McGuire WAS 12/15/2008 WAS vs. IND L 15 1 0 2 0.0 0 0 - 1 2 50.0 3 2 5 1 0 1 0 0 -10
+p582
+aVJuan Dixon WAS 12/15/2008 WAS vs. IND L 31 5 2 8 25.0 1 3 33.3 0 0 - 0 3 3 3 1 0 4 3 -10
+p583
+aVAndray Blatche WAS 12/15/2008 WAS vs. IND L 33 19 7 15 46.7 0 1 0.0 5 7 71.4 0 2 2 1 0 1 0 3 -11
+p584
+aVOleksiy Pecherov WAS 12/15/2008 WAS vs. IND L 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p585
+aVJaVale McGee WAS 12/15/2008 WAS vs. IND L 9 4 0 1 0.0 0 0 - 4 4 100.0 1 0 1 0 0 2 0 1 -7
+p586
+aVNick Young WAS 12/15/2008 WAS vs. IND L 5 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p587
+aVAntawn Jamison WAS 12/15/2008 WAS vs. IND L 40 26 9 16 56.3 3 6 50.0 5 7 71.4 4 11 15 0 1 1 3 4 -19
+p588
+aVAndray Blatche WAS 12/13/2008 WAS @ PHI L 31 7 2 6 33.3 0 0 - 3 4 75.0 2 4 6 3 1 1 2 5 3
+p589
+aVMike James WAS 12/13/2008 WAS @ PHI L 24 16 6 12 50.0 1 3 33.3 3 4 75.0 1 1 2 1 0 0 1 2 -3
+p590
+aVJuan Dixon WAS 12/13/2008 WAS @ PHI L 30 10 4 9 44.4 2 3 66.7 0 0 - 0 2 2 5 1 0 3 6 -12
+p591
+aVDeShawn Stevenson WAS 12/13/2008 WAS @ PHI L 38 16 6 12 50.0 2 6 33.3 2 4 50.0 1 2 3 3 0 0 4 3 -13
+p592
+aVAntawn Jamison WAS 12/13/2008 WAS @ PHI L 40 17 7 18 38.9 2 5 40.0 1 3 33.3 0 9 9 3 0 1 1 3 -10
+p593
+aVDarius Songaila WAS 12/13/2008 WAS @ PHI L 14 4 1 2 50.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 2 -6
+p594
+aVCaron Butler WAS 12/13/2008 WAS @ PHI L 41 15 6 17 35.3 0 5 0.0 3 4 75.0 4 4 8 4 2 0 3 3 -21
+p595
+aVJaVale McGee WAS 12/13/2008 WAS @ PHI L 6 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 2 -12
+p596
+aVNick Young WAS 12/13/2008 WAS @ PHI L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p597
+aVDominic McGuire WAS 12/13/2008 WAS @ PHI L 12 4 2 4 50.0 0 0 - 0 0 - 3 2 5 2 0 0 0 1 1
+p598
+aVJaVale McGee WAS 12/11/2008 WAS vs. BOS L 26 11 4 6 66.7 0 0 - 3 6 50.0 3 3 6 0 0 3 2 4 -22
+p599
+aVDeShawn Stevenson WAS 12/11/2008 WAS vs. BOS L 22 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 2 0 0 4 2 0
+p600
+aVCaron Butler WAS 12/11/2008 WAS vs. BOS L 37 19 6 12 50.0 0 2 0.0 7 7 100.0 0 3 3 4 1 1 2 2 -16
+p601
+aVAntawn Jamison WAS 12/11/2008 WAS vs. BOS L 33 17 7 16 43.8 2 5 40.0 1 1 100.0 2 3 5 2 1 1 0 5 -21
+p602
+aVNick Young WAS 12/11/2008 WAS vs. BOS L 18 4 0 4 0.0 0 1 0.0 4 4 100.0 0 2 2 0 0 0 0 0 -29
+p603
+aVJuan Dixon WAS 12/11/2008 WAS vs. BOS L 34 17 6 12 50.0 1 4 25.0 4 4 100.0 0 2 2 7 4 1 4 4 -18
+p604
+aVDominic McGuire WAS 12/11/2008 WAS vs. BOS L 12 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 0 0 0 2 2 -19
+p605
+aVAndray Blatche WAS 12/11/2008 WAS vs. BOS L 16 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 1 2 3 2 -8
+p606
+aVJavaris Crittenton WAS 12/11/2008 WAS vs. BOS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 4 0 -7
+p607
+aVEtan Thomas WAS 12/11/2008 WAS vs. BOS L 7 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 0 3 -6
+p608
+aVDarius Songaila WAS 12/11/2008 WAS vs. BOS L 19 9 4 7 57.1 0 0 - 1 1 100.0 0 1 1 0 0 0 1 3 -15
+p609
+aVMike James WAS 12/11/2008 WAS vs. BOS L 11 1 0 6 0.0 0 2 0.0 1 2 50.0 0 1 1 1 1 0 0 1 -9
+p610
+aVAndray Blatche WAS 12/09/2008 WAS vs. DET W 18 8 4 6 66.7 0 0 - 0 0 - 3 2 5 1 1 0 1 4 5
+p611
+aVDee Brown WAS 12/09/2008 WAS vs. DET W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -9
+p612
+aVNick Young WAS 12/09/2008 WAS vs. DET W 17 9 3 6 50.0 0 0 - 3 3 100.0 0 1 1 2 1 0 0 0 -3
+p613
+aVDeShawn Stevenson WAS 12/09/2008 WAS vs. DET W 33 3 1 8 12.5 1 4 25.0 0 0 - 0 3 3 1 0 0 1 0 7
+p614
+aVDarius Songaila WAS 12/09/2008 WAS vs. DET W 28 15 7 13 53.8 0 0 - 1 2 50.0 2 3 5 0 0 0 0 2 12
+p615
+aVCaron Butler WAS 12/09/2008 WAS vs. DET W 41 33 9 15 60.0 1 4 25.0 14 14 100.0 1 4 5 6 1 0 2 3 12
+p616
+aVJaVale McGee WAS 12/09/2008 WAS vs. DET W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p617
+aVJuan Dixon WAS 12/09/2008 WAS vs. DET W 24 16 5 7 71.4 2 3 66.7 4 4 100.0 1 3 4 7 0 1 1 2 33
+p618
+aVDominic McGuire WAS 12/09/2008 WAS vs. DET W 13 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 1 1 0 0 8
+p619
+aVAntonio Daniels WAS 12/09/2008 WAS vs. DET W 16 5 1 3 33.3 0 0 - 3 4 75.0 0 1 1 2 0 0 0 2 -2
+p620
+aVAntawn Jamison WAS 12/09/2008 WAS vs. DET W 39 10 4 12 33.3 0 2 0.0 2 4 50.0 2 9 11 4 3 0 1 2 10
+p621
+aVDeShawn Stevenson WAS 12/06/2008 WAS @ CHI L 33 7 3 9 33.3 1 6 16.7 0 0 - 0 3 3 4 1 0 2 3 -2
+p622
+aVJuan Dixon WAS 12/06/2008 WAS @ CHI L 12 8 3 3 100.0 2 2 100.0 0 0 - 0 1 1 4 0 0 2 2 7
+p623
+aVAndray Blatche WAS 12/06/2008 WAS @ CHI L 20 14 6 9 66.7 1 2 50.0 1 1 100.0 1 3 4 0 0 0 2 2 -18
+p624
+aVDarius Songaila WAS 12/06/2008 WAS @ CHI L 24 10 5 6 83.3 0 0 - 0 0 - 1 3 4 0 0 0 1 1 3
+p625
+aVAntonio Daniels WAS 12/06/2008 WAS @ CHI L 16 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 5 0 0 0 0 -12
+p626
+aVDee Brown WAS 12/06/2008 WAS @ CHI L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 1 1 -2
+p627
+aVDominic McGuire WAS 12/06/2008 WAS @ CHI L 14 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 1 0 3 -4
+p628
+aVAntawn Jamison WAS 12/06/2008 WAS @ CHI L 39 23 8 18 44.4 2 5 40.0 5 7 71.4 5 7 12 2 1 1 3 5 -3
+p629
+aVCaron Butler WAS 12/06/2008 WAS @ CHI L 36 27 11 19 57.9 2 5 40.0 3 3 100.0 1 7 8 6 1 0 3 3 0
+p630
+aVJaVale McGee WAS 12/06/2008 WAS @ CHI L 11 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 4 0 2 -1
+p631
+aVNick Young WAS 12/06/2008 WAS @ CHI L 18 3 1 6 16.7 0 2 0.0 1 2 50.0 0 2 2 4 0 0 1 1 -8
+p632
+aVEtan Thomas WAS 12/06/2008 WAS @ CHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 5
+p633
+aVDarius Songaila WAS 12/05/2008 WAS vs. LAL L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -7
+p634
+aVJaVale McGee WAS 12/05/2008 WAS vs. LAL L 9 8 3 6 50.0 0 0 - 2 2 100.0 2 0 2 0 0 0 2 1 -17
+p635
+aVAndray Blatche WAS 12/05/2008 WAS vs. LAL L 29 18 8 17 47.1 1 1 100.0 1 1 100.0 5 7 12 3 2 0 1 4 14
+p636
+aVNick Young WAS 12/05/2008 WAS vs. LAL L 24 13 5 10 50.0 1 1 100.0 2 2 100.0 0 2 2 3 1 1 1 2 25
+p637
+aVEtan Thomas WAS 12/05/2008 WAS vs. LAL L 14 6 1 2 50.0 0 0 - 4 4 100.0 1 1 2 0 0 0 3 3 4
+p638
+aVAntawn Jamison WAS 12/05/2008 WAS vs. LAL L 40 15 6 13 46.2 1 4 25.0 2 2 100.0 1 11 12 2 1 1 3 1 1
+p639
+aVDeShawn Stevenson WAS 12/05/2008 WAS vs. LAL L 24 3 1 4 25.0 1 3 33.3 0 3 0.0 0 2 2 6 2 1 3 3 -17
+p640
+aVCaron Butler WAS 12/05/2008 WAS vs. LAL L 40 26 10 22 45.5 0 2 0.0 6 7 85.7 6 3 9 4 3 0 3 5 -7
+p641
+aVAntonio Daniels WAS 12/05/2008 WAS vs. LAL L 30 10 3 7 42.9 1 2 50.0 3 4 75.0 0 3 3 4 1 0 0 2 5
+p642
+aVDominic McGuire WAS 12/05/2008 WAS vs. LAL L 10 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 1 1 0 2
+p643
+aVDee Brown WAS 12/05/2008 WAS vs. LAL L 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -13
+p644
+aVCaron Butler WAS 12/03/2008 WAS vs. POR L 39 16 6 13 46.2 0 2 0.0 4 4 100.0 1 4 5 3 0 1 3 4 -2
+p645
+aVDeShawn Stevenson WAS 12/03/2008 WAS vs. POR L 31 8 2 5 40.0 0 2 0.0 4 7 57.1 0 5 5 3 0 0 0 1 -3
+p646
+aVEtan Thomas WAS 12/03/2008 WAS vs. POR L 4 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p647
+aVAndray Blatche WAS 12/03/2008 WAS vs. POR L 21 11 5 8 62.5 0 0 - 1 2 50.0 2 0 2 0 0 0 2 2 8
+p648
+aVNick Young WAS 12/03/2008 WAS vs. POR L 20 11 4 9 44.4 3 4 75.0 0 0 - 1 4 5 1 0 0 2 2 -2
+p649
+aVDarius Songaila WAS 12/03/2008 WAS vs. POR L 18 8 4 6 66.7 0 0 - 0 0 - 0 1 1 3 1 0 0 3 -5
+p650
+aVDominic McGuire WAS 12/03/2008 WAS vs. POR L 12 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -2
+p651
+aVAntawn Jamison WAS 12/03/2008 WAS vs. POR L 41 22 10 17 58.8 2 6 33.3 0 0 - 1 3 4 5 1 0 1 1 -2
+p652
+aVDee Brown WAS 12/03/2008 WAS vs. POR L 16 4 2 3 66.7 0 0 - 0 0 - 0 2 2 3 1 0 2 1 3
+p653
+aVJaVale McGee WAS 12/03/2008 WAS vs. POR L 18 6 3 7 42.9 0 0 - 0 0 - 2 5 7 0 2 3 0 4 -10
+p654
+aVAntonio Daniels WAS 12/03/2008 WAS vs. POR L 20 4 0 2 0.0 0 1 0.0 4 4 100.0 0 0 0 3 0 0 1 0 -14
+p655
+aVDee Brown WAS 12/02/2008 WAS @ NJN W 25 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 7 2 0 0 3 23
+p656
+aVJaVale McGee WAS 12/02/2008 WAS @ NJN W 24 8 4 9 44.4 0 0 - 0 1 0.0 2 3 5 0 0 3 0 4 8
+p657
+aVDeShawn Stevenson WAS 12/02/2008 WAS @ NJN W 28 21 7 13 53.8 5 8 62.5 2 2 100.0 0 3 3 5 0 0 0 0 22
+p658
+aVAntawn Jamison WAS 12/02/2008 WAS @ NJN W 31 22 10 19 52.6 2 5 40.0 0 0 - 3 5 8 1 2 0 0 2 25
+p659
+aVAndray Blatche WAS 12/02/2008 WAS @ NJN W 14 3 1 5 20.0 0 0 - 1 1 100.0 1 1 2 2 0 0 2 2 5
+p660
+aVCaron Butler WAS 12/02/2008 WAS @ NJN W 38 22 9 16 56.3 2 6 33.3 2 2 100.0 0 5 5 10 0 0 2 0 13
+p661
+aVDominic McGuire WAS 12/02/2008 WAS @ NJN W 13 2 1 2 50.0 0 0 - 0 2 0.0 2 4 6 0 1 1 0 4 1
+p662
+aVNick Young WAS 12/02/2008 WAS @ NJN W 20 12 5 8 62.5 1 1 100.0 1 1 100.0 0 1 1 2 0 0 1 1 -2
+p663
+aVDarius Songaila WAS 12/02/2008 WAS @ NJN W 27 4 2 6 33.3 0 0 - 0 0 - 1 4 5 1 0 0 1 4 5
+p664
+aVAntonio Daniels WAS 12/02/2008 WAS @ NJN W 20 6 2 2 100.0 1 1 100.0 1 2 50.0 0 2 2 5 0 0 1 1 0
+p665
+aVDarius Songaila WAS 11/29/2008 WAS vs. ATL L 24 16 5 8 62.5 0 0 - 6 6 100.0 2 2 4 1 0 0 1 5 6
+p666
+aVDee Brown WAS 11/29/2008 WAS vs. ATL L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -16
+p667
+aVDominic McGuire WAS 11/29/2008 WAS vs. ATL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p668
+aVNick Young WAS 11/29/2008 WAS vs. ATL L 18 5 2 5 40.0 1 2 50.0 0 0 - 2 2 4 2 1 0 1 2 9
+p669
+aVAndray Blatche WAS 11/29/2008 WAS vs. ATL L 19 10 4 9 44.4 0 2 0.0 2 2 100.0 2 2 4 2 1 1 1 5 10
+p670
+aVCaron Butler WAS 11/29/2008 WAS vs. ATL L 40 21 8 22 36.4 1 3 33.3 4 7 57.1 5 5 10 5 4 0 4 2 -9
+p671
+aVJaVale McGee WAS 11/29/2008 WAS vs. ATL L 13 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -14
+p672
+aVAntawn Jamison WAS 11/29/2008 WAS vs. ATL L 41 26 10 15 66.7 2 2 100.0 4 5 80.0 3 10 13 5 1 0 1 0 -10
+p673
+aVEtan Thomas WAS 11/29/2008 WAS vs. ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p674
+aVAntonio Daniels WAS 11/29/2008 WAS vs. ATL L 38 10 3 7 42.9 2 3 66.7 2 2 100.0 0 3 3 3 2 0 1 0 14
+p675
+aVDeShawn Stevenson WAS 11/29/2008 WAS vs. ATL L 34 8 1 9 11.1 0 5 0.0 6 9 66.7 1 2 3 3 0 0 0 2 -15
+p676
+aVDarius Songaila WAS 11/27/2008 WAS vs. ORL L 22 12 6 9 66.7 0 0 - 0 0 - 0 3 3 1 1 0 0 3 8
+p677
+aVEtan Thomas WAS 11/27/2008 WAS vs. ORL L 15 6 2 4 50.0 0 0 - 2 4 50.0 2 4 6 0 0 0 2 3 -15
+p678
+aVJaVale McGee WAS 11/27/2008 WAS vs. ORL L 16 6 2 6 33.3 0 0 - 2 2 100.0 2 5 7 0 1 1 1 5 -1
+p679
+aVNick Young WAS 11/27/2008 WAS vs. ORL L 23 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 5
+p680
+aVAndray Blatche WAS 11/27/2008 WAS vs. ORL L 12 5 2 6 33.3 0 0 - 1 2 50.0 1 4 5 1 1 1 1 6 9
+p681
+aVDominic McGuire WAS 11/27/2008 WAS vs. ORL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 1
+p682
+aVCaron Butler WAS 11/27/2008 WAS vs. ORL L 39 25 9 18 50.0 1 6 16.7 6 6 100.0 1 1 2 6 1 0 4 1 -18
+p683
+aVDeShawn Stevenson WAS 11/27/2008 WAS vs. ORL L 28 6 2 7 28.6 2 3 66.7 0 0 - 0 3 3 6 0 0 1 0 -23
+p684
+aVDee Brown WAS 11/27/2008 WAS vs. ORL L 22 2 1 6 16.7 0 3 0.0 0 0 - 1 3 4 2 1 0 2 3 -13
+p685
+aVAntawn Jamison WAS 11/27/2008 WAS vs. ORL L 37 17 7 15 46.7 0 4 0.0 3 5 60.0 4 8 12 2 2 0 1 3 -28
+p686
+aVAntonio Daniels WAS 11/27/2008 WAS vs. ORL L 20 5 1 4 25.0 0 0 - 3 3 100.0 0 4 4 2 0 0 1 2 0
+p687
+aVDarius Songaila WAS 11/25/2008 WAS vs. GSW W 14 2 1 6 16.7 0 0 - 0 0 - 1 2 3 2 1 0 0 1 7
+p688
+aVNick Young WAS 11/25/2008 WAS vs. GSW W 22 8 4 7 57.1 0 0 - 0 0 - 1 3 4 0 1 2 1 1 8
+p689
+aVAntawn Jamison WAS 11/25/2008 WAS vs. GSW W 38 25 11 20 55.0 0 3 0.0 3 5 60.0 6 5 11 2 0 0 3 3 25
+p690
+aVJaVale McGee WAS 11/25/2008 WAS vs. GSW W 20 14 7 15 46.7 0 0 - 0 0 - 4 1 5 2 1 1 1 4 3
+p691
+aVAndray Blatche WAS 11/25/2008 WAS vs. GSW W 29 25 11 18 61.1 1 1 100.0 2 2 100.0 5 7 12 5 2 5 1 3 21
+p692
+aVCaron Butler WAS 11/25/2008 WAS vs. GSW W 38 35 13 19 68.4 3 4 75.0 6 7 85.7 1 7 8 6 3 0 2 1 23
+p693
+aVDominic McGuire WAS 11/25/2008 WAS vs. GSW W 17 2 1 5 20.0 0 0 - 0 0 - 4 2 6 0 2 1 0 3 5
+p694
+aVDeShawn Stevenson WAS 11/25/2008 WAS vs. GSW W 32 1 0 7 0.0 0 3 0.0 1 2 50.0 1 2 3 7 1 0 0 0 17
+p695
+aVDee Brown WAS 11/25/2008 WAS vs. GSW W 21 10 4 4 100.0 2 2 100.0 0 1 0.0 0 2 2 3 1 0 2 3 11
+p696
+aVJuan Dixon WAS 11/25/2008 WAS vs. GSW W 9 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 2 0 0
+p697
+aVJaVale McGee WAS 11/22/2008 WAS @ NYK L 9 9 4 8 50.0 0 0 - 1 1 100.0 1 2 3 0 0 0 0 3 -2
+p698
+aVAntawn Jamison WAS 11/22/2008 WAS @ NYK L 42 29 9 13 69.2 2 2 100.0 9 10 90.0 3 10 13 0 2 0 3 3 -9
+p699
+aVAndray Blatche WAS 11/22/2008 WAS @ NYK L 10 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -2
+p700
+aVCaron Butler WAS 11/22/2008 WAS @ NYK L 32 23 8 18 44.4 1 3 33.3 6 7 85.7 3 1 4 3 3 0 4 2 -10
+p701
+aVDeShawn Stevenson WAS 11/22/2008 WAS @ NYK L 37 10 4 14 28.6 2 10 20.0 0 0 - 0 3 3 8 0 0 1 0 1
+p702
+aVNick Young WAS 11/22/2008 WAS @ NYK L 19 17 6 10 60.0 1 2 50.0 4 5 80.0 2 2 4 2 0 0 0 4 3
+p703
+aVDominic McGuire WAS 11/22/2008 WAS @ NYK L 19 4 2 3 66.7 0 0 - 0 0 - 3 6 9 1 0 2 0 3 13
+p704
+aVJuan Dixon WAS 11/22/2008 WAS @ NYK L 13 0 0 5 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -8
+p705
+aVEtan Thomas WAS 11/22/2008 WAS @ NYK L 12 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 0 1 0 0 -7
+p706
+aVDee Brown WAS 11/22/2008 WAS @ NYK L 22 2 1 5 20.0 0 2 0.0 0 0 - 1 2 3 2 2 0 0 2 -10
+p707
+aVDarius Songaila WAS 11/22/2008 WAS @ NYK L 25 13 5 12 41.7 0 0 - 3 3 100.0 2 2 4 1 2 0 0 1 6
+p708
+aVNick Young WAS 11/21/2008 WAS vs. HOU L 15 3 1 5 20.0 0 2 0.0 1 2 50.0 0 1 1 0 0 0 0 2 -9
+p709
+aVAndray Blatche WAS 11/21/2008 WAS vs. HOU L 20 14 6 9 66.7 0 0 - 2 2 100.0 2 2 4 1 0 1 0 5 3
+p710
+aVAntonio Daniels WAS 11/21/2008 WAS vs. HOU L 19 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 1 2 -3
+p711
+aVJaVale McGee WAS 11/21/2008 WAS vs. HOU L 20 8 4 6 66.7 0 0 - 0 0 - 1 3 4 0 0 2 1 5 -9
+p712
+aVDee Brown WAS 11/21/2008 WAS vs. HOU L 15 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 0 0 0 2 1 4
+p713
+aVJuan Dixon WAS 11/21/2008 WAS vs. HOU L 18 8 4 8 50.0 0 2 0.0 0 0 - 0 0 0 3 2 0 1 2 -13
+p714
+aVCaron Butler WAS 11/21/2008 WAS vs. HOU L 39 12 5 15 33.3 0 1 0.0 2 2 100.0 2 5 7 4 2 0 3 3 1
+p715
+aVDarius Songaila WAS 11/21/2008 WAS vs. HOU L 13 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 -13
+p716
+aVDeShawn Stevenson WAS 11/21/2008 WAS vs. HOU L 33 9 3 12 25.0 3 6 50.0 0 0 - 1 3 4 7 2 0 0 0 -8
+p717
+aVAntawn Jamison WAS 11/21/2008 WAS vs. HOU L 43 27 7 17 41.2 0 2 0.0 13 16 81.3 3 7 10 1 2 0 1 3 -8
+p718
+aVEtan Thomas WAS 11/21/2008 WAS vs. HOU L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -5
+p719
+aVNick Young WAS 11/19/2008 WAS @ ATL L 28 9 4 12 33.3 0 1 0.0 1 2 50.0 1 2 3 2 0 0 4 0 -3
+p720
+aVAndray Blatche WAS 11/19/2008 WAS @ ATL L 17 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 1 1 1 2 -4
+p721
+aVEtan Thomas WAS 11/19/2008 WAS @ ATL L 16 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 1 0 2 1 2 4
+p722
+aVCaron Butler WAS 11/19/2008 WAS @ ATL L 40 32 12 21 57.1 4 7 57.1 4 4 100.0 1 6 7 4 3 0 1 2 -3
+p723
+aVJuan Dixon WAS 11/19/2008 WAS @ ATL L 15 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 1 1 0 0 3 -1
+p724
+aVOleksiy Pecherov WAS 11/19/2008 WAS @ ATL L 4 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -4
+p725
+aVDarius Songaila WAS 11/19/2008 WAS @ ATL L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p726
+aVJaVale McGee WAS 11/19/2008 WAS @ ATL L 23 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 0 1 0 0 0 0
+p727
+aVAntawn Jamison WAS 11/19/2008 WAS @ ATL L 37 18 8 16 50.0 2 3 66.7 0 0 - 2 9 11 3 1 0 2 3 2
+p728
+aVDeShawn Stevenson WAS 11/19/2008 WAS @ ATL L 34 12 5 13 38.5 2 9 22.2 0 0 - 0 1 1 5 1 0 1 1 -3
+p729
+aVDee Brown WAS 11/19/2008 WAS @ ATL L 19 1 0 2 0.0 0 1 0.0 1 2 50.0 1 1 2 3 1 0 1 2 -3
+p730
+aVAntawn Jamison WAS 11/18/2008 WAS vs. MIA L 41 25 9 15 60.0 2 2 100.0 5 5 100.0 4 8 12 4 2 0 0 3 -4
+p731
+aVJuan Dixon WAS 11/18/2008 WAS vs. MIA L 30 8 4 12 33.3 0 1 0.0 0 0 - 0 0 0 5 0 1 0 2 -8
+p732
+aVEtan Thomas WAS 11/18/2008 WAS vs. MIA L 10 2 1 3 33.3 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -12
+p733
+aVDeShawn Stevenson WAS 11/18/2008 WAS vs. MIA L 25 3 0 5 0.0 0 2 0.0 3 4 75.0 0 2 2 3 1 0 2 3 -11
+p734
+aVNick Young WAS 11/18/2008 WAS vs. MIA L 31 12 4 12 33.3 0 1 0.0 4 4 100.0 1 2 3 2 2 0 4 4 5
+p735
+aVAndray Blatche WAS 11/18/2008 WAS vs. MIA L 15 6 3 6 50.0 0 0 - 0 1 0.0 1 1 2 0 1 0 2 2 5
+p736
+aVJaVale McGee WAS 11/18/2008 WAS vs. MIA L 28 7 3 7 42.9 0 0 - 1 1 100.0 0 4 4 0 0 1 1 1 4
+p737
+aVCaron Butler WAS 11/18/2008 WAS vs. MIA L 43 21 6 12 50.0 0 2 0.0 9 11 81.8 1 11 12 2 2 0 3 4 -9
+p738
+aVDee Brown WAS 11/18/2008 WAS vs. MIA L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p739
+aVDominic McGuire WAS 11/18/2008 WAS vs. MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p740
+aVDarius Songaila WAS 11/18/2008 WAS vs. MIA L 7 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 1 2 -3
+p741
+aVDominic McGuire WAS 11/14/2008 WAS @ MIA L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 2 0 1 2
+p742
+aVAntawn Jamison WAS 11/14/2008 WAS @ MIA L 31 15 7 14 50.0 1 2 50.0 0 0 - 3 7 10 1 2 1 1 2 -19
+p743
+aVDeShawn Stevenson WAS 11/14/2008 WAS @ MIA L 25 8 2 6 33.3 1 4 25.0 3 4 75.0 0 0 0 2 0 0 2 2 -20
+p744
+aVAndray Blatche WAS 11/14/2008 WAS @ MIA L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 1 -16
+p745
+aVOleksiy Pecherov WAS 11/14/2008 WAS @ MIA L 12 10 4 10 40.0 2 4 50.0 0 1 0.0 3 2 5 0 1 0 0 0 5
+p746
+aVJuan Dixon WAS 11/14/2008 WAS @ MIA L 21 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 3 0 0 4 1 -4
+p747
+aVEtan Thomas WAS 11/14/2008 WAS @ MIA L 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 1 -13
+p748
+aVNick Young WAS 11/14/2008 WAS @ MIA L 32 13 4 11 36.4 0 1 0.0 5 7 71.4 1 0 1 1 0 0 2 0 -19
+p749
+aVDarius Songaila WAS 11/14/2008 WAS @ MIA L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 2 1 3
+p750
+aVJaVale McGee WAS 11/14/2008 WAS @ MIA L 24 13 6 10 60.0 0 0 - 1 4 25.0 2 2 4 1 0 0 0 1 -10
+p751
+aVDee Brown WAS 11/14/2008 WAS @ MIA L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 0 0 3
+p752
+aVCaron Butler WAS 11/14/2008 WAS @ MIA L 28 6 3 10 30.0 0 1 0.0 0 0 - 1 4 5 1 2 0 0 1 -12
+p753
+aVAndray Blatche WAS 11/12/2008 WAS vs. UTA W 21 7 2 6 33.3 0 0 - 3 4 75.0 2 3 5 2 2 0 2 0 7
+p754
+aVEtan Thomas WAS 11/12/2008 WAS vs. UTA W 13 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 2 1 3 -8
+p755
+aVJuan Dixon WAS 11/12/2008 WAS vs. UTA W 19 8 3 8 37.5 2 4 50.0 0 0 - 0 4 4 2 0 0 2 1 4
+p756
+aVNick Young WAS 11/12/2008 WAS vs. UTA W 31 10 3 10 30.0 0 1 0.0 4 4 100.0 0 2 2 0 0 2 1 2 10
+p757
+aVAntonio Daniels WAS 11/12/2008 WAS vs. UTA W 13 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 2 1 0 2 2 -8
+p758
+aVCaron Butler WAS 11/12/2008 WAS vs. UTA W 39 27 9 20 45.0 1 1 100.0 8 9 88.9 5 4 9 3 1 2 5 1 5
+p759
+aVDarius Songaila WAS 11/12/2008 WAS vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 1 1 2
+p760
+aVJaVale McGee WAS 11/12/2008 WAS vs. UTA W 27 13 4 5 80.0 0 0 - 5 8 62.5 6 5 11 0 1 3 1 5 19
+p761
+aVDeShawn Stevenson WAS 11/12/2008 WAS vs. UTA W 30 7 2 6 33.3 1 3 33.3 2 2 100.0 0 1 1 2 2 0 0 0 7
+p762
+aVAntawn Jamison WAS 11/12/2008 WAS vs. UTA W 44 21 6 15 40.0 1 4 25.0 8 9 88.9 3 5 8 2 3 1 2 3 2
+p763
+aVEtan Thomas WAS 11/08/2008 WAS @ ORL L 17 4 2 3 66.7 0 0 - 0 0 - 1 5 6 0 0 0 0 2 -16
+p764
+aVOleksiy Pecherov WAS 11/08/2008 WAS @ ORL L 16 3 1 4 25.0 1 2 50.0 0 0 - 1 5 6 0 0 0 1 0 1
+p765
+aVNick Young WAS 11/08/2008 WAS @ ORL L 30 20 8 12 66.7 1 2 50.0 3 4 75.0 0 3 3 0 1 0 3 2 -10
+p766
+aVDarius Songaila WAS 11/08/2008 WAS @ ORL L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 2 0 1 1 -4
+p767
+aVAndray Blatche WAS 11/08/2008 WAS @ ORL L 26 7 1 10 10.0 0 0 - 5 6 83.3 0 5 5 0 3 0 3 4 -9
+p768
+aVCaron Butler WAS 11/08/2008 WAS @ ORL L 24 10 4 13 30.8 0 3 0.0 2 2 100.0 0 0 0 3 0 0 0 2 -19
+p769
+aVAntawn Jamison WAS 11/08/2008 WAS @ ORL L 24 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 2 0 0 1 4 -15
+p770
+aVDeShawn Stevenson WAS 11/08/2008 WAS @ ORL L 23 14 5 10 50.0 2 4 50.0 2 3 66.7 0 0 0 0 0 0 1 2 -14
+p771
+aVJuan Dixon WAS 11/08/2008 WAS @ ORL L 23 3 1 6 16.7 1 2 50.0 0 0 - 1 1 2 3 1 0 0 1 -24
+p772
+aVJaVale McGee WAS 11/08/2008 WAS @ ORL L 17 9 4 9 44.4 0 0 - 1 3 33.3 1 5 6 0 0 0 2 2 3
+p773
+aVDee Brown WAS 11/08/2008 WAS @ ORL L 20 2 1 4 25.0 0 1 0.0 0 0 - 2 2 4 5 0 0 1 3 -2
+p774
+aVDominic McGuire WAS 11/08/2008 WAS @ ORL L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -16
+p775
+aVDominic McGuire WAS 11/07/2008 WAS vs. NYK L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p776
+aVAntonio Daniels WAS 11/07/2008 WAS vs. NYK L 20 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 5 0 0 2 0 -2
+p777
+aVAntawn Jamison WAS 11/07/2008 WAS vs. NYK L 41 24 11 21 52.4 2 7 28.6 0 0 - 4 8 12 2 1 0 0 2 -6
+p778
+aVAndray Blatche WAS 11/07/2008 WAS vs. NYK L 13 7 3 5 60.0 0 2 0.0 1 1 100.0 2 3 5 2 0 1 2 2 -2
+p779
+aVCaron Butler WAS 11/07/2008 WAS vs. NYK L 41 30 11 24 45.8 1 1 100.0 7 11 63.6 0 7 7 3 0 1 1 3 5
+p780
+aVJaVale McGee WAS 11/07/2008 WAS vs. NYK L 30 12 5 8 62.5 0 0 - 2 5 40.0 1 9 10 0 1 2 2 2 -2
+p781
+aVEtan Thomas WAS 11/07/2008 WAS vs. NYK L 13 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 1 2 1 -11
+p782
+aVDee Brown WAS 11/07/2008 WAS vs. NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p783
+aVNick Young WAS 11/07/2008 WAS vs. NYK L 30 16 7 12 58.3 1 3 33.3 1 2 50.0 0 0 0 2 1 2 1 3 6
+p784
+aVJuan Dixon WAS 11/07/2008 WAS vs. NYK L 28 5 2 4 50.0 1 1 100.0 0 0 - 0 8 8 11 0 0 1 3 -4
+p785
+aVDeShawn Stevenson WAS 11/07/2008 WAS vs. NYK L 15 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 0 -11
+p786
+aVCaron Butler WAS 11/05/2008 WAS @ MIL L 43 27 9 15 60.0 0 1 0.0 9 10 90.0 1 6 7 3 4 0 5 5 -20
+p787
+aVDee Brown WAS 11/05/2008 WAS @ MIL L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p788
+aVAntonio Daniels WAS 11/05/2008 WAS @ MIL L 21 3 1 5 20.0 0 1 0.0 1 3 33.3 0 1 1 4 3 0 2 0 -15
+p789
+aVJuan Dixon WAS 11/05/2008 WAS @ MIL L 20 10 4 7 57.1 1 2 50.0 1 1 100.0 0 0 0 4 2 0 1 3 12
+p790
+aVDeShawn Stevenson WAS 11/05/2008 WAS @ MIL L 37 6 2 8 25.0 1 7 14.3 1 2 50.0 1 3 4 3 2 0 2 1 -22
+p791
+aVNick Young WAS 11/05/2008 WAS @ MIL L 25 14 5 13 38.5 0 3 0.0 4 4 100.0 1 2 3 3 0 0 1 1 13
+p792
+aVAndray Blatche WAS 11/05/2008 WAS @ MIL L 22 5 1 2 50.0 0 1 0.0 3 4 75.0 1 5 6 2 0 0 4 3 -4
+p793
+aVOleksiy Pecherov WAS 11/05/2008 WAS @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 8
+p794
+aVDarius Songaila WAS 11/05/2008 WAS @ MIL L 23 9 3 5 60.0 0 0 - 3 4 75.0 0 1 1 0 0 2 3 5 2
+p795
+aVJaVale McGee WAS 11/05/2008 WAS @ MIL L 13 9 2 3 66.7 0 0 - 5 9 55.6 2 3 5 0 0 1 0 1 -3
+p796
+aVDominic McGuire WAS 11/05/2008 WAS @ MIL L 14 2 1 1 100.0 0 0 - 0 2 0.0 3 3 6 0 0 0 0 2 13
+p797
+aVAntawn Jamison WAS 11/05/2008 WAS @ MIL L 40 19 6 19 31.6 0 3 0.0 7 12 58.3 4 6 10 0 1 2 0 3 -20
+p798
+aVDeShawn Stevenson WAS 11/01/2008 WAS @ DET L 25 8 4 8 50.0 0 2 0.0 0 0 - 0 1 1 0 1 0 0 3 -23
+p799
+aVDarius Songaila WAS 11/01/2008 WAS @ DET L 28 8 4 10 40.0 0 0 - 0 0 - 0 1 1 4 1 0 0 3 11
+p800
+aVNick Young WAS 11/01/2008 WAS @ DET L 29 23 6 10 60.0 0 2 0.0 11 11 100.0 1 1 2 2 1 0 0 5 9
+p801
+aVAntonio Daniels WAS 11/01/2008 WAS @ DET L 28 7 3 4 75.0 0 0 - 1 1 100.0 0 0 0 5 0 0 1 2 -17
+p802
+aVDominic McGuire WAS 11/01/2008 WAS @ DET L 11 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 2 0 -4
+p803
+aVJuan Dixon WAS 11/01/2008 WAS @ DET L 14 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 3 1 0 0 2 15
+p804
+aVAntawn Jamison WAS 11/01/2008 WAS @ DET L 42 24 8 16 50.0 1 3 33.3 7 8 87.5 1 7 8 2 0 0 0 3 -3
+p805
+aVCaron Butler WAS 11/01/2008 WAS @ DET L 41 21 9 18 50.0 2 4 50.0 1 1 100.0 1 5 6 6 3 0 4 3 -9
+p806
+aVEtan Thomas WAS 11/01/2008 WAS @ DET L 18 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 1 1 2 -21
+p807
+aVAndray Blatche WAS 11/01/2008 WAS @ DET L 4 4 1 3 33.3 0 0 - 2 2 100.0 1 0 1 0 0 0 0 0 2
+p808
+aVDee Brown WAS 10/29/2008 WAS vs. NJN L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -3
+p809
+aVJaVale McGee WAS 10/29/2008 WAS vs. NJN L 9 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -6
+p810
+aVDominic McGuire WAS 10/29/2008 WAS vs. NJN L 6 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -3
+p811
+aVAntawn Jamison WAS 10/29/2008 WAS vs. NJN L 38 14 6 18 33.3 1 8 12.5 1 1 100.0 2 1 3 2 1 1 0 1 -11
+p812
+aVEtan Thomas WAS 10/29/2008 WAS vs. NJN L 19 10 3 5 60.0 0 0 - 4 6 66.7 5 3 8 0 0 1 1 3 3
+p813
+aVAndray Blatche WAS 10/29/2008 WAS vs. NJN L 25 13 6 13 46.2 0 1 0.0 1 2 50.0 2 4 6 0 0 1 5 3 -10
+p814
+aVDarius Songaila WAS 10/29/2008 WAS vs. NJN L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 2 1
+p815
+aVJuan Dixon WAS 10/29/2008 WAS vs. NJN L 8 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p816
+aVAntonio Daniels WAS 10/29/2008 WAS vs. NJN L 28 8 1 2 50.0 0 0 - 6 8 75.0 0 3 3 4 0 0 1 1 -8
+p817
+aVNick Young WAS 10/29/2008 WAS vs. NJN L 18 10 5 9 55.6 0 1 0.0 0 0 - 0 2 2 3 1 1 2 1 -2
+p818
+aVDeShawn Stevenson WAS 10/29/2008 WAS vs. NJN L 33 14 5 13 38.5 4 8 50.0 0 1 0.0 0 2 2 1 1 0 1 0 -8
+p819
+aVCaron Butler WAS 10/29/2008 WAS vs. NJN L 41 13 3 11 27.3 0 1 0.0 7 10 70.0 3 8 11 5 0 0 4 5 -4
+p820
+a.

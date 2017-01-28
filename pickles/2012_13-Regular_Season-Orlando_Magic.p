@@ -1,0 +1,1696 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVBeno Udrih ORL 04/17/2013 ORL @ MIA L 36 13 5 8 62.5 1 2 50.0 2 4 50.0 1 2 3 14 1 0 4 4 -12
+p2
+aVAndrew Nicholson ORL 04/17/2013 ORL @ MIA L 11 12 6 8 75.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -10
+p3
+aVDoron Lamb ORL 04/17/2013 ORL @ MIA L 27 2 1 6 16.7 0 3 0.0 0 0 - 0 4 4 1 0 0 0 3 -18
+p4
+aVTobias Harris ORL 04/17/2013 ORL @ MIA L 38 19 7 16 43.8 0 3 0.0 5 11 45.5 2 6 8 2 1 0 0 5 -8
+p5
+aVE'Twaun Moore ORL 04/17/2013 ORL @ MIA L 30 11 5 9 55.6 1 2 50.0 0 0 - 1 2 3 4 0 0 0 2 3
+p6
+aVNikola Vucevic ORL 04/17/2013 ORL @ MIA L 37 20 9 13 69.2 0 0 - 2 3 66.7 1 12 13 0 1 0 2 5 -1
+p7
+aVDeQuan Jones ORL 04/17/2013 ORL @ MIA L 9 6 2 2 100.0 0 0 - 2 3 66.7 0 2 2 0 1 0 1 0 -12
+p8
+aVKyle O'Quinn ORL 04/17/2013 ORL @ MIA L 9 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 0 1 1 -1
+p9
+aVMaurice Harkless ORL 04/17/2013 ORL @ MIA L 43 10 5 14 35.7 0 4 0.0 0 4 0.0 0 1 1 1 1 1 4 2 -1
+p10
+aVAndrew Nicholson ORL 04/15/2013 ORL vs. CHI L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 2 1 0 0 1 6
+p11
+aVTobias Harris ORL 04/15/2013 ORL vs. CHI L 40 20 8 17 47.1 0 2 0.0 4 7 57.1 3 1 4 4 1 1 1 1 -15
+p12
+aVDoron Lamb ORL 04/15/2013 ORL vs. CHI L 30 9 2 7 28.6 1 3 33.3 4 7 57.1 0 0 0 1 0 0 1 3 -7
+p13
+aVE'Twaun Moore ORL 04/15/2013 ORL vs. CHI L 27 5 2 7 28.6 0 2 0.0 1 2 50.0 0 2 2 2 1 1 2 2 -14
+p14
+aVKyle O'Quinn ORL 04/15/2013 ORL vs. CHI L 22 8 3 6 50.0 0 0 - 2 4 50.0 1 8 9 2 0 1 1 1 2
+p15
+aVDeQuan Jones ORL 04/15/2013 ORL vs. CHI L 11 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -2
+p16
+aVMaurice Harkless ORL 04/15/2013 ORL vs. CHI L 41 16 6 12 50.0 0 1 0.0 4 7 57.1 2 3 5 2 2 2 3 2 -18
+p17
+aVBeno Udrih ORL 04/15/2013 ORL vs. CHI L 23 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 1 0 0 2 2 -17
+p18
+aVNikola Vucevic ORL 04/15/2013 ORL vs. CHI L 31 17 6 13 46.2 0 0 - 5 6 83.3 7 7 14 2 3 1 3 1 -25
+p19
+aVAndrew Nicholson ORL 04/13/2013 ORL vs. BOS L 25 0 0 1 0.0 0 0 - 0 0 - 3 2 5 4 1 0 0 1 -10
+p20
+aVNikola Vucevic ORL 04/13/2013 ORL vs. BOS L 29 16 8 14 57.1 0 0 - 0 0 - 4 8 12 2 1 1 4 4 -25
+p21
+aVTobias Harris ORL 04/13/2013 ORL vs. BOS L 34 22 7 16 43.8 2 4 50.0 6 8 75.0 4 2 6 2 0 2 4 1 -21
+p22
+aVBeno Udrih ORL 04/13/2013 ORL vs. BOS L 35 7 2 8 25.0 1 2 50.0 2 2 100.0 0 5 5 8 0 1 3 1 -17
+p23
+aVKyle O'Quinn ORL 04/13/2013 ORL vs. BOS L 24 4 2 10 20.0 0 0 - 0 0 - 1 5 6 3 1 0 3 6 -19
+p24
+aVDoron Lamb ORL 04/13/2013 ORL vs. BOS L 25 11 5 7 71.4 1 2 50.0 0 0 - 0 0 0 2 0 0 0 1 -16
+p25
+aVMaurice Harkless ORL 04/13/2013 ORL vs. BOS L 36 12 5 14 35.7 0 4 0.0 2 2 100.0 0 4 4 2 2 0 0 2 -37
+p26
+aVDeQuan Jones ORL 04/13/2013 ORL vs. BOS L 9 5 1 4 25.0 0 0 - 3 3 100.0 0 0 0 0 0 0 1 0 0
+p27
+aVE'Twaun Moore ORL 04/13/2013 ORL vs. BOS L 24 11 5 9 55.6 1 2 50.0 0 0 - 0 2 2 0 0 0 5 0 -15
+p28
+aVAndrew Nicholson ORL 04/10/2013 ORL vs. MIL W 8 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 -2
+p29
+aVKyle O'Quinn ORL 04/10/2013 ORL vs. MIL W 14 4 2 6 33.3 0 0 - 0 1 0.0 2 5 7 0 0 0 1 1 -7
+p30
+aVTobias Harris ORL 04/10/2013 ORL vs. MIL W 45 30 13 20 65.0 3 4 75.0 1 3 33.3 7 12 19 5 0 0 2 4 12
+p31
+aVE'Twaun Moore ORL 04/10/2013 ORL vs. MIL W 23 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 1 0 1 0 3
+p32
+aVDeQuan Jones ORL 04/10/2013 ORL vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p33
+aVMaurice Harkless ORL 04/10/2013 ORL vs. MIL W 51 14 7 13 53.8 0 4 0.0 0 1 0.0 0 4 4 1 1 1 2 3 18
+p34
+aVNikola Vucevic ORL 04/10/2013 ORL vs. MIL W 40 30 14 26 53.8 0 0 - 2 3 66.7 6 14 20 5 1 2 4 3 16
+p35
+aVBeno Udrih ORL 04/10/2013 ORL vs. MIL W 47 13 6 22 27.3 1 1 100.0 0 0 - 1 3 4 11 2 0 5 3 21
+p36
+aVDoron Lamb ORL 04/10/2013 ORL vs. MIL W 35 16 6 10 60.0 4 6 66.7 0 0 - 0 4 4 2 1 0 1 3 -3
+p37
+aVNikola Vucevic ORL 04/07/2013 ORL @ CLE L 42 21 10 20 50.0 0 0 - 1 3 33.3 8 13 21 6 0 2 2 3 0
+p38
+aVMaurice Harkless ORL 04/07/2013 ORL @ CLE L 39 7 3 12 25.0 0 2 0.0 1 2 50.0 1 3 4 1 2 1 3 2 9
+p39
+aVKyle O'Quinn ORL 04/07/2013 ORL @ CLE L 15 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 0 2 1 2 -9
+p40
+aVTobias Harris ORL 04/07/2013 ORL @ CLE L 41 26 11 19 57.9 0 3 0.0 4 6 66.7 5 7 12 2 2 0 1 2 -1
+p41
+aVDoron Lamb ORL 04/07/2013 ORL @ CLE L 7 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 0 -4
+p42
+aVAndrew Nicholson ORL 04/07/2013 ORL @ CLE L 26 8 4 12 33.3 0 0 - 0 0 - 1 3 4 4 0 2 3 1 -2
+p43
+aVE'Twaun Moore ORL 04/07/2013 ORL @ CLE L 16 2 0 7 0.0 0 3 0.0 2 2 100.0 2 1 3 1 2 0 1 2 -13
+p44
+aVBeno Udrih ORL 04/07/2013 ORL @ CLE L 43 13 4 12 33.3 0 3 0.0 5 5 100.0 1 3 4 6 2 0 2 4 -5
+p45
+aVDeQuan Jones ORL 04/07/2013 ORL @ CLE L 11 3 0 4 0.0 0 1 0.0 3 4 75.0 0 0 0 0 1 0 0 1 -5
+p46
+aVNikola Vucevic ORL 04/05/2013 ORL @ CHI L 40 16 8 14 57.1 0 0 - 0 0 - 4 11 15 3 2 2 4 2 0
+p47
+aVE'Twaun Moore ORL 04/05/2013 ORL @ CHI L 14 4 1 6 16.7 0 1 0.0 2 2 100.0 1 1 2 4 0 0 1 1 -8
+p48
+aVTobias Harris ORL 04/05/2013 ORL @ CHI L 45 12 5 17 29.4 0 1 0.0 2 2 100.0 2 9 11 3 1 2 2 3 2
+p49
+aVDeQuan Jones ORL 04/05/2013 ORL @ CHI L 36 10 3 11 27.3 1 3 33.3 3 4 75.0 0 2 2 0 0 1 1 3 -3
+p50
+aVKyle O'Quinn ORL 04/05/2013 ORL @ CHI L 8 8 4 5 80.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -1
+p51
+aVMaurice Harkless ORL 04/05/2013 ORL @ CHI L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -3
+p52
+aVBeno Udrih ORL 04/05/2013 ORL @ CHI L 36 27 10 17 58.8 3 5 60.0 4 4 100.0 1 4 5 7 2 0 4 1 4
+p53
+aVDoron Lamb ORL 04/05/2013 ORL @ CHI L 28 3 1 5 20.0 0 0 - 1 3 33.3 0 1 1 1 1 0 0 2 3
+p54
+aVAndrew Nicholson ORL 04/05/2013 ORL @ CHI L 25 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 1 1
+p55
+aVNikola Vucevic ORL 04/03/2013 ORL @ SAS L 36 16 7 13 53.8 0 0 - 2 2 100.0 4 10 14 2 4 2 0 3 -3
+p56
+aVE'Twaun Moore ORL 04/03/2013 ORL @ SAS L 24 3 1 6 16.7 0 2 0.0 1 2 50.0 0 3 3 1 0 0 1 2 -13
+p57
+aVDoron Lamb ORL 04/03/2013 ORL @ SAS L 16 8 3 4 75.0 2 2 100.0 0 0 - 0 4 4 2 1 0 0 2 -4
+p58
+aVAndrew Nicholson ORL 04/03/2013 ORL @ SAS L 10 2 1 4 25.0 0 0 - 0 0 - 0 3 3 0 1 0 1 0 -13
+p59
+aVTobias Harris ORL 04/03/2013 ORL @ SAS L 41 11 5 19 26.3 1 6 16.7 0 0 - 1 6 7 5 1 3 4 2 -7
+p60
+aVBeno Udrih ORL 04/03/2013 ORL @ SAS L 40 14 5 11 45.5 2 3 66.7 2 2 100.0 0 3 3 8 3 0 4 4 -16
+p61
+aVDeQuan Jones ORL 04/03/2013 ORL @ SAS L 20 12 5 9 55.6 1 2 50.0 1 1 100.0 0 1 1 0 2 0 0 1 10
+p62
+aVMaurice Harkless ORL 04/03/2013 ORL @ SAS L 42 18 8 21 38.1 0 2 0.0 2 2 100.0 3 6 9 2 0 2 2 0 -12
+p63
+aVKyle O'Quinn ORL 04/03/2013 ORL @ SAS L 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 4 0 0 1 2 -12
+p64
+aVE'Twaun Moore ORL 04/01/2013 ORL @ HOU L 26 6 2 10 20.0 1 2 50.0 1 1 100.0 0 3 3 5 1 0 1 2 14
+p65
+aVTobias Harris ORL 04/01/2013 ORL @ HOU L 40 18 6 17 35.3 0 6 0.0 6 7 85.7 2 9 11 4 0 3 1 3 -9
+p66
+aVMaurice Harkless ORL 04/01/2013 ORL @ HOU L 42 28 10 18 55.6 2 4 50.0 6 7 85.7 4 2 6 1 1 0 2 3 -3
+p67
+aVBeno Udrih ORL 04/01/2013 ORL @ HOU L 37 17 6 10 60.0 3 3 100.0 2 2 100.0 0 1 1 10 1 0 1 2 -13
+p68
+aVKyle O'Quinn ORL 04/01/2013 ORL @ HOU L 12 10 5 7 71.4 0 0 - 0 0 - 4 4 8 0 0 0 1 3 0
+p69
+aVNikola Vucevic ORL 04/01/2013 ORL @ HOU L 35 12 5 19 26.3 0 0 - 2 2 100.0 4 9 13 2 0 2 0 4 -10
+p70
+aVDeQuan Jones ORL 04/01/2013 ORL @ HOU L 23 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 3 2 1 1 -20
+p71
+aVDoron Lamb ORL 04/01/2013 ORL @ HOU L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 4
+p72
+aVAndrew Nicholson ORL 04/01/2013 ORL @ HOU L 12 10 4 6 66.7 0 0 - 2 2 100.0 0 4 4 0 0 2 1 3 -3
+p73
+aVMaurice Harkless ORL 03/30/2013 ORL @ ATL L 43 17 6 10 60.0 1 3 33.3 4 8 50.0 2 2 4 2 3 1 3 3 -10
+p74
+aVDeQuan Jones ORL 03/30/2013 ORL @ ATL L 20 8 3 4 75.0 0 0 - 2 3 66.7 1 2 3 0 1 1 0 2 2
+p75
+aVAndrew Nicholson ORL 03/30/2013 ORL @ ATL L 12 9 3 5 60.0 0 0 - 3 4 75.0 2 2 4 0 0 0 3 2 -4
+p76
+aVKyle O'Quinn ORL 03/30/2013 ORL @ ATL L 23 2 1 4 25.0 0 0 - 0 0 - 1 6 7 0 0 1 2 6 -2
+p77
+aVE'Twaun Moore ORL 03/30/2013 ORL @ ATL L 17 4 0 5 0.0 0 1 0.0 4 6 66.7 0 1 1 1 0 0 1 2 -14
+p78
+aVTobias Harris ORL 03/30/2013 ORL @ ATL L 40 11 5 18 27.8 1 4 25.0 0 0 - 2 8 10 1 2 0 2 4 -1
+p79
+aVNikola Vucevic ORL 03/30/2013 ORL @ ATL L 39 17 8 17 47.1 0 0 - 1 3 33.3 5 10 15 0 2 1 3 4 -7
+p80
+aVBeno Udrih ORL 03/30/2013 ORL @ ATL L 41 20 8 23 34.8 2 5 40.0 2 3 66.7 3 4 7 8 1 0 2 2 2
+p81
+aVDoron Lamb ORL 03/30/2013 ORL @ ATL L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -11
+p82
+aVE'Twaun Moore ORL 03/29/2013 ORL vs. WAS W 31 15 7 13 53.8 1 3 33.3 0 1 0.0 0 4 4 5 2 1 1 3 17
+p83
+aVJameer Nelson ORL 03/29/2013 ORL vs. WAS W 8 2 1 3 33.3 0 2 0.0 0 0 - 0 3 3 3 0 0 1 0 -4
+p84
+aVDeQuan Jones ORL 03/29/2013 ORL vs. WAS W 21 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -12
+p85
+aVAndrew Nicholson ORL 03/29/2013 ORL vs. WAS W 28 14 6 12 50.0 0 0 - 2 2 100.0 1 4 5 1 1 0 1 4 20
+p86
+aVTobias Harris ORL 03/29/2013 ORL vs. WAS W 45 30 11 21 52.4 2 3 66.7 6 7 85.7 2 9 11 0 3 3 1 2 -3
+p87
+aVBeno Udrih ORL 03/29/2013 ORL vs. WAS W 31 10 2 8 25.0 1 2 50.0 5 6 83.3 1 3 4 9 1 0 1 3 10
+p88
+aVMaurice Harkless ORL 03/29/2013 ORL vs. WAS W 42 18 6 17 35.3 1 5 20.0 5 6 83.3 6 3 9 0 0 1 1 2 -9
+p89
+aVDoron Lamb ORL 03/29/2013 ORL vs. WAS W 13 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 0 1 0 12
+p90
+aVKyle O'Quinn ORL 03/29/2013 ORL vs. WAS W 22 4 2 4 50.0 0 0 - 0 0 - 3 1 4 4 0 2 1 3 -6
+p91
+aVE'Twaun Moore ORL 03/27/2013 ORL @ CHA L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 2 3 1 0 3 16
+p92
+aVKyle O'Quinn ORL 03/27/2013 ORL @ CHA L 42 23 11 14 78.6 0 0 - 1 2 50.0 3 8 11 6 1 0 0 5 -8
+p93
+aVDeQuan Jones ORL 03/27/2013 ORL @ CHA L 31 13 6 9 66.7 0 1 0.0 1 2 50.0 0 2 2 2 1 2 1 2 1
+p94
+aVJameer Nelson ORL 03/27/2013 ORL @ CHA L 42 13 6 19 31.6 1 6 16.7 0 0 - 1 5 6 11 0 0 5 4 -8
+p95
+aVTobias Harris ORL 03/27/2013 ORL @ CHA L 45 29 10 20 50.0 2 5 40.0 7 8 87.5 1 8 9 6 1 3 1 3 3
+p96
+aVMaurice Harkless ORL 03/27/2013 ORL @ CHA L 44 18 7 12 58.3 2 3 66.7 2 4 50.0 2 2 4 1 0 0 0 4 -4
+p97
+aVDoron Lamb ORL 03/27/2013 ORL @ CHA L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p98
+aVBeno Udrih ORL 03/27/2013 ORL @ CHA L 18 9 3 7 42.9 1 2 50.0 2 2 100.0 0 1 1 5 0 0 3 0 -18
+p99
+aVAndrew Nicholson ORL 03/25/2013 ORL vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p100
+aVBeno Udrih ORL 03/25/2013 ORL vs. MIA L 37 7 1 9 11.1 0 2 0.0 5 6 83.3 1 3 4 5 2 0 1 0 -17
+p101
+aVJameer Nelson ORL 03/25/2013 ORL vs. MIA L 41 27 9 20 45.0 5 10 50.0 4 5 80.0 0 5 5 12 2 0 3 2 -21
+p102
+aVDoron Lamb ORL 03/25/2013 ORL vs. MIA L 7 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 5
+p103
+aVMaurice Harkless ORL 03/25/2013 ORL vs. MIA L 41 7 3 15 20.0 1 5 20.0 0 2 0.0 5 4 9 0 1 0 2 5 -10
+p104
+aVKyle O'Quinn ORL 03/25/2013 ORL vs. MIA L 23 12 6 7 85.7 0 0 - 0 0 - 2 4 6 0 0 1 2 3 2
+p105
+aVTobias Harris ORL 03/25/2013 ORL vs. MIA L 41 20 8 14 57.1 2 3 66.7 2 5 40.0 0 5 5 1 0 2 1 3 -13
+p106
+aVE'Twaun Moore ORL 03/25/2013 ORL vs. MIA L 39 13 6 13 46.2 1 3 33.3 0 0 - 0 9 9 7 3 1 2 3 -6
+p107
+aVDeQuan Jones ORL 03/25/2013 ORL vs. MIA L 9 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 1 2 1 0 -7
+p108
+aVDoron Lamb ORL 03/22/2013 ORL vs. OKC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p109
+aVE'Twaun Moore ORL 03/22/2013 ORL vs. OKC L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 2 0 0 1 5
+p110
+aVJameer Nelson ORL 03/22/2013 ORL vs. OKC L 41 16 7 17 41.2 2 7 28.6 0 0 - 1 4 5 10 0 0 1 3 -7
+p111
+aVArron Afflalo ORL 03/22/2013 ORL vs. OKC L 13 6 3 6 50.0 0 2 0.0 0 0 - 1 2 3 1 0 0 2 2 -5
+p112
+aVAndrew Nicholson ORL 03/22/2013 ORL vs. OKC L 21 4 2 7 28.6 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -14
+p113
+aVDeQuan Jones ORL 03/22/2013 ORL vs. OKC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p114
+aVBeno Udrih ORL 03/22/2013 ORL vs. OKC L 36 13 5 10 50.0 1 2 50.0 2 3 66.7 0 3 3 5 2 0 2 4 -5
+p115
+aVTobias Harris ORL 03/22/2013 ORL vs. OKC L 43 10 3 17 17.6 0 2 0.0 4 4 100.0 3 12 15 3 0 1 3 6 -8
+p116
+aVMaurice Harkless ORL 03/22/2013 ORL vs. OKC L 45 25 11 18 61.1 2 3 66.7 1 1 100.0 3 6 9 1 4 4 2 3 -9
+p117
+aVKyle O'Quinn ORL 03/22/2013 ORL vs. OKC L 27 11 5 11 45.5 0 0 - 1 2 50.0 3 6 9 0 1 0 3 3 8
+p118
+aVDeQuan Jones ORL 03/20/2013 ORL @ NYK L 19 9 4 5 80.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 7
+p119
+aVArron Afflalo ORL 03/20/2013 ORL @ NYK L 29 4 1 9 11.1 0 3 0.0 2 2 100.0 0 2 2 3 1 0 1 2 -19
+p120
+aVAndrew Nicholson ORL 03/20/2013 ORL @ NYK L 19 14 5 8 62.5 0 0 - 4 6 66.7 1 2 3 0 1 0 3 0 7
+p121
+aVTobias Harris ORL 03/20/2013 ORL @ NYK L 31 14 7 10 70.0 0 1 0.0 0 0 - 2 3 5 0 0 0 5 3 -26
+p122
+aVJameer Nelson ORL 03/20/2013 ORL @ NYK L 24 6 2 7 28.6 1 5 20.0 1 2 50.0 0 3 3 1 1 0 1 0 -24
+p123
+aVE'Twaun Moore ORL 03/20/2013 ORL @ NYK L 28 5 2 7 28.6 1 3 33.3 0 0 - 2 0 2 0 0 0 0 1 -19
+p124
+aVDoron Lamb ORL 03/20/2013 ORL @ NYK L 6 6 2 2 100.0 1 1 100.0 1 1 100.0 1 2 3 1 1 0 1 1 5
+p125
+aVBeno Udrih ORL 03/20/2013 ORL @ NYK L 24 13 5 8 62.5 0 0 - 3 3 100.0 0 3 3 8 0 0 2 2 12
+p126
+aVMaurice Harkless ORL 03/20/2013 ORL @ NYK L 35 11 5 13 38.5 1 3 33.3 0 0 - 3 3 6 0 3 0 0 2 -18
+p127
+aVKyle O'Quinn ORL 03/20/2013 ORL @ NYK L 25 12 5 10 50.0 0 0 - 2 4 50.0 5 9 14 4 0 0 3 2 15
+p128
+aVMaurice Harkless ORL 03/19/2013 ORL @ IND L 31 10 4 12 33.3 1 2 50.0 1 2 50.0 4 4 8 0 4 1 0 3 -12
+p129
+aVJameer Nelson ORL 03/19/2013 ORL @ IND L 33 8 2 13 15.4 2 5 40.0 2 2 100.0 0 1 1 1 0 0 2 2 -11
+p130
+aVBeno Udrih ORL 03/19/2013 ORL @ IND L 17 9 3 6 50.0 0 0 - 3 4 75.0 0 2 2 1 0 0 1 1 -14
+p131
+aVKyle O'Quinn ORL 03/19/2013 ORL @ IND L 17 2 0 2 0.0 0 0 - 2 2 100.0 1 4 5 0 1 1 0 3 -11
+p132
+aVDeQuan Jones ORL 03/19/2013 ORL @ IND L 7 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -2
+p133
+aVTobias Harris ORL 03/19/2013 ORL @ IND L 32 6 3 13 23.1 0 4 0.0 0 2 0.0 3 6 9 2 0 2 1 4 -11
+p134
+aVAndrew Nicholson ORL 03/19/2013 ORL @ IND L 16 8 4 8 50.0 0 0 - 0 0 - 0 2 2 1 0 2 1 2 -11
+p135
+aVDoron Lamb ORL 03/19/2013 ORL @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p136
+aVNikola Vucevic ORL 03/19/2013 ORL @ IND L 31 9 4 12 33.3 0 0 - 1 4 25.0 2 9 11 1 1 0 2 4 -11
+p137
+aVE'Twaun Moore ORL 03/19/2013 ORL @ IND L 19 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 2 1 0 1 0 -15
+p138
+aVArron Afflalo ORL 03/19/2013 ORL @ IND L 33 10 3 13 23.1 0 2 0.0 4 4 100.0 0 3 3 3 0 1 2 2 -12
+p139
+aVBeno Udrih ORL 03/17/2013 ORL @ MIL L 18 8 4 8 50.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 1 -2
+p140
+aVJameer Nelson ORL 03/17/2013 ORL @ MIL L 39 16 7 19 36.8 1 6 16.7 1 2 50.0 0 2 2 7 4 0 1 2 -6
+p141
+aVE'Twaun Moore ORL 03/17/2013 ORL @ MIL L 14 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -8
+p142
+aVNikola Vucevic ORL 03/17/2013 ORL @ MIL L 42 20 10 16 62.5 0 0 - 0 0 - 3 12 15 4 2 0 3 2 -8
+p143
+aVTobias Harris ORL 03/17/2013 ORL @ MIL L 32 14 4 8 50.0 1 4 25.0 5 6 83.3 1 7 8 1 1 2 3 6 2
+p144
+aVKyle O'Quinn ORL 03/17/2013 ORL @ MIL L 5 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 1 3 5
+p145
+aVDoron Lamb ORL 03/17/2013 ORL @ MIL L 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p146
+aVArron Afflalo ORL 03/17/2013 ORL @ MIL L 40 24 11 20 55.0 1 6 16.7 1 2 50.0 1 3 4 4 1 0 3 2 -9
+p147
+aVMaurice Harkless ORL 03/17/2013 ORL @ MIL L 43 23 9 17 52.9 2 4 50.0 3 5 60.0 4 5 9 1 2 2 1 2 -4
+p148
+aVNikola Vucevic ORL 03/15/2013 ORL @ OKC L 41 21 8 15 53.3 0 0 - 5 5 100.0 3 11 14 1 1 0 1 3 -1
+p149
+aVKyle O'Quinn ORL 03/15/2013 ORL @ OKC L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p150
+aVDoron Lamb ORL 03/15/2013 ORL @ OKC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -14
+p151
+aVAl Harrington ORL 03/15/2013 ORL @ OKC L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -18
+p152
+aVBeno Udrih ORL 03/15/2013 ORL @ OKC L 6 2 1 5 20.0 0 1 0.0 0 0 - 1 0 1 0 1 0 1 1 -18
+p153
+aVE'Twaun Moore ORL 03/15/2013 ORL @ OKC L 17 2 1 6 16.7 0 2 0.0 0 0 - 0 0 0 1 1 0 0 1 3
+p154
+aVTobias Harris ORL 03/15/2013 ORL @ OKC L 40 19 4 10 40.0 1 3 33.3 10 10 100.0 0 6 6 0 3 0 2 3 1
+p155
+aVArron Afflalo ORL 03/15/2013 ORL @ OKC L 42 20 10 24 41.7 0 6 0.0 0 0 - 1 2 3 3 0 0 1 3 -3
+p156
+aVMaurice Harkless ORL 03/15/2013 ORL @ OKC L 32 12 5 9 55.6 1 3 33.3 1 4 25.0 1 1 2 0 6 0 1 5 -10
+p157
+aVDeQuan Jones ORL 03/15/2013 ORL @ OKC L 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p158
+aVJameer Nelson ORL 03/15/2013 ORL @ OKC L 45 26 10 22 45.5 5 12 41.7 1 2 50.0 0 4 4 7 0 0 3 5 -3
+p159
+aVE'Twaun Moore ORL 03/12/2013 ORL vs. LAL L 18 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 0 1 0 0 1 -4
+p160
+aVNikola Vucevic ORL 03/12/2013 ORL vs. LAL L 30 6 3 9 33.3 0 0 - 0 0 - 3 8 11 3 0 1 1 4 3
+p161
+aVKyle O'Quinn ORL 03/12/2013 ORL vs. LAL L 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 3 0
+p162
+aVBeno Udrih ORL 03/12/2013 ORL vs. LAL L 17 12 4 8 50.0 2 5 40.0 2 2 100.0 1 0 1 2 0 0 2 4 -4
+p163
+aVAl Harrington ORL 03/12/2013 ORL vs. LAL L 10 5 1 6 16.7 1 4 25.0 2 2 100.0 1 1 2 0 0 0 1 2 -4
+p164
+aVArron Afflalo ORL 03/12/2013 ORL vs. LAL L 45 17 6 18 33.3 1 5 20.0 4 4 100.0 0 3 3 2 0 0 1 4 -6
+p165
+aVAndrew Nicholson ORL 03/12/2013 ORL vs. LAL L 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -8
+p166
+aVTobias Harris ORL 03/12/2013 ORL vs. LAL L 40 17 7 17 41.2 3 5 60.0 0 1 0.0 5 10 15 2 1 3 0 3 -4
+p167
+aVMaurice Harkless ORL 03/12/2013 ORL vs. LAL L 27 12 4 7 57.1 1 2 50.0 3 5 60.0 2 2 4 0 2 0 3 6 -6
+p168
+aVDeQuan Jones ORL 03/12/2013 ORL vs. LAL L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -6
+p169
+aVJameer Nelson ORL 03/12/2013 ORL vs. LAL L 43 21 9 19 47.4 1 8 12.5 2 3 66.7 0 3 3 7 1 0 6 4 -6
+p170
+aVDoron Lamb ORL 03/10/2013 ORL vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p171
+aVDeQuan Jones ORL 03/10/2013 ORL vs. PHI W 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 2 1 9
+p172
+aVE'Twaun Moore ORL 03/10/2013 ORL vs. PHI W 10 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 0 0 1 0 0 3
+p173
+aVBeno Udrih ORL 03/10/2013 ORL vs. PHI W 26 10 3 4 75.0 1 2 50.0 3 4 75.0 0 1 1 6 1 0 3 2 17
+p174
+aVNikola Vucevic ORL 03/10/2013 ORL vs. PHI W 42 14 7 13 53.8 0 0 - 0 0 - 2 15 17 2 1 2 4 2 -1
+p175
+aVAl Harrington ORL 03/10/2013 ORL vs. PHI W 17 8 3 9 33.3 2 6 33.3 0 0 - 1 3 4 3 0 1 0 2 6
+p176
+aVArron Afflalo ORL 03/10/2013 ORL vs. PHI W 35 17 7 14 50.0 2 3 66.7 1 2 50.0 0 0 0 4 0 0 1 1 5
+p177
+aVMaurice Harkless ORL 03/10/2013 ORL vs. PHI W 24 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 1 2 1 2 -19
+p178
+aVTobias Harris ORL 03/10/2013 ORL vs. PHI W 38 15 7 16 43.8 1 4 25.0 0 0 - 1 6 7 3 0 2 1 0 11
+p179
+aVJameer Nelson ORL 03/10/2013 ORL vs. PHI W 39 24 9 17 52.9 5 9 55.6 1 1 100.0 0 5 5 10 1 0 4 4 7
+p180
+aVAl Harrington ORL 03/08/2013 ORL vs. IND L 7 2 1 3 33.3 0 1 0.0 0 0 - 2 0 2 0 0 0 2 1 -3
+p181
+aVE'Twaun Moore ORL 03/08/2013 ORL vs. IND L 11 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -14
+p182
+aVNikola Vucevic ORL 03/08/2013 ORL vs. IND L 34 12 6 11 54.5 0 0 - 0 0 - 3 3 6 1 2 2 5 3 -23
+p183
+aVDoron Lamb ORL 03/08/2013 ORL vs. IND L 12 5 1 4 25.0 0 1 0.0 3 4 75.0 0 1 1 0 0 0 0 0 -4
+p184
+aVDeQuan Jones ORL 03/08/2013 ORL vs. IND L 16 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 0 -5
+p185
+aVKyle O'Quinn ORL 03/08/2013 ORL vs. IND L 16 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 0 4 -5
+p186
+aVArron Afflalo ORL 03/08/2013 ORL vs. IND L 29 19 6 13 46.2 2 3 66.7 5 5 100.0 0 2 2 1 0 0 1 0 -20
+p187
+aVMaurice Harkless ORL 03/08/2013 ORL vs. IND L 27 3 0 8 0.0 0 2 0.0 3 4 75.0 3 3 6 0 3 0 4 4 -15
+p188
+aVAndrew Nicholson ORL 03/08/2013 ORL vs. IND L 18 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 2 -4
+p189
+aVBeno Udrih ORL 03/08/2013 ORL vs. IND L 18 12 5 7 71.4 0 0 - 2 2 100.0 0 0 0 7 0 0 0 0 -7
+p190
+aVTobias Harris ORL 03/08/2013 ORL vs. IND L 21 7 2 8 25.0 1 1 100.0 2 2 100.0 0 8 8 0 0 2 4 5 -23
+p191
+aVJameer Nelson ORL 03/08/2013 ORL vs. IND L 30 10 3 10 30.0 2 5 40.0 2 2 100.0 1 2 3 6 3 0 3 3 -22
+p192
+aVArron Afflalo ORL 03/06/2013 ORL @ MIA L 35 13 5 16 31.3 0 5 0.0 3 3 100.0 0 4 4 5 2 0 2 3 -13
+p193
+aVMaurice Harkless ORL 03/06/2013 ORL @ MIA L 39 12 5 9 55.6 2 4 50.0 0 0 - 1 2 3 0 3 2 2 6 8
+p194
+aVAndrew Nicholson ORL 03/06/2013 ORL @ MIA L 17 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p195
+aVBeno Udrih ORL 03/06/2013 ORL @ MIA L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -10
+p196
+aVNikola Vucevic ORL 03/06/2013 ORL @ MIA L 42 25 11 16 68.8 0 0 - 3 3 100.0 9 12 21 4 1 0 2 6 9
+p197
+aVTobias Harris ORL 03/06/2013 ORL @ MIA L 29 16 6 15 40.0 1 3 33.3 3 5 60.0 2 5 7 1 1 1 3 6 6
+p198
+aVDeQuan Jones ORL 03/06/2013 ORL @ MIA L 6 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -11
+p199
+aVJameer Nelson ORL 03/06/2013 ORL @ MIA L 43 16 6 18 33.3 3 11 27.3 1 1 100.0 1 1 2 14 3 0 6 2 9
+p200
+aVE'Twaun Moore ORL 03/06/2013 ORL @ MIA L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 8
+p201
+aVAl Harrington ORL 03/06/2013 ORL @ MIA L 6 4 2 5 40.0 0 3 0.0 0 0 - 0 2 2 1 0 0 1 2 -12
+p202
+aVDeQuan Jones ORL 03/04/2013 ORL @ NOH W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 2
+p203
+aVMaurice Harkless ORL 03/04/2013 ORL @ NOH W 37 13 6 13 46.2 0 3 0.0 1 1 100.0 2 2 4 1 2 1 0 2 -7
+p204
+aVArron Afflalo ORL 03/04/2013 ORL @ NOH W 40 26 10 20 50.0 1 5 20.0 5 6 83.3 0 5 5 5 1 0 0 3 -1
+p205
+aVAndrew Nicholson ORL 03/04/2013 ORL @ NOH W 16 8 4 7 57.1 0 0 - 0 0 - 1 1 2 1 0 0 0 3 -9
+p206
+aVAl Harrington ORL 03/04/2013 ORL @ NOH W 18 10 4 7 57.1 2 3 66.7 0 0 - 0 5 5 3 2 0 1 1 11
+p207
+aVJameer Nelson ORL 03/04/2013 ORL @ NOH W 37 15 6 15 40.0 2 5 40.0 1 1 100.0 1 3 4 7 1 0 4 2 -2
+p208
+aVTobias Harris ORL 03/04/2013 ORL @ NOH W 31 15 6 9 66.7 1 1 100.0 2 4 50.0 2 3 5 2 2 0 0 3 17
+p209
+aVE'Twaun Moore ORL 03/04/2013 ORL @ NOH W 17 7 3 6 50.0 1 3 33.3 0 0 - 1 2 3 1 0 1 0 2 9
+p210
+aVNikola Vucevic ORL 03/04/2013 ORL @ NOH W 28 9 3 6 50.0 0 0 - 3 4 75.0 4 7 11 1 0 0 2 2 -10
+p211
+aVBeno Udrih ORL 03/04/2013 ORL @ NOH W 12 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 5 0 0 1 1 5
+p212
+aVDoron Lamb ORL 03/03/2013 ORL vs. MEM L 12 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p213
+aVAndrew Nicholson ORL 03/03/2013 ORL vs. MEM L 27 12 4 6 66.7 0 0 - 4 4 100.0 0 4 4 1 0 1 2 1 -22
+p214
+aVArron Afflalo ORL 03/03/2013 ORL vs. MEM L 30 12 2 6 33.3 0 3 0.0 8 8 100.0 0 2 2 3 0 0 0 2 -17
+p215
+aVDeQuan Jones ORL 03/03/2013 ORL vs. MEM L 12 7 3 5 60.0 0 0 - 1 2 50.0 1 0 1 0 1 1 1 1 -1
+p216
+aVE'Twaun Moore ORL 03/03/2013 ORL vs. MEM L 34 12 4 10 40.0 0 0 - 4 4 100.0 2 3 5 6 2 0 2 3 -14
+p217
+aVNikola Vucevic ORL 03/03/2013 ORL vs. MEM L 23 6 3 7 42.9 0 0 - 0 0 - 1 3 4 2 0 0 1 0 -19
+p218
+aVMaurice Harkless ORL 03/03/2013 ORL vs. MEM L 32 11 5 6 83.3 1 1 100.0 0 0 - 3 3 6 0 0 0 2 1 -24
+p219
+aVTobias Harris ORL 03/03/2013 ORL vs. MEM L 23 6 3 14 21.4 0 5 0.0 0 0 - 1 2 3 1 0 1 1 3 -14
+p220
+aVKyle O'Quinn ORL 03/03/2013 ORL vs. MEM L 12 2 0 4 0.0 0 1 0.0 2 4 50.0 1 4 5 1 0 1 1 1 -1
+p221
+aVBeno Udrih ORL 03/03/2013 ORL vs. MEM L 17 5 1 5 20.0 0 1 0.0 3 4 75.0 2 0 2 4 1 0 2 0 -10
+p222
+aVAl Harrington ORL 03/03/2013 ORL vs. MEM L 18 7 3 9 33.3 1 4 25.0 0 0 - 1 4 5 1 1 0 2 2 -7
+p223
+aVAndrew Nicholson ORL 03/01/2013 ORL vs. HOU L 17 17 7 8 87.5 0 0 - 3 3 100.0 0 0 0 1 0 0 2 4 -8
+p224
+aVBeno Udrih ORL 03/01/2013 ORL vs. HOU L 33 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 7 1 0 2 2 2
+p225
+aVArron Afflalo ORL 03/01/2013 ORL vs. HOU L 42 19 6 14 42.9 1 5 20.0 6 9 66.7 0 3 3 4 0 0 3 3 -3
+p226
+aVNikola Vucevic ORL 03/01/2013 ORL vs. HOU L 35 18 8 13 61.5 0 0 - 2 2 100.0 3 7 10 2 3 0 3 1 -8
+p227
+aVTobias Harris ORL 03/01/2013 ORL vs. HOU L 31 27 11 15 73.3 3 5 60.0 2 2 100.0 1 9 10 2 1 0 1 4 0
+p228
+aVDoron Lamb ORL 03/01/2013 ORL vs. HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p229
+aVE'Twaun Moore ORL 03/01/2013 ORL vs. HOU L 33 9 4 9 44.4 1 3 33.3 0 0 - 1 2 3 11 1 1 1 2 -23
+p230
+aVAl Harrington ORL 03/01/2013 ORL vs. HOU L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 2 0
+p231
+aVMaurice Harkless ORL 03/01/2013 ORL vs. HOU L 29 13 5 7 71.4 3 4 75.0 0 0 - 1 3 4 3 1 0 1 1 5
+p232
+aVDeQuan Jones ORL 02/27/2013 ORL vs. SAC L 13 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -11
+p233
+aVKyle O'Quinn ORL 02/27/2013 ORL vs. SAC L 14 6 3 4 75.0 0 0 - 0 0 - 1 5 6 1 0 0 1 5 1
+p234
+aVBeno Udrih ORL 02/27/2013 ORL vs. SAC L 32 14 3 9 33.3 1 2 50.0 7 7 100.0 1 1 2 8 2 0 4 2 -17
+p235
+aVE'Twaun Moore ORL 02/27/2013 ORL vs. SAC L 23 11 4 8 50.0 3 5 60.0 0 0 - 0 1 1 5 0 0 1 2 -12
+p236
+aVMaurice Harkless ORL 02/27/2013 ORL vs. SAC L 28 12 5 7 71.4 1 2 50.0 1 2 50.0 0 4 4 0 0 0 1 5 -8
+p237
+aVDoron Lamb ORL 02/27/2013 ORL vs. SAC L 13 5 1 4 25.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 2 -12
+p238
+aVArron Afflalo ORL 02/27/2013 ORL vs. SAC L 34 15 6 15 40.0 0 2 0.0 3 3 100.0 0 7 7 6 1 0 6 3 -12
+p239
+aVAndrew Nicholson ORL 02/27/2013 ORL vs. SAC L 17 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 0 1 2 0 2 -8
+p240
+aVTobias Harris ORL 02/27/2013 ORL vs. SAC L 31 23 9 12 75.0 1 2 50.0 4 5 80.0 2 4 6 2 2 0 2 5 -16
+p241
+aVNikola Vucevic ORL 02/27/2013 ORL vs. SAC L 22 4 2 7 28.6 0 0 - 0 0 - 0 2 2 2 0 0 2 1 -13
+p242
+aVAl Harrington ORL 02/27/2013 ORL vs. SAC L 12 3 1 7 14.3 0 4 0.0 1 2 50.0 1 3 4 0 0 0 0 3 -12
+p243
+aVE'Twaun Moore ORL 02/26/2013 ORL @ PHI W 33 12 4 9 44.4 3 5 60.0 1 2 50.0 0 0 0 10 1 0 2 0 24
+p244
+aVDoron Lamb ORL 02/26/2013 ORL @ PHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p245
+aVAndrew Nicholson ORL 02/26/2013 ORL @ PHI W 17 13 6 8 75.0 0 0 - 1 1 100.0 1 1 2 0 0 1 2 1 9
+p246
+aVDeQuan Jones ORL 02/26/2013 ORL @ PHI W 12 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 2
+p247
+aVNikola Vucevic ORL 02/26/2013 ORL @ PHI W 36 12 5 12 41.7 0 0 - 2 4 50.0 3 16 19 1 0 1 4 2 12
+p248
+aVAl Harrington ORL 02/26/2013 ORL @ PHI W 12 9 4 7 57.1 1 2 50.0 0 0 - 0 3 3 2 0 0 0 1 4
+p249
+aVBeno Udrih ORL 02/26/2013 ORL @ PHI W 27 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 9 0 0 2 4 -3
+p250
+aVArron Afflalo ORL 02/26/2013 ORL @ PHI W 35 16 8 17 47.1 0 0 - 0 0 - 1 5 6 7 1 0 2 2 9
+p251
+aVTobias Harris ORL 02/26/2013 ORL @ PHI W 31 16 7 9 77.8 1 2 50.0 1 2 50.0 1 6 7 2 1 1 1 4 5
+p252
+aVMaurice Harkless ORL 02/26/2013 ORL @ PHI W 31 10 3 4 75.0 0 1 0.0 4 5 80.0 0 4 4 2 1 0 0 3 13
+p253
+aVNikola Vucevic ORL 02/23/2013 ORL vs. CLE L 30 6 3 3 100.0 0 0 - 0 0 - 1 6 7 3 0 0 2 1 -23
+p254
+aVAndrew Nicholson ORL 02/23/2013 ORL vs. CLE L 22 8 4 10 40.0 0 0 - 0 0 - 1 1 2 1 0 0 2 0 -17
+p255
+aVMaurice Harkless ORL 02/23/2013 ORL vs. CLE L 35 13 6 13 46.2 1 2 50.0 0 3 0.0 3 2 5 0 1 1 0 3 -38
+p256
+aVDeQuan Jones ORL 02/23/2013 ORL vs. CLE L 20 9 4 6 66.7 0 0 - 1 2 50.0 1 0 1 1 1 0 1 2 -1
+p257
+aVArron Afflalo ORL 02/23/2013 ORL vs. CLE L 30 16 6 12 50.0 1 5 20.0 3 5 60.0 1 2 3 3 0 1 3 3 -22
+p258
+aVE'Twaun Moore ORL 02/23/2013 ORL vs. CLE L 28 12 5 12 41.7 2 5 40.0 0 0 - 0 1 1 5 1 1 4 3 -16
+p259
+aVTobias Harris ORL 02/23/2013 ORL vs. CLE L 25 14 5 10 50.0 0 1 0.0 4 4 100.0 1 5 6 0 0 3 1 1 -10
+p260
+aVDoron Lamb ORL 02/23/2013 ORL vs. CLE L 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 0
+p261
+aVBeno Udrih ORL 02/23/2013 ORL vs. CLE L 27 10 3 7 42.9 0 1 0.0 4 5 80.0 2 1 3 7 2 0 1 0 -2
+p262
+aVKyle O'Quinn ORL 02/23/2013 ORL vs. CLE L 14 6 2 3 66.7 0 0 - 2 3 66.7 1 6 7 2 0 1 0 5 9
+p263
+aVArron Afflalo ORL 02/22/2013 ORL @ MEM L 44 20 8 16 50.0 2 5 40.0 2 2 100.0 0 6 6 7 1 2 1 3 -1
+p264
+aVAndrew Nicholson ORL 02/22/2013 ORL @ MEM L 33 14 7 13 53.8 0 0 - 0 0 - 0 1 1 1 1 2 2 6 -6
+p265
+aVE'Twaun Moore ORL 02/22/2013 ORL @ MEM L 39 12 5 18 27.8 1 4 25.0 1 2 50.0 0 4 4 7 2 2 2 2 2
+p266
+aVKyle O'Quinn ORL 02/22/2013 ORL @ MEM L 23 6 3 5 60.0 0 0 - 0 0 - 1 6 7 1 0 0 1 4 2
+p267
+aVMaurice Harkless ORL 02/22/2013 ORL @ MEM L 46 19 8 17 47.1 1 3 33.3 2 3 66.7 6 3 9 1 1 1 2 4 -12
+p268
+aVNikola Vucevic ORL 02/22/2013 ORL @ MEM L 25 4 2 8 25.0 0 0 - 0 0 - 4 7 11 1 1 0 3 6 -8
+p269
+aVDeQuan Jones ORL 02/22/2013 ORL @ MEM L 30 7 2 7 28.6 1 3 33.3 2 2 100.0 0 4 4 1 0 1 1 1 -7
+p270
+aVMaurice Harkless ORL 02/20/2013 ORL @ DAL L 28 20 9 15 60.0 1 2 50.0 1 4 25.0 5 3 8 0 1 1 1 0 1
+p271
+aVGustavo Ayon ORL 02/20/2013 ORL @ DAL L 12 4 2 2 100.0 0 0 - 0 1 0.0 0 2 2 1 0 0 0 1 -12
+p272
+aVAndrew Nicholson ORL 02/20/2013 ORL @ DAL L 31 10 4 11 36.4 0 0 - 2 6 33.3 2 5 7 2 0 0 2 1 -4
+p273
+aVDeQuan Jones ORL 02/20/2013 ORL @ DAL L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -1
+p274
+aVArron Afflalo ORL 02/20/2013 ORL @ DAL L 40 21 8 15 53.3 1 4 25.0 4 4 100.0 0 5 5 7 0 0 5 2 -3
+p275
+aVKyle O'Quinn ORL 02/20/2013 ORL @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p276
+aVIsh Smith ORL 02/20/2013 ORL @ DAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p277
+aVJJ Redick ORL 02/20/2013 ORL @ DAL L 27 10 3 12 25.0 1 5 20.0 3 3 100.0 0 2 2 3 0 0 1 4 -27
+p278
+aVJameer Nelson ORL 02/20/2013 ORL @ DAL L 35 6 2 9 22.2 1 3 33.3 1 2 50.0 0 2 2 7 4 0 1 2 7
+p279
+aVE'Twaun Moore ORL 02/20/2013 ORL @ DAL L 12 5 2 6 33.3 1 1 100.0 0 0 - 0 1 1 1 0 1 0 0 -18
+p280
+aVNikola Vucevic ORL 02/20/2013 ORL @ DAL L 38 16 7 11 63.6 0 0 - 2 2 100.0 3 10 13 2 0 2 1 2 -11
+p281
+aVJJ Redick ORL 02/19/2013 ORL vs. CHA L 29 10 4 14 28.6 0 7 0.0 2 2 100.0 1 1 2 5 2 0 4 0 1
+p282
+aVNikola Vucevic ORL 02/19/2013 ORL vs. CHA L 42 18 9 16 56.3 0 1 0.0 0 2 0.0 3 8 11 4 1 0 3 5 -16
+p283
+aVAndrew Nicholson ORL 02/19/2013 ORL vs. CHA L 32 13 5 13 38.5 0 0 - 3 3 100.0 3 9 12 2 1 0 0 2 -10
+p284
+aVKyle O'Quinn ORL 02/19/2013 ORL vs. CHA L 12 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 1 0 1 2 7
+p285
+aVGustavo Ayon ORL 02/19/2013 ORL vs. CHA L 9 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -5
+p286
+aVJameer Nelson ORL 02/19/2013 ORL vs. CHA L 30 10 4 11 36.4 2 8 25.0 0 0 - 0 3 3 6 0 0 3 4 -14
+p287
+aVMaurice Harkless ORL 02/19/2013 ORL vs. CHA L 31 15 6 14 42.9 1 3 33.3 2 2 100.0 3 3 6 2 1 1 0 2 -8
+p288
+aVE'Twaun Moore ORL 02/19/2013 ORL vs. CHA L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 0 1 -3
+p289
+aVArron Afflalo ORL 02/19/2013 ORL vs. CHA L 36 18 5 11 45.5 1 5 20.0 7 8 87.5 0 4 4 2 0 1 3 3 -21
+p290
+aVIsh Smith ORL 02/19/2013 ORL vs. CHA L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 4
+p291
+aVE'Twaun Moore ORL 02/13/2013 ORL vs. ATL L 21 9 3 9 33.3 1 2 50.0 2 2 100.0 2 0 2 2 1 0 1 1 -12
+p292
+aVIsh Smith ORL 02/13/2013 ORL vs. ATL L 17 8 4 7 57.1 0 0 - 0 0 - 0 6 6 3 0 0 1 1 -1
+p293
+aVJameer Nelson ORL 02/13/2013 ORL vs. ATL L 27 10 4 9 44.4 1 3 33.3 1 1 100.0 0 1 1 4 0 0 1 2 -20
+p294
+aVJJ Redick ORL 02/13/2013 ORL vs. ATL L 18 8 3 5 60.0 1 1 100.0 1 2 50.0 0 1 1 0 0 0 1 0 -24
+p295
+aVNikola Vucevic ORL 02/13/2013 ORL vs. ATL L 26 6 3 7 42.9 0 0 - 0 0 - 1 6 7 3 1 0 3 3 -23
+p296
+aVArron Afflalo ORL 02/13/2013 ORL vs. ATL L 28 9 4 10 40.0 0 2 0.0 1 2 50.0 1 2 3 1 1 0 3 1 -24
+p297
+aVJosh McRoberts ORL 02/13/2013 ORL vs. ATL L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 3 0
+p298
+aVKyle O'Quinn ORL 02/13/2013 ORL vs. ATL L 22 6 3 7 42.9 0 0 - 0 0 - 2 6 8 1 2 1 1 4 -9
+p299
+aVMaurice Harkless ORL 02/13/2013 ORL vs. ATL L 21 4 2 7 28.6 0 2 0.0 0 0 - 0 4 4 1 2 1 1 0 -17
+p300
+aVAndrew Nicholson ORL 02/13/2013 ORL vs. ATL L 28 10 5 9 55.6 0 0 - 0 0 - 1 5 6 1 0 0 1 1 -11
+p301
+aVDeQuan Jones ORL 02/13/2013 ORL vs. ATL L 19 6 3 9 33.3 0 3 0.0 0 2 0.0 0 3 3 0 0 0 0 2 -7
+p302
+aVGustavo Ayon ORL 02/13/2013 ORL vs. ATL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -12
+p303
+aVIsh Smith ORL 02/10/2013 ORL vs. POR W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p304
+aVArron Afflalo ORL 02/10/2013 ORL vs. POR W 32 14 5 12 41.7 1 1 100.0 3 4 75.0 1 1 2 3 1 0 0 1 4
+p305
+aVE'Twaun Moore ORL 02/10/2013 ORL vs. POR W 10 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 1
+p306
+aVJJ Redick ORL 02/10/2013 ORL vs. POR W 29 22 9 13 69.2 2 4 50.0 2 2 100.0 1 0 1 5 1 0 2 0 12
+p307
+aVAndrew Nicholson ORL 02/10/2013 ORL vs. POR W 22 14 5 9 55.6 0 0 - 4 4 100.0 2 3 5 1 1 1 2 0 4
+p308
+aVDeQuan Jones ORL 02/10/2013 ORL vs. POR W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p309
+aVNikola Vucevic ORL 02/10/2013 ORL vs. POR W 31 17 8 12 66.7 0 0 - 1 2 50.0 6 13 19 3 0 0 3 5 13
+p310
+aVGustavo Ayon ORL 02/10/2013 ORL vs. POR W 32 16 8 14 57.1 0 0 - 0 3 0.0 3 8 11 6 1 1 1 5 8
+p311
+aVKyle O'Quinn ORL 02/10/2013 ORL vs. POR W 11 7 3 5 60.0 0 0 - 1 3 33.3 2 0 2 0 1 1 0 1 -13
+p312
+aVMaurice Harkless ORL 02/10/2013 ORL vs. POR W 30 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 -5
+p313
+aVJameer Nelson ORL 02/10/2013 ORL vs. POR W 38 10 4 18 22.2 2 9 22.2 0 0 - 1 3 4 15 0 0 2 3 8
+p314
+aVArron Afflalo ORL 02/08/2013 ORL @ CLE L 36 23 9 17 52.9 2 6 33.3 3 3 100.0 0 4 4 3 0 0 3 0 -11
+p315
+aVDeQuan Jones ORL 02/08/2013 ORL @ CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -2
+p316
+aVJosh McRoberts ORL 02/08/2013 ORL @ CLE L 12 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 0 1 0 0 3 -12
+p317
+aVNikola Vucevic ORL 02/08/2013 ORL @ CLE L 43 25 12 19 63.2 0 0 - 1 1 100.0 5 8 13 3 0 1 1 4 -8
+p318
+aVAndrew Nicholson ORL 02/08/2013 ORL @ CLE L 31 21 9 13 69.2 0 0 - 3 5 60.0 2 6 8 3 0 2 2 5 0
+p319
+aVJameer Nelson ORL 02/08/2013 ORL @ CLE L 41 15 5 16 31.3 4 9 44.4 1 1 100.0 0 5 5 13 1 2 6 5 -2
+p320
+aVMaurice Harkless ORL 02/08/2013 ORL @ CLE L 43 9 4 5 80.0 0 1 0.0 1 1 100.0 1 3 4 3 1 2 2 3 -9
+p321
+aVE'Twaun Moore ORL 02/08/2013 ORL @ CLE L 19 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 4 0 0 2 2 -9
+p322
+aVKyle O'Quinn ORL 02/08/2013 ORL @ CLE L 10 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 1 0 0 2 2 -2
+p323
+aVJameer Nelson ORL 02/06/2013 ORL vs. LAC L 38 18 6 16 37.5 3 9 33.3 3 3 100.0 0 5 5 4 1 0 4 5 -11
+p324
+aVMaurice Harkless ORL 02/06/2013 ORL vs. LAC L 38 6 2 11 18.2 0 2 0.0 2 2 100.0 1 8 9 0 1 2 1 3 -18
+p325
+aVGustavo Ayon ORL 02/06/2013 ORL vs. LAC L 15 4 2 3 66.7 0 0 - 0 1 0.0 1 1 2 0 0 0 1 2 1
+p326
+aVIsh Smith ORL 02/06/2013 ORL vs. LAC L 15 9 3 8 37.5 2 2 100.0 1 2 50.0 0 3 3 1 0 0 2 0 7
+p327
+aVE'Twaun Moore ORL 02/06/2013 ORL vs. LAC L 38 7 3 16 18.8 1 6 16.7 0 0 - 0 3 3 5 1 0 5 2 -16
+p328
+aVJosh McRoberts ORL 02/06/2013 ORL vs. LAC L 14 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 1 2 8
+p329
+aVAndrew Nicholson ORL 02/06/2013 ORL vs. LAC L 27 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 0 1 2 1 -9
+p330
+aVNikola Vucevic ORL 02/06/2013 ORL vs. LAC L 35 15 7 21 33.3 0 0 - 1 2 50.0 5 9 14 1 2 1 2 2 -22
+p331
+aVKyle O'Quinn ORL 02/06/2013 ORL vs. LAC L 19 10 4 6 66.7 0 0 - 2 2 100.0 5 4 9 3 1 1 0 3 10
+p332
+aVNikola Vucevic ORL 02/04/2013 ORL @ PHI L 31 9 3 10 30.0 0 0 - 3 4 75.0 4 10 14 0 0 0 1 1 -18
+p333
+aVE'Twaun Moore ORL 02/04/2013 ORL @ PHI L 37 18 9 17 52.9 0 4 0.0 0 0 - 0 3 3 2 1 0 1 0 -14
+p334
+aVAndrew Nicholson ORL 02/04/2013 ORL @ PHI L 28 11 5 9 55.6 0 0 - 1 2 50.0 2 4 6 0 0 0 0 1 -1
+p335
+aVHedo Turkoglu ORL 02/04/2013 ORL @ PHI L 18 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 6 1 0 1 0 5
+p336
+aVMaurice Harkless ORL 02/04/2013 ORL @ PHI L 43 10 4 13 30.8 0 2 0.0 2 2 100.0 1 4 5 2 2 1 2 1 -15
+p337
+aVGustavo Ayon ORL 02/04/2013 ORL @ PHI L 6 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 1 0 1
+p338
+aVJosh McRoberts ORL 02/04/2013 ORL @ PHI L 33 5 2 12 16.7 1 5 20.0 0 0 - 1 5 6 6 0 0 2 0 -24
+p339
+aVIsh Smith ORL 02/04/2013 ORL @ PHI L 26 4 2 10 20.0 0 0 - 0 0 - 1 2 3 2 0 0 3 0 -20
+p340
+aVKyle O'Quinn ORL 02/04/2013 ORL @ PHI L 17 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 1 1 2 1
+p341
+aVDeQuan Jones ORL 02/02/2013 ORL @ MIL L 19 8 3 7 42.9 0 1 0.0 2 5 40.0 1 3 4 1 0 0 2 1 8
+p342
+aVAndrew Nicholson ORL 02/02/2013 ORL @ MIL L 10 6 3 3 100.0 0 0 - 0 0 - 0 0 0 0 0 1 3 4 -6
+p343
+aVGustavo Ayon ORL 02/02/2013 ORL @ MIL L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -9
+p344
+aVHedo Turkoglu ORL 02/02/2013 ORL @ MIL L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -6
+p345
+aVJosh McRoberts ORL 02/02/2013 ORL @ MIL L 15 6 2 4 50.0 2 3 66.7 0 2 0.0 2 6 8 2 0 0 2 1 5
+p346
+aVIsh Smith ORL 02/02/2013 ORL @ MIL L 23 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 6 0 1 1 2 -16
+p347
+aVE'Twaun Moore ORL 02/02/2013 ORL @ MIL L 35 7 3 14 21.4 1 4 25.0 0 0 - 4 3 7 6 1 0 4 4 -13
+p348
+aVKyle O'Quinn ORL 02/02/2013 ORL @ MIL L 12 9 4 7 57.1 0 0 - 1 2 50.0 2 1 3 0 0 0 1 0 -2
+p349
+aVJJ Redick ORL 02/02/2013 ORL @ MIL L 39 15 5 16 31.3 2 9 22.2 3 4 75.0 0 1 1 8 1 0 2 0 0
+p350
+aVMaurice Harkless ORL 02/02/2013 ORL @ MIL L 42 19 7 16 43.8 0 1 0.0 5 9 55.6 6 8 14 1 4 1 0 3 -9
+p351
+aVNikola Vucevic ORL 02/02/2013 ORL @ MIL L 34 20 10 16 62.5 0 0 - 0 0 - 5 7 12 6 2 2 2 2 3
+p352
+aVJJ Redick ORL 02/01/2013 ORL @ BOS L 33 15 5 15 33.3 2 5 40.0 3 3 100.0 0 2 2 5 2 0 3 0 -7
+p353
+aVJosh McRoberts ORL 02/01/2013 ORL @ BOS L 8 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -12
+p354
+aVNikola Vucevic ORL 02/01/2013 ORL @ BOS L 32 14 6 12 50.0 0 0 - 2 2 100.0 5 9 14 1 0 2 1 4 -10
+p355
+aVHedo Turkoglu ORL 02/01/2013 ORL @ BOS L 18 0 0 6 0.0 0 4 0.0 0 0 - 0 0 0 1 1 0 0 1 -19
+p356
+aVE'Twaun Moore ORL 02/01/2013 ORL @ BOS L 24 14 6 14 42.9 1 3 33.3 1 1 100.0 1 3 4 4 1 0 3 1 0
+p357
+aVAndrew Nicholson ORL 02/01/2013 ORL @ BOS L 33 14 6 13 46.2 0 0 - 2 2 100.0 0 10 10 1 1 2 3 0 7
+p358
+aVIsh Smith ORL 02/01/2013 ORL @ BOS L 15 6 3 6 50.0 0 0 - 0 0 - 1 0 1 1 2 0 1 0 -1
+p359
+aVGustavo Ayon ORL 02/01/2013 ORL @ BOS L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -5
+p360
+aVKyle O'Quinn ORL 02/01/2013 ORL @ BOS L 7 11 5 6 83.3 0 0 - 1 1 100.0 3 0 3 1 0 0 0 1 10
+p361
+aVMaurice Harkless ORL 02/01/2013 ORL @ BOS L 30 8 4 10 40.0 0 2 0.0 0 0 - 4 4 8 2 2 0 0 2 -2
+p362
+aVJameer Nelson ORL 02/01/2013 ORL @ BOS L 19 2 1 6 16.7 0 3 0.0 0 0 - 0 0 0 2 1 0 2 1 -5
+p363
+aVDeQuan Jones ORL 02/01/2013 ORL @ BOS L 14 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -21
+p364
+aVIsh Smith ORL 01/30/2013 ORL @ NYK L 10 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p365
+aVGlen Davis ORL 01/30/2013 ORL @ NYK L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 0 0 0 0 5
+p366
+aVAndrew Nicholson ORL 01/30/2013 ORL @ NYK L 8 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -7
+p367
+aVJameer Nelson ORL 01/30/2013 ORL @ NYK L 35 21 8 17 47.1 2 7 28.6 3 4 75.0 0 3 3 9 0 0 2 3 -16
+p368
+aVMaurice Harkless ORL 01/30/2013 ORL @ NYK L 36 6 1 5 20.0 0 1 0.0 4 5 80.0 2 1 3 0 1 0 1 3 -9
+p369
+aVGustavo Ayon ORL 01/30/2013 ORL @ NYK L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -4
+p370
+aVHedo Turkoglu ORL 01/30/2013 ORL @ NYK L 16 2 1 5 20.0 0 4 0.0 0 0 - 1 3 4 1 1 0 1 0 -9
+p371
+aVJJ Redick ORL 01/30/2013 ORL @ NYK L 36 29 9 14 64.3 4 9 44.4 7 7 100.0 0 3 3 1 0 0 3 0 -9
+p372
+aVDeQuan Jones ORL 01/30/2013 ORL @ NYK L 18 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p373
+aVE'Twaun Moore ORL 01/30/2013 ORL @ NYK L 27 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 0 1 0 0 2 -12
+p374
+aVKyle O'Quinn ORL 01/30/2013 ORL @ NYK L 9 4 2 3 66.7 0 0 - 0 0 - 1 2 3 0 0 0 2 1 -2
+p375
+aVNikola Vucevic ORL 01/30/2013 ORL @ NYK L 30 12 6 8 75.0 0 0 - 0 0 - 3 8 11 0 0 0 1 3 -7
+p376
+aVGlen Davis ORL 01/28/2013 ORL @ BKN L 39 15 6 13 46.2 0 0 - 3 5 60.0 2 3 5 3 1 0 1 2 -12
+p377
+aVHedo Turkoglu ORL 01/28/2013 ORL @ BKN L 12 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 0 1 0 1 1 -13
+p378
+aVJJ Redick ORL 01/28/2013 ORL @ BKN L 38 5 2 13 15.4 1 8 12.5 0 0 - 1 5 6 10 1 0 3 0 -8
+p379
+aVKyle O'Quinn ORL 01/28/2013 ORL @ BKN L 4 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 1 0 0 4
+p380
+aVAndrew Nicholson ORL 01/28/2013 ORL @ BKN L 4 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 6
+p381
+aVMaurice Harkless ORL 01/28/2013 ORL @ BKN L 34 16 7 10 70.0 2 4 50.0 0 0 - 1 3 4 2 3 0 2 1 -14
+p382
+aVGustavo Ayon ORL 01/28/2013 ORL @ BKN L 11 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 2 0 1 -21
+p383
+aVIsh Smith ORL 01/28/2013 ORL @ BKN L 4 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 4
+p384
+aVNikola Vucevic ORL 01/28/2013 ORL @ BKN L 38 18 9 13 69.2 0 0 - 0 0 - 3 6 9 1 0 2 1 3 -17
+p385
+aVE'Twaun Moore ORL 01/28/2013 ORL @ BKN L 9 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 3 1 -11
+p386
+aVDeQuan Jones ORL 01/28/2013 ORL @ BKN L 9 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -8
+p387
+aVJameer Nelson ORL 01/28/2013 ORL @ BKN L 38 9 3 12 25.0 3 8 37.5 0 0 - 1 3 4 7 2 0 3 3 -10
+p388
+aVArron Afflalo ORL 01/27/2013 ORL vs. DET L 26 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 4 1 0 1 3 -3
+p389
+aVJJ Redick ORL 01/27/2013 ORL vs. DET L 40 31 10 17 58.8 8 11 72.7 3 5 60.0 2 4 6 2 3 0 5 3 0
+p390
+aVMaurice Harkless ORL 01/27/2013 ORL vs. DET L 13 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 0 1 1 0 1 1
+p391
+aVNikola Vucevic ORL 01/27/2013 ORL vs. DET L 40 12 6 13 46.2 0 0 - 0 0 - 8 9 17 3 0 1 1 4 -4
+p392
+aVGustavo Ayon ORL 01/27/2013 ORL vs. DET L 12 0 0 0 - 0 0 - 0 0 - 1 2 3 1 1 0 0 0 1
+p393
+aVGlen Davis ORL 01/27/2013 ORL vs. DET L 38 17 8 22 36.4 0 0 - 1 2 50.0 5 7 12 4 0 0 5 2 -3
+p394
+aVIsh Smith ORL 01/27/2013 ORL vs. DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p395
+aVJameer Nelson ORL 01/27/2013 ORL vs. DET L 37 18 6 14 42.9 1 6 16.7 5 6 83.3 1 5 6 8 1 0 2 5 -7
+p396
+aVE'Twaun Moore ORL 01/27/2013 ORL vs. DET L 29 18 7 14 50.0 1 4 25.0 3 3 100.0 0 1 1 3 2 0 1 3 4
+p397
+aVArron Afflalo ORL 01/24/2013 ORL vs. TOR L 42 16 6 16 37.5 2 4 50.0 2 2 100.0 0 4 4 2 0 0 4 0 -6
+p398
+aVMaurice Harkless ORL 01/24/2013 ORL vs. TOR L 16 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 1 0 0 2 -1
+p399
+aVE'Twaun Moore ORL 01/24/2013 ORL vs. TOR L 23 11 2 7 28.6 1 3 33.3 6 6 100.0 2 1 3 1 0 0 1 1 -2
+p400
+aVGlen Davis ORL 01/24/2013 ORL vs. TOR L 34 15 7 12 58.3 0 0 - 1 2 50.0 2 5 7 2 1 1 1 5 5
+p401
+aVGustavo Ayon ORL 01/24/2013 ORL vs. TOR L 7 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 0 -5
+p402
+aVAndrew Nicholson ORL 01/24/2013 ORL vs. TOR L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p403
+aVNikola Vucevic ORL 01/24/2013 ORL vs. TOR L 30 19 8 14 57.1 0 0 - 3 4 75.0 4 10 14 1 0 3 0 0 -3
+p404
+aVJameer Nelson ORL 01/24/2013 ORL vs. TOR L 43 14 5 13 38.5 3 7 42.9 1 2 50.0 1 6 7 11 3 0 3 1 6
+p405
+aVJJ Redick ORL 01/24/2013 ORL vs. TOR L 40 14 4 11 36.4 2 3 66.7 4 4 100.0 0 2 2 3 0 0 2 2 1
+p406
+aVIsh Smith ORL 01/24/2013 ORL vs. TOR L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p407
+aVAndrew Nicholson ORL 01/22/2013 ORL @ DET L 11 6 3 5 60.0 0 0 - 0 0 - 1 2 3 0 0 1 1 4 -3
+p408
+aVGlen Davis ORL 01/22/2013 ORL @ DET L 23 11 4 16 25.0 0 0 - 3 4 75.0 0 3 3 1 0 0 1 1 -13
+p409
+aVNikola Vucevic ORL 01/22/2013 ORL @ DET L 28 10 5 10 50.0 0 0 - 0 0 - 0 9 9 1 0 1 0 3 1
+p410
+aVGustavo Ayon ORL 01/22/2013 ORL @ DET L 10 8 4 4 100.0 0 0 - 0 0 - 0 0 0 1 0 0 3 2 -9
+p411
+aVKyle O'Quinn ORL 01/22/2013 ORL @ DET L 4 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p412
+aVArron Afflalo ORL 01/22/2013 ORL @ DET L 38 0 0 4 0.0 0 1 0.0 0 0 - 0 9 9 5 1 0 0 2 -17
+p413
+aVE'Twaun Moore ORL 01/22/2013 ORL @ DET L 20 9 4 7 57.1 1 2 50.0 0 0 - 2 3 5 2 1 0 4 2 -12
+p414
+aVMaurice Harkless ORL 01/22/2013 ORL @ DET L 15 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -11
+p415
+aVDeQuan Jones ORL 01/22/2013 ORL @ DET L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p416
+aVJosh McRoberts ORL 01/22/2013 ORL @ DET L 10 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -13
+p417
+aVJameer Nelson ORL 01/22/2013 ORL @ DET L 33 14 6 18 33.3 2 10 20.0 0 0 - 0 3 3 9 1 0 2 3 -4
+p418
+aVJJ Redick ORL 01/22/2013 ORL @ DET L 37 26 9 10 90.0 5 6 83.3 3 4 75.0 0 2 2 3 0 0 2 1 -2
+p419
+aVIsh Smith ORL 01/22/2013 ORL @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 1 0 0 0 2
+p420
+aVE'Twaun Moore ORL 01/20/2013 ORL vs. DAL L 12 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 1 0 0 0 2 -16
+p421
+aVJJ Redick ORL 01/20/2013 ORL vs. DAL L 32 18 7 13 53.8 2 6 33.3 2 2 100.0 0 4 4 4 0 0 1 1 -20
+p422
+aVJameer Nelson ORL 01/20/2013 ORL vs. DAL L 38 20 7 17 41.2 4 9 44.4 2 2 100.0 2 4 6 5 0 0 3 4 6
+p423
+aVDeQuan Jones ORL 01/20/2013 ORL vs. DAL L 13 3 1 1 100.0 1 1 100.0 0 0 - 1 2 3 1 0 0 1 0 -3
+p424
+aVJosh McRoberts ORL 01/20/2013 ORL vs. DAL L 16 1 0 0 - 0 0 - 1 2 50.0 0 1 1 3 1 1 1 0 -12
+p425
+aVArron Afflalo ORL 01/20/2013 ORL vs. DAL L 39 16 5 13 38.5 1 2 50.0 5 6 83.3 0 6 6 3 0 0 1 2 3
+p426
+aVNikola Vucevic ORL 01/20/2013 ORL vs. DAL L 41 14 6 11 54.5 0 0 - 2 2 100.0 2 9 11 3 1 1 3 3 2
+p427
+aVGlen Davis ORL 01/20/2013 ORL vs. DAL L 35 24 10 16 62.5 0 0 - 4 6 66.7 0 6 6 6 2 1 2 1 11
+p428
+aVMaurice Harkless ORL 01/20/2013 ORL vs. DAL L 15 6 3 4 75.0 0 1 0.0 0 0 - 0 4 4 0 1 0 1 1 -1
+p429
+aVJosh McRoberts ORL 01/18/2013 ORL vs. CHA L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p430
+aVDeQuan Jones ORL 01/18/2013 ORL vs. CHA L 20 7 3 5 60.0 1 2 50.0 0 0 - 1 0 1 0 1 0 2 0 -2
+p431
+aVGlen Davis ORL 01/18/2013 ORL vs. CHA L 24 4 1 5 20.0 0 0 - 2 4 50.0 0 8 8 3 1 0 2 5 -1
+p432
+aVKyle O'Quinn ORL 01/18/2013 ORL vs. CHA L 3 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 0 1 2
+p433
+aVNikola Vucevic ORL 01/18/2013 ORL vs. CHA L 40 11 5 8 62.5 0 0 - 1 2 50.0 5 4 9 3 0 3 0 3 -4
+p434
+aVJJ Redick ORL 01/18/2013 ORL vs. CHA L 32 13 4 9 44.4 3 7 42.9 2 3 66.7 0 1 1 3 0 0 4 3 -5
+p435
+aVE'Twaun Moore ORL 01/18/2013 ORL vs. CHA L 15 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 1 0 0 0 5 -6
+p436
+aVAndrew Nicholson ORL 01/18/2013 ORL vs. CHA L 18 10 4 6 66.7 0 0 - 2 2 100.0 2 4 6 1 0 0 1 2 -3
+p437
+aVArron Afflalo ORL 01/18/2013 ORL vs. CHA L 40 23 8 20 40.0 1 6 16.7 6 7 85.7 2 2 4 2 1 0 3 5 -6
+p438
+aVJameer Nelson ORL 01/18/2013 ORL vs. CHA L 38 22 8 17 47.1 4 10 40.0 2 2 100.0 0 5 5 7 0 0 1 3 -1
+p439
+aVJJ Redick ORL 01/16/2013 ORL vs. IND W 29 14 5 8 62.5 4 6 66.7 0 0 - 0 4 4 6 0 1 0 1 16
+p440
+aVGlen Davis ORL 01/16/2013 ORL vs. IND W 25 11 5 14 35.7 0 0 - 1 1 100.0 1 3 4 1 1 0 1 0 7
+p441
+aVArron Afflalo ORL 01/16/2013 ORL vs. IND W 35 15 7 13 53.8 1 3 33.3 0 0 - 0 5 5 5 1 0 4 1 8
+p442
+aVAndrew Nicholson ORL 01/16/2013 ORL vs. IND W 13 4 2 8 25.0 0 0 - 0 0 - 3 2 5 0 0 0 1 6 4
+p443
+aVIsh Smith ORL 01/16/2013 ORL vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p444
+aVMaurice Harkless ORL 01/16/2013 ORL vs. IND W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p445
+aVE'Twaun Moore ORL 01/16/2013 ORL vs. IND W 22 9 3 6 50.0 1 2 50.0 2 2 100.0 0 2 2 5 2 0 1 1 11
+p446
+aVDeQuan Jones ORL 01/16/2013 ORL vs. IND W 22 4 2 3 66.7 0 0 - 0 0 - 0 5 5 2 1 0 1 3 -5
+p447
+aVNikola Vucevic ORL 01/16/2013 ORL vs. IND W 35 16 7 13 53.8 0 0 - 2 2 100.0 4 11 15 1 1 0 0 1 10
+p448
+aVKyle O'Quinn ORL 01/16/2013 ORL vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p449
+aVJameer Nelson ORL 01/16/2013 ORL vs. IND W 33 14 5 12 41.7 4 6 66.7 0 0 - 0 0 0 6 4 0 1 4 11
+p450
+aVJosh McRoberts ORL 01/16/2013 ORL vs. IND W 20 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 3 0 1 2 2 13
+p451
+aVDeQuan Jones ORL 01/14/2013 ORL @ WAS L 20 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 2 0 -18
+p452
+aVArron Afflalo ORL 01/14/2013 ORL @ WAS L 37 2 1 11 9.1 0 1 0.0 0 0 - 0 2 2 3 1 0 0 2 -19
+p453
+aVJameer Nelson ORL 01/14/2013 ORL @ WAS L 34 19 6 17 35.3 3 7 42.9 4 4 100.0 0 2 2 12 3 0 4 2 -11
+p454
+aVMaurice Harkless ORL 01/14/2013 ORL @ WAS L 11 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 1 -10
+p455
+aVJosh McRoberts ORL 01/14/2013 ORL @ WAS L 13 5 2 4 50.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 0 -4
+p456
+aVJJ Redick ORL 01/14/2013 ORL @ WAS L 21 12 4 8 50.0 2 6 33.3 2 2 100.0 1 0 1 4 0 0 0 0 -7
+p457
+aVAndrew Nicholson ORL 01/14/2013 ORL @ WAS L 16 6 3 8 37.5 0 0 - 0 0 - 1 1 2 0 1 0 1 4 -14
+p458
+aVNikola Vucevic ORL 01/14/2013 ORL @ WAS L 33 13 6 10 60.0 0 0 - 1 2 50.0 3 10 13 1 1 0 1 4 -7
+p459
+aVKyle O'Quinn ORL 01/14/2013 ORL @ WAS L 8 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 1 -11
+p460
+aVIsh Smith ORL 01/14/2013 ORL @ WAS L 14 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 1 1 3 1 -18
+p461
+aVGlen Davis ORL 01/14/2013 ORL @ WAS L 18 13 6 8 75.0 0 0 - 1 2 50.0 1 3 4 1 0 2 1 1 -13
+p462
+aVE'Twaun Moore ORL 01/14/2013 ORL @ WAS L 16 5 1 5 20.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 0 -13
+p463
+aVAndrew Nicholson ORL 01/12/2013 ORL @ LAC W 29 8 4 8 50.0 0 0 - 0 0 - 1 4 5 1 1 0 4 2 -11
+p464
+aVNikola Vucevic ORL 01/12/2013 ORL @ LAC W 35 18 7 9 77.8 0 0 - 4 6 66.7 5 10 15 1 1 1 1 2 -3
+p465
+aVIsh Smith ORL 01/12/2013 ORL @ LAC W 12 7 3 6 50.0 1 2 50.0 0 1 0.0 0 2 2 2 0 0 0 0 9
+p466
+aVJosh McRoberts ORL 01/12/2013 ORL @ LAC W 28 7 2 8 25.0 1 5 20.0 2 2 100.0 1 1 2 4 0 0 1 1 17
+p467
+aVDeQuan Jones ORL 01/12/2013 ORL @ LAC W 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -2
+p468
+aVArron Afflalo ORL 01/12/2013 ORL @ LAC W 40 30 10 19 52.6 3 3 100.0 7 8 87.5 3 4 7 7 1 0 1 1 -3
+p469
+aVKyle O'Quinn ORL 01/12/2013 ORL @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 3
+p470
+aVJJ Redick ORL 01/12/2013 ORL @ LAC W 33 21 8 14 57.1 4 8 50.0 1 1 100.0 0 3 3 3 0 0 3 1 11
+p471
+aVMaurice Harkless ORL 01/12/2013 ORL @ LAC W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p472
+aVJameer Nelson ORL 01/12/2013 ORL @ LAC W 36 11 4 14 28.6 2 7 28.6 1 1 100.0 0 3 3 9 2 0 2 3 -6
+p473
+aVArron Afflalo ORL 01/09/2013 ORL @ DEN L 33 12 4 14 28.6 1 5 20.0 3 4 75.0 0 3 3 1 0 0 4 6 -11
+p474
+aVKyle O'Quinn ORL 01/09/2013 ORL @ DEN L 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 2 0 4 0
+p475
+aVIsh Smith ORL 01/09/2013 ORL @ DEN L 9 4 2 5 40.0 0 0 - 0 0 - 0 0 0 5 1 1 0 0 6
+p476
+aVAndrew Nicholson ORL 01/09/2013 ORL @ DEN L 20 12 6 10 60.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -8
+p477
+aVMaurice Harkless ORL 01/09/2013 ORL @ DEN L 12 9 4 7 57.1 1 2 50.0 0 0 - 2 4 6 1 0 1 0 1 4
+p478
+aVNikola Vucevic ORL 01/09/2013 ORL @ DEN L 32 10 5 9 55.6 0 0 - 0 0 - 3 11 14 0 1 2 2 6 11
+p479
+aVJJ Redick ORL 01/09/2013 ORL @ DEN L 31 17 5 13 38.5 4 8 50.0 3 3 100.0 0 2 2 4 0 2 0 1 10
+p480
+aVJameer Nelson ORL 01/09/2013 ORL @ DEN L 39 20 8 18 44.4 1 5 20.0 3 3 100.0 0 2 2 8 1 1 3 3 -9
+p481
+aVDeQuan Jones ORL 01/09/2013 ORL @ DEN L 26 11 5 7 71.4 1 1 100.0 0 0 - 2 3 5 2 1 1 0 2 -4
+p482
+aVJosh McRoberts ORL 01/09/2013 ORL @ DEN L 26 6 3 8 37.5 0 3 0.0 0 0 - 3 4 7 0 1 1 1 3 -14
+p483
+aVIsh Smith ORL 01/07/2013 ORL @ POR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 2 0 0 1 -1
+p484
+aVMaurice Harkless ORL 01/07/2013 ORL @ POR L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p485
+aVNikola Vucevic ORL 01/07/2013 ORL @ POR L 47 17 8 16 50.0 0 0 - 1 1 100.0 2 11 13 5 0 1 2 6 -8
+p486
+aVJJ Redick ORL 01/07/2013 ORL @ POR L 33 29 11 17 64.7 6 10 60.0 1 1 100.0 0 1 1 5 0 1 1 2 5
+p487
+aVAndrew Nicholson ORL 01/07/2013 ORL @ POR L 17 8 3 5 60.0 0 0 - 2 2 100.0 2 4 6 0 1 0 1 4 -1
+p488
+aVJameer Nelson ORL 01/07/2013 ORL @ POR L 48 21 7 21 33.3 2 11 18.2 5 6 83.3 1 2 3 12 1 0 1 5 -5
+p489
+aVHedo Turkoglu ORL 01/07/2013 ORL @ POR L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p490
+aVJosh McRoberts ORL 01/07/2013 ORL @ POR L 39 12 4 6 66.7 2 3 66.7 2 2 100.0 0 6 6 8 0 1 2 5 -2
+p491
+aVDeQuan Jones ORL 01/07/2013 ORL @ POR L 19 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 0 0 1 1 0 -11
+p492
+aVArron Afflalo ORL 01/07/2013 ORL @ POR L 47 24 9 18 50.0 1 4 25.0 5 6 83.3 1 4 5 3 0 0 2 1 -1
+p493
+aVArron Afflalo ORL 01/05/2013 ORL vs. NYK L 38 29 10 14 71.4 2 3 66.7 7 9 77.8 0 1 1 4 0 0 3 2 6
+p494
+aVDeQuan Jones ORL 01/05/2013 ORL vs. NYK L 24 8 4 8 50.0 0 2 0.0 0 1 0.0 1 5 6 1 0 0 0 3 13
+p495
+aVJameer Nelson ORL 01/05/2013 ORL vs. NYK L 40 29 10 20 50.0 5 9 55.6 4 4 100.0 0 3 3 8 1 1 3 4 -8
+p496
+aVIsh Smith ORL 01/05/2013 ORL vs. NYK L 4 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 3
+p497
+aVAndrew Nicholson ORL 01/05/2013 ORL vs. NYK L 14 11 5 6 83.3 0 0 - 1 1 100.0 0 2 2 1 1 1 1 0 14
+p498
+aVHedo Turkoglu ORL 01/05/2013 ORL vs. NYK L 18 1 0 5 0.0 0 2 0.0 1 2 50.0 0 2 2 0 1 0 2 0 -13
+p499
+aVMaurice Harkless ORL 01/05/2013 ORL vs. NYK L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 1 1 0 -9
+p500
+aVNikola Vucevic ORL 01/05/2013 ORL vs. NYK L 37 11 5 12 41.7 0 0 - 1 1 100.0 6 12 18 2 1 1 2 4 -1
+p501
+aVJJ Redick ORL 01/05/2013 ORL vs. NYK L 28 9 3 10 30.0 3 9 33.3 0 0 - 0 3 3 1 0 0 0 2 -27
+p502
+aVJosh McRoberts ORL 01/05/2013 ORL vs. NYK L 30 2 1 5 20.0 0 0 - 0 0 - 5 5 10 5 0 0 1 4 -18
+p503
+aVJJ Redick ORL 01/02/2013 ORL vs. CHI L 34 7 3 12 25.0 1 8 12.5 0 0 - 0 1 1 2 0 0 2 1 -9
+p504
+aVIsh Smith ORL 01/02/2013 ORL vs. CHI L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 0
+p505
+aVJosh McRoberts ORL 01/02/2013 ORL vs. CHI L 21 2 1 4 25.0 0 2 0.0 0 0 - 2 2 4 5 1 1 0 0 4
+p506
+aVNikola Vucevic ORL 01/02/2013 ORL vs. CHI L 39 20 8 14 57.1 0 0 - 4 6 66.7 5 7 12 0 1 1 3 5 2
+p507
+aVGustavo Ayon ORL 01/02/2013 ORL vs. CHI L 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -14
+p508
+aVArron Afflalo ORL 01/02/2013 ORL vs. CHI L 41 19 7 13 53.8 2 4 50.0 3 4 75.0 0 1 1 3 0 0 2 4 0
+p509
+aVAndrew Nicholson ORL 01/02/2013 ORL vs. CHI L 12 6 3 5 60.0 0 0 - 0 0 - 0 4 4 1 0 1 0 3 3
+p510
+aVDeQuan Jones ORL 01/02/2013 ORL vs. CHI L 11 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 4
+p511
+aVJameer Nelson ORL 01/02/2013 ORL vs. CHI L 40 32 11 20 55.0 6 9 66.7 4 4 100.0 0 5 5 4 2 0 4 2 -2
+p512
+aVKyle O'Quinn ORL 01/02/2013 ORL vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p513
+aVHedo Turkoglu ORL 01/02/2013 ORL vs. CHI L 18 0 0 3 0.0 0 1 0.0 0 0 - 0 5 5 1 0 0 0 3 4
+p514
+aVArron Afflalo ORL 12/31/2012 ORL vs. MIA L 46 28 9 19 47.4 2 6 33.3 8 9 88.9 0 4 4 3 1 1 2 5 11
+p515
+aVKyle O'Quinn ORL 12/31/2012 ORL vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -3
+p516
+aVAndrew Nicholson ORL 12/31/2012 ORL vs. MIA L 17 10 5 10 50.0 0 0 - 0 1 0.0 2 1 3 0 0 0 0 2 -11
+p517
+aVNikola Vucevic ORL 12/31/2012 ORL vs. MIA L 47 20 9 17 52.9 0 0 - 2 4 50.0 11 18 29 2 3 2 0 4 6
+p518
+aVJJ Redick ORL 12/31/2012 ORL vs. MIA L 36 23 9 13 69.2 5 9 55.6 0 0 - 0 1 1 5 0 0 3 1 -1
+p519
+aVJosh McRoberts ORL 12/31/2012 ORL vs. MIA L 40 12 3 8 37.5 0 2 0.0 6 6 100.0 2 4 6 3 0 0 0 5 4
+p520
+aVDeQuan Jones ORL 12/31/2012 ORL vs. MIA L 24 6 2 6 33.3 0 1 0.0 2 2 100.0 0 1 1 1 1 0 1 3 -14
+p521
+aVIsh Smith ORL 12/31/2012 ORL vs. MIA L 14 2 1 4 25.0 0 0 - 0 0 - 2 0 2 2 0 0 4 1 -11
+p522
+aVHedo Turkoglu ORL 12/31/2012 ORL vs. MIA L 39 9 4 11 36.4 1 5 20.0 0 0 - 0 3 3 8 0 1 5 3 9
+p523
+aVIsh Smith ORL 12/29/2012 ORL vs. TOR L 33 13 6 12 50.0 1 2 50.0 0 2 0.0 3 1 4 6 2 2 0 0 -20
+p524
+aVArron Afflalo ORL 12/29/2012 ORL vs. TOR L 38 14 5 14 35.7 1 6 16.7 3 4 75.0 0 2 2 6 1 0 3 3 -24
+p525
+aVDeQuan Jones ORL 12/29/2012 ORL vs. TOR L 17 5 2 4 50.0 0 1 0.0 1 2 50.0 0 3 3 0 0 1 0 1 -9
+p526
+aVMaurice Harkless ORL 12/29/2012 ORL vs. TOR L 22 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 1 3 0 0 -4
+p527
+aVJJ Redick ORL 12/29/2012 ORL vs. TOR L 28 9 2 12 16.7 2 6 33.3 3 4 75.0 0 1 1 1 0 0 1 2 -30
+p528
+aVJosh McRoberts ORL 12/29/2012 ORL vs. TOR L 13 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 0 1 1 2 -21
+p529
+aVNikola Vucevic ORL 12/29/2012 ORL vs. TOR L 28 8 4 7 57.1 0 0 - 0 2 0.0 4 5 9 1 1 1 0 1 -4
+p530
+aVGustavo Ayon ORL 12/29/2012 ORL vs. TOR L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p531
+aVAndrew Nicholson ORL 12/29/2012 ORL vs. TOR L 26 22 10 14 71.4 0 0 - 2 4 50.0 0 7 7 0 1 0 0 3 -10
+p532
+aVKyle O'Quinn ORL 12/29/2012 ORL vs. TOR L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p533
+aVHedo Turkoglu ORL 12/29/2012 ORL vs. TOR L 23 8 3 8 37.5 0 2 0.0 2 4 50.0 1 4 5 3 0 0 2 0 -37
+p534
+aVKyle O'Quinn ORL 12/28/2012 ORL @ WAS L 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -5
+p535
+aVJJ Redick ORL 12/28/2012 ORL @ WAS L 35 23 9 18 50.0 5 12 41.7 0 0 - 0 4 4 4 2 0 0 1 -16
+p536
+aVNikola Vucevic ORL 12/28/2012 ORL @ WAS L 35 8 4 8 50.0 0 0 - 0 2 0.0 1 10 11 3 0 1 3 3 -7
+p537
+aVDeQuan Jones ORL 12/28/2012 ORL @ WAS L 13 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 0 -2
+p538
+aVMaurice Harkless ORL 12/28/2012 ORL @ WAS L 16 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 12
+p539
+aVE'Twaun Moore ORL 12/28/2012 ORL @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p540
+aVIsh Smith ORL 12/28/2012 ORL @ WAS L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 0 -7
+p541
+aVGustavo Ayon ORL 12/28/2012 ORL @ WAS L 35 8 4 8 50.0 0 0 - 0 0 - 3 4 7 3 0 0 3 3 2
+p542
+aVJameer Nelson ORL 12/28/2012 ORL @ WAS L 34 16 6 15 40.0 4 7 57.1 0 0 - 0 3 3 8 1 0 3 2 -1
+p543
+aVJosh McRoberts ORL 12/28/2012 ORL @ WAS L 10 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 2 0 0 1 0 -4
+p544
+aVArron Afflalo ORL 12/28/2012 ORL @ WAS L 38 26 9 21 42.9 1 6 16.7 7 7 100.0 1 3 4 2 2 0 1 2 1
+p545
+aVAndrew Nicholson ORL 12/28/2012 ORL @ WAS L 5 2 1 4 25.0 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -8
+p546
+aVAndrew Nicholson ORL 12/26/2012 ORL vs. NOH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p547
+aVArron Afflalo ORL 12/26/2012 ORL vs. NOH L 39 14 6 14 42.9 2 7 28.6 0 0 - 1 2 3 2 0 0 3 2 0
+p548
+aVJameer Nelson ORL 12/26/2012 ORL vs. NOH L 38 28 11 17 64.7 4 8 50.0 2 2 100.0 0 5 5 10 0 0 6 3 3
+p549
+aVE'Twaun Moore ORL 12/26/2012 ORL vs. NOH L 30 10 4 9 44.4 2 5 40.0 0 0 - 3 3 6 2 1 3 1 3 2
+p550
+aVMaurice Harkless ORL 12/26/2012 ORL vs. NOH L 22 2 1 5 20.0 0 1 0.0 0 0 - 1 6 7 1 1 0 1 1 -11
+p551
+aVJJ Redick ORL 12/26/2012 ORL vs. NOH L 35 12 2 10 20.0 2 7 28.6 6 6 100.0 1 4 5 6 2 0 1 0 7
+p552
+aVGustavo Ayon ORL 12/26/2012 ORL vs. NOH L 28 4 2 4 50.0 0 0 - 0 0 - 1 2 3 2 1 2 1 4 1
+p553
+aVNikola Vucevic ORL 12/26/2012 ORL vs. NOH L 33 19 8 17 47.1 0 1 0.0 3 5 60.0 4 5 9 1 0 0 0 3 -11
+p554
+aVJosh McRoberts ORL 12/26/2012 ORL vs. NOH L 13 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p555
+aVJameer Nelson ORL 12/23/2012 ORL vs. UTA L 44 14 5 13 38.5 4 7 57.1 0 0 - 1 3 4 9 1 0 4 4 -3
+p556
+aVAndrew Nicholson ORL 12/23/2012 ORL vs. UTA L 11 8 4 7 57.1 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p557
+aVKyle O'Quinn ORL 12/23/2012 ORL vs. UTA L 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -3
+p558
+aVGustavo Ayon ORL 12/23/2012 ORL vs. UTA L 37 9 3 7 42.9 0 0 - 3 6 50.0 3 9 12 3 0 0 1 3 4
+p559
+aVDeQuan Jones ORL 12/23/2012 ORL vs. UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p560
+aVMaurice Harkless ORL 12/23/2012 ORL vs. UTA L 18 7 3 4 75.0 1 1 100.0 0 2 0.0 1 1 2 1 2 1 1 2 3
+p561
+aVJJ Redick ORL 12/23/2012 ORL vs. UTA L 30 14 5 10 50.0 2 5 40.0 2 3 66.7 0 2 2 5 1 0 7 4 -9
+p562
+aVE'Twaun Moore ORL 12/23/2012 ORL vs. UTA L 14 3 1 5 20.0 1 4 25.0 0 0 - 1 2 3 2 0 0 0 4 0
+p563
+aVArron Afflalo ORL 12/23/2012 ORL vs. UTA L 38 20 9 19 47.4 1 3 33.3 1 2 50.0 1 3 4 3 0 0 3 0 -3
+p564
+aVNikola Vucevic ORL 12/23/2012 ORL vs. UTA L 40 16 7 10 70.0 0 0 - 2 2 100.0 4 12 16 1 0 1 2 3 -1
+p565
+aVMaurice Harkless ORL 12/21/2012 ORL @ TOR L 13 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p566
+aVArron Afflalo ORL 12/21/2012 ORL @ TOR L 42 26 7 11 63.6 3 3 100.0 9 9 100.0 0 1 1 5 0 0 5 4 3
+p567
+aVDeQuan Jones ORL 12/21/2012 ORL @ TOR L 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p568
+aVAndrew Nicholson ORL 12/21/2012 ORL @ TOR L 20 6 3 10 30.0 0 0 - 0 0 - 0 4 4 1 1 0 3 2 -14
+p569
+aVE'Twaun Moore ORL 12/21/2012 ORL @ TOR L 22 12 6 11 54.5 0 3 0.0 0 0 - 1 2 3 1 0 0 1 2 -2
+p570
+aVJosh McRoberts ORL 12/21/2012 ORL @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p571
+aVNikola Vucevic ORL 12/21/2012 ORL @ TOR L 31 16 8 12 66.7 0 0 - 0 0 - 4 8 12 2 1 2 0 1 -3
+p572
+aVJJ Redick ORL 12/21/2012 ORL @ TOR L 35 9 3 9 33.3 0 5 0.0 3 4 75.0 0 3 3 5 1 0 2 2 0
+p573
+aVGustavo Ayon ORL 12/21/2012 ORL @ TOR L 28 12 4 4 100.0 0 0 - 4 6 66.7 2 11 13 0 1 0 1 2 8
+p574
+aVJameer Nelson ORL 12/21/2012 ORL @ TOR L 42 9 4 10 40.0 1 3 33.3 0 0 - 0 6 6 7 0 0 5 0 4
+p575
+aVNikola Vucevic ORL 12/19/2012 ORL vs. WAS W 34 8 4 9 44.4 0 1 0.0 0 0 - 3 10 13 0 0 1 0 2 -2
+p576
+aVE'Twaun Moore ORL 12/19/2012 ORL vs. WAS W 20 15 6 10 60.0 3 5 60.0 0 0 - 1 0 1 2 2 0 1 0 1
+p577
+aVJosh McRoberts ORL 12/19/2012 ORL vs. WAS W 10 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 1 0 0 1 1 10
+p578
+aVMaurice Harkless ORL 12/19/2012 ORL vs. WAS W 18 9 3 6 50.0 0 1 0.0 3 4 75.0 2 5 7 0 2 0 2 0 3
+p579
+aVJJ Redick ORL 12/19/2012 ORL vs. WAS W 26 17 5 9 55.6 4 6 66.7 3 3 100.0 0 2 2 3 0 0 2 1 15
+p580
+aVArron Afflalo ORL 12/19/2012 ORL vs. WAS W 39 15 6 18 33.3 0 5 0.0 3 4 75.0 0 3 3 3 2 0 1 0 -5
+p581
+aVGlen Davis ORL 12/19/2012 ORL vs. WAS W 39 12 6 18 33.3 0 0 - 0 0 - 2 7 9 1 1 2 4 3 -5
+p582
+aVAndrew Nicholson ORL 12/19/2012 ORL vs. WAS W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 11
+p583
+aVGustavo Ayon ORL 12/19/2012 ORL vs. WAS W 16 3 1 2 50.0 0 0 - 1 2 50.0 1 7 8 3 1 0 1 4 10
+p584
+aVJameer Nelson ORL 12/19/2012 ORL vs. WAS W 31 8 2 5 40.0 0 1 0.0 4 4 100.0 0 2 2 5 3 0 1 1 -3
+p585
+aVGlen Davis ORL 12/17/2012 ORL vs. MIN W 32 28 13 17 76.5 0 0 - 2 2 100.0 2 3 5 1 2 0 2 4 8
+p586
+aVAndrew Nicholson ORL 12/17/2012 ORL vs. MIN W 11 0 0 3 0.0 0 0 - 0 0 - 0 5 5 0 1 0 2 2 8
+p587
+aVJosh McRoberts ORL 12/17/2012 ORL vs. MIN W 23 4 2 5 40.0 0 2 0.0 0 0 - 2 2 4 2 1 0 0 0 15
+p588
+aVGustavo Ayon ORL 12/17/2012 ORL vs. MIN W 18 9 3 3 100.0 0 0 - 3 3 100.0 0 3 3 2 1 1 3 5 1
+p589
+aVMaurice Harkless ORL 12/17/2012 ORL vs. MIN W 15 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 1 0 0 1 -9
+p590
+aVArron Afflalo ORL 12/17/2012 ORL vs. MIN W 31 13 5 11 45.5 2 2 100.0 1 1 100.0 0 5 5 3 1 0 0 1 1
+p591
+aVJameer Nelson ORL 12/17/2012 ORL vs. MIN W 35 6 2 11 18.2 0 3 0.0 2 2 100.0 0 4 4 12 1 0 4 2 -3
+p592
+aVKyle O'Quinn ORL 12/17/2012 ORL vs. MIN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p593
+aVNikola Vucevic ORL 12/17/2012 ORL vs. MIN W 33 14 7 13 53.8 0 0 - 0 0 - 2 9 11 2 1 2 3 3 7
+p594
+aVE'Twaun Moore ORL 12/17/2012 ORL vs. MIN W 13 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 2 0 0 2 2 12
+p595
+aVJJ Redick ORL 12/17/2012 ORL vs. MIN W 28 18 8 12 66.7 2 4 50.0 0 0 - 0 1 1 7 0 0 1 0 11
+p596
+aVGlen Davis ORL 12/15/2012 ORL @ CHA W 34 20 7 11 63.6 0 0 - 6 8 75.0 1 3 4 2 0 0 2 5 10
+p597
+aVJameer Nelson ORL 12/15/2012 ORL @ CHA W 31 16 7 13 53.8 1 4 25.0 1 2 50.0 1 3 4 6 0 1 1 5 10
+p598
+aVJJ Redick ORL 12/15/2012 ORL @ CHA W 31 14 4 10 40.0 3 9 33.3 3 3 100.0 0 4 4 3 0 0 1 2 8
+p599
+aVE'Twaun Moore ORL 12/15/2012 ORL @ CHA W 22 6 3 9 33.3 0 2 0.0 0 0 - 2 0 2 5 1 2 1 2 0
+p600
+aVArron Afflalo ORL 12/15/2012 ORL @ CHA W 37 20 8 14 57.1 1 2 50.0 3 3 100.0 1 5 6 3 0 0 2 3 4
+p601
+aVGustavo Ayon ORL 12/15/2012 ORL @ CHA W 14 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 3 0 0 2 1 -3
+p602
+aVIsh Smith ORL 12/15/2012 ORL @ CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p603
+aVNikola Vucevic ORL 12/15/2012 ORL @ CHA W 31 13 6 10 60.0 0 0 - 1 1 100.0 4 9 13 2 0 1 4 1 7
+p604
+aVMaurice Harkless ORL 12/15/2012 ORL @ CHA W 21 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 4 1 3 4
+p605
+aVAndrew Nicholson ORL 12/15/2012 ORL @ CHA W 16 8 4 7 57.1 0 0 - 0 0 - 0 3 3 0 0 0 0 3 4
+p606
+aVKyle O'Quinn ORL 12/14/2012 ORL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p607
+aVGlen Davis ORL 12/14/2012 ORL vs. GSW W 28 8 4 9 44.4 0 0 - 0 0 - 0 2 2 0 1 1 2 1 14
+p608
+aVDeQuan Jones ORL 12/14/2012 ORL vs. GSW W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 0 5
+p609
+aVAndrew Nicholson ORL 12/14/2012 ORL vs. GSW W 25 15 6 9 66.7 0 0 - 3 4 75.0 2 7 9 0 0 4 1 3 15
+p610
+aVJJ Redick ORL 12/14/2012 ORL vs. GSW W 27 16 6 12 50.0 4 7 57.1 0 0 - 0 4 4 4 0 0 3 0 -1
+p611
+aVArron Afflalo ORL 12/14/2012 ORL vs. GSW W 35 14 5 12 41.7 2 3 66.7 2 2 100.0 2 5 7 2 2 0 3 3 9
+p612
+aVJameer Nelson ORL 12/14/2012 ORL vs. GSW W 30 10 4 14 28.6 0 5 0.0 2 3 66.7 0 3 3 11 1 0 1 2 14
+p613
+aVGustavo Ayon ORL 12/14/2012 ORL vs. GSW W 5 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 2 0 1 8
+p614
+aVIsh Smith ORL 12/14/2012 ORL vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p615
+aVNikola Vucevic ORL 12/14/2012 ORL vs. GSW W 34 12 6 10 60.0 0 0 - 0 0 - 5 12 17 2 1 0 4 0 -6
+p616
+aVMaurice Harkless ORL 12/14/2012 ORL vs. GSW W 24 7 3 8 37.5 0 1 0.0 1 2 50.0 4 3 7 0 2 4 0 2 0
+p617
+aVE'Twaun Moore ORL 12/14/2012 ORL vs. GSW W 25 15 6 11 54.5 3 5 60.0 0 0 - 0 0 0 5 0 0 0 3 12
+p618
+aVMaurice Harkless ORL 12/12/2012 ORL vs. ATL L 11 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 1 0 -13
+p619
+aVJameer Nelson ORL 12/12/2012 ORL vs. ATL L 32 12 5 9 55.6 2 5 40.0 0 0 - 0 3 3 2 1 0 1 2 -3
+p620
+aVArron Afflalo ORL 12/12/2012 ORL vs. ATL L 40 16 6 16 37.5 3 7 42.9 1 1 100.0 0 3 3 4 0 0 3 1 -14
+p621
+aVGlen Davis ORL 12/12/2012 ORL vs. ATL L 35 10 2 11 18.2 0 0 - 6 6 100.0 1 6 7 0 4 1 2 2 -2
+p622
+aVNikola Vucevic ORL 12/12/2012 ORL vs. ATL L 19 8 4 7 57.1 0 0 - 0 0 - 3 3 6 0 1 0 0 1 -19
+p623
+aVE'Twaun Moore ORL 12/12/2012 ORL vs. ATL L 22 11 4 7 57.1 1 3 33.3 2 2 100.0 1 0 1 4 1 1 1 1 7
+p624
+aVJJ Redick ORL 12/12/2012 ORL vs. ATL L 34 13 6 14 42.9 1 5 20.0 0 0 - 0 4 4 3 2 0 2 1 7
+p625
+aVAndrew Nicholson ORL 12/12/2012 ORL vs. ATL L 26 8 3 9 33.3 0 0 - 2 2 100.0 3 4 7 0 0 0 1 3 13
+p626
+aVDeQuan Jones ORL 12/12/2012 ORL vs. ATL L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 6
+p627
+aVGustavo Ayon ORL 12/12/2012 ORL vs. ATL L 13 0 0 2 0.0 0 0 - 0 0 - 1 4 5 4 0 1 4 2 -2
+p628
+aVGlen Davis ORL 12/09/2012 ORL @ PHX W 33 15 7 11 63.6 0 0 - 1 4 25.0 0 7 7 3 0 0 3 0 -3
+p629
+aVArron Afflalo ORL 12/09/2012 ORL @ PHX W 38 14 5 11 45.5 0 1 0.0 4 4 100.0 1 3 4 3 0 0 4 0 0
+p630
+aVAndrew Nicholson ORL 12/09/2012 ORL @ PHX W 25 19 9 11 81.8 0 0 - 1 2 50.0 1 8 9 3 4 0 2 3 21
+p631
+aVNikola Vucevic ORL 12/09/2012 ORL @ PHX W 29 12 6 9 66.7 0 0 - 0 0 - 3 6 9 3 1 0 2 3 -7
+p632
+aVDeQuan Jones ORL 12/09/2012 ORL @ PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p633
+aVE'Twaun Moore ORL 12/09/2012 ORL @ PHX W 25 10 4 8 50.0 1 2 50.0 1 2 50.0 1 2 3 3 0 0 1 1 13
+p634
+aVJosh McRoberts ORL 12/09/2012 ORL @ PHX W 10 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 2
+p635
+aVJJ Redick ORL 12/09/2012 ORL @ PHX W 38 20 6 14 42.9 4 8 50.0 4 4 100.0 0 3 3 9 2 0 2 0 19
+p636
+aVGustavo Ayon ORL 12/09/2012 ORL @ PHX W 9 0 0 3 0.0 0 0 - 0 0 - 2 1 3 3 0 0 1 2 7
+p637
+aVJameer Nelson ORL 12/09/2012 ORL @ PHX W 25 4 1 7 14.3 0 3 0.0 2 2 100.0 0 4 4 3 0 0 3 2 -8
+p638
+aVMaurice Harkless ORL 12/09/2012 ORL @ PHX W 7 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -8
+p639
+aVJameer Nelson ORL 12/07/2012 ORL @ SAC L 36 17 7 13 53.8 3 5 60.0 0 0 - 0 3 3 6 1 0 4 5 -10
+p640
+aVKyle O'Quinn ORL 12/07/2012 ORL @ SAC L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p641
+aVE'Twaun Moore ORL 12/07/2012 ORL @ SAC L 12 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 1 0 0 0 1
+p642
+aVDeQuan Jones ORL 12/07/2012 ORL @ SAC L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p643
+aVGlen Davis ORL 12/07/2012 ORL @ SAC L 40 20 8 19 42.1 0 0 - 4 5 80.0 0 11 11 2 3 2 5 6 -9
+p644
+aVMaurice Harkless ORL 12/07/2012 ORL @ SAC L 19 2 0 3 0.0 0 1 0.0 2 2 100.0 0 2 2 0 0 1 0 1 -4
+p645
+aVJJ Redick ORL 12/07/2012 ORL @ SAC L 34 6 2 10 20.0 0 4 0.0 2 2 100.0 0 2 2 2 1 0 3 0 -4
+p646
+aVNikola Vucevic ORL 12/07/2012 ORL @ SAC L 21 3 1 5 20.0 0 0 - 1 2 50.0 2 5 7 0 0 0 2 4 -13
+p647
+aVArron Afflalo ORL 12/07/2012 ORL @ SAC L 38 18 6 15 40.0 1 5 20.0 5 6 83.3 0 3 3 3 0 0 1 4 -11
+p648
+aVGustavo Ayon ORL 12/07/2012 ORL @ SAC L 9 0 0 0 - 0 0 - 0 0 - 1 2 3 3 0 0 0 1 1
+p649
+aVAndrew Nicholson ORL 12/07/2012 ORL @ SAC L 22 14 5 10 50.0 0 0 - 4 4 100.0 3 2 5 0 0 0 1 2 8
+p650
+aVJosh McRoberts ORL 12/05/2012 ORL @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p651
+aVArron Afflalo ORL 12/05/2012 ORL @ UTA L 36 16 7 12 58.3 0 3 0.0 2 2 100.0 0 3 3 2 1 0 2 0 0
+p652
+aVGlen Davis ORL 12/05/2012 ORL @ UTA L 39 18 7 16 43.8 0 0 - 4 6 66.7 2 10 12 1 0 2 3 4 2
+p653
+aVAndrew Nicholson ORL 12/05/2012 ORL @ UTA L 8 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p654
+aVMaurice Harkless ORL 12/05/2012 ORL @ UTA L 15 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 1 0 0 1 -5
+p655
+aVE'Twaun Moore ORL 12/05/2012 ORL @ UTA L 9 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 1 1 1 0 -6
+p656
+aVJameer Nelson ORL 12/05/2012 ORL @ UTA L 39 17 7 16 43.8 1 4 25.0 2 2 100.0 2 3 5 5 2 0 3 3 0
+p657
+aVDeQuan Jones ORL 12/05/2012 ORL @ UTA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -5
+p658
+aVGustavo Ayon ORL 12/05/2012 ORL @ UTA L 11 0 0 0 - 0 0 - 0 2 0.0 2 0 2 2 0 1 2 4 -6
+p659
+aVJJ Redick ORL 12/05/2012 ORL @ UTA L 36 14 5 12 41.7 0 5 0.0 4 5 80.0 0 2 2 4 1 0 5 4 2
+p660
+aVNikola Vucevic ORL 12/05/2012 ORL @ UTA L 38 6 3 9 33.3 0 0 - 0 0 - 7 9 16 1 0 2 2 2 0
+p661
+aVGustavo Ayon ORL 12/03/2012 ORL @ GSW W 15 4 2 3 66.7 0 0 - 0 0 - 1 3 4 1 1 0 0 2 -2
+p662
+aVDeQuan Jones ORL 12/03/2012 ORL @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p663
+aVJJ Redick ORL 12/03/2012 ORL @ GSW W 35 22 7 13 53.8 4 6 66.7 4 4 100.0 0 5 5 7 0 0 1 2 17
+p664
+aVE'Twaun Moore ORL 12/03/2012 ORL @ GSW W 15 3 1 6 16.7 1 4 25.0 0 0 - 0 0 0 1 0 0 0 3 6
+p665
+aVJameer Nelson ORL 12/03/2012 ORL @ GSW W 33 7 3 12 25.0 1 6 16.7 0 1 0.0 1 2 3 9 2 0 3 2 2
+p666
+aVAndrew Nicholson ORL 12/03/2012 ORL @ GSW W 9 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -2
+p667
+aVNikola Vucevic ORL 12/03/2012 ORL @ GSW W 37 14 6 12 50.0 0 0 - 2 3 66.7 6 9 15 3 2 2 2 2 10
+p668
+aVArron Afflalo ORL 12/03/2012 ORL @ GSW W 37 24 9 16 56.3 2 5 40.0 4 4 100.0 1 3 4 1 2 0 1 2 14
+p669
+aVMaurice Harkless ORL 12/03/2012 ORL @ GSW W 22 2 1 5 20.0 0 2 0.0 0 0 - 0 5 5 2 0 0 1 2 -14
+p670
+aVGlen Davis ORL 12/03/2012 ORL @ GSW W 35 24 10 20 50.0 0 0 - 4 4 100.0 2 4 6 4 1 2 0 3 10
+p671
+aVMaurice Harkless ORL 12/02/2012 ORL @ LAL W 22 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 1 1 2 -5
+p672
+aVGustavo Ayon ORL 12/02/2012 ORL @ LAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p673
+aVDeQuan Jones ORL 12/02/2012 ORL @ LAL W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -5
+p674
+aVArron Afflalo ORL 12/02/2012 ORL @ LAL W 40 30 11 18 61.1 4 8 50.0 4 4 100.0 0 5 5 5 1 0 5 2 15
+p675
+aVKyle O'Quinn ORL 12/02/2012 ORL @ LAL W 8 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 2 0 3 -5
+p676
+aVGlen Davis ORL 12/02/2012 ORL @ LAL W 36 23 8 15 53.3 0 0 - 7 8 87.5 0 12 12 2 1 2 3 3 22
+p677
+aVJameer Nelson ORL 12/02/2012 ORL @ LAL W 39 19 6 14 42.9 2 6 33.3 5 5 100.0 0 5 5 13 2 0 2 2 19
+p678
+aVJJ Redick ORL 12/02/2012 ORL @ LAL W 30 14 6 15 40.0 2 7 28.6 0 0 - 0 2 2 7 0 1 0 4 15
+p679
+aVNikola Vucevic ORL 12/02/2012 ORL @ LAL W 40 17 8 15 53.3 0 0 - 1 1 100.0 3 9 12 1 0 4 1 5 15
+p680
+aVE'Twaun Moore ORL 12/02/2012 ORL @ LAL W 9 2 1 3 33.3 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -9
+p681
+aVJosh McRoberts ORL 12/02/2012 ORL @ LAL W 13 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 3 0 0 0 5 -12
+p682
+aVJosh McRoberts ORL 11/30/2012 ORL vs. BKN L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 3
+p683
+aVE'Twaun Moore ORL 11/30/2012 ORL vs. BKN L 31 13 6 10 60.0 1 3 33.3 0 0 - 1 3 4 4 0 0 0 1 -18
+p684
+aVGustavo Ayon ORL 11/30/2012 ORL vs. BKN L 12 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 1 0 0 0 1 -9
+p685
+aVDeQuan Jones ORL 11/30/2012 ORL vs. BKN L 4 3 1 2 50.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 8
+p686
+aVKyle O'Quinn ORL 11/30/2012 ORL vs. BKN L 7 4 1 2 50.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 1 14
+p687
+aVArron Afflalo ORL 11/30/2012 ORL vs. BKN L 34 5 2 10 20.0 0 3 0.0 1 2 50.0 0 1 1 2 0 0 0 2 -19
+p688
+aVNikola Vucevic ORL 11/30/2012 ORL vs. BKN L 28 12 5 12 41.7 0 0 - 2 2 100.0 1 5 6 3 2 1 0 3 -18
+p689
+aVJJ Redick ORL 11/30/2012 ORL vs. BKN L 27 2 0 4 0.0 0 3 0.0 2 2 100.0 0 2 2 4 1 0 2 3 -12
+p690
+aVAndrew Nicholson ORL 11/30/2012 ORL vs. BKN L 17 12 5 8 62.5 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 -3
+p691
+aVGlen Davis ORL 11/30/2012 ORL vs. BKN L 29 16 6 11 54.5 0 0 - 4 5 80.0 0 3 3 2 0 0 3 1 -9
+p692
+aVMaurice Harkless ORL 11/30/2012 ORL vs. BKN L 28 8 4 8 50.0 0 0 - 0 0 - 0 7 7 0 1 1 2 3 -3
+p693
+aVIsh Smith ORL 11/30/2012 ORL vs. BKN L 17 4 2 7 28.6 0 1 0.0 0 0 - 2 2 4 3 0 0 1 2 6
+p694
+aVKyle O'Quinn ORL 11/28/2012 ORL vs. SAS L 9 6 2 6 33.3 0 0 - 2 2 100.0 4 1 5 2 0 0 0 0 4
+p695
+aVDeQuan Jones ORL 11/28/2012 ORL vs. SAS L 19 7 2 3 66.7 1 1 100.0 2 4 50.0 1 5 6 0 1 1 0 1 -9
+p696
+aVGlen Davis ORL 11/28/2012 ORL vs. SAS L 28 12 6 16 37.5 0 0 - 0 0 - 2 3 5 0 0 1 0 1 -9
+p697
+aVJJ Redick ORL 11/28/2012 ORL vs. SAS L 22 7 3 9 33.3 1 4 25.0 0 0 - 0 1 1 4 0 0 2 1 -10
+p698
+aVIsh Smith ORL 11/28/2012 ORL vs. SAS L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p699
+aVNikola Vucevic ORL 11/28/2012 ORL vs. SAS L 16 2 1 4 25.0 0 0 - 0 0 - 3 2 5 1 1 1 2 0 -1
+p700
+aVMaurice Harkless ORL 11/28/2012 ORL vs. SAS L 21 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 0 1 0 0 1 -10
+p701
+aVGustavo Ayon ORL 11/28/2012 ORL vs. SAS L 12 4 2 2 100.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -19
+p702
+aVE'Twaun Moore ORL 11/28/2012 ORL vs. SAS L 22 11 5 13 38.5 0 3 0.0 1 2 50.0 1 2 3 1 0 0 2 2 -26
+p703
+aVJosh McRoberts ORL 11/28/2012 ORL vs. SAS L 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 1 0 2 2 -5
+p704
+aVArron Afflalo ORL 11/28/2012 ORL vs. SAS L 30 16 8 16 50.0 0 4 0.0 0 0 - 2 3 5 2 2 0 4 1 -10
+p705
+aVAndrew Nicholson ORL 11/28/2012 ORL vs. SAS L 13 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p706
+aVJameer Nelson ORL 11/28/2012 ORL vs. SAS L 29 14 7 14 50.0 0 2 0.0 0 0 - 2 3 5 3 2 0 2 3 -3
+p707
+aVMaurice Harkless ORL 11/25/2012 ORL vs. BOS L 15 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 0 1 1 1 0 -9
+p708
+aVNikola Vucevic ORL 11/25/2012 ORL vs. BOS L 17 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 1 1 1 2 -8
+p709
+aVJosh McRoberts ORL 11/25/2012 ORL vs. BOS L 33 7 2 9 22.2 1 2 50.0 2 2 100.0 5 9 14 2 0 3 2 2 4
+p710
+aVGustavo Ayon ORL 11/25/2012 ORL vs. BOS L 16 5 2 3 66.7 0 0 - 1 2 50.0 2 3 5 1 0 0 0 1 1
+p711
+aVArron Afflalo ORL 11/25/2012 ORL vs. BOS L 43 15 7 19 36.8 1 5 20.0 0 0 - 1 1 2 7 2 2 1 2 -7
+p712
+aVE'Twaun Moore ORL 11/25/2012 ORL vs. BOS L 18 8 2 4 50.0 2 3 66.7 2 2 100.0 0 1 1 2 1 0 4 0 1
+p713
+aVJameer Nelson ORL 11/25/2012 ORL vs. BOS L 35 20 8 17 47.1 3 8 37.5 1 1 100.0 1 4 5 2 1 1 5 6 -7
+p714
+aVGlen Davis ORL 11/25/2012 ORL vs. BOS L 40 15 3 12 25.0 0 1 0.0 9 10 90.0 1 6 7 3 3 0 1 3 3
+p715
+aVAndrew Nicholson ORL 11/25/2012 ORL vs. BOS L 15 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -9
+p716
+aVJJ Redick ORL 11/25/2012 ORL vs. BOS L 34 21 8 13 61.5 3 6 50.0 2 2 100.0 0 1 1 2 0 0 1 2 1
+p717
+aVGlen Davis ORL 11/23/2012 ORL vs. CLE W 35 16 5 14 35.7 0 0 - 6 7 85.7 1 7 8 2 0 0 1 3 6
+p718
+aVE'Twaun Moore ORL 11/23/2012 ORL vs. CLE W 16 7 3 4 75.0 1 2 50.0 0 0 - 0 3 3 1 1 0 1 1 -7
+p719
+aVJameer Nelson ORL 11/23/2012 ORL vs. CLE W 35 22 9 18 50.0 4 8 50.0 0 0 - 2 4 6 6 2 0 3 3 10
+p720
+aVMaurice Harkless ORL 11/23/2012 ORL vs. CLE W 16 6 3 4 75.0 0 0 - 0 0 - 3 1 4 0 1 0 0 2 -6
+p721
+aVJJ Redick ORL 11/23/2012 ORL vs. CLE W 30 18 4 9 44.4 2 5 40.0 8 8 100.0 0 2 2 6 0 0 3 4 9
+p722
+aVAndrew Nicholson ORL 11/23/2012 ORL vs. CLE W 13 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 2 0 1 1 5 0
+p723
+aVGustavo Ayon ORL 11/23/2012 ORL vs. CLE W 15 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 2 4 -5
+p724
+aVNikola Vucevic ORL 11/23/2012 ORL vs. CLE W 32 10 5 11 45.5 0 0 - 0 0 - 4 4 8 2 0 2 3 3 11
+p725
+aVJosh McRoberts ORL 11/23/2012 ORL vs. CLE W 11 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p726
+aVArron Afflalo ORL 11/23/2012 ORL vs. CLE W 37 19 7 12 58.3 4 6 66.7 1 3 33.3 1 0 1 2 1 0 4 5 -2
+p727
+aVKyle O'Quinn ORL 11/21/2012 ORL vs. DET W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -4
+p728
+aVJosh McRoberts ORL 11/21/2012 ORL vs. DET W 17 5 2 5 40.0 1 3 33.3 0 0 - 1 2 3 0 1 0 0 1 2
+p729
+aVJJ Redick ORL 11/21/2012 ORL vs. DET W 28 11 4 13 30.8 1 7 14.3 2 2 100.0 0 1 1 7 0 0 1 1 8
+p730
+aVJameer Nelson ORL 11/21/2012 ORL vs. DET W 32 10 3 7 42.9 2 5 40.0 2 2 100.0 0 6 6 7 1 0 2 3 28
+p731
+aVGlen Davis ORL 11/21/2012 ORL vs. DET W 27 11 4 9 44.4 0 0 - 3 4 75.0 3 11 14 1 0 0 1 2 18
+p732
+aVArron Afflalo ORL 11/21/2012 ORL vs. DET W 26 12 5 13 38.5 0 3 0.0 2 4 50.0 0 7 7 1 0 0 1 0 24
+p733
+aVAndrew Nicholson ORL 11/21/2012 ORL vs. DET W 21 15 7 9 77.8 0 0 - 1 2 50.0 1 3 4 0 0 0 3 2 -2
+p734
+aVGustavo Ayon ORL 11/21/2012 ORL vs. DET W 18 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 3 0 1 0 5 10
+p735
+aVE'Twaun Moore ORL 11/21/2012 ORL vs. DET W 12 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 2 0 1 1 2 -6
+p736
+aVDeQuan Jones ORL 11/21/2012 ORL vs. DET W 4 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -6
+p737
+aVIsh Smith ORL 11/21/2012 ORL vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p738
+aVNikola Vucevic ORL 11/21/2012 ORL vs. DET W 22 6 3 6 50.0 0 0 - 0 0 - 1 5 6 0 1 1 3 4 10
+p739
+aVMaurice Harkless ORL 11/21/2012 ORL vs. DET W 21 7 3 7 42.9 0 0 - 1 2 50.0 2 2 4 2 0 1 1 3 4
+p740
+aVGlen Davis ORL 11/19/2012 ORL @ ATL L 24 11 5 13 38.5 0 0 - 1 3 33.3 2 5 7 1 2 0 2 3 -17
+p741
+aVE'Twaun Moore ORL 11/19/2012 ORL @ ATL L 29 8 4 12 33.3 0 2 0.0 0 0 - 1 2 3 4 0 2 7 3 -6
+p742
+aVDeQuan Jones ORL 11/19/2012 ORL @ ATL L 12 4 2 8 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 13
+p743
+aVIsh Smith ORL 11/19/2012 ORL @ ATL L 16 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 0 0 1 9
+p744
+aVArron Afflalo ORL 11/19/2012 ORL @ ATL L 26 6 3 10 30.0 0 1 0.0 0 0 - 1 3 4 2 0 0 3 0 -17
+p745
+aVKyle O'Quinn ORL 11/19/2012 ORL @ ATL L 6 2 0 1 0.0 0 0 - 2 2 100.0 1 3 4 2 0 1 0 1 11
+p746
+aVJJ Redick ORL 11/19/2012 ORL @ ATL L 18 2 1 7 14.3 0 1 0.0 0 0 - 0 1 1 1 0 0 3 3 -24
+p747
+aVMaurice Harkless ORL 11/19/2012 ORL @ ATL L 19 8 4 5 80.0 0 0 - 0 3 0.0 2 6 8 2 0 0 0 0 12
+p748
+aVAndrew Nicholson ORL 11/19/2012 ORL @ ATL L 13 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 0 1 1 2 -13
+p749
+aVGustavo Ayon ORL 11/19/2012 ORL @ ATL L 12 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 0 0 0 1 3 16
+p750
+aVJameer Nelson ORL 11/19/2012 ORL @ ATL L 28 8 3 8 37.5 2 6 33.3 0 0 - 0 3 3 1 1 0 1 2 -16
+p751
+aVNikola Vucevic ORL 11/19/2012 ORL @ ATL L 26 5 2 4 50.0 0 0 - 1 2 50.0 3 10 13 2 1 1 1 1 -19
+p752
+aVJosh McRoberts ORL 11/19/2012 ORL @ ATL L 11 8 3 4 75.0 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 6
+p753
+aVE'Twaun Moore ORL 11/18/2012 ORL @ TOR L 28 16 5 11 45.5 2 5 40.0 4 4 100.0 0 1 1 4 0 0 4 3 -9
+p754
+aVGlen Davis ORL 11/18/2012 ORL @ TOR L 33 16 8 17 47.1 0 0 - 0 0 - 4 8 12 1 0 0 2 2 -14
+p755
+aVDeQuan Jones ORL 11/18/2012 ORL @ TOR L 23 7 3 5 60.0 1 1 100.0 0 0 - 1 4 5 1 0 0 1 3 -1
+p756
+aVNikola Vucevic ORL 11/18/2012 ORL @ TOR L 33 12 5 11 45.5 0 0 - 2 4 50.0 0 6 6 1 0 1 0 3 -19
+p757
+aVAndrew Nicholson ORL 11/18/2012 ORL @ TOR L 16 8 2 7 28.6 0 0 - 4 5 80.0 0 3 3 0 0 0 0 0 8
+p758
+aVJameer Nelson ORL 11/18/2012 ORL @ TOR L 35 8 3 13 23.1 0 5 0.0 2 2 100.0 1 3 4 9 2 0 4 2 -13
+p759
+aVArron Afflalo ORL 11/18/2012 ORL @ TOR L 35 15 4 10 40.0 1 1 100.0 6 6 100.0 0 0 0 2 0 0 3 2 -8
+p760
+aVMaurice Harkless ORL 11/18/2012 ORL @ TOR L 10 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 3
+p761
+aVJosh McRoberts ORL 11/18/2012 ORL @ TOR L 15 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -7
+p762
+aVGustavo Ayon ORL 11/18/2012 ORL @ TOR L 12 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 4 5
+p763
+aVMaurice Harkless ORL 11/16/2012 ORL @ DET W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p764
+aVJosh McRoberts ORL 11/16/2012 ORL @ DET W 9 7 3 4 75.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 1 7
+p765
+aVE'Twaun Moore ORL 11/16/2012 ORL @ DET W 18 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 4 0 0 1 1 -2
+p766
+aVAndrew Nicholson ORL 11/16/2012 ORL @ DET W 15 6 3 8 37.5 0 0 - 0 0 - 0 2 2 0 1 1 1 0 8
+p767
+aVGlen Davis ORL 11/16/2012 ORL @ DET W 36 17 8 14 57.1 0 0 - 1 2 50.0 6 7 13 2 0 0 2 2 3
+p768
+aVJameer Nelson ORL 11/16/2012 ORL @ DET W 32 13 4 11 36.4 1 4 25.0 4 4 100.0 0 4 4 10 2 0 1 5 2
+p769
+aVNikola Vucevic ORL 11/16/2012 ORL @ DET W 28 11 5 12 41.7 0 0 - 1 2 50.0 4 9 13 3 0 2 3 2 1
+p770
+aVArron Afflalo ORL 11/16/2012 ORL @ DET W 37 19 7 14 50.0 2 4 50.0 3 3 100.0 0 2 2 1 2 0 2 2 0
+p771
+aVGustavo Ayon ORL 11/16/2012 ORL @ DET W 17 6 3 5 60.0 0 0 - 0 0 - 2 2 4 2 1 0 0 2 -2
+p772
+aVJJ Redick ORL 11/16/2012 ORL @ DET W 38 23 7 13 53.8 3 7 42.9 6 6 100.0 0 1 1 5 1 0 4 1 0
+p773
+aVAndrew Nicholson ORL 11/13/2012 ORL vs. NYK L 10 11 4 7 57.1 0 0 - 3 4 75.0 1 1 2 0 1 0 1 0 1
+p774
+aVGlen Davis ORL 11/13/2012 ORL vs. NYK L 31 10 5 5 100.0 0 0 - 0 0 - 1 5 6 3 1 0 2 2 -4
+p775
+aVArron Afflalo ORL 11/13/2012 ORL vs. NYK L 38 13 4 14 28.6 2 4 50.0 3 5 60.0 0 4 4 5 1 0 7 4 -13
+p776
+aVIsh Smith ORL 11/13/2012 ORL vs. NYK L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 -5
+p777
+aVNikola Vucevic ORL 11/13/2012 ORL vs. NYK L 36 12 6 10 60.0 0 0 - 0 0 - 1 9 10 2 2 0 4 1 -8
+p778
+aVMaurice Harkless ORL 11/13/2012 ORL vs. NYK L 19 10 5 7 71.4 0 0 - 0 2 0.0 4 3 7 0 0 4 1 0 -2
+p779
+aVGustavo Ayon ORL 11/13/2012 ORL vs. NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p780
+aVE'Twaun Moore ORL 11/13/2012 ORL vs. NYK L 39 12 5 14 35.7 2 6 33.3 0 0 - 0 3 3 8 0 1 0 0 -5
+p781
+aVJosh McRoberts ORL 11/13/2012 ORL vs. NYK L 17 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 2 0 0 0 1 -6
+p782
+aVJJ Redick ORL 11/13/2012 ORL vs. NYK L 38 18 7 13 53.8 1 3 33.3 3 4 75.0 1 3 4 7 1 0 4 0 -5
+p783
+aVIsh Smith ORL 11/11/2012 ORL @ BKN L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 0
+p784
+aVE'Twaun Moore ORL 11/11/2012 ORL @ BKN L 41 8 3 11 27.3 1 5 20.0 1 2 50.0 1 1 2 1 0 0 4 4 -8
+p785
+aVNikola Vucevic ORL 11/11/2012 ORL @ BKN L 40 14 6 15 40.0 0 0 - 2 2 100.0 4 9 13 3 0 1 1 4 1
+p786
+aVMaurice Harkless ORL 11/11/2012 ORL @ BKN L 11 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 3 -14
+p787
+aVJosh McRoberts ORL 11/11/2012 ORL @ BKN L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -25
+p788
+aVGustavo Ayon ORL 11/11/2012 ORL @ BKN L 8 2 1 2 50.0 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 -1
+p789
+aVJJ Redick ORL 11/11/2012 ORL @ BKN L 38 10 3 12 25.0 0 4 0.0 4 5 80.0 0 2 2 9 1 0 1 3 3
+p790
+aVGlen Davis ORL 11/11/2012 ORL @ BKN L 38 19 9 21 42.9 0 0 - 1 2 50.0 2 8 10 1 3 2 2 4 -1
+p791
+aVAndrew Nicholson ORL 11/11/2012 ORL @ BKN L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p792
+aVArron Afflalo ORL 11/11/2012 ORL @ BKN L 41 19 7 17 41.2 0 3 0.0 5 5 100.0 0 7 7 5 1 1 1 1 4
+p793
+aVJJ Redick ORL 11/09/2012 ORL vs. BKN L 23 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 3 1 0 1 1 -26
+p794
+aVGlen Davis ORL 11/09/2012 ORL vs. BKN L 32 8 4 13 30.8 0 0 - 0 0 - 1 2 3 5 1 0 2 2 -33
+p795
+aVKyle O'Quinn ORL 11/09/2012 ORL vs. BKN L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 2 2 2 -5
+p796
+aVIsh Smith ORL 11/09/2012 ORL vs. BKN L 17 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 0 0 3 1 -25
+p797
+aVE'Twaun Moore ORL 11/09/2012 ORL vs. BKN L 40 18 7 15 46.7 4 6 66.7 0 0 - 1 3 4 5 0 0 6 3 -19
+p798
+aVNikola Vucevic ORL 11/09/2012 ORL vs. BKN L 32 10 5 10 50.0 0 0 - 0 0 - 1 4 5 3 0 1 2 4 -35
+p799
+aVArron Afflalo ORL 11/09/2012 ORL vs. BKN L 32 12 6 12 50.0 0 3 0.0 0 0 - 1 4 5 0 0 0 1 2 -25
+p800
+aVGustavo Ayon ORL 11/09/2012 ORL vs. BKN L 7 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 1 0 0 0 3 3
+p801
+aVJosh McRoberts ORL 11/09/2012 ORL vs. BKN L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 1 0 1 -15
+p802
+aVMaurice Harkless ORL 11/09/2012 ORL vs. BKN L 21 0 0 1 0.0 0 0 - 0 2 0.0 0 3 3 0 1 2 0 1 -12
+p803
+aVAndrew Nicholson ORL 11/09/2012 ORL vs. BKN L 15 10 4 4 100.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 -3
+p804
+aVArron Afflalo ORL 11/07/2012 ORL @ MIN L 28 12 5 11 45.5 1 3 33.3 1 1 100.0 0 3 3 0 0 0 2 3 -19
+p805
+aVKyle O'Quinn ORL 11/07/2012 ORL @ MIN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 8
+p806
+aVIsh Smith ORL 11/07/2012 ORL @ MIN L 20 0 0 3 0.0 0 0 - 0 0 - 0 2 2 4 0 1 0 0 11
+p807
+aVGlen Davis ORL 11/07/2012 ORL @ MIN L 19 4 2 9 22.2 0 0 - 0 1 0.0 2 4 6 3 0 0 4 3 -16
+p808
+aVJosh McRoberts ORL 11/07/2012 ORL @ MIN L 22 7 3 8 37.5 1 1 100.0 0 0 - 2 2 4 1 1 1 1 1 -23
+p809
+aVGustavo Ayon ORL 11/07/2012 ORL @ MIN L 20 6 3 5 60.0 0 0 - 0 0 - 1 3 4 1 1 0 1 3 -3
+p810
+aVAndrew Nicholson ORL 11/07/2012 ORL @ MIN L 27 11 3 8 37.5 0 0 - 5 5 100.0 2 3 5 0 0 2 2 5 6
+p811
+aVJJ Redick ORL 11/07/2012 ORL @ MIN L 20 16 5 12 41.7 1 4 25.0 5 5 100.0 0 2 2 1 0 0 5 1 -11
+p812
+aVMaurice Harkless ORL 11/07/2012 ORL @ MIN L 22 7 2 6 33.3 0 1 0.0 3 4 75.0 2 3 5 2 3 2 0 4 3
+p813
+aVE'Twaun Moore ORL 11/07/2012 ORL @ MIN L 36 10 4 14 28.6 0 3 0.0 2 4 50.0 2 3 5 5 1 0 4 0 -16
+p814
+aVNikola Vucevic ORL 11/07/2012 ORL @ MIN L 18 2 1 4 25.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -15
+p815
+aVIsh Smith ORL 11/06/2012 ORL @ CHI L 16 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 5 0 0 2 0 5
+p816
+aVNikola Vucevic ORL 11/06/2012 ORL @ CHI L 42 16 5 13 38.5 0 0 - 6 7 85.7 3 7 10 0 1 2 2 3 1
+p817
+aVDeQuan Jones ORL 11/06/2012 ORL @ CHI L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 1 0 0 -9
+p818
+aVAndrew Nicholson ORL 11/06/2012 ORL @ CHI L 7 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -7
+p819
+aVE'Twaun Moore ORL 11/06/2012 ORL @ CHI L 33 17 7 13 53.8 3 4 75.0 0 0 - 3 2 5 2 0 0 1 4 -4
+p820
+aVArron Afflalo ORL 11/06/2012 ORL @ CHI L 34 28 10 17 58.8 3 7 42.9 5 5 100.0 1 4 5 5 1 1 0 3 -4
+p821
+aVJJ Redick ORL 11/06/2012 ORL @ CHI L 34 10 4 11 36.4 2 6 33.3 0 0 - 0 2 2 7 0 0 2 2 -4
+p822
+aVJosh McRoberts ORL 11/06/2012 ORL @ CHI L 15 0 0 0 - 0 0 - 0 0 - 0 4 4 1 0 0 0 1 -4
+p823
+aVGustavo Ayon ORL 11/06/2012 ORL @ CHI L 11 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 1 3 1 4
+p824
+aVGlen Davis ORL 11/06/2012 ORL @ CHI L 36 16 7 22 31.8 0 1 0.0 2 5 40.0 4 6 10 1 1 0 1 6 -8
+p825
+aVGustavo Ayon ORL 11/04/2012 ORL vs. PHX W 9 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 0 1 -1
+p826
+aVIsh Smith ORL 11/04/2012 ORL vs. PHX W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 1 0 6
+p827
+aVE'Twaun Moore ORL 11/04/2012 ORL vs. PHX W 38 15 6 11 54.5 3 3 100.0 0 0 - 2 1 3 6 3 0 3 2 15
+p828
+aVDeQuan Jones ORL 11/04/2012 ORL vs. PHX W 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 0 6
+p829
+aVJJ Redick ORL 11/04/2012 ORL vs. PHX W 34 24 9 14 64.3 3 4 75.0 3 4 75.0 0 1 1 6 1 0 3 1 15
+p830
+aVNikola Vucevic ORL 11/04/2012 ORL vs. PHX W 37 18 9 16 56.3 0 0 - 0 0 - 6 7 13 3 1 0 2 3 26
+p831
+aVKyle O'Quinn ORL 11/04/2012 ORL vs. PHX W 1 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 4
+p832
+aVGlen Davis ORL 11/04/2012 ORL vs. PHX W 32 22 9 22 40.9 0 0 - 4 4 100.0 1 7 8 5 2 0 0 3 7
+p833
+aVJosh McRoberts ORL 11/04/2012 ORL vs. PHX W 18 5 1 4 25.0 0 0 - 3 4 75.0 3 4 7 3 0 0 0 3 6
+p834
+aVArron Afflalo ORL 11/04/2012 ORL vs. PHX W 38 22 8 16 50.0 3 3 100.0 3 3 100.0 1 3 4 1 0 0 1 3 7
+p835
+aVAndrew Nicholson ORL 11/04/2012 ORL vs. PHX W 7 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 14
+p836
+aVGlen Davis ORL 11/02/2012 ORL vs. DEN W 34 29 13 25 52.0 0 0 - 3 5 60.0 4 6 10 0 0 2 1 3 17
+p837
+aVKyle O'Quinn ORL 11/02/2012 ORL vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p838
+aVIsh Smith ORL 11/02/2012 ORL vs. DEN W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p839
+aVArron Afflalo ORL 11/02/2012 ORL vs. DEN W 32 7 3 13 23.1 0 3 0.0 1 2 50.0 0 6 6 2 1 1 1 1 2
+p840
+aVE'Twaun Moore ORL 11/02/2012 ORL vs. DEN W 25 13 6 10 60.0 1 3 33.3 0 0 - 2 3 5 3 0 1 1 2 18
+p841
+aVJJ Redick ORL 11/02/2012 ORL vs. DEN W 35 21 7 11 63.6 3 4 75.0 4 5 80.0 0 4 4 6 1 0 0 1 10
+p842
+aVAndrew Nicholson ORL 11/02/2012 ORL vs. DEN W 11 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 1 1 3 -1
+p843
+aVJameer Nelson ORL 11/02/2012 ORL vs. DEN W 35 9 2 9 22.2 1 4 25.0 4 4 100.0 0 4 4 7 1 0 2 2 2
+p844
+aVHedo Turkoglu ORL 11/02/2012 ORL vs. DEN W 17 6 3 4 75.0 0 1 0.0 0 0 - 1 1 2 1 2 0 0 3 -2
+p845
+aVNikola Vucevic ORL 11/02/2012 ORL vs. DEN W 16 6 3 6 50.0 0 0 - 0 0 - 1 3 4 0 1 2 1 4 -5
+p846
+aVJosh McRoberts ORL 11/02/2012 ORL vs. DEN W 27 9 4 4 100.0 0 0 - 1 2 50.0 1 6 7 3 2 1 3 4 25
+p847
+a.

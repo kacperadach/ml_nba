@@ -1,0 +1,1048 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLuc Longley PHX 05/05/1999 PHX vs. MIN W 28 17 5 9 55.6 0 0 - 7 8 87.5 5 5 10 3 1 1 0 0 3
+p2
+aVPat Garrity PHX 05/05/1999 PHX vs. MIN W 12 3 0 0 - 0 0 - 3 4 75.0 0 2 2 0 0 0 2 3 4
+p3
+aVToby Bailey PHX 05/05/1999 PHX vs. MIN W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 4
+p4
+aVJason Kidd PHX 05/05/1999 PHX vs. MIN W 35 17 5 12 41.7 1 1 100.0 6 11 54.5 2 3 5 6 4 0 2 1 -6
+p5
+aVDanny Manning PHX 05/05/1999 PHX vs. MIN W 25 9 4 13 30.8 0 0 - 1 2 50.0 1 5 6 0 0 1 2 4 9
+p6
+aVRex Chapman PHX 05/05/1999 PHX vs. MIN W 32 9 4 12 33.3 0 4 0.0 1 3 33.3 0 2 2 4 2 0 0 0 4
+p7
+aVTom Gugliotta PHX 05/05/1999 PHX vs. MIN W 31 16 5 11 45.5 0 0 - 6 6 100.0 3 6 9 1 0 3 1 2 -8
+p8
+aVClifford Robinson PHX 05/05/1999 PHX vs. MIN W 41 16 5 12 41.7 1 4 25.0 5 7 71.4 0 5 5 4 0 1 3 0 6
+p9
+aVChris Morris PHX 05/05/1999 PHX vs. MIN W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p10
+aVRandy Livingston PHX 05/05/1999 PHX vs. MIN W 22 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 3 2 0 1 1 6
+p11
+aVToby Bailey PHX 05/02/1999 PHX @ SAC L 10 4 1 4 25.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 3 -1
+p12
+aVAlvin Sims PHX 05/02/1999 PHX @ SAC L 10 6 2 4 50.0 0 0 - 2 2 100.0 1 0 1 3 0 0 3 1 -2
+p13
+aVJason Kidd PHX 05/02/1999 PHX @ SAC L 36 15 6 15 40.0 1 4 25.0 2 4 50.0 3 6 9 10 1 0 2 2 -3
+p14
+aVJoe Kleine PHX 05/02/1999 PHX @ SAC L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -9
+p15
+aVChris Morris PHX 05/02/1999 PHX @ SAC L 7 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 -4
+p16
+aVRex Chapman PHX 05/02/1999 PHX @ SAC L 28 9 4 11 36.4 1 6 16.7 0 0 - 1 3 4 2 0 1 2 0 -7
+p17
+aVLuc Longley PHX 05/02/1999 PHX @ SAC L 25 12 4 10 40.0 0 0 - 4 5 80.0 5 4 9 1 1 1 1 3 3
+p18
+aVDanny Manning PHX 05/02/1999 PHX @ SAC L 26 6 2 7 28.6 0 0 - 2 2 100.0 2 4 6 2 4 0 3 3 -11
+p19
+aVPat Garrity PHX 05/02/1999 PHX @ SAC L 17 7 2 4 50.0 1 2 50.0 2 2 100.0 0 3 3 2 0 1 0 1 -11
+p20
+aVClifford Robinson PHX 05/02/1999 PHX @ SAC L 36 14 5 12 41.7 4 5 80.0 0 0 - 2 6 8 2 0 1 1 4 -4
+p21
+aVGeorge McCloud PHX 05/02/1999 PHX @ SAC L 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p22
+aVTom Gugliotta PHX 05/02/1999 PHX @ SAC L 28 21 8 12 66.7 0 0 - 5 6 83.3 2 6 8 2 2 0 4 1 -2
+p23
+aVPat Garrity PHX 05/01/1999 PHX vs. VAN W 11 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -4
+p24
+aVLuc Longley PHX 05/01/1999 PHX vs. VAN W 23 4 2 7 28.6 0 0 - 0 0 - 1 3 4 2 2 0 0 3 8
+p25
+aVAlvin Sims PHX 05/01/1999 PHX vs. VAN W 7 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 0
+p26
+aVRex Chapman PHX 05/01/1999 PHX vs. VAN W 28 20 6 11 54.5 3 4 75.0 5 5 100.0 0 1 1 2 3 0 2 3 17
+p27
+aVToby Bailey PHX 05/01/1999 PHX vs. VAN W 5 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 4
+p28
+aVDanny Manning PHX 05/01/1999 PHX vs. VAN W 21 4 2 4 50.0 0 0 - 0 0 - 1 2 3 3 0 0 1 5 10
+p29
+aVClifford Robinson PHX 05/01/1999 PHX vs. VAN W 35 11 5 12 41.7 1 6 16.7 0 0 - 3 4 7 4 2 0 4 4 23
+p30
+aVTom Gugliotta PHX 05/01/1999 PHX vs. VAN W 37 24 11 18 61.1 0 0 - 2 2 100.0 4 8 12 3 0 2 1 3 30
+p31
+aVGeorge McCloud PHX 05/01/1999 PHX vs. VAN W 23 14 5 9 55.6 3 7 42.9 1 1 100.0 0 2 2 3 0 1 1 2 12
+p32
+aVJason Kidd PHX 05/01/1999 PHX vs. VAN W 41 14 5 8 62.5 0 1 0.0 4 4 100.0 1 2 3 13 3 0 5 0 30
+p33
+aVChris Morris PHX 05/01/1999 PHX vs. VAN W 10 6 2 4 50.0 0 0 - 2 2 100.0 3 1 4 2 0 1 0 1 20
+p34
+aVClifford Robinson PHX 04/29/1999 PHX @ DEN W 41 25 7 18 38.9 6 10 60.0 5 6 83.3 4 2 6 5 1 0 2 4 14
+p35
+aVDanny Manning PHX 04/29/1999 PHX @ DEN W 27 3 0 7 0.0 0 0 - 3 4 75.0 2 4 6 0 1 0 1 1 -1
+p36
+aVLuc Longley PHX 04/29/1999 PHX @ DEN W 13 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 1 2 1
+p37
+aVPat Garrity PHX 04/29/1999 PHX @ DEN W 12 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 2 -3
+p38
+aVChris Morris PHX 04/29/1999 PHX @ DEN W 18 10 3 7 42.9 0 2 0.0 4 4 100.0 0 0 0 0 0 1 0 1 13
+p39
+aVTom Gugliotta PHX 04/29/1999 PHX @ DEN W 36 22 9 15 60.0 0 0 - 4 5 80.0 6 4 10 5 2 0 1 2 14
+p40
+aVToby Bailey PHX 04/29/1999 PHX @ DEN W 10 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -6
+p41
+aVAlvin Sims PHX 04/29/1999 PHX @ DEN W 5 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 1 2 0 1 1 -2
+p42
+aVJason Kidd PHX 04/29/1999 PHX @ DEN W 45 11 5 16 31.3 1 6 16.7 0 0 - 6 7 13 11 1 0 3 4 12
+p43
+aVGeorge McCloud PHX 04/29/1999 PHX @ DEN W 32 11 5 11 45.5 1 6 16.7 0 0 - 0 3 3 1 0 1 0 0 13
+p44
+aVAlvin Sims PHX 04/28/1999 PHX @ MIN L 4 2 1 1 100.0 0 0 - 0 3 0.0 0 0 0 0 0 0 2 0 -8
+p45
+aVRex Chapman PHX 04/28/1999 PHX @ MIN L 27 7 3 9 33.3 1 2 50.0 0 0 - 0 1 1 3 0 1 2 1 -8
+p46
+aVClifford Robinson PHX 04/28/1999 PHX @ MIN L 41 13 4 11 36.4 0 2 0.0 5 6 83.3 2 6 8 3 1 0 1 2 -6
+p47
+aVLuc Longley PHX 04/28/1999 PHX @ MIN L 9 0 0 4 0.0 0 0 - 0 0 - 0 3 3 0 0 2 0 1 -9
+p48
+aVJason Kidd PHX 04/28/1999 PHX @ MIN L 45 29 9 21 42.9 2 8 25.0 9 11 81.8 2 5 7 11 2 1 4 4 3
+p49
+aVChris Morris PHX 04/28/1999 PHX @ MIN L 4 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p50
+aVPat Garrity PHX 04/28/1999 PHX @ MIN L 15 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 1
+p51
+aVGeorge McCloud PHX 04/28/1999 PHX @ MIN L 25 13 4 7 57.1 1 3 33.3 4 4 100.0 1 4 5 2 2 0 1 3 2
+p52
+aVTom Gugliotta PHX 04/28/1999 PHX @ MIN L 40 9 4 7 57.1 0 1 0.0 1 1 100.0 2 11 13 6 0 0 2 2 2
+p53
+aVDanny Manning PHX 04/28/1999 PHX @ MIN L 31 11 5 10 50.0 0 0 - 1 2 50.0 0 5 5 3 0 1 1 2 -4
+p54
+aVJoe Kleine PHX 04/26/1999 PHX @ UTA W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 0
+p55
+aVGeorge McCloud PHX 04/26/1999 PHX @ UTA W 24 8 3 6 50.0 0 1 0.0 2 2 100.0 1 5 6 0 0 1 1 4 19
+p56
+aVPat Garrity PHX 04/26/1999 PHX @ UTA W 37 17 7 14 50.0 1 3 33.3 2 2 100.0 2 3 5 2 0 0 1 4 16
+p57
+aVToby Bailey PHX 04/26/1999 PHX @ UTA W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p58
+aVClifford Robinson PHX 04/26/1999 PHX @ UTA W 42 11 3 10 30.0 0 3 0.0 5 6 83.3 1 3 4 2 4 0 3 5 13
+p59
+aVLuc Longley PHX 04/26/1999 PHX @ UTA W 25 12 5 7 71.4 0 0 - 2 2 100.0 2 3 5 1 1 1 1 4 0
+p60
+aVRex Chapman PHX 04/26/1999 PHX @ UTA W 29 23 9 16 56.3 3 4 75.0 2 2 100.0 0 2 2 1 0 0 1 1 -2
+p61
+aVChris Morris PHX 04/26/1999 PHX @ UTA W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 1
+p62
+aVJason Kidd PHX 04/26/1999 PHX @ UTA W 42 19 4 11 36.4 0 3 0.0 11 13 84.6 1 6 7 12 3 0 4 1 12
+p63
+aVDanny Manning PHX 04/26/1999 PHX @ UTA W 26 5 2 6 33.3 0 1 0.0 1 2 50.0 1 5 6 2 3 0 1 3 11
+p64
+aVGerald Brown PHX 04/26/1999 PHX @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p65
+aVChris Morris PHX 04/25/1999 PHX vs. HOU W 3 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 4
+p66
+aVJoe Kleine PHX 04/25/1999 PHX vs. HOU W 23 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 1 12
+p67
+aVPat Garrity PHX 04/25/1999 PHX vs. HOU W 3 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 0 0 0 4
+p68
+aVGeorge McCloud PHX 04/25/1999 PHX vs. HOU W 22 6 2 6 33.3 1 1 100.0 1 1 100.0 0 1 1 2 0 0 1 1 10
+p69
+aVRex Chapman PHX 04/25/1999 PHX vs. HOU W 33 22 7 11 63.6 3 5 60.0 5 6 83.3 0 3 3 1 1 1 2 0 15
+p70
+aVJason Kidd PHX 04/25/1999 PHX vs. HOU W 37 22 8 14 57.1 2 2 100.0 4 6 66.7 2 8 10 14 2 0 4 1 23
+p71
+aVDanny Manning PHX 04/25/1999 PHX vs. HOU W 22 4 2 5 40.0 0 0 - 0 0 - 0 4 4 5 1 0 1 0 23
+p72
+aVToby Bailey PHX 04/25/1999 PHX vs. HOU W 2 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p73
+aVClifford Robinson PHX 04/25/1999 PHX vs. HOU W 28 15 5 10 50.0 1 3 33.3 4 6 66.7 0 5 5 1 0 3 1 4 13
+p74
+aVLuc Longley PHX 04/25/1999 PHX vs. HOU W 22 6 2 6 33.3 0 0 - 2 4 50.0 2 0 2 1 0 1 1 5 0
+p75
+aVTom Gugliotta PHX 04/25/1999 PHX vs. HOU W 38 14 7 10 70.0 0 0 - 0 0 - 2 7 9 1 1 0 1 2 18
+p76
+aVGerald Brown PHX 04/25/1999 PHX vs. HOU W 6 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 2 0 -2
+p77
+aVDanny Manning PHX 04/21/1999 PHX vs. UTA W 29 16 7 11 63.6 0 0 - 2 3 66.7 0 6 6 5 1 3 2 5 -3
+p78
+aVGerald Brown PHX 04/21/1999 PHX vs. UTA W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 0 0 0 0 1
+p79
+aVJoe Kleine PHX 04/21/1999 PHX vs. UTA W 35 6 3 5 60.0 0 0 - 0 0 - 2 5 7 1 1 0 0 4 18
+p80
+aVClifford Robinson PHX 04/21/1999 PHX vs. UTA W 40 13 5 17 29.4 1 3 33.3 2 3 66.7 1 6 7 3 1 0 1 4 7
+p81
+aVRex Chapman PHX 04/21/1999 PHX vs. UTA W 28 13 4 7 57.1 1 1 100.0 4 4 100.0 0 3 3 4 0 2 3 0 0
+p82
+aVTom Gugliotta PHX 04/21/1999 PHX vs. UTA W 31 13 6 13 46.2 0 1 0.0 1 2 50.0 3 3 6 3 2 1 3 5 8
+p83
+aVPat Garrity PHX 04/21/1999 PHX vs. UTA W 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p84
+aVGeorge McCloud PHX 04/21/1999 PHX vs. UTA W 20 9 4 6 66.7 0 2 0.0 1 1 100.0 1 3 4 0 0 0 1 3 9
+p85
+aVJason Kidd PHX 04/21/1999 PHX vs. UTA W 42 21 9 14 64.3 1 2 50.0 2 2 100.0 2 5 7 12 3 0 2 2 8
+p86
+aVClifford Robinson PHX 04/20/1999 PHX @ DAL L 42 17 7 16 43.8 0 1 0.0 3 5 60.0 3 2 5 5 2 2 3 4 -8
+p87
+aVTom Gugliotta PHX 04/20/1999 PHX @ DAL L 36 15 5 14 35.7 0 0 - 5 6 83.3 4 8 12 5 3 0 2 3 -10
+p88
+aVGeorge McCloud PHX 04/20/1999 PHX @ DAL L 25 8 3 8 37.5 2 6 33.3 0 0 - 1 1 2 5 1 1 0 5 -10
+p89
+aVRex Chapman PHX 04/20/1999 PHX @ DAL L 34 13 5 12 41.7 1 2 50.0 2 2 100.0 0 3 3 3 0 0 1 3 9
+p90
+aVPat Garrity PHX 04/20/1999 PHX @ DAL L 30 12 5 11 45.5 0 0 - 2 2 100.0 1 5 6 0 1 0 1 2 20
+p91
+aVDanny Manning PHX 04/20/1999 PHX @ DAL L 22 16 6 9 66.7 0 0 - 4 6 66.7 2 2 4 1 0 1 0 2 -15
+p92
+aVJason Kidd PHX 04/20/1999 PHX @ DAL L 48 17 7 13 53.8 1 4 25.0 2 3 66.7 0 7 7 8 2 0 5 3 -4
+p93
+aVChris Morris PHX 04/20/1999 PHX @ DAL L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 0 0 -2
+p94
+aVTom Gugliotta PHX 04/18/1999 PHX vs. SEA W 37 27 12 20 60.0 0 1 0.0 3 5 60.0 4 8 12 1 1 0 4 3 11
+p95
+aVChris Morris PHX 04/18/1999 PHX vs. SEA W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p96
+aVGeorge McCloud PHX 04/18/1999 PHX vs. SEA W 13 1 0 3 0.0 0 1 0.0 1 1 100.0 0 1 1 0 0 0 0 2 -3
+p97
+aVPat Garrity PHX 04/18/1999 PHX vs. SEA W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 2 0
+p98
+aVRex Chapman PHX 04/18/1999 PHX vs. SEA W 35 11 4 10 40.0 2 3 66.7 1 1 100.0 0 3 3 5 2 0 3 0 9
+p99
+aVClifford Robinson PHX 04/18/1999 PHX vs. SEA W 45 23 8 16 50.0 0 3 0.0 7 8 87.5 4 3 7 2 2 1 1 3 3
+p100
+aVDanny Manning PHX 04/18/1999 PHX vs. SEA W 29 14 7 13 53.8 0 0 - 0 0 - 6 0 6 2 0 1 1 2 10
+p101
+aVJason Kidd PHX 04/18/1999 PHX vs. SEA W 48 15 4 16 25.0 1 6 16.7 6 6 100.0 1 3 4 11 3 0 1 5 6
+p102
+aVJoe Kleine PHX 04/18/1999 PHX vs. SEA W 19 5 2 3 66.7 0 1 0.0 1 2 50.0 4 1 5 1 1 0 0 3 -4
+p103
+aVJason Kidd PHX 04/16/1999 PHX vs. DAL W 47 24 9 16 56.3 0 2 0.0 6 6 100.0 0 1 1 12 1 0 4 4 13
+p104
+aVClifford Robinson PHX 04/16/1999 PHX vs. DAL W 39 21 9 16 56.3 1 5 20.0 2 4 50.0 0 5 5 2 0 1 5 3 14
+p105
+aVPat Garrity PHX 04/16/1999 PHX vs. DAL W 29 20 8 10 80.0 0 0 - 4 4 100.0 1 4 5 1 0 0 1 1 1
+p106
+aVTom Gugliotta PHX 04/16/1999 PHX vs. DAL W 32 7 2 9 22.2 0 0 - 3 4 75.0 4 4 8 7 0 0 2 5 8
+p107
+aVDanny Manning PHX 04/16/1999 PHX vs. DAL W 21 2 1 2 50.0 0 0 - 0 2 0.0 0 1 1 3 1 1 1 4 6
+p108
+aVGeorge McCloud PHX 04/16/1999 PHX vs. DAL W 24 8 3 7 42.9 2 5 40.0 0 0 - 0 4 4 1 2 0 0 3 4
+p109
+aVGerald Brown PHX 04/16/1999 PHX vs. DAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p110
+aVMarko Milic PHX 04/16/1999 PHX vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p111
+aVJoe Kleine PHX 04/16/1999 PHX vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p112
+aVRex Chapman PHX 04/16/1999 PHX vs. DAL W 30 8 3 9 33.3 1 4 25.0 1 1 100.0 0 2 2 3 3 0 1 0 10
+p113
+aVChris Morris PHX 04/16/1999 PHX vs. DAL W 16 2 1 3 33.3 0 1 0.0 0 0 - 1 4 5 0 0 0 2 0 -7
+p114
+aVPat Garrity PHX 04/14/1999 PHX @ SEA W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 1
+p115
+aVTom Gugliotta PHX 04/14/1999 PHX @ SEA W 37 17 8 13 61.5 0 0 - 1 2 50.0 2 3 5 5 1 0 4 4 11
+p116
+aVChris Morris PHX 04/14/1999 PHX @ SEA W 6 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p117
+aVJoe Kleine PHX 04/14/1999 PHX @ SEA W 28 2 1 2 50.0 0 0 - 0 0 - 6 2 8 0 0 0 2 2 3
+p118
+aVJason Kidd PHX 04/14/1999 PHX @ SEA W 44 30 11 19 57.9 4 4 100.0 4 4 100.0 1 5 6 10 3 0 4 2 9
+p119
+aVRex Chapman PHX 04/14/1999 PHX @ SEA W 31 8 4 11 36.4 0 4 0.0 0 0 - 1 1 2 5 2 0 1 0 2
+p120
+aVGeorge McCloud PHX 04/14/1999 PHX @ SEA W 17 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 0 1 5
+p121
+aVGerald Brown PHX 04/14/1999 PHX @ SEA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p122
+aVClifford Robinson PHX 04/14/1999 PHX @ SEA W 33 18 7 12 58.3 2 3 66.7 2 2 100.0 0 2 2 2 0 0 0 4 12
+p123
+aVDanny Manning PHX 04/14/1999 PHX @ SEA W 33 19 9 12 75.0 0 0 - 1 1 100.0 2 4 6 5 0 0 2 2 -1
+p124
+aVClifford Robinson PHX 04/12/1999 PHX @ SAS L 39 25 10 23 43.5 3 7 42.9 2 4 50.0 1 0 1 2 1 1 3 6 -5
+p125
+aVGeorge McCloud PHX 04/12/1999 PHX @ SAS L 18 2 0 3 0.0 0 1 0.0 2 2 100.0 2 4 6 1 2 0 1 3 -14
+p126
+aVJoe Kleine PHX 04/12/1999 PHX @ SAS L 28 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 1 1 0 1 3 -22
+p127
+aVJason Kidd PHX 04/12/1999 PHX @ SAS L 41 22 9 18 50.0 2 4 50.0 2 2 100.0 2 7 9 9 4 0 4 0 -13
+p128
+aVChris Morris PHX 04/12/1999 PHX @ SAS L 17 7 2 4 50.0 0 0 - 3 3 100.0 2 1 3 0 0 1 2 4 -10
+p129
+aVGerald Brown PHX 04/12/1999 PHX @ SAS L 7 0 0 6 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 0 -4
+p130
+aVPat Garrity PHX 04/12/1999 PHX @ SAS L 33 7 3 4 75.0 0 0 - 1 2 50.0 3 2 5 3 1 0 2 3 0
+p131
+aVDanny Manning PHX 04/12/1999 PHX @ SAS L 26 5 2 8 25.0 0 1 0.0 1 2 50.0 1 3 4 1 3 1 2 2 -8
+p132
+aVRex Chapman PHX 04/12/1999 PHX @ SAS L 26 6 2 11 18.2 0 3 0.0 2 2 100.0 1 3 4 0 0 0 1 0 -10
+p133
+aVMarko Milic PHX 04/12/1999 PHX @ SAS L 6 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 0 0 2 0 1
+p134
+aVRex Chapman PHX 04/10/1999 PHX vs. SAS W 34 18 6 12 50.0 3 6 50.0 3 3 100.0 0 8 8 4 0 0 0 3 30
+p135
+aVDanny Manning PHX 04/10/1999 PHX vs. SAS W 34 14 7 14 50.0 0 0 - 0 0 - 3 10 13 6 2 2 2 2 10
+p136
+aVClifford Robinson PHX 04/10/1999 PHX vs. SAS W 28 22 9 16 56.3 2 3 66.7 2 2 100.0 0 2 2 6 0 1 3 4 24
+p137
+aVPat Garrity PHX 04/10/1999 PHX vs. SAS W 33 25 11 16 68.8 2 2 100.0 1 2 50.0 2 5 7 2 0 0 1 2 18
+p138
+aVGerald Brown PHX 04/10/1999 PHX vs. SAS W 4 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p139
+aVMarko Milic PHX 04/10/1999 PHX vs. SAS W 8 4 2 3 66.7 0 0 - 0 0 - 1 0 1 1 0 0 1 3 4
+p140
+aVGeorge McCloud PHX 04/10/1999 PHX vs. SAS W 16 1 0 3 0.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 1 -3
+p141
+aVJoe Kleine PHX 04/10/1999 PHX vs. SAS W 28 4 2 5 40.0 0 0 - 0 2 0.0 1 3 4 1 0 0 0 4 26
+p142
+aVJason Kidd PHX 04/10/1999 PHX vs. SAS W 44 15 7 9 77.8 1 1 100.0 0 0 - 0 5 5 14 0 2 2 2 23
+p143
+aVChris Morris PHX 04/10/1999 PHX vs. SAS W 10 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 0 0 0 1 1 -5
+p144
+aVClifford Robinson PHX 04/09/1999 PHX @ UTA L 27 10 4 8 50.0 1 3 33.3 1 2 50.0 0 1 1 2 2 2 0 6 2
+p145
+aVJason Kidd PHX 04/09/1999 PHX @ UTA L 40 19 8 19 42.1 1 2 50.0 2 2 100.0 1 3 4 11 2 1 1 0 -1
+p146
+aVChris Morris PHX 04/09/1999 PHX @ UTA L 27 17 6 7 85.7 2 3 66.7 3 4 75.0 2 1 3 1 0 0 0 1 -3
+p147
+aVGeorge McCloud PHX 04/09/1999 PHX @ UTA L 32 13 5 8 62.5 1 4 25.0 2 2 100.0 1 2 3 2 2 0 4 3 1
+p148
+aVJoe Kleine PHX 04/09/1999 PHX @ UTA L 22 6 3 8 37.5 0 0 - 0 0 - 2 0 2 0 1 0 0 0 -3
+p149
+aVPat Garrity PHX 04/09/1999 PHX @ UTA L 25 12 5 9 55.6 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 3 -11
+p150
+aVLuc Longley PHX 04/09/1999 PHX @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -1
+p151
+aVDanny Manning PHX 04/09/1999 PHX @ UTA L 29 10 5 11 45.5 0 0 - 0 0 - 2 3 5 0 3 0 1 3 4
+p152
+aVGerald Brown PHX 04/09/1999 PHX @ UTA L 8 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 0 2 0
+p153
+aVRex Chapman PHX 04/09/1999 PHX @ UTA L 25 0 0 9 0.0 0 4 0.0 0 0 - 0 5 5 3 1 0 0 2 7
+p154
+aVChris Morris PHX 04/07/1999 PHX vs. MIN W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -5
+p155
+aVJason Kidd PHX 04/07/1999 PHX vs. MIN W 35 8 1 7 14.3 1 2 50.0 5 6 83.3 3 5 8 9 5 1 3 1 10
+p156
+aVGeorge McCloud PHX 04/07/1999 PHX vs. MIN W 27 5 1 4 25.0 1 2 50.0 2 2 100.0 0 5 5 1 0 0 0 1 -3
+p157
+aVRex Chapman PHX 04/07/1999 PHX vs. MIN W 34 9 3 11 27.3 2 5 40.0 1 2 50.0 0 3 3 3 1 0 3 3 17
+p158
+aVDanny Manning PHX 04/07/1999 PHX vs. MIN W 30 9 3 11 27.3 0 1 0.0 3 4 75.0 3 5 8 3 5 1 3 4 4
+p159
+aVPat Garrity PHX 04/07/1999 PHX vs. MIN W 25 12 5 8 62.5 0 1 0.0 2 2 100.0 2 5 7 1 0 0 1 5 0
+p160
+aVGerald Brown PHX 04/07/1999 PHX vs. MIN W 7 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 2 1 -1
+p161
+aVMarko Milic PHX 04/07/1999 PHX vs. MIN W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p162
+aVLuc Longley PHX 04/07/1999 PHX vs. MIN W 30 13 5 9 55.6 0 0 - 3 3 100.0 2 7 9 3 1 0 2 5 13
+p163
+aVClifford Robinson PHX 04/07/1999 PHX vs. MIN W 39 27 11 20 55.0 2 4 50.0 3 5 60.0 3 1 4 4 5 5 3 4 6
+p164
+aVClifford Robinson PHX 04/06/1999 PHX @ LAC W 44 22 9 17 52.9 1 5 20.0 3 4 75.0 1 3 4 3 0 1 4 3 1
+p165
+aVPat Garrity PHX 04/06/1999 PHX @ LAC W 33 6 3 8 37.5 0 0 - 0 2 0.0 3 5 8 1 1 0 1 2 7
+p166
+aVDanny Manning PHX 04/06/1999 PHX @ LAC W 26 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 1 0 2 2 1 1
+p167
+aVJason Kidd PHX 04/06/1999 PHX @ LAC W 44 22 9 16 56.3 2 2 100.0 2 2 100.0 3 5 8 6 2 0 10 2 11
+p168
+aVLuc Longley PHX 04/06/1999 PHX @ LAC W 36 10 5 9 55.6 0 0 - 0 0 - 1 4 5 5 1 0 5 5 11
+p169
+aVGerald Brown PHX 04/06/1999 PHX @ LAC W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -6
+p170
+aVGeorge McCloud PHX 04/06/1999 PHX @ LAC W 40 13 4 8 50.0 2 6 33.3 3 3 100.0 2 7 9 5 1 2 1 2 8
+p171
+aVChris Morris PHX 04/06/1999 PHX @ LAC W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -5
+p172
+aVToby Bailey PHX 04/06/1999 PHX @ LAC W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p173
+aVClifford Robinson PHX 04/03/1999 PHX @ POR L 40 17 5 12 41.7 2 4 50.0 5 8 62.5 1 1 2 6 2 4 3 3 -2
+p174
+aVJason Kidd PHX 04/03/1999 PHX @ POR L 37 25 10 18 55.6 1 3 33.3 4 4 100.0 0 4 4 7 4 1 4 4 6
+p175
+aVJoe Kleine PHX 04/03/1999 PHX @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p176
+aVJimmy Oliver PHX 04/03/1999 PHX @ POR L 9 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 6
+p177
+aVChris Morris PHX 04/03/1999 PHX @ POR L 25 6 3 7 42.9 0 2 0.0 0 0 - 3 3 6 2 1 0 1 3 -5
+p178
+aVGerald Brown PHX 04/03/1999 PHX @ POR L 11 10 5 7 71.4 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -11
+p179
+aVPat Garrity PHX 04/03/1999 PHX @ POR L 36 16 5 10 50.0 1 1 100.0 5 7 71.4 1 2 3 0 1 0 1 4 7
+p180
+aVLuc Longley PHX 04/03/1999 PHX @ POR L 26 5 1 5 20.0 0 0 - 3 4 75.0 0 7 7 0 1 0 2 3 -3
+p181
+aVDanny Manning PHX 04/03/1999 PHX @ POR L 23 4 1 4 25.0 0 0 - 2 4 50.0 0 4 4 1 1 0 4 1 -11
+p182
+aVGeorge McCloud PHX 04/03/1999 PHX @ POR L 28 7 3 6 50.0 1 4 25.0 0 0 - 0 3 3 2 0 0 1 4 -7
+p183
+aVPat Garrity PHX 04/02/1999 PHX vs. LAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p184
+aVGerald Brown PHX 04/02/1999 PHX vs. LAL L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -6
+p185
+aVChris Morris PHX 04/02/1999 PHX vs. LAL L 13 3 1 3 33.3 1 1 100.0 0 0 - 1 4 5 1 0 1 1 2 5
+p186
+aVLuc Longley PHX 04/02/1999 PHX vs. LAL L 22 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 1 0 4 -2
+p187
+aVClifford Robinson PHX 04/02/1999 PHX vs. LAL L 39 30 10 14 71.4 2 3 66.7 8 8 100.0 0 0 0 3 2 2 4 2 -1
+p188
+aVToby Bailey PHX 04/02/1999 PHX vs. LAL L 8 0 0 3 0.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 -6
+p189
+aVJimmy Oliver PHX 04/02/1999 PHX vs. LAL L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p190
+aVTom Gugliotta PHX 04/02/1999 PHX vs. LAL L 31 10 3 12 25.0 0 0 - 4 4 100.0 2 7 9 5 1 0 1 1 -1
+p191
+aVJoe Kleine PHX 04/02/1999 PHX vs. LAL L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p192
+aVGeorge McCloud PHX 04/02/1999 PHX vs. LAL L 29 13 3 10 30.0 3 7 42.9 4 4 100.0 1 2 3 2 1 0 0 2 11
+p193
+aVJason Kidd PHX 04/02/1999 PHX vs. LAL L 43 23 9 16 56.3 2 4 50.0 3 5 60.0 1 5 6 9 1 0 1 1 0
+p194
+aVDanny Manning PHX 04/02/1999 PHX vs. LAL L 26 7 3 5 60.0 0 0 - 1 2 50.0 2 2 4 4 0 0 1 4 4
+p195
+aVDanny Manning PHX 03/31/1999 PHX vs. GSW W 21 6 3 8 37.5 0 0 - 0 0 - 3 3 6 3 0 2 1 2 6
+p196
+aVLuc Longley PHX 03/31/1999 PHX vs. GSW W 31 13 5 12 41.7 0 0 - 3 7 42.9 0 9 9 4 1 1 0 3 20
+p197
+aVGerald Brown PHX 03/31/1999 PHX vs. GSW W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 3 -8
+p198
+aVJoe Kleine PHX 03/31/1999 PHX vs. GSW W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 2 0 2 0 -10
+p199
+aVChris Morris PHX 03/31/1999 PHX vs. GSW W 19 10 4 7 57.1 1 1 100.0 1 2 50.0 1 4 5 1 1 2 1 1 9
+p200
+aVToby Bailey PHX 03/31/1999 PHX vs. GSW W 22 7 3 9 33.3 0 0 - 1 3 33.3 3 1 4 0 2 1 2 4 8
+p201
+aVJason Kidd PHX 03/31/1999 PHX vs. GSW W 38 14 5 11 45.5 1 2 50.0 3 4 75.0 3 4 7 8 6 1 3 2 25
+p202
+aVClifford Robinson PHX 03/31/1999 PHX vs. GSW W 34 16 5 15 33.3 1 1 100.0 5 8 62.5 3 1 4 3 0 0 0 0 19
+p203
+aVTom Gugliotta PHX 03/31/1999 PHX vs. GSW W 30 21 7 13 53.8 0 0 - 7 9 77.8 5 6 11 3 2 0 3 1 28
+p204
+aVPat Garrity PHX 03/31/1999 PHX vs. GSW W 8 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 3 -8
+p205
+aVGeorge McCloud PHX 03/31/1999 PHX vs. GSW W 23 5 2 4 50.0 1 2 50.0 0 0 - 0 5 5 1 1 0 1 4 -4
+p206
+aVPat Garrity PHX 03/28/1999 PHX vs. POR L 21 14 5 7 71.4 1 1 100.0 3 4 75.0 1 1 2 2 0 0 0 2 14
+p207
+aVClifford Robinson PHX 03/28/1999 PHX vs. POR L 40 11 5 12 41.7 1 3 33.3 0 1 0.0 1 4 5 5 2 0 2 1 -4
+p208
+aVToby Bailey PHX 03/28/1999 PHX vs. POR L 12 2 1 6 16.7 0 0 - 0 0 - 4 0 4 0 0 0 0 2 -6
+p209
+aVChris Morris PHX 03/28/1999 PHX vs. POR L 28 6 2 6 33.3 0 1 0.0 2 2 100.0 2 2 4 1 0 0 0 2 4
+p210
+aVGerald Brown PHX 03/28/1999 PHX vs. POR L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -8
+p211
+aVLuc Longley PHX 03/28/1999 PHX vs. POR L 23 8 4 9 44.4 0 0 - 0 0 - 2 4 6 0 1 1 2 5 -14
+p212
+aVDanny Manning PHX 03/28/1999 PHX vs. POR L 22 12 5 10 50.0 0 0 - 2 2 100.0 2 1 3 2 0 0 1 3 11
+p213
+aVGeorge McCloud PHX 03/28/1999 PHX vs. POR L 11 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p214
+aVTom Gugliotta PHX 03/28/1999 PHX vs. POR L 36 18 7 16 43.8 0 0 - 4 5 80.0 2 6 8 3 1 0 1 1 -9
+p215
+aVJason Kidd PHX 03/28/1999 PHX vs. POR L 44 13 5 13 38.5 0 3 0.0 3 4 75.0 0 5 5 9 1 0 1 1 6
+p216
+aVGerald Brown PHX 03/26/1999 PHX vs. NYK L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -3
+p217
+aVDanny Manning PHX 03/26/1999 PHX vs. NYK L 23 14 3 7 42.9 0 1 0.0 8 10 80.0 2 1 3 3 1 1 2 3 -7
+p218
+aVLuc Longley PHX 03/26/1999 PHX vs. NYK L 33 21 10 21 47.6 0 0 - 1 1 100.0 4 6 10 1 0 0 4 2 -2
+p219
+aVPat Garrity PHX 03/26/1999 PHX vs. NYK L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p220
+aVChris Morris PHX 03/26/1999 PHX vs. NYK L 23 5 2 9 22.2 1 2 50.0 0 0 - 6 4 10 2 4 0 0 4 -7
+p221
+aVGeorge McCloud PHX 03/26/1999 PHX vs. NYK L 20 7 2 7 28.6 1 5 20.0 2 2 100.0 0 0 0 2 0 0 1 3 -12
+p222
+aVJason Kidd PHX 03/26/1999 PHX vs. NYK L 39 11 5 16 31.3 1 6 16.7 0 0 - 3 3 6 6 4 0 2 3 -4
+p223
+aVJoe Kleine PHX 03/26/1999 PHX vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p224
+aVToby Bailey PHX 03/26/1999 PHX vs. NYK L 17 6 3 6 50.0 0 1 0.0 0 0 - 3 5 8 0 0 0 0 0 0
+p225
+aVClifford Robinson PHX 03/26/1999 PHX vs. NYK L 42 17 6 13 46.2 1 3 33.3 4 5 80.0 2 2 4 5 3 3 4 2 -4
+p226
+aVTom Gugliotta PHX 03/26/1999 PHX vs. NYK L 31 4 0 8 0.0 0 0 - 4 4 100.0 2 4 6 2 1 0 2 1 6
+p227
+aVTom Gugliotta PHX 03/25/1999 PHX @ POR L 34 9 3 10 30.0 0 0 - 3 4 75.0 1 2 3 5 2 0 1 2 -15
+p228
+aVChris Morris PHX 03/25/1999 PHX @ POR L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -2
+p229
+aVGeorge McCloud PHX 03/25/1999 PHX @ POR L 24 3 1 6 16.7 1 5 20.0 0 0 - 0 4 4 3 1 0 0 3 -10
+p230
+aVGerald Brown PHX 03/25/1999 PHX @ POR L 8 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 6
+p231
+aVPat Garrity PHX 03/25/1999 PHX @ POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p232
+aVRex Chapman PHX 03/25/1999 PHX @ POR L 31 7 2 11 18.2 1 2 50.0 2 3 66.7 0 1 1 3 2 1 1 2 -8
+p233
+aVLuc Longley PHX 03/25/1999 PHX @ POR L 24 8 4 9 44.4 0 0 - 0 0 - 0 6 6 0 1 0 1 3 -3
+p234
+aVDanny Manning PHX 03/25/1999 PHX @ POR L 23 17 7 9 77.8 0 0 - 3 7 42.9 1 5 6 0 0 0 1 2 -4
+p235
+aVToby Bailey PHX 03/25/1999 PHX @ POR L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p236
+aVClifford Robinson PHX 03/25/1999 PHX @ POR L 46 21 8 15 53.3 3 5 60.0 2 3 66.7 1 1 2 5 4 1 1 1 -14
+p237
+aVJason Kidd PHX 03/25/1999 PHX @ POR L 40 13 5 12 41.7 2 4 50.0 1 2 50.0 3 5 8 8 3 0 5 2 -19
+p238
+aVChris Morris PHX 03/24/1999 PHX @ LAL W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 0
+p239
+aVTom Gugliotta PHX 03/24/1999 PHX @ LAL W 40 12 5 14 35.7 0 0 - 2 7 28.6 2 6 8 6 3 1 3 3 13
+p240
+aVClifford Robinson PHX 03/24/1999 PHX @ LAL W 40 24 5 13 38.5 1 1 100.0 13 14 92.9 2 3 5 3 0 2 0 2 14
+p241
+aVJoe Kleine PHX 03/24/1999 PHX @ LAL W 12 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -5
+p242
+aVGeorge McCloud PHX 03/24/1999 PHX @ LAL W 17 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 0 1 0 0 3 -15
+p243
+aVJason Kidd PHX 03/24/1999 PHX @ LAL W 41 23 9 16 56.3 0 1 0.0 5 6 83.3 1 6 7 10 4 0 3 1 7
+p244
+aVLuc Longley PHX 03/24/1999 PHX @ LAL W 26 18 8 13 61.5 0 0 - 2 2 100.0 2 9 11 0 0 0 0 5 11
+p245
+aVRex Chapman PHX 03/24/1999 PHX @ LAL W 17 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 1 1 0 1 0 5
+p246
+aVDanny Manning PHX 03/24/1999 PHX @ LAL W 27 11 4 8 50.0 0 0 - 3 3 100.0 4 3 7 1 0 3 3 3 -4
+p247
+aVToby Bailey PHX 03/24/1999 PHX @ LAL W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -8
+p248
+aVGerald Brown PHX 03/24/1999 PHX @ LAL W 15 6 1 5 20.0 0 0 - 4 4 100.0 0 2 2 0 0 1 1 0 7
+p249
+aVJason Kidd PHX 03/22/1999 PHX vs. VAN W 36 24 6 10 60.0 1 2 50.0 11 22 50.0 2 1 3 9 1 0 3 1 4
+p250
+aVClifford Robinson PHX 03/22/1999 PHX vs. VAN W 36 10 3 8 37.5 1 2 50.0 3 4 75.0 2 6 8 4 4 4 3 3 4
+p251
+aVTom Gugliotta PHX 03/22/1999 PHX vs. VAN W 33 19 8 13 61.5 0 0 - 3 5 60.0 4 6 10 2 1 0 0 4 12
+p252
+aVGerald Brown PHX 03/22/1999 PHX vs. VAN W 12 6 3 5 60.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 1
+p253
+aVLuc Longley PHX 03/22/1999 PHX vs. VAN W 23 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 1 0 0 3 1 10
+p254
+aVJoe Kleine PHX 03/22/1999 PHX vs. VAN W 15 0 0 2 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 1
+p255
+aVToby Bailey PHX 03/22/1999 PHX vs. VAN W 9 5 2 7 28.6 1 2 50.0 0 0 - 1 2 3 0 0 0 0 0 -1
+p256
+aVRex Chapman PHX 03/22/1999 PHX vs. VAN W 36 11 5 11 45.5 0 0 - 1 1 100.0 0 2 2 4 2 0 2 2 -2
+p257
+aVGeorge McCloud PHX 03/22/1999 PHX vs. VAN W 24 6 2 7 28.6 2 4 50.0 0 0 - 1 3 4 0 0 0 1 4 1
+p258
+aVDanny Manning PHX 03/22/1999 PHX vs. VAN W 17 2 1 8 12.5 0 0 - 0 0 - 1 2 3 2 0 3 0 1 -5
+p259
+aVTom Gugliotta PHX 03/20/1999 PHX @ HOU L 41 22 10 21 47.6 0 0 - 2 2 100.0 3 6 9 2 2 0 1 2 -12
+p260
+aVJason Kidd PHX 03/20/1999 PHX @ HOU L 44 14 5 18 27.8 3 6 50.0 1 2 50.0 2 3 5 15 1 0 3 2 -17
+p261
+aVRex Chapman PHX 03/20/1999 PHX @ HOU L 43 13 6 12 50.0 1 1 100.0 0 0 - 0 4 4 1 1 0 4 3 5
+p262
+aVDanny Manning PHX 03/20/1999 PHX @ HOU L 19 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 2 0 2 0 2 -8
+p263
+aVJoe Kleine PHX 03/20/1999 PHX @ HOU L 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -25
+p264
+aVClifford Robinson PHX 03/20/1999 PHX @ HOU L 43 17 6 13 46.2 1 2 50.0 4 6 66.7 1 4 5 4 1 2 0 4 5
+p265
+aVGeorge McCloud PHX 03/20/1999 PHX @ HOU L 22 7 3 4 75.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 -11
+p266
+aVLuc Longley PHX 03/20/1999 PHX @ HOU L 39 12 5 10 50.0 0 0 - 2 2 100.0 3 9 12 1 1 1 4 3 13
+p267
+aVGerald Brown PHX 03/19/1999 PHX @ ATL L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p268
+aVLuc Longley PHX 03/19/1999 PHX @ ATL L 19 4 2 6 33.3 0 0 - 0 0 - 0 0 0 2 1 0 0 3 -5
+p269
+aVChris Morris PHX 03/19/1999 PHX @ ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p270
+aVJason Kidd PHX 03/19/1999 PHX @ ATL L 37 5 1 14 7.1 0 2 0.0 3 4 75.0 2 5 7 11 1 0 1 2 -7
+p271
+aVJoe Kleine PHX 03/19/1999 PHX @ ATL L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p272
+aVToby Bailey PHX 03/19/1999 PHX @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 2 0 0
+p273
+aVRex Chapman PHX 03/19/1999 PHX @ ATL L 38 15 5 13 38.5 1 4 25.0 4 4 100.0 1 3 4 1 1 0 2 1 -11
+p274
+aVDanny Manning PHX 03/19/1999 PHX @ ATL L 21 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 4 0 0 2 3 -7
+p275
+aVClifford Robinson PHX 03/19/1999 PHX @ ATL L 33 15 4 14 28.6 0 2 0.0 7 9 77.8 2 2 4 0 2 1 0 4 -8
+p276
+aVTom Gugliotta PHX 03/19/1999 PHX @ ATL L 39 21 7 12 58.3 0 0 - 7 8 87.5 4 4 8 1 2 0 2 3 -1
+p277
+aVGeorge McCloud PHX 03/19/1999 PHX @ ATL L 30 17 5 9 55.6 5 7 71.4 2 2 100.0 0 5 5 0 1 0 2 4 6
+p278
+aVClifford Robinson PHX 03/17/1999 PHX @ CHH L 38 19 8 13 61.5 1 2 50.0 2 2 100.0 3 8 11 3 5 0 2 5 -11
+p279
+aVGerald Brown PHX 03/17/1999 PHX @ CHH L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 5
+p280
+aVDanny Manning PHX 03/17/1999 PHX @ CHH L 16 8 4 5 80.0 0 0 - 0 0 - 0 0 0 0 0 0 2 4 -5
+p281
+aVPat Garrity PHX 03/17/1999 PHX @ CHH L 5 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 1 0 0 0 1 5
+p282
+aVJoe Kleine PHX 03/17/1999 PHX @ CHH L 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 5
+p283
+aVTom Gugliotta PHX 03/17/1999 PHX @ CHH L 45 19 6 14 42.9 0 1 0.0 7 8 87.5 2 1 3 4 1 0 1 1 -15
+p284
+aVChris Morris PHX 03/17/1999 PHX @ CHH L 18 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 0 0 1 0 0 2
+p285
+aVGeorge McCloud PHX 03/17/1999 PHX @ CHH L 24 12 4 7 57.1 3 5 60.0 1 2 50.0 1 1 2 1 0 0 2 3 0
+p286
+aVToby Bailey PHX 03/17/1999 PHX @ CHH L 7 1 0 1 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 0 -15
+p287
+aVRex Chapman PHX 03/17/1999 PHX @ CHH L 34 25 8 18 44.4 3 7 42.9 6 6 100.0 0 4 4 3 1 0 3 1 2
+p288
+aVJason Kidd PHX 03/17/1999 PHX @ CHH L 43 17 7 16 43.8 1 5 20.0 2 2 100.0 1 5 6 14 2 0 0 6 -13
+p289
+aVJason Kidd PHX 03/16/1999 PHX @ MIL W 32 12 4 8 50.0 0 0 - 4 4 100.0 2 5 7 8 2 0 3 1 22
+p290
+aVPat Garrity PHX 03/16/1999 PHX @ MIL W 7 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -6
+p291
+aVGerald Brown PHX 03/16/1999 PHX @ MIL W 5 4 1 3 33.3 0 1 0.0 2 2 100.0 1 0 1 0 0 0 1 1 -5
+p292
+aVClifford Robinson PHX 03/16/1999 PHX @ MIL W 35 20 9 14 64.3 0 0 - 2 2 100.0 2 3 5 2 1 1 3 3 13
+p293
+aVToby Bailey PHX 03/16/1999 PHX @ MIL W 16 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 2 0
+p294
+aVChris Morris PHX 03/16/1999 PHX @ MIL W 24 5 2 6 33.3 0 2 0.0 1 2 50.0 2 4 6 2 0 0 2 5 4
+p295
+aVTom Gugliotta PHX 03/16/1999 PHX @ MIL W 29 19 7 8 87.5 0 0 - 5 6 83.3 1 6 7 3 2 0 1 5 27
+p296
+aVJoe Kleine PHX 03/16/1999 PHX @ MIL W 9 6 1 3 33.3 0 0 - 4 4 100.0 2 3 5 0 0 0 1 1 -2
+p297
+aVGeorge McCloud PHX 03/16/1999 PHX @ MIL W 27 14 3 6 50.0 3 5 60.0 5 5 100.0 0 4 4 1 3 0 1 0 14
+p298
+aVRex Chapman PHX 03/16/1999 PHX @ MIL W 27 13 5 10 50.0 3 4 75.0 0 0 - 1 1 2 4 1 0 2 1 6
+p299
+aVDanny Manning PHX 03/16/1999 PHX @ MIL W 28 13 4 7 57.1 0 0 - 5 6 83.3 2 1 3 7 1 0 5 3 17
+p300
+aVJason Kidd PHX 03/14/1999 PHX vs. HOU W 42 26 10 21 47.6 0 3 0.0 6 7 85.7 3 8 11 14 0 0 0 1 26
+p301
+aVClifford Robinson PHX 03/14/1999 PHX vs. HOU W 37 13 6 11 54.5 0 2 0.0 1 2 50.0 1 3 4 3 4 1 1 5 18
+p302
+aVPat Garrity PHX 03/14/1999 PHX vs. HOU W 7 2 1 4 25.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -9
+p303
+aVRex Chapman PHX 03/14/1999 PHX vs. HOU W 17 2 1 10 10.0 0 2 0.0 0 0 - 1 1 2 2 1 0 1 0 2
+p304
+aVGeorge McCloud PHX 03/14/1999 PHX vs. HOU W 19 6 2 4 50.0 2 2 100.0 0 0 - 1 1 2 2 1 0 1 3 5
+p305
+aVDanny Manning PHX 03/14/1999 PHX vs. HOU W 26 15 6 12 50.0 0 0 - 3 4 75.0 0 2 2 4 0 0 0 1 15
+p306
+aVChris Morris PHX 03/14/1999 PHX vs. HOU W 16 9 4 8 50.0 1 3 33.3 0 0 - 1 4 5 1 0 0 0 0 5
+p307
+aVToby Bailey PHX 03/14/1999 PHX vs. HOU W 20 4 2 3 66.7 0 0 - 0 0 - 0 6 6 2 1 0 1 0 -2
+p308
+aVJoe Kleine PHX 03/14/1999 PHX vs. HOU W 20 10 4 7 57.1 0 0 - 2 2 100.0 1 1 2 0 1 0 2 2 3
+p309
+aVTom Gugliotta PHX 03/14/1999 PHX vs. HOU W 37 17 6 10 60.0 0 0 - 5 6 83.3 5 5 10 3 2 3 0 3 7
+p310
+aVGerald Brown PHX 03/12/1999 PHX vs. SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 0
+p311
+aVJoe Kleine PHX 03/12/1999 PHX vs. SAS L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -9
+p312
+aVClifford Robinson PHX 03/12/1999 PHX vs. SAS L 38 20 9 11 81.8 1 3 33.3 1 2 50.0 1 1 2 3 1 3 1 2 0
+p313
+aVJason Kidd PHX 03/12/1999 PHX vs. SAS L 43 14 5 14 35.7 2 3 66.7 2 3 66.7 3 6 9 15 2 0 3 3 -2
+p314
+aVLuc Longley PHX 03/12/1999 PHX vs. SAS L 28 9 4 11 36.4 0 0 - 1 1 100.0 0 6 6 2 0 0 1 1 -5
+p315
+aVToby Bailey PHX 03/12/1999 PHX vs. SAS L 26 4 2 5 40.0 0 1 0.0 0 0 - 2 2 4 3 2 0 1 0 -8
+p316
+aVTom Gugliotta PHX 03/12/1999 PHX vs. SAS L 39 33 12 17 70.6 0 1 0.0 9 10 90.0 2 3 5 1 2 0 3 2 -1
+p317
+aVGeorge McCloud PHX 03/12/1999 PHX vs. SAS L 22 5 2 4 50.0 1 2 50.0 0 0 - 0 4 4 0 1 0 2 0 5
+p318
+aVDanny Manning PHX 03/12/1999 PHX vs. SAS L 23 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 3 1 1 1 3 7
+p319
+aVChris Morris PHX 03/12/1999 PHX vs. SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p320
+aVLuc Longley PHX 03/10/1999 PHX vs. CLE L 25 2 0 5 0.0 0 0 - 2 2 100.0 3 2 5 3 0 1 2 1 -11
+p321
+aVClifford Robinson PHX 03/10/1999 PHX vs. CLE L 24 8 3 14 21.4 0 4 0.0 2 3 66.7 1 5 6 2 1 1 0 5 -1
+p322
+aVDanny Manning PHX 03/10/1999 PHX vs. CLE L 33 15 6 12 50.0 0 0 - 3 4 75.0 1 2 3 4 0 1 1 3 -7
+p323
+aVTom Gugliotta PHX 03/10/1999 PHX vs. CLE L 39 16 7 17 41.2 0 0 - 2 2 100.0 3 4 7 2 0 1 4 2 -15
+p324
+aVChris Morris PHX 03/10/1999 PHX vs. CLE L 31 12 5 10 50.0 1 5 20.0 1 1 100.0 4 5 9 1 0 0 1 2 -3
+p325
+aVJason Kidd PHX 03/10/1999 PHX vs. CLE L 42 11 5 13 38.5 1 2 50.0 0 0 - 0 7 7 8 1 0 2 4 -18
+p326
+aVGerald Brown PHX 03/10/1999 PHX vs. CLE L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 10
+p327
+aVGeorge McCloud PHX 03/10/1999 PHX vs. CLE L 36 5 1 6 16.7 1 5 20.0 2 2 100.0 0 1 1 3 1 0 3 3 -20
+p328
+aVTom Gugliotta PHX 03/09/1999 PHX @ DAL W 35 12 5 15 33.3 0 0 - 2 3 66.7 2 5 7 4 1 0 1 3 2
+p329
+aVLuc Longley PHX 03/09/1999 PHX @ DAL W 25 16 7 9 77.8 0 0 - 2 2 100.0 1 3 4 2 0 1 1 2 7
+p330
+aVPat Garrity PHX 03/09/1999 PHX @ DAL W 5 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -4
+p331
+aVJason Kidd PHX 03/09/1999 PHX @ DAL W 39 13 6 15 40.0 1 1 100.0 0 0 - 0 7 7 5 0 0 0 2 13
+p332
+aVDanny Manning PHX 03/09/1999 PHX @ DAL W 28 14 7 12 58.3 0 0 - 0 0 - 6 2 8 2 0 0 1 1 16
+p333
+aVToby Bailey PHX 03/09/1999 PHX @ DAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p334
+aVClifford Robinson PHX 03/09/1999 PHX @ DAL W 43 18 6 14 42.9 4 6 66.7 2 4 50.0 0 6 6 4 0 1 2 2 7
+p335
+aVGeorge McCloud PHX 03/09/1999 PHX @ DAL W 35 17 7 11 63.6 3 5 60.0 0 0 - 0 2 2 4 0 0 1 3 10
+p336
+aVGerald Brown PHX 03/09/1999 PHX @ DAL W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -1
+p337
+aVChris Morris PHX 03/09/1999 PHX @ DAL W 15 9 2 2 100.0 1 1 100.0 4 4 100.0 4 1 5 3 2 1 1 4 14
+p338
+aVJoe Kleine PHX 03/06/1999 PHX vs. SAC L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p339
+aVToby Bailey PHX 03/06/1999 PHX vs. SAC L 18 12 5 6 83.3 0 0 - 2 2 100.0 3 0 3 0 0 0 1 3 5
+p340
+aVGeorge McCloud PHX 03/06/1999 PHX vs. SAC L 29 7 2 5 40.0 1 2 50.0 2 3 66.7 1 0 1 3 0 1 3 3 -10
+p341
+aVGerald Brown PHX 03/06/1999 PHX vs. SAC L 4 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 1 0 -4
+p342
+aVRex Chapman PHX 03/06/1999 PHX vs. SAC L 30 12 5 14 35.7 1 6 16.7 1 2 50.0 0 2 2 4 1 0 1 2 -17
+p343
+aVLuc Longley PHX 03/06/1999 PHX vs. SAC L 21 10 3 7 42.9 0 0 - 4 4 100.0 1 2 3 2 1 0 2 3 -4
+p344
+aVPat Garrity PHX 03/06/1999 PHX vs. SAC L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 4
+p345
+aVJason Kidd PHX 03/06/1999 PHX vs. SAC L 44 21 10 16 62.5 1 2 50.0 0 1 0.0 3 6 9 11 5 2 4 2 -8
+p346
+aVDanny Manning PHX 03/06/1999 PHX vs. SAC L 24 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 5 0 1 1 4 -8
+p347
+aVTom Gugliotta PHX 03/06/1999 PHX vs. SAC L 37 12 4 10 40.0 0 0 - 4 4 100.0 2 5 7 4 4 1 5 3 -9
+p348
+aVClifford Robinson PHX 03/06/1999 PHX vs. SAC L 27 15 7 17 41.2 1 3 33.3 0 2 0.0 2 7 9 0 1 1 3 1 -11
+p349
+aVChris Morris PHX 03/04/1999 PHX @ SEA W 9 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 0 1 1 1 3
+p350
+aVToby Bailey PHX 03/04/1999 PHX @ SEA W 12 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 0 0 2 4
+p351
+aVGerald Brown PHX 03/04/1999 PHX @ SEA W 7 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 0 4
+p352
+aVDanny Manning PHX 03/04/1999 PHX @ SEA W 29 13 6 12 50.0 0 0 - 1 2 50.0 0 4 4 3 0 1 3 2 18
+p353
+aVClifford Robinson PHX 03/04/1999 PHX @ SEA W 31 13 5 9 55.6 1 1 100.0 2 2 100.0 1 0 1 0 0 0 1 2 -2
+p354
+aVJoe Kleine PHX 03/04/1999 PHX @ SEA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p355
+aVRex Chapman PHX 03/04/1999 PHX @ SEA W 36 23 8 13 61.5 4 4 100.0 3 5 60.0 0 4 4 0 1 0 1 1 4
+p356
+aVTom Gugliotta PHX 03/04/1999 PHX @ SEA W 37 18 8 13 61.5 0 0 - 2 3 66.7 1 4 5 1 4 1 3 5 0
+p357
+aVGeorge McCloud PHX 03/04/1999 PHX @ SEA W 32 15 4 6 66.7 1 1 100.0 6 6 100.0 0 2 2 2 3 0 1 4 4
+p358
+aVJason Kidd PHX 03/04/1999 PHX @ SEA W 42 7 2 10 20.0 0 2 0.0 3 4 75.0 3 4 7 19 3 0 0 4 4
+p359
+aVClifford Robinson PHX 03/03/1999 PHX @ LAL L 20 20 8 13 61.5 1 3 33.3 3 6 50.0 0 0 0 0 2 0 0 5 5
+p360
+aVRex Chapman PHX 03/03/1999 PHX @ LAL L 41 14 5 16 31.3 1 6 16.7 3 3 100.0 1 3 4 2 0 0 1 2 1
+p361
+aVGerald Brown PHX 03/03/1999 PHX @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p362
+aVTom Gugliotta PHX 03/03/1999 PHX @ LAL L 40 14 7 20 35.0 0 0 - 0 0 - 6 6 12 1 3 0 2 3 -1
+p363
+aVChris Morris PHX 03/03/1999 PHX @ LAL L 8 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 1 3 -7
+p364
+aVDanny Manning PHX 03/03/1999 PHX @ LAL L 17 5 2 5 40.0 0 0 - 1 3 33.3 1 3 4 2 0 0 0 0 -3
+p365
+aVJason Kidd PHX 03/03/1999 PHX @ LAL L 42 13 4 11 36.4 1 4 25.0 4 4 100.0 1 6 7 11 4 0 2 5 -8
+p366
+aVGeorge McCloud PHX 03/03/1999 PHX @ LAL L 25 12 4 10 40.0 1 5 20.0 3 4 75.0 2 3 5 1 0 0 1 5 -3
+p367
+aVPat Garrity PHX 03/03/1999 PHX @ LAL L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p368
+aVLuc Longley PHX 03/03/1999 PHX @ LAL L 20 9 3 6 50.0 0 0 - 3 4 75.0 2 2 4 1 2 0 0 4 -4
+p369
+aVJoe Kleine PHX 03/03/1999 PHX @ LAL L 21 6 3 5 60.0 0 0 - 0 0 - 1 6 7 2 1 0 0 4 -9
+p370
+aVGeorge McCloud PHX 03/01/1999 PHX vs. LAL L 37 9 3 6 50.0 1 2 50.0 2 2 100.0 0 2 2 4 7 1 1 1 -2
+p371
+aVClifford Robinson PHX 03/01/1999 PHX vs. LAL L 26 13 6 13 46.2 0 1 0.0 1 2 50.0 1 2 3 0 1 0 0 2 -7
+p372
+aVRex Chapman PHX 03/01/1999 PHX vs. LAL L 32 10 3 13 23.1 1 4 25.0 3 4 75.0 0 3 3 7 0 0 0 0 12
+p373
+aVShawn Respert PHX 03/01/1999 PHX vs. LAL L 5 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 0 0 0 1 2
+p374
+aVChris Morris PHX 03/01/1999 PHX vs. LAL L 6 1 0 0 - 0 0 - 1 2 50.0 1 0 1 0 1 0 0 1 -9
+p375
+aVJoe Kleine PHX 03/01/1999 PHX vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p376
+aVLuc Longley PHX 03/01/1999 PHX vs. LAL L 31 16 7 15 46.7 0 0 - 2 3 66.7 2 6 8 0 0 0 2 4 -12
+p377
+aVJason Kidd PHX 03/01/1999 PHX vs. LAL L 44 12 5 12 41.7 1 2 50.0 1 3 33.3 2 1 3 11 1 1 4 1 -6
+p378
+aVDanny Manning PHX 03/01/1999 PHX vs. LAL L 20 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 1 0 1 1 2 -13
+p379
+aVTom Gugliotta PHX 03/01/1999 PHX vs. LAL L 34 20 8 13 61.5 1 1 100.0 3 3 100.0 3 6 9 1 0 0 3 4 8
+p380
+aVClifford Robinson PHX 02/28/1999 PHX vs. GSW W 34 20 8 13 61.5 1 2 50.0 3 3 100.0 0 7 7 1 1 3 2 1 28
+p381
+aVDanny Manning PHX 02/28/1999 PHX vs. GSW W 20 7 3 6 50.0 0 0 - 1 3 33.3 0 6 6 2 0 2 0 2 16
+p382
+aVShawn Respert PHX 02/28/1999 PHX vs. GSW W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -7
+p383
+aVGeorge McCloud PHX 02/28/1999 PHX vs. GSW W 28 11 3 7 42.9 1 2 50.0 4 4 100.0 1 2 3 2 0 1 0 2 -3
+p384
+aVLuc Longley PHX 02/28/1999 PHX vs. GSW W 14 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -15
+p385
+aVChris Morris PHX 02/28/1999 PHX vs. GSW W 22 10 3 9 33.3 1 6 16.7 3 4 75.0 1 1 2 2 1 0 0 0 11
+p386
+aVPat Garrity PHX 02/28/1999 PHX vs. GSW W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p387
+aVTom Gugliotta PHX 02/28/1999 PHX vs. GSW W 36 20 6 12 50.0 0 0 - 8 10 80.0 1 7 8 1 1 0 1 1 3
+p388
+aVJason Kidd PHX 02/28/1999 PHX vs. GSW W 42 17 5 11 45.5 0 0 - 7 7 100.0 1 6 7 11 2 0 5 0 20
+p389
+aVRex Chapman PHX 02/28/1999 PHX vs. GSW W 32 9 2 7 28.6 2 3 66.7 3 4 75.0 0 4 4 4 0 1 0 2 13
+p390
+aVDanny Manning PHX 02/26/1999 PHX @ GSW L 19 4 2 8 25.0 0 1 0.0 0 1 0.0 1 2 3 1 1 0 0 2 -9
+p391
+aVLuc Longley PHX 02/26/1999 PHX @ GSW L 21 10 4 7 57.1 0 0 - 2 4 50.0 1 4 5 0 0 1 0 5 3
+p392
+aVJason Kidd PHX 02/26/1999 PHX @ GSW L 44 10 1 8 12.5 0 1 0.0 8 10 80.0 3 6 9 18 6 0 3 1 3
+p393
+aVGeorge McCloud PHX 02/26/1999 PHX @ GSW L 33 10 4 13 30.8 1 5 20.0 1 2 50.0 2 2 4 0 1 0 0 5 0
+p394
+aVRex Chapman PHX 02/26/1999 PHX @ GSW L 34 13 5 15 33.3 1 4 25.0 2 2 100.0 2 3 5 5 0 1 0 4 2
+p395
+aVShawn Respert PHX 02/26/1999 PHX @ GSW L 5 1 0 3 0.0 0 1 0.0 1 1 100.0 0 4 4 0 0 0 1 0 -6
+p396
+aVClifford Robinson PHX 02/26/1999 PHX @ GSW L 32 17 6 15 40.0 2 4 50.0 3 4 75.0 2 3 5 1 1 1 1 5 -3
+p397
+aVTom Gugliotta PHX 02/26/1999 PHX @ GSW L 42 22 8 18 44.4 0 0 - 6 8 75.0 6 4 10 3 1 0 0 1 -5
+p398
+aVChris Morris PHX 02/26/1999 PHX @ GSW L 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -5
+p399
+aVChris Morris PHX 02/25/1999 PHX @ VAN W 14 6 0 3 0.0 0 2 0.0 6 6 100.0 3 2 5 0 0 0 0 0 3
+p400
+aVRex Chapman PHX 02/25/1999 PHX @ VAN W 36 16 6 19 31.6 4 11 36.4 0 0 - 1 1 2 3 1 0 3 1 5
+p401
+aVDanny Manning PHX 02/25/1999 PHX @ VAN W 23 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 2 2 1 1 3 2
+p402
+aVClifford Robinson PHX 02/25/1999 PHX @ VAN W 30 9 2 6 33.3 0 1 0.0 5 7 71.4 1 3 4 1 3 2 4 3 -2
+p403
+aVGeorge McCloud PHX 02/25/1999 PHX @ VAN W 30 16 5 13 38.5 3 7 42.9 3 4 75.0 1 4 5 1 2 0 2 4 14
+p404
+aVLuc Longley PHX 02/25/1999 PHX @ VAN W 15 8 3 5 60.0 0 0 - 2 3 66.7 3 2 5 1 0 0 2 5 12
+p405
+aVTom Gugliotta PHX 02/25/1999 PHX @ VAN W 32 10 5 9 55.6 0 0 - 0 0 - 1 6 7 2 0 0 1 2 -11
+p406
+aVJason Kidd PHX 02/25/1999 PHX @ VAN W 43 14 6 12 50.0 0 1 0.0 2 4 50.0 5 7 12 16 6 0 3 3 8
+p407
+aVShawn Respert PHX 02/25/1999 PHX @ VAN W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 4
+p408
+aVJoe Kleine PHX 02/25/1999 PHX @ VAN W 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p409
+aVMarko Milic PHX 02/25/1999 PHX @ VAN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p410
+aVPat Garrity PHX 02/25/1999 PHX @ VAN W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 4
+p411
+aVJoe Kleine PHX 02/22/1999 PHX vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 0
+p412
+aVDanny Manning PHX 02/22/1999 PHX vs. DAL W 22 17 7 8 87.5 0 0 - 3 4 75.0 1 6 7 4 0 0 1 2 14
+p413
+aVPat Garrity PHX 02/22/1999 PHX vs. DAL W 10 8 4 5 80.0 0 0 - 0 1 0.0 1 1 2 0 0 0 0 1 12
+p414
+aVTom Gugliotta PHX 02/22/1999 PHX vs. DAL W 38 12 5 11 45.5 0 0 - 2 2 100.0 2 4 6 3 1 1 2 0 6
+p415
+aVChris Morris PHX 02/22/1999 PHX vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p416
+aVGeorge McCloud PHX 02/22/1999 PHX vs. DAL W 25 6 2 6 33.3 2 5 40.0 0 0 - 0 2 2 3 2 1 1 5 7
+p417
+aVJason Kidd PHX 02/22/1999 PHX vs. DAL W 35 17 6 11 54.5 1 2 50.0 4 5 80.0 1 9 10 12 0 1 2 0 20
+p418
+aVMarko Milic PHX 02/22/1999 PHX vs. DAL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p419
+aVClifford Robinson PHX 02/22/1999 PHX vs. DAL W 32 9 3 9 33.3 0 2 0.0 3 4 75.0 1 4 5 2 2 0 2 3 11
+p420
+aVLuc Longley PHX 02/22/1999 PHX vs. DAL W 27 9 4 6 66.7 0 0 - 1 3 33.3 0 4 4 2 2 0 1 1 7
+p421
+aVRex Chapman PHX 02/22/1999 PHX vs. DAL W 36 18 7 12 58.3 2 4 50.0 2 2 100.0 0 2 2 3 2 1 1 2 11
+p422
+aVShawn Respert PHX 02/22/1999 PHX vs. DAL W 4 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 3
+p423
+aVDanny Manning PHX 02/19/1999 PHX vs. DET L 24 10 4 9 44.4 0 0 - 2 2 100.0 0 3 3 2 1 1 1 3 -13
+p424
+aVShawn Respert PHX 02/19/1999 PHX vs. DET L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p425
+aVRex Chapman PHX 02/19/1999 PHX vs. DET L 26 8 3 10 30.0 1 3 33.3 1 1 100.0 0 0 0 2 0 0 0 1 -12
+p426
+aVLuc Longley PHX 02/19/1999 PHX vs. DET L 20 8 4 8 50.0 0 0 - 0 0 - 0 2 2 0 1 0 1 3 -6
+p427
+aVTom Gugliotta PHX 02/19/1999 PHX vs. DET L 38 4 2 10 20.0 0 0 - 0 0 - 3 12 15 3 1 0 5 2 -13
+p428
+aVGeorge McCloud PHX 02/19/1999 PHX vs. DET L 35 11 4 10 40.0 3 6 50.0 0 0 - 1 4 5 0 1 0 2 1 -6
+p429
+aVChris Morris PHX 02/19/1999 PHX vs. DET L 11 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 2 0 1 2 11
+p430
+aVClifford Robinson PHX 02/19/1999 PHX vs. DET L 36 26 9 13 69.2 3 4 75.0 5 7 71.4 0 6 6 5 0 3 0 2 2
+p431
+aVJason Kidd PHX 02/19/1999 PHX vs. DET L 43 24 7 16 43.8 2 2 100.0 8 9 88.9 2 4 6 9 4 3 4 2 -4
+p432
+aVClifford Robinson PHX 02/17/1999 PHX @ SAS W 16 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 1 0 0 3 -7
+p433
+aVGeorge McCloud PHX 02/17/1999 PHX @ SAS W 35 14 5 9 55.6 0 2 0.0 4 4 100.0 2 3 5 2 3 0 1 3 10
+p434
+aVJoe Kleine PHX 02/17/1999 PHX @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p435
+aVJason Kidd PHX 02/17/1999 PHX @ SAS W 44 14 6 14 42.9 0 0 - 2 4 50.0 4 11 15 10 2 0 4 4 10
+p436
+aVDanny Manning PHX 02/17/1999 PHX @ SAS W 14 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 2 6 3
+p437
+aVMarko Milic PHX 02/17/1999 PHX @ SAS W 9 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 2 1 0 0 -7
+p438
+aVChris Morris PHX 02/17/1999 PHX @ SAS W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 1
+p439
+aVLuc Longley PHX 02/17/1999 PHX @ SAS W 30 10 4 9 44.4 0 0 - 2 2 100.0 1 6 7 2 0 4 1 3 14
+p440
+aVPat Garrity PHX 02/17/1999 PHX @ SAS W 9 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -5
+p441
+aVTom Gugliotta PHX 02/17/1999 PHX @ SAS W 40 19 9 19 47.4 0 0 - 1 2 50.0 5 3 8 1 2 1 2 1 2
+p442
+aVRex Chapman PHX 02/17/1999 PHX @ SAS W 34 10 4 14 28.6 1 5 20.0 1 1 100.0 1 1 2 1 0 0 0 0 -2
+p443
+aVShawn Respert PHX 02/16/1999 PHX @ HOU L 11 12 5 6 83.3 2 2 100.0 0 0 - 0 0 0 0 1 0 0 0 0
+p444
+aVToby Bailey PHX 02/16/1999 PHX @ HOU L 7 0 0 4 0.0 0 0 - 0 0 - 2 1 3 2 2 0 0 1 4
+p445
+aVPat Garrity PHX 02/16/1999 PHX @ HOU L 7 3 0 1 0.0 0 0 - 3 4 75.0 1 1 2 0 0 0 0 0 4
+p446
+aVDanny Manning PHX 02/16/1999 PHX @ HOU L 15 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 4 -9
+p447
+aVJason Kidd PHX 02/16/1999 PHX @ HOU L 35 14 6 19 31.6 2 4 50.0 0 0 - 0 6 6 11 0 1 4 3 -17
+p448
+aVClifford Robinson PHX 02/16/1999 PHX @ HOU L 18 12 4 8 50.0 2 2 100.0 2 3 66.7 4 1 5 2 1 0 5 2 -10
+p449
+aVJoe Kleine PHX 02/16/1999 PHX @ HOU L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -3
+p450
+aVChris Morris PHX 02/16/1999 PHX @ HOU L 11 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 1 1 1 2 -8
+p451
+aVGerald Brown PHX 02/16/1999 PHX @ HOU L 12 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 2
+p452
+aVRex Chapman PHX 02/16/1999 PHX @ HOU L 30 11 3 14 21.4 0 1 0.0 5 5 100.0 0 1 1 2 3 0 0 1 -8
+p453
+aVTom Gugliotta PHX 02/16/1999 PHX @ HOU L 34 14 7 12 58.3 0 0 - 0 0 - 7 4 11 4 1 0 1 2 -15
+p454
+aVLuc Longley PHX 02/16/1999 PHX @ HOU L 21 4 2 6 33.3 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -10
+p455
+aVMarko Milic PHX 02/16/1999 PHX @ HOU L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p456
+aVGeorge McCloud PHX 02/16/1999 PHX @ HOU L 26 10 4 9 44.4 0 0 - 2 4 50.0 1 1 2 1 1 0 2 4 -16
+p457
+aVChris Morris PHX 02/15/1999 PHX @ DEN W 18 12 5 7 71.4 2 3 66.7 0 0 - 2 4 6 0 0 0 0 2 21
+p458
+aVGeorge McCloud PHX 02/15/1999 PHX @ DEN W 35 24 9 13 69.2 5 7 71.4 1 2 50.0 3 3 6 3 0 2 3 4 8
+p459
+aVShawn Respert PHX 02/15/1999 PHX @ DEN W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -12
+p460
+aVDanny Manning PHX 02/15/1999 PHX @ DEN W 27 15 6 7 85.7 0 0 - 3 4 75.0 0 5 5 3 1 1 3 4 4
+p461
+aVJason Kidd PHX 02/15/1999 PHX @ DEN W 42 28 9 17 52.9 0 1 0.0 10 13 76.9 3 8 11 13 0 2 1 2 16
+p462
+aVPat Garrity PHX 02/15/1999 PHX @ DEN W 9 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 3 -4
+p463
+aVTom Gugliotta PHX 02/15/1999 PHX @ DEN W 39 10 3 14 21.4 0 0 - 4 4 100.0 3 5 8 3 1 0 3 2 13
+p464
+aVGerald Brown PHX 02/15/1999 PHX @ DEN W 3 3 0 0 - 0 0 - 3 4 75.0 0 0 0 1 0 0 1 0 -5
+p465
+aVClifford Robinson PHX 02/15/1999 PHX @ DEN W 31 11 5 8 62.5 0 0 - 1 4 25.0 0 4 4 2 2 0 0 2 3
+p466
+aVLuc Longley PHX 02/15/1999 PHX @ DEN W 16 8 3 5 60.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 6
+p467
+aVToby Bailey PHX 02/15/1999 PHX @ DEN W 14 0 0 2 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -5
+p468
+aVPat Garrity PHX 02/13/1999 PHX vs. LAC W 10 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -3
+p469
+aVClifford Robinson PHX 02/13/1999 PHX vs. LAC W 33 23 8 15 53.3 2 3 66.7 5 7 71.4 2 2 4 1 0 1 2 2 2
+p470
+aVJason Kidd PHX 02/13/1999 PHX vs. LAC W 50 14 6 12 50.0 0 0 - 2 2 100.0 0 3 3 16 3 0 4 1 8
+p471
+aVChris Morris PHX 02/13/1999 PHX vs. LAC W 15 7 2 4 50.0 1 2 50.0 2 2 100.0 2 3 5 0 1 0 1 2 -4
+p472
+aVMarko Milic PHX 02/13/1999 PHX vs. LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p473
+aVLuc Longley PHX 02/13/1999 PHX vs. LAC W 39 11 5 8 62.5 0 0 - 1 2 50.0 2 7 9 1 2 1 1 4 19
+p474
+aVTom Gugliotta PHX 02/13/1999 PHX vs. LAC W 43 20 6 11 54.5 0 0 - 8 11 72.7 1 9 10 2 1 1 1 5 3
+p475
+aVShawn Respert PHX 02/13/1999 PHX vs. LAC W 12 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 1 2 0 1 3 0
+p476
+aVRex Chapman PHX 02/13/1999 PHX vs. LAC W 39 23 7 22 31.8 2 8 25.0 7 9 77.8 1 2 3 4 0 0 5 0 5
+p477
+aVDanny Manning PHX 02/13/1999 PHX vs. LAC W 18 4 1 1 100.0 0 0 - 2 4 50.0 0 2 2 1 1 0 0 2 -9
+p478
+aVChris Morris PHX 02/11/1999 PHX vs. UTA L 16 5 2 6 33.3 0 1 0.0 1 2 50.0 4 2 6 0 0 1 0 2 7
+p479
+aVGeorge McCloud PHX 02/11/1999 PHX vs. UTA L 31 4 1 5 20.0 0 2 0.0 2 4 50.0 1 5 6 1 1 0 2 3 -12
+p480
+aVJason Kidd PHX 02/11/1999 PHX vs. UTA L 32 11 4 14 28.6 0 1 0.0 3 4 75.0 0 2 2 5 0 1 6 3 -2
+p481
+aVDanny Manning PHX 02/11/1999 PHX vs. UTA L 21 9 4 6 66.7 0 1 0.0 1 1 100.0 1 6 7 1 0 1 0 2 6
+p482
+aVShawn Respert PHX 02/11/1999 PHX vs. UTA L 12 3 0 3 0.0 0 1 0.0 3 4 75.0 1 0 1 1 1 0 0 1 5
+p483
+aVClifford Robinson PHX 02/11/1999 PHX vs. UTA L 23 8 2 3 66.7 0 0 - 4 6 66.7 0 1 1 1 4 0 2 3 2
+p484
+aVLuc Longley PHX 02/11/1999 PHX vs. UTA L 31 8 4 8 50.0 0 0 - 0 0 - 3 5 8 1 0 2 2 3 -14
+p485
+aVRex Chapman PHX 02/11/1999 PHX vs. UTA L 24 6 3 11 27.3 0 4 0.0 0 0 - 0 2 2 3 1 0 1 0 -17
+p486
+aVGerald Brown PHX 02/11/1999 PHX vs. UTA L 7 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 0 0 2 1 -11
+p487
+aVTom Gugliotta PHX 02/11/1999 PHX vs. UTA L 41 18 5 12 41.7 1 1 100.0 7 9 77.8 5 7 12 1 1 0 1 3 -4
+p488
+aVMarko Milic PHX 02/09/1999 PHX vs. SAC L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p489
+aVChris Morris PHX 02/09/1999 PHX vs. SAC L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p490
+aVDanny Manning PHX 02/09/1999 PHX vs. SAC L 19 4 2 9 22.2 0 1 0.0 0 0 - 1 2 3 0 1 1 0 2 -11
+p491
+aVRex Chapman PHX 02/09/1999 PHX vs. SAC L 30 10 2 13 15.4 2 5 40.0 4 6 66.7 0 2 2 3 0 0 1 2 -1
+p492
+aVLuc Longley PHX 02/09/1999 PHX vs. SAC L 23 6 3 5 60.0 0 0 - 0 0 - 2 6 8 1 1 0 2 3 -12
+p493
+aVGeorge McCloud PHX 02/09/1999 PHX vs. SAC L 22 11 3 8 37.5 3 4 75.0 2 3 66.7 4 4 8 3 0 1 0 0 -12
+p494
+aVShawn Respert PHX 02/09/1999 PHX vs. SAC L 4 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 2 0
+p495
+aVPat Garrity PHX 02/09/1999 PHX vs. SAC L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p496
+aVToby Bailey PHX 02/09/1999 PHX vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p497
+aVGerald Brown PHX 02/09/1999 PHX vs. SAC L 6 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 0 0 1 0 -7
+p498
+aVJason Kidd PHX 02/09/1999 PHX vs. SAC L 42 17 7 17 41.2 0 0 - 3 3 100.0 3 3 6 7 1 1 4 2 -10
+p499
+aVTom Gugliotta PHX 02/09/1999 PHX vs. SAC L 36 26 8 19 42.1 0 0 - 10 14 71.4 4 4 8 2 2 2 4 2 -12
+p500
+aVClifford Robinson PHX 02/09/1999 PHX vs. SAC L 33 12 4 10 40.0 0 0 - 4 5 80.0 4 4 8 1 1 1 1 2 -3
+p501
+aVJoe Kleine PHX 02/09/1999 PHX vs. SAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 0 0 4 -6
+p502
+aVToby Bailey PHX 02/07/1999 PHX vs. DEN W 0 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p503
+aVLuc Longley PHX 02/07/1999 PHX vs. DEN W 16 6 3 5 60.0 0 0 - 0 0 - 3 1 4 0 0 0 4 2 7
+p504
+aVRex Chapman PHX 02/07/1999 PHX vs. DEN W 29 8 3 11 27.3 1 5 20.0 1 2 50.0 0 2 2 4 0 0 2 2 10
+p505
+aVTom Gugliotta PHX 02/07/1999 PHX vs. DEN W 34 29 9 14 64.3 0 0 - 11 13 84.6 2 11 13 3 0 2 2 5 8
+p506
+aVGeorge McCloud PHX 02/07/1999 PHX vs. DEN W 28 9 2 4 50.0 1 2 50.0 4 4 100.0 0 3 3 2 0 0 0 5 6
+p507
+aVPat Garrity PHX 02/07/1999 PHX vs. DEN W 22 13 4 6 66.7 0 0 - 5 9 55.6 1 0 1 0 1 1 0 2 -2
+p508
+aVGerald Brown PHX 02/07/1999 PHX vs. DEN W 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 1 0 1 0 2
+p509
+aVJason Kidd PHX 02/07/1999 PHX vs. DEN W 41 17 6 11 54.5 0 0 - 5 7 71.4 0 5 5 14 1 0 3 2 2
+p510
+aVClifford Robinson PHX 02/07/1999 PHX vs. DEN W 35 12 3 10 30.0 0 0 - 6 10 60.0 2 5 7 2 1 0 1 4 1
+p511
+aVDanny Manning PHX 02/07/1999 PHX vs. DEN W 21 15 6 7 85.7 1 1 100.0 2 2 100.0 1 4 5 1 0 0 2 4 -1
+p512
+aVShawn Respert PHX 02/05/1999 PHX @ LAC W 18 7 3 8 37.5 0 2 0.0 1 2 50.0 1 1 2 1 1 0 1 0 1
+p513
+aVDanny Manning PHX 02/05/1999 PHX @ LAC W 17 4 2 6 33.3 0 0 - 0 0 - 0 3 3 0 1 1 2 1 3
+p514
+aVPat Garrity PHX 02/05/1999 PHX @ LAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -7
+p515
+aVTom Gugliotta PHX 02/05/1999 PHX @ LAC W 41 24 7 14 50.0 0 0 - 10 13 76.9 3 14 17 1 1 1 3 3 16
+p516
+aVGeorge McCloud PHX 02/05/1999 PHX @ LAC W 38 14 5 9 55.6 3 5 60.0 1 2 50.0 2 7 9 4 2 1 3 2 17
+p517
+aVMarko Milic PHX 02/05/1999 PHX @ LAC W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p518
+aVGerald Brown PHX 02/05/1999 PHX @ LAC W 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 2 -18
+p519
+aVJason Kidd PHX 02/05/1999 PHX @ LAC W 41 18 7 12 58.3 0 0 - 4 8 50.0 0 3 3 10 2 0 3 3 16
+p520
+aVLuc Longley PHX 02/05/1999 PHX @ LAC W 28 10 4 6 66.7 0 0 - 2 2 100.0 1 6 7 1 1 1 2 5 13
+p521
+aVToby Bailey PHX 02/05/1999 PHX @ LAC W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p522
+aVClifford Robinson PHX 02/05/1999 PHX @ LAC W 36 19 8 15 53.3 0 0 - 3 9 33.3 1 1 2 2 1 2 0 3 7
+p523
+a.

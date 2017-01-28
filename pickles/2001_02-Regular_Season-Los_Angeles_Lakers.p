@@ -1,0 +1,1794 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSamaki Walker LAL 04/17/2002 LAL vs. SAC W 28 11 4 8 50.0 0 0 - 3 3 100.0 5 10 15 2 1 0 0 4 10
+p2
+aVDevean George LAL 04/17/2002 LAL vs. SAC W 23 3 1 7 14.3 0 2 0.0 1 2 50.0 1 5 6 1 0 0 1 0 4
+p3
+aVShaquille O'Neal LAL 04/17/2002 LAL vs. SAC W 29 21 9 18 50.0 0 0 - 3 5 60.0 5 4 9 3 3 0 0 2 12
+p4
+aVRick Fox LAL 04/17/2002 LAL vs. SAC W 25 9 3 7 42.9 1 2 50.0 2 2 100.0 1 2 3 4 0 0 2 2 10
+p5
+aVSlava Medvedenko LAL 04/17/2002 LAL vs. SAC W 21 11 5 9 55.6 0 0 - 1 1 100.0 1 3 4 1 1 0 1 5 10
+p6
+aVMitch Richmond LAL 04/17/2002 LAL vs. SAC W 11 7 3 7 42.9 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 -3
+p7
+aVDerek Fisher LAL 04/17/2002 LAL vs. SAC W 29 16 6 13 46.2 4 6 66.7 0 0 - 0 2 2 2 2 1 0 0 14
+p8
+aVRobert Horry LAL 04/17/2002 LAL vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -3
+p9
+aVKobe Bryant LAL 04/17/2002 LAL vs. SAC W 29 21 9 17 52.9 0 4 0.0 3 3 100.0 0 4 4 5 1 0 2 1 13
+p10
+aVLindsey Hunter LAL 04/17/2002 LAL vs. SAC W 13 8 3 9 33.3 2 5 40.0 0 0 - 1 0 1 1 0 0 0 0 7
+p11
+aVBrian Shaw LAL 04/17/2002 LAL vs. SAC W 19 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 0 2 0 2 2 1
+p12
+aVMark Madsen LAL 04/17/2002 LAL vs. SAC W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 2 0 1 5 -5
+p13
+aVDevean George LAL 04/15/2002 LAL vs. SEA W 24 7 2 3 66.7 1 1 100.0 2 4 50.0 0 2 2 2 0 0 0 2 -10
+p14
+aVBrian Shaw LAL 04/15/2002 LAL vs. SEA W 20 7 3 6 50.0 1 2 50.0 0 0 - 1 2 3 6 1 0 0 2 -6
+p15
+aVKobe Bryant LAL 04/15/2002 LAL vs. SEA W 31 19 7 16 43.8 1 3 33.3 4 4 100.0 1 4 5 4 2 0 3 4 20
+p16
+aVLindsey Hunter LAL 04/15/2002 LAL vs. SEA W 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 1 0 1 0 -5
+p17
+aVSamaki Walker LAL 04/15/2002 LAL vs. SEA W 28 12 5 8 62.5 0 0 - 2 2 100.0 2 5 7 0 0 0 1 4 10
+p18
+aVRobert Horry LAL 04/15/2002 LAL vs. SEA W 22 1 0 5 0.0 0 2 0.0 1 2 50.0 0 2 2 2 0 2 0 3 4
+p19
+aVSlava Medvedenko LAL 04/15/2002 LAL vs. SEA W 8 1 0 4 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -13
+p20
+aVRick Fox LAL 04/15/2002 LAL vs. SEA W 26 10 4 6 66.7 0 1 0.0 2 2 100.0 2 4 6 2 1 0 1 2 16
+p21
+aVMark Madsen LAL 04/15/2002 LAL vs. SEA W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -11
+p22
+aVShaquille O'Neal LAL 04/15/2002 LAL vs. SEA W 33 41 16 21 76.2 0 0 - 9 11 81.8 2 9 11 4 0 0 3 3 24
+p23
+aVDerek Fisher LAL 04/15/2002 LAL vs. SEA W 32 13 4 8 50.0 2 3 66.7 3 3 100.0 0 3 3 4 1 0 0 1 6
+p24
+aVRobert Horry LAL 04/14/2002 LAL @ POR L 37 8 2 5 40.0 2 5 40.0 2 2 100.0 1 5 6 2 1 0 1 4 -9
+p25
+aVSlava Medvedenko LAL 04/14/2002 LAL @ POR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 3
+p26
+aVBrian Shaw LAL 04/14/2002 LAL @ POR L 11 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 2 1 0 1 0 3
+p27
+aVRick Fox LAL 04/14/2002 LAL @ POR L 35 13 4 8 50.0 2 2 100.0 3 3 100.0 0 5 5 3 0 0 0 6 -11
+p28
+aVMark Madsen LAL 04/14/2002 LAL @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p29
+aVDevean George LAL 04/14/2002 LAL @ POR L 24 11 4 10 40.0 2 4 50.0 1 2 50.0 1 4 5 3 0 0 1 6 5
+p30
+aVSamaki Walker LAL 04/14/2002 LAL @ POR L 21 7 3 5 60.0 0 0 - 1 2 50.0 0 2 2 2 1 0 1 3 -5
+p31
+aVKobe Bryant LAL 04/14/2002 LAL @ POR L 51 23 6 15 40.0 0 2 0.0 11 14 78.6 0 7 7 9 3 2 6 4 -4
+p32
+aVShaquille O'Neal LAL 04/14/2002 LAL @ POR L 49 36 13 26 50.0 0 0 - 10 13 76.9 5 6 11 3 0 0 3 2 -4
+p33
+aVDerek Fisher LAL 04/14/2002 LAL @ POR L 45 14 4 11 36.4 3 7 42.9 3 4 75.0 1 4 5 2 1 0 3 3 -15
+p34
+aVLindsey Hunter LAL 04/14/2002 LAL @ POR L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 1 0 0 1 3 -5
+p35
+aVRobert Horry LAL 04/11/2002 LAL vs. MIN W 28 5 1 7 14.3 1 5 20.0 2 2 100.0 0 7 7 2 2 0 1 2 10
+p36
+aVSamaki Walker LAL 04/11/2002 LAL vs. MIN W 27 4 2 3 66.7 0 0 - 0 0 - 3 7 10 0 0 1 0 3 -2
+p37
+aVLindsey Hunter LAL 04/11/2002 LAL vs. MIN W 13 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 1 0 1 1 1 -3
+p38
+aVDerek Fisher LAL 04/11/2002 LAL vs. MIN W 35 14 6 11 54.5 2 4 50.0 0 0 - 0 7 7 4 0 0 1 3 18
+p39
+aVMark Madsen LAL 04/11/2002 LAL vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p40
+aVKobe Bryant LAL 04/11/2002 LAL vs. MIN W 38 28 9 20 45.0 0 1 0.0 10 10 100.0 1 2 3 2 0 0 2 5 16
+p41
+aVShaquille O'Neal LAL 04/11/2002 LAL vs. MIN W 39 32 13 19 68.4 0 0 - 6 10 60.0 2 7 9 3 1 1 4 4 17
+p42
+aVDevean George LAL 04/11/2002 LAL vs. MIN W 15 0 0 4 0.0 0 0 - 0 0 - 1 2 3 1 2 0 0 1 -2
+p43
+aVRick Fox LAL 04/11/2002 LAL vs. MIN W 33 8 2 8 25.0 0 3 0.0 4 4 100.0 0 2 2 1 0 0 0 4 15
+p44
+aVBrian Shaw LAL 04/11/2002 LAL vs. MIN W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -3
+p45
+aVMitch Richmond LAL 04/09/2002 LAL vs. UTA W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 5
+p46
+aVDerek Fisher LAL 04/09/2002 LAL vs. UTA W 26 14 5 10 50.0 3 6 50.0 1 1 100.0 0 2 2 4 0 0 1 3 10
+p47
+aVRobert Horry LAL 04/09/2002 LAL vs. UTA W 27 14 5 6 83.3 1 2 50.0 3 3 100.0 0 11 11 4 0 3 0 2 36
+p48
+aVKobe Bryant LAL 04/09/2002 LAL vs. UTA W 34 22 8 16 50.0 0 0 - 6 7 85.7 0 4 4 5 1 2 4 3 27
+p49
+aVSamaki Walker LAL 04/09/2002 LAL vs. UTA W 23 4 2 2 100.0 0 0 - 0 0 - 3 7 10 3 0 1 1 4 -2
+p50
+aVShaquille O'Neal LAL 04/09/2002 LAL vs. UTA W 25 22 8 14 57.1 0 0 - 6 7 85.7 1 2 3 2 1 2 1 3 -1
+p51
+aVMark Madsen LAL 04/09/2002 LAL vs. UTA W 16 4 2 4 50.0 0 0 - 0 0 - 0 3 3 1 1 0 1 3 24
+p52
+aVLindsey Hunter LAL 04/09/2002 LAL vs. UTA W 10 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 1 2 -4
+p53
+aVSlava Medvedenko LAL 04/09/2002 LAL vs. UTA W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p54
+aVBrian Shaw LAL 04/09/2002 LAL vs. UTA W 22 10 4 7 57.1 0 2 0.0 2 2 100.0 1 3 4 3 0 0 1 1 20
+p55
+aVRick Fox LAL 04/09/2002 LAL vs. UTA W 18 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 1 0 3 4 -6
+p56
+aVDevean George LAL 04/09/2002 LAL vs. UTA W 30 16 6 9 66.7 1 2 50.0 3 4 75.0 1 4 5 4 4 3 1 3 36
+p57
+aVLindsey Hunter LAL 04/07/2002 LAL @ MIA W 19 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 1 1 1 0 1 9
+p58
+aVRobert Horry LAL 04/07/2002 LAL @ MIA W 29 5 1 4 25.0 1 3 33.3 2 2 100.0 0 5 5 7 1 3 0 2 12
+p59
+aVShaquille O'Neal LAL 04/07/2002 LAL @ MIA W 41 40 14 22 63.6 0 0 - 12 19 63.2 3 8 11 2 0 2 2 4 10
+p60
+aVKobe Bryant LAL 04/07/2002 LAL @ MIA W 38 19 8 12 66.7 0 0 - 3 3 100.0 2 9 11 4 0 0 2 2 2
+p61
+aVSamaki Walker LAL 04/07/2002 LAL @ MIA W 25 4 2 5 40.0 0 0 - 0 0 - 2 6 8 1 0 1 0 2 -6
+p62
+aVDevean George LAL 04/07/2002 LAL @ MIA W 29 13 6 10 60.0 1 3 33.3 0 0 - 0 2 2 3 0 0 2 2 12
+p63
+aVDerek Fisher LAL 04/07/2002 LAL @ MIA W 33 9 4 10 40.0 1 1 100.0 0 1 0.0 0 1 1 2 1 0 2 2 0
+p64
+aVRick Fox LAL 04/07/2002 LAL @ MIA W 19 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 2 0 1 0 2 -4
+p65
+aVBrian Shaw LAL 04/07/2002 LAL @ MIA W 6 1 0 0 - 0 0 - 1 2 50.0 2 0 2 1 0 0 0 0 5
+p66
+aVDerek Fisher LAL 04/05/2002 LAL @ BOS L 27 7 2 8 25.0 1 6 16.7 2 2 100.0 0 3 3 2 1 0 0 1 -4
+p67
+aVSamaki Walker LAL 04/05/2002 LAL @ BOS L 21 6 3 6 50.0 0 0 - 0 0 - 1 7 8 1 0 1 1 2 -3
+p68
+aVKobe Bryant LAL 04/05/2002 LAL @ BOS L 38 26 5 25 20.0 0 2 0.0 16 18 88.9 0 6 6 2 1 1 2 4 -13
+p69
+aVDevean George LAL 04/05/2002 LAL @ BOS L 26 5 2 7 28.6 1 4 25.0 0 0 - 0 2 2 0 1 0 1 2 -12
+p70
+aVSlava Medvedenko LAL 04/05/2002 LAL @ BOS L 16 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 1 0 2 2 0
+p71
+aVBrian Shaw LAL 04/05/2002 LAL @ BOS L 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -10
+p72
+aVMitch Richmond LAL 04/05/2002 LAL @ BOS L 10 4 2 7 28.6 0 1 0.0 0 0 - 2 0 2 0 0 0 2 1 -8
+p73
+aVLindsey Hunter LAL 04/05/2002 LAL @ BOS L 8 2 1 4 25.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -1
+p74
+aVRobert Horry LAL 04/05/2002 LAL @ BOS L 33 4 2 5 40.0 0 1 0.0 0 0 - 2 7 9 2 2 4 0 3 -7
+p75
+aVRick Fox LAL 04/05/2002 LAL @ BOS L 29 13 6 11 54.5 1 4 25.0 0 0 - 1 0 1 0 2 0 5 3 -16
+p76
+aVMark Madsen LAL 04/05/2002 LAL @ BOS L 19 8 2 3 66.7 0 0 - 4 5 80.0 1 3 4 0 0 1 0 3 -16
+p77
+aVSamaki Walker LAL 04/03/2002 LAL @ NJN L 39 13 6 9 66.7 0 0 - 1 2 50.0 7 7 14 1 0 4 1 2 -5
+p78
+aVRick Fox LAL 04/03/2002 LAL @ NJN L 26 6 2 6 33.3 1 3 33.3 1 2 50.0 0 4 4 2 0 0 1 3 -10
+p79
+aVRobert Horry LAL 04/03/2002 LAL @ NJN L 19 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 2 0 0 0 2 -2
+p80
+aVDevean George LAL 04/03/2002 LAL @ NJN L 22 11 4 8 50.0 3 5 60.0 0 0 - 2 3 5 1 1 1 1 2 10
+p81
+aVSlava Medvedenko LAL 04/03/2002 LAL @ NJN L 25 5 1 6 16.7 0 0 - 3 4 75.0 3 2 5 1 2 0 1 4 -4
+p82
+aVBrian Shaw LAL 04/03/2002 LAL @ NJN L 14 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 3 0 0 2 1 9
+p83
+aVDerek Fisher LAL 04/03/2002 LAL @ NJN L 32 14 5 14 35.7 3 9 33.3 1 2 50.0 0 1 1 1 1 0 1 3 -8
+p84
+aVMark Madsen LAL 04/03/2002 LAL @ NJN L 12 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 2 0 0 0 5
+p85
+aVLindsey Hunter LAL 04/03/2002 LAL @ NJN L 6 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p86
+aVKobe Bryant LAL 04/03/2002 LAL @ NJN L 44 33 14 30 46.7 0 1 0.0 5 5 100.0 2 2 4 3 1 0 3 1 0
+p87
+aVDerek Fisher LAL 04/02/2002 LAL @ WAS W 30 15 6 13 46.2 3 6 50.0 0 0 - 0 1 1 4 2 0 2 0 22
+p88
+aVSlava Medvedenko LAL 04/02/2002 LAL @ WAS W 16 12 4 4 100.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 1 -8
+p89
+aVSamaki Walker LAL 04/02/2002 LAL @ WAS W 22 9 4 4 100.0 0 0 - 1 1 100.0 1 3 4 2 1 1 0 3 9
+p90
+aVMitch Richmond LAL 04/02/2002 LAL @ WAS W 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p91
+aVRobert Horry LAL 04/02/2002 LAL @ WAS W 22 6 2 5 40.0 0 2 0.0 2 2 100.0 1 7 8 1 0 0 2 1 7
+p92
+aVLindsey Hunter LAL 04/02/2002 LAL @ WAS W 11 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 1 0 0 0 0 -4
+p93
+aVKobe Bryant LAL 04/02/2002 LAL @ WAS W 33 14 6 13 46.2 0 0 - 2 2 100.0 0 2 2 6 1 0 4 3 25
+p94
+aVDevean George LAL 04/02/2002 LAL @ WAS W 16 6 2 4 50.0 2 2 100.0 0 0 - 0 2 2 1 0 0 0 1 4
+p95
+aVBrian Shaw LAL 04/02/2002 LAL @ WAS W 15 6 2 5 40.0 2 3 66.7 0 0 - 0 3 3 4 0 0 2 3 -2
+p96
+aVRick Fox LAL 04/02/2002 LAL @ WAS W 27 15 6 11 54.5 1 2 50.0 2 2 100.0 1 2 3 4 3 0 0 3 18
+p97
+aVShaquille O'Neal LAL 04/02/2002 LAL @ WAS W 31 22 7 18 38.9 0 0 - 8 12 66.7 6 12 18 4 0 3 2 1 34
+p98
+aVMark Madsen LAL 04/02/2002 LAL @ WAS W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -2
+p99
+aVRick Fox LAL 03/31/2002 LAL vs. SAS W 33 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 1 0 2 4 -3
+p100
+aVBrian Shaw LAL 03/31/2002 LAL vs. SAS W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 5
+p101
+aVDevean George LAL 03/31/2002 LAL vs. SAS W 16 0 0 4 0.0 0 1 0.0 0 0 - 3 1 4 1 1 0 0 2 4
+p102
+aVSamaki Walker LAL 03/31/2002 LAL vs. SAS W 18 5 2 5 40.0 0 0 - 1 2 50.0 2 7 9 1 0 1 0 0 -10
+p103
+aVKobe Bryant LAL 03/31/2002 LAL vs. SAS W 47 31 11 24 45.8 0 0 - 9 9 100.0 2 7 9 3 1 1 6 4 0
+p104
+aVRobert Horry LAL 03/31/2002 LAL vs. SAS W 36 23 8 14 57.1 3 7 42.9 4 4 100.0 2 6 8 4 0 2 1 5 11
+p105
+aVShaquille O'Neal LAL 03/31/2002 LAL vs. SAS W 42 24 8 19 42.1 0 0 - 8 9 88.9 3 6 9 1 1 5 3 5 1
+p106
+aVLindsey Hunter LAL 03/31/2002 LAL vs. SAS W 4 0 0 0 - 0 0 - 0 2 0.0 0 0 0 2 0 0 0 1 -2
+p107
+aVDerek Fisher LAL 03/31/2002 LAL vs. SAS W 33 9 3 9 33.3 1 3 33.3 2 2 100.0 1 1 2 2 1 1 1 1 -1
+p108
+aVSamaki Walker LAL 03/29/2002 LAL vs. POR W 26 2 1 4 25.0 0 0 - 0 0 - 1 16 17 1 1 3 2 1 0
+p109
+aVDevean George LAL 03/29/2002 LAL vs. POR W 24 8 3 8 37.5 0 2 0.0 2 2 100.0 0 3 3 0 0 1 3 4 9
+p110
+aVRobert Horry LAL 03/29/2002 LAL vs. POR W 21 1 0 5 0.0 0 1 0.0 1 2 50.0 3 3 6 4 1 2 1 1 9
+p111
+aVRick Fox LAL 03/29/2002 LAL vs. POR W 29 5 2 10 20.0 1 4 25.0 0 0 - 2 2 4 5 0 0 2 4 6
+p112
+aVLindsey Hunter LAL 03/29/2002 LAL vs. POR W 20 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 8
+p113
+aVMark Madsen LAL 03/29/2002 LAL vs. POR W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p114
+aVShaquille O'Neal LAL 03/29/2002 LAL vs. POR W 40 34 13 19 68.4 0 0 - 8 13 61.5 6 8 14 2 1 1 3 2 19
+p115
+aVSlava Medvedenko LAL 03/29/2002 LAL vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p116
+aVBrian Shaw LAL 03/29/2002 LAL vs. POR W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -18
+p117
+aVKobe Bryant LAL 03/29/2002 LAL vs. POR W 41 34 12 26 46.2 0 1 0.0 10 11 90.9 0 7 7 6 2 0 0 3 24
+p118
+aVDerek Fisher LAL 03/29/2002 LAL vs. POR W 29 4 2 5 40.0 0 0 - 0 0 - 0 2 2 4 0 0 1 2 6
+p119
+aVSlava Medvedenko LAL 03/27/2002 LAL @ PHX L 9 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -4
+p120
+aVSamaki Walker LAL 03/27/2002 LAL @ PHX L 10 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 0 0 1 4 -5
+p121
+aVDevean George LAL 03/27/2002 LAL @ PHX L 19 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 1 0 0 0 3 -6
+p122
+aVBrian Shaw LAL 03/27/2002 LAL @ PHX L 12 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -8
+p123
+aVRick Fox LAL 03/27/2002 LAL @ PHX L 31 2 1 5 20.0 0 1 0.0 0 0 - 4 2 6 3 2 0 1 4 -4
+p124
+aVDerek Fisher LAL 03/27/2002 LAL @ PHX L 33 10 4 12 33.3 2 6 33.3 0 0 - 0 1 1 4 1 1 1 1 -3
+p125
+aVKobe Bryant LAL 03/27/2002 LAL @ PHX L 40 36 9 20 45.0 0 1 0.0 18 20 90.0 3 1 4 3 0 0 5 1 -3
+p126
+aVShaquille O'Neal LAL 03/27/2002 LAL @ PHX L 40 24 10 21 47.6 0 0 - 4 15 26.7 4 7 11 2 0 3 1 4 -13
+p127
+aVLindsey Hunter LAL 03/27/2002 LAL @ PHX L 11 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 1 0 0 1 2 -10
+p128
+aVRobert Horry LAL 03/27/2002 LAL @ PHX L 34 18 6 9 66.7 4 5 80.0 2 2 100.0 2 4 6 6 0 0 0 3 -4
+p129
+aVShaquille O'Neal LAL 03/26/2002 LAL vs. CLE W 25 19 8 9 88.9 0 0 - 3 7 42.9 1 7 8 2 0 0 1 2 12
+p130
+aVMark Madsen LAL 03/26/2002 LAL vs. CLE W 14 8 2 2 100.0 0 0 - 4 4 100.0 2 0 2 2 0 0 0 0 0
+p131
+aVDerek Fisher LAL 03/26/2002 LAL vs. CLE W 28 14 4 10 40.0 2 6 33.3 4 5 80.0 0 2 2 2 1 0 2 3 20
+p132
+aVRick Fox LAL 03/26/2002 LAL vs. CLE W 28 18 7 11 63.6 2 5 40.0 2 2 100.0 1 2 3 4 0 0 4 2 20
+p133
+aVDevean George LAL 03/26/2002 LAL vs. CLE W 20 9 3 10 30.0 0 2 0.0 3 4 75.0 1 1 2 1 0 1 1 4 -15
+p134
+aVRobert Horry LAL 03/26/2002 LAL vs. CLE W 21 2 1 5 20.0 0 2 0.0 0 0 - 2 3 5 6 0 1 1 3 8
+p135
+aVMitch Richmond LAL 03/26/2002 LAL vs. CLE W 12 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 3 3 -12
+p136
+aVSamaki Walker LAL 03/26/2002 LAL vs. CLE W 23 5 1 2 50.0 0 0 - 3 4 75.0 1 2 3 4 0 2 0 2 -7
+p137
+aVSlava Medvedenko LAL 03/26/2002 LAL vs. CLE W 13 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -3
+p138
+aVLindsey Hunter LAL 03/26/2002 LAL vs. CLE W 8 5 2 4 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 2 2 -3
+p139
+aVBrian Shaw LAL 03/26/2002 LAL vs. CLE W 17 13 4 7 57.1 3 5 60.0 2 2 100.0 0 3 3 3 1 0 0 0 -5
+p140
+aVKobe Bryant LAL 03/26/2002 LAL vs. CLE W 31 17 7 10 70.0 1 2 50.0 2 3 66.7 2 5 7 3 0 0 0 2 10
+p141
+aVKobe Bryant LAL 03/24/2002 LAL @ SAC W 38 29 12 21 57.1 0 1 0.0 5 8 62.5 0 4 4 4 2 0 5 3 -10
+p142
+aVDerek Fisher LAL 03/24/2002 LAL @ SAC W 39 16 7 14 50.0 2 5 40.0 0 0 - 0 1 1 4 3 0 1 0 7
+p143
+aVBrian Shaw LAL 03/24/2002 LAL @ SAC W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 7 7 3 1 0 1 0 11
+p144
+aVShaquille O'Neal LAL 03/24/2002 LAL @ SAC W 36 21 8 9 88.9 0 0 - 5 6 83.3 1 6 7 6 0 0 4 6 6
+p145
+aVRobert Horry LAL 03/24/2002 LAL @ SAC W 36 3 1 7 14.3 1 4 25.0 0 0 - 2 2 4 5 0 1 3 2 -10
+p146
+aVRick Fox LAL 03/24/2002 LAL @ SAC W 27 6 3 9 33.3 0 1 0.0 0 0 - 0 4 4 3 1 0 0 3 -7
+p147
+aVSlava Medvedenko LAL 03/24/2002 LAL @ SAC W 9 8 4 7 57.1 0 0 - 0 1 0.0 0 2 2 0 1 0 1 2 5
+p148
+aVDevean George LAL 03/24/2002 LAL @ SAC W 21 9 4 5 80.0 1 2 50.0 0 0 - 3 2 5 1 2 0 2 2 8
+p149
+aVLindsey Hunter LAL 03/24/2002 LAL @ SAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -6
+p150
+aVSamaki Walker LAL 03/24/2002 LAL @ SAC W 15 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 1 1 2 1
+p151
+aVDerek Fisher LAL 03/22/2002 LAL vs. DET W 33 13 5 13 38.5 1 7 14.3 2 2 100.0 0 2 2 2 1 0 0 2 13
+p152
+aVSamaki Walker LAL 03/22/2002 LAL vs. DET W 17 8 3 4 75.0 0 0 - 2 2 100.0 5 5 10 0 0 0 1 2 -2
+p153
+aVKobe Bryant LAL 03/22/2002 LAL vs. DET W 36 18 8 17 47.1 0 0 - 2 2 100.0 2 5 7 7 4 0 2 4 3
+p154
+aVBrian Shaw LAL 03/22/2002 LAL vs. DET W 12 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 1 0 3 2 5
+p155
+aVRobert Horry LAL 03/22/2002 LAL vs. DET W 38 10 4 6 66.7 1 2 50.0 1 1 100.0 1 9 10 6 2 1 3 4 17
+p156
+aVRick Fox LAL 03/22/2002 LAL vs. DET W 35 6 3 7 42.9 0 3 0.0 0 0 - 1 4 5 4 0 0 3 5 6
+p157
+aVShaquille O'Neal LAL 03/22/2002 LAL vs. DET W 38 28 11 18 61.1 0 0 - 6 12 50.0 1 6 7 4 2 0 5 4 14
+p158
+aVLindsey Hunter LAL 03/22/2002 LAL vs. DET W 12 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 1 0 0 -1
+p159
+aVDevean George LAL 03/22/2002 LAL vs. DET W 17 4 1 4 25.0 1 4 25.0 1 2 50.0 0 3 3 1 2 0 0 4 10
+p160
+aVSlava Medvedenko LAL 03/22/2002 LAL vs. DET W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 3 1 -5
+p161
+aVRick Fox LAL 03/20/2002 LAL @ SAS L 28 8 4 8 50.0 0 1 0.0 0 0 - 2 4 6 1 1 0 4 3 -18
+p162
+aVRobert Horry LAL 03/20/2002 LAL @ SAS L 17 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 2 0 1 -16
+p163
+aVMark Madsen LAL 03/20/2002 LAL @ SAS L 8 1 0 0 - 0 0 - 1 1 100.0 0 0 0 2 1 0 1 2 -1
+p164
+aVSlava Medvedenko LAL 03/20/2002 LAL @ SAS L 18 11 4 7 57.1 0 0 - 3 3 100.0 0 2 2 2 3 0 2 5 10
+p165
+aVSamaki Walker LAL 03/20/2002 LAL @ SAS L 16 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 0 5 -13
+p166
+aVBrian Shaw LAL 03/20/2002 LAL @ SAS L 16 16 6 10 60.0 4 6 66.7 0 0 - 1 6 7 5 2 0 1 0 9
+p167
+aVKobe Bryant LAL 03/20/2002 LAL @ SAS L 28 20 9 16 56.3 0 0 - 2 4 50.0 1 0 1 0 0 0 7 3 -18
+p168
+aVDevean George LAL 03/20/2002 LAL @ SAS L 20 3 1 6 16.7 1 3 33.3 0 0 - 1 4 5 1 1 2 0 4 0
+p169
+aVMitch Richmond LAL 03/20/2002 LAL @ SAS L 19 8 3 6 50.0 0 1 0.0 2 2 100.0 1 1 2 0 0 0 1 2 6
+p170
+aVLindsey Hunter LAL 03/20/2002 LAL @ SAS L 16 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 2 1 1 4 -12
+p171
+aVDerek Fisher LAL 03/20/2002 LAL @ SAS L 24 4 1 6 16.7 1 4 25.0 1 2 50.0 0 0 0 3 0 0 1 1 -11
+p172
+aVShaquille O'Neal LAL 03/20/2002 LAL @ SAS L 30 17 2 10 20.0 0 0 - 13 19 68.4 2 8 10 0 0 4 2 2 -26
+p173
+aVRobert Horry LAL 03/19/2002 LAL @ DAL L 35 7 2 5 40.0 0 2 0.0 3 4 75.0 0 4 4 4 1 1 1 4 -13
+p174
+aVKobe Bryant LAL 03/19/2002 LAL @ DAL L 35 12 4 18 22.2 0 2 0.0 4 7 57.1 0 8 8 3 0 0 1 5 -19
+p175
+aVShaquille O'Neal LAL 03/19/2002 LAL @ DAL L 38 32 13 23 56.5 0 0 - 6 9 66.7 5 5 10 2 0 0 5 4 -2
+p176
+aVSamaki Walker LAL 03/19/2002 LAL @ DAL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 1 0 1 3 -1
+p177
+aVDerek Fisher LAL 03/19/2002 LAL @ DAL L 28 10 3 9 33.3 2 4 50.0 2 2 100.0 0 1 1 1 1 0 0 3 -5
+p178
+aVMark Madsen LAL 03/19/2002 LAL @ DAL L 3 4 1 1 100.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 0 -2
+p179
+aVRick Fox LAL 03/19/2002 LAL @ DAL L 27 16 5 9 55.6 0 0 - 6 6 100.0 3 6 9 1 1 0 1 5 -10
+p180
+aVLindsey Hunter LAL 03/19/2002 LAL @ DAL L 20 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 3 1 0 0 2 -11
+p181
+aVSlava Medvedenko LAL 03/19/2002 LAL @ DAL L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p182
+aVMitch Richmond LAL 03/19/2002 LAL @ DAL L 16 9 4 6 66.7 1 2 50.0 0 0 - 0 4 4 4 0 0 0 1 -5
+p183
+aVDevean George LAL 03/19/2002 LAL @ DAL L 24 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 1 1 -10
+p184
+aVLindsey Hunter LAL 03/17/2002 LAL vs. DAL W 21 2 1 6 16.7 0 4 0.0 0 0 - 1 2 3 1 1 0 0 1 1
+p185
+aVSamaki Walker LAL 03/17/2002 LAL vs. DAL W 13 7 3 3 100.0 0 0 - 1 3 33.3 0 2 2 1 0 0 0 1 -11
+p186
+aVDerek Fisher LAL 03/17/2002 LAL vs. DAL W 27 16 6 11 54.5 3 7 42.9 1 1 100.0 0 3 3 3 0 0 1 2 1
+p187
+aVRobert Horry LAL 03/17/2002 LAL vs. DAL W 41 19 5 14 35.7 2 5 40.0 7 8 87.5 1 7 8 3 2 4 0 2 10
+p188
+aVMitch Richmond LAL 03/17/2002 LAL vs. DAL W 7 1 0 3 0.0 0 1 0.0 1 1 100.0 0 0 0 0 0 0 1 1 -8
+p189
+aVDevean George LAL 03/17/2002 LAL vs. DAL W 15 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 2 -15
+p190
+aVShaquille O'Neal LAL 03/17/2002 LAL vs. DAL W 42 28 13 18 72.2 0 0 - 2 6 33.3 4 5 9 4 0 1 2 3 5
+p191
+aVRick Fox LAL 03/17/2002 LAL vs. DAL W 33 16 7 11 63.6 2 4 50.0 0 0 - 0 8 8 7 0 0 2 4 17
+p192
+aVKobe Bryant LAL 03/17/2002 LAL vs. DAL W 41 14 5 14 35.7 1 1 100.0 3 3 100.0 0 9 9 11 1 0 1 1 10
+p193
+aVKobe Bryant LAL 03/15/2002 LAL vs. LAC W 38 33 12 26 46.2 2 2 100.0 7 10 70.0 0 3 3 2 3 0 1 3 5
+p194
+aVDevean George LAL 03/15/2002 LAL vs. LAC W 22 4 1 6 16.7 0 1 0.0 2 2 100.0 2 2 4 3 2 0 1 5 -6
+p195
+aVSlava Medvedenko LAL 03/15/2002 LAL vs. LAC W 18 9 4 7 57.1 0 0 - 1 2 50.0 1 0 1 0 0 0 0 2 -2
+p196
+aVSamaki Walker LAL 03/15/2002 LAL vs. LAC W 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 1 -2
+p197
+aVRick Fox LAL 03/15/2002 LAL vs. LAC W 27 12 4 6 66.7 1 1 100.0 3 3 100.0 4 2 6 5 1 1 2 2 12
+p198
+aVLindsey Hunter LAL 03/15/2002 LAL vs. LAC W 18 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 2 0 1 1 11
+p199
+aVDerek Fisher LAL 03/15/2002 LAL vs. LAC W 24 8 3 7 42.9 1 3 33.3 1 2 50.0 0 0 0 1 0 1 0 0 -5
+p200
+aVMark Madsen LAL 03/15/2002 LAL vs. LAC W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p201
+aVMitch Richmond LAL 03/15/2002 LAL vs. LAC W 16 2 1 2 50.0 0 0 - 0 0 - 1 3 4 2 2 0 0 1 1
+p202
+aVShaquille O'Neal LAL 03/15/2002 LAL vs. LAC W 37 16 5 13 38.5 0 0 - 6 11 54.5 3 10 13 1 0 2 2 3 15
+p203
+aVRobert Horry LAL 03/15/2002 LAL vs. LAC W 31 10 3 6 50.0 1 2 50.0 3 4 75.0 1 4 5 5 2 1 1 3 9
+p204
+aVDerek Fisher LAL 03/14/2002 LAL @ GSW W 29 13 3 11 27.3 2 5 40.0 5 6 83.3 0 3 3 2 3 0 0 1 13
+p205
+aVSlava Medvedenko LAL 03/14/2002 LAL @ GSW W 12 4 2 8 25.0 0 0 - 0 0 - 1 2 3 0 1 1 1 0 -4
+p206
+aVRick Fox LAL 03/14/2002 LAL @ GSW W 29 16 6 11 54.5 0 0 - 4 4 100.0 5 6 11 6 2 0 2 4 -2
+p207
+aVDevean George LAL 03/14/2002 LAL @ GSW W 21 7 2 7 28.6 1 3 33.3 2 2 100.0 2 3 5 0 1 0 1 2 7
+p208
+aVJelani McCoy LAL 03/14/2002 LAL @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p209
+aVMitch Richmond LAL 03/14/2002 LAL @ GSW W 13 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 2 1 0 1 0 12
+p210
+aVShaquille O'Neal LAL 03/14/2002 LAL @ GSW W 43 40 13 20 65.0 0 0 - 14 28 50.0 4 9 13 0 1 2 6 5 14
+p211
+aVKobe Bryant LAL 03/14/2002 LAL @ GSW W 40 21 7 14 50.0 0 0 - 7 8 87.5 3 4 7 6 0 1 3 4 4
+p212
+aVMark Madsen LAL 03/14/2002 LAL @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -1
+p213
+aVLindsey Hunter LAL 03/14/2002 LAL @ GSW W 19 0 0 5 0.0 0 1 0.0 0 0 - 0 2 2 0 0 2 0 1 -5
+p214
+aVRobert Horry LAL 03/14/2002 LAL @ GSW W 32 5 2 3 66.7 1 2 50.0 0 0 - 1 10 11 4 1 2 1 6 2
+p215
+aVDerek Fisher LAL 03/12/2002 LAL vs. CHH W 24 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 3 0 0 2 1 27
+p216
+aVLindsey Hunter LAL 03/12/2002 LAL vs. CHH W 24 12 4 9 44.4 2 2 100.0 2 2 100.0 0 1 1 2 2 2 1 1 14
+p217
+aVRobert Horry LAL 03/12/2002 LAL vs. CHH W 27 2 1 6 16.7 0 2 0.0 0 0 - 4 5 9 3 1 1 2 1 11
+p218
+aVMitch Richmond LAL 03/12/2002 LAL vs. CHH W 17 6 2 8 25.0 0 2 0.0 2 2 100.0 0 4 4 4 0 0 0 1 20
+p219
+aVRick Fox LAL 03/12/2002 LAL vs. CHH W 22 12 6 8 75.0 0 0 - 0 0 - 1 1 2 2 1 0 1 2 15
+p220
+aVKobe Bryant LAL 03/12/2002 LAL vs. CHH W 31 23 8 17 47.1 0 1 0.0 7 10 70.0 1 6 7 4 4 0 1 1 21
+p221
+aVMark Madsen LAL 03/12/2002 LAL vs. CHH W 15 9 4 8 50.0 0 0 - 1 2 50.0 0 4 4 0 0 2 0 2 26
+p222
+aVJelani McCoy LAL 03/12/2002 LAL vs. CHH W 12 6 3 4 75.0 0 0 - 0 0 - 0 1 1 2 0 0 1 3 8
+p223
+aVSlava Medvedenko LAL 03/12/2002 LAL vs. CHH W 16 12 6 12 50.0 0 0 - 0 0 - 5 3 8 2 1 2 0 3 21
+p224
+aVShaquille O'Neal LAL 03/12/2002 LAL vs. CHH W 26 9 3 9 33.3 0 0 - 3 4 75.0 5 5 10 2 0 1 1 4 16
+p225
+aVDevean George LAL 03/12/2002 LAL vs. CHH W 26 11 3 7 42.9 1 3 33.3 4 5 80.0 0 3 3 0 4 0 0 0 26
+p226
+aVDerek Fisher LAL 03/10/2002 LAL vs. NYK W 24 9 3 7 42.9 1 4 25.0 2 2 100.0 1 1 2 4 1 0 2 2 14
+p227
+aVMark Madsen LAL 03/10/2002 LAL vs. NYK W 6 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 0 0 3 2
+p228
+aVKobe Bryant LAL 03/10/2002 LAL vs. NYK W 44 18 7 14 50.0 0 2 0.0 4 4 100.0 0 2 2 7 0 1 1 5 12
+p229
+aVLindsey Hunter LAL 03/10/2002 LAL vs. NYK W 24 9 4 7 57.1 1 4 25.0 0 0 - 0 1 1 4 0 1 0 2 0
+p230
+aVRobert Horry LAL 03/10/2002 LAL vs. NYK W 36 8 3 10 30.0 2 5 40.0 0 0 - 1 12 13 2 4 3 0 4 4
+p231
+aVShaquille O'Neal LAL 03/10/2002 LAL vs. NYK W 41 40 15 21 71.4 0 0 - 10 19 52.6 4 4 8 3 1 3 2 0 7
+p232
+aVDevean George LAL 03/10/2002 LAL vs. NYK W 28 17 6 11 54.5 3 6 50.0 2 2 100.0 2 4 6 0 0 0 1 3 21
+p233
+aVRick Fox LAL 03/10/2002 LAL vs. NYK W 20 6 3 5 60.0 0 0 - 0 0 - 0 2 2 2 0 0 1 4 -7
+p234
+aVSlava Medvedenko LAL 03/10/2002 LAL vs. NYK W 14 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 0 1 0 2 15
+p235
+aVMitch Richmond LAL 03/10/2002 LAL vs. NYK W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p236
+aVRick Fox LAL 03/06/2002 LAL @ UTA L 20 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 1 0 0 3 4 -4
+p237
+aVDerek Fisher LAL 03/06/2002 LAL @ UTA L 30 10 3 8 37.5 2 5 40.0 2 2 100.0 1 4 5 2 1 0 3 3 0
+p238
+aVMitch Richmond LAL 03/06/2002 LAL @ UTA L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -3
+p239
+aVDevean George LAL 03/06/2002 LAL @ UTA L 31 5 2 9 22.2 1 5 20.0 0 0 - 3 4 7 1 0 2 2 3 3
+p240
+aVSlava Medvedenko LAL 03/06/2002 LAL @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p241
+aVShaquille O'Neal LAL 03/06/2002 LAL @ UTA L 42 28 13 21 61.9 0 0 - 2 9 22.2 4 8 12 1 1 3 3 3 -6
+p242
+aVRobert Horry LAL 03/06/2002 LAL @ UTA L 35 3 1 5 20.0 0 1 0.0 1 2 50.0 2 4 6 3 1 2 3 4 4
+p243
+aVJelani McCoy LAL 03/06/2002 LAL @ UTA L 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p244
+aVLindsey Hunter LAL 03/06/2002 LAL @ UTA L 18 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 4 1 0 1 5 -8
+p245
+aVMark Madsen LAL 03/06/2002 LAL @ UTA L 16 0 0 1 0.0 0 0 - 0 0 - 2 3 5 0 1 0 2 3 -9
+p246
+aVKobe Bryant LAL 03/06/2002 LAL @ UTA L 39 26 7 19 36.8 1 3 33.3 11 12 91.7 3 2 5 4 2 0 5 3 -12
+p247
+aVMark Madsen LAL 03/05/2002 LAL vs. NJN W 5 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 0 1 1
+p248
+aVJelani McCoy LAL 03/05/2002 LAL vs. NJN W 9 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 0 2
+p249
+aVDevean George LAL 03/05/2002 LAL vs. NJN W 24 7 1 4 25.0 1 2 50.0 4 6 66.7 2 2 4 2 0 1 0 3 10
+p250
+aVShaquille O'Neal LAL 03/05/2002 LAL vs. NJN W 38 40 16 21 76.2 0 0 - 8 20 40.0 3 9 12 4 1 1 4 4 13
+p251
+aVDerek Fisher LAL 03/05/2002 LAL vs. NJN W 27 16 4 10 40.0 2 3 66.7 6 8 75.0 0 2 2 2 0 0 2 0 15
+p252
+aVRobert Horry LAL 03/05/2002 LAL vs. NJN W 40 12 3 6 50.0 1 2 50.0 5 6 83.3 3 10 13 4 0 0 2 4 11
+p253
+aVMitch Richmond LAL 03/05/2002 LAL vs. NJN W 21 9 4 7 57.1 0 0 - 1 1 100.0 0 4 4 1 1 1 1 2 4
+p254
+aVBrian Shaw LAL 03/05/2002 LAL vs. NJN W 27 0 0 2 0.0 0 2 0.0 0 0 - 0 3 3 2 1 0 0 1 5
+p255
+aVRick Fox LAL 03/05/2002 LAL vs. NJN W 24 3 1 8 12.5 1 3 33.3 0 0 - 1 4 5 3 0 1 5 3 -1
+p256
+aVSlava Medvedenko LAL 03/05/2002 LAL vs. NJN W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -9
+p257
+aVLindsey Hunter LAL 03/05/2002 LAL vs. NJN W 21 9 3 7 42.9 3 3 100.0 0 0 - 0 2 2 1 1 0 0 1 -6
+p258
+aVMark Madsen LAL 03/03/2002 LAL vs. HOU W 13 0 0 5 0.0 0 0 - 0 0 - 6 2 8 1 0 1 0 2 6
+p259
+aVDerek Fisher LAL 03/03/2002 LAL vs. HOU W 26 11 5 8 62.5 1 3 33.3 0 0 - 1 3 4 2 1 0 1 2 8
+p260
+aVDevean George LAL 03/03/2002 LAL vs. HOU W 27 13 5 14 35.7 2 4 50.0 1 2 50.0 2 3 5 1 0 0 3 2 11
+p261
+aVShaquille O'Neal LAL 03/03/2002 LAL vs. HOU W 34 36 15 21 71.4 0 0 - 6 11 54.5 7 7 14 7 0 2 3 2 21
+p262
+aVBrian Shaw LAL 03/03/2002 LAL vs. HOU W 22 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 1 1 0 2 1 2
+p263
+aVRick Fox LAL 03/03/2002 LAL vs. HOU W 21 4 2 7 28.6 0 2 0.0 0 1 0.0 1 5 6 4 1 0 2 4 5
+p264
+aVSlava Medvedenko LAL 03/03/2002 LAL vs. HOU W 12 7 2 6 33.3 0 0 - 3 4 75.0 2 0 2 1 1 0 0 1 -1
+p265
+aVMitch Richmond LAL 03/03/2002 LAL vs. HOU W 22 8 4 9 44.4 0 1 0.0 0 0 - 0 5 5 2 0 0 1 2 8
+p266
+aVJelani McCoy LAL 03/03/2002 LAL vs. HOU W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -4
+p267
+aVRobert Horry LAL 03/03/2002 LAL vs. HOU W 31 14 6 9 66.7 1 2 50.0 1 2 50.0 3 5 8 2 2 1 1 3 6
+p268
+aVLindsey Hunter LAL 03/03/2002 LAL vs. HOU W 29 2 1 8 12.5 0 1 0.0 0 0 - 1 3 4 0 3 0 1 1 18
+p269
+aVKobe Bryant LAL 03/01/2002 LAL vs. IND W 37 25 8 17 47.1 0 1 0.0 9 12 75.0 0 3 3 3 1 1 5 2 10
+p270
+aVLindsey Hunter LAL 03/01/2002 LAL vs. IND W 17 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 8
+p271
+aVShaquille O'Neal LAL 03/01/2002 LAL vs. IND W 41 33 14 21 66.7 0 0 - 5 9 55.6 0 12 12 2 1 6 3 3 20
+p272
+aVMark Madsen LAL 03/01/2002 LAL vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p273
+aVRobert Horry LAL 03/01/2002 LAL vs. IND W 35 9 3 6 50.0 1 2 50.0 2 2 100.0 1 10 11 6 3 4 3 3 21
+p274
+aVDevean George LAL 03/01/2002 LAL vs. IND W 27 11 4 7 57.1 1 2 50.0 2 4 50.0 0 6 6 2 3 1 1 2 7
+p275
+aVDerek Fisher LAL 03/01/2002 LAL vs. IND W 31 7 2 6 33.3 1 2 50.0 2 2 100.0 0 3 3 5 0 0 1 4 4
+p276
+aVBrian Shaw LAL 03/01/2002 LAL vs. IND W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 0
+p277
+aVMitch Richmond LAL 03/01/2002 LAL vs. IND W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p278
+aVSlava Medvedenko LAL 03/01/2002 LAL vs. IND W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 -6
+p279
+aVJelani McCoy LAL 03/01/2002 LAL vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p280
+aVRick Fox LAL 03/01/2002 LAL vs. IND W 24 4 2 6 33.3 0 1 0.0 0 0 - 0 5 5 3 1 0 5 5 1
+p281
+aVLindsey Hunter LAL 02/27/2002 LAL @ MIN L 21 12 4 4 100.0 4 4 100.0 0 0 - 0 1 1 1 0 0 0 2 -1
+p282
+aVRobert Horry LAL 02/27/2002 LAL @ MIN L 34 15 6 11 54.5 3 7 42.9 0 0 - 1 6 7 4 0 0 2 2 -6
+p283
+aVDerek Fisher LAL 02/27/2002 LAL @ MIN L 25 11 4 7 57.1 3 6 50.0 0 0 - 0 0 0 1 0 0 1 3 -9
+p284
+aVBrian Shaw LAL 02/27/2002 LAL @ MIN L 8 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -5
+p285
+aVShaquille O'Neal LAL 02/27/2002 LAL @ MIN L 35 27 8 19 42.1 0 0 - 11 15 73.3 2 6 8 3 0 4 2 3 -14
+p286
+aVSlava Medvedenko LAL 02/27/2002 LAL @ MIN L 12 6 3 5 60.0 0 0 - 0 0 - 1 2 3 2 2 0 0 2 -3
+p287
+aVRick Fox LAL 02/27/2002 LAL @ MIN L 25 2 1 5 20.0 0 2 0.0 0 0 - 1 3 4 4 1 1 1 1 -2
+p288
+aVKobe Bryant LAL 02/27/2002 LAL @ MIN L 42 20 8 25 32.0 0 0 - 4 4 100.0 1 4 5 11 0 0 2 4 -7
+p289
+aVMark Madsen LAL 02/27/2002 LAL @ MIN L 15 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 1
+p290
+aVDevean George LAL 02/27/2002 LAL @ MIN L 23 4 2 3 66.7 0 1 0.0 0 2 0.0 1 6 7 1 1 0 1 3 -9
+p291
+aVDerek Fisher LAL 02/26/2002 LAL @ MIL W 30 15 5 11 45.5 3 5 60.0 2 2 100.0 0 1 1 2 1 0 0 1 13
+p292
+aVDevean George LAL 02/26/2002 LAL @ MIL W 24 10 3 5 60.0 3 3 100.0 1 2 50.0 0 4 4 1 0 0 0 3 8
+p293
+aVBrian Shaw LAL 02/26/2002 LAL @ MIL W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 0
+p294
+aVRick Fox LAL 02/26/2002 LAL @ MIL W 33 6 3 12 25.0 0 2 0.0 0 0 - 1 3 4 5 2 0 0 5 13
+p295
+aVSlava Medvedenko LAL 02/26/2002 LAL @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 1 1
+p296
+aVMark Madsen LAL 02/26/2002 LAL @ MIL W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 3
+p297
+aVRobert Horry LAL 02/26/2002 LAL @ MIL W 36 8 2 4 50.0 2 4 50.0 2 2 100.0 0 1 1 2 2 1 2 2 1
+p298
+aVLindsey Hunter LAL 02/26/2002 LAL @ MIL W 21 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 0 0 2 -6
+p299
+aVKobe Bryant LAL 02/26/2002 LAL @ MIL W 39 27 13 25 52.0 0 2 0.0 1 1 100.0 2 2 4 6 1 0 2 2 11
+p300
+aVShaquille O'Neal LAL 02/26/2002 LAL @ MIL W 40 28 9 18 50.0 0 0 - 10 17 58.8 5 8 13 4 0 1 0 4 6
+p301
+aVDerek Fisher LAL 02/24/2002 LAL @ NYK W 27 14 6 9 66.7 2 4 50.0 0 0 - 0 3 3 1 0 0 1 0 10
+p302
+aVRobert Horry LAL 02/24/2002 LAL @ NYK W 33 20 8 13 61.5 4 7 57.1 0 0 - 2 6 8 1 2 2 1 2 18
+p303
+aVLindsey Hunter LAL 02/24/2002 LAL @ NYK W 21 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 2 0 0 0 1 6
+p304
+aVSlava Medvedenko LAL 02/24/2002 LAL @ NYK W 9 0 0 5 0.0 0 0 - 0 0 - 4 0 4 0 1 0 0 1 6
+p305
+aVKobe Bryant LAL 02/24/2002 LAL @ NYK W 42 27 10 18 55.6 1 1 100.0 6 6 100.0 2 4 6 5 3 0 3 3 18
+p306
+aVRick Fox LAL 02/24/2002 LAL @ NYK W 31 7 3 7 42.9 1 1 100.0 0 0 - 1 2 3 3 3 0 1 3 13
+p307
+aVDevean George LAL 02/24/2002 LAL @ NYK W 16 3 1 3 33.3 0 1 0.0 1 1 100.0 0 4 4 0 0 1 1 5 8
+p308
+aVBrian Shaw LAL 02/24/2002 LAL @ NYK W 9 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 3 2 0 1 3 -3
+p309
+aVShaquille O'Neal LAL 02/24/2002 LAL @ NYK W 38 30 12 22 54.5 0 0 - 6 10 60.0 5 10 15 5 0 0 3 2 6
+p310
+aVMark Madsen LAL 02/24/2002 LAL @ NYK W 15 3 1 2 50.0 0 0 - 1 2 50.0 3 0 3 1 0 0 0 2 -2
+p311
+aVDevean George LAL 02/22/2002 LAL @ CHH W 24 8 3 4 75.0 1 2 50.0 1 2 50.0 1 3 4 1 0 0 1 0 -3
+p312
+aVSlava Medvedenko LAL 02/22/2002 LAL @ CHH W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p313
+aVKobe Bryant LAL 02/22/2002 LAL @ CHH W 44 21 8 19 42.1 0 3 0.0 5 6 83.3 4 5 9 6 3 1 5 3 -1
+p314
+aVMark Madsen LAL 02/22/2002 LAL @ CHH W 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -3
+p315
+aVRick Fox LAL 02/22/2002 LAL @ CHH W 31 6 3 9 33.3 0 0 - 0 0 - 2 9 11 2 2 0 1 3 11
+p316
+aVLindsey Hunter LAL 02/22/2002 LAL @ CHH W 21 11 4 8 50.0 1 3 33.3 2 2 100.0 0 0 0 2 1 0 1 1 7
+p317
+aVRobert Horry LAL 02/22/2002 LAL @ CHH W 37 12 4 10 40.0 1 3 33.3 3 4 75.0 1 2 3 2 2 0 3 3 7
+p318
+aVShaquille O'Neal LAL 02/22/2002 LAL @ CHH W 39 31 12 18 66.7 0 0 - 7 13 53.8 3 4 7 2 1 0 1 3 14
+p319
+aVDerek Fisher LAL 02/22/2002 LAL @ CHH W 17 7 2 6 33.3 2 5 40.0 1 2 50.0 0 1 1 0 0 0 0 3 -7
+p320
+aVJelani McCoy LAL 02/22/2002 LAL @ CHH W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p321
+aVMitch Richmond LAL 02/22/2002 LAL @ CHH W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 0 1 -1
+p322
+aVLindsey Hunter LAL 02/21/2002 LAL @ CLE W 22 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 4 0 0 0 0 -2
+p323
+aVBrian Shaw LAL 02/21/2002 LAL @ CLE W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p324
+aVJelani McCoy LAL 02/21/2002 LAL @ CLE W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 1
+p325
+aVRick Fox LAL 02/21/2002 LAL @ CLE W 25 9 4 8 50.0 1 2 50.0 0 0 - 1 1 2 0 0 0 0 4 -3
+p326
+aVDevean George LAL 02/21/2002 LAL @ CLE W 24 6 3 4 75.0 0 1 0.0 0 0 - 1 2 3 1 1 0 0 3 6
+p327
+aVMark Madsen LAL 02/21/2002 LAL @ CLE W 17 2 1 2 50.0 0 0 - 0 1 0.0 2 2 4 1 0 0 0 1 9
+p328
+aVDerek Fisher LAL 02/21/2002 LAL @ CLE W 26 8 3 9 33.3 2 6 33.3 0 0 - 0 1 1 2 2 1 1 2 9
+p329
+aVKobe Bryant LAL 02/21/2002 LAL @ CLE W 40 32 13 24 54.2 0 1 0.0 6 11 54.5 1 5 6 6 2 0 2 3 7
+p330
+aVRobert Horry LAL 02/21/2002 LAL @ CLE W 31 6 2 3 66.7 0 0 - 2 2 100.0 2 4 6 2 2 0 0 3 -2
+p331
+aVSlava Medvedenko LAL 02/21/2002 LAL @ CLE W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 5
+p332
+aVShaquille O'Neal LAL 02/21/2002 LAL @ CLE W 37 31 13 25 52.0 0 0 - 5 6 83.3 1 3 4 2 0 2 2 3 3
+p333
+aVRick Fox LAL 02/19/2002 LAL vs. BOS L 30 9 4 8 50.0 1 2 50.0 0 0 - 0 5 5 8 2 0 2 4 -8
+p334
+aVDevean George LAL 02/19/2002 LAL vs. BOS L 18 8 3 6 50.0 2 4 50.0 0 0 - 0 6 6 1 0 0 3 2 7
+p335
+aVSlava Medvedenko LAL 02/19/2002 LAL vs. BOS L 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p336
+aVLindsey Hunter LAL 02/19/2002 LAL vs. BOS L 21 9 4 8 50.0 1 4 25.0 0 0 - 0 2 2 1 1 0 4 2 11
+p337
+aVMark Madsen LAL 02/19/2002 LAL vs. BOS L 12 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -3
+p338
+aVMitch Richmond LAL 02/19/2002 LAL vs. BOS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 3
+p339
+aVDerek Fisher LAL 02/19/2002 LAL vs. BOS L 27 12 4 10 40.0 3 5 60.0 1 1 100.0 1 1 2 2 1 0 2 2 -12
+p340
+aVBrian Shaw LAL 02/19/2002 LAL vs. BOS L 3 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p341
+aVRobert Horry LAL 02/19/2002 LAL vs. BOS L 41 9 3 7 42.9 0 2 0.0 3 4 75.0 2 7 9 7 4 1 4 5 0
+p342
+aVShaquille O'Neal LAL 02/19/2002 LAL vs. BOS L 39 25 9 10 90.0 0 0 - 7 9 77.8 4 13 17 1 1 1 3 1 1
+p343
+aVKobe Bryant LAL 02/19/2002 LAL vs. BOS L 41 27 11 25 44.0 1 2 50.0 4 5 80.0 2 2 4 9 1 0 2 5 -4
+p344
+aVSamaki Walker LAL 02/17/2002 LAL @ POR L 22 2 0 2 0.0 0 0 - 2 4 50.0 1 2 3 0 1 1 1 2 1
+p345
+aVRick Fox LAL 02/17/2002 LAL @ POR L 35 18 8 13 61.5 0 2 0.0 2 2 100.0 2 4 6 5 1 0 3 3 -1
+p346
+aVSlava Medvedenko LAL 02/17/2002 LAL @ POR L 10 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 0
+p347
+aVJelani McCoy LAL 02/17/2002 LAL @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -7
+p348
+aVDevean George LAL 02/17/2002 LAL @ POR L 15 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 4 0 0 0 1 -4
+p349
+aVLindsey Hunter LAL 02/17/2002 LAL @ POR L 32 18 7 13 53.8 4 5 80.0 0 0 - 1 3 4 7 3 0 0 1 1
+p350
+aVDerek Fisher LAL 02/17/2002 LAL @ POR L 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 -7
+p351
+aVKobe Bryant LAL 02/17/2002 LAL @ POR L 43 28 11 26 42.3 0 4 0.0 6 6 100.0 2 3 5 2 1 1 3 5 -2
+p352
+aVRobert Horry LAL 02/17/2002 LAL @ POR L 39 22 7 16 43.8 3 7 42.9 5 8 62.5 3 5 8 4 1 1 1 4 -12
+p353
+aVMark Madsen LAL 02/17/2002 LAL @ POR L 19 4 1 2 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 0 5 5
+p354
+aVMitch Richmond LAL 02/17/2002 LAL @ POR L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p355
+aVKobe Bryant LAL 02/15/2002 LAL vs. ATL L 42 21 7 13 53.8 0 1 0.0 7 11 63.6 1 1 2 10 2 1 6 2 -11
+p356
+aVSamaki Walker LAL 02/15/2002 LAL vs. ATL L 21 4 1 4 25.0 0 0 - 2 4 50.0 0 7 7 0 0 5 2 4 -17
+p357
+aVDevean George LAL 02/15/2002 LAL vs. ATL L 35 12 5 14 35.7 2 6 33.3 0 0 - 3 2 5 1 2 0 0 5 6
+p358
+aVMitch Richmond LAL 02/15/2002 LAL vs. ATL L 7 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 1 2
+p359
+aVMark Madsen LAL 02/15/2002 LAL vs. ATL L 19 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 1 1 1 0 1 16
+p360
+aVBrian Shaw LAL 02/15/2002 LAL vs. ATL L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 1
+p361
+aVJelani McCoy LAL 02/15/2002 LAL vs. ATL L 4 0 0 1 0.0 0 0 - 0 2 0.0 2 1 3 0 0 0 0 1 0
+p362
+aVRick Fox LAL 02/15/2002 LAL vs. ATL L 26 0 0 3 0.0 0 1 0.0 0 0 - 0 7 7 2 0 1 2 2 -15
+p363
+aVLindsey Hunter LAL 02/15/2002 LAL vs. ATL L 20 10 4 8 50.0 1 2 50.0 1 2 50.0 0 0 0 0 1 0 0 2 -12
+p364
+aVRobert Horry LAL 02/15/2002 LAL vs. ATL L 19 6 2 5 40.0 1 3 33.3 1 2 50.0 0 7 7 3 1 0 1 3 -2
+p365
+aVSlava Medvedenko LAL 02/15/2002 LAL vs. ATL L 14 8 4 6 66.7 0 0 - 0 0 - 1 0 1 1 0 0 0 1 7
+p366
+aVDerek Fisher LAL 02/15/2002 LAL vs. ATL L 26 18 4 9 44.4 3 7 42.9 7 9 77.8 1 3 4 1 0 0 0 0 10
+p367
+aVDevean George LAL 02/14/2002 LAL @ SEA W 22 10 4 7 57.1 2 3 66.7 0 0 - 2 6 8 2 0 0 2 3 10
+p368
+aVSamaki Walker LAL 02/14/2002 LAL @ SEA W 23 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 -8
+p369
+aVMitch Richmond LAL 02/14/2002 LAL @ SEA W 9 3 1 6 16.7 0 1 0.0 1 1 100.0 1 0 1 0 0 0 1 0 2
+p370
+aVLindsey Hunter LAL 02/14/2002 LAL @ SEA W 20 12 5 9 55.6 2 3 66.7 0 0 - 0 0 0 1 2 0 0 2 -8
+p371
+aVJelani McCoy LAL 02/14/2002 LAL @ SEA W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -2
+p372
+aVSlava Medvedenko LAL 02/14/2002 LAL @ SEA W 10 6 3 4 75.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -2
+p373
+aVRobert Horry LAL 02/14/2002 LAL @ SEA W 21 7 3 3 100.0 1 1 100.0 0 1 0.0 0 1 1 1 1 0 0 0 18
+p374
+aVDerek Fisher LAL 02/14/2002 LAL @ SEA W 28 8 3 9 33.3 2 2 100.0 0 0 - 0 1 1 1 0 0 1 2 13
+p375
+aVRick Fox LAL 02/14/2002 LAL @ SEA W 36 13 6 14 42.9 1 5 20.0 0 0 - 1 7 8 5 1 0 2 3 3
+p376
+aVMark Madsen LAL 02/14/2002 LAL @ SEA W 23 4 2 7 28.6 0 0 - 0 0 - 4 2 6 3 1 0 2 2 -10
+p377
+aVKobe Bryant LAL 02/14/2002 LAL @ SEA W 42 23 8 21 38.1 0 0 - 7 10 70.0 4 3 7 10 2 1 1 2 9
+p378
+aVDerek Fisher LAL 02/12/2002 LAL vs. WAS W 25 16 7 16 43.8 2 6 33.3 0 0 - 0 2 2 1 1 0 0 1 -9
+p379
+aVSamaki Walker LAL 02/12/2002 LAL vs. WAS W 32 9 4 4 100.0 0 0 - 1 2 50.0 2 3 5 1 0 1 1 1 2
+p380
+aVSlava Medvedenko LAL 02/12/2002 LAL vs. WAS W 15 4 2 8 25.0 0 0 - 0 0 - 4 3 7 1 0 1 1 4 4
+p381
+aVDevean George LAL 02/12/2002 LAL vs. WAS W 14 7 3 5 60.0 1 2 50.0 0 1 0.0 1 2 3 2 0 0 0 4 11
+p382
+aVRick Fox LAL 02/12/2002 LAL vs. WAS W 29 10 4 9 44.4 2 4 50.0 0 0 - 1 2 3 2 0 0 2 5 -4
+p383
+aVMitch Richmond LAL 02/12/2002 LAL vs. WAS W 9 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 6
+p384
+aVBrian Shaw LAL 02/12/2002 LAL vs. WAS W 13 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 2 0 0 0 0 21
+p385
+aVKobe Bryant LAL 02/12/2002 LAL vs. WAS W 43 23 9 20 45.0 0 1 0.0 5 9 55.6 1 10 11 15 1 1 2 3 3
+p386
+aVRobert Horry LAL 02/12/2002 LAL vs. WAS W 25 6 2 5 40.0 2 3 66.7 0 0 - 4 2 6 1 1 0 0 0 6
+p387
+aVLindsey Hunter LAL 02/12/2002 LAL vs. WAS W 12 13 6 10 60.0 1 2 50.0 0 0 - 1 2 3 1 1 0 0 0 2
+p388
+aVMark Madsen LAL 02/12/2002 LAL vs. WAS W 22 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 3 0 0 0 1 3
+p389
+aVDevean George LAL 02/06/2002 LAL vs. CHI L 21 4 0 3 0.0 0 2 0.0 4 4 100.0 1 2 3 0 3 0 0 0 -5
+p390
+aVKobe Bryant LAL 02/06/2002 LAL vs. CHI L 41 38 14 26 53.8 1 2 50.0 9 10 90.0 3 5 8 1 1 2 8 2 -7
+p391
+aVRick Fox LAL 02/06/2002 LAL vs. CHI L 27 8 3 4 75.0 0 1 0.0 2 2 100.0 0 1 1 5 0 0 2 3 -3
+p392
+aVSlava Medvedenko LAL 02/06/2002 LAL vs. CHI L 21 11 5 9 55.6 0 0 - 1 3 33.3 2 0 2 0 0 0 2 3 1
+p393
+aVMitch Richmond LAL 02/06/2002 LAL vs. CHI L 7 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -1
+p394
+aVMark Madsen LAL 02/06/2002 LAL vs. CHI L 23 4 2 4 50.0 0 0 - 0 2 0.0 3 0 3 0 1 0 2 5 -2
+p395
+aVDerek Fisher LAL 02/06/2002 LAL vs. CHI L 33 9 4 14 28.6 1 7 14.3 0 0 - 0 1 1 4 1 0 1 2 -7
+p396
+aVSamaki Walker LAL 02/06/2002 LAL vs. CHI L 35 8 2 7 28.6 0 0 - 4 5 80.0 3 11 14 2 0 1 0 6 0
+p397
+aVRobert Horry LAL 02/06/2002 LAL vs. CHI L 18 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 3 1 0 3 2 -15
+p398
+aVLindsey Hunter LAL 02/06/2002 LAL vs. CHI L 15 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 2 2 0 0 0 -1
+p399
+aVMitch Richmond LAL 02/03/2002 LAL @ DAL W 13 9 4 8 50.0 1 2 50.0 0 0 - 1 3 4 0 0 0 1 1 2
+p400
+aVDevean George LAL 02/03/2002 LAL @ DAL W 20 0 0 4 0.0 0 2 0.0 0 2 0.0 1 1 2 0 0 1 0 0 0
+p401
+aVRick Fox LAL 02/03/2002 LAL @ DAL W 29 7 2 6 33.3 1 2 50.0 2 3 66.7 1 4 5 7 0 0 0 2 6
+p402
+aVShaquille O'Neal LAL 02/03/2002 LAL @ DAL W 39 31 12 20 60.0 0 0 - 7 9 77.8 5 8 13 3 0 1 2 3 17
+p403
+aVSamaki Walker LAL 02/03/2002 LAL @ DAL W 17 2 1 3 33.3 0 0 - 0 0 - 3 5 8 0 0 0 0 2 -8
+p404
+aVRobert Horry LAL 02/03/2002 LAL @ DAL W 34 6 1 7 14.3 0 2 0.0 4 4 100.0 3 8 11 8 0 0 2 3 11
+p405
+aVKobe Bryant LAL 02/03/2002 LAL @ DAL W 40 24 11 25 44.0 0 2 0.0 2 2 100.0 2 8 10 6 2 1 2 5 8
+p406
+aVDerek Fisher LAL 02/03/2002 LAL @ DAL W 31 19 5 12 41.7 3 9 33.3 6 6 100.0 0 3 3 1 1 0 2 4 10
+p407
+aVMark Madsen LAL 02/03/2002 LAL @ DAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p408
+aVLindsey Hunter LAL 02/03/2002 LAL @ DAL W 13 3 1 8 12.5 1 2 50.0 0 0 - 1 0 1 0 1 0 0 3 -6
+p409
+aVKobe Bryant LAL 02/01/2002 LAL @ MEM W 37 13 5 13 38.5 0 2 0.0 3 4 75.0 1 3 4 6 2 0 3 2 15
+p410
+aVDerek Fisher LAL 02/01/2002 LAL @ MEM W 34 21 8 14 57.1 5 7 71.4 0 0 - 0 1 1 4 2 0 0 1 17
+p411
+aVDevean George LAL 02/01/2002 LAL @ MEM W 17 0 0 2 0.0 0 2 0.0 0 0 - 0 2 2 4 1 0 1 1 -4
+p412
+aVLindsey Hunter LAL 02/01/2002 LAL @ MEM W 15 8 3 6 50.0 2 5 40.0 0 0 - 0 2 2 0 2 0 1 1 -2
+p413
+aVMitch Richmond LAL 02/01/2002 LAL @ MEM W 6 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 2
+p414
+aVRick Fox LAL 02/01/2002 LAL @ MEM W 31 10 4 8 50.0 2 2 100.0 0 0 - 1 3 4 7 0 0 2 5 20
+p415
+aVBrian Shaw LAL 02/01/2002 LAL @ MEM W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p416
+aVShaquille O'Neal LAL 02/01/2002 LAL @ MEM W 36 26 12 18 66.7 0 0 - 2 2 100.0 3 7 10 2 0 3 3 3 17
+p417
+aVRobert Horry LAL 02/01/2002 LAL @ MEM W 15 6 2 3 66.7 2 2 100.0 0 0 - 1 1 2 4 2 1 0 2 19
+p418
+aVSamaki Walker LAL 02/01/2002 LAL @ MEM W 31 9 4 5 80.0 0 0 - 1 2 50.0 4 5 9 1 0 1 2 1 3
+p419
+aVMark Madsen LAL 02/01/2002 LAL @ MEM W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p420
+aVSlava Medvedenko LAL 02/01/2002 LAL @ MEM W 4 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p421
+aVRick Fox LAL 01/30/2002 LAL @ ORL W 28 12 5 11 45.5 1 3 33.3 1 3 33.3 1 3 4 5 0 0 3 2 -5
+p422
+aVMark Madsen LAL 01/30/2002 LAL @ ORL W 3 6 3 4 75.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 1 7
+p423
+aVDerek Fisher LAL 01/30/2002 LAL @ ORL W 26 12 2 6 33.3 2 4 50.0 6 6 100.0 0 1 1 2 1 0 1 4 17
+p424
+aVLindsey Hunter LAL 01/30/2002 LAL @ ORL W 15 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 1 1 0 0 0 -15
+p425
+aVSlava Medvedenko LAL 01/30/2002 LAL @ ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p426
+aVBrian Shaw LAL 01/30/2002 LAL @ ORL W 13 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 4 1 1 0 1 20
+p427
+aVSamaki Walker LAL 01/30/2002 LAL @ ORL W 14 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 1 0 8
+p428
+aVKobe Bryant LAL 01/30/2002 LAL @ ORL W 45 23 9 23 39.1 0 1 0.0 5 8 62.5 2 6 8 4 1 0 2 1 17
+p429
+aVMitch Richmond LAL 01/30/2002 LAL @ ORL W 5 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 2
+p430
+aVRobert Horry LAL 01/30/2002 LAL @ ORL W 25 7 2 5 40.0 1 1 100.0 2 2 100.0 4 3 7 0 0 1 0 1 11
+p431
+aVDevean George LAL 01/30/2002 LAL @ ORL W 29 13 5 8 62.5 2 3 66.7 1 5 20.0 0 6 6 2 0 0 0 3 30
+p432
+aVShaquille O'Neal LAL 01/30/2002 LAL @ ORL W 36 30 13 19 68.4 0 0 - 4 8 50.0 4 10 14 4 0 1 2 3 -4
+p433
+aVSlava Medvedenko LAL 01/29/2002 LAL @ ATL W 8 6 3 3 100.0 0 0 - 0 0 - 3 1 4 0 1 0 1 0 -3
+p434
+aVMark Madsen LAL 01/29/2002 LAL @ ATL W 17 0 0 2 0.0 0 0 - 0 0 - 5 5 10 3 0 2 2 2 4
+p435
+aVKobe Bryant LAL 01/29/2002 LAL @ ATL W 27 32 13 20 65.0 0 1 0.0 6 6 100.0 3 1 4 2 0 0 2 3 18
+p436
+aVDevean George LAL 01/29/2002 LAL @ ATL W 24 4 1 6 16.7 1 4 25.0 1 2 50.0 0 1 1 3 2 0 1 0 16
+p437
+aVRick Fox LAL 01/29/2002 LAL @ ATL W 24 11 4 5 80.0 0 0 - 3 5 60.0 1 5 6 4 2 1 2 2 18
+p438
+aVDerek Fisher LAL 01/29/2002 LAL @ ATL W 30 20 8 13 61.5 4 7 57.1 0 0 - 1 2 3 3 0 0 3 0 31
+p439
+aVRobert Horry LAL 01/29/2002 LAL @ ATL W 18 5 1 5 20.0 1 3 33.3 2 2 100.0 1 4 5 1 1 0 0 2 15
+p440
+aVShaquille O'Neal LAL 01/29/2002 LAL @ ATL W 26 23 10 13 76.9 0 0 - 3 4 75.0 1 5 6 1 1 2 3 1 31
+p441
+aVMitch Richmond LAL 01/29/2002 LAL @ ATL W 20 10 3 7 42.9 0 0 - 4 4 100.0 1 2 3 3 2 0 0 1 17
+p442
+aVLindsey Hunter LAL 01/29/2002 LAL @ ATL W 18 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 4 1 0 2 1 3
+p443
+aVSamaki Walker LAL 01/29/2002 LAL @ ATL W 28 11 5 9 55.6 0 0 - 1 1 100.0 1 11 12 2 0 1 2 3 20
+p444
+aVKobe Bryant LAL 01/27/2002 LAL @ PHI L 37 20 8 17 47.1 0 0 - 4 5 80.0 1 1 2 3 1 1 1 4 -5
+p445
+aVShaquille O'Neal LAL 01/27/2002 LAL @ PHI L 40 26 11 22 50.0 0 0 - 4 9 44.4 4 7 11 2 0 1 0 5 -9
+p446
+aVLindsey Hunter LAL 01/27/2002 LAL @ PHI L 25 5 2 9 22.2 1 3 33.3 0 0 - 0 1 1 2 1 2 1 2 -6
+p447
+aVRick Fox LAL 01/27/2002 LAL @ PHI L 33 10 5 11 45.5 0 2 0.0 0 0 - 2 4 6 6 1 0 2 3 -7
+p448
+aVBrian Shaw LAL 01/27/2002 LAL @ PHI L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p449
+aVDevean George LAL 01/27/2002 LAL @ PHI L 15 4 2 3 66.7 0 1 0.0 0 0 - 1 2 3 1 0 0 1 1 1
+p450
+aVRobert Horry LAL 01/27/2002 LAL @ PHI L 31 11 4 7 57.1 1 3 33.3 2 2 100.0 1 8 9 1 0 1 2 1 -2
+p451
+aVSamaki Walker LAL 01/27/2002 LAL @ PHI L 25 4 2 5 40.0 0 0 - 0 0 - 1 5 6 0 0 0 1 3 -1
+p452
+aVDerek Fisher LAL 01/27/2002 LAL @ PHI L 27 7 2 10 20.0 1 7 14.3 2 2 100.0 0 3 3 4 1 1 1 5 4
+p453
+aVMitch Richmond LAL 01/27/2002 LAL @ PHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p454
+aVBrian Shaw LAL 01/25/2002 LAL vs. SAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p455
+aVRick Fox LAL 01/25/2002 LAL vs. SAS W 32 11 5 6 83.3 1 2 50.0 0 0 - 0 1 1 1 1 1 2 2 12
+p456
+aVLindsey Hunter LAL 01/25/2002 LAL vs. SAS W 19 2 1 5 20.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 3 3
+p457
+aVSamaki Walker LAL 01/25/2002 LAL vs. SAS W 16 6 3 8 37.5 0 0 - 0 0 - 1 7 8 2 1 2 1 1 7
+p458
+aVShaquille O'Neal LAL 01/25/2002 LAL vs. SAS W 42 25 11 21 52.4 0 0 - 3 6 50.0 5 10 15 4 1 0 6 2 -4
+p459
+aVMitch Richmond LAL 01/25/2002 LAL vs. SAS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p460
+aVDevean George LAL 01/25/2002 LAL vs. SAS W 16 5 1 5 20.0 1 3 33.3 2 2 100.0 1 1 2 0 1 0 0 2 -9
+p461
+aVDerek Fisher LAL 01/25/2002 LAL vs. SAS W 29 12 4 10 40.0 0 3 0.0 4 4 100.0 0 0 0 0 1 0 0 0 0
+p462
+aVKobe Bryant LAL 01/25/2002 LAL vs. SAS W 40 27 9 19 47.4 0 0 - 9 9 100.0 0 3 3 6 0 0 3 4 6
+p463
+aVRobert Horry LAL 01/25/2002 LAL vs. SAS W 29 2 0 1 0.0 0 1 0.0 2 2 100.0 2 7 9 2 2 1 0 4 -8
+p464
+aVMark Madsen LAL 01/25/2002 LAL vs. SAS W 10 4 1 4 25.0 0 1 0.0 2 3 66.7 1 3 4 0 0 0 0 2 11
+p465
+aVSamaki Walker LAL 01/23/2002 LAL @ LAC L 37 5 2 8 25.0 0 0 - 1 4 25.0 3 9 12 3 0 1 0 5 -4
+p466
+aVSlava Medvedenko LAL 01/23/2002 LAL @ LAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p467
+aVDerek Fisher LAL 01/23/2002 LAL @ LAC L 34 10 3 8 37.5 3 5 60.0 1 3 33.3 1 4 5 5 1 0 0 1 2
+p468
+aVMitch Richmond LAL 01/23/2002 LAL @ LAC L 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -11
+p469
+aVLindsey Hunter LAL 01/23/2002 LAL @ LAC L 14 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 -7
+p470
+aVMark Madsen LAL 01/23/2002 LAL @ LAC L 17 4 1 3 33.3 0 0 - 2 2 100.0 3 1 4 1 0 0 0 1 0
+p471
+aVKobe Bryant LAL 01/23/2002 LAL @ LAC L 39 27 11 25 44.0 0 2 0.0 5 6 83.3 0 2 2 4 1 1 0 3 6
+p472
+aVDevean George LAL 01/23/2002 LAL @ LAC L 29 13 5 7 71.4 3 4 75.0 0 0 - 1 4 5 1 1 1 3 2 -2
+p473
+aVShaquille O'Neal LAL 01/23/2002 LAL @ LAC L 40 24 7 16 43.8 0 0 - 10 16 62.5 2 8 10 3 0 3 4 4 -2
+p474
+aVRick Fox LAL 01/23/2002 LAL @ LAC L 20 4 2 6 33.3 0 2 0.0 0 0 - 1 4 5 2 0 0 1 0 -1
+p475
+aVMitch Richmond LAL 01/22/2002 LAL vs. DEN L 5 1 0 2 0.0 0 1 0.0 1 1 100.0 0 0 0 0 1 0 0 3 -3
+p476
+aVKobe Bryant LAL 01/22/2002 LAL vs. DEN L 39 15 6 14 42.9 0 2 0.0 3 3 100.0 0 7 7 6 2 0 5 4 -12
+p477
+aVBrian Shaw LAL 01/22/2002 LAL vs. DEN L 6 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 1 0 0 0 2 -5
+p478
+aVMark Madsen LAL 01/22/2002 LAL vs. DEN L 20 5 1 4 25.0 0 0 - 3 6 50.0 3 1 4 0 1 0 1 1 -11
+p479
+aVRick Fox LAL 01/22/2002 LAL vs. DEN L 32 7 3 9 33.3 0 5 0.0 1 2 50.0 2 3 5 4 2 0 1 5 -1
+p480
+aVDerek Fisher LAL 01/22/2002 LAL vs. DEN L 30 8 3 12 25.0 2 9 22.2 0 0 - 0 0 0 2 2 0 2 2 3
+p481
+aVRobert Horry LAL 01/22/2002 LAL vs. DEN L 16 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 1 0 3 -8
+p482
+aVSamaki Walker LAL 01/22/2002 LAL vs. DEN L 19 6 3 5 60.0 0 0 - 0 0 - 3 4 7 0 0 1 3 3 -3
+p483
+aVShaquille O'Neal LAL 01/22/2002 LAL vs. DEN L 39 40 17 22 77.3 0 0 - 6 9 66.7 5 6 11 5 1 2 1 1 -6
+p484
+aVDevean George LAL 01/22/2002 LAL vs. DEN L 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 0 2 2 -15
+p485
+aVLindsey Hunter LAL 01/22/2002 LAL vs. DEN L 18 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 5 0 0 1 0 -19
+p486
+aVDevean George LAL 01/19/2002 LAL @ SAS W 16 7 3 7 42.9 1 2 50.0 0 0 - 1 2 3 0 0 0 2 3 4
+p487
+aVRobert Horry LAL 01/19/2002 LAL @ SAS W 27 8 3 5 60.0 2 2 100.0 0 0 - 0 4 4 2 0 2 1 1 16
+p488
+aVRick Fox LAL 01/19/2002 LAL @ SAS W 32 6 3 10 30.0 0 6 0.0 0 0 - 2 4 6 2 2 0 3 3 13
+p489
+aVKobe Bryant LAL 01/19/2002 LAL @ SAS W 38 28 11 25 44.0 1 2 50.0 5 7 71.4 2 5 7 5 2 1 1 1 12
+p490
+aVSamaki Walker LAL 01/19/2002 LAL @ SAS W 27 6 3 8 37.5 0 0 - 0 0 - 1 6 7 0 1 2 0 1 4
+p491
+aVMitch Richmond LAL 01/19/2002 LAL @ SAS W 10 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 0 1 1 1 1 5
+p492
+aVSlava Medvedenko LAL 01/19/2002 LAL @ SAS W 14 12 5 8 62.5 0 0 - 2 3 66.7 2 0 2 2 0 0 0 0 6
+p493
+aVMark Madsen LAL 01/19/2002 LAL @ SAS W 28 8 4 5 80.0 0 0 - 0 0 - 4 1 5 2 1 0 0 3 7
+p494
+aVLindsey Hunter LAL 01/19/2002 LAL @ SAS W 16 5 2 6 33.3 1 2 50.0 0 0 - 0 0 0 1 0 0 0 3 4
+p495
+aVDerek Fisher LAL 01/19/2002 LAL @ SAS W 32 11 4 10 40.0 1 5 20.0 2 2 100.0 1 6 7 1 2 0 0 1 14
+p496
+aVMark Madsen LAL 01/16/2002 LAL vs. MIA L 27 6 3 7 42.9 0 0 - 0 0 - 6 2 8 3 0 0 0 3 6
+p497
+aVSamaki Walker LAL 01/16/2002 LAL vs. MIA L 40 14 6 9 66.7 0 0 - 2 2 100.0 5 8 13 1 2 2 0 4 4
+p498
+aVBrian Shaw LAL 01/16/2002 LAL vs. MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p499
+aVSlava Medvedenko LAL 01/16/2002 LAL vs. MIA L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p500
+aVRick Fox LAL 01/16/2002 LAL vs. MIA L 24 11 4 11 36.4 3 7 42.9 0 0 - 1 1 2 3 0 1 0 1 -9
+p501
+aVLindsey Hunter LAL 01/16/2002 LAL vs. MIA L 16 3 1 6 16.7 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 2
+p502
+aVDerek Fisher LAL 01/16/2002 LAL vs. MIA L 32 17 5 10 50.0 5 8 62.5 2 2 100.0 0 0 0 2 1 1 1 3 -8
+p503
+aVKobe Bryant LAL 01/16/2002 LAL vs. MIA L 40 29 12 30 40.0 0 3 0.0 5 7 71.4 4 4 8 7 1 0 3 2 -4
+p504
+aVDevean George LAL 01/16/2002 LAL vs. MIA L 24 11 4 11 36.4 2 3 66.7 1 1 100.0 0 5 5 3 1 1 1 2 1
+p505
+aVMitch Richmond LAL 01/16/2002 LAL vs. MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p506
+aVRobert Horry LAL 01/16/2002 LAL vs. MIA L 26 3 1 7 14.3 0 3 0.0 1 2 50.0 1 3 4 1 0 1 3 4 -17
+p507
+aVBrian Shaw LAL 01/14/2002 LAL vs. MEM W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p508
+aVLindsey Hunter LAL 01/14/2002 LAL vs. MEM W 20 2 1 3 33.3 0 0 - 0 0 - 1 1 2 4 0 1 0 0 11
+p509
+aVDevean George LAL 01/14/2002 LAL vs. MEM W 20 8 3 10 30.0 2 4 50.0 0 0 - 2 2 4 4 3 0 0 0 11
+p510
+aVKobe Bryant LAL 01/14/2002 LAL vs. MEM W 34 56 21 34 61.8 3 6 50.0 11 12 91.7 3 2 5 4 1 0 0 1 40
+p511
+aVMitch Richmond LAL 01/14/2002 LAL vs. MEM W 12 4 2 7 28.6 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 0
+p512
+aVRick Fox LAL 01/14/2002 LAL vs. MEM W 28 3 1 5 20.0 0 2 0.0 1 2 50.0 0 3 3 7 1 0 1 2 28
+p513
+aVMark Madsen LAL 01/14/2002 LAL vs. MEM W 25 10 5 10 50.0 0 0 - 0 0 - 3 5 8 2 2 2 3 4 21
+p514
+aVSlava Medvedenko LAL 01/14/2002 LAL vs. MEM W 15 7 3 6 50.0 0 0 - 1 1 100.0 1 0 1 1 1 1 1 4 4
+p515
+aVDerek Fisher LAL 01/14/2002 LAL vs. MEM W 28 11 4 8 50.0 3 4 75.0 0 0 - 0 2 2 4 1 0 0 2 28
+p516
+aVRobert Horry LAL 01/14/2002 LAL vs. MEM W 30 12 5 10 50.0 2 4 50.0 0 0 - 3 8 11 6 3 3 2 1 33
+p517
+aVSamaki Walker LAL 01/14/2002 LAL vs. MEM W 23 7 3 3 100.0 0 0 - 1 2 50.0 1 7 8 0 2 1 1 3 18
+p518
+aVRobert Horry LAL 01/12/2002 LAL @ CHI L 28 7 2 8 25.0 1 3 33.3 2 2 100.0 6 7 13 3 1 1 0 4 -6
+p519
+aVMark Madsen LAL 01/12/2002 LAL @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p520
+aVBrian Shaw LAL 01/12/2002 LAL @ CHI L 13 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 1 0 0 0 0 0
+p521
+aVDevean George LAL 01/12/2002 LAL @ CHI L 16 3 1 6 16.7 1 2 50.0 0 0 - 0 3 3 2 1 0 2 6 -6
+p522
+aVRick Fox LAL 01/12/2002 LAL @ CHI L 27 2 1 4 25.0 0 3 0.0 0 0 - 1 5 6 2 0 1 3 2 3
+p523
+aVSlava Medvedenko LAL 01/12/2002 LAL @ CHI L 0 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p524
+aVMitch Richmond LAL 01/12/2002 LAL @ CHI L 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -5
+p525
+aVLindsey Hunter LAL 01/12/2002 LAL @ CHI L 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -4
+p526
+aVShaquille O'Neal LAL 01/12/2002 LAL @ CHI L 34 19 5 14 35.7 0 0 - 9 18 50.0 3 7 10 1 0 3 4 5 5
+p527
+aVDerek Fisher LAL 01/12/2002 LAL @ CHI L 42 28 9 14 64.3 7 12 58.3 3 4 75.0 0 3 3 5 4 0 0 0 2
+p528
+aVKobe Bryant LAL 01/12/2002 LAL @ CHI L 47 26 9 25 36.0 0 2 0.0 8 11 72.7 3 2 5 9 3 0 7 5 3
+p529
+aVSamaki Walker LAL 01/12/2002 LAL @ CHI L 39 11 4 8 50.0 0 0 - 3 3 100.0 3 4 7 3 2 2 0 5 -1
+p530
+aVDerek Fisher LAL 01/11/2002 LAL @ MIN L 21 7 2 6 33.3 2 4 50.0 1 2 50.0 0 1 1 3 2 0 0 1 -10
+p531
+aVKobe Bryant LAL 01/11/2002 LAL @ MIN L 38 23 9 27 33.3 0 2 0.0 5 6 83.3 1 2 3 5 0 0 2 3 -14
+p532
+aVLindsey Hunter LAL 01/11/2002 LAL @ MIN L 24 12 4 6 66.7 2 4 50.0 2 2 100.0 2 2 4 1 1 0 1 3 -12
+p533
+aVRick Fox LAL 01/11/2002 LAL @ MIN L 30 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 9 0 0 0 3 -7
+p534
+aVShaquille O'Neal LAL 01/11/2002 LAL @ MIN L 37 29 12 23 52.2 0 0 - 5 11 45.5 2 5 7 1 1 2 3 2 -18
+p535
+aVDevean George LAL 01/11/2002 LAL @ MIN L 21 7 2 9 22.2 1 3 33.3 2 4 50.0 1 1 2 2 1 0 0 3 -8
+p536
+aVSamaki Walker LAL 01/11/2002 LAL @ MIN L 27 10 3 5 60.0 0 0 - 4 5 80.0 1 8 9 2 1 1 0 2 -13
+p537
+aVMark Madsen LAL 01/11/2002 LAL @ MIN L 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -3
+p538
+aVRobert Horry LAL 01/11/2002 LAL @ MIN L 22 6 2 5 40.0 2 2 100.0 0 0 - 0 3 3 0 1 0 0 5 -6
+p539
+aVSlava Medvedenko LAL 01/11/2002 LAL @ MIN L 4 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 1 0 0 0 1 -3
+p540
+aVBrian Shaw LAL 01/11/2002 LAL @ MIN L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 2 2 0 0 2 4
+p541
+aVSlava Medvedenko LAL 01/09/2002 LAL @ IND W 15 10 4 6 66.7 0 0 - 2 4 50.0 1 2 3 1 2 0 0 1 -10
+p542
+aVRobert Horry LAL 01/09/2002 LAL @ IND W 21 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 2 0 0 0 2 12
+p543
+aVShaquille O'Neal LAL 01/09/2002 LAL @ IND W 24 20 8 12 66.7 0 0 - 4 9 44.4 0 4 4 1 0 5 2 4 16
+p544
+aVLindsey Hunter LAL 01/09/2002 LAL @ IND W 21 7 3 6 50.0 1 2 50.0 0 0 - 0 4 4 3 0 1 1 1 5
+p545
+aVMark Madsen LAL 01/09/2002 LAL @ IND W 15 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 1 0 1 1 3 2
+p546
+aVKobe Bryant LAL 01/09/2002 LAL @ IND W 35 31 11 22 50.0 1 1 100.0 8 14 57.1 2 6 8 4 3 0 3 2 23
+p547
+aVDevean George LAL 01/09/2002 LAL @ IND W 28 6 3 7 42.9 0 0 - 0 0 - 2 7 9 5 1 2 1 1 8
+p548
+aVRick Fox LAL 01/09/2002 LAL @ IND W 22 3 1 3 33.3 1 3 33.3 0 0 - 1 1 2 4 3 0 1 0 15
+p549
+aVDerek Fisher LAL 01/09/2002 LAL @ IND W 25 10 4 10 40.0 2 6 33.3 0 0 - 0 1 1 6 1 0 0 2 17
+p550
+aVMitch Richmond LAL 01/09/2002 LAL @ IND W 15 8 3 8 37.5 1 2 50.0 1 2 50.0 1 1 2 0 0 0 2 0 -5
+p551
+aVSamaki Walker LAL 01/09/2002 LAL @ IND W 20 4 2 7 28.6 0 0 - 0 0 - 2 11 13 0 0 1 0 4 12
+p552
+aVKobe Bryant LAL 01/08/2002 LAL @ DET W 28 20 8 17 47.1 0 1 0.0 4 4 100.0 2 2 4 6 1 0 0 3 18
+p553
+aVDerek Fisher LAL 01/08/2002 LAL @ DET W 24 11 4 5 80.0 1 2 50.0 2 2 100.0 0 1 1 2 0 0 1 2 15
+p554
+aVSlava Medvedenko LAL 01/08/2002 LAL @ DET W 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 5
+p555
+aVSamaki Walker LAL 01/08/2002 LAL @ DET W 27 11 4 6 66.7 0 0 - 3 4 75.0 2 3 5 1 0 0 0 1 16
+p556
+aVBrian Shaw LAL 01/08/2002 LAL @ DET W 15 6 2 7 28.6 2 3 66.7 0 0 - 0 3 3 1 0 0 0 2 3
+p557
+aVRobert Horry LAL 01/08/2002 LAL @ DET W 12 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 0 0 15
+p558
+aVMitch Richmond LAL 01/08/2002 LAL @ DET W 13 11 3 6 50.0 2 2 100.0 3 3 100.0 0 1 1 3 0 0 1 1 5
+p559
+aVLindsey Hunter LAL 01/08/2002 LAL @ DET W 21 9 3 8 37.5 1 2 50.0 2 2 100.0 0 3 3 3 1 0 1 2 17
+p560
+aVMark Madsen LAL 01/08/2002 LAL @ DET W 13 6 3 5 60.0 0 0 - 0 0 - 3 3 6 1 0 0 0 3 3
+p561
+aVRick Fox LAL 01/08/2002 LAL @ DET W 22 6 2 5 40.0 2 3 66.7 0 0 - 0 4 4 3 2 0 0 2 10
+p562
+aVDevean George LAL 01/08/2002 LAL @ DET W 21 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 2 2 2 0 2 19
+p563
+aVShaquille O'Neal LAL 01/08/2002 LAL @ DET W 25 28 11 17 64.7 0 0 - 6 10 60.0 5 5 10 3 1 1 3 4 19
+p564
+aVSlava Medvedenko LAL 01/06/2002 LAL @ TOR W 8 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -3
+p565
+aVRick Fox LAL 01/06/2002 LAL @ TOR W 20 3 1 3 33.3 1 2 50.0 0 0 - 1 1 2 2 0 0 1 1 -6
+p566
+aVSamaki Walker LAL 01/06/2002 LAL @ TOR W 23 13 4 7 57.1 0 0 - 5 6 83.3 4 6 10 0 0 0 0 1 -4
+p567
+aVRobert Horry LAL 01/06/2002 LAL @ TOR W 24 6 3 5 60.0 0 1 0.0 0 0 - 2 4 6 4 0 1 2 1 27
+p568
+aVLindsey Hunter LAL 01/06/2002 LAL @ TOR W 22 6 2 3 66.7 1 2 50.0 1 1 100.0 0 4 4 1 1 0 1 0 17
+p569
+aVKobe Bryant LAL 01/06/2002 LAL @ TOR W 36 31 12 20 60.0 0 0 - 7 9 77.8 3 4 7 2 3 0 4 2 4
+p570
+aVMitch Richmond LAL 01/06/2002 LAL @ TOR W 13 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 1 1 0 0 2 20
+p571
+aVDevean George LAL 01/06/2002 LAL @ TOR W 28 5 2 5 40.0 0 2 0.0 1 2 50.0 1 1 2 1 2 0 0 1 26
+p572
+aVShaquille O'Neal LAL 01/06/2002 LAL @ TOR W 38 24 10 21 47.6 0 0 - 4 7 57.1 0 6 6 4 2 2 1 0 23
+p573
+aVMark Madsen LAL 01/06/2002 LAL @ TOR W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p574
+aVDerek Fisher LAL 01/06/2002 LAL @ TOR W 25 8 3 5 60.0 0 2 0.0 2 2 100.0 0 1 1 4 3 0 4 2 -1
+p575
+aVRobert Horry LAL 01/04/2002 LAL vs. PHX W 15 5 1 2 50.0 1 2 50.0 2 2 100.0 0 3 3 4 0 0 1 0 4
+p576
+aVShaquille O'Neal LAL 01/04/2002 LAL vs. PHX W 28 24 11 15 73.3 0 0 - 2 3 66.7 3 6 9 5 0 1 1 4 18
+p577
+aVRick Fox LAL 01/04/2002 LAL vs. PHX W 26 8 3 8 37.5 1 4 25.0 1 2 50.0 1 5 6 2 0 0 1 3 11
+p578
+aVDevean George LAL 01/04/2002 LAL vs. PHX W 23 14 6 12 50.0 2 3 66.7 0 0 - 0 1 1 3 1 0 0 0 19
+p579
+aVSamaki Walker LAL 01/04/2002 LAL vs. PHX W 25 11 4 12 33.3 0 0 - 3 4 75.0 5 5 10 0 0 1 1 1 15
+p580
+aVSlava Medvedenko LAL 01/04/2002 LAL vs. PHX W 9 8 3 7 42.9 0 0 - 2 2 100.0 2 1 3 1 2 0 0 0 13
+p581
+aVMitch Richmond LAL 01/04/2002 LAL vs. PHX W 15 6 2 3 66.7 1 2 50.0 1 1 100.0 0 0 0 1 1 0 1 0 17
+p582
+aVDerek Fisher LAL 01/04/2002 LAL vs. PHX W 23 12 5 8 62.5 2 5 40.0 0 0 - 0 3 3 4 2 0 1 0 2
+p583
+aVKobe Bryant LAL 01/04/2002 LAL vs. PHX W 30 18 7 15 46.7 0 1 0.0 4 5 80.0 0 3 3 6 0 1 3 3 17
+p584
+aVBrian Shaw LAL 01/04/2002 LAL vs. PHX W 12 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 2 1 0 0 1 17
+p585
+aVLindsey Hunter LAL 01/04/2002 LAL vs. PHX W 22 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 21
+p586
+aVMark Madsen LAL 01/04/2002 LAL vs. PHX W 13 4 1 4 25.0 0 0 - 2 2 100.0 4 5 9 3 0 1 0 2 6
+p587
+aVMark Madsen LAL 01/02/2002 LAL @ DEN W 21 5 2 5 40.0 0 0 - 1 2 50.0 2 3 5 2 0 0 0 1 2
+p588
+aVKobe Bryant LAL 01/02/2002 LAL @ DEN W 36 28 11 22 50.0 0 0 - 6 7 85.7 3 5 8 3 3 0 3 2 3
+p589
+aVDevean George LAL 01/02/2002 LAL @ DEN W 25 9 2 7 28.6 1 2 50.0 4 4 100.0 0 1 1 1 0 1 0 0 -6
+p590
+aVMitch Richmond LAL 01/02/2002 LAL @ DEN W 12 3 1 3 33.3 1 1 100.0 0 0 - 0 4 4 2 1 1 1 1 -2
+p591
+aVLindsey Hunter LAL 01/02/2002 LAL @ DEN W 23 2 1 7 14.3 0 2 0.0 0 0 - 0 1 1 2 1 1 2 2 -1
+p592
+aVRick Fox LAL 01/02/2002 LAL @ DEN W 35 17 7 12 58.3 3 5 60.0 0 0 - 2 5 7 6 2 2 2 2 3
+p593
+aVSamaki Walker LAL 01/02/2002 LAL @ DEN W 41 14 4 9 44.4 0 0 - 6 8 75.0 3 8 11 2 2 2 2 2 3
+p594
+aVSlava Medvedenko LAL 01/02/2002 LAL @ DEN W 7 4 2 6 33.3 0 0 - 0 0 - 4 0 4 0 1 0 0 1 -2
+p595
+aVDerek Fisher LAL 01/02/2002 LAL @ DEN W 25 5 2 8 25.0 1 2 50.0 0 0 - 0 0 0 2 0 1 1 4 3
+p596
+aVRobert Horry LAL 01/02/2002 LAL @ DEN W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 2 2 2
+p597
+aVMark Madsen LAL 12/30/2001 LAL vs. HOU W 19 6 3 5 60.0 0 0 - 0 0 - 4 0 4 2 0 0 0 2 10
+p598
+aVSlava Medvedenko LAL 12/30/2001 LAL vs. HOU W 19 4 2 7 28.6 0 0 - 0 0 - 0 2 2 1 1 0 0 3 5
+p599
+aVSamaki Walker LAL 12/30/2001 LAL vs. HOU W 29 12 6 9 66.7 0 0 - 0 0 - 0 4 4 1 0 5 0 1 14
+p600
+aVKobe Bryant LAL 12/30/2001 LAL vs. HOU W 31 16 7 17 41.2 0 2 0.0 2 2 100.0 0 2 2 11 0 0 1 2 10
+p601
+aVJelani McCoy LAL 12/30/2001 LAL vs. HOU W 5 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 2
+p602
+aVRick Fox LAL 12/30/2001 LAL vs. HOU W 27 16 5 9 55.6 3 3 100.0 3 4 75.0 2 4 6 2 0 0 0 2 2
+p603
+aVRobert Horry LAL 12/30/2001 LAL vs. HOU W 24 14 6 10 60.0 2 4 50.0 0 0 - 3 8 11 6 1 0 0 2 17
+p604
+aVDerek Fisher LAL 12/30/2001 LAL vs. HOU W 27 7 3 7 42.9 1 2 50.0 0 0 - 0 0 0 4 0 0 0 3 2
+p605
+aVDevean George LAL 12/30/2001 LAL vs. HOU W 21 14 5 9 55.6 2 3 66.7 2 3 66.7 0 2 2 0 1 0 1 2 22
+p606
+aVLindsey Hunter LAL 12/30/2001 LAL vs. HOU W 21 12 4 6 66.7 2 3 66.7 2 2 100.0 0 2 2 1 0 1 0 3 22
+p607
+aVBrian Shaw LAL 12/30/2001 LAL vs. HOU W 5 3 1 4 25.0 0 1 0.0 1 2 50.0 0 1 1 1 0 0 0 2 2
+p608
+aVMitch Richmond LAL 12/30/2001 LAL vs. HOU W 12 6 2 6 33.3 2 4 50.0 0 0 - 0 1 1 2 0 0 1 1 12
+p609
+aVDerek Fisher LAL 12/28/2001 LAL vs. TOR L 28 9 3 11 27.3 3 6 50.0 0 0 - 1 2 3 3 0 0 0 3 -9
+p610
+aVDevean George LAL 12/28/2001 LAL vs. TOR L 30 17 7 8 87.5 2 2 100.0 1 2 50.0 0 4 4 1 1 0 2 4 14
+p611
+aVBrian Shaw LAL 12/28/2001 LAL vs. TOR L 0 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p612
+aVRobert Horry LAL 12/28/2001 LAL vs. TOR L 32 3 1 8 12.5 0 3 0.0 1 2 50.0 1 6 7 4 2 2 2 4 8
+p613
+aVLindsey Hunter LAL 12/28/2001 LAL vs. TOR L 19 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 4
+p614
+aVRick Fox LAL 12/28/2001 LAL vs. TOR L 27 14 5 12 41.7 0 2 0.0 4 4 100.0 1 6 7 2 0 1 2 3 -2
+p615
+aVSamaki Walker LAL 12/28/2001 LAL vs. TOR L 40 9 4 7 57.1 0 0 - 1 2 50.0 6 8 14 4 0 4 2 2 -5
+p616
+aVJelani McCoy LAL 12/28/2001 LAL vs. TOR L 7 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 0 0 0 2 0 -1
+p617
+aVKobe Bryant LAL 12/28/2001 LAL vs. TOR L 40 26 9 24 37.5 2 3 66.7 6 9 66.7 2 6 8 6 1 0 5 1 -10
+p618
+aVSlava Medvedenko LAL 12/28/2001 LAL vs. TOR L 15 6 3 9 33.3 0 0 - 0 0 - 4 0 4 0 0 0 0 0 -14
+p619
+aVJelani McCoy LAL 12/26/2001 LAL @ GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p620
+aVDevean George LAL 12/26/2001 LAL @ GSW L 13 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 1 1 6 3
+p621
+aVRobert Horry LAL 12/26/2001 LAL @ GSW L 19 6 2 8 25.0 1 2 50.0 1 1 100.0 0 3 3 1 1 0 1 1 -5
+p622
+aVBrian Shaw LAL 12/26/2001 LAL @ GSW L 10 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 0
+p623
+aVKobe Bryant LAL 12/26/2001 LAL @ GSW L 41 39 17 28 60.7 3 7 42.9 2 2 100.0 0 2 2 5 1 0 3 3 -8
+p624
+aVDerek Fisher LAL 12/26/2001 LAL @ GSW L 27 4 2 10 20.0 0 5 0.0 0 0 - 0 5 5 4 1 0 1 2 -6
+p625
+aVRick Fox LAL 12/26/2001 LAL @ GSW L 32 4 1 5 20.0 0 3 0.0 2 2 100.0 1 3 4 1 1 1 2 5 -12
+p626
+aVMark Madsen LAL 12/26/2001 LAL @ GSW L 11 3 1 2 50.0 0 0 - 1 2 50.0 4 1 5 1 0 0 2 3 -4
+p627
+aVSamaki Walker LAL 12/26/2001 LAL @ GSW L 34 11 4 10 40.0 0 0 - 3 4 75.0 0 6 6 0 1 5 0 4 -3
+p628
+aVSlava Medvedenko LAL 12/26/2001 LAL @ GSW L 21 12 5 10 50.0 0 0 - 2 3 66.7 5 3 8 2 0 0 5 5 -4
+p629
+aVLindsey Hunter LAL 12/26/2001 LAL @ GSW L 14 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 -6
+p630
+aVMitch Richmond LAL 12/26/2001 LAL @ GSW L 17 3 1 5 20.0 1 3 33.3 0 0 - 0 0 0 2 1 0 0 1 -8
+p631
+aVSamaki Walker LAL 12/25/2001 LAL vs. PHI W 37 18 7 9 77.8 0 0 - 4 6 66.7 3 7 10 1 1 0 1 2 5
+p632
+aVRick Fox LAL 12/25/2001 LAL vs. PHI W 20 2 1 7 14.3 0 4 0.0 0 0 - 1 5 6 0 0 0 0 2 -15
+p633
+aVLindsey Hunter LAL 12/25/2001 LAL vs. PHI W 18 6 2 7 28.6 2 3 66.7 0 0 - 0 0 0 2 0 1 2 3 11
+p634
+aVRobert Horry LAL 12/25/2001 LAL vs. PHI W 22 7 2 5 40.0 1 3 33.3 2 2 100.0 2 9 11 1 2 1 1 2 5
+p635
+aVMark Madsen LAL 12/25/2001 LAL vs. PHI W 11 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p636
+aVKobe Bryant LAL 12/25/2001 LAL vs. PHI W 42 12 6 19 31.6 0 2 0.0 0 0 - 0 11 11 9 0 0 3 1 11
+p637
+aVDevean George LAL 12/25/2001 LAL vs. PHI W 23 7 2 7 28.6 0 1 0.0 3 6 50.0 2 1 3 1 2 1 0 3 12
+p638
+aVBrian Shaw LAL 12/25/2001 LAL vs. PHI W 18 13 4 11 36.4 3 5 60.0 2 2 100.0 0 3 3 2 0 0 2 0 0
+p639
+aVSlava Medvedenko LAL 12/25/2001 LAL vs. PHI W 23 12 6 8 75.0 0 1 0.0 0 0 - 1 2 3 2 0 0 1 3 4
+p640
+aVDerek Fisher LAL 12/25/2001 LAL vs. PHI W 26 9 3 10 30.0 2 6 33.3 1 2 50.0 0 2 2 2 2 0 0 2 -1
+p641
+aVLindsey Hunter LAL 12/21/2001 LAL @ MEM L 9 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 3 -5
+p642
+aVShaquille O'Neal LAL 12/21/2001 LAL @ MEM L 41 26 11 25 44.0 0 0 - 4 7 57.1 5 4 9 5 0 1 1 4 -7
+p643
+aVSlava Medvedenko LAL 12/21/2001 LAL @ MEM L 7 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 0 0 1 2 4
+p644
+aVKobe Bryant LAL 12/21/2001 LAL @ MEM L 37 36 15 23 65.2 1 4 25.0 5 5 100.0 0 4 4 6 0 0 3 3 -11
+p645
+aVRobert Horry LAL 12/21/2001 LAL @ MEM L 24 5 1 8 12.5 1 4 25.0 2 2 100.0 4 0 4 5 0 1 3 2 -7
+p646
+aVSamaki Walker LAL 12/21/2001 LAL @ MEM L 24 8 3 6 50.0 0 0 - 2 4 50.0 4 5 9 2 0 2 0 3 -2
+p647
+aVDevean George LAL 12/21/2001 LAL @ MEM L 16 6 3 7 42.9 0 2 0.0 0 0 - 2 3 5 1 1 0 2 3 -5
+p648
+aVBrian Shaw LAL 12/21/2001 LAL @ MEM L 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -3
+p649
+aVDerek Fisher LAL 12/21/2001 LAL @ MEM L 33 12 5 12 41.7 2 7 28.6 0 0 - 0 1 1 5 1 0 1 1 3
+p650
+aVMitch Richmond LAL 12/21/2001 LAL @ MEM L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 4
+p651
+aVRick Fox LAL 12/21/2001 LAL @ MEM L 32 8 4 7 57.1 0 0 - 0 0 - 2 4 6 6 0 2 2 5 -1
+p652
+aVShaquille O'Neal LAL 12/20/2001 LAL @ HOU W 39 16 6 16 37.5 0 0 - 4 8 50.0 2 12 14 4 1 4 4 3 27
+p653
+aVRick Fox LAL 12/20/2001 LAL @ HOU W 22 9 4 10 40.0 1 4 25.0 0 0 - 1 6 7 3 1 0 1 1 9
+p654
+aVSlava Medvedenko LAL 12/20/2001 LAL @ HOU W 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 1 1 1 -8
+p655
+aVMitch Richmond LAL 12/20/2001 LAL @ HOU W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -1
+p656
+aVSamaki Walker LAL 12/20/2001 LAL @ HOU W 24 9 3 4 75.0 0 0 - 3 5 60.0 6 4 10 0 0 1 1 2 4
+p657
+aVLindsey Hunter LAL 12/20/2001 LAL @ HOU W 14 6 3 3 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -9
+p658
+aVRobert Horry LAL 12/20/2001 LAL @ HOU W 29 3 1 5 20.0 1 2 50.0 0 0 - 4 4 8 5 0 2 1 2 -9
+p659
+aVMark Madsen LAL 12/20/2001 LAL @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p660
+aVDerek Fisher LAL 12/20/2001 LAL @ HOU W 33 23 8 14 57.1 7 9 77.8 0 0 - 1 2 3 1 0 0 0 2 17
+p661
+aVDevean George LAL 12/20/2001 LAL @ HOU W 26 11 4 9 44.4 1 3 33.3 2 2 100.0 1 2 3 3 0 0 1 3 -3
+p662
+aVKobe Bryant LAL 12/20/2001 LAL @ HOU W 42 27 9 26 34.6 1 1 100.0 8 8 100.0 2 3 5 5 1 1 2 3 5
+p663
+aVSlava Medvedenko LAL 12/16/2001 LAL vs. GSW W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 1 3 -4
+p664
+aVDerek Fisher LAL 12/16/2001 LAL vs. GSW W 23 4 2 10 20.0 0 2 0.0 0 0 - 0 3 3 0 0 0 2 0 10
+p665
+aVRobert Horry LAL 12/16/2001 LAL vs. GSW W 20 6 1 4 25.0 0 2 0.0 4 6 66.7 2 4 6 0 1 1 1 2 9
+p666
+aVSamaki Walker LAL 12/16/2001 LAL vs. GSW W 18 8 3 6 50.0 0 0 - 2 3 66.7 2 4 6 1 0 0 0 1 0
+p667
+aVRick Fox LAL 12/16/2001 LAL vs. GSW W 24 8 3 8 37.5 1 3 33.3 1 2 50.0 1 5 6 5 2 0 1 3 20
+p668
+aVLindsey Hunter LAL 12/16/2001 LAL vs. GSW W 20 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 2 1 1 1 -1
+p669
+aVMark Madsen LAL 12/16/2001 LAL vs. GSW W 4 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 3 0
+p670
+aVKobe Bryant LAL 12/16/2001 LAL vs. GSW W 32 28 10 12 83.3 0 1 0.0 8 9 88.9 0 5 5 3 2 1 1 2 13
+p671
+aVDevean George LAL 12/16/2001 LAL vs. GSW W 29 13 4 11 36.4 0 2 0.0 5 6 83.3 2 4 6 4 1 0 0 5 2
+p672
+aVMitch Richmond LAL 12/16/2001 LAL vs. GSW W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 12
+p673
+aVBrian Shaw LAL 12/16/2001 LAL vs. GSW W 6 6 2 3 66.7 2 3 66.7 0 0 - 0 0 0 2 0 0 0 1 -1
+p674
+aVShaquille O'Neal LAL 12/16/2001 LAL vs. GSW W 40 20 9 17 52.9 0 0 - 2 4 50.0 1 6 7 6 0 2 2 3 20
+p675
+aVDevean George LAL 12/14/2001 LAL vs. LAC W 21 6 3 6 50.0 0 0 - 0 0 - 1 6 7 4 0 0 0 4 17
+p676
+aVKobe Bryant LAL 12/14/2001 LAL vs. LAC W 38 25 9 18 50.0 0 1 0.0 7 7 100.0 0 4 4 7 3 2 3 3 18
+p677
+aVMark Madsen LAL 12/14/2001 LAL vs. LAC W 9 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 1 0 2 -2
+p678
+aVBrian Shaw LAL 12/14/2001 LAL vs. LAC W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 4 4 2 0 0 0 0 11
+p679
+aVDerek Fisher LAL 12/14/2001 LAL vs. LAC W 23 7 2 7 28.6 1 2 50.0 2 2 100.0 0 1 1 1 2 1 0 1 7
+p680
+aVShaquille O'Neal LAL 12/14/2001 LAL vs. LAC W 35 28 12 22 54.5 0 0 - 4 7 57.1 5 10 15 4 2 1 3 3 31
+p681
+aVLindsey Hunter LAL 12/14/2001 LAL vs. LAC W 24 2 1 4 25.0 0 0 - 0 0 - 0 3 3 1 1 0 0 1 23
+p682
+aVSamaki Walker LAL 12/14/2001 LAL vs. LAC W 27 4 2 6 33.3 0 0 - 0 1 0.0 0 5 5 0 0 0 0 4 -9
+p683
+aVMitch Richmond LAL 12/14/2001 LAL vs. LAC W 8 10 4 5 80.0 0 1 0.0 2 2 100.0 0 2 2 0 1 0 2 1 6
+p684
+aVRobert Horry LAL 12/14/2001 LAL vs. LAC W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 6
+p685
+aVRick Fox LAL 12/14/2001 LAL vs. LAC W 24 5 2 7 28.6 1 3 33.3 0 0 - 1 4 5 1 0 0 1 3 8
+p686
+aVSlava Medvedenko LAL 12/14/2001 LAL vs. LAC W 19 18 6 8 75.0 0 0 - 6 7 85.7 4 3 7 3 1 1 0 5 34
+p687
+aVShaquille O'Neal LAL 12/11/2001 LAL vs. SEA L 42 37 18 27 66.7 0 0 - 1 7 14.3 7 9 16 3 0 6 2 2 2
+p688
+aVBrian Shaw LAL 12/11/2001 LAL vs. SEA L 16 4 1 2 50.0 1 1 100.0 1 2 50.0 0 3 3 5 2 0 1 3 -2
+p689
+aVDerek Fisher LAL 12/11/2001 LAL vs. SEA L 31 9 3 12 25.0 1 7 14.3 2 2 100.0 1 1 2 8 0 0 0 1 -8
+p690
+aVSamaki Walker LAL 12/11/2001 LAL vs. SEA L 19 5 2 3 66.7 0 0 - 1 3 33.3 0 0 0 0 1 2 1 4 -5
+p691
+aVRick Fox LAL 12/11/2001 LAL vs. SEA L 30 6 2 5 40.0 2 4 50.0 0 0 - 0 4 4 3 1 0 0 4 3
+p692
+aVDevean George LAL 12/11/2001 LAL vs. SEA L 17 0 0 2 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 0 -9
+p693
+aVKobe Bryant LAL 12/11/2001 LAL vs. SEA L 38 16 7 23 30.4 0 3 0.0 2 3 66.7 1 2 3 1 0 0 1 5 -14
+p694
+aVLindsey Hunter LAL 12/11/2001 LAL vs. SEA L 14 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 0 0 0 3 1 -3
+p695
+aVRobert Horry LAL 12/11/2001 LAL vs. SEA L 22 4 1 6 16.7 0 2 0.0 2 4 50.0 5 1 6 2 2 1 1 2 -18
+p696
+aVSlava Medvedenko LAL 12/11/2001 LAL vs. SEA L 12 10 5 5 100.0 0 0 - 0 0 - 2 3 5 1 1 0 0 3 -1
+p697
+aVLindsey Hunter LAL 12/07/2001 LAL @ SAC L 18 2 1 7 14.3 0 2 0.0 0 0 - 1 1 2 0 0 0 0 1 -10
+p698
+aVDevean George LAL 12/07/2001 LAL @ SAC L 19 8 4 9 44.4 0 1 0.0 0 0 - 2 2 4 2 1 0 0 5 9
+p699
+aVRick Fox LAL 12/07/2001 LAL @ SAC L 38 7 2 8 25.0 1 5 20.0 2 2 100.0 3 2 5 3 1 0 2 4 -4
+p700
+aVRobert Horry LAL 12/07/2001 LAL @ SAC L 25 3 1 1 100.0 0 0 - 1 2 50.0 4 3 7 3 1 0 1 5 0
+p701
+aVSamaki Walker LAL 12/07/2001 LAL @ SAC L 21 4 2 5 40.0 0 0 - 0 0 - 1 6 7 0 0 3 1 3 -14
+p702
+aVShaquille O'Neal LAL 12/07/2001 LAL @ SAC L 43 31 14 23 60.9 0 0 - 3 11 27.3 3 13 16 5 2 2 3 2 -4
+p703
+aVKobe Bryant LAL 12/07/2001 LAL @ SAC L 41 23 9 23 39.1 0 4 0.0 5 5 100.0 2 4 6 3 0 0 2 3 -7
+p704
+aVDerek Fisher LAL 12/07/2001 LAL @ SAC L 30 13 3 12 25.0 3 7 42.9 4 4 100.0 0 2 2 2 1 0 0 5 4
+p705
+aVMitch Richmond LAL 12/07/2001 LAL @ SAC L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p706
+aVBrian Shaw LAL 12/05/2001 LAL vs. DAL W 8 2 1 2 50.0 0 1 0.0 0 2 0.0 0 1 1 1 0 1 1 0 0
+p707
+aVMitch Richmond LAL 12/05/2001 LAL vs. DAL W 6 2 0 4 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p708
+aVDevean George LAL 12/05/2001 LAL vs. DAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -4
+p709
+aVKobe Bryant LAL 12/05/2001 LAL vs. DAL W 42 19 9 23 39.1 0 2 0.0 1 2 50.0 2 7 9 5 3 0 4 1 6
+p710
+aVLindsey Hunter LAL 12/05/2001 LAL vs. DAL W 22 5 2 6 33.3 1 3 33.3 0 2 0.0 1 2 3 1 1 0 1 1 0
+p711
+aVMark Madsen LAL 12/05/2001 LAL vs. DAL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p712
+aVSlava Medvedenko LAL 12/05/2001 LAL vs. DAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p713
+aVShaquille O'Neal LAL 12/05/2001 LAL vs. DAL W 40 46 18 23 78.3 0 0 - 10 22 45.5 6 9 15 2 1 1 3 4 8
+p714
+aVRobert Horry LAL 12/05/2001 LAL vs. DAL W 30 6 2 11 18.2 0 3 0.0 2 2 100.0 7 6 13 4 1 2 0 4 6
+p715
+aVSamaki Walker LAL 12/05/2001 LAL vs. DAL W 22 5 2 4 50.0 0 0 - 1 1 100.0 0 2 2 1 1 1 0 2 -3
+p716
+aVRick Fox LAL 12/05/2001 LAL vs. DAL W 35 8 1 8 12.5 1 5 20.0 5 6 83.3 1 5 6 6 0 0 2 3 12
+p717
+aVDerek Fisher LAL 12/05/2001 LAL vs. DAL W 24 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 3 0 0 0 3 2
+p718
+aVLindsey Hunter LAL 12/01/2001 LAL vs. MIN W 24 13 5 12 41.7 3 8 37.5 0 0 - 0 2 2 2 2 0 0 0 18
+p719
+aVShaquille O'Neal LAL 12/01/2001 LAL vs. MIN W 32 23 9 14 64.3 0 0 - 5 7 71.4 1 8 9 5 1 2 1 3 18
+p720
+aVDerek Fisher LAL 12/01/2001 LAL vs. MIN W 24 9 4 8 50.0 1 4 25.0 0 0 - 1 2 3 1 0 0 1 1 8
+p721
+aVRick Fox LAL 12/01/2001 LAL vs. MIN W 24 6 2 6 33.3 2 5 40.0 0 0 - 0 6 6 5 3 0 3 2 18
+p722
+aVMitch Richmond LAL 12/01/2001 LAL vs. MIN W 16 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 10
+p723
+aVSlava Medvedenko LAL 12/01/2001 LAL vs. MIN W 8 0 0 6 0.0 0 0 - 0 0 - 2 3 5 0 1 0 2 1 9
+p724
+aVRobert Horry LAL 12/01/2001 LAL vs. MIN W 22 4 1 4 25.0 0 2 0.0 2 2 100.0 2 3 5 3 0 1 1 4 8
+p725
+aVMark Madsen LAL 12/01/2001 LAL vs. MIN W 5 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 0 5
+p726
+aVDevean George LAL 12/01/2001 LAL vs. MIN W 24 12 4 7 57.1 0 1 0.0 4 4 100.0 0 2 2 1 2 4 1 0 8
+p727
+aVBrian Shaw LAL 12/01/2001 LAL vs. MIN W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 5
+p728
+aVKobe Bryant LAL 12/01/2001 LAL vs. MIN W 27 18 6 15 40.0 1 1 100.0 5 6 83.3 0 3 3 5 2 0 0 1 11
+p729
+aVSamaki Walker LAL 12/01/2001 LAL vs. MIN W 29 4 2 8 25.0 0 0 - 0 0 - 2 6 8 1 0 3 0 1 12
+p730
+aVDerek Fisher LAL 11/30/2001 LAL @ SEA W 24 14 5 8 62.5 1 1 100.0 3 3 100.0 0 2 2 2 2 0 1 0 11
+p731
+aVShaquille O'Neal LAL 11/30/2001 LAL @ SEA W 10 8 3 5 60.0 0 0 - 2 6 33.3 1 2 3 2 0 0 1 0 0
+p732
+aVMitch Richmond LAL 11/30/2001 LAL @ SEA W 14 6 3 5 60.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -7
+p733
+aVBrian Shaw LAL 11/30/2001 LAL @ SEA W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p734
+aVLindsey Hunter LAL 11/30/2001 LAL @ SEA W 19 12 5 9 55.6 2 3 66.7 0 0 - 0 0 0 2 1 0 0 0 7
+p735
+aVRick Fox LAL 11/30/2001 LAL @ SEA W 25 5 1 4 25.0 1 1 100.0 2 2 100.0 1 4 5 3 1 1 0 4 4
+p736
+aVSamaki Walker LAL 11/30/2001 LAL @ SEA W 26 10 4 7 57.1 0 0 - 2 4 50.0 0 4 4 0 0 2 0 2 2
+p737
+aVDevean George LAL 11/30/2001 LAL @ SEA W 23 7 3 8 37.5 0 2 0.0 1 1 100.0 2 3 5 1 1 0 0 4 11
+p738
+aVRobert Horry LAL 11/30/2001 LAL @ SEA W 26 5 2 4 50.0 1 2 50.0 0 0 - 1 3 4 8 1 2 1 1 14
+p739
+aVSlava Medvedenko LAL 11/30/2001 LAL @ SEA W 24 6 3 8 37.5 0 0 - 0 0 - 3 4 7 2 0 0 1 2 11
+p740
+aVMark Madsen LAL 11/30/2001 LAL @ SEA W 10 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 0 3 3
+p741
+aVKobe Bryant LAL 11/30/2001 LAL @ SEA W 34 30 10 19 52.6 0 4 0.0 10 11 90.9 1 2 3 3 1 0 3 4 22
+p742
+aVSamaki Walker LAL 11/27/2001 LAL vs. MIL W 27 6 3 6 50.0 0 0 - 0 0 - 3 8 11 1 0 2 1 2 3
+p743
+aVLindsey Hunter LAL 11/27/2001 LAL vs. MIL W 20 5 2 8 25.0 1 6 16.7 0 0 - 1 1 2 2 0 0 1 0 -6
+p744
+aVRick Fox LAL 11/27/2001 LAL vs. MIL W 24 7 2 7 28.6 1 5 20.0 2 2 100.0 5 1 6 3 0 1 0 2 -2
+p745
+aVRobert Horry LAL 11/27/2001 LAL vs. MIL W 29 13 5 11 45.5 2 3 66.7 1 2 50.0 3 5 8 1 0 3 1 2 12
+p746
+aVDerek Fisher LAL 11/27/2001 LAL vs. MIL W 28 6 2 11 18.2 2 11 18.2 0 0 - 0 2 2 3 3 0 1 0 25
+p747
+aVShaquille O'Neal LAL 11/27/2001 LAL vs. MIL W 33 19 7 14 50.0 0 0 - 5 11 45.5 4 5 9 5 0 3 3 4 15
+p748
+aVKobe Bryant LAL 11/27/2001 LAL vs. MIL W 39 33 11 23 47.8 3 4 75.0 8 10 80.0 4 4 8 4 1 1 1 4 14
+p749
+aVBrian Shaw LAL 11/27/2001 LAL vs. MIL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p750
+aVSlava Medvedenko LAL 11/27/2001 LAL vs. MIL W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 3
+p751
+aVMitch Richmond LAL 11/27/2001 LAL vs. MIL W 6 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 2
+p752
+aVMark Madsen LAL 11/27/2001 LAL vs. MIL W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p753
+aVDevean George LAL 11/27/2001 LAL vs. MIL W 25 9 3 6 50.0 1 2 50.0 2 4 50.0 3 6 9 1 1 2 1 2 23
+p754
+aVRobert Horry LAL 11/25/2001 LAL vs. DEN W 23 5 2 3 66.7 1 1 100.0 0 0 - 1 0 1 2 1 1 1 2 15
+p755
+aVLindsey Hunter LAL 11/25/2001 LAL vs. DEN W 25 7 3 8 37.5 1 4 25.0 0 0 - 0 3 3 5 1 0 2 3 -10
+p756
+aVShaquille O'Neal LAL 11/25/2001 LAL vs. DEN W 36 22 9 14 64.3 0 0 - 4 13 30.8 3 3 6 5 0 6 3 0 5
+p757
+aVRick Fox LAL 11/25/2001 LAL vs. DEN W 24 11 4 5 80.0 3 4 75.0 0 0 - 1 2 3 2 0 0 2 1 -7
+p758
+aVMark Madsen LAL 11/25/2001 LAL vs. DEN W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 2
+p759
+aVKobe Bryant LAL 11/25/2001 LAL vs. DEN W 40 25 10 19 52.6 0 1 0.0 5 7 71.4 0 7 7 7 2 0 1 1 7
+p760
+aVMitch Richmond LAL 11/25/2001 LAL vs. DEN W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 2
+p761
+aVDevean George LAL 11/25/2001 LAL vs. DEN W 21 12 4 12 33.3 1 4 25.0 3 3 100.0 3 2 5 3 1 0 0 0 17
+p762
+aVDerek Fisher LAL 11/25/2001 LAL vs. DEN W 20 14 5 8 62.5 4 4 100.0 0 0 - 1 2 3 1 0 0 2 1 12
+p763
+aVSamaki Walker LAL 11/25/2001 LAL vs. DEN W 31 7 3 5 60.0 0 0 - 1 1 100.0 2 3 5 0 1 2 0 0 -8
+p764
+aVShaquille O'Neal LAL 11/23/2001 LAL vs. GSW W 26 20 9 15 60.0 0 0 - 2 4 50.0 1 9 10 1 0 2 3 3 21
+p765
+aVKobe Bryant LAL 11/23/2001 LAL vs. GSW W 27 28 11 14 78.6 0 1 0.0 6 6 100.0 2 1 3 3 2 0 1 4 10
+p766
+aVJoe Crispin LAL 11/23/2001 LAL vs. GSW W 6 5 1 4 25.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 0 -4
+p767
+aVRobert Horry LAL 11/23/2001 LAL vs. GSW W 16 0 0 1 0.0 0 1 0.0 0 0 - 3 2 5 2 0 2 2 2 7
+p768
+aVSamaki Walker LAL 11/23/2001 LAL vs. GSW W 27 7 2 7 28.6 0 0 - 3 4 75.0 0 4 4 2 1 1 2 3 16
+p769
+aVDevean George LAL 11/23/2001 LAL vs. GSW W 24 8 4 8 50.0 0 1 0.0 0 0 - 1 2 3 1 0 0 2 2 -6
+p770
+aVMitch Richmond LAL 11/23/2001 LAL vs. GSW W 21 8 2 5 40.0 0 0 - 4 4 100.0 1 1 2 1 2 1 0 1 7
+p771
+aVRick Fox LAL 11/23/2001 LAL vs. GSW W 24 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 5 1 0 2 3 22
+p772
+aVSlava Medvedenko LAL 11/23/2001 LAL vs. GSW W 12 8 3 8 37.5 0 0 - 2 2 100.0 2 0 2 0 0 0 2 1 -5
+p773
+aVLindsey Hunter LAL 11/23/2001 LAL vs. GSW W 23 7 3 7 42.9 1 3 33.3 0 0 - 1 2 3 1 3 0 1 1 18
+p774
+aVBrian Shaw LAL 11/23/2001 LAL vs. GSW W 20 6 2 3 66.7 0 0 - 2 2 100.0 1 0 1 3 1 1 0 1 1
+p775
+aVJelani McCoy LAL 11/23/2001 LAL vs. GSW W 15 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 0 1 1 3 -7
+p776
+aVSamaki Walker LAL 11/21/2001 LAL @ DEN W 25 2 1 3 33.3 0 0 - 0 2 0.0 1 7 8 0 0 0 2 2 14
+p777
+aVMitch Richmond LAL 11/21/2001 LAL @ DEN W 20 13 4 9 44.4 1 1 100.0 4 4 100.0 0 1 1 3 0 0 1 1 19
+p778
+aVKobe Bryant LAL 11/21/2001 LAL @ DEN W 37 24 9 15 60.0 1 2 50.0 5 6 83.3 3 10 13 7 2 0 4 4 15
+p779
+aVSlava Medvedenko LAL 11/21/2001 LAL @ DEN W 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p780
+aVRick Fox LAL 11/21/2001 LAL @ DEN W 30 8 3 3 100.0 2 2 100.0 0 2 0.0 1 6 7 2 0 0 2 1 8
+p781
+aVJelani McCoy LAL 11/21/2001 LAL @ DEN W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p782
+aVDevean George LAL 11/21/2001 LAL @ DEN W 24 5 2 8 25.0 0 1 0.0 1 2 50.0 2 2 4 3 0 4 1 1 10
+p783
+aVRobert Horry LAL 11/21/2001 LAL @ DEN W 21 8 3 5 60.0 2 4 50.0 0 0 - 0 4 4 1 0 2 1 2 15
+p784
+aVShaquille O'Neal LAL 11/21/2001 LAL @ DEN W 34 10 4 11 36.4 0 0 - 2 9 22.2 6 7 13 6 2 0 1 0 22
+p785
+aVBrian Shaw LAL 11/21/2001 LAL @ DEN W 12 4 2 7 28.6 0 0 - 0 0 - 3 4 7 0 1 0 0 1 12
+p786
+aVJoe Crispin LAL 11/21/2001 LAL @ DEN W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p787
+aVLindsey Hunter LAL 11/21/2001 LAL @ DEN W 20 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 4 1 0 1 2 3
+p788
+aVBrian Shaw LAL 11/20/2001 LAL @ LAC W 8 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 4
+p789
+aVRobert Horry LAL 11/20/2001 LAL @ LAC W 21 6 2 7 28.6 1 2 50.0 1 1 100.0 2 4 6 3 1 1 0 2 1
+p790
+aVLindsey Hunter LAL 11/20/2001 LAL @ LAC W 35 2 1 8 12.5 0 2 0.0 0 6 0.0 0 2 2 3 2 0 0 0 2
+p791
+aVJoe Crispin LAL 11/20/2001 LAL @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p792
+aVMitch Richmond LAL 11/20/2001 LAL @ LAC W 10 4 2 6 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p793
+aVShaquille O'Neal LAL 11/20/2001 LAL @ LAC W 35 22 10 17 58.8 0 0 - 2 6 33.3 5 6 11 4 0 3 4 5 2
+p794
+aVKobe Bryant LAL 11/20/2001 LAL @ LAC W 42 25 7 14 50.0 3 3 100.0 8 10 80.0 0 4 4 12 3 1 4 2 3
+p795
+aVSamaki Walker LAL 11/20/2001 LAL @ LAC W 30 13 6 11 54.5 0 0 - 1 2 50.0 1 6 7 1 0 3 2 5 7
+p796
+aVDevean George LAL 11/20/2001 LAL @ LAC W 20 10 3 9 33.3 0 2 0.0 4 4 100.0 1 1 2 0 2 1 1 3 -7
+p797
+aVSlava Medvedenko LAL 11/20/2001 LAL @ LAC W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 1 2 3 -2
+p798
+aVRick Fox LAL 11/20/2001 LAL @ LAC W 28 10 4 8 50.0 2 4 50.0 0 0 - 0 4 4 3 0 0 1 1 12
+p799
+aVDevean George LAL 11/18/2001 LAL vs. SAC W 18 4 1 6 16.7 0 1 0.0 2 2 100.0 0 4 4 1 0 2 1 1 10
+p800
+aVKobe Bryant LAL 11/18/2001 LAL vs. SAC W 42 29 10 19 52.6 0 0 - 9 10 90.0 2 3 5 8 1 0 4 3 7
+p801
+aVShaquille O'Neal LAL 11/18/2001 LAL vs. SAC W 43 28 12 21 57.1 0 0 - 4 9 44.4 8 7 15 3 2 2 2 2 15
+p802
+aVBrian Shaw LAL 11/18/2001 LAL vs. SAC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 0 -2
+p803
+aVMitch Richmond LAL 11/18/2001 LAL vs. SAC W 11 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 11
+p804
+aVRobert Horry LAL 11/18/2001 LAL vs. SAC W 12 0 0 4 0.0 0 3 0.0 0 0 - 2 2 4 1 0 0 1 2 -10
+p805
+aVLindsey Hunter LAL 11/18/2001 LAL vs. SAC W 31 10 4 9 44.4 2 3 66.7 0 0 - 0 3 3 1 0 0 1 3 9
+p806
+aVJoe Crispin LAL 11/18/2001 LAL vs. SAC W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p807
+aVSlava Medvedenko LAL 11/18/2001 LAL vs. SAC W 10 4 2 4 50.0 0 1 0.0 0 0 - 2 1 3 1 0 0 0 2 7
+p808
+aVRick Fox LAL 11/18/2001 LAL vs. SAC W 41 16 6 14 42.9 1 3 33.3 3 3 100.0 1 8 9 7 3 0 0 4 10
+p809
+aVSamaki Walker LAL 11/18/2001 LAL vs. SAC W 20 0 0 6 0.0 0 0 - 0 0 - 4 6 10 1 0 0 1 2 -8
+p810
+aVRick Fox LAL 11/16/2001 LAL @ PHX L 22 0 0 3 0.0 0 2 0.0 0 0 - 1 1 2 1 0 0 2 1 -12
+p811
+aVBrian Shaw LAL 11/16/2001 LAL @ PHX L 15 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 2 1 0 1 2 -4
+p812
+aVJoe Crispin LAL 11/16/2001 LAL @ PHX L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 4
+p813
+aVDevean George LAL 11/16/2001 LAL @ PHX L 21 1 0 3 0.0 0 3 0.0 1 2 50.0 1 4 5 0 0 1 1 1 1
+p814
+aVRobert Horry LAL 11/16/2001 LAL @ PHX L 29 11 4 7 57.1 2 5 40.0 1 2 50.0 2 1 3 1 1 3 3 3 -2
+p815
+aVShaquille O'Neal LAL 11/16/2001 LAL @ PHX L 36 28 10 19 52.6 0 1 0.0 8 18 44.4 6 6 12 2 1 1 4 5 -13
+p816
+aVSlava Medvedenko LAL 11/16/2001 LAL @ PHX L 9 2 1 3 33.3 0 0 - 0 0 - 1 0 1 2 0 0 0 1 7
+p817
+aVLindsey Hunter LAL 11/16/2001 LAL @ PHX L 33 13 5 10 50.0 3 6 50.0 0 0 - 0 0 0 0 2 0 0 2 -5
+p818
+aVMitch Richmond LAL 11/16/2001 LAL @ PHX L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 4 4 0 0 0 0 0 -2
+p819
+aVSamaki Walker LAL 11/16/2001 LAL @ PHX L 20 4 2 4 50.0 0 0 - 0 0 - 0 5 5 0 0 0 2 2 -16
+p820
+aVKobe Bryant LAL 11/16/2001 LAL @ PHX L 42 18 5 15 33.3 1 3 33.3 7 8 87.5 1 2 3 5 2 0 2 2 -18
+p821
+aVRobert Horry LAL 11/15/2001 LAL @ HOU W 29 6 2 5 40.0 1 4 25.0 1 2 50.0 1 4 5 0 0 0 0 5 -8
+p822
+aVLindsey Hunter LAL 11/15/2001 LAL @ HOU W 44 7 3 9 33.3 1 3 33.3 0 2 0.0 0 1 1 4 5 0 1 4 3
+p823
+aVKobe Bryant LAL 11/15/2001 LAL @ HOU W 49 31 13 27 48.1 0 2 0.0 5 5 100.0 2 1 3 5 1 0 2 3 -3
+p824
+aVShaquille O'Neal LAL 11/15/2001 LAL @ HOU W 43 30 13 24 54.2 0 0 - 4 7 57.1 4 9 13 2 1 2 1 3 -2
+p825
+aVBrian Shaw LAL 11/15/2001 LAL @ HOU W 11 0 0 3 0.0 0 1 0.0 0 0 - 2 0 2 0 0 0 1 0 2
+p826
+aVSamaki Walker LAL 11/15/2001 LAL @ HOU W 25 14 7 9 77.8 0 0 - 0 0 - 2 3 5 1 1 3 1 2 16
+p827
+aVMitch Richmond LAL 11/15/2001 LAL @ HOU W 3 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p828
+aVRick Fox LAL 11/15/2001 LAL @ HOU W 45 8 2 9 22.2 2 4 50.0 2 2 100.0 2 5 7 6 1 0 0 2 1
+p829
+aVDevean George LAL 11/15/2001 LAL @ HOU W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 5 5 0 0 0 1 2 1
+p830
+aVRick Fox LAL 11/11/2001 LAL vs. ORL W 23 4 1 8 12.5 0 2 0.0 2 2 100.0 0 3 3 4 2 1 3 4 8
+p831
+aVSamaki Walker LAL 11/11/2001 LAL vs. ORL W 16 2 0 0 - 0 0 - 2 2 100.0 2 3 5 1 0 2 0 4 4
+p832
+aVSlava Medvedenko LAL 11/11/2001 LAL vs. ORL W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p833
+aVLindsey Hunter LAL 11/11/2001 LAL vs. ORL W 36 5 2 8 25.0 1 5 20.0 0 2 0.0 1 2 3 3 1 0 1 3 19
+p834
+aVMitch Richmond LAL 11/11/2001 LAL vs. ORL W 8 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 1 -3
+p835
+aVJelani McCoy LAL 11/11/2001 LAL vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p836
+aVShaquille O'Neal LAL 11/11/2001 LAL vs. ORL W 42 38 16 30 53.3 0 0 - 6 14 42.9 7 11 18 2 1 4 4 3 12
+p837
+aVBrian Shaw LAL 11/11/2001 LAL vs. ORL W 13 4 2 6 33.3 0 2 0.0 0 0 - 1 4 5 0 0 0 1 0 -4
+p838
+aVJoe Crispin LAL 11/11/2001 LAL vs. ORL W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 1 0 0 0 -4
+p839
+aVDevean George LAL 11/11/2001 LAL vs. ORL W 29 10 4 8 50.0 1 3 33.3 1 2 50.0 1 2 3 0 2 1 0 3 15
+p840
+aVRobert Horry LAL 11/11/2001 LAL vs. ORL W 35 10 2 4 50.0 2 3 66.7 4 7 57.1 3 6 9 5 0 0 1 5 15
+p841
+aVKobe Bryant LAL 11/11/2001 LAL vs. ORL W 33 28 8 13 61.5 0 0 - 12 14 85.7 2 3 5 8 1 1 4 6 6
+p842
+aVMike Penberthy LAL 11/09/2001 LAL vs. MEM W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -8
+p843
+aVBrian Shaw LAL 11/09/2001 LAL vs. MEM W 14 3 1 4 25.0 0 2 0.0 1 2 50.0 2 4 6 1 0 0 4 1 -4
+p844
+aVMitch Richmond LAL 11/09/2001 LAL vs. MEM W 17 11 4 7 57.1 0 2 0.0 3 4 75.0 1 4 5 1 0 0 2 2 1
+p845
+aVSlava Medvedenko LAL 11/09/2001 LAL vs. MEM W 23 17 8 12 66.7 0 0 - 1 3 33.3 3 3 6 1 1 2 1 5 11
+p846
+aVShaquille O'Neal LAL 11/09/2001 LAL vs. MEM W 28 20 8 15 53.3 0 0 - 4 6 66.7 3 5 8 1 0 2 1 1 23
+p847
+aVLindsey Hunter LAL 11/09/2001 LAL vs. MEM W 26 16 7 11 63.6 2 3 66.7 0 0 - 0 2 2 3 2 0 2 1 30
+p848
+aVRick Fox LAL 11/09/2001 LAL vs. MEM W 29 11 5 9 55.6 1 2 50.0 0 0 - 1 4 5 6 0 1 3 2 24
+p849
+aVRobert Horry LAL 11/09/2001 LAL vs. MEM W 20 8 3 6 50.0 2 4 50.0 0 0 - 0 3 3 4 1 0 0 2 11
+p850
+aVSamaki Walker LAL 11/09/2001 LAL vs. MEM W 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 2 1 3 3 11
+p851
+aVJelani McCoy LAL 11/09/2001 LAL vs. MEM W 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 2 0 0 1 1 -8
+p852
+aVDevean George LAL 11/09/2001 LAL vs. MEM W 19 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 3 1 1 0 0 0
+p853
+aVKobe Bryant LAL 11/09/2001 LAL vs. MEM W 33 13 5 15 33.3 1 2 50.0 2 2 100.0 1 5 6 7 5 3 2 0 29
+p854
+aVKobe Bryant LAL 11/04/2001 LAL vs. UTA W 44 38 13 21 61.9 0 0 - 12 15 80.0 1 5 6 7 3 1 5 5 3
+p855
+aVMike Penberthy LAL 11/04/2001 LAL vs. UTA W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 0 1
+p856
+aVDevean George LAL 11/04/2001 LAL vs. UTA W 24 3 1 3 33.3 0 1 0.0 1 2 50.0 0 1 1 0 0 1 0 3 10
+p857
+aVMitch Richmond LAL 11/04/2001 LAL vs. UTA W 14 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 2 0 0 0 2 2
+p858
+aVLindsey Hunter LAL 11/04/2001 LAL vs. UTA W 37 16 7 15 46.7 2 5 40.0 0 0 - 0 0 0 1 3 0 1 3 6
+p859
+aVRick Fox LAL 11/04/2001 LAL vs. UTA W 24 0 0 3 0.0 0 2 0.0 0 0 - 0 5 5 3 0 1 2 3 -5
+p860
+aVShaquille O'Neal LAL 11/04/2001 LAL vs. UTA W 41 30 10 15 66.7 0 0 - 10 18 55.6 2 6 8 4 2 2 6 5 1
+p861
+aVRobert Horry LAL 11/04/2001 LAL vs. UTA W 33 5 1 6 16.7 0 3 0.0 3 4 75.0 1 2 3 2 3 1 2 4 7
+p862
+aVSamaki Walker LAL 11/04/2001 LAL vs. UTA W 16 2 1 1 100.0 0 0 - 0 0 - 1 4 5 2 2 2 2 2 -7
+p863
+aVSlava Medvedenko LAL 11/04/2001 LAL vs. UTA W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 2
+p864
+aVJelani McCoy LAL 11/02/2001 LAL vs. PHX W 5 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 5
+p865
+aVSlava Medvedenko LAL 11/02/2001 LAL vs. PHX W 13 4 2 4 50.0 0 0 - 0 2 0.0 0 2 2 1 0 0 1 0 14
+p866
+aVDevean George LAL 11/02/2001 LAL vs. PHX W 21 11 5 7 71.4 1 3 33.3 0 0 - 1 1 2 0 2 1 1 2 16
+p867
+aVMike Penberthy LAL 11/02/2001 LAL vs. PHX W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 2 0 0 0 5
+p868
+aVKobe Bryant LAL 11/02/2001 LAL vs. PHX W 38 24 9 14 64.3 0 0 - 6 7 85.7 3 3 6 9 2 1 7 4 19
+p869
+aVSamaki Walker LAL 11/02/2001 LAL vs. PHX W 16 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 -1
+p870
+aVRick Fox LAL 11/02/2001 LAL vs. PHX W 27 9 4 7 57.1 1 4 25.0 0 0 - 0 8 8 3 1 1 1 2 7
+p871
+aVLindsey Hunter LAL 11/02/2001 LAL vs. PHX W 32 13 4 9 44.4 2 3 66.7 3 7 42.9 0 3 3 2 1 0 1 1 16
+p872
+aVShaquille O'Neal LAL 11/02/2001 LAL vs. PHX W 34 36 10 21 47.6 0 0 - 16 18 88.9 4 9 13 2 0 6 2 3 21
+p873
+aVRobert Horry LAL 11/02/2001 LAL vs. PHX W 28 4 1 2 50.0 0 1 0.0 2 2 100.0 0 3 3 3 3 1 0 3 7
+p874
+aVMitch Richmond LAL 11/02/2001 LAL vs. PHX W 23 8 3 4 75.0 0 1 0.0 2 2 100.0 0 3 3 2 1 1 2 2 6
+p875
+aVKobe Bryant LAL 11/01/2001 LAL @ UTA W 43 39 11 22 50.0 1 3 33.3 16 19 84.2 1 5 6 8 3 1 2 3 7
+p876
+aVRobert Horry LAL 11/01/2001 LAL @ UTA W 27 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 2 1 2 3 5 -8
+p877
+aVShaquille O'Neal LAL 11/01/2001 LAL @ UTA W 38 31 11 22 50.0 0 0 - 9 14 64.3 3 3 6 2 1 3 3 6 14
+p878
+aVSlava Medvedenko LAL 11/01/2001 LAL @ UTA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p879
+aVRick Fox LAL 11/01/2001 LAL @ UTA W 38 7 3 7 42.9 1 3 33.3 0 0 - 3 5 8 3 1 0 2 4 -5
+p880
+aVLindsey Hunter LAL 11/01/2001 LAL @ UTA W 41 13 4 13 30.8 3 6 50.0 2 2 100.0 1 3 4 6 0 1 2 4 14
+p881
+aVDevean George LAL 11/01/2001 LAL @ UTA W 14 8 2 4 50.0 1 2 50.0 3 4 75.0 1 3 4 0 2 0 1 4 13
+p882
+aVSamaki Walker LAL 11/01/2001 LAL @ UTA W 21 4 1 1 100.0 0 0 - 2 2 100.0 1 4 5 1 0 1 1 2 -1
+p883
+aVJelani McCoy LAL 11/01/2001 LAL @ UTA W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -1
+p884
+aVMitch Richmond LAL 11/01/2001 LAL @ UTA W 13 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -10
+p885
+aVMitch Richmond LAL 10/30/2001 LAL vs. POR W 19 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 1 0 0 2 3 10
+p886
+aVRick Fox LAL 10/30/2001 LAL vs. POR W 34 9 4 7 57.1 1 4 25.0 0 0 - 1 4 5 2 1 0 3 6 9
+p887
+aVSlava Medvedenko LAL 10/30/2001 LAL vs. POR W 11 5 2 5 40.0 0 0 - 1 3 33.3 0 0 0 0 1 0 0 0 1
+p888
+aVJelani McCoy LAL 10/30/2001 LAL vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p889
+aVDevean George LAL 10/30/2001 LAL vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p890
+aVKobe Bryant LAL 10/30/2001 LAL vs. POR W 43 29 11 24 45.8 1 1 100.0 6 8 75.0 2 5 7 4 3 1 2 0 4
+p891
+aVSamaki Walker LAL 10/30/2001 LAL vs. POR W 15 1 0 0 - 0 0 - 1 2 50.0 0 3 3 1 0 0 1 3 7
+p892
+aVShaquille O'Neal LAL 10/30/2001 LAL vs. POR W 40 29 10 23 43.5 0 0 - 9 16 56.3 5 13 18 5 1 5 3 3 10
+p893
+aVRobert Horry LAL 10/30/2001 LAL vs. POR W 29 10 4 6 66.7 2 3 66.7 0 0 - 2 1 3 2 0 1 0 3 5
+p894
+aVLindsey Hunter LAL 10/30/2001 LAL vs. POR W 32 10 4 8 50.0 2 5 40.0 0 0 - 0 0 0 3 2 0 3 2 0
+p895
+aVBrian Shaw LAL 10/30/2001 LAL vs. POR W 16 0 0 2 0.0 0 1 0.0 0 0 - 0 7 7 4 0 0 1 0 11
+p896
+a.

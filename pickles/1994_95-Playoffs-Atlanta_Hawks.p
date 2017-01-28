@@ -1,0 +1,64 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSteven Smith ATL 05/02/1995 ATL vs. IND L 38 13 4 12 33.3 0 3 0.0 5 6 83.3 0 3 3 2 1 0 1 5 -
+p2
+aVAndrew Lang ATL 05/02/1995 ATL vs. IND L 30 11 3 7 42.9 0 0 - 5 7 71.4 0 2 2 0 1 0 0 5 -
+p3
+aVMookie Blaylock ATL 05/02/1995 ATL vs. IND L 39 20 7 17 41.2 5 13 38.5 1 2 50.0 2 2 4 5 1 0 3 1 -
+p4
+aVTyrone Corbin ATL 05/02/1995 ATL vs. IND L 16 5 2 6 33.3 0 1 0.0 1 1 100.0 0 0 0 0 1 0 0 2 -
+p5
+aVEnnis Whatley ATL 05/02/1995 ATL vs. IND L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p6
+aVStacey Augmon ATL 05/02/1995 ATL vs. IND L 30 14 5 9 55.6 0 0 - 4 6 66.7 2 3 5 4 2 0 2 0 -
+p7
+aVGrant Long ATL 05/02/1995 ATL vs. IND L 34 13 6 12 50.0 0 0 - 1 2 50.0 4 6 10 1 1 0 1 5 -
+p8
+aVKen Norman ATL 05/02/1995 ATL vs. IND L 17 8 3 8 37.5 1 5 20.0 1 2 50.0 0 2 2 1 0 0 3 4 -
+p9
+aVCraig Ehlo ATL 05/02/1995 ATL vs. IND L 9 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -
+p10
+aVGreg Anderson ATL 05/02/1995 ATL vs. IND L 18 3 1 2 50.0 0 0 - 1 2 50.0 1 7 8 2 1 0 0 5 -
+p11
+aVEnnis Whatley ATL 04/29/1995 ATL @ IND L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p12
+aVGrant Long ATL 04/29/1995 ATL @ IND L 36 10 3 5 60.0 0 0 - 4 6 66.7 3 10 13 1 2 0 4 5 -
+p13
+aVAndrew Lang ATL 04/29/1995 ATL @ IND L 34 8 4 9 44.4 0 0 - 0 0 - 2 5 7 1 1 1 2 5 -
+p14
+aVCraig Ehlo ATL 04/29/1995 ATL @ IND L 16 4 0 2 0.0 0 2 0.0 4 4 100.0 0 3 3 1 2 0 1 0 -
+p15
+aVStacey Augmon ATL 04/29/1995 ATL @ IND L 17 7 1 5 20.0 0 0 - 5 6 83.3 0 1 1 1 0 0 0 5 -
+p16
+aVTyrone Corbin ATL 04/29/1995 ATL @ IND L 27 16 5 11 45.5 1 2 50.0 5 6 83.3 3 1 4 1 0 0 0 5 -
+p17
+aVSteven Smith ATL 04/29/1995 ATL @ IND L 36 27 7 18 38.9 3 7 42.9 10 12 83.3 0 0 0 3 2 1 2 4 -
+p18
+aVMookie Blaylock ATL 04/29/1995 ATL @ IND L 40 17 5 13 38.5 4 8 50.0 3 4 75.0 1 2 3 3 3 0 1 1 -
+p19
+aVKen Norman ATL 04/29/1995 ATL @ IND L 15 6 3 8 37.5 0 3 0.0 0 3 0.0 0 1 1 1 0 1 0 6 -
+p20
+aVGreg Anderson ATL 04/29/1995 ATL @ IND L 11 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 3 -
+p21
+aVTyrone Corbin ATL 04/27/1995 ATL @ IND L 36 13 5 9 55.6 1 3 33.3 2 2 100.0 3 3 6 1 1 1 2 3 -
+p22
+aVGreg Anderson ATL 04/27/1995 ATL @ IND L 10 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 1 0 1 -
+p23
+aVGrant Long ATL 04/27/1995 ATL @ IND L 40 18 5 11 45.5 0 1 0.0 8 10 80.0 6 5 11 2 1 1 3 1 -
+p24
+aVCraig Ehlo ATL 04/27/1995 ATL @ IND L 24 3 1 8 12.5 1 3 33.3 0 0 - 0 4 4 1 0 0 2 0 -
+p25
+aVEnnis Whatley ATL 04/27/1995 ATL @ IND L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p26
+aVKen Norman ATL 04/27/1995 ATL @ IND L 10 2 1 2 50.0 0 0 - 0 2 0.0 2 4 6 1 0 0 0 3 -
+p27
+aVSteven Smith ATL 04/27/1995 ATL @ IND L 34 17 6 13 46.2 4 8 50.0 1 1 100.0 1 4 5 1 3 0 0 5 -
+p28
+aVStacey Augmon ATL 04/27/1995 ATL @ IND L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 1 0 0 3 -
+p29
+aVMookie Blaylock ATL 04/27/1995 ATL @ IND L 42 17 6 19 31.6 2 7 28.6 3 5 60.0 4 2 6 9 0 0 5 4 -
+p30
+aVAndrew Lang ATL 04/27/1995 ATL @ IND L 37 12 5 12 41.7 0 0 - 2 2 100.0 1 2 3 0 0 1 4 2 -
+p31
+a.

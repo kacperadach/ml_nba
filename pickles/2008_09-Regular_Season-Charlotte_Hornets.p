@@ -1,0 +1,1708 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSean May CHA 04/15/2009 CHA @ ORL L 17 2 1 7 14.3 0 0 - 0 1 0.0 2 6 8 1 0 2 1 1 -8
+p2
+aVCartier Martin CHA 04/15/2009 CHA @ ORL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p3
+aVDeSagana Diop CHA 04/15/2009 CHA @ ORL L 19 4 2 7 28.6 0 0 - 0 1 0.0 2 2 4 0 0 0 0 3 -9
+p4
+aVRaymond Felton CHA 04/15/2009 CHA @ ORL L 26 13 2 7 28.6 0 2 0.0 9 11 81.8 0 2 2 2 0 0 1 1 -15
+p5
+aVVladimir Radmanovic CHA 04/15/2009 CHA @ ORL L 16 3 1 4 25.0 0 2 0.0 1 2 50.0 0 3 3 2 1 0 3 3 -9
+p6
+aVDontell Jefferson CHA 04/15/2009 CHA @ ORL L 29 10 3 5 60.0 1 1 100.0 3 3 100.0 1 4 5 4 2 0 1 0 -8
+p7
+aVBoris Diaw CHA 04/15/2009 CHA @ ORL L 26 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 2 0 0 3 2 -15
+p8
+aVNazr Mohammed CHA 04/15/2009 CHA @ ORL L 17 12 5 10 50.0 0 0 - 2 4 50.0 1 4 5 0 1 2 0 4 1
+p9
+aVGerald Wallace CHA 04/15/2009 CHA @ ORL L 26 3 1 3 33.3 0 0 - 1 4 25.0 1 9 10 2 1 1 0 2 -15
+p10
+aVJuwan Howard CHA 04/15/2009 CHA @ ORL L 10 8 3 5 60.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 2 -4
+p11
+aVD.J. Augustin CHA 04/15/2009 CHA @ ORL L 42 9 2 9 22.2 0 4 0.0 5 5 100.0 1 0 1 1 0 0 2 1 -27
+p12
+aVEmeka Okafor CHA 04/15/2009 CHA @ ORL L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -15
+p13
+aVJuwan Howard CHA 04/13/2009 CHA @ NJN L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p14
+aVEmeka Okafor CHA 04/13/2009 CHA @ NJN L 22 9 3 6 50.0 0 0 - 3 4 75.0 2 3 5 1 0 3 0 2 12
+p15
+aVDontell Jefferson CHA 04/13/2009 CHA @ NJN L 22 7 3 6 50.0 0 1 0.0 1 2 50.0 0 4 4 3 0 0 1 4 -3
+p16
+aVGerald Wallace CHA 04/13/2009 CHA @ NJN L 24 11 3 7 42.9 0 0 - 5 6 83.3 0 2 2 0 0 1 1 1 12
+p17
+aVRaymond Felton CHA 04/13/2009 CHA @ NJN L 29 19 8 14 57.1 0 0 - 3 3 100.0 1 2 3 5 2 0 2 3 5
+p18
+aVSean May CHA 04/13/2009 CHA @ NJN L 21 9 4 8 50.0 0 0 - 1 2 50.0 0 2 2 0 0 0 3 3 -11
+p19
+aVCartier Martin CHA 04/13/2009 CHA @ NJN L 12 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 0 1 1 -7
+p20
+aVBoris Diaw CHA 04/13/2009 CHA @ NJN L 21 13 5 11 45.5 0 1 0.0 3 4 75.0 1 4 5 1 2 1 1 0 10
+p21
+aVD.J. Augustin CHA 04/13/2009 CHA @ NJN L 30 9 3 7 42.9 0 1 0.0 3 4 75.0 0 1 1 3 2 0 1 3 -3
+p22
+aVVladimir Radmanovic CHA 04/13/2009 CHA @ NJN L 27 6 2 9 22.2 0 3 0.0 2 2 100.0 2 1 3 0 2 1 3 1 -14
+p23
+aVDeSagana Diop CHA 04/13/2009 CHA @ NJN L 25 4 2 4 50.0 0 0 - 0 0 - 2 3 5 1 3 1 0 1 -18
+p24
+aVGerald Wallace CHA 04/11/2009 CHA @ CHI L 37 13 5 11 45.5 2 2 100.0 1 1 100.0 0 3 3 2 0 0 0 6 -11
+p25
+aVBoris Diaw CHA 04/11/2009 CHA @ CHI L 36 24 9 20 45.0 2 5 40.0 4 4 100.0 7 3 10 3 0 1 3 1 -4
+p26
+aVDeSagana Diop CHA 04/11/2009 CHA @ CHI L 14 3 0 0 - 0 0 - 3 4 75.0 1 3 4 2 0 0 1 2 -2
+p27
+aVEmeka Okafor CHA 04/11/2009 CHA @ CHI L 34 13 4 7 57.1 0 0 - 5 10 50.0 5 9 14 1 0 2 0 1 -5
+p28
+aVD.J. Augustin CHA 04/11/2009 CHA @ CHI L 41 15 5 13 38.5 3 4 75.0 2 3 66.7 1 0 1 8 1 0 2 3 -8
+p29
+aVDontell Jefferson CHA 04/11/2009 CHA @ CHI L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 1 1 1 2 4 -5
+p30
+aVRaymond Felton CHA 04/11/2009 CHA @ CHI L 41 26 10 17 58.8 1 2 50.0 5 6 83.3 0 3 3 7 1 0 5 1 -1
+p31
+aVJuwan Howard CHA 04/11/2009 CHA @ CHI L 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p32
+aVVladimir Radmanovic CHA 04/11/2009 CHA @ CHI L 15 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 0 0 2 2 2
+p33
+aVNazr Mohammed CHA 04/10/2009 CHA @ OKC L 5 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 1 0 0 2 -1
+p34
+aVEmeka Okafor CHA 04/10/2009 CHA @ OKC L 36 5 1 5 20.0 0 0 - 3 4 75.0 3 6 9 0 1 1 1 2 4
+p35
+aVCartier Martin CHA 04/10/2009 CHA @ OKC L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p36
+aVDontell Jefferson CHA 04/10/2009 CHA @ OKC L 6 6 3 3 100.0 0 0 - 0 0 - 0 1 1 1 1 0 1 0 5
+p37
+aVVladimir Radmanovic CHA 04/10/2009 CHA @ OKC L 18 10 3 12 25.0 2 7 28.6 2 2 100.0 0 1 1 1 1 0 3 2 -10
+p38
+aVD.J. Augustin CHA 04/10/2009 CHA @ OKC L 35 20 6 16 37.5 3 5 60.0 5 5 100.0 1 2 3 3 1 0 1 1 4
+p39
+aVDeSagana Diop CHA 04/10/2009 CHA @ OKC L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -5
+p40
+aVGerald Wallace CHA 04/10/2009 CHA @ OKC L 44 10 4 13 30.8 0 2 0.0 2 2 100.0 4 10 14 2 5 1 5 3 5
+p41
+aVRaymond Felton CHA 04/10/2009 CHA @ OKC L 40 11 4 16 25.0 1 6 16.7 2 2 100.0 1 2 3 5 2 1 1 3 -5
+p42
+aVBoris Diaw CHA 04/10/2009 CHA @ OKC L 47 19 8 21 38.1 1 5 20.0 2 4 50.0 3 3 6 4 1 0 2 2 -8
+p43
+aVDeSagana Diop CHA 04/07/2009 CHA vs. PHI W 10 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 5 1 3 1
+p44
+aVCartier Martin CHA 04/07/2009 CHA vs. PHI W 2 2 0 2 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -3
+p45
+aVEmeka Okafor CHA 04/07/2009 CHA vs. PHI W 38 9 3 6 50.0 0 0 - 3 3 100.0 5 7 12 1 0 1 1 2 2
+p46
+aVD.J. Augustin CHA 04/07/2009 CHA vs. PHI W 31 8 3 9 33.3 2 8 25.0 0 0 - 0 3 3 6 1 1 1 3 12
+p47
+aVGerald Wallace CHA 04/07/2009 CHA vs. PHI W 46 29 8 18 44.4 0 2 0.0 13 17 76.5 4 7 11 3 2 0 1 4 4
+p48
+aVDontell Jefferson CHA 04/07/2009 CHA vs. PHI W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 0 3
+p49
+aVBoris Diaw CHA 04/07/2009 CHA vs. PHI W 45 17 7 14 50.0 2 6 33.3 1 1 100.0 1 5 6 6 1 2 2 0 7
+p50
+aVJuwan Howard CHA 04/07/2009 CHA vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p51
+aVRaymond Felton CHA 04/07/2009 CHA vs. PHI W 44 32 12 20 60.0 3 6 50.0 5 7 71.4 1 5 6 5 0 0 5 3 5
+p52
+aVVladimir Radmanovic CHA 04/07/2009 CHA vs. PHI W 16 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 3 0 0 0 3 -14
+p53
+aVEmeka Okafor CHA 04/05/2009 CHA @ DET L 39 14 6 10 60.0 0 0 - 2 4 50.0 7 9 16 0 0 0 1 2 0
+p54
+aVRaymond Felton CHA 04/05/2009 CHA @ DET L 32 18 7 17 41.2 1 4 25.0 3 3 100.0 1 2 3 5 0 0 2 4 0
+p55
+aVGerald Wallace CHA 04/05/2009 CHA @ DET L 41 11 2 8 25.0 0 0 - 7 11 63.6 1 2 3 1 1 1 3 6 -3
+p56
+aVJuwan Howard CHA 04/05/2009 CHA @ DET L 6 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p57
+aVDontell Jefferson CHA 04/05/2009 CHA @ DET L 9 2 1 5 20.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -12
+p58
+aVBoris Diaw CHA 04/05/2009 CHA @ DET L 42 14 6 13 46.2 2 4 50.0 0 0 - 2 5 7 6 0 0 1 2 -7
+p59
+aVDeSagana Diop CHA 04/05/2009 CHA @ DET L 8 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 4 -3
+p60
+aVCartier Martin CHA 04/05/2009 CHA @ DET L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -6
+p61
+aVVladimir Radmanovic CHA 04/05/2009 CHA @ DET L 24 8 3 8 37.5 1 4 25.0 1 1 100.0 1 3 4 0 1 0 0 1 8
+p62
+aVD.J. Augustin CHA 04/05/2009 CHA @ DET L 29 22 5 13 38.5 2 7 28.6 10 12 83.3 1 1 2 1 1 0 3 4 -10
+p63
+aVDeSagana Diop CHA 04/03/2009 CHA vs. MIA L 13 8 4 6 66.7 0 0 - 0 0 - 4 3 7 2 0 0 2 1 -6
+p64
+aVD.J. Augustin CHA 04/03/2009 CHA vs. MIA L 24 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 1 1 0 2 2 -21
+p65
+aVBoris Diaw CHA 04/03/2009 CHA vs. MIA L 38 13 6 11 54.5 1 4 25.0 0 0 - 1 1 2 7 0 1 3 3 5
+p66
+aVVladimir Radmanovic CHA 04/03/2009 CHA vs. MIA L 17 1 0 6 0.0 0 2 0.0 1 2 50.0 0 2 2 1 0 0 1 2 -15
+p67
+aVCartier Martin CHA 04/03/2009 CHA vs. MIA L 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 2 3
+p68
+aVGerald Wallace CHA 04/03/2009 CHA vs. MIA L 45 21 8 12 66.7 1 2 50.0 4 4 100.0 0 8 8 1 0 2 3 3 -1
+p69
+aVEmeka Okafor CHA 04/03/2009 CHA vs. MIA L 33 13 6 10 60.0 0 0 - 1 3 33.3 3 10 13 0 0 1 1 5 6
+p70
+aVRaja Bell CHA 04/03/2009 CHA vs. MIA L 20 11 4 8 50.0 2 4 50.0 1 2 50.0 0 2 2 1 1 0 1 1 4
+p71
+aVRaymond Felton CHA 04/03/2009 CHA vs. MIA L 38 16 7 14 50.0 1 2 50.0 1 1 100.0 0 4 4 10 2 0 3 3 0
+p72
+aVRaymond Felton CHA 04/01/2009 CHA @ BOS L 49 14 7 20 35.0 0 1 0.0 0 0 - 2 2 4 12 0 0 2 0 6
+p73
+aVD.J. Augustin CHA 04/01/2009 CHA @ BOS L 19 14 5 10 50.0 4 4 100.0 0 0 - 0 1 1 1 0 0 1 2 -11
+p74
+aVCartier Martin CHA 04/01/2009 CHA @ BOS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p75
+aVDeSagana Diop CHA 04/01/2009 CHA @ BOS L 15 4 2 4 50.0 0 0 - 0 2 0.0 2 1 3 1 1 1 0 0 -12
+p76
+aVGerald Wallace CHA 04/01/2009 CHA @ BOS L 37 20 8 18 44.4 0 2 0.0 4 4 100.0 4 6 10 0 4 1 1 4 13
+p77
+aVBoris Diaw CHA 04/01/2009 CHA @ BOS L 42 17 7 13 53.8 3 4 75.0 0 0 - 3 4 7 8 1 0 4 4 2
+p78
+aVRaja Bell CHA 04/01/2009 CHA @ BOS L 49 12 5 14 35.7 1 4 25.0 1 1 100.0 1 3 4 5 3 0 3 3 1
+p79
+aVJuwan Howard CHA 04/01/2009 CHA @ BOS L 12 6 3 6 50.0 0 0 - 0 0 - 4 0 4 0 0 0 1 1 -10
+p80
+aVVladimir Radmanovic CHA 04/01/2009 CHA @ BOS L 21 10 4 7 57.1 2 3 66.7 0 0 - 0 1 1 1 1 0 1 3 -4
+p81
+aVEmeka Okafor CHA 04/01/2009 CHA @ BOS L 43 12 6 10 60.0 0 0 - 0 0 - 4 6 10 3 2 2 3 4 10
+p82
+aVGerald Wallace CHA 03/31/2009 CHA vs. LAL W 40 21 10 16 62.5 0 2 0.0 1 2 50.0 1 12 13 4 0 5 0 1 7
+p83
+aVBoris Diaw CHA 03/31/2009 CHA vs. LAL W 40 11 5 12 41.7 1 4 25.0 0 0 - 1 4 5 12 1 0 1 1 11
+p84
+aVEmeka Okafor CHA 03/31/2009 CHA vs. LAL W 36 13 3 4 75.0 0 0 - 7 9 77.8 2 7 9 2 3 3 4 3 16
+p85
+aVD.J. Augustin CHA 03/31/2009 CHA vs. LAL W 20 14 4 10 40.0 2 2 100.0 4 4 100.0 1 4 5 0 0 0 1 0 -3
+p86
+aVVladimir Radmanovic CHA 03/31/2009 CHA vs. LAL W 15 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 2 1 1 2 1 4
+p87
+aVCartier Martin CHA 03/31/2009 CHA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p88
+aVRaja Bell CHA 03/31/2009 CHA vs. LAL W 33 10 3 6 50.0 2 3 66.7 2 2 100.0 1 1 2 0 1 0 1 4 6
+p89
+aVDeSagana Diop CHA 03/31/2009 CHA vs. LAL W 12 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 1 -6
+p90
+aVRaymond Felton CHA 03/31/2009 CHA vs. LAL W 43 16 6 13 46.2 1 3 33.3 3 5 60.0 0 3 3 5 0 0 6 1 17
+p91
+aVCartier Martin CHA 03/28/2009 CHA vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p92
+aVEmeka Okafor CHA 03/28/2009 CHA vs. NYK W 37 13 6 13 46.2 0 0 - 1 4 25.0 4 10 14 1 0 2 2 4 2
+p93
+aVBoris Diaw CHA 03/28/2009 CHA vs. NYK W 43 12 5 11 45.5 1 2 50.0 1 1 100.0 3 5 8 5 1 0 4 3 15
+p94
+aVGerald Wallace CHA 03/28/2009 CHA vs. NYK W 43 23 7 12 58.3 1 2 50.0 8 9 88.9 1 8 9 8 2 3 1 4 12
+p95
+aVDeSagana Diop CHA 03/28/2009 CHA vs. NYK W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -2
+p96
+aVRaja Bell CHA 03/28/2009 CHA vs. NYK W 39 14 6 10 60.0 0 2 0.0 2 2 100.0 0 8 8 2 0 0 1 3 14
+p97
+aVVladimir Radmanovic CHA 03/28/2009 CHA vs. NYK W 14 9 3 5 60.0 1 2 50.0 2 4 50.0 0 1 1 0 2 1 1 0 1
+p98
+aVJuwan Howard CHA 03/28/2009 CHA vs. NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p99
+aVRaymond Felton CHA 03/28/2009 CHA vs. NYK W 34 6 3 17 17.6 0 4 0.0 0 0 - 0 2 2 6 0 0 6 0 2
+p100
+aVD.J. Augustin CHA 03/28/2009 CHA vs. NYK W 26 19 8 9 88.9 1 2 50.0 2 3 66.7 0 2 2 4 1 0 3 0 10
+p101
+aVRaja Bell CHA 03/27/2009 CHA @ PHI W 40 13 5 14 35.7 1 4 25.0 2 2 100.0 2 6 8 4 4 0 2 3 5
+p102
+aVD.J. Augustin CHA 03/27/2009 CHA @ PHI W 16 13 4 5 80.0 2 3 66.7 3 4 75.0 0 1 1 0 0 0 0 0 13
+p103
+aVVladimir Radmanovic CHA 03/27/2009 CHA @ PHI W 12 1 0 0 - 0 0 - 1 2 50.0 1 3 4 2 0 0 0 2 12
+p104
+aVGerald Wallace CHA 03/27/2009 CHA @ PHI W 39 14 6 9 66.7 0 2 0.0 2 4 50.0 3 8 11 1 1 0 1 4 -3
+p105
+aVDeSagana Diop CHA 03/27/2009 CHA @ PHI W 11 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 0 1 3 5
+p106
+aVBoris Diaw CHA 03/27/2009 CHA @ PHI W 34 24 8 16 50.0 2 3 66.7 6 7 85.7 0 1 1 6 0 0 2 2 -11
+p107
+aVEmeka Okafor CHA 03/27/2009 CHA @ PHI W 25 8 4 4 100.0 0 0 - 0 0 - 3 2 5 2 0 2 2 5 -10
+p108
+aVRaymond Felton CHA 03/27/2009 CHA @ PHI W 40 20 8 14 57.1 1 5 20.0 3 6 50.0 0 2 2 5 3 0 5 4 -3
+p109
+aVJuwan Howard CHA 03/27/2009 CHA @ PHI W 13 4 2 7 28.6 0 0 - 0 0 - 1 1 2 1 0 0 2 1 5
+p110
+aVNazr Mohammed CHA 03/27/2009 CHA @ PHI W 5 3 0 0 - 0 0 - 3 4 75.0 0 3 3 0 0 1 2 1 4
+p111
+aVCartier Martin CHA 03/27/2009 CHA @ PHI W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 8
+p112
+aVEmeka Okafor CHA 03/25/2009 CHA @ WAS L 33 15 6 9 66.7 0 0 - 3 6 50.0 3 4 7 2 1 1 2 3 -5
+p113
+aVGerald Wallace CHA 03/25/2009 CHA @ WAS L 43 21 8 16 50.0 0 2 0.0 5 9 55.6 5 6 11 4 2 3 3 2 -5
+p114
+aVRaymond Felton CHA 03/25/2009 CHA @ WAS L 34 14 4 11 36.4 0 3 0.0 6 8 75.0 0 5 5 8 3 0 3 3 4
+p115
+aVBoris Diaw CHA 03/25/2009 CHA @ WAS L 37 11 5 8 62.5 0 0 - 1 2 50.0 3 6 9 2 1 1 3 4 -3
+p116
+aVDeSagana Diop CHA 03/25/2009 CHA @ WAS L 15 0 0 0 - 0 0 - 0 0 - 1 2 3 1 2 1 2 2 0
+p117
+aVCartier Martin CHA 03/25/2009 CHA @ WAS L 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -3
+p118
+aVD.J. Augustin CHA 03/25/2009 CHA @ WAS L 24 15 5 7 71.4 3 4 75.0 2 3 66.7 0 3 3 3 3 0 3 1 4
+p119
+aVRaja Bell CHA 03/25/2009 CHA @ WAS L 35 8 3 12 25.0 0 3 0.0 2 2 100.0 1 2 3 1 1 0 1 1 -6
+p120
+aVVladimir Radmanovic CHA 03/25/2009 CHA @ WAS L 17 9 4 10 40.0 1 5 20.0 0 0 - 0 0 0 2 1 0 1 0 4
+p121
+aVSean May CHA 03/21/2009 CHA vs. IND L 6 7 3 3 100.0 1 1 100.0 0 0 - 1 1 2 0 0 1 1 0 2
+p122
+aVCartier Martin CHA 03/21/2009 CHA vs. IND L 12 9 4 8 50.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 0 1 7
+p123
+aVRaja Bell CHA 03/21/2009 CHA vs. IND L 31 7 3 9 33.3 1 3 33.3 0 0 - 1 5 6 0 0 1 2 2 -29
+p124
+aVRaymond Felton CHA 03/21/2009 CHA vs. IND L 32 9 3 13 23.1 0 1 0.0 3 4 75.0 1 2 3 5 1 0 0 0 -24
+p125
+aVEmeka Okafor CHA 03/21/2009 CHA vs. IND L 24 7 3 5 60.0 0 0 - 1 5 20.0 2 7 9 0 0 0 1 2 -20
+p126
+aVVladimir Radmanovic CHA 03/21/2009 CHA vs. IND L 28 8 3 11 27.3 1 3 33.3 1 3 33.3 1 2 3 2 0 0 1 1 -19
+p127
+aVDeSagana Diop CHA 03/21/2009 CHA vs. IND L 14 6 3 6 50.0 0 0 - 0 4 0.0 6 1 7 1 1 0 0 0 6
+p128
+aVJuwan Howard CHA 03/21/2009 CHA vs. IND L 11 10 4 6 66.7 0 0 - 2 2 100.0 2 0 2 0 1 0 1 3 3
+p129
+aVBoris Diaw CHA 03/21/2009 CHA vs. IND L 36 15 7 11 63.6 0 2 0.0 1 2 50.0 0 5 5 0 0 3 4 2 -30
+p130
+aVD.J. Augustin CHA 03/21/2009 CHA vs. IND L 21 2 0 5 0.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 2 4 -4
+p131
+aVGerald Wallace CHA 03/21/2009 CHA vs. IND L 25 3 1 4 25.0 0 1 0.0 1 2 50.0 2 1 3 5 0 1 4 4 -17
+p132
+aVJuwan Howard CHA 03/20/2009 CHA @ TOR W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p133
+aVDeSagana Diop CHA 03/20/2009 CHA @ TOR W 12 2 1 2 50.0 0 0 - 0 0 - 0 5 5 0 0 1 0 2 8
+p134
+aVVladimir Radmanovic CHA 03/20/2009 CHA @ TOR W 23 5 2 8 25.0 1 2 50.0 0 0 - 1 3 4 0 0 0 2 1 0
+p135
+aVRaymond Felton CHA 03/20/2009 CHA @ TOR W 42 14 6 14 42.9 1 3 33.3 1 1 100.0 1 1 2 7 2 1 2 1 14
+p136
+aVGerald Wallace CHA 03/20/2009 CHA @ TOR W 42 30 9 13 69.2 2 2 100.0 10 12 83.3 2 7 9 8 2 2 2 4 17
+p137
+aVCartier Martin CHA 03/20/2009 CHA @ TOR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p138
+aVRaja Bell CHA 03/20/2009 CHA @ TOR W 40 8 3 14 21.4 2 6 33.3 0 0 - 1 3 4 3 1 0 0 3 11
+p139
+aVEmeka Okafor CHA 03/20/2009 CHA @ TOR W 20 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 1 1 5 3
+p140
+aVBoris Diaw CHA 03/20/2009 CHA @ TOR W 38 30 15 21 71.4 0 3 0.0 0 0 - 3 4 7 2 0 0 3 3 17
+p141
+aVD.J. Augustin CHA 03/20/2009 CHA @ TOR W 14 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 0 1
+p142
+aVGerald Wallace CHA 03/18/2009 CHA vs. SAC W 39 25 6 13 46.2 2 2 100.0 11 11 100.0 7 5 12 1 2 2 2 0 17
+p143
+aVRaymond Felton CHA 03/18/2009 CHA vs. SAC W 33 14 5 10 50.0 0 2 0.0 4 6 66.7 1 5 6 7 1 0 2 3 20
+p144
+aVBoris Diaw CHA 03/18/2009 CHA vs. SAC W 39 8 3 6 50.0 0 1 0.0 2 2 100.0 0 5 5 4 1 1 7 3 18
+p145
+aVRaja Bell CHA 03/18/2009 CHA vs. SAC W 36 13 4 12 33.3 2 6 33.3 3 3 100.0 1 6 7 5 4 0 4 3 14
+p146
+aVVladimir Radmanovic CHA 03/18/2009 CHA vs. SAC W 19 14 5 8 62.5 4 7 57.1 0 0 - 0 0 0 2 0 0 3 1 0
+p147
+aVSean May CHA 03/18/2009 CHA vs. SAC W 3 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -1
+p148
+aVEmeka Okafor CHA 03/18/2009 CHA vs. SAC W 33 16 7 10 70.0 0 0 - 2 4 50.0 3 7 10 0 0 4 2 2 17
+p149
+aVD.J. Augustin CHA 03/18/2009 CHA vs. SAC W 20 9 2 3 66.7 1 1 100.0 4 4 100.0 0 3 3 3 0 0 0 2 2
+p150
+aVCartier Martin CHA 03/18/2009 CHA vs. SAC W 8 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 1 0 0 -2
+p151
+aVDeSagana Diop CHA 03/18/2009 CHA vs. SAC W 11 1 0 2 0.0 0 0 - 1 4 25.0 1 3 4 0 0 0 0 0 -5
+p152
+aVSean May CHA 03/16/2009 CHA vs. TOR W 3 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 5
+p153
+aVEmeka Okafor CHA 03/16/2009 CHA vs. TOR W 27 8 4 10 40.0 0 0 - 0 0 - 2 6 8 2 2 2 2 3 9
+p154
+aVRaymond Felton CHA 03/16/2009 CHA vs. TOR W 33 13 4 10 40.0 0 2 0.0 5 5 100.0 0 1 1 8 3 0 2 1 12
+p155
+aVRaja Bell CHA 03/16/2009 CHA vs. TOR W 28 10 4 11 36.4 0 4 0.0 2 2 100.0 0 2 2 2 1 0 1 2 7
+p156
+aVD.J. Augustin CHA 03/16/2009 CHA vs. TOR W 20 15 6 10 60.0 3 4 75.0 0 0 - 0 2 2 6 1 0 1 1 20
+p157
+aVNazr Mohammed CHA 03/16/2009 CHA vs. TOR W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -1
+p158
+aVBoris Diaw CHA 03/16/2009 CHA vs. TOR W 27 14 7 12 58.3 0 0 - 0 0 - 0 1 1 3 0 0 3 5 1
+p159
+aVJuwan Howard CHA 03/16/2009 CHA vs. TOR W 3 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 1 7
+p160
+aVGerald Wallace CHA 03/16/2009 CHA vs. TOR W 39 25 8 13 61.5 1 3 33.3 8 8 100.0 1 8 9 5 3 1 0 4 20
+p161
+aVVladimir Radmanovic CHA 03/16/2009 CHA vs. TOR W 31 9 4 11 36.4 1 7 14.3 0 0 - 2 7 9 4 0 0 2 2 27
+p162
+aVDeSagana Diop CHA 03/16/2009 CHA vs. TOR W 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 3 0 1 10
+p163
+aVCartier Martin CHA 03/16/2009 CHA vs. TOR W 15 9 3 5 60.0 1 3 33.3 2 2 100.0 2 0 2 0 0 0 0 2 13
+p164
+aVD.J. Augustin CHA 03/14/2009 CHA @ MIN L 22 18 7 10 70.0 1 2 50.0 3 4 75.0 0 4 4 2 0 0 1 2 1
+p165
+aVVladimir Radmanovic CHA 03/14/2009 CHA @ MIN L 20 8 4 9 44.4 0 2 0.0 0 0 - 3 1 4 0 1 0 0 3 -7
+p166
+aVRaymond Felton CHA 03/14/2009 CHA @ MIN L 28 6 2 7 28.6 0 2 0.0 2 2 100.0 0 4 4 5 1 0 1 0 -17
+p167
+aVRaja Bell CHA 03/14/2009 CHA @ MIN L 45 21 8 19 42.1 4 9 44.4 1 2 50.0 1 1 2 1 2 0 1 3 0
+p168
+aVDeSagana Diop CHA 03/14/2009 CHA @ MIN L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -3
+p169
+aVGerald Wallace CHA 03/14/2009 CHA @ MIN L 46 26 8 11 72.7 0 0 - 10 12 83.3 3 7 10 3 1 0 3 3 -6
+p170
+aVEmeka Okafor CHA 03/14/2009 CHA @ MIN L 31 9 4 8 50.0 0 0 - 1 2 50.0 1 4 5 1 0 0 1 4 1
+p171
+aVBoris Diaw CHA 03/14/2009 CHA @ MIN L 42 12 5 12 41.7 1 6 16.7 1 2 50.0 2 5 7 3 1 0 3 2 -9
+p172
+aVEmeka Okafor CHA 03/13/2009 CHA vs. HOU L 29 8 3 11 27.3 0 0 - 2 4 50.0 4 4 8 0 2 1 1 4 -4
+p173
+aVDeSagana Diop CHA 03/13/2009 CHA vs. HOU L 16 3 1 1 100.0 0 0 - 1 2 50.0 2 1 3 0 0 0 0 2 1
+p174
+aVRaja Bell CHA 03/13/2009 CHA vs. HOU L 37 16 6 18 33.3 2 6 33.3 2 2 100.0 2 3 5 4 1 1 0 2 -9
+p175
+aVD.J. Augustin CHA 03/13/2009 CHA vs. HOU L 18 7 2 4 50.0 0 0 - 3 4 75.0 0 1 1 1 1 0 1 2 1
+p176
+aVVladimir Radmanovic CHA 03/13/2009 CHA vs. HOU L 25 12 4 8 50.0 1 4 25.0 3 5 60.0 0 5 5 1 0 1 2 1 0
+p177
+aVBoris Diaw CHA 03/13/2009 CHA vs. HOU L 28 9 4 6 66.7 1 1 100.0 0 0 - 0 5 5 3 1 0 2 5 -6
+p178
+aVCartier Martin CHA 03/13/2009 CHA vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p179
+aVGerald Wallace CHA 03/13/2009 CHA vs. HOU L 40 17 7 10 70.0 1 3 33.3 2 3 66.7 2 6 8 2 3 0 4 3 -6
+p180
+aVRaymond Felton CHA 03/13/2009 CHA vs. HOU L 41 12 6 19 31.6 0 1 0.0 0 0 - 0 2 2 8 2 0 3 2 -4
+p181
+aVJuwan Howard CHA 03/13/2009 CHA vs. HOU L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p182
+aVCartier Martin CHA 03/10/2009 CHA @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p183
+aVGerald Wallace CHA 03/10/2009 CHA @ SAS L 40 14 4 7 57.1 2 3 66.7 4 4 100.0 0 7 7 1 1 1 1 3 -14
+p184
+aVBoris Diaw CHA 03/10/2009 CHA @ SAS L 35 9 4 8 50.0 1 1 100.0 0 0 - 0 1 1 8 1 0 1 2 5
+p185
+aVSean May CHA 03/10/2009 CHA @ SAS L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p186
+aVDeSagana Diop CHA 03/10/2009 CHA @ SAS L 22 2 1 3 33.3 0 0 - 0 2 0.0 2 5 7 0 0 1 3 3 -12
+p187
+aVD.J. Augustin CHA 03/10/2009 CHA @ SAS L 14 4 1 4 25.0 0 0 - 2 2 100.0 0 0 0 3 0 0 0 0 -12
+p188
+aVVladimir Radmanovic CHA 03/10/2009 CHA @ SAS L 19 10 4 8 50.0 2 4 50.0 0 0 - 1 1 2 0 0 0 0 0 -10
+p189
+aVEmeka Okafor CHA 03/10/2009 CHA @ SAS L 26 16 6 9 66.7 0 0 - 4 4 100.0 0 5 5 0 0 2 1 3 -5
+p190
+aVRaja Bell CHA 03/10/2009 CHA @ SAS L 40 16 5 11 45.5 2 2 100.0 4 4 100.0 1 4 5 1 0 1 2 3 -7
+p191
+aVRaymond Felton CHA 03/10/2009 CHA @ SAS L 39 15 5 17 29.4 0 2 0.0 5 5 100.0 0 4 4 7 1 2 4 3 -13
+p192
+aVCartier Martin CHA 03/07/2009 CHA @ NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p193
+aVDeSagana Diop CHA 03/07/2009 CHA @ NYK W 7 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 1 1 0
+p194
+aVRaymond Felton CHA 03/07/2009 CHA @ NYK W 41 19 8 13 61.5 1 3 33.3 2 2 100.0 0 6 6 10 0 0 5 1 8
+p195
+aVBoris Diaw CHA 03/07/2009 CHA @ NYK W 38 22 9 15 60.0 4 5 80.0 0 1 0.0 1 2 3 4 2 0 2 5 11
+p196
+aVGerald Wallace CHA 03/07/2009 CHA @ NYK W 44 23 7 13 53.8 2 6 33.3 7 8 87.5 1 12 13 5 3 0 2 4 9
+p197
+aVRaja Bell CHA 03/07/2009 CHA @ NYK W 42 17 7 12 58.3 2 3 66.7 1 2 50.0 2 2 4 3 2 0 4 2 9
+p198
+aVEmeka Okafor CHA 03/07/2009 CHA @ NYK W 33 12 6 12 50.0 0 0 - 0 0 - 0 5 5 0 0 2 2 5 7
+p199
+aVVladimir Radmanovic CHA 03/07/2009 CHA @ NYK W 20 8 3 7 42.9 2 5 40.0 0 0 - 0 5 5 2 3 0 3 2 -1
+p200
+aVD.J. Augustin CHA 03/07/2009 CHA @ NYK W 14 13 1 1 100.0 0 0 - 11 11 100.0 0 1 1 0 0 0 0 2 3
+p201
+aVD.J. Augustin CHA 03/06/2009 CHA vs. ATL W 16 8 3 9 33.3 2 3 66.7 0 0 - 0 0 0 2 0 0 1 3 -4
+p202
+aVDeSagana Diop CHA 03/06/2009 CHA vs. ATL W 18 6 3 5 60.0 0 0 - 0 1 0.0 4 3 7 0 0 1 1 0 2
+p203
+aVBoris Diaw CHA 03/06/2009 CHA vs. ATL W 41 13 6 8 75.0 1 2 50.0 0 0 - 1 4 5 13 0 1 4 3 2
+p204
+aVGerald Wallace CHA 03/06/2009 CHA vs. ATL W 36 21 9 13 69.2 1 2 50.0 2 3 66.7 1 6 7 2 0 2 2 1 20
+p205
+aVRaymond Felton CHA 03/06/2009 CHA vs. ATL W 40 17 7 13 53.8 0 1 0.0 3 5 60.0 0 4 4 10 0 1 0 1 13
+p206
+aVRaja Bell CHA 03/06/2009 CHA vs. ATL W 40 11 5 13 38.5 1 6 16.7 0 0 - 0 1 1 1 0 0 1 2 7
+p207
+aVEmeka Okafor CHA 03/06/2009 CHA vs. ATL W 30 17 6 12 50.0 0 0 - 5 7 71.4 1 10 11 1 0 2 0 3 3
+p208
+aVVladimir Radmanovic CHA 03/06/2009 CHA vs. ATL W 19 5 2 3 66.7 1 1 100.0 0 0 - 3 2 5 0 0 0 1 0 -8
+p209
+aVRaja Bell CHA 03/03/2009 CHA vs. CHI W 29 18 7 11 63.6 2 2 100.0 2 2 100.0 0 2 2 2 1 0 1 2 17
+p210
+aVDeSagana Diop CHA 03/03/2009 CHA vs. CHI W 13 6 3 4 75.0 0 0 - 0 1 0.0 3 2 5 0 2 1 0 0 5
+p211
+aVGerald Wallace CHA 03/03/2009 CHA vs. CHI W 31 10 4 11 36.4 0 2 0.0 2 2 100.0 2 2 4 0 1 0 1 2 10
+p212
+aVJuwan Howard CHA 03/03/2009 CHA vs. CHI W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p213
+aVBoris Diaw CHA 03/03/2009 CHA vs. CHI W 27 13 6 14 42.9 0 2 0.0 1 2 50.0 1 2 3 6 1 0 3 3 8
+p214
+aVVladimir Radmanovic CHA 03/03/2009 CHA vs. CHI W 18 5 2 8 25.0 1 3 33.3 0 0 - 2 2 4 2 1 0 1 4 8
+p215
+aVEmeka Okafor CHA 03/03/2009 CHA vs. CHI W 31 14 5 9 55.6 0 0 - 4 4 100.0 0 10 10 0 1 2 1 2 12
+p216
+aVCartier Martin CHA 03/03/2009 CHA vs. CHI W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 2 1 4
+p217
+aVD.J. Augustin CHA 03/03/2009 CHA vs. CHI W 33 8 3 4 75.0 0 1 0.0 2 2 100.0 1 3 4 5 0 0 2 2 4
+p218
+aVRaymond Felton CHA 03/03/2009 CHA vs. CHI W 42 18 6 11 54.5 1 3 33.3 5 5 100.0 0 4 4 9 0 0 2 1 13
+p219
+aVAlexis Ajinca CHA 03/03/2009 CHA vs. CHI W 3 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -1
+p220
+aVDeSagana Diop CHA 02/28/2009 CHA @ LAC W 14 2 1 4 25.0 0 0 - 0 0 - 3 2 5 0 0 0 0 1 0
+p221
+aVRaja Bell CHA 02/28/2009 CHA @ LAC W 38 21 9 15 60.0 3 5 60.0 0 0 - 1 6 7 2 0 0 1 3 0
+p222
+aVCartier Martin CHA 02/28/2009 CHA @ LAC W 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 0 2
+p223
+aVEmeka Okafor CHA 02/28/2009 CHA @ LAC W 34 28 11 17 64.7 0 0 - 6 7 85.7 5 4 9 2 1 1 1 2 5
+p224
+aVVladimir Radmanovic CHA 02/28/2009 CHA @ LAC W 20 9 3 10 30.0 3 6 50.0 0 0 - 0 1 1 2 0 0 1 3 1
+p225
+aVD.J. Augustin CHA 02/28/2009 CHA @ LAC W 27 7 2 6 33.3 2 4 50.0 1 2 50.0 0 0 0 8 1 0 1 1 0
+p226
+aVRaymond Felton CHA 02/28/2009 CHA @ LAC W 24 9 4 10 40.0 1 2 50.0 0 0 - 1 1 2 7 0 0 1 2 8
+p227
+aVBoris Diaw CHA 02/28/2009 CHA @ LAC W 40 15 7 15 46.7 1 2 50.0 0 0 - 1 2 3 4 1 1 4 2 2
+p228
+aVGerald Wallace CHA 02/28/2009 CHA @ LAC W 37 9 3 7 42.9 0 0 - 3 4 75.0 3 6 9 3 4 1 1 2 7
+p229
+aVRaja Bell CHA 02/27/2009 CHA @ GSW W 43 8 3 7 42.9 1 2 50.0 1 2 50.0 2 5 7 7 2 0 2 3 8
+p230
+aVRaymond Felton CHA 02/27/2009 CHA @ GSW W 36 26 9 16 56.3 3 4 75.0 5 5 100.0 1 2 3 9 4 1 6 4 1
+p231
+aVVladimir Radmanovic CHA 02/27/2009 CHA @ GSW W 21 11 5 9 55.6 1 3 33.3 0 0 - 0 3 3 3 0 0 0 1 3
+p232
+aVD.J. Augustin CHA 02/27/2009 CHA @ GSW W 14 8 2 5 40.0 0 2 0.0 4 4 100.0 0 2 2 1 0 0 3 2 -1
+p233
+aVGerald Wallace CHA 02/27/2009 CHA @ GSW W 33 14 3 9 33.3 1 2 50.0 7 7 100.0 2 9 11 2 0 0 3 4 -4
+p234
+aVCartier Martin CHA 02/27/2009 CHA @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p235
+aVDeSagana Diop CHA 02/27/2009 CHA @ GSW W 18 8 4 4 100.0 0 0 - 0 0 - 3 1 4 0 0 3 2 2 6
+p236
+aVEmeka Okafor CHA 02/27/2009 CHA @ GSW W 30 15 7 13 53.8 0 0 - 1 3 33.3 4 7 11 0 0 0 4 5 -5
+p237
+aVBoris Diaw CHA 02/27/2009 CHA @ GSW W 42 22 7 11 63.6 3 4 75.0 5 8 62.5 0 3 3 5 4 2 2 3 7
+p238
+aVAlexis Ajinca CHA 02/25/2009 CHA @ SAC W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p239
+aVD.J. Augustin CHA 02/25/2009 CHA @ SAC W 21 12 4 5 80.0 4 4 100.0 0 0 - 0 0 0 2 0 0 1 0 1
+p240
+aVCartier Martin CHA 02/25/2009 CHA @ SAC W 7 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 5
+p241
+aVGerald Wallace CHA 02/25/2009 CHA @ SAC W 39 27 10 17 58.8 1 1 100.0 6 6 100.0 1 5 6 2 0 0 2 2 6
+p242
+aVBoris Diaw CHA 02/25/2009 CHA @ SAC W 38 23 9 13 69.2 2 4 50.0 3 3 100.0 2 3 5 5 1 0 2 1 3
+p243
+aVEmeka Okafor CHA 02/25/2009 CHA @ SAC W 38 13 5 11 45.5 0 0 - 3 7 42.9 3 8 11 0 0 2 1 2 12
+p244
+aVDeSagana Diop CHA 02/25/2009 CHA @ SAC W 10 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -5
+p245
+aVRaymond Felton CHA 02/25/2009 CHA @ SAC W 33 4 2 6 33.3 0 2 0.0 0 0 - 1 4 5 9 1 1 5 2 7
+p246
+aVVladimir Radmanovic CHA 02/25/2009 CHA @ SAC W 17 10 3 8 37.5 1 4 25.0 3 4 75.0 0 5 5 1 0 1 1 4 7
+p247
+aVRaja Bell CHA 02/25/2009 CHA @ SAC W 37 5 2 8 25.0 1 2 50.0 0 0 - 1 2 3 1 2 0 3 4 3
+p248
+aVGerald Wallace CHA 02/24/2009 CHA @ PHX L 24 13 4 8 50.0 1 2 50.0 4 6 66.7 1 4 5 0 1 0 5 6 -1
+p249
+aVRaja Bell CHA 02/24/2009 CHA @ PHX L 40 23 9 14 64.3 3 5 60.0 2 3 66.7 1 2 3 3 0 0 1 1 -6
+p250
+aVVladimir Radmanovic CHA 02/24/2009 CHA @ PHX L 27 8 3 9 33.3 2 5 40.0 0 0 - 3 4 7 0 0 0 2 3 -4
+p251
+aVDeSagana Diop CHA 02/24/2009 CHA @ PHX L 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 3 -3
+p252
+aVEmeka Okafor CHA 02/24/2009 CHA @ PHX L 25 8 2 9 22.2 0 0 - 4 8 50.0 2 4 6 0 0 0 3 5 -4
+p253
+aVD.J. Augustin CHA 02/24/2009 CHA @ PHX L 18 4 1 5 20.0 0 1 0.0 2 2 100.0 0 2 2 2 2 0 0 1 -1
+p254
+aVCartier Martin CHA 02/24/2009 CHA @ PHX L 9 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 0 0 0 0 1 -8
+p255
+aVJuwan Howard CHA 02/24/2009 CHA @ PHX L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p256
+aVBoris Diaw CHA 02/24/2009 CHA @ PHX L 41 27 10 12 83.3 1 1 100.0 6 8 75.0 3 7 10 6 1 2 2 2 -3
+p257
+aVRaymond Felton CHA 02/24/2009 CHA @ PHX L 41 14 7 15 46.7 0 1 0.0 0 0 - 2 1 3 9 5 0 4 3 -11
+p258
+aVEmeka Okafor CHA 02/22/2009 CHA @ HOU L 32 13 5 12 41.7 0 0 - 3 3 100.0 3 8 11 0 2 0 2 4 -14
+p259
+aVRaymond Felton CHA 02/22/2009 CHA @ HOU L 29 13 6 13 46.2 1 4 25.0 0 0 - 1 0 1 4 2 0 2 0 -18
+p260
+aVBoris Diaw CHA 02/22/2009 CHA @ HOU L 35 13 5 12 41.7 1 4 25.0 2 2 100.0 0 4 4 2 0 0 4 2 -16
+p261
+aVVladimir Radmanovic CHA 02/22/2009 CHA @ HOU L 28 7 2 8 25.0 1 5 20.0 2 2 100.0 1 2 3 2 0 0 3 3 -4
+p262
+aVD.J. Augustin CHA 02/22/2009 CHA @ HOU L 22 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 2 3 -4
+p263
+aVDeSagana Diop CHA 02/22/2009 CHA @ HOU L 16 3 1 5 20.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 0 -7
+p264
+aVCartier Martin CHA 02/22/2009 CHA @ HOU L 12 8 2 5 40.0 1 3 33.3 3 4 75.0 0 2 2 1 2 0 1 1 -1
+p265
+aVGerald Wallace CHA 02/22/2009 CHA @ HOU L 33 11 3 8 37.5 0 0 - 5 6 83.3 4 6 10 2 1 0 4 6 -24
+p266
+aVRaja Bell CHA 02/22/2009 CHA @ HOU L 33 9 3 9 33.3 0 2 0.0 3 3 100.0 2 3 5 1 0 1 3 1 -17
+p267
+aVRaja Bell CHA 02/20/2009 CHA vs. ORL L 22 7 3 7 42.9 1 1 100.0 0 0 - 0 0 0 1 1 0 1 2 -9
+p268
+aVDeSagana Diop CHA 02/20/2009 CHA vs. ORL L 13 2 1 3 33.3 0 0 - 0 2 0.0 2 0 2 0 1 0 2 2 -6
+p269
+aVD.J. Augustin CHA 02/20/2009 CHA vs. ORL L 26 9 3 11 27.3 1 2 50.0 2 2 100.0 0 5 5 3 1 0 1 1 -3
+p270
+aVJuwan Howard CHA 02/20/2009 CHA vs. ORL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p271
+aVGerald Wallace CHA 02/20/2009 CHA vs. ORL L 42 11 3 8 37.5 0 0 - 5 6 83.3 3 3 6 2 0 2 3 4 -9
+p272
+aVBoris Diaw CHA 02/20/2009 CHA vs. ORL L 38 15 5 14 35.7 2 4 50.0 3 3 100.0 4 4 8 2 2 1 3 3 -6
+p273
+aVCartier Martin CHA 02/20/2009 CHA vs. ORL L 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -8
+p274
+aVEmeka Okafor CHA 02/20/2009 CHA vs. ORL L 28 13 6 9 66.7 0 0 - 1 5 20.0 5 6 11 0 1 3 2 5 -5
+p275
+aVVladimir Radmanovic CHA 02/20/2009 CHA vs. ORL L 22 5 2 7 28.6 1 4 25.0 0 0 - 1 6 7 1 0 0 3 2 -9
+p276
+aVRaymond Felton CHA 02/20/2009 CHA vs. ORL L 38 16 6 18 33.3 0 2 0.0 4 4 100.0 0 5 5 5 1 0 1 2 -4
+p277
+aVEmeka Okafor CHA 02/18/2009 CHA vs. IND W 21 12 5 12 41.7 0 0 - 2 2 100.0 2 10 12 2 0 4 1 2 5
+p278
+aVRaja Bell CHA 02/18/2009 CHA vs. IND W 41 11 4 12 33.3 3 5 60.0 0 0 - 0 5 5 1 0 1 0 3 6
+p279
+aVDeSagana Diop CHA 02/18/2009 CHA vs. IND W 11 1 0 0 - 0 0 - 1 2 50.0 2 2 4 0 0 0 1 1 6
+p280
+aVBoris Diaw CHA 02/18/2009 CHA vs. IND W 37 14 7 13 53.8 0 0 - 0 0 - 2 4 6 3 0 3 1 3 3
+p281
+aVJuwan Howard CHA 02/18/2009 CHA vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p282
+aVVladimir Radmanovic CHA 02/18/2009 CHA vs. IND W 23 15 6 12 50.0 2 4 50.0 1 2 50.0 2 2 4 2 2 2 1 1 3
+p283
+aVGerald Wallace CHA 02/18/2009 CHA vs. IND W 39 25 5 17 29.4 0 3 0.0 15 17 88.2 3 7 10 7 2 1 1 4 2
+p284
+aVRaymond Felton CHA 02/18/2009 CHA vs. IND W 36 16 5 10 50.0 2 4 50.0 4 4 100.0 1 2 3 3 1 1 2 2 8
+p285
+aVD.J. Augustin CHA 02/18/2009 CHA vs. IND W 25 6 1 4 25.0 0 3 0.0 4 6 66.7 0 1 1 4 0 1 0 2 10
+p286
+aVCartier Martin CHA 02/18/2009 CHA vs. IND W 6 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 1 2 0 1 0 -1
+p287
+aVEmeka Okafor CHA 02/17/2009 CHA @ ORL L 35 14 6 14 42.9 0 0 - 2 4 50.0 4 5 9 1 4 1 1 6 -2
+p288
+aVD.J. Augustin CHA 02/17/2009 CHA @ ORL L 15 11 5 7 71.4 1 1 100.0 0 0 - 0 0 0 3 1 0 1 2 -1
+p289
+aVVladimir Radmanovic CHA 02/17/2009 CHA @ ORL L 25 12 5 11 45.5 2 6 33.3 0 0 - 1 3 4 1 0 0 3 2 10
+p290
+aVRaja Bell CHA 02/17/2009 CHA @ ORL L 42 13 4 10 40.0 1 2 50.0 4 5 80.0 2 4 6 4 1 0 2 4 -13
+p291
+aVRaymond Felton CHA 02/17/2009 CHA @ ORL L 42 22 10 21 47.6 1 2 50.0 1 2 50.0 4 6 10 5 1 0 0 0 -6
+p292
+aVGerald Wallace CHA 02/17/2009 CHA @ ORL L 39 8 3 9 33.3 1 4 25.0 1 2 50.0 0 4 4 4 0 1 4 3 -7
+p293
+aVCartier Martin CHA 02/17/2009 CHA @ ORL L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 3
+p294
+aVBoris Diaw CHA 02/17/2009 CHA @ ORL L 32 14 7 15 46.7 0 2 0.0 0 2 0.0 1 6 7 1 0 0 2 4 -13
+p295
+aVJuwan Howard CHA 02/17/2009 CHA @ ORL L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 6
+p296
+aVDeSagana Diop CHA 02/17/2009 CHA @ ORL L 18 6 3 5 60.0 0 0 - 0 2 0.0 5 2 7 1 1 2 0 5 -2
+p297
+aVRaymond Felton CHA 02/11/2009 CHA vs. WAS W 45 15 7 16 43.8 1 3 33.3 0 0 - 1 7 8 9 5 1 4 2 13
+p298
+aVBoris Diaw CHA 02/11/2009 CHA vs. WAS W 44 14 7 15 46.7 0 4 0.0 0 1 0.0 3 2 5 7 2 7 7 4 16
+p299
+aVDeSagana Diop CHA 02/11/2009 CHA vs. WAS W 15 0 0 0 - 0 0 - 0 0 - 1 2 3 2 0 0 0 0 1
+p300
+aVSean Singletary CHA 02/11/2009 CHA vs. WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 4
+p301
+aVAlexis Ajinca CHA 02/11/2009 CHA vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p302
+aVD.J. Augustin CHA 02/11/2009 CHA vs. WAS W 39 24 7 12 58.3 4 7 57.1 6 6 100.0 0 5 5 4 1 0 0 3 13
+p303
+aVCartier Martin CHA 02/11/2009 CHA vs. WAS W 24 9 3 8 37.5 1 3 33.3 2 4 50.0 2 2 4 1 0 0 0 3 5
+p304
+aVSean May CHA 02/11/2009 CHA vs. WAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -2
+p305
+aVVladimir Radmanovic CHA 02/11/2009 CHA vs. WAS W 30 21 8 14 57.1 5 10 50.0 0 0 - 0 2 2 2 1 1 2 4 1
+p306
+aVEmeka Okafor CHA 02/11/2009 CHA vs. WAS W 32 16 4 7 57.1 0 0 - 8 10 80.0 3 10 13 2 1 2 1 0 11
+p307
+aVSean Singletary CHA 02/09/2009 CHA vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p308
+aVCartier Martin CHA 02/09/2009 CHA vs. LAC W 17 6 2 4 50.0 0 1 0.0 2 2 100.0 1 3 4 1 0 1 0 4 11
+p309
+aVBoris Diaw CHA 02/09/2009 CHA vs. LAC W 40 15 7 11 63.6 1 2 50.0 0 0 - 1 3 4 9 0 0 3 4 21
+p310
+aVVladimir Radmanovic CHA 02/09/2009 CHA vs. LAC W 29 13 5 10 50.0 3 5 60.0 0 0 - 1 3 4 2 0 0 3 2 17
+p311
+aVRaymond Felton CHA 02/09/2009 CHA vs. LAC W 39 15 6 16 37.5 1 2 50.0 2 4 50.0 1 3 4 8 2 1 6 1 21
+p312
+aVAlexis Ajinca CHA 02/09/2009 CHA vs. LAC W 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p313
+aVSean May CHA 02/09/2009 CHA vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p314
+aVNazr Mohammed CHA 02/09/2009 CHA vs. LAC W 3 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 3
+p315
+aVEmeka Okafor CHA 02/09/2009 CHA vs. LAC W 39 19 8 14 57.1 0 0 - 3 4 75.0 4 12 16 1 1 3 3 3 19
+p316
+aVD.J. Augustin CHA 02/09/2009 CHA vs. LAC W 38 17 7 10 70.0 1 2 50.0 2 2 100.0 0 4 4 3 1 0 2 3 9
+p317
+aVDeSagana Diop CHA 02/09/2009 CHA vs. LAC W 24 4 2 6 33.3 0 0 - 0 2 0.0 2 5 7 3 1 0 0 4 6
+p318
+aVRaymond Felton CHA 02/08/2009 CHA @ MIA L 42 9 4 17 23.5 1 6 16.7 0 1 0.0 0 2 2 11 2 1 3 2 2
+p319
+aVBoris Diaw CHA 02/08/2009 CHA @ MIA L 43 10 4 8 50.0 2 3 66.7 0 0 - 0 5 5 5 0 0 3 1 1
+p320
+aVDeSagana Diop CHA 02/08/2009 CHA @ MIA L 26 8 4 6 66.7 0 0 - 0 0 - 4 2 6 1 0 0 1 1 2
+p321
+aVEmeka Okafor CHA 02/08/2009 CHA @ MIA L 31 10 5 8 62.5 0 0 - 0 0 - 2 6 8 0 0 0 0 1 -8
+p322
+aVCartier Martin CHA 02/08/2009 CHA @ MIA L 15 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 0 2 2 -2
+p323
+aVJuwan Howard CHA 02/08/2009 CHA @ MIA L 31 14 6 11 54.5 0 0 - 2 5 40.0 1 2 3 3 0 0 1 4 -10
+p324
+aVAlexis Ajinca CHA 02/08/2009 CHA @ MIA L 5 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 0 0 0 0 1 3
+p325
+aVNazr Mohammed CHA 02/08/2009 CHA @ MIA L 4 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 2
+p326
+aVSean Singletary CHA 02/08/2009 CHA @ MIA L 4 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p327
+aVD.J. Augustin CHA 02/08/2009 CHA @ MIA L 39 27 10 19 52.6 6 11 54.5 1 2 50.0 0 2 2 6 1 0 2 3 -9
+p328
+aVShannon Brown CHA 02/06/2009 CHA vs. ATL L 9 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 -6
+p329
+aVAdam Morrison CHA 02/06/2009 CHA vs. ATL L 18 4 2 6 33.3 0 3 0.0 0 0 - 0 1 1 1 0 0 0 4 -10
+p330
+aVBoris Diaw CHA 02/06/2009 CHA vs. ATL L 36 16 5 8 62.5 0 1 0.0 6 6 100.0 1 2 3 4 0 0 0 3 -6
+p331
+aVDeSagana Diop CHA 02/06/2009 CHA vs. ATL L 29 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 1 1 0 5 -2
+p332
+aVRaja Bell CHA 02/06/2009 CHA vs. ATL L 30 17 6 11 54.5 0 1 0.0 5 5 100.0 1 5 6 4 0 0 1 1 -6
+p333
+aVD.J. Augustin CHA 02/06/2009 CHA vs. ATL L 16 8 2 8 25.0 2 4 50.0 2 2 100.0 2 0 2 1 0 0 2 1 3
+p334
+aVRaymond Felton CHA 02/06/2009 CHA vs. ATL L 42 15 5 17 29.4 1 4 25.0 4 4 100.0 1 7 8 8 4 1 4 5 -7
+p335
+aVEmeka Okafor CHA 02/06/2009 CHA vs. ATL L 40 15 6 11 54.5 0 0 - 3 7 42.9 6 13 19 2 0 1 3 4 1
+p336
+aVCartier Martin CHA 02/06/2009 CHA vs. ATL L 19 11 3 7 42.9 2 5 40.0 3 4 75.0 0 1 1 1 1 1 0 5 8
+p337
+aVJuwan Howard CHA 02/02/2009 CHA @ UTA L 24 12 6 8 75.0 0 0 - 0 0 - 1 2 3 0 0 0 2 4 -19
+p338
+aVSean Singletary CHA 02/02/2009 CHA @ UTA L 6 5 2 2 100.0 1 1 100.0 0 2 0.0 0 0 0 2 0 0 0 3 -6
+p339
+aVRaymond Felton CHA 02/02/2009 CHA @ UTA L 44 16 5 11 45.5 1 4 25.0 5 5 100.0 1 5 6 9 4 1 5 5 -13
+p340
+aVRaja Bell CHA 02/02/2009 CHA @ UTA L 44 12 5 13 38.5 1 3 33.3 1 1 100.0 0 2 2 5 1 0 2 1 -21
+p341
+aVAdam Morrison CHA 02/02/2009 CHA @ UTA L 21 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 2 0
+p342
+aVCartier Martin CHA 02/02/2009 CHA @ UTA L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p343
+aVNazr Mohammed CHA 02/02/2009 CHA @ UTA L 7 5 2 4 50.0 0 0 - 1 4 25.0 4 1 5 0 0 0 2 2 -1
+p344
+aVAlexis Ajinca CHA 02/02/2009 CHA @ UTA L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p345
+aVDeSagana Diop CHA 02/02/2009 CHA @ UTA L 10 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 3 0 2 -7
+p346
+aVShannon Brown CHA 02/02/2009 CHA @ UTA L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 1 1 0 2 0 -5
+p347
+aVEmeka Okafor CHA 02/02/2009 CHA @ UTA L 30 15 6 10 60.0 0 0 - 3 6 50.0 4 3 7 1 2 3 1 3 -11
+p348
+aVBoris Diaw CHA 02/02/2009 CHA @ UTA L 34 10 4 9 44.4 2 3 66.7 0 0 - 0 5 5 5 1 1 8 5 -11
+p349
+aVJuwan Howard CHA 01/30/2009 CHA @ DEN L 26 11 4 10 40.0 0 0 - 3 4 75.0 3 2 5 1 1 1 2 1 -4
+p350
+aVRaymond Felton CHA 01/30/2009 CHA @ DEN L 39 9 3 10 30.0 1 2 50.0 2 3 66.7 0 1 1 9 1 1 1 4 -17
+p351
+aVDeSagana Diop CHA 01/30/2009 CHA @ DEN L 26 5 2 4 50.0 0 0 - 1 2 50.0 3 4 7 0 0 1 1 5 6
+p352
+aVBoris Diaw CHA 01/30/2009 CHA @ DEN L 39 16 6 14 42.9 2 5 40.0 2 2 100.0 1 4 5 5 1 2 7 2 -12
+p353
+aVRaja Bell CHA 01/30/2009 CHA @ DEN L 38 27 9 14 64.3 3 5 60.0 6 7 85.7 0 5 5 4 0 0 2 2 -3
+p354
+aVEmeka Okafor CHA 01/30/2009 CHA @ DEN L 21 10 4 6 66.7 0 0 - 2 2 100.0 3 2 5 0 0 2 3 3 -15
+p355
+aVAlexis Ajinca CHA 01/30/2009 CHA @ DEN L 3 4 1 2 50.0 0 0 - 2 4 50.0 1 0 1 1 1 0 0 0 3
+p356
+aVCartier Martin CHA 01/30/2009 CHA @ DEN L 9 6 2 5 40.0 2 4 50.0 0 0 - 0 0 0 1 0 0 0 2 5
+p357
+aVAdam Morrison CHA 01/30/2009 CHA @ DEN L 17 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 5 -14
+p358
+aVSean Singletary CHA 01/30/2009 CHA @ DEN L 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 7
+p359
+aVShannon Brown CHA 01/30/2009 CHA @ DEN L 15 4 2 7 28.6 0 2 0.0 0 1 0.0 0 0 0 2 0 0 0 1 -11
+p360
+aVSean Singletary CHA 01/28/2009 CHA @ POR L 12 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 3 2 -5
+p361
+aVAlexis Ajinca CHA 01/28/2009 CHA @ POR L 3 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 3
+p362
+aVRaymond Felton CHA 01/28/2009 CHA @ POR L 36 7 3 11 27.3 0 1 0.0 1 1 100.0 2 3 5 8 0 0 2 1 -9
+p363
+aVDeSagana Diop CHA 01/28/2009 CHA @ POR L 19 0 0 5 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -10
+p364
+aVEmeka Okafor CHA 01/28/2009 CHA @ POR L 29 18 7 11 63.6 0 0 - 4 6 66.7 1 4 5 0 0 1 0 5 -4
+p365
+aVShannon Brown CHA 01/28/2009 CHA @ POR L 19 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -2
+p366
+aVJuwan Howard CHA 01/28/2009 CHA @ POR L 24 9 3 6 50.0 0 0 - 3 4 75.0 0 2 2 0 1 0 3 3 -13
+p367
+aVRaja Bell CHA 01/28/2009 CHA @ POR L 36 16 6 13 46.2 2 5 40.0 2 2 100.0 2 2 4 3 1 0 2 4 -10
+p368
+aVBoris Diaw CHA 01/28/2009 CHA @ POR L 35 12 5 10 50.0 2 2 100.0 0 0 - 0 3 3 1 2 3 4 5 -11
+p369
+aVAdam Morrison CHA 01/28/2009 CHA @ POR L 26 4 2 6 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 1 4 -9
+p370
+aVGerald Wallace CHA 01/27/2009 CHA @ LAL W 32 15 7 13 53.8 0 2 0.0 1 4 25.0 0 4 4 2 2 0 2 3 12
+p371
+aVBoris Diaw CHA 01/27/2009 CHA @ LAL W 48 23 8 24 33.3 2 7 28.6 5 8 62.5 0 9 9 9 2 0 3 3 9
+p372
+aVJuwan Howard CHA 01/27/2009 CHA @ LAL W 15 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 4 0 0 1 3 -3
+p373
+aVRaja Bell CHA 01/27/2009 CHA @ LAL W 48 17 7 12 58.3 3 6 50.0 0 2 0.0 2 2 4 2 1 0 1 4 8
+p374
+aVAdam Morrison CHA 01/27/2009 CHA @ LAL W 9 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 1 -6
+p375
+aVDeSagana Diop CHA 01/27/2009 CHA @ LAL W 11 4 2 3 66.7 0 0 - 0 0 - 2 4 6 0 1 1 1 3 0
+p376
+aVSean Singletary CHA 01/27/2009 CHA @ LAL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p377
+aVEmeka Okafor CHA 01/27/2009 CHA @ LAL W 47 18 6 12 50.0 0 0 - 6 7 85.7 2 9 11 2 1 1 1 4 7
+p378
+aVRaymond Felton CHA 01/27/2009 CHA @ LAL W 53 21 8 17 47.1 1 4 25.0 4 4 100.0 1 10 11 9 0 1 2 1 6
+p379
+aVShannon Brown CHA 01/27/2009 CHA @ LAL W 22 14 6 11 54.5 2 5 40.0 0 0 - 2 2 4 2 0 0 1 1 1
+p380
+aVShannon Brown CHA 01/25/2009 CHA @ IND L 10 5 2 3 66.7 1 2 50.0 0 2 0.0 0 0 0 0 2 0 2 2 -7
+p381
+aVDeSagana Diop CHA 01/25/2009 CHA @ IND L 17 8 4 5 80.0 0 0 - 0 0 - 2 2 4 1 0 1 1 0 -11
+p382
+aVSean Singletary CHA 01/25/2009 CHA @ IND L 11 2 0 2 0.0 0 2 0.0 2 2 100.0 0 0 0 1 1 0 1 2 -14
+p383
+aVBoris Diaw CHA 01/25/2009 CHA @ IND L 38 18 8 19 42.1 2 5 40.0 0 2 0.0 2 4 6 3 1 0 0 0 4
+p384
+aVJuwan Howard CHA 01/25/2009 CHA @ IND L 15 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 1 1 0 0 2 -8
+p385
+aVRaja Bell CHA 01/25/2009 CHA @ IND L 38 18 7 14 50.0 2 5 40.0 2 2 100.0 0 4 4 2 1 0 1 4 2
+p386
+aVGerald Wallace CHA 01/25/2009 CHA @ IND L 35 10 1 8 12.5 0 2 0.0 8 8 100.0 1 4 5 4 2 1 2 1 -2
+p387
+aVEmeka Okafor CHA 01/25/2009 CHA @ IND L 31 14 5 9 55.6 0 0 - 4 11 36.4 3 5 8 0 0 2 2 5 6
+p388
+aVAdam Morrison CHA 01/25/2009 CHA @ IND L 8 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -4
+p389
+aVRaymond Felton CHA 01/25/2009 CHA @ IND L 37 9 4 11 36.4 1 5 20.0 0 1 0.0 2 3 5 12 1 1 2 2 9
+p390
+aVGerald Wallace CHA 01/23/2009 CHA vs. PHX W 37 28 11 13 84.6 3 3 100.0 3 5 60.0 1 7 8 5 5 2 1 1 28
+p391
+aVBoris Diaw CHA 01/23/2009 CHA vs. PHX W 32 26 10 16 62.5 3 4 75.0 3 3 100.0 2 9 11 4 2 1 2 4 33
+p392
+aVRaymond Felton CHA 01/23/2009 CHA vs. PHX W 37 11 5 14 35.7 0 2 0.0 1 1 100.0 1 1 2 5 1 0 2 1 35
+p393
+aVRaja Bell CHA 01/23/2009 CHA vs. PHX W 35 9 4 11 36.4 1 6 16.7 0 0 - 1 4 5 8 2 0 2 1 34
+p394
+aVSean Singletary CHA 01/23/2009 CHA vs. PHX W 11 1 0 2 0.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 0 -13
+p395
+aVAlexis Ajinca CHA 01/23/2009 CHA vs. PHX W 9 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -12
+p396
+aVAdam Morrison CHA 01/23/2009 CHA vs. PHX W 11 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -6
+p397
+aVShannon Brown CHA 01/23/2009 CHA vs. PHX W 13 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 0 3 2 -12
+p398
+aVJuwan Howard CHA 01/23/2009 CHA vs. PHX W 12 8 4 5 80.0 0 0 - 0 0 - 1 1 2 1 0 0 0 2 11
+p399
+aVDeSagana Diop CHA 01/23/2009 CHA vs. PHX W 15 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 1 2 2 3 3 -3
+p400
+aVEmeka Okafor CHA 01/23/2009 CHA vs. PHX W 18 5 2 6 33.3 0 0 - 1 1 100.0 1 7 8 0 0 1 2 4 12
+p401
+aVNazr Mohammed CHA 01/23/2009 CHA vs. PHX W 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 5 3
+p402
+aVGerald Wallace CHA 01/21/2009 CHA vs. MEM W 37 13 4 10 40.0 0 1 0.0 5 5 100.0 1 6 7 9 4 1 2 4 15
+p403
+aVRaymond Felton CHA 01/21/2009 CHA vs. MEM W 38 19 7 13 53.8 3 6 50.0 2 2 100.0 0 1 1 6 5 0 6 2 18
+p404
+aVJuwan Howard CHA 01/21/2009 CHA vs. MEM W 16 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 1 1 4 -5
+p405
+aVEmeka Okafor CHA 01/21/2009 CHA vs. MEM W 37 20 6 9 66.7 0 0 - 8 12 66.7 4 11 15 0 3 3 0 1 24
+p406
+aVRaja Bell CHA 01/21/2009 CHA vs. MEM W 39 25 11 17 64.7 1 4 25.0 2 2 100.0 0 2 2 2 1 0 3 3 20
+p407
+aVDeSagana Diop CHA 01/21/2009 CHA vs. MEM W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p408
+aVShannon Brown CHA 01/21/2009 CHA vs. MEM W 5 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 0 2 -3
+p409
+aVAdam Morrison CHA 01/21/2009 CHA vs. MEM W 13 3 1 3 33.3 1 2 50.0 0 0 - 2 3 5 0 0 0 3 2 0
+p410
+aVBoris Diaw CHA 01/21/2009 CHA vs. MEM W 39 8 3 9 33.3 1 1 100.0 1 2 50.0 2 6 8 7 2 0 2 3 17
+p411
+aVSean Singletary CHA 01/21/2009 CHA vs. MEM W 13 5 2 5 40.0 1 1 100.0 0 0 - 1 0 1 2 0 0 2 1 -5
+p412
+aVNazr Mohammed CHA 01/19/2009 CHA vs. SAS L 5 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 2 -2
+p413
+aVRaja Bell CHA 01/19/2009 CHA vs. SAS L 42 25 6 11 54.5 2 4 50.0 11 11 100.0 1 5 6 2 0 0 2 1 4
+p414
+aVBoris Diaw CHA 01/19/2009 CHA vs. SAS L 37 16 7 19 36.8 1 5 20.0 1 2 50.0 6 7 13 3 0 0 3 2 4
+p415
+aVJuwan Howard CHA 01/19/2009 CHA vs. SAS L 18 3 1 7 14.3 0 0 - 1 2 50.0 2 2 4 0 0 0 1 4 -5
+p416
+aVSean Singletary CHA 01/19/2009 CHA vs. SAS L 10 4 1 4 25.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 0 2 -7
+p417
+aVShannon Brown CHA 01/19/2009 CHA vs. SAS L 8 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 1 -6
+p418
+aVAdam Morrison CHA 01/19/2009 CHA vs. SAS L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -4
+p419
+aVGerald Wallace CHA 01/19/2009 CHA vs. SAS L 40 9 3 12 25.0 0 1 0.0 3 4 75.0 1 5 6 3 1 1 1 3 -2
+p420
+aVEmeka Okafor CHA 01/19/2009 CHA vs. SAS L 31 12 6 9 66.7 0 0 - 0 2 0.0 2 7 9 1 0 2 0 5 3
+p421
+aVRaymond Felton CHA 01/19/2009 CHA vs. SAS L 38 13 4 11 36.4 2 3 66.7 3 3 100.0 0 2 2 9 3 1 2 4 5
+p422
+aVNazr Mohammed CHA 01/17/2009 CHA vs. POR W 7 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -7
+p423
+aVRaymond Felton CHA 01/17/2009 CHA vs. POR W 44 16 6 15 40.0 0 1 0.0 4 5 80.0 0 5 5 7 1 2 3 2 5
+p424
+aVGerald Wallace CHA 01/17/2009 CHA vs. POR W 45 31 10 19 52.6 1 3 33.3 10 13 76.9 3 13 16 3 1 2 2 4 4
+p425
+aVRaja Bell CHA 01/17/2009 CHA vs. POR W 40 10 3 9 33.3 1 4 25.0 3 4 75.0 0 6 6 0 0 0 2 3 2
+p426
+aVEmeka Okafor CHA 01/17/2009 CHA vs. POR W 43 22 9 14 64.3 0 0 - 4 7 57.1 5 6 11 1 0 3 1 2 8
+p427
+aVShannon Brown CHA 01/17/2009 CHA vs. POR W 16 4 2 4 50.0 0 1 0.0 0 0 - 1 2 3 0 1 0 0 0 6
+p428
+aVSean Singletary CHA 01/17/2009 CHA vs. POR W 10 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 3 0
+p429
+aVAdam Morrison CHA 01/17/2009 CHA vs. POR W 7 1 0 3 0.0 0 1 0.0 1 2 50.0 1 1 2 2 0 1 0 1 -6
+p430
+aVJuwan Howard CHA 01/17/2009 CHA vs. POR W 13 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 8
+p431
+aVBoris Diaw CHA 01/17/2009 CHA vs. POR W 39 5 2 9 22.2 1 2 50.0 0 0 - 1 4 5 7 0 0 2 5 5
+p432
+aVSean Singletary CHA 01/13/2009 CHA @ DET W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p433
+aVRaymond Felton CHA 01/13/2009 CHA @ DET W 42 23 9 15 60.0 2 3 66.7 3 3 100.0 1 5 6 9 0 0 1 4 1
+p434
+aVRaja Bell CHA 01/13/2009 CHA @ DET W 38 6 3 9 33.3 0 2 0.0 0 0 - 0 4 4 2 0 0 1 1 2
+p435
+aVEmeka Okafor CHA 01/13/2009 CHA @ DET W 33 13 6 11 54.5 0 0 - 1 4 25.0 3 6 9 0 0 0 5 4 5
+p436
+aVBoris Diaw CHA 01/13/2009 CHA @ DET W 35 7 2 8 25.0 0 0 - 3 4 75.0 0 4 4 6 2 0 0 1 -4
+p437
+aVGerald Wallace CHA 01/13/2009 CHA @ DET W 43 18 6 14 42.9 0 1 0.0 6 6 100.0 1 9 10 2 1 1 2 1 9
+p438
+aVAdam Morrison CHA 01/13/2009 CHA @ DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p439
+aVMatt Carroll CHA 01/13/2009 CHA @ DET W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 1 2 -2
+p440
+aVJuwan Howard CHA 01/13/2009 CHA @ DET W 18 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 1 0 1 2 0
+p441
+aVNazr Mohammed CHA 01/13/2009 CHA @ DET W 12 1 0 6 0.0 0 0 - 1 2 50.0 4 2 6 0 0 0 0 3 1
+p442
+aVBoris Diaw CHA 01/10/2009 CHA @ WAS W 31 18 8 13 61.5 2 3 66.7 0 0 - 1 2 3 3 0 1 2 4 4
+p443
+aVD.J. Augustin CHA 01/10/2009 CHA @ WAS W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p444
+aVGerald Wallace CHA 01/10/2009 CHA @ WAS W 20 0 0 0 - 0 0 - 0 0 - 2 3 5 1 0 0 0 2 -6
+p445
+aVEmeka Okafor CHA 01/10/2009 CHA @ WAS W 38 9 4 7 57.1 0 0 - 1 2 50.0 2 4 6 1 0 0 2 3 -2
+p446
+aVRaymond Felton CHA 01/10/2009 CHA @ WAS W 40 9 2 9 22.2 1 4 25.0 4 4 100.0 0 3 3 11 1 0 6 3 8
+p447
+aVSean Singletary CHA 01/10/2009 CHA @ WAS W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -5
+p448
+aVRaja Bell CHA 01/10/2009 CHA @ WAS W 38 19 7 17 41.2 3 9 33.3 2 2 100.0 0 2 2 5 1 0 0 3 -1
+p449
+aVNazr Mohammed CHA 01/10/2009 CHA @ WAS W 9 2 0 1 0.0 0 0 - 2 4 50.0 3 0 3 0 0 0 0 1 2
+p450
+aVAdam Morrison CHA 01/10/2009 CHA @ WAS W 22 11 4 6 66.7 1 1 100.0 2 2 100.0 0 2 2 3 2 0 2 3 3
+p451
+aVJuwan Howard CHA 01/10/2009 CHA @ WAS W 17 12 6 9 66.7 0 0 - 0 0 - 0 3 3 1 0 2 0 2 2
+p452
+aVShannon Brown CHA 01/10/2009 CHA @ WAS W 12 9 3 3 100.0 1 1 100.0 2 2 100.0 0 0 0 0 1 0 0 3 12
+p453
+aVGerald Wallace CHA 01/09/2009 CHA @ PHI L 41 6 3 11 27.3 0 0 - 0 0 - 2 4 6 2 1 0 1 2 -1
+p454
+aVMatt Carroll CHA 01/09/2009 CHA @ PHI L 14 9 4 5 80.0 1 2 50.0 0 0 - 0 0 0 1 1 0 0 2 -1
+p455
+aVD.J. Augustin CHA 01/09/2009 CHA @ PHI L 15 6 2 6 33.3 1 2 50.0 1 2 50.0 0 1 1 2 0 0 2 5 -6
+p456
+aVJuwan Howard CHA 01/09/2009 CHA @ PHI L 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 3 1 0 1 1 -1
+p457
+aVRaymond Felton CHA 01/09/2009 CHA @ PHI L 36 13 4 10 40.0 1 3 33.3 4 6 66.7 2 2 4 8 1 0 1 2 -5
+p458
+aVBoris Diaw CHA 01/09/2009 CHA @ PHI L 40 8 2 12 16.7 1 6 16.7 3 4 75.0 4 3 7 5 0 0 5 1 -8
+p459
+aVSean Singletary CHA 01/09/2009 CHA @ PHI L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 1 0 0 2 -1
+p460
+aVRaja Bell CHA 01/09/2009 CHA @ PHI L 26 13 6 9 66.7 1 2 50.0 0 0 - 0 1 1 2 0 0 3 3 -1
+p461
+aVNazr Mohammed CHA 01/09/2009 CHA @ PHI L 11 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 0 0 1 3
+p462
+aVEmeka Okafor CHA 01/09/2009 CHA @ PHI L 34 24 10 13 76.9 0 0 - 4 6 66.7 4 7 11 0 0 2 2 1 -9
+p463
+aVAlexis Ajinca CHA 01/07/2009 CHA @ CLE L 8 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 0 1 3 -7
+p464
+aVD.J. Augustin CHA 01/07/2009 CHA @ CLE L 35 11 3 8 37.5 2 5 40.0 3 3 100.0 0 3 3 3 0 0 2 2 -30
+p465
+aVAdam Morrison CHA 01/07/2009 CHA @ CLE L 12 2 1 6 16.7 0 2 0.0 0 0 - 0 2 2 0 1 0 1 0 -14
+p466
+aVRaymond Felton CHA 01/07/2009 CHA @ CLE L 31 15 6 11 54.5 0 1 0.0 3 3 100.0 0 1 1 2 2 0 1 1 -30
+p467
+aVGerald Wallace CHA 01/07/2009 CHA @ CLE L 33 14 6 10 60.0 0 2 0.0 2 3 66.7 0 0 0 3 1 0 2 3 -16
+p468
+aVJuwan Howard CHA 01/07/2009 CHA @ CLE L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -14
+p469
+aVMatt Carroll CHA 01/07/2009 CHA @ CLE L 18 2 1 8 12.5 0 2 0.0 0 0 - 1 2 3 1 1 0 1 2 -10
+p470
+aVBoris Diaw CHA 01/07/2009 CHA @ CLE L 38 10 5 12 41.7 0 1 0.0 0 0 - 3 5 8 6 2 1 3 1 -24
+p471
+aVRyan Hollins CHA 01/07/2009 CHA @ CLE L 17 5 1 3 33.3 0 0 - 3 5 60.0 2 2 4 0 1 1 0 3 0
+p472
+aVEmeka Okafor CHA 01/07/2009 CHA @ CLE L 25 7 2 7 28.6 0 0 - 3 4 75.0 2 4 6 0 1 2 4 3 -12
+p473
+aVSean Singletary CHA 01/07/2009 CHA @ CLE L 20 13 4 7 57.1 1 2 50.0 4 4 100.0 1 2 3 0 1 0 0 1 7
+p474
+aVBoris Diaw CHA 01/06/2009 CHA vs. BOS W 44 15 6 8 75.0 1 3 33.3 2 2 100.0 0 5 5 5 1 1 3 1 12
+p475
+aVAdam Morrison CHA 01/06/2009 CHA vs. BOS W 15 13 6 9 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p476
+aVRyan Hollins CHA 01/06/2009 CHA vs. BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p477
+aVGerald Wallace CHA 01/06/2009 CHA vs. BOS W 41 23 7 17 41.2 1 3 33.3 8 8 100.0 1 5 6 3 4 0 1 2 13
+p478
+aVSean Singletary CHA 01/06/2009 CHA vs. BOS W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -3
+p479
+aVD.J. Augustin CHA 01/06/2009 CHA vs. BOS W 35 20 3 8 37.5 2 4 50.0 12 12 100.0 0 1 1 5 0 0 2 3 15
+p480
+aVNazr Mohammed CHA 01/06/2009 CHA vs. BOS W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -9
+p481
+aVEmeka Okafor CHA 01/06/2009 CHA vs. BOS W 44 13 6 12 50.0 0 0 - 1 1 100.0 5 12 17 0 0 3 1 5 19
+p482
+aVMatt Carroll CHA 01/06/2009 CHA vs. BOS W 15 4 1 4 25.0 1 1 100.0 1 1 100.0 1 3 4 1 1 0 1 3 -1
+p483
+aVRaymond Felton CHA 01/06/2009 CHA vs. BOS W 47 25 9 17 52.9 1 2 50.0 6 8 75.0 0 3 3 8 2 1 7 2 13
+p484
+aVJuwan Howard CHA 01/06/2009 CHA vs. BOS W 9 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 4 -6
+p485
+aVNazr Mohammed CHA 01/03/2009 CHA vs. MIL W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p486
+aVAdam Morrison CHA 01/03/2009 CHA vs. MIL W 14 5 1 6 16.7 1 5 20.0 2 2 100.0 0 0 0 0 0 0 0 3 -2
+p487
+aVMatt Carroll CHA 01/03/2009 CHA vs. MIL W 26 7 2 8 25.0 2 3 66.7 1 1 100.0 0 3 3 1 1 1 3 3 -8
+p488
+aVAlexis Ajinca CHA 01/03/2009 CHA vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p489
+aVShannon Brown CHA 01/03/2009 CHA vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 0
+p490
+aVBoris Diaw CHA 01/03/2009 CHA vs. MIL W 37 21 8 11 72.7 2 3 66.7 3 4 75.0 0 6 6 7 1 1 5 3 15
+p491
+aVD.J. Augustin CHA 01/03/2009 CHA vs. MIL W 30 12 3 8 37.5 1 3 33.3 5 5 100.0 0 3 3 5 2 0 0 1 11
+p492
+aVJuwan Howard CHA 01/03/2009 CHA vs. MIL W 14 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 0 1 3 -2
+p493
+aVRaymond Felton CHA 01/03/2009 CHA vs. MIL W 42 11 4 8 50.0 0 1 0.0 3 3 100.0 0 6 6 5 2 0 2 5 10
+p494
+aVGerald Wallace CHA 01/03/2009 CHA vs. MIL W 38 24 7 17 41.2 1 3 33.3 9 10 90.0 2 1 3 2 3 1 1 2 15
+p495
+aVEmeka Okafor CHA 01/03/2009 CHA vs. MIL W 30 14 5 8 62.5 0 0 - 4 6 66.7 2 4 6 1 0 0 2 3 14
+p496
+aVBoris Diaw CHA 01/02/2009 CHA @ MIL L 36 16 7 12 58.3 1 4 25.0 1 2 50.0 1 2 3 6 0 0 0 4 -16
+p497
+aVMatt Carroll CHA 01/02/2009 CHA @ MIL L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 1 2 -4
+p498
+aVRaymond Felton CHA 01/02/2009 CHA @ MIL L 33 10 4 11 36.4 0 1 0.0 2 2 100.0 0 3 3 3 2 0 3 2 -12
+p499
+aVJuwan Howard CHA 01/02/2009 CHA @ MIL L 10 4 2 3 66.7 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -5
+p500
+aVShannon Brown CHA 01/02/2009 CHA @ MIL L 15 2 1 6 16.7 0 0 - 0 0 - 2 1 3 3 1 0 5 3 -20
+p501
+aVGerald Wallace CHA 01/02/2009 CHA @ MIL L 34 11 4 11 36.4 0 3 0.0 3 4 75.0 4 5 9 2 1 0 4 1 -23
+p502
+aVNazr Mohammed CHA 01/02/2009 CHA @ MIL L 15 5 1 4 25.0 0 0 - 3 4 75.0 4 4 8 0 1 1 1 2 -10
+p503
+aVD.J. Augustin CHA 01/02/2009 CHA @ MIL L 31 8 2 11 18.2 1 7 14.3 3 4 75.0 0 1 1 4 1 0 5 2 -11
+p504
+aVEmeka Okafor CHA 01/02/2009 CHA @ MIL L 33 11 5 10 50.0 0 0 - 1 1 100.0 4 8 12 0 1 2 2 1 -18
+p505
+aVAdam Morrison CHA 01/02/2009 CHA @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p506
+aVAlexis Ajinca CHA 01/02/2009 CHA @ MIL L 12 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 4 -9
+p507
+aVSean Singletary CHA 01/02/2009 CHA @ MIL L 8 3 1 3 33.3 1 1 100.0 0 0 - 1 0 1 0 0 0 2 1 -9
+p508
+aVAdam Morrison CHA 12/30/2008 CHA vs. NYK L 13 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 1 0 1 4
+p509
+aVEmeka Okafor CHA 12/30/2008 CHA vs. NYK L 38 13 5 11 45.5 0 0 - 3 5 60.0 7 8 15 0 0 1 4 0 -3
+p510
+aVMatt Carroll CHA 12/30/2008 CHA vs. NYK L 14 4 2 6 33.3 0 1 0.0 0 0 - 0 3 3 0 1 0 1 2 -7
+p511
+aVGerald Wallace CHA 12/30/2008 CHA vs. NYK L 41 21 8 15 53.3 0 3 0.0 5 6 83.3 0 6 6 2 2 1 3 3 -6
+p512
+aVBoris Diaw CHA 12/30/2008 CHA vs. NYK L 38 20 7 12 58.3 3 6 50.0 3 4 75.0 0 6 6 4 0 1 6 6 -11
+p513
+aVRaymond Felton CHA 12/30/2008 CHA vs. NYK L 40 12 5 17 29.4 1 5 20.0 1 2 50.0 3 5 8 8 2 2 1 4 -4
+p514
+aVD.J. Augustin CHA 12/30/2008 CHA vs. NYK L 35 15 6 12 50.0 2 6 33.3 1 2 50.0 1 3 4 2 2 0 0 0 10
+p515
+aVSean Singletary CHA 12/30/2008 CHA vs. NYK L 14 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 3 1 0 3 2 -4
+p516
+aVRyan Hollins CHA 12/30/2008 CHA vs. NYK L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 0 1
+p517
+aVBoris Diaw CHA 12/27/2008 CHA vs. NJN L 43 9 3 10 30.0 0 0 - 3 6 50.0 3 6 9 7 1 0 4 4 -19
+p518
+aVRaymond Felton CHA 12/27/2008 CHA vs. NJN L 43 13 5 17 29.4 1 3 33.3 2 3 66.7 0 5 5 2 1 0 4 2 -21
+p519
+aVRaja Bell CHA 12/27/2008 CHA vs. NJN L 28 18 7 10 70.0 4 6 66.7 0 0 - 0 3 3 2 0 1 0 1 -3
+p520
+aVNazr Mohammed CHA 12/27/2008 CHA vs. NJN L 6 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -1
+p521
+aVMatt Carroll CHA 12/27/2008 CHA vs. NJN L 10 6 3 5 60.0 0 1 0.0 0 0 - 1 0 1 1 1 1 0 1 1
+p522
+aVJuwan Howard CHA 12/27/2008 CHA vs. NJN L 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 3
+p523
+aVEmeka Okafor CHA 12/27/2008 CHA vs. NJN L 44 16 6 11 54.5 0 0 - 4 6 66.7 5 5 10 0 0 3 1 5 -10
+p524
+aVSean Singletary CHA 12/27/2008 CHA vs. NJN L 8 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 3 4
+p525
+aVD.J. Augustin CHA 12/27/2008 CHA vs. NJN L 28 3 1 4 25.0 0 3 0.0 1 1 100.0 0 2 2 2 0 0 4 0 -3
+p526
+aVGerald Wallace CHA 12/27/2008 CHA vs. NJN L 46 32 11 17 64.7 1 3 33.3 9 11 81.8 2 7 9 4 2 2 3 6 -6
+p527
+aVRaymond Felton CHA 12/26/2008 CHA @ NJN W 39 22 6 11 54.5 1 4 25.0 9 13 69.2 1 1 2 3 2 0 1 3 2
+p528
+aVNazr Mohammed CHA 12/26/2008 CHA @ NJN W 11 6 3 4 75.0 0 0 - 0 0 - 1 3 4 1 0 1 1 3 -3
+p529
+aVEmeka Okafor CHA 12/26/2008 CHA @ NJN W 36 21 9 14 64.3 0 0 - 3 4 75.0 3 6 9 1 0 2 3 1 16
+p530
+aVMatt Carroll CHA 12/26/2008 CHA @ NJN W 13 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 0 0 1 0 -10
+p531
+aVD.J. Augustin CHA 12/26/2008 CHA @ NJN W 18 5 2 7 28.6 0 2 0.0 1 2 50.0 0 2 2 2 0 0 1 1 -2
+p532
+aVBoris Diaw CHA 12/26/2008 CHA @ NJN W 45 16 8 16 50.0 0 2 0.0 0 0 - 1 7 8 7 0 0 5 1 14
+p533
+aVRaja Bell CHA 12/26/2008 CHA @ NJN W 36 9 3 8 37.5 3 3 100.0 0 0 - 0 2 2 4 0 0 2 2 10
+p534
+aVSean Singletary CHA 12/26/2008 CHA @ NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p535
+aVGerald Wallace CHA 12/26/2008 CHA @ NJN W 38 16 4 8 50.0 2 3 66.7 6 7 85.7 1 12 13 6 1 1 3 1 10
+p536
+aVMatt Carroll CHA 12/23/2008 CHA vs. WAS W 14 3 1 7 14.3 1 5 20.0 0 0 - 0 2 2 0 0 0 0 1 -3
+p537
+aVRyan Hollins CHA 12/23/2008 CHA vs. WAS W 5 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 2 0 2 -3
+p538
+aVGerald Wallace CHA 12/23/2008 CHA vs. WAS W 36 16 6 7 85.7 1 1 100.0 3 4 75.0 0 8 8 1 0 1 3 4 12
+p539
+aVSean Singletary CHA 12/23/2008 CHA vs. WAS W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p540
+aVRaja Bell CHA 12/23/2008 CHA vs. WAS W 36 11 5 12 41.7 1 3 33.3 0 0 - 0 4 4 2 0 0 1 2 11
+p541
+aVRaymond Felton CHA 12/23/2008 CHA vs. WAS W 36 7 3 8 37.5 0 0 - 1 1 100.0 1 4 5 8 0 1 5 1 15
+p542
+aVBoris Diaw CHA 12/23/2008 CHA vs. WAS W 42 6 3 14 21.4 0 1 0.0 0 0 - 3 8 11 5 1 1 5 3 11
+p543
+aVJuwan Howard CHA 12/23/2008 CHA vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -2
+p544
+aVD.J. Augustin CHA 12/23/2008 CHA vs. WAS W 24 7 2 6 33.3 0 2 0.0 3 4 75.0 1 0 1 1 0 0 2 2 -10
+p545
+aVEmeka Okafor CHA 12/23/2008 CHA vs. WAS W 43 29 10 15 66.7 0 0 - 9 17 52.9 6 12 18 4 1 3 1 0 11
+p546
+aVRaja Bell CHA 12/20/2008 CHA vs. GSW L 38 21 7 12 58.3 5 7 71.4 2 2 100.0 0 6 6 3 0 0 1 2 4
+p547
+aVRaymond Felton CHA 12/20/2008 CHA vs. GSW L 45 14 6 19 31.6 2 5 40.0 0 1 0.0 1 1 2 8 2 0 4 4 -13
+p548
+aVD.J. Augustin CHA 12/20/2008 CHA vs. GSW L 20 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 3 0 0 3 3 -3
+p549
+aVSean Singletary CHA 12/20/2008 CHA vs. GSW L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p550
+aVMatt Carroll CHA 12/20/2008 CHA vs. GSW L 6 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 2
+p551
+aVEmeka Okafor CHA 12/20/2008 CHA vs. GSW L 34 12 6 13 46.2 0 0 - 0 3 0.0 5 8 13 1 0 3 4 4 -3
+p552
+aVBoris Diaw CHA 12/20/2008 CHA vs. GSW L 29 11 5 9 55.6 1 1 100.0 0 0 - 3 7 10 6 2 1 4 5 15
+p553
+aVRyan Hollins CHA 12/20/2008 CHA vs. GSW L 13 7 1 2 50.0 0 0 - 5 6 83.3 1 1 2 0 0 3 2 1 -6
+p554
+aVAdam Morrison CHA 12/20/2008 CHA vs. GSW L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 -5
+p555
+aVJuwan Howard CHA 12/20/2008 CHA vs. GSW L 8 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 1 0 0 -11
+p556
+aVGerald Wallace CHA 12/20/2008 CHA vs. GSW L 39 26 8 15 53.3 1 2 50.0 9 11 81.8 1 3 4 2 0 2 0 4 -13
+p557
+aVGerald Wallace CHA 12/19/2008 CHA @ MEM W 28 22 9 11 81.8 0 0 - 4 4 100.0 1 8 9 2 4 0 2 2 29
+p558
+aVRaymond Felton CHA 12/19/2008 CHA @ MEM W 32 2 1 3 33.3 0 1 0.0 0 0 - 0 4 4 8 0 1 4 2 20
+p559
+aVNazr Mohammed CHA 12/19/2008 CHA @ MEM W 13 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -4
+p560
+aVJuwan Howard CHA 12/19/2008 CHA @ MEM W 15 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 1 0 0 1 2 0
+p561
+aVMatt Carroll CHA 12/19/2008 CHA @ MEM W 17 10 5 6 83.3 0 0 - 0 0 - 0 1 1 2 0 0 0 2 12
+p562
+aVAlexis Ajinca CHA 12/19/2008 CHA @ MEM W 4 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p563
+aVRaja Bell CHA 12/19/2008 CHA @ MEM W 32 6 3 9 33.3 0 4 0.0 0 0 - 0 2 2 3 0 0 0 2 20
+p564
+aVBoris Diaw CHA 12/19/2008 CHA @ MEM W 35 26 11 13 84.6 4 4 100.0 0 0 - 4 6 10 3 1 0 2 0 22
+p565
+aVD.J. Augustin CHA 12/19/2008 CHA @ MEM W 24 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 10 0 0 5 0 0
+p566
+aVAdam Morrison CHA 12/19/2008 CHA @ MEM W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 7
+p567
+aVRyan Hollins CHA 12/19/2008 CHA @ MEM W 7 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 10
+p568
+aVEmeka Okafor CHA 12/19/2008 CHA @ MEM W 29 25 11 16 68.8 0 0 - 3 6 50.0 2 5 7 3 0 1 1 2 23
+p569
+aVEmeka Okafor CHA 12/16/2008 CHA vs. CHI W 42 20 7 12 58.3 0 0 - 6 11 54.5 6 7 13 0 3 4 1 3 -6
+p570
+aVSean Singletary CHA 12/16/2008 CHA vs. CHI W 3 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 1
+p571
+aVMatt Carroll CHA 12/16/2008 CHA vs. CHI W 30 7 3 5 60.0 1 2 50.0 0 1 0.0 0 4 4 3 0 1 0 3 13
+p572
+aVRaymond Felton CHA 12/16/2008 CHA vs. CHI W 50 21 7 17 41.2 0 0 - 7 8 87.5 0 6 6 7 3 0 3 4 8
+p573
+aVBoris Diaw CHA 12/16/2008 CHA vs. CHI W 46 15 6 13 46.2 1 2 50.0 2 2 100.0 0 7 7 4 0 2 4 4 8
+p574
+aVJuwan Howard CHA 12/16/2008 CHA vs. CHI W 26 8 3 8 37.5 0 0 - 2 4 50.0 2 3 5 0 0 0 1 3 -1
+p575
+aVRaja Bell CHA 12/16/2008 CHA vs. CHI W 8 0 0 5 0.0 0 2 0.0 0 0 - 2 0 2 0 0 0 0 1 -11
+p576
+aVD.J. Augustin CHA 12/16/2008 CHA vs. CHI W 45 29 6 16 37.5 4 7 57.1 13 13 100.0 0 2 2 7 1 0 1 1 20
+p577
+aVRyan Hollins CHA 12/16/2008 CHA vs. CHI W 15 8 3 4 75.0 0 0 - 2 4 50.0 0 2 2 1 0 3 1 1 13
+p578
+aVRaymond Felton CHA 12/15/2008 CHA @ ATL L 39 15 5 15 33.3 2 3 66.7 3 3 100.0 0 1 1 7 0 0 0 1 -1
+p579
+aVEmeka Okafor CHA 12/15/2008 CHA @ ATL L 36 10 3 7 42.9 0 0 - 4 4 100.0 2 9 11 1 0 0 1 1 2
+p580
+aVNazr Mohammed CHA 12/15/2008 CHA @ ATL L 7 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -1
+p581
+aVD.J. Augustin CHA 12/15/2008 CHA @ ATL L 28 9 4 13 30.8 1 7 14.3 0 0 - 0 2 2 4 0 0 0 3 -8
+p582
+aVBoris Diaw CHA 12/15/2008 CHA @ ATL L 40 25 11 23 47.8 1 2 50.0 2 5 40.0 2 1 3 3 1 0 2 4 -7
+p583
+aVGerald Wallace CHA 12/15/2008 CHA @ ATL L 36 11 4 8 50.0 0 0 - 3 4 75.0 0 10 10 2 0 2 3 2 -1
+p584
+aVAdam Morrison CHA 12/15/2008 CHA @ ATL L 12 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -2
+p585
+aVRaja Bell CHA 12/15/2008 CHA @ ATL L 28 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 2 0 0 0 5 -2
+p586
+aVMatt Carroll CHA 12/15/2008 CHA @ ATL L 13 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 1 2 0 0 0 0
+p587
+aVRyan Hollins CHA 12/13/2008 CHA vs. DET L 9 4 1 1 100.0 0 0 - 2 2 100.0 2 2 4 0 0 0 1 1 20
+p588
+aVRaymond Felton CHA 12/13/2008 CHA vs. DET L 43 17 8 17 47.1 1 2 50.0 0 0 - 2 3 5 3 0 1 4 3 -2
+p589
+aVAlexis Ajinca CHA 12/13/2008 CHA vs. DET L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p590
+aVMatt Carroll CHA 12/13/2008 CHA vs. DET L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 2 -7
+p591
+aVD.J. Augustin CHA 12/13/2008 CHA vs. DET L 25 18 5 10 50.0 1 2 50.0 7 7 100.0 0 1 1 2 1 0 3 3 14
+p592
+aVRaja Bell CHA 12/13/2008 CHA vs. DET L 26 4 2 9 22.2 0 3 0.0 0 0 - 1 4 5 1 1 0 4 3 -26
+p593
+aVAdam Morrison CHA 12/13/2008 CHA vs. DET L 19 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 16
+p594
+aVGerald Wallace CHA 12/13/2008 CHA vs. DET L 33 22 7 14 50.0 0 3 0.0 8 9 88.9 0 9 9 3 3 1 2 4 -5
+p595
+aVBoris Diaw CHA 12/13/2008 CHA vs. DET L 27 7 3 10 30.0 0 0 - 1 4 25.0 4 5 9 5 1 1 3 3 -13
+p596
+aVNazr Mohammed CHA 12/13/2008 CHA vs. DET L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -4
+p597
+aVEmeka Okafor CHA 12/13/2008 CHA vs. DET L 33 10 5 10 50.0 0 0 - 0 0 - 4 8 12 2 0 0 0 1 -20
+p598
+aVAdam Morrison CHA 12/11/2008 CHA @ DAL L 19 9 4 6 66.7 1 2 50.0 0 2 0.0 0 1 1 0 0 0 0 0 -6
+p599
+aVSean May CHA 12/11/2008 CHA @ DAL L 15 6 3 6 50.0 0 0 - 0 0 - 1 4 5 1 0 0 1 3 -8
+p600
+aVNazr Mohammed CHA 12/11/2008 CHA @ DAL L 15 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 2 1 1 2
+p601
+aVAlexis Ajinca CHA 12/11/2008 CHA @ DAL L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 5
+p602
+aVD.J. Augustin CHA 12/11/2008 CHA @ DAL L 43 9 3 16 18.8 1 4 25.0 2 2 100.0 0 3 3 10 0 0 1 2 -1
+p603
+aVShannon Brown CHA 12/11/2008 CHA @ DAL L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 2 3 -10
+p604
+aVMatt Carroll CHA 12/11/2008 CHA @ DAL L 29 8 4 6 66.7 0 1 0.0 0 0 - 0 3 3 1 0 1 1 3 3
+p605
+aVEmeka Okafor CHA 12/11/2008 CHA @ DAL L 41 27 12 17 70.6 0 0 - 3 5 60.0 4 13 17 0 0 3 1 2 0
+p606
+aVRyan Hollins CHA 12/11/2008 CHA @ DAL L 21 7 2 2 100.0 0 0 - 3 4 75.0 2 2 4 0 0 1 2 5 -9
+p607
+aVRaymond Felton CHA 12/11/2008 CHA @ DAL L 41 16 6 16 37.5 0 2 0.0 4 6 66.7 1 4 5 6 3 0 1 1 -1
+p608
+aVEmeka Okafor CHA 12/10/2008 CHA @ NOH L 28 5 2 6 33.3 0 0 - 1 3 33.3 2 6 8 0 0 3 4 2 -9
+p609
+aVSean May CHA 12/10/2008 CHA @ NOH L 18 7 3 8 37.5 0 0 - 1 2 50.0 1 3 4 0 0 0 0 1 -6
+p610
+aVAdam Morrison CHA 12/10/2008 CHA @ NOH L 37 2 1 7 14.3 0 2 0.0 0 0 - 1 5 6 1 0 0 0 0 -9
+p611
+aVD.J. Augustin CHA 12/10/2008 CHA @ NOH L 37 28 9 15 60.0 4 4 100.0 6 6 100.0 0 2 2 7 4 0 1 0 -1
+p612
+aVMatt Carroll CHA 12/10/2008 CHA @ NOH L 25 10 4 9 44.4 2 4 50.0 0 1 0.0 0 1 1 1 1 0 1 2 -12
+p613
+aVAlexis Ajinca CHA 12/10/2008 CHA @ NOH L 20 12 5 9 55.6 0 0 - 2 2 100.0 2 2 4 1 0 0 0 1 -7
+p614
+aVShannon Brown CHA 12/10/2008 CHA @ NOH L 21 5 2 8 25.0 0 1 0.0 1 1 100.0 0 1 1 1 1 1 1 2 1
+p615
+aVNazr Mohammed CHA 12/10/2008 CHA @ NOH L 10 6 2 5 40.0 0 0 - 2 4 50.0 3 1 4 0 0 0 1 2 -13
+p616
+aVRyan Hollins CHA 12/10/2008 CHA @ NOH L 14 8 4 4 100.0 0 0 - 0 0 - 1 2 3 1 1 0 1 4 8
+p617
+aVRaymond Felton CHA 12/10/2008 CHA @ NOH L 23 6 2 11 18.2 0 1 0.0 2 2 100.0 2 2 4 4 1 0 3 3 -27
+p618
+aVDwayne Jones CHA 12/10/2008 CHA @ NOH L 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -5
+p619
+aVJared Dudley CHA 12/08/2008 CHA @ MIA L 39 1 0 2 0.0 0 0 - 1 2 50.0 1 6 7 4 1 0 2 6 -1
+p620
+aVDwayne Jones CHA 12/08/2008 CHA @ MIA L 3 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 3
+p621
+aVRaymond Felton CHA 12/08/2008 CHA @ MIA L 35 8 2 11 18.2 0 2 0.0 4 4 100.0 0 2 2 8 0 0 3 6 -10
+p622
+aVEmeka Okafor CHA 12/08/2008 CHA @ MIA L 38 19 9 11 81.8 0 0 - 1 3 33.3 3 9 12 1 2 2 1 3 -3
+p623
+aVSean May CHA 12/08/2008 CHA @ MIA L 19 4 2 5 40.0 0 0 - 0 0 - 1 0 1 2 2 0 1 4 -1
+p624
+aVD.J. Augustin CHA 12/08/2008 CHA @ MIA L 26 14 4 14 28.6 2 5 40.0 4 4 100.0 0 0 0 2 0 0 2 2 -1
+p625
+aVJason Richardson CHA 12/08/2008 CHA @ MIA L 37 24 7 16 43.8 4 5 80.0 6 9 66.7 1 3 4 3 1 0 0 3 -2
+p626
+aVAlexis Ajinca CHA 12/08/2008 CHA @ MIA L 2 4 1 2 50.0 0 0 - 2 4 50.0 1 0 1 0 0 0 0 0 -3
+p627
+aVNazr Mohammed CHA 12/08/2008 CHA @ MIA L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p628
+aVShannon Brown CHA 12/08/2008 CHA @ MIA L 10 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 -1
+p629
+aVAdam Morrison CHA 12/08/2008 CHA @ MIA L 22 13 5 8 62.5 3 5 60.0 0 0 - 2 4 6 2 0 0 0 3 0
+p630
+aVJason Richardson CHA 12/06/2008 CHA vs. CLE L 26 9 3 9 33.3 1 3 33.3 2 2 100.0 1 1 2 2 1 0 1 2 -24
+p631
+aVShannon Brown CHA 12/06/2008 CHA vs. CLE L 11 6 2 3 66.7 0 1 0.0 2 2 100.0 0 0 0 2 0 0 0 1 5
+p632
+aVSean May CHA 12/06/2008 CHA vs. CLE L 15 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 1 0 0 2 -15
+p633
+aVGerald Wallace CHA 12/06/2008 CHA vs. CLE L 21 1 0 6 0.0 0 0 - 1 2 50.0 2 3 5 2 0 1 4 3 -23
+p634
+aVD.J. Augustin CHA 12/06/2008 CHA vs. CLE L 29 17 3 5 60.0 1 2 50.0 10 10 100.0 1 1 2 4 1 0 4 2 1
+p635
+aVRaymond Felton CHA 12/06/2008 CHA vs. CLE L 33 15 7 12 58.3 1 1 100.0 0 0 - 0 2 2 5 0 0 2 2 -23
+p636
+aVEmeka Okafor CHA 12/06/2008 CHA vs. CLE L 32 9 3 9 33.3 0 0 - 3 6 50.0 2 6 8 0 2 0 3 3 -28
+p637
+aVDwayne Jones CHA 12/06/2008 CHA vs. CLE L 18 2 1 3 33.3 0 0 - 0 0 - 2 4 6 0 0 1 2 0 7
+p638
+aVMatt Carroll CHA 12/06/2008 CHA vs. CLE L 12 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 0 1 0 1 2 6
+p639
+aVAdam Morrison CHA 12/06/2008 CHA vs. CLE L 11 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 0 0 -2
+p640
+aVAlexis Ajinca CHA 12/06/2008 CHA vs. CLE L 12 6 2 4 50.0 0 0 - 2 4 50.0 0 0 0 0 1 1 1 2 6
+p641
+aVJared Dudley CHA 12/06/2008 CHA vs. CLE L 21 3 1 5 20.0 0 3 0.0 1 2 50.0 2 2 4 1 3 0 1 2 -10
+p642
+aVNazr Mohammed CHA 12/05/2008 CHA @ MIL L 13 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 1 1 5 1
+p643
+aVMatt Carroll CHA 12/05/2008 CHA @ MIL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p644
+aVSean May CHA 12/05/2008 CHA @ MIL L 21 5 1 5 20.0 0 0 - 3 3 100.0 0 5 5 0 1 0 3 3 -9
+p645
+aVRaymond Felton CHA 12/05/2008 CHA @ MIL L 39 19 8 14 57.1 2 5 40.0 1 2 50.0 0 1 1 8 1 0 2 3 -4
+p646
+aVAdam Morrison CHA 12/05/2008 CHA @ MIL L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 0
+p647
+aVJared Dudley CHA 12/05/2008 CHA @ MIL L 22 8 3 4 75.0 1 1 100.0 1 2 50.0 0 0 0 3 3 0 0 1 7
+p648
+aVGerald Wallace CHA 12/05/2008 CHA @ MIL L 38 6 1 7 14.3 0 1 0.0 4 5 80.0 1 4 5 4 3 1 3 4 -13
+p649
+aVEmeka Okafor CHA 12/05/2008 CHA @ MIL L 35 19 9 11 81.8 0 0 - 1 2 50.0 6 2 8 0 0 1 3 3 -6
+p650
+aVD.J. Augustin CHA 12/05/2008 CHA @ MIL L 27 13 5 9 55.6 3 5 60.0 0 0 - 0 2 2 6 0 0 0 2 4
+p651
+aVJason Richardson CHA 12/05/2008 CHA @ MIL L 36 20 7 16 43.8 3 6 50.0 3 4 75.0 0 6 6 2 1 0 3 6 -10
+p652
+aVEmeka Okafor CHA 12/03/2008 CHA vs. OKC W 39 25 8 11 72.7 0 0 - 9 12 75.0 6 7 13 0 1 0 2 3 13
+p653
+aVAdam Morrison CHA 12/03/2008 CHA vs. OKC W 5 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p654
+aVGerald Wallace CHA 12/03/2008 CHA vs. OKC W 42 21 6 13 46.2 0 2 0.0 9 9 100.0 0 2 2 4 3 1 4 4 10
+p655
+aVDwayne Jones CHA 12/03/2008 CHA vs. OKC W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -5
+p656
+aVJason Richardson CHA 12/03/2008 CHA vs. OKC W 40 18 8 16 50.0 0 2 0.0 2 2 100.0 0 4 4 2 2 0 1 3 13
+p657
+aVJared Dudley CHA 12/03/2008 CHA vs. OKC W 17 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 0 0 1 1
+p658
+aVD.J. Augustin CHA 12/03/2008 CHA vs. OKC W 28 10 3 9 33.3 3 7 42.9 1 2 50.0 0 0 0 1 0 0 1 4 -3
+p659
+aVRaymond Felton CHA 12/03/2008 CHA vs. OKC W 35 8 4 11 36.4 0 1 0.0 0 2 0.0 1 0 1 12 3 0 3 4 2
+p660
+aVSean May CHA 12/03/2008 CHA vs. OKC W 27 10 4 7 57.1 0 0 - 2 2 100.0 1 10 11 0 0 0 2 3 4
+p661
+aVMatt Carroll CHA 12/03/2008 CHA vs. OKC W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p662
+aVShannon Brown CHA 12/03/2008 CHA vs. OKC W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 2 0 0 0 1 1
+p663
+aVJason Richardson CHA 12/01/2008 CHA vs. MIN W 38 25 11 18 61.1 3 4 75.0 0 3 0.0 1 3 4 3 1 0 1 0 15
+p664
+aVEmeka Okafor CHA 12/01/2008 CHA vs. MIN W 38 24 9 14 64.3 0 0 - 6 6 100.0 3 7 10 0 0 5 1 3 -1
+p665
+aVRaymond Felton CHA 12/01/2008 CHA vs. MIN W 38 14 5 12 41.7 0 2 0.0 4 5 80.0 1 2 3 14 2 2 1 1 10
+p666
+aVAdam Morrison CHA 12/01/2008 CHA vs. MIN W 18 3 1 5 20.0 1 2 50.0 0 0 - 1 1 2 2 0 0 0 4 3
+p667
+aVNazr Mohammed CHA 12/01/2008 CHA vs. MIN W 8 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 2 2 11
+p668
+aVDwayne Jones CHA 12/01/2008 CHA vs. MIN W 7 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 2 0
+p669
+aVSean May CHA 12/01/2008 CHA vs. MIN W 14 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 2 1
+p670
+aVGerald Wallace CHA 12/01/2008 CHA vs. MIN W 41 15 4 12 33.3 1 1 100.0 6 7 85.7 0 9 9 3 1 1 0 1 8
+p671
+aVJared Dudley CHA 12/01/2008 CHA vs. MIN W 17 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 4
+p672
+aVD.J. Augustin CHA 12/01/2008 CHA vs. MIN W 21 9 3 7 42.9 2 4 50.0 1 1 100.0 0 1 1 4 0 0 2 6 -1
+p673
+aVAdam Morrison CHA 11/29/2008 CHA vs. BOS L 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 5
+p674
+aVAlexis Ajinca CHA 11/29/2008 CHA vs. BOS L 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 -3
+p675
+aVSean May CHA 11/29/2008 CHA vs. BOS L 18 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 1 2 2 -3
+p676
+aVJason Richardson CHA 11/29/2008 CHA vs. BOS L 30 22 7 13 53.8 3 6 50.0 5 6 83.3 1 5 6 2 0 0 2 4 -8
+p677
+aVEmeka Okafor CHA 11/29/2008 CHA vs. BOS L 32 9 3 3 100.0 0 0 - 3 4 75.0 1 6 7 0 1 1 2 2 -8
+p678
+aVD.J. Augustin CHA 11/29/2008 CHA vs. BOS L 31 13 5 10 50.0 2 2 100.0 1 1 100.0 0 0 0 5 1 0 1 3 -4
+p679
+aVGerald Wallace CHA 11/29/2008 CHA vs. BOS L 43 23 10 16 62.5 0 2 0.0 3 7 42.9 2 6 8 3 1 2 2 2 2
+p680
+aVMatt Carroll CHA 11/29/2008 CHA vs. BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 2 1 -7
+p681
+aVDwayne Jones CHA 11/29/2008 CHA vs. BOS L 13 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 2
+p682
+aVJared Dudley CHA 11/29/2008 CHA vs. BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p683
+aVNazr Mohammed CHA 11/29/2008 CHA vs. BOS L 11 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 -1
+p684
+aVRaymond Felton CHA 11/29/2008 CHA vs. BOS L 41 4 2 15 13.3 0 3 0.0 0 0 - 1 6 7 6 2 0 6 2 -2
+p685
+aVSean May CHA 11/28/2008 CHA @ IND W 19 3 1 4 25.0 0 0 - 1 2 50.0 0 5 5 1 0 0 2 1 -5
+p686
+aVJason Richardson CHA 11/28/2008 CHA @ IND W 42 21 8 21 38.1 2 5 40.0 3 5 60.0 1 1 2 2 0 1 2 4 3
+p687
+aVAdam Morrison CHA 11/28/2008 CHA @ IND W 17 5 2 6 33.3 1 2 50.0 0 0 - 0 3 3 0 1 1 2 3 -5
+p688
+aVMatt Carroll CHA 11/28/2008 CHA @ IND W 9 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 0 2 1 0 1 3
+p689
+aVRaymond Felton CHA 11/28/2008 CHA @ IND W 48 31 11 21 52.4 3 6 50.0 6 7 85.7 0 3 3 7 2 0 1 4 12
+p690
+aVD.J. Augustin CHA 11/28/2008 CHA @ IND W 36 17 4 17 23.5 3 7 42.9 6 6 100.0 0 6 6 4 0 0 2 3 9
+p691
+aVEmeka Okafor CHA 11/28/2008 CHA @ IND W 43 14 6 9 66.7 0 0 - 2 5 40.0 9 11 20 1 0 2 1 4 1
+p692
+aVShannon Brown CHA 11/28/2008 CHA @ IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p693
+aVNazr Mohammed CHA 11/28/2008 CHA @ IND W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 3
+p694
+aVGerald Wallace CHA 11/28/2008 CHA @ IND W 42 16 2 10 20.0 0 1 0.0 12 14 85.7 1 10 11 2 5 0 2 2 12
+p695
+aVRyan Hollins CHA 11/28/2008 CHA @ IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p696
+aVRaymond Felton CHA 11/26/2008 CHA @ TOR L 39 4 2 10 20.0 0 2 0.0 0 0 - 0 3 3 7 1 0 3 2 -7
+p697
+aVGerald Wallace CHA 11/26/2008 CHA @ TOR L 39 23 8 20 40.0 0 3 0.0 7 11 63.6 1 7 8 2 1 0 1 3 -5
+p698
+aVSean May CHA 11/26/2008 CHA @ TOR L 11 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 1 0 0 1 1
+p699
+aVNazr Mohammed CHA 11/26/2008 CHA @ TOR L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 2 0 0 1 0 -1
+p700
+aVMatt Carroll CHA 11/26/2008 CHA @ TOR L 12 3 1 5 20.0 0 3 0.0 1 1 100.0 0 2 2 1 0 0 2 1 0
+p701
+aVEmeka Okafor CHA 11/26/2008 CHA @ TOR L 26 16 7 10 70.0 0 0 - 2 3 66.7 6 8 14 1 2 1 0 4 3
+p702
+aVJared Dudley CHA 11/26/2008 CHA @ TOR L 26 13 5 6 83.3 1 1 100.0 2 3 66.7 3 1 4 1 1 0 0 2 -10
+p703
+aVRyan Hollins CHA 11/26/2008 CHA @ TOR L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -4
+p704
+aVAlexis Ajinca CHA 11/26/2008 CHA @ TOR L 9 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -2
+p705
+aVAdam Morrison CHA 11/26/2008 CHA @ TOR L 16 2 1 7 14.3 0 3 0.0 0 0 - 1 1 2 2 0 0 0 2 -4
+p706
+aVD.J. Augustin CHA 11/26/2008 CHA @ TOR L 43 13 4 7 57.1 2 4 50.0 3 3 100.0 0 0 0 4 1 0 7 0 -6
+p707
+aVNazr Mohammed CHA 11/24/2008 CHA vs. PHI W 17 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 0 0 1 0 0 8
+p708
+aVShannon Brown CHA 11/24/2008 CHA vs. PHI W 15 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 2 1 0 3 2 -2
+p709
+aVJared Dudley CHA 11/24/2008 CHA vs. PHI W 11 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -2
+p710
+aVD.J. Augustin CHA 11/24/2008 CHA vs. PHI W 40 25 8 11 72.7 2 3 66.7 7 9 77.8 1 4 5 11 2 0 5 1 5
+p711
+aVRaymond Felton CHA 11/24/2008 CHA vs. PHI W 40 23 8 11 72.7 2 2 100.0 5 6 83.3 0 7 7 5 0 0 1 2 12
+p712
+aVEmeka Okafor CHA 11/24/2008 CHA vs. PHI W 35 8 3 8 37.5 0 0 - 2 4 50.0 1 8 9 0 1 3 6 5 3
+p713
+aVMatt Carroll CHA 11/24/2008 CHA vs. PHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p714
+aVAlexis Ajinca CHA 11/24/2008 CHA vs. PHI W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -4
+p715
+aVAdam Morrison CHA 11/24/2008 CHA vs. PHI W 23 10 4 8 50.0 2 3 66.7 0 0 - 1 4 5 2 1 0 1 4 10
+p716
+aVGerald Wallace CHA 11/24/2008 CHA vs. PHI W 40 11 4 6 66.7 1 2 50.0 2 2 100.0 0 6 6 1 2 0 0 2 16
+p717
+aVRyan Hollins CHA 11/24/2008 CHA vs. PHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 2 1 2 0
+p718
+aVD.J. Augustin CHA 11/22/2008 CHA vs. MIL L 34 12 4 13 30.8 1 3 33.3 3 3 100.0 0 2 2 3 0 0 1 2 -9
+p719
+aVGerald Wallace CHA 11/22/2008 CHA vs. MIL L 39 18 6 11 54.5 1 4 25.0 5 8 62.5 0 5 5 0 1 0 4 2 -4
+p720
+aVEmeka Okafor CHA 11/22/2008 CHA vs. MIL L 39 16 7 13 53.8 0 0 - 2 5 40.0 9 9 18 0 1 1 2 6 8
+p721
+aVRyan Hollins CHA 11/22/2008 CHA vs. MIL L 9 0 0 1 0.0 0 0 - 0 2 0.0 2 1 3 0 0 0 1 4 -13
+p722
+aVShannon Brown CHA 11/22/2008 CHA vs. MIL L 16 10 4 7 57.1 0 1 0.0 2 2 100.0 0 0 0 0 0 2 1 2 10
+p723
+aVAlexis Ajinca CHA 11/22/2008 CHA vs. MIL L 12 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 1 1 2 8
+p724
+aVMatt Carroll CHA 11/22/2008 CHA vs. MIL L 15 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 1 1 0 1 1 -7
+p725
+aVAdam Morrison CHA 11/22/2008 CHA vs. MIL L 21 0 0 6 0.0 0 5 0.0 0 0 - 0 2 2 3 1 0 1 4 -12
+p726
+aVRaymond Felton CHA 11/22/2008 CHA vs. MIL L 39 14 6 16 37.5 1 3 33.3 1 2 50.0 1 8 9 5 7 0 3 3 3
+p727
+aVJared Dudley CHA 11/22/2008 CHA vs. MIL L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 1 3 2 -9
+p728
+aVRaymond Felton CHA 11/21/2008 CHA @ ATL L 34 6 3 15 20.0 0 2 0.0 0 0 - 1 3 4 5 2 0 2 1 -1
+p729
+aVGerald Wallace CHA 11/21/2008 CHA @ ATL L 41 17 8 15 53.3 0 2 0.0 1 1 100.0 2 8 10 5 2 0 2 3 3
+p730
+aVSean May CHA 11/21/2008 CHA @ ATL L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p731
+aVAdam Morrison CHA 11/21/2008 CHA @ ATL L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 0 0 0 -5
+p732
+aVRyan Hollins CHA 11/21/2008 CHA @ ATL L 11 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 1 -1
+p733
+aVAlexis Ajinca CHA 11/21/2008 CHA @ ATL L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 3 4 7
+p734
+aVMatt Carroll CHA 11/21/2008 CHA @ ATL L 20 9 2 3 66.7 0 1 0.0 5 6 83.3 0 2 2 0 1 0 1 1 0
+p735
+aVEmeka Okafor CHA 11/21/2008 CHA @ ATL L 32 8 4 7 57.1 0 0 - 0 0 - 3 8 11 0 0 2 1 2 3
+p736
+aVD.J. Augustin CHA 11/21/2008 CHA @ ATL L 40 26 9 20 45.0 7 11 63.6 1 2 50.0 0 3 3 7 0 0 1 5 -5
+p737
+aVJared Dudley CHA 11/21/2008 CHA @ ATL L 21 7 3 4 75.0 0 0 - 1 2 50.0 0 0 0 0 1 0 0 3 -8
+p738
+aVNazr Mohammed CHA 11/21/2008 CHA @ ATL L 9 1 0 3 0.0 0 0 - 1 2 50.0 1 2 3 0 0 1 2 2 -4
+p739
+aVShannon Brown CHA 11/21/2008 CHA @ ATL L 6 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 1 0 1 0 -10
+p740
+aVGerald Wallace CHA 11/18/2008 CHA vs. DAL L 32 8 3 13 23.1 0 2 0.0 2 2 100.0 3 3 6 3 2 1 0 2 0
+p741
+aVAlexis Ajinca CHA 11/18/2008 CHA vs. DAL L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 1 0 0 2 4
+p742
+aVMatt Carroll CHA 11/18/2008 CHA vs. DAL L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 3 3 -17
+p743
+aVJared Dudley CHA 11/18/2008 CHA vs. DAL L 27 10 4 9 44.4 0 1 0.0 2 2 100.0 1 2 3 0 2 0 2 4 -13
+p744
+aVRyan Hollins CHA 11/18/2008 CHA vs. DAL L 14 9 2 3 66.7 0 0 - 5 6 83.3 1 0 1 0 0 1 0 1 8
+p745
+aVD.J. Augustin CHA 11/18/2008 CHA vs. DAL L 36 21 9 15 60.0 0 2 0.0 3 3 100.0 0 4 4 4 1 0 0 2 0
+p746
+aVSean May CHA 11/18/2008 CHA vs. DAL L 12 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 1 -11
+p747
+aVRaymond Felton CHA 11/18/2008 CHA vs. DAL L 36 11 3 14 21.4 0 1 0.0 5 5 100.0 0 2 2 3 3 0 2 1 -10
+p748
+aVShannon Brown CHA 11/18/2008 CHA vs. DAL L 19 11 4 8 50.0 1 2 50.0 2 2 100.0 1 2 3 1 1 0 2 3 -14
+p749
+aVNazr Mohammed CHA 11/18/2008 CHA vs. DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p750
+aVEmeka Okafor CHA 11/18/2008 CHA vs. DAL L 28 5 2 6 33.3 0 0 - 1 4 25.0 2 7 9 0 1 3 2 1 -22
+p751
+aVAdam Morrison CHA 11/18/2008 CHA vs. DAL L 13 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -6
+p752
+aVMatt Carroll CHA 11/16/2008 CHA vs. ORL L 24 6 2 7 28.6 1 3 33.3 1 1 100.0 0 3 3 0 0 0 0 4 -1
+p753
+aVRyan Hollins CHA 11/16/2008 CHA vs. ORL L 10 3 0 3 0.0 0 0 - 3 4 75.0 3 1 4 0 0 0 0 1 2
+p754
+aVEmeka Okafor CHA 11/16/2008 CHA vs. ORL L 23 8 3 5 60.0 0 0 - 2 6 33.3 4 5 9 1 0 1 1 5 -6
+p755
+aVD.J. Augustin CHA 11/16/2008 CHA vs. ORL L 27 8 4 7 57.1 0 1 0.0 0 0 - 1 0 1 3 0 0 2 1 5
+p756
+aVRaymond Felton CHA 11/16/2008 CHA vs. ORL L 39 14 5 14 35.7 0 2 0.0 4 6 66.7 0 4 4 6 1 1 2 3 -4
+p757
+aVGerald Wallace CHA 11/16/2008 CHA vs. ORL L 41 19 7 14 50.0 0 1 0.0 5 6 83.3 0 9 9 1 1 0 2 3 -12
+p758
+aVSean May CHA 11/16/2008 CHA vs. ORL L 13 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 2 0 0
+p759
+aVAdam Morrison CHA 11/16/2008 CHA vs. ORL L 22 14 5 10 50.0 2 5 40.0 2 2 100.0 1 2 3 1 0 0 4 2 -5
+p760
+aVJared Dudley CHA 11/16/2008 CHA vs. ORL L 21 3 1 3 33.3 0 0 - 1 2 50.0 0 1 1 1 0 0 0 1 0
+p761
+aVShannon Brown CHA 11/16/2008 CHA vs. ORL L 8 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p762
+aVNazr Mohammed CHA 11/16/2008 CHA vs. ORL L 14 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 2 1 1 4 -4
+p763
+aVRyan Hollins CHA 11/14/2008 CHA vs. UTA W 15 5 2 4 50.0 0 0 - 1 2 50.0 3 1 4 0 0 2 0 2 18
+p764
+aVMatt Carroll CHA 11/14/2008 CHA vs. UTA W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -9
+p765
+aVSean May CHA 11/14/2008 CHA vs. UTA W 19 8 3 4 75.0 0 0 - 2 2 100.0 2 2 4 0 0 0 2 2 -8
+p766
+aVEmeka Okafor CHA 11/14/2008 CHA vs. UTA W 24 6 2 6 33.3 0 0 - 2 4 50.0 5 2 7 0 1 3 4 6 -10
+p767
+aVD.J. Augustin CHA 11/14/2008 CHA vs. UTA W 24 6 1 3 33.3 0 0 - 4 4 100.0 2 2 4 4 1 0 0 2 14
+p768
+aVRaymond Felton CHA 11/14/2008 CHA vs. UTA W 36 23 7 13 53.8 1 2 50.0 8 10 80.0 0 3 3 6 3 0 2 1 2
+p769
+aVAlexis Ajinca CHA 11/14/2008 CHA vs. UTA W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -3
+p770
+aVAdam Morrison CHA 11/14/2008 CHA vs. UTA W 24 15 5 8 62.5 3 5 60.0 2 2 100.0 0 1 1 0 0 0 1 4 9
+p771
+aVShannon Brown CHA 11/14/2008 CHA vs. UTA W 15 6 3 9 33.3 0 0 - 0 0 - 0 0 0 2 1 0 1 1 8
+p772
+aVJared Dudley CHA 11/14/2008 CHA vs. UTA W 21 6 3 7 42.9 0 0 - 0 0 - 1 4 5 2 1 0 0 3 14
+p773
+aVGerald Wallace CHA 11/14/2008 CHA vs. UTA W 35 22 5 13 38.5 0 3 0.0 12 14 85.7 4 5 9 2 3 1 4 0 5
+p774
+aVEmeka Okafor CHA 11/11/2008 CHA vs. DEN L 30 2 1 5 20.0 0 0 - 0 0 - 0 8 8 1 1 4 1 3 6
+p775
+aVMatt Carroll CHA 11/11/2008 CHA vs. DEN L 12 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 2 -17
+p776
+aVD.J. Augustin CHA 11/11/2008 CHA vs. DEN L 25 5 1 9 11.1 0 5 0.0 3 4 75.0 0 2 2 3 0 0 4 3 -4
+p777
+aVAlexis Ajinca CHA 11/11/2008 CHA vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p778
+aVRaymond Felton CHA 11/11/2008 CHA vs. DEN L 25 9 4 11 36.4 0 3 0.0 1 3 33.3 1 2 3 5 0 0 2 5 -8
+p779
+aVAdam Morrison CHA 11/11/2008 CHA vs. DEN L 29 16 5 11 45.5 2 7 28.6 4 6 66.7 0 2 2 2 0 1 3 1 11
+p780
+aVSean May CHA 11/11/2008 CHA vs. DEN L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p781
+aVJared Dudley CHA 11/11/2008 CHA vs. DEN L 33 6 3 7 42.9 0 0 - 0 0 - 4 2 6 4 0 0 0 2 -5
+p782
+aVGerald Wallace CHA 11/11/2008 CHA vs. DEN L 36 13 6 11 54.5 1 3 33.3 0 0 - 1 6 7 0 3 2 2 6 -14
+p783
+aVShannon Brown CHA 11/11/2008 CHA vs. DEN L 4 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 2 0 -1
+p784
+aVJason Richardson CHA 11/11/2008 CHA vs. DEN L 32 23 9 16 56.3 4 7 57.1 1 2 50.0 0 5 5 2 2 0 1 4 -1
+p785
+aVNazr Mohammed CHA 11/11/2008 CHA vs. DEN L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -4
+p786
+aVEmeka Okafor CHA 11/09/2008 CHA vs. TOR L 26 7 3 8 37.5 0 0 - 1 1 100.0 4 2 6 0 0 1 1 4 -9
+p787
+aVJared Dudley CHA 11/09/2008 CHA vs. TOR L 32 10 5 8 62.5 0 0 - 0 0 - 1 3 4 0 1 1 0 2 -7
+p788
+aVAlexis Ajinca CHA 11/09/2008 CHA vs. TOR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 8
+p789
+aVAdam Morrison CHA 11/09/2008 CHA vs. TOR L 18 7 3 10 30.0 1 4 25.0 0 0 - 2 1 3 2 0 0 0 0 -4
+p790
+aVNazr Mohammed CHA 11/09/2008 CHA vs. TOR L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p791
+aVD.J. Augustin CHA 11/09/2008 CHA vs. TOR L 25 14 5 11 45.5 2 6 33.3 2 2 100.0 0 2 2 4 0 0 0 1 -4
+p792
+aVGerald Wallace CHA 11/09/2008 CHA vs. TOR L 36 6 2 11 18.2 0 1 0.0 2 5 40.0 1 7 8 3 1 1 1 3 -13
+p793
+aVJason Richardson CHA 11/09/2008 CHA vs. TOR L 37 12 5 15 33.3 1 5 20.0 1 2 50.0 1 4 5 4 0 0 2 2 -22
+p794
+aVAndre Brown CHA 11/09/2008 CHA vs. TOR L 7 0 0 2 0.0 0 0 - 0 0 - 2 0 2 1 0 0 0 1 -1
+p795
+aVRaymond Felton CHA 11/09/2008 CHA vs. TOR L 34 12 4 11 36.4 1 2 50.0 3 3 100.0 0 3 3 6 2 0 3 1 -10
+p796
+aVMatt Carroll CHA 11/09/2008 CHA vs. TOR L 12 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 0 0 0 2 0 9
+p797
+aVShannon Brown CHA 11/09/2008 CHA vs. TOR L 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 6
+p798
+aVJason Richardson CHA 11/07/2008 CHA vs. NOH W 31 20 5 14 35.7 2 2 100.0 8 9 88.9 1 4 5 1 2 0 3 2 -11
+p799
+aVJared Dudley CHA 11/07/2008 CHA vs. NOH W 16 0 0 5 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p800
+aVD.J. Augustin CHA 11/07/2008 CHA vs. NOH W 21 11 3 8 37.5 1 2 50.0 4 4 100.0 0 0 0 4 0 0 1 1 6
+p801
+aVAndre Brown CHA 11/07/2008 CHA vs. NOH W 15 2 1 2 50.0 0 0 - 0 0 - 3 3 6 0 1 0 2 4 -3
+p802
+aVEmeka Okafor CHA 11/07/2008 CHA vs. NOH W 40 10 4 5 80.0 0 0 - 2 2 100.0 4 6 10 1 1 0 0 2 0
+p803
+aVMatt Carroll CHA 11/07/2008 CHA vs. NOH W 28 7 3 8 37.5 0 4 0.0 1 1 100.0 0 4 4 3 1 0 1 1 13
+p804
+aVNazr Mohammed CHA 11/07/2008 CHA vs. NOH W 5 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 1 1 0 7
+p805
+aVRaymond Felton CHA 11/07/2008 CHA vs. NOH W 28 20 7 9 77.8 1 3 33.3 5 5 100.0 0 1 1 3 1 0 3 3 -3
+p806
+aVAdam Morrison CHA 11/07/2008 CHA vs. NOH W 15 9 3 9 33.3 3 5 60.0 0 0 - 1 2 3 1 0 0 0 1 16
+p807
+aVAlexis Ajinca CHA 11/07/2008 CHA vs. NOH W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 3 4
+p808
+aVGerald Wallace CHA 11/07/2008 CHA vs. NOH W 37 8 1 5 20.0 0 2 0.0 6 6 100.0 0 7 7 2 4 1 3 3 -11
+p809
+aVNazr Mohammed CHA 11/05/2008 CHA @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p810
+aVAdam Morrison CHA 11/05/2008 CHA @ NYK L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -12
+p811
+aVJason Richardson CHA 11/05/2008 CHA @ NYK L 42 17 7 21 33.3 0 4 0.0 3 3 100.0 5 4 9 2 2 0 2 3 9
+p812
+aVJared Dudley CHA 11/05/2008 CHA @ NYK L 27 13 6 10 60.0 0 0 - 1 1 100.0 1 1 2 1 3 0 0 2 10
+p813
+aVShannon Brown CHA 11/05/2008 CHA @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p814
+aVRaymond Felton CHA 11/05/2008 CHA @ NYK L 40 18 9 16 56.3 0 0 - 0 0 - 2 0 2 6 3 0 3 3 9
+p815
+aVMatt Carroll CHA 11/05/2008 CHA @ NYK L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -8
+p816
+aVGerald Wallace CHA 11/05/2008 CHA @ NYK L 45 16 5 8 62.5 3 3 100.0 3 4 75.0 3 8 11 3 3 0 3 1 0
+p817
+aVD.J. Augustin CHA 11/05/2008 CHA @ NYK L 26 14 5 13 38.5 2 3 66.7 2 2 100.0 1 3 4 4 2 0 2 1 -8
+p818
+aVEmeka Okafor CHA 11/05/2008 CHA @ NYK L 40 16 7 11 63.6 0 0 - 2 5 40.0 5 10 15 0 0 2 6 3 14
+p819
+aVLinton Johnson CHA 11/05/2008 CHA @ NYK L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p820
+aVNazr Mohammed CHA 11/03/2008 CHA vs. DET L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p821
+aVAlexis Ajinca CHA 11/03/2008 CHA vs. DET L 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p822
+aVD.J. Augustin CHA 11/03/2008 CHA vs. DET L 16 5 2 5 40.0 0 2 0.0 1 2 50.0 0 1 1 2 0 0 0 2 4
+p823
+aVJared Dudley CHA 11/03/2008 CHA vs. DET L 21 8 2 4 50.0 0 0 - 4 4 100.0 2 2 4 0 1 0 0 1 -6
+p824
+aVRaymond Felton CHA 11/03/2008 CHA vs. DET L 23 10 4 6 66.7 0 0 - 2 3 66.7 0 1 1 1 0 1 3 3 -25
+p825
+aVEmeka Okafor CHA 11/03/2008 CHA vs. DET L 39 11 3 5 60.0 0 0 - 5 6 83.3 2 3 5 0 0 1 0 2 -21
+p826
+aVShannon Brown CHA 11/03/2008 CHA vs. DET L 26 16 4 8 50.0 1 2 50.0 7 8 87.5 0 1 1 3 4 1 0 0 4
+p827
+aVGerald Wallace CHA 11/03/2008 CHA vs. DET L 41 15 3 10 30.0 0 2 0.0 9 12 75.0 2 10 12 0 1 0 3 5 -19
+p828
+aVAdam Morrison CHA 11/03/2008 CHA vs. DET L 24 10 4 6 66.7 2 2 100.0 0 0 - 0 3 3 2 0 0 2 0 -2
+p829
+aVJason Richardson CHA 11/03/2008 CHA vs. DET L 33 4 2 10 20.0 0 3 0.0 0 0 - 0 1 1 5 0 1 2 3 -21
+p830
+aVAndre Brown CHA 11/03/2008 CHA vs. DET L 10 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 3 1 -3
+p831
+aVJason Richardson CHA 11/01/2008 CHA vs. MIA W 39 23 10 17 58.8 2 3 66.7 1 2 50.0 0 1 1 2 1 0 2 3 15
+p832
+aVD.J. Augustin CHA 11/01/2008 CHA vs. MIA W 20 4 2 7 28.6 0 2 0.0 0 0 - 1 0 1 5 0 0 4 5 -2
+p833
+aVEmeka Okafor CHA 11/01/2008 CHA vs. MIA W 37 18 7 9 77.8 0 0 - 4 8 50.0 5 8 13 0 0 1 3 2 11
+p834
+aVShannon Brown CHA 11/01/2008 CHA vs. MIA W 13 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 2 1 1 1 0 -6
+p835
+aVRaymond Felton CHA 11/01/2008 CHA vs. MIA W 31 6 2 4 50.0 0 0 - 2 2 100.0 0 6 6 8 0 0 3 4 14
+p836
+aVAndre Brown CHA 11/01/2008 CHA vs. MIA W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 2
+p837
+aVJared Dudley CHA 11/01/2008 CHA vs. MIA W 28 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 5 6
+p838
+aVAdam Morrison CHA 11/01/2008 CHA vs. MIA W 17 3 1 6 16.7 1 3 33.3 0 0 - 0 2 2 4 0 0 1 0 10
+p839
+aVGerald Wallace CHA 11/01/2008 CHA vs. MIA W 43 34 11 16 68.8 2 2 100.0 10 16 62.5 3 6 9 3 2 3 4 1 15
+p840
+aVAlexis Ajinca CHA 11/01/2008 CHA vs. MIA W 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 0
+p841
+aVD.J. Augustin CHA 10/30/2008 CHA @ CLE L 25 12 3 8 37.5 0 3 0.0 6 6 100.0 0 0 0 2 0 0 4 4 -20
+p842
+aVAlexis Ajinca CHA 10/30/2008 CHA @ CLE L 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 2 0 1 0 4
+p843
+aVSean May CHA 10/30/2008 CHA @ CLE L 15 2 0 6 0.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 0 -5
+p844
+aVRaymond Felton CHA 10/30/2008 CHA @ CLE L 34 5 1 10 10.0 1 2 50.0 2 3 66.7 2 0 2 5 1 1 2 4 -11
+p845
+aVEmeka Okafor CHA 10/30/2008 CHA @ CLE L 37 7 2 6 33.3 0 0 - 3 4 75.0 5 7 12 1 0 1 3 1 -7
+p846
+aVJared Dudley CHA 10/30/2008 CHA @ CLE L 8 3 1 1 100.0 0 0 - 1 4 25.0 3 1 4 0 0 0 0 1 -4
+p847
+aVNazr Mohammed CHA 10/30/2008 CHA @ CLE L 13 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p848
+aVJason Richardson CHA 10/30/2008 CHA @ CLE L 29 24 8 18 44.4 2 4 50.0 6 6 100.0 1 3 4 4 1 1 2 4 1
+p849
+aVAdam Morrison CHA 10/30/2008 CHA @ CLE L 23 9 4 9 44.4 0 2 0.0 1 1 100.0 0 1 1 1 0 0 0 1 -13
+p850
+aVLinton Johnson CHA 10/30/2008 CHA @ CLE L 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p851
+aVMatt Carroll CHA 10/30/2008 CHA @ CLE L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -11
+p852
+aVGerald Wallace CHA 10/30/2008 CHA @ CLE L 30 13 4 10 40.0 0 1 0.0 5 5 100.0 0 5 5 1 2 1 1 6 -11
+p853
+a.

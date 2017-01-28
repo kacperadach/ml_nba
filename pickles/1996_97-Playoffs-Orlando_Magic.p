@@ -1,0 +1,98 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDan Schayes ORL 05/04/1997 ORL @ MIA L 18 2 1 5 20.0 0 0 - 0 0 - 0 1 1 1 0 0 2 4 -13
+p2
+aVDennis Scott ORL 05/04/1997 ORL @ MIA L 26 2 1 4 25.0 0 2 0.0 0 0 - 0 2 2 4 2 0 0 3 2
+p3
+aVDarrell Armstrong ORL 05/04/1997 ORL @ MIA L 42 12 5 12 41.7 2 6 33.3 0 0 - 1 4 5 4 2 0 2 1 -2
+p4
+aVBrian Shaw ORL 05/04/1997 ORL @ MIA L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -6
+p5
+aVGerald Wilkins ORL 05/04/1997 ORL @ MIA L 27 10 4 10 40.0 1 2 50.0 1 2 50.0 0 2 2 1 0 0 1 0 -10
+p6
+aVAnfernee Hardaway ORL 05/04/1997 ORL @ MIA L 47 33 8 22 36.4 4 10 40.0 13 17 76.5 2 8 10 6 1 2 2 2 -8
+p7
+aVDerek Strong ORL 05/04/1997 ORL @ MIA L 48 13 3 6 50.0 0 0 - 7 9 77.8 5 7 12 0 1 0 4 4 -8
+p8
+aVNick Anderson ORL 05/04/1997 ORL @ MIA L 23 11 4 7 57.1 3 6 50.0 0 0 - 0 5 5 0 1 1 1 4 5
+p9
+aVDan Schayes ORL 05/01/1997 ORL vs. MIA W 25 10 5 6 83.3 0 0 - 0 0 - 1 3 4 3 1 0 2 5 19
+p10
+aVAnfernee Hardaway ORL 05/01/1997 ORL vs. MIA W 48 41 12 23 52.2 4 8 50.0 13 16 81.3 3 4 7 4 4 3 1 4 8
+p11
+aVGerald Wilkins ORL 05/01/1997 ORL vs. MIA W 32 11 3 10 30.0 0 2 0.0 5 6 83.3 1 2 3 2 0 1 0 0 9
+p12
+aVDennis Scott ORL 05/01/1997 ORL vs. MIA W 29 8 3 9 33.3 2 6 33.3 0 0 - 1 3 4 0 0 0 0 4 10
+p13
+aVDarrell Armstrong ORL 05/01/1997 ORL vs. MIA W 40 12 5 11 45.5 1 4 25.0 1 1 100.0 0 9 9 1 0 0 1 1 5
+p14
+aVNick Anderson ORL 05/01/1997 ORL vs. MIA W 19 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 1 -4
+p15
+aVDerek Strong ORL 05/01/1997 ORL vs. MIA W 36 15 6 9 66.7 0 0 - 3 5 60.0 3 5 8 1 0 1 2 5 -10
+p16
+aVBrian Shaw ORL 05/01/1997 ORL vs. MIA W 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 3
+p17
+aVBrian Shaw ORL 04/29/1997 ORL vs. MIA W 10 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 0 0 1 1 0 -12
+p18
+aVRony Seikaly ORL 04/29/1997 ORL vs. MIA W 18 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -16
+p19
+aVNick Anderson ORL 04/29/1997 ORL vs. MIA W 35 2 1 7 14.3 0 5 0.0 0 0 - 0 6 6 1 1 3 2 2 11
+p20
+aVDerek Strong ORL 04/29/1997 ORL vs. MIA W 35 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 0 0 2 6 -7
+p21
+aVAnfernee Hardaway ORL 04/29/1997 ORL vs. MIA W 47 42 16 30 53.3 1 4 25.0 9 10 90.0 1 7 8 2 2 0 1 4 13
+p22
+aVDan Schayes ORL 04/29/1997 ORL vs. MIA W 15 8 2 4 50.0 0 0 - 4 4 100.0 3 2 5 0 1 1 0 2 26
+p23
+aVDennis Scott ORL 04/29/1997 ORL vs. MIA W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p24
+aVGerald Wilkins ORL 04/29/1997 ORL vs. MIA W 29 11 4 9 44.4 1 2 50.0 2 2 100.0 0 1 1 0 0 1 0 3 29
+p25
+aVDarrell Armstrong ORL 04/29/1997 ORL vs. MIA W 38 21 6 11 54.5 2 5 40.0 7 7 100.0 0 4 4 8 4 0 1 1 25
+p26
+aVNick Anderson ORL 04/27/1997 ORL @ MIA L 21 5 2 6 33.3 1 2 50.0 0 2 0.0 0 3 3 0 1 1 3 1 -15
+p27
+aVBrian Evans ORL 04/27/1997 ORL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 0 0 7
+p28
+aVAmal McCaskill ORL 04/27/1997 ORL @ MIA L 3 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 8
+p29
+aVBrian Shaw ORL 04/27/1997 ORL @ MIA L 31 7 2 5 40.0 2 2 100.0 1 2 50.0 0 3 3 4 0 0 3 2 -15
+p30
+aVDan Schayes ORL 04/27/1997 ORL @ MIA L 19 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 4 2
+p31
+aVDarrell Armstrong ORL 04/27/1997 ORL @ MIA L 17 10 3 5 60.0 1 2 50.0 3 5 60.0 1 1 2 3 2 1 3 2 14
+p32
+aVDennis Scott ORL 04/27/1997 ORL @ MIA L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -17
+p33
+aVAnfernee Hardaway ORL 04/27/1997 ORL @ MIA L 39 26 10 20 50.0 1 5 20.0 5 8 62.5 1 0 1 2 1 1 1 2 -12
+p34
+aVDerek Strong ORL 04/27/1997 ORL @ MIA L 40 18 6 10 60.0 0 1 0.0 6 7 85.7 5 11 16 2 0 1 2 2 -31
+p35
+aVGerald Wilkins ORL 04/27/1997 ORL @ MIA L 25 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 1 0 0 1 4 -13
+p36
+aVRony Seikaly ORL 04/27/1997 ORL @ MIA L 32 10 4 7 57.1 0 0 - 2 2 100.0 1 3 4 0 1 0 3 5 -13
+p37
+aVDan Schayes ORL 04/24/1997 ORL @ MIA L 11 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -14
+p38
+aVAnfernee Hardaway ORL 04/24/1997 ORL @ MIA L 39 13 6 16 37.5 1 3 33.3 0 3 0.0 0 4 4 3 4 1 4 2 -28
+p39
+aVDennis Scott ORL 04/24/1997 ORL @ MIA L 22 5 2 5 40.0 1 2 50.0 0 0 - 1 1 2 1 0 0 2 0 -31
+p40
+aVNick Anderson ORL 04/24/1997 ORL @ MIA L 30 8 4 12 33.3 0 1 0.0 0 0 - 3 9 12 1 0 3 0 0 -22
+p41
+aVBrian Evans ORL 04/24/1997 ORL @ MIA L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p42
+aVGerald Wilkins ORL 04/24/1997 ORL @ MIA L 27 9 3 10 30.0 1 3 33.3 2 2 100.0 2 0 2 0 0 0 1 0 -22
+p43
+aVBrian Shaw ORL 04/24/1997 ORL @ MIA L 25 1 0 6 0.0 0 2 0.0 1 2 50.0 0 3 3 2 0 0 1 2 -17
+p44
+aVRony Seikaly ORL 04/24/1997 ORL @ MIA L 35 7 2 12 16.7 0 0 - 3 5 60.0 3 7 10 0 0 3 0 3 -25
+p45
+aVDarrell Armstrong ORL 04/24/1997 ORL @ MIA L 5 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 1 -6
+p46
+aVDerek Strong ORL 04/24/1997 ORL @ MIA L 34 15 6 14 42.9 0 0 - 3 4 75.0 7 3 10 1 1 0 4 3 -9
+p47
+aVAmal McCaskill ORL 04/24/1997 ORL @ MIA L 3 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 1 0 0 0 1 1
+p48
+a.

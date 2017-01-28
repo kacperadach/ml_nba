@@ -1,0 +1,86 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVKevin Garnett MIN 05/02/1998 MIN @ SEA L 42 7 3 11 27.3 0 0 - 1 2 50.0 1 3 4 3 1 2 10 2 -7
+p2
+aVAnthony Peeler MIN 05/02/1998 MIN @ SEA L 43 28 10 15 66.7 6 8 75.0 2 2 100.0 0 5 5 6 4 2 3 5 -10
+p3
+aVReggie Jordan MIN 05/02/1998 MIN @ SEA L 15 7 3 4 75.0 1 1 100.0 0 0 - 3 5 8 2 0 0 0 3 1
+p4
+aVSam Mitchell MIN 05/02/1998 MIN @ SEA L 38 16 7 14 50.0 0 3 0.0 2 2 100.0 1 2 3 1 0 0 0 5 -25
+p5
+aVStephon Marbury MIN 05/02/1998 MIN @ SEA L 45 7 2 10 20.0 1 7 14.3 2 4 50.0 0 3 3 8 4 0 5 2 -9
+p6
+aVTerry Porter MIN 05/02/1998 MIN @ SEA L 39 14 4 13 30.8 3 6 50.0 3 3 100.0 3 3 6 4 1 0 1 2 -21
+p7
+aVTom Hammonds MIN 05/02/1998 MIN @ SEA L 14 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 4 6
+p8
+aVCherokee Parks MIN 04/30/1998 MIN vs. SEA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p9
+aVStephon Marbury MIN 04/30/1998 MIN vs. SEA L 42 10 4 16 25.0 1 4 25.0 1 1 100.0 2 2 4 7 3 0 5 5 -1
+p10
+aVTerry Porter MIN 04/30/1998 MIN vs. SEA L 36 13 5 12 41.7 1 4 25.0 2 4 50.0 0 3 3 6 1 0 1 3 -5
+p11
+aVMicheal Williams MIN 04/30/1998 MIN vs. SEA L 18 9 3 5 60.0 1 2 50.0 2 3 66.7 0 2 2 2 0 0 1 3 5
+p12
+aVTom Hammonds MIN 04/30/1998 MIN vs. SEA L 25 7 1 3 33.3 0 0 - 5 6 83.3 1 3 4 0 0 1 2 1 6
+p13
+aVKevin Garnett MIN 04/30/1998 MIN vs. SEA L 35 20 9 14 64.3 0 0 - 2 2 100.0 2 8 10 5 1 1 2 4 3
+p14
+aVAnthony Peeler MIN 04/30/1998 MIN vs. SEA L 46 19 7 15 46.7 5 8 62.5 0 0 - 3 2 5 3 2 0 1 2 -8
+p15
+aVSam Mitchell MIN 04/30/1998 MIN vs. SEA L 34 10 4 13 30.8 0 4 0.0 2 2 100.0 4 3 7 2 0 0 3 5 -20
+p16
+aVTom Hammonds MIN 04/28/1998 MIN vs. SEA W 17 1 0 1 0.0 0 0 - 1 2 50.0 0 3 3 0 0 0 1 4 5
+p17
+aVMicheal Williams MIN 04/28/1998 MIN vs. SEA W 11 7 1 2 50.0 0 0 - 5 6 83.3 1 1 2 2 1 1 2 3 12
+p18
+aVStephon Marbury MIN 04/28/1998 MIN vs. SEA W 42 14 3 11 27.3 2 5 40.0 6 8 75.0 1 2 3 11 2 0 0 2 4
+p19
+aVKevin Garnett MIN 04/28/1998 MIN vs. SEA W 43 19 9 18 50.0 0 0 - 1 2 50.0 4 4 8 6 2 3 4 3 2
+p20
+aVBill Curley MIN 04/28/1998 MIN vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p21
+aVTerry Porter MIN 04/28/1998 MIN vs. SEA W 42 18 7 12 58.3 3 5 60.0 1 1 100.0 0 3 3 1 2 0 1 2 2
+p22
+aVAnthony Peeler MIN 04/28/1998 MIN vs. SEA W 42 20 7 15 46.7 4 7 57.1 2 2 100.0 2 2 4 3 0 1 0 3 13
+p23
+aVSam Mitchell MIN 04/28/1998 MIN vs. SEA W 39 19 7 12 58.3 1 4 25.0 4 5 80.0 0 6 6 2 0 0 2 3 0
+p24
+aVAnthony Peeler MIN 04/26/1998 MIN @ SEA W 40 8 4 14 28.6 0 2 0.0 0 0 - 8 6 14 3 3 0 3 3 1
+p25
+aVSam Mitchell MIN 04/26/1998 MIN @ SEA W 35 18 6 11 54.5 2 3 66.7 4 4 100.0 1 5 6 1 1 1 0 3 8
+p26
+aVKevin Garnett MIN 04/26/1998 MIN @ SEA W 32 15 7 14 50.0 0 0 - 1 1 100.0 4 4 8 4 0 4 1 5 2
+p27
+aVTerry Porter MIN 04/26/1998 MIN @ SEA W 41 21 7 15 46.7 2 6 33.3 5 6 83.3 1 5 6 3 0 0 0 2 11
+p28
+aVTom Hammonds MIN 04/26/1998 MIN @ SEA W 32 11 4 8 50.0 0 0 - 3 5 60.0 3 4 7 1 0 0 0 4 -5
+p29
+aVStephon Marbury MIN 04/26/1998 MIN @ SEA W 44 25 9 21 42.9 1 3 33.3 6 7 85.7 2 2 4 7 2 0 5 3 3
+p30
+aVMicheal Williams MIN 04/26/1998 MIN @ SEA W 13 0 0 3 0.0 0 0 - 0 0 - 1 3 4 4 1 0 0 5 5
+p31
+aVStephon Marbury MIN 04/24/1998 MIN @ SEA L 35 13 4 14 28.6 2 6 33.3 3 3 100.0 0 2 2 5 1 0 3 4 -15
+p32
+aVKevin Garnett MIN 04/24/1998 MIN @ SEA L 38 18 8 18 44.4 0 0 - 2 2 100.0 6 12 18 2 0 2 5 3 -18
+p33
+aVTerry Porter MIN 04/24/1998 MIN @ SEA L 28 13 4 11 36.4 1 4 25.0 4 4 100.0 3 4 7 2 1 0 1 1 -3
+p34
+aVBill Curley MIN 04/24/1998 MIN @ SEA L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p35
+aVAnthony Peeler MIN 04/24/1998 MIN @ SEA L 40 6 3 18 16.7 0 6 0.0 0 0 - 3 7 10 3 1 0 1 2 -25
+p36
+aVDeJuan Wheat MIN 04/24/1998 MIN @ SEA L 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 0 0
+p37
+aVSam Mitchell MIN 04/24/1998 MIN @ SEA L 31 9 2 8 25.0 0 0 - 5 6 83.3 1 4 5 2 0 0 0 2 -21
+p38
+aVReggie Jordan MIN 04/24/1998 MIN @ SEA L 14 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 1 1 0 0 2 -10
+p39
+aVMicheal Williams MIN 04/24/1998 MIN @ SEA L 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 3 1 0 0 3 -2
+p40
+aVStanley Roberts MIN 04/24/1998 MIN @ SEA L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 1 0 1
+p41
+aVTom Hammonds MIN 04/24/1998 MIN @ SEA L 21 12 5 11 45.5 0 0 - 2 2 100.0 5 1 6 1 0 0 1 5 -24
+p42
+a.

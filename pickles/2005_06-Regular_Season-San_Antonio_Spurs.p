@@ -1,0 +1,1808 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSean Marks SAS 04/19/2006 SAS @ HOU W 10 5 2 6 33.3 0 0 - 1 1 100.0 0 0 0 1 1 0 0 2 7
+p2
+aVBeno Udrih SAS 04/19/2006 SAS @ HOU W 28 9 2 7 28.6 0 1 0.0 5 6 83.3 0 1 1 2 1 0 2 1 -1
+p3
+aVFabricio Oberto SAS 04/19/2006 SAS @ HOU W 18 0 0 2 0.0 0 0 - 0 2 0.0 1 2 3 1 1 0 1 2 -13
+p4
+aVRasho Nesterovic SAS 04/19/2006 SAS @ HOU W 19 4 2 4 50.0 0 0 - 0 0 - 1 4 5 1 0 3 0 1 0
+p5
+aVNick Van Exel SAS 04/19/2006 SAS @ HOU W 20 10 3 9 33.3 2 4 50.0 2 2 100.0 1 1 2 3 0 0 2 0 3
+p6
+aVRobert Horry SAS 04/19/2006 SAS @ HOU W 22 2 0 5 0.0 0 2 0.0 2 2 100.0 1 5 6 3 3 2 2 1 20
+p7
+aVMichael Finley SAS 04/19/2006 SAS @ HOU W 23 17 5 10 50.0 5 7 71.4 2 2 100.0 0 2 2 1 0 0 0 1 9
+p8
+aVManu Ginobili SAS 04/19/2006 SAS @ HOU W 26 11 5 10 50.0 1 2 50.0 0 0 - 1 3 4 6 2 1 3 0 0
+p9
+aVNazr Mohammed SAS 04/19/2006 SAS @ HOU W 22 7 2 8 25.0 0 0 - 3 4 75.0 5 1 6 1 1 1 1 4 -6
+p10
+aVBruce Bowen SAS 04/19/2006 SAS @ HOU W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -4
+p11
+aVBrent Barry SAS 04/19/2006 SAS @ HOU W 26 19 7 12 58.3 4 8 50.0 1 2 50.0 1 2 3 1 2 0 2 1 3
+p12
+aVMelvin Sanders SAS 04/19/2006 SAS @ HOU W 15 5 2 4 50.0 0 1 0.0 1 2 50.0 1 1 2 1 2 0 1 4 -8
+p13
+aVFabricio Oberto SAS 04/17/2006 SAS vs. UTA W 9 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 2 5 4
+p14
+aVMichael Finley SAS 04/17/2006 SAS vs. UTA W 20 10 4 9 44.4 1 1 100.0 1 1 100.0 0 4 4 1 0 0 1 0 16
+p15
+aVBruce Bowen SAS 04/17/2006 SAS vs. UTA W 24 8 3 7 42.9 2 4 50.0 0 0 - 0 3 3 0 2 1 1 1 -2
+p16
+aVBeno Udrih SAS 04/17/2006 SAS vs. UTA W 15 10 4 7 57.1 0 0 - 2 2 100.0 1 0 1 1 0 0 1 0 16
+p17
+aVNick Van Exel SAS 04/17/2006 SAS vs. UTA W 21 12 5 7 71.4 2 3 66.7 0 0 - 0 2 2 6 2 0 3 1 25
+p18
+aVManu Ginobili SAS 04/17/2006 SAS vs. UTA W 25 18 4 11 36.4 3 6 50.0 7 7 100.0 0 2 2 4 1 0 0 1 38
+p19
+aVTony Parker SAS 04/17/2006 SAS vs. UTA W 16 6 3 3 100.0 0 0 - 0 0 - 0 1 1 3 0 0 3 4 -6
+p20
+aVTim Duncan SAS 04/17/2006 SAS vs. UTA W 22 16 7 13 53.8 0 0 - 2 3 66.7 3 2 5 1 1 1 0 1 0
+p21
+aVNazr Mohammed SAS 04/17/2006 SAS vs. UTA W 18 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 1 0 2 4 -8
+p22
+aVRobert Horry SAS 04/17/2006 SAS vs. UTA W 17 10 3 4 75.0 3 3 100.0 1 4 25.0 2 4 6 3 0 2 0 0 29
+p23
+aVBrent Barry SAS 04/17/2006 SAS vs. UTA W 23 16 7 10 70.0 2 5 40.0 0 0 - 0 1 1 1 1 0 0 0 12
+p24
+aVRasho Nesterovic SAS 04/17/2006 SAS vs. UTA W 30 6 3 4 75.0 0 0 - 0 0 - 4 7 11 5 1 0 0 2 41
+p25
+aVNazr Mohammed SAS 04/16/2006 SAS @ MIN W 10 4 2 3 66.7 0 0 - 0 0 - 2 3 5 0 0 0 1 0 9
+p26
+aVTim Duncan SAS 04/16/2006 SAS @ MIN W 20 10 3 6 50.0 1 1 100.0 3 4 75.0 3 5 8 1 0 2 3 1 21
+p27
+aVRobert Horry SAS 04/16/2006 SAS @ MIN W 18 4 1 5 20.0 0 3 0.0 2 2 100.0 0 5 5 0 0 0 0 2 -1
+p28
+aVFabricio Oberto SAS 04/16/2006 SAS @ MIN W 12 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 1 0 0 0 4 -11
+p29
+aVBeno Udrih SAS 04/16/2006 SAS @ MIN W 22 15 5 9 55.6 2 2 100.0 3 4 75.0 0 1 1 4 1 0 4 4 4
+p30
+aVBruce Bowen SAS 04/16/2006 SAS @ MIN W 34 7 2 2 100.0 1 1 100.0 2 3 66.7 0 4 4 5 0 1 3 3 17
+p31
+aVManu Ginobili SAS 04/16/2006 SAS @ MIN W 24 14 6 12 50.0 1 4 25.0 1 2 50.0 3 4 7 4 1 0 3 2 4
+p32
+aVTony Parker SAS 04/16/2006 SAS @ MIN W 17 11 5 7 71.4 0 1 0.0 1 2 50.0 0 1 1 1 1 0 2 1 12
+p33
+aVNick Van Exel SAS 04/16/2006 SAS @ MIN W 15 9 4 9 44.4 1 4 25.0 0 0 - 0 3 3 3 0 0 0 1 -6
+p34
+aVBrent Barry SAS 04/16/2006 SAS @ MIN W 21 14 5 8 62.5 3 6 50.0 1 2 50.0 0 3 3 3 0 1 0 3 7
+p35
+aVMichael Finley SAS 04/16/2006 SAS @ MIN W 30 6 3 8 37.5 0 3 0.0 0 0 - 1 1 2 2 0 0 0 0 5
+p36
+aVRasho Nesterovic SAS 04/16/2006 SAS @ MIN W 18 4 2 6 33.3 0 0 - 0 0 - 0 4 4 1 0 3 1 1 4
+p37
+aVBrent Barry SAS 04/13/2006 SAS vs. ORL L 25 5 2 11 18.2 1 4 25.0 0 1 0.0 1 3 4 5 0 0 1 1 -7
+p38
+aVBruce Bowen SAS 04/13/2006 SAS vs. ORL L 36 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 1 1 -2
+p39
+aVTony Parker SAS 04/13/2006 SAS vs. ORL L 25 12 6 11 54.5 0 0 - 0 0 - 2 2 4 4 1 0 7 2 4
+p40
+aVRobert Horry SAS 04/13/2006 SAS vs. ORL L 20 9 4 9 44.4 1 3 33.3 0 0 - 3 3 6 1 0 2 0 3 -6
+p41
+aVRasho Nesterovic SAS 04/13/2006 SAS vs. ORL L 22 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 0 3 -4
+p42
+aVFabricio Oberto SAS 04/13/2006 SAS vs. ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p43
+aVNick Van Exel SAS 04/13/2006 SAS vs. ORL L 17 0 0 3 0.0 0 1 0.0 0 0 - 1 0 1 2 1 0 0 0 -9
+p44
+aVBeno Udrih SAS 04/13/2006 SAS vs. ORL L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -7
+p45
+aVMichael Finley SAS 04/13/2006 SAS vs. ORL L 36 16 6 10 60.0 2 4 50.0 2 3 66.7 1 3 4 2 2 1 0 2 -15
+p46
+aVNazr Mohammed SAS 04/13/2006 SAS vs. ORL L 15 2 1 3 33.3 0 0 - 0 2 0.0 0 2 2 1 0 0 1 2 -9
+p47
+aVTim Duncan SAS 04/13/2006 SAS vs. ORL L 37 31 12 19 63.2 0 0 - 7 10 70.0 1 12 13 6 2 2 5 3 -3
+p48
+aVMelvin Sanders SAS 04/11/2006 SAS vs. SEA W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 2 -10
+p49
+aVTony Parker SAS 04/11/2006 SAS vs. SEA W 29 27 13 19 68.4 1 1 100.0 0 0 - 1 4 5 9 2 1 4 2 9
+p50
+aVFabricio Oberto SAS 04/11/2006 SAS vs. SEA W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -1
+p51
+aVSean Marks SAS 04/11/2006 SAS vs. SEA W 2 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -9
+p52
+aVMichael Finley SAS 04/11/2006 SAS vs. SEA W 29 17 6 10 60.0 3 4 75.0 2 2 100.0 1 0 1 2 1 0 3 1 9
+p53
+aVRasho Nesterovic SAS 04/11/2006 SAS vs. SEA W 21 10 5 6 83.3 0 1 0.0 0 0 - 1 4 5 0 0 2 3 4 -5
+p54
+aVNick Van Exel SAS 04/11/2006 SAS vs. SEA W 22 0 0 2 0.0 0 1 0.0 0 0 - 0 5 5 2 0 1 1 1 3
+p55
+aVBeno Udrih SAS 04/11/2006 SAS vs. SEA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 1 -7
+p56
+aVNazr Mohammed SAS 04/11/2006 SAS vs. SEA W 21 6 2 6 33.3 0 0 - 2 2 100.0 4 3 7 0 1 0 0 2 9
+p57
+aVBrent Barry SAS 04/11/2006 SAS vs. SEA W 28 16 6 12 50.0 4 8 50.0 0 0 - 1 2 3 5 0 1 3 3 8
+p58
+aVTim Duncan SAS 04/11/2006 SAS vs. SEA W 34 18 6 18 33.3 0 0 - 6 12 50.0 5 9 14 1 3 5 3 3 20
+p59
+aVBruce Bowen SAS 04/11/2006 SAS vs. SEA W 36 7 3 6 50.0 1 2 50.0 0 0 - 1 8 9 3 2 3 1 1 19
+p60
+aVMichael Finley SAS 04/09/2006 SAS vs. MEM W 18 11 5 8 62.5 1 1 100.0 0 1 0.0 0 3 3 2 0 0 0 3 2
+p61
+aVTim Duncan SAS 04/09/2006 SAS vs. MEM W 12 23 8 14 57.1 0 0 - 7 12 58.3 3 9 12 5 2 3 4 3 7
+p62
+aVRobert Horry SAS 04/09/2006 SAS vs. MEM W 9 10 4 8 50.0 1 3 33.3 1 2 50.0 3 2 5 1 2 0 2 2 -9
+p63
+aVNick Van Exel SAS 04/09/2006 SAS vs. MEM W 12 9 3 7 42.9 1 4 25.0 2 2 100.0 0 3 3 3 0 0 0 3 3
+p64
+aVTony Parker SAS 04/09/2006 SAS vs. MEM W 13 19 9 15 60.0 0 1 0.0 1 1 100.0 2 2 4 3 1 0 2 1 8
+p65
+aVBruce Bowen SAS 04/09/2006 SAS vs. MEM W 6 5 2 10 20.0 1 4 25.0 0 0 - 0 3 3 3 0 1 0 3 -12
+p66
+aVBrent Barry SAS 04/09/2006 SAS vs. MEM W 7 0 0 3 0.0 0 2 0.0 0 0 - 1 5 6 2 0 0 3 2 12
+p67
+aVRasho Nesterovic SAS 04/09/2006 SAS vs. MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p68
+aVNazr Mohammed SAS 04/09/2006 SAS vs. MEM W 3 6 2 8 25.0 0 0 - 2 2 100.0 1 4 5 0 1 0 2 2 -2
+p69
+aVRasho Nesterovic SAS 04/07/2006 SAS vs. DAL L 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p70
+aVTim Duncan SAS 04/07/2006 SAS vs. DAL L 38 13 5 15 33.3 0 0 - 3 6 50.0 3 6 9 3 0 2 2 3 2
+p71
+aVBruce Bowen SAS 04/07/2006 SAS vs. DAL L 33 5 2 4 50.0 1 3 33.3 0 0 - 1 2 3 1 2 1 0 1 -8
+p72
+aVManu Ginobili SAS 04/07/2006 SAS vs. DAL L 32 22 7 18 38.9 1 6 16.7 7 8 87.5 0 3 3 4 0 1 1 1 -14
+p73
+aVNazr Mohammed SAS 04/07/2006 SAS vs. DAL L 15 1 0 2 0.0 0 0 - 1 4 25.0 1 1 2 0 0 1 1 3 -15
+p74
+aVFabricio Oberto SAS 04/07/2006 SAS vs. DAL L 21 2 1 3 33.3 0 0 - 0 0 - 4 4 8 2 0 1 2 3 -3
+p75
+aVBrent Barry SAS 04/07/2006 SAS vs. DAL L 15 3 1 3 33.3 1 2 50.0 0 0 - 3 2 5 1 0 0 0 3 0
+p76
+aVNick Van Exel SAS 04/07/2006 SAS vs. DAL L 16 14 5 8 62.5 4 4 100.0 0 0 - 0 0 0 2 0 0 1 1 8
+p77
+aVMichael Finley SAS 04/07/2006 SAS vs. DAL L 32 14 4 12 33.3 3 5 60.0 3 3 100.0 0 3 3 2 0 0 0 0 11
+p78
+aVTony Parker SAS 04/07/2006 SAS vs. DAL L 32 10 5 15 33.3 0 0 - 0 0 - 2 4 6 3 0 0 5 2 -14
+p79
+aVTim Duncan SAS 04/05/2006 SAS vs. SAC L 31 11 3 9 33.3 0 0 - 5 6 83.3 2 4 6 1 2 3 3 3 -8
+p80
+aVMichael Finley SAS 04/05/2006 SAS vs. SAC L 23 7 3 9 33.3 1 5 20.0 0 0 - 1 3 4 1 1 0 0 0 -12
+p81
+aVNick Van Exel SAS 04/05/2006 SAS vs. SAC L 12 9 3 7 42.9 3 5 60.0 0 0 - 0 2 2 2 0 0 2 1 6
+p82
+aVBruce Bowen SAS 04/05/2006 SAS vs. SAC L 27 7 3 8 37.5 1 2 50.0 0 0 - 0 0 0 1 0 1 1 3 -3
+p83
+aVBrent Barry SAS 04/05/2006 SAS vs. SAC L 25 9 4 6 66.7 1 3 33.3 0 0 - 1 3 4 4 0 1 1 1 -10
+p84
+aVRasho Nesterovic SAS 04/05/2006 SAS vs. SAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 1
+p85
+aVNazr Mohammed SAS 04/05/2006 SAS vs. SAC L 27 12 3 5 60.0 0 0 - 6 6 100.0 4 5 9 1 2 0 2 1 -4
+p86
+aVTony Parker SAS 04/05/2006 SAS vs. SAC L 30 16 6 13 46.2 0 1 0.0 4 4 100.0 0 1 1 5 0 0 3 0 -6
+p87
+aVRobert Horry SAS 04/05/2006 SAS vs. SAC L 14 2 1 5 20.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 -14
+p88
+aVFabricio Oberto SAS 04/05/2006 SAS vs. SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 1 0 0 1 7
+p89
+aVMelvin Sanders SAS 04/05/2006 SAS vs. SAC L 6 4 1 3 33.3 1 1 100.0 1 2 50.0 1 0 1 0 0 0 0 1 7
+p90
+aVManu Ginobili SAS 04/05/2006 SAS vs. SAC L 27 8 3 8 37.5 0 1 0.0 2 2 100.0 0 2 2 1 1 0 2 2 -14
+p91
+aVNick Van Exel SAS 04/04/2006 SAS @ UTA W 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 6
+p92
+aVBrent Barry SAS 04/04/2006 SAS @ UTA W 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -12
+p93
+aVTim Duncan SAS 04/04/2006 SAS @ UTA W 35 11 3 10 30.0 0 0 - 5 8 62.5 3 10 13 3 0 5 1 1 -4
+p94
+aVTony Parker SAS 04/04/2006 SAS @ UTA W 37 23 9 15 60.0 3 4 75.0 2 4 50.0 1 1 2 8 1 0 4 3 8
+p95
+aVBruce Bowen SAS 04/04/2006 SAS @ UTA W 32 3 1 5 20.0 1 4 25.0 0 0 - 0 1 1 2 2 0 0 2 0
+p96
+aVRasho Nesterovic SAS 04/04/2006 SAS @ UTA W 24 6 2 5 40.0 0 0 - 2 2 100.0 4 3 7 0 1 1 0 2 11
+p97
+aVRobert Horry SAS 04/04/2006 SAS @ UTA W 21 9 3 5 60.0 3 4 75.0 0 0 - 2 4 6 0 1 2 2 4 16
+p98
+aVFabricio Oberto SAS 04/04/2006 SAS @ UTA W 5 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p99
+aVManu Ginobili SAS 04/04/2006 SAS @ UTA W 29 26 8 15 53.3 4 6 66.7 6 6 100.0 0 4 4 0 2 0 3 3 10
+p100
+aVNazr Mohammed SAS 04/04/2006 SAS @ UTA W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 2 4 -3
+p101
+aVMichael Finley SAS 04/04/2006 SAS @ UTA W 30 13 5 11 45.5 1 5 20.0 2 2 100.0 0 3 3 2 0 0 0 1 15
+p102
+aVBruce Bowen SAS 04/01/2006 SAS vs. WAS W 40 8 3 9 33.3 2 5 40.0 0 1 0.0 0 11 11 1 3 1 2 5 4
+p103
+aVNick Van Exel SAS 04/01/2006 SAS vs. WAS W 10 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 0 1 0 2 1 -8
+p104
+aVTony Parker SAS 04/01/2006 SAS vs. WAS W 36 28 10 17 58.8 0 0 - 8 11 72.7 1 5 6 6 0 0 4 4 14
+p105
+aVNazr Mohammed SAS 04/01/2006 SAS vs. WAS W 23 12 3 7 42.9 0 0 - 6 6 100.0 4 1 5 0 0 2 1 4 6
+p106
+aVRasho Nesterovic SAS 04/01/2006 SAS vs. WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -14
+p107
+aVRobert Horry SAS 04/01/2006 SAS vs. WAS W 16 0 0 2 0.0 0 2 0.0 0 0 - 0 4 4 2 0 3 1 1 -11
+p108
+aVManu Ginobili SAS 04/01/2006 SAS vs. WAS W 33 22 5 10 50.0 1 1 100.0 11 15 73.3 2 1 3 3 0 1 1 3 11
+p109
+aVMichael Finley SAS 04/01/2006 SAS vs. WAS W 27 9 3 8 37.5 2 3 66.7 1 1 100.0 1 3 4 2 1 0 1 0 8
+p110
+aVTim Duncan SAS 04/01/2006 SAS vs. WAS W 32 16 6 12 50.0 0 0 - 4 7 57.1 7 7 14 3 1 2 2 5 15
+p111
+aVBrent Barry SAS 04/01/2006 SAS vs. WAS W 20 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 3 0 1 0 2 10
+p112
+aVManu Ginobili SAS 03/30/2006 SAS @ LAL W 25 11 4 10 40.0 1 3 33.3 2 4 50.0 1 1 2 4 3 0 3 3 -6
+p113
+aVFabricio Oberto SAS 03/30/2006 SAS @ LAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p114
+aVBruce Bowen SAS 03/30/2006 SAS @ LAL W 40 10 4 10 40.0 2 5 40.0 0 0 - 0 4 4 2 0 1 3 1 24
+p115
+aVRasho Nesterovic SAS 03/30/2006 SAS @ LAL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p116
+aVRobert Horry SAS 03/30/2006 SAS @ LAL W 25 12 5 8 62.5 2 3 66.7 0 0 - 3 3 6 3 0 0 2 2 21
+p117
+aVBrent Barry SAS 03/30/2006 SAS @ LAL W 19 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 1 0 0 0 1 -14
+p118
+aVMichael Finley SAS 03/30/2006 SAS @ LAL W 23 7 2 8 25.0 1 5 20.0 2 2 100.0 0 3 3 4 0 0 0 4 14
+p119
+aVNick Van Exel SAS 03/30/2006 SAS @ LAL W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -11
+p120
+aVNazr Mohammed SAS 03/30/2006 SAS @ LAL W 23 12 4 8 50.0 0 0 - 4 4 100.0 2 6 8 0 3 0 3 4 11
+p121
+aVMelvin Sanders SAS 03/30/2006 SAS @ LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p122
+aVTim Duncan SAS 03/30/2006 SAS @ LAL W 36 20 9 18 50.0 0 0 - 2 4 50.0 3 10 13 4 0 3 1 3 3
+p123
+aVTony Parker SAS 03/30/2006 SAS @ LAL W 33 19 9 14 64.3 0 0 - 1 1 100.0 0 2 2 6 2 0 0 1 24
+p124
+aVManu Ginobili SAS 03/28/2006 SAS @ LAC W 29 8 3 8 37.5 0 2 0.0 2 2 100.0 0 3 3 9 3 0 1 3 13
+p125
+aVBrent Barry SAS 03/28/2006 SAS @ LAC W 26 11 3 6 50.0 2 3 66.7 3 4 75.0 0 3 3 5 1 1 1 4 11
+p126
+aVMichael Finley SAS 03/28/2006 SAS @ LAC W 30 20 6 8 75.0 4 5 80.0 4 4 100.0 1 2 3 2 1 0 3 1 3
+p127
+aVFabricio Oberto SAS 03/28/2006 SAS @ LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p128
+aVBruce Bowen SAS 03/28/2006 SAS @ LAC W 37 16 6 12 50.0 3 8 37.5 1 2 50.0 0 4 4 4 2 0 1 2 14
+p129
+aVNick Van Exel SAS 03/28/2006 SAS @ LAC W 15 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 2 0 5
+p130
+aVBeno Udrih SAS 03/28/2006 SAS @ LAC W 12 4 2 5 40.0 0 2 0.0 0 0 - 0 1 1 3 0 0 2 2 -5
+p131
+aVNazr Mohammed SAS 03/28/2006 SAS @ LAC W 19 9 3 5 60.0 0 0 - 3 4 75.0 3 3 6 0 0 0 0 6 2
+p132
+aVTim Duncan SAS 03/28/2006 SAS @ LAC W 36 20 9 17 52.9 0 0 - 2 5 40.0 5 8 13 4 0 3 2 4 15
+p133
+aVMelvin Sanders SAS 03/28/2006 SAS @ LAC W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p134
+aVRasho Nesterovic SAS 03/28/2006 SAS @ LAC W 14 0 0 1 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 3 1
+p135
+aVRobert Horry SAS 03/28/2006 SAS @ LAC W 19 3 1 4 25.0 0 2 0.0 1 2 50.0 0 3 3 3 0 2 1 4 1
+p136
+aVBrent Barry SAS 03/26/2006 SAS @ SEA L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 0 -5
+p137
+aVRasho Nesterovic SAS 03/26/2006 SAS @ SEA L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p138
+aVTim Duncan SAS 03/26/2006 SAS @ SEA L 35 28 8 13 61.5 0 0 - 12 14 85.7 4 6 10 0 2 0 1 2 6
+p139
+aVBeno Udrih SAS 03/26/2006 SAS @ SEA L 11 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 0 0 1 2 2 -7
+p140
+aVRobert Horry SAS 03/26/2006 SAS @ SEA L 27 10 3 8 37.5 2 4 50.0 2 2 100.0 1 2 3 0 2 1 1 1 -8
+p141
+aVTony Parker SAS 03/26/2006 SAS @ SEA L 38 17 7 13 53.8 0 0 - 3 3 100.0 1 1 2 12 4 0 3 2 -2
+p142
+aVManu Ginobili SAS 03/26/2006 SAS @ SEA L 26 17 6 8 75.0 2 3 66.7 3 4 75.0 0 2 2 6 2 1 3 5 11
+p143
+aVMichael Finley SAS 03/26/2006 SAS @ SEA L 20 6 3 7 42.9 0 3 0.0 0 0 - 0 3 3 1 1 0 1 3 -20
+p144
+aVBruce Bowen SAS 03/26/2006 SAS @ SEA L 42 12 5 8 62.5 0 1 0.0 2 2 100.0 1 3 4 1 2 0 1 3 7
+p145
+aVNazr Mohammed SAS 03/26/2006 SAS @ SEA L 22 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 0 3 2 -2
+p146
+aVRasho Nesterovic SAS 03/24/2006 SAS @ POR W 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 2 9
+p147
+aVManu Ginobili SAS 03/24/2006 SAS @ POR W 25 16 5 9 55.6 2 4 50.0 4 4 100.0 2 1 3 4 2 0 1 0 18
+p148
+aVRobert Horry SAS 03/24/2006 SAS @ POR W 18 1 0 3 0.0 0 1 0.0 1 2 50.0 1 3 4 1 1 0 0 1 -3
+p149
+aVNazr Mohammed SAS 03/24/2006 SAS @ POR W 27 7 3 8 37.5 0 0 - 1 3 33.3 1 5 6 3 0 1 0 3 13
+p150
+aVTony Parker SAS 03/24/2006 SAS @ POR W 33 14 7 13 53.8 0 0 - 0 0 - 0 1 1 2 1 0 3 1 11
+p151
+aVTim Duncan SAS 03/24/2006 SAS @ POR W 29 6 3 7 42.9 0 0 - 0 2 0.0 1 6 7 6 1 2 4 4 14
+p152
+aVMichael Finley SAS 03/24/2006 SAS @ POR W 24 10 4 9 44.4 2 4 50.0 0 0 - 0 0 0 3 0 0 0 2 7
+p153
+aVMelvin Sanders SAS 03/24/2006 SAS @ POR W 4 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 2 -2
+p154
+aVBeno Udrih SAS 03/24/2006 SAS @ POR W 18 8 4 6 66.7 0 1 0.0 0 0 - 0 2 2 2 0 0 2 1 5
+p155
+aVBrent Barry SAS 03/24/2006 SAS @ POR W 20 23 8 10 80.0 7 8 87.5 0 0 - 0 2 2 4 1 1 1 0 18
+p156
+aVFabricio Oberto SAS 03/24/2006 SAS @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p157
+aVBruce Bowen SAS 03/24/2006 SAS @ POR W 28 9 4 6 66.7 1 3 33.3 0 0 - 0 6 6 1 1 0 0 1 7
+p158
+aVBeno Udrih SAS 03/22/2006 SAS @ DEN L 13 0 0 4 0.0 0 1 0.0 0 0 - 2 0 2 5 0 0 0 2 -10
+p159
+aVTim Duncan SAS 03/22/2006 SAS @ DEN L 39 22 8 18 44.4 0 0 - 6 14 42.9 3 3 6 0 1 1 2 1 -7
+p160
+aVRobert Horry SAS 03/22/2006 SAS @ DEN L 26 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 4 3 2 0 1 -6
+p161
+aVManu Ginobili SAS 03/22/2006 SAS @ DEN L 33 26 8 14 57.1 4 7 57.1 6 7 85.7 0 3 3 4 2 0 2 3 -9
+p162
+aVTony Parker SAS 03/22/2006 SAS @ DEN L 35 14 6 15 40.0 1 2 50.0 1 2 50.0 0 3 3 6 0 0 3 2 -2
+p163
+aVNazr Mohammed SAS 03/22/2006 SAS @ DEN L 24 4 1 3 33.3 0 0 - 2 2 100.0 0 3 3 1 0 0 3 4 2
+p164
+aVMichael Finley SAS 03/22/2006 SAS @ DEN L 27 11 4 10 40.0 0 4 0.0 3 3 100.0 0 2 2 1 0 1 1 2 -16
+p165
+aVFabricio Oberto SAS 03/22/2006 SAS @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p166
+aVBruce Bowen SAS 03/22/2006 SAS @ DEN L 29 8 3 5 60.0 1 1 100.0 1 2 50.0 0 3 3 2 0 0 0 4 9
+p167
+aVBrent Barry SAS 03/22/2006 SAS @ DEN L 7 3 1 2 50.0 0 1 0.0 1 2 50.0 1 1 2 0 1 0 0 1 -8
+p168
+aVRasho Nesterovic SAS 03/22/2006 SAS @ DEN L 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 -6
+p169
+aVRasho Nesterovic SAS 03/21/2006 SAS vs. GSW W 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 1 0 2 4
+p170
+aVRobert Horry SAS 03/21/2006 SAS vs. GSW W 21 4 2 3 66.7 0 1 0.0 0 0 - 1 3 4 1 3 1 0 2 10
+p171
+aVManu Ginobili SAS 03/21/2006 SAS vs. GSW W 28 10 3 8 37.5 0 2 0.0 4 5 80.0 0 4 4 6 0 0 2 5 0
+p172
+aVNazr Mohammed SAS 03/21/2006 SAS vs. GSW W 25 10 4 5 80.0 0 0 - 2 3 66.7 3 6 9 0 0 2 1 4 -2
+p173
+aVMichael Finley SAS 03/21/2006 SAS vs. GSW W 27 9 3 10 30.0 1 6 16.7 2 2 100.0 1 1 2 2 0 0 1 1 20
+p174
+aVBeno Udrih SAS 03/21/2006 SAS vs. GSW W 15 13 5 8 62.5 1 4 25.0 2 2 100.0 1 1 2 0 1 0 0 2 1
+p175
+aVMelvin Sanders SAS 03/21/2006 SAS vs. GSW W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p176
+aVBruce Bowen SAS 03/21/2006 SAS vs. GSW W 28 0 0 6 0.0 0 3 0.0 0 0 - 1 2 3 2 0 1 1 3 -2
+p177
+aVTony Parker SAS 03/21/2006 SAS vs. GSW W 34 29 9 19 47.4 0 0 - 11 13 84.6 1 2 3 7 0 0 3 1 10
+p178
+aVBrent Barry SAS 03/21/2006 SAS vs. GSW W 15 5 1 2 50.0 1 2 50.0 2 2 100.0 0 2 2 1 2 1 2 1 7
+p179
+aVTim Duncan SAS 03/21/2006 SAS vs. GSW W 35 21 10 18 55.6 0 0 - 1 1 100.0 4 9 13 3 1 1 1 2 9
+p180
+aVMichael Finley SAS 03/18/2006 SAS @ HOU W 25 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 2 0 0 1 0 15
+p181
+aVTony Parker SAS 03/18/2006 SAS @ HOU W 36 23 10 17 58.8 0 0 - 3 4 75.0 1 3 4 8 0 0 0 1 16
+p182
+aVMelvin Sanders SAS 03/18/2006 SAS @ HOU W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p183
+aVBeno Udrih SAS 03/18/2006 SAS @ HOU W 29 9 3 8 37.5 1 2 50.0 2 2 100.0 0 3 3 3 0 0 2 1 -3
+p184
+aVFabricio Oberto SAS 03/18/2006 SAS @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p185
+aVNazr Mohammed SAS 03/18/2006 SAS @ HOU W 19 7 3 7 42.9 0 0 - 1 2 50.0 3 5 8 0 0 0 2 4 -11
+p186
+aVRobert Horry SAS 03/18/2006 SAS @ HOU W 26 12 4 9 44.4 2 5 40.0 2 2 100.0 1 2 3 1 2 0 0 3 12
+p187
+aVBrent Barry SAS 03/18/2006 SAS @ HOU W 19 2 1 4 25.0 0 2 0.0 0 1 0.0 1 3 4 1 0 0 1 2 1
+p188
+aVTim Duncan SAS 03/18/2006 SAS @ HOU W 31 14 5 9 55.6 0 0 - 4 7 57.1 1 7 8 4 0 1 2 3 12
+p189
+aVBruce Bowen SAS 03/18/2006 SAS @ HOU W 33 5 2 6 33.3 1 3 33.3 0 0 - 1 2 3 0 5 0 2 4 15
+p190
+aVRasho Nesterovic SAS 03/18/2006 SAS @ HOU W 19 10 5 7 71.4 0 0 - 0 0 - 1 0 1 0 1 2 1 5 17
+p191
+aVTony Parker SAS 03/17/2006 SAS vs. PHX W 34 13 6 11 54.5 0 0 - 1 2 50.0 2 1 3 5 0 0 4 4 3
+p192
+aVMichael Finley SAS 03/17/2006 SAS vs. PHX W 23 13 5 9 55.6 2 4 50.0 1 2 50.0 0 3 3 0 0 0 1 1 10
+p193
+aVBeno Udrih SAS 03/17/2006 SAS vs. PHX W 15 6 3 8 37.5 0 2 0.0 0 0 - 1 0 1 1 0 0 2 5 0
+p194
+aVTim Duncan SAS 03/17/2006 SAS vs. PHX W 37 20 9 17 52.9 0 0 - 2 7 28.6 9 4 13 7 1 1 4 3 2
+p195
+aVNazr Mohammed SAS 03/17/2006 SAS vs. PHX W 35 30 13 21 61.9 0 0 - 4 4 100.0 8 8 16 3 0 0 4 5 -1
+p196
+aVRobert Horry SAS 03/17/2006 SAS vs. PHX W 16 5 2 4 50.0 1 2 50.0 0 0 - 2 3 5 4 0 1 0 1 11
+p197
+aVManu Ginobili SAS 03/17/2006 SAS vs. PHX W 30 14 4 9 44.4 2 4 50.0 4 4 100.0 1 3 4 5 1 0 0 2 7
+p198
+aVBrent Barry SAS 03/17/2006 SAS vs. PHX W 13 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 1 0 0 1 0 -1
+p199
+aVBruce Bowen SAS 03/17/2006 SAS vs. PHX W 37 7 3 10 30.0 1 6 16.7 0 0 - 2 7 9 2 2 0 0 3 -1
+p200
+aVSean Marks SAS 03/14/2006 SAS vs. NOK W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p201
+aVRobert Horry SAS 03/14/2006 SAS vs. NOK W 12 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 1 1 0 16
+p202
+aVManu Ginobili SAS 03/14/2006 SAS vs. NOK W 26 5 0 7 0.0 0 5 0.0 5 7 71.4 0 4 4 2 0 2 1 1 -8
+p203
+aVTony Parker SAS 03/14/2006 SAS vs. NOK W 34 20 8 16 50.0 0 0 - 4 5 80.0 0 2 2 11 4 0 1 2 12
+p204
+aVMichael Finley SAS 03/14/2006 SAS vs. NOK W 24 4 1 6 16.7 1 4 25.0 1 2 50.0 0 0 0 1 1 0 0 1 14
+p205
+aVNazr Mohammed SAS 03/14/2006 SAS vs. NOK W 19 12 4 6 66.7 0 0 - 4 4 100.0 3 5 8 1 1 1 0 1 4
+p206
+aVBrent Barry SAS 03/14/2006 SAS vs. NOK W 23 16 6 6 100.0 4 4 100.0 0 0 - 0 2 2 3 0 1 0 3 28
+p207
+aVTim Duncan SAS 03/14/2006 SAS vs. NOK W 32 17 6 9 66.7 0 0 - 5 6 83.3 4 4 8 4 0 2 5 3 3
+p208
+aVBruce Bowen SAS 03/14/2006 SAS vs. NOK W 31 7 3 10 30.0 1 4 25.0 0 0 - 2 3 5 1 3 0 2 3 0
+p209
+aVFabricio Oberto SAS 03/14/2006 SAS vs. NOK W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p210
+aVRasho Nesterovic SAS 03/14/2006 SAS vs. NOK W 17 2 1 4 25.0 0 0 - 0 0 - 2 3 5 0 1 1 0 2 1
+p211
+aVBeno Udrih SAS 03/14/2006 SAS vs. NOK W 18 10 3 6 50.0 1 3 33.3 3 4 75.0 1 1 2 2 1 1 4 1 5
+p212
+aVMichael Finley SAS 03/12/2006 SAS vs. HOU W 26 15 6 12 50.0 2 7 28.6 1 1 100.0 0 5 5 2 2 0 1 0 5
+p213
+aVRasho Nesterovic SAS 03/12/2006 SAS vs. HOU W 14 3 1 1 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 4 0
+p214
+aVTim Duncan SAS 03/12/2006 SAS vs. HOU W 39 20 9 20 45.0 0 0 - 2 3 66.7 4 6 10 4 1 0 5 1 4
+p215
+aVRobert Horry SAS 03/12/2006 SAS vs. HOU W 14 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 1 0 1 2 2
+p216
+aVBrent Barry SAS 03/12/2006 SAS vs. HOU W 8 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 1 1 2 0 0 2
+p217
+aVManu Ginobili SAS 03/12/2006 SAS vs. HOU W 32 14 5 15 33.3 0 4 0.0 4 5 80.0 2 5 7 5 1 0 0 1 4
+p218
+aVTony Parker SAS 03/12/2006 SAS vs. HOU W 32 8 4 10 40.0 0 0 - 0 0 - 0 2 2 4 2 0 0 0 12
+p219
+aVBruce Bowen SAS 03/12/2006 SAS vs. HOU W 30 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 0 3
+p220
+aVFabricio Oberto SAS 03/12/2006 SAS vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p221
+aVNazr Mohammed SAS 03/12/2006 SAS vs. HOU W 26 11 5 7 71.4 0 0 - 1 2 50.0 3 5 8 0 0 1 1 4 6
+p222
+aVBeno Udrih SAS 03/12/2006 SAS vs. HOU W 16 10 4 7 57.1 2 2 100.0 0 1 0.0 0 1 1 0 0 0 0 1 -5
+p223
+aVBrent Barry SAS 03/10/2006 SAS vs. LAL L 20 16 6 11 54.5 2 4 50.0 2 3 66.7 0 1 1 3 2 2 1 2 -3
+p224
+aVMichael Finley SAS 03/10/2006 SAS vs. LAL L 28 16 6 10 60.0 4 5 80.0 0 0 - 1 8 9 1 1 0 2 1 6
+p225
+aVTony Parker SAS 03/10/2006 SAS vs. LAL L 33 10 4 9 44.4 0 0 - 2 2 100.0 0 0 0 3 0 0 2 2 -13
+p226
+aVRasho Nesterovic SAS 03/10/2006 SAS vs. LAL L 18 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 1 2 0 3 9
+p227
+aVNazr Mohammed SAS 03/10/2006 SAS vs. LAL L 15 2 0 1 0.0 0 0 - 2 2 100.0 1 0 1 2 0 0 0 2 -15
+p228
+aVTim Duncan SAS 03/10/2006 SAS vs. LAL L 32 12 5 12 41.7 0 0 - 2 5 40.0 0 4 4 2 1 0 3 0 -16
+p229
+aVManu Ginobili SAS 03/10/2006 SAS vs. LAL L 31 13 2 6 33.3 0 1 0.0 9 12 75.0 1 2 3 6 0 0 2 3 -3
+p230
+aVSean Marks SAS 03/10/2006 SAS vs. LAL L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 3
+p231
+aVBruce Bowen SAS 03/10/2006 SAS vs. LAL L 34 8 3 7 42.9 2 3 66.7 0 0 - 0 8 8 2 0 0 1 4 -7
+p232
+aVRobert Horry SAS 03/10/2006 SAS vs. LAL L 11 3 1 3 33.3 1 2 50.0 0 0 - 1 2 3 0 0 0 0 2 -1
+p233
+aVBeno Udrih SAS 03/10/2006 SAS vs. LAL L 17 10 4 7 57.1 2 4 50.0 0 0 - 0 2 2 2 1 0 0 1 0
+p234
+aVSean Marks SAS 03/09/2006 SAS @ PHX W 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p235
+aVTony Parker SAS 03/09/2006 SAS @ PHX W 28 29 12 21 57.1 0 0 - 5 7 71.4 0 3 3 5 1 0 4 2 10
+p236
+aVManu Ginobili SAS 03/09/2006 SAS @ PHX W 30 18 6 8 75.0 3 4 75.0 3 4 75.0 0 2 2 5 3 0 1 2 29
+p237
+aVBruce Bowen SAS 03/09/2006 SAS @ PHX W 32 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 0 2 0 0 0 11
+p238
+aVBeno Udrih SAS 03/09/2006 SAS @ PHX W 23 13 6 10 60.0 1 2 50.0 0 0 - 0 1 1 4 0 0 0 3 14
+p239
+aVFabricio Oberto SAS 03/09/2006 SAS @ PHX W 6 4 2 4 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 1
+p240
+aVBrent Barry SAS 03/09/2006 SAS @ PHX W 29 13 5 9 55.6 3 7 42.9 0 0 - 1 6 7 7 1 0 1 1 8
+p241
+aVMichael Finley SAS 03/09/2006 SAS @ PHX W 22 1 0 5 0.0 0 2 0.0 1 1 100.0 1 4 5 0 0 0 2 1 5
+p242
+aVRobert Horry SAS 03/09/2006 SAS @ PHX W 12 1 0 2 0.0 0 1 0.0 1 2 50.0 0 2 2 1 0 1 0 1 0
+p243
+aVNazr Mohammed SAS 03/09/2006 SAS @ PHX W 25 9 3 8 37.5 0 0 - 3 3 100.0 4 7 11 3 1 0 0 3 17
+p244
+aVTim Duncan SAS 03/09/2006 SAS @ PHX W 30 16 8 11 72.7 0 0 - 0 0 - 1 4 5 5 2 2 0 3 24
+p245
+aVSean Marks SAS 03/07/2006 SAS @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p246
+aVRasho Nesterovic SAS 03/07/2006 SAS @ LAC L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -1
+p247
+aVTony Parker SAS 03/07/2006 SAS @ LAC L 33 20 9 16 56.3 0 0 - 2 3 66.7 0 2 2 2 0 0 4 3 -17
+p248
+aVNazr Mohammed SAS 03/07/2006 SAS @ LAC L 20 2 0 2 0.0 0 0 - 2 2 100.0 0 5 5 0 0 0 2 0 -9
+p249
+aVRobert Horry SAS 03/07/2006 SAS @ LAC L 15 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 0 0 1 2 1 -9
+p250
+aVFabricio Oberto SAS 03/07/2006 SAS @ LAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 4 -3
+p251
+aVBrent Barry SAS 03/07/2006 SAS @ LAC L 13 4 1 3 33.3 0 2 0.0 2 3 66.7 0 0 0 1 0 0 0 0 4
+p252
+aVBeno Udrih SAS 03/07/2006 SAS @ LAC L 25 12 6 10 60.0 0 2 0.0 0 0 - 0 2 2 2 1 0 0 1 3
+p253
+aVMichael Finley SAS 03/07/2006 SAS @ LAC L 25 8 3 10 30.0 2 6 33.3 0 0 - 0 5 5 3 1 0 0 2 -6
+p254
+aVManu Ginobili SAS 03/07/2006 SAS @ LAC L 31 15 6 8 75.0 1 3 33.3 2 3 66.7 0 1 1 3 3 0 0 1 -11
+p255
+aVBruce Bowen SAS 03/07/2006 SAS @ LAC L 31 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 2 1 0 1 3 -4
+p256
+aVTim Duncan SAS 03/07/2006 SAS @ LAC L 29 16 6 14 42.9 0 0 - 4 4 100.0 3 4 7 7 0 1 4 5 -10
+p257
+aVTony Parker SAS 03/06/2006 SAS @ LAL W 33 21 10 18 55.6 0 0 - 1 3 33.3 0 4 4 8 0 0 2 2 4
+p258
+aVBrent Barry SAS 03/06/2006 SAS @ LAL W 15 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 3 2 0 0 3 -1
+p259
+aVBruce Bowen SAS 03/06/2006 SAS @ LAL W 36 5 2 7 28.6 1 4 25.0 0 0 - 1 3 4 2 1 0 1 5 8
+p260
+aVRasho Nesterovic SAS 03/06/2006 SAS @ LAL W 15 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 0 0 2 3 -10
+p261
+aVFabricio Oberto SAS 03/06/2006 SAS @ LAL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p262
+aVManu Ginobili SAS 03/06/2006 SAS @ LAL W 33 21 7 11 63.6 5 6 83.3 2 2 100.0 0 6 6 3 1 0 3 0 18
+p263
+aVNazr Mohammed SAS 03/06/2006 SAS @ LAL W 33 8 4 6 66.7 0 0 - 0 0 - 3 0 3 1 2 1 0 4 10
+p264
+aVNick Van Exel SAS 03/06/2006 SAS @ LAL W 15 5 2 6 33.3 1 4 25.0 0 0 - 0 0 0 2 0 0 2 0 3
+p265
+aVTim Duncan SAS 03/06/2006 SAS @ LAL W 31 18 8 16 50.0 0 0 - 2 2 100.0 2 5 7 9 2 1 0 1 28
+p266
+aVMichael Finley SAS 03/06/2006 SAS @ LAL W 26 21 8 11 72.7 5 6 83.3 0 0 - 1 0 1 1 0 0 3 0 -18
+p267
+aVFabricio Oberto SAS 03/04/2006 SAS vs. POR W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 4
+p268
+aVManu Ginobili SAS 03/04/2006 SAS vs. POR W 25 13 5 12 41.7 1 4 25.0 2 2 100.0 0 6 6 2 1 2 2 1 5
+p269
+aVTony Parker SAS 03/04/2006 SAS vs. POR W 34 18 7 12 58.3 0 0 - 4 7 57.1 0 3 3 5 0 0 4 0 9
+p270
+aVBeno Udrih SAS 03/04/2006 SAS vs. POR W 17 11 5 9 55.6 1 2 50.0 0 0 - 0 1 1 3 0 0 0 1 15
+p271
+aVRasho Nesterovic SAS 03/04/2006 SAS vs. POR W 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 0
+p272
+aVBruce Bowen SAS 03/04/2006 SAS vs. POR W 36 8 3 7 42.9 1 3 33.3 1 2 50.0 1 3 4 3 0 0 1 0 13
+p273
+aVNazr Mohammed SAS 03/04/2006 SAS vs. POR W 19 10 4 7 57.1 0 0 - 2 2 100.0 5 2 7 1 0 0 2 4 -6
+p274
+aVTim Duncan SAS 03/04/2006 SAS vs. POR W 36 22 10 16 62.5 0 0 - 2 5 40.0 5 10 15 2 2 3 1 3 20
+p275
+aVMichael Finley SAS 03/04/2006 SAS vs. POR W 22 9 3 8 37.5 1 2 50.0 2 2 100.0 0 4 4 2 0 0 0 1 14
+p276
+aVBrent Barry SAS 03/04/2006 SAS vs. POR W 27 10 4 7 57.1 2 3 66.7 0 0 - 0 6 6 4 0 1 0 0 26
+p277
+aVRasho Nesterovic SAS 03/02/2006 SAS vs. DAL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -5
+p278
+aVMichael Finley SAS 03/02/2006 SAS vs. DAL W 25 15 5 9 55.6 1 3 33.3 4 6 66.7 0 3 3 2 1 0 0 0 -1
+p279
+aVTony Parker SAS 03/02/2006 SAS vs. DAL W 38 23 8 14 57.1 0 0 - 7 8 87.5 0 0 0 4 0 0 4 3 3
+p280
+aVNazr Mohammed SAS 03/02/2006 SAS vs. DAL W 30 10 5 9 55.6 0 0 - 0 0 - 3 2 5 1 0 1 1 3 9
+p281
+aVRobert Horry SAS 03/02/2006 SAS vs. DAL W 18 12 5 8 62.5 2 3 66.7 0 0 - 2 2 4 2 1 0 0 3 3
+p282
+aVNick Van Exel SAS 03/02/2006 SAS vs. DAL W 10 0 0 6 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 0 1 6
+p283
+aVBruce Bowen SAS 03/02/2006 SAS vs. DAL W 39 11 3 3 100.0 1 1 100.0 4 4 100.0 1 7 8 3 1 1 0 4 9
+p284
+aVBrent Barry SAS 03/02/2006 SAS vs. DAL W 10 4 2 2 100.0 0 0 - 0 0 - 1 4 5 1 1 0 0 2 10
+p285
+aVTim Duncan SAS 03/02/2006 SAS vs. DAL W 38 15 4 11 36.4 0 0 - 7 10 70.0 1 5 6 2 0 2 2 3 8
+p286
+aVManu Ginobili SAS 03/02/2006 SAS vs. DAL W 24 8 2 7 28.6 0 3 0.0 4 8 50.0 0 1 1 2 1 0 2 3 3
+p287
+aVFabricio Oberto SAS 02/27/2006 SAS vs. NYK W 22 7 1 3 33.3 0 0 - 5 6 83.3 2 2 4 3 0 1 0 5 3
+p288
+aVBruce Bowen SAS 02/27/2006 SAS vs. NYK W 26 8 4 7 57.1 0 3 0.0 0 0 - 0 2 2 1 2 1 1 3 23
+p289
+aVNick Van Exel SAS 02/27/2006 SAS vs. NYK W 15 14 6 8 75.0 2 4 50.0 0 0 - 0 1 1 2 0 0 1 2 2
+p290
+aVBeno Udrih SAS 02/27/2006 SAS vs. NYK W 15 8 3 7 42.9 2 5 40.0 0 0 - 0 0 0 1 1 0 1 2 2
+p291
+aVSean Marks SAS 02/27/2006 SAS vs. NYK W 15 9 4 6 66.7 0 0 - 1 2 50.0 1 5 6 0 1 1 0 3 -4
+p292
+aVNazr Mohammed SAS 02/27/2006 SAS vs. NYK W 13 5 2 2 100.0 0 0 - 1 1 100.0 0 5 5 0 0 1 0 3 19
+p293
+aVTony Parker SAS 02/27/2006 SAS vs. NYK W 28 20 7 9 77.8 0 0 - 6 7 85.7 0 0 0 12 1 0 4 2 24
+p294
+aVBrent Barry SAS 02/27/2006 SAS vs. NYK W 27 3 1 4 25.0 1 4 25.0 0 0 - 0 1 1 3 0 1 1 2 1
+p295
+aVTim Duncan SAS 02/27/2006 SAS vs. NYK W 26 12 4 9 44.4 0 0 - 4 9 44.4 3 4 7 4 1 3 1 3 28
+p296
+aVManu Ginobili SAS 02/27/2006 SAS vs. NYK W 10 6 2 3 66.7 1 2 50.0 1 1 100.0 0 2 2 2 1 0 4 4 9
+p297
+aVMichael Finley SAS 02/27/2006 SAS vs. NYK W 22 22 8 8 100.0 5 5 100.0 1 2 50.0 0 4 4 3 1 0 0 1 22
+p298
+aVRasho Nesterovic SAS 02/27/2006 SAS vs. NYK W 21 7 3 6 50.0 0 0 - 1 2 50.0 2 2 4 0 0 1 1 3 11
+p299
+aVTony Parker SAS 02/25/2006 SAS vs. GSW W 30 14 5 10 50.0 0 0 - 4 5 80.0 0 2 2 6 1 1 3 2 20
+p300
+aVManu Ginobili SAS 02/25/2006 SAS vs. GSW W 28 13 5 15 33.3 1 4 25.0 2 2 100.0 2 1 3 4 2 0 1 2 12
+p301
+aVMichael Finley SAS 02/25/2006 SAS vs. GSW W 20 0 0 4 0.0 0 1 0.0 0 0 - 0 3 3 3 1 1 0 1 6
+p302
+aVTim Duncan SAS 02/25/2006 SAS vs. GSW W 33 9 4 17 23.5 0 0 - 1 2 50.0 2 14 16 4 1 4 5 5 13
+p303
+aVFabricio Oberto SAS 02/25/2006 SAS vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 1
+p304
+aVNick Van Exel SAS 02/25/2006 SAS vs. GSW W 16 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 2 0 0 2 0 -4
+p305
+aVBruce Bowen SAS 02/25/2006 SAS vs. GSW W 33 14 6 13 46.2 2 5 40.0 0 0 - 0 3 3 1 0 0 0 0 10
+p306
+aVBrent Barry SAS 02/25/2006 SAS vs. GSW W 18 10 3 6 50.0 3 5 60.0 1 1 100.0 1 6 7 2 2 1 2 1 10
+p307
+aVSean Marks SAS 02/25/2006 SAS vs. GSW W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p308
+aVNazr Mohammed SAS 02/25/2006 SAS vs. GSW W 33 15 6 14 42.9 0 0 - 3 3 100.0 9 5 14 0 0 2 1 4 5
+p309
+aVRasho Nesterovic SAS 02/25/2006 SAS vs. GSW W 23 10 5 6 83.3 0 0 - 0 1 0.0 3 3 6 0 0 2 1 1 10
+p310
+aVBeno Udrih SAS 02/25/2006 SAS vs. GSW W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p311
+aVMichael Finley SAS 02/24/2006 SAS @ MEM W 26 11 3 12 25.0 1 5 20.0 4 4 100.0 0 2 2 1 0 0 1 1 -7
+p312
+aVBeno Udrih SAS 02/24/2006 SAS @ MEM W 14 5 2 8 25.0 0 3 0.0 1 2 50.0 1 0 1 2 0 0 1 1 8
+p313
+aVManu Ginobili SAS 02/24/2006 SAS @ MEM W 33 13 3 9 33.3 3 4 75.0 4 6 66.7 0 1 1 4 4 0 2 3 12
+p314
+aVNazr Mohammed SAS 02/24/2006 SAS @ MEM W 23 5 1 4 25.0 0 0 - 3 4 75.0 4 2 6 0 1 2 0 3 0
+p315
+aVRasho Nesterovic SAS 02/24/2006 SAS @ MEM W 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -7
+p316
+aVTony Parker SAS 02/24/2006 SAS @ MEM W 26 9 4 8 50.0 0 0 - 1 1 100.0 0 1 1 3 2 0 5 4 0
+p317
+aVBrent Barry SAS 02/24/2006 SAS @ MEM W 21 7 3 5 60.0 1 2 50.0 0 0 - 1 4 5 3 3 0 0 2 14
+p318
+aVTim Duncan SAS 02/24/2006 SAS @ MEM W 36 19 7 16 43.8 0 0 - 5 11 45.5 4 12 16 1 2 3 3 6 -5
+p319
+aVFabricio Oberto SAS 02/24/2006 SAS @ MEM W 16 6 3 8 37.5 0 0 - 0 0 - 3 2 5 0 0 0 0 4 9
+p320
+aVBruce Bowen SAS 02/24/2006 SAS @ MEM W 33 5 2 6 33.3 1 3 33.3 0 0 - 1 6 7 1 0 0 1 2 -3
+p321
+aVNick Van Exel SAS 02/24/2006 SAS @ MEM W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 1 -6
+p322
+aVRasho Nesterovic SAS 02/21/2006 SAS vs. SEA W 21 8 4 7 57.1 0 0 - 0 0 - 5 1 6 2 0 1 0 1 8
+p323
+aVSean Marks SAS 02/21/2006 SAS vs. SEA W 3 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 2
+p324
+aVMichael Finley SAS 02/21/2006 SAS vs. SEA W 22 14 5 10 50.0 4 6 66.7 0 0 - 0 0 0 3 0 0 2 3 15
+p325
+aVNick Van Exel SAS 02/21/2006 SAS vs. SEA W 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -1
+p326
+aVFabricio Oberto SAS 02/21/2006 SAS vs. SEA W 17 0 0 1 0.0 0 0 - 0 2 0.0 8 1 9 0 2 1 1 2 18
+p327
+aVManu Ginobili SAS 02/21/2006 SAS vs. SEA W 24 3 1 9 11.1 1 4 25.0 0 2 0.0 1 4 5 4 0 2 1 1 10
+p328
+aVBruce Bowen SAS 02/21/2006 SAS vs. SEA W 35 17 6 14 42.9 5 9 55.6 0 0 - 1 3 4 2 3 1 2 3 22
+p329
+aVBrent Barry SAS 02/21/2006 SAS vs. SEA W 11 0 0 0 - 0 0 - 0 0 - 0 3 3 2 0 1 0 0 6
+p330
+aVTony Parker SAS 02/21/2006 SAS vs. SEA W 33 30 13 18 72.2 0 0 - 4 5 80.0 1 0 1 6 1 0 3 2 20
+p331
+aVTim Duncan SAS 02/21/2006 SAS vs. SEA W 33 13 5 11 45.5 0 0 - 3 8 37.5 2 14 16 5 1 1 1 2 8
+p332
+aVNazr Mohammed SAS 02/21/2006 SAS vs. SEA W 21 11 4 8 50.0 0 0 - 3 5 60.0 3 2 5 0 0 4 1 2 14
+p333
+aVBeno Udrih SAS 02/21/2006 SAS vs. SEA W 13 7 3 4 75.0 1 2 50.0 0 0 - 1 1 2 2 1 0 1 1 3
+p334
+aVRasho Nesterovic SAS 02/15/2006 SAS @ PHI L 26 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 0
+p335
+aVBruce Bowen SAS 02/15/2006 SAS @ PHI L 34 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 2 2 1 2 5 -11
+p336
+aVNick Van Exel SAS 02/15/2006 SAS @ PHI L 19 8 3 8 37.5 2 5 40.0 0 0 - 0 1 1 3 2 0 1 2 -2
+p337
+aVTim Duncan SAS 02/15/2006 SAS @ PHI L 41 19 7 15 46.7 0 0 - 5 9 55.6 4 11 15 3 1 2 6 5 5
+p338
+aVMichael Finley SAS 02/15/2006 SAS @ PHI L 30 12 4 11 36.4 1 5 20.0 3 4 75.0 1 7 8 0 2 0 0 1 -1
+p339
+aVManu Ginobili SAS 02/15/2006 SAS @ PHI L 34 12 3 16 18.8 0 3 0.0 6 8 75.0 0 1 1 8 1 0 1 5 -7
+p340
+aVBrent Barry SAS 02/15/2006 SAS @ PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p341
+aVTony Parker SAS 02/15/2006 SAS @ PHI L 43 23 10 20 50.0 0 1 0.0 3 3 100.0 0 4 4 5 0 0 5 4 6
+p342
+aVNazr Mohammed SAS 02/15/2006 SAS @ PHI L 36 18 7 10 70.0 0 0 - 4 4 100.0 9 11 20 1 2 2 6 3 -2
+p343
+aVSean Marks SAS 02/15/2006 SAS @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p344
+aVTim Duncan SAS 02/13/2006 SAS @ CLE L 37 19 7 14 50.0 0 0 - 5 7 71.4 3 7 10 5 1 1 1 1 1
+p345
+aVNick Van Exel SAS 02/13/2006 SAS @ CLE L 19 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 0 -8
+p346
+aVRasho Nesterovic SAS 02/13/2006 SAS @ CLE L 20 6 3 5 60.0 0 0 - 0 0 - 1 3 4 2 0 1 2 3 -3
+p347
+aVBruce Bowen SAS 02/13/2006 SAS @ CLE L 31 8 3 6 50.0 1 2 50.0 1 1 100.0 0 3 3 1 0 0 0 0 0
+p348
+aVMichael Finley SAS 02/13/2006 SAS @ CLE L 18 7 2 4 50.0 2 4 50.0 1 2 50.0 0 0 0 1 0 0 0 1 -11
+p349
+aVBrent Barry SAS 02/13/2006 SAS @ CLE L 13 6 2 3 66.7 0 1 0.0 2 4 50.0 0 2 2 0 1 1 0 1 -11
+p350
+aVFabricio Oberto SAS 02/13/2006 SAS @ CLE L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 0 2
+p351
+aVBeno Udrih SAS 02/13/2006 SAS @ CLE L 9 12 4 4 100.0 3 3 100.0 1 3 33.3 0 0 0 0 0 0 2 0 1
+p352
+aVSean Marks SAS 02/13/2006 SAS @ CLE L 9 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -16
+p353
+aVManu Ginobili SAS 02/13/2006 SAS @ CLE L 28 12 5 11 45.5 0 2 0.0 2 3 66.7 0 7 7 3 0 0 3 5 -7
+p354
+aVTony Parker SAS 02/13/2006 SAS @ CLE L 32 4 2 7 28.6 0 0 - 0 0 - 0 1 1 4 1 0 7 3 -6
+p355
+aVNazr Mohammed SAS 02/13/2006 SAS @ CLE L 17 8 3 4 75.0 0 0 - 2 4 50.0 2 2 4 0 0 1 3 3 -12
+p356
+aVManu Ginobili SAS 02/12/2006 SAS @ IND W 35 29 7 12 58.3 4 6 66.7 11 12 91.7 1 1 2 4 1 0 6 3 26
+p357
+aVNazr Mohammed SAS 02/12/2006 SAS @ IND W 25 12 6 7 85.7 0 0 - 0 0 - 9 0 9 0 2 1 1 3 -12
+p358
+aVTony Parker SAS 02/12/2006 SAS @ IND W 36 17 6 15 40.0 0 0 - 5 6 83.3 0 3 3 6 2 0 1 3 11
+p359
+aVMichael Finley SAS 02/12/2006 SAS @ IND W 17 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -17
+p360
+aVBruce Bowen SAS 02/12/2006 SAS @ IND W 39 16 7 12 58.3 1 2 50.0 1 2 50.0 0 5 5 1 1 0 2 3 3
+p361
+aVNick Van Exel SAS 02/12/2006 SAS @ IND W 12 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 0 -7
+p362
+aVRasho Nesterovic SAS 02/12/2006 SAS @ IND W 16 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 14
+p363
+aVBrent Barry SAS 02/12/2006 SAS @ IND W 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 1 0 0 -3
+p364
+aVTim Duncan SAS 02/12/2006 SAS @ IND W 35 10 4 15 26.7 0 0 - 2 6 33.3 1 10 11 0 1 2 2 3 9
+p365
+aVRobert Horry SAS 02/12/2006 SAS @ IND W 18 0 0 3 0.0 0 2 0.0 0 0 - 1 4 5 2 2 0 0 1 -4
+p366
+aVTim Duncan SAS 02/10/2006 SAS @ NJN W 35 12 6 14 42.9 0 0 - 0 0 - 4 3 7 6 2 3 0 1 12
+p367
+aVNazr Mohammed SAS 02/10/2006 SAS @ NJN W 11 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 0 0 2 2 1 -2
+p368
+aVBruce Bowen SAS 02/10/2006 SAS @ NJN W 36 9 4 6 66.7 1 2 50.0 0 0 - 0 4 4 1 1 0 1 3 14
+p369
+aVRasho Nesterovic SAS 02/10/2006 SAS @ NJN W 25 4 2 2 100.0 0 0 - 0 0 - 0 5 5 0 1 4 1 4 2
+p370
+aVNick Van Exel SAS 02/10/2006 SAS @ NJN W 17 6 2 6 33.3 2 4 50.0 0 0 - 0 3 3 5 0 0 0 1 2
+p371
+aVManu Ginobili SAS 02/10/2006 SAS @ NJN W 32 22 7 13 53.8 3 6 50.0 5 6 83.3 1 4 5 3 4 0 5 2 19
+p372
+aVMichael Finley SAS 02/10/2006 SAS @ NJN W 24 5 2 9 22.2 1 3 33.3 0 0 - 1 0 1 2 1 0 2 2 -12
+p373
+aVSean Marks SAS 02/10/2006 SAS @ NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p374
+aVTony Parker SAS 02/10/2006 SAS @ NJN W 40 19 8 15 53.3 0 1 0.0 3 5 60.0 1 4 5 6 1 0 3 1 17
+p375
+aVRobert Horry SAS 02/10/2006 SAS @ NJN W 16 0 0 6 0.0 0 4 0.0 0 0 - 3 2 5 0 0 1 0 0 0
+p376
+aVMichael Finley SAS 02/08/2006 SAS @ TOR W 32 23 9 14 64.3 3 6 50.0 2 3 66.7 0 2 2 1 1 0 0 0 15
+p377
+aVBrent Barry SAS 02/08/2006 SAS @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p378
+aVRobert Horry SAS 02/08/2006 SAS @ TOR W 24 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 1 1 2 0 3 -13
+p379
+aVManu Ginobili SAS 02/08/2006 SAS @ TOR W 34 14 4 11 36.4 1 2 50.0 5 6 83.3 0 2 2 5 1 0 1 5 1
+p380
+aVBruce Bowen SAS 02/08/2006 SAS @ TOR W 40 12 3 8 37.5 3 6 50.0 3 4 75.0 0 3 3 1 1 1 1 2 4
+p381
+aVRasho Nesterovic SAS 02/08/2006 SAS @ TOR W 34 14 7 10 70.0 0 0 - 0 0 - 3 5 8 2 0 1 0 6 2
+p382
+aVNick Van Exel SAS 02/08/2006 SAS @ TOR W 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p383
+aVTony Parker SAS 02/08/2006 SAS @ TOR W 40 32 12 19 63.2 0 1 0.0 8 8 100.0 0 5 5 13 0 0 6 5 9
+p384
+aVNazr Mohammed SAS 02/08/2006 SAS @ TOR W 20 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 0 1 1 2 3
+p385
+aVSean Marks SAS 02/08/2006 SAS @ TOR W 25 16 8 9 88.9 0 0 - 0 2 0.0 1 4 5 2 0 1 0 6 13
+p386
+aVBeno Udrih SAS 02/08/2006 SAS @ TOR W 10 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 2 1 0 1 1 4
+p387
+aVRasho Nesterovic SAS 02/02/2006 SAS @ GSW W 30 12 6 8 75.0 0 0 - 0 0 - 2 8 10 0 1 3 2 4 8
+p388
+aVMichael Finley SAS 02/02/2006 SAS @ GSW W 21 2 1 6 16.7 0 4 0.0 0 1 0.0 0 3 3 2 0 0 0 1 -2
+p389
+aVTony Parker SAS 02/02/2006 SAS @ GSW W 38 23 8 14 57.1 0 1 0.0 7 9 77.8 0 1 1 6 0 0 3 2 2
+p390
+aVBeno Udrih SAS 02/02/2006 SAS @ GSW W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 6 0 0 2 1 2
+p391
+aVNazr Mohammed SAS 02/02/2006 SAS @ GSW W 15 2 1 3 33.3 0 0 - 0 0 - 0 4 4 3 0 0 1 4 -8
+p392
+aVBruce Bowen SAS 02/02/2006 SAS @ GSW W 33 6 2 3 66.7 2 2 100.0 0 2 0.0 1 2 3 0 1 0 1 2 7
+p393
+aVSean Marks SAS 02/02/2006 SAS @ GSW W 12 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 1 0 1 0 0 -4
+p394
+aVTim Duncan SAS 02/02/2006 SAS @ GSW W 37 16 6 16 37.5 0 0 - 4 5 80.0 4 7 11 1 1 1 2 4 6
+p395
+aVManu Ginobili SAS 02/02/2006 SAS @ GSW W 32 18 6 12 50.0 0 2 0.0 6 7 85.7 0 2 2 5 1 0 3 4 1
+p396
+aVBrent Barry SAS 02/02/2006 SAS @ GSW W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p397
+aVBruce Bowen SAS 02/01/2006 SAS @ POR W 36 5 2 7 28.6 0 3 0.0 1 5 20.0 1 2 3 0 0 0 0 2 5
+p398
+aVTim Duncan SAS 02/01/2006 SAS @ POR W 38 14 4 13 30.8 0 0 - 6 6 100.0 3 14 17 2 1 4 2 2 0
+p399
+aVNazr Mohammed SAS 02/01/2006 SAS @ POR W 26 7 2 6 33.3 0 0 - 3 6 50.0 6 9 15 1 0 0 0 4 2
+p400
+aVMichael Finley SAS 02/01/2006 SAS @ POR W 23 5 1 5 20.0 1 3 33.3 2 2 100.0 0 1 1 0 0 0 2 1 -2
+p401
+aVSean Marks SAS 02/01/2006 SAS @ POR W 15 6 3 6 50.0 0 1 0.0 0 0 - 1 6 7 1 1 0 1 2 -2
+p402
+aVManu Ginobili SAS 02/01/2006 SAS @ POR W 30 22 5 10 50.0 1 1 100.0 11 12 91.7 1 1 2 4 1 0 0 3 13
+p403
+aVRasho Nesterovic SAS 02/01/2006 SAS @ POR W 13 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 2 12
+p404
+aVBrent Barry SAS 02/01/2006 SAS @ POR W 6 1 0 2 0.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 0 2 -4
+p405
+aVTony Parker SAS 02/01/2006 SAS @ POR W 36 20 9 14 64.3 0 0 - 2 5 40.0 0 4 4 3 1 0 2 2 6
+p406
+aVFabricio Oberto SAS 02/01/2006 SAS @ POR W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p407
+aVBeno Udrih SAS 02/01/2006 SAS @ POR W 14 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -6
+p408
+aVSean Marks SAS 01/30/2006 SAS @ UTA W 12 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 0 1 2 7
+p409
+aVNazr Mohammed SAS 01/30/2006 SAS @ UTA W 25 3 1 3 33.3 0 0 - 1 1 100.0 0 9 9 0 0 2 0 3 7
+p410
+aVMichael Finley SAS 01/30/2006 SAS @ UTA W 16 1 0 3 0.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 1 2 0
+p411
+aVTony Parker SAS 01/30/2006 SAS @ UTA W 34 17 6 11 54.5 0 0 - 5 8 62.5 1 3 4 6 0 0 3 1 -4
+p412
+aVBruce Bowen SAS 01/30/2006 SAS @ UTA W 37 13 5 11 45.5 3 8 37.5 0 0 - 0 3 3 0 4 0 3 3 7
+p413
+aVRasho Nesterovic SAS 01/30/2006 SAS @ UTA W 11 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 2 0 4 1
+p414
+aVManu Ginobili SAS 01/30/2006 SAS @ UTA W 26 10 3 6 50.0 2 4 50.0 2 2 100.0 2 1 3 4 2 0 2 4 16
+p415
+aVFabricio Oberto SAS 01/30/2006 SAS @ UTA W 14 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -2
+p416
+aVTim Duncan SAS 01/30/2006 SAS @ UTA W 34 19 6 13 46.2 0 0 - 7 10 70.0 3 5 8 3 0 0 3 3 5
+p417
+aVBeno Udrih SAS 01/30/2006 SAS @ UTA W 15 10 4 9 44.4 2 4 50.0 0 0 - 0 0 0 1 1 0 2 1 10
+p418
+aVBrent Barry SAS 01/30/2006 SAS @ UTA W 12 0 0 4 0.0 0 3 0.0 0 0 - 0 2 2 0 0 0 0 1 -2
+p419
+aVMelvin Sanders SAS 01/30/2006 SAS @ UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p420
+aVBeno Udrih SAS 01/28/2006 SAS vs. MIN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p421
+aVTony Parker SAS 01/28/2006 SAS vs. MIN W 35 25 11 18 61.1 0 0 - 3 5 60.0 0 0 0 5 1 0 2 2 12
+p422
+aVNick Van Exel SAS 01/28/2006 SAS vs. MIN W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 4
+p423
+aVRasho Nesterovic SAS 01/28/2006 SAS vs. MIN W 26 5 2 5 40.0 0 0 - 1 2 50.0 5 2 7 1 0 1 1 4 -1
+p424
+aVRobert Horry SAS 01/28/2006 SAS vs. MIN W 12 3 1 3 33.3 1 2 50.0 0 2 0.0 0 1 1 2 0 0 0 1 11
+p425
+aVFabricio Oberto SAS 01/28/2006 SAS vs. MIN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -1
+p426
+aVTim Duncan SAS 01/28/2006 SAS vs. MIN W 37 28 11 24 45.8 0 0 - 6 11 54.5 7 9 16 1 1 2 2 2 7
+p427
+aVManu Ginobili SAS 01/28/2006 SAS vs. MIN W 20 14 5 10 50.0 2 3 66.7 2 2 100.0 0 1 1 0 3 0 0 0 8
+p428
+aVNazr Mohammed SAS 01/28/2006 SAS vs. MIN W 18 8 3 3 100.0 0 0 - 2 2 100.0 2 4 6 1 0 1 0 4 12
+p429
+aVMichael Finley SAS 01/28/2006 SAS vs. MIN W 27 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 3 0 0 2 2 14
+p430
+aVBrent Barry SAS 01/28/2006 SAS vs. MIN W 18 6 2 4 50.0 0 2 0.0 2 2 100.0 0 0 0 0 0 1 0 1 9
+p431
+aVBruce Bowen SAS 01/28/2006 SAS vs. MIN W 31 5 1 6 16.7 1 2 50.0 2 2 100.0 3 6 9 1 1 0 1 1 -3
+p432
+aVNazr Mohammed SAS 01/25/2006 SAS @ NOK W 21 6 2 6 33.3 0 0 - 2 2 100.0 1 6 7 0 0 0 2 5 0
+p433
+aVNick Van Exel SAS 01/25/2006 SAS @ NOK W 19 13 4 10 40.0 4 6 66.7 1 2 50.0 1 3 4 1 0 0 2 0 12
+p434
+aVMelvin Sanders SAS 01/25/2006 SAS @ NOK W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p435
+aVBeno Udrih SAS 01/25/2006 SAS @ NOK W 8 4 1 3 33.3 0 1 0.0 2 2 100.0 2 1 3 2 0 0 1 1 -5
+p436
+aVTony Parker SAS 01/25/2006 SAS @ NOK W 31 14 5 11 45.5 0 0 - 4 4 100.0 2 3 5 3 2 0 1 2 9
+p437
+aVRasho Nesterovic SAS 01/25/2006 SAS @ NOK W 14 4 1 6 16.7 0 0 - 2 2 100.0 2 2 4 0 0 0 0 3 13
+p438
+aVFabricio Oberto SAS 01/25/2006 SAS @ NOK W 28 6 1 5 20.0 0 1 0.0 4 6 66.7 3 4 7 1 0 1 0 5 -2
+p439
+aVTim Duncan SAS 01/25/2006 SAS @ NOK W 32 17 7 16 43.8 0 0 - 3 4 75.0 1 4 5 2 0 1 0 2 19
+p440
+aVBrent Barry SAS 01/25/2006 SAS @ NOK W 22 10 4 7 57.1 1 4 25.0 1 1 100.0 0 3 3 1 2 0 0 1 14
+p441
+aVBruce Bowen SAS 01/25/2006 SAS @ NOK W 32 6 2 8 25.0 1 6 16.7 1 2 50.0 0 8 8 1 0 0 0 3 23
+p442
+aVSean Marks SAS 01/25/2006 SAS @ NOK W 6 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 0 0 1 1 1 -6
+p443
+aVMichael Finley SAS 01/25/2006 SAS @ NOK W 22 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 0 0 9
+p444
+aVRasho Nesterovic SAS 01/24/2006 SAS vs. CHA W 18 8 4 8 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 2 17
+p445
+aVMelvin Sanders SAS 01/24/2006 SAS vs. CHA W 12 8 4 5 80.0 0 0 - 0 0 - 0 2 2 1 1 0 0 2 6
+p446
+aVNazr Mohammed SAS 01/24/2006 SAS vs. CHA W 21 4 1 4 25.0 0 0 - 2 2 100.0 1 6 7 0 1 1 0 2 3
+p447
+aVMichael Finley SAS 01/24/2006 SAS vs. CHA W 26 6 3 8 37.5 0 2 0.0 0 0 - 0 4 4 1 1 0 4 1 9
+p448
+aVTim Duncan SAS 01/24/2006 SAS vs. CHA W 25 14 5 8 62.5 0 0 - 4 4 100.0 0 9 9 5 2 1 2 0 17
+p449
+aVBeno Udrih SAS 01/24/2006 SAS vs. CHA W 24 17 7 11 63.6 1 3 33.3 2 2 100.0 1 2 3 8 1 0 2 2 13
+p450
+aVNick Van Exel SAS 01/24/2006 SAS vs. CHA W 17 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 1 0 16
+p451
+aVTony Parker SAS 01/24/2006 SAS vs. CHA W 24 8 4 8 50.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 15
+p452
+aVBruce Bowen SAS 01/24/2006 SAS vs. CHA W 19 8 3 7 42.9 1 2 50.0 1 2 50.0 0 1 1 2 1 1 1 1 16
+p453
+aVBrent Barry SAS 01/24/2006 SAS vs. CHA W 22 12 5 10 50.0 2 5 40.0 0 0 - 2 3 5 4 0 1 1 1 9
+p454
+aVFabricio Oberto SAS 01/24/2006 SAS vs. CHA W 23 10 4 4 100.0 0 0 - 2 2 100.0 2 3 5 5 1 1 2 3 11
+p455
+aVSean Marks SAS 01/24/2006 SAS vs. CHA W 9 9 4 5 80.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 8
+p456
+aVBrent Barry SAS 01/22/2006 SAS vs. DEN L 29 12 3 10 30.0 2 9 22.2 4 4 100.0 0 1 1 3 1 0 4 1 -1
+p457
+aVRasho Nesterovic SAS 01/22/2006 SAS vs. DEN L 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 1 0 3 -4
+p458
+aVFabricio Oberto SAS 01/22/2006 SAS vs. DEN L 11 8 4 5 80.0 0 0 - 0 0 - 2 1 3 0 1 0 0 3 -2
+p459
+aVBruce Bowen SAS 01/22/2006 SAS vs. DEN L 32 3 1 6 16.7 1 3 33.3 0 0 - 1 6 7 3 1 0 1 1 -1
+p460
+aVTony Parker SAS 01/22/2006 SAS vs. DEN L 38 13 4 11 36.4 0 3 0.0 5 8 62.5 0 2 2 7 1 0 3 0 0
+p461
+aVNick Van Exel SAS 01/22/2006 SAS vs. DEN L 19 9 4 8 50.0 1 4 25.0 0 0 - 0 2 2 1 0 0 1 1 -3
+p462
+aVTim Duncan SAS 01/22/2006 SAS vs. DEN L 39 14 5 11 45.5 0 0 - 4 7 57.1 2 11 13 4 1 1 6 3 -5
+p463
+aVMichael Finley SAS 01/22/2006 SAS vs. DEN L 27 7 3 10 30.0 0 4 0.0 1 1 100.0 0 2 2 1 0 0 1 1 -10
+p464
+aVNazr Mohammed SAS 01/22/2006 SAS vs. DEN L 29 17 5 9 55.6 0 0 - 7 9 77.8 4 8 12 1 0 0 1 3 6
+p465
+aVBrent Barry SAS 01/20/2006 SAS @ MIA W 12 7 2 3 66.7 2 3 66.7 1 2 50.0 0 4 4 1 0 1 0 0 6
+p466
+aVTony Parker SAS 01/20/2006 SAS @ MIA W 39 38 13 18 72.2 2 2 100.0 10 13 76.9 1 3 4 5 2 0 3 1 8
+p467
+aVFabricio Oberto SAS 01/20/2006 SAS @ MIA W 18 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 1 2 3 12
+p468
+aVManu Ginobili SAS 01/20/2006 SAS @ MIA W 20 8 2 3 66.7 1 1 100.0 3 7 42.9 0 1 1 5 1 1 2 2 9
+p469
+aVRasho Nesterovic SAS 01/20/2006 SAS @ MIA W 25 6 3 5 60.0 0 0 - 0 0 - 0 5 5 0 2 3 0 6 8
+p470
+aVMichael Finley SAS 01/20/2006 SAS @ MIA W 28 5 1 8 12.5 0 4 0.0 3 3 100.0 0 3 3 0 0 0 1 0 -2
+p471
+aVSean Marks SAS 01/20/2006 SAS @ MIA W 7 3 1 3 33.3 0 0 - 1 2 50.0 1 1 2 0 0 1 0 1 -1
+p472
+aVTim Duncan SAS 01/20/2006 SAS @ MIA W 38 14 5 10 50.0 0 0 - 4 12 33.3 2 9 11 1 0 0 3 4 0
+p473
+aVBruce Bowen SAS 01/20/2006 SAS @ MIA W 33 10 3 10 30.0 1 4 25.0 3 4 75.0 1 1 2 2 1 0 1 1 9
+p474
+aVNick Van Exel SAS 01/20/2006 SAS @ MIA W 13 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 1 0 0 1 1 -8
+p475
+aVNazr Mohammed SAS 01/20/2006 SAS @ MIA W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 5 -6
+p476
+aVManu Ginobili SAS 01/18/2006 SAS vs. MIL W 34 16 5 14 35.7 1 6 16.7 5 6 83.3 0 5 5 7 2 1 2 1 3
+p477
+aVMichael Finley SAS 01/18/2006 SAS vs. MIL W 27 21 6 12 50.0 4 8 50.0 5 5 100.0 0 2 2 1 1 0 1 3 0
+p478
+aVNick Van Exel SAS 01/18/2006 SAS vs. MIL W 11 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 2 0 0 2 0 -9
+p479
+aVTony Parker SAS 01/18/2006 SAS vs. MIL W 37 18 6 11 54.5 0 0 - 6 7 85.7 1 5 6 7 1 1 4 1 12
+p480
+aVFabricio Oberto SAS 01/18/2006 SAS vs. MIL W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p481
+aVTim Duncan SAS 01/18/2006 SAS vs. MIL W 40 27 9 19 47.4 0 0 - 9 12 75.0 0 9 9 1 0 1 2 1 2
+p482
+aVBrent Barry SAS 01/18/2006 SAS vs. MIL W 8 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 1
+p483
+aVRasho Nesterovic SAS 01/18/2006 SAS vs. MIL W 18 0 0 1 0.0 0 0 - 0 2 0.0 2 1 3 0 1 2 1 3 13
+p484
+aVBruce Bowen SAS 01/18/2006 SAS vs. MIL W 31 2 1 1 100.0 0 0 - 0 0 - 0 3 3 2 0 1 1 3 -6
+p485
+aVNazr Mohammed SAS 01/18/2006 SAS vs. MIL W 23 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 1 1
+p486
+aVBeno Udrih SAS 01/16/2006 SAS @ MEM W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p487
+aVBrent Barry SAS 01/16/2006 SAS @ MEM W 8 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 6
+p488
+aVMichael Finley SAS 01/16/2006 SAS @ MEM W 27 13 5 11 45.5 2 5 40.0 1 1 100.0 0 3 3 2 0 0 0 0 4
+p489
+aVTim Duncan SAS 01/16/2006 SAS @ MEM W 33 13 5 10 50.0 0 0 - 3 4 75.0 2 10 12 3 0 1 2 5 10
+p490
+aVBruce Bowen SAS 01/16/2006 SAS @ MEM W 31 5 2 8 25.0 1 4 25.0 0 0 - 0 3 3 2 0 0 1 3 -5
+p491
+aVNazr Mohammed SAS 01/16/2006 SAS @ MEM W 16 4 1 2 50.0 0 0 - 2 4 50.0 0 2 2 1 0 2 1 4 5
+p492
+aVRasho Nesterovic SAS 01/16/2006 SAS @ MEM W 14 4 2 5 40.0 0 0 - 0 0 - 0 2 2 0 0 2 0 4 1
+p493
+aVNick Van Exel SAS 01/16/2006 SAS @ MEM W 18 6 3 6 50.0 0 3 0.0 0 0 - 0 1 1 1 1 0 1 2 -4
+p494
+aVRobert Horry SAS 01/16/2006 SAS @ MEM W 22 2 1 6 16.7 0 2 0.0 0 0 - 1 3 4 0 0 0 1 4 17
+p495
+aVManu Ginobili SAS 01/16/2006 SAS @ MEM W 31 15 3 5 60.0 1 2 50.0 8 11 72.7 0 2 2 5 1 2 1 5 13
+p496
+aVFabricio Oberto SAS 01/16/2006 SAS @ MEM W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p497
+aVTony Parker SAS 01/16/2006 SAS @ MEM W 35 28 12 13 92.3 0 0 - 4 4 100.0 1 3 4 4 0 1 1 2 10
+p498
+aVManu Ginobili SAS 01/14/2006 SAS vs. MEM W 34 20 7 14 50.0 3 5 60.0 3 3 100.0 1 1 2 7 3 0 2 2 1
+p499
+aVNick Van Exel SAS 01/14/2006 SAS vs. MEM W 16 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 6
+p500
+aVTim Duncan SAS 01/14/2006 SAS vs. MEM W 38 19 8 16 50.0 0 0 - 3 6 50.0 4 9 13 2 2 4 3 2 -1
+p501
+aVRasho Nesterovic SAS 01/14/2006 SAS vs. MEM W 18 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 1 1 2 -1
+p502
+aVBruce Bowen SAS 01/14/2006 SAS vs. MEM W 35 6 1 2 50.0 1 2 50.0 3 4 75.0 1 3 4 2 1 1 1 2 -10
+p503
+aVNazr Mohammed SAS 01/14/2006 SAS vs. MEM W 10 2 0 3 0.0 0 0 - 2 2 100.0 2 3 5 1 0 0 1 4 4
+p504
+aVTony Parker SAS 01/14/2006 SAS vs. MEM W 35 10 4 8 50.0 0 0 - 2 3 66.7 0 3 3 3 0 0 5 3 -7
+p505
+aVMichael Finley SAS 01/14/2006 SAS vs. MEM W 28 12 4 10 40.0 3 5 60.0 1 1 100.0 0 2 2 0 1 0 0 1 11
+p506
+aVRobert Horry SAS 01/14/2006 SAS vs. MEM W 26 9 4 8 50.0 1 3 33.3 0 0 - 1 1 2 2 0 1 1 1 2
+p507
+aVBeno Udrih SAS 01/12/2006 SAS vs. DET L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -4
+p508
+aVMichael Finley SAS 01/12/2006 SAS vs. DET L 19 0 0 4 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 1 -2
+p509
+aVBrent Barry SAS 01/12/2006 SAS vs. DET L 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p510
+aVRasho Nesterovic SAS 01/12/2006 SAS vs. DET L 25 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 1 1 1 -3
+p511
+aVTony Parker SAS 01/12/2006 SAS vs. DET L 36 17 7 14 50.0 1 1 100.0 2 5 40.0 0 1 1 0 0 0 1 2 -14
+p512
+aVNazr Mohammed SAS 01/12/2006 SAS vs. DET L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -12
+p513
+aVFabricio Oberto SAS 01/12/2006 SAS vs. DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p514
+aVRobert Horry SAS 01/12/2006 SAS vs. DET L 22 2 1 4 25.0 0 3 0.0 0 0 - 0 5 5 0 1 2 0 2 -17
+p515
+aVNick Van Exel SAS 01/12/2006 SAS vs. DET L 22 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 2 0 0 0 2 9
+p516
+aVTim Duncan SAS 01/12/2006 SAS vs. DET L 39 17 7 17 41.2 0 0 - 3 10 30.0 1 12 13 1 0 1 0 1 3
+p517
+aVBruce Bowen SAS 01/12/2006 SAS vs. DET L 29 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 1 0 0 2 -17
+p518
+aVManu Ginobili SAS 01/12/2006 SAS vs. DET L 29 16 4 13 30.8 1 5 20.0 7 9 77.8 0 3 3 2 2 1 1 4 -13
+p519
+aVFabricio Oberto SAS 01/10/2006 SAS vs. NJN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p520
+aVBruce Bowen SAS 01/10/2006 SAS vs. NJN W 35 9 3 5 60.0 1 3 33.3 2 2 100.0 0 3 3 5 0 1 1 5 -8
+p521
+aVNick Van Exel SAS 01/10/2006 SAS vs. NJN W 9 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 2 0 0 1 1 0
+p522
+aVMichael Finley SAS 01/10/2006 SAS vs. NJN W 29 9 2 8 25.0 0 2 0.0 5 5 100.0 1 3 4 0 0 0 1 0 2
+p523
+aVRobert Horry SAS 01/10/2006 SAS vs. NJN W 18 5 2 5 40.0 1 2 50.0 0 0 - 1 3 4 1 1 0 1 0 15
+p524
+aVManu Ginobili SAS 01/10/2006 SAS vs. NJN W 27 16 3 5 60.0 2 3 66.7 8 10 80.0 0 2 2 3 0 0 3 4 9
+p525
+aVTony Parker SAS 01/10/2006 SAS vs. NJN W 40 18 8 12 66.7 0 0 - 2 6 33.3 0 6 6 4 1 0 6 4 5
+p526
+aVBrent Barry SAS 01/10/2006 SAS vs. NJN W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 1 4
+p527
+aVTim Duncan SAS 01/10/2006 SAS vs. NJN W 38 27 7 16 43.8 0 0 - 13 15 86.7 0 12 12 3 0 1 6 3 7
+p528
+aVNazr Mohammed SAS 01/10/2006 SAS vs. NJN W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 2 2
+p529
+aVRasho Nesterovic SAS 01/10/2006 SAS vs. NJN W 29 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 1 1 0 1 -7
+p530
+aVManu Ginobili SAS 01/07/2006 SAS @ PHX L 27 19 6 12 50.0 1 3 33.3 6 8 75.0 0 1 1 0 2 1 1 1 -10
+p531
+aVBruce Bowen SAS 01/07/2006 SAS @ PHX L 30 0 0 4 0.0 0 0 - 0 0 - 1 3 4 2 2 0 1 4 -6
+p532
+aVRobert Horry SAS 01/07/2006 SAS @ PHX L 30 15 6 11 54.5 3 7 42.9 0 0 - 4 7 11 0 2 1 0 2 -1
+p533
+aVRasho Nesterovic SAS 01/07/2006 SAS @ PHX L 15 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 3 4 -4
+p534
+aVTony Parker SAS 01/07/2006 SAS @ PHX L 32 18 9 19 47.4 0 1 0.0 0 0 - 1 3 4 6 1 0 6 6 -7
+p535
+aVMichael Finley SAS 01/07/2006 SAS @ PHX L 25 5 2 6 33.3 1 3 33.3 0 1 0.0 1 4 5 0 1 1 0 1 4
+p536
+aVNazr Mohammed SAS 01/07/2006 SAS @ PHX L 9 0 0 1 0.0 0 0 - 0 0 - 2 0 2 0 1 0 1 2 -8
+p537
+aVTim Duncan SAS 01/07/2006 SAS @ PHX L 40 19 6 11 54.5 0 0 - 7 10 70.0 3 9 12 1 1 2 4 3 3
+p538
+aVBrent Barry SAS 01/07/2006 SAS @ PHX L 13 4 2 6 33.3 0 2 0.0 0 0 - 1 2 3 1 0 0 1 2 2
+p539
+aVNick Van Exel SAS 01/07/2006 SAS @ PHX L 16 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 0 0 0 0 2 2
+p540
+aVFabricio Oberto SAS 01/07/2006 SAS @ PHX L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 0
+p541
+aVTim Duncan SAS 01/06/2006 SAS vs. MIN W 38 12 5 19 26.3 0 1 0.0 2 4 50.0 5 9 14 2 2 1 3 3 6
+p542
+aVRasho Nesterovic SAS 01/06/2006 SAS vs. MIN W 28 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 2 3 0 1 3
+p543
+aVNazr Mohammed SAS 01/06/2006 SAS vs. MIN W 4 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p544
+aVMichael Finley SAS 01/06/2006 SAS vs. MIN W 26 2 1 7 14.3 0 1 0.0 0 0 - 1 4 5 0 0 1 0 2 0
+p545
+aVRobert Horry SAS 01/06/2006 SAS vs. MIN W 16 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 3
+p546
+aVManu Ginobili SAS 01/06/2006 SAS vs. MIN W 26 21 7 13 53.8 0 3 0.0 7 9 77.8 1 3 4 2 4 0 1 5 6
+p547
+aVTony Parker SAS 01/06/2006 SAS vs. MIN W 37 23 11 20 55.0 0 0 - 1 2 50.0 1 3 4 7 1 0 4 1 4
+p548
+aVBruce Bowen SAS 01/06/2006 SAS vs. MIN W 40 14 6 8 75.0 1 1 100.0 1 2 50.0 0 5 5 0 1 0 0 1 9
+p549
+aVNick Van Exel SAS 01/06/2006 SAS vs. MIN W 11 5 2 4 50.0 1 1 100.0 0 2 0.0 0 0 0 0 0 0 1 1 2
+p550
+aVBrent Barry SAS 01/06/2006 SAS vs. MIN W 14 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 1 2 3 -4
+p551
+aVNazr Mohammed SAS 01/04/2006 SAS vs. POR W 19 11 5 6 83.3 0 0 - 1 1 100.0 3 6 9 0 0 1 1 3 19
+p552
+aVTony Parker SAS 01/04/2006 SAS vs. POR W 26 18 8 14 57.1 0 0 - 2 2 100.0 1 4 5 7 1 0 1 1 11
+p553
+aVRasho Nesterovic SAS 01/04/2006 SAS vs. POR W 22 12 6 7 85.7 0 0 - 0 0 - 1 3 4 0 0 0 1 3 5
+p554
+aVBruce Bowen SAS 01/04/2006 SAS vs. POR W 33 6 2 5 40.0 2 3 66.7 0 2 0.0 0 2 2 1 0 0 1 2 14
+p555
+aVNick Van Exel SAS 01/04/2006 SAS vs. POR W 21 0 0 5 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 2 1 20
+p556
+aVFabricio Oberto SAS 01/04/2006 SAS vs. POR W 4 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 1 0 0 0 9
+p557
+aVRobert Horry SAS 01/04/2006 SAS vs. POR W 19 4 2 5 40.0 0 2 0.0 0 0 - 3 2 5 1 0 1 0 2 13
+p558
+aVMichael Finley SAS 01/04/2006 SAS vs. POR W 27 11 5 13 38.5 1 5 20.0 0 0 - 3 4 7 0 0 0 2 0 5
+p559
+aVBeno Udrih SAS 01/04/2006 SAS vs. POR W 6 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 0 11
+p560
+aVBrent Barry SAS 01/04/2006 SAS vs. POR W 16 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 4 0 1 1 1 20
+p561
+aVManu Ginobili SAS 01/04/2006 SAS vs. POR W 18 15 6 10 60.0 1 2 50.0 2 2 100.0 2 3 5 2 1 1 0 2 16
+p562
+aVTim Duncan SAS 01/04/2006 SAS vs. POR W 29 18 6 15 40.0 0 0 - 6 7 85.7 7 6 13 4 0 4 2 4 12
+p563
+aVBrent Barry SAS 12/31/2005 SAS @ DEN W 15 8 2 6 33.3 1 3 33.3 3 4 75.0 0 0 0 1 0 0 0 0 7
+p564
+aVRobert Horry SAS 12/31/2005 SAS @ DEN W 22 10 3 7 42.9 2 5 40.0 2 2 100.0 1 4 5 2 0 0 1 3 7
+p565
+aVBruce Bowen SAS 12/31/2005 SAS @ DEN W 21 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 1 0 0 0 3 -1
+p566
+aVTony Parker SAS 12/31/2005 SAS @ DEN W 35 6 3 9 33.3 0 2 0.0 0 2 0.0 0 2 2 6 1 0 2 1 5
+p567
+aVTim Duncan SAS 12/31/2005 SAS @ DEN W 35 25 8 16 50.0 0 0 - 9 9 100.0 1 9 10 2 1 1 0 4 9
+p568
+aVRasho Nesterovic SAS 12/31/2005 SAS @ DEN W 21 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 0 4 1 3 -6
+p569
+aVNazr Mohammed SAS 12/31/2005 SAS @ DEN W 8 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 2 0 1 10
+p570
+aVManu Ginobili SAS 12/31/2005 SAS @ DEN W 25 20 6 10 60.0 1 3 33.3 7 10 70.0 0 4 4 8 4 0 4 2 10
+p571
+aVMichael Finley SAS 12/31/2005 SAS @ DEN W 35 14 5 11 45.5 2 6 33.3 2 2 100.0 1 3 4 5 0 0 0 4 4
+p572
+aVSean Marks SAS 12/31/2005 SAS @ DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p573
+aVFabricio Oberto SAS 12/31/2005 SAS @ DEN W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 0
+p574
+aVBeno Udrih SAS 12/31/2005 SAS @ DEN W 13 4 2 4 50.0 0 2 0.0 0 0 - 0 0 0 2 0 0 0 5 5
+p575
+aVManu Ginobili SAS 12/29/2005 SAS vs. NOK W 17 14 4 5 80.0 1 1 100.0 5 6 83.3 0 2 2 0 1 1 3 0 28
+p576
+aVTony Parker SAS 12/29/2005 SAS vs. NOK W 27 16 7 12 58.3 0 0 - 2 2 100.0 0 2 2 7 1 0 4 0 18
+p577
+aVBrent Barry SAS 12/29/2005 SAS vs. NOK W 19 10 4 7 57.1 2 5 40.0 0 0 - 0 2 2 2 1 0 0 0 5
+p578
+aVRasho Nesterovic SAS 12/29/2005 SAS vs. NOK W 20 8 4 8 50.0 0 0 - 0 0 - 2 3 5 0 0 1 1 0 5
+p579
+aVRobert Horry SAS 12/29/2005 SAS vs. NOK W 19 6 2 3 66.7 1 1 100.0 1 2 50.0 0 2 2 4 2 1 0 2 25
+p580
+aVMichael Finley SAS 12/29/2005 SAS vs. NOK W 29 18 7 13 53.8 4 4 100.0 0 0 - 1 4 5 1 4 0 0 4 1
+p581
+aVTim Duncan SAS 12/29/2005 SAS vs. NOK W 29 17 7 9 77.8 0 0 - 3 4 75.0 1 6 7 4 0 4 1 3 2
+p582
+aVFabricio Oberto SAS 12/29/2005 SAS vs. NOK W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 3 1 0 1 0 4
+p583
+aVNazr Mohammed SAS 12/29/2005 SAS vs. NOK W 19 4 2 4 50.0 0 0 - 0 0 - 2 3 5 0 0 1 3 3 18
+p584
+aVBruce Bowen SAS 12/29/2005 SAS vs. NOK W 31 3 0 4 0.0 0 1 0.0 3 4 75.0 0 5 5 3 1 0 1 2 20
+p585
+aVBeno Udrih SAS 12/29/2005 SAS vs. NOK W 15 8 3 5 60.0 2 2 100.0 0 0 - 0 3 3 3 1 0 2 1 10
+p586
+aVNick Van Exel SAS 12/29/2005 SAS vs. NOK W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 3 0 0 0 2 -1
+p587
+aVManu Ginobili SAS 12/27/2005 SAS vs. IND W 15 9 3 7 42.9 0 3 0.0 3 7 42.9 1 3 4 2 0 1 0 1 6
+p588
+aVBruce Bowen SAS 12/27/2005 SAS vs. IND W 35 7 1 5 20.0 1 4 25.0 4 6 66.7 0 3 3 0 0 0 0 2 8
+p589
+aVMichael Finley SAS 12/27/2005 SAS vs. IND W 33 7 3 9 33.3 1 3 33.3 0 0 - 0 4 4 3 1 0 0 1 7
+p590
+aVTony Parker SAS 12/27/2005 SAS vs. IND W 33 27 8 16 50.0 0 0 - 11 13 84.6 0 2 2 6 3 0 2 2 9
+p591
+aVFabricio Oberto SAS 12/27/2005 SAS vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p592
+aVBeno Udrih SAS 12/27/2005 SAS vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p593
+aVRasho Nesterovic SAS 12/27/2005 SAS vs. IND W 19 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 1 3 1 4 1
+p594
+aVNick Van Exel SAS 12/27/2005 SAS vs. IND W 14 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 1 3
+p595
+aVRobert Horry SAS 12/27/2005 SAS vs. IND W 21 6 2 4 50.0 2 2 100.0 0 0 - 1 4 5 1 0 0 0 3 11
+p596
+aVNazr Mohammed SAS 12/27/2005 SAS vs. IND W 16 8 4 4 100.0 0 0 - 0 0 - 2 3 5 0 0 1 2 2 10
+p597
+aVTim Duncan SAS 12/27/2005 SAS vs. IND W 38 26 11 15 73.3 0 0 - 4 8 50.0 1 8 9 2 0 1 4 3 6
+p598
+aVBrent Barry SAS 12/27/2005 SAS vs. IND W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 2 2 4
+p599
+aVRobert Horry SAS 12/25/2005 SAS @ DET L 24 3 1 6 16.7 0 2 0.0 1 2 50.0 1 0 1 1 0 1 0 2 -24
+p600
+aVRasho Nesterovic SAS 12/25/2005 SAS @ DET L 16 1 0 2 0.0 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -3
+p601
+aVNazr Mohammed SAS 12/25/2005 SAS @ DET L 17 10 5 7 71.4 0 0 - 0 0 - 2 3 5 1 0 0 1 1 7
+p602
+aVMichael Finley SAS 12/25/2005 SAS @ DET L 27 3 1 7 14.3 0 2 0.0 1 1 100.0 0 3 3 2 1 0 0 1 -5
+p603
+aVSean Marks SAS 12/25/2005 SAS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p604
+aVNick Van Exel SAS 12/25/2005 SAS @ DET L 18 4 2 6 33.3 0 0 - 0 0 - 0 1 1 3 0 0 1 1 -15
+p605
+aVTim Duncan SAS 12/25/2005 SAS @ DET L 38 18 9 20 45.0 0 0 - 0 3 0.0 2 9 11 1 2 1 2 3 -12
+p606
+aVTony Parker SAS 12/25/2005 SAS @ DET L 39 19 7 17 41.2 0 0 - 5 6 83.3 0 1 1 4 3 0 2 1 -8
+p607
+aVBruce Bowen SAS 12/25/2005 SAS @ DET L 41 9 4 6 66.7 1 1 100.0 0 0 - 1 2 3 0 1 0 1 1 -12
+p608
+aVBeno Udrih SAS 12/25/2005 SAS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 2
+p609
+aVBrent Barry SAS 12/25/2005 SAS @ DET L 17 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 1 0 0 1 4 -9
+p610
+aVFabricio Oberto SAS 12/25/2005 SAS @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 2
+p611
+aVTony Parker SAS 12/23/2005 SAS vs. TOR W 33 13 6 10 60.0 0 0 - 1 5 20.0 1 4 5 3 1 0 5 0 3
+p612
+aVTim Duncan SAS 12/23/2005 SAS vs. TOR W 38 27 12 16 75.0 0 0 - 3 8 37.5 1 9 10 8 0 1 3 3 -1
+p613
+aVBruce Bowen SAS 12/23/2005 SAS vs. TOR W 43 9 3 8 37.5 1 3 33.3 2 2 100.0 1 4 5 2 2 0 2 4 7
+p614
+aVBeno Udrih SAS 12/23/2005 SAS vs. TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p615
+aVBrent Barry SAS 12/23/2005 SAS vs. TOR W 28 11 4 10 40.0 1 5 20.0 2 4 50.0 0 0 0 0 1 1 0 2 7
+p616
+aVRasho Nesterovic SAS 12/23/2005 SAS vs. TOR W 35 12 5 7 71.4 0 0 - 2 2 100.0 2 6 8 1 1 1 1 3 12
+p617
+aVNick Van Exel SAS 12/23/2005 SAS vs. TOR W 15 9 4 6 66.7 1 1 100.0 0 2 0.0 0 0 0 2 0 0 1 1 2
+p618
+aVRobert Horry SAS 12/23/2005 SAS vs. TOR W 18 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 3 1 0 1 3 5
+p619
+aVMichael Finley SAS 12/23/2005 SAS vs. TOR W 29 9 3 12 25.0 1 3 33.3 2 2 100.0 1 6 7 0 0 0 2 1 -10
+p620
+aVTim Duncan SAS 12/21/2005 SAS @ NYK W 22 13 4 9 44.4 0 0 - 5 6 83.3 1 3 4 4 0 0 2 2 10
+p621
+aVBruce Bowen SAS 12/21/2005 SAS @ NYK W 28 9 3 4 75.0 2 2 100.0 1 2 50.0 0 2 2 3 0 0 0 1 27
+p622
+aVFabricio Oberto SAS 12/21/2005 SAS @ NYK W 14 6 2 3 66.7 0 0 - 2 3 66.7 1 1 2 1 0 0 1 5 -6
+p623
+aVNazr Mohammed SAS 12/21/2005 SAS @ NYK W 15 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 0 0 0 1 4 13
+p624
+aVBrent Barry SAS 12/21/2005 SAS @ NYK W 31 13 5 9 55.6 3 5 60.0 0 0 - 0 4 4 0 1 0 2 6 2
+p625
+aVNick Van Exel SAS 12/21/2005 SAS @ NYK W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 1 1 3 0 0 3 2 -23
+p626
+aVRobert Horry SAS 12/21/2005 SAS @ NYK W 20 2 1 3 33.3 0 1 0.0 0 0 - 0 5 5 2 2 0 0 2 16
+p627
+aVRasho Nesterovic SAS 12/21/2005 SAS @ NYK W 16 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 1 0 0 4 11
+p628
+aVTony Parker SAS 12/21/2005 SAS @ NYK W 30 18 7 10 70.0 0 0 - 4 7 57.1 0 4 4 10 0 0 1 1 37
+p629
+aVSean Marks SAS 12/21/2005 SAS @ NYK W 10 8 4 7 57.1 0 0 - 0 0 - 0 2 2 0 1 1 1 2 -18
+p630
+aVBeno Udrih SAS 12/21/2005 SAS @ NYK W 12 7 2 5 40.0 0 1 0.0 3 4 75.0 1 0 1 2 0 0 3 1 -18
+p631
+aVMichael Finley SAS 12/21/2005 SAS @ NYK W 25 19 8 12 66.7 3 6 50.0 0 0 - 0 0 0 0 0 0 0 1 14
+p632
+aVRasho Nesterovic SAS 12/20/2005 SAS @ MIL L 26 8 4 7 57.1 0 0 - 0 0 - 4 2 6 1 0 1 0 3 -8
+p633
+aVNazr Mohammed SAS 12/20/2005 SAS @ MIL L 19 11 4 6 66.7 0 0 - 3 3 100.0 4 2 6 0 0 0 1 4 9
+p634
+aVMichael Finley SAS 12/20/2005 SAS @ MIL L 29 6 2 7 28.6 1 4 25.0 1 1 100.0 0 3 3 1 0 0 2 4 -8
+p635
+aVBruce Bowen SAS 12/20/2005 SAS @ MIL L 44 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 2 0 3 0 3 -9
+p636
+aVNick Van Exel SAS 12/20/2005 SAS @ MIL L 21 8 4 11 36.4 0 4 0.0 0 0 - 0 2 2 2 2 0 1 2 5
+p637
+aVRobert Horry SAS 12/20/2005 SAS @ MIL L 17 4 1 2 50.0 1 2 50.0 1 2 50.0 1 2 3 3 0 0 0 1 7
+p638
+aVTim Duncan SAS 12/20/2005 SAS @ MIL L 42 34 15 28 53.6 0 0 - 4 6 66.7 5 8 13 2 2 1 2 6 -8
+p639
+aVBeno Udrih SAS 12/20/2005 SAS @ MIL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p640
+aVBrent Barry SAS 12/20/2005 SAS @ MIL L 24 7 2 5 40.0 1 3 33.3 2 2 100.0 0 0 0 1 0 1 1 1 11
+p641
+aVTony Parker SAS 12/20/2005 SAS @ MIL L 43 22 9 21 42.9 0 1 0.0 4 6 66.7 1 6 7 11 1 0 4 4 -9
+p642
+aVNick Van Exel SAS 12/18/2005 SAS @ NOK L 12 1 0 5 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 1 -10
+p643
+aVBruce Bowen SAS 12/18/2005 SAS @ NOK L 35 3 1 6 16.7 1 1 100.0 0 0 - 0 4 4 0 0 0 1 3 -1
+p644
+aVFabricio Oberto SAS 12/18/2005 SAS @ NOK L 12 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 1
+p645
+aVRobert Horry SAS 12/18/2005 SAS @ NOK L 20 8 2 5 40.0 2 3 66.7 2 2 100.0 0 4 4 0 0 1 4 1 -1
+p646
+aVMichael Finley SAS 12/18/2005 SAS @ NOK L 36 17 7 15 46.7 1 3 33.3 2 2 100.0 0 5 5 3 0 0 2 1 -11
+p647
+aVTim Duncan SAS 12/18/2005 SAS @ NOK L 34 11 4 12 33.3 0 0 - 3 4 75.0 2 6 8 2 0 2 4 2 -15
+p648
+aVRasho Nesterovic SAS 12/18/2005 SAS @ NOK L 29 8 4 5 80.0 0 0 - 0 0 - 1 2 3 0 0 1 3 4 -9
+p649
+aVBeno Udrih SAS 12/18/2005 SAS @ NOK L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -3
+p650
+aVBrent Barry SAS 12/18/2005 SAS @ NOK L 22 7 2 4 50.0 2 3 66.7 1 2 50.0 0 3 3 1 2 0 2 3 -6
+p651
+aVTony Parker SAS 12/18/2005 SAS @ NOK L 35 17 8 12 66.7 0 0 - 1 2 50.0 2 4 6 6 2 0 5 3 -10
+p652
+aVRobert Horry SAS 12/17/2005 SAS vs. SAC W 24 6 2 4 50.0 2 4 50.0 0 0 - 0 3 3 0 0 0 1 2 5
+p653
+aVRasho Nesterovic SAS 12/17/2005 SAS vs. SAC W 26 3 1 3 33.3 0 0 - 1 2 50.0 3 3 6 2 0 0 3 5 -11
+p654
+aVMichael Finley SAS 12/17/2005 SAS vs. SAC W 37 16 7 12 58.3 2 3 66.7 0 0 - 0 1 1 0 1 0 0 0 -2
+p655
+aVTony Parker SAS 12/17/2005 SAS vs. SAC W 37 25 11 16 68.8 0 0 - 3 6 50.0 1 5 6 12 2 0 1 3 11
+p656
+aVNick Van Exel SAS 12/17/2005 SAS vs. SAC W 11 3 1 3 33.3 0 1 0.0 1 1 100.0 0 1 1 1 0 1 0 2 -8
+p657
+aVBrent Barry SAS 12/17/2005 SAS vs. SAC W 21 3 1 5 20.0 1 5 20.0 0 0 - 0 2 2 0 1 1 0 1 2
+p658
+aVBruce Bowen SAS 12/17/2005 SAS vs. SAC W 38 9 3 9 33.3 1 5 20.0 2 2 100.0 0 9 9 1 0 1 1 2 0
+p659
+aVNazr Mohammed SAS 12/17/2005 SAS vs. SAC W 9 1 0 3 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 1 2 8
+p660
+aVTim Duncan SAS 12/17/2005 SAS vs. SAC W 37 24 10 24 41.7 0 0 - 4 6 66.7 6 8 14 1 2 4 5 2 0
+p661
+aVNick Van Exel SAS 12/15/2005 SAS @ MIN W 14 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 2 0 0 0 2 10
+p662
+aVTony Parker SAS 12/15/2005 SAS @ MIN W 36 11 5 11 45.5 0 0 - 1 1 100.0 0 3 3 7 2 0 2 2 -10
+p663
+aVBruce Bowen SAS 12/15/2005 SAS @ MIN W 42 12 5 8 62.5 2 3 66.7 0 0 - 1 6 7 0 1 0 0 1 -3
+p664
+aVMichael Finley SAS 12/15/2005 SAS @ MIN W 39 21 7 13 53.8 3 4 75.0 4 5 80.0 1 3 4 2 1 1 1 2 10
+p665
+aVNazr Mohammed SAS 12/15/2005 SAS @ MIN W 13 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 1 -3
+p666
+aVBrent Barry SAS 12/15/2005 SAS @ MIN W 27 12 4 7 57.1 1 3 33.3 3 5 60.0 1 5 6 3 0 0 1 5 -7
+p667
+aVTim Duncan SAS 12/15/2005 SAS @ MIN W 39 13 5 15 33.3 0 0 - 3 7 42.9 2 7 9 6 1 0 2 5 1
+p668
+aVRobert Horry SAS 12/15/2005 SAS @ MIN W 13 7 2 5 40.0 2 2 100.0 1 2 50.0 1 1 2 1 0 0 0 0 3
+p669
+aVRasho Nesterovic SAS 12/15/2005 SAS @ MIN W 17 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 1 1 1 9
+p670
+aVRasho Nesterovic SAS 12/13/2005 SAS vs. LAC W 29 2 1 6 16.7 0 0 - 0 0 - 4 4 8 0 0 2 1 3 11
+p671
+aVBruce Bowen SAS 12/13/2005 SAS vs. LAC W 38 7 3 8 37.5 1 2 50.0 0 2 0.0 0 2 2 2 0 0 0 1 0
+p672
+aVBrent Barry SAS 12/13/2005 SAS vs. LAC W 21 3 1 6 16.7 1 4 25.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p673
+aVNazr Mohammed SAS 12/13/2005 SAS vs. LAC W 16 2 1 3 33.3 0 0 - 0 0 - 0 6 6 2 0 4 0 4 4
+p674
+aVTony Parker SAS 12/13/2005 SAS vs. LAC W 44 25 12 22 54.5 0 1 0.0 1 2 50.0 0 5 5 7 1 0 1 2 15
+p675
+aVFabricio Oberto SAS 12/13/2005 SAS vs. LAC W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p676
+aVNick Van Exel SAS 12/13/2005 SAS vs. LAC W 17 8 4 8 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 1
+p677
+aVMichael Finley SAS 12/13/2005 SAS vs. LAC W 39 21 8 15 53.3 3 6 50.0 2 2 100.0 2 8 10 0 0 0 0 0 10
+p678
+aVTim Duncan SAS 12/13/2005 SAS vs. LAC W 45 27 12 25 48.0 0 0 - 3 13 23.1 4 18 22 5 1 1 1 5 13
+p679
+aVRobert Horry SAS 12/13/2005 SAS vs. LAC W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 0 3 -9
+p680
+aVRobert Horry SAS 12/10/2005 SAS @ ATL L 17 1 0 3 0.0 0 1 0.0 1 2 50.0 1 1 2 1 0 1 0 2 5
+p681
+aVBrent Barry SAS 12/10/2005 SAS @ ATL L 11 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 0 0 0 0 0 -8
+p682
+aVMichael Finley SAS 12/10/2005 SAS @ ATL L 33 9 4 11 36.4 1 4 25.0 0 0 - 0 3 3 6 0 0 1 0 -2
+p683
+aVManu Ginobili SAS 12/10/2005 SAS @ ATL L 30 17 7 14 50.0 0 0 - 3 6 50.0 2 8 10 2 1 0 3 3 -9
+p684
+aVTim Duncan SAS 12/10/2005 SAS @ ATL L 37 12 5 14 35.7 0 0 - 2 7 28.6 4 6 10 3 1 1 1 2 -9
+p685
+aVNazr Mohammed SAS 12/10/2005 SAS @ ATL L 10 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -1
+p686
+aVRasho Nesterovic SAS 12/10/2005 SAS @ ATL L 16 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 5 -7
+p687
+aVTony Parker SAS 12/10/2005 SAS @ ATL L 38 20 8 18 44.4 0 1 0.0 4 5 80.0 0 5 5 2 3 0 5 5 -11
+p688
+aVBruce Bowen SAS 12/10/2005 SAS @ ATL L 39 13 4 6 66.7 3 4 75.0 2 2 100.0 0 5 5 1 2 0 0 1 -9
+p689
+aVBeno Udrih SAS 12/10/2005 SAS @ ATL L 10 0 0 4 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 1 1
+p690
+aVTim Duncan SAS 12/09/2005 SAS vs. BOS W 37 20 7 11 63.6 0 0 - 6 8 75.0 2 9 11 3 2 5 3 1 17
+p691
+aVBrent Barry SAS 12/09/2005 SAS vs. BOS W 21 8 4 7 57.1 0 1 0.0 0 0 - 2 1 3 1 0 0 2 2 -4
+p692
+aVTony Parker SAS 12/09/2005 SAS vs. BOS W 27 16 5 15 33.3 1 2 50.0 5 6 83.3 1 4 5 4 1 0 1 1 5
+p693
+aVNazr Mohammed SAS 12/09/2005 SAS vs. BOS W 14 7 2 3 66.7 0 0 - 3 4 75.0 2 3 5 1 0 0 0 3 0
+p694
+aVManu Ginobili SAS 12/09/2005 SAS vs. BOS W 25 14 6 10 60.0 0 1 0.0 2 3 66.7 0 0 0 2 4 0 0 2 4
+p695
+aVBruce Bowen SAS 12/09/2005 SAS vs. BOS W 35 9 4 11 36.4 1 3 33.3 0 0 - 3 4 7 1 2 0 3 2 11
+p696
+aVRasho Nesterovic SAS 12/09/2005 SAS vs. BOS W 24 4 2 2 100.0 0 0 - 0 0 - 1 5 6 2 0 6 1 1 19
+p697
+aVNick Van Exel SAS 12/09/2005 SAS vs. BOS W 21 6 1 4 25.0 1 3 33.3 3 4 75.0 0 1 1 6 0 0 2 0 7
+p698
+aVMichael Finley SAS 12/09/2005 SAS vs. BOS W 20 11 4 8 50.0 1 1 100.0 2 2 100.0 1 2 3 0 0 0 0 3 4
+p699
+aVBeno Udrih SAS 12/09/2005 SAS vs. BOS W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p700
+aVFabricio Oberto SAS 12/09/2005 SAS vs. BOS W 14 4 2 5 40.0 0 0 - 0 0 - 3 0 3 1 0 0 2 4 -3
+p701
+aVTony Parker SAS 12/07/2005 SAS vs. MIA W 35 14 5 12 41.7 0 1 0.0 4 5 80.0 1 1 2 11 2 0 5 0 11
+p702
+aVNick Van Exel SAS 12/07/2005 SAS vs. MIA W 12 0 0 2 0.0 0 2 0.0 0 0 - 0 5 5 1 0 0 0 0 1
+p703
+aVRobert Horry SAS 12/07/2005 SAS vs. MIA W 18 0 0 2 0.0 0 1 0.0 0 0 - 0 4 4 0 1 1 0 6 1
+p704
+aVBruce Bowen SAS 12/07/2005 SAS vs. MIA W 32 10 4 9 44.4 2 7 28.6 0 0 - 0 1 1 1 1 0 0 5 11
+p705
+aVFabricio Oberto SAS 12/07/2005 SAS vs. MIA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -4
+p706
+aVRasho Nesterovic SAS 12/07/2005 SAS vs. MIA W 22 9 4 5 80.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 4 -4
+p707
+aVBrent Barry SAS 12/07/2005 SAS vs. MIA W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 0 12
+p708
+aVNazr Mohammed SAS 12/07/2005 SAS vs. MIA W 13 2 1 5 20.0 0 0 - 0 0 - 2 0 2 1 0 1 2 2 4
+p709
+aVTim Duncan SAS 12/07/2005 SAS vs. MIA W 37 28 11 18 61.1 0 0 - 6 9 66.7 5 11 16 3 3 4 3 4 25
+p710
+aVManu Ginobili SAS 12/07/2005 SAS vs. MIA W 32 27 10 16 62.5 1 4 25.0 6 7 85.7 0 2 2 2 2 0 2 4 9
+p711
+aVBeno Udrih SAS 12/07/2005 SAS vs. MIA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p712
+aVMichael Finley SAS 12/07/2005 SAS vs. MIA W 24 8 3 11 27.3 0 2 0.0 2 2 100.0 0 4 4 1 1 0 1 0 2
+p713
+aVBruce Bowen SAS 12/05/2005 SAS @ ORL W 32 7 3 6 50.0 1 3 33.3 0 0 - 0 4 4 3 1 0 0 2 18
+p714
+aVManu Ginobili SAS 12/05/2005 SAS @ ORL W 22 4 1 4 25.0 0 2 0.0 2 2 100.0 0 3 3 4 0 0 2 2 13
+p715
+aVBrent Barry SAS 12/05/2005 SAS @ ORL W 15 4 1 3 33.3 0 2 0.0 2 5 40.0 0 2 2 1 0 0 0 0 13
+p716
+aVTim Duncan SAS 12/05/2005 SAS @ ORL W 34 26 9 17 52.9 0 0 - 8 9 88.9 2 10 12 4 1 5 2 3 15
+p717
+aVMichael Finley SAS 12/05/2005 SAS @ ORL W 29 7 3 6 50.0 1 2 50.0 0 1 0.0 1 4 5 4 0 0 1 1 8
+p718
+aVRobert Horry SAS 12/05/2005 SAS @ ORL W 21 18 6 9 66.7 3 5 60.0 3 4 75.0 1 6 7 0 0 2 3 3 15
+p719
+aVNazr Mohammed SAS 12/05/2005 SAS @ ORL W 15 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 0 1 1 2 3
+p720
+aVBeno Udrih SAS 12/05/2005 SAS @ ORL W 8 7 2 3 66.7 1 1 100.0 2 3 66.7 0 1 1 1 0 0 0 1 6
+p721
+aVFabricio Oberto SAS 12/05/2005 SAS @ ORL W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p722
+aVNick Van Exel SAS 12/05/2005 SAS @ ORL W 11 3 0 2 0.0 0 2 0.0 3 4 75.0 1 1 2 0 2 0 0 0 -3
+p723
+aVTony Parker SAS 12/05/2005 SAS @ ORL W 30 20 7 11 63.6 1 1 100.0 5 6 83.3 0 3 3 7 0 0 4 2 26
+p724
+aVRasho Nesterovic SAS 12/05/2005 SAS @ ORL W 20 8 4 6 66.7 0 0 - 0 2 0.0 1 1 2 0 0 2 0 3 7
+p725
+aVTony Parker SAS 12/03/2005 SAS vs. PHI W 34 20 8 14 57.1 0 0 - 4 5 80.0 1 7 8 7 0 0 2 4 15
+p726
+aVNick Van Exel SAS 12/03/2005 SAS vs. PHI W 18 8 3 8 37.5 1 4 25.0 1 3 33.3 0 1 1 1 0 0 0 0 -1
+p727
+aVBruce Bowen SAS 12/03/2005 SAS vs. PHI W 41 9 4 8 50.0 1 4 25.0 0 0 - 1 4 5 5 3 2 1 3 4
+p728
+aVBeno Udrih SAS 12/03/2005 SAS vs. PHI W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -3
+p729
+aVMichael Finley SAS 12/03/2005 SAS vs. PHI W 23 5 2 7 28.6 0 2 0.0 1 1 100.0 0 2 2 3 0 1 2 3 12
+p730
+aVTim Duncan SAS 12/03/2005 SAS vs. PHI W 35 16 7 14 50.0 0 0 - 2 4 50.0 3 9 12 5 0 3 1 1 18
+p731
+aVRobert Horry SAS 12/03/2005 SAS vs. PHI W 17 8 3 7 42.9 1 2 50.0 1 2 50.0 1 0 1 2 1 2 1 2 -6
+p732
+aVFabricio Oberto SAS 12/03/2005 SAS vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p733
+aVNazr Mohammed SAS 12/03/2005 SAS vs. PHI W 14 6 3 7 42.9 0 0 - 0 0 - 1 1 2 0 0 0 1 2 7
+p734
+aVBrent Barry SAS 12/03/2005 SAS vs. PHI W 26 14 5 9 55.6 4 6 66.7 0 0 - 2 3 5 3 1 0 2 2 0
+p735
+aVRasho Nesterovic SAS 12/03/2005 SAS vs. PHI W 28 12 5 9 55.6 0 0 - 2 2 100.0 3 4 7 1 0 1 1 5 1
+p736
+aVBruce Bowen SAS 12/01/2005 SAS @ DAL W 38 7 2 7 28.6 1 4 25.0 2 4 50.0 0 5 5 1 0 1 0 4 -4
+p737
+aVNazr Mohammed SAS 12/01/2005 SAS @ DAL W 18 10 4 8 50.0 0 0 - 2 2 100.0 1 4 5 1 0 1 0 3 0
+p738
+aVBrent Barry SAS 12/01/2005 SAS @ DAL W 16 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 1 0 0 1 4 -4
+p739
+aVMichael Finley SAS 12/01/2005 SAS @ DAL W 35 15 5 12 41.7 1 3 33.3 4 6 66.7 0 3 3 2 2 0 2 3 13
+p740
+aVNick Van Exel SAS 12/01/2005 SAS @ DAL W 15 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 2 0 0 1 0 -2
+p741
+aVTony Parker SAS 12/01/2005 SAS @ DAL W 40 30 13 23 56.5 0 1 0.0 4 7 57.1 1 3 4 5 1 0 2 5 1
+p742
+aVTim Duncan SAS 12/01/2005 SAS @ DAL W 38 13 4 12 33.3 0 0 - 5 8 62.5 3 11 14 2 0 1 2 1 3
+p743
+aVRobert Horry SAS 12/01/2005 SAS @ DAL W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 3 3 0 1 0 1 1 5
+p744
+aVRasho Nesterovic SAS 12/01/2005 SAS @ DAL W 25 6 3 4 75.0 0 0 - 0 0 - 2 5 7 0 0 0 1 3 -2
+p745
+aVBruce Bowen SAS 11/29/2005 SAS vs. LAL W 36 11 5 7 71.4 1 2 50.0 0 0 - 0 4 4 1 0 0 1 4 7
+p746
+aVNazr Mohammed SAS 11/29/2005 SAS vs. LAL W 15 5 2 5 40.0 0 0 - 1 2 50.0 2 4 6 0 0 0 0 4 -3
+p747
+aVTony Parker SAS 11/29/2005 SAS vs. LAL W 34 10 4 11 36.4 0 0 - 2 4 50.0 0 6 6 5 1 0 4 1 9
+p748
+aVNick Van Exel SAS 11/29/2005 SAS vs. LAL W 14 4 1 2 50.0 1 2 50.0 1 2 50.0 0 2 2 1 0 0 1 0 -3
+p749
+aVTim Duncan SAS 11/29/2005 SAS vs. LAL W 37 16 6 13 46.2 0 0 - 4 7 57.1 0 9 9 5 0 0 5 2 10
+p750
+aVRobert Horry SAS 11/29/2005 SAS vs. LAL W 14 2 0 2 0.0 0 1 0.0 2 4 50.0 2 2 4 0 0 0 1 0 0
+p751
+aVManu Ginobili SAS 11/29/2005 SAS vs. LAL W 30 22 9 14 64.3 2 3 66.7 2 4 50.0 1 7 8 2 0 2 2 0 19
+p752
+aVMichael Finley SAS 11/29/2005 SAS vs. LAL W 25 12 5 12 41.7 0 2 0.0 2 2 100.0 1 2 3 0 1 0 0 1 -3
+p753
+aVRasho Nesterovic SAS 11/29/2005 SAS vs. LAL W 25 6 3 5 60.0 0 0 - 0 0 - 3 3 6 0 1 3 1 4 8
+p754
+aVBrent Barry SAS 11/29/2005 SAS vs. LAL W 8 2 1 5 20.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -9
+p755
+aVFabricio Oberto SAS 11/29/2005 SAS vs. LAL W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -5
+p756
+aVMichael Finley SAS 11/25/2005 SAS vs. CHI L 29 12 4 11 36.4 3 7 42.9 1 1 100.0 0 2 2 0 0 0 0 3 3
+p757
+aVRasho Nesterovic SAS 11/25/2005 SAS vs. CHI L 19 4 2 7 28.6 0 0 - 0 0 - 2 4 6 0 0 1 1 2 2
+p758
+aVBruce Bowen SAS 11/25/2005 SAS vs. CHI L 28 8 3 5 60.0 1 3 33.3 1 1 100.0 0 1 1 1 1 0 1 2 -6
+p759
+aVNazr Mohammed SAS 11/25/2005 SAS vs. CHI L 10 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -7
+p760
+aVManu Ginobili SAS 11/25/2005 SAS vs. CHI L 32 16 5 10 50.0 2 6 33.3 4 7 57.1 1 6 7 5 0 0 1 4 -7
+p761
+aVBrent Barry SAS 11/25/2005 SAS vs. CHI L 15 0 0 5 0.0 0 2 0.0 0 0 - 1 1 2 1 1 1 0 0 -7
+p762
+aVNick Van Exel SAS 11/25/2005 SAS vs. CHI L 20 15 6 10 60.0 3 6 50.0 0 0 - 1 3 4 3 0 0 2 0 5
+p763
+aVTony Parker SAS 11/25/2005 SAS vs. CHI L 34 13 5 10 50.0 1 1 100.0 2 4 50.0 0 3 3 6 1 0 3 3 -5
+p764
+aVRobert Horry SAS 11/25/2005 SAS vs. CHI L 16 5 2 5 40.0 1 3 33.3 0 2 0.0 1 1 2 1 0 1 1 1 -13
+p765
+aVTim Duncan SAS 11/25/2005 SAS vs. CHI L 37 24 8 14 57.1 0 0 - 8 10 80.0 1 10 11 4 0 4 3 4 0
+p766
+aVRobert Horry SAS 11/23/2005 SAS @ GSW W 16 2 1 3 33.3 0 1 0.0 0 0 - 1 3 4 2 0 1 1 2 11
+p767
+aVBeno Udrih SAS 11/23/2005 SAS @ GSW W 15 9 2 4 50.0 0 0 - 5 5 100.0 0 1 1 3 0 0 2 1 -7
+p768
+aVMichael Finley SAS 11/23/2005 SAS @ GSW W 19 6 3 7 42.9 0 1 0.0 0 0 - 0 3 3 2 0 0 0 1 4
+p769
+aVBrent Barry SAS 11/23/2005 SAS @ GSW W 22 3 1 4 25.0 1 1 100.0 0 0 - 1 2 3 3 2 0 1 1 -1
+p770
+aVBruce Bowen SAS 11/23/2005 SAS @ GSW W 27 12 4 8 50.0 4 5 80.0 0 0 - 0 1 1 3 2 0 0 1 22
+p771
+aVRasho Nesterovic SAS 11/23/2005 SAS @ GSW W 19 8 4 7 57.1 0 0 - 0 0 - 2 2 4 1 0 3 1 3 19
+p772
+aVManu Ginobili SAS 11/23/2005 SAS @ GSW W 21 14 4 8 50.0 1 3 33.3 5 5 100.0 3 2 5 5 0 1 2 1 31
+p773
+aVNazr Mohammed SAS 11/23/2005 SAS @ GSW W 23 10 5 9 55.6 0 0 - 0 0 - 0 10 10 3 0 1 1 4 2
+p774
+aVTony Parker SAS 11/23/2005 SAS @ GSW W 26 26 11 13 84.6 0 0 - 4 6 66.7 1 4 5 6 1 0 2 2 22
+p775
+aVNick Van Exel SAS 11/23/2005 SAS @ GSW W 15 4 2 4 50.0 0 2 0.0 0 0 - 0 3 3 2 0 0 1 1 1
+p776
+aVTim Duncan SAS 11/23/2005 SAS @ GSW W 26 19 8 12 66.7 0 0 - 3 4 75.0 4 8 12 1 0 1 2 3 26
+p777
+aVFabricio Oberto SAS 11/23/2005 SAS @ GSW W 11 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 1 1 1 3 -10
+p778
+aVRobert Horry SAS 11/21/2005 SAS @ SAC W 3 1 0 0 - 0 0 - 1 2 50.0 2 0 2 0 0 0 1 0 -1
+p779
+aVBruce Bowen SAS 11/21/2005 SAS @ SAC W 35 10 4 8 50.0 2 3 66.7 0 0 - 0 2 2 1 1 0 0 1 8
+p780
+aVTony Parker SAS 11/21/2005 SAS @ SAC W 33 23 9 16 56.3 0 0 - 5 7 71.4 0 2 2 2 1 0 4 3 11
+p781
+aVRasho Nesterovic SAS 11/21/2005 SAS @ SAC W 16 10 4 8 50.0 0 1 0.0 2 2 100.0 2 2 4 0 0 0 0 5 11
+p782
+aVTim Duncan SAS 11/21/2005 SAS @ SAC W 36 22 9 16 56.3 0 0 - 4 4 100.0 3 16 19 4 1 4 4 5 12
+p783
+aVBrent Barry SAS 11/21/2005 SAS @ SAC W 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 -4
+p784
+aVMichael Finley SAS 11/21/2005 SAS @ SAC W 22 8 2 7 28.6 0 2 0.0 4 4 100.0 0 4 4 1 0 0 1 0 -7
+p785
+aVNazr Mohammed SAS 11/21/2005 SAS @ SAC W 24 6 1 2 50.0 0 0 - 4 4 100.0 1 4 5 0 0 0 2 6 -9
+p786
+aVFabricio Oberto SAS 11/21/2005 SAS @ SAC W 17 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 3 -7
+p787
+aVManu Ginobili SAS 11/21/2005 SAS @ SAC W 31 12 4 11 36.4 0 1 0.0 4 5 80.0 0 0 0 4 3 1 4 1 9
+p788
+aVNick Van Exel SAS 11/21/2005 SAS @ SAC W 15 4 1 2 50.0 0 1 0.0 2 2 100.0 0 0 0 2 1 0 1 1 -8
+p789
+aVTim Duncan SAS 11/19/2005 SAS vs. PHX W 36 24 8 19 42.1 0 0 - 8 11 72.7 4 9 13 2 3 3 4 2 6
+p790
+aVNazr Mohammed SAS 11/19/2005 SAS vs. PHX W 12 9 3 7 42.9 0 0 - 3 4 75.0 3 2 5 0 0 0 1 0 8
+p791
+aVFabricio Oberto SAS 11/19/2005 SAS vs. PHX W 5 2 1 1 100.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 0 -6
+p792
+aVRobert Horry SAS 11/19/2005 SAS vs. PHX W 27 9 2 5 40.0 1 2 50.0 4 6 66.7 2 6 8 2 1 1 1 3 19
+p793
+aVTony Parker SAS 11/19/2005 SAS vs. PHX W 42 19 8 18 44.4 0 0 - 3 8 37.5 0 5 5 3 3 0 2 3 -4
+p794
+aVMichael Finley SAS 11/19/2005 SAS vs. PHX W 21 11 4 9 44.4 0 2 0.0 3 3 100.0 0 1 1 1 0 0 1 2 1
+p795
+aVNick Van Exel SAS 11/19/2005 SAS vs. PHX W 8 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p796
+aVManu Ginobili SAS 11/19/2005 SAS vs. PHX W 32 15 6 14 42.9 1 4 25.0 2 3 66.7 1 5 6 1 3 0 0 5 9
+p797
+aVBruce Bowen SAS 11/19/2005 SAS vs. PHX W 36 2 1 3 33.3 0 2 0.0 0 0 - 0 5 5 4 1 1 1 3 3
+p798
+aVBeno Udrih SAS 11/19/2005 SAS vs. PHX W 7 2 0 2 0.0 0 2 0.0 2 2 100.0 2 1 3 3 1 0 0 2 10
+p799
+aVRasho Nesterovic SAS 11/19/2005 SAS vs. PHX W 13 2 1 5 20.0 0 0 - 0 0 - 4 1 5 0 1 0 2 0 -6
+p800
+aVAlex Scales SAS 11/19/2005 SAS vs. PHX W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p801
+aVTim Duncan SAS 11/17/2005 SAS vs. HOU W 36 19 9 19 47.4 0 1 0.0 1 2 50.0 3 6 9 4 0 2 1 3 2
+p802
+aVBruce Bowen SAS 11/17/2005 SAS vs. HOU W 36 3 1 3 33.3 1 1 100.0 0 2 0.0 0 4 4 2 0 0 0 5 5
+p803
+aVTony Parker SAS 11/17/2005 SAS vs. HOU W 41 17 6 15 40.0 0 0 - 5 7 71.4 0 1 1 8 2 0 6 0 3
+p804
+aVManu Ginobili SAS 11/17/2005 SAS vs. HOU W 33 15 6 14 42.9 0 3 0.0 3 3 100.0 2 5 7 2 4 0 2 2 3
+p805
+aVBeno Udrih SAS 11/17/2005 SAS vs. HOU W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 2
+p806
+aVNick Van Exel SAS 11/17/2005 SAS vs. HOU W 20 4 2 8 25.0 0 3 0.0 0 0 - 0 2 2 3 0 1 0 0 5
+p807
+aVNazr Mohammed SAS 11/17/2005 SAS vs. HOU W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 4
+p808
+aVMelvin Sanders SAS 11/17/2005 SAS vs. HOU W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -3
+p809
+aVRasho Nesterovic SAS 11/17/2005 SAS vs. HOU W 32 10 5 9 55.6 0 0 - 0 0 - 2 1 3 1 0 2 2 4 7
+p810
+aVRobert Horry SAS 11/17/2005 SAS vs. HOU W 21 16 5 6 83.3 2 3 66.7 4 4 100.0 2 4 6 1 2 0 0 1 2
+p811
+aVManu Ginobili SAS 11/15/2005 SAS vs. ATL W 28 24 9 13 69.2 1 2 50.0 5 5 100.0 0 3 3 2 5 1 1 1 24
+p812
+aVRobert Horry SAS 11/15/2005 SAS vs. ATL W 16 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 1 3 1 2 24
+p813
+aVTim Duncan SAS 11/15/2005 SAS vs. ATL W 29 23 11 14 78.6 0 0 - 1 2 50.0 4 3 7 3 0 1 2 2 14
+p814
+aVTony Parker SAS 11/15/2005 SAS vs. ATL W 36 18 7 12 58.3 0 1 0.0 4 8 50.0 1 2 3 8 3 0 0 2 12
+p815
+aVMelvin Sanders SAS 11/15/2005 SAS vs. ATL W 19 5 2 7 28.6 0 0 - 1 2 50.0 1 4 5 0 1 0 2 1 0
+p816
+aVNazr Mohammed SAS 11/15/2005 SAS vs. ATL W 7 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -1
+p817
+aVNick Van Exel SAS 11/15/2005 SAS vs. ATL W 21 6 3 5 60.0 0 1 0.0 0 0 - 1 1 2 3 0 0 0 1 12
+p818
+aVBeno Udrih SAS 11/15/2005 SAS vs. ATL W 9 5 2 6 33.3 0 1 0.0 1 2 50.0 2 0 2 4 0 0 0 1 2
+p819
+aVRasho Nesterovic SAS 11/15/2005 SAS vs. ATL W 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p820
+aVBruce Bowen SAS 11/15/2005 SAS vs. ATL W 34 6 2 6 33.3 2 3 66.7 0 0 - 0 2 2 1 1 0 1 4 24
+p821
+aVSean Marks SAS 11/15/2005 SAS vs. ATL W 9 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -6
+p822
+aVFabricio Oberto SAS 11/15/2005 SAS vs. ATL W 21 8 4 9 44.4 0 1 0.0 0 0 - 3 5 8 0 0 1 1 4 17
+p823
+aVTony Parker SAS 11/12/2005 SAS @ WAS L 38 23 10 20 50.0 0 0 - 3 3 100.0 0 2 2 6 3 0 6 2 -12
+p824
+aVSean Marks SAS 11/12/2005 SAS @ WAS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p825
+aVBeno Udrih SAS 11/12/2005 SAS @ WAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p826
+aVBruce Bowen SAS 11/12/2005 SAS @ WAS L 42 12 5 8 62.5 2 3 66.7 0 0 - 1 2 3 1 0 0 0 3 -14
+p827
+aVRobert Horry SAS 11/12/2005 SAS @ WAS L 17 4 2 7 28.6 0 1 0.0 0 0 - 3 2 5 0 0 0 0 1 -6
+p828
+aVNazr Mohammed SAS 11/12/2005 SAS @ WAS L 5 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p829
+aVManu Ginobili SAS 11/12/2005 SAS @ WAS L 31 28 8 12 66.7 4 7 57.1 8 8 100.0 0 3 3 3 0 0 3 3 -8
+p830
+aVNick Van Exel SAS 11/12/2005 SAS @ WAS L 25 13 4 10 40.0 2 2 100.0 3 3 100.0 0 2 2 2 1 0 1 1 -9
+p831
+aVRasho Nesterovic SAS 11/12/2005 SAS @ WAS L 27 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 1 1 0 5 -2
+p832
+aVTim Duncan SAS 11/12/2005 SAS @ WAS L 35 11 3 18 16.7 0 0 - 5 8 62.5 5 9 14 2 0 0 2 2 -14
+p833
+aVMelvin Sanders SAS 11/12/2005 SAS @ WAS L 10 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 1 -5
+p834
+aVFabricio Oberto SAS 11/12/2005 SAS @ WAS L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p835
+aVSean Marks SAS 11/11/2005 SAS @ BOS W 13 1 0 0 - 0 0 - 1 1 100.0 1 1 2 1 0 0 1 0 -6
+p836
+aVRasho Nesterovic SAS 11/11/2005 SAS @ BOS W 21 6 3 5 60.0 0 0 - 0 0 - 0 3 3 0 0 0 2 3 14
+p837
+aVRobert Horry SAS 11/11/2005 SAS @ BOS W 22 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 1 2 2 1 1 8
+p838
+aVTony Parker SAS 11/11/2005 SAS @ BOS W 31 23 10 16 62.5 0 1 0.0 3 4 75.0 0 6 6 6 1 0 4 3 30
+p839
+aVTim Duncan SAS 11/11/2005 SAS @ BOS W 32 29 11 17 64.7 1 2 50.0 6 6 100.0 0 12 12 3 1 2 1 2 29
+p840
+aVBeno Udrih SAS 11/11/2005 SAS @ BOS W 4 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p841
+aVBruce Bowen SAS 11/11/2005 SAS @ BOS W 39 12 4 5 80.0 3 3 100.0 1 2 50.0 0 5 5 1 1 0 1 2 28
+p842
+aVMelvin Sanders SAS 11/11/2005 SAS @ BOS W 20 6 2 3 66.7 0 0 - 2 2 100.0 0 2 2 0 0 0 1 3 10
+p843
+aVNick Van Exel SAS 11/11/2005 SAS @ BOS W 15 7 3 6 50.0 1 4 25.0 0 2 0.0 0 1 1 1 0 0 2 0 -10
+p844
+aVFabricio Oberto SAS 11/11/2005 SAS @ BOS W 8 2 1 1 100.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -8
+p845
+aVNazr Mohammed SAS 11/11/2005 SAS @ BOS W 7 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 0
+p846
+aVManu Ginobili SAS 11/11/2005 SAS @ BOS W 28 11 3 8 37.5 1 3 33.3 4 5 80.0 0 2 2 5 0 0 1 3 13
+p847
+aVBruce Bowen SAS 11/09/2005 SAS @ CHA W 38 9 3 10 30.0 1 4 25.0 2 2 100.0 1 4 5 1 0 1 2 1 2
+p848
+aVBeno Udrih SAS 11/09/2005 SAS @ CHA W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -5
+p849
+aVRobert Horry SAS 11/09/2005 SAS @ CHA W 17 5 2 4 50.0 1 3 33.3 0 0 - 0 3 3 0 1 0 1 2 2
+p850
+aVNick Van Exel SAS 11/09/2005 SAS @ CHA W 26 12 4 7 57.1 1 3 33.3 3 3 100.0 0 2 2 2 2 0 0 1 8
+p851
+aVTim Duncan SAS 11/09/2005 SAS @ CHA W 36 29 11 20 55.0 0 0 - 7 8 87.5 3 7 10 0 0 1 5 1 5
+p852
+aVTony Parker SAS 11/09/2005 SAS @ CHA W 41 23 11 19 57.9 0 1 0.0 1 3 33.3 0 5 5 6 2 0 5 1 13
+p853
+aVManu Ginobili SAS 11/09/2005 SAS @ CHA W 31 8 2 5 40.0 1 1 100.0 3 4 75.0 0 4 4 5 1 1 2 2 6
+p854
+aVMelvin Sanders SAS 11/09/2005 SAS @ CHA W 4 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 0
+p855
+aVFabricio Oberto SAS 11/09/2005 SAS @ CHA W 7 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 2 2
+p856
+aVNazr Mohammed SAS 11/09/2005 SAS @ CHA W 10 0 0 1 0.0 0 0 - 0 0 - 0 6 6 0 0 0 2 4 3
+p857
+aVRasho Nesterovic SAS 11/09/2005 SAS @ CHA W 26 6 3 4 75.0 0 0 - 0 0 - 3 2 5 1 0 2 1 6 4
+p858
+aVTony Parker SAS 11/07/2005 SAS @ CHI W 38 22 6 14 42.9 0 0 - 10 12 83.3 0 1 1 9 0 0 5 0 16
+p859
+aVNazr Mohammed SAS 11/07/2005 SAS @ CHI W 19 15 7 8 87.5 0 0 - 1 1 100.0 2 3 5 0 0 0 2 4 -3
+p860
+aVTim Duncan SAS 11/07/2005 SAS @ CHI W 42 24 9 15 60.0 0 0 - 6 6 100.0 2 14 16 4 1 6 3 2 10
+p861
+aVMichael Finley SAS 11/07/2005 SAS @ CHI W 32 8 3 14 21.4 2 6 33.3 0 0 - 0 5 5 2 0 0 1 2 7
+p862
+aVRobert Horry SAS 11/07/2005 SAS @ CHI W 18 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 3 1 1 0 6 -5
+p863
+aVBrent Barry SAS 11/07/2005 SAS @ CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p864
+aVManu Ginobili SAS 11/07/2005 SAS @ CHI W 37 14 5 16 31.3 3 10 30.0 1 3 33.3 2 11 13 3 3 1 4 1 7
+p865
+aVRasho Nesterovic SAS 11/07/2005 SAS @ CHI W 22 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 0 3 7
+p866
+aVBruce Bowen SAS 11/07/2005 SAS @ CHI W 40 8 3 7 42.9 2 3 66.7 0 1 0.0 0 3 3 2 1 1 0 3 9
+p867
+aVNick Van Exel SAS 11/07/2005 SAS @ CHI W 15 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 6 0 0 0 0 -7
+p868
+aVTony Parker SAS 11/05/2005 SAS @ DAL L 31 24 11 17 64.7 0 1 0.0 2 2 100.0 1 5 6 3 0 0 4 0 3
+p869
+aVBeno Udrih SAS 11/05/2005 SAS @ DAL L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -11
+p870
+aVNick Van Exel SAS 11/05/2005 SAS @ DAL L 13 11 3 6 50.0 2 4 50.0 3 3 100.0 0 1 1 0 0 0 2 4 -11
+p871
+aVRasho Nesterovic SAS 11/05/2005 SAS @ DAL L 16 6 3 6 50.0 0 0 - 0 0 - 3 2 5 0 1 0 1 2 1
+p872
+aVTim Duncan SAS 11/05/2005 SAS @ DAL L 39 18 7 12 58.3 0 0 - 4 5 80.0 3 9 12 5 0 6 3 3 -9
+p873
+aVRobert Horry SAS 11/05/2005 SAS @ DAL L 20 5 2 8 25.0 1 3 33.3 0 0 - 3 2 5 3 0 1 1 0 2
+p874
+aVMichael Finley SAS 11/05/2005 SAS @ DAL L 27 2 1 6 16.7 0 2 0.0 0 0 - 1 3 4 0 0 0 0 2 -2
+p875
+aVFabricio Oberto SAS 11/05/2005 SAS @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p876
+aVBruce Bowen SAS 11/05/2005 SAS @ DAL L 25 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -12
+p877
+aVManu Ginobili SAS 11/05/2005 SAS @ DAL L 28 13 2 11 18.2 1 2 50.0 8 10 80.0 3 2 5 1 2 0 2 5 -28
+p878
+aVBrent Barry SAS 11/05/2005 SAS @ DAL L 28 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 0 0 2 2 -7
+p879
+aVNazr Mohammed SAS 11/05/2005 SAS @ DAL L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -9
+p880
+aVFabricio Oberto SAS 11/04/2005 SAS vs. CLE W 18 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 2 5 3
+p881
+aVNazr Mohammed SAS 11/04/2005 SAS vs. CLE W 12 2 1 2 50.0 0 0 - 0 1 0.0 0 2 2 0 0 3 3 1 8
+p882
+aVBeno Udrih SAS 11/04/2005 SAS vs. CLE W 6 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 2 1 0 2 0 1
+p883
+aVTim Duncan SAS 11/04/2005 SAS vs. CLE W 28 21 10 17 58.8 0 0 - 1 1 100.0 2 8 10 2 1 1 2 4 15
+p884
+aVManu Ginobili SAS 11/04/2005 SAS vs. CLE W 22 10 4 8 50.0 1 3 33.3 1 2 50.0 0 1 1 4 0 0 2 2 18
+p885
+aVBruce Bowen SAS 11/04/2005 SAS vs. CLE W 28 12 4 6 66.7 3 3 100.0 1 2 50.0 0 3 3 2 1 0 1 2 20
+p886
+aVRobert Horry SAS 11/04/2005 SAS vs. CLE W 16 9 4 7 57.1 1 1 100.0 0 0 - 0 7 7 1 0 0 2 3 8
+p887
+aVBrent Barry SAS 11/04/2005 SAS vs. CLE W 21 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 3 0 0 0 1 5
+p888
+aVRasho Nesterovic SAS 11/04/2005 SAS vs. CLE W 22 8 4 6 66.7 0 0 - 0 0 - 1 5 6 1 0 2 1 3 18
+p889
+aVTony Parker SAS 11/04/2005 SAS vs. CLE W 29 18 9 16 56.3 0 0 - 0 0 - 1 1 2 8 0 0 1 0 21
+p890
+aVNick Van Exel SAS 11/04/2005 SAS vs. CLE W 18 6 2 5 40.0 2 4 50.0 0 0 - 0 6 6 1 0 0 1 0 7
+p891
+aVMichael Finley SAS 11/04/2005 SAS vs. CLE W 20 3 1 6 16.7 1 3 33.3 0 0 - 0 4 4 3 2 0 1 1 6
+p892
+aVRobert Horry SAS 11/01/2005 SAS vs. DEN W 25 7 1 6 16.7 1 5 20.0 4 4 100.0 2 6 8 3 1 2 0 2 21
+p893
+aVFabricio Oberto SAS 11/01/2005 SAS vs. DEN W 14 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 0 0 2 3 -4
+p894
+aVTony Parker SAS 11/01/2005 SAS vs. DEN W 34 26 13 20 65.0 0 0 - 0 1 0.0 0 2 2 3 0 0 2 2 12
+p895
+aVBrent Barry SAS 11/01/2005 SAS vs. DEN W 20 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 2 1 0 0 1 12
+p896
+aVNazr Mohammed SAS 11/01/2005 SAS vs. DEN W 9 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 4
+p897
+aVManu Ginobili SAS 11/01/2005 SAS vs. DEN W 28 10 2 9 22.2 0 1 0.0 6 8 75.0 1 3 4 2 1 0 3 0 -1
+p898
+aVRasho Nesterovic SAS 11/01/2005 SAS vs. DEN W 10 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -11
+p899
+aVMichael Finley SAS 11/01/2005 SAS vs. DEN W 28 16 7 10 70.0 1 1 100.0 1 2 50.0 1 4 5 1 0 0 2 1 24
+p900
+aVBruce Bowen SAS 11/01/2005 SAS vs. DEN W 20 4 2 5 40.0 0 0 - 0 0 - 2 2 4 2 1 0 0 1 -13
+p901
+aVNick Van Exel SAS 11/01/2005 SAS vs. DEN W 14 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 0 0 2 3 -1
+p902
+aVTim Duncan SAS 11/01/2005 SAS vs. DEN W 38 19 8 17 47.1 0 0 - 3 4 75.0 5 5 10 6 1 4 2 2 12
+p903
+a.

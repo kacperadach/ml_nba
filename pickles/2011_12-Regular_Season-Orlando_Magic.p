@@ -1,0 +1,1344 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVChris Duhon ORL 04/26/2012 ORL @ MEM L 27 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 3 2 0 3 2 -9
+p2
+aVJustin Harper ORL 04/26/2012 ORL @ MEM L 32 16 7 18 38.9 2 8 25.0 0 1 0.0 3 4 7 1 1 2 1 2 -5
+p3
+aVDeAndre Liggins ORL 04/26/2012 ORL @ MEM L 26 7 3 6 50.0 0 1 0.0 1 2 50.0 2 3 5 0 0 0 2 4 -9
+p4
+aVHedo Turkoglu ORL 04/26/2012 ORL @ MEM L 30 18 7 13 53.8 4 9 44.4 0 0 - 0 2 2 1 1 0 2 1 -13
+p5
+aVVon Wafer ORL 04/26/2012 ORL @ MEM L 41 11 4 13 30.8 0 4 0.0 3 4 75.0 1 2 3 2 2 0 1 1 -2
+p6
+aVDaniel Orton ORL 04/26/2012 ORL @ MEM L 26 7 3 3 100.0 0 0 - 1 2 50.0 0 2 2 3 1 2 2 4 4
+p7
+aVIsh Smith ORL 04/26/2012 ORL @ MEM L 21 4 1 4 25.0 0 1 0.0 2 4 50.0 1 3 4 3 1 0 1 2 -3
+p8
+aVEarl Clark ORL 04/26/2012 ORL @ MEM L 38 8 3 11 27.3 0 0 - 2 2 100.0 1 8 9 1 1 4 1 3 -23
+p9
+aVJameer Nelson ORL 04/25/2012 ORL vs. CHA W 29 11 4 13 30.8 3 7 42.9 0 0 - 0 9 9 9 2 0 3 6 6
+p10
+aVIsh Smith ORL 04/25/2012 ORL vs. CHA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p11
+aVRyan Anderson ORL 04/25/2012 ORL vs. CHA W 42 24 8 15 53.3 2 8 25.0 6 7 85.7 7 6 13 1 1 0 1 3 5
+p12
+aVEarl Clark ORL 04/25/2012 ORL vs. CHA W 17 8 2 2 100.0 0 0 - 4 5 80.0 0 1 1 0 1 0 1 4 3
+p13
+aVChris Duhon ORL 04/25/2012 ORL vs. CHA W 19 0 0 6 0.0 0 4 0.0 0 0 - 0 2 2 4 1 1 1 0 1
+p14
+aVDaniel Orton ORL 04/25/2012 ORL vs. CHA W 22 8 4 5 80.0 0 0 - 0 3 0.0 3 2 5 1 0 0 2 4 -5
+p15
+aVGlen Davis ORL 04/25/2012 ORL vs. CHA W 9 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 12
+p16
+aVJason Richardson ORL 04/25/2012 ORL vs. CHA W 34 17 6 17 35.3 3 7 42.9 2 2 100.0 2 7 9 2 0 1 0 4 6
+p17
+aVJJ Redick ORL 04/25/2012 ORL vs. CHA W 37 31 9 19 47.4 6 10 60.0 7 7 100.0 2 1 3 3 1 0 2 4 11
+p18
+aVJustin Harper ORL 04/25/2012 ORL vs. CHA W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -1
+p19
+aVQuentin Richardson ORL 04/25/2012 ORL vs. CHA W 24 1 0 3 0.0 0 1 0.0 1 2 50.0 1 3 4 1 0 0 1 1 -1
+p20
+aVDeAndre Liggins ORL 04/22/2012 ORL @ DEN L 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -7
+p21
+aVVon Wafer ORL 04/22/2012 ORL @ DEN L 20 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 4 1 0 3 1 -7
+p22
+aVIsh Smith ORL 04/22/2012 ORL @ DEN L 21 6 3 9 33.3 0 0 - 0 0 - 0 2 2 2 1 1 2 1 -10
+p23
+aVChris Duhon ORL 04/22/2012 ORL @ DEN L 25 3 1 4 25.0 1 4 25.0 0 0 - 1 1 2 3 1 0 0 2 -19
+p24
+aVJJ Redick ORL 04/22/2012 ORL @ DEN L 29 9 4 11 36.4 1 4 25.0 0 0 - 0 2 2 3 3 0 2 1 -28
+p25
+aVQuentin Richardson ORL 04/22/2012 ORL @ DEN L 16 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 1 0 0 0 0 -10
+p26
+aVJustin Harper ORL 04/22/2012 ORL @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -7
+p27
+aVJameer Nelson ORL 04/22/2012 ORL @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p28
+aVRyan Anderson ORL 04/22/2012 ORL @ DEN L 38 24 9 18 50.0 3 9 33.3 3 3 100.0 5 4 9 1 1 1 1 4 -14
+p29
+aVDaniel Orton ORL 04/22/2012 ORL @ DEN L 20 2 1 3 33.3 0 0 - 0 2 0.0 3 2 5 0 0 0 0 2 -16
+p30
+aVJason Richardson ORL 04/22/2012 ORL @ DEN L 27 9 4 13 30.8 1 4 25.0 0 0 - 2 3 5 4 2 0 1 1 -2
+p31
+aVGlen Davis ORL 04/22/2012 ORL @ DEN L 35 14 4 8 50.0 0 0 - 6 6 100.0 1 2 3 1 0 0 3 3 -17
+p32
+aVGlen Davis ORL 04/21/2012 ORL @ UTA L 45 17 8 17 47.1 0 0 - 1 3 33.3 4 9 13 2 4 1 3 1 6
+p33
+aVJustin Harper ORL 04/21/2012 ORL @ UTA L 7 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 -11
+p34
+aVIsh Smith ORL 04/21/2012 ORL @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p35
+aVChris Duhon ORL 04/21/2012 ORL @ UTA L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 0 -3
+p36
+aVQuentin Richardson ORL 04/21/2012 ORL @ UTA L 35 8 3 8 37.5 1 5 20.0 1 2 50.0 2 5 7 3 0 2 1 2 -20
+p37
+aVRyan Anderson ORL 04/21/2012 ORL @ UTA L 42 21 8 19 42.1 5 12 41.7 0 0 - 4 1 5 0 0 1 0 2 -19
+p38
+aVDaniel Orton ORL 04/21/2012 ORL @ UTA L 11 2 1 3 33.3 0 0 - 0 2 0.0 2 1 3 0 0 2 0 5 4
+p39
+aVJJ Redick ORL 04/21/2012 ORL @ UTA L 31 15 5 9 55.6 1 3 33.3 4 4 100.0 1 3 4 3 0 0 0 1 -10
+p40
+aVJason Richardson ORL 04/21/2012 ORL @ UTA L 40 21 8 17 47.1 5 9 55.6 0 0 - 2 5 7 0 0 0 0 2 10
+p41
+aVJameer Nelson ORL 04/21/2012 ORL @ UTA L 39 23 9 19 47.4 3 8 37.5 2 2 100.0 0 1 1 11 1 0 4 5 -9
+p42
+aVChris Duhon ORL 04/18/2012 ORL @ BOS L 11 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -19
+p43
+aVJJ Redick ORL 04/18/2012 ORL @ BOS L 37 13 2 6 33.3 1 3 33.3 8 9 88.9 1 3 4 5 0 0 3 1 -2
+p44
+aVQuentin Richardson ORL 04/18/2012 ORL @ BOS L 23 3 1 5 20.0 1 4 25.0 0 0 - 0 5 5 0 1 0 0 6 5
+p45
+aVJason Richardson ORL 04/18/2012 ORL @ BOS L 25 11 5 12 41.7 1 5 20.0 0 2 0.0 0 6 6 1 1 0 1 0 -9
+p46
+aVRyan Anderson ORL 04/18/2012 ORL @ BOS L 39 12 4 11 36.4 0 4 0.0 4 4 100.0 5 4 9 0 1 0 2 3 5
+p47
+aVVon Wafer ORL 04/18/2012 ORL @ BOS L 11 6 3 6 50.0 0 2 0.0 0 1 0.0 0 0 0 1 1 0 0 0 -2
+p48
+aVGlen Davis ORL 04/18/2012 ORL @ BOS L 35 27 12 16 75.0 0 0 - 3 6 50.0 4 3 7 0 3 1 3 4 11
+p49
+aVJameer Nelson ORL 04/18/2012 ORL @ BOS L 37 21 7 19 36.8 3 6 50.0 4 4 100.0 2 2 4 9 1 0 1 3 15
+p50
+aVDaniel Orton ORL 04/18/2012 ORL @ BOS L 11 3 1 1 100.0 0 0 - 1 4 25.0 3 1 4 0 0 0 1 2 -11
+p51
+aVEarl Clark ORL 04/18/2012 ORL @ BOS L 10 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 1 2 2 -13
+p52
+aVQuentin Richardson ORL 04/16/2012 ORL vs. PHI W 21 13 5 9 55.6 2 3 66.7 1 1 100.0 1 2 3 0 2 0 1 1 7
+p53
+aVJameer Nelson ORL 04/16/2012 ORL vs. PHI W 35 16 7 18 38.9 2 5 40.0 0 0 - 0 4 4 13 0 0 6 1 1
+p54
+aVVon Wafer ORL 04/16/2012 ORL vs. PHI W 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 0 8
+p55
+aVDaniel Orton ORL 04/16/2012 ORL vs. PHI W 24 6 3 3 100.0 0 0 - 0 0 - 3 3 6 0 0 1 1 4 2
+p56
+aVJason Richardson ORL 04/16/2012 ORL vs. PHI W 27 17 6 10 60.0 2 3 66.7 3 3 100.0 0 2 2 3 1 0 0 0 6
+p57
+aVEarl Clark ORL 04/16/2012 ORL vs. PHI W 34 14 7 14 50.0 0 0 - 0 0 - 1 10 11 2 1 2 0 3 10
+p58
+aVRyan Anderson ORL 04/16/2012 ORL vs. PHI W 39 26 11 16 68.8 2 2 100.0 2 2 100.0 8 8 16 1 0 1 2 4 14
+p59
+aVChris Duhon ORL 04/16/2012 ORL vs. PHI W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 3 0 1 0 1 12
+p60
+aVJJ Redick ORL 04/16/2012 ORL vs. PHI W 36 18 8 16 50.0 2 4 50.0 0 0 - 0 3 3 4 0 0 0 0 5
+p61
+aVJJ Redick ORL 04/15/2012 ORL @ CLE W 33 13 4 12 33.3 3 8 37.5 2 2 100.0 1 1 2 4 0 1 1 0 13
+p62
+aVQuentin Richardson ORL 04/15/2012 ORL @ CLE W 16 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 2 9
+p63
+aVJason Richardson ORL 04/15/2012 ORL @ CLE W 32 16 6 13 46.2 4 7 57.1 0 0 - 0 6 6 3 2 1 1 4 7
+p64
+aVDaniel Orton ORL 04/15/2012 ORL @ CLE W 29 11 3 4 75.0 0 0 - 5 8 62.5 0 4 4 1 5 3 0 2 3
+p65
+aVJameer Nelson ORL 04/15/2012 ORL @ CLE W 29 21 8 14 57.1 2 4 50.0 3 3 100.0 0 7 7 9 0 0 3 2 15
+p66
+aVRyan Anderson ORL 04/15/2012 ORL @ CLE W 36 9 3 11 27.3 1 4 25.0 2 2 100.0 4 9 13 2 1 1 0 4 18
+p67
+aVGlen Davis ORL 04/15/2012 ORL @ CLE W 7 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p68
+aVEarl Clark ORL 04/15/2012 ORL @ CLE W 24 13 5 5 100.0 0 0 - 3 4 75.0 1 0 1 3 0 2 0 4 4
+p69
+aVChris Duhon ORL 04/15/2012 ORL @ CLE W 19 5 2 7 28.6 1 5 20.0 0 0 - 0 1 1 2 1 0 0 1 1
+p70
+aVVon Wafer ORL 04/15/2012 ORL @ CLE W 15 2 0 2 0.0 0 0 - 2 2 100.0 0 0 0 1 1 0 1 1 3
+p71
+aVDaniel Orton ORL 04/13/2012 ORL vs. ATL L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 0 2
+p72
+aVRyan Anderson ORL 04/13/2012 ORL vs. ATL L 34 6 2 12 16.7 0 8 0.0 2 2 100.0 3 2 5 0 0 0 0 1 -21
+p73
+aVQuentin Richardson ORL 04/13/2012 ORL vs. ATL L 8 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 1 -6
+p74
+aVJJ Redick ORL 04/13/2012 ORL vs. ATL L 21 7 2 7 28.6 1 4 25.0 2 2 100.0 0 3 3 1 1 0 0 3 -20
+p75
+aVVon Wafer ORL 04/13/2012 ORL vs. ATL L 27 16 6 11 54.5 3 4 75.0 1 2 50.0 2 6 8 4 0 0 3 1 -8
+p76
+aVDeAndre Liggins ORL 04/13/2012 ORL vs. ATL L 12 5 2 4 50.0 0 0 - 1 4 25.0 1 1 2 0 1 0 2 0 -3
+p77
+aVJason Richardson ORL 04/13/2012 ORL vs. ATL L 28 9 4 11 36.4 0 3 0.0 1 1 100.0 1 3 4 1 0 1 1 0 -19
+p78
+aVEarl Clark ORL 04/13/2012 ORL vs. ATL L 14 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -7
+p79
+aVJustin Harper ORL 04/13/2012 ORL vs. ATL L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p80
+aVGlen Davis ORL 04/13/2012 ORL vs. ATL L 32 16 8 13 61.5 0 0 - 0 1 0.0 4 5 9 1 1 0 4 2 -30
+p81
+aVIsh Smith ORL 04/13/2012 ORL vs. ATL L 18 6 3 6 50.0 0 0 - 0 0 - 0 3 3 2 1 0 3 0 -1
+p82
+aVJameer Nelson ORL 04/13/2012 ORL vs. ATL L 30 9 4 14 28.6 1 5 20.0 0 0 - 1 2 3 4 2 0 2 1 -27
+p83
+aVJJ Redick ORL 04/10/2012 ORL @ WAS L 35 15 6 14 42.9 2 7 28.6 1 1 100.0 0 4 4 3 3 0 2 2 0
+p84
+aVDaniel Orton ORL 04/10/2012 ORL @ WAS L 6 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 4
+p85
+aVJameer Nelson ORL 04/10/2012 ORL @ WAS L 32 19 8 19 42.1 3 8 37.5 0 0 - 2 2 4 7 0 0 3 3 -5
+p86
+aVRyan Anderson ORL 04/10/2012 ORL @ WAS L 39 7 2 10 20.0 1 7 14.3 2 2 100.0 2 2 4 0 2 0 3 3 -7
+p87
+aVJason Richardson ORL 04/10/2012 ORL @ WAS L 39 10 4 16 25.0 2 7 28.6 0 0 - 2 1 3 1 0 0 3 2 -16
+p88
+aVQuentin Richardson ORL 04/10/2012 ORL @ WAS L 22 14 5 8 62.5 3 5 60.0 1 2 50.0 1 3 4 0 0 0 0 2 0
+p89
+aVIsh Smith ORL 04/10/2012 ORL @ WAS L 16 8 4 8 50.0 0 0 - 0 0 - 0 5 5 3 0 1 1 0 -3
+p90
+aVGlen Davis ORL 04/10/2012 ORL @ WAS L 36 12 5 13 38.5 0 1 0.0 2 5 40.0 3 7 10 2 3 0 1 2 -10
+p91
+aVEarl Clark ORL 04/10/2012 ORL @ WAS L 15 0 0 4 0.0 0 0 - 0 0 - 2 4 6 0 0 3 0 2 -3
+p92
+aVGlen Davis ORL 04/09/2012 ORL vs. DET W 35 16 6 14 42.9 0 0 - 4 5 80.0 6 10 16 5 1 1 2 1 28
+p93
+aVQuentin Richardson ORL 04/09/2012 ORL vs. DET W 25 8 3 8 37.5 1 5 20.0 1 1 100.0 1 3 4 0 3 1 2 1 26
+p94
+aVJason Richardson ORL 04/09/2012 ORL vs. DET W 28 22 7 10 70.0 6 7 85.7 2 2 100.0 0 1 1 1 0 0 0 1 19
+p95
+aVVon Wafer ORL 04/09/2012 ORL vs. DET W 8 8 2 2 100.0 0 0 - 4 6 66.7 1 3 4 1 0 1 1 1 5
+p96
+aVJameer Nelson ORL 04/09/2012 ORL vs. DET W 29 18 5 9 55.6 2 4 50.0 6 6 100.0 0 1 1 9 1 0 3 2 10
+p97
+aVRyan Anderson ORL 04/09/2012 ORL vs. DET W 23 14 6 9 66.7 2 5 40.0 0 0 - 1 6 7 2 0 1 2 4 12
+p98
+aVJustin Harper ORL 04/09/2012 ORL vs. DET W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p99
+aVDaniel Orton ORL 04/09/2012 ORL vs. DET W 13 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 1 1 0 4 2
+p100
+aVIsh Smith ORL 04/09/2012 ORL vs. DET W 19 6 3 7 42.9 0 0 - 0 0 - 1 0 1 7 3 0 1 0 20
+p101
+aVJJ Redick ORL 04/09/2012 ORL vs. DET W 28 20 7 10 70.0 4 7 57.1 2 2 100.0 0 2 2 3 0 0 0 1 11
+p102
+aVEarl Clark ORL 04/09/2012 ORL vs. DET W 25 3 1 6 16.7 0 0 - 1 2 50.0 1 4 5 0 1 1 0 1 18
+p103
+aVDwight Howard ORL 04/07/2012 ORL @ PHI W 44 20 4 14 28.6 0 0 - 12 18 66.7 9 13 22 6 1 2 2 3 15
+p104
+aVGlen Davis ORL 04/07/2012 ORL @ PHI W 37 23 9 21 42.9 0 0 - 5 5 100.0 5 7 12 0 1 0 0 3 16
+p105
+aVChris Duhon ORL 04/07/2012 ORL @ PHI W 20 6 2 4 50.0 2 4 50.0 0 0 - 0 0 0 1 1 0 2 3 -8
+p106
+aVVon Wafer ORL 04/07/2012 ORL @ PHI W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p107
+aVJason Richardson ORL 04/07/2012 ORL @ PHI W 42 10 4 10 40.0 2 6 33.3 0 0 - 2 6 8 5 1 0 1 2 7
+p108
+aVEarl Clark ORL 04/07/2012 ORL @ PHI W 14 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -18
+p109
+aVJameer Nelson ORL 04/07/2012 ORL @ PHI W 32 8 2 12 16.7 1 6 16.7 3 4 75.0 0 5 5 3 0 0 3 4 12
+p110
+aVJJ Redick ORL 04/07/2012 ORL @ PHI W 41 19 7 13 53.8 1 4 25.0 4 4 100.0 0 4 4 1 2 0 0 0 13
+p111
+aVChris Duhon ORL 04/05/2012 ORL vs. NYK L 14 0 0 0 - 0 0 - 0 0 - 1 0 1 2 0 0 2 0 -21
+p112
+aVJameer Nelson ORL 04/05/2012 ORL vs. NYK L 32 10 3 14 21.4 3 6 50.0 1 1 100.0 1 5 6 5 1 0 3 0 4
+p113
+aVDwight Howard ORL 04/05/2012 ORL vs. NYK L 40 8 4 8 50.0 0 0 - 0 3 0.0 3 5 8 1 1 3 5 5 -9
+p114
+aVVon Wafer ORL 04/05/2012 ORL vs. NYK L 19 13 5 8 62.5 2 2 100.0 1 2 50.0 0 4 4 1 0 0 1 1 -9
+p115
+aVIsh Smith ORL 04/05/2012 ORL vs. NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p116
+aVJason Richardson ORL 04/05/2012 ORL vs. NYK L 37 16 7 18 38.9 2 9 22.2 0 0 - 0 4 4 4 1 0 1 2 -3
+p117
+aVGlen Davis ORL 04/05/2012 ORL vs. NYK L 28 15 6 10 60.0 0 0 - 3 3 100.0 3 4 7 1 0 0 0 3 -5
+p118
+aVJJ Redick ORL 04/05/2012 ORL vs. NYK L 39 10 2 7 28.6 1 5 20.0 5 5 100.0 0 0 0 1 0 0 0 1 -23
+p119
+aVDeAndre Liggins ORL 04/05/2012 ORL vs. NYK L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p120
+aVHedo Turkoglu ORL 04/05/2012 ORL vs. NYK L 18 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 0 0 0 2 1 -1
+p121
+aVEarl Clark ORL 04/05/2012 ORL vs. NYK L 9 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -15
+p122
+aVIsh Smith ORL 04/03/2012 ORL @ DET L 14 5 2 4 50.0 1 1 100.0 0 0 - 0 3 3 3 0 0 1 2 -8
+p123
+aVJJ Redick ORL 04/03/2012 ORL @ DET L 31 4 1 9 11.1 0 4 0.0 2 2 100.0 0 2 2 2 1 0 1 1 -5
+p124
+aVDaniel Orton ORL 04/03/2012 ORL @ DET L 8 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 -12
+p125
+aVJason Richardson ORL 04/03/2012 ORL @ DET L 23 10 4 10 40.0 1 5 20.0 1 2 50.0 0 0 0 1 0 0 0 3 -3
+p126
+aVHedo Turkoglu ORL 04/03/2012 ORL @ DET L 36 16 6 7 85.7 3 4 75.0 1 2 50.0 0 2 2 3 2 0 3 4 -12
+p127
+aVChris Duhon ORL 04/03/2012 ORL @ DET L 34 13 4 6 66.7 3 4 75.0 2 2 100.0 1 3 4 5 0 0 2 0 1
+p128
+aVEarl Clark ORL 04/03/2012 ORL @ DET L 24 5 2 7 28.6 0 0 - 1 2 50.0 0 3 3 2 1 0 0 1 -8
+p129
+aVQuentin Richardson ORL 04/03/2012 ORL @ DET L 30 9 3 7 42.9 1 5 20.0 2 2 100.0 0 4 4 2 2 0 2 2 7
+p130
+aVGlen Davis ORL 04/03/2012 ORL @ DET L 40 31 11 22 50.0 1 1 100.0 8 10 80.0 2 8 10 0 3 1 0 2 5
+p131
+aVChris Duhon ORL 04/01/2012 ORL vs. DEN L 13 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p132
+aVRyan Anderson ORL 04/01/2012 ORL vs. DEN L 39 20 7 18 38.9 3 10 30.0 3 3 100.0 5 4 9 1 1 0 0 0 8
+p133
+aVJJ Redick ORL 04/01/2012 ORL vs. DEN L 28 15 4 8 50.0 2 3 66.7 5 5 100.0 0 1 1 3 0 0 2 1 -5
+p134
+aVGlen Davis ORL 04/01/2012 ORL vs. DEN L 37 18 6 14 42.9 0 1 0.0 6 11 54.5 9 7 16 0 1 1 1 4 -2
+p135
+aVHedo Turkoglu ORL 04/01/2012 ORL vs. DEN L 37 11 4 10 40.0 1 4 25.0 2 2 100.0 0 6 6 4 2 0 2 2 -5
+p136
+aVJason Richardson ORL 04/01/2012 ORL vs. DEN L 32 6 3 12 25.0 0 6 0.0 0 0 - 0 3 3 1 1 2 1 2 5
+p137
+aVEarl Clark ORL 04/01/2012 ORL vs. DEN L 19 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -13
+p138
+aVJameer Nelson ORL 04/01/2012 ORL vs. DEN L 35 27 11 21 52.4 2 8 25.0 3 4 75.0 2 1 3 5 1 0 4 4 2
+p139
+aVJJ Redick ORL 03/30/2012 ORL vs. DAL L 25 2 0 6 0.0 0 5 0.0 2 3 66.7 0 2 2 2 0 0 3 1 -11
+p140
+aVEarl Clark ORL 03/30/2012 ORL vs. DAL L 14 4 2 4 50.0 0 0 - 0 0 - 2 5 7 1 1 0 2 4 -1
+p141
+aVDwight Howard ORL 03/30/2012 ORL vs. DAL L 44 19 6 13 46.2 0 0 - 7 16 43.8 1 14 15 1 2 1 0 3 2
+p142
+aVHedo Turkoglu ORL 03/30/2012 ORL vs. DAL L 38 12 5 11 45.5 1 5 20.0 1 1 100.0 0 4 4 4 1 0 5 4 2
+p143
+aVJason Richardson ORL 03/30/2012 ORL vs. DAL L 33 6 2 7 28.6 2 6 33.3 0 0 - 0 5 5 2 1 3 1 2 5
+p144
+aVGlen Davis ORL 03/30/2012 ORL vs. DAL L 7 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 1 0 0 0 -5
+p145
+aVRyan Anderson ORL 03/30/2012 ORL vs. DAL L 32 21 6 12 50.0 3 6 50.0 6 6 100.0 4 2 6 1 1 0 0 5 0
+p146
+aVJameer Nelson ORL 03/30/2012 ORL vs. DAL L 32 24 10 17 58.8 3 7 42.9 1 2 50.0 2 5 7 4 0 0 3 2 13
+p147
+aVChris Duhon ORL 03/30/2012 ORL vs. DAL L 16 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 2 0 -15
+p148
+aVDeAndre Liggins ORL 03/28/2012 ORL @ NYK L 3 4 1 1 100.0 0 0 - 2 3 66.7 0 0 0 1 0 0 1 0 6
+p149
+aVEarl Clark ORL 03/28/2012 ORL @ NYK L 20 0 0 2 0.0 0 0 - 0 0 - 0 5 5 0 1 1 1 1 1
+p150
+aVRyan Anderson ORL 03/28/2012 ORL @ NYK L 16 3 1 4 25.0 1 3 33.3 0 0 - 2 0 2 0 0 0 2 1 -10
+p151
+aVDwight Howard ORL 03/28/2012 ORL @ NYK L 28 12 4 7 57.1 0 0 - 4 6 66.7 1 4 5 2 2 0 6 4 -31
+p152
+aVJameer Nelson ORL 03/28/2012 ORL @ NYK L 29 17 7 14 50.0 2 6 33.3 1 3 33.3 1 1 2 4 0 0 2 1 -23
+p153
+aVVon Wafer ORL 03/28/2012 ORL @ NYK L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p154
+aVIsh Smith ORL 03/28/2012 ORL @ NYK L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 6
+p155
+aVJJ Redick ORL 03/28/2012 ORL @ NYK L 26 15 5 8 62.5 3 5 60.0 2 3 66.7 0 4 4 1 0 0 1 1 -12
+p156
+aVChris Duhon ORL 03/28/2012 ORL @ NYK L 16 7 3 3 100.0 1 1 100.0 0 0 - 1 2 3 3 0 0 1 0 -5
+p157
+aVGlen Davis ORL 03/28/2012 ORL @ NYK L 25 10 4 10 40.0 0 1 0.0 2 6 33.3 3 3 6 0 1 1 1 1 9
+p158
+aVHedo Turkoglu ORL 03/28/2012 ORL @ NYK L 21 5 2 7 28.6 0 3 0.0 1 1 100.0 0 4 4 2 1 0 1 2 -26
+p159
+aVQuentin Richardson ORL 03/28/2012 ORL @ NYK L 27 8 2 7 28.6 1 4 25.0 3 4 75.0 0 2 2 0 0 0 2 4 -8
+p160
+aVJason Richardson ORL 03/28/2012 ORL @ NYK L 21 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 0 1 0 0 0 -20
+p161
+aVEarl Clark ORL 03/26/2012 ORL @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p162
+aVChris Duhon ORL 03/26/2012 ORL @ TOR W 19 7 3 5 60.0 1 2 50.0 0 0 - 0 1 1 2 1 1 0 0 0
+p163
+aVRyan Anderson ORL 03/26/2012 ORL @ TOR W 35 28 9 15 60.0 8 13 61.5 2 2 100.0 2 4 6 0 0 0 1 2 28
+p164
+aVDwight Howard ORL 03/26/2012 ORL @ TOR W 37 23 8 14 57.1 0 0 - 7 10 70.0 4 6 10 3 2 2 3 2 17
+p165
+aVIsh Smith ORL 03/26/2012 ORL @ TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p166
+aVJason Richardson ORL 03/26/2012 ORL @ TOR W 24 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 0 1 1 1 2 14
+p167
+aVQuentin Richardson ORL 03/26/2012 ORL @ TOR W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 -13
+p168
+aVGlen Davis ORL 03/26/2012 ORL @ TOR W 23 13 5 8 62.5 0 0 - 3 5 60.0 2 5 7 1 0 0 1 1 -12
+p169
+aVJJ Redick ORL 03/26/2012 ORL @ TOR W 22 12 5 8 62.5 2 5 40.0 0 0 - 0 2 2 4 0 0 1 3 3
+p170
+aVJameer Nelson ORL 03/26/2012 ORL @ TOR W 27 18 8 11 72.7 2 3 66.7 0 0 - 0 3 3 7 2 0 0 2 17
+p171
+aVDeAndre Liggins ORL 03/26/2012 ORL @ TOR W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p172
+aVHedo Turkoglu ORL 03/26/2012 ORL @ TOR W 35 7 2 9 22.2 1 7 14.3 2 2 100.0 0 4 4 8 2 1 0 3 29
+p173
+aVRyan Anderson ORL 03/23/2012 ORL vs. CLE W 36 17 5 14 35.7 3 11 27.3 4 4 100.0 5 3 8 0 3 2 1 2 15
+p174
+aVHedo Turkoglu ORL 03/23/2012 ORL vs. CLE W 35 15 6 10 60.0 3 5 60.0 0 0 - 1 5 6 7 0 1 4 4 21
+p175
+aVQuentin Richardson ORL 03/23/2012 ORL vs. CLE W 9 2 1 5 20.0 0 4 0.0 0 0 - 0 1 1 0 1 0 1 0 -8
+p176
+aVGlen Davis ORL 03/23/2012 ORL vs. CLE W 24 9 4 12 33.3 0 0 - 1 2 50.0 2 4 6 3 1 1 1 1 6
+p177
+aVJJ Redick ORL 03/23/2012 ORL vs. CLE W 26 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 4 0 0 0 2 12
+p178
+aVEarl Clark ORL 03/23/2012 ORL vs. CLE W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p179
+aVJameer Nelson ORL 03/23/2012 ORL vs. CLE W 28 10 4 10 40.0 2 5 40.0 0 0 - 0 3 3 7 0 0 1 1 13
+p180
+aVDaniel Orton ORL 03/23/2012 ORL vs. CLE W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p181
+aVIsh Smith ORL 03/23/2012 ORL vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p182
+aVJason Richardson ORL 03/23/2012 ORL vs. CLE W 24 11 5 8 62.5 1 4 25.0 0 0 - 0 3 3 0 1 1 2 3 5
+p183
+aVDeAndre Liggins ORL 03/23/2012 ORL vs. CLE W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p184
+aVChris Duhon ORL 03/23/2012 ORL vs. CLE W 18 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 2 2 0 2 2 4
+p185
+aVDwight Howard ORL 03/23/2012 ORL vs. CLE W 31 16 7 8 87.5 0 0 - 2 6 33.3 3 10 13 1 2 2 3 4 12
+p186
+aVGlen Davis ORL 03/21/2012 ORL vs. PHX W 21 16 6 12 50.0 0 0 - 4 5 80.0 3 4 7 2 1 0 0 1 5
+p187
+aVDwight Howard ORL 03/21/2012 ORL vs. PHX W 35 28 11 16 68.8 0 0 - 6 10 60.0 6 10 16 0 0 3 2 0 14
+p188
+aVRyan Anderson ORL 03/21/2012 ORL vs. PHX W 38 29 9 16 56.3 7 12 58.3 4 6 66.7 2 2 4 1 0 0 3 1 7
+p189
+aVJJ Redick ORL 03/21/2012 ORL vs. PHX W 24 10 4 8 50.0 2 4 50.0 0 0 - 0 1 1 4 1 0 4 1 10
+p190
+aVDeAndre Liggins ORL 03/21/2012 ORL vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p191
+aVHedo Turkoglu ORL 03/21/2012 ORL vs. PHX W 25 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 3 2 1 3 1 10
+p192
+aVJameer Nelson ORL 03/21/2012 ORL vs. PHX W 26 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 3 1 0 1 4 6
+p193
+aVEarl Clark ORL 03/21/2012 ORL vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -6
+p194
+aVChris Duhon ORL 03/21/2012 ORL vs. PHX W 20 2 1 6 16.7 0 0 - 0 0 - 0 2 2 3 0 0 1 0 10
+p195
+aVJason Richardson ORL 03/21/2012 ORL vs. PHX W 23 0 0 7 0.0 0 3 0.0 0 0 - 2 4 6 5 1 0 2 1 6
+p196
+aVQuentin Richardson ORL 03/21/2012 ORL vs. PHX W 22 2 1 5 20.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 2 6
+p197
+aVJustin Harper ORL 03/21/2012 ORL vs. PHX W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p198
+aVIsh Smith ORL 03/21/2012 ORL vs. PHX W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p199
+aVJJ Redick ORL 03/19/2012 ORL vs. CHI L 20 3 1 7 14.3 0 2 0.0 1 2 50.0 0 1 1 2 1 0 1 0 -13
+p200
+aVHedo Turkoglu ORL 03/19/2012 ORL vs. CHI L 25 7 3 6 50.0 1 2 50.0 0 2 0.0 0 4 4 1 1 1 2 3 0
+p201
+aVChris Duhon ORL 03/19/2012 ORL vs. CHI L 15 1 0 3 0.0 0 2 0.0 1 1 100.0 0 3 3 0 1 0 2 0 -20
+p202
+aVGlen Davis ORL 03/19/2012 ORL vs. CHI L 23 5 1 5 20.0 0 0 - 3 6 50.0 2 5 7 0 2 1 0 1 -16
+p203
+aVDwight Howard ORL 03/19/2012 ORL vs. CHI L 41 18 8 12 66.7 0 0 - 2 7 28.6 4 8 12 2 1 3 4 3 -25
+p204
+aVJameer Nelson ORL 03/19/2012 ORL vs. CHI L 30 9 4 11 36.4 1 4 25.0 0 0 - 1 2 3 1 0 0 5 2 -2
+p205
+aVIsh Smith ORL 03/19/2012 ORL vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p206
+aVQuentin Richardson ORL 03/19/2012 ORL vs. CHI L 19 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -22
+p207
+aVDeAndre Liggins ORL 03/19/2012 ORL vs. CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p208
+aVJason Richardson ORL 03/19/2012 ORL vs. CHI L 28 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 2 1 0 2 1 -13
+p209
+aVRyan Anderson ORL 03/19/2012 ORL vs. CHI L 30 10 4 13 30.8 2 8 25.0 0 0 - 2 3 5 0 0 0 1 1 -11
+p210
+aVEarl Clark ORL 03/19/2012 ORL vs. CHI L 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p211
+aVDwight Howard ORL 03/18/2012 ORL @ MIA L 41 18 7 17 41.2 0 0 - 4 10 40.0 2 9 11 2 0 0 4 3 -12
+p212
+aVRyan Anderson ORL 03/18/2012 ORL @ MIA L 23 5 2 6 33.3 1 3 33.3 0 0 - 2 1 3 0 0 2 0 3 -9
+p213
+aVGlen Davis ORL 03/18/2012 ORL @ MIA L 21 9 3 7 42.9 0 0 - 3 5 60.0 1 3 4 0 1 0 1 1 2
+p214
+aVHedo Turkoglu ORL 03/18/2012 ORL @ MIA L 28 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 3 1 0 3 2 -11
+p215
+aVQuentin Richardson ORL 03/18/2012 ORL @ MIA L 29 15 5 8 62.5 5 7 71.4 0 0 - 0 4 4 2 1 0 0 3 -1
+p216
+aVJameer Nelson ORL 03/18/2012 ORL @ MIA L 34 13 5 14 35.7 1 6 16.7 2 3 66.7 0 1 1 6 3 0 3 2 -8
+p217
+aVJJ Redick ORL 03/18/2012 ORL @ MIA L 18 4 1 4 25.0 0 1 0.0 2 2 100.0 1 3 4 3 0 0 4 1 2
+p218
+aVChris Duhon ORL 03/18/2012 ORL @ MIA L 14 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 1 1 0 2 0 -2
+p219
+aVJason Richardson ORL 03/18/2012 ORL @ MIA L 32 12 5 13 38.5 1 6 16.7 1 1 100.0 1 3 4 1 2 0 1 4 -11
+p220
+aVJameer Nelson ORL 03/16/2012 ORL vs. NJN W 27 13 5 8 62.5 3 4 75.0 0 0 - 1 3 4 6 1 0 4 1 22
+p221
+aVJJ Redick ORL 03/16/2012 ORL vs. NJN W 27 6 2 7 28.6 1 5 20.0 1 2 50.0 0 4 4 2 1 0 1 2 -6
+p222
+aVRyan Anderson ORL 03/16/2012 ORL vs. NJN W 35 12 4 11 36.4 1 7 14.3 3 4 75.0 2 9 11 2 1 2 2 2 22
+p223
+aVHedo Turkoglu ORL 03/16/2012 ORL vs. NJN W 31 10 3 8 37.5 1 5 20.0 3 4 75.0 0 2 2 6 0 0 4 3 16
+p224
+aVDwight Howard ORL 03/16/2012 ORL vs. NJN W 32 18 8 10 80.0 0 0 - 2 3 66.7 0 6 6 2 1 3 1 1 6
+p225
+aVEarl Clark ORL 03/16/2012 ORL vs. NJN W 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -4
+p226
+aVJason Richardson ORL 03/16/2012 ORL vs. NJN W 36 10 4 9 44.4 2 5 40.0 0 0 - 0 5 5 3 3 1 2 2 24
+p227
+aVChris Duhon ORL 03/16/2012 ORL vs. NJN W 21 2 1 3 33.3 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 -6
+p228
+aVGlen Davis ORL 03/16/2012 ORL vs. NJN W 21 13 6 9 66.7 0 1 0.0 1 1 100.0 1 4 5 0 0 0 3 0 8
+p229
+aVDeAndre Liggins ORL 03/16/2012 ORL vs. NJN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p230
+aVGlen Davis ORL 03/14/2012 ORL @ SAS L 19 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -8
+p231
+aVQuentin Richardson ORL 03/14/2012 ORL @ SAS L 15 5 2 3 66.7 1 2 50.0 0 0 - 1 3 4 1 0 0 0 0 -10
+p232
+aVDeAndre Liggins ORL 03/14/2012 ORL @ SAS L 12 6 3 4 75.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 -2
+p233
+aVChris Duhon ORL 03/14/2012 ORL @ SAS L 16 7 2 3 66.7 1 2 50.0 2 2 100.0 0 1 1 2 0 0 0 2 -8
+p234
+aVDwight Howard ORL 03/14/2012 ORL @ SAS L 39 22 9 16 56.3 0 0 - 4 10 40.0 2 10 12 1 2 3 3 2 -13
+p235
+aVRyan Anderson ORL 03/14/2012 ORL @ SAS L 35 19 8 15 53.3 2 5 40.0 1 1 100.0 4 4 8 2 1 2 0 4 -1
+p236
+aVHedo Turkoglu ORL 03/14/2012 ORL @ SAS L 38 17 7 16 43.8 2 7 28.6 1 1 100.0 0 4 4 4 0 1 1 1 1
+p237
+aVJJ Redick ORL 03/14/2012 ORL @ SAS L 34 6 3 8 37.5 0 3 0.0 0 0 - 0 2 2 1 0 0 1 3 -11
+p238
+aVJameer Nelson ORL 03/14/2012 ORL @ SAS L 32 25 9 15 60.0 5 7 71.4 2 2 100.0 0 5 5 7 0 1 0 5 -3
+p239
+aVJameer Nelson ORL 03/13/2012 ORL vs. MIA W 38 25 10 16 62.5 4 7 57.1 1 2 50.0 0 1 1 4 2 0 4 1 -3
+p240
+aVJustin Harper ORL 03/13/2012 ORL vs. MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p241
+aVDwight Howard ORL 03/13/2012 ORL vs. MIA W 47 24 9 13 69.2 0 0 - 6 18 33.3 4 21 25 1 3 2 2 1 5
+p242
+aVHedo Turkoglu ORL 03/13/2012 ORL vs. MIA W 38 7 3 8 37.5 1 3 33.3 0 0 - 0 6 6 5 2 0 6 4 15
+p243
+aVJJ Redick ORL 03/13/2012 ORL vs. MIA W 43 17 4 10 40.0 3 8 37.5 6 7 85.7 0 1 1 3 2 0 3 2 26
+p244
+aVChris Duhon ORL 03/13/2012 ORL vs. MIA W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 2 1 0 2 3 9
+p245
+aVGlen Davis ORL 03/13/2012 ORL vs. MIA W 18 6 2 7 28.6 0 0 - 2 2 100.0 0 1 1 1 1 0 0 1 9
+p246
+aVQuentin Richardson ORL 03/13/2012 ORL vs. MIA W 19 9 2 4 50.0 1 2 50.0 4 5 80.0 0 0 0 1 0 0 0 3 -16
+p247
+aVRyan Anderson ORL 03/13/2012 ORL vs. MIA W 40 16 6 11 54.5 2 5 40.0 2 3 66.7 7 5 12 2 2 0 4 0 -1
+p248
+aVDeAndre Liggins ORL 03/13/2012 ORL vs. MIA W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 -14
+p249
+aVDaniel Orton ORL 03/11/2012 ORL vs. IND W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p250
+aVGlen Davis ORL 03/11/2012 ORL vs. IND W 21 8 3 8 37.5 0 1 0.0 2 2 100.0 0 1 1 0 0 0 4 3 8
+p251
+aVQuentin Richardson ORL 03/11/2012 ORL vs. IND W 23 10 2 7 28.6 1 4 25.0 5 5 100.0 0 2 2 0 1 1 0 0 7
+p252
+aVDeAndre Liggins ORL 03/11/2012 ORL vs. IND W 5 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -16
+p253
+aVIsh Smith ORL 03/11/2012 ORL vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p254
+aVJJ Redick ORL 03/11/2012 ORL vs. IND W 32 18 7 14 50.0 3 7 42.9 1 1 100.0 0 3 3 9 0 0 0 1 35
+p255
+aVJameer Nelson ORL 03/11/2012 ORL vs. IND W 24 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 4 2 1 0 2 10
+p256
+aVChris Duhon ORL 03/11/2012 ORL vs. IND W 21 9 3 4 75.0 3 4 75.0 0 0 - 0 2 2 1 0 0 1 0 13
+p257
+aVDwight Howard ORL 03/11/2012 ORL vs. IND W 37 30 11 14 78.6 0 0 - 8 12 66.7 5 8 13 5 4 1 3 3 17
+p258
+aVEarl Clark ORL 03/11/2012 ORL vs. IND W 25 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 2 0 0 1 2 6
+p259
+aVRyan Anderson ORL 03/11/2012 ORL vs. IND W 29 12 4 11 36.4 2 6 33.3 2 2 100.0 4 5 9 0 0 1 1 2 26
+p260
+aVVon Wafer ORL 03/11/2012 ORL vs. IND W 16 5 1 6 16.7 0 2 0.0 3 6 50.0 0 3 3 0 0 0 1 0 -22
+p261
+aVJameer Nelson ORL 03/08/2012 ORL @ CHI W 32 9 3 8 37.5 1 3 33.3 2 2 100.0 1 3 4 7 0 0 4 0 10
+p262
+aVDwight Howard ORL 03/08/2012 ORL @ CHI W 42 29 11 19 57.9 0 0 - 7 10 70.0 7 11 18 0 0 3 4 4 13
+p263
+aVChris Duhon ORL 03/08/2012 ORL @ CHI W 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 1 -5
+p264
+aVGlen Davis ORL 03/08/2012 ORL @ CHI W 30 8 3 8 37.5 0 0 - 2 4 50.0 4 3 7 1 1 1 0 1 3
+p265
+aVJJ Redick ORL 03/08/2012 ORL @ CHI W 19 9 2 4 50.0 1 2 50.0 4 6 66.7 0 1 1 1 0 0 0 1 3
+p266
+aVRyan Anderson ORL 03/08/2012 ORL @ CHI W 25 11 3 9 33.3 3 8 37.5 2 2 100.0 4 6 10 0 1 0 2 4 -6
+p267
+aVJason Richardson ORL 03/08/2012 ORL @ CHI W 31 18 7 15 46.7 4 6 66.7 0 0 - 0 2 2 0 0 0 2 4 5
+p268
+aVHedo Turkoglu ORL 03/08/2012 ORL @ CHI W 39 13 3 10 30.0 2 6 33.3 5 5 100.0 1 5 6 6 1 0 1 0 2
+p269
+aVQuentin Richardson ORL 03/08/2012 ORL @ CHI W 7 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 0
+p270
+aVQuentin Richardson ORL 03/06/2012 ORL @ CHA L 21 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 3 1 0 0 0 -5
+p271
+aVDwight Howard ORL 03/06/2012 ORL @ CHA L 39 15 6 13 46.2 0 0 - 3 8 37.5 7 10 17 0 1 2 4 3 -12
+p272
+aVGlen Davis ORL 03/06/2012 ORL @ CHA L 21 8 3 8 37.5 0 0 - 2 4 50.0 1 2 3 0 1 0 2 3 3
+p273
+aVChris Duhon ORL 03/06/2012 ORL @ CHA L 16 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 1 0 1 2 0
+p274
+aVJJ Redick ORL 03/06/2012 ORL @ CHA L 25 14 5 11 45.5 4 7 57.1 0 0 - 1 3 4 3 0 0 2 5 -7
+p275
+aVEarl Clark ORL 03/06/2012 ORL @ CHA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p276
+aVRyan Anderson ORL 03/06/2012 ORL @ CHA L 35 14 5 15 33.3 2 10 20.0 2 2 100.0 4 7 11 3 0 1 1 3 -17
+p277
+aVHedo Turkoglu ORL 03/06/2012 ORL @ CHA L 28 6 2 10 20.0 2 6 33.3 0 0 - 1 0 1 1 0 1 4 4 -15
+p278
+aVJason Richardson ORL 03/06/2012 ORL @ CHA L 22 9 3 10 30.0 1 5 20.0 2 3 66.7 0 1 1 2 0 0 2 4 -5
+p279
+aVJameer Nelson ORL 03/06/2012 ORL @ CHA L 32 7 3 8 37.5 1 3 33.3 0 0 - 0 4 4 4 0 1 1 1 -16
+p280
+aVDwight Howard ORL 03/05/2012 ORL @ TOR W 36 36 16 20 80.0 0 0 - 4 14 28.6 3 10 13 0 1 2 2 3 6
+p281
+aVChris Duhon ORL 03/05/2012 ORL @ TOR W 15 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 1 2
+p282
+aVJason Richardson ORL 03/05/2012 ORL @ TOR W 37 6 2 10 20.0 1 7 14.3 1 2 50.0 0 5 5 2 0 0 1 1 -10
+p283
+aVGlen Davis ORL 03/05/2012 ORL @ TOR W 22 4 2 5 40.0 0 0 - 0 2 0.0 0 6 6 2 0 0 1 1 11
+p284
+aVJJ Redick ORL 03/05/2012 ORL @ TOR W 32 13 3 10 30.0 3 4 75.0 4 6 66.7 1 1 2 6 0 1 0 2 12
+p285
+aVRyan Anderson ORL 03/05/2012 ORL @ TOR W 30 19 7 16 43.8 1 5 20.0 4 4 100.0 7 6 13 0 0 0 2 2 -8
+p286
+aVJameer Nelson ORL 03/05/2012 ORL @ TOR W 33 11 4 10 40.0 3 6 50.0 0 0 - 1 1 2 6 1 0 5 3 2
+p287
+aVHedo Turkoglu ORL 03/05/2012 ORL @ TOR W 35 0 0 6 0.0 0 4 0.0 0 0 - 0 1 1 9 1 0 1 3 5
+p288
+aVEarl Clark ORL 03/03/2012 ORL vs. MIL W 7 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 2 2 -14
+p289
+aVIsh Smith ORL 03/03/2012 ORL vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 0
+p290
+aVVon Wafer ORL 03/03/2012 ORL vs. MIL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -12
+p291
+aVJason Richardson ORL 03/03/2012 ORL vs. MIL W 34 18 8 15 53.3 2 6 33.3 0 0 - 2 3 5 3 2 1 2 2 23
+p292
+aVChris Duhon ORL 03/03/2012 ORL vs. MIL W 22 12 4 6 66.7 4 5 80.0 0 0 - 1 0 1 1 0 0 2 1 1
+p293
+aVGlen Davis ORL 03/03/2012 ORL vs. MIL W 19 2 1 5 20.0 0 0 - 0 1 0.0 3 6 9 1 0 1 3 2 5
+p294
+aVDaniel Orton ORL 03/03/2012 ORL vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p295
+aVDwight Howard ORL 03/03/2012 ORL vs. MIL W 39 28 11 17 64.7 0 0 - 6 14 42.9 4 10 14 0 4 1 5 4 29
+p296
+aVHedo Turkoglu ORL 03/03/2012 ORL vs. MIL W 30 16 6 10 60.0 2 4 50.0 2 3 66.7 1 4 5 9 0 0 2 4 20
+p297
+aVRyan Anderson ORL 03/03/2012 ORL vs. MIL W 27 16 4 9 44.4 3 6 50.0 5 5 100.0 1 5 6 1 5 1 1 3 9
+p298
+aVJameer Nelson ORL 03/03/2012 ORL vs. MIL W 25 8 3 6 50.0 1 2 50.0 1 2 50.0 1 1 2 10 0 0 1 4 15
+p299
+aVJJ Redick ORL 03/03/2012 ORL vs. MIL W 29 14 5 11 45.5 2 4 50.0 2 2 100.0 0 2 2 1 0 0 0 2 4
+p300
+aVEarl Clark ORL 03/01/2012 ORL vs. OKC L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 5 -6
+p301
+aVJJ Redick ORL 03/01/2012 ORL vs. OKC L 22 2 1 6 16.7 0 2 0.0 0 0 - 1 1 2 5 0 0 2 3 -5
+p302
+aVGlen Davis ORL 03/01/2012 ORL vs. OKC L 15 4 1 8 12.5 0 0 - 2 2 100.0 1 4 5 1 0 0 0 0 3
+p303
+aVDwight Howard ORL 03/01/2012 ORL vs. OKC L 39 33 14 20 70.0 0 0 - 5 8 62.5 5 4 9 2 2 1 3 2 0
+p304
+aVJameer Nelson ORL 03/01/2012 ORL vs. OKC L 32 15 6 14 42.9 2 6 33.3 1 2 50.0 1 5 6 9 1 0 2 3 -7
+p305
+aVChris Duhon ORL 03/01/2012 ORL vs. OKC L 16 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 4
+p306
+aVHedo Turkoglu ORL 03/01/2012 ORL vs. OKC L 37 11 4 6 66.7 1 2 50.0 2 3 66.7 0 3 3 3 1 0 1 2 -7
+p307
+aVDeAndre Liggins ORL 03/01/2012 ORL vs. OKC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p308
+aVJason Richardson ORL 03/01/2012 ORL vs. OKC L 33 16 5 14 35.7 3 8 37.5 3 4 75.0 2 4 6 2 1 0 1 1 1
+p309
+aVRyan Anderson ORL 03/01/2012 ORL vs. OKC L 31 15 6 12 50.0 3 7 42.9 0 0 - 0 4 4 2 0 0 1 3 -1
+p310
+aVJason Richardson ORL 02/29/2012 ORL @ WAS W 30 12 5 13 38.5 2 6 33.3 0 0 - 0 2 2 2 1 0 1 2 5
+p311
+aVGlen Davis ORL 02/29/2012 ORL @ WAS W 21 12 5 8 62.5 0 0 - 2 4 50.0 1 2 3 0 0 0 2 2 1
+p312
+aVHedo Turkoglu ORL 02/29/2012 ORL @ WAS W 32 11 4 9 44.4 2 6 33.3 1 2 50.0 2 5 7 6 2 2 0 2 13
+p313
+aVDeAndre Liggins ORL 02/29/2012 ORL @ WAS W 16 0 0 0 - 0 0 - 0 0 - 1 2 3 0 3 0 0 1 -6
+p314
+aVJameer Nelson ORL 02/29/2012 ORL @ WAS W 32 12 4 12 33.3 4 9 44.4 0 0 - 2 3 5 4 0 0 2 4 12
+p315
+aVDwight Howard ORL 02/29/2012 ORL @ WAS W 38 14 4 9 44.4 0 0 - 6 11 54.5 4 8 12 1 1 5 4 2 1
+p316
+aVChris Duhon ORL 02/29/2012 ORL @ WAS W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 4 0 1 5 2 -5
+p317
+aVRyan Anderson ORL 02/29/2012 ORL @ WAS W 37 23 6 14 42.9 4 10 40.0 7 7 100.0 5 10 15 3 0 0 2 3 12
+p318
+aVJJ Redick ORL 02/29/2012 ORL @ WAS W 18 15 5 8 62.5 2 3 66.7 3 3 100.0 1 0 1 0 0 0 0 2 2
+p319
+aVQuentin Richardson ORL 02/23/2012 ORL @ ATL L 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 1 -8
+p320
+aVVon Wafer ORL 02/23/2012 ORL @ ATL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p321
+aVIsh Smith ORL 02/23/2012 ORL @ ATL L 19 8 2 7 28.6 0 2 0.0 4 4 100.0 2 3 5 4 2 0 0 0 -8
+p322
+aVDwight Howard ORL 02/23/2012 ORL @ ATL L 40 12 5 7 71.4 0 0 - 2 5 40.0 2 10 12 3 2 5 3 1 -3
+p323
+aVJJ Redick ORL 02/23/2012 ORL @ ATL L 25 13 5 10 50.0 2 4 50.0 1 2 50.0 1 1 2 1 1 0 0 1 -4
+p324
+aVGlen Davis ORL 02/23/2012 ORL @ ATL L 21 6 3 7 42.9 0 0 - 0 0 - 1 3 4 0 2 0 1 3 -4
+p325
+aVEarl Clark ORL 02/23/2012 ORL @ ATL L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p326
+aVHedo Turkoglu ORL 02/23/2012 ORL @ ATL L 35 11 4 16 25.0 1 9 11.1 2 2 100.0 0 3 3 4 1 1 4 3 4
+p327
+aVJason Richardson ORL 02/23/2012 ORL @ ATL L 23 7 3 10 30.0 1 6 16.7 0 0 - 0 5 5 3 2 0 1 1 -1
+p328
+aVRyan Anderson ORL 02/23/2012 ORL @ ATL L 31 10 4 13 30.8 2 6 33.3 0 0 - 3 2 5 0 1 1 1 3 1
+p329
+aVChris Duhon ORL 02/23/2012 ORL @ ATL L 28 6 3 9 33.3 0 4 0.0 0 0 - 1 2 3 4 1 1 2 5 1
+p330
+aVDaniel Orton ORL 02/22/2012 ORL @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p331
+aVJJ Redick ORL 02/22/2012 ORL @ NJN W 27 12 4 9 44.4 4 7 57.1 0 0 - 0 3 3 6 0 0 1 1 26
+p332
+aVHedo Turkoglu ORL 02/22/2012 ORL @ NJN W 28 10 4 10 40.0 2 6 33.3 0 0 - 0 2 2 3 0 1 2 2 13
+p333
+aVChris Duhon ORL 02/22/2012 ORL @ NJN W 17 11 4 5 80.0 3 4 75.0 0 0 - 0 4 4 3 0 0 2 0 12
+p334
+aVVon Wafer ORL 02/22/2012 ORL @ NJN W 21 8 4 6 66.7 0 1 0.0 0 0 - 0 2 2 2 0 0 2 2 -9
+p335
+aVDwight Howard ORL 02/22/2012 ORL @ NJN W 34 20 9 13 69.2 0 0 - 2 10 20.0 7 10 17 4 2 2 2 2 12
+p336
+aVIsh Smith ORL 02/22/2012 ORL @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p337
+aVDeAndre Liggins ORL 02/22/2012 ORL @ NJN W 4 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p338
+aVGlen Davis ORL 02/22/2012 ORL @ NJN W 21 16 8 11 72.7 0 0 - 0 1 0.0 0 3 3 0 0 0 0 0 5
+p339
+aVRyan Anderson ORL 02/22/2012 ORL @ NJN W 24 14 5 15 33.3 2 6 33.3 2 2 100.0 7 2 9 3 2 1 0 0 16
+p340
+aVEarl Clark ORL 02/22/2012 ORL @ NJN W 11 2 1 3 33.3 0 0 - 0 0 - 2 3 5 1 0 0 2 1 -2
+p341
+aVQuentin Richardson ORL 02/22/2012 ORL @ NJN W 20 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 0 17
+p342
+aVJameer Nelson ORL 02/22/2012 ORL @ NJN W 28 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 7 1 0 1 2 10
+p343
+aVRyan Anderson ORL 02/20/2012 ORL @ MIL W 32 9 3 7 42.9 2 4 50.0 1 2 50.0 6 5 11 0 1 1 1 3 8
+p344
+aVHedo Turkoglu ORL 02/20/2012 ORL @ MIL W 34 13 5 10 50.0 3 4 75.0 0 0 - 1 3 4 3 0 0 1 3 1
+p345
+aVDeAndre Liggins ORL 02/20/2012 ORL @ MIL W 10 3 0 0 - 0 0 - 3 4 75.0 0 2 2 0 0 0 1 0 3
+p346
+aVJameer Nelson ORL 02/20/2012 ORL @ MIL W 30 15 6 11 54.5 1 4 25.0 2 2 100.0 1 2 3 5 1 0 1 3 1
+p347
+aVDwight Howard ORL 02/20/2012 ORL @ MIL W 42 28 9 20 45.0 0 1 0.0 10 14 71.4 6 10 16 4 3 1 7 3 6
+p348
+aVChris Duhon ORL 02/20/2012 ORL @ MIL W 18 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 1 0 0 2 2
+p349
+aVJJ Redick ORL 02/20/2012 ORL @ MIL W 35 11 4 9 44.4 2 5 40.0 1 1 100.0 0 3 3 2 0 0 4 2 4
+p350
+aVVon Wafer ORL 02/20/2012 ORL @ MIL W 13 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p351
+aVQuentin Richardson ORL 02/20/2012 ORL @ MIL W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p352
+aVGlen Davis ORL 02/20/2012 ORL @ MIL W 22 12 5 9 55.6 0 1 0.0 2 2 100.0 2 4 6 1 0 0 0 1 -8
+p353
+aVChris Duhon ORL 02/19/2012 ORL @ MIA L 18 1 0 3 0.0 0 3 0.0 1 2 50.0 0 1 1 2 0 1 1 1 6
+p354
+aVJustin Harper ORL 02/19/2012 ORL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p355
+aVGlen Davis ORL 02/19/2012 ORL @ MIA L 22 12 3 10 30.0 0 0 - 6 6 100.0 2 1 3 1 1 1 0 1 -5
+p356
+aVJJ Redick ORL 02/19/2012 ORL @ MIA L 34 17 6 10 60.0 5 7 71.4 0 0 - 0 0 0 1 0 0 2 1 -19
+p357
+aVQuentin Richardson ORL 02/19/2012 ORL @ MIA L 24 10 4 9 44.4 2 5 40.0 0 0 - 0 9 9 1 0 0 0 0 2
+p358
+aVJameer Nelson ORL 02/19/2012 ORL @ MIA L 30 7 2 11 18.2 1 4 25.0 2 2 100.0 1 3 4 4 0 0 3 1 -18
+p359
+aVRyan Anderson ORL 02/19/2012 ORL @ MIA L 31 9 3 8 37.5 2 5 40.0 1 2 50.0 2 4 6 0 1 0 1 2 -23
+p360
+aVEarl Clark ORL 02/19/2012 ORL @ MIA L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p361
+aVDwight Howard ORL 02/19/2012 ORL @ MIA L 37 12 5 10 50.0 0 0 - 2 10 20.0 3 12 15 3 1 1 3 2 -11
+p362
+aVHedo Turkoglu ORL 02/19/2012 ORL @ MIA L 25 1 0 4 0.0 0 3 0.0 1 2 50.0 0 0 0 3 0 0 3 2 -14
+p363
+aVVon Wafer ORL 02/19/2012 ORL @ MIA L 14 9 4 9 44.4 1 2 50.0 0 1 0.0 1 0 1 0 0 0 1 0 7
+p364
+aVJJ Redick ORL 02/17/2012 ORL vs. MIL W 30 11 5 13 38.5 1 5 20.0 0 0 - 0 1 1 3 0 0 0 2 19
+p365
+aVDwight Howard ORL 02/17/2012 ORL vs. MIL W 39 26 8 12 66.7 0 0 - 10 14 71.4 4 16 20 1 1 4 6 5 18
+p366
+aVRyan Anderson ORL 02/17/2012 ORL vs. MIL W 36 23 8 15 53.3 4 7 57.1 3 4 75.0 5 4 9 3 1 0 1 2 -4
+p367
+aVChris Duhon ORL 02/17/2012 ORL vs. MIL W 16 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 1 2 0 -6
+p368
+aVEarl Clark ORL 02/17/2012 ORL vs. MIL W 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 2 1 3 -12
+p369
+aVJason Richardson ORL 02/17/2012 ORL vs. MIL W 20 6 2 11 18.2 2 6 33.3 0 0 - 1 1 2 1 0 0 2 1 -4
+p370
+aVHedo Turkoglu ORL 02/17/2012 ORL vs. MIL W 28 14 6 10 60.0 1 4 25.0 1 3 33.3 0 4 4 7 2 0 3 2 8
+p371
+aVJameer Nelson ORL 02/17/2012 ORL vs. MIL W 32 10 2 7 28.6 1 4 25.0 5 5 100.0 0 4 4 2 0 0 2 3 15
+p372
+aVQuentin Richardson ORL 02/17/2012 ORL vs. MIL W 25 0 0 3 0.0 0 2 0.0 0 0 - 1 8 9 1 1 0 0 0 11
+p373
+aVJJ Redick ORL 02/15/2012 ORL vs. PHI W 18 12 5 12 41.7 2 3 66.7 0 0 - 0 1 1 1 0 0 1 0 -7
+p374
+aVJason Richardson ORL 02/15/2012 ORL vs. PHI W 30 14 5 10 50.0 4 5 80.0 0 0 - 0 1 1 3 2 0 1 0 23
+p375
+aVGlen Davis ORL 02/15/2012 ORL vs. PHI W 17 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 2 0 0 1 1 -5
+p376
+aVChris Duhon ORL 02/15/2012 ORL vs. PHI W 19 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 1 1 0 2 2 -3
+p377
+aVEarl Clark ORL 02/15/2012 ORL vs. PHI W 9 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 0 -1
+p378
+aVRyan Anderson ORL 02/15/2012 ORL vs. PHI W 30 27 9 12 75.0 7 10 70.0 2 2 100.0 1 1 2 0 1 0 1 1 17
+p379
+aVDwight Howard ORL 02/15/2012 ORL vs. PHI W 41 17 8 15 53.3 0 0 - 1 3 33.3 3 11 14 2 1 2 2 3 21
+p380
+aVHedo Turkoglu ORL 02/15/2012 ORL vs. PHI W 28 11 4 8 50.0 1 3 33.3 2 4 50.0 0 7 7 2 0 0 4 1 19
+p381
+aVJameer Nelson ORL 02/15/2012 ORL vs. PHI W 29 12 5 8 62.5 1 1 100.0 1 2 50.0 0 4 4 14 0 0 2 3 19
+p382
+aVQuentin Richardson ORL 02/15/2012 ORL vs. PHI W 20 0 0 4 0.0 0 2 0.0 0 0 - 0 2 2 2 1 0 1 3 -3
+p383
+aVEarl Clark ORL 02/13/2012 ORL vs. MIN W 15 8 4 6 66.7 0 0 - 0 0 - 1 4 5 1 0 2 1 2 2
+p384
+aVJameer Nelson ORL 02/13/2012 ORL vs. MIN W 32 14 6 11 54.5 2 3 66.7 0 0 - 0 6 6 2 0 1 0 1 10
+p385
+aVGlen Davis ORL 02/13/2012 ORL vs. MIN W 23 2 1 10 10.0 0 0 - 0 0 - 1 4 5 2 1 0 0 2 -9
+p386
+aVJJ Redick ORL 02/13/2012 ORL vs. MIN W 25 14 5 9 55.6 2 5 40.0 2 2 100.0 0 4 4 1 0 0 0 1 6
+p387
+aVDwight Howard ORL 02/13/2012 ORL vs. MIN W 28 11 4 11 36.4 0 0 - 3 4 75.0 2 5 7 2 1 0 1 5 17
+p388
+aVJason Richardson ORL 02/13/2012 ORL vs. MIN W 23 17 5 11 45.5 2 6 33.3 5 8 62.5 0 3 3 2 1 1 0 2 7
+p389
+aVHedo Turkoglu ORL 02/13/2012 ORL vs. MIN W 33 14 4 12 33.3 2 7 28.6 4 4 100.0 0 6 6 6 2 1 5 2 9
+p390
+aVQuentin Richardson ORL 02/13/2012 ORL vs. MIN W 16 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 1 2 0 1 0 4
+p391
+aVRyan Anderson ORL 02/13/2012 ORL vs. MIN W 30 13 5 12 41.7 3 8 37.5 0 0 - 4 1 5 0 2 0 0 3 16
+p392
+aVChris Duhon ORL 02/13/2012 ORL vs. MIN W 16 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 3 0 0 1 1 3
+p393
+aVGlen Davis ORL 02/11/2012 ORL @ MIL W 20 2 1 4 25.0 0 1 0.0 0 0 - 1 5 6 1 0 0 2 2 -11
+p394
+aVJameer Nelson ORL 02/11/2012 ORL @ MIL W 30 6 2 6 33.3 0 2 0.0 2 2 100.0 0 3 3 5 0 0 1 3 17
+p395
+aVHedo Turkoglu ORL 02/11/2012 ORL @ MIL W 32 19 7 13 53.8 3 8 37.5 2 4 50.0 0 5 5 6 0 1 2 2 17
+p396
+aVDwight Howard ORL 02/11/2012 ORL @ MIL W 42 11 5 15 33.3 0 0 - 1 2 50.0 3 11 14 1 0 4 3 1 5
+p397
+aVJason Richardson ORL 02/11/2012 ORL @ MIL W 26 31 11 18 61.1 9 11 81.8 0 4 0.0 0 4 4 1 2 0 0 1 19
+p398
+aVChris Duhon ORL 02/11/2012 ORL @ MIL W 18 0 0 2 0.0 0 0 - 0 0 - 1 0 1 6 1 0 1 1 -12
+p399
+aVQuentin Richardson ORL 02/11/2012 ORL @ MIL W 16 7 2 5 40.0 1 4 25.0 2 2 100.0 0 0 0 0 1 0 0 1 -12
+p400
+aVJJ Redick ORL 02/11/2012 ORL @ MIL W 22 14 4 10 40.0 1 5 20.0 5 5 100.0 0 3 3 1 0 0 0 0 -14
+p401
+aVRyan Anderson ORL 02/11/2012 ORL @ MIL W 34 9 3 8 37.5 1 6 16.7 2 2 100.0 4 3 7 1 0 0 1 2 16
+p402
+aVJameer Nelson ORL 02/10/2012 ORL vs. ATL L 37 15 7 20 35.0 1 6 16.7 0 0 - 0 3 3 5 0 0 2 3 6
+p403
+aVJason Richardson ORL 02/10/2012 ORL vs. ATL L 38 14 5 10 50.0 3 6 50.0 1 3 33.3 0 5 5 0 1 2 0 3 -6
+p404
+aVDwight Howard ORL 02/10/2012 ORL vs. ATL L 45 18 8 15 53.3 0 1 0.0 2 4 50.0 2 16 18 0 0 1 5 3 0
+p405
+aVJJ Redick ORL 02/10/2012 ORL vs. ATL L 17 3 1 6 16.7 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 0
+p406
+aVRyan Anderson ORL 02/10/2012 ORL vs. ATL L 40 21 8 13 61.5 2 4 50.0 3 3 100.0 6 3 9 1 1 0 1 3 -2
+p407
+aVQuentin Richardson ORL 02/10/2012 ORL vs. ATL L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 2 0 0 2 -3
+p408
+aVGlen Davis ORL 02/10/2012 ORL vs. ATL L 21 6 2 8 25.0 0 0 - 2 4 50.0 1 2 3 3 0 0 0 2 -1
+p409
+aVHedo Turkoglu ORL 02/10/2012 ORL vs. ATL L 35 10 4 9 44.4 2 6 33.3 0 0 - 1 7 8 2 1 0 6 2 4
+p410
+aVChris Duhon ORL 02/10/2012 ORL vs. ATL L 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 2 1 -8
+p411
+aVJason Richardson ORL 02/08/2012 ORL vs. MIA W 32 9 3 12 25.0 3 8 37.5 0 0 - 2 3 5 4 3 0 0 2 17
+p412
+aVJameer Nelson ORL 02/08/2012 ORL vs. MIA W 32 12 5 13 38.5 2 6 33.3 0 0 - 1 2 3 0 1 0 2 2 13
+p413
+aVGlen Davis ORL 02/08/2012 ORL vs. MIA W 19 6 2 3 66.7 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 12
+p414
+aVDwight Howard ORL 02/08/2012 ORL vs. MIA W 43 25 9 14 64.3 0 1 0.0 7 10 70.0 7 17 24 4 3 2 3 3 8
+p415
+aVRyan Anderson ORL 02/08/2012 ORL vs. MIA W 34 27 8 19 42.1 5 11 45.5 6 9 66.7 7 4 11 3 0 0 1 1 6
+p416
+aVHedo Turkoglu ORL 02/08/2012 ORL vs. MIA W 29 3 1 6 16.7 1 4 25.0 0 0 - 0 1 1 7 0 0 3 5 -1
+p417
+aVQuentin Richardson ORL 02/08/2012 ORL vs. MIA W 19 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 0 1 0 3 1 14
+p418
+aVChris Duhon ORL 02/08/2012 ORL vs. MIA W 16 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 2 1 0
+p419
+aVJJ Redick ORL 02/08/2012 ORL vs. MIA W 16 11 4 10 40.0 3 7 42.9 0 0 - 0 1 1 4 0 0 0 0 -4
+p420
+aVGlen Davis ORL 02/06/2012 ORL vs. LAC L 26 7 3 8 37.5 0 0 - 1 1 100.0 0 3 3 0 2 0 2 2 -11
+p421
+aVJameer Nelson ORL 02/06/2012 ORL vs. LAC L 36 15 5 13 38.5 1 4 25.0 4 4 100.0 1 2 3 12 0 0 3 4 -3
+p422
+aVEarl Clark ORL 02/06/2012 ORL vs. LAC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p423
+aVChris Duhon ORL 02/06/2012 ORL vs. LAC L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 3 -4
+p424
+aVRyan Anderson ORL 02/06/2012 ORL vs. LAC L 30 10 3 10 30.0 2 5 40.0 2 2 100.0 5 4 9 1 0 0 0 5 2
+p425
+aVDwight Howard ORL 02/06/2012 ORL vs. LAC L 44 33 15 21 71.4 0 0 - 3 8 37.5 3 11 14 1 2 2 4 3 8
+p426
+aVJJ Redick ORL 02/06/2012 ORL vs. LAC L 26 8 3 7 42.9 2 4 50.0 0 0 - 0 0 0 3 0 0 1 1 -7
+p427
+aVHedo Turkoglu ORL 02/06/2012 ORL vs. LAC L 25 0 0 6 0.0 0 4 0.0 0 0 - 0 2 2 4 1 0 1 1 3
+p428
+aVQuentin Richardson ORL 02/06/2012 ORL vs. LAC L 18 9 3 5 60.0 3 4 75.0 0 0 - 1 1 2 1 0 0 0 4 -8
+p429
+aVJason Richardson ORL 02/06/2012 ORL vs. LAC L 37 20 8 15 53.3 3 8 37.5 1 1 100.0 0 1 1 3 1 0 2 3 2
+p430
+aVQuentin Richardson ORL 02/04/2012 ORL @ IND W 13 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 2 1 0 1 1 -2
+p431
+aVVon Wafer ORL 02/04/2012 ORL @ IND W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p432
+aVRyan Anderson ORL 02/04/2012 ORL @ IND W 39 12 3 6 50.0 1 2 50.0 5 5 100.0 1 6 7 1 1 0 2 4 13
+p433
+aVJJ Redick ORL 02/04/2012 ORL @ IND W 18 7 2 5 40.0 2 2 100.0 1 1 100.0 0 4 4 2 0 2 3 0 -10
+p434
+aVIsh Smith ORL 02/04/2012 ORL @ IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p435
+aVHedo Turkoglu ORL 02/04/2012 ORL @ IND W 33 9 2 11 18.2 0 6 0.0 5 7 71.4 3 7 10 4 1 1 8 3 4
+p436
+aVDwight Howard ORL 02/04/2012 ORL @ IND W 41 27 10 16 62.5 0 0 - 7 10 70.0 1 7 8 1 3 2 2 4 5
+p437
+aVEarl Clark ORL 02/04/2012 ORL @ IND W 16 2 1 5 20.0 0 0 - 0 0 - 2 1 3 1 0 1 2 4 -10
+p438
+aVJason Richardson ORL 02/04/2012 ORL @ IND W 31 17 7 16 43.8 3 7 42.9 0 0 - 1 5 6 5 0 1 2 0 11
+p439
+aVChris Duhon ORL 02/04/2012 ORL @ IND W 38 3 1 5 20.0 1 3 33.3 0 0 - 0 4 4 5 1 0 1 0 18
+p440
+aVDwight Howard ORL 02/03/2012 ORL vs. CLE W 38 19 5 12 41.7 0 0 - 9 16 56.3 1 15 16 2 0 8 2 1 9
+p441
+aVIsh Smith ORL 02/03/2012 ORL vs. CLE W 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 4 1 0 0 5 -2
+p442
+aVChris Duhon ORL 02/03/2012 ORL vs. CLE W 36 8 3 8 37.5 2 6 33.3 0 0 - 0 2 2 5 1 0 1 4 13
+p443
+aVHedo Turkoglu ORL 02/03/2012 ORL vs. CLE W 32 18 7 12 58.3 2 5 40.0 2 2 100.0 1 6 7 4 0 0 1 1 12
+p444
+aVEarl Clark ORL 02/03/2012 ORL vs. CLE W 23 8 3 9 33.3 0 0 - 2 4 50.0 2 3 5 0 1 0 1 4 -7
+p445
+aVJJ Redick ORL 02/03/2012 ORL vs. CLE W 23 0 0 5 0.0 0 4 0.0 0 0 - 0 0 0 1 0 0 0 1 -14
+p446
+aVJason Richardson ORL 02/03/2012 ORL vs. CLE W 28 19 7 12 58.3 3 4 75.0 2 3 66.7 0 4 4 1 1 1 0 0 19
+p447
+aVRyan Anderson ORL 02/03/2012 ORL vs. CLE W 34 17 5 14 35.7 2 6 33.3 5 6 83.3 5 3 8 1 0 1 0 3 14
+p448
+aVVon Wafer ORL 02/03/2012 ORL vs. CLE W 16 11 3 6 50.0 0 1 0.0 5 5 100.0 0 1 1 1 2 0 0 1 -4
+p449
+aVHedo Turkoglu ORL 02/01/2012 ORL vs. WAS W 33 16 5 16 31.3 2 6 33.3 4 6 66.7 1 3 4 5 1 0 2 2 5
+p450
+aVDwight Howard ORL 02/01/2012 ORL vs. WAS W 42 23 6 10 60.0 0 0 - 11 16 68.8 3 15 18 3 4 0 3 2 16
+p451
+aVVon Wafer ORL 02/01/2012 ORL vs. WAS W 24 9 3 6 50.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 2 1 -13
+p452
+aVRyan Anderson ORL 02/01/2012 ORL vs. WAS W 33 23 7 12 58.3 6 9 66.7 3 4 75.0 4 3 7 1 1 0 2 1 14
+p453
+aVLarry Hughes ORL 02/01/2012 ORL vs. WAS W 14 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 1 0 1 0 -17
+p454
+aVJJ Redick ORL 02/01/2012 ORL vs. WAS W 28 21 5 7 71.4 3 4 75.0 8 8 100.0 0 2 2 2 0 0 2 0 15
+p455
+aVQuentin Richardson ORL 02/01/2012 ORL vs. WAS W 15 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 0 0 1 2 1
+p456
+aVGlen Davis ORL 02/01/2012 ORL vs. WAS W 21 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 0 0 1 2 1 -13
+p457
+aVChris Duhon ORL 02/01/2012 ORL vs. WAS W 30 7 2 6 33.3 1 3 33.3 2 3 66.7 1 2 3 4 1 0 0 1 22
+p458
+aVRyan Anderson ORL 01/30/2012 ORL @ PHI L 27 14 6 13 46.2 0 4 0.0 2 4 50.0 11 9 20 0 0 0 1 2 5
+p459
+aVLarry Hughes ORL 01/30/2012 ORL @ PHI L 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 3 2 -2
+p460
+aVEarl Clark ORL 01/30/2012 ORL @ PHI L 13 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 1 1 0 0 -10
+p461
+aVJJ Redick ORL 01/30/2012 ORL @ PHI L 31 10 3 13 23.1 3 5 60.0 1 1 100.0 1 4 5 2 1 0 1 1 -13
+p462
+aVHedo Turkoglu ORL 01/30/2012 ORL @ PHI L 26 3 1 9 11.1 1 5 20.0 0 2 0.0 0 3 3 1 0 0 2 3 -10
+p463
+aVChris Duhon ORL 01/30/2012 ORL @ PHI L 35 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 2 1 1 1 2 -3
+p464
+aVDwight Howard ORL 01/30/2012 ORL @ PHI L 37 17 6 17 35.3 0 0 - 5 13 38.5 3 8 11 0 1 2 2 2 -14
+p465
+aVVon Wafer ORL 01/30/2012 ORL @ PHI L 17 8 4 9 44.4 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 10
+p466
+aVGlen Davis ORL 01/30/2012 ORL @ PHI L 20 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 1 0 0 1 1 9
+p467
+aVQuentin Richardson ORL 01/30/2012 ORL @ PHI L 22 5 2 4 50.0 1 2 50.0 0 0 - 0 7 7 3 0 0 2 6 3
+p468
+aVQuentin Richardson ORL 01/29/2012 ORL vs. IND L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -14
+p469
+aVJason Richardson ORL 01/29/2012 ORL vs. IND L 27 13 5 11 45.5 2 4 50.0 1 2 50.0 0 7 7 3 2 1 3 0 -1
+p470
+aVEarl Clark ORL 01/29/2012 ORL vs. IND L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -5
+p471
+aVGlen Davis ORL 01/29/2012 ORL vs. IND L 24 0 0 3 0.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -21
+p472
+aVVon Wafer ORL 01/29/2012 ORL vs. IND L 3 4 1 1 100.0 0 0 - 2 4 50.0 0 0 0 0 0 0 0 0 0
+p473
+aVLarry Hughes ORL 01/29/2012 ORL vs. IND L 16 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 3 0 0 2 2 -11
+p474
+aVDwight Howard ORL 01/29/2012 ORL vs. IND L 39 24 10 13 76.9 0 1 0.0 4 15 26.7 3 10 13 1 1 2 5 3 -13
+p475
+aVHedo Turkoglu ORL 01/29/2012 ORL vs. IND L 33 7 2 8 25.0 2 5 40.0 1 2 50.0 0 1 1 7 2 0 3 5 -11
+p476
+aVRyan Anderson ORL 01/29/2012 ORL vs. IND L 28 11 3 8 37.5 3 5 60.0 2 2 100.0 0 2 2 0 0 1 1 1 -3
+p477
+aVJJ Redick ORL 01/29/2012 ORL vs. IND L 21 9 3 7 42.9 1 2 50.0 2 2 100.0 0 1 1 1 0 0 0 1 -20
+p478
+aVChris Duhon ORL 01/29/2012 ORL vs. IND L 33 14 6 10 60.0 2 5 40.0 0 0 - 0 3 3 5 2 0 4 2 -6
+p479
+aVJason Richardson ORL 01/27/2012 ORL @ NOH L 24 2 1 6 16.7 0 2 0.0 0 0 - 1 4 5 3 0 0 1 2 -15
+p480
+aVLarry Hughes ORL 01/27/2012 ORL @ NOH L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p481
+aVJustin Harper ORL 01/27/2012 ORL @ NOH L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p482
+aVEarl Clark ORL 01/27/2012 ORL @ NOH L 22 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 1 2 1 3 2
+p483
+aVJameer Nelson ORL 01/27/2012 ORL @ NOH L 11 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 1 -10
+p484
+aVChris Duhon ORL 01/27/2012 ORL @ NOH L 31 6 2 6 33.3 1 3 33.3 1 2 50.0 0 3 3 5 0 0 3 0 -10
+p485
+aVDaniel Orton ORL 01/27/2012 ORL @ NOH L 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -2
+p486
+aVJJ Redick ORL 01/27/2012 ORL @ NOH L 25 9 3 5 60.0 3 5 60.0 0 0 - 0 2 2 2 1 0 3 2 -8
+p487
+aVDwight Howard ORL 01/27/2012 ORL @ NOH L 39 28 9 14 64.3 0 0 - 10 17 58.8 3 13 16 3 2 1 4 3 -22
+p488
+aVVon Wafer ORL 01/27/2012 ORL @ NOH L 8 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -6
+p489
+aVQuentin Richardson ORL 01/27/2012 ORL @ NOH L 20 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 1 0 0 -7
+p490
+aVGlen Davis ORL 01/27/2012 ORL @ NOH L 17 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 1 1 2 -12
+p491
+aVHedo Turkoglu ORL 01/27/2012 ORL @ NOH L 30 3 1 7 14.3 1 6 16.7 0 0 - 0 3 3 1 1 0 6 3 -32
+p492
+aVEarl Clark ORL 01/26/2012 ORL vs. BOS L 12 5 2 3 66.7 0 0 - 1 2 50.0 3 1 4 0 0 1 0 1 5
+p493
+aVQuentin Richardson ORL 01/26/2012 ORL vs. BOS L 13 0 0 3 0.0 0 2 0.0 0 0 - 1 0 1 1 1 0 0 3 -1
+p494
+aVRyan Anderson ORL 01/26/2012 ORL vs. BOS L 27 12 5 12 41.7 1 2 50.0 1 1 100.0 2 2 4 1 0 1 0 3 8
+p495
+aVHedo Turkoglu ORL 01/26/2012 ORL vs. BOS L 35 10 3 10 30.0 2 5 40.0 2 4 50.0 1 4 5 7 2 0 4 2 -7
+p496
+aVGlen Davis ORL 01/26/2012 ORL vs. BOS L 26 7 3 11 27.3 0 0 - 1 3 33.3 2 4 6 0 3 0 1 1 -4
+p497
+aVJJ Redick ORL 01/26/2012 ORL vs. BOS L 16 7 2 6 33.3 0 0 - 3 3 100.0 0 2 2 2 0 0 1 2 -9
+p498
+aVDwight Howard ORL 01/26/2012 ORL vs. BOS L 31 16 6 12 50.0 0 0 - 4 8 50.0 5 11 16 0 0 1 3 4 -25
+p499
+aVJameer Nelson ORL 01/26/2012 ORL vs. BOS L 33 11 3 8 37.5 1 4 25.0 4 6 66.7 2 3 5 5 1 0 1 5 -2
+p500
+aVChris Duhon ORL 01/26/2012 ORL vs. BOS L 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 0 0 -6
+p501
+aVJason Richardson ORL 01/26/2012 ORL vs. BOS L 32 13 5 12 41.7 1 4 25.0 2 4 50.0 0 0 0 0 3 0 2 2 1
+p502
+aVChris Duhon ORL 01/24/2012 ORL @ IND W 25 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 4 3 0 1 1 17
+p503
+aVEarl Clark ORL 01/24/2012 ORL @ IND W 17 5 2 6 33.3 0 0 - 1 2 50.0 3 1 4 0 1 4 1 3 8
+p504
+aVGlen Davis ORL 01/24/2012 ORL @ IND W 21 13 4 6 66.7 0 0 - 5 6 83.3 2 3 5 0 1 2 3 2 8
+p505
+aVJason Richardson ORL 01/24/2012 ORL @ IND W 21 2 1 6 16.7 0 3 0.0 0 0 - 1 1 2 2 1 0 1 0 0
+p506
+aVJameer Nelson ORL 01/24/2012 ORL @ IND W 24 2 1 5 20.0 0 3 0.0 0 0 - 0 3 3 5 0 0 2 2 2
+p507
+aVJJ Redick ORL 01/24/2012 ORL @ IND W 27 15 6 13 46.2 1 4 25.0 2 2 100.0 0 3 3 2 1 1 2 1 19
+p508
+aVQuentin Richardson ORL 01/24/2012 ORL @ IND W 20 8 3 7 42.9 2 5 40.0 0 0 - 0 3 3 1 2 0 0 2 9
+p509
+aVDwight Howard ORL 01/24/2012 ORL @ IND W 25 14 6 11 54.5 0 0 - 2 4 50.0 1 8 9 0 2 1 1 3 11
+p510
+aVHedo Turkoglu ORL 01/24/2012 ORL @ IND W 28 11 4 10 40.0 3 7 42.9 0 0 - 0 2 2 8 1 0 2 3 10
+p511
+aVRyan Anderson ORL 01/24/2012 ORL @ IND W 33 24 8 14 57.1 5 7 71.4 3 5 60.0 6 2 8 0 1 1 0 2 11
+p512
+aVLarry Hughes ORL 01/23/2012 ORL @ BOS L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -7
+p513
+aVJustin Harper ORL 01/23/2012 ORL @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 1 0 -5
+p514
+aVEarl Clark ORL 01/23/2012 ORL @ BOS L 9 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -13
+p515
+aVVon Wafer ORL 01/23/2012 ORL @ BOS L 15 5 2 5 40.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 0 -12
+p516
+aVGlen Davis ORL 01/23/2012 ORL @ BOS L 24 6 2 9 22.2 0 0 - 2 2 100.0 5 6 11 0 0 1 4 1 -12
+p517
+aVHedo Turkoglu ORL 01/23/2012 ORL @ BOS L 24 7 1 4 25.0 1 2 50.0 4 4 100.0 1 2 3 0 0 0 3 4 -5
+p518
+aVDwight Howard ORL 01/23/2012 ORL @ BOS L 35 18 4 15 26.7 0 1 0.0 10 18 55.6 2 12 14 3 1 1 4 3 -20
+p519
+aVJJ Redick ORL 01/23/2012 ORL @ BOS L 18 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 2 1 0 1 1 -10
+p520
+aVJason Richardson ORL 01/23/2012 ORL @ BOS L 21 5 2 5 40.0 0 2 0.0 1 2 50.0 1 2 3 2 2 0 0 0 -14
+p521
+aVChris Duhon ORL 01/23/2012 ORL @ BOS L 11 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 0 0 0 1 1 -9
+p522
+aVQuentin Richardson ORL 01/23/2012 ORL @ BOS L 22 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 0 0 1 0 1 -24
+p523
+aVJameer Nelson ORL 01/23/2012 ORL @ BOS L 25 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 3 1 1 5 0 -14
+p524
+aVRyan Anderson ORL 01/23/2012 ORL @ BOS L 23 0 0 8 0.0 0 4 0.0 0 0 - 0 0 0 2 0 0 1 3 -10
+p525
+aVJJ Redick ORL 01/20/2012 ORL vs. LAL W 33 15 5 11 45.5 3 6 50.0 2 2 100.0 0 2 2 6 0 0 1 2 5
+p526
+aVJason Richardson ORL 01/20/2012 ORL vs. LAL W 30 12 5 11 45.5 2 5 40.0 0 0 - 1 3 4 1 0 0 0 4 13
+p527
+aVVon Wafer ORL 01/20/2012 ORL vs. LAL W 16 3 1 7 14.3 0 2 0.0 1 1 100.0 0 0 0 0 0 1 1 3 2
+p528
+aVChris Duhon ORL 01/20/2012 ORL vs. LAL W 20 3 1 4 25.0 0 2 0.0 1 1 100.0 0 3 3 1 1 0 0 1 4
+p529
+aVDwight Howard ORL 01/20/2012 ORL vs. LAL W 46 21 6 14 42.9 0 0 - 9 17 52.9 4 19 23 2 1 1 4 4 10
+p530
+aVQuentin Richardson ORL 01/20/2012 ORL vs. LAL W 17 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 1 0 0 1 1 4
+p531
+aVRyan Anderson ORL 01/20/2012 ORL vs. LAL W 31 13 5 10 50.0 3 6 50.0 0 0 - 4 4 8 0 4 0 0 2 12
+p532
+aVGlen Davis ORL 01/20/2012 ORL vs. LAL W 20 5 2 6 33.3 0 0 - 1 2 50.0 5 3 8 0 0 0 2 1 2
+p533
+aVJameer Nelson ORL 01/20/2012 ORL vs. LAL W 28 17 6 12 50.0 3 4 75.0 2 3 66.7 0 2 2 9 1 0 4 2 8
+p534
+aVDwight Howard ORL 01/18/2012 ORL vs. SAS L 41 24 9 15 60.0 0 1 0.0 6 10 60.0 9 16 25 1 1 3 2 4 8
+p535
+aVJameer Nelson ORL 01/18/2012 ORL vs. SAS L 38 4 2 16 12.5 0 4 0.0 0 0 - 1 2 3 5 1 0 1 3 3
+p536
+aVGlen Davis ORL 01/18/2012 ORL vs. SAS L 17 4 2 8 25.0 0 0 - 0 0 - 1 6 7 0 0 0 1 4 -5
+p537
+aVEarl Clark ORL 01/18/2012 ORL vs. SAS L 9 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 0 -7
+p538
+aVRyan Anderson ORL 01/18/2012 ORL vs. SAS L 39 17 3 13 23.1 1 6 16.7 10 10 100.0 4 7 11 1 1 0 0 3 0
+p539
+aVLarry Hughes ORL 01/18/2012 ORL vs. SAS L 30 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 1 -7
+p540
+aVJJ Redick ORL 01/18/2012 ORL vs. SAS L 32 13 4 11 36.4 0 2 0.0 5 6 83.3 1 2 3 1 0 0 1 0 3
+p541
+aVVon Wafer ORL 01/18/2012 ORL vs. SAS L 22 15 6 11 54.5 3 5 60.0 0 1 0.0 0 1 1 1 1 0 2 1 0
+p542
+aVChris Duhon ORL 01/18/2012 ORL vs. SAS L 15 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -5
+p543
+aVQuentin Richardson ORL 01/18/2012 ORL vs. SAS L 22 2 1 4 25.0 0 2 0.0 0 0 - 0 3 3 0 2 0 1 2 0
+p544
+aVJJ Redick ORL 01/17/2012 ORL vs. CHA W 30 5 2 9 22.2 1 1 100.0 0 0 - 1 3 4 2 2 0 0 0 -4
+p545
+aVVon Wafer ORL 01/17/2012 ORL vs. CHA W 24 13 5 8 62.5 1 2 50.0 2 2 100.0 1 2 3 1 1 1 3 1 9
+p546
+aVHedo Turkoglu ORL 01/17/2012 ORL vs. CHA W 26 15 5 8 62.5 2 5 40.0 3 4 75.0 1 4 5 3 2 0 2 3 11
+p547
+aVRyan Anderson ORL 01/17/2012 ORL vs. CHA W 27 13 4 13 30.8 2 9 22.2 3 4 75.0 1 2 3 0 3 0 1 1 -5
+p548
+aVDwight Howard ORL 01/17/2012 ORL vs. CHA W 39 25 11 18 61.1 0 0 - 3 8 37.5 4 13 17 4 1 4 4 5 21
+p549
+aVJameer Nelson ORL 01/17/2012 ORL vs. CHA W 31 17 5 8 62.5 1 3 33.3 6 7 85.7 0 2 2 4 0 0 3 1 -1
+p550
+aVQuentin Richardson ORL 01/17/2012 ORL vs. CHA W 16 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 0 0 0 1 1 -2
+p551
+aVGlen Davis ORL 01/17/2012 ORL vs. CHA W 30 6 3 9 33.3 0 0 - 0 1 0.0 1 2 3 3 1 0 1 2 -2
+p552
+aVChris Duhon ORL 01/17/2012 ORL vs. CHA W 17 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 8
+p553
+aVChris Duhon ORL 01/16/2012 ORL @ NYK W 17 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 3 0 0 0 0 5
+p554
+aVGlen Davis ORL 01/16/2012 ORL @ NYK W 20 12 3 8 37.5 0 0 - 6 6 100.0 0 6 6 0 0 0 1 3 6
+p555
+aVVon Wafer ORL 01/16/2012 ORL @ NYK W 14 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 2 5
+p556
+aVJameer Nelson ORL 01/16/2012 ORL @ NYK W 31 8 3 10 30.0 1 5 20.0 1 2 50.0 0 5 5 7 0 0 2 2 4
+p557
+aVDwight Howard ORL 01/16/2012 ORL @ NYK W 38 8 3 6 50.0 0 0 - 2 9 22.2 1 9 10 4 1 3 6 6 2
+p558
+aVQuentin Richardson ORL 01/16/2012 ORL @ NYK W 13 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 0 0 0 1 4 -4
+p559
+aVEarl Clark ORL 01/16/2012 ORL @ NYK W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 2 2 2
+p560
+aVRyan Anderson ORL 01/16/2012 ORL @ NYK W 35 30 11 19 57.9 7 13 53.8 1 1 100.0 3 4 7 0 1 0 1 2 15
+p561
+aVHedo Turkoglu ORL 01/16/2012 ORL @ NYK W 29 15 5 9 55.6 4 7 57.1 1 2 50.0 0 2 2 4 1 1 3 4 0
+p562
+aVJJ Redick ORL 01/16/2012 ORL @ NYK W 37 21 8 12 66.7 3 6 50.0 2 2 100.0 1 2 3 1 0 0 0 2 10
+p563
+aVDwight Howard ORL 01/12/2012 ORL @ GSW W 44 45 12 21 57.1 0 0 - 21 39 53.8 7 16 23 3 4 2 3 2 12
+p564
+aVRyan Anderson ORL 01/12/2012 ORL @ GSW W 23 11 3 4 75.0 3 3 100.0 2 2 100.0 2 3 5 1 0 0 1 2 14
+p565
+aVHedo Turkoglu ORL 01/12/2012 ORL @ GSW W 37 20 5 12 41.7 3 7 42.9 7 8 87.5 0 4 4 9 0 0 1 3 4
+p566
+aVJameer Nelson ORL 01/12/2012 ORL @ GSW W 33 9 4 8 50.0 1 4 25.0 0 0 - 0 2 2 6 3 0 2 1 11
+p567
+aVGlen Davis ORL 01/12/2012 ORL @ GSW W 15 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 3 -10
+p568
+aVVon Wafer ORL 01/12/2012 ORL @ GSW W 18 8 3 5 60.0 2 2 100.0 0 0 - 0 2 2 3 0 0 1 0 6
+p569
+aVJason Richardson ORL 01/12/2012 ORL @ GSW W 20 7 3 7 42.9 1 4 25.0 0 0 - 0 1 1 0 1 1 1 0 -4
+p570
+aVEarl Clark ORL 01/12/2012 ORL @ GSW W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p571
+aVChris Duhon ORL 01/12/2012 ORL @ GSW W 15 0 0 0 - 0 0 - 0 0 - 0 0 0 2 1 0 1 1 -3
+p572
+aVJJ Redick ORL 01/12/2012 ORL @ GSW W 34 13 3 7 42.9 1 3 33.3 6 6 100.0 0 3 3 3 0 0 0 4 10
+p573
+aVHedo Turkoglu ORL 01/11/2012 ORL @ POR W 36 16 6 11 54.5 4 6 66.7 0 0 - 1 2 3 6 0 1 1 1 2
+p574
+aVChris Duhon ORL 01/11/2012 ORL @ POR W 16 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 3 -1
+p575
+aVJJ Redick ORL 01/11/2012 ORL @ POR W 27 17 5 11 45.5 3 7 42.9 4 4 100.0 0 4 4 4 0 0 1 1 -6
+p576
+aVJason Richardson ORL 01/11/2012 ORL @ POR W 34 15 6 9 66.7 2 4 50.0 1 2 50.0 0 2 2 1 0 0 1 2 0
+p577
+aVRyan Anderson ORL 01/11/2012 ORL @ POR W 29 16 6 11 54.5 4 7 57.1 0 0 - 2 7 9 1 1 0 2 2 13
+p578
+aVGlen Davis ORL 01/11/2012 ORL @ POR W 24 11 5 9 55.6 0 0 - 1 1 100.0 1 5 6 1 0 0 2 2 -9
+p579
+aVVon Wafer ORL 01/11/2012 ORL @ POR W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 3 6
+p580
+aVDwight Howard ORL 01/11/2012 ORL @ POR W 39 13 5 9 55.6 0 0 - 3 12 25.0 2 11 13 4 0 0 4 1 6
+p581
+aVJameer Nelson ORL 01/11/2012 ORL @ POR W 32 16 7 9 77.8 2 2 100.0 0 0 - 0 4 4 5 1 0 5 0 4
+p582
+aVDwight Howard ORL 01/08/2012 ORL @ SAC W 20 5 1 2 50.0 0 0 - 3 5 60.0 1 3 4 1 0 1 1 4 9
+p583
+aVChris Duhon ORL 01/08/2012 ORL @ SAC W 18 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 2 0 0 1 0 -2
+p584
+aVJJ Redick ORL 01/08/2012 ORL @ SAC W 20 6 2 9 22.2 1 3 33.3 1 1 100.0 0 3 3 2 2 0 1 0 10
+p585
+aVGlen Davis ORL 01/08/2012 ORL @ SAC W 28 20 8 13 61.5 0 0 - 4 7 57.1 5 3 8 2 0 0 2 2 -8
+p586
+aVRyan Anderson ORL 01/08/2012 ORL @ SAC W 33 19 5 16 31.3 3 11 27.3 6 8 75.0 6 5 11 1 4 0 0 2 10
+p587
+aVEarl Clark ORL 01/08/2012 ORL @ SAC W 16 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 1 3
+p588
+aVVon Wafer ORL 01/08/2012 ORL @ SAC W 17 12 4 7 57.1 1 2 50.0 3 4 75.0 0 1 1 1 0 0 1 2 1
+p589
+aVHedo Turkoglu ORL 01/08/2012 ORL @ SAC W 27 11 4 11 36.4 2 7 28.6 1 2 50.0 0 2 2 4 1 0 2 4 3
+p590
+aVJameer Nelson ORL 01/08/2012 ORL @ SAC W 30 5 2 6 33.3 0 0 - 1 2 50.0 0 4 4 6 2 0 2 2 9
+p591
+aVJason Richardson ORL 01/08/2012 ORL @ SAC W 33 22 9 16 56.3 3 6 50.0 1 2 50.0 3 1 4 5 1 0 0 3 0
+p592
+aVJJ Redick ORL 01/06/2012 ORL vs. CHI L 22 1 0 4 0.0 0 1 0.0 1 1 100.0 1 1 2 1 0 0 1 2 0
+p593
+aVDwight Howard ORL 01/06/2012 ORL vs. CHI L 41 28 11 18 61.1 0 0 - 6 10 60.0 4 11 15 2 2 2 4 3 -13
+p594
+aVRyan Anderson ORL 01/06/2012 ORL vs. CHI L 25 5 2 10 20.0 1 7 14.3 0 0 - 1 2 3 1 0 0 0 1 -10
+p595
+aVChris Duhon ORL 01/06/2012 ORL vs. CHI L 16 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 4 0 0 1 1 0
+p596
+aVGlen Davis ORL 01/06/2012 ORL vs. CHI L 28 8 2 8 25.0 0 0 - 4 4 100.0 2 8 10 0 2 0 2 3 -2
+p597
+aVJason Richardson ORL 01/06/2012 ORL vs. CHI L 36 17 6 13 46.2 3 6 50.0 2 2 100.0 0 3 3 2 1 1 4 1 -16
+p598
+aVJameer Nelson ORL 01/06/2012 ORL vs. CHI L 32 9 3 9 33.3 1 2 50.0 2 2 100.0 1 0 1 2 0 0 3 3 -14
+p599
+aVHedo Turkoglu ORL 01/06/2012 ORL vs. CHI L 39 12 5 11 45.5 2 4 50.0 0 0 - 0 1 1 3 0 0 2 2 -15
+p600
+aVVon Wafer ORL 01/04/2012 ORL vs. WAS W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -5
+p601
+aVRyan Anderson ORL 01/04/2012 ORL vs. WAS W 28 23 7 16 43.8 3 5 60.0 6 6 100.0 7 8 15 0 0 0 0 1 24
+p602
+aVHedo Turkoglu ORL 01/04/2012 ORL vs. WAS W 29 14 7 9 77.8 0 1 0.0 0 0 - 2 3 5 8 1 0 3 5 25
+p603
+aVChris Duhon ORL 01/04/2012 ORL vs. WAS W 12 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 -1
+p604
+aVQuentin Richardson ORL 01/04/2012 ORL vs. WAS W 14 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 0 0 -10
+p605
+aVGlen Davis ORL 01/04/2012 ORL vs. WAS W 25 4 2 10 20.0 0 0 - 0 0 - 1 3 4 0 0 0 0 0 3
+p606
+aVJason Richardson ORL 01/04/2012 ORL vs. WAS W 26 8 3 9 33.3 2 3 66.7 0 0 - 2 2 4 5 0 0 1 1 16
+p607
+aVDwight Howard ORL 01/04/2012 ORL vs. WAS W 37 28 11 13 84.6 0 0 - 6 14 42.9 5 15 20 2 0 3 4 3 23
+p608
+aVJJ Redick ORL 01/04/2012 ORL vs. WAS W 23 14 5 11 45.5 1 4 25.0 3 3 100.0 0 1 1 2 1 0 2 0 10
+p609
+aVEarl Clark ORL 01/04/2012 ORL vs. WAS W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p610
+aVLarry Hughes ORL 01/04/2012 ORL vs. WAS W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p611
+aVJameer Nelson ORL 01/04/2012 ORL vs. WAS W 32 7 3 8 37.5 1 3 33.3 0 0 - 0 3 3 9 1 0 2 2 24
+p612
+aVJustin Harper ORL 01/04/2012 ORL vs. WAS W 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 0 -7
+p613
+aVGlen Davis ORL 01/02/2012 ORL @ DET L 25 6 3 7 42.9 0 0 - 0 0 - 2 3 5 2 1 0 2 2 -4
+p614
+aVChris Duhon ORL 01/02/2012 ORL @ DET L 17 8 2 2 100.0 2 2 100.0 2 2 100.0 1 2 3 3 2 1 2 1 3
+p615
+aVJason Richardson ORL 01/02/2012 ORL @ DET L 23 4 1 5 20.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 1 1 -11
+p616
+aVJJ Redick ORL 01/02/2012 ORL @ DET L 25 8 3 10 30.0 0 4 0.0 2 2 100.0 0 1 1 4 0 0 1 4 0
+p617
+aVQuentin Richardson ORL 01/02/2012 ORL @ DET L 21 3 1 3 33.3 1 2 50.0 0 0 - 1 3 4 2 0 0 1 1 7
+p618
+aVDwight Howard ORL 01/02/2012 ORL @ DET L 40 19 8 14 57.1 0 0 - 3 8 37.5 2 5 7 2 5 1 3 6 -9
+p619
+aVRyan Anderson ORL 01/02/2012 ORL @ DET L 31 13 5 10 50.0 1 5 20.0 2 2 100.0 0 6 6 0 0 0 0 2 -9
+p620
+aVHedo Turkoglu ORL 01/02/2012 ORL @ DET L 27 13 4 7 57.1 4 6 66.7 1 2 50.0 1 1 2 2 2 1 4 4 -18
+p621
+aVJameer Nelson ORL 01/02/2012 ORL @ DET L 31 4 1 5 20.0 0 2 0.0 2 3 66.7 0 0 0 5 1 0 3 3 -14
+p622
+aVJason Richardson ORL 01/01/2012 ORL vs. TOR W 28 5 1 8 12.5 1 5 20.0 2 4 50.0 1 4 5 1 1 2 0 1 -22
+p623
+aVEarl Clark ORL 01/01/2012 ORL vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p624
+aVRyan Anderson ORL 01/01/2012 ORL vs. TOR W 30 24 9 16 56.3 5 8 62.5 1 1 100.0 2 3 5 2 0 0 0 3 16
+p625
+aVDwight Howard ORL 01/01/2012 ORL vs. TOR W 43 19 7 11 63.6 0 0 - 5 9 55.6 5 10 15 1 1 3 4 4 5
+p626
+aVJJ Redick ORL 01/01/2012 ORL vs. TOR W 34 21 6 10 60.0 3 5 60.0 6 7 85.7 0 3 3 3 0 0 0 3 26
+p627
+aVJameer Nelson ORL 01/01/2012 ORL vs. TOR W 32 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 4 0 0 2 2 2
+p628
+aVHedo Turkoglu ORL 01/01/2012 ORL vs. TOR W 34 15 6 14 42.9 2 5 40.0 1 1 100.0 0 2 2 7 1 1 3 5 8
+p629
+aVChris Duhon ORL 01/01/2012 ORL vs. TOR W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 1 0 1 0 4
+p630
+aVGlen Davis ORL 01/01/2012 ORL vs. TOR W 20 7 3 6 50.0 0 1 0.0 1 2 50.0 0 3 3 0 0 0 2 3 -2
+p631
+aVHedo Turkoglu ORL 12/30/2011 ORL @ CHA W 30 15 5 11 45.5 3 6 50.0 2 2 100.0 0 2 2 3 0 0 1 2 21
+p632
+aVChris Duhon ORL 12/30/2011 ORL @ CHA W 32 2 1 1 100.0 0 0 - 0 0 - 0 2 2 6 0 0 3 3 20
+p633
+aVRyan Anderson ORL 12/30/2011 ORL @ CHA W 35 23 8 18 44.4 5 12 41.7 2 2 100.0 4 4 8 2 0 2 0 3 22
+p634
+aVQuentin Richardson ORL 12/30/2011 ORL @ CHA W 13 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 2
+p635
+aVLarry Hughes ORL 12/30/2011 ORL @ CHA W 16 3 1 3 33.3 1 1 100.0 0 0 - 1 1 2 1 0 0 2 2 1
+p636
+aVJason Richardson ORL 12/30/2011 ORL @ CHA W 30 16 7 12 58.3 2 4 50.0 0 2 0.0 0 1 1 3 1 0 0 2 16
+p637
+aVDwight Howard ORL 12/30/2011 ORL @ CHA W 39 20 7 16 43.8 0 0 - 6 14 42.9 6 18 24 4 1 4 3 0 18
+p638
+aVGlen Davis ORL 12/30/2011 ORL @ CHA W 22 7 3 12 25.0 0 0 - 1 1 100.0 2 3 5 2 1 0 0 0 2
+p639
+aVJJ Redick ORL 12/30/2011 ORL @ CHA W 23 11 4 7 57.1 0 2 0.0 3 3 100.0 1 2 3 2 0 1 2 2 3
+p640
+aVJJ Redick ORL 12/29/2011 ORL vs. NJN W 23 15 6 11 54.5 2 3 66.7 1 2 50.0 0 2 2 3 1 0 0 2 7
+p641
+aVHedo Turkoglu ORL 12/29/2011 ORL vs. NJN W 37 11 5 14 35.7 1 4 25.0 0 0 - 0 6 6 7 0 0 3 1 12
+p642
+aVJason Richardson ORL 12/29/2011 ORL vs. NJN W 33 16 6 14 42.9 0 3 0.0 4 6 66.7 3 2 5 2 2 0 2 2 10
+p643
+aVGlen Davis ORL 12/29/2011 ORL vs. NJN W 24 5 2 8 25.0 0 0 - 1 2 50.0 0 1 1 1 0 1 2 2 1
+p644
+aVJameer Nelson ORL 12/29/2011 ORL vs. NJN W 17 0 0 3 0.0 0 1 0.0 0 0 - 0 4 4 5 0 0 1 1 0
+p645
+aVChris Duhon ORL 12/29/2011 ORL vs. NJN W 28 9 3 6 50.0 3 4 75.0 0 0 - 0 1 1 4 1 0 1 4 20
+p646
+aVJustin Harper ORL 12/29/2011 ORL vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p647
+aVLarry Hughes ORL 12/29/2011 ORL vs. NJN W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -1
+p648
+aVDwight Howard ORL 12/29/2011 ORL vs. NJN W 37 16 7 9 77.8 0 0 - 2 9 22.2 6 18 24 3 3 3 3 3 23
+p649
+aVRyan Anderson ORL 12/29/2011 ORL vs. NJN W 33 22 7 14 50.0 3 5 60.0 5 6 83.3 2 1 3 0 0 0 0 3 10
+p650
+aVGlen Davis ORL 12/26/2011 ORL vs. HOU W 21 13 5 11 45.5 0 0 - 3 4 75.0 1 3 4 0 0 0 1 3 4
+p651
+aVHedo Turkoglu ORL 12/26/2011 ORL vs. HOU W 35 23 10 14 71.4 3 4 75.0 0 0 - 1 5 6 4 0 0 3 1 8
+p652
+aVRyan Anderson ORL 12/26/2011 ORL vs. HOU W 28 8 3 9 33.3 2 8 25.0 0 0 - 2 3 5 1 0 1 0 2 8
+p653
+aVChris Duhon ORL 12/26/2011 ORL vs. HOU W 18 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 1 2 13
+p654
+aVJason Richardson ORL 12/26/2011 ORL vs. HOU W 33 10 5 8 62.5 0 2 0.0 0 0 - 0 3 3 1 0 0 2 3 6
+p655
+aVDwight Howard ORL 12/26/2011 ORL vs. HOU W 37 21 9 15 60.0 0 0 - 3 5 60.0 2 5 7 3 0 3 2 2 4
+p656
+aVJameer Nelson ORL 12/26/2011 ORL vs. HOU W 30 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 6 1 0 2 1 -4
+p657
+aVJJ Redick ORL 12/26/2011 ORL vs. HOU W 28 20 8 12 66.7 3 4 75.0 1 1 100.0 0 2 2 2 0 0 0 1 5
+p658
+aVVon Wafer ORL 12/26/2011 ORL vs. HOU W 8 2 1 4 25.0 0 2 0.0 0 0 - 0 4 4 0 0 0 0 0 -1
+p659
+aVJustin Harper ORL 12/26/2011 ORL vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p660
+aVGlen Davis ORL 12/25/2011 ORL @ OKC L 19 6 3 9 33.3 0 1 0.0 0 0 - 0 5 5 0 1 1 2 4 -8
+p661
+aVRyan Anderson ORL 12/25/2011 ORL @ OKC L 34 25 9 17 52.9 6 12 50.0 1 1 100.0 4 6 10 1 2 0 2 4 -7
+p662
+aVEarl Clark ORL 12/25/2011 ORL @ OKC L 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 1 1 0 -10
+p663
+aVHedo Turkoglu ORL 12/25/2011 ORL @ OKC L 29 8 3 10 30.0 2 5 40.0 0 0 - 2 1 3 4 2 0 2 3 -2
+p664
+aVJJ Redick ORL 12/25/2011 ORL @ OKC L 23 8 0 3 0.0 0 2 0.0 8 8 100.0 0 3 3 1 0 0 0 1 -7
+p665
+aVDwight Howard ORL 12/25/2011 ORL @ OKC L 38 11 4 12 33.3 0 1 0.0 3 8 37.5 4 11 15 0 1 2 3 4 -4
+p666
+aVJameer Nelson ORL 12/25/2011 ORL @ OKC L 31 18 7 13 53.8 0 2 0.0 4 4 100.0 1 0 1 6 0 0 4 4 9
+p667
+aVQuentin Richardson ORL 12/25/2011 ORL @ OKC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p668
+aVVon Wafer ORL 12/25/2011 ORL @ OKC L 9 9 2 2 100.0 0 0 - 5 5 100.0 0 0 0 0 0 0 0 0 11
+p669
+aVJason Richardson ORL 12/25/2011 ORL @ OKC L 29 2 1 10 10.0 0 4 0.0 0 0 - 0 3 3 2 0 0 3 2 -8
+p670
+aVChris Duhon ORL 12/25/2011 ORL @ OKC L 17 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 4 1 0 1 2 -17
+p671
+a.

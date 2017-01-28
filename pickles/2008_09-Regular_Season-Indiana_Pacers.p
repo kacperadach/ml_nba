@@ -1,0 +1,1652 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDanny Granger IND 04/15/2009 IND vs. MIL W 42 35 10 16 62.5 5 7 71.4 10 11 90.9 2 7 9 4 3 3 6 2 12
+p2
+aVRasho Nesterovic IND 04/15/2009 IND vs. MIL W 7 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 0 0 1 1 -1
+p3
+aVJarrett Jack IND 04/15/2009 IND vs. MIL W 37 8 1 8 12.5 0 3 0.0 6 8 75.0 0 3 3 10 1 0 1 3 9
+p4
+aVTroy Murphy IND 04/15/2009 IND vs. MIL W 25 11 5 10 50.0 0 0 - 1 1 100.0 4 8 12 0 0 1 1 0 -14
+p5
+aVJeff Foster IND 04/15/2009 IND vs. MIL W 15 0 0 1 0.0 0 0 - 0 0 - 1 4 5 2 0 0 2 1 -4
+p6
+aVStephen Graham IND 04/15/2009 IND vs. MIL W 14 11 4 8 50.0 3 3 100.0 0 0 - 0 0 0 0 0 0 1 1 -2
+p7
+aVT.J. Ford IND 04/15/2009 IND vs. MIL W 21 10 3 8 37.5 0 1 0.0 4 4 100.0 1 3 4 3 1 0 4 0 -3
+p8
+aVBrandon Rush IND 04/15/2009 IND vs. MIL W 38 24 10 18 55.6 4 6 66.7 0 0 - 1 4 5 0 1 1 1 2 4
+p9
+aVTravis Diener IND 04/15/2009 IND vs. MIL W 9 0 0 0 - 0 0 - 0 0 - 0 3 3 4 1 1 0 0 24
+p10
+aVJosh McRoberts IND 04/15/2009 IND vs. MIL W 16 6 3 5 60.0 0 1 0.0 0 0 - 2 1 3 2 2 3 0 1 22
+p11
+aVRoy Hibbert IND 04/15/2009 IND vs. MIL W 17 10 3 7 42.9 0 0 - 4 6 66.7 2 3 5 1 1 3 1 2 -12
+p12
+aVBrandon Rush IND 04/13/2009 IND vs. CLE L 34 27 11 17 64.7 2 4 50.0 3 4 75.0 0 3 3 2 0 1 1 3 7
+p13
+aVT.J. Ford IND 04/13/2009 IND vs. CLE L 26 10 5 10 50.0 0 1 0.0 0 0 - 0 0 0 2 2 0 3 1 -17
+p14
+aVJeff Foster IND 04/13/2009 IND vs. CLE L 21 4 1 1 100.0 0 0 - 2 2 100.0 3 6 9 2 1 2 1 4 -3
+p15
+aVTroy Murphy IND 04/13/2009 IND vs. CLE L 41 17 6 13 46.2 2 5 40.0 3 4 75.0 3 10 13 3 3 0 1 4 -9
+p16
+aVRasho Nesterovic IND 04/13/2009 IND vs. CLE L 7 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -10
+p17
+aVRoy Hibbert IND 04/13/2009 IND vs. CLE L 19 7 2 5 40.0 0 0 - 3 4 75.0 1 2 3 2 0 3 1 4 6
+p18
+aVDanny Granger IND 04/13/2009 IND vs. CLE L 45 38 12 28 42.9 4 10 40.0 10 11 90.9 1 4 5 1 2 2 1 1 -3
+p19
+aVJarrett Jack IND 04/13/2009 IND vs. CLE L 41 6 2 9 22.2 0 2 0.0 2 3 66.7 2 3 5 5 2 1 5 3 -12
+p20
+aVJosh McRoberts IND 04/13/2009 IND vs. CLE L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p21
+aVJeff Foster IND 04/11/2009 IND vs. DET W 28 5 2 3 66.7 0 0 - 1 2 50.0 3 3 6 1 1 0 0 2 6
+p22
+aVDanny Granger IND 04/11/2009 IND vs. DET W 38 24 8 22 36.4 1 3 33.3 7 9 77.8 0 3 3 0 1 0 1 1 -1
+p23
+aVBrandon Rush IND 04/11/2009 IND vs. DET W 34 21 8 16 50.0 5 8 62.5 0 0 - 1 6 7 2 0 1 0 4 2
+p24
+aVJarrett Jack IND 04/11/2009 IND vs. DET W 42 18 7 15 46.7 1 5 20.0 3 3 100.0 1 1 2 6 1 0 2 4 10
+p25
+aVTroy Murphy IND 04/11/2009 IND vs. DET W 37 7 2 6 33.3 2 6 33.3 1 2 50.0 3 10 13 1 0 0 5 2 0
+p26
+aVT.J. Ford IND 04/11/2009 IND vs. DET W 30 18 7 14 50.0 0 0 - 4 4 100.0 0 1 1 5 2 0 1 3 1
+p27
+aVRoy Hibbert IND 04/11/2009 IND vs. DET W 20 9 4 9 44.4 0 0 - 1 2 50.0 6 2 8 1 0 4 0 3 -2
+p28
+aVJosh McRoberts IND 04/11/2009 IND vs. DET W 11 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 1 0 0 3 4
+p29
+aVDanny Granger IND 04/10/2009 IND @ ATL L 38 35 12 22 54.5 4 11 36.4 7 11 63.6 0 4 4 0 3 1 0 4 -8
+p30
+aVRoy Hibbert IND 04/10/2009 IND @ ATL L 26 16 4 13 30.8 0 0 - 8 9 88.9 4 4 8 2 0 0 0 2 -5
+p31
+aVStephen Graham IND 04/10/2009 IND @ ATL L 11 5 2 4 50.0 0 0 - 1 1 100.0 1 2 3 0 1 1 0 2 1
+p32
+aVTroy Murphy IND 04/10/2009 IND @ ATL L 39 21 7 11 63.6 3 5 60.0 4 4 100.0 2 8 10 4 0 0 2 2 -4
+p33
+aVBrandon Rush IND 04/10/2009 IND @ ATL L 36 10 4 7 57.1 0 1 0.0 2 2 100.0 1 6 7 1 1 1 1 5 2
+p34
+aVT.J. Ford IND 04/10/2009 IND @ ATL L 30 12 5 9 55.6 0 1 0.0 2 2 100.0 1 3 4 4 3 0 4 3 0
+p35
+aVJarrett Jack IND 04/10/2009 IND @ ATL L 41 17 7 17 41.2 3 5 60.0 0 0 - 1 3 4 7 1 0 5 2 -3
+p36
+aVJeff Foster IND 04/10/2009 IND @ ATL L 20 2 1 4 25.0 0 0 - 0 0 - 2 1 3 1 0 1 1 5 -3
+p37
+aVT.J. Ford IND 04/08/2009 IND vs. TOR W 21 14 7 10 70.0 0 0 - 0 0 - 1 2 3 11 2 0 1 0 27
+p38
+aVJosh McRoberts IND 04/08/2009 IND vs. TOR W 22 12 5 8 62.5 0 1 0.0 2 2 100.0 2 9 11 1 1 2 1 3 -4
+p39
+aVStephen Graham IND 04/08/2009 IND vs. TOR W 25 8 3 9 33.3 0 3 0.0 2 2 100.0 0 3 3 2 0 0 1 2 11
+p40
+aVDanny Granger IND 04/08/2009 IND vs. TOR W 28 29 10 16 62.5 0 3 0.0 9 9 100.0 0 4 4 1 0 1 1 1 32
+p41
+aVJeff Foster IND 04/08/2009 IND vs. TOR W 14 4 2 4 50.0 0 0 - 0 0 - 2 1 3 3 0 0 0 1 18
+p42
+aVBrandon Rush IND 04/08/2009 IND vs. TOR W 25 5 2 10 20.0 1 5 20.0 0 0 - 0 3 3 1 0 0 2 6 -13
+p43
+aVMaceo Baston IND 04/08/2009 IND vs. TOR W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p44
+aVJarrett Jack IND 04/08/2009 IND vs. TOR W 32 23 9 11 81.8 2 3 66.7 3 3 100.0 0 5 5 6 0 0 2 1 39
+p45
+aVTravis Diener IND 04/08/2009 IND vs. TOR W 13 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 0 0 0 1 2 -9
+p46
+aVRoy Hibbert IND 04/08/2009 IND vs. TOR W 26 17 5 8 62.5 0 0 - 7 10 70.0 1 6 7 0 0 1 0 4 13
+p47
+aVTroy Murphy IND 04/08/2009 IND vs. TOR W 26 14 5 10 50.0 1 3 33.3 3 3 100.0 5 9 14 5 1 1 1 2 33
+p48
+aVTroy Murphy IND 04/05/2009 IND @ OKC W 30 22 8 11 72.7 6 6 100.0 0 0 - 0 9 9 2 1 0 4 1 15
+p49
+aVStephen Graham IND 04/05/2009 IND @ OKC W 20 7 2 6 33.3 0 1 0.0 3 4 75.0 0 2 2 0 0 0 0 3 0
+p50
+aVT.J. Ford IND 04/05/2009 IND @ OKC W 24 12 5 9 55.6 0 1 0.0 2 2 100.0 0 2 2 5 4 0 1 3 12
+p51
+aVJeff Foster IND 04/05/2009 IND @ OKC W 18 2 0 4 0.0 0 0 - 2 2 100.0 3 2 5 1 0 0 0 0 5
+p52
+aVJarrett Jack IND 04/05/2009 IND @ OKC W 30 14 6 12 50.0 1 3 33.3 1 1 100.0 0 4 4 4 2 1 2 1 22
+p53
+aVDanny Granger IND 04/05/2009 IND @ OKC W 34 24 9 18 50.0 0 5 0.0 6 7 85.7 0 4 4 1 1 1 4 2 15
+p54
+aVJosh McRoberts IND 04/05/2009 IND @ OKC W 15 4 1 3 33.3 0 1 0.0 2 2 100.0 2 3 5 2 0 0 0 0 -1
+p55
+aVRoy Hibbert IND 04/05/2009 IND @ OKC W 24 17 6 12 50.0 0 0 - 5 7 71.4 2 6 8 1 0 0 2 5 13
+p56
+aVRasho Nesterovic IND 04/05/2009 IND @ OKC W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 1
+p57
+aVTravis Diener IND 04/05/2009 IND @ OKC W 6 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -5
+p58
+aVBrandon Rush IND 04/05/2009 IND @ OKC W 33 13 6 11 54.5 1 3 33.3 0 0 - 0 3 3 0 1 1 0 3 13
+p59
+aVJarrett Jack IND 04/03/2009 IND vs. SAS L 42 22 9 18 50.0 1 3 33.3 3 4 75.0 1 5 6 6 0 0 1 3 -6
+p60
+aVDanny Granger IND 04/03/2009 IND vs. SAS L 37 35 15 24 62.5 3 4 75.0 2 3 66.7 1 3 4 1 1 0 2 5 6
+p61
+aVTroy Murphy IND 04/03/2009 IND vs. SAS L 42 19 7 17 41.2 3 6 50.0 2 2 100.0 2 11 13 3 0 1 2 4 5
+p62
+aVBrandon Rush IND 04/03/2009 IND vs. SAS L 43 14 6 10 60.0 2 3 66.7 0 0 - 0 4 4 1 0 0 1 2 -1
+p63
+aVJosh McRoberts IND 04/03/2009 IND vs. SAS L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p64
+aVT.J. Ford IND 04/03/2009 IND vs. SAS L 28 12 5 14 35.7 0 3 0.0 2 3 66.7 1 1 2 6 3 0 1 3 -4
+p65
+aVJeff Foster IND 04/03/2009 IND vs. SAS L 23 12 4 4 100.0 0 0 - 4 4 100.0 2 2 4 1 0 2 0 2 -5
+p66
+aVTravis Diener IND 04/03/2009 IND vs. SAS L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p67
+aVRoy Hibbert IND 04/03/2009 IND vs. SAS L 15 7 3 6 50.0 0 0 - 1 3 33.3 3 1 4 1 1 0 0 3 -9
+p68
+aVT.J. Ford IND 03/31/2009 IND vs. CHI W 39 22 10 15 66.7 0 1 0.0 2 2 100.0 0 4 4 9 1 2 1 4 0
+p69
+aVDanny Granger IND 03/31/2009 IND vs. CHI W 37 31 11 19 57.9 4 10 40.0 5 6 83.3 2 2 4 1 1 2 3 2 6
+p70
+aVJosh McRoberts IND 03/31/2009 IND vs. CHI W 18 10 4 6 66.7 0 0 - 2 3 66.7 1 0 1 1 1 1 1 0 -8
+p71
+aVRasho Nesterovic IND 03/31/2009 IND vs. CHI W 11 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -4
+p72
+aVTroy Murphy IND 03/31/2009 IND vs. CHI W 37 15 5 14 35.7 1 4 25.0 4 6 66.7 3 9 12 2 1 0 2 4 6
+p73
+aVBrandon Rush IND 03/31/2009 IND vs. CHI W 37 11 5 8 62.5 1 2 50.0 0 0 - 0 3 3 0 0 1 3 1 5
+p74
+aVJarrett Jack IND 03/31/2009 IND vs. CHI W 44 10 3 9 33.3 0 2 0.0 4 4 100.0 1 5 6 8 4 1 5 2 3
+p75
+aVRoy Hibbert IND 03/31/2009 IND vs. CHI W 17 6 3 10 30.0 0 0 - 0 0 - 1 4 5 0 1 0 0 5 2
+p76
+aVJeff Foster IND 03/29/2009 IND vs. WAS W 38 6 3 8 37.5 0 0 - 0 2 0.0 4 5 9 5 0 0 0 6 10
+p77
+aVBrandon Rush IND 03/29/2009 IND vs. WAS W 33 29 13 25 52.0 3 7 42.9 0 0 - 1 9 10 1 0 1 0 2 7
+p78
+aVTravis Diener IND 03/29/2009 IND vs. WAS W 11 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 0 0 0 0 0 1
+p79
+aVJarrett Jack IND 03/29/2009 IND vs. WAS W 36 19 7 12 58.3 1 2 50.0 4 4 100.0 1 5 6 7 0 0 0 3 6
+p80
+aVJosh McRoberts IND 03/29/2009 IND vs. WAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p81
+aVDanny Granger IND 03/29/2009 IND vs. WAS W 42 31 10 16 62.5 4 6 66.7 7 8 87.5 1 5 6 3 0 1 5 3 15
+p82
+aVRoy Hibbert IND 03/29/2009 IND vs. WAS W 16 12 5 10 50.0 0 0 - 2 3 66.7 5 3 8 0 1 1 0 6 0
+p83
+aVStephen Graham IND 03/29/2009 IND vs. WAS W 13 6 2 8 25.0 0 3 0.0 2 2 100.0 1 1 2 0 1 0 0 0 1
+p84
+aVRasho Nesterovic IND 03/29/2009 IND vs. WAS W 18 10 5 7 71.4 0 0 - 0 0 - 1 3 4 0 1 0 0 3 10
+p85
+aVT.J. Ford IND 03/29/2009 IND vs. WAS W 34 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 10 1 0 4 4 -5
+p86
+aVJarrett Jack IND 03/28/2009 IND @ CHI L 41 10 5 14 35.7 0 2 0.0 0 0 - 0 2 2 9 2 0 2 3 0
+p87
+aVRasho Nesterovic IND 03/28/2009 IND @ CHI L 17 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 0 2 2 -8
+p88
+aVT.J. Ford IND 03/28/2009 IND @ CHI L 34 14 6 12 50.0 1 1 100.0 1 2 50.0 2 5 7 6 0 0 2 3 -3
+p89
+aVStephen Graham IND 03/28/2009 IND @ CHI L 5 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 0
+p90
+aVJeff Foster IND 03/28/2009 IND @ CHI L 41 7 3 8 37.5 0 0 - 1 2 50.0 7 11 18 2 1 1 1 4 11
+p91
+aVBrandon Rush IND 03/28/2009 IND @ CHI L 39 29 13 19 68.4 2 4 50.0 1 1 100.0 0 4 4 2 1 1 0 0 -19
+p92
+aVRoy Hibbert IND 03/28/2009 IND @ CHI L 20 6 3 10 30.0 0 0 - 0 0 - 2 5 7 2 1 1 2 3 -2
+p93
+aVDanny Granger IND 03/28/2009 IND @ CHI L 41 32 10 24 41.7 4 9 44.4 8 8 100.0 0 4 4 2 3 0 1 2 -3
+p94
+aVMaceo Baston IND 03/28/2009 IND @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -6
+p95
+aVT.J. Ford IND 03/25/2009 IND vs. MIA W 33 20 8 14 57.1 0 3 0.0 4 4 100.0 1 8 9 3 0 1 1 2 -2
+p96
+aVJarrett Jack IND 03/25/2009 IND vs. MIA W 41 13 6 16 37.5 1 3 33.3 0 0 - 1 2 3 4 0 0 1 3 1
+p97
+aVJeff Foster IND 03/25/2009 IND vs. MIA W 38 5 2 6 33.3 0 0 - 1 2 50.0 5 11 16 1 1 4 1 3 11
+p98
+aVJosh McRoberts IND 03/25/2009 IND vs. MIA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p99
+aVStephen Graham IND 03/25/2009 IND vs. MIA W 4 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 0 0 0
+p100
+aVDanny Granger IND 03/25/2009 IND vs. MIA W 38 28 10 20 50.0 3 7 42.9 5 6 83.3 0 4 4 1 3 2 4 4 8
+p101
+aVRasho Nesterovic IND 03/25/2009 IND vs. MIA W 17 5 2 2 100.0 0 0 - 1 2 50.0 1 3 4 0 0 1 1 4 -4
+p102
+aVMaceo Baston IND 03/25/2009 IND vs. MIA W 8 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 1 0 1 -5
+p103
+aVRoy Hibbert IND 03/25/2009 IND vs. MIA W 15 6 3 8 37.5 0 0 - 0 0 - 1 3 4 0 0 1 2 3 3
+p104
+aVBrandon Rush IND 03/25/2009 IND vs. MIA W 41 11 4 11 36.4 1 5 20.0 2 2 100.0 0 8 8 2 0 0 2 1 5
+p105
+aVJarrett Jack IND 03/21/2009 IND @ CHA W 32 31 13 14 92.9 1 2 50.0 4 4 100.0 0 6 6 2 2 1 1 1 29
+p106
+aVT.J. Ford IND 03/21/2009 IND @ CHA W 21 9 3 4 75.0 1 1 100.0 2 2 100.0 0 3 3 6 0 1 3 1 19
+p107
+aVStephen Graham IND 03/21/2009 IND @ CHA W 21 11 4 8 50.0 1 4 25.0 2 4 50.0 0 2 2 2 0 0 0 3 -1
+p108
+aVDanny Granger IND 03/21/2009 IND @ CHA W 29 21 8 17 47.1 4 8 50.0 1 1 100.0 1 3 4 1 2 1 0 3 26
+p109
+aVJosh McRoberts IND 03/21/2009 IND @ CHA W 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -2
+p110
+aVBrandon Rush IND 03/21/2009 IND @ CHA W 39 15 7 14 50.0 0 4 0.0 1 2 50.0 0 5 5 1 1 2 1 2 10
+p111
+aVTroy Murphy IND 03/21/2009 IND @ CHA W 30 14 4 8 50.0 2 5 40.0 4 4 100.0 0 4 4 1 0 1 1 2 25
+p112
+aVTravis Diener IND 03/21/2009 IND @ CHA W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p113
+aVJeff Foster IND 03/21/2009 IND @ CHA W 24 5 1 1 100.0 0 0 - 3 4 75.0 2 2 4 2 1 0 1 2 27
+p114
+aVRoy Hibbert IND 03/21/2009 IND @ CHA W 8 0 0 5 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 3 6
+p115
+aVRasho Nesterovic IND 03/21/2009 IND @ CHA W 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 1 0 1 3 -7
+p116
+aVJosh McRoberts IND 03/20/2009 IND vs. DAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p117
+aVRoy Hibbert IND 03/20/2009 IND vs. DAL L 16 6 3 6 50.0 0 0 - 0 2 0.0 3 0 3 1 0 1 0 3 -12
+p118
+aVDanny Granger IND 03/20/2009 IND vs. DAL L 41 18 8 26 30.8 2 4 50.0 0 1 0.0 3 8 11 4 0 1 4 3 -8
+p119
+aVT.J. Ford IND 03/20/2009 IND vs. DAL L 23 11 4 9 44.4 2 3 66.7 1 2 50.0 0 0 0 3 0 0 3 5 -7
+p120
+aVJarrett Jack IND 03/20/2009 IND vs. DAL L 23 10 4 6 66.7 1 2 50.0 1 2 50.0 0 0 0 0 0 0 0 0 -8
+p121
+aVBrandon Rush IND 03/20/2009 IND vs. DAL L 31 11 4 9 44.4 3 5 60.0 0 0 - 0 6 6 3 0 0 0 1 13
+p122
+aVStephen Graham IND 03/20/2009 IND vs. DAL L 19 9 3 12 25.0 1 5 20.0 2 2 100.0 1 5 6 0 0 0 1 2 4
+p123
+aVTroy Murphy IND 03/20/2009 IND vs. DAL L 39 14 4 7 57.1 1 4 25.0 5 6 83.3 1 10 11 1 0 1 2 3 -7
+p124
+aVTravis Diener IND 03/20/2009 IND vs. DAL L 20 7 2 4 50.0 2 3 66.7 1 2 50.0 0 2 2 4 0 1 0 1 7
+p125
+aVJeff Foster IND 03/20/2009 IND vs. DAL L 25 4 1 3 33.3 0 0 - 2 2 100.0 3 4 7 0 1 3 1 3 5
+p126
+aVT.J. Ford IND 03/18/2009 IND vs. POR L 34 8 4 14 28.6 0 1 0.0 0 0 - 1 3 4 6 1 1 5 2 -7
+p127
+aVJosh McRoberts IND 03/18/2009 IND vs. POR L 10 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 2 1 0 2 5
+p128
+aVJeff Foster IND 03/18/2009 IND vs. POR L 28 4 2 9 22.2 0 0 - 0 0 - 3 8 11 2 0 1 2 2 -8
+p129
+aVRasho Nesterovic IND 03/18/2009 IND vs. POR L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -15
+p130
+aVBrandon Rush IND 03/18/2009 IND vs. POR L 15 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 0 1 0 1 2 3
+p131
+aVJarrett Jack IND 03/18/2009 IND vs. POR L 36 13 5 10 50.0 0 1 0.0 3 3 100.0 0 5 5 5 2 1 3 1 -9
+p132
+aVRoy Hibbert IND 03/18/2009 IND vs. POR L 30 14 6 12 50.0 0 0 - 2 3 66.7 2 2 4 0 2 2 2 5 7
+p133
+aVMarquis Daniels IND 03/18/2009 IND vs. POR L 22 4 2 4 50.0 0 0 - 0 0 - 0 5 5 2 0 0 1 1 -20
+p134
+aVStephen Graham IND 03/18/2009 IND vs. POR L 12 0 0 2 0.0 0 1 0.0 0 2 0.0 0 1 1 2 0 0 0 0 11
+p135
+aVTravis Diener IND 03/18/2009 IND vs. POR L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -9
+p136
+aVDanny Granger IND 03/18/2009 IND vs. POR L 34 35 12 24 50.0 5 9 55.6 6 7 85.7 2 8 10 0 0 2 2 3 -8
+p137
+aVTravis Diener IND 03/15/2009 IND @ TOR L 20 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 5 1 1 1 0 -6
+p138
+aVMaceo Baston IND 03/15/2009 IND @ TOR L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -3
+p139
+aVRasho Nesterovic IND 03/15/2009 IND @ TOR L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 0
+p140
+aVJeff Foster IND 03/15/2009 IND @ TOR L 25 4 1 3 33.3 0 0 - 2 2 100.0 5 3 8 2 0 0 0 3 -10
+p141
+aVJarrett Jack IND 03/15/2009 IND @ TOR L 36 13 4 14 28.6 2 5 40.0 3 4 75.0 0 3 3 2 2 0 3 1 -20
+p142
+aVMarquis Daniels IND 03/15/2009 IND @ TOR L 24 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 1 1 0 1 2 -10
+p143
+aVDanny Granger IND 03/15/2009 IND @ TOR L 19 10 3 11 27.3 1 7 14.3 3 4 75.0 0 3 3 0 1 0 2 4 -21
+p144
+aVT.J. Ford IND 03/15/2009 IND @ TOR L 26 15 7 16 43.8 0 3 0.0 1 1 100.0 1 0 1 6 1 0 3 1 -15
+p145
+aVTroy Murphy IND 03/15/2009 IND @ TOR L 31 16 6 12 50.0 2 4 50.0 2 2 100.0 2 8 10 1 1 1 2 1 -14
+p146
+aVStephen Graham IND 03/15/2009 IND @ TOR L 7 7 3 5 60.0 1 3 33.3 0 0 - 0 1 1 1 0 0 1 1 3
+p147
+aVRoy Hibbert IND 03/15/2009 IND @ TOR L 11 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 0
+p148
+aVBrandon Rush IND 03/15/2009 IND @ TOR L 27 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 1 2 0 1 2 -19
+p149
+aVJarrett Jack IND 03/13/2009 IND @ ATL L 39 10 5 17 29.4 0 3 0.0 0 0 - 1 0 1 1 1 0 1 0 -8
+p150
+aVJosh McRoberts IND 03/13/2009 IND @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p151
+aVRoy Hibbert IND 03/13/2009 IND @ ATL L 28 15 6 11 54.5 0 0 - 3 4 75.0 7 0 7 0 0 0 0 2 -14
+p152
+aVTroy Murphy IND 03/13/2009 IND @ ATL L 30 7 2 7 28.6 1 3 33.3 2 2 100.0 0 14 14 1 0 1 1 1 -9
+p153
+aVTravis Diener IND 03/13/2009 IND @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 3 0 0 0 0 8
+p154
+aVJeff Foster IND 03/13/2009 IND @ ATL L 22 4 2 4 50.0 0 0 - 0 1 0.0 1 4 5 2 0 0 0 1 -2
+p155
+aVT.J. Ford IND 03/13/2009 IND @ ATL L 38 29 12 23 52.2 0 0 - 5 5 100.0 1 4 5 5 1 0 1 4 -15
+p156
+aVRasho Nesterovic IND 03/13/2009 IND @ ATL L 11 6 3 6 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -3
+p157
+aVBrandon Rush IND 03/13/2009 IND @ ATL L 29 8 3 8 37.5 2 3 66.7 0 0 - 0 5 5 1 0 0 2 1 -2
+p158
+aVMarquis Daniels IND 03/13/2009 IND @ ATL L 36 8 4 14 28.6 0 1 0.0 0 0 - 0 2 2 3 0 0 1 2 -24
+p159
+aVT.J. Ford IND 03/10/2009 IND vs. UTA L 36 21 9 19 47.4 1 3 33.3 2 2 100.0 1 2 3 9 2 1 6 3 -8
+p160
+aVRoy Hibbert IND 03/10/2009 IND vs. UTA L 22 12 4 9 44.4 0 0 - 4 4 100.0 1 1 2 0 0 5 2 6 -1
+p161
+aVTravis Diener IND 03/10/2009 IND vs. UTA L 12 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 2 0 0 2 0 -4
+p162
+aVBrandon Rush IND 03/10/2009 IND vs. UTA L 24 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 0 0 1 3 1 -7
+p163
+aVTroy Murphy IND 03/10/2009 IND vs. UTA L 40 23 7 12 58.3 7 9 77.8 2 2 100.0 0 13 13 4 3 0 0 3 -11
+p164
+aVJarrett Jack IND 03/10/2009 IND vs. UTA L 39 21 6 11 54.5 1 4 25.0 8 8 100.0 1 1 2 2 1 0 5 2 -9
+p165
+aVRasho Nesterovic IND 03/10/2009 IND vs. UTA L 24 5 2 2 100.0 0 0 - 1 1 100.0 2 4 6 0 0 1 0 4 -13
+p166
+aVMarquis Daniels IND 03/10/2009 IND vs. UTA L 35 7 2 9 22.2 0 1 0.0 3 4 75.0 5 6 11 0 1 0 4 3 -6
+p167
+aVMaceo Baston IND 03/10/2009 IND vs. UTA L 8 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p168
+aVRasho Nesterovic IND 03/07/2009 IND @ LAC W 20 10 5 9 55.6 0 0 - 0 0 - 2 1 3 2 0 0 0 2 -6
+p169
+aVTravis Diener IND 03/07/2009 IND @ LAC W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 2 2 0 1 0 2
+p170
+aVTroy Murphy IND 03/07/2009 IND @ LAC W 40 22 7 13 53.8 4 9 44.4 4 4 100.0 0 15 15 0 0 0 0 3 -1
+p171
+aVJeff Foster IND 03/07/2009 IND @ LAC W 21 8 2 2 100.0 0 0 - 4 5 80.0 3 6 9 1 0 0 0 3 4
+p172
+aVBrandon Rush IND 03/07/2009 IND @ LAC W 24 7 2 10 20.0 0 2 0.0 3 4 75.0 1 2 3 1 0 1 0 2 10
+p173
+aVMaceo Baston IND 03/07/2009 IND @ LAC W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -8
+p174
+aVJarrett Jack IND 03/07/2009 IND @ LAC W 41 25 10 19 52.6 3 6 50.0 2 2 100.0 1 0 1 7 1 1 1 3 2
+p175
+aVMarquis Daniels IND 03/07/2009 IND @ LAC W 36 10 5 17 29.4 0 2 0.0 0 0 - 1 1 2 3 3 2 4 2 -1
+p176
+aVT.J. Ford IND 03/07/2009 IND @ LAC W 34 17 7 13 53.8 0 1 0.0 3 4 75.0 0 2 2 8 3 0 3 4 3
+p177
+aVTroy Murphy IND 03/04/2009 IND @ POR L 39 11 4 9 44.4 2 4 50.0 1 2 50.0 3 10 13 1 0 1 4 3 -5
+p178
+aVMaceo Baston IND 03/04/2009 IND @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p179
+aVTravis Diener IND 03/04/2009 IND @ POR L 5 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p180
+aVRasho Nesterovic IND 03/04/2009 IND @ POR L 17 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 0 2 2 2 4 -4
+p181
+aVJeff Foster IND 03/04/2009 IND @ POR L 24 2 1 4 25.0 0 0 - 0 0 - 2 1 3 2 2 0 0 5 -9
+p182
+aVJarrett Jack IND 03/04/2009 IND @ POR L 40 17 7 16 43.8 1 3 33.3 2 2 100.0 0 3 3 4 1 0 0 3 1
+p183
+aVRoy Hibbert IND 03/04/2009 IND @ POR L 15 10 4 6 66.7 0 0 - 2 3 66.7 3 1 4 0 1 3 2 4 13
+p184
+aVMarquis Daniels IND 03/04/2009 IND @ POR L 43 28 11 19 57.9 1 3 33.3 5 7 71.4 1 3 4 4 3 1 3 3 5
+p185
+aVT.J. Ford IND 03/04/2009 IND @ POR L 39 24 11 22 50.0 2 4 50.0 0 0 - 3 5 8 5 1 0 4 3 0
+p186
+aVBrandon Rush IND 03/04/2009 IND @ POR L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -5
+p187
+aVBrandon Rush IND 03/03/2009 IND @ SAC W 20 1 0 4 0.0 0 2 0.0 1 2 50.0 0 5 5 0 0 0 2 1 -3
+p188
+aVRasho Nesterovic IND 03/03/2009 IND @ SAC W 10 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 1 0 2 1
+p189
+aVMarquis Daniels IND 03/03/2009 IND @ SAC W 35 18 7 18 38.9 1 2 50.0 3 4 75.0 0 4 4 4 2 0 2 2 17
+p190
+aVJarrett Jack IND 03/03/2009 IND @ SAC W 40 26 10 19 52.6 0 4 0.0 6 6 100.0 2 5 7 3 4 0 0 2 9
+p191
+aVStephen Graham IND 03/03/2009 IND @ SAC W 9 5 2 5 40.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 2 -8
+p192
+aVT.J. Ford IND 03/03/2009 IND @ SAC W 26 11 4 11 36.4 0 0 - 3 4 75.0 0 1 1 9 3 0 2 2 10
+p193
+aVTravis Diener IND 03/03/2009 IND @ SAC W 21 18 6 8 75.0 5 6 83.3 1 1 100.0 0 1 1 3 2 0 1 1 -4
+p194
+aVTroy Murphy IND 03/03/2009 IND @ SAC W 35 23 8 12 66.7 4 6 66.7 3 3 100.0 3 7 10 6 2 2 1 3 6
+p195
+aVJeff Foster IND 03/03/2009 IND @ SAC W 27 4 1 3 33.3 0 0 - 2 2 100.0 2 5 7 0 1 1 0 3 8
+p196
+aVRoy Hibbert IND 03/03/2009 IND @ SAC W 17 7 3 6 50.0 0 0 - 1 1 100.0 0 6 6 0 0 2 2 4 4
+p197
+aVRasho Nesterovic IND 03/01/2009 IND vs. DEN W 16 2 1 6 16.7 0 0 - 0 0 - 2 6 8 1 1 1 2 2 -4
+p198
+aVJarrett Jack IND 03/01/2009 IND vs. DEN W 42 28 7 14 50.0 3 6 50.0 11 12 91.7 1 0 1 8 0 0 3 2 10
+p199
+aVT.J. Ford IND 03/01/2009 IND vs. DEN W 29 4 2 12 16.7 0 3 0.0 0 0 - 0 0 0 4 0 2 1 1 2
+p200
+aVMarquis Daniels IND 03/01/2009 IND vs. DEN W 38 19 8 17 47.1 1 4 25.0 2 4 50.0 2 4 6 2 2 0 2 2 9
+p201
+aVTroy Murphy IND 03/01/2009 IND vs. DEN W 38 22 8 16 50.0 4 7 57.1 2 4 50.0 2 16 18 2 1 2 2 4 16
+p202
+aVStephen Graham IND 03/01/2009 IND vs. DEN W 10 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 1 0 0 0 0 -3
+p203
+aVJeff Foster IND 03/01/2009 IND vs. DEN W 21 5 2 4 50.0 0 0 - 1 1 100.0 4 6 10 2 0 0 0 6 2
+p204
+aVBrandon Rush IND 03/01/2009 IND vs. DEN W 26 8 3 10 30.0 2 4 50.0 0 0 - 0 0 0 1 0 0 1 1 -1
+p205
+aVRoy Hibbert IND 03/01/2009 IND vs. DEN W 19 10 5 13 38.5 0 0 - 0 1 0.0 5 1 6 1 0 1 0 4 -1
+p206
+aVJeff Foster IND 02/27/2009 IND @ BOS L 33 7 3 6 50.0 0 0 - 1 2 50.0 3 4 7 1 4 0 2 3 11
+p207
+aVRoy Hibbert IND 02/27/2009 IND @ BOS L 13 3 1 5 20.0 0 0 - 1 2 50.0 2 1 3 0 0 1 0 4 -12
+p208
+aVTravis Diener IND 02/27/2009 IND @ BOS L 12 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 2 1 0 1 2 4
+p209
+aVMarquis Daniels IND 02/27/2009 IND @ BOS L 38 6 3 12 25.0 0 1 0.0 0 0 - 2 5 7 4 0 0 1 3 8
+p210
+aVTroy Murphy IND 02/27/2009 IND @ BOS L 36 20 6 11 54.5 1 3 33.3 7 7 100.0 3 10 13 3 1 2 1 4 -3
+p211
+aVJarrett Jack IND 02/27/2009 IND @ BOS L 27 14 5 11 45.5 0 2 0.0 4 4 100.0 1 2 3 3 1 0 2 4 -24
+p212
+aVRasho Nesterovic IND 02/27/2009 IND @ BOS L 13 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 1 0 -5
+p213
+aVBrandon Rush IND 02/27/2009 IND @ BOS L 31 17 7 15 46.7 3 7 42.9 0 0 - 0 3 3 1 0 0 2 1 5
+p214
+aVT.J. Ford IND 02/27/2009 IND @ BOS L 36 23 9 19 47.4 2 4 50.0 3 3 100.0 5 1 6 4 1 0 4 0 -9
+p215
+aVRoy Hibbert IND 02/25/2009 IND vs. MEM W 16 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 2 0 5 -3
+p216
+aVRasho Nesterovic IND 02/25/2009 IND vs. MEM W 21 4 2 7 28.6 0 0 - 0 0 - 3 2 5 0 1 0 1 2 8
+p217
+aVJarrett Jack IND 02/25/2009 IND vs. MEM W 41 20 7 13 53.8 2 5 40.0 4 6 66.7 0 3 3 6 2 0 4 2 8
+p218
+aVJeff Foster IND 02/25/2009 IND vs. MEM W 20 6 3 4 75.0 0 0 - 0 0 - 3 2 5 1 1 1 0 4 -4
+p219
+aVTravis Diener IND 02/25/2009 IND vs. MEM W 5 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 6
+p220
+aVTroy Murphy IND 02/25/2009 IND vs. MEM W 39 13 4 12 33.3 1 6 16.7 4 4 100.0 3 9 12 3 0 2 3 0 8
+p221
+aVT.J. Ford IND 02/25/2009 IND vs. MEM W 28 20 6 15 40.0 3 3 100.0 5 6 83.3 1 3 4 2 0 1 5 2 -2
+p222
+aVStephen Graham IND 02/25/2009 IND vs. MEM W 8 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 1 0 0 0 0 7
+p223
+aVBrandon Rush IND 02/25/2009 IND vs. MEM W 23 14 5 11 45.5 2 4 50.0 2 2 100.0 0 2 2 0 0 1 2 2 0
+p224
+aVMarquis Daniels IND 02/25/2009 IND vs. MEM W 39 14 6 11 54.5 0 1 0.0 2 2 100.0 1 5 6 3 2 3 5 2 -3
+p225
+aVRoy Hibbert IND 02/23/2009 IND @ NYK L 16 6 1 5 20.0 0 0 - 4 6 66.7 1 4 5 2 0 1 1 6 9
+p226
+aVJeff Foster IND 02/23/2009 IND @ NYK L 28 3 1 2 50.0 0 0 - 1 2 50.0 1 5 6 1 1 0 5 5 -10
+p227
+aVBrandon Rush IND 02/23/2009 IND @ NYK L 33 14 5 15 33.3 1 4 25.0 3 4 75.0 1 4 5 3 0 1 0 1 -15
+p228
+aVMaceo Baston IND 02/23/2009 IND @ NYK L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p229
+aVMarquis Daniels IND 02/23/2009 IND @ NYK L 42 28 12 23 52.2 1 5 20.0 3 4 75.0 4 1 5 1 2 0 3 2 7
+p230
+aVRasho Nesterovic IND 02/23/2009 IND @ NYK L 6 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 1 1
+p231
+aVStephen Graham IND 02/23/2009 IND @ NYK L 13 2 0 5 0.0 0 2 0.0 2 2 100.0 0 3 3 1 1 0 1 2 -8
+p232
+aVTravis Diener IND 02/23/2009 IND @ NYK L 21 8 2 4 50.0 2 4 50.0 2 2 100.0 0 2 2 1 1 0 0 3 -2
+p233
+aVTroy Murphy IND 02/23/2009 IND @ NYK L 35 19 8 16 50.0 1 6 16.7 2 3 66.7 3 18 21 4 0 0 2 5 1
+p234
+aVJarrett Jack IND 02/23/2009 IND @ NYK L 41 33 11 19 57.9 3 5 60.0 8 11 72.7 1 2 3 3 2 0 6 4 2
+p235
+aVT.J. Ford IND 02/22/2009 IND vs. CHI W 37 19 8 21 38.1 1 2 50.0 2 2 100.0 3 5 8 5 2 0 2 3 10
+p236
+aVJeff Foster IND 02/22/2009 IND vs. CHI W 22 4 2 6 33.3 0 0 - 0 0 - 2 3 5 0 1 0 1 1 1
+p237
+aVRoy Hibbert IND 02/22/2009 IND vs. CHI W 21 6 1 8 12.5 0 0 - 4 6 66.7 4 3 7 2 0 0 1 5 5
+p238
+aVRasho Nesterovic IND 02/22/2009 IND vs. CHI W 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p239
+aVJarrett Jack IND 02/22/2009 IND vs. CHI W 39 16 7 13 53.8 1 3 33.3 1 3 33.3 1 4 5 5 2 1 2 1 8
+p240
+aVBrandon Rush IND 02/22/2009 IND vs. CHI W 20 4 2 4 50.0 0 0 - 0 0 - 0 4 4 1 0 0 0 2 -15
+p241
+aVTravis Diener IND 02/22/2009 IND vs. CHI W 11 4 1 3 33.3 1 2 50.0 1 1 100.0 0 1 1 1 1 0 0 0 -3
+p242
+aVMarquis Daniels IND 02/22/2009 IND vs. CHI W 38 16 6 13 46.2 2 3 66.7 2 2 100.0 0 3 3 1 1 1 2 2 21
+p243
+aVMaceo Baston IND 02/22/2009 IND vs. CHI W 8 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -7
+p244
+aVTroy Murphy IND 02/22/2009 IND vs. CHI W 39 27 8 16 50.0 3 5 60.0 8 9 88.9 5 9 14 3 1 0 2 4 14
+p245
+aVMarquis Daniels IND 02/20/2009 IND @ MIN W 42 24 11 18 61.1 1 3 33.3 1 2 50.0 0 4 4 1 2 1 3 1 7
+p246
+aVJarrett Jack IND 02/20/2009 IND @ MIN W 38 18 4 11 36.4 2 2 100.0 8 8 100.0 1 3 4 5 2 1 2 3 -8
+p247
+aVJosh McRoberts IND 02/20/2009 IND @ MIN W 0 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p248
+aVBrandon Rush IND 02/20/2009 IND @ MIN W 26 10 4 12 33.3 1 4 25.0 1 2 50.0 0 3 3 1 1 2 1 1 4
+p249
+aVRoy Hibbert IND 02/20/2009 IND @ MIN W 15 7 3 6 50.0 0 0 - 1 2 50.0 1 2 3 0 1 2 2 4 -2
+p250
+aVTroy Murphy IND 02/20/2009 IND @ MIN W 37 16 4 12 33.3 3 6 50.0 5 6 83.3 5 9 14 3 1 0 3 3 -3
+p251
+aVTravis Diener IND 02/20/2009 IND @ MIN W 19 6 2 5 40.0 2 3 66.7 0 0 - 0 1 1 6 3 0 0 2 22
+p252
+aVRasho Nesterovic IND 02/20/2009 IND @ MIN W 20 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 1 1 1 4 17
+p253
+aVMaceo Baston IND 02/20/2009 IND @ MIN W 16 8 2 3 66.7 0 0 - 4 6 66.7 3 5 8 3 1 2 0 5 10
+p254
+aVT.J. Ford IND 02/20/2009 IND @ MIN W 27 13 6 12 50.0 1 1 100.0 0 0 - 0 5 5 2 0 0 5 3 -12
+p255
+aVMarquis Daniels IND 02/18/2009 IND @ CHA L 28 14 7 16 43.8 0 3 0.0 0 0 - 2 2 4 2 1 0 1 5 -17
+p256
+aVMaceo Baston IND 02/18/2009 IND @ CHA L 12 4 2 2 100.0 0 0 - 0 0 - 3 2 5 0 0 0 1 3 8
+p257
+aVTravis Diener IND 02/18/2009 IND @ CHA L 22 1 0 3 0.0 0 3 0.0 1 2 50.0 0 6 6 6 0 0 1 0 -8
+p258
+aVDanny Granger IND 02/18/2009 IND @ CHA L 10 12 4 9 44.4 2 3 66.7 2 2 100.0 1 0 1 0 0 1 1 1 -4
+p259
+aVRoy Hibbert IND 02/18/2009 IND @ CHA L 16 6 3 7 42.9 0 0 - 0 2 0.0 3 1 4 0 0 2 0 5 -1
+p260
+aVT.J. Ford IND 02/18/2009 IND @ CHA L 35 6 2 9 22.2 0 0 - 2 5 40.0 1 3 4 4 1 0 5 4 -5
+p261
+aVTroy Murphy IND 02/18/2009 IND @ CHA L 37 18 6 15 40.0 1 4 25.0 5 6 83.3 3 13 16 4 0 0 1 5 1
+p262
+aVBrandon Rush IND 02/18/2009 IND @ CHA L 22 5 2 9 22.2 1 6 16.7 0 2 0.0 0 0 0 1 0 0 0 1 -8
+p263
+aVRasho Nesterovic IND 02/18/2009 IND @ CHA L 18 10 5 6 83.3 0 0 - 0 0 - 0 1 1 1 0 1 0 1 -10
+p264
+aVJarrett Jack IND 02/18/2009 IND @ CHA L 40 18 7 15 46.7 1 3 33.3 3 4 75.0 2 6 8 5 1 2 2 3 -1
+p265
+aVMaceo Baston IND 02/17/2009 IND vs. PHI W 7 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 3
+p266
+aVBrandon Rush IND 02/17/2009 IND vs. PHI W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 5
+p267
+aVDanny Granger IND 02/17/2009 IND vs. PHI W 37 20 7 17 41.2 2 7 28.6 4 5 80.0 0 10 10 4 0 4 3 4 5
+p268
+aVTroy Murphy IND 02/17/2009 IND vs. PHI W 29 17 7 10 70.0 2 3 66.7 1 2 50.0 2 5 7 0 0 0 4 4 -5
+p269
+aVJarrett Jack IND 02/17/2009 IND vs. PHI W 37 12 5 8 62.5 1 3 33.3 1 2 50.0 2 4 6 3 1 0 1 2 -2
+p270
+aVT.J. Ford IND 02/17/2009 IND vs. PHI W 30 14 5 14 35.7 0 2 0.0 4 4 100.0 1 3 4 7 1 0 1 2 -10
+p271
+aVRoy Hibbert IND 02/17/2009 IND vs. PHI W 20 14 6 11 54.5 0 0 - 2 2 100.0 3 2 5 0 0 0 3 3 -2
+p272
+aVMarquis Daniels IND 02/17/2009 IND vs. PHI W 27 11 5 12 41.7 0 0 - 1 2 50.0 1 5 6 1 1 1 2 2 16
+p273
+aVTravis Diener IND 02/17/2009 IND vs. PHI W 18 4 2 3 66.7 0 1 0.0 0 0 - 1 6 7 5 0 0 2 2 19
+p274
+aVRasho Nesterovic IND 02/17/2009 IND vs. PHI W 21 8 4 5 80.0 0 0 - 0 0 - 0 2 2 0 1 2 2 4 16
+p275
+aVRasho Nesterovic IND 02/11/2009 IND @ MIL L 24 6 3 9 33.3 0 0 - 0 0 - 3 4 7 0 0 1 0 3 -4
+p276
+aVRoy Hibbert IND 02/11/2009 IND @ MIL L 10 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 1 0 4 -6
+p277
+aVDanny Granger IND 02/11/2009 IND @ MIL L 34 26 5 18 27.8 3 9 33.3 13 13 100.0 1 4 5 1 1 2 1 5 7
+p278
+aVBrandon Rush IND 02/11/2009 IND @ MIL L 36 9 4 10 40.0 1 3 33.3 0 1 0.0 2 4 6 0 2 2 1 4 -12
+p279
+aVStephen Graham IND 02/11/2009 IND @ MIL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 2 -5
+p280
+aVJarrett Jack IND 02/11/2009 IND @ MIL L 40 21 8 16 50.0 2 4 50.0 3 3 100.0 1 0 1 6 2 0 4 3 -3
+p281
+aVMaceo Baston IND 02/11/2009 IND @ MIL L 8 3 1 1 100.0 0 0 - 1 2 50.0 1 3 4 0 0 1 2 4 -8
+p282
+aVTroy Murphy IND 02/11/2009 IND @ MIL L 34 23 9 14 64.3 5 9 55.6 0 0 - 2 8 10 3 0 0 1 3 -6
+p283
+aVT.J. Ford IND 02/11/2009 IND @ MIL L 37 14 3 10 30.0 0 0 - 8 8 100.0 2 1 3 13 1 0 2 3 -9
+p284
+aVTravis Diener IND 02/11/2009 IND @ MIL L 15 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 1 -14
+p285
+aVJarrett Jack IND 02/10/2009 IND vs. CLE W 38 7 2 8 25.0 0 2 0.0 3 3 100.0 1 2 3 3 1 0 4 0 1
+p286
+aVRasho Nesterovic IND 02/10/2009 IND vs. CLE W 21 8 3 9 33.3 0 0 - 2 4 50.0 1 0 1 1 0 0 0 5 7
+p287
+aVBrandon Rush IND 02/10/2009 IND vs. CLE W 20 4 2 7 28.6 0 4 0.0 0 0 - 1 4 5 0 1 1 0 0 7
+p288
+aVTravis Diener IND 02/10/2009 IND vs. CLE W 18 13 5 7 71.4 3 3 100.0 0 0 - 0 1 1 0 1 0 0 0 6
+p289
+aVRoy Hibbert IND 02/10/2009 IND vs. CLE W 24 12 6 9 66.7 0 0 - 0 0 - 1 5 6 1 0 1 0 3 -4
+p290
+aVDanny Granger IND 02/10/2009 IND vs. CLE W 38 16 5 18 27.8 3 7 42.9 3 4 75.0 2 3 5 1 0 1 4 2 -7
+p291
+aVT.J. Ford IND 02/10/2009 IND vs. CLE W 30 15 6 13 46.2 1 2 50.0 2 3 66.7 0 1 1 4 3 0 1 1 -5
+p292
+aVStephen Graham IND 02/10/2009 IND vs. CLE W 6 3 1 2 50.0 0 0 - 1 1 100.0 0 1 1 2 0 1 0 0 0
+p293
+aVMaceo Baston IND 02/10/2009 IND vs. CLE W 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -1
+p294
+aVTroy Murphy IND 02/10/2009 IND vs. CLE W 37 18 7 9 77.8 4 5 80.0 0 0 - 3 12 15 3 0 0 1 4 1
+p295
+aVTroy Murphy IND 02/08/2009 IND @ WAS L 35 18 6 12 50.0 1 4 25.0 5 5 100.0 1 9 10 1 0 0 1 5 10
+p296
+aVTravis Diener IND 02/08/2009 IND @ WAS L 14 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 4 0 0 0 1 -6
+p297
+aVDanny Granger IND 02/08/2009 IND @ WAS L 35 29 9 15 60.0 4 7 57.1 7 7 100.0 0 5 5 4 0 0 1 4 -4
+p298
+aVRoy Hibbert IND 02/08/2009 IND @ WAS L 4 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -5
+p299
+aVJeff Foster IND 02/08/2009 IND @ WAS L 25 3 1 2 50.0 0 1 0.0 1 2 50.0 0 3 3 0 1 0 1 3 17
+p300
+aVStephen Graham IND 02/08/2009 IND @ WAS L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -4
+p301
+aVMaceo Baston IND 02/08/2009 IND @ WAS L 10 9 4 4 100.0 0 0 - 1 1 100.0 1 0 1 0 0 0 1 2 -10
+p302
+aVJarrett Jack IND 02/08/2009 IND @ WAS L 39 16 4 8 50.0 2 4 50.0 6 6 100.0 0 4 4 3 1 0 3 2 3
+p303
+aVRasho Nesterovic IND 02/08/2009 IND @ WAS L 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p304
+aVT.J. Ford IND 02/08/2009 IND @ WAS L 34 23 7 11 63.6 0 0 - 9 10 90.0 1 2 3 7 1 0 2 1 4
+p305
+aVBrandon Rush IND 02/08/2009 IND @ WAS L 29 11 4 10 40.0 2 4 50.0 1 1 100.0 1 4 5 2 0 1 1 3 -11
+p306
+aVMike Dunleavy IND 02/08/2009 IND @ WAS L 3 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 0
+p307
+aVDanny Granger IND 02/06/2009 IND vs. ORL W 37 33 9 21 42.9 3 8 37.5 12 12 100.0 0 5 5 1 0 2 1 2 5
+p308
+aVRoy Hibbert IND 02/06/2009 IND vs. ORL W 16 10 4 8 50.0 0 0 - 2 2 100.0 0 3 3 1 1 2 1 6 6
+p309
+aVMike Dunleavy IND 02/06/2009 IND vs. ORL W 36 11 3 10 30.0 1 5 20.0 4 4 100.0 0 4 4 4 3 0 2 2 1
+p310
+aVTravis Diener IND 02/06/2009 IND vs. ORL W 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 0 0 -2
+p311
+aVTroy Murphy IND 02/06/2009 IND vs. ORL W 32 20 6 11 54.5 2 5 40.0 6 7 85.7 1 7 8 2 1 1 0 5 -9
+p312
+aVJarrett Jack IND 02/06/2009 IND vs. ORL W 29 10 4 9 44.4 2 4 50.0 0 0 - 2 6 8 1 0 1 2 2 3
+p313
+aVBrandon Rush IND 02/06/2009 IND vs. ORL W 22 0 0 2 0.0 0 1 0.0 0 0 - 0 5 5 0 0 0 1 1 1
+p314
+aVT.J. Ford IND 02/06/2009 IND vs. ORL W 36 21 8 17 47.1 1 1 100.0 4 6 66.7 0 1 1 5 3 1 2 3 7
+p315
+aVMaceo Baston IND 02/06/2009 IND vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p316
+aVJeff Foster IND 02/06/2009 IND vs. ORL W 12 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 1 6 7
+p317
+aVStephen Graham IND 02/06/2009 IND vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p318
+aVRoy Hibbert IND 02/05/2009 IND @ PHI L 12 8 2 5 40.0 0 0 - 4 4 100.0 4 3 7 0 0 2 1 2 11
+p319
+aVStephen Graham IND 02/05/2009 IND @ PHI L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 2 -5
+p320
+aVT.J. Ford IND 02/05/2009 IND @ PHI L 21 2 1 6 16.7 0 0 - 0 0 - 1 0 1 7 0 0 2 3 -20
+p321
+aVTravis Diener IND 02/05/2009 IND @ PHI L 26 5 1 5 20.0 1 4 25.0 2 2 100.0 0 1 1 6 2 0 0 3 14
+p322
+aVTroy Murphy IND 02/05/2009 IND @ PHI L 37 15 6 9 66.7 3 4 75.0 0 0 - 4 10 14 2 1 1 0 4 -9
+p323
+aVJarrett Jack IND 02/05/2009 IND @ PHI L 36 18 7 13 53.8 3 7 42.9 1 2 50.0 0 3 3 1 1 0 3 3 3
+p324
+aVJeff Foster IND 02/05/2009 IND @ PHI L 9 0 0 3 0.0 0 0 - 0 0 - 1 2 3 2 0 1 0 0 -4
+p325
+aVRasho Nesterovic IND 02/05/2009 IND @ PHI L 7 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -3
+p326
+aVMike Dunleavy IND 02/05/2009 IND @ PHI L 38 21 7 18 38.9 4 10 40.0 3 3 100.0 0 4 4 2 3 1 3 2 -4
+p327
+aVDanny Granger IND 02/05/2009 IND @ PHI L 35 18 6 15 40.0 1 7 14.3 5 6 83.3 0 2 2 2 0 3 3 2 -2
+p328
+aVBrandon Rush IND 02/05/2009 IND @ PHI L 10 5 2 2 100.0 1 1 100.0 0 0 - 0 3 3 2 0 0 1 0 -6
+p329
+aVT.J. Ford IND 02/03/2009 IND vs. MIN L 34 14 3 10 30.0 0 1 0.0 8 12 66.7 0 1 1 7 3 0 3 4 -8
+p330
+aVJarrett Jack IND 02/03/2009 IND vs. MIN L 14 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 0 1 0 2 2 3
+p331
+aVMike Dunleavy IND 02/03/2009 IND vs. MIN L 33 20 8 15 53.3 3 6 50.0 1 2 50.0 1 2 3 2 0 2 3 1 -14
+p332
+aVJeff Foster IND 02/03/2009 IND vs. MIN L 27 9 3 5 60.0 0 0 - 3 4 75.0 4 1 5 5 0 1 2 2 5
+p333
+aVMaceo Baston IND 02/03/2009 IND vs. MIN L 14 4 2 3 66.7 0 1 0.0 0 0 - 0 1 1 0 1 1 1 2 -1
+p334
+aVStephen Graham IND 02/03/2009 IND vs. MIN L 6 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 3
+p335
+aVMarquis Daniels IND 02/03/2009 IND vs. MIN L 25 12 6 12 50.0 0 0 - 0 3 0.0 3 1 4 3 1 1 0 0 1
+p336
+aVDanny Granger IND 02/03/2009 IND vs. MIN L 37 28 10 19 52.6 4 7 57.1 4 4 100.0 0 5 5 4 1 2 2 1 -3
+p337
+aVRasho Nesterovic IND 02/03/2009 IND vs. MIN L 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -1
+p338
+aVTroy Murphy IND 02/03/2009 IND vs. MIN L 41 17 5 13 38.5 3 6 50.0 4 4 100.0 1 11 12 4 4 1 2 5 -10
+p339
+aVTravis Diener IND 01/31/2009 IND vs. NYK L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 1 1 0 1
+p340
+aVMaceo Baston IND 01/31/2009 IND vs. NYK L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p341
+aVT.J. Ford IND 01/31/2009 IND vs. NYK L 39 36 14 23 60.9 0 1 0.0 8 10 80.0 1 3 4 5 1 0 1 4 -10
+p342
+aVTroy Murphy IND 01/31/2009 IND vs. NYK L 25 6 2 6 33.3 0 2 0.0 2 2 100.0 3 8 11 1 0 0 0 2 -23
+p343
+aVRoy Hibbert IND 01/31/2009 IND vs. NYK L 3 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -7
+p344
+aVJarrett Jack IND 01/31/2009 IND vs. NYK L 33 10 5 15 33.3 0 3 0.0 0 0 - 0 2 2 4 2 0 1 2 7
+p345
+aVRasho Nesterovic IND 01/31/2009 IND vs. NYK L 5 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 1
+p346
+aVDanny Granger IND 01/31/2009 IND vs. NYK L 38 19 6 17 35.3 4 9 44.4 3 3 100.0 1 7 8 1 0 4 4 2 -10
+p347
+aVStephen Graham IND 01/31/2009 IND vs. NYK L 13 14 4 8 50.0 2 2 100.0 4 4 100.0 1 4 5 0 0 1 1 1 11
+p348
+aVMike Dunleavy IND 01/31/2009 IND vs. NYK L 38 14 6 18 33.3 2 7 28.6 0 0 - 2 5 7 3 0 1 3 1 -19
+p349
+aVJeff Foster IND 01/31/2009 IND vs. NYK L 30 7 2 5 40.0 0 0 - 3 4 75.0 6 4 10 0 0 0 1 2 4
+p350
+aVDanny Granger IND 01/30/2009 IND vs. MIA W 34 19 6 17 35.3 2 7 28.6 5 5 100.0 1 4 5 4 2 2 0 1 17
+p351
+aVStephen Graham IND 01/30/2009 IND vs. MIA W 9 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -10
+p352
+aVT.J. Ford IND 01/30/2009 IND vs. MIA W 23 12 3 9 33.3 0 0 - 6 7 85.7 2 1 3 3 0 0 1 2 18
+p353
+aVBrandon Rush IND 01/30/2009 IND vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p354
+aVMaceo Baston IND 01/30/2009 IND vs. MIA W 19 12 4 6 66.7 0 0 - 4 6 66.7 3 4 7 1 2 0 1 3 -2
+p355
+aVMarquis Daniels IND 01/30/2009 IND vs. MIA W 17 0 0 5 0.0 0 1 0.0 0 0 - 0 4 4 0 1 0 2 0 18
+p356
+aVMike Dunleavy IND 01/30/2009 IND vs. MIA W 36 30 10 18 55.6 4 8 50.0 6 7 85.7 2 4 6 5 2 0 0 2 13
+p357
+aVTroy Murphy IND 01/30/2009 IND vs. MIA W 31 19 6 11 54.5 5 6 83.3 2 2 100.0 2 10 12 4 1 0 1 3 23
+p358
+aVJeff Foster IND 01/30/2009 IND vs. MIA W 14 0 0 3 0.0 0 0 - 0 0 - 1 3 4 2 0 0 0 4 0
+p359
+aVTravis Diener IND 01/30/2009 IND vs. MIA W 16 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 1 -11
+p360
+aVJarrett Jack IND 01/30/2009 IND vs. MIA W 33 15 5 9 55.6 3 6 50.0 2 2 100.0 2 2 4 2 0 0 1 3 -1
+p361
+aVRasho Nesterovic IND 01/30/2009 IND vs. MIA W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -2
+p362
+aVMarquis Daniels IND 01/28/2009 IND vs. MIL W 29 3 1 5 20.0 0 1 0.0 1 4 25.0 2 2 4 4 3 0 2 4 6
+p363
+aVMaceo Baston IND 01/28/2009 IND vs. MIL W 7 3 0 3 0.0 0 0 - 3 4 75.0 1 0 1 0 0 0 0 2 -4
+p364
+aVT.J. Ford IND 01/28/2009 IND vs. MIL W 37 34 14 21 66.7 0 0 - 6 8 75.0 0 1 1 3 2 0 5 2 1
+p365
+aVRoy Hibbert IND 01/28/2009 IND vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -2
+p366
+aVMike Dunleavy IND 01/28/2009 IND vs. MIL W 28 14 3 8 37.5 2 4 50.0 6 10 60.0 0 3 3 2 0 1 3 1 5
+p367
+aVStephen Graham IND 01/28/2009 IND vs. MIL W 12 7 3 3 100.0 0 0 - 1 1 100.0 1 2 3 1 0 0 3 3 5
+p368
+aVTroy Murphy IND 01/28/2009 IND vs. MIL W 34 11 4 11 36.4 3 7 42.9 0 0 - 1 12 13 0 1 0 4 6 13
+p369
+aVJeff Foster IND 01/28/2009 IND vs. MIL W 28 7 3 4 75.0 0 0 - 1 2 50.0 2 7 9 1 0 0 0 5 1
+p370
+aVRasho Nesterovic IND 01/28/2009 IND vs. MIL W 22 14 7 9 77.8 0 0 - 0 0 - 2 3 5 1 0 0 1 5 2
+p371
+aVJarrett Jack IND 01/28/2009 IND vs. MIL W 42 14 6 15 40.0 0 3 0.0 2 2 100.0 0 2 2 6 3 0 3 2 13
+p372
+aVJarrett Jack IND 01/27/2009 IND @ ORL L 28 10 4 7 57.1 1 2 50.0 1 1 100.0 0 1 1 4 0 0 4 1 -21
+p373
+aVT.J. Ford IND 01/27/2009 IND @ ORL L 26 23 9 12 75.0 0 0 - 5 5 100.0 0 3 3 2 0 0 3 2 -9
+p374
+aVBrandon Rush IND 01/27/2009 IND @ ORL L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p375
+aVRoy Hibbert IND 01/27/2009 IND @ ORL L 15 12 6 10 60.0 0 0 - 0 0 - 2 2 4 1 0 2 0 3 -11
+p376
+aVDanny Granger IND 01/27/2009 IND @ ORL L 28 10 4 14 28.6 2 4 50.0 0 0 - 0 2 2 2 2 2 3 3 -15
+p377
+aVMaceo Baston IND 01/27/2009 IND @ ORL L 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 0 0 2 2
+p378
+aVMarquis Daniels IND 01/27/2009 IND @ ORL L 24 16 8 11 72.7 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -15
+p379
+aVTroy Murphy IND 01/27/2009 IND @ ORL L 25 13 4 7 57.1 3 6 50.0 2 2 100.0 0 7 7 0 1 0 1 3 -16
+p380
+aVMike Dunleavy IND 01/27/2009 IND @ ORL L 29 9 2 12 16.7 2 7 28.6 3 4 75.0 0 2 2 4 1 0 3 2 -8
+p381
+aVStephen Graham IND 01/27/2009 IND @ ORL L 18 6 2 7 28.6 0 2 0.0 2 2 100.0 0 1 1 3 0 0 0 4 -15
+p382
+aVJeff Foster IND 01/27/2009 IND @ ORL L 11 2 1 1 100.0 0 0 - 0 1 0.0 1 2 3 0 0 0 1 2 0
+p383
+aVTravis Diener IND 01/27/2009 IND @ ORL L 22 7 3 5 60.0 1 2 50.0 0 0 - 1 4 5 4 0 0 0 1 -15
+p384
+aVTroy Murphy IND 01/25/2009 IND vs. CHA W 38 11 5 11 45.5 1 5 20.0 0 0 - 1 13 14 1 1 1 3 0 4
+p385
+aVT.J. Ford IND 01/25/2009 IND vs. CHA W 27 13 4 11 36.4 0 2 0.0 5 6 83.3 1 2 3 7 1 0 2 0 -3
+p386
+aVRasho Nesterovic IND 01/25/2009 IND vs. CHA W 17 4 2 4 50.0 0 0 - 0 0 - 1 1 2 3 0 0 2 2 -7
+p387
+aVStephen Graham IND 01/25/2009 IND vs. CHA W 12 9 4 5 80.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 2 7
+p388
+aVJeff Foster IND 01/25/2009 IND vs. CHA W 31 7 3 8 37.5 0 0 - 1 2 50.0 10 3 13 3 0 2 3 4 11
+p389
+aVMike Dunleavy IND 01/25/2009 IND vs. CHA W 24 13 4 9 44.4 1 4 25.0 4 4 100.0 0 2 2 0 1 1 1 3 -1
+p390
+aVMarquis Daniels IND 01/25/2009 IND vs. CHA W 21 11 3 8 37.5 1 2 50.0 4 5 80.0 5 1 6 1 3 1 1 4 3
+p391
+aVMaceo Baston IND 01/25/2009 IND vs. CHA W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 2
+p392
+aVJarrett Jack IND 01/25/2009 IND vs. CHA W 24 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 3 0 0 2 2 5
+p393
+aVDanny Granger IND 01/25/2009 IND vs. CHA W 38 27 11 25 44.0 1 5 20.0 4 4 100.0 1 5 6 3 0 1 1 1 4
+p394
+aVT.J. Ford IND 01/23/2009 IND vs. HOU W 33 21 4 12 33.3 0 2 0.0 13 14 92.9 0 1 1 6 1 0 1 4 12
+p395
+aVTroy Murphy IND 01/23/2009 IND vs. HOU W 34 14 5 10 50.0 3 8 37.5 1 2 50.0 2 14 16 3 1 0 0 5 6
+p396
+aVJarrett Jack IND 01/23/2009 IND vs. HOU W 33 10 4 13 30.8 0 4 0.0 2 2 100.0 0 0 0 0 0 0 1 2 6
+p397
+aVMaceo Baston IND 01/23/2009 IND vs. HOU W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 6
+p398
+aVStephen Graham IND 01/23/2009 IND vs. HOU W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 2
+p399
+aVTravis Diener IND 01/23/2009 IND vs. HOU W 4 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p400
+aVDanny Granger IND 01/23/2009 IND vs. HOU W 38 25 5 19 26.3 3 5 60.0 12 12 100.0 0 6 6 5 2 3 2 1 6
+p401
+aVRasho Nesterovic IND 01/23/2009 IND vs. HOU W 16 9 4 5 80.0 0 0 - 1 2 50.0 1 1 2 1 1 1 0 3 -1
+p402
+aVJeff Foster IND 01/23/2009 IND vs. HOU W 31 8 4 6 66.7 0 0 - 0 0 - 4 3 7 2 1 0 2 4 -3
+p403
+aVMarquis Daniels IND 01/23/2009 IND vs. HOU W 13 4 2 4 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 0 1
+p404
+aVMike Dunleavy IND 01/23/2009 IND vs. HOU W 28 13 4 13 30.8 1 6 16.7 4 6 66.7 2 2 4 2 0 0 3 5 -10
+p405
+aVStephen Graham IND 01/20/2009 IND @ SAS L 16 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 1 1 -2
+p406
+aVMike Dunleavy IND 01/20/2009 IND @ SAS L 22 15 6 13 46.2 2 3 66.7 1 1 100.0 0 3 3 1 0 0 2 0 -8
+p407
+aVRasho Nesterovic IND 01/20/2009 IND @ SAS L 15 6 3 7 42.9 0 0 - 0 0 - 0 3 3 4 0 0 0 3 -12
+p408
+aVTroy Murphy IND 01/20/2009 IND @ SAS L 33 6 2 8 25.0 2 5 40.0 0 0 - 1 9 10 0 2 1 2 3 -14
+p409
+aVT.J. Ford IND 01/20/2009 IND @ SAS L 28 10 4 14 28.6 1 3 33.3 1 1 100.0 0 2 2 3 2 0 2 1 -10
+p410
+aVJeff Foster IND 01/20/2009 IND @ SAS L 27 2 1 3 33.3 0 0 - 0 0 - 2 2 4 3 2 0 3 3 -8
+p411
+aVJarrett Jack IND 01/20/2009 IND @ SAS L 13 4 2 3 66.7 0 0 - 0 0 - 0 2 2 2 0 0 1 4 -7
+p412
+aVDanny Granger IND 01/20/2009 IND @ SAS L 33 17 5 15 33.3 0 0 - 7 8 87.5 0 1 1 1 0 0 2 1 -22
+p413
+aVRoy Hibbert IND 01/20/2009 IND @ SAS L 12 7 2 3 66.7 0 0 - 3 4 75.0 0 3 3 1 0 1 1 3 6
+p414
+aVTravis Diener IND 01/20/2009 IND @ SAS L 9 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 1 0 0 0 0 -1
+p415
+aVMarquis Daniels IND 01/20/2009 IND @ SAS L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -11
+p416
+aVBrandon Rush IND 01/20/2009 IND @ SAS L 26 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 0 1 1 0 1 -1
+p417
+aVTravis Diener IND 01/19/2009 IND @ NOH L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 3 0 0 0 1 2
+p418
+aVTroy Murphy IND 01/19/2009 IND @ NOH L 35 17 6 13 46.2 0 5 0.0 5 5 100.0 2 9 11 5 0 0 2 5 -1
+p419
+aVJarrett Jack IND 01/19/2009 IND @ NOH L 41 11 4 11 36.4 1 4 25.0 2 4 50.0 1 4 5 4 0 0 2 1 -1
+p420
+aVStephen Graham IND 01/19/2009 IND @ NOH L 30 14 6 9 66.7 2 2 100.0 0 0 - 1 1 2 0 0 0 1 1 -13
+p421
+aVMike Dunleavy IND 01/19/2009 IND @ NOH L 28 11 5 13 38.5 0 1 0.0 1 1 100.0 2 3 5 2 1 0 1 5 9
+p422
+aVMarquis Daniels IND 01/19/2009 IND @ NOH L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p423
+aVDanny Granger IND 01/19/2009 IND @ NOH L 43 30 10 23 43.5 5 7 71.4 5 6 83.3 1 4 5 2 0 1 0 2 0
+p424
+aVT.J. Ford IND 01/19/2009 IND @ NOH L 23 8 3 10 30.0 0 0 - 2 2 100.0 0 2 2 4 2 0 3 6 -11
+p425
+aVJeff Foster IND 01/19/2009 IND @ NOH L 19 3 1 2 50.0 0 0 - 1 2 50.0 2 5 7 2 0 0 1 2 8
+p426
+aVRasho Nesterovic IND 01/19/2009 IND @ NOH L 12 6 2 4 50.0 0 0 - 2 2 100.0 1 2 3 0 1 0 1 3 -7
+p427
+aVTravis Diener IND 01/16/2009 IND vs. TOR W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 0 0 0 0 8
+p428
+aVJosh McRoberts IND 01/16/2009 IND vs. TOR W 5 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 0 2 6 -8
+p429
+aVRasho Nesterovic IND 01/16/2009 IND vs. TOR W 15 0 0 3 0.0 0 0 - 0 0 - 1 2 3 4 0 1 0 1 7
+p430
+aVJeff Foster IND 01/16/2009 IND vs. TOR W 28 11 4 5 80.0 0 0 - 3 5 60.0 1 1 2 3 0 0 1 3 -13
+p431
+aVRoy Hibbert IND 01/16/2009 IND vs. TOR W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 1
+p432
+aVStephen Graham IND 01/16/2009 IND vs. TOR W 14 9 4 4 100.0 0 0 - 1 2 50.0 0 2 2 0 1 0 1 3 6
+p433
+aVTroy Murphy IND 01/16/2009 IND vs. TOR W 41 15 6 9 66.7 3 6 50.0 0 0 - 1 14 15 3 2 0 2 4 17
+p434
+aVJarrett Jack IND 01/16/2009 IND vs. TOR W 39 17 5 10 50.0 1 3 33.3 6 6 100.0 0 3 3 7 1 0 0 1 5
+p435
+aVBrandon Rush IND 01/16/2009 IND vs. TOR W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 1 -12
+p436
+aVMike Dunleavy IND 01/16/2009 IND vs. TOR W 29 22 5 15 33.3 2 6 33.3 10 11 90.9 0 2 2 3 0 2 2 2 6
+p437
+aVT.J. Ford IND 01/16/2009 IND vs. TOR W 22 12 5 9 55.6 0 0 - 2 4 50.0 0 2 2 1 1 0 0 1 14
+p438
+aVDanny Granger IND 01/16/2009 IND vs. TOR W 32 23 8 24 33.3 3 10 30.0 4 4 100.0 2 3 5 4 2 2 1 4 4
+p439
+aVBrandon Rush IND 01/14/2009 IND vs. DET W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 1
+p440
+aVJarrett Jack IND 01/14/2009 IND vs. DET W 36 12 4 12 33.3 0 2 0.0 4 4 100.0 0 1 1 6 0 0 1 4 -3
+p441
+aVTroy Murphy IND 01/14/2009 IND vs. DET W 45 18 6 9 66.7 4 5 80.0 2 3 66.7 1 12 13 0 1 0 1 2 1
+p442
+aVT.J. Ford IND 01/14/2009 IND vs. DET W 29 23 8 13 61.5 1 1 100.0 6 7 85.7 0 6 6 4 0 0 2 3 8
+p443
+aVDanny Granger IND 01/14/2009 IND vs. DET W 45 24 6 20 30.0 2 6 33.3 10 11 90.9 0 10 10 0 1 1 0 2 5
+p444
+aVStephen Graham IND 01/14/2009 IND vs. DET W 21 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 0 0 0 2 3 -5
+p445
+aVJeff Foster IND 01/14/2009 IND vs. DET W 31 11 4 5 80.0 0 0 - 3 8 37.5 4 3 7 4 1 0 1 5 6
+p446
+aVRasho Nesterovic IND 01/14/2009 IND vs. DET W 20 8 4 9 44.4 0 0 - 0 0 - 2 3 5 1 1 0 0 2 2
+p447
+aVMike Dunleavy IND 01/14/2009 IND vs. DET W 33 12 5 14 35.7 1 1 100.0 1 1 100.0 3 3 6 2 0 0 3 1 5
+p448
+aVJarrett Jack IND 01/12/2009 IND @ UTA L 38 13 5 10 50.0 1 2 50.0 2 2 100.0 1 4 5 3 1 0 3 2 -15
+p449
+aVTroy Murphy IND 01/12/2009 IND @ UTA L 31 12 4 9 44.4 2 4 50.0 2 2 100.0 0 10 10 3 0 2 0 5 -12
+p450
+aVRoy Hibbert IND 01/12/2009 IND @ UTA L 6 7 3 4 75.0 0 0 - 1 1 100.0 1 0 1 2 0 0 1 3 -5
+p451
+aVStephen Graham IND 01/12/2009 IND @ UTA L 17 5 2 4 50.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 3 -3
+p452
+aVDanny Granger IND 01/12/2009 IND @ UTA L 40 30 10 19 52.6 6 7 85.7 4 4 100.0 0 1 1 7 0 2 3 2 -3
+p453
+aVTravis Diener IND 01/12/2009 IND @ UTA L 26 3 1 6 16.7 1 4 25.0 0 0 - 2 2 4 8 1 0 2 3 2
+p454
+aVRasho Nesterovic IND 01/12/2009 IND @ UTA L 20 12 6 11 54.5 0 0 - 0 0 - 1 1 2 4 0 2 1 3 -2
+p455
+aVJeff Foster IND 01/12/2009 IND @ UTA L 34 11 4 7 57.1 0 0 - 3 5 60.0 2 6 8 4 2 1 4 5 6
+p456
+aVMike Dunleavy IND 01/12/2009 IND @ UTA L 23 20 7 14 50.0 3 5 60.0 3 3 100.0 1 6 7 2 0 0 4 1 -1
+p457
+aVBrandon Rush IND 01/12/2009 IND @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -2
+p458
+aVDanny Granger IND 01/11/2009 IND @ GSW L 41 42 13 27 48.1 2 6 33.3 14 14 100.0 2 5 7 3 2 2 2 5 -7
+p459
+aVJarrett Jack IND 01/11/2009 IND @ GSW L 40 12 5 11 45.5 0 1 0.0 2 2 100.0 1 5 6 6 2 0 1 3 -9
+p460
+aVStephen Graham IND 01/11/2009 IND @ GSW L 26 11 5 10 50.0 1 2 50.0 0 0 - 2 3 5 0 1 0 0 6 8
+p461
+aVT.J. Ford IND 01/11/2009 IND @ GSW L 25 15 6 12 50.0 1 1 100.0 2 2 100.0 0 1 1 6 0 0 4 2 8
+p462
+aVTravis Diener IND 01/11/2009 IND @ GSW L 14 8 3 4 75.0 2 3 66.7 0 0 - 0 0 0 2 0 0 0 0 -11
+p463
+aVJeff Foster IND 01/11/2009 IND @ GSW L 26 6 2 7 28.6 0 0 - 2 6 33.3 6 6 12 3 1 0 1 3 1
+p464
+aVMike Dunleavy IND 01/11/2009 IND @ GSW L 22 10 4 14 28.6 2 7 28.6 0 0 - 0 4 4 1 0 0 1 2 5
+p465
+aVRasho Nesterovic IND 01/11/2009 IND @ GSW L 7 6 3 3 100.0 0 0 - 0 0 - 0 0 0 2 1 0 1 4 3
+p466
+aVBrandon Rush IND 01/11/2009 IND @ GSW L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -7
+p467
+aVTroy Murphy IND 01/11/2009 IND @ GSW L 30 7 0 4 0.0 0 1 0.0 7 8 87.5 0 6 6 0 0 0 1 3 -6
+p468
+aVStephen Graham IND 01/09/2009 IND @ LAL L 21 10 4 8 50.0 0 2 0.0 2 2 100.0 0 1 1 0 1 0 1 3 6
+p469
+aVJeff Foster IND 01/09/2009 IND @ LAL L 18 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 0 2 4 -1
+p470
+aVRoy Hibbert IND 01/09/2009 IND @ LAL L 15 11 3 6 50.0 0 0 - 5 6 83.3 1 0 1 3 1 1 0 3 -10
+p471
+aVMike Dunleavy IND 01/09/2009 IND @ LAL L 23 22 8 14 57.1 2 6 33.3 4 5 80.0 0 4 4 5 1 0 1 1 -3
+p472
+aVTravis Diener IND 01/09/2009 IND @ LAL L 25 5 2 4 50.0 1 3 33.3 0 0 - 0 4 4 6 0 0 1 0 -1
+p473
+aVJosh McRoberts IND 01/09/2009 IND @ LAL L 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 3
+p474
+aVTroy Murphy IND 01/09/2009 IND @ LAL L 33 24 9 14 64.3 6 9 66.7 0 0 - 2 4 6 3 0 1 1 2 -7
+p475
+aVJarrett Jack IND 01/09/2009 IND @ LAL L 40 3 0 6 0.0 0 1 0.0 3 4 75.0 3 2 5 8 2 0 3 3 -6
+p476
+aVBrandon Rush IND 01/09/2009 IND @ LAL L 6 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 0 2 -1
+p477
+aVRasho Nesterovic IND 01/09/2009 IND @ LAL L 19 8 3 8 37.5 0 0 - 2 2 100.0 2 0 2 4 2 0 3 2 9
+p478
+aVDanny Granger IND 01/09/2009 IND @ LAL L 37 28 8 17 47.1 2 8 25.0 10 11 90.9 1 3 4 1 2 1 1 6 1
+p479
+aVRoy Hibbert IND 01/07/2009 IND @ PHX W 8 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 0 1 2 11
+p480
+aVRasho Nesterovic IND 01/07/2009 IND @ PHX W 17 10 5 6 83.3 0 0 - 0 0 - 0 5 5 3 1 0 1 1 2
+p481
+aVTravis Diener IND 01/07/2009 IND @ PHX W 25 5 2 9 22.2 0 6 0.0 1 2 50.0 0 2 2 3 1 0 0 1 -9
+p482
+aVBrandon Rush IND 01/07/2009 IND @ PHX W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 1 2 1 -8
+p483
+aVJeff Foster IND 01/07/2009 IND @ PHX W 27 8 4 5 80.0 0 0 - 0 0 - 2 7 9 2 2 2 2 5 -10
+p484
+aVMike Dunleavy IND 01/07/2009 IND @ PHX W 21 14 6 12 50.0 0 3 0.0 2 3 66.7 1 1 2 4 0 1 2 4 -7
+p485
+aVTroy Murphy IND 01/07/2009 IND @ PHX W 23 12 4 10 40.0 4 6 66.7 0 0 - 1 5 6 3 1 0 0 3 6
+p486
+aVJarrett Jack IND 01/07/2009 IND @ PHX W 32 11 5 10 50.0 0 1 0.0 1 1 100.0 1 1 2 5 0 0 3 4 6
+p487
+aVStephen Graham IND 01/07/2009 IND @ PHX W 34 13 6 10 60.0 1 2 50.0 0 0 - 1 6 7 3 0 0 2 4 8
+p488
+aVDanny Granger IND 01/07/2009 IND @ PHX W 38 37 13 27 48.1 5 11 45.5 6 7 85.7 0 5 5 6 4 1 2 3 16
+p489
+aVJosh McRoberts IND 01/05/2009 IND @ DEN L 5 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 0 0
+p490
+aVStephen Graham IND 01/05/2009 IND @ DEN L 29 16 6 12 50.0 0 0 - 4 6 66.7 1 4 5 2 0 0 2 4 -19
+p491
+aVRasho Nesterovic IND 01/05/2009 IND @ DEN L 16 2 1 7 14.3 0 0 - 0 0 - 0 3 3 4 2 0 1 3 -15
+p492
+aVDanny Granger IND 01/05/2009 IND @ DEN L 41 36 11 22 50.0 4 8 50.0 10 11 90.9 1 3 4 5 0 0 1 1 -17
+p493
+aVJeff Foster IND 01/05/2009 IND @ DEN L 23 9 3 8 37.5 0 0 - 3 4 75.0 3 1 4 4 0 2 3 4 -6
+p494
+aVTroy Murphy IND 01/05/2009 IND @ DEN L 32 15 4 10 40.0 3 8 37.5 4 4 100.0 1 11 12 4 3 1 1 1 -12
+p495
+aVRoy Hibbert IND 01/05/2009 IND @ DEN L 18 10 4 9 44.4 0 0 - 2 4 50.0 1 1 2 1 0 1 0 5 0
+p496
+aVBrandon Rush IND 01/05/2009 IND @ DEN L 7 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p497
+aVJarrett Jack IND 01/05/2009 IND @ DEN L 41 17 8 16 50.0 1 3 33.3 0 0 - 0 2 2 7 0 0 1 4 -21
+p498
+aVMarquis Daniels IND 01/05/2009 IND @ DEN L 12 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -10
+p499
+aVTravis Diener IND 01/05/2009 IND @ DEN L 17 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 4 1 0 0 0 2
+p500
+aVT.J. Ford IND 01/03/2009 IND vs. SAC W 29 16 6 9 66.7 0 2 0.0 4 6 66.7 0 1 1 7 1 1 2 3 7
+p501
+aVJarrett Jack IND 01/03/2009 IND vs. SAC W 34 13 5 9 55.6 2 2 100.0 1 1 100.0 1 6 7 4 0 0 3 4 19
+p502
+aVJosh McRoberts IND 01/03/2009 IND vs. SAC W 6 2 1 4 25.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 6
+p503
+aVBrandon Rush IND 01/03/2009 IND vs. SAC W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -9
+p504
+aVRasho Nesterovic IND 01/03/2009 IND vs. SAC W 7 8 4 5 80.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p505
+aVTravis Diener IND 01/03/2009 IND vs. SAC W 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -4
+p506
+aVDanny Granger IND 01/03/2009 IND vs. SAC W 40 35 10 20 50.0 2 6 33.3 13 16 81.3 0 6 6 4 0 2 4 4 10
+p507
+aVMarquis Daniels IND 01/03/2009 IND vs. SAC W 23 12 4 8 50.0 0 0 - 4 4 100.0 1 1 2 0 0 0 0 3 -3
+p508
+aVStephen Graham IND 01/03/2009 IND vs. SAC W 15 6 2 6 33.3 0 2 0.0 2 2 100.0 2 1 3 0 0 0 1 3 2
+p509
+aVJeff Foster IND 01/03/2009 IND vs. SAC W 27 6 2 4 50.0 0 0 - 2 2 100.0 3 2 5 1 0 0 0 1 5
+p510
+aVRoy Hibbert IND 01/03/2009 IND vs. SAC W 18 12 5 6 83.3 0 0 - 2 2 100.0 2 1 3 1 1 0 2 2 0
+p511
+aVTroy Murphy IND 01/03/2009 IND vs. SAC W 27 12 4 12 33.3 2 4 50.0 2 2 100.0 2 11 13 1 1 0 1 4 -7
+p512
+aVJosh McRoberts IND 01/02/2009 IND @ NYK W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -7
+p513
+aVTravis Diener IND 01/02/2009 IND @ NYK W 10 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 0 1 0 1 -1
+p514
+aVMarquis Daniels IND 01/02/2009 IND @ NYK W 35 13 6 17 35.3 0 1 0.0 1 1 100.0 0 2 2 2 1 1 0 1 5
+p515
+aVT.J. Ford IND 01/02/2009 IND @ NYK W 27 2 1 9 11.1 0 1 0.0 0 0 - 0 2 2 4 1 1 5 2 -4
+p516
+aVBrandon Rush IND 01/02/2009 IND @ NYK W 16 6 2 4 50.0 2 3 66.7 0 0 - 0 0 0 0 1 0 1 1 -3
+p517
+aVDanny Granger IND 01/02/2009 IND @ NYK W 40 22 5 10 50.0 2 4 50.0 10 10 100.0 0 4 4 6 2 3 2 5 0
+p518
+aVJarrett Jack IND 01/02/2009 IND @ NYK W 41 29 10 14 71.4 4 7 57.1 5 5 100.0 1 4 5 2 3 0 5 1 10
+p519
+aVTroy Murphy IND 01/02/2009 IND @ NYK W 37 15 5 14 35.7 1 4 25.0 4 6 66.7 5 13 18 4 3 0 3 3 9
+p520
+aVJeff Foster IND 01/02/2009 IND @ NYK W 20 4 1 3 33.3 0 0 - 2 4 50.0 2 6 8 2 1 1 1 3 -6
+p521
+aVRoy Hibbert IND 01/02/2009 IND @ NYK W 11 10 5 8 62.5 0 0 - 0 0 - 1 3 4 0 0 2 0 2 7
+p522
+aVRasho Nesterovic IND 12/30/2008 IND vs. ATL L 11 8 4 7 57.1 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p523
+aVTravis Diener IND 12/30/2008 IND vs. ATL L 13 8 3 5 60.0 2 4 50.0 0 0 - 0 1 1 2 0 0 0 1 5
+p524
+aVJeff Foster IND 12/30/2008 IND vs. ATL L 28 12 5 7 71.4 0 0 - 2 2 100.0 5 7 12 3 1 0 1 4 -10
+p525
+aVT.J. Ford IND 12/30/2008 IND vs. ATL L 11 5 2 8 25.0 0 1 0.0 1 1 100.0 1 1 2 1 0 0 0 2 -10
+p526
+aVDanny Granger IND 12/30/2008 IND vs. ATL L 40 25 6 18 33.3 1 5 20.0 12 16 75.0 0 7 7 5 0 2 2 3 4
+p527
+aVBrandon Rush IND 12/30/2008 IND vs. ATL L 27 3 1 9 11.1 1 5 20.0 0 0 - 2 0 2 1 0 0 1 1 -8
+p528
+aVJarrett Jack IND 12/30/2008 IND vs. ATL L 31 22 8 14 57.1 1 2 50.0 5 7 71.4 0 0 0 4 1 1 2 3 -3
+p529
+aVRoy Hibbert IND 12/30/2008 IND vs. ATL L 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 1
+p530
+aVMarquis Daniels IND 12/30/2008 IND vs. ATL L 33 11 5 10 50.0 0 0 - 1 1 100.0 1 2 3 0 2 1 2 5 0
+p531
+aVTroy Murphy IND 12/30/2008 IND vs. ATL L 32 10 3 7 42.9 2 4 50.0 2 2 100.0 2 12 14 2 2 0 2 3 -7
+p532
+aVMarquis Daniels IND 12/28/2008 IND vs. NOH L 33 7 3 8 37.5 0 0 - 1 2 50.0 0 2 2 6 0 1 2 3 -9
+p533
+aVJarrett Jack IND 12/28/2008 IND vs. NOH L 31 9 4 9 44.4 1 2 50.0 0 0 - 0 2 2 6 1 0 4 1 -3
+p534
+aVJeff Foster IND 12/28/2008 IND vs. NOH L 20 5 2 2 100.0 0 0 - 1 1 100.0 1 3 4 1 0 0 1 5 -2
+p535
+aVDanny Granger IND 12/28/2008 IND vs. NOH L 39 34 12 23 52.2 4 4 100.0 6 7 85.7 0 5 5 2 2 0 5 1 0
+p536
+aVRasho Nesterovic IND 12/28/2008 IND vs. NOH L 19 4 2 5 40.0 0 0 - 0 0 - 1 2 3 2 0 0 1 1 -3
+p537
+aVTroy Murphy IND 12/28/2008 IND vs. NOH L 40 16 6 12 50.0 2 4 50.0 2 2 100.0 1 15 16 4 0 1 1 2 -1
+p538
+aVBrandon Rush IND 12/28/2008 IND vs. NOH L 23 1 0 1 0.0 0 0 - 1 4 25.0 0 4 4 2 0 1 0 1 5
+p539
+aVRoy Hibbert IND 12/28/2008 IND vs. NOH L 18 19 7 14 50.0 0 0 - 5 6 83.3 5 1 6 0 1 0 2 5 2
+p540
+aVTravis Diener IND 12/28/2008 IND vs. NOH L 17 8 3 4 75.0 2 2 100.0 0 0 - 0 4 4 1 0 0 0 1 1
+p541
+aVBrandon Rush IND 12/26/2008 IND @ MEM L 34 8 3 5 60.0 0 0 - 2 2 100.0 0 2 2 3 1 1 1 3 -15
+p542
+aVJeff Foster IND 12/26/2008 IND @ MEM L 14 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 1 0 0 4 -4
+p543
+aVTroy Murphy IND 12/26/2008 IND @ MEM L 36 6 3 8 37.5 0 3 0.0 0 0 - 4 8 12 2 0 0 2 3 5
+p544
+aVMarquis Daniels IND 12/26/2008 IND @ MEM L 38 28 11 19 57.9 2 3 66.7 4 5 80.0 2 3 5 3 2 0 2 4 -3
+p545
+aVDanny Granger IND 12/26/2008 IND @ MEM L 28 26 9 16 56.3 4 8 50.0 4 8 50.0 0 5 5 5 1 2 4 2 6
+p546
+aVTravis Diener IND 12/26/2008 IND @ MEM L 15 2 1 7 14.3 0 5 0.0 0 0 - 0 0 0 2 1 0 0 0 0
+p547
+aVRoy Hibbert IND 12/26/2008 IND @ MEM L 12 15 7 7 100.0 0 0 - 1 1 100.0 1 1 2 1 0 1 1 5 4
+p548
+aVRasho Nesterovic IND 12/26/2008 IND @ MEM L 28 14 6 9 66.7 0 0 - 2 2 100.0 4 5 9 1 0 1 2 5 -7
+p549
+aVJarrett Jack IND 12/26/2008 IND @ MEM L 35 6 3 8 37.5 0 3 0.0 0 0 - 0 1 1 5 2 0 4 2 -1
+p550
+aVTravis Diener IND 12/23/2008 IND vs. NJN L 18 11 4 6 66.7 3 4 75.0 0 0 - 0 1 1 4 1 0 1 3 7
+p551
+aVJosh McRoberts IND 12/23/2008 IND vs. NJN L 25 8 4 10 40.0 0 0 - 0 0 - 1 3 4 5 2 0 0 1 -5
+p552
+aVBrandon Rush IND 12/23/2008 IND vs. NJN L 43 22 8 12 66.7 4 5 80.0 2 2 100.0 2 6 8 1 3 0 1 2 -6
+p553
+aVRoy Hibbert IND 12/23/2008 IND vs. NJN L 11 4 2 7 28.6 0 0 - 0 0 - 0 1 1 0 0 2 0 3 -4
+p554
+aVJarrett Jack IND 12/23/2008 IND vs. NJN L 38 2 0 7 0.0 0 2 0.0 2 2 100.0 0 4 4 8 0 0 4 5 -1
+p555
+aVT.J. Ford IND 12/23/2008 IND vs. NJN L 11 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 5 1 0 1 1 -4
+p556
+aVRasho Nesterovic IND 12/23/2008 IND vs. NJN L 21 13 6 9 66.7 0 0 - 1 1 100.0 0 1 1 1 0 3 0 2 0
+p557
+aVJeff Foster IND 12/23/2008 IND vs. NJN L 32 12 6 10 60.0 0 0 - 0 0 - 7 7 14 2 0 2 2 3 0
+p558
+aVDanny Granger IND 12/23/2008 IND vs. NJN L 33 26 10 20 50.0 4 7 57.1 2 4 50.0 0 1 1 4 0 0 0 4 7
+p559
+aVStephen Graham IND 12/23/2008 IND vs. NJN L 8 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 0 0 1 0 1
+p560
+aVTravis Diener IND 12/20/2008 IND @ PHI W 15 12 3 6 50.0 3 5 60.0 3 3 100.0 0 1 1 1 1 0 0 2 2
+p561
+aVRasho Nesterovic IND 12/20/2008 IND @ PHI W 13 4 2 4 50.0 0 0 - 0 0 - 2 0 2 1 0 0 1 5 0
+p562
+aVT.J. Ford IND 12/20/2008 IND @ PHI W 34 25 8 14 57.1 0 1 0.0 9 9 100.0 1 5 6 3 5 0 4 1 0
+p563
+aVBrandon Rush IND 12/20/2008 IND @ PHI W 38 11 4 9 44.4 3 5 60.0 0 0 - 0 3 3 1 0 0 3 2 1
+p564
+aVRoy Hibbert IND 12/20/2008 IND @ PHI W 21 8 3 9 33.3 0 0 - 2 2 100.0 2 2 4 0 0 0 1 3 -15
+p565
+aVStephen Graham IND 12/20/2008 IND @ PHI W 25 4 2 10 20.0 0 1 0.0 0 0 - 1 0 1 3 0 0 0 1 2
+p566
+aVJeff Foster IND 12/20/2008 IND @ PHI W 33 9 4 9 44.4 0 0 - 1 1 100.0 3 7 10 1 0 0 0 2 6
+p567
+aVJarrett Jack IND 12/20/2008 IND @ PHI W 32 12 5 10 50.0 0 0 - 2 3 66.7 0 4 4 8 2 0 2 3 0
+p568
+aVJosh McRoberts IND 12/20/2008 IND @ PHI W 28 10 5 12 41.7 0 4 0.0 0 0 - 3 5 8 0 0 4 3 3 9
+p569
+aVTravis Diener IND 12/19/2008 IND vs. LAC L 9 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 1 1 0
+p570
+aVJosh McRoberts IND 12/19/2008 IND vs. LAC L 17 4 1 3 33.3 0 0 - 2 4 50.0 2 3 5 1 0 1 0 2 -16
+p571
+aVStephen Graham IND 12/19/2008 IND vs. LAC L 21 5 2 7 28.6 1 3 33.3 0 0 - 1 4 5 0 0 0 4 3 -3
+p572
+aVT.J. Ford IND 12/19/2008 IND vs. LAC L 39 17 6 10 60.0 0 0 - 5 5 100.0 1 0 1 6 1 1 5 4 -3
+p573
+aVJeff Foster IND 12/19/2008 IND vs. LAC L 29 4 2 7 28.6 0 1 0.0 0 0 - 4 7 11 2 1 1 4 6 5
+p574
+aVRasho Nesterovic IND 12/19/2008 IND vs. LAC L 35 16 7 14 50.0 0 0 - 2 2 100.0 2 6 8 1 1 1 1 3 -7
+p575
+aVJarrett Jack IND 12/19/2008 IND vs. LAC L 48 27 10 18 55.6 1 4 25.0 6 7 85.7 1 3 4 7 3 0 3 1 -6
+p576
+aVMaceo Baston IND 12/19/2008 IND vs. LAC L 14 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 0 1 3 1 1 1
+p577
+aVBrandon Rush IND 12/19/2008 IND vs. LAC L 54 14 5 22 22.7 1 8 12.5 3 6 50.0 0 7 7 4 2 1 4 5 -10
+p578
+aVRoy Hibbert IND 12/19/2008 IND vs. LAC L 23 16 8 10 80.0 0 0 - 0 0 - 1 7 8 0 1 5 2 2 -1
+p579
+aVTravis Diener IND 12/17/2008 IND vs. GSW W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 4 1 0 1 1 9
+p580
+aVDanny Granger IND 12/17/2008 IND vs. GSW W 40 41 11 27 40.7 2 5 40.0 17 17 100.0 1 10 11 6 1 2 2 3 -8
+p581
+aVJarrett Jack IND 12/17/2008 IND vs. GSW W 38 24 7 14 50.0 2 2 100.0 8 8 100.0 2 4 6 2 1 1 4 2 -2
+p582
+aVRasho Nesterovic IND 12/17/2008 IND vs. GSW W 19 12 6 9 66.7 0 0 - 0 0 - 3 1 4 0 1 0 1 2 3
+p583
+aVMarquis Daniels IND 12/17/2008 IND vs. GSW W 30 23 11 20 55.0 0 1 0.0 1 2 50.0 3 5 8 5 3 1 1 2 -1
+p584
+aVBrandon Rush IND 12/17/2008 IND vs. GSW W 42 10 4 17 23.5 2 7 28.6 0 0 - 2 9 11 0 2 2 1 5 11
+p585
+aVStephen Graham IND 12/17/2008 IND vs. GSW W 31 11 5 10 50.0 0 1 0.0 1 2 50.0 2 2 4 2 2 0 1 1 19
+p586
+aVJeff Foster IND 12/17/2008 IND vs. GSW W 29 6 3 7 42.9 0 0 - 0 0 - 7 4 11 0 1 0 1 2 4
+p587
+aVJeff Foster IND 12/15/2008 IND @ WAS W 29 9 4 8 50.0 0 0 - 1 4 25.0 7 4 11 1 1 1 0 3 23
+p588
+aVRoy Hibbert IND 12/15/2008 IND @ WAS W 12 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 4 -8
+p589
+aVBrandon Rush IND 12/15/2008 IND @ WAS W 29 8 4 10 40.0 0 4 0.0 0 0 - 2 2 4 2 1 0 0 2 12
+p590
+aVJosh McRoberts IND 12/15/2008 IND @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p591
+aVMarquis Daniels IND 12/15/2008 IND @ WAS W 36 20 10 17 58.8 0 0 - 0 1 0.0 5 3 8 7 1 1 2 1 23
+p592
+aVJarrett Jack IND 12/15/2008 IND @ WAS W 25 16 5 10 50.0 1 1 100.0 5 7 71.4 0 2 2 3 3 0 2 2 24
+p593
+aVT.J. Ford IND 12/15/2008 IND @ WAS W 29 16 6 16 37.5 0 1 0.0 4 4 100.0 0 5 5 5 1 0 1 1 6
+p594
+aVDanny Granger IND 12/15/2008 IND @ WAS W 38 27 8 21 38.1 1 7 14.3 10 10 100.0 3 6 9 5 5 0 1 3 16
+p595
+aVStephen Graham IND 12/15/2008 IND @ WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p596
+aVTroy Murphy IND 12/15/2008 IND @ WAS W 23 8 3 6 50.0 2 4 50.0 0 0 - 4 8 12 1 0 0 2 4 -1
+p597
+aVRasho Nesterovic IND 12/15/2008 IND @ WAS W 17 12 6 6 100.0 0 0 - 0 0 - 1 1 2 0 0 1 1 4 5
+p598
+aVRasho Nesterovic IND 12/13/2008 IND @ MIL L 12 0 0 4 0.0 0 0 - 0 0 - 2 1 3 2 0 0 1 3 -13
+p599
+aVDanny Granger IND 12/13/2008 IND @ MIL L 25 14 6 12 50.0 0 3 0.0 2 2 100.0 1 1 2 2 0 0 3 5 -10
+p600
+aVMarquis Daniels IND 12/13/2008 IND @ MIL L 30 7 3 9 33.3 0 1 0.0 1 2 50.0 0 1 1 2 3 1 5 0 -21
+p601
+aVJosh McRoberts IND 12/13/2008 IND @ MIL L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p602
+aVRoy Hibbert IND 12/13/2008 IND @ MIL L 18 8 4 7 57.1 0 0 - 0 1 0.0 1 1 2 0 0 1 1 3 0
+p603
+aVJarrett Jack IND 12/13/2008 IND @ MIL L 31 8 3 7 42.9 1 1 100.0 1 1 100.0 0 4 4 1 0 0 1 1 -20
+p604
+aVBrandon Rush IND 12/13/2008 IND @ MIL L 28 16 5 9 55.6 2 2 100.0 4 4 100.0 0 2 2 1 2 0 1 3 6
+p605
+aVT.J. Ford IND 12/13/2008 IND @ MIL L 35 27 8 14 57.1 1 1 100.0 10 11 90.9 1 4 5 6 2 0 2 2 -3
+p606
+aVJeff Foster IND 12/13/2008 IND @ MIL L 26 14 6 10 60.0 1 1 100.0 1 3 33.3 4 1 5 3 2 0 2 3 -13
+p607
+aVTroy Murphy IND 12/13/2008 IND @ MIL L 34 9 2 10 20.0 1 7 14.3 4 4 100.0 2 9 11 2 0 0 1 4 -13
+p608
+aVJarrett Jack IND 12/12/2008 IND @ DET L 26 11 2 6 33.3 0 0 - 7 9 77.8 1 3 4 5 3 0 1 3 0
+p609
+aVMarquis Daniels IND 12/12/2008 IND @ DET L 29 11 5 8 62.5 0 1 0.0 1 2 50.0 0 2 2 1 0 0 1 1 -6
+p610
+aVTroy Murphy IND 12/12/2008 IND @ DET L 39 10 4 7 57.1 2 3 66.7 0 0 - 2 9 11 3 1 0 2 0 -5
+p611
+aVJeff Foster IND 12/12/2008 IND @ DET L 27 8 3 3 100.0 0 0 - 2 2 100.0 1 3 4 0 2 0 0 2 8
+p612
+aVT.J. Ford IND 12/12/2008 IND @ DET L 39 12 4 10 40.0 1 1 100.0 3 3 100.0 2 5 7 10 0 0 4 5 -2
+p613
+aVDanny Granger IND 12/12/2008 IND @ DET L 43 42 13 21 61.9 3 7 42.9 13 13 100.0 0 7 7 6 0 0 6 4 -5
+p614
+aVRasho Nesterovic IND 12/12/2008 IND @ DET L 26 16 8 12 66.7 0 0 - 0 0 - 1 2 3 2 1 2 6 3 -6
+p615
+aVBrandon Rush IND 12/12/2008 IND @ DET L 10 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 1 0 0 3 -4
+p616
+aVRasho Nesterovic IND 12/10/2008 IND @ TOR L 16 0 0 4 0.0 0 0 - 0 0 - 2 1 3 3 1 0 3 4 -11
+p617
+aVJeff Foster IND 12/10/2008 IND @ TOR L 26 10 4 7 57.1 0 0 - 2 2 100.0 7 5 12 4 1 0 1 2 1
+p618
+aVJosh McRoberts IND 12/10/2008 IND @ TOR L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p619
+aVTroy Murphy IND 12/10/2008 IND @ TOR L 38 20 7 15 46.7 4 8 50.0 2 2 100.0 4 16 20 6 1 0 1 4 5
+p620
+aVJarrett Jack IND 12/10/2008 IND @ TOR L 28 2 1 7 14.3 0 2 0.0 0 0 - 0 2 2 4 1 0 1 1 -13
+p621
+aVBrandon Rush IND 12/10/2008 IND @ TOR L 13 6 3 6 50.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -5
+p622
+aVMarquis Daniels IND 12/10/2008 IND @ TOR L 39 21 7 19 36.8 0 1 0.0 7 7 100.0 2 4 6 2 2 0 1 2 -16
+p623
+aVDanny Granger IND 12/10/2008 IND @ TOR L 38 22 9 25 36.0 3 11 27.3 1 2 50.0 3 3 6 0 0 2 2 2 -1
+p624
+aVStephen Graham IND 12/10/2008 IND @ TOR L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -5
+p625
+aVRoy Hibbert IND 12/10/2008 IND @ TOR L 3 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 0 -2
+p626
+aVT.J. Ford IND 12/10/2008 IND @ TOR L 27 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 4 0 0 2 2 -9
+p627
+aVJeff Foster IND 12/07/2008 IND vs. BOS L 25 2 1 2 50.0 0 0 - 0 0 - 2 5 7 1 1 0 2 3 3
+p628
+aVT.J. Ford IND 12/07/2008 IND vs. BOS L 22 9 2 5 40.0 1 2 50.0 4 4 100.0 1 3 4 3 0 0 3 1 0
+p629
+aVJosh McRoberts IND 12/07/2008 IND vs. BOS L 10 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 0 0 1 0 3 5
+p630
+aVRoy Hibbert IND 12/07/2008 IND vs. BOS L 3 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 1 0 0 -1
+p631
+aVRasho Nesterovic IND 12/07/2008 IND vs. BOS L 26 14 6 9 66.7 0 0 - 2 3 66.7 0 4 4 3 0 1 2 6 -2
+p632
+aVMarquis Daniels IND 12/07/2008 IND vs. BOS L 50 26 11 16 68.8 1 3 33.3 3 4 75.0 1 6 7 4 0 1 4 4 -7
+p633
+aVJarrett Jack IND 12/07/2008 IND vs. BOS L 33 17 4 11 36.4 0 3 0.0 9 10 90.0 0 3 3 5 1 1 1 1 -6
+p634
+aVStephen Graham IND 12/07/2008 IND vs. BOS L 14 8 3 4 75.0 0 1 0.0 2 2 100.0 0 3 3 0 1 0 2 0 6
+p635
+aVTroy Murphy IND 12/07/2008 IND vs. BOS L 40 15 6 9 66.7 2 4 50.0 1 2 50.0 0 6 6 1 1 0 0 5 -14
+p636
+aVDanny Granger IND 12/07/2008 IND vs. BOS L 43 20 7 22 31.8 2 9 22.2 4 5 80.0 0 3 3 6 3 2 4 4 -9
+p637
+aVDanny Granger IND 12/05/2008 IND @ CLE L 32 4 2 7 28.6 0 2 0.0 0 1 0.0 0 2 2 5 0 0 1 3 -30
+p638
+aVMarquis Daniels IND 12/05/2008 IND @ CLE L 28 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 3 1 0 2 2 -20
+p639
+aVTroy Murphy IND 12/05/2008 IND @ CLE L 35 15 6 10 60.0 2 4 50.0 1 1 100.0 0 6 6 2 0 0 2 3 -25
+p640
+aVStephen Graham IND 12/05/2008 IND @ CLE L 25 14 5 11 45.5 1 2 50.0 3 3 100.0 0 3 3 0 0 0 2 2 -2
+p641
+aVRasho Nesterovic IND 12/05/2008 IND @ CLE L 18 8 4 9 44.4 0 0 - 0 0 - 2 1 3 2 0 0 2 0 -12
+p642
+aVJarrett Jack IND 12/05/2008 IND @ CLE L 20 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 2 0 0 2 2 -4
+p643
+aVT.J. Ford IND 12/05/2008 IND @ CLE L 28 8 4 9 44.4 0 1 0.0 0 0 - 1 3 4 2 1 0 2 2 -20
+p644
+aVJeff Foster IND 12/05/2008 IND @ CLE L 21 5 1 5 20.0 0 0 - 3 4 75.0 3 4 7 1 1 0 2 2 -11
+p645
+aVJosh McRoberts IND 12/05/2008 IND @ CLE L 4 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 0 1
+p646
+aVRoy Hibbert IND 12/05/2008 IND @ CLE L 18 3 1 4 25.0 0 0 - 1 2 50.0 2 4 6 1 0 0 1 0 -1
+p647
+aVBrandon Rush IND 12/05/2008 IND @ CLE L 11 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 4
+p648
+aVT.J. Ford IND 12/03/2008 IND @ BOS L 27 15 5 11 45.5 1 4 25.0 4 4 100.0 1 2 3 8 0 0 2 2 -18
+p649
+aVMarquis Daniels IND 12/03/2008 IND @ BOS L 34 14 7 18 38.9 0 1 0.0 0 1 0.0 2 2 4 0 1 0 1 3 -2
+p650
+aVJosh McRoberts IND 12/03/2008 IND @ BOS L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p651
+aVJarrett Jack IND 12/03/2008 IND @ BOS L 26 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 4 1 0 0 4 -2
+p652
+aVBrandon Rush IND 12/03/2008 IND @ BOS L 24 5 2 8 25.0 1 2 50.0 0 0 - 2 0 2 1 0 0 1 0 -24
+p653
+aVDanny Granger IND 12/03/2008 IND @ BOS L 33 20 7 15 46.7 4 6 66.7 2 2 100.0 0 1 1 5 1 1 2 2 -12
+p654
+aVRoy Hibbert IND 12/03/2008 IND @ BOS L 24 6 3 6 50.0 0 0 - 0 2 0.0 0 3 3 1 0 0 1 5 -2
+p655
+aVJeff Foster IND 12/03/2008 IND @ BOS L 18 9 4 6 66.7 0 0 - 1 1 100.0 1 2 3 0 2 0 0 0 -7
+p656
+aVTroy Murphy IND 12/03/2008 IND @ BOS L 27 10 4 12 33.3 0 6 0.0 2 3 66.7 2 8 10 2 0 0 1 3 -18
+p657
+aVRasho Nesterovic IND 12/03/2008 IND @ BOS L 15 8 4 5 80.0 0 0 - 0 0 - 1 1 2 1 1 0 1 4 -8
+p658
+aVStephen Graham IND 12/03/2008 IND @ BOS L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p659
+aVTravis Diener IND 12/03/2008 IND @ BOS L 5 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 2 0 0 1 0 2
+p660
+aVJosh McRoberts IND 12/02/2008 IND vs. LAL W 11 2 1 2 50.0 0 0 - 0 0 - 2 4 6 1 0 1 2 4 -1
+p661
+aVDanny Granger IND 12/02/2008 IND vs. LAL W 42 32 10 27 37.0 4 10 40.0 8 8 100.0 0 4 4 5 1 0 3 4 1
+p662
+aVRoy Hibbert IND 12/02/2008 IND vs. LAL W 13 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 1 2 1 3 3
+p663
+aVT.J. Ford IND 12/02/2008 IND vs. LAL W 34 21 9 16 56.3 1 2 50.0 2 2 100.0 0 3 3 8 3 0 1 4 21
+p664
+aVStephen Graham IND 12/02/2008 IND vs. LAL W 10 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -11
+p665
+aVBrandon Rush IND 12/02/2008 IND vs. LAL W 16 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 1 0 0 1 0 -16
+p666
+aVJarrett Jack IND 12/02/2008 IND vs. LAL W 18 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 2 0 1 2 0 -18
+p667
+aVMarquis Daniels IND 12/02/2008 IND vs. LAL W 31 16 4 15 26.7 0 2 0.0 8 9 88.9 3 2 5 3 1 0 0 3 12
+p668
+aVTroy Murphy IND 12/02/2008 IND vs. LAL W 38 16 7 12 58.3 2 4 50.0 0 0 - 6 11 17 3 2 0 2 4 12
+p669
+aVRasho Nesterovic IND 12/02/2008 IND vs. LAL W 29 16 8 13 61.5 0 0 - 0 0 - 6 4 10 4 1 0 0 4 2
+p670
+aVBrandon Rush IND 11/29/2008 IND @ ORL L 32 5 2 4 50.0 0 1 0.0 1 2 50.0 0 4 4 4 0 0 2 1 -8
+p671
+aVMarquis Daniels IND 11/29/2008 IND @ ORL L 33 21 9 15 60.0 1 2 50.0 2 2 100.0 3 5 8 3 1 0 3 3 2
+p672
+aVRoy Hibbert IND 11/29/2008 IND @ ORL L 17 10 5 11 45.5 0 0 - 0 2 0.0 5 2 7 0 0 0 1 3 -6
+p673
+aVStephen Graham IND 11/29/2008 IND @ ORL L 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p674
+aVDanny Granger IND 11/29/2008 IND @ ORL L 37 27 12 24 50.0 3 8 37.5 0 0 - 1 4 5 1 0 0 4 4 -10
+p675
+aVTroy Murphy IND 11/29/2008 IND @ ORL L 31 13 4 11 36.4 2 5 40.0 3 3 100.0 2 9 11 2 0 0 1 6 -13
+p676
+aVRasho Nesterovic IND 11/29/2008 IND @ ORL L 15 7 3 6 50.0 0 0 - 1 2 50.0 2 0 2 1 0 1 0 4 -14
+p677
+aVJarrett Jack IND 11/29/2008 IND @ ORL L 24 4 2 8 25.0 0 2 0.0 0 0 - 0 3 3 5 0 0 3 1 2
+p678
+aVJosh McRoberts IND 11/29/2008 IND @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 0
+p679
+aVJeff Foster IND 11/29/2008 IND @ ORL L 17 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 1 2 0 2 4 -4
+p680
+aVT.J. Ford IND 11/29/2008 IND @ ORL L 31 6 2 9 22.2 0 2 0.0 2 2 100.0 1 2 3 5 1 0 1 2 -19
+p681
+aVT.J. Ford IND 11/28/2008 IND vs. CHA L 42 20 5 13 38.5 1 2 50.0 9 10 90.0 1 7 8 6 1 0 3 4 -8
+p682
+aVJeff Foster IND 11/28/2008 IND vs. CHA L 30 6 3 7 42.9 0 1 0.0 0 0 - 2 5 7 4 0 1 3 4 -10
+p683
+aVTroy Murphy IND 11/28/2008 IND vs. CHA L 37 7 3 11 27.3 1 6 16.7 0 0 - 4 8 12 2 0 0 1 4 2
+p684
+aVMarquis Daniels IND 11/28/2008 IND vs. CHA L 42 20 8 20 40.0 0 2 0.0 4 5 80.0 2 6 8 2 0 0 0 3 9
+p685
+aVRoy Hibbert IND 11/28/2008 IND vs. CHA L 4 2 1 4 25.0 0 0 - 0 2 0.0 3 0 3 0 0 1 0 0 -8
+p686
+aVBrandon Rush IND 11/28/2008 IND vs. CHA L 24 8 3 9 33.3 1 3 33.3 1 2 50.0 0 3 3 0 1 1 3 4 -15
+p687
+aVJarrett Jack IND 11/28/2008 IND vs. CHA L 35 10 3 9 33.3 2 5 40.0 2 2 100.0 0 5 5 4 0 0 5 4 -12
+p688
+aVDanny Granger IND 11/28/2008 IND vs. CHA L 36 35 14 21 66.7 6 9 66.7 1 1 100.0 1 5 6 2 0 2 3 5 3
+p689
+aVRasho Nesterovic IND 11/28/2008 IND vs. CHA L 15 0 0 2 0.0 0 0 - 0 0 - 0 3 3 4 0 0 0 2 4
+p690
+aVT.J. Ford IND 11/26/2008 IND @ HOU W 31 10 3 10 30.0 0 1 0.0 4 4 100.0 1 4 5 2 1 0 0 1 4
+p691
+aVJarrett Jack IND 11/26/2008 IND @ HOU W 24 10 4 9 44.4 2 2 100.0 0 0 - 0 2 2 2 1 0 1 3 6
+p692
+aVRasho Nesterovic IND 11/26/2008 IND @ HOU W 21 8 4 10 40.0 0 0 - 0 0 - 1 2 3 3 1 0 2 4 -12
+p693
+aVBrandon Rush IND 11/26/2008 IND @ HOU W 36 11 5 8 62.5 1 2 50.0 0 0 - 1 3 4 3 0 0 2 3 15
+p694
+aVRoy Hibbert IND 11/26/2008 IND @ HOU W 13 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 1 0 1 1 2 8
+p695
+aVJeff Foster IND 11/26/2008 IND @ HOU W 17 2 1 3 33.3 0 0 - 0 0 - 1 4 5 2 0 2 0 1 -3
+p696
+aVStephen Graham IND 11/26/2008 IND @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p697
+aVMarquis Daniels IND 11/26/2008 IND @ HOU W 25 7 3 8 37.5 0 1 0.0 1 1 100.0 0 2 2 0 1 0 2 3 -6
+p698
+aVDanny Granger IND 11/26/2008 IND @ HOU W 34 16 6 20 30.0 0 7 0.0 4 5 80.0 1 5 6 5 1 6 3 4 -3
+p699
+aVTroy Murphy IND 11/26/2008 IND @ HOU W 39 21 7 11 63.6 4 6 66.7 3 4 75.0 2 12 14 2 0 1 0 5 -2
+p700
+aVRasho Nesterovic IND 11/25/2008 IND @ DAL L 31 8 3 8 37.5 0 0 - 2 2 100.0 5 2 7 4 0 1 1 2 -14
+p701
+aVJarrett Jack IND 11/25/2008 IND @ DAL L 21 5 2 7 28.6 1 2 50.0 0 0 - 0 0 0 4 0 0 2 2 -2
+p702
+aVT.J. Ford IND 11/25/2008 IND @ DAL L 28 10 4 10 40.0 0 3 0.0 2 2 100.0 1 2 3 7 1 0 1 1 -3
+p703
+aVDanny Granger IND 11/25/2008 IND @ DAL L 30 22 7 18 38.9 1 7 14.3 7 9 77.8 0 9 9 1 0 2 2 6 -10
+p704
+aVMarquis Daniels IND 11/25/2008 IND @ DAL L 35 14 7 16 43.8 0 1 0.0 0 0 - 4 7 11 0 1 1 2 0 -2
+p705
+aVTroy Murphy IND 11/25/2008 IND @ DAL L 35 21 8 16 50.0 3 5 60.0 2 2 100.0 3 11 14 2 1 0 2 5 -3
+p706
+aVJeff Foster IND 11/25/2008 IND @ DAL L 23 8 4 4 100.0 0 0 - 0 0 - 2 0 2 2 1 0 1 4 10
+p707
+aVRoy Hibbert IND 11/25/2008 IND @ DAL L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 1 1 1
+p708
+aVBrandon Rush IND 11/25/2008 IND @ DAL L 30 18 8 12 66.7 1 2 50.0 1 2 50.0 0 2 2 1 1 0 1 2 8
+p709
+aVBrandon Rush IND 11/22/2008 IND @ MIA L 22 10 4 6 66.7 2 2 100.0 0 0 - 1 0 1 0 0 0 2 2 0
+p710
+aVT.J. Ford IND 11/22/2008 IND @ MIA L 26 11 3 10 30.0 2 4 50.0 3 3 100.0 1 3 4 2 0 0 3 1 -8
+p711
+aVRasho Nesterovic IND 11/22/2008 IND @ MIA L 38 13 5 10 50.0 0 1 0.0 3 4 75.0 3 4 7 2 0 1 4 2 -9
+p712
+aVDanny Granger IND 11/22/2008 IND @ MIA L 35 23 8 18 44.4 4 9 44.4 3 3 100.0 0 2 2 6 1 0 6 4 -10
+p713
+aVMarquis Daniels IND 11/22/2008 IND @ MIA L 37 25 11 21 52.4 0 2 0.0 3 5 60.0 1 4 5 2 1 0 4 4 -14
+p714
+aVJeff Foster IND 11/22/2008 IND @ MIA L 20 4 2 5 40.0 0 0 - 0 1 0.0 1 7 8 1 1 0 0 4 9
+p715
+aVJarrett Jack IND 11/22/2008 IND @ MIA L 24 8 1 3 33.3 1 2 50.0 5 7 71.4 1 2 3 5 1 0 1 4 2
+p716
+aVTroy Murphy IND 11/22/2008 IND @ MIA L 38 6 3 7 42.9 0 3 0.0 0 0 - 3 8 11 6 0 0 1 4 -15
+p717
+aVBrandon Rush IND 11/21/2008 IND vs. ORL L 23 5 2 6 33.3 1 1 100.0 0 0 - 4 1 5 0 1 1 0 1 4
+p718
+aVTroy Murphy IND 11/21/2008 IND vs. ORL L 38 5 2 8 25.0 1 4 25.0 0 0 - 1 9 10 0 0 1 0 0 2
+p719
+aVJeff Foster IND 11/21/2008 IND vs. ORL L 26 9 3 7 42.9 0 1 0.0 3 3 100.0 4 5 9 1 0 2 3 2 -1
+p720
+aVRasho Nesterovic IND 11/21/2008 IND vs. ORL L 31 6 3 14 21.4 0 0 - 0 0 - 3 6 9 8 1 1 0 5 0
+p721
+aVT.J. Ford IND 11/21/2008 IND vs. ORL L 40 22 8 18 44.4 1 1 100.0 5 7 71.4 2 4 6 4 1 1 4 2 -8
+p722
+aVJarrett Jack IND 11/21/2008 IND vs. ORL L 22 5 2 7 28.6 0 1 0.0 1 2 50.0 0 3 3 4 1 0 2 1 1
+p723
+aVRoy Hibbert IND 11/21/2008 IND vs. ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 2 0 1 -2
+p724
+aVMarquis Daniels IND 11/21/2008 IND vs. ORL L 39 25 11 19 57.9 1 2 50.0 2 3 66.7 1 4 5 0 1 1 3 2 -9
+p725
+aVDanny Granger IND 11/21/2008 IND vs. ORL L 41 21 7 20 35.0 3 6 50.0 4 5 80.0 0 6 6 3 0 1 2 4 3
+p726
+aVBrandon Rush IND 11/18/2008 IND vs. ATL W 16 9 2 5 40.0 1 1 100.0 4 4 100.0 0 0 0 0 0 1 2 1 -7
+p727
+aVMarquis Daniels IND 11/18/2008 IND vs. ATL W 30 11 3 6 50.0 0 0 - 5 9 55.6 0 4 4 3 0 1 1 3 20
+p728
+aVJarrett Jack IND 11/18/2008 IND vs. ATL W 25 10 4 6 66.7 2 3 66.7 0 0 - 0 4 4 5 0 0 4 1 6
+p729
+aVDanny Granger IND 11/18/2008 IND vs. ATL W 35 34 13 18 72.2 4 5 80.0 4 4 100.0 1 3 4 3 2 3 4 2 16
+p730
+aVT.J. Ford IND 11/18/2008 IND vs. ATL W 32 6 3 10 30.0 0 1 0.0 0 0 - 0 2 2 2 1 1 1 2 18
+p731
+aVJeff Foster IND 11/18/2008 IND vs. ATL W 23 12 5 6 83.3 1 1 100.0 1 1 100.0 2 3 5 3 0 0 1 3 1
+p732
+aVRasho Nesterovic IND 11/18/2008 IND vs. ATL W 36 21 10 19 52.6 0 0 - 1 1 100.0 2 5 7 5 2 3 1 1 19
+p733
+aVTroy Murphy IND 11/18/2008 IND vs. ATL W 37 10 4 10 40.0 0 2 0.0 2 5 40.0 3 16 19 4 1 0 0 3 14
+p734
+aVTravis Diener IND 11/18/2008 IND vs. ATL W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p735
+aVJeff Foster IND 11/15/2008 IND @ CHI L 19 5 2 6 33.3 0 0 - 1 2 50.0 2 3 5 1 1 3 3 2 -25
+p736
+aVTroy Murphy IND 11/15/2008 IND @ CHI L 37 12 5 11 45.5 1 4 25.0 1 2 50.0 1 12 13 5 1 0 1 2 -1
+p737
+aVMarquis Daniels IND 11/15/2008 IND @ CHI L 31 13 5 13 38.5 0 1 0.0 3 4 75.0 2 1 3 2 0 1 2 2 -20
+p738
+aVT.J. Ford IND 11/15/2008 IND @ CHI L 34 16 7 18 38.9 0 0 - 2 2 100.0 3 4 7 4 1 0 2 4 -7
+p739
+aVBrandon Rush IND 11/15/2008 IND @ CHI L 22 4 2 7 28.6 0 0 - 0 0 - 2 4 6 3 0 0 2 4 -6
+p740
+aVJosh McRoberts IND 11/15/2008 IND @ CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p741
+aVDanny Granger IND 11/15/2008 IND @ CHI L 34 15 4 15 26.7 2 8 25.0 5 5 100.0 2 8 10 2 1 2 4 5 -1
+p742
+aVStephen Graham IND 11/15/2008 IND @ CHI L 2 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p743
+aVRoy Hibbert IND 11/15/2008 IND @ CHI L 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 2 0 0 0
+p744
+aVJarrett Jack IND 11/15/2008 IND @ CHI L 23 10 3 9 33.3 1 3 33.3 3 4 75.0 0 2 2 0 0 0 3 1 -7
+p745
+aVRasho Nesterovic IND 11/15/2008 IND @ CHI L 34 12 6 13 46.2 0 0 - 0 0 - 5 7 12 2 0 2 2 2 2
+p746
+aVBrandon Rush IND 11/14/2008 IND vs. PHI L 17 5 1 5 20.0 0 3 0.0 3 4 75.0 0 2 2 0 0 2 1 0 -6
+p747
+aVJeff Foster IND 11/14/2008 IND vs. PHI L 19 10 5 6 83.3 0 0 - 0 0 - 3 8 11 1 1 2 2 5 -5
+p748
+aVMaceo Baston IND 11/14/2008 IND vs. PHI L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p749
+aVJarrett Jack IND 11/14/2008 IND vs. PHI L 26 8 3 8 37.5 0 2 0.0 2 3 66.7 0 2 2 3 0 1 3 0 -18
+p750
+aVRasho Nesterovic IND 11/14/2008 IND vs. PHI L 27 10 5 6 83.3 0 0 - 0 0 - 3 3 6 3 0 1 1 4 19
+p751
+aVStephen Graham IND 11/14/2008 IND vs. PHI L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 1 1 1 -1
+p752
+aVT.J. Ford IND 11/14/2008 IND vs. PHI L 39 12 4 13 30.8 2 3 66.7 2 2 100.0 0 5 5 7 1 0 4 4 -1
+p753
+aVTravis Diener IND 11/14/2008 IND vs. PHI L 7 3 1 3 33.3 1 2 50.0 0 0 - 0 2 2 0 0 0 0 2 -9
+p754
+aVDanny Granger IND 11/14/2008 IND vs. PHI L 40 18 6 13 46.2 3 5 60.0 3 6 50.0 1 5 6 3 1 1 1 3 -4
+p755
+aVMarquis Daniels IND 11/14/2008 IND vs. PHI L 38 17 8 19 42.1 1 3 33.3 0 0 - 3 7 10 3 0 1 3 2 8
+p756
+aVTroy Murphy IND 11/14/2008 IND vs. PHI L 15 7 3 8 37.5 1 4 25.0 0 2 0.0 0 4 4 1 1 1 2 4 7
+p757
+aVRoy Hibbert IND 11/14/2008 IND vs. PHI L 1 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 1
+p758
+aVStephen Graham IND 11/12/2008 IND @ NJN W 12 12 2 4 50.0 2 2 100.0 6 6 100.0 1 1 2 1 1 0 2 4 -5
+p759
+aVJarrett Jack IND 11/12/2008 IND @ NJN W 31 13 3 7 42.9 1 2 50.0 6 7 85.7 0 4 4 3 1 0 2 3 4
+p760
+aVBrandon Rush IND 11/12/2008 IND @ NJN W 23 8 3 8 37.5 2 5 40.0 0 0 - 0 4 4 0 2 1 0 3 13
+p761
+aVRasho Nesterovic IND 11/12/2008 IND @ NJN W 25 10 5 9 55.6 0 0 - 0 0 - 0 2 2 2 1 0 0 0 14
+p762
+aVJosh McRoberts IND 11/12/2008 IND @ NJN W 14 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 1 1 0 0 2 -8
+p763
+aVJeff Foster IND 11/12/2008 IND @ NJN W 33 16 6 8 75.0 0 0 - 4 5 80.0 4 3 7 3 2 2 3 1 19
+p764
+aVT.J. Ford IND 11/12/2008 IND @ NJN W 36 18 7 14 50.0 0 1 0.0 4 5 80.0 1 7 8 9 3 0 3 0 15
+p765
+aVMarquis Daniels IND 11/12/2008 IND @ NJN W 32 16 8 18 44.4 0 3 0.0 0 0 - 2 4 6 1 2 0 1 5 12
+p766
+aVTravis Diener IND 11/12/2008 IND @ NJN W 12 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 2 1 0 0 2 -4
+p767
+aVRoy Hibbert IND 11/12/2008 IND @ NJN W 22 0 0 2 0.0 0 0 - 0 0 - 0 2 2 2 1 2 1 0 -5
+p768
+aVJosh McRoberts IND 11/10/2008 IND vs. OKC W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 1 0 1 7
+p769
+aVTroy Murphy IND 11/10/2008 IND vs. OKC W 13 0 0 3 0.0 0 1 0.0 0 0 - 0 3 3 0 0 1 1 1 -7
+p770
+aVMaceo Baston IND 11/10/2008 IND vs. OKC W 8 4 2 3 66.7 0 0 - 0 0 - 1 1 2 0 0 1 1 3 0
+p771
+aVJarrett Jack IND 11/10/2008 IND vs. OKC W 32 11 4 7 57.1 0 1 0.0 3 4 75.0 0 6 6 2 2 0 3 1 6
+p772
+aVRoy Hibbert IND 11/10/2008 IND vs. OKC W 10 8 4 6 66.7 0 0 - 0 3 0.0 1 2 3 0 1 0 0 4 -9
+p773
+aVMarquis Daniels IND 11/10/2008 IND vs. OKC W 36 14 6 13 46.2 0 1 0.0 2 2 100.0 0 4 4 1 2 0 0 1 4
+p774
+aVBrandon Rush IND 11/10/2008 IND vs. OKC W 18 4 1 6 16.7 0 2 0.0 2 2 100.0 1 1 2 1 1 0 0 1 -2
+p775
+aVT.J. Ford IND 11/10/2008 IND vs. OKC W 40 24 10 19 52.6 2 2 100.0 2 2 100.0 2 5 7 10 2 1 2 2 16
+p776
+aVTravis Diener IND 11/10/2008 IND vs. OKC W 6 5 2 2 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 0 -4
+p777
+aVJeff Foster IND 11/10/2008 IND vs. OKC W 36 15 4 8 50.0 0 1 0.0 7 9 77.8 1 4 5 3 0 4 2 3 12
+p778
+aVDanny Granger IND 11/10/2008 IND vs. OKC W 30 20 7 16 43.8 1 5 20.0 5 7 71.4 2 5 7 2 1 2 2 5 17
+p779
+aVJarrett Jack IND 11/08/2008 IND vs. NJN W 28 10 4 9 44.4 2 4 50.0 0 0 - 0 5 5 1 1 1 0 0 8
+p780
+aVJeff Foster IND 11/08/2008 IND vs. NJN W 30 12 5 10 50.0 0 0 - 2 2 100.0 7 6 13 2 1 1 0 4 10
+p781
+aVTroy Murphy IND 11/08/2008 IND vs. NJN W 31 17 6 11 54.5 4 7 57.1 1 4 25.0 1 9 10 1 1 0 2 3 16
+p782
+aVDanny Granger IND 11/08/2008 IND vs. NJN W 37 23 6 17 35.3 1 9 11.1 10 12 83.3 1 5 6 2 1 1 0 3 23
+p783
+aVBrandon Rush IND 11/08/2008 IND vs. NJN W 18 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 1 0
+p784
+aVMarquis Daniels IND 11/08/2008 IND vs. NJN W 33 14 6 13 46.2 2 6 33.3 0 0 - 1 1 2 3 1 1 2 4 11
+p785
+aVTravis Diener IND 11/08/2008 IND vs. NJN W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 3
+p786
+aVRoy Hibbert IND 11/08/2008 IND vs. NJN W 16 4 2 3 66.7 0 0 - 0 2 0.0 2 2 4 2 1 1 3 5 4
+p787
+aVT.J. Ford IND 11/08/2008 IND vs. NJN W 37 13 5 13 38.5 1 3 33.3 2 2 100.0 3 6 9 9 1 0 4 2 15
+p788
+aVDanny Granger IND 11/07/2008 IND @ CLE L 36 33 13 22 59.1 5 11 45.5 2 2 100.0 2 1 3 2 1 0 6 3 11
+p789
+aVBrandon Rush IND 11/07/2008 IND @ CLE L 22 7 3 9 33.3 1 2 50.0 0 0 - 1 0 1 0 2 1 2 2 -19
+p790
+aVRoy Hibbert IND 11/07/2008 IND @ CLE L 19 11 4 8 50.0 0 0 - 3 3 100.0 5 4 9 2 0 2 5 6 -10
+p791
+aVT.J. Ford IND 11/07/2008 IND @ CLE L 31 13 5 13 38.5 1 2 50.0 2 2 100.0 1 3 4 5 0 0 2 5 -3
+p792
+aVMarquis Daniels IND 11/07/2008 IND @ CLE L 37 17 7 18 38.9 0 4 0.0 3 3 100.0 5 6 11 7 1 0 1 3 -2
+p793
+aVJarrett Jack IND 11/07/2008 IND @ CLE L 24 7 3 7 42.9 1 2 50.0 0 0 - 0 3 3 6 2 0 2 2 -2
+p794
+aVTroy Murphy IND 11/07/2008 IND @ CLE L 30 6 3 5 60.0 0 1 0.0 0 0 - 3 6 9 1 1 1 4 2 2
+p795
+aVJeff Foster IND 11/07/2008 IND @ CLE L 31 7 3 5 60.0 0 0 - 1 1 100.0 2 0 2 3 0 0 2 2 5
+p796
+aVTravis Diener IND 11/07/2008 IND @ CLE L 10 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 2 0 0 0 0 -2
+p797
+aVTravis Diener IND 11/05/2008 IND vs. PHX L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 1 0 1 0 3
+p798
+aVRoy Hibbert IND 11/05/2008 IND vs. PHX L 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 2 1 0 0 3 -2
+p799
+aVMaceo Baston IND 11/05/2008 IND vs. PHX L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p800
+aVT.J. Ford IND 11/05/2008 IND vs. PHX L 38 23 9 18 50.0 0 3 0.0 5 7 71.4 0 2 2 3 0 0 0 3 -13
+p801
+aVMarquis Daniels IND 11/05/2008 IND vs. PHX L 38 19 8 19 42.1 1 6 16.7 2 3 66.7 3 5 8 0 2 0 0 1 -4
+p802
+aVTroy Murphy IND 11/05/2008 IND vs. PHX L 30 12 4 10 40.0 4 7 57.1 0 0 - 1 9 10 4 1 0 3 2 -4
+p803
+aVJarrett Jack IND 11/05/2008 IND vs. PHX L 21 8 2 5 40.0 0 2 0.0 4 4 100.0 0 3 3 2 1 0 3 0 -2
+p804
+aVBrandon Rush IND 11/05/2008 IND vs. PHX L 20 9 4 7 57.1 1 1 100.0 0 0 - 1 1 2 0 0 1 2 2 -19
+p805
+aVJeff Foster IND 11/05/2008 IND vs. PHX L 31 5 1 1 100.0 0 0 - 3 6 50.0 2 2 4 2 1 0 1 6 -8
+p806
+aVDanny Granger IND 11/05/2008 IND vs. PHX L 39 23 7 16 43.8 3 5 60.0 6 7 85.7 0 3 3 2 1 2 5 6 -3
+p807
+aVDanny Granger IND 11/01/2008 IND vs. BOS W 37 20 7 18 38.9 1 7 14.3 5 6 83.3 0 4 4 1 1 2 4 5 12
+p808
+aVRasho Nesterovic IND 11/01/2008 IND vs. BOS W 20 8 4 7 57.1 0 0 - 0 0 - 2 2 4 2 0 2 1 2 10
+p809
+aVRoy Hibbert IND 11/01/2008 IND vs. BOS W 12 5 2 3 66.7 0 0 - 1 2 50.0 1 2 3 0 0 1 0 3 -1
+p810
+aVBrandon Rush IND 11/01/2008 IND vs. BOS W 18 3 1 9 11.1 0 3 0.0 1 2 50.0 2 2 4 0 0 1 1 2 -2
+p811
+aVT.J. Ford IND 11/01/2008 IND vs. BOS W 32 19 5 9 55.6 1 1 100.0 8 8 100.0 0 2 2 4 2 0 0 3 12
+p812
+aVMarquis Daniels IND 11/01/2008 IND vs. BOS W 39 13 6 12 50.0 1 3 33.3 0 0 - 3 7 10 4 2 2 2 3 21
+p813
+aVTroy Murphy IND 11/01/2008 IND vs. BOS W 34 10 4 10 40.0 2 5 40.0 0 0 - 0 8 8 5 3 0 3 2 21
+p814
+aVJeff Foster IND 11/01/2008 IND vs. BOS W 21 6 1 6 16.7 0 0 - 4 4 100.0 3 3 6 3 1 0 0 3 2
+p815
+aVJarrett Jack IND 11/01/2008 IND vs. BOS W 27 11 3 7 42.9 1 3 33.3 4 5 80.0 1 6 7 1 0 0 1 4 5
+p816
+aVJarrett Jack IND 10/29/2008 IND @ DET L 27 9 3 9 33.3 0 1 0.0 3 4 75.0 0 2 2 2 1 0 1 4 -20
+p817
+aVTroy Murphy IND 10/29/2008 IND @ DET L 38 13 4 11 36.4 2 4 50.0 3 4 75.0 1 14 15 2 1 3 2 1 -4
+p818
+aVBrandon Rush IND 10/29/2008 IND @ DET L 24 7 3 5 60.0 0 1 0.0 1 1 100.0 0 2 2 1 1 0 3 2 -3
+p819
+aVDanny Granger IND 10/29/2008 IND @ DET L 39 33 10 16 62.5 2 4 50.0 11 12 91.7 2 3 5 1 2 3 4 4 8
+p820
+aVRasho Nesterovic IND 10/29/2008 IND @ DET L 24 8 4 7 57.1 0 0 - 0 0 - 1 4 5 3 1 1 2 1 -1
+p821
+aVJeff Foster IND 10/29/2008 IND @ DET L 20 0 0 0 - 0 0 - 0 2 0.0 0 4 4 1 1 0 1 1 -3
+p822
+aVMarquis Daniels IND 10/29/2008 IND @ DET L 32 12 4 9 44.4 0 2 0.0 4 4 100.0 1 2 3 3 0 0 4 3 -4
+p823
+aVRoy Hibbert IND 10/29/2008 IND @ DET L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -6
+p824
+aVT.J. Ford IND 10/29/2008 IND @ DET L 29 10 4 8 50.0 0 0 - 2 2 100.0 0 2 2 5 0 0 4 4 3
+p825
+a.

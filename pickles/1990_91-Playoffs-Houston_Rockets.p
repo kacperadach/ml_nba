@@ -1,0 +1,56 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDave Jamerson HOU 04/30/1991 HOU vs. LAL L 7 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p2
+aVVernon Maxwell HOU 04/30/1991 HOU vs. LAL L 41 13 5 15 33.3 3 9 33.3 0 0 - 0 1 1 0 1 1 0 2 -
+p3
+aVLarry Smith HOU 04/30/1991 HOU vs. LAL L 25 2 1 2 50.0 0 1 0.0 0 0 - 3 2 5 1 1 1 1 3 -
+p4
+aVSleepy Floyd HOU 04/30/1991 HOU vs. LAL L 9 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 3 1 -
+p5
+aVOtis Thorpe HOU 04/30/1991 HOU vs. LAL L 45 21 9 17 52.9 0 0 - 3 6 50.0 2 8 10 3 1 0 2 3 -
+p6
+aVHakeem Olajuwon HOU 04/30/1991 HOU vs. LAL L 40 21 9 17 52.9 0 1 0.0 3 4 75.0 4 13 17 2 3 4 5 4 -
+p7
+aVKenny Smith HOU 04/30/1991 HOU vs. LAL L 39 12 5 12 41.7 1 1 100.0 1 2 50.0 1 1 2 12 2 1 3 2 -
+p8
+aVBuck Johnson HOU 04/30/1991 HOU vs. LAL L 24 12 5 11 45.5 0 0 - 2 2 100.0 1 3 4 3 1 0 2 4 -
+p9
+aVDavid Wood HOU 04/30/1991 HOU vs. LAL L 10 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 1 -
+p10
+aVLarry Smith HOU 04/27/1991 HOU @ LAL L 16 0 0 0 - 0 0 - 0 0 - 2 2 4 2 0 0 1 3 -
+p11
+aVDavid Wood HOU 04/27/1991 HOU @ LAL L 20 1 0 1 0.0 0 0 - 1 2 50.0 1 2 3 1 2 0 0 5 -
+p12
+aVVernon Maxwell HOU 04/27/1991 HOU @ LAL L 38 31 12 23 52.2 6 13 46.2 1 2 50.0 1 3 4 4 1 0 4 1 -
+p13
+aVSleepy Floyd HOU 04/27/1991 HOU @ LAL L 17 4 2 10 20.0 0 3 0.0 0 0 - 0 0 0 3 2 0 2 3 -
+p14
+aVOtis Thorpe HOU 04/27/1991 HOU @ LAL L 36 16 8 12 66.7 0 0 - 0 0 - 3 5 8 3 1 0 1 1 -
+p15
+aVKenny Smith HOU 04/27/1991 HOU @ LAL L 41 19 7 16 43.8 1 3 33.3 4 4 100.0 1 2 3 7 1 0 1 1 -
+p16
+aVBuck Johnson HOU 04/27/1991 HOU @ LAL L 28 4 2 7 28.6 0 0 - 0 0 - 0 2 2 2 1 0 1 5 -
+p17
+aVHakeem Olajuwon HOU 04/27/1991 HOU @ LAL L 44 23 9 14 64.3 0 0 - 5 6 83.3 4 7 11 3 1 1 1 3 -
+p18
+aVLarry Smith HOU 04/25/1991 HOU @ LAL L 16 0 0 2 0.0 0 0 - 0 1 0.0 1 3 4 1 0 0 0 5 -
+p19
+aVSleepy Floyd HOU 04/25/1991 HOU @ LAL L 15 8 4 9 44.4 0 0 - 0 0 - 0 1 1 3 0 1 2 0 -
+p20
+aVDavid Wood HOU 04/25/1991 HOU @ LAL L 14 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 2 1 0 1 2 -
+p21
+aVVernon Maxwell HOU 04/25/1991 HOU @ LAL L 34 12 6 18 33.3 0 5 0.0 0 0 - 0 3 3 5 0 0 3 5 -
+p22
+aVDave Jamerson HOU 04/25/1991 HOU @ LAL L 14 12 3 8 37.5 0 1 0.0 6 6 100.0 1 2 3 2 1 0 1 4 -
+p23
+aVKenny Smith HOU 04/25/1991 HOU @ LAL L 33 15 6 10 60.0 0 0 - 3 3 100.0 2 1 3 5 1 0 2 2 -
+p24
+aVHakeem Olajuwon HOU 04/25/1991 HOU @ LAL L 45 22 8 14 57.1 0 0 - 6 7 85.7 4 12 16 1 0 3 2 4 -
+p25
+aVOtis Thorpe HOU 04/25/1991 HOU @ LAL L 35 10 5 9 55.6 0 0 - 0 0 - 2 5 7 2 0 0 3 4 -
+p26
+aVBuck Johnson HOU 04/25/1991 HOU @ LAL L 34 8 3 10 30.0 0 0 - 2 2 100.0 3 5 8 3 0 1 2 4 -
+p27
+a.

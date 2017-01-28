@@ -1,0 +1,1782 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVIme Udoka SAS 04/15/2009 SAS vs. NOH W 38 12 5 8 62.5 2 3 66.7 0 0 - 0 5 5 0 1 1 2 3 -6
+p2
+aVTim Duncan SAS 04/15/2009 SAS vs. NOH W 34 20 7 11 63.6 0 0 - 6 8 75.0 3 16 19 6 0 1 4 2 21
+p3
+aVBruce Bowen SAS 04/15/2009 SAS vs. NOH W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -9
+p4
+aVDrew Gooden SAS 04/15/2009 SAS vs. NOH W 15 11 4 7 57.1 0 0 - 3 4 75.0 1 1 2 0 0 0 1 2 -10
+p5
+aVGeorge Hill SAS 04/15/2009 SAS vs. NOH W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -4
+p6
+aVKurt Thomas SAS 04/15/2009 SAS vs. NOH W 17 2 1 2 50.0 0 0 - 0 0 - 3 0 3 1 0 0 0 2 -10
+p7
+aVMichael Finley SAS 04/15/2009 SAS vs. NOH W 39 17 7 14 50.0 2 4 50.0 1 1 100.0 1 3 4 2 1 0 2 1 19
+p8
+aVRoger Mason Jr. SAS 04/15/2009 SAS vs. NOH W 37 7 3 12 25.0 1 6 16.7 0 0 - 0 3 3 5 0 0 1 2 11
+p9
+aVMatt Bonner SAS 04/15/2009 SAS vs. NOH W 28 7 3 8 37.5 1 5 20.0 0 0 - 1 3 4 0 1 0 0 3 8
+p10
+aVTony Parker SAS 04/15/2009 SAS vs. NOH W 43 29 12 21 57.1 0 0 - 5 7 71.4 0 4 4 6 2 0 2 5 15
+p11
+aVMatt Bonner SAS 04/13/2009 SAS @ GSW W 15 8 3 9 33.3 2 5 40.0 0 0 - 2 6 8 1 0 0 0 3 17
+p12
+aVTim Duncan SAS 04/13/2009 SAS @ GSW W 23 16 6 14 42.9 0 0 - 4 7 57.1 5 8 13 4 0 0 1 2 23
+p13
+aVDrew Gooden SAS 04/13/2009 SAS @ GSW W 22 20 7 12 58.3 0 0 - 6 8 75.0 5 10 15 0 0 0 2 3 15
+p14
+aVIme Udoka SAS 04/13/2009 SAS @ GSW W 27 2 0 5 0.0 0 4 0.0 2 4 50.0 0 6 6 3 1 0 0 2 4
+p15
+aVRoger Mason Jr. SAS 04/13/2009 SAS @ GSW W 19 14 6 8 75.0 2 3 66.7 0 0 - 0 1 1 2 0 0 0 3 21
+p16
+aVFabricio Oberto SAS 04/13/2009 SAS @ GSW W 18 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 2 4 0
+p17
+aVBruce Bowen SAS 04/13/2009 SAS @ GSW W 30 3 1 4 25.0 1 2 50.0 0 0 - 0 4 4 0 1 0 0 0 16
+p18
+aVMichael Finley SAS 04/13/2009 SAS @ GSW W 19 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 4 1 0 1 0 12
+p19
+aVGeorge Hill SAS 04/13/2009 SAS @ GSW W 17 13 4 8 50.0 2 4 50.0 3 4 75.0 0 1 1 1 2 0 1 1 -2
+p20
+aVKurt Thomas SAS 04/13/2009 SAS @ GSW W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 11
+p21
+aVTony Parker SAS 04/13/2009 SAS @ GSW W 27 17 7 13 53.8 0 1 0.0 3 5 60.0 0 5 5 2 0 0 1 3 29
+p22
+aVJacque Vaughn SAS 04/13/2009 SAS @ GSW W 12 4 1 4 25.0 1 1 100.0 1 2 50.0 1 0 1 3 0 0 1 1 -1
+p23
+aVKurt Thomas SAS 04/12/2009 SAS @ SAC W 35 9 4 9 44.4 0 0 - 1 1 100.0 8 5 13 1 0 3 1 3 16
+p24
+aVFabricio Oberto SAS 04/12/2009 SAS @ SAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p25
+aVBruce Bowen SAS 04/12/2009 SAS @ SAC W 14 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 1 0 0 1 3 -2
+p26
+aVDrew Gooden SAS 04/12/2009 SAS @ SAC W 22 9 2 9 22.2 0 0 - 5 9 55.6 3 2 5 0 1 0 2 3 -1
+p27
+aVMichael Finley SAS 04/12/2009 SAS @ SAC W 35 9 3 11 27.3 1 6 16.7 2 2 100.0 0 2 2 2 0 0 1 1 2
+p28
+aVTony Parker SAS 04/12/2009 SAS @ SAC W 38 25 11 23 47.8 0 1 0.0 3 4 75.0 0 5 5 9 2 0 3 2 11
+p29
+aVIme Udoka SAS 04/12/2009 SAS @ SAC W 23 11 4 6 66.7 2 2 100.0 1 2 50.0 1 5 6 2 1 1 0 0 0
+p30
+aVMatt Bonner SAS 04/12/2009 SAS @ SAC W 34 7 2 6 33.3 1 4 25.0 2 3 66.7 2 5 7 1 1 0 0 1 1
+p31
+aVRoger Mason Jr. SAS 04/12/2009 SAS @ SAC W 34 22 8 19 42.1 5 9 55.6 1 1 100.0 0 5 5 1 1 0 1 3 -2
+p32
+aVTim Duncan SAS 04/10/2009 SAS vs. UTA W 31 14 5 11 45.5 0 0 - 4 8 50.0 0 9 9 2 0 0 6 3 4
+p33
+aVRoger Mason Jr. SAS 04/10/2009 SAS vs. UTA W 36 16 6 12 50.0 3 6 50.0 1 1 100.0 0 1 1 1 1 0 1 0 -9
+p34
+aVBruce Bowen SAS 04/10/2009 SAS vs. UTA W 16 4 1 2 50.0 1 2 50.0 1 2 50.0 0 2 2 0 0 0 1 5 -4
+p35
+aVMatt Bonner SAS 04/10/2009 SAS vs. UTA W 21 5 2 5 40.0 1 2 50.0 0 0 - 0 3 3 1 0 2 1 4 11
+p36
+aVIme Udoka SAS 04/10/2009 SAS vs. UTA W 30 13 4 6 66.7 3 5 60.0 2 4 50.0 2 3 5 1 1 0 0 3 10
+p37
+aVMichael Finley SAS 04/10/2009 SAS vs. UTA W 27 6 1 3 33.3 0 2 0.0 4 4 100.0 0 2 2 2 0 1 0 0 14
+p38
+aVMarcus Williams SAS 04/10/2009 SAS vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p39
+aVGeorge Hill SAS 04/10/2009 SAS vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p40
+aVKurt Thomas SAS 04/10/2009 SAS vs. UTA W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 5 0
+p41
+aVTony Parker SAS 04/10/2009 SAS vs. UTA W 34 31 9 15 60.0 0 1 0.0 13 17 76.5 0 6 6 7 1 0 2 3 7
+p42
+aVDrew Gooden SAS 04/10/2009 SAS vs. UTA W 29 14 6 14 42.9 0 1 0.0 2 2 100.0 3 1 4 1 1 0 0 2 5
+p43
+aVJacque Vaughn SAS 04/08/2009 SAS vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p44
+aVKurt Thomas SAS 04/08/2009 SAS vs. POR L 18 8 4 7 57.1 0 0 - 0 0 - 1 4 5 0 0 0 1 5 -11
+p45
+aVGeorge Hill SAS 04/08/2009 SAS vs. POR L 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p46
+aVMarcus Williams SAS 04/08/2009 SAS vs. POR L 3 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p47
+aVMichael Finley SAS 04/08/2009 SAS vs. POR L 32 11 5 9 55.6 1 4 25.0 0 0 - 0 2 2 0 1 0 0 0 -10
+p48
+aVIme Udoka SAS 04/08/2009 SAS vs. POR L 24 3 1 5 20.0 0 2 0.0 1 2 50.0 0 2 2 3 0 1 0 1 -19
+p49
+aVBruce Bowen SAS 04/08/2009 SAS vs. POR L 17 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p50
+aVMatt Bonner SAS 04/08/2009 SAS vs. POR L 20 7 3 4 75.0 1 2 50.0 0 0 - 1 2 3 1 0 0 1 4 7
+p51
+aVDrew Gooden SAS 04/08/2009 SAS vs. POR L 20 9 3 8 37.5 0 0 - 3 4 75.0 1 0 1 0 0 0 1 3 -3
+p52
+aVTim Duncan SAS 04/08/2009 SAS vs. POR L 24 4 2 8 25.0 0 0 - 0 0 - 1 4 5 1 2 1 2 1 2
+p53
+aVRoger Mason Jr. SAS 04/08/2009 SAS vs. POR L 39 18 6 15 40.0 3 7 42.9 3 3 100.0 0 3 3 4 1 0 0 3 1
+p54
+aVTony Parker SAS 04/08/2009 SAS vs. POR L 33 17 8 15 53.3 0 0 - 1 1 100.0 1 4 5 7 0 0 4 0 -11
+p55
+aVBruce Bowen SAS 04/07/2009 SAS @ OKC W 24 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 1 0 1 4 13
+p56
+aVTony Parker SAS 04/07/2009 SAS @ OKC W 35 21 8 15 53.3 0 0 - 5 8 62.5 0 4 4 10 5 0 3 0 8
+p57
+aVRoger Mason Jr. SAS 04/07/2009 SAS @ OKC W 29 13 5 14 35.7 3 6 50.0 0 0 - 0 1 1 3 0 0 0 1 13
+p58
+aVGeorge Hill SAS 04/07/2009 SAS @ OKC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p59
+aVDrew Gooden SAS 04/07/2009 SAS @ OKC W 29 20 7 14 50.0 0 0 - 6 6 100.0 1 3 4 0 0 2 0 0 11
+p60
+aVKurt Thomas SAS 04/07/2009 SAS @ OKC W 16 6 3 5 60.0 0 0 - 0 0 - 4 3 7 1 0 0 0 2 2
+p61
+aVMichael Finley SAS 04/07/2009 SAS @ OKC W 29 9 3 5 60.0 2 4 50.0 1 1 100.0 0 0 0 0 0 0 1 1 -3
+p62
+aVIme Udoka SAS 04/07/2009 SAS @ OKC W 27 2 1 4 25.0 0 1 0.0 0 0 - 2 7 9 1 1 1 2 0 -1
+p63
+aVTim Duncan SAS 04/07/2009 SAS @ OKC W 33 25 11 20 55.0 0 0 - 3 6 50.0 4 11 15 1 0 3 2 4 11
+p64
+aVMatt Bonner SAS 04/07/2009 SAS @ OKC W 18 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 0 0 1 0 1 -2
+p65
+aVMatt Bonner SAS 04/05/2009 SAS @ CLE L 19 8 3 5 60.0 2 2 100.0 0 0 - 1 0 1 0 0 0 1 5 -7
+p66
+aVKurt Thomas SAS 04/05/2009 SAS @ CLE L 16 2 1 4 25.0 0 0 - 0 0 - 5 4 9 0 1 0 1 1 -3
+p67
+aVDrew Gooden SAS 04/05/2009 SAS @ CLE L 27 15 7 12 58.3 0 0 - 1 1 100.0 2 3 5 0 0 0 1 2 -14
+p68
+aVGeorge Hill SAS 04/05/2009 SAS @ CLE L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 2
+p69
+aVTony Parker SAS 04/05/2009 SAS @ CLE L 36 24 9 16 56.3 0 0 - 6 10 60.0 0 1 1 4 1 0 2 5 -14
+p70
+aVBruce Bowen SAS 04/05/2009 SAS @ CLE L 17 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -17
+p71
+aVMichael Finley SAS 04/05/2009 SAS @ CLE L 26 8 2 5 40.0 2 4 50.0 2 2 100.0 0 4 4 1 0 0 3 0 -1
+p72
+aVIme Udoka SAS 04/05/2009 SAS @ CLE L 11 2 0 5 0.0 0 3 0.0 2 2 100.0 0 1 1 0 0 0 1 1 -6
+p73
+aVJacque Vaughn SAS 04/05/2009 SAS @ CLE L 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -6
+p74
+aVRoger Mason Jr. SAS 04/05/2009 SAS @ CLE L 22 8 3 9 33.3 0 1 0.0 2 2 100.0 0 1 1 2 1 1 0 1 -12
+p75
+aVTim Duncan SAS 04/05/2009 SAS @ CLE L 27 6 2 7 28.6 0 0 - 2 2 100.0 1 6 7 1 0 1 0 1 -12
+p76
+aVManu Ginobili SAS 04/05/2009 SAS @ CLE L 23 4 2 9 22.2 0 6 0.0 0 0 - 1 3 4 4 2 0 0 4 -10
+p77
+aVRoger Mason Jr. SAS 04/03/2009 SAS @ IND W 22 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 5
+p78
+aVIme Udoka SAS 04/03/2009 SAS @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p79
+aVMichael Finley SAS 04/03/2009 SAS @ IND W 34 18 7 11 63.6 2 5 40.0 2 2 100.0 1 2 3 2 0 1 1 1 -4
+p80
+aVMatt Bonner SAS 04/03/2009 SAS @ IND W 24 13 5 8 62.5 3 6 50.0 0 0 - 0 5 5 0 0 0 0 2 0
+p81
+aVTony Parker SAS 04/03/2009 SAS @ IND W 34 31 12 19 63.2 1 2 50.0 6 7 85.7 0 5 5 10 1 1 4 1 9
+p82
+aVJacque Vaughn SAS 04/03/2009 SAS @ IND W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 0
+p83
+aVGeorge Hill SAS 04/03/2009 SAS @ IND W 13 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 1 0 0 1 -4
+p84
+aVTim Duncan SAS 04/03/2009 SAS @ IND W 28 22 8 14 57.1 0 0 - 6 8 75.0 4 7 11 3 0 0 2 3 10
+p85
+aVDrew Gooden SAS 04/03/2009 SAS @ IND W 13 17 6 8 75.0 0 0 - 5 5 100.0 0 3 3 0 1 1 1 4 9
+p86
+aVManu Ginobili SAS 04/03/2009 SAS @ IND W 36 16 4 9 44.4 3 7 42.9 5 5 100.0 0 7 7 7 0 0 0 2 -3
+p87
+aVKurt Thomas SAS 04/03/2009 SAS @ IND W 21 7 2 7 28.6 0 0 - 3 4 75.0 5 2 7 0 1 0 3 2 3
+p88
+aVBruce Bowen SAS 04/03/2009 SAS @ IND W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 0
+p89
+aVIme Udoka SAS 03/31/2009 SAS vs. OKC L 14 7 3 5 60.0 1 1 100.0 0 0 - 1 3 4 0 0 0 0 2 3
+p90
+aVDrew Gooden SAS 03/31/2009 SAS vs. OKC L 9 4 2 6 33.3 0 0 - 0 0 - 2 0 2 1 1 0 0 2 -5
+p91
+aVManu Ginobili SAS 03/31/2009 SAS vs. OKC L 29 17 7 13 53.8 1 5 20.0 2 2 100.0 0 4 4 3 0 0 2 3 -10
+p92
+aVMatt Bonner SAS 03/31/2009 SAS vs. OKC L 33 9 4 7 57.1 1 2 50.0 0 0 - 1 0 1 0 2 0 0 1 -3
+p93
+aVTim Duncan SAS 03/31/2009 SAS vs. OKC L 36 21 9 12 75.0 0 0 - 3 7 42.9 5 7 12 4 0 2 1 1 9
+p94
+aVTony Parker SAS 03/31/2009 SAS vs. OKC L 35 11 4 8 50.0 0 1 0.0 3 4 75.0 0 4 4 4 1 0 4 3 1
+p95
+aVKurt Thomas SAS 03/31/2009 SAS vs. OKC L 7 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -5
+p96
+aVJacque Vaughn SAS 03/31/2009 SAS vs. OKC L 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -2
+p97
+aVRoger Mason Jr. SAS 03/31/2009 SAS vs. OKC L 29 10 3 10 30.0 1 6 16.7 3 3 100.0 0 2 2 2 1 0 2 1 -2
+p98
+aVMichael Finley SAS 03/31/2009 SAS vs. OKC L 35 14 5 16 31.3 4 10 40.0 0 0 - 2 3 5 4 0 0 1 0 9
+p99
+aVTim Duncan SAS 03/29/2009 SAS @ NOH L 36 19 6 14 42.9 0 0 - 7 9 77.8 6 9 15 2 0 1 2 1 -1
+p100
+aVManu Ginobili SAS 03/29/2009 SAS @ NOH L 28 17 4 11 36.4 4 9 44.4 5 6 83.3 0 2 2 2 1 0 2 5 -10
+p101
+aVIme Udoka SAS 03/29/2009 SAS @ NOH L 22 2 1 6 16.7 0 5 0.0 0 0 - 1 4 5 2 0 0 0 1 2
+p102
+aVDrew Gooden SAS 03/29/2009 SAS @ NOH L 19 9 4 5 80.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 3 -7
+p103
+aVGeorge Hill SAS 03/29/2009 SAS @ NOH L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 0 -2
+p104
+aVRoger Mason Jr. SAS 03/29/2009 SAS @ NOH L 23 0 0 4 0.0 0 2 0.0 0 0 - 0 4 4 1 0 0 0 1 -5
+p105
+aVKurt Thomas SAS 03/29/2009 SAS @ NOH L 17 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 1 1 1 5 -7
+p106
+aVMatt Bonner SAS 03/29/2009 SAS @ NOH L 18 7 3 7 42.9 1 5 20.0 0 0 - 2 5 7 2 1 0 0 4 8
+p107
+aVMichael Finley SAS 03/29/2009 SAS @ NOH L 34 12 5 12 41.7 2 6 33.3 0 0 - 0 2 2 2 1 0 1 1 -4
+p108
+aVTony Parker SAS 03/29/2009 SAS @ NOH L 39 20 8 15 53.3 0 1 0.0 4 4 100.0 0 3 3 7 0 0 2 3 6
+p109
+aVTony Parker SAS 03/27/2009 SAS vs. LAC W 17 18 8 10 80.0 1 1 100.0 1 2 50.0 0 1 1 6 2 0 0 0 24
+p110
+aVGeorge Hill SAS 03/27/2009 SAS vs. LAC W 26 8 4 10 40.0 0 2 0.0 0 0 - 1 0 1 0 2 0 1 3 -8
+p111
+aVManu Ginobili SAS 03/27/2009 SAS vs. LAC W 17 14 5 7 71.4 2 3 66.7 2 2 100.0 0 1 1 7 3 1 0 0 8
+p112
+aVDrew Gooden SAS 03/27/2009 SAS vs. LAC W 19 14 6 9 66.7 0 0 - 2 2 100.0 2 3 5 0 0 0 0 4 -12
+p113
+aVKurt Thomas SAS 03/27/2009 SAS vs. LAC W 19 10 5 6 83.3 0 0 - 0 0 - 2 3 5 1 0 0 1 2 11
+p114
+aVIme Udoka SAS 03/27/2009 SAS vs. LAC W 20 3 1 5 20.0 1 2 50.0 0 0 - 0 4 4 2 0 0 0 1 2
+p115
+aVMichael Finley SAS 03/27/2009 SAS vs. LAC W 20 11 4 8 50.0 3 6 50.0 0 0 - 0 2 2 1 1 0 0 1 14
+p116
+aVBruce Bowen SAS 03/27/2009 SAS vs. LAC W 16 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 0 -15
+p117
+aVMatt Bonner SAS 03/27/2009 SAS vs. LAC W 25 10 4 7 57.1 2 4 50.0 0 0 - 1 1 2 2 0 1 0 2 22
+p118
+aVRoger Mason Jr. SAS 03/27/2009 SAS vs. LAC W 27 8 3 9 33.3 1 6 16.7 1 1 100.0 1 7 8 6 1 0 0 1 28
+p119
+aVJacque Vaughn SAS 03/27/2009 SAS vs. LAC W 19 2 1 4 25.0 0 0 - 0 0 - 0 3 3 4 0 0 0 1 -16
+p120
+aVTim Duncan SAS 03/27/2009 SAS vs. LAC W 14 13 5 6 83.3 0 0 - 3 4 75.0 1 5 6 2 0 2 0 0 7
+p121
+aVDrew Gooden SAS 03/25/2009 SAS @ ATL W 24 9 3 6 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 1 3 6
+p122
+aVKurt Thomas SAS 03/25/2009 SAS @ ATL W 24 8 3 5 60.0 0 0 - 2 2 100.0 2 6 8 1 1 2 1 3 -1
+p123
+aVRoger Mason Jr. SAS 03/25/2009 SAS @ ATL W 25 18 7 10 70.0 2 5 40.0 2 2 100.0 0 0 0 0 0 0 3 1 4
+p124
+aVIme Udoka SAS 03/25/2009 SAS @ ATL W 26 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 0 0 0 1 3 5
+p125
+aVMichael Finley SAS 03/25/2009 SAS @ ATL W 38 13 5 12 41.7 3 5 60.0 0 0 - 1 5 6 1 2 0 0 0 13
+p126
+aVMatt Bonner SAS 03/25/2009 SAS @ ATL W 39 8 3 6 50.0 0 1 0.0 2 2 100.0 1 6 7 0 1 0 0 3 14
+p127
+aVManu Ginobili SAS 03/25/2009 SAS @ ATL W 14 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 1 0 0 0 1 -6
+p128
+aVBruce Bowen SAS 03/25/2009 SAS @ ATL W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p129
+aVFabricio Oberto SAS 03/25/2009 SAS @ ATL W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -1
+p130
+aVTony Parker SAS 03/25/2009 SAS @ ATL W 39 42 18 25 72.0 0 0 - 6 6 100.0 0 3 3 10 1 0 2 2 19
+p131
+aVTony Parker SAS 03/24/2009 SAS vs. GSW W 33 30 13 20 65.0 0 0 - 4 5 80.0 0 3 3 10 0 0 3 4 1
+p132
+aVMatt Bonner SAS 03/24/2009 SAS vs. GSW W 22 10 4 6 66.7 2 4 50.0 0 0 - 0 2 2 2 0 0 0 3 9
+p133
+aVGeorge Hill SAS 03/24/2009 SAS vs. GSW W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 2 1
+p134
+aVRoger Mason Jr. SAS 03/24/2009 SAS vs. GSW W 34 24 10 16 62.5 3 5 60.0 1 2 50.0 0 2 2 2 0 0 0 3 -1
+p135
+aVMichael Finley SAS 03/24/2009 SAS vs. GSW W 27 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 0 1 0 0 0 -2
+p136
+aVTim Duncan SAS 03/24/2009 SAS vs. GSW W 24 21 5 9 55.6 0 0 - 11 13 84.6 2 8 10 4 1 2 1 1 12
+p137
+aVKurt Thomas SAS 03/24/2009 SAS vs. GSW W 16 4 2 3 66.7 0 0 - 0 2 0.0 2 5 7 0 0 1 1 3 -4
+p138
+aVBruce Bowen SAS 03/24/2009 SAS vs. GSW W 28 4 2 8 25.0 0 2 0.0 0 1 0.0 0 2 2 0 0 0 0 1 -2
+p139
+aVDrew Gooden SAS 03/24/2009 SAS vs. GSW W 9 4 1 4 25.0 0 0 - 2 2 100.0 0 6 6 0 0 0 2 1 -3
+p140
+aVJacque Vaughn SAS 03/24/2009 SAS vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p141
+aVIme Udoka SAS 03/24/2009 SAS vs. GSW W 24 2 1 3 33.3 0 2 0.0 0 0 - 0 4 4 2 2 0 0 2 -3
+p142
+aVFabricio Oberto SAS 03/24/2009 SAS vs. GSW W 11 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 1 0 0 1 1 -5
+p143
+aVTony Parker SAS 03/22/2009 SAS vs. HOU L 40 22 9 24 37.5 0 2 0.0 4 5 80.0 0 3 3 12 1 0 5 0 8
+p144
+aVFabricio Oberto SAS 03/22/2009 SAS vs. HOU L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p145
+aVGeorge Hill SAS 03/22/2009 SAS vs. HOU L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p146
+aVIme Udoka SAS 03/22/2009 SAS vs. HOU L 29 16 7 9 77.8 2 2 100.0 0 1 0.0 4 3 7 1 1 0 1 3 1
+p147
+aVMatt Bonner SAS 03/22/2009 SAS vs. HOU L 21 7 3 5 60.0 0 1 0.0 1 1 100.0 0 2 2 0 0 0 0 1 -5
+p148
+aVBruce Bowen SAS 03/22/2009 SAS vs. HOU L 13 0 0 1 0.0 0 1 0.0 0 0 - 1 2 3 0 0 1 0 1 -5
+p149
+aVRoger Mason Jr. SAS 03/22/2009 SAS vs. HOU L 35 9 3 9 33.3 2 2 100.0 1 2 50.0 0 4 4 2 1 0 2 2 -3
+p150
+aVMichael Finley SAS 03/22/2009 SAS vs. HOU L 25 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 1 0 1 3 11
+p151
+aVKurt Thomas SAS 03/22/2009 SAS vs. HOU L 30 4 2 4 50.0 0 0 - 0 0 - 5 4 9 1 2 1 0 4 5
+p152
+aVDrew Gooden SAS 03/22/2009 SAS vs. HOU L 7 4 2 5 40.0 0 0 - 0 0 - 2 1 3 0 0 0 2 1 -8
+p153
+aVTim Duncan SAS 03/22/2009 SAS vs. HOU L 34 23 8 22 36.4 0 0 - 7 8 87.5 1 5 6 2 1 0 2 2 -4
+p154
+aVMichael Finley SAS 03/20/2009 SAS vs. BOS L 29 7 2 9 22.2 2 7 28.6 1 3 33.3 0 2 2 2 0 0 0 0 -5
+p155
+aVTim Duncan SAS 03/20/2009 SAS vs. BOS L 32 15 6 15 40.0 0 0 - 3 4 75.0 1 8 9 3 0 1 2 1 -9
+p156
+aVMatt Bonner SAS 03/20/2009 SAS vs. BOS L 30 7 3 6 50.0 1 3 33.3 0 0 - 1 6 7 1 0 1 0 1 3
+p157
+aVRoger Mason Jr. SAS 03/20/2009 SAS vs. BOS L 33 8 3 8 37.5 1 4 25.0 1 1 100.0 0 2 2 2 0 0 3 3 9
+p158
+aVKurt Thomas SAS 03/20/2009 SAS vs. BOS L 18 2 1 2 50.0 0 0 - 0 0 - 4 4 8 0 1 2 0 2 -4
+p159
+aVIme Udoka SAS 03/20/2009 SAS vs. BOS L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 0 1 0 0 -1
+p160
+aVDrew Gooden SAS 03/20/2009 SAS vs. BOS L 16 7 2 6 33.3 0 0 - 3 4 75.0 0 7 7 0 0 1 0 3 8
+p161
+aVTony Parker SAS 03/20/2009 SAS vs. BOS L 38 25 12 23 52.2 0 1 0.0 1 5 20.0 0 7 7 8 1 0 2 2 -1
+p162
+aVGeorge Hill SAS 03/20/2009 SAS vs. BOS L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 2 -5
+p163
+aVBruce Bowen SAS 03/20/2009 SAS vs. BOS L 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 -8
+p164
+aVJacque Vaughn SAS 03/20/2009 SAS vs. BOS L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p165
+aVRoger Mason Jr. SAS 03/17/2009 SAS vs. MIN W 31 15 5 11 45.5 2 7 28.6 3 3 100.0 0 2 2 2 1 0 2 2 4
+p166
+aVMatt Bonner SAS 03/17/2009 SAS vs. MIN W 26 8 3 9 33.3 0 6 0.0 2 2 100.0 1 5 6 0 1 1 0 2 14
+p167
+aVKurt Thomas SAS 03/17/2009 SAS vs. MIN W 29 10 5 10 50.0 0 0 - 0 0 - 4 6 10 6 2 0 0 3 17
+p168
+aVDrew Gooden SAS 03/17/2009 SAS vs. MIN W 6 0 0 4 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -10
+p169
+aVIme Udoka SAS 03/17/2009 SAS vs. MIN W 19 7 3 8 37.5 1 3 33.3 0 0 - 0 5 5 2 0 0 0 4 13
+p170
+aVBruce Bowen SAS 03/17/2009 SAS vs. MIN W 22 3 1 4 25.0 1 1 100.0 0 0 - 0 3 3 1 1 0 0 0 -2
+p171
+aVMichael Finley SAS 03/17/2009 SAS vs. MIN W 32 9 3 9 33.3 1 2 50.0 2 2 100.0 1 5 6 1 0 0 1 2 8
+p172
+aVTony Parker SAS 03/17/2009 SAS vs. MIN W 35 24 9 19 47.4 0 2 0.0 6 8 75.0 0 2 2 6 1 0 0 2 6
+p173
+aVFabricio Oberto SAS 03/17/2009 SAS vs. MIN W 20 12 4 4 100.0 0 0 - 4 6 66.7 3 2 5 3 1 1 2 4 -10
+p174
+aVGeorge Hill SAS 03/17/2009 SAS vs. MIN W 22 5 1 2 50.0 0 0 - 3 4 75.0 1 1 2 0 1 1 0 2 -5
+p175
+aVIme Udoka SAS 03/16/2009 SAS @ OKC L 19 2 1 6 16.7 0 3 0.0 0 0 - 1 3 4 0 1 0 0 2 -1
+p176
+aVDrew Gooden SAS 03/16/2009 SAS @ OKC L 15 6 3 5 60.0 0 0 - 0 0 - 2 3 5 0 0 0 0 1 -2
+p177
+aVMichael Finley SAS 03/16/2009 SAS @ OKC L 39 7 3 10 30.0 1 4 25.0 0 0 - 2 2 4 2 1 0 0 2 4
+p178
+aVBruce Bowen SAS 03/16/2009 SAS @ OKC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p179
+aVTim Duncan SAS 03/16/2009 SAS @ OKC L 35 14 6 13 46.2 0 0 - 2 5 40.0 0 12 12 1 0 2 4 0 6
+p180
+aVRoger Mason Jr. SAS 03/16/2009 SAS @ OKC L 35 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 4 0 0 4 2 3
+p181
+aVKurt Thomas SAS 03/16/2009 SAS @ OKC L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -2
+p182
+aVMatt Bonner SAS 03/16/2009 SAS @ OKC L 31 10 4 10 40.0 2 5 40.0 0 0 - 1 7 8 0 1 0 0 2 2
+p183
+aVGeorge Hill SAS 03/16/2009 SAS @ OKC L 15 3 1 6 16.7 0 4 0.0 1 1 100.0 0 3 3 1 1 1 2 2 -16
+p184
+aVTony Parker SAS 03/16/2009 SAS @ OKC L 36 28 12 22 54.5 0 2 0.0 4 6 66.7 1 3 4 7 1 0 5 0 7
+p185
+aVBruce Bowen SAS 03/14/2009 SAS @ HOU W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p186
+aVTim Duncan SAS 03/14/2009 SAS @ HOU W 33 15 7 18 38.9 0 0 - 1 2 50.0 4 8 12 4 2 1 1 2 6
+p187
+aVDrew Gooden SAS 03/14/2009 SAS @ HOU W 15 13 5 10 50.0 0 0 - 3 4 75.0 1 3 4 0 0 0 1 2 -3
+p188
+aVKurt Thomas SAS 03/14/2009 SAS @ HOU W 19 2 0 1 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 2 2 -3
+p189
+aVRoger Mason Jr. SAS 03/14/2009 SAS @ HOU W 30 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 1 2 0 2 4 -3
+p190
+aVGeorge Hill SAS 03/14/2009 SAS @ HOU W 15 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 0 5
+p191
+aVMatt Bonner SAS 03/14/2009 SAS @ HOU W 29 2 1 6 16.7 0 1 0.0 0 0 - 1 9 10 2 1 1 0 2 6
+p192
+aVTony Parker SAS 03/14/2009 SAS @ HOU W 38 28 10 23 43.5 0 0 - 8 9 88.9 0 4 4 8 0 0 2 2 0
+p193
+aVMichael Finley SAS 03/14/2009 SAS @ HOU W 37 17 6 14 42.9 5 7 71.4 0 0 - 0 4 4 0 1 1 1 2 3
+p194
+aVIme Udoka SAS 03/14/2009 SAS @ HOU W 25 2 1 3 33.3 0 0 - 0 0 - 1 2 3 2 1 0 1 2 4
+p195
+aVFabricio Oberto SAS 03/12/2009 SAS vs. LAL L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 2 0 0 0 0 6
+p196
+aVGeorge Hill SAS 03/12/2009 SAS vs. LAL L 14 4 1 2 50.0 1 1 100.0 1 2 50.0 0 1 1 2 1 0 3 2 -6
+p197
+aVRoger Mason Jr. SAS 03/12/2009 SAS vs. LAL L 33 7 3 9 33.3 1 3 33.3 0 0 - 0 1 1 3 0 0 1 5 -2
+p198
+aVBruce Bowen SAS 03/12/2009 SAS vs. LAL L 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -8
+p199
+aVIme Udoka SAS 03/12/2009 SAS vs. LAL L 13 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 3 1 2 2 0
+p200
+aVTim Duncan SAS 03/12/2009 SAS vs. LAL L 39 16 6 13 46.2 0 0 - 4 7 57.1 2 9 11 5 0 1 2 3 -13
+p201
+aVDrew Gooden SAS 03/12/2009 SAS vs. LAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 0 0 1 0 0
+p202
+aVMichael Finley SAS 03/12/2009 SAS vs. LAL L 39 25 10 17 58.8 5 6 83.3 0 0 - 0 3 3 0 1 0 1 3 2
+p203
+aVMatt Bonner SAS 03/12/2009 SAS vs. LAL L 13 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -17
+p204
+aVTony Parker SAS 03/12/2009 SAS vs. LAL L 38 25 10 18 55.6 2 3 66.7 3 7 42.9 0 2 2 9 0 0 5 0 -8
+p205
+aVKurt Thomas SAS 03/12/2009 SAS vs. LAL L 25 8 4 6 66.7 0 0 - 0 0 - 0 7 7 1 1 2 1 2 11
+p206
+aVTony Parker SAS 03/10/2009 SAS vs. CHA W 36 21 9 20 45.0 0 0 - 3 5 60.0 1 0 1 7 2 0 3 3 6
+p207
+aVBruce Bowen SAS 03/10/2009 SAS vs. CHA W 19 5 2 2 100.0 1 1 100.0 0 0 - 1 4 5 3 0 0 1 1 5
+p208
+aVFabricio Oberto SAS 03/10/2009 SAS vs. CHA W 0 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 0
+p209
+aVMichael Finley SAS 03/10/2009 SAS vs. CHA W 28 10 4 6 66.7 2 4 50.0 0 0 - 0 2 2 2 0 0 1 1 -6
+p210
+aVGeorge Hill SAS 03/10/2009 SAS vs. CHA W 18 9 3 3 100.0 1 1 100.0 2 2 100.0 0 1 1 2 2 0 0 1 15
+p211
+aVTim Duncan SAS 03/10/2009 SAS vs. CHA W 34 18 7 18 38.9 0 0 - 4 5 80.0 2 9 11 1 1 1 1 2 10
+p212
+aVKurt Thomas SAS 03/10/2009 SAS vs. CHA W 30 6 3 5 60.0 0 0 - 0 0 - 3 7 10 1 1 0 3 5 5
+p213
+aVMatt Bonner SAS 03/10/2009 SAS vs. CHA W 15 3 1 1 100.0 1 1 100.0 0 0 - 1 5 6 2 1 0 0 2 9
+p214
+aVRoger Mason Jr. SAS 03/10/2009 SAS vs. CHA W 34 21 8 16 50.0 5 8 62.5 0 0 - 0 1 1 5 0 1 0 1 16
+p215
+aVIme Udoka SAS 03/10/2009 SAS vs. CHA W 25 7 3 10 30.0 1 2 50.0 0 0 - 1 4 5 1 1 0 0 2 10
+p216
+aVGeorge Hill SAS 03/08/2009 SAS vs. PHX W 13 2 1 1 100.0 0 0 - 0 0 - 0 4 4 0 1 1 0 1 3
+p217
+aVBruce Bowen SAS 03/08/2009 SAS vs. PHX W 28 3 1 5 20.0 1 5 20.0 0 0 - 1 2 3 0 0 0 0 3 12
+p218
+aVTim Duncan SAS 03/08/2009 SAS vs. PHX W 32 17 5 9 55.6 0 0 - 7 12 58.3 3 12 15 4 0 2 1 1 5
+p219
+aVRoger Mason Jr. SAS 03/08/2009 SAS vs. PHX W 38 18 6 15 40.0 3 9 33.3 3 4 75.0 0 4 4 3 1 1 0 3 8
+p220
+aVTony Parker SAS 03/08/2009 SAS vs. PHX W 37 30 13 22 59.1 0 0 - 4 4 100.0 1 1 2 9 2 0 6 0 0
+p221
+aVMichael Finley SAS 03/08/2009 SAS vs. PHX W 30 11 4 7 57.1 2 3 66.7 1 2 50.0 0 3 3 2 0 0 2 1 -8
+p222
+aVMatt Bonner SAS 03/08/2009 SAS vs. PHX W 23 5 2 5 40.0 1 3 33.3 0 0 - 0 5 5 0 0 0 0 2 -10
+p223
+aVIme Udoka SAS 03/08/2009 SAS vs. PHX W 24 11 4 8 50.0 1 3 33.3 2 3 66.7 0 2 2 2 0 0 1 2 10
+p224
+aVKurt Thomas SAS 03/08/2009 SAS vs. PHX W 15 6 2 4 50.0 0 0 - 2 2 100.0 2 3 5 0 1 0 0 2 5
+p225
+aVTim Duncan SAS 03/06/2009 SAS vs. WAS W 18 5 2 5 40.0 0 0 - 1 2 50.0 0 5 5 0 0 2 5 4 0
+p226
+aVMichael Finley SAS 03/06/2009 SAS vs. WAS W 20 12 5 9 55.6 2 5 40.0 0 0 - 0 3 3 3 1 0 0 0 13
+p227
+aVIme Udoka SAS 03/06/2009 SAS vs. WAS W 27 13 5 9 55.6 3 5 60.0 0 0 - 0 4 4 4 2 0 2 5 9
+p228
+aVJacque Vaughn SAS 03/06/2009 SAS vs. WAS W 13 7 2 4 50.0 0 0 - 3 4 75.0 0 0 0 2 0 0 1 2 -6
+p229
+aVTony Parker SAS 03/06/2009 SAS vs. WAS W 24 19 7 9 77.8 0 0 - 5 5 100.0 0 1 1 7 2 0 1 1 15
+p230
+aVBruce Bowen SAS 03/06/2009 SAS vs. WAS W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 1 1 0 0 1 19
+p231
+aVKurt Thomas SAS 03/06/2009 SAS vs. WAS W 16 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 0 2 0 0 27
+p232
+aVGeorge Hill SAS 03/06/2009 SAS vs. WAS W 26 12 4 9 44.4 1 1 100.0 3 4 75.0 1 3 4 4 1 0 1 1 3
+p233
+aVMatt Bonner SAS 03/06/2009 SAS vs. WAS W 21 4 2 9 22.2 0 5 0.0 0 0 - 1 3 4 1 0 0 2 1 14
+p234
+aVRoger Mason Jr. SAS 03/06/2009 SAS vs. WAS W 18 4 1 4 25.0 0 3 0.0 2 2 100.0 0 3 3 2 1 0 1 0 18
+p235
+aVFabricio Oberto SAS 03/06/2009 SAS vs. WAS W 18 8 4 6 66.7 0 0 - 0 0 - 3 3 6 1 0 0 1 4 0
+p236
+aVMalik Hairston SAS 03/06/2009 SAS vs. WAS W 21 9 4 5 80.0 0 0 - 1 3 33.3 0 2 2 2 0 2 2 3 -2
+p237
+aVTony Parker SAS 03/04/2009 SAS @ DAL L 37 37 15 25 60.0 1 4 25.0 6 7 85.7 1 3 4 4 0 0 2 1 -3
+p238
+aVMalik Hairston SAS 03/04/2009 SAS @ DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -4
+p239
+aVIme Udoka SAS 03/04/2009 SAS @ DAL L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p240
+aVTim Duncan SAS 03/04/2009 SAS @ DAL L 39 19 7 21 33.3 0 0 - 5 7 71.4 7 5 12 5 1 2 1 3 -10
+p241
+aVGeorge Hill SAS 03/04/2009 SAS @ DAL L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 -2
+p242
+aVMichael Finley SAS 03/04/2009 SAS @ DAL L 37 5 2 8 25.0 0 3 0.0 1 2 50.0 0 4 4 2 1 0 0 2 -2
+p243
+aVMatt Bonner SAS 03/04/2009 SAS @ DAL L 22 11 5 8 62.5 1 3 33.3 0 1 0.0 1 2 3 0 0 0 0 6 13
+p244
+aVBruce Bowen SAS 03/04/2009 SAS @ DAL L 24 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 1 -15
+p245
+aVKurt Thomas SAS 03/04/2009 SAS @ DAL L 28 4 2 5 40.0 0 0 - 0 0 - 4 4 8 0 1 0 0 4 -6
+p246
+aVFabricio Oberto SAS 03/04/2009 SAS @ DAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p247
+aVRoger Mason Jr. SAS 03/04/2009 SAS @ DAL L 37 23 7 13 53.8 4 6 66.7 5 5 100.0 0 4 4 3 0 0 3 1 9
+p248
+aVFabricio Oberto SAS 03/02/2009 SAS @ LAC W 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -2
+p249
+aVKurt Thomas SAS 03/02/2009 SAS @ LAC W 21 9 3 6 50.0 0 0 - 3 3 100.0 3 4 7 0 2 2 0 2 6
+p250
+aVMatt Bonner SAS 03/02/2009 SAS @ LAC W 23 14 6 12 50.0 2 6 33.3 0 0 - 2 1 3 0 2 0 0 2 22
+p251
+aVJacque Vaughn SAS 03/02/2009 SAS @ LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p252
+aVMichael Finley SAS 03/02/2009 SAS @ LAC W 26 14 5 11 45.5 4 7 57.1 0 0 - 0 2 2 0 0 0 1 1 19
+p253
+aVGeorge Hill SAS 03/02/2009 SAS @ LAC W 13 4 2 4 50.0 0 0 - 0 0 - 1 3 4 1 0 0 0 3 8
+p254
+aVTim Duncan SAS 03/02/2009 SAS @ LAC W 28 18 7 11 63.6 0 0 - 4 5 80.0 4 8 12 6 3 2 1 1 20
+p255
+aVMalik Hairston SAS 03/02/2009 SAS @ LAC W 24 8 4 7 57.1 0 1 0.0 0 0 - 0 4 4 2 0 1 1 4 1
+p256
+aVIme Udoka SAS 03/02/2009 SAS @ LAC W 15 6 3 6 50.0 0 1 0.0 0 0 - 2 3 5 2 0 0 1 1 9
+p257
+aVRoger Mason Jr. SAS 03/02/2009 SAS @ LAC W 31 2 1 9 11.1 0 6 0.0 0 0 - 0 9 9 5 0 2 0 1 20
+p258
+aVTony Parker SAS 03/02/2009 SAS @ LAC W 34 26 10 19 52.6 0 0 - 6 6 100.0 0 3 3 10 0 0 3 3 20
+p259
+aVBruce Bowen SAS 03/02/2009 SAS @ LAC W 12 3 1 2 50.0 1 2 50.0 0 0 - 1 1 2 1 1 0 1 0 11
+p260
+aVMatt Bonner SAS 03/01/2009 SAS @ POR L 25 8 3 6 50.0 2 4 50.0 0 0 - 0 4 4 0 0 0 0 4 -17
+p261
+aVMichael Finley SAS 03/01/2009 SAS @ POR L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -10
+p262
+aVIme Udoka SAS 03/01/2009 SAS @ POR L 17 5 2 3 66.7 1 1 100.0 0 0 - 0 3 3 0 0 1 1 4 -7
+p263
+aVFabricio Oberto SAS 03/01/2009 SAS @ POR L 17 4 2 3 66.7 0 0 - 0 0 - 2 4 6 1 0 0 1 3 5
+p264
+aVTony Parker SAS 03/01/2009 SAS @ POR L 28 15 7 16 43.8 0 1 0.0 1 1 100.0 1 1 2 4 0 0 2 2 -11
+p265
+aVTim Duncan SAS 03/01/2009 SAS @ POR L 26 14 6 15 40.0 0 0 - 2 4 50.0 2 2 4 2 3 0 2 1 -15
+p266
+aVBruce Bowen SAS 03/01/2009 SAS @ POR L 19 5 2 4 50.0 1 2 50.0 0 0 - 1 1 2 0 0 1 0 0 -3
+p267
+aVMalik Hairston SAS 03/01/2009 SAS @ POR L 25 6 3 9 33.3 0 0 - 0 0 - 2 3 5 3 3 0 4 2 7
+p268
+aVGeorge Hill SAS 03/01/2009 SAS @ POR L 20 10 3 7 42.9 1 1 100.0 3 5 60.0 0 0 0 4 0 0 4 2 -7
+p269
+aVPops Mensah-Bonsu SAS 03/01/2009 SAS @ POR L 7 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 7
+p270
+aVKurt Thomas SAS 03/01/2009 SAS @ POR L 14 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -17
+p271
+aVRoger Mason Jr. SAS 03/01/2009 SAS @ POR L 26 13 4 9 44.4 3 4 75.0 2 2 100.0 0 4 4 1 0 0 1 2 -22
+p272
+aVRoger Mason Jr. SAS 02/27/2009 SAS vs. CLE L 22 10 4 6 66.7 2 4 50.0 0 0 - 0 0 0 1 0 0 1 0 -12
+p273
+aVFabricio Oberto SAS 02/27/2009 SAS vs. CLE L 18 4 2 2 100.0 0 0 - 0 0 - 2 2 4 1 0 0 3 3 -12
+p274
+aVMichael Finley SAS 02/27/2009 SAS vs. CLE L 27 11 5 9 55.6 1 2 50.0 0 0 - 2 5 7 1 0 3 0 1 -4
+p275
+aVMatt Bonner SAS 02/27/2009 SAS vs. CLE L 27 9 4 11 36.4 1 2 50.0 0 0 - 0 3 3 2 0 1 0 3 -31
+p276
+aVPops Mensah-Bonsu SAS 02/27/2009 SAS vs. CLE L 12 11 3 3 100.0 0 0 - 5 7 71.4 4 2 6 0 1 1 1 3 10
+p277
+aVGeorge Hill SAS 02/27/2009 SAS vs. CLE L 21 8 4 7 57.1 0 0 - 0 0 - 0 1 1 5 1 0 1 4 12
+p278
+aVMalik Hairston SAS 02/27/2009 SAS vs. CLE L 20 11 5 8 62.5 0 0 - 1 1 100.0 1 0 1 2 0 1 1 0 5
+p279
+aVBruce Bowen SAS 02/27/2009 SAS vs. CLE L 17 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 2 -19
+p280
+aVIme Udoka SAS 02/27/2009 SAS vs. CLE L 18 1 0 7 0.0 0 2 0.0 1 2 50.0 1 5 6 1 0 1 0 2 17
+p281
+aVJacque Vaughn SAS 02/27/2009 SAS vs. CLE L 9 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 2 1 0 0 0 12
+p282
+aVKurt Thomas SAS 02/27/2009 SAS vs. CLE L 21 6 3 7 42.9 0 0 - 0 0 - 0 6 6 1 0 0 1 2 -11
+p283
+aVTony Parker SAS 02/27/2009 SAS vs. CLE L 30 11 3 16 18.8 0 1 0.0 5 6 83.3 2 3 5 6 1 0 3 0 -22
+p284
+aVFabricio Oberto SAS 02/25/2009 SAS vs. POR W 26 2 1 2 50.0 0 0 - 0 0 - 0 4 4 3 0 0 1 2 20
+p285
+aVRoger Mason Jr. SAS 02/25/2009 SAS vs. POR W 27 6 2 9 22.2 1 5 20.0 1 1 100.0 0 1 1 2 1 0 1 2 7
+p286
+aVPops Mensah-Bonsu SAS 02/25/2009 SAS vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p287
+aVMatt Bonner SAS 02/25/2009 SAS vs. POR W 30 15 6 9 66.7 3 5 60.0 0 0 - 1 8 9 0 2 0 0 1 22
+p288
+aVMichael Finley SAS 02/25/2009 SAS vs. POR W 37 13 6 11 54.5 1 3 33.3 0 0 - 0 6 6 0 0 0 1 1 24
+p289
+aVMalik Hairston SAS 02/25/2009 SAS vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p290
+aVTony Parker SAS 02/25/2009 SAS vs. POR W 35 39 17 27 63.0 1 1 100.0 4 5 80.0 0 5 5 9 0 0 1 0 25
+p291
+aVKurt Thomas SAS 02/25/2009 SAS vs. POR W 32 8 4 6 66.7 0 0 - 0 0 - 4 6 10 1 0 1 2 3 -13
+p292
+aVGeorge Hill SAS 02/25/2009 SAS vs. POR W 16 4 2 6 33.3 0 1 0.0 0 0 - 0 1 1 2 0 1 0 1 -8
+p293
+aVBruce Bowen SAS 02/25/2009 SAS vs. POR W 24 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 1 0 1 0 2 -7
+p294
+aVIme Udoka SAS 02/25/2009 SAS vs. POR W 13 6 2 5 40.0 1 3 33.3 1 2 50.0 0 2 2 2 0 0 0 2 3
+p295
+aVMatt Bonner SAS 02/24/2009 SAS vs. DAL W 32 11 4 11 36.4 2 7 28.6 1 2 50.0 1 3 4 0 0 0 1 1 28
+p296
+aVIme Udoka SAS 02/24/2009 SAS vs. DAL W 16 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 0
+p297
+aVGeorge Hill SAS 02/24/2009 SAS vs. DAL W 15 6 1 5 20.0 0 2 0.0 4 4 100.0 0 2 2 2 1 1 3 3 -2
+p298
+aVRoger Mason Jr. SAS 02/24/2009 SAS vs. DAL W 30 7 3 10 30.0 0 5 0.0 1 2 50.0 1 4 5 3 0 0 2 4 5
+p299
+aVFabricio Oberto SAS 02/24/2009 SAS vs. DAL W 25 6 3 4 75.0 0 0 - 0 0 - 1 4 5 0 0 1 1 4 -1
+p300
+aVMalik Hairston SAS 02/24/2009 SAS vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -2
+p301
+aVKurt Thomas SAS 02/24/2009 SAS vs. DAL W 30 10 5 7 71.4 0 0 - 0 0 - 4 11 15 1 0 3 0 3 20
+p302
+aVMichael Finley SAS 02/24/2009 SAS vs. DAL W 37 16 6 9 66.7 4 4 100.0 0 0 - 0 5 5 0 1 0 0 1 14
+p303
+aVBruce Bowen SAS 02/24/2009 SAS vs. DAL W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 2 1 0 2 -4
+p304
+aVTony Parker SAS 02/24/2009 SAS vs. DAL W 37 37 15 32 46.9 0 2 0.0 7 8 87.5 0 5 5 12 0 0 2 2 27
+p305
+aVFabricio Oberto SAS 02/21/2009 SAS @ WAS W 21 6 3 4 75.0 0 0 - 0 1 0.0 2 2 4 3 0 0 1 0 12
+p306
+aVTim Duncan SAS 02/21/2009 SAS @ WAS W 27 12 4 8 50.0 0 0 - 4 5 80.0 2 9 11 1 0 2 4 1 15
+p307
+aVMalik Hairston SAS 02/21/2009 SAS @ WAS W 13 0 0 3 0.0 0 0 - 0 0 - 1 3 4 2 1 1 1 0 10
+p308
+aVMichael Finley SAS 02/21/2009 SAS @ WAS W 30 19 7 13 53.8 5 9 55.6 0 0 - 0 4 4 1 3 0 2 2 6
+p309
+aVMatt Bonner SAS 02/21/2009 SAS @ WAS W 19 3 1 3 33.3 1 2 50.0 0 0 - 0 5 5 2 0 0 0 4 16
+p310
+aVRoger Mason Jr. SAS 02/21/2009 SAS @ WAS W 30 25 9 15 60.0 5 9 55.6 2 2 100.0 0 3 3 5 2 0 0 3 23
+p311
+aVIme Udoka SAS 02/21/2009 SAS @ WAS W 7 9 4 6 66.7 1 2 50.0 0 0 - 1 1 2 0 1 0 0 0 7
+p312
+aVBruce Bowen SAS 02/21/2009 SAS @ WAS W 17 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 3 17
+p313
+aVKurt Thomas SAS 02/21/2009 SAS @ WAS W 22 6 3 5 60.0 0 0 - 0 0 - 1 6 7 2 1 3 2 0 13
+p314
+aVJacque Vaughn SAS 02/21/2009 SAS @ WAS W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 5
+p315
+aVGeorge Hill SAS 02/21/2009 SAS @ WAS W 25 6 2 5 40.0 0 1 0.0 2 2 100.0 0 4 4 6 0 0 2 2 24
+p316
+aVTony Parker SAS 02/21/2009 SAS @ WAS W 23 9 3 7 42.9 0 1 0.0 3 4 75.0 0 0 0 4 0 0 2 1 7
+p317
+aVTim Duncan SAS 02/19/2009 SAS @ DET W 36 18 7 19 36.8 0 0 - 4 6 66.7 6 12 18 0 0 3 2 2 5
+p318
+aVMatt Bonner SAS 02/19/2009 SAS @ DET W 37 15 5 11 45.5 5 8 62.5 0 0 - 2 5 7 1 1 0 1 2 -5
+p319
+aVGeorge Hill SAS 02/19/2009 SAS @ DET W 19 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 0 3 1 4 5
+p320
+aVMichael Finley SAS 02/19/2009 SAS @ DET W 27 8 3 5 60.0 2 3 66.7 0 0 - 0 3 3 0 0 0 0 1 -2
+p321
+aVMalik Hairston SAS 02/19/2009 SAS @ DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p322
+aVFabricio Oberto SAS 02/19/2009 SAS @ DET W 8 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 1 2
+p323
+aVTony Parker SAS 02/19/2009 SAS @ DET W 35 19 7 20 35.0 0 0 - 5 7 71.4 0 5 5 11 1 0 3 0 8
+p324
+aVKurt Thomas SAS 02/19/2009 SAS @ DET W 16 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 0 0 0 2 5
+p325
+aVRoger Mason Jr. SAS 02/19/2009 SAS @ DET W 32 8 4 11 36.4 0 3 0.0 0 0 - 0 2 2 2 0 0 2 2 -8
+p326
+aVBruce Bowen SAS 02/19/2009 SAS @ DET W 27 6 1 2 50.0 0 0 - 4 4 100.0 0 3 3 0 1 0 0 1 9
+p327
+aVRoger Mason Jr. SAS 02/17/2009 SAS @ NYK L 45 20 7 17 41.2 3 9 33.3 3 3 100.0 1 5 6 2 0 0 0 3 -7
+p328
+aVBruce Bowen SAS 02/17/2009 SAS @ NYK L 31 8 3 5 60.0 2 3 66.7 0 0 - 1 3 4 1 0 1 0 2 1
+p329
+aVFabricio Oberto SAS 02/17/2009 SAS @ NYK L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p330
+aVMichael Finley SAS 02/17/2009 SAS @ NYK L 33 9 4 13 30.8 0 5 0.0 1 1 100.0 2 2 4 2 0 0 0 3 -7
+p331
+aVTony Parker SAS 02/17/2009 SAS @ NYK L 43 14 5 20 25.0 0 1 0.0 4 4 100.0 2 1 3 7 2 0 3 1 -2
+p332
+aVMatt Bonner SAS 02/17/2009 SAS @ NYK L 34 10 4 9 44.4 2 4 50.0 0 0 - 2 6 8 1 0 1 3 2 -8
+p333
+aVGeorge Hill SAS 02/17/2009 SAS @ NYK L 18 3 1 4 25.0 0 0 - 1 1 100.0 1 1 2 1 1 0 1 4 -2
+p334
+aVTim Duncan SAS 02/17/2009 SAS @ NYK L 39 26 8 16 50.0 0 1 0.0 10 13 76.9 2 13 15 5 0 2 7 4 -1
+p335
+aVKurt Thomas SAS 02/17/2009 SAS @ NYK L 16 12 6 7 85.7 0 0 - 0 0 - 1 5 6 0 0 0 0 0 4
+p336
+aVIme Udoka SAS 02/17/2009 SAS @ NYK L 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 0
+p337
+aVRoger Mason Jr. SAS 02/11/2009 SAS @ TOR L 37 9 4 11 36.4 1 2 50.0 0 0 - 0 3 3 0 0 0 1 1 -5
+p338
+aVMatt Bonner SAS 02/11/2009 SAS @ TOR L 28 0 0 4 0.0 0 3 0.0 0 0 - 0 6 6 2 1 0 0 2 4
+p339
+aVKurt Thomas SAS 02/11/2009 SAS @ TOR L 18 2 1 2 50.0 0 0 - 0 0 - 4 3 7 3 0 2 0 1 -7
+p340
+aVMalik Hairston SAS 02/11/2009 SAS @ TOR L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 1 2 0
+p341
+aVTony Parker SAS 02/11/2009 SAS @ TOR L 36 22 9 20 45.0 0 0 - 4 4 100.0 1 2 3 4 1 0 4 2 2
+p342
+aVMichael Finley SAS 02/11/2009 SAS @ TOR L 24 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 0 0 0 1 3 0
+p343
+aVFabricio Oberto SAS 02/11/2009 SAS @ TOR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p344
+aVBruce Bowen SAS 02/11/2009 SAS @ TOR L 14 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -9
+p345
+aVGeorge Hill SAS 02/11/2009 SAS @ TOR L 12 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -4
+p346
+aVTim Duncan SAS 02/11/2009 SAS @ TOR L 32 20 8 18 44.4 0 0 - 4 6 66.7 3 10 13 7 1 1 1 4 3
+p347
+aVManu Ginobili SAS 02/11/2009 SAS @ TOR L 34 32 12 23 52.2 4 7 57.1 4 5 80.0 0 7 7 4 3 0 2 0 8
+p348
+aVGeorge Hill SAS 02/10/2009 SAS @ NJN W 13 0 0 2 0.0 0 1 0.0 0 0 - 1 1 2 2 0 0 0 2 -9
+p349
+aVMalik Hairston SAS 02/10/2009 SAS @ NJN W 11 4 2 6 33.3 0 0 - 0 0 - 2 1 3 1 0 0 0 0 0
+p350
+aVRoger Mason Jr. SAS 02/10/2009 SAS @ NJN W 29 14 5 12 41.7 3 6 50.0 1 1 100.0 1 3 4 1 0 0 0 3 9
+p351
+aVFabricio Oberto SAS 02/10/2009 SAS @ NJN W 2 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 0 0 1 -1
+p352
+aVBruce Bowen SAS 02/10/2009 SAS @ NJN W 19 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 9
+p353
+aVMichael Finley SAS 02/10/2009 SAS @ NJN W 25 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 2 0 0 1 0 13
+p354
+aVIme Udoka SAS 02/10/2009 SAS @ NJN W 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p355
+aVMatt Bonner SAS 02/10/2009 SAS @ NJN W 26 22 8 10 80.0 4 5 80.0 2 2 100.0 0 5 5 1 1 0 0 2 11
+p356
+aVManu Ginobili SAS 02/10/2009 SAS @ NJN W 27 9 3 6 50.0 0 2 0.0 3 3 100.0 0 6 6 6 1 0 3 3 0
+p357
+aVTony Parker SAS 02/10/2009 SAS @ NJN W 35 20 7 14 50.0 0 0 - 6 6 100.0 1 3 4 4 1 0 1 3 24
+p358
+aVTim Duncan SAS 02/10/2009 SAS @ NJN W 34 27 11 17 64.7 0 0 - 5 6 83.3 2 7 9 8 0 4 1 1 14
+p359
+aVKurt Thomas SAS 02/10/2009 SAS @ NJN W 16 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 1 0 0 2 4
+p360
+aVTim Duncan SAS 02/08/2009 SAS @ BOS W 39 23 9 16 56.3 0 0 - 5 5 100.0 3 10 13 5 0 1 2 2 1
+p361
+aVMatt Bonner SAS 02/08/2009 SAS @ BOS W 36 23 10 17 58.8 3 6 50.0 0 0 - 2 6 8 2 2 0 2 3 2
+p362
+aVManu Ginobili SAS 02/08/2009 SAS @ BOS W 31 19 6 11 54.5 2 4 50.0 5 5 100.0 1 2 3 3 3 1 4 1 11
+p363
+aVTony Parker SAS 02/08/2009 SAS @ BOS W 32 7 3 12 25.0 1 3 33.3 0 0 - 0 3 3 7 1 0 1 1 9
+p364
+aVFabricio Oberto SAS 02/08/2009 SAS @ BOS W 1 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p365
+aVMichael Finley SAS 02/08/2009 SAS @ BOS W 27 7 1 4 25.0 0 1 0.0 5 6 83.3 0 0 0 2 0 0 1 1 -1
+p366
+aVGeorge Hill SAS 02/08/2009 SAS @ BOS W 16 7 3 3 100.0 0 0 - 1 2 50.0 0 3 3 1 0 1 1 2 -2
+p367
+aVMalik Hairston SAS 02/08/2009 SAS @ BOS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p368
+aVBruce Bowen SAS 02/08/2009 SAS @ BOS W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 -1
+p369
+aVRoger Mason Jr. SAS 02/08/2009 SAS @ BOS W 31 11 3 9 33.3 2 6 33.3 3 3 100.0 0 3 3 1 0 0 1 4 2
+p370
+aVKurt Thomas SAS 02/08/2009 SAS @ BOS W 19 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 0 3 7
+p371
+aVRoger Mason Jr. SAS 02/03/2009 SAS @ DEN L 35 26 8 21 38.1 5 10 50.0 5 5 100.0 0 5 5 6 1 0 8 4 -8
+p372
+aVJacque Vaughn SAS 02/03/2009 SAS @ DEN L 16 6 3 5 60.0 0 0 - 0 0 - 0 2 2 3 0 0 1 1 6
+p373
+aVMalik Hairston SAS 02/03/2009 SAS @ DEN L 20 12 6 8 75.0 0 0 - 0 3 0.0 4 1 5 0 1 1 2 5 -11
+p374
+aVGeorge Hill SAS 02/03/2009 SAS @ DEN L 36 9 4 14 28.6 0 4 0.0 1 1 100.0 0 0 0 3 0 1 3 2 -12
+p375
+aVFabricio Oberto SAS 02/03/2009 SAS @ DEN L 22 10 5 6 83.3 0 0 - 0 0 - 1 2 3 3 1 4 1 6 -5
+p376
+aVMatt Bonner SAS 02/03/2009 SAS @ DEN L 31 11 4 10 40.0 2 4 50.0 1 2 50.0 2 6 8 4 1 0 1 3 0
+p377
+aVIme Udoka SAS 02/03/2009 SAS @ DEN L 31 6 3 11 27.3 0 3 0.0 0 1 0.0 1 5 6 3 4 0 2 3 -7
+p378
+aVBruce Bowen SAS 02/03/2009 SAS @ DEN L 23 6 2 5 40.0 2 3 66.7 0 0 - 1 0 1 1 0 0 0 3 0
+p379
+aVKurt Thomas SAS 02/03/2009 SAS @ DEN L 27 10 4 8 50.0 0 1 0.0 2 2 100.0 2 5 7 3 3 0 0 2 -3
+p380
+aVKurt Thomas SAS 02/02/2009 SAS @ GSW W 27 7 3 8 37.5 0 0 - 1 1 100.0 7 8 15 1 0 0 0 5 21
+p381
+aVGeorge Hill SAS 02/02/2009 SAS @ GSW W 13 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -14
+p382
+aVTim Duncan SAS 02/02/2009 SAS @ GSW W 42 32 13 20 65.0 0 0 - 6 8 75.0 2 13 15 5 0 1 6 6 11
+p383
+aVTony Parker SAS 02/02/2009 SAS @ GSW W 43 23 8 18 44.4 0 0 - 7 12 58.3 0 5 5 7 1 0 6 3 14
+p384
+aVMichael Finley SAS 02/02/2009 SAS @ GSW W 36 5 2 6 33.3 1 3 33.3 0 0 - 1 4 5 1 0 0 0 0 14
+p385
+aVMalik Hairston SAS 02/02/2009 SAS @ GSW W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p386
+aVMatt Bonner SAS 02/02/2009 SAS @ GSW W 18 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 0 2 3 -13
+p387
+aVBruce Bowen SAS 02/02/2009 SAS @ GSW W 16 4 2 3 66.7 0 1 0.0 0 1 0.0 1 2 3 0 0 0 2 2 -11
+p388
+aVManu Ginobili SAS 02/02/2009 SAS @ GSW W 35 32 10 23 43.5 1 6 16.7 11 12 91.7 1 2 3 3 2 1 3 4 12
+p389
+aVRoger Mason Jr. SAS 02/02/2009 SAS @ GSW W 35 7 3 8 37.5 1 3 33.3 0 0 - 0 2 2 4 1 0 1 0 -7
+p390
+aVMatt Bonner SAS 01/31/2009 SAS vs. NOH W 27 13 5 6 83.3 3 3 100.0 0 0 - 0 3 3 2 0 0 1 2 12
+p391
+aVTim Duncan SAS 01/31/2009 SAS vs. NOH W 37 12 5 10 50.0 0 0 - 2 3 66.7 0 8 8 7 0 2 1 1 22
+p392
+aVIme Udoka SAS 01/31/2009 SAS vs. NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p393
+aVKurt Thomas SAS 01/31/2009 SAS vs. NOH W 17 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 2 5 2
+p394
+aVFabricio Oberto SAS 01/31/2009 SAS vs. NOH W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -10
+p395
+aVTony Parker SAS 01/31/2009 SAS vs. NOH W 35 25 12 18 66.7 0 0 - 1 1 100.0 0 3 3 7 1 0 1 2 22
+p396
+aVMalik Hairston SAS 01/31/2009 SAS vs. NOH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -2
+p397
+aVManu Ginobili SAS 01/31/2009 SAS vs. NOH W 26 22 7 15 46.7 2 6 33.3 6 6 100.0 1 2 3 5 2 0 2 0 14
+p398
+aVBruce Bowen SAS 01/31/2009 SAS vs. NOH W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 0
+p399
+aVRoger Mason Jr. SAS 01/31/2009 SAS vs. NOH W 35 10 3 12 25.0 0 3 0.0 4 5 80.0 1 2 3 2 4 0 1 0 0
+p400
+aVGeorge Hill SAS 01/31/2009 SAS vs. NOH W 9 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -11
+p401
+aVMichael Finley SAS 01/31/2009 SAS vs. NOH W 35 20 8 10 80.0 4 5 80.0 0 0 - 0 6 6 1 0 0 2 1 18
+p402
+aVMichael Finley SAS 01/29/2009 SAS @ PHX W 20 6 2 5 40.0 2 5 40.0 0 0 - 0 3 3 2 0 0 0 2 6
+p403
+aVRoger Mason Jr. SAS 01/29/2009 SAS @ PHX W 32 12 3 9 33.3 2 5 40.0 4 4 100.0 0 1 1 0 0 0 0 2 4
+p404
+aVGeorge Hill SAS 01/29/2009 SAS @ PHX W 14 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 4
+p405
+aVBruce Bowen SAS 01/29/2009 SAS @ PHX W 19 9 1 3 33.3 1 3 33.3 6 8 75.0 0 1 1 0 0 0 0 1 13
+p406
+aVManu Ginobili SAS 01/29/2009 SAS @ PHX W 32 30 6 13 46.2 0 4 0.0 18 18 100.0 0 9 9 3 2 0 0 3 9
+p407
+aVTim Duncan SAS 01/29/2009 SAS @ PHX W 41 20 6 16 37.5 0 0 - 8 12 66.7 6 9 15 4 1 1 3 2 8
+p408
+aVKurt Thomas SAS 01/29/2009 SAS @ PHX W 21 6 3 5 60.0 0 0 - 0 0 - 4 4 8 1 1 0 0 3 0
+p409
+aVTony Parker SAS 01/29/2009 SAS @ PHX W 34 26 12 21 57.1 0 1 0.0 2 2 100.0 0 3 3 5 2 0 2 3 6
+p410
+aVMatt Bonner SAS 01/29/2009 SAS @ PHX W 26 3 1 3 33.3 1 1 100.0 0 0 - 0 3 3 1 0 0 0 3 0
+p411
+aVMatt Bonner SAS 01/27/2009 SAS @ UTA W 32 20 7 10 70.0 6 7 85.7 0 0 - 1 4 5 0 2 0 0 4 14
+p412
+aVMichael Finley SAS 01/27/2009 SAS @ UTA W 24 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 12
+p413
+aVGeorge Hill SAS 01/27/2009 SAS @ UTA W 9 4 2 4 50.0 0 0 - 0 1 0.0 2 2 4 0 0 0 0 0 4
+p414
+aVIme Udoka SAS 01/27/2009 SAS @ UTA W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p415
+aVFabricio Oberto SAS 01/27/2009 SAS @ UTA W 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -7
+p416
+aVKurt Thomas SAS 01/27/2009 SAS @ UTA W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 3 -12
+p417
+aVTony Parker SAS 01/27/2009 SAS @ UTA W 39 24 9 18 50.0 2 4 50.0 4 6 66.7 0 1 1 6 0 0 2 2 2
+p418
+aVRoger Mason Jr. SAS 01/27/2009 SAS @ UTA W 36 13 4 7 57.1 3 4 75.0 2 2 100.0 0 3 3 3 1 0 1 1 4
+p419
+aVTim Duncan SAS 01/27/2009 SAS @ UTA W 37 24 10 16 62.5 0 0 - 4 10 40.0 3 6 9 8 2 3 3 4 16
+p420
+aVBruce Bowen SAS 01/27/2009 SAS @ UTA W 9 4 2 3 66.7 0 0 - 0 1 0.0 0 1 1 1 0 0 0 0 0
+p421
+aVManu Ginobili SAS 01/27/2009 SAS @ UTA W 29 13 1 5 20.0 0 3 0.0 11 12 91.7 0 9 9 5 4 1 6 5 -2
+p422
+aVKurt Thomas SAS 01/25/2009 SAS @ LAL L 18 2 1 3 33.3 0 0 - 0 0 - 0 3 3 3 0 1 0 2 0
+p423
+aVAustin Croshere SAS 01/25/2009 SAS @ LAL L 5 2 1 2 50.0 0 1 0.0 0 1 0.0 0 1 1 2 0 0 1 1 0
+p424
+aVMatt Bonner SAS 01/25/2009 SAS @ LAL L 21 6 3 8 37.5 0 4 0.0 0 0 - 0 2 2 2 1 1 0 3 -19
+p425
+aVBruce Bowen SAS 01/25/2009 SAS @ LAL L 26 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 3 0 0 3 6
+p426
+aVRoger Mason Jr. SAS 01/25/2009 SAS @ LAL L 19 5 1 7 14.3 1 5 20.0 2 2 100.0 0 2 2 1 0 0 3 4 -12
+p427
+aVGeorge Hill SAS 01/25/2009 SAS @ LAL L 16 4 0 4 0.0 0 0 - 4 4 100.0 1 1 2 2 1 0 0 2 -4
+p428
+aVMichael Finley SAS 01/25/2009 SAS @ LAL L 24 8 3 8 37.5 2 2 100.0 0 0 - 0 2 2 2 0 0 0 2 -10
+p429
+aVManu Ginobili SAS 01/25/2009 SAS @ LAL L 25 9 4 11 36.4 1 6 16.7 0 0 - 2 6 8 1 2 0 4 3 -17
+p430
+aVTony Parker SAS 01/25/2009 SAS @ LAL L 29 19 8 17 47.1 0 1 0.0 3 4 75.0 1 2 3 6 1 0 4 0 -5
+p431
+aVTim Duncan SAS 01/25/2009 SAS @ LAL L 27 15 6 12 50.0 0 0 - 3 3 100.0 2 6 8 1 0 0 0 4 -14
+p432
+aVFabricio Oberto SAS 01/25/2009 SAS @ LAL L 19 8 4 5 80.0 0 0 - 0 0 - 3 2 5 0 2 0 0 2 4
+p433
+aVIme Udoka SAS 01/25/2009 SAS @ LAL L 10 5 1 8 12.5 1 4 25.0 2 2 100.0 1 3 4 0 4 0 1 0 1
+p434
+aVMichael Finley SAS 01/23/2009 SAS vs. NJN W 28 11 4 7 57.1 1 1 100.0 2 2 100.0 0 3 3 3 0 0 1 0 10
+p435
+aVTony Parker SAS 01/23/2009 SAS vs. NJN W 35 17 6 16 37.5 0 1 0.0 5 6 83.3 0 2 2 4 1 0 4 3 13
+p436
+aVRoger Mason Jr. SAS 01/23/2009 SAS vs. NJN W 28 14 4 9 44.4 2 6 33.3 4 4 100.0 0 2 2 3 0 0 0 1 6
+p437
+aVTim Duncan SAS 01/23/2009 SAS vs. NJN W 34 30 13 21 61.9 0 0 - 4 4 100.0 4 11 15 5 0 4 4 2 3
+p438
+aVMatt Bonner SAS 01/23/2009 SAS vs. NJN W 27 3 1 5 20.0 1 4 25.0 0 0 - 3 5 8 0 1 1 0 1 11
+p439
+aVManu Ginobili SAS 01/23/2009 SAS vs. NJN W 23 8 3 8 37.5 1 4 25.0 1 1 100.0 0 3 3 4 0 2 3 0 -5
+p440
+aVKurt Thomas SAS 01/23/2009 SAS vs. NJN W 21 6 2 4 50.0 0 0 - 2 2 100.0 2 4 6 1 0 0 0 4 -9
+p441
+aVGeorge Hill SAS 01/23/2009 SAS vs. NJN W 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -10
+p442
+aVBruce Bowen SAS 01/23/2009 SAS vs. NJN W 24 3 1 2 50.0 1 2 50.0 0 0 - 0 4 4 0 0 0 0 2 -4
+p443
+aVFabricio Oberto SAS 01/23/2009 SAS vs. NJN W 6 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 1 1 0
+p444
+aVBruce Bowen SAS 01/20/2009 SAS vs. IND W 26 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 0 3 5
+p445
+aVMatt Bonner SAS 01/20/2009 SAS vs. IND W 18 2 1 4 25.0 0 2 0.0 0 0 - 4 3 7 0 1 1 0 3 9
+p446
+aVTim Duncan SAS 01/20/2009 SAS vs. IND W 27 27 10 15 66.7 0 0 - 7 8 87.5 3 7 10 0 2 1 3 0 21
+p447
+aVRoger Mason Jr. SAS 01/20/2009 SAS vs. IND W 23 6 3 9 33.3 0 1 0.0 0 0 - 0 6 6 1 0 1 1 3 6
+p448
+aVTony Parker SAS 01/20/2009 SAS vs. IND W 26 13 6 15 40.0 0 0 - 1 2 50.0 0 0 0 7 2 0 1 0 9
+p449
+aVFabricio Oberto SAS 01/20/2009 SAS vs. IND W 14 0 0 4 0.0 0 0 - 0 0 - 5 0 5 1 0 0 1 3 -5
+p450
+aVKurt Thomas SAS 01/20/2009 SAS vs. IND W 17 4 1 6 16.7 0 0 - 2 2 100.0 2 1 3 3 1 0 0 1 11
+p451
+aVGeorge Hill SAS 01/20/2009 SAS vs. IND W 22 7 2 5 40.0 0 1 0.0 3 4 75.0 0 1 1 3 0 2 3 3 9
+p452
+aVAustin Croshere SAS 01/20/2009 SAS vs. IND W 11 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 1 0 -10
+p453
+aVMichael Finley SAS 01/20/2009 SAS vs. IND W 19 3 1 3 33.3 1 3 33.3 0 0 - 0 4 4 0 1 0 0 1 15
+p454
+aVIme Udoka SAS 01/20/2009 SAS vs. IND W 18 7 3 8 37.5 1 3 33.3 0 2 0.0 0 5 5 2 0 0 1 0 -6
+p455
+aVManu Ginobili SAS 01/20/2009 SAS vs. IND W 21 26 8 10 80.0 4 4 100.0 6 7 85.7 0 8 8 3 2 1 2 0 26
+p456
+aVTim Duncan SAS 01/19/2009 SAS @ CHA W 36 17 6 13 46.2 0 0 - 5 11 45.5 4 7 11 6 1 2 1 3 -5
+p457
+aVIme Udoka SAS 01/19/2009 SAS @ CHA W 11 4 1 1 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 1 1
+p458
+aVRoger Mason Jr. SAS 01/19/2009 SAS @ CHA W 29 12 4 9 44.4 2 6 33.3 2 4 50.0 1 3 4 0 0 0 0 5 7
+p459
+aVManu Ginobili SAS 01/19/2009 SAS @ CHA W 28 10 4 11 36.4 2 5 40.0 0 0 - 1 1 2 1 0 0 0 4 -5
+p460
+aVKurt Thomas SAS 01/19/2009 SAS @ CHA W 24 5 2 5 40.0 0 0 - 1 2 50.0 0 4 4 1 0 2 1 3 18
+p461
+aVFabricio Oberto SAS 01/19/2009 SAS @ CHA W 2 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 1 1
+p462
+aVTony Parker SAS 01/19/2009 SAS @ CHA W 34 13 3 11 27.3 0 1 0.0 7 8 87.5 0 2 2 10 2 0 1 2 -9
+p463
+aVBruce Bowen SAS 01/19/2009 SAS @ CHA W 17 5 2 2 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 1 1 -5
+p464
+aVMichael Finley SAS 01/19/2009 SAS @ CHA W 25 3 1 9 11.1 0 7 0.0 1 1 100.0 1 4 5 2 0 0 0 1 2
+p465
+aVGeorge Hill SAS 01/19/2009 SAS @ CHA W 18 10 3 5 60.0 0 0 - 4 5 80.0 0 2 2 0 0 0 1 1 15
+p466
+aVMatt Bonner SAS 01/19/2009 SAS @ CHA W 16 5 2 3 66.7 1 2 50.0 0 0 - 2 4 6 0 0 0 1 0 -10
+p467
+aVMatt Bonner SAS 01/17/2009 SAS @ CHI W 29 12 5 12 41.7 2 5 40.0 0 1 0.0 7 4 11 1 1 1 0 1 12
+p468
+aVBruce Bowen SAS 01/17/2009 SAS @ CHI W 19 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 5 2
+p469
+aVTim Duncan SAS 01/17/2009 SAS @ CHI W 37 18 7 16 43.8 0 0 - 4 5 80.0 1 13 14 4 0 4 0 0 9
+p470
+aVMichael Finley SAS 01/17/2009 SAS @ CHI W 34 11 4 9 44.4 3 7 42.9 0 0 - 0 4 4 0 1 1 1 2 0
+p471
+aVGeorge Hill SAS 01/17/2009 SAS @ CHI W 10 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p472
+aVTony Parker SAS 01/17/2009 SAS @ CHI W 38 20 10 20 50.0 0 0 - 0 0 - 1 2 3 8 1 0 4 2 4
+p473
+aVManu Ginobili SAS 01/17/2009 SAS @ CHI W 31 21 5 11 45.5 2 6 33.3 9 11 81.8 1 5 6 4 2 0 1 3 5
+p474
+aVKurt Thomas SAS 01/17/2009 SAS @ CHI W 12 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 1 1 -2
+p475
+aVFabricio Oberto SAS 01/17/2009 SAS @ CHI W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p476
+aVRoger Mason Jr. SAS 01/17/2009 SAS @ CHI W 26 4 1 8 12.5 0 3 0.0 2 2 100.0 0 1 1 1 0 1 0 1 -3
+p477
+aVFabricio Oberto SAS 01/16/2009 SAS @ PHI L 12 2 0 2 0.0 0 0 - 2 2 100.0 2 3 5 2 0 0 2 2 -5
+p478
+aVRoger Mason Jr. SAS 01/16/2009 SAS @ PHI L 24 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 1 0 1 0 0 -16
+p479
+aVMichael Finley SAS 01/16/2009 SAS @ PHI L 22 2 1 9 11.1 0 4 0.0 0 0 - 0 2 2 1 0 0 0 0 -26
+p480
+aVBruce Bowen SAS 01/16/2009 SAS @ PHI L 23 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 2 -13
+p481
+aVTony Parker SAS 01/16/2009 SAS @ PHI L 28 12 5 10 50.0 0 0 - 2 2 100.0 0 0 0 6 0 0 1 2 -16
+p482
+aVAustin Croshere SAS 01/16/2009 SAS @ PHI L 7 2 1 4 25.0 0 2 0.0 0 0 - 3 3 6 0 0 0 0 0 1
+p483
+aVKurt Thomas SAS 01/16/2009 SAS @ PHI L 16 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -13
+p484
+aVGeorge Hill SAS 01/16/2009 SAS @ PHI L 20 4 1 9 11.1 0 1 0.0 2 2 100.0 1 2 3 3 2 0 1 3 -6
+p485
+aVManu Ginobili SAS 01/16/2009 SAS @ PHI L 24 8 3 11 27.3 0 3 0.0 2 2 100.0 2 4 6 2 1 0 1 1 -3
+p486
+aVIme Udoka SAS 01/16/2009 SAS @ PHI L 14 7 3 7 42.9 1 3 33.3 0 0 - 0 0 0 1 1 0 2 1 -3
+p487
+aVTim Duncan SAS 01/16/2009 SAS @ PHI L 29 20 5 10 50.0 0 0 - 10 12 83.3 4 8 12 1 0 2 2 2 -10
+p488
+aVMatt Bonner SAS 01/16/2009 SAS @ PHI L 20 13 5 8 62.5 3 3 100.0 0 0 - 1 2 3 1 0 0 3 3 0
+p489
+aVRoger Mason Jr. SAS 01/14/2009 SAS vs. LAL W 36 18 7 11 63.6 3 4 75.0 1 1 100.0 0 1 1 0 0 0 1 2 -6
+p490
+aVTim Duncan SAS 01/14/2009 SAS vs. LAL W 38 20 9 19 47.4 0 0 - 2 4 50.0 3 7 10 8 1 2 2 1 -8
+p491
+aVMatt Bonner SAS 01/14/2009 SAS vs. LAL W 34 10 4 7 57.1 2 5 40.0 0 0 - 1 4 5 4 0 0 0 5 6
+p492
+aVGeorge Hill SAS 01/14/2009 SAS vs. LAL W 14 10 3 4 75.0 1 1 100.0 3 5 60.0 1 3 4 1 1 0 2 0 7
+p493
+aVKurt Thomas SAS 01/14/2009 SAS vs. LAL W 24 4 2 2 100.0 0 0 - 0 0 - 1 2 3 3 2 0 0 3 4
+p494
+aVTony Parker SAS 01/14/2009 SAS vs. LAL W 34 20 9 14 64.3 0 0 - 2 4 50.0 0 2 2 3 2 1 4 2 -6
+p495
+aVBruce Bowen SAS 01/14/2009 SAS vs. LAL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 1
+p496
+aVManu Ginobili SAS 01/14/2009 SAS vs. LAL W 30 27 9 15 60.0 4 8 50.0 5 6 83.3 1 2 3 2 3 0 2 2 4
+p497
+aVMichael Finley SAS 01/14/2009 SAS vs. LAL W 23 3 1 4 25.0 0 1 0.0 1 1 100.0 0 3 3 1 0 0 0 0 3
+p498
+aVManu Ginobili SAS 01/11/2009 SAS vs. ORL L 32 18 5 13 38.5 1 5 20.0 7 7 100.0 2 1 3 4 1 0 4 4 -19
+p499
+aVTony Parker SAS 01/11/2009 SAS vs. ORL L 37 31 13 22 59.1 1 2 50.0 4 4 100.0 1 2 3 6 0 0 2 2 -2
+p500
+aVBruce Bowen SAS 01/11/2009 SAS vs. ORL L 21 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 -9
+p501
+aVMichael Finley SAS 01/11/2009 SAS vs. ORL L 31 10 4 9 44.4 0 3 0.0 2 2 100.0 0 3 3 3 1 0 1 1 3
+p502
+aVRoger Mason Jr. SAS 01/11/2009 SAS vs. ORL L 33 5 2 4 50.0 1 1 100.0 0 0 - 0 4 4 3 1 0 0 1 -1
+p503
+aVMatt Bonner SAS 01/11/2009 SAS vs. ORL L 27 4 2 4 50.0 0 1 0.0 0 0 - 1 6 7 1 2 0 1 3 3
+p504
+aVTim Duncan SAS 01/11/2009 SAS vs. ORL L 37 18 7 14 50.0 0 0 - 4 4 100.0 1 9 10 5 0 3 2 4 -13
+p505
+aVKurt Thomas SAS 01/11/2009 SAS vs. ORL L 11 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 1 0 0 1 6
+p506
+aVGeorge Hill SAS 01/11/2009 SAS vs. ORL L 12 4 2 5 40.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 2 -3
+p507
+aVRoger Mason Jr. SAS 01/08/2009 SAS vs. LAC W 31 18 7 15 46.7 4 10 40.0 0 0 - 1 4 5 3 0 0 0 2 28
+p508
+aVBruce Bowen SAS 01/08/2009 SAS vs. LAC W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 1 1 3
+p509
+aVIme Udoka SAS 01/08/2009 SAS vs. LAC W 16 5 2 7 28.6 1 4 25.0 0 0 - 0 3 3 1 1 1 0 3 19
+p510
+aVTim Duncan SAS 01/08/2009 SAS vs. LAC W 31 8 4 11 36.4 0 0 - 0 0 - 1 3 4 9 0 2 3 0 11
+p511
+aVManu Ginobili SAS 01/08/2009 SAS vs. LAC W 26 13 4 9 44.4 1 5 20.0 4 4 100.0 0 4 4 5 4 1 2 1 0
+p512
+aVGeorge Hill SAS 01/08/2009 SAS vs. LAC W 18 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 1 17
+p513
+aVKurt Thomas SAS 01/08/2009 SAS vs. LAC W 17 9 4 4 100.0 0 0 - 1 2 50.0 3 6 9 1 0 2 0 2 11
+p514
+aVMichael Finley SAS 01/08/2009 SAS vs. LAC W 25 15 6 11 54.5 3 5 60.0 0 0 - 0 4 4 0 0 0 0 1 2
+p515
+aVFabricio Oberto SAS 01/08/2009 SAS vs. LAC W 5 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 2
+p516
+aVTony Parker SAS 01/08/2009 SAS vs. LAC W 30 19 8 15 53.3 1 1 100.0 2 2 100.0 0 3 3 4 0 0 1 0 5
+p517
+aVJacque Vaughn SAS 01/08/2009 SAS vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 0 0 1 1 2
+p518
+aVMatt Bonner SAS 01/08/2009 SAS vs. LAC W 22 11 5 6 83.3 1 2 50.0 0 0 - 1 2 3 0 1 2 0 1 10
+p519
+aVBruce Bowen SAS 01/05/2009 SAS @ MIA W 23 3 1 2 50.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 3 -6
+p520
+aVKurt Thomas SAS 01/05/2009 SAS @ MIA W 17 2 1 3 33.3 0 0 - 0 0 - 2 2 4 1 0 0 1 1 -3
+p521
+aVRoger Mason Jr. SAS 01/05/2009 SAS @ MIA W 28 11 5 12 41.7 1 4 25.0 0 0 - 0 4 4 0 0 0 1 3 12
+p522
+aVMatt Bonner SAS 01/05/2009 SAS @ MIA W 31 11 4 7 57.1 3 4 75.0 0 0 - 0 5 5 2 1 0 1 1 16
+p523
+aVGeorge Hill SAS 01/05/2009 SAS @ MIA W 17 15 4 4 100.0 3 3 100.0 4 5 80.0 0 7 7 1 0 0 1 1 -2
+p524
+aVIme Udoka SAS 01/05/2009 SAS @ MIA W 8 5 2 3 66.7 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p525
+aVManu Ginobili SAS 01/05/2009 SAS @ MIA W 27 10 5 14 35.7 0 5 0.0 0 0 - 0 5 5 3 3 1 1 0 1
+p526
+aVTony Parker SAS 01/05/2009 SAS @ MIA W 31 8 4 9 44.4 0 0 - 0 0 - 0 1 1 7 2 0 2 0 9
+p527
+aVAnthony Tolliver SAS 01/05/2009 SAS @ MIA W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p528
+aVTim Duncan SAS 01/05/2009 SAS @ MIA W 36 19 7 15 46.7 0 0 - 5 8 62.5 4 5 9 4 0 2 3 1 11
+p529
+aVFabricio Oberto SAS 01/05/2009 SAS @ MIA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p530
+aVMichael Finley SAS 01/05/2009 SAS @ MIA W 19 7 2 6 33.3 1 3 33.3 2 2 100.0 1 2 3 1 1 0 1 0 9
+p531
+aVBruce Bowen SAS 01/03/2009 SAS vs. PHI W 18 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 0 2 0 1 1 -10
+p532
+aVAnthony Tolliver SAS 01/03/2009 SAS vs. PHI W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 3
+p533
+aVGeorge Hill SAS 01/03/2009 SAS vs. PHI W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -2
+p534
+aVMichael Finley SAS 01/03/2009 SAS vs. PHI W 35 14 5 9 55.6 4 6 66.7 0 0 - 0 2 2 1 0 1 1 1 -4
+p535
+aVTony Parker SAS 01/03/2009 SAS vs. PHI W 38 15 7 17 41.2 1 2 50.0 0 0 - 1 2 3 10 0 0 4 0 5
+p536
+aVMatt Bonner SAS 01/03/2009 SAS vs. PHI W 28 9 3 8 37.5 3 5 60.0 0 0 - 2 4 6 3 1 0 0 3 0
+p537
+aVKurt Thomas SAS 01/03/2009 SAS vs. PHI W 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 1 0 1 0
+p538
+aVTim Duncan SAS 01/03/2009 SAS vs. PHI W 34 26 11 15 73.3 0 0 - 4 8 50.0 5 7 12 3 0 1 2 3 3
+p539
+aVManu Ginobili SAS 01/03/2009 SAS vs. PHI W 29 21 8 13 61.5 2 5 40.0 3 4 75.0 1 2 3 2 3 1 1 3 -11
+p540
+aVRoger Mason Jr. SAS 01/03/2009 SAS vs. PHI W 32 19 6 10 60.0 5 5 100.0 2 2 100.0 0 2 2 3 0 0 1 3 26
+p541
+aVFabricio Oberto SAS 01/02/2009 SAS @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -5
+p542
+aVManu Ginobili SAS 01/02/2009 SAS @ MEM W 24 13 4 9 44.4 0 4 0.0 5 6 83.3 0 6 6 6 5 0 3 1 17
+p543
+aVMatt Bonner SAS 01/02/2009 SAS @ MEM W 30 16 7 9 77.8 2 2 100.0 0 0 - 1 1 2 1 1 1 0 5 15
+p544
+aVRoger Mason Jr. SAS 01/02/2009 SAS @ MEM W 29 3 1 11 9.1 0 6 0.0 1 1 100.0 0 2 2 2 0 0 0 0 3
+p545
+aVMichael Finley SAS 01/02/2009 SAS @ MEM W 27 5 2 7 28.6 1 4 25.0 0 0 - 0 5 5 0 1 0 2 1 9
+p546
+aVAnthony Tolliver SAS 01/02/2009 SAS @ MEM W 15 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 2 0 0 1 3 -1
+p547
+aVGeorge Hill SAS 01/02/2009 SAS @ MEM W 15 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 4 1 1 2 1
+p548
+aVBruce Bowen SAS 01/02/2009 SAS @ MEM W 17 6 2 2 100.0 2 2 100.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p549
+aVTony Parker SAS 01/02/2009 SAS @ MEM W 33 19 7 15 46.7 0 1 0.0 5 6 83.3 1 3 4 5 1 0 2 2 10
+p550
+aVIme Udoka SAS 01/02/2009 SAS @ MEM W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p551
+aVKurt Thomas SAS 01/02/2009 SAS @ MEM W 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 1 0 2 7
+p552
+aVTim Duncan SAS 01/02/2009 SAS @ MEM W 32 20 8 11 72.7 0 0 - 4 6 66.7 1 9 10 5 0 3 3 2 9
+p553
+aVManu Ginobili SAS 12/30/2008 SAS vs. MIL L 26 13 5 9 55.6 1 2 50.0 2 2 100.0 0 2 2 5 1 0 1 4 12
+p554
+aVMatt Bonner SAS 12/30/2008 SAS vs. MIL L 18 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 2 0 1 1 2 -6
+p555
+aVTim Duncan SAS 12/30/2008 SAS vs. MIL L 36 22 7 20 35.0 0 0 - 8 12 66.7 0 6 6 3 1 2 3 3 0
+p556
+aVBruce Bowen SAS 12/30/2008 SAS vs. MIL L 15 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p557
+aVGeorge Hill SAS 12/30/2008 SAS vs. MIL L 11 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 0 3 1 9
+p558
+aVMichael Finley SAS 12/30/2008 SAS vs. MIL L 34 20 8 10 80.0 4 5 80.0 0 0 - 0 5 5 1 0 1 0 1 -14
+p559
+aVIme Udoka SAS 12/30/2008 SAS vs. MIL L 10 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 1 0 0 3
+p560
+aVAnthony Tolliver SAS 12/30/2008 SAS vs. MIL L 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 5
+p561
+aVRoger Mason Jr. SAS 12/30/2008 SAS vs. MIL L 34 15 6 10 60.0 3 4 75.0 0 1 0.0 0 3 3 1 0 0 1 4 1
+p562
+aVTony Parker SAS 12/30/2008 SAS vs. MIL L 38 19 6 12 50.0 1 1 100.0 6 8 75.0 1 0 1 10 2 0 2 1 -11
+p563
+aVKurt Thomas SAS 12/30/2008 SAS vs. MIL L 12 2 1 3 33.3 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -2
+p564
+aVKurt Thomas SAS 12/27/2008 SAS vs. MEM W 12 3 1 2 50.0 0 0 - 1 2 50.0 1 3 4 0 1 3 0 0 1
+p565
+aVGeorge Hill SAS 12/27/2008 SAS vs. MEM W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -14
+p566
+aVAnthony Tolliver SAS 12/27/2008 SAS vs. MEM W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 1 0 0 0 1 -6
+p567
+aVBruce Bowen SAS 12/27/2008 SAS vs. MEM W 39 6 2 3 66.7 2 2 100.0 0 0 - 0 6 6 0 1 1 0 6 11
+p568
+aVIme Udoka SAS 12/27/2008 SAS vs. MEM W 8 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 1 0 1 1 11
+p569
+aVMatt Bonner SAS 12/27/2008 SAS vs. MEM W 9 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 1 -4
+p570
+aVManu Ginobili SAS 12/27/2008 SAS vs. MEM W 41 20 7 16 43.8 3 7 42.9 3 3 100.0 0 4 4 4 2 1 1 1 10
+p571
+aVTony Parker SAS 12/27/2008 SAS vs. MEM W 48 32 13 26 50.0 0 1 0.0 6 7 85.7 1 3 4 5 1 1 3 3 5
+p572
+aVMichael Finley SAS 12/27/2008 SAS vs. MEM W 40 10 4 9 44.4 2 4 50.0 0 0 - 1 5 6 5 1 1 0 0 -4
+p573
+aVTim Duncan SAS 12/27/2008 SAS vs. MEM W 46 29 11 19 57.9 0 0 - 7 9 77.8 2 3 5 3 1 1 2 6 2
+p574
+aVRoger Mason Jr. SAS 12/27/2008 SAS vs. MEM W 31 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 0 0 1 0 3 3
+p575
+aVKurt Thomas SAS 12/25/2008 SAS @ PHX W 27 2 1 3 33.3 0 0 - 0 0 - 4 2 6 2 0 0 1 2 7
+p576
+aVGeorge Hill SAS 12/25/2008 SAS @ PHX W 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 2
+p577
+aVTony Parker SAS 12/25/2008 SAS @ PHX W 35 27 10 23 43.5 1 2 50.0 6 7 85.7 0 3 3 8 4 1 1 2 -1
+p578
+aVManu Ginobili SAS 12/25/2008 SAS @ PHX W 27 11 4 14 28.6 1 6 16.7 2 3 66.7 0 4 4 4 2 1 1 3 3
+p579
+aVMatt Bonner SAS 12/25/2008 SAS @ PHX W 25 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 1 0 0 1 4 -11
+p580
+aVBruce Bowen SAS 12/25/2008 SAS @ PHX W 11 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 7
+p581
+aVMichael Finley SAS 12/25/2008 SAS @ PHX W 36 12 5 10 50.0 2 3 66.7 0 0 - 0 4 4 0 0 0 1 2 -6
+p582
+aVTim Duncan SAS 12/25/2008 SAS @ PHX W 41 25 12 25 48.0 0 0 - 1 4 25.0 3 14 17 3 2 0 1 5 2
+p583
+aVRoger Mason Jr. SAS 12/25/2008 SAS @ PHX W 27 7 3 7 42.9 1 2 50.0 0 0 - 0 4 4 0 0 0 0 1 2
+p584
+aVGeorge Hill SAS 12/23/2008 SAS vs. MIN W 12 2 1 4 25.0 0 0 - 0 2 0.0 0 2 2 3 1 1 1 3 -4
+p585
+aVIme Udoka SAS 12/23/2008 SAS vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -7
+p586
+aVMichael Finley SAS 12/23/2008 SAS vs. MIN W 30 13 4 9 44.4 1 2 50.0 4 5 80.0 0 6 6 0 0 0 0 0 13
+p587
+aVMatt Bonner SAS 12/23/2008 SAS vs. MIN W 25 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 0 0 1 0 2 4
+p588
+aVBruce Bowen SAS 12/23/2008 SAS vs. MIN W 21 3 1 4 25.0 1 2 50.0 0 0 - 1 2 3 0 1 0 0 1 3
+p589
+aVAnthony Tolliver SAS 12/23/2008 SAS vs. MIN W 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 1
+p590
+aVRoger Mason Jr. SAS 12/23/2008 SAS vs. MIN W 32 12 5 10 50.0 2 5 40.0 0 0 - 0 2 2 1 0 0 0 2 -1
+p591
+aVTony Parker SAS 12/23/2008 SAS vs. MIN W 36 36 13 17 76.5 0 0 - 10 12 83.3 3 1 4 8 0 0 3 2 10
+p592
+aVManu Ginobili SAS 12/23/2008 SAS vs. MIN W 20 8 2 7 28.6 1 3 33.3 3 4 75.0 0 1 1 2 1 0 3 2 5
+p593
+aVTim Duncan SAS 12/23/2008 SAS vs. MIN W 34 19 9 20 45.0 0 0 - 1 1 100.0 0 12 12 5 2 4 1 3 20
+p594
+aVKurt Thomas SAS 12/23/2008 SAS vs. MIN W 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 -14
+p595
+aVJacque Vaughn SAS 12/22/2008 SAS vs. SAC W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p596
+aVGeorge Hill SAS 12/22/2008 SAS vs. SAC W 20 10 3 6 50.0 0 0 - 4 4 100.0 0 3 3 2 0 0 2 1 6
+p597
+aVKurt Thomas SAS 12/22/2008 SAS vs. SAC W 22 4 2 4 50.0 0 0 - 0 0 - 1 6 7 1 0 1 1 3 -2
+p598
+aVMatt Bonner SAS 12/22/2008 SAS vs. SAC W 30 9 3 7 42.9 1 4 25.0 2 2 100.0 2 4 6 3 1 0 0 3 9
+p599
+aVManu Ginobili SAS 12/22/2008 SAS vs. SAC W 24 10 4 9 44.4 0 1 0.0 2 3 66.7 1 4 5 3 1 0 1 3 19
+p600
+aVIme Udoka SAS 12/22/2008 SAS vs. SAC W 9 8 2 2 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 0 -2
+p601
+aVBruce Bowen SAS 12/22/2008 SAS vs. SAC W 21 5 2 4 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 0 4
+p602
+aVTim Duncan SAS 12/22/2008 SAS vs. SAC W 26 10 3 5 60.0 0 0 - 4 6 66.7 0 3 3 3 2 0 2 1 18
+p603
+aVAnthony Tolliver SAS 12/22/2008 SAS vs. SAC W 18 7 2 5 40.0 2 4 50.0 1 2 50.0 3 3 6 1 0 1 0 1 7
+p604
+aVTony Parker SAS 12/22/2008 SAS vs. SAC W 28 18 8 17 47.1 0 0 - 2 2 100.0 0 3 3 6 1 0 6 3 10
+p605
+aVMichael Finley SAS 12/22/2008 SAS vs. SAC W 19 9 4 5 80.0 1 2 50.0 0 0 - 0 5 5 1 0 0 0 0 6
+p606
+aVRoger Mason Jr. SAS 12/22/2008 SAS vs. SAC W 18 11 4 6 66.7 2 2 100.0 1 1 100.0 0 0 0 0 1 0 2 2 3
+p607
+aVMatt Bonner SAS 12/20/2008 SAS vs. TOR W 29 14 5 8 62.5 4 7 57.1 0 0 - 3 0 3 3 0 1 0 3 11
+p608
+aVTony Parker SAS 12/20/2008 SAS vs. TOR W 39 24 11 19 57.9 0 1 0.0 2 2 100.0 0 8 8 10 0 0 1 1 7
+p609
+aVManu Ginobili SAS 12/20/2008 SAS vs. TOR W 25 13 4 8 50.0 3 5 60.0 2 2 100.0 0 7 7 3 0 0 4 3 4
+p610
+aVKurt Thomas SAS 12/20/2008 SAS vs. TOR W 25 4 2 6 33.3 0 0 - 0 0 - 4 8 12 1 0 3 0 1 11
+p611
+aVIme Udoka SAS 12/20/2008 SAS vs. TOR W 4 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 0 1 0 0 0 2
+p612
+aVGeorge Hill SAS 12/20/2008 SAS vs. TOR W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 3
+p613
+aVMichael Finley SAS 12/20/2008 SAS vs. TOR W 33 14 5 10 50.0 4 8 50.0 0 0 - 0 3 3 2 0 0 0 1 9
+p614
+aVRoger Mason Jr. SAS 12/20/2008 SAS vs. TOR W 30 16 6 11 54.5 4 6 66.7 0 0 - 0 5 5 3 0 0 0 1 12
+p615
+aVAnthony Tolliver SAS 12/20/2008 SAS vs. TOR W 8 0 0 5 0.0 0 3 0.0 0 2 0.0 2 0 2 1 0 0 0 0 -2
+p616
+aVTim Duncan SAS 12/20/2008 SAS vs. TOR W 34 19 8 14 57.1 0 0 - 3 7 42.9 2 5 7 3 0 4 4 3 0
+p617
+aVBruce Bowen SAS 12/20/2008 SAS vs. TOR W 4 3 1 2 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 1 -7
+p618
+aVGeorge Hill SAS 12/18/2008 SAS @ ORL L 20 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 1 1 0 1 0 -6
+p619
+aVKurt Thomas SAS 12/18/2008 SAS @ ORL L 11 6 3 5 60.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 8
+p620
+aVTim Duncan SAS 12/18/2008 SAS @ ORL L 37 19 7 17 41.2 0 0 - 5 6 83.3 2 7 9 3 0 0 1 3 -20
+p621
+aVJacque Vaughn SAS 12/18/2008 SAS @ ORL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 5
+p622
+aVMichael Finley SAS 12/18/2008 SAS @ ORL L 15 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 0 2 1 1 0 -13
+p623
+aVMatt Bonner SAS 12/18/2008 SAS @ ORL L 22 8 3 5 60.0 2 3 66.7 0 0 - 0 2 2 2 1 1 2 2 7
+p624
+aVIme Udoka SAS 12/18/2008 SAS @ ORL L 19 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 0 0 0 0 1 -2
+p625
+aVRoger Mason Jr. SAS 12/18/2008 SAS @ ORL L 27 10 4 7 57.1 2 4 50.0 0 0 - 1 6 7 0 2 0 2 1 -3
+p626
+aVManu Ginobili SAS 12/18/2008 SAS @ ORL L 29 10 4 12 33.3 1 3 33.3 1 2 50.0 3 5 8 3 0 0 3 2 -6
+p627
+aVTony Parker SAS 12/18/2008 SAS @ ORL L 36 9 3 17 17.6 0 1 0.0 3 3 100.0 0 1 1 4 0 0 4 1 -16
+p628
+aVBruce Bowen SAS 12/18/2008 SAS @ ORL L 21 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 1 -14
+p629
+aVGeorge Hill SAS 12/17/2008 SAS @ NOH L 14 6 1 5 20.0 1 2 50.0 3 4 75.0 0 1 1 2 0 1 0 2 5
+p630
+aVFabricio Oberto SAS 12/17/2008 SAS @ NOH L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p631
+aVMichael Finley SAS 12/17/2008 SAS @ NOH L 27 5 2 9 22.2 1 5 20.0 0 0 - 0 1 1 0 2 0 0 0 -9
+p632
+aVRoger Mason Jr. SAS 12/17/2008 SAS @ NOH L 25 5 2 7 28.6 1 4 25.0 0 1 0.0 1 0 1 1 0 0 3 1 -11
+p633
+aVTony Parker SAS 12/17/2008 SAS @ NOH L 34 20 8 13 61.5 1 1 100.0 3 3 100.0 1 4 5 4 1 0 2 4 -12
+p634
+aVKurt Thomas SAS 12/17/2008 SAS @ NOH L 24 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 1 0 2 11
+p635
+aVManu Ginobili SAS 12/17/2008 SAS @ NOH L 31 17 7 12 58.3 3 4 75.0 0 0 - 1 8 9 5 1 1 5 3 1
+p636
+aVMatt Bonner SAS 12/17/2008 SAS @ NOH L 34 7 3 15 20.0 1 8 12.5 0 0 - 4 3 7 2 1 0 1 3 -16
+p637
+aVTim Duncan SAS 12/17/2008 SAS @ NOH L 38 16 5 14 35.7 0 0 - 6 7 85.7 3 8 11 1 0 1 1 3 -10
+p638
+aVBruce Bowen SAS 12/17/2008 SAS @ NOH L 14 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 1 2 0 0 1 6
+p639
+aVTony Parker SAS 12/14/2008 SAS vs. OKC W 37 22 9 18 50.0 0 1 0.0 4 4 100.0 0 1 1 7 1 0 2 0 1
+p640
+aVRoger Mason Jr. SAS 12/14/2008 SAS vs. OKC W 28 14 5 8 62.5 4 7 57.1 0 1 0.0 0 1 1 2 0 0 1 0 16
+p641
+aVKurt Thomas SAS 12/14/2008 SAS vs. OKC W 14 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 1 0 0 0 1 6
+p642
+aVBruce Bowen SAS 12/14/2008 SAS vs. OKC W 17 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 2 0
+p643
+aVManu Ginobili SAS 12/14/2008 SAS vs. OKC W 30 14 5 10 50.0 0 4 0.0 4 8 50.0 1 4 5 6 0 1 2 1 2
+p644
+aVGeorge Hill SAS 12/14/2008 SAS vs. OKC W 13 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 2 3 1
+p645
+aVMatt Bonner SAS 12/14/2008 SAS vs. OKC W 34 17 7 12 58.3 3 5 60.0 0 0 - 2 6 8 1 2 0 1 2 0
+p646
+aVTim Duncan SAS 12/14/2008 SAS vs. OKC W 36 20 6 12 50.0 0 0 - 8 10 80.0 2 10 12 5 0 1 2 3 3
+p647
+aVMichael Finley SAS 12/14/2008 SAS vs. OKC W 31 7 3 8 37.5 1 4 25.0 0 0 - 2 2 4 4 0 0 0 1 -4
+p648
+aVTony Parker SAS 12/12/2008 SAS @ MIN W 36 17 7 15 46.7 0 1 0.0 3 4 75.0 0 4 4 9 0 0 0 1 14
+p649
+aVBruce Bowen SAS 12/12/2008 SAS @ MIN W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 1 1 1
+p650
+aVFabricio Oberto SAS 12/12/2008 SAS @ MIN W 10 1 0 2 0.0 0 0 - 1 2 50.0 2 1 3 2 0 2 1 0 1
+p651
+aVRoger Mason Jr. SAS 12/12/2008 SAS @ MIN W 21 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 2 1 0 1 0 10
+p652
+aVKurt Thomas SAS 12/12/2008 SAS @ MIN W 18 6 1 4 25.0 0 0 - 4 4 100.0 1 3 4 1 0 3 1 3 7
+p653
+aVManu Ginobili SAS 12/12/2008 SAS @ MIN W 29 16 6 17 35.3 1 4 25.0 3 4 75.0 2 2 4 0 0 0 0 3 1
+p654
+aVIme Udoka SAS 12/12/2008 SAS @ MIN W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p655
+aVMatt Bonner SAS 12/12/2008 SAS @ MIN W 29 12 5 7 71.4 2 3 66.7 0 0 - 1 3 4 3 0 0 0 5 6
+p656
+aVMichael Finley SAS 12/12/2008 SAS @ MIN W 28 12 5 9 55.6 2 4 50.0 0 0 - 0 7 7 1 1 0 1 0 8
+p657
+aVGeorge Hill SAS 12/12/2008 SAS @ MIN W 22 9 3 5 60.0 1 1 100.0 2 2 100.0 2 4 6 1 3 1 0 1 12
+p658
+aVTim Duncan SAS 12/12/2008 SAS @ MIN W 35 17 7 13 53.8 0 0 - 3 6 50.0 3 10 13 2 0 5 5 3 6
+p659
+aVJacque Vaughn SAS 12/12/2008 SAS @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -3
+p660
+aVRoger Mason Jr. SAS 12/10/2008 SAS vs. ATL W 26 10 4 9 44.4 2 5 40.0 0 0 - 1 5 6 2 0 0 1 1 8
+p661
+aVIme Udoka SAS 12/10/2008 SAS vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p662
+aVMichael Finley SAS 12/10/2008 SAS vs. ATL W 32 15 6 11 54.5 1 4 25.0 2 2 100.0 0 2 2 2 0 2 1 1 6
+p663
+aVFabricio Oberto SAS 12/10/2008 SAS vs. ATL W 13 0 0 3 0.0 0 0 - 0 0 - 3 3 6 0 0 1 1 1 4
+p664
+aVBruce Bowen SAS 12/10/2008 SAS vs. ATL W 24 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -8
+p665
+aVMatt Bonner SAS 12/10/2008 SAS vs. ATL W 27 9 4 8 50.0 1 2 50.0 0 0 - 7 6 13 2 1 1 0 0 16
+p666
+aVManu Ginobili SAS 12/10/2008 SAS vs. ATL W 28 27 8 12 66.7 5 7 71.4 6 6 100.0 0 5 5 3 1 0 4 4 0
+p667
+aVKurt Thomas SAS 12/10/2008 SAS vs. ATL W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p668
+aVTim Duncan SAS 12/10/2008 SAS vs. ATL W 35 19 7 15 46.7 0 0 - 5 8 62.5 4 7 11 1 0 1 2 2 2
+p669
+aVGeorge Hill SAS 12/10/2008 SAS vs. ATL W 22 7 2 5 40.0 1 2 50.0 2 4 50.0 0 3 3 5 1 0 2 3 10
+p670
+aVTony Parker SAS 12/10/2008 SAS vs. ATL W 26 6 3 13 23.1 0 0 - 0 2 0.0 0 2 2 3 0 0 3 2 -6
+p671
+aVTim Duncan SAS 12/09/2008 SAS @ DAL W 50 32 12 20 60.0 0 0 - 8 9 88.9 3 11 14 4 2 1 0 4 14
+p672
+aVMichael Finley SAS 12/09/2008 SAS @ DAL W 37 13 5 15 33.3 3 7 42.9 0 0 - 1 4 5 3 0 1 3 2 8
+p673
+aVIme Udoka SAS 12/09/2008 SAS @ DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p674
+aVTony Parker SAS 12/09/2008 SAS @ DAL W 48 29 12 25 48.0 0 0 - 5 8 62.5 0 5 5 10 3 0 2 2 15
+p675
+aVKurt Thomas SAS 12/09/2008 SAS @ DAL W 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 1 1 0 1 -10
+p676
+aVRoger Mason Jr. SAS 12/09/2008 SAS @ DAL W 27 12 3 7 42.9 1 4 25.0 5 5 100.0 0 2 2 1 0 0 0 4 -1
+p677
+aVBruce Bowen SAS 12/09/2008 SAS @ DAL W 27 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 4 21
+p678
+aVMatt Bonner SAS 12/09/2008 SAS @ DAL W 30 13 5 5 100.0 3 3 100.0 0 0 - 2 2 4 0 0 0 0 1 7
+p679
+aVFabricio Oberto SAS 12/09/2008 SAS @ DAL W 8 6 2 2 100.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -7
+p680
+aVGeorge Hill SAS 12/09/2008 SAS @ DAL W 12 7 2 3 66.7 0 0 - 3 3 100.0 0 0 0 2 0 0 0 2 -2
+p681
+aVManu Ginobili SAS 12/09/2008 SAS @ DAL W 42 18 7 21 33.3 2 9 22.2 2 2 100.0 1 5 6 8 1 1 1 1 -11
+p682
+aVGeorge Hill SAS 12/06/2008 SAS vs. GSW W 32 10 3 9 33.3 2 4 50.0 2 4 50.0 0 3 3 5 0 2 2 4 3
+p683
+aVFabricio Oberto SAS 12/06/2008 SAS vs. GSW W 24 12 3 5 60.0 0 0 - 6 8 75.0 2 4 6 2 0 0 1 2 14
+p684
+aVTim Duncan SAS 12/06/2008 SAS vs. GSW W 20 20 7 10 70.0 0 0 - 6 9 66.7 5 8 13 5 1 0 0 4 35
+p685
+aVKurt Thomas SAS 12/06/2008 SAS vs. GSW W 18 6 3 6 50.0 0 0 - 0 0 - 1 6 7 2 0 1 2 4 -4
+p686
+aVIme Udoka SAS 12/06/2008 SAS vs. GSW W 20 5 2 4 50.0 1 2 50.0 0 0 - 0 6 6 1 0 0 0 0 2
+p687
+aVBruce Bowen SAS 12/06/2008 SAS vs. GSW W 13 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 5
+p688
+aVMichael Finley SAS 12/06/2008 SAS vs. GSW W 21 17 7 10 70.0 3 4 75.0 0 0 - 0 3 3 1 1 0 0 1 34
+p689
+aVJacque Vaughn SAS 12/06/2008 SAS vs. GSW W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 3 0 0 0 1 -2
+p690
+aVTony Parker SAS 12/06/2008 SAS vs. GSW W 20 17 8 14 57.1 1 1 100.0 0 0 - 0 2 2 8 0 0 0 0 37
+p691
+aVManu Ginobili SAS 12/06/2008 SAS vs. GSW W 22 9 3 7 42.9 1 5 20.0 2 2 100.0 1 2 3 7 2 0 1 0 28
+p692
+aVRoger Mason Jr. SAS 12/06/2008 SAS vs. GSW W 18 10 4 7 57.1 2 4 50.0 0 0 - 0 1 1 0 0 0 3 0 5
+p693
+aVMatt Bonner SAS 12/06/2008 SAS vs. GSW W 19 14 6 9 66.7 1 4 25.0 1 1 100.0 1 5 6 1 1 0 1 4 18
+p694
+aVRoger Mason Jr. SAS 12/04/2008 SAS @ DEN W 29 11 4 14 28.6 2 10 20.0 1 1 100.0 0 4 4 2 0 0 0 0 11
+p695
+aVGeorge Hill SAS 12/04/2008 SAS @ DEN W 19 11 3 8 37.5 1 3 33.3 4 4 100.0 0 5 5 2 0 0 1 5 -2
+p696
+aVFabricio Oberto SAS 12/04/2008 SAS @ DEN W 12 2 1 2 50.0 0 0 - 0 0 - 3 0 3 4 0 0 0 1 -3
+p697
+aVBruce Bowen SAS 12/04/2008 SAS @ DEN W 32 2 1 4 25.0 0 1 0.0 0 0 - 3 4 7 1 0 1 0 3 10
+p698
+aVTony Parker SAS 12/04/2008 SAS @ DEN W 36 22 10 21 47.6 0 3 0.0 2 2 100.0 0 1 1 8 0 0 7 1 11
+p699
+aVMichael Finley SAS 12/04/2008 SAS @ DEN W 14 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 0 0 1 5 6
+p700
+aVManu Ginobili SAS 12/04/2008 SAS @ DEN W 30 21 7 11 63.6 4 7 57.1 3 3 100.0 0 4 4 2 1 0 1 3 17
+p701
+aVTim Duncan SAS 12/04/2008 SAS @ DEN W 39 21 7 12 58.3 0 0 - 7 8 87.5 3 9 12 7 1 5 2 4 22
+p702
+aVMatt Bonner SAS 12/04/2008 SAS @ DEN W 29 14 6 8 75.0 2 2 100.0 0 0 - 3 5 8 0 0 2 1 2 13
+p703
+aVTony Parker SAS 12/02/2008 SAS vs. DET L 36 18 6 14 42.9 0 1 0.0 6 8 75.0 2 2 4 5 1 0 3 1 2
+p704
+aVFabricio Oberto SAS 12/02/2008 SAS vs. DET L 14 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -8
+p705
+aVTim Duncan SAS 12/02/2008 SAS vs. DET L 40 23 9 19 47.4 0 0 - 5 6 83.3 3 10 13 2 1 1 4 2 -1
+p706
+aVManu Ginobili SAS 12/02/2008 SAS vs. DET L 28 13 4 11 36.4 2 6 33.3 3 4 75.0 0 3 3 3 1 0 2 1 -17
+p707
+aVMichael Finley SAS 12/02/2008 SAS vs. DET L 34 5 2 8 25.0 1 6 16.7 0 0 - 0 3 3 2 0 0 0 0 -9
+p708
+aVBruce Bowen SAS 12/02/2008 SAS vs. DET L 16 5 2 3 66.7 1 2 50.0 0 0 - 0 3 3 0 2 0 0 1 11
+p709
+aVRoger Mason Jr. SAS 12/02/2008 SAS vs. DET L 31 6 2 6 33.3 1 4 25.0 1 1 100.0 1 1 2 1 0 0 5 2 -11
+p710
+aVJacque Vaughn SAS 12/02/2008 SAS vs. DET L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p711
+aVGeorge Hill SAS 12/02/2008 SAS vs. DET L 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -8
+p712
+aVMatt Bonner SAS 12/02/2008 SAS vs. DET L 25 5 2 8 25.0 1 5 20.0 0 0 - 2 7 9 2 0 0 2 4 -6
+p713
+aVIme Udoka SAS 12/02/2008 SAS vs. DET L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p714
+aVIme Udoka SAS 11/29/2008 SAS @ HOU L 10 2 1 3 33.3 0 1 0.0 0 1 0.0 0 2 2 1 0 0 1 1 -6
+p715
+aVGeorge Hill SAS 11/29/2008 SAS @ HOU L 24 3 1 8 12.5 0 0 - 1 2 50.0 1 1 2 1 0 0 1 4 -23
+p716
+aVKurt Thomas SAS 11/29/2008 SAS @ HOU L 15 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 1 1 1 -4
+p717
+aVRoger Mason Jr. SAS 11/29/2008 SAS @ HOU L 22 8 4 7 57.1 0 1 0.0 0 0 - 0 3 3 2 0 0 0 3 -7
+p718
+aVMichael Finley SAS 11/29/2008 SAS @ HOU L 22 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 0 0 0 2 -20
+p719
+aVTony Parker SAS 11/29/2008 SAS @ HOU L 27 15 5 12 41.7 0 0 - 5 8 62.5 1 3 4 7 1 0 2 0 4
+p720
+aVManu Ginobili SAS 11/29/2008 SAS @ HOU L 22 11 2 6 33.3 1 4 25.0 6 6 100.0 0 3 3 2 0 0 5 2 -8
+p721
+aVFabricio Oberto SAS 11/29/2008 SAS @ HOU L 16 2 1 2 50.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -13
+p722
+aVTim Duncan SAS 11/29/2008 SAS @ HOU L 29 17 6 18 33.3 0 0 - 5 6 83.3 3 6 9 2 0 2 2 2 -9
+p723
+aVMatt Bonner SAS 11/29/2008 SAS @ HOU L 22 17 6 7 85.7 3 4 75.0 2 2 100.0 1 4 5 1 2 0 0 2 -4
+p724
+aVAnthony Tolliver SAS 11/29/2008 SAS @ HOU L 10 2 0 4 0.0 0 3 0.0 2 2 100.0 0 3 3 0 0 0 1 0 -6
+p725
+aVBruce Bowen SAS 11/29/2008 SAS @ HOU L 22 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 3 1
+p726
+aVIme Udoka SAS 11/28/2008 SAS vs. MEM W 16 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 2 0 0 2 14
+p727
+aVKurt Thomas SAS 11/28/2008 SAS vs. MEM W 9 7 3 3 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 3 -2
+p728
+aVRoger Mason Jr. SAS 11/28/2008 SAS vs. MEM W 35 20 8 13 61.5 4 6 66.7 0 0 - 0 3 3 5 0 0 0 1 6
+p729
+aVFabricio Oberto SAS 11/28/2008 SAS vs. MEM W 23 4 2 4 50.0 0 0 - 0 0 - 1 3 4 3 0 0 2 1 -3
+p730
+aVTony Parker SAS 11/28/2008 SAS vs. MEM W 17 15 6 9 66.7 0 0 - 3 5 60.0 0 1 1 7 1 0 2 1 1
+p731
+aVManu Ginobili SAS 11/28/2008 SAS vs. MEM W 21 14 6 10 60.0 2 4 50.0 0 0 - 0 1 1 2 0 0 3 0 7
+p732
+aVAnthony Tolliver SAS 11/28/2008 SAS vs. MEM W 8 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 3
+p733
+aVGeorge Hill SAS 11/28/2008 SAS vs. MEM W 25 12 3 5 60.0 0 0 - 6 6 100.0 2 1 3 7 1 0 0 3 15
+p734
+aVMichael Finley SAS 11/28/2008 SAS vs. MEM W 28 12 5 9 55.6 2 4 50.0 0 0 - 1 3 4 2 0 0 1 0 -2
+p735
+aVBruce Bowen SAS 11/28/2008 SAS vs. MEM W 15 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 2 0 0 1 1 2
+p736
+aVTim Duncan SAS 11/28/2008 SAS vs. MEM W 31 11 4 9 44.4 0 0 - 3 6 50.0 4 8 12 2 0 1 2 2 9
+p737
+aVMatt Bonner SAS 11/28/2008 SAS vs. MEM W 13 4 2 4 50.0 0 0 - 0 0 - 0 3 3 0 1 0 0 1 5
+p738
+aVGeorge Hill SAS 11/26/2008 SAS vs. CHI W 33 19 7 16 43.8 0 1 0.0 5 6 83.3 5 6 11 4 1 0 2 3 24
+p739
+aVIme Udoka SAS 11/26/2008 SAS vs. CHI W 20 8 3 3 100.0 2 2 100.0 0 0 - 0 2 2 0 0 0 1 3 4
+p740
+aVRoger Mason Jr. SAS 11/26/2008 SAS vs. CHI W 36 9 2 12 16.7 2 5 40.0 3 3 100.0 1 5 6 3 1 0 2 3 0
+p741
+aVBruce Bowen SAS 11/26/2008 SAS vs. CHI W 31 3 1 4 25.0 1 2 50.0 0 2 0.0 0 2 2 0 1 0 1 0 1
+p742
+aVTim Duncan SAS 11/26/2008 SAS vs. CHI W 29 21 8 12 66.7 0 0 - 5 9 55.6 0 8 8 3 0 2 1 2 3
+p743
+aVMatt Bonner SAS 11/26/2008 SAS vs. CHI W 17 4 1 3 33.3 1 2 50.0 1 2 50.0 1 1 2 0 0 0 0 2 19
+p744
+aVManu Ginobili SAS 11/26/2008 SAS vs. CHI W 18 15 5 8 62.5 0 1 0.0 5 6 83.3 0 3 3 4 1 1 1 0 7
+p745
+aVKurt Thomas SAS 11/26/2008 SAS vs. CHI W 16 8 3 5 60.0 0 0 - 2 2 100.0 2 7 9 1 0 1 2 3 10
+p746
+aVMichael Finley SAS 11/26/2008 SAS vs. CHI W 26 6 2 9 22.2 0 5 0.0 2 2 100.0 0 3 3 1 0 0 2 0 -7
+p747
+aVFabricio Oberto SAS 11/26/2008 SAS vs. CHI W 15 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 1 1 0 0 1 -11
+p748
+aVAnthony Tolliver SAS 11/26/2008 SAS vs. CHI W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p749
+aVTim Duncan SAS 11/24/2008 SAS @ MEM W 30 14 6 18 33.3 0 0 - 2 3 66.7 1 10 11 2 0 4 2 1 8
+p750
+aVGeorge Hill SAS 11/24/2008 SAS @ MEM W 29 20 6 14 42.9 2 5 40.0 6 7 85.7 1 2 3 3 2 0 2 4 9
+p751
+aVIme Udoka SAS 11/24/2008 SAS @ MEM W 11 0 0 2 0.0 0 2 0.0 0 0 - 1 3 4 0 0 0 0 0 5
+p752
+aVMatt Bonner SAS 11/24/2008 SAS @ MEM W 15 9 4 4 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 2 11
+p753
+aVBruce Bowen SAS 11/24/2008 SAS @ MEM W 30 3 1 4 25.0 1 4 25.0 0 0 - 0 4 4 1 2 1 0 2 8
+p754
+aVKurt Thomas SAS 11/24/2008 SAS @ MEM W 10 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -8
+p755
+aVJacque Vaughn SAS 11/24/2008 SAS @ MEM W 8 4 2 3 66.7 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -6
+p756
+aVMichael Finley SAS 11/24/2008 SAS @ MEM W 32 7 3 8 37.5 0 3 0.0 1 2 50.0 1 4 5 3 0 0 1 2 12
+p757
+aVRoger Mason Jr. SAS 11/24/2008 SAS @ MEM W 39 18 6 12 50.0 5 7 71.4 1 1 100.0 0 2 2 3 0 0 5 3 14
+p758
+aVFabricio Oberto SAS 11/24/2008 SAS @ MEM W 21 2 1 1 100.0 0 0 - 0 0 - 1 2 3 3 0 0 1 4 14
+p759
+aVManu Ginobili SAS 11/24/2008 SAS @ MEM W 11 12 3 4 75.0 1 2 50.0 5 6 83.3 0 4 4 1 0 0 1 1 3
+p760
+aVAnthony Tolliver SAS 11/24/2008 SAS @ MEM W 4 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 1 -5
+p761
+aVRoger Mason Jr. SAS 11/21/2008 SAS vs. UTA W 30 29 10 17 58.8 7 10 70.0 2 2 100.0 0 4 4 2 0 0 3 0 25
+p762
+aVGeorge Hill SAS 11/21/2008 SAS vs. UTA W 23 23 7 13 53.8 2 2 100.0 7 10 70.0 0 0 0 4 3 0 1 4 14
+p763
+aVBlake Ahearn SAS 11/21/2008 SAS vs. UTA W 8 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 2 1
+p764
+aVBruce Bowen SAS 11/21/2008 SAS vs. UTA W 27 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 4 1 0 1 1 0
+p765
+aVTim Duncan SAS 11/21/2008 SAS vs. UTA W 27 18 6 10 60.0 0 0 - 6 6 100.0 5 2 7 4 1 0 3 0 6
+p766
+aVFabricio Oberto SAS 11/21/2008 SAS vs. UTA W 23 0 0 1 0.0 0 0 - 0 0 - 3 2 5 3 0 0 1 2 18
+p767
+aVJacque Vaughn SAS 11/21/2008 SAS vs. UTA W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p768
+aVIme Udoka SAS 11/21/2008 SAS vs. UTA W 29 10 3 9 33.3 0 2 0.0 4 5 80.0 0 5 5 1 0 0 1 3 24
+p769
+aVAnthony Tolliver SAS 11/21/2008 SAS vs. UTA W 19 5 2 5 40.0 1 3 33.3 0 0 - 1 0 1 0 2 0 0 3 -2
+p770
+aVMichael Finley SAS 11/21/2008 SAS vs. UTA W 27 14 6 10 60.0 1 2 50.0 1 2 50.0 1 2 3 1 0 0 0 2 11
+p771
+aVKurt Thomas SAS 11/21/2008 SAS vs. UTA W 9 2 1 4 25.0 0 0 - 0 0 - 1 5 6 2 1 0 0 1 -1
+p772
+aVMatt Bonner SAS 11/21/2008 SAS vs. UTA W 18 12 5 8 62.5 2 3 66.7 0 0 - 1 3 4 2 0 0 1 3 29
+p773
+aVMatt Bonner SAS 11/19/2008 SAS vs. DEN L 27 8 4 9 44.4 0 2 0.0 0 0 - 4 4 8 2 1 1 0 4 3
+p774
+aVJacque Vaughn SAS 11/19/2008 SAS vs. DEN L 19 6 3 8 37.5 0 0 - 0 0 - 0 1 1 1 1 0 0 3 -15
+p775
+aVGeorge Hill SAS 11/19/2008 SAS vs. DEN L 29 20 6 11 54.5 0 2 0.0 8 8 100.0 1 1 2 1 2 0 3 3 5
+p776
+aVBlake Ahearn SAS 11/19/2008 SAS vs. DEN L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 2 1 0 0 1 9
+p777
+aVMichael Finley SAS 11/19/2008 SAS vs. DEN L 29 13 5 11 45.5 0 3 0.0 3 4 75.0 0 2 2 1 2 0 2 0 -12
+p778
+aVKurt Thomas SAS 11/19/2008 SAS vs. DEN L 12 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 1 2 -8
+p779
+aVAnthony Tolliver SAS 11/19/2008 SAS vs. DEN L 8 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 0 0 0 0 0 8
+p780
+aVRoger Mason Jr. SAS 11/19/2008 SAS vs. DEN L 25 8 3 8 37.5 1 2 50.0 1 1 100.0 0 2 2 1 1 1 4 2 -8
+p781
+aVBruce Bowen SAS 11/19/2008 SAS vs. DEN L 19 3 1 5 20.0 0 2 0.0 1 3 33.3 0 1 1 1 2 1 0 1 -13
+p782
+aVIme Udoka SAS 11/19/2008 SAS vs. DEN L 22 4 1 5 20.0 0 3 0.0 2 2 100.0 1 2 3 1 1 0 2 2 1
+p783
+aVFabricio Oberto SAS 11/19/2008 SAS vs. DEN L 15 2 1 1 100.0 0 0 - 0 1 0.0 1 1 2 3 0 0 1 2 -7
+p784
+aVTim Duncan SAS 11/19/2008 SAS vs. DEN L 30 12 4 13 30.8 0 0 - 4 7 57.1 4 7 11 6 0 1 2 2 -13
+p785
+aVRoger Mason Jr. SAS 11/17/2008 SAS @ LAC W 35 21 9 16 56.3 3 5 60.0 0 0 - 0 3 3 0 1 0 2 2 -3
+p786
+aVBlake Ahearn SAS 11/17/2008 SAS @ LAC W 4 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p787
+aVIme Udoka SAS 11/17/2008 SAS @ LAC W 15 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 1 0 0 2 8
+p788
+aVGeorge Hill SAS 11/17/2008 SAS @ LAC W 21 2 0 5 0.0 0 2 0.0 2 2 100.0 0 5 5 8 1 0 2 4 3
+p789
+aVJacque Vaughn SAS 11/17/2008 SAS @ LAC W 23 4 2 9 22.2 0 0 - 0 0 - 0 1 1 5 2 0 2 1 -1
+p790
+aVTim Duncan SAS 11/17/2008 SAS @ LAC W 40 20 9 14 64.3 0 0 - 2 2 100.0 4 11 15 4 0 6 2 0 3
+p791
+aVMichael Finley SAS 11/17/2008 SAS @ LAC W 31 19 7 15 46.7 3 5 60.0 2 2 100.0 0 1 1 2 2 0 2 1 -6
+p792
+aVMatt Bonner SAS 11/17/2008 SAS @ LAC W 17 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 1 0 1 2 1 -3
+p793
+aVKurt Thomas SAS 11/17/2008 SAS @ LAC W 15 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 1 0 2 7
+p794
+aVFabricio Oberto SAS 11/17/2008 SAS @ LAC W 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p795
+aVBruce Bowen SAS 11/17/2008 SAS @ LAC W 25 6 3 6 50.0 0 2 0.0 0 0 - 0 2 2 3 0 0 0 1 12
+p796
+aVRoger Mason Jr. SAS 11/16/2008 SAS @ SAC W 39 18 6 14 42.9 3 8 37.5 3 3 100.0 0 2 2 1 2 0 1 3 10
+p797
+aVBruce Bowen SAS 11/16/2008 SAS @ SAC W 29 2 1 2 50.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 1
+p798
+aVMichael Finley SAS 11/16/2008 SAS @ SAC W 35 21 8 17 47.1 3 5 60.0 2 2 100.0 0 3 3 1 1 1 1 1 -6
+p799
+aVGeorge Hill SAS 11/16/2008 SAS @ SAC W 20 4 2 7 28.6 0 1 0.0 0 0 - 0 2 2 3 0 0 2 2 -8
+p800
+aVJacque Vaughn SAS 11/16/2008 SAS @ SAC W 23 10 3 7 42.9 0 0 - 4 4 100.0 0 2 2 6 0 0 3 3 8
+p801
+aVAnthony Tolliver SAS 11/16/2008 SAS @ SAC W 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 1
+p802
+aVFabricio Oberto SAS 11/16/2008 SAS @ SAC W 26 2 1 2 50.0 0 0 - 0 0 - 2 2 4 2 0 1 1 4 7
+p803
+aVMatt Bonner SAS 11/16/2008 SAS @ SAC W 27 11 4 9 44.4 3 5 60.0 0 0 - 1 6 7 1 2 0 0 0 5
+p804
+aVTim Duncan SAS 11/16/2008 SAS @ SAC W 35 20 8 15 53.3 0 0 - 4 8 50.0 2 8 10 4 0 3 5 3 -8
+p805
+aVGeorge Hill SAS 11/14/2008 SAS vs. HOU W 36 17 8 13 61.5 1 2 50.0 0 0 - 1 5 6 5 0 0 0 4 8
+p806
+aVBruce Bowen SAS 11/14/2008 SAS vs. HOU W 18 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 1 3 -4
+p807
+aVAnthony Tolliver SAS 11/14/2008 SAS vs. HOU W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 1 0 0 0 -5
+p808
+aVTim Duncan SAS 11/14/2008 SAS vs. HOU W 40 22 8 15 53.3 0 0 - 6 8 75.0 0 5 5 2 1 1 1 2 14
+p809
+aVFabricio Oberto SAS 11/14/2008 SAS vs. HOU W 14 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 2 0 -4
+p810
+aVMatt Bonner SAS 11/14/2008 SAS vs. HOU W 20 11 4 6 66.7 3 4 75.0 0 0 - 0 2 2 0 1 0 0 2 7
+p811
+aVRoger Mason Jr. SAS 11/14/2008 SAS vs. HOU W 38 9 3 8 37.5 2 6 33.3 1 2 50.0 0 9 9 2 1 0 2 3 6
+p812
+aVKurt Thomas SAS 11/14/2008 SAS vs. HOU W 15 3 1 7 14.3 0 1 0.0 1 2 50.0 2 2 4 0 0 1 1 0 -9
+p813
+aVMichael Finley SAS 11/14/2008 SAS vs. HOU W 30 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 2 0 0 2 0 6
+p814
+aVJacque Vaughn SAS 11/14/2008 SAS vs. HOU W 12 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 2 0 0 1 0 -6
+p815
+aVIme Udoka SAS 11/14/2008 SAS vs. HOU W 10 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 3 0 -3
+p816
+aVBruce Bowen SAS 11/12/2008 SAS @ MIL L 27 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 0 0 1 4 4
+p817
+aVJacque Vaughn SAS 11/12/2008 SAS @ MIL L 20 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 6 0 0 0 0 7
+p818
+aVKurt Thomas SAS 11/12/2008 SAS @ MIL L 13 4 2 5 40.0 0 0 - 0 0 - 0 4 4 1 1 0 0 0 -1
+p819
+aVGeorge Hill SAS 11/12/2008 SAS @ MIL L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 3 1 0 2 4 -13
+p820
+aVMichael Finley SAS 11/12/2008 SAS @ MIL L 30 19 8 12 66.7 3 6 50.0 0 0 - 0 4 4 3 0 0 0 2 1
+p821
+aVFabricio Oberto SAS 11/12/2008 SAS @ MIL L 16 1 0 0 - 0 0 - 1 2 50.0 3 2 5 1 0 0 0 3 2
+p822
+aVAnthony Tolliver SAS 11/12/2008 SAS @ MIL L 28 9 4 10 40.0 1 6 16.7 0 0 - 1 5 6 3 0 0 2 2 -3
+p823
+aVIme Udoka SAS 11/12/2008 SAS @ MIL L 16 3 1 5 20.0 1 2 50.0 0 0 - 0 0 0 0 0 1 1 1 -4
+p824
+aVTim Duncan SAS 11/12/2008 SAS @ MIL L 35 24 10 20 50.0 0 0 - 4 5 80.0 2 3 5 2 0 3 4 4 -3
+p825
+aVRoger Mason Jr. SAS 11/12/2008 SAS @ MIL L 31 6 2 10 20.0 2 5 40.0 0 0 - 1 4 5 4 1 0 1 2 -10
+p826
+aVTim Duncan SAS 11/11/2008 SAS vs. NYK W 36 23 11 17 64.7 0 0 - 1 3 33.3 3 6 9 7 0 2 2 3 10
+p827
+aVFabricio Oberto SAS 11/11/2008 SAS vs. NYK W 25 6 3 5 60.0 0 0 - 0 3 0.0 3 6 9 3 1 0 1 5 -2
+p828
+aVJacque Vaughn SAS 11/11/2008 SAS vs. NYK W 12 0 0 5 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 2 -7
+p829
+aVAnthony Tolliver SAS 11/11/2008 SAS vs. NYK W 20 5 2 8 25.0 1 6 16.7 0 0 - 2 2 4 1 1 0 2 0 12
+p830
+aVBruce Bowen SAS 11/11/2008 SAS vs. NYK W 28 13 5 6 83.3 3 3 100.0 0 1 0.0 0 4 4 0 0 0 0 1 8
+p831
+aVIme Udoka SAS 11/11/2008 SAS vs. NYK W 20 5 2 10 20.0 1 5 20.0 0 0 - 1 5 6 1 2 0 1 0 4
+p832
+aVMichael Finley SAS 11/11/2008 SAS vs. NYK W 20 14 6 9 66.7 2 2 100.0 0 0 - 0 6 6 0 0 1 3 0 5
+p833
+aVGeorge Hill SAS 11/11/2008 SAS vs. NYK W 31 12 4 10 40.0 1 1 100.0 3 4 75.0 2 3 5 1 1 1 1 3 11
+p834
+aVKurt Thomas SAS 11/11/2008 SAS vs. NYK W 9 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 6
+p835
+aVRoger Mason Jr. SAS 11/11/2008 SAS vs. NYK W 38 10 2 10 20.0 0 2 0.0 6 7 85.7 1 6 7 4 3 0 2 1 13
+p836
+aVMatt Bonner SAS 11/11/2008 SAS vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p837
+aVGeorge Hill SAS 11/07/2008 SAS vs. MIA L 21 6 2 7 28.6 0 2 0.0 2 4 50.0 1 0 1 2 0 1 1 3 9
+p838
+aVMatt Bonner SAS 11/07/2008 SAS vs. MIA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p839
+aVKurt Thomas SAS 11/07/2008 SAS vs. MIA L 13 4 2 3 66.7 0 0 - 0 0 - 3 3 6 1 0 2 1 1 8
+p840
+aVIme Udoka SAS 11/07/2008 SAS vs. MIA L 27 14 5 10 50.0 3 5 60.0 1 2 50.0 2 2 4 2 1 0 2 2 -9
+p841
+aVBruce Bowen SAS 11/07/2008 SAS vs. MIA L 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -3
+p842
+aVAnthony Tolliver SAS 11/07/2008 SAS vs. MIA L 22 8 3 7 42.9 2 6 33.3 0 0 - 1 3 4 3 0 0 0 1 5
+p843
+aVDesmon Farmer SAS 11/07/2008 SAS vs. MIA L 29 5 2 9 22.2 1 7 14.3 0 0 - 0 5 5 2 0 0 2 4 1
+p844
+aVMichael Finley SAS 11/07/2008 SAS vs. MIA L 24 0 0 8 0.0 0 3 0.0 0 0 - 1 3 4 3 0 1 0 1 -24
+p845
+aVRoger Mason Jr. SAS 11/07/2008 SAS vs. MIA L 38 18 6 17 35.3 5 11 45.5 1 2 50.0 0 5 5 6 1 0 2 2 -19
+p846
+aVTony Parker SAS 11/07/2008 SAS vs. MIA L 10 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -15
+p847
+aVTim Duncan SAS 11/07/2008 SAS vs. MIA L 28 22 9 16 56.3 0 0 - 4 5 80.0 4 7 11 2 0 0 2 1 -19
+p848
+aVFabricio Oberto SAS 11/07/2008 SAS vs. MIA L 16 0 0 0 - 0 0 - 0 0 - 0 3 3 1 0 0 1 3 -14
+p849
+aVIme Udoka SAS 11/05/2008 SAS @ MIN W 21 8 4 5 80.0 0 0 - 0 1 0.0 0 2 2 1 0 0 0 0 6
+p850
+aVMichael Finley SAS 11/05/2008 SAS @ MIN W 33 3 1 9 11.1 1 5 20.0 0 0 - 0 5 5 1 2 0 2 3 12
+p851
+aVBruce Bowen SAS 11/05/2008 SAS @ MIN W 34 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 2 1 0 1 4 -2
+p852
+aVMatt Bonner SAS 11/05/2008 SAS @ MIN W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p853
+aVRoger Mason Jr. SAS 11/05/2008 SAS @ MIN W 44 26 9 16 56.3 2 4 50.0 6 6 100.0 2 2 4 2 0 0 0 4 1
+p854
+aVTim Duncan SAS 11/05/2008 SAS @ MIN W 48 30 12 26 46.2 0 0 - 6 7 85.7 6 10 16 3 0 1 4 5 -3
+p855
+aVGeorge Hill SAS 11/05/2008 SAS @ MIN W 10 2 0 2 0.0 0 0 - 2 4 50.0 0 3 3 3 0 0 0 3 -6
+p856
+aVTony Parker SAS 11/05/2008 SAS @ MIN W 51 55 22 36 61.1 2 3 66.7 9 10 90.0 0 7 7 10 0 0 4 0 7
+p857
+aVKurt Thomas SAS 11/05/2008 SAS @ MIN W 13 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 1 1
+p858
+aVFabricio Oberto SAS 11/05/2008 SAS @ MIN W 31 2 1 2 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 5 1
+p859
+aVJacque Vaughn SAS 11/04/2008 SAS vs. DAL L 10 4 2 5 40.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -9
+p860
+aVGeorge Hill SAS 11/04/2008 SAS vs. DAL L 16 11 3 7 42.9 1 2 50.0 4 4 100.0 0 0 0 1 1 0 0 0 2
+p861
+aVMichael Finley SAS 11/04/2008 SAS vs. DAL L 27 3 1 6 16.7 1 3 33.3 0 2 0.0 1 4 5 1 0 0 0 1 -17
+p862
+aVDesmon Farmer SAS 11/04/2008 SAS vs. DAL L 12 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 12
+p863
+aVTim Duncan SAS 11/04/2008 SAS vs. DAL L 41 19 8 15 53.3 0 0 - 3 6 50.0 4 11 15 2 0 1 1 1 -19
+p864
+aVMatt Bonner SAS 11/04/2008 SAS vs. DAL L 20 0 0 5 0.0 0 3 0.0 0 0 - 3 2 5 1 0 0 0 1 -18
+p865
+aVTony Parker SAS 11/04/2008 SAS vs. DAL L 29 22 8 15 53.3 1 1 100.0 5 5 100.0 0 0 0 3 1 0 3 0 -20
+p866
+aVRoger Mason Jr. SAS 11/04/2008 SAS vs. DAL L 30 11 4 8 50.0 2 4 50.0 1 1 100.0 0 2 2 2 2 0 2 2 -8
+p867
+aVBruce Bowen SAS 11/04/2008 SAS vs. DAL L 12 5 2 3 66.7 1 2 50.0 0 0 - 0 2 2 0 1 0 0 0 -11
+p868
+aVKurt Thomas SAS 11/04/2008 SAS vs. DAL L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p869
+aVFabricio Oberto SAS 11/04/2008 SAS vs. DAL L 14 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 3
+p870
+aVIme Udoka SAS 11/04/2008 SAS vs. DAL L 17 1 0 4 0.0 0 3 0.0 1 2 50.0 0 4 4 0 0 1 0 1 -1
+p871
+aVJacque Vaughn SAS 10/31/2008 SAS @ POR L 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -3
+p872
+aVTim Duncan SAS 10/31/2008 SAS @ POR L 42 27 12 19 63.2 0 0 - 3 4 75.0 3 7 10 2 1 0 2 5 4
+p873
+aVDesmon Farmer SAS 10/31/2008 SAS @ POR L 13 5 1 3 33.3 1 3 33.3 2 2 100.0 0 0 0 0 0 0 2 0 -6
+p874
+aVBruce Bowen SAS 10/31/2008 SAS @ POR L 22 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 1 -2
+p875
+aVKurt Thomas SAS 10/31/2008 SAS @ POR L 20 2 0 1 0.0 0 0 - 2 2 100.0 0 5 5 1 0 0 1 3 -11
+p876
+aVTony Parker SAS 10/31/2008 SAS @ POR L 39 24 10 19 52.6 0 0 - 4 4 100.0 0 3 3 11 0 0 4 2 2
+p877
+aVIme Udoka SAS 10/31/2008 SAS @ POR L 19 6 2 5 40.0 2 4 50.0 0 0 - 0 3 3 1 0 0 0 2 1
+p878
+aVRoger Mason Jr. SAS 10/31/2008 SAS @ POR L 29 14 6 7 85.7 2 2 100.0 0 0 - 0 2 2 4 0 0 1 4 -2
+p879
+aVMatt Bonner SAS 10/31/2008 SAS @ POR L 12 5 2 2 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 1 4 2
+p880
+aVMichael Finley SAS 10/31/2008 SAS @ POR L 34 16 5 11 45.5 3 5 60.0 3 3 100.0 1 1 2 4 0 0 2 0 10
+p881
+aVRoger Mason Jr. SAS 10/29/2008 SAS vs. PHX L 30 12 4 7 57.1 3 4 75.0 1 1 100.0 0 4 4 3 0 2 1 2 -4
+p882
+aVIme Udoka SAS 10/29/2008 SAS vs. PHX L 16 2 1 4 25.0 0 2 0.0 0 0 - 1 4 5 1 0 0 1 3 13
+p883
+aVJacque Vaughn SAS 10/29/2008 SAS vs. PHX L 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 3 1 0 0 2 2
+p884
+aVTony Parker SAS 10/29/2008 SAS vs. PHX L 36 32 13 24 54.2 0 1 0.0 6 8 75.0 1 4 5 5 1 0 2 1 -7
+p885
+aVTim Duncan SAS 10/29/2008 SAS vs. PHX L 36 32 13 21 61.9 0 1 0.0 6 10 60.0 1 5 6 3 0 0 2 3 -11
+p886
+aVMatt Bonner SAS 10/29/2008 SAS vs. PHX L 30 8 3 9 33.3 2 5 40.0 0 0 - 2 5 7 0 0 1 0 4 7
+p887
+aVMichael Finley SAS 10/29/2008 SAS vs. PHX L 31 8 4 7 57.1 0 2 0.0 0 0 - 0 1 1 3 0 0 1 4 -18
+p888
+aVKurt Thomas SAS 10/29/2008 SAS vs. PHX L 27 2 1 5 20.0 0 0 - 0 0 - 0 7 7 0 1 0 0 3 -2
+p889
+aVBruce Bowen SAS 10/29/2008 SAS vs. PHX L 21 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -5
+p890
+a.

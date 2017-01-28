@@ -1,0 +1,100 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJrue Holiday PHI 04/27/2011 PHI @ MIA L 37 10 3 9 33.3 0 1 0.0 4 5 80.0 1 4 5 8 2 1 3 1 3
+p2
+aVEvan Turner PHI 04/27/2011 PHI @ MIA L 28 4 2 10 20.0 0 0 - 0 0 - 2 8 10 1 1 1 0 3 -9
+p3
+aVTony Battie PHI 04/27/2011 PHI @ MIA L 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 1
+p4
+aVSpencer Hawes PHI 04/27/2011 PHI @ MIA L 25 4 2 7 28.6 0 0 - 0 0 - 2 2 4 4 0 0 0 0 -2
+p5
+aVLou Williams PHI 04/27/2011 PHI @ MIA L 21 4 2 8 25.0 0 1 0.0 0 1 0.0 0 0 0 0 0 0 2 1 -11
+p6
+aVThaddeus Young PHI 04/27/2011 PHI @ MIA L 28 13 6 8 75.0 0 0 - 1 3 33.3 2 3 5 1 0 0 1 2 -12
+p7
+aVJodie Meeks PHI 04/27/2011 PHI @ MIA L 23 12 4 8 50.0 2 6 33.3 2 2 100.0 0 0 0 0 0 0 1 2 -10
+p8
+aVElton Brand PHI 04/27/2011 PHI @ MIA L 38 22 10 17 58.8 0 0 - 2 2 100.0 1 5 6 2 1 1 0 6 3
+p9
+aVAndre Iguodala PHI 04/27/2011 PHI @ MIA L 35 22 10 14 71.4 0 2 0.0 2 4 50.0 1 9 10 4 0 0 0 3 7
+p10
+aVElton Brand PHI 04/24/2011 PHI vs. MIA W 36 15 6 11 54.5 0 0 - 3 4 75.0 3 8 11 1 0 2 2 3 10
+p11
+aVThaddeus Young PHI 04/24/2011 PHI vs. MIA W 20 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 1 0 1 1 -17
+p12
+aVSpencer Hawes PHI 04/24/2011 PHI vs. MIA W 25 4 1 8 12.5 0 0 - 2 2 100.0 2 6 8 3 0 0 0 3 18
+p13
+aVJodie Meeks PHI 04/24/2011 PHI vs. MIA W 20 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 1 0 0 0 0 8
+p14
+aVTony Battie PHI 04/24/2011 PHI vs. MIA W 12 0 0 2 0.0 0 0 - 0 0 - 0 4 4 0 0 2 1 0 -7
+p15
+aVJrue Holiday PHI 04/24/2011 PHI vs. MIA W 36 10 4 11 36.4 2 5 40.0 0 0 - 1 3 4 5 2 0 4 4 14
+p16
+aVEvan Turner PHI 04/24/2011 PHI vs. MIA W 27 17 7 13 53.8 1 2 50.0 2 2 100.0 1 5 6 1 1 0 0 1 3
+p17
+aVLou Williams PHI 04/24/2011 PHI vs. MIA W 31 17 6 14 42.9 2 6 33.3 3 4 75.0 0 4 4 1 1 0 1 1 -9
+p18
+aVAndre Iguodala PHI 04/24/2011 PHI vs. MIA W 33 16 5 13 38.5 2 4 50.0 4 4 100.0 0 5 5 4 2 0 4 5 0
+p19
+aVEvan Turner PHI 04/21/2011 PHI vs. MIA L 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -4
+p20
+aVLou Williams PHI 04/21/2011 PHI vs. MIA L 31 15 5 12 41.7 2 5 40.0 3 5 60.0 0 1 1 4 1 0 0 2 -15
+p21
+aVTony Battie PHI 04/21/2011 PHI vs. MIA L 7 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -3
+p22
+aVElton Brand PHI 04/21/2011 PHI vs. MIA L 41 21 9 15 60.0 0 0 - 3 4 75.0 3 8 11 0 0 1 1 5 1
+p23
+aVThaddeus Young PHI 04/21/2011 PHI vs. MIA L 22 4 1 8 12.5 0 0 - 2 2 100.0 1 2 3 0 1 1 2 2 -7
+p24
+aVJrue Holiday PHI 04/21/2011 PHI vs. MIA L 41 20 7 13 53.8 4 5 80.0 2 4 50.0 1 1 2 8 1 0 2 2 0
+p25
+aVSpencer Hawes PHI 04/21/2011 PHI vs. MIA L 22 12 6 11 54.5 0 1 0.0 0 0 - 1 5 6 0 0 2 0 1 0
+p26
+aVAndre Iguodala PHI 04/21/2011 PHI vs. MIA L 41 10 3 10 30.0 1 4 25.0 3 4 75.0 3 2 5 10 1 1 1 4 -3
+p27
+aVJodie Meeks PHI 04/21/2011 PHI vs. MIA L 28 6 2 8 25.0 2 6 33.3 0 0 - 1 2 3 2 2 0 0 1 1
+p28
+aVEvan Turner PHI 04/18/2011 PHI @ MIA L 26 15 6 10 60.0 3 3 100.0 0 0 - 1 5 6 1 0 0 0 3 -7
+p29
+aVAndre Iguodala PHI 04/18/2011 PHI @ MIA L 36 5 2 8 25.0 0 2 0.0 1 2 50.0 2 5 7 7 1 1 5 2 -20
+p30
+aVElton Brand PHI 04/18/2011 PHI @ MIA L 30 3 1 5 20.0 0 0 - 1 2 50.0 3 4 7 0 0 1 1 3 -19
+p31
+aVSpencer Hawes PHI 04/18/2011 PHI @ MIA L 13 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 0 0 0 1 3 -10
+p32
+aVLou Williams PHI 04/18/2011 PHI @ MIA L 24 8 1 8 12.5 0 2 0.0 6 7 85.7 0 1 1 6 2 0 0 0 -8
+p33
+aVJodie Meeks PHI 04/18/2011 PHI @ MIA L 26 7 2 6 33.3 1 2 50.0 2 2 100.0 0 3 3 1 0 0 1 1 -9
+p34
+aVMarreese Speights PHI 04/18/2011 PHI @ MIA L 8 0 0 5 0.0 0 0 - 0 0 - 0 4 4 1 0 0 0 1 5
+p35
+aVThaddeus Young PHI 04/18/2011 PHI @ MIA L 29 18 8 20 40.0 0 0 - 2 3 66.7 5 1 6 0 1 0 2 3 -12
+p36
+aVJrue Holiday PHI 04/18/2011 PHI @ MIA L 34 12 5 13 38.5 2 5 40.0 0 0 - 0 3 3 2 2 1 2 2 -23
+p37
+aVTony Battie PHI 04/18/2011 PHI @ MIA L 13 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 3 -2
+p38
+aVElton Brand PHI 04/16/2011 PHI @ MIA L 40 17 8 14 57.1 0 0 - 1 1 100.0 2 5 7 0 1 1 0 4 2
+p39
+aVMarreese Speights PHI 04/16/2011 PHI @ MIA L 12 4 2 7 28.6 0 0 - 0 0 - 1 1 2 0 0 1 0 3 -4
+p40
+aVSpencer Hawes PHI 04/16/2011 PHI @ MIA L 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 0 1 4 -2
+p41
+aVJrue Holiday PHI 04/16/2011 PHI @ MIA L 39 19 5 12 41.7 3 5 60.0 6 6 100.0 0 5 5 5 3 0 0 1 -8
+p42
+aVLou Williams PHI 04/16/2011 PHI @ MIA L 23 10 3 10 30.0 2 6 33.3 2 2 100.0 0 2 2 4 1 0 1 2 1
+p43
+aVEvan Turner PHI 04/16/2011 PHI @ MIA L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -5
+p44
+aVTony Battie PHI 04/16/2011 PHI @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p45
+aVThaddeus Young PHI 04/16/2011 PHI @ MIA L 28 20 9 20 45.0 0 1 0.0 2 4 50.0 8 3 11 1 1 0 1 5 -7
+p46
+aVJodie Meeks PHI 04/16/2011 PHI @ MIA L 27 9 3 6 50.0 2 3 66.7 1 2 50.0 0 1 1 0 1 0 0 2 -4
+p47
+aVAndres Nocioni PHI 04/16/2011 PHI @ MIA L 10 0 0 3 0.0 0 2 0.0 0 0 - 0 2 2 0 0 0 1 1 -7
+p48
+aVAndre Iguodala PHI 04/16/2011 PHI @ MIA L 37 4 2 7 28.6 0 2 0.0 0 0 - 1 7 8 9 1 0 4 2 -2
+p49
+a.

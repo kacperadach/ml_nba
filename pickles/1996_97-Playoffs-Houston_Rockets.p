@@ -1,0 +1,284 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMario Elie HOU 05/29/1997 HOU vs. UTA L 34 11 5 9 55.6 1 4 25.0 0 0 - 0 2 2 2 0 1 1 3 -11
+p2
+aVCharles Barkley HOU 05/29/1997 HOU vs. UTA L 39 20 5 13 38.5 0 1 0.0 10 13 76.9 2 5 7 5 1 1 5 3 -15
+p3
+aVSedale Threatt HOU 05/29/1997 HOU vs. UTA L 23 2 1 2 50.0 0 1 0.0 0 0 - 0 5 5 9 1 0 0 4 11
+p4
+aVEddie Johnson HOU 05/29/1997 HOU vs. UTA L 23 14 6 11 54.5 2 4 50.0 0 0 - 1 1 2 0 0 0 1 1 10
+p5
+aVMatt Maloney HOU 05/29/1997 HOU vs. UTA L 24 0 0 6 0.0 0 6 0.0 0 0 - 0 0 0 1 0 0 2 1 -14
+p6
+aVKevin Willis HOU 05/29/1997 HOU vs. UTA L 14 4 1 4 25.0 0 0 - 2 2 100.0 3 2 5 1 2 1 1 2 8
+p7
+aVHakeem Olajuwon HOU 05/29/1997 HOU vs. UTA L 42 16 8 12 66.7 0 0 - 0 0 - 2 9 11 6 2 6 3 2 1
+p8
+aVClyde Drexler HOU 05/29/1997 HOU vs. UTA L 38 33 10 15 66.7 5 7 71.4 8 8 100.0 0 3 3 3 0 0 2 2 -5
+p9
+aVEddie Johnson HOU 05/27/1997 HOU @ UTA L 20 4 2 7 28.6 0 4 0.0 0 1 0.0 0 1 1 0 0 0 0 1 2
+p10
+aVOthella Harrington HOU 05/27/1997 HOU @ UTA L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p11
+aVCharles Barkley HOU 05/27/1997 HOU @ UTA L 39 10 3 6 50.0 2 3 66.7 2 4 50.0 2 5 7 5 1 0 3 4 -6
+p12
+aVMario Elie HOU 05/27/1997 HOU @ UTA L 39 6 1 6 16.7 0 4 0.0 4 5 80.0 0 6 6 2 1 0 1 2 -13
+p13
+aVSedale Threatt HOU 05/27/1997 HOU @ UTA L 13 9 3 5 60.0 1 2 50.0 2 2 100.0 1 1 2 2 0 0 1 3 -5
+p14
+aVKevin Willis HOU 05/27/1997 HOU @ UTA L 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 1 4 6
+p15
+aVMatt Maloney HOU 05/27/1997 HOU @ UTA L 34 14 5 9 55.6 4 6 66.7 0 0 - 0 0 0 2 1 1 2 3 0
+p16
+aVClyde Drexler HOU 05/27/1997 HOU @ UTA L 36 15 5 15 33.3 0 5 0.0 5 6 83.3 1 2 3 1 4 1 1 4 1
+p17
+aVHakeem Olajuwon HOU 05/27/1997 HOU @ UTA L 42 33 11 18 61.1 0 0 - 11 13 84.6 4 6 10 3 3 1 5 3 -8
+p18
+aVEddie Johnson HOU 05/25/1997 HOU vs. UTA W 24 7 2 5 40.0 2 3 66.7 1 1 100.0 1 1 2 0 0 0 0 1 1
+p19
+aVKevin Willis HOU 05/25/1997 HOU vs. UTA W 16 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 2 1 1 2 4
+p20
+aVMatt Maloney HOU 05/25/1997 HOU vs. UTA W 33 8 3 8 37.5 2 6 33.3 0 0 - 0 1 1 6 0 0 1 1 -1
+p21
+aVHakeem Olajuwon HOU 05/25/1997 HOU vs. UTA W 38 27 9 18 50.0 0 0 - 9 12 75.0 0 10 10 4 3 4 4 5 1
+p22
+aVSedale Threatt HOU 05/25/1997 HOU vs. UTA W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 4
+p23
+aVClyde Drexler HOU 05/25/1997 HOU vs. UTA W 41 16 6 15 40.0 1 4 25.0 3 4 75.0 2 1 3 4 1 1 1 3 7
+p24
+aVMario Elie HOU 05/25/1997 HOU vs. UTA W 30 11 5 10 50.0 1 5 20.0 0 0 - 1 5 6 1 1 0 2 6 -2
+p25
+aVCharles Barkley HOU 05/25/1997 HOU vs. UTA W 40 20 5 11 45.5 0 1 0.0 10 11 90.9 4 12 16 3 0 0 3 3 1
+p26
+aVHakeem Olajuwon HOU 05/23/1997 HOU vs. UTA W 37 27 12 19 63.2 0 0 - 3 5 60.0 3 4 7 4 2 3 2 2 3
+p27
+aVClyde Drexler HOU 05/23/1997 HOU vs. UTA W 36 15 5 9 55.6 3 6 50.0 2 2 100.0 0 4 4 6 2 1 3 3 12
+p28
+aVSedale Threatt HOU 05/23/1997 HOU vs. UTA W 18 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 6 0 0 1 2 4
+p29
+aVCharles Barkley HOU 05/23/1997 HOU vs. UTA W 43 19 6 11 54.5 1 2 50.0 6 6 100.0 4 12 16 4 1 1 5 4 26
+p30
+aVEddie Johnson HOU 05/23/1997 HOU vs. UTA W 27 31 12 17 70.6 5 8 62.5 2 2 100.0 0 2 2 0 1 0 0 3 26
+p31
+aVKevin Willis HOU 05/23/1997 HOU vs. UTA W 15 10 4 6 66.7 0 0 - 2 3 66.7 2 2 4 0 0 0 2 4 7
+p32
+aVMatt Maloney HOU 05/23/1997 HOU vs. UTA W 30 3 1 6 16.7 1 5 20.0 0 0 - 0 1 1 6 1 1 2 3 14
+p33
+aVMario Elie HOU 05/23/1997 HOU vs. UTA W 32 7 2 3 66.7 0 1 0.0 3 4 75.0 1 2 3 2 1 0 0 1 -2
+p34
+aVClyde Drexler HOU 05/21/1997 HOU @ UTA L 44 15 6 18 33.3 3 6 50.0 0 0 - 0 8 8 4 0 1 1 3 -7
+p35
+aVMatt Maloney HOU 05/21/1997 HOU @ UTA L 36 8 2 9 22.2 1 3 33.3 3 3 100.0 0 1 1 3 1 0 3 3 9
+p36
+aVSedale Threatt HOU 05/21/1997 HOU @ UTA L 11 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -21
+p37
+aVEddie Johnson HOU 05/21/1997 HOU @ UTA L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p38
+aVHakeem Olajuwon HOU 05/21/1997 HOU @ UTA L 38 30 12 22 54.5 0 0 - 6 9 66.7 2 3 5 1 1 5 1 4 -1
+p39
+aVOthella Harrington HOU 05/21/1997 HOU @ UTA L 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 5
+p40
+aVKevin Willis HOU 05/21/1997 HOU @ UTA L 22 6 2 7 28.6 0 0 - 2 2 100.0 4 3 7 0 0 0 1 4 -12
+p41
+aVMario Elie HOU 05/21/1997 HOU @ UTA L 44 12 2 8 25.0 1 4 25.0 7 8 87.5 3 0 3 3 2 0 1 2 -10
+p42
+aVCharles Barkley HOU 05/21/1997 HOU @ UTA L 33 16 5 12 41.7 0 2 0.0 6 10 60.0 5 7 12 2 2 0 0 6 -16
+p43
+aVMatt Bullard HOU 05/19/1997 HOU @ UTA L 3 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 0 0 4
+p44
+aVCharles Barkley HOU 05/19/1997 HOU @ UTA L 36 12 3 10 30.0 0 2 0.0 6 6 100.0 1 7 8 4 0 1 1 3 -10
+p45
+aVHakeem Olajuwon HOU 05/19/1997 HOU @ UTA L 36 30 9 14 64.3 0 0 - 12 17 70.6 4 9 13 5 1 1 4 3 -19
+p46
+aVSedale Threatt HOU 05/19/1997 HOU @ UTA L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -5
+p47
+aVClyde Drexler HOU 05/19/1997 HOU @ UTA L 35 13 5 13 38.5 3 8 37.5 0 0 - 2 1 3 1 0 0 3 2 -22
+p48
+aVRandy Livingston HOU 05/19/1997 HOU @ UTA L 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 4
+p49
+aVEddie Johnson HOU 05/19/1997 HOU @ UTA L 19 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 0 2 -4
+p50
+aVKevin Willis HOU 05/19/1997 HOU @ UTA L 18 3 1 4 25.0 0 0 - 1 2 50.0 1 4 5 0 0 0 3 4 -2
+p51
+aVMario Elie HOU 05/19/1997 HOU @ UTA L 36 10 2 9 22.2 1 4 25.0 5 5 100.0 0 5 5 4 0 1 6 3 -8
+p52
+aVMatt Maloney HOU 05/19/1997 HOU @ UTA L 30 6 2 9 22.2 1 7 14.3 1 2 50.0 0 1 1 1 1 1 1 3 -14
+p53
+aVOthella Harrington HOU 05/19/1997 HOU @ UTA L 4 2 1 2 50.0 0 0 - 0 2 0.0 1 2 3 0 0 0 0 0 1
+p54
+aVKevin Willis HOU 05/17/1997 HOU vs. SEA W 11 2 1 4 25.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 3
+p55
+aVSedale Threatt HOU 05/17/1997 HOU vs. SEA W 19 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 1 2 0 2 0 7
+p56
+aVHakeem Olajuwon HOU 05/17/1997 HOU vs. SEA W 40 22 11 19 57.9 0 0 - 0 3 0.0 4 9 13 1 4 0 1 5 2
+p57
+aVMario Elie HOU 05/17/1997 HOU vs. SEA W 37 9 2 5 40.0 1 4 25.0 4 4 100.0 0 0 0 11 0 0 2 5 -1
+p58
+aVCharles Barkley HOU 05/17/1997 HOU vs. SEA W 43 20 7 13 53.8 0 1 0.0 6 6 100.0 5 9 14 1 1 0 4 3 5
+p59
+aVMatt Maloney HOU 05/17/1997 HOU vs. SEA W 36 15 5 11 45.5 3 8 37.5 2 4 50.0 0 3 3 2 1 0 3 2 4
+p60
+aVClyde Drexler HOU 05/17/1997 HOU vs. SEA W 42 24 9 19 47.4 2 8 25.0 4 7 57.1 3 5 8 8 2 0 5 4 5
+p61
+aVEddie Johnson HOU 05/17/1997 HOU vs. SEA W 7 4 2 6 33.3 0 2 0.0 0 0 - 1 1 2 0 0 0 0 3 0
+p62
+aVClyde Drexler HOU 05/15/1997 HOU @ SEA L 42 9 3 14 21.4 1 8 12.5 2 2 100.0 3 6 9 6 1 0 2 2 -7
+p63
+aVCharles Barkley HOU 05/15/1997 HOU @ SEA L 39 20 7 17 41.2 1 3 33.3 5 7 71.4 4 8 12 5 2 0 4 4 -8
+p64
+aVSedale Threatt HOU 05/15/1997 HOU @ SEA L 23 7 2 5 40.0 1 2 50.0 2 2 100.0 0 1 1 3 0 0 2 4 8
+p65
+aVKevin Willis HOU 05/15/1997 HOU @ SEA L 15 8 2 7 28.6 0 0 - 4 4 100.0 2 1 3 1 1 1 3 4 3
+p66
+aVHakeem Olajuwon HOU 05/15/1997 HOU @ SEA L 41 30 12 21 57.1 0 1 0.0 6 7 85.7 3 8 11 1 1 4 4 5 -1
+p67
+aVMario Elie HOU 05/15/1997 HOU @ SEA L 41 18 7 9 77.8 2 3 66.7 2 3 66.7 3 0 3 3 1 0 2 6 -5
+p68
+aVEddie Johnson HOU 05/15/1997 HOU @ SEA L 9 0 0 3 0.0 0 2 0.0 0 0 - 2 2 4 0 0 0 1 0 3
+p69
+aVMatt Maloney HOU 05/15/1997 HOU @ SEA L 26 4 1 5 20.0 1 4 25.0 1 2 50.0 1 0 1 2 1 0 3 1 -8
+p70
+aVMatt Maloney HOU 05/13/1997 HOU vs. SEA L 26 2 1 7 14.3 0 6 0.0 0 0 - 0 1 1 2 0 0 4 3 -14
+p71
+aVKevin Willis HOU 05/13/1997 HOU vs. SEA L 14 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 4 5
+p72
+aVHakeem Olajuwon HOU 05/13/1997 HOU vs. SEA L 42 31 12 18 66.7 0 1 0.0 7 10 70.0 4 12 16 3 2 0 2 3 -6
+p73
+aVClyde Drexler HOU 05/13/1997 HOU vs. SEA L 42 26 9 16 56.3 3 7 42.9 5 8 62.5 4 1 5 1 3 0 3 4 -5
+p74
+aVMario Elie HOU 05/13/1997 HOU vs. SEA L 37 2 0 8 0.0 0 5 0.0 2 3 66.7 2 0 2 6 0 1 0 2 -9
+p75
+aVSedale Threatt HOU 05/13/1997 HOU vs. SEA L 21 0 0 3 0.0 0 1 0.0 0 0 - 0 0 0 3 1 0 0 5 8
+p76
+aVEddie Johnson HOU 05/13/1997 HOU vs. SEA L 16 15 2 5 40.0 2 3 66.7 9 9 100.0 1 1 2 0 0 0 0 0 2
+p77
+aVCharles Barkley HOU 05/13/1997 HOU vs. SEA L 38 17 6 18 33.3 0 4 0.0 5 6 83.3 9 11 20 1 3 0 1 2 -11
+p78
+aVMatt Maloney HOU 05/11/1997 HOU @ SEA W 48 26 9 19 47.4 8 13 61.5 0 0 - 0 1 1 6 0 0 4 2 7
+p79
+aVMario Elie HOU 05/11/1997 HOU @ SEA W 47 12 4 10 40.0 2 3 66.7 2 2 100.0 1 6 7 1 4 0 2 4 5
+p80
+aVCharles Barkley HOU 05/11/1997 HOU @ SEA W 39 26 9 19 47.4 1 4 25.0 7 10 70.0 7 8 15 2 2 0 2 3 2
+p81
+aVKevin Willis HOU 05/11/1997 HOU @ SEA W 23 12 4 12 33.3 0 1 0.0 4 5 80.0 3 7 10 1 0 0 1 4 5
+p82
+aVSedale Threatt HOU 05/11/1997 HOU @ SEA W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 0 -3
+p83
+aVEddie Johnson HOU 05/11/1997 HOU @ SEA W 12 7 3 5 60.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 -9
+p84
+aVOthella Harrington HOU 05/11/1997 HOU @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p85
+aVClyde Drexler HOU 05/11/1997 HOU @ SEA W 46 16 5 19 26.3 3 8 37.5 3 3 100.0 2 4 6 4 4 0 4 5 4
+p86
+aVHakeem Olajuwon HOU 05/11/1997 HOU @ SEA W 41 11 5 10 50.0 0 0 - 1 3 33.3 5 7 12 9 1 3 3 5 9
+p87
+aVHakeem Olajuwon HOU 05/09/1997 HOU @ SEA W 37 24 8 12 66.7 0 0 - 8 8 100.0 2 9 11 2 4 3 2 3 14
+p88
+aVSedale Threatt HOU 05/09/1997 HOU @ SEA W 17 8 3 5 60.0 0 2 0.0 2 2 100.0 0 0 0 5 0 0 1 3 3
+p89
+aVKevin Willis HOU 05/09/1997 HOU @ SEA W 20 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 1 0 0 2 -11
+p90
+aVCharles Barkley HOU 05/09/1997 HOU @ SEA W 37 11 2 11 18.2 0 2 0.0 7 8 87.5 4 13 17 3 1 1 0 3 5
+p91
+aVMatt Maloney HOU 05/09/1997 HOU @ SEA W 43 19 7 16 43.8 5 8 62.5 0 2 0.0 0 2 2 4 1 0 2 0 -2
+p92
+aVEddie Johnson HOU 05/09/1997 HOU @ SEA W 16 7 3 9 33.3 0 2 0.0 1 1 100.0 3 1 4 1 0 0 0 1 -23
+p93
+aVMario Elie HOU 05/09/1997 HOU @ SEA W 30 4 0 3 0.0 0 3 0.0 4 4 100.0 0 0 0 4 0 0 1 4 8
+p94
+aVClyde Drexler HOU 05/09/1997 HOU @ SEA W 35 19 8 16 50.0 2 4 50.0 1 2 50.0 1 4 5 2 0 0 4 5 26
+p95
+aVMario Elie HOU 05/07/1997 HOU vs. SEA L 34 8 2 4 50.0 2 3 66.7 2 5 40.0 2 1 3 3 3 0 6 6 2
+p96
+aVSedale Threatt HOU 05/07/1997 HOU vs. SEA L 26 3 1 5 20.0 1 5 20.0 0 2 0.0 1 4 5 6 0 1 1 4 -1
+p97
+aVHakeem Olajuwon HOU 05/07/1997 HOU vs. SEA L 39 19 7 15 46.7 0 0 - 5 6 83.3 4 8 12 2 1 0 4 4 0
+p98
+aVKevin Willis HOU 05/07/1997 HOU vs. SEA L 20 12 6 9 66.7 0 0 - 0 2 0.0 3 2 5 0 2 0 1 1 -3
+p99
+aVEddie Johnson HOU 05/07/1997 HOU vs. SEA L 18 8 1 6 16.7 0 2 0.0 6 6 100.0 0 2 2 1 1 0 0 0 -12
+p100
+aVCharles Barkley HOU 05/07/1997 HOU vs. SEA L 36 21 6 14 42.9 2 4 50.0 7 8 87.5 5 2 7 3 1 1 0 3 -7
+p101
+aVMatt Maloney HOU 05/07/1997 HOU vs. SEA L 21 5 2 8 25.0 1 7 14.3 0 0 - 0 0 0 2 0 0 4 2 -1
+p102
+aVClyde Drexler HOU 05/07/1997 HOU vs. SEA L 42 25 10 16 62.5 3 6 50.0 2 3 66.7 1 6 7 8 2 2 3 5 -3
+p103
+aVClyde Drexler HOU 05/05/1997 HOU vs. SEA W 35 22 8 15 53.3 3 6 50.0 3 4 75.0 2 7 9 5 3 0 0 0 14
+p104
+aVSedale Threatt HOU 05/05/1997 HOU vs. SEA W 18 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 5 1 1 1 2 -2
+p105
+aVCharles Barkley HOU 05/05/1997 HOU vs. SEA W 35 19 7 14 50.0 2 5 40.0 3 5 60.0 1 8 9 3 3 1 5 3 14
+p106
+aVKevin Willis HOU 05/05/1997 HOU vs. SEA W 18 6 3 7 42.9 0 0 - 0 0 - 0 4 4 0 0 1 1 4 3
+p107
+aVHakeem Olajuwon HOU 05/05/1997 HOU vs. SEA W 38 15 6 11 54.5 0 0 - 3 4 75.0 1 10 11 2 1 2 3 4 -2
+p108
+aVMatt Maloney HOU 05/05/1997 HOU vs. SEA W 36 17 6 10 60.0 4 8 50.0 1 1 100.0 0 1 1 4 0 0 4 2 2
+p109
+aVMario Elie HOU 05/05/1997 HOU vs. SEA W 36 20 7 8 87.5 5 5 100.0 1 1 100.0 1 3 4 8 0 1 2 0 27
+p110
+aVEddie Johnson HOU 05/05/1997 HOU vs. SEA W 17 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 3 1 0 1 1 -11
+p111
+aVOthella Harrington HOU 05/05/1997 HOU vs. SEA W 3 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 0 0 5
+p112
+aVMatt Maloney HOU 04/29/1997 HOU @ MIN W 38 26 9 11 81.8 6 8 75.0 2 3 66.7 0 2 2 2 2 0 1 3 10
+p113
+aVOthella Harrington HOU 04/29/1997 HOU @ MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p114
+aVKevin Willis HOU 04/29/1997 HOU @ MIN W 22 5 2 6 33.3 0 0 - 1 2 50.0 0 5 5 4 1 0 2 2 -12
+p115
+aVCharles Barkley HOU 04/29/1997 HOU @ MIN W 34 20 5 9 55.6 1 2 50.0 9 11 81.8 0 6 6 6 0 1 3 4 -1
+p116
+aVClyde Drexler HOU 04/29/1997 HOU @ MIN W 31 17 6 11 54.5 1 4 25.0 4 5 80.0 0 1 1 9 2 0 2 4 11
+p117
+aVSedale Threatt HOU 04/29/1997 HOU @ MIN W 9 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 0 -5
+p118
+aVMario Elie HOU 04/29/1997 HOU @ MIN W 43 21 6 8 75.0 4 5 80.0 5 7 71.4 1 3 4 3 1 0 1 3 11
+p119
+aVEddie Johnson HOU 04/29/1997 HOU @ MIN W 21 12 5 9 55.6 2 6 33.3 0 0 - 1 1 2 2 0 0 1 0 -12
+p120
+aVHakeem Olajuwon HOU 04/29/1997 HOU @ MIN W 38 19 9 15 60.0 0 0 - 1 2 50.0 2 9 11 5 2 3 1 4 23
+p121
+aVKevin Willis HOU 04/26/1997 HOU vs. MIN W 18 9 3 8 37.5 0 0 - 3 4 75.0 0 1 1 1 0 0 3 2 -13
+p122
+aVEddie Johnson HOU 04/26/1997 HOU vs. MIN W 17 0 0 6 0.0 0 2 0.0 0 0 - 1 4 5 1 1 0 2 2 -9
+p123
+aVMatt Maloney HOU 04/26/1997 HOU vs. MIN W 31 12 3 8 37.5 2 6 33.3 4 4 100.0 0 3 3 1 1 0 2 0 23
+p124
+aVSedale Threatt HOU 04/26/1997 HOU vs. MIN W 16 8 3 6 50.0 2 5 40.0 0 0 - 0 1 1 2 1 1 0 1 -11
+p125
+aVHakeem Olajuwon HOU 04/26/1997 HOU vs. MIN W 40 18 9 12 75.0 0 1 0.0 0 0 - 1 9 10 5 4 4 3 5 16
+p126
+aVMario Elie HOU 04/26/1997 HOU vs. MIN W 37 12 2 3 66.7 0 0 - 8 8 100.0 1 3 4 4 0 0 1 3 21
+p127
+aVClyde Drexler HOU 04/26/1997 HOU vs. MIN W 40 17 6 17 35.3 5 11 45.5 0 0 - 2 3 5 7 2 1 1 5 12
+p128
+aVCharles Barkley HOU 04/26/1997 HOU vs. MIN W 37 20 6 13 46.2 0 1 0.0 8 13 61.5 8 7 15 5 1 0 5 1 21
+p129
+aVMatt Bullard HOU 04/24/1997 HOU vs. MIN W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p130
+aVOthella Harrington HOU 04/24/1997 HOU vs. MIN W 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -4
+p131
+aVCharles Jones HOU 04/24/1997 HOU vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p132
+aVHakeem Olajuwon HOU 04/24/1997 HOU vs. MIN W 34 18 7 13 53.8 0 0 - 4 5 80.0 5 6 11 1 1 2 4 4 9
+p133
+aVCharles Barkley HOU 04/24/1997 HOU vs. MIN W 31 15 4 7 57.1 1 1 100.0 6 10 60.0 3 8 11 2 0 0 2 3 25
+p134
+aVEddie Johnson HOU 04/24/1997 HOU vs. MIN W 25 13 5 15 33.3 0 5 0.0 3 3 100.0 3 2 5 2 0 0 1 2 2
+p135
+aVSedale Threatt HOU 04/24/1997 HOU vs. MIN W 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 7
+p136
+aVRandy Livingston HOU 04/24/1997 HOU vs. MIN W 10 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 2 0 0 1 1 3
+p137
+aVMatt Maloney HOU 04/24/1997 HOU vs. MIN W 29 14 5 11 45.5 4 7 57.1 0 0 - 0 1 1 6 0 0 0 2 12
+p138
+aVMario Elie HOU 04/24/1997 HOU vs. MIN W 33 21 7 13 53.8 4 7 57.1 3 3 100.0 3 1 4 4 0 0 2 2 10
+p139
+aVClyde Drexler HOU 04/24/1997 HOU vs. MIN W 32 8 4 13 30.8 0 4 0.0 0 0 - 2 8 10 8 0 0 1 1 21
+p140
+aVKevin Willis HOU 04/24/1997 HOU vs. MIN W 25 15 5 9 55.6 0 0 - 5 8 62.5 0 13 13 1 0 0 1 2 4
+p141
+a.

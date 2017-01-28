@@ -1,0 +1,1574 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMatt Geiger MIA 04/23/1994 MIA @ IND L 18 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 -
+p2
+aVWillie Burton MIA 04/23/1994 MIA @ IND L 24 9 1 10 10.0 0 2 0.0 7 10 70.0 2 2 4 0 1 0 1 1 -
+p3
+aVRony Seikaly MIA 04/23/1994 MIA @ IND L 38 17 7 12 58.3 0 0 - 3 3 100.0 7 8 15 3 3 1 1 3 -
+p4
+aVBimbo Coles MIA 04/23/1994 MIA @ IND L 30 12 5 10 50.0 0 2 0.0 2 3 66.7 1 3 4 5 0 0 2 0 -
+p5
+aVJohn Salley MIA 04/23/1994 MIA @ IND L 27 10 4 7 57.1 0 0 - 2 2 100.0 2 2 4 3 0 0 3 2 -
+p6
+aVGrant Long MIA 04/23/1994 MIA @ IND L 13 1 0 4 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 4 -
+p7
+aVGlen Rice MIA 04/23/1994 MIA @ IND L 24 8 3 11 27.3 0 3 0.0 2 2 100.0 0 1 1 1 1 0 1 2 -
+p8
+aVHarold Miner MIA 04/23/1994 MIA @ IND L 27 8 4 10 40.0 0 0 - 0 0 - 0 1 1 2 3 0 3 2 -
+p9
+aVSteven Smith MIA 04/23/1994 MIA @ IND L 21 6 1 5 20.0 1 1 100.0 3 3 100.0 0 1 1 1 1 0 3 4 -
+p10
+aVBrian Shaw MIA 04/23/1994 MIA @ IND L 18 4 2 6 33.3 0 0 - 0 0 - 0 2 2 3 0 0 2 1 -
+p11
+aVRony Seikaly MIA 04/21/1994 MIA vs. ATL W 21 4 2 5 40.0 0 0 - 0 0 - 2 4 6 2 1 1 2 2 -
+p12
+aVWillie Burton MIA 04/21/1994 MIA vs. ATL W 14 3 1 3 33.3 0 0 - 1 2 50.0 1 10 11 0 0 0 1 1 -
+p13
+aVSteven Smith MIA 04/21/1994 MIA vs. ATL W 28 16 7 14 50.0 2 5 40.0 0 0 - 7 2 9 3 0 1 3 2 -
+p14
+aVJohn Salley MIA 04/21/1994 MIA vs. ATL W 39 10 2 8 25.0 0 0 - 6 6 100.0 1 4 5 2 1 1 0 3 -
+p15
+aVHarold Miner MIA 04/21/1994 MIA vs. ATL W 20 9 2 5 40.0 0 0 - 5 6 83.3 0 0 0 0 0 1 1 2 -
+p16
+aVGrant Long MIA 04/21/1994 MIA vs. ATL W 35 12 5 8 62.5 0 0 - 2 2 100.0 0 6 6 1 0 0 2 3 -
+p17
+aVGlen Rice MIA 04/21/1994 MIA vs. ATL W 33 21 7 15 46.7 4 6 66.7 3 4 75.0 1 4 5 3 3 0 8 3 -
+p18
+aVBrian Shaw MIA 04/21/1994 MIA vs. ATL W 22 9 4 8 50.0 1 4 25.0 0 0 - 1 1 2 8 1 0 1 4 -
+p19
+aVBimbo Coles MIA 04/21/1994 MIA vs. ATL W 28 10 4 9 44.4 0 1 0.0 2 2 100.0 0 3 3 2 1 0 3 0 -
+p20
+aVGlen Rice MIA 04/19/1994 MIA vs. MIN W 30 32 13 20 65.0 4 6 66.7 2 3 66.7 3 7 10 2 1 3 0 2 -
+p21
+aVBimbo Coles MIA 04/19/1994 MIA vs. MIN W 25 16 6 10 60.0 0 0 - 4 4 100.0 2 0 2 2 0 1 0 3 -
+p22
+aVSteven Smith MIA 04/19/1994 MIA vs. MIN W 28 12 4 6 66.7 0 2 0.0 4 7 57.1 2 3 5 2 0 2 2 1 -
+p23
+aVHarold Miner MIA 04/19/1994 MIA vs. MIN W 14 8 3 7 42.9 0 0 - 2 2 100.0 2 3 5 2 0 2 0 1 -
+p24
+aVRony Seikaly MIA 04/19/1994 MIA vs. MIN W 27 10 3 8 37.5 0 0 - 4 6 66.7 4 6 10 1 2 0 2 5 -
+p25
+aVJohn Salley MIA 04/19/1994 MIA vs. MIN W 26 16 5 6 83.3 0 0 - 6 8 75.0 2 4 6 4 2 1 1 4 -
+p26
+aVGrant Long MIA 04/19/1994 MIA vs. MIN W 37 6 3 13 23.1 0 0 - 0 0 - 2 5 7 5 2 1 4 3 -
+p27
+aVBrian Shaw MIA 04/19/1994 MIA vs. MIN W 29 12 5 7 71.4 2 3 66.7 0 0 - 2 1 3 5 2 0 2 2 -
+p28
+aVWillie Burton MIA 04/19/1994 MIA vs. MIN W 17 14 4 12 33.3 0 0 - 6 8 75.0 2 5 7 2 0 2 2 1 -
+p29
+aVKeith Askins MIA 04/19/1994 MIA vs. MIN W 7 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 1 0 1 0 -
+p30
+aVHarold Miner MIA 04/17/1994 MIA vs. NJN L 7 0 0 2 0.0 0 0 - 0 0 - 2 1 3 2 0 0 1 2 -
+p31
+aVBrian Shaw MIA 04/17/1994 MIA vs. NJN L 23 11 4 13 30.8 0 4 0.0 3 3 100.0 2 2 4 4 1 0 1 1 -
+p32
+aVJohn Salley MIA 04/17/1994 MIA vs. NJN L 37 19 7 10 70.0 1 1 100.0 4 6 66.7 1 4 5 0 1 0 1 4 -
+p33
+aVBimbo Coles MIA 04/17/1994 MIA vs. NJN L 30 16 5 8 62.5 0 1 0.0 6 7 85.7 0 0 0 7 1 0 3 2 -
+p34
+aVGrant Long MIA 04/17/1994 MIA vs. NJN L 39 6 3 6 50.0 0 0 - 0 0 - 5 2 7 0 1 0 1 3 -
+p35
+aVRony Seikaly MIA 04/17/1994 MIA vs. NJN L 24 16 7 15 46.7 0 0 - 2 3 66.7 1 7 8 1 0 2 0 4 -
+p36
+aVSteven Smith MIA 04/17/1994 MIA vs. NJN L 36 19 5 12 41.7 0 2 0.0 9 9 100.0 1 3 4 7 1 0 0 6 -
+p37
+aVGlen Rice MIA 04/17/1994 MIA vs. NJN L 44 16 6 16 37.5 0 2 0.0 4 6 66.7 1 9 10 2 1 0 3 3 -
+p38
+aVSteven Smith MIA 04/15/1994 MIA @ CLE L 38 27 7 13 53.8 3 5 60.0 10 12 83.3 6 3 9 5 0 0 3 0 -
+p39
+aVJohn Salley MIA 04/15/1994 MIA @ CLE L 27 10 4 12 33.3 0 0 - 2 2 100.0 1 3 4 2 0 1 2 5 -
+p40
+aVBrian Shaw MIA 04/15/1994 MIA @ CLE L 22 8 3 7 42.9 2 2 100.0 0 0 - 3 0 3 2 1 0 3 4 -
+p41
+aVHarold Miner MIA 04/15/1994 MIA @ CLE L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 -
+p42
+aVRony Seikaly MIA 04/15/1994 MIA @ CLE L 17 5 2 5 40.0 0 0 - 1 3 33.3 1 0 1 1 2 1 3 3 -
+p43
+aVGrant Long MIA 04/15/1994 MIA @ CLE L 40 12 5 14 35.7 0 0 - 2 2 100.0 4 3 7 5 2 0 2 6 -
+p44
+aVGlen Rice MIA 04/15/1994 MIA @ CLE L 44 19 6 19 31.6 3 5 60.0 4 4 100.0 0 13 13 2 1 0 2 3 -
+p45
+aVMatt Geiger MIA 04/15/1994 MIA @ CLE L 12 5 1 1 100.0 0 0 - 3 6 50.0 1 2 3 1 0 0 0 5 -
+p46
+aVBimbo Coles MIA 04/15/1994 MIA @ CLE L 30 10 5 11 45.5 0 0 - 0 0 - 1 2 3 4 2 0 2 0 -
+p47
+aVWillie Burton MIA 04/15/1994 MIA @ CLE L 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -
+p48
+aVKeith Askins MIA 04/13/1994 MIA vs. CHI L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p49
+aVRony Seikaly MIA 04/13/1994 MIA vs. CHI L 20 8 3 8 37.5 0 0 - 2 3 66.7 0 6 6 2 0 1 0 1 -
+p50
+aVJohn Salley MIA 04/13/1994 MIA vs. CHI L 45 16 6 11 54.5 0 0 - 4 4 100.0 2 6 8 2 2 1 2 4 -
+p51
+aVBimbo Coles MIA 04/13/1994 MIA vs. CHI L 33 12 4 9 44.4 0 1 0.0 4 4 100.0 0 3 3 4 1 0 1 1 -
+p52
+aVGrant Long MIA 04/13/1994 MIA vs. CHI L 33 12 4 12 33.3 0 0 - 4 4 100.0 5 3 8 1 0 1 1 4 -
+p53
+aVHarold Miner MIA 04/13/1994 MIA vs. CHI L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -
+p54
+aVSteven Smith MIA 04/13/1994 MIA vs. CHI L 27 16 6 9 66.7 1 1 100.0 3 4 75.0 3 2 5 2 0 0 6 5 -
+p55
+aVGlen Rice MIA 04/13/1994 MIA vs. CHI L 43 16 6 22 27.3 1 8 12.5 3 3 100.0 1 4 5 2 4 0 2 3 -
+p56
+aVBrian Shaw MIA 04/13/1994 MIA vs. CHI L 29 8 3 10 30.0 2 5 40.0 0 0 - 3 3 6 5 2 0 2 1 -
+p57
+aVBimbo Coles MIA 04/11/1994 MIA @ CHH L 25 8 4 10 40.0 0 2 0.0 0 0 - 1 0 1 0 0 0 2 1 -
+p58
+aVMatt Geiger MIA 04/11/1994 MIA @ CHH L 10 6 3 4 75.0 0 0 - 0 0 - 0 2 2 0 0 0 0 4 -
+p59
+aVKeith Askins MIA 04/11/1994 MIA @ CHH L 4 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -
+p60
+aVGrant Long MIA 04/11/1994 MIA @ CHH L 40 15 6 13 46.2 0 0 - 3 3 100.0 4 6 10 6 2 0 5 4 -
+p61
+aVGlen Rice MIA 04/11/1994 MIA @ CHH L 40 19 7 16 43.8 4 11 36.4 1 2 50.0 0 2 2 5 2 0 3 4 -
+p62
+aVSteven Smith MIA 04/11/1994 MIA @ CHH L 43 16 6 21 28.6 0 3 0.0 4 6 66.7 4 1 5 3 0 0 1 4 -
+p63
+aVBrian Shaw MIA 04/11/1994 MIA @ CHH L 32 10 4 10 40.0 2 5 40.0 0 0 - 2 5 7 7 1 0 4 2 -
+p64
+aVJohn Salley MIA 04/11/1994 MIA @ CHH L 46 21 10 17 58.8 1 1 100.0 0 0 - 5 6 11 3 1 3 2 4 -
+p65
+aVGrant Long MIA 04/09/1994 MIA vs. ORL L 39 6 2 8 25.0 0 0 - 2 6 33.3 5 11 16 5 1 1 2 4 -
+p66
+aVKeith Askins MIA 04/09/1994 MIA vs. ORL L 9 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 1 4 -
+p67
+aVBrian Shaw MIA 04/09/1994 MIA vs. ORL L 25 10 4 9 44.4 2 6 33.3 0 1 0.0 1 3 4 2 2 1 2 5 -
+p68
+aVSteven Smith MIA 04/09/1994 MIA vs. ORL L 40 21 10 18 55.6 0 5 0.0 1 2 50.0 2 3 5 4 3 1 3 2 -
+p69
+aVHarold Miner MIA 04/09/1994 MIA vs. ORL L 15 7 2 7 28.6 0 0 - 3 3 100.0 0 0 0 1 0 1 0 2 -
+p70
+aVMatt Geiger MIA 04/09/1994 MIA vs. ORL L 16 6 1 3 33.3 0 0 - 4 4 100.0 2 1 3 1 0 1 0 4 -
+p71
+aVGlen Rice MIA 04/09/1994 MIA vs. ORL L 39 31 14 26 53.8 1 7 14.3 2 2 100.0 3 5 8 4 0 1 0 3 -
+p72
+aVBimbo Coles MIA 04/09/1994 MIA vs. ORL L 16 5 2 5 40.0 0 0 - 1 2 50.0 1 0 1 0 0 0 3 1 -
+p73
+aVJohn Salley MIA 04/09/1994 MIA vs. ORL L 41 19 8 14 57.1 0 0 - 3 6 50.0 3 4 7 3 2 3 2 6 -
+p74
+aVBrian Shaw MIA 04/06/1994 MIA @ WAS W 22 8 3 7 42.9 1 2 50.0 1 2 50.0 0 3 3 1 1 0 2 3 -
+p75
+aVKeith Askins MIA 04/06/1994 MIA @ WAS W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -
+p76
+aVGrant Long MIA 04/06/1994 MIA @ WAS W 29 17 7 11 63.6 0 0 - 3 4 75.0 6 2 8 1 0 0 3 4 -
+p77
+aVGlen Rice MIA 04/06/1994 MIA @ WAS W 39 21 10 20 50.0 1 3 33.3 0 0 - 3 7 10 5 0 1 2 3 -
+p78
+aVHarold Miner MIA 04/06/1994 MIA @ WAS W 8 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 1 0 1 0 -
+p79
+aVJohn Salley MIA 04/06/1994 MIA @ WAS W 37 16 7 11 63.6 0 0 - 2 3 66.7 0 4 4 3 2 1 0 5 -
+p80
+aVMatt Geiger MIA 04/06/1994 MIA @ WAS W 30 12 5 8 62.5 0 0 - 2 2 100.0 2 7 9 2 1 1 2 5 -
+p81
+aVBimbo Coles MIA 04/06/1994 MIA @ WAS W 26 10 4 5 80.0 0 0 - 2 3 66.7 1 2 3 3 4 0 0 4 -
+p82
+aVSteven Smith MIA 04/06/1994 MIA @ WAS W 40 26 9 16 56.3 0 2 0.0 8 9 88.9 3 2 5 6 2 0 5 3 -
+p83
+aVGlen Rice MIA 04/05/1994 MIA vs. NYK W 35 11 3 12 25.0 0 1 0.0 5 5 100.0 3 4 7 1 2 1 3 3 -
+p84
+aVBrian Shaw MIA 04/05/1994 MIA vs. NYK W 22 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 6 1 0 2 0 -
+p85
+aVJohn Salley MIA 04/05/1994 MIA vs. NYK W 36 15 6 15 40.0 0 0 - 3 5 60.0 2 4 6 1 2 1 0 5 -
+p86
+aVGrant Long MIA 04/05/1994 MIA vs. NYK W 42 15 7 15 46.7 0 0 - 1 1 100.0 6 11 17 1 0 0 3 4 -
+p87
+aVKeith Askins MIA 04/05/1994 MIA vs. NYK W 16 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 1 0 2 5 -
+p88
+aVMatt Geiger MIA 04/05/1994 MIA vs. NYK W 14 2 1 4 25.0 0 0 - 0 0 - 2 6 8 0 0 0 3 5 -
+p89
+aVSteven Smith MIA 04/05/1994 MIA vs. NYK W 29 20 4 10 40.0 0 1 0.0 12 15 80.0 2 4 6 3 0 1 3 3 -
+p90
+aVBimbo Coles MIA 04/05/1994 MIA vs. NYK W 22 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 5 0 1 2 0 -
+p91
+aVHarold Miner MIA 04/05/1994 MIA vs. NYK W 24 22 6 8 75.0 1 1 100.0 9 10 90.0 2 3 5 1 0 0 1 3 -
+p92
+aVAlec Kessler MIA 04/02/1994 MIA @ NYK L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 1 0 0 3 -
+p93
+aVSteven Smith MIA 04/02/1994 MIA @ NYK L 26 6 2 6 33.3 0 2 0.0 2 2 100.0 1 2 3 1 2 1 4 4 -
+p94
+aVMatt Geiger MIA 04/02/1994 MIA @ NYK L 20 8 4 6 66.7 0 0 - 0 0 - 0 5 5 0 1 0 3 4 -
+p95
+aVHarold Miner MIA 04/02/1994 MIA @ NYK L 29 15 4 8 50.0 0 0 - 7 9 77.8 0 3 3 1 1 0 4 2 -
+p96
+aVKeith Askins MIA 04/02/1994 MIA @ NYK L 28 13 4 7 57.1 1 1 100.0 4 4 100.0 3 4 7 2 1 0 2 5 -
+p97
+aVBrian Shaw MIA 04/02/1994 MIA @ NYK L 23 5 2 8 25.0 1 4 25.0 0 0 - 0 3 3 3 2 0 3 2 -
+p98
+aVGrant Long MIA 04/02/1994 MIA @ NYK L 31 12 4 17 23.5 0 0 - 4 6 66.7 3 7 10 2 0 0 2 4 -
+p99
+aVJohn Salley MIA 04/02/1994 MIA @ NYK L 32 14 7 11 63.6 0 0 - 0 0 - 2 3 5 1 0 0 2 2 -
+p100
+aVWillie Burton MIA 04/02/1994 MIA @ NYK L 16 4 2 6 33.3 0 0 - 0 1 0.0 1 2 3 2 1 0 1 2 -
+p101
+aVBimbo Coles MIA 04/02/1994 MIA @ NYK L 26 8 3 7 42.9 0 3 0.0 2 2 100.0 0 1 1 2 1 0 4 2 -
+p102
+aVGlen Rice MIA 04/01/1994 MIA vs. IND W 36 17 7 18 38.9 2 4 50.0 1 1 100.0 1 7 8 2 0 0 1 2 -
+p103
+aVBimbo Coles MIA 04/01/1994 MIA vs. IND W 24 12 5 8 62.5 0 1 0.0 2 2 100.0 4 4 8 5 2 0 2 2 -
+p104
+aVGrant Long MIA 04/01/1994 MIA vs. IND W 36 10 4 10 40.0 0 0 - 2 3 66.7 1 5 6 2 1 0 1 3 -
+p105
+aVMatt Geiger MIA 04/01/1994 MIA vs. IND W 19 8 3 5 60.0 0 0 - 2 2 100.0 1 3 4 0 1 0 0 5 -
+p106
+aVSteven Smith MIA 04/01/1994 MIA vs. IND W 29 16 5 11 45.5 1 1 100.0 5 6 83.3 1 0 1 0 1 0 3 3 -
+p107
+aVJohn Salley MIA 04/01/1994 MIA vs. IND W 40 17 7 12 58.3 0 0 - 3 4 75.0 3 7 10 4 1 0 1 4 -
+p108
+aVBrian Shaw MIA 04/01/1994 MIA vs. IND W 24 4 2 7 28.6 0 2 0.0 0 0 - 2 2 4 4 0 0 1 1 -
+p109
+aVKeith Askins MIA 04/01/1994 MIA vs. IND W 12 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 2 1 0 1 2 -
+p110
+aVHarold Miner MIA 04/01/1994 MIA vs. IND W 20 15 7 13 53.8 1 1 100.0 0 0 - 0 1 1 1 1 0 3 2 -
+p111
+aVGlen Rice MIA 03/30/1994 MIA @ NJN L 38 21 9 24 37.5 2 5 40.0 1 2 50.0 1 7 8 1 1 2 2 4 -
+p112
+aVGrant Long MIA 03/30/1994 MIA @ NJN L 43 12 5 15 33.3 0 1 0.0 2 2 100.0 4 5 9 4 0 3 2 5 -
+p113
+aVSteven Smith MIA 03/30/1994 MIA @ NJN L 43 19 8 16 50.0 1 4 25.0 2 3 66.7 0 0 0 6 1 0 0 1 -
+p114
+aVHarold Miner MIA 03/30/1994 MIA @ NJN L 7 14 6 7 85.7 0 0 - 2 2 100.0 0 0 0 1 0 0 0 3 -
+p115
+aVMatt Geiger MIA 03/30/1994 MIA @ NJN L 28 8 4 5 80.0 0 0 - 0 0 - 0 4 4 0 2 1 0 5 -
+p116
+aVWillie Burton MIA 03/30/1994 MIA @ NJN L 8 0 0 3 0.0 0 0 - 0 0 - 0 2 2 2 2 1 2 1 -
+p117
+aVBimbo Coles MIA 03/30/1994 MIA @ NJN L 19 2 1 4 25.0 0 0 - 0 0 - 1 0 1 4 1 0 1 0 -
+p118
+aVJohn Salley MIA 03/30/1994 MIA @ NJN L 25 16 6 8 75.0 0 0 - 4 6 66.7 1 2 3 1 0 3 3 6 -
+p119
+aVBrian Shaw MIA 03/30/1994 MIA @ NJN L 29 9 3 9 33.3 0 2 0.0 3 3 100.0 2 5 7 2 0 0 2 3 -
+p120
+aVGrant Long MIA 03/29/1994 MIA vs. DET L 37 14 6 13 46.2 0 0 - 2 2 100.0 3 4 7 4 2 0 1 2 -
+p121
+aVMatt Geiger MIA 03/29/1994 MIA vs. DET L 27 23 6 9 66.7 0 0 - 11 12 91.7 3 6 9 0 1 0 0 3 -
+p122
+aVJohn Salley MIA 03/29/1994 MIA vs. DET L 30 18 6 11 54.5 0 0 - 6 6 100.0 2 3 5 2 0 1 2 4 -
+p123
+aVGlen Rice MIA 03/29/1994 MIA vs. DET L 37 13 4 18 22.2 0 5 0.0 5 6 83.3 3 4 7 5 2 1 0 3 -
+p124
+aVSteven Smith MIA 03/29/1994 MIA vs. DET L 37 16 7 17 41.2 0 5 0.0 2 2 100.0 4 2 6 6 4 0 3 5 -
+p125
+aVBrian Shaw MIA 03/29/1994 MIA vs. DET L 35 17 6 12 50.0 3 5 60.0 2 2 100.0 3 3 6 5 1 0 2 3 -
+p126
+aVBimbo Coles MIA 03/29/1994 MIA vs. DET L 24 11 5 12 41.7 0 2 0.0 1 2 50.0 1 0 1 2 1 0 2 1 -
+p127
+aVKeith Askins MIA 03/29/1994 MIA vs. DET L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p128
+aVWillie Burton MIA 03/29/1994 MIA vs. DET L 8 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -
+p129
+aVSteven Smith MIA 03/26/1994 MIA @ ATL L 40 17 6 19 31.6 1 4 25.0 4 4 100.0 7 4 11 3 1 0 1 3 -
+p130
+aVRony Seikaly MIA 03/26/1994 MIA @ ATL L 30 9 4 13 30.8 0 0 - 1 1 100.0 3 4 7 2 0 1 2 2 -
+p131
+aVWillie Burton MIA 03/26/1994 MIA @ ATL L 16 13 5 10 50.0 1 2 50.0 2 4 50.0 3 2 5 0 0 1 0 3 -
+p132
+aVBimbo Coles MIA 03/26/1994 MIA @ ATL L 26 14 4 7 57.1 0 0 - 6 6 100.0 0 1 1 3 3 0 1 2 -
+p133
+aVBrian Shaw MIA 03/26/1994 MIA @ ATL L 24 11 4 8 50.0 1 1 100.0 2 2 100.0 4 2 6 1 1 0 2 2 -
+p134
+aVHarold Miner MIA 03/26/1994 MIA @ ATL L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 2 1 -
+p135
+aVMatt Geiger MIA 03/26/1994 MIA @ ATL L 17 4 2 5 40.0 0 0 - 0 0 - 2 3 5 0 0 0 0 2 -
+p136
+aVGlen Rice MIA 03/26/1994 MIA @ ATL L 38 10 5 15 33.3 0 1 0.0 0 0 - 0 4 4 1 0 0 2 2 -
+p137
+aVGrant Long MIA 03/26/1994 MIA @ ATL L 43 12 2 10 20.0 0 0 - 8 10 80.0 1 10 11 5 3 0 3 3 -
+p138
+aVJohn Salley MIA 03/24/1994 MIA @ DEN L 19 8 2 4 50.0 0 0 - 4 6 66.7 0 3 3 1 1 2 0 4 -
+p139
+aVGrant Long MIA 03/24/1994 MIA @ DEN L 29 10 2 9 22.2 0 0 - 6 6 100.0 4 5 9 0 1 0 0 5 -
+p140
+aVGlen Rice MIA 03/24/1994 MIA @ DEN L 30 18 8 15 53.3 1 4 25.0 1 2 50.0 1 2 3 1 1 1 0 0 -
+p141
+aVRony Seikaly MIA 03/24/1994 MIA @ DEN L 28 4 2 7 28.6 0 0 - 0 2 0.0 2 5 7 2 1 1 3 2 -
+p142
+aVBrian Shaw MIA 03/24/1994 MIA @ DEN L 17 0 0 6 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 0 0 -
+p143
+aVHarold Miner MIA 03/24/1994 MIA @ DEN L 20 15 7 11 63.6 1 1 100.0 0 0 - 0 2 2 2 1 1 2 2 -
+p144
+aVMatt Geiger MIA 03/24/1994 MIA @ DEN L 20 11 5 11 45.5 0 0 - 1 1 100.0 4 3 7 0 0 0 0 5 -
+p145
+aVWillie Burton MIA 03/24/1994 MIA @ DEN L 18 12 3 7 42.9 0 1 0.0 6 6 100.0 1 4 5 4 2 1 3 3 -
+p146
+aVBimbo Coles MIA 03/24/1994 MIA @ DEN L 29 12 5 8 62.5 0 0 - 2 3 66.7 1 2 3 2 0 1 1 0 -
+p147
+aVSteven Smith MIA 03/24/1994 MIA @ DEN L 30 11 4 17 23.5 1 4 25.0 2 2 100.0 1 0 1 3 1 0 0 3 -
+p148
+aVWillie Burton MIA 03/22/1994 MIA @ PHX L 30 28 10 17 58.8 0 1 0.0 8 8 100.0 1 3 4 3 0 1 0 1 -
+p149
+aVKeith Askins MIA 03/22/1994 MIA @ PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p150
+aVGrant Long MIA 03/22/1994 MIA @ PHX L 33 4 2 6 33.3 0 0 - 0 0 - 1 7 8 7 3 1 2 6 -
+p151
+aVBimbo Coles MIA 03/22/1994 MIA @ PHX L 31 16 5 10 50.0 0 1 0.0 6 7 85.7 0 5 5 5 3 0 1 3 -
+p152
+aVGlen Rice MIA 03/22/1994 MIA @ PHX L 30 11 5 12 41.7 1 2 50.0 0 0 - 1 2 3 3 0 0 1 3 -
+p153
+aVMatt Geiger MIA 03/22/1994 MIA @ PHX L 17 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 0 0 0 0 3 -
+p154
+aVHarold Miner MIA 03/22/1994 MIA @ PHX L 12 9 4 8 50.0 0 0 - 1 2 50.0 0 2 2 4 0 0 0 0 -
+p155
+aVRony Seikaly MIA 03/22/1994 MIA @ PHX L 33 8 3 14 21.4 0 0 - 2 2 100.0 4 6 10 0 0 0 2 6 -
+p156
+aVJohn Salley MIA 03/22/1994 MIA @ PHX L 15 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 2 1 0 0 4 -
+p157
+aVBrian Shaw MIA 03/22/1994 MIA @ PHX L 32 8 2 6 33.3 1 4 25.0 3 4 75.0 0 2 2 4 1 1 2 3 -
+p158
+aVSteven Smith MIA 03/22/1994 MIA @ PHX L 31 27 11 22 50.0 5 7 71.4 0 0 - 4 1 5 3 0 1 1 6 -
+p159
+aVBimbo Coles MIA 03/21/1994 MIA @ LAL L 12 0 0 5 0.0 0 4 0.0 0 0 - 0 1 1 0 1 0 3 1 -
+p160
+aVSteven Smith MIA 03/21/1994 MIA @ LAL L 40 17 8 17 47.1 1 4 25.0 0 0 - 2 1 3 7 4 1 3 1 -
+p161
+aVWillie Burton MIA 03/21/1994 MIA @ LAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p162
+aVKeith Askins MIA 03/21/1994 MIA @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p163
+aVGrant Long MIA 03/21/1994 MIA @ LAL L 42 9 4 10 40.0 0 1 0.0 1 2 50.0 2 3 5 3 1 0 2 5 -
+p164
+aVJohn Salley MIA 03/21/1994 MIA @ LAL L 6 1 0 2 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p165
+aVGlen Rice MIA 03/21/1994 MIA @ LAL L 37 12 5 12 41.7 0 3 0.0 2 2 100.0 0 4 4 3 2 0 4 0 -
+p166
+aVHarold Miner MIA 03/21/1994 MIA @ LAL L 13 7 2 4 50.0 0 0 - 3 4 75.0 3 1 4 0 0 0 1 1 -
+p167
+aVRony Seikaly MIA 03/21/1994 MIA @ LAL L 47 21 8 17 47.1 0 0 - 5 10 50.0 6 15 21 1 3 3 3 2 -
+p168
+aVBrian Shaw MIA 03/21/1994 MIA @ LAL L 36 12 4 12 33.3 4 10 40.0 0 0 - 3 4 7 9 0 0 3 2 -
+p169
+aVHarold Miner MIA 03/19/1994 MIA vs. CLE W 7 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -
+p170
+aVSteven Smith MIA 03/19/1994 MIA vs. CLE W 35 15 7 17 41.2 0 3 0.0 1 2 50.0 2 4 6 4 0 0 1 2 -
+p171
+aVGrant Long MIA 03/19/1994 MIA vs. CLE W 37 20 9 12 75.0 0 0 - 2 4 50.0 5 2 7 4 2 0 1 2 -
+p172
+aVBimbo Coles MIA 03/19/1994 MIA vs. CLE W 18 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -
+p173
+aVWillie Burton MIA 03/19/1994 MIA vs. CLE W 13 11 4 6 66.7 0 0 - 3 3 100.0 2 4 6 0 0 1 1 1 -
+p174
+aVGlen Rice MIA 03/19/1994 MIA vs. CLE W 40 33 13 17 76.5 5 7 71.4 2 2 100.0 0 3 3 2 0 1 2 1 -
+p175
+aVMatt Geiger MIA 03/19/1994 MIA vs. CLE W 10 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 4 -
+p176
+aVRony Seikaly MIA 03/19/1994 MIA vs. CLE W 43 15 4 9 44.4 0 0 - 7 7 100.0 1 8 9 0 0 0 5 5 -
+p177
+aVBrian Shaw MIA 03/19/1994 MIA vs. CLE W 37 6 2 3 66.7 1 2 50.0 1 2 50.0 1 5 6 15 0 0 4 3 -
+p178
+aVBrian Shaw MIA 03/17/1994 MIA vs. DAL W 26 13 5 6 83.3 2 3 66.7 1 2 50.0 0 1 1 11 3 0 3 3 -
+p179
+aVGrant Long MIA 03/17/1994 MIA vs. DAL W 41 8 3 8 37.5 0 0 - 2 2 100.0 1 8 9 3 1 0 5 1 -
+p180
+aVGlen Rice MIA 03/17/1994 MIA vs. DAL W 34 24 10 18 55.6 2 5 40.0 2 2 100.0 1 4 5 2 1 1 0 4 -
+p181
+aVRony Seikaly MIA 03/17/1994 MIA vs. DAL W 40 28 10 12 83.3 0 0 - 8 10 80.0 3 11 14 2 1 5 6 4 -
+p182
+aVMatt Geiger MIA 03/17/1994 MIA vs. DAL W 14 2 1 4 25.0 0 1 0.0 0 0 - 2 3 5 0 1 0 0 3 -
+p183
+aVSteven Smith MIA 03/17/1994 MIA vs. DAL W 37 11 4 14 28.6 1 4 25.0 2 2 100.0 3 2 5 7 0 1 1 2 -
+p184
+aVWillie Burton MIA 03/17/1994 MIA vs. DAL W 14 6 2 6 33.3 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 -
+p185
+aVMorlon Wiley MIA 03/17/1994 MIA vs. DAL W 7 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 5 1 0 1 0 -
+p186
+aVAlec Kessler MIA 03/17/1994 MIA vs. DAL W 1 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p187
+aVHarold Miner MIA 03/17/1994 MIA vs. DAL W 26 17 7 12 58.3 0 0 - 3 3 100.0 2 1 3 1 1 0 1 4 -
+p188
+aVGlen Rice MIA 03/15/1994 MIA vs. MIL W 41 28 9 18 50.0 2 4 50.0 8 10 80.0 0 2 2 2 0 0 0 0 -
+p189
+aVBrian Shaw MIA 03/15/1994 MIA vs. MIL W 40 14 4 15 26.7 2 7 28.6 4 4 100.0 3 5 8 12 1 2 4 5 -
+p190
+aVHarold Miner MIA 03/15/1994 MIA vs. MIL W 18 8 3 8 37.5 0 0 - 2 2 100.0 1 2 3 0 0 0 2 4 -
+p191
+aVMatt Geiger MIA 03/15/1994 MIA vs. MIL W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 0 -
+p192
+aVSteven Smith MIA 03/15/1994 MIA vs. MIL W 38 27 9 13 69.2 0 1 0.0 9 11 81.8 4 6 10 5 4 0 4 4 -
+p193
+aVGrant Long MIA 03/15/1994 MIA vs. MIL W 43 14 5 8 62.5 0 0 - 4 4 100.0 4 5 9 3 1 1 5 3 -
+p194
+aVWillie Burton MIA 03/15/1994 MIA vs. MIL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p195
+aVKeith Askins MIA 03/15/1994 MIA vs. MIL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p196
+aVRony Seikaly MIA 03/15/1994 MIA vs. MIL W 43 10 4 7 57.1 0 0 - 2 4 50.0 0 14 14 1 3 4 5 2 -
+p197
+aVBrian Shaw MIA 03/13/1994 MIA @ BOS W 37 6 2 8 25.0 2 4 50.0 0 0 - 0 6 6 9 1 0 2 3 -
+p198
+aVGrant Long MIA 03/13/1994 MIA @ BOS W 32 14 6 8 75.0 0 0 - 2 2 100.0 2 5 7 0 1 0 1 2 -
+p199
+aVWillie Burton MIA 03/13/1994 MIA @ BOS W 10 5 1 2 50.0 1 2 50.0 2 2 100.0 1 2 3 0 1 1 2 2 -
+p200
+aVHarold Miner MIA 03/13/1994 MIA @ BOS W 37 16 5 11 45.5 0 0 - 6 6 100.0 3 7 10 2 2 0 2 3 -
+p201
+aVRony Seikaly MIA 03/13/1994 MIA @ BOS W 40 36 10 16 62.5 0 0 - 16 17 94.1 6 10 16 3 3 2 10 5 -
+p202
+aVAlec Kessler MIA 03/13/1994 MIA @ BOS W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p203
+aVMorlon Wiley MIA 03/13/1994 MIA @ BOS W 20 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 1 1 0 3 3 -
+p204
+aVJohn Salley MIA 03/13/1994 MIA @ BOS W 21 2 1 6 16.7 0 0 - 0 0 - 3 3 6 2 1 0 1 4 -
+p205
+aVGlen Rice MIA 03/13/1994 MIA @ BOS W 40 21 7 15 46.7 1 2 50.0 6 6 100.0 0 4 4 1 1 0 1 1 -
+p206
+aVGrant Long MIA 03/11/1994 MIA vs. PHX L 32 8 3 8 37.5 0 0 - 2 4 50.0 3 4 7 4 1 0 2 4 -
+p207
+aVBrian Shaw MIA 03/11/1994 MIA vs. PHX L 40 18 6 13 46.2 5 9 55.6 1 2 50.0 0 3 3 9 2 0 5 5 -
+p208
+aVSteven Smith MIA 03/11/1994 MIA vs. PHX L 32 13 3 12 25.0 2 5 40.0 5 7 71.4 3 4 7 6 1 0 1 0 -
+p209
+aVHarold Miner MIA 03/11/1994 MIA vs. PHX L 21 14 6 10 60.0 0 0 - 2 2 100.0 0 1 1 4 0 0 0 2 -
+p210
+aVJohn Salley MIA 03/11/1994 MIA vs. PHX L 20 4 2 6 33.3 0 0 - 0 0 - 1 1 2 2 0 1 0 3 -
+p211
+aVWillie Burton MIA 03/11/1994 MIA vs. PHX L 16 12 6 9 66.7 0 0 - 0 2 0.0 3 1 4 0 0 1 0 4 -
+p212
+aVGlen Rice MIA 03/11/1994 MIA vs. PHX L 42 20 8 21 38.1 2 6 33.3 2 2 100.0 0 7 7 4 2 0 1 1 -
+p213
+aVMorlon Wiley MIA 03/11/1994 MIA vs. PHX L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 0 -
+p214
+aVRony Seikaly MIA 03/11/1994 MIA vs. PHX L 34 18 8 14 57.1 0 0 - 2 2 100.0 3 3 6 1 0 1 1 4 -
+p215
+aVKeith Askins MIA 03/09/1994 MIA vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p216
+aVJohn Salley MIA 03/09/1994 MIA vs. DEN W 18 3 1 1 100.0 0 0 - 1 3 33.3 0 3 3 1 0 0 2 2 -
+p217
+aVWillie Burton MIA 03/09/1994 MIA vs. DEN W 16 7 3 10 30.0 0 0 - 1 1 100.0 2 3 5 1 2 0 2 2 -
+p218
+aVAlec Kessler MIA 03/09/1994 MIA vs. DEN W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p219
+aVGlen Rice MIA 03/09/1994 MIA vs. DEN W 32 26 10 18 55.6 2 5 40.0 4 4 100.0 0 3 3 1 3 1 1 3 -
+p220
+aVGrant Long MIA 03/09/1994 MIA vs. DEN W 34 15 7 14 50.0 0 0 - 1 2 50.0 4 4 8 2 4 0 0 2 -
+p221
+aVRony Seikaly MIA 03/09/1994 MIA vs. DEN W 34 22 7 13 53.8 0 0 - 8 10 80.0 5 5 10 4 0 2 1 5 -
+p222
+aVSteven Smith MIA 03/09/1994 MIA vs. DEN W 38 12 6 14 42.9 0 5 0.0 0 0 - 1 6 7 7 0 1 3 1 -
+p223
+aVBrian Shaw MIA 03/09/1994 MIA vs. DEN W 34 9 3 11 27.3 1 4 25.0 2 2 100.0 2 7 9 5 3 0 3 3 -
+p224
+aVMorlon Wiley MIA 03/09/1994 MIA vs. DEN W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -
+p225
+aVHarold Miner MIA 03/09/1994 MIA vs. DEN W 16 4 2 8 25.0 0 0 - 0 0 - 4 0 4 3 0 1 1 2 -
+p226
+aVMatt Geiger MIA 03/09/1994 MIA vs. DEN W 6 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 0 0 1 -
+p227
+aVRony Seikaly MIA 03/07/1994 MIA vs. BOS L 41 22 7 17 41.2 0 1 0.0 8 13 61.5 8 6 14 0 0 1 2 5 -
+p228
+aVBimbo Coles MIA 03/07/1994 MIA vs. BOS L 4 4 2 2 100.0 0 0 - 0 1 0.0 0 0 0 0 0 0 1 1 -
+p229
+aVWillie Burton MIA 03/07/1994 MIA vs. BOS L 14 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 1 1 0 1 1 -
+p230
+aVMatt Geiger MIA 03/07/1994 MIA vs. BOS L 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -
+p231
+aVSteven Smith MIA 03/07/1994 MIA vs. BOS L 47 18 7 22 31.8 0 4 0.0 4 4 100.0 4 2 6 6 2 1 3 3 -
+p232
+aVGrant Long MIA 03/07/1994 MIA vs. BOS L 39 24 10 12 83.3 0 0 - 4 4 100.0 6 3 9 0 0 0 0 4 -
+p233
+aVBrian Shaw MIA 03/07/1994 MIA vs. BOS L 38 12 6 16 37.5 0 3 0.0 0 0 - 3 4 7 7 0 0 5 5 -
+p234
+aVGlen Rice MIA 03/07/1994 MIA vs. BOS L 41 17 6 14 42.9 1 3 33.3 4 4 100.0 0 6 6 1 0 0 1 2 -
+p235
+aVSteven Smith MIA 03/05/1994 MIA vs. PHL W 34 10 3 7 42.9 1 3 33.3 3 3 100.0 1 1 2 7 1 1 2 2 -
+p236
+aVGlen Rice MIA 03/05/1994 MIA vs. PHL W 33 32 13 21 61.9 4 8 50.0 2 2 100.0 1 4 5 3 1 0 2 2 -
+p237
+aVAlec Kessler MIA 03/05/1994 MIA vs. PHL W 5 3 1 2 50.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 2 -
+p238
+aVBrian Shaw MIA 03/05/1994 MIA vs. PHL W 29 12 6 8 75.0 0 1 0.0 0 0 - 0 2 2 7 1 0 4 1 -
+p239
+aVHarold Miner MIA 03/05/1994 MIA vs. PHL W 6 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p240
+aVMatt Geiger MIA 03/05/1994 MIA vs. PHL W 16 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 1 1 1 2 -
+p241
+aVBimbo Coles MIA 03/05/1994 MIA vs. PHL W 22 9 4 6 66.7 0 0 - 1 2 50.0 2 1 3 4 0 0 0 0 -
+p242
+aVGrant Long MIA 03/05/1994 MIA vs. PHL W 31 12 6 9 66.7 0 0 - 0 0 - 2 11 13 2 0 0 0 4 -
+p243
+aVRony Seikaly MIA 03/05/1994 MIA vs. PHL W 35 22 9 13 69.2 0 0 - 4 5 80.0 2 5 7 2 1 2 2 4 -
+p244
+aVJohn Salley MIA 03/05/1994 MIA vs. PHL W 8 0 0 2 0.0 0 0 - 0 0 - 0 3 3 2 1 0 0 1 -
+p245
+aVWillie Burton MIA 03/05/1994 MIA vs. PHL W 14 10 1 3 33.3 0 0 - 8 8 100.0 1 4 5 2 0 0 1 3 -
+p246
+aVKeith Askins MIA 03/05/1994 MIA vs. PHL W 7 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 1 0 -
+p247
+aVJohn Salley MIA 03/02/1994 MIA @ MIN W 30 8 1 6 16.7 0 0 - 6 8 75.0 2 5 7 3 2 3 1 4 -
+p248
+aVWillie Burton MIA 03/02/1994 MIA @ MIN W 7 5 1 1 100.0 0 0 - 3 6 50.0 0 1 1 0 0 1 1 1 -
+p249
+aVRony Seikaly MIA 03/02/1994 MIA @ MIN W 36 3 1 8 12.5 0 0 - 1 4 25.0 5 5 10 0 1 2 3 5 -
+p250
+aVGrant Long MIA 03/02/1994 MIA @ MIN W 41 16 7 11 63.6 0 0 - 2 3 66.7 2 5 7 2 1 0 3 5 -
+p251
+aVBrian Shaw MIA 03/02/1994 MIA @ MIN W 44 19 7 13 53.8 2 4 50.0 3 3 100.0 2 7 9 8 1 1 5 3 -
+p252
+aVGlen Rice MIA 03/02/1994 MIA @ MIN W 46 33 14 25 56.0 0 2 0.0 5 6 83.3 0 7 7 5 2 0 1 2 -
+p253
+aVSteven Smith MIA 03/02/1994 MIA @ MIN W 40 22 10 20 50.0 0 1 0.0 2 5 40.0 1 2 3 4 2 1 1 5 -
+p254
+aVBimbo Coles MIA 03/02/1994 MIA @ MIN W 21 2 0 5 0.0 0 0 - 2 2 100.0 0 0 0 2 2 0 1 0 -
+p255
+aVJohn Salley MIA 03/01/1994 MIA @ MIL W 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p256
+aVWillie Burton MIA 03/01/1994 MIA @ MIL W 15 12 5 9 55.6 0 0 - 2 2 100.0 2 0 2 2 1 0 1 2 -
+p257
+aVBrian Shaw MIA 03/01/1994 MIA @ MIL W 41 8 3 10 30.0 2 5 40.0 0 0 - 2 8 10 10 2 1 2 3 -
+p258
+aVMatt Geiger MIA 03/01/1994 MIA @ MIL W 22 6 2 5 40.0 0 0 - 2 6 33.3 1 5 6 0 1 2 1 2 -
+p259
+aVSteven Smith MIA 03/01/1994 MIA @ MIL W 31 9 3 10 30.0 0 2 0.0 3 3 100.0 1 1 2 3 1 1 2 1 -
+p260
+aVGrant Long MIA 03/01/1994 MIA @ MIL W 33 22 7 10 70.0 0 0 - 8 8 100.0 6 6 12 2 1 1 1 6 -
+p261
+aVBimbo Coles MIA 03/01/1994 MIA @ MIL W 27 14 6 14 42.9 0 0 - 2 2 100.0 2 2 4 4 0 0 0 3 -
+p262
+aVRony Seikaly MIA 03/01/1994 MIA @ MIL W 32 14 6 8 75.0 0 0 - 2 5 40.0 1 3 4 4 0 0 1 6 -
+p263
+aVGlen Rice MIA 03/01/1994 MIA @ MIL W 33 25 10 18 55.6 3 5 60.0 2 2 100.0 0 2 2 1 2 0 0 3 -
+p264
+aVKeith Askins MIA 02/26/1994 MIA @ DET W 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p265
+aVGrant Long MIA 02/26/1994 MIA @ DET W 34 18 6 12 50.0 0 0 - 6 9 66.7 4 5 9 2 1 2 0 2 -
+p266
+aVMatt Geiger MIA 02/26/1994 MIA @ DET W 9 5 2 2 100.0 0 0 - 1 2 50.0 2 1 3 1 0 0 0 2 -
+p267
+aVJohn Salley MIA 02/26/1994 MIA @ DET W 20 8 2 6 33.3 0 0 - 4 6 66.7 3 2 5 3 0 0 0 1 -
+p268
+aVGlen Rice MIA 02/26/1994 MIA @ DET W 36 12 5 17 29.4 1 5 20.0 1 2 50.0 1 5 6 1 3 1 2 2 -
+p269
+aVWillie Burton MIA 02/26/1994 MIA @ DET W 7 1 0 4 0.0 0 0 - 1 2 50.0 0 1 1 0 0 1 0 1 -
+p270
+aVBimbo Coles MIA 02/26/1994 MIA @ DET W 23 12 3 6 50.0 0 1 0.0 6 6 100.0 2 1 3 3 1 0 1 3 -
+p271
+aVRony Seikaly MIA 02/26/1994 MIA @ DET W 33 13 6 13 46.2 0 0 - 1 2 50.0 6 9 15 4 0 0 5 5 -
+p272
+aVBrian Shaw MIA 02/26/1994 MIA @ DET W 35 16 7 18 38.9 2 5 40.0 0 0 - 2 8 10 4 1 1 5 1 -
+p273
+aVSteven Smith MIA 02/26/1994 MIA @ DET W 38 18 8 19 42.1 2 5 40.0 0 0 - 2 3 5 3 1 1 0 2 -
+p274
+aVRony Seikaly MIA 02/25/1994 MIA @ PHL W 27 13 6 11 54.5 0 0 - 1 1 100.0 3 8 11 3 2 0 2 4 -
+p275
+aVBrian Shaw MIA 02/25/1994 MIA @ PHL W 26 10 4 9 44.4 2 3 66.7 0 0 - 1 4 5 10 0 1 2 4 -
+p276
+aVKeith Askins MIA 02/25/1994 MIA @ PHL W 7 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 0 0 0 1 2 -
+p277
+aVMatt Geiger MIA 02/25/1994 MIA @ PHL W 18 16 7 8 87.5 0 0 - 2 2 100.0 3 3 6 1 0 1 0 0 -
+p278
+aVWillie Burton MIA 02/25/1994 MIA @ PHL W 9 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 1 1 1 0 2 -
+p279
+aVBimbo Coles MIA 02/25/1994 MIA @ PHL W 28 11 5 8 62.5 0 0 - 1 1 100.0 0 1 1 8 7 0 0 2 -
+p280
+aVAlec Kessler MIA 02/25/1994 MIA @ PHL W 4 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -
+p281
+aVSteven Smith MIA 02/25/1994 MIA @ PHL W 35 21 8 16 50.0 5 6 83.3 0 0 - 1 1 2 4 0 0 4 1 -
+p282
+aVJohn Salley MIA 02/25/1994 MIA @ PHL W 23 4 2 2 100.0 0 0 - 0 0 - 1 5 6 3 0 3 1 3 -
+p283
+aVGrant Long MIA 02/25/1994 MIA @ PHL W 24 6 3 9 33.3 0 0 - 0 0 - 2 5 7 1 2 0 1 4 -
+p284
+aVGlen Rice MIA 02/25/1994 MIA @ PHL W 39 25 9 16 56.3 3 4 75.0 4 4 100.0 0 1 1 5 2 0 0 0 -
+p285
+aVRony Seikaly MIA 02/22/1994 MIA @ NJN W 35 19 8 18 44.4 0 0 - 3 5 60.0 7 11 18 4 0 1 1 2 -
+p286
+aVWillie Burton MIA 02/22/1994 MIA @ NJN W 19 12 5 7 71.4 0 0 - 2 3 66.7 0 1 1 0 0 1 2 2 -
+p287
+aVJohn Salley MIA 02/22/1994 MIA @ NJN W 23 14 5 8 62.5 0 0 - 4 6 66.7 4 7 11 1 0 3 0 3 -
+p288
+aVBimbo Coles MIA 02/22/1994 MIA @ NJN W 25 6 3 6 50.0 0 0 - 0 0 - 1 4 5 3 0 0 4 3 -
+p289
+aVKeith Askins MIA 02/22/1994 MIA @ NJN W 8 4 2 4 50.0 0 1 0.0 0 0 - 2 0 2 0 0 0 1 1 -
+p290
+aVGlen Rice MIA 02/22/1994 MIA @ NJN W 29 21 10 17 58.8 1 1 100.0 0 0 - 0 1 1 4 2 1 0 4 -
+p291
+aVGrant Long MIA 02/22/1994 MIA @ NJN W 30 9 3 8 37.5 0 0 - 3 4 75.0 2 6 8 3 0 0 2 3 -
+p292
+aVBrian Shaw MIA 02/22/1994 MIA @ NJN W 35 12 5 9 55.6 2 3 66.7 0 0 - 1 4 5 6 2 0 2 4 -
+p293
+aVSteven Smith MIA 02/22/1994 MIA @ NJN W 29 21 5 11 45.5 3 4 75.0 8 10 80.0 1 2 3 2 0 0 3 2 -
+p294
+aVAlec Kessler MIA 02/22/1994 MIA @ NJN W 7 5 2 4 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 1 -
+p295
+aVBrian Shaw MIA 02/21/1994 MIA vs. WAS W 29 6 2 6 33.3 2 2 100.0 0 0 - 1 4 5 7 1 0 2 1 -
+p296
+aVRony Seikaly MIA 02/21/1994 MIA vs. WAS W 31 24 7 9 77.8 0 0 - 10 14 71.4 1 7 8 0 1 3 2 2 -
+p297
+aVJohn Salley MIA 02/21/1994 MIA vs. WAS W 7 3 1 4 25.0 0 0 - 1 1 100.0 0 2 2 1 1 0 0 0 -
+p298
+aVKeith Askins MIA 02/21/1994 MIA vs. WAS W 7 4 2 3 66.7 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -
+p299
+aVBimbo Coles MIA 02/21/1994 MIA vs. WAS W 25 12 6 9 66.7 0 2 0.0 0 2 0.0 0 4 4 8 1 0 2 3 -
+p300
+aVMatt Geiger MIA 02/21/1994 MIA vs. WAS W 17 4 2 5 40.0 0 0 - 0 0 - 2 0 2 0 2 0 2 3 -
+p301
+aVGrant Long MIA 02/21/1994 MIA vs. WAS W 36 14 5 11 45.5 0 0 - 4 6 66.7 4 1 5 2 5 1 6 2 -
+p302
+aVSteven Smith MIA 02/21/1994 MIA vs. WAS W 35 21 8 10 80.0 3 5 60.0 2 2 100.0 0 1 1 10 0 0 4 0 -
+p303
+aVWillie Burton MIA 02/21/1994 MIA vs. WAS W 16 7 3 7 42.9 0 0 - 1 1 100.0 1 2 3 3 0 0 0 1 -
+p304
+aVGlen Rice MIA 02/21/1994 MIA vs. WAS W 32 29 11 13 84.6 3 5 60.0 4 4 100.0 0 4 4 1 4 0 1 2 -
+p305
+aVAlec Kessler MIA 02/21/1994 MIA vs. WAS W 5 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 0 0 1 2 0 -
+p306
+aVGlen Rice MIA 02/19/1994 MIA @ SAN L 38 21 9 19 47.4 1 7 14.3 2 2 100.0 0 4 4 2 1 1 1 3 -
+p307
+aVRony Seikaly MIA 02/19/1994 MIA @ SAN L 29 15 6 13 46.2 0 0 - 3 4 75.0 3 8 11 1 2 0 3 6 -
+p308
+aVJohn Salley MIA 02/19/1994 MIA @ SAN L 24 4 1 4 25.0 0 1 0.0 2 2 100.0 3 2 5 2 0 0 0 4 -
+p309
+aVGrant Long MIA 02/19/1994 MIA @ SAN L 37 21 6 11 54.5 1 1 100.0 8 9 88.9 5 5 10 1 2 0 1 3 -
+p310
+aVWillie Burton MIA 02/19/1994 MIA @ SAN L 7 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 1 0 0 1 -
+p311
+aVBimbo Coles MIA 02/19/1994 MIA @ SAN L 22 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 2 -
+p312
+aVMatt Geiger MIA 02/19/1994 MIA @ SAN L 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -
+p313
+aVSteven Smith MIA 02/19/1994 MIA @ SAN L 45 24 10 20 50.0 3 5 60.0 1 2 50.0 1 3 4 1 0 0 1 2 -
+p314
+aVBrian Shaw MIA 02/19/1994 MIA @ SAN L 32 5 2 13 15.4 1 5 20.0 0 0 - 1 4 5 6 1 0 3 2 -
+p315
+aVGrant Long MIA 02/17/1994 MIA vs. SEA W 37 17 3 3 100.0 0 0 - 11 13 84.6 2 5 7 4 2 0 2 4 -
+p316
+aVRony Seikaly MIA 02/17/1994 MIA vs. SEA W 26 7 1 3 33.3 0 0 - 5 6 83.3 0 3 3 0 1 1 2 5 -
+p317
+aVKeith Askins MIA 02/17/1994 MIA vs. SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p318
+aVBrian Shaw MIA 02/17/1994 MIA vs. SEA W 26 7 3 7 42.9 1 4 25.0 0 0 - 0 2 2 3 0 1 2 5 -
+p319
+aVBimbo Coles MIA 02/17/1994 MIA vs. SEA W 25 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 4 0 0 2 4 -
+p320
+aVSteven Smith MIA 02/17/1994 MIA vs. SEA W 40 32 11 22 50.0 4 8 50.0 6 9 66.7 2 1 3 4 1 0 1 3 -
+p321
+aVMatt Geiger MIA 02/17/1994 MIA vs. SEA W 24 9 4 5 80.0 0 0 - 1 3 33.3 0 2 2 1 1 0 1 3 -
+p322
+aVWillie Burton MIA 02/17/1994 MIA vs. SEA W 10 7 3 5 60.0 0 0 - 1 2 50.0 1 2 3 2 0 0 1 3 -
+p323
+aVGlen Rice MIA 02/17/1994 MIA vs. SEA W 41 28 9 20 45.0 3 6 50.0 7 7 100.0 3 3 6 1 2 2 3 3 -
+p324
+aVJohn Salley MIA 02/17/1994 MIA vs. SEA W 10 1 0 0 - 0 0 - 1 2 50.0 0 2 2 2 0 0 0 4 -
+p325
+aVBrian Shaw MIA 02/16/1994 MIA @ CHI W 46 17 7 14 50.0 1 3 33.3 2 4 50.0 2 4 6 5 1 0 1 2 -
+p326
+aVJohn Salley MIA 02/16/1994 MIA @ CHI W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p327
+aVSteven Smith MIA 02/16/1994 MIA @ CHI W 43 25 8 14 57.1 1 1 100.0 8 9 88.9 3 3 6 6 1 0 1 1 -
+p328
+aVGrant Long MIA 02/16/1994 MIA @ CHI W 30 10 2 9 22.2 0 0 - 6 6 100.0 2 3 5 2 0 1 3 4 -
+p329
+aVWillie Burton MIA 02/16/1994 MIA @ CHI W 8 6 2 4 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 3 -
+p330
+aVGlen Rice MIA 02/16/1994 MIA @ CHI W 28 22 7 17 41.2 2 4 50.0 6 6 100.0 2 4 6 1 0 0 1 3 -
+p331
+aVBimbo Coles MIA 02/16/1994 MIA @ CHI W 19 8 4 5 80.0 0 1 0.0 0 0 - 0 3 3 2 0 0 2 2 -
+p332
+aVMatt Geiger MIA 02/16/1994 MIA @ CHI W 18 4 1 2 50.0 0 0 - 2 2 100.0 1 5 6 0 2 0 2 1 -
+p333
+aVRony Seikaly MIA 02/16/1994 MIA @ CHI W 39 17 6 11 54.5 0 0 - 5 7 71.4 5 0 5 1 2 2 2 2 -
+p334
+aVMatt Geiger MIA 02/10/1994 MIA @ ATL L 28 14 5 7 71.4 0 0 - 4 4 100.0 5 4 9 1 2 0 4 4 -
+p335
+aVAlec Kessler MIA 02/10/1994 MIA @ ATL L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p336
+aVKeith Askins MIA 02/10/1994 MIA @ ATL L 10 0 0 1 0.0 0 0 - 0 0 - 3 3 6 0 2 0 0 1 -
+p337
+aVGrant Long MIA 02/10/1994 MIA @ ATL L 35 15 7 17 41.2 0 0 - 1 3 33.3 3 4 7 3 0 0 0 2 -
+p338
+aVBrian Shaw MIA 02/10/1994 MIA @ ATL L 29 4 2 8 25.0 0 3 0.0 0 0 - 1 2 3 6 1 0 0 3 -
+p339
+aVRony Seikaly MIA 02/10/1994 MIA @ ATL L 31 20 9 15 60.0 0 0 - 2 2 100.0 5 5 10 3 2 1 4 6 -
+p340
+aVSteven Smith MIA 02/10/1994 MIA @ ATL L 40 14 6 13 46.2 1 5 20.0 1 2 50.0 1 1 2 6 0 0 4 3 -
+p341
+aVGlen Rice MIA 02/10/1994 MIA @ ATL L 40 22 10 17 58.8 0 1 0.0 2 2 100.0 0 1 1 3 0 0 1 4 -
+p342
+aVWillie Burton MIA 02/10/1994 MIA @ ATL L 6 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 3 -
+p343
+aVBimbo Coles MIA 02/10/1994 MIA @ ATL L 19 8 4 8 50.0 0 1 0.0 0 0 - 1 0 1 4 1 0 2 1 -
+p344
+aVGrant Long MIA 02/09/1994 MIA vs. IND L 34 9 2 6 33.3 0 1 0.0 5 9 55.6 1 7 8 2 3 1 1 5 -
+p345
+aVMatt Geiger MIA 02/09/1994 MIA vs. IND L 7 4 1 2 50.0 0 0 - 2 2 100.0 2 1 3 1 0 0 1 2 -
+p346
+aVJohn Salley MIA 02/09/1994 MIA vs. IND L 13 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 2 0 0 0 5 -
+p347
+aVBrian Shaw MIA 02/09/1994 MIA vs. IND L 38 14 5 8 62.5 2 4 50.0 2 4 50.0 0 3 3 8 0 0 3 4 -
+p348
+aVBimbo Coles MIA 02/09/1994 MIA vs. IND L 17 8 3 6 50.0 0 2 0.0 2 4 50.0 0 1 1 2 1 0 1 4 -
+p349
+aVGlen Rice MIA 02/09/1994 MIA vs. IND L 34 18 6 16 37.5 0 5 0.0 6 6 100.0 0 0 0 0 3 0 1 5 -
+p350
+aVWillie Burton MIA 02/09/1994 MIA vs. IND L 14 5 1 4 25.0 0 0 - 3 3 100.0 2 3 5 0 0 1 0 4 -
+p351
+aVSteven Smith MIA 02/09/1994 MIA vs. IND L 41 19 6 11 54.5 0 2 0.0 7 8 87.5 3 1 4 3 0 1 5 2 -
+p352
+aVRony Seikaly MIA 02/09/1994 MIA vs. IND L 42 19 7 11 63.6 0 0 - 5 10 50.0 2 7 9 0 0 1 2 4 -
+p353
+aVRony Seikaly MIA 02/07/1994 MIA vs. NYK W 38 22 8 13 61.5 0 0 - 6 9 66.7 5 7 12 1 0 1 8 4 -
+p354
+aVGlen Rice MIA 02/07/1994 MIA vs. NYK W 37 22 10 19 52.6 2 5 40.0 0 0 - 0 2 2 0 0 0 1 3 -
+p355
+aVSteven Smith MIA 02/07/1994 MIA vs. NYK W 43 25 8 12 66.7 1 4 25.0 8 11 72.7 0 2 2 6 0 0 3 4 -
+p356
+aVBimbo Coles MIA 02/07/1994 MIA vs. NYK W 17 0 0 1 0.0 0 0 - 0 0 - 1 1 2 2 0 0 1 1 -
+p357
+aVWillie Burton MIA 02/07/1994 MIA vs. NYK W 7 5 2 3 66.7 0 0 - 1 1 100.0 1 0 1 0 0 1 0 1 -
+p358
+aVBrian Shaw MIA 02/07/1994 MIA vs. NYK W 36 6 2 8 25.0 1 3 33.3 1 2 50.0 0 9 9 8 0 1 1 2 -
+p359
+aVGrant Long MIA 02/07/1994 MIA vs. NYK W 37 11 3 10 30.0 0 0 - 5 6 83.3 3 4 7 1 3 0 1 3 -
+p360
+aVJohn Salley MIA 02/07/1994 MIA vs. NYK W 18 2 0 3 0.0 0 0 - 2 2 100.0 0 4 4 2 0 2 2 4 -
+p361
+aVMatt Geiger MIA 02/07/1994 MIA vs. NYK W 7 3 0 0 - 0 0 - 3 6 50.0 1 0 1 0 0 0 0 2 -
+p362
+aVBrian Shaw MIA 02/05/1994 MIA vs. PHL L 40 27 13 22 59.1 1 3 33.3 0 0 - 5 5 10 9 2 0 6 5 -
+p363
+aVMatt Geiger MIA 02/05/1994 MIA vs. PHL L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 2 2 -
+p364
+aVSteven Smith MIA 02/05/1994 MIA vs. PHL L 41 21 9 18 50.0 1 2 50.0 2 2 100.0 4 2 6 3 3 1 2 3 -
+p365
+aVGrant Long MIA 02/05/1994 MIA vs. PHL L 29 10 5 11 45.5 0 0 - 0 1 0.0 3 5 8 1 5 0 4 4 -
+p366
+aVWillie Burton MIA 02/05/1994 MIA vs. PHL L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p367
+aVJohn Salley MIA 02/05/1994 MIA vs. PHL L 19 4 1 4 25.0 0 0 - 2 4 50.0 2 2 4 1 2 1 2 2 -
+p368
+aVRony Seikaly MIA 02/05/1994 MIA vs. PHL L 39 11 3 9 33.3 0 0 - 5 8 62.5 5 8 13 6 2 3 4 6 -
+p369
+aVBimbo Coles MIA 02/05/1994 MIA vs. PHL L 20 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 2 2 0 3 2 -
+p370
+aVGlen Rice MIA 02/05/1994 MIA vs. PHL L 38 11 2 14 14.3 1 4 25.0 6 6 100.0 2 5 7 1 3 0 1 2 -
+p371
+aVMatt Geiger MIA 02/04/1994 MIA @ CHH W 13 4 2 4 50.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -
+p372
+aVBrian Shaw MIA 02/04/1994 MIA @ CHH W 30 14 6 15 40.0 0 1 0.0 2 3 66.7 2 6 8 10 1 0 3 3 -
+p373
+aVWillie Burton MIA 02/04/1994 MIA @ CHH W 13 8 3 5 60.0 0 0 - 2 3 66.7 0 3 3 1 0 0 2 3 -
+p374
+aVSteven Smith MIA 02/04/1994 MIA @ CHH W 45 26 9 15 60.0 2 4 50.0 6 7 85.7 1 2 3 6 0 0 0 5 -
+p375
+aVGlen Rice MIA 02/04/1994 MIA @ CHH W 35 18 6 14 42.9 2 5 40.0 4 4 100.0 1 4 5 1 3 0 0 2 -
+p376
+aVJohn Salley MIA 02/04/1994 MIA @ CHH W 20 6 3 4 75.0 0 0 - 0 0 - 2 1 3 0 1 0 1 5 -
+p377
+aVRony Seikaly MIA 02/04/1994 MIA @ CHH W 37 21 5 7 71.4 0 0 - 11 16 68.8 3 8 11 3 0 0 1 3 -
+p378
+aVBimbo Coles MIA 02/04/1994 MIA @ CHH W 21 12 4 11 36.4 0 1 0.0 4 4 100.0 1 1 2 4 0 0 1 1 -
+p379
+aVGrant Long MIA 02/04/1994 MIA @ CHH W 26 15 6 10 60.0 0 0 - 3 4 75.0 1 2 3 1 0 0 3 5 -
+p380
+aVSteven Smith MIA 02/01/1994 MIA @ MIL W 48 19 7 18 38.9 2 3 66.7 3 4 75.0 5 3 8 9 2 0 4 1 -
+p381
+aVWillie Burton MIA 02/01/1994 MIA @ MIL W 11 6 3 5 60.0 0 0 - 0 0 - 0 0 0 0 0 0 3 2 -
+p382
+aVMatt Geiger MIA 02/01/1994 MIA @ MIL W 25 14 5 7 71.4 0 0 - 4 4 100.0 3 4 7 0 0 0 1 4 -
+p383
+aVBimbo Coles MIA 02/01/1994 MIA @ MIL W 25 10 4 7 57.1 0 0 - 2 3 66.7 2 2 4 2 3 0 2 2 -
+p384
+aVGrant Long MIA 02/01/1994 MIA @ MIL W 24 6 3 10 30.0 0 0 - 0 0 - 0 4 4 1 1 0 1 4 -
+p385
+aVBrian Shaw MIA 02/01/1994 MIA @ MIL W 23 4 1 5 20.0 1 3 33.3 1 2 50.0 0 1 1 3 1 0 3 1 -
+p386
+aVGlen Rice MIA 02/01/1994 MIA @ MIL W 37 23 8 22 36.4 1 5 20.0 6 6 100.0 1 6 7 0 1 1 0 0 -
+p387
+aVJohn Salley MIA 02/01/1994 MIA @ MIL W 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 1 0 2 5 -
+p388
+aVRony Seikaly MIA 02/01/1994 MIA @ MIL W 32 6 1 7 14.3 0 0 - 4 6 66.7 5 10 15 0 1 0 1 2 -
+p389
+aVGrant Long MIA 01/29/1994 MIA @ CLE W 33 13 3 15 20.0 0 0 - 7 8 87.5 6 5 11 8 1 0 2 4 -
+p390
+aVHarold Miner MIA 01/29/1994 MIA @ CLE W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p391
+aVBrian Shaw MIA 01/29/1994 MIA @ CLE W 40 14 7 10 70.0 0 1 0.0 0 0 - 4 7 11 5 1 1 2 0 -
+p392
+aVRony Seikaly MIA 01/29/1994 MIA @ CLE W 39 15 6 13 46.2 0 0 - 3 6 50.0 4 11 15 5 1 0 3 3 -
+p393
+aVGlen Rice MIA 01/29/1994 MIA @ CLE W 35 28 12 16 75.0 1 5 20.0 3 3 100.0 0 6 6 1 1 1 5 3 -
+p394
+aVBimbo Coles MIA 01/29/1994 MIA @ CLE W 17 2 1 2 50.0 0 1 0.0 0 2 0.0 0 1 1 2 0 0 1 3 -
+p395
+aVMatt Geiger MIA 01/29/1994 MIA @ CLE W 9 5 2 6 33.3 0 0 - 1 1 100.0 1 3 4 0 0 0 0 3 -
+p396
+aVWillie Burton MIA 01/29/1994 MIA @ CLE W 13 12 2 3 66.7 0 0 - 8 8 100.0 0 1 1 0 0 1 1 2 -
+p397
+aVJohn Salley MIA 01/29/1994 MIA @ CLE W 8 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -
+p398
+aVSteven Smith MIA 01/29/1994 MIA @ CLE W 38 18 7 15 46.7 2 4 50.0 2 2 100.0 2 2 4 7 0 1 4 4 -
+p399
+aVJohn Salley MIA 01/28/1994 MIA @ ORL W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 1 0 1 3 3 -
+p400
+aVGlen Rice MIA 01/28/1994 MIA @ ORL W 40 34 15 22 68.2 4 6 66.7 0 0 - 1 1 2 2 1 0 2 3 -
+p401
+aVGrant Long MIA 01/28/1994 MIA @ ORL W 32 17 6 11 54.5 0 0 - 5 6 83.3 3 3 6 6 2 0 2 4 -
+p402
+aVMatt Geiger MIA 01/28/1994 MIA @ ORL W 16 3 1 3 33.3 0 0 - 1 3 33.3 0 2 2 2 2 1 2 4 -
+p403
+aVSteven Smith MIA 01/28/1994 MIA @ ORL W 38 18 7 14 50.0 1 5 20.0 3 3 100.0 2 1 3 5 3 2 4 0 -
+p404
+aVWillie Burton MIA 01/28/1994 MIA @ ORL W 8 6 2 3 66.7 0 0 - 2 4 50.0 0 1 1 1 0 0 1 2 -
+p405
+aVBimbo Coles MIA 01/28/1994 MIA @ ORL W 21 6 2 2 100.0 0 0 - 2 2 100.0 2 2 4 3 0 0 1 2 -
+p406
+aVRony Seikaly MIA 01/28/1994 MIA @ ORL W 35 6 1 12 8.3 0 0 - 4 4 100.0 3 8 11 1 2 2 1 5 -
+p407
+aVHarold Miner MIA 01/28/1994 MIA @ ORL W 12 3 1 6 16.7 0 0 - 1 2 50.0 2 1 3 1 1 0 0 0 -
+p408
+aVBrian Shaw MIA 01/28/1994 MIA @ ORL W 25 11 4 7 57.1 0 1 0.0 3 3 100.0 0 1 1 4 2 0 4 4 -
+p409
+aVMatt Geiger MIA 01/26/1994 MIA @ BOS L 17 20 9 10 90.0 1 1 100.0 1 1 100.0 4 1 5 1 1 0 2 4 -
+p410
+aVBrian Shaw MIA 01/26/1994 MIA @ BOS L 30 13 6 13 46.2 1 5 20.0 0 2 0.0 3 2 5 5 0 0 2 2 -
+p411
+aVKeith Askins MIA 01/26/1994 MIA @ BOS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p412
+aVSteven Smith MIA 01/26/1994 MIA @ BOS L 36 6 2 10 20.0 0 4 0.0 2 3 66.7 0 0 0 4 0 0 3 2 -
+p413
+aVGrant Long MIA 01/26/1994 MIA @ BOS L 22 6 2 8 25.0 0 0 - 2 2 100.0 3 3 6 0 0 0 2 2 -
+p414
+aVRony Seikaly MIA 01/26/1994 MIA @ BOS L 38 23 10 23 43.5 0 0 - 3 4 75.0 8 7 15 3 1 2 5 4 -
+p415
+aVGlen Rice MIA 01/26/1994 MIA @ BOS L 38 12 6 9 66.7 0 1 0.0 0 1 0.0 1 4 5 5 2 0 2 3 -
+p416
+aVBimbo Coles MIA 01/26/1994 MIA @ BOS L 20 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 6 0 0 0 0 -
+p417
+aVJohn Salley MIA 01/26/1994 MIA @ BOS L 20 6 2 4 50.0 0 0 - 2 2 100.0 0 4 4 2 2 1 0 4 -
+p418
+aVHarold Miner MIA 01/26/1994 MIA @ BOS L 15 10 4 6 66.7 0 0 - 2 2 100.0 1 3 4 0 0 0 1 3 -
+p419
+aVGrant Long MIA 01/25/1994 MIA vs. CHH W 25 14 6 14 42.9 0 0 - 2 2 100.0 2 6 8 4 2 0 0 2 -
+p420
+aVSteven Smith MIA 01/25/1994 MIA vs. CHH W 36 25 11 17 64.7 1 4 25.0 2 2 100.0 2 1 3 10 2 2 2 2 -
+p421
+aVBimbo Coles MIA 01/25/1994 MIA vs. CHH W 26 0 0 7 0.0 0 1 0.0 0 0 - 1 2 3 4 1 1 1 2 -
+p422
+aVJohn Salley MIA 01/25/1994 MIA vs. CHH W 20 11 2 3 66.7 0 0 - 7 7 100.0 1 1 2 1 0 5 0 1 -
+p423
+aVAlec Kessler MIA 01/25/1994 MIA vs. CHH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p424
+aVHarold Miner MIA 01/25/1994 MIA vs. CHH W 18 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 1 0 0 0 0 -
+p425
+aVBrian Shaw MIA 01/25/1994 MIA vs. CHH W 22 6 2 9 22.2 0 0 - 2 4 50.0 1 4 5 4 2 0 0 2 -
+p426
+aVGlen Rice MIA 01/25/1994 MIA vs. CHH W 36 25 9 18 50.0 3 4 75.0 4 4 100.0 1 4 5 3 0 1 1 1 -
+p427
+aVWillie Burton MIA 01/25/1994 MIA vs. CHH W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p428
+aVMatt Geiger MIA 01/25/1994 MIA vs. CHH W 17 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 0 4 3 -
+p429
+aVRony Seikaly MIA 01/25/1994 MIA vs. CHH W 31 26 10 12 83.3 0 0 - 6 7 85.7 5 8 13 2 0 1 2 5 -
+p430
+aVKeith Askins MIA 01/25/1994 MIA vs. CHH W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 1 -
+p431
+aVRony Seikaly MIA 01/23/1994 MIA vs. WAS W 34 7 3 9 33.3 0 0 - 1 2 50.0 5 12 17 1 0 0 0 4 -
+p432
+aVAlec Kessler MIA 01/23/1994 MIA vs. WAS W 4 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 0 -
+p433
+aVHarold Miner MIA 01/23/1994 MIA vs. WAS W 25 10 5 8 62.5 0 0 - 0 0 - 1 0 1 4 2 0 2 3 -
+p434
+aVJohn Salley MIA 01/23/1994 MIA vs. WAS W 22 9 3 8 37.5 0 0 - 3 3 100.0 1 3 4 1 0 3 2 3 -
+p435
+aVSteven Smith MIA 01/23/1994 MIA vs. WAS W 40 18 6 10 60.0 2 3 66.7 4 5 80.0 1 2 3 15 2 0 4 2 -
+p436
+aVGrant Long MIA 01/23/1994 MIA vs. WAS W 31 16 8 10 80.0 0 0 - 0 1 0.0 4 4 8 6 0 0 3 3 -
+p437
+aVManute Bol MIA 01/23/1994 MIA vs. WAS W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 1 2 1 -
+p438
+aVMatt Geiger MIA 01/23/1994 MIA vs. WAS W 9 6 2 3 66.7 0 1 0.0 2 3 66.7 1 5 6 1 1 1 2 2 -
+p439
+aVGlen Rice MIA 01/23/1994 MIA vs. WAS W 29 21 8 14 57.1 3 6 50.0 2 2 100.0 0 3 3 1 1 0 2 0 -
+p440
+aVKeith Askins MIA 01/23/1994 MIA vs. WAS W 12 13 6 6 100.0 1 1 100.0 0 0 - 0 1 1 1 0 0 1 2 -
+p441
+aVBimbo Coles MIA 01/23/1994 MIA vs. WAS W 27 8 4 5 80.0 0 0 - 0 0 - 2 2 4 4 0 0 1 2 -
+p442
+aVJohn Salley MIA 01/21/1994 MIA vs. DET L 22 14 4 5 80.0 0 0 - 6 8 75.0 1 6 7 1 1 2 1 3 -
+p443
+aVBrian Shaw MIA 01/21/1994 MIA vs. DET L 20 6 3 10 30.0 0 2 0.0 0 0 - 1 0 1 2 1 1 2 1 -
+p444
+aVRony Seikaly MIA 01/21/1994 MIA vs. DET L 29 9 3 4 75.0 0 0 - 3 6 50.0 5 5 10 2 1 0 1 4 -
+p445
+aVBimbo Coles MIA 01/21/1994 MIA vs. DET L 22 8 3 8 37.5 0 2 0.0 2 2 100.0 0 0 0 3 0 0 2 2 -
+p446
+aVGlen Rice MIA 01/21/1994 MIA vs. DET L 39 15 6 14 42.9 0 2 0.0 3 4 75.0 0 2 2 3 1 0 3 1 -
+p447
+aVSteven Smith MIA 01/21/1994 MIA vs. DET L 34 20 7 15 46.7 1 5 20.0 5 5 100.0 3 2 5 1 0 0 2 3 -
+p448
+aVKeith Askins MIA 01/21/1994 MIA vs. DET L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -
+p449
+aVHarold Miner MIA 01/21/1994 MIA vs. DET L 22 8 2 4 50.0 0 0 - 4 6 66.7 1 2 3 4 0 0 3 2 -
+p450
+aVMatt Geiger MIA 01/21/1994 MIA vs. DET L 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 1 1 1 1 -
+p451
+aVGrant Long MIA 01/21/1994 MIA vs. DET L 26 12 5 6 83.3 0 0 - 2 4 50.0 5 2 7 0 0 0 1 2 -
+p452
+aVKeith Askins MIA 01/19/1994 MIA @ IND L 20 6 3 5 60.0 0 0 - 0 0 - 2 4 6 1 0 0 1 2 -
+p453
+aVHarold Miner MIA 01/19/1994 MIA @ IND L 24 12 4 10 40.0 0 0 - 4 6 66.7 2 2 4 3 1 0 4 3 -
+p454
+aVRony Seikaly MIA 01/19/1994 MIA @ IND L 27 12 3 9 33.3 0 0 - 6 10 60.0 1 5 6 2 3 1 3 3 -
+p455
+aVManute Bol MIA 01/19/1994 MIA @ IND L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 1 0 -
+p456
+aVGlen Rice MIA 01/19/1994 MIA @ IND L 28 10 4 14 28.6 0 3 0.0 2 3 66.7 0 1 1 2 0 0 0 2 -
+p457
+aVBrian Shaw MIA 01/19/1994 MIA @ IND L 29 11 5 9 55.6 0 0 - 1 2 50.0 3 8 11 2 1 0 4 3 -
+p458
+aVAlec Kessler MIA 01/19/1994 MIA @ IND L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 0 1 1 -
+p459
+aVSteven Smith MIA 01/19/1994 MIA @ IND L 37 13 3 7 42.9 0 3 0.0 7 7 100.0 0 2 2 7 2 0 3 1 -
+p460
+aVGrant Long MIA 01/19/1994 MIA @ IND L 23 6 3 8 37.5 0 1 0.0 0 0 - 0 1 1 1 1 1 0 4 -
+p461
+aVMatt Geiger MIA 01/19/1994 MIA @ IND L 21 14 5 7 71.4 0 0 - 4 4 100.0 0 2 2 0 2 0 1 2 -
+p462
+aVJohn Salley MIA 01/19/1994 MIA @ IND L 21 8 3 5 60.0 0 0 - 2 2 100.0 0 3 3 2 0 0 2 4 -
+p463
+aVBimbo Coles MIA 01/18/1994 MIA vs. LAC L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p464
+aVBrian Shaw MIA 01/18/1994 MIA vs. LAC L 40 11 4 15 26.7 3 6 50.0 0 0 - 1 3 4 12 0 1 4 4 -
+p465
+aVJohn Salley MIA 01/18/1994 MIA vs. LAC L 18 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 3 -
+p466
+aVGlen Rice MIA 01/18/1994 MIA vs. LAC L 40 32 11 24 45.8 5 10 50.0 5 5 100.0 2 4 6 4 3 0 1 2 -
+p467
+aVHarold Miner MIA 01/18/1994 MIA vs. LAC L 20 10 4 7 57.1 0 0 - 2 2 100.0 0 1 1 0 0 0 2 2 -
+p468
+aVGrant Long MIA 01/18/1994 MIA vs. LAC L 33 18 5 11 45.5 0 0 - 8 10 80.0 6 7 13 2 1 1 1 4 -
+p469
+aVSteven Smith MIA 01/18/1994 MIA vs. LAC L 32 17 5 12 41.7 4 9 44.4 3 4 75.0 0 5 5 6 2 1 2 1 -
+p470
+aVMatt Geiger MIA 01/18/1994 MIA vs. LAC L 6 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p471
+aVKeith Askins MIA 01/18/1994 MIA vs. LAC L 8 0 0 2 0.0 0 1 0.0 0 0 - 2 2 4 1 1 0 0 0 -
+p472
+aVRony Seikaly MIA 01/18/1994 MIA vs. LAC L 39 28 11 16 68.8 0 0 - 6 7 85.7 4 5 9 2 2 3 6 3 -
+p473
+aVGlen Rice MIA 01/15/1994 MIA @ SEA L 37 13 4 14 28.6 2 6 33.3 3 3 100.0 0 5 5 3 0 0 0 1 -
+p474
+aVMatt Geiger MIA 01/15/1994 MIA @ SEA L 9 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -
+p475
+aVAlec Kessler MIA 01/15/1994 MIA @ SEA L 5 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p476
+aVGrant Long MIA 01/15/1994 MIA @ SEA L 25 8 4 5 80.0 0 0 - 0 0 - 0 4 4 1 0 0 3 4 -
+p477
+aVJohn Salley MIA 01/15/1994 MIA @ SEA L 19 6 2 6 33.3 0 0 - 2 5 40.0 0 7 7 2 0 0 2 3 -
+p478
+aVKeith Askins MIA 01/15/1994 MIA @ SEA L 15 4 2 5 40.0 0 1 0.0 0 0 - 2 2 4 0 1 0 0 4 -
+p479
+aVBimbo Coles MIA 01/15/1994 MIA @ SEA L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 1 0 1 0 -
+p480
+aVRony Seikaly MIA 01/15/1994 MIA @ SEA L 28 11 3 6 50.0 0 0 - 5 8 62.5 3 9 12 0 0 0 3 4 -
+p481
+aVBrian Shaw MIA 01/15/1994 MIA @ SEA L 30 7 2 7 28.6 0 2 0.0 3 3 100.0 0 0 0 4 1 0 5 2 -
+p482
+aVSteven Smith MIA 01/15/1994 MIA @ SEA L 41 15 6 16 37.5 3 6 50.0 0 1 0.0 0 1 1 1 1 0 3 2 -
+p483
+aVHarold Miner MIA 01/15/1994 MIA @ SEA L 23 10 5 11 45.5 0 0 - 0 0 - 0 1 1 1 0 0 3 4 -
+p484
+aVBrian Shaw MIA 01/14/1994 MIA @ POR L 34 21 9 13 69.2 3 4 75.0 0 0 - 0 5 5 7 2 0 2 3 -
+p485
+aVJohn Salley MIA 01/14/1994 MIA @ POR L 19 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 0 0 2 5 -
+p486
+aVSteven Smith MIA 01/14/1994 MIA @ POR L 38 17 7 17 41.2 3 5 60.0 0 0 - 6 3 9 6 0 1 2 3 -
+p487
+aVHarold Miner MIA 01/14/1994 MIA @ POR L 20 15 4 13 30.8 0 0 - 7 8 87.5 3 1 4 1 1 0 2 3 -
+p488
+aVGlen Rice MIA 01/14/1994 MIA @ POR L 44 29 11 19 57.9 2 4 50.0 5 6 83.3 0 6 6 1 0 0 3 2 -
+p489
+aVRony Seikaly MIA 01/14/1994 MIA @ POR L 33 10 3 9 33.3 0 1 0.0 4 4 100.0 2 6 8 1 1 4 4 4 -
+p490
+aVMatt Geiger MIA 01/14/1994 MIA @ POR L 18 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 0 0 1 1 6 -
+p491
+aVBimbo Coles MIA 01/14/1994 MIA @ POR L 9 3 1 4 25.0 0 2 0.0 1 1 100.0 0 1 1 0 0 0 0 0 -
+p492
+aVGrant Long MIA 01/14/1994 MIA @ POR L 25 11 4 7 57.1 0 0 - 3 3 100.0 1 4 5 3 0 0 1 3 -
+p493
+aVSteven Smith MIA 01/12/1994 MIA @ GOS L 36 10 5 14 35.7 0 4 0.0 0 0 - 2 2 4 6 1 0 1 4 -
+p494
+aVMatt Geiger MIA 01/12/1994 MIA @ GOS L 28 22 10 15 66.7 0 0 - 2 3 66.7 8 6 14 1 0 1 1 3 -
+p495
+aVGrant Long MIA 01/12/1994 MIA @ GOS L 27 14 4 9 44.4 0 0 - 6 6 100.0 4 5 9 2 0 0 3 4 -
+p496
+aVBrian Shaw MIA 01/12/1994 MIA @ GOS L 23 6 3 10 30.0 0 3 0.0 0 0 - 0 1 1 3 0 1 2 3 -
+p497
+aVRony Seikaly MIA 01/12/1994 MIA @ GOS L 24 8 3 6 50.0 0 0 - 2 2 100.0 3 3 6 0 0 0 2 3 -
+p498
+aVKeith Askins MIA 01/12/1994 MIA @ GOS L 8 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -
+p499
+aVJohn Salley MIA 01/12/1994 MIA @ GOS L 24 5 2 8 25.0 0 0 - 1 2 50.0 3 1 4 3 1 0 0 0 -
+p500
+aVGlen Rice MIA 01/12/1994 MIA @ GOS L 33 13 5 15 33.3 2 3 66.7 1 2 50.0 2 8 10 0 0 0 2 3 -
+p501
+aVHarold Miner MIA 01/12/1994 MIA @ GOS L 16 6 3 8 37.5 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -
+p502
+aVBimbo Coles MIA 01/12/1994 MIA @ GOS L 21 8 3 9 33.3 2 3 66.7 0 0 - 1 1 2 4 1 0 0 1 -
+p503
+aVGrant Long MIA 01/11/1994 MIA @ SAC L 32 14 4 8 50.0 0 0 - 6 8 75.0 9 3 12 2 4 0 3 2 -
+p504
+aVKeith Askins MIA 01/11/1994 MIA @ SAC L 17 4 2 4 50.0 0 1 0.0 0 0 - 2 2 4 0 0 0 1 0 -
+p505
+aVBrian Shaw MIA 01/11/1994 MIA @ SAC L 21 10 3 9 33.3 2 6 33.3 2 2 100.0 0 1 1 4 1 1 1 4 -
+p506
+aVBimbo Coles MIA 01/11/1994 MIA @ SAC L 10 6 2 4 50.0 2 2 100.0 0 0 - 0 0 0 0 1 1 2 0 -
+p507
+aVRony Seikaly MIA 01/11/1994 MIA @ SAC L 31 11 5 17 29.4 0 0 - 1 1 100.0 3 4 7 3 0 3 2 5 -
+p508
+aVHarold Miner MIA 01/11/1994 MIA @ SAC L 23 12 5 8 62.5 0 0 - 2 2 100.0 0 2 2 1 0 0 1 2 -
+p509
+aVMatt Geiger MIA 01/11/1994 MIA @ SAC L 16 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -
+p510
+aVSteven Smith MIA 01/11/1994 MIA @ SAC L 42 26 10 19 52.6 4 8 50.0 2 2 100.0 1 3 4 5 1 0 4 1 -
+p511
+aVJohn Salley MIA 01/11/1994 MIA @ SAC L 17 5 2 6 33.3 0 0 - 1 1 100.0 1 2 3 0 1 2 0 4 -
+p512
+aVGlen Rice MIA 01/11/1994 MIA @ SAC L 31 7 3 13 23.1 0 2 0.0 1 2 50.0 1 6 7 3 1 0 1 1 -
+p513
+aVGrant Long MIA 01/08/1994 MIA @ LAC W 23 2 1 5 20.0 0 0 - 0 0 - 0 5 5 1 2 0 1 4 -
+p514
+aVKeith Askins MIA 01/08/1994 MIA @ LAC W 12 4 2 3 66.7 0 0 - 0 0 - 0 4 4 1 1 0 1 1 -
+p515
+aVSteven Smith MIA 01/08/1994 MIA @ LAC W 21 8 4 10 40.0 0 2 0.0 0 1 0.0 0 2 2 1 3 0 1 1 -
+p516
+aVBrian Shaw MIA 01/08/1994 MIA @ LAC W 23 13 5 7 71.4 3 5 60.0 0 0 - 0 2 2 6 0 0 3 2 -
+p517
+aVMatt Geiger MIA 01/08/1994 MIA @ LAC W 23 23 9 15 60.0 0 0 - 5 7 71.4 6 5 11 3 0 0 0 5 -
+p518
+aVHarold Miner MIA 01/08/1994 MIA @ LAC W 26 12 5 11 45.5 0 0 - 2 2 100.0 2 0 2 2 0 0 3 1 -
+p519
+aVJohn Salley MIA 01/08/1994 MIA @ LAC W 22 2 0 7 0.0 0 0 - 2 4 50.0 6 7 13 0 1 0 0 4 -
+p520
+aVRony Seikaly MIA 01/08/1994 MIA @ LAC W 27 19 7 14 50.0 0 0 - 5 7 71.4 3 7 10 5 1 1 1 3 -
+p521
+aVGlen Rice MIA 01/08/1994 MIA @ LAC W 36 17 7 17 41.2 0 1 0.0 3 5 60.0 1 3 4 1 1 0 2 2 -
+p522
+aVBimbo Coles MIA 01/08/1994 MIA @ LAC W 27 9 4 6 66.7 1 2 50.0 0 0 - 1 2 3 8 1 0 1 2 -
+p523
+aVKeith Askins MIA 01/07/1994 MIA @ UTH W 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 0 0 0 4 -
+p524
+aVGrant Long MIA 01/07/1994 MIA @ UTH W 27 11 5 9 55.6 0 0 - 1 2 50.0 0 2 2 0 1 0 3 2 -
+p525
+aVGlen Rice MIA 01/07/1994 MIA @ UTH W 36 27 6 16 37.5 3 5 60.0 12 13 92.3 2 6 8 2 1 0 0 4 -
+p526
+aVBimbo Coles MIA 01/07/1994 MIA @ UTH W 13 8 3 6 50.0 0 2 0.0 2 2 100.0 0 1 1 4 0 0 0 2 -
+p527
+aVMatt Geiger MIA 01/07/1994 MIA @ UTH W 17 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 1 1 3 -
+p528
+aVRony Seikaly MIA 01/07/1994 MIA @ UTH W 35 17 6 9 66.7 0 0 - 5 7 71.4 2 7 9 0 1 4 3 2 -
+p529
+aVBrian Shaw MIA 01/07/1994 MIA @ UTH W 19 8 4 8 50.0 0 0 - 0 0 - 1 1 2 4 2 0 0 3 -
+p530
+aVSteven Smith MIA 01/07/1994 MIA @ UTH W 38 11 4 8 50.0 0 1 0.0 3 3 100.0 0 4 4 11 0 1 2 2 -
+p531
+aVHarold Miner MIA 01/07/1994 MIA @ UTH W 26 15 6 11 54.5 0 1 0.0 3 3 100.0 0 2 2 1 0 0 4 3 -
+p532
+aVJohn Salley MIA 01/07/1994 MIA @ UTH W 17 5 2 5 40.0 0 0 - 1 1 100.0 3 2 5 1 0 2 1 2 -
+p533
+aVBrian Shaw MIA 01/04/1994 MIA vs. NJN W 28 4 2 3 66.7 0 0 - 0 0 - 1 4 5 8 0 1 0 1 -
+p534
+aVSteven Smith MIA 01/04/1994 MIA vs. NJN W 26 11 4 13 30.8 1 2 50.0 2 2 100.0 1 6 7 6 1 1 1 2 -
+p535
+aVKeith Askins MIA 01/04/1994 MIA vs. NJN W 17 6 3 9 33.3 0 3 0.0 0 0 - 2 1 3 1 0 1 1 3 -
+p536
+aVJohn Salley MIA 01/04/1994 MIA vs. NJN W 26 5 0 6 0.0 0 0 - 5 8 62.5 2 7 9 0 0 1 0 2 -
+p537
+aVAlec Kessler MIA 01/04/1994 MIA vs. NJN W 4 4 1 1 100.0 1 1 100.0 1 2 50.0 1 0 1 0 0 0 0 0 -
+p538
+aVRony Seikaly MIA 01/04/1994 MIA vs. NJN W 29 18 7 12 58.3 0 0 - 4 4 100.0 6 4 10 3 0 1 0 3 -
+p539
+aVGrant Long MIA 01/04/1994 MIA vs. NJN W 32 12 6 16 37.5 0 0 - 0 0 - 2 3 5 1 4 1 2 4 -
+p540
+aVMatt Geiger MIA 01/04/1994 MIA vs. NJN W 5 4 2 3 66.7 0 0 - 0 0 - 0 0 0 0 0 1 0 2 -
+p541
+aVGlen Rice MIA 01/04/1994 MIA vs. NJN W 31 22 8 16 50.0 2 4 50.0 4 4 100.0 1 8 9 3 0 0 1 0 -
+p542
+aVHarold Miner MIA 01/04/1994 MIA vs. NJN W 20 8 1 4 25.0 0 0 - 6 6 100.0 1 0 1 1 1 1 2 2 -
+p543
+aVBimbo Coles MIA 01/04/1994 MIA vs. NJN W 22 6 3 8 37.5 0 1 0.0 0 0 - 1 2 3 2 2 0 1 3 -
+p544
+aVSteven Smith MIA 01/02/1994 MIA @ DET W 20 9 3 7 42.9 0 0 - 3 4 75.0 2 2 4 1 0 0 0 5 -
+p545
+aVKeith Askins MIA 01/02/1994 MIA @ DET W 15 2 0 3 0.0 0 1 0.0 2 2 100.0 2 3 5 0 0 0 0 3 -
+p546
+aVMatt Geiger MIA 01/02/1994 MIA @ DET W 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -
+p547
+aVBimbo Coles MIA 01/02/1994 MIA @ DET W 28 8 3 10 30.0 0 2 0.0 2 3 66.7 0 0 0 5 3 0 1 2 -
+p548
+aVGlen Rice MIA 01/02/1994 MIA @ DET W 34 18 8 12 66.7 1 2 50.0 1 2 50.0 0 5 5 1 1 0 1 0 -
+p549
+aVBrian Shaw MIA 01/02/1994 MIA @ DET W 33 15 6 14 42.9 0 2 0.0 3 4 75.0 3 6 9 3 0 0 3 5 -
+p550
+aVGrant Long MIA 01/02/1994 MIA @ DET W 43 15 5 14 35.7 0 0 - 5 6 83.3 2 2 4 2 2 0 4 4 -
+p551
+aVHarold Miner MIA 01/02/1994 MIA @ DET W 15 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 4 -
+p552
+aVJohn Salley MIA 01/02/1994 MIA @ DET W 25 6 1 3 33.3 0 0 - 4 8 50.0 1 3 4 1 0 0 2 3 -
+p553
+aVRony Seikaly MIA 01/02/1994 MIA @ DET W 22 18 5 7 71.4 0 0 - 8 9 88.9 3 4 7 0 0 0 1 1 -
+p554
+aVGrant Long MIA 12/30/1993 MIA vs. ORL L 32 10 5 11 45.5 0 0 - 0 2 0.0 2 3 5 3 0 0 0 5 -
+p555
+aVJohn Salley MIA 12/30/1993 MIA vs. ORL L 40 20 8 12 66.7 0 0 - 4 6 66.7 7 9 16 0 2 0 1 5 -
+p556
+aVBrian Shaw MIA 12/30/1993 MIA vs. ORL L 20 7 2 7 28.6 1 3 33.3 2 2 100.0 3 3 6 3 0 1 1 2 -
+p557
+aVKeith Askins MIA 12/30/1993 MIA vs. ORL L 14 7 3 5 60.0 1 2 50.0 0 0 - 3 5 8 0 1 0 0 1 -
+p558
+aVHarold Miner MIA 12/30/1993 MIA vs. ORL L 33 12 5 10 50.0 0 0 - 2 4 50.0 3 0 3 1 0 0 1 4 -
+p559
+aVSteven Smith MIA 12/30/1993 MIA vs. ORL L 36 7 3 12 25.0 0 3 0.0 1 1 100.0 2 3 5 11 0 0 5 6 -
+p560
+aVGlen Rice MIA 12/30/1993 MIA vs. ORL L 39 24 8 25 32.0 4 7 57.1 4 4 100.0 2 1 3 2 1 0 2 5 -
+p561
+aVMatt Geiger MIA 12/30/1993 MIA vs. ORL L 13 10 4 6 66.7 0 0 - 2 3 66.7 0 2 2 1 0 0 1 2 -
+p562
+aVBimbo Coles MIA 12/30/1993 MIA vs. ORL L 13 3 1 8 12.5 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 1 -
+p563
+aVBimbo Coles MIA 12/28/1993 MIA vs. SAN L 11 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 -
+p564
+aVGlen Rice MIA 12/28/1993 MIA vs. SAN L 45 15 5 16 31.3 0 5 0.0 5 7 71.4 1 9 10 2 1 0 2 2 -
+p565
+aVSteven Smith MIA 12/28/1993 MIA vs. SAN L 39 21 9 24 37.5 1 7 14.3 2 2 100.0 4 5 9 6 0 0 3 2 -
+p566
+aVGrant Long MIA 12/28/1993 MIA vs. SAN L 40 13 5 12 41.7 0 1 0.0 3 3 100.0 3 5 8 5 3 1 1 5 -
+p567
+aVJohn Salley MIA 12/28/1993 MIA vs. SAN L 41 6 2 9 22.2 0 0 - 2 2 100.0 2 1 3 0 0 1 2 5 -
+p568
+aVBrian Shaw MIA 12/28/1993 MIA vs. SAN L 22 6 3 15 20.0 0 4 0.0 0 0 - 1 4 5 4 0 0 0 5 -
+p569
+aVHarold Miner MIA 12/28/1993 MIA vs. SAN L 27 11 5 8 62.5 0 0 - 1 2 50.0 3 2 5 1 0 2 4 2 -
+p570
+aVMatt Geiger MIA 12/28/1993 MIA vs. SAN L 15 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 2 0 1 1 -
+p571
+aVJohn Salley MIA 12/26/1993 MIA vs. SAC W 27 14 6 9 66.7 0 0 - 2 2 100.0 3 4 7 1 1 3 1 2 -
+p572
+aVKeith Askins MIA 12/26/1993 MIA vs. SAC W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -
+p573
+aVGlen Rice MIA 12/26/1993 MIA vs. SAC W 36 17 6 15 40.0 1 4 25.0 4 5 80.0 1 5 6 3 2 0 2 3 -
+p574
+aVHarold Miner MIA 12/26/1993 MIA vs. SAC W 23 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 3 0 0 3 3 -
+p575
+aVBimbo Coles MIA 12/26/1993 MIA vs. SAC W 11 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 2 0 0 2 2 -
+p576
+aVBrian Shaw MIA 12/26/1993 MIA vs. SAC W 24 20 8 11 72.7 3 4 75.0 1 2 50.0 4 4 8 1 2 0 3 4 -
+p577
+aVRony Seikaly MIA 12/26/1993 MIA vs. SAC W 30 7 2 11 18.2 0 0 - 3 4 75.0 5 4 9 2 0 5 2 2 -
+p578
+aVMatt Geiger MIA 12/26/1993 MIA vs. SAC W 24 17 7 10 70.0 0 0 - 3 4 75.0 4 4 8 0 0 3 1 2 -
+p579
+aVGrant Long MIA 12/26/1993 MIA vs. SAC W 24 4 2 6 33.3 0 0 - 0 0 - 2 1 3 3 4 0 2 3 -
+p580
+aVSteven Smith MIA 12/26/1993 MIA vs. SAC W 38 23 7 13 53.8 2 4 50.0 7 8 87.5 2 2 4 4 2 0 3 1 -
+p581
+aVJohn Salley MIA 12/23/1993 MIA vs. LAL W 27 8 2 4 50.0 0 0 - 4 4 100.0 2 8 10 1 0 1 1 3 -
+p582
+aVBimbo Coles MIA 12/23/1993 MIA vs. LAL W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 4 1 0 1 1 -
+p583
+aVGlen Rice MIA 12/23/1993 MIA vs. LAL W 39 21 7 20 35.0 3 4 75.0 4 4 100.0 3 7 10 4 0 0 2 2 -
+p584
+aVRony Seikaly MIA 12/23/1993 MIA vs. LAL W 29 4 2 8 25.0 0 0 - 0 0 - 4 10 14 2 0 1 1 3 -
+p585
+aVGrant Long MIA 12/23/1993 MIA vs. LAL W 28 16 7 10 70.0 0 0 - 2 2 100.0 3 3 6 2 1 0 3 4 -
+p586
+aVHarold Miner MIA 12/23/1993 MIA vs. LAL W 32 16 8 15 53.3 0 0 - 0 0 - 4 1 5 2 0 0 2 0 -
+p587
+aVSteven Smith MIA 12/23/1993 MIA vs. LAL W 31 23 7 17 41.2 2 5 40.0 7 7 100.0 1 1 2 3 2 0 2 5 -
+p588
+aVBrian Shaw MIA 12/23/1993 MIA vs. LAL W 24 5 2 4 50.0 0 0 - 1 4 25.0 1 3 4 2 2 1 2 4 -
+p589
+aVMatt Geiger MIA 12/23/1993 MIA vs. LAL W 21 16 7 12 58.3 0 0 - 2 4 50.0 4 2 6 1 0 1 2 2 -
+p590
+aVRony Seikaly MIA 12/22/1993 MIA @ PHL W 27 9 3 6 50.0 0 0 - 3 3 100.0 4 5 9 2 0 3 1 6 -
+p591
+aVGrant Long MIA 12/22/1993 MIA @ PHL W 33 9 3 10 30.0 0 0 - 3 3 100.0 0 4 4 3 1 2 1 4 -
+p592
+aVBrian Shaw MIA 12/22/1993 MIA @ PHL W 27 17 7 12 58.3 0 2 0.0 3 4 75.0 4 4 8 6 4 0 2 2 -
+p593
+aVGlen Rice MIA 12/22/1993 MIA @ PHL W 43 25 10 17 58.8 3 7 42.9 2 2 100.0 0 6 6 1 2 0 0 1 -
+p594
+aVHarold Miner MIA 12/22/1993 MIA @ PHL W 17 6 3 6 50.0 0 0 - 0 0 - 1 0 1 2 0 0 1 0 -
+p595
+aVSteven Smith MIA 12/22/1993 MIA @ PHL W 39 19 6 14 42.9 0 1 0.0 7 9 77.8 0 4 4 8 1 0 3 4 -
+p596
+aVBimbo Coles MIA 12/22/1993 MIA @ PHL W 13 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 4 1 0 3 1 -
+p597
+aVMatt Geiger MIA 12/22/1993 MIA @ PHL W 15 8 3 3 100.0 0 0 - 2 2 100.0 0 0 0 1 1 2 1 5 -
+p598
+aVJohn Salley MIA 12/22/1993 MIA @ PHL W 26 3 1 4 25.0 0 0 - 1 2 50.0 2 3 5 2 0 1 4 3 -
+p599
+aVKeith Askins MIA 12/18/1993 MIA vs. PHL W 2 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p600
+aVMatt Geiger MIA 12/18/1993 MIA vs. PHL W 11 6 2 2 100.0 0 0 - 2 2 100.0 1 3 4 1 1 0 1 1 -
+p601
+aVJohn Salley MIA 12/18/1993 MIA vs. PHL W 24 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 2 0 1 1 3 -
+p602
+aVRony Seikaly MIA 12/18/1993 MIA vs. PHL W 37 15 7 12 58.3 0 0 - 1 2 50.0 4 11 15 2 0 1 2 4 -
+p603
+aVGrant Long MIA 12/18/1993 MIA vs. PHL W 28 13 6 6 100.0 0 0 - 1 2 50.0 1 2 3 4 2 1 0 4 -
+p604
+aVSteven Smith MIA 12/18/1993 MIA vs. PHL W 41 29 11 18 61.1 2 4 50.0 5 6 83.3 5 4 9 6 1 1 2 1 -
+p605
+aVHarold Miner MIA 12/18/1993 MIA vs. PHL W 18 7 2 5 40.0 0 0 - 3 4 75.0 0 1 1 0 0 0 3 3 -
+p606
+aVGlen Rice MIA 12/18/1993 MIA vs. PHL W 42 30 14 29 48.3 1 5 20.0 1 1 100.0 2 3 5 3 0 0 1 2 -
+p607
+aVBimbo Coles MIA 12/18/1993 MIA vs. PHL W 13 2 1 5 20.0 0 2 0.0 0 0 - 0 0 0 3 0 0 1 1 -
+p608
+aVBrian Shaw MIA 12/18/1993 MIA vs. PHL W 24 4 2 7 28.6 0 1 0.0 0 0 - 4 5 9 10 2 0 2 1 -
+p609
+aVWillie Burton MIA 12/16/1993 MIA vs. CLE W 10 8 3 4 75.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 2 -
+p610
+aVGrant Long MIA 12/16/1993 MIA vs. CLE W 16 2 1 4 25.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -
+p611
+aVBrian Shaw MIA 12/16/1993 MIA vs. CLE W 13 7 2 5 40.0 0 1 0.0 3 4 75.0 1 2 3 3 0 0 0 2 -
+p612
+aVSteven Smith MIA 12/16/1993 MIA vs. CLE W 20 9 4 7 57.1 0 0 - 1 1 100.0 2 1 3 2 2 0 2 2 -
+p613
+aVRony Seikaly MIA 12/16/1993 MIA vs. CLE W 41 11 4 10 40.0 0 0 - 3 7 42.9 3 14 17 2 0 2 6 4 -
+p614
+aVBimbo Coles MIA 12/16/1993 MIA vs. CLE W 36 9 3 8 37.5 1 4 25.0 2 4 50.0 0 5 5 9 1 1 2 2 -
+p615
+aVMatt Geiger MIA 12/16/1993 MIA vs. CLE W 12 4 2 5 40.0 0 0 - 0 0 - 2 2 4 0 0 0 0 4 -
+p616
+aVJohn Salley MIA 12/16/1993 MIA vs. CLE W 22 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 1 1 0 2 5 -
+p617
+aVHarold Miner MIA 12/16/1993 MIA vs. CLE W 29 12 5 9 55.6 0 0 - 2 2 100.0 0 1 1 2 0 0 1 4 -
+p618
+aVGlen Rice MIA 12/16/1993 MIA vs. CLE W 41 24 10 22 45.5 1 2 50.0 3 3 100.0 0 4 4 2 3 1 4 2 -
+p619
+aVWillie Burton MIA 12/14/1993 MIA vs. HOU L 25 17 7 13 53.8 0 1 0.0 3 4 75.0 5 3 8 0 1 0 2 3 -
+p620
+aVMatt Geiger MIA 12/14/1993 MIA vs. HOU L 20 9 2 5 40.0 0 0 - 5 6 83.3 1 3 4 0 0 1 2 2 -
+p621
+aVGlen Rice MIA 12/14/1993 MIA vs. HOU L 31 2 1 13 7.7 0 2 0.0 0 1 0.0 0 2 2 3 1 0 0 3 -
+p622
+aVJohn Salley MIA 12/14/1993 MIA vs. HOU L 21 4 1 1 100.0 0 0 - 2 2 100.0 2 3 5 1 1 1 1 0 -
+p623
+aVRony Seikaly MIA 12/14/1993 MIA vs. HOU L 31 14 6 11 54.5 0 0 - 2 4 50.0 3 7 10 4 1 3 5 4 -
+p624
+aVGrant Long MIA 12/14/1993 MIA vs. HOU L 27 7 3 6 50.0 0 0 - 1 2 50.0 1 9 10 3 0 0 2 1 -
+p625
+aVHarold Miner MIA 12/14/1993 MIA vs. HOU L 39 24 8 16 50.0 0 0 - 8 8 100.0 1 2 3 1 3 0 1 0 -
+p626
+aVBrian Shaw MIA 12/14/1993 MIA vs. HOU L 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 -
+p627
+aVBimbo Coles MIA 12/14/1993 MIA vs. HOU L 40 11 5 13 38.5 0 3 0.0 1 2 50.0 1 2 3 5 2 1 4 1 -
+p628
+aVBrian Shaw MIA 12/13/1993 MIA @ NJN L 12 0 0 1 0.0 0 0 - 0 0 - 0 4 4 5 0 1 0 1 -
+p629
+aVMatt Geiger MIA 12/13/1993 MIA @ NJN L 13 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 3 -
+p630
+aVJohn Salley MIA 12/13/1993 MIA @ NJN L 47 12 5 10 50.0 0 0 - 2 4 50.0 8 9 17 5 2 2 2 4 -
+p631
+aVHarold Miner MIA 12/13/1993 MIA @ NJN L 34 10 3 10 30.0 0 0 - 4 4 100.0 0 4 4 2 0 1 2 5 -
+p632
+aVBimbo Coles MIA 12/13/1993 MIA @ NJN L 54 10 5 14 35.7 0 1 0.0 0 0 - 1 8 9 7 1 2 3 4 -
+p633
+aVGlen Rice MIA 12/13/1993 MIA @ NJN L 55 39 17 36 47.2 2 5 40.0 3 5 60.0 0 3 3 2 0 2 1 3 -
+p634
+aVRony Seikaly MIA 12/13/1993 MIA @ NJN L 50 27 9 20 45.0 0 0 - 9 10 90.0 2 6 8 1 0 2 3 4 -
+p635
+aVGrant Long MIA 12/13/1993 MIA @ NJN L 25 6 3 7 42.9 0 0 - 0 0 - 3 4 7 0 0 3 1 6 -
+p636
+aVRony Seikaly MIA 12/11/1993 MIA vs. BOS W 26 15 6 12 50.0 0 0 - 3 5 60.0 1 6 7 2 1 0 3 4 -
+p637
+aVGlen Rice MIA 12/11/1993 MIA vs. BOS W 39 25 12 16 75.0 1 2 50.0 0 0 - 2 11 13 3 0 1 1 2 -
+p638
+aVGrant Long MIA 12/11/1993 MIA vs. BOS W 24 10 4 12 33.3 0 0 - 2 2 100.0 0 4 4 2 0 0 2 2 -
+p639
+aVHarold Miner MIA 12/11/1993 MIA vs. BOS W 35 28 10 16 62.5 0 0 - 8 11 72.7 1 0 1 3 0 1 2 0 -
+p640
+aVWillie Burton MIA 12/11/1993 MIA vs. BOS W 20 6 3 7 42.9 0 0 - 0 0 - 2 3 5 1 0 0 2 4 -
+p641
+aVAlec Kessler MIA 12/11/1993 MIA vs. BOS W 4 5 1 1 100.0 1 1 100.0 2 2 100.0 0 1 1 1 0 0 0 2 -
+p642
+aVMatt Geiger MIA 12/11/1993 MIA vs. BOS W 15 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 6 -
+p643
+aVBimbo Coles MIA 12/11/1993 MIA vs. BOS W 45 11 5 15 33.3 0 1 0.0 1 2 50.0 0 0 0 9 5 0 2 3 -
+p644
+aVJohn Salley MIA 12/11/1993 MIA vs. BOS W 32 7 2 3 66.7 0 0 - 3 5 60.0 2 11 13 6 4 2 1 4 -
+p645
+aVGrant Long MIA 12/09/1993 MIA @ HOU L 29 8 2 9 22.2 0 0 - 4 4 100.0 3 4 7 2 3 2 1 6 -
+p646
+aVJohn Salley MIA 12/09/1993 MIA @ HOU L 25 4 1 2 50.0 0 0 - 2 2 100.0 2 2 4 6 1 0 0 5 -
+p647
+aVBimbo Coles MIA 12/09/1993 MIA @ HOU L 30 10 5 10 50.0 0 4 0.0 0 0 - 0 0 0 0 1 0 1 3 -
+p648
+aVMatt Geiger MIA 12/09/1993 MIA @ HOU L 13 6 2 4 50.0 0 0 - 2 2 100.0 2 2 4 0 0 0 0 4 -
+p649
+aVGlen Rice MIA 12/09/1993 MIA @ HOU L 42 40 14 29 48.3 4 8 50.0 8 10 80.0 2 4 6 5 6 0 1 2 -
+p650
+aVSteven Smith MIA 12/09/1993 MIA @ HOU L 49 21 7 15 46.7 3 7 42.9 4 5 80.0 2 4 6 10 2 1 7 2 -
+p651
+aVHarold Miner MIA 12/09/1993 MIA @ HOU L 28 8 4 9 44.4 0 0 - 0 0 - 1 2 3 2 0 0 2 4 -
+p652
+aVWillie Burton MIA 12/09/1993 MIA @ HOU L 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -
+p653
+aVRony Seikaly MIA 12/09/1993 MIA @ HOU L 40 12 3 8 37.5 0 0 - 6 6 100.0 4 8 12 1 2 1 3 6 -
+p654
+aVBrian Shaw MIA 12/07/1993 MIA @ DAL W 30 10 5 8 62.5 0 1 0.0 0 0 - 1 4 5 8 0 1 1 3 -
+p655
+aVJohn Salley MIA 12/07/1993 MIA @ DAL W 39 8 3 5 60.0 0 0 - 2 2 100.0 5 5 10 1 1 3 2 2 -
+p656
+aVBimbo Coles MIA 12/07/1993 MIA @ DAL W 22 13 5 5 100.0 1 1 100.0 2 4 50.0 0 1 1 1 1 0 2 0 -
+p657
+aVHarold Miner MIA 12/07/1993 MIA @ DAL W 8 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -
+p658
+aVSteven Smith MIA 12/07/1993 MIA @ DAL W 35 16 5 17 29.4 1 3 33.3 5 6 83.3 3 5 8 2 1 0 2 6 -
+p659
+aVMatt Geiger MIA 12/07/1993 MIA @ DAL W 10 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -
+p660
+aVGrant Long MIA 12/07/1993 MIA @ DAL W 19 2 0 2 0.0 0 0 - 2 2 100.0 1 2 3 4 0 0 2 2 -
+p661
+aVGlen Rice MIA 12/07/1993 MIA @ DAL W 44 29 12 24 50.0 3 6 50.0 2 2 100.0 0 3 3 1 2 0 4 2 -
+p662
+aVRony Seikaly MIA 12/07/1993 MIA @ DAL W 33 20 7 14 50.0 0 0 - 6 8 75.0 7 5 12 2 0 0 2 5 -
+p663
+aVRony Seikaly MIA 12/03/1993 MIA vs. CHI L 32 8 2 4 50.0 0 0 - 4 6 66.7 1 9 10 1 1 0 2 5 -
+p664
+aVJohn Salley MIA 12/03/1993 MIA vs. CHI L 32 9 4 5 80.0 0 0 - 1 2 50.0 1 4 5 2 1 1 3 4 -
+p665
+aVWillie Burton MIA 12/03/1993 MIA vs. CHI L 24 12 4 6 66.7 0 0 - 4 6 66.7 0 3 3 1 0 2 2 4 -
+p666
+aVBrian Shaw MIA 12/03/1993 MIA vs. CHI L 30 6 3 8 37.5 0 2 0.0 0 0 - 1 4 5 2 0 0 2 3 -
+p667
+aVManute Bol MIA 12/03/1993 MIA vs. CHI L 14 0 0 2 0.0 0 0 - 0 0 - 1 4 5 0 0 2 2 1 -
+p668
+aVSteven Smith MIA 12/03/1993 MIA vs. CHI L 36 17 6 16 37.5 1 4 25.0 4 4 100.0 5 3 8 3 2 0 1 3 -
+p669
+aVBimbo Coles MIA 12/03/1993 MIA vs. CHI L 30 14 6 16 37.5 0 4 0.0 2 2 100.0 3 1 4 5 0 0 0 2 -
+p670
+aVGlen Rice MIA 12/03/1993 MIA vs. CHI L 42 33 13 25 52.0 2 6 33.3 5 5 100.0 4 5 9 3 4 1 3 5 -
+p671
+aVBimbo Coles MIA 11/30/1993 MIA vs. POR L 28 14 5 10 50.0 2 2 100.0 2 2 100.0 1 1 2 5 0 0 4 5 -
+p672
+aVHarold Miner MIA 11/30/1993 MIA vs. POR L 20 8 4 13 30.8 0 0 - 0 0 - 1 0 1 2 0 0 0 1 -
+p673
+aVBrian Shaw MIA 11/30/1993 MIA vs. POR L 17 12 6 11 54.5 0 2 0.0 0 0 - 3 1 4 2 2 0 1 2 -
+p674
+aVSteven Smith MIA 11/30/1993 MIA vs. POR L 31 11 4 10 40.0 2 5 40.0 1 2 50.0 1 2 3 5 0 1 3 1 -
+p675
+aVWillie Burton MIA 11/30/1993 MIA vs. POR L 15 6 2 5 40.0 0 0 - 2 2 100.0 1 0 1 0 0 0 1 4 -
+p676
+aVJohn Salley MIA 11/30/1993 MIA vs. POR L 28 4 2 4 50.0 0 0 - 0 0 - 2 9 11 2 3 1 4 2 -
+p677
+aVGlen Rice MIA 11/30/1993 MIA vs. POR L 38 18 6 19 31.6 2 4 50.0 4 5 80.0 1 1 2 3 0 1 4 2 -
+p678
+aVRony Seikaly MIA 11/30/1993 MIA vs. POR L 35 19 5 8 62.5 0 0 - 9 10 90.0 1 10 11 0 0 1 2 4 -
+p679
+aVMatt Geiger MIA 11/30/1993 MIA vs. POR L 28 17 6 6 100.0 0 0 - 5 7 71.4 1 3 4 0 2 0 0 5 -
+p680
+aVBrian Shaw MIA 11/27/1993 MIA vs. CHH W 14 9 4 7 57.1 1 3 33.3 0 0 - 1 2 3 3 0 0 5 1 -
+p681
+aVJohn Salley MIA 11/27/1993 MIA vs. CHH W 31 10 3 6 50.0 0 0 - 4 6 66.7 6 7 13 4 0 1 1 5 -
+p682
+aVBimbo Coles MIA 11/27/1993 MIA vs. CHH W 24 9 4 5 80.0 1 2 50.0 0 0 - 0 1 1 4 1 0 1 4 -
+p683
+aVSteven Smith MIA 11/27/1993 MIA vs. CHH W 40 21 7 18 38.9 2 3 66.7 5 5 100.0 3 2 5 3 2 0 1 3 -
+p684
+aVRony Seikaly MIA 11/27/1993 MIA vs. CHH W 15 2 1 4 25.0 0 0 - 0 0 - 1 4 5 0 0 2 2 1 -
+p685
+aVHarold Miner MIA 11/27/1993 MIA vs. CHH W 35 19 5 11 45.5 0 0 - 9 10 90.0 1 3 4 8 0 0 3 3 -
+p686
+aVGlen Rice MIA 11/27/1993 MIA vs. CHH W 43 29 13 27 48.1 0 5 0.0 3 3 100.0 5 6 11 3 2 0 2 3 -
+p687
+aVManute Bol MIA 11/27/1993 MIA vs. CHH W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p688
+aVMatt Geiger MIA 11/27/1993 MIA vs. CHH W 35 15 5 8 62.5 0 0 - 5 5 100.0 7 6 13 1 0 1 1 5 -
+p689
+aVWillie Burton MIA 11/26/1993 MIA @ BOS W 13 8 4 10 40.0 0 0 - 0 0 - 3 0 3 0 0 0 1 0 -
+p690
+aVBrian Shaw MIA 11/26/1993 MIA @ BOS W 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 2 -
+p691
+aVRony Seikaly MIA 11/26/1993 MIA @ BOS W 31 11 2 8 25.0 0 0 - 7 9 77.8 2 8 10 1 0 0 0 5 -
+p692
+aVMatt Geiger MIA 11/26/1993 MIA @ BOS W 19 10 3 5 60.0 0 0 - 4 4 100.0 0 3 3 2 0 1 1 3 -
+p693
+aVHarold Miner MIA 11/26/1993 MIA @ BOS W 33 9 4 10 40.0 0 0 - 1 2 50.0 1 2 3 2 1 1 3 2 -
+p694
+aVJohn Salley MIA 11/26/1993 MIA @ BOS W 37 10 4 9 44.4 0 0 - 2 2 100.0 2 6 8 2 0 0 2 6 -
+p695
+aVBimbo Coles MIA 11/26/1993 MIA @ BOS W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 4 0 0 0 2 -
+p696
+aVSteven Smith MIA 11/26/1993 MIA @ BOS W 39 15 6 16 37.5 0 0 - 3 4 75.0 1 5 6 7 0 1 3 4 -
+p697
+aVGlen Rice MIA 11/26/1993 MIA @ BOS W 43 38 12 19 63.2 1 2 50.0 13 14 92.9 2 14 16 3 5 1 2 2 -
+p698
+aVMatt Geiger MIA 11/24/1993 MIA vs. GOS L 23 8 3 6 50.0 0 0 - 2 3 66.7 3 2 5 0 0 0 0 3 -
+p699
+aVWillie Burton MIA 11/24/1993 MIA vs. GOS L 20 10 4 9 44.4 0 1 0.0 2 2 100.0 2 1 3 0 0 0 1 4 -
+p700
+aVRony Seikaly MIA 11/24/1993 MIA vs. GOS L 45 14 5 12 41.7 0 0 - 4 5 80.0 8 10 18 3 2 1 3 3 -
+p701
+aVJohn Salley MIA 11/24/1993 MIA vs. GOS L 22 1 0 5 0.0 0 0 - 1 2 50.0 2 3 5 2 0 1 2 4 -
+p702
+aVGlen Rice MIA 11/24/1993 MIA vs. GOS L 34 27 11 18 61.1 4 6 66.7 1 2 50.0 0 5 5 2 0 0 2 3 -
+p703
+aVSteven Smith MIA 11/24/1993 MIA vs. GOS L 42 32 12 18 66.7 2 2 100.0 6 7 85.7 2 2 4 4 1 1 5 6 -
+p704
+aVHarold Miner MIA 11/24/1993 MIA vs. GOS L 34 10 3 14 21.4 0 0 - 4 5 80.0 2 2 4 1 2 0 0 2 -
+p705
+aVBimbo Coles MIA 11/24/1993 MIA vs. GOS L 20 0 0 6 0.0 0 3 0.0 0 0 - 1 1 2 7 1 0 0 1 -
+p706
+aVGlen Rice MIA 11/22/1993 MIA @ NYK L 32 9 3 12 25.0 1 3 33.3 2 2 100.0 0 6 6 1 1 0 1 4 -
+p707
+aVJohn Salley MIA 11/22/1993 MIA @ NYK L 19 4 1 3 33.3 0 0 - 2 4 50.0 0 0 0 0 0 1 3 4 -
+p708
+aVSteven Smith MIA 11/22/1993 MIA @ NYK L 25 8 3 7 42.9 0 1 0.0 2 2 100.0 0 1 1 4 2 0 3 4 -
+p709
+aVManute Bol MIA 11/22/1993 MIA @ NYK L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 0 -
+p710
+aVHarold Miner MIA 11/22/1993 MIA @ NYK L 26 15 6 9 66.7 1 1 100.0 2 2 100.0 1 1 2 1 2 1 0 1 -
+p711
+aVBrian Shaw MIA 11/22/1993 MIA @ NYK L 20 8 2 4 50.0 0 1 0.0 4 4 100.0 0 2 2 1 1 0 5 6 -
+p712
+aVBimbo Coles MIA 11/22/1993 MIA @ NYK L 25 5 1 4 25.0 0 3 0.0 3 4 75.0 0 2 2 3 1 1 1 2 -
+p713
+aVMatt Geiger MIA 11/22/1993 MIA @ NYK L 31 8 3 9 33.3 0 0 - 2 2 100.0 2 3 5 0 0 0 1 3 -
+p714
+aVRony Seikaly MIA 11/22/1993 MIA @ NYK L 34 16 6 12 50.0 0 0 - 4 7 57.1 3 4 7 2 1 2 1 4 -
+p715
+aVGary Alexander MIA 11/22/1993 MIA @ NYK L 2 2 1 2 50.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 2 -
+p716
+aVWillie Burton MIA 11/22/1993 MIA @ NYK L 16 12 4 7 57.1 0 1 0.0 4 5 80.0 0 1 1 2 0 0 2 0 -
+p717
+aVHarold Miner MIA 11/20/1993 MIA @ WAS L 33 24 9 11 81.8 0 0 - 6 8 75.0 1 4 5 1 2 0 1 4 -
+p718
+aVBrian Shaw MIA 11/20/1993 MIA @ WAS L 9 4 1 3 33.3 0 2 0.0 2 2 100.0 0 3 3 2 0 0 1 2 -
+p719
+aVManute Bol MIA 11/20/1993 MIA @ WAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p720
+aVJohn Salley MIA 11/20/1993 MIA @ WAS L 33 8 2 5 40.0 0 0 - 4 4 100.0 1 3 4 1 1 2 1 5 -
+p721
+aVRony Seikaly MIA 11/20/1993 MIA @ WAS L 35 12 4 11 36.4 0 0 - 4 6 66.7 0 3 3 3 2 1 4 6 -
+p722
+aVBimbo Coles MIA 11/20/1993 MIA @ WAS L 27 12 5 9 55.6 1 3 33.3 1 1 100.0 0 1 1 5 1 0 1 2 -
+p723
+aVWillie Burton MIA 11/20/1993 MIA @ WAS L 24 18 4 10 40.0 0 1 0.0 10 11 90.9 2 0 2 3 3 0 1 2 -
+p724
+aVGlen Rice MIA 11/20/1993 MIA @ WAS L 24 8 3 8 37.5 0 0 - 2 2 100.0 0 1 1 1 1 0 2 2 -
+p725
+aVSteven Smith MIA 11/20/1993 MIA @ WAS L 28 10 3 9 33.3 0 1 0.0 4 4 100.0 1 4 5 3 1 1 3 1 -
+p726
+aVMatt Geiger MIA 11/20/1993 MIA @ WAS L 21 6 2 6 33.3 0 0 - 2 2 100.0 1 2 3 0 1 0 0 5 -
+p727
+aVSteven Smith MIA 11/19/1993 MIA vs. ATL L 36 11 4 9 44.4 0 2 0.0 3 3 100.0 0 0 0 9 2 0 6 3 -
+p728
+aVJohn Salley MIA 11/19/1993 MIA vs. ATL L 38 14 7 10 70.0 0 0 - 0 0 - 3 2 5 2 1 3 2 4 -
+p729
+aVGlen Rice MIA 11/19/1993 MIA vs. ATL L 35 10 4 11 36.4 0 3 0.0 2 2 100.0 1 2 3 3 2 1 2 2 -
+p730
+aVBimbo Coles MIA 11/19/1993 MIA vs. ATL L 21 9 4 7 57.1 1 3 33.3 0 0 - 0 3 3 4 2 0 3 1 -
+p731
+aVBrian Shaw MIA 11/19/1993 MIA vs. ATL L 14 5 2 6 33.3 1 2 50.0 0 0 - 2 1 3 2 2 0 1 1 -
+p732
+aVRony Seikaly MIA 11/19/1993 MIA vs. ATL L 41 19 9 19 47.4 0 0 - 1 1 100.0 4 11 15 4 2 0 4 4 -
+p733
+aVHarold Miner MIA 11/19/1993 MIA vs. ATL L 25 16 7 11 63.6 0 0 - 2 3 66.7 2 2 4 2 1 0 3 3 -
+p734
+aVWillie Burton MIA 11/19/1993 MIA vs. ATL L 13 3 1 5 20.0 0 0 - 1 2 50.0 2 0 2 1 0 0 0 2 -
+p735
+aVMatt Geiger MIA 11/19/1993 MIA vs. ATL L 17 5 2 3 66.7 0 0 - 1 1 100.0 1 4 5 1 0 0 0 4 -
+p736
+aVGlen Rice MIA 11/17/1993 MIA vs. UTH L 42 18 8 16 50.0 1 3 33.3 1 2 50.0 2 5 7 3 2 1 4 3 -
+p737
+aVSteven Smith MIA 11/17/1993 MIA vs. UTH L 29 15 6 12 50.0 1 2 50.0 2 3 66.7 1 3 4 3 0 0 4 6 -
+p738
+aVBimbo Coles MIA 11/17/1993 MIA vs. UTH L 31 19 7 10 70.0 5 7 71.4 0 1 0.0 0 3 3 7 0 1 0 5 -
+p739
+aVHarold Miner MIA 11/17/1993 MIA vs. UTH L 36 21 7 16 43.8 0 0 - 7 9 77.8 3 0 3 1 1 0 1 2 -
+p740
+aVJohn Salley MIA 11/17/1993 MIA vs. UTH L 29 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 3 1 1 0 6 -
+p741
+aVMatt Geiger MIA 11/17/1993 MIA vs. UTH L 25 7 2 7 28.6 0 0 - 3 3 100.0 5 4 9 3 2 2 2 4 -
+p742
+aVRony Seikaly MIA 11/17/1993 MIA vs. UTH L 42 24 7 12 58.3 0 0 - 10 13 76.9 3 5 8 2 0 1 4 5 -
+p743
+aVWillie Burton MIA 11/17/1993 MIA vs. UTH L 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 2 2 -
+p744
+aVMatt Geiger MIA 11/12/1993 MIA @ ORL W 15 8 4 5 80.0 0 0 - 0 0 - 1 2 3 1 1 1 1 0 -
+p745
+aVManute Bol MIA 11/12/1993 MIA @ ORL W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -
+p746
+aVSteven Smith MIA 11/12/1993 MIA @ ORL W 33 20 9 12 75.0 0 0 - 2 3 66.7 1 5 6 10 2 1 5 4 -
+p747
+aVBimbo Coles MIA 11/12/1993 MIA @ ORL W 22 8 3 5 60.0 0 2 0.0 2 2 100.0 0 0 0 7 1 0 1 2 -
+p748
+aVBrian Shaw MIA 11/12/1993 MIA @ ORL W 11 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 4 1 -
+p749
+aVHarold Miner MIA 11/12/1993 MIA @ ORL W 31 14 5 14 35.7 0 0 - 4 6 66.7 4 1 5 1 1 0 1 4 -
+p750
+aVJohn Salley MIA 11/12/1993 MIA @ ORL W 35 13 5 8 62.5 0 0 - 3 4 75.0 3 4 7 3 0 2 1 4 -
+p751
+aVRony Seikaly MIA 11/12/1993 MIA @ ORL W 35 10 4 10 40.0 0 0 - 2 2 100.0 2 9 11 5 0 1 6 5 -
+p752
+aVGlen Rice MIA 11/12/1993 MIA @ ORL W 37 30 11 14 78.6 1 3 33.3 7 7 100.0 0 3 3 2 2 1 0 3 -
+p753
+aVWillie Burton MIA 11/12/1993 MIA @ ORL W 11 8 3 5 60.0 1 1 100.0 1 1 100.0 0 0 0 2 0 1 1 1 -
+p754
+aVJohn Salley MIA 11/11/1993 MIA vs. MIL W 18 4 2 4 50.0 0 0 - 0 0 - 3 2 5 0 1 0 4 4 -
+p755
+aVWillie Burton MIA 11/11/1993 MIA vs. MIL W 17 6 2 5 40.0 0 1 0.0 2 5 40.0 1 2 3 1 0 0 0 1 -
+p756
+aVGary Alexander MIA 11/11/1993 MIA vs. MIL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p757
+aVSteven Smith MIA 11/11/1993 MIA vs. MIL W 35 24 8 11 72.7 1 2 50.0 7 7 100.0 2 3 5 7 3 2 1 5 -
+p758
+aVGlen Rice MIA 11/11/1993 MIA vs. MIL W 32 6 3 9 33.3 0 2 0.0 0 0 - 1 1 2 4 0 0 1 2 -
+p759
+aVBrian Shaw MIA 11/11/1993 MIA vs. MIL W 11 0 0 2 0.0 0 0 - 0 0 - 1 2 3 3 0 0 1 2 -
+p760
+aVMatt Geiger MIA 11/11/1993 MIA vs. MIL W 29 18 7 12 58.3 0 0 - 4 5 80.0 5 5 10 0 0 0 0 0 -
+p761
+aVHarold Miner MIA 11/11/1993 MIA vs. MIL W 29 18 7 15 46.7 0 0 - 4 4 100.0 2 2 4 1 2 0 0 1 -
+p762
+aVBimbo Coles MIA 11/11/1993 MIA vs. MIL W 21 7 2 5 40.0 1 1 100.0 2 3 66.7 2 1 3 2 1 0 2 1 -
+p763
+aVRony Seikaly MIA 11/11/1993 MIA vs. MIL W 46 33 14 23 60.9 0 0 - 5 7 71.4 5 8 13 4 0 4 5 4 -
+p764
+aVGary Alexander MIA 11/06/1993 MIA @ CHI W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p765
+aVBimbo Coles MIA 11/06/1993 MIA @ CHI W 31 7 3 7 42.9 0 1 0.0 1 2 50.0 2 4 6 6 4 0 1 2 -
+p766
+aVSteven Smith MIA 11/06/1993 MIA @ CHI W 32 11 4 8 50.0 0 0 - 3 3 100.0 1 7 8 10 0 0 5 5 -
+p767
+aVJohn Salley MIA 11/06/1993 MIA @ CHI W 38 9 4 5 80.0 0 0 - 1 3 33.3 2 6 8 2 3 1 1 3 -
+p768
+aVBrian Shaw MIA 11/06/1993 MIA @ CHI W 9 2 1 4 25.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p769
+aVGlen Rice MIA 11/06/1993 MIA @ CHI W 43 24 10 16 62.5 1 5 20.0 3 3 100.0 1 7 8 4 2 1 5 2 -
+p770
+aVHarold Miner MIA 11/06/1993 MIA @ CHI W 24 8 4 9 44.4 0 0 - 0 0 - 0 1 1 5 0 0 2 4 -
+p771
+aVWillie Burton MIA 11/06/1993 MIA @ CHI W 12 5 1 4 25.0 0 0 - 3 4 75.0 0 2 2 0 1 0 1 0 -
+p772
+aVRony Seikaly MIA 11/06/1993 MIA @ CHI W 40 28 11 17 64.7 0 0 - 6 9 66.7 2 9 11 0 0 3 5 4 -
+p773
+aVManute Bol MIA 11/06/1993 MIA @ CHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p774
+aVMatt Geiger MIA 11/06/1993 MIA @ CHI W 1 1 0 2 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -
+p775
+aVGary Alexander MIA 11/05/1993 MIA vs. ORL L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p776
+aVHarold Miner MIA 11/05/1993 MIA vs. ORL L 29 11 5 13 38.5 0 1 0.0 1 2 50.0 1 0 1 2 0 0 2 0 -
+p777
+aVRony Seikaly MIA 11/05/1993 MIA vs. ORL L 32 21 7 12 58.3 0 0 - 7 10 70.0 1 3 4 3 0 1 1 5 -
+p778
+aVMatt Geiger MIA 11/05/1993 MIA vs. ORL L 16 6 2 5 40.0 0 1 0.0 2 2 100.0 2 2 4 1 0 0 0 2 -
+p779
+aVBimbo Coles MIA 11/05/1993 MIA vs. ORL L 25 16 5 8 62.5 2 2 100.0 4 4 100.0 1 0 1 1 1 1 1 3 -
+p780
+aVBrian Shaw MIA 11/05/1993 MIA vs. ORL L 18 2 1 6 16.7 0 3 0.0 0 0 - 0 3 3 2 0 1 0 0 -
+p781
+aVSteven Smith MIA 11/05/1993 MIA vs. ORL L 28 10 4 12 33.3 0 1 0.0 2 2 100.0 1 5 6 5 0 0 1 3 -
+p782
+aVWillie Burton MIA 11/05/1993 MIA vs. ORL L 20 3 0 4 0.0 0 0 - 3 4 75.0 2 2 4 1 0 1 3 2 -
+p783
+aVKeith Askins MIA 11/05/1993 MIA vs. ORL L 5 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 0 0 0 0 1 -
+p784
+aVGlen Rice MIA 11/05/1993 MIA vs. ORL L 28 17 7 15 46.7 2 3 66.7 1 1 100.0 0 4 4 1 1 0 1 1 -
+p785
+aVJohn Salley MIA 11/05/1993 MIA vs. ORL L 34 9 2 2 100.0 0 0 - 5 6 83.3 1 4 5 4 1 1 3 2 -
+p786
+a.

@@ -1,0 +1,152 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDevin Harris DAL 05/04/2014 DAL @ SAS L 28 17 6 10 60.0 3 3 100.0 2 2 100.0 1 1 2 3 0 0 3 0 -17
+p2
+aVWayne Ellington DAL 05/04/2014 DAL @ SAS L 10 8 2 4 50.0 2 4 50.0 2 2 100.0 0 2 2 2 0 0 2 1 5
+p3
+aVShane Larkin DAL 05/04/2014 DAL @ SAS L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 2
+p4
+aVJose Calderon DAL 05/04/2014 DAL @ SAS L 29 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 4 0 0 0 4 -1
+p5
+aVVince Carter DAL 05/04/2014 DAL @ SAS L 32 10 4 12 33.3 2 6 33.3 0 0 - 1 3 4 4 0 0 2 5 -13
+p6
+aVDeJuan Blair DAL 05/04/2014 DAL @ SAS L 15 8 4 5 80.0 0 0 - 0 0 - 1 4 5 0 2 0 0 1 -1
+p7
+aVSamuel Dalembert DAL 05/04/2014 DAL @ SAS L 8 2 1 3 33.3 0 0 - 0 0 - 4 2 6 0 0 0 0 1 -18
+p8
+aVBrandan Wright DAL 05/04/2014 DAL @ SAS L 7 6 3 4 75.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p9
+aVBernard James DAL 05/04/2014 DAL @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 6
+p10
+aVJae Crowder DAL 05/04/2014 DAL @ SAS L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 2 0 0 0 1 -3
+p11
+aVShawn Marion DAL 05/04/2014 DAL @ SAS L 20 5 2 5 40.0 0 1 0.0 1 2 50.0 1 2 3 1 1 0 2 2 -21
+p12
+aVDirk Nowitzki DAL 05/04/2014 DAL @ SAS L 36 22 8 21 38.1 0 2 0.0 6 7 85.7 2 7 9 0 2 1 1 1 -30
+p13
+aVMonta Ellis DAL 05/04/2014 DAL @ SAS L 31 12 3 11 27.3 2 6 33.3 4 4 100.0 1 1 2 2 0 1 2 5 -24
+p14
+aVDirk Nowitzki DAL 05/02/2014 DAL vs. SAS W 38 22 11 20 55.0 0 3 0.0 0 0 - 0 5 5 3 0 0 4 3 -2
+p15
+aVJose Calderon DAL 05/02/2014 DAL vs. SAS W 32 12 5 9 55.6 2 3 66.7 0 0 - 1 4 5 6 1 0 1 2 6
+p16
+aVVince Carter DAL 05/02/2014 DAL vs. SAS W 28 13 4 6 66.7 2 4 50.0 3 4 75.0 2 4 6 2 1 0 1 3 13
+p17
+aVJae Crowder DAL 05/02/2014 DAL vs. SAS W 8 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 3 -9
+p18
+aVDevin Harris DAL 05/02/2014 DAL vs. SAS W 26 11 4 8 50.0 0 0 - 3 4 75.0 0 0 0 2 0 1 0 1 3
+p19
+aVDeJuan Blair DAL 05/02/2014 DAL vs. SAS W 29 10 3 10 30.0 0 0 - 4 7 57.1 5 9 14 1 4 0 2 3 11
+p20
+aVShawn Marion DAL 05/02/2014 DAL vs. SAS W 25 7 3 6 50.0 0 1 0.0 1 3 33.3 1 3 4 2 0 0 0 2 -3
+p21
+aVMonta Ellis DAL 05/02/2014 DAL vs. SAS W 35 29 11 22 50.0 3 6 50.0 4 6 66.7 0 2 2 2 1 0 5 1 -4
+p22
+aVSamuel Dalembert DAL 05/02/2014 DAL vs. SAS W 19 6 3 4 75.0 0 0 - 0 0 - 4 0 4 0 1 1 2 2 -5
+p23
+aVVince Carter DAL 04/30/2014 DAL @ SAS L 27 28 10 16 62.5 7 9 77.8 1 2 50.0 1 2 3 2 0 1 1 0 10
+p24
+aVMonta Ellis DAL 04/30/2014 DAL @ SAS L 40 21 8 18 44.4 1 4 25.0 4 4 100.0 1 1 2 6 1 0 1 5 -7
+p25
+aVSamuel Dalembert DAL 04/30/2014 DAL @ SAS L 23 2 0 2 0.0 0 0 - 2 2 100.0 0 9 9 0 0 2 1 3 -13
+p26
+aVDirk Nowitzki DAL 04/30/2014 DAL @ SAS L 39 26 10 20 50.0 0 2 0.0 6 6 100.0 1 14 15 1 0 1 3 3 -15
+p27
+aVShawn Marion DAL 04/30/2014 DAL @ SAS L 24 6 3 10 30.0 0 2 0.0 0 0 - 2 3 5 0 1 0 1 1 -7
+p28
+aVDevin Harris DAL 04/30/2014 DAL @ SAS L 29 8 3 11 27.3 2 6 33.3 0 0 - 0 5 5 4 0 0 0 2 7
+p29
+aVBrandan Wright DAL 04/30/2014 DAL @ SAS L 24 4 2 3 66.7 0 0 - 0 1 0.0 2 3 5 3 0 4 0 3 6
+p30
+aVJae Crowder DAL 04/30/2014 DAL @ SAS L 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 1
+p31
+aVJose Calderon DAL 04/30/2014 DAL @ SAS L 26 8 3 9 33.3 2 5 40.0 0 0 - 1 1 2 2 0 0 0 3 -12
+p32
+aVShawn Marion DAL 04/28/2014 DAL vs. SAS L 29 4 1 6 16.7 0 2 0.0 2 2 100.0 2 5 7 1 0 0 0 1 2
+p33
+aVBrandan Wright DAL 04/28/2014 DAL vs. SAS L 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -8
+p34
+aVVince Carter DAL 04/28/2014 DAL vs. SAS L 28 8 2 9 22.2 2 6 33.3 2 2 100.0 2 1 3 5 2 1 0 3 -1
+p35
+aVDirk Nowitzki DAL 04/28/2014 DAL vs. SAS L 37 19 7 19 36.8 0 3 0.0 5 7 71.4 1 6 7 2 0 1 2 5 -5
+p36
+aVJose Calderon DAL 04/28/2014 DAL vs. SAS L 29 13 5 10 50.0 3 4 75.0 0 0 - 0 0 0 3 0 0 0 1 -7
+p37
+aVMonta Ellis DAL 04/28/2014 DAL vs. SAS L 35 20 6 20 30.0 2 5 40.0 6 7 85.7 1 3 4 3 2 0 4 1 -4
+p38
+aVJae Crowder DAL 04/28/2014 DAL vs. SAS L 14 2 1 3 33.3 0 2 0.0 0 0 - 0 0 0 0 1 0 1 1 -4
+p39
+aVDevin Harris DAL 04/28/2014 DAL vs. SAS L 19 4 2 7 28.6 0 2 0.0 0 0 - 0 1 1 4 0 0 1 3 3
+p40
+aVSamuel Dalembert DAL 04/28/2014 DAL vs. SAS L 26 3 1 3 33.3 0 0 - 1 6 16.7 4 11 15 0 1 1 0 3 0
+p41
+aVDeJuan Blair DAL 04/28/2014 DAL vs. SAS L 16 12 5 5 100.0 0 0 - 2 4 50.0 5 6 11 0 2 0 1 5 4
+p42
+aVDirk Nowitzki DAL 04/26/2014 DAL vs. SAS W 39 18 7 13 53.8 0 0 - 4 6 66.7 0 7 7 3 2 0 3 4 11
+p43
+aVVince Carter DAL 04/26/2014 DAL vs. SAS W 23 11 3 8 37.5 1 3 33.3 4 4 100.0 0 3 3 1 0 0 1 0 -6
+p44
+aVMonta Ellis DAL 04/26/2014 DAL vs. SAS W 37 29 12 22 54.5 3 7 42.9 2 2 100.0 1 1 2 3 0 0 1 2 1
+p45
+aVJae Crowder DAL 04/26/2014 DAL vs. SAS W 12 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -3
+p46
+aVJose Calderon DAL 04/26/2014 DAL vs. SAS W 30 16 7 10 70.0 2 3 66.7 0 0 - 0 0 0 9 0 0 4 2 14
+p47
+aVDeJuan Blair DAL 04/26/2014 DAL vs. SAS W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -6
+p48
+aVDevin Harris DAL 04/26/2014 DAL vs. SAS W 19 3 1 5 20.0 1 4 25.0 0 0 - 0 2 2 4 1 0 2 1 -14
+p49
+aVSamuel Dalembert DAL 04/26/2014 DAL vs. SAS W 25 13 4 8 50.0 0 0 - 5 5 100.0 6 4 10 0 0 4 0 4 12
+p50
+aVBrandan Wright DAL 04/26/2014 DAL vs. SAS W 18 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 1 0 0 -4
+p51
+aVShawn Marion DAL 04/26/2014 DAL vs. SAS W 33 9 3 11 27.3 2 6 33.3 1 2 50.0 2 4 6 5 1 1 2 2 0
+p52
+aVShane Larkin DAL 04/23/2014 DAL @ SAS W 2 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 1
+p53
+aVBernard James DAL 04/23/2014 DAL @ SAS W 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 1
+p54
+aVBrandan Wright DAL 04/23/2014 DAL @ SAS W 9 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 4
+p55
+aVShawn Marion DAL 04/23/2014 DAL @ SAS W 35 20 8 10 80.0 2 4 50.0 2 2 100.0 3 2 5 2 3 0 0 2 11
+p56
+aVDeJuan Blair DAL 04/23/2014 DAL @ SAS W 14 8 3 6 50.0 0 0 - 2 2 100.0 3 4 7 0 4 0 0 3 13
+p57
+aVMonta Ellis DAL 04/23/2014 DAL @ SAS W 34 21 8 20 40.0 1 4 25.0 4 4 100.0 1 2 3 3 3 0 1 1 9
+p58
+aVVince Carter DAL 04/23/2014 DAL @ SAS W 22 8 3 6 50.0 1 1 100.0 1 2 50.0 1 0 1 2 0 0 1 1 19
+p59
+aVSamuel Dalembert DAL 04/23/2014 DAL @ SAS W 16 4 1 2 50.0 0 0 - 2 2 100.0 4 3 7 0 0 1 1 0 4
+p60
+aVWayne Ellington DAL 04/23/2014 DAL @ SAS W 3 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p61
+aVJae Crowder DAL 04/23/2014 DAL @ SAS W 16 2 1 4 25.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 2 9
+p62
+aVJose Calderon DAL 04/23/2014 DAL @ SAS W 28 12 5 10 50.0 1 4 25.0 1 1 100.0 0 0 0 5 0 0 1 2 11
+p63
+aVDevin Harris DAL 04/23/2014 DAL @ SAS W 24 18 7 9 77.8 2 3 66.7 2 2 100.0 0 4 4 5 1 1 2 4 12
+p64
+aVDirk Nowitzki DAL 04/23/2014 DAL @ SAS W 35 16 7 19 36.8 1 1 100.0 1 1 100.0 0 5 5 1 2 1 1 2 12
+p65
+aVShawn Marion DAL 04/20/2014 DAL @ SAS L 27 8 4 11 36.4 0 2 0.0 0 0 - 3 4 7 2 0 0 0 1 -14
+p66
+aVDirk Nowitzki DAL 04/20/2014 DAL @ SAS L 39 11 4 14 28.6 0 1 0.0 3 4 75.0 1 7 8 1 0 2 1 2 -3
+p67
+aVDevin Harris DAL 04/20/2014 DAL @ SAS L 32 19 8 16 50.0 3 7 42.9 0 0 - 0 3 3 5 0 0 3 2 2
+p68
+aVDeJuan Blair DAL 04/20/2014 DAL @ SAS L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p69
+aVJose Calderon DAL 04/20/2014 DAL @ SAS L 16 7 3 9 33.3 1 2 50.0 0 0 - 0 0 0 2 0 0 1 2 -7
+p70
+aVSamuel Dalembert DAL 04/20/2014 DAL @ SAS L 17 2 1 2 50.0 0 0 - 0 0 - 1 7 8 0 0 1 0 2 -11
+p71
+aVVince Carter DAL 04/20/2014 DAL @ SAS L 30 10 5 11 45.5 0 2 0.0 0 0 - 0 5 5 1 0 0 0 0 9
+p72
+aVMonta Ellis DAL 04/20/2014 DAL @ SAS L 36 11 4 14 28.6 0 2 0.0 3 4 75.0 1 1 2 1 2 0 1 4 -23
+p73
+aVJae Crowder DAL 04/20/2014 DAL @ SAS L 12 6 2 3 66.7 2 2 100.0 0 0 - 1 3 4 0 1 1 0 3 16
+p74
+aVBrandan Wright DAL 04/20/2014 DAL @ SAS L 26 11 4 5 80.0 0 0 - 3 5 60.0 2 1 3 3 2 1 2 3 7
+p75
+a.

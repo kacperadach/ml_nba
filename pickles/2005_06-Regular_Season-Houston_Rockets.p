@@ -1,0 +1,1636 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVRick Brunson HOU 04/19/2006 HOU vs. SAS L 7 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 2 1 2
+p2
+aVStromile Swift HOU 04/19/2006 HOU vs. SAS L 23 18 8 11 72.7 0 0 - 2 4 50.0 1 3 4 0 1 1 3 1 -6
+p3
+aVDavid Wesley HOU 04/19/2006 HOU vs. SAS L 36 10 3 11 27.3 2 4 50.0 2 2 100.0 1 2 3 4 0 0 3 4 6
+p4
+aVDikembe Mutombo HOU 04/19/2006 HOU vs. SAS L 17 4 1 2 50.0 0 0 - 2 3 66.7 1 7 8 0 2 1 0 1 -5
+p5
+aVRyan Bowen HOU 04/19/2006 HOU vs. SAS L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -2
+p6
+aVLuther Head HOU 04/19/2006 HOU vs. SAS L 36 17 6 13 46.2 1 5 20.0 4 4 100.0 2 5 7 3 2 0 4 3 6
+p7
+aVJuwan Howard HOU 04/19/2006 HOU vs. SAS L 25 8 3 11 27.3 0 0 - 2 2 100.0 3 3 6 1 1 0 2 4 4
+p8
+aVCharles Hayes HOU 04/19/2006 HOU vs. SAS L 31 14 6 7 85.7 0 0 - 2 3 66.7 3 4 7 0 2 1 0 4 3
+p9
+aVKeith Bogans HOU 04/19/2006 HOU vs. SAS L 22 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 0 1 0 2 0 -14
+p10
+aVRafer Alston HOU 04/19/2006 HOU vs. SAS L 40 14 6 16 37.5 0 3 0.0 2 6 33.3 0 4 4 8 2 0 2 4 -4
+p11
+aVStromile Swift HOU 04/17/2006 HOU @ DEN W 16 4 1 5 20.0 0 0 - 2 2 100.0 0 3 3 1 0 1 0 2 -1
+p12
+aVLuther Head HOU 04/17/2006 HOU @ DEN W 25 8 3 8 37.5 2 5 40.0 0 0 - 0 2 2 3 1 0 0 1 -2
+p13
+aVCharles Hayes HOU 04/17/2006 HOU @ DEN W 24 3 1 3 33.3 0 0 - 1 1 100.0 1 4 5 0 1 2 1 3 8
+p14
+aVRafer Alston HOU 04/17/2006 HOU @ DEN W 42 17 5 17 29.4 2 8 25.0 5 6 83.3 1 6 7 7 1 0 3 3 12
+p15
+aVDavid Wesley HOU 04/17/2006 HOU @ DEN W 28 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 4 3 -7
+p16
+aVKeith Bogans HOU 04/17/2006 HOU @ DEN W 39 15 5 15 33.3 2 7 28.6 3 6 50.0 0 7 7 4 1 0 1 4 6
+p17
+aVJuwan Howard HOU 04/17/2006 HOU @ DEN W 33 31 12 19 63.2 0 0 - 7 9 77.8 3 4 7 1 1 0 1 5 4
+p18
+aVDikembe Mutombo HOU 04/17/2006 HOU @ DEN W 24 6 3 4 75.0 0 0 - 0 1 0.0 1 3 4 0 1 0 2 5 -5
+p19
+aVRyan Bowen HOU 04/17/2006 HOU @ DEN W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 3
+p20
+aVRick Brunson HOU 04/17/2006 HOU @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 2 0 -3
+p21
+aVRyan Bowen HOU 04/15/2006 HOU vs. MEM L 17 6 3 7 42.9 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 5
+p22
+aVStromile Swift HOU 04/15/2006 HOU vs. MEM L 20 10 4 7 57.1 0 0 - 2 4 50.0 0 3 3 0 0 0 1 0 -9
+p23
+aVRick Brunson HOU 04/15/2006 HOU vs. MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -3
+p24
+aVDikembe Mutombo HOU 04/15/2006 HOU vs. MEM L 22 9 2 3 66.7 0 0 - 5 6 83.3 3 6 9 0 0 2 1 1 -5
+p25
+aVJuwan Howard HOU 04/15/2006 HOU vs. MEM L 35 16 5 18 27.8 0 0 - 6 6 100.0 2 5 7 0 1 0 1 3 -15
+p26
+aVDavid Wesley HOU 04/15/2006 HOU vs. MEM L 19 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 0 0 0 2 4 -12
+p27
+aVKeith Bogans HOU 04/15/2006 HOU vs. MEM L 30 9 4 8 50.0 0 2 0.0 1 3 33.3 1 3 4 1 1 0 1 4 -16
+p28
+aVRafer Alston HOU 04/15/2006 HOU vs. MEM L 44 13 6 15 40.0 1 4 25.0 0 1 0.0 0 3 3 10 2 0 1 2 -9
+p29
+aVCharles Hayes HOU 04/15/2006 HOU vs. MEM L 19 4 2 3 66.7 0 0 - 0 0 - 3 2 5 1 1 0 0 3 5
+p30
+aVLuther Head HOU 04/15/2006 HOU vs. MEM L 30 8 2 5 40.0 1 2 50.0 3 4 75.0 1 4 5 4 0 0 0 1 -1
+p31
+aVLuther Head HOU 04/12/2006 HOU vs. MIN L 37 10 4 8 50.0 0 2 0.0 2 2 100.0 0 4 4 4 2 0 1 3 -4
+p32
+aVRafer Alston HOU 04/12/2006 HOU vs. MIN L 36 17 8 20 40.0 1 4 25.0 0 0 - 1 3 4 5 3 0 1 4 -3
+p33
+aVStromile Swift HOU 04/12/2006 HOU vs. MIN L 22 13 3 9 33.3 0 0 - 7 10 70.0 3 2 5 0 1 1 1 2 -6
+p34
+aVKeith Bogans HOU 04/12/2006 HOU vs. MIN L 38 8 2 6 33.3 0 2 0.0 4 4 100.0 1 3 4 1 0 0 2 5 1
+p35
+aVDavid Wesley HOU 04/12/2006 HOU vs. MIN L 21 6 2 7 28.6 0 2 0.0 2 3 66.7 0 0 0 0 0 0 2 2 -3
+p36
+aVJuwan Howard HOU 04/12/2006 HOU vs. MIN L 33 15 6 17 35.3 0 0 - 3 4 75.0 4 5 9 0 1 0 5 4 -7
+p37
+aVDikembe Mutombo HOU 04/12/2006 HOU vs. MIN L 17 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 1 1 1 2 2
+p38
+aVCharles Hayes HOU 04/12/2006 HOU vs. MIN L 24 6 3 5 60.0 0 0 - 0 0 - 6 4 10 2 2 1 2 3 5
+p39
+aVRyan Bowen HOU 04/12/2006 HOU vs. MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p40
+aVRick Brunson HOU 04/12/2006 HOU vs. MIN L 11 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 3 1 0 2 0 2
+p41
+aVKeith Bogans HOU 04/10/2006 HOU @ UTA L 37 6 3 9 33.3 0 4 0.0 0 0 - 0 5 5 2 2 0 2 4 6
+p42
+aVRick Brunson HOU 04/10/2006 HOU @ UTA L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -1
+p43
+aVStromile Swift HOU 04/10/2006 HOU @ UTA L 13 3 1 5 20.0 0 0 - 1 2 50.0 2 3 5 1 0 0 3 4 5
+p44
+aVRafer Alston HOU 04/10/2006 HOU @ UTA L 45 22 8 19 42.1 3 7 42.9 3 4 75.0 0 1 1 4 2 0 1 1 -1
+p45
+aVCharles Hayes HOU 04/10/2006 HOU @ UTA L 21 9 4 4 100.0 0 0 - 1 3 33.3 4 6 10 0 3 0 0 2 5
+p46
+aVLuther Head HOU 04/10/2006 HOU @ UTA L 38 4 2 9 22.2 0 3 0.0 0 2 0.0 1 0 1 5 3 0 3 3 -10
+p47
+aVYao Ming HOU 04/10/2006 HOU @ UTA L 8 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 0 1 0 0 -4
+p48
+aVDavid Wesley HOU 04/10/2006 HOU @ UTA L 20 7 3 7 42.9 0 2 0.0 1 1 100.0 0 2 2 1 1 1 1 6 1
+p49
+aVDikembe Mutombo HOU 04/10/2006 HOU @ UTA L 20 2 0 0 - 0 0 - 2 2 100.0 2 4 6 0 0 0 0 1 -4
+p50
+aVJuwan Howard HOU 04/10/2006 HOU @ UTA L 35 25 12 20 60.0 0 0 - 1 1 100.0 1 3 4 0 1 0 1 4 -7
+p51
+aVStromile Swift HOU 04/09/2006 HOU @ SAC L 14 8 4 8 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 3 -11
+p52
+aVYao Ming HOU 04/09/2006 HOU @ SAC L 34 19 8 12 66.7 0 0 - 3 3 100.0 5 7 12 2 1 0 6 5 -15
+p53
+aVLuther Head HOU 04/09/2006 HOU @ SAC L 40 13 5 10 50.0 3 5 60.0 0 0 - 0 4 4 4 0 0 0 0 -6
+p54
+aVJuwan Howard HOU 04/09/2006 HOU @ SAC L 36 22 10 19 52.6 0 0 - 2 2 100.0 3 5 8 1 1 0 3 2 0
+p55
+aVCharles Hayes HOU 04/09/2006 HOU @ SAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p56
+aVKeith Bogans HOU 04/09/2006 HOU @ SAC L 43 9 4 9 44.4 1 4 25.0 0 4 0.0 0 5 5 3 1 0 1 4 -10
+p57
+aVRafer Alston HOU 04/09/2006 HOU @ SAC L 37 1 0 11 0.0 0 4 0.0 1 2 50.0 1 3 4 9 4 0 6 2 -6
+p58
+aVDavid Wesley HOU 04/09/2006 HOU @ SAC L 19 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 5 1 0 1 3 -3
+p59
+aVDikembe Mutombo HOU 04/09/2006 HOU @ SAC L 10 0 0 1 0.0 0 0 - 0 0 - 2 2 4 0 0 1 0 1 2
+p60
+aVRick Brunson HOU 04/09/2006 HOU @ SAC L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 2
+p61
+aVRafer Alston HOU 04/07/2006 HOU @ GSW W 41 16 6 14 42.9 2 4 50.0 2 2 100.0 1 4 5 9 2 0 1 2 10
+p62
+aVDavid Wesley HOU 04/07/2006 HOU @ GSW W 30 4 1 6 16.7 0 2 0.0 2 2 100.0 0 1 1 6 0 0 0 5 12
+p63
+aVLuther Head HOU 04/07/2006 HOU @ GSW W 41 26 8 9 88.9 6 7 85.7 4 6 66.7 1 7 8 3 1 0 1 4 8
+p64
+aVJuwan Howard HOU 04/07/2006 HOU @ GSW W 31 12 6 14 42.9 0 0 - 0 0 - 1 2 3 1 2 0 1 1 3
+p65
+aVCharles Hayes HOU 04/07/2006 HOU @ GSW W 10 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 0 1 5
+p66
+aVStromile Swift HOU 04/07/2006 HOU @ GSW W 12 8 2 4 50.0 0 0 - 4 6 66.7 0 1 1 0 0 1 3 1 1
+p67
+aVRyan Bowen HOU 04/07/2006 HOU @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p68
+aVRick Brunson HOU 04/07/2006 HOU @ GSW W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -3
+p69
+aVYao Ming HOU 04/07/2006 HOU @ GSW W 32 30 12 22 54.5 0 0 - 6 6 100.0 2 12 14 2 0 2 6 4 8
+p70
+aVKeith Bogans HOU 04/07/2006 HOU @ GSW W 22 0 0 4 0.0 0 3 0.0 0 0 - 1 2 3 4 1 1 0 2 -1
+p71
+aVDikembe Mutombo HOU 04/07/2006 HOU @ GSW W 11 2 1 2 50.0 0 0 - 0 0 - 3 4 7 0 0 1 2 1 -3
+p72
+aVDikembe Mutombo HOU 04/05/2006 HOU @ POR L 16 4 1 2 50.0 0 0 - 2 2 100.0 4 2 6 0 1 1 0 3 10
+p73
+aVLuther Head HOU 04/05/2006 HOU @ POR L 39 13 6 11 54.5 1 3 33.3 0 0 - 1 2 3 5 3 1 3 2 1
+p74
+aVJuwan Howard HOU 04/05/2006 HOU @ POR L 38 12 5 12 41.7 0 0 - 2 2 100.0 0 7 7 0 1 0 3 5 11
+p75
+aVStromile Swift HOU 04/05/2006 HOU @ POR L 11 3 1 5 20.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 2 -12
+p76
+aVKeith Bogans HOU 04/05/2006 HOU @ POR L 39 20 8 13 61.5 4 6 66.7 0 0 - 0 5 5 2 3 0 3 0 4
+p77
+aVDavid Wesley HOU 04/05/2006 HOU @ POR L 18 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 2 1 0 1 2 -7
+p78
+aVYao Ming HOU 04/05/2006 HOU @ POR L 31 13 5 11 45.5 0 0 - 3 5 60.0 2 5 7 1 1 4 5 4 -11
+p79
+aVRick Brunson HOU 04/05/2006 HOU @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p80
+aVRafer Alston HOU 04/05/2006 HOU @ POR L 43 5 2 12 16.7 1 5 20.0 0 0 - 0 3 3 10 2 0 2 3 6
+p81
+aVRafer Alston HOU 04/04/2006 HOU @ SEA L 37 16 6 15 40.0 3 5 60.0 1 2 50.0 1 2 3 4 3 0 5 4 -19
+p82
+aVJuwan Howard HOU 04/04/2006 HOU @ SEA L 28 13 5 13 38.5 0 0 - 3 4 75.0 3 7 10 2 0 0 2 3 -8
+p83
+aVLuther Head HOU 04/04/2006 HOU @ SEA L 34 6 3 6 50.0 0 2 0.0 0 0 - 0 1 1 4 0 1 2 1 -17
+p84
+aVKeith Bogans HOU 04/04/2006 HOU @ SEA L 22 4 2 5 40.0 0 1 0.0 0 3 0.0 0 0 0 3 1 0 0 3 -12
+p85
+aVRichie Frahm HOU 04/04/2006 HOU @ SEA L 18 8 3 6 50.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 1 2 -2
+p86
+aVStromile Swift HOU 04/04/2006 HOU @ SEA L 15 7 3 7 42.9 0 0 - 1 1 100.0 1 3 4 1 0 0 1 3 -9
+p87
+aVRick Brunson HOU 04/04/2006 HOU @ SEA L 17 5 2 6 33.3 1 1 100.0 0 0 - 0 3 3 5 0 0 2 1 1
+p88
+aVCharles Hayes HOU 04/04/2006 HOU @ SEA L 23 4 2 4 50.0 0 0 - 0 0 - 3 4 7 1 0 0 0 2 -10
+p89
+aVRyan Bowen HOU 04/04/2006 HOU @ SEA L 14 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 0 2 -2
+p90
+aVMaciej Lampe HOU 04/04/2006 HOU @ SEA L 3 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 1 0 -1
+p91
+aVYao Ming HOU 04/04/2006 HOU @ SEA L 29 22 7 15 46.7 0 0 - 8 8 100.0 1 9 10 2 1 1 2 6 -6
+p92
+aVLuther Head HOU 04/02/2006 HOU @ LAL L 10 6 2 10 20.0 1 4 25.0 1 2 50.0 0 3 3 4 1 0 0 2 -6
+p93
+aVYao Ming HOU 04/02/2006 HOU @ LAL L 27 33 16 25 64.0 0 0 - 1 3 33.3 5 11 16 3 2 0 4 3 -9
+p94
+aVMaciej Lampe HOU 04/02/2006 HOU @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p95
+aVCharles Hayes HOU 04/02/2006 HOU @ LAL L 6 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -2
+p96
+aVRafer Alston HOU 04/02/2006 HOU @ LAL L 23 12 5 13 38.5 1 5 20.0 1 2 50.0 1 2 3 6 1 0 5 3 -15
+p97
+aVStromile Swift HOU 04/02/2006 HOU @ LAL L 11 10 5 10 50.0 0 0 - 0 0 - 3 2 5 0 0 0 0 4 -2
+p98
+aVKeith Bogans HOU 04/02/2006 HOU @ LAL L 25 7 3 11 27.3 1 5 20.0 0 0 - 1 4 5 2 1 1 1 3 -17
+p99
+aVRichie Frahm HOU 04/02/2006 HOU @ LAL L 16 9 3 7 42.9 3 5 60.0 0 0 - 0 0 0 2 0 0 0 0 -11
+p100
+aVRick Brunson HOU 04/02/2006 HOU @ LAL L 9 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 1
+p101
+aVJuwan Howard HOU 04/02/2006 HOU @ LAL L 12 7 2 7 28.6 0 0 - 3 4 75.0 1 3 4 1 1 0 1 3 -19
+p102
+aVJuwan Howard HOU 03/31/2006 HOU vs. WAS W 28 5 2 5 40.0 0 0 - 1 2 50.0 2 2 4 2 0 0 1 3 -4
+p103
+aVRyan Bowen HOU 03/31/2006 HOU vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p104
+aVRafer Alston HOU 03/31/2006 HOU vs. WAS W 38 19 6 10 60.0 2 4 50.0 5 8 62.5 0 3 3 8 0 0 3 4 -3
+p105
+aVRick Brunson HOU 03/31/2006 HOU vs. WAS W 10 3 1 3 33.3 0 1 0.0 1 2 50.0 0 3 3 1 1 0 1 0 5
+p106
+aVStromile Swift HOU 03/31/2006 HOU vs. WAS W 23 8 4 7 57.1 0 0 - 0 1 0.0 0 3 3 0 0 0 1 4 -1
+p107
+aVLuther Head HOU 03/31/2006 HOU vs. WAS W 40 20 8 11 72.7 3 4 75.0 1 2 50.0 1 6 7 1 2 1 0 1 -1
+p108
+aVDikembe Mutombo HOU 03/31/2006 HOU vs. WAS W 5 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 2
+p109
+aVYao Ming HOU 03/31/2006 HOU vs. WAS W 40 38 15 25 60.0 0 0 - 8 8 100.0 2 9 11 3 0 2 7 3 7
+p110
+aVKeith Bogans HOU 03/31/2006 HOU vs. WAS W 42 8 2 6 33.3 1 2 50.0 3 4 75.0 0 4 4 4 0 0 2 5 10
+p111
+aVRichie Frahm HOU 03/31/2006 HOU vs. WAS W 13 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 1 0 -5
+p112
+aVCharles Hayes HOU 03/29/2006 HOU vs. SEA W 12 2 0 1 0.0 0 0 - 2 2 100.0 3 1 4 1 1 0 0 1 -1
+p113
+aVRyan Bowen HOU 03/29/2006 HOU vs. SEA W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p114
+aVRafer Alston HOU 03/29/2006 HOU vs. SEA W 35 10 5 12 41.7 0 3 0.0 0 0 - 0 4 4 8 4 0 0 3 14
+p115
+aVLuther Head HOU 03/29/2006 HOU vs. SEA W 42 14 5 12 41.7 1 3 33.3 3 3 100.0 1 5 6 5 2 0 0 3 26
+p116
+aVStromile Swift HOU 03/29/2006 HOU vs. SEA W 18 16 8 11 72.7 0 0 - 0 0 - 2 3 5 2 0 0 2 6 13
+p117
+aVMaciej Lampe HOU 03/29/2006 HOU vs. SEA W 5 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 0 1 0 1
+p118
+aVRick Brunson HOU 03/29/2006 HOU vs. SEA W 13 6 1 1 100.0 0 0 - 4 5 80.0 0 1 1 1 2 0 3 3 14
+p119
+aVDikembe Mutombo HOU 03/29/2006 HOU vs. SEA W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 2 0
+p120
+aVJuwan Howard HOU 03/29/2006 HOU vs. SEA W 25 13 6 7 85.7 0 0 - 1 1 100.0 0 5 5 2 0 0 2 3 14
+p121
+aVYao Ming HOU 03/29/2006 HOU vs. SEA W 30 29 9 14 64.3 0 0 - 11 11 100.0 4 6 10 5 3 1 2 2 29
+p122
+aVKeith Bogans HOU 03/29/2006 HOU vs. SEA W 30 7 2 7 28.6 2 5 40.0 1 2 50.0 1 6 7 3 1 0 3 2 16
+p123
+aVRichie Frahm HOU 03/29/2006 HOU vs. SEA W 20 16 5 10 50.0 4 8 50.0 2 3 66.7 0 2 2 0 0 0 0 2 14
+p124
+aVRafer Alston HOU 03/26/2006 HOU vs. CLE L 44 22 6 13 46.2 1 4 25.0 9 12 75.0 0 7 7 8 2 0 3 2 -10
+p125
+aVKeith Bogans HOU 03/26/2006 HOU vs. CLE L 49 18 7 9 77.8 4 5 80.0 0 0 - 0 5 5 2 1 0 2 2 -4
+p126
+aVRick Brunson HOU 03/26/2006 HOU vs. CLE L 9 6 2 2 100.0 2 2 100.0 0 0 - 0 3 3 3 0 0 0 0 8
+p127
+aVDikembe Mutombo HOU 03/26/2006 HOU vs. CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p128
+aVYao Ming HOU 03/26/2006 HOU vs. CLE L 44 27 9 21 42.9 0 0 - 9 10 90.0 1 6 7 1 0 4 5 5 15
+p129
+aVLuther Head HOU 03/26/2006 HOU vs. CLE L 43 7 3 9 33.3 0 2 0.0 1 1 100.0 0 3 3 2 0 0 2 2 9
+p130
+aVStromile Swift HOU 03/26/2006 HOU vs. CLE L 25 8 4 6 66.7 0 0 - 0 0 - 1 2 3 1 0 2 1 4 -8
+p131
+aVRyan Bowen HOU 03/26/2006 HOU vs. CLE L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p132
+aVRichie Frahm HOU 03/26/2006 HOU vs. CLE L 14 2 1 2 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 1 -5
+p133
+aVJuwan Howard HOU 03/26/2006 HOU vs. CLE L 37 12 3 10 30.0 0 0 - 6 6 100.0 3 9 12 2 0 0 2 2 -13
+p134
+aVStromile Swift HOU 03/23/2006 HOU @ NOK W 23 6 2 3 66.7 0 0 - 2 3 66.7 0 2 2 0 2 3 2 5 -5
+p135
+aVJuwan Howard HOU 03/23/2006 HOU @ NOK W 36 16 5 7 71.4 0 0 - 6 6 100.0 1 11 12 0 2 0 3 2 16
+p136
+aVRick Brunson HOU 03/23/2006 HOU @ NOK W 15 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 1 0 0 -2
+p137
+aVRichie Frahm HOU 03/23/2006 HOU @ NOK W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 2 2 0 1 0 0 1 -8
+p138
+aVRafer Alston HOU 03/23/2006 HOU @ NOK W 34 22 8 16 50.0 2 5 40.0 4 4 100.0 0 6 6 1 1 0 2 4 3
+p139
+aVKeith Bogans HOU 03/23/2006 HOU @ NOK W 47 14 4 11 36.4 2 6 33.3 4 4 100.0 1 4 5 4 1 0 4 2 1
+p140
+aVLuther Head HOU 03/23/2006 HOU @ NOK W 31 8 3 9 33.3 2 8 25.0 0 0 - 0 2 2 4 1 0 3 4 9
+p141
+aVYao Ming HOU 03/23/2006 HOU @ NOK W 36 22 9 16 56.3 0 0 - 4 4 100.0 1 7 8 1 0 2 5 4 -6
+p142
+aVCharles Hayes HOU 03/23/2006 HOU @ NOK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p143
+aVYao Ming HOU 03/21/2006 HOU @ DAL L 39 13 6 15 40.0 0 0 - 1 2 50.0 1 12 13 0 1 1 1 3 -8
+p144
+aVRick Brunson HOU 03/21/2006 HOU @ DAL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p145
+aVStromile Swift HOU 03/21/2006 HOU @ DAL L 17 10 5 8 62.5 0 0 - 0 0 - 3 2 5 0 0 0 1 2 -8
+p146
+aVKeith Bogans HOU 03/21/2006 HOU @ DAL L 39 6 1 6 16.7 1 3 33.3 3 4 75.0 0 2 2 7 1 0 1 3 -11
+p147
+aVRichie Frahm HOU 03/21/2006 HOU @ DAL L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 -4
+p148
+aVJuwan Howard HOU 03/21/2006 HOU @ DAL L 33 11 4 8 50.0 0 0 - 3 6 50.0 1 4 5 1 0 0 3 3 -11
+p149
+aVDikembe Mutombo HOU 03/21/2006 HOU @ DAL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p150
+aVCharles Hayes HOU 03/21/2006 HOU @ DAL L 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 3
+p151
+aVRafer Alston HOU 03/21/2006 HOU @ DAL L 41 13 4 10 40.0 2 6 33.3 3 4 75.0 1 3 4 4 0 0 5 4 -15
+p152
+aVRyan Bowen HOU 03/21/2006 HOU @ DAL L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p153
+aVLuther Head HOU 03/21/2006 HOU @ DAL L 45 16 4 10 40.0 2 4 50.0 6 6 100.0 2 5 7 3 1 2 5 3 -12
+p154
+aVCharles Hayes HOU 03/20/2006 HOU vs. LAC L 7 1 0 1 0.0 0 0 - 1 2 50.0 2 3 5 0 0 0 0 1 -10
+p155
+aVRichie Frahm HOU 03/20/2006 HOU vs. LAC L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -3
+p156
+aVRafer Alston HOU 03/20/2006 HOU vs. LAC L 42 9 4 14 28.6 0 5 0.0 1 2 50.0 0 4 4 8 1 0 3 5 -2
+p157
+aVLuther Head HOU 03/20/2006 HOU vs. LAC L 44 20 8 17 47.1 2 6 33.3 2 4 50.0 0 3 3 6 3 0 2 4 -2
+p158
+aVJuwan Howard HOU 03/20/2006 HOU vs. LAC L 33 16 8 12 66.7 0 0 - 0 1 0.0 1 5 6 2 0 0 1 2 4
+p159
+aVRyan Bowen HOU 03/20/2006 HOU vs. LAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p160
+aVStromile Swift HOU 03/20/2006 HOU vs. LAC L 16 10 5 8 62.5 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -7
+p161
+aVRick Brunson HOU 03/20/2006 HOU vs. LAC L 7 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -8
+p162
+aVKeith Bogans HOU 03/20/2006 HOU vs. LAC L 46 10 4 10 40.0 1 3 33.3 1 2 50.0 3 3 6 5 2 0 3 5 -3
+p163
+aVYao Ming HOU 03/20/2006 HOU vs. LAC L 38 25 7 16 43.8 0 0 - 11 11 100.0 5 12 17 2 0 1 2 0 -3
+p164
+aVRafer Alston HOU 03/18/2006 HOU vs. SAS L 47 8 2 14 14.3 0 4 0.0 4 4 100.0 1 4 5 8 1 0 4 3 -10
+p165
+aVDikembe Mutombo HOU 03/18/2006 HOU vs. SAS L 10 4 2 3 66.7 0 0 - 0 0 - 1 3 4 0 0 1 1 1 1
+p166
+aVJuwan Howard HOU 03/18/2006 HOU vs. SAS L 35 18 8 12 66.7 0 0 - 2 2 100.0 3 5 8 0 0 0 4 3 -14
+p167
+aVLuther Head HOU 03/18/2006 HOU vs. SAS L 46 12 5 7 71.4 0 0 - 2 2 100.0 0 4 4 5 3 0 3 0 -13
+p168
+aVKeith Bogans HOU 03/18/2006 HOU vs. SAS L 44 10 4 10 40.0 0 2 0.0 2 5 40.0 2 7 9 1 1 0 2 3 -13
+p169
+aVYao Ming HOU 03/18/2006 HOU vs. SAS L 38 20 7 14 50.0 0 0 - 6 7 85.7 2 8 10 1 0 1 2 5 -16
+p170
+aVRick Brunson HOU 03/18/2006 HOU vs. SAS L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -9
+p171
+aVStromile Swift HOU 03/18/2006 HOU vs. SAS L 13 5 2 6 33.3 0 0 - 1 4 25.0 0 0 0 0 0 1 0 2 -1
+p172
+aVCharles Hayes HOU 03/15/2006 HOU vs. DAL L 12 0 0 0 - 0 0 - 0 2 0.0 0 3 3 0 1 0 1 2 1
+p173
+aVKeith Bogans HOU 03/15/2006 HOU vs. DAL L 45 6 2 12 16.7 1 4 25.0 1 3 33.3 2 4 6 6 1 1 1 4 -16
+p174
+aVJuwan Howard HOU 03/15/2006 HOU vs. DAL L 30 7 3 11 27.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -9
+p175
+aVRafer Alston HOU 03/15/2006 HOU vs. DAL L 45 18 6 14 42.9 3 5 60.0 3 3 100.0 1 1 2 4 0 0 5 2 -10
+p176
+aVLuther Head HOU 03/15/2006 HOU vs. DAL L 44 8 2 4 50.0 1 3 33.3 3 4 75.0 0 4 4 2 4 0 2 4 -9
+p177
+aVDikembe Mutombo HOU 03/15/2006 HOU vs. DAL L 8 4 2 2 100.0 0 0 - 0 0 - 2 3 5 0 0 2 1 1 -5
+p178
+aVYao Ming HOU 03/15/2006 HOU vs. DAL L 38 36 12 17 70.6 0 0 - 12 15 80.0 3 9 12 2 1 1 2 4 -9
+p179
+aVStromile Swift HOU 03/15/2006 HOU vs. DAL L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -6
+p180
+aVRick Brunson HOU 03/15/2006 HOU vs. DAL L 11 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -7
+p181
+aVRafer Alston HOU 03/13/2006 HOU vs. NJN L 45 14 6 13 46.2 1 5 20.0 1 2 50.0 1 5 6 8 1 0 3 3 -15
+p182
+aVYao Ming HOU 03/13/2006 HOU vs. NJN L 38 36 9 17 52.9 0 0 - 18 20 90.0 1 8 9 1 0 1 1 2 -2
+p183
+aVRyan Bowen HOU 03/13/2006 HOU vs. NJN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p184
+aVLuther Head HOU 03/13/2006 HOU vs. NJN L 40 9 4 10 40.0 1 2 50.0 0 0 - 0 3 3 2 1 0 1 2 -9
+p185
+aVStromile Swift HOU 03/13/2006 HOU vs. NJN L 14 2 1 5 20.0 0 0 - 0 0 - 1 1 2 0 0 1 0 0 -9
+p186
+aVRick Brunson HOU 03/13/2006 HOU vs. NJN L 23 4 2 5 40.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 3 -11
+p187
+aVKeith Bogans HOU 03/13/2006 HOU vs. NJN L 36 2 1 12 8.3 0 2 0.0 0 0 - 2 5 7 4 1 1 2 4 -5
+p188
+aVJuwan Howard HOU 03/13/2006 HOU vs. NJN L 31 9 3 13 23.1 0 0 - 3 3 100.0 4 9 13 0 0 0 2 3 -9
+p189
+aVCharles Hayes HOU 03/13/2006 HOU vs. NJN L 9 1 0 1 0.0 0 0 - 1 2 50.0 2 2 4 0 1 0 1 0 -4
+p190
+aVRick Brunson HOU 03/12/2006 HOU @ SAS L 25 10 4 7 57.1 2 3 66.7 0 0 - 1 0 1 6 1 0 2 3 7
+p191
+aVKeith Bogans HOU 03/12/2006 HOU @ SAS L 31 11 5 10 50.0 1 2 50.0 0 0 - 2 3 5 2 1 1 0 1 -12
+p192
+aVLuther Head HOU 03/12/2006 HOU @ SAS L 30 13 5 11 45.5 3 6 50.0 0 0 - 1 4 5 2 1 0 2 1 -2
+p193
+aVStromile Swift HOU 03/12/2006 HOU @ SAS L 22 3 1 4 25.0 0 0 - 1 4 25.0 1 6 7 0 0 0 1 2 0
+p194
+aVYao Ming HOU 03/12/2006 HOU @ SAS L 42 25 9 19 47.4 0 0 - 7 7 100.0 0 10 10 3 0 3 1 4 -1
+p195
+aVJuwan Howard HOU 03/12/2006 HOU @ SAS L 31 4 2 5 40.0 0 1 0.0 0 0 - 1 4 5 1 2 0 1 2 -13
+p196
+aVRafer Alston HOU 03/12/2006 HOU @ SAS L 34 15 7 14 50.0 1 4 25.0 0 0 - 0 4 4 5 1 0 3 1 -12
+p197
+aVCharles Hayes HOU 03/12/2006 HOU @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p198
+aVDavid Wesley HOU 03/12/2006 HOU @ SAS L 18 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -1
+p199
+aVRyan Bowen HOU 03/12/2006 HOU @ SAS L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -1
+p200
+aVRafer Alston HOU 03/08/2006 HOU vs. IND W 42 5 2 6 33.3 0 2 0.0 1 2 50.0 0 3 3 14 1 2 3 4 17
+p201
+aVDikembe Mutombo HOU 03/08/2006 HOU vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 2 6
+p202
+aVRyan Bowen HOU 03/08/2006 HOU vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p203
+aVRick Brunson HOU 03/08/2006 HOU vs. IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -13
+p204
+aVLuther Head HOU 03/08/2006 HOU vs. IND W 16 5 1 3 33.3 0 1 0.0 3 4 75.0 1 3 4 1 0 0 0 1 21
+p205
+aVYao Ming HOU 03/08/2006 HOU vs. IND W 38 38 14 21 66.7 0 0 - 10 10 100.0 3 7 10 1 0 5 3 3 -2
+p206
+aVDavid Wesley HOU 03/08/2006 HOU vs. IND W 27 4 2 7 28.6 0 3 0.0 0 0 - 0 1 1 3 0 0 1 1 -18
+p207
+aVTracy McGrady HOU 03/08/2006 HOU vs. IND W 21 15 6 12 50.0 1 1 100.0 2 2 100.0 0 1 1 1 1 1 0 1 4
+p208
+aVStromile Swift HOU 03/08/2006 HOU vs. IND W 18 6 3 4 75.0 0 0 - 0 0 - 2 2 4 0 1 2 0 3 2
+p209
+aVKeith Bogans HOU 03/08/2006 HOU vs. IND W 32 14 3 5 60.0 1 2 50.0 7 11 63.6 1 7 8 2 3 0 2 2 1
+p210
+aVCharles Hayes HOU 03/08/2006 HOU vs. IND W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p211
+aVJuwan Howard HOU 03/08/2006 HOU vs. IND W 33 16 7 13 53.8 0 0 - 2 2 100.0 0 6 6 2 0 0 2 2 -2
+p212
+aVKeith Bogans HOU 03/07/2006 HOU @ MIN W 32 7 2 6 33.3 2 4 50.0 1 2 50.0 0 7 7 2 0 0 1 0 -5
+p213
+aVRick Brunson HOU 03/07/2006 HOU @ MIN W 11 4 2 3 66.7 0 0 - 0 3 0.0 0 2 2 1 2 0 0 2 6
+p214
+aVJuwan Howard HOU 03/07/2006 HOU @ MIN W 33 6 2 8 25.0 0 0 - 2 2 100.0 1 5 6 1 1 0 4 4 -3
+p215
+aVRafer Alston HOU 03/07/2006 HOU @ MIN W 38 17 5 14 35.7 4 7 57.1 3 4 75.0 2 2 4 5 0 0 4 3 -9
+p216
+aVCharles Hayes HOU 03/07/2006 HOU @ MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p217
+aVStromile Swift HOU 03/07/2006 HOU @ MIN W 26 11 4 7 57.1 0 0 - 3 6 50.0 4 5 9 0 0 1 0 2 26
+p218
+aVRyan Bowen HOU 03/07/2006 HOU @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p219
+aVYao Ming HOU 03/07/2006 HOU @ MIN W 34 30 11 24 45.8 0 0 - 8 12 66.7 3 10 13 1 0 4 0 5 -2
+p220
+aVLuther Head HOU 03/07/2006 HOU @ MIN W 19 9 2 6 33.3 0 1 0.0 5 10 50.0 0 5 5 5 1 0 0 0 19
+p221
+aVDavid Wesley HOU 03/07/2006 HOU @ MIN W 44 9 1 5 20.0 1 3 33.3 6 6 100.0 0 8 8 6 0 0 4 2 2
+p222
+aVYao Ming HOU 03/05/2006 HOU vs. POR W 35 32 10 21 47.6 0 0 - 12 15 80.0 6 7 13 2 1 1 1 1 22
+p223
+aVStromile Swift HOU 03/05/2006 HOU vs. POR W 19 6 2 6 33.3 0 0 - 2 2 100.0 2 3 5 0 1 1 2 3 3
+p224
+aVLuther Head HOU 03/05/2006 HOU vs. POR W 24 5 2 6 33.3 1 4 25.0 0 0 - 0 2 2 1 0 0 0 0 -1
+p225
+aVTracy McGrady HOU 03/05/2006 HOU vs. POR W 31 18 7 18 38.9 2 5 40.0 2 2 100.0 1 3 4 3 3 1 2 3 20
+p226
+aVKeith Bogans HOU 03/05/2006 HOU vs. POR W 20 9 3 6 50.0 0 0 - 3 4 75.0 1 2 3 2 3 0 2 3 -3
+p227
+aVRick Brunson HOU 03/05/2006 HOU vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p228
+aVJuwan Howard HOU 03/05/2006 HOU vs. POR W 36 11 5 8 62.5 0 0 - 1 1 100.0 5 6 11 1 0 0 2 3 19
+p229
+aVDavid Wesley HOU 03/05/2006 HOU vs. POR W 35 12 4 9 44.4 1 3 33.3 3 3 100.0 0 3 3 6 2 0 2 1 24
+p230
+aVCharles Hayes HOU 03/05/2006 HOU vs. POR W 5 2 1 1 100.0 0 0 - 0 0 - 2 1 3 1 1 0 1 2 -9
+p231
+aVRyan Bowen HOU 03/05/2006 HOU vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p232
+aVRafer Alston HOU 03/05/2006 HOU vs. POR W 33 7 3 7 42.9 1 3 33.3 0 0 - 0 3 3 6 0 2 1 4 14
+p233
+aVRafer Alston HOU 03/03/2006 HOU vs. DEN W 34 6 2 10 20.0 2 7 28.6 0 0 - 1 1 2 7 2 0 5 3 2
+p234
+aVYao Ming HOU 03/03/2006 HOU vs. DEN W 39 21 9 17 52.9 0 0 - 3 3 100.0 2 7 9 1 0 3 1 3 13
+p235
+aVJuwan Howard HOU 03/03/2006 HOU vs. DEN W 31 6 2 7 28.6 0 0 - 2 2 100.0 2 4 6 5 0 0 1 1 -5
+p236
+aVDavid Wesley HOU 03/03/2006 HOU vs. DEN W 24 4 1 7 14.3 1 5 20.0 1 4 25.0 0 1 1 1 1 0 3 3 1
+p237
+aVRyan Bowen HOU 03/03/2006 HOU vs. DEN W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 0
+p238
+aVStromile Swift HOU 03/03/2006 HOU vs. DEN W 21 15 6 8 75.0 0 0 - 3 4 75.0 3 3 6 0 2 2 1 3 4
+p239
+aVKeith Bogans HOU 03/03/2006 HOU vs. DEN W 28 6 3 7 42.9 0 2 0.0 0 0 - 1 5 6 3 0 1 3 2 15
+p240
+aVTracy McGrady HOU 03/03/2006 HOU vs. DEN W 42 23 8 16 50.0 4 8 50.0 3 6 50.0 1 10 11 4 0 4 3 1 5
+p241
+aVLuther Head HOU 03/03/2006 HOU vs. DEN W 16 8 2 5 40.0 2 3 66.7 2 2 100.0 0 1 1 4 3 0 0 0 10
+p242
+aVCharles Hayes HOU 03/03/2006 HOU vs. DEN W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 1 0 3 10
+p243
+aVRafer Alston HOU 03/01/2006 HOU vs. PHI L 40 15 5 15 33.3 2 8 25.0 3 4 75.0 0 6 6 8 1 0 0 5 -5
+p244
+aVLuther Head HOU 03/01/2006 HOU vs. PHI L 9 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 2 0 0 2 1 0
+p245
+aVKeith Bogans HOU 03/01/2006 HOU vs. PHI L 22 6 2 6 33.3 0 2 0.0 2 2 100.0 2 0 2 3 0 0 1 2 -10
+p246
+aVDavid Wesley HOU 03/01/2006 HOU vs. PHI L 33 8 3 11 27.3 1 8 12.5 1 1 100.0 0 3 3 1 0 0 1 5 7
+p247
+aVDikembe Mutombo HOU 03/01/2006 HOU vs. PHI L 9 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 1 0 5 -10
+p248
+aVTracy McGrady HOU 03/01/2006 HOU vs. PHI L 41 25 9 20 45.0 3 6 50.0 4 5 80.0 0 7 7 4 1 0 3 0 -7
+p249
+aVYao Ming HOU 03/01/2006 HOU vs. PHI L 39 22 9 17 52.9 0 0 - 4 4 100.0 3 10 13 3 0 2 4 0 7
+p250
+aVCharles Hayes HOU 03/01/2006 HOU vs. PHI L 14 11 5 5 100.0 0 0 - 1 1 100.0 3 1 4 0 1 0 1 0 0
+p251
+aVJuwan Howard HOU 03/01/2006 HOU vs. PHI L 33 12 4 10 40.0 0 0 - 4 4 100.0 3 5 8 2 2 0 1 2 -7
+p252
+aVJuwan Howard HOU 02/27/2006 HOU vs. PHX L 36 19 8 15 53.3 0 0 - 3 4 75.0 2 5 7 2 1 1 1 3 -14
+p253
+aVKeith Bogans HOU 02/27/2006 HOU vs. PHX L 23 10 4 7 57.1 1 3 33.3 1 2 50.0 0 5 5 1 1 0 2 2 -13
+p254
+aVDavid Wesley HOU 02/27/2006 HOU vs. PHX L 29 4 1 7 14.3 1 4 25.0 1 1 100.0 1 2 3 3 0 0 3 4 -7
+p255
+aVCharles Hayes HOU 02/27/2006 HOU vs. PHX L 4 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 2
+p256
+aVLuther Head HOU 02/27/2006 HOU vs. PHX L 24 9 4 9 44.4 1 5 20.0 0 0 - 0 1 1 0 0 0 2 2 -8
+p257
+aVRafer Alston HOU 02/27/2006 HOU vs. PHX L 33 5 2 9 22.2 1 6 16.7 0 0 - 0 3 3 4 2 0 5 3 -12
+p258
+aVTracy McGrady HOU 02/27/2006 HOU vs. PHX L 37 13 6 18 33.3 1 4 25.0 0 0 - 0 1 1 6 0 1 0 1 -23
+p259
+aVRyan Bowen HOU 02/27/2006 HOU vs. PHX L 10 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 1 0 1 2 3
+p260
+aVMaciej Lampe HOU 02/27/2006 HOU vs. PHX L 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 2
+p261
+aVYao Ming HOU 02/27/2006 HOU vs. PHX L 36 27 10 19 52.6 0 0 - 7 7 100.0 8 10 18 5 1 0 0 2 -8
+p262
+aVDikembe Mutombo HOU 02/27/2006 HOU vs. PHX L 4 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -7
+p263
+aVCharles Hayes HOU 02/26/2006 HOU @ ORL W 11 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 2 0 0 1 1
+p264
+aVYao Ming HOU 02/26/2006 HOU @ ORL W 35 29 7 12 58.3 0 0 - 15 19 78.9 1 10 11 1 0 2 5 4 8
+p265
+aVJuwan Howard HOU 02/26/2006 HOU @ ORL W 39 12 6 12 50.0 0 0 - 0 0 - 1 4 5 0 1 0 2 5 4
+p266
+aVLuther Head HOU 02/26/2006 HOU @ ORL W 7 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 2 1 -1
+p267
+aVDavid Wesley HOU 02/26/2006 HOU @ ORL W 39 8 2 7 28.6 1 4 25.0 3 3 100.0 0 3 3 4 0 0 3 2 5
+p268
+aVTracy McGrady HOU 02/26/2006 HOU @ ORL W 33 19 6 16 37.5 1 6 16.7 6 9 66.7 1 8 9 5 3 1 1 5 9
+p269
+aVKeith Bogans HOU 02/26/2006 HOU @ ORL W 24 6 3 7 42.9 0 2 0.0 0 0 - 0 1 1 1 0 0 0 4 -4
+p270
+aVRafer Alston HOU 02/26/2006 HOU @ ORL W 41 13 4 11 36.4 3 8 37.5 2 2 100.0 0 5 5 10 1 0 3 5 6
+p271
+aVDikembe Mutombo HOU 02/26/2006 HOU @ ORL W 11 0 0 0 - 0 0 - 0 0 - 0 3 3 0 1 1 1 2 -3
+p272
+aVDikembe Mutombo HOU 02/24/2006 HOU vs. GSW W 10 1 0 0 - 0 0 - 1 1 100.0 0 3 3 0 0 1 0 0 2
+p273
+aVKeith Bogans HOU 02/24/2006 HOU vs. GSW W 41 13 5 8 62.5 2 4 50.0 1 2 50.0 1 4 5 2 0 0 2 6 8
+p274
+aVCharles Hayes HOU 02/24/2006 HOU vs. GSW W 9 2 1 1 100.0 0 0 - 0 0 - 1 4 5 0 0 1 0 2 -7
+p275
+aVJuwan Howard HOU 02/24/2006 HOU vs. GSW W 39 22 8 17 47.1 0 1 0.0 6 6 100.0 4 4 8 5 2 0 3 3 9
+p276
+aVYao Ming HOU 02/24/2006 HOU vs. GSW W 37 22 8 19 42.1 0 0 - 6 7 85.7 4 17 21 0 0 2 2 2 3
+p277
+aVDavid Wesley HOU 02/24/2006 HOU vs. GSW W 33 10 4 10 40.0 1 5 20.0 1 2 50.0 0 2 2 1 1 1 4 4 -1
+p278
+aVJon Barry HOU 02/24/2006 HOU vs. GSW W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p279
+aVLuther Head HOU 02/24/2006 HOU vs. GSW W 29 11 4 11 36.4 3 7 42.9 0 0 - 0 2 2 7 1 0 2 0 7
+p280
+aVRafer Alston HOU 02/24/2006 HOU vs. GSW W 35 10 4 14 28.6 2 6 33.3 0 2 0.0 0 1 1 6 1 0 4 2 1
+p281
+aVRyan Bowen HOU 02/24/2006 HOU vs. GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p282
+aVJuwan Howard HOU 02/22/2006 HOU vs. LAC W 34 8 2 11 18.2 0 0 - 4 4 100.0 2 5 7 4 1 0 2 3 -7
+p283
+aVDavid Wesley HOU 02/22/2006 HOU vs. LAC W 34 21 8 10 80.0 4 6 66.7 1 2 50.0 0 1 1 2 0 0 3 1 -4
+p284
+aVCharles Hayes HOU 02/22/2006 HOU vs. LAC W 14 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 1 0 1 4 11
+p285
+aVTracy McGrady HOU 02/22/2006 HOU vs. LAC W 39 26 9 23 39.1 3 8 37.5 5 7 71.4 2 2 4 5 2 2 2 1 -6
+p286
+aVRafer Alston HOU 02/22/2006 HOU vs. LAC W 36 9 4 9 44.4 1 4 25.0 0 1 0.0 0 5 5 11 3 0 5 4 3
+p287
+aVYao Ming HOU 02/22/2006 HOU vs. LAC W 36 29 11 16 68.8 0 0 - 7 8 87.5 6 9 15 1 1 2 0 1 8
+p288
+aVKeith Bogans HOU 02/22/2006 HOU vs. LAC W 19 4 1 3 33.3 0 1 0.0 2 2 100.0 1 2 3 2 0 0 2 2 15
+p289
+aVDikembe Mutombo HOU 02/22/2006 HOU vs. LAC W 12 3 0 0 - 0 0 - 3 4 75.0 1 4 5 0 0 0 0 1 -4
+p290
+aVLuther Head HOU 02/22/2006 HOU vs. LAC W 16 2 1 4 25.0 0 3 0.0 0 0 - 0 2 2 1 0 0 2 1 4
+p291
+aVLuther Head HOU 02/16/2006 HOU @ PHX L 26 10 4 9 44.4 2 4 50.0 0 0 - 0 2 2 1 0 0 1 2 2
+p292
+aVDavid Wesley HOU 02/16/2006 HOU @ PHX L 20 0 0 4 0.0 0 4 0.0 0 0 - 1 0 1 0 0 0 1 1 -36
+p293
+aVRyan Bowen HOU 02/16/2006 HOU @ PHX L 17 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 1 0 0 1 -11
+p294
+aVJuwan Howard HOU 02/16/2006 HOU @ PHX L 11 6 3 5 60.0 0 0 - 0 0 - 0 3 3 1 0 0 1 0 -18
+p295
+aVRafer Alston HOU 02/16/2006 HOU @ PHX L 25 9 4 12 33.3 1 3 33.3 0 0 - 1 1 2 3 1 0 2 4 -35
+p296
+aVCharles Hayes HOU 02/16/2006 HOU @ PHX L 17 6 3 7 42.9 0 0 - 0 0 - 2 5 7 0 1 1 0 2 7
+p297
+aVYao Ming HOU 02/16/2006 HOU @ PHX L 19 6 2 7 28.6 0 0 - 2 2 100.0 0 0 0 1 0 0 0 1 -26
+p298
+aVTracy McGrady HOU 02/16/2006 HOU @ PHX L 26 10 4 15 26.7 1 2 50.0 1 1 100.0 1 4 5 2 1 0 4 2 -33
+p299
+aVKeith Bogans HOU 02/16/2006 HOU @ PHX L 27 8 2 7 28.6 1 5 20.0 3 6 50.0 0 4 4 2 1 0 1 1 -7
+p300
+aVStromile Swift HOU 02/16/2006 HOU @ PHX L 28 13 5 13 38.5 0 0 - 3 3 100.0 1 4 5 1 1 4 3 1 -11
+p301
+aVJon Barry HOU 02/16/2006 HOU @ PHX L 23 3 1 4 25.0 1 2 50.0 0 0 - 0 5 5 0 0 0 1 0 -2
+p302
+aVStromile Swift HOU 02/14/2006 HOU @ LAC W 19 12 4 10 40.0 0 0 - 4 6 66.7 3 3 6 0 1 1 1 3 11
+p303
+aVRafer Alston HOU 02/14/2006 HOU @ LAC W 31 17 5 7 71.4 3 5 60.0 4 4 100.0 0 3 3 13 5 0 1 2 21
+p304
+aVJon Barry HOU 02/14/2006 HOU @ LAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 0 3
+p305
+aVDavid Wesley HOU 02/14/2006 HOU @ LAC W 38 16 6 9 66.7 0 1 0.0 4 4 100.0 1 3 4 4 1 0 2 5 23
+p306
+aVKeith Bogans HOU 02/14/2006 HOU @ LAC W 25 18 6 9 66.7 4 5 80.0 2 2 100.0 1 5 6 2 0 0 0 3 25
+p307
+aVYao Ming HOU 02/14/2006 HOU @ LAC W 32 17 8 13 61.5 0 0 - 1 2 50.0 4 8 12 3 0 1 4 3 25
+p308
+aVLuther Head HOU 02/14/2006 HOU @ LAC W 17 5 2 3 66.7 0 0 - 1 2 50.0 0 2 2 4 0 0 1 1 12
+p309
+aVCharles Hayes HOU 02/14/2006 HOU @ LAC W 7 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 8
+p310
+aVDikembe Mutombo HOU 02/14/2006 HOU @ LAC W 8 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 6
+p311
+aVTracy McGrady HOU 02/14/2006 HOU @ LAC W 29 28 10 21 47.6 0 2 0.0 8 9 88.9 0 1 1 5 0 1 2 4 9
+p312
+aVJuwan Howard HOU 02/14/2006 HOU @ LAC W 26 9 4 6 66.7 0 0 - 1 2 50.0 0 6 6 0 2 0 3 4 9
+p313
+aVRyan Bowen HOU 02/14/2006 HOU @ LAC W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 0 2 3
+p314
+aVRyan Bowen HOU 02/12/2006 HOU vs. NYK W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p315
+aVYao Ming HOU 02/12/2006 HOU vs. NYK W 25 24 8 13 61.5 0 0 - 8 11 72.7 1 7 8 0 0 4 2 4 1
+p316
+aVStromile Swift HOU 02/12/2006 HOU vs. NYK W 18 9 3 6 50.0 0 0 - 3 4 75.0 2 1 3 0 1 0 0 5 4
+p317
+aVRafer Alston HOU 02/12/2006 HOU vs. NYK W 29 14 5 9 55.6 2 3 66.7 2 2 100.0 0 3 3 7 0 0 2 2 6
+p318
+aVJuwan Howard HOU 02/12/2006 HOU vs. NYK W 18 10 2 4 50.0 0 0 - 6 7 85.7 2 6 8 0 1 0 1 4 3
+p319
+aVDikembe Mutombo HOU 02/12/2006 HOU vs. NYK W 10 2 0 1 0.0 0 0 - 2 2 100.0 1 2 3 0 1 3 1 3 6
+p320
+aVDavid Wesley HOU 02/12/2006 HOU vs. NYK W 26 15 4 8 50.0 4 7 57.1 3 4 75.0 0 3 3 1 1 0 0 2 4
+p321
+aVTracy McGrady HOU 02/12/2006 HOU vs. NYK W 25 7 3 20 15.0 0 4 0.0 1 2 50.0 0 7 7 6 1 1 4 1 0
+p322
+aVKeith Bogans HOU 02/12/2006 HOU vs. NYK W 17 4 1 3 33.3 0 0 - 2 3 66.7 0 3 3 0 2 0 0 0 4
+p323
+aVLuther Head HOU 02/12/2006 HOU vs. NYK W 11 5 2 4 50.0 1 2 50.0 0 0 - 0 0 0 0 1 0 0 2 7
+p324
+aVMoochie Norris HOU 02/11/2006 HOU vs. UTA W 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p325
+aVRyan Bowen HOU 02/11/2006 HOU vs. UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p326
+aVDikembe Mutombo HOU 02/11/2006 HOU vs. UTA W 13 7 2 3 66.7 0 0 - 3 5 60.0 2 2 4 0 0 2 0 1 8
+p327
+aVDavid Wesley HOU 02/11/2006 HOU vs. UTA W 32 17 7 10 70.0 3 4 75.0 0 1 0.0 0 3 3 3 0 0 0 2 14
+p328
+aVRafer Alston HOU 02/11/2006 HOU vs. UTA W 41 9 3 10 30.0 2 6 33.3 1 2 50.0 0 6 6 13 0 0 4 2 11
+p329
+aVLuther Head HOU 02/11/2006 HOU vs. UTA W 21 3 1 4 25.0 1 3 33.3 0 0 - 2 2 4 3 1 0 1 2 4
+p330
+aVYao Ming HOU 02/11/2006 HOU vs. UTA W 31 27 11 16 68.8 0 0 - 5 6 83.3 2 6 8 0 1 2 2 5 5
+p331
+aVKeith Bogans HOU 02/11/2006 HOU vs. UTA W 11 4 2 4 50.0 0 2 0.0 0 1 0.0 1 0 1 1 0 0 0 2 4
+p332
+aVCharles Hayes HOU 02/11/2006 HOU vs. UTA W 24 2 1 2 50.0 0 0 - 0 0 - 0 4 4 1 2 0 0 2 11
+p333
+aVJuwan Howard HOU 02/11/2006 HOU vs. UTA W 27 6 3 9 33.3 0 0 - 0 0 - 2 4 6 3 0 0 2 3 5
+p334
+aVTracy McGrady HOU 02/11/2006 HOU vs. UTA W 38 25 9 22 40.9 2 5 40.0 5 5 100.0 0 6 6 3 3 1 2 3 10
+p335
+aVStromile Swift HOU 02/08/2006 HOU vs. LAL L 18 6 3 3 100.0 0 0 - 0 0 - 1 2 3 0 0 0 2 0 -10
+p336
+aVJuwan Howard HOU 02/08/2006 HOU vs. LAL L 33 6 3 8 37.5 0 0 - 0 0 - 3 5 8 2 0 0 2 3 -10
+p337
+aVLuther Head HOU 02/08/2006 HOU vs. LAL L 14 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 0 2 0 1 1 -8
+p338
+aVLonny Baxter HOU 02/08/2006 HOU vs. LAL L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p339
+aVYao Ming HOU 02/08/2006 HOU vs. LAL L 34 14 7 17 41.2 0 0 - 0 2 0.0 1 12 13 0 0 2 1 1 -12
+p340
+aVDavid Wesley HOU 02/08/2006 HOU vs. LAL L 39 15 4 9 44.4 3 6 50.0 4 4 100.0 0 2 2 2 0 0 3 2 -9
+p341
+aVTracy McGrady HOU 02/08/2006 HOU vs. LAL L 40 11 5 18 27.8 1 6 16.7 0 2 0.0 0 4 4 7 2 0 2 3 -7
+p342
+aVRyan Bowen HOU 02/08/2006 HOU vs. LAL L 9 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 3 0
+p343
+aVCharles Hayes HOU 02/08/2006 HOU vs. LAL L 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 3
+p344
+aVMoochie Norris HOU 02/08/2006 HOU vs. LAL L 4 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 0 0 0 0 5
+p345
+aVRafer Alston HOU 02/08/2006 HOU vs. LAL L 41 16 6 12 50.0 3 5 60.0 1 2 50.0 1 2 3 8 2 1 2 1 -14
+p346
+aVRyan Bowen HOU 02/06/2006 HOU @ PHI W 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 9
+p347
+aVRafer Alston HOU 02/06/2006 HOU @ PHI W 41 19 7 12 58.3 5 8 62.5 0 2 0.0 1 4 5 8 5 1 1 4 6
+p348
+aVJuwan Howard HOU 02/06/2006 HOU @ PHI W 33 10 5 8 62.5 0 0 - 0 0 - 0 4 4 5 1 0 1 5 -2
+p349
+aVCharles Hayes HOU 02/06/2006 HOU @ PHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p350
+aVYao Ming HOU 02/06/2006 HOU @ PHI W 42 27 9 21 42.9 0 0 - 9 9 100.0 3 9 12 0 2 1 1 3 16
+p351
+aVStromile Swift HOU 02/06/2006 HOU @ PHI W 18 5 2 4 50.0 0 0 - 1 4 25.0 0 4 4 0 1 0 3 5 1
+p352
+aVTracy McGrady HOU 02/06/2006 HOU @ PHI W 35 13 5 19 26.3 0 4 0.0 3 4 75.0 0 5 5 5 2 0 4 1 -7
+p353
+aVLuther Head HOU 02/06/2006 HOU @ PHI W 31 4 1 4 25.0 0 2 0.0 2 2 100.0 0 3 3 5 1 0 0 3 12
+p354
+aVDavid Wesley HOU 02/06/2006 HOU @ PHI W 29 9 3 7 42.9 1 2 50.0 2 2 100.0 0 0 0 4 4 0 3 4 -4
+p355
+aVRafer Alston HOU 02/05/2006 HOU @ NYK W 39 5 2 7 28.6 0 2 0.0 1 2 50.0 3 5 8 7 1 0 2 1 5
+p356
+aVTracy McGrady HOU 02/05/2006 HOU @ NYK W 39 23 9 26 34.6 0 2 0.0 5 7 71.4 1 4 5 6 2 0 2 2 8
+p357
+aVRyan Bowen HOU 02/05/2006 HOU @ NYK W 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 0 0 0 -1
+p358
+aVMoochie Norris HOU 02/05/2006 HOU @ NYK W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p359
+aVDavid Wesley HOU 02/05/2006 HOU @ NYK W 38 19 5 9 55.6 2 6 33.3 7 11 63.6 0 6 6 3 2 0 0 4 0
+p360
+aVLuther Head HOU 02/05/2006 HOU @ NYK W 18 3 1 4 25.0 1 2 50.0 0 0 - 1 4 5 2 1 0 0 1 -1
+p361
+aVYao Ming HOU 02/05/2006 HOU @ NYK W 27 15 7 16 43.8 0 0 - 1 1 100.0 1 2 3 1 0 4 2 4 3
+p362
+aVJuwan Howard HOU 02/05/2006 HOU @ NYK W 29 9 4 7 57.1 0 0 - 1 2 50.0 0 7 7 3 1 0 0 1 3
+p363
+aVDikembe Mutombo HOU 02/05/2006 HOU @ NYK W 21 7 1 2 50.0 0 0 - 5 6 83.3 2 1 3 0 0 1 1 4 1
+p364
+aVStromile Swift HOU 02/05/2006 HOU @ NYK W 18 12 3 5 60.0 0 0 - 6 6 100.0 1 4 5 0 0 1 1 1 3
+p365
+aVRafer Alston HOU 02/03/2006 HOU vs. SEA W 36 3 1 7 14.3 0 6 0.0 1 2 50.0 0 2 2 11 0 1 1 0 15
+p366
+aVLonny Baxter HOU 02/03/2006 HOU vs. SEA W 2 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p367
+aVCharles Hayes HOU 02/03/2006 HOU vs. SEA W 16 4 2 6 33.3 0 1 0.0 0 0 - 2 3 5 0 1 0 0 1 10
+p368
+aVTracy McGrady HOU 02/03/2006 HOU vs. SEA W 36 36 14 26 53.8 4 7 57.1 4 5 80.0 1 8 9 2 3 1 3 3 20
+p369
+aVYao Ming HOU 02/03/2006 HOU vs. SEA W 28 24 9 19 47.4 0 0 - 6 6 100.0 4 10 14 3 0 2 2 3 5
+p370
+aVJuwan Howard HOU 02/03/2006 HOU vs. SEA W 26 6 3 9 33.3 0 0 - 0 0 - 2 3 5 1 0 1 2 1 13
+p371
+aVDavid Wesley HOU 02/03/2006 HOU vs. SEA W 24 3 1 5 20.0 1 1 100.0 0 0 - 1 2 3 2 1 0 0 0 3
+p372
+aVLuther Head HOU 02/03/2006 HOU vs. SEA W 26 10 4 8 50.0 1 3 33.3 1 2 50.0 0 3 3 1 1 0 1 2 19
+p373
+aVMoochie Norris HOU 02/03/2006 HOU vs. SEA W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 3 1 0 0 1 8
+p374
+aVRyan Bowen HOU 02/03/2006 HOU vs. SEA W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 2 0 0 1 13
+p375
+aVStromile Swift HOU 02/03/2006 HOU vs. SEA W 19 8 4 6 66.7 0 0 - 0 0 - 2 4 6 0 4 1 1 2 9
+p376
+aVCharles Hayes HOU 02/01/2006 HOU vs. MIL W 15 8 3 4 75.0 0 0 - 2 2 100.0 2 6 8 0 1 1 0 4 10
+p377
+aVRafer Alston HOU 02/01/2006 HOU vs. MIL W 39 9 4 10 40.0 1 5 20.0 0 0 - 0 4 4 5 4 0 3 3 -1
+p378
+aVJuwan Howard HOU 02/01/2006 HOU vs. MIL W 33 4 2 7 28.6 0 0 - 0 0 - 4 0 4 3 0 0 3 3 -8
+p379
+aVDikembe Mutombo HOU 02/01/2006 HOU vs. MIL W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -7
+p380
+aVDavid Wesley HOU 02/01/2006 HOU vs. MIL W 32 7 3 6 50.0 1 4 25.0 0 0 - 0 2 2 2 1 0 2 4 -13
+p381
+aVLonny Baxter HOU 02/01/2006 HOU vs. MIL W 9 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p382
+aVTracy McGrady HOU 02/01/2006 HOU vs. MIL W 38 22 6 19 31.6 1 4 25.0 9 12 75.0 2 5 7 3 1 1 2 3 -13
+p383
+aVMoochie Norris HOU 02/01/2006 HOU vs. MIL W 8 6 3 4 75.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 3
+p384
+aVRyan Bowen HOU 02/01/2006 HOU vs. MIL W 9 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 1 0 0 0 1 15
+p385
+aVLuther Head HOU 02/01/2006 HOU vs. MIL W 18 3 1 3 33.3 0 0 - 1 2 50.0 0 4 4 4 1 0 0 1 15
+p386
+aVYao Ming HOU 02/01/2006 HOU vs. MIL W 33 21 8 18 44.4 0 0 - 5 5 100.0 0 13 13 3 0 1 0 3 7
+p387
+aVJuwan Howard HOU 01/30/2006 HOU @ MEM L 36 18 8 11 72.7 0 0 - 2 3 66.7 4 3 7 3 2 0 1 4 -3
+p388
+aVMoochie Norris HOU 01/30/2006 HOU @ MEM L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -6
+p389
+aVTracy McGrady HOU 01/30/2006 HOU @ MEM L 40 23 10 26 38.5 2 8 25.0 1 3 33.3 3 7 10 6 2 0 2 1 3
+p390
+aVYao Ming HOU 01/30/2006 HOU @ MEM L 32 15 7 14 50.0 0 0 - 1 4 25.0 2 6 8 1 0 1 2 4 -3
+p391
+aVDavid Wesley HOU 01/30/2006 HOU @ MEM L 39 6 2 6 33.3 0 2 0.0 2 3 66.7 0 1 1 1 1 0 2 3 -7
+p392
+aVRafer Alston HOU 01/30/2006 HOU @ MEM L 41 7 3 7 42.9 0 3 0.0 1 2 50.0 2 4 6 7 1 0 5 4 -7
+p393
+aVCharles Hayes HOU 01/30/2006 HOU @ MEM L 14 0 0 3 0.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -9
+p394
+aVStromile Swift HOU 01/30/2006 HOU @ MEM L 13 3 1 1 100.0 0 0 - 1 4 25.0 1 4 5 0 0 0 2 1 -2
+p395
+aVLuther Head HOU 01/30/2006 HOU @ MEM L 20 5 2 7 28.6 1 4 25.0 0 0 - 1 2 3 1 0 0 0 3 -11
+p396
+aVCharles Hayes HOU 01/29/2006 HOU vs. MIA L 23 6 2 6 33.3 0 0 - 2 2 100.0 6 4 10 0 1 0 1 5 8
+p397
+aVDavid Wesley HOU 01/29/2006 HOU vs. MIA L 32 7 2 6 33.3 1 4 25.0 2 3 66.7 0 2 2 2 0 0 0 0 -14
+p398
+aVRafer Alston HOU 01/29/2006 HOU vs. MIA L 43 26 8 17 47.1 5 8 62.5 5 6 83.3 2 5 7 3 3 0 3 5 -5
+p399
+aVJuwan Howard HOU 01/29/2006 HOU vs. MIA L 29 10 4 9 44.4 0 0 - 2 2 100.0 0 1 1 0 0 1 1 3 -18
+p400
+aVTracy McGrady HOU 01/29/2006 HOU vs. MIA L 45 37 13 37 35.1 4 15 26.7 7 10 70.0 2 10 12 6 3 1 0 3 -3
+p401
+aVRyan Bowen HOU 01/29/2006 HOU vs. MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p402
+aVMoochie Norris HOU 01/29/2006 HOU vs. MIA L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p403
+aVLuther Head HOU 01/29/2006 HOU vs. MIA L 20 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 3 1 0 1 6 3
+p404
+aVStromile Swift HOU 01/29/2006 HOU vs. MIA L 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -3
+p405
+aVDikembe Mutombo HOU 01/29/2006 HOU vs. MIA L 22 2 0 2 0.0 0 0 - 2 2 100.0 2 2 4 0 0 1 0 3 -11
+p406
+aVLonny Baxter HOU 01/29/2006 HOU vs. MIA L 14 5 2 3 66.7 0 0 - 1 2 50.0 2 1 3 0 0 0 0 4 12
+p407
+aVStromile Swift HOU 01/27/2006 HOU vs. MIN L 27 19 7 13 53.8 0 0 - 5 7 71.4 3 1 4 1 1 2 0 3 2
+p408
+aVTracy McGrady HOU 01/27/2006 HOU vs. MIN L 44 19 6 19 31.6 1 5 20.0 6 10 60.0 0 2 2 8 0 0 0 1 0
+p409
+aVLuther Head HOU 01/27/2006 HOU vs. MIN L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 3 0 0 2 3 -10
+p410
+aVRafer Alston HOU 01/27/2006 HOU vs. MIN L 44 16 6 15 40.0 3 8 37.5 1 1 100.0 0 4 4 4 2 0 5 2 -6
+p411
+aVCharles Hayes HOU 01/27/2006 HOU vs. MIN L 27 12 5 10 50.0 0 0 - 2 3 66.7 5 2 7 0 0 1 0 6 -21
+p412
+aVRyan Bowen HOU 01/27/2006 HOU vs. MIN L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p413
+aVDikembe Mutombo HOU 01/27/2006 HOU vs. MIN L 15 4 2 2 100.0 0 0 - 0 2 0.0 1 5 6 0 0 1 1 0 -2
+p414
+aVDavid Wesley HOU 01/27/2006 HOU vs. MIN L 42 18 6 15 40.0 4 9 44.4 2 2 100.0 0 0 0 3 3 0 2 3 7
+p415
+aVLonny Baxter HOU 01/27/2006 HOU vs. MIN L 23 2 0 4 0.0 0 0 - 2 2 100.0 3 4 7 0 1 0 0 4 11
+p416
+aVJohn Lucas III HOU 01/27/2006 HOU vs. MIN L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p417
+aVRafer Alston HOU 01/25/2006 HOU vs. CHA W 38 3 1 10 10.0 0 5 0.0 1 2 50.0 2 6 8 8 1 0 0 3 17
+p418
+aVCharles Hayes HOU 01/25/2006 HOU vs. CHA W 28 11 4 4 100.0 0 0 - 3 5 60.0 2 6 8 2 2 2 3 3 9
+p419
+aVJohn Lucas III HOU 01/25/2006 HOU vs. CHA W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 1 0 3 1 5
+p420
+aVLuther Head HOU 01/25/2006 HOU vs. CHA W 25 6 2 4 50.0 2 4 50.0 0 0 - 0 1 1 2 0 0 1 1 10
+p421
+aVTracy McGrady HOU 01/25/2006 HOU vs. CHA W 28 29 10 25 40.0 1 6 16.7 8 14 57.1 5 3 8 6 0 1 1 0 14
+p422
+aVDavid Wesley HOU 01/25/2006 HOU vs. CHA W 38 15 5 11 45.5 3 6 50.0 2 4 50.0 0 2 2 6 1 0 0 4 26
+p423
+aVLonny Baxter HOU 01/25/2006 HOU vs. CHA W 27 18 8 13 61.5 0 0 - 2 2 100.0 4 7 11 0 2 1 0 3 16
+p424
+aVMoochie Norris HOU 01/25/2006 HOU vs. CHA W 3 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 0
+p425
+aVDikembe Mutombo HOU 01/25/2006 HOU vs. CHA W 14 4 2 2 100.0 0 0 - 0 0 - 3 3 6 0 0 0 1 1 12
+p426
+aVJuwan Howard HOU 01/25/2006 HOU vs. CHA W 26 12 5 9 55.6 0 0 - 2 2 100.0 0 3 3 1 1 0 1 4 11
+p427
+aVJohn Lucas III HOU 01/23/2006 HOU @ MIL W 9 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p428
+aVLuther Head HOU 01/23/2006 HOU @ MIL W 20 0 0 6 0.0 0 6 0.0 0 0 - 0 5 5 3 1 0 1 1 -9
+p429
+aVRafer Alston HOU 01/23/2006 HOU @ MIL W 40 11 3 9 33.3 3 7 42.9 2 2 100.0 0 3 3 7 1 0 2 3 15
+p430
+aVJuwan Howard HOU 01/23/2006 HOU @ MIL W 34 12 6 13 46.2 0 0 - 0 0 - 2 1 3 2 0 0 2 3 -4
+p431
+aVLonny Baxter HOU 01/23/2006 HOU @ MIL W 27 5 2 5 40.0 0 0 - 1 2 50.0 5 6 11 0 2 1 0 3 17
+p432
+aVDikembe Mutombo HOU 01/23/2006 HOU @ MIL W 15 0 0 0 - 0 0 - 0 0 - 0 4 4 0 1 1 0 4 -1
+p433
+aVDavid Wesley HOU 01/23/2006 HOU @ MIL W 38 17 6 11 54.5 3 6 50.0 2 2 100.0 1 1 2 1 0 0 2 4 28
+p434
+aVCharles Hayes HOU 01/23/2006 HOU @ MIL W 20 7 3 4 75.0 0 0 - 1 1 100.0 3 9 12 1 0 0 0 4 22
+p435
+aVTracy McGrady HOU 01/23/2006 HOU @ MIL W 37 41 17 32 53.1 3 7 42.9 4 4 100.0 1 7 8 3 1 0 4 3 17
+p436
+aVRafer Alston HOU 01/22/2006 HOU @ DET L 39 13 5 14 35.7 3 8 37.5 0 0 - 1 2 3 4 1 0 1 4 1
+p437
+aVDavid Wesley HOU 01/22/2006 HOU @ DET L 38 10 2 5 40.0 1 2 50.0 5 6 83.3 1 2 3 3 4 0 0 3 8
+p438
+aVJuwan Howard HOU 01/22/2006 HOU @ DET L 46 16 6 13 46.2 0 1 0.0 4 4 100.0 2 10 12 2 2 1 2 4 2
+p439
+aVLuther Head HOU 01/22/2006 HOU @ DET L 22 3 1 5 20.0 1 5 20.0 0 0 - 0 0 0 1 0 0 0 5 -9
+p440
+aVDikembe Mutombo HOU 01/22/2006 HOU @ DET L 28 8 3 4 75.0 0 0 - 2 2 100.0 1 3 4 0 0 0 0 4 3
+p441
+aVCharles Hayes HOU 01/22/2006 HOU @ DET L 21 4 1 4 25.0 0 0 - 2 4 50.0 2 4 6 1 0 0 0 6 -11
+p442
+aVJohn Lucas III HOU 01/22/2006 HOU @ DET L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -5
+p443
+aVTracy McGrady HOU 01/22/2006 HOU @ DET L 41 43 17 33 51.5 2 5 40.0 7 8 87.5 0 9 9 5 0 1 4 2 1
+p444
+aVRyan Bowen HOU 01/22/2006 HOU @ DET L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p445
+aVRafer Alston HOU 01/20/2006 HOU @ CHI W 52 5 2 9 22.2 1 4 25.0 0 0 - 1 7 8 12 3 0 1 3 3
+p446
+aVLuther Head HOU 01/20/2006 HOU @ CHI W 26 7 3 6 50.0 0 3 0.0 1 1 100.0 1 4 5 1 1 0 2 4 -6
+p447
+aVDavid Wesley HOU 01/20/2006 HOU @ CHI W 50 17 6 13 46.2 2 7 28.6 3 5 60.0 0 2 2 2 0 0 3 3 13
+p448
+aVTracy McGrady HOU 01/20/2006 HOU @ CHI W 40 35 13 29 44.8 2 4 50.0 7 8 87.5 1 8 9 6 0 1 5 3 5
+p449
+aVDikembe Mutombo HOU 01/20/2006 HOU @ CHI W 26 3 1 2 50.0 0 0 - 1 1 100.0 2 5 7 0 0 2 1 4 -7
+p450
+aVJohn Lucas III HOU 01/20/2006 HOU @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -2
+p451
+aVCharles Hayes HOU 01/20/2006 HOU @ CHI W 31 12 4 5 80.0 0 0 - 4 4 100.0 4 9 13 1 1 2 0 5 10
+p452
+aVRyan Bowen HOU 01/20/2006 HOU @ CHI W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p453
+aVLonny Baxter HOU 01/20/2006 HOU @ CHI W 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p454
+aVJuwan Howard HOU 01/20/2006 HOU @ CHI W 50 30 15 29 51.7 0 0 - 0 0 - 4 3 7 2 1 0 0 3 4
+p455
+aVLonny Baxter HOU 01/18/2006 HOU vs. DAL L 20 8 4 10 40.0 0 0 - 0 0 - 6 1 7 0 1 1 2 3 -2
+p456
+aVDavid Wesley HOU 01/18/2006 HOU vs. DAL L 34 10 4 10 40.0 0 2 0.0 2 3 66.7 1 2 3 2 1 0 2 4 -33
+p457
+aVJohn Lucas III HOU 01/18/2006 HOU vs. DAL L 13 9 4 7 57.1 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -3
+p458
+aVDikembe Mutombo HOU 01/18/2006 HOU vs. DAL L 23 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -18
+p459
+aVJuwan Howard HOU 01/18/2006 HOU vs. DAL L 31 9 3 9 33.3 0 0 - 3 4 75.0 1 5 6 1 0 0 1 2 -31
+p460
+aVLuther Head HOU 01/18/2006 HOU vs. DAL L 46 16 5 15 33.3 2 5 40.0 4 7 57.1 0 4 4 4 2 0 2 3 -25
+p461
+aVRafer Alston HOU 01/18/2006 HOU vs. DAL L 35 17 7 15 46.7 2 6 33.3 1 3 33.3 0 2 2 6 4 1 5 1 -24
+p462
+aVCharles Hayes HOU 01/18/2006 HOU vs. DAL L 14 2 0 1 0.0 0 0 - 2 4 50.0 1 1 2 1 0 0 0 0 7
+p463
+aVRyan Bowen HOU 01/18/2006 HOU vs. DAL L 10 3 1 1 100.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 2 -9
+p464
+aVMoochie Norris HOU 01/18/2006 HOU vs. DAL L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 2 0 1 3 3
+p465
+aVLuther Head HOU 01/16/2006 HOU @ ATL L 44 16 6 11 54.5 3 5 60.0 1 1 100.0 2 1 3 4 3 0 6 2 -4
+p466
+aVDavid Wesley HOU 01/16/2006 HOU @ ATL L 41 10 2 8 25.0 1 4 25.0 5 6 83.3 0 4 4 4 1 0 4 1 -13
+p467
+aVJuwan Howard HOU 01/16/2006 HOU @ ATL L 43 20 8 17 47.1 0 0 - 4 6 66.7 1 5 6 1 1 0 5 4 -10
+p468
+aVRafer Alston HOU 01/16/2006 HOU @ ATL L 45 19 7 17 41.2 3 5 60.0 2 5 40.0 0 0 0 5 0 0 2 4 -3
+p469
+aVRyan Bowen HOU 01/16/2006 HOU @ ATL L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -12
+p470
+aVLonny Baxter HOU 01/16/2006 HOU @ ATL L 6 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 0 1 2 -2
+p471
+aVDikembe Mutombo HOU 01/16/2006 HOU @ ATL L 32 14 4 4 100.0 0 0 - 6 10 60.0 6 4 10 0 1 3 1 4 -5
+p472
+aVJohn Lucas III HOU 01/16/2006 HOU @ ATL L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 1 0 0 1 -6
+p473
+aVDikembe Mutombo HOU 01/14/2006 HOU vs. NOK L 20 3 1 1 100.0 0 0 - 1 2 50.0 3 5 8 1 0 1 3 4 -3
+p474
+aVRyan Bowen HOU 01/14/2006 HOU vs. NOK L 15 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 4 -6
+p475
+aVJohn Lucas III HOU 01/14/2006 HOU vs. NOK L 17 4 2 8 25.0 0 2 0.0 0 0 - 0 1 1 3 2 0 0 0 4
+p476
+aVMoochie Norris HOU 01/14/2006 HOU vs. NOK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p477
+aVLuther Head HOU 01/14/2006 HOU vs. NOK L 41 18 7 17 41.2 2 4 50.0 2 2 100.0 0 4 4 4 3 1 1 3 -9
+p478
+aVLonny Baxter HOU 01/14/2006 HOU vs. NOK L 25 4 2 6 33.3 0 0 - 0 0 - 2 5 7 0 0 0 1 3 2
+p479
+aVJuwan Howard HOU 01/14/2006 HOU vs. NOK L 44 22 9 20 45.0 0 0 - 4 4 100.0 3 7 10 0 1 0 2 2 -8
+p480
+aVDavid Wesley HOU 01/14/2006 HOU vs. NOK L 34 18 4 10 40.0 1 4 25.0 9 11 81.8 0 3 3 3 0 0 2 3 -4
+p481
+aVRafer Alston HOU 01/14/2006 HOU vs. NOK L 43 11 4 11 36.4 0 5 0.0 3 4 75.0 0 7 7 5 3 1 2 6 -5
+p482
+aVRafer Alston HOU 01/11/2006 HOU vs. SAC L 40 15 6 17 35.3 2 9 22.2 1 2 50.0 2 3 5 5 3 0 2 4 -5
+p483
+aVLonny Baxter HOU 01/11/2006 HOU vs. SAC L 11 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 0 3 -3
+p484
+aVDikembe Mutombo HOU 01/11/2006 HOU vs. SAC L 33 8 3 5 60.0 0 0 - 2 3 66.7 7 11 18 0 2 0 2 2 -10
+p485
+aVMoochie Norris HOU 01/11/2006 HOU vs. SAC L 6 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 2
+p486
+aVDavid Wesley HOU 01/11/2006 HOU vs. SAC L 43 17 8 16 50.0 1 3 33.3 0 0 - 1 1 2 3 0 0 3 5 -2
+p487
+aVJohn Lucas III HOU 01/11/2006 HOU vs. SAC L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 1 0 0 1 2 -2
+p488
+aVLuther Head HOU 01/11/2006 HOU vs. SAC L 37 8 4 13 30.8 0 4 0.0 0 1 0.0 0 4 4 2 1 0 3 3 -7
+p489
+aVRyan Bowen HOU 01/11/2006 HOU vs. SAC L 16 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 1 -8
+p490
+aVJuwan Howard HOU 01/11/2006 HOU vs. SAC L 44 24 9 22 40.9 0 0 - 6 11 54.5 6 9 15 0 0 0 3 3 -5
+p491
+aVLuther Head HOU 01/10/2006 HOU @ CHA L 44 17 5 14 35.7 3 10 30.0 4 4 100.0 1 4 5 2 1 0 1 3 -7
+p492
+aVMoochie Norris HOU 01/10/2006 HOU @ CHA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 7
+p493
+aVJohn Lucas III HOU 01/10/2006 HOU @ CHA L 9 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 2 1 -2
+p494
+aVDikembe Mutombo HOU 01/10/2006 HOU @ CHA L 29 2 1 3 33.3 0 0 - 0 0 - 1 8 9 1 1 3 0 3 -7
+p495
+aVJuwan Howard HOU 01/10/2006 HOU @ CHA L 49 28 13 26 50.0 0 0 - 2 2 100.0 2 10 12 2 1 0 5 6 5
+p496
+aVRafer Alston HOU 01/10/2006 HOU @ CHA L 50 20 7 17 41.2 4 6 66.7 2 2 100.0 1 0 1 10 2 0 2 6 4
+p497
+aVRyan Bowen HOU 01/10/2006 HOU @ CHA L 26 0 0 5 0.0 0 0 - 0 0 - 1 2 3 3 1 1 1 5 -11
+p498
+aVDavid Wesley HOU 01/10/2006 HOU @ CHA L 56 26 8 13 61.5 4 6 66.7 6 6 100.0 0 3 3 3 1 0 1 4 -4
+p499
+aVLonny Baxter HOU 01/10/2006 HOU @ CHA L 22 10 3 6 50.0 0 0 - 4 5 80.0 2 2 4 0 1 0 4 6 -10
+p500
+aVJohn Lucas III HOU 01/08/2006 HOU vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p501
+aVLuther Head HOU 01/08/2006 HOU vs. DEN L 33 16 6 10 60.0 2 5 40.0 2 3 66.7 1 2 3 5 3 0 2 2 -2
+p502
+aVDavid Wesley HOU 01/08/2006 HOU vs. DEN L 42 15 7 16 43.8 1 6 16.7 0 2 0.0 0 1 1 5 1 1 2 4 0
+p503
+aVTracy McGrady HOU 01/08/2006 HOU vs. DEN L 19 11 5 14 35.7 0 3 0.0 1 1 100.0 0 2 2 1 1 0 3 0 -4
+p504
+aVRafer Alston HOU 01/08/2006 HOU vs. DEN L 44 24 9 16 56.3 4 6 66.7 2 2 100.0 1 4 5 11 3 0 4 5 2
+p505
+aVDikembe Mutombo HOU 01/08/2006 HOU vs. DEN L 25 1 0 1 0.0 0 0 - 1 2 50.0 4 9 13 0 0 2 1 3 -2
+p506
+aVStromile Swift HOU 01/08/2006 HOU vs. DEN L 36 17 7 16 43.8 0 0 - 3 4 75.0 2 4 6 1 1 0 1 3 0
+p507
+aVLonny Baxter HOU 01/08/2006 HOU vs. DEN L 21 6 2 3 66.7 0 0 - 2 2 100.0 1 2 3 0 0 0 1 3 7
+p508
+aVJon Barry HOU 01/08/2006 HOU vs. DEN L 7 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p509
+aVRyan Bowen HOU 01/08/2006 HOU vs. DEN L 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 1 -9
+p510
+aVStromile Swift HOU 01/06/2006 HOU @ TOR L 25 12 3 7 42.9 0 0 - 6 11 54.5 2 4 6 0 1 0 2 4 -18
+p511
+aVDikembe Mutombo HOU 01/06/2006 HOU @ TOR L 28 8 2 3 66.7 0 0 - 4 4 100.0 4 9 13 0 0 0 0 2 -10
+p512
+aVRyan Bowen HOU 01/06/2006 HOU @ TOR L 14 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 -3
+p513
+aVRafer Alston HOU 01/06/2006 HOU @ TOR L 35 2 1 5 20.0 0 3 0.0 0 0 - 1 2 3 7 0 0 2 4 -3
+p514
+aVJuwan Howard HOU 01/06/2006 HOU @ TOR L 14 2 1 4 25.0 0 0 - 0 0 - 1 3 4 2 0 0 1 1 -2
+p515
+aVDavid Wesley HOU 01/06/2006 HOU @ TOR L 39 19 7 12 58.3 3 5 60.0 2 2 100.0 1 2 3 3 3 0 0 1 -14
+p516
+aVMoochie Norris HOU 01/06/2006 HOU @ TOR L 3 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 1
+p517
+aVLonny Baxter HOU 01/06/2006 HOU @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p518
+aVJon Barry HOU 01/06/2006 HOU @ TOR L 16 8 3 4 75.0 2 3 66.7 0 0 - 0 1 1 2 1 0 0 1 -11
+p519
+aVLuther Head HOU 01/06/2006 HOU @ TOR L 22 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 2 1 0 2 4 -20
+p520
+aVTracy McGrady HOU 01/06/2006 HOU @ TOR L 41 37 15 31 48.4 1 5 20.0 6 6 100.0 0 4 4 3 0 0 5 2 -21
+p521
+aVJon Barry HOU 01/05/2006 HOU @ CLE W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 1 -3
+p522
+aVRafer Alston HOU 01/05/2006 HOU @ CLE W 40 18 5 11 45.5 2 6 33.3 6 6 100.0 0 4 4 6 4 1 0 1 16
+p523
+aVDavid Wesley HOU 01/05/2006 HOU @ CLE W 34 7 2 6 33.3 2 3 66.7 1 1 100.0 1 1 2 3 3 1 1 2 2
+p524
+aVDikembe Mutombo HOU 01/05/2006 HOU @ CLE W 35 1 0 3 0.0 0 0 - 1 2 50.0 4 4 8 0 0 1 1 5 2
+p525
+aVRyan Bowen HOU 01/05/2006 HOU @ CLE W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p526
+aVTracy McGrady HOU 01/05/2006 HOU @ CLE W 43 34 14 29 48.3 0 5 0.0 6 10 60.0 1 4 5 5 2 0 4 0 14
+p527
+aVJuwan Howard HOU 01/05/2006 HOU @ CLE W 37 16 7 12 58.3 0 0 - 2 2 100.0 1 8 9 2 0 0 1 3 19
+p528
+aVLuther Head HOU 01/05/2006 HOU @ CLE W 20 8 3 4 75.0 2 3 66.7 0 0 - 0 4 4 1 0 1 0 0 2
+p529
+aVStromile Swift HOU 01/05/2006 HOU @ CLE W 23 6 2 7 28.6 0 0 - 2 4 50.0 3 2 5 0 0 1 2 2 -1
+p530
+aVStromile Swift HOU 01/03/2006 HOU @ WAS W 28 13 4 8 50.0 0 0 - 5 7 71.4 1 7 8 4 2 1 3 6 -10
+p531
+aVRafer Alston HOU 01/03/2006 HOU @ WAS W 33 17 7 11 63.6 3 5 60.0 0 0 - 0 4 4 10 1 0 1 6 16
+p532
+aVDikembe Mutombo HOU 01/03/2006 HOU @ WAS W 24 4 2 3 66.7 0 0 - 0 0 - 4 7 11 1 0 2 2 3 14
+p533
+aVJohn Lucas III HOU 01/03/2006 HOU @ WAS W 13 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 0 1 -1
+p534
+aVJuwan Howard HOU 01/03/2006 HOU @ WAS W 41 24 10 14 71.4 0 0 - 4 5 80.0 4 3 7 2 1 1 1 4 16
+p535
+aVDavid Wesley HOU 01/03/2006 HOU @ WAS W 25 12 3 5 60.0 2 3 66.7 4 4 100.0 0 1 1 2 0 0 0 5 9
+p536
+aVRyan Bowen HOU 01/03/2006 HOU @ WAS W 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p537
+aVTracy McGrady HOU 01/03/2006 HOU @ WAS W 36 38 11 24 45.8 2 3 66.7 14 16 87.5 2 4 6 5 2 3 3 5 12
+p538
+aVLuther Head HOU 01/03/2006 HOU @ WAS W 32 11 4 9 44.4 2 5 40.0 1 1 100.0 0 6 6 3 0 0 2 1 -2
+p539
+aVStromile Swift HOU 12/31/2005 HOU vs. GSW L 35 17 7 12 58.3 0 0 - 3 3 100.0 4 9 13 1 0 0 2 4 -4
+p540
+aVTracy McGrady HOU 12/31/2005 HOU vs. GSW L 41 32 10 28 35.7 2 7 28.6 10 15 66.7 0 10 10 2 0 2 0 0 -6
+p541
+aVRafer Alston HOU 12/31/2005 HOU vs. GSW L 35 9 4 9 44.4 1 5 20.0 0 0 - 0 4 4 2 0 2 2 5 -5
+p542
+aVRyan Bowen HOU 12/31/2005 HOU vs. GSW L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 2 0
+p543
+aVDikembe Mutombo HOU 12/31/2005 HOU vs. GSW L 11 6 3 3 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -14
+p544
+aVJuwan Howard HOU 12/31/2005 HOU vs. GSW L 44 15 5 11 45.5 0 0 - 5 6 83.3 3 6 9 1 0 0 1 3 -4
+p545
+aVDavid Wesley HOU 12/31/2005 HOU vs. GSW L 36 4 1 8 12.5 0 5 0.0 2 3 66.7 1 1 2 4 0 0 0 6 -12
+p546
+aVJosh Davis HOU 12/31/2005 HOU vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p547
+aVJohn Lucas III HOU 12/31/2005 HOU vs. GSW L 1 0 0 0 - 0 0 - 0 0 - 2 0 2 1 0 0 1 0 9
+p548
+aVMoochie Norris HOU 12/31/2005 HOU vs. GSW L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 2
+p549
+aVLuther Head HOU 12/31/2005 HOU vs. GSW L 22 6 2 5 40.0 2 5 40.0 0 0 - 0 1 1 1 0 0 1 6 9
+p550
+aVDavid Wesley HOU 12/28/2005 HOU @ NOK L 39 10 4 10 40.0 2 6 33.3 0 0 - 0 2 2 3 1 0 2 4 -6
+p551
+aVTracy McGrady HOU 12/28/2005 HOU @ NOK L 45 38 11 25 44.0 4 6 66.7 12 15 80.0 0 8 8 7 2 0 4 1 1
+p552
+aVLonny Baxter HOU 12/28/2005 HOU @ NOK L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 1
+p553
+aVMoochie Norris HOU 12/28/2005 HOU @ NOK L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 11
+p554
+aVStromile Swift HOU 12/28/2005 HOU @ NOK L 35 26 9 15 60.0 0 0 - 8 11 72.7 6 7 13 0 0 0 3 5 2
+p555
+aVJuwan Howard HOU 12/28/2005 HOU @ NOK L 34 8 3 13 23.1 0 0 - 2 2 100.0 4 4 8 1 0 0 1 4 -6
+p556
+aVRyan Bowen HOU 12/28/2005 HOU @ NOK L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p557
+aVDikembe Mutombo HOU 12/28/2005 HOU @ NOK L 21 2 0 0 - 0 0 - 2 2 100.0 1 9 10 0 0 1 2 4 -1
+p558
+aVLuther Head HOU 12/28/2005 HOU @ NOK L 42 6 1 10 10.0 1 7 14.3 3 4 75.0 0 5 5 1 1 1 1 2 -7
+p559
+aVDavid Wesley HOU 12/27/2005 HOU vs. UTA L 45 14 4 11 36.4 1 4 25.0 5 5 100.0 1 2 3 1 0 0 1 5 -2
+p560
+aVLonny Baxter HOU 12/27/2005 HOU vs. UTA L 12 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -2
+p561
+aVDikembe Mutombo HOU 12/27/2005 HOU vs. UTA L 20 1 0 2 0.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 4 -8
+p562
+aVStromile Swift HOU 12/27/2005 HOU vs. UTA L 23 6 2 10 20.0 0 0 - 2 4 50.0 4 3 7 0 0 0 3 5 -6
+p563
+aVTracy McGrady HOU 12/27/2005 HOU vs. UTA L 20 21 6 14 42.9 0 1 0.0 9 11 81.8 1 3 4 5 1 2 3 1 4
+p564
+aVRyan Bowen HOU 12/27/2005 HOU vs. UTA L 13 0 0 0 - 0 0 - 0 0 - 0 5 5 0 1 0 2 4 -5
+p565
+aVLuther Head HOU 12/27/2005 HOU vs. UTA L 40 7 3 12 25.0 1 4 25.0 0 0 - 1 1 2 2 2 0 3 5 -13
+p566
+aVMoochie Norris HOU 12/27/2005 HOU vs. UTA L 15 2 1 4 25.0 0 0 - 0 0 - 0 3 3 3 3 0 1 4 -5
+p567
+aVJuwan Howard HOU 12/27/2005 HOU vs. UTA L 37 19 8 15 53.3 0 0 - 3 4 75.0 5 3 8 2 0 1 2 5 -1
+p568
+aVStephen Graham HOU 12/27/2005 HOU vs. UTA L 15 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 1 0 0 1 0 -2
+p569
+aVLonny Baxter HOU 12/23/2005 HOU @ DEN L 23 8 2 4 50.0 0 0 - 4 4 100.0 5 6 11 2 1 1 2 5 -8
+p570
+aVMoochie Norris HOU 12/23/2005 HOU @ DEN L 20 4 1 4 25.0 0 1 0.0 2 2 100.0 0 0 0 0 1 0 1 2 -1
+p571
+aVRyan Bowen HOU 12/23/2005 HOU @ DEN L 22 4 1 6 16.7 0 0 - 2 2 100.0 3 2 5 2 0 1 0 5 -3
+p572
+aVStromile Swift HOU 12/23/2005 HOU @ DEN L 21 11 3 9 33.3 0 0 - 5 6 83.3 3 2 5 1 1 0 2 4 -17
+p573
+aVJuwan Howard HOU 12/23/2005 HOU @ DEN L 37 18 8 16 50.0 0 0 - 2 5 40.0 1 6 7 1 1 0 3 2 -22
+p574
+aVLuther Head HOU 12/23/2005 HOU @ DEN L 37 5 2 13 15.4 1 9 11.1 0 0 - 0 8 8 6 1 0 3 3 -12
+p575
+aVDavid Wesley HOU 12/23/2005 HOU @ DEN L 30 10 3 10 30.0 3 9 33.3 1 1 100.0 0 3 3 3 1 0 0 2 -20
+p576
+aVTracy McGrady HOU 12/23/2005 HOU @ DEN L 34 17 4 17 23.5 0 2 0.0 9 9 100.0 3 4 7 4 0 0 1 2 -28
+p577
+aVStephen Graham HOU 12/23/2005 HOU @ DEN L 16 9 3 7 42.9 1 3 33.3 2 2 100.0 1 2 3 1 2 0 3 3 1
+p578
+aVLuther Head HOU 12/21/2005 HOU vs. TOR L 37 20 8 17 47.1 4 9 44.4 0 1 0.0 1 2 3 2 1 0 3 2 -2
+p579
+aVRyan Bowen HOU 12/21/2005 HOU vs. TOR L 23 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -21
+p580
+aVStromile Swift HOU 12/21/2005 HOU vs. TOR L 14 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 2 0 -13
+p581
+aVLonny Baxter HOU 12/21/2005 HOU vs. TOR L 14 4 2 5 40.0 0 0 - 0 0 - 1 2 3 0 0 2 1 2 -4
+p582
+aVJuwan Howard HOU 12/21/2005 HOU vs. TOR L 43 21 8 14 57.1 0 0 - 5 5 100.0 6 6 12 0 0 0 2 4 -11
+p583
+aVStephen Graham HOU 12/21/2005 HOU vs. TOR L 7 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 1
+p584
+aVDavid Wesley HOU 12/21/2005 HOU vs. TOR L 43 13 4 11 36.4 1 6 16.7 4 5 80.0 0 4 4 5 1 1 1 2 -9
+p585
+aVTracy McGrady HOU 12/21/2005 HOU vs. TOR L 45 7 2 11 18.2 0 4 0.0 3 6 50.0 1 7 8 11 1 2 2 1 -7
+p586
+aVMoochie Norris HOU 12/21/2005 HOU vs. TOR L 14 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 0 0 2 3 1
+p587
+aVDavid Wesley HOU 12/18/2005 HOU @ LAL W 35 18 6 10 60.0 3 5 60.0 3 4 75.0 1 2 3 3 0 0 1 4 16
+p588
+aVStromile Swift HOU 12/18/2005 HOU @ LAL W 19 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -15
+p589
+aVLonny Baxter HOU 12/18/2005 HOU @ LAL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p590
+aVRyan Bowen HOU 12/18/2005 HOU @ LAL W 17 6 3 8 37.5 0 1 0.0 0 0 - 2 1 3 0 1 0 1 1 -5
+p591
+aVDikembe Mutombo HOU 12/18/2005 HOU @ LAL W 32 2 1 5 20.0 0 0 - 0 0 - 1 8 9 0 0 3 0 3 13
+p592
+aVMoochie Norris HOU 12/18/2005 HOU @ LAL W 20 0 0 2 0.0 0 0 - 0 0 - 1 3 4 3 2 0 2 3 -6
+p593
+aVTracy McGrady HOU 12/18/2005 HOU @ LAL W 35 20 6 16 37.5 1 5 20.0 7 8 87.5 1 7 8 4 1 1 5 5 -4
+p594
+aVJuwan Howard HOU 12/18/2005 HOU @ LAL W 38 10 5 12 41.7 0 0 - 0 1 0.0 4 3 7 4 1 0 2 4 8
+p595
+aVLuther Head HOU 12/18/2005 HOU @ LAL W 38 16 6 13 46.2 4 11 36.4 0 0 - 0 6 6 2 3 0 2 0 5
+p596
+aVMoochie Norris HOU 12/17/2005 HOU @ LAC L 13 8 4 5 80.0 0 0 - 0 0 - 0 2 2 1 2 0 1 1 0
+p597
+aVRyan Bowen HOU 12/17/2005 HOU @ LAC L 29 4 2 11 18.2 0 0 - 0 0 - 1 3 4 0 1 0 0 2 -10
+p598
+aVLuther Head HOU 12/17/2005 HOU @ LAC L 23 4 1 4 25.0 1 3 33.3 1 2 50.0 2 4 6 2 0 0 1 1 -7
+p599
+aVStromile Swift HOU 12/17/2005 HOU @ LAC L 16 5 1 3 33.3 0 0 - 3 4 75.0 0 2 2 0 0 0 0 2 -3
+p600
+aVDavid Wesley HOU 12/17/2005 HOU @ LAC L 35 7 2 7 28.6 2 5 40.0 1 1 100.0 1 0 1 8 0 0 2 5 -8
+p601
+aVYao Ming HOU 12/17/2005 HOU @ LAC L 37 22 9 17 52.9 0 0 - 4 4 100.0 2 5 7 0 0 1 2 2 -8
+p602
+aVTracy McGrady HOU 12/17/2005 HOU @ LAC L 44 29 12 28 42.9 2 8 25.0 3 3 100.0 0 7 7 7 0 0 4 1 0
+p603
+aVStephen Graham HOU 12/17/2005 HOU @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p604
+aVJuwan Howard HOU 12/17/2005 HOU @ LAC L 31 2 0 3 0.0 0 0 - 2 2 100.0 3 7 10 3 1 0 0 2 -4
+p605
+aVDikembe Mutombo HOU 12/17/2005 HOU @ LAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 1
+p606
+aVJuwan Howard HOU 12/15/2005 HOU @ SEA W 26 16 8 10 80.0 0 1 0.0 0 0 - 3 2 5 1 0 0 0 2 2
+p607
+aVMoochie Norris HOU 12/15/2005 HOU @ SEA W 15 5 2 4 50.0 0 1 0.0 1 1 100.0 0 0 0 2 1 0 0 2 -3
+p608
+aVTracy McGrady HOU 12/15/2005 HOU @ SEA W 48 34 11 27 40.7 6 9 66.7 6 10 60.0 0 6 6 8 1 0 1 3 6
+p609
+aVRyan Bowen HOU 12/15/2005 HOU @ SEA W 19 2 1 2 50.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 0
+p610
+aVLuther Head HOU 12/15/2005 HOU @ SEA W 27 2 0 1 0.0 0 1 0.0 2 2 100.0 0 3 3 3 1 0 0 4 17
+p611
+aVDikembe Mutombo HOU 12/15/2005 HOU @ SEA W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 8
+p612
+aVYao Ming HOU 12/15/2005 HOU @ SEA W 34 26 7 10 70.0 0 0 - 12 15 80.0 2 8 10 1 0 0 5 5 -1
+p613
+aVStromile Swift HOU 12/15/2005 HOU @ SEA W 23 12 4 7 57.1 0 0 - 4 4 100.0 1 3 4 2 1 1 1 2 1
+p614
+aVDavid Wesley HOU 12/15/2005 HOU @ SEA W 37 5 1 4 25.0 0 1 0.0 3 3 100.0 0 1 1 2 2 0 2 2 0
+p615
+aVTracy McGrady HOU 12/14/2005 HOU @ GSW W 45 23 6 18 33.3 1 3 33.3 10 16 62.5 1 7 8 8 0 2 0 1 13
+p616
+aVDavid Wesley HOU 12/14/2005 HOU @ GSW W 43 19 6 12 50.0 4 8 50.0 3 4 75.0 0 6 6 6 2 0 4 3 4
+p617
+aVLuther Head HOU 12/14/2005 HOU @ GSW W 29 7 3 9 33.3 1 4 25.0 0 1 0.0 1 6 7 2 0 0 2 1 4
+p618
+aVMoochie Norris HOU 12/14/2005 HOU @ GSW W 7 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 0 1 0 9
+p619
+aVStephen Graham HOU 12/14/2005 HOU @ GSW W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p620
+aVDikembe Mutombo HOU 12/14/2005 HOU @ GSW W 11 5 1 1 100.0 0 0 - 3 4 75.0 1 4 5 0 0 3 1 1 -2
+p621
+aVJuwan Howard HOU 12/14/2005 HOU @ GSW W 19 0 0 4 0.0 0 0 - 0 0 - 1 3 4 3 0 0 3 2 -10
+p622
+aVRyan Bowen HOU 12/14/2005 HOU @ GSW W 32 13 5 10 50.0 0 1 0.0 3 3 100.0 5 3 8 0 0 0 0 4 1
+p623
+aVYao Ming HOU 12/14/2005 HOU @ GSW W 41 30 12 18 66.7 0 0 - 6 7 85.7 5 11 16 2 0 1 6 5 10
+p624
+aVStromile Swift HOU 12/14/2005 HOU @ GSW W 18 6 3 3 100.0 0 0 - 0 0 - 0 2 2 1 1 1 2 4 -4
+p625
+aVDerek Anderson HOU 12/14/2005 HOU @ GSW W 19 8 3 5 60.0 2 4 50.0 0 0 - 0 3 3 1 0 0 0 1 2
+p626
+aVDavid Wesley HOU 12/11/2005 HOU @ POR W 41 11 3 7 42.9 1 3 33.3 4 4 100.0 0 3 3 6 1 0 1 3 16
+p627
+aVTracy McGrady HOU 12/11/2005 HOU @ POR W 42 35 14 31 45.2 1 5 20.0 6 10 60.0 2 5 7 4 3 2 2 2 16
+p628
+aVStephen Graham HOU 12/11/2005 HOU @ POR W 1 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 0
+p629
+aVRyan Bowen HOU 12/11/2005 HOU @ POR W 14 6 3 6 50.0 0 0 - 0 0 - 0 2 2 1 1 1 0 2 -4
+p630
+aVDikembe Mutombo HOU 12/11/2005 HOU @ POR W 18 7 1 2 50.0 0 0 - 5 5 100.0 4 5 9 0 1 0 0 1 10
+p631
+aVJuwan Howard HOU 12/11/2005 HOU @ POR W 25 6 2 5 40.0 0 0 - 2 2 100.0 1 1 2 0 1 0 0 5 6
+p632
+aVStromile Swift HOU 12/11/2005 HOU @ POR W 27 11 4 8 50.0 0 0 - 3 4 75.0 2 3 5 1 2 1 0 5 6
+p633
+aVDerek Anderson HOU 12/11/2005 HOU @ POR W 35 9 3 5 60.0 1 3 33.3 2 4 50.0 3 4 7 5 1 0 0 2 20
+p634
+aVLuther Head HOU 12/11/2005 HOU @ POR W 12 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 2 0 1 1 3 -1
+p635
+aVYao Ming HOU 12/11/2005 HOU @ POR W 25 9 4 10 40.0 0 0 - 1 1 100.0 1 4 5 2 0 1 3 6 1
+p636
+aVStromile Swift HOU 12/08/2005 HOU @ SAC W 27 11 5 9 55.6 0 0 - 1 2 50.0 2 2 4 1 3 3 1 5 17
+p637
+aVYao Ming HOU 12/08/2005 HOU @ SAC W 35 21 6 13 46.2 0 0 - 9 10 90.0 1 8 9 1 1 2 6 2 3
+p638
+aVTracy McGrady HOU 12/08/2005 HOU @ SAC W 44 28 11 24 45.8 1 6 16.7 5 7 71.4 0 4 4 4 4 0 2 2 11
+p639
+aVJuwan Howard HOU 12/08/2005 HOU @ SAC W 23 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 1 0 0 2 -5
+p640
+aVDikembe Mutombo HOU 12/08/2005 HOU @ SAC W 9 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 1 0 1 7
+p641
+aVRyan Bowen HOU 12/08/2005 HOU @ SAC W 16 0 0 4 0.0 0 1 0.0 0 0 - 1 2 3 0 0 0 0 3 -11
+p642
+aVLuther Head HOU 12/08/2005 HOU @ SAC W 19 9 3 4 75.0 2 2 100.0 1 2 50.0 1 1 2 3 1 0 0 1 16
+p643
+aVDavid Wesley HOU 12/08/2005 HOU @ SAC W 36 12 4 5 80.0 2 2 100.0 2 2 100.0 0 1 1 5 1 0 0 3 4
+p644
+aVDerek Anderson HOU 12/08/2005 HOU @ SAC W 31 17 3 7 42.9 1 5 20.0 10 11 90.9 0 5 5 2 0 0 4 3 13
+p645
+aVLuther Head HOU 12/06/2005 HOU vs. BOS W 27 11 4 6 66.7 3 5 60.0 0 0 - 0 0 0 4 1 0 4 1 16
+p646
+aVMoochie Norris HOU 12/06/2005 HOU vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -1
+p647
+aVYao Ming HOU 12/06/2005 HOU vs. BOS W 36 12 4 9 44.4 0 0 - 4 4 100.0 2 7 9 3 0 1 1 4 22
+p648
+aVLonny Baxter HOU 12/06/2005 HOU vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -1
+p649
+aVDavid Wesley HOU 12/06/2005 HOU vs. BOS W 23 2 1 8 12.5 0 2 0.0 0 0 - 1 2 3 3 2 0 3 3 5
+p650
+aVJon Barry HOU 12/06/2005 HOU vs. BOS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p651
+aVTracy McGrady HOU 12/06/2005 HOU vs. BOS W 39 35 14 20 70.0 2 5 40.0 5 8 62.5 3 4 7 5 2 2 2 4 21
+p652
+aVJuwan Howard HOU 12/06/2005 HOU vs. BOS W 29 8 4 10 40.0 0 0 - 0 0 - 1 3 4 1 0 0 1 4 3
+p653
+aVDerek Anderson HOU 12/06/2005 HOU vs. BOS W 31 10 2 9 22.2 0 4 0.0 6 6 100.0 0 5 5 3 3 0 3 3 13
+p654
+aVRyan Bowen HOU 12/06/2005 HOU vs. BOS W 29 2 1 5 20.0 0 2 0.0 0 1 0.0 3 5 8 0 0 0 1 4 7
+p655
+aVStromile Swift HOU 12/06/2005 HOU vs. BOS W 22 11 4 9 44.4 0 0 - 3 6 50.0 3 3 6 0 0 2 0 1 8
+p656
+aVDavid Wesley HOU 12/03/2005 HOU vs. MEM L 28 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 1 1 0 3 1 -19
+p657
+aVMoochie Norris HOU 12/03/2005 HOU vs. MEM L 17 8 3 6 50.0 0 1 0.0 2 2 100.0 1 3 4 1 1 0 2 2 6
+p658
+aVLuther Head HOU 12/03/2005 HOU vs. MEM L 34 9 4 9 44.4 1 5 20.0 0 2 0.0 0 4 4 1 3 0 4 1 -4
+p659
+aVRyan Bowen HOU 12/03/2005 HOU vs. MEM L 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 1 0 1 2
+p660
+aVDerek Anderson HOU 12/03/2005 HOU vs. MEM L 26 3 1 4 25.0 0 3 0.0 1 2 50.0 1 5 6 6 0 0 1 1 -9
+p661
+aVDikembe Mutombo HOU 12/03/2005 HOU vs. MEM L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 0 1 2 0 0 -16
+p662
+aVYao Ming HOU 12/03/2005 HOU vs. MEM L 38 29 12 19 63.2 0 0 - 5 5 100.0 5 2 7 0 2 0 1 4 1
+p663
+aVTracy McGrady HOU 12/03/2005 HOU vs. MEM L 38 12 5 15 33.3 1 4 25.0 1 2 50.0 0 1 1 7 1 1 3 0 -17
+p664
+aVJuwan Howard HOU 12/03/2005 HOU vs. MEM L 24 2 1 5 20.0 0 0 - 0 0 - 1 4 5 3 0 0 2 3 -23
+p665
+aVStromile Swift HOU 12/03/2005 HOU vs. MEM L 20 5 2 4 50.0 0 0 - 1 3 33.3 3 3 6 1 1 1 5 1 4
+p666
+aVJuwan Howard HOU 11/29/2005 HOU vs. ATL W 32 12 5 7 71.4 0 0 - 2 3 66.7 2 5 7 3 0 0 0 4 19
+p667
+aVTracy McGrady HOU 11/29/2005 HOU vs. ATL W 34 25 7 16 43.8 0 2 0.0 11 12 91.7 0 9 9 5 1 1 8 3 29
+p668
+aVLuther Head HOU 11/29/2005 HOU vs. ATL W 36 12 4 12 33.3 2 5 40.0 2 2 100.0 0 6 6 3 3 0 2 3 -4
+p669
+aVStromile Swift HOU 11/29/2005 HOU vs. ATL W 12 5 2 3 66.7 0 0 - 1 2 50.0 0 1 1 0 0 0 0 4 -3
+p670
+aVRyan Bowen HOU 11/29/2005 HOU vs. ATL W 8 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 1 0 1 2 -2
+p671
+aVYao Ming HOU 11/29/2005 HOU vs. ATL W 34 25 10 17 58.8 0 0 - 5 6 83.3 3 9 12 1 0 2 3 4 10
+p672
+aVDerek Anderson HOU 11/29/2005 HOU vs. ATL W 32 10 4 11 36.4 1 5 20.0 1 2 50.0 0 1 1 1 0 0 2 2 2
+p673
+aVDikembe Mutombo HOU 11/29/2005 HOU vs. ATL W 14 0 0 2 0.0 0 0 - 0 0 - 2 4 6 0 1 0 0 1 8
+p674
+aVDavid Wesley HOU 11/29/2005 HOU vs. ATL W 38 10 3 10 30.0 2 4 50.0 2 2 100.0 1 2 3 2 0 0 2 2 16
+p675
+aVStromile Swift HOU 11/26/2005 HOU vs. CHI L 22 12 3 9 33.3 0 0 - 6 6 100.0 2 5 7 0 1 2 3 5 -9
+p676
+aVRyan Bowen HOU 11/26/2005 HOU vs. CHI L 11 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 1 2 13
+p677
+aVDerek Anderson HOU 11/26/2005 HOU vs. CHI L 38 12 4 10 40.0 0 2 0.0 4 4 100.0 1 4 5 5 0 1 0 2 -1
+p678
+aVLuther Head HOU 11/26/2005 HOU vs. CHI L 43 11 3 11 27.3 3 7 42.9 2 2 100.0 0 3 3 2 1 0 3 3 -6
+p679
+aVYao Ming HOU 11/26/2005 HOU vs. CHI L 34 30 9 18 50.0 0 0 - 12 14 85.7 0 6 6 1 1 0 4 6 6
+p680
+aVLonny Baxter HOU 11/26/2005 HOU vs. CHI L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p681
+aVJuwan Howard HOU 11/26/2005 HOU vs. CHI L 27 10 5 16 31.3 0 0 - 0 0 - 2 10 12 1 1 0 1 3 -16
+p682
+aVDavid Wesley HOU 11/26/2005 HOU vs. CHI L 42 13 4 10 40.0 2 6 33.3 3 3 100.0 1 4 5 6 0 0 0 2 0
+p683
+aVDikembe Mutombo HOU 11/26/2005 HOU vs. CHI L 10 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 0 2 -2
+p684
+aVMoochie Norris HOU 11/26/2005 HOU vs. CHI L 11 0 0 2 0.0 0 0 - 0 0 - 3 1 4 3 0 1 1 0 -4
+p685
+aVRyan Bowen HOU 11/25/2005 HOU @ MEM L 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 0 2
+p686
+aVLuther Head HOU 11/25/2005 HOU @ MEM L 41 10 3 9 33.3 3 6 50.0 1 2 50.0 1 1 2 8 2 0 1 2 -1
+p687
+aVYao Ming HOU 11/25/2005 HOU @ MEM L 38 15 4 13 30.8 0 1 0.0 7 8 87.5 3 9 12 2 2 2 3 3 6
+p688
+aVDerek Anderson HOU 11/25/2005 HOU @ MEM L 28 16 3 9 33.3 1 2 50.0 9 11 81.8 0 3 3 2 2 0 3 2 -7
+p689
+aVStromile Swift HOU 11/25/2005 HOU @ MEM L 19 10 4 7 57.1 0 0 - 2 3 66.7 0 4 4 0 1 0 5 4 -4
+p690
+aVDavid Wesley HOU 11/25/2005 HOU @ MEM L 41 13 4 10 40.0 3 6 50.0 2 2 100.0 0 3 3 2 0 0 1 4 -4
+p691
+aVJon Barry HOU 11/25/2005 HOU @ MEM L 24 7 1 2 50.0 1 1 100.0 4 4 100.0 0 3 3 4 0 0 1 1 -6
+p692
+aVDikembe Mutombo HOU 11/25/2005 HOU @ MEM L 10 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 -9
+p693
+aVJuwan Howard HOU 11/25/2005 HOU @ MEM L 28 10 5 8 62.5 0 0 - 0 1 0.0 3 4 7 2 0 1 3 4 -2
+p694
+aVDavid Wesley HOU 11/23/2005 HOU vs. PHX L 35 7 2 9 22.2 1 3 33.3 2 2 100.0 0 4 4 5 0 0 3 3 -13
+p695
+aVLuther Head HOU 11/23/2005 HOU vs. PHX L 40 15 5 13 38.5 4 8 50.0 1 2 50.0 2 8 10 4 1 0 3 2 -11
+p696
+aVYao Ming HOU 11/23/2005 HOU vs. PHX L 26 8 3 7 42.9 0 0 - 2 2 100.0 1 7 8 1 1 0 1 0 -8
+p697
+aVMoochie Norris HOU 11/23/2005 HOU vs. PHX L 9 4 0 2 0.0 0 0 - 4 4 100.0 0 0 0 1 0 0 0 2 2
+p698
+aVJuwan Howard HOU 11/23/2005 HOU vs. PHX L 10 4 2 8 25.0 0 0 - 0 1 0.0 3 1 4 0 0 0 0 0 -9
+p699
+aVRyan Bowen HOU 11/23/2005 HOU vs. PHX L 23 8 4 9 44.4 0 2 0.0 0 0 - 1 0 1 1 1 0 0 1 -11
+p700
+aVDerek Anderson HOU 11/23/2005 HOU vs. PHX L 37 23 9 16 56.3 1 4 25.0 4 4 100.0 0 9 9 4 1 0 3 2 4
+p701
+aVJon Barry HOU 11/23/2005 HOU vs. PHX L 34 8 3 8 37.5 1 2 50.0 1 3 33.3 0 2 2 0 0 0 2 4 -14
+p702
+aVLonny Baxter HOU 11/23/2005 HOU vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p703
+aVStromile Swift HOU 11/23/2005 HOU vs. PHX L 25 11 5 8 62.5 0 0 - 1 2 50.0 6 6 12 1 0 0 3 4 -2
+p704
+aVLuther Head HOU 11/22/2005 HOU @ DAL L 43 28 9 17 52.9 5 8 62.5 5 5 100.0 0 7 7 3 0 0 3 5 -14
+p705
+aVStromile Swift HOU 11/22/2005 HOU @ DAL L 19 9 3 8 37.5 0 1 0.0 3 5 60.0 0 2 2 0 0 0 0 6 -4
+p706
+aVYao Ming HOU 11/22/2005 HOU @ DAL L 38 20 6 17 35.3 0 0 - 8 9 88.9 4 2 6 0 2 1 3 4 2
+p707
+aVDavid Wesley HOU 11/22/2005 HOU @ DAL L 26 5 1 2 50.0 0 0 - 3 4 75.0 0 1 1 2 0 0 2 2 -6
+p708
+aVRyan Bowen HOU 11/22/2005 HOU @ DAL L 19 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 1 0 0 0 1 -8
+p709
+aVMoochie Norris HOU 11/22/2005 HOU @ DAL L 6 2 1 2 50.0 0 0 - 0 2 0.0 0 0 0 3 1 0 0 2 -3
+p710
+aVJuwan Howard HOU 11/22/2005 HOU @ DAL L 27 3 1 5 20.0 0 0 - 1 2 50.0 2 4 6 1 0 0 0 3 -5
+p711
+aVDerek Anderson HOU 11/22/2005 HOU @ DAL L 32 19 7 10 70.0 2 3 66.7 3 4 75.0 1 4 5 4 1 2 0 4 -8
+p712
+aVDikembe Mutombo HOU 11/22/2005 HOU @ DAL L 10 4 2 2 100.0 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -4
+p713
+aVJon Barry HOU 11/22/2005 HOU @ DAL L 20 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 1 1 1 5 5
+p714
+aVDavid Wesley HOU 11/20/2005 HOU @ IND L 40 12 5 9 55.6 2 2 100.0 0 0 - 0 6 6 4 2 0 3 0 -8
+p715
+aVMoochie Norris HOU 11/20/2005 HOU @ IND L 8 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 1
+p716
+aVJon Barry HOU 11/20/2005 HOU @ IND L 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -7
+p717
+aVJuwan Howard HOU 11/20/2005 HOU @ IND L 34 11 5 10 50.0 0 0 - 1 1 100.0 1 7 8 1 0 0 2 6 -5
+p718
+aVLuther Head HOU 11/20/2005 HOU @ IND L 34 7 3 8 37.5 1 4 25.0 0 0 - 0 3 3 2 1 0 1 4 -2
+p719
+aVDikembe Mutombo HOU 11/20/2005 HOU @ IND L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 1 -5
+p720
+aVStromile Swift HOU 11/20/2005 HOU @ IND L 15 5 2 5 40.0 0 0 - 1 1 100.0 0 0 0 0 0 0 2 3 -14
+p721
+aVRyan Bowen HOU 11/20/2005 HOU @ IND L 20 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -3
+p722
+aVYao Ming HOU 11/20/2005 HOU @ IND L 42 24 8 21 38.1 0 0 - 8 9 88.9 4 9 13 1 1 4 4 4 -2
+p723
+aVDerek Anderson HOU 11/20/2005 HOU @ IND L 35 13 6 14 42.9 1 4 25.0 0 0 - 0 1 1 1 0 0 4 3 -10
+p724
+aVJuwan Howard HOU 11/18/2005 HOU vs. DET L 22 5 2 6 33.3 0 0 - 1 1 100.0 2 4 6 0 0 1 1 0 -12
+p725
+aVDavid Wesley HOU 11/18/2005 HOU vs. DET L 37 14 5 8 62.5 2 2 100.0 2 4 50.0 1 8 9 6 0 0 4 3 -11
+p726
+aVTracy McGrady HOU 11/18/2005 HOU vs. DET L 32 6 3 16 18.8 0 2 0.0 0 0 - 2 11 13 4 1 0 1 1 -4
+p727
+aVRyan Bowen HOU 11/18/2005 HOU vs. DET L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p728
+aVDikembe Mutombo HOU 11/18/2005 HOU vs. DET L 8 0 0 2 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -1
+p729
+aVLuther Head HOU 11/18/2005 HOU vs. DET L 9 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p730
+aVYao Ming HOU 11/18/2005 HOU vs. DET L 37 20 8 14 57.1 0 0 - 4 5 80.0 4 7 11 2 2 1 9 6 -5
+p731
+aVDerek Anderson HOU 11/18/2005 HOU vs. DET L 26 4 0 7 0.0 0 1 0.0 4 4 100.0 0 1 1 1 2 0 0 1 -1
+p732
+aVJon Barry HOU 11/18/2005 HOU vs. DET L 29 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 0 -4
+p733
+aVStromile Swift HOU 11/18/2005 HOU vs. DET L 28 12 5 8 62.5 0 0 - 2 3 66.7 4 5 9 0 0 1 2 4 2
+p734
+aVStromile Swift HOU 11/17/2005 HOU @ SAS L 25 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 3 0
+p735
+aVYao Ming HOU 11/17/2005 HOU @ SAS L 42 19 8 17 47.1 0 0 - 3 5 60.0 1 6 7 1 1 0 1 3 8
+p736
+aVDerek Anderson HOU 11/17/2005 HOU @ SAS L 23 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 1 2 -14
+p737
+aVJuwan Howard HOU 11/17/2005 HOU @ SAS L 24 4 1 6 16.7 0 0 - 2 2 100.0 2 3 5 0 0 0 1 2 -14
+p738
+aVTracy McGrady HOU 11/17/2005 HOU @ SAS L 38 27 8 22 36.4 2 8 25.0 9 11 81.8 2 10 12 4 1 0 3 0 -9
+p739
+aVDavid Wesley HOU 11/17/2005 HOU @ SAS L 25 6 2 6 33.3 1 3 33.3 1 2 50.0 2 4 6 2 1 1 3 5 7
+p740
+aVRafer Alston HOU 11/17/2005 HOU @ SAS L 29 2 1 6 16.7 0 2 0.0 0 0 - 0 3 3 3 1 1 3 4 -3
+p741
+aVLuther Head HOU 11/17/2005 HOU @ SAS L 19 11 4 7 57.1 3 4 75.0 0 0 - 0 1 1 0 1 0 1 0 4
+p742
+aVJon Barry HOU 11/17/2005 HOU @ SAS L 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 1 0 3 1 2
+p743
+aVDikembe Mutombo HOU 11/17/2005 HOU @ SAS L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -8
+p744
+aVRyan Bowen HOU 11/17/2005 HOU @ SAS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p745
+aVDavid Wesley HOU 11/15/2005 HOU @ MIN W 26 6 1 4 25.0 1 1 100.0 3 4 75.0 1 4 5 4 0 0 0 1 0
+p746
+aVRyan Bowen HOU 11/15/2005 HOU @ MIN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p747
+aVStromile Swift HOU 11/15/2005 HOU @ MIN W 17 10 4 6 66.7 0 0 - 2 3 66.7 1 1 2 0 0 1 0 4 -2
+p748
+aVJon Barry HOU 11/15/2005 HOU @ MIN W 24 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 1 0 0 1 1 3
+p749
+aVTracy McGrady HOU 11/15/2005 HOU @ MIN W 38 25 6 18 33.3 0 3 0.0 13 13 100.0 0 8 8 4 2 0 5 1 -3
+p750
+aVJuwan Howard HOU 11/15/2005 HOU @ MIN W 31 9 4 8 50.0 0 0 - 1 2 50.0 2 3 5 1 3 0 0 2 7
+p751
+aVDerek Anderson HOU 11/15/2005 HOU @ MIN W 27 11 5 10 50.0 0 3 0.0 1 2 50.0 1 3 4 1 0 0 3 3 5
+p752
+aVRafer Alston HOU 11/15/2005 HOU @ MIN W 30 13 5 9 55.6 0 2 0.0 3 5 60.0 1 3 4 3 1 1 1 3 10
+p753
+aVDikembe Mutombo HOU 11/15/2005 HOU @ MIN W 20 5 1 3 33.3 0 0 - 3 4 75.0 2 2 4 0 0 1 1 4 7
+p754
+aVYao Ming HOU 11/15/2005 HOU @ MIN W 27 13 5 8 62.5 0 0 - 3 3 100.0 2 5 7 0 0 0 1 5 -1
+p755
+aVLuther Head HOU 11/13/2005 HOU @ BOS L 20 8 2 9 22.2 1 2 50.0 3 6 50.0 0 3 3 0 1 0 1 1 -1
+p756
+aVDikembe Mutombo HOU 11/13/2005 HOU @ BOS L 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 2 0 0 -2
+p757
+aVDerek Anderson HOU 11/13/2005 HOU @ BOS L 17 3 1 5 20.0 0 1 0.0 1 2 50.0 1 3 4 1 1 0 0 2 -20
+p758
+aVYao Ming HOU 11/13/2005 HOU @ BOS L 30 14 6 8 75.0 0 0 - 2 3 66.7 2 8 10 2 0 0 4 5 -15
+p759
+aVTracy McGrady HOU 11/13/2005 HOU @ BOS L 28 14 5 10 50.0 2 4 50.0 2 3 66.7 2 2 4 3 0 0 4 3 -14
+p760
+aVJuwan Howard HOU 11/13/2005 HOU @ BOS L 22 4 2 6 33.3 0 0 - 0 0 - 3 3 6 0 0 0 3 2 -28
+p761
+aVStromile Swift HOU 11/13/2005 HOU @ BOS L 26 17 7 10 70.0 0 0 - 3 8 37.5 2 2 4 0 3 3 3 3 3
+p762
+aVMoochie Norris HOU 11/13/2005 HOU @ BOS L 3 0 0 3 0.0 0 1 0.0 0 0 - 1 1 2 0 0 0 0 0 1
+p763
+aVRyan Bowen HOU 11/13/2005 HOU @ BOS L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p764
+aVRafer Alston HOU 11/13/2005 HOU @ BOS L 29 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 1 2 0 1 0 -17
+p765
+aVDavid Wesley HOU 11/13/2005 HOU @ BOS L 32 10 1 6 16.7 1 4 25.0 7 8 87.5 1 1 2 1 3 0 1 1 -9
+p766
+aVJon Barry HOU 11/13/2005 HOU @ BOS L 23 7 1 5 20.0 1 3 33.3 4 5 80.0 0 2 2 3 0 0 2 2 2
+p767
+aVStromile Swift HOU 11/12/2005 HOU @ NJN W 21 2 1 3 33.3 0 0 - 0 0 - 1 5 6 0 0 1 3 3 5
+p768
+aVDavid Wesley HOU 11/12/2005 HOU @ NJN W 33 15 4 9 44.4 3 6 50.0 4 4 100.0 0 2 2 4 0 0 2 6 5
+p769
+aVYao Ming HOU 11/12/2005 HOU @ NJN W 23 18 5 7 71.4 0 0 - 8 9 88.9 1 1 2 0 1 1 2 4 9
+p770
+aVLuther Head HOU 11/12/2005 HOU @ NJN W 30 9 3 10 30.0 3 6 50.0 0 0 - 0 2 2 3 1 0 1 3 4
+p771
+aVRafer Alston HOU 11/12/2005 HOU @ NJN W 22 3 0 2 0.0 0 1 0.0 3 4 75.0 0 5 5 6 0 0 0 3 -6
+p772
+aVTracy McGrady HOU 11/12/2005 HOU @ NJN W 37 35 13 26 50.0 4 5 80.0 5 6 83.3 3 7 10 4 1 3 2 2 14
+p773
+aVDikembe Mutombo HOU 11/12/2005 HOU @ NJN W 13 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 1
+p774
+aVJuwan Howard HOU 11/12/2005 HOU @ NJN W 26 8 4 8 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 1 -1
+p775
+aVJon Barry HOU 11/12/2005 HOU @ NJN W 14 3 1 2 50.0 1 1 100.0 0 0 - 1 2 3 4 0 0 0 1 1
+p776
+aVDerek Anderson HOU 11/12/2005 HOU @ NJN W 21 6 2 3 66.7 2 2 100.0 0 0 - 0 4 4 1 0 0 2 5 8
+p777
+aVJuwan Howard HOU 11/10/2005 HOU @ MIA L 30 11 5 7 71.4 0 0 - 1 2 50.0 0 6 6 1 1 0 1 3 -1
+p778
+aVRyan Bowen HOU 11/10/2005 HOU @ MIA L 20 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 2 0 1 1 9
+p779
+aVLuther Head HOU 11/10/2005 HOU @ MIA L 13 5 2 4 50.0 0 1 0.0 1 2 50.0 1 0 1 2 1 0 0 1 -8
+p780
+aVDavid Wesley HOU 11/10/2005 HOU @ MIA L 25 6 2 2 100.0 1 1 100.0 1 2 50.0 0 2 2 1 1 0 1 2 -10
+p781
+aVYao Ming HOU 11/10/2005 HOU @ MIA L 33 24 10 20 50.0 0 0 - 4 7 57.1 5 9 14 3 0 1 1 4 0
+p782
+aVRafer Alston HOU 11/10/2005 HOU @ MIA L 35 3 1 9 11.1 1 3 33.3 0 0 - 1 3 4 5 1 0 1 1 2
+p783
+aVDerek Anderson HOU 11/10/2005 HOU @ MIA L 32 20 6 17 35.3 2 8 25.0 6 8 75.0 1 5 6 5 1 0 5 4 -2
+p784
+aVDikembe Mutombo HOU 11/10/2005 HOU @ MIA L 13 3 1 1 100.0 0 0 - 1 2 50.0 3 3 6 1 0 0 0 2 4
+p785
+aVStromile Swift HOU 11/10/2005 HOU @ MIA L 19 12 5 12 41.7 0 0 - 2 3 66.7 3 2 5 0 1 1 1 5 -11
+p786
+aVJon Barry HOU 11/10/2005 HOU @ MIA L 19 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 1 0 2 2 -3
+p787
+aVRafer Alston HOU 11/08/2005 HOU vs. ORL L 35 8 4 12 33.3 0 3 0.0 0 0 - 1 6 7 9 0 1 4 3 -12
+p788
+aVYao Ming HOU 11/08/2005 HOU vs. ORL L 35 17 6 15 40.0 0 0 - 5 6 83.3 2 2 4 0 0 4 1 3 0
+p789
+aVLuther Head HOU 11/08/2005 HOU vs. ORL L 14 7 2 4 50.0 1 2 50.0 2 2 100.0 0 2 2 2 1 0 2 2 9
+p790
+aVDavid Wesley HOU 11/08/2005 HOU vs. ORL L 20 0 0 4 0.0 0 3 0.0 0 0 - 0 1 1 1 1 0 0 4 4
+p791
+aVJuwan Howard HOU 11/08/2005 HOU vs. ORL L 25 12 6 11 54.5 0 0 - 0 0 - 0 6 6 0 1 0 1 2 -4
+p792
+aVJon Barry HOU 11/08/2005 HOU vs. ORL L 25 10 2 6 33.3 2 4 50.0 4 4 100.0 0 2 2 2 2 0 1 0 0
+p793
+aVStromile Swift HOU 11/08/2005 HOU vs. ORL L 23 8 3 9 33.3 0 0 - 2 2 100.0 1 4 5 1 2 2 0 1 3
+p794
+aVDikembe Mutombo HOU 11/08/2005 HOU vs. ORL L 13 2 0 0 - 0 0 - 2 2 100.0 1 2 3 0 0 2 0 1 -2
+p795
+aVDerek Anderson HOU 11/08/2005 HOU vs. ORL L 32 7 2 7 28.6 0 2 0.0 3 3 100.0 1 2 3 2 1 0 2 3 -7
+p796
+aVRyan Bowen HOU 11/08/2005 HOU vs. ORL L 18 3 1 2 50.0 1 2 50.0 0 0 - 1 2 3 0 1 0 1 2 -1
+p797
+aVLuther Head HOU 11/05/2005 HOU vs. NOK L 13 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 2 0 0 1 3 0
+p798
+aVStromile Swift HOU 11/05/2005 HOU vs. NOK L 20 7 2 8 25.0 0 1 0.0 3 4 75.0 1 5 6 0 0 0 0 5 1
+p799
+aVRafer Alston HOU 11/05/2005 HOU vs. NOK L 36 15 5 9 55.6 3 4 75.0 2 2 100.0 1 4 5 2 1 0 1 3 -11
+p800
+aVYao Ming HOU 11/05/2005 HOU vs. NOK L 37 20 8 22 36.4 0 0 - 4 5 80.0 4 10 14 2 0 7 1 5 -2
+p801
+aVRyan Bowen HOU 11/05/2005 HOU vs. NOK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p802
+aVDerek Anderson HOU 11/05/2005 HOU vs. NOK L 39 17 4 14 28.6 3 7 42.9 6 6 100.0 1 5 6 5 1 1 3 2 -2
+p803
+aVDavid Wesley HOU 11/05/2005 HOU vs. NOK L 29 4 1 7 14.3 0 4 0.0 2 2 100.0 1 0 1 0 0 0 1 4 -1
+p804
+aVDikembe Mutombo HOU 11/05/2005 HOU vs. NOK L 10 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 2 4 -8
+p805
+aVJuwan Howard HOU 11/05/2005 HOU vs. NOK L 29 11 4 6 66.7 0 0 - 3 3 100.0 3 5 8 3 0 0 5 3 -3
+p806
+aVJon Barry HOU 11/05/2005 HOU vs. NOK L 26 5 0 4 0.0 0 3 0.0 5 6 83.3 0 3 3 3 1 0 3 0 -9
+p807
+aVDavid Wesley HOU 11/02/2005 HOU vs. SAC W 24 3 1 4 25.0 1 3 33.3 0 0 - 0 2 2 1 1 0 3 3 4
+p808
+aVDerek Anderson HOU 11/02/2005 HOU vs. SAC W 22 6 2 6 33.3 2 4 50.0 0 0 - 0 2 2 2 1 0 1 2 1
+p809
+aVRafer Alston HOU 11/02/2005 HOU vs. SAC W 34 8 3 9 33.3 2 6 33.3 0 0 - 0 2 2 4 1 0 1 0 2
+p810
+aVRyan Bowen HOU 11/02/2005 HOU vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 1 8
+p811
+aVTracy McGrady HOU 11/02/2005 HOU vs. SAC W 38 23 9 21 42.9 2 5 40.0 3 7 42.9 0 5 5 4 1 1 1 1 12
+p812
+aVJuwan Howard HOU 11/02/2005 HOU vs. SAC W 30 2 0 9 0.0 0 0 - 2 2 100.0 6 3 9 1 0 0 0 3 -2
+p813
+aVStromile Swift HOU 11/02/2005 HOU vs. SAC W 22 6 2 6 33.3 0 0 - 2 3 66.7 1 1 2 0 0 0 1 5 -4
+p814
+aVDikembe Mutombo HOU 11/02/2005 HOU vs. SAC W 11 4 1 1 100.0 0 0 - 2 2 100.0 2 4 6 0 0 1 1 1 1
+p815
+aVJon Barry HOU 11/02/2005 HOU vs. SAC W 26 24 8 10 80.0 2 3 66.7 6 7 85.7 0 4 4 2 3 0 2 3 8
+p816
+aVYao Ming HOU 11/02/2005 HOU vs. SAC W 26 22 10 16 62.5 0 0 - 2 4 50.0 4 6 10 4 0 1 2 5 15
+p817
+a.

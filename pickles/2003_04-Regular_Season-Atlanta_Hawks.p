@@ -1,0 +1,1586 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTravis Hansen ATL 04/14/2004 ATL @ BOS L 41 13 5 14 35.7 2 6 33.3 1 2 50.0 2 4 6 4 1 1 0 3 7
+p2
+aVMichael Bradley ATL 04/14/2004 ATL @ BOS L 10 10 5 5 100.0 0 0 - 0 0 - 1 1 2 0 2 0 1 1 -13
+p3
+aVMamadou N'diaye ATL 04/14/2004 ATL @ BOS L 15 4 2 4 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -1
+p4
+aVStephen Jackson ATL 04/14/2004 ATL @ BOS L 33 24 8 18 44.4 3 8 37.5 5 6 83.3 1 1 2 5 1 0 4 3 -8
+p5
+aVChris Crawford ATL 04/14/2004 ATL @ BOS L 31 24 8 17 47.1 3 5 60.0 5 7 71.4 2 3 5 5 1 0 3 3 -14
+p6
+aVJason Terry ATL 04/14/2004 ATL @ BOS L 45 20 6 11 54.5 4 8 50.0 4 5 80.0 1 4 5 11 1 1 6 5 -8
+p7
+aVBoris Diaw ATL 04/14/2004 ATL @ BOS L 33 13 4 5 80.0 0 0 - 5 6 83.3 4 8 12 4 2 0 2 5 13
+p8
+aVJason Collier ATL 04/14/2004 ATL @ BOS L 17 10 4 10 40.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 2 3 4
+p9
+aVBob Sura ATL 04/14/2004 ATL @ BOS L 15 14 6 7 85.7 0 0 - 2 2 100.0 0 2 2 1 0 0 0 1 -5
+p10
+aVBob Sura ATL 04/12/2004 ATL vs. NJN W 44 22 6 14 42.9 1 2 50.0 9 11 81.8 3 6 9 11 3 0 2 2 17
+p11
+aVMamadou N'diaye ATL 04/12/2004 ATL vs. NJN W 14 9 4 5 80.0 0 0 - 1 1 100.0 1 3 4 0 0 1 1 0 11
+p12
+aVStephen Jackson ATL 04/12/2004 ATL vs. NJN W 32 23 10 16 62.5 3 6 50.0 0 0 - 0 3 3 1 3 2 2 3 18
+p13
+aVJason Terry ATL 04/12/2004 ATL vs. NJN W 39 30 11 16 68.8 6 8 75.0 2 2 100.0 1 1 2 5 1 0 2 0 18
+p14
+aVBoris Diaw ATL 04/12/2004 ATL vs. NJN W 26 1 0 0 - 0 0 - 1 2 50.0 2 2 4 10 0 0 1 5 10
+p15
+aVJason Collier ATL 04/12/2004 ATL vs. NJN W 18 8 3 4 75.0 0 0 - 2 2 100.0 2 3 5 1 1 1 1 1 11
+p16
+aVChris Crawford ATL 04/12/2004 ATL vs. NJN W 29 22 8 13 61.5 4 6 66.7 2 2 100.0 0 4 4 1 2 1 1 2 22
+p17
+aVTravis Hansen ATL 04/12/2004 ATL vs. NJN W 25 14 5 9 55.6 3 3 100.0 1 1 100.0 2 1 3 1 0 0 0 5 8
+p18
+aVMichael Bradley ATL 04/12/2004 ATL vs. NJN W 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -5
+p19
+aVMamadou N'diaye ATL 04/10/2004 ATL vs. BOS W 5 4 0 0 - 0 0 - 4 4 100.0 0 3 3 0 0 0 0 3 8
+p20
+aVBoris Diaw ATL 04/10/2004 ATL vs. BOS W 30 8 4 6 66.7 0 1 0.0 0 0 - 1 1 2 2 2 2 2 3 12
+p21
+aVBob Sura ATL 04/10/2004 ATL vs. BOS W 35 15 6 12 50.0 0 1 0.0 3 4 75.0 3 7 10 11 0 0 4 3 9
+p22
+aVJason Terry ATL 04/10/2004 ATL vs. BOS W 45 21 7 15 46.7 1 6 16.7 6 6 100.0 0 5 5 5 1 0 1 2 8
+p23
+aVStephen Jackson ATL 04/10/2004 ATL vs. BOS W 37 28 11 17 64.7 4 8 50.0 2 2 100.0 1 2 3 5 4 0 2 2 20
+p24
+aVJason Collier ATL 04/10/2004 ATL vs. BOS W 19 4 1 7 14.3 0 0 - 2 2 100.0 2 4 6 0 0 0 2 3 -11
+p25
+aVTravis Hansen ATL 04/10/2004 ATL vs. BOS W 27 7 3 6 50.0 1 1 100.0 0 0 - 3 2 5 0 0 1 0 4 12
+p26
+aVChris Crawford ATL 04/10/2004 ATL vs. BOS W 38 23 9 20 45.0 2 5 40.0 3 3 100.0 4 3 7 0 1 0 4 4 0
+p27
+aVMichael Bradley ATL 04/10/2004 ATL vs. BOS W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p28
+aVStephen Jackson ATL 04/09/2004 ATL @ CHI W 41 36 13 27 48.1 5 9 55.6 5 6 83.3 0 5 5 3 3 2 3 3 14
+p29
+aVWesley Person ATL 04/09/2004 ATL @ CHI W 10 6 3 5 60.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 2
+p30
+aVTravis Hansen ATL 04/09/2004 ATL @ CHI W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 1 -6
+p31
+aVJason Terry ATL 04/09/2004 ATL @ CHI W 40 23 9 16 56.3 2 6 33.3 3 3 100.0 0 0 0 11 1 0 1 2 18
+p32
+aVJason Collier ATL 04/09/2004 ATL @ CHI W 24 12 4 9 44.4 0 0 - 4 5 80.0 4 4 8 1 1 0 2 5 18
+p33
+aVMichael Bradley ATL 04/09/2004 ATL @ CHI W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p34
+aVMamadou N'diaye ATL 04/09/2004 ATL @ CHI W 19 4 1 2 50.0 0 0 - 2 2 100.0 2 4 6 0 0 1 1 4 8
+p35
+aVChris Crawford ATL 04/09/2004 ATL @ CHI W 40 20 8 21 38.1 2 8 25.0 2 2 100.0 2 6 8 6 6 2 1 1 21
+p36
+aVBoris Diaw ATL 04/09/2004 ATL @ CHI W 13 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -17
+p37
+aVBob Sura ATL 04/09/2004 ATL @ CHI W 38 12 5 7 71.4 0 1 0.0 2 2 100.0 4 7 11 12 2 0 3 3 19
+p38
+aVChris Crawford ATL 04/06/2004 ATL vs. PHI L 45 26 7 11 63.6 1 1 100.0 11 11 100.0 2 4 6 1 0 1 0 4 8
+p39
+aVMamadou N'diaye ATL 04/06/2004 ATL vs. PHI L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -9
+p40
+aVBob Sura ATL 04/06/2004 ATL vs. PHI L 42 8 2 11 18.2 1 4 25.0 3 4 75.0 4 7 11 7 3 1 5 5 6
+p41
+aVJason Terry ATL 04/06/2004 ATL vs. PHI L 36 11 5 17 29.4 1 6 16.7 0 0 - 0 3 3 4 2 1 3 6 -5
+p42
+aVStephen Jackson ATL 04/06/2004 ATL vs. PHI L 47 26 10 19 52.6 3 8 37.5 3 4 75.0 2 4 6 7 6 0 2 1 7
+p43
+aVJason Collier ATL 04/06/2004 ATL vs. PHI L 29 18 8 13 61.5 0 0 - 2 7 28.6 2 5 7 0 0 0 0 0 0
+p44
+aVBoris Diaw ATL 04/06/2004 ATL vs. PHI L 26 2 1 2 50.0 0 0 - 0 0 - 2 3 5 1 0 1 4 0 -4
+p45
+aVTravis Hansen ATL 04/06/2004 ATL vs. PHI L 27 7 2 9 22.2 0 2 0.0 3 4 75.0 2 2 4 1 0 0 1 4 -8
+p46
+aVWesley Person ATL 04/06/2004 ATL vs. PHI L 6 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -10
+p47
+aVMichael Bradley ATL 04/04/2004 ATL @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p48
+aVBoris Diaw ATL 04/04/2004 ATL @ NJN L 33 9 3 4 75.0 2 2 100.0 1 2 50.0 2 5 7 0 1 0 2 1 -12
+p49
+aVJason Collier ATL 04/04/2004 ATL @ NJN L 21 6 3 4 75.0 0 1 0.0 0 0 - 0 3 3 1 0 1 1 2 -8
+p50
+aVJacque Vaughn ATL 04/04/2004 ATL @ NJN L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 1 0 -11
+p51
+aVChris Crawford ATL 04/04/2004 ATL @ NJN L 42 22 7 19 36.8 1 4 25.0 7 8 87.5 1 3 4 0 1 1 1 2 -20
+p52
+aVStephen Jackson ATL 04/04/2004 ATL @ NJN L 36 31 8 20 40.0 2 5 40.0 13 14 92.9 1 3 4 5 2 0 2 6 -12
+p53
+aVTravis Hansen ATL 04/04/2004 ATL @ NJN L 18 6 2 4 50.0 0 0 - 2 2 100.0 0 3 3 0 1 0 0 2 -6
+p54
+aVJason Terry ATL 04/04/2004 ATL @ NJN L 33 7 2 11 18.2 1 7 14.3 2 2 100.0 1 1 2 5 1 0 2 2 1
+p55
+aVBob Sura ATL 04/04/2004 ATL @ NJN L 33 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 5 0 1 5 4 -18
+p56
+aVMamadou N'diaye ATL 04/04/2004 ATL @ NJN L 9 3 1 1 100.0 0 0 - 1 2 50.0 0 2 2 0 0 1 1 1 2
+p57
+aVBoris Diaw ATL 04/02/2004 ATL @ ORL W 31 4 1 1 100.0 0 0 - 2 2 100.0 0 5 5 3 3 0 0 4 13
+p58
+aVJason Collier ATL 04/02/2004 ATL @ ORL W 29 2 0 4 0.0 0 0 - 2 4 50.0 1 5 6 0 0 1 1 5 1
+p59
+aVTravis Hansen ATL 04/02/2004 ATL @ ORL W 14 0 0 1 0.0 0 1 0.0 0 0 - 1 0 1 1 1 1 0 2 3
+p60
+aVMamadou N'diaye ATL 04/02/2004 ATL @ ORL W 9 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 0 1 1 2 -11
+p61
+aVStephen Jackson ATL 04/02/2004 ATL @ ORL W 42 21 6 18 33.3 2 6 33.3 7 10 70.0 0 5 5 1 2 0 3 2 4
+p62
+aVChris Crawford ATL 04/02/2004 ATL @ ORL W 33 18 7 14 50.0 1 5 20.0 3 3 100.0 3 3 6 1 1 0 1 3 17
+p63
+aVBob Sura ATL 04/02/2004 ATL @ ORL W 44 32 11 20 55.0 2 3 66.7 8 10 80.0 3 5 8 5 3 0 2 3 15
+p64
+aVJason Terry ATL 04/02/2004 ATL @ ORL W 38 17 6 15 40.0 2 6 33.3 3 3 100.0 0 5 5 4 1 0 3 3 -2
+p65
+aVBob Sura ATL 03/31/2004 ATL vs. MIA L 39 14 3 9 33.3 1 1 100.0 7 8 87.5 3 11 14 6 2 0 3 3 1
+p66
+aVStephen Jackson ATL 03/31/2004 ATL vs. MIA L 41 29 8 23 34.8 2 9 22.2 11 12 91.7 4 5 9 0 3 0 4 1 -8
+p67
+aVBoris Diaw ATL 03/31/2004 ATL vs. MIA L 28 0 0 4 0.0 0 2 0.0 0 0 - 4 2 6 6 0 1 0 3 -4
+p68
+aVChris Crawford ATL 03/31/2004 ATL vs. MIA L 38 22 8 18 44.4 2 6 33.3 4 4 100.0 1 3 4 2 0 0 3 2 -2
+p69
+aVMichael Bradley ATL 03/31/2004 ATL vs. MIA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 5
+p70
+aVJason Terry ATL 03/31/2004 ATL vs. MIA L 41 23 8 17 47.1 5 10 50.0 2 2 100.0 0 6 6 3 1 0 1 2 3
+p71
+aVJacque Vaughn ATL 03/31/2004 ATL vs. MIA L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 0 -7
+p72
+aVMamadou N'diaye ATL 03/31/2004 ATL vs. MIA L 4 0 0 1 0.0 0 0 - 0 2 0.0 4 0 4 0 0 1 1 1 -5
+p73
+aVTravis Hansen ATL 03/31/2004 ATL vs. MIA L 15 0 0 3 0.0 0 0 - 0 0 - 3 1 4 0 0 1 0 1 0
+p74
+aVJason Collier ATL 03/31/2004 ATL vs. MIA L 26 9 3 6 50.0 0 0 - 3 5 60.0 2 4 6 1 0 0 0 3 2
+p75
+aVJason Terry ATL 03/29/2004 ATL vs. MEM L 45 23 8 21 38.1 1 5 20.0 6 6 100.0 1 2 3 6 4 0 1 3 -11
+p76
+aVMamadou N'diaye ATL 03/29/2004 ATL vs. MEM L 17 2 1 2 50.0 0 0 - 0 0 - 3 0 3 0 0 1 0 3 3
+p77
+aVTravis Hansen ATL 03/29/2004 ATL vs. MEM L 20 10 2 3 66.7 0 0 - 6 8 75.0 2 2 4 0 0 0 0 5 7
+p78
+aVMichael Bradley ATL 03/29/2004 ATL vs. MEM L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p79
+aVChris Crawford ATL 03/29/2004 ATL vs. MEM L 31 22 7 15 46.7 1 3 33.3 7 8 87.5 1 4 5 0 0 0 2 6 -15
+p80
+aVBoris Diaw ATL 03/29/2004 ATL vs. MEM L 29 4 2 8 25.0 0 0 - 0 0 - 2 8 10 2 3 1 1 6 -3
+p81
+aVJacque Vaughn ATL 03/29/2004 ATL vs. MEM L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p82
+aVBob Sura ATL 03/29/2004 ATL vs. MEM L 53 23 5 21 23.8 1 5 20.0 12 13 92.3 4 9 13 9 0 0 2 5 -1
+p83
+aVStephen Jackson ATL 03/29/2004 ATL vs. MEM L 51 28 10 20 50.0 2 7 28.6 6 6 100.0 3 3 6 2 5 0 4 3 8
+p84
+aVJason Collier ATL 03/29/2004 ATL vs. MEM L 37 19 5 9 55.6 1 1 100.0 8 9 88.9 2 3 5 1 2 1 1 4 -4
+p85
+aVJason Collier ATL 03/27/2004 ATL vs. CHI W 30 8 2 9 22.2 0 0 - 4 4 100.0 0 6 6 1 0 1 6 6 10
+p86
+aVJason Terry ATL 03/27/2004 ATL vs. CHI W 41 26 8 15 53.3 4 7 57.1 6 8 75.0 2 5 7 6 5 0 4 2 3
+p87
+aVMichael Bradley ATL 03/27/2004 ATL vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 2 2
+p88
+aVTravis Hansen ATL 03/27/2004 ATL vs. CHI W 14 2 1 4 25.0 0 2 0.0 0 0 - 1 1 2 0 0 0 0 1 10
+p89
+aVMamadou N'diaye ATL 03/27/2004 ATL vs. CHI W 13 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 1 0 0 2 -10
+p90
+aVBoris Diaw ATL 03/27/2004 ATL vs. CHI W 18 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 3 1 0 2 4 10
+p91
+aVChris Crawford ATL 03/27/2004 ATL vs. CHI W 33 11 4 9 44.4 1 3 33.3 2 2 100.0 2 5 7 3 0 0 2 3 9
+p92
+aVJacque Vaughn ATL 03/27/2004 ATL vs. CHI W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p93
+aVBob Sura ATL 03/27/2004 ATL vs. CHI W 39 15 4 12 33.3 0 0 - 7 10 70.0 2 5 7 1 1 0 1 2 2
+p94
+aVStephen Jackson ATL 03/27/2004 ATL vs. CHI W 43 27 7 22 31.8 2 7 28.6 11 12 91.7 4 6 10 4 3 1 4 2 5
+p95
+aVJason Terry ATL 03/25/2004 ATL vs. NOH W 37 14 5 10 50.0 4 6 66.7 0 0 - 0 1 1 3 1 0 2 1 -4
+p96
+aVTravis Hansen ATL 03/25/2004 ATL vs. NOH W 10 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 6
+p97
+aVStephen Jackson ATL 03/25/2004 ATL vs. NOH W 34 7 2 8 25.0 0 1 0.0 3 4 75.0 3 2 5 4 1 0 4 3 -1
+p98
+aVJason Collier ATL 03/25/2004 ATL vs. NOH W 31 16 7 12 58.3 0 0 - 2 2 100.0 2 5 7 0 0 1 1 3 12
+p99
+aVBoris Diaw ATL 03/25/2004 ATL vs. NOH W 18 6 3 4 75.0 0 0 - 0 0 - 0 2 2 4 0 1 0 2 13
+p100
+aVJacque Vaughn ATL 03/25/2004 ATL vs. NOH W 6 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 1 0 0 1 2
+p101
+aVChris Crawford ATL 03/25/2004 ATL vs. NOH W 41 16 7 17 41.2 0 4 0.0 2 2 100.0 1 4 5 2 2 0 0 4 2
+p102
+aVBob Sura ATL 03/25/2004 ATL vs. NOH W 43 23 10 19 52.6 0 0 - 3 4 75.0 4 11 15 5 0 0 2 2 12
+p103
+aVMamadou N'diaye ATL 03/25/2004 ATL vs. NOH W 20 0 0 2 0.0 0 0 - 0 0 - 2 5 7 0 0 3 1 1 -2
+p104
+aVChris Crawford ATL 03/22/2004 ATL @ NYK L 37 18 5 12 41.7 2 5 40.0 6 6 100.0 1 5 6 3 0 1 3 1 -8
+p105
+aVJason Collier ATL 03/22/2004 ATL @ NYK L 18 7 3 5 60.0 0 0 - 1 2 50.0 0 3 3 0 1 0 0 6 -16
+p106
+aVJason Terry ATL 03/22/2004 ATL @ NYK L 38 7 2 13 15.4 0 5 0.0 3 4 75.0 1 4 5 5 1 0 0 0 -25
+p107
+aVJacque Vaughn ATL 03/22/2004 ATL @ NYK L 6 1 0 0 - 0 0 - 1 1 100.0 0 0 0 0 2 0 1 0 7
+p108
+aVBoris Diaw ATL 03/22/2004 ATL @ NYK L 21 3 0 4 0.0 0 0 - 3 4 75.0 2 2 4 0 2 0 1 1 -10
+p109
+aVMamadou N'diaye ATL 03/22/2004 ATL @ NYK L 17 4 2 3 66.7 0 0 - 0 0 - 4 3 7 0 1 2 2 4 6
+p110
+aVBob Sura ATL 03/22/2004 ATL @ NYK L 34 7 3 9 33.3 0 0 - 1 2 50.0 1 6 7 5 3 0 5 2 -10
+p111
+aVZeljko Rebraca ATL 03/22/2004 ATL @ NYK L 13 5 2 4 50.0 0 0 - 1 2 50.0 2 1 3 1 0 1 0 0 -2
+p112
+aVStephen Jackson ATL 03/22/2004 ATL @ NYK L 34 20 7 17 41.2 2 7 28.6 4 7 57.1 1 2 3 2 2 1 4 2 -12
+p113
+aVTravis Hansen ATL 03/22/2004 ATL @ NYK L 17 10 3 7 42.9 0 1 0.0 4 4 100.0 2 0 2 2 0 0 0 3 5
+p114
+aVMichael Bradley ATL 03/22/2004 ATL @ NYK L 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p115
+aVJason Collier ATL 03/20/2004 ATL vs. UTA L 33 11 4 9 44.4 0 0 - 3 4 75.0 1 3 4 1 1 2 3 3 3
+p116
+aVStephen Jackson ATL 03/20/2004 ATL vs. UTA L 36 17 7 20 35.0 0 6 0.0 3 3 100.0 4 4 8 3 0 0 1 1 -5
+p117
+aVMamadou N'diaye ATL 03/20/2004 ATL vs. UTA L 12 2 0 4 0.0 0 0 - 2 4 50.0 4 0 4 0 0 0 2 2 -5
+p118
+aVBob Sura ATL 03/20/2004 ATL vs. UTA L 40 19 5 10 50.0 0 1 0.0 9 10 90.0 0 6 6 7 0 0 0 1 -5
+p119
+aVBoris Diaw ATL 03/20/2004 ATL vs. UTA L 42 10 5 8 62.5 0 0 - 0 2 0.0 3 5 8 0 0 0 2 2 -7
+p120
+aVJacque Vaughn ATL 03/20/2004 ATL vs. UTA L 13 3 0 0 - 0 0 - 3 4 75.0 0 1 1 0 0 0 0 3 0
+p121
+aVJason Terry ATL 03/20/2004 ATL vs. UTA L 40 13 5 15 33.3 0 6 0.0 3 3 100.0 0 3 3 3 2 0 5 2 -5
+p122
+aVWesley Person ATL 03/20/2004 ATL vs. UTA L 18 6 2 6 33.3 2 4 50.0 0 0 - 0 5 5 0 0 0 1 1 -2
+p123
+aVMichael Bradley ATL 03/20/2004 ATL vs. UTA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p124
+aVJason Terry ATL 03/19/2004 ATL @ WAS L 36 14 5 17 29.4 2 8 25.0 2 2 100.0 0 2 2 8 2 0 2 1 -12
+p125
+aVBob Sura ATL 03/19/2004 ATL @ WAS L 36 16 5 12 41.7 0 1 0.0 6 6 100.0 6 6 12 3 1 0 3 1 -9
+p126
+aVBoris Diaw ATL 03/19/2004 ATL @ WAS L 29 10 4 8 50.0 0 0 - 2 3 66.7 1 3 4 0 1 2 1 3 -5
+p127
+aVMichael Bradley ATL 03/19/2004 ATL @ WAS L 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -2
+p128
+aVJason Collier ATL 03/19/2004 ATL @ WAS L 32 12 6 14 42.9 0 0 - 0 0 - 3 3 6 1 0 0 2 5 -9
+p129
+aVWesley Person ATL 03/19/2004 ATL @ WAS L 17 9 3 7 42.9 3 4 75.0 0 0 - 0 1 1 1 1 0 0 1 -1
+p130
+aVTravis Hansen ATL 03/19/2004 ATL @ WAS L 6 1 0 4 0.0 0 0 - 1 2 50.0 3 2 5 0 0 0 0 1 0
+p131
+aVMamadou N'diaye ATL 03/19/2004 ATL @ WAS L 30 3 0 4 0.0 0 0 - 3 4 75.0 3 6 9 0 1 3 1 5 -6
+p132
+aVStephen Jackson ATL 03/19/2004 ATL @ WAS L 35 17 7 21 33.3 2 9 22.2 1 1 100.0 0 4 4 4 1 0 4 2 -8
+p133
+aVJacque Vaughn ATL 03/19/2004 ATL @ WAS L 13 2 1 3 33.3 0 0 - 0 1 0.0 0 0 0 1 1 0 0 2 2
+p134
+aVJosh Davis ATL 03/17/2004 ATL @ DAL W 9 5 2 3 66.7 0 1 0.0 1 1 100.0 1 1 2 0 0 0 1 1 3
+p135
+aVBoris Diaw ATL 03/17/2004 ATL @ DAL W 40 15 7 10 70.0 0 0 - 1 1 100.0 4 3 7 4 3 0 1 2 -3
+p136
+aVJason Terry ATL 03/17/2004 ATL @ DAL W 46 25 9 20 45.0 4 8 50.0 3 3 100.0 2 5 7 10 0 1 3 1 2
+p137
+aVBob Sura ATL 03/17/2004 ATL @ DAL W 44 19 8 18 44.4 1 4 25.0 2 2 100.0 3 8 11 2 0 0 4 4 -4
+p138
+aVStephen Jackson ATL 03/17/2004 ATL @ DAL W 48 36 14 23 60.9 3 6 50.0 5 9 55.6 1 6 7 5 3 0 4 3 1
+p139
+aVTravis Hansen ATL 03/17/2004 ATL @ DAL W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 2
+p140
+aVMamadou N'diaye ATL 03/17/2004 ATL @ DAL W 16 2 0 2 0.0 0 0 - 2 2 100.0 0 3 3 0 0 1 0 1 -2
+p141
+aVJason Collier ATL 03/17/2004 ATL @ DAL W 30 7 2 7 28.6 0 0 - 3 4 75.0 2 7 9 1 2 1 2 1 6
+p142
+aVChris Crawford ATL 03/16/2004 ATL vs. SEA L 37 11 5 9 55.6 1 3 33.3 0 0 - 1 3 4 0 0 0 4 4 -9
+p143
+aVJason Collier ATL 03/16/2004 ATL vs. SEA L 22 7 1 5 20.0 0 0 - 5 6 83.3 0 2 2 2 0 0 0 4 4
+p144
+aVJacque Vaughn ATL 03/16/2004 ATL vs. SEA L 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -10
+p145
+aVBoris Diaw ATL 03/16/2004 ATL vs. SEA L 15 9 4 5 80.0 1 1 100.0 0 0 - 3 1 4 2 1 1 0 1 -6
+p146
+aVStephen Jackson ATL 03/16/2004 ATL vs. SEA L 46 39 10 22 45.5 7 14 50.0 12 13 92.3 1 6 7 1 2 0 4 3 -2
+p147
+aVBob Sura ATL 03/16/2004 ATL vs. SEA L 46 19 5 9 55.6 0 1 0.0 9 10 90.0 3 7 10 3 2 0 4 4 -2
+p148
+aVJason Terry ATL 03/16/2004 ATL vs. SEA L 44 18 5 19 26.3 0 7 0.0 8 10 80.0 0 7 7 8 1 0 2 6 -3
+p149
+aVMamadou N'diaye ATL 03/16/2004 ATL vs. SEA L 24 7 1 4 25.0 0 0 - 5 5 100.0 3 3 6 0 0 0 2 2 -11
+p150
+aVTravis Hansen ATL 03/16/2004 ATL vs. SEA L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p151
+aVJosh Davis ATL 03/14/2004 ATL @ TOR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -4
+p152
+aVBoris Diaw ATL 03/14/2004 ATL @ TOR L 30 6 3 5 60.0 0 1 0.0 0 0 - 1 2 3 3 2 1 2 1 -17
+p153
+aVJacque Vaughn ATL 03/14/2004 ATL @ TOR L 16 2 1 4 25.0 0 0 - 0 0 - 0 2 2 3 0 0 1 0 11
+p154
+aVChris Crawford ATL 03/14/2004 ATL @ TOR L 37 18 6 18 33.3 2 7 28.6 4 5 80.0 3 1 4 1 0 0 2 3 -26
+p155
+aVTravis Hansen ATL 03/14/2004 ATL @ TOR L 10 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 3
+p156
+aVJason Collier ATL 03/14/2004 ATL @ TOR L 39 21 8 14 57.1 0 1 0.0 5 6 83.3 6 5 11 1 1 0 1 1 -4
+p157
+aVJason Terry ATL 03/14/2004 ATL @ TOR L 34 14 5 11 45.5 2 6 33.3 2 3 66.7 0 4 4 3 0 0 4 0 -24
+p158
+aVBob Sura ATL 03/14/2004 ATL @ TOR L 28 5 2 5 40.0 0 0 - 1 4 25.0 2 6 8 4 0 0 3 3 -10
+p159
+aVStephen Jackson ATL 03/14/2004 ATL @ TOR L 43 18 7 18 38.9 0 3 0.0 4 6 66.7 1 9 10 3 3 0 3 3 -14
+p160
+aVStephen Jackson ATL 03/12/2004 ATL vs. WAS W 45 42 14 24 58.3 4 5 80.0 10 10 100.0 1 1 2 7 2 1 2 0 17
+p161
+aVBob Sura ATL 03/12/2004 ATL vs. WAS W 44 28 8 14 57.1 2 3 66.7 10 11 90.9 4 5 9 10 1 0 5 2 18
+p162
+aVJason Terry ATL 03/12/2004 ATL vs. WAS W 45 23 8 19 42.1 2 6 33.3 5 6 83.3 1 7 8 9 2 0 1 2 16
+p163
+aVTravis Hansen ATL 03/12/2004 ATL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p164
+aVBoris Diaw ATL 03/12/2004 ATL vs. WAS W 24 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 2 1 0 2 3 15
+p165
+aVChris Crawford ATL 03/12/2004 ATL vs. WAS W 34 20 8 13 61.5 4 5 80.0 0 0 - 0 3 3 1 4 0 1 6 13
+p166
+aVJoel Przybilla ATL 03/12/2004 ATL vs. WAS W 12 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 1 0 1 2 -12
+p167
+aVJosh Davis ATL 03/12/2004 ATL vs. WAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p168
+aVJason Collier ATL 03/12/2004 ATL vs. WAS W 26 22 7 8 87.5 0 0 - 8 9 88.9 3 2 5 0 2 1 0 6 6
+p169
+aVJacque Vaughn ATL 03/12/2004 ATL vs. WAS W 8 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p170
+aVJason Collier ATL 03/10/2004 ATL @ MIL L 31 11 4 7 57.1 0 0 - 3 4 75.0 1 2 3 1 0 1 3 5 -9
+p171
+aVJoel Przybilla ATL 03/10/2004 ATL @ MIL L 13 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 5 0
+p172
+aVChris Crawford ATL 03/10/2004 ATL @ MIL L 43 18 6 18 33.3 2 5 40.0 4 4 100.0 2 7 9 1 0 0 2 4 -12
+p173
+aVBob Sura ATL 03/10/2004 ATL @ MIL L 31 12 5 11 45.5 0 0 - 2 3 66.7 5 6 11 3 0 0 1 3 -7
+p174
+aVBoris Diaw ATL 03/10/2004 ATL @ MIL L 30 4 2 5 40.0 0 0 - 0 1 0.0 0 3 3 0 1 2 0 5 -6
+p175
+aVJosh Davis ATL 03/10/2004 ATL @ MIL L 10 0 0 2 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 0 1 -6
+p176
+aVJason Terry ATL 03/10/2004 ATL @ MIL L 42 20 8 19 42.1 1 5 20.0 3 6 50.0 1 7 8 6 1 0 4 3 -9
+p177
+aVJacque Vaughn ATL 03/10/2004 ATL @ MIL L 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -9
+p178
+aVStephen Jackson ATL 03/10/2004 ATL @ MIL L 32 11 3 12 25.0 1 7 14.3 4 5 80.0 0 4 4 4 1 0 5 3 -12
+p179
+aVMamadou N'diaye ATL 03/08/2004 ATL vs. CLE L 19 7 2 6 33.3 0 0 - 3 4 75.0 2 5 7 0 1 0 0 5 -3
+p180
+aVBoris Diaw ATL 03/08/2004 ATL vs. CLE L 18 5 2 3 66.7 1 1 100.0 0 0 - 1 1 2 3 0 0 1 2 -6
+p181
+aVBob Sura ATL 03/08/2004 ATL vs. CLE L 23 2 1 6 16.7 0 0 - 0 0 - 2 4 6 4 1 0 3 3 -8
+p182
+aVChris Crawford ATL 03/08/2004 ATL vs. CLE L 38 25 8 14 57.1 1 2 50.0 8 9 88.9 0 4 4 1 1 0 2 3 -6
+p183
+aVStephen Jackson ATL 03/08/2004 ATL vs. CLE L 48 30 12 30 40.0 2 7 28.6 4 5 80.0 2 5 7 2 3 0 3 5 -4
+p184
+aVJoel Przybilla ATL 03/08/2004 ATL vs. CLE L 21 0 0 0 - 0 0 - 0 0 - 1 5 6 0 1 0 1 4 -11
+p185
+aVJason Collier ATL 03/08/2004 ATL vs. CLE L 33 16 4 9 44.4 0 0 - 8 8 100.0 2 3 5 2 0 0 3 5 8
+p186
+aVJason Terry ATL 03/08/2004 ATL vs. CLE L 40 17 6 17 35.3 1 2 50.0 4 5 80.0 2 2 4 7 1 0 3 5 0
+p187
+aVMamadou N'diaye ATL 03/05/2004 ATL @ ORL L 22 9 3 4 75.0 0 0 - 3 4 75.0 4 5 9 0 1 3 2 0 -5
+p188
+aVWesley Person ATL 03/05/2004 ATL @ ORL L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -1
+p189
+aVBoris Diaw ATL 03/05/2004 ATL @ ORL L 21 2 1 2 50.0 0 0 - 0 0 - 1 3 4 1 1 0 0 2 1
+p190
+aVJason Terry ATL 03/05/2004 ATL @ ORL L 43 21 8 22 36.4 2 6 33.3 3 4 75.0 2 6 8 7 2 0 4 2 2
+p191
+aVStephen Jackson ATL 03/05/2004 ATL @ ORL L 44 19 8 19 42.1 0 6 0.0 3 4 75.0 5 2 7 2 1 0 4 3 -3
+p192
+aVBob Sura ATL 03/05/2004 ATL @ ORL L 24 16 4 12 33.3 0 2 0.0 8 10 80.0 1 1 2 4 0 1 0 3 7
+p193
+aVHiram Fuller ATL 03/05/2004 ATL @ ORL L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p194
+aVJoel Przybilla ATL 03/05/2004 ATL @ ORL L 26 9 4 8 50.0 0 0 - 1 2 50.0 5 5 10 1 1 0 5 5 0
+p195
+aVJacque Vaughn ATL 03/05/2004 ATL @ ORL L 11 5 2 4 50.0 0 1 0.0 1 1 100.0 1 0 1 2 0 0 1 1 -14
+p196
+aVChris Crawford ATL 03/05/2004 ATL @ ORL L 40 15 5 12 41.7 2 3 66.7 3 3 100.0 1 4 5 1 1 1 1 4 -9
+p197
+aVJacque Vaughn ATL 03/03/2004 ATL @ CLE L 18 5 1 3 33.3 0 0 - 3 3 100.0 0 1 1 4 0 0 1 0 -2
+p198
+aVJoel Przybilla ATL 03/03/2004 ATL @ CLE L 27 2 1 3 33.3 0 0 - 0 2 0.0 2 8 10 0 0 0 0 4 -13
+p199
+aVJason Terry ATL 03/03/2004 ATL @ CLE L 33 15 6 17 35.3 3 8 37.5 0 0 - 1 2 3 2 3 0 3 2 -6
+p200
+aVBob Sura ATL 03/03/2004 ATL @ CLE L 16 6 1 9 11.1 0 1 0.0 4 6 66.7 1 1 2 1 0 0 2 2 -27
+p201
+aVWesley Person ATL 03/03/2004 ATL @ CLE L 22 4 1 5 20.0 0 0 - 2 2 100.0 0 1 1 1 1 0 1 0 -27
+p202
+aVChris Crawford ATL 03/03/2004 ATL @ CLE L 32 11 5 16 31.3 0 0 - 1 2 50.0 1 2 3 1 0 2 1 5 -23
+p203
+aVBoris Diaw ATL 03/03/2004 ATL @ CLE L 23 6 2 5 40.0 0 0 - 2 3 66.7 0 1 1 3 0 0 2 3 -14
+p204
+aVStephen Jackson ATL 03/03/2004 ATL @ CLE L 33 20 8 16 50.0 4 4 100.0 0 0 - 2 1 3 5 1 1 2 3 -27
+p205
+aVMamadou N'diaye ATL 03/03/2004 ATL @ CLE L 18 8 2 4 50.0 0 0 - 4 4 100.0 0 8 8 0 0 1 0 3 -18
+p206
+aVHiram Fuller ATL 03/03/2004 ATL @ CLE L 18 3 1 4 25.0 0 0 - 1 2 50.0 1 3 4 1 0 1 2 1 -3
+p207
+aVJason Terry ATL 03/02/2004 ATL vs. LAL W 40 23 8 21 38.1 1 5 20.0 6 7 85.7 2 1 3 5 1 0 3 1 -4
+p208
+aVJacque Vaughn ATL 03/02/2004 ATL vs. LAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 0 5
+p209
+aVWesley Person ATL 03/02/2004 ATL vs. LAL W 30 15 4 9 44.4 3 7 42.9 4 4 100.0 0 8 8 2 0 1 1 0 4
+p210
+aVStephen Jackson ATL 03/02/2004 ATL vs. LAL W 27 17 5 13 38.5 2 6 33.3 5 5 100.0 2 0 2 3 1 0 1 4 -5
+p211
+aVBob Sura ATL 03/02/2004 ATL vs. LAL W 27 15 6 13 46.2 0 2 0.0 3 4 75.0 3 6 9 4 0 0 1 3 13
+p212
+aVJoel Przybilla ATL 03/02/2004 ATL vs. LAL W 36 4 2 4 50.0 0 0 - 0 0 - 2 12 14 0 0 2 0 5 0
+p213
+aVChris Crawford ATL 03/02/2004 ATL vs. LAL W 38 13 5 15 33.3 2 5 40.0 1 2 50.0 2 0 2 0 1 0 0 6 -2
+p214
+aVBoris Diaw ATL 03/02/2004 ATL vs. LAL W 22 6 3 6 50.0 0 0 - 0 0 - 3 2 5 3 0 0 1 0 -7
+p215
+aVHiram Fuller ATL 03/02/2004 ATL vs. LAL W 6 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 1 3 1
+p216
+aVMamadou N'diaye ATL 03/02/2004 ATL vs. LAL W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 0
+p217
+aVJacque Vaughn ATL 02/28/2004 ATL vs. ORL L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -15
+p218
+aVJason Terry ATL 02/28/2004 ATL vs. ORL L 45 23 8 24 33.3 3 10 30.0 4 6 66.7 1 8 9 9 4 0 1 2 -4
+p219
+aVMamadou N'diaye ATL 02/28/2004 ATL vs. ORL L 10 5 2 2 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 1 5
+p220
+aVJoel Przybilla ATL 02/28/2004 ATL vs. ORL L 36 6 2 6 33.3 0 0 - 2 7 28.6 4 11 15 0 0 3 1 5 -10
+p221
+aVChris Crawford ATL 02/28/2004 ATL vs. ORL L 45 27 13 20 65.0 0 3 0.0 1 2 50.0 4 5 9 0 0 1 1 5 -6
+p222
+aVBoris Diaw ATL 02/28/2004 ATL vs. ORL L 15 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 1 1 1 -3
+p223
+aVStephen Jackson ATL 02/28/2004 ATL vs. ORL L 45 24 9 19 47.4 3 9 33.3 3 4 75.0 0 2 2 10 1 0 5 1 5
+p224
+aVBob Sura ATL 02/28/2004 ATL vs. ORL L 37 14 5 12 41.7 0 0 - 4 7 57.1 3 9 12 6 1 1 2 2 3
+p225
+aVHiram Fuller ATL 02/27/2004 ATL @ DET L 15 4 2 4 50.0 0 0 - 0 2 0.0 3 3 6 1 0 0 1 1 8
+p226
+aVBob Sura ATL 02/27/2004 ATL @ DET L 28 14 6 15 40.0 2 5 40.0 0 2 0.0 1 2 3 5 0 0 1 2 -10
+p227
+aVJason Terry ATL 02/27/2004 ATL @ DET L 35 12 3 13 23.1 2 7 28.6 4 4 100.0 0 3 3 4 2 0 4 4 -18
+p228
+aVChris Crawford ATL 02/27/2004 ATL @ DET L 32 13 5 11 45.5 3 5 60.0 0 0 - 1 4 5 0 2 0 1 3 -25
+p229
+aVMamadou N'diaye ATL 02/27/2004 ATL @ DET L 20 4 1 4 25.0 0 0 - 2 4 50.0 4 4 8 0 1 2 0 6 -1
+p230
+aVBoris Diaw ATL 02/27/2004 ATL @ DET L 26 4 2 5 40.0 0 0 - 0 0 - 3 2 5 2 1 0 2 4 -25
+p231
+aVJoel Przybilla ATL 02/27/2004 ATL @ DET L 25 8 2 4 50.0 0 0 - 4 6 66.7 3 7 10 0 0 4 1 2 -20
+p232
+aVStephen Jackson ATL 02/27/2004 ATL @ DET L 36 16 5 18 27.8 2 5 40.0 4 5 80.0 2 2 4 2 2 1 1 3 -21
+p233
+aVJacque Vaughn ATL 02/27/2004 ATL @ DET L 23 8 3 10 30.0 0 0 - 2 3 66.7 0 2 2 3 3 0 1 0 2
+p234
+aVJacque Vaughn ATL 02/24/2004 ATL vs. PHI W 14 6 3 5 60.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -3
+p235
+aVJoel Przybilla ATL 02/24/2004 ATL vs. PHI W 31 2 1 3 33.3 0 0 - 0 2 0.0 1 7 8 0 1 5 1 2 8
+p236
+aVJason Terry ATL 02/24/2004 ATL vs. PHI W 39 17 5 14 35.7 2 7 28.6 5 7 71.4 1 3 4 5 1 0 3 2 13
+p237
+aVDion Glover ATL 02/24/2004 ATL vs. PHI W 6 3 1 3 33.3 0 1 0.0 1 1 100.0 0 0 0 1 1 0 0 0 1
+p238
+aVZeljko Rebraca ATL 02/24/2004 ATL vs. PHI W 10 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 0 0 0 1 4
+p239
+aVBoris Diaw ATL 02/24/2004 ATL vs. PHI W 36 5 2 5 40.0 0 0 - 1 1 100.0 2 5 7 1 0 0 2 1 9
+p240
+aVMamadou N'diaye ATL 02/24/2004 ATL vs. PHI W 3 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 0 0
+p241
+aVChris Crawford ATL 02/24/2004 ATL vs. PHI W 32 19 8 15 53.3 1 3 33.3 2 2 100.0 1 1 2 2 0 0 1 5 15
+p242
+aVStephen Jackson ATL 02/24/2004 ATL vs. PHI W 41 24 8 21 38.1 3 7 42.9 5 8 62.5 4 7 11 1 3 1 5 3 9
+p243
+aVBob Sura ATL 02/24/2004 ATL vs. PHI W 28 8 2 5 40.0 0 2 0.0 4 4 100.0 2 3 5 3 2 1 2 3 -1
+p244
+aVBoris Diaw ATL 02/22/2004 ATL @ HOU L 38 10 5 9 55.6 0 0 - 0 0 - 3 5 8 4 1 0 1 3 -9
+p245
+aVChris Crawford ATL 02/22/2004 ATL @ HOU L 49 19 8 19 42.1 1 4 25.0 2 2 100.0 1 5 6 1 3 0 0 4 -1
+p246
+aVBob Sura ATL 02/22/2004 ATL @ HOU L 44 14 5 13 38.5 1 4 25.0 3 6 50.0 1 4 5 7 0 0 1 1 4
+p247
+aVStephen Jackson ATL 02/22/2004 ATL @ HOU L 48 24 8 19 42.1 3 9 33.3 5 8 62.5 4 4 8 2 2 0 2 5 -5
+p248
+aVJoel Przybilla ATL 02/22/2004 ATL @ HOU L 27 5 1 5 20.0 0 0 - 3 5 60.0 4 4 8 1 1 0 1 6 7
+p249
+aVJacque Vaughn ATL 02/22/2004 ATL @ HOU L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 4 0 0 1 3 3
+p250
+aVDion Glover ATL 02/22/2004 ATL @ HOU L 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 8
+p251
+aVJason Terry ATL 02/22/2004 ATL @ HOU L 49 27 11 23 47.8 5 9 55.6 0 0 - 1 2 3 6 2 1 4 0 -6
+p252
+aVZeljko Rebraca ATL 02/22/2004 ATL @ HOU L 28 18 9 13 69.2 0 0 - 0 0 - 1 3 4 1 0 1 4 6 -9
+p253
+aVMamadou N'diaye ATL 02/22/2004 ATL @ HOU L 7 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -2
+p254
+aVJason Terry ATL 02/20/2004 ATL @ MIA L 31 18 6 13 46.2 4 9 44.4 2 2 100.0 0 2 2 4 3 1 4 2 -39
+p255
+aVMamadou N'diaye ATL 02/20/2004 ATL @ MIA L 23 15 3 7 42.9 0 0 - 9 10 90.0 2 2 4 0 2 2 0 3 0
+p256
+aVJacque Vaughn ATL 02/20/2004 ATL @ MIA L 27 4 2 10 20.0 0 3 0.0 0 0 - 1 1 2 3 3 0 2 1 -5
+p257
+aVDion Glover ATL 02/20/2004 ATL @ MIA L 28 7 2 8 25.0 0 2 0.0 3 3 100.0 2 1 3 5 1 0 1 0 -9
+p258
+aVStephen Jackson ATL 02/20/2004 ATL @ MIA L 32 17 6 13 46.2 2 3 66.7 3 4 75.0 2 3 5 3 1 0 6 2 -24
+p259
+aVBoris Diaw ATL 02/20/2004 ATL @ MIA L 30 6 3 4 75.0 0 1 0.0 0 0 - 1 5 6 2 0 1 0 3 -26
+p260
+aVJoel Przybilla ATL 02/20/2004 ATL @ MIA L 31 4 1 3 33.3 0 0 - 2 4 50.0 0 3 3 0 0 2 3 3 -23
+p261
+aVWesley Person ATL 02/20/2004 ATL @ MIA L 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 -7
+p262
+aVChris Crawford ATL 02/20/2004 ATL @ MIA L 35 21 10 20 50.0 0 0 - 1 2 50.0 2 2 4 2 3 0 2 3 -32
+p263
+aVBoris Diaw ATL 02/18/2004 ATL @ NJN L 27 2 1 6 16.7 0 2 0.0 0 0 - 5 1 6 2 0 1 0 6 10
+p264
+aVDion Glover ATL 02/18/2004 ATL @ NJN L 10 3 1 2 50.0 0 1 0.0 1 2 50.0 0 1 1 0 1 0 1 0 -12
+p265
+aVJacque Vaughn ATL 02/18/2004 ATL @ NJN L 7 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -11
+p266
+aVWesley Person ATL 02/18/2004 ATL @ NJN L 21 0 0 3 0.0 0 1 0.0 0 0 - 1 4 5 0 1 0 0 1 -19
+p267
+aVRasheed Wallace ATL 02/18/2004 ATL @ NJN L 42 20 8 24 33.3 1 6 16.7 3 3 100.0 1 5 6 2 1 5 3 0 -1
+p268
+aVStephen Jackson ATL 02/18/2004 ATL @ NJN L 38 25 9 18 50.0 5 8 62.5 2 2 100.0 2 5 7 6 1 0 2 3 6
+p269
+aVJoel Przybilla ATL 02/18/2004 ATL @ NJN L 29 4 2 11 18.2 0 0 - 0 1 0.0 7 5 12 2 0 1 1 5 -2
+p270
+aVJason Terry ATL 02/18/2004 ATL @ NJN L 41 22 8 17 47.1 5 7 71.4 1 1 100.0 2 1 3 6 4 0 3 0 5
+p271
+aVChris Crawford ATL 02/18/2004 ATL @ NJN L 25 16 6 10 60.0 1 1 100.0 3 3 100.0 2 5 7 1 1 2 2 6 -6
+p272
+aVChris Crawford ATL 02/09/2004 ATL vs. DAL W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 1 0 1 -2
+p273
+aVShareef Abdur-Rahim ATL 02/09/2004 ATL vs. DAL W 44 27 9 19 47.4 0 0 - 9 11 81.8 5 5 10 3 0 1 3 1 6
+p274
+aVBoris Diaw ATL 02/09/2004 ATL vs. DAL W 30 10 3 5 60.0 1 1 100.0 3 4 75.0 1 5 6 3 0 0 3 5 -5
+p275
+aVTheo Ratliff ATL 02/09/2004 ATL vs. DAL W 33 8 4 8 50.0 0 0 - 0 2 0.0 1 9 10 2 2 3 0 0 1
+p276
+aVNazr Mohammed ATL 02/09/2004 ATL vs. DAL W 15 5 2 6 33.3 0 0 - 1 3 33.3 4 6 10 1 0 1 1 0 5
+p277
+aVDan Dickau ATL 02/09/2004 ATL vs. DAL W 7 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -5
+p278
+aVJason Terry ATL 02/09/2004 ATL vs. DAL W 44 14 6 19 31.6 0 6 0.0 2 3 66.7 0 7 7 9 4 0 2 2 13
+p279
+aVStephen Jackson ATL 02/09/2004 ATL vs. DAL W 41 30 10 18 55.6 2 6 33.3 8 10 80.0 2 1 3 3 4 1 5 3 4
+p280
+aVDion Glover ATL 02/09/2004 ATL vs. DAL W 19 6 3 5 60.0 0 1 0.0 0 0 - 0 3 3 1 1 0 3 2 13
+p281
+aVDion Glover ATL 02/07/2004 ATL vs. HOU L 26 10 4 11 36.4 0 1 0.0 2 2 100.0 1 2 3 3 2 0 0 4 0
+p282
+aVNazr Mohammed ATL 02/07/2004 ATL vs. HOU L 25 8 3 6 50.0 0 0 - 2 2 100.0 1 7 8 0 0 0 1 3 15
+p283
+aVDan Dickau ATL 02/07/2004 ATL vs. HOU L 12 4 2 4 50.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 1 3
+p284
+aVShareef Abdur-Rahim ATL 02/07/2004 ATL vs. HOU L 40 20 7 18 38.9 0 1 0.0 6 6 100.0 3 6 9 1 1 0 2 2 -6
+p285
+aVChris Crawford ATL 02/07/2004 ATL vs. HOU L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 0
+p286
+aVStephen Jackson ATL 02/07/2004 ATL vs. HOU L 44 16 5 10 50.0 1 4 25.0 5 10 50.0 1 7 8 2 4 0 4 6 -2
+p287
+aVTheo Ratliff ATL 02/07/2004 ATL vs. HOU L 22 4 2 8 25.0 0 0 - 0 0 - 0 3 3 1 1 0 1 5 -21
+p288
+aVJason Terry ATL 02/07/2004 ATL vs. HOU L 35 7 2 11 18.2 1 4 25.0 2 2 100.0 0 1 1 6 1 1 5 4 -18
+p289
+aVBoris Diaw ATL 02/07/2004 ATL vs. HOU L 27 6 3 7 42.9 0 0 - 0 0 - 3 1 4 0 1 0 0 2 -16
+p290
+aVJason Terry ATL 02/06/2004 ATL @ BOS W 41 13 6 10 60.0 1 3 33.3 0 0 - 0 8 8 6 2 0 5 0 15
+p291
+aVBoris Diaw ATL 02/06/2004 ATL @ BOS W 27 4 1 2 50.0 0 0 - 2 4 50.0 1 2 3 2 3 0 6 3 -9
+p292
+aVChris Crawford ATL 02/06/2004 ATL @ BOS W 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p293
+aVNazr Mohammed ATL 02/06/2004 ATL @ BOS W 11 6 1 1 100.0 0 0 - 4 5 80.0 3 3 6 1 0 1 2 4 -14
+p294
+aVTheo Ratliff ATL 02/06/2004 ATL @ BOS W 36 10 4 8 50.0 0 0 - 2 2 100.0 0 9 9 0 1 7 0 4 16
+p295
+aVDan Dickau ATL 02/06/2004 ATL @ BOS W 7 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 2 1 -11
+p296
+aVShareef Abdur-Rahim ATL 02/06/2004 ATL @ BOS W 38 22 8 12 66.7 0 1 0.0 6 9 66.7 2 6 8 3 0 1 5 2 12
+p297
+aVStephen Jackson ATL 02/06/2004 ATL @ BOS W 41 23 8 20 40.0 5 12 41.7 2 4 50.0 0 2 2 3 3 0 6 5 7
+p298
+aVDion Glover ATL 02/06/2004 ATL @ BOS W 29 16 6 10 60.0 2 3 66.7 2 2 100.0 1 3 4 5 2 2 2 0 10
+p299
+aVShareef Abdur-Rahim ATL 02/04/2004 ATL vs. MIN W 44 32 11 21 52.4 0 0 - 10 10 100.0 4 10 14 5 1 0 0 3 15
+p300
+aVStephen Jackson ATL 02/04/2004 ATL vs. MIN W 38 17 7 15 46.7 0 1 0.0 3 4 75.0 3 2 5 6 0 0 2 3 18
+p301
+aVTheo Ratliff ATL 02/04/2004 ATL vs. MIN W 28 6 3 7 42.9 0 0 - 0 0 - 3 2 5 1 0 2 4 4 -7
+p302
+aVJacque Vaughn ATL 02/04/2004 ATL vs. MIN W 9 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -2
+p303
+aVDion Glover ATL 02/04/2004 ATL vs. MIN W 12 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 2 0 0 0 1 -17
+p304
+aVJason Terry ATL 02/04/2004 ATL vs. MIN W 33 24 10 19 52.6 3 5 60.0 1 1 100.0 0 5 5 2 2 0 5 3 17
+p305
+aVNazr Mohammed ATL 02/04/2004 ATL vs. MIN W 24 4 1 3 33.3 0 0 - 2 4 50.0 2 7 9 0 1 2 1 1 8
+p306
+aVDan Dickau ATL 02/04/2004 ATL vs. MIN W 12 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 0 0 1 2 -13
+p307
+aVBoris Diaw ATL 02/04/2004 ATL vs. MIN W 40 7 2 7 28.6 0 1 0.0 3 4 75.0 2 8 10 8 0 0 0 2 21
+p308
+aVDion Glover ATL 02/02/2004 ATL vs. LAC L 33 16 6 10 60.0 1 1 100.0 3 4 75.0 2 7 9 5 2 1 3 4 14
+p309
+aVNazr Mohammed ATL 02/02/2004 ATL vs. LAC L 18 7 3 5 60.0 0 0 - 1 2 50.0 3 3 6 0 0 0 0 2 -3
+p310
+aVJason Terry ATL 02/02/2004 ATL vs. LAC L 36 13 5 13 38.5 2 4 50.0 1 2 50.0 0 2 2 6 2 1 0 0 -7
+p311
+aVStephen Jackson ATL 02/02/2004 ATL vs. LAC L 39 20 9 16 56.3 2 6 33.3 0 0 - 0 5 5 1 2 1 4 3 -9
+p312
+aVTheo Ratliff ATL 02/02/2004 ATL vs. LAC L 40 13 5 13 38.5 0 0 - 3 5 60.0 4 5 9 0 0 6 1 5 -5
+p313
+aVJacque Vaughn ATL 02/02/2004 ATL vs. LAC L 14 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 2 0 0 3 1 -5
+p314
+aVChris Crawford ATL 02/02/2004 ATL vs. LAC L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 3
+p315
+aVBoris Diaw ATL 02/02/2004 ATL vs. LAC L 16 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 0 -14
+p316
+aVShareef Abdur-Rahim ATL 02/02/2004 ATL vs. LAC L 38 20 5 14 35.7 0 0 - 10 10 100.0 3 7 10 0 0 0 3 4 -4
+p317
+aVStephen Jackson ATL 01/31/2004 ATL vs. MIL W 38 15 7 15 46.7 1 2 50.0 0 0 - 1 7 8 3 1 0 4 0 10
+p318
+aVTheo Ratliff ATL 01/31/2004 ATL vs. MIL W 34 12 6 7 85.7 0 0 - 0 0 - 1 5 6 1 1 2 2 4 17
+p319
+aVDion Glover ATL 01/31/2004 ATL vs. MIL W 22 6 3 9 33.3 0 1 0.0 0 0 - 1 5 6 2 0 0 2 3 -6
+p320
+aVNazr Mohammed ATL 01/31/2004 ATL vs. MIL W 14 6 2 4 50.0 0 0 - 2 8 25.0 2 1 3 0 1 0 0 1 -7
+p321
+aVJacque Vaughn ATL 01/31/2004 ATL vs. MIL W 12 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 1 2 0 1 1 0
+p322
+aVChris Crawford ATL 01/31/2004 ATL vs. MIL W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 3
+p323
+aVShareef Abdur-Rahim ATL 01/31/2004 ATL vs. MIL W 41 21 5 12 41.7 0 0 - 11 12 91.7 4 8 12 3 0 0 2 2 8
+p324
+aVBoris Diaw ATL 01/31/2004 ATL vs. MIL W 33 8 4 7 57.1 0 0 - 0 0 - 0 3 3 3 2 0 2 5 12
+p325
+aVJason Terry ATL 01/31/2004 ATL vs. MIL W 41 19 6 19 31.6 2 6 33.3 5 5 100.0 3 4 7 6 2 0 1 2 13
+p326
+aVDan Dickau ATL 01/29/2004 ATL vs. POR L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 0
+p327
+aVChris Crawford ATL 01/29/2004 ATL vs. POR L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 3
+p328
+aVNazr Mohammed ATL 01/29/2004 ATL vs. POR L 25 13 6 9 66.7 0 0 - 1 2 50.0 3 5 8 0 0 0 1 2 2
+p329
+aVStephen Jackson ATL 01/29/2004 ATL vs. POR L 34 15 6 17 35.3 1 2 50.0 2 4 50.0 1 4 5 6 1 0 1 1 -11
+p330
+aVJason Terry ATL 01/29/2004 ATL vs. POR L 35 14 5 12 41.7 3 7 42.9 1 3 33.3 1 4 5 4 1 0 3 1 -17
+p331
+aVDion Glover ATL 01/29/2004 ATL vs. POR L 26 10 5 13 38.5 0 3 0.0 0 0 - 2 1 3 2 3 1 2 2 7
+p332
+aVJacque Vaughn ATL 01/29/2004 ATL vs. POR L 24 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 3 6
+p333
+aVTheo Ratliff ATL 01/29/2004 ATL vs. POR L 30 6 3 6 50.0 0 0 - 0 0 - 3 6 9 2 0 3 0 2 -7
+p334
+aVBoris Diaw ATL 01/29/2004 ATL vs. POR L 20 4 2 5 40.0 0 1 0.0 0 0 - 1 2 3 4 0 1 5 3 -12
+p335
+aVShareef Abdur-Rahim ATL 01/29/2004 ATL vs. POR L 39 13 4 12 33.3 0 1 0.0 5 5 100.0 2 5 7 2 2 0 2 4 -11
+p336
+aVTheo Ratliff ATL 01/27/2004 ATL vs. PHX L 38 16 6 12 50.0 0 0 - 4 6 66.7 5 7 12 2 0 4 3 3 -13
+p337
+aVStephen Jackson ATL 01/27/2004 ATL vs. PHX L 36 19 6 17 35.3 2 6 33.3 5 7 71.4 0 3 3 5 1 0 7 4 -15
+p338
+aVChris Crawford ATL 01/27/2004 ATL vs. PHX L 14 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 3 7
+p339
+aVJacque Vaughn ATL 01/27/2004 ATL vs. PHX L 37 8 3 8 37.5 0 0 - 2 2 100.0 0 4 4 7 2 0 2 2 7
+p340
+aVDan Dickau ATL 01/27/2004 ATL vs. PHX L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p341
+aVBoris Diaw ATL 01/27/2004 ATL vs. PHX L 24 4 1 2 50.0 0 0 - 2 2 100.0 2 6 8 1 1 0 1 5 0
+p342
+aVJason Terry ATL 01/27/2004 ATL vs. PHX L 41 10 3 12 25.0 2 4 50.0 2 2 100.0 0 3 3 3 1 0 4 4 0
+p343
+aVShareef Abdur-Rahim ATL 01/27/2004 ATL vs. PHX L 38 16 6 12 50.0 0 0 - 4 4 100.0 1 12 13 0 1 0 5 2 -8
+p344
+aVNazr Mohammed ATL 01/27/2004 ATL vs. PHX L 6 6 2 3 66.7 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 2
+p345
+aVDion Glover ATL 01/27/2004 ATL vs. PHX L 5 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 2
+p346
+aVNazr Mohammed ATL 01/25/2004 ATL @ DET W 11 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 0 3
+p347
+aVJason Terry ATL 01/25/2004 ATL @ DET W 43 22 8 13 61.5 3 6 50.0 3 4 75.0 0 4 4 9 4 1 1 3 9
+p348
+aVStephen Jackson ATL 01/25/2004 ATL @ DET W 35 21 8 17 47.1 2 6 33.3 3 3 100.0 2 2 4 3 2 1 2 3 7
+p349
+aVBoris Diaw ATL 01/25/2004 ATL @ DET W 28 6 3 5 60.0 0 0 - 0 0 - 0 4 4 3 1 0 2 3 4
+p350
+aVShareef Abdur-Rahim ATL 01/25/2004 ATL @ DET W 35 14 6 17 35.3 0 1 0.0 2 2 100.0 1 2 3 1 0 0 3 5 -1
+p351
+aVJacque Vaughn ATL 01/25/2004 ATL @ DET W 25 4 2 5 40.0 0 0 - 0 0 - 0 1 1 5 0 0 2 3 3
+p352
+aVChris Crawford ATL 01/25/2004 ATL @ DET W 16 9 3 8 37.5 1 3 33.3 2 3 66.7 1 1 2 1 1 0 1 3 10
+p353
+aVDan Dickau ATL 01/25/2004 ATL @ DET W 11 5 2 3 66.7 1 1 100.0 0 0 - 0 2 2 0 2 0 0 3 2
+p354
+aVTheo Ratliff ATL 01/25/2004 ATL @ DET W 36 8 2 4 50.0 0 0 - 4 4 100.0 5 8 13 1 0 5 4 5 8
+p355
+aVTheo Ratliff ATL 01/23/2004 ATL vs. NYK L 35 11 3 10 30.0 0 0 - 5 6 83.3 2 9 11 1 1 2 0 4 6
+p356
+aVShareef Abdur-Rahim ATL 01/23/2004 ATL vs. NYK L 40 25 10 14 71.4 1 1 100.0 4 4 100.0 1 5 6 1 1 0 1 1 2
+p357
+aVBoris Diaw ATL 01/23/2004 ATL vs. NYK L 34 8 3 7 42.9 0 0 - 2 6 33.3 6 4 10 4 1 0 1 5 0
+p358
+aVJacque Vaughn ATL 01/23/2004 ATL vs. NYK L 13 2 1 5 20.0 0 1 0.0 0 0 - 1 1 2 5 0 0 1 2 -3
+p359
+aVChris Crawford ATL 01/23/2004 ATL vs. NYK L 8 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -4
+p360
+aVDion Glover ATL 01/23/2004 ATL vs. NYK L 14 0 0 3 0.0 0 1 0.0 0 2 0.0 0 1 1 0 1 0 0 2 -5
+p361
+aVStephen Jackson ATL 01/23/2004 ATL vs. NYK L 47 19 6 16 37.5 2 7 28.6 5 7 71.4 0 1 1 6 2 0 3 2 -2
+p362
+aVJason Terry ATL 01/23/2004 ATL vs. NYK L 36 17 7 15 46.7 1 7 14.3 2 2 100.0 2 3 5 6 1 0 2 2 4
+p363
+aVNazr Mohammed ATL 01/23/2004 ATL vs. NYK L 13 8 4 5 80.0 0 0 - 0 1 0.0 2 1 3 0 2 0 1 2 -8
+p364
+aVShareef Abdur-Rahim ATL 01/21/2004 ATL vs. CHI W 40 22 9 18 50.0 0 0 - 4 4 100.0 4 7 11 2 0 0 5 3 6
+p365
+aVNazr Mohammed ATL 01/21/2004 ATL vs. CHI W 17 6 2 2 100.0 0 0 - 2 2 100.0 1 1 2 1 0 1 0 1 1
+p366
+aVChris Crawford ATL 01/21/2004 ATL vs. CHI W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p367
+aVTheo Ratliff ATL 01/21/2004 ATL vs. CHI W 36 15 6 7 85.7 0 0 - 3 4 75.0 3 6 9 0 0 1 3 4 14
+p368
+aVJason Terry ATL 01/21/2004 ATL vs. CHI W 34 14 5 10 50.0 4 8 50.0 0 0 - 0 1 1 7 2 0 3 1 11
+p369
+aVJacque Vaughn ATL 01/21/2004 ATL vs. CHI W 14 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 2 3 0 0 0 -1
+p370
+aVBoris Diaw ATL 01/21/2004 ATL vs. CHI W 35 4 2 9 22.2 0 0 - 0 0 - 2 3 5 4 1 1 1 3 12
+p371
+aVDion Glover ATL 01/21/2004 ATL vs. CHI W 22 11 4 7 57.1 1 2 50.0 2 2 100.0 2 3 5 0 0 0 3 2 -4
+p372
+aVStephen Jackson ATL 01/21/2004 ATL vs. CHI W 40 22 8 18 44.4 1 5 20.0 5 7 71.4 2 4 6 5 4 0 2 4 12
+p373
+aVJason Terry ATL 01/19/2004 ATL vs. IND L 39 23 10 14 71.4 3 4 75.0 0 0 - 0 3 3 6 1 0 4 3 -5
+p374
+aVShareef Abdur-Rahim ATL 01/19/2004 ATL vs. IND L 43 32 8 15 53.3 0 0 - 16 17 94.1 2 5 7 3 1 0 4 5 -1
+p375
+aVChris Crawford ATL 01/19/2004 ATL vs. IND L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 0
+p376
+aVJacque Vaughn ATL 01/19/2004 ATL vs. IND L 9 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 1 0 0 1 2 0
+p377
+aVStephen Jackson ATL 01/19/2004 ATL vs. IND L 42 17 7 13 53.8 3 6 50.0 0 0 - 0 5 5 3 1 0 2 4 7
+p378
+aVDion Glover ATL 01/19/2004 ATL vs. IND L 23 2 0 7 0.0 0 0 - 2 3 66.7 1 2 3 1 0 0 1 1 -13
+p379
+aVBoris Diaw ATL 01/19/2004 ATL vs. IND L 31 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 0 1 5 0
+p380
+aVNazr Mohammed ATL 01/19/2004 ATL vs. IND L 18 8 4 6 66.7 0 0 - 0 0 - 2 2 4 0 3 0 0 1 -9
+p381
+aVTheo Ratliff ATL 01/19/2004 ATL vs. IND L 32 10 2 4 50.0 0 0 - 6 6 100.0 1 8 9 2 0 3 5 5 6
+p382
+aVTheo Ratliff ATL 01/17/2004 ATL vs. TOR W 32 9 4 9 44.4 0 0 - 1 5 20.0 2 6 8 2 0 4 3 3 -5
+p383
+aVChris Crawford ATL 01/17/2004 ATL vs. TOR W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p384
+aVJacque Vaughn ATL 01/17/2004 ATL vs. TOR W 12 1 0 0 - 0 0 - 1 2 50.0 0 1 1 2 1 0 0 3 -7
+p385
+aVBoris Diaw ATL 01/17/2004 ATL vs. TOR W 37 6 2 7 28.6 0 0 - 2 2 100.0 2 4 6 1 0 2 2 1 -7
+p386
+aVDion Glover ATL 01/17/2004 ATL vs. TOR W 21 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 3 0 1 1 3 8
+p387
+aVShareef Abdur-Rahim ATL 01/17/2004 ATL vs. TOR W 43 20 8 23 34.8 0 0 - 4 4 100.0 2 10 12 3 0 0 1 3 9
+p388
+aVStephen Jackson ATL 01/17/2004 ATL vs. TOR W 40 19 7 12 58.3 4 4 100.0 1 2 50.0 0 7 7 1 2 0 2 2 10
+p389
+aVNazr Mohammed ATL 01/17/2004 ATL vs. TOR W 15 3 1 4 25.0 0 0 - 1 2 50.0 5 4 9 0 0 0 1 4 3
+p390
+aVJason Terry ATL 01/17/2004 ATL vs. TOR W 37 10 3 9 33.3 1 3 33.3 3 4 75.0 0 2 2 3 1 0 2 5 13
+p391
+aVChris Crawford ATL 01/14/2004 ATL @ IND L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 9
+p392
+aVNazr Mohammed ATL 01/14/2004 ATL @ IND L 15 10 4 6 66.7 0 0 - 2 3 66.7 0 1 1 1 1 2 1 2 7
+p393
+aVTheo Ratliff ATL 01/14/2004 ATL @ IND L 39 9 3 9 33.3 0 0 - 3 4 75.0 4 7 11 2 1 5 2 3 -19
+p394
+aVShareef Abdur-Rahim ATL 01/14/2004 ATL @ IND L 36 16 7 15 46.7 0 0 - 2 2 100.0 2 5 7 2 1 0 3 5 -8
+p395
+aVJason Terry ATL 01/14/2004 ATL @ IND L 42 15 6 19 31.6 1 5 20.0 2 2 100.0 1 8 9 8 1 0 2 3 0
+p396
+aVJacque Vaughn ATL 01/14/2004 ATL @ IND L 8 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -9
+p397
+aVStephen Jackson ATL 01/14/2004 ATL @ IND L 37 11 5 13 38.5 0 1 0.0 1 1 100.0 0 1 1 2 1 0 1 4 -14
+p398
+aVBoris Diaw ATL 01/14/2004 ATL @ IND L 23 2 1 3 33.3 0 0 - 0 0 - 1 2 3 3 4 0 3 4 2
+p399
+aVDion Glover ATL 01/14/2004 ATL @ IND L 34 13 5 12 41.7 0 2 0.0 3 4 75.0 2 3 5 3 3 1 5 4 -3
+p400
+aVNazr Mohammed ATL 01/13/2004 ATL vs. SAS W 13 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 0 0 1 4 0
+p401
+aVStephen Jackson ATL 01/13/2004 ATL vs. SAS W 46 16 6 17 35.3 0 2 0.0 4 4 100.0 2 7 9 7 2 0 1 3 9
+p402
+aVJason Terry ATL 01/13/2004 ATL vs. SAS W 38 18 7 13 53.8 2 3 66.7 2 2 100.0 0 5 5 4 3 0 4 5 11
+p403
+aVJacque Vaughn ATL 01/13/2004 ATL vs. SAS W 10 0 0 0 - 0 0 - 0 0 - 1 2 3 2 0 0 2 2 0
+p404
+aVBoris Diaw ATL 01/13/2004 ATL vs. SAS W 25 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 1 0 3 5 7
+p405
+aVTheo Ratliff ATL 01/13/2004 ATL vs. SAS W 38 13 4 8 50.0 0 0 - 5 6 83.3 1 4 5 2 0 1 3 4 5
+p406
+aVDion Glover ATL 01/13/2004 ATL vs. SAS W 27 2 1 7 14.3 0 0 - 0 1 0.0 1 7 8 0 1 0 3 2 -1
+p407
+aVShareef Abdur-Rahim ATL 01/13/2004 ATL vs. SAS W 43 29 9 18 50.0 0 0 - 11 12 91.7 3 7 10 3 3 0 1 5 14
+p408
+aVTravis Hansen ATL 01/10/2004 ATL @ UTA L 15 2 0 3 0.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 0
+p409
+aVDan Dickau ATL 01/10/2004 ATL @ UTA L 7 3 1 1 100.0 0 0 - 1 2 50.0 0 0 0 1 1 0 0 0 13
+p410
+aVDion Glover ATL 01/10/2004 ATL @ UTA L 27 15 6 11 54.5 0 2 0.0 3 4 75.0 0 2 2 1 0 1 0 1 8
+p411
+aVChris Crawford ATL 01/10/2004 ATL @ UTA L 11 3 0 0 - 0 0 - 3 5 60.0 1 1 2 0 0 1 0 2 7
+p412
+aVShareef Abdur-Rahim ATL 01/10/2004 ATL @ UTA L 32 15 5 8 62.5 0 1 0.0 5 6 83.3 1 7 8 3 0 2 5 4 -19
+p413
+aVJason Terry ATL 01/10/2004 ATL @ UTA L 33 9 4 13 30.8 1 4 25.0 0 0 - 0 3 3 5 0 0 4 3 -23
+p414
+aVTheo Ratliff ATL 01/10/2004 ATL @ UTA L 30 10 5 9 55.6 0 0 - 0 0 - 0 4 4 1 2 5 2 5 -13
+p415
+aVJacque Vaughn ATL 01/10/2004 ATL @ UTA L 11 1 0 3 0.0 0 0 - 1 1 100.0 0 1 1 0 0 0 1 4 -17
+p416
+aVAlan Henderson ATL 01/10/2004 ATL @ UTA L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -9
+p417
+aVStephen Jackson ATL 01/10/2004 ATL @ UTA L 25 4 2 8 25.0 0 3 0.0 0 0 - 1 1 2 1 0 0 3 6 -17
+p418
+aVBoris Diaw ATL 01/10/2004 ATL @ UTA L 26 0 0 2 0.0 0 0 - 0 0 - 0 5 5 2 4 2 3 2 -27
+p419
+aVNazr Mohammed ATL 01/10/2004 ATL @ UTA L 18 9 3 8 37.5 0 0 - 3 4 75.0 1 3 4 0 1 0 0 2 -8
+p420
+aVBoris Diaw ATL 01/09/2004 ATL @ LAL L 26 4 2 6 33.3 0 1 0.0 0 0 - 0 4 4 0 0 0 1 1 -32
+p421
+aVShareef Abdur-Rahim ATL 01/09/2004 ATL @ LAL L 23 7 2 4 50.0 0 0 - 3 4 75.0 0 4 4 0 1 0 2 1 -28
+p422
+aVJacque Vaughn ATL 01/09/2004 ATL @ LAL L 11 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 3 0 0 1 2 -16
+p423
+aVChris Crawford ATL 01/09/2004 ATL @ LAL L 19 12 4 7 57.1 0 0 - 4 5 80.0 1 2 3 1 2 0 1 2 -13
+p424
+aVDion Glover ATL 01/09/2004 ATL @ LAL L 25 10 3 6 50.0 1 1 100.0 3 4 75.0 0 2 2 3 2 0 2 2 -12
+p425
+aVJason Terry ATL 01/09/2004 ATL @ LAL L 22 6 3 10 30.0 0 3 0.0 0 0 - 0 1 1 2 0 1 1 3 -21
+p426
+aVAlan Henderson ATL 01/09/2004 ATL @ LAL L 14 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 1 0 -14
+p427
+aVStephen Jackson ATL 01/09/2004 ATL @ LAL L 31 13 5 13 38.5 0 3 0.0 3 3 100.0 0 3 3 1 0 0 5 2 -34
+p428
+aVNazr Mohammed ATL 01/09/2004 ATL @ LAL L 21 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 0 1 2 3 -11
+p429
+aVTheo Ratliff ATL 01/09/2004 ATL @ LAL L 23 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 4 0 1 -28
+p430
+aVTravis Hansen ATL 01/09/2004 ATL @ LAL L 10 0 0 3 0.0 0 0 - 0 0 - 1 0 1 1 0 1 2 0 -12
+p431
+aVDan Dickau ATL 01/09/2004 ATL @ LAL L 15 2 1 3 33.3 0 0 - 0 0 - 0 2 2 2 0 0 1 3 -9
+p432
+aVDion Glover ATL 01/06/2004 ATL @ SAC L 20 2 1 8 12.5 0 0 - 0 0 - 3 3 6 2 3 0 0 1 -4
+p433
+aVBoris Diaw ATL 01/06/2004 ATL @ SAC L 31 6 2 2 100.0 0 0 - 2 2 100.0 0 5 5 3 0 0 4 3 -12
+p434
+aVStephen Jackson ATL 01/06/2004 ATL @ SAC L 36 19 7 12 58.3 1 3 33.3 4 4 100.0 2 2 4 4 1 1 1 3 -8
+p435
+aVJason Terry ATL 01/06/2004 ATL @ SAC L 20 8 3 5 60.0 0 1 0.0 2 2 100.0 1 2 3 3 0 0 5 0 -9
+p436
+aVJacque Vaughn ATL 01/06/2004 ATL @ SAC L 34 10 4 11 36.4 0 0 - 2 2 100.0 1 1 2 5 0 0 5 3 -8
+p437
+aVDan Dickau ATL 01/06/2004 ATL @ SAC L 1 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p438
+aVAlan Henderson ATL 01/06/2004 ATL @ SAC L 18 9 4 6 66.7 0 0 - 1 2 50.0 3 5 8 0 0 2 0 1 -5
+p439
+aVTravis Hansen ATL 01/06/2004 ATL @ SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p440
+aVTheo Ratliff ATL 01/06/2004 ATL @ SAC L 30 11 4 6 66.7 0 0 - 3 3 100.0 2 5 7 1 0 1 1 4 -15
+p441
+aVShareef Abdur-Rahim ATL 01/06/2004 ATL @ SAC L 30 19 9 18 50.0 0 0 - 1 2 50.0 3 5 8 1 0 0 2 0 -11
+p442
+aVNazr Mohammed ATL 01/06/2004 ATL @ SAC L 18 5 2 6 33.3 0 0 - 1 2 50.0 1 3 4 0 0 0 3 3 -1
+p443
+aVNazr Mohammed ATL 01/03/2004 ATL @ DEN W 16 11 5 5 100.0 0 0 - 1 2 50.0 2 0 2 0 1 0 1 1 2
+p444
+aVJason Terry ATL 01/03/2004 ATL @ DEN W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p445
+aVDion Glover ATL 01/03/2004 ATL @ DEN W 27 12 5 10 50.0 0 0 - 2 5 40.0 1 4 5 0 1 0 0 1 2
+p446
+aVShareef Abdur-Rahim ATL 01/03/2004 ATL @ DEN W 36 17 6 19 31.6 0 0 - 5 6 83.3 6 5 11 2 1 0 2 2 6
+p447
+aVTheo Ratliff ATL 01/03/2004 ATL @ DEN W 32 6 2 6 33.3 0 0 - 2 2 100.0 2 9 11 1 1 4 3 3 6
+p448
+aVBoris Diaw ATL 01/03/2004 ATL @ DEN W 37 4 2 6 33.3 0 1 0.0 0 0 - 1 5 6 8 1 0 3 4 3
+p449
+aVStephen Jackson ATL 01/03/2004 ATL @ DEN W 40 25 11 24 45.8 2 6 33.3 1 1 100.0 2 1 3 1 1 0 3 2 14
+p450
+aVJacque Vaughn ATL 01/03/2004 ATL @ DEN W 33 5 1 5 20.0 0 0 - 3 3 100.0 0 5 5 6 0 0 2 5 11
+p451
+aVAlan Henderson ATL 01/03/2004 ATL @ DEN W 12 4 2 5 40.0 0 0 - 0 0 - 3 1 4 1 0 0 2 0 2
+p452
+aVTheo Ratliff ATL 01/02/2004 ATL @ MIN L 29 5 2 8 25.0 0 0 - 1 2 50.0 3 4 7 1 1 2 0 3 -24
+p453
+aVNazr Mohammed ATL 01/02/2004 ATL @ MIN L 16 6 3 6 50.0 0 0 - 0 0 - 1 4 5 0 0 1 1 1 8
+p454
+aVChris Crawford ATL 01/02/2004 ATL @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p455
+aVAlan Henderson ATL 01/02/2004 ATL @ MIN L 15 9 3 5 60.0 0 0 - 3 4 75.0 1 2 3 1 0 0 0 0 4
+p456
+aVJacque Vaughn ATL 01/02/2004 ATL @ MIN L 12 4 2 4 50.0 0 0 - 0 0 - 0 2 2 3 0 0 1 0 -3
+p457
+aVDion Glover ATL 01/02/2004 ATL @ MIN L 32 9 4 9 44.4 1 3 33.3 0 0 - 0 1 1 3 0 0 3 3 -16
+p458
+aVBoris Diaw ATL 01/02/2004 ATL @ MIN L 29 3 1 1 100.0 0 0 - 1 2 50.0 0 3 3 6 0 0 2 0 -8
+p459
+aVShareef Abdur-Rahim ATL 01/02/2004 ATL @ MIN L 36 15 5 15 33.3 0 0 - 5 7 71.4 0 6 6 1 0 0 0 4 -22
+p460
+aVDan Dickau ATL 01/02/2004 ATL @ MIN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p461
+aVJason Terry ATL 01/02/2004 ATL @ MIN L 36 9 3 18 16.7 1 4 25.0 2 2 100.0 0 0 0 5 1 0 3 3 -11
+p462
+aVStephen Jackson ATL 01/02/2004 ATL @ MIN L 32 13 5 11 45.5 1 1 100.0 2 2 100.0 2 2 4 2 1 1 1 4 -12
+p463
+aVTravis Hansen ATL 01/02/2004 ATL @ MIN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p464
+aVAlan Henderson ATL 12/30/2003 ATL @ WAS W 4 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 0 0 0 -7
+p465
+aVTheo Ratliff ATL 12/30/2003 ATL @ WAS W 37 6 3 6 50.0 0 0 - 0 2 0.0 2 4 6 1 1 4 0 5 15
+p466
+aVBoris Diaw ATL 12/30/2003 ATL @ WAS W 14 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 1 0 1 2 -3
+p467
+aVJacque Vaughn ATL 12/30/2003 ATL @ WAS W 26 7 2 5 40.0 0 1 0.0 3 4 75.0 1 3 4 0 2 0 0 1 -5
+p468
+aVJason Terry ATL 12/30/2003 ATL @ WAS W 40 13 6 15 40.0 0 2 0.0 1 2 50.0 0 4 4 10 3 0 2 3 14
+p469
+aVDion Glover ATL 12/30/2003 ATL @ WAS W 35 10 4 13 30.8 0 1 0.0 2 3 66.7 0 3 3 1 1 0 4 4 12
+p470
+aVShareef Abdur-Rahim ATL 12/30/2003 ATL @ WAS W 38 25 12 18 66.7 0 0 - 1 2 50.0 2 14 16 3 1 0 2 5 20
+p471
+aVStephen Jackson ATL 12/30/2003 ATL @ WAS W 30 16 8 19 42.1 0 4 0.0 0 0 - 1 5 6 3 5 0 2 4 14
+p472
+aVNazr Mohammed ATL 12/30/2003 ATL @ WAS W 16 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -10
+p473
+aVJason Terry ATL 12/27/2003 ATL vs. DET L 44 20 8 19 42.1 3 7 42.9 1 2 50.0 0 3 3 6 2 0 2 4 0
+p474
+aVTheo Ratliff ATL 12/27/2003 ATL vs. DET L 33 13 4 6 66.7 0 0 - 5 8 62.5 4 6 10 1 0 4 2 4 5
+p475
+aVStephen Jackson ATL 12/27/2003 ATL vs. DET L 38 15 6 16 37.5 2 5 40.0 1 2 50.0 0 3 3 2 0 0 0 2 0
+p476
+aVNazr Mohammed ATL 12/27/2003 ATL vs. DET L 23 4 1 3 33.3 0 0 - 2 2 100.0 3 1 4 0 0 0 1 1 -8
+p477
+aVShareef Abdur-Rahim ATL 12/27/2003 ATL vs. DET L 40 20 9 17 52.9 0 0 - 2 2 100.0 4 8 12 4 3 1 4 4 -4
+p478
+aVBoris Diaw ATL 12/27/2003 ATL vs. DET L 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -3
+p479
+aVJacque Vaughn ATL 12/27/2003 ATL vs. DET L 12 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -2
+p480
+aVDion Glover ATL 12/27/2003 ATL vs. DET L 40 10 4 9 44.4 0 2 0.0 2 3 66.7 1 5 6 4 0 0 1 3 -3
+p481
+aVShareef Abdur-Rahim ATL 12/26/2003 ATL @ NOH L 24 7 3 9 33.3 0 1 0.0 1 1 100.0 1 5 6 1 0 1 0 0 -20
+p482
+aVJason Terry ATL 12/26/2003 ATL @ NOH L 22 6 3 12 25.0 0 4 0.0 0 0 - 1 2 3 1 0 0 1 1 -28
+p483
+aVTravis Hansen ATL 12/26/2003 ATL @ NOH L 8 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 3 1 -9
+p484
+aVJacque Vaughn ATL 12/26/2003 ATL @ NOH L 25 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 5 1 0 2 0 -4
+p485
+aVLee Nailon ATL 12/26/2003 ATL @ NOH L 24 10 4 5 80.0 0 0 - 2 4 50.0 2 5 7 2 0 0 4 4 3
+p486
+aVDan Dickau ATL 12/26/2003 ATL @ NOH L 17 6 3 7 42.9 0 1 0.0 0 0 - 1 4 5 3 2 0 4 1 1
+p487
+aVNazr Mohammed ATL 12/26/2003 ATL @ NOH L 24 12 4 9 44.4 0 0 - 4 6 66.7 4 0 4 0 0 1 0 5 -10
+p488
+aVBoris Diaw ATL 12/26/2003 ATL @ NOH L 23 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 0 0 0 5 4 -10
+p489
+aVChris Crawford ATL 12/26/2003 ATL @ NOH L 6 5 1 2 50.0 1 1 100.0 2 2 100.0 0 1 1 0 0 0 0 0 -5
+p490
+aVStephen Jackson ATL 12/26/2003 ATL @ NOH L 24 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 3 1 0 3 2 -20
+p491
+aVTheo Ratliff ATL 12/26/2003 ATL @ NOH L 23 6 3 4 75.0 0 0 - 0 0 - 1 2 3 0 1 1 0 2 -31
+p492
+aVDion Glover ATL 12/26/2003 ATL @ NOH L 20 9 4 7 57.1 1 2 50.0 0 0 - 0 2 2 1 0 0 1 1 -17
+p493
+aVTheo Ratliff ATL 12/23/2003 ATL vs. BOS W 26 6 3 5 60.0 0 0 - 0 2 0.0 2 4 6 1 0 1 2 3 3
+p494
+aVBoris Diaw ATL 12/23/2003 ATL vs. BOS W 22 0 0 0 - 0 0 - 0 0 - 1 3 4 4 0 0 4 5 -2
+p495
+aVNazr Mohammed ATL 12/23/2003 ATL vs. BOS W 18 6 2 6 33.3 0 0 - 2 2 100.0 3 6 9 1 0 2 1 4 0
+p496
+aVLee Nailon ATL 12/23/2003 ATL vs. BOS W 11 8 4 8 50.0 0 0 - 0 0 - 1 2 3 1 1 0 3 1 4
+p497
+aVJacque Vaughn ATL 12/23/2003 ATL vs. BOS W 16 1 0 1 0.0 0 0 - 1 1 100.0 0 2 2 0 0 1 0 0 8
+p498
+aVShareef Abdur-Rahim ATL 12/23/2003 ATL vs. BOS W 38 25 8 15 53.3 0 0 - 9 12 75.0 1 3 4 4 1 1 5 2 -2
+p499
+aVStephen Jackson ATL 12/23/2003 ATL vs. BOS W 39 16 6 14 42.9 2 6 33.3 2 2 100.0 0 7 7 2 3 0 2 3 12
+p500
+aVJason Terry ATL 12/23/2003 ATL vs. BOS W 37 13 6 18 33.3 0 4 0.0 1 2 50.0 2 4 6 7 3 0 1 0 3
+p501
+aVDion Glover ATL 12/23/2003 ATL vs. BOS W 33 18 6 8 75.0 3 3 100.0 3 4 75.0 0 7 7 4 0 0 3 3 -1
+p502
+aVStephen Jackson ATL 12/20/2003 ATL @ NYK L 43 18 4 17 23.5 2 6 33.3 8 8 100.0 2 4 6 2 0 0 3 3 -9
+p503
+aVShareef Abdur-Rahim ATL 12/20/2003 ATL @ NYK L 37 20 6 10 60.0 0 0 - 8 8 100.0 2 7 9 3 1 1 2 1 -9
+p504
+aVJacque Vaughn ATL 12/20/2003 ATL @ NYK L 31 6 1 5 20.0 0 1 0.0 4 4 100.0 0 2 2 2 0 0 1 3 -6
+p505
+aVChris Crawford ATL 12/20/2003 ATL @ NYK L 15 2 0 2 0.0 0 1 0.0 2 2 100.0 1 2 3 2 0 1 0 1 -4
+p506
+aVTheo Ratliff ATL 12/20/2003 ATL @ NYK L 32 12 4 10 40.0 0 0 - 4 5 80.0 3 3 6 1 1 1 3 4 -13
+p507
+aVJason Terry ATL 12/20/2003 ATL @ NYK L 40 18 8 16 50.0 1 3 33.3 1 2 50.0 0 1 1 6 1 0 3 3 -10
+p508
+aVTravis Hansen ATL 12/20/2003 ATL @ NYK L 20 8 4 5 80.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 4 -2
+p509
+aVNazr Mohammed ATL 12/20/2003 ATL @ NYK L 22 8 4 6 66.7 0 0 - 0 0 - 3 6 9 0 1 1 4 1 -2
+p510
+aVTravis Hansen ATL 12/19/2003 ATL vs. SAC L 10 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p511
+aVShareef Abdur-Rahim ATL 12/19/2003 ATL vs. SAC L 41 21 7 18 38.9 0 0 - 7 8 87.5 4 6 10 2 0 1 4 3 -9
+p512
+aVJacque Vaughn ATL 12/19/2003 ATL vs. SAC L 19 3 1 4 25.0 1 1 100.0 0 0 - 0 1 1 0 2 0 1 1 -11
+p513
+aVJason Terry ATL 12/19/2003 ATL vs. SAC L 45 25 11 21 52.4 1 3 33.3 2 5 40.0 0 9 9 5 1 1 4 4 -10
+p514
+aVLee Nailon ATL 12/19/2003 ATL vs. SAC L 7 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -5
+p515
+aVNazr Mohammed ATL 12/19/2003 ATL vs. SAC L 14 2 0 4 0.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 0 -12
+p516
+aVDion Glover ATL 12/19/2003 ATL vs. SAC L 33 11 4 7 57.1 1 2 50.0 2 3 66.7 1 4 5 1 2 1 2 2 6
+p517
+aVStephen Jackson ATL 12/19/2003 ATL vs. SAC L 37 11 5 12 41.7 1 3 33.3 0 0 - 0 1 1 2 0 0 1 2 -14
+p518
+aVDan Dickau ATL 12/19/2003 ATL vs. SAC L 1 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 0
+p519
+aVTheo Ratliff ATL 12/19/2003 ATL vs. SAC L 33 11 5 10 50.0 0 0 - 1 2 50.0 2 7 9 2 0 5 1 3 4
+p520
+aVChris Crawford ATL 12/17/2003 ATL vs. GSW L 15 4 1 4 25.0 0 1 0.0 2 2 100.0 2 5 7 2 2 0 1 3 4
+p521
+aVStephen Jackson ATL 12/17/2003 ATL vs. GSW L 26 7 3 8 37.5 0 0 - 1 3 33.3 0 3 3 1 4 0 0 1 -16
+p522
+aVLee Nailon ATL 12/17/2003 ATL vs. GSW L 16 15 7 11 63.6 0 0 - 1 1 100.0 1 3 4 0 0 0 1 2 -2
+p523
+aVTheo Ratliff ATL 12/17/2003 ATL vs. GSW L 29 15 7 14 50.0 0 0 - 1 2 50.0 4 7 11 1 0 2 2 1 -3
+p524
+aVJacque Vaughn ATL 12/17/2003 ATL vs. GSW L 28 5 2 6 33.3 0 0 - 1 2 50.0 0 1 1 4 1 0 1 3 -22
+p525
+aVNazr Mohammed ATL 12/17/2003 ATL vs. GSW L 17 6 3 6 50.0 0 0 - 0 0 - 1 2 3 1 0 0 0 2 -5
+p526
+aVTravis Hansen ATL 12/17/2003 ATL vs. GSW L 18 2 1 3 33.3 0 0 - 0 0 - 2 0 2 1 0 0 2 3 6
+p527
+aVJason Terry ATL 12/17/2003 ATL vs. GSW L 16 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 3 1 0 2 1 1
+p528
+aVDan Dickau ATL 12/17/2003 ATL vs. GSW L 11 4 2 3 66.7 0 0 - 0 0 - 0 1 1 3 0 0 1 3 5
+p529
+aVDion Glover ATL 12/17/2003 ATL vs. GSW L 30 11 4 11 36.4 0 2 0.0 3 5 60.0 1 2 3 0 0 0 2 1 -17
+p530
+aVShareef Abdur-Rahim ATL 12/17/2003 ATL vs. GSW L 34 16 6 16 37.5 0 1 0.0 4 5 80.0 3 7 10 4 1 0 2 4 -16
+p531
+aVLee Nailon ATL 12/16/2003 ATL @ MIA L 9 6 3 7 42.9 0 0 - 0 0 - 0 2 2 0 0 0 2 2 -7
+p532
+aVTravis Hansen ATL 12/16/2003 ATL @ MIA L 15 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 0 2 0 2 1
+p533
+aVDion Glover ATL 12/16/2003 ATL @ MIA L 27 9 4 8 50.0 0 0 - 1 2 50.0 1 3 4 1 0 1 1 3 -15
+p534
+aVShareef Abdur-Rahim ATL 12/16/2003 ATL @ MIA L 34 16 5 18 27.8 0 0 - 6 7 85.7 4 5 9 3 1 1 2 3 -9
+p535
+aVDan Dickau ATL 12/16/2003 ATL @ MIA L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p536
+aVJacque Vaughn ATL 12/16/2003 ATL @ MIA L 35 4 2 4 50.0 0 0 - 0 0 - 0 7 7 9 1 0 2 3 -18
+p537
+aVJason Terry ATL 12/16/2003 ATL @ MIA L 35 13 5 14 35.7 3 8 37.5 0 0 - 0 2 2 1 2 1 2 0 -9
+p538
+aVTheo Ratliff ATL 12/16/2003 ATL @ MIA L 26 12 5 9 55.6 0 0 - 2 3 66.7 0 3 3 0 0 3 0 1 -8
+p539
+aVChris Crawford ATL 12/16/2003 ATL @ MIA L 7 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 1 0 -3
+p540
+aVStephen Jackson ATL 12/16/2003 ATL @ MIA L 26 11 5 12 41.7 1 2 50.0 0 0 - 1 4 5 2 0 0 1 4 -12
+p541
+aVNazr Mohammed ATL 12/16/2003 ATL @ MIA L 22 6 1 4 25.0 0 0 - 4 5 80.0 3 5 8 0 0 0 0 2 -10
+p542
+aVJason Terry ATL 12/13/2003 ATL vs. ORL L 40 15 6 15 40.0 2 7 28.6 1 1 100.0 0 2 2 7 1 0 3 5 4
+p543
+aVLee Nailon ATL 12/13/2003 ATL vs. ORL L 9 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -6
+p544
+aVTheo Ratliff ATL 12/13/2003 ATL vs. ORL L 25 7 2 3 66.7 0 0 - 3 6 50.0 2 5 7 0 1 1 1 2 -9
+p545
+aVDion Glover ATL 12/13/2003 ATL vs. ORL L 30 19 7 15 46.7 3 4 75.0 2 2 100.0 2 4 6 3 0 1 3 4 -8
+p546
+aVNazr Mohammed ATL 12/13/2003 ATL vs. ORL L 23 8 3 4 75.0 0 0 - 2 2 100.0 3 6 9 3 1 0 2 5 6
+p547
+aVJacque Vaughn ATL 12/13/2003 ATL vs. ORL L 35 4 2 11 18.2 0 1 0.0 0 0 - 0 5 5 6 0 0 0 1 0
+p548
+aVShareef Abdur-Rahim ATL 12/13/2003 ATL vs. ORL L 39 25 10 19 52.6 0 0 - 5 5 100.0 1 5 6 4 0 0 1 5 3
+p549
+aVStephen Jackson ATL 12/13/2003 ATL vs. ORL L 39 20 7 17 41.2 3 6 50.0 3 4 75.0 3 5 8 3 2 1 6 4 -5
+p550
+aVJason Terry ATL 12/12/2003 ATL @ IND L 39 18 9 15 60.0 0 2 0.0 0 0 - 0 5 5 4 1 0 5 5 -3
+p551
+aVDan Dickau ATL 12/12/2003 ATL @ IND L 6 7 2 3 66.7 1 1 100.0 2 2 100.0 0 0 0 1 1 0 0 0 -6
+p552
+aVNazr Mohammed ATL 12/12/2003 ATL @ IND L 18 5 2 5 40.0 0 0 - 1 2 50.0 1 3 4 2 0 1 1 2 -9
+p553
+aVJacque Vaughn ATL 12/12/2003 ATL @ IND L 32 8 4 9 44.4 0 0 - 0 0 - 1 1 2 8 1 0 1 4 6
+p554
+aVTravis Hansen ATL 12/12/2003 ATL @ IND L 19 0 0 4 0.0 0 2 0.0 0 0 - 1 2 3 1 0 0 0 3 -12
+p555
+aVLee Nailon ATL 12/12/2003 ATL @ IND L 13 4 2 4 50.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -12
+p556
+aVTheo Ratliff ATL 12/12/2003 ATL @ IND L 28 7 1 6 16.7 0 0 - 5 6 83.3 4 3 7 2 0 1 1 5 -1
+p557
+aVShareef Abdur-Rahim ATL 12/12/2003 ATL @ IND L 39 19 8 14 57.1 0 0 - 3 4 75.0 1 7 8 2 0 0 3 0 -8
+p558
+aVDion Glover ATL 12/12/2003 ATL @ IND L 31 16 7 12 58.3 2 3 66.7 0 0 - 1 7 8 4 1 2 0 2 6
+p559
+aVStephen Jackson ATL 12/12/2003 ATL @ IND L 15 8 3 8 37.5 0 2 0.0 2 2 100.0 0 2 2 2 1 0 1 1 -16
+p560
+aVBoris Diaw ATL 12/10/2003 ATL @ MEM L 31 7 3 7 42.9 0 1 0.0 1 2 50.0 3 6 9 3 0 1 1 4 -16
+p561
+aVStephen Jackson ATL 12/10/2003 ATL @ MEM L 30 14 6 15 40.0 2 5 40.0 0 0 - 1 2 3 5 1 1 0 1 1
+p562
+aVTravis Hansen ATL 12/10/2003 ATL @ MEM L 13 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 0 1 0 0 1 -4
+p563
+aVLee Nailon ATL 12/10/2003 ATL @ MEM L 11 6 3 6 50.0 0 0 - 0 0 - 1 0 1 0 0 0 2 1 2
+p564
+aVNazr Mohammed ATL 12/10/2003 ATL @ MEM L 14 4 2 5 40.0 0 0 - 0 0 - 1 3 4 1 0 0 0 3 -5
+p565
+aVShareef Abdur-Rahim ATL 12/10/2003 ATL @ MEM L 37 12 3 14 21.4 0 0 - 6 8 75.0 3 12 15 3 0 1 3 3 -16
+p566
+aVDion Glover ATL 12/10/2003 ATL @ MEM L 15 10 4 6 66.7 0 0 - 2 2 100.0 2 1 3 1 0 0 0 0 -5
+p567
+aVJason Terry ATL 12/10/2003 ATL @ MEM L 34 19 5 16 31.3 3 7 42.9 6 6 100.0 0 1 1 5 2 0 3 3 -11
+p568
+aVTheo Ratliff ATL 12/10/2003 ATL @ MEM L 33 10 5 8 62.5 0 0 - 0 0 - 2 4 6 1 1 3 1 3 -6
+p569
+aVJacque Vaughn ATL 12/10/2003 ATL @ MEM L 22 4 2 6 33.3 0 0 - 0 0 - 1 2 3 6 0 1 0 5 -5
+p570
+aVTravis Hansen ATL 12/09/2003 ATL vs. DEN W 21 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 0 2 0 1 2 10
+p571
+aVJason Terry ATL 12/09/2003 ATL vs. DEN W 38 20 9 20 45.0 0 2 0.0 2 2 100.0 0 4 4 11 4 0 5 1 5
+p572
+aVShareef Abdur-Rahim ATL 12/09/2003 ATL vs. DEN W 36 22 10 15 66.7 0 0 - 2 3 66.7 3 6 9 5 1 0 2 3 13
+p573
+aVNazr Mohammed ATL 12/09/2003 ATL vs. DEN W 25 12 6 10 60.0 0 0 - 0 0 - 5 5 10 1 1 2 1 2 8
+p574
+aVTheo Ratliff ATL 12/09/2003 ATL vs. DEN W 22 12 4 5 80.0 0 0 - 4 6 66.7 1 3 4 1 0 5 0 4 6
+p575
+aVDan Dickau ATL 12/09/2003 ATL vs. DEN W 1 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p576
+aVLee Nailon ATL 12/09/2003 ATL vs. DEN W 11 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 0 1 0 2 3 -2
+p577
+aVJacque Vaughn ATL 12/09/2003 ATL vs. DEN W 31 23 9 13 69.2 1 2 50.0 4 4 100.0 0 2 2 4 3 0 3 3 11
+p578
+aVDion Glover ATL 12/09/2003 ATL vs. DEN W 15 7 2 4 50.0 0 0 - 3 4 75.0 1 3 4 2 0 0 0 2 4
+p579
+aVBoris Diaw ATL 12/09/2003 ATL vs. DEN W 40 7 3 6 50.0 0 0 - 1 6 16.7 0 7 7 3 0 0 2 3 14
+p580
+aVJason Terry ATL 12/06/2003 ATL @ CLE L 35 14 5 8 62.5 0 1 0.0 4 6 66.7 0 2 2 4 1 0 3 0 -1
+p581
+aVNazr Mohammed ATL 12/06/2003 ATL @ CLE L 15 1 0 3 0.0 0 0 - 1 2 50.0 2 2 4 0 0 0 0 1 -14
+p582
+aVShareef Abdur-Rahim ATL 12/06/2003 ATL @ CLE L 43 43 17 27 63.0 0 1 0.0 9 10 90.0 6 6 12 2 1 0 4 4 -8
+p583
+aVJacque Vaughn ATL 12/06/2003 ATL @ CLE L 17 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 2 -16
+p584
+aVTheo Ratliff ATL 12/06/2003 ATL @ CLE L 30 8 4 8 50.0 0 0 - 0 1 0.0 0 4 4 1 0 3 0 3 4
+p585
+aVStephen Jackson ATL 12/06/2003 ATL @ CLE L 22 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 0 0 0 2 4 -1
+p586
+aVTravis Hansen ATL 12/06/2003 ATL @ CLE L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 4 3
+p587
+aVDan Dickau ATL 12/06/2003 ATL @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p588
+aVDion Glover ATL 12/06/2003 ATL @ CLE L 18 4 2 10 20.0 0 1 0.0 0 0 - 0 3 3 1 1 0 0 3 -10
+p589
+aVChris Crawford ATL 12/06/2003 ATL @ CLE L 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 -2
+p590
+aVLee Nailon ATL 12/06/2003 ATL @ CLE L 1 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 3
+p591
+aVBoris Diaw ATL 12/06/2003 ATL @ CLE L 38 6 2 5 40.0 0 0 - 2 2 100.0 2 2 4 5 1 2 2 4 -11
+p592
+aVJason Terry ATL 12/05/2003 ATL @ TOR L 34 19 8 13 61.5 1 2 50.0 2 2 100.0 0 4 4 5 1 0 1 4 0
+p593
+aVChris Crawford ATL 12/05/2003 ATL @ TOR L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 0 0 1 1 2 4
+p594
+aVJacque Vaughn ATL 12/05/2003 ATL @ TOR L 17 2 1 4 25.0 0 0 - 0 0 - 1 2 3 3 0 0 1 3 -3
+p595
+aVStephen Jackson ATL 12/05/2003 ATL @ TOR L 28 15 7 14 50.0 0 5 0.0 1 2 50.0 0 2 2 1 4 0 4 4 -20
+p596
+aVNazr Mohammed ATL 12/05/2003 ATL @ TOR L 19 10 4 11 36.4 0 0 - 2 6 33.3 1 2 3 0 0 0 1 1 -4
+p597
+aVDion Glover ATL 12/05/2003 ATL @ TOR L 28 11 4 8 50.0 1 1 100.0 2 3 66.7 1 3 4 2 1 0 1 2 8
+p598
+aVTheo Ratliff ATL 12/05/2003 ATL @ TOR L 28 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 1 4 5 -1
+p599
+aVShareef Abdur-Rahim ATL 12/05/2003 ATL @ TOR L 36 15 3 8 37.5 0 1 0.0 9 10 90.0 4 8 12 1 0 0 2 1 -9
+p600
+aVBoris Diaw ATL 12/05/2003 ATL @ TOR L 37 8 3 7 42.9 0 1 0.0 2 4 50.0 2 6 8 5 2 2 3 2 0
+p601
+aVNazr Mohammed ATL 12/02/2003 ATL vs. MIL L 14 6 3 5 60.0 0 0 - 0 0 - 2 2 4 0 0 0 0 1 -4
+p602
+aVChris Crawford ATL 12/02/2003 ATL vs. MIL L 10 4 2 4 50.0 0 0 - 0 0 - 3 1 4 0 0 0 0 2 -2
+p603
+aVDion Glover ATL 12/02/2003 ATL vs. MIL L 22 4 0 7 0.0 0 2 0.0 4 6 66.7 1 5 6 2 0 1 1 3 -8
+p604
+aVShareef Abdur-Rahim ATL 12/02/2003 ATL vs. MIL L 35 26 9 15 60.0 0 0 - 8 8 100.0 3 2 5 2 0 0 4 3 -8
+p605
+aVTravis Hansen ATL 12/02/2003 ATL vs. MIL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -5
+p606
+aVJacque Vaughn ATL 12/02/2003 ATL vs. MIL L 20 4 2 5 40.0 0 0 - 0 0 - 0 2 2 2 1 0 1 3 -3
+p607
+aVJason Terry ATL 12/02/2003 ATL vs. MIL L 42 23 8 19 42.1 3 5 60.0 4 4 100.0 1 8 9 6 1 1 6 1 -14
+p608
+aVStephen Jackson ATL 12/02/2003 ATL vs. MIL L 32 11 5 18 27.8 1 7 14.3 0 3 0.0 0 2 2 3 0 0 2 0 -6
+p609
+aVBoris Diaw ATL 12/02/2003 ATL vs. MIL L 30 7 3 9 33.3 0 0 - 1 2 50.0 8 1 9 3 0 0 1 3 -3
+p610
+aVTheo Ratliff ATL 12/02/2003 ATL vs. MIL L 33 9 3 6 50.0 0 0 - 3 5 60.0 3 11 14 0 1 3 3 5 -7
+p611
+aVBoris Diaw ATL 11/29/2003 ATL @ PHI L 11 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -14
+p612
+aVDion Glover ATL 11/29/2003 ATL @ PHI L 38 12 4 13 30.8 0 3 0.0 4 5 80.0 1 5 6 3 0 1 0 2 1
+p613
+aVJacque Vaughn ATL 11/29/2003 ATL @ PHI L 16 1 0 3 0.0 0 1 0.0 1 2 50.0 0 1 1 4 0 0 2 2 -21
+p614
+aVLee Nailon ATL 11/29/2003 ATL @ PHI L 13 4 2 5 40.0 0 0 - 0 0 - 1 0 1 1 0 0 0 3 -15
+p615
+aVStephen Jackson ATL 11/29/2003 ATL @ PHI L 37 13 5 14 35.7 3 8 37.5 0 0 - 1 2 3 4 1 0 3 3 2
+p616
+aVShareef Abdur-Rahim ATL 11/29/2003 ATL @ PHI L 35 17 7 13 53.8 0 1 0.0 3 3 100.0 4 6 10 4 1 0 2 1 3
+p617
+aVNazr Mohammed ATL 11/29/2003 ATL @ PHI L 15 9 3 5 60.0 0 0 - 3 4 75.0 1 3 4 0 0 0 0 0 -9
+p618
+aVTheo Ratliff ATL 11/29/2003 ATL @ PHI L 33 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 0 1 1 3 2 -3
+p619
+aVDan Dickau ATL 11/29/2003 ATL @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 2
+p620
+aVJason Terry ATL 11/29/2003 ATL @ PHI L 40 20 8 15 53.3 2 6 33.3 2 2 100.0 0 4 4 6 1 0 6 3 -8
+p621
+aVTravis Hansen ATL 11/29/2003 ATL @ PHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p622
+aVLee Nailon ATL 11/28/2003 ATL vs. MIA W 12 6 3 7 42.9 0 0 - 0 0 - 2 0 2 0 0 0 0 1 -4
+p623
+aVDion Glover ATL 11/28/2003 ATL vs. MIA W 18 5 2 10 20.0 1 1 100.0 0 0 - 2 3 5 1 1 0 0 1 -3
+p624
+aVJason Terry ATL 11/28/2003 ATL vs. MIA W 39 21 7 16 43.8 2 6 33.3 5 5 100.0 0 5 5 8 2 0 1 1 15
+p625
+aVTheo Ratliff ATL 11/28/2003 ATL vs. MIA W 30 6 2 4 50.0 0 0 - 2 2 100.0 2 5 7 0 1 5 2 2 20
+p626
+aVShareef Abdur-Rahim ATL 11/28/2003 ATL vs. MIA W 36 34 11 14 78.6 0 0 - 12 13 92.3 4 8 12 0 3 1 2 2 16
+p627
+aVStephen Jackson ATL 11/28/2003 ATL vs. MIA W 34 15 5 17 29.4 2 8 25.0 3 4 75.0 1 3 4 3 2 0 2 3 13
+p628
+aVBoris Diaw ATL 11/28/2003 ATL vs. MIA W 14 5 2 5 40.0 0 0 - 1 2 50.0 1 4 5 2 0 0 1 1 -1
+p629
+aVJacque Vaughn ATL 11/28/2003 ATL vs. MIA W 34 3 1 4 25.0 0 0 - 1 2 50.0 0 2 2 7 0 0 2 2 10
+p630
+aVNazr Mohammed ATL 11/28/2003 ATL vs. MIA W 17 0 0 6 0.0 0 0 - 0 0 - 3 7 10 0 1 0 1 1 -8
+p631
+aVTravis Hansen ATL 11/28/2003 ATL vs. MIA W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 2
+p632
+aVDion Glover ATL 11/26/2003 ATL vs. TOR L 42 9 1 10 10.0 0 2 0.0 7 8 87.5 2 6 8 3 0 0 1 5 -7
+p633
+aVTravis Hansen ATL 11/26/2003 ATL vs. TOR L 15 4 2 2 100.0 0 0 - 0 0 - 0 3 3 1 1 1 0 1 5
+p634
+aVShareef Abdur-Rahim ATL 11/26/2003 ATL vs. TOR L 46 30 13 20 65.0 0 0 - 4 4 100.0 2 11 13 3 0 0 2 3 1
+p635
+aVNazr Mohammed ATL 11/26/2003 ATL vs. TOR L 16 8 4 7 57.1 0 0 - 0 0 - 0 0 0 0 0 1 1 2 2
+p636
+aVLee Nailon ATL 11/26/2003 ATL vs. TOR L 8 6 3 6 50.0 0 0 - 0 0 - 1 2 3 0 0 0 1 2 -3
+p637
+aVBoris Diaw ATL 11/26/2003 ATL vs. TOR L 34 8 4 7 57.1 0 0 - 0 2 0.0 3 1 4 3 1 1 2 2 4
+p638
+aVJacque Vaughn ATL 11/26/2003 ATL vs. TOR L 28 12 6 8 75.0 0 0 - 0 1 0.0 0 2 2 6 3 0 2 0 3
+p639
+aVTheo Ratliff ATL 11/26/2003 ATL vs. TOR L 37 8 4 11 36.4 0 0 - 0 1 0.0 5 3 8 1 2 2 0 4 -4
+p640
+aVJason Terry ATL 11/26/2003 ATL vs. TOR L 41 12 5 17 29.4 1 6 16.7 1 2 50.0 2 3 5 6 2 0 3 2 -11
+p641
+aVShareef Abdur-Rahim ATL 11/24/2003 ATL vs. DET L 39 26 9 21 42.9 0 1 0.0 8 8 100.0 4 10 14 3 0 0 3 3 -1
+p642
+aVDion Glover ATL 11/24/2003 ATL vs. DET L 39 14 5 12 41.7 1 3 33.3 3 3 100.0 3 6 9 2 1 1 4 5 9
+p643
+aVJacque Vaughn ATL 11/24/2003 ATL vs. DET L 17 2 1 3 33.3 0 0 - 0 0 - 0 3 3 1 1 0 4 3 -17
+p644
+aVChris Crawford ATL 11/24/2003 ATL vs. DET L 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 2 1 -2
+p645
+aVNazr Mohammed ATL 11/24/2003 ATL vs. DET L 15 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -12
+p646
+aVTheo Ratliff ATL 11/24/2003 ATL vs. DET L 33 1 0 3 0.0 0 0 - 1 2 50.0 1 8 9 0 1 5 1 5 7
+p647
+aVJason Terry ATL 11/24/2003 ATL vs. DET L 39 25 7 13 53.8 1 5 20.0 10 10 100.0 0 2 2 4 1 1 2 5 0
+p648
+aVBoris Diaw ATL 11/24/2003 ATL vs. DET L 10 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 1 1 0 1 0 -5
+p649
+aVStephen Jackson ATL 11/24/2003 ATL vs. DET L 40 13 5 10 50.0 2 6 33.3 1 1 100.0 1 4 5 5 1 0 3 2 -4
+p650
+aVStephen Jackson ATL 11/22/2003 ATL vs. CLE W 28 10 5 11 45.5 0 2 0.0 0 0 - 1 2 3 2 2 1 1 4 9
+p651
+aVShareef Abdur-Rahim ATL 11/22/2003 ATL vs. CLE W 34 26 10 15 66.7 0 1 0.0 6 6 100.0 3 6 9 5 1 0 2 0 11
+p652
+aVBoris Diaw ATL 11/22/2003 ATL vs. CLE W 27 4 2 4 50.0 0 0 - 0 0 - 2 3 5 4 1 1 1 1 6
+p653
+aVJacque Vaughn ATL 11/22/2003 ATL vs. CLE W 27 7 3 3 100.0 0 0 - 1 1 100.0 0 2 2 5 1 0 1 3 11
+p654
+aVLee Nailon ATL 11/22/2003 ATL vs. CLE W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -9
+p655
+aVTheo Ratliff ATL 11/22/2003 ATL vs. CLE W 32 5 2 9 22.2 0 0 - 1 2 50.0 1 6 7 2 0 4 2 3 2
+p656
+aVDion Glover ATL 11/22/2003 ATL vs. CLE W 20 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -6
+p657
+aVNazr Mohammed ATL 11/22/2003 ATL vs. CLE W 16 9 3 6 50.0 0 0 - 3 3 100.0 1 6 7 1 0 0 0 2 7
+p658
+aVChris Crawford ATL 11/22/2003 ATL vs. CLE W 9 6 2 3 66.7 0 0 - 2 2 100.0 2 2 4 0 0 1 0 0 7
+p659
+aVJason Terry ATL 11/22/2003 ATL vs. CLE W 42 19 8 23 34.8 2 6 33.3 1 1 100.0 0 7 7 6 2 1 4 1 7
+p660
+aVTravis Hansen ATL 11/21/2003 ATL @ SAS L 16 2 0 3 0.0 0 1 0.0 2 2 100.0 0 3 3 0 0 0 0 2 -13
+p661
+aVStephen Jackson ATL 11/21/2003 ATL @ SAS L 25 8 2 9 22.2 0 1 0.0 4 5 80.0 1 3 4 1 0 0 2 3 -23
+p662
+aVLee Nailon ATL 11/21/2003 ATL @ SAS L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 1 0 0 -4
+p663
+aVChris Crawford ATL 11/21/2003 ATL @ SAS L 18 8 3 7 42.9 0 1 0.0 2 2 100.0 1 0 1 0 0 1 1 1 -5
+p664
+aVShareef Abdur-Rahim ATL 11/21/2003 ATL @ SAS L 26 16 6 13 46.2 0 1 0.0 4 6 66.7 3 4 7 0 3 0 2 1 -30
+p665
+aVDan Dickau ATL 11/21/2003 ATL @ SAS L 19 2 1 6 16.7 0 0 - 0 0 - 2 2 4 2 1 0 2 2 1
+p666
+aVTheo Ratliff ATL 11/21/2003 ATL @ SAS L 19 3 1 2 50.0 0 0 - 1 2 50.0 0 2 2 1 0 3 2 4 -21
+p667
+aVJacque Vaughn ATL 11/21/2003 ATL @ SAS L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 2 1 -22
+p668
+aVJason Terry ATL 11/21/2003 ATL @ SAS L 18 2 1 6 16.7 0 2 0.0 0 0 - 0 1 1 0 0 0 4 1 -20
+p669
+aVDion Glover ATL 11/21/2003 ATL @ SAS L 27 14 4 12 33.3 1 1 100.0 5 5 100.0 2 3 5 2 0 0 1 0 -24
+p670
+aVNazr Mohammed ATL 11/21/2003 ATL @ SAS L 29 10 4 8 50.0 0 0 - 2 4 50.0 1 6 7 0 3 1 2 1 -18
+p671
+aVBoris Diaw ATL 11/21/2003 ATL @ SAS L 23 6 3 10 30.0 0 1 0.0 0 0 - 2 4 6 3 1 0 2 0 -16
+p672
+aVChris Crawford ATL 11/18/2003 ATL @ MIL W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 2
+p673
+aVStephen Jackson ATL 11/18/2003 ATL @ MIL W 26 11 5 13 38.5 1 5 20.0 0 0 - 2 2 4 5 4 0 1 5 -2
+p674
+aVBoris Diaw ATL 11/18/2003 ATL @ MIL W 13 1 0 0 - 0 0 - 1 2 50.0 1 2 3 2 0 1 1 1 7
+p675
+aVLee Nailon ATL 11/18/2003 ATL @ MIL W 13 8 4 9 44.4 0 0 - 0 0 - 3 1 4 1 1 0 1 2 0
+p676
+aVNazr Mohammed ATL 11/18/2003 ATL @ MIL W 17 8 4 7 57.1 0 0 - 0 0 - 3 1 4 0 1 0 2 4 9
+p677
+aVTheo Ratliff ATL 11/18/2003 ATL @ MIL W 26 4 1 6 16.7 0 0 - 2 2 100.0 1 5 6 0 0 1 1 4 1
+p678
+aVJason Terry ATL 11/18/2003 ATL @ MIL W 34 19 8 13 61.5 3 6 50.0 0 0 - 0 3 3 6 0 0 4 4 10
+p679
+aVDion Glover ATL 11/18/2003 ATL @ MIL W 31 12 3 9 33.3 0 2 0.0 6 6 100.0 1 4 5 6 1 0 0 1 10
+p680
+aVTravis Hansen ATL 11/18/2003 ATL @ MIL W 13 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 2 0 0 1 0
+p681
+aVJacque Vaughn ATL 11/18/2003 ATL @ MIL W 25 7 3 4 75.0 0 1 0.0 1 2 50.0 0 5 5 1 0 0 1 2 4
+p682
+aVDan Dickau ATL 11/18/2003 ATL @ MIL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -5
+p683
+aVShareef Abdur-Rahim ATL 11/18/2003 ATL @ MIL W 35 27 8 15 53.3 0 0 - 11 12 91.7 3 8 11 1 0 2 1 2 4
+p684
+aVBoris Diaw ATL 11/17/2003 ATL vs. WAS L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 4 4 1 0 1 4 3 0
+p685
+aVDion Glover ATL 11/17/2003 ATL vs. WAS L 30 13 4 11 36.4 1 4 25.0 4 4 100.0 1 1 2 0 1 0 1 4 -12
+p686
+aVJason Terry ATL 11/17/2003 ATL vs. WAS L 37 25 6 15 40.0 1 3 33.3 12 13 92.3 0 2 2 5 0 0 2 4 -2
+p687
+aVTheo Ratliff ATL 11/17/2003 ATL vs. WAS L 33 9 3 9 33.3 0 0 - 3 6 50.0 6 5 11 1 0 6 1 4 -13
+p688
+aVLee Nailon ATL 11/17/2003 ATL vs. WAS L 9 4 1 1 100.0 0 0 - 2 2 100.0 1 0 1 1 0 2 2 1 -5
+p689
+aVJacque Vaughn ATL 11/17/2003 ATL vs. WAS L 27 9 3 6 50.0 0 0 - 3 3 100.0 0 3 3 3 1 0 1 2 -3
+p690
+aVTravis Hansen ATL 11/17/2003 ATL vs. WAS L 2 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 2
+p691
+aVStephen Jackson ATL 11/17/2003 ATL vs. WAS L 31 5 2 7 28.6 0 3 0.0 1 2 50.0 1 2 3 1 1 1 3 1 -10
+p692
+aVShareef Abdur-Rahim ATL 11/17/2003 ATL vs. WAS L 39 20 7 15 46.7 1 2 50.0 5 5 100.0 4 6 10 0 4 1 5 4 -2
+p693
+aVNazr Mohammed ATL 11/17/2003 ATL vs. WAS L 13 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 0 1 0 4 5 0
+p694
+aVDion Glover ATL 11/15/2003 ATL vs. NJN L 32 13 4 10 40.0 2 3 66.7 3 5 60.0 1 6 7 3 0 1 3 0 -5
+p695
+aVTheo Ratliff ATL 11/15/2003 ATL vs. NJN L 25 8 2 6 33.3 0 0 - 4 6 66.7 0 2 2 1 0 2 0 4 -5
+p696
+aVTravis Hansen ATL 11/15/2003 ATL vs. NJN L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p697
+aVNazr Mohammed ATL 11/15/2003 ATL vs. NJN L 22 13 5 6 83.3 0 0 - 3 6 50.0 4 1 5 0 0 1 2 4 -8
+p698
+aVLee Nailon ATL 11/15/2003 ATL vs. NJN L 9 4 1 4 25.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 4 -6
+p699
+aVJason Terry ATL 11/15/2003 ATL vs. NJN L 35 24 9 16 56.3 1 3 33.3 5 5 100.0 3 5 8 5 2 0 1 1 -19
+p700
+aVDan Dickau ATL 11/15/2003 ATL vs. NJN L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 2 0 0 1 1 4
+p701
+aVBoris Diaw ATL 11/15/2003 ATL vs. NJN L 20 0 0 1 0.0 0 0 - 0 0 - 1 2 3 1 0 1 2 3 -1
+p702
+aVJacque Vaughn ATL 11/15/2003 ATL vs. NJN L 12 2 1 1 100.0 0 0 - 0 0 - 0 2 2 4 1 0 1 1 -4
+p703
+aVChris Crawford ATL 11/15/2003 ATL vs. NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 1 0 1 0 4
+p704
+aVShareef Abdur-Rahim ATL 11/15/2003 ATL vs. NJN L 37 12 3 12 25.0 0 0 - 6 6 100.0 1 3 4 2 0 0 1 5 -15
+p705
+aVStephen Jackson ATL 11/15/2003 ATL vs. NJN L 33 9 4 15 26.7 1 5 20.0 0 0 - 0 4 4 1 0 0 1 1 -17
+p706
+aVJacque Vaughn ATL 11/12/2003 ATL @ PHX W 13 3 1 5 20.0 0 0 - 1 1 100.0 0 0 0 2 0 0 2 2 2
+p707
+aVDion Glover ATL 11/12/2003 ATL @ PHX W 33 23 8 14 57.1 4 5 80.0 3 4 75.0 0 5 5 0 0 0 3 1 0
+p708
+aVTravis Hansen ATL 11/12/2003 ATL @ PHX W 5 4 2 6 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p709
+aVShareef Abdur-Rahim ATL 11/12/2003 ATL @ PHX W 37 16 7 10 70.0 0 1 0.0 2 2 100.0 4 4 8 2 2 1 1 3 6
+p710
+aVTheo Ratliff ATL 11/12/2003 ATL @ PHX W 36 9 3 5 60.0 0 0 - 3 4 75.0 1 8 9 2 0 0 0 3 0
+p711
+aVStephen Jackson ATL 11/12/2003 ATL @ PHX W 38 18 8 17 47.1 2 6 33.3 0 0 - 2 3 5 1 1 0 5 0 5
+p712
+aVBoris Diaw ATL 11/12/2003 ATL @ PHX W 20 2 1 2 50.0 0 0 - 0 0 - 1 3 4 3 1 0 1 1 5
+p713
+aVLee Nailon ATL 11/12/2003 ATL @ PHX W 9 1 0 3 0.0 0 0 - 1 2 50.0 1 1 2 1 1 0 1 2 -1
+p714
+aVJason Terry ATL 11/12/2003 ATL @ PHX W 36 17 5 16 31.3 4 9 44.4 3 3 100.0 1 3 4 7 1 0 2 2 5
+p715
+aVNazr Mohammed ATL 11/12/2003 ATL @ PHX W 13 6 2 3 66.7 0 0 - 2 2 100.0 3 4 7 1 0 0 1 5 3
+p716
+aVTheo Ratliff ATL 11/11/2003 ATL @ LAC L 23 8 4 5 80.0 0 0 - 0 0 - 1 4 5 2 1 2 2 6 -16
+p717
+aVLee Nailon ATL 11/11/2003 ATL @ LAC L 14 6 3 4 75.0 0 0 - 0 0 - 0 2 2 1 0 2 0 0 5
+p718
+aVDion Glover ATL 11/11/2003 ATL @ LAC L 39 22 7 14 50.0 2 4 50.0 6 6 100.0 1 6 7 2 1 0 1 2 -1
+p719
+aVShareef Abdur-Rahim ATL 11/11/2003 ATL @ LAC L 34 23 8 13 61.5 1 2 50.0 6 7 85.7 2 3 5 5 2 0 5 3 -13
+p720
+aVNazr Mohammed ATL 11/11/2003 ATL @ LAC L 25 6 3 6 50.0 0 0 - 0 0 - 2 4 6 1 1 1 0 2 0
+p721
+aVStephen Jackson ATL 11/11/2003 ATL @ LAC L 36 17 7 12 58.3 3 6 50.0 0 0 - 0 2 2 2 1 0 4 2 -22
+p722
+aVJacque Vaughn ATL 11/11/2003 ATL @ LAC L 21 9 4 4 100.0 1 1 100.0 0 0 - 0 0 0 8 0 0 2 2 0
+p723
+aVJason Terry ATL 11/11/2003 ATL @ LAC L 30 12 2 11 18.2 0 4 0.0 8 8 100.0 0 1 1 2 1 1 4 4 -20
+p724
+aVBoris Diaw ATL 11/11/2003 ATL @ LAC L 18 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 2 1 7
+p725
+aVBoris Diaw ATL 11/09/2003 ATL @ SEA W 23 5 2 2 100.0 0 0 - 1 2 50.0 1 4 5 0 1 2 2 4 0
+p726
+aVLee Nailon ATL 11/09/2003 ATL @ SEA W 13 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -10
+p727
+aVStephen Jackson ATL 11/09/2003 ATL @ SEA W 34 15 5 10 50.0 3 6 50.0 2 2 100.0 2 3 5 3 4 1 4 1 8
+p728
+aVChris Crawford ATL 11/09/2003 ATL @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p729
+aVTheo Ratliff ATL 11/09/2003 ATL @ SEA W 38 10 4 7 57.1 0 0 - 2 2 100.0 2 5 7 0 2 4 1 1 22
+p730
+aVDion Glover ATL 11/09/2003 ATL @ SEA W 23 13 5 11 45.5 1 2 50.0 2 2 100.0 0 1 1 2 0 0 3 0 13
+p731
+aVTravis Hansen ATL 11/09/2003 ATL @ SEA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -4
+p732
+aVShareef Abdur-Rahim ATL 11/09/2003 ATL @ SEA W 36 14 6 17 35.3 0 0 - 2 2 100.0 2 9 11 5 2 0 2 3 18
+p733
+aVJason Terry ATL 11/09/2003 ATL @ SEA W 41 23 7 13 53.8 4 7 57.1 5 7 71.4 2 7 9 3 2 0 4 3 23
+p734
+aVNazr Mohammed ATL 11/09/2003 ATL @ SEA W 6 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -2
+p735
+aVJacque Vaughn ATL 11/09/2003 ATL @ SEA W 23 7 3 3 100.0 0 0 - 1 2 50.0 0 2 2 3 1 0 3 1 -10
+p736
+aVDan Dickau ATL 11/09/2003 ATL @ SEA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p737
+aVTheo Ratliff ATL 11/08/2003 ATL @ POR L 34 7 2 4 50.0 0 0 - 3 4 75.0 2 3 5 1 2 6 2 1 2
+p738
+aVNazr Mohammed ATL 11/08/2003 ATL @ POR L 20 4 2 5 40.0 0 0 - 0 0 - 0 4 4 0 0 1 1 0 -11
+p739
+aVLee Nailon ATL 11/08/2003 ATL @ POR L 14 4 2 6 33.3 0 0 - 0 0 - 2 1 3 0 1 0 0 1 -7
+p740
+aVBoris Diaw ATL 11/08/2003 ATL @ POR L 13 6 3 6 50.0 0 2 0.0 0 0 - 3 2 5 2 0 0 1 2 -8
+p741
+aVJacque Vaughn ATL 11/08/2003 ATL @ POR L 15 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 4 0 0 2 1 -8
+p742
+aVDion Glover ATL 11/08/2003 ATL @ POR L 32 14 6 13 46.2 0 4 0.0 2 2 100.0 0 5 5 6 0 0 1 2 2
+p743
+aVShareef Abdur-Rahim ATL 11/08/2003 ATL @ POR L 34 18 6 11 54.5 1 2 50.0 5 6 83.3 1 4 5 3 0 0 4 1 2
+p744
+aVJason Terry ATL 11/08/2003 ATL @ POR L 40 14 7 14 50.0 0 3 0.0 0 0 - 3 6 9 2 1 0 3 1 -6
+p745
+aVStephen Jackson ATL 11/08/2003 ATL @ POR L 38 16 7 18 38.9 1 7 14.3 1 2 50.0 1 8 9 3 2 0 0 2 -1
+p746
+aVStephen Jackson ATL 11/05/2003 ATL @ GSW L 33 9 4 12 33.3 1 4 25.0 0 0 - 1 3 4 5 1 0 5 0 -13
+p747
+aVChris Crawford ATL 11/05/2003 ATL @ GSW L 7 0 0 5 0.0 0 0 - 0 2 0.0 1 0 1 0 1 0 0 0 -2
+p748
+aVDion Glover ATL 11/05/2003 ATL @ GSW L 32 11 4 15 26.7 1 3 33.3 2 2 100.0 3 2 5 0 0 0 1 0 -10
+p749
+aVTheo Ratliff ATL 11/05/2003 ATL @ GSW L 26 8 4 8 50.0 0 0 - 0 2 0.0 1 5 6 0 0 1 2 4 -8
+p750
+aVNazr Mohammed ATL 11/05/2003 ATL @ GSW L 19 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 1 0 2 4 5 -16
+p751
+aVJacque Vaughn ATL 11/05/2003 ATL @ GSW L 26 6 3 8 37.5 0 0 - 0 0 - 0 2 2 3 1 0 0 2 -23
+p752
+aVShareef Abdur-Rahim ATL 11/05/2003 ATL @ GSW L 29 8 2 9 22.2 0 0 - 4 8 50.0 3 9 12 1 2 0 3 4 -12
+p753
+aVBoris Diaw ATL 11/05/2003 ATL @ GSW L 16 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 1 0 1 1 -19
+p754
+aVJason Terry ATL 11/05/2003 ATL @ GSW L 26 13 5 8 62.5 0 2 0.0 3 4 75.0 1 3 4 6 0 0 1 5 -9
+p755
+aVLee Nailon ATL 11/05/2003 ATL @ GSW L 17 8 4 9 44.4 0 0 - 0 0 - 1 2 3 0 2 1 0 4 -18
+p756
+aVTravis Hansen ATL 11/05/2003 ATL @ GSW L 9 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 2 0 0 2 0 -5
+p757
+aVBoris Diaw ATL 11/03/2003 ATL vs. NOH W 14 3 1 1 100.0 0 0 - 1 2 50.0 2 3 5 1 0 0 2 0 -2
+p758
+aVTheo Ratliff ATL 11/03/2003 ATL vs. NOH W 27 6 3 8 37.5 0 0 - 0 2 0.0 4 6 10 0 1 5 4 5 15
+p759
+aVLee Nailon ATL 11/03/2003 ATL vs. NOH W 15 6 2 7 28.6 0 0 - 2 2 100.0 3 4 7 2 1 1 0 3 0
+p760
+aVStephen Jackson ATL 11/03/2003 ATL vs. NOH W 40 19 7 15 46.7 3 8 37.5 2 2 100.0 0 4 4 3 0 0 2 3 11
+p761
+aVNazr Mohammed ATL 11/03/2003 ATL vs. NOH W 16 10 4 8 50.0 0 0 - 2 3 66.7 2 2 4 0 1 0 0 2 -10
+p762
+aVDion Glover ATL 11/03/2003 ATL vs. NOH W 42 20 8 21 38.1 2 6 33.3 2 2 100.0 3 5 8 5 2 0 5 4 11
+p763
+aVJacque Vaughn ATL 11/03/2003 ATL vs. NOH W 48 8 2 9 22.2 0 1 0.0 4 6 66.7 0 3 3 7 1 0 2 3 10
+p764
+aVShareef Abdur-Rahim ATL 11/03/2003 ATL vs. NOH W 38 18 8 13 61.5 0 0 - 2 4 50.0 4 5 9 2 0 1 0 2 15
+p765
+aVTheo Ratliff ATL 11/01/2003 ATL vs. IND L 38 6 3 4 75.0 0 0 - 0 0 - 1 8 9 4 1 6 1 5 2
+p766
+aVStephen Jackson ATL 11/01/2003 ATL vs. IND L 43 16 7 18 38.9 2 5 40.0 0 0 - 0 5 5 3 1 0 2 4 -5
+p767
+aVJason Terry ATL 11/01/2003 ATL vs. IND L 47 29 10 15 66.7 2 4 50.0 7 13 53.8 1 3 4 8 1 1 3 4 -9
+p768
+aVBoris Diaw ATL 11/01/2003 ATL vs. IND L 17 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 1 2 1 -5
+p769
+aVDion Glover ATL 11/01/2003 ATL vs. IND L 38 14 5 16 31.3 1 4 25.0 3 4 75.0 1 3 4 2 1 0 2 2 1
+p770
+aVShareef Abdur-Rahim ATL 11/01/2003 ATL vs. IND L 43 26 8 14 57.1 1 2 50.0 9 10 90.0 1 9 10 3 0 1 4 2 -8
+p771
+aVLee Nailon ATL 11/01/2003 ATL vs. IND L 13 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 0 1 0 0 2 2
+p772
+aVJacque Vaughn ATL 11/01/2003 ATL vs. IND L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 1 4 -1
+p773
+aVNazr Mohammed ATL 11/01/2003 ATL vs. IND L 12 0 0 4 0.0 0 0 - 0 2 0.0 0 3 3 0 0 0 1 3 3
+p774
+aVStephen Jackson ATL 10/31/2003 ATL @ CHI L 40 17 7 12 58.3 1 2 50.0 2 3 66.7 1 1 2 2 2 0 0 2 -6
+p775
+aVNazr Mohammed ATL 10/31/2003 ATL @ CHI L 24 11 3 7 42.9 0 0 - 5 7 71.4 4 3 7 1 0 0 2 1 4
+p776
+aVBoris Diaw ATL 10/31/2003 ATL @ CHI L 20 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 0 3 2 0
+p777
+aVJacque Vaughn ATL 10/31/2003 ATL @ CHI L 15 4 2 3 66.7 0 0 - 0 0 - 1 3 4 4 0 0 0 4 0
+p778
+aVTheo Ratliff ATL 10/31/2003 ATL @ CHI L 32 8 3 13 23.1 0 0 - 2 3 66.7 2 7 9 0 1 6 2 6 -9
+p779
+aVLee Nailon ATL 10/31/2003 ATL @ CHI L 11 6 3 6 50.0 0 0 - 0 0 - 1 1 2 2 0 0 0 1 -1
+p780
+aVShareef Abdur-Rahim ATL 10/31/2003 ATL @ CHI L 29 10 4 13 30.8 0 0 - 2 2 100.0 2 8 10 4 0 1 0 6 -4
+p781
+aVJason Terry ATL 10/31/2003 ATL @ CHI L 33 24 8 15 53.3 5 6 83.3 3 4 75.0 1 3 4 5 3 0 4 3 -7
+p782
+aVDion Glover ATL 10/31/2003 ATL @ CHI L 37 14 6 20 30.0 1 4 25.0 1 2 50.0 1 6 7 3 0 0 4 4 -7
+p783
+aVDion Glover ATL 10/29/2003 ATL @ NOH L 38 14 5 13 38.5 0 1 0.0 4 6 66.7 1 4 5 4 2 1 1 0 10
+p784
+aVBoris Diaw ATL 10/29/2003 ATL @ NOH L 12 2 0 0 - 0 0 - 2 4 50.0 0 3 3 1 1 2 2 0 -9
+p785
+aVNazr Mohammed ATL 10/29/2003 ATL @ NOH L 26 7 3 7 42.9 0 0 - 1 2 50.0 3 6 9 1 0 3 4 2 -8
+p786
+aVLee Nailon ATL 10/29/2003 ATL @ NOH L 12 6 2 3 66.7 0 0 - 2 2 100.0 1 5 6 1 0 0 2 3 -8
+p787
+aVTheo Ratliff ATL 10/29/2003 ATL @ NOH L 33 4 2 8 25.0 0 0 - 0 0 - 2 4 6 1 0 5 3 5 10
+p788
+aVJason Terry ATL 10/29/2003 ATL @ NOH L 43 15 6 15 40.0 0 2 0.0 3 3 100.0 0 9 9 6 1 0 3 3 -6
+p789
+aVShareef Abdur-Rahim ATL 10/29/2003 ATL @ NOH L 39 10 5 15 33.3 0 0 - 0 0 - 3 13 16 2 1 0 1 3 -1
+p790
+aVStephen Jackson ATL 10/29/2003 ATL @ NOH L 44 21 8 18 44.4 3 10 30.0 2 2 100.0 0 3 3 2 2 0 7 3 -4
+p791
+aVJacque Vaughn ATL 10/29/2003 ATL @ NOH L 18 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 2 1 -9
+p792
+a.

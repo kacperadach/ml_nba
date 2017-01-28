@@ -1,0 +1,56 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVSteve Alford DAL 05/01/1990 DAL vs. POR L 14 10 4 8 50.0 0 2 0.0 2 2 100.0 0 0 0 2 0 0 0 1 -
+p2
+aVAnthony Jones DAL 05/01/1990 DAL vs. POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p3
+aVDerek Harper DAL 05/01/1990 DAL vs. POR L 35 11 5 14 35.7 1 4 25.0 0 0 - 0 2 2 12 1 0 3 5 -
+p4
+aVBill Wennington DAL 05/01/1990 DAL vs. POR L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 1 1 1 -
+p5
+aVRoy Tarpley DAL 05/01/1990 DAL vs. POR L 42 6 2 12 16.7 0 1 0.0 2 8 25.0 2 13 15 0 3 2 5 3 -
+p6
+aVJames Donaldson DAL 05/01/1990 DAL vs. POR L 28 12 6 7 85.7 0 0 - 0 1 0.0 4 4 8 1 2 0 2 5 -
+p7
+aVHerb Williams DAL 05/01/1990 DAL vs. POR L 29 17 6 11 54.5 0 0 - 5 8 62.5 3 5 8 2 1 1 2 5 -
+p8
+aVRolando Blackman DAL 05/01/1990 DAL vs. POR L 46 23 11 22 50.0 1 3 33.3 0 0 - 1 3 4 4 2 1 4 3 -
+p9
+aVSam Perkins DAL 05/01/1990 DAL vs. POR L 36 13 5 12 41.7 0 0 - 3 4 75.0 4 4 8 1 0 0 2 6 -
+p10
+aVRoy Tarpley DAL 04/28/1990 DAL @ POR L 48 22 9 16 56.3 0 0 - 4 4 100.0 5 12 17 1 1 3 3 4 -
+p11
+aVRandy White DAL 04/28/1990 DAL @ POR L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p12
+aVDerek Harper DAL 04/28/1990 DAL @ POR L 41 23 7 20 35.0 2 7 28.6 7 9 77.8 1 2 3 4 1 0 3 5 -
+p13
+aVSteve Alford DAL 04/28/1990 DAL @ POR L 11 8 2 5 40.0 2 2 100.0 2 2 100.0 1 2 3 2 0 0 2 2 -
+p14
+aVJames Donaldson DAL 04/28/1990 DAL @ POR L 13 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 1 0 0 1 1 -
+p15
+aVSam Perkins DAL 04/28/1990 DAL @ POR L 41 14 6 10 60.0 0 0 - 2 3 66.7 3 4 7 3 0 2 2 6 -
+p16
+aVRolando Blackman DAL 04/28/1990 DAL @ POR L 44 22 7 15 46.7 0 0 - 8 8 100.0 0 3 3 5 4 1 6 1 -
+p17
+aVBill Wennington DAL 04/28/1990 DAL @ POR L 12 0 0 3 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -
+p18
+aVHerb Williams DAL 04/28/1990 DAL @ POR L 28 14 4 7 57.1 0 0 - 6 6 100.0 1 2 3 1 0 0 1 5 -
+p19
+aVSteve Alford DAL 04/26/1990 DAL @ POR L 17 5 2 5 40.0 0 2 0.0 1 1 100.0 0 0 0 4 1 0 1 1 -
+p20
+aVHerb Williams DAL 04/26/1990 DAL @ POR L 24 10 4 5 80.0 0 0 - 2 2 100.0 0 2 2 2 0 1 0 6 -
+p21
+aVDerek Harper DAL 04/26/1990 DAL @ POR L 43 24 9 14 64.3 2 5 40.0 4 7 57.1 1 2 3 7 2 0 6 3 -
+p22
+aVBill Wennington DAL 04/26/1990 DAL @ POR L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p23
+aVSam Perkins DAL 04/26/1990 DAL @ POR L 41 18 5 14 35.7 0 1 0.0 8 10 80.0 3 4 7 4 3 0 3 5 -
+p24
+aVJames Donaldson DAL 04/26/1990 DAL @ POR L 33 6 2 5 40.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 -
+p25
+aVRoy Tarpley DAL 04/26/1990 DAL @ POR L 39 22 11 18 61.1 0 0 - 0 0 - 2 12 14 0 3 5 1 5 -
+p26
+aVRolando Blackman DAL 04/26/1990 DAL @ POR L 37 15 6 17 35.3 1 2 50.0 2 2 100.0 1 1 2 4 0 0 3 3 -
+p27
+a.

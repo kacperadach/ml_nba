@@ -1,0 +1,1540 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVShawn Marion PHX 04/20/2005 PHX @ SAC L 18 0 0 5 0.0 0 3 0.0 0 0 - 0 4 4 0 1 0 0 0 -8
+p2
+aVAmar'e Stoudemire PHX 04/20/2005 PHX @ SAC L 31 30 10 17 58.8 2 2 100.0 8 11 72.7 5 6 11 2 0 3 2 2 -8
+p3
+aVBo Outlaw PHX 04/20/2005 PHX @ SAC L 8 1 0 0 - 0 0 - 1 2 50.0 1 3 4 0 0 0 0 2 -3
+p4
+aVJake Voskuhl PHX 04/20/2005 PHX @ SAC L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -6
+p5
+aVLeandro Barbosa PHX 04/20/2005 PHX @ SAC L 42 16 7 13 53.8 1 4 25.0 1 1 100.0 1 3 4 4 2 0 4 3 -8
+p6
+aVWalter McCarty PHX 04/20/2005 PHX @ SAC L 12 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 1 0 3 1 -4
+p7
+aVPaul Shirley PHX 04/20/2005 PHX @ SAC L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p8
+aVJim Jackson PHX 04/20/2005 PHX @ SAC L 34 11 3 15 20.0 2 5 40.0 3 3 100.0 0 5 5 3 0 0 2 1 -29
+p9
+aVSteven Hunter PHX 04/20/2005 PHX @ SAC L 16 10 2 3 66.7 0 0 - 6 7 85.7 1 3 4 0 0 2 1 3 -16
+p10
+aVQuentin Richardson PHX 04/20/2005 PHX @ SAC L 37 17 6 18 33.3 5 14 35.7 0 0 - 0 5 5 1 1 0 1 3 -21
+p11
+aVJoe Johnson PHX 04/20/2005 PHX @ SAC L 34 19 9 15 60.0 1 1 100.0 0 0 - 0 3 3 6 2 0 3 3 -16
+p12
+aVBo Outlaw PHX 04/18/2005 PHX vs. DEN W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -11
+p13
+aVQuentin Richardson PHX 04/18/2005 PHX vs. DEN W 31 16 5 14 35.7 2 7 28.6 4 4 100.0 0 3 3 1 1 0 1 4 18
+p14
+aVSteve Nash PHX 04/18/2005 PHX vs. DEN W 26 8 2 2 100.0 2 2 100.0 2 2 100.0 0 0 0 13 2 0 4 1 2
+p15
+aVJim Jackson PHX 04/18/2005 PHX vs. DEN W 28 10 4 8 50.0 2 4 50.0 0 0 - 0 6 6 2 0 0 5 3 2
+p16
+aVJake Voskuhl PHX 04/18/2005 PHX vs. DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -11
+p17
+aVPaul Shirley PHX 04/18/2005 PHX vs. DEN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p18
+aVSteven Hunter PHX 04/18/2005 PHX vs. DEN W 12 7 3 5 60.0 0 0 - 1 2 50.0 1 3 4 0 0 1 0 0 9
+p19
+aVAmar'e Stoudemire PHX 04/18/2005 PHX vs. DEN W 33 26 8 14 57.1 0 0 - 10 14 71.4 2 3 5 3 0 1 4 4 16
+p20
+aVJoe Johnson PHX 04/18/2005 PHX vs. DEN W 35 26 10 14 71.4 6 8 75.0 0 0 - 0 6 6 0 1 0 2 4 23
+p21
+aVWalter McCarty PHX 04/18/2005 PHX vs. DEN W 11 7 3 4 75.0 1 2 50.0 0 0 - 0 2 2 1 2 0 0 2 3
+p22
+aVLeandro Barbosa PHX 04/18/2005 PHX vs. DEN W 22 8 2 3 66.7 1 1 100.0 3 4 75.0 0 3 3 4 0 0 1 2 12
+p23
+aVShawn Marion PHX 04/18/2005 PHX vs. DEN W 31 18 8 13 61.5 0 3 0.0 2 2 100.0 3 6 9 3 3 3 1 2 18
+p24
+aVLeandro Barbosa PHX 04/16/2005 PHX vs. SAC W 21 17 5 5 100.0 0 0 - 7 8 87.5 2 4 6 3 1 0 0 3 -8
+p25
+aVQuentin Richardson PHX 04/16/2005 PHX vs. SAC W 32 7 2 9 22.2 1 6 16.7 2 2 100.0 0 6 6 3 0 0 0 2 17
+p26
+aVBo Outlaw PHX 04/16/2005 PHX vs. SAC W 7 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -4
+p27
+aVAmar'e Stoudemire PHX 04/16/2005 PHX vs. SAC W 33 38 15 23 65.2 0 1 0.0 8 11 72.7 2 7 9 0 0 3 1 2 28
+p28
+aVSteven Hunter PHX 04/16/2005 PHX vs. SAC W 6 1 0 0 - 0 0 - 1 4 25.0 1 0 1 0 0 1 1 1 -9
+p29
+aVShawn Marion PHX 04/16/2005 PHX vs. SAC W 31 17 5 11 45.5 1 3 33.3 6 6 100.0 3 5 8 1 2 3 0 0 32
+p30
+aVSteve Nash PHX 04/16/2005 PHX vs. SAC W 27 4 2 3 66.7 0 0 - 0 0 - 0 6 6 11 0 0 3 2 26
+p31
+aVJim Jackson PHX 04/16/2005 PHX vs. SAC W 22 4 2 7 28.6 0 4 0.0 0 0 - 1 5 6 4 0 0 0 3 -6
+p32
+aVPaul Shirley PHX 04/16/2005 PHX vs. SAC W 4 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -5
+p33
+aVJoe Johnson PHX 04/16/2005 PHX vs. SAC W 35 22 9 15 60.0 4 5 80.0 0 0 - 0 4 4 3 0 0 1 3 29
+p34
+aVWalter McCarty PHX 04/16/2005 PHX vs. SAC W 10 2 1 4 25.0 0 3 0.0 0 0 - 0 3 3 0 1 1 2 3 -2
+p35
+aVJake Voskuhl PHX 04/16/2005 PHX vs. SAC W 12 2 1 4 25.0 0 0 - 0 0 - 1 2 3 1 0 0 2 2 -8
+p36
+aVShawn Marion PHX 04/15/2005 PHX vs. LAC W 41 20 8 18 44.4 4 9 44.4 0 0 - 4 6 10 0 2 2 3 3 13
+p37
+aVWalter McCarty PHX 04/15/2005 PHX vs. LAC W 4 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -6
+p38
+aVSteven Hunter PHX 04/15/2005 PHX vs. LAC W 17 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 9
+p39
+aVSteve Nash PHX 04/15/2005 PHX vs. LAC W 41 14 6 17 35.3 0 4 0.0 2 2 100.0 2 1 3 11 1 0 4 2 6
+p40
+aVJoe Johnson PHX 04/15/2005 PHX vs. LAC W 45 20 8 17 47.1 3 7 42.9 1 2 50.0 3 4 7 2 3 0 2 2 14
+p41
+aVJim Jackson PHX 04/15/2005 PHX vs. LAC W 34 8 2 12 16.7 2 5 40.0 2 2 100.0 1 4 5 3 0 0 0 0 7
+p42
+aVLeandro Barbosa PHX 04/15/2005 PHX vs. LAC W 17 12 5 8 62.5 0 1 0.0 2 4 50.0 0 2 2 1 0 0 1 0 -12
+p43
+aVAmar'e Stoudemire PHX 04/15/2005 PHX vs. LAC W 41 24 5 15 33.3 0 0 - 14 16 87.5 9 8 17 1 2 3 1 3 4
+p44
+aVJim Jackson PHX 04/12/2005 PHX vs. NOH W 43 20 7 9 77.8 6 7 85.7 0 0 - 0 8 8 1 0 0 1 1 19
+p45
+aVShawn Marion PHX 04/12/2005 PHX vs. NOH W 40 18 7 21 33.3 3 9 33.3 1 2 50.0 1 16 17 0 3 6 5 3 19
+p46
+aVLeandro Barbosa PHX 04/12/2005 PHX vs. NOH W 20 9 4 10 40.0 1 3 33.3 0 0 - 1 0 1 2 0 1 1 3 3
+p47
+aVAmar'e Stoudemire PHX 04/12/2005 PHX vs. NOH W 36 27 6 13 46.2 0 0 - 15 16 93.8 2 9 11 1 0 2 2 4 18
+p48
+aVWalter McCarty PHX 04/12/2005 PHX vs. NOH W 11 3 1 3 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 0 2 -6
+p49
+aVJoe Johnson PHX 04/12/2005 PHX vs. NOH W 42 16 5 11 45.5 2 3 66.7 4 6 66.7 2 4 6 3 0 0 1 0 13
+p50
+aVSteven Hunter PHX 04/12/2005 PHX vs. NOH W 12 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 1 0 -4
+p51
+aVSteve Nash PHX 04/12/2005 PHX vs. NOH W 36 6 3 11 27.3 0 2 0.0 0 0 - 2 1 3 13 1 0 2 1 8
+p52
+aVJoe Johnson PHX 04/11/2005 PHX @ LAL W 45 26 10 19 52.6 6 10 60.0 0 0 - 2 2 4 7 1 0 2 2 18
+p53
+aVQuentin Richardson PHX 04/11/2005 PHX @ LAL W 5 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 0 -4
+p54
+aVAmar'e Stoudemire PHX 04/11/2005 PHX @ LAL W 25 10 4 8 50.0 0 0 - 2 7 28.6 3 3 6 1 1 1 0 4 16
+p55
+aVSteve Nash PHX 04/11/2005 PHX @ LAL W 40 15 6 12 50.0 3 4 75.0 0 1 0.0 1 6 7 16 1 0 4 0 18
+p56
+aVJim Jackson PHX 04/11/2005 PHX @ LAL W 35 25 9 17 52.9 7 11 63.6 0 0 - 1 5 6 1 1 1 1 3 9
+p57
+aVShawn Marion PHX 04/11/2005 PHX @ LAL W 42 24 10 16 62.5 2 6 33.3 2 4 50.0 2 11 13 3 2 0 2 0 16
+p58
+aVLeandro Barbosa PHX 04/11/2005 PHX @ LAL W 16 5 2 4 50.0 1 2 50.0 0 0 - 0 1 1 2 0 0 1 2 -1
+p59
+aVSteven Hunter PHX 04/11/2005 PHX @ LAL W 17 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 3 -12
+p60
+aVWalter McCarty PHX 04/11/2005 PHX @ LAL W 9 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 1 1 0 0 1 -12
+p61
+aVJake Voskuhl PHX 04/11/2005 PHX @ LAL W 6 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 3 7
+p62
+aVLeandro Barbosa PHX 04/09/2005 PHX vs. HOU L 12 2 0 2 0.0 0 2 0.0 2 2 100.0 0 2 2 3 0 0 1 1 -5
+p63
+aVSteven Hunter PHX 04/09/2005 PHX vs. HOU L 16 3 1 6 16.7 0 0 - 1 2 50.0 5 2 7 0 0 0 0 1 -3
+p64
+aVJoe Johnson PHX 04/09/2005 PHX vs. HOU L 45 16 7 14 50.0 2 7 28.6 0 0 - 2 7 9 2 0 0 1 1 0
+p65
+aVJim Jackson PHX 04/09/2005 PHX vs. HOU L 19 5 2 6 33.3 1 3 33.3 0 0 - 1 1 2 3 0 0 0 3 -8
+p66
+aVQuentin Richardson PHX 04/09/2005 PHX vs. HOU L 32 0 0 7 0.0 0 5 0.0 0 0 - 0 3 3 2 0 0 1 3 6
+p67
+aVAmar'e Stoudemire PHX 04/09/2005 PHX vs. HOU L 36 32 11 20 55.0 0 0 - 10 12 83.3 6 6 12 1 2 3 2 6 3
+p68
+aVShawn Marion PHX 04/09/2005 PHX vs. HOU L 39 20 9 16 56.3 2 6 33.3 0 0 - 1 8 9 3 0 1 1 2 -11
+p69
+aVWalter McCarty PHX 04/09/2005 PHX vs. HOU L 5 0 0 1 0.0 0 1 0.0 0 0 - 1 4 5 1 0 0 1 2 9
+p70
+aVSteve Nash PHX 04/09/2005 PHX vs. HOU L 36 19 8 19 42.1 3 7 42.9 0 0 - 1 2 3 5 0 1 3 1 4
+p71
+aVJoe Johnson PHX 04/08/2005 PHX @ GSW L 41 24 8 17 47.1 4 8 50.0 4 6 66.7 0 3 3 4 1 1 0 2 -3
+p72
+aVQuentin Richardson PHX 04/08/2005 PHX @ GSW L 35 10 4 13 30.8 2 7 28.6 0 0 - 2 5 7 3 1 1 1 4 -6
+p73
+aVShawn Marion PHX 04/08/2005 PHX @ GSW L 40 15 7 17 41.2 1 5 20.0 0 0 - 1 9 10 2 1 3 1 1 -6
+p74
+aVJim Jackson PHX 04/08/2005 PHX @ GSW L 19 8 3 8 37.5 2 4 50.0 0 0 - 0 1 1 1 1 0 1 2 -7
+p75
+aVAmar'e Stoudemire PHX 04/08/2005 PHX @ GSW L 42 44 15 25 60.0 0 1 0.0 14 15 93.3 7 9 16 5 1 2 3 5 -4
+p76
+aVSteven Hunter PHX 04/08/2005 PHX @ GSW L 15 4 1 2 50.0 0 0 - 2 2 100.0 1 1 2 0 0 2 0 0 -6
+p77
+aVLeandro Barbosa PHX 04/08/2005 PHX @ GSW L 15 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 3 0 0 1 1 -11
+p78
+aVSteve Nash PHX 04/08/2005 PHX @ GSW L 33 11 4 12 33.3 2 5 40.0 1 1 100.0 2 1 3 12 4 1 6 3 3
+p79
+aVJake Voskuhl PHX 04/05/2005 PHX vs. LAL W 3 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 7
+p80
+aVAmar'e Stoudemire PHX 04/05/2005 PHX vs. LAL W 33 23 9 13 69.2 0 0 - 5 6 83.3 4 4 8 2 1 1 2 3 11
+p81
+aVJoe Johnson PHX 04/05/2005 PHX vs. LAL W 34 8 4 9 44.4 0 3 0.0 0 0 - 1 1 2 5 2 1 2 2 12
+p82
+aVJim Jackson PHX 04/05/2005 PHX vs. LAL W 26 9 4 7 57.1 1 3 33.3 0 0 - 0 1 1 3 0 0 3 3 18
+p83
+aVQuentin Richardson PHX 04/05/2005 PHX vs. LAL W 32 25 9 18 50.0 7 14 50.0 0 0 - 1 9 10 1 2 2 2 0 16
+p84
+aVPaul Shirley PHX 04/05/2005 PHX vs. LAL W 3 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 7
+p85
+aVSteve Nash PHX 04/05/2005 PHX vs. LAL W 24 8 4 8 50.0 0 1 0.0 0 0 - 1 3 4 9 0 1 2 0 10
+p86
+aVSteven Hunter PHX 04/05/2005 PHX vs. LAL W 15 5 1 1 100.0 0 0 - 3 4 75.0 0 3 3 0 0 3 0 0 7
+p87
+aVWalter McCarty PHX 04/05/2005 PHX vs. LAL W 11 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 1 0 0 0 0 2
+p88
+aVBo Outlaw PHX 04/05/2005 PHX vs. LAL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 0 1 6
+p89
+aVLeandro Barbosa PHX 04/05/2005 PHX vs. LAL W 24 14 5 8 62.5 4 6 66.7 0 0 - 1 4 5 7 0 0 2 3 16
+p90
+aVShawn Marion PHX 04/05/2005 PHX vs. LAL W 31 22 8 16 50.0 4 9 44.4 2 2 100.0 4 8 12 4 1 0 2 3 18
+p91
+aVAmar'e Stoudemire PHX 04/03/2005 PHX @ HOU W 26 9 4 9 44.4 0 0 - 1 4 25.0 2 12 14 4 0 2 1 5 -3
+p92
+aVSteve Nash PHX 04/03/2005 PHX @ HOU W 35 5 2 8 25.0 1 4 25.0 0 0 - 0 0 0 11 2 0 6 0 8
+p93
+aVQuentin Richardson PHX 04/03/2005 PHX @ HOU W 37 11 4 9 44.4 3 6 50.0 0 2 0.0 0 7 7 4 2 0 1 0 3
+p94
+aVLeandro Barbosa PHX 04/03/2005 PHX @ HOU W 13 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 5 0 0 2 2 5
+p95
+aVSteven Hunter PHX 04/03/2005 PHX @ HOU W 25 9 4 8 50.0 0 0 - 1 6 16.7 2 3 5 0 0 0 1 3 11
+p96
+aVJim Jackson PHX 04/03/2005 PHX @ HOU W 21 15 5 10 50.0 3 5 60.0 2 2 100.0 0 5 5 2 0 0 1 2 6
+p97
+aVJoe Johnson PHX 04/03/2005 PHX @ HOU W 40 19 8 15 53.3 3 6 50.0 0 0 - 0 4 4 0 0 0 2 1 20
+p98
+aVShawn Marion PHX 04/03/2005 PHX @ HOU W 42 23 9 20 45.0 2 5 40.0 3 4 75.0 7 11 18 2 2 2 1 1 15
+p99
+aVSteven Hunter PHX 04/01/2005 PHX vs. MIN W 15 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -10
+p100
+aVLeandro Barbosa PHX 04/01/2005 PHX vs. MIN W 12 3 1 3 33.3 0 0 - 1 1 100.0 0 1 1 1 0 0 1 1 -4
+p101
+aVJoe Johnson PHX 04/01/2005 PHX vs. MIN W 36 15 6 15 40.0 3 7 42.9 0 0 - 2 2 4 1 1 0 0 4 12
+p102
+aVAmar'e Stoudemire PHX 04/01/2005 PHX vs. MIN W 39 22 8 17 47.1 0 0 - 6 13 46.2 4 5 9 5 1 1 1 4 18
+p103
+aVQuentin Richardson PHX 04/01/2005 PHX vs. MIN W 35 18 6 13 46.2 5 11 45.5 1 2 50.0 1 6 7 3 1 0 0 3 9
+p104
+aVSteve Nash PHX 04/01/2005 PHX vs. MIN W 36 28 10 15 66.7 4 5 80.0 4 4 100.0 0 2 2 11 0 0 3 2 13
+p105
+aVShawn Marion PHX 04/01/2005 PHX vs. MIN W 41 14 5 22 22.7 1 3 33.3 3 5 60.0 5 11 16 2 3 2 1 3 14
+p106
+aVJim Jackson PHX 04/01/2005 PHX vs. MIN W 26 3 1 7 14.3 1 4 25.0 0 0 - 0 6 6 0 0 0 1 2 -7
+p107
+aVQuentin Richardson PHX 03/30/2005 PHX vs. PHI W 32 20 7 15 46.7 4 11 36.4 2 3 66.7 2 5 7 2 1 0 2 2 15
+p108
+aVJoe Johnson PHX 03/30/2005 PHX vs. PHI W 34 20 8 16 50.0 4 6 66.7 0 1 0.0 0 7 7 7 3 0 3 3 20
+p109
+aVSteve Nash PHX 03/30/2005 PHX vs. PHI W 27 12 4 7 57.1 0 0 - 4 4 100.0 2 11 13 12 0 0 3 1 19
+p110
+aVPaul Shirley PHX 03/30/2005 PHX vs. PHI W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p111
+aVShawn Marion PHX 03/30/2005 PHX vs. PHI W 31 26 12 19 63.2 0 3 0.0 2 3 66.7 1 8 9 0 2 1 1 0 9
+p112
+aVJake Voskuhl PHX 03/30/2005 PHX vs. PHI W 18 6 2 3 66.7 0 0 - 2 3 66.7 0 0 0 1 0 1 1 3 21
+p113
+aVBo Outlaw PHX 03/30/2005 PHX vs. PHI W 6 0 0 4 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 6
+p114
+aVLeandro Barbosa PHX 03/30/2005 PHX vs. PHI W 18 7 2 4 50.0 1 2 50.0 2 2 100.0 0 5 5 2 1 1 1 5 9
+p115
+aVJim Jackson PHX 03/30/2005 PHX vs. PHI W 27 19 6 11 54.5 3 5 60.0 4 4 100.0 1 3 4 3 0 0 1 1 18
+p116
+aVWalter McCarty PHX 03/30/2005 PHX vs. PHI W 14 0 0 3 0.0 0 3 0.0 0 0 - 0 4 4 0 0 1 2 2 19
+p117
+aVSteven Hunter PHX 03/30/2005 PHX vs. PHI W 30 5 2 5 40.0 0 0 - 1 4 25.0 2 1 3 1 1 5 1 3 8
+p118
+aVWalter McCarty PHX 03/28/2005 PHX vs. DEN W 13 5 2 4 50.0 1 2 50.0 0 2 0.0 0 2 2 0 2 0 2 1 -4
+p119
+aVSteven Hunter PHX 03/28/2005 PHX vs. DEN W 23 14 6 7 85.7 0 0 - 2 6 33.3 3 3 6 1 0 1 1 3 -3
+p120
+aVLeandro Barbosa PHX 03/28/2005 PHX vs. DEN W 14 7 3 8 37.5 1 3 33.3 0 0 - 0 0 0 1 1 0 3 1 -5
+p121
+aVJake Voskuhl PHX 03/28/2005 PHX vs. DEN W 21 4 1 4 25.0 0 0 - 2 4 50.0 2 1 3 0 0 0 1 5 10
+p122
+aVJoe Johnson PHX 03/28/2005 PHX vs. DEN W 43 23 9 16 56.3 2 2 100.0 3 3 100.0 1 1 2 3 1 0 2 2 7
+p123
+aVJim Jackson PHX 03/28/2005 PHX vs. DEN W 12 4 1 5 20.0 0 2 0.0 2 2 100.0 2 1 3 1 0 0 2 1 -5
+p124
+aVQuentin Richardson PHX 03/28/2005 PHX vs. DEN W 35 13 4 10 40.0 2 4 50.0 3 4 75.0 2 6 8 2 3 0 1 4 21
+p125
+aVSteve Nash PHX 03/28/2005 PHX vs. DEN W 37 23 7 10 70.0 1 1 100.0 8 10 80.0 1 0 1 12 1 0 6 2 14
+p126
+aVShawn Marion PHX 03/28/2005 PHX vs. DEN W 42 30 11 16 68.8 3 8 37.5 5 5 100.0 2 12 14 3 0 0 0 1 10
+p127
+aVQuentin Richardson PHX 03/26/2005 PHX @ ORL W 20 4 2 5 40.0 0 3 0.0 0 0 - 0 0 0 0 2 0 4 4 6
+p128
+aVAmar'e Stoudemire PHX 03/26/2005 PHX @ ORL W 37 14 3 7 42.9 0 0 - 8 13 61.5 0 7 7 1 1 1 5 6 13
+p129
+aVShawn Marion PHX 03/26/2005 PHX @ ORL W 35 27 11 18 61.1 3 6 50.0 2 2 100.0 3 11 14 0 1 0 1 5 7
+p130
+aVJim Jackson PHX 03/26/2005 PHX @ ORL W 25 11 4 10 40.0 1 7 14.3 2 2 100.0 1 4 5 4 0 0 2 3 -7
+p131
+aVSteve Nash PHX 03/26/2005 PHX @ ORL W 36 23 7 13 53.8 1 2 50.0 8 8 100.0 2 2 4 12 4 0 3 2 5
+p132
+aVJoe Johnson PHX 03/26/2005 PHX @ ORL W 45 26 10 17 58.8 4 5 80.0 2 3 66.7 3 1 4 4 2 0 2 3 3
+p133
+aVLeandro Barbosa PHX 03/26/2005 PHX @ ORL W 17 11 4 7 57.1 1 3 33.3 2 2 100.0 1 0 1 3 0 0 1 2 -1
+p134
+aVWalter McCarty PHX 03/26/2005 PHX @ ORL W 13 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 2 2 -3
+p135
+aVSteven Hunter PHX 03/26/2005 PHX @ ORL W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -13
+p136
+aVQuentin Richardson PHX 03/25/2005 PHX @ MIA L 36 26 9 18 50.0 4 11 36.4 4 5 80.0 0 3 3 0 2 1 1 4 -1
+p137
+aVJoe Johnson PHX 03/25/2005 PHX @ MIA L 32 5 2 8 25.0 1 1 100.0 0 0 - 2 1 3 2 2 0 1 2 -6
+p138
+aVJim Jackson PHX 03/25/2005 PHX @ MIA L 18 5 2 6 33.3 1 3 33.3 0 0 - 0 1 1 1 0 0 1 1 -13
+p139
+aVLeandro Barbosa PHX 03/25/2005 PHX @ MIA L 21 18 7 10 70.0 2 3 66.7 2 3 66.7 0 1 1 2 0 0 2 3 -10
+p140
+aVWalter McCarty PHX 03/25/2005 PHX @ MIA L 8 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -1
+p141
+aVShawn Marion PHX 03/25/2005 PHX @ MIA L 40 15 5 14 35.7 1 3 33.3 4 5 80.0 2 9 11 1 3 2 2 3 -9
+p142
+aVSteve Nash PHX 03/25/2005 PHX @ MIA L 37 19 5 8 62.5 1 1 100.0 8 8 100.0 1 4 5 14 0 0 3 1 0
+p143
+aVSteven Hunter PHX 03/25/2005 PHX @ MIA L 7 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 1 0 0 -4
+p144
+aVAmar'e Stoudemire PHX 03/25/2005 PHX @ MIA L 41 25 9 15 60.0 0 0 - 7 7 100.0 3 4 7 4 0 2 6 4 -6
+p145
+aVBo Outlaw PHX 03/23/2005 PHX @ CHA W 3 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 1 0 0 1 -3
+p146
+aVLeandro Barbosa PHX 03/23/2005 PHX @ CHA W 20 4 1 3 33.3 0 1 0.0 2 2 100.0 0 3 3 3 0 0 3 2 2
+p147
+aVJim Jackson PHX 03/23/2005 PHX @ CHA W 22 15 6 10 60.0 3 5 60.0 0 0 - 1 1 2 2 2 0 0 3 13
+p148
+aVQuentin Richardson PHX 03/23/2005 PHX @ CHA W 35 8 2 7 28.6 2 4 50.0 2 4 50.0 1 2 3 4 0 0 1 4 14
+p149
+aVSteven Hunter PHX 03/23/2005 PHX @ CHA W 15 4 2 4 50.0 0 0 - 0 0 - 5 2 7 0 0 2 0 3 2
+p150
+aVSteve Nash PHX 03/23/2005 PHX @ CHA W 28 11 4 9 44.4 1 2 50.0 2 2 100.0 1 2 3 10 2 0 0 1 13
+p151
+aVShawn Marion PHX 03/23/2005 PHX @ CHA W 35 26 9 11 81.8 1 3 33.3 7 7 100.0 2 8 10 1 2 3 1 0 13
+p152
+aVWalter McCarty PHX 03/23/2005 PHX @ CHA W 13 3 1 5 20.0 1 5 20.0 0 2 0.0 0 6 6 1 1 0 1 3 2
+p153
+aVJoe Johnson PHX 03/23/2005 PHX @ CHA W 36 26 9 22 40.9 3 8 37.5 5 5 100.0 1 5 6 3 0 0 4 1 6
+p154
+aVAmar'e Stoudemire PHX 03/23/2005 PHX @ CHA W 33 23 9 18 50.0 1 1 100.0 4 4 100.0 5 9 14 1 1 1 3 5 13
+p155
+aVJoe Johnson PHX 03/22/2005 PHX @ ATL W 38 4 1 8 12.5 0 2 0.0 2 2 100.0 0 3 3 4 2 0 0 1 12
+p156
+aVJim Jackson PHX 03/22/2005 PHX @ ATL W 17 3 1 6 16.7 1 4 25.0 0 0 - 1 1 2 3 0 0 0 2 -6
+p157
+aVShawn Marion PHX 03/22/2005 PHX @ ATL W 39 21 10 14 71.4 1 3 33.3 0 0 - 4 7 11 0 2 3 1 3 18
+p158
+aVWalter McCarty PHX 03/22/2005 PHX @ ATL W 12 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 2 -4
+p159
+aVSteve Nash PHX 03/22/2005 PHX @ ATL W 31 13 5 11 45.5 1 1 100.0 2 2 100.0 1 3 4 11 1 0 4 1 17
+p160
+aVQuentin Richardson PHX 03/22/2005 PHX @ ATL W 37 10 4 17 23.5 2 11 18.2 0 0 - 3 5 8 2 2 2 0 0 10
+p161
+aVSteven Hunter PHX 03/22/2005 PHX @ ATL W 6 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -8
+p162
+aVLeandro Barbosa PHX 03/22/2005 PHX @ ATL W 20 5 2 6 33.3 1 4 25.0 0 0 - 0 1 1 3 2 0 0 1 0
+p163
+aVAmar'e Stoudemire PHX 03/22/2005 PHX @ ATL W 40 40 14 24 58.3 0 0 - 12 17 70.6 4 9 13 2 1 1 0 3 16
+p164
+aVSteve Nash PHX 03/20/2005 PHX @ MEM W 34 13 4 6 66.7 1 3 33.3 4 5 80.0 0 3 3 13 1 0 5 0 5
+p165
+aVJoe Johnson PHX 03/20/2005 PHX @ MEM W 44 28 10 15 66.7 4 5 80.0 4 6 66.7 0 8 8 2 2 0 3 2 10
+p166
+aVSteven Hunter PHX 03/20/2005 PHX @ MEM W 13 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 2 2 3 -9
+p167
+aVJim Jackson PHX 03/20/2005 PHX @ MEM W 15 5 2 5 40.0 1 1 100.0 0 0 - 0 1 1 0 0 0 2 1 -4
+p168
+aVAmar'e Stoudemire PHX 03/20/2005 PHX @ MEM W 37 15 6 16 37.5 0 0 - 3 3 100.0 3 6 9 1 2 2 2 4 13
+p169
+aVShawn Marion PHX 03/20/2005 PHX @ MEM W 46 14 7 20 35.0 0 3 0.0 0 0 - 8 8 16 2 0 1 5 3 8
+p170
+aVLeandro Barbosa PHX 03/20/2005 PHX @ MEM W 14 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 1
+p171
+aVQuentin Richardson PHX 03/20/2005 PHX @ MEM W 37 18 6 11 54.5 2 6 33.3 4 4 100.0 0 5 5 1 3 1 1 2 6
+p172
+aVJoe Johnson PHX 03/18/2005 PHX vs. GSW L 37 15 5 10 50.0 1 4 25.0 4 4 100.0 0 3 3 4 2 2 1 1 -10
+p173
+aVShawn Marion PHX 03/18/2005 PHX vs. GSW L 42 28 10 23 43.5 2 4 50.0 6 6 100.0 8 9 17 2 4 1 3 1 0
+p174
+aVJim Jackson PHX 03/18/2005 PHX vs. GSW L 22 2 1 7 14.3 0 4 0.0 0 0 - 0 1 1 3 0 0 2 2 -4
+p175
+aVLeandro Barbosa PHX 03/18/2005 PHX vs. GSW L 11 6 2 7 28.6 2 5 40.0 0 0 - 0 1 1 0 1 0 2 1 -11
+p176
+aVAmar'e Stoudemire PHX 03/18/2005 PHX vs. GSW L 42 31 12 22 54.5 0 0 - 7 9 77.8 2 8 10 1 1 0 0 3 -3
+p177
+aVQuentin Richardson PHX 03/18/2005 PHX vs. GSW L 38 2 1 7 14.3 0 4 0.0 0 0 - 1 3 4 1 1 0 1 5 -7
+p178
+aVWalter McCarty PHX 03/18/2005 PHX vs. GSW L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -11
+p179
+aVSteve Nash PHX 03/18/2005 PHX vs. GSW L 36 12 3 8 37.5 0 2 0.0 6 6 100.0 0 2 2 13 0 0 4 3 2
+p180
+aVSteven Hunter PHX 03/18/2005 PHX vs. GSW L 9 4 1 1 100.0 0 0 - 2 4 50.0 1 2 3 0 0 0 0 1 -6
+p181
+aVAmar'e Stoudemire PHX 03/13/2005 PHX @ DEN W 35 13 5 12 41.7 0 0 - 3 5 60.0 3 6 9 1 0 3 4 4 2
+p182
+aVJim Jackson PHX 03/13/2005 PHX @ DEN W 19 5 2 8 25.0 1 3 33.3 0 0 - 2 1 3 2 0 0 1 0 -8
+p183
+aVQuentin Richardson PHX 03/13/2005 PHX @ DEN W 38 11 3 9 33.3 1 2 50.0 4 6 66.7 1 5 6 1 0 0 2 2 3
+p184
+aVWalter McCarty PHX 03/13/2005 PHX @ DEN W 10 3 1 2 50.0 1 2 50.0 0 0 - 0 3 3 1 0 0 0 2 -1
+p185
+aVSteven Hunter PHX 03/13/2005 PHX @ DEN W 13 7 3 4 75.0 0 0 - 1 4 25.0 1 1 2 0 0 1 0 0 3
+p186
+aVSteve Nash PHX 03/13/2005 PHX @ DEN W 36 25 10 14 71.4 1 1 100.0 4 5 80.0 1 5 6 11 0 1 3 2 13
+p187
+aVShawn Marion PHX 03/13/2005 PHX @ DEN W 38 19 8 20 40.0 1 7 14.3 2 2 100.0 2 13 15 1 0 0 1 3 6
+p188
+aVJoe Johnson PHX 03/13/2005 PHX @ DEN W 39 23 9 17 52.9 0 2 0.0 5 6 83.3 5 6 11 2 3 0 2 3 15
+p189
+aVLeandro Barbosa PHX 03/13/2005 PHX @ DEN W 12 0 0 3 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 1 -8
+p190
+aVJoe Johnson PHX 03/11/2005 PHX vs. HOU L 40 15 6 16 37.5 2 6 33.3 1 2 50.0 1 2 3 4 1 0 2 1 -9
+p191
+aVLeandro Barbosa PHX 03/11/2005 PHX vs. HOU L 16 5 2 4 50.0 1 2 50.0 0 0 - 2 4 6 1 1 0 0 3 3
+p192
+aVSteve Nash PHX 03/11/2005 PHX vs. HOU L 38 10 2 10 20.0 1 5 20.0 5 6 83.3 0 4 4 10 0 0 2 1 -25
+p193
+aVJim Jackson PHX 03/11/2005 PHX vs. HOU L 28 15 6 11 54.5 3 5 60.0 0 0 - 0 3 3 4 1 0 0 1 -15
+p194
+aVSteven Hunter PHX 03/11/2005 PHX vs. HOU L 11 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 1 2 3 -14
+p195
+aVWalter McCarty PHX 03/11/2005 PHX vs. HOU L 26 20 7 11 63.6 6 10 60.0 0 0 - 0 1 1 0 0 0 0 6 -6
+p196
+aVAmar'e Stoudemire PHX 03/11/2005 PHX vs. HOU L 41 31 9 23 39.1 0 0 - 13 16 81.3 3 7 10 1 0 1 4 3 -15
+p197
+aVQuentin Richardson PHX 03/11/2005 PHX vs. HOU L 40 11 4 11 36.4 2 4 50.0 1 2 50.0 2 7 9 1 0 0 0 2 -19
+p198
+aVJoe Johnson PHX 03/09/2005 PHX vs. SAS W 41 12 5 17 29.4 1 4 25.0 1 2 50.0 2 4 6 4 0 1 3 1 9
+p199
+aVQuentin Richardson PHX 03/09/2005 PHX vs. SAS W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 7
+p200
+aVSteve Nash PHX 03/09/2005 PHX vs. SAS W 39 11 5 13 38.5 1 2 50.0 0 0 - 0 5 5 15 0 0 9 3 4
+p201
+aVSteven Hunter PHX 03/09/2005 PHX vs. SAS W 11 4 2 2 100.0 0 0 - 0 0 - 1 4 5 0 0 2 1 1 3
+p202
+aVWalter McCarty PHX 03/09/2005 PHX vs. SAS W 15 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 1 1 0 4 -3
+p203
+aVLeandro Barbosa PHX 03/09/2005 PHX vs. SAS W 28 15 5 10 50.0 3 6 50.0 2 2 100.0 0 2 2 3 1 0 0 2 8
+p204
+aVAmar'e Stoudemire PHX 03/09/2005 PHX vs. SAS W 33 44 17 22 77.3 0 0 - 10 13 76.9 2 5 7 1 0 2 3 5 6
+p205
+aVJim Jackson PHX 03/09/2005 PHX vs. SAS W 27 3 1 4 25.0 1 1 100.0 0 0 - 1 8 9 1 1 0 2 3 -7
+p206
+aVShawn Marion PHX 03/09/2005 PHX vs. SAS W 40 18 9 14 64.3 0 1 0.0 0 0 - 4 13 17 1 1 0 1 4 3
+p207
+aVSteven Hunter PHX 03/06/2005 PHX @ SEA W 12 6 3 6 50.0 0 1 0.0 0 4 0.0 1 1 2 0 0 0 0 2 6
+p208
+aVLeandro Barbosa PHX 03/06/2005 PHX @ SEA W 18 7 3 5 60.0 1 1 100.0 0 0 - 0 4 4 2 0 0 1 3 8
+p209
+aVWalter McCarty PHX 03/06/2005 PHX @ SEA W 17 3 1 4 25.0 1 1 100.0 0 0 - 1 4 5 1 1 0 0 2 -2
+p210
+aVJim Jackson PHX 03/06/2005 PHX @ SEA W 26 7 3 7 42.9 1 1 100.0 0 0 - 3 1 4 1 1 0 0 0 17
+p211
+aVSteve Nash PHX 03/06/2005 PHX @ SEA W 34 12 4 10 40.0 1 3 33.3 3 6 50.0 1 2 3 10 1 0 3 2 7
+p212
+aVQuentin Richardson PHX 03/06/2005 PHX @ SEA W 16 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 2 1 0 1 2 -8
+p213
+aVJoe Johnson PHX 03/06/2005 PHX @ SEA W 39 30 11 18 61.1 5 5 100.0 3 4 75.0 1 5 6 2 1 0 1 2 5
+p214
+aVShawn Marion PHX 03/06/2005 PHX @ SEA W 42 18 6 15 40.0 0 2 0.0 6 7 85.7 3 7 10 0 2 1 2 3 17
+p215
+aVAmar'e Stoudemire PHX 03/06/2005 PHX @ SEA W 36 22 7 17 41.2 0 0 - 8 9 88.9 2 3 5 2 0 2 0 4 5
+p216
+aVBo Outlaw PHX 03/05/2005 PHX vs. POR W 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -2
+p217
+aVAmar'e Stoudemire PHX 03/05/2005 PHX vs. POR W 29 20 6 16 37.5 0 1 0.0 8 11 72.7 2 1 3 1 0 0 1 0 15
+p218
+aVShawn Marion PHX 03/05/2005 PHX vs. POR W 28 26 8 15 53.3 1 4 25.0 9 10 90.0 2 7 9 0 1 1 2 2 12
+p219
+aVJoe Johnson PHX 03/05/2005 PHX vs. POR W 38 18 8 15 53.3 2 3 66.7 0 0 - 2 3 5 4 2 0 1 3 21
+p220
+aVSteven Hunter PHX 03/05/2005 PHX vs. POR W 17 7 2 4 50.0 0 0 - 3 4 75.0 1 3 4 0 0 4 0 3 2
+p221
+aVPaul Shirley PHX 03/05/2005 PHX vs. POR W 4 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 -7
+p222
+aVJim Jackson PHX 03/05/2005 PHX vs. POR W 41 18 7 9 77.8 3 4 75.0 1 2 50.0 1 3 4 10 0 0 3 2 11
+p223
+aVSteve Nash PHX 03/05/2005 PHX vs. POR W 24 9 4 5 80.0 0 0 - 1 3 33.3 0 0 0 8 2 0 1 2 14
+p224
+aVWalter McCarty PHX 03/05/2005 PHX vs. POR W 20 5 2 4 50.0 1 3 33.3 0 0 - 0 2 2 1 0 1 2 2 -4
+p225
+aVJake Voskuhl PHX 03/05/2005 PHX vs. POR W 6 3 1 3 33.3 0 0 - 1 1 100.0 0 0 0 0 0 0 0 0 -2
+p226
+aVLeandro Barbosa PHX 03/05/2005 PHX vs. POR W 27 16 7 10 70.0 2 4 50.0 0 0 - 1 3 4 3 2 0 2 1 5
+p227
+aVLeandro Barbosa PHX 03/03/2005 PHX vs. DET W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 0 2 -1
+p228
+aVSteven Hunter PHX 03/03/2005 PHX vs. DET W 16 10 4 4 100.0 0 0 - 2 3 66.7 1 1 2 0 0 0 0 1 4
+p229
+aVJoe Johnson PHX 03/03/2005 PHX vs. DET W 36 11 4 14 28.6 2 3 66.7 1 2 50.0 0 3 3 1 2 0 1 1 7
+p230
+aVWalter McCarty PHX 03/03/2005 PHX vs. DET W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 1 -4
+p231
+aVQuentin Richardson PHX 03/03/2005 PHX vs. DET W 35 20 7 11 63.6 5 8 62.5 1 2 50.0 1 3 4 0 1 0 2 1 2
+p232
+aVAmar'e Stoudemire PHX 03/03/2005 PHX vs. DET W 42 26 13 24 54.2 0 1 0.0 0 1 0.0 4 6 10 1 0 2 1 1 3
+p233
+aVShawn Marion PHX 03/03/2005 PHX vs. DET W 39 13 5 17 29.4 2 3 66.7 1 2 50.0 1 10 11 2 2 2 3 2 -1
+p234
+aVSteve Nash PHX 03/03/2005 PHX vs. DET W 33 16 5 12 41.7 2 4 50.0 4 4 100.0 2 1 3 14 1 0 2 1 6
+p235
+aVJim Jackson PHX 03/03/2005 PHX vs. DET W 17 2 1 2 50.0 0 0 - 0 0 - 0 2 2 4 0 0 1 1 -1
+p236
+aVShawn Marion PHX 02/27/2005 PHX vs. BOS L 46 15 6 19 31.6 0 3 0.0 3 4 75.0 7 13 20 3 1 2 3 4 -8
+p237
+aVSteven Hunter PHX 02/27/2005 PHX vs. BOS L 18 2 0 3 0.0 0 0 - 2 7 28.6 2 3 5 0 0 2 1 2 2
+p238
+aVLeandro Barbosa PHX 02/27/2005 PHX vs. BOS L 40 18 7 17 41.2 1 7 14.3 3 4 75.0 2 2 4 3 1 0 5 2 -15
+p239
+aVJoe Johnson PHX 02/27/2005 PHX vs. BOS L 45 21 8 22 36.4 2 4 50.0 3 6 50.0 3 4 7 4 3 0 1 4 -13
+p240
+aVQuentin Richardson PHX 02/27/2005 PHX vs. BOS L 43 13 5 12 41.7 0 4 0.0 3 4 75.0 3 0 3 6 0 0 3 3 -17
+p241
+aVWalter McCarty PHX 02/27/2005 PHX vs. BOS L 20 11 3 5 60.0 3 3 100.0 2 2 100.0 0 4 4 0 0 0 0 2 -2
+p242
+aVJim Jackson PHX 02/27/2005 PHX vs. BOS L 28 6 1 5 20.0 0 2 0.0 4 4 100.0 2 5 7 4 1 1 2 4 18
+p243
+aVAmar'e Stoudemire PHX 02/27/2005 PHX vs. BOS L 25 27 9 14 64.3 0 0 - 9 9 100.0 2 4 6 1 2 0 4 6 0
+p244
+aVShawn Marion PHX 02/26/2005 PHX @ DAL W 41 25 10 17 58.8 1 2 50.0 4 5 80.0 2 11 13 0 4 1 2 4 -4
+p245
+aVQuentin Richardson PHX 02/26/2005 PHX @ DAL W 40 26 10 18 55.6 4 9 44.4 2 6 33.3 0 4 4 1 2 0 2 2 7
+p246
+aVLeandro Barbosa PHX 02/26/2005 PHX @ DAL W 33 6 3 8 37.5 0 3 0.0 0 0 - 1 3 4 6 1 0 3 4 -4
+p247
+aVAmar'e Stoudemire PHX 02/26/2005 PHX @ DAL W 37 33 13 20 65.0 0 0 - 7 10 70.0 6 4 10 2 0 3 5 3 6
+p248
+aVWalter McCarty PHX 02/26/2005 PHX @ DAL W 20 9 3 5 60.0 2 4 50.0 1 2 50.0 1 3 4 0 0 0 1 2 -2
+p249
+aVJoe Johnson PHX 02/26/2005 PHX @ DAL W 40 18 8 14 57.1 0 1 0.0 2 2 100.0 1 5 6 6 1 0 4 3 5
+p250
+aVSteven Hunter PHX 02/26/2005 PHX @ DAL W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -2
+p251
+aVJim Jackson PHX 02/26/2005 PHX @ DAL W 25 5 1 4 25.0 1 1 100.0 2 2 100.0 0 4 4 5 0 0 2 4 -1
+p252
+aVWalter McCarty PHX 02/23/2005 PHX vs. LAC W 18 3 1 2 50.0 1 2 50.0 0 0 - 2 1 3 0 0 0 0 3 7
+p253
+aVJake Voskuhl PHX 02/23/2005 PHX vs. LAC W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 1
+p254
+aVAmar'e Stoudemire PHX 02/23/2005 PHX vs. LAC W 21 17 5 9 55.6 0 0 - 7 10 70.0 1 2 3 3 1 2 3 5 7
+p255
+aVLeandro Barbosa PHX 02/23/2005 PHX vs. LAC W 36 22 9 15 60.0 2 5 40.0 2 2 100.0 1 5 6 2 3 0 4 3 9
+p256
+aVJim Jackson PHX 02/23/2005 PHX vs. LAC W 29 13 5 8 62.5 3 4 75.0 0 0 - 1 8 9 3 0 0 0 1 12
+p257
+aVQuentin Richardson PHX 02/23/2005 PHX vs. LAC W 31 18 6 13 46.2 3 7 42.9 3 5 60.0 1 6 7 4 2 2 0 2 8
+p258
+aVBo Outlaw PHX 02/23/2005 PHX vs. LAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p259
+aVShawn Marion PHX 02/23/2005 PHX vs. LAC W 31 13 5 9 55.6 1 2 50.0 2 2 100.0 0 5 5 3 3 2 3 3 18
+p260
+aVSteven Hunter PHX 02/23/2005 PHX vs. LAC W 25 9 4 5 80.0 0 0 - 1 4 25.0 2 8 10 1 0 4 1 2 11
+p261
+aVJoe Johnson PHX 02/23/2005 PHX vs. LAC W 42 22 10 19 52.6 0 2 0.0 2 2 100.0 3 3 6 6 1 1 4 1 14
+p262
+aVPaul Shirley PHX 02/23/2005 PHX vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p263
+aVLeandro Barbosa PHX 02/17/2005 PHX vs. DAL L 16 10 5 8 62.5 0 2 0.0 0 0 - 0 2 2 4 0 0 1 1 -3
+p264
+aVJoe Johnson PHX 02/17/2005 PHX vs. DAL L 39 12 5 12 41.7 1 3 33.3 1 2 50.0 5 1 6 3 1 1 1 2 7
+p265
+aVSteve Nash PHX 02/17/2005 PHX vs. DAL L 36 19 7 16 43.8 2 4 50.0 3 3 100.0 0 0 0 11 0 0 3 1 -13
+p266
+aVWalter McCarty PHX 02/17/2005 PHX vs. DAL L 10 0 0 2 0.0 0 1 0.0 0 0 - 2 1 3 0 0 0 1 2 -8
+p267
+aVJake Voskuhl PHX 02/17/2005 PHX vs. DAL L 6 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -5
+p268
+aVShawn Marion PHX 02/17/2005 PHX vs. DAL L 39 17 6 14 42.9 2 5 40.0 3 4 75.0 2 4 6 2 5 2 1 2 -1
+p269
+aVQuentin Richardson PHX 02/17/2005 PHX vs. DAL L 37 22 8 15 53.3 4 9 44.4 2 2 100.0 1 5 6 2 0 2 4 2 6
+p270
+aVJim Jackson PHX 02/17/2005 PHX vs. DAL L 16 0 0 3 0.0 0 3 0.0 0 0 - 0 4 4 0 0 0 1 2 -15
+p271
+aVAmar'e Stoudemire PHX 02/17/2005 PHX vs. DAL L 41 31 11 24 45.8 0 2 0.0 9 11 81.8 4 8 12 0 0 0 1 5 2
+p272
+aVWalter McCarty PHX 02/14/2005 PHX vs. UTA W 19 7 2 4 50.0 1 3 33.3 2 4 50.0 0 2 2 0 0 2 0 5 -10
+p273
+aVShawn Marion PHX 02/14/2005 PHX vs. UTA W 41 18 6 13 46.2 2 4 50.0 4 4 100.0 2 5 7 0 0 1 2 4 10
+p274
+aVLeandro Barbosa PHX 02/14/2005 PHX vs. UTA W 23 9 3 4 75.0 2 3 66.7 1 2 50.0 0 0 0 2 2 0 2 5 6
+p275
+aVQuentin Richardson PHX 02/14/2005 PHX vs. UTA W 39 22 7 15 46.7 7 14 50.0 1 2 50.0 1 4 5 3 0 0 0 5 13
+p276
+aVJoe Johnson PHX 02/14/2005 PHX vs. UTA W 35 13 4 7 57.1 1 2 50.0 4 6 66.7 1 2 3 3 1 0 3 5 4
+p277
+aVSteve Nash PHX 02/14/2005 PHX vs. UTA W 37 19 6 13 46.2 2 3 66.7 5 5 100.0 0 4 4 18 1 0 2 4 9
+p278
+aVJake Voskuhl PHX 02/14/2005 PHX vs. UTA W 7 6 2 2 100.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 2 -3
+p279
+aVAmar'e Stoudemire PHX 02/14/2005 PHX vs. UTA W 39 42 14 22 63.6 0 0 - 14 17 82.4 4 8 12 2 3 2 2 4 11
+p280
+aVSteve Nash PHX 02/13/2005 PHX @ GSW W 43 20 8 21 38.1 2 3 66.7 2 2 100.0 0 3 3 12 1 0 7 3 -1
+p281
+aVWalter McCarty PHX 02/13/2005 PHX @ GSW W 11 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 5
+p282
+aVAmar'e Stoudemire PHX 02/13/2005 PHX @ GSW W 38 9 2 8 25.0 0 0 - 5 9 55.6 3 7 10 2 1 2 2 2 -5
+p283
+aVShawn Marion PHX 02/13/2005 PHX @ GSW W 47 21 8 15 53.3 0 2 0.0 5 7 71.4 3 13 16 1 1 2 1 2 3
+p284
+aVQuentin Richardson PHX 02/13/2005 PHX @ GSW W 33 21 7 12 58.3 3 5 60.0 4 7 57.1 1 6 7 1 0 2 1 1 -6
+p285
+aVJoe Johnson PHX 02/13/2005 PHX @ GSW W 50 23 10 21 47.6 1 3 33.3 2 3 66.7 1 5 6 4 0 0 2 3 6
+p286
+aVJim Jackson PHX 02/13/2005 PHX @ GSW W 31 9 4 6 66.7 1 1 100.0 0 0 - 0 6 6 5 0 0 3 2 10
+p287
+aVJake Voskuhl PHX 02/13/2005 PHX @ GSW W 13 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 3 1 2 8
+p288
+aVShawn Marion PHX 02/11/2005 PHX vs. SEA L 38 14 6 12 50.0 1 2 50.0 1 2 50.0 0 11 11 1 2 1 0 2 -3
+p289
+aVAmar'e Stoudemire PHX 02/11/2005 PHX vs. SEA L 39 33 12 20 60.0 0 0 - 9 11 81.8 1 7 8 0 1 3 4 3 -7
+p290
+aVJoe Johnson PHX 02/11/2005 PHX vs. SEA L 41 6 1 7 14.3 0 2 0.0 4 4 100.0 1 3 4 4 0 1 0 2 0
+p291
+aVWalter McCarty PHX 02/11/2005 PHX vs. SEA L 10 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 1 3 -5
+p292
+aVSteven Hunter PHX 02/11/2005 PHX vs. SEA L 9 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -1
+p293
+aVJim Jackson PHX 02/11/2005 PHX vs. SEA L 17 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -14
+p294
+aVSteve Nash PHX 02/11/2005 PHX vs. SEA L 40 25 9 17 52.9 2 4 50.0 5 5 100.0 3 4 7 14 0 0 1 5 -1
+p295
+aVQuentin Richardson PHX 02/11/2005 PHX vs. SEA L 40 20 7 20 35.0 6 13 46.2 0 0 - 1 6 7 1 2 2 1 3 -3
+p296
+aVLeandro Barbosa PHX 02/11/2005 PHX vs. SEA L 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 -6
+p297
+aVSteven Hunter PHX 02/08/2005 PHX @ SAC W 12 6 2 3 66.7 0 0 - 2 3 66.7 0 3 3 0 0 0 1 1 -13
+p298
+aVJoe Johnson PHX 02/08/2005 PHX @ SAC W 40 28 11 18 61.1 4 5 80.0 2 4 50.0 5 2 7 3 1 0 2 3 1
+p299
+aVQuentin Richardson PHX 02/08/2005 PHX @ SAC W 39 8 4 9 44.4 0 5 0.0 0 0 - 2 6 8 2 1 0 1 4 4
+p300
+aVAmar'e Stoudemire PHX 02/08/2005 PHX @ SAC W 43 22 9 16 56.3 0 0 - 4 5 80.0 1 8 9 1 1 1 3 4 18
+p301
+aVLeandro Barbosa PHX 02/08/2005 PHX @ SAC W 8 5 2 3 66.7 0 0 - 1 1 100.0 1 1 2 2 2 0 2 1 -12
+p302
+aVShawn Marion PHX 02/08/2005 PHX @ SAC W 39 19 8 20 40.0 1 5 20.0 2 5 40.0 5 11 16 1 3 2 2 3 1
+p303
+aVJim Jackson PHX 02/08/2005 PHX @ SAC W 21 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 0 1 0 3 2 -12
+p304
+aVSteve Nash PHX 02/08/2005 PHX @ SAC W 38 33 12 20 60.0 2 4 50.0 7 8 87.5 1 1 2 17 0 0 5 3 18
+p305
+aVLeandro Barbosa PHX 02/05/2005 PHX vs. NYK W 12 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 0 1 0 3 3 1
+p306
+aVQuentin Richardson PHX 02/05/2005 PHX vs. NYK W 32 6 2 9 22.2 2 5 40.0 0 0 - 0 6 6 3 0 0 0 0 8
+p307
+aVJoe Johnson PHX 02/05/2005 PHX vs. NYK W 42 6 3 12 25.0 0 4 0.0 0 0 - 1 1 2 4 2 0 1 1 10
+p308
+aVJim Jackson PHX 02/05/2005 PHX vs. NYK W 24 13 5 7 71.4 1 2 50.0 2 2 100.0 0 4 4 1 0 1 2 2 7
+p309
+aVSteven Hunter PHX 02/05/2005 PHX vs. NYK W 15 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 0 3 5
+p310
+aVAmar'e Stoudemire PHX 02/05/2005 PHX vs. NYK W 37 32 10 20 50.0 0 1 0.0 12 13 92.3 3 12 15 1 1 1 1 3 5
+p311
+aVShawn Marion PHX 02/05/2005 PHX vs. NYK W 41 23 10 17 58.8 1 5 20.0 2 3 66.7 2 8 10 2 1 0 1 3 2
+p312
+aVSteve Nash PHX 02/05/2005 PHX vs. NYK W 37 26 9 18 50.0 1 2 50.0 7 9 77.8 3 0 3 14 1 0 2 1 2
+p313
+aVJake Voskuhl PHX 02/02/2005 PHX @ MIN W 7 4 2 4 50.0 0 0 - 0 0 - 2 1 3 1 0 0 1 2 -1
+p314
+aVSteven Hunter PHX 02/02/2005 PHX @ MIN W 19 0 0 4 0.0 0 0 - 0 4 0.0 4 3 7 1 0 2 2 2 7
+p315
+aVQuentin Richardson PHX 02/02/2005 PHX @ MIN W 36 17 5 12 41.7 4 10 40.0 3 5 60.0 0 8 8 4 0 0 3 1 32
+p316
+aVShawn Marion PHX 02/02/2005 PHX @ MIN W 33 19 8 12 66.7 3 4 75.0 0 0 - 1 3 4 1 2 0 1 3 34
+p317
+aVSteve Nash PHX 02/02/2005 PHX @ MIN W 26 15 7 13 53.8 0 1 0.0 1 2 50.0 1 2 3 11 1 0 0 1 38
+p318
+aVJoe Johnson PHX 02/02/2005 PHX @ MIN W 41 14 6 16 37.5 2 6 33.3 0 0 - 3 5 8 8 3 1 3 1 24
+p319
+aVSmush Parker PHX 02/02/2005 PHX @ MIN W 7 6 3 5 60.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -1
+p320
+aVBo Outlaw PHX 02/02/2005 PHX @ MIN W 13 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 1 1 0 2 -11
+p321
+aVAmar'e Stoudemire PHX 02/02/2005 PHX @ MIN W 29 23 9 14 64.3 0 0 - 5 7 71.4 2 5 7 1 0 0 1 2 30
+p322
+aVPaul Shirley PHX 02/02/2005 PHX @ MIN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p323
+aVJim Jackson PHX 02/02/2005 PHX @ MIN W 26 10 4 8 50.0 2 5 40.0 0 0 - 0 4 4 1 0 1 2 2 -7
+p324
+aVJim Jackson PHX 02/01/2005 PHX @ MEM L 26 3 1 6 16.7 1 4 25.0 0 0 - 0 3 3 1 0 0 1 2 -7
+p325
+aVJoe Johnson PHX 02/01/2005 PHX @ MEM L 45 30 11 18 61.1 5 11 45.5 3 4 75.0 2 0 2 6 1 1 3 2 -10
+p326
+aVShawn Marion PHX 02/01/2005 PHX @ MEM L 42 15 7 17 41.2 0 5 0.0 1 2 50.0 2 12 14 2 3 2 2 2 -5
+p327
+aVSteve Nash PHX 02/01/2005 PHX @ MEM L 38 7 3 8 37.5 1 2 50.0 0 0 - 2 2 4 12 0 0 5 1 -5
+p328
+aVAmar'e Stoudemire PHX 02/01/2005 PHX @ MEM L 41 22 8 16 50.0 0 1 0.0 6 7 85.7 5 14 19 2 0 0 3 1 -14
+p329
+aVSteven Hunter PHX 02/01/2005 PHX @ MEM L 7 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 0 0 2 0 1 3
+p330
+aVQuentin Richardson PHX 02/01/2005 PHX @ MEM L 37 14 5 16 31.3 4 14 28.6 0 0 - 2 2 4 1 0 0 2 5 -14
+p331
+aVBo Outlaw PHX 02/01/2005 PHX @ MEM L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p332
+aVSteven Hunter PHX 01/30/2005 PHX @ TOR W 18 4 1 3 33.3 0 0 - 2 4 50.0 3 0 3 0 0 1 1 2 2
+p333
+aVPaul Shirley PHX 01/30/2005 PHX @ TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -14
+p334
+aVQuentin Richardson PHX 01/30/2005 PHX @ TOR W 41 17 6 13 46.2 2 6 33.3 3 3 100.0 1 10 11 3 0 0 1 1 31
+p335
+aVSteve Nash PHX 01/30/2005 PHX @ TOR W 29 19 7 12 58.3 1 3 33.3 4 4 100.0 2 1 3 12 1 0 2 1 31
+p336
+aVJim Jackson PHX 01/30/2005 PHX @ TOR W 35 8 3 9 33.3 2 6 33.3 0 0 - 0 5 5 1 0 0 3 5 -1
+p337
+aVJoe Johnson PHX 01/30/2005 PHX @ TOR W 32 24 8 13 61.5 3 4 75.0 5 7 71.4 0 1 1 0 0 0 0 4 4
+p338
+aVAmar'e Stoudemire PHX 01/30/2005 PHX @ TOR W 21 27 11 15 73.3 0 0 - 5 7 71.4 1 3 4 2 1 2 2 4 24
+p339
+aVBo Outlaw PHX 01/30/2005 PHX @ TOR W 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 2 1
+p340
+aVJake Voskuhl PHX 01/30/2005 PHX @ TOR W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -11
+p341
+aVSmush Parker PHX 01/30/2005 PHX @ TOR W 6 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 0 0 0 2 0 -11
+p342
+aVShawn Marion PHX 01/30/2005 PHX @ TOR W 40 21 8 16 50.0 1 3 33.3 4 4 100.0 4 13 17 3 1 0 1 3 34
+p343
+aVShawn Marion PHX 01/28/2005 PHX @ BOS W 43 16 6 16 37.5 0 3 0.0 4 4 100.0 3 8 11 4 5 0 5 1 10
+p344
+aVSteve Nash PHX 01/28/2005 PHX @ BOS W 35 13 5 10 50.0 0 2 0.0 3 4 75.0 0 2 2 15 1 1 3 5 8
+p345
+aVJoe Johnson PHX 01/28/2005 PHX @ BOS W 34 17 8 15 53.3 1 5 20.0 0 3 0.0 1 1 2 1 0 0 3 3 0
+p346
+aVQuentin Richardson PHX 01/28/2005 PHX @ BOS W 42 23 8 12 66.7 7 9 77.8 0 0 - 3 6 9 3 2 0 2 2 13
+p347
+aVAmar'e Stoudemire PHX 01/28/2005 PHX @ BOS W 41 42 14 23 60.9 0 0 - 14 16 87.5 2 3 5 2 3 1 1 1 1
+p348
+aVJim Jackson PHX 01/28/2005 PHX @ BOS W 36 17 6 7 85.7 5 6 83.3 0 0 - 1 2 3 6 2 0 5 2 9
+p349
+aVSteven Hunter PHX 01/28/2005 PHX @ BOS W 9 0 0 2 0.0 0 0 - 0 0 - 3 3 6 0 0 2 0 0 4
+p350
+aVAmar'e Stoudemire PHX 01/26/2005 PHX @ MIL W 36 23 9 14 64.3 0 0 - 5 8 62.5 2 2 4 4 0 2 1 3 2
+p351
+aVJoe Johnson PHX 01/26/2005 PHX @ MIL W 41 17 6 12 50.0 2 3 66.7 3 4 75.0 1 4 5 5 1 0 2 1 1
+p352
+aVQuentin Richardson PHX 01/26/2005 PHX @ MIL W 38 18 4 11 36.4 3 8 37.5 7 9 77.8 2 7 9 0 1 0 0 3 5
+p353
+aVJake Voskuhl PHX 01/26/2005 PHX @ MIL W 8 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 4
+p354
+aVShawn Marion PHX 01/26/2005 PHX @ MIL W 43 24 10 24 41.7 2 8 25.0 2 3 66.7 3 9 12 1 2 0 1 3 11
+p355
+aVSteven Hunter PHX 01/26/2005 PHX @ MIL W 15 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 1 0 2 3
+p356
+aVJim Jackson PHX 01/26/2005 PHX @ MIL W 20 11 5 8 62.5 1 3 33.3 0 0 - 1 2 3 2 0 0 1 4 -1
+p357
+aVSteve Nash PHX 01/26/2005 PHX @ MIL W 39 21 7 14 50.0 2 2 100.0 5 6 83.3 2 4 6 17 3 0 3 1 5
+p358
+aVShawn Marion PHX 01/25/2005 PHX @ NYK W 42 20 8 18 44.4 1 3 33.3 3 4 75.0 5 6 11 3 2 2 3 4 20
+p359
+aVSteve Nash PHX 01/25/2005 PHX @ NYK W 35 9 3 7 42.9 0 1 0.0 3 4 75.0 0 6 6 7 1 0 2 0 8
+p360
+aVSmush Parker PHX 01/25/2005 PHX @ NYK W 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p361
+aVJim Jackson PHX 01/25/2005 PHX @ NYK W 24 17 6 8 75.0 5 6 83.3 0 0 - 0 2 2 3 1 0 1 5 17
+p362
+aVAmar'e Stoudemire PHX 01/25/2005 PHX @ NYK W 40 29 7 13 53.8 0 0 - 15 23 65.2 2 7 9 3 1 5 1 4 7
+p363
+aVSteven Hunter PHX 01/25/2005 PHX @ NYK W 14 9 4 5 80.0 0 0 - 1 3 33.3 2 1 3 0 0 2 1 1 3
+p364
+aVQuentin Richardson PHX 01/25/2005 PHX @ NYK W 39 25 9 17 52.9 7 14 50.0 0 0 - 0 9 9 4 0 0 4 3 17
+p365
+aVBo Outlaw PHX 01/25/2005 PHX @ NYK W 5 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 1 0
+p366
+aVJoe Johnson PHX 01/25/2005 PHX @ NYK W 40 24 9 16 56.3 3 7 42.9 3 4 75.0 0 3 3 4 0 0 2 3 4
+p367
+aVJim Jackson PHX 01/23/2005 PHX vs. NJN W 17 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 1 0 0 0 5 -13
+p368
+aVQuentin Richardson PHX 01/23/2005 PHX vs. NJN W 41 20 7 15 46.7 5 10 50.0 1 2 50.0 0 6 6 2 1 0 1 5 19
+p369
+aVJake Voskuhl PHX 01/23/2005 PHX vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p370
+aVSteve Nash PHX 01/23/2005 PHX vs. NJN W 39 30 10 15 66.7 5 6 83.3 5 5 100.0 3 0 3 9 0 0 3 0 15
+p371
+aVSteven Hunter PHX 01/23/2005 PHX vs. NJN W 9 3 1 1 100.0 0 0 - 1 4 25.0 1 1 2 0 0 2 1 1 -6
+p372
+aVShawn Marion PHX 01/23/2005 PHX vs. NJN W 40 10 3 11 27.3 2 4 50.0 2 3 66.7 2 11 13 5 2 4 3 2 8
+p373
+aVJoe Johnson PHX 01/23/2005 PHX vs. NJN W 44 15 4 12 33.3 3 8 37.5 4 4 100.0 2 4 6 3 0 1 3 4 9
+p374
+aVAmar'e Stoudemire PHX 01/23/2005 PHX vs. NJN W 42 33 13 16 81.3 0 0 - 7 11 63.6 1 7 8 1 1 0 2 2 12
+p375
+aVBo Outlaw PHX 01/23/2005 PHX vs. NJN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 0 -1
+p376
+aVJake Voskuhl PHX 01/21/2005 PHX vs. SAS L 9 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 0 0 1 2 -6
+p377
+aVSteven Hunter PHX 01/21/2005 PHX vs. SAS L 9 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 1 0 4 2
+p378
+aVShawn Marion PHX 01/21/2005 PHX vs. SAS L 51 37 13 21 61.9 5 6 83.3 6 6 100.0 2 13 15 1 3 2 2 5 -5
+p379
+aVQuentin Richardson PHX 01/21/2005 PHX vs. SAS L 50 11 5 18 27.8 1 7 14.3 0 1 0.0 1 6 7 4 2 1 1 4 -9
+p380
+aVSteve Nash PHX 01/21/2005 PHX vs. SAS L 45 16 6 13 46.2 2 3 66.7 2 2 100.0 0 2 2 13 1 0 7 2 -4
+p381
+aVAmar'e Stoudemire PHX 01/21/2005 PHX vs. SAS L 45 35 15 19 78.9 0 0 - 5 10 50.0 1 6 7 3 3 2 3 3 2
+p382
+aVJoe Johnson PHX 01/21/2005 PHX vs. SAS L 52 21 7 14 50.0 3 5 60.0 4 5 80.0 2 5 7 8 2 1 4 3 -1
+p383
+aVSmush Parker PHX 01/21/2005 PHX vs. SAS L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -4
+p384
+aVSteven Hunter PHX 01/19/2005 PHX vs. MEM L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -8
+p385
+aVJoe Johnson PHX 01/19/2005 PHX vs. MEM L 42 15 6 20 30.0 3 4 75.0 0 0 - 1 4 5 5 1 0 1 1 -4
+p386
+aVBo Outlaw PHX 01/19/2005 PHX vs. MEM L 9 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 1 -4
+p387
+aVShawn Marion PHX 01/19/2005 PHX vs. MEM L 39 18 5 16 31.3 0 2 0.0 8 9 88.9 5 7 12 5 2 0 2 3 -5
+p388
+aVSmush Parker PHX 01/19/2005 PHX vs. MEM L 16 6 3 6 50.0 0 1 0.0 0 0 - 2 0 2 4 2 0 6 1 -8
+p389
+aVJake Voskuhl PHX 01/19/2005 PHX vs. MEM L 30 6 2 4 50.0 0 0 - 2 2 100.0 1 6 7 0 0 1 0 1 0
+p390
+aVAmar'e Stoudemire PHX 01/19/2005 PHX vs. MEM L 36 8 4 11 36.4 0 0 - 0 2 0.0 1 3 4 0 3 2 2 5 5
+p391
+aVCasey Jacobsen PHX 01/19/2005 PHX vs. MEM L 22 7 2 6 33.3 0 2 0.0 3 3 100.0 1 2 3 2 0 0 0 3 -13
+p392
+aVQuentin Richardson PHX 01/19/2005 PHX vs. MEM L 42 19 6 21 28.6 2 10 20.0 5 6 83.3 3 10 13 0 1 0 3 6 -8
+p393
+aVSteven Hunter PHX 01/17/2005 PHX @ DET L 17 2 1 2 50.0 0 0 - 0 0 - 2 4 6 0 0 2 1 1 -18
+p394
+aVAmar'e Stoudemire PHX 01/17/2005 PHX @ DET L 34 16 5 18 27.8 0 0 - 6 7 85.7 3 6 9 0 3 1 1 4 -21
+p395
+aVJackson Vroman PHX 01/17/2005 PHX @ DET L 9 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 2 1 0 2 1 7
+p396
+aVJake Voskuhl PHX 01/17/2005 PHX @ DET L 15 2 0 1 0.0 0 0 - 2 2 100.0 1 4 5 1 1 0 0 2 14
+p397
+aVLeandro Barbosa PHX 01/17/2005 PHX @ DET L 29 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 2 1 0 3 3 -14
+p398
+aVShawn Marion PHX 01/17/2005 PHX @ DET L 32 11 3 9 33.3 0 2 0.0 5 5 100.0 1 6 7 0 0 0 1 1 -15
+p399
+aVCasey Jacobsen PHX 01/17/2005 PHX @ DET L 31 7 3 5 60.0 1 2 50.0 0 0 - 1 2 3 3 1 0 2 1 6
+p400
+aVMaciej Lampe PHX 01/17/2005 PHX @ DET L 4 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 7
+p401
+aVJoe Johnson PHX 01/17/2005 PHX @ DET L 35 17 8 16 50.0 1 3 33.3 0 0 - 0 2 2 1 1 0 3 2 -19
+p402
+aVQuentin Richardson PHX 01/17/2005 PHX @ DET L 29 13 3 14 21.4 1 9 11.1 6 9 66.7 0 0 0 2 1 0 3 5 -16
+p403
+aVBo Outlaw PHX 01/17/2005 PHX @ DET L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -1
+p404
+aVSteven Hunter PHX 01/15/2005 PHX @ WAS L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -4
+p405
+aVLeandro Barbosa PHX 01/15/2005 PHX @ WAS L 37 15 5 15 33.3 5 9 55.6 0 0 - 1 3 4 0 0 0 2 5 -3
+p406
+aVShawn Marion PHX 01/15/2005 PHX @ WAS L 43 14 6 15 40.0 0 3 0.0 2 2 100.0 3 12 15 4 1 1 2 5 -6
+p407
+aVAmar'e Stoudemire PHX 01/15/2005 PHX @ WAS L 43 26 9 24 37.5 0 0 - 8 11 72.7 5 4 9 2 4 0 6 4 3
+p408
+aVJoe Johnson PHX 01/15/2005 PHX @ WAS L 43 23 9 17 52.9 2 6 33.3 3 4 75.0 2 3 5 3 0 2 1 2 2
+p409
+aVCasey Jacobsen PHX 01/15/2005 PHX @ WAS L 16 0 0 2 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -9
+p410
+aVJackson Vroman PHX 01/15/2005 PHX @ WAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p411
+aVBo Outlaw PHX 01/15/2005 PHX @ WAS L 9 0 0 0 - 0 0 - 0 0 - 1 4 5 0 0 0 2 1 -11
+p412
+aVQuentin Richardson PHX 01/15/2005 PHX @ WAS L 43 25 11 21 52.4 3 12 25.0 0 0 - 2 6 8 4 1 1 2 1 5
+p413
+aVShawn Marion PHX 01/14/2005 PHX @ IND L 39 12 5 11 45.5 2 5 40.0 0 0 - 0 3 3 0 3 0 2 2 -17
+p414
+aVAmar'e Stoudemire PHX 01/14/2005 PHX @ IND L 39 26 10 21 47.6 0 0 - 6 6 100.0 0 11 11 1 0 3 2 3 -14
+p415
+aVSteve Nash PHX 01/14/2005 PHX @ IND L 11 11 5 7 71.4 1 2 50.0 0 0 - 0 1 1 2 1 0 1 0 -7
+p416
+aVBo Outlaw PHX 01/14/2005 PHX @ IND L 9 0 0 1 0.0 0 0 - 0 0 - 1 3 4 1 1 1 1 0 0
+p417
+aVMaciej Lampe PHX 01/14/2005 PHX @ IND L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p418
+aVCasey Jacobsen PHX 01/14/2005 PHX @ IND L 27 10 3 5 60.0 1 3 33.3 3 5 60.0 2 5 7 0 2 0 3 1 -10
+p419
+aVLeandro Barbosa PHX 01/14/2005 PHX @ IND L 13 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -5
+p420
+aVJake Voskuhl PHX 01/14/2005 PHX @ IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 1 0 2 2
+p421
+aVQuentin Richardson PHX 01/14/2005 PHX @ IND L 42 3 0 11 0.0 0 8 0.0 3 4 75.0 0 3 3 4 0 0 3 2 -20
+p422
+aVJoe Johnson PHX 01/14/2005 PHX @ IND L 39 11 3 11 27.3 2 2 100.0 3 4 75.0 1 3 4 6 2 0 0 3 -12
+p423
+aVSteven Hunter PHX 01/14/2005 PHX @ IND L 12 4 2 6 33.3 0 0 - 0 1 0.0 2 1 3 0 0 2 1 1 -6
+p424
+aVJoe Johnson PHX 01/12/2005 PHX @ UTA L 43 17 6 11 54.5 0 1 0.0 5 5 100.0 3 4 7 1 1 0 3 1 -6
+p425
+aVBo Outlaw PHX 01/12/2005 PHX @ UTA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p426
+aVQuentin Richardson PHX 01/12/2005 PHX @ UTA L 41 24 6 17 35.3 5 12 41.7 7 8 87.5 1 7 8 1 4 0 1 1 -3
+p427
+aVCasey Jacobsen PHX 01/12/2005 PHX @ UTA L 17 0 0 4 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 -9
+p428
+aVJake Voskuhl PHX 01/12/2005 PHX @ UTA L 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -4
+p429
+aVSteve Nash PHX 01/12/2005 PHX @ UTA L 39 22 7 16 43.8 2 6 33.3 6 6 100.0 2 1 3 11 2 0 4 3 0
+p430
+aVAmar'e Stoudemire PHX 01/12/2005 PHX @ UTA L 36 19 5 12 41.7 0 0 - 9 11 81.8 1 7 8 1 1 1 3 4 7
+p431
+aVSteven Hunter PHX 01/12/2005 PHX @ UTA L 19 4 2 2 100.0 0 0 - 0 0 - 2 1 3 0 1 1 1 1 -18
+p432
+aVShawn Marion PHX 01/12/2005 PHX @ UTA L 36 20 6 11 54.5 2 6 33.3 6 6 100.0 1 5 6 0 1 1 2 3 8
+p433
+aVMaciej Lampe PHX 01/12/2005 PHX @ UTA L 3 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -8
+p434
+aVSteve Nash PHX 01/11/2005 PHX vs. MIA W 33 16 7 12 58.3 0 4 0.0 2 2 100.0 0 1 1 16 1 0 2 1 18
+p435
+aVSteven Hunter PHX 01/11/2005 PHX vs. MIA W 20 4 0 2 0.0 0 0 - 4 4 100.0 1 4 5 0 0 1 1 5 10
+p436
+aVCasey Jacobsen PHX 01/11/2005 PHX vs. MIA W 21 4 1 2 50.0 1 2 50.0 1 2 50.0 1 1 2 1 0 0 0 0 6
+p437
+aVQuentin Richardson PHX 01/11/2005 PHX vs. MIA W 43 14 5 20 25.0 3 12 25.0 1 2 50.0 2 5 7 1 1 0 1 5 10
+p438
+aVShawn Marion PHX 01/11/2005 PHX vs. MIA W 41 26 11 22 50.0 1 3 33.3 3 3 100.0 5 6 11 2 5 0 1 3 18
+p439
+aVAmar'e Stoudemire PHX 01/11/2005 PHX vs. MIA W 39 34 13 19 68.4 0 0 - 8 10 80.0 2 5 7 2 2 0 3 4 7
+p440
+aVJoe Johnson PHX 01/11/2005 PHX vs. MIA W 42 24 8 18 44.4 4 8 50.0 4 4 100.0 0 9 9 5 3 0 1 1 6
+p441
+aVJake Voskuhl PHX 01/09/2005 PHX vs. IND W 8 6 3 5 60.0 0 0 - 0 0 - 2 2 4 1 0 0 0 1 -4
+p442
+aVJoe Johnson PHX 01/09/2005 PHX vs. IND W 32 15 7 14 50.0 1 3 33.3 0 0 - 2 6 8 4 0 0 1 0 41
+p443
+aVAmar'e Stoudemire PHX 01/09/2005 PHX vs. IND W 28 20 8 15 53.3 0 0 - 4 7 57.1 4 10 14 4 1 1 1 4 31
+p444
+aVSteve Nash PHX 01/09/2005 PHX vs. IND W 29 10 5 12 41.7 0 2 0.0 0 0 - 0 1 1 9 1 0 4 2 26
+p445
+aVMaciej Lampe PHX 01/09/2005 PHX vs. IND W 19 10 4 7 57.1 1 1 100.0 1 2 50.0 2 3 5 0 0 1 0 4 -2
+p446
+aVSteven Hunter PHX 01/09/2005 PHX vs. IND W 15 10 5 5 100.0 0 0 - 0 0 - 2 3 5 0 0 4 1 1 18
+p447
+aVQuentin Richardson PHX 01/09/2005 PHX vs. IND W 31 14 4 10 40.0 3 8 37.5 3 4 75.0 2 6 8 4 0 0 1 2 33
+p448
+aVBo Outlaw PHX 01/09/2005 PHX vs. IND W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p449
+aVShawn Marion PHX 01/09/2005 PHX vs. IND W 28 21 8 11 72.7 1 3 33.3 4 5 80.0 1 6 7 1 5 1 0 2 32
+p450
+aVJackson Vroman PHX 01/09/2005 PHX vs. IND W 8 1 0 3 0.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 1 -4
+p451
+aVLeandro Barbosa PHX 01/09/2005 PHX vs. IND W 12 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 3 0 0 0 1 -3
+p452
+aVCasey Jacobsen PHX 01/09/2005 PHX vs. IND W 27 9 3 6 50.0 1 4 25.0 2 2 100.0 0 2 2 1 0 0 1 0 5
+p453
+aVCasey Jacobsen PHX 01/08/2005 PHX @ LAC W 25 7 2 6 33.3 2 3 66.7 1 2 50.0 2 1 3 3 0 0 1 3 5
+p454
+aVLeandro Barbosa PHX 01/08/2005 PHX @ LAC W 10 2 0 1 0.0 0 0 - 2 2 100.0 2 1 3 2 0 1 0 1 1
+p455
+aVJake Voskuhl PHX 01/08/2005 PHX @ LAC W 4 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 1
+p456
+aVShawn Marion PHX 01/08/2005 PHX @ LAC W 37 22 8 17 47.1 2 7 28.6 4 4 100.0 3 8 11 2 2 0 1 1 24
+p457
+aVJoe Johnson PHX 01/08/2005 PHX @ LAC W 36 23 10 15 66.7 3 6 50.0 0 0 - 0 5 5 6 0 0 3 3 17
+p458
+aVSteve Nash PHX 01/08/2005 PHX @ LAC W 31 10 4 9 44.4 0 1 0.0 2 2 100.0 0 3 3 10 1 0 3 0 8
+p459
+aVMaciej Lampe PHX 01/08/2005 PHX @ LAC W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -3
+p460
+aVSteven Hunter PHX 01/08/2005 PHX @ LAC W 22 6 3 5 60.0 0 0 - 0 0 - 3 5 8 0 0 0 3 4 10
+p461
+aVQuentin Richardson PHX 01/08/2005 PHX @ LAC W 36 19 6 12 50.0 5 9 55.6 2 2 100.0 0 4 4 2 1 0 2 3 8
+p462
+aVAmar'e Stoudemire PHX 01/08/2005 PHX @ LAC W 37 17 8 20 40.0 0 0 - 1 6 16.7 1 5 6 1 3 3 1 2 14
+p463
+aVCasey Jacobsen PHX 01/05/2005 PHX @ HOU W 20 14 4 7 57.1 4 6 66.7 2 2 100.0 0 1 1 1 0 0 0 1 0
+p464
+aVSteve Nash PHX 01/05/2005 PHX @ HOU W 37 12 5 13 38.5 2 6 33.3 0 0 - 0 4 4 13 1 0 2 1 8
+p465
+aVAmar'e Stoudemire PHX 01/05/2005 PHX @ HOU W 37 19 5 15 33.3 0 0 - 9 14 64.3 2 7 9 1 1 1 6 4 2
+p466
+aVSteven Hunter PHX 01/05/2005 PHX @ HOU W 21 6 2 2 100.0 0 0 - 2 2 100.0 0 0 0 1 1 1 0 4 11
+p467
+aVJake Voskuhl PHX 01/05/2005 PHX @ HOU W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -3
+p468
+aVJoe Johnson PHX 01/05/2005 PHX @ HOU W 39 17 7 15 46.7 3 6 50.0 0 0 - 4 8 12 1 1 0 1 2 12
+p469
+aVQuentin Richardson PHX 01/05/2005 PHX @ HOU W 45 18 7 20 35.0 4 11 36.4 0 0 - 6 8 14 2 1 0 1 2 15
+p470
+aVShawn Marion PHX 01/05/2005 PHX @ HOU W 36 22 9 13 69.2 2 5 40.0 2 2 100.0 1 8 9 3 0 0 0 4 5
+p471
+aVSteven Hunter PHX 01/04/2005 PHX @ MIN W 23 8 4 5 80.0 0 0 - 0 1 0.0 1 0 1 1 0 2 1 6 2
+p472
+aVSteve Nash PHX 01/04/2005 PHX @ MIN W 37 20 6 11 54.5 1 2 50.0 7 7 100.0 0 3 3 16 2 0 3 3 4
+p473
+aVJackson Vroman PHX 01/04/2005 PHX @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p474
+aVCasey Jacobsen PHX 01/04/2005 PHX @ MIN W 17 5 2 5 40.0 1 3 33.3 0 0 - 0 1 1 0 0 0 2 1 11
+p475
+aVShawn Marion PHX 01/04/2005 PHX @ MIN W 41 28 11 17 64.7 4 7 57.1 2 3 66.7 2 6 8 2 2 0 1 4 9
+p476
+aVJoe Johnson PHX 01/04/2005 PHX @ MIN W 41 11 5 10 50.0 0 4 0.0 1 2 50.0 2 2 4 5 0 1 2 1 4
+p477
+aVAmar'e Stoudemire PHX 01/04/2005 PHX @ MIN W 34 34 15 19 78.9 0 0 - 4 5 80.0 4 4 8 2 1 2 0 2 11
+p478
+aVBo Outlaw PHX 01/04/2005 PHX @ MIN W 6 0 0 0 - 0 0 - 0 1 0.0 0 1 1 0 0 1 0 0 -7
+p479
+aVQuentin Richardson PHX 01/04/2005 PHX @ MIN W 39 16 5 22 22.7 4 17 23.5 2 2 100.0 2 4 6 2 0 1 0 0 0
+p480
+aVJake Voskuhl PHX 01/04/2005 PHX @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p481
+aVJoe Johnson PHX 01/02/2005 PHX vs. POR W 38 15 5 15 33.3 1 6 16.7 4 4 100.0 1 4 5 9 3 0 5 3 24
+p482
+aVSteven Hunter PHX 01/02/2005 PHX vs. POR W 25 10 4 6 66.7 0 0 - 2 2 100.0 2 3 5 2 0 4 0 5 9
+p483
+aVSteve Nash PHX 01/02/2005 PHX vs. POR W 35 4 1 6 16.7 0 1 0.0 2 2 100.0 1 2 3 10 1 0 3 2 10
+p484
+aVShawn Marion PHX 01/02/2005 PHX vs. POR W 41 15 7 15 46.7 0 3 0.0 1 1 100.0 3 6 9 3 6 1 1 4 15
+p485
+aVCasey Jacobsen PHX 01/02/2005 PHX vs. POR W 20 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 0 0 0 0 0 3
+p486
+aVAmar'e Stoudemire PHX 01/02/2005 PHX vs. POR W 41 50 20 27 74.1 0 1 0.0 10 17 58.8 5 6 11 3 1 1 1 3 25
+p487
+aVQuentin Richardson PHX 01/02/2005 PHX vs. POR W 40 20 8 14 57.1 4 7 57.1 0 0 - 1 2 3 3 4 1 1 1 9
+p488
+aVBo Outlaw PHX 12/29/2004 PHX @ NOH W 9 3 1 2 50.0 0 0 - 1 3 33.3 0 0 0 1 0 0 0 0 2
+p489
+aVQuentin Richardson PHX 12/29/2004 PHX @ NOH W 37 31 11 23 47.8 9 16 56.3 0 0 - 3 8 11 2 1 0 1 0 7
+p490
+aVShawn Marion PHX 12/29/2004 PHX @ NOH W 40 9 2 12 16.7 0 2 0.0 5 6 83.3 1 6 7 4 6 1 1 1 9
+p491
+aVSteve Nash PHX 12/29/2004 PHX @ NOH W 37 22 8 11 72.7 2 4 50.0 4 4 100.0 1 2 3 9 1 0 3 0 15
+p492
+aVCasey Jacobsen PHX 12/29/2004 PHX @ NOH W 16 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 2 0 0 1 2 1
+p493
+aVJoe Johnson PHX 12/29/2004 PHX @ NOH W 43 12 6 16 37.5 0 2 0.0 0 0 - 1 7 8 1 0 0 2 1 12
+p494
+aVSteven Hunter PHX 12/29/2004 PHX @ NOH W 18 10 4 5 80.0 0 0 - 2 3 66.7 4 1 5 0 0 1 0 2 7
+p495
+aVLeandro Barbosa PHX 12/29/2004 PHX @ NOH W 10 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 1 0 0 0 1 1
+p496
+aVAmar'e Stoudemire PHX 12/29/2004 PHX @ NOH W 30 15 6 12 50.0 0 0 - 3 4 75.0 4 1 5 0 1 0 2 4 1
+p497
+aVQuentin Richardson PHX 12/28/2004 PHX @ SAS L 34 2 0 7 0.0 0 4 0.0 2 3 66.7 1 5 6 4 1 0 1 2 -21
+p498
+aVZarko Cabarkapa PHX 12/28/2004 PHX @ SAS L 5 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 8
+p499
+aVMaciej Lampe PHX 12/28/2004 PHX @ SAS L 12 6 2 3 66.7 1 1 100.0 1 2 50.0 1 3 4 0 1 0 0 0 3
+p500
+aVJackson Vroman PHX 12/28/2004 PHX @ SAS L 6 4 2 2 100.0 0 0 - 0 1 0.0 0 1 1 1 1 0 0 1 6
+p501
+aVCasey Jacobsen PHX 12/28/2004 PHX @ SAS L 25 6 1 1 100.0 1 1 100.0 3 4 75.0 0 1 1 2 0 0 0 1 -12
+p502
+aVLeandro Barbosa PHX 12/28/2004 PHX @ SAS L 18 0 0 3 0.0 0 0 - 0 0 - 0 0 0 2 1 1 4 4 5
+p503
+aVSteve Nash PHX 12/28/2004 PHX @ SAS L 30 12 4 14 28.6 1 1 100.0 3 3 100.0 0 3 3 4 1 0 3 4 -26
+p504
+aVSteven Hunter PHX 12/28/2004 PHX @ SAS L 9 4 1 2 50.0 0 0 - 2 3 66.7 1 0 1 0 0 0 0 1 -8
+p505
+aVAmar'e Stoudemire PHX 12/28/2004 PHX @ SAS L 36 37 12 19 63.2 0 1 0.0 13 14 92.9 2 5 7 1 0 1 4 3 -23
+p506
+aVBo Outlaw PHX 12/28/2004 PHX @ SAS L 5 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 0 4
+p507
+aVShawn Marion PHX 12/28/2004 PHX @ SAS L 26 6 2 11 18.2 0 2 0.0 2 2 100.0 3 5 8 1 0 1 1 4 -25
+p508
+aVJoe Johnson PHX 12/28/2004 PHX @ SAS L 34 9 3 8 37.5 1 2 50.0 2 2 100.0 2 3 5 2 2 0 2 1 -16
+p509
+aVCasey Jacobsen PHX 12/26/2004 PHX vs. TOR W 12 3 1 2 50.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -14
+p510
+aVSteven Hunter PHX 12/26/2004 PHX vs. TOR W 9 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -3
+p511
+aVAmar'e Stoudemire PHX 12/26/2004 PHX vs. TOR W 39 33 13 18 72.2 0 0 - 7 11 63.6 1 5 6 2 1 5 3 4 15
+p512
+aVLeandro Barbosa PHX 12/26/2004 PHX vs. TOR W 10 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 1 0 0 1 1 -9
+p513
+aVQuentin Richardson PHX 12/26/2004 PHX vs. TOR W 41 18 6 18 33.3 4 11 36.4 2 2 100.0 3 3 6 4 2 0 2 4 17
+p514
+aVSteve Nash PHX 12/26/2004 PHX vs. TOR W 38 18 7 9 77.8 3 5 60.0 1 2 50.0 0 2 2 13 1 0 4 2 21
+p515
+aVJoe Johnson PHX 12/26/2004 PHX vs. TOR W 43 10 4 16 25.0 2 5 40.0 0 1 0.0 3 6 9 1 1 0 3 0 21
+p516
+aVBo Outlaw PHX 12/26/2004 PHX vs. TOR W 4 4 2 2 100.0 0 0 - 0 0 - 1 1 2 0 1 0 1 1 -4
+p517
+aVShawn Marion PHX 12/26/2004 PHX vs. TOR W 44 18 7 13 53.8 4 7 57.1 0 0 - 6 12 18 3 3 0 2 2 16
+p518
+aVJoe Johnson PHX 12/23/2004 PHX vs. MEM W 37 3 1 9 11.1 1 5 20.0 0 0 - 3 2 5 5 0 0 2 2 -1
+p519
+aVQuentin Richardson PHX 12/23/2004 PHX vs. MEM W 42 17 6 17 35.3 4 9 44.4 1 2 50.0 2 8 10 1 2 0 1 3 9
+p520
+aVSteven Hunter PHX 12/23/2004 PHX vs. MEM W 7 0 0 2 0.0 0 0 - 0 0 - 3 0 3 0 0 1 1 0 -14
+p521
+aVBo Outlaw PHX 12/23/2004 PHX vs. MEM W 5 2 0 0 - 0 0 - 2 2 100.0 1 1 2 1 0 0 0 0 6
+p522
+aVLeandro Barbosa PHX 12/23/2004 PHX vs. MEM W 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 0 0 1 3 -8
+p523
+aVCasey Jacobsen PHX 12/23/2004 PHX vs. MEM W 17 9 3 7 42.9 2 4 50.0 1 2 50.0 0 0 0 0 0 0 0 1 6
+p524
+aVShawn Marion PHX 12/23/2004 PHX vs. MEM W 43 29 12 17 70.6 3 7 42.9 2 2 100.0 2 5 7 4 2 3 1 1 1
+p525
+aVAmar'e Stoudemire PHX 12/23/2004 PHX vs. MEM W 41 30 12 21 57.1 0 0 - 6 7 85.7 3 8 11 0 5 2 4 3 21
+p526
+aVSteve Nash PHX 12/23/2004 PHX vs. MEM W 40 17 5 13 38.5 1 3 33.3 6 7 85.7 0 2 2 14 0 1 2 1 15
+p527
+aVSteven Hunter PHX 12/20/2004 PHX @ DEN W 11 10 5 5 100.0 0 0 - 0 0 - 2 1 3 0 0 1 0 4 0
+p528
+aVLeandro Barbosa PHX 12/20/2004 PHX @ DEN W 13 4 2 5 40.0 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -4
+p529
+aVJoe Johnson PHX 12/20/2004 PHX @ DEN W 41 8 4 16 25.0 0 3 0.0 0 0 - 2 7 9 5 0 1 0 1 3
+p530
+aVShawn Marion PHX 12/20/2004 PHX @ DEN W 41 12 5 11 45.5 2 4 50.0 0 0 - 0 5 5 1 1 0 0 3 5
+p531
+aVAmar'e Stoudemire PHX 12/20/2004 PHX @ DEN W 39 32 11 16 68.8 0 0 - 10 11 90.9 2 7 9 3 0 2 3 2 0
+p532
+aVSteve Nash PHX 12/20/2004 PHX @ DEN W 35 15 6 11 54.5 1 2 50.0 2 2 100.0 0 1 1 10 0 0 6 2 6
+p533
+aVCasey Jacobsen PHX 12/20/2004 PHX @ DEN W 13 4 2 3 66.7 0 1 0.0 0 0 - 1 0 1 1 1 0 0 1 -5
+p534
+aVQuentin Richardson PHX 12/20/2004 PHX @ DEN W 42 19 7 13 53.8 2 6 33.3 3 4 75.0 2 5 7 1 3 1 1 1 6
+p535
+aVBo Outlaw PHX 12/20/2004 PHX @ DEN W 5 3 1 1 100.0 0 0 - 1 1 100.0 0 1 1 0 0 0 0 1 -1
+p536
+aVSteven Hunter PHX 12/18/2004 PHX vs. WAS W 23 17 7 8 87.5 0 0 - 3 4 75.0 3 4 7 0 0 1 1 0 16
+p537
+aVShawn Marion PHX 12/18/2004 PHX vs. WAS W 44 36 13 18 72.2 4 6 66.7 6 7 85.7 4 10 14 2 6 1 1 2 16
+p538
+aVSteve Nash PHX 12/18/2004 PHX vs. WAS W 36 13 6 12 50.0 1 2 50.0 0 0 - 1 4 5 11 3 0 3 2 18
+p539
+aVCasey Jacobsen PHX 12/18/2004 PHX vs. WAS W 16 6 2 3 66.7 2 3 66.7 0 0 - 0 1 1 2 0 0 0 1 1
+p540
+aVJoe Johnson PHX 12/18/2004 PHX vs. WAS W 41 9 4 14 28.6 1 3 33.3 0 0 - 2 5 7 6 0 0 1 1 15
+p541
+aVMaciej Lampe PHX 12/18/2004 PHX vs. WAS W 3 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p542
+aVLeandro Barbosa PHX 12/18/2004 PHX vs. WAS W 12 2 1 6 16.7 0 2 0.0 0 2 0.0 0 1 1 0 0 0 1 2 -4
+p543
+aVBo Outlaw PHX 12/18/2004 PHX vs. WAS W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -2
+p544
+aVQuentin Richardson PHX 12/18/2004 PHX vs. WAS W 39 19 7 19 36.8 5 10 50.0 0 0 - 1 5 6 2 1 0 1 2 12
+p545
+aVAmar'e Stoudemire PHX 12/18/2004 PHX vs. WAS W 22 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 4 2 0 4 5 2
+p546
+aVQuentin Richardson PHX 12/17/2004 PHX @ SEA W 40 18 6 14 42.9 3 9 33.3 3 3 100.0 0 5 5 0 0 0 0 2 0
+p547
+aVLeandro Barbosa PHX 12/17/2004 PHX @ SEA W 12 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 2 1 0 1 2 8
+p548
+aVJoe Johnson PHX 12/17/2004 PHX @ SEA W 46 24 10 20 50.0 2 6 33.3 2 2 100.0 2 8 10 5 0 0 0 2 1
+p549
+aVSteve Nash PHX 12/17/2004 PHX @ SEA W 36 21 8 14 57.1 1 3 33.3 4 4 100.0 1 5 6 12 0 0 3 3 -6
+p550
+aVBo Outlaw PHX 12/17/2004 PHX @ SEA W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p551
+aVAmar'e Stoudemire PHX 12/17/2004 PHX @ SEA W 38 20 6 11 54.5 0 0 - 8 15 53.3 4 5 9 1 0 1 4 5 5
+p552
+aVSteven Hunter PHX 12/17/2004 PHX @ SEA W 9 0 0 1 0.0 0 0 - 0 2 0.0 1 1 2 0 0 0 0 1 -3
+p553
+aVCasey Jacobsen PHX 12/17/2004 PHX @ SEA W 14 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 3 5
+p554
+aVShawn Marion PHX 12/17/2004 PHX @ SEA W 42 22 7 17 41.2 1 3 33.3 7 7 100.0 2 4 6 1 2 0 3 3 0
+p555
+aVShawn Marion PHX 12/15/2004 PHX vs. UTA W 33 16 7 17 41.2 1 3 33.3 1 2 50.0 5 8 13 1 2 2 0 2 10
+p556
+aVJoe Johnson PHX 12/15/2004 PHX vs. UTA W 36 30 12 17 70.6 5 5 100.0 1 3 33.3 1 5 6 1 1 0 0 0 13
+p557
+aVCasey Jacobsen PHX 12/15/2004 PHX vs. UTA W 20 5 1 2 50.0 1 2 50.0 2 4 50.0 0 2 2 1 0 0 0 1 16
+p558
+aVLeandro Barbosa PHX 12/15/2004 PHX vs. UTA W 22 10 2 8 25.0 2 4 50.0 4 4 100.0 1 2 3 1 0 0 2 0 21
+p559
+aVYuta Tabuse PHX 12/15/2004 PHX vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p560
+aVSteve Nash PHX 12/15/2004 PHX vs. UTA W 28 13 3 7 42.9 0 3 0.0 7 8 87.5 0 1 1 11 1 0 2 0 6
+p561
+aVAmar'e Stoudemire PHX 12/15/2004 PHX vs. UTA W 29 19 5 7 71.4 0 0 - 9 10 90.0 0 4 4 1 0 1 0 4 21
+p562
+aVQuentin Richardson PHX 12/15/2004 PHX vs. UTA W 36 3 1 8 12.5 1 7 14.3 0 0 - 1 7 8 1 0 0 2 0 9
+p563
+aVBo Outlaw PHX 12/15/2004 PHX vs. UTA W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 1 7
+p564
+aVSteven Hunter PHX 12/15/2004 PHX vs. UTA W 14 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 0 0 1 0 5 0
+p565
+aVZarko Cabarkapa PHX 12/15/2004 PHX vs. UTA W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p566
+aVMaciej Lampe PHX 12/15/2004 PHX vs. UTA W 15 7 2 5 40.0 0 1 0.0 3 4 75.0 0 2 2 0 0 1 1 3 5
+p567
+aVSteve Nash PHX 12/13/2004 PHX vs. ORL W 27 6 2 7 28.6 2 3 66.7 0 0 - 2 3 5 10 0 0 3 5 11
+p568
+aVQuentin Richardson PHX 12/13/2004 PHX vs. ORL W 42 26 10 20 50.0 6 12 50.0 0 0 - 1 3 4 5 4 1 0 3 18
+p569
+aVZarko Cabarkapa PHX 12/13/2004 PHX vs. ORL W 4 3 1 2 50.0 0 0 - 1 1 100.0 1 0 1 0 0 0 0 0 2
+p570
+aVSteven Hunter PHX 12/13/2004 PHX vs. ORL W 15 9 3 4 75.0 0 0 - 3 4 75.0 2 3 5 0 0 2 1 3 4
+p571
+aVShawn Marion PHX 12/13/2004 PHX vs. ORL W 41 19 8 14 57.1 0 3 0.0 3 4 75.0 3 7 10 3 0 6 2 2 21
+p572
+aVLeandro Barbosa PHX 12/13/2004 PHX vs. ORL W 21 19 6 8 75.0 3 4 75.0 4 6 66.7 1 3 4 4 0 0 0 4 10
+p573
+aVAmar'e Stoudemire PHX 12/13/2004 PHX vs. ORL W 36 21 9 14 64.3 0 0 - 3 8 37.5 1 8 9 1 1 1 3 4 15
+p574
+aVCasey Jacobsen PHX 12/13/2004 PHX vs. ORL W 14 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 8
+p575
+aVYuta Tabuse PHX 12/13/2004 PHX vs. ORL W 2 0 0 2 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p576
+aVJoe Johnson PHX 12/13/2004 PHX vs. ORL W 38 18 7 17 41.2 2 7 28.6 2 2 100.0 1 5 6 7 1 0 3 1 18
+p577
+aVJoe Johnson PHX 12/10/2004 PHX vs. CHA W 40 12 4 11 36.4 2 3 66.7 2 2 100.0 2 2 4 2 0 0 3 0 7
+p578
+aVShawn Marion PHX 12/10/2004 PHX vs. CHA W 35 20 9 17 52.9 2 4 50.0 0 0 - 1 7 8 0 0 2 1 4 16
+p579
+aVLeandro Barbosa PHX 12/10/2004 PHX vs. CHA W 13 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 1 0 1 2 1 -6
+p580
+aVSteven Hunter PHX 12/10/2004 PHX vs. CHA W 15 10 5 6 83.3 0 0 - 0 1 0.0 2 1 3 2 0 2 0 2 4
+p581
+aVSteve Nash PHX 12/10/2004 PHX vs. CHA W 36 9 4 12 33.3 1 4 25.0 0 0 - 0 2 2 14 1 0 3 3 12
+p582
+aVQuentin Richardson PHX 12/10/2004 PHX vs. CHA W 37 20 7 12 58.3 4 8 50.0 2 2 100.0 0 4 4 1 0 1 1 0 15
+p583
+aVCasey Jacobsen PHX 12/10/2004 PHX vs. CHA W 14 4 1 3 33.3 1 2 50.0 1 2 50.0 0 3 3 0 0 0 0 0 -1
+p584
+aVMaciej Lampe PHX 12/10/2004 PHX vs. CHA W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -6
+p585
+aVAmar'e Stoudemire PHX 12/10/2004 PHX vs. CHA W 43 36 13 20 65.0 0 1 0.0 10 12 83.3 1 14 15 8 1 1 5 3 4
+p586
+aVBo Outlaw PHX 12/10/2004 PHX vs. CHA W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 0
+p587
+aVQuentin Richardson PHX 12/08/2004 PHX @ LAL W 39 21 6 19 31.6 5 13 38.5 4 4 100.0 3 4 7 4 2 0 0 0 5
+p588
+aVBo Outlaw PHX 12/08/2004 PHX @ LAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p589
+aVAmar'e Stoudemire PHX 12/08/2004 PHX @ LAL W 39 23 7 10 70.0 0 0 - 9 11 81.8 0 10 10 2 1 0 4 6 9
+p590
+aVSteven Hunter PHX 12/08/2004 PHX @ LAL W 15 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 1 0 2 -7
+p591
+aVCasey Jacobsen PHX 12/08/2004 PHX @ LAL W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 2 1
+p592
+aVSteve Nash PHX 12/08/2004 PHX @ LAL W 40 12 5 13 38.5 2 6 33.3 0 0 - 1 5 6 10 2 0 3 0 7
+p593
+aVLeandro Barbosa PHX 12/08/2004 PHX @ LAL W 13 7 3 3 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 1
+p594
+aVJoe Johnson PHX 12/08/2004 PHX @ LAL W 43 25 10 19 52.6 5 7 71.4 0 0 - 3 0 3 7 2 1 2 2 1
+p595
+aVShawn Marion PHX 12/08/2004 PHX @ LAL W 43 19 7 16 43.8 3 6 50.0 2 3 66.7 2 7 9 4 3 3 2 3 0
+p596
+aVSteven Hunter PHX 12/07/2004 PHX vs. GSW W 14 4 1 4 25.0 0 0 - 2 6 33.3 0 1 1 0 0 4 0 0 -5
+p597
+aVShawn Marion PHX 12/07/2004 PHX vs. GSW W 43 23 7 14 50.0 1 3 33.3 8 9 88.9 4 6 10 4 2 3 0 2 13
+p598
+aVLeandro Barbosa PHX 12/07/2004 PHX vs. GSW W 9 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 2 0 0 1 2 2
+p599
+aVBo Outlaw PHX 12/07/2004 PHX vs. GSW W 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 3
+p600
+aVJoe Johnson PHX 12/07/2004 PHX vs. GSW W 41 20 8 18 44.4 3 4 75.0 1 1 100.0 1 5 6 2 0 1 1 4 0
+p601
+aVAmar'e Stoudemire PHX 12/07/2004 PHX vs. GSW W 35 33 12 20 60.0 0 0 - 9 10 90.0 2 9 11 0 1 1 3 4 17
+p602
+aVSteve Nash PHX 12/07/2004 PHX vs. GSW W 38 26 10 17 58.8 3 5 60.0 3 3 100.0 1 5 6 11 0 0 6 2 18
+p603
+aVCasey Jacobsen PHX 12/07/2004 PHX vs. GSW W 13 1 0 0 - 0 0 - 1 2 50.0 0 4 4 1 0 0 0 0 2
+p604
+aVQuentin Richardson PHX 12/07/2004 PHX vs. GSW W 43 9 3 10 30.0 1 5 20.0 2 4 50.0 0 7 7 1 2 0 0 2 20
+p605
+aVAmar'e Stoudemire PHX 12/05/2004 PHX @ POR W 39 19 6 15 40.0 0 0 - 7 11 63.6 5 4 9 3 0 2 2 2 14
+p606
+aVSteven Hunter PHX 12/05/2004 PHX @ POR W 20 9 4 6 66.7 0 0 - 1 1 100.0 4 2 6 0 0 2 1 2 21
+p607
+aVLeandro Barbosa PHX 12/05/2004 PHX @ POR W 19 3 1 6 16.7 1 4 25.0 0 0 - 1 0 1 2 0 0 2 5 0
+p608
+aVSteve Nash PHX 12/05/2004 PHX @ POR W 29 10 4 7 57.1 0 1 0.0 2 2 100.0 0 3 3 11 0 0 2 1 22
+p609
+aVShawn Marion PHX 12/05/2004 PHX @ POR W 35 16 6 15 40.0 2 3 66.7 2 2 100.0 3 9 12 2 4 3 1 1 24
+p610
+aVJoe Johnson PHX 12/05/2004 PHX @ POR W 37 15 6 11 54.5 3 4 75.0 0 0 - 1 1 2 5 0 0 2 2 5
+p611
+aVMaciej Lampe PHX 12/05/2004 PHX @ POR W 5 2 1 3 33.3 0 0 - 0 0 - 0 3 3 0 0 0 0 1 4
+p612
+aVCasey Jacobsen PHX 12/05/2004 PHX @ POR W 17 8 2 5 40.0 1 3 33.3 3 4 75.0 1 0 1 1 0 0 1 4 -6
+p613
+aVQuentin Richardson PHX 12/05/2004 PHX @ POR W 33 37 12 19 63.2 8 12 66.7 5 5 100.0 1 3 4 2 1 1 1 1 28
+p614
+aVBo Outlaw PHX 12/05/2004 PHX @ POR W 6 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 1 0 -2
+p615
+aVSteve Nash PHX 12/03/2004 PHX vs. MIN L 37 22 9 17 52.9 0 3 0.0 4 4 100.0 1 2 3 8 0 0 3 3 -7
+p616
+aVJoe Johnson PHX 12/03/2004 PHX vs. MIN L 42 4 2 11 18.2 0 3 0.0 0 0 - 1 3 4 4 1 0 1 3 -2
+p617
+aVCasey Jacobsen PHX 12/03/2004 PHX vs. MIN L 16 0 0 2 0.0 0 1 0.0 0 0 - 1 2 3 1 0 0 0 3 -3
+p618
+aVShawn Marion PHX 12/03/2004 PHX vs. MIN L 42 21 9 21 42.9 0 4 0.0 3 4 75.0 8 10 18 1 2 0 1 4 2
+p619
+aVAmar'e Stoudemire PHX 12/03/2004 PHX vs. MIN L 37 28 11 21 52.4 0 0 - 6 7 85.7 1 3 4 2 0 1 3 4 6
+p620
+aVQuentin Richardson PHX 12/03/2004 PHX vs. MIN L 38 12 5 16 31.3 2 6 33.3 0 0 - 1 10 11 0 2 0 1 2 -3
+p621
+aVBo Outlaw PHX 12/03/2004 PHX vs. MIN L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 1
+p622
+aVJake Voskuhl PHX 12/03/2004 PHX vs. MIN L 6 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 2 1 -9
+p623
+aVSteven Hunter PHX 12/03/2004 PHX vs. MIN L 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 2 0 0 -8
+p624
+aVLeandro Barbosa PHX 12/03/2004 PHX vs. MIN L 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 1 0 3 0 3
+p625
+aVLeandro Barbosa PHX 12/01/2004 PHX vs. CLE W 18 15 6 11 54.5 2 5 40.0 1 1 100.0 1 1 2 1 1 1 1 1 0
+p626
+aVJake Voskuhl PHX 12/01/2004 PHX vs. CLE W 19 6 1 2 50.0 0 0 - 4 4 100.0 1 4 5 1 0 0 1 2 2
+p627
+aVBo Outlaw PHX 12/01/2004 PHX vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 6
+p628
+aVAmar'e Stoudemire PHX 12/01/2004 PHX vs. CLE W 30 21 9 16 56.3 0 0 - 3 4 75.0 2 7 9 0 0 2 2 4 22
+p629
+aVMaciej Lampe PHX 12/01/2004 PHX vs. CLE W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 0 0
+p630
+aVQuentin Richardson PHX 12/01/2004 PHX vs. CLE W 36 21 9 15 60.0 1 3 33.3 2 2 100.0 0 4 4 1 1 0 2 2 11
+p631
+aVSteve Nash PHX 12/01/2004 PHX vs. CLE W 30 21 8 13 61.5 3 4 75.0 2 2 100.0 3 4 7 7 1 0 1 0 19
+p632
+aVCasey Jacobsen PHX 12/01/2004 PHX vs. CLE W 26 8 2 6 33.3 1 3 33.3 3 4 75.0 0 1 1 1 0 0 0 0 12
+p633
+aVJackson Vroman PHX 12/01/2004 PHX vs. CLE W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 0 1 0
+p634
+aVShawn Marion PHX 12/01/2004 PHX vs. CLE W 34 10 4 11 36.4 0 1 0.0 2 2 100.0 5 7 12 3 1 0 4 0 8
+p635
+aVJoe Johnson PHX 12/01/2004 PHX vs. CLE W 34 18 8 14 57.1 1 2 50.0 1 2 50.0 0 4 4 3 1 0 1 3 15
+p636
+aVShawn Marion PHX 11/30/2004 PHX @ UTA W 45 21 8 18 44.4 1 4 25.0 4 4 100.0 1 8 9 3 1 4 3 2 13
+p637
+aVSteven Hunter PHX 11/30/2004 PHX @ UTA W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p638
+aVQuentin Richardson PHX 11/30/2004 PHX @ UTA W 29 18 7 12 58.3 2 7 28.6 2 2 100.0 0 4 4 4 3 0 0 5 12
+p639
+aVSteve Nash PHX 11/30/2004 PHX @ UTA W 39 20 6 12 50.0 1 3 33.3 7 7 100.0 0 0 0 14 3 0 1 3 22
+p640
+aVAmar'e Stoudemire PHX 11/30/2004 PHX @ UTA W 38 29 11 16 68.8 0 2 0.0 7 13 53.8 0 9 9 1 0 4 0 3 11
+p641
+aVJake Voskuhl PHX 11/30/2004 PHX @ UTA W 10 4 1 1 100.0 0 0 - 2 2 100.0 2 1 3 0 0 0 0 2 -1
+p642
+aVCasey Jacobsen PHX 11/30/2004 PHX @ UTA W 26 4 1 1 100.0 1 1 100.0 1 2 50.0 0 2 2 0 2 0 1 2 -3
+p643
+aVLeandro Barbosa PHX 11/30/2004 PHX @ UTA W 11 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 1 1 0 1 3 -8
+p644
+aVJoe Johnson PHX 11/30/2004 PHX @ UTA W 39 15 6 13 46.2 3 7 42.9 0 0 - 1 4 5 2 0 1 1 0 16
+p645
+aVSteven Hunter PHX 11/26/2004 PHX vs. NOH W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -6
+p646
+aVJoe Johnson PHX 11/26/2004 PHX vs. NOH W 44 13 5 15 33.3 1 3 33.3 2 2 100.0 2 3 5 7 1 0 3 0 5
+p647
+aVAmar'e Stoudemire PHX 11/26/2004 PHX vs. NOH W 37 14 6 15 40.0 0 0 - 2 6 33.3 3 11 14 0 1 4 4 4 -2
+p648
+aVShawn Marion PHX 11/26/2004 PHX vs. NOH W 44 33 11 22 50.0 4 8 50.0 7 7 100.0 3 12 15 4 0 3 2 3 11
+p649
+aVSteve Nash PHX 11/26/2004 PHX vs. NOH W 19 4 1 7 14.3 0 2 0.0 2 2 100.0 0 0 0 6 1 0 2 0 -2
+p650
+aVCasey Jacobsen PHX 11/26/2004 PHX vs. NOH W 25 7 3 6 50.0 1 3 33.3 0 0 - 1 1 2 0 0 0 3 3 6
+p651
+aVJake Voskuhl PHX 11/26/2004 PHX vs. NOH W 25 3 1 2 50.0 0 0 - 1 2 50.0 4 3 7 1 1 1 0 5 22
+p652
+aVQuentin Richardson PHX 11/26/2004 PHX vs. NOH W 43 21 7 15 46.7 4 8 50.0 3 4 75.0 1 0 1 3 2 1 3 4 11
+p653
+aVJake Voskuhl PHX 11/24/2004 PHX vs. MIL W 11 0 0 0 - 0 0 - 0 0 - 0 5 5 1 0 0 0 1 9
+p654
+aVLeandro Barbosa PHX 11/24/2004 PHX vs. MIL W 22 12 5 8 62.5 1 1 100.0 1 1 100.0 0 3 3 3 0 0 0 2 -8
+p655
+aVShawn Marion PHX 11/24/2004 PHX vs. MIL W 42 23 10 19 52.6 2 4 50.0 1 2 50.0 3 9 12 2 1 2 1 3 5
+p656
+aVJoe Johnson PHX 11/24/2004 PHX vs. MIL W 42 13 4 14 28.6 1 3 33.3 4 4 100.0 1 3 4 1 0 0 0 4 22
+p657
+aVQuentin Richardson PHX 11/24/2004 PHX vs. MIL W 40 20 7 14 50.0 3 7 42.9 3 4 75.0 3 5 8 1 2 1 2 0 -2
+p658
+aVCasey Jacobsen PHX 11/24/2004 PHX vs. MIL W 15 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 1 -5
+p659
+aVAmar'e Stoudemire PHX 11/24/2004 PHX vs. MIL W 37 16 5 15 33.3 0 0 - 6 9 66.7 2 4 6 1 1 2 4 3 -2
+p660
+aVSteve Nash PHX 11/24/2004 PHX vs. MIL W 31 22 11 16 68.8 0 2 0.0 0 1 0.0 0 1 1 12 1 0 1 4 16
+p661
+aVSteve Nash PHX 11/22/2004 PHX vs. CHI W 29 15 6 10 60.0 1 3 33.3 2 3 66.7 0 1 1 6 2 0 3 1 16
+p662
+aVSteven Hunter PHX 11/22/2004 PHX vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p663
+aVJake Voskuhl PHX 11/22/2004 PHX vs. CHI W 10 2 1 1 100.0 0 0 - 0 0 - 2 3 5 2 0 1 0 1 10
+p664
+aVAmar'e Stoudemire PHX 11/22/2004 PHX vs. CHI W 35 21 7 8 87.5 0 0 - 7 10 70.0 1 5 6 5 0 2 2 4 23
+p665
+aVBo Outlaw PHX 11/22/2004 PHX vs. CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 1 2 -5
+p666
+aVShawn Marion PHX 11/22/2004 PHX vs. CHI W 39 21 7 15 46.7 1 4 25.0 6 6 100.0 4 12 16 0 0 0 1 3 20
+p667
+aVJoe Johnson PHX 11/22/2004 PHX vs. CHI W 38 11 4 11 36.4 3 7 42.9 0 0 - 0 6 6 2 0 0 1 2 16
+p668
+aVQuentin Richardson PHX 11/22/2004 PHX vs. CHI W 25 4 1 8 12.5 0 5 0.0 2 2 100.0 1 4 5 2 1 0 2 3 15
+p669
+aVLeandro Barbosa PHX 11/22/2004 PHX vs. CHI W 19 10 3 9 33.3 2 5 40.0 2 2 100.0 1 0 1 1 0 1 2 3 2
+p670
+aVMaciej Lampe PHX 11/22/2004 PHX vs. CHI W 6 3 1 3 33.3 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -4
+p671
+aVCasey Jacobsen PHX 11/22/2004 PHX vs. CHI W 26 10 3 13 23.1 0 6 0.0 4 4 100.0 2 4 6 3 1 0 3 1 3
+p672
+aVJackson Vroman PHX 11/22/2004 PHX vs. CHI W 4 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 1 -5
+p673
+aVLeandro Barbosa PHX 11/21/2004 PHX @ LAC W 10 5 2 4 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 0 1 -4
+p674
+aVAmar'e Stoudemire PHX 11/21/2004 PHX @ LAC W 34 33 14 23 60.9 0 0 - 5 8 62.5 4 3 7 0 1 0 3 2 17
+p675
+aVQuentin Richardson PHX 11/21/2004 PHX @ LAC W 30 11 3 11 27.3 2 6 33.3 3 4 75.0 0 2 2 1 0 0 2 6 13
+p676
+aVSteve Nash PHX 11/21/2004 PHX @ LAC W 38 22 8 10 80.0 2 3 66.7 4 6 66.7 0 3 3 18 4 0 4 3 15
+p677
+aVShawn Marion PHX 11/21/2004 PHX @ LAC W 40 22 8 15 53.3 2 3 66.7 4 4 100.0 3 11 14 4 3 4 2 2 5
+p678
+aVCasey Jacobsen PHX 11/21/2004 PHX @ LAC W 23 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 5
+p679
+aVJake Voskuhl PHX 11/21/2004 PHX @ LAC W 2 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 1 2 0
+p680
+aVJoe Johnson PHX 11/21/2004 PHX @ LAC W 42 23 7 13 53.8 5 6 83.3 4 4 100.0 2 2 4 2 1 2 1 1 4
+p681
+aVBo Outlaw PHX 11/21/2004 PHX @ LAC W 8 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 2 0 0 6
+p682
+aVSteven Hunter PHX 11/21/2004 PHX @ LAC W 13 3 1 2 50.0 0 0 - 1 4 25.0 1 0 1 0 0 1 0 3 -6
+p683
+aVSteve Nash PHX 11/19/2004 PHX vs. LAL W 39 18 7 11 63.6 2 3 66.7 2 2 100.0 0 1 1 16 0 0 3 1 10
+p684
+aVQuentin Richardson PHX 11/19/2004 PHX vs. LAL W 35 5 1 7 14.3 1 5 20.0 2 2 100.0 1 4 5 1 1 0 0 6 -6
+p685
+aVAmar'e Stoudemire PHX 11/19/2004 PHX vs. LAL W 42 33 15 24 62.5 0 0 - 3 4 75.0 6 8 14 2 0 2 1 2 3
+p686
+aVShawn Marion PHX 11/19/2004 PHX vs. LAL W 46 27 12 26 46.2 1 9 11.1 2 4 50.0 3 12 15 1 1 4 1 3 8
+p687
+aVCasey Jacobsen PHX 11/19/2004 PHX vs. LAL W 23 6 1 4 25.0 0 2 0.0 4 5 80.0 0 1 1 1 0 1 1 1 20
+p688
+aVLeandro Barbosa PHX 11/19/2004 PHX vs. LAL W 9 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 1 0 0 0 0 -5
+p689
+aVSteven Hunter PHX 11/19/2004 PHX vs. LAL W 8 1 0 0 - 0 0 - 1 2 50.0 1 1 2 0 0 0 0 0 -1
+p690
+aVJoe Johnson PHX 11/19/2004 PHX vs. LAL W 38 17 6 17 35.3 3 6 50.0 2 2 100.0 4 1 5 2 0 0 0 4 -4
+p691
+aVJake Voskuhl PHX 11/17/2004 PHX @ NOH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p692
+aVCasey Jacobsen PHX 11/17/2004 PHX @ NOH W 26 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 2 0 0 0 4 9
+p693
+aVJoe Johnson PHX 11/17/2004 PHX @ NOH W 40 9 4 7 57.1 1 1 100.0 0 0 - 1 6 7 4 2 1 2 0 8
+p694
+aVShawn Marion PHX 11/17/2004 PHX @ NOH W 40 23 9 16 56.3 3 5 60.0 2 2 100.0 2 7 9 3 1 2 0 0 3
+p695
+aVAmar'e Stoudemire PHX 11/17/2004 PHX @ NOH W 46 38 14 22 63.6 0 0 - 10 18 55.6 2 3 5 0 0 3 1 4 15
+p696
+aVQuentin Richardson PHX 11/17/2004 PHX @ NOH W 30 4 2 10 20.0 0 4 0.0 0 0 - 0 2 2 1 2 0 3 1 4
+p697
+aVSteve Nash PHX 11/17/2004 PHX @ NOH W 35 16 6 10 60.0 2 2 100.0 2 2 100.0 1 5 6 12 2 0 4 0 8
+p698
+aVSteven Hunter PHX 11/17/2004 PHX @ NOH W 19 3 1 2 50.0 0 0 - 1 2 50.0 2 1 3 0 0 1 1 1 9
+p699
+aVQuentin Richardson PHX 11/16/2004 PHX @ DAL W 40 18 8 21 38.1 2 8 25.0 0 2 0.0 1 12 13 1 2 0 2 2 -1
+p700
+aVSteven Hunter PHX 11/16/2004 PHX @ DAL W 8 5 2 2 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 2 1 -4
+p701
+aVBo Outlaw PHX 11/16/2004 PHX @ DAL W 8 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 0
+p702
+aVCasey Jacobsen PHX 11/16/2004 PHX @ DAL W 21 6 2 5 40.0 2 5 40.0 0 0 - 0 2 2 3 0 0 0 3 -5
+p703
+aVAmar'e Stoudemire PHX 11/16/2004 PHX @ DAL W 40 34 12 18 66.7 0 0 - 10 18 55.6 4 7 11 0 2 2 2 3 10
+p704
+aVSteve Nash PHX 11/16/2004 PHX @ DAL W 42 17 7 15 46.7 2 8 25.0 1 1 100.0 0 6 6 18 0 0 10 4 8
+p705
+aVJoe Johnson PHX 11/16/2004 PHX @ DAL W 39 7 3 10 30.0 1 3 33.3 0 0 - 2 5 7 5 0 0 2 3 9
+p706
+aVShawn Marion PHX 11/16/2004 PHX @ DAL W 42 18 8 18 44.4 0 3 0.0 2 2 100.0 8 6 14 0 1 2 2 3 13
+p707
+aVLeandro Barbosa PHX 11/13/2004 PHX vs. SAC L 12 4 2 2 100.0 0 0 - 0 0 - 1 1 2 1 0 0 2 0 -6
+p708
+aVCasey Jacobsen PHX 11/13/2004 PHX vs. SAC L 21 14 5 7 71.4 3 5 60.0 1 1 100.0 0 1 1 0 1 0 2 2 -8
+p709
+aVJackson Vroman PHX 11/13/2004 PHX vs. SAC L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p710
+aVJoe Johnson PHX 11/13/2004 PHX vs. SAC L 38 15 6 14 42.9 1 3 33.3 2 2 100.0 2 1 3 2 0 0 4 4 1
+p711
+aVSteven Hunter PHX 11/13/2004 PHX vs. SAC L 17 4 1 4 25.0 0 0 - 2 2 100.0 0 2 2 0 0 4 1 0 -3
+p712
+aVQuentin Richardson PHX 11/13/2004 PHX vs. SAC L 36 2 0 7 0.0 0 5 0.0 2 2 100.0 2 5 7 2 2 0 0 6 4
+p713
+aVShawn Marion PHX 11/13/2004 PHX vs. SAC L 39 14 6 15 40.0 0 3 0.0 2 3 66.7 4 11 15 3 1 2 2 1 10
+p714
+aVAmar'e Stoudemire PHX 11/13/2004 PHX vs. SAC L 39 29 10 16 62.5 0 0 - 9 10 90.0 4 5 9 0 0 3 3 4 -7
+p715
+aVSteve Nash PHX 11/13/2004 PHX vs. SAC L 36 29 11 16 68.8 5 8 62.5 2 2 100.0 2 1 3 7 0 0 3 3 4
+p716
+aVJake Voskuhl PHX 11/10/2004 PHX @ CLE L 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -12
+p717
+aVShawn Marion PHX 11/10/2004 PHX @ CLE L 47 22 9 22 40.9 0 2 0.0 4 5 80.0 3 9 12 3 2 0 1 4 2
+p718
+aVSteven Hunter PHX 11/10/2004 PHX @ CLE L 21 14 5 8 62.5 0 0 - 4 6 66.7 2 6 8 1 0 2 2 4 9
+p719
+aVQuentin Richardson PHX 11/10/2004 PHX @ CLE L 48 21 8 18 44.4 5 11 45.5 0 0 - 1 7 8 1 0 1 2 3 4
+p720
+aVBo Outlaw PHX 11/10/2004 PHX @ CLE L 4 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -3
+p721
+aVCasey Jacobsen PHX 11/10/2004 PHX @ CLE L 14 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p722
+aVJoe Johnson PHX 11/10/2004 PHX @ CLE L 42 17 7 14 50.0 3 5 60.0 0 0 - 0 3 3 1 0 1 1 4 -6
+p723
+aVSteve Nash PHX 11/10/2004 PHX @ CLE L 50 15 5 13 38.5 1 3 33.3 4 6 66.7 1 6 7 17 0 0 1 5 1
+p724
+aVAmar'e Stoudemire PHX 11/10/2004 PHX @ CLE L 29 20 7 19 36.8 0 0 - 6 9 66.7 2 2 4 1 1 2 5 6 -13
+p725
+aVMaciej Lampe PHX 11/10/2004 PHX @ CLE L 2 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -6
+p726
+aVShawn Marion PHX 11/09/2004 PHX @ CHI W 36 14 7 14 50.0 0 4 0.0 0 0 - 2 11 13 1 2 3 2 1 15
+p727
+aVCasey Jacobsen PHX 11/09/2004 PHX @ CHI W 22 6 1 4 25.0 0 2 0.0 4 4 100.0 1 0 1 3 0 0 1 2 -1
+p728
+aVJoe Johnson PHX 11/09/2004 PHX @ CHI W 35 20 7 18 38.9 4 6 66.7 2 2 100.0 0 5 5 2 0 1 2 5 19
+p729
+aVMaciej Lampe PHX 11/09/2004 PHX @ CHI W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -8
+p730
+aVSteven Hunter PHX 11/09/2004 PHX @ CHI W 13 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 2 3 4
+p731
+aVJake Voskuhl PHX 11/09/2004 PHX @ CHI W 7 1 0 0 - 0 0 - 1 2 50.0 0 1 1 1 0 1 1 1 1
+p732
+aVAmar'e Stoudemire PHX 11/09/2004 PHX @ CHI W 35 26 8 15 53.3 0 0 - 10 11 90.9 3 12 15 0 1 1 1 2 22
+p733
+aVSteve Nash PHX 11/09/2004 PHX @ CHI W 33 8 3 9 33.3 0 3 0.0 2 2 100.0 0 3 3 12 0 0 1 3 21
+p734
+aVQuentin Richardson PHX 11/09/2004 PHX @ CHI W 38 16 5 14 35.7 3 7 42.9 3 4 75.0 3 4 7 4 2 0 0 2 30
+p735
+aVLeandro Barbosa PHX 11/09/2004 PHX @ CHI W 10 2 1 2 50.0 0 0 - 0 0 - 2 3 5 0 0 0 2 0 -2
+p736
+aVBo Outlaw PHX 11/09/2004 PHX @ CHI W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 1 0 1 1 0 -1
+p737
+aVYuta Tabuse PHX 11/06/2004 PHX @ NJN W 3 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 7
+p738
+aVJoe Johnson PHX 11/06/2004 PHX @ NJN W 33 18 6 12 50.0 3 4 75.0 3 4 75.0 1 5 6 4 0 0 2 1 7
+p739
+aVSteve Nash PHX 11/06/2004 PHX @ NJN W 37 17 6 8 75.0 1 1 100.0 4 4 100.0 1 1 2 8 3 0 6 0 21
+p740
+aVCasey Jacobsen PHX 11/06/2004 PHX @ NJN W 18 9 3 3 100.0 1 1 100.0 2 2 100.0 0 2 2 0 0 0 1 3 31
+p741
+aVSteven Hunter PHX 11/06/2004 PHX @ NJN W 17 12 4 4 100.0 0 0 - 4 6 66.7 2 3 5 1 0 4 0 0 28
+p742
+aVMaciej Lampe PHX 11/06/2004 PHX @ NJN W 14 8 4 6 66.7 0 0 - 0 0 - 0 1 1 0 0 0 0 3 11
+p743
+aVShawn Marion PHX 11/06/2004 PHX @ NJN W 31 13 5 11 45.5 1 3 33.3 2 6 33.3 1 4 5 3 2 2 0 3 4
+p744
+aVAmar'e Stoudemire PHX 11/06/2004 PHX @ NJN W 34 22 7 12 58.3 0 0 - 8 10 80.0 3 6 9 1 2 1 1 2 21
+p745
+aVJake Voskuhl PHX 11/06/2004 PHX @ NJN W 13 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 5 10
+p746
+aVLeandro Barbosa PHX 11/06/2004 PHX @ NJN W 10 7 2 2 100.0 1 1 100.0 2 2 100.0 1 1 2 1 1 0 2 2 5
+p747
+aVQuentin Richardson PHX 11/06/2004 PHX @ NJN W 30 6 2 9 22.2 0 4 0.0 2 2 100.0 2 4 6 0 1 0 2 4 15
+p748
+aVQuentin Richardson PHX 11/05/2004 PHX @ PHI W 39 15 5 13 38.5 3 10 30.0 2 2 100.0 2 5 7 3 3 0 2 2 25
+p749
+aVAmar'e Stoudemire PHX 11/05/2004 PHX @ PHI W 36 29 9 19 47.4 0 0 - 11 13 84.6 5 5 10 2 1 2 3 4 7
+p750
+aVLeandro Barbosa PHX 11/05/2004 PHX @ PHI W 11 2 1 3 33.3 0 1 0.0 0 0 - 1 1 2 3 0 0 0 2 8
+p751
+aVCasey Jacobsen PHX 11/05/2004 PHX @ PHI W 10 5 2 3 66.7 1 2 50.0 0 0 - 1 0 1 0 1 0 1 1 -3
+p752
+aVJackson Vroman PHX 11/05/2004 PHX @ PHI W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p753
+aVShawn Marion PHX 11/05/2004 PHX @ PHI W 42 24 9 26 34.6 4 8 50.0 2 3 66.7 4 7 11 3 4 0 0 4 7
+p754
+aVSteve Nash PHX 11/05/2004 PHX @ PHI W 32 9 3 5 60.0 1 1 100.0 2 2 100.0 0 4 4 10 0 0 4 5 4
+p755
+aVJoe Johnson PHX 11/05/2004 PHX @ PHI W 40 22 9 14 64.3 2 6 33.3 2 6 33.3 1 2 3 3 2 0 4 1 13
+p756
+aVJake Voskuhl PHX 11/05/2004 PHX @ PHI W 25 2 1 6 16.7 0 0 - 0 0 - 2 3 5 1 0 0 1 4 -7
+p757
+aVQuentin Richardson PHX 11/03/2004 PHX vs. ATL W 27 4 2 9 22.2 0 6 0.0 0 0 - 0 7 7 1 2 1 1 4 21
+p758
+aVSteve Nash PHX 11/03/2004 PHX vs. ATL W 24 12 6 12 50.0 0 2 0.0 0 0 - 0 3 3 4 2 0 3 2 17
+p759
+aVJake Voskuhl PHX 11/03/2004 PHX vs. ATL W 15 6 3 4 75.0 0 0 - 0 2 0.0 4 6 10 1 0 1 1 1 21
+p760
+aVJoe Johnson PHX 11/03/2004 PHX vs. ATL W 25 17 7 10 70.0 2 4 50.0 1 2 50.0 0 2 2 1 1 0 1 1 20
+p761
+aVShawn Marion PHX 11/03/2004 PHX vs. ATL W 25 10 5 9 55.6 0 0 - 0 1 0.0 2 7 9 2 3 2 2 3 19
+p762
+aVYuta Tabuse PHX 11/03/2004 PHX vs. ATL W 10 7 1 3 33.3 1 1 100.0 4 4 100.0 0 0 0 1 0 0 1 1 -8
+p763
+aVJackson Vroman PHX 11/03/2004 PHX vs. ATL W 16 4 2 5 40.0 0 0 - 0 0 - 2 3 5 1 1 1 3 4 1
+p764
+aVAmar'e Stoudemire PHX 11/03/2004 PHX vs. ATL W 30 23 9 13 69.2 0 0 - 5 6 83.3 4 4 8 1 1 2 0 0 35
+p765
+aVLeandro Barbosa PHX 11/03/2004 PHX vs. ATL W 24 9 3 9 33.3 2 5 40.0 1 2 50.0 1 1 2 3 0 0 2 5 13
+p766
+aVMaciej Lampe PHX 11/03/2004 PHX vs. ATL W 17 6 2 8 25.0 0 0 - 2 2 100.0 4 3 7 0 0 0 5 3 5
+p767
+aVSteven Hunter PHX 11/03/2004 PHX vs. ATL W 10 4 2 2 100.0 0 0 - 0 2 0.0 0 1 1 0 1 1 0 2 -8
+p768
+aVCasey Jacobsen PHX 11/03/2004 PHX vs. ATL W 17 10 3 5 60.0 0 1 0.0 4 4 100.0 0 1 1 0 2 0 2 0 14
+p769
+a.

@@ -1,0 +1,192 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVLarry Hughes WAS 05/14/2005 WAS vs. MIA L 42 15 4 17 23.5 1 2 50.0 6 8 75.0 2 6 8 5 3 0 3 2 1
+p2
+aVJared Jeffries WAS 05/14/2005 WAS vs. MIA L 21 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 1 2 1 4 -4
+p3
+aVJuan Dixon WAS 05/14/2005 WAS vs. MIA L 31 15 5 12 41.7 2 7 28.6 3 4 75.0 0 5 5 1 0 0 0 2 -1
+p4
+aVSteve Blake WAS 05/14/2005 WAS vs. MIA L 6 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 1 7
+p5
+aVGilbert Arenas WAS 05/14/2005 WAS vs. MIA L 39 25 5 17 29.4 1 7 14.3 14 19 73.7 2 4 6 3 1 0 3 6 -4
+p6
+aVBrendan Haywood WAS 05/14/2005 WAS vs. MIA L 43 18 7 14 50.0 0 0 - 4 6 66.7 6 9 15 0 2 5 1 5 1
+p7
+aVMichael Ruffin WAS 05/14/2005 WAS vs. MIA L 19 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 1 0 2 3 -11
+p8
+aVAntawn Jamison WAS 05/14/2005 WAS vs. MIA L 34 10 4 15 26.7 2 4 50.0 0 0 - 1 2 3 0 0 1 0 2 4
+p9
+aVAnthony Peeler WAS 05/14/2005 WAS vs. MIA L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -13
+p10
+aVMichael Ruffin WAS 05/12/2005 WAS vs. MIA L 17 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -19
+p11
+aVLarry Hughes WAS 05/12/2005 WAS vs. MIA L 48 19 6 13 46.2 1 3 33.3 6 6 100.0 2 5 7 2 1 1 0 1 -7
+p12
+aVGilbert Arenas WAS 05/12/2005 WAS vs. MIA L 48 20 7 19 36.8 2 10 20.0 4 8 50.0 0 4 4 14 2 0 6 2 -7
+p13
+aVAntawn Jamison WAS 05/12/2005 WAS vs. MIA L 44 21 9 22 40.9 3 7 42.9 0 0 - 1 2 3 2 0 1 1 2 -9
+p14
+aVBrendan Haywood WAS 05/12/2005 WAS vs. MIA L 33 15 7 11 63.6 0 0 - 1 2 50.0 5 3 8 2 0 1 0 2 3
+p15
+aVJuan Dixon WAS 05/12/2005 WAS vs. MIA L 30 16 7 11 63.6 2 4 50.0 0 0 - 0 1 1 1 0 0 2 3 -3
+p16
+aVJared Jeffries WAS 05/12/2005 WAS vs. MIA L 20 4 2 6 33.3 0 0 - 0 0 - 2 2 4 1 1 0 2 5 7
+p17
+aVAnthony Peeler WAS 05/10/2005 WAS @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p18
+aVLarry Hughes WAS 05/10/2005 WAS @ MIA L 39 15 5 17 29.4 0 3 0.0 5 7 71.4 4 4 8 3 1 1 3 6 -15
+p19
+aVMichael Ruffin WAS 05/10/2005 WAS @ MIA L 22 0 0 1 0.0 0 0 - 0 4 0.0 4 4 8 2 0 0 1 4 -9
+p20
+aVAntawn Jamison WAS 05/10/2005 WAS @ MIA L 41 32 11 22 50.0 4 8 50.0 6 7 85.7 3 2 5 0 1 0 1 3 3
+p21
+aVJared Jeffries WAS 05/10/2005 WAS @ MIA L 27 2 1 7 14.3 0 1 0.0 0 0 - 3 2 5 0 2 0 0 5 -9
+p22
+aVEtan Thomas WAS 05/10/2005 WAS @ MIA L 6 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 12
+p23
+aVBrendan Haywood WAS 05/10/2005 WAS @ MIA L 31 9 3 10 30.0 0 0 - 3 3 100.0 3 4 7 2 2 2 1 6 -16
+p24
+aVGilbert Arenas WAS 05/10/2005 WAS @ MIA L 47 28 9 19 47.4 3 9 33.3 7 10 70.0 0 1 1 5 2 0 4 3 -4
+p25
+aVJuan Dixon WAS 05/10/2005 WAS @ MIA L 26 10 5 11 45.5 0 1 0.0 0 0 - 0 6 6 1 3 0 2 2 8
+p26
+aVLarry Hughes WAS 05/08/2005 WAS @ MIA L 43 23 6 17 35.3 1 4 25.0 10 11 90.9 2 5 7 3 2 1 3 2 -21
+p27
+aVJared Jeffries WAS 05/08/2005 WAS @ MIA L 33 10 3 8 37.5 1 1 100.0 3 3 100.0 2 3 5 2 0 1 2 1 0
+p28
+aVJuan Dixon WAS 05/08/2005 WAS @ MIA L 10 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -8
+p29
+aVSteve Blake WAS 05/08/2005 WAS @ MIA L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p30
+aVLaron Profit WAS 05/08/2005 WAS @ MIA L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 1
+p31
+aVEtan Thomas WAS 05/08/2005 WAS @ MIA L 18 5 2 4 50.0 0 0 - 1 4 25.0 2 2 4 0 0 1 1 4 -23
+p32
+aVBrendan Haywood WAS 05/08/2005 WAS @ MIA L 26 10 3 7 42.9 0 0 - 4 6 66.7 1 4 5 0 2 1 1 5 3
+p33
+aVAntawn Jamison WAS 05/08/2005 WAS @ MIA L 31 13 6 11 54.5 0 1 0.0 1 2 50.0 2 6 8 0 1 0 2 1 -9
+p34
+aVGilbert Arenas WAS 05/08/2005 WAS @ MIA L 41 25 8 21 38.1 2 9 22.2 7 10 70.0 1 3 4 1 6 1 3 3 -10
+p35
+aVAnthony Peeler WAS 05/08/2005 WAS @ MIA L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 4 4 1 0 0 3 0 -9
+p36
+aVMichael Ruffin WAS 05/08/2005 WAS @ MIA L 19 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 6 -20
+p37
+aVLarry Hughes WAS 05/06/2005 WAS vs. CHI W 42 21 8 21 38.1 1 4 25.0 4 4 100.0 2 2 4 4 2 0 4 2 7
+p38
+aVAntawn Jamison WAS 05/06/2005 WAS vs. CHI W 41 19 8 17 47.1 2 2 100.0 1 3 33.3 0 5 5 2 1 0 2 2 5
+p39
+aVJuan Dixon WAS 05/06/2005 WAS vs. CHI W 15 7 2 9 22.2 1 2 50.0 2 3 66.7 0 2 2 0 0 0 1 1 -1
+p40
+aVBrendan Haywood WAS 05/06/2005 WAS vs. CHI W 36 13 5 6 83.3 0 0 - 3 8 37.5 4 4 8 1 2 3 1 4 4
+p41
+aVJared Jeffries WAS 05/06/2005 WAS vs. CHI W 23 12 4 5 80.0 2 3 66.7 2 3 66.7 0 4 4 2 1 0 1 2 -13
+p42
+aVMichael Ruffin WAS 05/06/2005 WAS vs. CHI W 25 3 1 1 100.0 0 0 - 1 1 100.0 2 6 8 1 0 1 0 4 10
+p43
+aVGilbert Arenas WAS 05/06/2005 WAS vs. CHI W 43 19 6 24 25.0 1 5 20.0 6 7 85.7 1 3 4 7 1 1 1 2 7
+p44
+aVEtan Thomas WAS 05/06/2005 WAS vs. CHI W 10 0 0 0 - 0 0 - 0 0 - 1 3 4 0 0 0 1 3 0
+p45
+aVSteve Blake WAS 05/06/2005 WAS vs. CHI W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 1 -4
+p46
+aVGilbert Arenas WAS 05/04/2005 WAS @ CHI W 48 16 5 14 35.7 0 6 0.0 6 9 66.7 0 6 6 8 1 0 4 2 2
+p47
+aVBrendan Haywood WAS 05/04/2005 WAS @ CHI W 33 17 8 10 80.0 0 0 - 1 2 50.0 3 4 7 2 1 5 0 5 15
+p48
+aVJuan Dixon WAS 05/04/2005 WAS @ CHI W 13 6 3 6 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 2 2 -7
+p49
+aVLarry Hughes WAS 05/04/2005 WAS @ CHI W 44 33 11 24 45.8 1 4 25.0 10 14 71.4 0 9 9 7 3 0 2 3 2
+p50
+aVMichael Ruffin WAS 05/04/2005 WAS @ CHI W 11 6 3 3 100.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -6
+p51
+aVJared Jeffries WAS 05/04/2005 WAS @ CHI W 40 12 6 9 66.7 0 0 - 0 0 - 4 4 8 1 2 0 2 5 6
+p52
+aVEtan Thomas WAS 05/04/2005 WAS @ CHI W 13 3 1 3 33.3 0 0 - 1 1 100.0 0 3 3 2 0 2 3 2 -11
+p53
+aVAnthony Peeler WAS 05/04/2005 WAS @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 6
+p54
+aVAntawn Jamison WAS 05/04/2005 WAS @ CHI W 34 19 9 13 69.2 1 1 100.0 0 4 0.0 3 7 10 2 1 0 3 5 3
+p55
+aVBrendan Haywood WAS 05/02/2005 WAS vs. CHI W 26 4 1 5 20.0 0 0 - 2 2 100.0 1 2 3 0 1 0 2 5 4
+p56
+aVLarry Hughes WAS 05/02/2005 WAS vs. CHI W 33 10 3 16 18.8 0 4 0.0 4 6 66.7 2 4 6 4 1 1 1 4 4
+p57
+aVJuan Dixon WAS 05/02/2005 WAS vs. CHI W 31 35 11 15 73.3 3 4 75.0 10 10 100.0 1 4 5 0 1 0 3 3 -4
+p58
+aVMichael Ruffin WAS 05/02/2005 WAS vs. CHI W 20 3 0 0 - 0 0 - 3 4 75.0 3 3 6 3 1 1 0 6 -3
+p59
+aVJared Jeffries WAS 05/02/2005 WAS vs. CHI W 16 8 3 4 75.0 0 0 - 2 2 100.0 4 4 8 4 0 1 1 4 5
+p60
+aVGilbert Arenas WAS 05/02/2005 WAS vs. CHI W 46 23 6 12 50.0 2 3 66.7 9 9 100.0 0 6 6 5 1 1 5 4 9
+p61
+aVLaron Profit WAS 05/02/2005 WAS vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p62
+aVAnthony Peeler WAS 05/02/2005 WAS vs. CHI W 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 1 -3
+p63
+aVEtan Thomas WAS 05/02/2005 WAS vs. CHI W 22 5 2 5 40.0 0 0 - 1 4 25.0 2 7 9 0 0 2 2 4 8
+p64
+aVAntawn Jamison WAS 05/02/2005 WAS vs. CHI W 36 18 8 17 47.1 0 1 0.0 2 2 100.0 1 5 6 1 2 0 3 0 20
+p65
+aVLarry Hughes WAS 04/30/2005 WAS vs. CHI W 33 21 8 20 40.0 1 3 33.3 4 4 100.0 3 4 7 3 1 0 2 5 23
+p66
+aVLaron Profit WAS 04/30/2005 WAS vs. CHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p67
+aVGilbert Arenas WAS 04/30/2005 WAS vs. CHI W 46 32 10 24 41.7 2 10 20.0 10 11 90.9 2 5 7 7 2 2 4 3 19
+p68
+aVEtan Thomas WAS 04/30/2005 WAS vs. CHI W 23 20 8 9 88.9 0 0 - 4 7 57.1 5 4 9 0 0 0 0 4 10
+p69
+aVMichael Ruffin WAS 04/30/2005 WAS vs. CHI W 22 9 2 3 66.7 0 0 - 5 7 71.4 2 1 3 1 1 0 0 4 14
+p70
+aVJuan Dixon WAS 04/30/2005 WAS vs. CHI W 22 2 1 10 10.0 0 4 0.0 0 2 0.0 0 0 0 3 1 0 0 1 -2
+p71
+aVAntawn Jamison WAS 04/30/2005 WAS vs. CHI W 45 21 5 13 38.5 1 3 33.3 10 10 100.0 2 6 8 3 1 0 2 3 18
+p72
+aVSteve Blake WAS 04/30/2005 WAS vs. CHI W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p73
+aVBrendan Haywood WAS 04/30/2005 WAS vs. CHI W 21 8 2 2 100.0 0 0 - 4 6 66.7 5 4 9 2 3 0 1 3 12
+p74
+aVKwame Brown WAS 04/30/2005 WAS vs. CHI W 4 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -2
+p75
+aVJared Jeffries WAS 04/30/2005 WAS vs. CHI W 22 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 2 0 1 1 4 0
+p76
+aVAntawn Jamison WAS 04/27/2005 WAS @ CHI L 38 18 7 17 41.2 2 4 50.0 2 4 50.0 1 7 8 1 0 2 1 2 3
+p77
+aVBrendan Haywood WAS 04/27/2005 WAS @ CHI L 19 6 2 3 66.7 0 0 - 2 3 66.7 4 3 7 0 0 0 3 4 11
+p78
+aVAnthony Peeler WAS 04/27/2005 WAS @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p79
+aVLarry Hughes WAS 04/27/2005 WAS @ CHI L 39 19 6 16 37.5 0 3 0.0 7 7 100.0 0 10 10 5 5 2 4 5 1
+p80
+aVKwame Brown WAS 04/27/2005 WAS @ CHI L 22 2 0 1 0.0 0 0 - 2 4 50.0 1 3 4 1 0 0 1 4 -16
+p81
+aVGilbert Arenas WAS 04/27/2005 WAS @ CHI L 46 39 14 25 56.0 4 12 33.3 7 9 77.8 1 5 6 4 4 1 5 5 -1
+p82
+aVMichael Ruffin WAS 04/27/2005 WAS @ CHI L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 3
+p83
+aVEtan Thomas WAS 04/27/2005 WAS @ CHI L 21 4 1 3 33.3 0 0 - 2 2 100.0 1 1 2 0 0 1 2 2 -20
+p84
+aVJuan Dixon WAS 04/27/2005 WAS @ CHI L 25 12 3 12 25.0 2 5 40.0 4 4 100.0 2 2 4 4 0 0 1 1 -17
+p85
+aVJared Jeffries WAS 04/27/2005 WAS @ CHI L 24 3 1 3 33.3 0 1 0.0 1 3 33.3 2 0 2 2 2 2 1 4 -10
+p86
+aVAnthony Peeler WAS 04/24/2005 WAS @ CHI L 7 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 3 0
+p87
+aVAntawn Jamison WAS 04/24/2005 WAS @ CHI L 35 14 6 15 40.0 2 3 66.7 0 0 - 2 5 7 1 0 0 1 4 -7
+p88
+aVGilbert Arenas WAS 04/24/2005 WAS @ CHI L 46 9 3 19 15.8 1 6 16.7 2 2 100.0 1 7 8 8 1 0 4 4 -5
+p89
+aVJuan Dixon WAS 04/24/2005 WAS @ CHI L 18 11 4 12 33.3 1 6 16.7 2 2 100.0 0 2 2 0 1 0 1 3 -6
+p90
+aVKwame Brown WAS 04/24/2005 WAS @ CHI L 34 13 5 11 45.5 0 0 - 3 5 60.0 3 6 9 2 0 1 1 0 -9
+p91
+aVJared Jeffries WAS 04/24/2005 WAS @ CHI L 19 5 1 1 100.0 0 0 - 3 4 75.0 0 1 1 3 0 2 2 0 8
+p92
+aVBrendan Haywood WAS 04/24/2005 WAS @ CHI L 26 6 1 4 25.0 0 0 - 4 6 66.7 3 4 7 1 1 3 0 1 -14
+p93
+aVLarry Hughes WAS 04/24/2005 WAS @ CHI L 41 31 11 20 55.0 1 3 33.3 8 10 80.0 0 5 5 1 1 1 3 5 -8
+p94
+aVEtan Thomas WAS 04/24/2005 WAS @ CHI L 13 5 2 2 100.0 0 0 - 1 4 25.0 0 4 4 0 0 1 0 2 -4
+p95
+a.

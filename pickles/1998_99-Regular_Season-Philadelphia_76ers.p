@@ -1,0 +1,1020 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMatt Geiger PHI 05/05/1999 PHI vs. DET W 43 20 9 20 45.0 0 1 0.0 2 2 100.0 7 9 16 6 0 0 3 4 2
+p2
+aVTyrone Hill PHI 05/05/1999 PHI vs. DET W 38 21 9 15 60.0 0 0 - 3 4 75.0 6 3 9 0 2 0 2 4 3
+p3
+aVHarvey Grant PHI 05/05/1999 PHI vs. DET W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 3
+p4
+aVLarry Hughes PHI 05/05/1999 PHI vs. DET W 37 9 2 10 20.0 0 0 - 5 6 83.3 1 4 5 6 3 1 1 3 20
+p5
+aVGeorge Lynch PHI 05/05/1999 PHI vs. DET W 18 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 0 0 2 4 0
+p6
+aVAaron McKie PHI 05/05/1999 PHI vs. DET W 13 0 0 3 0.0 0 0 - 0 0 - 0 1 1 1 2 0 1 1 -3
+p7
+aVEric Snow PHI 05/05/1999 PHI vs. DET W 47 20 9 18 50.0 1 2 50.0 1 1 100.0 2 3 5 10 2 0 2 5 1
+p8
+aVAllen Iverson PHI 05/05/1999 PHI vs. DET W 50 33 11 28 39.3 2 6 33.3 9 10 90.0 1 4 5 1 2 0 1 0 4
+p9
+aVTheo Ratliff PHI 05/05/1999 PHI vs. DET W 16 2 1 2 50.0 0 0 - 0 0 - 2 2 4 0 0 0 2 6 -5
+p10
+aVTheo Ratliff PHI 05/04/1999 PHI @ CHH L 22 4 2 6 33.3 0 0 - 0 1 0.0 0 3 3 1 0 1 4 6 -21
+p11
+aVRick Mahorn PHI 05/04/1999 PHI @ CHH L 5 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -3
+p12
+aVEric Snow PHI 05/04/1999 PHI @ CHH L 38 12 3 7 42.9 0 0 - 6 7 85.7 3 1 4 8 2 0 5 5 -17
+p13
+aVLarry Hughes PHI 05/04/1999 PHI @ CHH L 25 13 4 13 30.8 0 4 0.0 5 5 100.0 2 4 6 5 4 0 2 0 17
+p14
+aVTyrone Hill PHI 05/04/1999 PHI @ CHH L 15 4 2 3 66.7 0 0 - 0 0 - 2 0 2 2 0 0 0 4 17
+p15
+aVAllen Iverson PHI 05/04/1999 PHI @ CHH L 48 39 14 35 40.0 2 5 40.0 9 16 56.3 2 0 2 1 3 0 4 2 -9
+p16
+aVAaron McKie PHI 05/04/1999 PHI @ CHH L 37 12 5 8 62.5 0 2 0.0 2 2 100.0 1 3 4 2 1 0 2 5 -2
+p17
+aVMatt Geiger PHI 05/04/1999 PHI @ CHH L 44 22 10 16 62.5 0 0 - 2 4 50.0 5 8 13 4 1 2 4 5 -5
+p18
+aVGeorge Lynch PHI 05/04/1999 PHI @ CHH L 30 4 2 6 33.3 0 0 - 0 0 - 5 6 11 0 2 0 2 5 -12
+p19
+aVHarvey Grant PHI 05/02/1999 PHI @ DET L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p20
+aVRick Mahorn PHI 05/02/1999 PHI @ DET L 17 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 1 0 0 2 4
+p21
+aVAaron McKie PHI 05/02/1999 PHI @ DET L 25 7 3 7 42.9 0 4 0.0 1 2 50.0 0 3 3 3 4 0 2 4 -4
+p22
+aVGeorge Lynch PHI 05/02/1999 PHI @ DET L 14 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 0 0 0 0 2 4
+p23
+aVTheo Ratliff PHI 05/02/1999 PHI @ DET L 39 13 5 6 83.3 0 0 - 3 6 50.0 2 9 11 2 1 2 0 3 -13
+p24
+aVAllen Iverson PHI 05/02/1999 PHI @ DET L 42 27 11 25 44.0 3 6 50.0 2 5 40.0 4 1 5 1 1 0 4 2 -7
+p25
+aVMatt Geiger PHI 05/02/1999 PHI @ DET L 38 16 5 12 41.7 0 0 - 6 12 50.0 0 5 5 3 1 0 1 3 2
+p26
+aVLarry Hughes PHI 05/02/1999 PHI @ DET L 25 16 7 9 77.8 0 0 - 2 4 50.0 2 1 3 0 0 0 2 3 -5
+p27
+aVEric Snow PHI 05/02/1999 PHI @ DET L 37 9 3 8 37.5 0 2 0.0 3 4 75.0 1 2 3 12 4 0 3 3 3
+p28
+aVMatt Geiger PHI 05/01/1999 PHI vs. TOR W 38 26 11 19 57.9 0 0 - 4 4 100.0 3 5 8 2 0 0 5 2 12
+p29
+aVGeorge Lynch PHI 05/01/1999 PHI vs. TOR W 20 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 2 1 0 1 4 -1
+p30
+aVEric Snow PHI 05/01/1999 PHI vs. TOR W 37 10 2 5 40.0 0 2 0.0 6 6 100.0 0 3 3 8 3 0 0 5 2
+p31
+aVTheo Ratliff PHI 05/01/1999 PHI vs. TOR W 28 12 4 6 66.7 0 0 - 4 4 100.0 2 3 5 1 2 2 1 5 0
+p32
+aVLarry Hughes PHI 05/01/1999 PHI vs. TOR W 18 10 4 11 36.4 0 1 0.0 2 2 100.0 5 3 8 1 0 0 1 1 -4
+p33
+aVRick Mahorn PHI 05/01/1999 PHI vs. TOR W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -4
+p34
+aVAllen Iverson PHI 05/01/1999 PHI vs. TOR W 45 31 11 21 52.4 1 3 33.3 8 10 80.0 2 3 5 9 2 0 2 1 11
+p35
+aVTyrone Hill PHI 05/01/1999 PHI vs. TOR W 19 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -5
+p36
+aVHarvey Grant PHI 05/01/1999 PHI vs. TOR W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 1 0 0 1 0 5
+p37
+aVAaron McKie PHI 05/01/1999 PHI vs. TOR W 26 7 1 11 9.1 1 3 33.3 4 4 100.0 2 6 8 5 3 0 0 1 19
+p38
+aVTyrone Hill PHI 04/29/1999 PHI @ NYK L 21 0 0 7 0.0 0 0 - 0 0 - 3 3 6 0 0 0 1 3 -17
+p39
+aVLarry Hughes PHI 04/29/1999 PHI @ NYK L 11 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 2 2 -12
+p40
+aVGeorge Lynch PHI 04/29/1999 PHI @ NYK L 26 8 4 10 40.0 0 0 - 0 2 0.0 3 1 4 3 1 1 0 2 -7
+p41
+aVAllen Iverson PHI 04/29/1999 PHI @ NYK L 42 21 8 21 38.1 0 7 0.0 5 5 100.0 0 1 1 3 3 0 3 1 -11
+p42
+aVEric Snow PHI 04/29/1999 PHI @ NYK L 38 9 2 8 25.0 1 3 33.3 4 6 66.7 0 2 2 5 2 0 3 3 0
+p43
+aVHarvey Grant PHI 04/29/1999 PHI @ NYK L 2 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p44
+aVTheo Ratliff PHI 04/29/1999 PHI @ NYK L 40 13 5 8 62.5 0 0 - 3 3 100.0 2 6 8 0 1 5 2 0 -11
+p45
+aVMatt Geiger PHI 04/29/1999 PHI @ NYK L 33 12 5 13 38.5 0 1 0.0 2 2 100.0 2 9 11 2 1 1 4 1 -2
+p46
+aVAaron McKie PHI 04/29/1999 PHI @ NYK L 28 5 2 5 40.0 0 0 - 1 2 50.0 1 1 2 1 1 0 1 3 -15
+p47
+aVMatt Geiger PHI 04/27/1999 PHI vs. CLE W 27 4 2 5 40.0 0 0 - 0 0 - 1 9 10 2 1 0 1 2 6
+p48
+aVEric Snow PHI 04/27/1999 PHI vs. CLE W 38 9 4 10 40.0 0 1 0.0 1 2 50.0 2 2 4 6 1 0 4 2 5
+p49
+aVAllen Iverson PHI 04/27/1999 PHI vs. CLE W 46 31 11 22 50.0 3 6 50.0 6 8 75.0 2 1 3 5 3 0 1 3 8
+p50
+aVLarry Hughes PHI 04/27/1999 PHI vs. CLE W 17 8 4 8 50.0 0 0 - 0 0 - 2 1 3 1 1 0 2 2 9
+p51
+aVGeorge Lynch PHI 04/27/1999 PHI vs. CLE W 18 6 3 8 37.5 0 1 0.0 0 1 0.0 3 0 3 0 1 0 1 3 0
+p52
+aVTyrone Hill PHI 04/27/1999 PHI vs. CLE W 27 3 0 1 0.0 0 0 - 3 6 50.0 2 7 9 1 0 1 2 4 6
+p53
+aVAaron McKie PHI 04/27/1999 PHI vs. CLE W 28 4 2 8 25.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 3 15
+p54
+aVHarvey Grant PHI 04/27/1999 PHI vs. CLE W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -5
+p55
+aVTheo Ratliff PHI 04/27/1999 PHI vs. CLE W 36 14 4 8 50.0 0 0 - 6 8 75.0 2 9 11 0 1 2 1 2 1
+p56
+aVNazr Mohammed PHI 04/25/1999 PHI vs. ORL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -4
+p57
+aVGeorge Lynch PHI 04/25/1999 PHI vs. ORL W 23 5 2 4 50.0 1 2 50.0 0 0 - 0 2 2 2 0 0 1 1 20
+p58
+aVHarvey Grant PHI 04/25/1999 PHI vs. ORL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -2
+p59
+aVLarry Hughes PHI 04/25/1999 PHI vs. ORL W 11 3 0 3 0.0 0 1 0.0 3 3 100.0 0 1 1 0 0 0 1 5 -20
+p60
+aVRick Mahorn PHI 04/25/1999 PHI vs. ORL W 2 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -6
+p61
+aVEric Snow PHI 04/25/1999 PHI vs. ORL W 39 14 5 11 45.5 0 0 - 4 4 100.0 0 1 1 10 6 0 1 0 35
+p62
+aVAaron McKie PHI 04/25/1999 PHI vs. ORL W 25 6 3 5 60.0 0 2 0.0 0 2 0.0 0 6 6 2 2 0 2 3 10
+p63
+aVJerald Honeycutt PHI 04/25/1999 PHI vs. ORL W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p64
+aVTyrone Hill PHI 04/25/1999 PHI vs. ORL W 23 9 3 5 60.0 0 0 - 3 8 37.5 4 4 8 1 2 0 3 3 -17
+p65
+aVAllen Iverson PHI 04/25/1999 PHI vs. ORL W 40 38 15 28 53.6 1 5 20.0 7 10 70.0 2 2 4 7 4 1 6 3 16
+p66
+aVMatt Geiger PHI 04/25/1999 PHI vs. ORL W 33 16 7 12 58.3 0 0 - 2 3 66.7 4 5 9 3 1 0 3 1 27
+p67
+aVTheo Ratliff PHI 04/25/1999 PHI vs. ORL W 33 12 5 7 71.4 0 0 - 2 3 66.7 3 6 9 0 2 1 2 3 32
+p68
+aVAaron McKie PHI 04/22/1999 PHI @ DET W 28 12 3 12 25.0 0 2 0.0 6 6 100.0 1 2 3 5 2 0 1 1 5
+p69
+aVEric Snow PHI 04/22/1999 PHI @ DET W 38 13 5 9 55.6 0 0 - 3 4 75.0 0 2 2 10 1 0 2 3 5
+p70
+aVTheo Ratliff PHI 04/22/1999 PHI @ DET W 41 19 8 11 72.7 0 0 - 3 3 100.0 5 8 13 1 0 2 2 2 5
+p71
+aVLarry Hughes PHI 04/22/1999 PHI @ DET W 20 15 6 10 60.0 0 0 - 3 3 100.0 2 1 3 3 3 0 1 1 6
+p72
+aVAllen Iverson PHI 04/22/1999 PHI @ DET W 41 28 10 18 55.6 0 2 0.0 8 10 80.0 0 3 3 5 5 0 1 3 7
+p73
+aVRick Mahorn PHI 04/22/1999 PHI @ DET W 15 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 0
+p74
+aVMatt Geiger PHI 04/22/1999 PHI @ DET W 39 15 6 7 85.7 0 0 - 3 3 100.0 1 7 8 1 1 1 3 2 17
+p75
+aVHarvey Grant PHI 04/22/1999 PHI @ DET W 19 2 1 5 20.0 0 0 - 0 0 - 0 2 2 1 0 1 0 2 5
+p76
+aVRick Mahorn PHI 04/21/1999 PHI @ BOS W 21 2 1 2 50.0 0 0 - 0 4 0.0 1 3 4 1 2 1 0 3 -1
+p77
+aVHarvey Grant PHI 04/21/1999 PHI @ BOS W 25 6 2 4 50.0 0 0 - 2 2 100.0 1 4 5 0 1 0 1 2 2
+p78
+aVAllen Iverson PHI 04/21/1999 PHI @ BOS W 46 25 8 28 28.6 2 7 28.6 7 9 77.8 1 3 4 3 3 0 1 3 7
+p79
+aVLarry Hughes PHI 04/21/1999 PHI @ BOS W 24 12 6 12 50.0 0 0 - 0 0 - 2 1 3 0 1 1 1 2 -6
+p80
+aVMatt Geiger PHI 04/21/1999 PHI @ BOS W 43 17 7 15 46.7 0 0 - 3 4 75.0 7 8 15 1 0 0 2 3 4
+p81
+aVAaron McKie PHI 04/21/1999 PHI @ BOS W 20 6 3 8 37.5 0 0 - 0 2 0.0 0 5 5 2 2 0 1 1 -17
+p82
+aVTheo Ratliff PHI 04/21/1999 PHI @ BOS W 24 6 3 8 37.5 0 0 - 0 0 - 3 3 6 0 2 2 1 5 6
+p83
+aVEric Snow PHI 04/21/1999 PHI @ BOS W 36 6 2 8 25.0 0 2 0.0 2 2 100.0 0 5 5 6 2 0 3 0 15
+p84
+aVAllen Iverson PHI 04/19/1999 PHI vs. NYK W 44 20 6 17 35.3 2 4 50.0 6 8 75.0 0 9 9 6 1 0 4 2 3
+p85
+aVLarry Hughes PHI 04/19/1999 PHI vs. NYK W 27 10 4 8 50.0 0 0 - 2 2 100.0 1 5 6 2 2 0 0 2 5
+p86
+aVHarvey Grant PHI 04/19/1999 PHI vs. NYK W 17 0 0 3 0.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 5
+p87
+aVEric Snow PHI 04/19/1999 PHI vs. NYK W 39 8 2 6 33.3 0 1 0.0 4 4 100.0 0 1 1 9 3 0 4 3 7
+p88
+aVMatt Geiger PHI 04/19/1999 PHI vs. NYK W 35 22 8 16 50.0 0 0 - 6 8 75.0 2 4 6 0 1 3 4 2 8
+p89
+aVTyrone Hill PHI 04/19/1999 PHI vs. NYK W 22 4 2 7 28.6 0 0 - 0 0 - 2 2 4 1 0 0 2 3 0
+p90
+aVRick Mahorn PHI 04/19/1999 PHI vs. NYK W 3 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p91
+aVAaron McKie PHI 04/19/1999 PHI vs. NYK W 18 0 0 0 - 0 0 - 0 0 - 1 2 3 0 2 0 1 5 -3
+p92
+aVTheo Ratliff PHI 04/19/1999 PHI vs. NYK W 36 8 3 6 50.0 0 0 - 2 6 33.3 3 9 12 1 2 5 2 5 -1
+p93
+aVEric Snow PHI 04/18/1999 PHI @ NJN L 40 11 4 9 44.4 0 0 - 3 5 60.0 1 3 4 5 0 0 3 2 -3
+p94
+aVJerald Honeycutt PHI 04/18/1999 PHI @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p95
+aVAllen Iverson PHI 04/18/1999 PHI @ NJN L 45 6 2 17 11.8 0 3 0.0 2 2 100.0 2 5 7 3 1 0 4 3 -4
+p96
+aVAaron McKie PHI 04/18/1999 PHI @ NJN L 39 15 6 14 42.9 0 3 0.0 3 4 75.0 1 7 8 0 2 0 2 3 -10
+p97
+aVTyrone Hill PHI 04/18/1999 PHI @ NJN L 32 23 10 16 62.5 0 0 - 3 7 42.9 10 3 13 0 2 1 1 4 2
+p98
+aVMatt Geiger PHI 04/18/1999 PHI @ NJN L 28 12 4 13 30.8 0 0 - 4 5 80.0 3 6 9 0 0 2 5 4 -7
+p99
+aVLarry Hughes PHI 04/18/1999 PHI @ NJN L 16 6 1 2 50.0 0 0 - 4 8 50.0 3 1 4 1 0 0 0 3 -3
+p100
+aVHarvey Grant PHI 04/18/1999 PHI @ NJN L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p101
+aVTheo Ratliff PHI 04/18/1999 PHI @ NJN L 33 6 1 10 10.0 0 0 - 4 4 100.0 2 8 10 1 1 3 4 3 -6
+p102
+aVTheo Ratliff PHI 04/16/1999 PHI vs. IND W 39 15 5 15 33.3 0 0 - 5 6 83.3 2 13 15 1 0 1 1 1 23
+p103
+aVMatt Geiger PHI 04/16/1999 PHI vs. IND W 39 22 9 14 64.3 0 0 - 4 6 66.7 5 5 10 3 1 0 0 4 5
+p104
+aVLarry Hughes PHI 04/16/1999 PHI vs. IND W 20 8 3 6 50.0 0 0 - 2 2 100.0 1 1 2 2 1 2 2 2 -6
+p105
+aVDoug Overton PHI 04/16/1999 PHI vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p106
+aVAaron McKie PHI 04/16/1999 PHI vs. IND W 23 13 5 6 83.3 1 1 100.0 2 3 66.7 0 0 0 1 3 0 1 4 16
+p107
+aVAllen Iverson PHI 04/16/1999 PHI vs. IND W 43 26 7 23 30.4 2 4 50.0 10 13 76.9 1 2 3 3 3 0 1 2 8
+p108
+aVJerald Honeycutt PHI 04/16/1999 PHI vs. IND W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p109
+aVEric Snow PHI 04/16/1999 PHI vs. IND W 35 7 3 5 60.0 1 1 100.0 0 0 - 0 3 3 10 0 0 1 1 16
+p110
+aVNazr Mohammed PHI 04/16/1999 PHI vs. IND W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p111
+aVHarvey Grant PHI 04/16/1999 PHI vs. IND W 16 2 1 4 25.0 0 1 0.0 0 1 0.0 0 4 4 0 0 0 1 1 1
+p112
+aVTyrone Hill PHI 04/16/1999 PHI vs. IND W 18 0 0 3 0.0 0 0 - 0 0 - 1 3 4 2 0 0 3 1 -6
+p113
+aVAaron McKie PHI 04/14/1999 PHI vs. TOR W 21 9 4 7 57.1 1 1 100.0 0 0 - 1 4 5 4 4 0 2 4 18
+p114
+aVHarvey Grant PHI 04/14/1999 PHI vs. TOR W 24 2 1 5 20.0 0 0 - 0 0 - 1 4 5 3 0 0 2 1 15
+p115
+aVDoug Overton PHI 04/14/1999 PHI vs. TOR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p116
+aVRick Mahorn PHI 04/14/1999 PHI vs. TOR W 11 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 7
+p117
+aVNazr Mohammed PHI 04/14/1999 PHI vs. TOR W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p118
+aVAllen Iverson PHI 04/14/1999 PHI vs. TOR W 44 20 9 25 36.0 1 5 20.0 1 2 50.0 1 4 5 4 2 0 3 1 24
+p119
+aVJerald Honeycutt PHI 04/14/1999 PHI vs. TOR W 9 4 0 2 0.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 3 -9
+p120
+aVTheo Ratliff PHI 04/14/1999 PHI vs. TOR W 37 15 3 7 42.9 0 0 - 9 14 64.3 5 2 7 2 0 1 2 2 5
+p121
+aVEric Snow PHI 04/14/1999 PHI vs. TOR W 32 4 1 4 25.0 0 0 - 2 4 50.0 1 6 7 7 1 0 2 5 -1
+p122
+aVLarry Hughes PHI 04/14/1999 PHI vs. TOR W 19 22 6 9 66.7 0 1 0.0 10 10 100.0 1 2 3 1 2 1 1 3 18
+p123
+aVMatt Geiger PHI 04/14/1999 PHI vs. TOR W 38 18 8 16 50.0 0 1 0.0 2 4 50.0 4 4 8 2 2 1 1 5 14
+p124
+aVEric Snow PHI 04/13/1999 PHI @ NYK L 31 7 3 6 50.0 1 1 100.0 0 0 - 0 3 3 3 3 0 4 1 -16
+p125
+aVMatt Geiger PHI 04/13/1999 PHI @ NYK L 30 10 3 6 50.0 0 0 - 4 6 66.7 1 2 3 1 1 0 1 2 -5
+p126
+aVHarvey Grant PHI 04/13/1999 PHI @ NYK L 12 0 0 4 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -5
+p127
+aVDoug Overton PHI 04/13/1999 PHI @ NYK L 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 3
+p128
+aVTyrone Hill PHI 04/13/1999 PHI @ NYK L 27 10 5 8 62.5 0 0 - 0 0 - 1 3 4 0 0 0 3 3 -14
+p129
+aVRick Mahorn PHI 04/13/1999 PHI @ NYK L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 1 -7
+p130
+aVAllen Iverson PHI 04/13/1999 PHI @ NYK L 42 11 4 16 25.0 1 4 25.0 2 4 50.0 2 4 6 4 2 0 7 1 -19
+p131
+aVJerald Honeycutt PHI 04/13/1999 PHI @ NYK L 14 5 2 4 50.0 0 1 0.0 1 2 50.0 0 2 2 2 1 1 0 3 -8
+p132
+aVNazr Mohammed PHI 04/13/1999 PHI @ NYK L 5 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p133
+aVTheo Ratliff PHI 04/13/1999 PHI @ NYK L 25 9 2 3 66.7 0 0 - 5 6 83.3 3 3 6 1 1 2 3 4 -16
+p134
+aVAaron McKie PHI 04/13/1999 PHI @ NYK L 16 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 3 1 0 1 3 -15
+p135
+aVLarry Hughes PHI 04/13/1999 PHI @ NYK L 24 12 2 7 28.6 0 1 0.0 8 10 80.0 0 4 4 3 2 0 5 3 8
+p136
+aVEric Snow PHI 04/11/1999 PHI @ WAS L 38 4 1 6 16.7 0 1 0.0 2 3 66.7 0 0 0 10 3 0 0 2 -12
+p137
+aVLarry Hughes PHI 04/11/1999 PHI @ WAS L 10 4 1 2 50.0 0 1 0.0 2 2 100.0 0 2 2 2 1 0 0 1 -8
+p138
+aVHarvey Grant PHI 04/11/1999 PHI @ WAS L 27 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -6
+p139
+aVAllen Iverson PHI 04/11/1999 PHI @ WAS L 43 32 12 24 50.0 0 1 0.0 8 10 80.0 1 9 10 5 3 0 4 2 -2
+p140
+aVAaron McKie PHI 04/11/1999 PHI @ WAS L 13 6 3 4 75.0 0 0 - 0 0 - 0 0 0 2 0 0 0 2 -2
+p141
+aVJerald Honeycutt PHI 04/11/1999 PHI @ WAS L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p142
+aVGeorge Lynch PHI 04/11/1999 PHI @ WAS L 14 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 12
+p143
+aVMatt Geiger PHI 04/11/1999 PHI @ WAS L 27 17 8 15 53.3 0 0 - 1 2 50.0 1 4 5 0 1 1 2 5 -5
+p144
+aVTheo Ratliff PHI 04/11/1999 PHI @ WAS L 34 14 4 9 44.4 0 0 - 6 8 75.0 1 1 2 1 0 5 2 3 -5
+p145
+aVTyrone Hill PHI 04/11/1999 PHI @ WAS L 31 16 6 12 50.0 0 0 - 4 4 100.0 3 3 6 0 0 0 0 5 -5
+p146
+aVEric Snow PHI 04/09/1999 PHI @ BOS W 39 9 4 8 50.0 0 1 0.0 1 2 50.0 0 7 7 7 3 0 1 2 24
+p147
+aVJerald Honeycutt PHI 04/09/1999 PHI @ BOS W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p148
+aVDoug Overton PHI 04/09/1999 PHI @ BOS W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p149
+aVAllen Iverson PHI 04/09/1999 PHI @ BOS W 42 23 9 20 45.0 1 4 25.0 4 6 66.7 1 2 3 2 1 0 4 1 16
+p150
+aVGeorge Lynch PHI 04/09/1999 PHI @ BOS W 35 11 3 7 42.9 0 0 - 5 6 83.3 0 3 3 2 4 1 0 3 17
+p151
+aVHarvey Grant PHI 04/09/1999 PHI @ BOS W 24 8 3 7 42.9 0 0 - 2 2 100.0 3 3 6 2 0 0 0 1 23
+p152
+aVAaron McKie PHI 04/09/1999 PHI @ BOS W 22 2 1 5 20.0 0 1 0.0 0 0 - 1 3 4 0 2 0 2 1 -9
+p153
+aVNazr Mohammed PHI 04/09/1999 PHI @ BOS W 2 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -2
+p154
+aVLarry Hughes PHI 04/09/1999 PHI @ BOS W 20 6 1 6 16.7 0 1 0.0 4 4 100.0 2 3 5 0 1 0 2 2 4
+p155
+aVTheo Ratliff PHI 04/09/1999 PHI @ BOS W 33 16 6 16 37.5 0 0 - 4 6 66.7 5 9 14 0 1 7 1 0 9
+p156
+aVMatt Geiger PHI 04/09/1999 PHI @ BOS W 20 8 3 8 37.5 0 0 - 2 2 100.0 3 3 6 0 0 1 0 3 2
+p157
+aVHarvey Grant PHI 04/07/1999 PHI @ NJN W 16 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 2 0 1 0 5
+p158
+aVGeorge Lynch PHI 04/07/1999 PHI @ NJN W 31 8 3 8 37.5 0 1 0.0 2 5 40.0 6 6 12 0 1 3 2 2 -1
+p159
+aVEric Snow PHI 04/07/1999 PHI @ NJN W 37 10 4 9 44.4 0 0 - 2 2 100.0 1 4 5 8 0 0 5 5 13
+p160
+aVLarry Hughes PHI 04/07/1999 PHI @ NJN W 23 12 5 11 45.5 0 0 - 2 2 100.0 6 4 10 1 1 0 0 0 1
+p161
+aVMatt Geiger PHI 04/07/1999 PHI @ NJN W 25 14 7 10 70.0 0 0 - 0 0 - 1 2 3 0 0 2 0 3 -4
+p162
+aVAllen Iverson PHI 04/07/1999 PHI @ NJN W 43 23 8 23 34.8 1 3 33.3 6 11 54.5 1 2 3 3 1 0 2 3 2
+p163
+aVAaron McKie PHI 04/07/1999 PHI @ NJN W 25 8 3 4 75.0 0 0 - 2 2 100.0 0 4 4 2 0 0 2 2 -6
+p164
+aVTheo Ratliff PHI 04/07/1999 PHI @ NJN W 41 19 7 11 63.6 0 0 - 5 6 83.3 3 6 9 1 2 3 1 2 10
+p165
+aVMatt Geiger PHI 04/06/1999 PHI vs. MIL W 22 2 0 2 0.0 0 0 - 2 2 100.0 1 4 5 0 0 0 1 6 2
+p166
+aVLarry Hughes PHI 04/06/1999 PHI vs. MIL W 17 8 2 7 28.6 0 3 0.0 4 4 100.0 1 1 2 0 0 0 1 0 -3
+p167
+aVGeorge Lynch PHI 04/06/1999 PHI vs. MIL W 24 10 2 5 40.0 0 0 - 6 8 75.0 3 4 7 1 0 0 2 5 2
+p168
+aVNazr Mohammed PHI 04/06/1999 PHI vs. MIL W 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 1
+p169
+aVAllen Iverson PHI 04/06/1999 PHI vs. MIL W 46 27 8 22 36.4 2 3 66.7 9 10 90.0 0 4 4 4 0 0 5 1 10
+p170
+aVTheo Ratliff PHI 04/06/1999 PHI vs. MIL W 37 18 6 10 60.0 0 0 - 6 6 100.0 3 2 5 1 0 4 3 3 11
+p171
+aVDoug Overton PHI 04/06/1999 PHI vs. MIL W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p172
+aVHarvey Grant PHI 04/06/1999 PHI vs. MIL W 30 8 3 6 50.0 0 0 - 2 2 100.0 4 6 10 1 1 0 0 1 11
+p173
+aVEric Snow PHI 04/06/1999 PHI vs. MIL W 35 12 4 6 66.7 0 1 0.0 4 6 66.7 0 3 3 4 4 1 0 4 6
+p174
+aVAaron McKie PHI 04/06/1999 PHI vs. MIL W 21 8 2 6 33.3 1 1 100.0 3 4 75.0 0 2 2 1 2 0 1 0 3
+p175
+aVTheo Ratliff PHI 04/04/1999 PHI @ TOR L 28 12 5 9 55.6 0 0 - 2 2 100.0 2 2 4 0 0 1 1 5 -12
+p176
+aVGeorge Lynch PHI 04/04/1999 PHI @ TOR L 32 2 1 8 12.5 0 1 0.0 0 0 - 3 1 4 1 3 1 2 1 -17
+p177
+aVNazr Mohammed PHI 04/04/1999 PHI @ TOR L 7 2 1 3 33.3 0 0 - 0 0 - 2 1 3 0 0 0 2 0 -3
+p178
+aVMatt Geiger PHI 04/04/1999 PHI @ TOR L 46 20 9 14 64.3 0 0 - 2 2 100.0 4 5 9 2 1 2 2 4 -14
+p179
+aVDoug Overton PHI 04/04/1999 PHI @ TOR L 12 4 2 6 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -8
+p180
+aVJerald Honeycutt PHI 04/04/1999 PHI @ TOR L 10 6 2 7 28.6 2 4 50.0 0 0 - 2 2 4 1 1 0 1 1 3
+p181
+aVLarry Hughes PHI 04/04/1999 PHI @ TOR L 30 10 4 11 36.4 1 2 50.0 1 2 50.0 4 2 6 1 1 0 4 2 4
+p182
+aVAaron McKie PHI 04/04/1999 PHI @ TOR L 32 9 3 11 27.3 0 2 0.0 3 4 75.0 1 2 3 6 3 0 3 0 -21
+p183
+aVEric Snow PHI 04/04/1999 PHI @ TOR L 34 17 5 10 50.0 0 0 - 7 10 70.0 0 2 2 5 2 0 4 4 -5
+p184
+aVHarvey Grant PHI 04/04/1999 PHI @ TOR L 9 0 0 3 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p185
+aVTyrone Hill PHI 04/02/1999 PHI vs. CLE L 30 7 3 4 75.0 0 0 - 1 2 50.0 5 8 13 1 1 1 2 5 -5
+p186
+aVAllen Iverson PHI 04/02/1999 PHI vs. CLE L 12 5 0 7 0.0 0 2 0.0 5 6 83.3 0 0 0 0 1 0 0 1 -1
+p187
+aVAaron McKie PHI 04/02/1999 PHI vs. CLE L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -9
+p188
+aVLarry Hughes PHI 04/02/1999 PHI vs. CLE L 34 8 4 13 30.8 0 2 0.0 0 0 - 2 7 9 2 3 2 5 3 -14
+p189
+aVEric Snow PHI 04/02/1999 PHI vs. CLE L 34 16 6 11 54.5 0 0 - 4 5 80.0 2 2 4 6 2 0 3 5 5
+p190
+aVGeorge Lynch PHI 04/02/1999 PHI vs. CLE L 28 10 5 7 71.4 0 0 - 0 0 - 2 6 8 2 1 0 3 3 -4
+p191
+aVTheo Ratliff PHI 04/02/1999 PHI vs. CLE L 30 15 4 7 57.1 0 0 - 7 10 70.0 2 6 8 1 0 2 4 4 1
+p192
+aVHarvey Grant PHI 04/02/1999 PHI vs. CLE L 22 0 0 5 0.0 0 1 0.0 0 0 - 0 3 3 0 0 0 3 4 -2
+p193
+aVJerald Honeycutt PHI 04/02/1999 PHI vs. CLE L 10 4 1 3 33.3 1 2 50.0 1 2 50.0 1 0 1 0 1 0 2 1 4
+p194
+aVMatt Geiger PHI 04/02/1999 PHI vs. CLE L 22 11 3 10 30.0 0 0 - 5 6 83.3 1 1 2 0 0 0 1 0 -9
+p195
+aVDoug Overton PHI 04/02/1999 PHI vs. CLE L 12 4 2 6 33.3 0 0 - 0 0 - 0 0 0 4 0 0 0 2 9
+p196
+aVAllen Iverson PHI 04/01/1999 PHI @ MIA W 42 24 7 18 38.9 0 2 0.0 10 13 76.9 2 2 4 3 3 0 1 1 -1
+p197
+aVMatt Geiger PHI 04/01/1999 PHI @ MIA W 33 25 10 21 47.6 0 0 - 5 5 100.0 4 6 10 1 3 0 1 4 2
+p198
+aVEric Snow PHI 04/01/1999 PHI @ MIA W 31 4 1 6 16.7 0 1 0.0 2 2 100.0 0 2 2 6 0 0 4 4 -14
+p199
+aVTheo Ratliff PHI 04/01/1999 PHI @ MIA W 22 2 1 2 50.0 0 0 - 0 0 - 1 4 5 0 2 2 0 4 10
+p200
+aVHarvey Grant PHI 04/01/1999 PHI @ MIA W 23 2 1 4 25.0 0 0 - 0 0 - 2 2 4 0 0 0 2 1 10
+p201
+aVLarry Hughes PHI 04/01/1999 PHI @ MIA W 20 8 4 8 50.0 0 1 0.0 0 0 - 1 3 4 1 0 0 0 2 8
+p202
+aVAaron McKie PHI 04/01/1999 PHI @ MIA W 5 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 2 0 0 1 0 4
+p203
+aVDoug Overton PHI 04/01/1999 PHI @ MIA W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p204
+aVNazr Mohammed PHI 04/01/1999 PHI @ MIA W 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 5
+p205
+aVTyrone Hill PHI 04/01/1999 PHI @ MIA W 30 4 2 6 33.3 0 0 - 0 4 0.0 3 4 7 2 0 0 1 6 -10
+p206
+aVGeorge Lynch PHI 04/01/1999 PHI @ MIA W 27 13 5 10 50.0 1 2 50.0 2 2 100.0 2 1 3 3 1 1 4 1 6
+p207
+aVAaron McKie PHI 03/30/1999 PHI @ CHI L 18 2 1 6 16.7 0 0 - 0 0 - 1 0 1 2 0 0 2 2 -1
+p208
+aVAllen Iverson PHI 03/30/1999 PHI @ CHI L 38 27 10 17 58.8 1 3 33.3 6 10 60.0 0 4 4 5 2 0 1 2 -10
+p209
+aVDoug Overton PHI 03/30/1999 PHI @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p210
+aVNazr Mohammed PHI 03/30/1999 PHI @ CHI L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p211
+aVGeorge Lynch PHI 03/30/1999 PHI @ CHI L 30 5 2 6 33.3 1 1 100.0 0 0 - 3 2 5 0 1 0 1 3 -12
+p212
+aVTyrone Hill PHI 03/30/1999 PHI @ CHI L 25 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 3 0 1 2 5 -9
+p213
+aVMatt Geiger PHI 03/30/1999 PHI @ CHI L 25 14 7 12 58.3 0 0 - 0 0 - 3 4 7 0 0 0 1 1 -1
+p214
+aVEric Snow PHI 03/30/1999 PHI @ CHI L 33 10 4 9 44.4 0 0 - 2 2 100.0 0 1 1 10 1 0 2 0 -14
+p215
+aVLarry Hughes PHI 03/30/1999 PHI @ CHI L 9 4 2 5 40.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 4
+p216
+aVHarvey Grant PHI 03/30/1999 PHI @ CHI L 28 8 3 6 50.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 -5
+p217
+aVTheo Ratliff PHI 03/30/1999 PHI @ CHI L 32 9 4 8 50.0 0 0 - 1 3 33.3 3 6 9 1 0 6 1 4 -3
+p218
+aVTyrone Hill PHI 03/27/1999 PHI @ ATL L 48 16 7 13 53.8 0 0 - 2 5 40.0 1 10 11 0 3 1 2 6 -1
+p219
+aVHarvey Grant PHI 03/27/1999 PHI @ ATL L 23 12 5 9 55.6 0 2 0.0 2 2 100.0 1 1 2 0 1 0 0 4 -11
+p220
+aVAaron McKie PHI 03/27/1999 PHI @ ATL L 36 14 6 10 60.0 0 1 0.0 2 2 100.0 1 5 6 6 1 0 0 4 -1
+p221
+aVMatt Geiger PHI 03/27/1999 PHI @ ATL L 25 14 5 10 50.0 1 1 100.0 3 4 75.0 1 6 7 2 0 0 3 4 6
+p222
+aVTheo Ratliff PHI 03/27/1999 PHI @ ATL L 28 6 2 4 50.0 0 0 - 2 4 50.0 1 2 3 1 1 2 2 6 -12
+p223
+aVAllen Iverson PHI 03/27/1999 PHI @ ATL L 48 24 6 17 35.3 1 4 25.0 11 13 84.6 2 2 4 6 0 0 4 1 6
+p224
+aVGeorge Lynch PHI 03/27/1999 PHI @ ATL L 34 7 2 11 18.2 1 1 100.0 2 2 100.0 2 4 6 3 3 4 2 4 5
+p225
+aVLarry Hughes PHI 03/27/1999 PHI @ ATL L 20 6 2 6 33.3 0 2 0.0 2 2 100.0 0 2 2 0 0 0 1 3 -9
+p226
+aVDoug Overton PHI 03/27/1999 PHI @ ATL L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p227
+aVMatt Geiger PHI 03/26/1999 PHI vs. BOS L 21 7 2 7 28.6 0 0 - 3 4 75.0 2 2 4 2 0 1 2 2 -4
+p228
+aVTyrone Hill PHI 03/26/1999 PHI vs. BOS L 35 17 7 11 63.6 0 0 - 3 4 75.0 4 6 10 1 3 0 1 2 -2
+p229
+aVLarry Hughes PHI 03/26/1999 PHI vs. BOS L 43 21 7 19 36.8 1 2 50.0 6 13 46.2 4 3 7 5 0 0 6 3 -8
+p230
+aVJerald Honeycutt PHI 03/26/1999 PHI vs. BOS L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 2 1 -15
+p231
+aVGeorge Lynch PHI 03/26/1999 PHI vs. BOS L 34 7 2 7 28.6 0 0 - 3 4 75.0 4 3 7 4 1 0 3 3 7
+p232
+aVTheo Ratliff PHI 03/26/1999 PHI vs. BOS L 38 19 8 11 72.7 0 0 - 3 6 50.0 4 6 10 3 1 2 3 1 -7
+p233
+aVHarvey Grant PHI 03/26/1999 PHI vs. BOS L 16 5 2 2 100.0 0 0 - 1 2 50.0 0 2 2 0 1 1 0 3 3
+p234
+aVAaron McKie PHI 03/26/1999 PHI vs. BOS L 43 5 2 10 20.0 1 2 50.0 0 0 - 1 8 9 6 3 0 3 3 -4
+p235
+aVGeorge Lynch PHI 03/24/1999 PHI @ VAN W 38 10 5 12 41.7 0 1 0.0 0 1 0.0 0 3 3 2 3 0 3 6 7
+p236
+aVAaron McKie PHI 03/24/1999 PHI @ VAN W 9 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -6
+p237
+aVTheo Ratliff PHI 03/24/1999 PHI @ VAN W 50 16 7 11 63.6 0 0 - 2 2 100.0 4 4 8 0 0 9 4 2 2
+p238
+aVHarvey Grant PHI 03/24/1999 PHI @ VAN W 20 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 1 1 0 4 -12
+p239
+aVLarry Hughes PHI 03/24/1999 PHI @ VAN W 17 16 7 11 63.6 0 0 - 2 2 100.0 3 3 6 3 1 0 3 1 -5
+p240
+aVNazr Mohammed PHI 03/24/1999 PHI @ VAN W 8 3 1 1 100.0 0 0 - 1 2 50.0 1 2 3 0 1 0 1 4 6
+p241
+aVAllen Iverson PHI 03/24/1999 PHI @ VAN W 45 34 11 23 47.8 3 6 50.0 9 14 64.3 0 5 5 6 3 0 1 0 17
+p242
+aVMatt Geiger PHI 03/24/1999 PHI @ VAN W 36 6 0 10 0.0 0 0 - 6 8 75.0 4 1 5 1 1 3 3 5 9
+p243
+aVEric Snow PHI 03/24/1999 PHI @ VAN W 42 6 3 6 50.0 0 0 - 0 0 - 0 5 5 9 2 0 1 6 7
+p244
+aVGeorge Lynch PHI 03/22/1999 PHI @ SEA L 28 10 5 11 45.5 0 0 - 0 1 0.0 3 3 6 2 2 0 1 3 0
+p245
+aVJerald Honeycutt PHI 03/22/1999 PHI @ SEA L 12 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 1 0 0 0 4
+p246
+aVTheo Ratliff PHI 03/22/1999 PHI @ SEA L 27 7 2 7 28.6 0 0 - 3 6 50.0 2 6 8 0 0 5 3 6 -6
+p247
+aVAaron McKie PHI 03/22/1999 PHI @ SEA L 19 2 1 3 33.3 0 0 - 0 0 - 0 1 1 3 0 0 2 3 -26
+p248
+aVNazr Mohammed PHI 03/22/1999 PHI @ SEA L 7 1 0 1 0.0 0 0 - 1 2 50.0 1 3 4 0 1 0 1 3 11
+p249
+aVEric Snow PHI 03/22/1999 PHI @ SEA L 39 10 5 12 41.7 0 0 - 0 0 - 1 6 7 6 0 0 0 2 -5
+p250
+aVTyrone Hill PHI 03/22/1999 PHI @ SEA L 26 1 0 3 0.0 0 0 - 1 6 16.7 3 3 6 1 2 0 1 5 -23
+p251
+aVLarry Hughes PHI 03/22/1999 PHI @ SEA L 19 15 5 9 55.6 0 2 0.0 5 6 83.3 0 0 0 1 1 0 1 0 4
+p252
+aVMatt Geiger PHI 03/22/1999 PHI @ SEA L 29 13 5 11 45.5 0 0 - 3 4 75.0 3 1 4 0 0 0 3 3 -16
+p253
+aVHarvey Grant PHI 03/22/1999 PHI @ SEA L 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -3
+p254
+aVAllen Iverson PHI 03/22/1999 PHI @ SEA L 28 14 4 13 30.8 0 1 0.0 6 8 75.0 1 4 5 1 1 0 4 2 -20
+p255
+aVTyrone Hill PHI 03/21/1999 PHI @ POR L 31 5 2 6 33.3 0 0 - 1 2 50.0 3 7 10 0 1 1 2 2 -12
+p256
+aVAllen Iverson PHI 03/21/1999 PHI @ POR L 37 24 8 21 38.1 0 7 0.0 8 10 80.0 0 2 2 5 2 0 4 3 -14
+p257
+aVLarry Hughes PHI 03/21/1999 PHI @ POR L 18 5 1 9 11.1 0 2 0.0 3 4 75.0 3 2 5 1 0 0 0 2 -1
+p258
+aVHarvey Grant PHI 03/21/1999 PHI @ POR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p259
+aVAaron McKie PHI 03/21/1999 PHI @ POR L 21 10 5 8 62.5 0 0 - 0 0 - 1 2 3 1 1 0 1 3 -11
+p260
+aVGeorge Lynch PHI 03/21/1999 PHI @ POR L 30 4 2 10 20.0 0 1 0.0 0 0 - 4 6 10 3 0 0 0 4 -5
+p261
+aVNazr Mohammed PHI 03/21/1999 PHI @ POR L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 2
+p262
+aVEric Snow PHI 03/21/1999 PHI @ POR L 35 2 1 6 16.7 0 0 - 0 0 - 0 1 1 3 2 0 5 4 -17
+p263
+aVMatt Geiger PHI 03/21/1999 PHI @ POR L 31 19 8 15 53.3 0 1 0.0 3 3 100.0 1 4 5 0 1 0 2 4 -1
+p264
+aVTheo Ratliff PHI 03/21/1999 PHI @ POR L 30 6 2 6 33.3 0 0 - 2 2 100.0 2 8 10 0 1 1 2 3 -20
+p265
+aVJerald Honeycutt PHI 03/19/1999 PHI vs. LAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p266
+aVAllen Iverson PHI 03/19/1999 PHI vs. LAL W 44 41 17 36 47.2 3 8 37.5 4 6 66.7 2 3 5 10 2 0 3 1 20
+p267
+aVRick Mahorn PHI 03/19/1999 PHI vs. LAL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 8
+p268
+aVMatt Geiger PHI 03/19/1999 PHI vs. LAL W 16 8 3 5 60.0 0 0 - 2 2 100.0 2 6 8 0 0 0 0 5 6
+p269
+aVAaron McKie PHI 03/19/1999 PHI vs. LAL W 19 5 2 4 50.0 0 0 - 1 2 50.0 1 1 2 1 3 0 0 1 6
+p270
+aVTheo Ratliff PHI 03/19/1999 PHI vs. LAL W 27 12 3 10 30.0 0 0 - 6 8 75.0 0 3 3 1 0 1 0 3 7
+p271
+aVHarvey Grant PHI 03/19/1999 PHI vs. LAL W 16 2 1 2 50.0 0 0 - 0 2 0.0 2 3 5 1 1 0 0 0 8
+p272
+aVNazr Mohammed PHI 03/19/1999 PHI vs. LAL W 5 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 3
+p273
+aVTyrone Hill PHI 03/19/1999 PHI vs. LAL W 33 11 4 7 57.1 0 0 - 3 7 42.9 3 7 10 0 0 0 3 3 11
+p274
+aVGeorge Lynch PHI 03/19/1999 PHI vs. LAL W 31 13 6 7 85.7 0 0 - 1 2 50.0 2 6 8 0 1 2 1 5 2
+p275
+aVEric Snow PHI 03/19/1999 PHI vs. LAL W 35 10 3 3 100.0 0 0 - 4 6 66.7 0 1 1 5 6 0 3 4 20
+p276
+aVLarry Hughes PHI 03/19/1999 PHI vs. LAL W 6 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 1 2 -7
+p277
+aVMatt Geiger PHI 03/17/1999 PHI vs. IND W 22 8 4 8 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 0 -4
+p278
+aVTheo Ratliff PHI 03/17/1999 PHI vs. IND W 42 15 5 9 55.6 0 0 - 5 6 83.3 2 5 7 0 2 1 1 3 6
+p279
+aVLarry Hughes PHI 03/17/1999 PHI vs. IND W 8 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 -3
+p280
+aVGeorge Lynch PHI 03/17/1999 PHI vs. IND W 37 21 8 12 66.7 1 2 50.0 4 6 66.7 2 0 2 3 2 0 1 3 -1
+p281
+aVAllen Iverson PHI 03/17/1999 PHI vs. IND W 41 39 13 21 61.9 1 3 33.3 12 18 66.7 1 6 7 3 2 1 1 5 2
+p282
+aVAaron McKie PHI 03/17/1999 PHI vs. IND W 17 3 1 4 25.0 0 0 - 1 2 50.0 1 1 2 3 1 0 0 0 4
+p283
+aVEric Snow PHI 03/17/1999 PHI vs. IND W 42 8 3 5 60.0 0 0 - 2 2 100.0 0 5 5 8 4 0 4 2 10
+p284
+aVTyrone Hill PHI 03/17/1999 PHI vs. IND W 32 17 7 13 53.8 0 0 - 3 4 75.0 5 2 7 0 0 0 1 2 6
+p285
+aVEric Snow PHI 03/15/1999 PHI @ ORL L 36 4 2 6 33.3 0 0 - 0 0 - 1 3 4 4 1 0 3 2 11
+p286
+aVLarry Hughes PHI 03/15/1999 PHI @ ORL L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -15
+p287
+aVTheo Ratliff PHI 03/15/1999 PHI @ ORL L 38 17 5 14 35.7 0 0 - 7 9 77.8 3 6 9 1 1 5 1 5 16
+p288
+aVAaron McKie PHI 03/15/1999 PHI @ ORL L 12 3 1 2 50.0 1 1 100.0 0 0 - 1 0 1 1 0 0 4 1 -14
+p289
+aVGeorge Lynch PHI 03/15/1999 PHI @ ORL L 41 10 3 8 37.5 0 0 - 4 4 100.0 6 14 20 4 1 0 5 2 2
+p290
+aVMatt Geiger PHI 03/15/1999 PHI @ ORL L 30 18 9 16 56.3 0 0 - 0 0 - 5 3 8 0 1 1 2 4 -1
+p291
+aVAllen Iverson PHI 03/15/1999 PHI @ ORL L 41 14 5 21 23.8 1 5 20.0 3 4 75.0 1 4 5 4 1 1 6 1 6
+p292
+aVTyrone Hill PHI 03/15/1999 PHI @ ORL L 29 7 2 6 33.3 0 0 - 3 4 75.0 3 8 11 1 0 2 2 5 -13
+p293
+aVJerald Honeycutt PHI 03/15/1999 PHI @ ORL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 1 0 0 3
+p294
+aVTheo Ratliff PHI 03/12/1999 PHI vs. NJN W 44 23 9 15 60.0 0 0 - 5 6 83.3 1 10 11 1 2 7 4 4 14
+p295
+aVMatt Geiger PHI 03/12/1999 PHI vs. NJN W 26 14 3 7 42.9 0 0 - 8 8 100.0 3 2 5 1 1 0 0 4 0
+p296
+aVEric Snow PHI 03/12/1999 PHI vs. NJN W 47 8 3 6 50.0 0 0 - 2 4 50.0 0 5 5 6 2 0 3 5 10
+p297
+aVAaron McKie PHI 03/12/1999 PHI vs. NJN W 25 4 1 3 33.3 0 0 - 2 2 100.0 1 5 6 3 3 0 2 6 7
+p298
+aVHarvey Grant PHI 03/12/1999 PHI vs. NJN W 9 0 0 3 0.0 0 0 - 0 0 - 2 2 4 1 0 0 0 0 -8
+p299
+aVAllen Iverson PHI 03/12/1999 PHI vs. NJN W 50 28 9 17 52.9 1 2 50.0 9 12 75.0 0 4 4 2 3 0 8 5 10
+p300
+aVLarry Hughes PHI 03/12/1999 PHI vs. NJN W 21 5 2 10 20.0 1 3 33.3 0 2 0.0 1 1 2 3 0 2 1 4 -11
+p301
+aVGeorge Lynch PHI 03/12/1999 PHI vs. NJN W 43 18 7 17 41.2 0 0 - 4 5 80.0 2 6 8 2 5 1 3 3 13
+p302
+aVEric Snow PHI 03/10/1999 PHI vs. CHH W 35 9 3 9 33.3 0 0 - 3 4 75.0 2 3 5 5 6 0 3 3 19
+p303
+aVTim Thomas PHI 03/10/1999 PHI vs. CHH W 8 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 1
+p304
+aVGeorge Lynch PHI 03/10/1999 PHI vs. CHH W 39 7 2 10 20.0 1 1 100.0 2 2 100.0 1 10 11 2 3 0 4 3 11
+p305
+aVAaron McKie PHI 03/10/1999 PHI vs. CHH W 20 6 3 3 100.0 0 0 - 0 0 - 0 6 6 0 0 0 0 1 11
+p306
+aVAllen Iverson PHI 03/10/1999 PHI vs. CHH W 39 25 10 26 38.5 2 5 40.0 3 6 50.0 1 5 6 7 5 0 6 3 21
+p307
+aVTheo Ratliff PHI 03/10/1999 PHI vs. CHH W 36 17 6 9 66.7 0 0 - 5 6 83.3 8 5 13 2 1 5 0 3 12
+p308
+aVMatt Geiger PHI 03/10/1999 PHI vs. CHH W 33 6 3 8 37.5 0 0 - 0 0 - 3 5 8 2 2 1 4 2 9
+p309
+aVCasey Shaw PHI 03/10/1999 PHI vs. CHH W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p310
+aVHarvey Grant PHI 03/10/1999 PHI vs. CHH W 10 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p311
+aVLarry Hughes PHI 03/10/1999 PHI vs. CHH W 17 9 4 11 36.4 0 0 - 1 3 33.3 1 1 2 1 0 0 5 0 -10
+p312
+aVNazr Mohammed PHI 03/10/1999 PHI vs. CHH W 2 1 0 0 - 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 0
+p313
+aVRick Mahorn PHI 03/08/1999 PHI @ MIA L 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 1 3 -12
+p314
+aVGeorge Lynch PHI 03/08/1999 PHI @ MIA L 38 10 3 9 33.3 0 0 - 4 4 100.0 2 6 8 4 2 0 0 2 3
+p315
+aVHarvey Grant PHI 03/08/1999 PHI @ MIA L 15 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -2
+p316
+aVTim Thomas PHI 03/08/1999 PHI @ MIA L 4 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -4
+p317
+aVAllen Iverson PHI 03/08/1999 PHI @ MIA L 42 28 7 20 35.0 2 5 40.0 12 14 85.7 2 4 6 5 3 1 6 0 12
+p318
+aVNazr Mohammed PHI 03/08/1999 PHI @ MIA L 3 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 1 0 1 5
+p319
+aVAaron McKie PHI 03/08/1999 PHI @ MIA L 10 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -10
+p320
+aVMatt Geiger PHI 03/08/1999 PHI @ MIA L 28 6 2 7 28.6 0 0 - 2 2 100.0 2 3 5 1 1 1 3 3 -2
+p321
+aVEric Snow PHI 03/08/1999 PHI @ MIA L 37 14 7 10 70.0 0 0 - 0 0 - 0 2 2 7 1 0 5 5 -1
+p322
+aVLarry Hughes PHI 03/08/1999 PHI @ MIA L 31 11 5 12 41.7 1 1 100.0 0 0 - 4 4 8 2 4 1 1 2 2
+p323
+aVTheo Ratliff PHI 03/08/1999 PHI @ MIA L 26 10 3 6 50.0 0 0 - 4 8 50.0 3 5 8 0 1 0 2 4 -1
+p324
+aVTim Thomas PHI 03/07/1999 PHI vs. WAS L 14 8 3 8 37.5 0 3 0.0 2 2 100.0 0 2 2 0 0 0 1 2 -12
+p325
+aVAllen Iverson PHI 03/07/1999 PHI vs. WAS L 47 30 8 26 30.8 0 4 0.0 14 16 87.5 3 5 8 2 1 0 5 1 -7
+p326
+aVEric Snow PHI 03/07/1999 PHI vs. WAS L 32 11 4 9 44.4 0 0 - 3 4 75.0 1 0 1 3 0 0 2 6 -4
+p327
+aVHarvey Grant PHI 03/07/1999 PHI vs. WAS L 19 6 3 8 37.5 0 0 - 0 2 0.0 3 1 4 0 0 0 0 4 -7
+p328
+aVAaron McKie PHI 03/07/1999 PHI vs. WAS L 16 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 3 4 0 2 1 0
+p329
+aVLarry Hughes PHI 03/07/1999 PHI vs. WAS L 27 5 2 9 22.2 0 2 0.0 1 4 25.0 4 3 7 2 2 0 0 2 2
+p330
+aVMatt Geiger PHI 03/07/1999 PHI vs. WAS L 34 8 2 3 66.7 0 0 - 4 4 100.0 1 5 6 2 0 0 4 6 -6
+p331
+aVTheo Ratliff PHI 03/07/1999 PHI vs. WAS L 37 16 6 10 60.0 0 0 - 4 9 44.4 3 4 7 0 0 2 4 6 -5
+p332
+aVGeorge Lynch PHI 03/07/1999 PHI vs. WAS L 38 11 4 7 57.1 0 0 - 3 4 75.0 1 10 11 4 5 1 4 5 -1
+p333
+aVEric Snow PHI 03/05/1999 PHI vs. MIA L 34 1 0 5 0.0 0 0 - 1 2 50.0 0 0 0 3 3 0 1 3 -17
+p334
+aVGeorge Lynch PHI 03/05/1999 PHI vs. MIA L 43 12 5 11 45.5 0 0 - 2 6 33.3 7 4 11 1 3 0 3 4 -13
+p335
+aVAllen Iverson PHI 03/05/1999 PHI vs. MIA L 42 34 11 29 37.9 1 5 20.0 11 14 78.6 3 2 5 5 5 0 4 4 -3
+p336
+aVHarvey Grant PHI 03/05/1999 PHI vs. MIA L 16 4 2 4 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 2
+p337
+aVLarry Hughes PHI 03/05/1999 PHI vs. MIA L 19 4 2 12 16.7 0 3 0.0 0 0 - 4 3 7 2 0 0 2 1 -2
+p338
+aVTheo Ratliff PHI 03/05/1999 PHI vs. MIA L 36 7 3 7 42.9 0 0 - 1 3 33.3 3 6 9 0 1 2 0 5 -9
+p339
+aVTim Thomas PHI 03/05/1999 PHI vs. MIA L 8 4 0 1 0.0 0 1 0.0 4 4 100.0 0 1 1 0 0 1 0 0 -3
+p340
+aVRick Mahorn PHI 03/05/1999 PHI vs. MIA L 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -1
+p341
+aVAaron McKie PHI 03/05/1999 PHI vs. MIA L 14 4 2 6 33.3 0 0 - 0 0 - 0 2 2 0 0 0 1 3 -9
+p342
+aVMatt Geiger PHI 03/05/1999 PHI vs. MIA L 22 8 3 8 37.5 0 0 - 2 4 50.0 5 2 7 2 0 0 1 5 0
+p343
+aVEric Snow PHI 03/03/1999 PHI vs. CHI W 30 10 5 6 83.3 0 0 - 0 0 - 0 1 1 8 2 0 3 3 19
+p344
+aVAaron McKie PHI 03/03/1999 PHI vs. CHI W 16 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 1 3
+p345
+aVLarry Hughes PHI 03/03/1999 PHI vs. CHI W 17 11 5 13 38.5 1 2 50.0 0 0 - 1 2 3 3 0 0 0 1 -11
+p346
+aVAllen Iverson PHI 03/03/1999 PHI vs. CHI W 36 24 10 21 47.6 0 2 0.0 4 9 44.4 1 2 3 6 3 0 1 0 24
+p347
+aVCasey Shaw PHI 03/03/1999 PHI vs. CHI W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p348
+aVMatt Geiger PHI 03/03/1999 PHI vs. CHI W 34 21 7 9 77.8 0 0 - 7 7 100.0 5 8 13 1 5 1 3 4 27
+p349
+aVNazr Mohammed PHI 03/03/1999 PHI vs. CHI W 6 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 1 0 1 2 -9
+p350
+aVTheo Ratliff PHI 03/03/1999 PHI vs. CHI W 24 8 3 8 37.5 0 0 - 2 2 100.0 2 3 5 0 1 4 2 5 2
+p351
+aVHarvey Grant PHI 03/03/1999 PHI vs. CHI W 14 5 2 3 66.7 1 1 100.0 0 0 - 2 1 3 1 0 0 0 1 15
+p352
+aVGeorge Lynch PHI 03/03/1999 PHI vs. CHI W 34 6 3 9 33.3 0 0 - 0 0 - 3 3 6 1 1 0 3 4 18
+p353
+aVRick Mahorn PHI 03/03/1999 PHI vs. CHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -6
+p354
+aVTim Thomas PHI 03/03/1999 PHI vs. CHI W 19 12 3 5 60.0 1 2 50.0 5 6 83.3 0 3 3 1 0 0 3 5 0
+p355
+aVAaron McKie PHI 03/01/1999 PHI @ WAS W 21 2 1 4 25.0 0 1 0.0 0 0 - 1 3 4 3 1 0 2 2 4
+p356
+aVTim Thomas PHI 03/01/1999 PHI @ WAS W 11 6 3 6 50.0 0 2 0.0 0 2 0.0 0 1 1 1 0 0 1 3 -2
+p357
+aVLarry Hughes PHI 03/01/1999 PHI @ WAS W 22 13 6 10 60.0 0 0 - 1 2 50.0 1 2 3 3 2 0 3 4 6
+p358
+aVGeorge Lynch PHI 03/01/1999 PHI @ WAS W 28 10 5 10 50.0 0 0 - 0 0 - 2 8 10 2 4 0 2 5 18
+p359
+aVTheo Ratliff PHI 03/01/1999 PHI @ WAS W 23 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 1 0 0 2 4
+p360
+aVRick Mahorn PHI 03/01/1999 PHI @ WAS W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -4
+p361
+aVCasey Shaw PHI 03/01/1999 PHI @ WAS W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p362
+aVNazr Mohammed PHI 03/01/1999 PHI @ WAS W 8 8 3 4 75.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 0 4
+p363
+aVEric Snow PHI 03/01/1999 PHI @ WAS W 31 3 1 3 33.3 0 0 - 1 4 25.0 0 4 4 7 2 0 1 4 2
+p364
+aVAllen Iverson PHI 03/01/1999 PHI @ WAS W 40 38 13 24 54.2 1 4 25.0 11 14 78.6 2 3 5 6 3 0 3 1 18
+p365
+aVMatt Geiger PHI 03/01/1999 PHI @ WAS W 30 18 8 13 61.5 0 0 - 2 3 66.7 3 4 7 0 0 2 0 3 6
+p366
+aVHarvey Grant PHI 03/01/1999 PHI @ WAS W 20 0 0 3 0.0 0 0 - 0 0 - 1 2 3 3 0 0 0 3 11
+p367
+aVTheo Ratliff PHI 02/28/1999 PHI @ MIL W 26 8 2 6 33.3 0 0 - 4 6 66.7 3 2 5 1 0 3 2 2 1
+p368
+aVEric Snow PHI 02/28/1999 PHI @ MIL W 34 4 1 4 25.0 0 0 - 2 6 33.3 0 4 4 1 0 0 2 3 4
+p369
+aVHarvey Grant PHI 02/28/1999 PHI @ MIL W 25 6 2 6 33.3 0 0 - 2 2 100.0 2 2 4 1 3 1 1 1 13
+p370
+aVGeorge Lynch PHI 02/28/1999 PHI @ MIL W 39 6 3 8 37.5 0 0 - 0 0 - 3 4 7 3 3 0 2 1 11
+p371
+aVMatt Geiger PHI 02/28/1999 PHI @ MIL W 35 16 7 10 70.0 0 0 - 2 2 100.0 2 7 9 3 0 0 0 4 12
+p372
+aVLarry Hughes PHI 02/28/1999 PHI @ MIL W 17 17 7 9 77.8 0 0 - 3 5 60.0 3 3 6 3 1 1 2 3 17
+p373
+aVAllen Iverson PHI 02/28/1999 PHI @ MIL W 40 25 8 24 33.3 0 2 0.0 9 11 81.8 2 2 4 7 2 0 4 2 9
+p374
+aVAaron McKie PHI 02/28/1999 PHI @ MIL W 15 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 2 2 0 1 0 -5
+p375
+aVTim Thomas PHI 02/28/1999 PHI @ MIL W 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 2 0 0 1 0 -1
+p376
+aVRick Mahorn PHI 02/28/1999 PHI @ MIL W 3 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -6
+p377
+aVTheo Ratliff PHI 02/25/1999 PHI @ CHI W 31 12 3 9 33.3 0 0 - 6 6 100.0 2 5 7 0 3 2 4 1 14
+p378
+aVTim Thomas PHI 02/25/1999 PHI @ CHI W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 2 0
+p379
+aVCasey Shaw PHI 02/25/1999 PHI @ CHI W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p380
+aVEric Snow PHI 02/25/1999 PHI @ CHI W 27 12 4 6 66.7 0 0 - 4 6 66.7 0 2 2 4 4 0 0 3 4
+p381
+aVAllen Iverson PHI 02/25/1999 PHI @ CHI W 40 33 10 20 50.0 2 3 66.7 11 11 100.0 2 3 5 4 3 0 5 2 22
+p382
+aVMatt Geiger PHI 02/25/1999 PHI @ CHI W 26 7 3 7 42.9 0 0 - 1 1 100.0 4 4 8 4 1 1 1 0 7
+p383
+aVLarry Hughes PHI 02/25/1999 PHI @ CHI W 23 10 5 9 55.6 0 0 - 0 0 - 2 2 4 2 1 1 2 3 11
+p384
+aVGeorge Lynch PHI 02/25/1999 PHI @ CHI W 35 7 2 7 28.6 0 0 - 3 5 60.0 3 4 7 3 1 1 1 5 24
+p385
+aVNazr Mohammed PHI 02/25/1999 PHI @ CHI W 10 4 2 3 66.7 0 0 - 0 0 - 0 2 2 1 0 0 0 2 5
+p386
+aVRick Mahorn PHI 02/25/1999 PHI @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -4
+p387
+aVHarvey Grant PHI 02/25/1999 PHI @ CHI W 14 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p388
+aVAaron McKie PHI 02/25/1999 PHI @ CHI W 17 7 3 4 75.0 0 0 - 1 2 50.0 0 3 3 2 3 0 3 0 15
+p389
+aVCasey Shaw PHI 02/24/1999 PHI vs. SAC W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -2
+p390
+aVLarry Hughes PHI 02/24/1999 PHI vs. SAC W 20 17 8 13 61.5 0 0 - 1 2 50.0 0 3 3 1 1 0 1 3 12
+p391
+aVMatt Geiger PHI 02/24/1999 PHI vs. SAC W 31 6 3 12 25.0 0 0 - 0 0 - 3 7 10 1 1 2 3 3 13
+p392
+aVTim Thomas PHI 02/24/1999 PHI vs. SAC W 10 0 0 3 0.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 -1
+p393
+aVGeorge Lynch PHI 02/24/1999 PHI vs. SAC W 37 19 8 12 66.7 1 2 50.0 2 4 50.0 4 10 14 2 1 0 1 4 16
+p394
+aVAaron McKie PHI 02/24/1999 PHI vs. SAC W 8 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -5
+p395
+aVTheo Ratliff PHI 02/24/1999 PHI vs. SAC W 31 7 3 7 42.9 0 0 - 1 2 50.0 4 4 8 0 3 1 1 2 3
+p396
+aVNazr Mohammed PHI 02/24/1999 PHI vs. SAC W 2 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 1 0 0 0 2
+p397
+aVEric Snow PHI 02/24/1999 PHI vs. SAC W 35 3 1 8 12.5 0 0 - 1 1 100.0 0 3 3 5 3 0 3 2 6
+p398
+aVHarvey Grant PHI 02/24/1999 PHI vs. SAC W 24 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 2 0 1 1 7
+p399
+aVAllen Iverson PHI 02/24/1999 PHI vs. SAC W 41 36 15 32 46.9 0 3 0.0 6 7 85.7 1 2 3 10 1 0 3 3 14
+p400
+aVAaron McKie PHI 02/22/1999 PHI @ CLE W 22 4 2 4 50.0 0 0 - 0 0 - 0 1 1 2 0 2 1 1 -1
+p401
+aVHarvey Grant PHI 02/22/1999 PHI @ CLE W 16 2 1 5 20.0 0 0 - 0 0 - 1 2 3 1 0 1 1 3 -1
+p402
+aVGeorge Lynch PHI 02/22/1999 PHI @ CLE W 34 15 7 9 77.8 0 1 0.0 1 2 50.0 3 2 5 2 4 0 3 3 10
+p403
+aVAllen Iverson PHI 02/22/1999 PHI @ CLE W 41 37 12 22 54.5 3 5 60.0 10 12 83.3 1 6 7 9 1 0 4 3 8
+p404
+aVNazr Mohammed PHI 02/22/1999 PHI @ CLE W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 3
+p405
+aVLarry Hughes PHI 02/22/1999 PHI @ CLE W 22 11 3 8 37.5 1 2 50.0 4 4 100.0 2 1 3 0 0 0 0 5 -6
+p406
+aVMatt Geiger PHI 02/22/1999 PHI @ CLE W 25 18 8 10 80.0 0 0 - 2 2 100.0 1 4 5 1 1 0 0 4 22
+p407
+aVEric Snow PHI 02/22/1999 PHI @ CLE W 41 14 4 8 50.0 0 0 - 6 8 75.0 0 4 4 9 2 0 2 2 8
+p408
+aVTheo Ratliff PHI 02/22/1999 PHI @ CLE W 32 3 1 8 12.5 0 0 - 1 4 25.0 3 1 4 0 1 5 1 6 2
+p409
+aVBenoit Benjamin PHI 02/20/1999 PHI vs. ATL L 8 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 1
+p410
+aVTheo Ratliff PHI 02/20/1999 PHI vs. ATL L 38 10 3 8 37.5 0 0 - 4 4 100.0 4 8 12 0 1 4 2 4 -12
+p411
+aVMatt Geiger PHI 02/20/1999 PHI vs. ATL L 31 8 4 14 28.6 0 0 - 0 0 - 4 5 9 0 1 1 2 1 3
+p412
+aVAaron McKie PHI 02/20/1999 PHI vs. ATL L 10 1 0 2 0.0 0 1 0.0 1 2 50.0 0 1 1 2 3 0 2 2 -3
+p413
+aVEric Snow PHI 02/20/1999 PHI vs. ATL L 29 2 1 7 14.3 0 0 - 0 0 - 1 1 2 4 2 0 1 1 -9
+p414
+aVGeorge Lynch PHI 02/20/1999 PHI vs. ATL L 30 2 1 10 10.0 0 0 - 0 0 - 2 1 3 2 3 2 1 2 -12
+p415
+aVHarvey Grant PHI 02/20/1999 PHI vs. ATL L 24 6 3 5 60.0 0 0 - 0 0 - 0 0 0 1 0 1 1 4 -4
+p416
+aVLarry Hughes PHI 02/20/1999 PHI vs. ATL L 23 10 3 8 37.5 0 0 - 4 6 66.7 1 3 4 0 0 0 2 2 11
+p417
+aVCasey Shaw PHI 02/20/1999 PHI vs. ATL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p418
+aVNazr Mohammed PHI 02/20/1999 PHI vs. ATL L 7 2 1 1 100.0 0 0 - 0 1 0.0 0 0 0 1 0 1 1 1 -1
+p419
+aVAllen Iverson PHI 02/20/1999 PHI vs. ATL L 40 26 9 23 39.1 1 2 50.0 7 10 70.0 4 3 7 5 3 1 2 1 -9
+p420
+aVBenoit Benjamin PHI 02/19/1999 PHI vs. NYK L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p421
+aVGeorge Lynch PHI 02/19/1999 PHI vs. NYK L 31 6 3 7 42.9 0 1 0.0 0 0 - 1 3 4 1 4 2 0 3 -12
+p422
+aVCasey Shaw PHI 02/19/1999 PHI vs. NYK L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p423
+aVHarvey Grant PHI 02/19/1999 PHI vs. NYK L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 2 7
+p424
+aVTheo Ratliff PHI 02/19/1999 PHI vs. NYK L 35 5 1 9 11.1 0 0 - 3 4 75.0 8 6 14 0 1 4 2 5 -16
+p425
+aVMatt Geiger PHI 02/19/1999 PHI vs. NYK L 30 6 1 8 12.5 0 0 - 4 4 100.0 0 5 5 0 0 1 6 5 -13
+p426
+aVEric Snow PHI 02/19/1999 PHI vs. NYK L 31 7 2 6 33.3 0 0 - 3 4 75.0 0 4 4 5 3 0 3 2 -12
+p427
+aVNazr Mohammed PHI 02/19/1999 PHI vs. NYK L 2 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 4
+p428
+aVLarry Hughes PHI 02/19/1999 PHI vs. NYK L 22 10 5 9 55.6 0 2 0.0 0 2 0.0 2 1 3 3 0 0 1 0 2
+p429
+aVAaron McKie PHI 02/19/1999 PHI vs. NYK L 18 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 1 0 2 6
+p430
+aVTim Thomas PHI 02/19/1999 PHI vs. NYK L 8 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 0 1 0 2 0 -4
+p431
+aVAllen Iverson PHI 02/19/1999 PHI vs. NYK L 40 29 11 20 55.0 3 5 60.0 4 8 50.0 2 3 5 3 0 0 3 0 -16
+p432
+aVGeorge Lynch PHI 02/18/1999 PHI @ IND L 35 16 8 10 80.0 0 0 - 0 2 0.0 3 3 6 2 2 0 2 2 -10
+p433
+aVEric Snow PHI 02/18/1999 PHI @ IND L 39 9 2 7 28.6 1 1 100.0 4 4 100.0 2 3 5 6 1 0 0 2 -3
+p434
+aVAaron McKie PHI 02/18/1999 PHI @ IND L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -6
+p435
+aVBenoit Benjamin PHI 02/18/1999 PHI @ IND L 10 2 1 2 50.0 0 0 - 0 0 - 2 1 3 1 0 0 2 2 3
+p436
+aVMatt Geiger PHI 02/18/1999 PHI @ IND L 35 22 9 15 60.0 0 0 - 4 4 100.0 2 4 6 1 2 0 1 3 7
+p437
+aVLarry Hughes PHI 02/18/1999 PHI @ IND L 10 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -3
+p438
+aVHarvey Grant PHI 02/18/1999 PHI @ IND L 23 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 0 0 0 3 -5
+p439
+aVAllen Iverson PHI 02/18/1999 PHI @ IND L 40 33 11 23 47.8 0 5 0.0 11 15 73.3 0 3 3 6 1 0 3 5 2
+p440
+aVNazr Mohammed PHI 02/18/1999 PHI @ IND L 7 1 0 3 0.0 0 0 - 1 2 50.0 1 0 1 0 0 1 1 1 -4
+p441
+aVTheo Ratliff PHI 02/18/1999 PHI @ IND L 26 3 1 8 12.5 0 0 - 1 2 50.0 5 8 13 0 1 3 4 4 -7
+p442
+aVTim Thomas PHI 02/18/1999 PHI @ IND L 8 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 0 0 0 0 0 6
+p443
+aVAllen Iverson PHI 02/16/1999 PHI vs. MIL L 44 23 6 18 33.3 2 4 50.0 9 12 75.0 2 7 9 9 0 0 4 2 -1
+p444
+aVGeorge Lynch PHI 02/16/1999 PHI vs. MIL L 26 6 3 7 42.9 0 1 0.0 0 0 - 2 2 4 1 1 0 4 5 2
+p445
+aVMatt Geiger PHI 02/16/1999 PHI vs. MIL L 34 17 7 12 58.3 0 0 - 3 4 75.0 2 4 6 0 0 1 2 1 8
+p446
+aVTheo Ratliff PHI 02/16/1999 PHI vs. MIL L 41 21 9 12 75.0 0 0 - 3 3 100.0 1 12 13 2 0 8 0 3 4
+p447
+aVEric Snow PHI 02/16/1999 PHI vs. MIL L 41 9 3 7 42.9 0 0 - 3 4 75.0 2 2 4 5 1 0 4 3 -1
+p448
+aVTim Thomas PHI 02/16/1999 PHI vs. MIL L 8 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -4
+p449
+aVHarvey Grant PHI 02/16/1999 PHI vs. MIL L 21 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 2 1 0 1 -2
+p450
+aVAaron McKie PHI 02/16/1999 PHI vs. MIL L 17 6 2 6 33.3 0 1 0.0 2 4 50.0 1 1 2 3 0 0 1 1 2
+p451
+aVLarry Hughes PHI 02/16/1999 PHI vs. MIL L 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -13
+p452
+aVLarry Hughes PHI 02/14/1999 PHI vs. ATL W 16 3 0 5 0.0 0 2 0.0 3 6 50.0 0 1 1 0 2 0 0 2 6
+p453
+aVTim Thomas PHI 02/14/1999 PHI vs. ATL W 12 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 1 1 2 2
+p454
+aVAllen Iverson PHI 02/14/1999 PHI vs. ATL W 44 32 11 23 47.8 0 4 0.0 10 10 100.0 1 5 6 4 6 2 5 3 8
+p455
+aVBenoit Benjamin PHI 02/14/1999 PHI vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 -4
+p456
+aVNazr Mohammed PHI 02/14/1999 PHI vs. ATL W 9 2 1 3 33.3 0 0 - 0 0 - 2 3 5 0 0 0 1 2 6
+p457
+aVAaron McKie PHI 02/14/1999 PHI vs. ATL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p458
+aVHarvey Grant PHI 02/14/1999 PHI vs. ATL W 26 2 1 4 25.0 0 0 - 0 0 - 1 1 2 0 1 2 1 3 0
+p459
+aVTheo Ratliff PHI 02/14/1999 PHI vs. ATL W 26 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 0 1 1 4 6 0
+p460
+aVGeorge Lynch PHI 02/14/1999 PHI vs. ATL W 35 9 4 7 57.1 1 2 50.0 0 0 - 1 6 7 0 2 1 3 3 5
+p461
+aVEric Snow PHI 02/14/1999 PHI vs. ATL W 40 7 1 3 33.3 0 0 - 5 6 83.3 1 7 8 6 0 0 3 4 4
+p462
+aVMatt Geiger PHI 02/14/1999 PHI vs. ATL W 26 11 3 9 33.3 0 0 - 5 5 100.0 2 3 5 0 0 0 0 2 11
+p463
+aVTheo Ratliff PHI 02/12/1999 PHI vs. SAS L 24 5 1 6 16.7 0 0 - 3 3 100.0 3 3 6 1 1 2 1 6 11
+p464
+aVAllen Iverson PHI 02/12/1999 PHI vs. SAS L 40 46 14 26 53.8 3 6 50.0 15 17 88.2 2 5 7 6 1 0 3 3 -4
+p465
+aVLarry Hughes PHI 02/12/1999 PHI vs. SAS L 21 12 3 12 25.0 0 3 0.0 6 8 75.0 1 2 3 2 0 1 0 5 -5
+p466
+aVTim Thomas PHI 02/12/1999 PHI vs. SAS L 19 3 1 3 33.3 0 0 - 1 2 50.0 3 1 4 1 0 0 0 3 2
+p467
+aVHarvey Grant PHI 02/12/1999 PHI vs. SAS L 29 8 4 7 57.1 0 0 - 0 0 - 0 2 2 1 1 1 0 6 -2
+p468
+aVEric Snow PHI 02/12/1999 PHI vs. SAS L 26 4 2 5 40.0 0 0 - 0 0 - 1 1 2 4 1 0 1 4 3
+p469
+aVAaron McKie PHI 02/12/1999 PHI vs. SAS L 13 1 0 1 0.0 0 0 - 1 2 50.0 0 2 2 1 0 0 0 1 -11
+p470
+aVMatt Geiger PHI 02/12/1999 PHI vs. SAS L 31 4 0 6 0.0 0 0 - 4 4 100.0 3 7 10 0 1 0 4 5 -10
+p471
+aVBenoit Benjamin PHI 02/12/1999 PHI vs. SAS L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p472
+aVGeorge Lynch PHI 02/12/1999 PHI vs. SAS L 35 11 5 11 45.5 0 0 - 1 2 50.0 4 5 9 1 4 1 3 3 0
+p473
+aVBenoit Benjamin PHI 02/09/1999 PHI vs. DET W 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 8
+p474
+aVMatt Geiger PHI 02/09/1999 PHI vs. DET W 34 16 6 18 33.3 0 0 - 4 6 66.7 6 2 8 1 2 3 2 2 -3
+p475
+aVAllen Iverson PHI 02/09/1999 PHI vs. DET W 38 19 6 20 30.0 1 4 25.0 6 12 50.0 1 4 5 1 6 0 3 2 0
+p476
+aVAaron McKie PHI 02/09/1999 PHI vs. DET W 11 0 0 2 0.0 0 0 - 0 0 - 1 3 4 5 0 0 0 1 3
+p477
+aVEric Snow PHI 02/09/1999 PHI vs. DET W 30 8 3 7 42.9 0 0 - 2 2 100.0 0 2 2 5 3 0 2 3 2
+p478
+aVHarvey Grant PHI 02/09/1999 PHI vs. DET W 21 7 3 4 75.0 0 0 - 1 2 50.0 1 2 3 0 1 4 0 2 3
+p479
+aVLarry Hughes PHI 02/09/1999 PHI vs. DET W 25 16 6 10 60.0 0 1 0.0 4 6 66.7 1 2 3 2 0 0 0 1 6
+p480
+aVTim Thomas PHI 02/09/1999 PHI vs. DET W 15 10 4 6 66.7 2 2 100.0 0 0 - 1 0 1 0 1 1 3 0 6
+p481
+aVGeorge Lynch PHI 02/09/1999 PHI vs. DET W 27 4 2 5 40.0 0 1 0.0 0 0 - 5 3 8 3 4 0 1 6 -3
+p482
+aVTheo Ratliff PHI 02/09/1999 PHI vs. DET W 35 10 3 9 33.3 0 0 - 4 4 100.0 4 5 9 1 1 5 1 4 -2
+p483
+aVTheo Ratliff PHI 02/06/1999 PHI vs. ORL W 37 17 8 13 61.5 0 0 - 1 1 100.0 4 9 13 0 1 3 2 4 19
+p484
+aVAllen Iverson PHI 02/06/1999 PHI vs. ORL W 39 16 5 18 27.8 1 5 20.0 5 6 83.3 3 3 6 10 3 0 6 3 18
+p485
+aVGeorge Lynch PHI 02/06/1999 PHI vs. ORL W 17 0 0 5 0.0 0 0 - 0 0 - 2 2 4 3 1 0 2 2 6
+p486
+aVEric Snow PHI 02/06/1999 PHI vs. ORL W 32 7 3 3 100.0 0 0 - 1 1 100.0 0 6 6 3 3 0 0 4 11
+p487
+aVNazr Mohammed PHI 02/06/1999 PHI vs. ORL W 3 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 0 0 0 0 0 3
+p488
+aVTim Thomas PHI 02/06/1999 PHI vs. ORL W 14 13 4 8 50.0 1 1 100.0 4 4 100.0 1 3 4 1 1 0 1 2 12
+p489
+aVAaron McKie PHI 02/06/1999 PHI vs. ORL W 21 7 3 5 60.0 0 0 - 1 1 100.0 2 2 4 2 2 0 0 2 16
+p490
+aVMatt Geiger PHI 02/06/1999 PHI vs. ORL W 31 20 7 12 58.3 0 0 - 6 10 60.0 2 2 4 0 1 1 2 3 14
+p491
+aVScott Williams PHI 02/06/1999 PHI vs. ORL W 7 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 -5
+p492
+aVAnthony Parker PHI 02/06/1999 PHI vs. ORL W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p493
+aVCasey Shaw PHI 02/06/1999 PHI vs. ORL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 3
+p494
+aVHarvey Grant PHI 02/06/1999 PHI vs. ORL W 22 5 1 1 100.0 0 0 - 3 3 100.0 1 3 4 0 0 0 2 2 6
+p495
+aVLarry Hughes PHI 02/06/1999 PHI vs. ORL W 14 4 1 6 16.7 0 1 0.0 2 3 66.7 1 2 3 0 1 0 3 2 -4
+p496
+aVNazr Mohammed PHI 02/05/1999 PHI @ CHH W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p497
+aVAllen Iverson PHI 02/05/1999 PHI @ CHH W 37 15 4 17 23.5 1 5 20.0 6 7 85.7 1 8 9 4 3 0 7 4 -6
+p498
+aVTheo Ratliff PHI 02/05/1999 PHI @ CHH W 33 13 6 11 54.5 0 0 - 1 2 50.0 3 6 9 0 0 3 0 3 13
+p499
+aVAnthony Parker PHI 02/05/1999 PHI @ CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p500
+aVGeorge Lynch PHI 02/05/1999 PHI @ CHH W 28 8 4 12 33.3 0 0 - 0 0 - 3 2 5 0 3 0 0 5 0
+p501
+aVLarry Hughes PHI 02/05/1999 PHI @ CHH W 16 11 5 10 50.0 1 3 33.3 0 2 0.0 3 6 9 1 1 1 0 0 24
+p502
+aVMatt Geiger PHI 02/05/1999 PHI @ CHH W 26 6 3 9 33.3 0 0 - 0 0 - 2 3 5 0 1 3 2 4 20
+p503
+aVScott Williams PHI 02/05/1999 PHI @ CHH W 10 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 1 2 2 4
+p504
+aVTim Thomas PHI 02/05/1999 PHI @ CHH W 15 7 2 5 40.0 1 3 33.3 2 2 100.0 0 4 4 5 0 0 0 2 6
+p505
+aVCasey Shaw PHI 02/05/1999 PHI @ CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p506
+aVHarvey Grant PHI 02/05/1999 PHI @ CHH W 25 6 2 4 50.0 0 0 - 2 2 100.0 1 1 2 1 1 2 0 1 6
+p507
+aVEric Snow PHI 02/05/1999 PHI @ CHH W 32 10 5 12 41.7 0 1 0.0 0 1 0.0 0 4 4 5 1 0 0 3 5
+p508
+aVAaron McKie PHI 02/05/1999 PHI @ CHH W 15 2 1 2 50.0 0 0 - 0 0 - 0 3 3 2 0 0 1 2 -4
+p509
+a.

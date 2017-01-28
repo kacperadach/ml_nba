@@ -1,0 +1,1624 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVVin Baker MIL 04/23/1995 MIL vs. CHI W 47 11 4 10 40.0 0 0 - 3 8 37.5 3 9 12 5 1 3 3 3 -
+p2
+aVMarty Conlon MIL 04/23/1995 MIL vs. CHI W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p3
+aVEric Murdock MIL 04/23/1995 MIL vs. CHI W 27 13 5 15 33.3 1 5 20.0 2 3 66.7 3 4 7 5 3 0 2 0 -
+p4
+aVTodd Day MIL 04/23/1995 MIL vs. CHI W 29 20 8 12 66.7 2 5 40.0 2 2 100.0 1 7 8 2 1 0 3 6 -
+p5
+aVJon Barry MIL 04/23/1995 MIL vs. CHI W 24 6 1 4 25.0 1 1 100.0 3 4 75.0 0 3 3 2 2 0 3 1 -
+p6
+aVLee Mayberry MIL 04/23/1995 MIL vs. CHI W 22 2 1 2 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 0 -
+p7
+aVGlenn Robinson MIL 04/23/1995 MIL vs. CHI W 42 36 13 25 52.0 2 5 40.0 8 10 80.0 3 5 8 3 2 0 2 4 -
+p8
+aVJohnny Newman MIL 04/23/1995 MIL vs. CHI W 42 16 5 8 62.5 0 1 0.0 6 6 100.0 0 2 2 2 2 0 2 5 -
+p9
+aVJon Barry MIL 04/21/1995 MIL @ CLE L 10 7 2 4 50.0 0 1 0.0 3 3 100.0 0 0 0 2 0 1 1 1 -
+p10
+aVAlton Lister MIL 04/21/1995 MIL @ CLE L 5 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -
+p11
+aVEd Pinckney MIL 04/21/1995 MIL @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p12
+aVJohnny Newman MIL 04/21/1995 MIL @ CLE L 22 6 2 4 50.0 0 0 - 2 4 50.0 0 3 3 0 0 0 1 3 -
+p13
+aVMarty Conlon MIL 04/21/1995 MIL @ CLE L 25 6 3 8 37.5 0 1 0.0 0 0 - 2 2 4 0 0 0 1 2 -
+p14
+aVLee Mayberry MIL 04/21/1995 MIL @ CLE L 13 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 -
+p15
+aVTodd Day MIL 04/21/1995 MIL @ CLE L 33 6 1 12 8.3 0 5 0.0 4 4 100.0 2 2 4 0 1 1 1 1 -
+p16
+aVVin Baker MIL 04/21/1995 MIL @ CLE L 43 12 5 13 38.5 0 0 - 2 2 100.0 2 5 7 5 2 0 2 5 -
+p17
+aVEric Mobley MIL 04/21/1995 MIL @ CLE L 11 0 0 0 - 0 0 - 0 0 - 0 3 3 2 1 0 2 1 -
+p18
+aVEric Murdock MIL 04/21/1995 MIL @ CLE L 39 24 10 14 71.4 3 3 100.0 1 2 50.0 0 2 2 6 0 0 0 3 -
+p19
+aVGlenn Robinson MIL 04/21/1995 MIL @ CLE L 37 19 6 15 40.0 1 4 25.0 6 6 100.0 1 3 4 1 2 0 6 2 -
+p20
+aVEric Mobley MIL 04/19/1995 MIL vs. BOS W 26 6 3 5 60.0 0 0 - 0 0 - 2 5 7 0 0 3 1 3 -
+p21
+aVAlton Lister MIL 04/19/1995 MIL vs. BOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p22
+aVLee Mayberry MIL 04/19/1995 MIL vs. BOS W 14 4 2 4 50.0 0 1 0.0 0 0 - 1 0 1 2 0 0 1 2 -
+p23
+aVEd Pinckney MIL 04/19/1995 MIL vs. BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p24
+aVEric Murdock MIL 04/19/1995 MIL vs. BOS W 34 20 7 16 43.8 3 6 50.0 3 5 60.0 1 7 8 10 2 0 3 2 -
+p25
+aVMarty Conlon MIL 04/19/1995 MIL vs. BOS W 22 7 3 6 50.0 1 2 50.0 0 0 - 1 4 5 1 0 1 2 3 -
+p26
+aVGlenn Robinson MIL 04/19/1995 MIL vs. BOS W 42 26 11 19 57.9 1 1 100.0 3 4 75.0 2 4 6 4 0 1 2 3 -
+p27
+aVVin Baker MIL 04/19/1995 MIL vs. BOS W 44 27 12 23 52.2 1 2 50.0 2 2 100.0 2 8 10 5 0 2 1 5 -
+p28
+aVTodd Day MIL 04/19/1995 MIL vs. BOS W 30 5 2 7 28.6 1 3 33.3 0 0 - 0 1 1 1 1 0 2 4 -
+p29
+aVJohnny Newman MIL 04/19/1995 MIL vs. BOS W 24 11 2 7 28.6 1 4 25.0 6 6 100.0 2 5 7 1 0 0 0 3 -
+p30
+aVMarty Conlon MIL 04/17/1995 MIL @ NYK W 31 8 4 8 50.0 0 0 - 0 2 0.0 2 3 5 1 0 0 2 5 -
+p31
+aVEric Mobley MIL 04/17/1995 MIL @ NYK W 18 7 3 4 75.0 0 0 - 1 1 100.0 4 2 6 1 1 1 0 2 -
+p32
+aVAlton Lister MIL 04/17/1995 MIL @ NYK W 5 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 0 -
+p33
+aVJohnny Newman MIL 04/17/1995 MIL @ NYK W 15 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 2 4 -
+p34
+aVTodd Day MIL 04/17/1995 MIL @ NYK W 34 10 4 13 30.8 2 4 50.0 0 0 - 0 1 1 0 0 0 2 1 -
+p35
+aVGlenn Robinson MIL 04/17/1995 MIL @ NYK W 40 27 5 13 38.5 0 3 0.0 17 20 85.0 1 7 8 6 2 0 1 2 -
+p36
+aVLee Mayberry MIL 04/17/1995 MIL @ NYK W 24 5 2 5 40.0 1 2 50.0 0 0 - 0 1 1 3 0 0 2 2 -
+p37
+aVEd Pinckney MIL 04/17/1995 MIL @ NYK W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p38
+aVVin Baker MIL 04/17/1995 MIL @ NYK W 47 28 11 18 61.1 0 0 - 6 6 100.0 3 10 13 3 0 0 5 4 -
+p39
+aVEric Murdock MIL 04/17/1995 MIL @ NYK W 24 11 4 8 50.0 1 2 50.0 2 2 100.0 2 1 3 7 1 0 1 1 -
+p40
+aVMarty Conlon MIL 04/15/1995 MIL @ WAS L 30 6 3 8 37.5 0 0 - 0 2 0.0 2 2 4 2 0 0 2 3 -
+p41
+aVTodd Day MIL 04/15/1995 MIL @ WAS L 37 15 5 10 50.0 2 5 40.0 3 5 60.0 0 4 4 2 1 1 3 2 -
+p42
+aVLee Mayberry MIL 04/15/1995 MIL @ WAS L 15 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 3 2 -
+p43
+aVEric Murdock MIL 04/15/1995 MIL @ WAS L 33 26 10 15 66.7 2 2 100.0 4 4 100.0 1 1 2 2 4 0 1 4 -
+p44
+aVVin Baker MIL 04/15/1995 MIL @ WAS L 43 30 13 22 59.1 0 0 - 4 9 44.4 7 10 17 3 1 1 2 3 -
+p45
+aVEric Mobley MIL 04/15/1995 MIL @ WAS L 10 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 0 0 1 1 -
+p46
+aVJohnny Newman MIL 04/15/1995 MIL @ WAS L 18 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 5 3 -
+p47
+aVAlton Lister MIL 04/15/1995 MIL @ WAS L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p48
+aVGlenn Robinson MIL 04/15/1995 MIL @ WAS L 44 27 7 18 38.9 2 4 50.0 11 11 100.0 1 6 7 0 3 0 2 3 -
+p49
+aVLee Mayberry MIL 04/14/1995 MIL @ MIN L 22 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 2 0 0 0 0 -
+p50
+aVGlenn Robinson MIL 04/14/1995 MIL @ MIN L 47 28 8 22 36.4 1 4 25.0 11 13 84.6 3 4 7 7 5 0 7 4 -
+p51
+aVEric Mobley MIL 04/14/1995 MIL @ MIN L 16 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p52
+aVTodd Day MIL 04/14/1995 MIL @ MIN L 42 11 4 11 36.4 3 7 42.9 0 0 - 1 5 6 2 0 1 1 3 -
+p53
+aVVin Baker MIL 04/14/1995 MIL @ MIN L 45 18 8 13 61.5 0 0 - 2 3 66.7 0 7 7 6 1 6 6 6 -
+p54
+aVJohnny Newman MIL 04/14/1995 MIL @ MIN L 19 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 1 3 1 0 2 -
+p55
+aVEric Murdock MIL 04/14/1995 MIL @ MIN L 31 13 4 11 36.4 1 6 16.7 4 5 80.0 0 3 3 7 1 0 5 4 -
+p56
+aVEd Pinckney MIL 04/14/1995 MIL @ MIN L 10 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p57
+aVMarty Conlon MIL 04/14/1995 MIL @ MIN L 33 19 7 10 70.0 1 1 100.0 4 4 100.0 2 4 6 0 0 0 3 6 -
+p58
+aVEric Murdock MIL 04/11/1995 MIL vs. DET W 32 8 2 8 25.0 0 1 0.0 4 5 80.0 0 2 2 5 2 0 3 2 -
+p59
+aVJohnny Newman MIL 04/11/1995 MIL vs. DET W 33 15 5 9 55.6 1 2 50.0 4 6 66.7 3 2 5 1 0 1 1 4 -
+p60
+aVGlenn Robinson MIL 04/11/1995 MIL vs. DET W 46 30 10 22 45.5 0 3 0.0 10 11 90.9 2 5 7 3 3 0 5 1 -
+p61
+aVMarty Conlon MIL 04/11/1995 MIL vs. DET W 41 16 7 13 53.8 1 1 100.0 1 2 50.0 6 5 11 4 1 0 0 3 -
+p62
+aVVin Baker MIL 04/11/1995 MIL vs. DET W 49 31 12 25 48.0 0 1 0.0 7 9 77.8 6 6 12 9 1 0 2 3 -
+p63
+aVEric Mobley MIL 04/11/1995 MIL vs. DET W 8 2 1 1 100.0 0 0 - 0 2 0.0 0 2 2 0 0 0 1 2 -
+p64
+aVTodd Day MIL 04/11/1995 MIL vs. DET W 35 10 4 10 40.0 0 2 0.0 2 4 50.0 3 3 6 2 2 1 3 1 -
+p65
+aVLee Mayberry MIL 04/11/1995 MIL vs. DET W 21 2 1 3 33.3 0 0 - 0 0 - 1 0 1 3 1 0 2 1 -
+p66
+aVMarty Conlon MIL 04/09/1995 MIL vs. ATL W 18 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 0 0 0 3 -
+p67
+aVEric Mobley MIL 04/09/1995 MIL vs. ATL W 15 1 0 2 0.0 0 0 - 1 2 50.0 1 7 8 0 0 0 1 0 -
+p68
+aVLee Mayberry MIL 04/09/1995 MIL vs. ATL W 15 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 4 0 0 1 1 -
+p69
+aVJohnny Newman MIL 04/09/1995 MIL vs. ATL W 26 13 5 7 71.4 1 3 33.3 2 2 100.0 1 0 1 0 4 1 0 3 -
+p70
+aVVin Baker MIL 04/09/1995 MIL vs. ATL W 47 23 9 16 56.3 0 0 - 5 8 62.5 5 4 9 5 1 1 3 3 -
+p71
+aVGlenn Robinson MIL 04/09/1995 MIL vs. ATL W 41 32 9 20 45.0 2 5 40.0 12 13 92.3 5 4 9 3 2 0 3 4 -
+p72
+aVJon Barry MIL 04/09/1995 MIL vs. ATL W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 3 2 -
+p73
+aVTodd Day MIL 04/09/1995 MIL vs. ATL W 31 12 4 8 50.0 1 2 50.0 3 4 75.0 0 3 3 0 0 1 2 4 -
+p74
+aVEric Murdock MIL 04/09/1995 MIL vs. ATL W 33 19 7 15 46.7 2 4 50.0 3 6 50.0 0 1 1 8 1 0 2 0 -
+p75
+aVLee Mayberry MIL 04/07/1995 MIL vs. NJN W 24 6 2 4 50.0 2 3 66.7 0 0 - 1 1 2 6 0 0 1 2 -
+p76
+aVEric Murdock MIL 04/07/1995 MIL vs. NJN W 24 14 5 13 38.5 2 6 33.3 2 2 100.0 1 2 3 3 5 0 3 1 -
+p77
+aVVin Baker MIL 04/07/1995 MIL vs. NJN W 37 16 8 17 47.1 0 0 - 0 0 - 1 7 8 9 0 2 2 3 -
+p78
+aVMarty Conlon MIL 04/07/1995 MIL vs. NJN W 26 13 6 9 66.7 0 0 - 1 3 33.3 3 3 6 2 0 1 2 4 -
+p79
+aVJohnny Newman MIL 04/07/1995 MIL vs. NJN W 25 5 1 6 16.7 0 1 0.0 3 4 75.0 2 0 2 1 2 0 0 1 -
+p80
+aVGlenn Robinson MIL 04/07/1995 MIL vs. NJN W 44 25 10 15 66.7 3 5 60.0 2 5 40.0 1 4 5 3 0 1 0 0 -
+p81
+aVJon Barry MIL 04/07/1995 MIL vs. NJN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p82
+aVTodd Day MIL 04/07/1995 MIL vs. NJN W 25 14 5 11 45.5 2 3 66.7 2 2 100.0 0 3 3 3 2 0 4 3 -
+p83
+aVEric Mobley MIL 04/07/1995 MIL vs. NJN W 33 14 7 10 70.0 0 0 - 0 0 - 4 6 10 1 1 0 1 1 -
+p84
+aVJon Barry MIL 04/05/1995 MIL vs. NYK L 21 6 1 6 16.7 0 2 0.0 4 4 100.0 1 2 3 0 4 0 2 1 -
+p85
+aVTate George MIL 04/05/1995 MIL vs. NYK L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p86
+aVJohnny Newman MIL 04/05/1995 MIL vs. NYK L 20 13 3 5 60.0 2 4 50.0 5 5 100.0 1 1 2 0 0 0 0 4 -
+p87
+aVLee Mayberry MIL 04/05/1995 MIL vs. NYK L 26 5 1 4 25.0 1 3 33.3 2 2 100.0 0 1 1 2 0 0 3 1 -
+p88
+aVTodd Day MIL 04/05/1995 MIL vs. NYK L 20 6 2 11 18.2 1 5 20.0 1 2 50.0 2 2 4 0 0 0 1 1 -
+p89
+aVEric Mobley MIL 04/05/1995 MIL vs. NYK L 27 11 4 7 57.1 0 0 - 3 8 37.5 3 8 11 0 0 1 0 4 -
+p90
+aVVin Baker MIL 04/05/1995 MIL vs. NYK L 43 18 6 15 40.0 0 0 - 6 8 75.0 3 9 12 2 1 3 3 3 -
+p91
+aVMarty Conlon MIL 04/05/1995 MIL vs. NYK L 16 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 3 0 0 3 3 -
+p92
+aVGlenn Robinson MIL 04/05/1995 MIL vs. NYK L 44 22 7 19 36.8 3 5 60.0 5 6 83.3 3 5 8 4 0 0 6 0 -
+p93
+aVEric Murdock MIL 04/05/1995 MIL vs. NYK L 21 13 3 10 30.0 1 3 33.3 6 7 85.7 1 0 1 3 2 0 1 1 -
+p94
+aVEd Pinckney MIL 04/01/1995 MIL @ HOU W 12 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 0 -
+p95
+aVGlenn Robinson MIL 04/01/1995 MIL @ HOU W 45 29 13 24 54.2 0 2 0.0 3 3 100.0 2 6 8 2 3 0 7 3 -
+p96
+aVEric Murdock MIL 04/01/1995 MIL @ HOU W 21 5 2 10 20.0 1 2 50.0 0 0 - 1 0 1 4 2 0 1 2 -
+p97
+aVMarty Conlon MIL 04/01/1995 MIL @ HOU W 38 13 6 10 60.0 0 0 - 1 2 50.0 4 2 6 2 0 0 1 1 -
+p98
+aVTodd Day MIL 04/01/1995 MIL @ HOU W 16 8 3 5 60.0 2 4 50.0 0 0 - 1 2 3 0 0 0 1 1 -
+p99
+aVVin Baker MIL 04/01/1995 MIL @ HOU W 42 17 8 14 57.1 0 0 - 1 3 33.3 1 8 9 5 0 1 0 1 -
+p100
+aVJohnny Newman MIL 04/01/1995 MIL @ HOU W 39 9 2 5 40.0 0 1 0.0 5 6 83.3 4 7 11 2 1 0 5 4 -
+p101
+aVLee Mayberry MIL 04/01/1995 MIL @ HOU W 27 12 5 8 62.5 2 4 50.0 0 0 - 1 0 1 0 0 0 2 2 -
+p102
+aVGlenn Robinson MIL 03/31/1995 MIL @ SAN L 37 31 11 20 55.0 1 3 33.3 8 12 66.7 2 4 6 4 1 0 3 5 -
+p103
+aVVin Baker MIL 03/31/1995 MIL @ SAN L 40 24 10 17 58.8 0 0 - 4 5 80.0 1 13 14 0 2 2 3 4 -
+p104
+aVJohnny Newman MIL 03/31/1995 MIL @ SAN L 16 5 2 4 50.0 1 1 100.0 0 0 - 0 1 1 1 1 0 1 4 -
+p105
+aVAlton Lister MIL 03/31/1995 MIL @ SAN L 6 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -
+p106
+aVEric Mobley MIL 03/31/1995 MIL @ SAN L 12 1 0 1 0.0 0 0 - 1 2 50.0 0 4 4 1 0 0 0 2 -
+p107
+aVMarty Conlon MIL 03/31/1995 MIL @ SAN L 37 16 7 16 43.8 0 0 - 2 2 100.0 2 2 4 2 1 0 1 6 -
+p108
+aVTate George MIL 03/31/1995 MIL @ SAN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p109
+aVLee Mayberry MIL 03/31/1995 MIL @ SAN L 11 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -
+p110
+aVEric Murdock MIL 03/31/1995 MIL @ SAN L 37 18 7 15 46.7 1 4 25.0 3 4 75.0 1 4 5 8 1 0 3 0 -
+p111
+aVJon Barry MIL 03/31/1995 MIL @ SAN L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 3 2 0 3 1 -
+p112
+aVTodd Day MIL 03/31/1995 MIL @ SAN L 28 5 2 7 28.6 0 2 0.0 1 2 50.0 1 1 2 2 0 0 1 4 -
+p113
+aVEric Murdock MIL 03/28/1995 MIL @ DAL L 23 14 6 11 54.5 1 4 25.0 1 1 100.0 2 0 2 5 0 0 2 2 -
+p114
+aVMarty Conlon MIL 03/28/1995 MIL @ DAL L 34 14 7 13 53.8 0 0 - 0 0 - 3 7 10 0 1 1 2 2 -
+p115
+aVJohnny Newman MIL 03/28/1995 MIL @ DAL L 24 7 3 7 42.9 0 1 0.0 1 1 100.0 1 4 5 0 1 0 0 1 -
+p116
+aVJon Barry MIL 03/28/1995 MIL @ DAL L 23 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 5 2 1 0 3 -
+p117
+aVTate George MIL 03/28/1995 MIL @ DAL L 5 2 0 2 0.0 0 1 0.0 2 2 100.0 1 0 1 0 0 0 2 1 -
+p118
+aVAlton Lister MIL 03/28/1995 MIL @ DAL L 10 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 1 2 -
+p119
+aVEric Mobley MIL 03/28/1995 MIL @ DAL L 5 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p120
+aVGlenn Robinson MIL 03/28/1995 MIL @ DAL L 36 21 8 19 42.1 0 3 0.0 5 7 71.4 2 2 4 2 0 1 6 4 -
+p121
+aVVin Baker MIL 03/28/1995 MIL @ DAL L 35 13 6 17 35.3 0 0 - 1 5 20.0 7 9 16 2 1 2 3 3 -
+p122
+aVLee Mayberry MIL 03/28/1995 MIL @ DAL L 20 5 2 6 33.3 0 2 0.0 1 1 100.0 0 1 1 5 0 0 0 2 -
+p123
+aVTodd Day MIL 03/28/1995 MIL @ DAL L 25 7 2 15 13.3 0 5 0.0 3 3 100.0 1 5 6 0 1 0 1 2 -
+p124
+aVVin Baker MIL 03/25/1995 MIL vs. SAN L 41 14 6 20 30.0 0 1 0.0 2 2 100.0 4 7 11 2 2 1 1 5 -
+p125
+aVLee Mayberry MIL 03/25/1995 MIL vs. SAN L 28 10 4 4 100.0 2 2 100.0 0 0 - 2 0 2 9 0 0 1 2 -
+p126
+aVAlton Lister MIL 03/25/1995 MIL vs. SAN L 10 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 0 1 0 4 -
+p127
+aVEric Murdock MIL 03/25/1995 MIL vs. SAN L 20 6 1 5 20.0 0 3 0.0 4 5 80.0 0 0 0 4 0 2 3 1 -
+p128
+aVEric Mobley MIL 03/25/1995 MIL vs. SAN L 18 6 3 5 60.0 0 0 - 0 0 - 1 0 1 0 0 2 0 4 -
+p129
+aVGlenn Robinson MIL 03/25/1995 MIL vs. SAN L 38 28 10 22 45.5 3 6 50.0 5 6 83.3 2 7 9 3 0 0 4 2 -
+p130
+aVEd Pinckney MIL 03/25/1995 MIL vs. SAN L 8 2 0 0 - 0 0 - 2 2 100.0 1 1 2 0 1 0 0 0 -
+p131
+aVMarty Conlon MIL 03/25/1995 MIL vs. SAN L 19 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 0 0 0 2 5 -
+p132
+aVJohnny Newman MIL 03/25/1995 MIL vs. SAN L 18 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 0 1 0 0 1 -
+p133
+aVTodd Day MIL 03/25/1995 MIL vs. SAN L 37 25 9 22 40.9 2 4 50.0 5 7 71.4 3 3 6 1 2 0 2 6 -
+p134
+aVJon Barry MIL 03/25/1995 MIL vs. SAN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p135
+aVVin Baker MIL 03/23/1995 MIL vs. LAC W 39 11 5 9 55.6 0 0 - 1 2 50.0 3 5 8 2 2 2 2 3 -
+p136
+aVGlenn Robinson MIL 03/23/1995 MIL vs. LAC W 43 32 13 23 56.5 0 1 0.0 6 7 85.7 4 8 12 5 1 0 1 3 -
+p137
+aVEd Pinckney MIL 03/23/1995 MIL vs. LAC W 30 6 1 2 50.0 0 0 - 4 4 100.0 2 6 8 0 0 1 2 2 -
+p138
+aVTodd Day MIL 03/23/1995 MIL vs. LAC W 28 18 7 15 46.7 2 5 40.0 2 4 50.0 0 0 0 4 1 0 1 3 -
+p139
+aVJohnny Newman MIL 03/23/1995 MIL vs. LAC W 21 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -
+p140
+aVLee Mayberry MIL 03/23/1995 MIL vs. LAC W 21 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 4 1 0 0 3 -
+p141
+aVEric Murdock MIL 03/23/1995 MIL vs. LAC W 27 11 3 10 30.0 2 3 66.7 3 3 100.0 0 6 6 6 1 0 1 0 -
+p142
+aVJon Barry MIL 03/23/1995 MIL vs. LAC W 5 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 1 0 0 0 0 -
+p143
+aVMarty Conlon MIL 03/23/1995 MIL vs. LAC W 26 17 5 10 50.0 0 0 - 7 8 87.5 4 0 4 3 0 0 4 3 -
+p144
+aVEd Pinckney MIL 03/21/1995 MIL vs. GOS W 9 3 1 3 33.3 0 0 - 1 1 100.0 1 1 2 1 0 1 0 0 -
+p145
+aVJon Barry MIL 03/21/1995 MIL vs. GOS W 15 5 2 2 100.0 0 0 - 1 2 50.0 1 2 3 5 1 0 0 2 -
+p146
+aVMarty Conlon MIL 03/21/1995 MIL vs. GOS W 28 13 6 8 75.0 0 0 - 1 2 50.0 0 4 4 2 2 0 1 4 -
+p147
+aVGlenn Robinson MIL 03/21/1995 MIL vs. GOS W 32 8 2 9 22.2 1 3 33.3 3 4 75.0 1 4 5 1 2 0 4 6 -
+p148
+aVVin Baker MIL 03/21/1995 MIL vs. GOS W 31 8 4 9 44.4 0 0 - 0 1 0.0 1 5 6 7 3 2 4 5 -
+p149
+aVEric Murdock MIL 03/21/1995 MIL vs. GOS W 24 10 2 9 22.2 2 5 40.0 4 4 100.0 0 1 1 7 0 0 2 4 -
+p150
+aVTodd Day MIL 03/21/1995 MIL vs. GOS W 38 33 12 23 52.2 5 11 45.5 4 6 66.7 1 2 3 0 3 4 3 3 -
+p151
+aVLee Mayberry MIL 03/21/1995 MIL vs. GOS W 23 11 3 6 50.0 1 2 50.0 4 4 100.0 0 1 1 2 0 0 1 1 -
+p152
+aVEric Mobley MIL 03/21/1995 MIL vs. GOS W 11 4 2 2 100.0 0 0 - 0 0 - 1 3 4 0 0 1 0 0 -
+p153
+aVJohnny Newman MIL 03/21/1995 MIL vs. GOS W 29 20 7 8 87.5 0 0 - 6 7 85.7 1 0 1 3 0 0 1 4 -
+p154
+aVJon Barry MIL 03/19/1995 MIL vs. BOS W 17 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 3 1 0 0 0 -
+p155
+aVLee Mayberry MIL 03/19/1995 MIL vs. BOS W 24 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 7 0 0 0 1 -
+p156
+aVTodd Day MIL 03/19/1995 MIL vs. BOS W 23 14 5 15 33.3 1 5 20.0 3 4 75.0 0 3 3 0 0 1 1 1 -
+p157
+aVEd Pinckney MIL 03/19/1995 MIL vs. BOS W 11 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 1 0 0 0 -
+p158
+aVEric Murdock MIL 03/19/1995 MIL vs. BOS W 24 10 4 11 36.4 1 3 33.3 1 2 50.0 1 1 2 4 2 0 1 3 -
+p159
+aVVin Baker MIL 03/19/1995 MIL vs. BOS W 41 13 6 16 37.5 0 1 0.0 1 5 20.0 3 9 12 4 0 2 0 2 -
+p160
+aVMarty Conlon MIL 03/19/1995 MIL vs. BOS W 28 15 6 13 46.2 0 0 - 3 5 60.0 1 3 4 2 1 1 1 2 -
+p161
+aVGlenn Robinson MIL 03/19/1995 MIL vs. BOS W 36 28 11 15 73.3 2 2 100.0 4 5 80.0 2 2 4 2 2 0 3 4 -
+p162
+aVEric Mobley MIL 03/19/1995 MIL vs. BOS W 16 3 1 4 25.0 0 0 - 1 2 50.0 2 5 7 1 0 1 2 1 -
+p163
+aVJohnny Newman MIL 03/19/1995 MIL vs. BOS W 20 2 1 4 25.0 0 1 0.0 0 0 - 0 3 3 1 0 1 0 2 -
+p164
+aVTodd Day MIL 03/17/1995 MIL @ CHI L 35 16 6 11 54.5 3 5 60.0 1 2 50.0 0 4 4 1 2 0 1 4 -
+p165
+aVJon Barry MIL 03/17/1995 MIL @ CHI L 21 4 1 2 50.0 0 1 0.0 2 2 100.0 0 5 5 6 0 0 2 1 -
+p166
+aVLee Mayberry MIL 03/17/1995 MIL @ CHI L 15 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 0 0 1 1 -
+p167
+aVGlenn Robinson MIL 03/17/1995 MIL @ CHI L 34 16 5 12 41.7 0 2 0.0 6 7 85.7 2 9 11 2 4 0 6 3 -
+p168
+aVJohnny Newman MIL 03/17/1995 MIL @ CHI L 39 16 6 11 54.5 1 4 25.0 3 3 100.0 1 0 1 1 2 0 5 3 -
+p169
+aVEric Murdock MIL 03/17/1995 MIL @ CHI L 33 12 5 14 35.7 1 3 33.3 1 1 100.0 1 1 2 4 2 0 4 1 -
+p170
+aVVin Baker MIL 03/17/1995 MIL @ CHI L 38 12 6 14 42.9 0 2 0.0 0 5 0.0 0 5 5 2 3 2 3 1 -
+p171
+aVMarty Conlon MIL 03/17/1995 MIL @ CHI L 20 8 4 7 57.1 0 0 - 0 0 - 2 1 3 0 1 0 1 2 -
+p172
+aVAlton Lister MIL 03/17/1995 MIL @ CHI L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -
+p173
+aVAlton Lister MIL 03/15/1995 MIL @ IND L 21 4 2 4 50.0 0 0 - 0 0 - 2 5 7 0 0 1 1 3 -
+p174
+aVMarty Conlon MIL 03/15/1995 MIL @ IND L 17 7 3 5 60.0 0 0 - 1 3 33.3 0 3 3 1 0 0 1 4 -
+p175
+aVGlenn Robinson MIL 03/15/1995 MIL @ IND L 38 28 10 18 55.6 2 7 28.6 6 7 85.7 2 3 5 1 0 1 4 3 -
+p176
+aVVin Baker MIL 03/15/1995 MIL @ IND L 39 18 8 13 61.5 0 1 0.0 2 4 50.0 2 15 17 4 0 0 4 4 -
+p177
+aVJohnny Newman MIL 03/15/1995 MIL @ IND L 20 4 1 3 33.3 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 3 -
+p178
+aVEric Mobley MIL 03/15/1995 MIL @ IND L 17 2 1 1 100.0 0 0 - 0 2 0.0 0 1 1 2 0 0 0 2 -
+p179
+aVTodd Day MIL 03/15/1995 MIL @ IND L 40 34 12 20 60.0 3 6 50.0 7 8 87.5 1 1 2 4 3 1 0 4 -
+p180
+aVLee Mayberry MIL 03/15/1995 MIL @ IND L 25 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 7 2 0 1 3 -
+p181
+aVEric Murdock MIL 03/15/1995 MIL @ IND L 23 8 2 8 25.0 1 3 33.3 3 4 75.0 0 2 2 6 0 1 1 2 -
+p182
+aVAaron Williams MIL 03/14/1995 MIL vs. CHH W 1 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p183
+aVVin Baker MIL 03/14/1995 MIL vs. CHH W 42 12 6 16 37.5 0 0 - 0 0 - 5 7 12 12 0 0 2 3 -
+p184
+aVEric Murdock MIL 03/14/1995 MIL vs. CHH W 25 8 3 7 42.9 0 3 0.0 2 4 50.0 0 2 2 5 3 0 0 0 -
+p185
+aVGlenn Robinson MIL 03/14/1995 MIL vs. CHH W 39 27 9 24 37.5 1 2 50.0 8 9 88.9 3 10 13 3 0 1 2 1 -
+p186
+aVEric Mobley MIL 03/14/1995 MIL vs. CHH W 26 8 4 8 50.0 0 0 - 0 0 - 4 7 11 1 0 0 1 4 -
+p187
+aVTodd Day MIL 03/14/1995 MIL vs. CHH W 30 10 3 15 20.0 0 7 0.0 4 4 100.0 5 2 7 1 2 1 1 3 -
+p188
+aVAlton Lister MIL 03/14/1995 MIL vs. CHH W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 0 0 0 3 -
+p189
+aVJohnny Newman MIL 03/14/1995 MIL vs. CHH W 26 10 4 9 44.4 2 3 66.7 0 0 - 1 1 2 1 2 0 0 3 -
+p190
+aVMarty Conlon MIL 03/14/1995 MIL vs. CHH W 21 12 6 10 60.0 0 0 - 0 1 0.0 2 2 4 0 0 1 0 1 -
+p191
+aVLee Mayberry MIL 03/14/1995 MIL vs. CHH W 24 10 4 7 57.1 2 3 66.7 0 0 - 0 0 0 1 0 0 0 1 -
+p192
+aVJohnny Newman MIL 03/12/1995 MIL vs. DEN L 24 7 2 5 40.0 1 2 50.0 2 4 50.0 1 2 3 1 1 1 1 1 -
+p193
+aVMarty Conlon MIL 03/12/1995 MIL vs. DEN L 14 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 0 3 2 -
+p194
+aVVin Baker MIL 03/12/1995 MIL vs. DEN L 36 21 10 14 71.4 0 0 - 1 2 50.0 2 7 9 6 0 1 2 5 -
+p195
+aVTodd Day MIL 03/12/1995 MIL vs. DEN L 37 16 4 15 26.7 2 9 22.2 6 8 75.0 1 3 4 4 0 1 0 2 -
+p196
+aVAlton Lister MIL 03/12/1995 MIL vs. DEN L 5 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 1 1 1 1 -
+p197
+aVJon Barry MIL 03/12/1995 MIL vs. DEN L 17 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 0 1 0 -
+p198
+aVLee Mayberry MIL 03/12/1995 MIL vs. DEN L 22 4 1 2 50.0 1 1 100.0 1 2 50.0 1 1 2 1 2 0 2 1 -
+p199
+aVEric Murdock MIL 03/12/1995 MIL vs. DEN L 26 18 7 10 70.0 2 3 66.7 2 2 100.0 0 2 2 5 1 1 3 2 -
+p200
+aVGlenn Robinson MIL 03/12/1995 MIL vs. DEN L 28 10 4 14 28.6 0 3 0.0 2 2 100.0 0 3 3 2 1 0 4 3 -
+p201
+aVEric Mobley MIL 03/12/1995 MIL vs. DEN L 30 6 3 6 50.0 0 0 - 0 0 - 3 3 6 0 0 2 3 2 -
+p202
+aVEd Pinckney MIL 03/12/1995 MIL vs. DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p203
+aVJohnny Newman MIL 03/10/1995 MIL @ WAS W 31 13 5 7 71.4 1 2 50.0 2 2 100.0 2 1 3 1 0 0 1 3 -
+p204
+aVMarty Conlon MIL 03/10/1995 MIL @ WAS W 36 20 7 9 77.8 0 0 - 6 6 100.0 2 5 7 1 0 0 3 3 -
+p205
+aVLee Mayberry MIL 03/10/1995 MIL @ WAS W 19 8 3 6 50.0 1 2 50.0 1 1 100.0 0 0 0 3 0 0 0 0 -
+p206
+aVJon Barry MIL 03/10/1995 MIL @ WAS W 1 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p207
+aVVin Baker MIL 03/10/1995 MIL @ WAS W 39 16 5 13 38.5 0 0 - 6 6 100.0 1 7 8 5 3 0 5 6 -
+p208
+aVTodd Day MIL 03/10/1995 MIL @ WAS W 44 26 8 14 57.1 2 5 40.0 8 9 88.9 0 5 5 5 3 0 2 4 -
+p209
+aVEric Murdock MIL 03/10/1995 MIL @ WAS W 29 17 5 17 29.4 2 8 25.0 5 6 83.3 1 2 3 7 2 0 5 3 -
+p210
+aVAlton Lister MIL 03/10/1995 MIL @ WAS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p211
+aVEric Mobley MIL 03/10/1995 MIL @ WAS W 38 12 5 6 83.3 0 0 - 2 4 50.0 2 10 12 2 0 4 1 2 -
+p212
+aVJohnny Newman MIL 03/07/1995 MIL vs. POR L 15 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 0 2 -
+p213
+aVEric Murdock MIL 03/07/1995 MIL vs. POR L 35 29 10 14 71.4 6 8 75.0 3 4 75.0 1 6 7 7 2 1 4 2 -
+p214
+aVLee Mayberry MIL 03/07/1995 MIL vs. POR L 13 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 3 -
+p215
+aVEd Pinckney MIL 03/07/1995 MIL vs. POR L 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 1 0 1 2 -
+p216
+aVEric Mobley MIL 03/07/1995 MIL vs. POR L 19 8 2 3 66.7 0 0 - 4 6 66.7 2 3 5 2 1 3 0 3 -
+p217
+aVVin Baker MIL 03/07/1995 MIL vs. POR L 39 27 12 23 52.2 0 1 0.0 3 6 50.0 3 9 12 7 0 0 3 6 -
+p218
+aVJon Barry MIL 03/07/1995 MIL vs. POR L 10 1 0 2 0.0 0 1 0.0 1 2 50.0 1 0 1 0 0 0 0 1 -
+p219
+aVAlton Lister MIL 03/07/1995 MIL vs. POR L 5 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p220
+aVMarty Conlon MIL 03/07/1995 MIL vs. POR L 31 10 5 10 50.0 0 1 0.0 0 1 0.0 2 4 6 4 0 0 1 4 -
+p221
+aVTodd Day MIL 03/07/1995 MIL vs. POR L 26 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 2 0 0 2 5 -
+p222
+aVGlenn Robinson MIL 03/07/1995 MIL vs. POR L 41 20 8 16 50.0 2 5 40.0 2 5 40.0 2 3 5 3 0 0 4 0 -
+p223
+aVVin Baker MIL 03/05/1995 MIL @ NJN L 36 18 8 15 53.3 0 0 - 2 4 50.0 2 10 12 1 2 2 4 5 -
+p224
+aVEd Pinckney MIL 03/05/1995 MIL @ NJN L 17 2 1 2 50.0 0 0 - 0 0 - 2 0 2 2 1 0 0 4 -
+p225
+aVLee Mayberry MIL 03/05/1995 MIL @ NJN L 18 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 2 2 0 1 2 -
+p226
+aVGlenn Robinson MIL 03/05/1995 MIL @ NJN L 35 21 7 11 63.6 1 5 20.0 6 6 100.0 1 3 4 4 0 0 3 5 -
+p227
+aVAaron Williams MIL 03/05/1995 MIL @ NJN L 9 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -
+p228
+aVJon Barry MIL 03/05/1995 MIL @ NJN L 17 10 3 6 50.0 1 2 50.0 3 4 75.0 0 1 1 1 1 0 0 0 -
+p229
+aVEric Mobley MIL 03/05/1995 MIL @ NJN L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -
+p230
+aVTodd Day MIL 03/05/1995 MIL @ NJN L 29 17 7 17 41.2 2 5 40.0 1 4 25.0 0 3 3 1 1 0 0 5 -
+p231
+aVEric Murdock MIL 03/05/1995 MIL @ NJN L 30 11 4 13 30.8 1 3 33.3 2 2 100.0 1 1 2 8 2 0 3 1 -
+p232
+aVJohnny Newman MIL 03/05/1995 MIL @ NJN L 16 4 2 3 66.7 0 1 0.0 0 0 - 0 3 3 0 0 0 2 1 -
+p233
+aVMarty Conlon MIL 03/05/1995 MIL @ NJN L 21 4 2 7 28.6 0 0 - 0 0 - 0 5 5 0 0 0 2 1 -
+p234
+aVJohnny Newman MIL 03/03/1995 MIL @ BOS L 10 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p235
+aVMarty Conlon MIL 03/03/1995 MIL @ BOS L 9 5 1 3 33.3 0 0 - 3 4 75.0 1 1 2 0 0 0 0 4 -
+p236
+aVGlenn Robinson MIL 03/03/1995 MIL @ BOS L 38 19 7 16 43.8 0 3 0.0 5 5 100.0 2 4 6 3 0 0 8 3 -
+p237
+aVVin Baker MIL 03/03/1995 MIL @ BOS L 45 20 7 15 46.7 0 0 - 6 9 66.7 0 6 6 6 0 0 3 5 -
+p238
+aVLee Mayberry MIL 03/03/1995 MIL @ BOS L 17 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 1 0 0 0 2 -
+p239
+aVAlton Lister MIL 03/03/1995 MIL @ BOS L 26 8 3 4 75.0 0 0 - 2 2 100.0 3 6 9 1 1 1 2 5 -
+p240
+aVEric Murdock MIL 03/03/1995 MIL @ BOS L 31 5 2 10 20.0 0 3 0.0 1 2 50.0 1 4 5 5 2 0 3 1 -
+p241
+aVJon Barry MIL 03/03/1995 MIL @ BOS L 11 5 1 4 25.0 1 2 50.0 2 2 100.0 0 0 0 2 1 0 0 0 -
+p242
+aVEric Mobley MIL 03/03/1995 MIL @ BOS L 7 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 0 1 1 -
+p243
+aVTodd Day MIL 03/03/1995 MIL @ BOS L 37 23 8 12 66.7 5 8 62.5 2 5 40.0 1 3 4 2 0 1 2 3 -
+p244
+aVEd Pinckney MIL 03/03/1995 MIL @ BOS L 9 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p245
+aVJon Barry MIL 03/02/1995 MIL vs. ATL W 17 2 0 2 0.0 0 1 0.0 2 3 66.7 0 0 0 2 2 0 0 3 -
+p246
+aVTodd Day MIL 03/02/1995 MIL vs. ATL W 38 23 9 20 45.0 5 11 45.5 0 0 - 3 4 7 3 0 1 3 4 -
+p247
+aVEric Murdock MIL 03/02/1995 MIL vs. ATL W 29 7 0 5 0.0 0 0 - 7 8 87.5 0 4 4 8 1 0 1 2 -
+p248
+aVGlenn Robinson MIL 03/02/1995 MIL vs. ATL W 36 28 9 15 60.0 4 5 80.0 6 10 60.0 0 2 2 4 1 1 1 2 -
+p249
+aVAlton Lister MIL 03/02/1995 MIL vs. ATL W 6 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -
+p250
+aVEd Pinckney MIL 03/02/1995 MIL vs. ATL W 4 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 0 -
+p251
+aVMarty Conlon MIL 03/02/1995 MIL vs. ATL W 26 6 3 6 50.0 0 1 0.0 0 0 - 3 5 8 2 0 0 1 0 -
+p252
+aVEric Mobley MIL 03/02/1995 MIL vs. ATL W 7 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p253
+aVVin Baker MIL 03/02/1995 MIL vs. ATL W 42 25 11 18 61.1 0 0 - 3 6 50.0 9 7 16 2 1 0 4 3 -
+p254
+aVLee Mayberry MIL 03/02/1995 MIL vs. ATL W 19 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 4 1 0 2 0 -
+p255
+aVJohnny Newman MIL 03/02/1995 MIL vs. ATL W 16 7 3 7 42.9 0 1 0.0 1 1 100.0 4 1 5 0 1 0 0 0 -
+p256
+aVEric Murdock MIL 02/28/1995 MIL vs. MIA L 32 16 5 15 33.3 0 5 0.0 6 6 100.0 0 4 4 5 1 0 1 3 -
+p257
+aVTodd Day MIL 02/28/1995 MIL vs. MIA L 38 14 4 7 57.1 3 4 75.0 3 4 75.0 1 6 7 1 2 1 3 3 -
+p258
+aVLee Mayberry MIL 02/28/1995 MIL vs. MIA L 16 2 1 3 33.3 0 0 - 0 2 0.0 1 2 3 2 0 0 0 0 -
+p259
+aVAlton Lister MIL 02/28/1995 MIL vs. MIA L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -
+p260
+aVJohnny Newman MIL 02/28/1995 MIL vs. MIA L 24 5 0 2 0.0 0 1 0.0 5 6 83.3 1 2 3 3 1 0 4 2 -
+p261
+aVVin Baker MIL 02/28/1995 MIL vs. MIA L 42 13 6 16 37.5 0 0 - 1 1 100.0 2 3 5 4 0 0 2 3 -
+p262
+aVEd Pinckney MIL 02/28/1995 MIL vs. MIA L 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 1 -
+p263
+aVMarty Conlon MIL 02/28/1995 MIL vs. MIA L 36 10 4 12 33.3 0 1 0.0 2 2 100.0 5 2 7 4 0 1 3 2 -
+p264
+aVGlenn Robinson MIL 02/28/1995 MIL vs. MIA L 41 22 8 16 50.0 2 7 28.6 4 7 57.1 3 5 8 3 2 1 3 3 -
+p265
+aVJon Barry MIL 02/28/1995 MIL vs. MIA L 4 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 1 0 1 2 -
+p266
+aVMarty Conlon MIL 02/27/1995 MIL @ DET L 30 8 4 9 44.4 0 0 - 0 1 0.0 4 7 11 0 0 0 4 2 -
+p267
+aVVin Baker MIL 02/27/1995 MIL @ DET L 40 18 6 15 40.0 0 1 0.0 6 10 60.0 5 9 14 1 2 4 3 3 -
+p268
+aVJon Barry MIL 02/27/1995 MIL @ DET L 6 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -
+p269
+aVGlenn Robinson MIL 02/27/1995 MIL @ DET L 44 20 7 21 33.3 1 4 25.0 5 7 71.4 0 2 2 4 2 0 4 3 -
+p270
+aVJohnny Newman MIL 02/27/1995 MIL @ DET L 22 3 0 3 0.0 0 0 - 3 4 75.0 1 0 1 0 2 0 1 5 -
+p271
+aVEric Mobley MIL 02/27/1995 MIL @ DET L 8 0 0 1 0.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 -
+p272
+aVEric Murdock MIL 02/27/1995 MIL @ DET L 34 12 5 10 50.0 0 4 0.0 2 5 40.0 3 4 7 2 0 1 4 2 -
+p273
+aVTodd Day MIL 02/27/1995 MIL @ DET L 42 24 5 11 45.5 1 5 20.0 13 16 81.3 1 6 7 0 2 1 4 4 -
+p274
+aVLee Mayberry MIL 02/27/1995 MIL @ DET L 14 2 1 1 100.0 0 0 - 0 0 - 0 1 1 3 1 0 0 0 -
+p275
+aVEd Pinckney MIL 02/24/1995 MIL vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p276
+aVJohnny Newman MIL 02/24/1995 MIL vs. IND L 16 5 2 6 33.3 1 2 50.0 0 0 - 1 1 2 0 0 0 0 4 -
+p277
+aVGlenn Robinson MIL 02/24/1995 MIL vs. IND L 41 18 7 20 35.0 3 6 50.0 1 1 100.0 1 5 6 0 1 2 6 5 -
+p278
+aVEric Mobley MIL 02/24/1995 MIL vs. IND L 24 5 2 2 100.0 0 0 - 1 2 50.0 2 3 5 1 1 2 0 1 -
+p279
+aVMarty Conlon MIL 02/24/1995 MIL vs. IND L 29 13 6 10 60.0 0 0 - 1 2 50.0 2 4 6 2 1 0 1 3 -
+p280
+aVTodd Day MIL 02/24/1995 MIL vs. IND L 39 12 5 16 31.3 0 4 0.0 2 3 66.7 2 2 4 0 0 0 2 4 -
+p281
+aVEric Murdock MIL 02/24/1995 MIL vs. IND L 36 21 8 14 57.1 2 6 33.3 3 3 100.0 0 7 7 8 1 0 6 4 -
+p282
+aVLee Mayberry MIL 02/24/1995 MIL vs. IND L 12 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 5 1 0 2 0 -
+p283
+aVVin Baker MIL 02/24/1995 MIL vs. IND L 42 9 4 10 40.0 0 1 0.0 1 2 50.0 1 7 8 4 0 0 0 4 -
+p284
+aVGlenn Robinson MIL 02/22/1995 MIL vs. WAS W 24 9 4 10 40.0 0 1 0.0 1 1 100.0 1 5 6 1 0 1 5 2 -
+p285
+aVEd Pinckney MIL 02/22/1995 MIL vs. WAS W 12 4 2 3 66.7 0 0 - 0 2 0.0 2 4 6 1 0 0 0 0 -
+p286
+aVTodd Day MIL 02/22/1995 MIL vs. WAS W 38 21 8 15 53.3 5 9 55.6 0 0 - 0 7 7 2 2 0 2 2 -
+p287
+aVLee Mayberry MIL 02/22/1995 MIL vs. WAS W 17 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 0 0 0 1 -
+p288
+aVEric Mobley MIL 02/22/1995 MIL vs. WAS W 28 11 4 6 66.7 0 0 - 3 4 75.0 4 3 7 2 0 3 1 1 -
+p289
+aVJohnny Newman MIL 02/22/1995 MIL vs. WAS W 18 5 2 5 40.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 2 -
+p290
+aVEric Murdock MIL 02/22/1995 MIL vs. WAS W 32 17 7 13 53.8 0 2 0.0 3 4 75.0 0 3 3 7 3 1 5 0 -
+p291
+aVMarty Conlon MIL 02/22/1995 MIL vs. WAS W 29 14 7 10 70.0 0 0 - 0 2 0.0 2 6 8 3 0 0 0 2 -
+p292
+aVVin Baker MIL 02/22/1995 MIL vs. WAS W 42 17 4 13 30.8 0 0 - 9 16 56.3 1 7 8 3 1 2 3 3 -
+p293
+aVTodd Day MIL 02/20/1995 MIL vs. ORL L 34 22 8 18 44.4 2 6 33.3 4 4 100.0 3 3 6 2 0 1 1 3 -
+p294
+aVAaron Williams MIL 02/20/1995 MIL vs. ORL L 10 8 4 6 66.7 0 0 - 0 2 0.0 0 4 4 0 0 1 0 1 -
+p295
+aVMarty Conlon MIL 02/20/1995 MIL vs. ORL L 20 4 2 5 40.0 0 0 - 0 0 - 1 5 6 1 0 0 0 1 -
+p296
+aVEric Mobley MIL 02/20/1995 MIL vs. ORL L 27 8 4 7 57.1 0 0 - 0 0 - 3 2 5 1 0 0 1 2 -
+p297
+aVJohnny Newman MIL 02/20/1995 MIL vs. ORL L 15 0 0 2 0.0 0 0 - 0 2 0.0 2 0 2 3 1 0 0 1 -
+p298
+aVVin Baker MIL 02/20/1995 MIL vs. ORL L 35 13 6 19 31.6 0 1 0.0 1 4 25.0 9 2 11 4 0 0 2 4 -
+p299
+aVLee Mayberry MIL 02/20/1995 MIL vs. ORL L 25 13 5 10 50.0 1 1 100.0 2 4 50.0 0 2 2 4 0 0 2 3 -
+p300
+aVJon Barry MIL 02/20/1995 MIL vs. ORL L 18 8 4 6 66.7 0 1 0.0 0 0 - 0 1 1 4 2 0 1 2 -
+p301
+aVGlenn Robinson MIL 02/20/1995 MIL vs. ORL L 33 22 6 21 28.6 1 4 25.0 9 10 90.0 3 4 7 2 3 0 5 2 -
+p302
+aVEric Murdock MIL 02/20/1995 MIL vs. ORL L 23 6 2 8 25.0 2 2 100.0 0 0 - 0 2 2 4 1 0 5 0 -
+p303
+aVTodd Day MIL 02/18/1995 MIL vs. CHI W 31 12 5 12 41.7 0 3 0.0 2 2 100.0 3 0 3 3 1 1 1 4 -
+p304
+aVAlton Lister MIL 02/18/1995 MIL vs. CHI W 8 2 0 0 - 0 0 - 2 4 50.0 0 3 3 1 0 0 0 4 -
+p305
+aVJon Barry MIL 02/18/1995 MIL vs. CHI W 19 7 0 1 0.0 0 0 - 7 7 100.0 2 1 3 0 0 0 0 0 -
+p306
+aVVin Baker MIL 02/18/1995 MIL vs. CHI W 34 27 11 19 57.9 0 0 - 5 6 83.3 4 3 7 3 1 0 1 5 -
+p307
+aVLee Mayberry MIL 02/18/1995 MIL vs. CHI W 12 4 1 2 50.0 0 1 0.0 2 4 50.0 0 0 0 2 0 0 2 0 -
+p308
+aVJohnny Newman MIL 02/18/1995 MIL vs. CHI W 44 11 4 7 57.1 1 1 100.0 2 2 100.0 2 3 5 1 3 0 0 2 -
+p309
+aVEd Pinckney MIL 02/18/1995 MIL vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p310
+aVGlenn Robinson MIL 02/18/1995 MIL vs. CHI W 39 26 9 17 52.9 0 3 0.0 8 10 80.0 7 10 17 3 0 0 0 5 -
+p311
+aVEric Murdock MIL 02/18/1995 MIL vs. CHI W 36 25 8 17 47.1 1 1 100.0 8 12 66.7 0 3 3 10 2 0 4 1 -
+p312
+aVMarty Conlon MIL 02/18/1995 MIL vs. CHI W 14 4 2 3 66.7 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p313
+aVLee Mayberry MIL 02/16/1995 MIL vs. CLE L 19 5 2 6 33.3 1 2 50.0 0 0 - 0 1 1 4 0 0 0 1 -
+p314
+aVEric Murdock MIL 02/16/1995 MIL vs. CLE L 29 17 6 12 50.0 3 6 50.0 2 2 100.0 0 1 1 4 1 0 2 3 -
+p315
+aVMarty Conlon MIL 02/16/1995 MIL vs. CLE L 19 2 1 5 20.0 0 0 - 0 2 0.0 1 3 4 1 0 0 0 2 -
+p316
+aVJon Barry MIL 02/16/1995 MIL vs. CLE L 17 4 2 5 40.0 0 0 - 0 1 0.0 0 1 1 2 0 0 0 3 -
+p317
+aVTodd Day MIL 02/16/1995 MIL vs. CLE L 40 17 5 15 33.3 3 8 37.5 4 4 100.0 0 3 3 1 0 1 2 2 -
+p318
+aVGlenn Robinson MIL 02/16/1995 MIL vs. CLE L 39 22 10 18 55.6 1 2 50.0 1 1 100.0 4 2 6 1 0 2 5 5 -
+p319
+aVEric Mobley MIL 02/16/1995 MIL vs. CLE L 5 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 1 0 0 -
+p320
+aVVin Baker MIL 02/16/1995 MIL vs. CLE L 41 12 5 13 38.5 0 0 - 2 4 50.0 4 5 9 2 0 1 0 0 -
+p321
+aVAaron Williams MIL 02/16/1995 MIL vs. CLE L 4 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 2 0 -
+p322
+aVEd Pinckney MIL 02/16/1995 MIL vs. CLE L 14 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -
+p323
+aVJohnny Newman MIL 02/16/1995 MIL vs. CLE L 13 4 1 5 20.0 0 1 0.0 2 2 100.0 2 0 2 2 0 0 0 2 -
+p324
+aVGlenn Robinson MIL 02/14/1995 MIL @ MIA L 37 30 9 16 56.3 4 8 50.0 8 10 80.0 2 2 4 5 3 0 7 4 -
+p325
+aVEd Pinckney MIL 02/14/1995 MIL @ MIA L 19 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 3 0 1 1 -
+p326
+aVMarty Conlon MIL 02/14/1995 MIL @ MIA L 16 2 1 1 100.0 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -
+p327
+aVLee Mayberry MIL 02/14/1995 MIL @ MIA L 14 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 2 0 0 0 1 -
+p328
+aVEric Murdock MIL 02/14/1995 MIL @ MIA L 35 13 4 11 36.4 2 5 40.0 3 4 75.0 3 1 4 5 6 0 6 2 -
+p329
+aVJohnny Newman MIL 02/14/1995 MIL @ MIA L 23 10 4 5 80.0 0 0 - 2 2 100.0 1 2 3 2 0 0 0 4 -
+p330
+aVVin Baker MIL 02/14/1995 MIL @ MIA L 40 15 7 14 50.0 0 0 - 1 4 25.0 1 4 5 3 0 0 8 3 -
+p331
+aVTodd Day MIL 02/14/1995 MIL @ MIA L 36 23 6 12 50.0 3 6 50.0 8 10 80.0 2 5 7 3 0 0 4 6 -
+p332
+aVAlton Lister MIL 02/14/1995 MIL @ MIA L 20 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 2 1 3 -
+p333
+aVGlenn Robinson MIL 02/08/1995 MIL vs. MIN W 41 37 10 16 62.5 2 4 50.0 15 15 100.0 1 6 7 3 0 0 2 5 -
+p334
+aVAlton Lister MIL 02/08/1995 MIL vs. MIN W 19 4 2 5 40.0 0 0 - 0 0 - 5 3 8 1 0 1 3 4 -
+p335
+aVLee Mayberry MIL 02/08/1995 MIL vs. MIN W 25 14 4 5 80.0 2 2 100.0 4 6 66.7 0 2 2 2 2 0 1 0 -
+p336
+aVTodd Day MIL 02/08/1995 MIL vs. MIN W 35 19 6 17 35.3 3 7 42.9 4 6 66.7 2 2 4 0 1 1 2 6 -
+p337
+aVJon Barry MIL 02/08/1995 MIL vs. MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p338
+aVMarty Conlon MIL 02/08/1995 MIL vs. MIN W 28 6 2 8 25.0 0 1 0.0 2 2 100.0 2 2 4 0 2 0 3 1 -
+p339
+aVEd Pinckney MIL 02/08/1995 MIL vs. MIN W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p340
+aVVin Baker MIL 02/08/1995 MIL vs. MIN W 43 8 3 9 33.3 0 0 - 2 4 50.0 2 5 7 8 0 1 2 1 -
+p341
+aVEric Murdock MIL 02/08/1995 MIL vs. MIN W 23 8 3 6 50.0 2 2 100.0 0 0 - 0 0 0 5 0 0 2 0 -
+p342
+aVJohnny Newman MIL 02/08/1995 MIL vs. MIN W 21 4 2 6 33.3 0 0 - 0 0 - 3 2 5 1 1 0 3 5 -
+p343
+aVVin Baker MIL 02/07/1995 MIL @ NYK W 45 22 10 17 58.8 2 2 100.0 0 0 - 4 9 13 3 2 2 0 2 -
+p344
+aVAlton Lister MIL 02/07/1995 MIL @ NYK W 22 3 1 6 16.7 0 0 - 1 2 50.0 4 2 6 0 1 0 0 2 -
+p345
+aVEric Murdock MIL 02/07/1995 MIL @ NYK W 37 22 6 15 40.0 2 3 66.7 8 9 88.9 1 1 2 5 1 0 2 2 -
+p346
+aVTodd Day MIL 02/07/1995 MIL @ NYK W 41 15 5 15 33.3 2 5 40.0 3 4 75.0 1 3 4 1 2 0 0 4 -
+p347
+aVJohnny Newman MIL 02/07/1995 MIL @ NYK W 12 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 2 0 0 1 2 -
+p348
+aVLee Mayberry MIL 02/07/1995 MIL @ NYK W 11 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 2 0 0 0 -
+p349
+aVMarty Conlon MIL 02/07/1995 MIL @ NYK W 28 8 4 8 50.0 0 1 0.0 0 0 - 1 3 4 5 1 0 1 3 -
+p350
+aVGlenn Robinson MIL 02/07/1995 MIL @ NYK W 44 20 7 20 35.0 1 5 20.0 5 6 83.3 3 6 9 2 2 0 6 3 -
+p351
+aVTodd Day MIL 02/04/1995 MIL vs. PHL L 25 11 4 9 44.4 0 3 0.0 3 3 100.0 2 1 3 1 1 1 1 4 -
+p352
+aVEric Murdock MIL 02/04/1995 MIL vs. PHL L 30 15 7 14 50.0 0 3 0.0 1 1 100.0 0 3 3 6 0 1 2 0 -
+p353
+aVEd Pinckney MIL 02/04/1995 MIL vs. PHL L 33 4 1 3 33.3 0 0 - 2 2 100.0 2 4 6 0 0 1 0 1 -
+p354
+aVLee Mayberry MIL 02/04/1995 MIL vs. PHL L 18 7 3 6 50.0 1 1 100.0 0 0 - 0 0 0 1 2 0 0 3 -
+p355
+aVJohnny Newman MIL 02/04/1995 MIL vs. PHL L 27 2 1 4 25.0 0 2 0.0 0 0 - 0 1 1 2 1 0 2 5 -
+p356
+aVVin Baker MIL 02/04/1995 MIL vs. PHL L 43 16 4 9 44.4 0 0 - 8 10 80.0 4 14 18 5 1 2 5 5 -
+p357
+aVGlenn Robinson MIL 02/04/1995 MIL vs. PHL L 33 22 9 19 47.4 1 6 16.7 3 3 100.0 2 4 6 2 0 0 5 3 -
+p358
+aVMarty Conlon MIL 02/04/1995 MIL vs. PHL L 17 6 2 4 50.0 0 0 - 2 2 100.0 0 0 0 1 0 0 2 1 -
+p359
+aVJon Barry MIL 02/04/1995 MIL vs. PHL L 14 13 6 7 85.7 1 1 100.0 0 1 0.0 0 0 0 2 0 0 2 2 -
+p360
+aVEric Mobley MIL 02/03/1995 MIL @ CHH L 12 7 3 5 60.0 1 1 100.0 0 0 - 1 1 2 1 0 0 0 0 -
+p361
+aVEd Pinckney MIL 02/03/1995 MIL @ CHH L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p362
+aVAlton Lister MIL 02/03/1995 MIL @ CHH L 17 2 1 2 50.0 0 0 - 0 0 - 4 3 7 0 0 0 0 3 -
+p363
+aVTodd Day MIL 02/03/1995 MIL @ CHH L 36 8 2 7 28.6 2 4 50.0 2 2 100.0 0 2 2 1 3 3 3 3 -
+p364
+aVAaron Williams MIL 02/03/1995 MIL @ CHH L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 2 -
+p365
+aVJohnny Newman MIL 02/03/1995 MIL @ CHH L 14 6 2 7 28.6 0 1 0.0 2 2 100.0 1 2 3 0 0 0 1 2 -
+p366
+aVEric Murdock MIL 02/03/1995 MIL @ CHH L 38 13 6 15 40.0 0 1 0.0 1 1 100.0 0 2 2 11 1 0 4 2 -
+p367
+aVGlenn Robinson MIL 02/03/1995 MIL @ CHH L 41 28 12 26 46.2 2 5 40.0 2 3 66.7 4 6 10 4 1 1 7 0 -
+p368
+aVVin Baker MIL 02/03/1995 MIL @ CHH L 36 20 10 19 52.6 0 0 - 0 2 0.0 1 6 7 1 0 0 2 4 -
+p369
+aVMarty Conlon MIL 02/03/1995 MIL @ CHH L 27 12 5 9 55.6 0 0 - 2 2 100.0 7 4 11 3 0 0 2 4 -
+p370
+aVJon Barry MIL 02/03/1995 MIL @ CHH L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 0 -
+p371
+aVLee Mayberry MIL 02/03/1995 MIL @ CHH L 10 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 1 0 0 1 0 -
+p372
+aVGlenn Robinson MIL 02/01/1995 MIL @ NJN L 37 21 9 23 39.1 2 4 50.0 1 3 33.3 3 7 10 2 2 0 4 2 -
+p373
+aVLee Mayberry MIL 02/01/1995 MIL @ NJN L 12 3 1 3 33.3 1 3 33.3 0 0 - 0 0 0 2 0 0 1 1 -
+p374
+aVEric Murdock MIL 02/01/1995 MIL @ NJN L 36 9 4 12 33.3 1 3 33.3 0 1 0.0 1 1 2 3 0 0 1 2 -
+p375
+aVJohnny Newman MIL 02/01/1995 MIL @ NJN L 21 7 2 6 33.3 1 2 50.0 2 3 66.7 0 0 0 1 0 0 1 1 -
+p376
+aVJon Barry MIL 02/01/1995 MIL @ NJN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -
+p377
+aVEd Pinckney MIL 02/01/1995 MIL @ NJN L 21 6 2 3 66.7 0 0 - 2 3 66.7 5 3 8 0 0 1 0 1 -
+p378
+aVTodd Day MIL 02/01/1995 MIL @ NJN L 30 9 3 11 27.3 2 6 33.3 1 1 100.0 0 1 1 2 1 0 0 2 -
+p379
+aVAlton Lister MIL 02/01/1995 MIL @ NJN L 12 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p380
+aVMarty Conlon MIL 02/01/1995 MIL @ NJN L 24 4 1 4 25.0 0 1 0.0 2 4 50.0 4 3 7 0 0 3 2 0 -
+p381
+aVEric Mobley MIL 02/01/1995 MIL @ NJN L 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p382
+aVVin Baker MIL 02/01/1995 MIL @ NJN L 42 16 8 16 50.0 0 0 - 0 0 - 2 9 11 5 1 5 1 2 -
+p383
+aVAaron Williams MIL 02/01/1995 MIL @ NJN L 1 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p384
+aVEd Pinckney MIL 01/31/1995 MIL vs. DAL W 3 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p385
+aVJon Barry MIL 01/31/1995 MIL vs. DAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p386
+aVTodd Day MIL 01/31/1995 MIL vs. DAL W 31 10 4 13 30.8 2 5 40.0 0 0 - 3 2 5 2 3 2 0 4 -
+p387
+aVLee Mayberry MIL 01/31/1995 MIL vs. DAL W 15 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 6 0 0 0 2 -
+p388
+aVVin Baker MIL 01/31/1995 MIL vs. DAL W 41 20 8 15 53.3 2 2 100.0 2 4 50.0 4 9 13 1 0 0 3 5 -
+p389
+aVMarty Conlon MIL 01/31/1995 MIL vs. DAL W 24 9 4 8 50.0 0 1 0.0 1 4 25.0 2 8 10 1 1 0 0 3 -
+p390
+aVJohnny Newman MIL 01/31/1995 MIL vs. DAL W 47 11 4 6 66.7 1 2 50.0 2 2 100.0 2 1 3 3 2 1 1 4 -
+p391
+aVGlenn Robinson MIL 01/31/1995 MIL vs. DAL W 45 38 17 28 60.7 3 5 60.0 1 1 100.0 1 4 5 1 3 0 3 4 -
+p392
+aVEric Murdock MIL 01/31/1995 MIL vs. DAL W 33 14 4 13 30.8 0 2 0.0 6 6 100.0 1 3 4 7 0 0 2 1 -
+p393
+aVVin Baker MIL 01/28/1995 MIL @ ORL L 44 27 12 22 54.5 0 0 - 3 5 60.0 2 8 10 5 1 1 0 5 -
+p394
+aVEric Murdock MIL 01/28/1995 MIL @ ORL L 41 22 10 20 50.0 0 4 0.0 2 4 50.0 1 2 3 11 3 0 5 1 -
+p395
+aVAlton Lister MIL 01/28/1995 MIL @ ORL L 8 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 1 0 1 -
+p396
+aVEd Pinckney MIL 01/28/1995 MIL @ ORL L 4 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p397
+aVLee Mayberry MIL 01/28/1995 MIL @ ORL L 7 0 0 0 - 0 0 - 0 0 - 0 1 1 2 0 0 1 1 -
+p398
+aVMarty Conlon MIL 01/28/1995 MIL @ ORL L 38 16 7 9 77.8 2 2 100.0 0 0 - 3 6 9 2 0 1 1 4 -
+p399
+aVGlenn Robinson MIL 01/28/1995 MIL @ ORL L 24 8 2 6 33.3 1 1 100.0 3 6 50.0 1 4 5 3 1 0 1 5 -
+p400
+aVJohnny Newman MIL 01/28/1995 MIL @ ORL L 31 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 1 1 1 0 3 -
+p401
+aVTodd Day MIL 01/28/1995 MIL @ ORL L 42 20 6 17 35.3 2 10 20.0 6 6 100.0 0 3 3 3 1 0 0 4 -
+p402
+aVEric Mobley MIL 01/28/1995 MIL @ ORL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p403
+aVAlton Lister MIL 01/27/1995 MIL vs. MIA L 18 6 3 6 50.0 0 0 - 0 1 0.0 1 7 8 1 1 1 2 1 -
+p404
+aVJohnny Newman MIL 01/27/1995 MIL vs. MIA L 19 5 1 3 33.3 1 2 50.0 2 3 66.7 0 2 2 1 2 0 1 3 -
+p405
+aVEric Murdock MIL 01/27/1995 MIL vs. MIA L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 4 1 0 4 2 -
+p406
+aVTodd Day MIL 01/27/1995 MIL vs. MIA L 34 20 8 14 57.1 2 5 40.0 2 4 50.0 3 1 4 1 2 0 1 6 -
+p407
+aVJon Barry MIL 01/27/1995 MIL vs. MIA L 14 0 0 4 0.0 0 2 0.0 0 0 - 1 1 2 5 1 0 1 1 -
+p408
+aVGlenn Robinson MIL 01/27/1995 MIL vs. MIA L 38 18 6 16 37.5 1 4 25.0 5 5 100.0 3 3 6 1 0 1 5 1 -
+p409
+aVMarty Conlon MIL 01/27/1995 MIL vs. MIA L 28 12 4 8 50.0 0 0 - 4 4 100.0 1 5 6 0 0 0 1 3 -
+p410
+aVVin Baker MIL 01/27/1995 MIL vs. MIA L 41 18 5 12 41.7 0 0 - 8 12 66.7 4 7 11 1 0 1 2 4 -
+p411
+aVLee Mayberry MIL 01/27/1995 MIL vs. MIA L 36 8 4 10 40.0 0 4 0.0 0 0 - 1 0 1 5 1 0 1 0 -
+p412
+aVJohnny Newman MIL 01/25/1995 MIL @ PHL W 19 5 2 7 28.6 0 1 0.0 1 1 100.0 0 0 0 1 1 0 3 4 -
+p413
+aVGlenn Robinson MIL 01/25/1995 MIL @ PHL W 39 29 13 20 65.0 2 3 66.7 1 3 33.3 2 5 7 2 3 0 4 4 -
+p414
+aVEric Murdock MIL 01/25/1995 MIL @ PHL W 32 5 2 8 25.0 0 2 0.0 1 4 25.0 1 4 5 11 0 0 2 1 -
+p415
+aVLee Mayberry MIL 01/25/1995 MIL @ PHL W 16 5 2 2 100.0 1 1 100.0 0 0 - 1 1 2 2 0 0 4 1 -
+p416
+aVAlton Lister MIL 01/25/1995 MIL @ PHL W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 0 1 -
+p417
+aVMarty Conlon MIL 01/25/1995 MIL @ PHL W 36 14 6 13 46.2 0 1 0.0 2 3 66.7 4 2 6 5 2 0 1 0 -
+p418
+aVEd Pinckney MIL 01/25/1995 MIL @ PHL W 19 4 1 1 100.0 0 0 - 2 2 100.0 0 3 3 0 3 1 0 2 -
+p419
+aVTodd Day MIL 01/25/1995 MIL @ PHL W 35 18 7 18 38.9 4 9 44.4 0 0 - 3 5 8 2 1 0 2 3 -
+p420
+aVVin Baker MIL 01/25/1995 MIL @ PHL W 39 16 7 15 46.7 0 2 0.0 2 2 100.0 6 6 12 3 2 1 2 1 -
+p421
+aVJohnny Newman MIL 01/24/1995 MIL vs. HOU L 13 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p422
+aVLee Mayberry MIL 01/24/1995 MIL vs. HOU L 11 8 3 5 60.0 2 4 50.0 0 0 - 0 0 0 2 1 0 0 0 -
+p423
+aVEric Mobley MIL 01/24/1995 MIL vs. HOU L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p424
+aVGlenn Robinson MIL 01/24/1995 MIL vs. HOU L 41 20 9 19 47.4 1 2 50.0 1 2 50.0 3 1 4 1 0 1 3 2 -
+p425
+aVEd Pinckney MIL 01/24/1995 MIL vs. HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p426
+aVTodd Day MIL 01/24/1995 MIL vs. HOU L 42 20 7 14 50.0 2 8 25.0 4 4 100.0 0 2 2 3 3 0 0 2 -
+p427
+aVVin Baker MIL 01/24/1995 MIL vs. HOU L 39 8 4 14 28.6 0 0 - 0 0 - 4 5 9 1 0 0 6 5 -
+p428
+aVMarty Conlon MIL 01/24/1995 MIL vs. HOU L 36 21 10 13 76.9 0 0 - 1 1 100.0 2 2 4 3 1 1 2 1 -
+p429
+aVAlton Lister MIL 01/24/1995 MIL vs. HOU L 13 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p430
+aVEric Murdock MIL 01/24/1995 MIL vs. HOU L 37 18 7 18 38.9 4 9 44.4 0 0 - 1 5 6 14 2 0 1 2 -
+p431
+aVVin Baker MIL 01/21/1995 MIL vs. DET W 37 25 7 12 58.3 0 0 - 11 15 73.3 7 4 11 4 2 2 4 5 -
+p432
+aVJon Barry MIL 01/21/1995 MIL vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p433
+aVAaron Williams MIL 01/21/1995 MIL vs. DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p434
+aVEric Murdock MIL 01/21/1995 MIL vs. DET W 29 18 7 12 58.3 2 3 66.7 2 3 66.7 0 2 2 8 2 1 0 4 -
+p435
+aVGlenn Robinson MIL 01/21/1995 MIL vs. DET W 36 17 7 20 35.0 1 4 25.0 2 2 100.0 3 6 9 3 0 0 2 3 -
+p436
+aVTodd Day MIL 01/21/1995 MIL vs. DET W 34 17 6 11 54.5 4 6 66.7 1 2 50.0 1 2 3 0 0 2 3 2 -
+p437
+aVEric Mobley MIL 01/21/1995 MIL vs. DET W 1 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -
+p438
+aVMarty Conlon MIL 01/21/1995 MIL vs. DET W 25 10 4 7 57.1 1 1 100.0 1 1 100.0 2 3 5 5 0 0 1 3 -
+p439
+aVJohnny Newman MIL 01/21/1995 MIL vs. DET W 25 16 7 10 70.0 1 2 50.0 1 2 50.0 0 3 3 1 2 0 2 3 -
+p440
+aVLee Mayberry MIL 01/21/1995 MIL vs. DET W 19 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 5 2 0 1 3 -
+p441
+aVAlton Lister MIL 01/21/1995 MIL vs. DET W 19 3 1 2 50.0 0 0 - 1 4 25.0 3 1 4 0 0 0 0 4 -
+p442
+aVEd Pinckney MIL 01/21/1995 MIL vs. DET W 13 6 2 2 100.0 0 0 - 2 2 100.0 1 3 4 1 1 0 0 0 -
+p443
+aVVin Baker MIL 01/19/1995 MIL vs. WAS W 43 17 3 8 37.5 0 0 - 11 13 84.6 5 7 12 5 1 0 6 1 -
+p444
+aVEd Pinckney MIL 01/19/1995 MIL vs. WAS W 9 0 0 1 0.0 0 0 - 0 0 - 1 2 3 0 0 0 1 1 -
+p445
+aVTodd Day MIL 01/19/1995 MIL vs. WAS W 35 29 9 13 69.2 5 6 83.3 6 6 100.0 0 3 3 1 2 0 1 3 -
+p446
+aVAlton Lister MIL 01/19/1995 MIL vs. WAS W 16 1 0 2 0.0 0 0 - 1 2 50.0 1 3 4 1 0 4 1 2 -
+p447
+aVEric Murdock MIL 01/19/1995 MIL vs. WAS W 34 17 4 10 40.0 1 2 50.0 8 10 80.0 1 2 3 10 1 0 3 1 -
+p448
+aVLee Mayberry MIL 01/19/1995 MIL vs. WAS W 15 3 1 1 100.0 0 0 - 1 1 100.0 0 0 0 0 0 0 0 1 -
+p449
+aVGlenn Robinson MIL 01/19/1995 MIL vs. WAS W 39 30 9 17 52.9 0 1 0.0 12 15 80.0 2 3 5 4 3 1 5 3 -
+p450
+aVMarty Conlon MIL 01/19/1995 MIL vs. WAS W 27 12 5 9 55.6 0 1 0.0 2 2 100.0 2 4 6 1 0 0 2 2 -
+p451
+aVJohnny Newman MIL 01/19/1995 MIL vs. WAS W 22 11 4 6 66.7 0 2 0.0 3 4 75.0 0 1 1 0 1 0 1 5 -
+p452
+aVTodd Day MIL 01/18/1995 MIL @ CHI W 40 19 7 15 46.7 3 7 42.9 2 4 50.0 0 4 4 0 4 1 2 4 -
+p453
+aVJon Barry MIL 01/18/1995 MIL @ CHI W 11 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 1 0 2 1 -
+p454
+aVVin Baker MIL 01/18/1995 MIL @ CHI W 40 23 11 20 55.0 0 0 - 1 6 16.7 6 6 12 5 1 0 3 5 -
+p455
+aVAlton Lister MIL 01/18/1995 MIL @ CHI W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -
+p456
+aVGlenn Robinson MIL 01/18/1995 MIL @ CHI W 31 24 9 18 50.0 0 1 0.0 6 7 85.7 4 6 10 2 1 0 4 5 -
+p457
+aVMarty Conlon MIL 01/18/1995 MIL @ CHI W 36 12 5 6 83.3 1 1 100.0 1 2 50.0 2 6 8 2 1 0 2 3 -
+p458
+aVEd Pinckney MIL 01/18/1995 MIL @ CHI W 4 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p459
+aVJohnny Newman MIL 01/18/1995 MIL @ CHI W 26 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 2 1 0 1 4 -
+p460
+aVLee Mayberry MIL 01/18/1995 MIL @ CHI W 15 2 0 3 0.0 0 1 0.0 2 2 100.0 1 0 1 2 0 0 0 0 -
+p461
+aVEric Murdock MIL 01/18/1995 MIL @ CHI W 33 13 5 13 38.5 1 3 33.3 2 2 100.0 0 4 4 6 2 0 3 2 -
+p462
+aVTodd Day MIL 01/14/1995 MIL @ IND W 32 16 5 10 50.0 3 5 60.0 3 5 60.0 1 0 1 2 1 0 0 3 -
+p463
+aVAlton Lister MIL 01/14/1995 MIL @ IND W 19 6 2 7 28.6 0 0 - 2 2 100.0 4 3 7 1 1 0 0 3 -
+p464
+aVEd Pinckney MIL 01/14/1995 MIL @ IND W 19 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 3 0 0 0 -
+p465
+aVLee Mayberry MIL 01/14/1995 MIL @ IND W 28 8 3 8 37.5 2 4 50.0 0 0 - 0 2 2 6 0 0 1 1 -
+p466
+aVVin Baker MIL 01/14/1995 MIL @ IND W 39 20 8 18 44.4 0 0 - 4 8 50.0 2 8 10 2 2 2 4 2 -
+p467
+aVJohnny Newman MIL 01/14/1995 MIL @ IND W 20 10 3 5 60.0 1 1 100.0 3 3 100.0 0 0 0 1 0 0 1 3 -
+p468
+aVJon Barry MIL 01/14/1995 MIL @ IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p469
+aVMarty Conlon MIL 01/14/1995 MIL @ IND W 26 7 2 6 33.3 0 0 - 3 6 50.0 2 6 8 0 0 2 1 3 -
+p470
+aVGlenn Robinson MIL 01/14/1995 MIL @ IND W 35 21 5 12 41.7 1 2 50.0 10 10 100.0 0 6 6 2 2 0 8 6 -
+p471
+aVEric Murdock MIL 01/14/1995 MIL @ IND W 21 9 4 8 50.0 1 2 50.0 0 0 - 0 2 2 5 3 0 1 1 -
+p472
+aVGlenn Robinson MIL 01/13/1995 MIL vs. NYK L 38 24 10 20 50.0 2 3 66.7 2 2 100.0 3 4 7 1 1 0 3 3 -
+p473
+aVEric Murdock MIL 01/13/1995 MIL vs. NYK L 33 6 2 6 33.3 1 1 100.0 1 2 50.0 0 6 6 8 1 0 5 3 -
+p474
+aVVin Baker MIL 01/13/1995 MIL vs. NYK L 40 22 8 14 57.1 0 0 - 6 9 66.7 3 3 6 1 0 1 5 3 -
+p475
+aVJohnny Newman MIL 01/13/1995 MIL vs. NYK L 23 5 1 2 50.0 0 0 - 3 6 50.0 1 4 5 1 1 0 1 3 -
+p476
+aVAlton Lister MIL 01/13/1995 MIL vs. NYK L 24 10 3 5 60.0 0 0 - 4 6 66.7 1 5 6 0 1 2 1 4 -
+p477
+aVMarty Conlon MIL 01/13/1995 MIL vs. NYK L 24 12 5 7 71.4 0 0 - 2 5 40.0 2 5 7 1 0 0 0 1 -
+p478
+aVTodd Day MIL 01/13/1995 MIL vs. NYK L 35 9 4 10 40.0 1 1 100.0 0 0 - 1 4 5 1 0 0 2 5 -
+p479
+aVLee Mayberry MIL 01/13/1995 MIL vs. NYK L 15 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 1 0 0 0 2 -
+p480
+aVEd Pinckney MIL 01/13/1995 MIL vs. NYK L 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 1 1 -
+p481
+aVEric Murdock MIL 01/11/1995 MIL vs. SAC W 36 16 5 11 45.5 1 2 50.0 5 6 83.3 0 2 2 12 4 0 6 2 -
+p482
+aVVin Baker MIL 01/11/1995 MIL vs. SAC W 41 26 10 16 62.5 0 0 - 6 11 54.5 1 7 8 3 0 1 4 4 -
+p483
+aVLee Mayberry MIL 01/11/1995 MIL vs. SAC W 12 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 4 1 0 1 1 -
+p484
+aVEd Pinckney MIL 01/11/1995 MIL vs. SAC W 38 2 1 3 33.3 0 0 - 0 0 - 6 9 15 2 3 5 0 1 -
+p485
+aVMarty Conlon MIL 01/11/1995 MIL vs. SAC W 17 12 6 8 75.0 0 0 - 0 0 - 1 2 3 0 0 1 2 2 -
+p486
+aVGlenn Robinson MIL 01/11/1995 MIL vs. SAC W 34 10 4 11 36.4 0 1 0.0 2 2 100.0 1 3 4 3 1 0 1 3 -
+p487
+aVTodd Day MIL 01/11/1995 MIL vs. SAC W 37 20 6 15 40.0 3 8 37.5 5 6 83.3 2 3 5 1 6 1 6 5 -
+p488
+aVJohnny Newman MIL 01/11/1995 MIL vs. SAC W 24 11 4 6 66.7 0 0 - 3 3 100.0 0 3 3 2 0 0 1 5 -
+p489
+aVAlton Lister MIL 01/11/1995 MIL vs. SAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p490
+aVJohnny Newman MIL 01/09/1995 MIL @ PHX L 12 6 3 7 42.9 0 2 0.0 0 0 - 1 1 2 0 1 0 0 1 -
+p491
+aVMarty Conlon MIL 01/09/1995 MIL @ PHX L 21 7 2 8 25.0 0 0 - 3 4 75.0 3 2 5 2 0 0 0 2 -
+p492
+aVEric Mobley MIL 01/09/1995 MIL @ PHX L 2 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 0 -
+p493
+aVEric Murdock MIL 01/09/1995 MIL @ PHX L 28 15 6 15 40.0 1 4 25.0 2 2 100.0 3 0 3 9 0 0 3 2 -
+p494
+aVVin Baker MIL 01/09/1995 MIL @ PHX L 40 24 9 19 47.4 0 0 - 6 7 85.7 7 7 14 4 0 1 1 4 -
+p495
+aVTodd Day MIL 01/09/1995 MIL @ PHX L 32 11 5 10 50.0 1 4 25.0 0 0 - 0 2 2 0 1 0 2 3 -
+p496
+aVEd Pinckney MIL 01/09/1995 MIL @ PHX L 29 8 4 6 66.7 0 0 - 0 0 - 2 7 9 1 0 1 0 1 -
+p497
+aVLee Mayberry MIL 01/09/1995 MIL @ PHX L 20 6 2 7 28.6 2 3 66.7 0 0 - 0 0 0 3 1 0 2 3 -
+p498
+aVAlton Lister MIL 01/09/1995 MIL @ PHX L 4 2 0 1 0.0 0 0 - 2 4 50.0 0 1 1 0 0 0 0 1 -
+p499
+aVJon Barry MIL 01/09/1995 MIL @ PHX L 8 2 0 4 0.0 0 3 0.0 2 2 100.0 2 1 3 1 0 0 0 0 -
+p500
+aVAaron Williams MIL 01/09/1995 MIL @ PHX L 5 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 0 -
+p501
+aVGlenn Robinson MIL 01/09/1995 MIL @ PHX L 39 19 9 22 40.9 0 3 0.0 1 1 100.0 3 3 6 2 1 0 2 1 -
+p502
+aVVin Baker MIL 01/08/1995 MIL @ DEN L 48 18 9 21 42.9 0 1 0.0 0 0 - 5 6 11 1 0 3 5 3 -
+p503
+aVEric Murdock MIL 01/08/1995 MIL @ DEN L 33 20 7 19 36.8 3 8 37.5 3 5 60.0 4 4 8 4 1 0 1 5 -
+p504
+aVTodd Day MIL 01/08/1995 MIL @ DEN L 35 11 4 13 30.8 0 3 0.0 3 7 42.9 3 2 5 1 2 2 2 3 -
+p505
+aVAlton Lister MIL 01/08/1995 MIL @ DEN L 26 6 1 1 100.0 0 0 - 4 6 66.7 0 7 7 2 1 2 2 3 -
+p506
+aVJohnny Newman MIL 01/08/1995 MIL @ DEN L 30 3 1 2 50.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 0 6 -
+p507
+aVGlenn Robinson MIL 01/08/1995 MIL @ DEN L 41 21 7 21 33.3 2 4 50.0 5 8 62.5 2 5 7 1 1 0 2 3 -
+p508
+aVMarty Conlon MIL 01/08/1995 MIL @ DEN L 32 12 4 9 44.4 0 0 - 4 6 66.7 3 3 6 2 1 0 2 6 -
+p509
+aVLee Mayberry MIL 01/08/1995 MIL @ DEN L 20 5 1 6 16.7 1 3 33.3 2 2 100.0 0 2 2 3 0 0 0 2 -
+p510
+aVTodd Day MIL 01/06/1995 MIL @ LAL L 46 29 8 20 40.0 4 8 50.0 9 11 81.8 0 7 7 3 2 1 1 5 -
+p511
+aVVin Baker MIL 01/06/1995 MIL @ LAL L 45 15 6 14 42.9 0 0 - 3 6 50.0 7 5 12 5 0 2 2 3 -
+p512
+aVGlenn Robinson MIL 01/06/1995 MIL @ LAL L 39 22 10 17 58.8 0 1 0.0 2 5 40.0 2 8 10 3 2 0 6 4 -
+p513
+aVLee Mayberry MIL 01/06/1995 MIL @ LAL L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 0 0 -
+p514
+aVEd Pinckney MIL 01/06/1995 MIL @ LAL L 5 0 0 0 - 0 0 - 0 2 0.0 0 1 1 0 0 0 0 1 -
+p515
+aVEric Murdock MIL 01/06/1995 MIL @ LAL L 37 19 6 12 50.0 2 4 50.0 5 6 83.3 0 1 1 6 2 0 2 3 -
+p516
+aVAlton Lister MIL 01/06/1995 MIL @ LAL L 8 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 2 2 -
+p517
+aVJohnny Newman MIL 01/06/1995 MIL @ LAL L 19 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 2 1 0 1 4 -
+p518
+aVMarty Conlon MIL 01/06/1995 MIL @ LAL L 29 6 2 7 28.6 0 0 - 2 2 100.0 6 5 11 2 0 0 1 4 -
+p519
+aVEric Mobley MIL 01/06/1995 MIL @ LAL L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p520
+aVEric Mobley MIL 01/05/1995 MIL @ GOS W 10 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -
+p521
+aVEd Pinckney MIL 01/05/1995 MIL @ GOS W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -
+p522
+aVEric Murdock MIL 01/05/1995 MIL @ GOS W 34 21 6 14 42.9 1 5 20.0 8 8 100.0 0 1 1 7 1 0 5 2 -
+p523
+aVGlenn Robinson MIL 01/05/1995 MIL @ GOS W 38 19 6 19 31.6 0 1 0.0 7 9 77.8 1 5 6 3 5 0 2 2 -
+p524
+aVMarty Conlon MIL 01/05/1995 MIL @ GOS W 25 12 5 9 55.6 0 1 0.0 2 3 66.7 3 5 8 4 2 0 2 5 -
+p525
+aVAlton Lister MIL 01/05/1995 MIL @ GOS W 8 0 0 0 - 0 0 - 0 0 - 2 2 4 0 0 0 0 4 -
+p526
+aVTodd Day MIL 01/05/1995 MIL @ GOS W 38 27 8 12 66.7 3 4 75.0 8 10 80.0 1 2 3 3 1 1 0 4 -
+p527
+aVVin Baker MIL 01/05/1995 MIL @ GOS W 45 18 7 12 58.3 0 0 - 4 7 57.1 5 11 16 0 1 3 3 3 -
+p528
+aVJohnny Newman MIL 01/05/1995 MIL @ GOS W 20 6 3 10 30.0 0 1 0.0 0 1 0.0 0 1 1 1 1 0 0 2 -
+p529
+aVLee Mayberry MIL 01/05/1995 MIL @ GOS W 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 3 1 0 2 3 -
+p530
+aVEric Murdock MIL 01/03/1995 MIL @ UTH L 24 13 4 5 80.0 2 2 100.0 3 5 60.0 0 3 3 4 2 0 5 2 -
+p531
+aVMarty Conlon MIL 01/03/1995 MIL @ UTH L 20 6 3 9 33.3 0 0 - 0 0 - 1 0 1 0 2 0 0 1 -
+p532
+aVGlenn Robinson MIL 01/03/1995 MIL @ UTH L 36 24 7 16 43.8 0 2 0.0 10 12 83.3 0 0 0 2 4 0 9 3 -
+p533
+aVJon Barry MIL 01/03/1995 MIL @ UTH L 14 9 3 4 75.0 1 2 50.0 2 5 40.0 1 2 3 3 0 0 1 1 -
+p534
+aVEric Mobley MIL 01/03/1995 MIL @ UTH L 23 9 4 6 66.7 0 0 - 1 1 100.0 3 3 6 1 0 3 0 2 -
+p535
+aVTodd Day MIL 01/03/1995 MIL @ UTH L 19 4 2 6 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 2 4 -
+p536
+aVLee Mayberry MIL 01/03/1995 MIL @ UTH L 24 2 1 4 25.0 0 3 0.0 0 0 - 0 0 0 4 1 0 4 4 -
+p537
+aVVin Baker MIL 01/03/1995 MIL @ UTH L 37 14 5 11 45.5 0 0 - 4 4 100.0 4 6 10 1 0 2 2 2 -
+p538
+aVAaron Williams MIL 01/03/1995 MIL @ UTH L 8 2 0 2 0.0 0 1 0.0 2 2 100.0 2 2 4 0 0 1 0 3 -
+p539
+aVJohnny Newman MIL 01/03/1995 MIL @ UTH L 23 6 3 4 75.0 0 0 - 0 0 - 0 0 0 3 1 0 4 4 -
+p540
+aVAlton Lister MIL 01/03/1995 MIL @ UTH L 9 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 1 4 -
+p541
+aVEd Pinckney MIL 01/03/1995 MIL @ UTH L 3 0 0 0 - 0 0 - 0 2 0.0 0 2 2 0 0 0 1 0 -
+p542
+aVTodd Day MIL 12/30/1994 MIL vs. CHH L 33 21 7 17 41.2 3 11 27.3 4 7 57.1 0 0 0 5 1 2 2 3 -
+p543
+aVAlton Lister MIL 12/30/1994 MIL vs. CHH L 12 6 2 3 66.7 0 0 - 2 5 40.0 3 6 9 0 0 0 1 1 -
+p544
+aVVin Baker MIL 12/30/1994 MIL vs. CHH L 43 12 5 18 27.8 0 1 0.0 2 2 100.0 9 5 14 6 1 0 1 4 -
+p545
+aVJon Barry MIL 12/30/1994 MIL vs. CHH L 12 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 1 1 0 1 -
+p546
+aVJohnny Newman MIL 12/30/1994 MIL vs. CHH L 18 3 1 5 20.0 1 3 33.3 0 0 - 1 1 2 4 0 0 2 1 -
+p547
+aVEd Pinckney MIL 12/30/1994 MIL vs. CHH L 8 3 1 1 100.0 0 0 - 1 1 100.0 2 4 6 0 0 0 0 0 -
+p548
+aVEric Murdock MIL 12/30/1994 MIL vs. CHH L 22 8 2 9 22.2 1 2 50.0 3 3 100.0 0 3 3 5 0 2 2 3 -
+p549
+aVGlenn Robinson MIL 12/30/1994 MIL vs. CHH L 35 16 7 16 43.8 0 1 0.0 2 4 50.0 2 4 6 2 1 0 3 2 -
+p550
+aVLee Mayberry MIL 12/30/1994 MIL vs. CHH L 26 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 6 1 0 0 3 -
+p551
+aVMarty Conlon MIL 12/30/1994 MIL vs. CHH L 31 15 7 10 70.0 0 0 - 1 4 25.0 2 2 4 0 0 0 1 2 -
+p552
+aVTodd Day MIL 12/27/1994 MIL @ DET W 30 13 4 4 100.0 2 2 100.0 3 4 75.0 1 2 3 2 2 2 1 5 -
+p553
+aVMarty Conlon MIL 12/27/1994 MIL @ DET W 20 13 6 8 75.0 0 1 0.0 1 3 33.3 0 4 4 0 2 0 2 3 -
+p554
+aVJohnny Newman MIL 12/27/1994 MIL @ DET W 28 9 3 6 50.0 0 0 - 3 4 75.0 0 0 0 0 1 0 0 3 -
+p555
+aVEd Pinckney MIL 12/27/1994 MIL @ DET W 12 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -
+p556
+aVGlenn Robinson MIL 12/27/1994 MIL @ DET W 33 15 3 6 50.0 0 0 - 9 12 75.0 1 4 5 3 3 0 3 3 -
+p557
+aVLee Mayberry MIL 12/27/1994 MIL @ DET W 23 6 1 3 33.3 0 1 0.0 4 4 100.0 0 0 0 3 1 0 2 1 -
+p558
+aVJon Barry MIL 12/27/1994 MIL @ DET W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -
+p559
+aVVin Baker MIL 12/27/1994 MIL @ DET W 43 24 8 13 61.5 0 0 - 8 12 66.7 0 9 9 1 2 2 4 2 -
+p560
+aVEric Murdock MIL 12/27/1994 MIL @ DET W 25 10 3 9 33.3 0 2 0.0 4 4 100.0 1 2 3 5 1 0 2 1 -
+p561
+aVAlton Lister MIL 12/27/1994 MIL @ DET W 20 4 2 5 40.0 0 0 - 0 0 - 1 5 6 2 1 2 2 0 -
+p562
+aVTodd Day MIL 12/26/1994 MIL vs. NJN W 28 12 4 12 33.3 2 7 28.6 2 2 100.0 1 3 4 0 1 1 1 3 -
+p563
+aVAlton Lister MIL 12/26/1994 MIL vs. NJN W 23 2 1 5 20.0 0 0 - 0 0 - 0 7 7 0 1 2 2 3 -
+p564
+aVMarty Conlon MIL 12/26/1994 MIL vs. NJN W 27 17 7 9 77.8 0 0 - 3 4 75.0 2 4 6 0 3 0 3 0 -
+p565
+aVLee Mayberry MIL 12/26/1994 MIL vs. NJN W 19 7 3 6 50.0 1 2 50.0 0 0 - 0 1 1 2 3 0 0 3 -
+p566
+aVJohnny Newman MIL 12/26/1994 MIL vs. NJN W 20 3 1 6 16.7 1 2 50.0 0 0 - 1 2 3 1 0 0 1 2 -
+p567
+aVEric Murdock MIL 12/26/1994 MIL vs. NJN W 29 14 5 9 55.6 1 3 33.3 3 6 50.0 0 3 3 12 1 0 3 0 -
+p568
+aVEd Pinckney MIL 12/26/1994 MIL vs. NJN W 16 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 1 0 1 1 -
+p569
+aVGlenn Robinson MIL 12/26/1994 MIL vs. NJN W 35 20 8 16 50.0 1 3 33.3 3 4 75.0 2 4 6 4 1 0 2 2 -
+p570
+aVVin Baker MIL 12/26/1994 MIL vs. NJN W 43 26 10 15 66.7 0 0 - 6 8 75.0 3 5 8 4 0 2 1 4 -
+p571
+aVGlenn Robinson MIL 12/23/1994 MIL @ ORL L 34 20 10 15 66.7 0 1 0.0 0 0 - 1 4 5 3 3 0 3 1 -
+p572
+aVTodd Day MIL 12/23/1994 MIL @ ORL L 36 12 6 14 42.9 0 3 0.0 0 0 - 1 5 6 1 1 2 4 2 -
+p573
+aVEd Pinckney MIL 12/23/1994 MIL @ ORL L 6 2 0 2 0.0 0 0 - 2 2 100.0 1 0 1 0 0 0 0 1 -
+p574
+aVLee Mayberry MIL 12/23/1994 MIL @ ORL L 20 2 1 1 100.0 0 0 - 0 0 - 0 1 1 7 0 0 3 1 -
+p575
+aVEric Mobley MIL 12/23/1994 MIL @ ORL L 14 4 2 4 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 2 2 -
+p576
+aVMarty Conlon MIL 12/23/1994 MIL @ ORL L 23 10 5 8 62.5 0 0 - 0 0 - 0 2 2 4 2 0 3 2 -
+p577
+aVJon Barry MIL 12/23/1994 MIL @ ORL L 4 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 1 0 0 0 0 -
+p578
+aVJohnny Newman MIL 12/23/1994 MIL @ ORL L 22 12 5 7 71.4 0 0 - 2 3 66.7 1 0 1 0 0 0 1 2 -
+p579
+aVVin Baker MIL 12/23/1994 MIL @ ORL L 33 15 7 14 50.0 0 0 - 1 4 25.0 0 5 5 4 2 1 1 4 -
+p580
+aVEric Murdock MIL 12/23/1994 MIL @ ORL L 28 10 3 9 33.3 2 5 40.0 2 2 100.0 1 0 1 7 2 0 1 0 -
+p581
+aVAaron Williams MIL 12/23/1994 MIL @ ORL L 3 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 1 0 0 -
+p582
+aVAlton Lister MIL 12/23/1994 MIL @ ORL L 17 1 0 1 0.0 0 0 - 1 2 50.0 0 1 1 0 2 3 0 4 -
+p583
+aVEric Murdock MIL 12/21/1994 MIL @ MIA L 44 15 4 15 26.7 2 4 50.0 5 6 83.3 0 5 5 8 3 1 2 4 -
+p584
+aVTodd Day MIL 12/21/1994 MIL @ MIA L 36 25 7 15 46.7 5 9 55.6 6 8 75.0 2 2 4 1 4 0 1 6 -
+p585
+aVLee Mayberry MIL 12/21/1994 MIL @ MIA L 14 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 3 0 0 1 2 -
+p586
+aVAaron Williams MIL 12/21/1994 MIL @ MIA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p587
+aVVin Baker MIL 12/21/1994 MIL @ MIA L 50 26 10 21 47.6 0 0 - 6 7 85.7 5 8 13 3 2 0 3 6 -
+p588
+aVAlton Lister MIL 12/21/1994 MIL @ MIA L 12 5 2 3 66.7 0 0 - 1 2 50.0 0 4 4 0 0 3 1 5 -
+p589
+aVJohnny Newman MIL 12/21/1994 MIL @ MIA L 44 13 6 11 54.5 1 4 25.0 0 0 - 0 0 0 0 0 1 1 3 -
+p590
+aVGlenn Robinson MIL 12/21/1994 MIL @ MIA L 36 21 7 21 33.3 1 6 16.7 6 8 75.0 1 3 4 2 2 0 2 2 -
+p591
+aVEd Pinckney MIL 12/21/1994 MIL @ MIA L 44 4 2 3 66.7 0 0 - 0 0 - 4 5 9 0 3 0 1 4 -
+p592
+aVMarty Conlon MIL 12/21/1994 MIL @ MIA L 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 4 -
+p593
+aVAlton Lister MIL 12/20/1994 MIL @ ATL L 22 2 1 2 50.0 0 0 - 0 2 0.0 0 4 4 0 0 3 1 3 -
+p594
+aVLee Mayberry MIL 12/20/1994 MIL @ ATL L 24 10 4 7 57.1 2 3 66.7 0 0 - 1 2 3 6 0 0 2 2 -
+p595
+aVVin Baker MIL 12/20/1994 MIL @ ATL L 42 20 8 15 53.3 1 1 100.0 3 6 50.0 5 8 13 2 1 0 3 2 -
+p596
+aVJohnny Newman MIL 12/20/1994 MIL @ ATL L 25 9 4 8 50.0 1 3 33.3 0 0 - 2 0 2 0 1 0 0 3 -
+p597
+aVGlenn Robinson MIL 12/20/1994 MIL @ ATL L 37 22 8 21 38.1 3 6 50.0 3 4 75.0 6 2 8 1 3 0 1 3 -
+p598
+aVAaron Williams MIL 12/20/1994 MIL @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p599
+aVEric Murdock MIL 12/20/1994 MIL @ ATL L 24 11 3 8 37.5 1 4 25.0 4 4 100.0 0 2 2 8 2 0 2 0 -
+p600
+aVJon Barry MIL 12/20/1994 MIL @ ATL L 12 4 1 4 25.0 0 1 0.0 2 2 100.0 0 1 1 1 0 0 0 2 -
+p601
+aVEric Mobley MIL 12/20/1994 MIL @ ATL L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p602
+aVMarty Conlon MIL 12/20/1994 MIL @ ATL L 26 10 5 8 62.5 0 0 - 0 0 - 2 2 4 0 0 0 3 4 -
+p603
+aVTodd Day MIL 12/20/1994 MIL @ ATL L 24 9 4 13 30.8 1 3 33.3 0 1 0.0 2 1 3 2 2 1 1 4 -
+p604
+aVTodd Day MIL 12/18/1994 MIL vs. UTH L 31 23 7 13 53.8 3 8 37.5 6 7 85.7 0 3 3 0 2 0 5 3 -
+p605
+aVVin Baker MIL 12/18/1994 MIL vs. UTH L 44 12 5 10 50.0 0 1 0.0 2 3 66.7 2 8 10 6 2 4 5 4 -
+p606
+aVEd Pinckney MIL 12/18/1994 MIL vs. UTH L 5 2 0 0 - 0 0 - 2 2 100.0 0 2 2 0 1 0 0 1 -
+p607
+aVJohnny Newman MIL 12/18/1994 MIL vs. UTH L 21 4 1 5 20.0 0 2 0.0 2 2 100.0 0 1 1 0 3 0 0 1 -
+p608
+aVMarty Conlon MIL 12/18/1994 MIL vs. UTH L 18 7 3 9 33.3 0 0 - 1 1 100.0 1 1 2 1 2 0 2 2 -
+p609
+aVGlenn Robinson MIL 12/18/1994 MIL vs. UTH L 38 18 8 21 38.1 0 3 0.0 2 2 100.0 2 4 6 2 0 0 7 2 -
+p610
+aVLee Mayberry MIL 12/18/1994 MIL vs. UTH L 23 8 3 7 42.9 2 5 40.0 0 0 - 0 0 0 6 0 0 3 0 -
+p611
+aVAlton Lister MIL 12/18/1994 MIL vs. UTH L 28 5 1 1 100.0 0 0 - 3 4 75.0 3 7 10 0 1 5 1 6 -
+p612
+aVJon Barry MIL 12/18/1994 MIL vs. UTH L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p613
+aVEric Murdock MIL 12/18/1994 MIL vs. UTH L 26 19 8 11 72.7 0 1 0.0 3 3 100.0 2 1 3 4 2 0 3 3 -
+p614
+aVMarty Conlon MIL 12/14/1994 MIL vs. PHL W 20 6 3 7 42.9 0 0 - 0 2 0.0 1 3 4 0 0 1 0 1 -
+p615
+aVEric Murdock MIL 12/14/1994 MIL vs. PHL W 20 3 1 2 50.0 1 1 100.0 0 0 - 0 0 0 5 0 0 2 1 -
+p616
+aVLee Mayberry MIL 12/14/1994 MIL vs. PHL W 28 18 6 13 46.2 5 7 71.4 1 2 50.0 0 1 1 6 0 0 1 1 -
+p617
+aVTodd Day MIL 12/14/1994 MIL vs. PHL W 31 17 4 14 28.6 2 5 40.0 7 8 87.5 2 1 3 2 2 1 1 3 -
+p618
+aVGlenn Robinson MIL 12/14/1994 MIL vs. PHL W 40 32 12 23 52.2 0 2 0.0 8 8 100.0 0 5 5 2 3 2 4 3 -
+p619
+aVEd Pinckney MIL 12/14/1994 MIL vs. PHL W 7 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 0 0 1 1 -
+p620
+aVAlton Lister MIL 12/14/1994 MIL vs. PHL W 28 8 4 4 100.0 0 0 - 0 3 0.0 2 11 13 0 0 3 1 6 -
+p621
+aVJohnny Newman MIL 12/14/1994 MIL vs. PHL W 17 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 2 0 0 0 5 -
+p622
+aVVin Baker MIL 12/14/1994 MIL vs. PHL W 41 9 3 7 42.9 0 0 - 3 4 75.0 4 4 8 5 2 5 2 0 -
+p623
+aVJon Barry MIL 12/14/1994 MIL vs. PHL W 8 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -
+p624
+aVTodd Day MIL 12/13/1994 MIL @ CHH L 39 17 5 12 41.7 2 4 50.0 5 6 83.3 1 1 2 2 2 1 1 4 -
+p625
+aVGlenn Robinson MIL 12/13/1994 MIL @ CHH L 32 24 8 17 47.1 0 2 0.0 8 8 100.0 2 7 9 2 1 1 2 4 -
+p626
+aVEric Murdock MIL 12/13/1994 MIL @ CHH L 21 8 3 5 60.0 2 2 100.0 0 0 - 0 0 0 8 1 0 2 1 -
+p627
+aVJon Barry MIL 12/13/1994 MIL @ CHH L 5 3 1 1 100.0 0 0 - 1 4 25.0 1 0 1 0 0 0 1 0 -
+p628
+aVEd Pinckney MIL 12/13/1994 MIL @ CHH L 25 5 1 4 25.0 0 0 - 3 4 75.0 3 7 10 0 0 0 1 4 -
+p629
+aVVin Baker MIL 12/13/1994 MIL @ CHH L 41 19 9 17 52.9 0 0 - 1 5 20.0 3 4 7 2 1 2 1 4 -
+p630
+aVJohnny Newman MIL 12/13/1994 MIL @ CHH L 21 7 3 7 42.9 0 1 0.0 1 2 50.0 2 0 2 1 0 0 0 2 -
+p631
+aVLee Mayberry MIL 12/13/1994 MIL @ CHH L 29 6 2 7 28.6 2 4 50.0 0 0 - 0 2 2 3 0 2 2 0 -
+p632
+aVMarty Conlon MIL 12/13/1994 MIL @ CHH L 21 9 4 8 50.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 2 3 -
+p633
+aVAlton Lister MIL 12/13/1994 MIL @ CHH L 6 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 1 0 1 -
+p634
+aVLee Mayberry MIL 12/10/1994 MIL vs. CHI W 28 17 7 12 58.3 2 4 50.0 1 2 50.0 1 2 3 6 1 0 2 0 -
+p635
+aVEric Murdock MIL 12/10/1994 MIL vs. CHI W 21 7 3 7 42.9 0 0 - 1 1 100.0 1 1 2 8 1 0 0 0 -
+p636
+aVEd Pinckney MIL 12/10/1994 MIL vs. CHI W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -
+p637
+aVGlenn Robinson MIL 12/10/1994 MIL vs. CHI W 36 18 6 15 40.0 1 3 33.3 5 9 55.6 2 5 7 1 0 0 5 4 -
+p638
+aVVin Baker MIL 12/10/1994 MIL vs. CHI W 41 20 7 19 36.8 0 0 - 6 10 60.0 5 6 11 1 0 3 1 0 -
+p639
+aVTodd Day MIL 12/10/1994 MIL vs. CHI W 26 7 2 7 28.6 2 2 100.0 1 2 50.0 0 2 2 0 0 0 2 4 -
+p640
+aVJohnny Newman MIL 12/10/1994 MIL vs. CHI W 35 21 7 9 77.8 3 3 100.0 4 4 100.0 1 4 5 1 3 1 2 3 -
+p641
+aVJon Barry MIL 12/10/1994 MIL vs. CHI W 19 10 3 3 100.0 2 2 100.0 2 2 100.0 1 1 2 1 1 0 1 5 -
+p642
+aVMarty Conlon MIL 12/10/1994 MIL vs. CHI W 26 6 3 4 75.0 0 1 0.0 0 0 - 2 5 7 1 2 0 1 3 -
+p643
+aVTodd Day MIL 12/07/1994 MIL @ LAC L 23 9 3 8 37.5 1 1 100.0 2 4 50.0 0 2 2 1 0 1 3 2 -
+p644
+aVMarty Conlon MIL 12/07/1994 MIL @ LAC L 21 12 5 7 71.4 0 0 - 2 6 33.3 0 5 5 1 0 1 2 2 -
+p645
+aVEric Murdock MIL 12/07/1994 MIL @ LAC L 38 7 2 10 20.0 0 2 0.0 3 4 75.0 1 2 3 9 1 0 8 3 -
+p646
+aVVin Baker MIL 12/07/1994 MIL @ LAC L 45 17 8 17 47.1 0 0 - 1 2 50.0 4 6 10 2 3 0 5 4 -
+p647
+aVJon Barry MIL 12/07/1994 MIL @ LAC L 27 13 3 8 37.5 1 3 33.3 6 6 100.0 1 2 3 2 1 0 2 5 -
+p648
+aVJohnny Newman MIL 12/07/1994 MIL @ LAC L 18 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 1 0 0 2 -
+p649
+aVLee Mayberry MIL 12/07/1994 MIL @ LAC L 15 3 1 2 50.0 0 1 0.0 1 1 100.0 0 1 1 1 0 0 2 3 -
+p650
+aVGlenn Robinson MIL 12/07/1994 MIL @ LAC L 38 22 8 19 42.1 2 2 100.0 4 6 66.7 1 5 6 3 3 0 3 2 -
+p651
+aVEd Pinckney MIL 12/07/1994 MIL @ LAC L 40 9 4 4 100.0 0 0 - 1 2 50.0 2 11 13 3 1 0 3 2 -
+p652
+aVMarty Conlon MIL 12/06/1994 MIL @ SAC L 32 15 7 11 63.6 0 0 - 1 3 33.3 4 8 12 1 0 0 2 2 -
+p653
+aVTodd Day MIL 12/06/1994 MIL @ SAC L 23 5 1 10 10.0 1 7 14.3 2 3 66.7 1 2 3 1 1 3 4 3 -
+p654
+aVVin Baker MIL 12/06/1994 MIL @ SAC L 38 5 2 11 18.2 0 0 - 1 3 33.3 3 1 4 1 0 0 1 2 -
+p655
+aVLee Mayberry MIL 12/06/1994 MIL @ SAC L 27 8 3 6 50.0 0 2 0.0 2 2 100.0 0 2 2 3 1 0 1 3 -
+p656
+aVEric Mobley MIL 12/06/1994 MIL @ SAC L 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p657
+aVEd Pinckney MIL 12/06/1994 MIL @ SAC L 16 8 2 2 100.0 0 0 - 4 4 100.0 1 4 5 1 2 0 0 2 -
+p658
+aVGlenn Robinson MIL 12/06/1994 MIL @ SAC L 39 31 12 25 48.0 1 6 16.7 6 8 75.0 3 6 9 0 2 0 5 5 -
+p659
+aVJohnny Newman MIL 12/06/1994 MIL @ SAC L 5 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 1 -
+p660
+aVAlton Lister MIL 12/06/1994 MIL @ SAC L 9 0 0 2 0.0 0 0 - 0 0 - 2 2 4 0 0 2 2 3 -
+p661
+aVJon Barry MIL 12/06/1994 MIL @ SAC L 29 13 4 6 66.7 2 3 66.7 3 4 75.0 0 0 0 4 1 0 1 4 -
+p662
+aVEric Murdock MIL 12/06/1994 MIL @ SAC L 21 6 2 8 25.0 0 1 0.0 2 2 100.0 0 0 0 5 1 0 2 1 -
+p663
+aVTodd Day MIL 12/04/1994 MIL @ POR L 38 15 6 15 40.0 1 5 20.0 2 4 50.0 0 5 5 2 4 1 3 4 -
+p664
+aVJohnny Newman MIL 12/04/1994 MIL @ POR L 15 0 0 5 0.0 0 3 0.0 0 0 - 1 0 1 1 0 0 3 4 -
+p665
+aVLee Mayberry MIL 12/04/1994 MIL @ POR L 22 5 2 7 28.6 1 3 33.3 0 0 - 0 0 0 2 0 0 0 3 -
+p666
+aVAlton Lister MIL 12/04/1994 MIL @ POR L 24 9 4 5 80.0 0 0 - 1 4 25.0 4 5 9 0 0 2 1 6 -
+p667
+aVGlenn Robinson MIL 12/04/1994 MIL @ POR L 40 25 7 16 43.8 1 3 33.3 10 11 90.9 2 6 8 1 0 1 3 5 -
+p668
+aVJon Barry MIL 12/04/1994 MIL @ POR L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 2 -
+p669
+aVEric Murdock MIL 12/04/1994 MIL @ POR L 26 20 4 11 36.4 3 5 60.0 9 9 100.0 0 5 5 4 0 0 0 3 -
+p670
+aVVin Baker MIL 12/04/1994 MIL @ POR L 45 19 6 15 40.0 1 1 100.0 6 9 66.7 1 10 11 2 0 0 1 4 -
+p671
+aVMarty Conlon MIL 12/04/1994 MIL @ POR L 27 10 4 8 50.0 0 1 0.0 2 3 66.7 1 3 4 1 0 0 0 3 -
+p672
+aVEric Murdock MIL 12/03/1994 MIL @ SEA L 25 11 4 12 33.3 1 4 25.0 2 2 100.0 0 1 1 6 3 0 1 2 -
+p673
+aVVin Baker MIL 12/03/1994 MIL @ SEA L 42 21 8 17 47.1 0 0 - 5 6 83.3 5 8 13 2 4 2 4 4 -
+p674
+aVTodd Day MIL 12/03/1994 MIL @ SEA L 37 20 6 16 37.5 1 5 20.0 7 8 87.5 0 1 1 3 1 0 4 3 -
+p675
+aVJohnny Newman MIL 12/03/1994 MIL @ SEA L 11 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 2 -
+p676
+aVAlton Lister MIL 12/03/1994 MIL @ SEA L 6 0 0 3 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p677
+aVLee Mayberry MIL 12/03/1994 MIL @ SEA L 24 13 4 9 44.4 3 6 50.0 2 2 100.0 0 2 2 1 1 1 4 3 -
+p678
+aVGlenn Robinson MIL 12/03/1994 MIL @ SEA L 41 24 11 19 57.9 0 3 0.0 2 2 100.0 7 3 10 2 2 0 3 4 -
+p679
+aVJon Barry MIL 12/03/1994 MIL @ SEA L 15 4 1 5 20.0 0 3 0.0 2 2 100.0 0 0 0 1 0 0 1 2 -
+p680
+aVEric Mobley MIL 12/03/1994 MIL @ SEA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -
+p681
+aVMarty Conlon MIL 12/03/1994 MIL @ SEA L 27 14 6 10 60.0 0 0 - 2 2 100.0 7 3 10 2 0 1 1 5 -
+p682
+aVEd Pinckney MIL 12/03/1994 MIL @ SEA L 6 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 0 -
+p683
+aVEd Pinckney MIL 12/01/1994 MIL vs. CLE L 25 2 1 5 20.0 0 0 - 0 0 - 2 4 6 0 1 0 0 1 -
+p684
+aVVin Baker MIL 12/01/1994 MIL vs. CLE L 45 10 5 9 55.6 0 0 - 0 0 - 4 8 12 3 4 2 1 3 -
+p685
+aVEric Murdock MIL 12/01/1994 MIL vs. CLE L 19 5 1 7 14.3 0 1 0.0 3 4 75.0 0 1 1 3 0 0 4 2 -
+p686
+aVLee Mayberry MIL 12/01/1994 MIL vs. CLE L 29 7 1 8 12.5 1 5 20.0 4 4 100.0 0 2 2 3 2 0 2 1 -
+p687
+aVTodd Day MIL 12/01/1994 MIL vs. CLE L 44 34 9 14 64.3 4 5 80.0 12 13 92.3 3 6 9 1 0 2 6 4 -
+p688
+aVGlenn Robinson MIL 12/01/1994 MIL vs. CLE L 39 21 8 24 33.3 0 5 0.0 5 8 62.5 6 1 7 3 2 0 4 4 -
+p689
+aVMarty Conlon MIL 12/01/1994 MIL vs. CLE L 24 8 4 6 66.7 0 0 - 0 0 - 0 4 4 0 1 0 1 1 -
+p690
+aVJohnny Newman MIL 12/01/1994 MIL vs. CLE L 13 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 2 0 2 2 -
+p691
+aVAlton Lister MIL 12/01/1994 MIL vs. CLE L 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -
+p692
+aVGlenn Robinson MIL 11/29/1994 MIL vs. PHX L 36 13 5 14 35.7 0 2 0.0 3 4 75.0 1 4 5 4 1 0 6 4 -
+p693
+aVTodd Day MIL 11/29/1994 MIL vs. PHX L 35 20 7 17 41.2 1 4 25.0 5 5 100.0 2 3 5 2 0 1 1 4 -
+p694
+aVJohnny Newman MIL 11/29/1994 MIL vs. PHX L 17 3 1 5 20.0 1 2 50.0 0 0 - 0 2 2 2 1 0 0 4 -
+p695
+aVEric Mobley MIL 11/29/1994 MIL vs. PHX L 4 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p696
+aVVin Baker MIL 11/29/1994 MIL vs. PHX L 37 23 10 21 47.6 0 0 - 3 3 100.0 9 3 12 4 2 0 2 4 -
+p697
+aVAaron Williams MIL 11/29/1994 MIL vs. PHX L 12 2 0 2 0.0 0 0 - 2 2 100.0 0 2 2 0 0 1 0 1 -
+p698
+aVJon Barry MIL 11/29/1994 MIL vs. PHX L 16 12 4 6 66.7 1 2 50.0 3 4 75.0 0 0 0 0 0 0 1 1 -
+p699
+aVLee Mayberry MIL 11/29/1994 MIL vs. PHX L 29 8 3 7 42.9 1 3 33.3 1 2 50.0 1 0 1 4 2 0 2 1 -
+p700
+aVEd Pinckney MIL 11/29/1994 MIL vs. PHX L 26 12 6 7 85.7 0 0 - 0 2 0.0 1 5 6 2 2 0 1 0 -
+p701
+aVMarty Conlon MIL 11/29/1994 MIL vs. PHX L 9 2 1 4 25.0 0 0 - 0 0 - 0 3 3 2 0 0 0 2 -
+p702
+aVEric Murdock MIL 11/29/1994 MIL vs. PHX L 19 7 3 6 50.0 0 2 0.0 1 2 50.0 0 1 1 4 2 0 5 3 -
+p703
+aVEric Murdock MIL 11/26/1994 MIL vs. ORL L 26 12 5 7 71.4 1 2 50.0 1 1 100.0 0 1 1 10 2 0 3 4 -
+p704
+aVEric Mobley MIL 11/26/1994 MIL vs. ORL L 5 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p705
+aVMarty Conlon MIL 11/26/1994 MIL vs. ORL L 24 6 3 11 27.3 0 0 - 0 0 - 4 3 7 0 1 1 1 1 -
+p706
+aVGlenn Robinson MIL 11/26/1994 MIL vs. ORL L 36 25 9 22 40.9 1 6 16.7 6 6 100.0 3 1 4 6 2 0 4 2 -
+p707
+aVTodd Day MIL 11/26/1994 MIL vs. ORL L 39 26 10 20 50.0 4 6 66.7 2 3 66.7 0 6 6 2 0 0 1 5 -
+p708
+aVJohnny Newman MIL 11/26/1994 MIL vs. ORL L 25 8 1 8 12.5 1 5 20.0 5 5 100.0 0 0 0 2 0 0 0 2 -
+p709
+aVVin Baker MIL 11/26/1994 MIL vs. ORL L 43 14 6 16 37.5 0 0 - 2 3 66.7 7 8 15 1 1 1 6 3 -
+p710
+aVLee Mayberry MIL 11/26/1994 MIL vs. ORL L 24 8 3 3 100.0 1 1 100.0 1 2 50.0 0 1 1 4 1 0 2 2 -
+p711
+aVAlton Lister MIL 11/26/1994 MIL vs. ORL L 18 4 2 2 100.0 0 0 - 0 0 - 0 6 6 0 1 0 1 3 -
+p712
+aVLee Mayberry MIL 11/25/1994 MIL @ IND L 22 7 3 6 50.0 1 3 33.3 0 0 - 0 1 1 5 2 0 0 1 -
+p713
+aVJohnny Newman MIL 11/25/1994 MIL @ IND L 21 9 4 8 50.0 0 2 0.0 1 1 100.0 0 1 1 1 3 0 1 6 -
+p714
+aVEric Murdock MIL 11/25/1994 MIL @ IND L 26 9 4 8 50.0 0 2 0.0 1 1 100.0 0 0 0 7 5 0 1 3 -
+p715
+aVTodd Day MIL 11/25/1994 MIL @ IND L 40 31 12 20 60.0 2 4 50.0 5 6 83.3 4 0 4 3 1 0 4 4 -
+p716
+aVAlton Lister MIL 11/25/1994 MIL @ IND L 17 4 2 3 66.7 0 0 - 0 0 - 0 4 4 0 0 0 1 5 -
+p717
+aVGlenn Robinson MIL 11/25/1994 MIL @ IND L 35 13 6 13 46.2 0 2 0.0 1 1 100.0 1 1 2 3 1 0 5 0 -
+p718
+aVMarty Conlon MIL 11/25/1994 MIL @ IND L 27 13 5 10 50.0 0 2 0.0 3 4 75.0 4 3 7 2 0 0 1 4 -
+p719
+aVVin Baker MIL 11/25/1994 MIL @ IND L 47 17 6 10 60.0 0 0 - 5 7 71.4 0 3 3 3 1 0 2 0 -
+p720
+aVEd Pinckney MIL 11/25/1994 MIL @ IND L 5 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -
+p721
+aVGlenn Robinson MIL 11/23/1994 MIL @ DET L 37 9 2 14 14.3 0 1 0.0 5 9 55.6 1 7 8 3 2 0 6 2 -
+p722
+aVMarty Conlon MIL 11/23/1994 MIL @ DET L 33 22 7 12 58.3 0 1 0.0 8 13 61.5 0 4 4 2 1 0 1 3 -
+p723
+aVLee Mayberry MIL 11/23/1994 MIL @ DET L 31 9 3 8 37.5 1 4 25.0 2 2 100.0 0 2 2 4 2 0 0 3 -
+p724
+aVEric Murdock MIL 11/23/1994 MIL @ DET L 21 10 3 11 27.3 2 3 66.7 2 2 100.0 3 1 4 6 1 0 1 3 -
+p725
+aVAlton Lister MIL 11/23/1994 MIL @ DET L 22 6 3 4 75.0 0 0 - 0 0 - 1 5 6 0 1 1 1 3 -
+p726
+aVJohnny Newman MIL 11/23/1994 MIL @ DET L 28 24 10 12 83.3 4 4 100.0 0 0 - 3 0 3 2 1 1 2 5 -
+p727
+aVEd Pinckney MIL 11/23/1994 MIL @ DET L 8 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 0 -
+p728
+aVTodd Day MIL 11/23/1994 MIL @ DET L 28 5 2 6 33.3 1 4 25.0 0 1 0.0 1 2 3 2 0 2 3 4 -
+p729
+aVVin Baker MIL 11/23/1994 MIL @ DET L 32 23 8 14 57.1 0 0 - 7 10 70.0 2 7 9 3 3 1 1 6 -
+p730
+aVGlenn Robinson MIL 11/22/1994 MIL @ BOS W 33 17 5 13 38.5 3 6 50.0 4 4 100.0 2 5 7 4 3 1 3 2 -
+p731
+aVMarty Conlon MIL 11/22/1994 MIL @ BOS W 21 16 8 11 72.7 0 0 - 0 0 - 1 5 6 0 2 0 1 3 -
+p732
+aVEric Murdock MIL 11/22/1994 MIL @ BOS W 24 15 5 9 55.6 1 2 50.0 4 7 57.1 0 5 5 8 1 0 0 3 -
+p733
+aVAaron Williams MIL 11/22/1994 MIL @ BOS W 3 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 1 1 1 -
+p734
+aVTodd Day MIL 11/22/1994 MIL @ BOS W 39 23 9 18 50.0 2 4 50.0 3 5 60.0 2 4 6 2 1 1 2 4 -
+p735
+aVEd Pinckney MIL 11/22/1994 MIL @ BOS W 24 3 1 1 100.0 0 0 - 1 2 50.0 1 4 5 0 1 0 1 2 -
+p736
+aVJohnny Newman MIL 11/22/1994 MIL @ BOS W 21 6 3 10 30.0 0 1 0.0 0 0 - 2 1 3 1 1 1 2 3 -
+p737
+aVVin Baker MIL 11/22/1994 MIL @ BOS W 36 20 9 14 64.3 0 0 - 2 4 50.0 3 7 10 3 2 3 0 4 -
+p738
+aVEric Mobley MIL 11/22/1994 MIL @ BOS W 4 5 2 2 100.0 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -
+p739
+aVAlton Lister MIL 11/22/1994 MIL @ BOS W 8 0 0 2 0.0 0 0 - 0 0 - 1 1 2 0 2 1 0 3 -
+p740
+aVLee Mayberry MIL 11/22/1994 MIL @ BOS W 24 9 3 9 33.3 2 4 50.0 1 2 50.0 1 1 2 3 0 0 3 0 -
+p741
+aVJon Barry MIL 11/22/1994 MIL @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p742
+aVGlenn Robinson MIL 11/19/1994 MIL vs. SEA L 32 17 7 15 46.7 1 3 33.3 2 4 50.0 1 0 1 2 2 0 8 3 -
+p743
+aVMarty Conlon MIL 11/19/1994 MIL vs. SEA L 29 3 1 3 33.3 0 1 0.0 1 4 25.0 2 7 9 1 0 0 4 4 -
+p744
+aVAlton Lister MIL 11/19/1994 MIL vs. SEA L 15 10 4 5 80.0 0 0 - 2 2 100.0 0 2 2 0 0 0 1 2 -
+p745
+aVEd Pinckney MIL 11/19/1994 MIL vs. SEA L 16 2 1 1 100.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -
+p746
+aVVin Baker MIL 11/19/1994 MIL vs. SEA L 32 4 2 3 66.7 0 0 - 0 2 0.0 1 2 3 2 0 1 3 4 -
+p747
+aVDanny Young MIL 11/19/1994 MIL vs. SEA L 6 0 0 3 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 3 1 -
+p748
+aVEric Mobley MIL 11/19/1994 MIL vs. SEA L 3 3 1 2 50.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 0 -
+p749
+aVLee Mayberry MIL 11/19/1994 MIL vs. SEA L 38 22 7 15 46.7 4 6 66.7 4 8 50.0 0 1 1 5 1 1 3 4 -
+p750
+aVTodd Day MIL 11/19/1994 MIL vs. SEA L 32 15 5 9 55.6 1 3 33.3 4 6 66.7 3 7 10 5 3 0 0 3 -
+p751
+aVJohnny Newman MIL 11/19/1994 MIL vs. SEA L 27 17 5 10 50.0 1 3 33.3 6 8 75.0 1 0 1 1 0 1 1 1 -
+p752
+aVJon Barry MIL 11/19/1994 MIL vs. SEA L 10 3 1 4 25.0 1 3 33.3 0 0 - 0 0 0 2 1 0 3 0 -
+p753
+aVVin Baker MIL 11/18/1994 MIL @ ATL W 46 18 9 18 50.0 0 0 - 0 3 0.0 8 7 15 1 1 3 4 4 -
+p754
+aVAlton Lister MIL 11/18/1994 MIL @ ATL W 25 0 0 0 - 0 0 - 0 0 - 0 7 7 1 0 3 0 5 -
+p755
+aVTodd Day MIL 11/18/1994 MIL @ ATL W 33 21 7 10 70.0 1 2 50.0 6 8 75.0 2 1 3 0 4 0 2 4 -
+p756
+aVDanny Young MIL 11/18/1994 MIL @ ATL W 10 0 0 0 - 0 0 - 0 0 - 0 3 3 1 1 0 0 0 -
+p757
+aVGlenn Robinson MIL 11/18/1994 MIL @ ATL W 40 26 11 22 50.0 2 4 50.0 2 4 50.0 2 3 5 1 0 0 6 3 -
+p758
+aVJohnny Newman MIL 11/18/1994 MIL @ ATL W 34 13 4 9 44.4 1 2 50.0 4 6 66.7 0 2 2 0 0 1 0 2 -
+p759
+aVLee Mayberry MIL 11/18/1994 MIL @ ATL W 43 14 5 14 35.7 3 8 37.5 1 2 50.0 0 2 2 10 2 0 2 2 -
+p760
+aVMarty Conlon MIL 11/18/1994 MIL @ ATL W 21 5 2 5 40.0 0 0 - 1 2 50.0 1 2 3 0 0 0 4 4 -
+p761
+aVEd Pinckney MIL 11/18/1994 MIL @ ATL W 13 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 0 2 -
+p762
+aVLee Mayberry MIL 11/15/1994 MIL vs. IND W 36 12 6 12 50.0 0 3 0.0 0 1 0.0 2 2 4 4 0 0 3 2 -
+p763
+aVEd Pinckney MIL 11/15/1994 MIL vs. IND W 20 1 0 2 0.0 0 0 - 1 2 50.0 0 3 3 1 1 0 1 3 -
+p764
+aVJon Barry MIL 11/15/1994 MIL vs. IND W 12 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 1 2 -
+p765
+aVAlton Lister MIL 11/15/1994 MIL vs. IND W 23 4 1 3 33.3 0 0 - 2 2 100.0 2 7 9 0 0 2 0 4 -
+p766
+aVGlenn Robinson MIL 11/15/1994 MIL vs. IND W 23 18 6 18 33.3 3 5 60.0 3 4 75.0 3 3 6 0 0 0 3 1 -
+p767
+aVDanny Young MIL 11/15/1994 MIL vs. IND W 12 5 2 5 40.0 1 4 25.0 0 0 - 1 0 1 1 3 0 0 2 -
+p768
+aVTodd Day MIL 11/15/1994 MIL vs. IND W 26 15 5 13 38.5 3 3 100.0 2 2 100.0 1 4 5 2 0 1 4 3 -
+p769
+aVVin Baker MIL 11/15/1994 MIL vs. IND W 41 15 7 16 43.8 0 0 - 1 4 25.0 7 4 11 7 0 2 1 1 -
+p770
+aVMarty Conlon MIL 11/15/1994 MIL vs. IND W 28 10 4 7 57.1 0 0 - 2 4 50.0 0 3 3 2 1 0 1 2 -
+p771
+aVJohnny Newman MIL 11/15/1994 MIL vs. IND W 19 2 1 5 20.0 0 2 0.0 0 0 - 1 1 2 3 0 0 1 3 -
+p772
+aVTodd Day MIL 11/11/1994 MIL vs. CHH L 38 21 7 14 50.0 2 4 50.0 5 10 50.0 2 3 5 5 2 2 1 5 -
+p773
+aVLee Mayberry MIL 11/11/1994 MIL vs. CHH L 38 18 7 14 50.0 4 8 50.0 0 0 - 1 0 1 5 1 0 1 4 -
+p774
+aVAlton Lister MIL 11/11/1994 MIL vs. CHH L 12 4 2 6 33.3 0 0 - 0 2 0.0 4 2 6 0 0 1 1 3 -
+p775
+aVMarty Conlon MIL 11/11/1994 MIL vs. CHH L 28 20 6 11 54.5 1 1 100.0 7 8 87.5 1 2 3 0 1 0 2 2 -
+p776
+aVJohnny Newman MIL 11/11/1994 MIL vs. CHH L 37 19 7 13 53.8 3 6 50.0 2 4 50.0 1 1 2 4 0 0 4 6 -
+p777
+aVGlenn Robinson MIL 11/11/1994 MIL vs. CHH L 21 12 6 16 37.5 0 2 0.0 0 0 - 2 3 5 1 0 0 2 2 -
+p778
+aVEd Pinckney MIL 11/11/1994 MIL vs. CHH L 14 6 3 4 75.0 0 0 - 0 0 - 2 4 6 0 0 1 0 3 -
+p779
+aVVin Baker MIL 11/11/1994 MIL vs. CHH L 41 12 5 13 38.5 0 0 - 2 6 33.3 6 7 13 8 0 2 5 2 -
+p780
+aVDanny Young MIL 11/11/1994 MIL vs. CHH L 11 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 0 -
+p781
+aVLee Mayberry MIL 11/10/1994 MIL @ CLE L 27 5 2 6 33.3 1 3 33.3 0 0 - 0 0 0 2 2 0 3 2 -
+p782
+aVTodd Day MIL 11/10/1994 MIL @ CLE L 26 8 3 8 37.5 1 3 33.3 1 2 50.0 0 2 2 3 0 2 5 2 -
+p783
+aVMarty Conlon MIL 11/10/1994 MIL @ CLE L 20 12 5 8 62.5 0 0 - 2 2 100.0 1 2 3 1 0 0 2 5 -
+p784
+aVEric Mobley MIL 11/10/1994 MIL @ CLE L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 1 0 2 2 -
+p785
+aVDanny Young MIL 11/10/1994 MIL @ CLE L 18 7 3 5 60.0 1 3 33.3 0 0 - 0 0 0 4 0 0 0 3 -
+p786
+aVEd Pinckney MIL 11/10/1994 MIL @ CLE L 30 7 3 5 60.0 0 0 - 1 1 100.0 3 9 12 3 2 1 3 1 -
+p787
+aVVin Baker MIL 11/10/1994 MIL @ CLE L 39 9 4 10 40.0 0 0 - 1 3 33.3 1 6 7 4 2 5 3 1 -
+p788
+aVJon Barry MIL 11/10/1994 MIL @ CLE L 8 1 0 1 0.0 0 1 0.0 1 2 50.0 0 1 1 2 0 0 1 0 -
+p789
+aVJohnny Newman MIL 11/10/1994 MIL @ CLE L 36 30 11 22 50.0 2 5 40.0 6 7 85.7 4 1 5 4 2 0 1 2 -
+p790
+aVGlenn Robinson MIL 11/10/1994 MIL @ CLE L 29 9 3 13 23.1 0 3 0.0 3 4 75.0 0 4 4 1 0 1 2 2 -
+p791
+aVAlton Lister MIL 11/05/1994 MIL vs. LAL W 15 8 3 5 60.0 0 0 - 2 3 66.7 1 2 3 0 0 3 0 3 -
+p792
+aVGlenn Robinson MIL 11/05/1994 MIL vs. LAL W 13 8 3 5 60.0 0 0 - 2 4 50.0 1 3 4 0 0 0 5 3 -
+p793
+aVLee Mayberry MIL 11/05/1994 MIL vs. LAL W 42 8 4 10 40.0 0 4 0.0 0 0 - 0 2 2 5 1 0 4 1 -
+p794
+aVTodd Day MIL 11/05/1994 MIL vs. LAL W 19 4 1 4 25.0 1 3 33.3 1 1 100.0 0 2 2 1 0 1 1 3 -
+p795
+aVMarty Conlon MIL 11/05/1994 MIL vs. LAL W 20 15 4 8 50.0 0 0 - 7 10 70.0 4 2 6 2 2 0 1 4 -
+p796
+aVDanny Young MIL 11/05/1994 MIL vs. LAL W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 2 0 0 0 0 -
+p797
+aVEd Pinckney MIL 11/05/1994 MIL vs. LAL W 14 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 0 1 -
+p798
+aVJohnny Newman MIL 11/05/1994 MIL vs. LAL W 35 20 6 16 37.5 2 5 40.0 6 7 85.7 1 2 3 1 1 0 4 2 -
+p799
+aVJon Barry MIL 11/05/1994 MIL vs. LAL W 29 7 3 8 37.5 1 1 100.0 0 0 - 0 5 5 10 1 0 1 1 -
+p800
+aVVin Baker MIL 11/05/1994 MIL vs. LAL W 47 22 10 16 62.5 0 0 - 2 5 40.0 3 9 12 7 3 1 4 4 -
+p801
+aVVin Baker MIL 11/04/1994 MIL @ PHL W 30 19 8 13 61.5 0 1 0.0 3 9 33.3 1 7 8 2 2 2 3 4 -
+p802
+aVLee Mayberry MIL 11/04/1994 MIL @ PHL W 34 10 1 6 16.7 1 1 100.0 7 8 87.5 0 1 1 6 2 0 5 3 -
+p803
+aVAlton Lister MIL 11/04/1994 MIL @ PHL W 5 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -
+p804
+aVAaron Williams MIL 11/04/1994 MIL @ PHL W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 3 -
+p805
+aVEd Pinckney MIL 11/04/1994 MIL @ PHL W 43 4 0 2 0.0 0 0 - 4 6 66.7 1 9 10 0 1 1 2 3 -
+p806
+aVTodd Day MIL 11/04/1994 MIL @ PHL W 24 6 2 12 16.7 0 3 0.0 2 2 100.0 2 1 3 2 0 1 2 2 -
+p807
+aVMarty Conlon MIL 11/04/1994 MIL @ PHL W 37 20 8 13 61.5 0 0 - 4 5 80.0 5 3 8 0 1 0 4 4 -
+p808
+aVDanny Young MIL 11/04/1994 MIL @ PHL W 14 6 2 2 100.0 1 1 100.0 1 1 100.0 0 0 0 3 0 0 0 2 -
+p809
+aVEric Mobley MIL 11/04/1994 MIL @ PHL W 13 4 2 5 40.0 0 0 - 0 0 - 2 2 4 2 0 0 1 4 -
+p810
+aVJohnny Newman MIL 11/04/1994 MIL @ PHL W 32 20 8 17 47.1 1 3 33.3 3 3 100.0 3 1 4 0 3 0 1 2 -
+p811
+a.

@@ -1,0 +1,160 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVTim Perry PHX 05/14/1992 PHX @ POR L 27 19 8 13 61.5 0 0 - 3 5 60.0 0 2 2 3 0 1 2 3 -
+p2
+aVTom Chambers PHX 05/14/1992 PHX @ POR L 34 19 7 14 50.0 1 2 50.0 4 5 80.0 1 7 8 3 0 0 1 3 -
+p3
+aVDan Majerle PHX 05/14/1992 PHX @ POR L 38 15 6 13 46.2 1 4 25.0 2 2 100.0 1 5 6 3 1 0 3 1 -
+p4
+aVAndrew Lang PHX 05/14/1992 PHX @ POR L 23 7 1 4 25.0 0 0 - 5 6 83.3 0 5 5 0 1 1 1 3 -
+p5
+aVJeff Hornacek PHX 05/14/1992 PHX @ POR L 40 16 7 15 46.7 0 2 0.0 2 2 100.0 1 4 5 5 5 0 4 2 -
+p6
+aVSteve Burtt PHX 05/14/1992 PHX @ POR L 12 4 1 5 20.0 0 1 0.0 2 2 100.0 1 1 2 3 0 0 1 2 -
+p7
+aVKevin Johnson PHX 05/14/1992 PHX @ POR L 34 12 4 13 30.8 0 0 - 4 5 80.0 2 2 4 6 0 0 1 2 -
+p8
+aVEd Nealy PHX 05/14/1992 PHX @ POR L 10 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 2 2 0 0 2 -
+p9
+aVCedric Ceballos PHX 05/14/1992 PHX @ POR L 20 9 3 5 60.0 0 0 - 3 4 75.0 0 3 3 1 0 2 1 1 -
+p10
+aVMark West PHX 05/14/1992 PHX @ POR L 2 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 -
+p11
+aVMark West PHX 05/11/1992 PHX vs. POR L 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 3 -
+p12
+aVKevin Johnson PHX 05/11/1992 PHX vs. POR L 48 35 11 24 45.8 0 1 0.0 13 15 86.7 2 4 6 14 1 1 2 6 -
+p13
+aVDan Majerle PHX 05/11/1992 PHX vs. POR L 50 21 8 24 33.3 1 9 11.1 4 5 80.0 4 7 11 3 2 0 1 1 -
+p14
+aVTim Perry PHX 05/11/1992 PHX vs. POR L 20 7 3 5 60.0 0 0 - 1 2 50.0 0 1 1 1 2 1 1 6 -
+p15
+aVTom Chambers PHX 05/11/1992 PHX vs. POR L 42 29 9 15 60.0 0 0 - 11 13 84.6 1 5 6 4 0 2 1 6 -
+p16
+aVJeff Hornacek PHX 05/11/1992 PHX vs. POR L 51 23 7 20 35.0 2 2 100.0 7 7 100.0 3 4 7 9 1 1 0 3 -
+p17
+aVAndrew Lang PHX 05/11/1992 PHX vs. POR L 28 13 5 8 62.5 0 0 - 3 4 75.0 3 0 3 0 0 1 0 6 -
+p18
+aVSteve Burtt PHX 05/11/1992 PHX vs. POR L 12 2 0 3 0.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 2 -
+p19
+aVEd Nealy PHX 05/11/1992 PHX vs. POR L 7 2 1 3 33.3 0 1 0.0 0 0 - 1 2 3 0 1 0 0 2 -
+p20
+aVCedric Ceballos PHX 05/11/1992 PHX vs. POR L 26 19 9 13 69.2 0 0 - 1 2 50.0 1 5 6 0 1 0 1 3 -
+p21
+aVMark West PHX 05/09/1992 PHX vs. POR W 13 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 1 1 4 -
+p22
+aVTom Chambers PHX 05/09/1992 PHX vs. POR W 16 6 2 4 50.0 1 1 100.0 1 2 50.0 0 2 2 2 0 1 0 5 -
+p23
+aVKevin Johnson PHX 05/09/1992 PHX vs. POR W 42 16 4 8 50.0 0 0 - 8 10 80.0 0 2 2 16 4 0 3 4 -
+p24
+aVSteve Burtt PHX 05/09/1992 PHX vs. POR W 13 7 1 6 16.7 0 0 - 5 6 83.3 0 1 1 1 0 0 0 3 -
+p25
+aVEd Nealy PHX 05/09/1992 PHX vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p26
+aVTim Perry PHX 05/09/1992 PHX vs. POR W 35 27 10 14 71.4 0 0 - 7 9 77.8 2 7 9 1 0 0 4 4 -
+p27
+aVDan Majerle PHX 05/09/1992 PHX vs. POR W 37 25 7 15 46.7 3 4 75.0 8 8 100.0 2 7 9 5 2 0 1 1 -
+p28
+aVCedric Ceballos PHX 05/09/1992 PHX vs. POR W 19 13 5 8 62.5 0 0 - 3 4 75.0 2 4 6 1 0 1 0 0 -
+p29
+aVJeff Hornacek PHX 05/09/1992 PHX vs. POR W 41 30 9 18 50.0 2 4 50.0 10 12 83.3 1 4 5 6 1 0 6 2 -
+p30
+aVAndrew Lang PHX 05/09/1992 PHX vs. POR W 22 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 3 1 5 -
+p31
+aVSteve Burtt PHX 05/07/1992 PHX @ POR L 15 7 3 6 50.0 0 1 0.0 1 1 100.0 1 1 2 3 2 0 3 4 -
+p32
+aVTim Perry PHX 05/07/1992 PHX @ POR L 8 3 1 2 50.0 0 0 - 1 2 50.0 1 1 2 1 0 0 0 1 -
+p33
+aVMark West PHX 05/07/1992 PHX @ POR L 10 6 3 5 60.0 0 0 - 0 0 - 4 1 5 0 0 0 0 3 -
+p34
+aVJeff Hornacek PHX 05/07/1992 PHX @ POR L 39 6 3 10 30.0 0 1 0.0 0 0 - 1 10 11 3 1 0 3 3 -
+p35
+aVKevin Johnson PHX 05/07/1992 PHX @ POR L 40 35 9 19 47.4 1 1 100.0 16 16 100.0 1 2 3 5 1 1 4 5 -
+p36
+aVTom Chambers PHX 05/07/1992 PHX @ POR L 32 11 5 15 33.3 1 2 50.0 0 0 - 1 1 2 4 0 0 2 4 -
+p37
+aVEd Nealy PHX 05/07/1992 PHX @ POR L 20 10 2 5 40.0 2 5 40.0 4 4 100.0 2 4 6 0 0 0 0 3 -
+p38
+aVAndrew Lang PHX 05/07/1992 PHX @ POR L 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 -
+p39
+aVDan Majerle PHX 05/07/1992 PHX @ POR L 42 19 8 18 44.4 2 6 33.3 1 1 100.0 2 4 6 6 1 0 2 0 -
+p40
+aVCedric Ceballos PHX 05/07/1992 PHX @ POR L 22 20 7 13 53.8 0 0 - 6 8 75.0 5 3 8 1 1 1 3 0 -
+p41
+aVMark West PHX 05/05/1992 PHX @ POR L 25 13 6 7 85.7 0 0 - 1 3 33.3 1 1 2 0 0 1 0 6 -
+p42
+aVTom Chambers PHX 05/05/1992 PHX @ POR L 31 19 6 15 40.0 1 1 100.0 6 6 100.0 2 6 8 3 0 0 4 2 -
+p43
+aVDan Majerle PHX 05/05/1992 PHX @ POR L 38 23 9 17 52.9 1 4 25.0 4 4 100.0 4 2 6 1 1 0 1 4 -
+p44
+aVJeff Hornacek PHX 05/05/1992 PHX @ POR L 45 14 6 9 66.7 2 2 100.0 0 0 - 1 3 4 12 0 1 3 4 -
+p45
+aVKevin Johnson PHX 05/05/1992 PHX @ POR L 41 24 10 18 55.6 2 3 66.7 2 2 100.0 2 6 8 5 4 0 6 3 -
+p46
+aVSteve Burtt PHX 05/05/1992 PHX @ POR L 8 2 1 2 50.0 0 0 - 0 0 - 0 2 2 4 0 0 0 1 -
+p47
+aVAndrew Lang PHX 05/05/1992 PHX @ POR L 21 3 1 5 20.0 0 0 - 1 1 100.0 1 1 2 0 0 4 0 6 -
+p48
+aVEd Nealy PHX 05/05/1992 PHX @ POR L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p49
+aVCedric Ceballos PHX 05/05/1992 PHX @ POR L 13 8 3 7 42.9 0 0 - 2 4 50.0 3 1 4 0 0 0 3 3 -
+p50
+aVTim Perry PHX 05/05/1992 PHX @ POR L 17 5 1 4 25.0 0 0 - 3 4 75.0 1 5 6 1 0 1 4 2 -
+p51
+aVTim Perry PHX 04/29/1992 PHX @ SAN W 28 7 3 6 50.0 0 0 - 1 2 50.0 2 7 9 0 1 2 1 2 -
+p52
+aVEd Nealy PHX 04/29/1992 PHX @ SAN W 15 6 2 5 40.0 2 5 40.0 0 0 - 0 6 6 1 0 0 0 2 -
+p53
+aVAndrew Lang PHX 04/29/1992 PHX @ SAN W 25 4 1 6 16.7 0 0 - 2 2 100.0 4 0 4 0 1 1 2 4 -
+p54
+aVMark West PHX 04/29/1992 PHX @ SAN W 9 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 2 -
+p55
+aVCedric Ceballos PHX 04/29/1992 PHX @ SAN W 31 9 4 9 44.4 0 0 - 1 2 50.0 3 5 8 4 0 2 1 1 -
+p56
+aVSteve Burtt PHX 04/29/1992 PHX @ SAN W 20 14 4 6 66.7 0 0 - 6 6 100.0 0 1 1 1 2 0 2 4 -
+p57
+aVKevin Johnson PHX 04/29/1992 PHX @ SAN W 45 22 8 13 61.5 0 0 - 6 7 85.7 0 4 4 11 0 0 2 1 -
+p58
+aVJeff Hornacek PHX 04/29/1992 PHX @ SAN W 44 22 9 18 50.0 1 2 50.0 3 3 100.0 1 5 6 2 3 0 1 4 -
+p59
+aVTom Chambers PHX 04/29/1992 PHX @ SAN W 23 17 7 13 53.8 0 0 - 3 3 100.0 1 2 3 2 1 0 6 2 -
+p60
+aVCedric Ceballos PHX 04/26/1992 PHX vs. SAN W 33 13 5 11 45.5 0 0 - 3 4 75.0 1 6 7 4 2 0 1 5 -
+p61
+aVJeff Hornacek PHX 04/26/1992 PHX vs. SAN W 39 31 13 20 65.0 0 1 0.0 5 5 100.0 3 4 7 4 0 0 0 2 -
+p62
+aVTim Perry PHX 04/26/1992 PHX vs. SAN W 41 31 12 17 70.6 0 0 - 7 8 87.5 6 4 10 3 0 0 2 5 -
+p63
+aVSteve Burtt PHX 04/26/1992 PHX vs. SAN W 8 2 1 3 33.3 0 0 - 0 2 0.0 0 1 1 0 0 0 1 1 -
+p64
+aVAndrew Lang PHX 04/26/1992 PHX vs. SAN W 35 14 5 9 55.6 0 0 - 4 6 66.7 3 7 10 0 0 1 2 3 -
+p65
+aVDan Majerle PHX 04/26/1992 PHX vs. SAN W 21 2 1 8 12.5 0 3 0.0 0 0 - 0 1 1 1 0 0 1 2 -
+p66
+aVKevin Johnson PHX 04/26/1992 PHX vs. SAN W 43 21 6 13 46.2 0 1 0.0 9 10 90.0 1 3 4 19 2 0 3 2 -
+p67
+aVMark West PHX 04/26/1992 PHX vs. SAN W 13 5 2 2 100.0 0 0 - 1 1 100.0 0 2 2 0 0 0 0 0 -
+p68
+aVEd Nealy PHX 04/26/1992 PHX vs. SAN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 -
+p69
+aVAndrew Lang PHX 04/24/1992 PHX vs. SAN W 26 2 1 4 25.0 0 0 - 0 0 - 4 3 7 2 0 3 1 4 -
+p70
+aVSteve Burtt PHX 04/24/1992 PHX vs. SAN W 16 12 5 7 71.4 0 0 - 2 2 100.0 1 1 2 0 1 0 1 1 -
+p71
+aVMark West PHX 04/24/1992 PHX vs. SAN W 18 8 3 3 100.0 0 0 - 2 2 100.0 2 2 4 1 1 2 1 3 -
+p72
+aVTom Chambers PHX 04/24/1992 PHX vs. SAN W 16 8 3 9 33.3 0 1 0.0 2 3 66.7 2 0 2 1 1 2 1 3 -
+p73
+aVJeff Hornacek PHX 04/24/1992 PHX vs. SAN W 44 21 8 18 44.4 1 3 33.3 4 5 80.0 1 5 6 1 3 0 2 3 -
+p74
+aVEd Nealy PHX 04/24/1992 PHX vs. SAN W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -
+p75
+aVKevin Johnson PHX 04/24/1992 PHX vs. SAN W 42 24 10 20 50.0 0 0 - 4 7 57.1 0 2 2 17 0 0 4 1 -
+p76
+aVDan Majerle PHX 04/24/1992 PHX vs. SAN W 40 25 9 16 56.3 1 3 33.3 6 6 100.0 0 5 5 1 3 0 0 2 -
+p77
+aVTim Perry PHX 04/24/1992 PHX vs. SAN W 9 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 1 -
+p78
+aVCedric Ceballos PHX 04/24/1992 PHX vs. SAN W 24 17 8 14 57.1 0 0 - 1 2 50.0 5 4 9 1 2 0 1 1 -
+p79
+a.

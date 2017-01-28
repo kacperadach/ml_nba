@@ -1,0 +1,98 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDerrick Rose CHI 04/27/2010 CHI @ CLE L 44 31 12 27 44.4 1 2 50.0 6 6 100.0 2 1 3 6 1 0 2 0 -6
+p2
+aVBrad Miller CHI 04/27/2010 CHI @ CLE L 10 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 6 -6
+p3
+aVRonald Murray CHI 04/27/2010 CHI @ CLE L 12 6 3 5 60.0 0 0 - 0 0 - 1 2 3 1 0 0 0 0 6
+p4
+aVLuol Deng CHI 04/27/2010 CHI @ CLE L 46 26 9 17 52.9 0 4 0.0 8 11 72.7 2 4 6 1 2 1 0 4 1
+p5
+aVTaj Gibson CHI 04/27/2010 CHI @ CLE L 34 7 2 5 40.0 0 0 - 3 6 50.0 2 9 11 1 0 1 0 6 3
+p6
+aVJoakim Noah CHI 04/27/2010 CHI @ CLE L 43 8 4 7 57.1 0 0 - 0 0 - 2 7 9 1 3 1 7 5 0
+p7
+aVKirk Hinrich CHI 04/27/2010 CHI @ CLE L 43 12 4 9 44.4 1 4 25.0 3 4 75.0 0 4 4 4 1 0 0 2 -6
+p8
+aVHakim Warrick CHI 04/27/2010 CHI @ CLE L 9 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 0 -2
+p9
+aVJannero Pargo CHI 04/25/2010 CHI vs. CLE L 5 3 1 4 25.0 1 2 50.0 0 0 - 0 0 0 1 0 0 0 0 2
+p10
+aVDerrick Rose CHI 04/25/2010 CHI vs. CLE L 40 21 9 20 45.0 0 0 - 3 4 75.0 1 2 3 5 0 0 3 1 -27
+p11
+aVLuol Deng CHI 04/25/2010 CHI vs. CLE L 35 16 7 17 41.2 0 3 0.0 2 2 100.0 2 2 4 1 0 0 0 2 -22
+p12
+aVHakim Warrick CHI 04/25/2010 CHI vs. CLE L 13 3 0 4 0.0 0 1 0.0 3 4 75.0 2 1 3 0 0 0 2 3 0
+p13
+aVRonald Murray CHI 04/25/2010 CHI vs. CLE L 21 11 3 7 42.9 1 1 100.0 4 4 100.0 1 1 2 3 1 0 0 0 -1
+p14
+aVDevin Brown CHI 04/25/2010 CHI vs. CLE L 2 2 1 1 100.0 0 0 - 0 1 0.0 0 1 1 0 0 0 0 0 3
+p15
+aVBrad Miller CHI 04/25/2010 CHI vs. CLE L 19 7 2 8 25.0 0 1 0.0 3 3 100.0 0 3 3 0 0 0 2 3 -12
+p16
+aVJoakim Noah CHI 04/25/2010 CHI vs. CLE L 36 21 7 12 58.3 0 0 - 7 8 87.5 7 13 20 1 0 0 4 2 -23
+p17
+aVJames Johnson CHI 04/25/2010 CHI vs. CLE L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 1 5 -3
+p18
+aVChris Richard CHI 04/25/2010 CHI vs. CLE L 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 2
+p19
+aVTaj Gibson CHI 04/25/2010 CHI vs. CLE L 21 4 1 4 25.0 0 0 - 2 4 50.0 3 4 7 0 0 1 0 4 -10
+p20
+aVKirk Hinrich CHI 04/25/2010 CHI vs. CLE L 34 10 3 13 23.1 2 3 66.7 2 2 100.0 0 4 4 2 1 0 0 4 -24
+p21
+aVTaj Gibson CHI 04/22/2010 CHI vs. CLE W 34 8 4 12 33.3 0 0 - 0 0 - 0 5 5 2 0 0 1 1 -4
+p22
+aVDerrick Rose CHI 04/22/2010 CHI vs. CLE W 42 31 13 26 50.0 1 2 50.0 4 6 66.7 0 2 2 7 0 0 0 1 6
+p23
+aVJames Johnson CHI 04/22/2010 CHI vs. CLE W 5 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 3 2
+p24
+aVRonald Murray CHI 04/22/2010 CHI vs. CLE W 24 2 1 5 20.0 0 2 0.0 0 0 - 1 5 6 3 1 0 1 2 -4
+p25
+aVKirk Hinrich CHI 04/22/2010 CHI vs. CLE W 39 27 9 12 75.0 4 4 100.0 5 8 62.5 0 5 5 5 1 0 1 3 -7
+p26
+aVBrad Miller CHI 04/22/2010 CHI vs. CLE W 20 10 3 6 50.0 0 1 0.0 4 4 100.0 1 4 5 0 0 1 2 3 4
+p27
+aVJoakim Noah CHI 04/22/2010 CHI vs. CLE W 33 10 3 7 42.9 0 0 - 4 4 100.0 4 11 15 5 2 2 1 5 13
+p28
+aVLuol Deng CHI 04/22/2010 CHI vs. CLE W 42 20 9 16 56.3 0 3 0.0 2 3 66.7 0 3 3 0 1 1 1 4 0
+p29
+aVBrad Miller CHI 04/19/2010 CHI @ CLE L 22 4 2 6 33.3 0 2 0.0 0 0 - 2 5 7 1 0 0 2 0 -4
+p30
+aVJoakim Noah CHI 04/19/2010 CHI @ CLE L 41 25 10 18 55.6 0 0 - 5 5 100.0 7 6 13 3 1 1 0 3 -15
+p31
+aVDerrick Rose CHI 04/19/2010 CHI @ CLE L 43 23 10 24 41.7 0 0 - 3 4 75.0 0 2 2 8 2 0 1 3 -13
+p32
+aVJames Johnson CHI 04/19/2010 CHI @ CLE L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 3 -5
+p33
+aVTaj Gibson CHI 04/19/2010 CHI @ CLE L 23 11 5 7 71.4 0 0 - 1 1 100.0 2 5 7 0 0 1 0 3 4
+p34
+aVRonald Murray CHI 04/19/2010 CHI @ CLE L 29 14 5 14 35.7 2 6 33.3 2 2 100.0 1 0 1 2 0 0 0 1 -7
+p35
+aVLuol Deng CHI 04/19/2010 CHI @ CLE L 41 20 7 15 46.7 1 2 50.0 5 5 100.0 1 5 6 5 0 1 0 2 0
+p36
+aVKirk Hinrich CHI 04/19/2010 CHI @ CLE L 36 5 2 8 25.0 1 3 33.3 0 0 - 0 1 1 6 0 0 1 4 -10
+p37
+aVKirk Hinrich CHI 04/17/2010 CHI @ CLE L 44 8 4 10 40.0 0 2 0.0 0 0 - 1 7 8 3 4 0 0 1 -11
+p38
+aVJames Johnson CHI 04/17/2010 CHI @ CLE L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p39
+aVRonald Murray CHI 04/17/2010 CHI @ CLE L 11 9 3 6 50.0 1 3 33.3 2 2 100.0 0 1 1 1 0 0 0 0 -1
+p40
+aVHakim Warrick CHI 04/17/2010 CHI @ CLE L 9 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p41
+aVLuol Deng CHI 04/17/2010 CHI @ CLE L 39 12 5 15 33.3 0 0 - 2 5 40.0 3 3 6 0 3 1 2 3 -10
+p42
+aVDerrick Rose CHI 04/17/2010 CHI @ CLE L 43 28 13 28 46.4 0 2 0.0 2 2 100.0 1 6 7 10 1 0 7 3 -14
+p43
+aVBrad Miller CHI 04/17/2010 CHI @ CLE L 22 4 2 4 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 4 -11
+p44
+aVChris Richard CHI 04/17/2010 CHI @ CLE L 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p45
+aVJannero Pargo CHI 04/17/2010 CHI @ CLE L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p46
+aVJoakim Noah CHI 04/17/2010 CHI @ CLE L 35 10 4 9 44.4 0 0 - 2 2 100.0 0 8 8 3 3 3 3 5 -9
+p47
+aVTaj Gibson CHI 04/17/2010 CHI @ CLE L 33 8 4 10 40.0 0 0 - 0 0 - 2 3 5 0 1 0 1 3 -9
+p48
+a.

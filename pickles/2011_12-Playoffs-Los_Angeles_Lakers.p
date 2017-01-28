@@ -1,0 +1,242 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDarius Morris LAL 05/21/2012 LAL @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p2
+aVSteve Blake LAL 05/21/2012 LAL @ OKC L 15 1 0 1 0.0 0 1 0.0 1 1 100.0 0 0 0 1 1 0 1 0 -8
+p3
+aVPau Gasol LAL 05/21/2012 LAL @ OKC L 44 14 5 14 35.7 0 1 0.0 4 5 80.0 2 14 16 2 0 3 3 1 -13
+p4
+aVAndrew Goudelock LAL 05/21/2012 LAL @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p5
+aVDevin Ebanks LAL 05/21/2012 LAL @ OKC L 16 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 2 0 2 2
+p6
+aVJordan Hill LAL 05/21/2012 LAL @ OKC L 7 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 4 -7
+p7
+aVKobe Bryant LAL 05/21/2012 LAL @ OKC L 41 42 18 33 54.5 1 6 16.7 5 7 71.4 0 5 5 0 2 0 2 3 -14
+p8
+aVAndrew Bynum LAL 05/21/2012 LAL @ OKC L 35 10 4 10 40.0 0 0 - 2 3 66.7 0 4 4 0 1 0 0 5 -16
+p9
+aVMetta World Peace LAL 05/21/2012 LAL @ OKC L 38 11 4 5 80.0 1 2 50.0 2 2 100.0 0 3 3 5 2 0 0 4 -16
+p10
+aVTroy Murphy LAL 05/21/2012 LAL @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p11
+aVJosh McRoberts LAL 05/21/2012 LAL @ OKC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p12
+aVRamon Sessions LAL 05/21/2012 LAL @ OKC L 41 8 1 6 16.7 0 1 0.0 6 8 75.0 0 5 5 3 0 1 6 5 -9
+p13
+aVPau Gasol LAL 05/19/2012 LAL vs. OKC L 39 10 4 10 40.0 0 0 - 2 2 100.0 3 2 5 2 0 3 3 5 -7
+p14
+aVSteve Blake LAL 05/19/2012 LAL vs. OKC L 24 5 2 6 33.3 1 4 25.0 0 0 - 1 2 3 1 1 0 0 3 -6
+p15
+aVRamon Sessions LAL 05/19/2012 LAL vs. OKC L 32 10 4 9 44.4 0 3 0.0 2 2 100.0 0 1 1 5 0 0 1 3 11
+p16
+aVJordan Hill LAL 05/19/2012 LAL vs. OKC L 14 5 2 5 40.0 0 0 - 1 2 50.0 4 3 7 0 0 1 0 1 0
+p17
+aVKobe Bryant LAL 05/19/2012 LAL vs. OKC L 40 38 12 28 42.9 0 2 0.0 14 17 82.4 3 5 8 5 0 0 2 1 -9
+p18
+aVMetta World Peace LAL 05/19/2012 LAL vs. OKC L 43 14 4 10 40.0 4 8 50.0 2 4 50.0 1 5 6 2 2 0 2 4 -4
+p19
+aVMatt Barnes LAL 05/19/2012 LAL vs. OKC L 5 0 0 3 0.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 0 -1
+p20
+aVAndrew Bynum LAL 05/19/2012 LAL vs. OKC L 43 18 9 15 60.0 0 0 - 0 2 0.0 5 4 9 4 2 3 0 2 1
+p21
+aVKobe Bryant LAL 05/18/2012 LAL vs. OKC W 39 36 9 25 36.0 0 1 0.0 18 18 100.0 2 5 7 6 2 0 2 4 11
+p22
+aVJordan Hill LAL 05/18/2012 LAL vs. OKC W 19 2 0 0 - 0 0 - 2 2 100.0 2 2 4 0 1 2 0 2 -5
+p23
+aVAndrew Bynum LAL 05/18/2012 LAL vs. OKC W 40 15 2 13 15.4 0 0 - 11 12 91.7 4 7 11 2 0 3 1 0 15
+p24
+aVMatt Barnes LAL 05/18/2012 LAL vs. OKC W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 2 0 3 5 -11
+p25
+aVPau Gasol LAL 05/18/2012 LAL vs. OKC W 37 12 4 8 50.0 0 0 - 4 4 100.0 2 9 11 6 1 2 4 3 -4
+p26
+aVMetta World Peace LAL 05/18/2012 LAL vs. OKC W 38 10 3 10 30.0 2 8 25.0 2 2 100.0 0 0 0 1 1 2 0 4 14
+p27
+aVRamon Sessions LAL 05/18/2012 LAL vs. OKC W 28 12 5 9 55.6 0 0 - 2 2 100.0 1 1 2 4 0 0 3 1 -7
+p28
+aVSteve Blake LAL 05/18/2012 LAL vs. OKC W 29 12 4 5 80.0 2 2 100.0 2 2 100.0 1 7 8 0 0 0 2 3 2
+p29
+aVKobe Bryant LAL 05/16/2012 LAL @ OKC L 43 20 9 25 36.0 0 6 0.0 2 2 100.0 1 2 3 4 4 0 2 4 5
+p30
+aVMetta World Peace LAL 05/16/2012 LAL @ OKC L 40 8 2 10 20.0 1 3 33.3 3 4 75.0 1 4 5 2 3 0 2 2 -3
+p31
+aVRamon Sessions LAL 05/16/2012 LAL @ OKC L 24 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 0 1 1 -12
+p32
+aVAndrew Bynum LAL 05/16/2012 LAL @ OKC L 40 20 8 19 42.1 0 0 - 4 4 100.0 3 6 9 1 0 2 4 2 7
+p33
+aVSteve Blake LAL 05/16/2012 LAL @ OKC L 27 5 1 5 20.0 1 5 20.0 2 2 100.0 1 1 2 0 0 0 3 0 4
+p34
+aVJordan Hill LAL 05/16/2012 LAL @ OKC L 16 6 3 4 75.0 0 0 - 0 0 - 3 3 6 0 1 0 0 4 2
+p35
+aVMatt Barnes LAL 05/16/2012 LAL @ OKC L 10 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 1 0 0 3 -1
+p36
+aVPau Gasol LAL 05/16/2012 LAL @ OKC L 38 14 6 11 54.5 0 0 - 2 2 100.0 1 10 11 3 0 0 0 4 -10
+p37
+aVTroy Murphy LAL 05/16/2012 LAL @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p38
+aVJosh McRoberts LAL 05/16/2012 LAL @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p39
+aVAndrew Bynum LAL 05/14/2012 LAL @ OKC L 31 20 7 12 58.3 0 0 - 6 6 100.0 4 10 14 1 0 1 3 2 -24
+p40
+aVMetta World Peace LAL 05/14/2012 LAL @ OKC L 32 12 4 10 40.0 2 4 50.0 2 2 100.0 0 2 2 2 1 0 0 2 -26
+p41
+aVAndrew Goudelock LAL 05/14/2012 LAL @ OKC L 7 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 1
+p42
+aVTroy Murphy LAL 05/14/2012 LAL @ OKC L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -1
+p43
+aVSteve Blake LAL 05/14/2012 LAL @ OKC L 19 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 4 0 0 2 1 -11
+p44
+aVJordan Hill LAL 05/14/2012 LAL @ OKC L 21 4 2 5 40.0 0 0 - 0 0 - 3 3 6 0 0 1 1 3 -7
+p45
+aVMatt Barnes LAL 05/14/2012 LAL @ OKC L 21 8 3 6 50.0 2 4 50.0 0 0 - 0 2 2 0 0 0 1 3 -6
+p46
+aVDevin Ebanks LAL 05/14/2012 LAL @ OKC L 4 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 -3
+p47
+aVPau Gasol LAL 05/14/2012 LAL @ OKC L 30 10 5 11 45.5 0 0 - 0 0 - 5 2 7 1 0 0 2 3 -29
+p48
+aVJosh McRoberts LAL 05/14/2012 LAL @ OKC L 9 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 1 0 0 3
+p49
+aVKobe Bryant LAL 05/14/2012 LAL @ OKC L 32 20 7 18 38.9 1 3 33.3 5 7 71.4 0 3 3 2 0 0 3 3 -27
+p50
+aVRamon Sessions LAL 05/14/2012 LAL @ OKC L 26 2 1 7 14.3 0 0 - 0 0 - 0 0 0 3 0 0 1 1 -19
+p51
+aVDarius Morris LAL 05/14/2012 LAL @ OKC L 2 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 1 4
+p52
+aVSteve Blake LAL 05/12/2012 LAL vs. DEN W 30 19 7 11 63.6 5 6 83.3 0 0 - 1 1 2 3 2 1 2 1 1
+p53
+aVAndrew Bynum LAL 05/12/2012 LAL vs. DEN W 43 16 4 15 26.7 0 0 - 8 11 72.7 9 9 18 1 1 6 1 3 6
+p54
+aVMetta World Peace LAL 05/12/2012 LAL vs. DEN W 44 15 5 15 33.3 4 11 36.4 1 2 50.0 1 4 5 2 4 2 1 2 18
+p55
+aVRamon Sessions LAL 05/12/2012 LAL vs. DEN W 20 4 2 8 25.0 0 4 0.0 0 1 0.0 0 0 0 2 1 0 1 3 3
+p56
+aVMatt Barnes LAL 05/12/2012 LAL vs. DEN W 6 0 0 1 0.0 0 1 0.0 0 0 - 0 4 4 0 1 0 1 1 -4
+p57
+aVJordan Hill LAL 05/12/2012 LAL vs. DEN W 12 2 1 4 25.0 0 0 - 0 0 - 1 2 3 0 0 0 1 3 -2
+p58
+aVKobe Bryant LAL 05/12/2012 LAL vs. DEN W 45 17 7 16 43.8 2 2 100.0 1 4 25.0 1 0 1 8 0 1 3 2 9
+p59
+aVPau Gasol LAL 05/12/2012 LAL vs. DEN W 41 23 9 19 47.4 0 0 - 5 5 100.0 11 6 17 6 1 4 1 5 14
+p60
+aVDevin Ebanks LAL 05/12/2012 LAL vs. DEN W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p61
+aVSteve Blake LAL 05/10/2012 LAL @ DEN L 24 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 4 2 0 0 2 -7
+p62
+aVKobe Bryant LAL 05/10/2012 LAL @ DEN L 37 31 13 23 56.5 1 4 25.0 4 4 100.0 0 2 2 4 1 0 3 3 -28
+p63
+aVChristian Eyenga LAL 05/10/2012 LAL @ DEN L 7 2 1 2 50.0 0 0 - 0 1 0.0 0 1 1 1 1 1 0 1 11
+p64
+aVRamon Sessions LAL 05/10/2012 LAL @ DEN L 29 14 4 9 44.4 0 1 0.0 6 8 75.0 0 2 2 3 0 0 1 3 -23
+p65
+aVJosh McRoberts LAL 05/10/2012 LAL @ DEN L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 0 0 1 1 5
+p66
+aVDarius Morris LAL 05/10/2012 LAL @ DEN L 5 5 1 1 100.0 0 0 - 3 4 75.0 0 0 0 2 0 0 1 0 6
+p67
+aVPau Gasol LAL 05/10/2012 LAL @ DEN L 29 3 1 10 10.0 0 0 - 1 2 50.0 1 2 3 1 1 1 0 2 -29
+p68
+aVTroy Murphy LAL 05/10/2012 LAL @ DEN L 6 3 1 1 100.0 1 1 100.0 0 0 - 0 2 2 0 0 0 0 0 9
+p69
+aVMatt Barnes LAL 05/10/2012 LAL @ DEN L 25 6 2 8 25.0 1 4 25.0 1 2 50.0 1 4 5 3 0 1 2 3 -9
+p70
+aVJordan Hill LAL 05/10/2012 LAL @ DEN L 28 8 3 6 50.0 0 0 - 2 2 100.0 4 2 6 1 0 0 3 2 3
+p71
+aVAndrew Bynum LAL 05/10/2012 LAL @ DEN L 30 11 4 11 36.4 0 0 - 3 5 60.0 6 10 16 3 0 4 0 0 -22
+p72
+aVDevin Ebanks LAL 05/10/2012 LAL @ DEN L 16 10 4 9 44.4 0 2 0.0 2 2 100.0 1 1 2 0 1 0 0 0 -1
+p73
+aVMatt Barnes LAL 05/08/2012 LAL vs. DEN L 23 11 5 14 35.7 1 6 16.7 0 0 - 2 2 4 2 2 0 0 3 -3
+p74
+aVDevin Ebanks LAL 05/08/2012 LAL vs. DEN L 11 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 1 0 0 0 2 -7
+p75
+aVRamon Sessions LAL 05/08/2012 LAL vs. DEN L 36 9 3 12 25.0 1 3 33.3 2 3 66.7 0 6 6 6 0 0 2 1 9
+p76
+aVSteve Blake LAL 05/08/2012 LAL vs. DEN L 31 8 3 6 50.0 2 4 50.0 0 0 - 3 3 6 4 1 0 1 4 -3
+p77
+aVJordan Hill LAL 05/08/2012 LAL vs. DEN L 20 0 0 4 0.0 0 0 - 0 0 - 3 2 5 0 0 1 0 2 -13
+p78
+aVDarius Morris LAL 05/08/2012 LAL vs. DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p79
+aVPau Gasol LAL 05/08/2012 LAL vs. DEN L 37 9 4 11 36.4 0 0 - 1 2 50.0 2 8 10 1 1 3 2 4 12
+p80
+aVAndrew Bynum LAL 05/08/2012 LAL vs. DEN L 39 16 5 8 62.5 0 0 - 6 8 75.0 4 7 11 1 0 1 1 2 -3
+p81
+aVKobe Bryant LAL 05/08/2012 LAL vs. DEN L 43 43 14 32 43.8 5 11 45.5 10 11 90.9 1 5 6 5 2 0 3 2 -6
+p82
+aVJordan Hill LAL 05/06/2012 LAL @ DEN W 23 12 4 9 44.4 0 0 - 4 6 66.7 7 4 11 0 1 0 0 3 0
+p83
+aVKobe Bryant LAL 05/06/2012 LAL @ DEN W 39 22 10 25 40.0 2 7 28.6 0 1 0.0 2 6 8 6 1 0 5 0 0
+p84
+aVSteve Blake LAL 05/06/2012 LAL @ DEN W 29 10 4 9 44.4 2 5 40.0 0 2 0.0 1 1 2 3 0 1 0 1 -2
+p85
+aVPau Gasol LAL 05/06/2012 LAL @ DEN W 37 13 6 12 50.0 0 0 - 1 1 100.0 5 4 9 6 0 1 1 1 8
+p86
+aVMatt Barnes LAL 05/06/2012 LAL @ DEN W 17 4 2 6 33.3 0 2 0.0 0 0 - 1 3 4 2 0 0 2 3 4
+p87
+aVRamon Sessions LAL 05/06/2012 LAL @ DEN W 39 12 5 11 45.5 1 3 33.3 1 2 50.0 0 4 4 2 1 0 2 3 7
+p88
+aVAndrew Bynum LAL 05/06/2012 LAL @ DEN W 35 19 8 12 66.7 0 0 - 3 6 50.0 2 5 7 1 0 3 3 1 0
+p89
+aVDevin Ebanks LAL 05/06/2012 LAL @ DEN W 20 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 1 2 0 1 3
+p90
+aVKobe Bryant LAL 05/04/2012 LAL @ DEN L 41 22 7 23 30.4 3 10 30.0 5 6 83.3 3 3 6 6 0 0 6 4 -12
+p91
+aVChristian Eyenga LAL 05/04/2012 LAL @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p92
+aVAndrew Goudelock LAL 05/04/2012 LAL @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p93
+aVSteve Blake LAL 05/04/2012 LAL @ DEN L 28 3 1 4 25.0 1 4 25.0 0 0 - 0 0 0 2 1 0 1 4 -17
+p94
+aVDevin Ebanks LAL 05/04/2012 LAL @ DEN L 16 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 2 0 1 1
+p95
+aVJosh McRoberts LAL 05/04/2012 LAL @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p96
+aVJordan Hill LAL 05/04/2012 LAL @ DEN L 14 0 0 0 - 0 0 - 0 0 - 2 4 6 0 0 0 1 0 -6
+p97
+aVPau Gasol LAL 05/04/2012 LAL @ DEN L 40 16 7 13 53.8 1 2 50.0 1 2 50.0 1 6 7 3 0 4 1 4 -5
+p98
+aVMatt Barnes LAL 05/04/2012 LAL @ DEN L 21 6 2 9 22.2 1 5 20.0 1 2 50.0 2 1 3 2 0 2 2 1 -9
+p99
+aVAndrew Bynum LAL 05/04/2012 LAL @ DEN L 41 18 5 11 45.5 0 0 - 8 8 100.0 4 8 12 2 0 2 2 3 -16
+p100
+aVRamon Sessions LAL 05/04/2012 LAL @ DEN L 38 15 5 13 38.5 0 4 0.0 5 7 71.4 1 8 9 6 0 0 2 2 -10
+p101
+aVPau Gasol LAL 05/01/2012 LAL vs. DEN W 37 13 5 10 50.0 0 0 - 3 4 75.0 3 7 10 5 2 2 2 2 4
+p102
+aVDevin Ebanks LAL 05/01/2012 LAL vs. DEN W 24 4 2 7 28.6 0 0 - 0 2 0.0 4 4 8 2 1 1 2 3 8
+p103
+aVSteve Blake LAL 05/01/2012 LAL vs. DEN W 26 0 0 4 0.0 0 3 0.0 0 0 - 0 4 4 1 0 0 3 2 -2
+p104
+aVKobe Bryant LAL 05/01/2012 LAL vs. DEN W 40 38 15 29 51.7 2 6 33.3 6 7 85.7 2 2 4 2 3 1 1 3 4
+p105
+aVAndrew Bynum LAL 05/01/2012 LAL vs. DEN W 38 27 12 20 60.0 0 0 - 3 4 75.0 3 6 9 2 0 2 0 0 3
+p106
+aVJordan Hill LAL 05/01/2012 LAL vs. DEN W 21 6 2 5 40.0 0 0 - 2 2 100.0 5 5 10 0 0 1 1 4 3
+p107
+aVRamon Sessions LAL 05/01/2012 LAL vs. DEN W 36 14 6 16 37.5 0 3 0.0 2 2 100.0 0 1 1 4 2 0 0 3 3
+p108
+aVMatt Barnes LAL 05/01/2012 LAL vs. DEN W 19 2 1 5 20.0 0 3 0.0 0 0 - 1 1 2 4 0 1 1 3 -3
+p109
+aVMatt Barnes LAL 04/29/2012 LAL vs. DEN W 29 2 1 6 16.7 0 4 0.0 0 0 - 1 5 6 1 4 1 3 4 6
+p110
+aVJordan Hill LAL 04/29/2012 LAL vs. DEN W 24 10 5 10 50.0 0 0 - 0 2 0.0 4 6 10 0 0 2 0 4 2
+p111
+aVRamon Sessions LAL 04/29/2012 LAL vs. DEN W 29 14 6 11 54.5 2 3 66.7 0 0 - 0 2 2 5 0 0 2 1 15
+p112
+aVChristian Eyenga LAL 04/29/2012 LAL vs. DEN W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -2
+p113
+aVAndrew Goudelock LAL 04/29/2012 LAL vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p114
+aVPau Gasol LAL 04/29/2012 LAL vs. DEN W 34 13 6 14 42.9 1 2 50.0 0 0 - 2 6 8 8 0 2 1 2 7
+p115
+aVJosh McRoberts LAL 04/29/2012 LAL vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p116
+aVDevin Ebanks LAL 04/29/2012 LAL vs. DEN W 19 12 5 6 83.3 0 0 - 2 2 100.0 0 5 5 0 0 0 0 4 2
+p117
+aVSteve Blake LAL 04/29/2012 LAL vs. DEN W 26 9 3 7 42.9 3 6 50.0 0 0 - 0 2 2 4 0 0 0 0 0
+p118
+aVKobe Bryant LAL 04/29/2012 LAL vs. DEN W 37 31 11 24 45.8 0 2 0.0 9 11 81.8 1 4 5 4 1 0 2 4 26
+p119
+aVAndrew Bynum LAL 04/29/2012 LAL vs. DEN W 36 10 5 7 71.4 0 0 - 0 0 - 2 11 13 0 1 10 1 1 23
+p120
+a.

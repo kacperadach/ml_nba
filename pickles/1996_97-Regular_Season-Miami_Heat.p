@@ -1,0 +1,1546 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJamal Mashburn MIA 04/19/1997 MIA @ ORL W 35 12 4 7 57.1 2 2 100.0 2 2 100.0 0 4 4 2 1 2 3 3 2
+p2
+aVP.J. Brown MIA 04/19/1997 MIA @ ORL W 12 3 0 4 0.0 0 0 - 3 4 75.0 1 2 3 1 0 0 1 0 3
+p3
+aVJohn Crotty MIA 04/19/1997 MIA @ ORL W 30 17 6 10 60.0 2 3 66.7 3 3 100.0 0 2 2 5 2 0 2 5 13
+p4
+aVWillie Anderson MIA 04/19/1997 MIA @ ORL W 23 10 4 5 80.0 0 0 - 2 2 100.0 3 3 6 4 1 1 3 4 -3
+p5
+aVMark Strickland MIA 04/19/1997 MIA @ ORL W 24 11 4 10 40.0 0 0 - 3 4 75.0 1 3 4 0 1 3 4 4 18
+p6
+aVEd Pinckney MIA 04/19/1997 MIA @ ORL W 12 6 1 2 50.0 0 0 - 4 4 100.0 0 4 4 1 0 0 0 1 -5
+p7
+aVDan Majerle MIA 04/19/1997 MIA @ ORL W 32 18 6 11 54.5 3 6 50.0 3 3 100.0 3 3 6 3 2 1 3 2 10
+p8
+aVVoshon Lenard MIA 04/19/1997 MIA @ ORL W 28 10 4 13 30.8 2 9 22.2 0 0 - 1 1 2 4 2 0 0 2 25
+p9
+aVKeith Askins MIA 04/19/1997 MIA @ ORL W 12 3 1 1 100.0 1 1 100.0 0 0 - 1 0 1 0 0 0 2 1 0
+p10
+aVIke Austin MIA 04/19/1997 MIA @ ORL W 31 12 6 14 42.9 0 0 - 0 0 - 6 3 9 3 1 0 3 1 7
+p11
+aVAlonzo Mourning MIA 04/18/1997 MIA vs. NJN L 32 10 5 14 35.7 0 0 - 0 0 - 2 7 9 1 0 4 0 2 -9
+p12
+aVVoshon Lenard MIA 04/18/1997 MIA vs. NJN L 32 16 6 13 46.2 4 9 44.4 0 0 - 0 1 1 4 0 0 1 2 -1
+p13
+aVDan Majerle MIA 04/18/1997 MIA vs. NJN L 32 10 2 9 22.2 2 7 28.6 4 4 100.0 2 4 6 2 3 1 1 1 -12
+p14
+aVIke Austin MIA 04/18/1997 MIA vs. NJN L 23 8 3 10 30.0 0 1 0.0 2 2 100.0 1 3 4 2 0 0 1 2 -11
+p15
+aVWillie Anderson MIA 04/18/1997 MIA vs. NJN L 12 0 0 3 0.0 0 0 - 0 0 - 0 1 1 0 0 1 2 1 -6
+p16
+aVTim Hardaway MIA 04/18/1997 MIA vs. NJN L 28 7 3 7 42.9 1 3 33.3 0 0 - 0 1 1 5 0 0 1 2 -1
+p17
+aVJohn Crotty MIA 04/18/1997 MIA vs. NJN L 13 4 1 3 33.3 0 1 0.0 2 3 66.7 0 1 1 0 0 0 0 2 -11
+p18
+aVP.J. Brown MIA 04/18/1997 MIA vs. NJN L 28 15 6 10 60.0 0 0 - 3 4 75.0 4 7 11 2 1 2 1 1 3
+p19
+aVJamal Mashburn MIA 04/18/1997 MIA vs. NJN L 41 4 2 11 18.2 0 5 0.0 0 0 - 3 2 5 6 0 0 1 3 -2
+p20
+aVJamal Mashburn MIA 04/16/1997 MIA vs. CHI W 45 23 7 14 50.0 3 5 60.0 6 6 100.0 3 7 10 5 3 1 2 0 5
+p21
+aVKeith Askins MIA 04/16/1997 MIA vs. CHI W 21 4 1 1 100.0 1 1 100.0 1 2 50.0 0 2 2 1 1 0 1 5 -8
+p22
+aVTim Hardaway MIA 04/16/1997 MIA vs. CHI W 40 22 9 20 45.0 3 8 37.5 1 4 25.0 0 3 3 9 4 0 1 0 10
+p23
+aVIke Austin MIA 04/16/1997 MIA vs. CHI W 24 15 7 10 70.0 0 0 - 1 1 100.0 2 3 5 2 0 2 0 3 16
+p24
+aVDan Majerle MIA 04/16/1997 MIA vs. CHI W 30 7 1 3 33.3 1 2 50.0 4 4 100.0 0 2 2 2 1 1 0 2 5
+p25
+aVVoshon Lenard MIA 04/16/1997 MIA vs. CHI W 27 8 3 8 37.5 2 4 50.0 0 0 - 0 0 0 1 0 0 0 4 12
+p26
+aVAlonzo Mourning MIA 04/16/1997 MIA vs. CHI W 35 21 7 12 58.3 0 0 - 7 14 50.0 1 9 10 2 3 0 5 4 3
+p27
+aVP.J. Brown MIA 04/16/1997 MIA vs. CHI W 18 2 1 2 50.0 0 0 - 0 0 - 2 2 4 1 1 0 1 4 7
+p28
+aVAlonzo Mourning MIA 04/14/1997 MIA vs. MIN L 44 20 9 14 64.3 0 0 - 2 2 100.0 4 7 11 4 0 1 5 5 -1
+p29
+aVP.J. Brown MIA 04/14/1997 MIA vs. MIN L 23 4 1 3 33.3 0 0 - 2 2 100.0 1 3 4 1 2 0 2 0 -3
+p30
+aVVoshon Lenard MIA 04/14/1997 MIA vs. MIN L 26 6 3 11 27.3 0 4 0.0 0 0 - 0 3 3 2 0 0 2 1 -3
+p31
+aVTim Hardaway MIA 04/14/1997 MIA vs. MIN L 38 15 6 19 31.6 2 10 20.0 1 3 33.3 1 1 2 8 5 1 1 2 -8
+p32
+aVJamal Mashburn MIA 04/14/1997 MIA vs. MIN L 40 13 6 11 54.5 1 3 33.3 0 0 - 2 2 4 5 1 0 2 1 -10
+p33
+aVJohn Crotty MIA 04/14/1997 MIA vs. MIN L 10 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 1 0 1 2 0
+p34
+aVKeith Askins MIA 04/14/1997 MIA vs. MIN L 22 13 5 7 71.4 2 2 100.0 1 2 50.0 2 3 5 1 0 0 0 0 -5
+p35
+aVIke Austin MIA 04/14/1997 MIA vs. MIN L 14 9 4 5 80.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 3 -5
+p36
+aVDan Majerle MIA 04/14/1997 MIA vs. MIN L 23 5 2 5 40.0 1 3 33.3 0 0 - 0 3 3 2 2 0 2 3 -5
+p37
+aVAlonzo Mourning MIA 04/12/1997 MIA vs. NYK L 24 3 1 4 25.0 0 1 0.0 1 2 50.0 0 4 4 2 1 2 2 5 -4
+p38
+aVJamal Mashburn MIA 04/12/1997 MIA vs. NYK L 45 13 4 13 30.8 1 5 20.0 4 4 100.0 3 4 7 6 3 0 4 6 -2
+p39
+aVP.J. Brown MIA 04/12/1997 MIA vs. NYK L 32 12 5 9 55.6 0 0 - 2 4 50.0 2 3 5 2 2 1 1 6 -7
+p40
+aVJohn Crotty MIA 04/12/1997 MIA vs. NYK L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p41
+aVIke Austin MIA 04/12/1997 MIA vs. NYK L 34 17 8 16 50.0 0 1 0.0 1 2 50.0 2 6 8 0 1 2 1 5 1
+p42
+aVWillie Anderson MIA 04/12/1997 MIA vs. NYK L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p43
+aVVoshon Lenard MIA 04/12/1997 MIA vs. NYK L 39 24 9 17 52.9 4 8 50.0 2 2 100.0 0 3 3 1 0 0 2 4 2
+p44
+aVKeith Askins MIA 04/12/1997 MIA vs. NYK L 23 2 1 2 50.0 0 1 0.0 0 1 0.0 3 0 3 2 1 0 2 3 4
+p45
+aVTim Hardaway MIA 04/12/1997 MIA vs. NYK L 42 28 9 19 47.4 4 11 36.4 6 7 85.7 1 1 2 9 1 0 5 3 0
+p46
+aVJamal Mashburn MIA 04/10/1997 MIA vs. DET W 38 4 1 6 16.7 0 3 0.0 2 2 100.0 1 1 2 4 1 0 3 4 14
+p47
+aVIke Austin MIA 04/10/1997 MIA vs. DET W 19 3 1 3 33.3 0 0 - 1 2 50.0 2 4 6 2 0 1 2 4 5
+p48
+aVKeith Askins MIA 04/10/1997 MIA vs. DET W 6 0 0 3 0.0 0 2 0.0 0 0 - 2 0 2 0 0 0 0 1 -7
+p49
+aVVoshon Lenard MIA 04/10/1997 MIA vs. DET W 43 16 6 11 54.5 4 8 50.0 0 0 - 0 3 3 7 1 0 4 4 13
+p50
+aVDan Majerle MIA 04/10/1997 MIA vs. DET W 23 8 3 8 37.5 2 7 28.6 0 0 - 0 6 6 3 0 1 1 3 5
+p51
+aVAlonzo Mourning MIA 04/10/1997 MIA vs. DET W 34 26 12 15 80.0 0 0 - 2 2 100.0 2 5 7 1 0 5 2 5 5
+p52
+aVP.J. Brown MIA 04/10/1997 MIA vs. DET W 29 6 3 10 30.0 0 0 - 0 0 - 4 6 10 0 3 1 1 3 5
+p53
+aVTim Hardaway MIA 04/10/1997 MIA vs. DET W 48 30 11 21 52.4 5 12 41.7 3 3 100.0 0 3 3 9 1 0 3 3 10
+p54
+aVP.J. Brown MIA 04/08/1997 MIA @ NJN W 23 4 2 4 50.0 0 0 - 0 0 - 1 2 3 0 0 0 2 2 -4
+p55
+aVVoshon Lenard MIA 04/08/1997 MIA @ NJN W 33 15 5 12 41.7 3 7 42.9 2 2 100.0 0 2 2 2 0 1 2 4 6
+p56
+aVDan Majerle MIA 04/08/1997 MIA @ NJN W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p57
+aVIke Austin MIA 04/08/1997 MIA @ NJN W 13 2 1 4 25.0 0 0 - 0 0 - 3 0 3 1 0 0 1 2 -4
+p58
+aVTim Hardaway MIA 04/08/1997 MIA @ NJN W 43 26 10 21 47.6 6 12 50.0 0 2 0.0 0 3 3 5 0 0 3 2 12
+p59
+aVJamal Mashburn MIA 04/08/1997 MIA @ NJN W 40 9 3 7 42.9 2 4 50.0 1 3 33.3 3 2 5 3 2 0 2 6 -4
+p60
+aVJohn Crotty MIA 04/08/1997 MIA @ NJN W 9 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -6
+p61
+aVAlonzo Mourning MIA 04/08/1997 MIA @ NJN W 44 35 13 20 65.0 0 0 - 9 12 75.0 7 11 18 3 1 2 3 3 7
+p62
+aVKeith Askins MIA 04/08/1997 MIA @ NJN W 29 3 1 6 16.7 0 3 0.0 1 2 50.0 2 1 3 0 3 2 1 5 6
+p63
+aVAlonzo Mourning MIA 04/07/1997 MIA @ DET W 40 21 4 11 36.4 0 0 - 13 16 81.3 1 8 9 3 2 1 6 6 10
+p64
+aVP.J. Brown MIA 04/07/1997 MIA @ DET W 37 21 8 13 61.5 0 0 - 5 5 100.0 5 8 13 0 1 0 0 4 14
+p65
+aVJamal Mashburn MIA 04/07/1997 MIA @ DET W 34 11 4 12 33.3 2 5 40.0 1 2 50.0 2 2 4 0 1 0 1 3 0
+p66
+aVTim Hardaway MIA 04/07/1997 MIA @ DET W 41 19 6 18 33.3 1 7 14.3 6 7 85.7 3 5 8 9 1 0 3 0 14
+p67
+aVVoshon Lenard MIA 04/07/1997 MIA @ DET W 34 7 1 4 25.0 1 4 25.0 4 4 100.0 0 6 6 1 0 0 4 2 12
+p68
+aVJohn Crotty MIA 04/07/1997 MIA @ DET W 7 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -8
+p69
+aVDan Majerle MIA 04/07/1997 MIA @ DET W 19 6 2 4 50.0 1 2 50.0 1 2 50.0 3 0 3 2 1 0 0 1 -8
+p70
+aVKeith Askins MIA 04/07/1997 MIA @ DET W 17 3 1 2 50.0 1 2 50.0 0 0 - 0 2 2 1 1 0 0 6 3
+p71
+aVIke Austin MIA 04/07/1997 MIA @ DET W 11 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 1 0 0 2 -7
+p72
+aVVoshon Lenard MIA 04/05/1997 MIA vs. TOR W 25 6 2 5 40.0 2 4 50.0 0 0 - 0 4 4 1 0 0 4 2 13
+p73
+aVMark Strickland MIA 04/05/1997 MIA vs. TOR W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p74
+aVIke Austin MIA 04/05/1997 MIA vs. TOR W 24 14 5 10 50.0 0 0 - 4 6 66.7 1 5 6 0 1 0 1 2 -5
+p75
+aVAlonzo Mourning MIA 04/05/1997 MIA vs. TOR W 29 15 6 11 54.5 0 0 - 3 7 42.9 5 5 10 1 0 2 1 4 19
+p76
+aVJamal Mashburn MIA 04/05/1997 MIA vs. TOR W 42 16 6 13 46.2 0 4 0.0 4 6 66.7 2 5 7 6 2 0 1 2 20
+p77
+aVP.J. Brown MIA 04/05/1997 MIA vs. TOR W 27 8 4 6 66.7 0 0 - 0 0 - 5 8 13 0 0 0 2 3 12
+p78
+aVDan Majerle MIA 04/05/1997 MIA vs. TOR W 20 3 1 3 33.3 0 0 - 1 2 50.0 0 2 2 4 1 0 0 3 -3
+p79
+aVJohn Crotty MIA 04/05/1997 MIA vs. TOR W 12 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 0 0 4 3 -8
+p80
+aVTim Hardaway MIA 04/05/1997 MIA vs. TOR W 38 20 8 18 44.4 1 5 20.0 3 4 75.0 1 2 3 9 3 0 1 1 25
+p81
+aVKeith Askins MIA 04/05/1997 MIA vs. TOR W 20 11 4 7 57.1 3 5 60.0 0 0 - 0 1 1 0 0 2 1 3 0
+p82
+aVDan Majerle MIA 04/03/1997 MIA @ IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -9
+p83
+aVWillie Anderson MIA 04/03/1997 MIA @ IND W 2 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -3
+p84
+aVAlonzo Mourning MIA 04/03/1997 MIA @ IND W 35 17 7 12 58.3 0 0 - 3 4 75.0 1 5 6 4 2 2 3 4 9
+p85
+aVP.J. Brown MIA 04/03/1997 MIA @ IND W 30 9 4 9 44.4 0 0 - 1 2 50.0 2 4 6 3 2 0 0 3 16
+p86
+aVIke Austin MIA 04/03/1997 MIA @ IND W 17 8 3 5 60.0 0 0 - 2 2 100.0 0 1 1 0 2 0 3 3 1
+p87
+aVKeith Askins MIA 04/03/1997 MIA @ IND W 22 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 0 3 0 1 4 3
+p88
+aVVoshon Lenard MIA 04/03/1997 MIA @ IND W 32 15 6 13 46.2 3 8 37.5 0 0 - 1 0 1 0 2 0 1 2 20
+p89
+aVJohn Crotty MIA 04/03/1997 MIA @ IND W 13 8 2 3 66.7 0 0 - 4 5 80.0 1 0 1 1 1 0 2 0 -9
+p90
+aVJamal Mashburn MIA 04/03/1997 MIA @ IND W 42 23 7 14 50.0 5 10 50.0 4 4 100.0 0 7 7 2 2 1 2 3 21
+p91
+aVTim Hardaway MIA 04/03/1997 MIA @ IND W 39 8 2 8 25.0 0 4 0.0 4 4 100.0 0 4 4 11 1 0 4 1 24
+p92
+aVMark Strickland MIA 04/03/1997 MIA @ IND W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p93
+aVIke Austin MIA 04/01/1997 MIA vs. LAC W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -5
+p94
+aVP.J. Brown MIA 04/01/1997 MIA vs. LAC W 45 13 5 7 71.4 0 0 - 3 6 50.0 2 11 13 2 1 2 2 3 21
+p95
+aVJohn Crotty MIA 04/01/1997 MIA vs. LAC W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -19
+p96
+aVKeith Askins MIA 04/01/1997 MIA vs. LAC W 10 3 1 3 33.3 1 2 50.0 0 0 - 2 1 3 0 0 0 1 0 -2
+p97
+aVAlonzo Mourning MIA 04/01/1997 MIA vs. LAC W 42 17 6 9 66.7 0 0 - 5 9 55.6 4 8 12 0 0 1 2 3 0
+p98
+aVJamal Mashburn MIA 04/01/1997 MIA vs. LAC W 36 10 3 8 37.5 0 1 0.0 4 6 66.7 2 6 8 4 2 0 4 4 26
+p99
+aVTim Hardaway MIA 04/01/1997 MIA vs. LAC W 43 26 10 24 41.7 2 8 25.0 4 6 66.7 0 3 3 13 4 0 4 2 27
+p100
+aVVoshon Lenard MIA 04/01/1997 MIA vs. LAC W 39 26 9 14 64.3 6 9 66.7 2 2 100.0 1 4 5 1 0 2 1 2 16
+p101
+aVDan Majerle MIA 04/01/1997 MIA vs. LAC W 14 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 -14
+p102
+aVTim Hardaway MIA 03/30/1997 MIA @ TOR L 42 13 5 11 45.5 3 7 42.9 0 0 - 0 2 2 12 5 0 3 3 7
+p103
+aVWillie Anderson MIA 03/30/1997 MIA @ TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -9
+p104
+aVKeith Askins MIA 03/30/1997 MIA @ TOR L 14 1 0 1 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 1 -14
+p105
+aVJamal Mashburn MIA 03/30/1997 MIA @ TOR L 38 12 5 16 31.3 1 8 12.5 1 2 50.0 0 6 6 5 0 0 1 3 3
+p106
+aVVoshon Lenard MIA 03/30/1997 MIA @ TOR L 40 24 8 15 53.3 5 9 55.6 3 3 100.0 0 6 6 5 2 0 3 1 -1
+p107
+aVP.J. Brown MIA 03/30/1997 MIA @ TOR L 28 4 2 7 28.6 0 0 - 0 0 - 1 4 5 2 3 0 2 3 4
+p108
+aVIke Austin MIA 03/30/1997 MIA @ TOR L 20 12 5 7 71.4 0 0 - 2 2 100.0 1 2 3 1 0 0 2 4 -1
+p109
+aVAlonzo Mourning MIA 03/30/1997 MIA @ TOR L 43 27 10 15 66.7 0 1 0.0 7 16 43.8 3 6 9 0 1 7 3 5 -7
+p110
+aVJohn Crotty MIA 03/30/1997 MIA @ TOR L 12 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 4 -7
+p111
+aVAlonzo Mourning MIA 03/28/1997 MIA vs. CLE W 31 23 8 12 66.7 0 0 - 7 10 70.0 3 9 12 2 2 0 5 5 11
+p112
+aVTim Hardaway MIA 03/28/1997 MIA vs. CLE W 41 13 4 17 23.5 1 8 12.5 4 5 80.0 1 2 3 8 1 0 1 4 -4
+p113
+aVJohn Crotty MIA 03/28/1997 MIA vs. CLE W 21 7 3 4 75.0 0 1 0.0 1 2 50.0 2 1 3 4 0 0 0 1 1
+p114
+aVWillie Anderson MIA 03/28/1997 MIA vs. CLE W 16 2 1 3 33.3 0 1 0.0 0 0 - 0 3 3 1 2 0 2 4 -3
+p115
+aVKeith Askins MIA 03/28/1997 MIA vs. CLE W 24 9 3 4 75.0 2 3 66.7 1 5 20.0 1 1 2 1 1 0 1 2 -1
+p116
+aVVoshon Lenard MIA 03/28/1997 MIA vs. CLE W 25 4 1 10 10.0 1 6 16.7 1 2 50.0 1 6 7 0 0 0 3 3 9
+p117
+aVP.J. Brown MIA 03/28/1997 MIA vs. CLE W 34 13 5 8 62.5 0 0 - 3 5 60.0 5 1 6 1 1 0 1 3 0
+p118
+aVIke Austin MIA 03/28/1997 MIA vs. CLE W 17 6 3 6 50.0 0 0 - 0 0 - 2 3 5 0 0 0 1 2 -8
+p119
+aVJamal Mashburn MIA 03/28/1997 MIA vs. CLE W 32 6 2 10 20.0 0 5 0.0 2 2 100.0 2 4 6 2 3 0 3 5 15
+p120
+aVJohn Crotty MIA 03/26/1997 MIA vs. SAC W 14 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 1 0 0 2 2 -1
+p121
+aVJamal Mashburn MIA 03/26/1997 MIA vs. SAC W 31 8 1 7 14.3 0 2 0.0 6 6 100.0 2 5 7 3 2 0 1 3 1
+p122
+aVAlonzo Mourning MIA 03/26/1997 MIA vs. SAC W 39 26 9 13 69.2 0 0 - 8 11 72.7 3 5 8 1 1 1 3 0 15
+p123
+aVKeith Askins MIA 03/26/1997 MIA vs. SAC W 27 6 2 4 50.0 2 3 66.7 0 0 - 1 2 3 2 1 0 0 4 22
+p124
+aVVoshon Lenard MIA 03/26/1997 MIA vs. SAC W 33 11 4 11 36.4 3 7 42.9 0 0 - 1 2 3 0 0 0 2 3 8
+p125
+aVTim Hardaway MIA 03/26/1997 MIA vs. SAC W 34 26 8 19 42.1 5 10 50.0 5 6 83.3 2 0 2 11 2 0 3 4 14
+p126
+aVIke Austin MIA 03/26/1997 MIA vs. SAC W 21 13 6 11 54.5 0 0 - 1 2 50.0 4 5 9 1 0 0 1 2 11
+p127
+aVP.J. Brown MIA 03/26/1997 MIA vs. SAC W 26 8 3 10 30.0 0 0 - 2 2 100.0 3 4 7 0 1 0 1 4 -10
+p128
+aVWillie Anderson MIA 03/26/1997 MIA vs. SAC W 15 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 1 2 2 5
+p129
+aVIke Austin MIA 03/23/1997 MIA @ MIN W 27 12 5 10 50.0 0 0 - 2 2 100.0 1 3 4 2 1 0 2 6 -8
+p130
+aVWillie Anderson MIA 03/23/1997 MIA @ MIN W 20 10 4 7 57.1 2 3 66.7 0 0 - 1 4 5 1 1 0 0 1 21
+p131
+aVTim Hardaway MIA 03/23/1997 MIA @ MIN W 40 22 6 17 35.3 3 6 50.0 7 8 87.5 0 2 2 8 2 0 3 2 -7
+p132
+aVJohn Crotty MIA 03/23/1997 MIA @ MIN W 11 5 1 2 50.0 1 1 100.0 2 2 100.0 0 0 0 1 0 0 2 3 9
+p133
+aVJamal Mashburn MIA 03/23/1997 MIA @ MIN W 35 16 5 13 38.5 2 5 40.0 4 6 66.7 0 3 3 3 1 0 1 4 6
+p134
+aVMark Strickland MIA 03/23/1997 MIA @ MIN W 4 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 1 0 0 1 -1
+p135
+aVAlonzo Mourning MIA 03/23/1997 MIA @ MIN W 33 21 6 7 85.7 0 0 - 9 16 56.3 0 8 8 3 1 1 2 5 10
+p136
+aVVoshon Lenard MIA 03/23/1997 MIA @ MIN W 43 22 8 11 72.7 3 6 50.0 3 4 75.0 2 5 7 3 0 0 1 1 3
+p137
+aVKeith Askins MIA 03/23/1997 MIA @ MIN W 27 2 1 2 50.0 0 0 - 0 0 - 0 3 3 0 1 0 0 5 -13
+p138
+aVJohn Crotty MIA 03/21/1997 MIA vs. LAL W 14 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -7
+p139
+aVVoshon Lenard MIA 03/21/1997 MIA vs. LAL W 42 25 8 17 47.1 6 12 50.0 3 4 75.0 0 0 0 2 0 0 0 1 6
+p140
+aVIke Austin MIA 03/21/1997 MIA vs. LAL W 36 10 4 13 30.8 0 0 - 2 4 50.0 4 7 11 3 1 0 3 2 -6
+p141
+aVJamal Mashburn MIA 03/21/1997 MIA vs. LAL W 38 21 7 11 63.6 2 4 50.0 5 8 62.5 3 5 8 7 0 0 3 6 11
+p142
+aVTim Hardaway MIA 03/21/1997 MIA vs. LAL W 41 21 7 22 31.8 5 13 38.5 2 3 66.7 1 4 5 7 2 1 3 0 5
+p143
+aVWillie Anderson MIA 03/21/1997 MIA vs. LAL W 24 11 4 6 66.7 1 2 50.0 2 2 100.0 2 1 3 1 1 0 0 2 -9
+p144
+aVKeith Askins MIA 03/21/1997 MIA vs. LAL W 28 3 1 4 25.0 1 4 25.0 0 0 - 1 4 5 3 1 2 1 5 11
+p145
+aVMark Strickland MIA 03/21/1997 MIA vs. LAL W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p146
+aVEd Pinckney MIA 03/21/1997 MIA vs. LAL W 17 7 3 4 75.0 0 0 - 1 2 50.0 1 2 3 0 0 1 0 5 -4
+p147
+aVJamal Mashburn MIA 03/19/1997 MIA vs. GSW W 46 29 9 22 40.9 2 8 25.0 9 12 75.0 2 8 10 3 2 0 0 3 10
+p148
+aVWillie Anderson MIA 03/19/1997 MIA vs. GSW W 12 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 9
+p149
+aVKeith Askins MIA 03/19/1997 MIA vs. GSW W 33 10 4 9 44.4 2 6 33.3 0 0 - 3 5 8 0 2 0 1 3 14
+p150
+aVEd Pinckney MIA 03/19/1997 MIA vs. GSW W 18 7 2 2 100.0 0 0 - 3 3 100.0 3 3 6 0 2 0 2 1 3
+p151
+aVIke Austin MIA 03/19/1997 MIA vs. GSW W 21 2 1 5 20.0 0 0 - 0 0 - 1 3 4 1 1 1 3 4 -19
+p152
+aVVoshon Lenard MIA 03/19/1997 MIA vs. GSW W 39 8 3 8 37.5 0 4 0.0 2 4 50.0 0 6 6 2 0 0 1 5 -11
+p153
+aVP.J. Brown MIA 03/19/1997 MIA vs. GSW W 39 19 9 13 69.2 0 0 - 1 2 50.0 3 7 10 1 4 4 1 5 -1
+p154
+aVJohn Crotty MIA 03/19/1997 MIA vs. GSW W 14 4 2 2 100.0 0 0 - 0 0 - 0 0 0 4 1 0 0 1 8
+p155
+aVTim Hardaway MIA 03/19/1997 MIA vs. GSW W 44 14 4 21 19.0 2 14 14.3 4 6 66.7 0 1 1 9 0 0 0 2 -3
+p156
+aVEd Pinckney MIA 03/16/1997 MIA vs. HOU W 11 4 2 6 33.3 0 0 - 0 2 0.0 4 0 4 0 0 1 1 4 8
+p157
+aVMatt Fish MIA 03/16/1997 MIA vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p158
+aVVoshon Lenard MIA 03/16/1997 MIA vs. HOU W 38 18 6 14 42.9 2 9 22.2 4 4 100.0 2 4 6 2 0 0 3 3 16
+p159
+aVWillie Anderson MIA 03/16/1997 MIA vs. HOU W 6 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 1 2 0 0 0 0
+p160
+aVTim Hardaway MIA 03/16/1997 MIA vs. HOU W 40 31 12 25 48.0 6 13 46.2 1 1 100.0 1 2 3 9 0 0 3 0 19
+p161
+aVP.J. Brown MIA 03/16/1997 MIA vs. HOU W 40 15 4 9 44.4 0 0 - 7 8 87.5 4 5 9 2 2 2 0 2 11
+p162
+aVJohn Crotty MIA 03/16/1997 MIA vs. HOU W 12 4 1 3 33.3 0 2 0.0 2 2 100.0 1 0 1 2 0 0 1 1 6
+p163
+aVBruce Bowen MIA 03/16/1997 MIA vs. HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 3
+p164
+aVKeith Askins MIA 03/16/1997 MIA vs. HOU W 28 0 0 4 0.0 0 1 0.0 0 0 - 4 3 7 1 4 0 1 2 17
+p165
+aVIke Austin MIA 03/16/1997 MIA vs. HOU W 35 18 8 12 66.7 0 0 - 2 3 66.7 1 8 9 1 0 1 4 3 7
+p166
+aVJamal Mashburn MIA 03/16/1997 MIA vs. HOU W 28 9 3 6 50.0 1 2 50.0 2 3 66.7 1 11 12 2 0 0 0 4 15
+p167
+aVEd Pinckney MIA 03/14/1997 MIA vs. VAN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 2 1 0 2 -1
+p168
+aVKeith Askins MIA 03/14/1997 MIA vs. VAN W 31 13 5 8 62.5 3 5 60.0 0 0 - 0 4 4 0 1 0 1 2 12
+p169
+aVWillie Anderson MIA 03/14/1997 MIA vs. VAN W 10 2 1 2 50.0 0 0 - 0 0 - 2 3 5 4 1 0 2 1 7
+p170
+aVJamal Mashburn MIA 03/14/1997 MIA vs. VAN W 28 11 4 8 50.0 1 2 50.0 2 2 100.0 0 2 2 0 0 0 2 3 0
+p171
+aVTim Hardaway MIA 03/14/1997 MIA vs. VAN W 42 19 8 22 36.4 3 11 27.3 0 0 - 0 1 1 12 3 0 4 1 7
+p172
+aVIke Austin MIA 03/14/1997 MIA vs. VAN W 33 10 4 11 36.4 0 0 - 2 2 100.0 1 4 5 3 1 1 5 5 -1
+p173
+aVP.J. Brown MIA 03/14/1997 MIA vs. VAN W 44 14 6 13 46.2 0 0 - 2 4 50.0 4 4 8 3 2 6 0 3 8
+p174
+aVVoshon Lenard MIA 03/14/1997 MIA vs. VAN W 38 17 6 9 66.7 3 5 60.0 2 2 100.0 0 3 3 1 1 0 2 3 -1
+p175
+aVJohn Crotty MIA 03/14/1997 MIA vs. VAN W 8 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 0 0 0 0 0 -1
+p176
+aVJohn Crotty MIA 03/11/1997 MIA @ MIL W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 1 -5
+p177
+aVEd Pinckney MIA 03/11/1997 MIA @ MIL W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p178
+aVIke Austin MIA 03/11/1997 MIA @ MIL W 39 26 9 11 81.8 0 0 - 8 10 80.0 3 7 10 3 1 2 3 4 15
+p179
+aVTim Hardaway MIA 03/11/1997 MIA @ MIL W 43 29 11 25 44.0 6 12 50.0 1 1 100.0 1 4 5 12 2 0 1 2 15
+p180
+aVWillie Anderson MIA 03/11/1997 MIA @ MIL W 20 10 4 6 66.7 1 2 50.0 1 1 100.0 0 0 0 1 1 0 0 2 16
+p181
+aVJamal Mashburn MIA 03/11/1997 MIA @ MIL W 37 10 3 6 50.0 1 2 50.0 3 4 75.0 0 5 5 5 1 0 1 4 9
+p182
+aVVoshon Lenard MIA 03/11/1997 MIA @ MIL W 22 9 4 9 44.4 0 1 0.0 1 1 100.0 0 1 1 2 0 0 3 4 2
+p183
+aVKeith Askins MIA 03/11/1997 MIA @ MIL W 18 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 2 0 8
+p184
+aVP.J. Brown MIA 03/11/1997 MIA @ MIL W 44 19 8 14 57.1 0 0 - 3 4 75.0 7 8 15 2 1 1 1 3 14
+p185
+aVP.J. Brown MIA 03/09/1997 MIA @ CHH L 40 9 4 11 36.4 0 0 - 1 4 25.0 4 8 12 1 2 2 2 3 -4
+p186
+aVTim Hardaway MIA 03/09/1997 MIA @ CHH L 42 31 11 24 45.8 3 10 30.0 6 7 85.7 1 3 4 4 4 0 2 0 -5
+p187
+aVKeith Askins MIA 03/09/1997 MIA @ CHH L 33 2 1 6 16.7 0 1 0.0 0 0 - 1 9 10 4 0 0 1 5 -5
+p188
+aVEd Pinckney MIA 03/09/1997 MIA @ CHH L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -13
+p189
+aVIke Austin MIA 03/09/1997 MIA @ CHH L 31 17 7 20 35.0 0 0 - 3 6 50.0 7 1 8 1 0 0 6 3 -5
+p190
+aVVoshon Lenard MIA 03/09/1997 MIA @ CHH L 25 4 2 7 28.6 0 4 0.0 0 0 - 0 0 0 1 2 1 0 1 -16
+p191
+aVJohn Crotty MIA 03/09/1997 MIA @ CHH L 23 9 4 7 57.1 0 0 - 1 2 50.0 1 1 2 3 2 0 0 3 13
+p192
+aVWillie Anderson MIA 03/09/1997 MIA @ CHH L 8 4 1 4 25.0 0 0 - 2 2 100.0 4 0 4 0 0 0 0 0 -3
+p193
+aVJamal Mashburn MIA 03/09/1997 MIA @ CHH L 35 0 0 10 0.0 0 6 0.0 0 0 - 0 5 5 1 0 0 1 4 8
+p194
+aVJohn Crotty MIA 03/07/1997 MIA @ WAS W 15 4 1 1 100.0 0 0 - 2 2 100.0 1 2 3 2 0 0 1 2 9
+p195
+aVMark Strickland MIA 03/07/1997 MIA @ WAS W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 5
+p196
+aVKeith Askins MIA 03/07/1997 MIA @ WAS W 23 5 2 4 50.0 1 2 50.0 0 0 - 1 2 3 0 0 0 0 6 0
+p197
+aVP.J. Brown MIA 03/07/1997 MIA @ WAS W 26 3 1 3 33.3 0 0 - 1 1 100.0 0 4 4 0 0 0 3 6 -9
+p198
+aVIke Austin MIA 03/07/1997 MIA @ WAS W 43 20 7 17 41.2 0 0 - 6 8 75.0 6 7 13 2 1 1 8 4 1
+p199
+aVJamal Mashburn MIA 03/07/1997 MIA @ WAS W 50 23 9 17 52.9 3 6 50.0 2 2 100.0 1 7 8 4 2 1 2 5 3
+p200
+aVEd Pinckney MIA 03/07/1997 MIA @ WAS W 10 2 0 0 - 0 0 - 2 2 100.0 2 1 3 0 1 0 1 1 0
+p201
+aVVoshon Lenard MIA 03/07/1997 MIA @ WAS W 45 6 3 9 33.3 0 4 0.0 0 1 0.0 1 4 5 5 1 0 2 3 -5
+p202
+aVTim Hardaway MIA 03/07/1997 MIA @ WAS W 51 45 13 25 52.0 6 12 50.0 13 14 92.9 1 6 7 7 4 0 6 3 1
+p203
+aVJamal Mashburn MIA 03/06/1997 MIA vs. WAS L 40 19 6 17 35.3 2 5 40.0 5 7 71.4 0 4 4 6 5 0 1 3 2
+p204
+aVJohn Crotty MIA 03/06/1997 MIA vs. WAS L 17 8 3 4 75.0 1 2 50.0 1 2 50.0 0 1 1 2 0 0 0 3 -4
+p205
+aVP.J. Brown MIA 03/06/1997 MIA vs. WAS L 42 11 3 9 33.3 0 0 - 5 6 83.3 2 8 10 0 1 1 1 4 -4
+p206
+aVIke Austin MIA 03/06/1997 MIA vs. WAS L 38 19 7 13 53.8 0 0 - 5 5 100.0 2 7 9 3 0 2 4 2 2
+p207
+aVTim Hardaway MIA 03/06/1997 MIA vs. WAS L 40 16 6 22 27.3 3 8 37.5 1 1 100.0 1 6 7 7 1 1 3 6 3
+p208
+aVKeith Askins MIA 03/06/1997 MIA vs. WAS L 19 5 2 3 66.7 1 1 100.0 0 0 - 3 2 5 2 0 0 0 1 -10
+p209
+aVEd Pinckney MIA 03/06/1997 MIA vs. WAS L 5 1 0 0 - 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -2
+p210
+aVVoshon Lenard MIA 03/06/1997 MIA vs. WAS L 39 16 6 14 42.9 2 7 28.6 2 2 100.0 0 2 2 2 1 1 3 3 -7
+p211
+aVTim Hardaway MIA 03/04/1997 MIA @ DET W 45 28 10 20 50.0 4 9 44.4 4 4 100.0 1 3 4 16 1 0 3 1 12
+p212
+aVKeith Askins MIA 03/04/1997 MIA @ DET W 26 7 3 4 75.0 1 2 50.0 0 0 - 1 3 4 0 1 0 1 3 5
+p213
+aVWillie Anderson MIA 03/04/1997 MIA @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p214
+aVEd Pinckney MIA 03/04/1997 MIA @ DET W 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 2 -5
+p215
+aVVoshon Lenard MIA 03/04/1997 MIA @ DET W 41 21 8 12 66.7 5 7 71.4 0 1 0.0 1 0 1 4 3 0 1 3 12
+p216
+aVJohn Crotty MIA 03/04/1997 MIA @ DET W 11 2 0 0 - 0 0 - 2 2 100.0 0 0 0 3 0 0 1 3 -8
+p217
+aVJamal Mashburn MIA 03/04/1997 MIA @ DET W 37 18 7 14 50.0 3 6 50.0 1 2 50.0 1 3 4 2 0 0 2 3 7
+p218
+aVIke Austin MIA 03/04/1997 MIA @ DET W 32 14 7 12 58.3 0 0 - 0 0 - 1 4 5 0 1 0 1 4 12
+p219
+aVP.J. Brown MIA 03/04/1997 MIA @ DET W 39 18 6 13 46.2 0 0 - 6 6 100.0 3 8 11 0 0 0 1 1 10
+p220
+aVJohn Crotty MIA 03/02/1997 MIA vs. SAS W 12 4 1 5 20.0 0 3 0.0 2 2 100.0 0 0 0 3 2 0 1 3 7
+p221
+aVWillie Anderson MIA 03/02/1997 MIA vs. SAS W 4 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 2 -6
+p222
+aVEd Pinckney MIA 03/02/1997 MIA vs. SAS W 14 2 1 1 100.0 0 0 - 0 0 - 2 2 4 0 0 0 2 1 5
+p223
+aVTim Hardaway MIA 03/02/1997 MIA vs. SAS W 41 11 5 11 45.5 1 3 33.3 0 0 - 2 3 5 10 0 0 1 1 6
+p224
+aVP.J. Brown MIA 03/02/1997 MIA vs. SAS W 40 16 7 13 53.8 0 0 - 2 3 66.7 2 9 11 1 0 2 1 4 4
+p225
+aVIke Austin MIA 03/02/1997 MIA vs. SAS W 38 15 6 16 37.5 0 0 - 3 6 50.0 3 12 15 1 1 1 4 5 5
+p226
+aVJamal Mashburn MIA 03/02/1997 MIA vs. SAS W 38 15 6 13 46.2 3 6 50.0 0 2 0.0 0 1 1 3 0 1 2 3 10
+p227
+aVVoshon Lenard MIA 03/02/1997 MIA vs. SAS W 35 9 3 8 37.5 2 6 33.3 1 2 50.0 0 2 2 3 1 2 0 2 2
+p228
+aVKeith Askins MIA 03/02/1997 MIA vs. SAS W 18 6 2 3 66.7 2 3 66.7 0 0 - 0 2 2 2 2 0 2 2 2
+p229
+aVJamal Mashburn MIA 02/28/1997 MIA vs. SEA L 35 8 1 11 9.1 0 2 0.0 6 7 85.7 0 5 5 4 0 0 3 6 -11
+p230
+aVP.J. Brown MIA 02/28/1997 MIA vs. SEA L 38 12 5 9 55.6 0 0 - 2 2 100.0 4 5 9 1 1 2 2 4 5
+p231
+aVTim Hardaway MIA 02/28/1997 MIA vs. SEA L 41 29 9 19 47.4 6 12 50.0 5 5 100.0 2 7 9 11 0 0 4 1 2
+p232
+aVIke Austin MIA 02/28/1997 MIA vs. SEA L 41 18 7 15 46.7 0 0 - 4 6 66.7 4 4 8 1 1 2 4 3 -6
+p233
+aVVoshon Lenard MIA 02/28/1997 MIA vs. SEA L 43 20 7 13 53.8 5 9 55.6 1 2 50.0 1 4 5 1 1 0 1 4 6
+p234
+aVKeith Askins MIA 02/28/1997 MIA vs. SEA L 25 1 0 6 0.0 0 4 0.0 1 2 50.0 0 5 5 2 0 0 0 2 3
+p235
+aVJohn Crotty MIA 02/28/1997 MIA vs. SEA L 17 7 3 5 60.0 0 2 0.0 1 2 50.0 0 1 1 3 0 0 1 2 -4
+p236
+aVVoshon Lenard MIA 02/26/1997 MIA @ ORL L 41 7 1 8 12.5 0 7 0.0 5 6 83.3 0 3 3 5 2 2 4 2 -13
+p237
+aVP.J. Brown MIA 02/26/1997 MIA @ ORL L 41 15 6 12 50.0 0 0 - 3 4 75.0 5 3 8 0 2 0 2 4 -11
+p238
+aVWillie Anderson MIA 02/26/1997 MIA @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -4
+p239
+aVKeith Askins MIA 02/26/1997 MIA @ ORL L 28 7 2 4 50.0 1 3 33.3 2 3 66.7 4 3 7 1 1 1 3 4 -5
+p240
+aVJohn Crotty MIA 02/26/1997 MIA @ ORL L 21 6 3 6 50.0 0 1 0.0 0 0 - 0 0 0 4 1 0 2 4 1
+p241
+aVTim Hardaway MIA 02/26/1997 MIA @ ORL L 35 16 4 16 25.0 2 10 20.0 6 6 100.0 0 2 2 4 0 0 7 6 -8
+p242
+aVJamal Mashburn MIA 02/26/1997 MIA @ ORL L 39 21 9 17 52.9 3 7 42.9 0 0 - 2 6 8 4 2 0 1 3 -9
+p243
+aVIke Austin MIA 02/26/1997 MIA @ ORL L 32 14 7 11 63.6 0 0 - 0 0 - 1 4 5 1 1 1 2 3 -11
+p244
+aVVoshon Lenard MIA 02/23/1997 MIA vs. DEN W 34 14 5 10 50.0 4 7 57.1 0 0 - 0 2 2 1 0 1 3 4 -14
+p245
+aVJamal Mashburn MIA 02/23/1997 MIA vs. DEN W 35 11 4 13 30.8 0 4 0.0 3 3 100.0 1 5 6 4 1 0 2 4 21
+p246
+aVKeith Askins MIA 02/23/1997 MIA vs. DEN W 35 11 4 10 40.0 3 5 60.0 0 2 0.0 3 7 10 1 3 0 0 3 18
+p247
+aVIke Austin MIA 02/23/1997 MIA vs. DEN W 38 15 6 11 54.5 0 0 - 3 3 100.0 1 8 9 4 1 1 3 3 16
+p248
+aVJohn Crotty MIA 02/23/1997 MIA vs. DEN W 19 13 5 8 62.5 3 4 75.0 0 0 - 1 0 1 5 0 0 1 1 21
+p249
+aVP.J. Brown MIA 02/23/1997 MIA vs. DEN W 31 11 3 8 37.5 0 0 - 5 6 83.3 6 5 11 0 1 1 0 3 -10
+p250
+aVTim Hardaway MIA 02/23/1997 MIA vs. DEN W 38 14 5 20 25.0 1 4 25.0 3 3 100.0 0 2 2 6 3 0 3 2 -2
+p251
+aVEd Pinckney MIA 02/23/1997 MIA vs. DEN W 10 6 2 4 50.0 0 0 - 2 3 66.7 2 2 4 0 0 0 0 0 -5
+p252
+aVEd Pinckney MIA 02/21/1997 MIA vs. POR L 15 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -7
+p253
+aVP.J. Brown MIA 02/21/1997 MIA vs. POR L 42 6 3 9 33.3 0 0 - 0 0 - 3 8 11 2 2 1 1 5 1
+p254
+aVIke Austin MIA 02/21/1997 MIA vs. POR L 36 16 4 11 36.4 0 0 - 8 13 61.5 2 12 14 1 0 2 1 5 -20
+p255
+aVMark Strickland MIA 02/21/1997 MIA vs. POR L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 1
+p256
+aVVoshon Lenard MIA 02/21/1997 MIA vs. POR L 41 29 9 17 52.9 7 12 58.3 4 4 100.0 2 4 6 1 1 0 2 3 -9
+p257
+aVJamal Mashburn MIA 02/21/1997 MIA vs. POR L 33 14 4 7 57.1 4 5 80.0 2 4 50.0 1 1 2 2 1 0 0 5 2
+p258
+aVAlonzo Mourning MIA 02/21/1997 MIA vs. POR L 16 17 5 9 55.6 0 0 - 7 9 77.8 1 1 2 0 0 0 2 3 10
+p259
+aVTim Hardaway MIA 02/21/1997 MIA vs. POR L 41 16 4 17 23.5 0 7 0.0 8 10 80.0 2 2 4 11 1 1 4 1 2
+p260
+aVJohn Crotty MIA 02/21/1997 MIA vs. POR L 15 10 2 6 33.3 1 2 50.0 5 5 100.0 2 2 4 4 0 0 1 2 0
+p261
+aVJohn Crotty MIA 02/20/1997 MIA @ NJN W 19 7 3 6 50.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 0 1 -1
+p262
+aVVoshon Lenard MIA 02/20/1997 MIA @ NJN W 38 5 2 6 33.3 1 5 20.0 0 0 - 1 8 9 2 0 0 4 3 0
+p263
+aVTim Hardaway MIA 02/20/1997 MIA @ NJN W 43 35 12 24 50.0 5 10 50.0 6 6 100.0 0 2 2 6 3 0 2 3 9
+p264
+aVJamal Mashburn MIA 02/20/1997 MIA @ NJN W 41 10 3 11 27.3 0 2 0.0 4 6 66.7 3 3 6 3 1 1 3 4 3
+p265
+aVIke Austin MIA 02/20/1997 MIA @ NJN W 19 10 4 5 80.0 0 0 - 2 2 100.0 3 3 6 1 1 1 2 1 5
+p266
+aVAlonzo Mourning MIA 02/20/1997 MIA @ NJN W 42 16 7 14 50.0 0 0 - 2 4 50.0 1 8 9 0 0 2 5 3 15
+p267
+aVP.J. Brown MIA 02/20/1997 MIA @ NJN W 39 9 3 12 25.0 0 0 - 3 4 75.0 6 11 17 3 2 2 0 4 -6
+p268
+aVEd Pinckney MIA 02/18/1997 MIA @ PHI W 14 2 0 0 - 0 0 - 2 2 100.0 1 3 4 0 0 0 2 2 10
+p269
+aVTim Hardaway MIA 02/18/1997 MIA @ PHI W 37 29 11 21 52.4 4 9 44.4 3 4 75.0 0 1 1 6 2 0 3 4 18
+p270
+aVMark Strickland MIA 02/18/1997 MIA @ PHI W 6 2 0 2 0.0 0 0 - 2 2 100.0 0 1 1 0 1 1 0 1 9
+p271
+aVJohn Crotty MIA 02/18/1997 MIA @ PHI W 24 12 4 9 44.4 2 2 100.0 2 2 100.0 1 3 4 5 0 0 1 0 26
+p272
+aVAlonzo Mourning MIA 02/18/1997 MIA @ PHI W 27 14 6 10 60.0 0 0 - 2 2 100.0 3 7 10 1 0 6 2 4 15
+p273
+aVKeith Askins MIA 02/18/1997 MIA @ PHI W 8 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 0 1 -1
+p274
+aVVoshon Lenard MIA 02/18/1997 MIA @ PHI W 33 11 4 12 33.3 1 6 16.7 2 2 100.0 1 5 6 4 1 0 0 2 9
+p275
+aVP.J. Brown MIA 02/18/1997 MIA @ PHI W 32 12 5 14 35.7 0 0 - 2 2 100.0 2 7 9 0 1 2 1 4 11
+p276
+aVIke Austin MIA 02/18/1997 MIA @ PHI W 20 12 5 9 55.6 0 0 - 2 2 100.0 1 6 7 1 0 1 0 3 11
+p277
+aVWillie Anderson MIA 02/18/1997 MIA @ PHI W 12 2 0 0 - 0 0 - 2 2 100.0 0 0 0 1 0 0 0 3 4
+p278
+aVJamal Mashburn MIA 02/18/1997 MIA @ PHI W 26 15 6 10 60.0 1 4 25.0 2 2 100.0 0 5 5 2 1 0 0 4 28
+p279
+aVMark Strickland MIA 02/15/1997 MIA vs. PHI W 9 4 2 3 66.7 0 0 - 0 0 - 1 1 2 1 0 1 0 3 -2
+p280
+aVAlonzo Mourning MIA 02/15/1997 MIA vs. PHI W 34 24 10 14 71.4 0 0 - 4 7 57.1 3 7 10 2 0 4 1 3 31
+p281
+aVP.J. Brown MIA 02/15/1997 MIA vs. PHI W 28 16 8 12 66.7 0 0 - 0 0 - 3 7 10 2 3 3 0 4 18
+p282
+aVVoshon Lenard MIA 02/15/1997 MIA vs. PHI W 31 24 8 13 61.5 8 11 72.7 0 0 - 0 0 0 8 1 0 3 2 23
+p283
+aVWillie Anderson MIA 02/15/1997 MIA vs. PHI W 14 10 3 4 75.0 2 3 66.7 2 2 100.0 0 1 1 1 1 1 1 1 3
+p284
+aVEd Pinckney MIA 02/15/1997 MIA vs. PHI W 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 3 0 -4
+p285
+aVIke Austin MIA 02/15/1997 MIA vs. PHI W 18 4 2 4 50.0 0 0 - 0 0 - 5 5 10 3 0 1 2 4 9
+p286
+aVJohn Crotty MIA 02/15/1997 MIA vs. PHI W 20 6 2 6 33.3 0 1 0.0 2 2 100.0 0 0 0 6 0 0 1 1 2
+p287
+aVKeith Askins MIA 02/15/1997 MIA vs. PHI W 16 6 3 6 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 4 9
+p288
+aVJamal Mashburn MIA 02/15/1997 MIA vs. PHI W 32 14 5 12 41.7 3 8 37.5 1 2 50.0 1 2 3 3 3 0 3 3 16
+p289
+aVTim Hardaway MIA 02/15/1997 MIA vs. PHI W 29 15 4 14 28.6 4 10 40.0 3 4 75.0 0 2 2 13 3 0 1 1 25
+p290
+aVAlonzo Mourning MIA 02/13/1997 MIA vs. IND W 35 29 9 10 90.0 0 0 - 11 16 68.8 1 12 13 0 3 3 1 4 24
+p291
+aVMark Strickland MIA 02/13/1997 MIA vs. IND W 5 0 0 4 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -8
+p292
+aVIke Austin MIA 02/13/1997 MIA vs. IND W 15 6 2 4 50.0 0 0 - 2 4 50.0 1 3 4 0 0 1 5 5 -2
+p293
+aVWillie Anderson MIA 02/13/1997 MIA vs. IND W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -7
+p294
+aVEd Pinckney MIA 02/13/1997 MIA vs. IND W 6 0 0 0 - 0 0 - 0 0 - 0 3 3 0 2 0 0 0 -3
+p295
+aVP.J. Brown MIA 02/13/1997 MIA vs. IND W 35 8 4 7 57.1 0 0 - 0 0 - 2 4 6 3 2 2 2 5 21
+p296
+aVVoshon Lenard MIA 02/13/1997 MIA vs. IND W 38 20 8 16 50.0 4 10 40.0 0 0 - 0 3 3 3 1 1 2 3 32
+p297
+aVTim Hardaway MIA 02/13/1997 MIA vs. IND W 33 18 6 13 46.2 2 5 40.0 4 5 80.0 1 2 3 14 4 0 4 2 18
+p298
+aVJohn Crotty MIA 02/13/1997 MIA vs. IND W 16 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 3 1 0 0 1 -2
+p299
+aVSasha Danilovic MIA 02/13/1997 MIA vs. IND W 18 2 0 2 0.0 0 2 0.0 2 2 100.0 0 2 2 0 0 1 3 3 -1
+p300
+aVMartin Muursepp MIA 02/13/1997 MIA vs. IND W 4 4 1 3 33.3 1 2 50.0 1 2 50.0 1 0 1 0 0 0 0 0 -7
+p301
+aVKeith Askins MIA 02/13/1997 MIA vs. IND W 31 15 4 9 44.4 2 6 33.3 5 5 100.0 0 2 2 2 2 0 0 4 15
+p302
+aVP.J. Brown MIA 02/11/1997 MIA vs. DET W 39 10 5 10 50.0 0 0 - 0 0 - 4 6 10 0 1 0 1 4 11
+p303
+aVKeith Askins MIA 02/11/1997 MIA vs. DET W 22 8 3 5 60.0 1 3 33.3 1 1 100.0 1 3 4 2 0 0 1 2 7
+p304
+aVTim Hardaway MIA 02/11/1997 MIA vs. DET W 37 31 11 17 64.7 3 8 37.5 6 6 100.0 1 2 3 10 3 0 2 1 24
+p305
+aVSasha Danilovic MIA 02/11/1997 MIA vs. DET W 30 14 6 13 46.2 2 6 33.3 0 1 0.0 1 4 5 2 0 0 1 0 -3
+p306
+aVIke Austin MIA 02/11/1997 MIA vs. DET W 18 10 5 8 62.5 0 0 - 0 0 - 0 2 2 0 0 0 5 3 -8
+p307
+aVJohn Crotty MIA 02/11/1997 MIA vs. DET W 14 2 0 2 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 1 -16
+p308
+aVMark Strickland MIA 02/11/1997 MIA vs. DET W 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 1 -7
+p309
+aVVoshon Lenard MIA 02/11/1997 MIA vs. DET W 38 0 0 5 0.0 0 3 0.0 0 0 - 0 5 5 3 1 0 1 4 34
+p310
+aVMartin Muursepp MIA 02/11/1997 MIA vs. DET W 2 0 0 1 0.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 1 -7
+p311
+aVAlonzo Mourning MIA 02/11/1997 MIA vs. DET W 36 29 10 14 71.4 0 0 - 9 19 47.4 3 8 11 2 1 5 3 4 30
+p312
+aVMark Strickland MIA 02/06/1997 MIA vs. MIL W 8 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -13
+p313
+aVJohn Crotty MIA 02/06/1997 MIA vs. MIL W 14 0 0 1 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 -5
+p314
+aVMartin Muursepp MIA 02/06/1997 MIA vs. MIL W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p315
+aVIke Austin MIA 02/06/1997 MIA vs. MIL W 32 14 5 7 71.4 0 0 - 4 4 100.0 1 11 12 3 0 1 2 5 16
+p316
+aVEd Pinckney MIA 02/06/1997 MIA vs. MIL W 26 11 4 6 66.7 0 0 - 3 3 100.0 3 5 8 2 0 3 4 3 4
+p317
+aVP.J. Brown MIA 02/06/1997 MIA vs. MIL W 29 3 0 6 0.0 0 0 - 3 4 75.0 2 4 6 3 2 1 2 5 17
+p318
+aVVoshon Lenard MIA 02/06/1997 MIA vs. MIL W 40 38 13 20 65.0 6 11 54.5 6 7 85.7 2 2 4 4 0 0 2 5 26
+p319
+aVKeith Askins MIA 02/06/1997 MIA vs. MIL W 27 12 3 5 60.0 2 3 66.7 4 4 100.0 0 2 2 3 1 0 1 2 1
+p320
+aVTim Hardaway MIA 02/06/1997 MIA vs. MIL W 38 22 9 18 50.0 1 8 12.5 3 3 100.0 0 2 2 9 1 0 3 3 13
+p321
+aVSasha Danilovic MIA 02/06/1997 MIA vs. MIL W 24 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 1 0 1 5 4
+p322
+aVMark Strickland MIA 02/05/1997 MIA @ BOS W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p323
+aVTim Hardaway MIA 02/05/1997 MIA @ BOS W 39 23 8 18 44.4 5 10 50.0 2 4 50.0 0 2 2 15 3 0 3 3 12
+p324
+aVP.J. Brown MIA 02/05/1997 MIA @ BOS W 28 13 4 8 50.0 0 0 - 5 7 71.4 3 8 11 1 1 0 4 4 7
+p325
+aVVoshon Lenard MIA 02/05/1997 MIA @ BOS W 44 28 9 13 69.2 4 7 57.1 6 7 85.7 0 1 1 3 0 0 1 5 -3
+p326
+aVEd Pinckney MIA 02/05/1997 MIA @ BOS W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -6
+p327
+aVIke Austin MIA 02/05/1997 MIA @ BOS W 28 17 7 9 77.8 0 0 - 3 4 75.0 4 5 9 3 0 0 3 3 10
+p328
+aVSasha Danilovic MIA 02/05/1997 MIA @ BOS W 14 5 2 7 28.6 1 4 25.0 0 0 - 0 0 0 1 1 0 1 3 -7
+p329
+aVKeith Askins MIA 02/05/1997 MIA @ BOS W 22 3 1 3 33.3 1 3 33.3 0 0 - 0 2 2 1 0 0 2 6 -1
+p330
+aVJohn Crotty MIA 02/05/1997 MIA @ BOS W 13 6 2 2 100.0 0 0 - 2 2 100.0 0 1 1 2 1 0 1 2 -9
+p331
+aVAlonzo Mourning MIA 02/05/1997 MIA @ BOS W 38 21 8 10 80.0 0 0 - 5 8 62.5 3 8 11 2 1 5 3 4 8
+p332
+aVWillie Anderson MIA 02/05/1997 MIA @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 2 2 1 1 0 0 0 -3
+p333
+aVTim Hardaway MIA 02/02/1997 MIA vs. CLE W 37 20 4 12 33.3 0 4 0.0 12 16 75.0 1 3 4 4 2 1 1 2 6
+p334
+aVP.J. Brown MIA 02/02/1997 MIA vs. CLE W 38 2 1 6 16.7 0 0 - 0 0 - 2 4 6 2 0 1 2 6 1
+p335
+aVVoshon Lenard MIA 02/02/1997 MIA vs. CLE W 37 13 4 9 44.4 3 7 42.9 2 2 100.0 0 6 6 4 1 2 2 2 15
+p336
+aVJohn Crotty MIA 02/02/1997 MIA vs. CLE W 25 13 5 7 71.4 3 4 75.0 0 0 - 0 1 1 0 1 0 1 1 4
+p337
+aVKeith Askins MIA 02/02/1997 MIA vs. CLE W 17 2 1 4 25.0 0 1 0.0 0 0 - 1 1 2 2 0 0 2 1 -10
+p338
+aVIke Austin MIA 02/02/1997 MIA vs. CLE W 21 5 1 6 16.7 0 0 - 3 4 75.0 2 6 8 2 1 0 1 3 9
+p339
+aVAlonzo Mourning MIA 02/02/1997 MIA vs. CLE W 36 15 5 10 50.0 0 0 - 5 9 55.6 2 9 11 4 0 2 2 5 -1
+p340
+aVSasha Danilovic MIA 02/02/1997 MIA vs. CLE W 28 10 4 8 50.0 2 5 40.0 0 0 - 0 3 3 0 1 0 1 0 -4
+p341
+aVTim Hardaway MIA 02/01/1997 MIA @ CLE W 38 11 3 14 21.4 0 5 0.0 5 5 100.0 0 2 2 9 3 0 2 1 -3
+p342
+aVKeith Askins MIA 02/01/1997 MIA @ CLE W 44 5 1 9 11.1 0 6 0.0 3 3 100.0 3 5 8 2 2 1 2 2 1
+p343
+aVVoshon Lenard MIA 02/01/1997 MIA @ CLE W 26 7 3 7 42.9 1 5 20.0 0 0 - 0 2 2 2 0 0 3 3 -2
+p344
+aVP.J. Brown MIA 02/01/1997 MIA @ CLE W 36 12 3 10 30.0 0 0 - 6 6 100.0 4 9 13 3 1 2 1 2 -2
+p345
+aVAlonzo Mourning MIA 02/01/1997 MIA @ CLE W 40 15 7 10 70.0 0 0 - 1 2 50.0 0 9 9 1 0 2 5 5 7
+p346
+aVJohn Crotty MIA 02/01/1997 MIA @ CLE W 11 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 0 1 0 0 3 8
+p347
+aVIke Austin MIA 02/01/1997 MIA @ CLE W 15 6 3 5 60.0 0 0 - 0 3 0.0 0 3 3 1 0 0 2 1 1
+p348
+aVSasha Danilovic MIA 02/01/1997 MIA @ CLE W 31 10 3 7 42.9 2 6 33.3 2 2 100.0 0 1 1 2 1 0 1 1 15
+p349
+aVKeith Askins MIA 01/29/1997 MIA vs. BOS W 33 7 3 6 50.0 1 2 50.0 0 0 - 0 3 3 2 1 0 2 4 22
+p350
+aVVoshon Lenard MIA 01/29/1997 MIA vs. BOS W 27 20 8 14 57.1 2 6 33.3 2 2 100.0 2 3 5 6 2 0 0 3 15
+p351
+aVP.J. Brown MIA 01/29/1997 MIA vs. BOS W 29 7 3 8 37.5 0 2 0.0 1 2 50.0 1 8 9 1 2 2 0 4 8
+p352
+aVAlonzo Mourning MIA 01/29/1997 MIA vs. BOS W 43 24 11 16 68.8 0 0 - 2 4 50.0 6 9 15 4 0 5 4 4 19
+p353
+aVSasha Danilovic MIA 01/29/1997 MIA vs. BOS W 25 8 3 9 33.3 2 6 33.3 0 1 0.0 0 0 0 4 1 0 3 1 6
+p354
+aVIke Austin MIA 01/29/1997 MIA vs. BOS W 27 14 7 11 63.6 0 0 - 0 0 - 2 8 10 1 0 1 2 6 3
+p355
+aVEd Pinckney MIA 01/29/1997 MIA vs. BOS W 6 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 0 6
+p356
+aVTim Hardaway MIA 01/29/1997 MIA vs. BOS W 33 15 6 12 50.0 2 6 33.3 1 2 50.0 0 1 1 7 4 0 6 3 28
+p357
+aVJohn Crotty MIA 01/29/1997 MIA vs. BOS W 17 8 2 2 100.0 1 1 100.0 3 5 60.0 0 0 0 3 0 0 2 0 -7
+p358
+aVIke Austin MIA 01/27/1997 MIA vs. PHX W 21 6 3 5 60.0 0 0 - 0 0 - 1 3 4 4 1 1 1 3 13
+p359
+aVP.J. Brown MIA 01/27/1997 MIA vs. PHX W 31 14 7 10 70.0 0 0 - 0 0 - 0 4 4 0 2 0 2 1 24
+p360
+aVWillie Anderson MIA 01/27/1997 MIA vs. PHX W 11 2 1 1 100.0 0 0 - 0 0 - 0 1 1 5 0 0 0 0 -2
+p361
+aVAlonzo Mourning MIA 01/27/1997 MIA vs. PHX W 31 20 8 12 66.7 0 0 - 4 5 80.0 2 5 7 0 2 6 1 2 24
+p362
+aVMartin Muursepp MIA 01/27/1997 MIA vs. PHX W 8 4 0 3 0.0 0 1 0.0 4 6 66.7 0 0 0 1 0 0 1 0 -5
+p363
+aVVoshon Lenard MIA 01/27/1997 MIA vs. PHX W 23 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 3 1 0 3 1 18
+p364
+aVJohn Crotty MIA 01/27/1997 MIA vs. PHX W 25 18 6 8 75.0 2 3 66.7 4 4 100.0 0 3 3 5 1 0 1 3 9
+p365
+aVEd Pinckney MIA 01/27/1997 MIA vs. PHX W 15 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 1 1 3
+p366
+aVKeith Askins MIA 01/27/1997 MIA vs. PHX W 25 8 3 4 75.0 2 3 66.7 0 0 - 0 3 3 2 1 0 0 1 32
+p367
+aVTim Hardaway MIA 01/27/1997 MIA vs. PHX W 23 21 7 13 53.8 5 6 83.3 2 2 100.0 0 3 3 10 2 1 0 2 19
+p368
+aVSasha Danilovic MIA 01/27/1997 MIA vs. PHX W 19 18 7 10 70.0 2 3 66.7 2 2 100.0 0 2 2 2 1 0 2 3 10
+p369
+aVMark Strickland MIA 01/27/1997 MIA vs. PHX W 8 6 3 3 100.0 0 0 - 0 0 - 0 2 2 0 1 0 1 2 -5
+p370
+aVAlonzo Mourning MIA 01/26/1997 MIA @ NYK L 31 22 7 17 41.2 0 1 0.0 8 12 66.7 3 4 7 0 1 1 2 5 12
+p371
+aVTim Hardaway MIA 01/26/1997 MIA @ NYK L 43 11 4 17 23.5 2 8 25.0 1 2 50.0 0 4 4 12 2 0 3 3 -5
+p372
+aVP.J. Brown MIA 01/26/1997 MIA @ NYK L 46 14 7 12 58.3 0 0 - 0 0 - 2 6 8 1 0 4 3 3 -5
+p373
+aVKeith Askins MIA 01/26/1997 MIA @ NYK L 30 10 4 5 80.0 2 3 66.7 0 0 - 0 8 8 1 2 1 1 1 -8
+p374
+aVIke Austin MIA 01/26/1997 MIA @ NYK L 24 14 5 11 45.5 0 0 - 4 6 66.7 2 1 3 2 2 1 4 3 -10
+p375
+aVJohn Crotty MIA 01/26/1997 MIA @ NYK L 11 3 1 1 100.0 1 1 100.0 0 0 - 2 0 2 3 0 0 0 3 -7
+p376
+aVVoshon Lenard MIA 01/26/1997 MIA @ NYK L 26 3 1 6 16.7 1 6 16.7 0 0 - 0 2 2 4 0 0 1 1 0
+p377
+aVSasha Danilovic MIA 01/26/1997 MIA @ NYK L 28 12 5 10 50.0 2 4 50.0 0 0 - 0 1 1 2 2 0 2 2 -7
+p378
+aVJohn Crotty MIA 01/23/1997 MIA @ TOR W 10 4 0 2 0.0 0 0 - 4 4 100.0 0 1 1 0 0 0 0 2 -3
+p379
+aVSasha Danilovic MIA 01/23/1997 MIA @ TOR W 27 16 6 8 75.0 1 3 33.3 3 5 60.0 1 6 7 1 0 0 1 5 7
+p380
+aVWillie Anderson MIA 01/23/1997 MIA @ TOR W 11 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 2 2 -1
+p381
+aVMartin Muursepp MIA 01/23/1997 MIA @ TOR W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p382
+aVVoshon Lenard MIA 01/23/1997 MIA @ TOR W 32 15 6 13 46.2 3 7 42.9 0 0 - 1 4 5 3 1 0 1 3 17
+p383
+aVAlonzo Mourning MIA 01/23/1997 MIA @ TOR W 33 14 4 5 80.0 0 0 - 6 10 60.0 3 5 8 1 1 3 3 2 8
+p384
+aVP.J. Brown MIA 01/23/1997 MIA @ TOR W 35 10 4 8 50.0 0 0 - 2 2 100.0 3 5 8 2 0 2 2 2 6
+p385
+aVKeith Askins MIA 01/23/1997 MIA @ TOR W 25 5 2 5 40.0 1 3 33.3 0 0 - 1 4 5 0 0 0 1 3 4
+p386
+aVIke Austin MIA 01/23/1997 MIA @ TOR W 26 9 1 9 11.1 0 1 0.0 7 8 87.5 2 2 4 2 1 1 2 3 9
+p387
+aVMark Strickland MIA 01/23/1997 MIA @ TOR W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p388
+aVTim Hardaway MIA 01/23/1997 MIA @ TOR W 38 26 10 19 52.6 1 7 14.3 5 5 100.0 0 2 2 9 1 1 5 3 15
+p389
+aVJohn Crotty MIA 01/21/1997 MIA vs. ATL W 10 3 1 2 50.0 0 0 - 1 1 100.0 0 0 0 2 1 0 1 1 1
+p390
+aVAlonzo Mourning MIA 01/21/1997 MIA vs. ATL W 33 15 5 14 35.7 0 0 - 5 9 55.6 4 5 9 2 2 3 3 6 17
+p391
+aVMark Strickland MIA 01/21/1997 MIA vs. ATL W 4 0 0 0 - 0 0 - 0 2 0.0 1 1 2 0 0 0 0 0 -11
+p392
+aVTim Hardaway MIA 01/21/1997 MIA vs. ATL W 41 24 9 21 42.9 6 9 66.7 0 0 - 1 2 3 11 0 0 0 2 -2
+p393
+aVMartin Muursepp MIA 01/21/1997 MIA vs. ATL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p394
+aVP.J. Brown MIA 01/21/1997 MIA vs. ATL W 34 9 3 8 37.5 0 0 - 3 4 75.0 2 4 6 0 0 1 1 6 2
+p395
+aVVoshon Lenard MIA 01/21/1997 MIA vs. ATL W 37 19 6 11 54.5 6 8 75.0 1 1 100.0 0 4 4 2 1 0 2 2 12
+p396
+aVKeith Askins MIA 01/21/1997 MIA vs. ATL W 35 0 0 2 0.0 0 0 - 0 0 - 1 5 6 2 0 0 0 4 13
+p397
+aVIke Austin MIA 01/21/1997 MIA vs. ATL W 19 14 6 9 66.7 0 0 - 2 2 100.0 0 4 4 2 1 0 1 4 1
+p398
+aVWillie Anderson MIA 01/21/1997 MIA vs. ATL W 22 8 3 7 42.9 1 2 50.0 1 1 100.0 0 0 0 3 1 0 0 4 -16
+p399
+aVP.J. Brown MIA 01/19/1997 MIA vs. ORL L 38 14 6 11 54.5 0 0 - 2 5 40.0 4 7 11 1 0 0 1 1 -8
+p400
+aVAlonzo Mourning MIA 01/19/1997 MIA vs. ORL L 36 14 4 11 36.4 0 0 - 6 12 50.0 1 10 11 0 1 3 5 5 -12
+p401
+aVIke Austin MIA 01/19/1997 MIA vs. ORL L 21 10 5 8 62.5 0 0 - 0 0 - 1 3 4 2 0 0 0 2 -8
+p402
+aVVoshon Lenard MIA 01/19/1997 MIA vs. ORL L 42 21 7 12 58.3 7 12 58.3 0 0 - 1 2 3 3 3 0 3 2 -7
+p403
+aVMark Strickland MIA 01/19/1997 MIA vs. ORL L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p404
+aVJohn Crotty MIA 01/19/1997 MIA vs. ORL L 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 2 0
+p405
+aVTim Hardaway MIA 01/19/1997 MIA vs. ORL L 44 9 4 12 33.3 1 4 25.0 0 0 - 0 2 2 9 1 0 6 5 -12
+p406
+aVKeith Askins MIA 01/19/1997 MIA vs. ORL L 38 12 4 8 50.0 3 6 50.0 1 1 100.0 2 4 6 2 2 0 3 2 -6
+p407
+aVWillie Anderson MIA 01/19/1997 MIA vs. ORL L 16 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 2 1 0 1 1 -11
+p408
+aVKeith Askins MIA 01/17/1997 MIA @ WAS W 39 10 4 6 66.7 2 4 50.0 0 0 - 2 3 5 2 1 1 0 3 15
+p409
+aVIke Austin MIA 01/17/1997 MIA @ WAS W 21 11 4 5 80.0 0 0 - 3 4 75.0 2 3 5 0 0 0 1 1 3
+p410
+aVP.J. Brown MIA 01/17/1997 MIA @ WAS W 36 13 6 13 46.2 0 0 - 1 2 50.0 3 5 8 0 3 0 3 3 2
+p411
+aVJohn Crotty MIA 01/17/1997 MIA @ WAS W 12 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 3 0 0 1 1 1
+p412
+aVTim Hardaway MIA 01/17/1997 MIA @ WAS W 39 9 4 18 22.2 0 6 0.0 1 2 50.0 1 1 2 10 4 0 4 1 8
+p413
+aVAlonzo Mourning MIA 01/17/1997 MIA @ WAS W 41 34 11 24 45.8 0 0 - 12 16 75.0 2 3 5 2 0 5 3 2 15
+p414
+aVWillie Anderson MIA 01/17/1997 MIA @ WAS W 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 1 2
+p415
+aVVoshon Lenard MIA 01/17/1997 MIA @ WAS W 43 21 8 11 72.7 5 5 100.0 0 0 - 1 7 8 4 3 0 0 3 9
+p416
+aVVoshon Lenard MIA 01/16/1997 MIA @ BOS W 35 15 5 13 38.5 2 9 22.2 3 4 75.0 0 2 2 3 0 0 4 3 7
+p417
+aVP.J. Brown MIA 01/16/1997 MIA @ BOS W 41 14 5 9 55.6 0 0 - 4 4 100.0 3 11 14 4 3 1 6 5 25
+p418
+aVMark Strickland MIA 01/16/1997 MIA @ BOS W 14 11 5 9 55.6 0 0 - 1 1 100.0 1 0 1 0 0 1 1 1 -2
+p419
+aVJohn Crotty MIA 01/16/1997 MIA @ BOS W 12 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 3 -21
+p420
+aVKeith Askins MIA 01/16/1997 MIA @ BOS W 32 11 5 6 83.3 1 2 50.0 0 0 - 2 4 6 3 0 1 2 4 6
+p421
+aVAlonzo Mourning MIA 01/16/1997 MIA @ BOS W 30 20 7 14 50.0 0 0 - 6 11 54.5 2 7 9 1 1 6 1 4 7
+p422
+aVWillie Anderson MIA 01/16/1997 MIA @ BOS W 9 3 1 3 33.3 0 1 0.0 1 2 50.0 1 2 3 3 1 0 1 0 12
+p423
+aVTim Hardaway MIA 01/16/1997 MIA @ BOS W 43 22 7 17 41.2 3 7 42.9 5 6 83.3 0 7 7 13 2 0 3 4 21
+p424
+aVIke Austin MIA 01/16/1997 MIA @ BOS W 25 6 3 8 37.5 0 0 - 0 0 - 2 3 5 4 0 0 0 3 -15
+p425
+aVWillie Anderson MIA 01/13/1997 MIA vs. WAS W 11 1 0 0 - 0 0 - 1 2 50.0 1 1 2 1 0 0 0 2 -7
+p426
+aVIke Austin MIA 01/13/1997 MIA vs. WAS W 20 7 3 8 37.5 0 0 - 1 2 50.0 2 4 6 1 2 0 2 3 5
+p427
+aVJohn Crotty MIA 01/13/1997 MIA vs. WAS W 8 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 -3
+p428
+aVVoshon Lenard MIA 01/13/1997 MIA vs. WAS W 35 15 5 9 55.6 3 5 60.0 2 2 100.0 1 4 5 5 1 0 2 1 11
+p429
+aVSasha Danilovic MIA 01/13/1997 MIA vs. WAS W 9 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 0
+p430
+aVTim Hardaway MIA 01/13/1997 MIA vs. WAS W 40 28 10 17 58.8 5 8 62.5 3 4 75.0 0 2 2 9 2 0 4 2 6
+p431
+aVKeith Askins MIA 01/13/1997 MIA vs. WAS W 35 9 4 9 44.4 1 4 25.0 0 0 - 1 4 5 3 0 0 1 5 -7
+p432
+aVAlonzo Mourning MIA 01/13/1997 MIA vs. WAS W 40 32 11 24 45.8 0 0 - 10 13 76.9 2 10 12 1 0 1 5 5 -3
+p433
+aVP.J. Brown MIA 01/13/1997 MIA vs. WAS W 42 6 2 12 16.7 0 0 - 2 3 66.7 4 6 10 1 1 1 1 3 13
+p434
+aVP.J. Brown MIA 01/10/1997 MIA @ LAL L 40 14 6 12 50.0 0 0 - 2 6 33.3 5 9 14 2 1 2 1 6 -6
+p435
+aVKeith Askins MIA 01/10/1997 MIA @ LAL L 20 1 0 0 - 0 0 - 1 2 50.0 0 4 4 1 0 0 0 3 -10
+p436
+aVTim Hardaway MIA 01/10/1997 MIA @ LAL L 45 14 6 18 33.3 0 7 0.0 2 4 50.0 0 2 2 11 2 0 2 3 -4
+p437
+aVAlonzo Mourning MIA 01/10/1997 MIA @ LAL L 40 31 12 24 50.0 0 1 0.0 7 11 63.6 5 8 13 1 0 4 6 6 -8
+p438
+aVJohn Crotty MIA 01/10/1997 MIA @ LAL L 3 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -5
+p439
+aVVoshon Lenard MIA 01/10/1997 MIA @ LAL L 21 9 3 9 33.3 3 8 37.5 0 0 - 1 3 4 1 0 0 1 3 -7
+p440
+aVIke Austin MIA 01/10/1997 MIA @ LAL L 25 7 3 7 42.9 0 0 - 1 4 25.0 0 8 8 1 0 0 1 2 -4
+p441
+aVSasha Danilovic MIA 01/10/1997 MIA @ LAL L 45 9 3 12 25.0 0 6 0.0 3 6 50.0 1 2 3 6 0 0 2 4 -3
+p442
+aVMartin Muursepp MIA 01/10/1997 MIA @ LAL L 1 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 2
+p443
+aVKurt Thomas MIA 01/08/1997 MIA @ POR W 27 6 1 5 20.0 0 0 - 4 6 66.7 4 2 6 0 0 0 0 5 6
+p444
+aVP.J. Brown MIA 01/08/1997 MIA @ POR W 36 7 1 5 20.0 0 0 - 5 6 83.3 3 6 9 1 1 1 0 4 3
+p445
+aVTim Hardaway MIA 01/08/1997 MIA @ POR W 42 28 10 21 47.6 5 7 71.4 3 5 60.0 0 6 6 7 0 0 5 0 5
+p446
+aVKeith Askins MIA 01/08/1997 MIA @ POR W 12 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 1 1 0 2 -9
+p447
+aVVoshon Lenard MIA 01/08/1997 MIA @ POR W 26 8 3 9 33.3 2 7 28.6 0 0 - 0 2 2 2 0 1 1 3 -1
+p448
+aVAlonzo Mourning MIA 01/08/1997 MIA @ POR W 41 17 4 16 25.0 0 0 - 9 12 75.0 2 4 6 1 1 4 5 5 2
+p449
+aVSasha Danilovic MIA 01/08/1997 MIA @ POR W 23 13 4 7 57.1 2 2 100.0 3 3 100.0 1 2 3 3 2 0 3 2 6
+p450
+aVIke Austin MIA 01/08/1997 MIA @ POR W 26 4 2 6 33.3 0 0 - 0 2 0.0 1 4 5 1 0 0 0 0 9
+p451
+aVJohn Crotty MIA 01/08/1997 MIA @ POR W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 1 1 -1
+p452
+aVP.J. Brown MIA 01/07/1997 MIA @ SEA L 35 10 5 8 62.5 0 0 - 0 0 - 4 5 9 1 0 1 2 4 -4
+p453
+aVSasha Danilovic MIA 01/07/1997 MIA @ SEA L 44 16 6 12 50.0 2 6 33.3 2 4 50.0 1 2 3 2 1 1 4 5 -7
+p454
+aVJohn Crotty MIA 01/07/1997 MIA @ SEA L 17 4 1 1 100.0 0 0 - 2 2 100.0 0 0 0 3 0 0 1 1 2
+p455
+aVAlonzo Mourning MIA 01/07/1997 MIA @ SEA L 29 14 2 6 33.3 0 0 - 10 11 90.9 1 9 10 2 0 6 5 6 -1
+p456
+aVKurt Thomas MIA 01/07/1997 MIA @ SEA L 17 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 0 1 1 2 -9
+p457
+aVIke Austin MIA 01/07/1997 MIA @ SEA L 16 2 0 3 0.0 0 0 - 2 4 50.0 1 2 3 0 0 0 2 3 -4
+p458
+aVTim Hardaway MIA 01/07/1997 MIA @ SEA L 36 28 9 21 42.9 4 8 50.0 6 6 100.0 0 7 7 3 2 0 5 4 -10
+p459
+aVVoshon Lenard MIA 01/07/1997 MIA @ SEA L 14 0 0 4 0.0 0 3 0.0 0 2 0.0 1 3 4 2 0 0 1 1 -8
+p460
+aVKeith Askins MIA 01/07/1997 MIA @ SEA L 34 5 2 5 40.0 1 2 50.0 0 2 0.0 3 2 5 0 0 1 0 3 -4
+p461
+aVKeith Askins MIA 01/04/1997 MIA @ UTA L 35 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 1 0 1 1 3 -12
+p462
+aVSasha Danilovic MIA 01/04/1997 MIA @ UTA L 32 15 6 15 40.0 0 5 0.0 3 3 100.0 1 2 3 4 2 1 5 6 1
+p463
+aVP.J. Brown MIA 01/04/1997 MIA @ UTA L 27 2 1 4 25.0 0 0 - 0 0 - 2 5 7 1 0 0 3 4 -3
+p464
+aVIke Austin MIA 01/04/1997 MIA @ UTA L 22 10 4 6 66.7 0 0 - 2 5 40.0 1 4 5 1 1 0 2 3 7
+p465
+aVTim Hardaway MIA 01/04/1997 MIA @ UTA L 41 15 5 18 27.8 0 8 0.0 5 6 83.3 3 4 7 8 1 0 3 3 -1
+p466
+aVAlonzo Mourning MIA 01/04/1997 MIA @ UTA L 37 18 8 13 61.5 0 0 - 2 6 33.3 3 12 15 0 2 3 2 3 -16
+p467
+aVVoshon Lenard MIA 01/04/1997 MIA @ UTA L 33 18 6 13 46.2 6 13 46.2 0 0 - 1 3 4 0 0 1 1 6 6
+p468
+aVKurt Thomas MIA 01/04/1997 MIA @ UTA L 14 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 1 0 0 3 3
+p469
+aVAlonzo Mourning MIA 01/02/1997 MIA vs. NJN W 38 28 9 22 40.9 0 1 0.0 10 17 58.8 2 5 7 2 2 3 1 2 4
+p470
+aVTim Hardaway MIA 01/02/1997 MIA vs. NJN W 43 18 7 14 50.0 2 5 40.0 2 2 100.0 0 7 7 12 1 0 3 4 20
+p471
+aVIke Austin MIA 01/02/1997 MIA vs. NJN W 15 7 0 0 - 0 0 - 7 8 87.5 1 2 3 1 0 1 1 2 -2
+p472
+aVDan Majerle MIA 01/02/1997 MIA vs. NJN W 20 4 2 6 33.3 0 2 0.0 0 0 - 0 2 2 0 0 0 0 1 17
+p473
+aVP.J. Brown MIA 01/02/1997 MIA vs. NJN W 40 11 3 7 42.9 0 0 - 5 8 62.5 2 4 6 2 1 2 1 3 10
+p474
+aVKeith Askins MIA 01/02/1997 MIA vs. NJN W 44 9 4 8 50.0 1 4 25.0 0 0 - 1 6 7 1 3 0 0 1 9
+p475
+aVVoshon Lenard MIA 01/02/1997 MIA vs. NJN W 34 19 6 10 60.0 5 8 62.5 2 2 100.0 0 3 3 2 0 0 4 3 -6
+p476
+aVMark Strickland MIA 01/02/1997 MIA vs. NJN W 6 5 2 3 66.7 0 0 - 1 3 33.3 0 3 3 0 0 0 1 0 -2
+p477
+aVMark Strickland MIA 12/29/1996 MIA @ MIL W 16 3 1 3 33.3 0 0 - 1 3 33.3 1 1 2 0 0 2 0 0 -16
+p478
+aVP.J. Brown MIA 12/29/1996 MIA @ MIL W 41 18 5 11 45.5 0 0 - 8 8 100.0 7 6 13 1 0 2 0 4 15
+p479
+aVVoshon Lenard MIA 12/29/1996 MIA @ MIL W 41 13 4 12 33.3 3 8 37.5 2 4 50.0 1 1 2 4 0 0 1 2 6
+p480
+aVIke Austin MIA 12/29/1996 MIA @ MIL W 40 14 5 17 29.4 0 0 - 4 10 40.0 0 11 11 2 2 1 1 5 3
+p481
+aVKeith Askins MIA 12/29/1996 MIA @ MIL W 48 10 3 7 42.9 2 3 66.7 2 4 50.0 4 5 9 3 1 0 1 2 1
+p482
+aVJames Scott MIA 12/29/1996 MIA @ MIL W 7 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 0 0 0 1 1 -5
+p483
+aVTim Hardaway MIA 12/29/1996 MIA @ MIL W 48 36 14 24 58.3 4 10 40.0 4 5 80.0 0 2 2 8 3 1 4 2 1
+p484
+aVMark Strickland MIA 12/27/1996 MIA @ CHH W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p485
+aVP.J. Brown MIA 12/27/1996 MIA @ CHH W 28 9 4 9 44.4 0 0 - 1 3 33.3 3 6 9 0 0 0 1 3 8
+p486
+aVKeith Askins MIA 12/27/1996 MIA @ CHH W 27 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 0 2 0
+p487
+aVKurt Thomas MIA 12/27/1996 MIA @ CHH W 12 2 0 1 0.0 0 0 - 2 4 50.0 0 4 4 0 0 1 0 3 -1
+p488
+aVSasha Danilovic MIA 12/27/1996 MIA @ CHH W 33 15 6 11 54.5 3 5 60.0 0 0 - 1 4 5 1 0 0 0 2 21
+p489
+aVJames Scott MIA 12/27/1996 MIA @ CHH W 7 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -7
+p490
+aVIke Austin MIA 12/27/1996 MIA @ CHH W 33 14 7 13 53.8 0 0 - 0 0 - 2 10 12 1 0 2 1 3 8
+p491
+aVTim Hardaway MIA 12/27/1996 MIA @ CHH W 45 26 9 19 47.4 2 6 33.3 6 8 75.0 3 2 5 11 2 0 3 2 17
+p492
+aVMartin Muursepp MIA 12/27/1996 MIA @ CHH W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 1 1 0 -3
+p493
+aVVoshon Lenard MIA 12/27/1996 MIA @ CHH W 33 19 6 9 66.7 5 7 71.4 2 2 100.0 0 2 2 5 0 0 1 0 14
+p494
+aVAlonzo Mourning MIA 12/27/1996 MIA @ CHH W 21 12 5 11 45.5 0 1 0.0 2 4 50.0 2 5 7 1 0 1 3 3 21
+p495
+aVIke Austin MIA 12/26/1996 MIA vs. ORL W 23 17 8 11 72.7 0 0 - 1 2 50.0 1 5 6 1 0 0 0 2 18
+p496
+aVJames Scott MIA 12/26/1996 MIA vs. ORL W 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 2 0
+p497
+aVKeith Askins MIA 12/26/1996 MIA vs. ORL W 19 0 0 2 0.0 0 1 0.0 0 0 - 3 1 4 0 1 0 1 0 -1
+p498
+aVVoshon Lenard MIA 12/26/1996 MIA vs. ORL W 30 14 5 8 62.5 3 6 50.0 1 1 100.0 1 2 3 3 2 0 1 3 22
+p499
+aVMartin Muursepp MIA 12/26/1996 MIA vs. ORL W 2 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p500
+aVP.J. Brown MIA 12/26/1996 MIA vs. ORL W 26 6 3 6 50.0 0 0 - 0 0 - 1 6 7 1 0 5 2 3 6
+p501
+aVMark Strickland MIA 12/26/1996 MIA vs. ORL W 2 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p502
+aVAlonzo Mourning MIA 12/26/1996 MIA vs. ORL W 31 13 5 11 45.5 0 0 - 3 4 75.0 4 4 8 1 1 4 6 2 10
+p503
+aVGary Grant MIA 12/26/1996 MIA vs. ORL W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p504
+aVKurt Thomas MIA 12/26/1996 MIA vs. ORL W 14 2 1 2 50.0 0 0 - 0 0 - 0 2 2 1 1 0 1 2 6
+p505
+aVTim Hardaway MIA 12/26/1996 MIA vs. ORL W 40 25 9 14 64.3 1 3 33.3 6 6 100.0 0 6 6 10 2 0 1 1 20
+p506
+aVSasha Danilovic MIA 12/26/1996 MIA vs. ORL W 42 15 7 17 41.2 0 4 0.0 1 1 100.0 1 4 5 4 1 0 2 5 17
+p507
+aVSasha Danilovic MIA 12/23/1996 MIA @ SAS W 47 11 4 11 36.4 1 2 50.0 2 2 100.0 3 3 6 1 3 0 2 3 9
+p508
+aVAlonzo Mourning MIA 12/23/1996 MIA @ SAS W 35 32 11 18 61.1 0 0 - 10 15 66.7 4 5 9 1 1 3 3 4 12
+p509
+aVTim Hardaway MIA 12/23/1996 MIA @ SAS W 40 11 5 16 31.3 1 5 20.0 0 0 - 1 3 4 8 0 0 2 0 12
+p510
+aVVoshon Lenard MIA 12/23/1996 MIA @ SAS W 24 16 6 13 46.2 2 6 33.3 2 2 100.0 0 1 1 0 1 1 1 2 2
+p511
+aVIke Austin MIA 12/23/1996 MIA @ SAS W 10 3 1 3 33.3 0 0 - 1 2 50.0 2 2 4 1 2 0 0 1 3
+p512
+aVKeith Askins MIA 12/23/1996 MIA @ SAS W 26 0 0 2 0.0 0 1 0.0 0 0 - 1 5 6 2 0 1 1 4 9
+p513
+aVGary Grant MIA 12/23/1996 MIA @ SAS W 8 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 1 0 1 1 -1
+p514
+aVKurt Thomas MIA 12/23/1996 MIA @ SAS W 39 15 6 9 66.7 0 0 - 3 3 100.0 5 4 9 0 1 1 2 6 13
+p515
+aVP.J. Brown MIA 12/23/1996 MIA @ SAS W 9 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 0 0 1 1 4 -4
+p516
+aVSasha Danilovic MIA 12/21/1996 MIA @ HOU W 25 8 3 9 33.3 2 6 33.3 0 1 0.0 1 4 5 2 0 0 0 4 22
+p517
+aVMartin Muursepp MIA 12/21/1996 MIA @ HOU W 1 2 1 2 50.0 0 0 - 0 2 0.0 1 0 1 1 0 0 0 0 2
+p518
+aVKurt Thomas MIA 12/21/1996 MIA @ HOU W 20 2 0 2 0.0 0 0 - 2 2 100.0 1 3 4 0 0 0 1 6 -11
+p519
+aVIke Austin MIA 12/21/1996 MIA @ HOU W 9 2 1 2 50.0 0 0 - 0 0 - 1 3 4 0 0 1 1 1 3
+p520
+aVJames Scott MIA 12/21/1996 MIA @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 2
+p521
+aVP.J. Brown MIA 12/21/1996 MIA @ HOU W 29 6 2 6 33.3 0 0 - 2 2 100.0 3 4 7 2 2 5 3 4 28
+p522
+aVVoshon Lenard MIA 12/21/1996 MIA @ HOU W 38 22 7 15 46.7 5 11 45.5 3 3 100.0 1 4 5 0 1 1 1 3 20
+p523
+aVKeith Askins MIA 12/21/1996 MIA @ HOU W 28 3 1 4 25.0 1 3 33.3 0 0 - 2 2 4 1 1 0 2 1 -5
+p524
+aVAlonzo Mourning MIA 12/21/1996 MIA @ HOU W 39 18 7 11 63.6 0 0 - 4 4 100.0 5 12 17 5 1 3 5 5 19
+p525
+aVTim Hardaway MIA 12/21/1996 MIA @ HOU W 39 18 7 23 30.4 2 10 20.0 2 2 100.0 0 3 3 7 2 0 2 0 10
+p526
+aVMark Strickland MIA 12/21/1996 MIA @ HOU W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p527
+aVGary Grant MIA 12/21/1996 MIA @ HOU W 7 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 8
+p528
+aVVoshon Lenard MIA 12/19/1996 MIA vs. UTA L 20 8 3 8 37.5 2 5 40.0 0 0 - 1 0 1 1 1 1 2 5 -1
+p529
+aVAlonzo Mourning MIA 12/19/1996 MIA vs. UTA L 31 13 4 14 28.6 0 0 - 5 9 55.6 3 8 11 1 2 1 2 6 -5
+p530
+aVSasha Danilovic MIA 12/19/1996 MIA vs. UTA L 44 11 5 12 41.7 0 3 0.0 1 1 100.0 0 2 2 1 2 3 4 2 -1
+p531
+aVP.J. Brown MIA 12/19/1996 MIA vs. UTA L 37 4 2 5 40.0 0 0 - 0 0 - 2 6 8 0 3 2 0 5 -16
+p532
+aVDan Majerle MIA 12/19/1996 MIA vs. UTA L 41 5 2 8 25.0 0 4 0.0 1 2 50.0 2 4 6 4 0 1 3 1 -9
+p533
+aVKurt Thomas MIA 12/19/1996 MIA vs. UTA L 14 6 2 7 28.6 0 0 - 2 2 100.0 2 6 8 0 2 0 2 3 -2
+p534
+aVIke Austin MIA 12/19/1996 MIA vs. UTA L 24 12 6 8 75.0 0 0 - 0 0 - 2 2 4 0 0 0 1 4 8
+p535
+aVTim Hardaway MIA 12/19/1996 MIA vs. UTA L 44 24 9 23 39.1 1 6 16.7 5 9 55.6 1 1 2 8 1 0 3 3 -10
+p536
+aVGary Grant MIA 12/19/1996 MIA vs. UTA L 11 4 1 1 100.0 0 0 - 2 2 100.0 0 1 1 2 0 0 0 1 1
+p537
+aVIke Austin MIA 12/17/1996 MIA vs. IND L 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 0 0 1 2 1 -3
+p538
+aVKurt Thomas MIA 12/17/1996 MIA vs. IND L 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -7
+p539
+aVSasha Danilovic MIA 12/17/1996 MIA vs. IND L 32 14 4 7 57.1 2 4 50.0 4 4 100.0 0 0 0 2 1 0 2 4 -16
+p540
+aVKeith Askins MIA 12/17/1996 MIA vs. IND L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -2
+p541
+aVAlonzo Mourning MIA 12/17/1996 MIA vs. IND L 47 25 9 23 39.1 0 0 - 7 12 58.3 10 8 18 4 2 2 2 5 -10
+p542
+aVGary Grant MIA 12/17/1996 MIA vs. IND L 38 6 3 11 27.3 0 3 0.0 0 0 - 2 5 7 2 1 0 3 5 -9
+p543
+aVDan Majerle MIA 12/17/1996 MIA vs. IND L 39 10 4 9 44.4 2 6 33.3 0 0 - 0 4 4 3 4 0 3 4 -7
+p544
+aVVoshon Lenard MIA 12/17/1996 MIA vs. IND L 24 18 7 12 58.3 4 7 57.1 0 0 - 1 0 1 2 1 0 2 2 -6
+p545
+aVTim Hardaway MIA 12/17/1996 MIA vs. IND L 8 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 1 0 1 1 0
+p546
+aVP.J. Brown MIA 12/17/1996 MIA vs. IND L 36 10 5 10 50.0 0 0 - 0 0 - 3 7 10 2 1 0 2 2 -10
+p547
+aVGary Grant MIA 12/14/1996 MIA vs. TOR W 13 4 2 6 33.3 0 1 0.0 0 0 - 2 1 3 1 0 0 1 2 -4
+p548
+aVSasha Danilovic MIA 12/14/1996 MIA vs. TOR W 27 15 5 11 45.5 2 6 33.3 3 3 100.0 0 2 2 1 0 0 2 0 9
+p549
+aVP.J. Brown MIA 12/14/1996 MIA vs. TOR W 39 10 4 11 36.4 0 0 - 2 2 100.0 6 7 13 0 1 2 3 2 2
+p550
+aVDan Majerle MIA 12/14/1996 MIA vs. TOR W 45 6 1 7 14.3 1 4 25.0 3 4 75.0 1 5 6 6 1 0 2 5 7
+p551
+aVIke Austin MIA 12/14/1996 MIA vs. TOR W 16 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 0 1 0 1 1 -3
+p552
+aVTim Hardaway MIA 12/14/1996 MIA vs. TOR W 35 15 3 8 37.5 1 4 25.0 8 12 66.7 0 0 0 6 2 0 5 3 5
+p553
+aVVoshon Lenard MIA 12/14/1996 MIA vs. TOR W 21 5 1 4 25.0 0 3 0.0 3 4 75.0 0 2 2 2 0 0 0 1 -9
+p554
+aVKeith Askins MIA 12/14/1996 MIA vs. TOR W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -6
+p555
+aVAlonzo Mourning MIA 12/14/1996 MIA vs. TOR W 41 26 9 13 69.2 0 0 - 8 11 72.7 4 6 10 1 2 5 3 4 4
+p556
+aVTim Hardaway MIA 12/11/1996 MIA @ PHI W 38 21 8 20 40.0 0 5 0.0 5 7 71.4 0 5 5 8 3 0 2 3 3
+p557
+aVIke Austin MIA 12/11/1996 MIA @ PHI W 23 10 4 5 80.0 0 0 - 2 3 66.7 2 1 3 0 0 0 1 4 -12
+p558
+aVAlonzo Mourning MIA 12/11/1996 MIA @ PHI W 45 20 8 14 57.1 0 0 - 4 6 66.7 7 10 17 2 1 5 5 4 4
+p559
+aVDan Majerle MIA 12/11/1996 MIA @ PHI W 39 9 3 11 27.3 2 9 22.2 1 2 50.0 0 3 3 5 0 0 2 3 4
+p560
+aVVoshon Lenard MIA 12/11/1996 MIA @ PHI W 16 0 0 3 0.0 0 2 0.0 0 0 - 1 2 3 1 3 0 1 1 9
+p561
+aVSasha Danilovic MIA 12/11/1996 MIA @ PHI W 32 10 4 14 28.6 1 7 14.3 1 2 50.0 0 1 1 0 2 0 0 2 -6
+p562
+aVGary Grant MIA 12/11/1996 MIA @ PHI W 10 5 1 3 33.3 1 2 50.0 2 2 100.0 0 1 1 0 0 0 1 0 2
+p563
+aVP.J. Brown MIA 12/11/1996 MIA @ PHI W 25 7 3 7 42.9 0 0 - 1 3 33.3 2 8 10 1 0 0 2 4 16
+p564
+aVKeith Askins MIA 12/11/1996 MIA @ PHI W 12 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 1 1 2 5
+p565
+aVSasha Danilovic MIA 12/10/1996 MIA @ CLE W 27 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 1 2 1 3 2 -1
+p566
+aVVoshon Lenard MIA 12/10/1996 MIA @ CLE W 24 8 2 5 40.0 1 4 25.0 3 4 75.0 1 4 5 0 0 0 0 3 -2
+p567
+aVP.J. Brown MIA 12/10/1996 MIA @ CLE W 36 8 4 10 40.0 0 0 - 0 0 - 0 5 5 0 0 0 3 2 -7
+p568
+aVAlonzo Mourning MIA 12/10/1996 MIA @ CLE W 31 14 3 11 27.3 0 1 0.0 8 12 66.7 3 4 7 1 0 3 4 5 13
+p569
+aVTim Hardaway MIA 12/10/1996 MIA @ CLE W 37 25 7 14 50.0 4 8 50.0 7 7 100.0 1 3 4 1 0 0 0 2 -3
+p570
+aVIke Austin MIA 12/10/1996 MIA @ CLE W 5 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 0 1 0 0 3 1
+p571
+aVGary Grant MIA 12/10/1996 MIA @ CLE W 11 5 1 2 50.0 1 2 50.0 2 2 100.0 0 1 1 1 0 0 0 1 5
+p572
+aVKeith Askins MIA 12/10/1996 MIA @ CLE W 23 5 2 4 50.0 1 3 33.3 0 0 - 2 1 3 0 0 0 1 1 0
+p573
+aVDan Majerle MIA 12/10/1996 MIA @ CLE W 46 3 1 10 10.0 1 7 14.3 0 0 - 0 4 4 8 4 1 3 1 4
+p574
+aVP.J. Brown MIA 12/07/1996 MIA @ CHI W 43 11 3 12 25.0 0 0 - 5 6 83.3 8 6 14 2 1 0 0 3 -3
+p575
+aVIke Austin MIA 12/07/1996 MIA @ CHI W 23 10 5 6 83.3 0 0 - 0 0 - 3 2 5 0 0 1 1 2 8
+p576
+aVGary Grant MIA 12/07/1996 MIA @ CHI W 10 3 1 2 50.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 1 1 3
+p577
+aVDan Majerle MIA 12/07/1996 MIA @ CHI W 42 13 5 15 33.3 3 10 30.0 0 0 - 3 3 6 3 0 0 0 4 5
+p578
+aVVoshon Lenard MIA 12/07/1996 MIA @ CHI W 18 7 2 6 33.3 1 2 50.0 2 2 100.0 0 1 1 1 3 0 0 2 3
+p579
+aVTim Hardaway MIA 12/07/1996 MIA @ CHI W 38 16 7 18 38.9 2 6 33.3 0 0 - 0 5 5 5 0 0 2 0 0
+p580
+aVKeith Askins MIA 12/07/1996 MIA @ CHI W 33 3 1 5 20.0 1 2 50.0 0 0 - 0 3 3 0 0 0 0 3 0
+p581
+aVAlonzo Mourning MIA 12/07/1996 MIA @ CHI W 33 20 5 15 33.3 0 0 - 10 14 71.4 3 6 9 0 1 1 4 4 -1
+p582
+aVSasha Danilovic MIA 12/06/1996 MIA vs. NYK L 38 13 4 8 50.0 2 5 40.0 3 6 50.0 1 1 2 1 0 0 2 4 -21
+p583
+aVAlonzo Mourning MIA 12/06/1996 MIA vs. NYK L 35 10 3 10 30.0 0 0 - 4 6 66.7 4 12 16 0 0 2 4 6 -9
+p584
+aVVoshon Lenard MIA 12/06/1996 MIA vs. NYK L 1 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -1
+p585
+aVIke Austin MIA 12/06/1996 MIA vs. NYK L 23 5 1 4 25.0 0 0 - 3 4 75.0 1 6 7 1 0 0 2 5 -13
+p586
+aVTim Hardaway MIA 12/06/1996 MIA vs. NYK L 41 28 9 19 47.4 2 7 28.6 8 10 80.0 0 3 3 9 2 0 7 2 -17
+p587
+aVP.J. Brown MIA 12/06/1996 MIA vs. NYK L 33 4 2 3 66.7 0 0 - 0 1 0.0 1 3 4 2 1 1 0 6 -7
+p588
+aVKeith Askins MIA 12/06/1996 MIA vs. NYK L 15 6 2 5 40.0 1 2 50.0 1 1 100.0 2 1 3 0 2 0 1 1 -4
+p589
+aVGary Grant MIA 12/06/1996 MIA vs. NYK L 9 4 1 4 25.0 0 2 0.0 2 2 100.0 0 1 1 0 0 0 0 1 1
+p590
+aVDan Majerle MIA 12/06/1996 MIA vs. NYK L 45 15 4 13 30.8 1 7 14.3 6 9 66.7 2 4 6 1 1 2 0 1 -19
+p591
+aVEd Pinckney MIA 12/04/1996 MIA vs. DAL W 5 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p592
+aVKeith Askins MIA 12/04/1996 MIA vs. DAL W 8 5 2 4 50.0 1 3 33.3 0 0 - 1 1 2 1 0 0 1 1 -3
+p593
+aVJames Scott MIA 12/04/1996 MIA vs. DAL W 4 0 0 1 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 0 -1
+p594
+aVSasha Danilovic MIA 12/04/1996 MIA vs. DAL W 34 9 2 8 25.0 2 6 33.3 3 3 100.0 0 2 2 3 0 0 2 2 13
+p595
+aVIke Austin MIA 12/04/1996 MIA vs. DAL W 22 10 4 5 80.0 0 0 - 2 2 100.0 1 5 6 2 1 0 1 1 9
+p596
+aVVoshon Lenard MIA 12/04/1996 MIA vs. DAL W 5 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 1 0 0 0 -3
+p597
+aVAlonzo Mourning MIA 12/04/1996 MIA vs. DAL W 35 10 4 7 57.1 0 0 - 2 6 33.3 2 6 8 4 2 4 4 4 33
+p598
+aVMark Strickland MIA 12/04/1996 MIA vs. DAL W 4 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p599
+aVDan Majerle MIA 12/04/1996 MIA vs. DAL W 38 11 4 8 50.0 3 7 42.9 0 0 - 0 4 4 4 3 0 1 2 28
+p600
+aVP.J. Brown MIA 12/04/1996 MIA vs. DAL W 30 8 3 8 37.5 0 0 - 2 2 100.0 1 4 5 2 0 0 1 5 8
+p601
+aVTim Hardaway MIA 12/04/1996 MIA vs. DAL W 30 33 11 13 84.6 6 6 100.0 5 5 100.0 0 1 1 4 0 1 7 0 12
+p602
+aVGary Grant MIA 12/04/1996 MIA vs. DAL W 24 11 4 11 36.4 3 9 33.3 0 0 - 1 2 3 3 2 0 0 1 18
+p603
+aVDan Majerle MIA 12/03/1996 MIA @ NYK W 43 22 7 12 58.3 3 7 42.9 5 5 100.0 4 4 8 5 3 0 4 2 14
+p604
+aVMark Strickland MIA 12/03/1996 MIA @ NYK W 2 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 0 6
+p605
+aVTim Hardaway MIA 12/03/1996 MIA @ NYK W 40 8 1 12 8.3 1 6 16.7 5 5 100.0 0 6 6 5 3 0 5 2 26
+p606
+aVIke Austin MIA 12/03/1996 MIA @ NYK W 17 9 4 6 66.7 0 0 - 1 1 100.0 2 3 5 1 0 0 0 1 -2
+p607
+aVP.J. Brown MIA 12/03/1996 MIA @ NYK W 36 13 5 8 62.5 0 0 - 3 4 75.0 6 4 10 3 0 1 1 4 18
+p608
+aVSasha Danilovic MIA 12/03/1996 MIA @ NYK W 39 21 7 8 87.5 7 7 100.0 0 1 0.0 0 2 2 1 2 0 6 3 17
+p609
+aVKeith Askins MIA 12/03/1996 MIA @ NYK W 10 6 2 2 100.0 1 1 100.0 1 1 100.0 0 5 5 0 0 1 0 2 6
+p610
+aVGary Grant MIA 12/03/1996 MIA @ NYK W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 2 0 0 2 4 3
+p611
+aVJames Scott MIA 12/03/1996 MIA @ NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 4
+p612
+aVAlonzo Mourning MIA 12/03/1996 MIA @ NYK W 41 17 3 14 21.4 0 0 - 11 13 84.6 2 5 7 2 0 2 3 4 28
+p613
+aVAlonzo Mourning MIA 11/30/1996 MIA vs. BOS W 46 17 6 11 54.5 0 0 - 5 6 83.3 3 13 16 1 1 4 3 5 -1
+p614
+aVDan Majerle MIA 11/30/1996 MIA vs. BOS W 44 8 2 7 28.6 2 5 40.0 2 2 100.0 0 8 8 4 1 0 3 0 4
+p615
+aVSasha Danilovic MIA 11/30/1996 MIA vs. BOS W 38 16 6 13 46.2 1 4 25.0 3 4 75.0 1 2 3 2 0 1 5 3 -1
+p616
+aVP.J. Brown MIA 11/30/1996 MIA vs. BOS W 28 4 2 4 50.0 0 0 - 0 0 - 3 6 9 1 0 3 1 3 9
+p617
+aVGary Grant MIA 11/30/1996 MIA vs. BOS W 11 6 2 6 33.3 2 4 50.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p618
+aVIke Austin MIA 11/30/1996 MIA vs. BOS W 21 8 3 7 42.9 0 0 - 2 2 100.0 1 6 7 1 1 0 3 3 -6
+p619
+aVKeith Askins MIA 11/30/1996 MIA vs. BOS W 15 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p620
+aVTim Hardaway MIA 11/30/1996 MIA vs. BOS W 37 19 8 19 42.1 1 6 16.7 2 4 50.0 1 3 4 8 1 0 4 2 2
+p621
+aVVoshon Lenard MIA 11/27/1996 MIA @ LAC W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 0 0 -2
+p622
+aVSasha Danilovic MIA 11/27/1996 MIA @ LAC W 22 5 2 6 33.3 1 4 25.0 0 0 - 1 2 3 1 1 0 1 1 19
+p623
+aVIke Austin MIA 11/27/1996 MIA @ LAC W 28 13 6 9 66.7 0 0 - 1 2 50.0 1 5 6 0 2 0 3 3 10
+p624
+aVGary Grant MIA 11/27/1996 MIA @ LAC W 21 4 1 5 20.0 1 3 33.3 1 2 50.0 0 2 2 2 1 0 1 1 -3
+p625
+aVKeith Askins MIA 11/27/1996 MIA @ LAC W 23 2 1 4 25.0 0 1 0.0 0 0 - 0 1 1 1 1 0 2 4 1
+p626
+aVAlonzo Mourning MIA 11/27/1996 MIA @ LAC W 18 19 9 10 90.0 0 0 - 1 2 50.0 1 2 3 1 0 1 1 4 6
+p627
+aVMark Strickland MIA 11/27/1996 MIA @ LAC W 3 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 2 1 -2
+p628
+aVDan Majerle MIA 11/27/1996 MIA @ LAC W 44 26 11 20 55.0 4 11 36.4 0 1 0.0 4 6 10 1 2 1 2 3 16
+p629
+aVTim Hardaway MIA 11/27/1996 MIA @ LAC W 27 18 8 11 72.7 2 3 66.7 0 0 - 0 2 2 6 1 0 3 1 19
+p630
+aVEd Pinckney MIA 11/27/1996 MIA @ LAC W 12 2 1 1 100.0 0 0 - 0 0 - 1 3 4 0 0 2 1 0 -13
+p631
+aVP.J. Brown MIA 11/27/1996 MIA @ LAC W 34 5 1 4 25.0 0 0 - 3 4 75.0 3 7 10 3 4 1 0 1 31
+p632
+aVJames Scott MIA 11/27/1996 MIA @ LAC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -2
+p633
+aVEd Pinckney MIA 11/26/1996 MIA @ GSW W 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p634
+aVAlonzo Mourning MIA 11/26/1996 MIA @ GSW W 39 22 9 20 45.0 0 0 - 4 6 66.7 2 5 7 2 2 8 4 3 9
+p635
+aVGary Grant MIA 11/26/1996 MIA @ GSW W 11 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 1 0 0 2 1 6
+p636
+aVIke Austin MIA 11/26/1996 MIA @ GSW W 19 6 2 7 28.6 0 0 - 2 2 100.0 0 2 2 1 0 0 0 0 14
+p637
+aVSasha Danilovic MIA 11/26/1996 MIA @ GSW W 33 11 4 9 44.4 1 2 50.0 2 2 100.0 1 2 3 3 2 0 3 2 17
+p638
+aVVoshon Lenard MIA 11/26/1996 MIA @ GSW W 3 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -2
+p639
+aVDan Majerle MIA 11/26/1996 MIA @ GSW W 39 23 8 14 57.1 6 11 54.5 1 2 50.0 2 3 5 3 3 0 2 3 12
+p640
+aVTim Hardaway MIA 11/26/1996 MIA @ GSW W 37 17 6 7 85.7 1 2 50.0 4 5 80.0 2 4 6 14 0 0 4 0 15
+p641
+aVMark Strickland MIA 11/26/1996 MIA @ GSW W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 2 0 0 -2
+p642
+aVKeith Askins MIA 11/26/1996 MIA @ GSW W 19 9 3 6 50.0 3 4 75.0 0 0 - 2 1 3 0 0 0 0 1 13
+p643
+aVP.J. Brown MIA 11/26/1996 MIA @ GSW W 33 12 4 7 57.1 0 0 - 4 4 100.0 1 7 8 1 0 2 0 4 15
+p644
+aVP.J. Brown MIA 11/24/1996 MIA @ PHX W 26 14 7 8 87.5 0 0 - 0 0 - 4 5 9 1 0 0 1 5 10
+p645
+aVIke Austin MIA 11/24/1996 MIA @ PHX W 8 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 3 2
+p646
+aVVoshon Lenard MIA 11/24/1996 MIA @ PHX W 5 3 1 2 50.0 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 -3
+p647
+aVKeith Askins MIA 11/24/1996 MIA @ PHX W 23 6 2 7 28.6 1 4 25.0 1 1 100.0 3 4 7 1 0 0 0 4 -1
+p648
+aVTim Hardaway MIA 11/24/1996 MIA @ PHX W 37 12 4 17 23.5 0 6 0.0 4 4 100.0 1 6 7 8 0 0 5 4 2
+p649
+aVGary Grant MIA 11/24/1996 MIA @ PHX W 14 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 3 2 0 2 2 5
+p650
+aVAlonzo Mourning MIA 11/24/1996 MIA @ PHX W 34 20 8 15 53.3 0 0 - 4 7 57.1 2 9 11 1 1 3 7 6 -1
+p651
+aVSasha Danilovic MIA 11/24/1996 MIA @ PHX W 26 13 4 9 44.4 1 3 33.3 4 5 80.0 0 4 4 0 0 0 1 5 3
+p652
+aVEd Pinckney MIA 11/24/1996 MIA @ PHX W 20 2 1 2 50.0 0 0 - 0 0 - 2 3 5 2 0 0 0 1 -5
+p653
+aVDan Majerle MIA 11/24/1996 MIA @ PHX W 48 14 5 15 33.3 3 6 50.0 1 2 50.0 1 2 3 6 3 0 4 3 3
+p654
+aVKeith Askins MIA 11/22/1996 MIA @ SAC W 25 8 1 2 50.0 1 1 100.0 5 5 100.0 1 3 4 1 0 0 1 6 3
+p655
+aVDan Majerle MIA 11/22/1996 MIA @ SAC W 52 19 7 14 50.0 3 7 42.9 2 4 50.0 2 4 6 7 1 1 0 2 8
+p656
+aVIke Austin MIA 11/22/1996 MIA @ SAC W 33 12 5 9 55.6 0 0 - 2 5 40.0 2 8 10 0 2 1 3 5 -1
+p657
+aVGary Grant MIA 11/22/1996 MIA @ SAC W 12 3 1 3 33.3 0 1 0.0 1 2 50.0 0 0 0 2 0 0 0 1 5
+p658
+aVTim Hardaway MIA 11/22/1996 MIA @ SAC W 46 22 6 20 30.0 2 7 28.6 8 8 100.0 0 3 3 8 2 0 1 0 -5
+p659
+aVSasha Danilovic MIA 11/22/1996 MIA @ SAC W 39 16 5 10 50.0 2 6 33.3 4 4 100.0 0 5 5 2 3 0 5 5 -5
+p660
+aVP.J. Brown MIA 11/22/1996 MIA @ SAC W 47 11 4 8 50.0 0 0 - 3 4 75.0 8 5 13 0 1 2 3 4 -1
+p661
+aVEd Pinckney MIA 11/22/1996 MIA @ SAC W 0 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p662
+aVAlonzo Mourning MIA 11/22/1996 MIA @ SAC W 35 20 7 17 41.2 0 0 - 6 7 85.7 4 10 14 1 0 2 7 6 13
+p663
+aVKeith Askins MIA 11/20/1996 MIA @ VAN W 22 10 3 7 42.9 0 2 0.0 4 4 100.0 2 0 2 1 0 1 0 0 27
+p664
+aVVoshon Lenard MIA 11/20/1996 MIA @ VAN W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p665
+aVEd Pinckney MIA 11/20/1996 MIA @ VAN W 5 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 3 0
+p666
+aVAlonzo Mourning MIA 11/20/1996 MIA @ VAN W 21 14 6 11 54.5 0 0 - 2 4 50.0 4 5 9 0 1 3 5 4 4
+p667
+aVIke Austin MIA 11/20/1996 MIA @ VAN W 30 17 6 12 50.0 0 0 - 5 8 62.5 1 8 9 3 0 0 2 3 22
+p668
+aVP.J. Brown MIA 11/20/1996 MIA @ VAN W 36 4 1 8 12.5 0 0 - 2 2 100.0 3 5 8 1 2 5 2 2 12
+p669
+aVDan Majerle MIA 11/20/1996 MIA @ VAN W 46 16 6 14 42.9 4 9 44.4 0 0 - 4 5 9 6 1 1 2 2 22
+p670
+aVTim Hardaway MIA 11/20/1996 MIA @ VAN W 33 19 7 11 63.6 5 7 71.4 0 2 0.0 0 3 3 7 1 0 4 2 -2
+p671
+aVGary Grant MIA 11/20/1996 MIA @ VAN W 15 5 1 4 25.0 1 1 100.0 2 2 100.0 1 1 2 3 1 0 0 1 21
+p672
+aVSasha Danilovic MIA 11/20/1996 MIA @ VAN W 23 3 1 5 20.0 1 3 33.3 0 0 - 0 1 1 2 1 0 1 1 -5
+p673
+aVMark Strickland MIA 11/20/1996 MIA @ VAN W 4 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 0 0 0 1 0
+p674
+aVJames Scott MIA 11/20/1996 MIA @ VAN W 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -3
+p675
+aVDan Majerle MIA 11/19/1996 MIA @ DEN W 36 11 4 7 57.1 2 2 100.0 1 2 50.0 0 2 2 5 3 0 0 1 27
+p676
+aVGary Grant MIA 11/19/1996 MIA @ DEN W 17 12 5 8 62.5 2 4 50.0 0 1 0.0 0 1 1 0 1 0 1 2 3
+p677
+aVIke Austin MIA 11/19/1996 MIA @ DEN W 15 5 1 6 16.7 0 0 - 3 6 50.0 0 0 0 2 1 0 1 4 5
+p678
+aVVoshon Lenard MIA 11/19/1996 MIA @ DEN W 3 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 -2
+p679
+aVP.J. Brown MIA 11/19/1996 MIA @ DEN W 38 18 7 13 53.8 0 0 - 4 6 66.7 2 9 11 0 2 0 2 4 17
+p680
+aVSasha Danilovic MIA 11/19/1996 MIA @ DEN W 33 13 4 10 40.0 2 3 66.7 3 3 100.0 0 0 0 2 2 0 2 3 7
+p681
+aVKeith Askins MIA 11/19/1996 MIA @ DEN W 20 3 1 3 33.3 1 2 50.0 0 0 - 2 1 3 3 0 0 2 5 3
+p682
+aVEd Pinckney MIA 11/19/1996 MIA @ DEN W 4 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -6
+p683
+aVAlonzo Mourning MIA 11/19/1996 MIA @ DEN W 36 23 9 12 75.0 0 0 - 5 8 62.5 1 7 8 4 1 2 4 4 22
+p684
+aVMark Strickland MIA 11/19/1996 MIA @ DEN W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -2
+p685
+aVTim Hardaway MIA 11/19/1996 MIA @ DEN W 35 12 5 8 62.5 1 2 50.0 1 2 50.0 0 3 3 7 2 0 2 1 16
+p686
+aVKurt Thomas MIA 11/16/1996 MIA vs. PHI L 26 6 1 6 16.7 0 0 - 4 4 100.0 1 4 5 0 2 0 2 4 -6
+p687
+aVIke Austin MIA 11/16/1996 MIA vs. PHI L 27 4 2 3 66.7 0 0 - 0 0 - 3 9 12 1 2 1 1 6 17
+p688
+aVAlonzo Mourning MIA 11/16/1996 MIA vs. PHI L 26 9 3 6 50.0 0 0 - 3 4 75.0 0 5 5 1 0 1 8 4 -14
+p689
+aVSasha Danilovic MIA 11/16/1996 MIA vs. PHI L 39 18 7 15 46.7 3 6 50.0 1 2 50.0 2 1 3 0 0 0 3 3 -4
+p690
+aVP.J. Brown MIA 11/16/1996 MIA vs. PHI L 17 6 2 5 40.0 0 0 - 2 2 100.0 4 3 7 1 1 0 3 5 -5
+p691
+aVGary Grant MIA 11/16/1996 MIA vs. PHI L 6 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 2 0 0 2 1 -11
+p692
+aVTim Hardaway MIA 11/16/1996 MIA vs. PHI L 42 23 9 22 40.9 1 6 16.7 4 4 100.0 3 2 5 13 1 0 2 2 9
+p693
+aVDan Majerle MIA 11/16/1996 MIA vs. PHI L 41 19 8 17 47.1 3 9 33.3 0 1 0.0 3 4 7 2 4 1 2 1 6
+p694
+aVKeith Askins MIA 11/16/1996 MIA vs. PHI L 16 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 1 0 0 2 -2
+p695
+aVSasha Danilovic MIA 11/15/1996 MIA @ ATL L 38 4 1 6 16.7 1 2 50.0 1 1 100.0 0 0 0 1 0 0 0 3 -7
+p696
+aVGary Grant MIA 11/15/1996 MIA @ ATL L 8 0 0 4 0.0 0 0 - 0 0 - 0 1 1 0 1 0 1 2 -1
+p697
+aVVoshon Lenard MIA 11/15/1996 MIA @ ATL L 0 0 0 2 0.0 0 2 0.0 0 0 - 1 0 1 0 0 0 0 0 -2
+p698
+aVDan Majerle MIA 11/15/1996 MIA @ ATL L 42 5 2 7 28.6 1 5 20.0 0 2 0.0 1 3 4 4 1 0 1 3 -13
+p699
+aVKeith Askins MIA 11/15/1996 MIA @ ATL L 12 2 1 3 33.3 0 1 0.0 0 0 - 1 0 1 1 0 1 0 2 3
+p700
+aVIke Austin MIA 11/15/1996 MIA @ ATL L 22 8 3 9 33.3 0 0 - 2 4 50.0 2 5 7 0 0 1 2 4 3
+p701
+aVAlonzo Mourning MIA 11/15/1996 MIA @ ATL L 34 17 8 12 66.7 1 1 100.0 0 1 0.0 2 8 10 3 0 0 3 5 1
+p702
+aVP.J. Brown MIA 11/15/1996 MIA @ ATL L 21 7 2 5 40.0 0 0 - 3 4 75.0 0 2 2 1 1 1 2 5 -19
+p703
+aVTim Hardaway MIA 11/15/1996 MIA @ ATL L 43 23 8 19 42.1 6 11 54.5 1 1 100.0 1 2 3 8 3 0 3 5 -6
+p704
+aVKurt Thomas MIA 11/15/1996 MIA @ ATL L 19 11 5 10 50.0 0 0 - 1 1 100.0 2 4 6 1 1 0 2 4 1
+p705
+aVDan Majerle MIA 11/13/1996 MIA @ CHI L 23 3 1 6 16.7 1 4 25.0 0 0 - 0 3 3 4 0 0 1 5 -9
+p706
+aVMark Strickland MIA 11/13/1996 MIA @ CHI L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 1 0 -9
+p707
+aVP.J. Brown MIA 11/13/1996 MIA @ CHI L 26 12 5 8 62.5 0 0 - 2 4 50.0 2 6 8 0 1 0 3 3 -15
+p708
+aVAlonzo Mourning MIA 11/13/1996 MIA @ CHI L 34 20 7 16 43.8 0 0 - 6 11 54.5 1 5 6 0 0 3 2 5 -11
+p709
+aVSasha Danilovic MIA 11/13/1996 MIA @ CHI L 36 10 4 10 40.0 0 1 0.0 2 2 100.0 0 1 1 1 1 0 4 3 -29
+p710
+aVVoshon Lenard MIA 11/13/1996 MIA @ CHI L 15 2 1 5 20.0 0 3 0.0 0 0 - 2 2 4 2 0 0 0 0 -19
+p711
+aVIke Austin MIA 11/13/1996 MIA @ CHI L 19 6 3 6 50.0 0 0 - 0 0 - 0 3 3 1 0 0 1 2 -19
+p712
+aVKeith Askins MIA 11/13/1996 MIA @ CHI L 16 5 2 4 50.0 1 2 50.0 0 0 - 1 0 1 0 0 0 0 3 -5
+p713
+aVGary Grant MIA 11/13/1996 MIA @ CHI L 16 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -26
+p714
+aVKurt Thomas MIA 11/13/1996 MIA @ CHI L 17 1 0 3 0.0 0 0 - 1 2 50.0 0 6 6 0 0 0 2 6 -8
+p715
+aVTim Hardaway MIA 11/13/1996 MIA @ CHI L 34 8 2 10 20.0 1 4 25.0 3 5 60.0 1 3 4 4 0 0 1 2 -10
+p716
+aVAlonzo Mourning MIA 11/12/1996 MIA vs. CHH W 34 14 6 16 37.5 0 0 - 2 2 100.0 2 7 9 2 1 3 3 2 8
+p717
+aVP.J. Brown MIA 11/12/1996 MIA vs. CHH W 29 6 3 10 30.0 0 0 - 0 0 - 4 2 6 0 1 4 1 4 12
+p718
+aVDan Majerle MIA 11/12/1996 MIA vs. CHH W 48 20 8 15 53.3 3 8 37.5 1 1 100.0 3 2 5 1 2 0 2 3 8
+p719
+aVTim Hardaway MIA 11/12/1996 MIA vs. CHH W 39 22 9 20 45.0 3 7 42.9 1 1 100.0 3 1 4 12 3 0 1 3 5
+p720
+aVKurt Thomas MIA 11/12/1996 MIA vs. CHH W 22 12 3 7 42.9 0 0 - 6 7 85.7 4 3 7 0 0 0 2 2 -5
+p721
+aVGary Grant MIA 11/12/1996 MIA vs. CHH W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 1 1 5 1 0 1 2 4
+p722
+aVKeith Askins MIA 11/12/1996 MIA vs. CHH W 14 3 1 2 50.0 0 1 0.0 1 1 100.0 1 0 1 0 1 0 0 0 10
+p723
+aVSasha Danilovic MIA 11/12/1996 MIA vs. CHH W 29 17 6 9 66.7 1 3 33.3 4 5 80.0 0 3 3 2 1 0 0 4 -2
+p724
+aVIke Austin MIA 11/12/1996 MIA vs. CHH W 12 7 3 5 60.0 0 0 - 1 1 100.0 0 1 1 0 0 1 4 4 0
+p725
+aVKeith Askins MIA 11/09/1996 MIA @ DAL W 11 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 2 -8
+p726
+aVIke Austin MIA 11/09/1996 MIA @ DAL W 15 5 2 4 50.0 0 0 - 1 2 50.0 2 2 4 1 0 0 6 1 -4
+p727
+aVP.J. Brown MIA 11/09/1996 MIA @ DAL W 18 6 3 3 100.0 0 0 - 0 0 - 3 3 6 1 0 1 0 1 -12
+p728
+aVSasha Danilovic MIA 11/09/1996 MIA @ DAL W 41 10 4 13 30.8 0 6 0.0 2 2 100.0 1 1 2 1 1 0 4 4 7
+p729
+aVGary Grant MIA 11/09/1996 MIA @ DAL W 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -14
+p730
+aVKurt Thomas MIA 11/09/1996 MIA @ DAL W 30 18 7 14 50.0 0 1 0.0 4 8 50.0 6 8 14 2 1 2 0 4 17
+p731
+aVTim Hardaway MIA 11/09/1996 MIA @ DAL W 41 19 6 20 30.0 1 8 12.5 6 10 60.0 1 3 4 7 6 0 0 2 21
+p732
+aVDan Majerle MIA 11/09/1996 MIA @ DAL W 42 19 8 16 50.0 3 6 50.0 0 0 - 1 5 6 7 1 1 0 1 18
+p733
+aVAlonzo Mourning MIA 11/09/1996 MIA @ DAL W 35 11 5 12 41.7 0 0 - 1 3 33.3 5 7 12 3 0 1 6 4 10
+p734
+aVKurt Thomas MIA 11/08/1996 MIA vs. MIL W 14 4 2 6 33.3 0 0 - 0 0 - 1 5 6 0 0 1 2 2 -2
+p735
+aVSasha Danilovic MIA 11/08/1996 MIA vs. MIL W 36 10 3 7 42.9 2 3 66.7 2 2 100.0 0 1 1 3 1 0 3 3 11
+p736
+aVAlonzo Mourning MIA 11/08/1996 MIA vs. MIL W 36 23 10 17 58.8 0 1 0.0 3 7 42.9 3 7 10 0 1 3 3 2 12
+p737
+aVGary Grant MIA 11/08/1996 MIA vs. MIL W 20 5 1 6 16.7 1 3 33.3 2 2 100.0 1 0 1 6 2 0 2 2 1
+p738
+aVKeith Askins MIA 11/08/1996 MIA vs. MIL W 21 8 3 4 75.0 2 2 100.0 0 0 - 1 6 7 0 0 0 1 1 8
+p739
+aVDan Majerle MIA 11/08/1996 MIA vs. MIL W 34 14 6 10 60.0 1 2 50.0 1 2 50.0 3 2 5 0 1 0 2 1 5
+p740
+aVMark Strickland MIA 11/08/1996 MIA vs. MIL W 1 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -3
+p741
+aVP.J. Brown MIA 11/08/1996 MIA vs. MIL W 21 13 4 6 66.7 0 0 - 5 6 83.3 3 1 4 1 0 1 1 2 5
+p742
+aVIke Austin MIA 11/08/1996 MIA vs. MIL W 28 12 4 10 40.0 0 0 - 4 6 66.7 3 7 10 4 1 0 3 3 12
+p743
+aVTim Hardaway MIA 11/08/1996 MIA vs. MIL W 28 12 5 11 45.5 0 1 0.0 2 4 50.0 0 1 1 9 1 0 0 2 11
+p744
+aVVoshon Lenard MIA 11/06/1996 MIA vs. CHI L 11 4 2 7 28.6 0 4 0.0 0 0 - 1 0 1 0 0 0 0 1 6
+p745
+aVIke Austin MIA 11/06/1996 MIA vs. CHI L 6 4 2 2 100.0 0 0 - 0 0 - 0 2 2 0 1 2 1 0 -2
+p746
+aVGary Grant MIA 11/06/1996 MIA vs. CHI L 11 3 1 3 33.3 0 1 0.0 1 2 50.0 0 2 2 1 1 0 2 1 8
+p747
+aVKeith Askins MIA 11/06/1996 MIA vs. CHI L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 2 -3
+p748
+aVKurt Thomas MIA 11/06/1996 MIA vs. CHI L 27 9 3 6 50.0 0 0 - 3 4 75.0 2 5 7 1 0 0 2 5 -21
+p749
+aVAlonzo Mourning MIA 11/06/1996 MIA vs. CHI L 41 33 12 21 57.1 0 0 - 9 14 64.3 8 11 19 4 1 4 1 4 -1
+p750
+aVDan Majerle MIA 11/06/1996 MIA vs. CHI L 43 8 4 14 28.6 0 8 0.0 0 0 - 1 6 7 1 0 0 1 1 -3
+p751
+aVSasha Danilovic MIA 11/06/1996 MIA vs. CHI L 28 15 5 7 71.4 3 4 75.0 2 2 100.0 0 0 0 1 0 0 1 6 -4
+p752
+aVTim Hardaway MIA 11/06/1996 MIA vs. CHI L 38 18 6 15 40.0 1 6 16.7 5 5 100.0 0 2 2 3 1 0 3 1 -16
+p753
+aVP.J. Brown MIA 11/06/1996 MIA vs. CHI L 26 6 3 5 60.0 0 0 - 0 0 - 1 3 4 2 0 0 2 6 6
+p754
+aVIke Austin MIA 11/02/1996 MIA @ IND W 21 1 0 2 0.0 0 0 - 1 3 33.3 0 4 4 0 1 1 2 6 -1
+p755
+aVSasha Danilovic MIA 11/02/1996 MIA @ IND W 34 15 5 9 55.6 3 5 60.0 2 3 66.7 0 1 1 1 0 0 4 2 12
+p756
+aVTim Hardaway MIA 11/02/1996 MIA @ IND W 38 25 8 20 40.0 2 10 20.0 7 10 70.0 0 3 3 9 6 0 2 2 1
+p757
+aVP.J. Brown MIA 11/02/1996 MIA @ IND W 13 0 0 0 - 0 0 - 0 0 - 1 1 2 1 0 1 2 5 1
+p758
+aVKurt Thomas MIA 11/02/1996 MIA @ IND W 35 7 3 11 27.3 0 0 - 1 1 100.0 1 8 9 1 1 2 3 5 6
+p759
+aVAlonzo Mourning MIA 11/02/1996 MIA @ IND W 36 27 8 10 80.0 0 0 - 11 14 78.6 3 5 8 2 1 1 3 6 1
+p760
+aVDan Majerle MIA 11/02/1996 MIA @ IND W 36 14 6 15 40.0 2 10 20.0 0 1 0.0 0 2 2 1 2 1 1 5 -8
+p761
+aVKeith Askins MIA 11/02/1996 MIA @ IND W 12 2 1 2 50.0 0 1 0.0 0 0 - 1 1 2 1 0 0 0 2 -1
+p762
+aVGary Grant MIA 11/02/1996 MIA @ IND W 16 6 3 3 100.0 0 0 - 0 0 - 0 1 1 4 1 0 2 1 -1
+p763
+aVKurt Thomas MIA 11/01/1996 MIA vs. ATL W 23 4 2 8 25.0 0 0 - 0 0 - 1 5 6 1 2 1 2 4 5
+p764
+aVSasha Danilovic MIA 11/01/1996 MIA vs. ATL W 38 14 5 12 41.7 1 5 20.0 3 4 75.0 2 2 4 6 0 0 2 2 9
+p765
+aVIke Austin MIA 11/01/1996 MIA vs. ATL W 16 6 3 7 42.9 0 0 - 0 0 - 3 4 7 2 0 0 4 5 -1
+p766
+aVTim Hardaway MIA 11/01/1996 MIA vs. ATL W 39 20 6 10 60.0 4 7 57.1 4 4 100.0 0 1 1 12 3 0 1 1 9
+p767
+aVGary Grant MIA 11/01/1996 MIA vs. ATL W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 4
+p768
+aVDan Majerle MIA 11/01/1996 MIA vs. ATL W 42 14 4 10 40.0 4 7 57.1 2 2 100.0 0 2 2 5 2 0 2 0 18
+p769
+aVAlonzo Mourning MIA 11/01/1996 MIA vs. ATL W 37 26 11 19 57.9 0 0 - 4 7 57.1 4 8 12 0 1 3 6 4 14
+p770
+aVP.J. Brown MIA 11/01/1996 MIA vs. ATL W 21 3 1 5 20.0 0 0 - 1 2 50.0 3 1 4 0 0 0 0 5 8
+p771
+aVKeith Askins MIA 11/01/1996 MIA vs. ATL W 15 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 0 3 -1
+p772
+a.

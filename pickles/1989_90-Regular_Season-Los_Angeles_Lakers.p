@@ -1,0 +1,1582 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJay Vincent LAL 04/22/1990 LAL @ POR L 25 14 7 12 58.3 0 0 - 0 0 - 0 2 2 1 2 0 4 4 -
+p2
+aVA.C. Green LAL 04/22/1990 LAL @ POR L 23 17 4 12 33.3 0 0 - 9 12 75.0 6 5 11 3 0 0 0 2 -
+p3
+aVVlade Divac LAL 04/22/1990 LAL @ POR L 33 14 7 13 53.8 0 0 - 0 1 0.0 4 5 9 2 1 1 1 4 -
+p4
+aVMichael Cooper LAL 04/22/1990 LAL @ POR L 38 5 1 14 7.1 0 6 0.0 3 3 100.0 3 2 5 4 0 1 2 4 -
+p5
+aVMark McNamara LAL 04/22/1990 LAL @ POR L 24 15 6 15 40.0 0 0 - 3 4 75.0 5 4 9 1 1 0 2 4 -
+p6
+aVOrlando Woolridge LAL 04/22/1990 LAL @ POR L 34 17 8 16 50.0 0 1 0.0 1 1 100.0 2 0 2 3 1 2 3 1 -
+p7
+aVLarry Drew LAL 04/22/1990 LAL @ POR L 44 4 1 16 6.3 0 4 0.0 2 2 100.0 0 5 5 5 1 0 6 4 -
+p8
+aVMel McCants LAL 04/22/1990 LAL @ POR L 19 2 1 8 12.5 0 0 - 0 0 - 0 2 2 1 0 0 0 5 -
+p9
+aVMichael Cooper LAL 04/21/1990 LAL @ LAC W 28 4 1 3 33.3 0 0 - 2 2 100.0 1 2 3 3 0 0 3 5 -
+p10
+aVA.C. Green LAL 04/21/1990 LAL @ LAC W 26 21 9 15 60.0 1 3 33.3 2 2 100.0 2 2 4 1 0 0 1 3 -
+p11
+aVJames Worthy LAL 04/21/1990 LAL @ LAC W 38 28 12 13 92.3 2 3 66.7 2 3 66.7 1 3 4 5 0 1 0 3 -
+p12
+aVLarry Drew LAL 04/21/1990 LAL @ LAC W 16 7 2 5 40.0 1 3 33.3 2 2 100.0 0 1 1 4 0 0 1 0 -
+p13
+aVMagic Johnson LAL 04/21/1990 LAL @ LAC W 35 30 10 21 47.6 5 10 50.0 5 5 100.0 3 5 8 12 4 0 4 1 -
+p14
+aVOrlando Woolridge LAL 04/21/1990 LAL @ LAC W 24 17 6 12 50.0 0 1 0.0 5 5 100.0 1 1 2 3 0 0 0 2 -
+p15
+aVVlade Divac LAL 04/21/1990 LAL @ LAC W 21 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 1 1 0 2 -
+p16
+aVJay Vincent LAL 04/21/1990 LAL @ LAC W 24 16 8 13 61.5 0 0 - 0 0 - 1 0 1 1 0 0 0 4 -
+p17
+aVMel McCants LAL 04/21/1990 LAL @ LAC W 5 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p18
+aVMychal Thompson LAL 04/21/1990 LAL @ LAC W 23 0 0 4 0.0 0 0 - 0 0 - 0 5 5 0 1 1 0 3 -
+p19
+aVMagic Johnson LAL 04/19/1990 LAL vs. MIN W 30 11 2 8 25.0 1 3 33.3 6 6 100.0 1 3 4 7 1 1 3 2 -
+p20
+aVJay Vincent LAL 04/19/1990 LAL vs. MIN W 15 8 4 6 66.7 0 0 - 0 0 - 0 2 2 0 0 1 0 1 -
+p21
+aVA.C. Green LAL 04/19/1990 LAL vs. MIN W 31 9 3 7 42.9 0 0 - 3 3 100.0 6 3 9 1 0 0 4 2 -
+p22
+aVVlade Divac LAL 04/19/1990 LAL vs. MIN W 10 4 2 4 50.0 0 0 - 0 0 - 2 4 6 2 1 3 3 3 -
+p23
+aVMichael Cooper LAL 04/19/1990 LAL vs. MIN W 40 14 6 9 66.7 2 3 66.7 0 0 - 0 4 4 12 0 0 2 4 -
+p24
+aVOrlando Woolridge LAL 04/19/1990 LAL vs. MIN W 31 23 11 14 78.6 0 0 - 1 2 50.0 0 1 1 2 0 1 2 1 -
+p25
+aVLarry Drew LAL 04/19/1990 LAL vs. MIN W 18 7 2 3 66.7 1 2 50.0 2 2 100.0 0 2 2 6 0 0 1 1 -
+p26
+aVJames Worthy LAL 04/19/1990 LAL vs. MIN W 26 13 6 11 54.5 0 0 - 1 2 50.0 3 3 6 3 0 0 3 1 -
+p27
+aVMark McNamara LAL 04/19/1990 LAL vs. MIN W 7 4 2 3 66.7 0 0 - 0 0 - 0 3 3 0 0 0 0 1 -
+p28
+aVByron Scott LAL 04/19/1990 LAL vs. MIN W 18 11 4 8 50.0 1 3 33.3 2 2 100.0 0 3 3 3 0 0 2 2 -
+p29
+aVMychal Thompson LAL 04/19/1990 LAL vs. MIN W 14 9 3 3 100.0 0 0 - 3 4 75.0 2 4 6 0 1 0 0 2 -
+p30
+aVJames Worthy LAL 04/17/1990 LAL @ SEA W 34 22 9 18 50.0 2 4 50.0 2 2 100.0 0 4 4 6 1 0 0 4 -
+p31
+aVByron Scott LAL 04/17/1990 LAL @ SEA W 36 13 5 12 41.7 2 4 50.0 1 2 50.0 1 1 2 2 1 0 0 2 -
+p32
+aVA.C. Green LAL 04/17/1990 LAL @ SEA W 34 18 8 13 61.5 0 0 - 2 2 100.0 5 8 13 0 1 0 2 2 -
+p33
+aVLarry Drew LAL 04/17/1990 LAL @ SEA W 13 11 4 6 66.7 3 3 100.0 0 0 - 1 1 2 2 0 0 2 1 -
+p34
+aVMychal Thompson LAL 04/17/1990 LAL @ SEA W 19 3 1 3 33.3 0 0 - 1 2 50.0 1 3 4 0 0 0 1 1 -
+p35
+aVOrlando Woolridge LAL 04/17/1990 LAL @ SEA W 20 4 2 4 50.0 0 0 - 0 0 - 1 1 2 0 0 0 3 1 -
+p36
+aVVlade Divac LAL 04/17/1990 LAL @ SEA W 21 6 3 4 75.0 0 0 - 0 2 0.0 1 3 4 1 0 2 0 1 -
+p37
+aVMagic Johnson LAL 04/17/1990 LAL @ SEA W 38 21 4 12 33.3 1 2 50.0 12 13 92.3 2 4 6 8 2 0 4 2 -
+p38
+aVMichael Cooper LAL 04/17/1990 LAL @ SEA W 25 4 2 7 28.6 0 2 0.0 0 0 - 0 3 3 2 0 0 1 2 -
+p39
+aVA.C. Green LAL 04/15/1990 LAL vs. HOU W 28 16 4 9 44.4 0 0 - 8 8 100.0 5 5 10 2 2 1 2 2 -
+p40
+aVJames Worthy LAL 04/15/1990 LAL vs. HOU W 37 23 11 18 61.1 0 1 0.0 1 2 50.0 2 0 2 4 2 0 2 1 -
+p41
+aVMark McNamara LAL 04/15/1990 LAL vs. HOU W 4 0 0 2 0.0 0 0 - 0 2 0.0 0 0 0 0 0 0 1 0 -
+p42
+aVOrlando Woolridge LAL 04/15/1990 LAL vs. HOU W 12 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 0 0 0 1 1 -
+p43
+aVMychal Thompson LAL 04/15/1990 LAL vs. HOU W 22 12 5 7 71.4 0 0 - 2 2 100.0 3 2 5 0 0 2 1 4 -
+p44
+aVMel McCants LAL 04/15/1990 LAL vs. HOU W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p45
+aVMagic Johnson LAL 04/15/1990 LAL vs. HOU W 41 25 7 14 50.0 3 7 42.9 8 8 100.0 1 10 11 11 0 0 7 4 -
+p46
+aVJay Vincent LAL 04/15/1990 LAL vs. HOU W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p47
+aVLarry Drew LAL 04/15/1990 LAL vs. HOU W 10 6 3 5 60.0 0 1 0.0 0 2 0.0 0 0 0 0 0 0 0 1 -
+p48
+aVByron Scott LAL 04/15/1990 LAL vs. HOU W 34 11 4 10 40.0 2 4 50.0 1 1 100.0 1 4 5 5 2 0 3 4 -
+p49
+aVMichael Cooper LAL 04/15/1990 LAL vs. HOU W 18 4 2 5 40.0 0 2 0.0 0 0 - 0 4 4 1 1 0 1 5 -
+p50
+aVVlade Divac LAL 04/15/1990 LAL vs. HOU W 26 10 2 5 40.0 0 0 - 6 9 66.7 1 12 13 2 2 2 1 4 -
+p51
+aVA.C. Green LAL 04/13/1990 LAL vs. GOS W 28 24 7 15 46.7 0 0 - 10 11 90.9 6 5 11 1 0 0 3 2 -
+p52
+aVByron Scott LAL 04/13/1990 LAL vs. GOS W 34 21 9 15 60.0 1 1 100.0 2 3 66.7 2 5 7 8 1 1 2 3 -
+p53
+aVMark McNamara LAL 04/13/1990 LAL vs. GOS W 9 2 1 3 33.3 0 0 - 0 0 - 2 2 4 0 0 0 1 2 -
+p54
+aVJay Vincent LAL 04/13/1990 LAL vs. GOS W 8 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 0 0 3 1 -
+p55
+aVLarry Drew LAL 04/13/1990 LAL vs. GOS W 24 6 2 7 28.6 1 2 50.0 1 2 50.0 0 1 1 2 0 0 2 3 -
+p56
+aVMagic Johnson LAL 04/13/1990 LAL vs. GOS W 32 21 8 12 66.7 2 4 50.0 3 3 100.0 3 7 10 13 0 0 1 4 -
+p57
+aVJames Worthy LAL 04/13/1990 LAL vs. GOS W 21 17 6 13 46.2 1 1 100.0 4 7 57.1 1 2 3 2 2 0 0 3 -
+p58
+aVMichael Cooper LAL 04/13/1990 LAL vs. GOS W 23 5 2 8 25.0 1 3 33.3 0 0 - 1 3 4 1 0 0 1 5 -
+p59
+aVOrlando Woolridge LAL 04/13/1990 LAL vs. GOS W 25 14 5 7 71.4 0 0 - 4 7 57.1 0 4 4 2 0 1 1 3 -
+p60
+aVMel McCants LAL 04/13/1990 LAL vs. GOS W 4 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 0 -
+p61
+aVVlade Divac LAL 04/13/1990 LAL vs. GOS W 32 13 6 12 50.0 0 0 - 1 2 50.0 4 6 10 5 1 4 1 2 -
+p62
+aVJames Worthy LAL 04/12/1990 LAL @ UTH L 41 33 12 19 63.2 1 2 50.0 8 10 80.0 1 1 2 1 2 1 1 1 -
+p63
+aVMichael Cooper LAL 04/12/1990 LAL @ UTH L 29 8 3 6 50.0 2 3 66.7 0 0 - 2 7 9 5 2 0 1 2 -
+p64
+aVVlade Divac LAL 04/12/1990 LAL @ UTH L 14 4 2 6 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -
+p65
+aVOrlando Woolridge LAL 04/12/1990 LAL @ UTH L 25 9 4 10 40.0 0 0 - 1 1 100.0 3 2 5 0 2 2 0 3 -
+p66
+aVMagic Johnson LAL 04/12/1990 LAL @ UTH L 43 20 4 11 36.4 1 2 50.0 11 12 91.7 3 5 8 9 1 0 5 2 -
+p67
+aVLarry Drew LAL 04/12/1990 LAL @ UTH L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p68
+aVByron Scott LAL 04/12/1990 LAL @ UTH L 40 12 6 17 35.3 0 4 0.0 0 0 - 0 1 1 3 1 0 0 4 -
+p69
+aVA.C. Green LAL 04/12/1990 LAL @ UTH L 45 18 8 19 42.1 0 1 0.0 2 2 100.0 5 10 15 2 1 0 1 4 -
+p70
+aVMel McCants LAL 04/09/1990 LAL vs. DAL W 3 4 0 0 - 0 0 - 4 4 100.0 0 0 0 0 0 0 0 1 -
+p71
+aVJames Worthy LAL 04/09/1990 LAL vs. DAL W 38 11 5 8 62.5 0 0 - 1 1 100.0 4 1 5 4 1 0 2 5 -
+p72
+aVJay Vincent LAL 04/09/1990 LAL vs. DAL W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p73
+aVVlade Divac LAL 04/09/1990 LAL vs. DAL W 33 21 9 13 69.2 0 0 - 3 4 75.0 4 7 11 1 0 2 0 4 -
+p74
+aVMagic Johnson LAL 04/09/1990 LAL vs. DAL W 41 38 8 13 61.5 3 5 60.0 19 22 86.4 1 7 8 8 1 1 2 1 -
+p75
+aVByron Scott LAL 04/09/1990 LAL vs. DAL W 39 13 5 16 31.3 1 5 20.0 2 2 100.0 0 5 5 3 2 0 1 1 -
+p76
+aVA.C. Green LAL 04/09/1990 LAL vs. DAL W 34 15 5 15 33.3 0 1 0.0 5 6 83.3 6 3 9 1 1 0 1 3 -
+p77
+aVMichael Cooper LAL 04/09/1990 LAL vs. DAL W 19 7 2 3 66.7 1 1 100.0 2 2 100.0 0 2 2 3 0 0 2 1 -
+p78
+aVMark McNamara LAL 04/09/1990 LAL vs. DAL W 7 0 0 2 0.0 0 0 - 0 2 0.0 1 3 4 0 0 0 1 0 -
+p79
+aVOrlando Woolridge LAL 04/09/1990 LAL vs. DAL W 19 4 2 5 40.0 0 0 - 0 0 - 0 5 5 2 1 2 3 1 -
+p80
+aVLarry Drew LAL 04/09/1990 LAL vs. DAL W 6 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 3 1 -
+p81
+aVMichael Cooper LAL 04/08/1990 LAL @ DEN W 38 10 3 5 60.0 1 2 50.0 3 4 75.0 0 3 3 3 2 0 1 2 -
+p82
+aVByron Scott LAL 04/08/1990 LAL @ DEN W 23 5 1 8 12.5 1 4 25.0 2 2 100.0 0 1 1 3 1 0 2 1 -
+p83
+aVVlade Divac LAL 04/08/1990 LAL @ DEN W 26 14 7 14 50.0 0 0 - 0 0 - 3 3 6 2 0 3 1 3 -
+p84
+aVA.C. Green LAL 04/08/1990 LAL @ DEN W 37 26 11 19 57.9 0 0 - 4 4 100.0 6 12 18 2 2 0 0 4 -
+p85
+aVJames Worthy LAL 04/08/1990 LAL @ DEN W 38 28 11 14 78.6 0 0 - 6 9 66.7 1 3 4 9 1 0 4 3 -
+p86
+aVMagic Johnson LAL 04/08/1990 LAL @ DEN W 43 19 5 14 35.7 3 8 37.5 6 6 100.0 2 9 11 7 1 0 2 2 -
+p87
+aVLarry Drew LAL 04/08/1990 LAL @ DEN W 11 4 2 2 100.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p88
+aVOrlando Woolridge LAL 04/08/1990 LAL @ DEN W 24 10 1 10 10.0 0 0 - 8 8 100.0 0 2 2 3 0 0 5 3 -
+p89
+aVVlade Divac LAL 04/06/1990 LAL @ PHX W 20 7 2 5 40.0 0 0 - 3 4 75.0 4 5 9 2 1 1 1 5 -
+p90
+aVMagic Johnson LAL 04/06/1990 LAL @ PHX W 41 22 8 18 44.4 2 3 66.7 4 6 66.7 1 6 7 10 2 0 3 5 -
+p91
+aVByron Scott LAL 04/06/1990 LAL @ PHX W 23 14 5 10 50.0 2 2 100.0 2 2 100.0 0 2 2 1 1 0 1 5 -
+p92
+aVMark McNamara LAL 04/06/1990 LAL @ PHX W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p93
+aVA.C. Green LAL 04/06/1990 LAL @ PHX W 21 2 1 6 16.7 0 0 - 0 2 0.0 2 4 6 0 0 0 0 2 -
+p94
+aVJames Worthy LAL 04/06/1990 LAL @ PHX W 43 29 10 20 50.0 0 2 0.0 9 11 81.8 1 3 4 4 0 1 0 1 -
+p95
+aVMichael Cooper LAL 04/06/1990 LAL @ PHX W 31 7 2 10 20.0 1 4 25.0 2 4 50.0 4 2 6 2 3 0 3 5 -
+p96
+aVLarry Drew LAL 04/06/1990 LAL @ PHX W 9 8 3 5 60.0 2 3 66.7 0 0 - 1 0 1 3 1 1 1 1 -
+p97
+aVOrlando Woolridge LAL 04/06/1990 LAL @ PHX W 30 7 3 6 50.0 0 0 - 1 5 20.0 3 2 5 1 1 0 0 4 -
+p98
+aVMychal Thompson LAL 04/06/1990 LAL @ PHX W 18 7 3 5 60.0 0 0 - 1 2 50.0 3 2 5 1 0 0 1 4 -
+p99
+aVMychal Thompson LAL 04/05/1990 LAL vs. SAC W 31 8 2 6 33.3 0 0 - 4 4 100.0 2 6 8 2 0 0 1 5 -
+p100
+aVJames Worthy LAL 04/05/1990 LAL vs. SAC W 18 18 9 9 100.0 0 0 - 0 0 - 0 4 4 2 0 0 3 4 -
+p101
+aVA.C. Green LAL 04/05/1990 LAL vs. SAC W 39 12 4 6 66.7 0 0 - 4 4 100.0 0 8 8 0 1 1 0 2 -
+p102
+aVMagic Johnson LAL 04/05/1990 LAL vs. SAC W 40 21 8 18 44.4 3 7 42.9 2 2 100.0 1 3 4 16 2 0 2 2 -
+p103
+aVMichael Cooper LAL 04/05/1990 LAL vs. SAC W 18 5 2 8 25.0 1 2 50.0 0 0 - 0 1 1 5 0 0 0 1 -
+p104
+aVOrlando Woolridge LAL 04/05/1990 LAL vs. SAC W 30 21 8 11 72.7 0 0 - 5 8 62.5 2 4 6 1 1 1 3 2 -
+p105
+aVByron Scott LAL 04/05/1990 LAL vs. SAC W 33 18 5 10 50.0 1 3 33.3 7 8 87.5 1 2 3 3 1 0 3 3 -
+p106
+aVVlade Divac LAL 04/05/1990 LAL vs. SAC W 17 0 0 0 - 0 0 - 0 0 - 1 4 5 1 1 3 6 4 -
+p107
+aVLarry Drew LAL 04/05/1990 LAL vs. SAC W 14 7 2 3 66.7 1 1 100.0 2 4 50.0 0 0 0 3 0 0 1 0 -
+p108
+aVMagic Johnson LAL 04/01/1990 LAL vs. UTH W 41 33 9 20 45.0 2 5 40.0 13 16 81.3 4 4 8 13 1 2 6 4 -
+p109
+aVByron Scott LAL 04/01/1990 LAL vs. UTH W 37 25 10 14 71.4 1 3 33.3 4 5 80.0 1 3 4 4 2 0 1 3 -
+p110
+aVJay Vincent LAL 04/01/1990 LAL vs. UTH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p111
+aVMichael Cooper LAL 04/01/1990 LAL vs. UTH W 22 6 3 4 75.0 0 1 0.0 0 0 - 0 2 2 6 1 0 1 2 -
+p112
+aVJames Worthy LAL 04/01/1990 LAL vs. UTH W 40 23 10 16 62.5 0 0 - 3 3 100.0 1 2 3 2 2 1 4 2 -
+p113
+aVA.C. Green LAL 04/01/1990 LAL vs. UTH W 23 4 2 5 40.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 -
+p114
+aVVlade Divac LAL 04/01/1990 LAL vs. UTH W 14 2 1 3 33.3 0 0 - 0 0 - 1 3 4 0 0 1 2 1 -
+p115
+aVOrlando Woolridge LAL 04/01/1990 LAL vs. UTH W 21 14 6 8 75.0 0 0 - 2 2 100.0 0 2 2 1 1 0 1 2 -
+p116
+aVMychal Thompson LAL 04/01/1990 LAL vs. UTH W 33 12 6 7 85.7 0 0 - 0 0 - 6 5 11 1 0 2 0 5 -
+p117
+aVLarry Drew LAL 04/01/1990 LAL vs. UTH W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p118
+aVMel McCants LAL 04/01/1990 LAL vs. UTH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p119
+aVJay Vincent LAL 03/30/1990 LAL vs. POR W 8 0 0 2 0.0 0 0 - 0 0 - 0 0 0 2 1 0 0 0 -
+p120
+aVOrlando Woolridge LAL 03/30/1990 LAL vs. POR W 27 24 11 18 61.1 0 0 - 2 4 50.0 0 4 4 2 0 1 1 1 -
+p121
+aVVlade Divac LAL 03/30/1990 LAL vs. POR W 18 8 4 8 50.0 0 1 0.0 0 0 - 2 4 6 0 2 0 2 3 -
+p122
+aVA.C. Green LAL 03/30/1990 LAL vs. POR W 27 9 3 3 100.0 0 0 - 3 3 100.0 3 6 9 0 1 2 0 2 -
+p123
+aVMichael Cooper LAL 03/30/1990 LAL vs. POR W 30 12 4 7 57.1 0 1 0.0 4 4 100.0 1 4 5 6 1 0 1 5 -
+p124
+aVJames Worthy LAL 03/30/1990 LAL vs. POR W 19 12 6 10 60.0 0 0 - 0 0 - 0 1 1 4 0 0 1 4 -
+p125
+aVByron Scott LAL 03/30/1990 LAL vs. POR W 23 15 5 10 50.0 3 6 50.0 2 2 100.0 0 3 3 3 0 0 3 3 -
+p126
+aVMel McCants LAL 03/30/1990 LAL vs. POR W 8 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 0 0 1 3 -
+p127
+aVLarry Drew LAL 03/30/1990 LAL vs. POR W 16 8 3 5 60.0 2 3 66.7 0 0 - 1 0 1 3 1 0 0 2 -
+p128
+aVMark McNamara LAL 03/30/1990 LAL vs. POR W 6 4 1 4 25.0 0 0 - 2 3 66.7 0 3 3 0 0 0 1 1 -
+p129
+aVMychal Thompson LAL 03/30/1990 LAL vs. POR W 26 14 5 9 55.6 0 0 - 4 8 50.0 3 7 10 1 0 3 2 4 -
+p130
+aVMagic Johnson LAL 03/30/1990 LAL vs. POR W 32 25 8 15 53.3 1 3 33.3 8 9 88.9 0 10 10 14 0 0 4 2 -
+p131
+aVMychal Thompson LAL 03/28/1990 LAL @ LAC W 31 16 6 13 46.2 0 0 - 4 6 66.7 2 6 8 1 0 0 1 5 -
+p132
+aVVlade Divac LAL 03/28/1990 LAL @ LAC W 17 6 2 4 50.0 0 0 - 2 4 50.0 1 2 3 0 0 0 1 1 -
+p133
+aVByron Scott LAL 03/28/1990 LAL @ LAC W 46 18 8 17 47.1 1 4 25.0 1 1 100.0 0 4 4 8 1 0 0 1 -
+p134
+aVJames Worthy LAL 03/28/1990 LAL @ LAC W 43 27 12 21 57.1 0 0 - 3 5 60.0 0 3 3 4 5 1 1 2 -
+p135
+aVOrlando Woolridge LAL 03/28/1990 LAL @ LAC W 26 10 3 10 30.0 0 0 - 4 4 100.0 2 3 5 4 3 0 1 3 -
+p136
+aVMichael Cooper LAL 03/28/1990 LAL @ LAC W 24 9 3 6 50.0 1 3 33.3 2 2 100.0 1 2 3 3 0 0 1 3 -
+p137
+aVLarry Drew LAL 03/28/1990 LAL @ LAC W 36 14 6 8 75.0 2 2 100.0 0 0 - 0 3 3 5 1 0 2 3 -
+p138
+aVA.C. Green LAL 03/28/1990 LAL @ LAC W 17 6 2 3 66.7 0 0 - 2 2 100.0 2 1 3 0 2 0 0 4 -
+p139
+aVVlade Divac LAL 03/27/1990 LAL @ POR L 17 6 3 6 50.0 0 0 - 0 0 - 1 1 2 1 0 0 2 2 -
+p140
+aVByron Scott LAL 03/27/1990 LAL @ POR L 29 24 10 18 55.6 3 5 60.0 1 1 100.0 2 1 3 4 0 0 1 3 -
+p141
+aVMark McNamara LAL 03/27/1990 LAL @ POR L 5 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 1 0 -
+p142
+aVJay Vincent LAL 03/27/1990 LAL @ POR L 7 8 3 5 60.0 0 0 - 2 2 100.0 1 0 1 0 0 0 2 2 -
+p143
+aVMychal Thompson LAL 03/27/1990 LAL @ POR L 24 6 3 8 37.5 0 0 - 0 3 0.0 0 2 2 3 1 0 2 2 -
+p144
+aVMagic Johnson LAL 03/27/1990 LAL @ POR L 14 8 4 8 50.0 0 2 0.0 0 0 - 0 2 2 7 0 0 3 0 -
+p145
+aVLarry Drew LAL 03/27/1990 LAL @ POR L 19 9 4 9 44.4 1 3 33.3 0 0 - 0 0 0 2 0 0 1 0 -
+p146
+aVA.C. Green LAL 03/27/1990 LAL @ POR L 35 11 5 8 62.5 0 0 - 1 1 100.0 0 7 7 2 1 0 0 3 -
+p147
+aVJames Worthy LAL 03/27/1990 LAL @ POR L 36 14 7 12 58.3 0 0 - 0 0 - 2 8 10 5 0 0 2 3 -
+p148
+aVOrlando Woolridge LAL 03/27/1990 LAL @ POR L 21 16 6 12 50.0 0 0 - 4 6 66.7 1 1 2 3 1 1 2 3 -
+p149
+aVMichael Cooper LAL 03/27/1990 LAL @ POR L 28 3 1 4 25.0 1 3 33.3 0 0 - 1 2 3 5 1 1 0 4 -
+p150
+aVMel McCants LAL 03/27/1990 LAL @ POR L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 1 -
+p151
+aVMichael Cooper LAL 03/25/1990 LAL vs. SEA W 28 12 6 12 50.0 0 1 0.0 0 0 - 1 2 3 3 1 2 2 2 -
+p152
+aVOrlando Woolridge LAL 03/25/1990 LAL vs. SEA W 23 18 8 11 72.7 0 0 - 2 2 100.0 0 1 1 4 0 2 0 0 -
+p153
+aVA.C. Green LAL 03/25/1990 LAL vs. SEA W 30 6 2 7 28.6 0 1 0.0 2 2 100.0 1 5 6 2 1 0 3 1 -
+p154
+aVMagic Johnson LAL 03/25/1990 LAL vs. SEA W 31 18 6 7 85.7 1 2 50.0 5 5 100.0 0 2 2 5 1 0 4 2 -
+p155
+aVMark McNamara LAL 03/25/1990 LAL vs. SEA W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 -
+p156
+aVLarry Drew LAL 03/25/1990 LAL vs. SEA W 18 7 2 4 50.0 1 2 50.0 2 2 100.0 0 1 1 4 0 1 1 1 -
+p157
+aVJames Worthy LAL 03/25/1990 LAL vs. SEA W 33 16 6 9 66.7 0 0 - 4 4 100.0 3 5 8 4 0 0 2 3 -
+p158
+aVByron Scott LAL 03/25/1990 LAL vs. SEA W 20 17 5 10 50.0 2 3 66.7 5 6 83.3 0 0 0 3 2 0 0 3 -
+p159
+aVVlade Divac LAL 03/25/1990 LAL vs. SEA W 23 8 3 7 42.9 0 0 - 2 4 50.0 4 8 12 2 2 3 0 3 -
+p160
+aVMychal Thompson LAL 03/25/1990 LAL vs. SEA W 25 8 2 6 33.3 0 0 - 4 4 100.0 3 4 7 2 0 1 2 1 -
+p161
+aVMel McCants LAL 03/25/1990 LAL vs. SEA W 6 4 2 4 50.0 0 0 - 0 2 0.0 0 1 1 0 0 1 0 0 -
+p162
+aVLarry Drew LAL 03/23/1990 LAL vs. LAC W 15 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 0 1 -
+p163
+aVMagic Johnson LAL 03/23/1990 LAL vs. LAC W 35 28 8 15 53.3 0 2 0.0 12 16 75.0 2 4 6 8 1 2 2 1 -
+p164
+aVVlade Divac LAL 03/23/1990 LAL vs. LAC W 24 11 4 9 44.4 0 0 - 3 3 100.0 3 6 9 1 1 2 3 3 -
+p165
+aVByron Scott LAL 03/23/1990 LAL vs. LAC W 35 14 6 14 42.9 0 2 0.0 2 4 50.0 0 2 2 1 2 0 1 2 -
+p166
+aVA.C. Green LAL 03/23/1990 LAL vs. LAC W 35 14 6 15 40.0 0 0 - 2 4 50.0 4 8 12 2 1 0 0 5 -
+p167
+aVJames Worthy LAL 03/23/1990 LAL vs. LAC W 31 10 5 10 50.0 0 0 - 0 0 - 0 3 3 4 0 1 3 4 -
+p168
+aVMychal Thompson LAL 03/23/1990 LAL vs. LAC W 23 10 5 12 41.7 0 0 - 0 0 - 4 2 6 1 0 1 0 2 -
+p169
+aVOrlando Woolridge LAL 03/23/1990 LAL vs. LAC W 24 15 5 8 62.5 0 0 - 5 5 100.0 0 4 4 5 2 0 1 2 -
+p170
+aVMichael Cooper LAL 03/23/1990 LAL vs. LAC W 18 4 2 7 28.6 0 3 0.0 0 0 - 1 1 2 4 0 0 0 4 -
+p171
+aVJawann Oldham LAL 03/20/1990 LAL vs. CHH W 5 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -
+p172
+aVMichael Cooper LAL 03/20/1990 LAL vs. CHH W 36 13 6 11 54.5 0 0 - 1 1 100.0 1 5 6 4 1 3 1 2 -
+p173
+aVMagic Johnson LAL 03/20/1990 LAL vs. CHH W 29 15 4 11 36.4 0 3 0.0 7 9 77.8 2 1 3 6 1 0 3 3 -
+p174
+aVByron Scott LAL 03/20/1990 LAL vs. CHH W 32 21 8 16 50.0 2 4 50.0 3 3 100.0 1 2 3 6 3 0 2 2 -
+p175
+aVMychal Thompson LAL 03/20/1990 LAL vs. CHH W 20 8 4 7 57.1 0 0 - 0 0 - 1 5 6 0 0 1 0 1 -
+p176
+aVOrlando Woolridge LAL 03/20/1990 LAL vs. CHH W 23 15 5 8 62.5 0 0 - 5 6 83.3 2 6 8 2 0 0 1 1 -
+p177
+aVJay Vincent LAL 03/20/1990 LAL vs. CHH W 15 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 0 1 2 3 -
+p178
+aVA.C. Green LAL 03/20/1990 LAL vs. CHH W 28 15 5 10 50.0 0 0 - 5 6 83.3 4 4 8 1 0 0 0 0 -
+p179
+aVLarry Drew LAL 03/20/1990 LAL vs. CHH W 22 2 1 7 14.3 0 2 0.0 0 0 - 0 3 3 5 0 0 0 1 -
+p180
+aVVlade Divac LAL 03/20/1990 LAL vs. CHH W 23 13 3 5 60.0 0 0 - 7 10 70.0 2 3 5 0 0 3 3 2 -
+p181
+aVMark McNamara LAL 03/20/1990 LAL vs. CHH W 7 1 0 3 0.0 0 0 - 1 2 50.0 2 0 2 0 0 1 3 0 -
+p182
+aVJames Worthy LAL 03/17/1990 LAL @ MIN W 32 24 11 19 57.9 0 0 - 2 2 100.0 0 2 2 2 0 0 3 4 -
+p183
+aVA.C. Green LAL 03/17/1990 LAL @ MIN W 35 5 2 3 66.7 0 0 - 1 2 50.0 3 4 7 1 0 0 2 1 -
+p184
+aVByron Scott LAL 03/17/1990 LAL @ MIN W 40 8 3 10 30.0 1 2 50.0 1 2 50.0 0 3 3 4 2 1 3 3 -
+p185
+aVVlade Divac LAL 03/17/1990 LAL @ MIN W 9 6 2 2 100.0 0 0 - 2 3 66.7 1 2 3 0 0 0 0 4 -
+p186
+aVMagic Johnson LAL 03/17/1990 LAL @ MIN W 45 37 9 19 47.4 3 5 60.0 16 19 84.2 2 3 5 13 2 1 0 1 -
+p187
+aVMychal Thompson LAL 03/17/1990 LAL @ MIN W 34 14 5 10 50.0 0 0 - 4 5 80.0 1 7 8 0 0 0 2 3 -
+p188
+aVMichael Cooper LAL 03/17/1990 LAL @ MIN W 19 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 2 0 0 1 3 -
+p189
+aVMark McNamara LAL 03/17/1990 LAL @ MIN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p190
+aVOrlando Woolridge LAL 03/17/1990 LAL @ MIN W 25 4 2 6 33.3 0 0 - 0 0 - 0 5 5 1 1 1 0 3 -
+p191
+aVOrlando Woolridge LAL 03/15/1990 LAL @ CLE L 23 18 6 13 46.2 0 0 - 6 8 75.0 1 2 3 2 0 0 1 1 -
+p192
+aVMagic Johnson LAL 03/15/1990 LAL @ CLE L 38 15 4 16 25.0 0 5 0.0 7 7 100.0 1 4 5 10 2 0 4 4 -
+p193
+aVMychal Thompson LAL 03/15/1990 LAL @ CLE L 32 7 2 6 33.3 0 0 - 3 4 75.0 2 4 6 0 0 1 2 4 -
+p194
+aVLarry Drew LAL 03/15/1990 LAL @ CLE L 12 0 0 1 0.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -
+p195
+aVVlade Divac LAL 03/15/1990 LAL @ CLE L 18 7 2 4 50.0 0 0 - 3 4 75.0 3 3 6 0 1 3 1 3 -
+p196
+aVMichael Cooper LAL 03/15/1990 LAL @ CLE L 7 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 6 -
+p197
+aVA.C. Green LAL 03/15/1990 LAL @ CLE L 32 20 8 12 66.7 1 1 100.0 3 4 75.0 2 7 9 1 0 0 2 3 -
+p198
+aVJay Vincent LAL 03/15/1990 LAL @ CLE L 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p199
+aVByron Scott LAL 03/15/1990 LAL @ CLE L 35 11 5 11 45.5 1 3 33.3 0 0 - 0 3 3 7 1 1 3 1 -
+p200
+aVJames Worthy LAL 03/15/1990 LAL @ CLE L 42 18 9 13 69.2 0 1 0.0 0 0 - 3 5 8 6 3 0 1 1 -
+p201
+aVMichael Cooper LAL 03/14/1990 LAL @ PHL L 19 6 2 5 40.0 0 1 0.0 2 2 100.0 0 2 2 5 1 1 0 2 -
+p202
+aVMychal Thompson LAL 03/14/1990 LAL @ PHL L 26 9 4 7 57.1 0 0 - 1 2 50.0 1 4 5 1 0 1 2 3 -
+p203
+aVJames Worthy LAL 03/14/1990 LAL @ PHL L 41 28 13 23 56.5 0 2 0.0 2 2 100.0 1 5 6 6 2 0 0 2 -
+p204
+aVOrlando Woolridge LAL 03/14/1990 LAL @ PHL L 29 14 6 9 66.7 0 0 - 2 6 33.3 0 1 1 2 1 3 1 6 -
+p205
+aVByron Scott LAL 03/14/1990 LAL @ PHL L 34 5 2 9 22.2 1 2 50.0 0 0 - 1 3 4 2 0 0 1 2 -
+p206
+aVA.C. Green LAL 03/14/1990 LAL @ PHL L 20 7 3 7 42.9 0 0 - 1 2 50.0 4 2 6 1 0 1 2 4 -
+p207
+aVLarry Drew LAL 03/14/1990 LAL @ PHL L 12 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 2 0 0 0 1 -
+p208
+aVVlade Divac LAL 03/14/1990 LAL @ PHL L 19 4 2 4 50.0 0 0 - 0 0 - 1 4 5 0 0 1 1 4 -
+p209
+aVMagic Johnson LAL 03/14/1990 LAL @ PHL L 40 34 9 15 60.0 4 6 66.7 12 13 92.3 1 5 6 9 1 0 5 2 -
+p210
+aVOrlando Woolridge LAL 03/12/1990 LAL @ CHH W 25 8 2 6 33.3 0 0 - 4 6 66.7 2 2 4 1 1 0 0 0 -
+p211
+aVLarry Drew LAL 03/12/1990 LAL @ CHH W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 -
+p212
+aVMichael Cooper LAL 03/12/1990 LAL @ CHH W 16 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 1 1 0 1 3 -
+p213
+aVMagic Johnson LAL 03/12/1990 LAL @ CHH W 41 19 4 10 40.0 0 2 0.0 11 12 91.7 2 7 9 15 1 2 4 1 -
+p214
+aVJames Worthy LAL 03/12/1990 LAL @ CHH W 40 26 10 17 58.8 0 1 0.0 6 7 85.7 0 3 3 0 1 0 2 1 -
+p215
+aVA.C. Green LAL 03/12/1990 LAL @ CHH W 33 9 4 7 57.1 1 1 100.0 0 0 - 1 7 8 1 1 0 2 3 -
+p216
+aVMychal Thompson LAL 03/12/1990 LAL @ CHH W 27 19 8 12 66.7 0 0 - 3 5 60.0 2 3 5 0 0 0 1 3 -
+p217
+aVByron Scott LAL 03/12/1990 LAL @ CHH W 32 12 6 10 60.0 0 1 0.0 0 0 - 0 4 4 2 1 0 4 4 -
+p218
+aVVlade Divac LAL 03/12/1990 LAL @ CHH W 19 8 4 10 40.0 0 1 0.0 0 4 0.0 1 7 8 1 1 1 1 2 -
+p219
+aVMagic Johnson LAL 03/11/1990 LAL @ ATL W 39 32 10 19 52.6 3 5 60.0 9 10 90.0 5 3 8 14 3 1 5 0 -
+p220
+aVVlade Divac LAL 03/11/1990 LAL @ ATL W 18 6 3 8 37.5 0 0 - 0 0 - 2 2 4 0 0 1 0 1 -
+p221
+aVLarry Drew LAL 03/11/1990 LAL @ ATL W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 2 0 -
+p222
+aVMychal Thompson LAL 03/11/1990 LAL @ ATL W 35 16 5 13 38.5 0 0 - 6 7 85.7 5 4 9 1 1 0 2 4 -
+p223
+aVMichael Cooper LAL 03/11/1990 LAL @ ATL W 19 5 2 3 66.7 1 1 100.0 0 0 - 1 2 3 2 0 0 0 3 -
+p224
+aVJames Worthy LAL 03/11/1990 LAL @ ATL W 40 30 14 20 70.0 0 2 0.0 2 2 100.0 3 4 7 4 0 0 2 2 -
+p225
+aVA.C. Green LAL 03/11/1990 LAL @ ATL W 23 12 4 6 66.7 0 0 - 4 6 66.7 3 1 4 1 0 0 1 3 -
+p226
+aVOrlando Woolridge LAL 03/11/1990 LAL @ ATL W 25 10 3 6 50.0 0 0 - 4 4 100.0 0 2 2 2 0 0 2 3 -
+p227
+aVByron Scott LAL 03/11/1990 LAL @ ATL W 31 12 5 8 62.5 1 1 100.0 1 2 50.0 2 5 7 3 1 0 1 2 -
+p228
+aVMark McNamara LAL 03/09/1990 LAL vs. GOS W 2 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p229
+aVOrlando Woolridge LAL 03/09/1990 LAL vs. GOS W 19 12 5 8 62.5 0 0 - 2 7 28.6 0 1 1 0 1 3 1 1 -
+p230
+aVMagic Johnson LAL 03/09/1990 LAL vs. GOS W 39 33 14 19 73.7 1 4 25.0 4 5 80.0 4 9 13 16 3 0 3 1 -
+p231
+aVMichael Cooper LAL 03/09/1990 LAL vs. GOS W 40 12 5 12 41.7 0 4 0.0 2 2 100.0 1 6 7 2 2 1 2 4 -
+p232
+aVMychal Thompson LAL 03/09/1990 LAL vs. GOS W 14 9 3 7 42.9 0 0 - 3 4 75.0 3 1 4 0 0 0 0 4 -
+p233
+aVJay Vincent LAL 03/09/1990 LAL vs. GOS W 13 10 4 5 80.0 0 0 - 2 3 66.7 0 2 2 0 1 1 1 3 -
+p234
+aVJawann Oldham LAL 03/09/1990 LAL vs. GOS W 3 3 1 1 100.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 2 -
+p235
+aVA.C. Green LAL 03/09/1990 LAL vs. GOS W 27 5 2 6 33.3 0 1 0.0 1 2 50.0 4 4 8 1 3 1 3 3 -
+p236
+aVVlade Divac LAL 03/09/1990 LAL vs. GOS W 20 12 4 11 36.4 0 0 - 4 5 80.0 3 5 8 2 2 1 2 3 -
+p237
+aVLarry Drew LAL 03/09/1990 LAL vs. GOS W 23 7 3 7 42.9 1 2 50.0 0 0 - 1 3 4 5 0 0 0 2 -
+p238
+aVJames Worthy LAL 03/09/1990 LAL vs. GOS W 40 24 8 15 53.3 0 0 - 8 10 80.0 0 5 5 5 2 0 2 3 -
+p239
+aVLarry Drew LAL 03/07/1990 LAL @ DAL W 19 7 3 4 75.0 1 2 50.0 0 0 - 0 1 1 5 1 0 0 2 -
+p240
+aVMagic Johnson LAL 03/07/1990 LAL @ DAL W 43 21 7 15 46.7 4 6 66.7 3 4 75.0 2 3 5 11 2 0 3 0 -
+p241
+aVOrlando Woolridge LAL 03/07/1990 LAL @ DAL W 29 22 10 13 76.9 0 0 - 2 4 50.0 1 6 7 2 1 1 3 3 -
+p242
+aVVlade Divac LAL 03/07/1990 LAL @ DAL W 20 2 0 3 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 2 2 -
+p243
+aVA.C. Green LAL 03/07/1990 LAL @ DAL W 31 11 4 5 80.0 0 0 - 3 6 50.0 3 4 7 5 1 0 1 1 -
+p244
+aVMichael Cooper LAL 03/07/1990 LAL @ DAL W 29 6 2 4 50.0 2 3 66.7 0 0 - 0 2 2 2 1 0 2 0 -
+p245
+aVJames Worthy LAL 03/07/1990 LAL @ DAL W 37 24 10 20 50.0 1 2 50.0 3 3 100.0 1 5 6 0 1 0 2 3 -
+p246
+aVMychal Thompson LAL 03/07/1990 LAL @ DAL W 31 8 3 7 42.9 0 0 - 2 2 100.0 1 4 5 0 0 0 1 2 -
+p247
+aVJawann Oldham LAL 03/07/1990 LAL @ DAL W 1 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p248
+aVMagic Johnson LAL 03/06/1990 LAL @ HOU L 39 27 11 24 45.8 1 5 20.0 4 6 66.7 1 5 6 8 2 0 3 1 -
+p249
+aVLarry Drew LAL 03/06/1990 LAL @ HOU L 25 7 3 6 50.0 1 4 25.0 0 0 - 0 3 3 1 2 0 4 2 -
+p250
+aVMychal Thompson LAL 03/06/1990 LAL @ HOU L 29 5 2 7 28.6 0 0 - 1 2 50.0 2 3 5 0 1 1 3 2 -
+p251
+aVVlade Divac LAL 03/06/1990 LAL @ HOU L 14 4 1 2 50.0 0 0 - 2 2 100.0 0 3 3 0 0 1 1 3 -
+p252
+aVJames Worthy LAL 03/06/1990 LAL @ HOU L 37 18 8 19 42.1 0 1 0.0 2 3 66.7 4 5 9 4 2 1 2 1 -
+p253
+aVJay Vincent LAL 03/06/1990 LAL @ HOU L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p254
+aVMichael Cooper LAL 03/06/1990 LAL @ HOU L 28 8 2 8 25.0 1 2 50.0 3 4 75.0 0 2 2 2 2 0 1 4 -
+p255
+aVA.C. Green LAL 03/06/1990 LAL @ HOU L 32 9 1 8 12.5 0 1 0.0 7 8 87.5 3 3 6 0 1 0 0 5 -
+p256
+aVOrlando Woolridge LAL 03/06/1990 LAL @ HOU L 31 17 7 13 53.8 0 0 - 3 3 100.0 0 4 4 2 2 0 1 4 -
+p257
+aVMark McNamara LAL 03/04/1990 LAL vs. MIN W 3 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 1 -
+p258
+aVVlade Divac LAL 03/04/1990 LAL vs. MIN W 17 11 3 8 37.5 0 0 - 5 6 83.3 0 2 2 1 1 1 0 2 -
+p259
+aVByron Scott LAL 03/04/1990 LAL vs. MIN W 34 14 5 10 50.0 0 2 0.0 4 5 80.0 1 1 2 5 1 1 0 1 -
+p260
+aVMagic Johnson LAL 03/04/1990 LAL vs. MIN W 33 9 4 6 66.7 0 0 - 1 2 50.0 0 3 3 15 0 0 2 2 -
+p261
+aVJay Vincent LAL 03/04/1990 LAL vs. MIN W 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p262
+aVOrlando Woolridge LAL 03/04/1990 LAL vs. MIN W 27 21 9 12 75.0 0 0 - 3 3 100.0 0 1 1 2 0 2 1 4 -
+p263
+aVMichael Cooper LAL 03/04/1990 LAL vs. MIN W 25 5 2 3 66.7 0 0 - 1 1 100.0 0 3 3 6 2 2 3 4 -
+p264
+aVSteve Bucknall LAL 03/04/1990 LAL vs. MIN W 4 4 2 2 100.0 0 0 - 0 0 - 0 0 0 0 0 1 0 0 -
+p265
+aVMychal Thompson LAL 03/04/1990 LAL vs. MIN W 22 6 2 6 33.3 0 0 - 2 2 100.0 1 3 4 1 0 0 1 2 -
+p266
+aVA.C. Green LAL 03/04/1990 LAL vs. MIN W 35 27 11 13 84.6 1 1 100.0 4 6 66.7 1 9 10 2 1 0 2 2 -
+p267
+aVJames Worthy LAL 03/04/1990 LAL vs. MIN W 34 14 6 9 66.7 0 0 - 2 2 100.0 3 4 7 3 4 1 3 1 -
+p268
+aVJames Worthy LAL 03/02/1990 LAL vs. CLE W 26 8 2 10 20.0 0 0 - 4 6 66.7 2 3 5 4 0 0 2 1 -
+p269
+aVA.C. Green LAL 03/02/1990 LAL vs. CLE W 26 8 3 10 30.0 0 0 - 2 4 50.0 3 4 7 1 0 0 0 1 -
+p270
+aVJay Vincent LAL 03/02/1990 LAL vs. CLE W 11 6 3 4 75.0 0 0 - 0 0 - 0 3 3 1 0 0 0 2 -
+p271
+aVMichael Cooper LAL 03/02/1990 LAL vs. CLE W 25 8 4 4 100.0 0 0 - 0 0 - 0 0 0 5 1 1 1 2 -
+p272
+aVVlade Divac LAL 03/02/1990 LAL vs. CLE W 19 13 6 7 85.7 0 0 - 1 1 100.0 1 6 7 2 2 2 2 3 -
+p273
+aVMagic Johnson LAL 03/02/1990 LAL vs. CLE W 30 26 9 15 60.0 3 6 50.0 5 5 100.0 1 5 6 8 1 0 3 1 -
+p274
+aVLarry Drew LAL 03/02/1990 LAL vs. CLE W 18 6 2 4 50.0 1 1 100.0 1 2 50.0 1 1 2 6 1 0 1 1 -
+p275
+aVByron Scott LAL 03/02/1990 LAL vs. CLE W 30 17 7 13 53.8 3 4 75.0 0 0 - 1 1 2 3 1 0 1 0 -
+p276
+aVMark McNamara LAL 03/02/1990 LAL vs. CLE W 8 8 3 6 50.0 0 0 - 2 2 100.0 1 4 5 0 0 0 0 1 -
+p277
+aVSteve Bucknall LAL 03/02/1990 LAL vs. CLE W 8 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 3 1 -
+p278
+aVOrlando Woolridge LAL 03/02/1990 LAL vs. CLE W 18 17 6 7 85.7 0 0 - 5 6 83.3 0 3 3 0 2 2 0 1 -
+p279
+aVMychal Thompson LAL 03/02/1990 LAL vs. CLE W 21 5 2 4 50.0 0 0 - 1 2 50.0 1 4 5 0 0 1 1 2 -
+p280
+aVLarry Drew LAL 02/28/1990 LAL @ SEA W 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 1 0 -
+p281
+aVJames Worthy LAL 02/28/1990 LAL @ SEA W 39 21 9 18 50.0 0 1 0.0 3 3 100.0 3 2 5 4 1 0 0 2 -
+p282
+aVVlade Divac LAL 02/28/1990 LAL @ SEA W 15 5 2 2 100.0 0 0 - 1 2 50.0 2 3 5 1 1 0 1 3 -
+p283
+aVA.C. Green LAL 02/28/1990 LAL @ SEA W 30 9 2 9 22.2 0 0 - 5 6 83.3 4 7 11 1 1 0 1 1 -
+p284
+aVMagic Johnson LAL 02/28/1990 LAL @ SEA W 41 25 6 17 35.3 2 6 33.3 11 11 100.0 0 6 6 8 0 0 4 3 -
+p285
+aVMichael Cooper LAL 02/28/1990 LAL @ SEA W 19 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 1 1 1 0 3 -
+p286
+aVByron Scott LAL 02/28/1990 LAL @ SEA W 32 12 4 10 40.0 0 2 0.0 4 5 80.0 0 2 2 3 0 1 0 1 -
+p287
+aVOrlando Woolridge LAL 02/28/1990 LAL @ SEA W 25 24 10 12 83.3 0 0 - 4 4 100.0 0 0 0 1 1 0 1 4 -
+p288
+aVMychal Thompson LAL 02/28/1990 LAL @ SEA W 30 10 4 4 100.0 0 0 - 2 2 100.0 3 6 9 0 0 2 4 2 -
+p289
+aVMagic Johnson LAL 02/25/1990 LAL vs. UTH L 44 32 8 16 50.0 4 6 66.7 12 16 75.0 0 2 2 16 1 0 3 4 -
+p290
+aVA.C. Green LAL 02/25/1990 LAL vs. UTH L 41 12 5 11 45.5 0 0 - 2 4 50.0 7 6 13 0 0 0 0 3 -
+p291
+aVMichael Cooper LAL 02/25/1990 LAL vs. UTH L 14 7 3 5 60.0 1 1 100.0 0 0 - 0 1 1 1 0 0 0 3 -
+p292
+aVByron Scott LAL 02/25/1990 LAL vs. UTH L 37 11 4 11 36.4 1 3 33.3 2 2 100.0 1 2 3 2 1 1 0 3 -
+p293
+aVLarry Drew LAL 02/25/1990 LAL vs. UTH L 11 4 2 3 66.7 0 0 - 0 0 - 0 2 2 0 0 0 2 1 -
+p294
+aVMark McNamara LAL 02/25/1990 LAL vs. UTH L 4 1 0 1 0.0 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 -
+p295
+aVJames Worthy LAL 02/25/1990 LAL vs. UTH L 44 20 9 17 52.9 0 1 0.0 2 2 100.0 1 3 4 4 4 0 4 3 -
+p296
+aVOrlando Woolridge LAL 02/25/1990 LAL vs. UTH L 36 14 5 15 33.3 0 0 - 4 7 57.1 3 2 5 2 1 2 1 3 -
+p297
+aVVlade Divac LAL 02/25/1990 LAL vs. UTH L 9 2 1 1 100.0 0 0 - 0 0 - 0 3 3 0 0 0 1 0 -
+p298
+aVMagic Johnson LAL 02/23/1990 LAL vs. PHL W 37 22 8 10 80.0 2 3 66.7 4 4 100.0 0 5 5 17 2 0 6 1 -
+p299
+aVVlade Divac LAL 02/23/1990 LAL vs. PHL W 21 5 2 4 50.0 0 0 - 1 2 50.0 2 8 10 1 0 1 2 4 -
+p300
+aVMychal Thompson LAL 02/23/1990 LAL vs. PHL W 28 11 5 6 83.3 0 0 - 1 1 100.0 0 5 5 0 0 1 1 3 -
+p301
+aVJames Worthy LAL 02/23/1990 LAL vs. PHL W 38 18 7 13 53.8 0 0 - 4 5 80.0 1 5 6 3 0 0 1 0 -
+p302
+aVLarry Drew LAL 02/23/1990 LAL vs. PHL W 15 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 1 0 0 1 1 -
+p303
+aVByron Scott LAL 02/23/1990 LAL vs. PHL W 38 24 9 19 47.4 3 5 60.0 3 6 50.0 0 3 3 7 4 0 0 3 -
+p304
+aVOrlando Woolridge LAL 02/23/1990 LAL vs. PHL W 19 13 5 9 55.6 0 0 - 3 4 75.0 2 1 3 0 1 0 1 3 -
+p305
+aVA.C. Green LAL 02/23/1990 LAL vs. PHL W 36 24 9 14 64.3 0 0 - 6 6 100.0 4 4 8 3 0 0 1 3 -
+p306
+aVMichael Cooper LAL 02/23/1990 LAL vs. PHL W 8 0 0 1 0.0 0 0 - 0 0 - 0 1 1 3 0 0 0 2 -
+p307
+aVMagic Johnson LAL 02/21/1990 LAL @ DEN W 44 17 4 8 50.0 1 2 50.0 8 10 80.0 0 11 11 17 0 0 6 5 -
+p308
+aVLarry Drew LAL 02/21/1990 LAL @ DEN W 11 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -
+p309
+aVOrlando Woolridge LAL 02/21/1990 LAL @ DEN W 22 11 4 8 50.0 0 0 - 3 3 100.0 0 2 2 1 2 1 1 5 -
+p310
+aVJames Worthy LAL 02/21/1990 LAL @ DEN W 33 10 5 11 45.5 0 0 - 0 0 - 2 2 4 3 0 0 4 3 -
+p311
+aVByron Scott LAL 02/21/1990 LAL @ DEN W 41 24 10 13 76.9 3 4 75.0 1 2 50.0 0 5 5 3 0 3 2 1 -
+p312
+aVJay Vincent LAL 02/21/1990 LAL @ DEN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p313
+aVMychal Thompson LAL 02/21/1990 LAL @ DEN W 24 5 2 6 33.3 0 0 - 1 4 25.0 1 5 6 0 0 0 1 3 -
+p314
+aVVlade Divac LAL 02/21/1990 LAL @ DEN W 22 23 8 11 72.7 0 0 - 7 9 77.8 4 5 9 1 0 0 1 4 -
+p315
+aVA.C. Green LAL 02/21/1990 LAL @ DEN W 40 21 8 15 53.3 0 0 - 5 8 62.5 4 8 12 2 0 1 3 3 -
+p316
+aVMichael Cooper LAL 02/20/1990 LAL @ SAN W 7 2 1 2 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 2 -
+p317
+aVMychal Thompson LAL 02/20/1990 LAL @ SAN W 40 13 5 11 45.5 0 0 - 3 5 60.0 4 5 9 1 0 5 1 3 -
+p318
+aVA.C. Green LAL 02/20/1990 LAL @ SAN W 29 12 4 12 33.3 0 0 - 4 4 100.0 4 0 4 1 0 2 1 3 -
+p319
+aVOrlando Woolridge LAL 02/20/1990 LAL @ SAN W 27 11 5 10 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 2 5 -
+p320
+aVLarry Drew LAL 02/20/1990 LAL @ SAN W 11 8 4 6 66.7 0 2 0.0 0 0 - 0 0 0 3 1 0 1 1 -
+p321
+aVMagic Johnson LAL 02/20/1990 LAL @ SAN W 45 19 7 17 41.2 1 3 33.3 4 6 66.7 5 8 13 8 0 1 3 1 -
+p322
+aVByron Scott LAL 02/20/1990 LAL @ SAN W 45 15 6 14 42.9 2 4 50.0 1 2 50.0 2 5 7 4 1 0 2 2 -
+p323
+aVJames Worthy LAL 02/20/1990 LAL @ SAN W 46 27 12 19 63.2 1 3 33.3 2 2 100.0 0 4 4 4 2 0 2 2 -
+p324
+aVVlade Divac LAL 02/20/1990 LAL @ SAN W 15 8 4 6 66.7 0 0 - 0 1 0.0 0 5 5 1 0 1 1 0 -
+p325
+aVByron Scott LAL 02/18/1990 LAL vs. BOS W 43 24 8 16 50.0 3 3 100.0 5 7 71.4 0 5 5 2 0 1 2 1 -
+p326
+aVMagic Johnson LAL 02/18/1990 LAL vs. BOS W 38 30 10 21 47.6 3 6 50.0 7 7 100.0 1 3 4 13 1 0 4 2 -
+p327
+aVMychal Thompson LAL 02/18/1990 LAL vs. BOS W 28 6 2 7 28.6 0 0 - 2 2 100.0 5 3 8 2 0 0 0 4 -
+p328
+aVVlade Divac LAL 02/18/1990 LAL vs. BOS W 27 13 4 8 50.0 0 0 - 5 7 71.4 2 4 6 1 1 2 4 2 -
+p329
+aVJames Worthy LAL 02/18/1990 LAL vs. BOS W 42 25 12 26 46.2 0 0 - 1 2 50.0 3 4 7 5 1 0 0 3 -
+p330
+aVLarry Drew LAL 02/18/1990 LAL vs. BOS W 12 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 2 0 0 0 -
+p331
+aVA.C. Green LAL 02/18/1990 LAL vs. BOS W 18 6 3 5 60.0 0 0 - 0 0 - 2 1 3 0 2 0 0 1 -
+p332
+aVMichael Cooper LAL 02/18/1990 LAL vs. BOS W 14 2 0 1 0.0 0 1 0.0 2 2 100.0 0 0 0 5 1 0 1 2 -
+p333
+aVOrlando Woolridge LAL 02/18/1990 LAL vs. BOS W 18 8 4 7 57.1 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -
+p334
+aVA.C. Green LAL 02/15/1990 LAL @ SAC W 23 2 0 6 0.0 0 1 0.0 2 2 100.0 0 4 4 1 1 1 1 2 -
+p335
+aVMichael Cooper LAL 02/15/1990 LAL @ SAC W 24 6 2 5 40.0 1 1 100.0 1 2 50.0 1 3 4 0 0 0 0 2 -
+p336
+aVJames Worthy LAL 02/15/1990 LAL @ SAC W 34 20 10 14 71.4 0 1 0.0 0 0 - 0 2 2 1 1 1 0 2 -
+p337
+aVByron Scott LAL 02/15/1990 LAL @ SAC W 31 17 5 11 45.5 1 2 50.0 6 6 100.0 0 5 5 5 1 1 0 0 -
+p338
+aVOrlando Woolridge LAL 02/15/1990 LAL @ SAC W 16 11 2 4 50.0 0 0 - 7 8 87.5 1 4 5 1 0 0 2 1 -
+p339
+aVVlade Divac LAL 02/15/1990 LAL @ SAC W 25 13 5 9 55.6 0 0 - 3 4 75.0 3 5 8 0 2 1 1 1 -
+p340
+aVMychal Thompson LAL 02/15/1990 LAL @ SAC W 39 13 4 12 33.3 0 0 - 5 6 83.3 2 7 9 0 1 0 1 5 -
+p341
+aVLarry Drew LAL 02/15/1990 LAL @ SAC W 12 2 1 5 20.0 0 1 0.0 0 0 - 0 0 0 2 0 0 0 0 -
+p342
+aVMagic Johnson LAL 02/15/1990 LAL @ SAC W 36 17 5 12 41.7 2 5 40.0 5 6 83.3 1 3 4 8 1 0 4 2 -
+p343
+aVLarry Drew LAL 02/14/1990 LAL vs. POR L 14 4 2 7 28.6 0 4 0.0 0 0 - 2 2 4 1 1 0 0 1 -
+p344
+aVA.C. Green LAL 02/14/1990 LAL vs. POR L 33 8 3 7 42.9 0 2 0.0 2 2 100.0 3 7 10 0 1 3 2 5 -
+p345
+aVOrlando Woolridge LAL 02/14/1990 LAL vs. POR L 25 7 2 6 33.3 0 0 - 3 4 75.0 0 1 1 3 3 2 1 4 -
+p346
+aVMark McNamara LAL 02/14/1990 LAL vs. POR L 1 1 0 0 - 0 0 - 1 2 50.0 0 2 2 0 0 0 0 0 -
+p347
+aVByron Scott LAL 02/14/1990 LAL vs. POR L 28 12 4 12 33.3 2 5 40.0 2 2 100.0 0 0 0 2 0 0 1 6 -
+p348
+aVVlade Divac LAL 02/14/1990 LAL vs. POR L 28 11 5 12 41.7 0 0 - 1 2 50.0 2 4 6 1 1 1 0 5 -
+p349
+aVMagic Johnson LAL 02/14/1990 LAL vs. POR L 46 33 7 18 38.9 3 6 50.0 16 17 94.1 2 4 6 15 1 0 5 4 -
+p350
+aVMichael Cooper LAL 02/14/1990 LAL vs. POR L 30 12 4 6 66.7 2 3 66.7 2 2 100.0 1 6 7 3 1 3 4 5 -
+p351
+aVMychal Thompson LAL 02/14/1990 LAL vs. POR L 39 12 6 14 42.9 0 0 - 0 0 - 2 7 9 0 0 1 1 4 -
+p352
+aVJames Worthy LAL 02/14/1990 LAL vs. POR L 46 28 11 27 40.7 1 1 100.0 5 8 62.5 4 3 7 4 0 2 1 3 -
+p353
+aVOrlando Woolridge LAL 02/07/1990 LAL vs. CHI W 24 14 5 6 83.3 0 1 0.0 4 6 66.7 0 4 4 0 0 1 1 3 -
+p354
+aVMichael Cooper LAL 02/07/1990 LAL vs. CHI W 23 11 4 5 80.0 1 1 100.0 2 2 100.0 1 1 2 2 1 1 0 2 -
+p355
+aVVlade Divac LAL 02/07/1990 LAL vs. CHI W 20 0 0 6 0.0 0 0 - 0 0 - 2 1 3 1 3 3 1 2 -
+p356
+aVMagic Johnson LAL 02/07/1990 LAL vs. CHI W 39 22 7 14 50.0 3 6 50.0 5 5 100.0 0 8 8 17 2 0 4 2 -
+p357
+aVByron Scott LAL 02/07/1990 LAL vs. CHI W 27 15 6 12 50.0 1 5 20.0 2 2 100.0 0 2 2 5 2 0 1 2 -
+p358
+aVA.C. Green LAL 02/07/1990 LAL vs. CHI W 29 11 4 8 50.0 0 3 0.0 3 5 60.0 2 2 4 0 0 0 0 1 -
+p359
+aVLarry Drew LAL 02/07/1990 LAL vs. CHI W 12 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 3 0 0 1 0 -
+p360
+aVJames Worthy LAL 02/07/1990 LAL vs. CHI W 37 30 11 19 57.9 0 0 - 8 9 88.9 1 2 3 3 3 1 1 2 -
+p361
+aVMychal Thompson LAL 02/07/1990 LAL vs. CHI W 29 12 5 11 45.5 0 0 - 2 2 100.0 6 4 10 0 2 1 0 3 -
+p362
+aVMagic Johnson LAL 02/06/1990 LAL @ POR W 37 24 8 18 44.4 4 8 50.0 4 4 100.0 2 8 10 15 3 0 5 6 -
+p363
+aVJames Worthy LAL 02/06/1990 LAL @ POR W 48 25 10 22 45.5 1 3 33.3 4 4 100.0 3 6 9 5 2 2 4 4 -
+p364
+aVVlade Divac LAL 02/06/1990 LAL @ POR W 30 8 3 6 50.0 0 0 - 2 2 100.0 1 7 8 1 1 2 1 3 -
+p365
+aVLarry Drew LAL 02/06/1990 LAL @ POR W 14 8 3 4 75.0 2 2 100.0 0 0 - 0 0 0 1 0 0 2 0 -
+p366
+aVByron Scott LAL 02/06/1990 LAL @ POR W 37 18 8 17 47.1 2 5 40.0 0 1 0.0 1 1 2 3 2 0 1 2 -
+p367
+aVA.C. Green LAL 02/06/1990 LAL @ POR W 21 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 4 -
+p368
+aVOrlando Woolridge LAL 02/06/1990 LAL @ POR W 18 10 5 8 62.5 0 0 - 0 0 - 3 0 3 0 0 1 3 5 -
+p369
+aVMychal Thompson LAL 02/06/1990 LAL @ POR W 43 24 10 13 76.9 0 0 - 4 8 50.0 3 5 8 2 0 1 2 4 -
+p370
+aVMichael Cooper LAL 02/06/1990 LAL @ POR W 17 4 1 5 20.0 0 2 0.0 2 2 100.0 1 0 1 3 0 0 2 3 -
+p371
+aVMark McNamara LAL 02/04/1990 LAL vs. NJN W 12 9 4 5 80.0 0 0 - 1 2 50.0 1 4 5 0 0 0 2 6 -
+p372
+aVMichael Cooper LAL 02/04/1990 LAL vs. NJN W 22 16 6 6 100.0 1 1 100.0 3 4 75.0 1 3 4 3 3 1 5 3 -
+p373
+aVVlade Divac LAL 02/04/1990 LAL vs. NJN W 16 6 3 6 50.0 0 0 - 0 0 - 4 4 8 1 1 1 0 4 -
+p374
+aVMychal Thompson LAL 02/04/1990 LAL vs. NJN W 24 13 4 7 57.1 0 0 - 5 7 71.4 1 7 8 0 0 1 0 3 -
+p375
+aVJay Vincent LAL 02/04/1990 LAL vs. NJN W 7 2 0 0 - 0 0 - 2 4 50.0 0 1 1 0 1 0 1 1 -
+p376
+aVOrlando Woolridge LAL 02/04/1990 LAL vs. NJN W 22 5 2 6 33.3 0 1 0.0 1 2 50.0 1 2 3 5 2 0 2 2 -
+p377
+aVByron Scott LAL 02/04/1990 LAL vs. NJN W 27 22 10 13 76.9 1 3 33.3 1 2 50.0 0 0 0 0 0 0 3 2 -
+p378
+aVMagic Johnson LAL 02/04/1990 LAL vs. NJN W 29 22 9 14 64.3 2 3 66.7 2 2 100.0 0 8 8 13 1 1 4 1 -
+p379
+aVLarry Drew LAL 02/04/1990 LAL vs. NJN W 19 6 3 5 60.0 0 0 - 0 0 - 0 0 0 3 1 0 2 1 -
+p380
+aVA.C. Green LAL 02/04/1990 LAL vs. NJN W 25 2 1 3 33.3 0 0 - 0 0 - 1 3 4 1 0 2 0 1 -
+p381
+aVSteve Bucknall LAL 02/04/1990 LAL vs. NJN W 4 2 1 4 25.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p382
+aVJames Worthy LAL 02/04/1990 LAL vs. NJN W 33 16 6 12 50.0 0 0 - 4 4 100.0 2 3 5 3 1 0 0 1 -
+p383
+aVMagic Johnson LAL 02/02/1990 LAL vs. ATL W 38 19 5 15 33.3 2 4 50.0 7 8 87.5 3 6 9 13 0 0 4 2 -
+p384
+aVVlade Divac LAL 02/02/1990 LAL vs. ATL W 24 12 5 6 83.3 0 0 - 2 2 100.0 4 1 5 1 1 3 1 3 -
+p385
+aVJames Worthy LAL 02/02/1990 LAL vs. ATL W 36 10 5 11 45.5 0 0 - 0 2 0.0 3 2 5 6 4 0 3 2 -
+p386
+aVMychal Thompson LAL 02/02/1990 LAL vs. ATL W 25 17 7 8 87.5 0 0 - 3 3 100.0 2 3 5 0 1 3 1 4 -
+p387
+aVLarry Drew LAL 02/02/1990 LAL vs. ATL W 12 5 1 4 25.0 1 2 50.0 2 2 100.0 0 2 2 2 1 0 0 2 -
+p388
+aVOrlando Woolridge LAL 02/02/1990 LAL vs. ATL W 17 12 5 6 83.3 0 0 - 2 3 66.7 1 1 2 3 2 0 0 4 -
+p389
+aVByron Scott LAL 02/02/1990 LAL vs. ATL W 37 20 9 11 81.8 2 3 66.7 0 0 - 1 0 1 4 0 0 1 1 -
+p390
+aVA.C. Green LAL 02/02/1990 LAL vs. ATL W 37 15 7 16 43.8 0 2 0.0 1 1 100.0 1 6 7 0 4 1 1 2 -
+p391
+aVMichael Cooper LAL 02/02/1990 LAL vs. ATL W 14 2 0 3 0.0 0 1 0.0 2 2 100.0 0 0 0 0 0 0 0 0 -
+p392
+aVVlade Divac LAL 01/30/1990 LAL @ LAC L 26 17 7 13 53.8 0 0 - 3 6 50.0 6 4 10 2 2 1 0 5 -
+p393
+aVA.C. Green LAL 01/30/1990 LAL @ LAC L 36 3 1 6 16.7 0 1 0.0 1 4 25.0 3 4 7 1 1 0 1 2 -
+p394
+aVJay Vincent LAL 01/30/1990 LAL @ LAC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p395
+aVByron Scott LAL 01/30/1990 LAL @ LAC L 43 24 11 18 61.1 1 3 33.3 1 2 50.0 1 1 2 5 3 1 2 2 -
+p396
+aVLarry Drew LAL 01/30/1990 LAL @ LAC L 27 9 3 7 42.9 1 3 33.3 2 2 100.0 0 0 0 1 0 0 3 2 -
+p397
+aVMychal Thompson LAL 01/30/1990 LAL @ LAC L 25 7 3 8 37.5 0 0 - 1 2 50.0 2 6 8 0 0 0 3 2 -
+p398
+aVOrlando Woolridge LAL 01/30/1990 LAL @ LAC L 17 9 2 4 50.0 0 0 - 5 6 83.3 0 1 1 2 1 1 0 1 -
+p399
+aVJames Worthy LAL 01/30/1990 LAL @ LAC L 40 19 6 17 35.3 0 0 - 7 7 100.0 0 3 3 2 0 2 1 1 -
+p400
+aVMagic Johnson LAL 01/30/1990 LAL @ LAC L 25 16 4 9 44.4 1 3 33.3 7 8 87.5 1 2 3 7 2 1 4 4 -
+p401
+aVByron Scott LAL 01/29/1990 LAL vs. SAN L 36 14 6 13 46.2 1 4 25.0 1 1 100.0 0 2 2 3 2 0 5 1 -
+p402
+aVJames Worthy LAL 01/29/1990 LAL vs. SAN L 44 32 14 22 63.6 0 1 0.0 4 6 66.7 4 5 9 2 1 0 3 3 -
+p403
+aVMychal Thompson LAL 01/29/1990 LAL vs. SAN L 22 8 2 6 33.3 0 0 - 4 4 100.0 0 4 4 0 1 1 1 1 -
+p404
+aVVlade Divac LAL 01/29/1990 LAL vs. SAN L 26 5 1 7 14.3 0 1 0.0 3 4 75.0 3 6 9 2 1 3 0 4 -
+p405
+aVOrlando Woolridge LAL 01/29/1990 LAL vs. SAN L 23 11 3 8 37.5 0 1 0.0 5 6 83.3 0 3 3 1 0 1 1 2 -
+p406
+aVA.C. Green LAL 01/29/1990 LAL vs. SAN L 35 8 2 5 40.0 0 0 - 4 6 66.7 1 8 9 4 2 2 2 3 -
+p407
+aVMichael Cooper LAL 01/29/1990 LAL vs. SAN L 15 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 1 5 1 -
+p408
+aVLarry Drew LAL 01/29/1990 LAL vs. SAN L 39 4 2 8 25.0 0 1 0.0 0 0 - 2 4 6 8 5 0 3 2 -
+p409
+aVOrlando Woolridge LAL 01/26/1990 LAL vs. MIL W 21 7 3 7 42.9 0 0 - 1 2 50.0 0 4 4 2 0 0 0 2 -
+p410
+aVJames Worthy LAL 01/26/1990 LAL vs. MIL W 37 21 8 13 61.5 0 1 0.0 5 8 62.5 2 6 8 3 2 2 3 3 -
+p411
+aVMagic Johnson LAL 01/26/1990 LAL vs. MIL W 36 14 1 9 11.1 0 3 0.0 12 12 100.0 0 3 3 17 0 0 7 0 -
+p412
+aVMychal Thompson LAL 01/26/1990 LAL vs. MIL W 23 12 6 8 75.0 0 0 - 0 0 - 2 5 7 2 0 3 1 3 -
+p413
+aVA.C. Green LAL 01/26/1990 LAL vs. MIL W 38 11 4 13 30.8 0 0 - 3 4 75.0 1 6 7 0 1 2 0 1 -
+p414
+aVByron Scott LAL 01/26/1990 LAL vs. MIL W 34 14 5 6 83.3 2 2 100.0 2 2 100.0 0 1 1 2 1 0 3 2 -
+p415
+aVVlade Divac LAL 01/26/1990 LAL vs. MIL W 22 15 5 9 55.6 0 0 - 5 6 83.3 2 9 11 1 2 3 2 3 -
+p416
+aVLarry Drew LAL 01/26/1990 LAL vs. MIL W 13 4 2 5 40.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -
+p417
+aVMichael Cooper LAL 01/26/1990 LAL vs. MIL W 16 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 0 0 0 2 -
+p418
+aVOrlando Woolridge LAL 01/24/1990 LAL @ IND W 24 9 3 7 42.9 0 0 - 3 4 75.0 0 3 3 6 1 0 0 1 -
+p419
+aVByron Scott LAL 01/24/1990 LAL @ IND W 32 13 4 9 44.4 1 4 25.0 4 4 100.0 0 3 3 2 0 0 1 4 -
+p420
+aVA.C. Green LAL 01/24/1990 LAL @ IND W 39 24 12 13 92.3 0 0 - 0 1 0.0 4 7 11 0 1 0 1 3 -
+p421
+aVMychal Thompson LAL 01/24/1990 LAL @ IND W 30 19 9 14 64.3 0 0 - 1 1 100.0 3 2 5 0 1 0 0 2 -
+p422
+aVLarry Drew LAL 01/24/1990 LAL @ IND W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 1 2 1 -
+p423
+aVMagic Johnson LAL 01/24/1990 LAL @ IND W 41 32 11 15 73.3 3 5 60.0 7 8 87.5 0 5 5 8 2 0 2 2 -
+p424
+aVJames Worthy LAL 01/24/1990 LAL @ IND W 42 17 5 11 45.5 0 0 - 7 9 77.8 0 3 3 12 3 0 1 3 -
+p425
+aVVlade Divac LAL 01/24/1990 LAL @ IND W 6 2 0 1 0.0 0 0 - 2 2 100.0 0 1 1 0 0 0 0 0 -
+p426
+aVMichael Cooper LAL 01/24/1990 LAL @ IND W 20 4 1 6 16.7 0 2 0.0 2 2 100.0 0 1 1 1 0 0 0 4 -
+p427
+aVMichael Cooper LAL 01/23/1990 LAL @ NYK W 20 8 4 6 66.7 0 0 - 0 0 - 0 1 1 2 1 0 0 1 -
+p428
+aVLarry Drew LAL 01/23/1990 LAL @ NYK W 19 12 4 5 80.0 3 3 100.0 1 2 50.0 0 3 3 5 1 0 2 2 -
+p429
+aVMychal Thompson LAL 01/23/1990 LAL @ NYK W 26 7 3 10 30.0 0 0 - 1 1 100.0 3 3 6 1 0 1 0 3 -
+p430
+aVByron Scott LAL 01/23/1990 LAL @ NYK W 26 19 9 14 64.3 1 3 33.3 0 0 - 0 2 2 2 1 0 1 0 -
+p431
+aVMagic Johnson LAL 01/23/1990 LAL @ NYK W 29 11 5 7 71.4 1 1 100.0 0 0 - 1 6 7 13 3 0 0 2 -
+p432
+aVJay Vincent LAL 01/23/1990 LAL @ NYK W 8 4 2 4 50.0 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -
+p433
+aVOrlando Woolridge LAL 01/23/1990 LAL @ NYK W 22 13 5 6 83.3 0 0 - 3 4 75.0 1 2 3 1 0 0 4 4 -
+p434
+aVSteve Bucknall LAL 01/23/1990 LAL @ NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p435
+aVJames Worthy LAL 01/23/1990 LAL @ NYK W 31 18 9 12 75.0 0 0 - 0 0 - 2 6 8 2 1 1 2 0 -
+p436
+aVMark McNamara LAL 01/23/1990 LAL @ NYK W 5 5 2 3 66.7 0 0 - 1 1 100.0 0 0 0 1 0 0 1 0 -
+p437
+aVVlade Divac LAL 01/23/1990 LAL @ NYK W 21 8 2 6 33.3 0 0 - 4 4 100.0 0 3 3 4 0 4 0 6 -
+p438
+aVA.C. Green LAL 01/23/1990 LAL @ NYK W 30 13 4 10 40.0 0 0 - 5 6 83.3 8 6 14 2 1 0 2 2 -
+p439
+aVOrlando Woolridge LAL 01/21/1990 LAL @ DET W 29 11 3 9 33.3 0 0 - 5 6 83.3 1 2 3 1 0 0 0 4 -
+p440
+aVMychal Thompson LAL 01/21/1990 LAL @ DET W 33 13 5 12 41.7 0 0 - 3 3 100.0 4 5 9 0 2 0 0 3 -
+p441
+aVJames Worthy LAL 01/21/1990 LAL @ DET W 42 31 14 22 63.6 0 0 - 3 5 60.0 5 3 8 4 2 0 2 3 -
+p442
+aVMichael Cooper LAL 01/21/1990 LAL @ DET W 17 7 2 4 50.0 1 2 50.0 2 2 100.0 1 1 2 0 1 0 0 2 -
+p443
+aVByron Scott LAL 01/21/1990 LAL @ DET W 30 14 5 13 38.5 2 4 50.0 2 2 100.0 1 4 5 5 1 1 0 5 -
+p444
+aVA.C. Green LAL 01/21/1990 LAL @ DET W 33 10 4 9 44.4 1 1 100.0 1 2 50.0 1 8 9 0 0 1 1 4 -
+p445
+aVLarry Drew LAL 01/21/1990 LAL @ DET W 5 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -
+p446
+aVVlade Divac LAL 01/21/1990 LAL @ DET W 6 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 1 0 0 2 -
+p447
+aVMagic Johnson LAL 01/21/1990 LAL @ DET W 45 21 6 14 42.9 1 3 33.3 8 8 100.0 1 4 5 16 1 0 4 4 -
+p448
+aVMagic Johnson LAL 01/19/1990 LAL @ MIL L 40 26 8 15 53.3 4 7 57.1 6 6 100.0 1 2 3 10 5 1 3 4 -
+p449
+aVJames Worthy LAL 01/19/1990 LAL @ MIL L 38 14 7 11 63.6 0 0 - 0 0 - 2 5 7 7 1 0 3 1 -
+p450
+aVMichael Cooper LAL 01/19/1990 LAL @ MIL L 24 5 2 11 18.2 0 4 0.0 1 1 100.0 2 3 5 3 1 1 0 1 -
+p451
+aVLarry Drew LAL 01/19/1990 LAL @ MIL L 12 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -
+p452
+aVByron Scott LAL 01/19/1990 LAL @ MIL L 27 14 5 11 45.5 1 4 25.0 3 3 100.0 0 2 2 2 1 0 2 4 -
+p453
+aVVlade Divac LAL 01/19/1990 LAL @ MIL L 21 15 7 11 63.6 0 0 - 1 1 100.0 2 6 8 4 0 1 0 0 -
+p454
+aVOrlando Woolridge LAL 01/19/1990 LAL @ MIL L 20 11 3 7 42.9 0 0 - 5 6 83.3 0 4 4 2 0 2 1 6 -
+p455
+aVA.C. Green LAL 01/19/1990 LAL @ MIL L 36 10 4 12 33.3 0 0 - 2 2 100.0 5 4 9 3 2 2 1 3 -
+p456
+aVMychal Thompson LAL 01/19/1990 LAL @ MIL L 22 5 2 6 33.3 0 0 - 1 2 50.0 2 0 2 0 0 1 2 3 -
+p457
+aVOrlando Woolridge LAL 01/17/1990 LAL vs. SEA W 19 14 6 10 60.0 0 0 - 2 4 50.0 0 1 1 2 1 1 1 3 -
+p458
+aVJames Worthy LAL 01/17/1990 LAL vs. SEA W 42 24 9 14 64.3 0 0 - 6 6 100.0 4 9 13 3 2 0 4 1 -
+p459
+aVMychal Thompson LAL 01/17/1990 LAL vs. SEA W 35 18 7 13 53.8 0 0 - 4 6 66.7 2 5 7 3 1 1 0 3 -
+p460
+aVMagic Johnson LAL 01/17/1990 LAL vs. SEA W 38 22 4 10 40.0 0 1 0.0 14 16 87.5 1 5 6 9 1 0 3 3 -
+p461
+aVVlade Divac LAL 01/17/1990 LAL vs. SEA W 10 0 0 4 0.0 0 0 - 0 0 - 2 1 3 1 0 1 1 4 -
+p462
+aVMichael Cooper LAL 01/17/1990 LAL vs. SEA W 21 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 0 1 1 1 1 -
+p463
+aVLarry Drew LAL 01/17/1990 LAL vs. SEA W 10 3 1 2 50.0 0 0 - 1 2 50.0 0 0 0 1 0 0 2 0 -
+p464
+aVByron Scott LAL 01/17/1990 LAL vs. SEA W 30 9 4 11 36.4 1 3 33.3 0 0 - 1 2 3 4 1 0 3 4 -
+p465
+aVA.C. Green LAL 01/17/1990 LAL vs. SEA W 35 8 3 6 50.0 0 0 - 2 2 100.0 3 4 7 3 0 0 2 0 -
+p466
+aVMychal Thompson LAL 01/15/1990 LAL vs. SAC W 24 4 2 5 40.0 0 0 - 0 0 - 1 11 12 0 0 1 1 2 -
+p467
+aVJay Vincent LAL 01/15/1990 LAL vs. SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p468
+aVOrlando Woolridge LAL 01/15/1990 LAL vs. SAC W 20 10 5 9 55.6 0 0 - 0 0 - 0 0 0 0 0 1 4 1 -
+p469
+aVByron Scott LAL 01/15/1990 LAL vs. SAC W 31 8 3 9 33.3 0 0 - 2 2 100.0 1 2 3 5 0 0 0 0 -
+p470
+aVA.C. Green LAL 01/15/1990 LAL vs. SAC W 34 25 7 12 58.3 0 0 - 11 12 91.7 3 6 9 2 1 1 3 1 -
+p471
+aVVlade Divac LAL 01/15/1990 LAL vs. SAC W 28 25 10 15 66.7 0 0 - 5 6 83.3 1 4 5 2 1 3 3 1 -
+p472
+aVMichael Cooper LAL 01/15/1990 LAL vs. SAC W 17 4 2 8 25.0 0 0 - 0 0 - 3 3 6 5 1 1 1 1 -
+p473
+aVLarry Drew LAL 01/15/1990 LAL vs. SAC W 16 2 1 3 33.3 0 0 - 0 0 - 0 1 1 2 1 0 2 2 -
+p474
+aVMagic Johnson LAL 01/15/1990 LAL vs. SAC W 32 17 5 7 71.4 1 1 100.0 6 6 100.0 1 2 3 10 1 0 3 0 -
+p475
+aVMark McNamara LAL 01/15/1990 LAL vs. SAC W 2 2 1 1 100.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -
+p476
+aVJames Worthy LAL 01/15/1990 LAL vs. SAC W 33 14 6 9 66.7 0 0 - 2 2 100.0 1 6 7 4 2 1 0 2 -
+p477
+aVLarry Drew LAL 01/12/1990 LAL vs. HOU W 12 2 1 3 33.3 0 0 - 0 2 0.0 0 0 0 2 0 0 2 0 -
+p478
+aVMychal Thompson LAL 01/12/1990 LAL vs. HOU W 26 12 5 6 83.3 0 0 - 2 2 100.0 2 9 11 1 0 1 0 2 -
+p479
+aVVlade Divac LAL 01/12/1990 LAL vs. HOU W 23 6 1 6 16.7 0 0 - 4 6 66.7 4 4 8 2 3 3 1 6 -
+p480
+aVJames Worthy LAL 01/12/1990 LAL vs. HOU W 38 10 4 8 50.0 0 0 - 2 5 40.0 2 4 6 5 2 0 2 1 -
+p481
+aVA.C. Green LAL 01/12/1990 LAL vs. HOU W 28 12 5 7 71.4 0 0 - 2 2 100.0 2 5 7 0 0 0 1 1 -
+p482
+aVMichael Cooper LAL 01/12/1990 LAL vs. HOU W 21 4 2 8 25.0 0 1 0.0 0 0 - 0 4 4 1 2 0 1 3 -
+p483
+aVByron Scott LAL 01/12/1990 LAL vs. HOU W 29 13 6 14 42.9 1 1 100.0 0 0 - 0 1 1 3 1 1 1 2 -
+p484
+aVOrlando Woolridge LAL 01/12/1990 LAL vs. HOU W 22 17 8 11 72.7 0 0 - 1 4 25.0 0 1 1 0 0 1 0 2 -
+p485
+aVMagic Johnson LAL 01/12/1990 LAL vs. HOU W 41 31 8 16 50.0 0 2 0.0 15 16 93.8 3 8 11 11 1 0 6 0 -
+p486
+aVA.C. Green LAL 01/10/1990 LAL vs. ORL W 31 13 6 13 46.2 0 1 0.0 1 2 50.0 3 6 9 0 1 1 3 2 -
+p487
+aVMagic Johnson LAL 01/10/1990 LAL vs. ORL W 27 16 6 12 50.0 0 0 - 4 4 100.0 2 4 6 13 1 0 3 0 -
+p488
+aVByron Scott LAL 01/10/1990 LAL vs. ORL W 29 20 9 17 52.9 0 3 0.0 2 2 100.0 1 3 4 5 6 0 0 1 -
+p489
+aVSteve Bucknall LAL 01/10/1990 LAL vs. ORL W 5 0 0 2 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -
+p490
+aVJay Vincent LAL 01/10/1990 LAL vs. ORL W 11 0 0 3 0.0 0 0 - 0 0 - 0 3 3 1 0 0 0 0 -
+p491
+aVMychal Thompson LAL 01/10/1990 LAL vs. ORL W 21 8 3 4 75.0 0 0 - 2 3 66.7 0 5 5 0 1 3 1 2 -
+p492
+aVMark McNamara LAL 01/10/1990 LAL vs. ORL W 8 6 2 5 40.0 0 0 - 2 2 100.0 0 2 2 0 1 0 1 0 -
+p493
+aVMichael Cooper LAL 01/10/1990 LAL vs. ORL W 20 9 4 7 57.1 1 2 50.0 0 0 - 0 0 0 4 0 0 0 0 -
+p494
+aVLarry Drew LAL 01/10/1990 LAL vs. ORL W 22 4 2 7 28.6 0 0 - 0 0 - 0 2 2 9 0 0 3 1 -
+p495
+aVOrlando Woolridge LAL 01/10/1990 LAL vs. ORL W 23 18 8 10 80.0 0 0 - 2 3 66.7 3 1 4 0 0 0 1 4 -
+p496
+aVVlade Divac LAL 01/10/1990 LAL vs. ORL W 20 12 6 9 66.7 0 0 - 0 0 - 3 3 6 0 1 1 3 4 -
+p497
+aVJames Worthy LAL 01/10/1990 LAL vs. ORL W 23 15 5 6 83.3 0 0 - 5 5 100.0 0 3 3 1 2 0 2 2 -
+p498
+aVMichael Cooper LAL 01/09/1990 LAL @ PHX L 11 0 0 4 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 3 -
+p499
+aVA.C. Green LAL 01/09/1990 LAL @ PHX L 39 18 6 13 46.2 0 0 - 6 7 85.7 4 11 15 1 1 1 1 2 -
+p500
+aVOrlando Woolridge LAL 01/09/1990 LAL @ PHX L 21 8 4 10 40.0 0 0 - 0 1 0.0 2 3 5 2 0 0 0 4 -
+p501
+aVJames Worthy LAL 01/09/1990 LAL @ PHX L 47 25 10 22 45.5 0 1 0.0 5 5 100.0 1 3 4 5 3 1 1 3 -
+p502
+aVLarry Drew LAL 01/09/1990 LAL @ PHX L 15 6 3 6 50.0 0 0 - 0 0 - 0 0 0 0 3 0 0 1 -
+p503
+aVByron Scott LAL 01/09/1990 LAL @ PHX L 40 18 7 14 50.0 3 4 75.0 1 2 50.0 0 1 1 3 1 0 2 5 -
+p504
+aVVlade Divac LAL 01/09/1990 LAL @ PHX L 19 11 4 7 57.1 0 0 - 3 5 60.0 3 2 5 1 0 1 1 1 -
+p505
+aVMagic Johnson LAL 01/09/1990 LAL @ PHX L 45 24 6 11 54.5 3 5 60.0 9 11 81.8 2 4 6 24 2 2 4 2 -
+p506
+aVMychal Thompson LAL 01/09/1990 LAL @ PHX L 28 8 4 8 50.0 0 0 - 0 0 - 2 3 5 0 1 1 1 4 -
+p507
+aVSteve Bucknall LAL 01/07/1990 LAL vs. MIA W 7 3 0 3 0.0 0 0 - 3 4 75.0 1 0 1 2 0 0 0 1 -
+p508
+aVLarry Drew LAL 01/07/1990 LAL vs. MIA W 24 8 3 7 42.9 0 0 - 2 2 100.0 0 1 1 7 1 0 1 0 -
+p509
+aVOrlando Woolridge LAL 01/07/1990 LAL vs. MIA W 22 14 6 11 54.5 0 0 - 2 3 66.7 2 1 3 4 1 1 0 2 -
+p510
+aVMichael Cooper LAL 01/07/1990 LAL vs. MIA W 26 11 5 10 50.0 1 3 33.3 0 0 - 0 4 4 5 3 0 1 0 -
+p511
+aVJames Worthy LAL 01/07/1990 LAL vs. MIA W 25 10 5 9 55.6 0 0 - 0 0 - 2 2 4 2 0 0 2 2 -
+p512
+aVMagic Johnson LAL 01/07/1990 LAL vs. MIA W 26 21 5 9 55.6 0 0 - 11 11 100.0 0 4 4 9 0 0 2 2 -
+p513
+aVVlade Divac LAL 01/07/1990 LAL vs. MIA W 26 21 7 10 70.0 0 0 - 7 8 87.5 6 8 14 2 2 3 1 4 -
+p514
+aVMark McNamara LAL 01/07/1990 LAL vs. MIA W 9 8 2 2 100.0 0 0 - 4 6 66.7 0 1 1 0 0 0 1 3 -
+p515
+aVJay Vincent LAL 01/07/1990 LAL vs. MIA W 18 6 3 8 37.5 0 1 0.0 0 1 0.0 0 1 1 0 2 0 0 4 -
+p516
+aVMychal Thompson LAL 01/07/1990 LAL vs. MIA W 15 4 2 3 66.7 0 0 - 0 1 0.0 1 3 4 0 1 0 0 3 -
+p517
+aVByron Scott LAL 01/07/1990 LAL vs. MIA W 22 7 3 12 25.0 0 0 - 1 2 50.0 0 1 1 2 1 0 0 0 -
+p518
+aVA.C. Green LAL 01/07/1990 LAL vs. MIA W 20 19 5 6 83.3 1 1 100.0 8 9 88.9 2 6 8 2 0 0 1 2 -
+p519
+aVMagic Johnson LAL 01/06/1990 LAL @ GOS L 37 14 2 10 20.0 0 2 0.0 10 12 83.3 0 8 8 16 2 1 4 5 -
+p520
+aVMychal Thompson LAL 01/06/1990 LAL @ GOS L 15 8 2 4 50.0 0 0 - 4 4 100.0 1 2 3 2 0 0 0 3 -
+p521
+aVMichael Cooper LAL 01/06/1990 LAL @ GOS L 18 16 5 6 83.3 4 5 80.0 2 2 100.0 1 1 2 3 3 1 1 5 -
+p522
+aVOrlando Woolridge LAL 01/06/1990 LAL @ GOS L 18 9 3 9 33.3 0 0 - 3 4 75.0 1 1 2 0 0 0 1 4 -
+p523
+aVA.C. Green LAL 01/06/1990 LAL @ GOS L 44 27 11 21 52.4 0 1 0.0 5 10 50.0 11 7 18 0 1 4 2 5 -
+p524
+aVVlade Divac LAL 01/06/1990 LAL @ GOS L 15 8 3 6 50.0 0 0 - 2 2 100.0 2 2 4 1 1 1 1 2 -
+p525
+aVJames Worthy LAL 01/06/1990 LAL @ GOS L 43 30 14 24 58.3 1 2 50.0 1 1 100.0 3 1 4 5 3 1 1 0 -
+p526
+aVByron Scott LAL 01/06/1990 LAL @ GOS L 31 13 5 16 31.3 2 3 66.7 1 2 50.0 1 1 2 4 0 0 0 4 -
+p527
+aVLarry Drew LAL 01/06/1990 LAL @ GOS L 19 6 3 6 50.0 0 1 0.0 0 0 - 0 2 2 4 1 0 1 1 -
+p528
+aVJames Worthy LAL 01/03/1990 LAL vs. DEN W 35 15 6 12 50.0 0 0 - 3 3 100.0 1 12 13 4 1 1 4 0 -
+p529
+aVMychal Thompson LAL 01/03/1990 LAL vs. DEN W 20 12 5 8 62.5 0 0 - 2 3 66.7 5 5 10 0 1 1 0 1 -
+p530
+aVMark McNamara LAL 01/03/1990 LAL vs. DEN W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p531
+aVByron Scott LAL 01/03/1990 LAL vs. DEN W 38 17 7 15 46.7 1 3 33.3 2 4 50.0 1 5 6 4 1 2 1 2 -
+p532
+aVOrlando Woolridge LAL 01/03/1990 LAL vs. DEN W 32 24 11 13 84.6 0 0 - 2 2 100.0 0 5 5 2 0 0 2 4 -
+p533
+aVJay Vincent LAL 01/03/1990 LAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p534
+aVSteve Bucknall LAL 01/03/1990 LAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p535
+aVMichael Cooper LAL 01/03/1990 LAL vs. DEN W 17 5 2 4 50.0 1 1 100.0 0 0 - 0 2 2 4 0 1 2 4 -
+p536
+aVMagic Johnson LAL 01/03/1990 LAL vs. DEN W 37 27 7 14 50.0 0 1 0.0 13 14 92.9 0 7 7 7 0 0 4 3 -
+p537
+aVLarry Drew LAL 01/03/1990 LAL vs. DEN W 19 4 2 5 40.0 0 0 - 0 0 - 0 1 1 8 4 0 2 1 -
+p538
+aVA.C. Green LAL 01/03/1990 LAL vs. DEN W 24 4 1 7 14.3 0 0 - 2 3 66.7 0 4 4 0 1 0 2 2 -
+p539
+aVVlade Divac LAL 01/03/1990 LAL vs. DEN W 15 6 3 6 50.0 0 0 - 0 1 0.0 2 4 6 0 0 2 3 3 -
+p540
+aVOrlando Woolridge LAL 12/29/1989 LAL vs. GOS W 19 22 9 15 60.0 0 0 - 4 5 80.0 1 3 4 0 0 1 1 3 -
+p541
+aVLarry Drew LAL 12/29/1989 LAL vs. GOS W 21 10 5 8 62.5 0 0 - 0 0 - 0 1 1 6 0 1 0 1 -
+p542
+aVMark McNamara LAL 12/29/1989 LAL vs. GOS W 3 6 3 3 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p543
+aVSteve Bucknall LAL 12/29/1989 LAL vs. GOS W 3 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 0 -
+p544
+aVMichael Cooper LAL 12/29/1989 LAL vs. GOS W 22 0 0 3 0.0 0 3 0.0 0 0 - 0 3 3 1 2 0 0 3 -
+p545
+aVVlade Divac LAL 12/29/1989 LAL vs. GOS W 11 3 1 3 33.3 0 0 - 1 4 25.0 1 5 6 2 2 0 1 4 -
+p546
+aVJay Vincent LAL 12/29/1989 LAL vs. GOS W 3 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 1 0 1 0 -
+p547
+aVA.C. Green LAL 12/29/1989 LAL vs. GOS W 30 2 1 8 12.5 0 1 0.0 0 0 - 2 4 6 1 1 0 2 1 -
+p548
+aVByron Scott LAL 12/29/1989 LAL vs. GOS W 34 21 9 15 60.0 1 2 50.0 2 2 100.0 0 4 4 7 2 2 2 4 -
+p549
+aVMychal Thompson LAL 12/29/1989 LAL vs. GOS W 23 13 5 8 62.5 0 0 - 3 6 50.0 5 5 10 1 0 2 1 2 -
+p550
+aVJames Worthy LAL 12/29/1989 LAL vs. GOS W 33 34 15 24 62.5 0 0 - 4 5 80.0 4 8 12 5 0 1 0 3 -
+p551
+aVMagic Johnson LAL 12/29/1989 LAL vs. GOS W 38 17 5 13 38.5 0 2 0.0 7 8 87.5 2 2 4 17 2 1 3 1 -
+p552
+aVOrlando Woolridge LAL 12/26/1989 LAL vs. SAC W 12 0 0 3 0.0 0 0 - 0 0 - 1 1 2 2 0 0 0 0 -
+p553
+aVMagic Johnson LAL 12/26/1989 LAL vs. SAC W 39 27 10 15 66.7 0 1 0.0 7 8 87.5 0 6 6 14 2 0 5 1 -
+p554
+aVJames Worthy LAL 12/26/1989 LAL vs. SAC W 40 19 9 15 60.0 1 1 100.0 0 0 - 1 4 5 4 1 3 1 5 -
+p555
+aVVlade Divac LAL 12/26/1989 LAL vs. SAC W 31 12 6 8 75.0 0 0 - 0 0 - 2 6 8 2 5 1 4 3 -
+p556
+aVMichael Cooper LAL 12/26/1989 LAL vs. SAC W 29 4 2 7 28.6 0 1 0.0 0 0 - 1 4 5 3 0 0 1 3 -
+p557
+aVByron Scott LAL 12/26/1989 LAL vs. SAC W 36 26 10 22 45.5 2 6 33.3 4 5 80.0 2 1 3 4 1 0 3 0 -
+p558
+aVLarry Drew LAL 12/26/1989 LAL vs. SAC W 11 0 0 4 0.0 0 0 - 0 0 - 0 0 0 1 0 0 3 1 -
+p559
+aVA.C. Green LAL 12/26/1989 LAL vs. SAC W 42 16 7 9 77.8 0 0 - 2 4 50.0 0 11 11 1 0 1 1 3 -
+p560
+aVOrlando Woolridge LAL 12/20/1989 LAL @ MIN W 34 20 7 14 50.0 0 0 - 6 8 75.0 2 4 6 0 0 1 0 2 -
+p561
+aVVlade Divac LAL 12/20/1989 LAL @ MIN W 29 16 6 12 50.0 0 0 - 4 4 100.0 5 6 11 0 0 1 2 3 -
+p562
+aVLarry Drew LAL 12/20/1989 LAL @ MIN W 11 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 1 0 0 0 -
+p563
+aVJames Worthy LAL 12/20/1989 LAL @ MIN W 38 24 10 24 41.7 0 0 - 4 4 100.0 1 1 2 3 0 0 4 4 -
+p564
+aVByron Scott LAL 12/20/1989 LAL @ MIN W 40 4 2 10 20.0 0 1 0.0 0 0 - 1 2 3 5 0 1 0 4 -
+p565
+aVA.C. Green LAL 12/20/1989 LAL @ MIN W 42 16 5 11 45.5 0 0 - 6 8 75.0 7 8 15 1 1 0 1 2 -
+p566
+aVMagic Johnson LAL 12/20/1989 LAL @ MIN W 48 26 7 14 50.0 0 0 - 12 14 85.7 6 4 10 9 2 1 2 3 -
+p567
+aVMichael Cooper LAL 12/20/1989 LAL @ MIN W 23 0 0 5 0.0 0 1 0.0 0 0 - 3 1 4 1 1 0 0 1 -
+p568
+aVByron Scott LAL 12/19/1989 LAL @ CHI L 24 3 0 7 0.0 0 1 0.0 3 4 75.0 0 3 3 1 1 0 1 2 -
+p569
+aVMagic Johnson LAL 12/19/1989 LAL @ CHI L 42 18 6 16 37.5 1 3 33.3 5 6 83.3 6 6 12 10 4 0 3 3 -
+p570
+aVLarry Drew LAL 12/19/1989 LAL @ CHI L 27 9 4 9 44.4 1 2 50.0 0 0 - 0 0 0 3 1 0 1 1 -
+p571
+aVOrlando Woolridge LAL 12/19/1989 LAL @ CHI L 19 12 4 10 40.0 0 0 - 4 6 66.7 1 2 3 0 1 0 0 1 -
+p572
+aVA.C. Green LAL 12/19/1989 LAL @ CHI L 31 7 3 9 33.3 0 2 0.0 1 4 25.0 3 4 7 1 0 1 0 3 -
+p573
+aVJames Worthy LAL 12/19/1989 LAL @ CHI L 40 19 8 19 42.1 0 0 - 3 4 75.0 2 5 7 1 1 0 4 1 -
+p574
+aVVlade Divac LAL 12/19/1989 LAL @ CHI L 24 10 5 9 55.6 0 0 - 0 0 - 4 5 9 0 0 0 1 4 -
+p575
+aVMichael Cooper LAL 12/19/1989 LAL @ CHI L 33 5 2 9 22.2 1 6 16.7 0 0 - 1 3 4 2 1 1 2 3 -
+p576
+aVMagic Johnson LAL 12/16/1989 LAL @ NJN W 38 28 11 20 55.0 0 2 0.0 6 6 100.0 3 2 5 8 2 1 0 2 -
+p577
+aVA.C. Green LAL 12/16/1989 LAL @ NJN W 36 10 5 11 45.5 0 0 - 0 0 - 4 5 9 1 1 1 0 3 -
+p578
+aVSteve Bucknall LAL 12/16/1989 LAL @ NJN W 2 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p579
+aVVlade Divac LAL 12/16/1989 LAL @ NJN W 19 4 2 7 28.6 0 0 - 0 0 - 1 4 5 0 1 0 0 3 -
+p580
+aVMichael Cooper LAL 12/16/1989 LAL @ NJN W 35 13 5 8 62.5 3 4 75.0 0 1 0.0 0 3 3 0 0 1 1 0 -
+p581
+aVLarry Drew LAL 12/16/1989 LAL @ NJN W 23 14 5 11 45.5 0 1 0.0 4 4 100.0 0 1 1 1 2 0 2 0 -
+p582
+aVMark McNamara LAL 12/16/1989 LAL @ NJN W 8 0 0 4 0.0 0 0 - 0 0 - 3 1 4 1 0 0 0 1 -
+p583
+aVJames Worthy LAL 12/16/1989 LAL @ NJN W 34 12 5 13 38.5 0 0 - 2 2 100.0 3 5 8 3 1 1 2 0 -
+p584
+aVOrlando Woolridge LAL 12/16/1989 LAL @ NJN W 16 10 3 5 60.0 0 0 - 4 4 100.0 1 1 2 0 0 3 1 4 -
+p585
+aVByron Scott LAL 12/16/1989 LAL @ NJN W 29 8 3 11 27.3 0 2 0.0 2 4 50.0 0 2 2 0 1 0 1 3 -
+p586
+aVByron Scott LAL 12/15/1989 LAL @ BOS W 37 21 9 15 60.0 1 3 33.3 2 2 100.0 2 0 2 4 0 0 1 0 -
+p587
+aVVlade Divac LAL 12/15/1989 LAL @ BOS W 23 10 4 9 44.4 0 1 0.0 2 3 66.7 1 3 4 0 1 1 1 4 -
+p588
+aVMagic Johnson LAL 12/15/1989 LAL @ BOS W 43 16 4 12 33.3 0 1 0.0 8 8 100.0 0 6 6 21 6 0 3 0 -
+p589
+aVLarry Drew LAL 12/15/1989 LAL @ BOS W 8 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 1 -
+p590
+aVMark McNamara LAL 12/15/1989 LAL @ BOS W 5 0 0 1 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -
+p591
+aVJames Worthy LAL 12/15/1989 LAL @ BOS W 35 28 13 19 68.4 0 1 0.0 2 2 100.0 0 5 5 2 0 0 2 5 -
+p592
+aVMichael Cooper LAL 12/15/1989 LAL @ BOS W 32 12 4 9 44.4 2 4 50.0 2 2 100.0 1 2 3 3 2 0 3 2 -
+p593
+aVA.C. Green LAL 12/15/1989 LAL @ BOS W 43 25 8 12 66.7 0 0 - 9 12 75.0 3 8 11 0 1 0 2 4 -
+p594
+aVOrlando Woolridge LAL 12/15/1989 LAL @ BOS W 14 5 2 3 66.7 0 0 - 1 1 100.0 0 1 1 0 0 0 0 0 -
+p595
+aVLarry Drew LAL 12/13/1989 LAL @ MIA W 20 4 2 4 50.0 0 0 - 0 0 - 1 4 5 6 1 0 1 0 -
+p596
+aVJames Worthy LAL 12/13/1989 LAL @ MIA W 29 21 10 17 58.8 0 0 - 1 1 100.0 1 1 2 0 1 1 1 1 -
+p597
+aVVlade Divac LAL 12/13/1989 LAL @ MIA W 23 12 6 7 85.7 0 0 - 0 0 - 3 4 7 2 2 2 2 2 -
+p598
+aVMark McNamara LAL 12/13/1989 LAL @ MIA W 20 8 3 9 33.3 0 0 - 2 2 100.0 2 4 6 0 0 0 2 1 -
+p599
+aVOrlando Woolridge LAL 12/13/1989 LAL @ MIA W 15 7 2 3 66.7 0 0 - 3 3 100.0 0 2 2 1 0 1 3 4 -
+p600
+aVMichael Cooper LAL 12/13/1989 LAL @ MIA W 26 3 1 7 14.3 0 0 - 1 2 50.0 1 3 4 4 0 2 1 2 -
+p601
+aVMagic Johnson LAL 12/13/1989 LAL @ MIA W 32 18 5 13 38.5 1 2 50.0 7 9 77.8 4 6 10 8 2 0 4 1 -
+p602
+aVA.C. Green LAL 12/13/1989 LAL @ MIA W 36 13 4 8 50.0 0 1 0.0 5 5 100.0 3 6 9 0 2 2 1 2 -
+p603
+aVByron Scott LAL 12/13/1989 LAL @ MIA W 31 12 5 12 41.7 0 1 0.0 2 2 100.0 1 2 3 1 2 1 2 1 -
+p604
+aVSteve Bucknall LAL 12/13/1989 LAL @ MIA W 8 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 2 0 -
+p605
+aVJames Worthy LAL 12/12/1989 LAL @ CHH W 38 27 10 18 55.6 0 0 - 7 8 87.5 3 5 8 4 0 0 5 2 -
+p606
+aVMike Higgins LAL 12/12/1989 LAL @ CHH W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p607
+aVA.C. Green LAL 12/12/1989 LAL @ CHH W 39 13 6 11 54.5 0 0 - 1 1 100.0 4 8 12 1 0 0 3 2 -
+p608
+aVMichael Cooper LAL 12/12/1989 LAL @ CHH W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p609
+aVVlade Divac LAL 12/12/1989 LAL @ CHH W 24 2 1 5 20.0 0 1 0.0 0 0 - 2 11 13 0 1 2 3 5 -
+p610
+aVMychal Thompson LAL 12/12/1989 LAL @ CHH W 24 12 6 10 60.0 0 0 - 0 0 - 4 5 9 0 0 2 2 2 -
+p611
+aVLarry Drew LAL 12/12/1989 LAL @ CHH W 24 3 1 3 33.3 0 0 - 1 1 100.0 0 4 4 4 1 0 1 4 -
+p612
+aVMagic Johnson LAL 12/12/1989 LAL @ CHH W 44 27 11 20 55.0 0 1 0.0 5 6 83.3 0 2 2 10 0 0 5 0 -
+p613
+aVByron Scott LAL 12/12/1989 LAL @ CHH W 41 19 9 15 60.0 1 1 100.0 0 0 - 0 5 5 3 1 0 2 2 -
+p614
+aVLarry Drew LAL 12/10/1989 LAL @ ORL L 19 4 2 7 28.6 0 1 0.0 0 0 - 0 1 1 2 0 0 1 0 -
+p615
+aVByron Scott LAL 12/10/1989 LAL @ ORL L 45 17 7 15 46.7 0 0 - 3 3 100.0 3 0 3 1 0 0 1 3 -
+p616
+aVMychal Thompson LAL 12/10/1989 LAL @ ORL L 32 12 5 10 50.0 0 0 - 2 4 50.0 3 4 7 0 0 0 3 4 -
+p617
+aVSteve Bucknall LAL 12/10/1989 LAL @ ORL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 3 -
+p618
+aVA.C. Green LAL 12/10/1989 LAL @ ORL L 37 11 2 9 22.2 1 2 50.0 6 8 75.0 3 3 6 0 0 0 0 3 -
+p619
+aVVlade Divac LAL 12/10/1989 LAL @ ORL L 23 12 4 7 57.1 0 0 - 4 4 100.0 4 9 13 1 0 3 2 2 -
+p620
+aVJames Worthy LAL 12/10/1989 LAL @ ORL L 40 31 11 18 61.1 0 0 - 9 11 81.8 2 3 5 5 1 1 0 2 -
+p621
+aVMagic Johnson LAL 12/10/1989 LAL @ ORL L 30 14 3 16 18.8 0 3 0.0 8 9 88.9 2 5 7 8 4 2 6 3 -
+p622
+aVMichael Cooper LAL 12/10/1989 LAL @ ORL L 12 2 1 7 14.3 0 3 0.0 0 0 - 0 2 2 1 0 0 0 2 -
+p623
+aVA.C. Green LAL 12/09/1989 LAL @ WAS L 29 6 3 9 33.3 0 1 0.0 0 0 - 0 3 3 0 2 0 1 3 -
+p624
+aVMagic Johnson LAL 12/09/1989 LAL @ WAS L 40 21 9 16 56.3 0 0 - 3 3 100.0 1 6 7 14 1 1 1 2 -
+p625
+aVJames Worthy LAL 12/09/1989 LAL @ WAS L 41 26 13 26 50.0 0 1 0.0 0 0 - 5 5 10 3 1 1 2 3 -
+p626
+aVByron Scott LAL 12/09/1989 LAL @ WAS L 39 14 6 13 46.2 0 2 0.0 2 2 100.0 1 0 1 2 3 1 2 4 -
+p627
+aVVlade Divac LAL 12/09/1989 LAL @ WAS L 11 4 1 2 50.0 0 0 - 2 3 66.7 1 3 4 0 0 0 3 1 -
+p628
+aVMychal Thompson LAL 12/09/1989 LAL @ WAS L 35 16 7 13 53.8 0 0 - 2 2 100.0 4 5 9 3 3 0 3 3 -
+p629
+aVLarry Drew LAL 12/09/1989 LAL @ WAS L 17 10 5 7 71.4 0 0 - 0 0 - 0 1 1 2 0 0 2 3 -
+p630
+aVMichael Cooper LAL 12/09/1989 LAL @ WAS L 28 4 2 6 33.3 0 3 0.0 0 0 - 0 4 4 1 0 0 2 3 -
+p631
+aVA.C. Green LAL 12/07/1989 LAL vs. PHX W 43 15 4 8 50.0 1 2 50.0 6 9 66.7 3 7 10 1 2 1 2 1 -
+p632
+aVJames Worthy LAL 12/07/1989 LAL vs. PHX W 38 27 10 21 47.6 0 0 - 7 9 77.8 6 5 11 2 0 1 1 5 -
+p633
+aVMagic Johnson LAL 12/07/1989 LAL vs. PHX W 41 18 7 15 46.7 0 3 0.0 4 7 57.1 3 8 11 12 1 1 4 2 -
+p634
+aVByron Scott LAL 12/07/1989 LAL vs. PHX W 37 17 7 19 36.8 2 5 40.0 1 2 50.0 2 4 6 1 0 1 2 3 -
+p635
+aVVlade Divac LAL 12/07/1989 LAL vs. PHX W 26 16 6 13 46.2 0 0 - 4 5 80.0 3 2 5 0 0 1 0 2 -
+p636
+aVLarry Drew LAL 12/07/1989 LAL vs. PHX W 11 0 0 2 0.0 0 0 - 0 0 - 0 2 2 5 1 0 3 0 -
+p637
+aVMichael Cooper LAL 12/07/1989 LAL vs. PHX W 19 3 1 7 14.3 1 2 50.0 0 0 - 3 2 5 2 1 1 2 3 -
+p638
+aVMychal Thompson LAL 12/07/1989 LAL vs. PHX W 25 4 2 5 40.0 0 0 - 0 0 - 1 3 4 0 0 1 0 2 -
+p639
+aVVlade Divac LAL 12/05/1989 LAL vs. LAC W 28 11 5 11 45.5 0 0 - 1 2 50.0 1 1 2 1 1 0 3 3 -
+p640
+aVLarry Drew LAL 12/05/1989 LAL vs. LAC W 22 4 2 3 66.7 0 0 - 0 0 - 0 1 1 8 2 0 3 2 -
+p641
+aVMagic Johnson LAL 12/05/1989 LAL vs. LAC W 41 34 11 20 55.0 0 4 0.0 12 15 80.0 1 5 6 10 4 1 4 3 -
+p642
+aVJames Worthy LAL 12/05/1989 LAL vs. LAC W 37 18 8 15 53.3 0 1 0.0 2 4 50.0 2 5 7 3 1 0 2 3 -
+p643
+aVMichael Cooper LAL 12/05/1989 LAL vs. LAC W 31 12 4 11 36.4 2 4 50.0 2 2 100.0 1 2 3 3 1 0 1 1 -
+p644
+aVA.C. Green LAL 12/05/1989 LAL vs. LAC W 40 13 3 9 33.3 0 2 0.0 7 10 70.0 0 10 10 2 2 1 1 3 -
+p645
+aVByron Scott LAL 12/05/1989 LAL vs. LAC W 17 11 5 8 62.5 1 2 50.0 0 1 0.0 0 0 0 2 0 0 0 1 -
+p646
+aVMychal Thompson LAL 12/05/1989 LAL vs. LAC W 24 8 3 4 75.0 0 0 - 2 2 100.0 3 2 5 0 1 2 1 5 -
+p647
+aVMark McNamara LAL 12/03/1989 LAL vs. NYK W 6 5 2 2 100.0 0 0 - 1 1 100.0 2 1 3 0 0 0 1 4 -
+p648
+aVMychal Thompson LAL 12/03/1989 LAL vs. NYK W 26 13 4 12 33.3 0 0 - 5 9 55.6 5 3 8 2 1 1 2 5 -
+p649
+aVA.C. Green LAL 12/03/1989 LAL vs. NYK W 38 17 6 7 85.7 1 1 100.0 4 6 66.7 1 6 7 3 1 1 4 4 -
+p650
+aVMagic Johnson LAL 12/03/1989 LAL vs. NYK W 38 20 7 13 53.8 1 4 25.0 5 5 100.0 1 6 7 11 1 2 5 2 -
+p651
+aVLarry Drew LAL 12/03/1989 LAL vs. NYK W 12 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -
+p652
+aVJames Worthy LAL 12/03/1989 LAL vs. NYK W 42 22 10 18 55.6 0 0 - 2 4 50.0 4 2 6 4 1 2 1 1 -
+p653
+aVByron Scott LAL 12/03/1989 LAL vs. NYK W 37 11 5 13 38.5 1 1 100.0 0 0 - 0 4 4 6 1 2 3 1 -
+p654
+aVVlade Divac LAL 12/03/1989 LAL vs. NYK W 16 11 5 10 50.0 0 0 - 1 1 100.0 4 4 8 0 2 1 0 4 -
+p655
+aVMichael Cooper LAL 12/03/1989 LAL vs. NYK W 25 8 2 6 33.3 0 2 0.0 4 4 100.0 2 1 3 2 0 0 3 0 -
+p656
+aVMichael Cooper LAL 12/01/1989 LAL vs. DET L 32 10 4 7 57.1 0 1 0.0 2 3 66.7 1 0 1 1 1 0 2 4 -
+p657
+aVLarry Drew LAL 12/01/1989 LAL vs. DET L 18 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 0 0 0 3 -
+p658
+aVVlade Divac LAL 12/01/1989 LAL vs. DET L 13 4 0 1 0.0 0 0 - 4 4 100.0 0 0 0 0 1 0 3 2 -
+p659
+aVMagic Johnson LAL 12/01/1989 LAL vs. DET L 40 28 10 16 62.5 1 4 25.0 7 8 87.5 1 6 7 10 0 0 1 5 -
+p660
+aVJames Worthy LAL 12/01/1989 LAL vs. DET L 47 19 7 22 31.8 0 0 - 5 6 83.3 5 8 13 2 1 1 3 4 -
+p661
+aVByron Scott LAL 12/01/1989 LAL vs. DET L 33 15 5 9 55.6 1 2 50.0 4 4 100.0 0 2 2 4 1 1 4 6 -
+p662
+aVA.C. Green LAL 12/01/1989 LAL vs. DET L 38 9 1 8 12.5 0 0 - 7 8 87.5 1 4 5 0 0 0 0 5 -
+p663
+aVMychal Thompson LAL 12/01/1989 LAL vs. DET L 44 10 2 5 40.0 0 0 - 6 8 75.0 2 3 5 0 0 1 2 1 -
+p664
+aVMike Higgins LAL 11/30/1989 LAL @ SAC W 4 1 0 0 - 0 0 - 1 2 50.0 1 0 1 1 0 1 0 1 -
+p665
+aVJames Worthy LAL 11/30/1989 LAL @ SAC W 36 22 9 17 52.9 2 2 100.0 2 2 100.0 3 6 9 3 1 1 4 1 -
+p666
+aVByron Scott LAL 11/30/1989 LAL @ SAC W 35 11 3 11 27.3 0 1 0.0 5 8 62.5 0 3 3 4 0 0 2 2 -
+p667
+aVMichael Cooper LAL 11/30/1989 LAL @ SAC W 15 4 2 7 28.6 0 1 0.0 0 0 - 0 0 0 3 1 1 1 2 -
+p668
+aVMychal Thompson LAL 11/30/1989 LAL @ SAC W 24 19 8 10 80.0 0 0 - 3 5 60.0 1 7 8 1 0 2 1 3 -
+p669
+aVSteve Bucknall LAL 11/30/1989 LAL @ SAC W 4 2 0 1 0.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 0 -
+p670
+aVMagic Johnson LAL 11/30/1989 LAL @ SAC W 36 14 6 15 40.0 1 1 100.0 1 1 100.0 0 2 2 15 2 0 2 0 -
+p671
+aVLarry Drew LAL 11/30/1989 LAL @ SAC W 25 11 5 6 83.3 0 0 - 1 1 100.0 0 4 4 4 1 0 0 4 -
+p672
+aVVlade Divac LAL 11/30/1989 LAL @ SAC W 20 8 4 9 44.4 0 0 - 0 2 0.0 0 10 10 0 4 1 1 4 -
+p673
+aVMark McNamara LAL 11/30/1989 LAL @ SAC W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p674
+aVA.C. Green LAL 11/30/1989 LAL @ SAC W 38 17 7 12 58.3 0 2 0.0 3 5 60.0 3 7 10 0 0 0 2 2 -
+p675
+aVMagic Johnson LAL 11/28/1989 LAL @ HOU L 39 24 9 26 34.6 1 6 16.7 5 6 83.3 7 6 13 9 3 0 8 4 -
+p676
+aVJames Worthy LAL 11/28/1989 LAL @ HOU L 35 16 7 15 46.7 0 1 0.0 2 2 100.0 3 5 8 2 0 0 6 4 -
+p677
+aVMichael Cooper LAL 11/28/1989 LAL @ HOU L 28 8 3 6 50.0 2 4 50.0 0 0 - 1 1 2 2 2 0 2 2 -
+p678
+aVLarry Drew LAL 11/28/1989 LAL @ HOU L 18 11 4 6 66.7 1 1 100.0 2 2 100.0 1 1 2 4 0 0 0 0 -
+p679
+aVByron Scott LAL 11/28/1989 LAL @ HOU L 38 14 5 17 29.4 2 5 40.0 2 3 66.7 0 2 2 4 1 1 2 3 -
+p680
+aVMychal Thompson LAL 11/28/1989 LAL @ HOU L 31 10 5 8 62.5 0 0 - 0 0 - 4 4 8 2 1 0 2 5 -
+p681
+aVVlade Divac LAL 11/28/1989 LAL @ HOU L 13 5 2 4 50.0 0 0 - 1 2 50.0 1 3 4 0 0 1 2 3 -
+p682
+aVA.C. Green LAL 11/28/1989 LAL @ HOU L 38 16 6 9 66.7 1 1 100.0 3 4 75.0 2 8 10 1 1 1 3 4 -
+p683
+aVByron Scott LAL 11/26/1989 LAL vs. SAN W 32 24 10 15 66.7 2 3 66.7 2 3 66.7 2 4 6 6 1 0 1 4 -
+p684
+aVJames Worthy LAL 11/26/1989 LAL vs. SAN W 35 22 9 15 60.0 0 0 - 4 4 100.0 3 2 5 5 1 1 0 1 -
+p685
+aVSteve Bucknall LAL 11/26/1989 LAL vs. SAN W 6 2 1 2 50.0 0 0 - 0 0 - 1 0 1 1 1 0 0 1 -
+p686
+aVVlade Divac LAL 11/26/1989 LAL vs. SAN W 13 8 3 4 75.0 0 0 - 2 4 50.0 0 1 1 0 1 0 0 5 -
+p687
+aVMagic Johnson LAL 11/26/1989 LAL vs. SAN W 33 24 4 10 40.0 1 2 50.0 15 15 100.0 0 3 3 10 5 0 6 1 -
+p688
+aVA.C. Green LAL 11/26/1989 LAL vs. SAN W 34 20 8 12 66.7 1 2 50.0 3 4 75.0 3 5 8 2 0 2 2 2 -
+p689
+aVMike Higgins LAL 11/26/1989 LAL vs. SAN W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 1 -
+p690
+aVMychal Thompson LAL 11/26/1989 LAL vs. SAN W 30 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 1 0 2 4 4 -
+p691
+aVMark McNamara LAL 11/26/1989 LAL vs. SAN W 6 5 1 2 50.0 0 0 - 3 5 60.0 0 0 0 0 0 0 2 1 -
+p692
+aVMichael Cooper LAL 11/26/1989 LAL vs. SAN W 27 7 2 4 50.0 0 1 0.0 3 4 75.0 2 2 4 4 1 1 2 5 -
+p693
+aVLarry Drew LAL 11/26/1989 LAL vs. SAN W 20 12 3 5 60.0 0 0 - 6 6 100.0 0 2 2 3 0 0 3 3 -
+p694
+aVVlade Divac LAL 11/25/1989 LAL @ UTH W 21 5 2 5 40.0 0 0 - 1 2 50.0 2 1 3 0 1 0 3 4 -
+p695
+aVA.C. Green LAL 11/25/1989 LAL @ UTH W 44 5 2 6 33.3 0 0 - 1 2 50.0 3 8 11 2 0 1 4 3 -
+p696
+aVByron Scott LAL 11/25/1989 LAL @ UTH W 38 10 4 12 33.3 1 2 50.0 1 2 50.0 0 2 2 4 1 0 2 4 -
+p697
+aVMagic Johnson LAL 11/25/1989 LAL @ UTH W 40 25 9 14 64.3 2 3 66.7 5 5 100.0 1 1 2 11 3 2 2 3 -
+p698
+aVJames Worthy LAL 11/25/1989 LAL @ UTH W 38 24 11 18 61.1 0 0 - 2 2 100.0 1 3 4 0 1 2 2 1 -
+p699
+aVMychal Thompson LAL 11/25/1989 LAL @ UTH W 22 7 3 10 30.0 0 0 - 1 1 100.0 3 8 11 1 0 0 2 5 -
+p700
+aVLarry Drew LAL 11/25/1989 LAL @ UTH W 20 5 2 5 40.0 0 0 - 1 2 50.0 0 0 0 2 0 0 0 0 -
+p701
+aVMichael Cooper LAL 11/25/1989 LAL @ UTH W 17 11 3 6 50.0 1 1 100.0 4 4 100.0 0 1 1 0 0 0 0 1 -
+p702
+aVVlade Divac LAL 11/19/1989 LAL vs. WAS W 17 17 5 8 62.5 0 0 - 7 7 100.0 1 5 6 0 0 1 1 2 -
+p703
+aVByron Scott LAL 11/19/1989 LAL vs. WAS W 37 19 8 15 53.3 3 4 75.0 0 0 - 0 1 1 4 0 0 2 0 -
+p704
+aVMichael Cooper LAL 11/19/1989 LAL vs. WAS W 28 9 4 5 80.0 1 2 50.0 0 0 - 1 2 3 4 0 1 2 4 -
+p705
+aVMagic Johnson LAL 11/19/1989 LAL vs. WAS W 39 25 8 18 44.4 0 2 0.0 9 10 90.0 4 6 10 14 1 1 4 0 -
+p706
+aVMychal Thompson LAL 11/19/1989 LAL vs. WAS W 26 13 5 9 55.6 0 0 - 3 5 60.0 4 6 10 0 0 2 0 2 -
+p707
+aVA.C. Green LAL 11/19/1989 LAL vs. WAS W 40 12 2 6 33.3 0 0 - 8 10 80.0 4 6 10 0 0 0 2 2 -
+p708
+aVJames Worthy LAL 11/19/1989 LAL vs. WAS W 40 19 9 23 39.1 0 0 - 1 2 50.0 4 4 8 4 1 0 0 3 -
+p709
+aVLarry Drew LAL 11/19/1989 LAL vs. WAS W 13 6 3 6 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -
+p710
+aVSteve Bucknall LAL 11/17/1989 LAL vs. DEN W 3 2 1 3 33.3 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -
+p711
+aVMike Higgins LAL 11/17/1989 LAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p712
+aVA.C. Green LAL 11/17/1989 LAL vs. DEN W 39 27 13 23 56.5 0 1 0.0 1 4 25.0 6 7 13 0 1 1 3 2 -
+p713
+aVLarry Drew LAL 11/17/1989 LAL vs. DEN W 17 4 1 2 50.0 0 1 0.0 2 4 50.0 0 1 1 2 1 0 0 3 -
+p714
+aVByron Scott LAL 11/17/1989 LAL vs. DEN W 31 16 7 14 50.0 2 3 66.7 0 0 - 1 1 2 1 0 1 3 3 -
+p715
+aVMagic Johnson LAL 11/17/1989 LAL vs. DEN W 40 24 6 13 46.2 1 3 33.3 11 11 100.0 2 6 8 24 6 1 3 0 -
+p716
+aVJames Worthy LAL 11/17/1989 LAL vs. DEN W 37 20 8 10 80.0 0 0 - 4 4 100.0 2 4 6 2 0 1 3 4 -
+p717
+aVMychal Thompson LAL 11/17/1989 LAL vs. DEN W 24 6 2 4 50.0 0 0 - 2 2 100.0 0 9 9 1 2 3 1 1 -
+p718
+aVMichael Cooper LAL 11/17/1989 LAL vs. DEN W 25 15 6 11 54.5 0 1 0.0 3 4 75.0 1 1 2 2 0 0 0 5 -
+p719
+aVVlade Divac LAL 11/17/1989 LAL vs. DEN W 19 5 2 7 28.6 0 0 - 1 4 25.0 1 7 8 1 1 1 1 2 -
+p720
+aVMel McCants LAL 11/17/1989 LAL vs. DEN W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p721
+aVMark McNamara LAL 11/17/1989 LAL vs. DEN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -
+p722
+aVSteve Bucknall LAL 11/15/1989 LAL vs. IND W 4 2 1 2 50.0 0 0 - 0 0 - 0 1 1 1 0 0 0 0 -
+p723
+aVMichael Cooper LAL 11/15/1989 LAL vs. IND W 21 4 1 9 11.1 0 3 0.0 2 2 100.0 0 3 3 0 1 0 0 3 -
+p724
+aVMark McNamara LAL 11/15/1989 LAL vs. IND W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p725
+aVA.C. Green LAL 11/15/1989 LAL vs. IND W 44 24 9 19 47.4 1 1 100.0 5 7 71.4 8 8 16 2 2 0 4 1 -
+p726
+aVMagic Johnson LAL 11/15/1989 LAL vs. IND W 34 19 8 25 32.0 0 4 0.0 3 4 75.0 0 6 6 11 0 1 4 2 -
+p727
+aVMychal Thompson LAL 11/15/1989 LAL vs. IND W 25 6 2 6 33.3 0 0 - 2 2 100.0 4 2 6 0 0 1 1 3 -
+p728
+aVLarry Drew LAL 11/15/1989 LAL vs. IND W 23 8 2 7 28.6 1 1 100.0 3 4 75.0 0 2 2 4 0 0 0 0 -
+p729
+aVMike Higgins LAL 11/15/1989 LAL vs. IND W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -
+p730
+aVByron Scott LAL 11/15/1989 LAL vs. IND W 33 19 8 14 57.1 0 1 0.0 3 5 60.0 2 2 4 7 1 0 3 1 -
+p731
+aVVlade Divac LAL 11/15/1989 LAL vs. IND W 20 13 6 10 60.0 0 0 - 1 2 50.0 3 8 11 3 2 3 1 5 -
+p732
+aVJames Worthy LAL 11/15/1989 LAL vs. IND W 29 20 8 13 61.5 0 0 - 4 4 100.0 2 4 6 4 2 1 0 3 -
+p733
+aVMel McCants LAL 11/15/1989 LAL vs. IND W 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p734
+aVMagic Johnson LAL 11/12/1989 LAL vs. DAL W 32 22 9 15 60.0 1 2 50.0 3 4 75.0 2 2 4 7 3 0 2 1 -
+p735
+aVA.C. Green LAL 11/12/1989 LAL vs. DAL W 32 9 3 7 42.9 0 0 - 3 3 100.0 1 2 3 3 1 0 0 3 -
+p736
+aVVlade Divac LAL 11/12/1989 LAL vs. DAL W 20 8 2 7 28.6 0 0 - 4 4 100.0 2 2 4 0 3 2 0 4 -
+p737
+aVMike Higgins LAL 11/12/1989 LAL vs. DAL W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p738
+aVMichael Cooper LAL 11/12/1989 LAL vs. DAL W 23 4 2 9 22.2 0 3 0.0 0 0 - 1 4 5 4 0 0 1 1 -
+p739
+aVSteve Bucknall LAL 11/12/1989 LAL vs. DAL W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p740
+aVMark McNamara LAL 11/12/1989 LAL vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -
+p741
+aVByron Scott LAL 11/12/1989 LAL vs. DAL W 36 20 6 13 46.2 1 2 50.0 7 8 87.5 1 3 4 2 1 0 3 1 -
+p742
+aVMel McCants LAL 11/12/1989 LAL vs. DAL W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p743
+aVMychal Thompson LAL 11/12/1989 LAL vs. DAL W 26 7 3 11 27.3 0 0 - 1 2 50.0 7 4 11 0 1 2 1 2 -
+p744
+aVJames Worthy LAL 11/12/1989 LAL vs. DAL W 39 22 10 17 58.8 1 2 50.0 1 2 50.0 1 5 6 6 2 0 3 3 -
+p745
+aVLarry Drew LAL 11/12/1989 LAL vs. DAL W 22 15 7 9 77.8 1 1 100.0 0 0 - 1 1 2 4 1 0 1 1 -
+p746
+aVVlade Divac LAL 11/10/1989 LAL vs. CHH W 20 2 1 4 25.0 0 0 - 0 0 - 2 7 9 1 2 4 1 3 -
+p747
+aVByron Scott LAL 11/10/1989 LAL vs. CHH W 36 33 11 15 73.3 1 1 100.0 10 12 83.3 3 3 6 4 0 2 4 3 -
+p748
+aVMychal Thompson LAL 11/10/1989 LAL vs. CHH W 24 6 3 8 37.5 0 0 - 0 0 - 2 4 6 0 0 1 1 5 -
+p749
+aVA.C. Green LAL 11/10/1989 LAL vs. CHH W 35 9 3 6 50.0 0 0 - 3 5 60.0 1 5 6 2 1 2 1 1 -
+p750
+aVLarry Drew LAL 11/10/1989 LAL vs. CHH W 15 6 3 5 60.0 0 1 0.0 0 0 - 0 1 1 4 1 0 1 0 -
+p751
+aVMagic Johnson LAL 11/10/1989 LAL vs. CHH W 39 31 13 19 68.4 2 5 40.0 3 3 100.0 0 8 8 9 4 1 9 3 -
+p752
+aVJames Worthy LAL 11/10/1989 LAL vs. CHH W 44 15 5 10 50.0 0 0 - 5 8 62.5 0 4 4 5 1 1 5 2 -
+p753
+aVMichael Cooper LAL 11/10/1989 LAL vs. CHH W 27 4 2 9 22.2 0 2 0.0 0 0 - 0 3 3 5 0 0 0 2 -
+p754
+aVMichael Cooper LAL 11/09/1989 LAL @ GOS W 32 11 3 8 37.5 1 3 33.3 4 4 100.0 4 4 8 2 3 3 2 4 -
+p755
+aVMagic Johnson LAL 11/09/1989 LAL @ GOS W 39 19 7 20 35.0 0 4 0.0 5 6 83.3 3 7 10 10 1 0 3 1 -
+p756
+aVSteve Bucknall LAL 11/09/1989 LAL @ GOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p757
+aVJames Worthy LAL 11/09/1989 LAL @ GOS W 34 13 5 18 27.8 0 1 0.0 3 4 75.0 7 4 11 1 1 0 5 3 -
+p758
+aVByron Scott LAL 11/09/1989 LAL @ GOS W 40 15 5 19 26.3 0 2 0.0 5 5 100.0 2 7 9 6 1 0 2 3 -
+p759
+aVA.C. Green LAL 11/09/1989 LAL @ GOS W 38 24 7 14 50.0 0 1 0.0 10 11 90.9 7 9 16 0 0 1 3 5 -
+p760
+aVMychal Thompson LAL 11/09/1989 LAL @ GOS W 30 13 4 8 50.0 0 0 - 5 5 100.0 4 6 10 1 1 1 2 2 -
+p761
+aVVlade Divac LAL 11/09/1989 LAL @ GOS W 8 11 4 5 80.0 0 0 - 3 3 100.0 1 3 4 0 0 0 1 5 -
+p762
+aVMel McCants LAL 11/09/1989 LAL @ GOS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p763
+aVLarry Drew LAL 11/09/1989 LAL @ GOS W 17 0 0 5 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 5 -
+p764
+aVLarry Drew LAL 11/07/1989 LAL vs. PHX W 31 8 3 6 50.0 0 0 - 2 2 100.0 0 3 3 4 1 0 4 3 -
+p765
+aVMagic Johnson LAL 11/07/1989 LAL vs. PHX W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -
+p766
+aVVlade Divac LAL 11/07/1989 LAL vs. PHX W 13 11 4 8 50.0 0 0 - 3 4 75.0 3 3 6 1 0 0 2 3 -
+p767
+aVSteve Bucknall LAL 11/07/1989 LAL vs. PHX W 8 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 1 2 -
+p768
+aVMichael Cooper LAL 11/07/1989 LAL vs. PHX W 32 16 6 11 54.5 4 5 80.0 0 0 - 0 3 3 8 2 0 3 2 -
+p769
+aVMychal Thompson LAL 11/07/1989 LAL vs. PHX W 33 7 3 8 37.5 0 0 - 1 2 50.0 4 3 7 1 1 2 2 2 -
+p770
+aVJames Worthy LAL 11/07/1989 LAL vs. PHX W 41 35 16 26 61.5 0 0 - 3 7 42.9 2 7 9 6 4 1 4 2 -
+p771
+aVA.C. Green LAL 11/07/1989 LAL vs. PHX W 36 14 4 15 26.7 1 1 100.0 5 7 71.4 3 6 9 1 3 3 3 3 -
+p772
+aVByron Scott LAL 11/07/1989 LAL vs. PHX W 43 20 9 20 45.0 0 4 0.0 2 3 66.7 1 9 10 5 0 1 2 0 -
+p773
+aVA.C. Green LAL 11/04/1989 LAL @ SAN L 31 10 3 8 37.5 0 1 0.0 4 5 80.0 4 3 7 1 0 0 2 3 -
+p774
+aVByron Scott LAL 11/04/1989 LAL @ SAN L 41 24 8 18 44.4 3 5 60.0 5 8 62.5 1 1 2 4 0 1 1 4 -
+p775
+aVMark McNamara LAL 11/04/1989 LAL @ SAN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -
+p776
+aVJames Worthy LAL 11/04/1989 LAL @ SAN L 40 25 9 19 47.4 0 0 - 7 10 70.0 1 6 7 1 1 4 1 5 -
+p777
+aVMagic Johnson LAL 11/04/1989 LAL @ SAN L 40 24 8 17 47.1 2 6 33.3 6 6 100.0 4 6 10 9 4 0 8 5 -
+p778
+aVVlade Divac LAL 11/04/1989 LAL @ SAN L 13 0 0 3 0.0 0 0 - 0 0 - 1 3 4 0 4 1 2 3 -
+p779
+aVLarry Drew LAL 11/04/1989 LAL @ SAN L 17 2 1 5 20.0 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -
+p780
+aVMychal Thompson LAL 11/04/1989 LAL @ SAN L 26 6 2 6 33.3 0 0 - 2 4 50.0 2 1 3 0 1 2 0 3 -
+p781
+aVMichael Cooper LAL 11/04/1989 LAL @ SAN L 31 7 2 10 20.0 1 5 20.0 2 2 100.0 0 5 5 2 2 0 0 4 -
+p782
+aVJames Worthy LAL 11/03/1989 LAL @ DAL W 39 22 9 21 42.9 0 2 0.0 4 7 57.1 3 6 9 5 0 2 1 4 -
+p783
+aVMagic Johnson LAL 11/03/1989 LAL @ DAL W 43 20 7 14 50.0 1 4 25.0 5 5 100.0 3 6 9 12 1 1 4 4 -
+p784
+aVVlade Divac LAL 11/03/1989 LAL @ DAL W 15 2 1 2 50.0 0 0 - 0 0 - 2 6 8 0 0 3 3 2 -
+p785
+aVLarry Drew LAL 11/03/1989 LAL @ DAL W 16 8 3 8 37.5 0 1 0.0 2 2 100.0 0 0 0 1 2 0 4 1 -
+p786
+aVMychal Thompson LAL 11/03/1989 LAL @ DAL W 35 18 9 16 56.3 0 0 - 0 1 0.0 1 3 4 0 3 2 0 3 -
+p787
+aVByron Scott LAL 11/03/1989 LAL @ DAL W 34 11 5 11 45.5 0 1 0.0 1 3 33.3 0 4 4 5 0 0 2 3 -
+p788
+aVA.C. Green LAL 11/03/1989 LAL @ DAL W 37 18 8 15 53.3 0 0 - 2 4 50.0 8 6 14 1 1 1 3 4 -
+p789
+aVMichael Cooper LAL 11/03/1989 LAL @ DAL W 21 3 1 5 20.0 1 2 50.0 0 0 - 2 0 2 2 2 1 2 0 -
+p790
+a.

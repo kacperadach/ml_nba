@@ -1,0 +1,1610 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVMahmoud Abdul-Rauf VAN 04/18/2001 VAN @ GSW W 21 14 7 12 58.3 0 0 - 0 0 - 0 0 0 2 1 0 1 1 4
+p2
+aVShareef Abdur-Rahim VAN 04/18/2001 VAN @ GSW W 44 26 10 24 41.7 0 0 - 6 8 75.0 7 15 22 4 3 3 1 0 10
+p3
+aVDamon Jones VAN 04/18/2001 VAN @ GSW W 38 20 6 11 54.5 3 5 60.0 5 5 100.0 2 2 4 2 1 0 2 1 11
+p4
+aVKevin Edwards VAN 04/18/2001 VAN @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p5
+aVTony Massenburg VAN 04/18/2001 VAN @ GSW W 20 8 4 11 36.4 0 0 - 0 0 - 6 2 8 0 1 0 1 3 8
+p6
+aVBryant Reeves VAN 04/18/2001 VAN @ GSW W 27 3 1 7 14.3 0 0 - 1 2 50.0 3 5 8 0 0 3 0 6 -1
+p7
+aVMike Bibby VAN 04/18/2001 VAN @ GSW W 42 13 6 19 31.6 1 4 25.0 0 0 - 3 0 3 8 1 1 5 2 13
+p8
+aVGrant Long VAN 04/18/2001 VAN @ GSW W 26 6 2 6 33.3 0 0 - 2 2 100.0 6 5 11 2 1 0 0 6 16
+p9
+aVStromile Swift VAN 04/18/2001 VAN @ GSW W 21 5 1 2 50.0 0 0 - 3 4 75.0 0 2 2 0 1 3 3 1 9
+p10
+aVStromile Swift VAN 04/16/2001 VAN @ SAC L 25 4 2 6 33.3 0 0 - 0 2 0.0 2 2 4 1 2 2 1 4 -1
+p11
+aVMike Bibby VAN 04/16/2001 VAN @ SAC L 43 15 7 17 41.2 1 3 33.3 0 0 - 1 4 5 9 2 0 3 3 -13
+p12
+aVShareef Abdur-Rahim VAN 04/16/2001 VAN @ SAC L 42 18 7 17 41.2 1 1 100.0 3 5 60.0 1 4 5 2 2 0 3 2 -16
+p13
+aVDamon Jones VAN 04/16/2001 VAN @ SAC L 38 25 8 18 44.4 5 11 45.5 4 4 100.0 0 4 4 5 1 0 2 0 -7
+p14
+aVTony Massenburg VAN 04/16/2001 VAN @ SAC L 27 11 2 3 66.7 0 0 - 7 10 70.0 3 2 5 0 1 1 1 5 -9
+p15
+aVIke Austin VAN 04/16/2001 VAN @ SAC L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 0 -3
+p16
+aVMahmoud Abdul-Rauf VAN 04/16/2001 VAN @ SAC L 17 10 5 10 50.0 0 1 0.0 0 0 - 0 2 2 2 0 0 1 2 5
+p17
+aVGrant Long VAN 04/16/2001 VAN @ SAC L 22 5 1 4 25.0 0 0 - 3 4 75.0 1 7 8 1 0 0 1 0 6
+p18
+aVBryant Reeves VAN 04/16/2001 VAN @ SAC L 23 12 5 9 55.6 0 0 - 2 2 100.0 1 5 6 3 1 1 3 5 -12
+p19
+aVMike Bibby VAN 04/14/2001 VAN vs. HOU L 44 8 4 18 22.2 0 3 0.0 0 0 - 0 2 2 18 2 1 1 2 0
+p20
+aVTony Massenburg VAN 04/14/2001 VAN vs. HOU L 22 11 5 8 62.5 0 0 - 1 2 50.0 5 1 6 0 0 1 0 1 15
+p21
+aVDamon Jones VAN 04/14/2001 VAN vs. HOU L 21 7 2 6 33.3 2 4 50.0 1 2 50.0 0 2 2 0 2 0 0 1 -19
+p22
+aVStromile Swift VAN 04/14/2001 VAN vs. HOU L 27 5 2 3 66.7 0 0 - 1 2 50.0 4 5 9 0 1 2 2 3 6
+p23
+aVKevin Edwards VAN 04/14/2001 VAN vs. HOU L 10 2 1 5 20.0 0 1 0.0 0 0 - 3 2 5 0 0 0 0 0 7
+p24
+aVShareef Abdur-Rahim VAN 04/14/2001 VAN vs. HOU L 48 24 11 25 44.0 0 1 0.0 2 4 50.0 2 6 8 5 1 2 0 2 -5
+p25
+aVGrant Long VAN 04/14/2001 VAN vs. HOU L 20 7 3 6 50.0 0 1 0.0 1 2 50.0 2 1 3 1 1 0 2 3 -13
+p26
+aVMahmoud Abdul-Rauf VAN 04/14/2001 VAN vs. HOU L 23 25 12 19 63.2 0 1 0.0 1 2 50.0 0 0 0 3 1 0 2 4 5
+p27
+aVBryant Reeves VAN 04/14/2001 VAN vs. HOU L 25 6 3 10 30.0 0 0 - 0 0 - 7 5 12 0 1 0 1 2 -21
+p28
+aVBryant Reeves VAN 04/12/2001 VAN vs. POR L 31 16 6 14 42.9 0 0 - 4 4 100.0 1 2 3 1 1 0 1 1 -16
+p29
+aVGrant Long VAN 04/12/2001 VAN vs. POR L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 2 0 0 0 0 -6
+p30
+aVKevin Edwards VAN 04/12/2001 VAN vs. POR L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 1
+p31
+aVMahmoud Abdul-Rauf VAN 04/12/2001 VAN vs. POR L 16 6 3 9 33.3 0 0 - 0 0 - 0 0 0 4 1 0 1 3 -14
+p32
+aVMike Bibby VAN 04/12/2001 VAN vs. POR L 42 24 11 18 61.1 2 4 50.0 0 0 - 0 5 5 8 1 2 3 1 -7
+p33
+aVTony Massenburg VAN 04/12/2001 VAN vs. POR L 23 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -12
+p34
+aVStromile Swift VAN 04/12/2001 VAN vs. POR L 25 10 5 8 62.5 0 0 - 0 2 0.0 1 4 5 0 0 1 2 3 -8
+p35
+aVShareef Abdur-Rahim VAN 04/12/2001 VAN vs. POR L 40 14 6 15 40.0 0 2 0.0 2 3 66.7 2 10 12 6 1 0 2 3 3
+p36
+aVDamon Jones VAN 04/12/2001 VAN vs. POR L 42 15 7 9 77.8 1 2 50.0 0 0 - 0 3 3 6 1 1 0 1 -6
+p37
+aVKevin Edwards VAN 04/10/2001 VAN vs. MIN L 16 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 2 1 0 2 0 23
+p38
+aVBryant Reeves VAN 04/10/2001 VAN vs. MIN L 26 6 3 11 27.3 0 0 - 0 0 - 1 4 5 1 1 1 0 2 -7
+p39
+aVTony Massenburg VAN 04/10/2001 VAN vs. MIN L 17 2 1 5 20.0 0 0 - 0 2 0.0 2 1 3 0 0 0 0 3 -21
+p40
+aVShareef Abdur-Rahim VAN 04/10/2001 VAN vs. MIN L 28 11 5 13 38.5 0 0 - 1 1 100.0 3 1 4 2 1 0 4 3 -35
+p41
+aVGrant Long VAN 04/10/2001 VAN vs. MIN L 17 6 2 5 40.0 0 1 0.0 2 4 50.0 0 5 5 1 1 0 0 1 -6
+p42
+aVStromile Swift VAN 04/10/2001 VAN vs. MIN L 32 8 3 5 60.0 0 0 - 2 3 66.7 3 4 7 0 0 0 1 3 13
+p43
+aVMike Bibby VAN 04/10/2001 VAN vs. MIN L 27 12 5 12 41.7 1 3 33.3 1 2 50.0 0 3 3 6 1 0 0 1 -32
+p44
+aVMahmoud Abdul-Rauf VAN 04/10/2001 VAN vs. MIN L 9 8 4 7 57.1 0 1 0.0 0 0 - 0 1 1 1 2 0 0 1 10
+p45
+aVMichael Dickerson VAN 04/10/2001 VAN vs. MIN L 34 19 7 13 53.8 1 2 50.0 4 4 100.0 1 1 2 2 1 0 3 2 -18
+p46
+aVDamon Jones VAN 04/10/2001 VAN vs. MIN L 35 14 6 11 54.5 2 5 40.0 0 0 - 1 3 4 13 3 0 2 1 8
+p47
+aVDamon Jones VAN 04/07/2001 VAN @ DEN L 4 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 0 0 -2
+p48
+aVShareef Abdur-Rahim VAN 04/07/2001 VAN @ DEN L 44 32 9 20 45.0 1 1 100.0 13 14 92.9 2 6 8 6 1 0 5 3 -3
+p49
+aVKevin Edwards VAN 04/07/2001 VAN @ DEN L 7 3 1 3 33.3 0 0 - 1 2 50.0 1 0 1 0 0 0 0 1 4
+p50
+aVBryant Reeves VAN 04/07/2001 VAN @ DEN L 36 15 7 14 50.0 0 0 - 1 1 100.0 3 9 12 0 0 1 0 3 2
+p51
+aVStromile Swift VAN 04/07/2001 VAN @ DEN L 16 0 0 5 0.0 0 0 - 0 0 - 2 2 4 0 1 1 1 1 -1
+p52
+aVIke Austin VAN 04/07/2001 VAN @ DEN L 12 0 0 4 0.0 0 1 0.0 0 0 - 1 4 5 1 0 1 0 2 -3
+p53
+aVMike Bibby VAN 04/07/2001 VAN @ DEN L 44 17 8 13 61.5 1 3 33.3 0 2 0.0 3 5 8 18 2 0 4 1 1
+p54
+aVGrant Long VAN 04/07/2001 VAN @ DEN L 17 6 3 5 60.0 0 0 - 0 0 - 1 1 2 0 0 0 0 2 -2
+p55
+aVMichael Dickerson VAN 04/07/2001 VAN @ DEN L 42 19 7 17 41.2 3 3 100.0 2 3 66.7 0 6 6 3 2 0 2 5 -5
+p56
+aVTony Massenburg VAN 04/07/2001 VAN @ DEN L 18 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 0 2 0 2 4 4
+p57
+aVDamon Jones VAN 04/06/2001 VAN vs. SAC L 22 17 6 10 60.0 5 7 71.4 0 0 - 1 2 3 3 0 0 1 0 -12
+p58
+aVKevin Edwards VAN 04/06/2001 VAN vs. SAC L 18 8 4 7 57.1 0 0 - 0 0 - 1 1 2 3 1 0 0 0 -10
+p59
+aVTony Massenburg VAN 04/06/2001 VAN vs. SAC L 29 9 4 9 44.4 0 0 - 1 2 50.0 5 8 13 0 0 1 2 3 -20
+p60
+aVMike Bibby VAN 04/06/2001 VAN vs. SAC L 30 10 4 10 40.0 0 1 0.0 2 4 50.0 0 2 2 9 1 0 2 1 -19
+p61
+aVGrant Long VAN 04/06/2001 VAN vs. SAC L 20 7 3 5 60.0 0 0 - 1 1 100.0 0 0 0 2 0 0 0 2 -7
+p62
+aVIke Austin VAN 04/06/2001 VAN vs. SAC L 22 6 3 11 27.3 0 0 - 0 0 - 2 5 7 0 0 1 1 1 -6
+p63
+aVStromile Swift VAN 04/06/2001 VAN vs. SAC L 21 2 1 6 16.7 0 0 - 0 0 - 0 3 3 0 0 1 1 2 -8
+p64
+aVMichael Dickerson VAN 04/06/2001 VAN vs. SAC L 29 13 3 9 33.3 0 2 0.0 7 8 87.5 0 0 0 1 1 1 1 0 -23
+p65
+aVBryant Reeves VAN 04/06/2001 VAN vs. SAC L 21 6 3 11 27.3 0 0 - 0 0 - 3 4 7 0 0 2 1 4 -12
+p66
+aVShareef Abdur-Rahim VAN 04/06/2001 VAN vs. SAC L 28 12 5 13 38.5 0 0 - 2 2 100.0 1 3 4 3 0 1 1 3 -23
+p67
+aVDamon Jones VAN 04/04/2001 VAN vs. LAC W 9 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 1 0 0 2 0 -9
+p68
+aVMichael Dickerson VAN 04/04/2001 VAN vs. LAC W 36 15 7 15 46.7 0 2 0.0 1 2 50.0 0 2 2 0 0 0 2 4 22
+p69
+aVGrant Long VAN 04/04/2001 VAN vs. LAC W 6 2 0 0 - 0 0 - 2 2 100.0 0 1 1 0 1 0 2 2 0
+p70
+aVKevin Edwards VAN 04/04/2001 VAN vs. LAC W 12 2 1 2 50.0 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -13
+p71
+aVBryant Reeves VAN 04/04/2001 VAN vs. LAC W 26 8 4 8 50.0 0 0 - 0 0 - 1 7 8 2 0 0 2 5 21
+p72
+aVStromile Swift VAN 04/04/2001 VAN vs. LAC W 13 3 1 3 33.3 0 0 - 1 2 50.0 0 5 5 1 0 0 0 1 -9
+p73
+aVShareef Abdur-Rahim VAN 04/04/2001 VAN vs. LAC W 45 24 7 15 46.7 0 0 - 10 10 100.0 1 5 6 4 0 1 2 3 6
+p74
+aVTony Massenburg VAN 04/04/2001 VAN vs. LAC W 32 14 5 9 55.6 0 0 - 4 5 80.0 4 7 11 0 1 1 2 2 19
+p75
+aVMike Bibby VAN 04/04/2001 VAN vs. LAC W 40 14 6 15 40.0 0 2 0.0 2 2 100.0 0 6 6 13 0 0 0 1 15
+p76
+aVIke Austin VAN 04/04/2001 VAN vs. LAC W 21 4 2 6 33.3 0 0 - 0 0 - 4 4 8 2 0 0 1 3 -12
+p77
+aVBryant Reeves VAN 04/01/2001 VAN vs. UTA L 27 6 2 8 25.0 0 0 - 2 3 66.7 1 4 5 0 1 2 2 3 -6
+p78
+aVStromile Swift VAN 04/01/2001 VAN vs. UTA L 18 6 3 4 75.0 0 0 - 0 2 0.0 1 2 3 1 1 2 2 2 -13
+p79
+aVMike Bibby VAN 04/01/2001 VAN vs. UTA L 38 13 6 11 54.5 1 2 50.0 0 0 - 0 2 2 9 1 0 1 1 -19
+p80
+aVMichael Dickerson VAN 04/01/2001 VAN vs. UTA L 35 14 6 15 40.0 2 5 40.0 0 0 - 0 2 2 4 1 0 2 3 -19
+p81
+aVMahmoud Abdul-Rauf VAN 04/01/2001 VAN vs. UTA L 8 5 2 3 66.7 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 -2
+p82
+aVTony Massenburg VAN 04/01/2001 VAN vs. UTA L 25 4 1 4 25.0 0 0 - 2 5 40.0 4 2 6 0 0 1 4 5 -1
+p83
+aVDamon Jones VAN 04/01/2001 VAN vs. UTA L 18 1 0 4 0.0 0 2 0.0 1 2 50.0 1 1 2 3 1 0 0 0 0
+p84
+aVIke Austin VAN 04/01/2001 VAN vs. UTA L 24 4 1 6 16.7 0 0 - 2 2 100.0 2 3 5 1 0 1 0 3 -14
+p85
+aVShareef Abdur-Rahim VAN 04/01/2001 VAN vs. UTA L 47 20 8 20 40.0 0 1 0.0 4 5 80.0 4 8 12 3 2 1 3 4 -21
+p86
+aVMike Bibby VAN 03/29/2001 VAN vs. NYK W 37 16 8 13 61.5 0 3 0.0 0 0 - 0 4 4 8 0 0 3 1 27
+p87
+aVShareef Abdur-Rahim VAN 03/29/2001 VAN vs. NYK W 43 30 12 18 66.7 0 2 0.0 6 6 100.0 3 4 7 4 1 0 1 1 25
+p88
+aVGrant Long VAN 03/29/2001 VAN vs. NYK W 5 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 1 0 -4
+p89
+aVDamon Jones VAN 03/29/2001 VAN vs. NYK W 18 6 2 5 40.0 2 4 50.0 0 0 - 0 1 1 1 0 0 0 1 -1
+p90
+aVStromile Swift VAN 03/29/2001 VAN vs. NYK W 22 6 1 4 25.0 0 0 - 4 6 66.7 0 4 4 0 0 2 0 1 -7
+p91
+aVMichael Dickerson VAN 03/29/2001 VAN vs. NYK W 41 15 5 16 31.3 1 6 16.7 4 4 100.0 0 4 4 7 1 1 0 2 16
+p92
+aVBryant Reeves VAN 03/29/2001 VAN vs. NYK W 36 14 7 14 50.0 0 1 0.0 0 0 - 0 10 10 1 0 2 0 5 34
+p93
+aVKevin Edwards VAN 03/29/2001 VAN vs. NYK W 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p94
+aVTony Massenburg VAN 03/29/2001 VAN vs. NYK W 36 2 1 5 20.0 0 0 - 0 0 - 0 10 10 1 0 1 2 4 18
+p95
+aVTony Massenburg VAN 03/25/2001 VAN @ TOR L 15 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -7
+p96
+aVMike Bibby VAN 03/25/2001 VAN @ TOR L 42 10 4 10 40.0 2 2 100.0 0 0 - 1 4 5 9 0 0 3 1 -10
+p97
+aVMichael Dickerson VAN 03/25/2001 VAN @ TOR L 42 22 7 14 50.0 4 6 66.7 4 4 100.0 1 3 4 1 0 0 3 3 -16
+p98
+aVBryant Reeves VAN 03/25/2001 VAN @ TOR L 30 8 4 10 40.0 0 1 0.0 0 0 - 2 7 9 2 1 0 2 4 -6
+p99
+aVDamon Jones VAN 03/25/2001 VAN @ TOR L 18 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 5 0 0 1 1 8
+p100
+aVStromile Swift VAN 03/25/2001 VAN @ TOR L 34 17 7 10 70.0 0 0 - 3 4 75.0 4 4 8 1 2 3 2 2 6
+p101
+aVGrant Long VAN 03/25/2001 VAN @ TOR L 14 0 0 6 0.0 0 0 - 0 0 - 0 1 1 3 1 1 1 0 -16
+p102
+aVShareef Abdur-Rahim VAN 03/25/2001 VAN @ TOR L 45 26 9 19 47.4 0 0 - 8 9 88.9 1 9 10 6 2 0 2 4 -9
+p103
+aVKevin Edwards VAN 03/23/2001 VAN @ IND L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p104
+aVStromile Swift VAN 03/23/2001 VAN @ IND L 35 8 2 9 22.2 0 0 - 4 6 66.7 4 7 11 1 2 4 1 3 -12
+p105
+aVMichael Dickerson VAN 03/23/2001 VAN @ IND L 38 18 7 14 50.0 3 3 100.0 1 2 50.0 2 0 2 2 3 1 2 3 -20
+p106
+aVMike Bibby VAN 03/23/2001 VAN @ IND L 31 7 3 12 25.0 1 7 14.3 0 0 - 1 2 3 6 0 0 7 0 -27
+p107
+aVTony Massenburg VAN 03/23/2001 VAN @ IND L 17 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 2 1 3 -21
+p108
+aVBryant Reeves VAN 03/23/2001 VAN @ IND L 9 0 0 0 - 0 0 - 0 0 - 3 1 4 0 0 0 1 0 -9
+p109
+aVDamon Jones VAN 03/23/2001 VAN @ IND L 24 7 3 9 33.3 1 5 20.0 0 0 - 0 1 1 2 1 0 2 1 5
+p110
+aVGrant Long VAN 03/23/2001 VAN @ IND L 21 5 1 3 33.3 0 0 - 3 6 50.0 1 6 7 2 1 0 1 4 7
+p111
+aVErick Strickland VAN 03/23/2001 VAN @ IND L 28 7 1 9 11.1 1 4 25.0 4 6 66.7 1 4 5 5 4 0 2 0 1
+p112
+aVShareef Abdur-Rahim VAN 03/23/2001 VAN @ IND L 37 21 6 18 33.3 0 0 - 9 11 81.8 1 4 5 1 0 1 1 3 -27
+p113
+aVGrant Long VAN 03/22/2001 VAN @ CLE L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -10
+p114
+aVErick Strickland VAN 03/22/2001 VAN @ CLE L 12 4 1 2 50.0 1 1 100.0 1 2 50.0 0 2 2 1 1 0 2 2 -1
+p115
+aVDamon Jones VAN 03/22/2001 VAN @ CLE L 16 3 1 3 33.3 1 1 100.0 0 0 - 0 1 1 3 0 0 0 0 7
+p116
+aVBryant Reeves VAN 03/22/2001 VAN @ CLE L 22 9 4 7 57.1 0 0 - 1 2 50.0 1 2 3 4 0 0 0 5 -3
+p117
+aVTony Massenburg VAN 03/22/2001 VAN @ CLE L 23 6 2 4 50.0 0 0 - 2 2 100.0 3 5 8 0 0 2 4 2 -17
+p118
+aVKevin Edwards VAN 03/22/2001 VAN @ CLE L 18 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p119
+aVMike Bibby VAN 03/22/2001 VAN @ CLE L 37 19 7 15 46.7 2 4 50.0 3 5 60.0 0 1 1 5 2 0 1 2 -19
+p120
+aVShareef Abdur-Rahim VAN 03/22/2001 VAN @ CLE L 35 18 7 13 53.8 0 0 - 4 4 100.0 3 0 3 2 0 0 5 3 -11
+p121
+aVMichael Dickerson VAN 03/22/2001 VAN @ CLE L 39 19 3 11 27.3 2 4 50.0 11 12 91.7 1 4 5 3 1 0 1 2 -12
+p122
+aVStromile Swift VAN 03/22/2001 VAN @ CLE L 34 15 5 10 50.0 0 0 - 5 6 83.3 2 9 11 3 4 1 1 5 -3
+p123
+aVKevin Edwards VAN 03/20/2001 VAN @ NJN L 7 4 1 2 50.0 0 0 - 2 2 100.0 0 1 1 1 0 0 0 1 4
+p124
+aVErick Strickland VAN 03/20/2001 VAN @ NJN L 25 11 3 9 33.3 1 4 25.0 4 4 100.0 1 3 4 0 2 0 0 1 -1
+p125
+aVTony Massenburg VAN 03/20/2001 VAN @ NJN L 13 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 2 1 2 -14
+p126
+aVDamon Jones VAN 03/20/2001 VAN @ NJN L 12 0 0 5 0.0 0 3 0.0 0 0 - 0 0 0 4 0 0 1 0 -2
+p127
+aVShareef Abdur-Rahim VAN 03/20/2001 VAN @ NJN L 40 19 6 17 35.3 0 1 0.0 7 8 87.5 2 4 6 3 2 1 3 3 -19
+p128
+aVBryant Reeves VAN 03/20/2001 VAN @ NJN L 23 6 2 6 33.3 0 0 - 2 2 100.0 2 1 3 0 0 2 2 4 -3
+p129
+aVStromile Swift VAN 03/20/2001 VAN @ NJN L 18 6 2 2 100.0 0 0 - 2 2 100.0 3 2 5 0 2 1 0 2 6
+p130
+aVMike Bibby VAN 03/20/2001 VAN @ NJN L 41 23 8 19 42.1 3 6 50.0 4 4 100.0 1 3 4 4 0 0 3 1 -18
+p131
+aVGrant Long VAN 03/20/2001 VAN @ NJN L 23 4 1 3 33.3 0 0 - 2 2 100.0 0 2 2 1 1 0 1 1 -13
+p132
+aVMichael Dickerson VAN 03/20/2001 VAN @ NJN L 39 17 6 17 35.3 0 4 0.0 5 5 100.0 2 0 2 3 0 0 1 4 -10
+p133
+aVTony Massenburg VAN 03/17/2001 VAN @ MIA L 17 6 3 7 42.9 0 0 - 0 0 - 3 1 4 0 0 0 2 4 -15
+p134
+aVStromile Swift VAN 03/17/2001 VAN @ MIA L 20 0 0 5 0.0 0 0 - 0 2 0.0 2 1 3 0 1 1 0 2 10
+p135
+aVMahmoud Abdul-Rauf VAN 03/17/2001 VAN @ MIA L 18 12 5 12 41.7 2 2 100.0 0 0 - 0 3 3 2 0 0 0 1 7
+p136
+aVGrant Long VAN 03/17/2001 VAN @ MIA L 13 2 1 4 25.0 0 1 0.0 0 0 - 0 0 0 2 1 0 0 2 -13
+p137
+aVBryant Reeves VAN 03/17/2001 VAN @ MIA L 31 12 6 10 60.0 0 0 - 0 2 0.0 3 4 7 0 1 0 2 5 1
+p138
+aVShareef Abdur-Rahim VAN 03/17/2001 VAN @ MIA L 36 20 7 11 63.6 0 1 0.0 6 6 100.0 1 7 8 2 0 0 4 5 -11
+p139
+aVDamon Jones VAN 03/17/2001 VAN @ MIA L 34 8 2 5 40.0 1 2 50.0 3 4 75.0 0 3 3 7 0 0 2 0 -7
+p140
+aVMike Bibby VAN 03/17/2001 VAN @ MIA L 35 5 2 11 18.2 1 4 25.0 0 0 - 3 0 3 2 1 0 4 2 -21
+p141
+aVMichael Dickerson VAN 03/17/2001 VAN @ MIA L 35 16 6 12 50.0 2 3 66.7 2 4 50.0 2 2 4 2 3 0 2 1 -21
+p142
+aVKevin Edwards VAN 03/16/2001 VAN @ ORL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 1 0 0 0
+p143
+aVDamon Jones VAN 03/16/2001 VAN @ ORL L 32 21 7 10 70.0 4 5 80.0 3 4 75.0 0 1 1 4 2 0 0 0 2
+p144
+aVTony Massenburg VAN 03/16/2001 VAN @ ORL L 17 6 2 6 33.3 0 0 - 2 2 100.0 1 4 5 1 0 0 1 5 -19
+p145
+aVMahmoud Abdul-Rauf VAN 03/16/2001 VAN @ ORL L 15 7 3 7 42.9 0 1 0.0 1 2 50.0 0 3 3 3 0 0 0 1 16
+p146
+aVStromile Swift VAN 03/16/2001 VAN @ ORL L 19 7 3 4 75.0 0 0 - 1 2 50.0 1 5 6 3 0 3 1 3 14
+p147
+aVBryant Reeves VAN 03/16/2001 VAN @ ORL L 24 5 2 4 50.0 0 0 - 1 2 50.0 0 5 5 3 1 1 2 4 19
+p148
+aVShareef Abdur-Rahim VAN 03/16/2001 VAN @ ORL L 41 17 5 15 33.3 0 0 - 7 8 87.5 2 4 6 3 1 2 2 5 -14
+p149
+aVMichael Dickerson VAN 03/16/2001 VAN @ ORL L 33 8 2 9 22.2 2 4 50.0 2 2 100.0 0 3 3 3 0 1 1 4 -4
+p150
+aVMike Bibby VAN 03/16/2001 VAN @ ORL L 33 15 5 11 45.5 3 5 60.0 2 2 100.0 1 1 2 3 2 0 3 2 -20
+p151
+aVGrant Long VAN 03/16/2001 VAN @ ORL L 27 13 4 9 44.4 0 0 - 5 6 83.3 2 4 6 2 0 0 0 1 -14
+p152
+aVBryant Reeves VAN 03/14/2001 VAN @ CHH L 20 4 2 3 66.7 0 0 - 0 0 - 2 2 4 0 0 0 4 4 -9
+p153
+aVKevin Edwards VAN 03/14/2001 VAN @ CHH L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p154
+aVGrant Long VAN 03/14/2001 VAN @ CHH L 25 4 0 1 0.0 0 0 - 4 4 100.0 0 3 3 1 1 0 0 5 5
+p155
+aVMichael Dickerson VAN 03/14/2001 VAN @ CHH L 43 20 7 16 43.8 0 0 - 6 7 85.7 3 5 8 10 2 0 5 5 -5
+p156
+aVShareef Abdur-Rahim VAN 03/14/2001 VAN @ CHH L 38 23 9 24 37.5 1 3 33.3 4 6 66.7 1 11 12 4 0 1 1 2 3
+p157
+aVTony Massenburg VAN 03/14/2001 VAN @ CHH L 28 6 3 5 60.0 0 0 - 0 0 - 1 4 5 0 0 0 0 2 -1
+p158
+aVStromile Swift VAN 03/14/2001 VAN @ CHH L 23 8 4 9 44.4 0 0 - 0 1 0.0 2 4 6 0 0 0 1 4 -10
+p159
+aVMahmoud Abdul-Rauf VAN 03/14/2001 VAN @ CHH L 10 4 2 4 50.0 0 0 - 0 0 - 0 0 0 2 0 0 1 1 -2
+p160
+aVErick Strickland VAN 03/14/2001 VAN @ CHH L 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p161
+aVMike Bibby VAN 03/14/2001 VAN @ CHH L 43 22 10 18 55.6 2 4 50.0 0 0 - 2 3 5 11 3 0 3 1 1
+p162
+aVStromile Swift VAN 03/13/2001 VAN @ ATL L 20 8 4 5 80.0 0 0 - 0 0 - 1 1 2 0 0 2 1 3 -3
+p163
+aVKevin Edwards VAN 03/13/2001 VAN @ ATL L 6 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -10
+p164
+aVMike Bibby VAN 03/13/2001 VAN @ ATL L 38 27 12 19 63.2 3 4 75.0 0 0 - 0 5 5 4 1 0 2 4 -3
+p165
+aVMichael Dickerson VAN 03/13/2001 VAN @ ATL L 33 11 5 13 38.5 0 4 0.0 1 1 100.0 0 0 0 4 1 0 3 3 1
+p166
+aVGrant Long VAN 03/13/2001 VAN @ ATL L 35 8 3 6 50.0 0 0 - 2 4 50.0 2 3 5 1 1 0 1 2 -6
+p167
+aVIke Austin VAN 03/13/2001 VAN @ ATL L 8 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 0 0 -1
+p168
+aVTony Massenburg VAN 03/13/2001 VAN @ ATL L 28 5 1 6 16.7 0 0 - 3 4 75.0 2 5 7 0 1 1 0 3 -10
+p169
+aVMahmoud Abdul-Rauf VAN 03/13/2001 VAN @ ATL L 20 14 7 10 70.0 0 1 0.0 0 0 - 1 0 1 6 0 0 2 3 -3
+p170
+aVShareef Abdur-Rahim VAN 03/13/2001 VAN @ ATL L 45 21 7 12 58.3 0 0 - 7 11 63.6 3 10 13 4 2 2 2 5 -11
+p171
+aVDamon Jones VAN 03/13/2001 VAN @ ATL L 6 3 1 3 33.3 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -4
+p172
+aVDamon Jones VAN 03/11/2001 VAN vs. TOR L 5 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 0 4
+p173
+aVStromile Swift VAN 03/11/2001 VAN vs. TOR L 29 9 2 9 22.2 0 1 0.0 5 6 83.3 2 3 5 2 1 2 2 3 -10
+p174
+aVMike Bibby VAN 03/11/2001 VAN vs. TOR L 36 16 8 13 61.5 0 2 0.0 0 0 - 0 3 3 5 0 0 0 0 -21
+p175
+aVTony Massenburg VAN 03/11/2001 VAN vs. TOR L 31 10 4 6 66.7 0 0 - 2 2 100.0 2 8 10 0 0 1 3 3 -5
+p176
+aVMichael Dickerson VAN 03/11/2001 VAN vs. TOR L 37 15 6 12 50.0 1 3 33.3 2 2 100.0 0 1 1 1 1 0 3 2 -14
+p177
+aVKevin Edwards VAN 03/11/2001 VAN vs. TOR L 26 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 0 1 1 0 2 -9
+p178
+aVShareef Abdur-Rahim VAN 03/11/2001 VAN vs. TOR L 39 17 5 15 33.3 0 0 - 7 8 87.5 2 5 7 4 0 1 3 1 -21
+p179
+aVErick Strickland VAN 03/11/2001 VAN vs. TOR L 9 4 2 3 66.7 0 0 - 0 0 - 0 1 1 2 0 0 1 0 -1
+p180
+aVMahmoud Abdul-Rauf VAN 03/11/2001 VAN vs. TOR L 19 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -2
+p181
+aVIke Austin VAN 03/11/2001 VAN vs. TOR L 10 4 2 4 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 3 -6
+p182
+aVTony Massenburg VAN 03/09/2001 VAN vs. POR W 25 13 6 6 100.0 0 0 - 1 1 100.0 2 5 7 0 0 2 1 2 5
+p183
+aVStromile Swift VAN 03/09/2001 VAN vs. POR W 26 13 6 9 66.7 0 1 0.0 1 4 25.0 4 3 7 0 2 1 0 4 7
+p184
+aVErick Strickland VAN 03/09/2001 VAN vs. POR W 15 4 2 7 28.6 0 2 0.0 0 0 - 1 2 3 3 0 0 1 2 -13
+p185
+aVMichael Dickerson VAN 03/09/2001 VAN vs. POR W 35 11 3 10 30.0 3 5 60.0 2 4 50.0 1 1 2 7 0 0 2 3 21
+p186
+aVIke Austin VAN 03/09/2001 VAN vs. POR W 21 8 4 7 57.1 0 0 - 0 1 0.0 0 6 6 0 0 0 1 0 4
+p187
+aVGrant Long VAN 03/09/2001 VAN vs. POR W 5 4 2 2 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 3
+p188
+aVShareef Abdur-Rahim VAN 03/09/2001 VAN vs. POR W 40 15 5 8 62.5 0 1 0.0 5 5 100.0 2 5 7 4 1 2 3 5 6
+p189
+aVKevin Edwards VAN 03/09/2001 VAN vs. POR W 26 7 1 6 16.7 0 0 - 5 6 83.3 2 1 3 3 2 2 1 3 7
+p190
+aVMahmoud Abdul-Rauf VAN 03/09/2001 VAN vs. POR W 14 8 3 6 50.0 0 0 - 2 4 50.0 0 2 2 2 1 0 0 1 -1
+p191
+aVMike Bibby VAN 03/09/2001 VAN vs. POR W 34 12 5 14 35.7 0 4 0.0 2 4 50.0 1 3 4 5 0 0 0 3 11
+p192
+aVTony Massenburg VAN 03/06/2001 VAN @ POR W 23 8 4 5 80.0 0 0 - 0 0 - 2 5 7 1 0 0 1 3 17
+p193
+aVMahmoud Abdul-Rauf VAN 03/06/2001 VAN @ POR W 14 3 1 4 25.0 0 1 0.0 1 2 50.0 0 2 2 3 0 0 1 0 -7
+p194
+aVMike Bibby VAN 03/06/2001 VAN @ POR W 35 14 5 11 45.5 1 4 25.0 3 6 50.0 1 0 1 10 1 0 4 0 17
+p195
+aVShareef Abdur-Rahim VAN 03/06/2001 VAN @ POR W 46 26 9 15 60.0 0 1 0.0 8 8 100.0 2 6 8 0 0 1 2 3 6
+p196
+aVStromile Swift VAN 03/06/2001 VAN @ POR W 15 12 4 6 66.7 0 0 - 4 4 100.0 0 1 1 0 1 1 1 4 1
+p197
+aVGrant Long VAN 03/06/2001 VAN @ POR W 24 8 2 5 40.0 0 0 - 4 4 100.0 0 6 6 1 1 0 1 4 11
+p198
+aVMichael Dickerson VAN 03/06/2001 VAN @ POR W 43 20 8 12 66.7 0 0 - 4 6 66.7 0 3 3 4 1 0 2 4 14
+p199
+aVErick Strickland VAN 03/06/2001 VAN @ POR W 17 6 2 4 50.0 2 4 50.0 0 0 - 0 4 4 4 2 0 1 4 -8
+p200
+aVIke Austin VAN 03/06/2001 VAN @ POR W 25 8 4 8 50.0 0 0 - 0 0 - 1 3 4 4 0 0 1 1 -11
+p201
+aVErick Strickland VAN 03/05/2001 VAN vs. SAS L 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 1
+p202
+aVMike Bibby VAN 03/05/2001 VAN vs. SAS L 40 24 10 16 62.5 2 4 50.0 2 2 100.0 0 5 5 8 0 0 5 2 -10
+p203
+aVTony Massenburg VAN 03/05/2001 VAN vs. SAS L 10 2 1 1 100.0 0 0 - 0 0 - 1 2 3 0 2 1 1 3 1
+p204
+aVDamon Jones VAN 03/05/2001 VAN vs. SAS L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -10
+p205
+aVMichael Dickerson VAN 03/05/2001 VAN vs. SAS L 43 11 3 13 23.1 1 2 50.0 4 4 100.0 1 4 5 2 0 1 1 2 -7
+p206
+aVShareef Abdur-Rahim VAN 03/05/2001 VAN vs. SAS L 45 12 5 15 33.3 0 1 0.0 2 2 100.0 0 11 11 7 0 3 2 6 -18
+p207
+aVMahmoud Abdul-Rauf VAN 03/05/2001 VAN vs. SAS L 10 6 2 6 33.3 0 0 - 2 2 100.0 0 0 0 3 0 0 1 1 -3
+p208
+aVBryant Reeves VAN 03/05/2001 VAN vs. SAS L 38 12 6 12 50.0 0 1 0.0 0 2 0.0 2 8 10 0 1 3 1 4 -15
+p209
+aVStromile Swift VAN 03/05/2001 VAN vs. SAS L 19 6 3 7 42.9 0 0 - 0 0 - 3 4 7 0 2 3 2 2 -14
+p210
+aVGrant Long VAN 03/05/2001 VAN vs. SAS L 24 2 1 3 33.3 0 0 - 0 0 - 0 4 4 1 0 0 2 3 5
+p211
+aVErick Strickland VAN 03/03/2001 VAN vs. LAL L 26 13 3 8 37.5 0 2 0.0 7 7 100.0 0 3 3 4 1 0 1 4 3
+p212
+aVMichael Dickerson VAN 03/03/2001 VAN vs. LAL L 38 22 9 18 50.0 2 3 66.7 2 3 66.7 1 2 3 3 1 2 2 2 -14
+p213
+aVBryant Reeves VAN 03/03/2001 VAN vs. LAL L 33 11 5 12 41.7 0 0 - 1 1 100.0 4 7 11 0 1 0 1 5 -15
+p214
+aVShareef Abdur-Rahim VAN 03/03/2001 VAN vs. LAL L 38 10 5 15 33.3 0 0 - 0 0 - 3 8 11 5 2 3 1 2 -14
+p215
+aVMike Bibby VAN 03/03/2001 VAN vs. LAL L 36 6 3 16 18.8 0 4 0.0 0 0 - 0 3 3 8 0 0 1 1 -16
+p216
+aVTony Massenburg VAN 03/03/2001 VAN vs. LAL L 15 4 2 3 66.7 0 0 - 0 0 - 2 2 4 1 0 0 0 5 5
+p217
+aVMahmoud Abdul-Rauf VAN 03/03/2001 VAN vs. LAL L 15 12 6 12 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 7
+p218
+aVStromile Swift VAN 03/03/2001 VAN vs. LAL L 17 5 2 4 50.0 0 0 - 1 1 100.0 0 3 3 1 1 3 0 1 -3
+p219
+aVGrant Long VAN 03/03/2001 VAN vs. LAL L 22 5 1 4 25.0 1 1 100.0 2 2 100.0 0 3 3 0 2 0 1 0 -3
+p220
+aVShareef Abdur-Rahim VAN 02/28/2001 VAN @ UTA L 37 19 8 15 53.3 0 2 0.0 3 4 75.0 3 3 6 3 1 0 4 5 -17
+p221
+aVTony Massenburg VAN 02/28/2001 VAN @ UTA L 27 8 3 8 37.5 0 0 - 2 3 66.7 2 4 6 0 0 0 0 2 -10
+p222
+aVStromile Swift VAN 02/28/2001 VAN @ UTA L 18 2 1 7 14.3 0 0 - 0 0 - 2 0 2 0 2 0 1 1 -1
+p223
+aVMichael Dickerson VAN 02/28/2001 VAN @ UTA L 38 17 7 19 36.8 1 5 20.0 2 2 100.0 3 0 3 3 2 1 2 2 -11
+p224
+aVDamon Jones VAN 02/28/2001 VAN @ UTA L 12 2 0 2 0.0 0 1 0.0 2 2 100.0 0 2 2 4 0 0 2 1 -9
+p225
+aVMike Bibby VAN 02/28/2001 VAN @ UTA L 35 17 7 12 58.3 1 4 25.0 2 3 66.7 0 1 1 6 0 0 3 0 -9
+p226
+aVGrant Long VAN 02/28/2001 VAN @ UTA L 33 2 1 2 50.0 0 0 - 0 0 - 0 3 3 1 5 3 1 3 -22
+p227
+aVBryant Reeves VAN 02/28/2001 VAN @ UTA L 18 8 3 3 100.0 0 0 - 2 2 100.0 1 0 1 1 1 0 1 1 -6
+p228
+aVErick Strickland VAN 02/28/2001 VAN @ UTA L 6 0 0 1 0.0 0 0 - 0 0 - 1 0 1 2 1 0 0 1 3
+p229
+aVMahmoud Abdul-Rauf VAN 02/28/2001 VAN @ UTA L 15 8 4 7 57.1 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -8
+p230
+aVGrant Long VAN 02/27/2001 VAN vs. DAL L 34 2 1 3 33.3 0 0 - 0 0 - 1 6 7 4 0 0 1 4 -6
+p231
+aVMike Bibby VAN 02/27/2001 VAN vs. DAL L 38 26 11 18 61.1 4 9 44.4 0 0 - 2 1 3 9 0 0 8 5 -10
+p232
+aVDamon Jones VAN 02/27/2001 VAN vs. DAL L 12 4 1 2 50.0 1 2 50.0 1 2 50.0 0 3 3 3 0 0 1 1 8
+p233
+aVMahmoud Abdul-Rauf VAN 02/27/2001 VAN vs. DAL L 12 8 4 6 66.7 0 0 - 0 0 - 0 1 1 3 0 0 1 0 6
+p234
+aVBryant Reeves VAN 02/27/2001 VAN vs. DAL L 21 14 6 8 75.0 0 0 - 2 2 100.0 1 2 3 1 0 0 2 1 -16
+p235
+aVMichael Dickerson VAN 02/27/2001 VAN vs. DAL L 31 11 5 10 50.0 1 2 50.0 0 0 - 0 3 3 2 1 0 2 4 -17
+p236
+aVShareef Abdur-Rahim VAN 02/27/2001 VAN vs. DAL L 48 36 14 20 70.0 2 2 100.0 6 7 85.7 3 4 7 5 3 1 4 5 -4
+p237
+aVStromile Swift VAN 02/27/2001 VAN vs. DAL L 17 6 2 4 50.0 0 1 0.0 2 2 100.0 0 4 4 0 1 0 1 2 4
+p238
+aVErick Strickland VAN 02/27/2001 VAN vs. DAL L 19 3 1 8 12.5 0 3 0.0 1 2 50.0 1 1 2 4 1 0 2 1 7
+p239
+aVTony Massenburg VAN 02/27/2001 VAN vs. DAL L 8 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 8
+p240
+aVMichael Dickerson VAN 02/24/2001 VAN @ CHI L 45 10 5 11 45.5 0 1 0.0 0 0 - 1 5 6 5 0 1 3 2 -10
+p241
+aVMike Bibby VAN 02/24/2001 VAN @ CHI L 46 8 4 17 23.5 0 4 0.0 0 0 - 1 4 5 17 1 0 7 3 -15
+p242
+aVStromile Swift VAN 02/24/2001 VAN @ CHI L 8 0 0 3 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -7
+p243
+aVBryant Reeves VAN 02/24/2001 VAN @ CHI L 16 4 2 3 66.7 0 0 - 0 0 - 1 4 5 0 0 0 4 3 -5
+p244
+aVTony Massenburg VAN 02/24/2001 VAN @ CHI L 15 10 5 7 71.4 0 0 - 0 0 - 3 4 7 0 0 3 0 5 -9
+p245
+aVMahmoud Abdul-Rauf VAN 02/24/2001 VAN @ CHI L 5 0 0 3 0.0 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -2
+p246
+aVShareef Abdur-Rahim VAN 02/24/2001 VAN @ CHI L 43 14 6 16 37.5 0 1 0.0 2 2 100.0 2 2 4 1 1 3 3 3 -15
+p247
+aVErick Strickland VAN 02/24/2001 VAN @ CHI L 29 15 4 8 50.0 0 1 0.0 7 8 87.5 0 5 5 2 1 0 1 5 -5
+p248
+aVGrant Long VAN 02/24/2001 VAN @ CHI L 34 14 7 10 70.0 0 0 - 0 2 0.0 3 5 8 0 3 1 2 3 -7
+p249
+aVMike Bibby VAN 02/23/2001 VAN @ MIL L 45 28 11 15 73.3 4 4 100.0 2 3 66.7 0 5 5 7 2 0 6 0 -6
+p250
+aVGrant Long VAN 02/23/2001 VAN @ MIL L 26 5 1 6 16.7 0 0 - 3 4 75.0 0 2 2 3 2 0 0 2 -10
+p251
+aVMichael Dickerson VAN 02/23/2001 VAN @ MIL L 33 6 2 14 14.3 0 1 0.0 2 2 100.0 2 1 3 2 1 0 1 4 -1
+p252
+aVTony Massenburg VAN 02/23/2001 VAN @ MIL L 14 4 1 4 25.0 0 0 - 2 2 100.0 1 1 2 1 0 0 1 0 1
+p253
+aVStromile Swift VAN 02/23/2001 VAN @ MIL L 16 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 0 2 -8
+p254
+aVShareef Abdur-Rahim VAN 02/23/2001 VAN @ MIL L 45 22 7 19 36.8 0 1 0.0 8 8 100.0 2 11 13 2 2 1 5 3 -17
+p255
+aVErick Strickland VAN 02/23/2001 VAN @ MIL L 33 12 5 15 33.3 2 5 40.0 0 0 - 1 5 6 4 1 0 2 3 0
+p256
+aVBryant Reeves VAN 02/23/2001 VAN @ MIL L 28 4 1 5 20.0 0 0 - 2 2 100.0 3 6 9 2 0 0 2 2 -13
+p257
+aVDamon Jones VAN 02/23/2001 VAN @ MIL L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p258
+aVShareef Abdur-Rahim VAN 02/21/2001 VAN @ PHI L 41 27 8 13 61.5 0 0 - 11 13 84.6 2 6 8 1 1 1 1 1 -10
+p259
+aVTony Massenburg VAN 02/21/2001 VAN @ PHI L 12 8 2 2 100.0 0 0 - 4 4 100.0 0 1 1 0 0 0 1 2 0
+p260
+aVBryant Reeves VAN 02/21/2001 VAN @ PHI L 14 2 1 3 33.3 0 0 - 0 0 - 0 2 2 1 0 0 1 3 -4
+p261
+aVMike Bibby VAN 02/21/2001 VAN @ PHI L 41 14 3 12 25.0 1 5 20.0 7 8 87.5 1 2 3 6 2 0 5 0 -4
+p262
+aVMichael Dickerson VAN 02/21/2001 VAN @ PHI L 45 16 6 18 33.3 0 2 0.0 4 6 66.7 2 2 4 1 0 0 4 5 -26
+p263
+aVErick Strickland VAN 02/21/2001 VAN @ PHI L 23 7 1 8 12.5 1 4 25.0 4 4 100.0 1 7 8 6 1 1 3 2 1
+p264
+aVGrant Long VAN 02/21/2001 VAN @ PHI L 38 8 1 5 20.0 0 0 - 6 8 75.0 2 8 10 1 0 0 2 4 -15
+p265
+aVMahmoud Abdul-Rauf VAN 02/21/2001 VAN @ PHI L 7 1 0 3 0.0 0 0 - 1 1 100.0 0 0 0 1 0 0 2 3 -9
+p266
+aVStromile Swift VAN 02/21/2001 VAN @ PHI L 18 8 4 7 57.1 0 0 - 0 0 - 5 4 9 0 2 1 1 3 -13
+p267
+aVStromile Swift VAN 02/20/2001 VAN @ WAS W 17 5 1 4 25.0 0 0 - 3 5 60.0 1 1 2 0 1 1 1 3 6
+p268
+aVMike Bibby VAN 02/20/2001 VAN @ WAS W 40 10 4 12 33.3 2 2 100.0 0 0 - 0 4 4 13 0 0 3 3 8
+p269
+aVMichael Dickerson VAN 02/20/2001 VAN @ WAS W 29 23 9 13 69.2 3 4 75.0 2 5 40.0 1 2 3 2 0 0 3 4 4
+p270
+aVTony Massenburg VAN 02/20/2001 VAN @ WAS W 13 10 5 6 83.3 0 0 - 0 0 - 1 4 5 0 0 1 2 4 5
+p271
+aVBryant Reeves VAN 02/20/2001 VAN @ WAS W 32 8 4 8 50.0 0 0 - 0 0 - 3 4 7 2 1 0 2 0 9
+p272
+aVGrant Long VAN 02/20/2001 VAN @ WAS W 27 16 6 6 100.0 0 0 - 4 6 66.7 3 11 14 0 4 1 3 3 9
+p273
+aVShareef Abdur-Rahim VAN 02/20/2001 VAN @ WAS W 39 19 5 13 38.5 0 0 - 9 12 75.0 2 6 8 5 2 0 5 5 9
+p274
+aVErick Strickland VAN 02/20/2001 VAN @ WAS W 22 6 3 9 33.3 0 2 0.0 0 0 - 0 3 3 2 1 0 0 2 10
+p275
+aVMahmoud Abdul-Rauf VAN 02/20/2001 VAN @ WAS W 20 19 7 9 77.8 1 2 50.0 4 4 100.0 0 0 0 5 0 1 1 0 0
+p276
+aVBryant Reeves VAN 02/18/2001 VAN @ MIN W 19 6 3 8 37.5 0 0 - 0 0 - 0 5 5 1 1 1 2 2 0
+p277
+aVShareef Abdur-Rahim VAN 02/18/2001 VAN @ MIN W 34 20 8 12 66.7 0 0 - 4 5 80.0 5 10 15 4 0 0 0 3 6
+p278
+aVGrant Long VAN 02/18/2001 VAN @ MIN W 29 6 3 9 33.3 0 0 - 0 0 - 4 3 7 1 4 0 2 3 -7
+p279
+aVTony Massenburg VAN 02/18/2001 VAN @ MIN W 14 8 2 4 50.0 0 0 - 4 4 100.0 1 1 2 0 0 1 0 3 4
+p280
+aVMichael Dickerson VAN 02/18/2001 VAN @ MIN W 40 24 10 17 58.8 1 4 25.0 3 5 60.0 2 4 6 3 0 0 1 3 3
+p281
+aVMahmoud Abdul-Rauf VAN 02/18/2001 VAN @ MIN W 11 6 3 6 50.0 0 0 - 0 0 - 1 0 1 2 0 0 0 0 1
+p282
+aVStromile Swift VAN 02/18/2001 VAN @ MIN W 21 13 4 7 57.1 0 0 - 5 8 62.5 3 3 6 2 1 1 0 2 14
+p283
+aVMike Bibby VAN 02/18/2001 VAN @ MIN W 43 13 5 16 31.3 2 6 33.3 1 2 50.0 1 0 1 5 2 0 2 1 12
+p284
+aVErick Strickland VAN 02/18/2001 VAN @ MIN W 30 14 3 11 27.3 2 6 33.3 6 6 100.0 0 5 5 7 1 0 1 1 7
+p285
+aVMike Bibby VAN 02/16/2001 VAN @ GSW W 37 17 7 11 63.6 2 3 66.7 1 2 50.0 0 1 1 7 1 0 4 1 6
+p286
+aVMahmoud Abdul-Rauf VAN 02/16/2001 VAN @ GSW W 12 6 3 7 42.9 0 2 0.0 0 0 - 0 0 0 1 0 0 0 1 7
+p287
+aVErick Strickland VAN 02/16/2001 VAN @ GSW W 21 3 1 5 20.0 1 2 50.0 0 0 - 1 2 3 3 1 0 2 1 3
+p288
+aVMichael Dickerson VAN 02/16/2001 VAN @ GSW W 40 13 5 14 35.7 3 6 50.0 0 0 - 1 2 3 4 1 0 4 3 19
+p289
+aVStromile Swift VAN 02/16/2001 VAN @ GSW W 15 4 2 3 66.7 0 0 - 0 0 - 2 0 2 1 2 0 1 0 8
+p290
+aVBryant Reeves VAN 02/16/2001 VAN @ GSW W 29 9 4 7 57.1 0 0 - 1 1 100.0 1 5 6 2 0 0 1 6 8
+p291
+aVGrant Long VAN 02/16/2001 VAN @ GSW W 26 4 1 4 25.0 0 0 - 2 3 66.7 1 2 3 3 3 1 2 1 8
+p292
+aVShareef Abdur-Rahim VAN 02/16/2001 VAN @ GSW W 43 28 12 17 70.6 0 0 - 4 5 80.0 1 8 9 3 2 0 3 3 4
+p293
+aVTony Massenburg VAN 02/16/2001 VAN @ GSW W 18 8 3 5 60.0 0 0 - 2 3 66.7 0 3 3 0 1 0 0 4 2
+p294
+aVMichael Dickerson VAN 02/15/2001 VAN vs. GSW W 44 20 7 16 43.8 2 3 66.7 4 8 50.0 2 7 9 4 1 2 5 3 9
+p295
+aVTony Massenburg VAN 02/15/2001 VAN vs. GSW W 15 6 3 4 75.0 0 0 - 0 1 0.0 0 3 3 1 0 0 1 3 5
+p296
+aVMahmoud Abdul-Rauf VAN 02/15/2001 VAN vs. GSW W 10 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 2 0 0 0 0 0
+p297
+aVMike Bibby VAN 02/15/2001 VAN vs. GSW W 40 22 8 15 53.3 5 8 62.5 1 2 50.0 0 3 3 4 1 1 3 3 13
+p298
+aVGrant Long VAN 02/15/2001 VAN vs. GSW W 19 3 1 2 50.0 0 0 - 1 2 50.0 2 2 4 1 0 0 1 3 -10
+p299
+aVShareef Abdur-Rahim VAN 02/15/2001 VAN vs. GSW W 40 22 11 18 61.1 0 0 - 0 0 - 1 4 5 5 0 5 4 2 6
+p300
+aVStromile Swift VAN 02/15/2001 VAN vs. GSW W 14 0 0 2 0.0 0 0 - 0 0 - 0 3 3 0 0 1 0 1 8
+p301
+aVBryant Reeves VAN 02/15/2001 VAN vs. GSW W 31 12 4 6 66.7 0 0 - 4 4 100.0 0 9 9 3 1 0 2 4 7
+p302
+aVErick Strickland VAN 02/15/2001 VAN vs. GSW W 25 10 2 4 50.0 1 1 100.0 5 6 83.3 1 8 9 8 2 0 1 5 12
+p303
+aVMahmoud Abdul-Rauf VAN 02/13/2001 VAN vs. BOS W 5 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -5
+p304
+aVErick Strickland VAN 02/13/2001 VAN vs. BOS W 18 3 0 3 0.0 0 2 0.0 3 4 75.0 0 5 5 3 2 0 3 1 -3
+p305
+aVStromile Swift VAN 02/13/2001 VAN vs. BOS W 17 0 0 4 0.0 0 0 - 0 0 - 0 2 2 0 2 0 0 5 -10
+p306
+aVTony Massenburg VAN 02/13/2001 VAN vs. BOS W 12 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 2 -10
+p307
+aVShareef Abdur-Rahim VAN 02/13/2001 VAN vs. BOS W 43 18 6 15 40.0 1 2 50.0 5 6 83.3 3 6 9 3 0 0 5 3 6
+p308
+aVMike Bibby VAN 02/13/2001 VAN vs. BOS W 43 25 10 15 66.7 3 5 60.0 2 4 50.0 0 5 5 11 3 2 3 2 6
+p309
+aVBryant Reeves VAN 02/13/2001 VAN vs. BOS W 36 24 9 14 64.3 0 0 - 6 7 85.7 2 10 12 2 0 1 3 4 11
+p310
+aVGrant Long VAN 02/13/2001 VAN vs. BOS W 31 10 2 5 40.0 1 2 50.0 5 6 83.3 2 7 9 3 1 1 2 2 8
+p311
+aVMichael Dickerson VAN 02/13/2001 VAN vs. BOS W 36 17 7 16 43.8 1 7 14.3 2 4 50.0 0 5 5 1 1 1 3 4 2
+p312
+aVMike Bibby VAN 02/07/2001 VAN vs. UTA L 29 7 2 8 25.0 1 2 50.0 2 2 100.0 0 3 3 10 1 0 2 3 -11
+p313
+aVMichael Dickerson VAN 02/07/2001 VAN vs. UTA L 38 27 11 21 52.4 3 5 60.0 2 2 100.0 0 2 2 3 1 1 4 2 -7
+p314
+aVDamon Jones VAN 02/07/2001 VAN vs. UTA L 9 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 3
+p315
+aVIke Austin VAN 02/07/2001 VAN vs. UTA L 12 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 0 1 2 0 1 3
+p316
+aVErick Strickland VAN 02/07/2001 VAN vs. UTA L 13 5 2 7 28.6 1 2 50.0 0 0 - 0 1 1 1 0 0 2 3 0
+p317
+aVBryant Reeves VAN 02/07/2001 VAN vs. UTA L 27 6 2 4 50.0 0 0 - 2 2 100.0 1 6 7 0 0 0 3 4 -10
+p318
+aVStromile Swift VAN 02/07/2001 VAN vs. UTA L 31 8 3 4 75.0 0 0 - 2 2 100.0 2 5 7 1 1 3 1 2 -6
+p319
+aVTony Massenburg VAN 02/07/2001 VAN vs. UTA L 7 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 0 1 0 1 -1
+p320
+aVMahmoud Abdul-Rauf VAN 02/07/2001 VAN vs. UTA L 10 9 4 5 80.0 0 0 - 1 2 50.0 0 0 0 2 0 0 1 0 0
+p321
+aVShareef Abdur-Rahim VAN 02/07/2001 VAN vs. UTA L 44 20 5 17 29.4 0 2 0.0 10 15 66.7 3 3 6 3 2 0 3 3 -13
+p322
+aVGrant Long VAN 02/07/2001 VAN vs. UTA L 18 0 0 1 0.0 0 0 - 0 0 - 0 4 4 0 3 1 2 3 -8
+p323
+aVStromile Swift VAN 02/05/2001 VAN @ SEA L 24 4 2 5 40.0 0 0 - 0 0 - 1 4 5 1 2 2 1 1 0
+p324
+aVShareef Abdur-Rahim VAN 02/05/2001 VAN @ SEA L 35 21 8 16 50.0 0 1 0.0 5 5 100.0 3 9 12 2 3 0 5 2 -15
+p325
+aVDamon Jones VAN 02/05/2001 VAN @ SEA L 16 1 0 1 0.0 0 1 0.0 1 2 50.0 0 2 2 2 0 0 0 0 -7
+p326
+aVErick Strickland VAN 02/05/2001 VAN @ SEA L 13 6 2 6 33.3 0 1 0.0 2 2 100.0 0 4 4 2 0 0 0 0 2
+p327
+aVIke Austin VAN 02/05/2001 VAN @ SEA L 12 0 0 2 0.0 0 0 - 0 0 - 1 2 3 0 0 0 2 3 -3
+p328
+aVMahmoud Abdul-Rauf VAN 02/05/2001 VAN @ SEA L 5 2 0 0 - 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 6
+p329
+aVBryant Reeves VAN 02/05/2001 VAN @ SEA L 35 7 2 4 50.0 0 0 - 3 4 75.0 0 6 6 3 1 0 1 4 -6
+p330
+aVMike Bibby VAN 02/05/2001 VAN @ SEA L 38 23 9 15 60.0 3 8 37.5 2 2 100.0 1 1 2 7 2 0 4 4 -19
+p331
+aVMichael Dickerson VAN 02/05/2001 VAN @ SEA L 38 16 8 18 44.4 0 2 0.0 0 0 - 1 1 2 1 2 0 1 3 -10
+p332
+aVGrant Long VAN 02/05/2001 VAN @ SEA L 24 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 1 2 2 -13
+p333
+aVGrant Long VAN 02/03/2001 VAN vs. CHI W 45 12 4 12 33.3 0 0 - 4 8 50.0 2 4 6 4 0 0 0 2 12
+p334
+aVMahmoud Abdul-Rauf VAN 02/03/2001 VAN vs. CHI W 11 4 2 5 40.0 0 0 - 0 0 - 0 0 0 2 0 0 2 1 -7
+p335
+aVTony Massenburg VAN 02/03/2001 VAN vs. CHI W 19 8 4 6 66.7 0 0 - 0 0 - 2 4 6 0 0 0 2 3 6
+p336
+aVMike Bibby VAN 02/03/2001 VAN vs. CHI W 39 26 11 14 78.6 1 3 33.3 3 4 75.0 1 4 5 9 1 0 1 1 10
+p337
+aVMichael Dickerson VAN 02/03/2001 VAN vs. CHI W 33 11 4 15 26.7 1 2 50.0 2 2 100.0 0 1 1 2 0 0 1 1 3
+p338
+aVShareef Abdur-Rahim VAN 02/03/2001 VAN vs. CHI W 39 21 7 16 43.8 1 2 50.0 6 7 85.7 6 7 13 4 1 3 3 5 12
+p339
+aVDamon Jones VAN 02/03/2001 VAN vs. CHI W 21 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 2 0 0 0 3 4
+p340
+aVStromile Swift VAN 02/03/2001 VAN vs. CHI W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -5
+p341
+aVIke Austin VAN 02/03/2001 VAN vs. CHI W 29 6 3 5 60.0 0 0 - 0 0 - 1 9 10 3 2 0 3 2 0
+p342
+aVShareef Abdur-Rahim VAN 02/02/2001 VAN @ SAC L 42 27 9 20 45.0 0 0 - 9 11 81.8 3 6 9 0 1 0 2 5 -3
+p343
+aVMike Bibby VAN 02/02/2001 VAN @ SAC L 39 23 7 16 43.8 3 4 75.0 6 6 100.0 0 2 2 8 2 0 3 2 -6
+p344
+aVMichael Dickerson VAN 02/02/2001 VAN @ SAC L 33 9 3 11 27.3 0 2 0.0 3 4 75.0 1 2 3 2 3 0 1 3 -4
+p345
+aVStromile Swift VAN 02/02/2001 VAN @ SAC L 18 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 2 0 2 4 3
+p346
+aVTony Massenburg VAN 02/02/2001 VAN @ SAC L 16 0 0 3 0.0 0 0 - 0 0 - 4 4 8 0 0 0 1 1 -10
+p347
+aVDamon Jones VAN 02/02/2001 VAN @ SAC L 17 5 2 4 50.0 1 3 33.3 0 0 - 0 0 0 6 1 0 0 1 -8
+p348
+aVIke Austin VAN 02/02/2001 VAN @ SAC L 21 2 1 5 20.0 0 0 - 0 0 - 3 4 7 1 1 2 5 4 -9
+p349
+aVMahmoud Abdul-Rauf VAN 02/02/2001 VAN @ SAC L 15 14 7 10 70.0 0 0 - 0 0 - 0 0 0 4 1 0 1 2 13
+p350
+aVGrant Long VAN 02/02/2001 VAN @ SAC L 28 10 4 11 36.4 0 0 - 2 3 66.7 2 5 7 3 1 1 0 3 -16
+p351
+aVErick Strickland VAN 02/02/2001 VAN @ SAC L 13 3 1 7 14.3 1 2 50.0 0 0 - 0 1 1 2 0 0 0 1 -10
+p352
+aVIke Austin VAN 01/31/2001 VAN @ PHX L 19 11 5 12 41.7 1 1 100.0 0 0 - 2 1 3 1 0 0 1 0 -7
+p353
+aVStromile Swift VAN 01/31/2001 VAN @ PHX L 20 9 3 5 60.0 0 0 - 3 4 75.0 3 5 8 0 1 2 0 4 -13
+p354
+aVGrant Long VAN 01/31/2001 VAN @ PHX L 34 13 4 4 100.0 0 0 - 5 5 100.0 1 4 5 5 2 0 1 1 -2
+p355
+aVMichael Dickerson VAN 01/31/2001 VAN @ PHX L 42 6 2 13 15.4 0 0 - 2 2 100.0 1 2 3 7 0 0 3 1 -3
+p356
+aVMike Bibby VAN 01/31/2001 VAN @ PHX L 43 26 9 18 50.0 4 6 66.7 4 4 100.0 0 8 8 6 1 0 5 4 -7
+p357
+aVDamon Jones VAN 01/31/2001 VAN @ PHX L 12 2 1 2 50.0 0 1 0.0 0 0 - 1 2 3 3 1 0 4 2 -12
+p358
+aVShareef Abdur-Rahim VAN 01/31/2001 VAN @ PHX L 45 17 6 17 35.3 0 0 - 5 7 71.4 3 2 5 1 0 2 4 5 -4
+p359
+aVBryant Reeves VAN 01/31/2001 VAN @ PHX L 25 8 4 9 44.4 0 0 - 0 0 - 2 3 5 4 1 1 1 3 3
+p360
+aVMichael Dickerson VAN 01/29/2001 VAN vs. NJN W 37 24 7 16 43.8 0 2 0.0 10 12 83.3 0 1 1 3 0 1 3 3 -3
+p361
+aVDamon Jones VAN 01/29/2001 VAN vs. NJN W 23 15 6 11 54.5 3 7 42.9 0 0 - 0 2 2 4 2 0 0 1 25
+p362
+aVIke Austin VAN 01/29/2001 VAN vs. NJN W 10 0 0 1 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -4
+p363
+aVMike Bibby VAN 01/29/2001 VAN vs. NJN W 42 14 6 14 42.9 1 4 25.0 1 2 50.0 1 3 4 12 1 0 3 4 -5
+p364
+aVBryant Reeves VAN 01/29/2001 VAN vs. NJN W 37 8 2 5 40.0 0 0 - 4 4 100.0 1 7 8 2 0 3 1 4 15
+p365
+aVOthella Harrington VAN 01/29/2001 VAN vs. NJN W 14 5 0 2 0.0 0 0 - 5 6 83.3 1 3 4 0 1 1 3 4 6
+p366
+aVStromile Swift VAN 01/29/2001 VAN vs. NJN W 7 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 1 2 1 -11
+p367
+aVGrant Long VAN 01/29/2001 VAN vs. NJN W 25 7 1 2 50.0 0 0 - 5 6 83.3 1 5 6 1 4 0 3 2 16
+p368
+aVShareef Abdur-Rahim VAN 01/29/2001 VAN vs. NJN W 46 24 10 16 62.5 0 1 0.0 4 9 44.4 1 10 11 1 1 2 3 2 16
+p369
+aVDamon Jones VAN 01/26/2001 VAN @ HOU L 44 10 4 8 50.0 2 4 50.0 0 2 0.0 0 7 7 7 2 0 2 3 -15
+p370
+aVShareef Abdur-Rahim VAN 01/26/2001 VAN @ HOU L 31 17 8 15 53.3 0 0 - 1 4 25.0 2 5 7 1 0 0 2 2 -11
+p371
+aVGrant Long VAN 01/26/2001 VAN @ HOU L 22 8 4 7 57.1 0 0 - 0 0 - 0 3 3 1 1 0 0 4 4
+p372
+aVMahmoud Abdul-Rauf VAN 01/26/2001 VAN @ HOU L 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p373
+aVMichael Dickerson VAN 01/26/2001 VAN @ HOU L 37 25 10 20 50.0 0 2 0.0 5 6 83.3 1 4 5 3 1 0 1 2 -28
+p374
+aVStromile Swift VAN 01/26/2001 VAN @ HOU L 11 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 1 0 -6
+p375
+aVBrent Price VAN 01/26/2001 VAN @ HOU L 5 1 0 2 0.0 0 1 0.0 1 1 100.0 0 0 0 1 0 0 0 1 4
+p376
+aVMike Bibby VAN 01/26/2001 VAN @ HOU L 35 14 7 17 41.2 0 4 0.0 0 0 - 0 2 2 8 0 0 2 1 -20
+p377
+aVBryant Reeves VAN 01/26/2001 VAN @ HOU L 18 8 4 6 66.7 0 0 - 0 0 - 1 3 4 1 0 1 0 4 10
+p378
+aVOthella Harrington VAN 01/26/2001 VAN @ HOU L 31 4 2 6 33.3 0 0 - 0 0 - 4 3 7 1 0 0 2 2 -25
+p379
+aVBrent Price VAN 01/25/2001 VAN @ DAL L 7 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 1 0 1 2 -1
+p380
+aVStromile Swift VAN 01/25/2001 VAN @ DAL L 22 6 3 6 50.0 0 0 - 0 0 - 2 3 5 1 0 0 1 2 -12
+p381
+aVMichael Dickerson VAN 01/25/2001 VAN @ DAL L 33 11 4 12 33.3 1 4 25.0 2 2 100.0 4 2 6 2 0 1 3 4 -28
+p382
+aVMahmoud Abdul-Rauf VAN 01/25/2001 VAN @ DAL L 17 13 6 9 66.7 0 0 - 1 2 50.0 0 0 0 2 1 0 0 0 -15
+p383
+aVShareef Abdur-Rahim VAN 01/25/2001 VAN @ DAL L 30 13 2 10 20.0 0 2 0.0 9 10 90.0 5 5 10 2 0 0 3 1 -27
+p384
+aVBryant Reeves VAN 01/25/2001 VAN @ DAL L 17 11 4 7 57.1 0 0 - 3 5 60.0 2 2 4 1 0 0 2 2 -13
+p385
+aVOthella Harrington VAN 01/25/2001 VAN @ DAL L 22 6 3 6 50.0 0 0 - 0 0 - 2 4 6 0 1 1 3 2 -16
+p386
+aVMike Bibby VAN 01/25/2001 VAN @ DAL L 34 13 4 10 40.0 1 4 25.0 4 4 100.0 0 1 1 5 0 0 1 3 -30
+p387
+aVTony Massenburg VAN 01/25/2001 VAN @ DAL L 12 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 1 0 2 -2
+p388
+aVGrant Long VAN 01/25/2001 VAN @ DAL L 19 6 0 4 0.0 0 0 - 6 6 100.0 0 4 4 1 0 1 0 3 -15
+p389
+aVDamon Jones VAN 01/25/2001 VAN @ DAL L 27 0 0 4 0.0 0 2 0.0 0 0 - 0 3 3 3 0 0 2 0 -26
+p390
+aVStromile Swift VAN 01/23/2001 VAN @ SAS L 19 4 2 4 50.0 0 0 - 0 0 - 0 4 4 0 0 2 2 2 -11
+p391
+aVTony Massenburg VAN 01/23/2001 VAN @ SAS L 4 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p392
+aVDamon Jones VAN 01/23/2001 VAN @ SAS L 21 5 2 4 50.0 1 3 33.3 0 0 - 0 1 1 3 0 0 1 0 -5
+p393
+aVBrent Price VAN 01/23/2001 VAN @ SAS L 4 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -1
+p394
+aVOthella Harrington VAN 01/23/2001 VAN @ SAS L 30 11 4 10 40.0 0 0 - 3 4 75.0 3 3 6 0 2 2 3 2 -36
+p395
+aVMike Bibby VAN 01/23/2001 VAN @ SAS L 35 13 5 15 33.3 1 1 100.0 2 3 66.7 2 2 4 3 2 0 3 3 -38
+p396
+aVShareef Abdur-Rahim VAN 01/23/2001 VAN @ SAS L 35 12 5 14 35.7 0 1 0.0 2 2 100.0 1 4 5 1 1 0 5 3 -16
+p397
+aVBryant Reeves VAN 01/23/2001 VAN @ SAS L 11 3 1 1 100.0 0 0 - 1 1 100.0 1 0 1 1 0 0 2 4 -9
+p398
+aVIke Austin VAN 01/23/2001 VAN @ SAS L 16 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 1 0 1 1 -9
+p399
+aVMahmoud Abdul-Rauf VAN 01/23/2001 VAN @ SAS L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -10
+p400
+aVMichael Dickerson VAN 01/23/2001 VAN @ SAS L 37 16 6 17 35.3 0 3 0.0 4 5 80.0 1 1 2 3 0 0 2 3 -25
+p401
+aVGrant Long VAN 01/23/2001 VAN @ SAS L 23 5 1 2 50.0 0 0 - 3 4 75.0 0 4 4 2 1 0 1 2 -4
+p402
+aVGrant Long VAN 01/21/2001 VAN vs. MIN L 19 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 0 0 0 0 1 -3
+p403
+aVIke Austin VAN 01/21/2001 VAN vs. MIN L 11 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 1 0 2 1 2
+p404
+aVBryant Reeves VAN 01/21/2001 VAN vs. MIN L 26 6 3 8 37.5 0 0 - 0 0 - 3 5 8 0 0 1 0 4 -5
+p405
+aVMichael Dickerson VAN 01/21/2001 VAN vs. MIN L 41 24 8 17 47.1 1 3 33.3 7 8 87.5 1 2 3 5 0 0 2 4 3
+p406
+aVOthella Harrington VAN 01/21/2001 VAN vs. MIN L 39 12 5 12 41.7 0 0 - 2 2 100.0 0 4 4 1 1 4 0 3 12
+p407
+aVShareef Abdur-Rahim VAN 01/21/2001 VAN vs. MIN L 42 24 10 17 58.8 0 0 - 4 4 100.0 3 8 11 4 1 1 0 2 -5
+p408
+aVBrent Price VAN 01/21/2001 VAN vs. MIN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 1 1 -6
+p409
+aVMike Bibby VAN 01/21/2001 VAN vs. MIN L 43 19 9 16 56.3 1 2 50.0 0 0 - 0 3 3 8 3 0 4 1 5
+p410
+aVStromile Swift VAN 01/21/2001 VAN vs. MIN L 7 2 1 1 100.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -9
+p411
+aVDamon Jones VAN 01/21/2001 VAN vs. MIN L 10 2 1 1 100.0 0 0 - 0 0 - 0 2 2 3 0 0 2 1 -4
+p412
+aVGrant Long VAN 01/19/2001 VAN vs. MIA L 13 4 2 3 66.7 0 0 - 0 1 0.0 1 0 1 1 0 0 1 0 -9
+p413
+aVMahmoud Abdul-Rauf VAN 01/19/2001 VAN vs. MIA L 6 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 0 2 5
+p414
+aVMichael Dickerson VAN 01/19/2001 VAN vs. MIA L 38 14 6 17 35.3 2 7 28.6 0 0 - 0 5 5 6 3 0 1 4 -6
+p415
+aVDamon Jones VAN 01/19/2001 VAN vs. MIA L 17 0 0 4 0.0 0 3 0.0 0 0 - 0 0 0 2 0 0 2 0 -8
+p416
+aVShareef Abdur-Rahim VAN 01/19/2001 VAN vs. MIA L 41 11 5 10 50.0 0 0 - 1 2 50.0 1 7 8 2 1 1 2 4 -6
+p417
+aVMike Bibby VAN 01/19/2001 VAN vs. MIA L 44 11 4 13 30.8 2 5 40.0 1 2 50.0 0 4 4 9 0 0 4 3 -14
+p418
+aVStromile Swift VAN 01/19/2001 VAN vs. MIA L 8 4 1 3 33.3 0 0 - 2 2 100.0 0 1 1 1 1 1 0 2 -4
+p419
+aVBryant Reeves VAN 01/19/2001 VAN vs. MIA L 32 21 8 13 61.5 0 0 - 5 5 100.0 3 4 7 0 1 0 3 3 -5
+p420
+aVOthella Harrington VAN 01/19/2001 VAN vs. MIA L 32 15 7 10 70.0 0 0 - 1 2 50.0 4 5 9 2 0 0 3 1 -4
+p421
+aVIke Austin VAN 01/19/2001 VAN vs. MIA L 9 2 1 3 33.3 0 0 - 0 0 - 1 2 3 1 0 0 1 1 -4
+p422
+aVStromile Swift VAN 01/17/2001 VAN @ DEN L 26 15 7 11 63.6 0 0 - 1 2 50.0 4 1 5 0 1 0 3 4 -4
+p423
+aVTony Massenburg VAN 01/17/2001 VAN @ DEN L 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p424
+aVBrent Price VAN 01/17/2001 VAN @ DEN L 6 3 1 3 33.3 1 1 100.0 0 0 - 0 0 0 1 0 0 1 3 -1
+p425
+aVOthella Harrington VAN 01/17/2001 VAN @ DEN L 20 6 1 6 16.7 0 0 - 4 7 57.1 2 1 3 0 0 0 0 2 -20
+p426
+aVMike Bibby VAN 01/17/2001 VAN @ DEN L 34 6 3 13 23.1 0 1 0.0 0 0 - 0 6 6 12 1 0 2 1 -14
+p427
+aVMahmoud Abdul-Rauf VAN 01/17/2001 VAN @ DEN L 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 0 0 1 2 -6
+p428
+aVMichael Dickerson VAN 01/17/2001 VAN @ DEN L 38 18 6 14 42.9 1 4 25.0 5 6 83.3 1 6 7 4 0 0 1 4 -17
+p429
+aVShareef Abdur-Rahim VAN 01/17/2001 VAN @ DEN L 37 24 9 19 47.4 0 0 - 6 7 85.7 4 4 8 3 1 0 1 3 -19
+p430
+aVBryant Reeves VAN 01/17/2001 VAN @ DEN L 28 14 6 11 54.5 1 1 100.0 1 1 100.0 0 7 7 1 1 2 0 3 -8
+p431
+aVDamon Jones VAN 01/17/2001 VAN @ DEN L 20 2 1 5 20.0 0 3 0.0 0 1 0.0 1 1 2 8 1 0 2 0 -14
+p432
+aVIke Austin VAN 01/17/2001 VAN @ DEN L 15 2 0 3 0.0 0 0 - 2 4 50.0 0 4 4 0 0 0 0 2 -11
+p433
+aVKevin Edwards VAN 01/17/2001 VAN @ DEN L 6 5 2 3 66.7 1 2 50.0 0 0 - 1 1 2 0 0 0 0 1 -1
+p434
+aVIke Austin VAN 01/15/2001 VAN @ LAL L 9 4 2 4 50.0 0 2 0.0 0 0 - 1 0 1 0 1 0 0 2 2
+p435
+aVKevin Edwards VAN 01/15/2001 VAN @ LAL L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 -5
+p436
+aVShareef Abdur-Rahim VAN 01/15/2001 VAN @ LAL L 51 32 11 27 40.7 1 1 100.0 9 10 90.0 2 10 12 3 1 0 1 4 3
+p437
+aVBryant Reeves VAN 01/15/2001 VAN @ LAL L 39 13 5 12 41.7 0 0 - 3 3 100.0 3 7 10 1 0 0 1 6 -10
+p438
+aVMichael Dickerson VAN 01/15/2001 VAN @ LAL L 47 26 9 17 52.9 5 6 83.3 3 4 75.0 1 1 2 5 2 0 5 4 7
+p439
+aVOthella Harrington VAN 01/15/2001 VAN @ LAL L 26 9 3 6 50.0 0 0 - 3 4 75.0 1 4 5 0 0 0 3 4 -9
+p440
+aVDamon Jones VAN 01/15/2001 VAN @ LAL L 30 13 4 9 44.4 3 6 50.0 2 2 100.0 1 2 3 6 0 0 0 0 4
+p441
+aVStromile Swift VAN 01/15/2001 VAN @ LAL L 11 0 0 0 - 0 0 - 0 0 - 0 6 6 0 0 0 2 4 9
+p442
+aVMike Bibby VAN 01/15/2001 VAN @ LAL L 48 15 6 19 31.6 1 5 20.0 2 4 50.0 2 6 8 7 2 0 3 3 -6
+p443
+aVStromile Swift VAN 01/13/2001 VAN vs. CLE W 20 10 5 7 71.4 0 0 - 0 0 - 1 2 3 0 0 4 1 3 5
+p444
+aVMichael Dickerson VAN 01/13/2001 VAN vs. CLE W 46 32 11 18 61.1 4 6 66.7 6 6 100.0 2 2 4 4 0 1 2 1 15
+p445
+aVBryant Reeves VAN 01/13/2001 VAN vs. CLE W 35 13 4 9 44.4 0 0 - 5 6 83.3 3 13 16 4 0 0 0 5 9
+p446
+aVOthella Harrington VAN 01/13/2001 VAN vs. CLE W 14 10 4 6 66.7 0 0 - 2 3 66.7 1 2 3 1 0 0 2 5 3
+p447
+aVMike Bibby VAN 01/13/2001 VAN vs. CLE W 39 20 7 13 53.8 3 5 60.0 3 5 60.0 0 3 3 16 0 0 3 3 14
+p448
+aVIke Austin VAN 01/13/2001 VAN vs. CLE W 12 5 2 3 66.7 0 0 - 1 2 50.0 0 3 3 0 0 0 0 2 5
+p449
+aVShareef Abdur-Rahim VAN 01/13/2001 VAN vs. CLE W 47 18 8 15 53.3 0 0 - 2 2 100.0 2 11 13 7 0 3 4 2 13
+p450
+aVKevin Edwards VAN 01/13/2001 VAN vs. CLE W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -8
+p451
+aVDamon Jones VAN 01/13/2001 VAN vs. CLE W 21 11 3 5 60.0 2 4 50.0 3 3 100.0 0 2 2 4 0 0 0 3 4
+p452
+aVShareef Abdur-Rahim VAN 01/12/2001 VAN @ SEA L 39 15 5 12 41.7 0 1 0.0 5 6 83.3 2 10 12 5 0 0 3 2 -7
+p453
+aVStromile Swift VAN 01/12/2001 VAN @ SEA L 12 1 0 1 0.0 0 0 - 1 2 50.0 3 0 3 0 0 0 0 0 -18
+p454
+aVBryant Reeves VAN 01/12/2001 VAN @ SEA L 39 31 13 18 72.2 0 0 - 5 5 100.0 2 6 8 2 0 1 1 5 2
+p455
+aVMike Bibby VAN 01/12/2001 VAN @ SEA L 46 22 10 24 41.7 1 7 14.3 1 2 50.0 1 3 4 18 2 0 3 1 -5
+p456
+aVMichael Dickerson VAN 01/12/2001 VAN @ SEA L 43 21 9 22 40.9 2 5 40.0 1 1 100.0 0 2 2 4 2 0 1 4 -3
+p457
+aVKevin Edwards VAN 01/12/2001 VAN @ SEA L 10 2 1 3 33.3 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -10
+p458
+aVIke Austin VAN 01/12/2001 VAN @ SEA L 9 0 0 0 - 0 0 - 0 0 - 0 2 2 0 1 0 1 3 -15
+p459
+aVDamon Jones VAN 01/12/2001 VAN @ SEA L 12 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 3 2 0 2 1 -12
+p460
+aVOthella Harrington VAN 01/12/2001 VAN @ SEA L 30 7 3 7 42.9 0 0 - 1 2 50.0 2 3 5 0 0 1 2 2 3
+p461
+aVBryant Reeves VAN 01/09/2001 VAN vs. DEN L 9 5 2 7 28.6 0 0 - 1 2 50.0 2 1 3 1 0 1 0 2 -9
+p462
+aVShareef Abdur-Rahim VAN 01/09/2001 VAN vs. DEN L 43 26 9 21 42.9 1 3 33.3 7 9 77.8 1 12 13 2 1 3 0 4 -11
+p463
+aVStromile Swift VAN 01/09/2001 VAN vs. DEN L 10 4 0 0 - 0 0 - 4 6 66.7 1 1 2 0 0 1 1 4 -1
+p464
+aVDamon Jones VAN 01/09/2001 VAN vs. DEN L 41 17 6 10 60.0 4 6 66.7 1 1 100.0 0 2 2 7 0 0 3 1 -7
+p465
+aVMike Bibby VAN 01/09/2001 VAN vs. DEN L 44 23 10 18 55.6 3 4 75.0 0 0 - 0 4 4 9 0 0 1 3 -1
+p466
+aVMichael Dickerson VAN 01/09/2001 VAN vs. DEN L 41 21 8 17 47.1 2 4 50.0 3 4 75.0 2 4 6 5 0 0 6 5 -1
+p467
+aVKevin Edwards VAN 01/09/2001 VAN vs. DEN L 18 1 0 3 0.0 0 1 0.0 1 2 50.0 1 3 4 2 0 1 0 0 -12
+p468
+aVOthella Harrington VAN 01/09/2001 VAN vs. DEN L 34 8 4 8 50.0 0 0 - 0 0 - 2 8 10 1 0 0 3 4 7
+p469
+aVMike Bibby VAN 01/07/2001 VAN vs. MIL W 45 16 6 14 42.9 0 2 0.0 4 4 100.0 0 9 9 14 4 0 5 2 5
+p470
+aVKevin Edwards VAN 01/07/2001 VAN vs. MIL W 12 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 7
+p471
+aVBryant Reeves VAN 01/07/2001 VAN vs. MIL W 27 16 7 10 70.0 0 0 - 2 3 66.7 4 4 8 3 2 1 2 3 23
+p472
+aVIke Austin VAN 01/07/2001 VAN vs. MIL W 4 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 1 2 -4
+p473
+aVStromile Swift VAN 01/07/2001 VAN vs. MIL W 10 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 1 1 1 -5
+p474
+aVShareef Abdur-Rahim VAN 01/07/2001 VAN vs. MIL W 41 38 15 17 88.2 0 0 - 8 8 100.0 2 9 11 1 1 2 6 4 0
+p475
+aVOthella Harrington VAN 01/07/2001 VAN vs. MIL W 14 12 2 2 100.0 0 0 - 8 9 88.9 0 1 1 1 1 0 4 3 -8
+p476
+aVMichael Dickerson VAN 01/07/2001 VAN vs. MIL W 46 21 7 17 41.2 1 4 25.0 6 6 100.0 2 1 3 3 0 0 3 3 3
+p477
+aVDamon Jones VAN 01/07/2001 VAN vs. MIL W 41 11 5 13 38.5 1 5 20.0 0 0 - 0 1 1 8 0 0 3 0 -6
+p478
+aVMahmoud Abdul-Rauf VAN 01/05/2001 VAN @ PHX L 15 6 3 10 30.0 0 0 - 0 0 - 0 1 1 2 0 0 0 3 -14
+p479
+aVMike Bibby VAN 01/05/2001 VAN @ PHX L 39 14 6 15 40.0 0 1 0.0 2 2 100.0 1 4 5 7 3 0 5 0 -30
+p480
+aVBryant Reeves VAN 01/05/2001 VAN @ PHX L 12 3 0 2 0.0 0 0 - 3 4 75.0 0 1 1 0 1 2 0 1 -14
+p481
+aVBrent Price VAN 01/05/2001 VAN @ PHX L 6 5 0 1 0.0 0 0 - 5 6 83.3 1 0 1 0 1 0 1 1 -4
+p482
+aVIke Austin VAN 01/05/2001 VAN @ PHX L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 -3
+p483
+aVStromile Swift VAN 01/05/2001 VAN @ PHX L 21 0 0 4 0.0 0 0 - 0 0 - 3 3 6 1 2 0 1 3 -2
+p484
+aVDamon Jones VAN 01/05/2001 VAN @ PHX L 26 8 3 10 30.0 2 4 50.0 0 0 - 0 3 3 2 1 0 1 1 -17
+p485
+aVOthella Harrington VAN 01/05/2001 VAN @ PHX L 20 10 4 9 44.4 0 0 - 2 3 66.7 3 4 7 1 1 2 1 4 -15
+p486
+aVTony Massenburg VAN 01/05/2001 VAN @ PHX L 6 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -4
+p487
+aVKevin Edwards VAN 01/05/2001 VAN @ PHX L 12 2 1 3 33.3 0 0 - 0 0 - 1 1 2 1 1 0 1 1 -2
+p488
+aVMichael Dickerson VAN 01/05/2001 VAN @ PHX L 39 10 3 14 21.4 0 1 0.0 4 4 100.0 0 2 2 2 0 0 3 2 -30
+p489
+aVShareef Abdur-Rahim VAN 01/05/2001 VAN @ PHX L 34 14 4 11 36.4 0 0 - 6 7 85.7 3 4 7 1 0 0 1 3 -25
+p490
+aVDamon Jones VAN 01/03/2001 VAN vs. CHH W 41 18 6 12 50.0 1 3 33.3 5 5 100.0 1 3 4 8 0 0 4 4 5
+p491
+aVMichael Dickerson VAN 01/03/2001 VAN vs. CHH W 41 22 7 15 46.7 1 2 50.0 7 7 100.0 2 2 4 6 0 0 1 2 17
+p492
+aVShareef Abdur-Rahim VAN 01/03/2001 VAN vs. CHH W 39 19 9 16 56.3 0 0 - 1 1 100.0 1 9 10 3 2 1 6 2 9
+p493
+aVOthella Harrington VAN 01/03/2001 VAN vs. CHH W 35 15 5 6 83.3 0 0 - 5 6 83.3 1 12 13 0 0 0 2 2 11
+p494
+aVKevin Edwards VAN 01/03/2001 VAN vs. CHH W 14 2 1 3 33.3 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -2
+p495
+aVStromile Swift VAN 01/03/2001 VAN vs. CHH W 13 0 0 1 0.0 0 0 - 0 2 0.0 0 0 0 0 1 1 2 1 5
+p496
+aVBryant Reeves VAN 01/03/2001 VAN vs. CHH W 13 2 1 3 33.3 0 0 - 0 1 0.0 2 1 3 0 0 1 1 3 -2
+p497
+aVMike Bibby VAN 01/03/2001 VAN vs. CHH W 44 21 7 14 50.0 2 4 50.0 5 7 71.4 0 3 3 10 3 1 2 1 7
+p498
+aVTony Massenburg VAN 12/30/2000 VAN vs. GSW L 9 2 0 1 0.0 0 0 - 2 2 100.0 1 1 2 0 0 1 2 1 6
+p499
+aVMahmoud Abdul-Rauf VAN 12/30/2000 VAN vs. GSW L 16 12 5 8 62.5 0 0 - 2 2 100.0 0 1 1 4 0 0 0 4 7
+p500
+aVStromile Swift VAN 12/30/2000 VAN vs. GSW L 6 2 1 1 100.0 0 0 - 0 0 - 1 0 1 1 0 0 1 2 -2
+p501
+aVBryant Reeves VAN 12/30/2000 VAN vs. GSW L 8 2 1 3 33.3 0 0 - 0 0 - 3 1 4 0 1 0 1 5 1
+p502
+aVIke Austin VAN 12/30/2000 VAN vs. GSW L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -12
+p503
+aVShareef Abdur-Rahim VAN 12/30/2000 VAN vs. GSW L 45 31 14 24 58.3 0 1 0.0 3 4 75.0 3 8 11 4 0 2 3 3 4
+p504
+aVKevin Edwards VAN 12/30/2000 VAN vs. GSW L 25 6 3 7 42.9 0 1 0.0 0 0 - 1 4 5 4 2 0 4 2 3
+p505
+aVMike Bibby VAN 12/30/2000 VAN vs. GSW L 45 14 6 13 46.2 1 4 25.0 1 1 100.0 0 3 3 10 1 0 2 2 2
+p506
+aVMichael Dickerson VAN 12/30/2000 VAN vs. GSW L 48 23 8 14 57.1 0 0 - 7 10 70.0 1 3 4 5 1 0 3 5 1
+p507
+aVOthella Harrington VAN 12/30/2000 VAN vs. GSW L 24 9 3 10 30.0 0 0 - 3 3 100.0 1 2 3 0 1 2 4 6 -8
+p508
+aVDamon Jones VAN 12/30/2000 VAN vs. GSW L 11 0 0 2 0.0 0 2 0.0 0 0 - 0 1 1 2 1 0 0 0 -7
+p509
+aVBryant Reeves VAN 12/29/2000 VAN @ POR L 30 6 3 5 60.0 0 0 - 0 0 - 2 3 5 1 3 0 1 4 -13
+p510
+aVIke Austin VAN 12/29/2000 VAN @ POR L 18 6 3 7 42.9 0 1 0.0 0 0 - 0 4 4 2 1 0 2 2 -10
+p511
+aVOthella Harrington VAN 12/29/2000 VAN @ POR L 28 8 2 5 40.0 0 0 - 4 4 100.0 1 2 3 0 2 0 0 3 -13
+p512
+aVMichael Dickerson VAN 12/29/2000 VAN @ POR L 37 11 5 14 35.7 0 2 0.0 1 2 50.0 0 1 1 6 0 0 4 3 -13
+p513
+aVDamon Jones VAN 12/29/2000 VAN @ POR L 13 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 6 0 0 2 0 -9
+p514
+aVMike Bibby VAN 12/29/2000 VAN @ POR L 35 7 3 10 30.0 1 1 100.0 0 0 - 0 4 4 11 4 0 7 0 -14
+p515
+aVKevin Edwards VAN 12/29/2000 VAN @ POR L 11 2 1 5 20.0 0 0 - 0 0 - 0 3 3 0 0 0 3 0 -10
+p516
+aVTony Massenburg VAN 12/29/2000 VAN @ POR L 12 2 0 1 0.0 0 0 - 2 2 100.0 0 2 2 0 1 0 0 0 -3
+p517
+aVStromile Swift VAN 12/29/2000 VAN @ POR L 20 10 4 6 66.7 0 0 - 2 3 66.7 1 1 2 0 2 2 1 0 -10
+p518
+aVShareef Abdur-Rahim VAN 12/29/2000 VAN @ POR L 36 29 13 16 81.3 0 1 0.0 3 5 60.0 0 3 3 3 3 1 1 0 -20
+p519
+aVOthella Harrington VAN 12/26/2000 VAN vs. PHX L 41 12 4 9 44.4 0 0 - 4 4 100.0 2 10 12 2 0 0 2 3 1
+p520
+aVMike Bibby VAN 12/26/2000 VAN vs. PHX L 41 21 8 14 57.1 1 2 50.0 4 4 100.0 1 2 3 7 1 0 5 6 -2
+p521
+aVBryant Reeves VAN 12/26/2000 VAN vs. PHX L 24 12 5 8 62.5 0 0 - 2 2 100.0 2 4 6 0 0 2 1 1 0
+p522
+aVShareef Abdur-Rahim VAN 12/26/2000 VAN vs. PHX L 34 10 3 9 33.3 0 0 - 4 4 100.0 0 5 5 0 1 0 4 2 -7
+p523
+aVIke Austin VAN 12/26/2000 VAN vs. PHX L 24 12 5 7 71.4 0 1 0.0 2 2 100.0 1 7 8 0 0 2 2 2 2
+p524
+aVStromile Swift VAN 12/26/2000 VAN vs. PHX L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -3
+p525
+aVKevin Edwards VAN 12/26/2000 VAN vs. PHX L 16 3 0 2 0.0 0 1 0.0 3 4 75.0 0 2 2 1 2 0 0 0 -2
+p526
+aVMichael Dickerson VAN 12/26/2000 VAN vs. PHX L 38 19 9 17 52.9 0 2 0.0 1 2 50.0 1 0 1 3 2 0 2 4 0
+p527
+aVDamon Jones VAN 12/26/2000 VAN vs. PHX L 15 4 2 4 50.0 0 1 0.0 0 0 - 0 1 1 4 0 0 2 0 1
+p528
+aVShareef Abdur-Rahim VAN 12/23/2000 VAN @ LAC L 45 26 10 23 43.5 0 3 0.0 6 8 75.0 1 7 8 2 2 2 3 2 4
+p529
+aVKevin Edwards VAN 12/23/2000 VAN @ LAC L 13 2 1 5 20.0 0 1 0.0 0 0 - 2 2 4 0 0 0 1 2 -8
+p530
+aVOthella Harrington VAN 12/23/2000 VAN @ LAC L 36 11 3 8 37.5 0 0 - 5 7 71.4 3 6 9 1 0 3 4 4 -1
+p531
+aVStromile Swift VAN 12/23/2000 VAN @ LAC L 12 2 1 3 33.3 0 0 - 0 0 - 1 0 1 1 2 5 0 0 -1
+p532
+aVBryant Reeves VAN 12/23/2000 VAN @ LAC L 21 8 3 11 27.3 0 0 - 2 2 100.0 2 5 7 2 0 0 0 3 -1
+p533
+aVMichael Dickerson VAN 12/23/2000 VAN @ LAC L 41 19 7 17 41.2 1 3 33.3 4 6 66.7 2 3 5 5 0 0 2 1 1
+p534
+aVMike Bibby VAN 12/23/2000 VAN @ LAC L 40 18 8 12 66.7 2 5 40.0 0 0 - 1 4 5 4 2 0 5 2 -5
+p535
+aVDamon Jones VAN 12/23/2000 VAN @ LAC L 8 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 0 0 0 0 0 3
+p536
+aVIke Austin VAN 12/23/2000 VAN @ LAC L 25 2 1 2 50.0 0 0 - 0 0 - 1 6 7 4 2 1 1 1 -2
+p537
+aVStromile Swift VAN 12/22/2000 VAN vs. SAC L 8 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -7
+p538
+aVOthella Harrington VAN 12/22/2000 VAN vs. SAC L 40 24 9 14 64.3 0 0 - 6 9 66.7 8 12 20 0 0 1 1 4 5
+p539
+aVDamon Jones VAN 12/22/2000 VAN vs. SAC L 10 5 2 5 40.0 1 3 33.3 0 0 - 0 0 0 2 0 0 0 2 -12
+p540
+aVMike Bibby VAN 12/22/2000 VAN vs. SAC L 42 18 6 14 42.9 1 4 25.0 5 8 62.5 0 7 7 13 3 0 3 1 5
+p541
+aVBryant Reeves VAN 12/22/2000 VAN vs. SAC L 15 2 1 4 25.0 0 0 - 0 0 - 2 0 2 0 1 0 0 2 -10
+p542
+aVKevin Edwards VAN 12/22/2000 VAN vs. SAC L 11 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 2 0 8
+p543
+aVMichael Dickerson VAN 12/22/2000 VAN vs. SAC L 40 18 8 17 47.1 0 1 0.0 2 2 100.0 0 1 1 2 0 2 3 2 7
+p544
+aVShareef Abdur-Rahim VAN 12/22/2000 VAN vs. SAC L 41 14 7 14 50.0 0 0 - 0 2 0.0 1 5 6 2 0 0 2 1 -14
+p545
+aVIke Austin VAN 12/22/2000 VAN vs. SAC L 33 10 5 17 29.4 0 1 0.0 0 0 - 6 7 13 1 0 2 1 4 8
+p546
+aVDamon Jones VAN 12/20/2000 VAN vs. WAS W 10 6 2 3 66.7 2 2 100.0 0 0 - 0 0 0 1 0 0 1 2 6
+p547
+aVKevin Edwards VAN 12/20/2000 VAN vs. WAS W 14 4 2 5 40.0 0 0 - 0 0 - 0 2 2 3 1 0 0 2 1
+p548
+aVDoug West VAN 12/20/2000 VAN vs. WAS W 6 0 0 2 0.0 0 0 - 0 0 - 0 0 0 1 0 1 0 0 3
+p549
+aVMichael Dickerson VAN 12/20/2000 VAN vs. WAS W 36 17 6 14 42.9 1 4 25.0 4 6 66.7 1 1 2 3 1 0 5 3 11
+p550
+aVShareef Abdur-Rahim VAN 12/20/2000 VAN vs. WAS W 41 24 6 9 66.7 0 0 - 12 12 100.0 0 5 5 4 2 0 2 4 13
+p551
+aVMike Bibby VAN 12/20/2000 VAN vs. WAS W 38 26 10 14 71.4 2 3 66.7 4 5 80.0 0 3 3 12 0 1 2 2 8
+p552
+aVOthella Harrington VAN 12/20/2000 VAN vs. WAS W 30 17 6 9 66.7 0 0 - 5 6 83.3 3 4 7 0 1 0 3 4 2
+p553
+aVIke Austin VAN 12/20/2000 VAN vs. WAS W 17 4 2 6 33.3 0 0 - 0 0 - 0 3 3 1 0 0 2 3 4
+p554
+aVStromile Swift VAN 12/20/2000 VAN vs. WAS W 19 2 1 2 50.0 0 0 - 0 2 0.0 2 3 5 0 2 0 2 2 11
+p555
+aVBryant Reeves VAN 12/20/2000 VAN vs. WAS W 30 18 7 11 63.6 0 0 - 4 4 100.0 4 3 7 2 0 1 3 5 11
+p556
+aVMichael Dickerson VAN 12/17/2000 VAN vs. ORL L 39 11 5 12 41.7 0 4 0.0 1 3 33.3 2 2 4 3 2 0 2 3 -2
+p557
+aVStromile Swift VAN 12/17/2000 VAN vs. ORL L 12 9 3 6 50.0 0 0 - 3 5 60.0 5 1 6 1 1 2 1 1 3
+p558
+aVBryant Reeves VAN 12/17/2000 VAN vs. ORL L 22 9 2 7 28.6 0 0 - 5 6 83.3 1 3 4 0 0 0 0 6 -9
+p559
+aVOthella Harrington VAN 12/17/2000 VAN vs. ORL L 27 15 6 10 60.0 0 1 0.0 3 4 75.0 1 2 3 1 0 0 0 2 -13
+p560
+aVDamon Jones VAN 12/17/2000 VAN vs. ORL L 16 0 0 3 0.0 0 3 0.0 0 0 - 0 0 0 1 2 0 2 2 -8
+p561
+aVDoug West VAN 12/17/2000 VAN vs. ORL L 10 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 1 0 1 -9
+p562
+aVShareef Abdur-Rahim VAN 12/17/2000 VAN vs. ORL L 32 12 4 15 26.7 0 2 0.0 4 4 100.0 5 9 14 3 2 1 2 2 -4
+p563
+aVMike Bibby VAN 12/17/2000 VAN vs. ORL L 35 19 7 12 58.3 3 4 75.0 2 2 100.0 0 2 2 4 0 0 0 0 1
+p564
+aVGrant Long VAN 12/17/2000 VAN vs. ORL L 21 4 2 5 40.0 0 0 - 0 4 0.0 1 2 3 0 1 0 0 1 -8
+p565
+aVIke Austin VAN 12/17/2000 VAN vs. ORL L 26 12 2 5 40.0 0 0 - 8 10 80.0 3 3 6 5 1 0 0 2 -1
+p566
+aVGrant Long VAN 12/15/2000 VAN @ LAL L 20 3 1 5 20.0 0 0 - 1 2 50.0 2 0 2 0 2 0 0 1 -10
+p567
+aVTony Massenburg VAN 12/15/2000 VAN @ LAL L 15 4 1 4 25.0 0 0 - 2 2 100.0 2 2 4 0 0 0 2 1 -14
+p568
+aVMike Bibby VAN 12/15/2000 VAN @ LAL L 28 12 6 11 54.5 0 0 - 0 0 - 0 1 1 3 2 0 3 0 -18
+p569
+aVDoug West VAN 12/15/2000 VAN @ LAL L 9 2 1 1 100.0 0 0 - 0 0 - 0 0 0 2 0 0 0 0 1
+p570
+aVDamon Jones VAN 12/15/2000 VAN @ LAL L 20 9 4 7 57.1 1 4 25.0 0 0 - 1 4 5 2 0 0 0 0 -4
+p571
+aVIke Austin VAN 12/15/2000 VAN @ LAL L 9 5 2 4 50.0 0 0 - 1 1 100.0 1 1 2 0 0 0 1 0 -5
+p572
+aVKevin Edwards VAN 12/15/2000 VAN @ LAL L 16 5 2 7 28.6 0 0 - 1 1 100.0 0 4 4 2 2 0 1 0 4
+p573
+aVMichael Dickerson VAN 12/15/2000 VAN @ LAL L 38 9 4 14 28.6 1 3 33.3 0 2 0.0 0 0 0 5 0 0 0 3 -20
+p574
+aVOthella Harrington VAN 12/15/2000 VAN @ LAL L 12 4 2 3 66.7 0 0 - 0 0 - 1 0 1 0 0 0 3 4 -10
+p575
+aVShareef Abdur-Rahim VAN 12/15/2000 VAN @ LAL L 33 18 7 14 50.0 0 1 0.0 4 7 57.1 1 9 10 2 0 2 3 2 -22
+p576
+aVBryant Reeves VAN 12/15/2000 VAN @ LAL L 23 5 2 7 28.6 0 0 - 1 3 33.3 0 5 5 1 0 0 1 2 -3
+p577
+aVStromile Swift VAN 12/15/2000 VAN @ LAL L 17 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -9
+p578
+aVTony Massenburg VAN 12/13/2000 VAN vs. SEA L 8 0 0 1 0.0 0 0 - 0 0 - 0 3 3 0 0 0 0 4 -4
+p579
+aVDoug West VAN 12/13/2000 VAN vs. SEA L 5 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 1 0 0 -4
+p580
+aVShareef Abdur-Rahim VAN 12/13/2000 VAN vs. SEA L 37 14 5 11 45.5 0 1 0.0 4 6 66.7 1 8 9 5 0 0 3 2 1
+p581
+aVMichael Dickerson VAN 12/13/2000 VAN vs. SEA L 43 13 4 20 20.0 3 9 33.3 2 2 100.0 2 2 4 8 0 0 0 2 3
+p582
+aVOthella Harrington VAN 12/13/2000 VAN vs. SEA L 27 15 5 10 50.0 0 0 - 5 8 62.5 2 3 5 1 0 0 1 1 -2
+p583
+aVBryant Reeves VAN 12/13/2000 VAN vs. SEA L 39 15 7 14 50.0 0 0 - 1 1 100.0 4 4 8 2 2 3 2 4 5
+p584
+aVMike Bibby VAN 12/13/2000 VAN vs. SEA L 37 17 6 14 42.9 1 5 20.0 4 4 100.0 0 3 3 6 1 1 2 2 2
+p585
+aVGrant Long VAN 12/13/2000 VAN vs. SEA L 18 4 2 4 50.0 0 0 - 0 0 - 0 1 1 1 1 0 2 4 2
+p586
+aVStromile Swift VAN 12/13/2000 VAN vs. SEA L 14 7 3 6 50.0 0 0 - 1 1 100.0 3 1 4 0 1 0 0 2 -3
+p587
+aVDamon Jones VAN 12/13/2000 VAN vs. SEA L 12 6 3 5 60.0 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 -5
+p588
+aVMike Bibby VAN 12/11/2000 VAN vs. HOU L 36 16 7 14 50.0 2 4 50.0 0 0 - 0 2 2 7 1 0 0 1 -1
+p589
+aVDamon Jones VAN 12/11/2000 VAN vs. HOU L 45 6 3 11 27.3 0 4 0.0 0 0 - 0 3 3 5 0 0 0 2 -13
+p590
+aVMahmoud Abdul-Rauf VAN 12/11/2000 VAN vs. HOU L 8 2 1 5 20.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p591
+aVBryant Reeves VAN 12/11/2000 VAN vs. HOU L 29 10 4 11 36.4 0 0 - 2 2 100.0 2 7 9 2 0 2 1 1 -14
+p592
+aVOthella Harrington VAN 12/11/2000 VAN vs. HOU L 31 5 1 8 12.5 0 0 - 3 4 75.0 3 5 8 1 0 0 1 2 -2
+p593
+aVShareef Abdur-Rahim VAN 12/11/2000 VAN vs. HOU L 38 26 10 17 58.8 1 3 33.3 5 5 100.0 1 4 5 1 2 2 3 0 2
+p594
+aVStromile Swift VAN 12/11/2000 VAN vs. HOU L 9 2 1 7 14.3 0 0 - 0 0 - 1 2 3 0 1 0 2 1 -6
+p595
+aVGrant Long VAN 12/11/2000 VAN vs. HOU L 25 4 2 4 50.0 0 0 - 0 0 - 1 1 2 1 1 0 0 4 -13
+p596
+aVTony Massenburg VAN 12/11/2000 VAN vs. HOU L 17 4 1 2 50.0 0 0 - 2 4 50.0 0 3 3 0 0 1 1 2 8
+p597
+aVMichael Dickerson VAN 12/11/2000 VAN vs. HOU L 3 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 0 0 0 0 6
+p598
+aVBryant Reeves VAN 12/09/2000 VAN vs. PHI L 22 6 2 6 33.3 0 0 - 2 2 100.0 2 5 7 1 3 2 1 2 -2
+p599
+aVOthella Harrington VAN 12/09/2000 VAN vs. PHI L 32 8 3 9 33.3 0 0 - 2 2 100.0 4 6 10 3 1 0 3 1 -6
+p600
+aVStromile Swift VAN 12/09/2000 VAN vs. PHI L 15 7 2 4 50.0 0 0 - 3 3 100.0 0 3 3 0 0 0 0 2 4
+p601
+aVDoug West VAN 12/09/2000 VAN vs. PHI L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p602
+aVShareef Abdur-Rahim VAN 12/09/2000 VAN vs. PHI L 36 12 4 11 36.4 0 0 - 4 5 80.0 2 7 9 2 0 2 3 2 7
+p603
+aVGrant Long VAN 12/09/2000 VAN vs. PHI L 21 5 1 5 20.0 1 3 33.3 2 2 100.0 0 3 3 1 1 0 2 3 -22
+p604
+aVDamon Jones VAN 12/09/2000 VAN vs. PHI L 13 2 1 3 33.3 0 2 0.0 0 1 0.0 0 1 1 0 0 0 0 0 -13
+p605
+aVIke Austin VAN 12/09/2000 VAN vs. PHI L 17 2 1 7 14.3 0 0 - 0 0 - 0 6 6 0 0 1 0 2 9
+p606
+aVMichael Dickerson VAN 12/09/2000 VAN vs. PHI L 41 20 5 14 35.7 1 3 33.3 9 9 100.0 1 1 2 6 0 0 5 3 4
+p607
+aVMike Bibby VAN 12/09/2000 VAN vs. PHI L 38 17 6 13 46.2 3 3 100.0 2 2 100.0 1 1 2 9 2 0 4 2 4
+p608
+aVGrant Long VAN 12/07/2000 VAN @ UTA L 26 8 3 5 60.0 0 0 - 2 2 100.0 0 4 4 1 0 0 2 4 -1
+p609
+aVIke Austin VAN 12/07/2000 VAN @ UTA L 21 0 0 7 0.0 0 3 0.0 0 0 - 0 5 5 0 1 0 3 0 -19
+p610
+aVDamon Jones VAN 12/07/2000 VAN @ UTA L 17 8 3 6 50.0 2 5 40.0 0 0 - 0 0 0 3 1 0 2 3 9
+p611
+aVMichael Dickerson VAN 12/07/2000 VAN @ UTA L 29 8 3 6 50.0 2 3 66.7 0 0 - 0 0 0 2 1 0 4 2 -25
+p612
+aVOthella Harrington VAN 12/07/2000 VAN @ UTA L 18 6 3 4 75.0 0 0 - 0 0 - 2 1 3 1 0 1 1 6 -10
+p613
+aVStromile Swift VAN 12/07/2000 VAN @ UTA L 19 1 0 3 0.0 0 1 0.0 1 4 25.0 1 3 4 0 1 1 1 1 4
+p614
+aVShareef Abdur-Rahim VAN 12/07/2000 VAN @ UTA L 36 21 5 13 38.5 0 1 0.0 11 11 100.0 4 5 9 2 0 1 4 1 -15
+p615
+aVDoug West VAN 12/07/2000 VAN @ UTA L 6 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 1 0 1 2
+p616
+aVMike Bibby VAN 12/07/2000 VAN @ UTA L 42 18 6 14 42.9 0 0 - 6 6 100.0 1 1 2 6 2 0 6 3 -10
+p617
+aVBryant Reeves VAN 12/07/2000 VAN @ UTA L 26 17 6 8 75.0 0 0 - 5 5 100.0 2 9 11 1 1 5 1 3 10
+p618
+aVDamon Jones VAN 12/05/2000 VAN vs. DET W 12 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 1 1 -8
+p619
+aVMike Bibby VAN 12/05/2000 VAN vs. DET W 39 13 5 10 50.0 0 2 0.0 3 4 75.0 2 2 4 12 2 0 1 3 13
+p620
+aVShareef Abdur-Rahim VAN 12/05/2000 VAN vs. DET W 43 18 7 15 46.7 0 0 - 4 5 80.0 0 7 7 3 1 2 1 2 12
+p621
+aVOthella Harrington VAN 12/05/2000 VAN vs. DET W 30 13 6 9 66.7 0 1 0.0 1 2 50.0 1 4 5 2 0 1 3 4 16
+p622
+aVStromile Swift VAN 12/05/2000 VAN vs. DET W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 1 0 1 -4
+p623
+aVIke Austin VAN 12/05/2000 VAN vs. DET W 26 15 6 12 50.0 1 2 50.0 2 3 66.7 3 7 10 2 1 0 1 2 7
+p624
+aVMichael Dickerson VAN 12/05/2000 VAN vs. DET W 34 17 7 15 46.7 1 4 25.0 2 4 50.0 0 3 3 1 1 0 1 2 7
+p625
+aVBryant Reeves VAN 12/05/2000 VAN vs. DET W 22 10 3 6 50.0 0 0 - 4 4 100.0 3 3 6 1 1 1 1 2 1
+p626
+aVGrant Long VAN 12/05/2000 VAN vs. DET W 16 0 0 1 0.0 0 0 - 0 0 - 0 2 2 2 0 0 0 2 -8
+p627
+aVDoug West VAN 12/05/2000 VAN vs. DET W 11 1 0 2 0.0 0 0 - 1 2 50.0 0 0 0 1 0 0 1 1 4
+p628
+aVDoug West VAN 12/03/2000 VAN vs. SAS L 13 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 -12
+p629
+aVDamon Jones VAN 12/03/2000 VAN vs. SAS L 19 8 3 11 27.3 2 5 40.0 0 0 - 0 2 2 0 0 0 1 0 -12
+p630
+aVBryant Reeves VAN 12/03/2000 VAN vs. SAS L 16 8 4 9 44.4 0 0 - 0 0 - 2 2 4 0 1 0 0 2 -8
+p631
+aVShareef Abdur-Rahim VAN 12/03/2000 VAN vs. SAS L 45 16 6 16 37.5 0 0 - 4 6 66.7 4 7 11 4 1 1 3 3 -16
+p632
+aVKevin Edwards VAN 12/03/2000 VAN vs. SAS L 6 0 0 2 0.0 0 0 - 0 0 - 1 1 2 1 0 0 0 0 -4
+p633
+aVMike Bibby VAN 12/03/2000 VAN vs. SAS L 36 9 3 11 27.3 1 2 50.0 2 2 100.0 0 1 1 6 1 0 2 0 -19
+p634
+aVOthella Harrington VAN 12/03/2000 VAN vs. SAS L 26 6 3 9 33.3 0 0 - 0 0 - 1 2 3 1 1 1 2 3 -8
+p635
+aVStromile Swift VAN 12/03/2000 VAN vs. SAS L 20 5 2 7 28.6 0 0 - 1 2 50.0 5 1 6 1 1 0 1 2 -4
+p636
+aVGrant Long VAN 12/03/2000 VAN vs. SAS L 32 16 7 9 77.8 0 0 - 2 2 100.0 0 3 3 3 3 0 0 1 -4
+p637
+aVIke Austin VAN 12/03/2000 VAN vs. SAS L 28 9 4 9 44.4 1 3 33.3 0 0 - 2 5 7 1 0 1 4 5 -3
+p638
+aVMike Bibby VAN 12/01/2000 VAN vs. IND L 49 8 4 16 25.0 0 6 0.0 0 0 - 2 3 5 12 2 1 3 2 -10
+p639
+aVIke Austin VAN 12/01/2000 VAN vs. IND L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -2
+p640
+aVStromile Swift VAN 12/01/2000 VAN vs. IND L 19 2 1 3 33.3 0 0 - 0 0 - 1 2 3 0 0 3 1 3 -1
+p641
+aVBryant Reeves VAN 12/01/2000 VAN vs. IND L 10 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 1 0 0 1 6
+p642
+aVKevin Edwards VAN 12/01/2000 VAN vs. IND L 17 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 1 0 0 1 0 -2
+p643
+aVDamon Jones VAN 12/01/2000 VAN vs. IND L 40 11 5 15 33.3 1 5 20.0 0 0 - 2 3 5 3 1 0 0 1 -6
+p644
+aVGrant Long VAN 12/01/2000 VAN vs. IND L 42 9 4 10 40.0 0 0 - 1 1 100.0 1 2 3 0 0 1 2 6 -10
+p645
+aVOthella Harrington VAN 12/01/2000 VAN vs. IND L 24 14 5 12 41.7 0 0 - 4 4 100.0 3 3 6 0 1 0 1 0 -15
+p646
+aVShareef Abdur-Rahim VAN 12/01/2000 VAN vs. IND L 50 28 10 22 45.5 1 2 50.0 7 8 87.5 4 12 16 4 2 1 5 3 -6
+p647
+aVDoug West VAN 12/01/2000 VAN vs. IND L 13 2 1 3 33.3 0 0 - 0 0 - 1 1 2 0 0 0 0 1 -4
+p648
+aVStromile Swift VAN 11/29/2000 VAN vs. PHX W 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 1 1 1 -11
+p649
+aVDoug West VAN 11/29/2000 VAN vs. PHX W 22 0 0 4 0.0 0 1 0.0 0 0 - 1 1 2 2 2 0 1 1 3
+p650
+aVDamon Jones VAN 11/29/2000 VAN vs. PHX W 32 14 5 9 55.6 1 2 50.0 3 4 75.0 0 4 4 5 0 0 2 2 -4
+p651
+aVMike Bibby VAN 11/29/2000 VAN vs. PHX W 54 14 5 19 26.3 1 4 25.0 3 4 75.0 0 1 1 8 2 0 2 4 9
+p652
+aVIke Austin VAN 11/29/2000 VAN vs. PHX W 15 5 2 5 40.0 1 1 100.0 0 0 - 1 4 5 0 0 1 0 0 2
+p653
+aVBryant Reeves VAN 11/29/2000 VAN vs. PHX W 19 9 4 6 66.7 0 0 - 1 1 100.0 1 3 4 0 1 0 0 3 -4
+p654
+aVGrant Long VAN 11/29/2000 VAN vs. PHX W 45 16 6 13 46.2 0 2 0.0 4 6 66.7 2 6 8 1 1 0 2 4 6
+p655
+aVShareef Abdur-Rahim VAN 11/29/2000 VAN vs. PHX W 55 33 9 22 40.9 0 0 - 15 16 93.8 2 12 14 4 2 1 7 4 6
+p656
+aVOthella Harrington VAN 11/29/2000 VAN vs. PHX W 42 16 6 14 42.9 0 0 - 4 4 100.0 4 10 14 1 0 0 4 6 8
+p657
+aVDamon Jones VAN 11/27/2000 VAN @ NYK L 29 6 2 8 25.0 2 7 28.6 0 2 0.0 2 0 2 4 0 0 3 0 -19
+p658
+aVTony Massenburg VAN 11/27/2000 VAN @ NYK L 9 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -3
+p659
+aVDoug West VAN 11/27/2000 VAN @ NYK L 24 5 2 6 33.3 0 0 - 1 1 100.0 0 2 2 1 0 0 0 3 -15
+p660
+aVOthella Harrington VAN 11/27/2000 VAN @ NYK L 28 5 2 8 25.0 0 0 - 1 2 50.0 1 4 5 0 0 2 3 0 -10
+p661
+aVMahmoud Abdul-Rauf VAN 11/27/2000 VAN @ NYK L 14 4 2 6 33.3 0 0 - 0 0 - 1 0 1 2 0 0 0 0 -8
+p662
+aVGrant Long VAN 11/27/2000 VAN @ NYK L 38 16 6 13 46.2 0 1 0.0 4 4 100.0 4 5 9 0 0 0 1 4 -18
+p663
+aVBryant Reeves VAN 11/27/2000 VAN @ NYK L 24 7 2 8 25.0 0 0 - 3 4 75.0 0 2 2 3 1 0 0 3 -10
+p664
+aVMike Bibby VAN 11/27/2000 VAN @ NYK L 35 17 7 13 53.8 1 2 50.0 2 2 100.0 0 5 5 6 2 0 2 2 -11
+p665
+aVShareef Abdur-Rahim VAN 11/27/2000 VAN @ NYK L 34 10 4 14 28.6 0 0 - 2 3 66.7 1 6 7 0 1 1 2 2 -28
+p666
+aVIke Austin VAN 11/27/2000 VAN @ NYK L 4 0 0 2 0.0 0 0 - 0 0 - 0 2 2 1 0 0 1 1 -3
+p667
+aVMike Bibby VAN 11/26/2000 VAN @ BOS W 33 13 6 12 50.0 0 0 - 1 2 50.0 0 2 2 12 1 0 4 3 16
+p668
+aVIke Austin VAN 11/26/2000 VAN @ BOS W 19 12 5 9 55.6 0 0 - 2 4 50.0 2 4 6 0 0 2 2 4 -2
+p669
+aVShareef Abdur-Rahim VAN 11/26/2000 VAN @ BOS W 48 27 8 15 53.3 0 1 0.0 11 12 91.7 3 18 21 3 3 0 3 2 11
+p670
+aVDoug West VAN 11/26/2000 VAN @ BOS W 15 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 3 0 0 0 5 -2
+p671
+aVOthella Harrington VAN 11/26/2000 VAN @ BOS W 33 10 4 8 50.0 0 0 - 2 2 100.0 4 3 7 1 0 0 5 5 25
+p672
+aVTony Massenburg VAN 11/26/2000 VAN @ BOS W 6 0 0 1 0.0 0 0 - 0 0 - 1 1 2 0 0 0 0 0 -3
+p673
+aVMahmoud Abdul-Rauf VAN 11/26/2000 VAN @ BOS W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 1 1 -4
+p674
+aVKevin Edwards VAN 11/26/2000 VAN @ BOS W 41 12 4 13 30.8 2 3 66.7 2 2 100.0 1 2 3 3 1 1 3 4 4
+p675
+aVDamon Jones VAN 11/26/2000 VAN @ BOS W 20 4 2 5 40.0 0 3 0.0 0 1 0.0 0 5 5 1 3 0 3 2 6
+p676
+aVGrant Long VAN 11/26/2000 VAN @ BOS W 22 14 7 13 53.8 0 0 - 0 1 0.0 4 3 7 0 1 1 1 5 4
+p677
+aVOthella Harrington VAN 11/24/2000 VAN @ DET L 30 9 3 10 30.0 0 0 - 3 5 60.0 3 5 8 1 0 0 3 1 -15
+p678
+aVGrant Long VAN 11/24/2000 VAN @ DET L 18 9 4 5 80.0 1 1 100.0 0 2 0.0 0 0 0 1 1 0 1 3 -10
+p679
+aVTony Massenburg VAN 11/24/2000 VAN @ DET L 3 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 0 0 0 1 1 -4
+p680
+aVShareef Abdur-Rahim VAN 11/24/2000 VAN @ DET L 34 29 9 15 60.0 0 0 - 11 12 91.7 4 8 12 1 0 0 5 5 -7
+p681
+aVMike Bibby VAN 11/24/2000 VAN @ DET L 37 11 4 10 40.0 1 2 50.0 2 2 100.0 2 1 3 9 2 0 1 0 -8
+p682
+aVDoug West VAN 11/24/2000 VAN @ DET L 17 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 3 -22
+p683
+aVStromile Swift VAN 11/24/2000 VAN @ DET L 11 3 1 2 50.0 0 0 - 1 4 25.0 0 0 0 0 1 0 2 2 -6
+p684
+aVIke Austin VAN 11/24/2000 VAN @ DET L 12 6 3 10 30.0 0 1 0.0 0 0 - 1 1 2 0 0 0 2 3 -2
+p685
+aVKevin Edwards VAN 11/24/2000 VAN @ DET L 18 3 1 6 16.7 1 2 50.0 0 0 - 1 0 1 2 2 0 1 3 -7
+p686
+aVDamon Jones VAN 11/24/2000 VAN @ DET L 32 16 6 14 42.9 4 9 44.4 0 0 - 0 1 1 7 2 0 1 2 -8
+p687
+aVBryant Reeves VAN 11/24/2000 VAN @ DET L 13 3 1 2 50.0 0 0 - 1 2 50.0 1 2 3 0 0 1 3 2 -21
+p688
+aVMahmoud Abdul-Rauf VAN 11/24/2000 VAN @ DET L 15 0 0 5 0.0 0 0 - 0 0 - 1 1 2 4 0 0 0 0 0
+p689
+aVBryant Reeves VAN 11/22/2000 VAN @ MIN L 18 2 1 5 20.0 0 0 - 0 0 - 0 0 0 1 2 0 2 2 -9
+p690
+aVDamon Jones VAN 11/22/2000 VAN @ MIN L 14 10 4 6 66.7 2 3 66.7 0 0 - 0 0 0 3 0 0 1 1 -5
+p691
+aVKevin Edwards VAN 11/22/2000 VAN @ MIN L 37 13 6 12 50.0 1 1 100.0 0 0 - 0 5 5 4 1 0 3 3 -2
+p692
+aVShareef Abdur-Rahim VAN 11/22/2000 VAN @ MIN L 40 22 8 14 57.1 0 0 - 6 7 85.7 1 9 10 3 0 1 2 4 -3
+p693
+aVIke Austin VAN 11/22/2000 VAN @ MIN L 11 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 3 0 0 0 1 2
+p694
+aVOthella Harrington VAN 11/22/2000 VAN @ MIN L 25 0 0 4 0.0 0 0 - 0 0 - 0 4 4 3 0 1 5 4 0
+p695
+aVStromile Swift VAN 11/22/2000 VAN @ MIN L 22 10 5 8 62.5 0 0 - 0 1 0.0 1 2 3 1 0 0 0 2 -1
+p696
+aVGrant Long VAN 11/22/2000 VAN @ MIN L 19 4 2 4 50.0 0 0 - 0 0 - 1 3 4 2 0 0 0 2 5
+p697
+aVDoug West VAN 11/22/2000 VAN @ MIN L 9 0 0 1 0.0 0 0 - 0 0 - 2 0 2 2 0 0 2 1 4
+p698
+aVTony Massenburg VAN 11/22/2000 VAN @ MIN L 6 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 1 1 2 -1
+p699
+aVMike Bibby VAN 11/22/2000 VAN @ MIN L 40 37 14 18 77.8 1 1 100.0 8 8 100.0 0 6 6 7 0 0 3 0 5
+p700
+aVDamon Jones VAN 11/20/2000 VAN vs. DEN L 21 8 3 9 33.3 1 5 20.0 1 1 100.0 0 0 0 4 1 0 1 1 5
+p701
+aVOthella Harrington VAN 11/20/2000 VAN vs. DEN L 29 13 6 10 60.0 0 0 - 1 2 50.0 1 3 4 0 0 0 6 2 -2
+p702
+aVDoug West VAN 11/20/2000 VAN vs. DEN L 7 2 1 2 50.0 0 0 - 0 0 - 0 0 0 2 1 0 0 2 -2
+p703
+aVKevin Edwards VAN 11/20/2000 VAN vs. DEN L 36 13 5 10 50.0 0 2 0.0 3 4 75.0 1 3 4 3 2 0 1 2 -6
+p704
+aVStromile Swift VAN 11/20/2000 VAN vs. DEN L 13 8 3 5 60.0 0 0 - 2 3 66.7 0 1 1 0 0 0 0 4 5
+p705
+aVShareef Abdur-Rahim VAN 11/20/2000 VAN vs. DEN L 43 19 6 20 30.0 0 4 0.0 7 8 87.5 3 11 14 3 2 1 3 4 3
+p706
+aVBryant Reeves VAN 11/20/2000 VAN vs. DEN L 21 6 2 8 25.0 0 0 - 2 3 66.7 6 7 13 1 0 0 0 3 0
+p707
+aVIke Austin VAN 11/20/2000 VAN vs. DEN L 16 1 0 1 0.0 0 0 - 1 2 50.0 2 1 3 1 0 1 0 1 -9
+p708
+aVMike Bibby VAN 11/20/2000 VAN vs. DEN L 39 18 7 16 43.8 2 4 50.0 2 2 100.0 1 4 5 6 1 1 4 1 -6
+p709
+aVGrant Long VAN 11/20/2000 VAN vs. DEN L 15 4 2 3 66.7 0 0 - 0 0 - 1 4 5 2 0 0 1 4 -3
+p710
+aVKevin Edwards VAN 11/18/2000 VAN vs. DAL L 22 13 6 7 85.7 0 0 - 1 2 50.0 0 0 0 2 2 1 2 2 -6
+p711
+aVOthella Harrington VAN 11/18/2000 VAN vs. DAL L 38 23 8 20 40.0 0 0 - 7 8 87.5 1 5 6 3 1 0 3 3 -6
+p712
+aVMichael Dickerson VAN 11/18/2000 VAN vs. DAL L 27 18 7 12 58.3 1 2 50.0 3 5 60.0 4 2 6 1 3 1 1 1 1
+p713
+aVBryant Reeves VAN 11/18/2000 VAN vs. DAL L 16 3 1 3 33.3 0 0 - 1 2 50.0 1 4 5 0 0 0 2 2 3
+p714
+aVMike Bibby VAN 11/18/2000 VAN vs. DAL L 42 7 3 11 27.3 1 3 33.3 0 1 0.0 2 0 2 11 2 0 3 2 -13
+p715
+aVMahmoud Abdul-Rauf VAN 11/18/2000 VAN vs. DAL L 5 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 3 7
+p716
+aVStromile Swift VAN 11/18/2000 VAN vs. DAL L 3 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 2 4
+p717
+aVGrant Long VAN 11/18/2000 VAN vs. DAL L 33 10 5 7 71.4 0 0 - 0 0 - 1 3 4 2 3 0 2 2 -5
+p718
+aVDamon Jones VAN 11/18/2000 VAN vs. DAL L 26 8 3 8 37.5 2 6 33.3 0 0 - 0 0 0 6 0 0 1 1 -3
+p719
+aVIke Austin VAN 11/18/2000 VAN vs. DAL L 26 4 2 8 25.0 0 0 - 0 0 - 0 10 10 3 0 1 1 0 4
+p720
+aVTony Massenburg VAN 11/18/2000 VAN vs. DAL L 2 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 0 1 -1
+p721
+aVKevin Edwards VAN 11/16/2000 VAN vs. LAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -5
+p722
+aVBryant Reeves VAN 11/16/2000 VAN vs. LAC L 18 2 1 5 20.0 0 0 - 0 0 - 0 4 4 1 1 1 0 4 -9
+p723
+aVDamon Jones VAN 11/16/2000 VAN vs. LAC L 11 1 0 1 0.0 0 1 0.0 1 2 50.0 0 0 0 2 0 0 1 0 1
+p724
+aVStromile Swift VAN 11/16/2000 VAN vs. LAC L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -9
+p725
+aVMike Bibby VAN 11/16/2000 VAN vs. LAC L 37 11 5 13 38.5 1 3 33.3 0 0 - 1 1 2 7 0 0 3 3 -5
+p726
+aVShareef Abdur-Rahim VAN 11/16/2000 VAN vs. LAC L 34 15 4 14 28.6 0 1 0.0 7 9 77.8 1 6 7 4 1 0 1 3 1
+p727
+aVOthella Harrington VAN 11/16/2000 VAN vs. LAC L 39 14 7 12 58.3 0 1 0.0 0 0 - 5 5 10 0 1 0 3 3 9
+p728
+aVIke Austin VAN 11/16/2000 VAN vs. LAC L 30 9 3 7 42.9 0 1 0.0 3 4 75.0 2 7 9 1 2 1 1 5 5
+p729
+aVMichael Dickerson VAN 11/16/2000 VAN vs. LAC L 43 16 6 13 46.2 1 2 50.0 3 4 75.0 1 4 5 4 1 1 2 2 1
+p730
+aVGrant Long VAN 11/16/2000 VAN vs. LAC L 20 4 1 4 25.0 0 0 - 2 2 100.0 3 3 6 0 1 0 0 2 -9
+p731
+aVShareef Abdur-Rahim VAN 11/11/2000 VAN @ SAS L 34 11 4 11 36.4 0 0 - 3 4 75.0 2 9 11 3 2 0 3 4 -26
+p732
+aVGrant Long VAN 11/11/2000 VAN @ SAS L 16 2 1 2 50.0 0 0 - 0 0 - 1 2 3 0 1 0 0 3 8
+p733
+aVBryant Reeves VAN 11/11/2000 VAN @ SAS L 29 2 1 3 33.3 0 0 - 0 0 - 0 1 1 0 0 1 0 3 -22
+p734
+aVOthella Harrington VAN 11/11/2000 VAN @ SAS L 20 10 5 10 50.0 0 0 - 0 0 - 1 4 5 0 0 0 0 5 -10
+p735
+aVStromile Swift VAN 11/11/2000 VAN @ SAS L 22 14 5 10 50.0 0 0 - 4 5 80.0 1 3 4 0 2 2 0 2 4
+p736
+aVKevin Edwards VAN 11/11/2000 VAN @ SAS L 13 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 0 1 0 0 0 1
+p737
+aVIke Austin VAN 11/11/2000 VAN @ SAS L 16 3 1 7 14.3 1 1 100.0 0 0 - 2 2 4 3 1 0 0 1 9
+p738
+aVDamon Jones VAN 11/11/2000 VAN @ SAS L 15 6 2 6 33.3 2 5 40.0 0 0 - 0 0 0 4 1 0 0 0 9
+p739
+aVMike Bibby VAN 11/11/2000 VAN @ SAS L 37 11 4 13 30.8 0 2 0.0 3 4 75.0 0 5 5 8 3 0 4 1 -22
+p740
+aVTony Massenburg VAN 11/11/2000 VAN @ SAS L 4 0 0 3 0.0 0 0 - 0 0 - 2 1 3 0 0 1 1 1 -2
+p741
+aVMichael Dickerson VAN 11/11/2000 VAN @ SAS L 35 18 8 19 42.1 2 3 66.7 0 3 0.0 1 4 5 1 1 0 3 3 -14
+p742
+aVKevin Edwards VAN 11/09/2000 VAN @ HOU L 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p743
+aVShareef Abdur-Rahim VAN 11/09/2000 VAN @ HOU L 39 17 7 15 46.7 0 0 - 3 4 75.0 1 7 8 3 2 0 4 4 -9
+p744
+aVStromile Swift VAN 11/09/2000 VAN @ HOU L 4 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 3 -2
+p745
+aVBryant Reeves VAN 11/09/2000 VAN @ HOU L 24 9 4 6 66.7 0 0 - 1 2 50.0 1 3 4 0 1 0 1 3 2
+p746
+aVOthella Harrington VAN 11/09/2000 VAN @ HOU L 37 12 3 9 33.3 0 0 - 6 6 100.0 3 1 4 1 0 1 4 5 0
+p747
+aVDamon Jones VAN 11/09/2000 VAN @ HOU L 15 8 3 5 60.0 2 3 66.7 0 0 - 0 0 0 1 0 0 1 1 -2
+p748
+aVGrant Long VAN 11/09/2000 VAN @ HOU L 18 4 1 1 100.0 0 0 - 2 2 100.0 1 3 4 0 0 0 2 1 -7
+p749
+aVIke Austin VAN 11/09/2000 VAN @ HOU L 18 2 1 5 20.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -4
+p750
+aVMike Bibby VAN 11/09/2000 VAN @ HOU L 38 10 5 12 41.7 0 2 0.0 0 0 - 0 5 5 6 2 0 5 2 -6
+p751
+aVMichael Dickerson VAN 11/09/2000 VAN @ HOU L 41 16 7 12 58.3 2 3 66.7 0 0 - 1 2 3 2 0 0 1 4 -4
+p752
+aVDamon Jones VAN 11/08/2000 VAN @ DAL W 23 5 2 5 40.0 1 4 25.0 0 0 - 0 3 3 3 1 0 1 1 11
+p753
+aVMichael Dickerson VAN 11/08/2000 VAN @ DAL W 20 9 4 8 50.0 0 1 0.0 1 1 100.0 1 2 3 1 0 3 3 5 15
+p754
+aVMike Bibby VAN 11/08/2000 VAN @ DAL W 31 9 3 8 37.5 0 2 0.0 3 4 75.0 0 6 6 6 0 0 4 2 12
+p755
+aVGrant Long VAN 11/08/2000 VAN @ DAL W 21 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 2 1 0 1 2 9
+p756
+aVIke Austin VAN 11/08/2000 VAN @ DAL W 18 9 3 6 50.0 0 1 0.0 3 3 100.0 2 3 5 1 1 1 1 3 13
+p757
+aVStromile Swift VAN 11/08/2000 VAN @ DAL W 6 7 3 4 75.0 0 0 - 1 2 50.0 1 1 2 0 0 0 0 3 3
+p758
+aVShareef Abdur-Rahim VAN 11/08/2000 VAN @ DAL W 34 22 7 13 53.8 1 1 100.0 7 7 100.0 2 10 12 2 3 0 3 2 24
+p759
+aVKevin Edwards VAN 11/08/2000 VAN @ DAL W 25 8 3 6 50.0 0 1 0.0 2 3 66.7 1 4 5 3 1 1 3 3 15
+p760
+aVOthella Harrington VAN 11/08/2000 VAN @ DAL W 36 21 8 15 53.3 0 0 - 5 7 71.4 3 6 9 0 0 0 0 4 23
+p761
+aVBryant Reeves VAN 11/08/2000 VAN @ DAL W 25 6 3 8 37.5 0 0 - 0 0 - 2 3 5 2 1 0 3 2 15
+p762
+aVKevin Edwards VAN 11/06/2000 VAN vs. ATL W 15 9 1 5 20.0 0 0 - 7 8 87.5 1 1 2 1 1 0 0 0 17
+p763
+aVMichael Dickerson VAN 11/06/2000 VAN vs. ATL W 33 14 4 13 30.8 1 3 33.3 5 8 62.5 0 5 5 2 1 2 2 4 -7
+p764
+aVOthella Harrington VAN 11/06/2000 VAN vs. ATL W 37 18 5 13 38.5 0 0 - 8 11 72.7 4 4 8 0 1 0 4 5 2
+p765
+aVStromile Swift VAN 11/06/2000 VAN vs. ATL W 10 6 3 6 50.0 0 0 - 0 2 0.0 1 4 5 0 0 1 0 0 4
+p766
+aVGrant Long VAN 11/06/2000 VAN vs. ATL W 13 6 2 4 50.0 0 0 - 2 4 50.0 3 3 6 1 2 0 0 1 12
+p767
+aVMahmoud Abdul-Rauf VAN 11/06/2000 VAN vs. ATL W 6 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -6
+p768
+aVDamon Jones VAN 11/06/2000 VAN vs. ATL W 5 2 1 2 50.0 0 1 0.0 0 0 - 1 0 1 1 0 0 0 0 8
+p769
+aVBryant Reeves VAN 11/06/2000 VAN vs. ATL W 19 2 1 5 20.0 0 0 - 0 0 - 1 2 3 0 0 0 0 3 -4
+p770
+aVShareef Abdur-Rahim VAN 11/06/2000 VAN vs. ATL W 39 18 6 12 50.0 0 1 0.0 6 6 100.0 2 4 6 5 2 1 3 2 3
+p771
+aVIke Austin VAN 11/06/2000 VAN vs. ATL W 25 9 4 8 50.0 0 0 - 1 2 50.0 1 8 9 4 1 0 2 4 13
+p772
+aVMike Bibby VAN 11/06/2000 VAN vs. ATL W 37 13 4 10 40.0 0 1 0.0 5 6 83.3 0 2 2 6 3 0 3 3 8
+p773
+aVOthella Harrington VAN 11/04/2000 VAN vs. LAL L 25 10 4 6 66.7 0 0 - 2 2 100.0 1 4 5 0 0 0 3 4 -12
+p774
+aVGrant Long VAN 11/04/2000 VAN vs. LAL L 20 3 0 2 0.0 0 1 0.0 3 4 75.0 0 0 0 0 3 1 2 4 8
+p775
+aVMichael Dickerson VAN 11/04/2000 VAN vs. LAL L 36 5 2 10 20.0 0 3 0.0 1 2 50.0 1 0 1 5 2 0 4 4 -9
+p776
+aVShareef Abdur-Rahim VAN 11/04/2000 VAN vs. LAL L 34 24 9 16 56.3 0 1 0.0 6 7 85.7 1 8 9 5 0 0 3 4 -13
+p777
+aVMike Bibby VAN 11/04/2000 VAN vs. LAL L 35 23 10 16 62.5 3 4 75.0 0 0 - 1 5 6 8 0 0 4 2 -4
+p778
+aVKevin Edwards VAN 11/04/2000 VAN vs. LAL L 12 8 1 4 25.0 0 0 - 6 6 100.0 1 1 2 0 1 0 2 0 0
+p779
+aVBryant Reeves VAN 11/04/2000 VAN vs. LAL L 27 4 1 5 20.0 0 0 - 2 2 100.0 1 6 7 1 0 0 0 6 -12
+p780
+aVDamon Jones VAN 11/04/2000 VAN vs. LAL L 25 9 3 10 30.0 3 8 37.5 0 0 - 0 3 3 2 0 0 1 1 3
+p781
+aVIke Austin VAN 11/04/2000 VAN vs. LAL L 18 0 0 5 0.0 0 0 - 0 0 - 0 1 1 2 0 1 0 2 2
+p782
+aVStromile Swift VAN 11/04/2000 VAN vs. LAL L 7 3 1 2 50.0 0 0 - 1 2 50.0 0 1 1 0 0 0 0 0 -8
+p783
+aVKevin Edwards VAN 11/02/2000 VAN @ LAC W 13 7 1 2 50.0 0 0 - 5 5 100.0 0 1 1 5 2 0 0 1 0
+p784
+aVShareef Abdur-Rahim VAN 11/02/2000 VAN @ LAC W 33 16 5 13 38.5 0 1 0.0 6 6 100.0 3 4 7 4 2 0 3 4 1
+p785
+aVOthella Harrington VAN 11/02/2000 VAN @ LAC W 30 18 9 13 69.2 0 0 - 0 0 - 5 8 13 1 2 1 0 0 18
+p786
+aVTony Massenburg VAN 11/02/2000 VAN @ LAC W 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p787
+aVMike Bibby VAN 11/02/2000 VAN @ LAC W 39 11 5 17 29.4 0 4 0.0 1 2 50.0 0 2 2 5 1 0 3 1 15
+p788
+aVDamon Jones VAN 11/02/2000 VAN @ LAC W 9 3 1 3 33.3 1 2 50.0 0 0 - 0 1 1 0 0 0 0 0 -7
+p789
+aVBryant Reeves VAN 11/02/2000 VAN @ LAC W 29 8 3 7 42.9 0 0 - 2 2 100.0 3 2 5 2 0 0 2 5 3
+p790
+aVMichael Dickerson VAN 11/02/2000 VAN @ LAC W 36 20 8 17 47.1 4 6 66.7 0 0 - 0 1 1 5 3 0 3 3 9
+p791
+aVIke Austin VAN 11/02/2000 VAN @ LAC W 13 4 2 8 25.0 0 0 - 0 0 - 0 1 1 0 0 0 2 3 1
+p792
+aVGrant Long VAN 11/02/2000 VAN @ LAC W 23 5 0 3 0.0 0 0 - 5 6 83.3 4 0 4 1 2 0 1 3 -1
+p793
+aVStromile Swift VAN 11/02/2000 VAN @ LAC W 10 7 2 4 50.0 0 0 - 3 4 75.0 3 1 4 0 0 1 0 2 -2
+p794
+aVStromile Swift VAN 10/31/2000 VAN vs. SEA W 9 0 0 1 0.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 7
+p795
+aVDamon Jones VAN 10/31/2000 VAN vs. SEA W 7 3 1 4 25.0 1 2 50.0 0 0 - 1 1 2 1 0 0 0 0 0
+p796
+aVMike Bibby VAN 10/31/2000 VAN vs. SEA W 41 15 7 17 41.2 0 2 0.0 1 3 33.3 0 10 10 9 3 0 0 2 6
+p797
+aVKevin Edwards VAN 10/31/2000 VAN vs. SEA W 13 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 2 -4
+p798
+aVShareef Abdur-Rahim VAN 10/31/2000 VAN vs. SEA W 42 27 12 16 75.0 0 1 0.0 3 6 50.0 1 6 7 7 3 1 6 3 3
+p799
+aVIke Austin VAN 10/31/2000 VAN vs. SEA W 11 9 4 5 80.0 1 1 100.0 0 0 - 0 3 3 3 1 1 0 2 5
+p800
+aVOthella Harrington VAN 10/31/2000 VAN vs. SEA W 30 4 2 9 22.2 0 0 - 0 0 - 4 2 6 4 0 1 1 2 2
+p801
+aVGrant Long VAN 10/31/2000 VAN vs. SEA W 16 5 2 5 40.0 0 0 - 1 2 50.0 4 1 5 1 0 0 0 3 5
+p802
+aVMichael Dickerson VAN 10/31/2000 VAN vs. SEA W 39 25 9 26 34.6 2 8 25.0 5 9 55.6 2 3 5 3 3 2 2 5 8
+p803
+aVBryant Reeves VAN 10/31/2000 VAN vs. SEA W 33 4 1 4 25.0 0 0 - 2 6 33.3 1 11 12 0 1 1 1 2 -2
+p804
+a.

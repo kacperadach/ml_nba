@@ -1,0 +1,242 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVPatty Mills SAS 05/12/2016 SAS @ OKC L 13 5 2 2 100.0 1 1 100.0 0 0 - 0 0 0 3 0 0 2 0 -8
+p2
+aVManu Ginobili SAS 05/12/2016 SAS @ OKC L 23 5 1 6 16.7 1 3 33.3 2 2 100.0 0 1 1 2 0 0 1 6 -19
+p3
+aVDanny Green SAS 05/12/2016 SAS @ OKC L 31 9 3 8 37.5 2 6 33.3 1 2 50.0 0 0 0 0 3 0 0 3 2
+p4
+aVTim Duncan SAS 05/12/2016 SAS @ OKC L 34 19 7 14 50.0 0 0 - 5 6 83.3 2 3 5 0 0 1 2 1 12
+p5
+aVTony Parker SAS 05/12/2016 SAS @ OKC L 23 6 3 6 50.0 0 0 - 0 0 - 0 1 1 3 1 0 2 1 -9
+p6
+aVKawhi Leonard SAS 05/12/2016 SAS @ OKC L 37 22 9 23 39.1 1 4 25.0 3 4 75.0 3 6 9 5 3 0 1 3 -13
+p7
+aVKevin Martin SAS 05/12/2016 SAS @ OKC L 6 0 0 3 0.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 0 1
+p8
+aVBoban Marjanovic SAS 05/12/2016 SAS @ OKC L 7 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 3 -13
+p9
+aVAndre Miller SAS 05/12/2016 SAS @ OKC L 9 2 1 3 33.3 0 1 0.0 0 0 - 2 1 3 4 0 0 0 2 9
+p10
+aVKyle Anderson SAS 05/12/2016 SAS @ OKC L 15 6 2 4 50.0 0 0 - 2 2 100.0 0 1 1 0 0 0 1 0 -7
+p11
+aVDavid West SAS 05/12/2016 SAS @ OKC L 9 5 2 5 40.0 1 1 100.0 0 0 - 1 2 3 0 0 1 1 1 -15
+p12
+aVLaMarcus Aldridge SAS 05/12/2016 SAS @ OKC L 34 18 9 18 50.0 0 0 - 0 0 - 1 13 14 2 0 1 0 1 -10
+p13
+aVManu Ginobili SAS 05/10/2016 SAS vs. OKC L 19 3 1 4 25.0 1 2 50.0 0 0 - 2 0 2 2 0 1 0 1 -5
+p14
+aVPatty Mills SAS 05/10/2016 SAS vs. OKC L 16 4 2 4 50.0 0 1 0.0 0 0 - 0 4 4 1 1 0 0 0 -12
+p15
+aVDavid West SAS 05/10/2016 SAS vs. OKC L 15 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 2 -9
+p16
+aVTim Duncan SAS 05/10/2016 SAS vs. OKC L 28 5 1 6 16.7 0 0 - 3 4 75.0 2 1 3 1 0 2 1 3 4
+p17
+aVKyle Anderson SAS 05/10/2016 SAS vs. OKC L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -12
+p18
+aVTony Parker SAS 05/10/2016 SAS vs. OKC L 32 9 4 12 33.3 0 1 0.0 1 2 50.0 1 3 4 5 1 1 1 4 8
+p19
+aVLaMarcus Aldridge SAS 05/10/2016 SAS vs. OKC L 37 20 6 21 28.6 0 0 - 8 9 88.9 3 6 9 3 2 1 2 3 1
+p20
+aVBoris Diaw SAS 05/10/2016 SAS vs. OKC L 15 2 1 6 16.7 0 1 0.0 0 0 - 0 3 3 1 0 0 2 1 -4
+p21
+aVKawhi Leonard SAS 05/10/2016 SAS vs. OKC L 39 26 12 21 57.1 1 4 25.0 1 2 50.0 1 5 6 4 5 0 1 3 8
+p22
+aVDanny Green SAS 05/10/2016 SAS vs. OKC L 29 20 7 10 70.0 6 9 66.7 0 0 - 0 3 3 1 2 1 0 2 1
+p23
+aVKawhi Leonard SAS 05/08/2016 SAS @ OKC L 40 21 7 19 36.8 0 4 0.0 7 7 100.0 2 4 6 2 4 0 4 2 -19
+p24
+aVLaMarcus Aldridge SAS 05/08/2016 SAS @ OKC L 37 20 8 18 44.4 0 0 - 4 5 80.0 2 4 6 0 0 0 2 2 -13
+p25
+aVBoban Marjanovic SAS 05/08/2016 SAS @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p26
+aVPatty Mills SAS 05/08/2016 SAS @ OKC L 16 4 2 4 50.0 0 2 0.0 0 0 - 0 2 2 3 0 0 0 0 0
+p27
+aVDanny Green SAS 05/08/2016 SAS @ OKC L 28 0 0 3 0.0 0 1 0.0 0 0 - 0 5 5 1 2 0 0 5 -18
+p28
+aVTim Duncan SAS 05/08/2016 SAS @ OKC L 12 0 0 0 - 0 0 - 0 0 - 1 2 3 0 0 0 0 4 -5
+p29
+aVKyle Anderson SAS 05/08/2016 SAS @ OKC L 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 3 0 0 1 4
+p30
+aVKevin Martin SAS 05/08/2016 SAS @ OKC L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p31
+aVTony Parker SAS 05/08/2016 SAS @ OKC L 32 22 10 16 62.5 0 1 0.0 2 2 100.0 0 0 0 3 1 1 4 0 -14
+p32
+aVAndre Miller SAS 05/08/2016 SAS @ OKC L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p33
+aVManu Ginobili SAS 05/08/2016 SAS @ OKC L 22 9 3 5 60.0 1 2 50.0 2 2 100.0 0 2 2 1 1 0 1 0 5
+p34
+aVBoris Diaw SAS 05/08/2016 SAS @ OKC L 21 11 5 8 62.5 1 1 100.0 0 0 - 2 1 3 0 0 0 0 2 -12
+p35
+aVDavid West SAS 05/08/2016 SAS @ OKC L 25 8 4 10 40.0 0 1 0.0 0 0 - 2 5 7 2 0 1 1 5 2
+p36
+aVPatty Mills SAS 05/06/2016 SAS @ OKC W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 2 1 0 0 1 4
+p37
+aVDavid West SAS 05/06/2016 SAS @ OKC W 25 7 3 6 50.0 1 1 100.0 0 0 - 0 2 2 2 0 1 1 3 1
+p38
+aVTim Duncan SAS 05/06/2016 SAS @ OKC W 14 2 1 4 25.0 0 0 - 0 0 - 0 1 1 1 0 1 0 1 4
+p39
+aVTony Parker SAS 05/06/2016 SAS @ OKC W 35 19 7 14 50.0 3 6 50.0 2 2 100.0 0 8 8 5 0 0 1 2 0
+p40
+aVKawhi Leonard SAS 05/06/2016 SAS @ OKC W 39 31 9 17 52.9 3 4 75.0 10 14 71.4 2 9 11 3 1 1 3 3 5
+p41
+aVDanny Green SAS 05/06/2016 SAS @ OKC W 34 8 3 6 50.0 2 5 40.0 0 0 - 0 3 3 1 2 1 0 4 5
+p42
+aVBoris Diaw SAS 05/06/2016 SAS @ OKC W 13 1 0 2 0.0 0 0 - 1 2 50.0 0 1 1 2 1 1 0 0 2
+p43
+aVManu Ginobili SAS 05/06/2016 SAS @ OKC W 19 5 1 4 25.0 0 2 0.0 3 6 50.0 0 3 3 3 2 0 2 2 5
+p44
+aVLaMarcus Aldridge SAS 05/06/2016 SAS @ OKC W 44 24 8 21 38.1 0 0 - 8 10 80.0 2 6 8 0 1 1 1 3 1
+p45
+aVKyle Anderson SAS 05/06/2016 SAS @ OKC W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p46
+aVBoban Marjanovic SAS 05/02/2016 SAS vs. OKC L 3 0 0 0 - 0 0 - 0 0 - 0 2 2 0 0 0 1 1 6
+p47
+aVDanny Green SAS 05/02/2016 SAS vs. OKC L 36 9 3 11 27.3 3 8 37.5 0 0 - 0 2 2 1 4 0 1 1 -7
+p48
+aVKawhi Leonard SAS 05/02/2016 SAS vs. OKC L 36 14 7 18 38.9 0 3 0.0 0 2 0.0 1 6 7 3 2 2 2 3 11
+p49
+aVBoris Diaw SAS 05/02/2016 SAS vs. OKC L 8 2 1 2 50.0 0 1 0.0 0 0 - 0 0 0 1 0 0 0 0 -1
+p50
+aVTim Duncan SAS 05/02/2016 SAS vs. OKC L 28 2 1 8 12.5 0 0 - 0 0 - 2 7 9 2 0 0 1 3 -2
+p51
+aVLaMarcus Aldridge SAS 05/02/2016 SAS vs. OKC L 43 41 15 21 71.4 1 1 100.0 10 10 100.0 3 5 8 3 0 2 0 0 -4
+p52
+aVPatty Mills SAS 05/02/2016 SAS vs. OKC L 21 5 2 9 22.2 1 6 16.7 0 0 - 0 2 2 2 0 0 1 0 15
+p53
+aVDavid West SAS 05/02/2016 SAS vs. OKC L 11 6 3 8 37.5 0 0 - 0 0 - 1 2 3 0 1 1 1 3 -5
+p54
+aVManu Ginobili SAS 05/02/2016 SAS vs. OKC L 22 11 5 8 62.5 1 2 50.0 0 0 - 2 1 3 1 2 1 2 2 1
+p55
+aVTony Parker SAS 05/02/2016 SAS vs. OKC L 27 7 3 9 33.3 0 2 0.0 1 1 100.0 0 1 1 6 1 0 1 1 -14
+p56
+aVKyle Anderson SAS 05/02/2016 SAS vs. OKC L 5 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -5
+p57
+aVPatty Mills SAS 04/30/2016 SAS vs. OKC W 10 3 1 4 25.0 0 2 0.0 1 3 33.3 0 1 1 2 1 0 1 0 13
+p58
+aVBoris Diaw SAS 04/30/2016 SAS vs. OKC W 18 6 3 4 75.0 0 0 - 0 0 - 0 4 4 4 0 0 1 1 6
+p59
+aVManu Ginobili SAS 04/30/2016 SAS vs. OKC W 11 6 1 2 50.0 1 1 100.0 3 3 100.0 0 1 1 5 0 0 0 1 13
+p60
+aVDavid West SAS 04/30/2016 SAS vs. OKC W 19 5 2 4 50.0 0 0 - 1 2 50.0 0 3 3 2 0 1 0 1 5
+p61
+aVLaMarcus Aldridge SAS 04/30/2016 SAS vs. OKC W 30 38 18 23 78.3 1 1 100.0 1 1 100.0 1 5 6 1 0 2 2 1 30
+p62
+aVDanny Green SAS 04/30/2016 SAS vs. OKC W 26 18 6 7 85.7 5 6 83.3 1 1 100.0 0 4 4 1 1 3 1 2 34
+p63
+aVBoban Marjanovic SAS 04/30/2016 SAS vs. OKC W 8 4 1 2 50.0 0 0 - 2 2 100.0 3 2 5 2 0 2 1 1 -5
+p64
+aVKevin Martin SAS 04/30/2016 SAS vs. OKC W 14 2 1 7 14.3 0 1 0.0 0 0 - 0 0 0 1 1 0 1 1 -4
+p65
+aVTony Parker SAS 04/30/2016 SAS vs. OKC W 27 2 1 3 33.3 0 0 - 0 0 - 0 4 4 12 0 0 0 1 27
+p66
+aVKawhi Leonard SAS 04/30/2016 SAS vs. OKC W 22 25 10 13 76.9 1 2 50.0 4 4 100.0 0 5 5 5 0 0 1 3 20
+p67
+aVAndre Miller SAS 04/30/2016 SAS vs. OKC W 11 5 2 3 66.7 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 -8
+p68
+aVKyle Anderson SAS 04/30/2016 SAS vs. OKC W 23 2 1 5 20.0 0 1 0.0 0 0 - 1 6 7 2 2 1 0 2 1
+p69
+aVTim Duncan SAS 04/30/2016 SAS vs. OKC W 21 8 4 7 57.1 0 0 - 0 2 0.0 0 2 2 2 0 1 0 1 28
+p70
+aVBoban Marjanovic SAS 04/24/2016 SAS @ MEM W 7 8 2 2 100.0 0 0 - 4 5 80.0 0 3 3 0 0 0 0 2 4
+p71
+aVBoris Diaw SAS 04/24/2016 SAS @ MEM W 22 7 2 7 28.6 1 1 100.0 2 2 100.0 0 2 2 3 0 0 1 1 19
+p72
+aVTony Parker SAS 04/24/2016 SAS @ MEM W 21 16 6 11 54.5 1 3 33.3 3 4 75.0 0 0 0 2 0 0 2 2 12
+p73
+aVKyle Anderson SAS 04/24/2016 SAS @ MEM W 21 5 2 6 33.3 1 2 50.0 0 0 - 0 4 4 3 0 0 1 1 3
+p74
+aVDavid West SAS 04/24/2016 SAS @ MEM W 20 11 4 7 57.1 1 3 33.3 2 3 66.7 4 0 4 2 3 1 0 1 6
+p75
+aVManu Ginobili SAS 04/24/2016 SAS @ MEM W 14 7 2 5 40.0 0 1 0.0 3 4 75.0 1 3 4 2 0 0 0 5 17
+p76
+aVTim Duncan SAS 04/24/2016 SAS @ MEM W 19 7 3 5 60.0 0 0 - 1 1 100.0 1 1 2 2 0 3 1 0 5
+p77
+aVJonathon Simmons SAS 04/24/2016 SAS @ MEM W 15 8 3 6 50.0 1 1 100.0 1 2 50.0 2 1 3 1 1 0 0 4 0
+p78
+aVDanny Green SAS 04/24/2016 SAS @ MEM W 18 2 1 3 33.3 0 1 0.0 0 0 - 0 2 2 0 1 0 2 0 0
+p79
+aVPatty Mills SAS 04/24/2016 SAS @ MEM W 20 9 3 8 37.5 3 7 42.9 0 0 - 0 0 0 1 1 0 1 1 5
+p80
+aVKawhi Leonard SAS 04/24/2016 SAS @ MEM W 28 21 6 10 60.0 2 3 66.7 7 7 100.0 3 4 7 4 1 2 2 1 20
+p81
+aVLaMarcus Aldridge SAS 04/24/2016 SAS @ MEM W 26 15 6 11 54.5 0 0 - 3 3 100.0 2 8 10 0 1 0 0 2 15
+p82
+aVAndre Miller SAS 04/24/2016 SAS @ MEM W 9 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p83
+aVKyle Anderson SAS 04/22/2016 SAS @ MEM W 14 4 2 2 100.0 0 0 - 0 1 0.0 0 2 2 1 0 0 1 2 0
+p84
+aVTim Duncan SAS 04/22/2016 SAS @ MEM W 14 6 2 3 66.7 0 0 - 2 2 100.0 0 3 3 2 0 2 1 3 -8
+p85
+aVTony Parker SAS 04/22/2016 SAS @ MEM W 24 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 7 1 0 3 3 -11
+p86
+aVJonathon Simmons SAS 04/22/2016 SAS @ MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p87
+aVDavid West SAS 04/22/2016 SAS @ MEM W 18 4 2 5 40.0 0 0 - 0 2 0.0 2 3 5 2 1 0 0 0 8
+p88
+aVKawhi Leonard SAS 04/22/2016 SAS @ MEM W 42 32 11 22 50.0 6 9 66.7 4 5 80.0 1 6 7 2 4 5 0 0 4
+p89
+aVPatty Mills SAS 04/22/2016 SAS @ MEM W 20 2 1 5 20.0 0 3 0.0 0 0 - 0 1 1 2 1 0 1 0 14
+p90
+aVBoris Diaw SAS 04/22/2016 SAS @ MEM W 21 8 4 7 57.1 0 1 0.0 0 0 - 0 2 2 2 1 1 1 2 16
+p91
+aVDanny Green SAS 04/22/2016 SAS @ MEM W 25 11 4 10 40.0 3 7 42.9 0 0 - 0 4 4 0 1 3 1 2 11
+p92
+aVManu Ginobili SAS 04/22/2016 SAS @ MEM W 27 11 3 5 60.0 3 4 75.0 2 2 100.0 1 2 3 5 1 0 0 4 10
+p93
+aVLaMarcus Aldridge SAS 04/22/2016 SAS @ MEM W 33 16 5 10 50.0 0 0 - 6 7 85.7 3 7 10 1 0 1 1 4 3
+p94
+aVTony Parker SAS 04/19/2016 SAS vs. MEM W 23 6 3 9 33.3 0 1 0.0 0 0 - 0 1 1 4 1 0 1 0 11
+p95
+aVBoban Marjanovic SAS 04/19/2016 SAS vs. MEM W 7 4 1 2 50.0 0 0 - 2 2 100.0 0 2 2 0 0 0 0 2 7
+p96
+aVDanny Green SAS 04/19/2016 SAS vs. MEM W 20 6 2 6 33.3 2 4 50.0 0 0 - 0 5 5 2 2 0 1 0 12
+p97
+aVBoris Diaw SAS 04/19/2016 SAS vs. MEM W 19 6 3 4 75.0 0 0 - 0 0 - 0 2 2 3 0 2 1 2 9
+p98
+aVDavid West SAS 04/19/2016 SAS vs. MEM W 18 6 3 3 100.0 0 0 - 0 0 - 0 4 4 0 1 1 1 1 14
+p99
+aVManu Ginobili SAS 04/19/2016 SAS vs. MEM W 14 8 2 3 66.7 1 2 50.0 3 4 75.0 0 1 1 1 1 0 1 3 9
+p100
+aVPatty Mills SAS 04/19/2016 SAS vs. MEM W 19 16 5 8 62.5 4 6 66.7 2 4 50.0 0 0 0 2 0 0 2 1 8
+p101
+aVAndre Miller SAS 04/19/2016 SAS vs. MEM W 6 2 0 1 0.0 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 0 7
+p102
+aVKyle Anderson SAS 04/19/2016 SAS vs. MEM W 18 4 0 4 0.0 0 0 - 4 4 100.0 0 7 7 0 0 1 1 0 8
+p103
+aVKawhi Leonard SAS 04/19/2016 SAS vs. MEM W 27 13 4 10 40.0 0 0 - 5 5 100.0 0 3 3 0 2 1 1 3 12
+p104
+aVLaMarcus Aldridge SAS 04/19/2016 SAS vs. MEM W 27 10 5 11 45.5 0 0 - 0 0 - 2 6 8 0 0 4 2 1 14
+p105
+aVKevin Martin SAS 04/19/2016 SAS vs. MEM W 17 10 3 4 75.0 2 3 66.7 2 3 66.7 0 1 1 1 0 0 4 4 11
+p106
+aVTim Duncan SAS 04/19/2016 SAS vs. MEM W 26 3 0 1 0.0 0 0 - 3 4 75.0 1 8 9 4 1 1 2 1 8
+p107
+aVManu Ginobili SAS 04/17/2016 SAS vs. MEM W 21 2 1 5 20.0 0 2 0.0 0 0 - 0 7 7 3 1 1 0 1 24
+p108
+aVBoban Marjanovic SAS 04/17/2016 SAS vs. MEM W 10 6 3 5 60.0 0 0 - 0 0 - 0 1 1 1 0 0 1 1 2
+p109
+aVKyle Anderson SAS 04/17/2016 SAS vs. MEM W 15 0 0 1 0.0 0 0 - 0 0 - 1 1 2 1 1 1 0 3 10
+p110
+aVPatty Mills SAS 04/17/2016 SAS vs. MEM W 19 15 4 8 50.0 3 7 42.9 4 4 100.0 0 4 4 2 2 0 0 0 16
+p111
+aVDavid West SAS 04/17/2016 SAS vs. MEM W 17 4 1 3 33.3 0 0 - 2 2 100.0 2 3 5 2 0 0 2 2 17
+p112
+aVKevin Martin SAS 04/17/2016 SAS vs. MEM W 12 10 4 6 66.7 2 3 66.7 0 0 - 0 1 1 1 0 0 1 0 2
+p113
+aVLaMarcus Aldridge SAS 04/17/2016 SAS vs. MEM W 27 17 8 15 53.3 0 0 - 1 1 100.0 3 1 4 0 0 2 1 1 19
+p114
+aVJonathon Simmons SAS 04/17/2016 SAS vs. MEM W 8 3 1 4 25.0 1 2 50.0 0 0 - 1 0 1 1 1 0 1 0 -1
+p115
+aVDanny Green SAS 04/17/2016 SAS vs. MEM W 20 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 3 0 0 1 10
+p116
+aVTony Parker SAS 04/17/2016 SAS vs. MEM W 21 15 6 10 60.0 0 0 - 3 3 100.0 0 1 1 6 0 0 3 1 17
+p117
+aVTim Duncan SAS 04/17/2016 SAS vs. MEM W 22 7 3 4 75.0 0 0 - 1 2 50.0 1 10 11 0 1 2 2 1 22
+p118
+aVKawhi Leonard SAS 04/17/2016 SAS vs. MEM W 29 20 8 13 61.5 3 6 50.0 1 1 100.0 1 1 2 0 4 3 1 0 18
+p119
+aVBoris Diaw SAS 04/17/2016 SAS vs. MEM W 21 4 2 6 33.3 0 1 0.0 0 0 - 0 2 2 5 0 0 0 0 4
+p120
+a.

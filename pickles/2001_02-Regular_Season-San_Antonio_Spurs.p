@@ -1,0 +1,1706 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVDanny Ferry SAS 04/17/2002 SAS @ UTA W 27 10 4 7 57.1 1 2 50.0 1 1 100.0 1 2 3 0 0 2 1 2 -10
+p2
+aVMark Bryant SAS 04/17/2002 SAS @ UTA W 17 5 2 4 50.0 0 0 - 1 2 50.0 1 2 3 0 0 0 1 4 -9
+p3
+aVCharles Smith SAS 04/17/2002 SAS @ UTA W 5 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p4
+aVTim Duncan SAS 04/17/2002 SAS @ UTA W 43 26 9 18 50.0 0 0 - 8 11 72.7 2 14 16 6 0 7 2 4 9
+p5
+aVTony Parker SAS 04/17/2002 SAS @ UTA W 20 8 3 7 42.9 0 0 - 2 2 100.0 1 2 3 1 2 0 3 5 -9
+p6
+aVTerry Porter SAS 04/17/2002 SAS @ UTA W 24 9 3 8 37.5 3 4 75.0 0 0 - 0 3 3 5 2 1 3 2 15
+p7
+aVMalik Rose SAS 04/17/2002 SAS @ UTA W 16 4 2 3 66.7 0 0 - 0 0 - 0 5 5 1 0 0 1 3 13
+p8
+aVAntonio Daniels SAS 04/17/2002 SAS @ UTA W 19 9 2 5 40.0 1 2 50.0 4 6 66.7 0 3 3 1 0 0 0 1 0
+p9
+aVBruce Bowen SAS 04/17/2002 SAS @ UTA W 31 6 2 6 33.3 1 3 33.3 1 2 50.0 1 1 2 3 3 1 1 0 -1
+p10
+aVSteven Smith SAS 04/17/2002 SAS @ UTA W 39 9 4 10 40.0 0 1 0.0 1 1 100.0 0 2 2 1 0 0 2 3 4
+p11
+aVSteven Smith SAS 04/16/2002 SAS vs. PHX W 21 9 3 4 75.0 0 0 - 3 4 75.0 0 2 2 1 1 0 1 1 23
+p12
+aVAmal McCaskill SAS 04/16/2002 SAS vs. PHX W 12 3 1 7 14.3 0 0 - 1 2 50.0 0 4 4 1 0 1 1 0 -11
+p13
+aVTim Duncan SAS 04/16/2002 SAS vs. PHX W 29 24 11 16 68.8 0 0 - 2 3 66.7 4 7 11 4 0 3 2 0 31
+p14
+aVBruce Bowen SAS 04/16/2002 SAS vs. PHX W 20 0 0 2 0.0 0 0 - 0 0 - 0 1 1 2 1 0 2 0 23
+p15
+aVJason Hart SAS 04/16/2002 SAS vs. PHX W 8 6 3 4 75.0 0 1 0.0 0 0 - 0 1 1 1 2 0 1 1 2
+p16
+aVTerry Porter SAS 04/16/2002 SAS vs. PHX W 18 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 2 1 1 1 -3
+p17
+aVAntonio Daniels SAS 04/16/2002 SAS vs. PHX W 30 17 7 10 70.0 2 2 100.0 1 1 100.0 0 3 3 4 2 0 0 0 4
+p18
+aVTony Parker SAS 04/16/2002 SAS vs. PHX W 22 13 6 11 54.5 1 3 33.3 0 0 - 0 3 3 7 1 0 0 0 25
+p19
+aVDanny Ferry SAS 04/16/2002 SAS vs. PHX W 21 0 0 1 0.0 0 1 0.0 0 0 - 0 2 2 1 1 1 0 1 -9
+p20
+aVMalik Rose SAS 04/16/2002 SAS vs. PHX W 26 7 2 9 22.2 0 0 - 3 4 75.0 1 2 3 0 0 0 1 1 15
+p21
+aVMark Bryant SAS 04/16/2002 SAS vs. PHX W 20 8 4 5 80.0 0 0 - 0 0 - 1 4 5 4 1 0 0 4 20
+p22
+aVCharles Smith SAS 04/16/2002 SAS vs. PHX W 11 6 3 5 60.0 0 0 - 0 0 - 0 1 1 0 1 1 0 0 0
+p23
+aVJason Hart SAS 04/13/2002 SAS @ MEM W 16 6 1 3 33.3 0 0 - 4 4 100.0 0 1 1 1 0 0 1 2 -3
+p24
+aVTerry Porter SAS 04/13/2002 SAS @ MEM W 8 0 0 0 - 0 0 - 0 0 - 0 1 1 1 1 0 0 0 4
+p25
+aVSteven Smith SAS 04/13/2002 SAS @ MEM W 22 9 3 6 50.0 2 3 66.7 1 1 100.0 0 1 1 5 0 0 2 2 18
+p26
+aVAntonio Daniels SAS 04/13/2002 SAS @ MEM W 26 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 7 0 0 1 1 3
+p27
+aVDanny Ferry SAS 04/13/2002 SAS @ MEM W 20 6 3 8 37.5 0 2 0.0 0 0 - 0 3 3 2 1 0 1 2 7
+p28
+aVMark Bryant SAS 04/13/2002 SAS @ MEM W 22 12 6 10 60.0 0 0 - 0 0 - 3 2 5 0 2 0 0 4 2
+p29
+aVMalik Rose SAS 04/13/2002 SAS @ MEM W 28 26 11 13 84.6 0 0 - 4 7 57.1 4 7 11 1 1 0 2 2 26
+p30
+aVBruce Bowen SAS 04/13/2002 SAS @ MEM W 29 7 3 5 60.0 0 0 - 1 2 50.0 1 1 2 2 0 0 1 1 3
+p31
+aVTony Parker SAS 04/13/2002 SAS @ MEM W 24 9 4 8 50.0 0 2 0.0 1 1 100.0 1 0 1 6 1 0 0 0 20
+p32
+aVTim Duncan SAS 04/13/2002 SAS @ MEM W 31 30 12 17 70.6 1 1 100.0 5 5 100.0 1 13 14 7 2 4 2 3 26
+p33
+aVCharles Smith SAS 04/13/2002 SAS @ MEM W 14 2 1 4 25.0 0 0 - 0 0 - 2 1 3 5 1 0 1 4 -1
+p34
+aVSteven Smith SAS 04/12/2002 SAS @ DET W 26 16 7 11 63.6 2 3 66.7 0 0 - 0 0 0 2 1 0 0 0 8
+p35
+aVMark Bryant SAS 04/12/2002 SAS @ DET W 7 0 0 3 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -13
+p36
+aVDanny Ferry SAS 04/12/2002 SAS @ DET W 10 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 2 5
+p37
+aVMalik Rose SAS 04/12/2002 SAS @ DET W 18 11 5 7 71.4 0 0 - 1 1 100.0 1 3 4 2 0 0 0 3 3
+p38
+aVTerry Porter SAS 04/12/2002 SAS @ DET W 13 2 1 5 20.0 0 3 0.0 0 0 - 0 2 2 1 0 0 1 0 -13
+p39
+aVDavid Robinson SAS 04/12/2002 SAS @ DET W 31 10 5 9 55.6 0 0 - 0 0 - 2 8 10 1 1 1 2 3 25
+p40
+aVCharles Smith SAS 04/12/2002 SAS @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p41
+aVJason Hart SAS 04/12/2002 SAS @ DET W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p42
+aVAntonio Daniels SAS 04/12/2002 SAS @ DET W 21 7 3 9 33.3 0 0 - 1 2 50.0 0 1 1 1 1 0 0 0 4
+p43
+aVTony Parker SAS 04/12/2002 SAS @ DET W 34 14 6 9 66.7 0 0 - 2 4 50.0 0 3 3 10 2 0 3 1 25
+p44
+aVBruce Bowen SAS 04/12/2002 SAS @ DET W 39 4 2 3 66.7 0 1 0.0 0 0 - 1 1 2 3 4 2 1 2 3
+p45
+aVTim Duncan SAS 04/12/2002 SAS @ DET W 39 32 14 25 56.0 0 0 - 4 6 66.7 5 6 11 4 2 2 6 2 7
+p46
+aVMark Bryant SAS 04/10/2002 SAS vs. DEN W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -6
+p47
+aVDavid Robinson SAS 04/10/2002 SAS vs. DEN W 18 11 3 5 60.0 0 0 - 5 8 62.5 3 2 5 0 5 1 1 1 11
+p48
+aVCharles Smith SAS 04/10/2002 SAS vs. DEN W 14 4 2 7 28.6 0 0 - 0 0 - 2 0 2 2 1 0 1 2 -7
+p49
+aVCherokee Parks SAS 04/10/2002 SAS vs. DEN W 4 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 0 0 1 2 -6
+p50
+aVJason Hart SAS 04/10/2002 SAS vs. DEN W 17 6 3 5 60.0 0 0 - 0 0 - 2 1 3 1 2 1 1 1 -11
+p51
+aVTony Parker SAS 04/10/2002 SAS vs. DEN W 31 11 5 11 45.5 0 5 0.0 1 2 50.0 0 1 1 2 1 0 1 2 19
+p52
+aVSteven Smith SAS 04/10/2002 SAS vs. DEN W 23 4 2 6 33.3 0 2 0.0 0 1 0.0 0 2 2 0 0 0 0 3 9
+p53
+aVBruce Bowen SAS 04/10/2002 SAS vs. DEN W 30 15 5 8 62.5 3 4 75.0 2 4 50.0 3 2 5 4 0 0 0 3 21
+p54
+aVAntonio Daniels SAS 04/10/2002 SAS vs. DEN W 19 4 1 3 33.3 0 1 0.0 2 4 50.0 0 1 1 2 0 0 1 3 -11
+p55
+aVDanny Ferry SAS 04/10/2002 SAS vs. DEN W 15 2 1 3 33.3 0 0 - 0 0 - 2 2 4 2 0 0 1 1 3
+p56
+aVMalik Rose SAS 04/10/2002 SAS vs. DEN W 32 14 5 11 45.5 0 0 - 4 4 100.0 2 5 7 1 1 2 5 4 2
+p57
+aVTim Duncan SAS 04/10/2002 SAS vs. DEN W 30 16 5 9 55.6 0 0 - 6 10 60.0 1 10 11 2 0 1 3 0 16
+p58
+aVTim Duncan SAS 04/08/2002 SAS vs. POR W 40 24 8 14 57.1 0 1 0.0 8 10 80.0 1 7 8 6 1 2 3 4 8
+p59
+aVDanny Ferry SAS 04/08/2002 SAS vs. POR W 18 6 2 4 50.0 1 2 50.0 1 1 100.0 1 2 3 0 1 0 0 2 2
+p60
+aVDavid Robinson SAS 04/08/2002 SAS vs. POR W 29 14 4 6 66.7 0 0 - 6 9 66.7 0 5 5 1 0 4 2 2 15
+p61
+aVAntonio Daniels SAS 04/08/2002 SAS vs. POR W 19 6 1 5 20.0 0 1 0.0 4 4 100.0 1 2 3 3 0 0 2 0 -1
+p62
+aVMalik Rose SAS 04/08/2002 SAS vs. POR W 27 12 3 8 37.5 0 0 - 6 8 75.0 2 4 6 4 0 0 4 2 -1
+p63
+aVTony Parker SAS 04/08/2002 SAS vs. POR W 35 8 3 7 42.9 2 3 66.7 0 0 - 0 2 2 5 1 0 1 0 3
+p64
+aVBruce Bowen SAS 04/08/2002 SAS vs. POR W 32 6 3 5 60.0 0 0 - 0 0 - 0 5 5 1 1 1 1 2 11
+p65
+aVCherokee Parks SAS 04/08/2002 SAS vs. POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 2
+p66
+aVSteven Smith SAS 04/08/2002 SAS vs. POR W 26 19 5 9 55.6 3 5 60.0 6 8 75.0 0 2 2 1 2 0 4 3 12
+p67
+aVJason Hart SAS 04/08/2002 SAS vs. POR W 13 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 2 1 0 0 1 9
+p68
+aVDanny Ferry SAS 04/06/2002 SAS vs. DAL W 23 11 3 5 60.0 3 4 75.0 2 2 100.0 0 1 1 1 0 0 0 4 5
+p69
+aVBruce Bowen SAS 04/06/2002 SAS vs. DAL W 32 10 4 6 66.7 0 1 0.0 2 6 33.3 0 1 1 2 4 0 0 4 -9
+p70
+aVSteven Smith SAS 04/06/2002 SAS vs. DAL W 11 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 1 0 1 4 14
+p71
+aVTim Duncan SAS 04/06/2002 SAS vs. DAL W 44 33 10 20 50.0 0 0 - 13 18 72.2 5 11 16 5 3 3 3 1 1
+p72
+aVMalik Rose SAS 04/06/2002 SAS vs. DAL W 25 5 2 8 25.0 0 0 - 1 2 50.0 3 4 7 0 0 1 3 1 -6
+p73
+aVCharles Smith SAS 04/06/2002 SAS vs. DAL W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 1
+p74
+aVJason Hart SAS 04/06/2002 SAS vs. DAL W 5 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 2 -6
+p75
+aVDavid Robinson SAS 04/06/2002 SAS vs. DAL W 27 9 2 5 40.0 0 0 - 5 8 62.5 3 10 13 1 0 0 2 3 9
+p76
+aVAntonio Daniels SAS 04/06/2002 SAS vs. DAL W 35 13 5 12 41.7 1 3 33.3 2 5 40.0 0 6 6 1 0 0 2 2 -3
+p77
+aVTony Parker SAS 04/06/2002 SAS vs. DAL W 35 8 3 10 30.0 0 1 0.0 2 4 50.0 0 1 1 5 1 1 1 2 4
+p78
+aVBruce Bowen SAS 04/04/2002 SAS @ HOU W 32 12 5 8 62.5 2 2 100.0 0 0 - 0 1 1 0 0 1 1 0 13
+p79
+aVMalik Rose SAS 04/04/2002 SAS @ HOU W 26 9 3 9 33.3 0 0 - 3 4 75.0 3 11 14 2 0 0 1 0 13
+p80
+aVDanny Ferry SAS 04/04/2002 SAS @ HOU W 15 4 1 2 50.0 1 1 100.0 1 1 100.0 0 0 0 2 0 0 0 1 9
+p81
+aVTim Duncan SAS 04/04/2002 SAS @ HOU W 34 22 8 14 57.1 0 0 - 6 6 100.0 5 6 11 5 0 1 1 3 16
+p82
+aVDavid Robinson SAS 04/04/2002 SAS @ HOU W 30 15 5 7 71.4 0 0 - 5 7 71.4 3 4 7 0 1 3 2 2 7
+p83
+aVJason Hart SAS 04/04/2002 SAS @ HOU W 14 4 2 4 50.0 0 0 - 0 0 - 0 1 1 3 0 0 1 3 10
+p84
+aVCharles Smith SAS 04/04/2002 SAS @ HOU W 16 3 1 4 25.0 0 0 - 1 2 50.0 1 2 3 1 0 2 3 0 14
+p85
+aVAntonio Daniels SAS 04/04/2002 SAS @ HOU W 9 7 3 5 60.0 1 1 100.0 0 0 - 0 0 0 0 0 0 0 0 9
+p86
+aVMark Bryant SAS 04/04/2002 SAS @ HOU W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 8
+p87
+aVSteven Smith SAS 04/04/2002 SAS @ HOU W 24 13 5 9 55.6 1 2 50.0 2 2 100.0 0 2 2 1 0 0 2 0 3
+p88
+aVCherokee Parks SAS 04/04/2002 SAS @ HOU W 3 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 0 4
+p89
+aVTony Parker SAS 04/04/2002 SAS @ HOU W 34 13 6 10 60.0 0 2 0.0 1 2 50.0 0 3 3 7 1 0 0 1 14
+p90
+aVDavid Robinson SAS 04/03/2002 SAS vs. SEA W 35 20 9 12 75.0 0 0 - 2 3 66.7 2 7 9 1 1 2 3 3 2
+p91
+aVMalik Rose SAS 04/03/2002 SAS vs. SEA W 15 5 2 6 33.3 0 0 - 1 1 100.0 1 2 3 0 1 0 1 3 -7
+p92
+aVAntonio Daniels SAS 04/03/2002 SAS vs. SEA W 22 4 2 4 50.0 0 1 0.0 0 0 - 0 2 2 3 0 0 1 0 -5
+p93
+aVTim Duncan SAS 04/03/2002 SAS vs. SEA W 46 30 12 26 46.2 0 0 - 6 9 66.7 7 11 18 9 2 2 6 2 9
+p94
+aVDanny Ferry SAS 04/03/2002 SAS vs. SEA W 14 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 -11
+p95
+aVTony Parker SAS 04/03/2002 SAS vs. SEA W 27 2 1 6 16.7 0 4 0.0 0 0 - 0 3 3 5 1 0 2 1 5
+p96
+aVBruce Bowen SAS 04/03/2002 SAS vs. SEA W 37 5 2 5 40.0 1 3 33.3 0 0 - 0 4 4 1 2 1 1 4 6
+p97
+aVJason Hart SAS 04/03/2002 SAS vs. SEA W 6 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 1 2 -2
+p98
+aVSteven Smith SAS 04/03/2002 SAS vs. SEA W 38 19 7 14 50.0 1 4 25.0 4 4 100.0 0 1 1 3 1 0 3 0 13
+p99
+aVSteven Smith SAS 03/31/2002 SAS @ LAL L 28 11 4 11 36.4 2 6 33.3 1 3 33.3 1 4 5 0 1 0 1 4 6
+p100
+aVMalik Rose SAS 03/31/2002 SAS @ LAL L 18 8 4 7 57.1 0 0 - 0 0 - 3 4 7 0 0 1 2 6 -7
+p101
+aVTim Duncan SAS 03/31/2002 SAS @ LAL L 44 26 11 28 39.3 0 0 - 4 4 100.0 1 10 11 8 0 3 4 3 -2
+p102
+aVCherokee Parks SAS 03/31/2002 SAS @ LAL L 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 0
+p103
+aVBruce Bowen SAS 03/31/2002 SAS @ LAL L 45 8 3 9 33.3 0 4 0.0 2 2 100.0 1 3 4 0 1 0 2 3 4
+p104
+aVAntonio Daniels SAS 03/31/2002 SAS @ LAL L 18 6 1 4 25.0 0 1 0.0 4 4 100.0 0 1 1 2 0 0 1 1 -2
+p105
+aVMark Bryant SAS 03/31/2002 SAS @ LAL L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p106
+aVTony Parker SAS 03/31/2002 SAS @ LAL L 33 20 7 13 53.8 2 5 40.0 4 4 100.0 0 1 1 4 3 0 1 1 -4
+p107
+aVDavid Robinson SAS 03/31/2002 SAS @ LAL L 30 7 3 5 60.0 0 0 - 1 2 50.0 2 8 10 0 1 1 3 6 5
+p108
+aVDanny Ferry SAS 03/31/2002 SAS @ LAL L 20 7 2 3 66.7 1 2 50.0 2 2 100.0 1 0 1 0 0 0 0 2 -7
+p109
+aVTony Parker SAS 03/29/2002 SAS @ SEA L 44 9 4 13 30.8 1 3 33.3 0 0 - 1 7 8 4 2 1 2 2 5
+p110
+aVBruce Bowen SAS 03/29/2002 SAS @ SEA L 42 8 4 11 36.4 0 3 0.0 0 0 - 2 4 6 1 2 1 2 4 -7
+p111
+aVAntonio Daniels SAS 03/29/2002 SAS @ SEA L 13 0 0 1 0.0 0 0 - 0 0 - 0 1 1 1 0 0 0 1 -21
+p112
+aVTim Duncan SAS 03/29/2002 SAS @ SEA L 47 25 9 19 47.4 0 0 - 7 7 100.0 2 14 16 4 0 5 5 2 -1
+p113
+aVMalik Rose SAS 03/29/2002 SAS @ SEA L 18 8 2 7 28.6 0 0 - 4 6 66.7 3 0 3 0 0 2 4 4 -10
+p114
+aVCherokee Parks SAS 03/29/2002 SAS @ SEA L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p115
+aVDanny Ferry SAS 03/29/2002 SAS @ SEA L 10 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 1 0
+p116
+aVSteven Smith SAS 03/29/2002 SAS @ SEA L 35 11 4 10 40.0 1 5 20.0 2 2 100.0 0 2 2 5 0 0 1 2 12
+p117
+aVDavid Robinson SAS 03/29/2002 SAS @ SEA L 31 12 5 8 62.5 0 0 - 2 6 33.3 1 3 4 1 1 2 3 2 8
+p118
+aVDanny Ferry SAS 03/27/2002 SAS @ POR L 28 4 2 5 40.0 0 3 0.0 0 0 - 0 1 1 3 1 0 0 5 -4
+p119
+aVTim Duncan SAS 03/27/2002 SAS @ POR L 42 34 14 20 70.0 0 0 - 6 10 60.0 3 8 11 3 1 3 7 4 -10
+p120
+aVTony Parker SAS 03/27/2002 SAS @ POR L 39 15 6 9 66.7 3 4 75.0 0 4 0.0 0 4 4 8 0 0 3 4 1
+p121
+aVMalik Rose SAS 03/27/2002 SAS @ POR L 15 6 2 5 40.0 0 0 - 2 2 100.0 0 4 4 1 0 0 0 4 -1
+p122
+aVSteven Smith SAS 03/27/2002 SAS @ POR L 22 4 1 6 16.7 0 3 0.0 2 2 100.0 0 2 2 2 1 0 2 1 -11
+p123
+aVMark Bryant SAS 03/27/2002 SAS @ POR L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p124
+aVDavid Robinson SAS 03/27/2002 SAS @ POR L 39 14 6 9 66.7 0 0 - 2 2 100.0 3 8 11 2 2 0 2 2 1
+p125
+aVAntonio Daniels SAS 03/27/2002 SAS @ POR L 19 4 2 5 40.0 0 1 0.0 0 0 - 1 0 1 0 0 0 0 1 -8
+p126
+aVBruce Bowen SAS 03/27/2002 SAS @ POR L 36 12 5 11 45.5 2 5 40.0 0 0 - 1 2 3 6 0 1 2 3 7
+p127
+aVCharles Smith SAS 03/25/2002 SAS @ LAC W 22 5 2 6 33.3 0 0 - 1 2 50.0 1 2 3 1 3 0 1 0 -2
+p128
+aVDavid Robinson SAS 03/25/2002 SAS @ LAC W 36 19 8 11 72.7 0 0 - 3 3 100.0 2 3 5 2 3 1 1 3 -6
+p129
+aVBruce Bowen SAS 03/25/2002 SAS @ LAC W 36 12 4 11 36.4 1 4 25.0 3 5 60.0 1 2 3 5 1 1 1 2 3
+p130
+aVTony Parker SAS 03/25/2002 SAS @ LAC W 35 4 1 4 25.0 0 0 - 2 4 50.0 0 3 3 7 1 0 3 4 1
+p131
+aVTim Duncan SAS 03/25/2002 SAS @ LAC W 43 33 13 25 52.0 0 0 - 7 10 70.0 4 9 13 5 0 0 3 3 7
+p132
+aVDanny Ferry SAS 03/25/2002 SAS @ LAC W 27 3 0 4 0.0 0 1 0.0 3 3 100.0 1 4 5 5 1 0 0 1 4
+p133
+aVMalik Rose SAS 03/25/2002 SAS @ LAC W 17 9 4 9 44.4 0 0 - 1 2 50.0 1 3 4 1 0 0 1 1 11
+p134
+aVAntonio Daniels SAS 03/25/2002 SAS @ LAC W 24 6 3 6 50.0 0 2 0.0 0 0 - 0 3 3 2 0 1 0 0 12
+p135
+aVCharles Smith SAS 03/23/2002 SAS vs. MIA W 21 12 5 8 62.5 0 0 - 2 2 100.0 0 1 1 1 2 0 3 3 5
+p136
+aVTony Parker SAS 03/23/2002 SAS vs. MIA W 40 14 6 12 50.0 0 1 0.0 2 6 33.3 0 2 2 8 3 0 3 2 16
+p137
+aVDavid Robinson SAS 03/23/2002 SAS vs. MIA W 29 11 3 8 37.5 0 0 - 5 6 83.3 5 5 10 2 0 0 0 4 12
+p138
+aVMark Bryant SAS 03/23/2002 SAS vs. MIA W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -2
+p139
+aVBruce Bowen SAS 03/23/2002 SAS vs. MIA W 34 7 3 9 33.3 1 3 33.3 0 0 - 1 3 4 0 2 0 4 2 8
+p140
+aVTerry Porter SAS 03/23/2002 SAS vs. MIA W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p141
+aVCherokee Parks SAS 03/23/2002 SAS vs. MIA W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 1 0 -4
+p142
+aVAntonio Daniels SAS 03/23/2002 SAS vs. MIA W 31 10 2 8 25.0 0 4 0.0 6 6 100.0 0 0 0 2 0 0 0 3 5
+p143
+aVDanny Ferry SAS 03/23/2002 SAS vs. MIA W 17 4 2 4 50.0 0 1 0.0 0 0 - 1 3 4 0 0 0 0 1 -2
+p144
+aVTim Duncan SAS 03/23/2002 SAS vs. MIA W 42 23 9 14 64.3 0 0 - 5 7 71.4 0 11 11 0 1 1 0 2 12
+p145
+aVMalik Rose SAS 03/23/2002 SAS vs. MIA W 19 6 3 9 33.3 0 0 - 0 0 - 3 4 7 0 1 0 0 3 2
+p146
+aVTony Parker SAS 03/21/2002 SAS @ DAL W 29 12 5 12 41.7 2 5 40.0 0 0 - 0 3 3 3 0 0 2 4 6
+p147
+aVCharles Smith SAS 03/21/2002 SAS @ DAL W 16 2 1 3 33.3 0 0 - 0 0 - 0 3 3 3 2 0 2 1 -7
+p148
+aVBruce Bowen SAS 03/21/2002 SAS @ DAL W 34 9 4 7 57.1 1 2 50.0 0 0 - 1 4 5 3 1 0 0 0 -2
+p149
+aVAntonio Daniels SAS 03/21/2002 SAS @ DAL W 31 9 4 8 50.0 1 3 33.3 0 2 0.0 0 1 1 3 0 0 1 2 9
+p150
+aVMalik Rose SAS 03/21/2002 SAS @ DAL W 19 8 2 5 40.0 0 0 - 4 6 66.7 3 5 8 1 0 1 2 3 -4
+p151
+aVTerry Porter SAS 03/21/2002 SAS @ DAL W 19 9 3 8 37.5 1 4 25.0 2 2 100.0 0 3 3 1 1 0 0 3 -1
+p152
+aVTim Duncan SAS 03/21/2002 SAS @ DAL W 45 32 12 21 57.1 0 0 - 8 10 80.0 3 11 14 5 1 2 2 4 3
+p153
+aVDanny Ferry SAS 03/21/2002 SAS @ DAL W 16 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 1 2 4
+p154
+aVDavid Robinson SAS 03/21/2002 SAS @ DAL W 32 22 5 12 41.7 0 0 - 12 15 80.0 5 7 12 2 0 1 0 1 7
+p155
+aVAntonio Daniels SAS 03/20/2002 SAS vs. LAL W 28 8 4 8 50.0 0 1 0.0 0 0 - 2 1 3 6 1 0 2 1 7
+p156
+aVTerry Porter SAS 03/20/2002 SAS vs. LAL W 21 4 2 5 40.0 0 1 0.0 0 0 - 0 3 3 6 0 0 4 0 -3
+p157
+aVTony Parker SAS 03/20/2002 SAS vs. LAL W 27 12 4 9 44.4 0 1 0.0 4 4 100.0 0 1 1 5 1 0 2 3 21
+p158
+aVMalik Rose SAS 03/20/2002 SAS vs. LAL W 21 19 7 10 70.0 0 0 - 5 10 50.0 4 3 7 0 3 0 1 1 19
+p159
+aVTim Duncan SAS 03/20/2002 SAS vs. LAL W 30 25 10 20 50.0 0 0 - 5 7 71.4 1 8 9 0 1 0 0 3 25
+p160
+aVMark Bryant SAS 03/20/2002 SAS vs. LAL W 8 4 1 2 50.0 0 0 - 2 2 100.0 0 0 0 0 0 0 1 6 -6
+p161
+aVDavid Robinson SAS 03/20/2002 SAS vs. LAL W 23 14 5 10 50.0 0 0 - 4 4 100.0 1 3 4 1 1 2 0 4 17
+p162
+aVCharles Smith SAS 03/20/2002 SAS vs. LAL W 14 3 0 5 0.0 0 0 - 3 4 75.0 1 1 2 1 1 0 3 1 -11
+p163
+aVBruce Bowen SAS 03/20/2002 SAS vs. LAL W 28 4 2 4 50.0 0 2 0.0 0 1 0.0 1 3 4 1 1 0 0 3 20
+p164
+aVDanny Ferry SAS 03/20/2002 SAS vs. LAL W 31 11 3 5 60.0 2 4 50.0 3 3 100.0 0 5 5 3 2 2 0 2 17
+p165
+aVCherokee Parks SAS 03/20/2002 SAS vs. LAL W 10 4 2 5 40.0 0 0 - 0 2 0.0 1 4 5 1 0 0 2 2 -16
+p166
+aVMalik Rose SAS 03/16/2002 SAS vs. BOS W 24 14 5 8 62.5 0 0 - 4 7 57.1 2 4 6 3 0 3 1 1 -4
+p167
+aVTerry Porter SAS 03/16/2002 SAS vs. BOS W 17 5 2 2 100.0 0 0 - 1 2 50.0 0 3 3 2 0 0 2 1 4
+p168
+aVTony Parker SAS 03/16/2002 SAS vs. BOS W 31 2 1 5 20.0 0 2 0.0 0 0 - 0 2 2 5 4 0 2 1 3
+p169
+aVAntonio Daniels SAS 03/16/2002 SAS vs. BOS W 27 7 2 4 50.0 0 2 0.0 3 4 75.0 0 0 0 4 1 0 0 3 3
+p170
+aVCharles Smith SAS 03/16/2002 SAS vs. BOS W 18 8 4 9 44.4 0 0 - 0 0 - 1 2 3 2 0 1 1 0 0
+p171
+aVDavid Robinson SAS 03/16/2002 SAS vs. BOS W 26 12 4 9 44.4 0 0 - 4 4 100.0 5 4 9 1 1 1 1 1 15
+p172
+aVTim Duncan SAS 03/16/2002 SAS vs. BOS W 45 37 12 19 63.2 0 0 - 13 17 76.5 2 8 10 1 2 1 4 3 1
+p173
+aVDanny Ferry SAS 03/16/2002 SAS vs. BOS W 28 18 5 11 45.5 4 7 57.1 4 4 100.0 1 6 7 5 0 0 1 4 6
+p174
+aVBruce Bowen SAS 03/16/2002 SAS vs. BOS W 24 8 3 8 37.5 2 4 50.0 0 0 - 1 1 2 2 1 0 0 4 7
+p175
+aVTim Duncan SAS 03/14/2002 SAS vs. CHI W 40 24 6 14 42.9 0 0 - 12 13 92.3 3 11 14 4 1 4 4 4 15
+p176
+aVBruce Bowen SAS 03/14/2002 SAS vs. CHI W 36 7 2 7 28.6 1 5 20.0 2 4 50.0 1 6 7 2 2 2 4 2 0
+p177
+aVAntonio Daniels SAS 03/14/2002 SAS vs. CHI W 33 12 4 9 44.4 0 3 0.0 4 9 44.4 0 3 3 4 2 0 0 1 7
+p178
+aVTony Parker SAS 03/14/2002 SAS vs. CHI W 33 12 4 9 44.4 3 5 60.0 1 2 50.0 0 0 0 4 0 1 1 4 14
+p179
+aVDanny Ferry SAS 03/14/2002 SAS vs. CHI W 7 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 1 0 0 4
+p180
+aVSteven Smith SAS 03/14/2002 SAS vs. CHI W 11 4 1 3 33.3 0 1 0.0 2 2 100.0 0 1 1 0 0 0 0 0 0
+p181
+aVTerry Porter SAS 03/14/2002 SAS vs. CHI W 16 5 2 3 66.7 0 1 0.0 1 2 50.0 0 1 1 2 0 0 2 1 -7
+p182
+aVDavid Robinson SAS 03/14/2002 SAS vs. CHI W 37 15 4 10 40.0 0 0 - 7 11 63.6 3 14 17 2 1 0 1 2 3
+p183
+aVCharles Smith SAS 03/14/2002 SAS vs. CHI W 10 2 1 4 25.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -3
+p184
+aVMalik Rose SAS 03/14/2002 SAS vs. CHI W 16 7 3 10 30.0 0 0 - 1 2 50.0 3 2 5 0 0 0 2 3 -7
+p185
+aVMark Bryant SAS 03/14/2002 SAS vs. CHI W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p186
+aVMalik Rose SAS 03/12/2002 SAS vs. MEM W 25 13 6 12 50.0 0 0 - 1 3 33.3 3 1 4 1 3 1 3 1 16
+p187
+aVDavid Robinson SAS 03/12/2002 SAS vs. MEM W 30 7 2 6 33.3 0 0 - 3 4 75.0 1 4 5 2 1 0 0 1 14
+p188
+aVTerry Porter SAS 03/12/2002 SAS vs. MEM W 16 4 2 4 50.0 0 0 - 0 0 - 0 2 2 4 1 1 2 2 30
+p189
+aVCherokee Parks SAS 03/12/2002 SAS vs. MEM W 6 2 1 2 50.0 0 0 - 0 0 - 2 0 2 0 0 0 0 1 6
+p190
+aVCharles Smith SAS 03/12/2002 SAS vs. MEM W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p191
+aVTim Duncan SAS 03/12/2002 SAS vs. MEM W 35 23 9 19 47.4 0 0 - 5 6 83.3 2 11 13 3 1 1 2 3 -8
+p192
+aVDanny Ferry SAS 03/12/2002 SAS vs. MEM W 15 2 1 4 25.0 0 1 0.0 0 0 - 0 2 2 0 0 0 0 1 -4
+p193
+aVSteven Smith SAS 03/12/2002 SAS vs. MEM W 29 19 6 11 54.5 3 5 60.0 4 4 100.0 0 1 1 2 1 0 2 4 13
+p194
+aVBruce Bowen SAS 03/12/2002 SAS vs. MEM W 23 3 1 3 33.3 1 2 50.0 0 0 - 0 3 3 0 1 0 3 1 0
+p195
+aVAntonio Daniels SAS 03/12/2002 SAS vs. MEM W 27 15 4 6 66.7 0 0 - 7 8 87.5 0 0 0 1 1 0 0 0 19
+p196
+aVTony Parker SAS 03/12/2002 SAS vs. MEM W 32 10 5 8 62.5 0 2 0.0 0 0 - 0 4 4 5 0 0 1 1 -16
+p197
+aVTony Parker SAS 03/11/2002 SAS @ DEN W 32 6 3 8 37.5 0 0 - 0 0 - 0 3 3 5 2 0 3 1 -2
+p198
+aVTim Duncan SAS 03/11/2002 SAS @ DEN W 35 21 9 10 90.0 0 0 - 3 4 75.0 2 7 9 3 1 2 2 3 3
+p199
+aVSteven Smith SAS 03/11/2002 SAS @ DEN W 23 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 3 0 0 0 4 1
+p200
+aVCharles Smith SAS 03/11/2002 SAS @ DEN W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 0 0 0 1 -1
+p201
+aVBruce Bowen SAS 03/11/2002 SAS @ DEN W 22 0 0 4 0.0 0 2 0.0 0 0 - 0 1 1 0 1 0 3 1 0
+p202
+aVMark Bryant SAS 03/11/2002 SAS @ DEN W 3 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 0
+p203
+aVDavid Robinson SAS 03/11/2002 SAS @ DEN W 33 10 3 6 50.0 0 0 - 4 6 66.7 0 5 5 3 1 1 1 2 17
+p204
+aVTerry Porter SAS 03/11/2002 SAS @ DEN W 16 5 2 6 33.3 1 3 33.3 0 0 - 1 1 2 6 1 0 0 1 17
+p205
+aVMalik Rose SAS 03/11/2002 SAS @ DEN W 21 18 7 9 77.8 0 0 - 4 5 80.0 1 6 7 1 1 1 2 2 14
+p206
+aVAntonio Daniels SAS 03/11/2002 SAS @ DEN W 29 19 6 12 50.0 2 4 50.0 5 6 83.3 1 1 2 4 0 0 2 0 14
+p207
+aVCherokee Parks SAS 03/11/2002 SAS @ DEN W 3 2 1 2 50.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 -1
+p208
+aVDanny Ferry SAS 03/11/2002 SAS @ DEN W 19 5 2 8 25.0 1 4 25.0 0 0 - 1 1 2 1 1 0 1 3 13
+p209
+aVDanny Ferry SAS 03/09/2002 SAS @ CHI W 10 2 1 3 33.3 0 2 0.0 0 0 - 0 1 1 0 0 0 1 0 2
+p210
+aVBruce Bowen SAS 03/09/2002 SAS @ CHI W 26 7 2 4 50.0 0 1 0.0 3 5 60.0 2 2 4 1 0 0 1 4 18
+p211
+aVCharles Smith SAS 03/09/2002 SAS @ CHI W 17 6 3 5 60.0 0 0 - 0 0 - 1 1 2 1 1 0 0 3 3
+p212
+aVDavid Robinson SAS 03/09/2002 SAS @ CHI W 25 13 5 7 71.4 0 0 - 3 5 60.0 4 7 11 1 2 1 0 2 23
+p213
+aVTerry Porter SAS 03/09/2002 SAS @ CHI W 16 7 3 6 50.0 1 2 50.0 0 0 - 0 0 0 3 2 0 0 1 16
+p214
+aVMalik Rose SAS 03/09/2002 SAS @ CHI W 17 15 6 10 60.0 0 0 - 3 6 50.0 1 2 3 2 0 0 0 3 7
+p215
+aVTim Duncan SAS 03/09/2002 SAS @ CHI W 33 22 6 13 46.2 0 0 - 10 12 83.3 2 9 11 7 0 0 4 1 27
+p216
+aVSteven Smith SAS 03/09/2002 SAS @ CHI W 21 10 4 8 50.0 0 0 - 2 2 100.0 2 1 3 0 1 0 1 0 19
+p217
+aVAntonio Daniels SAS 03/09/2002 SAS @ CHI W 27 8 2 9 22.2 0 2 0.0 4 4 100.0 0 3 3 3 0 0 0 2 8
+p218
+aVMark Bryant SAS 03/09/2002 SAS @ CHI W 13 2 1 4 25.0 0 0 - 0 0 - 2 3 5 2 0 0 0 2 -2
+p219
+aVCherokee Parks SAS 03/09/2002 SAS @ CHI W 7 2 1 4 25.0 0 0 - 0 0 - 1 2 3 2 1 0 1 1 -1
+p220
+aVTony Parker SAS 03/09/2002 SAS @ CHI W 28 6 3 7 42.9 0 2 0.0 0 0 - 0 2 2 4 1 0 0 1 15
+p221
+aVDanny Ferry SAS 03/07/2002 SAS vs. HOU W 12 2 1 4 25.0 0 2 0.0 0 0 - 0 0 0 0 0 0 1 0 -3
+p222
+aVTim Duncan SAS 03/07/2002 SAS vs. HOU W 39 30 12 17 70.6 0 0 - 6 9 66.7 6 10 16 5 0 2 1 4 9
+p223
+aVSteven Smith SAS 03/07/2002 SAS vs. HOU W 22 8 3 5 60.0 2 3 66.7 0 0 - 0 1 1 0 0 0 1 3 12
+p224
+aVMalik Rose SAS 03/07/2002 SAS vs. HOU W 28 14 6 13 46.2 0 0 - 2 2 100.0 6 4 10 1 1 1 3 3 -8
+p225
+aVTony Parker SAS 03/07/2002 SAS vs. HOU W 45 16 6 13 46.2 1 2 50.0 3 4 75.0 3 7 10 5 1 0 5 3 5
+p226
+aVDavid Robinson SAS 03/07/2002 SAS vs. HOU W 29 8 4 12 33.3 0 0 - 0 0 - 3 9 12 2 0 0 0 0 3
+p227
+aVTerry Porter SAS 03/07/2002 SAS vs. HOU W 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 2 -3
+p228
+aVAntonio Daniels SAS 03/07/2002 SAS vs. HOU W 18 13 3 8 37.5 1 2 50.0 6 6 100.0 1 0 1 0 1 0 0 1 -6
+p229
+aVBruce Bowen SAS 03/07/2002 SAS vs. HOU W 44 8 3 15 20.0 1 2 50.0 1 2 50.0 2 3 5 2 1 0 2 4 1
+p230
+aVDavid Robinson SAS 03/05/2002 SAS vs. GSW W 27 13 4 12 33.3 0 0 - 5 7 71.4 0 9 9 2 2 0 1 2 15
+p231
+aVMark Bryant SAS 03/05/2002 SAS vs. GSW W 10 8 4 6 66.7 0 0 - 0 0 - 2 1 3 0 0 0 3 1 -1
+p232
+aVDanny Ferry SAS 03/05/2002 SAS vs. GSW W 20 3 1 4 25.0 1 3 33.3 0 0 - 0 3 3 2 2 0 0 0 17
+p233
+aVAntonio Daniels SAS 03/05/2002 SAS vs. GSW W 18 8 4 7 57.1 0 2 0.0 0 0 - 0 0 0 6 0 0 1 1 18
+p234
+aVTim Duncan SAS 03/05/2002 SAS vs. GSW W 35 23 11 21 52.4 0 0 - 1 2 50.0 2 5 7 3 0 1 1 2 17
+p235
+aVTony Parker SAS 03/05/2002 SAS vs. GSW W 29 8 4 9 44.4 0 0 - 0 0 - 1 5 6 7 3 0 0 1 7
+p236
+aVCharles Smith SAS 03/05/2002 SAS vs. GSW W 6 4 2 2 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -2
+p237
+aVTerry Porter SAS 03/05/2002 SAS vs. GSW W 17 2 1 2 50.0 0 1 0.0 0 0 - 0 1 1 5 1 0 1 1 14
+p238
+aVMalik Rose SAS 03/05/2002 SAS vs. GSW W 18 13 5 8 62.5 0 0 - 3 3 100.0 0 5 5 1 2 1 1 3 15
+p239
+aVBruce Bowen SAS 03/05/2002 SAS vs. GSW W 28 11 4 6 66.7 3 4 75.0 0 0 - 1 1 2 0 2 1 2 0 4
+p240
+aVCherokee Parks SAS 03/05/2002 SAS vs. GSW W 6 0 0 1 0.0 0 0 - 0 2 0.0 0 1 1 2 0 0 0 1 -4
+p241
+aVSteven Smith SAS 03/05/2002 SAS vs. GSW W 26 16 4 7 57.1 0 2 0.0 8 9 88.9 0 6 6 3 0 0 1 3 5
+p242
+aVDanny Ferry SAS 03/03/2002 SAS @ NYK W 6 3 1 1 100.0 1 1 100.0 0 0 - 0 1 1 0 0 0 0 0 3
+p243
+aVCherokee Parks SAS 03/03/2002 SAS @ NYK W 3 0 0 0 - 0 0 - 0 0 - 2 0 2 0 0 0 0 0 -1
+p244
+aVMalik Rose SAS 03/03/2002 SAS @ NYK W 24 13 5 13 38.5 0 0 - 3 5 60.0 3 1 4 0 1 0 0 1 -2
+p245
+aVAntonio Daniels SAS 03/03/2002 SAS @ NYK W 21 7 3 7 42.9 0 1 0.0 1 2 50.0 0 2 2 1 1 0 0 4 -4
+p246
+aVTerry Porter SAS 03/03/2002 SAS @ NYK W 16 2 0 3 0.0 0 0 - 2 2 100.0 0 3 3 2 1 0 3 2 5
+p247
+aVTony Parker SAS 03/03/2002 SAS @ NYK W 32 8 4 7 57.1 0 2 0.0 0 0 - 0 2 2 7 0 0 1 2 11
+p248
+aVBruce Bowen SAS 03/03/2002 SAS @ NYK W 39 10 4 7 57.1 1 1 100.0 1 2 50.0 1 1 2 2 2 0 0 1 16
+p249
+aVSteven Smith SAS 03/03/2002 SAS @ NYK W 26 18 8 14 57.1 1 1 100.0 1 1 100.0 0 3 3 4 1 0 0 2 18
+p250
+aVCharles Smith SAS 03/03/2002 SAS @ NYK W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p251
+aVTim Duncan SAS 03/03/2002 SAS @ NYK W 37 25 11 18 61.1 0 0 - 3 3 100.0 2 10 12 1 0 1 2 1 14
+p252
+aVDavid Robinson SAS 03/03/2002 SAS @ NYK W 31 13 4 10 40.0 0 0 - 5 6 83.3 4 11 15 2 1 3 1 1 21
+p253
+aVMalik Rose SAS 03/01/2002 SAS @ MIN W 21 10 5 11 45.5 0 0 - 0 0 - 5 3 8 1 0 0 2 2 -1
+p254
+aVTerry Porter SAS 03/01/2002 SAS @ MIN W 12 4 2 5 40.0 0 0 - 0 0 - 0 0 0 0 0 0 1 3 4
+p255
+aVDanny Ferry SAS 03/01/2002 SAS @ MIN W 10 0 0 0 - 0 0 - 0 0 - 0 1 1 1 0 0 0 0 5
+p256
+aVTony Parker SAS 03/01/2002 SAS @ MIN W 36 6 2 6 33.3 0 0 - 2 2 100.0 0 1 1 6 0 0 3 2 4
+p257
+aVBruce Bowen SAS 03/01/2002 SAS @ MIN W 40 8 3 5 60.0 1 1 100.0 1 2 50.0 0 2 2 4 3 1 1 2 5
+p258
+aVDavid Robinson SAS 03/01/2002 SAS @ MIN W 33 18 8 10 80.0 0 0 - 2 2 100.0 2 6 8 3 2 2 2 5 6
+p259
+aVSteven Smith SAS 03/01/2002 SAS @ MIN W 26 12 4 13 30.8 2 5 40.0 2 2 100.0 0 3 3 0 1 0 1 0 7
+p260
+aVTim Duncan SAS 03/01/2002 SAS @ MIN W 42 25 11 24 45.8 0 0 - 3 6 50.0 3 8 11 4 1 3 2 1 11
+p261
+aVAntonio Daniels SAS 03/01/2002 SAS @ MIN W 20 2 1 2 50.0 0 0 - 0 0 - 0 2 2 2 0 0 0 0 -1
+p262
+aVTony Parker SAS 02/28/2002 SAS @ CLE L 26 2 1 2 50.0 0 0 - 0 0 - 0 1 1 5 0 0 0 2 -6
+p263
+aVAntonio Daniels SAS 02/28/2002 SAS @ CLE L 34 10 4 13 30.8 1 5 20.0 1 2 50.0 0 2 2 1 1 0 3 1 -3
+p264
+aVDanny Ferry SAS 02/28/2002 SAS @ CLE L 26 6 1 8 12.5 1 6 16.7 3 3 100.0 0 3 3 1 2 0 2 1 -3
+p265
+aVSteven Smith SAS 02/28/2002 SAS @ CLE L 17 4 0 3 0.0 0 1 0.0 4 4 100.0 0 1 1 3 1 0 1 3 4
+p266
+aVTim Duncan SAS 02/28/2002 SAS @ CLE L 52 35 12 20 60.0 0 1 0.0 11 13 84.6 3 9 12 6 0 0 2 5 1
+p267
+aVBruce Bowen SAS 02/28/2002 SAS @ CLE L 23 8 3 8 37.5 0 1 0.0 2 2 100.0 0 1 1 0 0 0 1 4 -5
+p268
+aVDavid Robinson SAS 02/28/2002 SAS @ CLE L 32 17 7 9 77.8 0 0 - 3 6 50.0 0 5 5 2 2 1 1 5 -15
+p269
+aVMalik Rose SAS 02/28/2002 SAS @ CLE L 22 18 7 8 87.5 0 0 - 4 4 100.0 2 1 3 0 0 0 3 2 3
+p270
+aVCharles Smith SAS 02/28/2002 SAS @ CLE L 34 7 2 9 22.2 1 4 25.0 2 2 100.0 1 5 6 7 1 2 0 3 -11
+p271
+aVCharles Smith SAS 02/26/2002 SAS vs. PHX W 26 6 3 8 37.5 0 4 0.0 0 0 - 2 2 4 2 1 2 0 1 6
+p272
+aVStephen Jackson SAS 02/26/2002 SAS vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p273
+aVMark Bryant SAS 02/26/2002 SAS vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p274
+aVAntonio Daniels SAS 02/26/2002 SAS vs. PHX W 30 8 1 4 25.0 0 1 0.0 6 7 85.7 1 3 4 3 1 0 4 2 12
+p275
+aVSteven Smith SAS 02/26/2002 SAS vs. PHX W 36 17 6 11 54.5 4 5 80.0 1 2 50.0 2 3 5 4 3 2 3 0 1
+p276
+aVTim Duncan SAS 02/26/2002 SAS vs. PHX W 39 29 9 20 45.0 0 0 - 11 12 91.7 3 12 15 2 0 0 3 1 12
+p277
+aVTony Parker SAS 02/26/2002 SAS vs. PHX W 20 5 2 4 50.0 1 3 33.3 0 0 - 1 0 1 3 1 0 1 1 -7
+p278
+aVTerry Porter SAS 02/26/2002 SAS vs. PHX W 8 1 0 0 - 0 0 - 1 1 100.0 0 0 0 1 0 1 1 0 2
+p279
+aVDavid Robinson SAS 02/26/2002 SAS vs. PHX W 34 10 3 10 30.0 0 0 - 4 6 66.7 2 2 4 5 3 3 3 1 -1
+p280
+aVDanny Ferry SAS 02/26/2002 SAS vs. PHX W 24 11 4 8 50.0 3 5 60.0 0 0 - 0 0 0 0 0 1 1 2 12
+p281
+aVMalik Rose SAS 02/26/2002 SAS vs. PHX W 22 12 5 10 50.0 0 0 - 2 2 100.0 1 4 5 0 2 0 0 3 9
+p282
+aVCherokee Parks SAS 02/26/2002 SAS vs. PHX W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p283
+aVAntonio Daniels SAS 02/24/2002 SAS @ PHX L 32 6 2 5 40.0 0 1 0.0 2 2 100.0 0 1 1 4 0 1 0 1 0
+p284
+aVDavid Robinson SAS 02/24/2002 SAS @ PHX L 37 25 12 19 63.2 0 0 - 1 1 100.0 3 5 8 2 1 3 1 5 3
+p285
+aVTony Parker SAS 02/24/2002 SAS @ PHX L 27 5 2 7 28.6 0 2 0.0 1 2 50.0 0 3 3 3 2 0 1 2 -18
+p286
+aVMalik Rose SAS 02/24/2002 SAS @ PHX L 11 3 1 7 14.3 0 0 - 1 3 33.3 2 0 2 0 0 0 2 1 -12
+p287
+aVSteven Smith SAS 02/24/2002 SAS @ PHX L 33 20 5 12 41.7 2 6 33.3 8 8 100.0 0 1 1 0 1 0 0 0 -18
+p288
+aVDanny Ferry SAS 02/24/2002 SAS @ PHX L 22 2 0 2 0.0 0 1 0.0 2 2 100.0 1 2 3 1 0 0 1 2 8
+p289
+aVTerry Porter SAS 02/24/2002 SAS @ PHX L 15 1 0 3 0.0 0 1 0.0 1 1 100.0 0 1 1 3 0 0 0 1 10
+p290
+aVTim Duncan SAS 02/24/2002 SAS @ PHX L 48 21 10 20 50.0 0 1 0.0 1 4 25.0 1 12 13 5 1 1 2 2 -9
+p291
+aVCharles Smith SAS 02/24/2002 SAS @ PHX L 15 0 0 3 0.0 0 3 0.0 0 0 - 0 1 1 0 0 0 1 1 -9
+p292
+aVCherokee Parks SAS 02/23/2002 SAS vs. MIN L 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p293
+aVSteven Smith SAS 02/23/2002 SAS vs. MIN L 28 4 1 8 12.5 0 3 0.0 2 2 100.0 0 2 2 0 2 0 2 2 -26
+p294
+aVCharles Smith SAS 02/23/2002 SAS vs. MIN L 14 6 3 4 75.0 0 0 - 0 1 0.0 0 1 1 0 0 1 5 1 -23
+p295
+aVMark Bryant SAS 02/23/2002 SAS vs. MIN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p296
+aVMalik Rose SAS 02/23/2002 SAS vs. MIN L 16 10 3 9 33.3 0 0 - 4 4 100.0 1 2 3 0 2 0 1 3 5
+p297
+aVTim Duncan SAS 02/23/2002 SAS vs. MIN L 39 25 10 20 50.0 0 0 - 5 6 83.3 2 4 6 5 0 1 3 2 -16
+p298
+aVAntonio Daniels SAS 02/23/2002 SAS vs. MIN L 34 8 2 5 40.0 0 2 0.0 4 4 100.0 0 1 1 6 1 1 3 2 -1
+p299
+aVStephen Jackson SAS 02/23/2002 SAS vs. MIN L 2 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 0 -7
+p300
+aVTerry Porter SAS 02/23/2002 SAS vs. MIN L 23 12 4 4 100.0 4 4 100.0 0 0 - 0 1 1 3 0 0 2 1 2
+p301
+aVDanny Ferry SAS 02/23/2002 SAS vs. MIN L 18 6 2 3 66.7 2 2 100.0 0 0 - 0 1 1 1 0 1 0 2 7
+p302
+aVTony Parker SAS 02/23/2002 SAS vs. MIN L 25 2 1 3 33.3 0 1 0.0 0 0 - 0 1 1 2 0 0 4 1 -26
+p303
+aVDavid Robinson SAS 02/23/2002 SAS vs. MIN L 37 13 6 11 54.5 0 0 - 1 2 50.0 1 8 9 1 1 1 2 3 -21
+p304
+aVDanny Ferry SAS 02/21/2002 SAS vs. SAC W 21 6 2 4 50.0 2 3 66.7 0 0 - 1 2 3 1 0 0 2 0 -8
+p305
+aVMalik Rose SAS 02/21/2002 SAS vs. SAC W 27 23 9 18 50.0 1 2 50.0 4 4 100.0 3 5 8 1 2 1 0 1 16
+p306
+aVCharles Smith SAS 02/21/2002 SAS vs. SAC W 30 32 13 20 65.0 4 5 80.0 2 2 100.0 1 2 3 0 0 2 0 1 17
+p307
+aVMark Bryant SAS 02/21/2002 SAS vs. SAC W 8 0 0 4 0.0 0 0 - 0 0 - 2 0 2 0 0 0 0 2 -12
+p308
+aVAntonio Daniels SAS 02/21/2002 SAS vs. SAC W 27 9 3 6 50.0 1 1 100.0 2 2 100.0 0 2 2 4 0 0 1 0 -4
+p309
+aVCherokee Parks SAS 02/21/2002 SAS vs. SAC W 19 2 1 6 16.7 0 0 - 0 0 - 1 1 2 0 0 0 2 4 -10
+p310
+aVTony Parker SAS 02/21/2002 SAS vs. SAC W 32 15 6 8 75.0 3 3 100.0 0 0 - 0 1 1 7 1 0 3 1 24
+p311
+aVTerry Porter SAS 02/21/2002 SAS vs. SAC W 7 0 0 1 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 1 9
+p312
+aVDavid Robinson SAS 02/21/2002 SAS vs. SAC W 12 10 5 6 83.3 0 0 - 0 2 0.0 3 8 11 0 0 1 0 4 20
+p313
+aVSteven Smith SAS 02/21/2002 SAS vs. SAC W 27 9 4 6 66.7 1 2 50.0 0 1 0.0 0 4 4 6 0 0 0 2 31
+p314
+aVTim Duncan SAS 02/21/2002 SAS vs. SAC W 30 9 4 12 33.3 0 0 - 1 1 100.0 3 10 13 6 1 1 6 3 32
+p315
+aVSteven Smith SAS 02/19/2002 SAS vs. MEM W 26 13 4 9 44.4 2 6 33.3 3 3 100.0 0 1 1 2 4 0 1 1 -3
+p316
+aVMalik Rose SAS 02/19/2002 SAS vs. MEM W 16 7 2 8 25.0 0 0 - 3 3 100.0 1 5 6 1 2 0 2 4 9
+p317
+aVTony Parker SAS 02/19/2002 SAS vs. MEM W 28 4 2 8 25.0 0 3 0.0 0 0 - 0 1 1 5 1 0 2 2 -1
+p318
+aVCherokee Parks SAS 02/19/2002 SAS vs. MEM W 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 2 -1
+p319
+aVTim Duncan SAS 02/19/2002 SAS vs. MEM W 47 23 6 14 42.9 0 0 - 11 12 91.7 1 11 12 5 1 6 5 3 2
+p320
+aVTerry Porter SAS 02/19/2002 SAS vs. MEM W 25 4 1 4 25.0 0 1 0.0 2 2 100.0 0 3 3 1 0 0 3 1 7
+p321
+aVDanny Ferry SAS 02/19/2002 SAS vs. MEM W 24 6 2 4 50.0 2 3 66.7 0 0 - 0 1 1 2 1 1 2 1 9
+p322
+aVAntonio Daniels SAS 02/19/2002 SAS vs. MEM W 35 19 8 12 66.7 2 3 66.7 1 2 50.0 0 4 4 5 0 0 0 2 12
+p323
+aVDavid Robinson SAS 02/19/2002 SAS vs. MEM W 39 14 6 11 54.5 0 0 - 2 4 50.0 4 10 14 1 1 3 2 1 2
+p324
+aVCharles Smith SAS 02/19/2002 SAS vs. MEM W 22 9 4 9 44.4 1 4 25.0 0 0 - 0 0 0 2 3 0 0 1 -6
+p325
+aVSteven Smith SAS 02/15/2002 SAS @ GSW W 25 8 4 10 40.0 0 1 0.0 0 0 - 1 2 3 1 1 0 2 0 -11
+p326
+aVCharles Smith SAS 02/15/2002 SAS @ GSW W 22 6 3 8 37.5 0 1 0.0 0 0 - 4 1 5 2 1 0 0 2 0
+p327
+aVStephen Jackson SAS 02/15/2002 SAS @ GSW W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p328
+aVDavid Robinson SAS 02/15/2002 SAS @ GSW W 30 16 5 10 50.0 0 0 - 6 9 66.7 1 3 4 2 1 1 0 5 -3
+p329
+aVTerry Porter SAS 02/15/2002 SAS @ GSW W 28 10 3 8 37.5 1 2 50.0 3 4 75.0 0 3 3 1 0 0 3 5 13
+p330
+aVCherokee Parks SAS 02/15/2002 SAS @ GSW W 9 4 2 2 100.0 0 0 - 0 0 - 1 2 3 0 1 2 0 1 12
+p331
+aVMalik Rose SAS 02/15/2002 SAS @ GSW W 14 6 3 4 75.0 0 0 - 0 1 0.0 2 5 7 0 0 0 2 5 0
+p332
+aVDanny Ferry SAS 02/15/2002 SAS @ GSW W 19 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 1 0 0 2 16
+p333
+aVTony Parker SAS 02/15/2002 SAS @ GSW W 17 0 0 2 0.0 0 0 - 0 0 - 1 0 1 3 1 0 2 4 -5
+p334
+aVAntonio Daniels SAS 02/15/2002 SAS @ GSW W 34 20 6 10 60.0 2 4 50.0 6 8 75.0 0 5 5 4 0 0 1 2 15
+p335
+aVTim Duncan SAS 02/15/2002 SAS @ GSW W 43 36 12 24 50.0 0 0 - 12 14 85.7 4 7 11 8 1 0 4 2 8
+p336
+aVStephen Jackson SAS 02/14/2002 SAS @ LAC W 13 3 1 7 14.3 1 4 25.0 0 0 - 0 4 4 1 1 0 0 0 3
+p337
+aVDanny Ferry SAS 02/14/2002 SAS @ LAC W 12 6 2 5 40.0 1 4 25.0 1 1 100.0 0 0 0 3 1 0 2 1 1
+p338
+aVTony Parker SAS 02/14/2002 SAS @ LAC W 29 10 4 7 57.1 2 4 50.0 0 2 0.0 1 2 3 2 2 0 3 3 -5
+p339
+aVTerry Porter SAS 02/14/2002 SAS @ LAC W 19 8 2 3 66.7 2 2 100.0 2 3 66.7 0 5 5 2 0 0 0 1 18
+p340
+aVMalik Rose SAS 02/14/2002 SAS @ LAC W 19 10 5 10 50.0 0 1 0.0 0 0 - 5 3 8 1 1 0 3 2 8
+p341
+aVCherokee Parks SAS 02/14/2002 SAS @ LAC W 12 5 2 5 40.0 0 0 - 1 1 100.0 1 1 2 0 2 1 1 1 -17
+p342
+aVAntonio Daniels SAS 02/14/2002 SAS @ LAC W 24 4 2 5 40.0 0 0 - 0 0 - 0 1 1 4 2 0 0 3 14
+p343
+aVTim Duncan SAS 02/14/2002 SAS @ LAC W 38 15 5 13 38.5 0 0 - 5 7 71.4 4 7 11 2 0 3 4 2 16
+p344
+aVDavid Robinson SAS 02/14/2002 SAS @ LAC W 24 12 6 10 60.0 0 0 - 0 0 - 2 3 5 1 0 7 1 2 25
+p345
+aVCharles Smith SAS 02/14/2002 SAS @ LAC W 22 10 5 9 55.6 0 2 0.0 0 0 - 0 3 3 3 1 0 0 1 6
+p346
+aVSteven Smith SAS 02/14/2002 SAS @ LAC W 25 6 2 8 25.0 1 4 25.0 1 1 100.0 0 0 0 4 0 0 0 0 2
+p347
+aVMark Bryant SAS 02/14/2002 SAS @ LAC W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 1 -6
+p348
+aVTim Duncan SAS 02/12/2002 SAS @ SAC L 37 24 10 24 41.7 0 0 - 4 4 100.0 12 9 21 2 0 3 5 4 -15
+p349
+aVTerry Porter SAS 02/12/2002 SAS @ SAC L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p350
+aVDavid Robinson SAS 02/12/2002 SAS @ SAC L 31 14 4 13 30.8 0 0 - 6 8 75.0 1 9 10 0 1 2 2 3 2
+p351
+aVStephen Jackson SAS 02/12/2002 SAS @ SAC L 12 9 4 6 66.7 0 1 0.0 1 1 100.0 0 1 1 2 1 0 1 1 3
+p352
+aVSteven Smith SAS 02/12/2002 SAS @ SAC L 31 7 3 8 37.5 0 0 - 1 1 100.0 1 3 4 2 1 0 3 1 -14
+p353
+aVCherokee Parks SAS 02/12/2002 SAS @ SAC L 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 2 0 0 0 -2
+p354
+aVAntonio Daniels SAS 02/12/2002 SAS @ SAC L 22 9 4 9 44.4 0 1 0.0 1 1 100.0 1 1 2 1 0 0 1 0 -10
+p355
+aVTony Parker SAS 02/12/2002 SAS @ SAC L 43 6 3 7 42.9 0 1 0.0 0 0 - 1 1 2 6 1 0 4 1 -9
+p356
+aVCharles Smith SAS 02/12/2002 SAS @ SAC L 27 9 4 12 33.3 0 4 0.0 1 2 50.0 2 4 6 1 2 1 2 3 -1
+p357
+aVAmal McCaskill SAS 02/12/2002 SAS @ SAC L 2 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p358
+aVMalik Rose SAS 02/12/2002 SAS @ SAC L 23 6 3 9 33.3 0 0 - 0 0 - 2 6 8 3 0 0 0 3 -16
+p359
+aVDavid Robinson SAS 02/07/2002 SAS @ TOR L 37 14 3 10 30.0 0 0 - 8 14 57.1 8 8 16 2 4 2 4 4 -1
+p360
+aVAntonio Daniels SAS 02/07/2002 SAS @ TOR L 24 5 2 9 22.2 1 4 25.0 0 0 - 0 1 1 0 1 0 1 3 -8
+p361
+aVCherokee Parks SAS 02/07/2002 SAS @ TOR L 5 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -6
+p362
+aVCharles Smith SAS 02/07/2002 SAS @ TOR L 40 11 4 11 36.4 1 3 33.3 2 2 100.0 2 3 5 1 1 0 2 2 -12
+p363
+aVTerry Porter SAS 02/07/2002 SAS @ TOR L 20 6 2 6 33.3 2 4 50.0 0 0 - 0 5 5 2 1 0 2 1 -3
+p364
+aVTony Parker SAS 02/07/2002 SAS @ TOR L 24 2 1 6 16.7 0 1 0.0 0 0 - 0 1 1 0 1 0 1 0 2
+p365
+aVTim Duncan SAS 02/07/2002 SAS @ TOR L 46 22 6 29 20.7 0 0 - 10 13 76.9 8 9 17 2 0 4 3 5 2
+p366
+aVAmal McCaskill SAS 02/07/2002 SAS @ TOR L 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -5
+p367
+aVSteven Smith SAS 02/07/2002 SAS @ TOR L 44 10 3 13 23.1 2 6 33.3 2 2 100.0 2 4 6 5 1 0 2 5 6
+p368
+aVMalik Rose SAS 02/07/2002 SAS @ TOR L 21 4 1 6 16.7 0 0 - 2 4 50.0 0 8 8 0 1 0 1 1 -5
+p369
+aVMark Bryant SAS 02/04/2002 SAS vs. MIN W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p370
+aVTerry Porter SAS 02/04/2002 SAS vs. MIN W 14 9 3 3 100.0 2 2 100.0 1 1 100.0 0 2 2 2 2 0 1 1 23
+p371
+aVMalik Rose SAS 02/04/2002 SAS vs. MIN W 19 12 3 7 42.9 0 0 - 6 8 75.0 3 6 9 2 0 0 2 4 13
+p372
+aVDavid Robinson SAS 02/04/2002 SAS vs. MIN W 31 13 5 11 45.5 0 0 - 3 6 50.0 4 11 15 1 1 1 1 4 23
+p373
+aVTim Duncan SAS 02/04/2002 SAS vs. MIN W 22 13 6 7 85.7 0 0 - 1 4 25.0 1 8 9 4 0 3 1 2 16
+p374
+aVCharles Smith SAS 02/04/2002 SAS vs. MIN W 38 11 5 13 38.5 1 3 33.3 0 0 - 3 1 4 4 3 1 1 2 14
+p375
+aVStephen Jackson SAS 02/04/2002 SAS vs. MIN W 5 8 2 4 50.0 1 1 100.0 3 6 50.0 0 0 0 0 1 0 0 1 2
+p376
+aVSteven Smith SAS 02/04/2002 SAS vs. MIN W 21 11 2 6 33.3 0 1 0.0 7 7 100.0 0 3 3 2 0 0 3 2 10
+p377
+aVTony Parker SAS 02/04/2002 SAS vs. MIN W 34 12 5 9 55.6 1 1 100.0 1 2 50.0 1 1 2 5 0 0 1 1 7
+p378
+aVAmal McCaskill SAS 02/04/2002 SAS vs. MIN W 6 6 2 6 33.3 0 0 - 2 3 66.7 1 0 1 1 0 1 0 2 3
+p379
+aVAntonio Daniels SAS 02/04/2002 SAS vs. MIN W 31 13 6 9 66.7 0 1 0.0 1 1 100.0 0 1 1 2 2 0 0 0 34
+p380
+aVCherokee Parks SAS 02/04/2002 SAS vs. MIN W 16 5 2 5 40.0 0 0 - 1 1 100.0 0 5 5 1 1 1 0 3 7
+p381
+aVTony Parker SAS 02/03/2002 SAS @ ORL W 21 2 1 10 10.0 0 1 0.0 0 0 - 1 3 4 0 0 0 2 2 -7
+p382
+aVTerry Porter SAS 02/03/2002 SAS @ ORL W 17 0 0 2 0.0 0 1 0.0 0 1 0.0 0 5 5 3 0 0 1 2 9
+p383
+aVDavid Robinson SAS 02/03/2002 SAS @ ORL W 40 27 9 11 81.8 0 0 - 9 12 75.0 2 6 8 2 3 7 3 3 1
+p384
+aVStephen Jackson SAS 02/03/2002 SAS @ ORL W 11 0 0 3 0.0 0 1 0.0 0 0 - 0 1 1 1 0 0 1 2 -5
+p385
+aVMalik Rose SAS 02/03/2002 SAS @ ORL W 20 8 4 9 44.4 0 0 - 0 2 0.0 4 6 10 0 0 1 2 2 10
+p386
+aVSteven Smith SAS 02/03/2002 SAS @ ORL W 39 13 4 9 44.4 2 3 66.7 3 4 75.0 1 3 4 3 0 0 4 2 10
+p387
+aVTim Duncan SAS 02/03/2002 SAS @ ORL W 45 29 10 19 52.6 0 0 - 9 12 75.0 4 11 15 2 1 3 1 2 5
+p388
+aVCharles Smith SAS 02/03/2002 SAS @ ORL W 37 12 5 12 41.7 1 4 25.0 1 2 50.0 0 5 5 3 1 0 5 6 -15
+p389
+aVAntonio Daniels SAS 02/03/2002 SAS @ ORL W 35 14 6 11 54.5 1 3 33.3 1 2 50.0 0 5 5 7 1 1 0 2 27
+p390
+aVDavid Robinson SAS 02/01/2002 SAS @ MIA L 22 7 3 6 50.0 0 0 - 1 1 100.0 0 7 7 2 0 0 1 4 -2
+p391
+aVTim Duncan SAS 02/01/2002 SAS @ MIA L 46 29 11 21 52.4 0 0 - 7 10 70.0 3 9 12 1 0 2 2 6 -7
+p392
+aVAntonio Daniels SAS 02/01/2002 SAS @ MIA L 37 4 2 5 40.0 0 1 0.0 0 3 0.0 0 2 2 1 0 0 0 1 -2
+p393
+aVStephen Jackson SAS 02/01/2002 SAS @ MIA L 25 12 5 8 62.5 2 4 50.0 0 0 - 0 0 0 0 1 0 4 3 -7
+p394
+aVTerry Porter SAS 02/01/2002 SAS @ MIA L 24 0 0 4 0.0 0 3 0.0 0 0 - 0 3 3 1 1 0 4 3 -9
+p395
+aVMark Bryant SAS 02/01/2002 SAS @ MIA L 5 2 0 2 0.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 1 1
+p396
+aVTony Parker SAS 02/01/2002 SAS @ MIA L 24 2 1 2 50.0 0 0 - 0 0 - 0 2 2 5 1 0 3 1 4
+p397
+aVSteven Smith SAS 02/01/2002 SAS @ MIA L 34 7 3 9 33.3 0 1 0.0 1 1 100.0 2 4 6 2 0 0 3 0 -1
+p398
+aVMalik Rose SAS 02/01/2002 SAS @ MIA L 23 20 7 13 53.8 0 0 - 6 7 85.7 3 6 9 1 0 0 2 1 -2
+p399
+aVMark Bryant SAS 01/31/2002 SAS vs. LAC L 9 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 1 -3
+p400
+aVTony Parker SAS 01/31/2002 SAS vs. LAC L 28 3 1 8 12.5 1 1 100.0 0 0 - 0 2 2 3 0 0 1 2 -15
+p401
+aVDavid Robinson SAS 01/31/2002 SAS vs. LAC L 27 8 3 9 33.3 0 0 - 2 2 100.0 1 6 7 3 1 3 0 1 -8
+p402
+aVSteven Smith SAS 01/31/2002 SAS vs. LAC L 37 15 6 14 42.9 1 4 25.0 2 2 100.0 1 1 2 2 0 0 0 0 -13
+p403
+aVAntonio Daniels SAS 01/31/2002 SAS vs. LAC L 32 15 7 13 53.8 0 3 0.0 1 1 100.0 1 2 3 4 2 0 2 0 1
+p404
+aVMalik Rose SAS 01/31/2002 SAS vs. LAC L 30 15 5 11 45.5 0 0 - 5 6 83.3 5 6 11 1 0 2 2 3 1
+p405
+aVTim Duncan SAS 01/31/2002 SAS vs. LAC L 46 23 9 20 45.0 0 0 - 5 6 83.3 3 13 16 3 0 3 3 2 -3
+p406
+aVStephen Jackson SAS 01/31/2002 SAS vs. LAC L 11 0 0 3 0.0 0 0 - 0 0 - 1 2 3 0 1 1 1 1 9
+p407
+aVTerry Porter SAS 01/31/2002 SAS vs. LAC L 20 6 2 5 40.0 0 2 0.0 2 2 100.0 0 3 3 2 0 1 1 3 11
+p408
+aVTim Duncan SAS 01/29/2002 SAS vs. CHH L 45 29 9 15 60.0 0 0 - 11 13 84.6 7 14 21 3 1 2 4 2 2
+p409
+aVAntonio Daniels SAS 01/29/2002 SAS vs. CHH L 33 7 2 8 25.0 1 4 25.0 2 2 100.0 0 0 0 0 0 0 1 0 -1
+p410
+aVTerry Porter SAS 01/29/2002 SAS vs. CHH L 24 2 1 10 10.0 0 6 0.0 0 0 - 1 0 1 0 0 0 0 1 -15
+p411
+aVMark Bryant SAS 01/29/2002 SAS vs. CHH L 3 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p412
+aVTony Parker SAS 01/29/2002 SAS vs. CHH L 35 9 4 8 50.0 0 2 0.0 1 2 50.0 0 3 3 4 0 1 3 1 8
+p413
+aVSteven Smith SAS 01/29/2002 SAS vs. CHH L 36 11 3 8 37.5 3 7 42.9 2 2 100.0 1 2 3 2 0 0 4 4 4
+p414
+aVCherokee Parks SAS 01/29/2002 SAS vs. CHH L 25 7 3 11 27.3 0 0 - 1 2 50.0 2 3 5 0 0 3 1 1 -3
+p415
+aVMalik Rose SAS 01/29/2002 SAS vs. CHH L 23 6 2 4 50.0 0 0 - 2 2 100.0 1 5 6 2 3 1 2 6 -6
+p416
+aVCharles Smith SAS 01/29/2002 SAS vs. CHH L 15 2 1 8 12.5 0 2 0.0 0 0 - 0 2 2 0 1 2 0 3 -11
+p417
+aVAmal McCaskill SAS 01/26/2002 SAS @ GSW W 6 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 1 0 2 5
+p418
+aVStephen Jackson SAS 01/26/2002 SAS @ GSW W 3 0 0 1 0.0 0 1 0.0 0 0 - 0 1 1 0 0 0 1 0 -4
+p419
+aVMalik Rose SAS 01/26/2002 SAS @ GSW W 21 8 4 8 50.0 0 0 - 0 0 - 1 4 5 0 2 0 1 1 5
+p420
+aVMark Bryant SAS 01/26/2002 SAS @ GSW W 6 0 0 0 - 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -7
+p421
+aVTony Parker SAS 01/26/2002 SAS @ GSW W 31 12 3 9 33.3 0 1 0.0 6 9 66.7 0 4 4 6 1 0 2 1 0
+p422
+aVCherokee Parks SAS 01/26/2002 SAS @ GSW W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 1
+p423
+aVTerry Porter SAS 01/26/2002 SAS @ GSW W 17 5 2 2 100.0 1 1 100.0 0 1 0.0 0 2 2 2 1 0 1 1 8
+p424
+aVAntonio Daniels SAS 01/26/2002 SAS @ GSW W 24 8 3 7 42.9 2 4 50.0 0 0 - 0 4 4 5 0 0 0 2 -4
+p425
+aVDavid Robinson SAS 01/26/2002 SAS @ GSW W 27 12 5 10 50.0 0 0 - 2 2 100.0 1 5 6 0 1 7 2 1 6
+p426
+aVSteven Smith SAS 01/26/2002 SAS @ GSW W 25 6 2 8 25.0 1 3 33.3 1 1 100.0 1 2 3 3 1 0 2 2 3
+p427
+aVTim Duncan SAS 01/26/2002 SAS @ GSW W 42 20 7 18 38.9 0 1 0.0 6 6 100.0 0 9 9 4 1 3 4 1 12
+p428
+aVCharles Smith SAS 01/26/2002 SAS @ GSW W 34 19 9 16 56.3 0 5 0.0 1 1 100.0 1 7 8 2 1 1 1 3 15
+p429
+aVCharles Smith SAS 01/25/2002 SAS @ LAL L 27 9 3 7 42.9 0 2 0.0 3 3 100.0 1 5 6 0 3 0 0 4 1
+p430
+aVCherokee Parks SAS 01/25/2002 SAS @ LAL L 4 4 2 3 66.7 0 0 - 0 0 - 2 0 2 0 0 0 0 0 3
+p431
+aVTerry Porter SAS 01/25/2002 SAS @ LAL L 15 9 4 7 57.1 1 3 33.3 0 0 - 1 0 1 6 0 0 4 0 3
+p432
+aVMalik Rose SAS 01/25/2002 SAS @ LAL L 19 13 6 11 54.5 0 0 - 1 2 50.0 0 2 2 0 2 1 1 4 -2
+p433
+aVSteven Smith SAS 01/25/2002 SAS @ LAL L 33 1 0 4 0.0 0 2 0.0 1 1 100.0 0 0 0 1 0 0 1 3 -8
+p434
+aVTony Parker SAS 01/25/2002 SAS @ LAL L 27 14 6 12 50.0 1 2 50.0 1 1 100.0 1 1 2 3 0 0 0 0 -5
+p435
+aVTim Duncan SAS 01/25/2002 SAS @ LAL L 39 24 12 26 46.2 0 0 - 0 0 - 3 8 11 1 0 2 5 4 -4
+p436
+aVAmal McCaskill SAS 01/25/2002 SAS @ LAL L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -4
+p437
+aVAntonio Daniels SAS 01/25/2002 SAS @ LAL L 32 7 3 4 75.0 1 1 100.0 0 0 - 1 2 3 2 1 1 1 1 1
+p438
+aVDavid Robinson SAS 01/25/2002 SAS @ LAL L 40 10 3 11 27.3 0 0 - 4 6 66.7 2 10 12 1 2 1 1 2 0
+p439
+aVSteven Smith SAS 01/23/2002 SAS @ UTA W 36 29 6 10 60.0 5 5 100.0 12 12 100.0 0 2 2 2 2 0 2 3 15
+p440
+aVJason Hart SAS 01/23/2002 SAS @ UTA W 11 0 0 0 - 0 0 - 0 0 - 0 3 3 2 1 0 3 4 1
+p441
+aVAntonio Daniels SAS 01/23/2002 SAS @ UTA W 40 8 3 9 33.3 2 5 40.0 0 0 - 0 3 3 5 2 0 3 1 -2
+p442
+aVTerry Porter SAS 01/23/2002 SAS @ UTA W 24 10 3 6 50.0 2 2 100.0 2 2 100.0 0 4 4 4 0 0 1 0 4
+p443
+aVMalik Rose SAS 01/23/2002 SAS @ UTA W 22 6 2 3 66.7 0 1 0.0 2 2 100.0 0 5 5 0 2 0 0 2 2
+p444
+aVAmal McCaskill SAS 01/23/2002 SAS @ UTA W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -1
+p445
+aVCharles Smith SAS 01/23/2002 SAS @ UTA W 18 7 2 5 40.0 1 3 33.3 2 3 66.7 0 0 0 0 0 1 0 3 -4
+p446
+aVTim Duncan SAS 01/23/2002 SAS @ UTA W 44 26 11 18 61.1 0 0 - 4 4 100.0 0 9 9 3 0 4 4 3 5
+p447
+aVStephen Jackson SAS 01/23/2002 SAS @ UTA W 8 2 0 2 0.0 0 2 0.0 2 2 100.0 0 1 1 0 1 0 1 2 -2
+p448
+aVDavid Robinson SAS 01/23/2002 SAS @ UTA W 36 10 3 4 75.0 0 0 - 4 4 100.0 0 5 5 1 0 2 2 2 12
+p449
+aVTerry Porter SAS 01/22/2002 SAS vs. NJN L 18 0 0 2 0.0 0 1 0.0 0 0 - 1 0 1 1 0 0 1 1 -10
+p450
+aVCherokee Parks SAS 01/22/2002 SAS vs. NJN L 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p451
+aVAntonio Daniels SAS 01/22/2002 SAS vs. NJN L 38 18 7 16 43.8 2 5 40.0 2 4 50.0 2 3 5 4 0 0 0 3 5
+p452
+aVTim Duncan SAS 01/22/2002 SAS vs. NJN L 44 32 10 17 58.8 0 1 0.0 12 14 85.7 3 11 14 1 3 4 5 3 -1
+p453
+aVCharles Smith SAS 01/22/2002 SAS vs. NJN L 41 9 3 12 25.0 0 4 0.0 3 4 75.0 1 5 6 6 1 1 1 5 -7
+p454
+aVDavid Robinson SAS 01/22/2002 SAS vs. NJN L 38 16 6 14 42.9 0 0 - 4 6 66.7 3 4 7 2 3 3 2 1 6
+p455
+aVSteven Smith SAS 01/22/2002 SAS vs. NJN L 27 2 1 5 20.0 0 1 0.0 0 0 - 2 1 3 4 0 0 0 1 -5
+p456
+aVStephen Jackson SAS 01/22/2002 SAS vs. NJN L 21 5 1 8 12.5 1 5 20.0 2 2 100.0 0 4 4 0 0 0 3 4 -1
+p457
+aVMalik Rose SAS 01/22/2002 SAS vs. NJN L 11 4 2 5 40.0 0 0 - 0 0 - 0 1 1 0 0 1 0 4 -16
+p458
+aVSteven Smith SAS 01/19/2002 SAS vs. LAL L 41 11 3 10 30.0 0 4 0.0 5 5 100.0 0 5 5 1 1 0 2 1 -16
+p459
+aVMark Bryant SAS 01/19/2002 SAS vs. LAL L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -1
+p460
+aVTim Duncan SAS 01/19/2002 SAS vs. LAL L 45 20 9 21 42.9 0 0 - 2 2 100.0 2 13 15 4 1 3 3 0 -15
+p461
+aVCharles Smith SAS 01/19/2002 SAS vs. LAL L 33 21 10 16 62.5 1 5 20.0 0 2 0.0 0 2 2 2 1 2 1 3 -6
+p462
+aVMalik Rose SAS 01/19/2002 SAS vs. LAL L 26 8 4 11 36.4 0 1 0.0 0 0 - 2 5 7 1 2 0 2 1 -18
+p463
+aVTerry Porter SAS 01/19/2002 SAS vs. LAL L 16 2 1 3 33.3 0 0 - 0 0 - 0 0 0 1 1 0 1 0 -16
+p464
+aVAntonio Daniels SAS 01/19/2002 SAS vs. LAL L 37 10 4 7 57.1 0 2 0.0 2 2 100.0 0 0 0 2 0 1 2 2 -7
+p465
+aVStephen Jackson SAS 01/19/2002 SAS vs. LAL L 17 5 2 6 33.3 0 3 0.0 1 2 50.0 1 1 2 1 0 0 1 3 -7
+p466
+aVDavid Robinson SAS 01/19/2002 SAS vs. LAL L 24 4 1 8 12.5 0 0 - 2 2 100.0 5 3 8 0 0 3 0 3 1
+p467
+aVAntonio Daniels SAS 01/17/2002 SAS vs. UTA W 39 18 6 11 54.5 0 2 0.0 6 8 75.0 2 3 5 6 0 0 2 2 -4
+p468
+aVDavid Robinson SAS 01/17/2002 SAS vs. UTA W 30 4 2 6 33.3 0 0 - 0 0 - 5 4 9 1 2 0 2 4 0
+p469
+aVCharles Smith SAS 01/17/2002 SAS vs. UTA W 41 19 8 16 50.0 1 6 16.7 2 2 100.0 0 6 6 1 2 0 1 2 5
+p470
+aVSteven Smith SAS 01/17/2002 SAS vs. UTA W 33 10 4 9 44.4 1 3 33.3 1 1 100.0 1 1 2 1 1 0 4 2 -4
+p471
+aVTim Duncan SAS 01/17/2002 SAS vs. UTA W 44 35 9 17 52.9 0 0 - 17 17 100.0 3 7 10 3 0 5 0 3 8
+p472
+aVTerry Porter SAS 01/17/2002 SAS vs. UTA W 15 2 0 4 0.0 0 0 - 2 2 100.0 0 1 1 1 0 0 1 1 4
+p473
+aVStephen Jackson SAS 01/17/2002 SAS vs. UTA W 17 12 4 7 57.1 2 4 50.0 2 2 100.0 0 1 1 1 3 0 0 2 11
+p474
+aVMalik Rose SAS 01/17/2002 SAS vs. UTA W 21 2 1 5 20.0 0 0 - 0 0 - 0 1 1 0 1 2 0 4 0
+p475
+aVStephen Jackson SAS 01/15/2002 SAS @ WAS W 12 3 1 2 50.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 -10
+p476
+aVSteven Smith SAS 01/15/2002 SAS @ WAS W 37 18 7 10 70.0 3 4 75.0 1 1 100.0 2 3 5 3 1 0 0 3 13
+p477
+aVMark Bryant SAS 01/15/2002 SAS @ WAS W 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 0 0 0 -1
+p478
+aVTim Duncan SAS 01/15/2002 SAS @ WAS W 43 22 6 17 35.3 0 0 - 10 12 83.3 0 7 7 2 3 1 6 3 9
+p479
+aVCharles Smith SAS 01/15/2002 SAS @ WAS W 39 21 8 14 57.1 4 5 80.0 1 5 20.0 1 1 2 1 2 1 0 5 14
+p480
+aVDavid Robinson SAS 01/15/2002 SAS @ WAS W 30 10 4 7 57.1 0 0 - 2 2 100.0 4 6 10 1 0 1 2 6 1
+p481
+aVMalik Rose SAS 01/15/2002 SAS @ WAS W 19 9 4 8 50.0 0 1 0.0 1 3 33.3 0 4 4 2 0 1 2 3 1
+p482
+aVTerry Porter SAS 01/15/2002 SAS @ WAS W 19 2 0 4 0.0 0 3 0.0 2 2 100.0 0 3 3 7 1 0 1 0 -1
+p483
+aVAntonio Daniels SAS 01/15/2002 SAS @ WAS W 37 11 5 13 38.5 0 5 0.0 1 2 50.0 0 2 2 6 2 0 1 2 -1
+p484
+aVMalik Rose SAS 01/14/2002 SAS @ NJN L 27 6 3 8 37.5 0 0 - 0 0 - 3 5 8 1 0 0 2 3 22
+p485
+aVCharles Smith SAS 01/14/2002 SAS @ NJN L 28 8 4 9 44.4 0 2 0.0 0 0 - 0 3 3 1 1 0 2 0 2
+p486
+aVTerry Porter SAS 01/14/2002 SAS @ NJN L 30 14 5 9 55.6 2 4 50.0 2 2 100.0 0 2 2 6 0 0 0 0 13
+p487
+aVStephen Jackson SAS 01/14/2002 SAS @ NJN L 25 16 7 12 58.3 1 4 25.0 1 2 50.0 0 2 2 0 3 0 3 3 4
+p488
+aVSteven Smith SAS 01/14/2002 SAS @ NJN L 36 8 3 10 30.0 1 2 50.0 1 2 50.0 0 3 3 0 2 2 1 4 -4
+p489
+aVDavid Robinson SAS 01/14/2002 SAS @ NJN L 24 5 0 4 0.0 0 0 - 5 8 62.5 1 2 3 0 1 0 2 1 -21
+p490
+aVAntonio Daniels SAS 01/14/2002 SAS @ NJN L 19 4 2 6 33.3 0 0 - 0 0 - 0 1 1 1 1 0 0 1 -17
+p491
+aVTim Duncan SAS 01/14/2002 SAS @ NJN L 46 27 10 16 62.5 0 0 - 7 8 87.5 0 9 9 6 1 2 2 2 -5
+p492
+aVTony Parker SAS 01/14/2002 SAS @ NJN L 6 9 3 5 60.0 1 2 50.0 2 2 100.0 0 0 0 0 0 0 0 0 -4
+p493
+aVStephen Jackson SAS 01/11/2002 SAS @ PHI L 14 4 2 8 25.0 0 2 0.0 0 0 - 0 2 2 1 0 2 2 0 4
+p494
+aVTony Parker SAS 01/11/2002 SAS @ PHI L 31 9 2 7 28.6 1 3 33.3 4 4 100.0 0 3 3 3 0 0 2 5 -15
+p495
+aVMalik Rose SAS 01/11/2002 SAS @ PHI L 21 13 4 7 57.1 0 0 - 5 5 100.0 0 5 5 0 0 2 3 1 -15
+p496
+aVSteven Smith SAS 01/11/2002 SAS @ PHI L 27 6 3 8 37.5 0 2 0.0 0 0 - 1 0 1 1 0 0 1 2 -13
+p497
+aVAntonio Daniels SAS 01/11/2002 SAS @ PHI L 39 10 3 6 50.0 1 3 33.3 3 4 75.0 1 1 2 3 1 0 3 1 -14
+p498
+aVAmal McCaskill SAS 01/11/2002 SAS @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 1
+p499
+aVTerry Porter SAS 01/11/2002 SAS @ PHI L 17 6 2 4 50.0 2 4 50.0 0 0 - 0 2 2 3 1 0 3 2 -2
+p500
+aVTim Duncan SAS 01/11/2002 SAS @ PHI L 41 22 8 21 38.1 0 0 - 6 6 100.0 7 8 15 1 2 3 4 4 -12
+p501
+aVCharles Smith SAS 01/11/2002 SAS @ PHI L 17 6 3 7 42.9 0 2 0.0 0 0 - 1 1 2 1 1 0 2 5 -11
+p502
+aVDavid Robinson SAS 01/11/2002 SAS @ PHI L 27 8 2 7 28.6 0 0 - 4 6 66.7 5 6 11 1 0 0 0 1 -9
+p503
+aVCherokee Parks SAS 01/11/2002 SAS @ PHI L 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p504
+aVTony Parker SAS 01/09/2002 SAS @ BOS W 27 7 2 5 40.0 1 1 100.0 2 2 100.0 1 2 3 2 1 0 2 1 -5
+p505
+aVMark Bryant SAS 01/09/2002 SAS @ BOS W 6 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 7
+p506
+aVCharles Smith SAS 01/09/2002 SAS @ BOS W 19 0 0 5 0.0 0 3 0.0 0 0 - 0 2 2 0 2 1 0 5 -10
+p507
+aVTim Duncan SAS 01/09/2002 SAS @ BOS W 47 25 6 13 46.2 0 0 - 13 16 81.3 3 9 12 4 1 2 4 3 6
+p508
+aVMalik Rose SAS 01/09/2002 SAS @ BOS W 22 10 3 8 37.5 0 0 - 4 4 100.0 1 2 3 1 1 0 2 2 7
+p509
+aVBruce Bowen SAS 01/09/2002 SAS @ BOS W 3 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 0 0 0 1 0 0
+p510
+aVSteven Smith SAS 01/09/2002 SAS @ BOS W 24 19 6 8 75.0 5 6 83.3 2 2 100.0 0 4 4 1 1 0 1 5 8
+p511
+aVTerry Porter SAS 01/09/2002 SAS @ BOS W 29 11 2 6 33.3 1 4 25.0 6 8 75.0 0 6 6 2 2 0 0 0 5
+p512
+aVAntonio Daniels SAS 01/09/2002 SAS @ BOS W 32 5 2 6 33.3 0 2 0.0 1 1 100.0 0 2 2 5 1 0 4 2 7
+p513
+aVDavid Robinson SAS 01/09/2002 SAS @ BOS W 33 11 3 8 37.5 0 0 - 5 7 71.4 1 5 6 0 0 1 2 0 -10
+p514
+aVMalik Rose SAS 01/07/2002 SAS vs. NYK W 19 13 4 9 44.4 0 0 - 5 6 83.3 5 1 6 0 2 0 1 0 8
+p515
+aVDavid Robinson SAS 01/07/2002 SAS vs. NYK W 38 8 3 9 33.3 0 0 - 2 4 50.0 1 8 9 2 1 7 1 2 11
+p516
+aVAmal McCaskill SAS 01/07/2002 SAS vs. NYK W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p517
+aVTony Parker SAS 01/07/2002 SAS vs. NYK W 29 14 6 13 46.2 0 2 0.0 2 3 66.7 1 3 4 5 2 0 2 2 5
+p518
+aVTerry Porter SAS 01/07/2002 SAS vs. NYK W 19 5 1 6 16.7 1 5 20.0 2 2 100.0 0 1 1 3 0 0 1 0 6
+p519
+aVCharles Smith SAS 01/07/2002 SAS vs. NYK W 18 10 3 6 50.0 2 4 50.0 2 4 50.0 0 2 2 0 0 1 1 4 -6
+p520
+aVSteven Smith SAS 01/07/2002 SAS vs. NYK W 26 12 5 8 62.5 2 2 100.0 0 0 - 0 2 2 0 1 1 1 3 10
+p521
+aVBruce Bowen SAS 01/07/2002 SAS vs. NYK W 30 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 1 2 17
+p522
+aVTim Duncan SAS 01/07/2002 SAS vs. NYK W 39 21 7 15 46.7 0 0 - 7 9 77.8 2 10 12 4 1 0 3 2 5
+p523
+aVAntonio Daniels SAS 01/07/2002 SAS vs. NYK W 22 4 2 6 33.3 0 3 0.0 0 0 - 0 3 3 1 0 0 1 0 1
+p524
+aVTim Duncan SAS 01/05/2002 SAS @ DAL W 40 29 10 18 55.6 0 0 - 9 13 69.2 5 12 17 2 1 0 4 6 15
+p525
+aVDavid Robinson SAS 01/05/2002 SAS @ DAL W 34 8 2 4 50.0 0 0 - 4 10 40.0 2 5 7 0 1 1 2 3 -2
+p526
+aVTony Parker SAS 01/05/2002 SAS @ DAL W 18 7 3 6 50.0 0 1 0.0 1 2 50.0 0 0 0 3 0 0 0 3 -3
+p527
+aVBruce Bowen SAS 01/05/2002 SAS @ DAL W 30 4 2 6 33.3 0 0 - 0 0 - 0 2 2 1 0 0 0 2 -1
+p528
+aVTerry Porter SAS 01/05/2002 SAS @ DAL W 30 22 7 14 50.0 2 3 66.7 6 6 100.0 1 6 7 6 2 1 3 4 5
+p529
+aVMalik Rose SAS 01/05/2002 SAS @ DAL W 22 4 1 4 25.0 0 0 - 2 2 100.0 4 3 7 1 1 0 3 2 -9
+p530
+aVAntonio Daniels SAS 01/05/2002 SAS @ DAL W 25 13 4 6 66.7 3 4 75.0 2 2 100.0 0 2 2 2 0 0 0 3 -2
+p531
+aVSteven Smith SAS 01/05/2002 SAS @ DAL W 41 18 8 15 53.3 2 5 40.0 0 0 - 0 2 2 1 1 0 0 3 7
+p532
+aVCharles Smith SAS 01/04/2002 SAS vs. IND L 15 3 1 5 20.0 1 5 20.0 0 0 - 0 0 0 0 0 0 1 3 -9
+p533
+aVBruce Bowen SAS 01/04/2002 SAS vs. IND L 19 7 3 6 50.0 0 1 0.0 1 2 50.0 0 2 2 0 0 0 0 2 -6
+p534
+aVTerry Porter SAS 01/04/2002 SAS vs. IND L 19 4 2 8 25.0 0 3 0.0 0 0 - 0 4 4 1 2 1 1 1 3
+p535
+aVMalik Rose SAS 01/04/2002 SAS vs. IND L 20 10 3 8 37.5 0 0 - 4 6 66.7 3 5 8 1 1 1 1 4 10
+p536
+aVDavid Robinson SAS 01/04/2002 SAS vs. IND L 32 6 0 3 0.0 0 0 - 6 8 75.0 4 4 8 1 1 3 3 1 -24
+p537
+aVAntonio Daniels SAS 01/04/2002 SAS vs. IND L 19 6 3 10 30.0 0 5 0.0 0 0 - 1 1 2 0 0 0 2 1 6
+p538
+aVMark Bryant SAS 01/04/2002 SAS vs. IND L 10 2 1 2 50.0 0 0 - 0 0 - 2 1 3 0 0 0 0 2 5
+p539
+aVTim Duncan SAS 01/04/2002 SAS vs. IND L 41 22 6 18 33.3 0 1 0.0 10 10 100.0 5 7 12 6 1 4 6 4 -4
+p540
+aVTony Parker SAS 01/04/2002 SAS vs. IND L 29 10 4 11 36.4 1 5 20.0 1 2 50.0 0 1 1 2 0 0 1 2 -13
+p541
+aVSteven Smith SAS 01/04/2002 SAS vs. IND L 35 12 4 10 40.0 2 6 33.3 2 2 100.0 1 1 2 1 0 0 1 3 -18
+p542
+aVAntonio Daniels SAS 01/02/2002 SAS vs. DET W 24 7 3 8 37.5 0 1 0.0 1 2 50.0 2 1 3 1 0 0 0 0 6
+p543
+aVAmal McCaskill SAS 01/02/2002 SAS vs. DET W 2 2 1 2 50.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p544
+aVSteven Smith SAS 01/02/2002 SAS vs. DET W 27 15 5 7 71.4 3 3 100.0 2 3 66.7 0 1 1 2 0 0 1 3 2
+p545
+aVBruce Bowen SAS 01/02/2002 SAS vs. DET W 28 6 2 6 33.3 0 0 - 2 4 50.0 1 0 1 1 1 0 0 1 11
+p546
+aVTony Parker SAS 01/02/2002 SAS vs. DET W 23 5 1 5 20.0 1 2 50.0 2 2 100.0 0 2 2 2 0 0 1 3 -4
+p547
+aVTerry Porter SAS 01/02/2002 SAS vs. DET W 25 7 3 5 60.0 1 2 50.0 0 0 - 0 3 3 8 0 0 2 2 16
+p548
+aVCharles Smith SAS 01/02/2002 SAS vs. DET W 17 10 5 9 55.6 0 1 0.0 0 0 - 0 0 0 1 1 1 1 2 5
+p549
+aVMark Bryant SAS 01/02/2002 SAS vs. DET W 8 0 0 2 0.0 0 0 - 0 0 - 0 1 1 0 2 0 0 4 7
+p550
+aVTim Duncan SAS 01/02/2002 SAS vs. DET W 40 20 8 19 42.1 0 0 - 4 7 57.1 4 11 15 4 0 3 2 3 7
+p551
+aVMalik Rose SAS 01/02/2002 SAS vs. DET W 16 13 6 6 100.0 0 0 - 1 2 50.0 3 2 5 0 3 0 3 3 9
+p552
+aVCherokee Parks SAS 01/02/2002 SAS vs. DET W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p553
+aVDavid Robinson SAS 01/02/2002 SAS vs. DET W 29 12 3 5 60.0 0 0 - 6 6 100.0 1 2 3 2 2 0 2 1 1
+p554
+aVBruce Bowen SAS 12/30/2001 SAS @ MEM W 41 13 5 10 50.0 2 4 50.0 1 2 50.0 1 1 2 2 3 0 0 5 8
+p555
+aVMalik Rose SAS 12/30/2001 SAS @ MEM W 15 4 2 8 25.0 0 1 0.0 0 0 - 5 1 6 0 0 0 0 4 -15
+p556
+aVTerry Porter SAS 12/30/2001 SAS @ MEM W 9 2 1 1 100.0 0 0 - 0 0 - 0 1 1 2 1 0 0 0 -8
+p557
+aVCharles Smith SAS 12/30/2001 SAS @ MEM W 12 0 0 3 0.0 0 0 - 0 2 0.0 0 0 0 0 1 0 2 1 -13
+p558
+aVDavid Robinson SAS 12/30/2001 SAS @ MEM W 35 21 9 14 64.3 0 0 - 3 6 50.0 6 6 12 0 2 2 3 4 15
+p559
+aVSteven Smith SAS 12/30/2001 SAS @ MEM W 22 4 2 6 33.3 0 1 0.0 0 1 0.0 0 3 3 5 0 0 1 0 16
+p560
+aVAntonio Daniels SAS 12/30/2001 SAS @ MEM W 22 5 2 4 50.0 0 0 - 1 3 33.3 0 0 0 5 1 0 0 0 1
+p561
+aVTony Parker SAS 12/30/2001 SAS @ MEM W 37 7 2 9 22.2 1 4 25.0 2 2 100.0 1 5 6 4 1 0 4 4 8
+p562
+aVTim Duncan SAS 12/30/2001 SAS @ MEM W 46 27 12 25 48.0 0 0 - 3 8 37.5 5 13 18 4 0 7 4 2 8
+p563
+aVAntonio Daniels SAS 12/29/2001 SAS @ MIL L 22 8 4 8 50.0 0 2 0.0 0 1 0.0 0 2 2 3 0 0 1 1 -3
+p564
+aVSteven Smith SAS 12/29/2001 SAS @ MIL L 30 13 6 13 46.2 1 3 33.3 0 0 - 1 1 2 1 0 0 0 1 4
+p565
+aVDavid Robinson SAS 12/29/2001 SAS @ MIL L 20 6 2 5 40.0 0 0 - 2 2 100.0 1 2 3 0 1 1 1 3 -7
+p566
+aVTony Parker SAS 12/29/2001 SAS @ MIL L 33 10 5 8 62.5 0 1 0.0 0 3 0.0 0 2 2 7 1 0 3 4 0
+p567
+aVTim Duncan SAS 12/29/2001 SAS @ MIL L 50 38 13 25 52.0 0 1 0.0 12 15 80.0 4 12 16 3 0 3 6 1 -1
+p568
+aVTerry Porter SAS 12/29/2001 SAS @ MIL L 20 3 1 3 33.3 1 3 33.3 0 0 - 0 3 3 3 1 0 1 2 -3
+p569
+aVCharles Smith SAS 12/29/2001 SAS @ MIL L 27 7 3 11 27.3 1 4 25.0 0 0 - 0 4 4 2 1 3 1 3 8
+p570
+aVBruce Bowen SAS 12/29/2001 SAS @ MIL L 27 3 1 8 12.5 1 2 50.0 0 0 - 1 0 1 0 2 0 1 0 -15
+p571
+aVMark Bryant SAS 12/29/2001 SAS @ MIL L 6 3 1 1 100.0 0 0 - 1 2 50.0 1 0 1 1 0 0 0 0 1
+p572
+aVMalik Rose SAS 12/29/2001 SAS @ MIL L 29 8 2 6 33.3 0 1 0.0 4 6 66.7 3 8 11 0 0 0 1 2 1
+p573
+aVTerry Porter SAS 12/26/2001 SAS vs. DAL L 32 8 3 8 37.5 1 4 25.0 1 1 100.0 1 3 4 3 3 0 1 2 2
+p574
+aVDavid Robinson SAS 12/26/2001 SAS vs. DAL L 25 13 3 5 60.0 0 0 - 7 8 87.5 1 6 7 0 1 2 2 1 1
+p575
+aVMalik Rose SAS 12/26/2001 SAS vs. DAL L 30 12 2 7 28.6 0 0 - 8 8 100.0 5 4 9 0 1 0 2 5 -6
+p576
+aVBruce Bowen SAS 12/26/2001 SAS vs. DAL L 31 12 4 11 36.4 2 5 40.0 2 4 50.0 0 0 0 2 2 1 0 2 -9
+p577
+aVAntonio Daniels SAS 12/26/2001 SAS vs. DAL L 17 4 1 3 33.3 0 0 - 2 2 100.0 0 0 0 1 1 0 0 0 4
+p578
+aVTim Duncan SAS 12/26/2001 SAS vs. DAL L 50 53 19 28 67.9 0 0 - 15 15 100.0 4 7 11 4 0 3 6 5 -1
+p579
+aVCharles Smith SAS 12/26/2001 SAS vs. DAL L 13 5 2 5 40.0 1 2 50.0 0 0 - 0 0 0 2 1 1 1 2 3
+p580
+aVTony Parker SAS 12/26/2001 SAS vs. DAL L 23 5 2 9 22.2 1 2 50.0 0 0 - 0 2 2 2 4 1 4 6 -8
+p581
+aVSteven Smith SAS 12/26/2001 SAS vs. DAL L 44 11 3 9 33.3 2 5 40.0 3 3 100.0 0 4 4 2 2 0 0 4 -1
+p582
+aVTim Duncan SAS 12/23/2001 SAS vs. MIL L 44 22 9 22 40.9 0 0 - 4 7 57.1 6 12 18 4 0 2 5 2 -9
+p583
+aVAntonio Daniels SAS 12/23/2001 SAS vs. MIL L 23 2 1 6 16.7 0 3 0.0 0 0 - 0 2 2 1 1 0 1 4 -8
+p584
+aVCharles Smith SAS 12/23/2001 SAS vs. MIL L 19 4 1 8 12.5 0 5 0.0 2 2 100.0 1 2 3 1 0 4 1 0 -9
+p585
+aVBruce Bowen SAS 12/23/2001 SAS vs. MIL L 24 2 0 4 0.0 0 3 0.0 2 4 50.0 0 3 3 2 1 1 1 3 -2
+p586
+aVDavid Robinson SAS 12/23/2001 SAS vs. MIL L 39 21 8 11 72.7 0 0 - 5 6 83.3 3 3 6 2 0 1 1 1 -9
+p587
+aVMalik Rose SAS 12/23/2001 SAS vs. MIL L 13 2 1 4 25.0 0 0 - 0 0 - 3 1 4 0 0 1 0 1 -2
+p588
+aVTony Parker SAS 12/23/2001 SAS vs. MIL L 36 16 7 14 50.0 1 5 20.0 1 1 100.0 1 2 3 5 1 0 3 3 -8
+p589
+aVSteven Smith SAS 12/23/2001 SAS vs. MIL L 30 20 6 12 50.0 5 8 62.5 3 4 75.0 0 1 1 0 0 1 1 3 -1
+p590
+aVTerry Porter SAS 12/23/2001 SAS vs. MIL L 12 2 1 2 50.0 0 1 0.0 0 1 0.0 0 2 2 2 1 0 0 0 -2
+p591
+aVAntonio Daniels SAS 12/21/2001 SAS vs. DEN W 24 4 1 5 20.0 0 2 0.0 2 2 100.0 0 2 2 3 1 0 0 2 12
+p592
+aVBruce Bowen SAS 12/21/2001 SAS vs. DEN W 24 8 3 9 33.3 2 4 50.0 0 2 0.0 0 4 4 1 1 0 0 3 23
+p593
+aVTim Duncan SAS 12/21/2001 SAS vs. DEN W 31 21 7 10 70.0 0 0 - 7 7 100.0 0 3 3 2 1 3 8 4 28
+p594
+aVDavid Robinson SAS 12/21/2001 SAS vs. DEN W 23 14 7 11 63.6 0 0 - 0 2 0.0 4 4 8 2 1 3 0 0 19
+p595
+aVMark Bryant SAS 12/21/2001 SAS vs. DEN W 10 4 2 3 66.7 0 0 - 0 0 - 1 2 3 1 2 2 1 2 12
+p596
+aVCherokee Parks SAS 12/21/2001 SAS vs. DEN W 8 4 2 3 66.7 0 0 - 0 0 - 3 1 4 2 0 0 0 0 4
+p597
+aVMalik Rose SAS 12/21/2001 SAS vs. DEN W 19 8 4 6 66.7 0 0 - 0 0 - 0 8 8 1 5 1 1 0 14
+p598
+aVTerry Porter SAS 12/21/2001 SAS vs. DEN W 21 7 3 4 75.0 1 1 100.0 0 0 - 0 5 5 3 1 0 2 1 15
+p599
+aVSteven Smith SAS 12/21/2001 SAS vs. DEN W 29 10 4 6 66.7 0 0 - 2 4 50.0 2 1 3 2 2 0 1 1 27
+p600
+aVCharles Smith SAS 12/21/2001 SAS vs. DEN W 18 12 5 8 62.5 2 4 50.0 0 1 0.0 1 2 3 5 0 1 1 0 8
+p601
+aVAmal McCaskill SAS 12/21/2001 SAS vs. DEN W 4 3 1 3 33.3 0 0 - 1 2 50.0 0 0 0 0 0 0 2 3 -7
+p602
+aVTony Parker SAS 12/21/2001 SAS vs. DEN W 27 14 4 5 80.0 1 1 100.0 5 6 83.3 0 2 2 2 5 0 2 2 20
+p603
+aVTerry Porter SAS 12/19/2001 SAS vs. POR W 12 6 2 4 50.0 1 2 50.0 1 1 100.0 1 1 2 2 2 0 0 0 5
+p604
+aVCherokee Parks SAS 12/19/2001 SAS vs. POR W 2 2 1 1 100.0 0 0 - 0 0 - 1 0 1 0 0 0 0 0 4
+p605
+aVCharles Smith SAS 12/19/2001 SAS vs. POR W 18 9 3 7 42.9 1 3 33.3 2 2 100.0 1 1 2 1 0 1 2 3 12
+p606
+aVBruce Bowen SAS 12/19/2001 SAS vs. POR W 29 6 2 5 40.0 2 2 100.0 0 0 - 0 2 2 2 2 0 0 4 12
+p607
+aVDavid Robinson SAS 12/19/2001 SAS vs. POR W 32 11 5 13 38.5 0 0 - 1 2 50.0 2 14 16 2 1 2 0 3 26
+p608
+aVTony Parker SAS 12/19/2001 SAS vs. POR W 35 11 4 7 57.1 1 2 50.0 2 2 100.0 1 4 5 6 2 0 2 1 9
+p609
+aVSteven Smith SAS 12/19/2001 SAS vs. POR W 33 14 5 15 33.3 4 8 50.0 0 0 - 1 0 1 1 3 1 0 5 10
+p610
+aVTim Duncan SAS 12/19/2001 SAS vs. POR W 41 26 9 21 42.9 0 1 0.0 8 10 80.0 4 8 12 5 1 2 5 1 10
+p611
+aVMalik Rose SAS 12/19/2001 SAS vs. POR W 18 8 4 6 66.7 0 1 0.0 0 0 - 1 4 5 1 0 0 2 3 -8
+p612
+aVJason Hart SAS 12/19/2001 SAS vs. POR W 2 0 0 0 - 0 0 - 0 0 - 0 0 0 1 1 0 0 0 4
+p613
+aVAmal McCaskill SAS 12/19/2001 SAS vs. POR W 3 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 4
+p614
+aVAntonio Daniels SAS 12/19/2001 SAS vs. POR W 17 2 1 5 20.0 0 3 0.0 0 0 - 0 0 0 3 2 0 1 1 2
+p615
+aVMalik Rose SAS 12/18/2001 SAS @ DEN W 29 9 1 5 20.0 0 1 0.0 7 8 87.5 0 8 8 1 1 0 3 2 17
+p616
+aVSteven Smith SAS 12/18/2001 SAS @ DEN W 27 4 2 6 33.3 0 4 0.0 0 0 - 0 0 0 3 1 0 1 2 -6
+p617
+aVAntonio Daniels SAS 12/18/2001 SAS @ DEN W 26 16 4 9 44.4 1 4 25.0 7 9 77.8 0 1 1 1 0 0 1 1 10
+p618
+aVTim Duncan SAS 12/18/2001 SAS @ DEN W 40 24 9 15 60.0 0 0 - 6 8 75.0 7 9 16 5 2 5 4 3 6
+p619
+aVCharles Smith SAS 12/18/2001 SAS @ DEN W 21 9 4 10 40.0 1 3 33.3 0 0 - 0 1 1 2 0 3 1 4 15
+p620
+aVDavid Robinson SAS 12/18/2001 SAS @ DEN W 26 13 4 6 66.7 0 0 - 5 6 83.3 2 6 8 2 1 1 0 2 -6
+p621
+aVTony Parker SAS 12/18/2001 SAS @ DEN W 19 4 2 7 28.6 0 2 0.0 0 0 - 1 0 1 3 0 0 0 1 -4
+p622
+aVTerry Porter SAS 12/18/2001 SAS @ DEN W 29 13 4 5 80.0 3 4 75.0 2 2 100.0 1 6 7 4 0 0 3 1 13
+p623
+aVBruce Bowen SAS 12/18/2001 SAS @ DEN W 23 10 4 7 57.1 2 4 50.0 0 2 0.0 0 2 2 3 0 0 1 0 0
+p624
+aVCherokee Parks SAS 12/15/2001 SAS vs. UTA W 11 0 0 5 0.0 0 0 - 0 0 - 2 0 2 0 0 1 0 3 -18
+p625
+aVTim Duncan SAS 12/15/2001 SAS vs. UTA W 29 26 9 10 90.0 0 0 - 8 9 88.9 2 8 10 2 1 1 1 4 23
+p626
+aVBruce Bowen SAS 12/15/2001 SAS vs. UTA W 24 5 2 5 40.0 1 4 25.0 0 0 - 0 3 3 2 0 1 2 1 20
+p627
+aVAntonio Daniels SAS 12/15/2001 SAS vs. UTA W 32 18 7 14 50.0 2 6 33.3 2 2 100.0 1 6 7 1 0 0 0 2 13
+p628
+aVTony Parker SAS 12/15/2001 SAS vs. UTA W 32 12 4 10 40.0 0 3 0.0 4 4 100.0 0 1 1 2 1 0 1 3 8
+p629
+aVDavid Robinson SAS 12/15/2001 SAS vs. UTA W 27 9 4 6 66.7 0 0 - 1 2 50.0 0 6 6 2 2 3 4 0 28
+p630
+aVMalik Rose SAS 12/15/2001 SAS vs. UTA W 20 3 1 2 50.0 0 0 - 1 2 50.0 2 4 6 1 3 1 1 3 14
+p631
+aVTerry Porter SAS 12/15/2001 SAS vs. UTA W 16 4 2 5 40.0 0 2 0.0 0 1 0.0 0 3 3 3 0 1 2 1 12
+p632
+aVSteven Smith SAS 12/15/2001 SAS vs. UTA W 19 7 2 5 40.0 2 3 66.7 1 1 100.0 0 1 1 2 0 1 1 1 -5
+p633
+aVAmal McCaskill SAS 12/15/2001 SAS vs. UTA W 8 5 1 2 50.0 0 0 - 3 6 50.0 2 1 3 0 0 1 0 3 -7
+p634
+aVCharles Smith SAS 12/15/2001 SAS vs. UTA W 20 11 4 10 40.0 1 3 33.3 2 4 50.0 0 0 0 1 4 2 0 2 12
+p635
+aVAntonio Daniels SAS 12/14/2001 SAS @ PHX W 25 6 2 7 28.6 1 2 50.0 1 2 50.0 2 3 5 4 0 2 2 2 19
+p636
+aVTim Duncan SAS 12/14/2001 SAS @ PHX W 46 32 11 24 45.8 0 0 - 10 12 83.3 7 12 19 3 0 5 3 3 6
+p637
+aVTerry Porter SAS 12/14/2001 SAS @ PHX W 28 14 4 7 57.1 1 2 50.0 5 5 100.0 0 3 3 6 0 0 1 2 27
+p638
+aVBruce Bowen SAS 12/14/2001 SAS @ PHX W 24 0 0 1 0.0 0 1 0.0 0 0 - 0 3 3 1 0 0 1 1 -1
+p639
+aVMalik Rose SAS 12/14/2001 SAS @ PHX W 35 9 3 7 42.9 0 0 - 3 7 42.9 1 7 8 1 1 0 2 3 8
+p640
+aVDavid Robinson SAS 12/14/2001 SAS @ PHX W 16 10 3 5 60.0 0 0 - 4 7 57.1 3 6 9 0 0 2 0 4 10
+p641
+aVCharles Smith SAS 12/14/2001 SAS @ PHX W 23 19 8 14 57.1 2 5 40.0 1 2 50.0 1 4 5 3 1 1 2 1 14
+p642
+aVTony Parker SAS 12/14/2001 SAS @ PHX W 20 6 3 7 42.9 0 1 0.0 0 0 - 0 0 0 2 0 0 4 5 -12
+p643
+aVSteven Smith SAS 12/14/2001 SAS @ PHX W 24 9 4 9 44.4 1 2 50.0 0 0 - 1 2 3 2 1 0 2 3 -11
+p644
+aVTony Parker SAS 12/12/2001 SAS vs. TOR W 31 11 5 9 55.6 1 4 25.0 0 0 - 2 3 5 6 0 0 4 2 10
+p645
+aVCharles Smith SAS 12/12/2001 SAS vs. TOR W 20 10 4 8 50.0 1 4 25.0 1 1 100.0 0 1 1 0 1 0 2 2 1
+p646
+aVAntonio Daniels SAS 12/12/2001 SAS vs. TOR W 17 7 2 2 100.0 1 1 100.0 2 4 50.0 0 1 1 3 0 0 0 0 6
+p647
+aVCherokee Parks SAS 12/12/2001 SAS vs. TOR W 6 4 2 3 66.7 0 0 - 0 0 - 0 1 1 0 0 0 2 0 -5
+p648
+aVMalik Rose SAS 12/12/2001 SAS vs. TOR W 20 8 4 6 66.7 0 0 - 0 0 - 0 6 6 1 0 1 1 1 11
+p649
+aVDavid Robinson SAS 12/12/2001 SAS vs. TOR W 28 9 3 7 42.9 0 0 - 3 3 100.0 2 8 10 1 3 4 2 1 19
+p650
+aVBruce Bowen SAS 12/12/2001 SAS vs. TOR W 27 10 3 7 42.9 3 4 75.0 1 2 50.0 0 1 1 0 1 0 2 1 7
+p651
+aVSteven Smith SAS 12/12/2001 SAS vs. TOR W 32 17 7 11 63.6 1 2 50.0 2 3 66.7 0 1 1 2 0 0 1 1 12
+p652
+aVTim Duncan SAS 12/12/2001 SAS vs. TOR W 33 28 10 22 45.5 0 0 - 8 9 88.9 5 8 13 4 0 2 0 1 4
+p653
+aVAmal McCaskill SAS 12/12/2001 SAS vs. TOR W 8 0 0 2 0.0 0 0 - 0 0 - 3 1 4 0 0 0 2 2 -3
+p654
+aVTerry Porter SAS 12/12/2001 SAS vs. TOR W 17 4 2 2 100.0 0 0 - 0 0 - 0 1 1 2 1 0 1 2 3
+p655
+aVCharles Smith SAS 12/07/2001 SAS vs. PHI W 22 20 7 10 70.0 4 6 66.7 2 2 100.0 0 2 2 1 0 3 1 3 12
+p656
+aVAmal McCaskill SAS 12/07/2001 SAS vs. PHI W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p657
+aVTerry Porter SAS 12/07/2001 SAS vs. PHI W 17 0 0 1 0.0 0 0 - 0 0 - 1 3 4 0 0 0 1 0 8
+p658
+aVAntonio Daniels SAS 12/07/2001 SAS vs. PHI W 28 12 5 8 62.5 1 4 25.0 1 3 33.3 0 2 2 6 1 0 2 2 15
+p659
+aVBruce Bowen SAS 12/07/2001 SAS vs. PHI W 26 5 2 6 33.3 0 2 0.0 1 3 33.3 1 1 2 1 0 0 1 1 -2
+p660
+aVSteven Smith SAS 12/07/2001 SAS vs. PHI W 20 7 2 7 28.6 1 3 33.3 2 2 100.0 1 2 3 2 0 1 1 2 -5
+p661
+aVDavid Robinson SAS 12/07/2001 SAS vs. PHI W 29 12 6 9 66.7 0 0 - 0 1 0.0 2 7 9 0 1 1 2 2 -1
+p662
+aVTony Parker SAS 12/07/2001 SAS vs. PHI W 31 7 3 7 42.9 1 3 33.3 0 0 - 0 4 4 2 1 0 2 2 2
+p663
+aVTim Duncan SAS 12/07/2001 SAS vs. PHI W 44 18 5 14 35.7 0 0 - 8 10 80.0 2 7 9 4 2 4 2 2 19
+p664
+aVMalik Rose SAS 12/07/2001 SAS vs. PHI W 22 5 2 4 50.0 0 0 - 1 2 50.0 0 9 9 1 0 1 4 3 5
+p665
+aVBruce Bowen SAS 12/05/2001 SAS @ ATL W 24 21 8 8 100.0 4 4 100.0 1 2 50.0 0 1 1 4 1 1 1 0 21
+p666
+aVAntonio Daniels SAS 12/05/2001 SAS @ ATL W 22 9 2 5 40.0 2 3 66.7 3 4 75.0 0 0 0 1 0 0 1 1 -13
+p667
+aVTerry Porter SAS 12/05/2001 SAS @ ATL W 11 7 3 3 100.0 1 1 100.0 0 0 - 0 0 0 3 0 1 1 2 -7
+p668
+aVSteven Smith SAS 12/05/2001 SAS @ ATL W 35 29 12 20 60.0 4 7 57.1 1 3 33.3 3 3 6 4 0 0 3 1 16
+p669
+aVDavid Robinson SAS 12/05/2001 SAS @ ATL W 31 15 4 8 50.0 0 0 - 7 9 77.8 4 9 13 2 0 3 0 3 20
+p670
+aVDanny Ferry SAS 12/05/2001 SAS @ ATL W 15 11 4 5 80.0 2 2 100.0 1 2 50.0 0 2 2 1 0 0 0 2 -6
+p671
+aVAmal McCaskill SAS 12/05/2001 SAS @ ATL W 7 0 0 2 0.0 0 0 - 0 0 - 2 3 5 0 0 0 1 0 -7
+p672
+aVTony Parker SAS 12/05/2001 SAS @ ATL W 37 7 2 7 28.6 1 3 33.3 2 6 33.3 0 0 0 8 1 0 5 3 15
+p673
+aVMalik Rose SAS 12/05/2001 SAS @ ATL W 14 0 0 2 0.0 0 0 - 0 0 - 0 0 0 0 1 0 2 1 -5
+p674
+aVTim Duncan SAS 12/05/2001 SAS @ ATL W 44 21 8 20 40.0 0 0 - 5 6 83.3 2 13 15 3 1 2 5 4 6
+p675
+aVDavid Robinson SAS 12/04/2001 SAS vs. WAS W 23 13 5 8 62.5 0 0 - 3 7 42.9 1 3 4 2 2 3 0 1 11
+p676
+aVCharles Smith SAS 12/04/2001 SAS vs. WAS W 26 10 3 7 42.9 2 3 66.7 2 2 100.0 0 2 2 2 1 0 1 2 -3
+p677
+aVMalik Rose SAS 12/04/2001 SAS vs. WAS W 19 7 3 7 42.9 0 1 0.0 1 2 50.0 0 5 5 1 0 0 2 2 -5
+p678
+aVAmal McCaskill SAS 12/04/2001 SAS vs. WAS W 19 8 3 6 50.0 0 0 - 2 4 50.0 2 4 6 0 2 1 0 1 1
+p679
+aVAntonio Daniels SAS 12/04/2001 SAS vs. WAS W 27 15 6 12 50.0 2 5 40.0 1 1 100.0 0 1 1 3 0 0 0 0 -2
+p680
+aVTerry Porter SAS 12/04/2001 SAS vs. WAS W 15 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 4 0 1 0 1 13
+p681
+aVDanny Ferry SAS 12/04/2001 SAS vs. WAS W 7 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 1 0 1 1 6
+p682
+aVSteven Smith SAS 12/04/2001 SAS vs. WAS W 23 12 4 5 80.0 0 1 0.0 4 4 100.0 1 2 3 3 0 1 1 3 21
+p683
+aVTim Duncan SAS 12/04/2001 SAS vs. WAS W 28 13 5 11 45.5 0 0 - 3 4 75.0 3 8 11 5 1 1 1 3 17
+p684
+aVBruce Bowen SAS 12/04/2001 SAS vs. WAS W 20 9 3 7 42.9 2 5 40.0 1 2 50.0 1 1 2 1 1 0 0 1 14
+p685
+aVTony Parker SAS 12/04/2001 SAS vs. WAS W 33 11 4 12 33.3 1 5 20.0 2 2 100.0 0 1 1 5 1 0 4 3 2
+p686
+aVCharles Smith SAS 12/01/2001 SAS @ HOU W 1 1 0 0 - 0 0 - 1 2 50.0 0 0 0 0 0 0 0 0 -2
+p687
+aVMalik Rose SAS 12/01/2001 SAS @ HOU W 14 0 0 4 0.0 0 0 - 0 0 - 1 1 2 0 0 0 1 3 -5
+p688
+aVSteven Smith SAS 12/01/2001 SAS @ HOU W 29 13 4 8 50.0 2 2 100.0 3 4 75.0 0 5 5 2 1 0 4 0 3
+p689
+aVTim Duncan SAS 12/01/2001 SAS @ HOU W 39 25 11 18 61.1 0 0 - 3 5 60.0 3 9 12 3 4 4 3 2 13
+p690
+aVAmal McCaskill SAS 12/01/2001 SAS @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 1 0 0 0 -2
+p691
+aVTony Parker SAS 12/01/2001 SAS @ HOU W 26 8 2 6 33.3 1 2 50.0 3 4 75.0 1 3 4 5 0 0 4 3 5
+p692
+aVAntonio Daniels SAS 12/01/2001 SAS @ HOU W 21 8 2 7 28.6 2 3 66.7 2 2 100.0 0 1 1 2 0 0 0 1 6
+p693
+aVTerry Porter SAS 12/01/2001 SAS @ HOU W 22 11 4 8 50.0 1 1 100.0 2 2 100.0 0 2 2 3 3 0 1 1 5
+p694
+aVDavid Robinson SAS 12/01/2001 SAS @ HOU W 41 12 5 13 38.5 0 0 - 2 2 100.0 2 8 10 1 1 1 1 2 16
+p695
+aVBruce Bowen SAS 12/01/2001 SAS @ HOU W 24 1 0 4 0.0 0 0 - 1 2 50.0 1 1 2 0 1 0 0 2 10
+p696
+aVDanny Ferry SAS 12/01/2001 SAS @ HOU W 21 6 1 5 20.0 1 3 33.3 3 4 75.0 0 2 2 1 0 0 1 0 3
+p697
+aVCherokee Parks SAS 12/01/2001 SAS @ HOU W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -2
+p698
+aVTim Duncan SAS 11/30/2001 SAS vs. SAC L 49 38 13 23 56.5 0 0 - 12 13 92.3 0 11 11 2 1 2 3 3 0
+p699
+aVAntonio Daniels SAS 11/30/2001 SAS vs. SAC L 31 14 6 12 50.0 1 3 33.3 1 1 100.0 0 3 3 2 0 1 0 0 -3
+p700
+aVTony Parker SAS 11/30/2001 SAS vs. SAC L 33 8 3 8 37.5 0 2 0.0 2 2 100.0 1 2 3 4 2 0 4 2 -7
+p701
+aVBruce Bowen SAS 11/30/2001 SAS vs. SAC L 34 6 2 8 25.0 0 2 0.0 2 2 100.0 1 2 3 0 2 1 1 4 -5
+p702
+aVDavid Robinson SAS 11/30/2001 SAS vs. SAC L 24 10 4 11 36.4 0 0 - 2 3 66.7 3 9 12 1 0 1 2 6 -2
+p703
+aVMalik Rose SAS 11/30/2001 SAS vs. SAC L 33 8 4 10 40.0 0 0 - 0 0 - 6 4 10 2 0 1 1 5 -2
+p704
+aVCherokee Parks SAS 11/30/2001 SAS vs. SAC L 5 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 0 2 0
+p705
+aVDanny Ferry SAS 11/30/2001 SAS vs. SAC L 7 0 0 2 0.0 0 2 0.0 0 0 - 0 0 0 0 0 0 0 1 0
+p706
+aVTerry Porter SAS 11/30/2001 SAS vs. SAC L 25 10 4 6 66.7 0 1 0.0 2 2 100.0 0 1 1 2 0 0 0 3 1
+p707
+aVSteven Smith SAS 11/30/2001 SAS vs. SAC L 24 10 2 6 33.3 1 2 50.0 5 5 100.0 1 2 3 0 0 0 2 4 3
+p708
+aVDavid Robinson SAS 11/28/2001 SAS vs. GSW W 28 19 7 16 43.8 0 0 - 5 6 83.3 8 4 12 0 1 1 0 3 15
+p709
+aVBruce Bowen SAS 11/28/2001 SAS vs. GSW W 30 3 1 7 14.3 1 5 20.0 0 2 0.0 1 2 3 0 0 3 0 2 3
+p710
+aVCharles Smith SAS 11/28/2001 SAS vs. GSW W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -1
+p711
+aVDanny Ferry SAS 11/28/2001 SAS vs. GSW W 13 5 2 3 66.7 1 2 50.0 0 0 - 0 0 0 0 0 0 0 1 11
+p712
+aVTerry Porter SAS 11/28/2001 SAS vs. GSW W 16 0 0 6 0.0 0 3 0.0 0 0 - 1 0 1 4 0 1 1 2 13
+p713
+aVAntonio Daniels SAS 11/28/2001 SAS vs. GSW W 23 11 3 5 60.0 2 2 100.0 3 3 100.0 0 2 2 3 0 0 2 3 8
+p714
+aVAmal McCaskill SAS 11/28/2001 SAS vs. GSW W 6 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 1 3 1 -6
+p715
+aVMalik Rose SAS 11/28/2001 SAS vs. GSW W 25 14 5 6 83.3 0 0 - 4 4 100.0 2 9 11 1 2 2 4 2 8
+p716
+aVTim Duncan SAS 11/28/2001 SAS vs. GSW W 40 16 6 17 35.3 0 0 - 4 5 80.0 3 9 12 5 1 4 3 4 3
+p717
+aVCherokee Parks SAS 11/28/2001 SAS vs. GSW W 2 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -1
+p718
+aVTony Parker SAS 11/28/2001 SAS vs. GSW W 32 11 3 9 33.3 0 3 0.0 5 6 83.3 0 1 1 2 5 0 0 3 -2
+p719
+aVSteven Smith SAS 11/28/2001 SAS vs. GSW W 24 11 4 10 40.0 1 1 100.0 2 2 100.0 2 2 4 1 1 0 1 1 4
+p720
+aVTim Duncan SAS 11/24/2001 SAS @ MIN L 44 21 7 20 35.0 0 0 - 7 9 77.8 5 13 18 8 1 1 0 2 -4
+p721
+aVAntonio Daniels SAS 11/24/2001 SAS @ MIN L 25 12 4 11 36.4 1 3 33.3 3 4 75.0 0 5 5 2 0 1 0 1 1
+p722
+aVSteven Smith SAS 11/24/2001 SAS @ MIN L 35 11 4 8 50.0 1 2 50.0 2 4 50.0 1 1 2 4 0 0 1 3 -10
+p723
+aVTerry Porter SAS 11/24/2001 SAS @ MIN L 16 1 0 2 0.0 0 1 0.0 1 2 50.0 0 0 0 3 1 0 0 0 11
+p724
+aVBruce Bowen SAS 11/24/2001 SAS @ MIN L 21 9 3 9 33.3 1 4 25.0 2 2 100.0 1 1 2 1 0 0 0 0 -11
+p725
+aVDavid Robinson SAS 11/24/2001 SAS @ MIN L 26 17 7 9 77.8 0 0 - 3 5 60.0 0 6 6 0 0 2 2 5 5
+p726
+aVMalik Rose SAS 11/24/2001 SAS @ MIN L 22 4 2 8 25.0 0 0 - 0 0 - 2 2 4 0 0 2 4 3 -9
+p727
+aVTony Parker SAS 11/24/2001 SAS @ MIN L 38 19 6 14 42.9 4 6 66.7 3 4 75.0 1 2 3 4 3 0 1 4 -12
+p728
+aVDanny Ferry SAS 11/24/2001 SAS @ MIN L 9 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 1 3
+p729
+aVCherokee Parks SAS 11/24/2001 SAS @ MIN L 3 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 1 2 1
+p730
+aVDanny Ferry SAS 11/23/2001 SAS @ IND W 18 5 2 7 28.6 1 5 20.0 0 0 - 0 5 5 0 0 0 0 0 19
+p731
+aVCherokee Parks SAS 11/23/2001 SAS @ IND W 5 0 0 2 0.0 0 0 - 0 0 - 1 3 4 0 0 0 0 1 1
+p732
+aVMalik Rose SAS 11/23/2001 SAS @ IND W 14 2 0 6 0.0 0 1 0.0 2 2 100.0 3 4 7 0 0 1 2 4 5
+p733
+aVDavid Robinson SAS 11/23/2001 SAS @ IND W 33 8 2 3 66.7 0 0 - 4 6 66.7 4 6 10 1 0 1 1 2 13
+p734
+aVBruce Bowen SAS 11/23/2001 SAS @ IND W 19 9 4 11 36.4 1 4 25.0 0 0 - 1 1 2 1 1 1 1 3 -1
+p735
+aVSteven Smith SAS 11/23/2001 SAS @ IND W 30 10 3 7 42.9 1 3 33.3 3 3 100.0 0 3 3 2 0 1 1 1 8
+p736
+aVAmal McCaskill SAS 11/23/2001 SAS @ IND W 2 2 1 2 50.0 0 0 - 0 0 - 0 1 1 0 0 0 0 1 0
+p737
+aVTony Parker SAS 11/23/2001 SAS @ IND W 30 9 3 9 33.3 2 4 50.0 1 5 20.0 0 2 2 4 1 0 4 2 0
+p738
+aVTim Duncan SAS 11/23/2001 SAS @ IND W 42 30 11 24 45.8 0 0 - 8 9 88.9 6 12 18 5 0 3 4 4 17
+p739
+aVTerry Porter SAS 11/23/2001 SAS @ IND W 17 9 2 5 40.0 1 2 50.0 4 4 100.0 2 3 5 4 2 0 2 1 12
+p740
+aVAntonio Daniels SAS 11/23/2001 SAS @ IND W 28 11 3 6 50.0 1 3 33.3 4 4 100.0 0 5 5 0 1 0 1 1 16
+p741
+aVCharles Smith SAS 11/23/2001 SAS @ IND W 2 2 1 1 100.0 0 0 - 0 0 - 0 0 0 1 0 0 0 0 0
+p742
+aVCharles Smith SAS 11/21/2001 SAS vs. SEA W 12 0 0 5 0.0 0 3 0.0 0 0 - 0 1 1 0 0 1 0 2 -5
+p743
+aVDanny Ferry SAS 11/21/2001 SAS vs. SEA W 5 3 1 1 100.0 1 1 100.0 0 0 - 1 1 2 2 0 0 1 0 -9
+p744
+aVMalik Rose SAS 11/21/2001 SAS vs. SEA W 20 11 3 4 75.0 0 0 - 5 6 83.3 1 3 4 1 0 0 2 3 14
+p745
+aVAmal McCaskill SAS 11/21/2001 SAS vs. SEA W 10 5 2 2 100.0 0 0 - 1 4 25.0 1 1 2 0 0 0 0 0 -11
+p746
+aVTerry Porter SAS 11/21/2001 SAS vs. SEA W 21 9 3 5 60.0 3 5 60.0 0 0 - 0 2 2 4 0 0 1 2 13
+p747
+aVTony Parker SAS 11/21/2001 SAS vs. SEA W 27 13 3 10 30.0 1 3 33.3 6 8 75.0 2 5 7 7 3 0 3 4 4
+p748
+aVDavid Robinson SAS 11/21/2001 SAS vs. SEA W 22 12 5 6 83.3 0 0 - 2 2 100.0 2 2 4 1 0 3 1 1 13
+p749
+aVAntonio Daniels SAS 11/21/2001 SAS vs. SEA W 20 6 3 8 37.5 0 3 0.0 0 0 - 0 0 0 2 1 0 0 1 10
+p750
+aVTim Duncan SAS 11/21/2001 SAS vs. SEA W 34 30 14 17 82.4 0 0 - 2 2 100.0 5 8 13 4 0 3 2 1 28
+p751
+aVCherokee Parks SAS 11/21/2001 SAS vs. SEA W 11 4 2 5 40.0 0 0 - 0 0 - 2 0 2 1 0 0 0 2 -10
+p752
+aVBruce Bowen SAS 11/21/2001 SAS vs. SEA W 29 4 2 6 33.3 0 2 0.0 0 0 - 1 4 5 0 1 1 3 2 12
+p753
+aVSteven Smith SAS 11/21/2001 SAS vs. SEA W 31 13 5 10 50.0 3 7 42.9 0 0 - 0 1 1 5 1 0 3 2 26
+p754
+aVStephen Jackson SAS 11/16/2001 SAS vs. CLE W 4 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 2 1 -1
+p755
+aVMalik Rose SAS 11/16/2001 SAS vs. CLE W 32 18 7 15 46.7 0 0 - 4 4 100.0 5 6 11 0 2 0 2 2 26
+p756
+aVAntonio Daniels SAS 11/16/2001 SAS vs. CLE W 26 9 3 4 75.0 1 2 50.0 2 4 50.0 0 2 2 3 0 1 1 0 30
+p757
+aVDanny Ferry SAS 11/16/2001 SAS vs. CLE W 8 2 1 3 33.3 0 2 0.0 0 0 - 1 2 3 1 0 0 0 2 -3
+p758
+aVBruce Bowen SAS 11/16/2001 SAS vs. CLE W 26 10 3 6 50.0 1 1 100.0 3 6 50.0 1 4 5 1 1 0 1 2 4
+p759
+aVAmal McCaskill SAS 11/16/2001 SAS vs. CLE W 3 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 0 0 -3
+p760
+aVDavid Robinson SAS 11/16/2001 SAS vs. CLE W 21 7 2 9 22.2 0 0 - 3 4 75.0 4 5 9 1 1 1 3 1 -7
+p761
+aVTerry Porter SAS 11/16/2001 SAS vs. CLE W 17 6 2 2 100.0 2 2 100.0 0 0 - 0 2 2 4 0 0 0 1 27
+p762
+aVTony Parker SAS 11/16/2001 SAS vs. CLE W 28 2 1 5 20.0 0 2 0.0 0 0 - 0 1 1 8 0 1 0 4 -10
+p763
+aVTim Duncan SAS 11/16/2001 SAS vs. CLE W 41 27 10 14 71.4 0 0 - 7 8 87.5 1 5 6 5 0 2 3 2 12
+p764
+aVSteven Smith SAS 11/16/2001 SAS vs. CLE W 35 22 8 15 53.3 6 6 100.0 0 0 - 0 1 1 1 2 0 1 1 -5
+p765
+aVTim Duncan SAS 11/13/2001 SAS vs. HOU W 40 19 7 21 33.3 0 0 - 5 6 83.3 5 4 9 2 2 0 3 2 3
+p766
+aVSteven Smith SAS 11/13/2001 SAS vs. HOU W 29 13 6 10 60.0 0 1 0.0 1 1 100.0 3 3 6 3 1 1 1 3 1
+p767
+aVDavid Robinson SAS 11/13/2001 SAS vs. HOU W 36 11 5 12 41.7 0 0 - 1 2 50.0 1 6 7 0 0 4 0 4 0
+p768
+aVTerry Porter SAS 11/13/2001 SAS vs. HOU W 20 9 3 5 60.0 2 3 66.7 1 2 50.0 0 2 2 1 0 0 2 0 -13
+p769
+aVTony Parker SAS 11/13/2001 SAS vs. HOU W 35 14 4 11 36.4 2 6 33.3 4 4 100.0 1 4 5 4 2 0 4 3 9
+p770
+aVAntonio Daniels SAS 11/13/2001 SAS vs. HOU W 25 10 4 8 50.0 2 3 66.7 0 0 - 2 2 4 3 2 0 0 2 8
+p771
+aVMalik Rose SAS 11/13/2001 SAS vs. HOU W 19 8 3 8 37.5 0 0 - 2 2 100.0 2 2 4 0 1 1 3 1 5
+p772
+aVBruce Bowen SAS 11/13/2001 SAS vs. HOU W 26 4 1 5 20.0 1 4 25.0 1 2 50.0 0 2 2 0 0 0 0 1 -2
+p773
+aVDanny Ferry SAS 11/13/2001 SAS vs. HOU W 9 2 0 0 - 0 0 - 2 2 100.0 0 3 3 0 0 0 0 2 9
+p774
+aVTerry Porter SAS 11/10/2001 SAS vs. ATL W 17 6 1 2 50.0 1 2 50.0 3 4 75.0 0 3 3 6 2 0 1 2 9
+p775
+aVBruce Bowen SAS 11/10/2001 SAS vs. ATL W 17 8 3 7 42.9 2 3 66.7 0 2 0.0 0 1 1 1 0 0 2 4 -9
+p776
+aVDanny Ferry SAS 11/10/2001 SAS vs. ATL W 11 2 1 4 25.0 0 0 - 0 0 - 1 0 1 1 0 0 0 1 1
+p777
+aVAmal McCaskill SAS 11/10/2001 SAS vs. ATL W 10 4 2 4 50.0 0 0 - 0 0 - 1 0 1 0 1 1 1 0 3
+p778
+aVAntonio Daniels SAS 11/10/2001 SAS vs. ATL W 31 14 4 9 44.4 2 4 50.0 4 5 80.0 0 3 3 5 2 0 0 0 21
+p779
+aVDavid Robinson SAS 11/10/2001 SAS vs. ATL W 22 14 5 8 62.5 0 0 - 4 4 100.0 3 1 4 2 1 1 1 2 21
+p780
+aVMalik Rose SAS 11/10/2001 SAS vs. ATL W 17 5 2 4 50.0 0 0 - 1 2 50.0 0 1 1 0 2 1 3 3 3
+p781
+aVCherokee Parks SAS 11/10/2001 SAS vs. ATL W 6 2 1 1 100.0 0 0 - 0 0 - 0 1 1 0 0 0 1 2 4
+p782
+aVTim Duncan SAS 11/10/2001 SAS vs. ATL W 40 20 6 11 54.5 0 1 0.0 8 8 100.0 3 10 13 1 0 4 4 0 13
+p783
+aVStephen Jackson SAS 11/10/2001 SAS vs. ATL W 4 4 2 3 66.7 0 1 0.0 0 0 - 0 0 0 1 0 0 0 2 1
+p784
+aVTony Parker SAS 11/10/2001 SAS vs. ATL W 38 19 8 14 57.1 3 7 42.9 0 0 - 0 4 4 8 2 0 1 5 21
+p785
+aVSteven Smith SAS 11/10/2001 SAS vs. ATL W 26 12 3 8 37.5 3 4 75.0 3 3 100.0 1 2 3 1 0 0 2 1 22
+p786
+aVDanny Ferry SAS 11/08/2001 SAS @ CHH W 13 2 1 1 100.0 0 0 - 0 0 - 0 2 2 1 0 0 0 1 -8
+p787
+aVMalik Rose SAS 11/08/2001 SAS @ CHH W 21 11 4 7 57.1 0 0 - 3 5 60.0 1 5 6 2 0 0 2 4 9
+p788
+aVTerry Porter SAS 11/08/2001 SAS @ CHH W 22 11 4 7 57.1 3 3 100.0 0 0 - 0 5 5 5 0 3 0 1 7
+p789
+aVSteven Smith SAS 11/08/2001 SAS @ CHH W 23 6 2 5 40.0 0 0 - 2 2 100.0 0 1 1 3 0 0 1 2 4
+p790
+aVBruce Bowen SAS 11/08/2001 SAS @ CHH W 34 4 2 5 40.0 0 1 0.0 0 0 - 0 4 4 5 1 1 1 3 17
+p791
+aVDavid Robinson SAS 11/08/2001 SAS @ CHH W 26 11 3 4 75.0 0 0 - 5 10 50.0 1 4 5 0 1 1 2 5 -2
+p792
+aVTim Duncan SAS 11/08/2001 SAS @ CHH W 45 33 14 23 60.9 0 0 - 5 9 55.6 4 12 16 3 0 0 2 2 15
+p793
+aVTony Parker SAS 11/08/2001 SAS @ CHH W 38 22 8 16 50.0 4 7 57.1 2 2 100.0 0 4 4 5 0 0 0 1 9
+p794
+aVAntonio Daniels SAS 11/08/2001 SAS @ CHH W 17 5 2 8 25.0 1 3 33.3 0 0 - 0 0 0 3 0 0 1 0 1
+p795
+aVCherokee Parks SAS 11/08/2001 SAS @ CHH W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 1 -2
+p796
+aVStephen Jackson SAS 11/06/2001 SAS vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 1 -2
+p797
+aVTim Duncan SAS 11/06/2001 SAS vs. ORL W 43 26 11 16 68.8 0 0 - 4 9 44.4 3 11 14 3 1 3 3 3 16
+p798
+aVMalik Rose SAS 11/06/2001 SAS vs. ORL W 22 15 6 11 54.5 0 0 - 3 7 42.9 6 1 7 1 2 2 3 3 7
+p799
+aVAntonio Daniels SAS 11/06/2001 SAS vs. ORL W 28 7 3 6 50.0 0 2 0.0 1 2 50.0 0 3 3 4 0 1 1 3 5
+p800
+aVSteven Smith SAS 11/06/2001 SAS vs. ORL W 21 3 1 3 33.3 0 1 0.0 1 1 100.0 0 2 2 1 0 1 1 3 9
+p801
+aVBruce Bowen SAS 11/06/2001 SAS vs. ORL W 32 6 2 5 40.0 1 3 33.3 1 2 50.0 0 1 1 2 1 0 3 3 10
+p802
+aVTony Parker SAS 11/06/2001 SAS vs. ORL W 32 12 2 9 22.2 1 3 33.3 7 9 77.8 1 2 3 4 2 1 3 2 10
+p803
+aVCherokee Parks SAS 11/06/2001 SAS vs. ORL W 3 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p804
+aVDanny Ferry SAS 11/06/2001 SAS vs. ORL W 11 11 3 3 100.0 3 3 100.0 2 2 100.0 0 0 0 2 0 0 0 0 8
+p805
+aVDavid Robinson SAS 11/06/2001 SAS vs. ORL W 25 17 7 10 70.0 0 0 - 3 5 60.0 1 4 5 1 2 1 1 3 11
+p806
+aVAmal McCaskill SAS 11/06/2001 SAS vs. ORL W 3 4 1 1 100.0 0 0 - 2 4 50.0 1 1 2 0 0 0 1 1 -2
+p807
+aVTerry Porter SAS 11/06/2001 SAS vs. ORL W 16 3 1 4 25.0 1 2 50.0 0 0 - 0 2 2 5 1 1 1 1 5
+p808
+aVBruce Bowen SAS 11/04/2001 SAS @ SAC L 27 10 4 13 30.8 0 1 0.0 2 4 50.0 3 2 5 1 3 0 1 0 -8
+p809
+aVMalik Rose SAS 11/04/2001 SAS @ SAC L 19 8 3 6 50.0 0 0 - 2 2 100.0 2 3 5 0 0 0 1 1 -12
+p810
+aVAntonio Daniels SAS 11/04/2001 SAS @ SAC L 29 11 4 10 40.0 1 3 33.3 2 2 100.0 0 3 3 3 4 0 2 2 -9
+p811
+aVAmal McCaskill SAS 11/04/2001 SAS @ SAC L 22 4 2 5 40.0 0 0 - 0 1 0.0 3 1 4 1 2 1 2 5 2
+p812
+aVTony Parker SAS 11/04/2001 SAS @ SAC L 23 9 3 8 37.5 0 3 0.0 3 4 75.0 1 1 2 2 1 0 2 2 -9
+p813
+aVDanny Ferry SAS 11/04/2001 SAS @ SAC L 5 0 0 2 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 1 -7
+p814
+aVCherokee Parks SAS 11/04/2001 SAS @ SAC L 7 0 0 3 0.0 0 0 - 0 0 - 0 2 2 0 0 0 0 0 1
+p815
+aVStephen Jackson SAS 11/04/2001 SAS @ SAC L 16 6 3 9 33.3 0 0 - 0 0 - 1 1 2 2 2 0 0 1 -5
+p816
+aVDavid Robinson SAS 11/04/2001 SAS @ SAC L 16 2 0 8 0.0 0 0 - 2 4 50.0 2 3 5 0 0 1 1 1 -13
+p817
+aVSteven Smith SAS 11/04/2001 SAS @ SAC L 29 10 4 9 44.4 2 3 66.7 0 0 - 2 1 3 1 0 1 2 3 -19
+p818
+aVTerry Porter SAS 11/04/2001 SAS @ SAC L 16 6 2 4 50.0 0 0 - 2 3 66.7 0 2 2 3 0 0 2 1 -3
+p819
+aVTim Duncan SAS 11/04/2001 SAS @ SAC L 33 17 5 12 41.7 0 0 - 7 8 87.5 2 11 13 1 0 3 1 3 -18
+p820
+aVAntonio Daniels SAS 11/03/2001 SAS @ POR W 22 2 0 3 0.0 0 2 0.0 2 2 100.0 0 4 4 5 0 0 1 0 1
+p821
+aVTerry Porter SAS 11/03/2001 SAS @ POR W 15 8 3 7 42.9 2 5 40.0 0 0 - 0 1 1 2 0 0 0 3 9
+p822
+aVBruce Bowen SAS 11/03/2001 SAS @ POR W 31 5 2 9 22.2 0 3 0.0 1 2 50.0 1 5 6 1 0 0 2 1 5
+p823
+aVStephen Jackson SAS 11/03/2001 SAS @ POR W 1 0 0 0 - 0 0 - 0 0 - 0 1 1 0 0 0 0 0 0
+p824
+aVDavid Robinson SAS 11/03/2001 SAS @ POR W 38 5 2 7 28.6 0 0 - 1 2 50.0 2 5 7 2 0 3 2 2 9
+p825
+aVTony Parker SAS 11/03/2001 SAS @ POR W 26 15 5 12 41.7 3 6 50.0 2 4 50.0 1 1 2 6 1 0 1 0 15
+p826
+aVDanny Ferry SAS 11/03/2001 SAS @ POR W 13 3 1 1 100.0 1 1 100.0 0 0 - 0 3 3 0 0 0 0 3 6
+p827
+aVCherokee Parks SAS 11/03/2001 SAS @ POR W 1 0 0 1 0.0 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p828
+aVMalik Rose SAS 11/03/2001 SAS @ POR W 12 3 0 4 0.0 0 0 - 3 4 75.0 3 3 6 0 1 0 0 2 7
+p829
+aVAmal McCaskill SAS 11/03/2001 SAS @ POR W 4 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 2 0 1 -1
+p830
+aVSteven Smith SAS 11/03/2001 SAS @ POR W 36 36 13 19 68.4 8 8 100.0 2 2 100.0 0 2 2 1 1 0 2 3 12
+p831
+aVTim Duncan SAS 11/03/2001 SAS @ POR W 40 29 10 16 62.5 0 0 - 9 11 81.8 4 11 15 5 1 5 2 3 14
+p832
+aVSteven Smith SAS 11/01/2001 SAS @ SEA L 34 11 2 9 22.2 1 3 33.3 6 6 100.0 1 1 2 4 0 1 2 3 -8
+p833
+aVAntonio Daniels SAS 11/01/2001 SAS @ SEA L 41 21 6 14 42.9 2 4 50.0 7 7 100.0 0 3 3 3 0 0 0 3 -1
+p834
+aVTony Parker SAS 11/01/2001 SAS @ SEA L 7 2 1 2 50.0 0 0 - 0 0 - 1 1 2 0 0 0 1 1 -5
+p835
+aVDavid Robinson SAS 11/01/2001 SAS @ SEA L 28 17 5 8 62.5 0 0 - 7 9 77.8 3 5 8 0 3 0 0 2 0
+p836
+aVBruce Bowen SAS 11/01/2001 SAS @ SEA L 28 5 2 6 33.3 1 3 33.3 0 0 - 1 3 4 2 0 1 2 3 1
+p837
+aVDanny Ferry SAS 11/01/2001 SAS @ SEA L 14 7 2 2 100.0 2 2 100.0 1 1 100.0 0 0 0 0 0 0 0 2 -3
+p838
+aVTerry Porter SAS 11/01/2001 SAS @ SEA L 22 9 3 7 42.9 1 3 33.3 2 3 66.7 0 2 2 3 0 0 0 1 -8
+p839
+aVTim Duncan SAS 11/01/2001 SAS @ SEA L 45 22 6 18 33.3 0 0 - 10 14 71.4 5 8 13 4 0 1 4 1 -2
+p840
+aVMalik Rose SAS 11/01/2001 SAS @ SEA L 21 14 5 7 71.4 0 0 - 4 6 66.7 1 2 3 1 2 0 2 5 -4
+p841
+aVSteven Smith SAS 10/30/2001 SAS vs. LAC W 32 19 6 12 50.0 2 4 50.0 5 5 100.0 2 1 3 1 1 0 1 2 4
+p842
+aVBruce Bowen SAS 10/30/2001 SAS vs. LAC W 27 6 2 9 22.2 2 4 50.0 0 2 0.0 3 1 4 3 0 0 1 1 5
+p843
+aVMalik Rose SAS 10/30/2001 SAS vs. LAC W 25 15 6 9 66.7 0 0 - 3 6 50.0 2 2 4 2 1 0 2 2 10
+p844
+aVTim Duncan SAS 10/30/2001 SAS vs. LAC W 42 15 5 14 35.7 0 0 - 5 5 100.0 3 10 13 3 0 6 5 4 19
+p845
+aVAntonio Daniels SAS 10/30/2001 SAS vs. LAC W 28 17 5 10 50.0 2 5 40.0 5 6 83.3 0 2 2 1 2 0 2 3 -4
+p846
+aVTony Parker SAS 10/30/2001 SAS vs. LAC W 21 9 3 8 37.5 2 3 66.7 1 2 50.0 1 2 3 3 2 0 1 2 12
+p847
+aVStephen Jackson SAS 10/30/2001 SAS vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 -3
+p848
+aVDavid Robinson SAS 10/30/2001 SAS vs. LAC W 28 11 4 5 80.0 0 0 - 3 8 37.5 3 6 9 1 1 1 0 4 -4
+p849
+aVAmal McCaskill SAS 10/30/2001 SAS vs. LAC W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -3
+p850
+aVTerry Porter SAS 10/30/2001 SAS vs. LAC W 21 10 3 7 42.9 2 5 40.0 2 2 100.0 0 2 2 6 0 1 2 3 14
+p851
+aVDanny Ferry SAS 10/30/2001 SAS vs. LAC W 14 7 3 6 50.0 1 3 33.3 0 0 - 0 2 2 1 0 0 1 3 5
+p852
+a.

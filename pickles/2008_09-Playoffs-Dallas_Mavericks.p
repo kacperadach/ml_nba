@@ -1,0 +1,220 @@
+(lp0
+VPLAYER TEAM DATE MATCHUP W/L MIN PTS FGM FGA FG% 3PM 3PA 3P% FTM FTA FT% OREB DREB REB AST STL BLK TOV PF +/-
+p1
+aVJames Singleton DAL 05/13/2009 DAL @ DEN L 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -2
+p2
+aVRyan Hollins DAL 05/13/2009 DAL @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p3
+aVErick Dampier DAL 05/13/2009 DAL @ DEN L 24 6 3 3 100.0 0 0 - 0 0 - 1 1 2 0 1 0 0 3 -7
+p4
+aVGerald Green DAL 05/13/2009 DAL @ DEN L 1 0 0 0 - 0 0 - 0 2 0.0 0 0 0 0 0 0 0 0 0
+p5
+aVMatt Carroll DAL 05/13/2009 DAL @ DEN L 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p6
+aVJ.J. Barea DAL 05/13/2009 DAL @ DEN L 17 7 3 5 60.0 1 3 33.3 0 0 - 0 2 2 1 0 0 0 1 -2
+p7
+aVJason Terry DAL 05/13/2009 DAL @ DEN L 34 11 4 13 30.8 3 10 30.0 0 0 - 0 1 1 1 2 0 2 4 -16
+p8
+aVDirk Nowitzki DAL 05/13/2009 DAL @ DEN L 45 32 9 17 52.9 2 5 40.0 12 12 100.0 3 7 10 7 0 1 5 5 -11
+p9
+aVBrandon Bass DAL 05/13/2009 DAL @ DEN L 25 17 5 9 55.6 0 0 - 7 8 87.5 4 3 7 1 1 0 0 3 -8
+p10
+aVJason Kidd DAL 05/13/2009 DAL @ DEN L 44 19 6 10 60.0 5 9 55.6 2 2 100.0 0 3 3 9 1 1 5 3 -10
+p11
+aVAntoine Wright DAL 05/13/2009 DAL @ DEN L 15 4 2 4 50.0 0 1 0.0 0 0 - 1 1 2 3 0 0 0 0 -2
+p12
+aVJosh Howard DAL 05/13/2009 DAL @ DEN L 33 14 6 13 46.2 1 6 16.7 1 5 20.0 0 3 3 1 0 0 1 3 -12
+p13
+aVJason Terry DAL 05/11/2009 DAL vs. DEN W 31 12 3 7 42.9 1 4 25.0 5 7 71.4 1 2 3 3 0 0 0 5 10
+p14
+aVJosh Howard DAL 05/11/2009 DAL vs. DEN W 34 21 7 18 38.9 0 4 0.0 7 8 87.5 3 8 11 2 1 0 3 3 -6
+p15
+aVDirk Nowitzki DAL 05/11/2009 DAL vs. DEN W 44 44 14 25 56.0 0 0 - 16 17 94.1 1 12 13 3 2 1 4 1 11
+p16
+aVErick Dampier DAL 05/11/2009 DAL vs. DEN W 23 0 0 1 0.0 0 0 - 0 0 - 2 2 4 1 0 1 5 6 -3
+p17
+aVJames Singleton DAL 05/11/2009 DAL vs. DEN W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -7
+p18
+aVJason Kidd DAL 05/11/2009 DAL vs. DEN W 41 13 4 8 50.0 2 5 40.0 3 4 75.0 0 10 10 6 3 0 1 4 5
+p19
+aVBrandon Bass DAL 05/11/2009 DAL vs. DEN W 28 11 4 6 66.7 0 0 - 3 3 100.0 1 5 6 0 1 1 0 4 3
+p20
+aVAntoine Wright DAL 05/11/2009 DAL vs. DEN W 21 8 3 6 50.0 0 1 0.0 2 2 100.0 1 0 1 1 2 0 1 5 -10
+p21
+aVJ.J. Barea DAL 05/11/2009 DAL vs. DEN W 17 10 5 8 62.5 0 0 - 0 2 0.0 0 2 2 1 0 0 0 1 7
+p22
+aVJason Kidd DAL 05/09/2009 DAL vs. DEN L 41 13 5 9 55.6 1 2 50.0 2 2 100.0 1 4 5 5 0 1 1 2 -1
+p23
+aVRyan Hollins DAL 05/09/2009 DAL vs. DEN L 12 2 0 2 0.0 0 0 - 2 4 50.0 0 4 4 0 0 1 1 2 -14
+p24
+aVDirk Nowitzki DAL 05/09/2009 DAL vs. DEN L 38 33 9 19 47.4 2 5 40.0 13 15 86.7 2 14 16 2 0 2 1 2 3
+p25
+aVErick Dampier DAL 05/09/2009 DAL vs. DEN L 17 2 1 2 50.0 0 0 - 0 0 - 1 2 3 2 0 1 2 4 6
+p26
+aVAntoine Wright DAL 05/09/2009 DAL vs. DEN L 20 8 3 5 60.0 0 2 0.0 2 3 66.7 0 0 0 2 0 0 0 5 4
+p27
+aVGerald Green DAL 05/09/2009 DAL vs. DEN L 9 0 0 4 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 0 3 -6
+p28
+aVJason Terry DAL 05/09/2009 DAL vs. DEN L 33 17 5 12 41.7 2 4 50.0 5 6 83.3 0 4 4 1 0 0 2 1 -9
+p29
+aVJosh Howard DAL 05/09/2009 DAL vs. DEN L 29 14 5 15 33.3 0 1 0.0 4 5 80.0 2 5 7 1 1 1 3 5 10
+p30
+aVBrandon Bass DAL 05/09/2009 DAL vs. DEN L 25 16 2 5 40.0 0 0 - 12 14 85.7 3 2 5 1 0 0 0 0 3
+p31
+aVJ.J. Barea DAL 05/09/2009 DAL vs. DEN L 12 0 0 2 0.0 0 0 - 0 0 - 1 0 1 1 0 0 0 0 0
+p32
+aVJames Singleton DAL 05/09/2009 DAL vs. DEN L 4 0 0 0 - 0 0 - 0 0 - 1 0 1 0 0 1 0 3 -1
+p33
+aVAntoine Wright DAL 05/05/2009 DAL @ DEN L 30 10 3 5 60.0 1 3 33.3 3 4 75.0 1 2 3 1 1 1 0 4 -1
+p34
+aVDirk Nowitzki DAL 05/05/2009 DAL @ DEN L 40 35 11 20 55.0 1 2 50.0 12 13 92.3 1 8 9 4 0 0 3 2 -3
+p35
+aVErick Dampier DAL 05/05/2009 DAL @ DEN L 19 4 2 4 50.0 0 0 - 0 1 0.0 2 2 4 0 0 0 1 5 -5
+p36
+aVJ.J. Barea DAL 05/05/2009 DAL @ DEN L 20 5 2 5 40.0 0 1 0.0 1 2 50.0 1 2 3 3 0 0 1 1 -18
+p37
+aVGerald Green DAL 05/05/2009 DAL @ DEN L 2 5 1 2 50.0 1 2 50.0 2 2 100.0 0 0 0 0 1 0 0 0 5
+p38
+aVJason Kidd DAL 05/05/2009 DAL @ DEN L 38 4 1 6 16.7 1 5 20.0 1 2 50.0 0 6 6 7 2 0 2 3 -9
+p39
+aVJames Singleton DAL 05/05/2009 DAL @ DEN L 14 5 2 5 40.0 1 2 50.0 0 0 - 0 2 2 0 0 0 1 2 -9
+p40
+aVJason Terry DAL 05/05/2009 DAL @ DEN L 39 21 7 18 38.9 3 8 37.5 4 6 66.7 2 1 3 6 0 0 2 1 -21
+p41
+aVRyan Hollins DAL 05/05/2009 DAL @ DEN L 14 8 4 4 100.0 0 0 - 0 0 - 1 3 4 0 0 0 0 5 -4
+p42
+aVBrandon Bass DAL 05/05/2009 DAL @ DEN L 16 8 4 6 66.7 0 0 - 0 0 - 1 1 2 0 0 0 0 3 -6
+p43
+aVMatt Carroll DAL 05/05/2009 DAL @ DEN L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 5
+p44
+aVJosh Howard DAL 05/05/2009 DAL @ DEN L 6 0 0 3 0.0 0 0 - 0 0 - 0 1 1 2 0 0 1 2 6
+p45
+aVBrandon Bass DAL 05/03/2009 DAL @ DEN L 13 2 1 4 25.0 0 0 - 0 0 - 1 1 2 2 2 0 0 4 -4
+p46
+aVJ.J. Barea DAL 05/03/2009 DAL @ DEN L 23 4 2 4 50.0 0 2 0.0 0 0 - 1 1 2 5 1 0 1 2 2
+p47
+aVJason Terry DAL 05/03/2009 DAL @ DEN L 32 15 6 13 46.2 3 7 42.9 0 0 - 0 5 5 1 1 1 4 1 -20
+p48
+aVRyan Hollins DAL 05/03/2009 DAL @ DEN L 17 6 2 4 50.0 0 0 - 2 2 100.0 3 3 6 0 0 0 1 5 -9
+p49
+aVJason Kidd DAL 05/03/2009 DAL @ DEN L 38 15 6 10 60.0 2 3 66.7 1 2 50.0 0 4 4 4 4 0 8 2 -13
+p50
+aVDirk Nowitzki DAL 05/03/2009 DAL @ DEN L 41 28 12 22 54.5 0 1 0.0 4 5 80.0 2 8 10 4 2 1 2 2 -11
+p51
+aVAntoine Wright DAL 05/03/2009 DAL @ DEN L 15 3 1 1 100.0 1 1 100.0 0 0 - 0 0 0 1 0 0 1 5 -10
+p52
+aVGerald Green DAL 05/03/2009 DAL @ DEN L 3 2 1 3 33.3 0 0 - 0 0 - 0 0 0 0 0 0 0 0 3
+p53
+aVJosh Howard DAL 05/03/2009 DAL @ DEN L 33 15 7 16 43.8 0 4 0.0 1 2 50.0 0 2 2 0 0 0 1 3 -4
+p54
+aVJames Singleton DAL 05/03/2009 DAL @ DEN L 4 2 1 1 100.0 0 0 - 0 0 - 0 0 0 0 0 0 0 1 2
+p55
+aVErick Dampier DAL 05/03/2009 DAL @ DEN L 22 3 1 4 25.0 0 0 - 1 2 50.0 3 3 6 0 0 0 2 4 -6
+p56
+aVJason Terry DAL 04/28/2009 DAL @ SAS W 33 19 7 14 50.0 3 5 60.0 2 2 100.0 0 2 2 4 0 0 0 2 -3
+p57
+aVJason Kidd DAL 04/28/2009 DAL @ SAS W 41 12 4 11 36.4 4 9 44.4 0 0 - 1 2 3 5 3 0 0 4 12
+p58
+aVDirk Nowitzki DAL 04/28/2009 DAL @ SAS W 42 31 11 17 64.7 1 1 100.0 8 8 100.0 2 7 9 3 1 0 2 2 11
+p59
+aVJosh Howard DAL 04/28/2009 DAL @ SAS W 37 17 6 11 54.5 1 3 33.3 4 4 100.0 3 5 8 1 3 1 4 2 11
+p60
+aVAntoine Wright DAL 04/28/2009 DAL @ SAS W 7 0 0 0 - 0 0 - 0 0 - 0 0 0 1 0 0 0 0 1
+p61
+aVJ.J. Barea DAL 04/28/2009 DAL @ SAS W 26 10 3 9 33.3 1 2 50.0 3 4 75.0 0 5 5 5 1 0 1 1 18
+p62
+aVRyan Hollins DAL 04/28/2009 DAL @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 2
+p63
+aVBrandon Bass DAL 04/28/2009 DAL @ SAS W 13 6 3 6 50.0 0 0 - 0 0 - 0 1 1 0 0 0 1 3 1
+p64
+aVErick Dampier DAL 04/28/2009 DAL @ SAS W 41 11 4 6 66.7 0 0 - 3 7 42.9 4 8 12 1 0 1 2 4 12
+p65
+aVRyan Hollins DAL 04/25/2009 DAL vs. SAS W 19 2 1 2 50.0 0 0 - 0 2 0.0 4 4 8 0 0 3 0 4 8
+p66
+aVJason Kidd DAL 04/25/2009 DAL vs. SAS W 40 17 4 10 40.0 3 7 42.9 6 6 100.0 3 4 7 7 2 0 0 3 10
+p67
+aVJosh Howard DAL 04/25/2009 DAL vs. SAS W 36 28 7 14 50.0 3 6 50.0 11 13 84.6 0 4 4 1 1 0 4 1 12
+p68
+aVErick Dampier DAL 04/25/2009 DAL vs. SAS W 24 10 2 4 50.0 0 0 - 6 6 100.0 4 2 6 1 1 0 4 5 -5
+p69
+aVJason Terry DAL 04/25/2009 DAL vs. SAS W 33 10 3 17 17.6 1 6 16.7 3 4 75.0 1 2 3 0 1 1 2 1 10
+p70
+aVJames Singleton DAL 04/25/2009 DAL vs. SAS W 0 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 0
+p71
+aVAntoine Wright DAL 04/25/2009 DAL vs. SAS W 11 9 3 5 60.0 2 4 50.0 1 1 100.0 0 0 0 0 0 1 0 2 1
+p72
+aVDirk Nowitzki DAL 04/25/2009 DAL vs. SAS W 41 12 4 9 44.4 0 0 - 4 5 80.0 0 13 13 1 1 1 3 2 2
+p73
+aVJ.J. Barea DAL 04/25/2009 DAL vs. SAS W 25 9 3 8 37.5 1 2 50.0 2 2 100.0 0 2 2 4 0 0 1 2 -6
+p74
+aVBrandon Bass DAL 04/25/2009 DAL vs. SAS W 12 2 1 4 25.0 0 0 - 0 0 - 2 4 6 1 0 0 0 1 13
+p75
+aVGerald Green DAL 04/23/2009 DAL vs. SAS W 7 0 0 3 0.0 0 2 0.0 0 0 - 0 1 1 0 0 0 0 1 -9
+p76
+aVJames Singleton DAL 04/23/2009 DAL vs. SAS W 12 5 2 3 66.7 1 2 50.0 0 2 0.0 1 2 3 0 0 0 0 1 -18
+p77
+aVJ.J. Barea DAL 04/23/2009 DAL vs. SAS W 33 13 5 8 62.5 1 2 50.0 2 2 100.0 0 1 1 7 1 0 1 1 36
+p78
+aVJason Kidd DAL 04/23/2009 DAL vs. SAS W 27 3 1 6 16.7 1 3 33.3 0 0 - 1 7 8 6 2 0 1 1 26
+p79
+aVJosh Howard DAL 04/23/2009 DAL vs. SAS W 27 17 6 12 50.0 1 4 25.0 4 4 100.0 0 8 8 0 2 2 1 2 27
+p80
+aVBrandon Bass DAL 04/23/2009 DAL vs. SAS W 21 10 4 7 57.1 0 0 - 2 2 100.0 0 5 5 0 1 2 1 3 5
+p81
+aVAntoine Wright DAL 04/23/2009 DAL vs. SAS W 18 6 2 8 25.0 2 4 50.0 0 0 - 1 2 3 1 0 0 2 2 -10
+p82
+aVJason Terry DAL 04/23/2009 DAL vs. SAS W 24 10 4 9 44.4 2 4 50.0 0 0 - 0 4 4 2 1 0 3 1 4
+p83
+aVDirk Nowitzki DAL 04/23/2009 DAL vs. SAS W 27 20 8 12 66.7 0 1 0.0 4 4 100.0 0 7 7 2 0 1 1 1 29
+p84
+aVRyan Hollins DAL 04/23/2009 DAL vs. SAS W 14 0 0 1 0.0 0 0 - 0 0 - 0 0 0 1 1 0 1 4 -11
+p85
+aVErick Dampier DAL 04/23/2009 DAL vs. SAS W 23 2 1 1 100.0 0 0 - 0 2 0.0 2 7 9 1 0 3 1 2 37
+p86
+aVMatt Carroll DAL 04/23/2009 DAL vs. SAS W 9 2 1 2 50.0 0 0 - 0 0 - 0 2 2 0 0 0 1 1 -11
+p87
+aVBrandon Bass DAL 04/20/2009 DAL @ SAS L 21 8 2 4 50.0 0 0 - 4 4 100.0 0 3 3 2 1 1 1 0 -6
+p88
+aVRyan Hollins DAL 04/20/2009 DAL @ SAS L 6 4 1 1 100.0 0 0 - 2 2 100.0 1 1 2 0 0 0 0 2 0
+p89
+aVJason Kidd DAL 04/20/2009 DAL @ SAS L 39 14 6 10 60.0 2 3 66.7 0 0 - 0 4 4 5 3 1 1 1 -21
+p90
+aVJames Singleton DAL 04/20/2009 DAL @ SAS L 5 0 0 1 0.0 0 1 0.0 0 0 - 0 0 0 0 0 0 1 1 1
+p91
+aVDirk Nowitzki DAL 04/20/2009 DAL @ SAS L 39 14 3 14 21.4 0 4 0.0 8 9 88.9 0 6 6 3 2 0 0 1 -14
+p92
+aVJ.J. Barea DAL 04/20/2009 DAL @ SAS L 23 5 2 8 25.0 1 2 50.0 0 0 - 0 2 2 4 0 0 1 1 -21
+p93
+aVMatt Carroll DAL 04/20/2009 DAL @ SAS L 2 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 1
+p94
+aVGerald Green DAL 04/20/2009 DAL @ SAS L 5 4 2 2 100.0 0 0 - 0 0 - 0 1 1 0 0 0 2 0 1
+p95
+aVJosh Howard DAL 04/20/2009 DAL @ SAS L 30 7 3 8 37.5 0 0 - 1 2 50.0 1 2 3 2 0 0 2 3 -15
+p96
+aVJason Terry DAL 04/20/2009 DAL @ SAS L 31 16 6 15 40.0 2 6 33.3 2 3 66.7 1 1 2 1 1 0 1 2 -11
+p97
+aVErick Dampier DAL 04/20/2009 DAL @ SAS L 23 9 3 5 60.0 0 0 - 3 3 100.0 2 2 4 0 2 2 1 3 -13
+p98
+aVAntoine Wright DAL 04/20/2009 DAL @ SAS L 16 3 1 4 25.0 1 2 50.0 0 0 - 0 1 1 0 0 0 0 3 -7
+p99
+aVDirk Nowitzki DAL 04/18/2009 DAL @ SAS W 38 19 7 15 46.7 0 2 0.0 5 5 100.0 1 7 8 2 1 1 2 3 5
+p100
+aVJames Singleton DAL 04/18/2009 DAL @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 0 0 -4
+p101
+aVAntoine Wright DAL 04/18/2009 DAL @ SAS W 15 8 3 5 60.0 1 3 33.3 1 1 100.0 1 2 3 0 0 0 0 4 8
+p102
+aVJosh Howard DAL 04/18/2009 DAL @ SAS W 29 25 9 18 50.0 2 4 50.0 5 6 83.3 1 3 4 3 1 0 1 0 -3
+p103
+aVJason Kidd DAL 04/18/2009 DAL @ SAS W 39 4 1 3 33.3 0 1 0.0 2 2 100.0 1 7 8 5 2 0 1 1 0
+p104
+aVJ.J. Barea DAL 04/18/2009 DAL @ SAS W 26 13 6 14 42.9 0 2 0.0 1 1 100.0 0 0 0 3 0 0 0 3 17
+p105
+aVBrandon Bass DAL 04/18/2009 DAL @ SAS W 18 14 7 9 77.8 0 0 - 0 0 - 1 3 4 0 1 0 1 1 12
+p106
+aVJason Terry DAL 04/18/2009 DAL @ SAS W 35 12 4 8 50.0 2 5 40.0 2 2 100.0 1 0 1 0 0 1 0 0 5
+p107
+aVRyan Hollins DAL 04/18/2009 DAL @ SAS W 1 0 0 0 - 0 0 - 0 0 - 0 0 0 0 0 0 1 0 0
+p108
+aVErick Dampier DAL 04/18/2009 DAL @ SAS W 39 10 5 6 83.3 0 0 - 0 0 - 4 7 11 1 0 1 1 5 0
+p109
+a.
