@@ -112,4 +112,12 @@ ALL_TEAM_ABBR = [
 	'DAL',
 	'HOU'
 ]
+
+NOT_TEAM_ABBR = [
+	'Jr.',
+	'III',
+	'II',
+	'IV',
+	'a'
+]
 	

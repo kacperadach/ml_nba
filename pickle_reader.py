@@ -8,16 +8,13 @@ from cassandra.cqlengine.management import sync_table
 from cassandra.cqlengine import ValidationError
 
 from models import PlayerGameLog
-from options import TEAMS, SEASON_TYPES, TEAM_ABBR
+from options import TEAMS, SEASON_TYPES, TEAM_ABBR, NOT_TEAM_ABBR
 from cluster import CassandraConnector, connect_to_cluster
 
-NOT_TEAM_ABBR = [
-	'Jr.',
-	'III',
-	'II',
-	'IV',
-	'a'
-]
+
+def start_connection():
+	connection.setup(['127.0.0.1'], 'nba', protocol_version=3)
+	sync_table(PlayerGameLog)
 
 DIRPATH = dirpath='/home/kacper/apps/ml_nba/pickles'
 
@@ -35,12 +32,33 @@ def get_data_file_names():
 	return os.listdir(DIRPATH)
 
 
+def hm_names(row):
+
+	def isAllUpper(name):
+		for letter in name:
+			if str.islower(letter):
+				return False
+		return True
+
+	def isInvalidName(name):
+		return isAllUpper(name) and name not in NOT_TEAM_ABBR
+
+	if isInvalidName(row[1]) and len(row[1]) <= 3:
+		return 1, row[1][2:]
+	elif isInvalidName(row[2]) and len(row[2]) <= 3:
+		return 2, row[1][2:] + ' ' + row[1]
+	else:
+		return 3, row[1][2:] + ' ' + row[1] + ' ' + row[2]
+
+
 def create_gamelog(row, season_type):
 
 	try:
-		name = row[0][2:] + ' ' + row[1] if len(row[2]) <= 3 else row[0][2:] + ' ' + row[1] + ' ' + row[2]
-
-		if len(row[2]) > 3:
+		num_names, name = hm_names(row)
+		
+		if num_names == 1:
+			row = [0] + row
+		elif num_names == 3:
 			del row[2]
 
 		team = row[2]
@@ -85,17 +103,18 @@ def create_gamelog(row, season_type):
 			pf = strip_value(row[26]),
 			pm = strip_value(row[27])
 		)
-	except:
+	except Exception as e:
 		Tracer()()
 
 
 def main():
 	file_names = get_data_file_names()
 
-	cc = CassandraConnector(ip_addr_list=['127.0.0.1'], keyspace='nba', tables=[PlayerGameLog])
+	#cc = CassandraConnector(ip_addr_list=['127.0.0.1'], keyspace='nba', tables=[PlayerGameLog])
 	#cc.sync_tables()
-	sync_table(PlayerGameLog)
+	#sync_table(PlayerGameLog)
 	#connect_to_cluster(keyspace='nba', tables=[PlayerGameLog])
+	start_connection()
 	for fname in file_names:
 		with open('pickles/{}'.format(fname), 'rb') as f:
 			_, season_type, _ = get_info_from_filename(fname)
