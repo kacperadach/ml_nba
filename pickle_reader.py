@@ -29,8 +29,7 @@ def get_info_from_filename(file_name):
 	return season, season_type, team
 
 def get_data_file_names():
-	return os.listdir(DIRPATH)
-
+	return sorted(os.listdir(DIRPATH), key = lambda x: int(x[0:4]))
 
 def hm_names(row):
 
@@ -43,23 +42,45 @@ def hm_names(row):
 	def isInvalidName(name):
 		return isAllUpper(name) and name not in NOT_TEAM_ABBR
 
-	if isInvalidName(row[1]) and len(row[1]) <= 3:
-		return 1, row[1][2:]
+	if isInvalidName(row[0]) and len(row[0]) <= 3:
+		return 0, None
+	elif isInvalidName(row[1]) and len(row[1]) <= 3:
+		return 1, row[0]
 	elif isInvalidName(row[2]) and len(row[2]) <= 3:
-		return 2, row[1][2:] + ' ' + row[1]
+		return 2, row[0] + ' ' + row[1]
+	elif isInvalidName(row[3]):
+		return 3, row[0] + ' ' + row[1] + ' ' + row[2]
 	else:
-		return 3, row[1][2:] + ' ' + row[1] + ' ' + row[2]
+		return 4, row[0] + ' ' + row[1] + ' ' + row[2] + ' ' + row[3]
 
 
-def create_gamelog(row, season_type):
-
+def create_gamelog(row, season, season_type, team):
 	try:
 		num_names, name = hm_names(row)
+
+		# if row[0] == 'aVLAC':
+		# 	Tracer()()
+
+		# 1990-91 SUNS - Kurt Rambis 26 minutes
 		
-		if num_names == 1:
+		if num_names == 0:
+			if season == '1995-96' and team == TEAM_ABBR['BKN'] and season_type == 'Regular Season':
+				name = 'Robert Werdann'
+				row = ['Robert', 'Werdann'] + row
+				print 'Replaced Name with Robert Werdann'
+			elif season == '1990-91' and team == TEAM_ABBR['LAC'] and season_type == 'Regular Season':
+				name = 'Loy Vaught'
+				row = ['Loy', 'Vaught'] + row
+				print 'Replaced Name with Loy Vaught'
+			else:
+				Tracer()()
+		elif num_names == 1:
 			row = [0] + row
 		elif num_names == 3:
-			del row[2]
+			del row[0]
+		elif num_names == 4:
+			del row[0]
+			del row[0]
 
 		team = row[2]
 		date = datetime.strptime(row[3], '%m/%d/%Y')
@@ -73,7 +94,7 @@ def create_gamelog(row, season_type):
 			if '.' in value:
 				return float(value)
 			return int(value)
-	
+
 		PlayerGameLog.create(
 			name = name,
 			team = team,
@@ -106,7 +127,6 @@ def create_gamelog(row, season_type):
 	except Exception as e:
 		Tracer()()
 
-
 def main():
 	file_names = get_data_file_names()
 
@@ -114,17 +134,24 @@ def main():
 	#cc.sync_tables()
 	#sync_table(PlayerGameLog)
 	#connect_to_cluster(keyspace='nba', tables=[PlayerGameLog])
+	game_logs_created = 0
 	start_connection()
-	for fname in file_names:
+	index = 236
+	for fname in file_names[236:]:
 		with open('pickles/{}'.format(fname), 'rb') as f:
-			_, season_type, _ = get_info_from_filename(fname)
+			season, season_type, team = get_info_from_filename(fname)
 
 			lines = map(lambda x: x.split(), filter(lambda x: len(x) > 10, f.readlines()))
 
 			for gl in lines[1:]:
-				create_gamelog(gl, season_type)
-			print fname + ': '+ str(len(lines[1:]))
-	cc.stop()
+				gl[0] = gl[0][2:]
+				create_gamelog(gl, season, season_type, team)
+
+			print fname + ': '+ str(len(lines[1:])) + ' - ' + str(index)
+			game_logs_created += len(lines[1:])
+			index += 1
+
+	print game_logs_created + ' game logs created.'
 
 if __name__ == '__main__':
 	main()

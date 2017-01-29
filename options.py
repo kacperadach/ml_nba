@@ -50,7 +50,7 @@ TEAM_ABBR = {
 	'GSW': 'Golden State Warriors',
 	'HOU': 'Houston Rockets',
 	'IND': 'Indiana Pacers',
-	'LAC': 'Los Angeles Clippers',
+	'LAC': 'LA Clippers',
 	'LAL': 'Los Angeles Lakers',
 	'MEM': 'Memphis Grizzlies',
 	'MIA': 'Miami Heat',
@@ -118,6 +118,6 @@ NOT_TEAM_ABBR = [
 	'III',
 	'II',
 	'IV',
-	'a'
+	'T.'
 ]
 	
