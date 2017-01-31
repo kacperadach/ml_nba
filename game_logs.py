@@ -24,6 +24,16 @@ season_button_label = '.multiselect-info'
 options_label = '.multiselect-box__option'
 pagination_button_label = '.querytool-pagination__more'
 
+def open_logs(season, season_type, team):
+    driver = get_page_driver(BASE_URL)
+    #soup = BS(driver.page_source, 'html.parser')
+    close_stat_filter(driver)
+    select_options(driver, season, season_type, team)
+    press_run_button(driver)
+    open_all_logs(driver)
+    rows = get_table_rows(driver)
+    Tracer()()
+
 def read_game_logs(season, season_type, team):
     driver = get_page_driver(BASE_URL)
     #soup = BS(driver.page_source, 'html.parser')
@@ -130,5 +140,6 @@ def main():
         second = second + timedelta(366)
 
 if __name__ == "__main__":
-    main()
+    open_logs('2007-08', 'Regular Season', 'Los Angeles Lakers')
+    #main()
     
