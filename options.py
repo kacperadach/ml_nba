@@ -118,6 +118,10 @@ NOT_TEAM_ABBR = [
 	'III',
 	'II',
 	'IV',
-	'T.'
+	'T.',
+	'DJ',
+	'JJ',
+	'R.',
+	'JR'
 ]
 	
