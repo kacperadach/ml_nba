@@ -11,7 +11,7 @@ from cassandra.cqlengine import ValidationError
 
 class PlayerGameLog(Model):
 	name = Text(required=True, primary_key=True)
-	team = Text(required=True, primary_key=True)
+	team = Text(required=True)
 	date = Date(primary_key=True, clustering_order="DESC")
 	home = Boolean(required=True)
 	opp = Text(required=True)
@@ -40,6 +40,21 @@ class PlayerGameLog(Model):
 
 	def validate(self):
 		super(PlayerGameLog, self).validate()
+
+
+class Game(Model):
+	id = UUID(primary_key=True)
+	home_team = Text(required=True)
+	away_team = Text(required=True)
+	date = Date(primary_key=True, clustering_order="ASC")
+	outcome = Text(required=True)
+	season_type = Text(required=True)
+
+	def validate(self):
+		super(Game, self).validate()
+
+
+#class Player(Model):
 
 
 

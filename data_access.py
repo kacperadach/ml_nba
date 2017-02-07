@@ -4,6 +4,8 @@ from datetime import datetime
 from cluster import connect_to_cluster, disconnect_from_cluster
 from models import PlayerGameLog
 
+PM_START_DATE = '1997-11-01'
+
 def get_player_logs(name, team=None, opp=None, date=None, limit=100):
 	
 	cluster, session = connect_to_cluster(keyspace='nba')
@@ -18,11 +20,12 @@ def get_player_logs(name, team=None, opp=None, date=None, limit=100):
 	return rows
 
 def get_stat_labels():
-	return 'minutes, points, fgm, fga, fgp, tm, ta, tp, ftm, fta, ftp, oreb, dreb, reb, ast, stl, blk, tov, pf, pm'
+	#return 'minutes, points, fgm, fga, fgp, tm, ta, tp, ftm, fta, ftp, oreb, dreb, reb, ast, stl, blk, tov, pf, pm'
+	return 'minutes, points, fgm, fga, tm, ta, ftm, fta, oreb, dreb, reb, ast, stl, blk, tov, pf, pm'
 
-def get_logs_for_clustering(name, limit=100):
+def get_logs_for_clustering(limit=1000000):
 	cluster, session = connect_to_cluster(keyspace='nba')
-	cql_query = "SELECT {} FROM player_game_log WHERE name = '{}' LIMIT {} ALLOW FILTERING".format(get_stat_labels(), name, limit)
+	cql_query = "SELECT {} FROM player_game_log WHERE date > '{}' LIMIT {} ALLOW FILTERING".format(get_stat_labels(), PM_START_DATE, limit)
 	rows = map(lambda x: x, session.execute(cql_query))
 	disconnect_from_cluster(cluster)
 	return rows
