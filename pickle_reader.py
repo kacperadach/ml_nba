@@ -93,6 +93,7 @@ def create_gamelog(row, season, season_type, team):
 		home = home,
 		opp = opp,
 		win = win,
+		season = season,
 		season_type = season_type,
 		minutes = strip_value(row[8]),
 		points = strip_value(row[9]),
@@ -132,6 +133,7 @@ def main():
 				gl[0] = gl[0][2:] # removes 'aV' from first element of each row
 				try:
 					create_gamelog(gl, season, season_type, team)
+					game_logs_created += 1 
 				except:
 					Tracer()()
 					pass

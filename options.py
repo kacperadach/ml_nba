@@ -127,6 +127,7 @@ NOT_TEAM_ABBR = [
 	'PJ',
 	'TJ',
 	'KJ',
-	'RJ'
+	'RJ',
+	'AJ'
 ]
 	
