@@ -122,10 +122,8 @@ def create_year_str(first, second):
 
 def main():
     #1984-85 - 2016-17
-    #first = date(year=1985, month=1, day=1)
-    #second = date(year=1986, month=1, day=1)
-    first = date(year=2009, month=1, day=1)
-    second = date(year=2010, month=1, day=1)
+    first = date(year=1985, month=1, day=1)
+    second = date(year=1986, month=1, day=1)
     while first.year < 2017:
         season = create_year_str(first, second)
         for season_type in SEASON_TYPES:

@@ -55,11 +55,13 @@ class Game(Model):
 	playoffs = Boolean(required=True)
 	season = Text(required=True)
 
-	home_rest = Integer()	# number of games past X days
-	away_rest = Integer()
+	# cassandra.cqlengine.columns.Set
 
-	home_success = Integer()	# recent record past X games
-	away_success = Integer()
+	# home_rest = Integer()	# number of games past X days
+	# away_rest = Integer()
+
+	# home_success = Integer()	# recent record past X games
+	# away_success = Integer()
 
 	home_wins = Integer()
 	home_losses = Integer()
@@ -83,34 +85,3 @@ class Game(Model):
 
 
 #class Player(Model):
-
-
-
-
-
-
-# class CurrencyPair(Model):
-#     id = UUID(primary_key=True, default=uuid.uuid4)
-#     base = Text(required=True)
-#     counter = Text(required=True)
-
-#     def validate(self):
-#         super(CurrencyPair, self).validate()
-#         if self.base not in CURRENCIES or self.counter not in CURRENCIES:
-#             raise ValidationError('Invalid Currency Pair: {}/{}'.format(self.base, self.counter))
-
-
-# class CurrencyPairValue(Model):
-# 	base = Text(primary_key=True, required=True)
-# 	counter = Text(primary_key=True, required=True)
-# 	date = DateTime(primary_key=True, clustering_order="ASC")
-# 	open = Float()
-# 	close = Float()
-# 	high = Float()
-# 	low = Float()
-# 	volume = Float()
-
-# 	def validate(self):
-# 		super(CurrencyPairValue, self).validate()
-# 		if self.base not in CURRENCIES or self.counter not in CURRENCIES:
-# 		    raise ValidationError('Invalid Currency Pair: {}/{}'.format(self.base, self.counter))

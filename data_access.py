@@ -8,12 +8,26 @@ PM_START_DATE = '1997-11-01'
 
 def game_exists(home, away, date):
 	filter_dict = {
-		'=': ('home_team', home),
-		'=': ('away_team', away),
-		'=': ('date', date)
+		'home_team': home,
+		'away_team': away,
+		'date': date
 	}
 	count = make_query(make_query_string(count=True, model=Game, filter_dict=filter_dict))
 	return count == 1
+
+def get_season_games_for_team(team, season):
+	filter_dict = {
+		'season': season,
+		'home_team': team
+	}
+	home_games = make_query(make_query_string(model=Game, filter_dict=filter_dict))
+	filter_dict = {
+		'season': season,
+		'away_team': team
+	}
+	away_games = make_query(make_query_string(model=Game, filter_dict=filter_dict))
+	return home_games + away_games
+
 
 def make_query(query_string):
 	cluster, session = connect_to_cluster(keyspace='nba')
@@ -32,8 +46,12 @@ def make_query_string(model, columns=None, count=False, filter_dict={}, limit=No
 	cql_query = "SELECT {} FROM {}".format(seleted_columns, model.get_model_string())
 	if filter_dict:
 		cql_query += " WHERE"
+		count = 0
 		for key, value in filter_dict.items():
-			cql_query += " {} {} '{}'".format(value[0], key, value[1])
+			count += 1
+			cql_query += " {} = '{}'".format(key, value)
+			if count < len(filter_dict.keys()):
+				cql_query += " AND"
 	if limit:
 		cql_query += " LIMIT {}".format(limit)
 	if filter_dict:
@@ -42,11 +60,12 @@ def make_query_string(model, columns=None, count=False, filter_dict={}, limit=No
 
 
 def get_seasonal_player_logs(season):
-	filter_dict = {
-		'=': ('season', season)
-	}
+	filter_dict = {'season': season}
 	return make_query(make_query_string(model=PlayerGameLog, filter_dict=filter_dict))
 
+def get_seasonal_game_logs(season):
+	filter_dict = {'season': season}
+	return make_query(make_query_string(model=Game, filter_dict=filter_dict))
 
 def get_player_logs(name, team=None, opp=None, date=None, limit=100):
 	
