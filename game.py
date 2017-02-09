@@ -79,7 +79,7 @@ def update_game_records():
 		logs = get_seasonal_game_logs(season)
 		game_logs = split_games_by_team(logs)
 
-		print 'Updating Game Objects for {} season'.format(season)
+		print 'Updating Game Records for {} season'.format(season)
 		for key, value in game_logs.items():
 			wins, losses = 0, 0
 			for v in value:
