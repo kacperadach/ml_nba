@@ -3,7 +3,7 @@ import numpy as np
 
 from IPython.core.debugger import Tracer
 
-from data_access import get_season_games_for_team
+from data_access import get_season_games_for_team, get_player_logs
 
 # plt.plot([1,2,3,4])
 # plt.show()
@@ -33,9 +33,9 @@ def update_wins(win, team, gl):
 			return win+1
 
 
-def main():
+def wins():
 	
-	team = 'BOS'
+	team = 'GSW'
 	games = get_season_games_for_team(season='2015-16', team=team)
 	games = sorted(games, key=lambda x: x.date)
 	assert_ordered_games(games)
@@ -47,6 +47,23 @@ def main():
 
 	plt.scatter(x=[i for i in range(0,len(win_points))], y=win_points)
 	plt.show()
+	Tracer()()
+
+def main():
+	
+	team = 'GSW'
+	games = get_player_logs(name="Stephen Curry", season='2015-16')
+	games = sorted(games, key=lambda x: x.date)
+	assert_ordered_games(games)
+	data = [[], []]
+	for g in games:
+		data[0].append(g.minutes)
+		data[1].append(g.points)
+
+
+	plt.scatter(x=data[0], y=data[1])
+	plt.show()
+
 	Tracer()()
 
 

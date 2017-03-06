@@ -67,14 +67,12 @@ def get_seasonal_game_logs(season):
 	filter_dict = {'season': season}
 	return make_query(make_query_string(model=Game, filter_dict=filter_dict))
 
-def get_player_logs(name, team=None, opp=None, date=None, limit=100):
+def get_player_logs(name, team=None, opp=None, season=None, date=None, limit=100):
 	
 	cluster, session = connect_to_cluster(keyspace='nba')
 	cql_query = "SELECT * FROM player_game_log WHERE name = '{}'".format(name)
-	# if name:
-	# 	cql_query += " AND date >= '{}'".format(date_low)
-	# if date_high:
-	# 	cql_query += " AND date <= '{}'".format(date_high)
+	if season:
+		cql_query += " and season = '{}'".format(season)
 	cql_query += " LIMIT {} ALLOW FILTERING".format(limit)
 	rows = map(lambda x: x, session.execute(cql_query))
 	disconnect_from_cluster(cluster)
@@ -87,6 +85,13 @@ def get_stat_labels():
 def get_logs_for_clustering(limit=1000000):
 	cluster, session = connect_to_cluster(keyspace='nba')
 	cql_query = "SELECT {} FROM player_game_log WHERE date > '{}' LIMIT {} ALLOW FILTERING".format(get_stat_labels(), PM_START_DATE, limit)
+	rows = map(lambda x: x, session.execute(cql_query))
+	disconnect_from_cluster(cluster)
+	return rows
+
+def get_player_logs_for_clustering(name, limit=1000000):
+	cluster, session = connect_to_cluster(keyspace='nba')
+	cql_query = "SELECT {} FROM player_game_log WHERE name = '{}' and date > '{}' LIMIT {} ALLOW FILTERING".format(get_stat_labels(), name, PM_START_DATE, limit)
 	rows = map(lambda x: x, session.execute(cql_query))
 	disconnect_from_cluster(cluster)
 	return rows

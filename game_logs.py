@@ -26,7 +26,6 @@ pagination_button_label = '.querytool-pagination__more'
 
 def open_logs(season, season_type, team):
     driver = get_page_driver(BASE_URL)
-    #soup = BS(driver.page_source, 'html.parser')
     close_stat_filter(driver)
     select_options(driver, season, season_type, team)
     press_run_button(driver)

@@ -115,8 +115,6 @@ def update_game_records():
 		first = first + timedelta(366)
 		second = second + timedelta(366)
 
-
-
 if __name__ == '__main__':
 	create_games()
 	update_game_records()
