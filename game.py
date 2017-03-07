@@ -1,4 +1,5 @@
 from datetime import date, timedelta
+import pickle
 
 from cassandra.cqlengine import connection
 from cassandra.cqlengine.management import sync_table
@@ -6,8 +7,10 @@ from cassandra.cqlengine.management import sync_table
 from IPython.core.debugger import Tracer
 
 from models import Game
-from data_access import get_seasonal_player_logs, get_seasonal_game_logs
+from data_access import get_seasonal_player_logs, get_seasonal_game_logs, get_season_games, get_players_in_game
 from cluster import connect_to_cluster, disconnect_from_cluster
+from kmeans import strip_player_log_for_kmeans
+from util import get_seasons_from_str
 
 PM_START_DATE = '1997-11-01'
 
@@ -65,7 +68,6 @@ def create_games():
 					playoffs = False if v.season_type == 'Regular Season' else True,
 					season = v.season
 				)
-
 		first = first + timedelta(366)
 		second = second + timedelta(366)
 
@@ -115,6 +117,34 @@ def update_game_records():
 		first = first + timedelta(366)
 		second = second + timedelta(366)
 
+def update_players_for_games(start_season='1997-98'):
+	f_season, s_season = get_seasons_from_str(start_season)
+	kmeans = pickle.load(open('kmeans.p', 'rb'))
+	start_connection()
+	first = date(year=f_season, month=1, day=1)
+	second = date(year=s_season, month=1, day=1)
+	while first.year < 2017:
+		season = str(first.year) + '-' + str(second.year)[2:]
+		games = get_season_games(season)
+		print 'Updating players in game objects for {} season'.format(season)
+		for g in games:
+			home_players, away_players = get_players_in_game(g)
+			home_players = map(lambda x: kmeans.predict(strip_player_log_for_kmeans(x).reshape(1,-1))[0], home_players)
+			away_players = map(lambda x: kmeans.predict(strip_player_log_for_kmeans(x).reshape(1,-1))[0], away_players)
+			Game.objects(
+				home_team = g.home_team,
+				away_team = g.away_team,
+				date = g.date
+			).update(
+				home_players = home_players,
+				away_players = away_players
+			)
+		first = first + timedelta(366)
+		second = second + timedelta(366)
+
+
+
 if __name__ == '__main__':
 	create_games()
 	update_game_records()
+	update_players_for_games()

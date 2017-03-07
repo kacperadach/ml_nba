@@ -1,7 +1,7 @@
 import uuid
 from datetime import datetime
 
-from cassandra.cqlengine.columns import UUID, Text, DateTime, Float, Date, Integer, Boolean, Set
+from cassandra.cqlengine.columns import UUID, Text, DateTime, Float, Date, Integer, Boolean, List
 from cassandra.cqlengine.management import sync_table
 from cassandra.cqlengine.models import Model
 from cassandra.cqlengine import ValidationError
@@ -54,8 +54,8 @@ class Game(Model):
 	playoffs = Boolean(required=True)
 	season = Text(required=True)
 
-	home_players = Set(value_type=Integer)
-	away_players = Set(value_type=Integer)
+	home_players = List(value_type=Integer)
+	away_players = List(value_type=Integer)
 	# cassandra.cqlengine.columns.Set
 
 	# home_rest = Integer()	# number of games past X days

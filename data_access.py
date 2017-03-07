@@ -28,6 +28,26 @@ def get_season_games_for_team(team, season):
 	away_games = make_query(make_query_string(model=Game, filter_dict=filter_dict))
 	return home_games + away_games
 
+def get_season_games(season):
+	filter_dict = {
+		'season': season
+	}
+	games = make_query(make_query_string(model=Game, filter_dict=filter_dict))
+	return games
+
+def get_players_in_game(game):
+	filter_dict = {
+		'team': game.home_team,
+		'date': game.date
+	}
+	home_players = make_query(make_query_string(model=PlayerGameLog, filter_dict=filter_dict))
+	filter_dict = {
+		'team': game.away_team,
+		'date': game.date
+	}
+	away_players = make_query(make_query_string(model=PlayerGameLog, filter_dict=filter_dict))
+	return home_players, away_players
+
 
 def make_query(query_string):
 	cluster, session = connect_to_cluster(keyspace='nba')
