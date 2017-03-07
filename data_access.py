@@ -99,7 +99,6 @@ def get_player_logs(name, team=None, opp=None, season=None, date=None, limit=100
 	return rows
 
 def get_stat_labels():
-	#return 'minutes, points, fgm, fga, fgp, tm, ta, tp, ftm, fta, ftp, oreb, dreb, reb, ast, stl, blk, tov, pf, pm'
 	return 'minutes, points, fgm, fga, tm, ta, ftm, fta, oreb, dreb, reb, ast, stl, blk, tov, pf, pm'
 
 def get_logs_for_clustering(limit=1000000):
